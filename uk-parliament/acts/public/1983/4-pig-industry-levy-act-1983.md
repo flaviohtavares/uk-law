@@ -27,156 +27,156 @@ summary: ''
 
 *Extent: E+W+S*
 
-Pig Industry Levy Act 1983 *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+Pig Industry Levy Act 1983 *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
 1983 c. 4
 
-An Act to authorise the Meat and Livestock Commission to impose a levy for the purpose of meeting costs incurred by the Minister of Agriculture, Fisheries and Food in consequence of exercising any of his powers under the Animal Health Act 1981 in relation to the disease of pigs known as Aujeszky’s disease or in relation to pigs which are affected or suspected of being affected with, or have been exposed to the infection of, that disease and for the purpose of making certain additional compensation payments to the owners of such pigs in respect of losses incurred by them in consequence of action taken by the Minister in relation to those pigs under that Act; and to provide for the application of the proceeds of the levy for those and connected purposes and otherwise for the benefit of the pig industry or the pig products industry. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+An Act to authorise the Meat and Livestock Commission to impose a levy for the purpose of meeting costs incurred by the Minister of Agriculture, Fisheries and Food in consequence of exercising any of his powers under the Animal Health Act 1981 in relation to the disease of pigs known as Aujeszky’s disease or in relation to pigs which are affected or suspected of being affected with, or have been exposed to the infection of, that disease and for the purpose of making certain additional compensation payments to the owners of such pigs in respect of losses incurred by them in consequence of action taken by the Minister in relation to those pigs under that Act; and to provide for the application of the proceeds of the levy for those and connected purposes and otherwise for the benefit of the pig industry or the pig products industry. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-\[1st March 1983\] *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+\[1st March 1983\] *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-[^c756337][^c756338]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f][^key-531437df3804ac9686cd8c90e23d51e8]
+[^c756337][^c756338]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f][^c-531437df3804ac9686cd8c90e23d51e8]
 
-## 1. Levy on pig industry to meet costs of eradicating Aujeszky’s disease. (affected by repeal, see note)[^key-045dbfc98214184573ada2222434a69f]
-
-*Extent: E+W+S*
-
-(1) The following provisions of this section apply if— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-- (a) the Ministers direct that section 32 of the 1981 Act (slaughter of animals affected by diseases other than those mentioned in section 31) shall apply to the disease of pigs known as Aujeszky’s disease; or *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) that disease is one to which section 32 of that Act applies at the passing of this Act. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(2) Any costs incurred by the Minister (whether before or after the passing of this Act) in consequence of exercising any of his powers under the 1981 Act— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-- (a) in relation to Aujeszky’s disease; or *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) in relation to pigs which are affected or suspected of being affected with, or have been exposed to the infection of, that disease; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-may be met from the proceeds of a levy imposed in accordance with the following provisions of this section. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(3) The Meat and Livestock Commission (referred to below in this Act as “ *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**the Commission *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**”) may submit to the Ministers a scheme (referred to below in this Act as a pig industry levy scheme) for the imposition of charges for the purpose of— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-- (a) meeting any costs incurred by the Minister as mentioned in subsection (2) above; and *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) compensating the owners of any such pigs as are mentioned in that subsection in respect of losses incurred by them in consequence of action taken by the Minister in relation to those pigs under the 1981 Act; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-and for the recovery of such charges by the Commission in such manner and from such persons as may be specified in the scheme. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-References below in this Act to the levy purposes are references to the purposes mentioned above in this subsection. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(4) Subsections (2) to (11) of section 13 of the 1967 Act (levy on industries to meet Commission’s expenses) and section 14 of that Act (registration, returns and records for purposes of levy scheme under section 13) shall apply for the purposes of a pig industry levy scheme as they apply for the purposes of a levy scheme within the meaning of section 13, except that— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-- (a) references in those provisions to livestock and to livestock products shall be read as references respectively to pigs and to pig products; and *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) the reference in section 13(8) to that section shall be read as a reference to this section. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(5) Subject to the following provisions of this section and to section 2 of this Act, the proceeds of any levy imposed under a pig industry levy scheme (referred to below in this Act as the levy fund) shall be applied solely in making payments for the levy purposes. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(6) The Commission may make arrangements for payments to be made for the levy purposes by any other person and may for that purpose pay sums collected by them in pursuance of any such scheme to the person for the time being responsible in accordance with any such arrangements for making payments for the levy purposes. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(7) Without prejudice to the inclusion of any other provisions which appear to the Commission to be appropriate in any arrangements made by the Commission by virtue of subsection (6) above, any such arrangements— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-- (a) may provide for payments to be made for the levy purposes by the person so responsible otherwise than out of the levy fund at any time when the fund is insufficient to meet those payments; and *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) may provide for any expenses incurred by the person so responsible in making payments for the levy purposes in accordance with the arrangements (whether out of the levy fund or otherwise) to be met from the levy fund; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-and where before the passing of this Act the person so responsible has made payments for the levy purposes in accordance with arrangements made by the Minister, any arrangements made by the Commission by virtue of subsection (6) above may also provide for any expenses incurred by that person in doing so to be met from the levy fund. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(8) Any expenses incurred by the Commission— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-- (a) in collecting charges under any pig industry levy scheme; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) in making payments themselves for the levy purposes; or *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (c) for the purpose of any arrangements made by virtue of subsection (6) above; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-may be met from the levy fund. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-## 2. Ministerial control of payments by Commission out of levy. (affected by repeal, see note)[^key-045dbfc98214184573ada2222434a69f]
+## 1. Levy on pig industry to meet costs of eradicating Aujeszky’s disease. (affected by repeal, see note)[^c-045dbfc98214184573ada2222434a69f]
 
 *Extent: E+W+S*
 
-(1) The Commission may not— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(1) The following provisions of this section apply if— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-- (a) make payments themselves for the levy purposes out of sums collected by them in pursuance of a pig industry levy scheme; or *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) pay sums so collected to any person responsible in accordance with any arrangements made by the Commission by virtue of section 1(6) of this Act for making payments for the levy purposes; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+- (a) the Ministers direct that section 32 of the 1981 Act (slaughter of animals affected by diseases other than those mentioned in section 31) shall apply to the disease of pigs known as Aujeszky’s disease; or *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) that disease is one to which section 32 of that Act applies at the passing of this Act. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-except in accordance with directions given by the Minister under this section; and any such arrangements shall be subject to any such directions. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(2) Any costs incurred by the Minister (whether before or after the passing of this Act) in consequence of exercising any of his powers under the 1981 Act— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(2) Subject to subsection (3) below, the Minister may, by directions given to the Commission under this section— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+- (a) in relation to Aujeszky’s disease; or *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) in relation to pigs which are affected or suspected of being affected with, or have been exposed to the infection of, that disease; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-- (a) regulate the application of sums collected by the Commission in pursuance of any such scheme in either manner mentioned in subsection (1) above; and *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) require sums so collected which are for the time being surplus to requirements to be applied for such other purposes or dealt with in such other manner as may be specified in any such direction (after deduction of any expenses incurred by the Commission in complying with the direction). *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+may be met from the proceeds of a levy imposed in accordance with the following provisions of this section. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(3) The other purposes or manner mentioned in subsection (2)(b) above must be purposes or (as the case may be) a manner appearing to the Minister to be connected with, or beneficial to persons engaged in, the pig industry or the pig products industry. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(3) The Meat and Livestock Commission (referred to below in this Act as “ *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**the Commission *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**”) may submit to the Ministers a scheme (referred to below in this Act as a pig industry levy scheme) for the imposition of charges for the purpose of— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(4) Without prejudice to the generality of subsection (2) (a) above, any direction given by the Minister under this section with respect to the making by the Commission of payments out of sums collected by them in pursuance of any such scheme to any such person as is mentioned in subsection (1)(b) above may specify the terms on which any such payments by the Commission are to be made (including terms restricting in any manner specified in the direction the amounts of any payments to be made in pursuance of the arrangements in question for the purpose mentioned in section 1(3)(b) of this Act). *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+- (a) meeting any costs incurred by the Minister as mentioned in subsection (2) above; and *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) compensating the owners of any such pigs as are mentioned in that subsection in respect of losses incurred by them in consequence of action taken by the Minister in relation to those pigs under the 1981 Act; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(5) Any direction given by the Minister under this section— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+and for the recovery of such charges by the Commission in such manner and from such persons as may be specified in the scheme. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-- (a) may relate to payments of any description specified in the direction or to any particular payments so specified; and *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) may be varied or revoked by a subsequent direction under this section. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+References below in this Act to the levy purposes are references to the purposes mentioned above in this subsection. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(6) It shall be the duty of the Commission to comply with any directions given by the Minister under this section. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(4) Subsections (2) to (11) of section 13 of the 1967 Act (levy on industries to meet Commission’s expenses) and section 14 of that Act (registration, returns and records for purposes of levy scheme under section 13) shall apply for the purposes of a pig industry levy scheme as they apply for the purposes of a levy scheme within the meaning of section 13, except that— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(7) Sums collected by the Commission in pursuance of a pig industry levy scheme are surplus to requirements for the purposes of subsection (2)(b) above if they are not required for the levy purposes (having regard to any restriction on payments for the purpose mentioned in section 1(3)(b)of this Act required to be imposed by virtue of any direction given by the Minister under this section) or for meeting any expenses that may be met from the levy fund in accordance with section 1 of this Act. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+- (a) references in those provisions to livestock and to livestock products shall be read as references respectively to pigs and to pig products; and *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) the reference in section 13(8) to that section shall be read as a reference to this section. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(8) In subsection (3) above— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(5) Subject to the following provisions of this section and to section 2 of this Act, the proceeds of any levy imposed under a pig industry levy scheme (referred to below in this Act as the levy fund) shall be applied solely in making payments for the levy purposes. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-- “**the pig industry *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” means any part of the livestock industry (as defined by section 25 of the 1967 Act) that is concerned with pigs; and *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- “**the pig products industry *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” means any part of the livestock products industry (as so defined) that is concerned with pig products. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(6) The Commission may make arrangements for payments to be made for the levy purposes by any other person and may for that purpose pay sums collected by them in pursuance of any such scheme to the person for the time being responsible in accordance with any such arrangements for making payments for the levy purposes. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-## 3. Sums transferred by Commission for payment for the levy purposes to be held on trust for Commission. (affected by repeal, see note)[^key-045dbfc98214184573ada2222434a69f]
+(7) Without prejudice to the inclusion of any other provisions which appear to the Commission to be appropriate in any arrangements made by the Commission by virtue of subsection (6) above, any such arrangements— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-*Extent: E+W+S*
+- (a) may provide for payments to be made for the levy purposes by the person so responsible otherwise than out of the levy fund at any time when the fund is insufficient to meet those payments; and *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) may provide for any expenses incurred by the person so responsible in making payments for the levy purposes in accordance with the arrangements (whether out of the levy fund or otherwise) to be met from the levy fund; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(1) This section applies where in accordance with any arrangements made by the Commission by virtue of section 1(6) of this Act any sums collected by the Commission in pursuance of a pig industry levy scheme have been paid to the person for the time being responsible in accordance with those arrangements for making payments for the levy purposes. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+and where before the passing of this Act the person so responsible has made payments for the levy purposes in accordance with arrangements made by the Minister, any arrangements made by the Commission by virtue of subsection (6) above may also provide for any expenses incurred by that person in doing so to be met from the levy fund. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(2) In this section “ *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**available levy receipts *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” means any sums so paid which have not been applied in making payments for the levy purposes or in meeting expenses of the person so responsible that may be met from the levy fund and any investments or other property for the time being representing any such sums. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(8) Any expenses incurred by the Commission— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(3) Without prejudice to their application in accordance with the arrangements in making payments for the levy purposes, any available levy receipts for the time being held by the person so responsible (less any expenses of that person that may be met from the levy fund) shall be treated as held by that person on trust for the Commission. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+- (a) in collecting charges under any pig industry levy scheme; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) in making payments themselves for the levy purposes; or *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (c) for the purpose of any arrangements made by virtue of subsection (6) above; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-## 4. Supplementary provisions. (affected by repeal, see note)[^key-045dbfc98214184573ada2222434a69f]
+may be met from the levy fund. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(1) The duty of the Commission— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-- (a) under section 1A of the 1967 Act (duty to consult representative organisations); and *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- (b) under section 2 of that Act (duty to consult Consumers Committee); *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-shall not apply in relation to any matter arising or likely to arise out of the exercise of the Commission’s functions under this Act. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(2) Section 15(1) (b) of that Act (contributions by the Ministers to initial expenditure of the Commission in performing certain functions) shall not apply in relation to any expenditure incurred by the Commission in performing their functions under this Act. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(3) The reference in section 19(1) of that Act (Commission’s annual report) to the Commission’s functions under that Act shall be read as including a reference to their functions under this Act. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-(4) Section 24 of that Act (disclosure of information) shall apply in relation to returns or other information furnished or obtained by any person in pursuance of a requirement made under a pig industry levy scheme as it applies in relation to returns or other information furnished or obtained by any person in pursuance of a requirement made under a levy scheme within the meaning of section 13 of that Act. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-
-## 5. Short title, interpretation and extent. (affected by repeal, see note)[^key-045dbfc98214184573ada2222434a69f]
+## 2. Ministerial control of payments by Commission out of levy. (affected by repeal, see note)[^c-045dbfc98214184573ada2222434a69f]
 
 *Extent: E+W+S*
 
-(1) This Act may be cited as the Pig Industry Levy Act 1983. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(1) The Commission may not— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(2) In this Act— *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+- (a) make payments themselves for the levy purposes out of sums collected by them in pursuance of a pig industry levy scheme; or *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) pay sums so collected to any person responsible in accordance with any arrangements made by the Commission by virtue of section 1(6) of this Act for making payments for the levy purposes; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-- “**the Commission *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” has the meaning given by section 1(3) of this Act; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- “**the levy fund *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” has the meaning given by section 1(5) of this Act; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- “**the levy purposes *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” has the meaning given by section 1(3) of this Act; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- “**the Minister *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” and “ *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**the Ministers *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” have the meanings given by section 86(1) of the 1981 Act; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- “**pig industry levy scheme *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” has the meaning given by section 1(3) of this Act; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- “**pig product *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” means any livestock product (as defined by section 25 of the 1967 Act) derived from pigs; *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- “**the 1967 Act *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” means the *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f] [^c756339]Agricultural Act 1967; and *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
-- “**the 1981 Act *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]**” means the *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f] [^c756340]Animal Health Act 1981. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+except in accordance with directions given by the Minister under this section; and any such arrangements shall be subject to any such directions. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(3) References in this Act to sums collected by the Commission in pursuance of a pig industry levy scheme include references to any investments or other property for the time being representing any sums so collected (and references to the payment of or to payments out of such sums shall be construed accordingly). *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(2) Subject to subsection (3) below, the Minister may, by directions given to the Commission under this section— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(4) Subject to subsection (5) below, this Act does not extend to Northern Ireland. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+- (a) regulate the application of sums collected by the Commission in pursuance of any such scheme in either manner mentioned in subsection (1) above; and *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) require sums so collected which are for the time being surplus to requirements to be applied for such other purposes or dealt with in such other manner as may be specified in any such direction (after deduction of any expenses incurred by the Commission in complying with the direction). *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
-(5) Section 4(4) of this Act extends to Northern Ireland in so far as it applies in relation to returns or information furnished or obtained in pursuance of a pig industry levy scheme any provision of section 24 of the 1967 Act that extends to Northern Ireland. *(affected by repeal, see note)*[^key-045dbfc98214184573ada2222434a69f]
+(3) The other purposes or manner mentioned in subsection (2)(b) above must be purposes or (as the case may be) a manner appearing to the Minister to be connected with, or beneficial to persons engaged in, the pig industry or the pig products industry. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(4) Without prejudice to the generality of subsection (2) (a) above, any direction given by the Minister under this section with respect to the making by the Commission of payments out of sums collected by them in pursuance of any such scheme to any such person as is mentioned in subsection (1)(b) above may specify the terms on which any such payments by the Commission are to be made (including terms restricting in any manner specified in the direction the amounts of any payments to be made in pursuance of the arrangements in question for the purpose mentioned in section 1(3)(b) of this Act). *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(5) Any direction given by the Minister under this section— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+- (a) may relate to payments of any description specified in the direction or to any particular payments so specified; and *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) may be varied or revoked by a subsequent direction under this section. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(6) It shall be the duty of the Commission to comply with any directions given by the Minister under this section. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(7) Sums collected by the Commission in pursuance of a pig industry levy scheme are surplus to requirements for the purposes of subsection (2)(b) above if they are not required for the levy purposes (having regard to any restriction on payments for the purpose mentioned in section 1(3)(b)of this Act required to be imposed by virtue of any direction given by the Minister under this section) or for meeting any expenses that may be met from the levy fund in accordance with section 1 of this Act. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(8) In subsection (3) above— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+- “**the pig industry *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” means any part of the livestock industry (as defined by section 25 of the 1967 Act) that is concerned with pigs; and *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- “**the pig products industry *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” means any part of the livestock products industry (as so defined) that is concerned with pig products. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+## 3. Sums transferred by Commission for payment for the levy purposes to be held on trust for Commission. (affected by repeal, see note)[^c-045dbfc98214184573ada2222434a69f]
+
+*Extent: E+W+S*
+
+(1) This section applies where in accordance with any arrangements made by the Commission by virtue of section 1(6) of this Act any sums collected by the Commission in pursuance of a pig industry levy scheme have been paid to the person for the time being responsible in accordance with those arrangements for making payments for the levy purposes. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(2) In this section “ *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**available levy receipts *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” means any sums so paid which have not been applied in making payments for the levy purposes or in meeting expenses of the person so responsible that may be met from the levy fund and any investments or other property for the time being representing any such sums. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(3) Without prejudice to their application in accordance with the arrangements in making payments for the levy purposes, any available levy receipts for the time being held by the person so responsible (less any expenses of that person that may be met from the levy fund) shall be treated as held by that person on trust for the Commission. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+## 4. Supplementary provisions. (affected by repeal, see note)[^c-045dbfc98214184573ada2222434a69f]
+
+(1) The duty of the Commission— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+- (a) under section 1A of the 1967 Act (duty to consult representative organisations); and *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- (b) under section 2 of that Act (duty to consult Consumers Committee); *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+shall not apply in relation to any matter arising or likely to arise out of the exercise of the Commission’s functions under this Act. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(2) Section 15(1) (b) of that Act (contributions by the Ministers to initial expenditure of the Commission in performing certain functions) shall not apply in relation to any expenditure incurred by the Commission in performing their functions under this Act. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(3) The reference in section 19(1) of that Act (Commission’s annual report) to the Commission’s functions under that Act shall be read as including a reference to their functions under this Act. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(4) Section 24 of that Act (disclosure of information) shall apply in relation to returns or other information furnished or obtained by any person in pursuance of a requirement made under a pig industry levy scheme as it applies in relation to returns or other information furnished or obtained by any person in pursuance of a requirement made under a levy scheme within the meaning of section 13 of that Act. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+## 5. Short title, interpretation and extent. (affected by repeal, see note)[^c-045dbfc98214184573ada2222434a69f]
+
+*Extent: E+W+S*
+
+(1) This Act may be cited as the Pig Industry Levy Act 1983. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(2) In this Act— *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+- “**the Commission *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” has the meaning given by section 1(3) of this Act; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- “**the levy fund *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” has the meaning given by section 1(5) of this Act; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- “**the levy purposes *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” has the meaning given by section 1(3) of this Act; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- “**the Minister *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” and “ *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**the Ministers *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” have the meanings given by section 86(1) of the 1981 Act; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- “**pig industry levy scheme *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” has the meaning given by section 1(3) of this Act; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- “**pig product *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” means any livestock product (as defined by section 25 of the 1967 Act) derived from pigs; *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- “**the 1967 Act *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” means the *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f] [^c756339]Agricultural Act 1967; and *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+- “**the 1981 Act *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]**” means the *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f] [^c756340]Animal Health Act 1981. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(3) References in this Act to sums collected by the Commission in pursuance of a pig industry levy scheme include references to any investments or other property for the time being representing any sums so collected (and references to the payment of or to payments out of such sums shall be construed accordingly). *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(4) Subject to subsection (5) below, this Act does not extend to Northern Ireland. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
+
+(5) Section 4(4) of this Act extends to Northern Ireland in so far as it applies in relation to returns or information furnished or obtained in pursuance of a pig industry levy scheme any provision of section 24 of the 1967 Act that extends to Northern Ireland. *(affected by repeal, see note)*[^c-045dbfc98214184573ada2222434a69f]
 
 ## Annotations
 
-[^key-045dbfc98214184573ada2222434a69f]: Textual amendment: Act repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-045dbfc98214184573ada2222434a69f]: Textual amendment: Act repealed (S.) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c756337]: Modification: Act: certain functions transferred (W.) (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
 [^c756338]: Modification: Act: functions tranferred (27.12.1999) by [S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1999/3141/schedule) (with [arts. 2(5)](https://www.legislation.gov.uk/uksi/1999/3141/article/2/5), [3](https://www.legislation.gov.uk/uksi/1999/3141/article/3))
 
-[^key-531437df3804ac9686cd8c90e23d51e8]: Modification: Act: certain functions transferred (31.12.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
+[^c-531437df3804ac9686cd8c90e23d51e8]: Modification: Act: certain functions transferred (31.12.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
 
 [^c756339]: Marginal citation: [1967 c. 22](https://www.legislation.gov.uk/ukpga/1967/22).
 

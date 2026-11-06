@@ -22,11 +22,11 @@ summary: ''
 
 (1) This Act may be cited as the Employment Act 1989.
 
-(2)[^key-fc44f1771f7edcd81c5aba7d6d4c8094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-fc44f1771f7edcd81c5aba7d6d4c8094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-fc44f1771f7edcd81c5aba7d6d4c8094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-fc44f1771f7edcd81c5aba7d6d4c8094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-fc44f1771f7edcd81c5aba7d6d4c8094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fc44f1771f7edcd81c5aba7d6d4c8094] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) With the exception of the provisions mentioned in subsection (6), this Act does not extend to Northern Ireland.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc44f1771f7edcd81c5aba7d6d4c8094]: Textual amendment: [S. 30(2)-(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/30/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-fc44f1771f7edcd81c5aba7d6d4c8094]: Textual amendment: [S. 30(2)-(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/30/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
 
 [^c1205554]: Marginal citation: [1922 c. 35](https://www.legislation.gov.uk/ukpga/1922/35).

@@ -27,8 +27,8 @@ summary: ''
 (3) Where a dispute is referred for determination in accordance with regulation 75(1)—
 
 - (a) section 9(12) and (13) of the Act apply in the same manner as those provisions apply to an agreement referred for determination in accordance with section 9(6) and (7) of the Act; and
-- (b) section 90(5)[^key-4427b40341596b064dd886aebac82633] of the Act applies to any agreement which is not an NHS contract as if it were referred for determination in accordance with section 9(6) of the Act.
+- (b) section 90(5)[^c-4427b40341596b064dd886aebac82633] of the Act applies to any agreement which is not an NHS contract as if it were referred for determination in accordance with section 9(6) of the Act.
 
 ## Annotations
 
-[^key-4427b40341596b064dd886aebac82633]: Textual amendment: Words in [reg. 77(3)(b)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/77/3/b) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/6)
+[^c-4427b40341596b064dd886aebac82633]: Textual amendment: Words in [reg. 77(3)(b)](https://www.legislation.gov.uk/uksi/2015/1879/regulation/77/3/b) substituted (27.5.2024) by [The National Health Service (Primary Medical Services and Performers Lists) (Amendment) Regulations 2024 (S.I. 2024/575)](https://www.legislation.gov.uk/uksi/2024/575), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2024/575/regulation/1/2/a), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2024/575/schedule/2/paragraph/6)

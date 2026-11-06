@@ -45,10 +45,10 @@ Except as provided by this section, regulations under those provisions may not m
 (6) In this section—
 
 - “**agricultural sector**” means a sector listed in Schedule 1;
-- “**new sector-specific provision**” means sector-specific provision that did not apply by virtue of any assimilated direct[^key-64823fa454b71d864640d3a27c189ee9] legislation immediately before this section comes into force.
+- “**new sector-specific provision**” means sector-specific provision that did not apply by virtue of any assimilated direct[^c-64823fa454b71d864640d3a27c189ee9] legislation immediately before this section comes into force.
 
 ## Annotations
 
 [^c24383171]: Commencement: S. 32 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-64823fa454b71d864640d3a27c189ee9]: Textual amendment: Words in s. 32(6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(h)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/h)
+[^c-64823fa454b71d864640d3a27c189ee9]: Textual amendment: Words in s. 32(6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(h)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/h)

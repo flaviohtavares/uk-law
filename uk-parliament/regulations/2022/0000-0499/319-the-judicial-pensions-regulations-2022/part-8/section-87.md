@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Meaning of “eligible child”[^key-2dc054adba49f95b9d8592e96228c3dc]
+## 87. Meaning of “eligible child”[^c-2dc054adba49f95b9d8592e96228c3dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2dc054adba49f95b9d8592e96228c3dc]: Commencement: Reg. 87 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-2dc054adba49f95b9d8592e96228c3dc]: Commencement: Reg. 87 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

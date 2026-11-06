@@ -34,7 +34,7 @@ Electricity
 
 Gas
 
-The Electricity and Gas Appeals (Designation and Exclusion) Order 2009 (revoked)[^key-1f085d4850e0c4cd8dae8d56400006f1]
+The Electricity and Gas Appeals (Designation and Exclusion) Order 2009 (revoked)[^c-1f085d4850e0c4cd8dae8d56400006f1]
 
 Made
 
@@ -48,36 +48,36 @@ Coming into force
 
 6th April 2009
 
-[^key-1f085d4850e0c4cd8dae8d56400006f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f085d4850e0c4cd8dae8d56400006f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-1f085d4850e0c4cd8dae8d56400006f1]
+## 1. Citation, commencement and extent[^c-1f085d4850e0c4cd8dae8d56400006f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-1f085d4850e0c4cd8dae8d56400006f1]
+## 2. Interpretation[^c-1f085d4850e0c4cd8dae8d56400006f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation of documents[^key-1f085d4850e0c4cd8dae8d56400006f1]
+## 3. Designation of documents[^c-1f085d4850e0c4cd8dae8d56400006f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exclusion of decisions[^key-1f085d4850e0c4cd8dae8d56400006f1]
+## 4. Exclusion of decisions[^c-1f085d4850e0c4cd8dae8d56400006f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1f085d4850e0c4cd8dae8d56400006f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1f085d4850e0c4cd8dae8d56400006f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1f085d4850e0c4cd8dae8d56400006f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1f085d4850e0c4cd8dae8d56400006f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f085d4850e0c4cd8dae8d56400006f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f085d4850e0c4cd8dae8d56400006f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1f085d4850e0c4cd8dae8d56400006f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f085d4850e0c4cd8dae8d56400006f1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f085d4850e0c4cd8dae8d56400006f1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/648) revoked (18.6.2014) by [The Electricity and Gas Appeals (Designation and Exclusion) Order 2014 (S.I. 2014/1293)](https://www.legislation.gov.uk/uksi/2014/1293), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/1293/schedule/paragraph/2) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2014/1293/article/14/2))
+[^c-1f085d4850e0c4cd8dae8d56400006f1]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/648) revoked (18.6.2014) by [The Electricity and Gas Appeals (Designation and Exclusion) Order 2014 (S.I. 2014/1293)](https://www.legislation.gov.uk/uksi/2014/1293), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1293/article/1/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2014/1293/schedule/paragraph/2) (with [art. 14(2)](https://www.legislation.gov.uk/uksi/2014/1293/article/14/2))

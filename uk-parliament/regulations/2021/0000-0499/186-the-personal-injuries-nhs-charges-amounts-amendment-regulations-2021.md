@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England And Wales
 
-The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2021 (revoked)[^key-c3318aa01c4818d1643e9f7c298b30a2]
+The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2021 (revoked)[^c-c3318aa01c4818d1643e9f7c298b30a2]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 1st April 2021
 
-[^key-c3318aa01c4818d1643e9f7c298b30a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3318aa01c4818d1643e9f7c298b30a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-c3318aa01c4818d1643e9f7c298b30a2]
+## 1. Citation, commencement, application and interpretation[^c-c3318aa01c4818d1643e9f7c298b30a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the principal Regulations[^key-c3318aa01c4818d1643e9f7c298b30a2]
+## 2. Amendment of Schedule 1 to the principal Regulations[^c-c3318aa01c4818d1643e9f7c298b30a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-c3318aa01c4818d1643e9f7c298b30a2]
+## 3. Revocation[^c-c3318aa01c4818d1643e9f7c298b30a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3318aa01c4818d1643e9f7c298b30a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3318aa01c4818d1643e9f7c298b30a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -70,4 +70,4 @@ Coming into force
 
 ## Annotations
 
-[^key-c3318aa01c4818d1643e9f7c298b30a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/186) revoked (1.4.2022) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2022 (S.I. 2022/166)](https://www.legislation.gov.uk/uksi/2022/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/166/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/166/regulation/3)
+[^c-c3318aa01c4818d1643e9f7c298b30a2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/186) revoked (1.4.2022) by [The Personal Injuries (NHS Charges) (Amounts) (Amendment) Regulations 2022 (S.I. 2022/166)](https://www.legislation.gov.uk/uksi/2022/166), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/166/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2022/166/regulation/3)

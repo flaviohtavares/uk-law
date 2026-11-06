@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 179. Sharing of information: prosecution[^key-e4ae4f3fae7ff1468f29af16fc5cb045]
+## 179. Sharing of information: prosecution[^c-e4ae4f3fae7ff1468f29af16fc5cb045]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4ae4f3fae7ff1468f29af16fc5cb045]: Commencement: S. 179 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-e4ae4f3fae7ff1468f29af16fc5cb045]: Commencement: S. 179 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

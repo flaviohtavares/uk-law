@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88ZA. Requirement to contact Labour Relations Agency before complaint to Tribunal[^key-149d8a69548262ad067b248e9cdbb418]
+## 88ZA. Requirement to contact Labour Relations Agency before complaint to Tribunal[^c-149d8a69548262ad067b248e9cdbb418]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ The cases that may be prescribed include (in particular)—
 
 ## Annotations
 
-[^key-149d8a69548262ad067b248e9cdbb418]: Textual amendment: [Arts. 88ZA-88ZC](https://www.legislation.gov.uk/nisi/1998/3162/article/88ZA) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 5(2)](https://www.legislation.gov.uk/nia/2016/15/section/5/2), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)
+[^c-149d8a69548262ad067b248e9cdbb418]: Textual amendment: [Arts. 88ZA-88ZC](https://www.legislation.gov.uk/nisi/1998/3162/article/88ZA) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 5(2)](https://www.legislation.gov.uk/nia/2016/15/section/5/2), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)

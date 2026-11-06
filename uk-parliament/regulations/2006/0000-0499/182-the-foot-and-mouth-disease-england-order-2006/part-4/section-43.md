@@ -25,7 +25,7 @@ summary: ''
 - (a) a laboratory, zoo, wildlife park or other premises where susceptible animals are kept principally for the purposes of display and education of the public, or an enclosed area principally used for shooting;
 - (b) premises not falling within (a) of a body, institute or centre which—
   - (i) keeps susceptible animals only for the purposes of conservation, display and education of the public, or scientific research or breeding of such animals for research, and
-  - (ii) is approved in relation to those animals under the Trade in Animals and Related Products Regulations 2011[^key-df4273d74367be103a094260e0482aa7];
+  - (ii) is approved in relation to those animals under the Trade in Animals and Related Products Regulations 2011[^c-df4273d74367be103a094260e0482aa7];
 - (c) other premises where susceptible animals are kept for scientific purposes or purposes related to conservation of species or farm animal genetic resources.
 
 (2) The Secretary of State shall take such steps as she considers necessary to prevent the spread of disease to premises to which this article applies.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df4273d74367be103a094260e0482aa7]: Textual amendment: Words in art. 43(1)(b)(ii) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [reg. 33(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/33/3)
+[^c-df4273d74367be103a094260e0482aa7]: Textual amendment: Words in art. 43(1)(b)(ii) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [reg. 33(3)](https://www.legislation.gov.uk/uksi/2018/575/regulation/33/3)

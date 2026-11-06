@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Transactions for the replacement or enhancement of a building and provision of heating services[^key-afe279045c657c58d6df625368ee7fd8]
+## 41. Transactions for the replacement or enhancement of a building and provision of heating services[^c-afe279045c657c58d6df625368ee7fd8]
 
 *Extent: E+W*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afe279045c657c58d6df625368ee7fd8]: Commencement: Reg. 41 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-afe279045c657c58d6df625368ee7fd8]: Commencement: Reg. 41 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

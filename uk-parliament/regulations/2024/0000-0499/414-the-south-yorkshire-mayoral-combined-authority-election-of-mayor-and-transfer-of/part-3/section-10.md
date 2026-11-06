@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Transfers: supplementary provision[^key-ac57dfb2c7db8e06427b412394d94833]
+## 10. Transfers: supplementary provision[^c-ac57dfb2c7db8e06427b412394d94833]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ as they have effect in relation to the transfer made by or under this Part of la
 
 ## Annotations
 
-[^key-ac57dfb2c7db8e06427b412394d94833]: Commencement: Art. 10 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)
+[^c-ac57dfb2c7db8e06427b412394d94833]: Commencement: Art. 10 in force at 21.3.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2)

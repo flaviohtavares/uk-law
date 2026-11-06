@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Payment of member contributions[^key-d92e00fc15d7ec7133f6ed51b85f046d]
+## 107. Payment of member contributions[^c-d92e00fc15d7ec7133f6ed51b85f046d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,13 +26,13 @@ summary: ''
 
 (3) A member is not required to pay member contributions—
 
-- (a) while the member is on unpaid adoption leave, maternity leave, parental leave, paternity leave ,[^key-9c9370c5963c83d089c9935dcc06705b] additional paternity leave or neonatal care leave[^key-0c0870bfda2aaca133e27bed5761ae88]; or
+- (a) while the member is on unpaid adoption leave, maternity leave, parental leave, paternity leave ,[^c-9c9370c5963c83d089c9935dcc06705b] additional paternity leave or neonatal care leave[^c-0c0870bfda2aaca133e27bed5761ae88]; or
 - (b) with the employer’s approval, while the member is on unpaid leave.
 
 ## Annotations
 
-[^key-d92e00fc15d7ec7133f6ed51b85f046d]: Commencement: Reg. 107 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-d92e00fc15d7ec7133f6ed51b85f046d]: Commencement: Reg. 107 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
-[^key-9c9370c5963c83d089c9935dcc06705b]: Textual amendment: Reg. 107(3)(a): comma substituted for word (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(6)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/6/a)
+[^c-9c9370c5963c83d089c9935dcc06705b]: Textual amendment: Reg. 107(3)(a): comma substituted for word (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(6)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/6/a)
 
-[^key-0c0870bfda2aaca133e27bed5761ae88]: Textual amendment: Words in reg. 107(3)(a) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(6)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/6/b)
+[^c-0c0870bfda2aaca133e27bed5761ae88]: Textual amendment: Words in reg. 107(3)(a) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [29(6)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/29/6/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16K. Guidance by Secretary of State[^key-b4b92f2d175262d9fe17a37af9b2b5b8]
+## 16K. Guidance by Secretary of State[^c-b4b92f2d175262d9fe17a37af9b2b5b8]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4b92f2d175262d9fe17a37af9b2b5b8]: Textual amendment: S. 16K inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 22](https://www.legislation.gov.uk/ukpga/2017/16/section/22), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/k)
+[^c-b4b92f2d175262d9fe17a37af9b2b5b8]: Textual amendment: S. 16K inserted (29.6.2018) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 22](https://www.legislation.gov.uk/ukpga/2017/16/section/22), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/k)

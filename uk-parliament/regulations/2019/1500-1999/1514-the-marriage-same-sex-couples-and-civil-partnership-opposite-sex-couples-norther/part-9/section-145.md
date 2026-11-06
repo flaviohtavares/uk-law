@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Housing (Northern Ireland) Order 2003[^key-3bd3fe7f74bc46d88c154ec50e6ccb40]
+## 145. Housing (Northern Ireland) Order 2003[^c-3bd3fe7f74bc46d88c154ec50e6ccb40]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3bd3fe7f74bc46d88c154ec50e6ccb40]: Commencement: Reg. 145 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-3bd3fe7f74bc46d88c154ec50e6ccb40]: Commencement: Reg. 145 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00233]: Footnote: [S.I. 2003/412 (N.I. 2)](https://www.legislation.gov.uk/nisi/2003/412). In Article 14(2), sub-paragraph (d) was inserted by paragraph 13 of Schedule 18 to the Civil Partnership Act 2004.

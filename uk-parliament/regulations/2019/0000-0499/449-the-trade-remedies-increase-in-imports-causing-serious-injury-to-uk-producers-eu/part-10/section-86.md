@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86.[^key-c0f2fe4a4f67591da7da0c18cf8d0e5b]
+## 86.[^c-c0f2fe4a4f67591da7da0c18cf8d0e5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ Paragraph 15 (notice of the Secretary of State accepting or rejecting a recommen
 
 ## Annotations
 
-[^key-c0f2fe4a4f67591da7da0c18cf8d0e5b]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2019/449/regulation/86) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-c0f2fe4a4f67591da7da0c18cf8d0e5b]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2019/449/regulation/86) in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
 
 [^M_F_8e164f7d-245e-46df-d5a2-1a65e0096c91]: Textual amendment: Reg. 86A omitted (5.8.2020) by [The Trade Remedies (Amendment) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/730)](https://www.legislation.gov.uk/uksi/2020/730), [regs. 1](https://www.legislation.gov.uk/uksi/2020/730/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/730/regulation/14)

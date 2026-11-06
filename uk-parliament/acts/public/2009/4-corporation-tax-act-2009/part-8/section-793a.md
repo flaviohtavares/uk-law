@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 793A. Effect of election under section 792[^key-f1ceaa46620a7f4d1c6a01baa81619bf]
+## 793A. Effect of election under section 792[^c-f1ceaa46620a7f4d1c6a01baa81619bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1ceaa46620a7f4d1c6a01baa81619bf]: Textual amendment: S. 793A inserted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 25](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/25), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
+[^c-f1ceaa46620a7f4d1c6a01baa81619bf]: Textual amendment: S. 793A inserted (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 25](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/25), [35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))

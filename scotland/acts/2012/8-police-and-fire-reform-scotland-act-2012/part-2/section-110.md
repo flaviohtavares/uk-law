@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 110. Charging[^key-bf91d21d2dc349b1ccd731d7e7e7b1ae]
+## 110. Charging[^c-bf91d21d2dc349b1ccd731d7e7e7b1ae]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In section 16 of the 2005 Act (charging)—
 
 ## Annotations
 
-[^key-bf91d21d2dc349b1ccd731d7e7e7b1ae]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2012/8/section/110) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-bf91d21d2dc349b1ccd731d7e7e7b1ae]: Commencement: [S. 110](https://www.legislation.gov.uk/asp/2012/8/section/110) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

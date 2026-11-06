@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order (Northern Ireland) 2016 (revoked)[^key-0d15f873338dd9d762dcd6a3bc58ca0f]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order (Northern Ireland) 2016 (revoked)[^c-0d15f873338dd9d762dcd6a3bc58ca0f]
 
 Made
 
@@ -40,27 +40,27 @@ Made
 
 Coming into operation in accordance with Article 1(1)
 
-[^key-0d15f873338dd9d762dcd6a3bc58ca0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d15f873338dd9d762dcd6a3bc58ca0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-0d15f873338dd9d762dcd6a3bc58ca0f]
+## 1. Citation, commencement and interpretation[^c-0d15f873338dd9d762dcd6a3bc58ca0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The levy ceiling[^key-0d15f873338dd9d762dcd6a3bc58ca0f]
+## 2. The levy ceiling[^c-0d15f873338dd9d762dcd6a3bc58ca0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The compensation cap[^key-0d15f873338dd9d762dcd6a3bc58ca0f]
+## 3. The compensation cap[^c-0d15f873338dd9d762dcd6a3bc58ca0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-0d15f873338dd9d762dcd6a3bc58ca0f]
+## 4. Revocations[^c-0d15f873338dd9d762dcd6a3bc58ca0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0d15f873338dd9d762dcd6a3bc58ca0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0d15f873338dd9d762dcd6a3bc58ca0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -68,4 +68,4 @@ Coming into operation in accordance with Article 1(1)
 
 ## Annotations
 
-[^key-0d15f873338dd9d762dcd6a3bc58ca0f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/32) revoked (1.4.2017) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order (Northern Ireland) 2017 (S.R. 2017/39)](https://www.legislation.gov.uk/nisr/2017/39), [arts. 1(1)(b)](https://www.legislation.gov.uk/nisr/2017/39/artbicle/1/1/b), [4](https://www.legislation.gov.uk/nisr/2017/39/article/4)
+[^c-0d15f873338dd9d762dcd6a3bc58ca0f]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2016/32) revoked (1.4.2017) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order (Northern Ireland) 2017 (S.R. 2017/39)](https://www.legislation.gov.uk/nisr/2017/39), [arts. 1(1)(b)](https://www.legislation.gov.uk/nisr/2017/39/artbicle/1/1/b), [4](https://www.legislation.gov.uk/nisr/2017/39/article/4)

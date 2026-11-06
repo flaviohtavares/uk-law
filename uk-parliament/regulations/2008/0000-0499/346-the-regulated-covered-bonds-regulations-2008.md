@@ -44,7 +44,7 @@ Coming into force
 
 6th March 2008
 
-[^M_C_875b689e-75bc-471d-cc59-7862dd6f6276][^M_C_cca5e3b8-68de-4212-e368-001441f49876][^M_C_29748cb4-f6ef-42bd-87df-054accdd0539][^M_C_15a0bd8c-9b9e-4d3d-9078-f59db2462857][^key-954cc00c68911a568f528e4217983bec]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972[^M_M_9ee85a20-d935-42be-c337-c032f32f4739] in relation to—
+[^M_C_875b689e-75bc-471d-cc59-7862dd6f6276][^M_C_cca5e3b8-68de-4212-e368-001441f49876][^M_C_29748cb4-f6ef-42bd-87df-054accdd0539][^M_C_15a0bd8c-9b9e-4d3d-9078-f59db2462857][^c-954cc00c68911a568f528e4217983bec]The Treasury are a government department designated for the purposes of section 2(2) of the European Communities Act 1972[^M_M_9ee85a20-d935-42be-c337-c032f32f4739] in relation to—
 
 - (a) credit and financial institutions and the taking of deposits or other repayable funds from the public[^M_M_280b4115-468c-4cd6-fa3b-bd2a0bcac564]; and
 - (b) measures relating to securities and rights in securities[^M_M_d202bfc9-365f-43ba-b6d4-a1d75142ae4e].
@@ -63,28 +63,28 @@ Coming into force
 - “**the Act**” means the Financial Services and Markets Act 2000 [^c19107671];
 - “**asset**” means any property, right, entitlement or interest;
 - “**asset pool**” has the meaning given by regulation 3;
-- “**the Authority**” means the Financial Conduct Authority[^key-13e03cc77091ea6c2c410672c571f52e];
-- [^key-20c5e89f428faa5377c326a2a785cb9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- “building society” means a building society incorporated (or deemed to be incorporated) under the Building Societies Act 1986;[^key-9d064759cb536e7ce74cdb1297e41c42]
-- “capital requirements regulation” means Regulation (EU) 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012;[^key-1406281723f3aee60a58ba70e7db2513]
-- “**centre of main interests**” has the same meaning as in Article 3(1) of Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings[^key-0c58b3ca257df0e79c64f40896eaa58c];
+- “**the Authority**” means the Financial Conduct Authority[^c-13e03cc77091ea6c2c410672c571f52e];
+- [^c-20c5e89f428faa5377c326a2a785cb9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “building society” means a building society incorporated (or deemed to be incorporated) under the Building Societies Act 1986;[^c-9d064759cb536e7ce74cdb1297e41c42]
+- “capital requirements regulation” means Regulation (EU) 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012;[^c-1406281723f3aee60a58ba70e7db2513]
+- “**centre of main interests**” has the same meaning as in Article 3(1) of Regulation (EU) 2015/848 of the European Parliament and of the Council of 20 May 2015 on insolvency proceedings[^c-0c58b3ca257df0e79c64f40896eaa58c];
 - “**connected person**” has the meaning given by regulation 5;
 - “**covered bond**” means a bond in relation to which the claims attaching to that bond are guaranteed to be paid by an owner from an asset pool it owns;
-- “[^key-affccc5a67190517b4703d292c715d9b]**deposit**” has the meaning given in article 5(2) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
+- “[^c-affccc5a67190517b4703d292c715d9b]**deposit**” has the meaning given in article 5(2) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001;
 - “**eligible property**” has the meaning given by regulation 2;
 - “**government stock**” means stock or bonds of any of the descriptions included in Part 1 of Schedule 11 to the Finance Act 1942;
 - “**hedging agreement**” means an agreement entered into or asset held as protection against possible financial loss;
 - “**issuer**” means a person which issues a covered bond;
 - “**liquid assets**” means—
-  - (a) government stock or treasury bills issued by Her Majesty's Government in the United Kingdom and other specified government securities which comply with Article 129(1)(a) or (b) of the capital requirements regulation[^key-dd9b9d02559628fe7dacefc1c22a31f5];
-  - (b) deposits in sterling or another specified currency in an account held in the name of the owner with the issuer or with a specified credit institution which comply with the requirements set out in Article 129(1)(c) of the capital requirements regulation[^key-79b475fc4e4393f388866a7cff95ba80],
+  - (a) government stock or treasury bills issued by Her Majesty's Government in the United Kingdom and other specified government securities which comply with Article 129(1)(a) or (b) of the capital requirements regulation[^c-dd9b9d02559628fe7dacefc1c22a31f5];
+  - (b) deposits in sterling or another specified currency in an account held in the name of the owner with the issuer or with a specified credit institution which comply with the requirements set out in Article 129(1)(c) of the capital requirements regulation[^c-79b475fc4e4393f388866a7cff95ba80],
 
   and “**specified**” for the purposes of this definition means specified by the Authority in guidance issued under regulation 42;
 - “**mixed asset class bond**” means a mixed asset class regulated covered bond included in Part one of the register of regulated covered bonds;
 - “**owner**” has the meaning given by regulation 4;
 - “**programme**” means issues, or series of issues, of covered bonds which have substantially similar terms and are subject to a framework contract or contracts;
 - “**reference rate**” means a rate used to set the interest rates charged to borrowers in relation to a loan included in the asset pool;
-- “registered office” in relation to a building society means its principal office;[^key-8ee6ba27dcb2dfbd04f0c4135d5e6f26]
+- “registered office” in relation to a building society means its principal office;[^c-8ee6ba27dcb2dfbd04f0c4135d5e6f26]
 - “**register of issuers**” means the register maintained under regulation 7(1)(a);
 - “**register of regulated covered bonds**” means the register maintained under regulation 7(1)(b);
 - “**regulated covered bond**” means a covered bond or a programme of covered bonds, as the case may be, which is admitted to the register of regulated covered bonds;
@@ -95,17 +95,17 @@ Coming into force
 - “**total principal amounts outstanding**” means—
   - (a) in relation to loans, the sum of the original amounts advanced on the loan and any further advances, less any repayments of principal made on the loan;
   - (b) in relation to other assets, the total amount of principal which remains due to be repaid in relation to the asset.
-- [^key-158f1edddea69a50223c45e620664d5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-158f1edddea69a50223c45e620664d5f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Unless otherwise defined, any expression used in these Regulations and in Article 22(4) of directive [85/611/EEC](https://www.legislation.gov.uk/eudr/1985/611) of the Council of 20 December 1985 relating to undertakings for collective investment in transferable securities [^c19107711] has the same meaning as in that Article of that Directive.
 
-(4)[^key-d6aaa05601dccc5067c96aa0e507961d] Any reference in these Regulations to any EU regulation, EU decision or EU tertiary legislation (within the meaning of section 20 of the European Union (Withdrawal) Act 2018) is, unless the contrary intention appears, to be treated as a reference to that EU regulation, EU decision or EU tertiary legislation as it forms part of[^key-cea3ae4cc98d50c928485dc76b67e3ea] assimilated[^key-b1e41a2271712afddc04ec13c41c779c] law.
+(4)[^c-d6aaa05601dccc5067c96aa0e507961d] Any reference in these Regulations to any EU regulation, EU decision or EU tertiary legislation (within the meaning of section 20 of the European Union (Withdrawal) Act 2018) is, unless the contrary intention appears, to be treated as a reference to that EU regulation, EU decision or EU tertiary legislation as it forms part of[^c-cea3ae4cc98d50c928485dc76b67e3ea] assimilated[^c-b1e41a2271712afddc04ec13c41c779c] law.
 
 ### 2. Eligible property
 
-(1) In these Regulations, “[^key-98b8b1323fcac3d2326016f5aabb854d]**eligible property**” in relation to a mixed asset class bond or programme means any interest in—
+(1) In these Regulations, “[^c-98b8b1323fcac3d2326016f5aabb854d]**eligible property**” in relation to a mixed asset class bond or programme means any interest in—
 
-- (a)[^key-3e16ea70b481abf04fee39286ac96638] subject to paragraph (1B), eligible assets specified in and compliant with the requirements contained in Article 129 of the capital requirements regulation[^key-84c812981848ea29583ae6e22bff1db1];
+- (a)[^c-3e16ea70b481abf04fee39286ac96638] subject to paragraph (1B), eligible assets specified in and compliant with the requirements contained in Article 129 of the capital requirements regulation[^c-84c812981848ea29583ae6e22bff1db1];
 - (b) loans to a registered social landlord or, in Northern Ireland, to a registered housing association where the loans are secured—
   - (i) over housing accommodation; or
   - (ii) by rental income from housing accommodation;
@@ -114,22 +114,22 @@ Coming into force
   - (ii) by rental income from housing accommodation;
 - (d) loans to a project company of a project which is a public-private partnership project where the loans are secured by payments made by a public body with step-in rights;
 - (e) loans to a person (“B”) which provides loans directly to a project company of a project which is a public-private partnership project where the loans to B are secured directly or indirectly by payments made by a public body with step-in rights;
-- (f)[^key-da27c09b74bf09ca4915d6b0dc8b2027] other liquid assets.
+- (f)[^c-da27c09b74bf09ca4915d6b0dc8b2027] other liquid assets.
 
-(1A)[^key-8f6ec2f3cddc24654534825fcdf2d81b] In these Regulations, “**eligible property**” in relation to a single asset class bond or programme means, subject to paragraph (1B), any interest in eligible assets specified in and compliant with the requirements of one (and only one) of the following classes—
+(1A)[^c-8f6ec2f3cddc24654534825fcdf2d81b] In these Regulations, “**eligible property**” in relation to a single asset class bond or programme means, subject to paragraph (1B), any interest in eligible assets specified in and compliant with the requirements of one (and only one) of the following classes—
 
-- (a) class 1 (public sector assets): eligible assets referred to in subparagraph (a) and (b) of Article 129(1) of the capital requirements regulation[^key-bb72a699f7caf842b185a521726fa5c4], assets referred to in sub-paragraph (b), (c), (d) and (e) of paragraph (1) above and other liquid assets;
-- (b) class 2 (residential mortgage assets): eligible assets referred to in sub-paragraph (d) and (e) of Article 129(1) of the capital requirements regulation[^key-63d1873e2c5e147141a6cff136b648ce], and liquid assets;
-- (c) class 3 (commercial mortgage assets): eligible assets referred to in sub-paragraph (f) of Article 129(1) of the capital requirements regulation[^key-8a3c21900bad60f644cc84a7b230d895] and liquid assets.
+- (a) class 1 (public sector assets): eligible assets referred to in subparagraph (a) and (b) of Article 129(1) of the capital requirements regulation[^c-bb72a699f7caf842b185a521726fa5c4], assets referred to in sub-paragraph (b), (c), (d) and (e) of paragraph (1) above and other liquid assets;
+- (b) class 2 (residential mortgage assets): eligible assets referred to in sub-paragraph (d) and (e) of Article 129(1) of the capital requirements regulation[^c-63d1873e2c5e147141a6cff136b648ce], and liquid assets;
+- (c) class 3 (commercial mortgage assets): eligible assets referred to in sub-paragraph (f) of Article 129(1) of the capital requirements regulation[^c-8a3c21900bad60f644cc84a7b230d895] and liquid assets.
 
 (1B) Assets in the following categories—
 
-- (a) exposures to a body which does not qualify for credit quality step 1 on the credit quality assessment scale set out in Part Three, Title II, Chapter 2 of the capital requirements regulations[^key-74603312f22b9a2d8876c778ea999857]; [^key-b835295ff017994d584bccf4fb8b05ad]...
-- (b)[^key-b835295ff017994d584bccf4fb8b05ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) exposures to a body which does not qualify for credit quality step 1 on the credit quality assessment scale set out in Part Three, Title II, Chapter 2 of the capital requirements regulations[^c-74603312f22b9a2d8876c778ea999857]; [^c-b835295ff017994d584bccf4fb8b05ad]...
+- (b)[^c-b835295ff017994d584bccf4fb8b05ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 shall not be eligible property for the purposes of paragraph (1)(a) or (1A).
 
-(2) Eligible property (and any relevant security) must be situated in an EEA state, the United Kingdom,[^key-0935a083270dcdf343d410e76404ac33] Switzerland, the United States of America, Japan, Canada, Australia, New Zealand, the Channel Islands or the Isle of Man.
+(2) Eligible property (and any relevant security) must be situated in an EEA state, the United Kingdom,[^c-0935a083270dcdf343d410e76404ac33] Switzerland, the United States of America, Japan, Canada, Australia, New Zealand, the Channel Islands or the Isle of Man.
 
 (3) In this regulation—
 
@@ -139,16 +139,16 @@ shall not be eligible property for the purposes of paragraph (1)(a) or (1A).
   - (a) in England and Wales, has the meaning given by section 63 of the 1996 Act (minor modifications: Part 1);
   - (b) in Scotland, has the meaning given by section 111 of the 2001 Act (interpretation); and
   - (c) in Northern Ireland, has the meaning given by Article 2 of the Housing (Northern Ireland) Order 1981 [^c19107741];
-- “**project company**” has the meaning given by paragraph 15 of Schedule ZA1 to the 1986 Act or, in Northern Ireland, paragraph 15 of Schedule ZA1 to the 1989 Order;[^key-ef046bfde7cb7b4d025151d59256e63f]
+- “**project company**” has the meaning given by paragraph 15 of Schedule ZA1 to the 1986 Act or, in Northern Ireland, paragraph 15 of Schedule ZA1 to the 1989 Order;[^c-ef046bfde7cb7b4d025151d59256e63f]
 - “**public body**” means a body which exercises public functions;
-- “**public-private partnership project**” has the meaning given by paragraph 16 of Schedule ZA1 to the 1986 Act or, in Northern Ireland, paragraph 16 of Schedule ZA1 to the 1989 Order;[^key-926f46d3ce415f534f39a348629b8f88]
+- “**public-private partnership project**” has the meaning given by paragraph 16 of Schedule ZA1 to the 1986 Act or, in Northern Ireland, paragraph 16 of Schedule ZA1 to the 1989 Order;[^c-926f46d3ce415f534f39a348629b8f88]
 - “**registered housing association**” means a body registered as a housing association under Chapter II of Part II of the Housing (Northern Ireland) Order 1992 [^c19107751];
 - “registered social landlord”—
-  - (a) in England and Wales, means a private registered provider of social housing or[^key-f7ea54bc72de405a17091cc641668bc9] a body registered as a social landlord under Part 1 of the 1996 Act; and
-  - (b) in Scotland, means a body registered as a social landlord under Part 2 of the Housing (Scotland) Act 2010[^key-53344151534b3533105a568d6323e44d];
-- “**step-in rights**” has the meaning given by paragraph 17 of Schedule ZA1 to the 1986 Act or, in Northern Ireland, paragraph 17 of Schedule ZA1 to the 1989 Order[^key-9576d90941679fa98124bd47a1ff900f].
+  - (a) in England and Wales, means a private registered provider of social housing or[^c-f7ea54bc72de405a17091cc641668bc9] a body registered as a social landlord under Part 1 of the 1996 Act; and
+  - (b) in Scotland, means a body registered as a social landlord under Part 2 of the Housing (Scotland) Act 2010[^c-53344151534b3533105a568d6323e44d];
+- “**step-in rights**” has the meaning given by paragraph 17 of Schedule ZA1 to the 1986 Act or, in Northern Ireland, paragraph 17 of Schedule ZA1 to the 1989 Order[^c-9576d90941679fa98124bd47a1ff900f].
 
-(4) Unless otherwise defined, any expression used in this regulation and the capital requirements regulation has the same meaning as in that regulation[^key-60612637eb9d1daee860a0d10d8cc632].
+(4) Unless otherwise defined, any expression used in this regulation and the capital requirements regulation has the same meaning as in that regulation[^c-60612637eb9d1daee860a0d10d8cc632].
 
 ### 3. Asset Pool
 
@@ -221,7 +221,7 @@ In these Regulations “**owner**” means a person which —
 - (a) a register of issuers; and
 - (b) a register of regulated covered bonds.
 
-(1A)[^key-a9b99098f472e60f2b170a813f8376d3] The register of regulated covered bonds shall be divided into two parts.
+(1A)[^c-a9b99098f472e60f2b170a813f8376d3] The register of regulated covered bonds shall be divided into two parts.
 
 (1B) Part one shall be a register of mixed asset class regulated covered bonds.
 
@@ -243,7 +243,7 @@ In these Regulations “**owner**” means a person which —
 A person who proposes to issue a covered bond or a programme of covered bonds may apply to the Authority, in such manner as the Authority may direct—
 
 - (a) for admission to the register of issuers; or
-- (b)[^key-470d310e73ba560c03a026a2e3c2d622] for the covered bond or the programme of covered bonds to be admitted to—
+- (b)[^c-470d310e73ba560c03a026a2e3c2d622] for the covered bond or the programme of covered bonds to be admitted to—
   - (i) part one of the register of regulated covered bonds, or
   - (ii) part two of the register of regulated covered bonds.
 
@@ -258,7 +258,7 @@ Subject to regulation 11, the Authority must grant an application under regulati
 
 ### 10. Applications for admission to the register of regulated covered bonds
 
-(1) The Authority may not entertain an application under regulation 8(b)(i) or (ii)[^key-50590322711de804f457883c5813d462] in respect of a covered bond or programme of covered bonds unless it knows—
+(1) The Authority may not entertain an application under regulation 8(b)(i) or (ii)[^c-50590322711de804f457883c5813d462] in respect of a covered bond or programme of covered bonds unless it knows—
 
 - (a) the identity of the owner of the relevant asset pool;
 - (b) the assets intended to be included in that asset pool; and
@@ -270,7 +270,7 @@ Subject to regulation 11, the Authority must grant an application under regulati
 - (b) the applicant and the owner of the relevant asset pool will comply with the requirements imposed upon them by or under these Regulations; and
 - (c) the applicant complies with any other requirements imposed by the Authority in relation to the application.
 
-(3)[^key-2c5cc33e0b05d24e41d8e2ec6b247a1f] The Authority may only grant an application under regulation 8(b)(ii) if it is satisfied that the eligible property (other than liquid assets) in the asset pool all falls within one and only one of the classes specified in regulation 2(1A).
+(3)[^c-2c5cc33e0b05d24e41d8e2ec6b247a1f] The Authority may only grant an application under regulation 8(b)(ii) if it is satisfied that the eligible property (other than liquid assets) in the asset pool all falls within one and only one of the classes specified in regulation 2(1A).
 
 ### 11. Refusal of applications for registration
 
@@ -307,14 +307,14 @@ the Authority considers that granting it would be detrimental to the interests o
 - (a) if it decides to refuse the application under regulation 8, give the applicant a decision notice; or
 - (b) if it grants the application, give the applicant written notice of its decision.
 
-(6) If the Authority decides to refuse an application under regulation 8, the applicant may refer the matter to the Upper Tribunal[^key-a8eaa8d3def53b8dd05c1b3070e810de].
+(6) If the Authority decides to refuse an application under regulation 8, the applicant may refer the matter to the Upper Tribunal[^c-a8eaa8d3def53b8dd05c1b3070e810de].
 
 ### 14. Admission to the registers
 
 (1) If the Authority decides to grant an application under regulation 8 it must, within seven days of the date on which it gave written notice under regulation 13(3) or (5)(b), admit—
 
 - (a) the applicant to the register of issuers; or
-- (b)[^key-0a510565b254b144e4497a6371bbb2f1] the covered bond or the programme of covered bonds to—
+- (b)[^c-0a510565b254b144e4497a6371bbb2f1] the covered bond or the programme of covered bonds to—
   - (i) part one of the register of regulated covered bonds, in the case of an application under regulation 8(b)(i); or
   - (ii) part two of the register of regulated covered bonds in the case of an application under regulation 8(b)(ii).
 
@@ -327,7 +327,7 @@ the Authority considers that granting it would be detrimental to the interests o
 (1) A person may not issue, or purport to issue, a regulated covered bond unless—
 
 - (a) it is admitted to the register of issuers; and
-- (b)[^key-6c42ef6c5985778ba6ca57d30b3b5fbc] the bond is admitted to part one or part two of the register of regulated covered bonds.
+- (b)[^c-6c42ef6c5985778ba6ca57d30b3b5fbc] the bond is admitted to part one or part two of the register of regulated covered bonds.
 
 (2) A person which has been removed from the register of issuers may not make any further issue under a programme of covered bonds which has been admitted to the register of regulated covered bonds.
 
@@ -350,13 +350,13 @@ An issuer must lend sums derived from the issue of a regulated covered bond to t
 - (b) the asset pool is, during the whole period of validity of the regulated covered bond, capable of covering—
   - (i) claims attaching to the bond; and
   - (ii) sums required for the maintenance, administration and winding up of the asset pool;
-- (c) there is timely payment of claims attaching to the bond to the regulated covered bond holder; [^key-1a145bca38aa6dec1b34298ad3d2530c]...
+- (c) there is timely payment of claims attaching to the bond to the regulated covered bond holder; [^c-1a145bca38aa6dec1b34298ad3d2530c]...
 - (d) the asset pool is of sufficient quality to give investors confidence that in the event of the failure of the issuer there will be a low risk of default in the timely payment by the owner of claims attaching to the bond;
-- (e)[^key-35fe77e317bea67f9153c88f7bfd2b81] the eligible property in the asset pool of a single asset class bond consists only of eligible property of the same class as the eligible property included in the asset pool of the regulated covered bond when it was registered;
+- (e)[^c-35fe77e317bea67f9153c88f7bfd2b81] the eligible property in the asset pool of a single asset class bond consists only of eligible property of the same class as the eligible property included in the asset pool of the regulated covered bond when it was registered;
 - (g) the total amount of interest payable in the period of twelve months following any given date in respect of eligible property in the asset pool is not less than the interest which would be payable in relation to the regulated covered bonds issued under the programme in that period, assuming that the reference rates applicable on the given date do not change in that period.
 - (f) the total principal amounts outstanding in respect of eligible property in the asset pool is more than 108% of the total principal amounts outstanding in relation to the bonds to which the asset pool relates; and
 
-(2A)[^key-c81035b3975945ed65499fe25cca3d7c] In determining whether the requirement in subparagraph (e) of paragraph (2) is satisfied, no account shall be taken of eligible property which is liquid assets.
+(2A)[^c-c81035b3975945ed65499fe25cca3d7c] In determining whether the requirement in subparagraph (e) of paragraph (2) is satisfied, no account shall be taken of eligible property which is liquid assets.
 
 (2B) Subject to paragraph (2C), in determining whether the requirement in subparagraph (f) of paragraph (2) is satisfied, the total principal amounts outstanding in respect of eligible property which is liquid assets shall not exceed an amount which is the sum of—
 
@@ -371,7 +371,7 @@ An issuer must lend sums derived from the issue of a regulated covered bond to t
 
 (3) This regulation does not apply in the event of the insolvency of the issuer.
 
-### 17A. Asset pool monitor[^key-e691ce2e7862655e5eb25c2d4ed19a75]
+### 17A. Asset pool monitor[^c-e691ce2e7862655e5eb25c2d4ed19a75]
 
 (1) An issuer of a regulated covered bond must appoint an asset pool monitor for each asset pool maintained for the regulated covered bonds it has issued.
 
@@ -430,7 +430,7 @@ as the Authority may direct.
 
 (3) The information required under paragraphs (1) and (2) must be given at such times, in such form and verified in such manner, as the Authority may direct.
 
-(4)[^key-b7d0a1bda5c348197aea6d493d02dfa0] Any information required under paragraphs (1) and (2), or any part of that information, must, if the Authority so directs, be published as directed by the Authority.
+(4)[^c-b7d0a1bda5c348197aea6d493d02dfa0] Any information required under paragraphs (1) and (2), or any part of that information, must, if the Authority so directs, be published as directed by the Authority.
 
 (5) Nothing in paragraph (4) entitles the Authority to direct publication of information which the issuer would be entitled to refuse to disclose in court proceedings on grounds of legal professional privilege.
 
@@ -462,7 +462,7 @@ as the Authority may direct.
 - (a) if it decides to do so, give a decision notice under paragraph (4); or
 - (b) if it decides not to give a decision notice, give the issuer a notice of discontinuance and written notice of its decision to approve the change.
 
-(7) If the Authority gives a decision notice under paragraph (4), the issuer may refer the matter to the Upper Tribunal[^key-c77073bec075f2f9d03e98fe05ce8a04].
+(7) If the Authority gives a decision notice under paragraph (4), the issuer may refer the matter to the Upper Tribunal[^c-c77073bec075f2f9d03e98fe05ce8a04].
 
 (8) The issuer may not make the proposed change before it has received a written notice from the Authority approving the change.
 
@@ -477,18 +477,18 @@ as the Authority may direct.
 
 (2) Regulation 15(3) applies to a contravention of the prohibition in paragraph (1) as it applies to a contravention of the prohibition in regulation 15(1) or (2).
 
-(3)[^key-894cc3c73532593551209e701c0f4459] In paragraph (1)—
+(3)[^c-894cc3c73532593551209e701c0f4459] In paragraph (1)—
 
 - “company” has the meaning given by section 735 of the Companies Act 1985 (“company” etc) and article 3 of the Companies (Northern Ireland) Order 1986 (“company” etc) until the coming into force of section 1 of the 2006 Act (companies) when it will have the meaning given by that section;
 - “limited liability partnership” has the meaning given —
   - (a) in relation to Great Britain, by section 1 of the Limited Liability Partnerships Act 2000 (limited liability partnerships); and
   - (b) in relation to Northern Ireland, by section 1 of the Limited Liability Partnerships Act (Northern Ireland) 2002 (limited liability partnerships) until the coming into force of section 1286 of the 2006 Act (extension of GB enactments relating to certain other forms of business organisation), when it will have the meaning given by section 1 of the Limited Liability Partnerships Act 2000.
 
-### 22. Sums derived from the issue of regulated covered bonds[^key-51c36f5ba5d445c839c2faab0e99a656]
+### 22. Sums derived from the issue of regulated covered bonds[^c-51c36f5ba5d445c839c2faab0e99a656]
 
-(1)[^key-94b5505d01b93801abd345d070a85e46]  The owner of the relevant asset pool must, so far as necessary for the purpose of complying with arrangements made pursuant to regulation 23 or 24(1)(a), use the sums lent to it by the issuer of a regulated covered bond to acquire eligible property.
+(1)[^c-94b5505d01b93801abd345d070a85e46]  The owner of the relevant asset pool must, so far as necessary for the purpose of complying with arrangements made pursuant to regulation 23 or 24(1)(a), use the sums lent to it by the issuer of a regulated covered bond to acquire eligible property.
 
-(2)[^key-380656f70824c8e27cf9ea857076a55b] Any eligible property acquired for the asset pool of a single asset class bond under paragraph (1) must be eligible property of the same class as the eligible property included in the asset pool of the regulated covered bond when it was registered.
+(2)[^c-380656f70824c8e27cf9ea857076a55b] Any eligible property acquired for the asset pool of a single asset class bond under paragraph (1) must be eligible property of the same class as the eligible property included in the asset pool of the regulated covered bond when it was registered.
 
 ### 23. Requirements relating to the asset pool
 
@@ -506,7 +506,7 @@ as the Authority may direct.
     - (aa) claims attaching to the bond; and
     - (bb) sums required for the maintenance, administration and winding up of the asset pool;
   - (iii) there is timely payment of claims attaching to the bond to the regulated covered bond holder;
-  - (iv)[^key-673360eb1070f882c49a318e86ba5d90] the asset pool of a single asset class bond consists only of eligible property of the same class as the assets included in the asset pool of the regulated covered bond when it was registered.
+  - (iv)[^c-673360eb1070f882c49a318e86ba5d90] the asset pool of a single asset class bond consists only of eligible property of the same class as the assets included in the asset pool of the regulated covered bond when it was registered.
 - (b) give the Authority such information in respect of—
   - (i) the composition of the asset pool; and
   - (ii) the steps it has taken to comply with sub-paragraph (a);
@@ -516,7 +516,7 @@ as the Authority may direct.
 
 (2) The information required under paragraph (1)(b) and (c) must be given at such times, in such form and verified in such manner, as the Authority may direct.
 
-(2A)[^key-e698e46ed45f741ba5601d633f6e861d] In determining whether the requirement in paragraph (1)(a)(iv) is satisfied, no account shall be taken of eligible property which is liquid assets.
+(2A)[^c-e698e46ed45f741ba5601d633f6e861d] In determining whether the requirement in paragraph (1)(a)(iv) is satisfied, no account shall be taken of eligible property which is liquid assets.
 
 (2B) Nothing in this regulation shall prevent the Authority directing the owner to observe additional requirements in relation to its asset pool.
 
@@ -542,7 +542,7 @@ as the Authority may direct.
 - (a) if it decides to do so, give a decision notice under paragraph (4); or
 - (b) if it decides not to give a decision notice, give the owner a notice of discontinuance and written notice of its decision to approve the change.
 
-(7) If the Authority gives a decision notice under paragraph (4), the owner may refer the matter to the Upper Tribunal[^key-ac9c1ea0ae3e1c77b956803492379b23].
+(7) If the Authority gives a decision notice under paragraph (4), the owner may refer the matter to the Upper Tribunal[^c-ac9c1ea0ae3e1c77b956803492379b23].
 
 (8) The owner may not transfer the asset pool to a proposed new owner before it has received a written notice from the Authority approving the change.
 
@@ -587,9 +587,9 @@ the proceeds of the realisation of that charge must, after payment of the expens
 
 the proceeds of the realisation of that charge must, after payment of the expenses referred to in regulation 29 and any other expenses relating to that charge, be first applied to satisfy the claims of the relevant persons at such time as those claims fall due for payment.
 
-(3)[^key-d42d904457bd49a97e0b8701ba764214] For the purposes of paragraphs (1) and (2) the claims of the persons mentioned in regulation 27(2)(b), (c) and (d) may rank equally with, but not in priority to, the claims of the persons mentioned in regulation 27(2)(a).
+(3)[^c-d42d904457bd49a97e0b8701ba764214] For the purposes of paragraphs (1) and (2) the claims of the persons mentioned in regulation 27(2)(b), (c) and (d) may rank equally with, but not in priority to, the claims of the persons mentioned in regulation 27(2)(a).
 
-### 29. Expenses[^key-eed7b2f95d2bed8dac6ab2af7a466153]
+### 29. Expenses[^c-eed7b2f95d2bed8dac6ab2af7a466153]
 
 (1) Disbursements made by a liquidator, provisional liquidator, administrator, administrative receiver, receiver or manager of the owner in respect of costs which–
 
@@ -652,7 +652,7 @@ it must give that person written notice of its decision.
 - (a) make a direction; or
 - (b) remove the issuer from the register of issuers,
 
-the person concerned may refer the matter to the Upper Tribunal[^key-09e1dc31b97e0449a1518cf616bee2db].
+the person concerned may refer the matter to the Upper Tribunal[^c-09e1dc31b97e0449a1518cf616bee2db].
 
 ### 33. Powers of the court
 
@@ -695,11 +695,11 @@ the court may make an order requiring that person, and any other person who appe
 
 (4) The decision notice must state the amount of the penalty.
 
-(5) If the Authority decides to impose a penalty on a person under regulation 34, that person may refer the matter to the Upper Tribunal[^key-db9e311e1205874c2445bc59503a52f1].
+(5) If the Authority decides to impose a penalty on a person under regulation 34, that person may refer the matter to the Upper Tribunal[^c-db9e311e1205874c2445bc59503a52f1].
 
 **36.** Sections 210 (statements of policy) and 211 (statements of policy: procedure) of the Act are to apply in respect of the imposition of penalties under these Regulations and the amount of such penalties as they apply in respect of the imposition of penalties under Part 14 of the Act (disciplinary measures) and the amount of penalties under that Part of that Act.
 
-**36A.**[^key-1a3dd2e1b03a2a4d0cc2a3f65e760d3d] (1) The Authority must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under regulation 34.
+**36A.**[^c-1a3dd2e1b03a2a4d0cc2a3f65e760d3d] (1) The Authority must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under regulation 34.
 
 (2) The Treasury may give directions to the Authority as to how the Authority is to comply with its duty under paragraph (1).
 
@@ -710,29 +710,29 @@ the court may make an order requiring that person, and any other person who appe
 
 (4) The Treasury must pay into the Consolidated Fund any sums received by them under this regulation.
 
-**37.**[^key-2729a84f11c486a2b902d6d4e396ddae] Paragraph 19 (penalties) of Schedule 1ZA applies for the purposes of these Regulations as it applies for the purposes of the Act but as if for “this Act” there were substituted “the Regulated Covered Bonds Regulations 2008.
+**37.**[^c-2729a84f11c486a2b902d6d4e396ddae] Paragraph 19 (penalties) of Schedule 1ZA applies for the purposes of these Regulations as it applies for the purposes of the Act but as if for “this Act” there were substituted “the Regulated Covered Bonds Regulations 2008.
 
 ### 38. Offence of misleading the Authority
 
-(1) Subsections (1) and (3) of section 398 (misleading[^key-b73ac38c5de003935f036bed71d51eda] FCA or PRA) of the Act are to apply in respect of requirements imposed by or under these Regulations as they apply in respect of requirements imposed by or under the Act.
+(1) Subsections (1) and (3) of section 398 (misleading[^c-b73ac38c5de003935f036bed71d51eda] FCA or PRA) of the Act are to apply in respect of requirements imposed by or under these Regulations as they apply in respect of requirements imposed by or under the Act.
 
-(1A)[^key-d0fa65fdb1ec4348af3d39b4cf9fd810] For the purposes of section 398 of the Act, as applied to requirements imposed by or under these Regulations, information provided to the asset pool monitor in response to a requirement under regulation 17A(7) shall be treated as being given to the Authority.
+(1A)[^c-d0fa65fdb1ec4348af3d39b4cf9fd810] For the purposes of section 398 of the Act, as applied to requirements imposed by or under these Regulations, information provided to the asset pool monitor in response to a requirement under regulation 17A(7) shall be treated as being given to the Authority.
 
 (2) Section 400 (offences by bodies corporate etc) and subsections (2), (3), (5) and (6) of section 401 (proceedings for offences) of the Act are to apply for the purposes of paragraph (1) as they apply for the purposes of the Act.
 
-## PART 8 — THE UPPER TRIBUNAL[^key-bd65357a092c074c606e58fa80387d7f]
+## PART 8 — THE UPPER TRIBUNAL[^c-bd65357a092c074c606e58fa80387d7f]
 
-### 39. Functions of the Upper Tribunal[^key-bd76f9fb9be5c2ce6baccc5985ca4251]
+### 39. Functions of the Upper Tribunal[^c-bd76f9fb9be5c2ce6baccc5985ca4251]
 
 The Upper Tribunal is to have the functions conferred on it by these Regulations.
 
-### 40. Hearings and appeals[^key-1572e29d510c07357ac279faff31e267]
+### 40. Hearings and appeals[^c-1572e29d510c07357ac279faff31e267]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 9 — MISCELLANEOUS
 
-### 41. Notification of the Commission[^key-ec6dfca67c8e8c68cd255892fca10fdc]
+### 41. Notification of the Commission[^c-ec6dfca67c8e8c68cd255892fca10fdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -744,7 +744,7 @@ The Upper Tribunal is to have the functions conferred on it by these Regulations
 - (b) with respect to any matters relating to functions of the Authority under these Regulations;
 - (c) with respect to any other matters about which it appears to the Authority to be desirable to give information or advice.
 
-(2)[^key-e7908641a9f060bdc1e5f10493ebd675] The Authority must give guidance consisting of—
+(2)[^c-e7908641a9f060bdc1e5f10493ebd675] The Authority must give guidance consisting of—
 
 - (a) information as to which government securities, credit institutions and currencies are specified for the purposes of the definition of “liquid assets” in regulation 1(2);
 - (b) information and advice about the quality of an asset pool for the purposes of the requirement specified in regulation 17(2)(d) and the manner in which it will assess the issuer's and owner's compliance with that requirement;
@@ -758,7 +758,7 @@ The Upper Tribunal is to have the functions conferred on it by these Regulations
 - (d) the risk of loss if a person fails to perform its obligations, or fails to perform them in a timely manner; and
 - (e) counterparty credit risk, in particular, in relation to any interest rate, currency or other hedging instruments relating to the asset pool.
 
-(4)[^key-79daeef74b67236e28961182f93d00c9] Subject to paragraph (5) and the modification in paragraph (4A), if the Authority proposes to give guidance under this regulation to issuers or owners generally, or to a class of issuer or owner, subsections (1)(b), (2)(e) and (3) of section 138I of the Act (consultation by the FCA) apply to the proposed guidance as they apply to proposed rules made under the Act, unless the Authority considers that the delay in complying with them would be prejudicial to the interests of regulated covered bond holders.
+(4)[^c-79daeef74b67236e28961182f93d00c9] Subject to paragraph (5) and the modification in paragraph (4A), if the Authority proposes to give guidance under this regulation to issuers or owners generally, or to a class of issuer or owner, subsections (1)(b), (2)(e) and (3) of section 138I of the Act (consultation by the FCA) apply to the proposed guidance as they apply to proposed rules made under the Act, unless the Authority considers that the delay in complying with them would be prejudicial to the interests of regulated covered bond holders.
 
 (4A) For the purpose of paragraph (4) section 138I of the Act is to be treated as if in subsection (1)(b) “after doing so” were omitted.
 
@@ -772,7 +772,7 @@ The Upper Tribunal is to have the functions conferred on it by these Regulations
 
 ### 43. Disclosure of information
 
-(1) Sections 348 (restrictions on disclosure of confidential information by FCA[^key-782270f0059224c20c97c22863ac52f9], PRA), 349 (exceptions from section 348) and 352 (offences) of the Act apply to confidential information disclosed under these Regulations as they apply to confidential information under the Act.
+(1) Sections 348 (restrictions on disclosure of confidential information by FCA[^c-782270f0059224c20c97c22863ac52f9], PRA), 349 (exceptions from section 348) and 352 (offences) of the Act apply to confidential information disclosed under these Regulations as they apply to confidential information under the Act.
 
 (2) In paragraph (1) “**confidential information**” has the meaning given by section 348 of the Act.
 
@@ -782,7 +782,7 @@ Part 26 of the Act (notices) is to apply for the purposes of these Regulations a
 
 ### 45. Authority's exemption from liability in damages
 
-The functions of the Authority under these Regulations are to be treated for the purposes of paragraph 25 (exemption from liability in damages) of Part 4 of Schedule 1ZA[^key-35bb26cc3ed98f2bb23f72888d8bef9a] to the Act as functions conferred on the Authority under that Act.
+The functions of the Authority under these Regulations are to be treated for the purposes of paragraph 25 (exemption from liability in damages) of Part 4 of Schedule 1ZA[^c-35bb26cc3ed98f2bb23f72888d8bef9a] to the Act as functions conferred on the Authority under that Act.
 
 ### 46. Modifications of primary and secondary legislation
 
@@ -818,16 +818,16 @@ Section 196 (payment of debts out of assets subject to floating charge (England 
 
 #### 3. Modifications of the Act
 
-Section 165 (Regulator’s[^key-1f0a7fe2211aebdae04eb10d74a3f4dc] power to require information) of the Act is to apply for the purposes of these Regulations as it applies for the purposes of the Act but with the modification that for references to “an authorised person” there is substituted references to “ a person to whom the Regulated Covered Bonds Regulations 2008 apply ”>.
+Section 165 (Regulator’s[^c-1f0a7fe2211aebdae04eb10d74a3f4dc] power to require information) of the Act is to apply for the purposes of these Regulations as it applies for the purposes of the Act but with the modification that for references to “an authorised person” there is substituted references to “ a person to whom the Regulated Covered Bonds Regulations 2008 apply ”>.
 
 **4.** Section 166 (reports by skilled persons) of the Act is to apply for the purposes of these Regulations as it applies for the purposes of the Act but with the modification that for the reference in subsection (2)(a) to “an authorised person” there is substituted a reference to “ a person to whom the Regulated Covered Bond Regulations 2008 apply ”.
 
-**4A.**[^key-96bf965367f90ed613355605a7af432e] Section 166A (appointment of skilled person to collect and update information) of the Act is to apply for the purposes of these Regulations as it applies for the purposes of the Act but with the following modifications—
+**4A.**[^c-96bf965367f90ed613355605a7af432e] Section 166A (appointment of skilled person to collect and update information) of the Act is to apply for the purposes of these Regulations as it applies for the purposes of the Act but with the following modifications—
 
 - (a) omit subsection (10);
 - (b) for references in other subsections of section 166A to “authorised person” there is substituted references to “person to whom the Regulated Covered Bond Regulations 2008 apply.
 
-**5.**[^key-3519d7d55afb9f13c11a81f4cc5efefb] Paragraph 23 of Schedule 1ZA to the Act (fees) is to apply for the purposes of these Regulations as it applies for the purposes of the Act, but with the following modifications—
+**5.**[^c-3519d7d55afb9f13c11a81f4cc5efefb] Paragraph 23 of Schedule 1ZA to the Act (fees) is to apply for the purposes of these Regulations as it applies for the purposes of the Act, but with the following modifications—
 
 - (a) in sub-paragraph (1)—
   - (i) for the reference to “this Act” there is substituted a reference to “the Regulated Covered Bonds Regulations 2008”;
@@ -852,15 +852,15 @@ Where an owner is wound up, section 754 of the 2006 Act (priorities where debent
 
 (2) Rules 3.51, 6.42, 7.108 and 7.109 of the Insolvency (England and Wales) Rules 2016[^M_F_c103b5a6-84ee-4bf0-d406-2cdb2371a044] (priority of expenses) shall apply to an owner subject to the provisions of regulation 29.
 
-#### 8. Modification of the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 and the Insolvency (Scotland) (Receivership and Winding up) Rules 2018[^key-9789fdaf05400d0c26670608f64c3510][^M_F_54a69057-b051-4ba8-cb6f-d8a04aba8cd1]
+#### 8. Modification of the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 and the Insolvency (Scotland) (Receivership and Winding up) Rules 2018[^c-9789fdaf05400d0c26670608f64c3510][^M_F_54a69057-b051-4ba8-cb6f-d8a04aba8cd1]
 
 Rule 3.51 (order of priority) of the Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 and rule 7.28 (order of priority of expenses of liquidation) of the Insolvency (Scotland) (Receivership and Winding up) Rules 2018[^M_F_222f2a01-e34e-46c4-b1b5-78703373b75c] shall apply to an owner subject to the provisions of regulation 29.
 
 #### 9. Modifications of the 1989 Order
 
-(1) Article 50 (payment of debts out of assets subject to floating charge) and article 53 (power to dispose of charged property)[^key-be65d272a35ca4c5cc1642bf9b87a3f2] of the 1989 Order shall not apply to an owner.
+(1) Article 50 (payment of debts out of assets subject to floating charge) and article 53 (power to dispose of charged property)[^c-be65d272a35ca4c5cc1642bf9b87a3f2] of the 1989 Order shall not apply to an owner.
 
-(2)[^key-131215001e2fb2e0ab93f65b4f84f481] Article 93 of and paragraphs 66(1) and 67 of Schedule B1 to the 1989 Order (distribution of company’s property) shall apply only after payment has been made of the claims of relevant persons.
+(2)[^c-131215001e2fb2e0ab93f65b4f84f481] Article 93 of and paragraphs 66(1) and 67 of Schedule B1 to the 1989 Order (distribution of company’s property) shall apply only after payment has been made of the claims of relevant persons.
 
 (3) Article 134 of the 1989 Order (payment of expenses) shall apply only after payment has been made of the expenses referred to in regulation 29.
 
@@ -904,7 +904,7 @@ A Regulatory Impact Assessment has been produced for this instrument and has bee
 
 [^M_C_15a0bd8c-9b9e-4d3d-9078-f59db2462857]: Modification: Regulations applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-954cc00c68911a568f528e4217983bec]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-954cc00c68911a568f528e4217983bec]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^M_M_9ee85a20-d935-42be-c337-c032f32f4739]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
@@ -920,55 +920,55 @@ A Regulatory Impact Assessment has been produced for this instrument and has bee
 
 [^c19107671]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-13e03cc77091ea6c2c410672c571f52e]: Textual amendment: Words in reg. 1(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/a)
+[^c-13e03cc77091ea6c2c410672c571f52e]: Textual amendment: Words in reg. 1(2) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/a)
 
-[^key-20c5e89f428faa5377c326a2a785cb9e]: Textual amendment: Words in reg. 1(2) omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(2)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/2/a)
+[^c-20c5e89f428faa5377c326a2a785cb9e]: Textual amendment: Words in reg. 1(2) omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(2)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/2/a)
 
-[^key-9d064759cb536e7ce74cdb1297e41c42]: Textual amendment: Words in reg. 1(2) inserted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/2/a)
+[^c-9d064759cb536e7ce74cdb1297e41c42]: Textual amendment: Words in reg. 1(2) inserted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/2/a)
 
-[^key-1406281723f3aee60a58ba70e7db2513]: Textual amendment: Words in reg. 1(2) inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(2)(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/2/b)
+[^c-1406281723f3aee60a58ba70e7db2513]: Textual amendment: Words in reg. 1(2) inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(2)(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/2/b)
 
-[^key-0c58b3ca257df0e79c64f40896eaa58c]: Textual amendment: Words in reg. 1(2) substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/5/paragraph/2/2)
+[^c-0c58b3ca257df0e79c64f40896eaa58c]: Textual amendment: Words in reg. 1(2) substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/5/paragraph/2/2)
 
-[^key-affccc5a67190517b4703d292c715d9b]: Textual amendment: Words in reg. 1(2) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/2)
+[^c-affccc5a67190517b4703d292c715d9b]: Textual amendment: Words in reg. 1(2) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/2)
 
-[^key-dd9b9d02559628fe7dacefc1c22a31f5]: Textual amendment: Words in reg. 1(2) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/2/c/i)
+[^c-dd9b9d02559628fe7dacefc1c22a31f5]: Textual amendment: Words in reg. 1(2) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(2)(c)(i)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/2/c/i)
 
-[^key-79b475fc4e4393f388866a7cff95ba80]: Textual amendment: Words in reg. 1(2) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/2/c/ii)
+[^c-79b475fc4e4393f388866a7cff95ba80]: Textual amendment: Words in reg. 1(2) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/2/c/ii)
 
-[^key-8ee6ba27dcb2dfbd04f0c4135d5e6f26]: Textual amendment: Words in reg. 1(2) substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/2/b)
+[^c-8ee6ba27dcb2dfbd04f0c4135d5e6f26]: Textual amendment: Words in reg. 1(2) substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/2/b)
 
-[^key-158f1edddea69a50223c45e620664d5f]: Textual amendment: Words in reg. 1(2) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 149](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/149)
+[^c-158f1edddea69a50223c45e620664d5f]: Textual amendment: Words in reg. 1(2) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 149](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/149)
 
 [^c19107711]: Marginal citation: O.J. No L 375, 31.12.85, p.3.
 
-[^key-d6aaa05601dccc5067c96aa0e507961d]: Textual amendment: Reg. 1(4) inserted (20.12.2018) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2018/1401/regulation/3)
+[^c-d6aaa05601dccc5067c96aa0e507961d]: Textual amendment: Reg. 1(4) inserted (20.12.2018) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2018/1401/regulation/3)
 
-[^key-cea3ae4cc98d50c928485dc76b67e3ea]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/1/4) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/b)
+[^c-cea3ae4cc98d50c928485dc76b67e3ea]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/1/4) substituted (31.12.2020 immediately before IP completion day) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/4), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2020/1385/schedule/paragraph/1/2/b)
 
-[^key-b1e41a2271712afddc04ec13c41c779c]: Textual amendment: Word in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/1/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/6)
+[^c-b1e41a2271712afddc04ec13c41c779c]: Textual amendment: Word in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/1/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 9 para. 6](https://www.legislation.gov.uk/uksi/2025/82/schedule/9/paragraph/6)
 
-[^key-98b8b1323fcac3d2326016f5aabb854d]: Textual amendment: Words in reg. 2(1) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/3/a/i)
+[^c-98b8b1323fcac3d2326016f5aabb854d]: Textual amendment: Words in reg. 2(1) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/3/a/i)
 
-[^key-3e16ea70b481abf04fee39286ac96638]: Textual amendment: Reg. 2(1)(a) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/3/a/ii)
+[^c-3e16ea70b481abf04fee39286ac96638]: Textual amendment: Reg. 2(1)(a) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/3/a/ii)
 
-[^key-84c812981848ea29583ae6e22bff1db1]: Textual amendment: Words in reg. 2(1)(a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/a)
+[^c-84c812981848ea29583ae6e22bff1db1]: Textual amendment: Words in reg. 2(1)(a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/a)
 
-[^key-da27c09b74bf09ca4915d6b0dc8b2027]: Textual amendment: Reg. 2(1)(f) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/3/a/iii)
+[^c-da27c09b74bf09ca4915d6b0dc8b2027]: Textual amendment: Reg. 2(1)(f) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/3/a/iii)
 
-[^key-8f6ec2f3cddc24654534825fcdf2d81b]: Textual amendment: Reg. 2(1A)(1B) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/3/b)
+[^c-8f6ec2f3cddc24654534825fcdf2d81b]: Textual amendment: Reg. 2(1A)(1B) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/3/b)
 
-[^key-bb72a699f7caf842b185a521726fa5c4]: Textual amendment: Words in reg. 2(1A)(a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/b)
+[^c-bb72a699f7caf842b185a521726fa5c4]: Textual amendment: Words in reg. 2(1A)(a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/b)
 
-[^key-63d1873e2c5e147141a6cff136b648ce]: Textual amendment: Words in reg. 2(1A)(b) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(c)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/c)
+[^c-63d1873e2c5e147141a6cff136b648ce]: Textual amendment: Words in reg. 2(1A)(b) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(c)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/c)
 
-[^key-8a3c21900bad60f644cc84a7b230d895]: Textual amendment: Words in reg. 2(1A)(c) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(d)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/d)
+[^c-8a3c21900bad60f644cc84a7b230d895]: Textual amendment: Words in reg. 2(1A)(c) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(d)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/d)
 
-[^key-74603312f22b9a2d8876c778ea999857]: Textual amendment: Words in reg. 2(1B)(a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(e)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/e)
+[^c-74603312f22b9a2d8876c778ea999857]: Textual amendment: Words in reg. 2(1B)(a) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(e)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/e)
 
-[^key-b835295ff017994d584bccf4fb8b05ad]: Textual amendment: [Reg. 2(1B)(b)](https://www.legislation.gov.uk/uksi/2008/346/regulation/2/1B/b) and word omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/8/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b835295ff017994d584bccf4fb8b05ad]: Textual amendment: [Reg. 2(1B)(b)](https://www.legislation.gov.uk/uksi/2008/346/regulation/2/1B/b) and word omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [8(a)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/8/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0935a083270dcdf343d410e76404ac33]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/346/regulation/2/2) inserted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/8/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0935a083270dcdf343d410e76404ac33]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2008/346/regulation/2/2) inserted (31.12.2020) by [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [8(b)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/8/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19107721]: Marginal citation: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52).
 
@@ -976,101 +976,101 @@ A Regulatory Impact Assessment has been produced for this instrument and has bee
 
 [^c19107741]: Marginal citation: [S.I. 1981/156 (N.I. 3)](https://www.legislation.gov.uk/nisi/1981/156).
 
-[^key-ef046bfde7cb7b4d025151d59256e63f]: Textual amendment: Words in reg. 2(3) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [17(2)(a)](https://www.legislation.gov.uk/uksi/2020/744/article/17/2/a)
+[^c-ef046bfde7cb7b4d025151d59256e63f]: Textual amendment: Words in reg. 2(3) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [17(2)(a)](https://www.legislation.gov.uk/uksi/2020/744/article/17/2/a)
 
-[^key-926f46d3ce415f534f39a348629b8f88]: Textual amendment: Words in reg. 2(3) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/2020/744/article/17/2/b)
+[^c-926f46d3ce415f534f39a348629b8f88]: Textual amendment: Words in reg. 2(3) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [17(2)(b)](https://www.legislation.gov.uk/uksi/2020/744/article/17/2/b)
 
 [^c19107751]: Marginal citation: [S.I. 1992/1725 (N.I. 15)](https://www.legislation.gov.uk/nisi/1992/1725).
 
-[^key-f7ea54bc72de405a17091cc641668bc9]: Textual amendment: Words in reg. 2(3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/68) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
+[^c-f7ea54bc72de405a17091cc641668bc9]: Textual amendment: Words in reg. 2(3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/68) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
 
-[^key-53344151534b3533105a568d6323e44d]: Textual amendment: Words in reg. 2(3) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/18)
+[^c-53344151534b3533105a568d6323e44d]: Textual amendment: Words in reg. 2(3) substituted (1.4.2012) by [The Housing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2012 (S.I. 2012/700)](https://www.legislation.gov.uk/uksi/2012/700), [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/700/article/1/3), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2012/700/schedule/paragraph/18)
 
-[^key-9576d90941679fa98124bd47a1ff900f]: Textual amendment: Words in reg. 2(3) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2020/744/article/17/2/c)
+[^c-9576d90941679fa98124bd47a1ff900f]: Textual amendment: Words in reg. 2(3) substituted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/regulation/1), [17(2)(c)](https://www.legislation.gov.uk/uksi/2020/744/article/17/2/c)
 
-[^key-60612637eb9d1daee860a0d10d8cc632]: Textual amendment: Words in reg. 2(4) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(g)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/g)
+[^c-60612637eb9d1daee860a0d10d8cc632]: Textual amendment: Words in reg. 2(4) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 69(3)(g)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/69/3/g)
 
 [^c19107761]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544) as amended by the [Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682).
 
-[^key-a9b99098f472e60f2b170a813f8376d3]: Textual amendment: Reg. 7(1A)-(1E) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/4) (as amended (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2012 (S.I. 2012/2977)](https://www.legislation.gov.uk/uksi/2012/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2977/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2977/regulation/2/2))
+[^c-a9b99098f472e60f2b170a813f8376d3]: Textual amendment: Reg. 7(1A)-(1E) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/4) (as amended (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2012 (S.I. 2012/2977)](https://www.legislation.gov.uk/uksi/2012/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2977/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2977/regulation/2/2))
 
-[^key-470d310e73ba560c03a026a2e3c2d622]: Textual amendment: [Reg. 8(b)](https://www.legislation.gov.uk/uksi/2008/346/regulation/8/b) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/5)
+[^c-470d310e73ba560c03a026a2e3c2d622]: Textual amendment: [Reg. 8(b)](https://www.legislation.gov.uk/uksi/2008/346/regulation/8/b) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/5)
 
-[^key-50590322711de804f457883c5813d462]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2008/346/regulation/10/1) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/6/a)
+[^c-50590322711de804f457883c5813d462]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2008/346/regulation/10/1) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/6/a)
 
-[^key-2c5cc33e0b05d24e41d8e2ec6b247a1f]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2008/346/regulation/10/3) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/6/b)
+[^c-2c5cc33e0b05d24e41d8e2ec6b247a1f]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2008/346/regulation/10/3) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/6/b)
 
-[^key-a8eaa8d3def53b8dd05c1b3070e810de]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2008/346/regulation/13/6) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 150](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/150)
+[^c-a8eaa8d3def53b8dd05c1b3070e810de]: Textual amendment: Words in [reg. 13(6)](https://www.legislation.gov.uk/uksi/2008/346/regulation/13/6) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 150](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/150)
 
-[^key-0a510565b254b144e4497a6371bbb2f1]: Textual amendment: [Reg. 14(1)(b)](https://www.legislation.gov.uk/uksi/2008/346/regulation/14/1/b) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/7)
+[^c-0a510565b254b144e4497a6371bbb2f1]: Textual amendment: [Reg. 14(1)(b)](https://www.legislation.gov.uk/uksi/2008/346/regulation/14/1/b) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/7)
 
-[^key-6c42ef6c5985778ba6ca57d30b3b5fbc]: Textual amendment: [Reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2008/346/regulation/15/1/b) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/8)
+[^c-6c42ef6c5985778ba6ca57d30b3b5fbc]: Textual amendment: [Reg. 15(1)(b)](https://www.legislation.gov.uk/uksi/2008/346/regulation/15/1/b) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/8)
 
-[^key-1a145bca38aa6dec1b34298ad3d2530c]: Textual amendment: Word in reg. 17(2)(c) omitted (1.1.2013) by virtue of [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/9/a)
+[^c-1a145bca38aa6dec1b34298ad3d2530c]: Textual amendment: Word in reg. 17(2)(c) omitted (1.1.2013) by virtue of [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/9/a)
 
-[^key-35fe77e317bea67f9153c88f7bfd2b81]: Textual amendment: Reg. 17(2)(e)-(g) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/9/b)
+[^c-35fe77e317bea67f9153c88f7bfd2b81]: Textual amendment: Reg. 17(2)(e)-(g) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/9/b)
 
-[^key-c81035b3975945ed65499fe25cca3d7c]: Textual amendment: Reg. 17(2A)-(2C) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/9/c) (as amended (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2012 (S.I. 2012/2977)](https://www.legislation.gov.uk/uksi/2012/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2977/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2977/regulation/2/3))
+[^c-c81035b3975945ed65499fe25cca3d7c]: Textual amendment: Reg. 17(2A)-(2C) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/9/c) (as amended (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2012 (S.I. 2012/2977)](https://www.legislation.gov.uk/uksi/2012/2977), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/2977/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2012/2977/regulation/2/3))
 
-[^key-e691ce2e7862655e5eb25c2d4ed19a75]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2008/346/regulation/17A) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/10)
+[^c-e691ce2e7862655e5eb25c2d4ed19a75]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2008/346/regulation/17A) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/10)
 
-[^key-b7d0a1bda5c348197aea6d493d02dfa0]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/18/4)[(5)](https://www.legislation.gov.uk/uksi/2008/346/regulation/18/5) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/11)
+[^c-b7d0a1bda5c348197aea6d493d02dfa0]: Textual amendment: [Reg. 18(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/18/4)[(5)](https://www.legislation.gov.uk/uksi/2008/346/regulation/18/5) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/11)
 
-[^key-c77073bec075f2f9d03e98fe05ce8a04]: Textual amendment: Words in reg. 20(7) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 151](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/151)
+[^c-c77073bec075f2f9d03e98fe05ce8a04]: Textual amendment: Words in reg. 20(7) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 151](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/151)
 
-[^key-894cc3c73532593551209e701c0f4459]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/uksi/2008/346/regulation/21/3) substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/3)
+[^c-894cc3c73532593551209e701c0f4459]: Textual amendment: [Reg. 21(3)](https://www.legislation.gov.uk/uksi/2008/346/regulation/21/3) substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/3)
 
-[^key-51c36f5ba5d445c839c2faab0e99a656]: Textual amendment: Reg. 22 substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/4)
+[^c-51c36f5ba5d445c839c2faab0e99a656]: Textual amendment: Reg. 22 substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/4)
 
-[^key-94b5505d01b93801abd345d070a85e46]: Textual amendment: Reg. 22(1): reg. 22 renumbered as reg. 22(1) (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/12/a)
+[^c-94b5505d01b93801abd345d070a85e46]: Textual amendment: Reg. 22(1): reg. 22 renumbered as reg. 22(1) (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(12)(a)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/12/a)
 
-[^key-380656f70824c8e27cf9ea857076a55b]: Textual amendment: Reg. 22(2) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/12/b)
+[^c-380656f70824c8e27cf9ea857076a55b]: Textual amendment: Reg. 22(2) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/12/b)
 
-[^key-673360eb1070f882c49a318e86ba5d90]: Textual amendment: [Reg. 24(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2008/346/regulation/24/1/a/iv) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(13)(a)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/13/a)
+[^c-673360eb1070f882c49a318e86ba5d90]: Textual amendment: [Reg. 24(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2008/346/regulation/24/1/a/iv) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(13)(a)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/13/a)
 
-[^key-e698e46ed45f741ba5601d633f6e861d]: Textual amendment: [Reg. 24(2A)](https://www.legislation.gov.uk/uksi/2008/346/regulation/24/2A)[(2B)](https://www.legislation.gov.uk/uksi/2008/346/regulation/24/2B) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(13)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/13/b)
+[^c-e698e46ed45f741ba5601d633f6e861d]: Textual amendment: [Reg. 24(2A)](https://www.legislation.gov.uk/uksi/2008/346/regulation/24/2A)[(2B)](https://www.legislation.gov.uk/uksi/2008/346/regulation/24/2B) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(13)(b)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/13/b)
 
-[^key-ac9c1ea0ae3e1c77b956803492379b23]: Textual amendment: Words in [reg. 25(7)](https://www.legislation.gov.uk/uksi/2008/346/regulation/25/7) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 152](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/152)
+[^c-ac9c1ea0ae3e1c77b956803492379b23]: Textual amendment: Words in [reg. 25(7)](https://www.legislation.gov.uk/uksi/2008/346/regulation/25/7) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 152](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/152)
 
-[^key-d42d904457bd49a97e0b8701ba764214]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/2008/346/regulation/28/3) inserted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/5)
+[^c-d42d904457bd49a97e0b8701ba764214]: Textual amendment: [Reg. 28(3)](https://www.legislation.gov.uk/uksi/2008/346/regulation/28/3) inserted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/5)
 
-[^key-eed7b2f95d2bed8dac6ab2af7a466153]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2008/346/regulation/29) substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/6)
+[^c-eed7b2f95d2bed8dac6ab2af7a466153]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2008/346/regulation/29) substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/6)
 
 [^c19107781]: Marginal citation: [1988 c.36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-09e1dc31b97e0449a1518cf616bee2db]: Textual amendment: Words in reg. 32(4) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 153](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/153)
+[^c-09e1dc31b97e0449a1518cf616bee2db]: Textual amendment: Words in reg. 32(4) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 153](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/153)
 
-[^key-db9e311e1205874c2445bc59503a52f1]: Textual amendment: Words in reg. 35(5) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 154](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/154)
+[^c-db9e311e1205874c2445bc59503a52f1]: Textual amendment: Words in reg. 35(5) substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 154](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/154)
 
-[^key-1a3dd2e1b03a2a4d0cc2a3f65e760d3d]: Textual amendment: Reg. 36A inserted (1.4.2013) by [The Payment to Treasury of Penalties Regulations 2013 (S.I. 2013/429)](https://www.legislation.gov.uk/uksi/2013/429), [regs. 1](https://www.legislation.gov.uk/uksi/2013/429/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/429/regulation/2/3)
+[^c-1a3dd2e1b03a2a4d0cc2a3f65e760d3d]: Textual amendment: Reg. 36A inserted (1.4.2013) by [The Payment to Treasury of Penalties Regulations 2013 (S.I. 2013/429)](https://www.legislation.gov.uk/uksi/2013/429), [regs. 1](https://www.legislation.gov.uk/uksi/2013/429/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/429/regulation/2/3)
 
-[^key-2729a84f11c486a2b902d6d4e396ddae]: Textual amendment: Reg. 37 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/b)
+[^c-2729a84f11c486a2b902d6d4e396ddae]: Textual amendment: Reg. 37 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/b)
 
-[^key-b73ac38c5de003935f036bed71d51eda]: Textual amendment: Words in reg. 38(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/c)
+[^c-b73ac38c5de003935f036bed71d51eda]: Textual amendment: Words in reg. 38(1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/c)
 
-[^key-d0fa65fdb1ec4348af3d39b4cf9fd810]: Textual amendment: Reg. 38(1A) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(14)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/14)
+[^c-d0fa65fdb1ec4348af3d39b4cf9fd810]: Textual amendment: Reg. 38(1A) inserted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(14)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/14)
 
-[^key-bd65357a092c074c606e58fa80387d7f]: Textual amendment: Words in Pt. 8 heading substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 155](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/155)
+[^c-bd65357a092c074c606e58fa80387d7f]: Textual amendment: Words in Pt. 8 heading substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 155](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/155)
 
-[^key-bd76f9fb9be5c2ce6baccc5985ca4251]: Textual amendment: Words in reg. 39 substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 156](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/156)
+[^c-bd76f9fb9be5c2ce6baccc5985ca4251]: Textual amendment: Words in reg. 39 substituted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 156](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/156)
 
-[^key-1572e29d510c07357ac279faff31e267]: Textual amendment: Reg. 40 omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 157](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/157)
+[^c-1572e29d510c07357ac279faff31e267]: Textual amendment: Reg. 40 omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(f)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/f), [Sch. 3 para. 157](https://www.legislation.gov.uk/uksi/2010/22/schedule/3/paragraph/157)
 
-[^key-ec6dfca67c8e8c68cd255892fca10fdc]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2008/346/regulation/41) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2018/1401/regulation/9) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec6dfca67c8e8c68cd255892fca10fdc]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/2008/346/regulation/41) omitted (31.12.2020) by virtue of [The Capital Requirements (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1401)](https://www.legislation.gov.uk/uksi/2018/1401), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/1401/regulation/1/3), [9](https://www.legislation.gov.uk/uksi/2018/1401/regulation/9) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7908641a9f060bdc1e5f10493ebd675]: Textual amendment: Reg. 42(2) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(15)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/15)
+[^c-e7908641a9f060bdc1e5f10493ebd675]: Textual amendment: Reg. 42(2) substituted (1.1.2013) by [The Regulated Covered Bonds (Amendment) Regulations 2011 (S.I. 2011/2859)](https://www.legislation.gov.uk/uksi/2011/2859), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2859/regulation/1), [2(15)](https://www.legislation.gov.uk/uksi/2011/2859/regulation/2/15)
 
-[^key-79daeef74b67236e28961182f93d00c9]: Textual amendment: [Reg. 42(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/42/4)[(4A)](https://www.legislation.gov.uk/uksi/2008/346/regulation/42/4A) substituted for [reg. 42(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/42/4) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/d)
+[^c-79daeef74b67236e28961182f93d00c9]: Textual amendment: [Reg. 42(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/42/4)[(4A)](https://www.legislation.gov.uk/uksi/2008/346/regulation/42/4A) substituted for [reg. 42(4)](https://www.legislation.gov.uk/uksi/2008/346/regulation/42/4) (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(d)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/d)
 
-[^key-782270f0059224c20c97c22863ac52f9]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2008/346/regulation/43/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/e)
+[^c-782270f0059224c20c97c22863ac52f9]: Textual amendment: Words in [reg. 43(1)](https://www.legislation.gov.uk/uksi/2008/346/regulation/43/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(e)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/e)
 
-[^key-35bb26cc3ed98f2bb23f72888d8bef9a]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/uksi/2008/346/regulation/45) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/f)
+[^c-35bb26cc3ed98f2bb23f72888d8bef9a]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/uksi/2008/346/regulation/45) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(f)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/f)
 
-[^key-1f0a7fe2211aebdae04eb10d74a3f4dc]: Textual amendment: Word in Sch. para. 3 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(g)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/g/i)
+[^c-1f0a7fe2211aebdae04eb10d74a3f4dc]: Textual amendment: Word in Sch. para. 3 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(g)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/g/i)
 
-[^key-96bf965367f90ed613355605a7af432e]: Textual amendment: Sch. para. 4A inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(g)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/g/ii)
+[^c-96bf965367f90ed613355605a7af432e]: Textual amendment: Sch. para. 4A inserted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(g)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/g/ii)
 
-[^key-3519d7d55afb9f13c11a81f4cc5efefb]: Textual amendment: Sch. para. 5 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(g)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/g/iii)
+[^c-3519d7d55afb9f13c11a81f4cc5efefb]: Textual amendment: Sch. para. 5 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 134(g)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/134/g/iii)
 
 [^M_F_59b42d13-ef1d-4594-b8af-7debf927978f]: Textual amendment: Words in Sch. para. 7 heading substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(2)(c)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/2/c)
 
@@ -1078,15 +1078,15 @@ A Regulatory Impact Assessment has been produced for this instrument and has bee
 
 [^M_F_c103b5a6-84ee-4bf0-d406-2cdb2371a044]: Textual amendment: Words in Sch. para. 7(2) substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/2/b)
 
-[^key-9789fdaf05400d0c26670608f64c3510]: Textual amendment: Sch. para. 8 substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/7/a)
+[^c-9789fdaf05400d0c26670608f64c3510]: Textual amendment: Sch. para. 8 substituted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(7)(a)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/7/a)
 
 [^M_F_54a69057-b051-4ba8-cb6f-d8a04aba8cd1]: Textual amendment: Sch. para. 8 heading substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/3/b)
 
 [^M_F_222f2a01-e34e-46c4-b1b5-78703373b75c]: Textual amendment: Words in Sch. para. 8 substituted (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/3/a)
 
-[^key-be65d272a35ca4c5cc1642bf9b87a3f2]: Textual amendment: Words in Sch. para. 9(1) inserted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/7/b)
+[^c-be65d272a35ca4c5cc1642bf9b87a3f2]: Textual amendment: Words in Sch. para. 9(1) inserted (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(7)(b)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/7/b)
 
-[^key-131215001e2fb2e0ab93f65b4f84f481]: Textual amendment: Sch. para. 9(2)-(4) substituted for Sch. para. 9(2) (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/7/c)
+[^c-131215001e2fb2e0ab93f65b4f84f481]: Textual amendment: Sch. para. 9(2)-(4) substituted for Sch. para. 9(2) (22.7.2008) by [The Regulated Covered Bonds (Amendment) Regulations 2008 (S.I. 2008/1714)](https://www.legislation.gov.uk/uksi/2008/1714), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1714/regulation/1), [2(7)(c)](https://www.legislation.gov.uk/uksi/2008/1714/regulation/2/7/c)
 
 [^c19107811]: Marginal citation: S R. [1991 No.364](https://www.legislation.gov.uk/ukcm/1991/364).
 

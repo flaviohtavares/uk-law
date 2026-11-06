@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Notice of sums in arrears under running-account credit agreements[^key-f048a8efe9822976c05cb9ccf803a1a3][^key-6e6af05511b2f59a327eb927a825130c]
+## 10. Notice of sums in arrears under running-account credit agreements[^c-f048a8efe9822976c05cb9ccf803a1a3][^c-6e6af05511b2f59a327eb927a825130c]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ After section 86B of the 1974 Act (inserted by section 9 of this Act) insert—
 
 ## Annotations
 
-[^key-f048a8efe9822976c05cb9ccf803a1a3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/14/section/10) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
+[^c-f048a8efe9822976c05cb9ccf803a1a3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/14/section/10) in force at 16.6.2006 for specified purposes by [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
 
-[^key-6e6af05511b2f59a327eb927a825130c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/14/section/10) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
+[^c-6e6af05511b2f59a327eb927a825130c]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2006/14/section/10) in force at 1.10.2008 in so far as not already in force by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)

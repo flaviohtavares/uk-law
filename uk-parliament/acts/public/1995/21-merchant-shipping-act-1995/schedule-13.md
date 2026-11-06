@@ -28,7 +28,7 @@ Section 314.
 
 ### Sea Fisheries Act 1868 (c. 45)
 
-**2.**[^key-f044f0594e85698ee992af92abbf1471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f044f0594e85698ee992af92abbf1471] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Lloyd’s Act 1871 (c. xxi)
 
@@ -40,7 +40,7 @@ Section 314.
 
 ### Explosives Act 1875 (c. 17)
 
-**5.**[^key-fac9d63e8203ca3e3e32080ad988263f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-fac9d63e8203ca3e3e32080ad988263f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Explosive Substances Act 1883 (c. 3)
 
@@ -63,7 +63,7 @@ Section 314.
 
 ### Fisheries Act 1891 (c. 37)
 
-**9.**[^key-9e76f8996d81235a7ed451e091f2d1ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-9e76f8996d81235a7ed451e091f2d1ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commissioners for Oaths Act 1891 (c. 50)
 
@@ -71,11 +71,11 @@ Section 314.
 
 ### Seal Fisheries (North Pacific) Act 1895 (c.21)
 
-**11.**[^key-a048963c5fcadfc3c09d423c38b91aff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-a048963c5fcadfc3c09d423c38b91aff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Seal Fisheries (North Pacific) Act 1912 (c. 10)
 
-**12.**[^key-47d570654d6230f5fe039d1a2cc02b9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-47d570654d6230f5fe039d1a2cc02b9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Trustee Act 1925 (c. 19)
 
@@ -129,7 +129,7 @@ Section 314.
 
 ### Wireless Telegraphy Act 1949 (c. 54)
 
-**24.**[^key-a9bfa6f775cbb18e9b916498d7f0422e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-a9bfa6f775cbb18e9b916498d7f0422e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Coast Protection Act 1949 (c. 74)
 
@@ -213,15 +213,15 @@ Section 314.
 
 **38.** In the Sea Fish (Conservation) Act 1967—
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-66ab7ae5ca47dd64e2d05b02d04d929a] for section 1(9), substitute— *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-66ab7ae5ca47dd64e2d05b02d04d929a] for section 1(9), substitute— *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]
 
-  > (9 (Extent: E+W) (affected by repeal, see note))[^key-66ab7ae5ca47dd64e2d05b02d04d929a] In this section— *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]
+  > (9 (Extent: E+W) (affected by repeal, see note))[^c-66ab7ae5ca47dd64e2d05b02d04d929a] In this section— *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]
   >
-  > - “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]**British fishing boat *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]**” means a fishing boat which either is registered in the United Kingdom under Part II of the Merchant Shipping Act 1995 or is owned wholly by persons qualified to own British ships for the purposes of that Part of that Act; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]
-  > - “ *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]**foreign fishing boat *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]**” means any fishing boat other than a British fishing boat. *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]
+  > - “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]**British fishing boat *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]**” means a fishing boat which either is registered in the United Kingdom under Part II of the Merchant Shipping Act 1995 or is owned wholly by persons qualified to own British ships for the purposes of that Part of that Act; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]
+  > - “ *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]**foreign fishing boat *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]**” means any fishing boat other than a British fishing boat. *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]
 
-  ; *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-66ab7ae5ca47dd64e2d05b02d04d929a] in section 5(8)(b), for “Merchant Shipping (Registration, *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a] etc. *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]) Act 1993” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a] “ Merchant Shipping Act 1995 ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]; and *(Extent: E+W)* *(affected by repeal, see note)*[^key-66ab7ae5ca47dd64e2d05b02d04d929a]
+  ; *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-66ab7ae5ca47dd64e2d05b02d04d929a] in section 5(8)(b), for “Merchant Shipping (Registration, *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a] etc. *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]) Act 1993” substitute *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a] “ Merchant Shipping Act 1995 ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]; and *(Extent: E+W)* *(affected by repeal, see note)*[^c-66ab7ae5ca47dd64e2d05b02d04d929a]
 - (c) in section 22(1), for the definition of “British-owned” substitute—
 
   > “**British-owned**”, in relation to a fishing boat, means owned by a person who is for the purposes of Part II of the Merchant Shipping Act 1995 a person qualified to own a British ship, or owned by two or more persons any one of whom is for those purposes a person so qualified;
@@ -417,7 +417,7 @@ Section 314.
   - (i) in subsection (3), for “692 of the Merchant Shipping Act 1894” substitute “ 284 of the Merchant Shipping Act 1995 ”; and
   - (ii) in subsection (4)(a), for “1894 Act” substitute “ 1995 Act ”.
 
-### Senior Courts Act 1981 (c. 54)[^key-b15b92e2a52b6e626dccc5ccedc5b71f]
+### Senior Courts Act 1981 (c. 54)[^c-b15b92e2a52b6e626dccc5ccedc5b71f]
 
 **59.** (1) The Senior Courts Act 1981 shall be amended as follows.
 
@@ -496,7 +496,7 @@ Section 314.
 
 ### British Fishing Boats Act 1983 (c. 8)
 
-**68.**[^key-8007d37105be8f067315f079a07dfd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**68.**[^c-8007d37105be8f067315f079a07dfd0f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Health (Control of Disease) Act 1984 (c. 22)
 
@@ -693,32 +693,32 @@ Section 314.
 
 ## Annotations
 
-[^key-f044f0594e85698ee992af92abbf1471]: Textual amendment: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/2) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/3)
+[^c-f044f0594e85698ee992af92abbf1471]: Textual amendment: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/2) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/3)
 
 [^c14530261]: Textual amendment: Sch. 13 para. 4 repealed (19.11.1998) by [1998 c. 43](https://www.legislation.gov.uk/ukpga/1998/43), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1998/43/section/1/1), [Sch. 1 Pt. VIII](https://www.legislation.gov.uk/ukpga/1998/43/schedule/1/part/VIII)
 
-[^key-fac9d63e8203ca3e3e32080ad988263f]: Textual amendment: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/5) repealed: (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/20), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3)); and (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 15](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/15), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
+[^c-fac9d63e8203ca3e3e32080ad988263f]: Textual amendment: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/5) repealed: (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 20](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/20), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3)); and (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 15](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/15), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
 
 [^M_F_6cf60d49-cf9b-4e13-c048-441a085e58b2]: Textual amendment: By [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3)) it is provided that (22.4.2014) [Sch. 13 para. 7(2)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/7/2) and [(4)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/7/4) are repealed
 
-[^key-9e76f8996d81235a7ed451e091f2d1ea]: Textual amendment: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/9) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/3)
+[^c-9e76f8996d81235a7ed451e091f2d1ea]: Textual amendment: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/9) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/3)
 
-[^key-a048963c5fcadfc3c09d423c38b91aff]: Textual amendment: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/11) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
+[^c-a048963c5fcadfc3c09d423c38b91aff]: Textual amendment: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/11) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
 
-[^key-47d570654d6230f5fe039d1a2cc02b9f]: Textual amendment: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/12) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
+[^c-47d570654d6230f5fe039d1a2cc02b9f]: Textual amendment: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/12) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
 
-[^key-a9bfa6f775cbb18e9b916498d7f0422e]: Textual amendment: [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/24) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-a9bfa6f775cbb18e9b916498d7f0422e]: Textual amendment: [Sch. 13 para. 24](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/24) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
 
 [^c14530271]: Textual amendment: Sch. 13 para. 26 repealed (9.12.2001) by [S.I. 2001/3949](https://www.legislation.gov.uk/uksi/2001/3949), [reg. 9(2)](https://www.legislation.gov.uk/uksi/2001/3949/regulation/9/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3949/schedule/2) (with transitional provisions in [regs. 10-14](https://www.legislation.gov.uk/uksi/2001/3949/regulation/10))
 
 [^c14530281]: Textual amendment: Sch. 13 para. 28 repealed (1.1.2001) by [2000 c. 26](https://www.legislation.gov.uk/ukpga/2000/26), [s. 127(6)](https://www.legislation.gov.uk/ukpga/2000/26/section/127/6), [Sch. 9](https://www.legislation.gov.uk/ukpga/2000/26/schedule/9); [S.I. 2000/2957](https://www.legislation.gov.uk/uksi/2000/2957), [art. 2(2)](https://www.legislation.gov.uk/uksi/2000/2957/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2957/schedule/2)
 
-[^key-66ab7ae5ca47dd64e2d05b02d04d929a]: Textual amendment: [Sch. 13 para. 38(a)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/38/a)[(b)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/38/b) repealed (E.W.) (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(A)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/A); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
+[^c-66ab7ae5ca47dd64e2d05b02d04d929a]: Textual amendment: [Sch. 13 para. 38(a)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/38/a)[(b)](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/38/b) repealed (E.W.) (12.1.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [s. 324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pt. 5(A)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/A); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 27(b)](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/27/b)
 
 [^c15423001]: Textual amendment: Sch. 13 para. 48 repealed (1.11.1996) by [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56), [ss. 582(2)(3)](https://www.legislation.gov.uk/ukpga/1996/56/section/582/2/3), [583(2)](https://www.legislation.gov.uk/ukpga/1996/56/section/583/2), [Sch. 38 Pt. I](https://www.legislation.gov.uk/ukpga/1996/56/schedule/38/part/I) (with [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1996/56/section/1/4), [561](https://www.legislation.gov.uk/ukpga/1996/56/section/561), [562](https://www.legislation.gov.uk/ukpga/1996/56/section/562), [Sch. 39](https://www.legislation.gov.uk/ukpga/1996/56/schedule/39))
 
-[^key-b15b92e2a52b6e626dccc5ccedc5b71f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-b15b92e2a52b6e626dccc5ccedc5b71f]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c14530291]: Textual amendment: Sch. 13 para. 65 repealed (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 51](https://www.legislation.gov.uk/ukpga/1998/17/section/51), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1998/17/schedule/5/part/I) (With Sch. 3 para. 5(1)); [S.I. 1999/161](https://www.legislation.gov.uk/uksi/1999/161), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/161/article/2/1)
 
-[^key-8007d37105be8f067315f079a07dfd0f]: Textual amendment: [Sch. 13 para. 68](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/68) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/3)
+[^c-8007d37105be8f067315f079a07dfd0f]: Textual amendment: [Sch. 13 para. 68](https://www.legislation.gov.uk/ukpga/1995/21/schedule/13/paragraph/68) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 32(3)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/32/3)

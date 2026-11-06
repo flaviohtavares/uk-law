@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 462. Interpretation of Chapter III.[^key-06dd79d0f477f057e7be418e2e48584c]
+## 462. Interpretation of Chapter III.[^c-06dd79d0f477f057e7be418e2e48584c]
 
 *Extent: E+W*
 
@@ -25,9 +25,9 @@ summary: ''
 - “**equipment**” does not include clothing;
 - “**examination requirement**”, in relation to a syllabus for an examination, means a requirement which a pupil must meet in order to qualify for assessment for the purposes of determining his achievements in that examination in that syllabus.
 
-(2)[^key-29e0cf485d712b359932e0f584194dfb] In this Chapter “**residential trip**” means any trip—
+(2)[^c-29e0cf485d712b359932e0f584194dfb] In this Chapter “**residential trip**” means any trip—
 
-- (a) which is arranged for registered pupils at a maintained school by or on behalf of the governing body or the local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], and
+- (a) which is arranged for registered pupils at a maintained school by or on behalf of the governing body or the local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41], and
 - (b) which requires the pupils taking part to spend one or more nights away from their usual overnight accommodation.
 
 (3) For the purposes of this Chapter, a pupil shall be regarded as having been prepared at a school for a syllabus for a prescribed public examination if any part of the education provided with a view to preparing him for that examination in that syllabus has been provided for him at that school.
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-06dd79d0f477f057e7be418e2e48584c]: Modification: Pt. 6 Ch. 3 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/3)
+[^c-06dd79d0f477f057e7be418e2e48584c]: Modification: Pt. 6 Ch. 3 modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(3)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/3)
 
-[^key-29e0cf485d712b359932e0f584194dfb]: Modification: S. 462(2) modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(1)(b)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/1/b)
+[^c-29e0cf485d712b359932e0f584194dfb]: Modification: S. 462(2) modified (1.9.2013) by [The Operation of the Local Curriculum (Wales) Regulations 2013 (S.I. 2013/1793)](https://www.legislation.gov.uk/wsi/2013/1793), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/1/1), [6(1)(b)](https://www.legislation.gov.uk/wsi/2013/1793/regulation/6/1/b)
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

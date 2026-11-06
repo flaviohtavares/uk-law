@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 338. Industrial and provident societies and credit unions.[^key-03f97daa2de099b9380a4be675c113c5]
+## 338. Industrial and provident societies and credit unions.[^c-03f97daa2de099b9380a4be675c113c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03f97daa2de099b9380a4be675c113c5]: Textual amendment: S. 338 repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 54(1)(e)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/1/e), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [s. 54(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/2), [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-03f97daa2de099b9380a4be675c113c5]: Textual amendment: S. 338 repealed (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 54(1)(e)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/1/e), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [s. 54(2)](https://www.legislation.gov.uk/ukpga/2012/21/section/54/2), [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

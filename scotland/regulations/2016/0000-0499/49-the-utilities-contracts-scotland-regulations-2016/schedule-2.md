@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — SOCIAL AND OTHER SPECIFIC SERVICES[^key-1932791b29f3f9bbb9bcd01ffef871b3]
+## SCHEDULE 2 — SOCIAL AND OTHER SPECIFIC SERVICES[^c-1932791b29f3f9bbb9bcd01ffef871b3]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ Regulations 15(1)(c),65(9), 88 and 90(11)
 
 ## Annotations
 
-[^key-1932791b29f3f9bbb9bcd01ffef871b3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/49/schedule/2) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-1932791b29f3f9bbb9bcd01ffef871b3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2016/49/schedule/2) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

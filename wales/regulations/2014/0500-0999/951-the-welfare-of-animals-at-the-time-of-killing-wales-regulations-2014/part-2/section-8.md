@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Conditions for a certificate[^key-230852fe348ed8b7d597061eadc0e8d4]
+## 8. Conditions for a certificate[^c-230852fe348ed8b7d597061eadc0e8d4]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ The applicant must—
 
 ## Annotations
 
-[^key-230852fe348ed8b7d597061eadc0e8d4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2014/951/regulation/8) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-230852fe348ed8b7d597061eadc0e8d4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2014/951/regulation/8) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

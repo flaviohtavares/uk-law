@@ -52,7 +52,7 @@ that provision shall have effect as if the words from “for distinct parts of t
 (4) For the purposes of sub-paragraph (2)—
 
 - (a) a person is a relevant person if he is a person by or for whom the property is contracted to be purchased;
-- (b) the question whether persons are connected with one another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^key-1de47b7bf42ca50d6a71d99e03a802dc].
+- (b) the question whether persons are connected with one another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^c-1de47b7bf42ca50d6a71d99e03a802dc].
 
 (5) This paragraph applies to instruments executed on or after 23rd April 2002.
 
@@ -78,4 +78,4 @@ In this Schedule “**the enactments relating to stamp duty**” means the Stamp
 
 ## Annotations
 
-[^key-1de47b7bf42ca50d6a71d99e03a802dc]: Textual amendment: Words in Sch. 37 para. 2(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 377](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/377) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1de47b7bf42ca50d6a71d99e03a802dc]: Textual amendment: Words in Sch. 37 para. 2(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 377](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/377) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

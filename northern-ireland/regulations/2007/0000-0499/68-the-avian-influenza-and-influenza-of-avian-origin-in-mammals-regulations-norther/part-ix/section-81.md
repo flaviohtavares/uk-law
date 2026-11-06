@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Duty to provide reasonable assistance[^key-7c35e850af203d18c3ce42c7435d5b81]
+## 81. Duty to provide reasonable assistance[^c-7c35e850af203d18c3ce42c7435d5b81]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c35e850af203d18c3ce42c7435d5b81]: Commencement: Reg. 81 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-7c35e850af203d18c3ce42c7435d5b81]: Commencement: Reg. 81 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

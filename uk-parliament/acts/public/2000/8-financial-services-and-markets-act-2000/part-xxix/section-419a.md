@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 419A. Claims management services[^key-20e9d5cb1a0cfa58b80227971a06087c]
+## 419A. Claims management services[^c-20e9d5cb1a0cfa58b80227971a06087c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ but giving, or preparing to give, evidence (whether or not expert evidence) is n
 
 ## Annotations
 
-[^key-20e9d5cb1a0cfa58b80227971a06087c]: Textual amendment: Ss. 419A, 419B inserted (E.W.S.) (6.10.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 27(11)](https://www.legislation.gov.uk/ukpga/2018/10/section/27/11), [37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5); [S.I. 2018/1045](https://www.legislation.gov.uk/uksi/2018/1045), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1045/regulation/2/a)
+[^c-20e9d5cb1a0cfa58b80227971a06087c]: Textual amendment: Ss. 419A, 419B inserted (E.W.S.) (6.10.2018) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 27(11)](https://www.legislation.gov.uk/ukpga/2018/10/section/27/11), [37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5); [S.I. 2018/1045](https://www.legislation.gov.uk/uksi/2018/1045), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1045/regulation/2/a)

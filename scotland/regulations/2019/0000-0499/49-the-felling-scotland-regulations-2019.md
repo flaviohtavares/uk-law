@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-9329e57442cac484324cdeddd4aec27c]
+### 1. Citation, commencement and interpretation[^c-9329e57442cac484324cdeddd4aec27c]
 
 (1) These Regulations may be cited as the Felling (Scotland) Regulations 2019 and come into force on 1 April 2019.
 
@@ -65,7 +65,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — APPLICATIONS FOR FELLING PERMISSION
 
-### 2. Applications for felling permission[^key-fec97a417cc480f372011fbf9864783e]
+### 2. Applications for felling permission[^c-fec97a417cc480f372011fbf9864783e]
 
 (1) The Scottish Ministers may only accept an application for felling permission if it contains the information specified in paragraph (2).
 
@@ -110,7 +110,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “**thinning**” means the removal of selected live trees to improve the growth of the remaining trees or for the sustainable management of the woodland, and
 - “**tree preservation order**” means an order made or having effect as if made under section 160 of the Town and Country Planning (Scotland) Act 1997 [^c23569531].
 
-### 3. Felling applications: identification of species and coverage[^key-ed06c1dc3f396dcfd1ffb1cbb336f44f]
+### 3. Felling applications: identification of species and coverage[^c-ed06c1dc3f396dcfd1ffb1cbb336f44f]
 
 (1) Where the felling area specified in an application for felling permission consists of trees of a species which cover 20% or more of that area (in this regulation, a “main species”), the application must identify—
 
@@ -120,24 +120,24 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (2) Where paragraph (1) does not apply, the application must identify the species of trees to be felled as either “mixed broadleaves” or “mixed conifers” and the percentage of the felling area covered by that species.
 
-### 4. Felling applications: additional information and powers of entry[^key-3a60958dee8d8d7043c5a24bb3800a06]
+### 4. Felling applications: additional information and powers of entry[^c-3a60958dee8d8d7043c5a24bb3800a06]
 
 (1) The Scottish Ministers may—
 
 - (a) request from the applicant such additional information, and
-- (b)[^key-404445a93620b344974964032f7bc056] consult such persons and make such other inquiries as they may consider necessary or relevant for the purposes of making a decision on an application for felling permission.
+- (b)[^c-404445a93620b344974964032f7bc056] consult such persons and make such other inquiries as they may consider necessary or relevant for the purposes of making a decision on an application for felling permission.
 
 (2) The Scottish Ministers may at any reasonable time—
 
 - (a) enter the felling area with the consent of an owner or occupier of that land, and
-- (b)[^key-0ec502bee94531b27191f34f80d9cec3] take onto the felling area such other persons or such equipment as they consider necessary for the purposes of making a decision on an application for felling permission.
+- (b)[^c-0ec502bee94531b27191f34f80d9cec3] take onto the felling area such other persons or such equipment as they consider necessary for the purposes of making a decision on an application for felling permission.
 
 (3) An application for felling permission may be rejected by the Scottish Ministers without further consideration if—
 
 - (a) the applicant does not supply information that has been requested under paragraph (1)(a) within such reasonable timescale as the Scottish Ministers may have specified, or
 - (b) the Scottish Ministers are unable to access the felling area because consent under paragraph (2) is not given.
 
-### 5. Felling permission: conditions[^key-bd94adca23b2f6e44b6e8076249f19ea]
+### 5. Felling permission: conditions[^c-bd94adca23b2f6e44b6e8076249f19ea]
 
 (1) The Scottish Minsters may only impose conditions on a felling permission which relate to a matter mentioned in paragraph (2).
 
@@ -147,7 +147,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (b) avoidance or mitigation of impact on the environment, biodiversity or species,
 - (c) the retention of, or increase in, woodland cover.
 
-### 6. Notification of decisions on applications[^key-36a52d2fe7437f7ee52c81924a028ea2]
+### 6. Notification of decisions on applications[^c-36a52d2fe7437f7ee52c81924a028ea2]
 
 (1) Where the Scottish Ministers make a decision to grant (with or without conditions), or to refuse, an application for felling permission they must—
 
@@ -156,7 +156,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 (2) Where the Scottish Ministers make a decision to refuse an application for felling permission they must inform the applicant of the restriction on making further applications provided for by regulation 7.
 
-### 7. Restriction on further applications[^key-d3931f0984adc34ef61dd68c77c67eef]
+### 7. Restriction on further applications[^c-d3931f0984adc34ef61dd68c77c67eef]
 
 (1) Where the Scottish Ministers have refused an application for felling permission (“**the original application**”), a further application for felling permission may not be made in relation to the same circumstances.
 
@@ -166,7 +166,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 3 — RESTOCKING DIRECTIONS
 
-### 8. Restocking directions: notification[^key-c727c78ee01592a8091ad09c7a597461]
+### 8. Restocking directions: notification[^c-c727c78ee01592a8091ad09c7a597461]
 
 (1) A restocking direction under section 36(2) of the Act—
 
@@ -187,7 +187,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
     - (bb) which was not carried out in accordance with a felling permission, a felling direction, a restocking direction, a registered notice to comply, a remedial notice or a registered remedial notice [^c23569541], or
   - (ii) a continuing condition on a felling permission which has not been complied with.
 
-### 9. Conditions on a restocking direction[^key-c820328984d6c1f7a95c06b58fc16323]
+### 9. Conditions on a restocking direction[^c-c820328984d6c1f7a95c06b58fc16323]
 
 (1) The Scottish Minsters may only impose conditions on a restocking direction which relate to a matter mentioned in paragraph (2).
 
@@ -197,7 +197,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - (b) avoidance or mitigation of the impact on the environment, biodiversity or protection of species, and
 - (c) the retention of, or increase in, woodland cover.
 
-### 10. Restocking directions: restrictions[^key-124cae2aa9de235e1503323b2913ab17]
+### 10. Restocking directions: restrictions[^c-124cae2aa9de235e1503323b2913ab17]
 
 The Scottish Ministers may not give a restocking direction in connection with the felling of a tree that was the subject of a tree preservation order where the felling was carried out-
 
@@ -206,7 +206,7 @@ The Scottish Ministers may not give a restocking direction in connection with th
 
 ## PART 4 — FELLING DIRECTIONS
 
-### 11. Felling directions[^key-7519ceb4f9bb03934be79d5ee69ff34d]
+### 11. Felling directions[^c-7519ceb4f9bb03934be79d5ee69ff34d]
 
 (1) A felling direction under section 34(2) of the Act must—
 
@@ -234,7 +234,7 @@ The Scottish Ministers may not give a restocking direction in connection with th
 
 ## PART 5 — REMEDIAL NOTICES: CONDITIONS
 
-### 12. Remedial notices: conditions[^key-4ecd969ffa81bada8ceec3547b44ae47]
+### 12. Remedial notices: conditions[^c-4ecd969ffa81bada8ceec3547b44ae47]
 
 (1) The Scottish Minsters may only impose conditions on a remedial notice which relate to a matter mentioned in paragraph (2).
 
@@ -246,7 +246,7 @@ The Scottish Ministers may not give a restocking direction in connection with th
 
 ## PART 6 — APPEALS
 
-### 13. Appeals: who may appeal[^key-ca8a8cb583457a7bab511d6c8cf5a8e7]
+### 13. Appeals: who may appeal[^c-ca8a8cb583457a7bab511d6c8cf5a8e7]
 
 (1) An owner or occupier of land who is subject to a decision of a type referred to in section 68(1) of the Act may appeal to the Scottish Ministers against that decision.
 
@@ -255,7 +255,7 @@ The Scottish Ministers may not give a restocking direction in connection with th
 - (a) the person making an appeal under paragraph (1) is referred to as “**the appellant**”,
 - (b) the decision referred to in paragraph (1) is “the relevant decision”.
 
-### 14. Appeals: notice of appeal[^key-09ad09e94f8bc025e529c7ecf8fe2144]
+### 14. Appeals: notice of appeal[^c-09ad09e94f8bc025e529c7ecf8fe2144]
 
 (1) To make an appeal, the appellant must send a notice of appeal to the Scottish Ministers in accordance with this regulation.
 
@@ -280,7 +280,7 @@ The Scottish Ministers may not give a restocking direction in connection with th
 
 pursuant to regulation 15 or 16.
 
-### 15. Appeals: determination by the Scottish Ministers[^key-317ff6ce76e0dbb4205feefa226db20c]
+### 15. Appeals: determination by the Scottish Ministers[^c-317ff6ce76e0dbb4205feefa226db20c]
 
 (1) Following consideration of the material provided under regulation 14(3), the Scottish Ministers must—
 
@@ -293,7 +293,7 @@ pursuant to regulation 15 or 16.
 
 (4) When making and notifying the new decision, the Scottish Ministers must comply with any requirement of the Act or regulations made under it that applied to the making and notification of the relevant decision.
 
-### 16. Appeals: determination by an appointed person[^key-8b987c7c6d0aa2713efe1944d9e70106]
+### 16. Appeals: determination by an appointed person[^c-8b987c7c6d0aa2713efe1944d9e70106]
 
 (1) Where the Scottish Ministers refer an appeal for determination under regulation 15(1)(b), they must send to the appointed person-
 
@@ -331,7 +331,7 @@ and may otherwise follow such procedure as the appointed person considers to be 
 
 ## PART 7 — COMPENSATION
 
-### 17. Refusal of felling permission: compensation[^key-8d9bd698af8b26f0273edfb5a42724fe]
+### 17. Refusal of felling permission: compensation[^c-8d9bd698af8b26f0273edfb5a42724fe]
 
 (1) An applicant who—
 
@@ -344,7 +344,7 @@ may claim compensation from the Scottish Ministers under section 32(1) of the Ac
 
 (3) No compensation is payable in respect of an application for felling permission that has been rejected under regulation 4(3) or regulation 7(2).
 
-### 18. Refusal of felling permission: notice of claim for compensation[^key-774453e33c06926eca4864b024db6758]
+### 18. Refusal of felling permission: notice of claim for compensation[^c-774453e33c06926eca4864b024db6758]
 
 (1) A claim for compensation under section 32(1) of the Act must be made by giving notice of the claim in accordance with this regulation.
 
@@ -357,7 +357,7 @@ may claim compensation from the Scottish Ministers under section 32(1) of the Ac
 - (c) a statement setting out the full particulars of the claim by reference to the matters set out in regulation 19(1) and (2),
 - (d) any supporting evidence on which the claimant wishes to rely, which must include evidence that the claimed losses were suffered by the claimant as a result of the application for felling permission being refused.
 
-### 19. Refusal of felling permission: calculation of compensation[^key-4c0c839ceba128af950307a2049c697a]
+### 19. Refusal of felling permission: calculation of compensation[^c-4c0c839ceba128af950307a2049c697a]
 
 (1) The compensation to which a person may be entitled under section 32(1) of the Act is limited to the depreciation in the value of the trees that is attributable to deterioration in the quality of the timber comprised therein, over the period referred to in paragraph (2), in consequence of the refusal of felling permission.
 
@@ -380,13 +380,13 @@ may claim compensation from the Scottish Ministers under section 32(1) of the Ac
 
 (6) If the claimant fails to provide requested information within a timescale required by or under paragraph (5), the Scottish Ministers may reject the claim for compensation without further consideration.
 
-### 20. Temporary stop notice: compensation[^key-4d64fd38bfe146c30d123572c0bd7176]
+### 20. Temporary stop notice: compensation[^c-4d64fd38bfe146c30d123572c0bd7176]
 
 (1) A person who is entitled to claim compensation under section 47(1) of the Act may claim compensation from the Scottish Ministers in accordance with regulations 21 and 22.
 
 (2) For the purposes of regulations 20 to 23, a person making a claim under paragraph (1) is referred to as a “**claimant**”.
 
-### 21. Temporary stop notice: notice of claim for compensation[^key-f445a7abb823927e772fea93f57be89b]
+### 21. Temporary stop notice: notice of claim for compensation[^c-f445a7abb823927e772fea93f57be89b]
 
 (1) A claim for compensation under regulation 20(1) must be received by the Scottish Ministers within 12 months beginning with the date that the temporary stop notice was revoked under section 45(5) of the Act.
 
@@ -397,7 +397,7 @@ may claim compensation from the Scottish Ministers under section 32(1) of the Ac
 - (c) a statement setting out the full particulars of the claim by reference to the matters set out in regulation 22(1) and (2), and
 - (d) any supporting evidence that the claimant wishes to rely on.
 
-### 22. Temporary stop notice: calculation of compensation[^key-047000290a0530f5d8d7923b6097b914]
+### 22. Temporary stop notice: calculation of compensation[^c-047000290a0530f5d8d7923b6097b914]
 
 (1) The compensation to which a person may be entitled under section 47(1) of the Act is limited to losses suffered over the period referred to in paragraph (2) as a consequence of the prohibition of felling effected by the temporary stop notice.
 
@@ -417,7 +417,7 @@ may claim compensation from the Scottish Ministers under section 32(1) of the Ac
 
 (6) If the claimant fails to provide requested information within a timescale required by or under paragraph (5), the Scottish Ministers may reject the claim for compensation without further consideration.
 
-### 23. Determination of questions of disputed compensation[^key-11547057daab955763a8c7205140b51a]
+### 23. Determination of questions of disputed compensation[^c-11547057daab955763a8c7205140b51a]
 
 Any question of disputed compensation under this Part is to be determined by the Lands Tribunal for Scotland.
 
@@ -465,11 +465,11 @@ A business and regulatory impact has been prepared in relation to these Regulati
 
 [^c23569491]: Marginal citation: [2018 asp 8](https://www.legislation.gov.uk/asp/2018/8).
 
-[^key-9329e57442cac484324cdeddd4aec27c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/49/regulation/1) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-9329e57442cac484324cdeddd4aec27c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/49/regulation/1) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
 [^c23569501]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-fec97a417cc480f372011fbf9864783e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/49/regulation/2) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-fec97a417cc480f372011fbf9864783e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/49/regulation/2) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
 [^c23569511]: Marginal citation: An occupier of the land on which the tree is located may apply for permission to fell with the written permission of the owner of that land.
 
@@ -477,52 +477,52 @@ A business and regulatory impact has been prepared in relation to these Regulati
 
 [^c23569531]: Marginal citation: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8)
 
-[^key-ed06c1dc3f396dcfd1ffb1cbb336f44f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/49/regulation/3) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-ed06c1dc3f396dcfd1ffb1cbb336f44f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/49/regulation/3) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-3a60958dee8d8d7043c5a24bb3800a06]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/49/regulation/4) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-3a60958dee8d8d7043c5a24bb3800a06]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/49/regulation/4) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-404445a93620b344974964032f7bc056]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/ssi/2019/49/regulation/4/1/b) substituted for reg. 4(1)(b)(c) (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/12/2/a)
+[^c-404445a93620b344974964032f7bc056]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/ssi/2019/49/regulation/4/1/b) substituted for reg. 4(1)(b)(c) (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [12(2)(a)](https://www.legislation.gov.uk/ssi/2021/44/regulation/12/2/a)
 
-[^key-0ec502bee94531b27191f34f80d9cec3]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2019/49/regulation/4/2/b) substituted for reg. 4(1)(b)(c) (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/12/2/b)
+[^c-0ec502bee94531b27191f34f80d9cec3]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/ssi/2019/49/regulation/4/2/b) substituted for reg. 4(1)(b)(c) (18.3.2021) by [The Forestry and Land Management (Scotland) Act 2018 (Consequential, Saving and Transitional Provisions) Regulations 2021 (S.S.I. 2021/44)](https://www.legislation.gov.uk/ssi/2021/44), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/44/regulation/1/1), [12(2)(b)](https://www.legislation.gov.uk/ssi/2021/44/regulation/12/2/b)
 
-[^key-bd94adca23b2f6e44b6e8076249f19ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/49/regulation/5) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-bd94adca23b2f6e44b6e8076249f19ea]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/49/regulation/5) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-36a52d2fe7437f7ee52c81924a028ea2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/49/regulation/6) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-36a52d2fe7437f7ee52c81924a028ea2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/49/regulation/6) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-d3931f0984adc34ef61dd68c77c67eef]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2019/49/regulation/7) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-d3931f0984adc34ef61dd68c77c67eef]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2019/49/regulation/7) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-c727c78ee01592a8091ad09c7a597461]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2019/49/regulation/8) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-c727c78ee01592a8091ad09c7a597461]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2019/49/regulation/8) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
 [^c23569541]: Marginal citation: The terms felling permission, felling direction, restocking direction, registered notice to comply, remedial notice and registered remedial notice are defined in section 22 of the 2018 Act.
 
-[^key-c820328984d6c1f7a95c06b58fc16323]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2019/49/regulation/9) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-c820328984d6c1f7a95c06b58fc16323]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2019/49/regulation/9) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-124cae2aa9de235e1503323b2913ab17]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2019/49/regulation/10) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-124cae2aa9de235e1503323b2913ab17]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2019/49/regulation/10) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
 [^c23569551]: Marginal citation: [1967 c.10](https://www.legislation.gov.uk/ukpga/1967/10).
 
-[^key-7519ceb4f9bb03934be79d5ee69ff34d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2019/49/regulation/11) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-7519ceb4f9bb03934be79d5ee69ff34d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2019/49/regulation/11) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-4ecd969ffa81bada8ceec3547b44ae47]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2019/49/regulation/12) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-4ecd969ffa81bada8ceec3547b44ae47]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2019/49/regulation/12) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-ca8a8cb583457a7bab511d6c8cf5a8e7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2019/49/regulation/13) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-ca8a8cb583457a7bab511d6c8cf5a8e7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2019/49/regulation/13) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-09ad09e94f8bc025e529c7ecf8fe2144]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2019/49/regulation/14) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-09ad09e94f8bc025e529c7ecf8fe2144]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2019/49/regulation/14) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-317ff6ce76e0dbb4205feefa226db20c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2019/49/regulation/15) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-317ff6ce76e0dbb4205feefa226db20c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2019/49/regulation/15) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-8b987c7c6d0aa2713efe1944d9e70106]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2019/49/regulation/16) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-8b987c7c6d0aa2713efe1944d9e70106]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2019/49/regulation/16) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-8d9bd698af8b26f0273edfb5a42724fe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2019/49/regulation/17) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-8d9bd698af8b26f0273edfb5a42724fe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2019/49/regulation/17) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-774453e33c06926eca4864b024db6758]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2019/49/regulation/18) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-774453e33c06926eca4864b024db6758]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2019/49/regulation/18) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-4c0c839ceba128af950307a2049c697a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2019/49/regulation/19) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-4c0c839ceba128af950307a2049c697a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2019/49/regulation/19) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-4d64fd38bfe146c30d123572c0bd7176]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2019/49/regulation/20) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-4d64fd38bfe146c30d123572c0bd7176]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2019/49/regulation/20) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-f445a7abb823927e772fea93f57be89b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2019/49/regulation/21) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-f445a7abb823927e772fea93f57be89b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2019/49/regulation/21) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-047000290a0530f5d8d7923b6097b914]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2019/49/regulation/22) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-047000290a0530f5d8d7923b6097b914]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2019/49/regulation/22) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
 
-[^key-11547057daab955763a8c7205140b51a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2019/49/regulation/23) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)
+[^c-11547057daab955763a8c7205140b51a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2019/49/regulation/23) in force at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/49/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Certification of documents, etc.[^key-c5daaf7b2b3138843e6aa37871c9be2c]
+## 50. Certification of documents, etc.[^c-c5daaf7b2b3138843e6aa37871c9be2c]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5daaf7b2b3138843e6aa37871c9be2c]: Commencement: Art. 50 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-c5daaf7b2b3138843e6aa37871c9be2c]: Commencement: Art. 50 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

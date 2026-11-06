@@ -31,11 +31,11 @@ summary: ''
 
 (3) In this section “**new school**” means a school or proposed school—
 
-- (a) for which there is a temporary governing body constituted under section 34 of the Education Act 2002[^key-00bf4f3421f34347edbb42d0a9f60bc7], or
+- (a) for which there is a temporary governing body constituted under section 34 of the Education Act 2002[^c-00bf4f3421f34347edbb42d0a9f60bc7], or
 - (b) for which there is no such body but for which such a body—
   - (i) are required to be so constituted by virtue of subsection (1) of that section, or
   - (ii) may be so constituted in accordance with such anticipatory arrangements as are mentioned in subsection (5)(a) of that section.
 
 ## Annotations
 
-[^key-00bf4f3421f34347edbb42d0a9f60bc7]: Textual amendment: Words in s. 72(3)(a) substituted (1.4.2003 for E., 31.10.2005 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 21 para. 106](https://www.legislation.gov.uk/ukpga/2002/32/schedule/21/paragraph/106) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2005/2910](https://www.legislation.gov.uk/uksi/2005/2910), [art. 4](https://www.legislation.gov.uk/uksi/2005/2910/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/2910/schedule)
+[^c-00bf4f3421f34347edbb42d0a9f60bc7]: Textual amendment: Words in s. 72(3)(a) substituted (1.4.2003 for E., 31.10.2005 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 21 para. 106](https://www.legislation.gov.uk/ukpga/2002/32/schedule/21/paragraph/106) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2005/2910](https://www.legislation.gov.uk/uksi/2005/2910), [art. 4](https://www.legislation.gov.uk/uksi/2005/2910/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/2910/schedule)

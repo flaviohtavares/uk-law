@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. [Commission Regulation (EU) No 142/2011](https://www.legislation.gov.uk/european/regulation/2011/0142)[^key-162cd53cf71d403675b3256718ab50f4]
+## 13. [Commission Regulation (EU) No 142/2011](https://www.legislation.gov.uk/european/regulation/2011/0142)[^c-162cd53cf71d403675b3256718ab50f4]
 
 *Extent: E+W+S*
 
@@ -755,7 +755,7 @@ summary: ''
 
 ## Annotations
 
-[^key-162cd53cf71d403675b3256718ab50f4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1388/regulation/13) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-162cd53cf71d403675b3256718ab50f4]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1388/regulation/13) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00025]: Footnote: The Terrestrial Animal Health Code 2019 is freely accessible online (//www.oie.int/en/standard-setting/terrestrial-code/access-online) or available to order in hard copy from the OIE online bookshop (at http://web.oie.int/boutique/index.php). The OIE’s address is 12, rue de Prony, 75017 Paris, France). A hard copy version is also available to view on request at the offices of the Future Animal & Plant Health, Endemics & Traceability Team at the Department for Environment, Food and Rural Affairs, Seacole Building, 2 Marsham Street, London SW1P 4DF.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Opting into this scheme[^key-255053a984a9900dc6c82a38d123caeb]
+## 21. Opting into this scheme[^c-255053a984a9900dc6c82a38d123caeb]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-255053a984a9900dc6c82a38d123caeb]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-255053a984a9900dc6c82a38d123caeb]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

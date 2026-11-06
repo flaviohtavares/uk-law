@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Misleading statements[^key-6727baece0576a6ffdb2ce05aad0dc02]
+## 89. Misleading statements[^c-6727baece0576a6ffdb2ce05aad0dc02]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 - (a) price stabilising rules,
 - (b) control of information rules, or
-- (c)[^key-3c521f412cebedd2ed3773c6ebbc5ffb] the relevant provisions of Article 5 (exemption for buy-back programmes and stabilisation) of the market abuse regulation.
+- (c)[^c-3c521f412cebedd2ed3773c6ebbc5ffb] the relevant provisions of Article 5 (exemption for buy-back programmes and stabilisation) of the market abuse regulation.
 
 (4) Subsections (1) and (2) do not apply unless—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6727baece0576a6ffdb2ce05aad0dc02]: Commencement: S. 89 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-6727baece0576a6ffdb2ce05aad0dc02]: Commencement: S. 89 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-3c521f412cebedd2ed3773c6ebbc5ffb]: Textual amendment: [S. 89(3)(c)](https://www.legislation.gov.uk/ukpga/2012/21/section/89/3/c) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2016/680/regulation/15/2)
+[^c-3c521f412cebedd2ed3773c6ebbc5ffb]: Textual amendment: [S. 89(3)(c)](https://www.legislation.gov.uk/ukpga/2012/21/section/89/3/c) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2016/680/regulation/15/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Household waste: de-criminalisation[^c22547891][^key-56c96ac62b395198ded9ab48a1985e32]
+## 58. Household waste: de-criminalisation[^c22547891][^c-56c96ac62b395198ded9ab48a1985e32]
 
 *Extent: E+W+S*
 
@@ -153,4 +153,4 @@ summary: ''
 
 [^c22547891]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/20/section/58) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-56c96ac62b395198ded9ab48a1985e32]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/20/section/58) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)
+[^c-56c96ac62b395198ded9ab48a1985e32]: Commencement: [S. 58](https://www.legislation.gov.uk/ukpga/2015/20/section/58) in force at 15.6.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 8](https://www.legislation.gov.uk/uksi/2015/994/article/8)

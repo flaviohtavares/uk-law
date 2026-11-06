@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 79. Consultation with advisory committee[^key-496f458f46ed22e9f43039fe6e04b395]
+## 79. Consultation with advisory committee[^c-496f458f46ed22e9f43039fe6e04b395]
 
 *Extent: E*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-496f458f46ed22e9f43039fe6e04b395]: Commencement: [S. 79](https://www.legislation.gov.uk/ukcm/2018/3/section/79) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-496f458f46ed22e9f43039fe6e04b395]: Commencement: [S. 79](https://www.legislation.gov.uk/ukcm/2018/3/section/79) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

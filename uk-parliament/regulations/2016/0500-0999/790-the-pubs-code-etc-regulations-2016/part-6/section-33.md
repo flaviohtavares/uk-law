@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. MRO procedure: referrals in respect of procedural or event disputes[^key-b356858ae122baf996f2fd48274bed55]
+## 33. MRO procedure: referrals in respect of procedural or event disputes[^c-b356858ae122baf996f2fd48274bed55]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ the pub-owning business must provide that required full response within the peri
 
 ## Annotations
 
-[^key-b356858ae122baf996f2fd48274bed55]: Textual amendment: [Regs. 33](https://www.legislation.gov.uk/uksi/2016/790/regulation/33), [33A](https://www.legislation.gov.uk/uksi/2016/790/regulation/33A) substituted for reg. 33 (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-b356858ae122baf996f2fd48274bed55]: Textual amendment: [Regs. 33](https://www.legislation.gov.uk/uksi/2016/790/regulation/33), [33A](https://www.legislation.gov.uk/uksi/2016/790/regulation/33A) substituted for reg. 33 (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

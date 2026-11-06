@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Calculation of capital outside the United Kingdom[^key-1f84eb10faf43a81d9d813d72e99652e]
+## 36. Calculation of capital outside the United Kingdom[^c-1f84eb10faf43a81d9d813d72e99652e]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ Capital which a claimant possesses in a country outside the United Kingdom shall
 
 ## Annotations
 
-[^key-1f84eb10faf43a81d9d813d72e99652e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1991/2887/regulation/36) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-1f84eb10faf43a81d9d813d72e99652e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1991/2887/regulation/36) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

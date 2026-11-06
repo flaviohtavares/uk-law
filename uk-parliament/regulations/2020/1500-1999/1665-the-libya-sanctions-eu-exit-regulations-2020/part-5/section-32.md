@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Interpretation of this Part[^key-325805efb282b3e886056229cebfaadd]
+## 32. Interpretation of this Part[^c-325805efb282b3e886056229cebfaadd]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-325805efb282b3e886056229cebfaadd]: Commencement: Reg. 32 in force at 30.12.2020, see [reg. 1(2)(i)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/i)
+[^c-325805efb282b3e886056229cebfaadd]: Commencement: Reg. 32 in force at 30.12.2020, see [reg. 1(2)(i)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/i)
 
 [^c24411751]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697); [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165); [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939); [S.I. 2019/137](https://www.legislation.gov.uk/uksi/2019/137); and [S.I. 2019/989](https://www.legislation.gov.uk/uksi/2019/989). There are other instruments which amend other parts of the Order, which are not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Obtaining contraceptive services[^key-8d433544153ff4f99de5faf818438bde]
+## 28. Obtaining contraceptive services[^c-8d433544153ff4f99de5faf818438bde]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d433544153ff4f99de5faf818438bde]: Commencement: Reg. 28 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-8d433544153ff4f99de5faf818438bde]: Commencement: Reg. 28 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

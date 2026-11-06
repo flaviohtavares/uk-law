@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 169. Legal challenges relating to applications made to the Welsh Ministers or Secretary of State[^key-56ca580aa97445a8c0a1dee83c466e3a]
+## 169. Legal challenges relating to applications made to the Welsh Ministers or Secretary of State[^c-56ca580aa97445a8c0a1dee83c466e3a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56ca580aa97445a8c0a1dee83c466e3a]: Commencement: S. 169 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-56ca580aa97445a8c0a1dee83c466e3a]: Commencement: S. 169 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

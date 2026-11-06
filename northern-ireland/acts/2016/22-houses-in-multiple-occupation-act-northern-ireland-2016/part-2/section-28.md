@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Change of ownership: effect on licence[^key-5afb7b79ca8a10b11c69b0ba213afa63]
+## 28. Change of ownership: effect on licence[^c-5afb7b79ca8a10b11c69b0ba213afa63]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ the licence which is already in effect in respect of the HMO (“**the existing 
 
 ## Annotations
 
-[^key-5afb7b79ca8a10b11c69b0ba213afa63]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2016/22/section/28) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-5afb7b79ca8a10b11c69b0ba213afa63]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2016/22/section/28) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

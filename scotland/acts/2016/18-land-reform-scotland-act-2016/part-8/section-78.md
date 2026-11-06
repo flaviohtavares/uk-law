@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Functions of deer panels[^key-efe6770ba26e88df7e84a28cc3c8e05a]
+## 78. Functions of deer panels[^c-efe6770ba26e88df7e84a28cc3c8e05a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In section 4 of the Deer (Scotland) Act 1996 (appointment of panels), after subs
 
 ## Annotations
 
-[^key-efe6770ba26e88df7e84a28cc3c8e05a]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2016/18/section/78) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+[^c-efe6770ba26e88df7e84a28cc3c8e05a]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2016/18/section/78) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)

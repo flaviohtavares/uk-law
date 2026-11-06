@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Interpretation of Part 3 etc[^key-5f9ac54fe3f0ce97750f22cbf7af98eb]
+## 65. Interpretation of Part 3 etc[^c-5f9ac54fe3f0ce97750f22cbf7af98eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - “**access condition**” means a USP access condition or a general access condition,
 - “**access point**” has the meaning given by section 29(11),
-- “[^key-a12b0e55ac8438c40ceea353d19204f5]Citizens Advice” means the National Association of Citizens Advice Bureaux,
+- “[^c-a12b0e55ac8438c40ceea353d19204f5]Citizens Advice” means the National Association of Citizens Advice Bureaux,
 - “Citizens Advice Scotland” means the Scottish Association of Citizens Advice Bureaux;
 - “**consumer protection condition**” has the meaning given by section 51,
 - “**contravention**” has the meaning given by subsection (4)(a),
@@ -83,6 +83,6 @@ references in this Part to the provision of a universal postal service are to th
 
 ## Annotations
 
-[^key-5f9ac54fe3f0ce97750f22cbf7af98eb]: Commencement: S. 65 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-5f9ac54fe3f0ce97750f22cbf7af98eb]: Commencement: S. 65 in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-a12b0e55ac8438c40ceea353d19204f5]: Textual amendment: Words in s. 65(1) inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 13(6)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/13/6) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-a12b0e55ac8438c40ceea353d19204f5]: Textual amendment: Words in s. 65(1) inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 13(6)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/13/6) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. TRA's recommendations to the Secretary of State[^key-b536a0b51ce5a241b9fe0e35c050b9bf]
+## 51. TRA's recommendations to the Secretary of State[^c-b536a0b51ce5a241b9fe0e35c050b9bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b536a0b51ce5a241b9fe0e35c050b9bf]: Commencement: Reg. 51 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-b536a0b51ce5a241b9fe0e35c050b9bf]: Commencement: Reg. 51 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

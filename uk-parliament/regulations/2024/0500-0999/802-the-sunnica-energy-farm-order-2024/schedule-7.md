@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^key-c5ebcb203fd7f547348f625e7500630c]
+### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^c-c5ebcb203fd7f547348f625e7500630c]
 
 | *(1)*<br>*District* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ Article 12
 | East Cambridgeshire District | Weirs Drove | The provision of a permanent means of access to the authorised development from the northern side of Weirs Drove between the points marked CR-A1 and CR-A2 on sheet 20 of the access and rights of way plans. |
 | East Cambridgeshire District | Newnham Drove | The provision of a permanent means of access to the authorised development from the northern side of Newnham Drove between the points marked CR-B1 and CR-B2 on sheet 20 of the access and rights of way plans. |
 
-### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^key-14e9886058af4b4a67afb023c9a6b86a]
+### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^c-14e9886058af4b4a67afb023c9a6b86a]
 
 | *(1)*<br>*District* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -67,6 +67,6 @@ Article 12
 
 ## Annotations
 
-[^key-c5ebcb203fd7f547348f625e7500630c]: Commencement: Sch. 7 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-c5ebcb203fd7f547348f625e7500630c]: Commencement: Sch. 7 Pt. 1 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-14e9886058af4b4a67afb023c9a6b86a]: Commencement: Sch. 7 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-14e9886058af4b4a67afb023c9a6b86a]: Commencement: Sch. 7 Pt. 2 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Guidance[^key-d725f30e3276ed10d1d7931f9ddb601a]
+## 54. Guidance[^c-d725f30e3276ed10d1d7931f9ddb601a]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ and may issue revisions of any guidance issued by them (or approve revisions of 
 
 ## Annotations
 
-[^key-d725f30e3276ed10d1d7931f9ddb601a]: Commencement: S. 54 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(d)](https://www.legislation.gov.uk/ssi/2004/407/article/2/d)
+[^c-d725f30e3276ed10d1d7931f9ddb601a]: Commencement: S. 54 in force at 1.10.2004 by [S.S.I. 2004/407](https://www.legislation.gov.uk/ssi/2004/407), [art. 2(d)](https://www.legislation.gov.uk/ssi/2004/407/article/2/d)

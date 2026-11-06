@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Amendment of Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015[^key-db17ad6371a4f71a425ff278925c4360]
+## 61. Amendment of Offshore Petroleum Licensing (Offshore Safety Directive) Regulations 2015[^c-db17ad6371a4f71a425ff278925c4360]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db17ad6371a4f71a425ff278925c4360]: Commencement: Reg. 61 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-db17ad6371a4f71a425ff278925c4360]: Commencement: Reg. 61 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00028]: Footnote: [S.I. 2015/385](https://www.legislation.gov.uk/uksi/2015/385), amended by the Energy Act [2016 c. 20](https://www.legislation.gov.uk/ukpga/2016/20), Schedule 1, paragraph 81. There are other amendments which are not relevant.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4C — Advisers[^key-3e58495973a00b0c9d31478ff3966723]
+## SCHEDULE 4C — Advisers[^c-3e58495973a00b0c9d31478ff3966723]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ on questions of law arising in connection with any matter under consideration by
 
 - (a) have a ten year general qualification within the meaning of section 71 of the Courts and Legal Services Act 1990;
 - (b) be an advocate or solicitor in Scotland of at least ten years' standing; or
-- (c) be a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^key-8c33e42bdaf83889d662a25c176fbf76] of at least ten years' standing.
+- (c) be a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^c-8c33e42bdaf83889d662a25c176fbf76] of at least ten years' standing.
 
 (6) The Council may pay such fees, allowances or expenses to persons appointed as legal advisers as the Council may determine.
 
@@ -102,6 +102,6 @@ on matters within their professional competence arising in connection with any m
 
 ## Annotations
 
-[^key-3e58495973a00b0c9d31478ff3966723]: Textual amendment: Sch. 4C inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/2011/schedule/5) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-3e58495973a00b0c9d31478ff3966723]: Textual amendment: Sch. 4C inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [Sch. 5](https://www.legislation.gov.uk/uksi/2005/2011/schedule/5) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-8c33e42bdaf83889d662a25c176fbf76]: Textual amendment: Words in Sch. 4C para. 1(5)(c) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-8c33e42bdaf83889d662a25c176fbf76]: Textual amendment: Words in Sch. 4C para. 1(5)(c) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

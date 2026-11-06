@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Child safeguarding etc in health and care: policy about information sharing[^key-2339d8ad531cc3468fe4eff38bf87bf2]
+## 179. Child safeguarding etc in health and care: policy about information sharing[^c-2339d8ad531cc3468fe4eff38bf87bf2]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2339d8ad531cc3468fe4eff38bf87bf2]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2022/31/section/179) in force at 28.7.2022, see [s. 186(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/5)
+[^c-2339d8ad531cc3468fe4eff38bf87bf2]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2022/31/section/179) in force at 28.7.2022, see [s. 186(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/5)

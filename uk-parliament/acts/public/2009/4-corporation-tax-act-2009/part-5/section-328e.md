@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 328E. Counterfactual currency movement assumptions: treatment of options[^key-f968a33cf6bcfa172c4150c909f947a6]
+## 328E. Counterfactual currency movement assumptions: treatment of options[^c-f968a33cf6bcfa172c4150c909f947a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f968a33cf6bcfa172c4150c909f947a6]: Textual amendment: Ss. 328A-328H omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/21)
+[^c-f968a33cf6bcfa172c4150c909f947a6]: Textual amendment: Ss. 328A-328H omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 21](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43ZA. Obligations of licence holder in Great Britain supplying listed NIMAR products to Northern Ireland[^key-4ad71539e0cd94d6b9e1207e0cace314]
+## 43ZA. Obligations of licence holder in Great Britain supplying listed NIMAR products to Northern Ireland[^c-4ad71539e0cd94d6b9e1207e0cace314]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ to be falsified.
 
 ## Annotations
 
-[^key-4ad71539e0cd94d6b9e1207e0cace314]: Textual amendment: [Reg. 43ZA](https://www.legislation.gov.uk/uksi/2012/1916/regulation/43ZA) inserted (1.1.2022) by [The Human Medicines (Amendment) (Supply to Northern Ireland) Regulations 2021 (S.I. 2021/1452)](https://www.legislation.gov.uk/uksi/2021/1452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1452/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2021/1452/regulation/11)
+[^c-4ad71539e0cd94d6b9e1207e0cace314]: Textual amendment: [Reg. 43ZA](https://www.legislation.gov.uk/uksi/2012/1916/regulation/43ZA) inserted (1.1.2022) by [The Human Medicines (Amendment) (Supply to Northern Ireland) Regulations 2021 (S.I. 2021/1452)](https://www.legislation.gov.uk/uksi/2021/1452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1452/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2021/1452/regulation/11)

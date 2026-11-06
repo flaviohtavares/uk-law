@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 184. Notices otherwise advertised under the 1986 Act or the Rules[^key-bdc5fcb3fdeeabc261ad1debf6c15398]
+## 184. Notices otherwise advertised under the 1986 Act or the Rules[^c-bdc5fcb3fdeeabc261ad1debf6c15398]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdc5fcb3fdeeabc261ad1debf6c15398]: Commencement: [Rule 184](https://www.legislation.gov.uk/uksi/2013/3208/rule/184) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-bdc5fcb3fdeeabc261ad1debf6c15398]: Commencement: [Rule 184](https://www.legislation.gov.uk/uksi/2013/3208/rule/184) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

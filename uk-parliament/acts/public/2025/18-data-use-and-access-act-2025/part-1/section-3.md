@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Customer data: supplementary[^key-abbefb87495425149e6e0640d7373750][^key-015594f0a81a5209c8305f8ab05a21e4]
+## 3. Customer data: supplementary[^c-abbefb87495425149e6e0640d7373750][^c-015594f0a81a5209c8305f8ab05a21e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abbefb87495425149e6e0640d7373750]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-abbefb87495425149e6e0640d7373750]: Commencement: S. 3 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-015594f0a81a5209c8305f8ab05a21e4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/18/section/3) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-015594f0a81a5209c8305f8ab05a21e4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2025/18/section/3) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

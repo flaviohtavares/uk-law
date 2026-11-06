@@ -22,7 +22,7 @@ summary: ''
 
 Section 53
 
-### Part 1 — Repeals relating to registration[^key-00cc394fd0397c87eece61ef8d87c513][^key-aee04e10656b7acd26994f9f168472fd][^key-dfc8469b8b40937abb38e546d77b3b2c][^key-d78581aeb3579ef5386b0b9d4eb1d403][^c1917364]
+### Part 1 — Repeals relating to registration[^c-00cc394fd0397c87eece61ef8d87c513][^c-aee04e10656b7acd26994f9f168472fd][^c-dfc8469b8b40937abb38e546d77b3b2c][^c-d78581aeb3579ef5386b0b9d4eb1d403][^c1917364]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -40,7 +40,7 @@ Section 53
 | Greenham and Crookham Commons Act 2002 (c. i) | Section 33(1). |
 | Constitutional Reform Act 2005 (c. 4) | In Schedule 7, in paragraph 4, the entry relating to the Commons Registration Act 1965.<br>In Schedule 14, in Part 3, the entries relating to—<br>- (a) Commons Commissioner and Chief Commons Commissioner; and<br>- (b) Substitute Chief Commons Commissioner. |
 
-### Part 2 — Repeals relating to works[^key-4feeadefd787627659036b6233a5acbd][^c1917385]
+### Part 2 — Repeals relating to works[^c-4feeadefd787627659036b6233a5acbd][^c1917385]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -57,7 +57,7 @@ Section 53
 | Environment Act 1995 (c. 25) | In Schedule 9, paragraph 1(2)(b). |
 | Communications Act 2003 (c. 21) | In Schedule 17, paragraph 3. |
 
-### Part 3 — Repeals relating to approvement and inclosure[^key-e9c4eabb8a9f9e81de7654d0014c6e99][^c1917404]
+### Part 3 — Repeals relating to approvement and inclosure[^c-e9c4eabb8a9f9e81de7654d0014c6e99][^c1917404]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -80,7 +80,7 @@ Section 53
 | --- | --- |
 | Commons Act 1899 (c. 30) | In section 1(3), the words from “, and for” to the end. |
 
-### Part 5 — Repeal relating to vehicular access[^key-3881812480aee594ee74111eea567b9e][^c1968334]
+### Part 5 — Repeal relating to vehicular access[^c-3881812480aee594ee74111eea567b9e][^c1968334]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -88,24 +88,24 @@ Section 53
 
 ## Annotations
 
-[^key-00cc394fd0397c87eece61ef8d87c513]: Commencement: Sch. 6 Pt. 1 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/h), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
+[^c-00cc394fd0397c87eece61ef8d87c513]: Commencement: Sch. 6 Pt. 1 in force at 1.10.2008 for specified purposes for E. by [S.I. 2008/1960](https://www.legislation.gov.uk/uksi/2008/1960), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/1960/article/2/1/h), [Sch.](https://www.legislation.gov.uk/uksi/2008/1960/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/1960/article/3))
 
-[^key-aee04e10656b7acd26994f9f168472fd]: Commencement: Sch. 6 Pt. 1 in force at 1.12.2010 for specified purposes by [S.I. 2010/2356](https://www.legislation.gov.uk/uksi/2010/2356), [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2356/article/3/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2356/article/4))
+[^c-aee04e10656b7acd26994f9f168472fd]: Commencement: Sch. 6 Pt. 1 in force at 1.12.2010 for specified purposes by [S.I. 2010/2356](https://www.legislation.gov.uk/uksi/2010/2356), [art. 3(2)](https://www.legislation.gov.uk/uksi/2010/2356/article/3/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2010/2356/article/4))
 
-[^key-dfc8469b8b40937abb38e546d77b3b2c]: Commencement: Sch. 6 Pt. 1 in force at 1.12.2010 for specified purposes by [S.I. 2010/2356](https://www.legislation.gov.uk/uksi/2010/2356), [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2356/article/3/3)
+[^c-dfc8469b8b40937abb38e546d77b3b2c]: Commencement: Sch. 6 Pt. 1 in force at 1.12.2010 for specified purposes by [S.I. 2010/2356](https://www.legislation.gov.uk/uksi/2010/2356), [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/2356/article/3/3)
 
-[^key-d78581aeb3579ef5386b0b9d4eb1d403]: Commencement: Sch. 6 Pt. 1 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
+[^c-d78581aeb3579ef5386b0b9d4eb1d403]: Commencement: Sch. 6 Pt. 1 in force at 15.12.2014 for specified purposes for E. by [S.I. 2014/3026](https://www.legislation.gov.uk/uksi/2014/3026), [art. 3(1)(i)](https://www.legislation.gov.uk/uksi/2014/3026/article/3/1/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/3026/article/5))
 
 [^c1917364]: Commencement: Sch. 6 Pt. 1 partly in force; Sch. 6 Pt. 1 not in force at Royal Assent see s. 56(1); Sch. 6 Pt. 1 in force for certain purposes for E. at 1.10.2006 by [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(h)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/h) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/2504/article/3)); Sch. 6 Pt. 1 in force for certain purposes for E. at 6.4.2007 by [S.I. 2007/456](https://www.legislation.gov.uk/uksi/2007/456), [art. 3](https://www.legislation.gov.uk/uksi/2007/456/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/456/article/4)); Sch. 6 Pt. 1 in force for certain purposes for W. at 6.9.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3](https://www.legislation.gov.uk/uksi/2007/2386/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2386/article/4))
 
-[^key-4feeadefd787627659036b6233a5acbd]: Commencement: Sch. 6 Pt. 2 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(ii)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/ii) (with [art. 4(4)](https://www.legislation.gov.uk/wsi/2012/739/article/4/4))
+[^c-4feeadefd787627659036b6233a5acbd]: Commencement: Sch. 6 Pt. 2 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(ii)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/ii) (with [art. 4(4)](https://www.legislation.gov.uk/wsi/2012/739/article/4/4))
 
 [^c1917385]: Commencement: Sch. 6 Pt. 2 partly in force; Sch. 6 Pt. 2 not in force at Royal Assent see s. 56(1); Sch. 6 Pt. 2 in force for certain purposes for E. at 1.10.2006 by [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(i)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/i); Sch. 6 Pt. 2 in force for certain purposes for W. at 6.9.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3](https://www.legislation.gov.uk/uksi/2007/2386/article/3); Sch. 6 Pt. 2 in force for E. at 1.10.2007 by [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2](https://www.legislation.gov.uk/uksi/2007/2584/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2584/article/3))
 
-[^key-e9c4eabb8a9f9e81de7654d0014c6e99]: Commencement: Sch. 6 Pt. 3 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(ii)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/ii) (with [art. 4(2)](https://www.legislation.gov.uk/wsi/2012/739/article/4/2))
+[^c-e9c4eabb8a9f9e81de7654d0014c6e99]: Commencement: Sch. 6 Pt. 3 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(ii)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/ii) (with [art. 4(2)](https://www.legislation.gov.uk/wsi/2012/739/article/4/2))
 
 [^c1917404]: Commencement: Sch. 6 Pt. 3 partly in force; Sch. 6 Pt. 3 not in force at Royal Assent, see s. 56(1); Sch. 6 Pt. 3 in force for certain purposes for E. at 1.10.2006 by [S.I. 2006/2504](https://www.legislation.gov.uk/uksi/2006/2504), [art. 2(j)](https://www.legislation.gov.uk/uksi/2006/2504/article/2/j); Sch. 6 Pt. 3 in force for certain purposes for W. at 6.9.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3](https://www.legislation.gov.uk/uksi/2007/2386/article/3); Sch. 6 Pt. 3 in force for E. at 1.10.2007 by [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2](https://www.legislation.gov.uk/uksi/2007/2584/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2584/article/3))
 
-[^key-3881812480aee594ee74111eea567b9e]: Commencement: Sch. 6 Pt. 5 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(ii)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/ii)
+[^c-3881812480aee594ee74111eea567b9e]: Commencement: Sch. 6 Pt. 5 in force at 1.4.2012 for W. in so far as not already in force by [S.I. 2012/739](https://www.legislation.gov.uk/wsi/2012/739), [art. 2(h)(ii)](https://www.legislation.gov.uk/wsi/2012/739/article/2/h/ii)
 
 [^c1968334]: Commencement: Sch. 6 Pt. 5 wholly in force at 1.10.2007; Sch. 6 Pt. 5 not in force at Royal Assent see s. 56(1); Sch. 6 Pt. 5 in force for W. at 6.9.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3](https://www.legislation.gov.uk/uksi/2007/2386/article/3); Sch. 6 Pt. 5 in force for E. at 1.10.2007 by [S.I. 2007/2584](https://www.legislation.gov.uk/uksi/2007/2584), [art. 2](https://www.legislation.gov.uk/uksi/2007/2584/article/2)

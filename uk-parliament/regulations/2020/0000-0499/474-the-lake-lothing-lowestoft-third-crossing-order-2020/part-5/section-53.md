@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Traffic regulation measures[^key-c12298bd52aab464333e8cdad01de6a4]
+## 53. Traffic regulation measures[^c-c12298bd52aab464333e8cdad01de6a4]
 
 *Extent: E+W*
 
@@ -70,6 +70,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-c12298bd52aab464333e8cdad01de6a4]: Commencement: Art. 53 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-c12298bd52aab464333e8cdad01de6a4]: Commencement: Art. 53 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
 
 [^c24091441]: Marginal citation: [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).

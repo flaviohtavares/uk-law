@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Other key terms[^key-0a8c405d9f85c8847994300ead81d7da]
+## 3. Other key terms[^c-0a8c405d9f85c8847994300ead81d7da]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a8c405d9f85c8847994300ead81d7da]: Commencement: S. 3 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/c)
+[^c-0a8c405d9f85c8847994300ead81d7da]: Commencement: S. 3 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(c)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/c)

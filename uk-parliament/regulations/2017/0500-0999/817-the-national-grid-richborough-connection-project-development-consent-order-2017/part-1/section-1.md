@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-35be623c97459599b273a11a1433671c]
+## 1. Citation and commencement[^c-35be623c97459599b273a11a1433671c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the National Grid (Richborough Connection Project) De
 
 ## Annotations
 
-[^key-35be623c97459599b273a11a1433671c]: Commencement: Art. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-35be623c97459599b273a11a1433671c]: Commencement: Art. 1 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

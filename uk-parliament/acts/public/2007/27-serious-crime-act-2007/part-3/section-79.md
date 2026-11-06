@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Powers to recover cash[^key-157f93be1c77b7d524419845a224b99d]
+## 79. Powers to recover cash[^c-157f93be1c77b7d524419845a224b99d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 11 (which gives accredited financial investigators powers to recover ca
 
 ## Annotations
 
-[^key-157f93be1c77b7d524419845a224b99d]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2007/27/section/79) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)
+[^c-157f93be1c77b7d524419845a224b99d]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2007/27/section/79) in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/f)

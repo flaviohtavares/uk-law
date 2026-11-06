@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198AA. C4C’s duties in relation to commissioning programmes[^key-c2e5b63b4a7c236cf93395b031e18c6d]
+## 198AA. C4C’s duties in relation to commissioning programmes[^c-c2e5b63b4a7c236cf93395b031e18c6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2e5b63b4a7c236cf93395b031e18c6d]: Textual amendment: S. 198AA inserted (23.8.2024 for specified purposes, 1.10.2025 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/30/2), [55(3)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/b); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/2/b)
+[^c-c2e5b63b4a7c236cf93395b031e18c6d]: Textual amendment: S. 198AA inserted (23.8.2024 for specified purposes, 1.10.2025 in so far as not already in force) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2024/15/section/30/2), [55(3)(b)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/b); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 3](https://www.legislation.gov.uk/uksi/2024/858/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2024/858/schedule); [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/2/b)

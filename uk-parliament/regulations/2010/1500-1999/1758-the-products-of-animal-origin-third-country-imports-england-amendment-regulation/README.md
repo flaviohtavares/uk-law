@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture, England
 
-The Products of Animal Origin (Third Country Imports) (England) (Amendment) Regulations 2010 (revoked)[^key-6686a686092b266ab272355d3d84a80e]
+The Products of Animal Origin (Third Country Imports) (England) (Amendment) Regulations 2010 (revoked)[^c-6686a686092b266ab272355d3d84a80e]
 
 Made
 
@@ -46,7 +46,7 @@ Coming into force
 
 29th July 2010
 
-[^key-6686a686092b266ab272355d3d84a80e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6686a686092b266ab272355d3d84a80e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -59,13 +59,13 @@ Coming into force
 
 **No longer in force.**
 
-[^key-6686a686092b266ab272355d3d84a80e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6686a686092b266ab272355d3d84a80e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+NI*
 
 **No longer in force.**
 
-[^key-6686a686092b266ab272355d3d84a80e]EXPLANATORY NOTE
+[^c-6686a686092b266ab272355d3d84a80e]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -77,4 +77,4 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-6686a686092b266ab272355d3d84a80e]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), regs. 1, [44(g)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/g) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
+[^c-6686a686092b266ab272355d3d84a80e]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), regs. 1, [44(g)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/g) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))

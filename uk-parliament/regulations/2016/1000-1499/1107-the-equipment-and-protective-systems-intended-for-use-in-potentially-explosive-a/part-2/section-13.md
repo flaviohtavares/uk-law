@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Information identifying manufacturer[^key-5123f70789cb5cb61eda54e50b07b89d]
+## 13. Information identifying manufacturer[^c-5123f70789cb5cb61eda54e50b07b89d]
 
 *Extent: E+W+S*
 
@@ -30,10 +30,10 @@ summary: ''
 - (a) on the product packaging, or
 - (b) in a document accompanying the product.
 
-(3)[^key-91930063f521b87083bd02965f3fedde] The information specified in paragraph (1) must be in a language which can be easily understood by end users and the market surveillance authority.
+(3)[^c-91930063f521b87083bd02965f3fedde] The information specified in paragraph (1) must be in a language which can be easily understood by end users and the market surveillance authority.
 
 ## Annotations
 
-[^key-5123f70789cb5cb61eda54e50b07b89d]: Commencement: Reg. 13 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-5123f70789cb5cb61eda54e50b07b89d]: Commencement: Reg. 13 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
 
-[^key-91930063f521b87083bd02965f3fedde]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/13/3) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 9](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/9) (with [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91930063f521b87083bd02965f3fedde]: Textual amendment: [Reg. 13(3)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/13/3) substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 9](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/9) (with [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

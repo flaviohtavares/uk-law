@@ -31,28 +31,28 @@ summary: ''
 
 Pensions
 
-The Pensions Act 2004 (Codes of Practice) (Reporting Late Payment of Contributions) Appointed Day Order 2013 (revoked)[^key-68b4a00b12d03466e552f43a0b1c661d]
+The Pensions Act 2004 (Codes of Practice) (Reporting Late Payment of Contributions) Appointed Day Order 2013 (revoked)[^c-68b4a00b12d03466e552f43a0b1c661d]
 
 Made
 
 11th September 2013
 
-[^key-68b4a00b12d03466e552f43a0b1c661d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68b4a00b12d03466e552f43a0b1c661d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-68b4a00b12d03466e552f43a0b1c661d]
+## 1. Citation[^c-68b4a00b12d03466e552f43a0b1c661d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appointed day[^key-68b4a00b12d03466e552f43a0b1c661d]
+## 2. Appointed day[^c-68b4a00b12d03466e552f43a0b1c661d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68b4a00b12d03466e552f43a0b1c661d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68b4a00b12d03466e552f43a0b1c661d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-68b4a00b12d03466e552f43a0b1c661d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-68b4a00b12d03466e552f43a0b1c661d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-68b4a00b12d03466e552f43a0b1c661d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/2316) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(e)](https://www.legislation.gov.uk/uksi/2024/431/article/4/e)
+[^c-68b4a00b12d03466e552f43a0b1c661d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2013/2316) revoked (28.3.2024) by [The Pensions Act 2004 (General Code of Practice) (Appointed Day, Amendment and Revocations) Order 2024 (S.I. 2024/431)](https://www.legislation.gov.uk/uksi/2024/431), [art. 4(e)](https://www.legislation.gov.uk/uksi/2024/431/article/4/e)

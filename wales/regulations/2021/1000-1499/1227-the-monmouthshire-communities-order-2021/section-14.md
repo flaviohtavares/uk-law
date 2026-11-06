@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Castle — change of community ward name[^key-d742c7e4bf265aaaa402c5cbce100bec][^key-4f09a0a5074d10744bc1400f7cbeffaa]
+## 14. Castle — change of community ward name[^c-d742c7e4bf265aaaa402c5cbce100bec][^c-4f09a0a5074d10744bc1400f7cbeffaa]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The Castle ward of the community of Abergavenny as changed by this Order and sho
 
 ## Annotations
 
-[^key-d742c7e4bf265aaaa402c5cbce100bec]: Commencement: Art. 14 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-d742c7e4bf265aaaa402c5cbce100bec]: Commencement: Art. 14 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-4f09a0a5074d10744bc1400f7cbeffaa]: Commencement: [Art. 14](https://www.legislation.gov.uk/wsi/2021/1227/article/14) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-4f09a0a5074d10744bc1400f7cbeffaa]: Commencement: [Art. 14](https://www.legislation.gov.uk/wsi/2021/1227/article/14) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

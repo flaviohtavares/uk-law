@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE, WALES
 
-The Pig Carcase (Grading) (Amendment) (Wales) Regulations 2004 (revoked)[^key-cf7d02e554255c05202b5ff0abd40465]
+The Pig Carcase (Grading) (Amendment) (Wales) Regulations 2004 (revoked)[^c-cf7d02e554255c05202b5ff0abd40465]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 31st January 2004
 
-[^key-cf7d02e554255c05202b5ff0abd40465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf7d02e554255c05202b5ff0abd40465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-cf7d02e554255c05202b5ff0abd40465]
+## 1. Title, commencement and application[^c-cf7d02e554255c05202b5ff0abd40465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Pig Carcase (Grading) Regulations 1994[^key-cf7d02e554255c05202b5ff0abd40465]
+## 2. Amendment to the Pig Carcase (Grading) Regulations 1994[^c-cf7d02e554255c05202b5ff0abd40465]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf7d02e554255c05202b5ff0abd40465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf7d02e554255c05202b5ff0abd40465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf7d02e554255c05202b5ff0abd40465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf7d02e554255c05202b5ff0abd40465]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf7d02e554255c05202b5ff0abd40465]: Textual amendment: Regulations revoked (1.9.2011) by [The Beef and Pig Carcase Classification (Wales) Regulations 2011 (S.I. 2011/1826)](https://www.legislation.gov.uk/uksi/2011/1826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/4/d)
+[^c-cf7d02e554255c05202b5ff0abd40465]: Textual amendment: Regulations revoked (1.9.2011) by [The Beef and Pig Carcase Classification (Wales) Regulations 2011 (S.I. 2011/1826)](https://www.legislation.gov.uk/uksi/2011/1826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/1/2), [4(d)](https://www.legislation.gov.uk/uksi/2011/1826/regulation/4/d)

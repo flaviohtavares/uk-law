@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B. Register of notified bodies established in the United Kingdom[^key-1911d5748945cb589eb9427555db1519]
+## 50B. Register of notified bodies established in the United Kingdom[^c-1911d5748945cb589eb9427555db1519]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1911d5748945cb589eb9427555db1519]: Textual amendment: [Regs. 50A](https://www.legislation.gov.uk/uksi/2016/1093/regulation/50A), [50B](https://www.legislation.gov.uk/uksi/2016/1093/regulation/50B) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/9/3)
+[^c-1911d5748945cb589eb9427555db1519]: Textual amendment: [Regs. 50A](https://www.legislation.gov.uk/uksi/2016/1093/regulation/50A), [50B](https://www.legislation.gov.uk/uksi/2016/1093/regulation/50B) inserted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (UK(NI) Indication) (EU Exit) Regulations 2020 (S.I. 2020/1460)](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/2), [Sch. 2 para. 9(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/2/paragraph/9/3)

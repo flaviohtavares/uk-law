@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 2 — Relevant material which may not be landed in or moved within Northern Ireland if that material is carrying or infected with plant pests[^key-d1582697420cbc312935f90ee9f87c1d]
+## SCHEDULE 2 — Relevant material which may not be landed in or moved within Northern Ireland if that material is carrying or infected with plant pests[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Articles 5(1), 12(2), 19(1), 20(1),24(4), 29(7), 32(5), 33(2), 41(2),42(2) and 43(2)
 
-### PART A — Plant pests not known to occur in the European Community[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART A — Plant pests not known to occur in the European Community[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Plant pests known to occur in the European Community[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART B — Plant pests known to occur in the European Community[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART C — Plant pests whose introduction into, and spread within, Northern Ireland (as a protected zone) shall be banned if they are present on certain relevant material[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART C — Plant pests whose introduction into, and spread within, Northern Ireland (as a protected zone) shall be banned if they are present on certain relevant material[^c-d1582697420cbc312935f90ee9f87c1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)
+[^c-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)

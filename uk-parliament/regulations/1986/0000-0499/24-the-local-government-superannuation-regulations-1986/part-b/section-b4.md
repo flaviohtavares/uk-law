@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## B4. Further provision as to admission of employees of other bodies[^key-4a5beba4cadbb063e765d8d701a8d30d]
+## B4. Further provision as to admission of employees of other bodies[^c-4a5beba4cadbb063e765d8d701a8d30d]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ be deemed to be a body specified in regulation B3(8).
 
 ## Annotations
 
-[^key-4a5beba4cadbb063e765d8d701a8d30d]: Commencement: [Reg. B4](https://www.legislation.gov.uk/uksi/1986/24/regulation/B4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-4a5beba4cadbb063e765d8d701a8d30d]: Commencement: [Reg. B4](https://www.legislation.gov.uk/uksi/1986/24/regulation/B4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

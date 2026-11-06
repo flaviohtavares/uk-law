@@ -41,13 +41,13 @@ Coming into Force
 
 The National Assembly for Wales makes the following Order in exercise of the powers conferred on the Secretary of State by sections 140(4) and 143(1) and (2) of, and paragraph 3(2) of Schedule 6 to, the Local Government Finance Act 1988[^f00001] and now vested in the National Assembly for Wales[^f00002].
 
-## 1. Citation, commencement and application[^key-fa177568522add81b99bb753d635bb0c]
+## 1. Citation, commencement and application[^c-fa177568522add81b99bb753d635bb0c]
 
 (1) This Order may be cited as the Water Undertakers (Rateable Values) (Wales) Order 2000 and shall come into force on 1st April 2000.
 
 (2) This Order applies only in relation to Wales.
 
-## 2. Interpretation[^key-e7772c08bdd1a0e7247420fcd4540590]
+## 2. Interpretation[^c-e7772c08bdd1a0e7247420fcd4540590]
 
 (1) In this Order—
 
@@ -66,14 +66,14 @@ The National Assembly for Wales makes the following Order in exercise of the pow
 
 (3) Any reference in this Order or in the Schedule to a designated person by name is to the company bearing that name at the date that name is entered in the central rating list for Wales.
 
-## 3. Rounding of numbers[^key-4acc7fd1865f7b0cf8dd04e557474ccb]
+## 3. Rounding of numbers[^c-4acc7fd1865f7b0cf8dd04e557474ccb]
 
 Where (apart from this article) any rateable value determined under this Order includes a fraction of a pound—
 
 - (a) the fraction shall be made up to one pound if it would exceed 50p, and
 - (b) the fraction shall be ignored if it would be 50p or less.
 
-## 4. Revocations and savings[^key-a75c1a6f00548c063151b2c24e84976b]
+## 4. Revocations and savings[^c-a75c1a6f00548c063151b2c24e84976b]
 
 (1) Subject to paragraph (2) the Water Undertakers (Rateable Values) Order 1994[^f00004] is revoked with effect from 1st April 2000 in so far as it is applicable to Wales.
 
@@ -82,14 +82,14 @@ Where (apart from this article) any rateable value determined under this Order i
 - (a) any alteration of a list in force immediately before 1st April 2000; or
 - (b) any provision made by regulations made under section 58[^f00006] of the Act (special provision for 1995 onwards) as to the chargeable amount as regards a hereditament for a relevant period as defined in that section.
 
-## 5. Rateable values[^key-bfb27dcf88443b26a7db883cf29a3deb]
+## 5. Rateable values[^c-bfb27dcf88443b26a7db883cf29a3deb]
 
 In the case of a class of hereditaments, paragraphs 2 to 2B of Schedule 6 to the Act shall not apply in any year beginning on or after 1st April 2000 and its rateable value—
 
 - (a) in the year beginning on 1st April 2000, shall be the amount specified in relation to it in the Schedule; and
 - (b) in any year beginning on or after 1st April 2001 shall (subject to article 10) be the amount produced in respect of that year by applying the standard formula in relation to that class.
 
-## 6. Recalculation factor – interpretation[^key-96b7165b498c558663d8af744a03010a]
+## 6. Recalculation factor – interpretation[^c-96b7165b498c558663d8af744a03010a]
 
 (1) In article 7 in relation to a class of hereditaments–
 
@@ -110,7 +110,7 @@ In the case of a class of hereditaments, paragraphs 2 to 2B of Schedule 6 to the
 
 (3) Where the relevant designated person did not supply water throughout any year in a period of three years, paragraph (2) shall apply as if for the reference to the annual average over three years there were substituted a reference to the annual average over the number of years throughout which water was supplied; and for the purposes of this paragraph any temporary suspension of supply shall be disregarded.
 
-## 7. Recalculation factors[^key-d75ccd1d2dd12c81b7e3f17ac19038cf]
+## 7. Recalculation factors[^c-d75ccd1d2dd12c81b7e3f17ac19038cf]
 
 (1) Where in relation to a class of hereditaments and any year the value attributable to “y” is less than that produced in calculating in accordance with the formula—
 
@@ -131,7 +131,7 @@ In the case of a class of hereditaments, paragraphs 2 to 2B of Schedule 6 to the
 
 (3) In relation to a class of hereditaments and a year beginning after the year in which paragraph (2) first applies to that class, paragraph (1) shall apply as if for Y there were substituted Z.
 
-## 8. Special cases – interpretation[^key-aa4372f646868a71a21fe2aa6340867e]
+## 8. Special cases – interpretation[^c-aa4372f646868a71a21fe2aa6340867e]
 
 In relation to articles 9 and 10—
 
@@ -140,11 +140,11 @@ In relation to articles 9 and 10—
 - “scheme transferee”(“*trosglwyddai cynllun*”) means a designated person which, in consequence of a Schedule 2 scheme, occupies a class of hereditaments which immediately before the day on which the scheme comes into force are occupied by another designated person; and
 - “Welsh hereditaments”(“*hereditamentau Cymru*”) means such of the scheme hereditaments and any other hereditaments as are occupied by a scheme transferee and shown in the central rating list for Wales.
 
-## 9. Application[^key-927b6dc5c6202961728ea8f2a587d967]
+## 9. Application[^c-927b6dc5c6202961728ea8f2a587d967]
 
 Article 10 applies for the purpose of determining, as regards any day on which, pursuant to the Central List Regulations, Welsh hereditaments occupied by a scheme transferee are shown in the central rating list, the rateable value (as a whole) of the Welsh hereditaments.
 
-## 10. Determination of Rateable Values[^key-55b6e21586bbd9d7a295f013030e6e7e]
+## 10. Determination of Rateable Values[^c-55b6e21586bbd9d7a295f013030e6e7e]
 
 (1) The rateable value (as a whole) of the Welsh hereditaments, shall be an amount equal to the aggregate of the amounts which, but for the Schedule 2 scheme, and subject to paragraph (2) below, would have been determined in accordance with article 5 as the rateable value of the hereditaments which constitute the Welsh hereditaments.
 
@@ -156,7 +156,7 @@ D. Elis Thomas
 
 The Presiding Officer of the National Assembly
 
-## SCHEDULE — Hereditaments occupied by:[^key-e9e41c8ca213593359b8383cc71da0c3]
+## SCHEDULE — Hereditaments occupied by:[^c-e9e41c8ca213593359b8383cc71da0c3]
 
 |  |  |
 | --- | --- |
@@ -185,15 +185,15 @@ Article 4(1) revokes, with effect from 1st April 2000, the Water Undertakers (Ra
 
 [^f00002]: Footnote: See the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-fa177568522add81b99bb753d635bb0c]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/299/article/1) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-fa177568522add81b99bb753d635bb0c]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2000/299/article/1) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
-[^key-e7772c08bdd1a0e7247420fcd4540590]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/299/article/2) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-e7772c08bdd1a0e7247420fcd4540590]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2000/299/article/2) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
 [^f00003]: Footnote: [S.I. 1999/ 3453](https://www.legislation.gov.uk/uksi/1999/3453).
 
-[^key-4acc7fd1865f7b0cf8dd04e557474ccb]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/299/article/3) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-4acc7fd1865f7b0cf8dd04e557474ccb]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2000/299/article/3) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
-[^key-a75c1a6f00548c063151b2c24e84976b]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/299/article/4) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-a75c1a6f00548c063151b2c24e84976b]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2000/299/article/4) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
 [^f00004]: Footnote: S.I. [1994/3285](https://www.legislation.gov.uk/uksi/1994/3285)
 
@@ -201,18 +201,18 @@ Article 4(1) revokes, with effect from 1st April 2000, the Water Undertakers (Ra
 
 [^f00006]: Footnote: Section 58 is amended by paragraph 68 of Schedule 13 to the Local Government Finance Act [1989 (c. 14)](https://www.legislation.gov.uk/ukpga/1989/14), section 2 of the Non-Domestic Rating Act [1994 (c. 3)](https://www.legislation.gov.uk/ukpga/1994/3) and section 1 of the Local Government and Rating Act [1997 (c. 29)](https://www.legislation.gov.uk/ukpga/1997/29).
 
-[^key-bfb27dcf88443b26a7db883cf29a3deb]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2000/299/article/5) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-bfb27dcf88443b26a7db883cf29a3deb]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2000/299/article/5) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
-[^key-96b7165b498c558663d8af744a03010a]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2000/299/article/6) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-96b7165b498c558663d8af744a03010a]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2000/299/article/6) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
-[^key-d75ccd1d2dd12c81b7e3f17ac19038cf]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2000/299/article/7) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-d75ccd1d2dd12c81b7e3f17ac19038cf]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2000/299/article/7) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
-[^key-aa4372f646868a71a21fe2aa6340867e]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2000/299/article/8) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-aa4372f646868a71a21fe2aa6340867e]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2000/299/article/8) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
-[^key-927b6dc5c6202961728ea8f2a587d967]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2000/299/article/9) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-927b6dc5c6202961728ea8f2a587d967]: Commencement: [Art. 9](https://www.legislation.gov.uk/wsi/2000/299/article/9) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
-[^key-55b6e21586bbd9d7a295f013030e6e7e]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2000/299/article/10) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-55b6e21586bbd9d7a295f013030e6e7e]: Commencement: [Art. 10](https://www.legislation.gov.uk/wsi/2000/299/article/10) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
 
 [^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38)
 
-[^key-e9e41c8ca213593359b8383cc71da0c3]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/299/schedule) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)
+[^c-e9e41c8ca213593359b8383cc71da0c3]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2000/299/schedule) in force at 1.4.2000, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2000/299/article/1/1)

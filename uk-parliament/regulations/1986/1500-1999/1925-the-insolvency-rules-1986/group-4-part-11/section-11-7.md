@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.7. Notice of no, or no further, dividend[^key-381601ff3f3780b05afac4c7529a4e64]
+## 11.7. Notice of no, or no further, dividend[^c-381601ff3f3780b05afac4c7529a4e64]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If the responsible insolvency practitioner gives notice to creditors that he is 
 
 ## Annotations
 
-[^key-381601ff3f3780b05afac4c7529a4e64]: Commencement: [Rule 11.7](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.7) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-381601ff3f3780b05afac4c7529a4e64]: Commencement: [Rule 11.7](https://www.legislation.gov.uk/uksi/1986/1925/rule/11.7) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

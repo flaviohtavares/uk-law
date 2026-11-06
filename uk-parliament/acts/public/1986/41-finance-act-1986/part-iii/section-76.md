@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Acquisitions: further provisions about reliefs.[^key-12e4c07fdb27cdcccffdad3539343289][^c13533011]
+## 76. Acquisitions: further provisions about reliefs.[^c-12e4c07fdb27cdcccffdad3539343289][^c13533011]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-12e4c07fdb27cdcccffdad3539343289]: Textual amendment: S. 76 repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/1/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-12e4c07fdb27cdcccffdad3539343289]: Textual amendment: S. 76 repealed (with effect in accordance with Sch. 39 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 5(1)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/5/1/a) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
 [^c13533011]: Modification: S. 76 excluded (28.4.1997) by [S.I. 1997/1156](https://www.legislation.gov.uk/uksi/1997/1156), [reg. 12](https://www.legislation.gov.uk/uksi/1997/1156/regulation/12)
 

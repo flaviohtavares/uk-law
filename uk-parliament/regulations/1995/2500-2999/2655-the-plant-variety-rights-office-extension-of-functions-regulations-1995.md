@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Plant Variety Rights Office (Extension of Functions) Regulations 1995 (revoked)[^key-8442be5c8520173c8efaeda6164ca5b1]
+The Plant Variety Rights Office (Extension of Functions) Regulations 1995 (revoked)[^c-8442be5c8520173c8efaeda6164ca5b1]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 1st November 1995
 
-[^key-8442be5c8520173c8efaeda6164ca5b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8442be5c8520173c8efaeda6164ca5b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## INTRODUCTORY[^key-8442be5c8520173c8efaeda6164ca5b1]
+## INTRODUCTORY[^c-8442be5c8520173c8efaeda6164ca5b1]
 
-### 1. Title, commencement and interpretation[^key-8442be5c8520173c8efaeda6164ca5b1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Functions which may be entrusted to the National Office by the Community Office[^key-8442be5c8520173c8efaeda6164ca5b1]
+### 1. Title, commencement and interpretation[^c-8442be5c8520173c8efaeda6164ca5b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8442be5c8520173c8efaeda6164ca5b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 2. Functions which may be entrusted to the National Office by the Community Office[^c-8442be5c8520173c8efaeda6164ca5b1]
 
-[^key-8442be5c8520173c8efaeda6164ca5b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8442be5c8520173c8efaeda6164ca5b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8442be5c8520173c8efaeda6164ca5b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8442be5c8520173c8efaeda6164ca5b1]: Textual amendment: Regulations revoked (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8442be5c8520173c8efaeda6164ca5b1]: Textual amendment: Regulations revoked (31.12.2020) by [The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

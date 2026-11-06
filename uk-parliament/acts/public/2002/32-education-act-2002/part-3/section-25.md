@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Federations: supplementary provisions[^key-e8787c5c8f78fca15aa56ba0115bbff4][^key-be05d233ddaad1a6f1ec72d771c2f4d7]
+## 25. Federations: supplementary provisions[^c-e8787c5c8f78fca15aa56ba0115bbff4][^c-be05d233ddaad1a6f1ec72d771c2f4d7]
 
 *Extent: E+W*
 
 (1) Regulations may make provision modifying any provision contained in—
 
-- (za)[^key-2ebafe274176913c075f2f318c131f60] Part 4 of the Education and Inspections Act 2006 (schools causing concern: England),
-- (a)[^key-0fc6c9e41210f287ddcec169665fdf86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (za)[^c-2ebafe274176913c075f2f318c131f60] Part 4 of the Education and Inspections Act 2006 (schools causing concern: England),
+- (a)[^c-0fc6c9e41210f287ddcec169665fdf86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) sections 49 to 51 of, and Schedule 15 to, that Act (financial delegation),
 
-in the application of the provision to federated schools in England[^key-8d5f28be9f1b75fa7f2163c356bdab84] or their governing bodies.
+in the application of the provision to federated schools in England[^c-8d5f28be9f1b75fa7f2163c356bdab84] or their governing bodies.
 
 (2) The modifications that may be made by virtue of subsection (1) include, in particular, modifications—
 
@@ -39,12 +39,12 @@ in the application of the provision to federated schools in England[^key-8d5f28b
 
 ## Annotations
 
-[^key-e8787c5c8f78fca15aa56ba0115bbff4]: Commencement: S. 25 in force at 1.4.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
+[^c-e8787c5c8f78fca15aa56ba0115bbff4]: Commencement: S. 25 in force at 1.4.2003 except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
 
-[^key-be05d233ddaad1a6f1ec72d771c2f4d7]: Commencement: S. 25 in force at 12.4.2010 for W. by [S.I. 2010/707](https://www.legislation.gov.uk/uksi/2010/707), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/707/article/3/d)
+[^c-be05d233ddaad1a6f1ec72d771c2f4d7]: Commencement: S. 25 in force at 12.4.2010 for W. by [S.I. 2010/707](https://www.legislation.gov.uk/uksi/2010/707), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/707/article/3/d)
 
-[^key-2ebafe274176913c075f2f318c131f60]: Textual amendment: S. 25(1)(za) inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 7 para. 19(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/7/paragraph/19/a); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
+[^c-2ebafe274176913c075f2f318c131f60]: Textual amendment: S. 25(1)(za) inserted (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 7 para. 19(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/7/paragraph/19/a); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(cc)](https://www.legislation.gov.uk/uksi/2007/935/article/5/cc)
 
-[^key-0fc6c9e41210f287ddcec169665fdf86]: Textual amendment: S. 25(1)(a) omitted (28.4.2014) by virtue of [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 19(5)(a)](https://www.legislation.gov.uk/mwa/2011/7/section/19/5/a), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-0fc6c9e41210f287ddcec169665fdf86]: Textual amendment: S. 25(1)(a) omitted (28.4.2014) by virtue of [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 19(5)(a)](https://www.legislation.gov.uk/mwa/2011/7/section/19/5/a), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
 
-[^key-8d5f28be9f1b75fa7f2163c356bdab84]: Textual amendment: Words in s. 25(1)(b) inserted (28.4.2014) by [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 19(5)(b)](https://www.legislation.gov.uk/mwa/2011/7/section/19/5/b), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)
+[^c-8d5f28be9f1b75fa7f2163c356bdab84]: Textual amendment: Words in s. 25(1)(b) inserted (28.4.2014) by [Education (Wales) Measure 2011 (nawm 7)](https://www.legislation.gov.uk/mwa/2011/7), [ss. 19(5)(b)](https://www.legislation.gov.uk/mwa/2011/7/section/19/5/b), [33(2)](https://www.legislation.gov.uk/mwa/2011/7/section/33/2); [S.I. 2014/1066](https://www.legislation.gov.uk/wsi/2014/1066), [art. 2](https://www.legislation.gov.uk/wsi/2014/1066/article/2)

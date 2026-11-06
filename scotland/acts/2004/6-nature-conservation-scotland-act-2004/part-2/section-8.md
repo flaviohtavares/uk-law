@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Variation of SSSI notifications[^key-0867462f8332a8a50e0825a83719bf53]
+## 8. Variation of SSSI notifications[^c-0867462f8332a8a50e0825a83719bf53]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0867462f8332a8a50e0825a83719bf53]: Commencement: S. 8 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-0867462f8332a8a50e0825a83719bf53]: Commencement: S. 8 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

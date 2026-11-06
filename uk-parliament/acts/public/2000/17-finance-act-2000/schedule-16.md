@@ -40,11 +40,11 @@ Section 63(2).
 
 ### Enterprise investment scheme
 
-**2.**[^key-7f5065e4067327eb8b1145d978502a67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-7f5065e4067327eb8b1145d978502a67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Loss relief
 
-**3.**[^key-e3aac232a3625d4b4cd3fa6550192a4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e3aac232a3625d4b4cd3fa6550192a4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### EIS: deferral relief
 
@@ -123,8 +123,8 @@ Section 63(2).
 
 [^c14058101]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-7f5065e4067327eb8b1145d978502a67]: Textual amendment: Sch. 16 para. 2 repealed (with effect in relation to shares issued after 6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-7f5065e4067327eb8b1145d978502a67]: Textual amendment: Sch. 16 para. 2 repealed (with effect in relation to shares issued after 6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-e3aac232a3625d4b4cd3fa6550192a4a]: Textual amendment: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-e3aac232a3625d4b4cd3fa6550192a4a]: Textual amendment: [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2000/17/schedule/16/paragraph/3) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14058111]: Marginal citation: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36).

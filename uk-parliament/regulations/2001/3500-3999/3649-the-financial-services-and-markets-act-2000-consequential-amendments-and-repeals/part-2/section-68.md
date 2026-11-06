@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Form and content of company accounts[^key-8d0fec4cd160bcb147d8c4befb8fbff9]
+## 68. Form and content of company accounts[^c-8d0fec4cd160bcb147d8c4befb8fbff9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ For paragraph 83[^f00071] of Schedule 4 to the 1986 Order (form and content of c
 
 ## Annotations
 
-[^key-8d0fec4cd160bcb147d8c4befb8fbff9]: Commencement: Art. 68 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8d0fec4cd160bcb147d8c4befb8fbff9]: Commencement: Art. 68 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00071]: Footnote: Paragraph 83 has been amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60) Schedule 16, paragraph 38.

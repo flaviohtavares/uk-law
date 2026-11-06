@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Other contractual terms[^key-8def1804bf6d00c8185c68036bad1670]
+## 29. Other contractual terms[^c-8def1804bf6d00c8185c68036bad1670]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8def1804bf6d00c8185c68036bad1670]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2023/953/regulation/29) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-8def1804bf6d00c8185c68036bad1670]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2023/953/regulation/29) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

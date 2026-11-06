@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Application of Part I of the Compulsory Purchase Act 1965[^key-4b4ddeb0a139fe9c8a7c31fae692e48c]
+## 25. Application of Part I of the Compulsory Purchase Act 1965[^c-4b4ddeb0a139fe9c8a7c31fae692e48c]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b4ddeb0a139fe9c8a7c31fae692e48c]: Commencement: Art. 25 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-4b4ddeb0a139fe9c8a7c31fae692e48c]: Commencement: Art. 25 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Liability of employers and principals[^key-43710931a8193feac858aad901228264][^key-e3c527eca7165f836c5e3eabbafc1f74]
+## 20. Liability of employers and principals[^c-43710931a8193feac858aad901228264][^c-e3c527eca7165f836c5e3eabbafc1f74]
 
 *Extent: E+W+S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-43710931a8193feac858aad901228264]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/93/regulation/20) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/4/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-43710931a8193feac858aad901228264]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/93/regulation/20) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/724/regulation/4/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
 
-[^key-e3c527eca7165f836c5e3eabbafc1f74]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/93/regulation/20) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/724/regulation/5/7) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))
+[^c-e3c527eca7165f836c5e3eabbafc1f74]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2010/93/regulation/20) applied (with modifications) (6.4.2020) by [The Agency Workers (Amendment) Regulations 2019 (S.I. 2019/724)](https://www.legislation.gov.uk/uksi/2019/724), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/724/regulation/1/1), [5(7)](https://www.legislation.gov.uk/uksi/2019/724/regulation/5/7) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/724/regulation/7))

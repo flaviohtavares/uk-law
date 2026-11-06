@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 676EA. Introduction to Chapter[^key-b8c5a0bd6d0d5c66b835a337cba904e6]
+## 676EA. Introduction to Chapter[^c-b8c5a0bd6d0d5c66b835a337cba904e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8c5a0bd6d0d5c66b835a337cba904e6]: Textual amendment: [Pt. 14 Ch. 2E](https://www.legislation.gov.uk/ukpga/2010/4/part/14/chapter/2E) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 79](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/79)
+[^c-b8c5a0bd6d0d5c66b835a337cba904e6]: Textual amendment: [Pt. 14 Ch. 2E](https://www.legislation.gov.uk/ukpga/2010/4/part/14/chapter/2E) inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 79](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/79)

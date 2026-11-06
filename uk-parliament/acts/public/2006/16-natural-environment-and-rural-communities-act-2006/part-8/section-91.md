@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Power to dissolve existing levy bodies[^key-d347056177b5040159cb442f346393df]
+## 91. Power to dissolve existing levy bodies[^c-d347056177b5040159cb442f346393df]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ the order must provide for the revocation of the development council order estab
 
 ## Annotations
 
-[^key-d347056177b5040159cb442f346393df]: Commencement: S. 91 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-d347056177b5040159cb442f346393df]: Commencement: S. 91 in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

@@ -50,19 +50,19 @@ In accordance with section 1(2) of that Act [^c23990361] a draft of this instrum
 
 Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation, commencement and extent[^key-1c82ecc43595cb98b47e2d7e2f7705c1]
+## 1. Citation, commencement and extent[^c-1c82ecc43595cb98b47e2d7e2f7705c1]
 
 (1) This Order may be cited as the Census (Scotland) Order 2020 and comes into force on the day after the day on which it is made.
 
 (2) It extends to Scotland only.
 
-## 2. Interpretation[^key-c3520c44774055f36c919c46d8bf4f57]
+## 2. Interpretation[^c-c3520c44774055f36c919c46d8bf4f57]
 
 (1) In this Order—
 
 - “**the Act**” means the Census Act 1920,
-- “**census day**” means 20 March 2022[^key-a66109b682cfcbec654018cc0023e0f5],
-- “**census night**” means the night of 20 to 21 March 2022[^key-e301482193b3ac5492cc62d9d1a9bcc0],
+- “**census day**” means 20 March 2022[^c-a66109b682cfcbec654018cc0023e0f5],
+- “**census night**” means the night of 20 to 21 March 2022[^c-e301482193b3ac5492cc62d9d1a9bcc0],
 - “**dwelling**” includes part of a dwelling and any caravan, houseboat, temporary building or other structure used as living accommodation,
 - “**household**” is to be construed in accordance with paragraph (4),
 - “**householder**” means—
@@ -105,10 +105,10 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 - (a) the person—
   - (i) has a permanent or family home in Scotland, and
-  - (ii) is not staying, nor intends to stay, outside the United Kingdom for a total of 12 months or more in the period beginning with 21 March 2021[^key-fd01a2dfeb499a0640252228cee2f818] and ending with 19 March 2023[^key-af24e980661b1907c6a9a492c11af3f4],
+  - (ii) is not staying, nor intends to stay, outside the United Kingdom for a total of 12 months or more in the period beginning with 21 March 2021[^c-fd01a2dfeb499a0640252228cee2f818] and ending with 19 March 2023[^c-af24e980661b1907c6a9a492c11af3f4],
 - (b) the person—
   - (i) is staying in Scotland, and
-  - (ii) is staying, or intends to stay, in the United Kingdom for a total of 6 months or more in any consecutive 12 month period within the period beginning with 21 March 2021[^key-d1bdd64f9bc8547b7956b96e361bfdee] and ending with 19 March 2023[^key-8f041372dc5e94961b0a981abf0e4503],
+  - (ii) is staying, or intends to stay, in the United Kingdom for a total of 6 months or more in any consecutive 12 month period within the period beginning with 21 March 2021[^c-d1bdd64f9bc8547b7956b96e361bfdee] and ending with 19 March 2023[^c-8f041372dc5e94961b0a981abf0e4503],
 - (c) the person—
   - (i) has a permanent or family home in Scotland,
   - (ii) is in full-time education, and
@@ -142,15 +142,15 @@ Accordingly, Her Majesty is pleased, by and with the advice of Her Privy Council
 
 (11) A person under the age of 16 years who spends an equal number of daily rest periods at two or more dwellings in Group I is, for the purposes of paragraph (7)(a)(ii), to be taken as spending the most number of such periods at the dwelling where the person is staying on census night.
 
-## 3. Date on which census is to be taken[^key-55aee90c8f303825884493c9571d08b5]
+## 3. Date on which census is to be taken[^c-55aee90c8f303825884493c9571d08b5]
 
-A census is to be taken for Scotland on 20 March 2022[^key-22481f0a128acf7228c00c2b00e1e335].
+A census is to be taken for Scotland on 20 March 2022[^c-22481f0a128acf7228c00c2b00e1e335].
 
-## 4. Persons with respect to whom the returns are to be made[^key-bfc7ae7ed0fc37e8e50ccb6576e18180]
+## 4. Persons with respect to whom the returns are to be made[^c-bfc7ae7ed0fc37e8e50ccb6576e18180]
 
 For the purpose of the census, returns must be made in accordance with the provisions of this Order with respect to persons who are alive at 0000 hours on census night.
 
-## 5. Persons by whom the returns are to be made[^key-d42e40aaf6b1bc377bb49f67fde97fa3]
+## 5. Persons by whom the returns are to be made[^c-d42e40aaf6b1bc377bb49f67fde97fa3]
 
 (1) Where a dwelling is occupied by a household consisting of one person in Group I, that person must make a return with respect to that person and every visitor at that dwelling.
 
@@ -195,7 +195,7 @@ For the purpose of the census, returns must be made in accordance with the provi
 
 (12) The obligation to make a return under paragraph (2) or (9) is satisfied if, as the case may be, any householder or member of the household mentioned in paragraph (3)(b) makes such a return.
 
-## 6. Particulars to be stated in the returns[^key-b98a8bb33bb92cad3aa67e7ac05df834]
+## 6. Particulars to be stated in the returns[^c-b98a8bb33bb92cad3aa67e7ac05df834]
 
 (1) Every return referred to in article 5(1), (2), (5)(b), (7) and (8) must state with respect to each person required to be included in that return the particulars specified in paragraphs 1 to 27 of schedule 2 except that—
 
@@ -223,7 +223,7 @@ For the purpose of the census, returns must be made in accordance with the provi
 - (a) in paragraphs 28 and 29 the words “occupied by the household” are omitted, and
 - (b) in paragraph 30 the words “only by the household” are replaced with the words “ in the accommodation ”.
 
-## 7. Disapplication of liability to penalty for refusing or neglecting to state particulars with respect to transgender status and history[^key-2c9bec6992bb886d5304998e021911a8]
+## 7. Disapplication of liability to penalty for refusing or neglecting to state particulars with respect to transgender status and history[^c-2c9bec6992bb886d5304998e021911a8]
 
 The particulars specified in paragraph 6 of schedule 2 are prescribed for the purposes of section 8(1A) of the Act (disapplication of liability to penalty for refusing or neglecting to state certain particulars).
 
@@ -231,7 +231,7 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE 1 — PREMISES IN RELATION TO WHICH, AND PERSONS WITH RESPECT TO WHOM, RETURNS ARE TO BE MADE[^key-0ea363e9c11d00cc42cd2b212da9872c]
+## SCHEDULE 1 — PREMISES IN RELATION TO WHICH, AND PERSONS WITH RESPECT TO WHOM, RETURNS ARE TO BE MADE[^c-0ea363e9c11d00cc42cd2b212da9872c]
 
 Articles 2 and 5
 
@@ -258,29 +258,29 @@ Articles 2 and 5
 
 Article 6
 
-**1.**[^key-b02670398c9fa88f0fe7538dea166888] *The number of persons in Group I, the connection between those persons and the dwelling or the household and, for each such person, whether the person has made a notification in accordance with article 5(5)(a)*.
+**1.**[^c-b02670398c9fa88f0fe7538dea166888] *The number of persons in Group I, the connection between those persons and the dwelling or the household and, for each such person, whether the person has made a notification in accordance with article 5(5)(a)*.
 
-**2.**[^key-fb4f9a55a1520b94a2a10bd71d411118] *For any person in Group I (other than the first person mentioned in the return)—*
+**2.**[^c-fb4f9a55a1520b94a2a10bd71d411118] *For any person in Group I (other than the first person mentioned in the return)—*
 
 - (a) *where the person is the second, third, fourth or fifth person mentioned in the return, the person's relationship to each of the persons mentioned previously in the return,*
 - (b) *where the person is the sixth or subsequent person mentioned on the return, the person's relationship to each of the two persons mentioned immediately before that person in the return and to the first person mentioned in the return.*
 
-**3.**[^key-8119654077a4433839a606211dcfe5ab] First name and last name.
+**3.**[^c-8119654077a4433839a606211dcfe5ab] First name and last name.
 
-**4.**[^key-99c197ba5d166320d282c48350473c7e] Sex.
+**4.**[^c-99c197ba5d166320d282c48350473c7e] Sex.
 
-**5.**[^key-2ca6bedab6ca5c0ea41635dcf9020fdd] Date of birth.
+**5.**[^c-2ca6bedab6ca5c0ea41635dcf9020fdd] Date of birth.
 
-**6.**[^key-d91711ea3975c74126ed6260f17d2534] In respect of any person aged 16 years or over, whether the person is transgender or has a transgender history and, if so, a description of that person's transgender status or history.
+**6.**[^c-d91711ea3975c74126ed6260f17d2534] In respect of any person aged 16 years or over, whether the person is transgender or has a transgender history and, if so, a description of that person's transgender status or history.
 
-**7.**[^key-95565b5567c4aab9a21e9d65e54d60de] In respect of any person aged 16 years or over, as regards sexual orientation, whether—
+**7.**[^c-95565b5567c4aab9a21e9d65e54d60de] In respect of any person aged 16 years or over, as regards sexual orientation, whether—
 
 - (a) straight / heterosexual,
 - (b) gay or lesbian,
 - (c) bisexual, or
 - (d) another sexual orientation and, if so, which.
 
-**8.**[^key-08a0e6c768e8cdb63e9744d46bea52bc] As regards the marital or civil partnership status of any person aged 16 years or over, whether—
+**8.**[^c-08a0e6c768e8cdb63e9744d46bea52bc] As regards the marital or civil partnership status of any person aged 16 years or over, whether—
 
 - (a) never married and never in a civil partnership,
 - (b) married,
@@ -292,22 +292,22 @@ Article 6
 - (h) widowed, or
 - (i) surviving partner from a civil partnership.
 
-**9.**[^key-41794cc00c024b853168a6df6b3a3e39] *In respect of any person aged 4 years or over, whether a schoolchild or student in full-time education and, if so, whether living at the address to which the return relates during term time.*
+**9.**[^c-41794cc00c024b853168a6df6b3a3e39] *In respect of any person aged 4 years or over, whether a schoolchild or student in full-time education and, if so, whether living at the address to which the return relates during term time.*
 
-**10.**[^key-2dc985d78f505c9bfc740a8c202e19af] Country of birth *and, if not born in the United Kingdom, month and year of most recent arrival to live in the United Kingdom.*
+**10.**[^c-2dc985d78f505c9bfc740a8c202e19af] Country of birth *and, if not born in the United Kingdom, month and year of most recent arrival to live in the United Kingdom.*
 
-**11.**[^key-3eb09a5d462e16ea80e6c262966928fd] *In respect of any person aged 3 years or over, whether looking after, or giving any help or support to, family members, friends, neighbours or others because of either long-term physical or mental ill-health or disability, or because of problems related to old age and, if so, number of hours spent on this in a typical week excluding anything done as part of any paid employment.*
+**11.**[^c-3eb09a5d462e16ea80e6c262966928fd] *In respect of any person aged 3 years or over, whether looking after, or giving any help or support to, family members, friends, neighbours or others because of either long-term physical or mental ill-health or disability, or because of problems related to old age and, if so, number of hours spent on this in a typical week excluding anything done as part of any paid employment.*
 
-**12.**[^key-d777e596bb7d30b301cbe856ff775f07] *In respect of any person aged 1 year or over whose usual residence on 20 March 2021[^key-25016db15270fa4ece0ae26a781ddb08] was not the same as on census day, the usual residence on 20 March 2021, if any.*
+**12.**[^c-d777e596bb7d30b301cbe856ff775f07] *In respect of any person aged 1 year or over whose usual residence on 20 March 2021[^c-25016db15270fa4ece0ae26a781ddb08] was not the same as on census day, the usual residence on 20 March 2021, if any.*
 
-**13.**[^key-75ba2d043984132c8b160ca7fae30262] In respect of any person aged 4 years or over—
+**13.**[^c-75ba2d043984132c8b160ca7fae30262] In respect of any person aged 4 years or over—
 
 - (a) with a main place of work or study in the United Kingdom, the address of that place,
 - (b) with a main place of work or study in a country outside the United Kingdom, the name of that country.
 
-**14.**[^key-3e69d87a4827fdd9af5ec5efa602d01a] *In respect of any person aged 4 years or over, the usual mode of transport used for the longest part, by distance, of the usual journey to the person's main place of work or study, if any.*
+**14.**[^c-3e69d87a4827fdd9af5ec5efa602d01a] *In respect of any person aged 4 years or over, the usual mode of transport used for the longest part, by distance, of the usual journey to the person's main place of work or study, if any.*
 
-**15.**[^key-d80dc7be81189c87d9ae22810a95030b] As regards the religion, religious denomination, school or body they belong to, whether—
+**15.**[^c-d80dc7be81189c87d9ae22810a95030b] As regards the religion, religious denomination, school or body they belong to, whether—
 
 - (a) none,
 - (b) Church of Scotland,
@@ -321,13 +321,13 @@ Article 6
 - (j) Pagan, or
 - (k) another religion or body and, if so, which.
 
-**16.**[^key-569ed5edab5b9273819caab73bded48a] Whether the person holds (or has previously held and would, if applied for, be entitled again to hold) a passport issued by—
+**16.**[^c-569ed5edab5b9273819caab73bded48a] Whether the person holds (or has previously held and would, if applied for, be entitled again to hold) a passport issued by—
 
 - (a) the Government of the United Kingdom, the Lieutenant-Governor of any of the Channel Islands or the Isle of Man, or the Government of any territory which is for the time being a British overseas territory the meaning given in section 50(1) of the British Nationality Act 1981 [^c23990391],
 - (b) the Government of Ireland,
 - (c) the government of another country and, if so, which.
 
-**17.**[^key-0a11a82c11f189617a1fba999d6a0e16] *As regards national identity, whether—*
+**17.**[^c-0a11a82c11f189617a1fba999d6a0e16] *As regards national identity, whether—*
 
 - (a) *Scottish,*
 - (b) *English,*
@@ -336,7 +336,7 @@ Article 6
 - (e) *British, or*
 - (f) *another national identity or identities and, if so, which.*
 
-**18.**[^key-5868467a016e82ee1ca8821978ac5134] As regards ethnic group, whether—
+**18.**[^c-5868467a016e82ee1ca8821978ac5134] As regards ethnic group, whether—
 
 - (a) White and, if so, whether—
   - (i) Scottish,
@@ -360,7 +360,7 @@ Article 6
   - (i) Arab, Scottish Arab or British Arab, or
   - (ii) another ethnic group and, if so, which.
 
-**19.**[^key-2a2099448a4fdc2e549170742fae3d97] In respect of any person aged 3 years or over and the person's language—
+**19.**[^c-2a2099448a4fdc2e549170742fae3d97] In respect of any person aged 3 years or over and the person's language—
 
 - (a) how well the person can understand spoken English, speak English, read English and write English,
 - (b) whether the person can understand spoken Scottish Gaelic, speak Scottish Gaelic, read Scottish Gaelic or write Scottish Gaelic,
@@ -368,9 +368,9 @@ Article 6
 - (d) whether the person is able to use British Sign Language,
 - (e) whether English is the person's main language and, if not, which language is.
 
-**20.**[^key-163e7065f08af1abeb128e5ef7dd81b1] *Whether the person's health is in general very good, good, fair, bad or very bad.*
+**20.**[^c-163e7065f08af1abeb128e5ef7dd81b1] *Whether the person's health is in general very good, good, fair, bad or very bad.*
 
-**21.**[^key-db41a35b7b1cbe85541d2cde7b638d2f] *Whether, in respect of conditions which have lasted or are expected to last for at least 12 months, the person has one or more of the following—*
+**21.**[^c-db41a35b7b1cbe85541d2cde7b638d2f] *Whether, in respect of conditions which have lasted or are expected to last for at least 12 months, the person has one or more of the following—*
 
 - (a) *deafness or partial hearing loss,*
 - (b) *blindness or partial sight loss,*
@@ -383,13 +383,13 @@ Article 6
 - (i) *a long-term illness, disease or condition which does not fall within subparagraphs (a) to (h),*
 - (j) *another condition and, if so, which.*
 
-**22.**[^key-567b0660d3add7da8ded09c8ef444d7d] *Whether the person has a health problem or disability which limits day-to-day activities and which has lasted, or is expected to last, at least 12 months and, if so, whether those activities are limited a little or a lot.*
+**22.**[^c-567b0660d3add7da8ded09c8ef444d7d] *Whether the person has a health problem or disability which limits day-to-day activities and which has lasted, or is expected to last, at least 12 months and, if so, whether those activities are limited a little or a lot.*
 
-**23.**[^key-7e6ca0362167c12c10142efb1c05523a] *In respect of any person aged 16 years or over, the levels of academic and vocational qualifications obtained (including foreign qualifications).*
+**23.**[^c-7e6ca0362167c12c10142efb1c05523a] *In respect of any person aged 16 years or over, the levels of academic and vocational qualifications obtained (including foreign qualifications).*
 
-**24.**[^key-72d6fc7fd6f2a9a3ee2a984f53ab8764] *In respect of any person aged 16 years or over, whether the person has previously served in the United Kingdom Armed Forces and, if so, whether that was in the Regular Armed Forces or the Reserve Armed Forces.*
+**24.**[^c-72d6fc7fd6f2a9a3ee2a984f53ab8764] *In respect of any person aged 16 years or over, whether the person has previously served in the United Kingdom Armed Forces and, if so, whether that was in the Regular Armed Forces or the Reserve Armed Forces.*
 
-**25.**[^key-4ea1d57ee82882df4aa2886366c2ae49] In respect of any person aged 16 years or over, whether that person was at any time during the week preceding census day—
+**25.**[^c-4ea1d57ee82882df4aa2886366c2ae49] In respect of any person aged 16 years or over, whether that person was at any time during the week preceding census day—
 
 - (a) working as an employee,
 - (b) self-employed or freelance,
@@ -397,7 +397,7 @@ Article 6
 - (d) on maternity or paternity leave, or
 - (e) doing any other kind of paid work.
 
-**26.**[^key-7e0bdc5292395ce5198bad2a6c790f25] *In respect of any person aged 16 years or over, who was not doing any paid work at any time during the week preceding census day,—*
+**26.**[^c-7e0bdc5292395ce5198bad2a6c790f25] *In respect of any person aged 16 years or over, who was not doing any paid work at any time during the week preceding census day,—*
 
 - (a) *whether that person was actively looking for any kind of paid work during the 4 weeks preceding census day,*
 - (b) *whether, if a job had been available during the week preceding census day, that person could have started it within 2 weeks,*
@@ -405,7 +405,7 @@ Article 6
 - (d) *whether, during the week preceding census day, that person was retired, was studying, was looking after home or family, was long-term sick or disabled or was not working due to another reason, and*
 - (e) *whether that person has ever done paid work and, if so, whether that was in the 12 months preceding census day.*
 
-**27.**[^key-28cb532d2736fc7553df9f3fd880473e] In respect of any person who has ever worked and who is aged 16 years or over, for the main job that person was doing during the week preceding census day, or if not working during that week, for that person's last main job—
+**27.**[^c-28cb532d2736fc7553df9f3fd880473e] In respect of any person who has ever worked and who is aged 16 years or over, for the main job that person was doing during the week preceding census day, or if not working during that week, for that person's last main job—
 
 - (a) whether that person is or was an employee, self-employed or freelance without employees, or self-employed with employees,
 - (b) what is or was the main activity of that person's organisation, business or freelance work,
@@ -415,7 +415,7 @@ Article 6
 - (f) how many hours a week that person usually works or worked, and
 - (g) the name of the organisation or business that person works or worked for, or, as the case may be, that there was no such organisation.
 
-**28.**[^key-2bf2364d6586b09d4c5e4af68ddc8991] Whether the living accommodation occupied by the household to which the return relates is a—
+**28.**[^c-2bf2364d6586b09d4c5e4af68ddc8991] Whether the living accommodation occupied by the household to which the return relates is a—
 
 - (a) whole house or bungalow and, if so, whether—
   - (i) detached,
@@ -427,11 +427,11 @@ Article 6
   - (iii) in a commercial building, or
 - (c) caravan or other mobile or temporary structure.
 
-**29.**[^key-3b63f35394e8fb3d962fa0d3226f4f71] Whether the accommodation occupied by the household to which the return relates is self-contained.
+**29.**[^c-3b63f35394e8fb3d962fa0d3226f4f71] Whether the accommodation occupied by the household to which the return relates is self-contained.
 
-**30.**[^key-e4890c0501c4704ea7569a3a7e927698] Number of bedrooms for use only by the household to which the return relates.
+**30.**[^c-e4890c0501c4704ea7569a3a7e927698] Number of bedrooms for use only by the household to which the return relates.
 
-**31.**[^key-86640af90afd9e74541762f4aa34d4ae] *Whether the household to which the return relates—*
+**31.**[^c-86640af90afd9e74541762f4aa34d4ae] *Whether the household to which the return relates—*
 
 - (a) *owns the accommodation with a loan secured over heritable property,*
 - (b) *owns the accommodation outright,*
@@ -440,13 +440,13 @@ Article 6
 - (e) *makes payments which are partly rent and partly in respect of a loan secured over heritable property, or*
 - (f) *lives in the accommodation rent-free.*
 
-**32.**[^key-87dc13131fd8b3ff12f16bf384d51c72] *Where the household rents the accommodation or lives in the accommodation rent-free, whether the landlord is—*
+**32.**[^c-87dc13131fd8b3ff12f16bf384d51c72] *Where the household rents the accommodation or lives in the accommodation rent-free, whether the landlord is—*
 
 - (a) *a local authority, housing association or other registered social landlord,*
 - (b) *a private landlord, or*
 - (c) *a person or body not mentioned in subparagraph (a) or (b).*
 
-**33.**[^key-a979b8a648c9519faa298262c6cb114b] Whether the accommodation to which the return relates has central heating and, if so, whether—
+**33.**[^c-a979b8a648c9519faa298262c6cb114b] Whether the accommodation to which the return relates has central heating and, if so, whether—
 
 - (a) mains gas,
 - (b) other gas (including liquid petroleum gas and biogas),
@@ -458,23 +458,23 @@ Article 6
 - (h) district or communal heat system, or
 - (i) another type of central heating.
 
-**34.**[^key-53348a6e1a76dafc41bda02b1ae0d89c] *The number of cars and vans owned, or available for use, by one or more members of the household to which the return relates.*
+**34.**[^c-53348a6e1a76dafc41bda02b1ae0d89c] *The number of cars and vans owned, or available for use, by one or more members of the household to which the return relates.*
 
-**35.**[^key-55366f09ea23dd7d1b7398468ca2afab] *The number of visitors who are staying at the address on census night, and whether they—*
+**35.**[^c-55366f09ea23dd7d1b7398468ca2afab] *The number of visitors who are staying at the address on census night, and whether they—*
 
 - (a) *have a permanent or family home elsewhere in the United Kingdom,*
 - (b) *usually live outside the United Kingdom and are staying in the United Kingdom for less than 6 months,*
 - (c) *usually live somewhere else in the United Kingdom, or*
 - (d) *are visiting as a holiday.*
 
-**36.**[^key-98f501cb27e22fc80ae0b8156c7d7122] In the case of—
+**36.**[^c-98f501cb27e22fc80ae0b8156c7d7122] In the case of—
 
 - (a) a visitor with a permanent or family home elsewhere in the United Kingdom, the address of that home,
 - (b) a visitor who has no permanent or family home in the United Kingdom, but has such a home, or otherwise usually lives, in a country outside the United Kingdom, the name of that country.
 
-**37.**[^key-7378b80baf8d9afb0eb482401e880d65] *The person's number within the household as it appears in the return made in accordance with article 5(2)*.
+**37.**[^c-7378b80baf8d9afb0eb482401e880d65] *The person's number within the household as it appears in the return made in accordance with article 5(2)*.
 
-**38.**[^key-d92cdf765dfe859369d0faea847347a2] *Where the person is usually resident in a communal establishment whether that person is—*
+**38.**[^c-d92cdf765dfe859369d0faea847347a2] *Where the person is usually resident in a communal establishment whether that person is—*
 
 - (a) *the owner of the establishment or is a member of staff of the owner who works at the establishment,*
 - (b) *a family member or partner of a person mentioned in subparagraph (a), or*
@@ -484,9 +484,9 @@ Article 6
 
 Article 6(4)
 
-**1.**[^key-4c0494329f808563b54daeb1260155be] *The number of persons usually resident at the establishment.*
+**1.**[^c-4c0494329f808563b54daeb1260155be] *The number of persons usually resident at the establishment.*
 
-**2.**[^key-5d0519ba179d37fcc296a64b15c7672c] The number of females, and the number of males, usually resident at the establishment in each of the following age ranges—
+**2.**[^c-5d0519ba179d37fcc296a64b15c7672c] The number of females, and the number of males, usually resident at the establishment in each of the following age ranges—
 
 - (a) 0 to 15 years,
 - (b) 16 to 24 years,
@@ -495,9 +495,9 @@ Article 6(4)
 - (e) 50 to 64 years,
 - (f) 65 years and over.
 
-**3.**[^key-e1508f9f8d6ba53707f11650add8e341] *The number of visitors who are staying at the establishment on census night.*
+**3.**[^c-e1508f9f8d6ba53707f11650add8e341] *The number of visitors who are staying at the establishment on census night.*
 
-**4.**[^key-c24a822b0d1e4d1e3ef3463b1d602445] *The type of establishment which may include—*
+**4.**[^c-c24a822b0d1e4d1e3ef3463b1d602445] *The type of establishment which may include—*
 
 - (a) *the nature of the establishment, and*
 - (b) *the person or body who is responsible for the management of the establishment.*
@@ -524,122 +524,122 @@ Article 7 prescribes certain particulars (those relating to transgender status o
 
 [^c23990371]: Marginal citation: The powers in section 1(1) (to prescribe particulars with respect to the matters mentioned in paragraph 6 of the schedule and otherwise) and section 8(1A)(b) of the Census Act 1920 are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act 2010. This Order is subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-1c82ecc43595cb98b47e2d7e2f7705c1]: Commencement: Art. 1 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-1c82ecc43595cb98b47e2d7e2f7705c1]: Commencement: Art. 1 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-c3520c44774055f36c919c46d8bf4f57]: Commencement: Art. 2 in force at 12.3.2020, see art. 1(1)
+[^c-c3520c44774055f36c919c46d8bf4f57]: Commencement: Art. 2 in force at 12.3.2020, see art. 1(1)
 
-[^key-a66109b682cfcbec654018cc0023e0f5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2020/76/article/2/1) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/a/i)
+[^c-a66109b682cfcbec654018cc0023e0f5]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2020/76/article/2/1) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/a/i)
 
-[^key-e301482193b3ac5492cc62d9d1a9bcc0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2020/76/article/2/1) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/a/ii)
+[^c-e301482193b3ac5492cc62d9d1a9bcc0]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/ssi/2020/76/article/2/1) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/a/ii)
 
 [^c23990381]: Marginal citation: [2003 asp 9](https://www.legislation.gov.uk/asp/2003/9).
 
-[^key-fd01a2dfeb499a0640252228cee2f818]: Textual amendment: Words in [art. 2(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/76/article/2/6/a/ii) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/b/i)
+[^c-fd01a2dfeb499a0640252228cee2f818]: Textual amendment: Words in [art. 2(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/76/article/2/6/a/ii) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/b/i)
 
-[^key-af24e980661b1907c6a9a492c11af3f4]: Textual amendment: Words in [art. 2(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/76/article/2/6/a/ii) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/b/ii)
+[^c-af24e980661b1907c6a9a492c11af3f4]: Textual amendment: Words in [art. 2(6)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/76/article/2/6/a/ii) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/b/ii)
 
-[^key-d1bdd64f9bc8547b7956b96e361bfdee]: Textual amendment: Words in [art. 2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/76/article/2/6/b/ii) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/c/i)
+[^c-d1bdd64f9bc8547b7956b96e361bfdee]: Textual amendment: Words in [art. 2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/76/article/2/6/b/ii) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(c)(i)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/c/i)
 
-[^key-8f041372dc5e94961b0a981abf0e4503]: Textual amendment: Words in [art. 2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/76/article/2/6/b/ii) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/c/ii)
+[^c-8f041372dc5e94961b0a981abf0e4503]: Textual amendment: Words in [art. 2(6)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/76/article/2/6/b/ii) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/436/article/2/2/c/ii)
 
-[^key-55aee90c8f303825884493c9571d08b5]: Commencement: Art. 3 in force at 12.3.2020, see art. 1(1)
+[^c-55aee90c8f303825884493c9571d08b5]: Commencement: Art. 3 in force at 12.3.2020, see art. 1(1)
 
-[^key-22481f0a128acf7228c00c2b00e1e335]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2020/76/article/3) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/436/article/2/3)
+[^c-22481f0a128acf7228c00c2b00e1e335]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/ssi/2020/76/article/3) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2020/436/article/2/3)
 
-[^key-bfc7ae7ed0fc37e8e50ccb6576e18180]: Commencement: Art. 4 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-bfc7ae7ed0fc37e8e50ccb6576e18180]: Commencement: Art. 4 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-d42e40aaf6b1bc377bb49f67fde97fa3]: Commencement: Art. 5 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-d42e40aaf6b1bc377bb49f67fde97fa3]: Commencement: Art. 5 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-b98a8bb33bb92cad3aa67e7ac05df834]: Commencement: Art. 6 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-b98a8bb33bb92cad3aa67e7ac05df834]: Commencement: Art. 6 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-2c9bec6992bb886d5304998e021911a8]: Commencement: Art. 7 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-2c9bec6992bb886d5304998e021911a8]: Commencement: Art. 7 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-0ea363e9c11d00cc42cd2b212da9872c]: Commencement: Sch. 1 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-0ea363e9c11d00cc42cd2b212da9872c]: Commencement: Sch. 1 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-b02670398c9fa88f0fe7538dea166888]: Commencement: Sch. 2 para. 1 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-b02670398c9fa88f0fe7538dea166888]: Commencement: Sch. 2 para. 1 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-fb4f9a55a1520b94a2a10bd71d411118]: Commencement: Sch. 2 para. 2 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-fb4f9a55a1520b94a2a10bd71d411118]: Commencement: Sch. 2 para. 2 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-8119654077a4433839a606211dcfe5ab]: Commencement: Sch. 2 para. 3 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-8119654077a4433839a606211dcfe5ab]: Commencement: Sch. 2 para. 3 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-99c197ba5d166320d282c48350473c7e]: Commencement: Sch. 2 para. 4 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-99c197ba5d166320d282c48350473c7e]: Commencement: Sch. 2 para. 4 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-2ca6bedab6ca5c0ea41635dcf9020fdd]: Commencement: Sch. 2 para. 5 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-2ca6bedab6ca5c0ea41635dcf9020fdd]: Commencement: Sch. 2 para. 5 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-d91711ea3975c74126ed6260f17d2534]: Commencement: Sch. 2 para. 6 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-d91711ea3975c74126ed6260f17d2534]: Commencement: Sch. 2 para. 6 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-95565b5567c4aab9a21e9d65e54d60de]: Commencement: Sch. 2 para. 7 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-95565b5567c4aab9a21e9d65e54d60de]: Commencement: Sch. 2 para. 7 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-08a0e6c768e8cdb63e9744d46bea52bc]: Commencement: Sch. 2 para. 8 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-08a0e6c768e8cdb63e9744d46bea52bc]: Commencement: Sch. 2 para. 8 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-41794cc00c024b853168a6df6b3a3e39]: Commencement: Sch. 2 para. 9 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-41794cc00c024b853168a6df6b3a3e39]: Commencement: Sch. 2 para. 9 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-2dc985d78f505c9bfc740a8c202e19af]: Commencement: Sch. 2 para. 10 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-2dc985d78f505c9bfc740a8c202e19af]: Commencement: Sch. 2 para. 10 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-3eb09a5d462e16ea80e6c262966928fd]: Commencement: Sch. 2 para. 11 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-3eb09a5d462e16ea80e6c262966928fd]: Commencement: Sch. 2 para. 11 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-d777e596bb7d30b301cbe856ff775f07]: Commencement: Sch. 2 para. 12 in force at 12.3.2020, see art. 1(1)
+[^c-d777e596bb7d30b301cbe856ff775f07]: Commencement: Sch. 2 para. 12 in force at 12.3.2020, see art. 1(1)
 
-[^key-25016db15270fa4ece0ae26a781ddb08]: Textual amendment: Words in [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2020/76/schedule/2/paragraph/12) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/436/article/2/4)
+[^c-25016db15270fa4ece0ae26a781ddb08]: Textual amendment: Words in [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2020/76/schedule/2/paragraph/12) substituted (17.12.2020) by [The Census (Scotland) Amendment Order 2020 (S.S.I. 2020/436)](https://www.legislation.gov.uk/ssi/2020/436), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/436/article/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2020/436/article/2/4)
 
-[^key-75ba2d043984132c8b160ca7fae30262]: Commencement: Sch. 2 para. 13 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-75ba2d043984132c8b160ca7fae30262]: Commencement: Sch. 2 para. 13 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-3e69d87a4827fdd9af5ec5efa602d01a]: Commencement: Sch. 2 para. 14 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-3e69d87a4827fdd9af5ec5efa602d01a]: Commencement: Sch. 2 para. 14 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-d80dc7be81189c87d9ae22810a95030b]: Commencement: Sch. 2 para. 15 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-d80dc7be81189c87d9ae22810a95030b]: Commencement: Sch. 2 para. 15 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-569ed5edab5b9273819caab73bded48a]: Commencement: Sch. 2 para. 16 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-569ed5edab5b9273819caab73bded48a]: Commencement: Sch. 2 para. 16 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
 [^c23990391]: Marginal citation: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61). Section 50(1) was relevantly amended by the [British Overseas Territories Act 2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), [section 1(1)(a)](https://www.legislation.gov.uk/ukpga/2002/8/section/1/1/a).
 
-[^key-0a11a82c11f189617a1fba999d6a0e16]: Commencement: Sch. 2 para. 17 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-0a11a82c11f189617a1fba999d6a0e16]: Commencement: Sch. 2 para. 17 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-5868467a016e82ee1ca8821978ac5134]: Commencement: Sch. 2 para. 18 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-5868467a016e82ee1ca8821978ac5134]: Commencement: Sch. 2 para. 18 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-2a2099448a4fdc2e549170742fae3d97]: Commencement: Sch. 2 para. 19 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-2a2099448a4fdc2e549170742fae3d97]: Commencement: Sch. 2 para. 19 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-163e7065f08af1abeb128e5ef7dd81b1]: Commencement: Sch. 2 para. 20 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-163e7065f08af1abeb128e5ef7dd81b1]: Commencement: Sch. 2 para. 20 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-db41a35b7b1cbe85541d2cde7b638d2f]: Commencement: Sch. 2 para. 21 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-db41a35b7b1cbe85541d2cde7b638d2f]: Commencement: Sch. 2 para. 21 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-567b0660d3add7da8ded09c8ef444d7d]: Commencement: Sch. 2 para. 22 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-567b0660d3add7da8ded09c8ef444d7d]: Commencement: Sch. 2 para. 22 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-7e6ca0362167c12c10142efb1c05523a]: Commencement: Sch. 2 para. 23 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-7e6ca0362167c12c10142efb1c05523a]: Commencement: Sch. 2 para. 23 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-72d6fc7fd6f2a9a3ee2a984f53ab8764]: Commencement: Sch. 2 para. 24 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-72d6fc7fd6f2a9a3ee2a984f53ab8764]: Commencement: Sch. 2 para. 24 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-4ea1d57ee82882df4aa2886366c2ae49]: Commencement: Sch. 2 para. 25 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-4ea1d57ee82882df4aa2886366c2ae49]: Commencement: Sch. 2 para. 25 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-7e0bdc5292395ce5198bad2a6c790f25]: Commencement: Sch. 2 para. 26 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-7e0bdc5292395ce5198bad2a6c790f25]: Commencement: Sch. 2 para. 26 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-28cb532d2736fc7553df9f3fd880473e]: Commencement: Sch. 2 para. 27 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-28cb532d2736fc7553df9f3fd880473e]: Commencement: Sch. 2 para. 27 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-2bf2364d6586b09d4c5e4af68ddc8991]: Commencement: Sch. 2 para. 28 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-2bf2364d6586b09d4c5e4af68ddc8991]: Commencement: Sch. 2 para. 28 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-3b63f35394e8fb3d962fa0d3226f4f71]: Commencement: Sch. 2 para. 29 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-3b63f35394e8fb3d962fa0d3226f4f71]: Commencement: Sch. 2 para. 29 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-e4890c0501c4704ea7569a3a7e927698]: Commencement: Sch. 2 para. 30 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-e4890c0501c4704ea7569a3a7e927698]: Commencement: Sch. 2 para. 30 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-86640af90afd9e74541762f4aa34d4ae]: Commencement: Sch. 2 para. 31 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-86640af90afd9e74541762f4aa34d4ae]: Commencement: Sch. 2 para. 31 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-87dc13131fd8b3ff12f16bf384d51c72]: Commencement: Sch. 2 para. 32 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-87dc13131fd8b3ff12f16bf384d51c72]: Commencement: Sch. 2 para. 32 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-a979b8a648c9519faa298262c6cb114b]: Commencement: Sch. 2 para. 33 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-a979b8a648c9519faa298262c6cb114b]: Commencement: Sch. 2 para. 33 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-53348a6e1a76dafc41bda02b1ae0d89c]: Commencement: Sch. 2 para. 34 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-53348a6e1a76dafc41bda02b1ae0d89c]: Commencement: Sch. 2 para. 34 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-55366f09ea23dd7d1b7398468ca2afab]: Commencement: Sch. 2 para. 35 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-55366f09ea23dd7d1b7398468ca2afab]: Commencement: Sch. 2 para. 35 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-98f501cb27e22fc80ae0b8156c7d7122]: Commencement: Sch. 2 para. 36 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-98f501cb27e22fc80ae0b8156c7d7122]: Commencement: Sch. 2 para. 36 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-7378b80baf8d9afb0eb482401e880d65]: Commencement: Sch. 2 para. 37 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-7378b80baf8d9afb0eb482401e880d65]: Commencement: Sch. 2 para. 37 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-d92cdf765dfe859369d0faea847347a2]: Commencement: Sch. 2 para. 38 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-d92cdf765dfe859369d0faea847347a2]: Commencement: Sch. 2 para. 38 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-4c0494329f808563b54daeb1260155be]: Commencement: Sch. 3 para. 1 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-4c0494329f808563b54daeb1260155be]: Commencement: Sch. 3 para. 1 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-5d0519ba179d37fcc296a64b15c7672c]: Commencement: Sch. 3 para. 2 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-5d0519ba179d37fcc296a64b15c7672c]: Commencement: Sch. 3 para. 2 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-e1508f9f8d6ba53707f11650add8e341]: Commencement: Sch. 3 para. 3 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-e1508f9f8d6ba53707f11650add8e341]: Commencement: Sch. 3 para. 3 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
 
-[^key-c24a822b0d1e4d1e3ef3463b1d602445]: Commencement: Sch. 3 para. 4 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)
+[^c-c24a822b0d1e4d1e3ef3463b1d602445]: Commencement: Sch. 3 para. 4 in force at 12.3.2020, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2020/76/article/1/1)

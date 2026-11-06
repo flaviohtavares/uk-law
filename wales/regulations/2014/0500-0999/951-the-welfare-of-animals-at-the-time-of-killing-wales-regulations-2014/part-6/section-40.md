@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Power of local authority to prosecute[^key-ec2a008b122ff113a0de5f96e98aec90]
+## 40. Power of local authority to prosecute[^c-ec2a008b122ff113a0de5f96e98aec90]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local authority may prosecute any offence under these Regulations.
 
 ## Annotations
 
-[^key-ec2a008b122ff113a0de5f96e98aec90]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2014/951/regulation/40) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-ec2a008b122ff113a0de5f96e98aec90]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2014/951/regulation/40) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

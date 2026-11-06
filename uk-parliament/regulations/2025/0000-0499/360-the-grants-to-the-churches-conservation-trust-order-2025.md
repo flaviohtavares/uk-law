@@ -32,7 +32,7 @@ summary: ''
 
 ECCLESIASTICAL LAW, ENGLAND AND WALES
 
-The Grants to the Churches Conservation Trust Order 2025 (revoked)[^key-f205cba21be4151f653c662d51f1d722]
+The Grants to the Churches Conservation Trust Order 2025 (revoked)[^c-f205cba21be4151f653c662d51f1d722]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into force
 
 1st April 2025
 
-[^key-f205cba21be4151f653c662d51f1d722]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f205cba21be4151f653c662d51f1d722]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-f205cba21be4151f653c662d51f1d722]
+## 1. Citation, commencement and extent[^c-f205cba21be4151f653c662d51f1d722]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Period for grants to the Churches Conservation Trust[^key-f205cba21be4151f653c662d51f1d722]
+## 2. Period for grants to the Churches Conservation Trust[^c-f205cba21be4151f653c662d51f1d722]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Aggregate amount of grants[^key-f205cba21be4151f653c662d51f1d722]
+## 3. Aggregate amount of grants[^c-f205cba21be4151f653c662d51f1d722]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of previous Order[^key-f205cba21be4151f653c662d51f1d722]
+## 4. Revocation of previous Order[^c-f205cba21be4151f653c662d51f1d722]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f205cba21be4151f653c662d51f1d722]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f205cba21be4151f653c662d51f1d722]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f205cba21be4151f653c662d51f1d722]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f205cba21be4151f653c662d51f1d722]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f205cba21be4151f653c662d51f1d722]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/360) revoked (1.4.2026) by [The Grants to the Churches Conservation Trust Order 2026 (S.I. 2026/379)](https://www.legislation.gov.uk/uksi/2026/379), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/379/article/1/1), [4](https://www.legislation.gov.uk/uksi/2026/379/article/4)
+[^c-f205cba21be4151f653c662d51f1d722]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2025/360) revoked (1.4.2026) by [The Grants to the Churches Conservation Trust Order 2026 (S.I. 2026/379)](https://www.legislation.gov.uk/uksi/2026/379), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/379/article/1/1), [4](https://www.legislation.gov.uk/uksi/2026/379/article/4)

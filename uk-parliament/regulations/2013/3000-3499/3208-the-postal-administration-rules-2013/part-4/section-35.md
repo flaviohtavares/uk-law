@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Venue and conduct of company meeting[^key-a5af02e2109525b618bd3f1a1b2bfc68]
+## 35. Venue and conduct of company meeting[^c-a5af02e2109525b618bd3f1a1b2bfc68]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ in accordance with the law of England and Wales, including any applicable provis
 
 ## Annotations
 
-[^key-a5af02e2109525b618bd3f1a1b2bfc68]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2013/3208/rule/35) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-a5af02e2109525b618bd3f1a1b2bfc68]: Commencement: [Rule 35](https://www.legislation.gov.uk/uksi/2013/3208/rule/35) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

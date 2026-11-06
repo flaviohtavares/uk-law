@@ -24,45 +24,45 @@ Section 358
 
 ### Reserve Forces Act 1980 (c. 9)
 
-**1.**[^key-3e828013a156bc0a1346aa77e4e49d71][^key-d6454f11db2bf6d94ecfa07229468112] In section 10 of the Reserve Forces Act 1980 (call out for national danger) omit subsection (5).
+**1.**[^c-3e828013a156bc0a1346aa77e4e49d71][^c-d6454f11db2bf6d94ecfa07229468112] In section 10 of the Reserve Forces Act 1980 (call out for national danger) omit subsection (5).
 
-**2.**[^key-0cacb2d52734e5dddeb28837bef857f4][^key-abe1a724c062de38c9f540ebb36e6524] In section 11(2)(a) of that Act (call out for warlike operations), for “regular air force” substitute “ Royal Air Force ”.
+**2.**[^c-0cacb2d52734e5dddeb28837bef857f4][^c-abe1a724c062de38c9f540ebb36e6524] In section 11(2)(a) of that Act (call out for warlike operations), for “regular air force” substitute “ Royal Air Force ”.
 
-**3.**[^key-617f18dd5986989f4f5677892d580c28][^key-381e0213edf55c4ea3748c57262ee335] In section 18(2) of that Act (permanent service call out of Army Reserve) omit paragraph (b).
+**3.**[^c-617f18dd5986989f4f5677892d580c28][^c-381e0213edf55c4ea3748c57262ee335] In section 18(2) of that Act (permanent service call out of Army Reserve) omit paragraph (b).
 
-**4.**[^key-f6981f1fd96c2dfa50b0739ef9b798c2][^key-a7958d2cd2d661b42747a3d6ee52aeb1] In section 19 of that Act (duration of Army Reserve permanent service)—
+**4.**[^c-f6981f1fd96c2dfa50b0739ef9b798c2][^c-a7958d2cd2d661b42747a3d6ee52aeb1] In section 19 of that Act (duration of Army Reserve permanent service)—
 
 - (a) omit subsection (4);
 - (b) in subsection (5) for “subsections (3) and (4) above” substitute “ subsection (3) ”.
 
-**5.**[^key-413827a9680873c78bfff2fee224a313][^key-714354001f7dfe2230ab044103613044] In section 19A of that Act (postponement of discharge of members of Army Reserve during call out), for subsection (7) substitute—
+**5.**[^c-413827a9680873c78bfff2fee224a313][^c-714354001f7dfe2230ab044103613044] In section 19A of that Act (postponement of discharge of members of Army Reserve during call out), for subsection (7) substitute—
 
 > (7) In subsections (3) to (5)—
 >
 > - “**the competent military authority**” means the Defence Council or any officer of a description prescribed by regulations of the Defence Council;
 > - “**prescribed**” means prescribed by regulations of the Defence Council.
 
-**6.**[^key-999b3c67e43138de3b9f3cdd7e3d4c5e][^key-ef2bed0471a8c59fcc2f0350d274c90b] In section 21 of that Act (duration of Air Force Reserve permanent service)—
+**6.**[^c-999b3c67e43138de3b9f3cdd7e3d4c5e][^c-ef2bed0471a8c59fcc2f0350d274c90b] In section 21 of that Act (duration of Air Force Reserve permanent service)—
 
 - (a) omit subsection (4);
 - (b) in subsection (5) for “subsections (3) and (4) above” substitute “ subsection (3) ”.
 
-**7.**[^key-a7c002f7fe1110bbcfc761c6d4ea8695][^key-262cfa08a69788fae680003c3a4aedd6] In section 21A of that Act (postponement of discharge of members of Royal Air Force Reserve during call out), for subsection (7) substitute—
+**7.**[^c-a7c002f7fe1110bbcfc761c6d4ea8695][^c-262cfa08a69788fae680003c3a4aedd6] In section 21A of that Act (postponement of discharge of members of Royal Air Force Reserve during call out), for subsection (7) substitute—
 
 > (7) In subsections (3) to (5)—
 >
 > - “**the competent air force authority**” means the Defence Council or any officer of a description prescribed by regulations of the Defence Council;
 > - “**prescribed**” means prescribed by regulations of the Defence Council.
 
-**8.**[^key-c9c5b608dfe1054b4d201d0b7caa65b9][^key-0805515ddee3f0449d72d0e4de8c4e16] Omit section 24 of that Act (permanent service call out of Ulster Defence Regiment).
+**8.**[^c-c9c5b608dfe1054b4d201d0b7caa65b9][^c-0805515ddee3f0449d72d0e4de8c4e16] Omit section 24 of that Act (permanent service call out of Ulster Defence Regiment).
 
-**9.**[^key-9dbd3053ced763a82d2fcc6d3c886cb7][^key-9d186cbb82d8bb1eb83413317bc1f8e1] Omit section 25 of that Act (emergency service call out of Ulster Defence Regiment).
+**9.**[^c-9dbd3053ced763a82d2fcc6d3c886cb7][^c-9d186cbb82d8bb1eb83413317bc1f8e1] Omit section 25 of that Act (emergency service call out of Ulster Defence Regiment).
 
-**10.**[^key-de7574ffee9e1d7980ee1ed3b3944339][^key-10132e9d67e83ed90d545e594107913b] In section 26(2) of that Act (call out notices), omit paragraph (g).
+**10.**[^c-de7574ffee9e1d7980ee1ed3b3944339][^c-10132e9d67e83ed90d545e594107913b] In section 26(2) of that Act (call out notices), omit paragraph (g).
 
-**11.**[^key-75e61e08ceb398b552277c3a72462500][^key-4d0b33ee1296159f69289591d32562ec] In section 30(2) of that Act (liability of naval and marine pensioners to recall), for “The enactments concerning” substitute “ Provision made under section 331 of the Armed Forces Act 2006 that applies in relation to ”.
+**11.**[^c-75e61e08ceb398b552277c3a72462500][^c-4d0b33ee1296159f69289591d32562ec] In section 30(2) of that Act (liability of naval and marine pensioners to recall), for “The enactments concerning” substitute “ Provision made under section 331 of the Armed Forces Act 2006 that applies in relation to ”.
 
-**12.**[^key-aff0fdcbb8610320d20bcd7b023f8517][^key-448cd0474713dd055a3c6ee7fdbe5207] (1) Section 31 of that Act (liability of army and air force pensioners to recall) is amended as follows.
+**12.**[^c-aff0fdcbb8610320d20bcd7b023f8517][^c-448cd0474713dd055a3c6ee7fdbe5207] (1) Section 31 of that Act (liability of army and air force pensioners to recall) is amended as follows.
 
 (2) In subsection (6)—
 
@@ -75,7 +75,7 @@ Section 358
 
 (3) In subsection (7) for “those sections” substitute “ this section and section 32 ”.
 
-**13.**[^key-4839df50cb099b413c3ecd65eeea2aef][^key-0a1fb3d2df13ed013feef94273375b44] (1) Section 32 of that Act (occasion for and period of recall under section 31) is amended as follows.
+**13.**[^c-4839df50cb099b413c3ecd65eeea2aef][^c-0a1fb3d2df13ed013feef94273375b44] (1) Section 32 of that Act (occasion for and period of recall under section 31) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -88,23 +88,23 @@ Section 358
 
 > (5) No regulation under section 329 of the Armed Forces Act 2006 as to the term for which a person may be enlisted affects the operation of subsections (3) and (4) of this section.
 
-**14.**[^key-f2ad380fdd14f370937c0dd36590c228][^key-a002df2f2e900c763ea8ef80bc46dc2c] In section 34(3) of that Act (liability of certain former soldiers to recall)—
+**14.**[^c-f2ad380fdd14f370937c0dd36590c228][^c-a002df2f2e900c763ea8ef80bc46dc2c] In section 34(3) of that Act (liability of certain former soldiers to recall)—
 
 - (a) for “regular forces within the meaning of the Army Act 1955” substitute “ regular army ”;
 - (b) in paragraph (a) for “specified in the notice” substitute “ he is accepted into service ”.
 
-**15.**[^key-062260f47d802347b226dfc5476c1c7a][^key-0d26dc458dc9b73894710dded0189eb6] In section 39(1)(a) of that Act (application of section 38) for “regular air force” substitute “ Royal Air Force ”.
+**15.**[^c-062260f47d802347b226dfc5476c1c7a][^c-0d26dc458dc9b73894710dded0189eb6] In section 39(1)(a) of that Act (application of section 38) for “regular air force” substitute “ Royal Air Force ”.
 
-**16.**[^key-421059ebb9e1ddb0d25d378cde1dc9ef][^key-4c319cbe5c08a199257058518e6edca3] Omit section 44 of that Act (requirement as to training of Ulster Defence Regiment).
+**16.**[^c-421059ebb9e1ddb0d25d378cde1dc9ef][^c-4c319cbe5c08a199257058518e6edca3] Omit section 44 of that Act (requirement as to training of Ulster Defence Regiment).
 
-**17.**[^key-17da7026853005ac4049abf806aa148e][^key-d5ead9679d0fc74be5f721f763eb2bfb] In section 48 of that Act (void enlistment in the regular forces)—
+**17.**[^c-17da7026853005ac4049abf806aa148e][^c-d5ead9679d0fc74be5f721f763eb2bfb] In section 48 of that Act (void enlistment in the regular forces)—
 
 - (a) in the sidenote, for “regular forces” substitute “ Royal Marines or regular army ”;
 - (b) for “Her Majesty's regular forces” substitute “ the Royal Marines or the regular army ”.
 
-**18.**[^key-ec631c73d35adfb9b03c5aa7812fb974][^key-f7edec13c967e454927ccd3ca7099547] Omit section 139 of that Act (enrolment etc of members of Ulster Defence Regiment).
+**18.**[^c-ec631c73d35adfb9b03c5aa7812fb974][^c-f7edec13c967e454927ccd3ca7099547] Omit section 139 of that Act (enrolment etc of members of Ulster Defence Regiment).
 
-**19.**[^key-eee06c4c87de90ff0a41128d457bf861][^key-0552182f3b0d09c3edbbbdc481b35f4d] In section 140 of that Act (orders and regulations as to service in Ulster Defence Regiment)—
+**19.**[^c-eee06c4c87de90ff0a41128d457bf861][^c-0552182f3b0d09c3edbbbdc481b35f4d] In section 140 of that Act (orders and regulations as to service in Ulster Defence Regiment)—
 
 - (a) in the sidenote, for “acceptance and service” substitute “ pensions and other grants ”;
 - (b) for subsections (1) and (2) substitute—
@@ -124,13 +124,13 @@ Section 358
   - (i) for “Part of this Act” substitute “ section ”;
   - (ii) in the words after paragraph (b) for “Part” substitute “ section ”.
 
-**20.**[^key-b3b9baab82d664092b9f32b3044cc6cb][^key-5d7c76e6369334bbaa04255c9ba43153] Omit sections 141 to 144 of that Act (provisions relating to Ulster Defence Regiment).
+**20.**[^c-b3b9baab82d664092b9f32b3044cc6cb][^c-5d7c76e6369334bbaa04255c9ba43153] Omit sections 141 to 144 of that Act (provisions relating to Ulster Defence Regiment).
 
-**21.**[^key-fd6aa3446214feef7795a5b5046a8e7a][^key-5297ad45b3b326e8e63ff0a5c72ad756] In section 145 of that Act (reinstatement in civil employment) omit subsection (2).
+**21.**[^c-fd6aa3446214feef7795a5b5046a8e7a][^c-5297ad45b3b326e8e63ff0a5c72ad756] In section 145 of that Act (reinstatement in civil employment) omit subsection (2).
 
-**22.**[^key-ff2b4cc7196d18a0583d99886eeb2c8c][^key-55270fde28599c1ed9ba16cb80e16475] In section 146 of that Act (protection of other civil interests) omit subsection (2).
+**22.**[^c-ff2b4cc7196d18a0583d99886eeb2c8c][^c-55270fde28599c1ed9ba16cb80e16475] In section 146 of that Act (protection of other civil interests) omit subsection (2).
 
-**23.**[^key-b6c286e306bb6433c9a148b943171353][^key-72a8742a401d2217008706ed480b7e4f] (1) Section 156 (interpretation) is amended as follows.
+**23.**[^c-b6c286e306bb6433c9a148b943171353][^c-72a8742a401d2217008706ed480b7e4f] (1) Section 156 (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -142,7 +142,7 @@ Section 358
 
 (3) Omit subsection (2).
 
-**24.**[^key-e10189a1dba787586b75caebfe93b097][^key-ec53eb773731789db7015d230c026ac4] (1) Schedule 8 to that Act (saving and transitional provisions) is amended as follows.
+**24.**[^c-e10189a1dba787586b75caebfe93b097][^c-ec53eb773731789db7015d230c026ac4] (1) Schedule 8 to that Act (saving and transitional provisions) is amended as follows.
 
 (2) Omit paragraph 5(3).
 
@@ -158,31 +158,31 @@ Section 358
 
 ### Reserve Forces Act 1996 (c. 14)
 
-**25.**[^key-d5b473fd7854cd5b150ca8f00d9a8538][^key-0ed6d8ad32240b70e69fc59bfbe519fa] In section 2(2)(a) of the Reserve Forces Act 1996 (membership of the reserve forces), for the words from “the Army Act 1955” to the end substitute “ regulations made under section 331 of the Armed Forces Act 2006; ”.
+**25.**[^c-d5b473fd7854cd5b150ca8f00d9a8538][^c-0ed6d8ad32240b70e69fc59bfbe519fa] In section 2(2)(a) of the Reserve Forces Act 1996 (membership of the reserve forces), for the words from “the Army Act 1955” to the end substitute “ regulations made under section 331 of the Armed Forces Act 2006; ”.
 
-**26.**[^key-032c26fba24b85a46bd68c3406a5fbde][^key-a09589eef9614e13b7e9005717251b12] In section 4(1)(b) of that Act (orders and regulations concerning reserve forces), after “force” insert “ (except pay, bounty and allowances) ”.
+**26.**[^c-032c26fba24b85a46bd68c3406a5fbde][^c-a09589eef9614e13b7e9005717251b12] In section 4(1)(b) of that Act (orders and regulations concerning reserve forces), after “force” insert “ (except pay, bounty and allowances) ”.
 
-**27.**[^key-b7ef4dd49d659a9c156269817cdadf1d][^key-01cd0a3b0c4f4c09a2149fc12f2934bc] Omit section 7 of that Act (provision with respect to pay, bounty and allowances).
+**27.**[^c-b7ef4dd49d659a9c156269817cdadf1d][^c-01cd0a3b0c4f4c09a2149fc12f2934bc] Omit section 7 of that Act (provision with respect to pay, bounty and allowances).
 
-**28.**[^key-28be35b90bdc748da5492bb39b70e7a8][^key-28bbc5d0be72edcef89d64d4d0801ace] In section 13(7) of that Act (transfer of non-officers between reserve forces), for the words from “by or under” to the end substitute “ under the Armed Forces Act 2006. ”
+**28.**[^c-28be35b90bdc748da5492bb39b70e7a8][^c-28bbc5d0be72edcef89d64d4d0801ace] In section 13(7) of that Act (transfer of non-officers between reserve forces), for the words from “by or under” to the end substitute “ under the Armed Forces Act 2006. ”
 
-**29.**[^key-03ce22fe7be3ddff2e9d6769bf8fe635][^key-a761d472e46d3c778c7513428f3d880b] In section 15(1) of that Act (discharge by commanding officer) for the words “A commanding officer” to “his command,” substitute “ A man of a reserve force may be discharged by his commanding officer ”.
+**29.**[^c-03ce22fe7be3ddff2e9d6769bf8fe635][^c-a761d472e46d3c778c7513428f3d880b] In section 15(1) of that Act (discharge by commanding officer) for the words “A commanding officer” to “his command,” substitute “ A man of a reserve force may be discharged by his commanding officer ”.
 
-**30.**[^key-44fc3e4b8159f65449e36e7b78024f93][^key-5d2129a9d7e8fe24dc25f3ff3325d7e3] In section 24(2) of that Act (commitment to a period of full-time service) omit paragraph (b).
+**30.**[^c-44fc3e4b8159f65449e36e7b78024f93][^c-5d2129a9d7e8fe24dc25f3ff3325d7e3] In section 24(2) of that Act (commitment to a period of full-time service) omit paragraph (b).
 
-**31.**[^key-662e612d952387085a031f7aada49036][^key-2d1c4741167685aa18ab7954edc67607] In section 25(2) of that Act (additional duties commitments)—
+**31.**[^c-662e612d952387085a031f7aada49036][^c-2d1c4741167685aa18ab7954edc67607] In section 25(2) of that Act (additional duties commitments)—
 
 - (a) omit paragraph (a);
 - (b) in paragraph (b), for “while subject to service law, shall” substitute “ shall, from any time specified in the commitment as the time at which he is to begin that period of duty until released from duty, ”.
 
-**32.**[^key-90d0acd9a9ffbfc1d9540c8d70c5af0b][^key-92cb79249d8b88880c22d2f68aea581e] In section 27 of that Act (voluntary training and other duties) omit subsection (3).
+**32.**[^c-90d0acd9a9ffbfc1d9540c8d70c5af0b][^c-92cb79249d8b88880c22d2f68aea581e] In section 27 of that Act (voluntary training and other duties) omit subsection (3).
 
-**33.**[^key-a12538039baa245804c83bcbc89f2ebc] In each of sections 53, 55 and 57 of that Act (maximum duration of service on call-out), in subsection (8)—
+**33.**[^c-a12538039baa245804c83bcbc89f2ebc] In each of sections 53, 55 and 57 of that Act (maximum duration of service on call-out), in subsection (8)—
 
 - (a) at the end of paragraph (a) insert “ or ”;
 - (b) omit paragraph (b).
 
-**34.**[^key-9d18faaa6fc7eaef8f968d560c34482f] After section 53 of that Act insert—
+**34.**[^c-9d18faaa6fc7eaef8f968d560c34482f] After section 53 of that Act insert—
 
 > **53A. Agreement to alter limits in section 53**
 >
@@ -197,7 +197,7 @@ Section 358
 >
 > (4) If an order under section 53(11) applies in relation to the person, subsection (3) above has effect as if the reference to the period of 3 years were to the period of 5 years.
 
-**35.**[^key-b6a8bfd0532e627ce18ca74fddc28ba2] After section 55 of that Act insert—
+**35.**[^c-b6a8bfd0532e627ce18ca74fddc28ba2] After section 55 of that Act insert—
 
 > **55A. Agreement to alter limits in section 55**
 >
@@ -212,7 +212,7 @@ Section 358
 >
 > (4) If an order under section 55(11) applies in relation to the person, subsection (3) above has effect as if the reference to the period of 12 months were to the period of 2 years.
 
-**36.**[^key-eac7cd7ee61527c50859c2f1f0bb4730] After section 57 of that Act insert—
+**36.**[^c-eac7cd7ee61527c50859c2f1f0bb4730] After section 57 of that Act insert—
 
 > **57A. Agreement to alter limits in section 57**
 >
@@ -225,11 +225,11 @@ Section 358
 >
 > (3) An agreement under subsection (2) may also provide that, if the person is accepted into service under a call-out order under section 56, section 57 shall apply in his case as if for the period of 9 months specified in subsection (6) there were substituted a shorter period specified in the agreement.
 
-**37.**[^key-6ae6cd637bffb6d6e701b8a2373db136][^key-331d5975711b3b016718d9153a250b33] In section 66(2)(b) of that Act (persons who may be recalled) for “regular air force” substitute “ Royal Air Force ”.
+**37.**[^c-6ae6cd637bffb6d6e701b8a2373db136][^c-331d5975711b3b016718d9153a250b33] In section 66(2)(b) of that Act (persons who may be recalled) for “regular air force” substitute “ Royal Air Force ”.
 
-**38.**[^key-28a5fa15a27d17343a9e288883465c9d][^key-cfcbf10d2f5983d68969debd536e9684] In section 72 of that Act (release and discharge from service under recall order) omit subsections (5) and (6).
+**38.**[^c-28a5fa15a27d17343a9e288883465c9d][^c-cfcbf10d2f5983d68969debd536e9684] In section 72 of that Act (release and discharge from service under recall order) omit subsections (5) and (6).
 
-**39.**[^key-2435b95b4f1199d83da91e0e193b42d3][^key-937b09ccbbb9a8ae08b2cc00e8927925] (1) Section 95 of that Act (offences against orders and regulations under section 4) is amended as follows.
+**39.**[^c-2435b95b4f1199d83da91e0e193b42d3][^c-937b09ccbbb9a8ae08b2cc00e8927925] (1) Section 95 of that Act (offences against orders and regulations under section 4) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -269,19 +269,19 @@ Section 358
 
 > (2A) For the purposes of determining the Court Martial's powers when sentencing an offender to whom Part 2 of Schedule 3 to the Armed Forces Act 2006 applies (ex-servicemen etc) for an offence under subsection (1)(a) or (e) or (1A), subsection (2)(a)(i) has effect as if the reference to rows 5 to 12 were to rows 5 to 10.
 
-**40.**[^key-533085e30db01722d4bcf5a51c9a0ee8][^key-823cffd0487d27c0741c70648920c7b1] (1) Section 96 of that Act (failure to attend for service on call out or recall) is amended as follows.
+**40.**[^c-533085e30db01722d4bcf5a51c9a0ee8][^c-823cffd0487d27c0741c70648920c7b1] (1) Section 96 of that Act (failure to attend for service on call out or recall) is amended as follows.
 
 (2) In subsection (1), for the words (after paragraph (c)) from “is guilty” to the end substitute “ is guilty of desertion (if section 8(2)(a) or (b) of the Armed Forces Act 2006 applies to him) or absence without leave (if neither of those provisions applies to him). ”
 
 (3) In subsection (3) for the words from “by court-martial” to the end substitute “ summarily by a civil court (as well as being triable by the Court Martial). ”
 
-**41.**[^key-87050835621451412c072dac1aff2cc0][^key-e27a0f6003379e9dac1ce05e52feec31] (1) Section 97 of that Act (failure to attend for duty or training) is amended as follows.
+**41.**[^c-87050835621451412c072dac1aff2cc0][^c-e27a0f6003379e9dac1ce05e52feec31] (1) Section 97 of that Act (failure to attend for duty or training) is amended as follows.
 
 (2) In subsection (1), for the words (after paragraph (b)) from “is guilty” to the end substitute “ is guilty of desertion (if section 8(2)(a) or (b) of the Armed Forces Act 2006 applies to him) or absence without leave (if neither of those provisions applies to him). ”
 
 (3) In subsection (3) for the words from “by court-martial” to the end substitute “ summarily by a civil court (as well as being triable by the Court Martial). ”
 
-**42.**[^key-c3802f4a2f4667361c69e3d5044f761d][^key-76b06863129cc22f96be984064641173] (1) Section 98 of that Act (trial and punishment of offences of desertion or absence without leave) is amended as follows.
+**42.**[^c-c3802f4a2f4667361c69e3d5044f761d][^c-76b06863129cc22f96be984064641173] (1) Section 98 of that Act (trial and punishment of offences of desertion or absence without leave) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -306,9 +306,9 @@ Section 358
 
 > (7) Orders or regulations under section 4 may include provision for enabling a determination to be made in prescribed circumstances that subsection (6) is to cease to have effect in relation to a period of time or a part of a period of time.
 
-**43.**[^key-55116c6028cf016cd34f162e1247f01b][^key-54a342686c330be7628f02d89b9ecf53] Omit section 99 of that Act (false pretence of illegal absence).
+**43.**[^c-55116c6028cf016cd34f162e1247f01b][^c-54a342686c330be7628f02d89b9ecf53] Omit section 99 of that Act (false pretence of illegal absence).
 
-**44.**[^key-283e627b0e03126e0d302739aabe7265][^key-7888232e5a8f639f79863a5d037ff857] For section 100 of that Act (arrest of deserters etc) substitute—
+**44.**[^c-283e627b0e03126e0d302739aabe7265][^c-7888232e5a8f639f79863a5d037ff857] For section 100 of that Act (arrest of deserters etc) substitute—
 
 > **100A. Arrest by civilian police of deserters and absentees without leave**
 >
@@ -323,11 +323,11 @@ Section 358
 >
 > (4) In this section “**UK police force**” has the meaning given by section 375 of the Armed Forces Act 2006.
 
-**45.**[^key-5a73b92855c062227d8928d2cd08e4eb][^key-dc23a86e830ecfed30f57a076b694e59] Omit section 102 of that Act (record of illegal absence).
+**45.**[^c-5a73b92855c062227d8928d2cd08e4eb][^c-dc23a86e830ecfed30f57a076b694e59] Omit section 102 of that Act (record of illegal absence).
 
-**46.**[^key-b047d617a757bb710f687aec592c0767][^key-7f01083bcbf9f3f6e4f41e33c5f02bbf] In section 104 of that Act, omit subsection (3).
+**46.**[^c-b047d617a757bb710f687aec592c0767][^c-7f01083bcbf9f3f6e4f41e33c5f02bbf] In section 104 of that Act, omit subsection (3).
 
-**47.**[^key-de476bf7acbec7b908e4d1c2741aa12d][^key-e8694f697c1f77cbc4d83fb4304edc4c] (1) Section 105 of that Act (trial of offences by civil court) is amended as follows.
+**47.**[^c-de476bf7acbec7b908e4d1c2741aa12d][^c-e8694f697c1f77cbc4d83fb4304edc4c] (1) Section 105 of that Act (trial of offences by civil court) is amended as follows.
 
 (2) In subsection (1) for “which is triable by court-martial is also” substitute “ is (as well as being triable by the Court Martial) ”.
 
@@ -335,9 +335,9 @@ Section 358
 
 (4) In subsection (3) for “an offence under service law (other than an offence of desertion or absence without leave)” substitute “ any service offence (other than an offence under this Act or an offence mentioned in section 98(1)) ”.
 
-**48.**[^key-f8752d10add9c25ca2e0ac052d791bfd][^key-332e421ad7f9f65c0cef36f4ac83e3ad] Omit section 106 of that Act.
+**48.**[^c-f8752d10add9c25ca2e0ac052d791bfd][^c-332e421ad7f9f65c0cef36f4ac83e3ad] Omit section 106 of that Act.
 
-**49.**[^key-cb5326f33c9d059c9e7aa0e5d903a3ff][^key-ca190c7a897ca1d65828d880ff6dd90d] In section 107 of that Act (time for institution of proceedings)—
+**49.**[^c-cb5326f33c9d059c9e7aa0e5d903a3ff][^c-ca190c7a897ca1d65828d880ff6dd90d] In section 107 of that Act (time for institution of proceedings)—
 
 - (a) in subsection (1)—
   - (i) omit the words from “either—” to the end of paragraph (a);
@@ -346,17 +346,17 @@ Section 358
 
   > (3) Subsection (2) applies to proceedings for an offence under section 96(1) committed by a person liable to recall as it applies to proceedings mentioned in subsection (1) of this section.
 
-**50.**[^key-35633386f07abd768e34a2c7f1c6ec34][^key-b82936df07fa7279483de1180eb2fcac] In section 108 of that Act (evidence) for subsections (1) and (2) substitute—
+**50.**[^c-35633386f07abd768e34a2c7f1c6ec34][^c-b82936df07fa7279483de1180eb2fcac] In section 108 of that Act (evidence) for subsections (1) and (2) substitute—
 
 > (1A) The Secretary of State may by regulations make provision with respect to evidence, including the admissibility of evidence, in proceedings before a civil court for an offence under this Act.
 >
 > (1B) Regulations under subsection (1A) shall be made by statutory instrument, which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-**51.**[^key-a31997beb867fa9f5799e0bcc32ebdbe][^key-a3c2759f8b0ec39a70a2e582a366666b] Omit section 124 of that Act (exemption from tolls etc).
+**51.**[^c-a31997beb867fa9f5799e0bcc32ebdbe][^c-a3c2759f8b0ec39a70a2e582a366666b] Omit section 124 of that Act (exemption from tolls etc).
 
-**52.**[^key-5646fc6bb331eb0d5e1426cf978ad9f6][^key-cbaaf81dfe0aac35235542aa1e2b4521] Omit section 126 of that Act (amendments relating to transfers to reserves etc).
+**52.**[^c-5646fc6bb331eb0d5e1426cf978ad9f6][^c-cbaaf81dfe0aac35235542aa1e2b4521] Omit section 126 of that Act (amendments relating to transfers to reserves etc).
 
-**53.**[^key-45901ef053acab091e2d458cbab324e8][^key-6430b795bd815b663bfa49782235c7e3] (1) Section 127 of that Act (interpretation) is amended as follows.
+**53.**[^c-45901ef053acab091e2d458cbab324e8][^c-6430b795bd815b663bfa49782235c7e3] (1) Section 127 of that Act (interpretation) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -379,7 +379,7 @@ Section 358
 >
 > (4) Section 164(2) and (3) of the Armed Forces Act 2006 apply in relation to section 95(2)(a) of, and paragraph 5(3) of Schedule 1 to, this Act.
 
-**54.**[^key-f9340d6f7bb0aaffdf5bc69acbe29e5f][^key-9810a7ae29784bde8c3ba09758d337a7] (1) Schedule 1 to that Act (enlistment) is amended as follows.
+**54.**[^c-f9340d6f7bb0aaffdf5bc69acbe29e5f][^c-9810a7ae29784bde8c3ba09758d337a7] (1) Schedule 1 to that Act (enlistment) is amended as follows.
 
 (2) For paragraph 2(1) substitute—
 
@@ -412,242 +412,242 @@ Section 358
 
 (7) Omit paragraph 7 and the heading before it.
 
-**55.**[^key-a3afd455f0ef58bbe82fe79c47701eab][^key-5401725599ad6f07c449703febbe63d0] Omit Schedule 2 to that Act (deserters and absentees without leave).
+**55.**[^c-a3afd455f0ef58bbe82fe79c47701eab][^c-5401725599ad6f07c449703febbe63d0] Omit Schedule 2 to that Act (deserters and absentees without leave).
 
-**56.**[^key-9d13d005811fb46618860df64b7a50c9][^key-8b976acf2f0b12af1f56a66b46f704ad] Omit Schedule 3 to that Act (evidence).
+**56.**[^c-9d13d005811fb46618860df64b7a50c9][^c-8b976acf2f0b12af1f56a66b46f704ad] Omit Schedule 3 to that Act (evidence).
 
-**57.**[^key-22a834e9b2e19a14dfd7a8b1231f3d95][^key-65448c6216c7da02f77adf439491dbf8] Omit Schedule 7 to that Act (postponement of transfer to the reserves or discharge from the reserves).
+**57.**[^c-22a834e9b2e19a14dfd7a8b1231f3d95][^c-65448c6216c7da02f77adf439491dbf8] Omit Schedule 7 to that Act (postponement of transfer to the reserves or discharge from the reserves).
 
-**58.**[^key-3b379fc5f6ff48d87ecb7d2116398846][^key-c7553f9b68e9eb88ca9721c4828fd448] In Part 2 of Schedule 9 to that Act (transitional provisions) omit paragraphs 22 and 23.
+**58.**[^c-3b379fc5f6ff48d87ecb7d2116398846][^c-c7553f9b68e9eb88ca9721c4828fd448] In Part 2 of Schedule 9 to that Act (transitional provisions) omit paragraphs 22 and 23.
 
-**59.**[^key-63b2de9038d72b253dcde313038c5a40][^key-ef2ddb5f362698cc14a562ce45b0f180] In Schedule 10 to that Act (minor and consequential amendments) omit paragraphs 1 to 13 and 23.
+**59.**[^c-63b2de9038d72b253dcde313038c5a40][^c-ef2ddb5f362698cc14a562ce45b0f180] In Schedule 10 to that Act (minor and consequential amendments) omit paragraphs 1 to 13 and 23.
 
 ## Annotations
 
-[^key-3e828013a156bc0a1346aa77e4e49d71]: Commencement: Sch. 14 para. 1 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-3e828013a156bc0a1346aa77e4e49d71]: Commencement: Sch. 14 para. 1 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-d6454f11db2bf6d94ecfa07229468112]: Commencement: Sch. 14 para. 1 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-d6454f11db2bf6d94ecfa07229468112]: Commencement: Sch. 14 para. 1 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-0cacb2d52734e5dddeb28837bef857f4]: Commencement: Sch. 14 para. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-0cacb2d52734e5dddeb28837bef857f4]: Commencement: Sch. 14 para. 2 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-abe1a724c062de38c9f540ebb36e6524]: Commencement: Sch. 14 para. 2 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-abe1a724c062de38c9f540ebb36e6524]: Commencement: Sch. 14 para. 2 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-617f18dd5986989f4f5677892d580c28]: Commencement: Sch. 14 para. 3 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-617f18dd5986989f4f5677892d580c28]: Commencement: Sch. 14 para. 3 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-381e0213edf55c4ea3748c57262ee335]: Commencement: Sch. 14 para. 3 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-381e0213edf55c4ea3748c57262ee335]: Commencement: Sch. 14 para. 3 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f6981f1fd96c2dfa50b0739ef9b798c2]: Commencement: Sch. 14 para. 4 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f6981f1fd96c2dfa50b0739ef9b798c2]: Commencement: Sch. 14 para. 4 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a7958d2cd2d661b42747a3d6ee52aeb1]: Commencement: Sch. 14 para. 4 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a7958d2cd2d661b42747a3d6ee52aeb1]: Commencement: Sch. 14 para. 4 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-413827a9680873c78bfff2fee224a313]: Commencement: Sch. 14 para. 5 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-413827a9680873c78bfff2fee224a313]: Commencement: Sch. 14 para. 5 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-714354001f7dfe2230ab044103613044]: Commencement: Sch. 14 para. 5 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-714354001f7dfe2230ab044103613044]: Commencement: Sch. 14 para. 5 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-999b3c67e43138de3b9f3cdd7e3d4c5e]: Commencement: Sch. 14 para. 6 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-999b3c67e43138de3b9f3cdd7e3d4c5e]: Commencement: Sch. 14 para. 6 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-ef2bed0471a8c59fcc2f0350d274c90b]: Commencement: Sch. 14 para. 6 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ef2bed0471a8c59fcc2f0350d274c90b]: Commencement: Sch. 14 para. 6 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-a7c002f7fe1110bbcfc761c6d4ea8695]: Commencement: Sch. 14 para. 7 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-a7c002f7fe1110bbcfc761c6d4ea8695]: Commencement: Sch. 14 para. 7 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-262cfa08a69788fae680003c3a4aedd6]: Commencement: Sch. 14 para. 7 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-262cfa08a69788fae680003c3a4aedd6]: Commencement: Sch. 14 para. 7 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-c9c5b608dfe1054b4d201d0b7caa65b9]: Commencement: Sch. 14 para. 8 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-c9c5b608dfe1054b4d201d0b7caa65b9]: Commencement: Sch. 14 para. 8 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-0805515ddee3f0449d72d0e4de8c4e16]: Commencement: Sch. 14 para. 8 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0805515ddee3f0449d72d0e4de8c4e16]: Commencement: Sch. 14 para. 8 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-9dbd3053ced763a82d2fcc6d3c886cb7]: Commencement: Sch. 14 para. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-9dbd3053ced763a82d2fcc6d3c886cb7]: Commencement: Sch. 14 para. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-9d186cbb82d8bb1eb83413317bc1f8e1]: Commencement: Sch. 14 para. 9 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9d186cbb82d8bb1eb83413317bc1f8e1]: Commencement: Sch. 14 para. 9 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-de7574ffee9e1d7980ee1ed3b3944339]: Commencement: Sch. 14 para. 10 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-de7574ffee9e1d7980ee1ed3b3944339]: Commencement: Sch. 14 para. 10 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-10132e9d67e83ed90d545e594107913b]: Commencement: Sch. 14 para. 10 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-10132e9d67e83ed90d545e594107913b]: Commencement: Sch. 14 para. 10 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-75e61e08ceb398b552277c3a72462500]: Commencement: Sch. 14 para. 11 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-75e61e08ceb398b552277c3a72462500]: Commencement: Sch. 14 para. 11 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-4d0b33ee1296159f69289591d32562ec]: Commencement: Sch. 14 para. 11 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4d0b33ee1296159f69289591d32562ec]: Commencement: Sch. 14 para. 11 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-aff0fdcbb8610320d20bcd7b023f8517]: Commencement: Sch. 14 para. 12 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-aff0fdcbb8610320d20bcd7b023f8517]: Commencement: Sch. 14 para. 12 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-448cd0474713dd055a3c6ee7fdbe5207]: Commencement: Sch. 14 para. 12 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-448cd0474713dd055a3c6ee7fdbe5207]: Commencement: Sch. 14 para. 12 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-4839df50cb099b413c3ecd65eeea2aef]: Commencement: Sch. 14 para. 13 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-4839df50cb099b413c3ecd65eeea2aef]: Commencement: Sch. 14 para. 13 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-0a1fb3d2df13ed013feef94273375b44]: Commencement: Sch. 14 para. 13 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0a1fb3d2df13ed013feef94273375b44]: Commencement: Sch. 14 para. 13 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f2ad380fdd14f370937c0dd36590c228]: Commencement: Sch. 14 para. 14 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f2ad380fdd14f370937c0dd36590c228]: Commencement: Sch. 14 para. 14 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a002df2f2e900c763ea8ef80bc46dc2c]: Commencement: Sch. 14 para. 14 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a002df2f2e900c763ea8ef80bc46dc2c]: Commencement: Sch. 14 para. 14 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-062260f47d802347b226dfc5476c1c7a]: Commencement: Sch. 14 para. 15 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-062260f47d802347b226dfc5476c1c7a]: Commencement: Sch. 14 para. 15 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-0d26dc458dc9b73894710dded0189eb6]: Commencement: Sch. 14 para. 15 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0d26dc458dc9b73894710dded0189eb6]: Commencement: Sch. 14 para. 15 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-421059ebb9e1ddb0d25d378cde1dc9ef]: Commencement: Sch. 14 para. 16 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-421059ebb9e1ddb0d25d378cde1dc9ef]: Commencement: Sch. 14 para. 16 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-4c319cbe5c08a199257058518e6edca3]: Commencement: Sch. 14 para. 16 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-4c319cbe5c08a199257058518e6edca3]: Commencement: Sch. 14 para. 16 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-17da7026853005ac4049abf806aa148e]: Commencement: Sch. 14 para. 17 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-17da7026853005ac4049abf806aa148e]: Commencement: Sch. 14 para. 17 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-d5ead9679d0fc74be5f721f763eb2bfb]: Commencement: Sch. 14 para. 17 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-d5ead9679d0fc74be5f721f763eb2bfb]: Commencement: Sch. 14 para. 17 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-ec631c73d35adfb9b03c5aa7812fb974]: Commencement: Sch. 14 para. 18 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-ec631c73d35adfb9b03c5aa7812fb974]: Commencement: Sch. 14 para. 18 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-f7edec13c967e454927ccd3ca7099547]: Commencement: Sch. 14 para. 18 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f7edec13c967e454927ccd3ca7099547]: Commencement: Sch. 14 para. 18 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-eee06c4c87de90ff0a41128d457bf861]: Commencement: Sch. 14 para. 19 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-eee06c4c87de90ff0a41128d457bf861]: Commencement: Sch. 14 para. 19 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-0552182f3b0d09c3edbbbdc481b35f4d]: Commencement: Sch. 14 para. 19 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0552182f3b0d09c3edbbbdc481b35f4d]: Commencement: Sch. 14 para. 19 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-b3b9baab82d664092b9f32b3044cc6cb]: Commencement: Sch. 14 para. 20 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b3b9baab82d664092b9f32b3044cc6cb]: Commencement: Sch. 14 para. 20 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5d7c76e6369334bbaa04255c9ba43153]: Commencement: Sch. 14 para. 20 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5d7c76e6369334bbaa04255c9ba43153]: Commencement: Sch. 14 para. 20 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-fd6aa3446214feef7795a5b5046a8e7a]: Commencement: Sch. 14 para. 21 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-fd6aa3446214feef7795a5b5046a8e7a]: Commencement: Sch. 14 para. 21 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5297ad45b3b326e8e63ff0a5c72ad756]: Commencement: Sch. 14 para. 21 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5297ad45b3b326e8e63ff0a5c72ad756]: Commencement: Sch. 14 para. 21 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-ff2b4cc7196d18a0583d99886eeb2c8c]: Commencement: Sch. 14 para. 22 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-ff2b4cc7196d18a0583d99886eeb2c8c]: Commencement: Sch. 14 para. 22 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-55270fde28599c1ed9ba16cb80e16475]: Commencement: Sch. 14 para. 22 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-55270fde28599c1ed9ba16cb80e16475]: Commencement: Sch. 14 para. 22 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-b6c286e306bb6433c9a148b943171353]: Commencement: Sch. 14 para. 23 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b6c286e306bb6433c9a148b943171353]: Commencement: Sch. 14 para. 23 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-72a8742a401d2217008706ed480b7e4f]: Commencement: Sch. 14 para. 23 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-72a8742a401d2217008706ed480b7e4f]: Commencement: Sch. 14 para. 23 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-e10189a1dba787586b75caebfe93b097]: Commencement: Sch. 14 para. 24 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e10189a1dba787586b75caebfe93b097]: Commencement: Sch. 14 para. 24 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-ec53eb773731789db7015d230c026ac4]: Commencement: Sch. 14 para. 24 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ec53eb773731789db7015d230c026ac4]: Commencement: Sch. 14 para. 24 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-d5b473fd7854cd5b150ca8f00d9a8538]: Commencement: Sch. 14 para. 25 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-d5b473fd7854cd5b150ca8f00d9a8538]: Commencement: Sch. 14 para. 25 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-0ed6d8ad32240b70e69fc59bfbe519fa]: Commencement: Sch. 14 para. 25 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0ed6d8ad32240b70e69fc59bfbe519fa]: Commencement: Sch. 14 para. 25 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-032c26fba24b85a46bd68c3406a5fbde]: Commencement: Sch. 14 para. 26 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-032c26fba24b85a46bd68c3406a5fbde]: Commencement: Sch. 14 para. 26 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a09589eef9614e13b7e9005717251b12]: Commencement: Sch. 14 para. 26 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a09589eef9614e13b7e9005717251b12]: Commencement: Sch. 14 para. 26 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-b7ef4dd49d659a9c156269817cdadf1d]: Commencement: Sch. 14 para. 27 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b7ef4dd49d659a9c156269817cdadf1d]: Commencement: Sch. 14 para. 27 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-01cd0a3b0c4f4c09a2149fc12f2934bc]: Commencement: Sch. 14 para. 27 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-01cd0a3b0c4f4c09a2149fc12f2934bc]: Commencement: Sch. 14 para. 27 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-28be35b90bdc748da5492bb39b70e7a8]: Commencement: Sch. 14 para. 28 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-28be35b90bdc748da5492bb39b70e7a8]: Commencement: Sch. 14 para. 28 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-28bbc5d0be72edcef89d64d4d0801ace]: Commencement: Sch. 14 para. 28 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-28bbc5d0be72edcef89d64d4d0801ace]: Commencement: Sch. 14 para. 28 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-03ce22fe7be3ddff2e9d6769bf8fe635]: Commencement: Sch. 14 para. 29 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-03ce22fe7be3ddff2e9d6769bf8fe635]: Commencement: Sch. 14 para. 29 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a761d472e46d3c778c7513428f3d880b]: Commencement: Sch. 14 para. 29 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a761d472e46d3c778c7513428f3d880b]: Commencement: Sch. 14 para. 29 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-44fc3e4b8159f65449e36e7b78024f93]: Commencement: Sch. 14 para. 30 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-44fc3e4b8159f65449e36e7b78024f93]: Commencement: Sch. 14 para. 30 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5d2129a9d7e8fe24dc25f3ff3325d7e3]: Commencement: Sch. 14 para. 30 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5d2129a9d7e8fe24dc25f3ff3325d7e3]: Commencement: Sch. 14 para. 30 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-662e612d952387085a031f7aada49036]: Commencement: Sch. 14 para. 31 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-662e612d952387085a031f7aada49036]: Commencement: Sch. 14 para. 31 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-2d1c4741167685aa18ab7954edc67607]: Commencement: Sch. 14 para. 31 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-2d1c4741167685aa18ab7954edc67607]: Commencement: Sch. 14 para. 31 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-90d0acd9a9ffbfc1d9540c8d70c5af0b]: Commencement: Sch. 14 para. 32 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-90d0acd9a9ffbfc1d9540c8d70c5af0b]: Commencement: Sch. 14 para. 32 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-92cb79249d8b88880c22d2f68aea581e]: Commencement: Sch. 14 para. 32 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-92cb79249d8b88880c22d2f68aea581e]: Commencement: Sch. 14 para. 32 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-a12538039baa245804c83bcbc89f2ebc]: Commencement: Sch. 14 para. 33 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
+[^c-a12538039baa245804c83bcbc89f2ebc]: Commencement: Sch. 14 para. 33 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
 
-[^key-9d18faaa6fc7eaef8f968d560c34482f]: Commencement: Sch. 14 para. 34 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
+[^c-9d18faaa6fc7eaef8f968d560c34482f]: Commencement: Sch. 14 para. 34 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
 
-[^key-b6a8bfd0532e627ce18ca74fddc28ba2]: Commencement: Sch. 14 para. 35 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
+[^c-b6a8bfd0532e627ce18ca74fddc28ba2]: Commencement: Sch. 14 para. 35 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
 
-[^key-eac7cd7ee61527c50859c2f1f0bb4730]: Commencement: Sch. 14 para. 36 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
+[^c-eac7cd7ee61527c50859c2f1f0bb4730]: Commencement: Sch. 14 para. 36 in force at 15.10.2007 by [S.I. 2007/2913](https://www.legislation.gov.uk/uksi/2007/2913), [art. 2](https://www.legislation.gov.uk/uksi/2007/2913/article/2)
 
-[^key-6ae6cd637bffb6d6e701b8a2373db136]: Commencement: Sch. 14 para. 37 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-6ae6cd637bffb6d6e701b8a2373db136]: Commencement: Sch. 14 para. 37 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-331d5975711b3b016718d9153a250b33]: Commencement: Sch. 14 para. 37 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-331d5975711b3b016718d9153a250b33]: Commencement: Sch. 14 para. 37 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-28a5fa15a27d17343a9e288883465c9d]: Commencement: Sch. 14 para. 38 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-28a5fa15a27d17343a9e288883465c9d]: Commencement: Sch. 14 para. 38 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-cfcbf10d2f5983d68969debd536e9684]: Commencement: Sch. 14 para. 38 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-cfcbf10d2f5983d68969debd536e9684]: Commencement: Sch. 14 para. 38 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-2435b95b4f1199d83da91e0e193b42d3]: Commencement: Sch. 14 para. 39 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2435b95b4f1199d83da91e0e193b42d3]: Commencement: Sch. 14 para. 39 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-937b09ccbbb9a8ae08b2cc00e8927925]: Commencement: Sch. 14 para. 39 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-937b09ccbbb9a8ae08b2cc00e8927925]: Commencement: Sch. 14 para. 39 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-533085e30db01722d4bcf5a51c9a0ee8]: Commencement: Sch. 14 para. 40 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-533085e30db01722d4bcf5a51c9a0ee8]: Commencement: Sch. 14 para. 40 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-823cffd0487d27c0741c70648920c7b1]: Commencement: Sch. 14 para. 40 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-823cffd0487d27c0741c70648920c7b1]: Commencement: Sch. 14 para. 40 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-87050835621451412c072dac1aff2cc0]: Commencement: Sch. 14 para. 41 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-87050835621451412c072dac1aff2cc0]: Commencement: Sch. 14 para. 41 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-e27a0f6003379e9dac1ce05e52feec31]: Commencement: Sch. 14 para. 41 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e27a0f6003379e9dac1ce05e52feec31]: Commencement: Sch. 14 para. 41 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-c3802f4a2f4667361c69e3d5044f761d]: Commencement: Sch. 14 para. 42 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-c3802f4a2f4667361c69e3d5044f761d]: Commencement: Sch. 14 para. 42 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-76b06863129cc22f96be984064641173]: Commencement: Sch. 14 para. 42 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-76b06863129cc22f96be984064641173]: Commencement: Sch. 14 para. 42 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-55116c6028cf016cd34f162e1247f01b]: Commencement: Sch. 14 para. 43 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-55116c6028cf016cd34f162e1247f01b]: Commencement: Sch. 14 para. 43 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-54a342686c330be7628f02d89b9ecf53]: Commencement: Sch. 14 para. 43 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-54a342686c330be7628f02d89b9ecf53]: Commencement: Sch. 14 para. 43 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-283e627b0e03126e0d302739aabe7265]: Commencement: Sch. 14 para. 44 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-283e627b0e03126e0d302739aabe7265]: Commencement: Sch. 14 para. 44 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-7888232e5a8f639f79863a5d037ff857]: Commencement: Sch. 14 para. 44 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-7888232e5a8f639f79863a5d037ff857]: Commencement: Sch. 14 para. 44 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-5a73b92855c062227d8928d2cd08e4eb]: Commencement: Sch. 14 para. 45 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-5a73b92855c062227d8928d2cd08e4eb]: Commencement: Sch. 14 para. 45 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-dc23a86e830ecfed30f57a076b694e59]: Commencement: Sch. 14 para. 45 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-dc23a86e830ecfed30f57a076b694e59]: Commencement: Sch. 14 para. 45 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-b047d617a757bb710f687aec592c0767]: Commencement: Sch. 14 para. 46 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b047d617a757bb710f687aec592c0767]: Commencement: Sch. 14 para. 46 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-7f01083bcbf9f3f6e4f41e33c5f02bbf]: Commencement: Sch. 14 para. 46 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-7f01083bcbf9f3f6e4f41e33c5f02bbf]: Commencement: Sch. 14 para. 46 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-de476bf7acbec7b908e4d1c2741aa12d]: Commencement: Sch. 14 para. 47 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-de476bf7acbec7b908e4d1c2741aa12d]: Commencement: Sch. 14 para. 47 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-e8694f697c1f77cbc4d83fb4304edc4c]: Commencement: Sch. 14 para. 47 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-e8694f697c1f77cbc4d83fb4304edc4c]: Commencement: Sch. 14 para. 47 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f8752d10add9c25ca2e0ac052d791bfd]: Commencement: Sch. 14 para. 48 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f8752d10add9c25ca2e0ac052d791bfd]: Commencement: Sch. 14 para. 48 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-332e421ad7f9f65c0cef36f4ac83e3ad]: Commencement: Sch. 14 para. 48 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-332e421ad7f9f65c0cef36f4ac83e3ad]: Commencement: Sch. 14 para. 48 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-cb5326f33c9d059c9e7aa0e5d903a3ff]: Commencement: Sch. 14 para. 49 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-cb5326f33c9d059c9e7aa0e5d903a3ff]: Commencement: Sch. 14 para. 49 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-ca190c7a897ca1d65828d880ff6dd90d]: Commencement: Sch. 14 para. 49 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ca190c7a897ca1d65828d880ff6dd90d]: Commencement: Sch. 14 para. 49 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-35633386f07abd768e34a2c7f1c6ec34]: Commencement: Sch. 14 para. 50 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-35633386f07abd768e34a2c7f1c6ec34]: Commencement: Sch. 14 para. 50 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b82936df07fa7279483de1180eb2fcac]: Commencement: Sch. 14 para. 50 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b82936df07fa7279483de1180eb2fcac]: Commencement: Sch. 14 para. 50 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-a31997beb867fa9f5799e0bcc32ebdbe]: Commencement: Sch. 14 para. 51 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-a31997beb867fa9f5799e0bcc32ebdbe]: Commencement: Sch. 14 para. 51 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-a3c2759f8b0ec39a70a2e582a366666b]: Commencement: Sch. 14 para. 51 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-a3c2759f8b0ec39a70a2e582a366666b]: Commencement: Sch. 14 para. 51 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-5646fc6bb331eb0d5e1426cf978ad9f6]: Commencement: Sch. 14 para. 52 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-5646fc6bb331eb0d5e1426cf978ad9f6]: Commencement: Sch. 14 para. 52 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-cbaaf81dfe0aac35235542aa1e2b4521]: Commencement: Sch. 14 para. 52 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-cbaaf81dfe0aac35235542aa1e2b4521]: Commencement: Sch. 14 para. 52 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-45901ef053acab091e2d458cbab324e8]: Commencement: Sch. 14 para. 53 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-45901ef053acab091e2d458cbab324e8]: Commencement: Sch. 14 para. 53 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-6430b795bd815b663bfa49782235c7e3]: Commencement: Sch. 14 para. 53 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-6430b795bd815b663bfa49782235c7e3]: Commencement: Sch. 14 para. 53 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f9340d6f7bb0aaffdf5bc69acbe29e5f]: Commencement: Sch. 14 para. 54 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f9340d6f7bb0aaffdf5bc69acbe29e5f]: Commencement: Sch. 14 para. 54 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-9810a7ae29784bde8c3ba09758d337a7]: Commencement: Sch. 14 para. 54 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9810a7ae29784bde8c3ba09758d337a7]: Commencement: Sch. 14 para. 54 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-a3afd455f0ef58bbe82fe79c47701eab]: Commencement: Sch. 14 para. 55 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-a3afd455f0ef58bbe82fe79c47701eab]: Commencement: Sch. 14 para. 55 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5401725599ad6f07c449703febbe63d0]: Commencement: Sch. 14 para. 55 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5401725599ad6f07c449703febbe63d0]: Commencement: Sch. 14 para. 55 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-9d13d005811fb46618860df64b7a50c9]: Commencement: Sch. 14 para. 56 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-9d13d005811fb46618860df64b7a50c9]: Commencement: Sch. 14 para. 56 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-8b976acf2f0b12af1f56a66b46f704ad]: Commencement: Sch. 14 para. 56 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-8b976acf2f0b12af1f56a66b46f704ad]: Commencement: Sch. 14 para. 56 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-22a834e9b2e19a14dfd7a8b1231f3d95]: Commencement: Sch. 14 para. 57 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-22a834e9b2e19a14dfd7a8b1231f3d95]: Commencement: Sch. 14 para. 57 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-65448c6216c7da02f77adf439491dbf8]: Commencement: Sch. 14 para. 57 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-65448c6216c7da02f77adf439491dbf8]: Commencement: Sch. 14 para. 57 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-3b379fc5f6ff48d87ecb7d2116398846]: Commencement: Sch. 14 para. 58 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-3b379fc5f6ff48d87ecb7d2116398846]: Commencement: Sch. 14 para. 58 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-c7553f9b68e9eb88ca9721c4828fd448]: Commencement: Sch. 14 para. 58 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c7553f9b68e9eb88ca9721c4828fd448]: Commencement: Sch. 14 para. 58 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-63b2de9038d72b253dcde313038c5a40]: Commencement: Sch. 14 para. 59 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-63b2de9038d72b253dcde313038c5a40]: Commencement: Sch. 14 para. 59 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-ef2ddb5f362698cc14a562ce45b0f180]: Commencement: Sch. 14 para. 59 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ef2ddb5f362698cc14a562ce45b0f180]: Commencement: Sch. 14 para. 59 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

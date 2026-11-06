@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. New towns: objects of development corporations in England[^key-97de6af1890098c7548df2c34164b431]
+## 170. New towns: objects of development corporations in England[^c-97de6af1890098c7548df2c34164b431]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 4 of the New Towns Act 1981 (objects and general powers of developmen
 
 ## Annotations
 
-[^key-97de6af1890098c7548df2c34164b431]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2016/22/section/170) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/g)
+[^c-97de6af1890098c7548df2c34164b431]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2016/22/section/170) in force at 13.7.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/g)

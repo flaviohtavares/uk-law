@@ -22,17 +22,17 @@ summary: ''
 
 Section 64.
 
-### Part 1 — VENTURE CAPITAL TRUSTS[^key-511da53cf5f46e57453e50d7cdded9e4]
+### Part 1 — VENTURE CAPITAL TRUSTS[^c-511da53cf5f46e57453e50d7cdded9e4]
 
 **No longer in force.**
 
-#### 1. Meaning of “qualifying holdings”[^key-511da53cf5f46e57453e50d7cdded9e4]
+#### 1. Meaning of “qualifying holdings”[^c-511da53cf5f46e57453e50d7cdded9e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-511da53cf5f46e57453e50d7cdded9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-511da53cf5f46e57453e50d7cdded9e4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Income tax relief: repayment supplements[^key-511da53cf5f46e57453e50d7cdded9e4]
+#### 3. Income tax relief: repayment supplements[^c-511da53cf5f46e57453e50d7cdded9e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -169,4 +169,4 @@ Schedule 15 to the Finance Act 2000 (c. 17) (corporate venturing scheme) is amen
 
 ## Annotations
 
-[^key-511da53cf5f46e57453e50d7cdded9e4]: Textual amendment: Sch. 16 Pt. 1 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-511da53cf5f46e57453e50d7cdded9e4]: Textual amendment: Sch. 16 Pt. 1 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

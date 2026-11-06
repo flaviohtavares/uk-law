@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. The Companies (No. 2) (Northern Ireland) Order 1990[^key-21095cfaa864813441bc72d0f47d3cf5]
+## 65. The Companies (No. 2) (Northern Ireland) Order 1990[^c-21095cfaa864813441bc72d0f47d3cf5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Companies (No. 2) (Northern Ireland) Order 1990 [^c23624491], in article 
 
 ## Annotations
 
-[^key-21095cfaa864813441bc72d0f47d3cf5]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-21095cfaa864813441bc72d0f47d3cf5]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624491]: Marginal citation: [S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504). Relevant amendments were made by [S.I. 2014/2947](https://www.legislation.gov.uk/uksi/2014/2947).

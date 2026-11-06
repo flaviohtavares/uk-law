@@ -36,7 +36,7 @@ An Act to authorise the payment out of money provided by Parliament of expenditu
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Expenditure relating to commemorating the victims of the fire at Grenfell Tower[^key-37aafbaf693846ba356547f4b12c33cb]
+## 1. Expenditure relating to commemorating the victims of the fire at Grenfell Tower[^c-37aafbaf693846ba356547f4b12c33cb]
 
 There may be paid out of money provided by Parliament expenditure incurred by the Secretary of State on or in connection with the following activities in England—
 
@@ -47,12 +47,12 @@ There may be paid out of money provided by Parliament expenditure incurred by th
   - (i) land for the purposes of paragraph (a) or (b);
   - (ii) land where elements of the Tower are, or may be, buried.
 
-## 2. Short title[^key-c5c0af5e00abfabd3f40540eafab546f]
+## 2. Short title[^c-c5c0af5e00abfabd3f40540eafab546f]
 
 This Act may be cited as the Grenfell Tower Memorial (Expenditure) Act 2026.
 
 ## Annotations
 
-[^key-37aafbaf693846ba356547f4b12c33cb]: Commencement: S. 1 in force at Royal Assent
+[^c-37aafbaf693846ba356547f4b12c33cb]: Commencement: S. 1 in force at Royal Assent
 
-[^key-c5c0af5e00abfabd3f40540eafab546f]: Commencement: S. 2 in force at Royal Assent
+[^c-c5c0af5e00abfabd3f40540eafab546f]: Commencement: S. 2 in force at Royal Assent

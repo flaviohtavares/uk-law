@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Packaging (Essential Requirements) (Amendment) Regulations 2013 (revoked)[^key-81893e84b6076fe1ac40e5d08797b8b4]
+The Packaging (Essential Requirements) (Amendment) Regulations 2013 (revoked)[^c-81893e84b6076fe1ac40e5d08797b8b4]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 30th September 2013
 
-[^key-81893e84b6076fe1ac40e5d08797b8b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81893e84b6076fe1ac40e5d08797b8b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-81893e84b6076fe1ac40e5d08797b8b4]
+## 1. Citation and commencement[^c-81893e84b6076fe1ac40e5d08797b8b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Packaging (Essential Requirements) Regulations 2003[^key-81893e84b6076fe1ac40e5d08797b8b4]
+## 2. Amendments to the Packaging (Essential Requirements) Regulations 2003[^c-81893e84b6076fe1ac40e5d08797b8b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-81893e84b6076fe1ac40e5d08797b8b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81893e84b6076fe1ac40e5d08797b8b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-81893e84b6076fe1ac40e5d08797b8b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-81893e84b6076fe1ac40e5d08797b8b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-81893e84b6076fe1ac40e5d08797b8b4]: Textual amendment: Regulations revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))
+[^c-81893e84b6076fe1ac40e5d08797b8b4]: Textual amendment: Regulations revoked (1.10.2015) by [The Packaging (Essential Requirements) Regulations 2015 (S.I. 2015/1640)](https://www.legislation.gov.uk/uksi/2015/1640), [reg. 1](https://www.legislation.gov.uk/uksi/2015/1640/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2015/1640/schedule/6) (with [reg. 3(5)](https://www.legislation.gov.uk/uksi/2015/1640/regulation/3/5))

@@ -46,7 +46,7 @@ The Department for Communities makes the following Regulations in exercise of th
 
 These Regulations contain provisions in consequence of an order under sections 132 and 132A of the Social Security Administration (Northern Ireland) Act 1992[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-9fb03e54d8848cfc7ad2fd9a0a3c2202]
+## 1. Citation, commencement and interpretation[^c-9fb03e54d8848cfc7ad2fd9a0a3c2202]
 
 (1) These Regulations may be cited as the Social Security Benefits Up-rating Regulations (Northern Ireland) 2026 and shall come into operation on 6th April 2026.
 
@@ -54,7 +54,7 @@ These Regulations contain provisions in consequence of an order under sections 1
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-1996d02e6be9495dc0a97ca500dafceb]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-1996d02e6be9495dc0a97ca500dafceb]
 
 Section 135(3) of the Social Security Administration (Northern Ireland) Act 1992 (effect of alteration of rates of benefit under Parts II to V of the Contributions and Benefits Act) shall not apply if a question arises as to either—
 
@@ -63,19 +63,19 @@ Section 135(3) of the Social Security Administration (Northern Ireland) Act 1992
 
 until that question has been determined in accordance with the provisions of the Social Security (Northern Ireland) Order 1998[^f00008].
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-a230b2fd4088dbb632ea4e9c22d35ee8]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-a230b2fd4088dbb632ea4e9c22d35ee8]
 
 Regulation 5 of the Social Security Benefit (Persons Abroad) Regulations (Northern Ireland) 1978[^f00009] (application of disqualification in respect of up-rating of benefit) and regulation 21 of the State Pension Regulations (Northern Ireland) 2015[^f00010] (entitlement to state pension for overseas residents) shall apply to any additional benefit payable by virtue of the Up-rating Order and to any up-rating increase as defined in section 22(1) of the Pensions Act (Northern Ireland) 2015[^f00011] respectively.
 
-## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-b25e30b18c22765a2fde9e006f3e697f]
+## 4. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-b25e30b18c22765a2fde9e006f3e697f]
 
 In regulation 8(1) of the Social Security (Invalid Care Allowance) Regulations (Northern Ireland) 1976[^f00012] (circumstances in which a person is or is not to be treated as gainfully employed) for “£196” substitute “£204”.
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-8da99edf746eb8163a3906c0cc608a85]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^c-8da99edf746eb8163a3906c0cc608a85]
 
 In paragraph 4(2A) of Schedule 8A to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00013] (deductions from benefits and direct payment to third parties) for “£32.30”, in each place it occurs, substitute “£33.55”.
 
-## 6. Revocation[^key-c886241e63b324e560a1b5356cedb77a]
+## 6. Revocation[^c-c886241e63b324e560a1b5356cedb77a]
 
 The Social Security Benefits Up-rating Regulations (Northern Ireland) 2025[^f00014] are revoked.
 
@@ -115,17 +115,17 @@ Regulation 6 revokes the Social Security Benefits Up-rating Regulations (Norther
 
 [^f00005]: Footnote: Section 132 was amended by paragraph 41 of Schedule 7 to the Pension Schemes (Northern Ireland) Act [1993 (c. 49)](https://www.legislation.gov.uk/ukpga/1993/49), paragraph 9 of Schedule 4 to the Tax Credits Act [2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), section 3(1) and (2) of the Pensions Act (Northern Ireland) [2012 (c. 3 (N.I.))](https://www.legislation.gov.uk/nia/2012/3), regulation 2(2) of [S.R. 2012 No. 120](https://www.legislation.gov.uk/nisr/2012/120) and paragraph 55 of Schedule 13 to the Pensions Act (Northern Ireland) [2015 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2015/5) and section 132A was inserted by section 5(1) of the Pensions Act (Northern Ireland) [2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1)
 
-[^key-9fb03e54d8848cfc7ad2fd9a0a3c2202]: Commencement: Reg. 1 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
+[^c-9fb03e54d8848cfc7ad2fd9a0a3c2202]: Commencement: Reg. 1 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 2026 No. 59](https://www.legislation.gov.uk/nisr/2026/59)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-1996d02e6be9495dc0a97ca500dafceb]: Commencement: Reg. 2 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
+[^c-1996d02e6be9495dc0a97ca500dafceb]: Commencement: Reg. 2 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-a230b2fd4088dbb632ea4e9c22d35ee8]: Commencement: Reg. 3 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
+[^c-a230b2fd4088dbb632ea4e9c22d35ee8]: Commencement: Reg. 3 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1978 No. 114](https://www.legislation.gov.uk/nisr/1978/114); regulation 5 was amended by regulation 4(3) to (6) of [S.R. 1979 No. 392](https://www.legislation.gov.uk/nisr/1979/392), regulation 6(3) of [S.R. 1989 No. 373](https://www.legislation.gov.uk/nisr/1989/373), regulation 2(2) of [S.R. 1990 No. 123](https://www.legislation.gov.uk/nisr/1990/123), regulation 3 of [S.R. 1992 No. 330](https://www.legislation.gov.uk/nisr/1992/330), regulation 3(2) to (4) of [S.R. 1994 No. 269](https://www.legislation.gov.uk/nisr/1994/269), regulation 6(4) of [S.R. 2001 No. 108](https://www.legislation.gov.uk/nisr/2001/108), regulation 3(4) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299), paragraph 8(4) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536), regulation 2(4) of [S.R. 2010 No. 110](https://www.legislation.gov.uk/nisr/2010/110) and Article 5(5) of [S.R. 2017 No. 66](https://www.legislation.gov.uk/nisr/2017/66)
 
@@ -133,14 +133,14 @@ Regulation 6 revokes the Social Security Benefits Up-rating Regulations (Norther
 
 [^f00011]: Footnote: Section 22(1) was amended by regulation 3(2) of [S.R. 2016 No. 80](https://www.legislation.gov.uk/nisr/2016/80)
 
-[^key-b25e30b18c22765a2fde9e006f3e697f]: Commencement: Reg. 4 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
+[^c-b25e30b18c22765a2fde9e006f3e697f]: Commencement: Reg. 4 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
 
 [^f00012]: Footnote: [S.R. 1976 No. 99](https://www.legislation.gov.uk/nisr/1976/99); regulation 8(1) was amended by regulation 2(7)(a) of [S.R. 1996 No. 521](https://www.legislation.gov.uk/nisr/1996/521), regulation 2(b) of [S.R. 2001 No. 117](https://www.legislation.gov.uk/nisr/2001/117), paragraph 1 of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323) and regulation 4 of [S.R. 2025 No. 67](https://www.legislation.gov.uk/nisr/2025/67)
 
-[^key-8da99edf746eb8163a3906c0cc608a85]: Commencement: Reg. 5 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
+[^c-8da99edf746eb8163a3906c0cc608a85]: Commencement: Reg. 5 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); Schedule 8A was inserted by regulation 2(3) of [S.R. 1988 No. 67](https://www.legislation.gov.uk/nisr/1988/67) and sub-paragraph (2A) was inserted by regulation 2(e) of [S.R. 2003 No. 412](https://www.legislation.gov.uk/nisr/2003/412) and amended by regulation 5 of [S.R. 2025 No. 67](https://www.legislation.gov.uk/nisr/2025/67)
 
-[^key-c886241e63b324e560a1b5356cedb77a]: Commencement: Reg. 6 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
+[^c-c886241e63b324e560a1b5356cedb77a]: Commencement: Reg. 6 in operation at 6.4.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/61/regulation/1/1)
 
 [^f00014]: Footnote: [S.R. 2025 No. 67](https://www.legislation.gov.uk/nisr/2025/67)

@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The School Teachers’ Pay and Conditions (Wales) Order 2022 (revoked)[^key-058ca7f2c2fbf6f094579165835b4c78]
+The School Teachers’ Pay and Conditions (Wales) Order 2022 (revoked)[^c-058ca7f2c2fbf6f094579165835b4c78]
 
 Made
 
@@ -45,26 +45,26 @@ Coming into force
 
 7 December 2022
 
-[^key-058ca7f2c2fbf6f094579165835b4c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-058ca7f2c2fbf6f094579165835b4c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-058ca7f2c2fbf6f094579165835b4c78]
+## 1. Title, commencement, application and interpretation[^c-058ca7f2c2fbf6f094579165835b4c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Document[^key-058ca7f2c2fbf6f094579165835b4c78]
+## 2. The Document[^c-058ca7f2c2fbf6f094579165835b4c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-058ca7f2c2fbf6f094579165835b4c78]
+## 3. Revocations[^c-058ca7f2c2fbf6f094579165835b4c78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-058ca7f2c2fbf6f094579165835b4c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-058ca7f2c2fbf6f094579165835b4c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-058ca7f2c2fbf6f094579165835b4c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-058ca7f2c2fbf6f094579165835b4c78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-058ca7f2c2fbf6f094579165835b4c78]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2022/1184) revoked (12.5.2023) by [The School Teachers’ Pay and Conditions (Wales) Order 2023 (S.I. 2023/443)](https://www.legislation.gov.uk/wsi/2023/443), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2023/443/article/1/1), [3](https://www.legislation.gov.uk/wsi/2023/443/article/3)
+[^c-058ca7f2c2fbf6f094579165835b4c78]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2022/1184) revoked (12.5.2023) by [The School Teachers’ Pay and Conditions (Wales) Order 2023 (S.I. 2023/443)](https://www.legislation.gov.uk/wsi/2023/443), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2023/443/article/1/1), [3](https://www.legislation.gov.uk/wsi/2023/443/article/3)

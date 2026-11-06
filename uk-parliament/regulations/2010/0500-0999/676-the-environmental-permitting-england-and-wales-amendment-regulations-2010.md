@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection, England And Wales
 
-The Environmental Permitting (England and Wales) (Amendment) Regulations 2010 (revoked)[^key-29f30f594d8f4654fbddc4fea7c932ca]
+The Environmental Permitting (England and Wales) (Amendment) Regulations 2010 (revoked)[^c-29f30f594d8f4654fbddc4fea7c932ca]
 
 Made
 
@@ -50,24 +50,24 @@ Coming into force
 
 6th April 2010
 
-[^key-29f30f594d8f4654fbddc4fea7c932ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29f30f594d8f4654fbddc4fea7c932ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-29f30f594d8f4654fbddc4fea7c932ca]
+## 1. Citation and commencement[^c-29f30f594d8f4654fbddc4fea7c932ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-29f30f594d8f4654fbddc4fea7c932ca]
+## 2. Amendment[^c-29f30f594d8f4654fbddc4fea7c932ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-29f30f594d8f4654fbddc4fea7c932ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29f30f594d8f4654fbddc4fea7c932ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-29f30f594d8f4654fbddc4fea7c932ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-29f30f594d8f4654fbddc4fea7c932ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-29f30f594d8f4654fbddc4fea7c932ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/676) revoked (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 28](https://www.legislation.gov.uk/uksi/2016/1154/schedule/28) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-29f30f594d8f4654fbddc4fea7c932ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/676) revoked (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 28](https://www.legislation.gov.uk/uksi/2016/1154/schedule/28) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

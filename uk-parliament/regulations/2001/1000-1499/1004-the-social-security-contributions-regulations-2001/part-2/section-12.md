@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8778a3ed194d1e5fdd19b7fe5d21491f] Subject to paragraphs (3) and (4), primary and secondary Class 1 contributions under section 6 of the Act (liability for Class 1 contributions) shall be calculated to the nearest penny and any amount of a halfpenny or less shall be disregarded.
+(1)[^c-8778a3ed194d1e5fdd19b7fe5d21491f] Subject to paragraphs (3) and (4), primary and secondary Class 1 contributions under section 6 of the Act (liability for Class 1 contributions) shall be calculated to the nearest penny and any amount of a halfpenny or less shall be disregarded.
 
 (2) In the alternative, but subject to the provisions of paragraphs (3) to (5), the contributions specified in paragraph (1) may be calculated in accordance with the appropriate scale or, for contributions payable on earnings above the upper earnings limit or the prescribed equivalent of that limit, a contributions calculator prepared by the Board.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8778a3ed194d1e5fdd19b7fe5d21491f]: Textual amendment: Reg. 12(1) substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [11](https://www.legislation.gov.uk/uksi/2016/352/regulation/11) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-8778a3ed194d1e5fdd19b7fe5d21491f]: Textual amendment: Reg. 12(1) substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [11](https://www.legislation.gov.uk/uksi/2016/352/regulation/11) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Contract and transfer[^key-03300a8a94ecf20af381f2f338eabe3c][^key-2a92616ae874d40d0bc3f175a0d28f3d][^key-7d30c36024f5bd874fa0d61c41060e8f]
+## 10. Contract and transfer[^c-03300a8a94ecf20af381f2f338eabe3c][^c-2a92616ae874d40d0bc3f175a0d28f3d][^c-7d30c36024f5bd874fa0d61c41060e8f]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 (5) Where subsection (4) applies and the contract is subsequently completed by a transfer—
 
 - (a) both the contract and the transaction effected on completion are notifiable transactions for the purposes of this Act, and
-- (b)[^key-e3967c1866138be95229d31956b86cec] tax is chargeable on the latter transaction to the extent (if any) that the amount mentioned in subsection (6) is greater than the amount of tax chargeable on the contract.
+- (b)[^c-e3967c1866138be95229d31956b86cec] tax is chargeable on the latter transaction to the extent (if any) that the amount mentioned in subsection (6) is greater than the amount of tax chargeable on the contract.
 
 (6) The amount is the tax that would have been chargeable on the latter transaction if it had been completed without previously having been substantially performed.
 
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-03300a8a94ecf20af381f2f338eabe3c]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2017/1/section/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-03300a8a94ecf20af381f2f338eabe3c]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2017/1/section/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-2a92616ae874d40d0bc3f175a0d28f3d]: Modification: [S. 10](https://www.legislation.gov.uk/anaw/2017/1/section/10) applied (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2018/126/regulation/3)
+[^c-2a92616ae874d40d0bc3f175a0d28f3d]: Modification: [S. 10](https://www.legislation.gov.uk/anaw/2017/1/section/10) applied (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [3](https://www.legislation.gov.uk/wsi/2018/126/regulation/3)
 
-[^key-7d30c36024f5bd874fa0d61c41060e8f]: Modification: [S. 10](https://www.legislation.gov.uk/anaw/2017/1/section/10) applied (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2018/126/regulation/4)
+[^c-7d30c36024f5bd874fa0d61c41060e8f]: Modification: [S. 10](https://www.legislation.gov.uk/anaw/2017/1/section/10) applied (with modifications) (1.4.2018) by [The Land Transaction Tax (Transitional Provisions) (Wales) Regulations 2018 (S.I. 2018/126)](https://www.legislation.gov.uk/wsi/2018/126), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/126/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2018/126/regulation/4)
 
-[^key-e3967c1866138be95229d31956b86cec]: Modification: [S. 10(5)(b)](https://www.legislation.gov.uk/anaw/2017/1/section/10/5/b) excluded (temp.) (27.7.2020) by [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794)](https://www.legislation.gov.uk/wsi/2020/794), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/794/regulation/2/3) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2))
+[^c-e3967c1866138be95229d31956b86cec]: Modification: [S. 10(5)(b)](https://www.legislation.gov.uk/anaw/2017/1/section/10/5/b) excluded (temp.) (27.7.2020) by [The Land Transaction Tax (Temporary Variation of Rates and Bands for Residential Property Transactions) (Wales) Regulations 2020 (S.I. 2020/794)](https://www.legislation.gov.uk/wsi/2020/794), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/794/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/794/regulation/2/3) (with [reg. 2](https://www.legislation.gov.uk/wsi/2020/794/regulation/2))

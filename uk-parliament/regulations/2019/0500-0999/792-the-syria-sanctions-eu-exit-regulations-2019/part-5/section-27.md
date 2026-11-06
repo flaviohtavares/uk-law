@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Interpretation of other expressions used in Part 5[^key-2845697a4017b9ff05efe1d10427bd26]
+## 27. Interpretation of other expressions used in Part 5[^c-2845697a4017b9ff05efe1d10427bd26]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 - (a) the following definitions apply—
 
-- “[^key-93f4d471c179ea64ce9dd45be62de42c]**the Government of Syria**” includes its public bodies, corporations or agencies, its armed forces or any person acting on its behalf or at its direction;
+- “[^c-93f4d471c179ea64ce9dd45be62de42c]**the Government of Syria**” includes its public bodies, corporations or agencies, its armed forces or any person acting on its behalf or at its direction;
 - “**technical assistance**”, in relation to goods or technology, means—
   - (i) technical support relating to the repair, development, production, assembly, testing, use or maintenance of the goods or technology, or
   - (ii) any other technical service relating to the goods or technology;
@@ -44,21 +44,21 @@ summary: ''
 - (c) electronic transactions, or
 - (d) telephone order transactions.
 
-(5) For the purposes of this Part[^key-0cb2ddfc8aaf6dec913179c4b173c168], a person is to be regarded as “connected with” Syria if the person is—
+(5) For the purposes of this Part[^c-0cb2ddfc8aaf6dec913179c4b173c168], a person is to be regarded as “connected with” Syria if the person is—
 
 - (a) an individual who is, or an association or combination of individuals who are, ordinarily resident in Syria,
 - (b) an individual who is, or an association or combination of individuals who are, located in Syria,
 - (c) a person, other than an individual, which is incorporated or constituted under the law of Syria, or
 - (d) a person, other than an individual, which is domiciled in Syria.
 
-(6)[^key-1ec28d38c3fd5f680e863c7b8cb62f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1ec28d38c3fd5f680e863c7b8cb62f3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2845697a4017b9ff05efe1d10427bd26]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-2845697a4017b9ff05efe1d10427bd26]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-93f4d471c179ea64ce9dd45be62de42c]: Textual amendment: Words in reg. 27(3)(a) inserted (22.4.2026) by [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/436)](https://www.legislation.gov.uk/uksi/2026/436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/436/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/436/regulation/2/3/a)
+[^c-93f4d471c179ea64ce9dd45be62de42c]: Textual amendment: Words in reg. 27(3)(a) inserted (22.4.2026) by [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/436)](https://www.legislation.gov.uk/uksi/2026/436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/436/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2026/436/regulation/2/3/a)
 
-[^key-0cb2ddfc8aaf6dec913179c4b173c168]: Textual amendment: Words in reg. 27(5) substituted (22.4.2026) by [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/436)](https://www.legislation.gov.uk/uksi/2026/436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/436/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/436/regulation/2/3/b)
+[^c-0cb2ddfc8aaf6dec913179c4b173c168]: Textual amendment: Words in reg. 27(5) substituted (22.4.2026) by [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/436)](https://www.legislation.gov.uk/uksi/2026/436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/436/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2026/436/regulation/2/3/b)
 
-[^key-1ec28d38c3fd5f680e863c7b8cb62f3a]: Textual amendment: Reg. 27(6) omitted (22.4.2026) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/436)](https://www.legislation.gov.uk/uksi/2026/436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/436/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2026/436/regulation/2/3/c)
+[^c-1ec28d38c3fd5f680e863c7b8cb62f3a]: Textual amendment: Reg. 27(6) omitted (22.4.2026) by virtue of [The Syria (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/436)](https://www.legislation.gov.uk/uksi/2026/436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/436/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2026/436/regulation/2/3/c)

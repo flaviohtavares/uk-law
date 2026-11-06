@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 146. Notification by administrator of court order[^key-c07e1d667c68784820f60719e4b16d4b]
+## 146. Notification by administrator of court order[^c-c07e1d667c68784820f60719e4b16d4b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ Where the court makes an order to end the special administration, the administra
 
 ## Annotations
 
-[^key-c07e1d667c68784820f60719e4b16d4b]: Commencement: Rule 146 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-c07e1d667c68784820f60719e4b16d4b]: Commencement: Rule 146 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

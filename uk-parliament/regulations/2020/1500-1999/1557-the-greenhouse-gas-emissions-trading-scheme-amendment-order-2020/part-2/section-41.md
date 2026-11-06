@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Schedule 9 amended (appeals to Scottish Land Court)[^key-737c832921bd28dd2c7200affafcae36]
+## 41. Schedule 9 amended (appeals to Scottish Land Court)[^c-737c832921bd28dd2c7200affafcae36]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-737c832921bd28dd2c7200affafcae36]: Commencement: Art. 41 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-737c832921bd28dd2c7200affafcae36]: Commencement: Art. 41 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

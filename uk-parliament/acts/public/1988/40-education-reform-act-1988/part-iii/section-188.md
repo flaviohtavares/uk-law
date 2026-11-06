@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Control of contracts.[^key-b0d381d302e021e8d7b3f611a271462b]
+## 188. Control of contracts.[^c-b0d381d302e021e8d7b3f611a271462b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0d381d302e021e8d7b3f611a271462b]: Textual amendment: [Ss. 188-191](https://www.legislation.gov.uk/ukpga/1988/40/section/188) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4
+[^c-b0d381d302e021e8d7b3f611a271462b]: Textual amendment: [Ss. 188-191](https://www.legislation.gov.uk/ukpga/1988/40/section/188) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 4

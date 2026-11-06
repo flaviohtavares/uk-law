@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Regulation (EU) No 251/2014 of the European Parliament and of the Council[^key-370a1d9e0bebf0b9ab8000d3112f7740]
+## 21. Regulation (EU) No 251/2014 of the European Parliament and of the Council[^c-370a1d9e0bebf0b9ab8000d3112f7740]
 
 *Extent: E+W+S+N.I.*
 
@@ -390,7 +390,7 @@ summary: ''
 
 ## Annotations
 
-[^key-370a1d9e0bebf0b9ab8000d3112f7740]: Commencement: Reg. 21 in force at 31.12.2020, see reg. 1(7)
+[^c-370a1d9e0bebf0b9ab8000d3112f7740]: Commencement: Reg. 21 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414411]: Marginal citation: This is a reference to Council Regulation (EEC) No 1601/91 laying down general rules on the definition, description and presentation of aromatized wines, aromatized wine-based drinks and aromatized wine-product cocktails (OJ No. L 149, 14.6.1991, p. 1), as last amended (before its repeal) by Regulation (EC) No 1334/2008 of the European Parliament and of the Council (OJ No. L 354, 31.12.2008, p. 34). It was repealed by Regulation (EU) No 251/2014 of the European Parliament and of the Council (OJ No. L 84, 20.3.2014, p. 14).
 

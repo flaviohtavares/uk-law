@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 159. OFCOM’s transparency reports[^key-c659f303f7e9d49e09c3604543f49c33][^key-20443bf5a8d44d2efa5d4179145ab759]
+## 159. OFCOM’s transparency reports[^c-c659f303f7e9d49e09c3604543f49c33][^c-20443bf5a8d44d2efa5d4179145ab759]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c659f303f7e9d49e09c3604543f49c33]: Commencement: S. 159 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-c659f303f7e9d49e09c3604543f49c33]: Commencement: S. 159 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-20443bf5a8d44d2efa5d4179145ab759]: Commencement: S. 159 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)
+[^c-20443bf5a8d44d2efa5d4179145ab759]: Commencement: S. 159 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z18)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z18)

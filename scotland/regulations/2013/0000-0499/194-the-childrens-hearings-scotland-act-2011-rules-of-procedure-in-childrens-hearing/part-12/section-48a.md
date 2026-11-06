@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48A. Procedure at pre-hearing panel - determination of whether individual to be afforded opportunity to participate[^key-326057395e96aa7183ed8024fa6cb32c]
+## 48A. Procedure at pre-hearing panel - determination of whether individual to be afforded opportunity to participate[^c-326057395e96aa7183ed8024fa6cb32c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-326057395e96aa7183ed8024fa6cb32c]: Textual amendment: Rule 48A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(18)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/18)
+[^c-326057395e96aa7183ed8024fa6cb32c]: Textual amendment: Rule 48A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(18)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/18)

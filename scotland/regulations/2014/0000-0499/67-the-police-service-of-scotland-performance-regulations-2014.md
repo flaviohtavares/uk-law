@@ -50,11 +50,11 @@ In accordance with section 54(2) of that Act, the Scottish Ministers have consul
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-1cc03f40444750d7c898da5bb3238167]
+### 1. Citation and commencement[^c-1cc03f40444750d7c898da5bb3238167]
 
 These Regulations may be cited as the Police Service of Scotland (Performance) Regulations 2014 and come into force on 1st April 2014.
 
-### 2. Interpretation[^key-6821251bc96bbe1d85d61fee24fa62b2]
+### 2. Interpretation[^c-6821251bc96bbe1d85d61fee24fa62b2]
 
 (1) In these Regulations—
 
@@ -104,7 +104,7 @@ These Regulations may be cited as the Police Service of Scotland (Performance) R
 
 are references to an inability or failure of the constable to perform the duties of the constable’s role or rank (or both) to a satisfactory standard.
 
-### 3. Application[^key-bbe12bd8eb089d291e732858c69cc020]
+### 3. Application[^c-bbe12bd8eb089d291e732858c69cc020]
 
 (1) These Regulations apply only in relation to the performance of constables below the rank of assistant chief constable who have completed their period of probation.
 
@@ -114,7 +114,7 @@ are references to an inability or failure of the constable to perform the duties
 - (b) persons engaged on temporary service as constables of the Police Service (either under arrangements made under section 16 of the Act or by virtue of paragraph 8(2) of schedule 5 to the Act); or
 - (c) special constables appointed under section 9 of the Act.
 
-### 4. Revocation and transitional provision[^key-49b00a160e80dc4486f3c601413f99f7]
+### 4. Revocation and transitional provision[^c-49b00a160e80dc4486f3c601413f99f7]
 
 (1) Subject to paragraphs (2) and (3), the 2013 Regulations are revoked.
 
@@ -127,7 +127,7 @@ are references to an inability or failure of the constable to perform the duties
 - “first interview” has the meaning given by regulation 2 of the 2013 Regulations; and
 - “the 2013 Regulations” means the Police Service of Scotland (Performance) Regulations 2013[^f00004].
 
-### 5. Designation of deputy chief constable[^key-24861e66a5d2d6ce9ee690fa083e89ba]
+### 5. Designation of deputy chief constable[^c-24861e66a5d2d6ce9ee690fa083e89ba]
 
 (1)  The chief constable must designate a deputy chief constable to exercise the functions of the deputy chief constable under these Regulations (and references in these Regulations to “the deputy chief constable” are, unless the context otherwise requires, references to that person).
 
@@ -138,7 +138,7 @@ are references to an inability or failure of the constable to perform the duties
 - (a) responsibility for the carrying out of delegated functions; or
 - (b) ability to carry out delegated functions.
 
-### 6. Police representative[^key-0034a6fdfed55eaa51dedae554c4bf2f]
+### 6. Police representative[^c-0034a6fdfed55eaa51dedae554c4bf2f]
 
 (1) The constable may choose a person mentioned in paragraph (2) to act as the constable’s police representative.
 
@@ -158,7 +158,7 @@ are references to an inability or failure of the constable to perform the duties
 
 (5) The chief constable must permit any constable acting as a police representative under these Regulations to use a reasonable amount of duty time for the purpose of performing the functions mentioned in paragraph (4).
 
-### 7. Procedure in constable’s absence[^key-66b3cd6a74085df28e7a225eaf37658b]
+### 7. Procedure in constable’s absence[^c-66b3cd6a74085df28e7a225eaf37658b]
 
 (1) This regulation applies if the constable—
 
@@ -170,15 +170,15 @@ are references to an inability or failure of the constable to perform the duties
 - (a) the constable may be represented at the meeting or hearing by a police representative; and
 - (b) the fact that the constable is not represented by a police representative does not prevent the meeting or hearing being conducted and concluded in the constable’s absence.
 
-### 8. Standard of proof[^key-012568bc060ad4ed1c5e26c4a4630055]
+### 8. Standard of proof[^c-012568bc060ad4ed1c5e26c4a4630055]
 
  A finding at any meeting or hearing under these Regulations as to whether the constable’s performance has been unsatisfactory must be made on a balance of probabilities.
 
-### 9. Consideration of documents[^key-83755f864130dc7906300927812a0b89]
+### 9. Consideration of documents[^c-83755f864130dc7906300927812a0b89]
 
 Despite the failure by any person to provide any document in accordance with these Regulations in advance of any meeting or hearing, the person conducting or chairing that meeting or hearing may allow that document to be considered at the meeting or hearing if it is considered appropriate to do so.
 
-### 10. Improvement periods and validity periods[^key-e3bdd4e70d5d971e03a61e5157f56eb6]
+### 10. Improvement periods and validity periods[^c-e3bdd4e70d5d971e03a61e5157f56eb6]
 
 (1) Every improvement notice given under these Regulations must specify—
 
@@ -195,7 +195,7 @@ Despite the failure by any person to provide any document in accordance with the
 
 (4) If the constable makes a sufficient improvement in performance during the improvement period specified in any improvement notice, that improvement must be maintained until the end of the validity period of that notice (if longer than the improvement period).
 
-### 11. Extension of improvement and validity periods[^key-3c38057d8bd348f51beca4b638e91d44]
+### 11. Extension of improvement and validity periods[^c-3c38057d8bd348f51beca4b638e91d44]
 
 (1) A first improvement period or a final improvement period may, on the application of the constable or otherwise, be extended by a constable above the rank of chief inspector and of a rank higher than the constable.
 
@@ -209,7 +209,7 @@ Despite the failure by any person to provide any document in accordance with the
 
 (6) If any improvement period or validity period is extended, any reference in these Regulations to that improvement period or validity period must be read as a reference to that period as extended.
 
-### 12. Suspension of improvement and validity periods[^key-6683f12bece243ca2618e34dcd846c81]
+### 12. Suspension of improvement and validity periods[^c-6683f12bece243ca2618e34dcd846c81]
 
 (1) An improvement period or validity period must—
 
@@ -220,11 +220,11 @@ Despite the failure by any person to provide any document in accordance with the
 
 ## PART 2 — Performance Meetings
 
-### 13. Circumstances in which a performance meeting may be required[^key-c8a9986004823a818fe47418490baeec]
+### 13. Circumstances in which a performance meeting may be required[^c-c8a9986004823a818fe47418490baeec]
 
 If the constable’s first line manager considers that the performance of the constable is unsatisfactory, that line manager may refer the constable to a performance meeting.
 
-### 14. Arrangement of performance meeting[^key-7b02789a6f42ce3de0d01aff570f2b87]
+### 14. Arrangement of performance meeting[^c-7b02789a6f42ce3de0d01aff570f2b87]
 
 (1) A first line manager who refers a constable to a performance meeting must send a notice in writing requiring the constable to attend such a meeting.
 
@@ -259,7 +259,7 @@ the meeting must be postponed to the date and time proposed.
 
 (8) When the date and time of the meeting are determined in accordance with paragraphs (4) to (7), the first line manager must send a notice in writing to the constable specifying the date, time and place of that meeting.
 
-### 15. Procedure at performance meeting[^key-62b5d8e1c0b5e2a9d51a3c6832b4b794]
+### 15. Procedure at performance meeting[^c-62b5d8e1c0b5e2a9d51a3c6832b4b794]
 
 (1) The procedure at a performance meeting is as follows.
 
@@ -288,7 +288,7 @@ the meeting must be postponed to the date and time proposed.
 
 (8) The first line manager may postpone or adjourn the performance meeting to a later time or date if satisfied that it is necessary or expedient to do so and the procedure mentioned in regulation 14(4) to (8) applies to a postponed or adjourned meeting as it applies to the meeting postponed or adjourned.
 
-### 16. Procedure following performance meeting[^key-83707df3dce4d239803a1bcca688ac96]
+### 16. Procedure following performance meeting[^c-83707df3dce4d239803a1bcca688ac96]
 
 (1) As soon as reasonably practicable after the date of the conclusion of the performance meeting the first line manager must prepare and send to the constable a written record of that meeting.
 
@@ -312,7 +312,7 @@ the meeting must be postponed to the date and time proposed.
 - (b) the written record of the performance meeting; and
 - (c) the constable’s written comments on that record.
 
-### 17. First improvement notices[^key-f523b4c5b015715809cf044459f02986]
+### 17. First improvement notices[^c-f523b4c5b015715809cf044459f02986]
 
 A first improvement notice prepared under regulation 16(2)(a) must—
 
@@ -324,7 +324,7 @@ A first improvement notice prepared under regulation 16(2)(a) must—
 - (c) inform the constable of the circumstances in which attendance at a progress meeting may be necessary; and
 - (d) be signed and dated by the first line manager.
 
-### 18. Appeal against the finding and outcome of a performance meeting[^key-bd8ed447e8db75f339b7d44c2b61184c]
+### 18. Appeal against the finding and outcome of a performance meeting[^c-bd8ed447e8db75f339b7d44c2b61184c]
 
 (1) If at a performance meeting the first line manager finds that the performance of the constable is unsatisfactory, the constable may appeal against—
 
@@ -362,7 +362,7 @@ A first improvement notice prepared under regulation 16(2)(a) must—
 
 (8) The submission of an appeal notice under paragraph (5) does not affect the continuing operation of a first improvement notice sent under regulation 16(2)(a).
 
-### 19. Arrangement of performance appeal meeting[^key-91b17bd19e670ccf5e506bdde4724012]
+### 19. Arrangement of performance appeal meeting[^c-91b17bd19e670ccf5e506bdde4724012]
 
 (1) As soon as reasonably practicable after receipt of an appeal notice submitted under regulation 18(5), the second line manager must decide whether to—
 
@@ -398,7 +398,7 @@ the meeting must be postponed to the date and time proposed.
 
 (8) When the date and time of a performance appeal meeting are determined in accordance with paragraphs (4) to (7), the second line manager must send a notice in writing to the constable specifying the date, time and place of that meeting.
 
-### 20. Procedure at performance appeal meeting[^key-bd246724dce7c632b7ad4fc482d2a4e2]
+### 20. Procedure at performance appeal meeting[^c-bd246724dce7c632b7ad4fc482d2a4e2]
 
 (1) The procedure at a performance appeal meeting is as follows.
 
@@ -417,7 +417,7 @@ the meeting must be postponed to the date and time proposed.
 
 (5) The second line manager may postpone or adjourn the performance appeal meeting to a later time or date if it appears necessary or expedient to do so and the procedure mentioned in regulation 19(4) to (8) applies to a postponed or adjourned meeting as it applies to the meeting postponed or adjourned.
 
-### 21. Determination of appeal[^key-dd4c6c19a89a575cae0af10fde8e321d]
+### 21. Determination of appeal[^c-dd4c6c19a89a575cae0af10fde8e321d]
 
 (1) The second line manager must determine an appeal under regulation 18 in accordance with this regulation.
 
@@ -457,7 +457,7 @@ the decision of the second line manager replaces, from the date of that decision
 
 ## PART 3 — Progress meetings
 
-### 22. Circumstances in which a progress meeting may be required[^key-676101f1de67b34e5d8c21f7096efc9e]
+### 22. Circumstances in which a progress meeting may be required[^c-676101f1de67b34e5d8c21f7096efc9e]
 
 (1) The first line manager of a constable who has received a first improvement notice must assess the constable’s performance—
 
@@ -480,7 +480,7 @@ the first line manager must refer the constable to a progress meeting to conside
 
 (5) A progress meeting may only consider unsatisfactory performance which is similar to or connected with the unsatisfactory performance referred to in the first improvement notice.
 
-### 23. Arrangement of progress meeting[^key-2c133fcece7eebf64340bfe9788da394]
+### 23. Arrangement of progress meeting[^c-2c133fcece7eebf64340bfe9788da394]
 
 (1) If the first line manager refers the constable to a progress meeting under regulation 22(4), the second line manager must send a notice in writing requiring the constable to attend such a meeting.
 
@@ -516,7 +516,7 @@ the meeting must be postponed to the date and time proposed.
 
 (8) When the date and time of a progress meeting are determined in accordance with paragraphs (4) to (7), the second line manager must send a notice in writing to the constable specifying the date, time and place of that meeting.
 
-### 24. Procedure at progress meeting[^key-7953ea11d0a7a5614c0dd4ae814f04fc]
+### 24. Procedure at progress meeting[^c-7953ea11d0a7a5614c0dd4ae814f04fc]
 
 (1) The procedure at a progress meeting is as follows.
 
@@ -550,7 +550,7 @@ the meeting must be postponed to the date and time proposed.
 
 (7) The second line manager may postpone or adjourn the meeting to a later time or date if satisfied that it is necessary or expedient to do so and the procedure mentioned in regulation 23(4) to (8) applies to a postponed or adjourned meeting as it applies to the meeting postponed or adjourned.
 
-### 25. Procedure following progress meeting[^key-e284f7fae312aa39864f066ab353830c]
+### 25. Procedure following progress meeting[^c-e284f7fae312aa39864f066ab353830c]
 
 (1) As soon as reasonably practicable after the date of the conclusion of the progress meeting the second line manager must prepare and send to the constable a written record of that meeting.
 
@@ -574,7 +574,7 @@ the meeting must be postponed to the date and time proposed.
 - (b) the written record of the progress meeting; and
 - (c) the constable’s written comments on that record.
 
-### 26. Final improvement notices[^key-231ace8576738ab28590d41accc8927b]
+### 26. Final improvement notices[^c-231ace8576738ab28590d41accc8927b]
 
 A final improvement notice prepared under regulation 25(2)(a) must—
 
@@ -586,7 +586,7 @@ A final improvement notice prepared under regulation 25(2)(a) must—
 - (c) inform the constable as to the circumstances in which attendance at a performance hearing may be required; and
 - (d) be signed and dated by the second line manager.
 
-### 27. Appeal against the finding and outcome of a progress meeting[^key-9eee16a4cad1c31e96df089215787950]
+### 27. Appeal against the finding and outcome of a progress meeting[^c-9eee16a4cad1c31e96df089215787950]
 
 (1) Where at a progress meeting the second line manager finds that the performance of the constable is unsatisfactory, the constable may appeal against—
 
@@ -626,7 +626,7 @@ A final improvement notice prepared under regulation 25(2)(a) must—
 
 (8) The submission of an appeal notice under paragraph (5) does not affect the continuing operation of a final improvement notice sent under regulation 25(2)(a).
 
-### 28. Arrangement of progress appeal meeting[^key-98dc81a10bd53ac0d543bdc8fb8b587d]
+### 28. Arrangement of progress appeal meeting[^c-98dc81a10bd53ac0d543bdc8fb8b587d]
 
 (1) As soon as reasonably practicable after receipt of an appeal notice submitted under regulation 27(5), the senior manager must decide whether to—
 
@@ -662,7 +662,7 @@ the meeting must be postponed to the date and time proposed.
 
 (8) When the date and time of a progress appeal meeting are determined in accordance with paragraphs (4) to (7), the senior manager must send a notice in writing to the constable specifying the date, time and place of that meeting.
 
-### 29. Procedure at progress appeal meeting[^key-50c143abff251745fa586aa19ac86748]
+### 29. Procedure at progress appeal meeting[^c-50c143abff251745fa586aa19ac86748]
 
 (1) The procedure at a progress appeal meeting is as follows.
 
@@ -681,7 +681,7 @@ the meeting must be postponed to the date and time proposed.
 
 (5) The senior manager may postpone or adjourn the progress appeal meeting to a later time or date if satisfied that it is necessary or expedient to do so and the procedure mentioned in regulation 28(4) to (8) applies to a postponed or adjourned meeting as it applies to the meeting postponed or adjourned.
 
-### 30. Determination of appeal[^key-7f8dcaf5dd63447a628de61042f63426]
+### 30. Determination of appeal[^c-7f8dcaf5dd63447a628de61042f63426]
 
 (1) The senior manager must determine an appeal under regulation 27 in accordance with this regulation.
 
@@ -721,7 +721,7 @@ the decision of the senior manager substitutes, from the date of the progress ap
 
 ## PART 4 — Performance hearings
 
-### 31. Circumstances in which a performance hearing may be required[^key-cfd749a8730ee15bf3599dba3d4460f1]
+### 31. Circumstances in which a performance hearing may be required[^c-cfd749a8730ee15bf3599dba3d4460f1]
 
 (1) The first line manager of a constable who has received a final improvement notice must assess the constable’s performance—
 
@@ -744,7 +744,7 @@ the first line manager must refer the constable to a performance hearing to cons
 
 (5) A performance hearing may only consider unsatisfactory performance which is similar to or connected with the unsatisfactory performance referred to in the final improvement notice.
 
-### 32. Appointment of chairing constable, etc.[^key-a26926c5aec984bad26892f5ef1cdafe]
+### 32. Appointment of chairing constable, etc.[^c-a26926c5aec984bad26892f5ef1cdafe]
 
 (1) The deputy chief constable must appoint a constable of at least the rank of superintendent and of a rank higher than the constable to act as chairing constable at the performance hearing.
 
@@ -777,7 +777,7 @@ to advise the chairing constable at the performance hearing.
 - (e) documents relating to any appeal under these Regulations; and
 - (f) the first improvement notice and the final improvement notice.
 
-### 33. Arrangement of the performance hearing[^key-1007f3ae01acf8609cc6b1dd2f94d2b6]
+### 33. Arrangement of the performance hearing[^c-1007f3ae01acf8609cc6b1dd2f94d2b6]
 
 (1) If the first line manager refers the constable to a performance hearing the senior manager must send a notice in writing requiring the constable to attend such a hearing.
 
@@ -799,7 +799,7 @@ to advise the chairing constable at the performance hearing.
 - (a) a copy of any document relied upon in coming to the view that the performance of the constable is unsatisfactory; and
 - (b) a copy of the documents mentioned in regulation 32(7).
 
-### 34. Procedure on receipt of notice of performance hearing[^key-cfae5896bac255986881a498d4325fcd]
+### 34. Procedure on receipt of notice of performance hearing[^c-cfae5896bac255986881a498d4325fcd]
 
 (1) The constable must, not later than 20 working days from receipt, respond in writing to a notice under regulation 33(1) indicating either—
 
@@ -812,7 +812,7 @@ to advise the chairing constable at the performance hearing.
 
 (4) A submission under this regulation must be accompanied by any document on which the constable intends to rely at the performance hearing.
 
-### 35. Witnesses[^key-0324d7cebb93311f544600db18126eba]
+### 35. Witnesses[^c-0324d7cebb93311f544600db18126eba]
 
 (1) The first line manager and the constable must, no later than 10 working days after receipt by the first line manager of the constable’s response under regulation 34, supply to each other—
 
@@ -834,7 +834,7 @@ to advise the chairing constable at the performance hearing.
 
 (7) The chairing constable must notify in writing any witness who is to attend the performance hearing.
 
-### 36. Timing of performance hearing[^key-debc3354f1bff08d474824cf9663144f]
+### 36. Timing of performance hearing[^c-debc3354f1bff08d474824cf9663144f]
 
 (1) The performance hearing must take place not later than 35 working days after a notice has been sent under regulation 33(1).
 
@@ -865,7 +865,7 @@ the hearing must be postponed to the date and time proposed by the constable.
 
 (9) The chairing constable may allow a constable or a constable’s police representative (or both) who is unable, on reasonable grounds, to attend the performance hearing to participate in that hearing by video link or any other reasonable means.
 
-### 37. Postponement and adjournment of performance hearing[^key-19a8aa6a14d7c583fd32584a71a42c29]
+### 37. Postponement and adjournment of performance hearing[^c-19a8aa6a14d7c583fd32584a71a42c29]
 
 (1) The chairing constable may, if satisfied that it is necessary or expedient in the circumstances—
 
@@ -879,7 +879,7 @@ the hearing must be postponed to the date and time proposed by the constable.
 - (a) the revised date, time and place of the hearing; and
 - (b) the reasons for the postponement or adjournment.
 
-### 38. Procedure at performance hearing[^key-c03d137252605e08088d9282764dea92]
+### 38. Procedure at performance hearing[^c-c03d137252605e08088d9282764dea92]
 
 (1) The procedure at a performance hearing is as follows.
 
@@ -902,7 +902,7 @@ the hearing must be postponed to the date and time proposed by the constable.
 
 (6) An audio recording of the hearing must be made and the constable must, on request, be supplied with a copy of that recording.
 
-### 39. Finding[^key-cca117f30fc8dc2b6e3c6b7f2a720e39]
+### 39. Finding[^c-cca117f30fc8dc2b6e3c6b7f2a720e39]
 
 (1) Following the performance hearing the chairing constable must decide whether—
 
@@ -917,7 +917,7 @@ the hearing must be postponed to the date and time proposed by the constable.
 
 (3) If regulation 44(1) applies, the notice given under paragraph (2) must notify the constable of the right to appeal under that regulation and of the procedure for making such an appeal.
 
-### 40. Disposal[^key-b7334bca9d3cef662af89fdcc108ce7e]
+### 40. Disposal[^c-b7334bca9d3cef662af89fdcc108ce7e]
 
 (1) If the chairing constable decides under regulation 39(1) that the constable’s performance is unsatisfactory the chairing constable may, subject to paragraph (3) and (4), order—
 
@@ -938,7 +938,7 @@ the hearing must be postponed to the date and time proposed by the constable.
   - (i) the respect in which the constable’s performance is considered to be unsatisfactory; or
   - (ii) the improvement that is required in the constable’s performance.
 
-### 41. Assessment of performance following performance hearing[^key-2f9e5edd315fc123a8c15336ee7b74ac]
+### 41. Assessment of performance following performance hearing[^c-2f9e5edd315fc123a8c15336ee7b74ac]
 
 (1) If the final improvement notice is extended under regulation 40(1)(c), the first line manager must assess the constable’s performance—
 
@@ -978,7 +978,7 @@ the first line manager must refer the constable to a further performance hearing
 - (f) documents relating to any appeal under these Regulations; and
 - (g) the first improvement notice, final improvement notice and extended final improvement notice.
 
-### 42. Arrangement of further performance hearing[^key-36b31c14ee0ba195bcac980952f9d849]
+### 42. Arrangement of further performance hearing[^c-36b31c14ee0ba195bcac980952f9d849]
 
 (1) If the first line manager refers a constable to a further performance hearing, the senior manager must send a notice in writing requiring the constable to attend such a hearing.
 
@@ -997,7 +997,7 @@ the first line manager must refer the constable to a further performance hearing
 
 (3) A notice under paragraph (1) must be accompanied by a copy of any document relied upon in coming to the view that the constable’s performance is unsatisfactory.
 
-### 43. Application of Regulations to further performance hearing[^key-b0856ad68aa5a39dd119b7d654357b11]
+### 43. Application of Regulations to further performance hearing[^c-b0856ad68aa5a39dd119b7d654357b11]
 
 Regulations 34 and 36 to 40 apply in relation to a further performance hearing as they apply in relation to a performance hearing, subject to the following modifications—
 
@@ -1013,7 +1013,7 @@ Regulations 34 and 36 to 40 apply in relation to a further performance hearing a
 
 ## PART 5 — Appeal against finding at performance hearing
 
-### 44. Appeal against finding at performance hearing[^key-44042440969175fca483025ef3c76f12]
+### 44. Appeal against finding at performance hearing[^c-44042440969175fca483025ef3c76f12]
 
 (1) If at a performance hearing or a further performance hearing, the chairing constable finds that the constable’s performance is unsatisfactory and orders dismissal or demotion in rank, the constable may appeal against—
 
@@ -1044,7 +1044,7 @@ Regulations 34 and 36 to 40 apply in relation to a further performance hearing a
 
 (6) The chief constable may, on the application of the constable, extend the period mentioned in paragraph (4) if satisfied that it is appropriate to do so.
 
-### 45. Procedure for determining appeal[^key-89817f5cfa4c5960782f88763038f66f]
+### 45. Procedure for determining appeal[^c-89817f5cfa4c5960782f88763038f66f]
 
 (1) An appeal under regulation 44 must be determined in accordance with this regulation.
 
@@ -1077,7 +1077,7 @@ Regulations 34 and 36 to 40 apply in relation to a further performance hearing a
 - (a) the constable’s police representative must be permitted to attend; and
 - (b) the constable and the constable’s police representative must be permitted to make oral representations.
 
-### 46. Outcome of appeal[^key-91f818b1c6478ab148d7c50775a78c1c]
+### 46. Outcome of appeal[^c-91f818b1c6478ab148d7c50775a78c1c]
 
 (1) The person determining the appeal may, whether after an appeal hearing or otherwise—
 
@@ -1100,15 +1100,15 @@ Regulations 34 and 36 to 40 apply in relation to a further performance hearing a
 - (a) the constable’s performance is unsatisfactory; and
 - (b) the constable is to be dismissed or demoted in rank,
 
-the notice given under paragraph (3) must be accompanied by a notice in writing setting out the circumstances in which the constable may appeal to the First-tier Tribunal[^key-ecd15d711d6097b5b3fae12a1345a3b5] and the procedure for making such an appeal.
+the notice given under paragraph (3) must be accompanied by a notice in writing setting out the circumstances in which the constable may appeal to the First-tier Tribunal[^c-ecd15d711d6097b5b3fae12a1345a3b5] and the procedure for making such an appeal.
 
 ## PART 6 — Consequential modifications
 
-### 47. Police Appeals Tribunal (Scotland) Rules 2013[^key-37c49c98ad93ed9377f72c178a3a79d7]
+### 47. Police Appeals Tribunal (Scotland) Rules 2013[^c-37c49c98ad93ed9377f72c178a3a79d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 48. Police Service of Scotland Regulations 2013[^key-a9521f3e0c1e88126d840dc2f38808a3]
+### 48. Police Service of Scotland Regulations 2013[^c-a9521f3e0c1e88126d840dc2f38808a3]
 
  In regulation 11(3)(d) (personal records) of the Police Service of Scotland Regulations 2013[^f00006], after “2013” insert “or the Police Service of Scotland (Performance) Regulations 2014.”.
 
@@ -1188,108 +1188,108 @@ Part 6 contains consequential modifications to the Police Service of Scotland Re
 
 [^f00001]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-1cc03f40444750d7c898da5bb3238167]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-1cc03f40444750d7c898da5bb3238167]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-6821251bc96bbe1d85d61fee24fa62b2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/67/regulation/2) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-6821251bc96bbe1d85d61fee24fa62b2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/67/regulation/2) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
 [^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80). Paragraph 2 of Schedule 1 has been amended by section 1 of the St Andrew’s Day Bank Holiday (Scotland) Act [2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
 [^f00003]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 has been amended by Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-bbe12bd8eb089d291e732858c69cc020]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/67/regulation/3) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-bbe12bd8eb089d291e732858c69cc020]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/67/regulation/3) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-49b00a160e80dc4486f3c601413f99f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/67/regulation/4) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-49b00a160e80dc4486f3c601413f99f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/67/regulation/4) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
 [^f00004]: Footnote: [S.S.I. 2013/61](https://www.legislation.gov.uk/ssi/2013/61), relevantly amended by [S.S.I. 2013/125](https://www.legislation.gov.uk/ssi/2013/125).
 
-[^key-24861e66a5d2d6ce9ee690fa083e89ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/67/regulation/5) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-24861e66a5d2d6ce9ee690fa083e89ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/67/regulation/5) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-0034a6fdfed55eaa51dedae554c4bf2f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/67/regulation/6) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-0034a6fdfed55eaa51dedae554c4bf2f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/67/regulation/6) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-66b3cd6a74085df28e7a225eaf37658b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/67/regulation/7) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-66b3cd6a74085df28e7a225eaf37658b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/67/regulation/7) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-012568bc060ad4ed1c5e26c4a4630055]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/67/regulation/8) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-012568bc060ad4ed1c5e26c4a4630055]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/67/regulation/8) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-83755f864130dc7906300927812a0b89]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/67/regulation/9) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-83755f864130dc7906300927812a0b89]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/67/regulation/9) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-e3bdd4e70d5d971e03a61e5157f56eb6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/67/regulation/10) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-e3bdd4e70d5d971e03a61e5157f56eb6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/67/regulation/10) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-3c38057d8bd348f51beca4b638e91d44]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/67/regulation/11) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-3c38057d8bd348f51beca4b638e91d44]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/67/regulation/11) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-6683f12bece243ca2618e34dcd846c81]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/67/regulation/12) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-6683f12bece243ca2618e34dcd846c81]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/67/regulation/12) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-c8a9986004823a818fe47418490baeec]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2014/67/regulation/13) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-c8a9986004823a818fe47418490baeec]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2014/67/regulation/13) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-7b02789a6f42ce3de0d01aff570f2b87]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2014/67/regulation/14) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-7b02789a6f42ce3de0d01aff570f2b87]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2014/67/regulation/14) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-62b5d8e1c0b5e2a9d51a3c6832b4b794]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2014/67/regulation/15) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-62b5d8e1c0b5e2a9d51a3c6832b4b794]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2014/67/regulation/15) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-83707df3dce4d239803a1bcca688ac96]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2014/67/regulation/16) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-83707df3dce4d239803a1bcca688ac96]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2014/67/regulation/16) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-f523b4c5b015715809cf044459f02986]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2014/67/regulation/17) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-f523b4c5b015715809cf044459f02986]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2014/67/regulation/17) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-bd8ed447e8db75f339b7d44c2b61184c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2014/67/regulation/18) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-bd8ed447e8db75f339b7d44c2b61184c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2014/67/regulation/18) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-91b17bd19e670ccf5e506bdde4724012]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2014/67/regulation/19) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-91b17bd19e670ccf5e506bdde4724012]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2014/67/regulation/19) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-bd246724dce7c632b7ad4fc482d2a4e2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2014/67/regulation/20) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-bd246724dce7c632b7ad4fc482d2a4e2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2014/67/regulation/20) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-dd4c6c19a89a575cae0af10fde8e321d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/67/regulation/21) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-dd4c6c19a89a575cae0af10fde8e321d]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2014/67/regulation/21) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-676101f1de67b34e5d8c21f7096efc9e]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2014/67/regulation/22) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-676101f1de67b34e5d8c21f7096efc9e]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2014/67/regulation/22) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-2c133fcece7eebf64340bfe9788da394]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2014/67/regulation/23) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-2c133fcece7eebf64340bfe9788da394]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2014/67/regulation/23) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-7953ea11d0a7a5614c0dd4ae814f04fc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2014/67/regulation/24) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-7953ea11d0a7a5614c0dd4ae814f04fc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2014/67/regulation/24) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-e284f7fae312aa39864f066ab353830c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2014/67/regulation/25) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-e284f7fae312aa39864f066ab353830c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2014/67/regulation/25) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-231ace8576738ab28590d41accc8927b]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2014/67/regulation/26) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-231ace8576738ab28590d41accc8927b]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2014/67/regulation/26) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-9eee16a4cad1c31e96df089215787950]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2014/67/regulation/27) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-9eee16a4cad1c31e96df089215787950]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2014/67/regulation/27) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-98dc81a10bd53ac0d543bdc8fb8b587d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2014/67/regulation/28) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-98dc81a10bd53ac0d543bdc8fb8b587d]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2014/67/regulation/28) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-50c143abff251745fa586aa19ac86748]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2014/67/regulation/29) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-50c143abff251745fa586aa19ac86748]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2014/67/regulation/29) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-7f8dcaf5dd63447a628de61042f63426]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2014/67/regulation/30) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-7f8dcaf5dd63447a628de61042f63426]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2014/67/regulation/30) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-cfd749a8730ee15bf3599dba3d4460f1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2014/67/regulation/31) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-cfd749a8730ee15bf3599dba3d4460f1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2014/67/regulation/31) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-a26926c5aec984bad26892f5ef1cdafe]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2014/67/regulation/32) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-a26926c5aec984bad26892f5ef1cdafe]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2014/67/regulation/32) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-1007f3ae01acf8609cc6b1dd2f94d2b6]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2014/67/regulation/33) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-1007f3ae01acf8609cc6b1dd2f94d2b6]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2014/67/regulation/33) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-cfae5896bac255986881a498d4325fcd]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2014/67/regulation/34) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-cfae5896bac255986881a498d4325fcd]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2014/67/regulation/34) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-0324d7cebb93311f544600db18126eba]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2014/67/regulation/35) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-0324d7cebb93311f544600db18126eba]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2014/67/regulation/35) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-debc3354f1bff08d474824cf9663144f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2014/67/regulation/36) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-debc3354f1bff08d474824cf9663144f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2014/67/regulation/36) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-19a8aa6a14d7c583fd32584a71a42c29]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2014/67/regulation/37) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-19a8aa6a14d7c583fd32584a71a42c29]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2014/67/regulation/37) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-c03d137252605e08088d9282764dea92]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2014/67/regulation/38) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-c03d137252605e08088d9282764dea92]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2014/67/regulation/38) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-cca117f30fc8dc2b6e3c6b7f2a720e39]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2014/67/regulation/39) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-cca117f30fc8dc2b6e3c6b7f2a720e39]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2014/67/regulation/39) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-b7334bca9d3cef662af89fdcc108ce7e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2014/67/regulation/40) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-b7334bca9d3cef662af89fdcc108ce7e]: Commencement: [Reg. 40](https://www.legislation.gov.uk/ssi/2014/67/regulation/40) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-2f9e5edd315fc123a8c15336ee7b74ac]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2014/67/regulation/41) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-2f9e5edd315fc123a8c15336ee7b74ac]: Commencement: [Reg. 41](https://www.legislation.gov.uk/ssi/2014/67/regulation/41) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-36b31c14ee0ba195bcac980952f9d849]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2014/67/regulation/42) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-36b31c14ee0ba195bcac980952f9d849]: Commencement: [Reg. 42](https://www.legislation.gov.uk/ssi/2014/67/regulation/42) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-b0856ad68aa5a39dd119b7d654357b11]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2014/67/regulation/43) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-b0856ad68aa5a39dd119b7d654357b11]: Commencement: [Reg. 43](https://www.legislation.gov.uk/ssi/2014/67/regulation/43) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-44042440969175fca483025ef3c76f12]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2014/67/regulation/44) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-44042440969175fca483025ef3c76f12]: Commencement: [Reg. 44](https://www.legislation.gov.uk/ssi/2014/67/regulation/44) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-89817f5cfa4c5960782f88763038f66f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2014/67/regulation/45) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-89817f5cfa4c5960782f88763038f66f]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2014/67/regulation/45) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-91f818b1c6478ab148d7c50775a78c1c]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2014/67/regulation/46) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-91f818b1c6478ab148d7c50775a78c1c]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2014/67/regulation/46) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
-[^key-ecd15d711d6097b5b3fae12a1345a3b5]: Textual amendment: Words in [reg. 46(7)](https://www.legislation.gov.uk/ssi/2014/67/regulation/46/7) substituted (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 6(a)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/6/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
+[^c-ecd15d711d6097b5b3fae12a1345a3b5]: Textual amendment: Words in [reg. 46(7)](https://www.legislation.gov.uk/ssi/2014/67/regulation/46/7) substituted (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 6(a)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/6/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
 
-[^key-37c49c98ad93ed9377f72c178a3a79d7]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/ssi/2014/67/regulation/47) revoked (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 6(b)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/6/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
+[^c-37c49c98ad93ed9377f72c178a3a79d7]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/ssi/2014/67/regulation/47) revoked (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 6(b)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/6/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
 
-[^key-a9521f3e0c1e88126d840dc2f38808a3]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2014/67/regulation/48) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
+[^c-a9521f3e0c1e88126d840dc2f38808a3]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2014/67/regulation/48) in force at 1.4.2014, see [reg. 1](https://www.legislation.gov.uk/ssi/2014/67/regulation/1)
 
 [^f00006]: Footnote: [S.S.I. 2013/35](https://www.legislation.gov.uk/ssi/2013/35).

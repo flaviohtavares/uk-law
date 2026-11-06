@@ -33,7 +33,7 @@ An Act to establish and make provision about the Greater London Authority, the M
 
 \[11th November 1999\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-5a805ff946c52eb576997073d0731317][^key-0cff394f32925fb61b794782c4e3e92d][^key-57801158b4b45c36f13bf034664abe1e][^key-0df8ce499c7de5f98c78121f44edbe07][^key-589cb8763296ab7e3116d342acfb3f4d]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-5a805ff946c52eb576997073d0731317][^c-0cff394f32925fb61b794782c4e3e92d][^c-57801158b4b45c36f13bf034664abe1e][^c-0df8ce499c7de5f98c78121f44edbe07][^c-589cb8763296ab7e3116d342acfb3f4d]
 
 ## Contents
 
@@ -94,7 +94,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 22 — Validity of acts done by unqualified persons.](part-i/section-22.md)
 - [Section 23 — Proceedings for disqualification.](part-i/section-23.md)
 
-#### Salaries, expenses, pensions and other payments[^key-3fba56327253f4757dd0bb5915a9a59c]
+#### Salaries, expenses, pensions and other payments[^c-3fba56327253f4757dd0bb5915a9a59c]
 
 *Extent: E+W+S*
 
@@ -141,16 +141,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 38 — Delegation.](part-ii/section-38.md)
 - [Section 39 — Exercise of functions by joint committees.](part-ii/section-39.md)
 
-#### Delegation to Mayor of Ministers' functions[^key-a0d01aa8b1de63d046ce13d93c70b95e]
+#### Delegation to Mayor of Ministers' functions[^c-a0d01aa8b1de63d046ce13d93c70b95e]
 
 - [Section 39A — Delegation by Ministers](part-ii/section-39a.md)
 - [Section 40 — Contracting out.](part-ii/section-40.md)
 
-#### Additional functions[^key-ae977021653f42da89d34615361682fe]
+#### Additional functions[^c-ae977021653f42da89d34615361682fe]
 
 - [Section 40A — Additional functions of the Authority, Mayor and functional bodies](part-ii/section-40a.md)
 
-#### Collaboration[^key-7eeb21aa940d08be20ddfa898e0833ef]
+#### Collaboration[^c-7eeb21aa940d08be20ddfa898e0833ef]
 
 - [Section 40B — Mayor’s power to convene meetings with local partners](part-ii/section-40b.md)
 - [Section 40C — Request to collaborate](part-ii/section-40c.md)
@@ -220,7 +220,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 64 — Failure to attend proceedings etc.](part-ii/section-64.md)
 - [Section 65 — Proceedings under section 61(1): openness.](part-ii/section-65.md)
 
-#### Annual report[^key-e7cd5393b1ab369635b8fffd017add66]
+#### Annual report[^c-e7cd5393b1ab369635b8fffd017add66]
 
 *Extent: E+W*
 
@@ -321,7 +321,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 99 — Interpretation of Chapter I.](part-iii/section-99.md)
 
-#### Chapter II — Grants and locally retained Non-domestic Rates[^key-512d51faa7541ff8d46a6d7a9ebbfdc6]
+#### Chapter II — Grants and locally retained Non-domestic Rates[^c-512d51faa7541ff8d46a6d7a9ebbfdc6]
 
 *Extent: E+W+S*
 
@@ -655,7 +655,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 238 — Statutory undertakers.](part-iv/section-238.md)
 - [Section 239 — Interpretation of Chapter VII.](part-iv/section-239.md)
 
-#### Chapter VIII — Travel Concessions[^key-d4030af8c6e4e4be7ab3a2494bccb5e1]
+#### Chapter VIII — Travel Concessions[^c-d4030af8c6e4e4be7ab3a2494bccb5e1]
 
 *Extent: E+W+S*
 
@@ -665,13 +665,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 243 — Requirements as to uniformity.](part-iv/section-243.md)
 - [Section 244 — Exercise of functions by a joint committee.](part-iv/section-244.md)
 
-#### Chapter 8A — Bus byelaws[^key-338ea157a3edff5a208e318ce39b22fa]
+#### Chapter 8A — Bus byelaws[^c-338ea157a3edff5a208e318ce39b22fa]
 
-##### London local service byelaws[^key-338ea157a3edff5a208e318ce39b22fa]
+##### London local service byelaws[^c-338ea157a3edff5a208e318ce39b22fa]
 
 - [Section 244A — Power to make byelaws for London local services](part-iv/section-244a.md)
 
-##### Enforcement[^key-338ea157a3edff5a208e318ce39b22fa]
+##### Enforcement[^c-338ea157a3edff5a208e318ce39b22fa]
 
 - [Section 244B — Powers of authorised persons](part-iv/section-244b.md)
 - [Section 244C — Fixed penalty notices](part-iv/section-244c.md)
@@ -824,18 +824,18 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 308 — Audit.](part-v/section-308.md)
 - [Section 309 — Further amendments of the Regional Development Agencies Act 1998.](part-v/section-309.md)
 
-### Part 5A — Health[^key-c94b4e3d05227e60d2d829dc5f132093]
+### Part 5A — Health[^c-c94b4e3d05227e60d2d829dc5f132093]
 
 *Extent: E+W*
 
-#### The Health Adviser and the Deputy Health Advisers (Extent: E+W)[^key-c94b4e3d05227e60d2d829dc5f132093]
+#### The Health Adviser and the Deputy Health Advisers (Extent: E+W)[^c-c94b4e3d05227e60d2d829dc5f132093]
 
 - [Section 309A — The Health Adviser](part-5a/section-309a.md)
 - [Section 309B — The Health Adviser: identity and appointment](part-5a/section-309b.md)
 - [Section 309C — The Deputy Health Advisers](part-5a/section-309c.md)
 - [Section 309D — Deputy Health Advisers: identity and appointment](part-5a/section-309d.md)
 
-#### The health inequalities strategy[^key-f78b751af2a41538758cf257bc7dff30]
+#### The health inequalities strategy[^c-f78b751af2a41538758cf257bc7dff30]
 
 *Extent: E+W*
 
@@ -897,7 +897,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 327 — Abolition of office of Receiver.](part-vi/section-327.md)
 
-### Part 6A — The London Fire Commissioner[^key-3a34f8af629d252530814ec52f235841]
+### Part 6A — The London Fire Commissioner[^c-3a34f8af629d252530814ec52f235841]
 
 *Extent: E+W+S+N.I.*
 
@@ -926,11 +926,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 332 — Discharge of functions.](part-vii/section-332.md)
 - [Section 333 — Miscellaneous powers and duties.](part-vii/section-333.md)
 
-### Part 7A — Housing and regeneration[^key-a761f600a6cde50131649a6bffe0cf99][^key-d0aa918b629cbecc934e9fedc8069f63]
+### Part 7A — Housing and regeneration[^c-a761f600a6cde50131649a6bffe0cf99][^c-d0aa918b629cbecc934e9fedc8069f63]
 
 *Extent: E+W*
 
-#### Functions in relation to land (Extent: E+W)[^key-c9d70079c6471977e41bcfe904bb1eb9][^key-a761f600a6cde50131649a6bffe0cf99]
+#### Functions in relation to land (Extent: E+W)[^c-c9d70079c6471977e41bcfe904bb1eb9][^c-a761f600a6cde50131649a6bffe0cf99]
 
 - [Section 333ZA — Compulsory acquisition of land](part-7a/section-333za.md)
 - [Section 333ZAA — Acquisition of land by agreement](part-7a/section-333zaa.md)
@@ -938,22 +938,22 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 333ZC — Disposal etc of land held for housing and regeneration purposes](part-7a/section-333zc.md)
 - [Section 333ZD — Power to enter and survey land](part-7a/section-333zd.md)
 
-#### Social housing (Extent: E+W)[^key-c9d70079c6471977e41bcfe904bb1eb9][^key-a761f600a6cde50131649a6bffe0cf99]
+#### Social housing (Extent: E+W)[^c-c9d70079c6471977e41bcfe904bb1eb9][^c-a761f600a6cde50131649a6bffe0cf99]
 
 - [Section 333ZE — Social housing](part-7a/section-333ze.md)
 - [Section 333ZF — Relationship with the Regulator of Social Housing: general](part-7a/section-333zf.md)
 - [Section 333ZG — Relationship with the Regulator of Social Housing: directions](part-7a/section-333zg.md)
 - [Section 333ZH — Relationship with the Regulator of Social Housing: further provisions](part-7a/section-333zh.md)
 
-#### Exercise of functions in relation to certain property (Extent: E+W) etc (Extent: E+W)[^key-c9d70079c6471977e41bcfe904bb1eb9][^key-a761f600a6cde50131649a6bffe0cf99]
+#### Exercise of functions in relation to certain property (Extent: E+W) etc (Extent: E+W)[^c-c9d70079c6471977e41bcfe904bb1eb9][^c-a761f600a6cde50131649a6bffe0cf99]
 
 - [Section 333ZI — Exercise of functions by the Authority in relation to certain property etc](part-7a/section-333zi.md)
 
-#### Grants for housing and regeneration purposes (Extent: E+W)[^key-c9d70079c6471977e41bcfe904bb1eb9][^key-a761f600a6cde50131649a6bffe0cf99]
+#### Grants for housing and regeneration purposes (Extent: E+W)[^c-c9d70079c6471977e41bcfe904bb1eb9][^c-a761f600a6cde50131649a6bffe0cf99]
 
 - [Section 333ZJ — Grants to the Authority for housing and regeneration purposes](part-7a/section-333zj.md)
 
-#### The London housing strategy[^key-91c6a32a72260f6159b8a3926a4649f8][^key-a761f600a6cde50131649a6bffe0cf99]
+#### The London housing strategy[^c-91c6a32a72260f6159b8a3926a4649f8][^c-a761f600a6cde50131649a6bffe0cf99]
 
 *Extent: E+W*
 
@@ -965,16 +965,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 333DB — Further provisions about transfer schemes](part-7a/section-333db.md)
 - [Section 333DC — Tax consequences of transfers under section 333DA](part-7a/section-333dc.md)
 
-#### Interpretation[^key-6b2ecc6e91af59f8058c6c3c29ee638d]
+#### Interpretation[^c-6b2ecc6e91af59f8058c6c3c29ee638d]
 
 - [Section 333E — Interpretation of Part 7A](part-7a/section-333e.md)
 
-### PART 7B — Economic development[^key-c909154813555e09bb889787b7672c11]
+### PART 7B — Economic development[^c-c909154813555e09bb889787b7672c11]
 
 - [Section 333F — Economic development strategy for London](part-7b/section-333f.md)
 - [Section 333G — Public authorities: duty to have regard to shared local growth priorities for London](part-7b/section-333g.md)
 
-### Part VIII — Planning[^key-3bb601dec3fcaa3c3e2c261923af2522][^key-90079bf05dc2a221546f46d8d76321f6][^key-ea7c4d9cd95cdb81220e1a1aba46d6dd][^key-f22d52a17876062d78da65be6429ae7e]
+### Part VIII — Planning[^c-3bb601dec3fcaa3c3e2c261923af2522][^c-90079bf05dc2a221546f46d8d76321f6][^c-ea7c4d9cd95cdb81220e1a1aba46d6dd][^c-f22d52a17876062d78da65be6429ae7e]
 
 *Extent: E+W+S*
 
@@ -1028,7 +1028,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 351 — The Mayor’s environmental report.](part-ix/section-351.md)
 
-#### The Mayor's Environment Strategy for London[^key-6164359f6ee2ca216c98ec089bc28668]
+#### The Mayor's Environment Strategy for London[^c-6164359f6ee2ca216c98ec089bc28668]
 
 - [Section 351A — The London Environment Strategy](part-ix/section-351a.md)
 - [Section 351B — Guidance](part-ix/section-351b.md)
@@ -1056,7 +1056,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 360 — Interpretation of sections 353 to 359.](part-ix/section-360.md)
 - [Section 361 — Waste recycling plans.](part-ix/section-361.md)
 
-#### Climate change, energy etc[^key-2fbd9dc77b0f84c715cce8fe5b629b78]
+#### Climate change, energy etc[^c-2fbd9dc77b0f84c715cce8fe5b629b78]
 
 *Extent: E+W*
 
@@ -1160,7 +1160,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 400 — Overseas assistance.](part-xi/section-400.md)
 
-#### Accommodation and services (Extent: E+W)[^key-b6dfa9b69617a01168c1df0b6ce5df33]
+#### Accommodation and services (Extent: E+W)[^c-b6dfa9b69617a01168c1df0b6ce5df33]
 
 *Extent: E+W+S*
 
@@ -1175,7 +1175,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 403 — Membership, reports and information.](part-xi/section-403.md)
 - [Section 403ZA — Co-operation with local government pension scheme managers](part-xi/section-403za.md)
 
-#### Acquisition of land for shared purposes[^key-e00f5c3835c3cf4aff9169b59bbe8cbc]
+#### Acquisition of land for shared purposes[^c-e00f5c3835c3cf4aff9169b59bbe8cbc]
 
 *Extent: E+W*
 
@@ -1282,66 +1282,66 @@ SCHEDULES
 
 ## Annotations
 
-[^key-5a805ff946c52eb576997073d0731317]: Modification: Act excluded (13.3.2012) by [The London Cable Car Order 2012 (S.I. 2012/472)](https://www.legislation.gov.uk/uksi/2012/472), [arts. 1](https://www.legislation.gov.uk/uksi/2012/472/article/1), [9(1)](https://www.legislation.gov.uk/uksi/2012/472/article/9/1)
+[^c-5a805ff946c52eb576997073d0731317]: Modification: Act excluded (13.3.2012) by [The London Cable Car Order 2012 (S.I. 2012/472)](https://www.legislation.gov.uk/uksi/2012/472), [arts. 1](https://www.legislation.gov.uk/uksi/2012/472/article/1), [9(1)](https://www.legislation.gov.uk/uksi/2012/472/article/9/1)
 
-[^key-0cff394f32925fb61b794782c4e3e92d]: Modification: Act modified (7.6.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 35(6)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/35/6/a), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/f)
+[^c-0cff394f32925fb61b794782c4e3e92d]: Modification: Act modified (7.6.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 35(6)(a)](https://www.legislation.gov.uk/ukpga/2011/20/section/35/6/a), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1463/article/2/f)
 
-[^key-57801158b4b45c36f13bf034664abe1e]: Modification: Act modified by S.I. 1981/1628, reg. 5(2) (as amended (5.10.2017) by [The Operation of Public Service Vehicles (Partnership) (Amendment) Regulations 2017 (S.I. 2017/873)](https://www.legislation.gov.uk/uksi/2017/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/873/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/873/regulation/5/a))
+[^c-57801158b4b45c36f13bf034664abe1e]: Modification: Act modified by S.I. 1981/1628, reg. 5(2) (as amended (5.10.2017) by [The Operation of Public Service Vehicles (Partnership) (Amendment) Regulations 2017 (S.I. 2017/873)](https://www.legislation.gov.uk/uksi/2017/873), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/873/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2017/873/regulation/5/a))
 
-[^key-0df8ce499c7de5f98c78121f44edbe07]: Modification: Act modified (1.2.2019) by [The Road Transport (International Passenger Services) Regulations 2018 (S.I. 2018/1395)](https://www.legislation.gov.uk/uksi/2018/1395), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/1/b), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/6/2/b)
+[^c-0df8ce499c7de5f98c78121f44edbe07]: Modification: Act modified (1.2.2019) by [The Road Transport (International Passenger Services) Regulations 2018 (S.I. 2018/1395)](https://www.legislation.gov.uk/uksi/2018/1395), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/1/b), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1395/regulation/6/2/b)
 
-[^key-589cb8763296ab7e3116d342acfb3f4d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/29): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-589cb8763296ab7e3116d342acfb3f4d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1999/29): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-3fba56327253f4757dd0bb5915a9a59c]: Textual amendment: S. 24 heading substituted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/1/3), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-3fba56327253f4757dd0bb5915a9a59c]: Textual amendment: S. 24 heading substituted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/1/3), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
 
-[^key-a0d01aa8b1de63d046ce13d93c70b95e]: Textual amendment: S. 39A and cross-heading inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 223(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/223/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-a0d01aa8b1de63d046ce13d93c70b95e]: Textual amendment: S. 39A and cross-heading inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 223(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/223/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-ae977021653f42da89d34615361682fe]: Textual amendment: S. 40A and cross-heading inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 16](https://www.legislation.gov.uk/ukpga/2026/23/section/16), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-ae977021653f42da89d34615361682fe]: Textual amendment: S. 40A and cross-heading inserted (29.6.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 16](https://www.legislation.gov.uk/ukpga/2026/23/section/16), [108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-7eeb21aa940d08be20ddfa898e0833ef]: Textual amendment: S. 40B and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 22(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/22/5), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-7eeb21aa940d08be20ddfa898e0833ef]: Textual amendment: S. 40B and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 22(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/22/5), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-e7cd5393b1ab369635b8fffd017add66]: Textual amendment: S. 65A and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 6](https://www.legislation.gov.uk/ukpga/2007/24/section/6), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-e7cd5393b1ab369635b8fffd017add66]: Textual amendment: S. 65A and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 6](https://www.legislation.gov.uk/ukpga/2007/24/section/6), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
 
-[^key-512d51faa7541ff8d46a6d7a9ebbfdc6]: Textual amendment: Words in Pt. 3 Ch. 2 heading substituted (27.3.2013) by [The Local Government Finance Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/733)](https://www.legislation.gov.uk/uksi/2013/733), [arts. 1](https://www.legislation.gov.uk/uksi/2013/733/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/733/article/3/4)
+[^c-512d51faa7541ff8d46a6d7a9ebbfdc6]: Textual amendment: Words in Pt. 3 Ch. 2 heading substituted (27.3.2013) by [The Local Government Finance Act 2012 (Consequential Amendments) Order 2013 (S.I. 2013/733)](https://www.legislation.gov.uk/uksi/2013/733), [arts. 1](https://www.legislation.gov.uk/uksi/2013/733/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/733/article/3/4)
 
 [^c12803301]: Textual amendment: S. 196 cross-heading substituted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 215(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/215/1), [Sch. 16 para. 61](https://www.legislation.gov.uk/ukpga/2000/38/schedule/16/paragraph/61); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to transitional provisions and savings in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II)) which S.I. is amended by [S.I. 2001/115](https://www.legislation.gov.uk/uksi/2001/115), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/115/article/2/2))
 
-[^key-d4030af8c6e4e4be7ab3a2494bccb5e1]: Modification: Pt. IV Ch. VIII: power to amend conferred (E.W.) (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/8/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-d4030af8c6e4e4be7ab3a2494bccb5e1]: Modification: Pt. IV Ch. VIII: power to amend conferred (E.W.) (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/8/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
-[^key-338ea157a3edff5a208e318ce39b22fa]: Textual amendment: Pt. 4 Ch. 8A inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 29](https://www.legislation.gov.uk/ukpga/2025/24/section/29), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/c)
+[^c-338ea157a3edff5a208e318ce39b22fa]: Textual amendment: Pt. 4 Ch. 8A inserted (5.8.2026) by [Bus Services Act 2025 (c. 24)](https://www.legislation.gov.uk/ukpga/2025/24), [ss. 29](https://www.legislation.gov.uk/ukpga/2025/24/section/29), [41(5)](https://www.legislation.gov.uk/ukpga/2025/24/section/41/5); [S.I. 2026/834](https://www.legislation.gov.uk/uksi/2026/834), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/834/regulation/2/c)
 
-[^key-c94b4e3d05227e60d2d829dc5f132093]: Textual amendment: Pt. 5A inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/21/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
+[^c-c94b4e3d05227e60d2d829dc5f132093]: Textual amendment: Pt. 5A inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 21(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/21/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
 
-[^key-f78b751af2a41538758cf257bc7dff30]: Textual amendment: Ss. 309E-309H and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/22/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
+[^c-f78b751af2a41538758cf257bc7dff30]: Textual amendment: Ss. 309E-309H and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/22/1), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
 
-[^key-3a34f8af629d252530814ec52f235841]: Textual amendment: Pt. 6A inserted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 for the insertion of ss. 327A(1)-(3)(7)(8), 327B-327D, 327F, 327H(1)(2)(b)(3)-(12)(13)(b), 22.3.2018 for the insertion of s. 327A(4) for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/10); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [regs. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/ii), [3(1)(b)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/b)[(c)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/c)[(2)](https://www.legislation.gov.uk/uksi/2018/227/article/3/2), [4(c)](https://www.legislation.gov.uk/uksi/2018/227/article/4/c)
+[^c-3a34f8af629d252530814ec52f235841]: Textual amendment: Pt. 6A inserted (E.W.) (31.1.2017 for specified purposes, 1.3.2018 for the insertion of ss. 327A(1)-(3)(7)(8), 327B-327D, 327F, 327H(1)(2)(b)(3)-(12)(13)(b), 22.3.2018 for the insertion of s. 327A(4) for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/10); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [regs. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2018/227/article/2/b/ii), [3(1)(b)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/b)[(c)](https://www.legislation.gov.uk/uksi/2018/227/article/3/1/c)[(2)](https://www.legislation.gov.uk/uksi/2018/227/article/3/2), [4(c)](https://www.legislation.gov.uk/uksi/2018/227/article/4/c)
 
 [^M_F_423933d2-3f49-4c26-df0a-b3e56709a926]: Textual amendment: Pt. 7 omitted (E.W.) (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183), [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/11/1) (with [Sch. 2 para. 11(2)(3)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/11/2/3)); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
 
-[^key-a761f600a6cde50131649a6bffe0cf99]: Textual amendment: Pt. 7A inserted (E.W.) (23.12.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/28/4), [59(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/5)
+[^c-a761f600a6cde50131649a6bffe0cf99]: Textual amendment: Pt. 7A inserted (E.W.) (23.12.2007) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 28(4)](https://www.legislation.gov.uk/ukpga/2007/24/section/28/4), [59(5)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/5)
 
-[^key-d0aa918b629cbecc934e9fedc8069f63]: Textual amendment: Words in Pt. 7A heading inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(v)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/v) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-d0aa918b629cbecc934e9fedc8069f63]: Textual amendment: Words in Pt. 7A heading inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(v)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/v) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-c9d70079c6471977e41bcfe904bb1eb9]: Textual amendment: Ss. 333ZA-333ZJ and cross-headings inserted (15.1.2012 for the insertion of ss. 333ZA-333ZD and the heading immediately preceding s. 333ZA, 1.4.2012 so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(w)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/w) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-c9d70079c6471977e41bcfe904bb1eb9]: Textual amendment: Ss. 333ZA-333ZJ and cross-headings inserted (15.1.2012 for the insertion of ss. 333ZA-333ZD and the heading immediately preceding s. 333ZA, 1.4.2012 so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(w)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/w) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(e)](https://www.legislation.gov.uk/uksi/2012/628/article/6/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
 
-[^key-91c6a32a72260f6159b8a3926a4649f8]: Textual amendment: S. 333A cross-heading inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 188(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/188/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/a) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-91c6a32a72260f6159b8a3926a4649f8]: Textual amendment: S. 333A cross-heading inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 188(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/188/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(a)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/a) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
 
-[^key-6b2ecc6e91af59f8058c6c3c29ee638d]: Textual amendment: S. 333E and cross-heading inserted (15.1.2012 for specified purposes, 1.4.2012 so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(w)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/w) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); S.I. 2012/628, art. 6(e) (with arts. 9, 11, 14, 15, 17)
+[^c-6b2ecc6e91af59f8058c6c3c29ee638d]: Textual amendment: S. 333E and cross-heading inserted (15.1.2012 for specified purposes, 1.4.2012 so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 187(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/187/4), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(w)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/w) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); S.I. 2012/628, art. 6(e) (with arts. 9, 11, 14, 15, 17)
 
-[^key-c909154813555e09bb889787b7672c11]: Textual amendment: Pt. 7B inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 192(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/192/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-c909154813555e09bb889787b7672c11]: Textual amendment: Pt. 7B inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 192(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/192/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
 
-[^key-3bb601dec3fcaa3c3e2c261923af2522]: Modification: Pt. 8 applied (with modifications) (E.W.) (23.12.2016) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/4/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1267/schedule/1/part/1)
+[^c-3bb601dec3fcaa3c3e2c261923af2522]: Modification: Pt. 8 applied (with modifications) (E.W.) (23.12.2016) by [The Greater Manchester Combined Authority (Functions and Amendment) Order 2016 (S.I. 2016/1267)](https://www.legislation.gov.uk/uksi/2016/1267), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2016/1267/article/4/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2016/1267/schedule/1/part/1)
 
-[^key-90079bf05dc2a221546f46d8d76321f6]: Modification: Pt. 8 applied (with modifications) (E.W.) (17.3.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/430/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2017/430/article/4/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2017/430/schedule/1/part/1)
+[^c-90079bf05dc2a221546f46d8d76321f6]: Modification: Pt. 8 applied (with modifications) (E.W.) (17.3.2017) by [The Liverpool City Region Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/430)](https://www.legislation.gov.uk/uksi/2017/430), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/430/article/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2017/430/article/4/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2017/430/schedule/1/part/1)
 
-[^key-ea7c4d9cd95cdb81220e1a1aba46d6dd]: Modification: Pt. 8 applied (with modifications) (E.W.) (8.5.2018) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2017/126/article/1/5), [11(2)](https://www.legislation.gov.uk/uksi/2017/126/article/11/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2017/126/schedule/2/part/1)
+[^c-ea7c4d9cd95cdb81220e1a1aba46d6dd]: Modification: Pt. 8 applied (with modifications) (E.W.) (8.5.2018) by [The West of England Combined Authority Order 2017 (S.I. 2017/126)](https://www.legislation.gov.uk/uksi/2017/126), [arts. 1(5)](https://www.legislation.gov.uk/uksi/2017/126/article/1/5), [11(2)](https://www.legislation.gov.uk/uksi/2017/126/article/11/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2017/126/schedule/2/part/1)
 
-[^key-f22d52a17876062d78da65be6429ae7e]: Modification: [Pt. 8](https://www.legislation.gov.uk/ukpga/1999/29/part/8) applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [38(2)](https://www.legislation.gov.uk/uksi/2024/402/article/38/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2024/402/schedule/5/part/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9)) (as amended (25.3.2026) by [S.I. 2026/170](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2026/170/regulation/27/4))
+[^c-f22d52a17876062d78da65be6429ae7e]: Modification: [Pt. 8](https://www.legislation.gov.uk/ukpga/1999/29/part/8) applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [38(2)](https://www.legislation.gov.uk/uksi/2024/402/article/38/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2024/402/schedule/5/part/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9)) (as amended (25.3.2026) by [S.I. 2026/170](https://www.legislation.gov.uk/uksi/2026/170), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2026/170/regulation/27/4))
 
-[^key-6164359f6ee2ca216c98ec089bc28668]: Textual amendment: Ss. 351A-351C and cross-heading inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 225(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/225/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-6164359f6ee2ca216c98ec089bc28668]: Textual amendment: Ss. 351A-351C and cross-heading inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 225(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/225/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/c) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
 
-[^key-2fbd9dc77b0f84c715cce8fe5b629b78]: Textual amendment: S. 361A and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 42](https://www.legislation.gov.uk/ukpga/2007/24/section/42), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)
+[^c-2fbd9dc77b0f84c715cce8fe5b629b78]: Textual amendment: S. 361A and cross-heading inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 42](https://www.legislation.gov.uk/ukpga/2007/24/section/42), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)
 
-[^key-b6dfa9b69617a01168c1df0b6ce5df33]: Textual amendment: S. 401 cross-heading substituted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/52/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/113/article/2/k)
+[^c-b6dfa9b69617a01168c1df0b6ce5df33]: Textual amendment: S. 401 cross-heading substituted (E.W.) (23.10.2007 for specified purposes, 21.1.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 52(2)](https://www.legislation.gov.uk/ukpga/2007/24/section/52/2), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(k)](https://www.legislation.gov.uk/uksi/2008/113/article/2/k)
 
-[^key-e00f5c3835c3cf4aff9169b59bbe8cbc]: Textual amendment: Ss. 403A, 403B and cross-heading inserted (E.W.) (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/36/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)
+[^c-e00f5c3835c3cf4aff9169b59bbe8cbc]: Textual amendment: Ss. 403A, 403B and cross-heading inserted (E.W.) (22.9.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/36/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/936](https://www.legislation.gov.uk/uksi/2017/936), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/936/regulation/3/f)

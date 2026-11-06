@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-849abece46b6b169509c991ca6a6dd04][^key-d74c25a0971cd4c1d48216cb0eedace9]
+## 4. Purposes[^c-849abece46b6b169509c991ca6a6dd04][^c-d74c25a0971cd4c1d48216cb0eedace9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ The purposes of the regulations contained in this instrument that are made under
 
 ## Annotations
 
-[^key-849abece46b6b169509c991ca6a6dd04]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-849abece46b6b169509c991ca6a6dd04]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-d74c25a0971cd4c1d48216cb0eedace9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/604/regulation/4) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/c)
+[^c-d74c25a0971cd4c1d48216cb0eedace9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/604/regulation/4) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(c)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/c)

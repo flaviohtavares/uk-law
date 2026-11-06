@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 402. Petition for winding-up by the Department[^key-1eda64bae3ab3cad6ef4431fbbb2c7dc]
+## 402. Petition for winding-up by the Department[^c-1eda64bae3ab3cad6ef4431fbbb2c7dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ In paragraph (1) of Article 104A of the Insolvency (Northern Ireland) Order 1989
 
 ## Annotations
 
-[^key-1eda64bae3ab3cad6ef4431fbbb2c7dc]: Commencement: Art. 402 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-1eda64bae3ab3cad6ef4431fbbb2c7dc]: Commencement: Art. 402 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00290]: Footnote: Article 104A was inserted by the Companies (No.2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (NI 10)](https://www.legislation.gov.uk/nisi/1990/1504)) and amended by the Criminal Justice Act [1993 (c. 36)](https://www.legislation.gov.uk/ukpga/1993/36), section 79(13), Schedule 5, Part II, paragraph 22.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. De-registration[^key-db7038bf94317bf4ef30850941dab040][^key-5da4976ff5632102d311a014ad5022bc]
+## 9. De-registration[^c-db7038bf94317bf4ef30850941dab040][^c-5da4976ff5632102d311a014ad5022bc]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In section 118 of the Housing and Regeneration Act 2008 (compulsory de-registrat
 
 ## Annotations
 
-[^key-db7038bf94317bf4ef30850941dab040]: Commencement: S. 9 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-db7038bf94317bf4ef30850941dab040]: Commencement: S. 9 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-5da4976ff5632102d311a014ad5022bc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/36/section/9) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/g)
+[^c-5da4976ff5632102d311a014ad5022bc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/36/section/9) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/g)

@@ -22,35 +22,35 @@ summary: ''
 
 Section 90
 
-### 1. Health and Personal Social Services (Northern Ireland) Order 1978 ([S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907))[^key-8fc0b9d40c896e95b7627d4cdf8b4d89]
+### 1. Health and Personal Social Services (Northern Ireland) Order 1978 ([S.I. 1978/1907 (N.I. 26)](https://www.legislation.gov.uk/nisi/1978/1907))[^c-8fc0b9d40c896e95b7627d4cdf8b4d89]
 
 The Health and Personal Social Services (Northern Ireland) Order 1978 is amended as follows.
 
-**2.**[^key-69124c2001a467e6fc7a0d16c3fce5a8] In the heading of Part 2 of that Order omit “to persons apparently under 18”.
+**2.**[^c-69124c2001a467e6fc7a0d16c3fce5a8] In the heading of Part 2 of that Order omit “to persons apparently under 18”.
 
-**3.**[^key-79542472546e17b2749244a16b5fc79c] Before Article 3 insert a new italic heading “Tobacco products etc”.
+**3.**[^c-79542472546e17b2749244a16b5fc79c] Before Article 3 insert a new italic heading “Tobacco products etc”.
 
-**4.**[^key-e80486047884beedeed701c35d79200b] In Article 3(1), after “tobacco” insert “product, herbal smoking product”.
+**4.**[^c-e80486047884beedeed701c35d79200b] In Article 3(1), after “tobacco” insert “product, herbal smoking product”.
 
-**5.**[^key-9533003508b954766287b9b00b671413] Omit Article 4.
+**5.**[^c-9533003508b954766287b9b00b671413] Omit Article 4.
 
-**6.**[^key-86476d939dc96d381b9ff3dbf4cdd615] In Article 5(1) and (2), after “tobacco” insert “products, herbal smoking products”.
+**6.**[^c-86476d939dc96d381b9ff3dbf4cdd615] In Article 5(1) and (2), after “tobacco” insert “products, herbal smoking products”.
 
-**7.**[^key-9c9019cda384a1d8ff3f7f63cdd5d4ff] In Article 6—
+**7.**[^c-9c9019cda384a1d8ff3f7f63cdd5d4ff] In Article 6—
 
 - (a) for “this Part” substitute “Article 3 or 5”;
 - (b) in paragraphs (a) and (b), after “tobacco” insert “products, herbal smoking products”;
 - (c) in the words after paragraph (b), after “tobacco” insert “products or herbal smoking products”.
 
-### 8. Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 ([S.I. 1991/2872 (N.I. 25)](https://www.legislation.gov.uk/nisi/1991/2872))[^key-971aa0f5368dd0ba0b87bbe9d21ae090]
+### 8. Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 ([S.I. 1991/2872 (N.I. 25)](https://www.legislation.gov.uk/nisi/1991/2872))[^c-971aa0f5368dd0ba0b87bbe9d21ae090]
 
 The Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 is amended as follows.
 
-**9.**[^key-0b5ecc2c0513b20c08c06255bf7c28ac] Omit Article 4.
+**9.**[^c-0b5ecc2c0513b20c08c06255bf7c28ac] Omit Article 4.
 
-**10.**[^key-c7e7a3db4df0fffae2e8c73b07eb85cb] Omit Article 4A.
+**10.**[^c-c7e7a3db4df0fffae2e8c73b07eb85cb] Omit Article 4A.
 
-**11.**[^key-d1d149d5d7f1baf36771828ee98a1bdb] (1) Article 5 is amended as follows.
+**11.**[^c-d1d149d5d7f1baf36771828ee98a1bdb] (1) Article 5 is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -68,21 +68,21 @@ The Children and Young Persons (Protection from Tobacco) (Northern Ireland) Orde
 
 (6) In the heading omit “and on vending machines”.
 
-**12.**[^key-b643dba94e34a82878224656af7f003f] Omit Article 6.
+**12.**[^c-b643dba94e34a82878224656af7f003f] Omit Article 6.
 
-**13.**[^key-b4800c4e526cded47df9b230eb74c3d0] In Article 7 omit paragraphs (2) and (3).
+**13.**[^c-b4800c4e526cded47df9b230eb74c3d0] In Article 7 omit paragraphs (2) and (3).
 
-### 14. Tobacco Retailers Act (Northern Ireland) [2014 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2014/4)[^key-57139d7e49f86a4b243692e025a0081d]
+### 14. Tobacco Retailers Act (Northern Ireland) [2014 (c. 4 (N.I.))](https://www.legislation.gov.uk/nia/2014/4)[^c-57139d7e49f86a4b243692e025a0081d]
 
 The Tobacco Retailers Act (Northern Ireland) 2014 is amended as follows.
 
-**15.**[^key-3487999b70b76916654f728f816b3178] In section 2, in subsection (3)(b), for “tobacco” substitute “a tobacco product or herbal smoking product”.
+**15.**[^c-3487999b70b76916654f728f816b3178] In section 2, in subsection (3)(b), for “tobacco” substitute “a tobacco product or herbal smoking product”.
 
-**16.**[^key-3e2f30c3dcc5cc3b35663b6c718f1da0] In section 4, in subsection (2)(b), for “tobacco” substitute “a tobacco product or herbal smoking product”.
+**16.**[^c-3e2f30c3dcc5cc3b35663b6c718f1da0] In section 4, in subsection (2)(b), for “tobacco” substitute “a tobacco product or herbal smoking product”.
 
-**17.**[^key-41cf74e0866e9cc7a2b5a1aabea3a790] In the italic heading before section 5, for “or nicotine” substitute “, vape or nicotine”.
+**17.**[^c-41cf74e0866e9cc7a2b5a1aabea3a790] In the italic heading before section 5, for “or nicotine” substitute “, vape or nicotine”.
 
-**18.**[^key-72463952bc588384aa32612324c91c51] (1) Section 5 is amended as follows.
+**18.**[^c-72463952bc588384aa32612324c91c51] (1) Section 5 is amended as follows.
 
 (2) In subsection (1)(a) and (b), for “or nicotine” substitute “, vape or nicotine”.
 
@@ -116,7 +116,7 @@ The Tobacco Retailers Act (Northern Ireland) 2014 is amended as follows.
 - (f) at the end of paragraph (d) insert “or”;
 - (g) omit paragraphs (e), (g) and (h).
 
-**19.**[^key-28a071a0ea4f47da3b0df2879b147688] (1) Section 6 is amended as follows.
+**19.**[^c-28a071a0ea4f47da3b0df2879b147688] (1) Section 6 is amended as follows.
 
 (2) In subsection (1)(a) and (b), for “or nicotine” substitute “, vape or nicotine”.
 
@@ -139,9 +139,9 @@ The Tobacco Retailers Act (Northern Ireland) 2014 is amended as follows.
 > - (d) an offence committed under section 8F, 8G or 8H of the Tobacco Products Duty Act 1979 on any premises in Northern Ireland (which are accordingly “the premises in relation to which the offence is committed”); or
 > - (e) an offence committed under section 10 in respect of any premises (which are accordingly “the premises in relation to which the offence is committed”).
 
-**20.**[^key-414f66c1ffc5e9fab0c5394bdf98f004] In section 8, in subsection (4), for “tobacco, cigarette papers or nicotine products” substitute “tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products”.
+**20.**[^c-414f66c1ffc5e9fab0c5394bdf98f004] In section 8, in subsection (4), for “tobacco, cigarette papers or nicotine products” substitute “tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products”.
 
-**21.**[^key-4310b01d8d2a8142dabd65553ed7584e] (1) Section 9 (restricted premises orders: no tobacco in retail area) is amended as follows.
+**21.**[^c-4310b01d8d2a8142dabd65553ed7584e] (1) Section 9 (restricted premises orders: no tobacco in retail area) is amended as follows.
 
 (2) In the heading, for “or nicotine products” substitute “, vaping products or nicotine products”.
 
@@ -149,21 +149,21 @@ The Tobacco Retailers Act (Northern Ireland) 2014 is amended as follows.
 
 (4) In subsection (3), for “tobacco, cigarette papers and nicotine products” substitute “tobacco products, herbal smoking products, cigarette papers, vaping products and nicotine products”.
 
-**22.**[^key-5f247d6add4b415723ae1bd3f3e72d52] In section 10, in subsection (4)(a), for “tobacco, cigarette papers or nicotine products” substitute “tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products”.
+**22.**[^c-5f247d6add4b415723ae1bd3f3e72d52] In section 10, in subsection (4)(a), for “tobacco, cigarette papers or nicotine products” substitute “tobacco products, herbal smoking products, cigarette papers, vaping products or nicotine products”.
 
-**23.**[^key-a3d3d45a0d20c83e0c24e117260170b7] In section 11, in subsection (1)(a)—
+**23.**[^c-a3d3d45a0d20c83e0c24e117260170b7] In section 11, in subsection (1)(a)—
 
 - (a) in sub-paragraph (ii), for “Article 3, 4 or 4A” substitute “any provision made by or under Part 2”;
 - (b) in sub-paragraph (iii) omit “4, 4A or”;
 - (c) omit sub-paragraphs (iv) and (v).
 
-**24.**[^key-0ac684fbd618b47a0086af8c3d762870] In section 12, in subsection (1)—
+**24.**[^c-0ac684fbd618b47a0086af8c3d762870] In section 12, in subsection (1)—
 
 - (a) in paragraph (b), for “Article 3, 4 or 4A” substitute “any provision made by or under Part 2”;
 - (b) in paragraph (c) omit “4, 4A or”;
 - (c) omit paragraphs (d) and (e).
 
-**25.**[^key-7404af1f596dc036a5b0022189f8dec5] (1) Section 16 is amended as follows.
+**25.**[^c-7404af1f596dc036a5b0022189f8dec5] (1) Section 16 is amended as follows.
 
 (2) In subsection (1)(a) and (b), for “or nicotine” substitute “, vape or nicotine”.
 
@@ -171,7 +171,7 @@ The Tobacco Retailers Act (Northern Ireland) 2014 is amended as follows.
 
 > (3) In this section “**tobacco, vape or nicotine offence**” means an offence falling within section 5(14) or 6(8).
 
-**26.**[^key-36f2db30809ccc6828384d4ca4c689a2] In section 22, in subsection (1)—
+**26.**[^c-36f2db30809ccc6828384d4ca4c689a2] In section 22, in subsection (1)—
 
 - (a) omit the definition of “cigarettes”;
 - (b) for the definition of “nicotine product” substitute—
@@ -203,21 +203,21 @@ The Tobacco Retailers Act (Northern Ireland) 2014 is amended as follows.
 
   .
 
-### 27. Health (Miscellaneous Provisions) Act (Northern Ireland) [2016 (c. 26 (N.I.))](https://www.legislation.gov.uk/nia/2016/26)[^key-28902044bb29aa8b31c1fdc74118e9cb]
+### 27. Health (Miscellaneous Provisions) Act (Northern Ireland) [2016 (c. 26 (N.I.))](https://www.legislation.gov.uk/nia/2016/26)[^c-28902044bb29aa8b31c1fdc74118e9cb]
 
 The Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 is amended as follows.
 
-**28.**[^key-2dc8092ba72039c30b4e46b5628fdc12] In the heading of Part 1, for “Sale or use” substitute “Use”.
+**28.**[^c-2dc8092ba72039c30b4e46b5628fdc12] In the heading of Part 1, for “Sale or use” substitute “Use”.
 
-**29.**[^key-b17ecaea436cbb288815c990fb0993e3] Omit sections 1 to 4.
+**29.**[^c-b17ecaea436cbb288815c990fb0993e3] Omit sections 1 to 4.
 
-**30.**[^key-e4b194b23c56eb21c643953dc7a1c0c8] Omit sections 6 and 7.
+**30.**[^c-e4b194b23c56eb21c643953dc7a1c0c8] Omit sections 6 and 7.
 
-### 31. Health Act 2009[^key-85a917c86022e85e92108887a48dfea1]
+### 31. Health Act 2009[^c-85a917c86022e85e92108887a48dfea1]
 
 In the Health Act 2009 omit section 23.
 
-### 32. Digital Markets, Competition and Consumers Act 2024[^key-4af3c1e929038d4f84326a9df15ed89f]
+### 32. Digital Markets, Competition and Consumers Act 2024[^c-4af3c1e929038d4f84326a9df15ed89f]
 
 (1) The Digital Markets, Competition and Consumers Act 2024 is amended as follows.
 
@@ -244,66 +244,66 @@ In the Health Act 2009 omit section 23.
 
 ## Annotations
 
-[^key-8fc0b9d40c896e95b7627d4cdf8b4d89]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/1) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-8fc0b9d40c896e95b7627d4cdf8b4d89]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/1) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-69124c2001a467e6fc7a0d16c3fce5a8]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/2) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-69124c2001a467e6fc7a0d16c3fce5a8]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/2) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-79542472546e17b2749244a16b5fc79c]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/3) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-79542472546e17b2749244a16b5fc79c]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/3) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-e80486047884beedeed701c35d79200b]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/4) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-e80486047884beedeed701c35d79200b]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/4) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-9533003508b954766287b9b00b671413]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/5) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-9533003508b954766287b9b00b671413]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/5) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-86476d939dc96d381b9ff3dbf4cdd615]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/6) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-86476d939dc96d381b9ff3dbf4cdd615]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/6) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-9c9019cda384a1d8ff3f7f63cdd5d4ff]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/7) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-9c9019cda384a1d8ff3f7f63cdd5d4ff]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/7) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-971aa0f5368dd0ba0b87bbe9d21ae090]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/8) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-971aa0f5368dd0ba0b87bbe9d21ae090]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/8) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-0b5ecc2c0513b20c08c06255bf7c28ac]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/9) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-0b5ecc2c0513b20c08c06255bf7c28ac]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/9) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-c7e7a3db4df0fffae2e8c73b07eb85cb]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/10) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-c7e7a3db4df0fffae2e8c73b07eb85cb]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/10) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-d1d149d5d7f1baf36771828ee98a1bdb]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/11) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-d1d149d5d7f1baf36771828ee98a1bdb]: Commencement: [Sch. 14 para. 11](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/11) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-b643dba94e34a82878224656af7f003f]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/12) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-b643dba94e34a82878224656af7f003f]: Commencement: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/12) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-b4800c4e526cded47df9b230eb74c3d0]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/13) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-b4800c4e526cded47df9b230eb74c3d0]: Commencement: [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/13) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-57139d7e49f86a4b243692e025a0081d]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/14) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-57139d7e49f86a4b243692e025a0081d]: Commencement: [Sch. 14 para. 14](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/14) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-3487999b70b76916654f728f816b3178]: Commencement: [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/15) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-3487999b70b76916654f728f816b3178]: Commencement: [Sch. 14 para. 15](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/15) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-3e2f30c3dcc5cc3b35663b6c718f1da0]: Commencement: [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/16) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-3e2f30c3dcc5cc3b35663b6c718f1da0]: Commencement: [Sch. 14 para. 16](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/16) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-41cf74e0866e9cc7a2b5a1aabea3a790]: Commencement: [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/17) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-41cf74e0866e9cc7a2b5a1aabea3a790]: Commencement: [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/17) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-72463952bc588384aa32612324c91c51]: Commencement: [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-72463952bc588384aa32612324c91c51]: Commencement: [Sch. 14 para. 18](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/18) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-28a071a0ea4f47da3b0df2879b147688]: Commencement: [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-28a071a0ea4f47da3b0df2879b147688]: Commencement: [Sch. 14 para. 19](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/19) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-414f66c1ffc5e9fab0c5394bdf98f004]: Commencement: [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/20) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-414f66c1ffc5e9fab0c5394bdf98f004]: Commencement: [Sch. 14 para. 20](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/20) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-4310b01d8d2a8142dabd65553ed7584e]: Commencement: [Sch. 14 para. 21](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/21) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-4310b01d8d2a8142dabd65553ed7584e]: Commencement: [Sch. 14 para. 21](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/21) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-5f247d6add4b415723ae1bd3f3e72d52]: Commencement: [Sch. 14 para. 22](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/22) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-5f247d6add4b415723ae1bd3f3e72d52]: Commencement: [Sch. 14 para. 22](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/22) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-a3d3d45a0d20c83e0c24e117260170b7]: Commencement: [Sch. 14 para. 23](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/23) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-a3d3d45a0d20c83e0c24e117260170b7]: Commencement: [Sch. 14 para. 23](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/23) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-0ac684fbd618b47a0086af8c3d762870]: Commencement: [Sch. 14 para. 24](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/24) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-0ac684fbd618b47a0086af8c3d762870]: Commencement: [Sch. 14 para. 24](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/24) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-7404af1f596dc036a5b0022189f8dec5]: Commencement: [Sch. 14 para. 25](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/25) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-7404af1f596dc036a5b0022189f8dec5]: Commencement: [Sch. 14 para. 25](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/25) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-36f2db30809ccc6828384d4ca4c689a2]: Commencement: [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/26) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-36f2db30809ccc6828384d4ca4c689a2]: Commencement: [Sch. 14 para. 26](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/26) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-28902044bb29aa8b31c1fdc74118e9cb]: Commencement: [Sch. 14 para. 27](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/27) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-28902044bb29aa8b31c1fdc74118e9cb]: Commencement: [Sch. 14 para. 27](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/27) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-2dc8092ba72039c30b4e46b5628fdc12]: Commencement: [Sch. 14 para. 28](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/28) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-2dc8092ba72039c30b4e46b5628fdc12]: Commencement: [Sch. 14 para. 28](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/28) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-b17ecaea436cbb288815c990fb0993e3]: Commencement: [Sch. 14 para. 29](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/29) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-b17ecaea436cbb288815c990fb0993e3]: Commencement: [Sch. 14 para. 29](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/29) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-e4b194b23c56eb21c643953dc7a1c0c8]: Commencement: [Sch. 14 para. 30](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/30) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-e4b194b23c56eb21c643953dc7a1c0c8]: Commencement: [Sch. 14 para. 30](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/30) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-85a917c86022e85e92108887a48dfea1]: Commencement: [Sch. 14 para. 31](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/31) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-85a917c86022e85e92108887a48dfea1]: Commencement: [Sch. 14 para. 31](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/31) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
 
-[^key-4af3c1e929038d4f84326a9df15ed89f]: Commencement: [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/32) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-4af3c1e929038d4f84326a9df15ed89f]: Commencement: [Sch. 14 para. 32](https://www.legislation.gov.uk/ukpga/2026/18/schedule/14/paragraph/32) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

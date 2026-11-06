@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Amendment of section 77[^key-46afbbac225244fa2ca50b61346553ad]
+## 118. Amendment of section 77[^c-46afbbac225244fa2ca50b61346553ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46afbbac225244fa2ca50b61346553ad]: Commencement: Reg. 118 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-46afbbac225244fa2ca50b61346553ad]: Commencement: Reg. 118 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00097]: Footnote: There are amendments but these are not relevant to these Regulations.

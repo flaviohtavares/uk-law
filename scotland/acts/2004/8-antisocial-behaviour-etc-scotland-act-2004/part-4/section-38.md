@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Offences under section 37: arrest without warrant[^key-156ef4fc80da53e186487937e6043e8f]
+## 38. Offences under section 37: arrest without warrant[^c-156ef4fc80da53e186487937e6043e8f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-156ef4fc80da53e186487937e6043e8f]: Textual amendment: [S. 38](https://www.legislation.gov.uk/asp/2004/8/section/38) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 18(c)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/18/c); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-156ef4fc80da53e186487937e6043e8f]: Textual amendment: [S. 38](https://www.legislation.gov.uk/asp/2004/8/section/38) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 18(c)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/18/c); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

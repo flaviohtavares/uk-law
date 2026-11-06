@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13.1. Interpretation[^key-aa5e203579dd5925350f248c66de1a09]
+## 13.1. Interpretation[^c-aa5e203579dd5925350f248c66de1a09]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa5e203579dd5925350f248c66de1a09]: Commencement: Para. 13.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-aa5e203579dd5925350f248c66de1a09]: Commencement: Para. 13.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

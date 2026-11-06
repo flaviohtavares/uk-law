@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation, commencement and transitional provision[^key-fc5105dc8abb47373c363fcc8482e88b]
+## 1. Citation, commencement and transitional provision[^c-fc5105dc8abb47373c363fcc8482e88b]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc5105dc8abb47373c363fcc8482e88b]: Commencement: Art. 1 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-fc5105dc8abb47373c363fcc8482e88b]: Commencement: Art. 1 in force at 16.12.2015 in accordance with art. 1(1)

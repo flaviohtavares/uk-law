@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Rights under or over streets[^key-85b883344e83e3d3e9d46477910cad89]
+## 30. Rights under or over streets[^c-85b883344e83e3d3e9d46477910cad89]
 
 *Extent: E+W+S*
 
-(1) Subject to article 21A (supplemental land), the undertaker may[^key-abac13670f0949cd82ad5ed3b1a69271] enter upon and appropriate so much of the subsoil of, or airspace over, any street within the Order land as may be required for the purposes of the authorised development and may use the subsoil or airspace for those purposes or any other purpose ancillary to the authorised development.
+(1) Subject to article 21A (supplemental land), the undertaker may[^c-abac13670f0949cd82ad5ed3b1a69271] enter upon and appropriate so much of the subsoil of, or airspace over, any street within the Order land as may be required for the purposes of the authorised development and may use the subsoil or airspace for those purposes or any other purpose ancillary to the authorised development.
 
 (2) Subject to paragraph (3), the undertaker may exercise any power conferred by paragraph (1) in relation to a street without being required to acquire any part of the street or any easement or right in the street.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85b883344e83e3d3e9d46477910cad89]: Commencement: Art. 30 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-85b883344e83e3d3e9d46477910cad89]: Commencement: Art. 30 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-abac13670f0949cd82ad5ed3b1a69271]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/uksi/2024/174/article/30/1) substituted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [10](https://www.legislation.gov.uk/uksi/2025/1143/article/10)
+[^c-abac13670f0949cd82ad5ed3b1a69271]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/uksi/2024/174/article/30/1) substituted (29.10.2025) by [The Net Zero Teesside (Amendment) Order 2025 (S.I. 2025/1143)](https://www.legislation.gov.uk/uksi/2025/1143), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1143/article/1), [10](https://www.legislation.gov.uk/uksi/2025/1143/article/10)

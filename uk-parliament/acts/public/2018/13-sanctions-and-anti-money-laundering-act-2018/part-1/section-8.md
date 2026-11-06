@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Other sanctions for purposes of UN obligations[^key-3343cc1c43acd37ef0bf2005457162fa]
+## 8. Other sanctions for purposes of UN obligations[^c-3343cc1c43acd37ef0bf2005457162fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3343cc1c43acd37ef0bf2005457162fa]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/13/section/8) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-3343cc1c43acd37ef0bf2005457162fa]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/13/section/8) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)

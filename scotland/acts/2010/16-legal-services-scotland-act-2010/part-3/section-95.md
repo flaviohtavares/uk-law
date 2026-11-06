@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Review of own performance[^key-d8e5129406c8b4f81462e5ba01d78983]
+## 95. Review of own performance[^c-d8e5129406c8b4f81462e5ba01d78983]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d8e5129406c8b4f81462e5ba01d78983]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/16/section/95) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-d8e5129406c8b4f81462e5ba01d78983]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2010/16/section/95) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

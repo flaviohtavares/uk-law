@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357. Article 5 of Commission Implementing Regulation (EU) 2017/373[^key-117b2f11fd9e4fcb055eb8e6d7b58485]
+## 357. Article 5 of Commission Implementing Regulation (EU) 2017/373[^c-117b2f11fd9e4fcb055eb8e6d7b58485]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-117b2f11fd9e4fcb055eb8e6d7b58485]: Commencement: Reg. 357 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-117b2f11fd9e4fcb055eb8e6d7b58485]: Commencement: Reg. 357 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

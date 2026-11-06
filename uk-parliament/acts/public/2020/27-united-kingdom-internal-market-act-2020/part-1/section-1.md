@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Purpose of Part 1[^key-fcb8ace214cf450db025dacc31e96407]
+## 1. Purpose of Part 1[^c-fcb8ace214cf450db025dacc31e96407]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcb8ace214cf450db025dacc31e96407]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/27/section/1) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-fcb8ace214cf450db025dacc31e96407]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2020/27/section/1) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

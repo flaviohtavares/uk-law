@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to subsection (2) below, if any person without the consent of the appropriate agency[^key-1b8abae1db8866568af986b68f896bcc]—
+(1) Subject to subsection (2) below, if any person without the consent of the appropriate agency[^c-1b8abae1db8866568af986b68f896bcc]—
 
 - (a) intentionally or recklessly interferes with any resource main or other pipe vested in the appropriate agency or with any structure, installation or apparatus belonging to the appropriate agency; or
 - (b) by any act or omission negligently interferes with any such main or other pipe or with any such structure, installation or apparatus so as to damage it or so as to have an effect on its use or operation,
@@ -51,6 +51,6 @@ shall be guilty of an offence and liable, on summary conviction, to a fine not e
 
 ## Annotations
 
-[^key-1b8abae1db8866568af986b68f896bcc]: Textual amendment: Words in ss. 176-179 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1b8abae1db8866568af986b68f896bcc]: Textual amendment: Words in ss. 176-179 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18739131]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).

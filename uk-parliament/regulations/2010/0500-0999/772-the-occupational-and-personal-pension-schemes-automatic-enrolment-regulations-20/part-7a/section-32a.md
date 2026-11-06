@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32A. Effect of a certificate under section 28 of the Act[^key-021bf0aea326ae513867e96a32ed0baf]
+## 32A. Effect of a certificate under section 28 of the Act[^c-021bf0aea326ae513867e96a32ed0baf]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Subject to regulation 32H, a scheme to which section 28 of the Act applies is to
 
 ## Annotations
 
-[^key-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
+[^c-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)

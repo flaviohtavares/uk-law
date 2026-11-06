@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Rates of research and development relief and vaccine research relief[^key-a818d6141eefafff18d4a63322b46844]
+## SCHEDULE 8 — Rates of research and development relief and vaccine research relief[^c-a818d6141eefafff18d4a63322b46844]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Section 26
 
-### Rates of research and development relief: SMEs[^key-a818d6141eefafff18d4a63322b46844]
+### Rates of research and development relief: SMEs[^c-a818d6141eefafff18d4a63322b46844]
 
-**1.**[^key-a818d6141eefafff18d4a63322b46844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a818d6141eefafff18d4a63322b46844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Rates of research and development tax relief: large companies[^key-a818d6141eefafff18d4a63322b46844]
+### Rates of research and development tax relief: large companies[^c-a818d6141eefafff18d4a63322b46844]
 
-**2.**[^key-a818d6141eefafff18d4a63322b46844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a818d6141eefafff18d4a63322b46844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Rates of vaccine research relief[^key-a818d6141eefafff18d4a63322b46844]
+### Rates of vaccine research relief[^c-a818d6141eefafff18d4a63322b46844]
 
-**3.**[^key-a818d6141eefafff18d4a63322b46844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a818d6141eefafff18d4a63322b46844] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a818d6141eefafff18d4a63322b46844]: Textual amendment: Schs. 8-10 repealed (with effect in accordance with [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 734](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/734), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-a818d6141eefafff18d4a63322b46844]: Textual amendment: Schs. 8-10 repealed (with effect in accordance with [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 734](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/734), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

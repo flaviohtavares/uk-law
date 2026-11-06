@@ -35,18 +35,18 @@ amending Regulation (EC) No 637/2009 as regards the classification of certain pl
 
 (Text with EEA relevance) (revoked)
 
-[^key-1789565d061c8d4a311039a416d3bf78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1789565d061c8d4a311039a416d3bf78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1789565d061c8d4a311039a416d3bf78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1789565d061c8d4a311039a416d3bf78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1789565d061c8d4a311039a416d3bf78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1789565d061c8d4a311039a416d3bf78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1789565d061c8d4a311039a416d3bf78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1789565d061c8d4a311039a416d3bf78]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-1789565d061c8d4a311039a416d3bf78]
+## ANNEX[^c-1789565d061c8d4a311039a416d3bf78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1789565d061c8d4a311039a416d3bf78]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1789565d061c8d4a311039a416d3bf78]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

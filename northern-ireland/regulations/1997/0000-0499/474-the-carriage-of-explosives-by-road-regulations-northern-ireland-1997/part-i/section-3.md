@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. General application[^key-4b9437e199fcda2d2671da9f785733d6]
+## 3. General application[^c-4b9437e199fcda2d2671da9f785733d6]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b9437e199fcda2d2671da9f785733d6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/474/regulation/3) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
+[^c-4b9437e199fcda2d2671da9f785733d6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/474/regulation/3) in operation at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/474/regulation/1)
 
 [^f00016]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22)

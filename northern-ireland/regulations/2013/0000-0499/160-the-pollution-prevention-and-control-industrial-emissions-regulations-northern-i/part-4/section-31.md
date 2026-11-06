@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Appeals from decisions with respect to permits[^key-58fea770432608892117860d8a5c91c1]
+## 31. Appeals from decisions with respect to permits[^c-58fea770432608892117860d8a5c91c1]
 
 *Extent: N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58fea770432608892117860d8a5c91c1]: Commencement: Reg. 31 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-58fea770432608892117860d8a5c91c1]: Commencement: Reg. 31 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

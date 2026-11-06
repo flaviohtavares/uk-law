@@ -45,31 +45,31 @@ Coming into Operation
 
 The Minister of Transport in exercise of the powers under section 63(1) of the Road Traffic Act 1972[^f00001], and now vested in him[^f00002], and of all other enabling powers, and after consultation with representative organisations in accordance with the provisions of section 199(2) of that Act, hereby makes the following Regulations:—
 
-## 1. Commencement and citation[^key-3614ab2ea2fa9102a58a241a4bb4c352]
+## 1. Commencement and citation[^c-3614ab2ea2fa9102a58a241a4bb4c352]
 
 These Regulations shall come into operation on 1st October 1979 and may be cited as the Motor Vehicles (Designation of Approval Marks) Regulations 1979.
 
-## 2. Revocation[^key-d02fcc3c04a9c145549edc5c1230893a]
+## 2. Revocation[^c-d02fcc3c04a9c145549edc5c1230893a]
 
 The Regulations specified in Schedule 1 are hereby revoked.
 
-## 3. Interpretation[^key-2dfd6596e96c1ffa0fd7e0ab1415d325]
+## 3. Interpretation[^c-2dfd6596e96c1ffa0fd7e0ab1415d325]
 
 (1) In these Regulations—
 
 - “**Contracting State**” means a state which is a party to the International Agreement;
 - “**ECE Regulation**” means a regulation annexed to the International Agreement;
 - “**Member State**” means any State which is a member of the European Economic Community;
-- “[^key-8f6837bc00c86123dc07291b8c0f39ce]**moped**” has the same meaning as in regulation 46 of the Construction and Use Regulations 1978;
+- “[^c-8f6837bc00c86123dc07291b8c0f39ce]**moped**” has the same meaning as in regulation 46 of the Construction and Use Regulations 1978;
 - “**the International Agreement**” means the Agreement concerning the adoption of uniform conditions of approval for Motor Vehicle Equipment and Parts and reciprocal recognition thereof concluded at Geneva on 20th March 1958[^f00003] as amended[^f00004] to which the United Kingdom is a party[^f00005].
 
-(2)[^key-48f96be414ec42116ba34027e446138c] A reference to a vehicle in category M1, M2, M3, N1, N2, or N3 is a reference to a vehicle described respectively as M1, M2, M3, N1, N2 or N3 in ECE Regulation 13 of 29th May 1969 as revised on 5th December 1973
+(2)[^c-48f96be414ec42116ba34027e446138c] A reference to a vehicle in category M1, M2, M3, N1, N2, or N3 is a reference to a vehicle described respectively as M1, M2, M3, N1, N2 or N3 in ECE Regulation 13 of 29th May 1969 as revised on 5th December 1973
 
 (3) A reference in these Regulations to a Schedule followed by a number is a reference to the Schedule so numbered to these Regulations.
 
 (4) A reference in these Regulations to provision being made by an ECE Regulation in relation to a marking is a reference to the provision being made in relation thereto by the International Agreement by virtue of that Regulation.
 
-## 4. Approval marks required by ECE Regulations[^key-1140dd97572e0800e684a8fce4fcd0a3]
+## 4. Approval marks required by ECE Regulations[^c-1140dd97572e0800e684a8fce4fcd0a3]
 
 (1) The Minister of Transport hereby designates as approval marks the markings which, subject to paragraphs (2) and (3) of this Regulation, are in the forms shown in the diagrams in column (2) of Schedule 2, and of the sizes specified in the ECE Regulations specified in column (5) of that Schedule in relation to those markings, each such marking being a marking which—
 
@@ -89,7 +89,7 @@ the marking on the motor vehicle or motor vehicle part, as respects those aspect
 - (i) the common features and numbers in the markings specified in column (2) of Schedule 2 in relation to those aspects, and
 - (ii) a list (placed vertically to the right of the circle in the diagram) of the numbers of those ECE Regulations, and any features or numbers which are peculiar to any of the said markings.
 
-## 5. Approval marks required by Community Instruments[^key-9e8bab4517b71c87ab81494c934de4fd]
+## 5. Approval marks required by Community Instruments[^c-9e8bab4517b71c87ab81494c934de4fd]
 
 (1) The Minister of Transport hereby designates as approval marks the markings which, subject to paragraphs (2) or (3) of this Regulation, are in the forms shown in the diagrams in column (2) of Schedule 4, and are of the sizes specified in the Community Instruments specified in column (5) of that Schedule in relation to those markings, each such marking being a marking which—
 
@@ -110,7 +110,7 @@ the marking on the vehicle or vehicle part as respects those aspects specified i
 - (ii) the number which related to such approval, and
 - (iii) the symbols required by the Community Instruments under which such approval was granted.
 
-**6.**[^key-9e6ab71557d3281d2574f6e455726911] The Secretary of State for Transport hereby designates as an approval mark in respect of a replacement exhaust system to which Commission Directive 81/334/EEC relates, or any component of such a system (other than fixing hardware and pipes) a clearly legible and indelible marking consisting of—
+**6.**[^c-9e6ab71557d3281d2574f6e455726911] The Secretary of State for Transport hereby designates as an approval mark in respect of a replacement exhaust system to which Commission Directive 81/334/EEC relates, or any component of such a system (other than fixing hardware and pipes) a clearly legible and indelible marking consisting of—
 
 - (a) the trade mark or trade name of the manufacturer of the system or, as the case may be, the component;
 - (b) the manufacturer's commercial description of the system or, as the case may be, the component;
@@ -123,7 +123,7 @@ Parliamentary Secretary, on behalf of the Minister of Transport
 
 30th August 1979
 
-## SCHEDULE 1 — REGULATIONS REVOKED BY REGULATION 2[^key-89f92c1597730bc1f77f68e5f08fc92f]
+## SCHEDULE 1 — REGULATIONS REVOKED BY REGULATION 2[^c-89f92c1597730bc1f77f68e5f08fc92f]
 
 | Title | Year and Number |
 | --- | --- |
@@ -296,29 +296,29 @@ Parliamentary Secretary, on behalf of the Minister of Transport
 </tbody>
 </table>
 
-[^key-098b9785d3644e691ff2bbef821f9ebc][^key-008afce64c77a84252f52935602f54fa][^key-8780365c5338a195c56d2ac6ef918574][^key-78595b0322fd4be514024155b02852c9][^key-174263b5a41ffb372f963348e4a0a803][^key-4407ee07e3f82b5e1d29d6c220d0de56][^key-48a51c9fafa86e3ca93abc0a8fc9f9ad][^key-e4acb4644e26b56548673721f4d115ad][^key-3eaf07d98f876932422c9899218861f7][^key-57d79098f37a582e4f91896cfbb3c1ac][^key-360d54fe44893aca33fe349dcec46f33][^key-24d7dc5f87cfaf6fbfe88f0ec079d939][^key-5e2248ffdd425542dcd72c9ad98c64f0][^key-59f08d9da820cbf772ee94cedb13962f][^key-5e2211f47e3b945ee8b39fce1524b13d][^key-f147eaa39b0c3e83c8ed9c6c5879054f][^key-a8163e6d6010aa03a468e5e47e59a199][^key-36f19f08f53f16016d2e555055d3b11a][^key-c21dfb78a5d1a04d623ece43e67f9044][^key-af94da1e3605e236be07c4612da513fa][^key-4330c9be44b47388319e38c6bf4c1900][^key-0bb824f1dc293014ec79f6b4503e6c85][^key-17b3b140fc78f008dbd3dea693020068][^key-38ce8e907a48fc4df929f8d0d8e30fb2][^key-160e42d1e401fee12652577a7f9c2c9c][^key-b8b088a4c674004b64d5db14873a080e][^key-09793583ff9be017fd9ead2972259d00][^key-e9eb1caf8a247f7e72ff85e67cd9c4d1][^key-debf45507faec61e9ac1fae481be9ffa][^key-41c5ee5200ace5110c17f11585b5766e][^key-eadaf356fefc6a237c0a77fa4589044b][^key-d35fc940edb6addb15e0dcc525fceb60][^key-abdf8e8c79cd6b73fd680e3cd986e7d5][^key-886ed157cd3ddaa46739b3d06eac78d9][^key-a1f14c14ecf05287c9e755a893a59d71][^key-4cfd82276c7b19778c0f31d6543f3f92][^key-46d032e4a3a490b33549d2b7fc0b48d9][^key-47c276d4f5d0af0f8e01e0b4ca5b2f49][^key-8014cdc8e9302b7a4287461cbbb2286c][^key-4e2baab4e6236a198a60a3ac39007402][^key-38ce7ec0fcf92c820c5bf8ad75cdbe43][^key-ad19b134df22978bfdcbbeceb9150bd7]
+[^c-098b9785d3644e691ff2bbef821f9ebc][^c-008afce64c77a84252f52935602f54fa][^c-8780365c5338a195c56d2ac6ef918574][^c-78595b0322fd4be514024155b02852c9][^c-174263b5a41ffb372f963348e4a0a803][^c-4407ee07e3f82b5e1d29d6c220d0de56][^c-48a51c9fafa86e3ca93abc0a8fc9f9ad][^c-e4acb4644e26b56548673721f4d115ad][^c-3eaf07d98f876932422c9899218861f7][^c-57d79098f37a582e4f91896cfbb3c1ac][^c-360d54fe44893aca33fe349dcec46f33][^c-24d7dc5f87cfaf6fbfe88f0ec079d939][^c-5e2248ffdd425542dcd72c9ad98c64f0][^c-59f08d9da820cbf772ee94cedb13962f][^c-5e2211f47e3b945ee8b39fce1524b13d][^c-f147eaa39b0c3e83c8ed9c6c5879054f][^c-a8163e6d6010aa03a468e5e47e59a199][^c-36f19f08f53f16016d2e555055d3b11a][^c-c21dfb78a5d1a04d623ece43e67f9044][^c-af94da1e3605e236be07c4612da513fa][^c-4330c9be44b47388319e38c6bf4c1900][^c-0bb824f1dc293014ec79f6b4503e6c85][^c-17b3b140fc78f008dbd3dea693020068][^c-38ce8e907a48fc4df929f8d0d8e30fb2][^c-160e42d1e401fee12652577a7f9c2c9c][^c-b8b088a4c674004b64d5db14873a080e][^c-09793583ff9be017fd9ead2972259d00][^c-e9eb1caf8a247f7e72ff85e67cd9c4d1][^c-debf45507faec61e9ac1fae481be9ffa][^c-41c5ee5200ace5110c17f11585b5766e][^c-eadaf356fefc6a237c0a77fa4589044b][^c-d35fc940edb6addb15e0dcc525fceb60][^c-abdf8e8c79cd6b73fd680e3cd986e7d5][^c-886ed157cd3ddaa46739b3d06eac78d9][^c-a1f14c14ecf05287c9e755a893a59d71][^c-4cfd82276c7b19778c0f31d6543f3f92][^c-46d032e4a3a490b33549d2b7fc0b48d9][^c-47c276d4f5d0af0f8e01e0b4ca5b2f49][^c-8014cdc8e9302b7a4287461cbbb2286c][^c-4e2baab4e6236a198a60a3ac39007402][^c-38ce7ec0fcf92c820c5bf8ad75cdbe43][^c-ad19b134df22978bfdcbbeceb9150bd7]
 
 ## SCHEDULE 3 — APPROVAL MARKS REQUIRED BY ECE REGULATIONS—REQUIREMENTS AND PERMITTED VARIATIONS
 
-**1.**[^key-20cdc69743700d074099cf9aeaee06d3] The number shown inside the circle in a marking in column (2) of Schedule 2 will be varied, where appropriate, so as to be the number assigned by the relevant ECE Regulation to the Contracting State which granted the approval in relation to the particular vehicle or vehicle part on which the marking is placed.
+**1.**[^c-20cdc69743700d074099cf9aeaee06d3] The number shown inside the circle in a marking in column (2) of Schedule 2 will be varied, where appropriate, so as to be the number assigned by the relevant ECE Regulation to the Contracting State which granted the approval in relation to the particular vehicle or vehicle part on which the marking is placed.
 
-**2.**[^key-93eeb70d8add8f7534ddc4188fdecb5d] The number shown outside and below the circle in any such marking will be varied, where appropriate, so as to be the number assigned by the competent authority of a Contracting State to distinguish the manufacturer of the motor vehicle or motor vehicle part concerned. The said number will be close to and outside the circle in such a position relative thereto as may be authorised by the relevant ECE Regulation, so however that it shall be read in the same direction as the number inside the circle.
+**2.**[^c-93eeb70d8add8f7534ddc4188fdecb5d] The number shown outside and below the circle in any such marking will be varied, where appropriate, so as to be the number assigned by the competent authority of a Contracting State to distinguish the manufacturer of the motor vehicle or motor vehicle part concerned. The said number will be close to and outside the circle in such a position relative thereto as may be authorised by the relevant ECE Regulation, so however that it shall be read in the same direction as the number inside the circle.
 
-**2A.**[^key-e382095e057a5289b6b170c6c402ad0f] The number shown outside and on the right of the circle in any such marking will be varied, where appropriate, so as to be the number assigned by the competent authority of a Contracting State to each type approved. The said number will be close to and outside the circle in such a position relative thereto as may be authorised by the relevant ECE Regulation, so however that it shall be read in the same direction as the number inside the circle.
+**2A.**[^c-e382095e057a5289b6b170c6c402ad0f] The number shown outside and on the right of the circle in any such marking will be varied, where appropriate, so as to be the number assigned by the competent authority of a Contracting State to each type approved. The said number will be close to and outside the circle in such a position relative thereto as may be authorised by the relevant ECE Regulation, so however that it shall be read in the same direction as the number inside the circle.
 
-**3.**[^key-b40a169f29df0d46ead08519436c47d9] The Roman numeral shown outside and on the left of the circle in the marking relating to item No. 3 in Schedule 2 will be varied, where appropriate, to be either I or III in cases where the motor vehicle part to which the marking relates was placed in Class I or in Class III, and not in Class II, when it was approved in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
+**3.**[^c-b40a169f29df0d46ead08519436c47d9] The Roman numeral shown outside and on the left of the circle in the marking relating to item No. 3 in Schedule 2 will be varied, where appropriate, to be either I or III in cases where the motor vehicle part to which the marking relates was placed in Class I or in Class III, and not in Class II, when it was approved in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
 
-**4.**[^key-4bc676cb6f39a3a5c3abcb0fd83f8648] The number mentioned in paragraph 2 above and the Roman numeral mentioned in paragraph 3 above may be placed in any position in relation to the circle in the said marking so long as they are diametrically opposite to each other.
+**4.**[^c-4bc676cb6f39a3a5c3abcb0fd83f8648] The number mentioned in paragraph 2 above and the Roman numeral mentioned in paragraph 3 above may be placed in any position in relation to the circle in the said marking so long as they are diametrically opposite to each other.
 
-**5.**[^key-19e28cd62dc1175e0b72a9d3a8b586ba] The figure following the number 24 shown outside and on the right of the circle in the marking relating to item No. 24 in Schedule 2 (which indicates the corrected absorption coefficient of the vehicle part to which that marking relates) will be varied, where appropriate, in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
+**5.**[^c-19e28cd62dc1175e0b72a9d3a8b586ba] The figure following the number 24 shown outside and on the right of the circle in the marking relating to item No. 24 in Schedule 2 (which indicates the corrected absorption coefficient of the vehicle part to which that marking relates) will be varied, where appropriate, in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
 
-**6.**[^key-e56707a50a66f9c1d5ef3a4b0af6430d] The number shown outside and on the right of the circle in the markings relating to the items numbered 8B, 8D, 8F, 8N, 20A, 20B, 20C, 20D, 20E, 20F, 20M, 20N, 31, 31A, 31D, 31E, 31F and 31I[^key-55e967c5247b20a13c5b5c852e47a7c8] in Schedule 2 will be varied, where appropriate, in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to those markings.
+**6.**[^c-e56707a50a66f9c1d5ef3a4b0af6430d] The number shown outside and on the right of the circle in the markings relating to the items numbered 8B, 8D, 8F, 8N, 20A, 20B, 20C, 20D, 20E, 20F, 20M, 20N, 31, 31A, 31D, 31E, 31F and 31I[^c-55e967c5247b20a13c5b5c852e47a7c8] in Schedule 2 will be varied, where appropriate, in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to those markings.
 
-**7.**[^key-317318fc4803e527ff48e50886724f15] The Roman numeral shown outside and on the right of the circle in the markings relating to items No. 36, 36A, 36B and 36C in Schedule 2 will be varied, where appropriate, in cases where the vehicle to which a marking relates was placed in a class other than Class II when it was approved in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
+**7.**[^c-317318fc4803e527ff48e50886724f15] The Roman numeral shown outside and on the right of the circle in the markings relating to items No. 36, 36A, 36B and 36C in Schedule 2 will be varied, where appropriate, in cases where the vehicle to which a marking relates was placed in a class other than Class II when it was approved in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
 
-**8.**[^key-668a3a5ce3da13241fa25db9d619dd5d] The arrow shown below the circle in the marking relating to item No. 6 in Schedule 2 will point right or left according to whether the category of the motor vehicle part to which the marking relates, specified in the ECE Regulation referred to in column (5) of Schedule 2 in relation to that item, is such that the said ECE Regulation requires the arrow to point right or left. The number shown above the circle in the marking relating to the said item No. 6 will be varied, where appropriate, to the numbers 1, 2a, 2b, 3 or 5 according to the requirements of the said ECE Regulation as to the minimum angle required for the light distribution and the level of illumination of the category of motor vehicle part to which that marking relates.
+**8.**[^c-668a3a5ce3da13241fa25db9d619dd5d] The arrow shown below the circle in the marking relating to item No. 6 in Schedule 2 will point right or left according to whether the category of the motor vehicle part to which the marking relates, specified in the ECE Regulation referred to in column (5) of Schedule 2 in relation to that item, is such that the said ECE Regulation requires the arrow to point right or left. The number shown above the circle in the marking relating to the said item No. 6 will be varied, where appropriate, to the numbers 1, 2a, 2b, 3 or 5 according to the requirements of the said ECE Regulation as to the minimum angle required for the light distribution and the level of illumination of the category of motor vehicle part to which that marking relates.
 
-**9.**[^key-9afbe010161e6e636305cdfe61ec1345] The arrow shown below the circle in the markings relating to items numbered 7, 7A, 7C and 50[^key-de9e0bb6dbc7a98c3a27776dbca8750f] in Schedule 2 will—
+**9.**[^c-9afbe010161e6e636305cdfe61ec1345] The arrow shown below the circle in the markings relating to items numbered 7, 7A, 7C and 50[^c-de9e0bb6dbc7a98c3a27776dbca8750f] in Schedule 2 will—
 
 (1) point right in cases where the photometric specifications in the ECE Regulation referred to in column (5) of Schedule 2 in relation to those items are satisfied as to the angle specified in that ECE Regulation on the right side of the vehicle;
 
@@ -326,15 +326,15 @@ Parliamentary Secretary, on behalf of the Minister of Transport
 
 (3) be omitted in cases where the photometric specifications in the said ECE Regulation are satisfied as to the angle specified in that ECE Regulation on both the right and the left of the vehicle.
 
-**10.**[^key-0eb730236d47c361d9b60f86d9e0fae1] The figure “1” which follows the letter “S” in the markings relating to items numbered 7B and 7C in Schedule 2 will be varied, where appropriate, to the figure “2” according to whether the category of motor vehicle part to which those markings relate has one level of illumination or two levels of illumination in accordance with the requirements of the ECE Regulation referred to in column (5) of Schedule 2 in relation to those items.
+**10.**[^c-0eb730236d47c361d9b60f86d9e0fae1] The figure “1” which follows the letter “S” in the markings relating to items numbered 7B and 7C in Schedule 2 will be varied, where appropriate, to the figure “2” according to whether the category of motor vehicle part to which those markings relate has one level of illumination or two levels of illumination in accordance with the requirements of the ECE Regulation referred to in column (5) of Schedule 2 in relation to those items.
 
-**11.**[^key-b1e87502f45bdd9aba10fb99234d8c7a] The marking relating to item 37A or 37D may be used as an alternative to the marking relating to item 37 where there is insufficient space to affix on the lamp the marking relating to item 37.
+**11.**[^c-b1e87502f45bdd9aba10fb99234d8c7a] The marking relating to item 37A or 37D may be used as an alternative to the marking relating to item 37 where there is insufficient space to affix on the lamp the marking relating to item 37.
 
-**12.**[^key-7a4ecfef2939508b6660ee10491aceff] The number mentioned in paragraph 2 above and the additional symbol prescribed by the ECE Regulation which relates to item No. 38 in Schedule 2 may be placed in any position round the circle in the marking so long as they are diametrically opposite to each other in relation to the circle.
+**12.**[^c-7a4ecfef2939508b6660ee10491aceff] The number mentioned in paragraph 2 above and the additional symbol prescribed by the ECE Regulation which relates to item No. 38 in Schedule 2 may be placed in any position round the circle in the marking so long as they are diametrically opposite to each other in relation to the circle.
 
-**13.**[^key-955cfa1a1716f41967e33b9be7c0914f] The additional symbol AR shown above the circle in the marking relating to item No. 23A in Schedule 2 must be placed close to the circle and either above or below the “E” or to the left or right of that letter.
+**13.**[^c-955cfa1a1716f41967e33b9be7c0914f] The additional symbol AR shown above the circle in the marking relating to item No. 23A in Schedule 2 must be placed close to the circle and either above or below the “E” or to the left or right of that letter.
 
-**14.**[^key-14aacc641c743209075eb736074f2ff5] (1) In the marking relating to items No. 16 and 16A[^key-247375829e851b2e224cdb90335cb3c2] in Schedule 2 there shall be added above the circle:
+**14.**[^c-14aacc641c743209075eb736074f2ff5] (1) In the marking relating to items No. 16 and 16A[^c-247375829e851b2e224cdb90335cb3c2] in Schedule 2 there shall be added above the circle:
 
 - (a) the letter “A” in the case of a three-point belt,
 - (b) the letter “B” in the case of a lap belt, and
@@ -349,30 +349,30 @@ Parliamentary Secretary, on behalf of the Minister of Transport
   - (i) the figure “1” if the retractor is a non-locking retractor, or
   - (ii) the figure “2” if the retractor is a manually unlocking retractor, or
   - (iii) the figure “3” if the retractor is an automatically locking retractor, or
-  - (iv)[^key-dc2bc2253a77dc8c18ea419eefdb879c] the figure “4” if the retractor is an emergency locking rectractor, or
+  - (iv)[^c-dc2bc2253a77dc8c18ea419eefdb879c] the figure “4” if the retractor is an emergency locking rectractor, or
   - (v) the figure and letters “4N” if the retractor is an emergency locking retractor with higher response threshold,
 
   followed by the letter “m” if the retractor is an emergency locking retractor with multiple sensitivity.
 
-(4)[^key-a980deafcc64eea92f031328e4b34fca] In the case of a marking prescribed at item 16A in Schedule 2, the marking shall bear a symbol consisting of a rectangle with a motor vehicle in category M1 crossed out if the safety belt is fitted with a retractor which during normal driving conditions does not restrict the freedom of movement by the wearer of the safety belt, but has special properties as regards its use in vehicles in categories M2, M3, N1, N2 and N3.
+(4)[^c-a980deafcc64eea92f031328e4b34fca] In the case of a marking prescribed at item 16A in Schedule 2, the marking shall bear a symbol consisting of a rectangle with a motor vehicle in category M1 crossed out if the safety belt is fitted with a retractor which during normal driving conditions does not restrict the freedom of movement by the wearer of the safety belt, but has special properties as regards its use in vehicles in categories M2, M3, N1, N2 and N3.
 
 **15.** The number mentioned in paragraph 2 above and the letter or letters mentioned in paragraph 14 above may be placed in any position round the circle in the marking so long as they are diametrically opposite each other in relation to the circle.
 
-**16.**[^key-311275d7a0a5e51717bbaf8204a936ec] The figure in the rectangle above the circle in the marking relating to item No. 24A in Schedule 2 (which indicates the corrected absorption coefficient of the vehicle part to which that marking relates) will be varied in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
+**16.**[^c-311275d7a0a5e51717bbaf8204a936ec] The figure in the rectangle above the circle in the marking relating to item No. 24A in Schedule 2 (which indicates the corrected absorption coefficient of the vehicle part to which that marking relates) will be varied in accordance with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
 
-**17.** In relation to the markings prescribed at[^key-50d7a0c1b1c22c694dcfe9fbf4171a39] items No. 44, 44A and 44B[^key-c4aa87ab1aa02fc2b82e89e68ff1991f] in Schedule 2—
+**17.** In relation to the markings prescribed at[^c-50d7a0c1b1c22c694dcfe9fbf4171a39] items No. 44, 44A and 44B[^c-c4aa87ab1aa02fc2b82e89e68ff1991f] in Schedule 2—
 
 (1) the approval number and any additional symbol outside the marking in relation to this item must be placed close to the circle, and either above or below the “E” or to the left or right of it, the digits of the approval number must be on the same side of the “E” and oriented in the same direction, and any additional symbol must be diametrically opposite the approval number;
 
-(2) the word “universal” shall form part of the marking if the child restraint is manufactured for use in all types of vehicle, but the word “non-universal” shall form part of the marking instead of the word “universal” if the child restraint is not manufactured for use in all types of vehicle; [^key-1b2ff4ce2029349b9322abd15621d771] ...
+(2) the word “universal” shall form part of the marking if the child restraint is manufactured for use in all types of vehicle, but the word “non-universal” shall form part of the marking instead of the word “universal” if the child restraint is not manufactured for use in all types of vehicle; [^c-1b2ff4ce2029349b9322abd15621d771] ...
 
-(3) the figures “9–36” following the word “universal” or, as the case may be, “non-universal” shall be varied so as to show the weight group for which the child restraint is manufactured being—[^key-a73523f4ee9ff54d37ce6a7d935a653d]
+(3) the figures “9–36” following the word “universal” or, as the case may be, “non-universal” shall be varied so as to show the weight group for which the child restraint is manufactured being—[^c-a73523f4ee9ff54d37ce6a7d935a653d]
 
 - (a) in the case of a marking prescribed at item 44B–
   - 0–10 kilogrammes,
   - 0–18 kilogrammes,
   - 0–25 kilogrammes,
-  - 0-36 kilogrammes,[^key-bd2081b4cee15b9aae61b70cb4148c1e]
+  - 0-36 kilogrammes,[^c-bd2081b4cee15b9aae61b70cb4148c1e]
   - 9–18 kilogrammes,
   - 15–25 kilogrammes,
   - 22–36 kilogrammes,
@@ -383,11 +383,11 @@ Parliamentary Secretary, on behalf of the Minister of Transport
   - 15–25 kilogrammes,
   - 22–36 kilogrammes,
   - 9–25 kilogrammes, or
-  - 15–36 kilogrammes ; and[^key-33d11482b525d2ea6fc5f49f62a6a2bc]
+  - 15–36 kilogrammes ; and[^c-33d11482b525d2ea6fc5f49f62a6a2bc]
 
 (4) the symbol “Y” shall form part of the marking prescribed at item 44B if the child restraint contains a crotch strap in conformity with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
 
-**17A.**[^key-a42090f1f898ec38f684429a4e173e99] In relation to the marking prescribed at item No. 44C in Schedule 2 —
+**17A.**[^c-a42090f1f898ec38f684429a4e173e99] In relation to the marking prescribed at item No. 44C in Schedule 2 —
 
 (1) the approval number and any additional symbol outside the marking in relation to this item must be placed close to the circle, and either above or below the “E” or to the left or right of it, the digits of the approval number must be on the same side of the “E” and orientated in the same direction, and any additional symbol must be diatmetrically opposite the approval number;
 
@@ -410,11 +410,11 @@ Parliamentary Secretary, on behalf of the Minister of Transport
 
 (5) the symbol “Y” shall form part of the marking if the child restraint contains a crotch strap in conformity with the requirements of the ECE Regulation specified in column (5) of Schedule 2 in relation to that marking.
 
-**18.**[^key-4ae732ac4252ecc6212fbcbe0109c558] In relation to the marking prescribed at item 50, “11” shall appear above the circle where the direction indicator is fitted to the front of the vehicle, “12” shall appear above the circle where the direction indicator is fitted to the rear of the vehicle and “31” shall appear above the circle where the direction indicator is fitted to the side of the vehicle. In the case of a direction indicator which does not on one side attain the minimum luminous intensity prescribed up to a minimum horizontal angle for spacial light distribution H=80° (according to paragraph 7.7.1 of, and Annex 1 to ECE Regulation 50), a horizontal arrow shall appear, the tip of which is oriented to the side where the minimum luminous intensity according to the said paragraph 7.7.1. is complied with up to an angle of at least 80°.
+**18.**[^c-4ae732ac4252ecc6212fbcbe0109c558] In relation to the marking prescribed at item 50, “11” shall appear above the circle where the direction indicator is fitted to the front of the vehicle, “12” shall appear above the circle where the direction indicator is fitted to the rear of the vehicle and “31” shall appear above the circle where the direction indicator is fitted to the side of the vehicle. In the case of a direction indicator which does not on one side attain the minimum luminous intensity prescribed up to a minimum horizontal angle for spacial light distribution H=80° (according to paragraph 7.7.1 of, and Annex 1 to ECE Regulation 50), a horizontal arrow shall appear, the tip of which is oriented to the side where the minimum luminous intensity according to the said paragraph 7.7.1. is complied with up to an angle of at least 80°.
 
 **19.** In relation to the marking prescribed at item 50A, the letter “M” shall appear on a lamp being a rear position lamp for a moped that has a minimum value of 2 cd.
 
-## SCHEDULE 4 — APPROVAL MARKS REQUIRED BY COMMUNITY INSTRUMENTS—LIST[^key-eafbec837c3c84025f1fc093e5609072]
+## SCHEDULE 4 — APPROVAL MARKS REQUIRED BY COMMUNITY INSTRUMENTS—LIST[^c-eafbec837c3c84025f1fc093e5609072]
 
 <table>
 <thead>
@@ -467,29 +467,29 @@ Parliamentary Secretary, on behalf of the Minister of Transport
 </tbody>
 </table>
 
-[^key-2ec2331ac7f1dc0eda7a3451285bc8ad][^key-5c6dd66dd3670b75027b50e9800b9d17][^key-910465747a5c05f6ed659c35a97f397d][^key-ba05abe306566850da6822cb83331da2][^key-840856f494cd3932e06544030fea1d08][^key-a4dd4da58ee7f4bf79c1c27f594082b4][^key-94cb032bb0aed84dceb09f43ac1de79f][^key-f0aebc0f37d45c30cb22e9c3a953881d][^key-f863311ba360755d79a67db183641d23][^key-03ff10b805618863d592ca2deb497150][^key-85e731b7f8572ec5eec2ead506692415][^key-c50589c8c5efbe07283bbac287dd7576][^key-e3012de835a9fadb5a79feafe01e63fe][^key-6622098d98df1eeddb21dc321ea5c825]
+[^c-2ec2331ac7f1dc0eda7a3451285bc8ad][^c-5c6dd66dd3670b75027b50e9800b9d17][^c-910465747a5c05f6ed659c35a97f397d][^c-ba05abe306566850da6822cb83331da2][^c-840856f494cd3932e06544030fea1d08][^c-a4dd4da58ee7f4bf79c1c27f594082b4][^c-94cb032bb0aed84dceb09f43ac1de79f][^c-f0aebc0f37d45c30cb22e9c3a953881d][^c-f863311ba360755d79a67db183641d23][^c-03ff10b805618863d592ca2deb497150][^c-85e731b7f8572ec5eec2ead506692415][^c-c50589c8c5efbe07283bbac287dd7576][^c-e3012de835a9fadb5a79feafe01e63fe][^c-6622098d98df1eeddb21dc321ea5c825]
 
 ## SCHEDULE 5 — APPROVAL MARKS REQUIRED BY COMMUNITY INSTRUMENTS—REQUIREMENTS AND VARIATIONS
 
-**1.**[^key-185837c32c569cc9434155cb79a76502] The number shown inside the rectangle in the markings in column (2) of Schedule 4 will be varied, where appropriate, so as to be the number assigned by the relevant Community Instrument to the country which has granted the approval.
+**1.**[^c-185837c32c569cc9434155cb79a76502] The number shown inside the rectangle in the markings in column (2) of Schedule 4 will be varied, where appropriate, so as to be the number assigned by the relevant Community Instrument to the country which has granted the approval.
 
-**2.**[^key-51b6504b9ca625fb7141d27119ca76f1] Subject to paragraph 15 below[^key-454144243b239ec6065e1a5f80e273ce] the number shown outside and below the rectangle in any of the said markings will be varied, where appropriate, so as to be the number of the approval document issued for the motor vehicle part concerned. The number will be close to and outside the rectangle in such a position relative to it as may be authorised by the relevant Community Instrument but will be aligned so as to be read in the same direction as the number inside the rectangle.
+**2.**[^c-51b6504b9ca625fb7141d27119ca76f1] Subject to paragraph 15 below[^c-454144243b239ec6065e1a5f80e273ce] the number shown outside and below the rectangle in any of the said markings will be varied, where appropriate, so as to be the number of the approval document issued for the motor vehicle part concerned. The number will be close to and outside the rectangle in such a position relative to it as may be authorised by the relevant Community Instrument but will be aligned so as to be read in the same direction as the number inside the rectangle.
 
-**3.**[^key-c79b33c49e3d7f0bcbd0fb0bbf565b80] The Roman numeral shown outside and immediately above the rectangle in the marking relating to item No. 2 in Schedule 4 will be varied, where appropriate, to be the Roman numeral signifying the class of the motor vehicle part concerned.
+**3.**[^c-c79b33c49e3d7f0bcbd0fb0bbf565b80] The Roman numeral shown outside and immediately above the rectangle in the marking relating to item No. 2 in Schedule 4 will be varied, where appropriate, to be the Roman numeral signifying the class of the motor vehicle part concerned.
 
-**4.**[^key-0f1c71c93a39b866ff26080c19314029] The number mentioned in paragraph 2 above and the Roman numeral mentioned in paragraph 3 above may be placed in any position in relation to the rectangle in the said marking so long as they are diametrically opposite to each other.
+**4.**[^c-0f1c71c93a39b866ff26080c19314029] The number mentioned in paragraph 2 above and the Roman numeral mentioned in paragraph 3 above may be placed in any position in relation to the rectangle in the said marking so long as they are diametrically opposite to each other.
 
-**5.**[^key-3922a3d1eb6eed6be73905e6e4986069] The arrow shown outside and immediately below the rectangle in the markings relating to item Nos. 5 and 8 in Schedule 4 indicate the side on which the photometric specifications are satisfied up to an angle of 80°H on front position (side) lamps or rear position (side) lamps whose geometric angles of visibility are asymmetrical in relation to the reference axis in a horizontal direction. The absence of an arrow means that, both left and right, the photometric specifications are satisfied up to an angle of 80°H on such lamps.
+**5.**[^c-3922a3d1eb6eed6be73905e6e4986069] The arrow shown outside and immediately below the rectangle in the markings relating to item Nos. 5 and 8 in Schedule 4 indicate the side on which the photometric specifications are satisfied up to an angle of 80°H on front position (side) lamps or rear position (side) lamps whose geometric angles of visibility are asymmetrical in relation to the reference axis in a horizontal direction. The absence of an arrow means that, both left and right, the photometric specifications are satisfied up to an angle of 80°H on such lamps.
 
-**6.**[^key-df85882d8846532d06e26894c8b864ce] The absence of an arrow immediately below the rectangle in the marking relating to item No. 6 in Schedule 4 indicates that, both left and right, the photometric specifications are satisfied up to an angle of 80°H on rear position (side) lamps whose geometric angles of visibility are asymmetrical in relation to the reference axis in a horizontal direction. In cases where such lamps satisfy the said specifications up to an angle of 80°H only to the left or only to the right an arrow indicating the side to which the said specifications are so satisfied shall be added immediately below the rectangle in the said marking.
+**6.**[^c-df85882d8846532d06e26894c8b864ce] The absence of an arrow immediately below the rectangle in the marking relating to item No. 6 in Schedule 4 indicates that, both left and right, the photometric specifications are satisfied up to an angle of 80°H on rear position (side) lamps whose geometric angles of visibility are asymmetrical in relation to the reference axis in a horizontal direction. In cases where such lamps satisfy the said specifications up to an angle of 80°H only to the left or only to the right an arrow indicating the side to which the said specifications are so satisfied shall be added immediately below the rectangle in the said marking.
 
-**7.**[^key-8eb9d43d2749f438e79a3198034e8554] The number shown outside and immediately above the rectangle in the marking relating to item 9 in Schedule 4 will be varied, where appropriate, to be the number 1 or 2 where the direction indicator to which the marking relates belongs to category 1 or category 2, as the case may be, specified in the Community Instrument referred to in column (5) in relation to that item. The arrow shown outside and immediately below the said rectangle indicates in what position such of the direction indicators to which the said marking relates as can be mounted on one side of the vehicle shall be placed. The arrow shall be directed outwards from the vehicle in the case of a direction indicator in category 1 or category 2 specified in the said Community Instrument, and towards the front of the vehicle in the case of a direction indicator in category 5 specified in the said Community Instrument.
+**7.**[^c-8eb9d43d2749f438e79a3198034e8554] The number shown outside and immediately above the rectangle in the marking relating to item 9 in Schedule 4 will be varied, where appropriate, to be the number 1 or 2 where the direction indicator to which the marking relates belongs to category 1 or category 2, as the case may be, specified in the Community Instrument referred to in column (5) in relation to that item. The arrow shown outside and immediately below the said rectangle indicates in what position such of the direction indicators to which the said marking relates as can be mounted on one side of the vehicle shall be placed. The arrow shall be directed outwards from the vehicle in the case of a direction indicator in category 1 or category 2 specified in the said Community Instrument, and towards the front of the vehicle in the case of a direction indicator in category 5 specified in the said Community Instrument.
 
-**8.**[^key-3c5d326e6e76b119574c2531202225ab] The number shown in the marking relating to items 20, 21, 22, 24 and 25[^key-e8ea8e9c2d5957561eb6ee471ce82f72] in Schedule 4 below the rectangle surrounding the letter “e” shall be varied so as to be the type approval number relating to the motor vehicle part specified in column (3) of the said items, and that number may be placed in any convenient position near the said rectangle.
+**8.**[^c-3c5d326e6e76b119574c2531202225ab] The number shown in the marking relating to items 20, 21, 22, 24 and 25[^c-e8ea8e9c2d5957561eb6ee471ce82f72] in Schedule 4 below the rectangle surrounding the letter “e” shall be varied so as to be the type approval number relating to the motor vehicle part specified in column (3) of the said items, and that number may be placed in any convenient position near the said rectangle.
 
-**9.**[^key-eb5a70854c28467ad4df0d80ea7546b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-eb5a70854c28467ad4df0d80ea7546b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7164554a490b77defb554b8adafb42d1] (1) In the markings relating to items 23, 23A and 23B[^key-04235bb86d2c7f12040e81e84a53e5ab] in Schedule 4 there shall be added above the rectangle:—
+**10.**[^c-7164554a490b77defb554b8adafb42d1] (1) In the markings relating to items 23, 23A and 23B[^c-04235bb86d2c7f12040e81e84a53e5ab] in Schedule 4 there shall be added above the rectangle:—
 
 - (a) the letter “A” in the case of a three-point belt,
 - (b) the letter “B” in the case of a lap belt, and
@@ -499,32 +499,32 @@ Parliamentary Secretary, on behalf of the Minister of Transport
 
 (3) The letters referred to in sub-paragraph (1) above shall be supplemented by:—
 
-- (a) in the case of a safety belt fitted with an energy absorber, the letter “e”; [^key-e14bdfccf442536fe142de1b205b2825]...
+- (a) in the case of a safety belt fitted with an energy absorber, the letter “e”; [^c-e14bdfccf442536fe142de1b205b2825]...
 - (b) in the case of a safety belt fitted with a retractor, the letter “r” followed by:—
   - (i) the figure “1” if the retractor is a non-locking retractor, or
   - (ii) the figure “2” if the retractor is a manually unlocking retractor, or
   - (iii) the figure “3” if the retractor is an automatically locking retractor, or
-  - (iv)[^key-175fc7b0626795a5e04e17aeafd71ca7] the figure “4” if the retractor is an emergency locking retractor, or
+  - (iv)[^c-175fc7b0626795a5e04e17aeafd71ca7] the figure “4” if the retractor is an emergency locking retractor, or
   - (v) the figure and letter “4N” if the retractor is an emergency locking retractor with higher response threshold,
 
   followed by the letter “m” if the retractor is an emergency locking retractor with multiple sensitivity; and
-- (c)[^key-238884b82823cb3039711dd0e9d59525] in the case of a safety belt with a pre-loading device, the letter “p”.
+- (c)[^c-238884b82823cb3039711dd0e9d59525] in the case of a safety belt with a pre-loading device, the letter “p”.
 
-(4)[^key-70bd32dad5eedda38eab994a5a2edbbd] In the case of a marking prescribed at either item 23A or item 23B in Schedule 4, the marking shall bear a symbol consisting of a rectangle with a motor vehicle of category M1 crossed out, if the safety belt is fitted with a retractor which, in normal driving conditions, does not restrict the freedom of movement of the wearer of the safety belt, but has special properties as regards use in vehicles of categories M2, M3, N1, N2 and N3.
+(4)[^c-70bd32dad5eedda38eab994a5a2edbbd] In the case of a marking prescribed at either item 23A or item 23B in Schedule 4, the marking shall bear a symbol consisting of a rectangle with a motor vehicle of category M1 crossed out, if the safety belt is fitted with a retractor which, in normal driving conditions, does not restrict the freedom of movement of the wearer of the safety belt, but has special properties as regards use in vehicles of categories M2, M3, N1, N2 and N3.
 
-**11.**[^key-352330d9eaf20e23951629faa4741264] The Roman numeral shown outside and above the rectangle in the marking relating to item No. 2A in Schedule 4 will—
+**11.**[^c-352330d9eaf20e23951629faa4741264] The Roman numeral shown outside and above the rectangle in the marking relating to item No. 2A in Schedule 4 will—
 
 - (a) be I if the mirror is an interior rear-view mirror, II if the mirror is an exterior rear-view mirror fitted on a vehicle in category M2, M3, N2 or N3, and either II or III if the mirror is an exterior rear-view mirror fitted on a vehicle in category M1 or N1;
 - (b) be supplemented by the letter “s” if the mirror is an additional rear-view mirror as defined in Commission Directive 79/795/EEC.
 
-**12.**[^key-bbc1809e51147fb68d1c8b0aed6e0f59] In the marking relating to item 30 in Schedule 4–
+**12.**[^c-bbc1809e51147fb68d1c8b0aed6e0f59] In the marking relating to item 30 in Schedule 4–
 
 - (a) the number referred to in paragraph 2 above will be placed close to the rectangle, either below the letter "e', or to the left or the right of that letter; and
 - (b) there shall be added, above and close to the rectangle:–
   - (i) the letter “A” if the device is of the energy absorption type, or
   - (ii) the letter “S” if the device is of the air/water separator type.
 
-**13.**[^key-27c73c1a608589b45cc131fd985bc30f] The Roman numeral shown outside and above the rectangle in the marking relating to item 31 in Schedule 4 shall be—
+**13.**[^c-27c73c1a608589b45cc131fd985bc30f] The Roman numeral shown outside and above the rectangle in the marking relating to item 31 in Schedule 4 shall be—
 
 - (a) II, if the windscreen is made of ordinary laminated glass;
 - (b) III, if the windscreen is made of treated laminated glass which is not coated; or
@@ -545,7 +545,7 @@ Parliamentary Secretary, on behalf of the Minister of Transport
 
 The number shall be close to and outside the rectangle but may be above or below or to the left or to the right of it but shall be aligned so as to be read in the same direction as the number inside the rectangle.
 
-**16.**[^key-a8786808b4c1dc7141f9e5915f571a55] In relation to the marking prescribed at item No. 34 in Schedule 4 —
+**16.**[^c-a8786808b4c1dc7141f9e5915f571a55] In relation to the marking prescribed at item No. 34 in Schedule 4 —
 
 - (a) the symbol [image: see source](https://www.legislation.gov.uk/uksi/1979/1088/images/uksi_19791088_en_epp_121.gif), indicating that the burning rate of the material has been determined for both the horizontal and the vertical directions, shall be varied, where appropriate, to either of the symbols [image: see source](https://www.legislation.gov.uk/uksi/1979/1088/images/uksi_19791088_en_epp_122.gif) or [image: see source](https://www.legislation.gov.uk/uksi/1979/1088/images/uksi_19791088_en_epp_123.gif) to indicate respectively that the burning rate has been determined for either the horizontal or vertical direction;
 - (b) the symbol [image: see source](https://www.legislation.gov.uk/uksi/1979/1088/images/uksi_19791088_en_epp_124.gif) shall only form part of the marking if the component has been approved according to its melting behaviour;
@@ -595,13 +595,13 @@ the Secretary of State may by regulations designate the markings as approval mar
 
 [^f00002]: Footnote: S.I. 1979/571.
 
-[^key-3614ab2ea2fa9102a58a241a4bb4c352]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-3614ab2ea2fa9102a58a241a4bb4c352]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-d02fcc3c04a9c145549edc5c1230893a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1979/1088/regulation/2) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-d02fcc3c04a9c145549edc5c1230893a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1979/1088/regulation/2) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-2dfd6596e96c1ffa0fd7e0ab1415d325]: Commencement: Reg. 3 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-2dfd6596e96c1ffa0fd7e0ab1415d325]: Commencement: Reg. 3 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-8f6837bc00c86123dc07291b8c0f39ce]: Textual amendment: Words in reg. 3(1) inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [regs. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [3](https://www.legislation.gov.uk/uksi/1986/369/regulation/3)
+[^c-8f6837bc00c86123dc07291b8c0f39ce]: Textual amendment: Words in reg. 3(1) inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [regs. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [3](https://www.legislation.gov.uk/uksi/1986/369/regulation/3)
 
 [^f00003]: Footnote: Cmnd. 2535.
 
@@ -609,228 +609,228 @@ the Secretary of State may by regulations designate the markings as approval mar
 
 [^f00005]: Footnote: By instrument of accession dated 14th January 1963 deposited with the Secretary-General of the United Nations on 15th January 1963.
 
-[^key-48f96be414ec42116ba34027e446138c]: Textual amendment: Reg. 3(2) substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [3](https://www.legislation.gov.uk/uksi/1989/1014/regulation/3)
+[^c-48f96be414ec42116ba34027e446138c]: Textual amendment: Reg. 3(2) substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [3](https://www.legislation.gov.uk/uksi/1989/1014/regulation/3)
 
-[^key-1140dd97572e0800e684a8fce4fcd0a3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1979/1088/regulation/4) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-1140dd97572e0800e684a8fce4fcd0a3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1979/1088/regulation/4) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-9e8bab4517b71c87ab81494c934de4fd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1979/1088/regulation/5) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-9e8bab4517b71c87ab81494c934de4fd]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1979/1088/regulation/5) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-9e6ab71557d3281d2574f6e455726911]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1979/1088/regulation/6) inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [3](https://www.legislation.gov.uk/uksi/1981/1732/regulation/3)
+[^c-9e6ab71557d3281d2574f6e455726911]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/1979/1088/regulation/6) inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [3](https://www.legislation.gov.uk/uksi/1981/1732/regulation/3)
 
-[^key-89f92c1597730bc1f77f68e5f08fc92f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1979/1088/schedule/1) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-89f92c1597730bc1f77f68e5f08fc92f]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1979/1088/schedule/1) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
 [^M_I_2c98f7ad-7514-49b6-c740-72d0bcfd1df6]: Commencement: Sch. 2 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-098b9785d3644e691ff2bbef821f9ebc]: Textual amendment: Word in Sch. 2 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1980/582/regulation/3/a)
+[^c-098b9785d3644e691ff2bbef821f9ebc]: Textual amendment: Word in Sch. 2 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1980/582/regulation/3/a)
 
-[^key-008afce64c77a84252f52935602f54fa]: Textual amendment: Sch. 2 Items 3A, 3B inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
+[^c-008afce64c77a84252f52935602f54fa]: Textual amendment: Sch. 2 Items 3A, 3B inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
 
-[^key-8780365c5338a195c56d2ac6ef918574]: Textual amendment: Sch. 2 Item 3A: in column (2), “01216” is substituted for “216” (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/3/a)
+[^c-8780365c5338a195c56d2ac6ef918574]: Textual amendment: Sch. 2 Item 3A: in column (2), “01216” is substituted for “216” (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/3/a)
 
-[^key-78595b0322fd4be514024155b02852c9]: Textual amendment: Sch. 2 Item 3B: in column (2), “01216” is substituted for “216” (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/3/b)
+[^c-78595b0322fd4be514024155b02852c9]: Textual amendment: Sch. 2 Item 3B: in column (2), “01216” is substituted for “216” (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/3/b)
 
-[^key-174263b5a41ffb372f963348e4a0a803]: Textual amendment: Sch. 2 Item 7D inserted (5.2.1996) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1995 (S.I. 1995/3342)](https://www.legislation.gov.uk/uksi/1995/3342), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3342/regulation/1), [3](https://www.legislation.gov.uk/uksi/1995/3342/regulation/3)
+[^c-174263b5a41ffb372f963348e4a0a803]: Textual amendment: Sch. 2 Item 7D inserted (5.2.1996) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1995 (S.I. 1995/3342)](https://www.legislation.gov.uk/uksi/1995/3342), [regs. 1](https://www.legislation.gov.uk/uksi/1995/3342/regulation/1), [3](https://www.legislation.gov.uk/uksi/1995/3342/regulation/3)
 
-[^key-4407ee07e3f82b5e1d29d6c220d0de56]: Textual amendment: Sch. 2 Item 11B inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1981/1732/regulation/4/a)
+[^c-4407ee07e3f82b5e1d29d6c220d0de56]: Textual amendment: Sch. 2 Item 11B inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1981/1732/regulation/4/a)
 
-[^key-48a51c9fafa86e3ca93abc0a8fc9f9ad]: Textual amendment: Sch. 2 Item 12B inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
+[^c-48a51c9fafa86e3ca93abc0a8fc9f9ad]: Textual amendment: Sch. 2 Item 12B inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
 
-[^key-e4acb4644e26b56548673721f4d115ad]: Textual amendment: Words in Sch. 2 omitted (23.5.1980) by virtue of [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1980/582/regulation/3/b)
+[^c-e4acb4644e26b56548673721f4d115ad]: Textual amendment: Words in Sch. 2 omitted (23.5.1980) by virtue of [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1980/582/regulation/3/b)
 
-[^key-3eaf07d98f876932422c9899218861f7]: Textual amendment: Words in Sch. 2 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/1980/582/regulation/3/c)
+[^c-3eaf07d98f876932422c9899218861f7]: Textual amendment: Words in Sch. 2 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/1980/582/regulation/3/c)
 
-[^key-57d79098f37a582e4f91896cfbb3c1ac]: Textual amendment: Sch. 2 Items 13B, 13C inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
+[^c-57d79098f37a582e4f91896cfbb3c1ac]: Textual amendment: Sch. 2 Items 13B, 13C inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
 
-[^key-360d54fe44893aca33fe349dcec46f33]: Textual amendment: Sch. 2 Items 13D, 13E inserted (2.3.1985) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1985 (S.I. 1985/113)](https://www.legislation.gov.uk/uksi/1985/113), [reg. 1](https://www.legislation.gov.uk/uksi/1985/113/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1985/113/schedule)
+[^c-360d54fe44893aca33fe349dcec46f33]: Textual amendment: Sch. 2 Items 13D, 13E inserted (2.3.1985) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1985 (S.I. 1985/113)](https://www.legislation.gov.uk/uksi/1985/113), [reg. 1](https://www.legislation.gov.uk/uksi/1985/113/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1985/113/schedule)
 
-[^key-24d7dc5f87cfaf6fbfe88f0ec079d939]: Textual amendment: Sch. 2 Item 14A inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule)
+[^c-24d7dc5f87cfaf6fbfe88f0ec079d939]: Textual amendment: Sch. 2 Item 14A inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule)
 
-[^key-5e2248ffdd425542dcd72c9ad98c64f0]: Textual amendment: Sch. 2 Item 14B inserted (10.8.1993) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1993 (S.I. 1993/1710)](https://www.legislation.gov.uk/uksi/1993/1710), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1710/regulation/1), [3](https://www.legislation.gov.uk/uksi/1993/1710/regulation/3)
+[^c-5e2248ffdd425542dcd72c9ad98c64f0]: Textual amendment: Sch. 2 Item 14B inserted (10.8.1993) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1993 (S.I. 1993/1710)](https://www.legislation.gov.uk/uksi/1993/1710), [regs. 1](https://www.legislation.gov.uk/uksi/1993/1710/regulation/1), [3](https://www.legislation.gov.uk/uksi/1993/1710/regulation/3)
 
-[^key-59f08d9da820cbf772ee94cedb13962f]: Textual amendment: Sch. 2 Item 15D inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
+[^c-59f08d9da820cbf772ee94cedb13962f]: Textual amendment: Sch. 2 Item 15D inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
 
-[^key-5e2211f47e3b945ee8b39fce1524b13d]: Textual amendment: Sch. 2 Item 16 inserted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/1980/582/regulation/3/d)
+[^c-5e2211f47e3b945ee8b39fce1524b13d]: Textual amendment: Sch. 2 Item 16 inserted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/1980/582/regulation/3/d)
 
-[^key-f147eaa39b0c3e83c8ed9c6c5879054f]: Textual amendment: Sch. 2 Item 16A inserted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [reg. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1989/1014/schedule)
+[^c-f147eaa39b0c3e83c8ed9c6c5879054f]: Textual amendment: Sch. 2 Item 16A inserted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [reg. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1989/1014/schedule)
 
-[^key-a8163e6d6010aa03a468e5e47e59a199]: Textual amendment: Sch. 2 Item 17B inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1981/1732/regulation/4/b)
+[^c-a8163e6d6010aa03a468e5e47e59a199]: Textual amendment: Sch. 2 Item 17B inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1981/1732/regulation/4/b)
 
-[^key-36f19f08f53f16016d2e555055d3b11a]: Textual amendment: Sch. 2 Item 18A inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1981/1732/regulation/4/c)
+[^c-36f19f08f53f16016d2e555055d3b11a]: Textual amendment: Sch. 2 Item 18A inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1981/1732/regulation/4/c)
 
-[^key-c21dfb78a5d1a04d623ece43e67f9044]: Textual amendment: Sch. 2 Item 21A inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/1981/1732/regulation/4/d)
+[^c-c21dfb78a5d1a04d623ece43e67f9044]: Textual amendment: Sch. 2 Item 21A inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/1981/1732/regulation/4/d)
 
-[^key-af94da1e3605e236be07c4612da513fa]: Textual amendment: Sch. 2 Item 24A inserted (5.3.1981) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1981 (S.I. 1981/126)](https://www.legislation.gov.uk/uksi/1981/126), [regs. 1](https://www.legislation.gov.uk/uksi/1981/126/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1981/126/regulation/3/a)
+[^c-af94da1e3605e236be07c4612da513fa]: Textual amendment: Sch. 2 Item 24A inserted (5.3.1981) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1981 (S.I. 1981/126)](https://www.legislation.gov.uk/uksi/1981/126), [regs. 1](https://www.legislation.gov.uk/uksi/1981/126/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1981/126/regulation/3/a)
 
-[^key-4330c9be44b47388319e38c6bf4c1900]: Textual amendment: Sch. 2 Items 25B, 25C inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
+[^c-4330c9be44b47388319e38c6bf4c1900]: Textual amendment: Sch. 2 Items 25B, 25C inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
 
-[^key-0bb824f1dc293014ec79f6b4503e6c85]: Textual amendment: Sch. 2 Item 27A inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule)
+[^c-0bb824f1dc293014ec79f6b4503e6c85]: Textual amendment: Sch. 2 Item 27A inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule)
 
-[^key-17b3b140fc78f008dbd3dea693020068]: Textual amendment: Sch. 2 Items 31E-31I inserted (2.3.1985) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1985 (S.I. 1985/113)](https://www.legislation.gov.uk/uksi/1985/113), [reg. 1](https://www.legislation.gov.uk/uksi/1985/113/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1985/113/schedule)
+[^c-17b3b140fc78f008dbd3dea693020068]: Textual amendment: Sch. 2 Items 31E-31I inserted (2.3.1985) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1985 (S.I. 1985/113)](https://www.legislation.gov.uk/uksi/1985/113), [reg. 1](https://www.legislation.gov.uk/uksi/1985/113/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1985/113/schedule)
 
-[^key-38ce8e907a48fc4df929f8d0d8e30fb2]: Textual amendment: Sch. 2 Item 36A inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
+[^c-38ce8e907a48fc4df929f8d0d8e30fb2]: Textual amendment: Sch. 2 Item 36A inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1982/1479/schedule)
 
-[^key-160e42d1e401fee12652577a7f9c2c9c]: Textual amendment: Sch. 2 Item 36B inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
+[^c-160e42d1e401fee12652577a7f9c2c9c]: Textual amendment: Sch. 2 Item 36B inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
 
-[^key-b8b088a4c674004b64d5db14873a080e]: Textual amendment: Sch. 2 Item 36C inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
+[^c-b8b088a4c674004b64d5db14873a080e]: Textual amendment: Sch. 2 Item 36C inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
 
-[^key-09793583ff9be017fd9ead2972259d00]: Textual amendment: Sch. 2 Items 37B, 37C inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [reg. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1983/1602/schedule)
+[^c-09793583ff9be017fd9ead2972259d00]: Textual amendment: Sch. 2 Items 37B, 37C inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [reg. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1983/1602/schedule)
 
-[^key-e9eb1caf8a247f7e72ff85e67cd9c4d1]: Textual amendment: Words in Sch. 2 Item 37B substituted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [regs. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1986/369/regulation/4/c)
+[^c-e9eb1caf8a247f7e72ff85e67cd9c4d1]: Textual amendment: Words in Sch. 2 Item 37B substituted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [regs. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1986/369/regulation/4/c)
 
-[^key-debf45507faec61e9ac1fae481be9ffa]: Textual amendment: Words in Sch. 2 Item 37C substituted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [regs. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1986/369/regulation/4/c)
+[^c-debf45507faec61e9ac1fae481be9ffa]: Textual amendment: Words in Sch. 2 Item 37C substituted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [regs. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1986/369/regulation/4/c)
 
-[^key-41c5ee5200ace5110c17f11585b5766e]: Textual amendment: Sch. 2 Item 37D inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule)
+[^c-41c5ee5200ace5110c17f11585b5766e]: Textual amendment: Sch. 2 Item 37D inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule)
 
-[^key-eadaf356fefc6a237c0a77fa4589044b]: Textual amendment: Sch. 2 Items 43-43C inserted (15.2.1981) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1980 (S.I. 1980/2027)](https://www.legislation.gov.uk/uksi/1980/2027), [regs. 1](https://www.legislation.gov.uk/uksi/1980/2027/regulation/1), [3](https://www.legislation.gov.uk/uksi/1980/2027/regulation/3)
+[^c-eadaf356fefc6a237c0a77fa4589044b]: Textual amendment: Sch. 2 Items 43-43C inserted (15.2.1981) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1980 (S.I. 1980/2027)](https://www.legislation.gov.uk/uksi/1980/2027), [regs. 1](https://www.legislation.gov.uk/uksi/1980/2027/regulation/1), [3](https://www.legislation.gov.uk/uksi/1980/2027/regulation/3)
 
-[^key-d35fc940edb6addb15e0dcc525fceb60]: Textual amendment: Sch. 2 Item 44 inserted (5.3.1981) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1981 (S.I. 1981/126)](https://www.legislation.gov.uk/uksi/1981/126), [regs. 1](https://www.legislation.gov.uk/uksi/1981/126/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1981/126/regulation/3/b)
+[^c-d35fc940edb6addb15e0dcc525fceb60]: Textual amendment: Sch. 2 Item 44 inserted (5.3.1981) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1981 (S.I. 1981/126)](https://www.legislation.gov.uk/uksi/1981/126), [regs. 1](https://www.legislation.gov.uk/uksi/1981/126/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1981/126/regulation/3/b)
 
-[^key-abdf8e8c79cd6b73fd680e3cd986e7d5]: Textual amendment: Sch. 2 Item 44A inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [reg. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1983/1602/schedule)
+[^c-abdf8e8c79cd6b73fd680e3cd986e7d5]: Textual amendment: Sch. 2 Item 44A inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [reg. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1983/1602/schedule)
 
-[^key-886ed157cd3ddaa46739b3d06eac78d9]: Textual amendment: Sch. 2 Item 44B inserted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [reg. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1989/1014/schedule)
+[^c-886ed157cd3ddaa46739b3d06eac78d9]: Textual amendment: Sch. 2 Item 44B inserted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [reg. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1989/1014/schedule)
 
-[^key-a1f14c14ecf05287c9e755a893a59d71]: Textual amendment: Sch. 2 Item 44C inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
+[^c-a1f14c14ecf05287c9e755a893a59d71]: Textual amendment: Sch. 2 Item 44C inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
 
-[^key-4cfd82276c7b19778c0f31d6543f3f92]: Textual amendment: Sch. 2 Item 48 inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule)
+[^c-4cfd82276c7b19778c0f31d6543f3f92]: Textual amendment: Sch. 2 Item 48 inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule)
 
-[^key-46d032e4a3a490b33549d2b7fc0b48d9]: Textual amendment: Sch. 2 Item 50 inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [reg. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1983/1602/schedule)
+[^c-46d032e4a3a490b33549d2b7fc0b48d9]: Textual amendment: Sch. 2 Item 50 inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [reg. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1983/1602/schedule)
 
-[^key-47c276d4f5d0af0f8e01e0b4ca5b2f49]: Textual amendment: Sch. 2 Item 50A inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [reg. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1983/1602/schedule)
+[^c-47c276d4f5d0af0f8e01e0b4ca5b2f49]: Textual amendment: Sch. 2 Item 50A inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [reg. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1983/1602/schedule)
 
-[^key-8014cdc8e9302b7a4287461cbbb2286c]: Textual amendment: Sch. 2 Item 51 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
+[^c-8014cdc8e9302b7a4287461cbbb2286c]: Textual amendment: Sch. 2 Item 51 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
 
-[^key-4e2baab4e6236a198a60a3ac39007402]: Textual amendment: Sch. 2 Item 51A inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
+[^c-4e2baab4e6236a198a60a3ac39007402]: Textual amendment: Sch. 2 Item 51A inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/58/schedule/1)
 
-[^key-38ce7ec0fcf92c820c5bf8ad75cdbe43]: Textual amendment: Sch. 2 Item 54 inserted (2.3.1985) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1985 (S.I. 1985/113)](https://www.legislation.gov.uk/uksi/1985/113), [reg. 1](https://www.legislation.gov.uk/uksi/1985/113/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1985/113/schedule)
+[^c-38ce7ec0fcf92c820c5bf8ad75cdbe43]: Textual amendment: Sch. 2 Item 54 inserted (2.3.1985) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1985 (S.I. 1985/113)](https://www.legislation.gov.uk/uksi/1985/113), [reg. 1](https://www.legislation.gov.uk/uksi/1985/113/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1985/113/schedule)
 
-[^key-ad19b134df22978bfdcbbeceb9150bd7]: Textual amendment: Sch. 2 Item 70 inserted (1.10.1990) by [The Motor Vehicles (Designation of Approval Marks)(Amendment) Regulations 1990 (S.I. 1990/1838)](https://www.legislation.gov.uk/uksi/1990/1838), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1838/regulation/1), [3](https://www.legislation.gov.uk/uksi/1990/1838/regulation/3)
+[^c-ad19b134df22978bfdcbbeceb9150bd7]: Textual amendment: Sch. 2 Item 70 inserted (1.10.1990) by [The Motor Vehicles (Designation of Approval Marks)(Amendment) Regulations 1990 (S.I. 1990/1838)](https://www.legislation.gov.uk/uksi/1990/1838), [regs. 1](https://www.legislation.gov.uk/uksi/1990/1838/regulation/1), [3](https://www.legislation.gov.uk/uksi/1990/1838/regulation/3)
 
-[^key-20cdc69743700d074099cf9aeaee06d3]: Commencement: Sch. 3 para. 1 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-20cdc69743700d074099cf9aeaee06d3]: Commencement: Sch. 3 para. 1 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-93eeb70d8add8f7534ddc4188fdecb5d]: Commencement: Sch. 3 para. 2 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-93eeb70d8add8f7534ddc4188fdecb5d]: Commencement: Sch. 3 para. 2 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-e382095e057a5289b6b170c6c402ad0f]: Textual amendment: Sch. 3 para. 2A inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/a)
+[^c-e382095e057a5289b6b170c6c402ad0f]: Textual amendment: Sch. 3 para. 2A inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/a)
 
-[^key-b40a169f29df0d46ead08519436c47d9]: Commencement: Sch. 3 para. 3 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-b40a169f29df0d46ead08519436c47d9]: Commencement: Sch. 3 para. 3 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-4bc676cb6f39a3a5c3abcb0fd83f8648]: Commencement: Sch. 3 para. 4 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-4bc676cb6f39a3a5c3abcb0fd83f8648]: Commencement: Sch. 3 para. 4 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-19e28cd62dc1175e0b72a9d3a8b586ba]: Commencement: Sch. 3 para. 5 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-19e28cd62dc1175e0b72a9d3a8b586ba]: Commencement: Sch. 3 para. 5 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-e56707a50a66f9c1d5ef3a4b0af6430d]: Commencement: Sch. 3 para. 6 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-e56707a50a66f9c1d5ef3a4b0af6430d]: Commencement: Sch. 3 para. 6 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-55e967c5247b20a13c5b5c852e47a7c8]: Textual amendment: Words in Sch. 3 para. 6 substituted (2.3.1985) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1985 (S.I. 1985/113)](https://www.legislation.gov.uk/uksi/1985/113), [regs. 1](https://www.legislation.gov.uk/uksi/1985/113/regulation/1), [4](https://www.legislation.gov.uk/uksi/1985/113/regulation/4)
+[^c-55e967c5247b20a13c5b5c852e47a7c8]: Textual amendment: Words in Sch. 3 para. 6 substituted (2.3.1985) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1985 (S.I. 1985/113)](https://www.legislation.gov.uk/uksi/1985/113), [regs. 1](https://www.legislation.gov.uk/uksi/1985/113/regulation/1), [4](https://www.legislation.gov.uk/uksi/1985/113/regulation/4)
 
-[^key-317318fc4803e527ff48e50886724f15]: Textual amendment: Sch. 3 para. 7 substituted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/b)
+[^c-317318fc4803e527ff48e50886724f15]: Textual amendment: Sch. 3 para. 7 substituted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/b)
 
-[^key-668a3a5ce3da13241fa25db9d619dd5d]: Commencement: Sch. 3 para. 8 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-668a3a5ce3da13241fa25db9d619dd5d]: Commencement: Sch. 3 para. 8 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-9afbe010161e6e636305cdfe61ec1345]: Commencement: Sch. 3 para. 9 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-9afbe010161e6e636305cdfe61ec1345]: Commencement: Sch. 3 para. 9 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-de9e0bb6dbc7a98c3a27776dbca8750f]: Textual amendment: Words in Sch. 3 para. 9 substituted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/4/a)
+[^c-de9e0bb6dbc7a98c3a27776dbca8750f]: Textual amendment: Words in Sch. 3 para. 9 substituted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/4/a)
 
-[^key-0eb730236d47c361d9b60f86d9e0fae1]: Commencement: Sch. 3 para. 10 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-0eb730236d47c361d9b60f86d9e0fae1]: Commencement: Sch. 3 para. 10 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-b1e87502f45bdd9aba10fb99234d8c7a]: Textual amendment: Sch. 3 para. 11 substituted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [regs. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [5](https://www.legislation.gov.uk/uksi/1986/369/regulation/5)
+[^c-b1e87502f45bdd9aba10fb99234d8c7a]: Textual amendment: Sch. 3 para. 11 substituted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [regs. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [5](https://www.legislation.gov.uk/uksi/1986/369/regulation/5)
 
-[^key-7a4ecfef2939508b6660ee10491aceff]: Commencement: Sch. 3 para. 12 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-7a4ecfef2939508b6660ee10491aceff]: Commencement: Sch. 3 para. 12 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-955cfa1a1716f41967e33b9be7c0914f]: Commencement: Sch. 3 para. 13 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-955cfa1a1716f41967e33b9be7c0914f]: Commencement: Sch. 3 para. 13 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-14aacc641c743209075eb736074f2ff5]: Textual amendment: Sch. 3 paras. 14, 15 inserted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [4](https://www.legislation.gov.uk/uksi/1980/582/regulation/4)
+[^c-14aacc641c743209075eb736074f2ff5]: Textual amendment: Sch. 3 paras. 14, 15 inserted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [4](https://www.legislation.gov.uk/uksi/1980/582/regulation/4)
 
-[^key-247375829e851b2e224cdb90335cb3c2]: Textual amendment: Words in Sch. 3 para. 14(1) substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/5/a)
+[^c-247375829e851b2e224cdb90335cb3c2]: Textual amendment: Words in Sch. 3 para. 14(1) substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/5/a)
 
-[^key-dc2bc2253a77dc8c18ea419eefdb879c]: Textual amendment: Sch. 3 para. 14(3)(b)(iv)(v) and words substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/5/b)
+[^c-dc2bc2253a77dc8c18ea419eefdb879c]: Textual amendment: Sch. 3 para. 14(3)(b)(iv)(v) and words substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/5/b)
 
-[^key-a980deafcc64eea92f031328e4b34fca]: Textual amendment: Sch. 3 para. 14(4) inserted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/5/c)
+[^c-a980deafcc64eea92f031328e4b34fca]: Textual amendment: Sch. 3 para. 14(4) inserted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/5/c)
 
-[^key-311275d7a0a5e51717bbaf8204a936ec]: Textual amendment: Sch. 3 paras. 16, 17 inserted (5.3.1981) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1981 (S.I. 1981/126)](https://www.legislation.gov.uk/uksi/1981/126), [regs. 1](https://www.legislation.gov.uk/uksi/1981/126/regulation/1), [4](https://www.legislation.gov.uk/uksi/1981/126/regulation/4)
+[^c-311275d7a0a5e51717bbaf8204a936ec]: Textual amendment: Sch. 3 paras. 16, 17 inserted (5.3.1981) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1981 (S.I. 1981/126)](https://www.legislation.gov.uk/uksi/1981/126), [regs. 1](https://www.legislation.gov.uk/uksi/1981/126/regulation/1), [4](https://www.legislation.gov.uk/uksi/1981/126/regulation/4)
 
-[^key-50d7a0c1b1c22c694dcfe9fbf4171a39]: Textual amendment: Words in Sch. 3 para. 17 substituted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/4/c)
+[^c-50d7a0c1b1c22c694dcfe9fbf4171a39]: Textual amendment: Words in Sch. 3 para. 17 substituted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/4/c)
 
-[^key-c4aa87ab1aa02fc2b82e89e68ff1991f]: Textual amendment: Words in Sch. 3 para. 17 substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/6/a)
+[^c-c4aa87ab1aa02fc2b82e89e68ff1991f]: Textual amendment: Words in Sch. 3 para. 17 substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/6/a)
 
-[^key-1b2ff4ce2029349b9322abd15621d771]: Textual amendment: Word in Sch. 3 para. 17(2) omitted (21.2.1997) by virtue of [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/c/i)
+[^c-1b2ff4ce2029349b9322abd15621d771]: Textual amendment: Word in Sch. 3 para. 17(2) omitted (21.2.1997) by virtue of [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/c/i)
 
-[^key-a73523f4ee9ff54d37ce6a7d935a653d]: Textual amendment: Sch. 3 para. 17(3)(a)(b) substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/6/b)
+[^c-a73523f4ee9ff54d37ce6a7d935a653d]: Textual amendment: Sch. 3 para. 17(3)(a)(b) substituted (14.7.1989) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1989 (S.I. 1989/1014)](https://www.legislation.gov.uk/uksi/1989/1014), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1014/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/1989/1014/regulation/6/b)
 
-[^key-bd2081b4cee15b9aae61b70cb4148c1e]: Textual amendment: Words in Sch. 3 para. 17(3)(a) inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/c/ii)
+[^c-bd2081b4cee15b9aae61b70cb4148c1e]: Textual amendment: Words in Sch. 3 para. 17(3)(a) inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/c/ii)
 
-[^key-33d11482b525d2ea6fc5f49f62a6a2bc]: Textual amendment: Sch. 3 para. 17(4) and word inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(c)(iii)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/c/iii)
+[^c-33d11482b525d2ea6fc5f49f62a6a2bc]: Textual amendment: Sch. 3 para. 17(4) and word inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(c)(iii)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/c/iii)
 
-[^key-a42090f1f898ec38f684429a4e173e99]: Textual amendment: Sch. 3 para. 17A inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/d)
+[^c-a42090f1f898ec38f684429a4e173e99]: Textual amendment: Sch. 3 para. 17A inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/1997/58/regulation/4/d)
 
-[^key-4ae732ac4252ecc6212fbcbe0109c558]: Textual amendment: Sch. 3 paras. 18, 19 inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/4/d)
+[^c-4ae732ac4252ecc6212fbcbe0109c558]: Textual amendment: Sch. 3 paras. 18, 19 inserted (1.12.1983) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1983 (S.I. 1983/1602)](https://www.legislation.gov.uk/uksi/1983/1602), [regs. 1](https://www.legislation.gov.uk/uksi/1983/1602/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/1983/1602/regulation/4/d)
 
-[^key-eafbec837c3c84025f1fc093e5609072]: Commencement: Sch. 4 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-eafbec837c3c84025f1fc093e5609072]: Commencement: Sch. 4 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-2ec2331ac7f1dc0eda7a3451285bc8ad]: Textual amendment: Sch. 4 Item 2A inserted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/1980/582/regulation/5/a)
+[^c-2ec2331ac7f1dc0eda7a3451285bc8ad]: Textual amendment: Sch. 4 Item 2A inserted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/1980/582/regulation/5/a)
 
-[^key-5c6dd66dd3670b75027b50e9800b9d17]: Textual amendment: Sch. 4 Item 2B inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule/n2)
+[^c-5c6dd66dd3670b75027b50e9800b9d17]: Textual amendment: Sch. 4 Item 2B inserted (1.4.1986) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1986 (S.I. 1986/369)](https://www.legislation.gov.uk/uksi/1986/369), [reg. 1](https://www.legislation.gov.uk/uksi/1986/369/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1986/369/schedule/n2)
 
-[^key-910465747a5c05f6ed659c35a97f397d]: Textual amendment: Words in Sch. 4 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/1980/582/regulation/5/b)
+[^c-910465747a5c05f6ed659c35a97f397d]: Textual amendment: Words in Sch. 4 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/1980/582/regulation/5/b)
 
-[^key-ba05abe306566850da6822cb83331da2]: Textual amendment: Words in Sch. 4 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/1980/582/regulation/5/c)
+[^c-ba05abe306566850da6822cb83331da2]: Textual amendment: Words in Sch. 4 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/1980/582/regulation/5/c)
 
-[^key-840856f494cd3932e06544030fea1d08]: Textual amendment: Words in Sch. 4 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/1980/582/regulation/5/d)
+[^c-840856f494cd3932e06544030fea1d08]: Textual amendment: Words in Sch. 4 substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/1980/582/regulation/5/d)
 
-[^key-a4dd4da58ee7f4bf79c1c27f594082b4]: Textual amendment: Sch. 4 Item 23A inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [regs. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [4](https://www.legislation.gov.uk/uksi/1982/1479/regulation/4)
+[^c-a4dd4da58ee7f4bf79c1c27f594082b4]: Textual amendment: Sch. 4 Item 23A inserted (19.11.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1982 (S.I. 1982/1479)](https://www.legislation.gov.uk/uksi/1982/1479), [regs. 1](https://www.legislation.gov.uk/uksi/1982/1479/regulation/1), [4](https://www.legislation.gov.uk/uksi/1982/1479/regulation/4)
 
-[^key-94cb032bb0aed84dceb09f43ac1de79f]: Textual amendment: Sch. 4 Item 23B inserted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [3](https://www.legislation.gov.uk/uksi/1991/1979/regulation/3)
+[^c-94cb032bb0aed84dceb09f43ac1de79f]: Textual amendment: Sch. 4 Item 23B inserted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [3](https://www.legislation.gov.uk/uksi/1991/1979/regulation/3)
 
-[^key-f0aebc0f37d45c30cb22e9c3a953881d]: Textual amendment: Sch. 4 Item 29 inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [5](https://www.legislation.gov.uk/uksi/1981/1732/regulation/5)
+[^c-f0aebc0f37d45c30cb22e9c3a953881d]: Textual amendment: Sch. 4 Item 29 inserted (4.1.1982) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) (No. 2) Regulations 1981 (S.I. 1981/1732)](https://www.legislation.gov.uk/uksi/1981/1732), [regs. 1](https://www.legislation.gov.uk/uksi/1981/1732/regulation/1), [5](https://www.legislation.gov.uk/uksi/1981/1732/regulation/5)
 
-[^key-f863311ba360755d79a67db183641d23]: Textual amendment: Sch. 4 Item 30 inserted (1.4.1992) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1992 (S.I. 1992/634)](https://www.legislation.gov.uk/uksi/1992/634), [regs. 1](https://www.legislation.gov.uk/uksi/1992/634/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/634/regulation/3)
+[^c-f863311ba360755d79a67db183641d23]: Textual amendment: Sch. 4 Item 30 inserted (1.4.1992) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1992 (S.I. 1992/634)](https://www.legislation.gov.uk/uksi/1992/634), [regs. 1](https://www.legislation.gov.uk/uksi/1992/634/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/634/regulation/3)
 
-[^key-03ff10b805618863d592ca2deb497150]: Textual amendment: Sch. 4 Items 31-33 inserted (1.1.1993) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1992 (S.I. 1992/3086)](https://www.legislation.gov.uk/uksi/1992/3086), [reg. 1](https://www.legislation.gov.uk/uksi/1992/3086/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1992/3086/schedule)
+[^c-03ff10b805618863d592ca2deb497150]: Textual amendment: Sch. 4 Items 31-33 inserted (1.1.1993) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1992 (S.I. 1992/3086)](https://www.legislation.gov.uk/uksi/1992/3086), [reg. 1](https://www.legislation.gov.uk/uksi/1992/3086/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1992/3086/schedule)
 
-[^key-85e731b7f8572ec5eec2ead506692415]: Textual amendment: Sch. 4 Item 34 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/58/schedule/2)
+[^c-85e731b7f8572ec5eec2ead506692415]: Textual amendment: Sch. 4 Item 34 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/58/schedule/2)
 
-[^key-c50589c8c5efbe07283bbac287dd7576]: Textual amendment: Sch. 4 Item 35 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/58/schedule/2)
+[^c-c50589c8c5efbe07283bbac287dd7576]: Textual amendment: Sch. 4 Item 35 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/58/schedule/2)
 
-[^key-e3012de835a9fadb5a79feafe01e63fe]: Textual amendment: Sch. 4 Item 36 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/58/schedule/2)
+[^c-e3012de835a9fadb5a79feafe01e63fe]: Textual amendment: Sch. 4 Item 36 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/58/schedule/2)
 
-[^key-6622098d98df1eeddb21dc321ea5c825]: Textual amendment: Sch. 4 Item 37 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/58/schedule/2)
+[^c-6622098d98df1eeddb21dc321ea5c825]: Textual amendment: Sch. 4 Item 37 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [reg. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1997/58/schedule/2)
 
-[^key-185837c32c569cc9434155cb79a76502]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/1) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-185837c32c569cc9434155cb79a76502]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/1) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-51b6504b9ca625fb7141d27119ca76f1]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/2) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-51b6504b9ca625fb7141d27119ca76f1]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/2) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-454144243b239ec6065e1a5f80e273ce]: Textual amendment: Words in Sch. 5 para. 2 inserted (1.1.1993) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1992 (S.I. 1992/3086)](https://www.legislation.gov.uk/uksi/1992/3086), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3086/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1992/3086/regulation/4/2)
+[^c-454144243b239ec6065e1a5f80e273ce]: Textual amendment: Words in Sch. 5 para. 2 inserted (1.1.1993) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1992 (S.I. 1992/3086)](https://www.legislation.gov.uk/uksi/1992/3086), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3086/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1992/3086/regulation/4/2)
 
-[^key-c79b33c49e3d7f0bcbd0fb0bbf565b80]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/3) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-c79b33c49e3d7f0bcbd0fb0bbf565b80]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/3) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-0f1c71c93a39b866ff26080c19314029]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/4) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-0f1c71c93a39b866ff26080c19314029]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/4) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-3922a3d1eb6eed6be73905e6e4986069]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/5) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-3922a3d1eb6eed6be73905e6e4986069]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/5) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-df85882d8846532d06e26894c8b864ce]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/6) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-df85882d8846532d06e26894c8b864ce]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/6) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-8eb9d43d2749f438e79a3198034e8554]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/7) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-8eb9d43d2749f438e79a3198034e8554]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/7) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-3c5d326e6e76b119574c2531202225ab]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/8) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-3c5d326e6e76b119574c2531202225ab]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/8) in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-e8ea8e9c2d5957561eb6ee471ce82f72]: Textual amendment: Words in [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/8) substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/1980/582/regulation/6/a)
+[^c-e8ea8e9c2d5957561eb6ee471ce82f72]: Textual amendment: Words in [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/8) substituted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/1980/582/regulation/6/a)
 
-[^key-eb5a70854c28467ad4df0d80ea7546b2]: Textual amendment: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/9) omitted (23.5.1980) by virtue of [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/1980/582/regulation/6/b)
+[^c-eb5a70854c28467ad4df0d80ea7546b2]: Textual amendment: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/9) omitted (23.5.1980) by virtue of [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/1980/582/regulation/6/b)
 
-[^key-7164554a490b77defb554b8adafb42d1]: Commencement: Sch. 5 para. 10 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
+[^c-7164554a490b77defb554b8adafb42d1]: Commencement: Sch. 5 para. 10 in force at 1.10.1979, see [reg. 1](https://www.legislation.gov.uk/uksi/1979/1088/regulation/1)
 
-[^key-04235bb86d2c7f12040e81e84a53e5ab]: Textual amendment: Words in Sch. 5 para. 10(1) substituted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/a)
+[^c-04235bb86d2c7f12040e81e84a53e5ab]: Textual amendment: Words in Sch. 5 para. 10(1) substituted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/a)
 
-[^key-e14bdfccf442536fe142de1b205b2825]: Textual amendment: Word in Sch. 5 para. 10(3)(a) omitted (1.10.1991) by virtue of [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/b)
+[^c-e14bdfccf442536fe142de1b205b2825]: Textual amendment: Word in Sch. 5 para. 10(3)(a) omitted (1.10.1991) by virtue of [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/b)
 
-[^key-175fc7b0626795a5e04e17aeafd71ca7]: Textual amendment: Sch. 5 para. 10(3)(b)(iv)(v) and words substituted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/c)
+[^c-175fc7b0626795a5e04e17aeafd71ca7]: Textual amendment: Sch. 5 para. 10(3)(b)(iv)(v) and words substituted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/c)
 
-[^key-238884b82823cb3039711dd0e9d59525]: Textual amendment: Sch. 5 para. 10(3)(c) inserted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/d)
+[^c-238884b82823cb3039711dd0e9d59525]: Textual amendment: Sch. 5 para. 10(3)(c) inserted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(d)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/d)
 
-[^key-70bd32dad5eedda38eab994a5a2edbbd]: Textual amendment: Sch. 5 para. 10(4) inserted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/e)
+[^c-70bd32dad5eedda38eab994a5a2edbbd]: Textual amendment: Sch. 5 para. 10(4) inserted (1.10.1991) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1991 (S.I. 1991/1979)](https://www.legislation.gov.uk/uksi/1991/1979), [regs. 1](https://www.legislation.gov.uk/uksi/1991/1979/regulation/1), [4(e)](https://www.legislation.gov.uk/uksi/1991/1979/regulation/4/e)
 
-[^key-352330d9eaf20e23951629faa4741264]: Textual amendment: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/11) inserted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/1980/582/regulation/6/c)
+[^c-352330d9eaf20e23951629faa4741264]: Textual amendment: [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/1979/1088/schedule/5/paragraph/11) inserted (23.5.1980) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1980 (S.I. 1980/582)](https://www.legislation.gov.uk/uksi/1980/582), [regs. 1](https://www.legislation.gov.uk/uksi/1980/582/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/1980/582/regulation/6/c)
 
-[^key-bbc1809e51147fb68d1c8b0aed6e0f59]: Textual amendment: Sch. 5 para. 12 inserted (1.4.1992) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1992 (S.I. 1992/634)](https://www.legislation.gov.uk/uksi/1992/634), [regs. 1](https://www.legislation.gov.uk/uksi/1992/634/regulation/1), [4](https://www.legislation.gov.uk/uksi/1992/634/regulation/4)
+[^c-bbc1809e51147fb68d1c8b0aed6e0f59]: Textual amendment: Sch. 5 para. 12 inserted (1.4.1992) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1992 (S.I. 1992/634)](https://www.legislation.gov.uk/uksi/1992/634), [regs. 1](https://www.legislation.gov.uk/uksi/1992/634/regulation/1), [4](https://www.legislation.gov.uk/uksi/1992/634/regulation/4)
 
-[^key-27c73c1a608589b45cc131fd985bc30f]: Textual amendment: Sch. 5 paras. 13-15 inserted (1.1.1993) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1992 (S.I. 1992/3086)](https://www.legislation.gov.uk/uksi/1992/3086), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3086/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1992/3086/regulation/4/3)
+[^c-27c73c1a608589b45cc131fd985bc30f]: Textual amendment: Sch. 5 paras. 13-15 inserted (1.1.1993) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) ( No. 2) Regulations 1992 (S.I. 1992/3086)](https://www.legislation.gov.uk/uksi/1992/3086), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3086/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1992/3086/regulation/4/3)
 
-[^key-a8786808b4c1dc7141f9e5915f571a55]: Textual amendment: Sch. 5 paras. 16-18 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [6](https://www.legislation.gov.uk/uksi/1997/58/regulation/6)
+[^c-a8786808b4c1dc7141f9e5915f571a55]: Textual amendment: Sch. 5 paras. 16-18 inserted (21.2.1997) by [The Motor Vehicles (Designation of Approval Marks) (Amendment) Regulations 1997 (S.I. 1997/58)](https://www.legislation.gov.uk/uksi/1997/58), [regs. 1](https://www.legislation.gov.uk/uksi/1997/58/regulation/1), [6](https://www.legislation.gov.uk/uksi/1997/58/regulation/6)

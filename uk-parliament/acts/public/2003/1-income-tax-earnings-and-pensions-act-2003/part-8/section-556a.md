@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 556A. Deductible payments made pursuant to tax avoidance arrangements[^key-6f80494e60775f476fa45b98d7dd6da0]
+## 556A. Deductible payments made pursuant to tax avoidance arrangements[^c-6f80494e60775f476fa45b98d7dd6da0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ No deduction may be made under section 555 if the deductible payment is made in 
 
 ## Annotations
 
-[^key-6f80494e60775f476fa45b98d7dd6da0]: Textual amendment: [S. 556A](https://www.legislation.gov.uk/ukpga/2003/1/section/556A) inserted (with effect in accordance with s. 67(4) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 67(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/67/3)
+[^c-6f80494e60775f476fa45b98d7dd6da0]: Textual amendment: [S. 556A](https://www.legislation.gov.uk/ukpga/2003/1/section/556A) inserted (with effect in accordance with s. 67(4) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 67(3)](https://www.legislation.gov.uk/ukpga/2009/10/section/67/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Power of Scottish Ministers to protect others[^key-54b92391e864bece9cfa8f59b5e4efb4][^key-6486567e1e18c392aec1296be704f206]
+## 53. Power of Scottish Ministers to protect others[^c-54b92391e864bece9cfa8f59b5e4efb4][^c-6486567e1e18c392aec1296be704f206]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-54b92391e864bece9cfa8f59b5e4efb4]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
+[^c-54b92391e864bece9cfa8f59b5e4efb4]: Commencement: S. 53 in force at Royal Assent for specified purposes, see [s. 145(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/2)
 
-[^key-6486567e1e18c392aec1296be704f206]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2025/26/section/53) in force at 1.5.2026 in so far as not already in force by [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/d)
+[^c-6486567e1e18c392aec1296be704f206]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2025/26/section/53) in force at 1.5.2026 in so far as not already in force by [S.S.I. 2026/125](https://www.legislation.gov.uk/ssi/2026/125), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2026/125/regulation/2/d)

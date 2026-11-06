@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Exemptions[^key-e00a212bd2d85aa9737741ebe72c17df]
+## 3. Exemptions[^c-e00a212bd2d85aa9737741ebe72c17df]
 
 *Extent: N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e00a212bd2d85aa9737741ebe72c17df]: Commencement: Art. 3 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)
+[^c-e00a212bd2d85aa9737741ebe72c17df]: Commencement: Art. 3 in operation at 14.5.1997, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1997/197/article/1/1)
 
 [^f00004]: Footnote: [1953 c. 36](https://www.legislation.gov.uk/ukpga/1953/36)
 

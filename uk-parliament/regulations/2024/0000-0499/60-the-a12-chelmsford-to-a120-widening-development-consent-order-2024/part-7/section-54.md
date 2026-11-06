@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Disapplication of local legislation[^key-7af1d4ec01f197af286968fd2d579810]
+## 54. Disapplication of local legislation[^c-7af1d4ec01f197af286968fd2d579810]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7af1d4ec01f197af286968fd2d579810]: Commencement: Art. 54 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-7af1d4ec01f197af286968fd2d579810]: Commencement: Art. 54 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-5ee09f4a1a42d0c454a2e59006649175]
+## 1. Citation and commencement[^c-5ee09f4a1a42d0c454a2e59006649175]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Universal Credit (Transitional Provisions)
 
 ## Annotations
 
-[^key-5ee09f4a1a42d0c454a2e59006649175]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-5ee09f4a1a42d0c454a2e59006649175]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)

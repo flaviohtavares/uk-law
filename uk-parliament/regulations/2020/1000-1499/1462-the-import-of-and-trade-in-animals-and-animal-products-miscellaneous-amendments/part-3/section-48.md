@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Commission Decision [2007/240/EC](https://www.legislation.gov.uk/european/decision/2007/0240) laying down new veterinary certificates for importing live animals, semen, embryos, ova and products of animal origin into the Community[^key-dea3733b4b7b7b2e85b791642ab21a92]
+## 48. Commission Decision [2007/240/EC](https://www.legislation.gov.uk/european/decision/2007/0240) laying down new veterinary certificates for importing live animals, semen, embryos, ova and products of animal origin into the Community[^c-dea3733b4b7b7b2e85b791642ab21a92]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dea3733b4b7b7b2e85b791642ab21a92]: Commencement: Reg. 48 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-dea3733b4b7b7b2e85b791642ab21a92]: Commencement: Reg. 48 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Notice requiring statement of affairs[^key-99eae7f6fc95dcdc75a0c62fe9f121f3]
+## 52. Notice requiring statement of affairs[^c-99eae7f6fc95dcdc75a0c62fe9f121f3]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99eae7f6fc95dcdc75a0c62fe9f121f3]: Commencement: [Rule 52](https://www.legislation.gov.uk/uksi/2011/1301/rule/52) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-99eae7f6fc95dcdc75a0c62fe9f121f3]: Commencement: [Rule 52](https://www.legislation.gov.uk/uksi/2011/1301/rule/52) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
 [^f00013]: Footnote: Section 235 was amended by the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40) section 248(3), Schedule 17 paragraphs 9, 24.

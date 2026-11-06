@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212E. Principal companies[^key-298a75262b587039f349fdea6d235f62]
+## 212E. Principal companies[^c-298a75262b587039f349fdea6d235f62]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ and X is a qualifying 75% subsidiary of Y but Y is not a qualifying 75% subsidia
 
 ## Annotations
 
-[^key-298a75262b587039f349fdea6d235f62]: Textual amendment: Pt. 2 Ch. 16A inserted (8.4.2010) (with effect in accordance with Sch. 4 para. 5, 6 to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/4/paragraph/2)
+[^c-298a75262b587039f349fdea6d235f62]: Textual amendment: Pt. 2 Ch. 16A inserted (8.4.2010) (with effect in accordance with Sch. 4 para. 5, 6 to the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/4/paragraph/2)

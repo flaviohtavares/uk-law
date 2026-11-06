@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Directors[^key-6a867cdf4fbd7a5d6fdb9562d6d25ef5]
+## 34. Directors[^c-6a867cdf4fbd7a5d6fdb9562d6d25ef5]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) Any act of a director is valid notwithstanding –
 
 - (a) any defect that may thereafter be discovered in his appointment or qualifications; or
-- (b) that it is afterwards discovered that his appointment had terminated by virtue of any provision contained in FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f] which requires a director to retire upon attaining a specified age.
+- (b) that it is afterwards discovered that his appointment had terminated by virtue of any provision contained in FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f] which requires a director to retire upon attaining a specified age.
 
 (4) The business of a company must be managed –
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a867cdf4fbd7a5d6fdb9562d6d25ef5]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2004/335/regulation/34) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-6a867cdf4fbd7a5d6fdb9562d6d25ef5]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2004/335/regulation/34) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

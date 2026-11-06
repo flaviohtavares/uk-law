@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277. Power to make further provision in connection with this Chapter[^key-828f41962054f122cd44b2ba3c07d196]
+## 277. Power to make further provision in connection with this Chapter[^c-828f41962054f122cd44b2ba3c07d196]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-828f41962054f122cd44b2ba3c07d196]: Commencement: S. 277 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-828f41962054f122cd44b2ba3c07d196]: Commencement: S. 277 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)

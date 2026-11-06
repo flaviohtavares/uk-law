@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Rules relating to investment exchanges and data reporting service providers[^key-571bdf1745602ce5aaebbc3612f481e1][^key-f0dde7237a66ef50932795d888ea47fb]
+## 11. Rules relating to investment exchanges and data reporting service providers[^c-571bdf1745602ce5aaebbc3612f481e1][^c-f0dde7237a66ef50932795d888ea47fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-571bdf1745602ce5aaebbc3612f481e1]: Commencement: S. 11 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-571bdf1745602ce5aaebbc3612f481e1]: Commencement: S. 11 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f0dde7237a66ef50932795d888ea47fb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/29/section/11) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/g)
+[^c-f0dde7237a66ef50932795d888ea47fb]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/29/section/11) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/g)

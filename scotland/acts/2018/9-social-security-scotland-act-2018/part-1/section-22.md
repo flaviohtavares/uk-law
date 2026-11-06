@@ -36,7 +36,7 @@ summary: ''
 
 (4) The Commission must consider preparing a report under subsection (1)(d) if it receives evidence which suggests that expectations set out in the charter are frequently not being fulfilled.
 
-(4A)[^key-326de3f182e935ae8e35645101f01b62] As soon as practicable after the end of each financial year, the Commission must—
+(4A)[^c-326de3f182e935ae8e35645101f01b62] As soon as practicable after the end of each financial year, the Commission must—
 
 - (a) prepare and publish a report containing information on the carrying out of its functions during that year, and
 - (b) send a copy of the report to the Scottish Ministers.
@@ -54,4 +54,4 @@ summary: ''
 
 [^M_I_27eb5808-e7d3-4d64-ea50-3411d541a302]: Commencement: S. 22 in force at 21.1.2019 by [S.S.I. 2018/393](https://www.legislation.gov.uk/ssi/2018/393), [reg. 2](https://www.legislation.gov.uk/ssi/2018/393/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/393/regulation/3)) (as amended (10.12.2019) by [S.S.I. 2019/406](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/3/2))
 
-[^key-326de3f182e935ae8e35645101f01b62]: Textual amendment: S. 22(4A)(4B) inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/2/section/23/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/119/regulation/6))
+[^c-326de3f182e935ae8e35645101f01b62]: Textual amendment: S. 22(4A)(4B) inserted (10.5.2025) by [Social Security (Amendment) (Scotland) Act 2025 (asp 2)](https://www.legislation.gov.uk/asp/2025/2), [ss. 23(2)](https://www.legislation.gov.uk/asp/2025/2/section/23/2), [27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2); [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [reg. 6](https://www.legislation.gov.uk/ssi/2025/119/regulation/6))

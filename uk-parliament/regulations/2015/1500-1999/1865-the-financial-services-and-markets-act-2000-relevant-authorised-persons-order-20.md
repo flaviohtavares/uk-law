@@ -63,12 +63,12 @@ In accordance with section 429(1) of that Act [^c22688281], a draft of this Orde
 - (b) has a branch in the United Kingdom; and
 - (c) is not an insurer.
 
-(2) Condition A is that the non-UK institution is a credit institution which has permission under Part 4A of the Act [^key-fd8f0281ba77e88d410f7f192debe452]... to carry on the regulated activity of accepting deposits [^c22688311].
+(2) Condition A is that the non-UK institution is a credit institution which has permission under Part 4A of the Act [^c-fd8f0281ba77e88d410f7f192debe452]... to carry on the regulated activity of accepting deposits [^c22688311].
 
 (3) Condition B is that—
 
 - (a) the non-UK institution is an investment firm [^c22688321];
-- (b) it has permission under Part 4A of the Act [^key-810f980a8051d495a5a69f2fede4c7ab]... to carry on the regulated activity of dealing in investments as principal [^c22688331]; and
+- (b) it has permission under Part 4A of the Act [^c-810f980a8051d495a5a69f2fede4c7ab]... to carry on the regulated activity of dealing in investments as principal [^c22688331]; and
 - (c) when carried on by it, that activity is a PRA-regulated activity [^c22688341].
 
 (4) In this article “**insurer**” means an institution which is authorised under the Act to carry on the regulated activity of effecting or carrying out contracts of insurance as principal [^c22688351].
@@ -123,13 +123,13 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c22688301]: Marginal citation: [S.I. 2015/492](https://www.legislation.gov.uk/uksi/2015/492).
 
-[^key-fd8f0281ba77e88d410f7f192debe452]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/1865/article/2/2) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [193](https://www.legislation.gov.uk/uksi/2019/632/regulation/193) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd8f0281ba77e88d410f7f192debe452]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/1865/article/2/2) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [193](https://www.legislation.gov.uk/uksi/2019/632/regulation/193) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22688311]: Marginal citation: “regulated activity” is defined in section 22 of the Financial Services and Markets Act 2000 (the “Act”).
 
 [^c22688321]: Marginal citation: “investment firm” is defined in section 424A of the Act. Section 424A was inserted by [S.I. 2006/2975](https://www.legislation.gov.uk/uksi/2006/2975).
 
-[^key-810f980a8051d495a5a69f2fede4c7ab]: Textual amendment: Words in [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/1865/article/2/3/b) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [193](https://www.legislation.gov.uk/uksi/2019/632/regulation/193) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-810f980a8051d495a5a69f2fede4c7ab]: Textual amendment: Words in [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2015/1865/article/2/3/b) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [193](https://www.legislation.gov.uk/uksi/2019/632/regulation/193) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22688331]: Marginal citation: The activity of dealing in investments as principal is specified in article 14 of [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 

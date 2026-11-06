@@ -42,7 +42,7 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 [^c23882331]The Treasury, in exercise of the powers conferred by section 8(1) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 , make the following Regulations.
 
-A draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-dca11edfdc7fbd0d8d4453ff5ba8232e][^key-6c0724e84a5b52fbfe59cab2e59da540]
+A draft of these Regulations has been laid before Parliament and approved by a resolution of each House of Parliament in accordance with paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^c-dca11edfdc7fbd0d8d4453ff5ba8232e][^c-6c0724e84a5b52fbfe59cab2e59da540]
 
 ## PART 1 — General
 
@@ -56,7 +56,7 @@ A draft of these Regulations has been laid before Parliament and approved by a r
 
 ## PART 2 — Amendment of subordinate legislation
 
-### 2. Amendment of the Central Securities Depositories Regulations 2014[^key-fa706165b0161ab15970bd150a86944c]
+### 2. Amendment of the Central Securities Depositories Regulations 2014[^c-fa706165b0161ab15970bd150a86944c]
 
 (1) The Central Securities Depositories Regulations 2014 [^c23882341] are amended as follows.
 
@@ -87,7 +87,7 @@ A draft of these Regulations has been laid before Parliament and approved by a r
 
 (6) In regulation 10, omit paragraph (2) [^c23882371].
 
-### 3. Amendment of the Central Securities Depositories Regulations 2017[^key-714093a04148968c3fb19848f165f832]
+### 3. Amendment of the Central Securities Depositories Regulations 2017[^c-714093a04148968c3fb19848f165f832]
 
 (1) The Central Securities Depositories Regulations 2017 [^c23882381] are amended as follows.
 
@@ -102,15 +102,15 @@ A draft of these Regulations has been laid before Parliament and approved by a r
 - (b) in paragraph (3)—
   - (i) for “an EEA State” substitute “ the United Kingdom ”;
   - (ii) for “69(3)” substitute “ 69(1) ” each time it occurs;
-- (c) in paragraph (5), at the end, insert “ or which immediately before IP completion day[^key-2961b589f7eb05511e03344384b7a1ae] was authorised under Article 16 of the CSD regulation ”.
+- (c) in paragraph (5), at the end, insert “ or which immediately before IP completion day[^c-2961b589f7eb05511e03344384b7a1ae] was authorised under Article 16 of the CSD regulation ”.
 
 ## PART 3 — Amendment of retained direct EU legislation
 
-### 4. Introduction to amendments of Regulation (EU) No 909/2014[^key-8dbf945ae61c3964868ab73fa3e78d6e]
+### 4. Introduction to amendments of Regulation (EU) No 909/2014[^c-8dbf945ae61c3964868ab73fa3e78d6e]
 
 Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories and amending Directives [98/26/EC](https://www.legislation.gov.uk/eudr/1998/26) and 2014/65/EU and Regulation (EU) No 236/2012 is amended in accordance with this Part.
 
-### 5. Subject matter and scope[^key-af46fac05b280f2d6d49ba11d1394766]
+### 5. Subject matter and scope[^c-af46fac05b280f2d6d49ba11d1394766]
 
 In Article 1—
 
@@ -124,7 +124,7 @@ In Article 1—
   - (iii) omit “, other Member States' national bodies performing similar functions,”;
   - (iv) for “Union” substitute “ United Kingdom ”.
 
-### 6. Definitions[^key-36263f83d116febf9526d515a4063269]
+### 6. Definitions[^c-36263f83d116febf9526d515a4063269]
 
 (1) Article 2 is amended as follows.
 
@@ -255,7 +255,7 @@ In Article 1—
   >
   > (53)  references to a ‘third country’ (including in expressions including the words “third country”) are to be read as references to a country other than the United Kingdom;
   >
-  > (54) references to ‘the UK law on markets in financial instruments’ are to the law applicable within the United Kingdom or any part of the United Kingdom which was relied on immediately before IP completion day[^key-cbd20f7dc16b557bb607f99dc10ebb49] to implement Directive 2014/65/EU and its implementing measures—
+  > (54) references to ‘the UK law on markets in financial instruments’ are to the law applicable within the United Kingdom or any part of the United Kingdom which was relied on immediately before IP completion day[^c-cbd20f7dc16b557bb607f99dc10ebb49] to implement Directive 2014/65/EU and its implementing measures—
   >
   > - (a) as they have effect on IP completion day, in the case of rules made by the FCA or by the PRA under FSMA, and
   > - (b) as amended from time to time, in all other cases;
@@ -266,7 +266,7 @@ In Article 1—
 
 (3) In paragraph 2, for “The Commission shall be empowered to adopt delegated acts in accordance with Article 67 concerning” substitute “ The Treasury may by regulations specify ”.
 
-### 7. Securities settlement[^key-6f93b8ecf36155133a2153d414b2c6fc]
+### 7. Securities settlement[^c-6f93b8ecf36155133a2153d414b2c6fc]
 
 (1) In Article 3, in paragraph 2—
 
@@ -289,16 +289,16 @@ In Article 1—
 
   .
 
-### 8.[^key-771450257af65f589f549197e368119d]
+### 8.[^c-771450257af65f589f549197e368119d]
 
 In Article 5—
 
 - (a) in paragraph 2, for “trading venues” and “a trading venue” substitute “a UK trading venue” each time they occur;
 - (b) in paragraph 3—
   - (i) in the first sub-paragraph, for “authorities” substitute “authority”;
-  - (ii) in the second sub-paragraph, for “authorities competent[^key-95ebdaa75a2d83227fc92ccad5c9ca9f]” substitute “competent authority”.
+  - (ii) in the second sub-paragraph, for “authorities competent[^c-95ebdaa75a2d83227fc92ccad5c9ca9f]” substitute “competent authority”.
 
-### 9.[^key-70d7c3523f0c543742b419b6d3339dfc]
+### 9.[^c-70d7c3523f0c543742b419b6d3339dfc]
 
 (1) In Article 6, omit paragraph 5.
 
@@ -306,7 +306,7 @@ In Article 5—
 
 (3) Omit Article 8.
 
-### 10.[^key-989cb5a75459d188358d7df60fac0e5a]
+### 10.[^c-989cb5a75459d188358d7df60fac0e5a]
 
 In Article 9—
 
@@ -320,7 +320,7 @@ In Article 9—
   - (i) for “ESMA shall develop draft” substitute “ The Bank of England may make ”;
   - (ii) omit the second and third sub-paragraphs.
 
-### 11. Central securities depositories[^key-6520843805f64abdfa90107d19ade27a]
+### 11. Central securities depositories[^c-6520843805f64abdfa90107d19ade27a]
 
 (1) In Article 10—
 
@@ -401,7 +401,7 @@ In Article 9—
     - (bb) omit “and the information required under Article 31 where Member States have made use of the possibility provided for in that Article”;
   - (iii) in the third sentence, for “ESMA” substitute “ The competent authority ”.
 
-### 12.[^key-edc7f0ff38661b68c8bd94bd6e37f773]
+### 12.[^c-edc7f0ff38661b68c8bd94bd6e37f773]
 
 (1) In Article 22—
 
@@ -418,7 +418,7 @@ In Article 9—
 
 (2) Omit Articles 23 and 24.
 
-### 13.[^key-b23b177344a09485ff05132c123a22ac]
+### 13.[^c-b23b177344a09485ff05132c123a22ac]
 
 In Article 25—
 
@@ -488,7 +488,7 @@ In Article 25—
 
     > **9.**
     >
-    > The Treasury may by regulations specify a third country which, in the opinion of the Treasury, has legal and supervisory arrangements which ensure that third-country CSDs authorised in that third country comply with legally binding requirements which are in effect equivalent to the requirements laid down in this Regulation, that those third-country CSDs are subject to effective supervision, oversight and enforcement in that third country on an ongoing basis and that the legal framework of that third country provides for an effective equivalent system for the recognition of third-country CSDs authorised under third country legal regimes and CSDs authorised under the law applicable in the United Kingdom[^key-1009cbe42a54e79decf7c8f45a801908].
+    > The Treasury may by regulations specify a third country which, in the opinion of the Treasury, has legal and supervisory arrangements which ensure that third-country CSDs authorised in that third country comply with legally binding requirements which are in effect equivalent to the requirements laid down in this Regulation, that those third-country CSDs are subject to effective supervision, oversight and enforcement in that third country on an ongoing basis and that the legal framework of that third country provides for an effective equivalent system for the recognition of third-country CSDs authorised under third country legal regimes and CSDs authorised under the law applicable in the United Kingdom[^c-1009cbe42a54e79decf7c8f45a801908].
 
     ;
   - (ii) in the second sub-paragraph, for “Commission” substitute “ Treasury ”;
@@ -515,7 +515,7 @@ In Article 25—
     - (cc) for “ESMA” substitute “ the competent authority ”;
   - (ii) omit the second and third sub-paragraphs.
 
-### 14.[^key-9698d34bc266e3e897db61a536aedd05]
+### 14.[^c-9698d34bc266e3e897db61a536aedd05]
 
 (1) In Article 26—
 
@@ -553,7 +553,7 @@ In Article 25—
 
 (6) Omit Article 31.
 
-### 15.[^key-3879b30cc40c32ac25104b4ae5c7b04d]
+### 15.[^c-3879b30cc40c32ac25104b4ae5c7b04d]
 
 (1) In Article 33—
 
@@ -571,7 +571,7 @@ In Article 25—
 
 (2) In Article 34, in paragraph 8, for “Union” substitute “ United Kingdom ”.
 
-### 16.[^key-6aa002fd885eb7aaa78c45b347af9dcd]
+### 16.[^c-6aa002fd885eb7aaa78c45b347af9dcd]
 
 (1) In Article 37—
 
@@ -591,7 +591,7 @@ In Article 25—
 
 (4) In Article 41, omit paragraph 4.
 
-### 17.[^key-5aead5af5ed72c4a951acc677849a01c]
+### 17.[^c-5aead5af5ed72c4a951acc677849a01c]
 
 (1) In Article 45—
 
@@ -634,7 +634,7 @@ In Article 25—
 - (a) in paragraph 3, in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
 - (b) omit the second and third sub-paragraphs.
 
-### 18.[^key-e8d288eb019fb363320c9767bd751d3d]
+### 18.[^c-e8d288eb019fb363320c9767bd751d3d]
 
 In Article 48—
 
@@ -652,7 +652,7 @@ In Article 48—
   - (i) in the first sub-paragraph, for the words from the beginning to “develop draft” substitute “ The Bank of England may make ”;
   - (ii) omit the second and third sub-paragraphs.
 
-### 19.[^key-cb0d8b1b58a6f3b724874ab65b7943e0]
+### 19.[^c-cb0d8b1b58a6f3b724874ab65b7943e0]
 
 (1) In the sub-heading for Section 1, after “CSDs” insert “ or third-country CSDs ”.
 
@@ -758,7 +758,7 @@ In Article 48—
   > - (a) the Bank of England in the case of requests made to CSDs and UK CCPs;
   > - (b) the FCA in the case of requests made to UK trading venues.
 
-### 20. Provision of banking-type ancillary services for CSD participants[^key-d05677eec28339ddb877b343f0cda385]
+### 20. Provision of banking-type ancillary services for CSD participants[^c-d05677eec28339ddb877b343f0cda385]
 
 (1) In Article 54—
 
@@ -811,7 +811,7 @@ In Article 48—
 - (b) in paragraph 2, omit the second sub-paragraph;
 - (c) omit paragraph 3.
 
-### 21. Sanctions[^key-a648f15166b94e7be278b28ea1fc6036]
+### 21. Sanctions[^c-a648f15166b94e7be278b28ea1fc6036]
 
 (1) Omit Article 61.
 
@@ -842,7 +842,7 @@ In Article 48—
 
 (6) In Article 66, for “Member States”, substitute “ The competent authority ”.
 
-### 22. Delegation of Power, Implementing Powers, Transitional, Amending and Final Provisions[^key-704b4541afee51329a1affa540374f1c]
+### 22. Delegation of Power, Implementing Powers, Transitional, Amending and Final Provisions[^c-704b4541afee51329a1affa540374f1c]
 
 (1) For the heading for Title VI, substitute “ Regulations, Transitional and Final Provisions ”.
 
@@ -911,13 +911,13 @@ In Article 48—
 
 (9) After Article 76, omit the words “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
-### 23. Annex[^key-4957d8ca13be991fd4880c98d520fdd8]
+### 23. Annex[^c-4957d8ca13be991fd4880c98d520fdd8]
 
 In point (c) of Section C of the Annex, for “point 4 of Annex I to Directive 2013/36/EU” substitute “ regulation 2 of the Payment Services Regulations 2017 [^c23882561] ”.
 
 ## PART 4 — Revocation of EU delegated legislation
 
-### 24. Commission Delegated Regulation (EU) No 2017/389[^key-8b08cd3bfa784864ed5a8533456e75bd]
+### 24. Commission Delegated Regulation (EU) No 2017/389[^c-8b08cd3bfa784864ed5a8533456e75bd]
 
 Commission delegated regulation (EU) No 2017/389 of 11 November 2016 supplementing Regulation (EU) No 909/2014 of the European Parliament and of the Council as regards the parameters for the calculation of cash penalties for settlement fails and the operations of CSDs in host Member States is revoked.
 
@@ -930,14 +930,14 @@ In this Part—
 - ‘qualifying third-country CSD’ means—
   - (a) any legal entity established in a third country that provides the core service referred to in point (3) of Section A of the Annex to the CSD Regulation, or a service which is similar to such a service; and
   - (b) performs at least one other core service listed in Section A of the Annex to the CSD Regulation, or a service which is similar to such a service, and which meets one or both of the following conditions:
-    - (i) that immediately before 28 November 2017, the entity provided the services referred to in Article 23 or 25 of the CSD Regulation (as it had effect before IP completion day[^key-8aabb8888ca3e53021e6329326afa4c7]) in the United Kingdom (including through a branch in the United Kingdom); and
+    - (i) that immediately before 28 November 2017, the entity provided the services referred to in Article 23 or 25 of the CSD Regulation (as it had effect before IP completion day[^c-8aabb8888ca3e53021e6329326afa4c7]) in the United Kingdom (including through a branch in the United Kingdom); and
     - (ii) that the entity was authorised under Article 16 of the CSD Regulation before IP completion day;
 - ‘the CSD Regulation’ means Regulation (EU) No 909/2014 of the European Parliament and of the Council of 23 July 2014 on improving securities settlement in the European Union and on central securities depositories;
 - ‘third country’ means a country other than the United Kingdom.
 
 ### 26. Notification requirements
 
-(1) Where a qualifying third-country CSD intends to provide services on the basis of Article 25 of the CSD Regulation in the United Kingdom on or after IP completion day[^key-33ee4bab0256af55a92d940d5f125e3c], it must notify the Bank of England that it intends to do so before IP completion day.
+(1) Where a qualifying third-country CSD intends to provide services on the basis of Article 25 of the CSD Regulation in the United Kingdom on or after IP completion day[^c-33ee4bab0256af55a92d940d5f125e3c], it must notify the Bank of England that it intends to do so before IP completion day.
 
 (2) For the purposes of paragraph (1), the notification must—
 
@@ -971,11 +971,11 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23882331]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-dca11edfdc7fbd0d8d4453ff5ba8232e]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1/4/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dca11edfdc7fbd0d8d4453ff5ba8232e]: Modification: Regulations modified (31.12.2020) by [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11(1)(4)(5)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/1/4/5) (with [reg. 11(8)-(10)](https://www.legislation.gov.uk/uksi/2019/680/regulation/11/8)) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 40(f)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/40/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6c0724e84a5b52fbfe59cab2e59da540]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1320): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-6c0724e84a5b52fbfe59cab2e59da540]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2018/1320): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-fa706165b0161ab15970bd150a86944c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-fa706165b0161ab15970bd150a86944c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23882341]: Marginal citation: [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879).
 
@@ -985,17 +985,17 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23882371]: Marginal citation: Paragraph (2) was amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
 
-[^key-714093a04148968c3fb19848f165f832]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-714093a04148968c3fb19848f165f832]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23882381]: Marginal citation: [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).
 
-[^key-2961b589f7eb05511e03344384b7a1ae]: Textual amendment: Words in reg. 3(3)(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/8/a)
+[^c-2961b589f7eb05511e03344384b7a1ae]: Textual amendment: Words in reg. 3(3)(c) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/8/a)
 
-[^key-8dbf945ae61c3964868ab73fa3e78d6e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8dbf945ae61c3964868ab73fa3e78d6e]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-af46fac05b280f2d6d49ba11d1394766]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-af46fac05b280f2d6d49ba11d1394766]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-36263f83d116febf9526d515a4063269]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-36263f83d116febf9526d515a4063269]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23882391]: Marginal citation: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). Part 1 of Schedule 2 was substituted by [S.I. 2006/3384](https://www.legislation.gov.uk/uksi/2006/3384) and amended by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488).
 
@@ -1021,62 +1021,62 @@ An impact assessment of the effect that this instrument, and other instruments m
 
 [^c23882501]: Marginal citation: References to Regulation (EU) No 575/2013 are to that Regulation as amended by the Capital Requirements (Amendment) (EU Exit) Regulations.
 
-[^key-cbd20f7dc16b557bb607f99dc10ebb49]: Textual amendment: Words in reg. 6(2)(v) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/8/b)
+[^c-cbd20f7dc16b557bb607f99dc10ebb49]: Textual amendment: Words in reg. 6(2)(v) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/8/b)
 
 [^c23882511]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-6f93b8ecf36155133a2153d414b2c6fc]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6f93b8ecf36155133a2153d414b2c6fc]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-771450257af65f589f549197e368119d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-771450257af65f589f549197e368119d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-95ebdaa75a2d83227fc92ccad5c9ca9f]: Textual amendment: Words in reg. 8(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/710/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95ebdaa75a2d83227fc92ccad5c9ca9f]: Textual amendment: Words in reg. 8(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/710/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70d7c3523f0c543742b419b6d3339dfc]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-70d7c3523f0c543742b419b6d3339dfc]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-989cb5a75459d188358d7df60fac0e5a]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-989cb5a75459d188358d7df60fac0e5a]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-6520843805f64abdfa90107d19ade27a]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6520843805f64abdfa90107d19ade27a]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-edc7f0ff38661b68c8bd94bd6e37f773]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-edc7f0ff38661b68c8bd94bd6e37f773]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23882521]: Marginal citation: [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348).
 
-[^key-b23b177344a09485ff05132c123a22ac]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b23b177344a09485ff05132c123a22ac]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-1009cbe42a54e79decf7c8f45a801908]: Textual amendment: Words in reg. 13(j)(i) inserted (30.9.2020) by [The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1055)](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1055/regulation/9)
+[^c-1009cbe42a54e79decf7c8f45a801908]: Textual amendment: Words in reg. 13(j)(i) inserted (30.9.2020) by [The Equivalence Determinations for Financial Services (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1055)](https://www.legislation.gov.uk/uksi/2020/1055), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1055/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1055/regulation/9)
 
-[^key-9698d34bc266e3e897db61a536aedd05]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9698d34bc266e3e897db61a536aedd05]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-3879b30cc40c32ac25104b4ae5c7b04d]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3879b30cc40c32ac25104b4ae5c7b04d]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-6aa002fd885eb7aaa78c45b347af9dcd]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-6aa002fd885eb7aaa78c45b347af9dcd]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23882531]: Marginal citation: Regulation 20 was amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993) and [S.I. 2013/504](https://www.legislation.gov.uk/uksi/2013/504). Paragraph 5 of the Schedule was amended by [S.I. 2010/2993](https://www.legislation.gov.uk/uksi/2010/2993).
 
-[^key-5aead5af5ed72c4a951acc677849a01c]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-5aead5af5ed72c4a951acc677849a01c]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23882541]: Marginal citation: Part 4A was inserted by section 11 of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21).
 
-[^key-e8d288eb019fb363320c9767bd751d3d]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-e8d288eb019fb363320c9767bd751d3d]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-cb0d8b1b58a6f3b724874ab65b7943e0]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-cb0d8b1b58a6f3b724874ab65b7943e0]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23882551]: Marginal citation: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
 
-[^key-d05677eec28339ddb877b343f0cda385]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-d05677eec28339ddb877b343f0cda385]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-a648f15166b94e7be278b28ea1fc6036]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a648f15166b94e7be278b28ea1fc6036]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-704b4541afee51329a1affa540374f1c]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-704b4541afee51329a1affa540374f1c]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-4957d8ca13be991fd4880c98d520fdd8]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-4957d8ca13be991fd4880c98d520fdd8]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23882561]: Marginal citation: [S.I. 2017/752](https://www.legislation.gov.uk/uksi/2017/752).
 
-[^key-8b08cd3bfa784864ed5a8533456e75bd]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-8b08cd3bfa784864ed5a8533456e75bd]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-8aabb8888ca3e53021e6329326afa4c7]: Textual amendment: Words in reg. 25 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2020/56/regulation/10/a)
+[^c-8aabb8888ca3e53021e6329326afa4c7]: Textual amendment: Words in reg. 25 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2020/56/regulation/10/a)
 
-[^key-33ee4bab0256af55a92d940d5f125e3c]: Textual amendment: Words in reg. 26 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/10/b)
+[^c-33ee4bab0256af55a92d940d5f125e3c]: Textual amendment: Words in reg. 26 substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2020/56/regulation/10/b)
 
 [^c23882571]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 312E was inserted by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21) and amended by [S.I. 2017/1064](https://www.legislation.gov.uk/uksi/2017/1064).

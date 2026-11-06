@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Protective provisions[^key-e0c58a690273f62b5be3b7d7c9b394fd]
+## 44. Protective provisions[^c-e0c58a690273f62b5be3b7d7c9b394fd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 17 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-e0c58a690273f62b5be3b7d7c9b394fd]: Commencement: Art. 44 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-e0c58a690273f62b5be3b7d7c9b394fd]: Commencement: Art. 44 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

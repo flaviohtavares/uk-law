@@ -23,10 +23,10 @@ summary: ''
 
 and every notification shall include a statement as to the matters set out in Schedule 7.
 
-(2) A person affected to whom an authority sends or delivers a notification of decision may, within one month of the date of the notification of that decision (or, if the decision was notified before 1st November 2010, before 1st December 2010),[^key-926dabbca27d3f0d9245dc8ee4736f28] request in writing the authority to provide a written statement setting out the reasons for its decision on any matter set out in the notice.
+(2) A person affected to whom an authority sends or delivers a notification of decision may, within one month of the date of the notification of that decision (or, if the decision was notified before 1st November 2010, before 1st December 2010),[^c-926dabbca27d3f0d9245dc8ee4736f28] request in writing the authority to provide a written statement setting out the reasons for its decision on any matter set out in the notice.
 
 (3) The written statement referred to in paragraph (2) shall be sent to the person requesting it within 14 days or as soon as is reasonably practical thereafter.
 
 ## Annotations
 
-[^key-926dabbca27d3f0d9245dc8ee4736f28]: Textual amendment: Words in [reg. 61(2)](https://www.legislation.gov.uk/uksi/2006/216/regulation/61/2) inserted (1.11.2010) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/2449)](https://www.legislation.gov.uk/uksi/2010/2449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2449/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2010/2449/regulation/5/6)
+[^c-926dabbca27d3f0d9245dc8ee4736f28]: Textual amendment: Words in [reg. 61(2)](https://www.legislation.gov.uk/uksi/2006/216/regulation/61/2) inserted (1.11.2010) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/2449)](https://www.legislation.gov.uk/uksi/2010/2449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/2449/regulation/1/2), [5(6)](https://www.legislation.gov.uk/uksi/2010/2449/regulation/5/6)

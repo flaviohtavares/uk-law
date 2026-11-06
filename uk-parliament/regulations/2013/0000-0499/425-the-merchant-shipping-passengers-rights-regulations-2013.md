@@ -48,11 +48,11 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of sec
 
 Accordingly, the Secretary of State in exercise of the powers conferred on him by that section makes the following regulations.
 
-## 1. Citation and commencement[^key-60ca10cda789f05df9533b5b35394448]
+## 1. Citation and commencement[^c-60ca10cda789f05df9533b5b35394448]
 
 These Regulations may be cited as the Merchant Shipping (Passengers’ Rights) Regulations 2013 and come into force on 27th March 2013.
 
-## 2. Interpretation[^key-f9507a69261bd768de4c2846e0b98cec]
+## 2. Interpretation[^c-f9507a69261bd768de4c2846e0b98cec]
 
 (1) In these Regulations—
 
@@ -63,7 +63,7 @@ These Regulations may be cited as the Merchant Shipping (Passengers’ Rights) R
 
 (2) A reference to an Article is a reference to that Article in the EU Regulation.
 
-## 3. Offences[^key-44e671dd97457b168949ca89646ad2cc]
+## 3. Offences[^c-44e671dd97457b168949ca89646ad2cc]
 
 (1) A carrier who contravenes an obligation imposed by Article 4(1), 17, 18 or 19(5) is guilty of an offence.
 
@@ -81,7 +81,7 @@ These Regulations may be cited as the Merchant Shipping (Passengers’ Rights) R
 
 (8) A tour operator or travel agent who contravenes an obligation imposed by Article 11(3) or 12(2) is guilty of an offence.
 
-## 4. Penalties[^key-173ec3b036607fabdb78f19ea5ccddbb]
+## 4. Penalties[^c-173ec3b036607fabdb78f19ea5ccddbb]
 
 A person guilty of an offence under regulation 3 is liable—
 
@@ -113,19 +113,19 @@ A person guilty of an offence under regulation 3 is liable—
 
   on summary conviction, to a fine not exceeding the statutory maximum, or on conviction on indictment, to an unlimited fine.
 
-## 5. Other performing parties[^key-da0892f194275d7372f543b7da26d98f]
+## 5. Other performing parties[^c-da0892f194275d7372f543b7da26d98f]
 
 (1) This regulation applies where a person (A) undertakes to carry out an obligation imposed on another person (B) under any of the Articles mentioned in regulation 3.
 
 (2) In such a case, A and B are both guilty of an offence if that obligation is contravened.
 
-## 6. Defence[^key-bfc3008fcc90301173ef687b730ca63a]
+## 6. Defence[^c-bfc3008fcc90301173ef687b730ca63a]
 
 (1) Subject to paragraph (2), in proceedings against any person for an offence under regulation 3, it is a defence for that person to show that they took all reasonable steps to avoid committing the offence.
 
 (2) A person is not entitled to rely on the defence provided by paragraph (1) by reason of their reliance on information supplied to them, unless they show that it was reasonable in all the circumstances to have relied on that information.
 
-## 7. Offences by corporate or unincorporated bodies[^key-cb04cbe5b82c70549a8b8b3511c7acce]
+## 7. Offences by corporate or unincorporated bodies[^c-cb04cbe5b82c70549a8b8b3511c7acce]
 
 (1) Where—
 
@@ -144,7 +144,7 @@ the individual as well as the body corporate, partnership or unincorporated asso
 - (b) in relation to a partnership, a partner;
 - (c) in relation to an unincorporated association other than a partnership, a person who is concerned in the management or control of the association.
 
-## 8. Enforcement[^key-0c01e3083973280f0546db45a8029e20]
+## 8. Enforcement[^c-0c01e3083973280f0546db45a8029e20]
 
 (1) The Maritime and Coastguard Agency is the body designated for the purposes of Article 25.
 
@@ -152,7 +152,7 @@ the individual as well as the body corporate, partnership or unincorporated asso
 
 (3) A person who fails, without reasonable excuse, to comply with a request to supply such information or documents is guilty of an offence, and is liable on summary conviction, to a fine not exceeding level 5 on the standard scale, or on conviction on indictment, to an unlimited fine.
 
-## 9. Compensation claims[^key-3a0f278497202182a642be0f3e31c300]
+## 9. Compensation claims[^c-3a0f278497202182a642be0f3e31c300]
 
 (1) A claim by a person for an infringement of any of that person’s rights under the EU Regulation may be made the subject of civil proceedings in the same way as any other claim in tort or (in Scotland) in reparation for breach of statutory duty.
 
@@ -168,11 +168,11 @@ the individual as well as the body corporate, partnership or unincorporated asso
 
 (7) A court may consider any claim under this regulation which is out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
-## 10. Transitory provisions of the Equality Act 2010[^key-c3a63ee74e7e996732951d66cfca7dec]
+## 10. Transitory provisions of the Equality Act 2010[^c-c3a63ee74e7e996732951d66cfca7dec]
 
 In relation to such aspects of a particular case as are governed by the EU Regulation, Article 10 of the Equality Act 2010 (Commencement No.4, Savings, Consequential, Transitional, Transitory and Incidental Provisions and Revocation) Order 2010[^f00004] (transitory provisions relating to ships and hovercraft) does not apply.
 
-## 11. Review[^key-65e6d11332f2250c0647c7d7b7a09b9d]
+## 11. Review[^c-65e6d11332f2250c0647c7d7b7a09b9d]
 
 (1) The Secretary of State must from time to time—
 
@@ -180,7 +180,7 @@ In relation to such aspects of a particular case as are governed by the EU Regul
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2)[^key-d8b85de3c77429bcbb6bee08de49ff02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d8b85de3c77429bcbb6bee08de49ff02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -230,30 +230,30 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1972 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
 
-[^key-60ca10cda789f05df9533b5b35394448]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-60ca10cda789f05df9533b5b35394448]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
-[^key-f9507a69261bd768de4c2846e0b98cec]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/425/regulation/2) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-f9507a69261bd768de4c2846e0b98cec]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/425/regulation/2) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
 [^f00003]: Footnote: OJ No L334, 17.12.2010, p1.
 
-[^key-44e671dd97457b168949ca89646ad2cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/425/regulation/3) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-44e671dd97457b168949ca89646ad2cc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/425/regulation/3) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
-[^key-173ec3b036607fabdb78f19ea5ccddbb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/425/regulation/4) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-173ec3b036607fabdb78f19ea5ccddbb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/425/regulation/4) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
-[^key-da0892f194275d7372f543b7da26d98f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/425/regulation/5) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-da0892f194275d7372f543b7da26d98f]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/425/regulation/5) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
-[^key-bfc3008fcc90301173ef687b730ca63a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/425/regulation/6) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-bfc3008fcc90301173ef687b730ca63a]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/425/regulation/6) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
-[^key-cb04cbe5b82c70549a8b8b3511c7acce]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/425/regulation/7) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-cb04cbe5b82c70549a8b8b3511c7acce]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/425/regulation/7) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
-[^key-0c01e3083973280f0546db45a8029e20]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/425/regulation/8) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-0c01e3083973280f0546db45a8029e20]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2013/425/regulation/8) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
-[^key-3a0f278497202182a642be0f3e31c300]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/425/regulation/9) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-3a0f278497202182a642be0f3e31c300]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2013/425/regulation/9) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
-[^key-c3a63ee74e7e996732951d66cfca7dec]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/425/regulation/10) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-c3a63ee74e7e996732951d66cfca7dec]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2013/425/regulation/10) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317).
 
-[^key-65e6d11332f2250c0647c7d7b7a09b9d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/425/regulation/11) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
+[^c-65e6d11332f2250c0647c7d7b7a09b9d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2013/425/regulation/11) in force at 27.3.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/425/regulation/1)
 
-[^key-d8b85de3c77429bcbb6bee08de49ff02]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2013/425/regulation/11/2) omitted (31.12.2020) by virtue of [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/649/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8b85de3c77429bcbb6bee08de49ff02]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/2013/425/regulation/11/2) omitted (31.12.2020) by virtue of [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/649/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

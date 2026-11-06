@@ -25,11 +25,11 @@ summary: ''
 (2) The provisions referred to in subsection (1) above are the following provisions of Schedule 4 to the Contributions and Benefits Act—
 
 - (a) paragraph 6 of Part I (child's special allowance);
-- (b)[^key-f3be2081701913ac720cfe040fdb5675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-f3be2081701913ac720cfe040fdb5675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f3be2081701913ac720cfe040fdb5675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f3be2081701913ac720cfe040fdb5675] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) paragraph 7 of Part V (increase of weekly rate of disablement pension in respect of child dependants);
 - (e) paragraph 12 of Part V (allowance in respect of deceased's children).
 
 ## Annotations
 
-[^key-f3be2081701913ac720cfe040fdb5675]: Textual amendment: S. 154(2)(b)(c) repealed (1.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2) (with savings in [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 3](https://www.legislation.gov.uk/uksi/2003/962/article/3); [S.I. 2003/938](https://www.legislation.gov.uk/uksi/2003/938), [art. 5](https://www.legislation.gov.uk/uksi/2003/938/article/5))
+[^c-f3be2081701913ac720cfe040fdb5675]: Textual amendment: S. 154(2)(b)(c) repealed (1.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2) (with savings in [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 3](https://www.legislation.gov.uk/uksi/2003/962/article/3); [S.I. 2003/938](https://www.legislation.gov.uk/uksi/2003/938), [art. 5](https://www.legislation.gov.uk/uksi/2003/938/article/5))

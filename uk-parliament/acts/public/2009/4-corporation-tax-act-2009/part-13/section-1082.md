@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-[^key-6c9c13f1438e91fe480726e61d860c36][^key-351a2936c9f8a34292214429b4590df1]
+[^c-6c9c13f1438e91fe480726e61d860c36][^c-351a2936c9f8a34292214429b4590df1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c9c13f1438e91fe480726e61d860c36]: Textual amendment: [Pt. 13 Ch. 6](https://www.legislation.gov.uk/ukpga/2009/4/part/13/chapter/6) omitted (with effect in relation to accounting periods beginning on or after 1.4.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 7](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/7), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-6c9c13f1438e91fe480726e61d860c36]: Textual amendment: [Pt. 13 Ch. 6](https://www.legislation.gov.uk/ukpga/2009/4/part/13/chapter/6) omitted (with effect in relation to accounting periods beginning on or after 1.4.2024) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 7](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/7), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
 
-[^key-351a2936c9f8a34292214429b4590df1]: Textual amendment: S. 1082 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/18)
+[^c-351a2936c9f8a34292214429b4590df1]: Textual amendment: S. 1082 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 18](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 352. Sexual harm prevention orders: notification requirements[^key-cba087ba076dafd583566df3c4dd27bf]
+## 352. Sexual harm prevention orders: notification requirements[^c-cba087ba076dafd583566df3c4dd27bf]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ the offender remains subject to the notification requirements.
 
 ## Annotations
 
-[^key-cba087ba076dafd583566df3c4dd27bf]: Commencement: [S. 352](https://www.legislation.gov.uk/ukpga/2020/17/section/352) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cba087ba076dafd583566df3c4dd27bf]: Commencement: [S. 352](https://www.legislation.gov.uk/ukpga/2020/17/section/352) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

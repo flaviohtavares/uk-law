@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Title of proceedings[^key-972f94ec56f67a094c8dd9268e5f6606]
+## 52. Title of proceedings[^c-972f94ec56f67a094c8dd9268e5f6606]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Every PPP administration proceeding shall, with any necessary additions, name th
 
 ## Annotations
 
-[^key-972f94ec56f67a094c8dd9268e5f6606]: Commencement: [Rule 52](https://www.legislation.gov.uk/uksi/2007/3141/rule/52) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-972f94ec56f67a094c8dd9268e5f6606]: Commencement: [Rule 52](https://www.legislation.gov.uk/uksi/2007/3141/rule/52) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

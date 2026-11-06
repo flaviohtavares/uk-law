@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Effect of orders in other parts of the United Kingdom[^key-f8af08c2cae1fbcfb4fef5af7286ba3f][^key-b624b6e3e03155c63ad4ac5abd5e2ef8]
+## 174. Effect of orders in other parts of the United Kingdom[^c-f8af08c2cae1fbcfb4fef5af7286ba3f][^c-b624b6e3e03155c63ad4ac5abd5e2ef8]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ A consumer protection order made in a part of the United Kingdom by a court spec
 
 ## Annotations
 
-[^key-f8af08c2cae1fbcfb4fef5af7286ba3f]: Commencement: S. 174 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-f8af08c2cae1fbcfb4fef5af7286ba3f]: Commencement: S. 174 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b624b6e3e03155c63ad4ac5abd5e2ef8]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2024/13/section/174) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-b624b6e3e03155c63ad4ac5abd5e2ef8]: Commencement: [S. 174](https://www.legislation.gov.uk/ukpga/2024/13/section/174) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

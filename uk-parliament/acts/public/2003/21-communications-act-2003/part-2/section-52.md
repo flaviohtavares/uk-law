@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Conditions relating to customer interests[^key-23269eb43e09f90ff89b1b460569900b][^key-eff47b21e557faf6430ddf187d0280a9]
+## 52. Conditions relating to customer interests[^c-23269eb43e09f90ff89b1b460569900b][^c-eff47b21e557faf6430ddf187d0280a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,16 +29,16 @@ establish and maintain procedures, standards and policies with respect to the ma
 
 (2) Those matters are—
 
-- (a) the handling of complaints made to public communications providers by any of their domestic and small business customers , where the complaint relates to contractual conditions, or to the performance of a contract for the supply of an electronic communications network or service[^key-889c3cc55935b1338d73c99e5802c9e4] ;
-- (b) the resolution of disputes between such providers and any of their domestic and small business customers , where the complaint relates to contractual conditions, or to the performance of a contract for the supply of an electronic communications network or service[^key-bbc07f58028d3c22d5ad59fcc0b47dd1] ;
+- (a) the handling of complaints made to public communications providers by any of their domestic and small business customers , where the complaint relates to contractual conditions, or to the performance of a contract for the supply of an electronic communications network or service[^c-889c3cc55935b1338d73c99e5802c9e4] ;
+- (b) the resolution of disputes between such providers and any of their domestic and small business customers , where the complaint relates to contractual conditions, or to the performance of a contract for the supply of an electronic communications network or service[^c-bbc07f58028d3c22d5ad59fcc0b47dd1] ;
 - (c) the provision of remedies and redress in respect of matters that form the subject-matter of such complaints or disputes;
-- (ca)[^key-405fd23b7cbbce04553d5cdcf2b1f6b5] the payment of compensation to a person in respect of delay in porting a number to another public communications provider, or abuse of the process for porting a number;
+- (ca)[^c-405fd23b7cbbce04553d5cdcf2b1f6b5] the payment of compensation to a person in respect of delay in porting a number to another public communications provider, or abuse of the process for porting a number;
 - (d) the information about service standards and about the rights of domestic and small business customers that is to be made available to those customers by public communications providers;
 - (e) any other matter appearing to OFCOM to be necessary for securing effective protection for the domestic and small business customers of such providers.
 
 (3) It shall be the duty of OFCOM, in setting conditions in accordance with subsection (1), to secure so far as they consider appropriate—
 
-- (a) that the procedures established and maintained for the handling of complaints and the resolution of disputes are easy to use, transparent , non-discriminatory[^key-65d637eb5e80f858ebd096475bfad8e1] and effective;
+- (a) that the procedures established and maintained for the handling of complaints and the resolution of disputes are easy to use, transparent , non-discriminatory[^c-65d637eb5e80f858ebd096475bfad8e1] and effective;
 - (b) that domestic and small business customers have the right to use those procedures free of charge; and
 - (c) that where public communications providers are in contravention of conditions set in accordance with the preceding provisions of this section, the providers follow such procedures as may be required by the general conditions.
 
@@ -59,14 +59,14 @@ establish and maintain procedures, standards and policies with respect to the ma
 
 ## Annotations
 
-[^key-23269eb43e09f90ff89b1b460569900b]: Commencement: S. 52 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-23269eb43e09f90ff89b1b460569900b]: Commencement: S. 52 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-eff47b21e557faf6430ddf187d0280a9]: Commencement: S. 52 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-eff47b21e557faf6430ddf187d0280a9]: Commencement: S. 52 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-889c3cc55935b1338d73c99e5802c9e4]: Textual amendment: Words in s. 52(2)(a) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 28(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/28/a) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-889c3cc55935b1338d73c99e5802c9e4]: Textual amendment: Words in s. 52(2)(a) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 28(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/28/a) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-bbc07f58028d3c22d5ad59fcc0b47dd1]: Textual amendment: Words in s. 52(2)(b) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 28(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/28/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-bbc07f58028d3c22d5ad59fcc0b47dd1]: Textual amendment: Words in s. 52(2)(b) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 28(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/28/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-405fd23b7cbbce04553d5cdcf2b1f6b5]: Textual amendment: S. 52(2)(ca) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 28(c)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/28/c) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-405fd23b7cbbce04553d5cdcf2b1f6b5]: Textual amendment: S. 52(2)(ca) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 28(c)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/28/c) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-65d637eb5e80f858ebd096475bfad8e1]: Textual amendment: Words in s. 52(3)(a) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 28(d)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/28/d) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-65d637eb5e80f858ebd096475bfad8e1]: Textual amendment: Words in s. 52(3)(a) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 28(d)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/28/d) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))

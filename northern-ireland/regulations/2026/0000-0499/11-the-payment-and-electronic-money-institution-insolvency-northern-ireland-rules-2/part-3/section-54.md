@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Procedure for admitting creditors’ claims for voting[^key-8640928e14e261375e9b07062bc09351]
+## 54. Procedure for admitting creditors’ claims for voting[^c-8640928e14e261375e9b07062bc09351]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8640928e14e261375e9b07062bc09351]: Commencement: [Rule 54](https://www.legislation.gov.uk/nisr/2026/11/rule/54) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-8640928e14e261375e9b07062bc09351]: Commencement: [Rule 54](https://www.legislation.gov.uk/nisr/2026/11/rule/54) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

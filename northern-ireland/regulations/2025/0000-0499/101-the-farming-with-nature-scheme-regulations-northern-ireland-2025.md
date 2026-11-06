@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs, in exercise of the powers conferred by section 48 of, and paragraph 5 of Schedule 6 to the Agriculture Act 2020[^f00001] and Article 28(10)(2)(d) of Regulation (EU) No.1305/2013 of the European Parliament and of the Council of 17 December 2013[^f00002], makes the following Regulations:
 
-## 1. Citation and commencement[^key-201c60ab5f8d6f9b1326055110cb0e66]
+## 1. Citation and commencement[^c-201c60ab5f8d6f9b1326055110cb0e66]
 
 These Regulations may be cited as the Farming with Nature Scheme Regulations (Northern Ireland) 2025 and shall come into operation on 19th June 2025.
 
-## 2. Interpretation[^key-fce3300c15b15b09ecc46422290e58eb]
+## 2. Interpretation[^c-fce3300c15b15b09ecc46422290e58eb]
 
 (1) In these Regulations—
 
@@ -61,7 +61,7 @@ These Regulations may be cited as the Farming with Nature Scheme Regulations (No
 - “**farm business**” means a farm business which holds a DAERA Farm Business ID number;
 - “**gate and two posts**” means a gate and two posts which meet the criteria in Schedule 2;
 - “**LPIS**” means the Land Parcel Identification System maintained by the Department;
-- “[^key-9c21e7ca897b6ccd97af576c11be6835]**machinery**” includes–
+- “[^c-9c21e7ca897b6ccd97af576c11be6835]**machinery**” includes–
   - (i) digging machines;
   - (ii) mobile cranes;
   - (iii) generators or compressors;
@@ -70,7 +70,7 @@ These Regulations may be cited as the Farming with Nature Scheme Regulations (No
   - (vi) self-propelled agricultural vehicles including tractors and quad vehicles; and
   - (vii) fork-lift trucks
 - “**management control**” in relation to an applicant, means the power to manage the fields in which eligible scheme actions and eligible supporting items are implemented with a degree of autonomy in respect of those fields sufficient for the carrying out of eligible scheme actions and eligible supporting items;
-- “[^key-38bed184ee4c180fa492b32697611bba]**permanent grassland sensitive area**” means as required by Article 32A of [Regulation (EU) No. 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307) of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy areas including peat and wetlands covered by either or both the Wild Birds Directive and the Habitats Directive which are environmentally sensitive and which need protection to meet the requirements of these directives;
+- “[^c-38bed184ee4c180fa492b32697611bba]**permanent grassland sensitive area**” means as required by Article 32A of [Regulation (EU) No. 1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307) of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy areas including peat and wetlands covered by either or both the Wild Birds Directive and the Habitats Directive which are environmentally sensitive and which need protection to meet the requirements of these directives;
 - “**post**” means a post which is—
   - (a) new and commercially available; and
   - (b) does not consist of wooden materials;
@@ -88,57 +88,57 @@ These Regulations may be cited as the Farming with Nature Scheme Regulations (No
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Scheme duration[^key-557fc8b8d253258b40a5865fbb8f7338]
+## 3. Scheme duration[^c-557fc8b8d253258b40a5865fbb8f7338]
 
 The scheme shall, subject to the ongoing scheme liabilities and obligations, operate for a period of two scheme years ending on 31st March 2027.
 
-## 4. Eligibility requirements; general requirements[^key-2ca82594588a8a24741da5b7ccdb5e78]
+## 4. Eligibility requirements; general requirements[^c-2ca82594588a8a24741da5b7ccdb5e78]
 
 (1) An eligible farm business shall—
 
-- (a) hold either a Category 1 or 2 DAERA Farm Business ID number; [^key-21f38f9f11d27c8ea594cffb8c643ca2]...
-- (b)[^key-21f38f9f11d27c8ea594cffb8c643ca2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) hold either a Category 1 or 2 DAERA Farm Business ID number; [^c-21f38f9f11d27c8ea594cffb8c643ca2]...
+- (b)[^c-21f38f9f11d27c8ea594cffb8c643ca2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) An applicant must have management control of the fields in which eligible scheme actions and eligible supporting items are implemented.
 
-## 5. Eligible Scheme actions[^key-f8ebd10829c95e9c0a8d036fd9abacbc]
+## 5. Eligible Scheme actions[^c-f8ebd10829c95e9c0a8d036fd9abacbc]
 
 An applicant carrying out eligible scheme actions in each specific scheme year must meet the criteria in Schedule 1.
 
-**6.**[^key-58c0199c8328974e0efa3cc20c6fc160] An applicant carrying out eligible supporting items in each specific scheme year must meet the criteria in Schedule 2.
+**6.**[^c-58c0199c8328974e0efa3cc20c6fc160] An applicant carrying out eligible supporting items in each specific scheme year must meet the criteria in Schedule 2.
 
-**7.**[^key-488fbe5d85bde50ebbeefa610104d559] Eligible scheme actions and eligible supporting items are not permitted on Tier 1, Tier 2 or Tier 3 land under this scheme.
+**7.**[^c-488fbe5d85bde50ebbeefa610104d559] Eligible scheme actions and eligible supporting items are not permitted on Tier 1, Tier 2 or Tier 3 land under this scheme.
 
-## 8. Scheme actions; payments[^key-fde2283f2dadf144ee4b2e54ceadd3d2]
+## 8. Scheme actions; payments[^c-fde2283f2dadf144ee4b2e54ceadd3d2]
 
 (1) The Department shall not make a payment to an applicant until the applicant has returned to the Department a signed form of acknowledgement and understanding of scheme payment conditions declaration in such form as the Department may determine.
 
-(2) Subject to regulations 5 and 6 and to paragraph (1), the Department shall pay an applicant an amount not exceeding £20,000[^key-75e0e06dd477f2e2a82d8154f7408622] for work completed in relation to eligible scheme actions and eligible supporting items each scheme year.
+(2) Subject to regulations 5 and 6 and to paragraph (1), the Department shall pay an applicant an amount not exceeding £20,000[^c-75e0e06dd477f2e2a82d8154f7408622] for work completed in relation to eligible scheme actions and eligible supporting items each scheme year.
 
 (3) Schedule 3 lists the payments rates the Department will use to pay applicants for work completed for eligible scheme actions and eligible supporting items.
 
-## 9. Modification of [Regulation (EU)1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^key-111898f6878ab808323383e298cfee5a]
+## 9. Modification of [Regulation (EU)1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^c-111898f6878ab808323383e298cfee5a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Modification of Commission Implementing [Regulation (EU)640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^key-c8922f745f52960671b6970fa7e913da]
+## 10. Modification of Commission Implementing [Regulation (EU)640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^c-c8922f745f52960671b6970fa7e913da]
 
 In the application of Commission Implementing [Regulation (EU) 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640) to this scheme–
 
 - (a) Article 19 shall not apply;
 - (b) in Article 36, the words from “The suspension” to the end of the article shall not apply.
 
-## 11. Modification of Commission Implementing [Regulation (EU)809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^key-80f8f5dc48bb4af4a7ad7d786d315366]
+## 11. Modification of Commission Implementing [Regulation (EU)809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^c-80f8f5dc48bb4af4a7ad7d786d315366]
 
 In its application to this scheme, paragraph 1 of Article 32 of the Commission Implementing [Regulation (EU)809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^f00010] shall be read as if for “5%” in each place there were substituted “1%”.
 
-## 12. Use of LPIS information[^key-16c460c34bad216252333983a24417a1]
+## 12. Use of LPIS information[^c-16c460c34bad216252333983a24417a1]
 
 (1) The Department shall use the information recorded on LPIS to determine whether the requirements in Schedule 1 are met.
 
 (2) The LPIS information shall be conclusive evidence unless otherwise rebutted or corrected to the satisfaction of the Department.
 
-## 13. Withholding and recovery of overpayments[^key-51a8bb7ebb710c4abc14620d92d81670]
+## 13. Withholding and recovery of overpayments[^c-51a8bb7ebb710c4abc14620d92d81670]
 
 (1) This regulation applies where an application for payment has been approved by the Department and it becomes aware that the applicant—
 
@@ -160,7 +160,7 @@ In its application to this scheme, paragraph 1 of Article 32 of the Commission I
 - (b) afford the applicant the opportunity to make written representations within 14 days beginning with the date of the issue of the notice; and
 - (c) consider any representations made by or on behalf of the applicant.
 
-## 14. Powers of authorised persons[^key-aa12e71b0f138b7f13623e5399218270]
+## 14. Powers of authorised persons[^c-aa12e71b0f138b7f13623e5399218270]
 
 (1) An authorised person may exercise any of the powers specified in paragraphs (2) to (4) for the purposes of these Regulations.
 
@@ -179,11 +179,11 @@ In its application to this scheme, paragraph 1 of Article 32 of the Commission I
 
 (5) For the purposes of this regulation a computer includes any electronic device.
 
-## 15. Assistance to authorised persons[^key-45d388b59174264686d051ebc26eeb34]
+## 15. Assistance to authorised persons[^c-45d388b59174264686d051ebc26eeb34]
 
 An applicant or any employee, agent, contractor or tenant of an applicant shall give an authorised person such assistance as may be reasonably required to enable the authorised person to exercise the powers conferred by regulation 14.
 
-## 16. Offences and penalties[^key-71f28b617c929facd87cec7ada926193]
+## 16. Offences and penalties[^c-71f28b617c929facd87cec7ada926193]
 
 (1) Any person who—
 
@@ -206,7 +206,7 @@ A senior officer of the Department of Agriculture, Environment and Rural Affairs
 
 Regulations 2(1), 5 and 12(1)
 
-### 1. Eligible scheme actions; planting new hedgerows[^key-1c2200326c200518318248062631485d]
+### 1. Eligible scheme actions; planting new hedgerows[^c-1c2200326c200518318248062631485d]
 
 An applicant planting a new hedgerow must–
 
@@ -228,11 +228,11 @@ An applicant planting a new hedgerow must–
   - (v) against a stone wall; and
 - (j) ensure if erecting protective fencing it meets the eligibility criteria in Schedule 2.
 
-### 2.[^key-17184986af955bc2f93187d3ebe0ad9d]
+### 2.[^c-17184986af955bc2f93187d3ebe0ad9d]
 
  An eligible farm business will receive a scheme payment for any protective fencing erected up to a maximum of twice the length of newly planted hedgerows which meet the eligibility criteria in paragraph 1.
 
-### 3. Eligible scheme actions; creation of riparian buffer strips[^key-19f2aef9813a45a4fcacf90ca3cb3605]
+### 3. Eligible scheme actions; creation of riparian buffer strips[^c-19f2aef9813a45a4fcacf90ca3cb3605]
 
 An applicant creating a riparian buffer strip must–
 
@@ -250,7 +250,7 @@ An applicant creating a riparian buffer strip must–
 - (f) complete all work related to this action by 28th February 2027; and
 - (g) retain the riparian buffer strip for a period of at least 15 years beginning with 28th February 2027.
 
-### 4. Eligible scheme actions; farmland tree planting[^key-3837e2cd10ba479ae7290ff9ccefce74]
+### 4. Eligible scheme actions; farmland tree planting[^c-3837e2cd10ba479ae7290ff9ccefce74]
 
 (1) An applicant planting trees must–
 
@@ -271,7 +271,7 @@ An applicant creating a riparian buffer strip must–
 - (j) retain planted trees for a minimum period of 20 years beginning with 28th February 2027; and
 - (k) ensure if erecting protective fencing it meets the eligibility criteria in Schedule 2.
 
-### 5. Eligible scheme actions; retention of winter stubble[^key-fb1c90657a6950e598812a92711eb295]
+### 5. Eligible scheme actions; retention of winter stubble[^c-fb1c90657a6950e598812a92711eb295]
 
 (1) The criteria in paragraphs (2), (3), (4) and (5) apply to this action.
 
@@ -303,7 +303,7 @@ An applicant creating a riparian buffer strip must–
   - (iii) left as chopped straw; and
 - (f) ensure stubble is not grazed or cut.
 
-### 6. Eligible scheme actions; multi-species winter cover crop[^key-39185e57fec6ddd75aeaa53bb58d6d67]
+### 6. Eligible scheme actions; multi-species winter cover crop[^c-39185e57fec6ddd75aeaa53bb58d6d67]
 
 (1) The criteria in paragraphs (2), (3) and (4) apply to this action.
 
@@ -323,7 +323,7 @@ An applicant creating a riparian buffer strip must–
 
 (4) This action must not be completed on permanent grassland sensitive areas.
 
-### 7. Eligible scheme actions; Arable – unharvested cereal margin between 3 and 12 metres[^key-5c23c43ad212e42c0a28b61aa1ceef86]
+### 7. Eligible scheme actions; Arable – unharvested cereal margin between 3 and 12 metres[^c-5c23c43ad212e42c0a28b61aa1ceef86]
 
 An applicant creating an unharvested cereal margin on arable land between 3 and 12 metres wide must–
 
@@ -448,7 +448,7 @@ An applicant who planted trees between 19th June 2025 and 31st March 2026 which 
 
 Regulations 2(1) and 6
 
-### 1. Protective fencing[^key-a0a36a99ca5087b381b233bc190f4667]
+### 1. Protective fencing[^c-a0a36a99ca5087b381b233bc190f4667]
 
 An applicant installing protective fencing must–
 
@@ -461,15 +461,15 @@ An applicant installing protective fencing must–
     - (aa) a minimum of five strands of wire; or
     - (bb) sheep mesh with two strands of wire.
 
-**2.**[^key-7ca23118097c689454ccd358eae126a4] Where an applicant plants new hedgerows any protective fencing they erect must be no more than an average of 3 metres from the centre of the hedgerow.
+**2.**[^c-7ca23118097c689454ccd358eae126a4] Where an applicant plants new hedgerows any protective fencing they erect must be no more than an average of 3 metres from the centre of the hedgerow.
 
-**3.**[^key-d1bb3e2f8fd9391a3591d6942777b048] Where paragraph 2 applies then the maximum protective fencing for which payment may be made is twice the length of the hedgerow.
+**3.**[^c-d1bb3e2f8fd9391a3591d6942777b048] Where paragraph 2 applies then the maximum protective fencing for which payment may be made is twice the length of the hedgerow.
 
-**4.**[^key-377ca9ecb47736585b8e2462c6762d39] Where an applicant plants farmland trees any protective fencing they erect must be no more than an average of 3 metres from the trees.
+**4.**[^c-377ca9ecb47736585b8e2462c6762d39] Where an applicant plants farmland trees any protective fencing they erect must be no more than an average of 3 metres from the trees.
 
-**5.**[^key-83d58045c9e4bcfcd78f6560f2b1d30f] Where paragraph 4 applies the maximum protective fencing that for which payment may be made is 150 metres per plot (see paragraph 4(c) of Schedule 1).
+**5.**[^c-83d58045c9e4bcfcd78f6560f2b1d30f] Where paragraph 4 applies the maximum protective fencing that for which payment may be made is 150 metres per plot (see paragraph 4(c) of Schedule 1).
 
-### 6. Gate and two posts[^key-97fa96704eda5330cf5ad203ecb8fabf]
+### 6. Gate and two posts[^c-97fa96704eda5330cf5ad203ecb8fabf]
 
 Where an applicant installs a gate and two posts, they must–
 
@@ -477,7 +477,7 @@ Where an applicant installs a gate and two posts, they must–
 - (b) not use wooden posts; and
 - (c) install gates of at least 4.27 metres (14ft) wide.
 
-### 7. Drinking trough[^key-bd91ba050220ed36b9f46e1157df80a5]
+### 7. Drinking trough[^c-bd91ba050220ed36b9f46e1157df80a5]
 
 Where an applicant installs a drinking trough they must–
 
@@ -485,14 +485,14 @@ Where an applicant installs a drinking trough they must–
 - (b) place it on a concrete base; and
 - (c) install the drinking trough and its concrete base at least 10 metres from any watercourse.
 
-### 8. Pasture pump[^key-870cbd423ec37c96782f7ef9a8936a84]
+### 8. Pasture pump[^c-870cbd423ec37c96782f7ef9a8936a84]
 
 Where an applicant installs a pasture pump, they must–
 
 - (a) install one which is new and commercially available; and
 - (b) install it at least 10 metres from any watercourse.
 
-## SCHEDULE 3 — Payment rates[^key-f59f860b7236f5697368b214a6f64ca9]
+## SCHEDULE 3 — Payment rates[^c-f59f860b7236f5697368b214a6f64ca9]
 
 Regulation 8(3)
 
@@ -524,7 +524,7 @@ Table 2
 | Pasture pump | £239.06 per unit |
 | Protective fencing | £6.52 per metre |
 
-## SCHEDULE 4[^key-e052fdeac2ce0140ca026079b438ef3b]
+## SCHEDULE 4[^c-e052fdeac2ce0140ca026079b438ef3b]
 
 Schedule 1,Paragraph 1(c)
 
@@ -541,11 +541,11 @@ Table 1
 | Holly |
 | Spindle |
 
-[^key-9408c0d5f0893e99d6076e94b5a2fc92]**Table 2**
+[^c-9408c0d5f0893e99d6076e94b5a2fc92]**Table 2**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5[^key-2f1c08c0d6dae6b93a263b0ec213754e]
+## SCHEDULE 5[^c-2f1c08c0d6dae6b93a263b0ec213754e]
 
 Schedule 1, Paragraph 4(b)
 
@@ -582,7 +582,7 @@ Schedule 1, Paragraph 4(b)
 | Willow (Salix spp.) |
 | Wych Elm (Ulmus glabra) |
 
-## SCHEDULE 6[^key-e37788c63c9503d5aa1161df1681b3ad]
+## SCHEDULE 6[^c-e37788c63c9503d5aa1161df1681b3ad]
 
 Schedule 1, Paragraph 8(f)
 
@@ -747,17 +747,17 @@ specifies native tree species (Schedule 5).
 
 [^f00002]: Footnote: EUR 1305/2013
 
-[^key-201c60ab5f8d6f9b1326055110cb0e66]: Commencement: Reg. 1 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-201c60ab5f8d6f9b1326055110cb0e66]: Commencement: Reg. 1 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-fce3300c15b15b09ecc46422290e58eb]: Commencement: Reg. 2 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-fce3300c15b15b09ecc46422290e58eb]: Commencement: Reg. 2 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
 [^f00003]: Footnote: [1973 No. 69(N.I.1)](https://www.legislation.gov.uk/nisi/1973/69)
 
 [^f00004]: Footnote: EUR 640/2014
 
-[^key-9c21e7ca897b6ccd97af576c11be6835]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/101/regulation/2/1) inserted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/2/b)
+[^c-9c21e7ca897b6ccd97af576c11be6835]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/101/regulation/2/1) inserted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/2/b)
 
-[^key-38bed184ee4c180fa492b32697611bba]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/101/regulation/2/1) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/2/a)
+[^c-38bed184ee4c180fa492b32697611bba]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/101/regulation/2/1) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/2/a)
 
 [^f00006]: Footnote: A Ramsar site is a wetland site designated to be of international importance under the Ramsar Convention, also known as “The Convention on Wetlands”, an international environmental treaty signed on 2 February 1971 in Ramsar, Iran, under the auspices of UNESCO. Further information can be found here:Ramsar Sites | JNCC - Adviser to Government on Nature Conservation
 
@@ -765,79 +765,79 @@ specifies native tree species (Schedule 5).
 
 [^f00008]: Footnote: [1954 c.33(N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-557fc8b8d253258b40a5865fbb8f7338]: Commencement: Reg. 3 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-557fc8b8d253258b40a5865fbb8f7338]: Commencement: Reg. 3 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-2ca82594588a8a24741da5b7ccdb5e78]: Commencement: Reg. 4 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-2ca82594588a8a24741da5b7ccdb5e78]: Commencement: Reg. 4 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-21f38f9f11d27c8ea594cffb8c643ca2]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2025/101/regulation/4/1/b) and word omitted (25.6.2026) by virtue of [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/3)
+[^c-21f38f9f11d27c8ea594cffb8c643ca2]: Textual amendment: [Reg. 4(1)(b)](https://www.legislation.gov.uk/nisr/2025/101/regulation/4/1/b) and word omitted (25.6.2026) by virtue of [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/3)
 
-[^key-f8ebd10829c95e9c0a8d036fd9abacbc]: Commencement: Reg. 5 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-f8ebd10829c95e9c0a8d036fd9abacbc]: Commencement: Reg. 5 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-58c0199c8328974e0efa3cc20c6fc160]: Commencement: Reg. 6 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-58c0199c8328974e0efa3cc20c6fc160]: Commencement: Reg. 6 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-488fbe5d85bde50ebbeefa610104d559]: Commencement: Reg. 7 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-488fbe5d85bde50ebbeefa610104d559]: Commencement: Reg. 7 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-fde2283f2dadf144ee4b2e54ceadd3d2]: Commencement: Reg. 8 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-fde2283f2dadf144ee4b2e54ceadd3d2]: Commencement: Reg. 8 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-75e0e06dd477f2e2a82d8154f7408622]: Textual amendment: Sum in [reg. 8(2)](https://www.legislation.gov.uk/nisr/2025/101/regulation/8/2) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/4)
+[^c-75e0e06dd477f2e2a82d8154f7408622]: Textual amendment: Sum in [reg. 8(2)](https://www.legislation.gov.uk/nisr/2025/101/regulation/8/2) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/4)
 
-[^key-111898f6878ab808323383e298cfee5a]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2025/101/regulation/9) omitted (25.6.2026) by virtue of [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/5)
+[^c-111898f6878ab808323383e298cfee5a]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/nisr/2025/101/regulation/9) omitted (25.6.2026) by virtue of [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(5)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/5)
 
-[^key-c8922f745f52960671b6970fa7e913da]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/101/regulation/10) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/6)
+[^c-c8922f745f52960671b6970fa7e913da]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/101/regulation/10) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(6)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/6)
 
-[^key-80f8f5dc48bb4af4a7ad7d786d315366]: Commencement: Reg. 11 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-80f8f5dc48bb4af4a7ad7d786d315366]: Commencement: Reg. 11 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
 [^f00010]: Footnote: EUR 809/2014
 
-[^key-16c460c34bad216252333983a24417a1]: Commencement: Reg. 12 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-16c460c34bad216252333983a24417a1]: Commencement: Reg. 12 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-51a8bb7ebb710c4abc14620d92d81670]: Commencement: Reg. 13 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-51a8bb7ebb710c4abc14620d92d81670]: Commencement: Reg. 13 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-aa12e71b0f138b7f13623e5399218270]: Commencement: Reg. 14 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-aa12e71b0f138b7f13623e5399218270]: Commencement: Reg. 14 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-45d388b59174264686d051ebc26eeb34]: Commencement: Reg. 15 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-45d388b59174264686d051ebc26eeb34]: Commencement: Reg. 15 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-71f28b617c929facd87cec7ada926193]: Commencement: Reg. 16 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-71f28b617c929facd87cec7ada926193]: Commencement: Reg. 16 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-1c2200326c200518318248062631485d]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/1) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/a)
+[^c-1c2200326c200518318248062631485d]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/1) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(a)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/a)
 
-[^key-17184986af955bc2f93187d3ebe0ad9d]: Commencement: Sch. 1 para. 2 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-17184986af955bc2f93187d3ebe0ad9d]: Commencement: Sch. 1 para. 2 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-19f2aef9813a45a4fcacf90ca3cb3605]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/3) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/b)
+[^c-19f2aef9813a45a4fcacf90ca3cb3605]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/3) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(b)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/b)
 
-[^key-3837e2cd10ba479ae7290ff9ccefce74]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/4) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/c)
+[^c-3837e2cd10ba479ae7290ff9ccefce74]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/4) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(c)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/c)
 
-[^key-fb1c90657a6950e598812a92711eb295]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/5) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(d)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/d)
+[^c-fb1c90657a6950e598812a92711eb295]: Textual amendment: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/5) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(d)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/d)
 
-[^key-39185e57fec6ddd75aeaa53bb58d6d67]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/6) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(e)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/e)
+[^c-39185e57fec6ddd75aeaa53bb58d6d67]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/6) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(e)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/e)
 
-[^key-5c23c43ad212e42c0a28b61aa1ceef86]: Textual amendment: [Sch. 1 paras. 7-14](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/7) and cross-heading inserted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(f)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/f)
+[^c-5c23c43ad212e42c0a28b61aa1ceef86]: Textual amendment: [Sch. 1 paras. 7-14](https://www.legislation.gov.uk/nisr/2025/101/schedule/1/paragraph/7) and cross-heading inserted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(7)(f)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/7/f)
 
-[^key-a0a36a99ca5087b381b233bc190f4667]: Commencement: Sch. 2 para. 1 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-a0a36a99ca5087b381b233bc190f4667]: Commencement: Sch. 2 para. 1 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-7ca23118097c689454ccd358eae126a4]: Commencement: Sch. 2 para. 2 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-7ca23118097c689454ccd358eae126a4]: Commencement: Sch. 2 para. 2 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-d1bb3e2f8fd9391a3591d6942777b048]: Commencement: Sch. 2 para. 3 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-d1bb3e2f8fd9391a3591d6942777b048]: Commencement: Sch. 2 para. 3 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-377ca9ecb47736585b8e2462c6762d39]: Commencement: Sch. 2 para. 4 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-377ca9ecb47736585b8e2462c6762d39]: Commencement: Sch. 2 para. 4 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-83d58045c9e4bcfcd78f6560f2b1d30f]: Commencement: Sch. 2 para. 5 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-83d58045c9e4bcfcd78f6560f2b1d30f]: Commencement: Sch. 2 para. 5 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-97fa96704eda5330cf5ad203ecb8fabf]: Commencement: Sch. 2 para. 6 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-97fa96704eda5330cf5ad203ecb8fabf]: Commencement: Sch. 2 para. 6 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-bd91ba050220ed36b9f46e1157df80a5]: Commencement: Sch. 2 para. 7 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-bd91ba050220ed36b9f46e1157df80a5]: Commencement: Sch. 2 para. 7 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-870cbd423ec37c96782f7ef9a8936a84]: Commencement: Sch. 2 para. 8 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-870cbd423ec37c96782f7ef9a8936a84]: Commencement: Sch. 2 para. 8 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-f59f860b7236f5697368b214a6f64ca9]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2025/101/schedule/3) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/8)
+[^c-f59f860b7236f5697368b214a6f64ca9]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/nisr/2025/101/schedule/3) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(8)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/8)
 
-[^key-e052fdeac2ce0140ca026079b438ef3b]: Commencement: Sch. 4 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
+[^c-e052fdeac2ce0140ca026079b438ef3b]: Commencement: Sch. 4 in operation at 19.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/101/regulation/1)
 
-[^key-9408c0d5f0893e99d6076e94b5a2fc92]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2025/101/schedule/4) Table 2 omitted (25.6.2026) by virtue of [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(9)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/9)
+[^c-9408c0d5f0893e99d6076e94b5a2fc92]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2025/101/schedule/4) Table 2 omitted (25.6.2026) by virtue of [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(9)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/9)
 
-[^key-2f1c08c0d6dae6b93a263b0ec213754e]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2025/101/schedule/5) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(10)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/10)
+[^c-2f1c08c0d6dae6b93a263b0ec213754e]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/nisr/2025/101/schedule/5) substituted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(10)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/10)
 
-[^key-e37788c63c9503d5aa1161df1681b3ad]: Textual amendment: [Schs. 6-8](https://www.legislation.gov.uk/nisr/2025/101/schedule/6) inserted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(11)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/11)
+[^c-e37788c63c9503d5aa1161df1681b3ad]: Textual amendment: [Schs. 6-8](https://www.legislation.gov.uk/nisr/2025/101/schedule/6) inserted (25.6.2026) by [The Farming with Nature Scheme (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/105)](https://www.legislation.gov.uk/nisr/2026/105), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/105/regulation/1/1), [2(11)](https://www.legislation.gov.uk/nisr/2026/105/regulation/2/11)
 
 [^f00011]: Footnote: EUR 1306/2013
 

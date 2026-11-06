@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 129. Date on which child support maintenance is to be treated as paid[^key-6120f2459bd2931de87795823bc0493d]
+## 129. Date on which child support maintenance is to be treated as paid[^c-6120f2459bd2931de87795823bc0493d]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6120f2459bd2931de87795823bc0493d]: Commencement: Reg. 129 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-6120f2459bd2931de87795823bc0493d]: Commencement: Reg. 129 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — BAD NEIGHBOUR DEVELOPMENT[^key-d24885876974d39a7dabf85554e61631]
+## SCHEDULE 2 — BAD NEIGHBOUR DEVELOPMENT[^c-d24885876974d39a7dabf85554e61631]
 
 *Extent: S*
 
 Schedule 1, paragraph 33(c)(i)
 
-[^key-d24885876974d39a7dabf85554e61631]
+[^c-d24885876974d39a7dabf85554e61631]
 
 The following are the classes of development specified for the purposes of paragraph 33(c)(i):—
 
@@ -41,7 +41,7 @@ The following are the classes of development specified for the purposes of parag
 
 (3) the construction of buildings or use of land for the purposes of a slaughterhouse or knacker’s yard or for the killing or plucking of poultry;
 
-(4)[^key-64185570edc36873173f99ca9dfea8eb] the construction or use of buildings for any of the following purposes:—
+(4)[^c-64185570edc36873173f99ca9dfea8eb] the construction or use of buildings for any of the following purposes:—
 
 - bingo hall
 - building for indoor games
@@ -77,6 +77,6 @@ The following are the classes of development specified for the purposes of parag
 
 ## Annotations
 
-[^key-d24885876974d39a7dabf85554e61631]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1992/223/schedule/2) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)
+[^c-d24885876974d39a7dabf85554e61631]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1992/223/schedule/2) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)
 
-[^key-64185570edc36873173f99ca9dfea8eb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1992/223/schedule/2) substituted (3.2.1995) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (No.3) Order 1994 (S.I. 1994/3294)](https://www.legislation.gov.uk/uksi/1994/3294), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1994/3294/article/1/1), [11](https://www.legislation.gov.uk/uksi/1994/3294/article/11)
+[^c-64185570edc36873173f99ca9dfea8eb]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1992/223/schedule/2) substituted (3.2.1995) by [The Town and Country Planning (General Permitted Development) (Scotland) Amendment (No.3) Order 1994 (S.I. 1994/3294)](https://www.legislation.gov.uk/uksi/1994/3294), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1994/3294/article/1/1), [11](https://www.legislation.gov.uk/uksi/1994/3294/article/11)

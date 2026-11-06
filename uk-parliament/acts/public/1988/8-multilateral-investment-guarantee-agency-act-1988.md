@@ -33,7 +33,7 @@ An Act to enable the United Kingdom to give effect to the Convention establishin
 
 \[24th March 1988\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-17c7ec8f714099fb639a98e7dd57c3dd]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-17c7ec8f714099fb639a98e7dd57c3dd]
 
 ## Preliminary
 
@@ -102,7 +102,7 @@ as if the award had been such a judgment of the High Court.
 
 ### 5. Rules of court.
 
-The power to make rules under section 84 of the [^c804992]Senior Courts Act 1981[^key-ae7322dd3d2c5972bb14307e5a44dc13] shall include the power—
+The power to make rules under section 84 of the [^c804992]Senior Courts Act 1981[^c-ae7322dd3d2c5972bb14307e5a44dc13] shall include the power—
 
 - (a) to prescribe the procedure for applying for registration under section 4 above and to require an applicant to give prior notice of his intention to other parties;
 - (b) to prescribe the matters to be proved on the application and the manner of proof;
@@ -137,7 +137,7 @@ In the application of this Act to Scotland—
 
 (2) In section 5 for the reference to section 84 of the [^c805000]Senior Courts Act 1981 there shall be substituted a reference to section 55 of the [^c805001]Judicature (Northern Ireland) Act 1978.
 
-(2A)[^key-6465410079f1b569635c610bdb4af874] In section 6—
+(2A)[^c-6465410079f1b569635c610bdb4af874] In section 6—
 
 - (a) for the reference to the Lord Chancellor there shall be substituted a reference to the Department of Justice in Northern Ireland;
 - (b) for the reference to the making of an order by statutory instrument there shall be substituted a reference to the making of an order by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979.
@@ -278,13 +278,13 @@ All disputes within the scope of Article 57 of this Convention shall be settled 
 
 ## Annotations
 
-[^key-17c7ec8f714099fb639a98e7dd57c3dd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/8) transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 11](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/11) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-17c7ec8f714099fb639a98e7dd57c3dd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1988/8) transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 11](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/11) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c804991]: Marginal citation: [1978 c. 33](https://www.legislation.gov.uk/ukpga/1978/33).
 
 [^c804992]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
-[^key-ae7322dd3d2c5972bb14307e5a44dc13]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-ae7322dd3d2c5972bb14307e5a44dc13]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c804995]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/1988/8/section/6) applied (21.2.1997) by [S.I. 1997/129](https://www.legislation.gov.uk/uksi/1997/129), [art. 3](https://www.legislation.gov.uk/uksi/1997/129/article/3)
 
@@ -298,7 +298,7 @@ All disputes within the scope of Article 57 of this Convention shall be settled 
 
 [^c805001]: Marginal citation: [1978 c. 23 (N.I.)](https://www.legislation.gov.uk/nia/1978/23).
 
-[^key-6465410079f1b569635c610bdb4af874]: Textual amendment: [S. 8(2A)](https://www.legislation.gov.uk/ukpga/1988/8/section/8/2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 40(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/40/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-6465410079f1b569635c610bdb4af874]: Textual amendment: [S. 8(2A)](https://www.legislation.gov.uk/ukpga/1988/8/section/8/2A) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 18 para. 40(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/18/paragraph/40/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c805002]: Textual amendment: S. 8(3) repealed (31.1.1997) by [1996 c. 23](https://www.legislation.gov.uk/ukpga/1996/23), [s. 107(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/107/2), [Sch.4](https://www.legislation.gov.uk/ukpga/1996/23/schedule/4) (with [s. 81(2)](https://www.legislation.gov.uk/ukpga/1996/23/section/81/2)); [S.I. 1996/3146](https://www.legislation.gov.uk/uksi/1996/3146), [art.3](https://www.legislation.gov.uk/uksi/1996/3146/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/1996/3146/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/3146/schedule/2))
 

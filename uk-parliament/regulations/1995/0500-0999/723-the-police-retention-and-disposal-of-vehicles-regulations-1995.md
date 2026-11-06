@@ -44,11 +44,11 @@ Coming into force
 
 In exercise of the powers conferred on me by section 67(3) of the Criminal Justice and Public Order Act 1994[^f00001], I hereby make the following Regulations:
 
-## 1. Extent, citation and commencement[^key-d0e37d1d547e430193e098a950fa0556]
+## 1. Extent, citation and commencement[^c-d0e37d1d547e430193e098a950fa0556]
 
 These Regulations, which extend to England and Wales and Scotland, may be cited as the Police (Retention and Disposal of Vehicles) Regulations 1995 and shall come into force on 10th April 1995.
 
-## 2. Application and interpretation[^key-21ecbc4f3869e6f3a37c3cc4f8f9389d]
+## 2. Application and interpretation[^c-21ecbc4f3869e6f3a37c3cc4f8f9389d]
 
 (1) These Regulations apply to vehicles which have been seized and removed by a constable under section 62(1) or 64(4) of the 1994 Act.
 
@@ -56,7 +56,7 @@ These Regulations, which extend to England and Wales and Scotland, may be cited 
 
 - “the 1994 Act” means the Criminal Justice and Public Order Act 1994;
 - “the authority” means a police officer or other person authorised by the chief officer under regulation 3(1);
-- “[^key-07dca1d613aa72c132f833a2262476e8]**email address**” means the email address provided on the vehicle’s seizure by the person from whom the vehicle was seized;
+- “[^c-07dca1d613aa72c132f833a2262476e8]**email address**” means the email address provided on the vehicle’s seizure by the person from whom the vehicle was seized;
 - “G.B. registration mark” means a registration mark issued in relation to a vehicle under the Vehicle Excise and Registration Act 1994[^f00002];
 - “local authority” means —
   - (a) in relation to England —
@@ -77,7 +77,7 @@ These Regulations, which extend to England and Wales and Scotland, may be cited 
   - (a) in the case of a vehicle which carries a G.B. registration mark, or a mark indicating registration in a place outside Great Britain, particulars of that mark; and
   - (b) the make of the vehicle.
 
-## 3. Retention and safe keeping of vehicles[^key-2099eb1a13b421fdc5dd7fc1c102993b]
+## 3. Retention and safe keeping of vehicles[^c-2099eb1a13b421fdc5dd7fc1c102993b]
 
 (1) After a vehicle has been seized and removed under section 62(1) or 64(4) of the 1994 Act, it shall be passed into and remain in the custody of a police officer or other person authorised under this regulation by the chief officer of the police force for the area in which the vehicle was seized (“the authority”) until —
 
@@ -86,7 +86,7 @@ These Regulations, which extend to England and Wales and Scotland, may be cited 
 
 (2) While the vehicle is in the custody of the authority, they shall be under a duty to take such steps as are reasonably necessary for its safe keeping.
 
-## 4. Service of removal notice[^key-dd7a7465f1e19eda1b658480773b3bea]
+## 4. Service of removal notice[^c-dd7a7465f1e19eda1b658480773b3bea]
 
 (1) The authority shall, as soon as they are able after the vehicle has been taken into their custody, take such steps as are practicable to serve a removal notice on the person from whom the vehicle was seized, except where the vehicle has been removed from their custody under regulation 5 below.
 
@@ -96,7 +96,7 @@ These Regulations, which extend to England and Wales and Scotland, may be cited 
 
 - (a) the place where the vehicle was seized;
 - (b) the place where it is now being kept;
-- (c) that the person to whom the notice is directed is required to claim the vehicle from the authority on or before the date specified in the notice, being a date not less than 21 days *(Extent: E+W)* *(affected by repeal, see note)*[^key-8941b4782084c300c6443d9181019853] 7 days *(Extent: E+W)* from the day when the notice is served on him;
+- (c) that the person to whom the notice is directed is required to claim the vehicle from the authority on or before the date specified in the notice, being a date not less than 21 days *(Extent: E+W)* *(affected by repeal, see note)*[^c-8941b4782084c300c6443d9181019853] 7 days *(Extent: E+W)* from the day when the notice is served on him;
 - (d) that unless the vehicle is claimed on or before that date the authority intend to destroy or dispose of it;
 - (e) that charges are payable under these Regulations by the person from whom the vehicle was seized in respect of the removal and retention of the vehicle, and that the vehicle may be retained until such charges are paid.
 
@@ -104,13 +104,13 @@ These Regulations, which extend to England and Wales and Scotland, may be cited 
 
 - (a) by delivering it to the person to whom it is directed;
 - (b) by leaving it at his usual or last known place of abode;
-- (c) by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to him at his usual or last known place of abode; [^key-9e3508c589581ea7d02b97523dd83eda]...
-- (cc)[^key-f409d577d5c9b7e4c4a10438abd54f17] by sending it to the email address; or
+- (c) by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to him at his usual or last known place of abode; [^c-9e3508c589581ea7d02b97523dd83eda]...
+- (cc)[^c-f409d577d5c9b7e4c4a10438abd54f17] by sending it to the email address; or
 - (d) if the person is —
-  - (i) a body corporate, by delivering it to the secretary or clerk of the body at its registered or principal office, or sending it in a prepaid registered letter, or by the recorded delivery service, addressed to the secretary or clerk of the body at that office , or by sending it to the email address[^key-58219c050e0788ee6c6c384b86da8898];
+  - (i) a body corporate, by delivering it to the secretary or clerk of the body at its registered or principal office, or sending it in a prepaid registered letter, or by the recorded delivery service, addressed to the secretary or clerk of the body at that office , or by sending it to the email address[^c-58219c050e0788ee6c6c384b86da8898];
   - (ii) a Scottish partnership, by delivering it to any member of, or manager employed by, the partnership at the usual place of business of the partnership, or sending it in a prepaid registered letter, or by the recorded delivery service, addressed to such a person at that place.
 
-## 5. Removal of vehicles from custody[^key-238fe5e4b13f8eaa7b13d3cdc67276a0]
+## 5. Removal of vehicles from custody[^c-238fe5e4b13f8eaa7b13d3cdc67276a0]
 
 (1) Subject to section 67(4) and (7) of the 1994 Act and the following provisions of these Regulations, if at any time a person satisfies the authority that he is the person from whom the vehicle was seized the authority shall permit him to remove the vehicle from their custody.
 
@@ -119,7 +119,7 @@ These Regulations, which extend to England and Wales and Scotland, may be cited 
 - (a) impose a duty on the authority where they reasonably believe that the person referred to is not the owner of the vehicle or authorised by the owner to remove the vehicle; or
 - (b) prevent the authority, in those circumstances, from returning the vehicle to its owner.
 
-## 6. Disposal and destruction of vehicles[^key-2320febf29e087112d3fbb9c4b1ae83e]
+## 6. Disposal and destruction of vehicles[^c-2320febf29e087112d3fbb9c4b1ae83e]
 
 (1) Where the authority have been unable to serve a removal notice on the person from whom the vehicle was seized or, following the service of a removal notice, the vehicle has not been removed from their custody under these Regulations, the authority may dispose of or destroy the vehicle in accordance with the following provisions of this regulation.
 
@@ -142,13 +142,13 @@ These Regulations, which extend to England and Wales and Scotland, may be cited 
 
 (5) The authority may not destroy or dispose of the vehicle under this regulation —
 
-- (a) during the period of 3 months *(Extent: E+W)* *(affected by repeal, see note)*[^key-f9b123bab0a2e32647e347c054b576ed] 7 days *(Extent: E+W)* starting with the date on which the vehicle was seized;
+- (a) during the period of 3 months *(Extent: E+W)* *(affected by repeal, see note)*[^c-f9b123bab0a2e32647e347c054b576ed] 7 days *(Extent: E+W)* starting with the date on which the vehicle was seized;
 - (b) if the period in sub-paragraph (a) above has expired, until after the date specified by virtue of regulation 4(3)(c) above; or
 - (c) if not otherwise covered by sub-paragraph (a) or (b) above, during the period of 7 days starting with the date on which the vehicle is claimed under regulation 5 above.
 
 (6) In this regulation “relevant agency” means such agency maintaining records of hire purchase agreements about vehicles as the authority considers appropriate.
 
-## 7. Information to be given relating to the disposal of a vehicle[^key-21a177d63d21e558bebb5bdbf6e71852]
+## 7. Information to be given relating to the disposal of a vehicle[^c-21a177d63d21e558bebb5bdbf6e71852]
 
 (1) Where the authority dispose of or destroy a vehicle pursuant to these Regulations they shall, where it is possible to do so, give information relating to the disposal or destruction of the vehicle to the person from whom the vehicle was seized, to any person who appears to the authority to have been the owner of the vehicle immediately before it was disposed of, and —
 
@@ -162,7 +162,7 @@ These Regulations, which extend to England and Wales and Scotland, may be cited 
 - (a) any information which is sufficient to relate the information now being given to any information previously given to the same person in respect of the removal, retention, disposal or destruction of the vehicle; and
 - (b) such of the specified information as has not been previously given to the same person in respect of the removal, retention, disposal or destruction of the vehicle.
 
-## 8. Payment of proceeds of sale to owner of vehicle[^key-88f3f02aba69b1781bbc3a437146e284]
+## 8. Payment of proceeds of sale to owner of vehicle[^c-88f3f02aba69b1781bbc3a437146e284]
 
 (1) Where the authority dispose of a vehicle in pursuance of these Regulations by means of sale, they shall pay the net proceeds of sale to any person who, before the end of the period of one year beginning with the date on which the vehicle is sold, satisfies the authority that at the time of the sale he was the owner of the vehicle.
 
@@ -170,7 +170,7 @@ These Regulations, which extend to England and Wales and Scotland, may be cited 
 
 (3) In this regulation, “the net proceeds of sale” means any sum by which the proceeds of sale exceed the aggregate of such sums as may be payable under these Regulations in respect of the removal and retention of the vehicle.
 
-## 9. Charges for removal and retention of vehicles[^key-dabb374d0dcf96ff1ec0a6928727b7d5]
+## 9. Charges for removal and retention of vehicles[^c-dabb374d0dcf96ff1ec0a6928727b7d5]
 
 (1) The charges for the purpose of section 67(3)(b) of the 1994 Act are—
 
@@ -259,36 +259,36 @@ Regulation 8 provides that where a vehicle is sold, the net proceeds of sale are
 
 [^f00001]: Footnote: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-d0e37d1d547e430193e098a950fa0556]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+[^c-d0e37d1d547e430193e098a950fa0556]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
 
-[^key-21ecbc4f3869e6f3a37c3cc4f8f9389d]: Commencement: Reg. 2 in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+[^c-21ecbc4f3869e6f3a37c3cc4f8f9389d]: Commencement: Reg. 2 in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
 
-[^key-07dca1d613aa72c132f833a2262476e8]: Textual amendment: Words in reg. 2(2) inserted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/331/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+[^c-07dca1d613aa72c132f833a2262476e8]: Textual amendment: Words in reg. 2(2) inserted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/331/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
 
 [^f00002]: Footnote: [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22).
 
 [^f00003]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-2099eb1a13b421fdc5dd7fc1c102993b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/723/regulation/3) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+[^c-2099eb1a13b421fdc5dd7fc1c102993b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/723/regulation/3) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
 
-[^key-dd7a7465f1e19eda1b658480773b3bea]: Commencement: Reg. 4 in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+[^c-dd7a7465f1e19eda1b658480773b3bea]: Commencement: Reg. 4 in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
 
-[^key-8941b4782084c300c6443d9181019853]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/1995/723/regulation/4/3/c) substituted (E.W.) (22.7.2026) by [The Removal, Storage and Disposal of Motor Vehicles Timeframes (Amendment) Regulations 2026 (S.I. 2026/704)](https://www.legislation.gov.uk/uksi/2026/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/704/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/704/regulation/11)
+[^c-8941b4782084c300c6443d9181019853]: Textual amendment: Words in [reg. 4(3)(c)](https://www.legislation.gov.uk/uksi/1995/723/regulation/4/3/c) substituted (E.W.) (22.7.2026) by [The Removal, Storage and Disposal of Motor Vehicles Timeframes (Amendment) Regulations 2026 (S.I. 2026/704)](https://www.legislation.gov.uk/uksi/2026/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/704/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/704/regulation/11)
 
-[^key-9e3508c589581ea7d02b97523dd83eda]: Textual amendment: Word in reg. 4(4)(c) omitted (6.4.2023) by virtue of [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/331/regulation/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+[^c-9e3508c589581ea7d02b97523dd83eda]: Textual amendment: Word in reg. 4(4)(c) omitted (6.4.2023) by virtue of [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/331/regulation/4/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
 
-[^key-f409d577d5c9b7e4c4a10438abd54f17]: Textual amendment: Reg. 4(4)(cc) inserted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/331/regulation/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+[^c-f409d577d5c9b7e4c4a10438abd54f17]: Textual amendment: Reg. 4(4)(cc) inserted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/331/regulation/4/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
 
-[^key-58219c050e0788ee6c6c384b86da8898]: Textual amendment: Words in reg. 4(4)(d)(i) inserted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2023/331/regulation/4/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+[^c-58219c050e0788ee6c6c384b86da8898]: Textual amendment: Words in reg. 4(4)(d)(i) inserted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2023/331/regulation/4/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
 
-[^key-238fe5e4b13f8eaa7b13d3cdc67276a0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/723/regulation/5) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+[^c-238fe5e4b13f8eaa7b13d3cdc67276a0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/723/regulation/5) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
 
-[^key-2320febf29e087112d3fbb9c4b1ae83e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/723/regulation/6) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+[^c-2320febf29e087112d3fbb9c4b1ae83e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/723/regulation/6) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
 
-[^key-f9b123bab0a2e32647e347c054b576ed]: Textual amendment: Words in [reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/1995/723/regulation/6/5/a) substituted (E.W.) (22.7.2026) by [The Removal, Storage and Disposal of Motor Vehicles Timeframes (Amendment) Regulations 2026 (S.I. 2026/704)](https://www.legislation.gov.uk/uksi/2026/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/704/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/704/regulation/12)
+[^c-f9b123bab0a2e32647e347c054b576ed]: Textual amendment: Words in [reg. 6(5)(a)](https://www.legislation.gov.uk/uksi/1995/723/regulation/6/5/a) substituted (E.W.) (22.7.2026) by [The Removal, Storage and Disposal of Motor Vehicles Timeframes (Amendment) Regulations 2026 (S.I. 2026/704)](https://www.legislation.gov.uk/uksi/2026/704), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/704/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2026/704/regulation/12)
 
-[^key-21a177d63d21e558bebb5bdbf6e71852]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/723/regulation/7) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+[^c-21a177d63d21e558bebb5bdbf6e71852]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/723/regulation/7) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
 
-[^key-88f3f02aba69b1781bbc3a437146e284]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/723/regulation/8) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
+[^c-88f3f02aba69b1781bbc3a437146e284]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/723/regulation/8) in force at 10.4.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/723/regulation/1)
 
-[^key-dabb374d0dcf96ff1ec0a6928727b7d5]: Textual amendment: Reg. 9 substituted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/331/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))
+[^c-dabb374d0dcf96ff1ec0a6928727b7d5]: Textual amendment: Reg. 9 substituted (6.4.2023) by [The Removal, Storage and Disposal of Motor Vehicles (Amendment) Regulations 2023 (S.I. 2023/331)](https://www.legislation.gov.uk/uksi/2023/331), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/331/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/331/regulation/1/2))

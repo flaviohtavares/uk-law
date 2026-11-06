@@ -27,8 +27,8 @@ summary: ''
 
 (2) In a case to which this regulation applies, where (but for its provisions) the earnings period in respect of earnings derived from any of the employments is of a different length from the designated earnings period, the earnings period in respect of any payment of those earnings shall be the designated earnings period.
 
-(3)[^key-602dce863ab1c874631eaeb5d9946315] In this regulation “the designated earnings period” means the shorter, or as the case may be the shortest, of the earnings periods in respect of earnings derived from such employments.
+(3)[^c-602dce863ab1c874631eaeb5d9946315] In this regulation “the designated earnings period” means the shorter, or as the case may be the shortest, of the earnings periods in respect of earnings derived from such employments.
 
 ## Annotations
 
-[^key-602dce863ab1c874631eaeb5d9946315]: Textual amendment: Reg. 6(3) substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [9](https://www.legislation.gov.uk/uksi/2016/352/regulation/9) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))
+[^c-602dce863ab1c874631eaeb5d9946315]: Textual amendment: Reg. 6(3) substituted (6.4.2016) by [The Social Security (Contributions) (Amendment) (No. 2) Regulations 2016 (S.I. 2016/352)](https://www.legislation.gov.uk/uksi/2016/352), [regs. 1](https://www.legislation.gov.uk/uksi/2016/352/regulation/1), [9](https://www.legislation.gov.uk/uksi/2016/352/regulation/9) (with [reg. 20](https://www.legislation.gov.uk/uksi/2016/352/regulation/20))

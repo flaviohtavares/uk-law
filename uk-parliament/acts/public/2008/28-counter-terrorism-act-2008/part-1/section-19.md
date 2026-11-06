@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Disclosure and the intelligence services[^key-b674224b46de265b931f80f11d6cb795]
+## 19. Disclosure and the intelligence services[^c-b674224b46de265b931f80f11d6cb795]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b674224b46de265b931f80f11d6cb795]: Commencement: S. 19 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)
+[^c-b674224b46de265b931f80f11d6cb795]: Commencement: S. 19 in force at 24.12.2008 by [S.I. 2008/3296](https://www.legislation.gov.uk/uksi/2008/3296), [art. 2](https://www.legislation.gov.uk/uksi/2008/3296/article/2)

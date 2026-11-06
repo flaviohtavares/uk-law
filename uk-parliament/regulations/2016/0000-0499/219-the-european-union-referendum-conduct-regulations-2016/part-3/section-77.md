@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Voting as proxy[^key-b16b754327b41fbf7d60b73ce69557c2]
+## 77. Voting as proxy[^c-b16b754327b41fbf7d60b73ce69557c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,7 +72,7 @@ may apply to the registration officer for his or her referendum ballot paper to 
 
 ## Annotations
 
-[^key-b16b754327b41fbf7d60b73ce69557c2]: Commencement: Reg. 77 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-b16b754327b41fbf7d60b73ce69557c2]: Commencement: Reg. 77 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00053]: Footnote: Section 9(6) was amended by paragraphs 12 and 17(1) and (5) of Schedule 6 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2).
 

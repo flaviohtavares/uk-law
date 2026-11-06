@@ -95,7 +95,7 @@ Section 66
 
 **9.**[^c20966701] (1) Section 124B of the Education Reform Act 1988 (accounts of higher education corporations) is amended as follows.
 
-(2)[^key-1cb1e4f041e4e34c7ce4f097f1cf9e47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1cb1e4f041e4e34c7ce4f097f1cf9e47] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After that subsection insert—
 
@@ -136,15 +136,15 @@ Section 66
 
 ### Social Security Administration Act 1992 (c. 5)[^c20966791]
 
-**15.**[^c20966801] (1)[^key-fddb49adb132efe83c1dd625b36fa837] Section 139D of the Social Security Administration Act 1992 (directions concerning prevention and detection of fraud) is amended as follows. *(affected by repeal, see note)*[^key-fddb49adb132efe83c1dd625b36fa837]
+**15.**[^c20966801] (1)[^c-fddb49adb132efe83c1dd625b36fa837] Section 139D of the Social Security Administration Act 1992 (directions concerning prevention and detection of fraud) is amended as follows. *(affected by repeal, see note)*[^c-fddb49adb132efe83c1dd625b36fa837]
 
-(2) In subsection (1), after paragraph (b) insert— *(affected by repeal, see note)*[^key-fddb49adb132efe83c1dd625b36fa837]
+(2) In subsection (1), after paragraph (b) insert— *(affected by repeal, see note)*[^c-fddb49adb132efe83c1dd625b36fa837]
 
-> - (ba (affected by repeal, see note))[^key-fddb49adb132efe83c1dd625b36fa837] a copy of a report has been sent to an authority under section 22(5) or (6) of the Public Audit (Wales) Act 2004 and to the Secretary of State under section 51(3) of that Act; *(affected by repeal, see note)*[^key-fddb49adb132efe83c1dd625b36fa837]
+> - (ba (affected by repeal, see note))[^c-fddb49adb132efe83c1dd625b36fa837] a copy of a report has been sent to an authority under section 22(5) or (6) of the Public Audit (Wales) Act 2004 and to the Secretary of State under section 51(3) of that Act; *(affected by repeal, see note)*[^c-fddb49adb132efe83c1dd625b36fa837]
 
 .
 
-(3) In subsection (1)(d) after “Audit Commission Act 1998” insert *(affected by repeal, see note)*[^key-fddb49adb132efe83c1dd625b36fa837] “ , section 45(5) of the Public Audit (Wales) Act 2004 ” *(affected by repeal, see note)*[^key-fddb49adb132efe83c1dd625b36fa837].
+(3) In subsection (1)(d) after “Audit Commission Act 1998” insert *(affected by repeal, see note)*[^c-fddb49adb132efe83c1dd625b36fa837] “ , section 45(5) of the Public Audit (Wales) Act 2004 ” *(affected by repeal, see note)*[^c-fddb49adb132efe83c1dd625b36fa837].
 
 ### Health Service Commissioners Act 1993 (c. 46)[^c20966811]
 
@@ -182,21 +182,21 @@ Section 66
 **20.**[^c20966881] In section 8(1) of the Local Government (Contracts) Act 1997 (meaning of “audit review”)—
 
 - (a) in paragraph (a) after “Audit Commission Act 1998” insert “ or section 32 of the Public Audit (Wales) Act 2004 ”;
-- (b)[^key-2f978b93696a9417cb8d206ef932b09b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2f978b93696a9417cb8d206ef932b09b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Audit Commission Act 1998 (c. 18)[^c20966891]
 
-**21.**[^key-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966921] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966931] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966941] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-5fc45cde7225d626f9c72a6a5ef6cedb][^c20966951] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **27.**[^c20966961] [^c20975991]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -208,19 +208,19 @@ Section 66
 
 **31.**[^c20967001] [^c20972091]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-76adff2b7a104cf19a2ed8938fea04d8][^c20967011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-76adff2b7a104cf19a2ed8938fea04d8][^c20967011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-76adff2b7a104cf19a2ed8938fea04d8][^c20967021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-76adff2b7a104cf19a2ed8938fea04d8][^c20967021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-76adff2b7a104cf19a2ed8938fea04d8][^c20967031] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-76adff2b7a104cf19a2ed8938fea04d8][^c20967031] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-76adff2b7a104cf19a2ed8938fea04d8][^c20967041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-76adff2b7a104cf19a2ed8938fea04d8][^c20967041] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-76adff2b7a104cf19a2ed8938fea04d8][^c20967051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-76adff2b7a104cf19a2ed8938fea04d8][^c20967051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **37.**[^M_F_add0d93c-a685-470f-f626-04b80ebae4ad][^c20967061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-76adff2b7a104cf19a2ed8938fea04d8][^c20967071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-76adff2b7a104cf19a2ed8938fea04d8][^c20967071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### School Standards and Framework Act 1998 (c. 31)[^c20967081]
 
@@ -284,15 +284,15 @@ Section 66
 
 **53.**[^c20967261] (1) Section 49 (principles governing conduct of members of relevant authorities) is amended as follows.
 
-(2)[^key-50cb3c0b150840afb16ba44f4fa365b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-50cb3c0b150840afb16ba44f4fa365b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (5)(b) for “Audit Commission” substitute “ Auditor General for Wales ”.
 
-**54.**[^key-af552a42f385b295b1469f0258799091][^c20967271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-af552a42f385b295b1469f0258799091][^c20967271] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **55.**[^c20967281] (1) Section 82 (code of conduct for local government employees) is amended as follows.
 
-(2)[^key-7ba9a3b7ac326f3ed99c9ad59d002af3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7ba9a3b7ac326f3ed99c9ad59d002af3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (6)(b) for “Audit Commission” substitute “ Auditor General for Wales ”.
 
@@ -380,7 +380,7 @@ Section 66
 
 [^c20966701]: Commencement: Sch. 2 wholly in force at 1.4.2005, see s. 73 and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
-[^key-1cb1e4f041e4e34c7ce4f097f1cf9e47]: Textual amendment: [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/9/2) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/c); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-1cb1e4f041e4e34c7ce4f097f1cf9e47]: Textual amendment: [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/9/2) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/c); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
 [^c20966711]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2) wholly in force at 1.4.2005, see [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73) and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
@@ -404,7 +404,7 @@ Section 66
 
 [^c20966801]: Commencement: Sch. 2 wholly in force at 1.4.2005, see s. 73 and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
-[^key-fddb49adb132efe83c1dd625b36fa837]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/15) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9) [10](https://www.legislation.gov.uk/uksi/2013/358/article/10) [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
+[^c-fddb49adb132efe83c1dd625b36fa837]: Textual amendment: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/15) repealed (1.4.2013 for specified purposes) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [s. 150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/5/schedule/14/part/1); [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 8(c)](https://www.legislation.gov.uk/uksi/2013/358/article/8/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/358/schedule/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2013/358/article/9) [10](https://www.legislation.gov.uk/uksi/2013/358/article/10) [Sch. 5](https://www.legislation.gov.uk/uksi/2013/358/schedule/5))
 
 [^c20966811]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2) wholly in force at 1.4.2005, see [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73) and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
@@ -424,11 +424,11 @@ Section 66
 
 [^c20966881]: Commencement: Sch. 2 wholly in force at 1.4.2005, see s. 73 and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
-[^key-2f978b93696a9417cb8d206ef932b09b]: Textual amendment: [Sch. 2 para. 20(b)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/20/b) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/c); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
+[^c-2f978b93696a9417cb8d206ef932b09b]: Textual amendment: [Sch. 2 para. 20(b)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/20/b) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 123(c)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/123/c); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x)
 
 [^c20966891]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2) wholly in force at 1.4.2005, see [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73) and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
-[^key-5fc45cde7225d626f9c72a6a5ef6cedb]: Textual amendment: [Sch. 2 paras. 21-26](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/21) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5) [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-5fc45cde7225d626f9c72a6a5ef6cedb]: Textual amendment: [Sch. 2 paras. 21-26](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/21) repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5) [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
 [^c20966901]: Commencement: Sch. 2 wholly in force at 1.4.2005, see s. 73 and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
@@ -462,7 +462,7 @@ Section 66
 
 [^c20972091]: Textual amendment: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/31) repealed (31.1.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 241](https://www.legislation.gov.uk/ukpga/2007/28/section/241), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 18 Pt. 11](https://www.legislation.gov.uk/ukpga/2007/28/schedule/18/part/11); [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 2(1)(u)](https://www.legislation.gov.uk/uksi/2008/172/article/2/1/u)
 
-[^key-76adff2b7a104cf19a2ed8938fea04d8]: Textual amendment: Sch. 2 paras. 32-38 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5) [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-76adff2b7a104cf19a2ed8938fea04d8]: Textual amendment: Sch. 2 paras. 32-38 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5) [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
 [^c20967011]: Commencement: Sch. 2 wholly in force at 1.4.2005, see s. 73 and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
@@ -522,15 +522,15 @@ Section 66
 
 [^c20967261]: Commencement: Sch. 2 wholly in force at 1.4.2005, see s. 73 and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
-[^key-50cb3c0b150840afb16ba44f4fa365b6]: Textual amendment: [Sch. 2 para. 53(2)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/53/2) repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6) [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
+[^c-50cb3c0b150840afb16ba44f4fa365b6]: Textual amendment: [Sch. 2 para. 53(2)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/53/2) repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6) [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
 
-[^key-af552a42f385b295b1469f0258799091]: Textual amendment: [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/54) repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6) [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
+[^c-af552a42f385b295b1469f0258799091]: Textual amendment: [Sch. 2 para. 54](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/54) repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6) [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
 
 [^c20967271]: Commencement: Sch. 2 wholly in force at 1.4.2005, see s. 73 and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
 [^c20967281]: Commencement: Sch. 2 wholly in force at 1.4.2005, see s. 73 and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
-[^key-7ba9a3b7ac326f3ed99c9ad59d002af3]: Textual amendment: [Sch. 2 para. 55(2)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/55/2) repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6) [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
+[^c-7ba9a3b7ac326f3ed99c9ad59d002af3]: Textual amendment: [Sch. 2 para. 55(2)](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/55/2) repealed (1.7.2012 for specified purposes, 22.11.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/5); [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 5(d)](https://www.legislation.gov.uk/uksi/2012/1463/article/5/d) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/1463/article/6) [7](https://www.legislation.gov.uk/uksi/2012/1463/article/7)) (as amended (3.7.2012) by [S.I. 2012/1714](https://www.legislation.gov.uk/uksi/2012/1714), art. 2); [S.I. 2012/2913](https://www.legislation.gov.uk/uksi/2012/2913), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2913/article/1/2), [2(b)(c)](https://www.legislation.gov.uk/uksi/2012/2913/article/2/b/c) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2012/2913/article/3))
 
 [^c20967321]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2) wholly in force at 1.4.2005, see [s. 73](https://www.legislation.gov.uk/ukpga/2004/23/section/73) and [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 

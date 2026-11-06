@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Revision of the statement of proposals[^key-debb981d97a8dc963ac09f682ef5473b]
+## 32. Revision of the statement of proposals[^c-debb981d97a8dc963ac09f682ef5473b]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (3) A copy of the revised statement must be delivered to the FCA at the same time as the revised statement is delivered to others in accordance with paragraph 54(2).
 
-(4) Where the administrator considers that the revision proposed will only affect creditors or, as the case may be, customers, the notice of the meeting to consider the revised statement must be sent to both creditors and customers, but must state[^key-2fd2f4e45d8aa8874afbe472796a9e5a] who is invited to the meeting.
+(4) Where the administrator considers that the revision proposed will only affect creditors or, as the case may be, customers, the notice of the meeting to consider the revised statement must be sent to both creditors and customers, but must state[^c-2fd2f4e45d8aa8874afbe472796a9e5a] who is invited to the meeting.
 
 (5) Subject to paragraph 54(3), within five business days of delivering the revised statement the administrator must deliver a copy of the statement to every member of the institution of whose address the administrator is aware.
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-debb981d97a8dc963ac09f682ef5473b]: Commencement: Rule 32 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-debb981d97a8dc963ac09f682ef5473b]: Commencement: Rule 32 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
-[^key-2fd2f4e45d8aa8874afbe472796a9e5a]: Textual amendment: Words in [rule 32(4)](https://www.legislation.gov.uk/uksi/2021/1178/rule/32/4) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/5)
+[^c-2fd2f4e45d8aa8874afbe472796a9e5a]: Textual amendment: Words in [rule 32(4)](https://www.legislation.gov.uk/uksi/2021/1178/rule/32/4) substituted (10.8.2022) by [The Payment and Electronic Money Institution Insolvency (England and Wales) (Amendment) Rules 2022 (S.I. 2022/847)](https://www.legislation.gov.uk/uksi/2022/847), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/847/rule/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2022/847/rule/2/5)

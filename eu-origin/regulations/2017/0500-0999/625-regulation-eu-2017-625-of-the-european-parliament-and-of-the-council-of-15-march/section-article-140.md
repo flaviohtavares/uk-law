@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The appropriate authority[^key-9b1141a7132cf1579542266327bfce1c] shall ensure that competent authorities have effective mechanisms to enable reporting of actual or potential infringements of this Regulation.
+1. The appropriate authority[^c-9b1141a7132cf1579542266327bfce1c] shall ensure that competent authorities have effective mechanisms to enable reporting of actual or potential infringements of this Regulation.
 
 2. The mechanisms referred to in paragraph 1 shall include at least:
 
 - (a) procedures for the receipt of reports of infringements and their follow-up;
 - (b) appropriate protection for persons reporting an infringement against retaliation, discrimination or other types of unfair treatment; and
-- (c) protection of personal data of the person reporting an infringement in accordance with legislation in force in the relevant constituent territory of Great Britain[^key-5580bed02bf8c733e09c1a7d18dcc063].
+- (c) protection of personal data of the person reporting an infringement in accordance with legislation in force in the relevant constituent territory of Great Britain[^c-5580bed02bf8c733e09c1a7d18dcc063].
 
 ## Annotations
 
-[^key-9b1141a7132cf1579542266327bfce1c]: Textual amendment: Words in [Art. 140(1)](https://www.legislation.gov.uk/eur/2017/625/article/140/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [25(3)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/25/3/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-9b1141a7132cf1579542266327bfce1c]: Textual amendment: Words in [Art. 140(1)](https://www.legislation.gov.uk/eur/2017/625/article/140/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [25(3)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/25/3/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-5580bed02bf8c733e09c1a7d18dcc063]: Textual amendment: Words in [Art. 140(2)(c)](https://www.legislation.gov.uk/eur/2017/625/article/140/2/c) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [25(3)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/25/3/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-5580bed02bf8c733e09c1a7d18dcc063]: Textual amendment: Words in [Art. 140(2)(c)](https://www.legislation.gov.uk/eur/2017/625/article/140/2/c) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [25(3)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/25/3/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

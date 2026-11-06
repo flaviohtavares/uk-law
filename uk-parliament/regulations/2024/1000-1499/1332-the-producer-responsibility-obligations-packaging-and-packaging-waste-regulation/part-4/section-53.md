@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Conditions of registration of a compliance scheme[^key-18a66d6192b0d4a924ca43e82370810a]
+## 53. Conditions of registration of a compliance scheme[^c-18a66d6192b0d4a924ca43e82370810a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Registration of a compliance scheme is subject to the conditions that the scheme
 
 ## Annotations
 
-[^key-18a66d6192b0d4a924ca43e82370810a]: Commencement: Reg. 53 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-18a66d6192b0d4a924ca43e82370810a]: Commencement: Reg. 53 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

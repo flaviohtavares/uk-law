@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146A . Persons subject to immigration control[^key-e88076eaf7128ba1544ee210b7e407df]
+## 146A . Persons subject to immigration control[^c-e88076eaf7128ba1544ee210b7e407df]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e88076eaf7128ba1544ee210b7e407df]: Textual amendment: S. 146A repealed (3.4.2000) by [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [s. 170(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/4), [Sch. 14 para. 92](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/92), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule)
+[^c-e88076eaf7128ba1544ee210b7e407df]: Textual amendment: S. 146A repealed (3.4.2000) by [Immigration and Asylum Act 1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), [s. 170(4)](https://www.legislation.gov.uk/ukpga/1999/33/section/170/4), [Sch. 14 para. 92](https://www.legislation.gov.uk/ukpga/1999/33/schedule/14/paragraph/92), [Sch. 16](https://www.legislation.gov.uk/ukpga/1999/33/schedule/16); [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule)

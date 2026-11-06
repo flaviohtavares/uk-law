@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6B. Control of stores on board a vehicle[^key-a751e05df359c381e54d9e45402386d9]
+## 6B. Control of stores on board a vehicle[^c-a751e05df359c381e54d9e45402386d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a751e05df359c381e54d9e45402386d9]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2018/1248/part/2A) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/5)
+[^c-a751e05df359c381e54d9e45402386d9]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/uksi/2018/1248/part/2A) inserted (4.12.2023) by [The Customs (Aerodromes and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/1202)](https://www.legislation.gov.uk/uksi/2023/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2023/1202/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2023/1202/regulation/4/5)

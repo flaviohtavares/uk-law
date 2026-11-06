@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Notification of change of circumstances[^key-9cd441dea1ea14919903d04e15b1b288]
+## 15. Notification of change of circumstances[^c-9cd441dea1ea14919903d04e15b1b288]
 
 *Extent: N.I.*
 
@@ -50,7 +50,7 @@ In regulation 75 of the Housing Benefit Regulations (duty to notify change of ci
 
 ## Annotations
 
-[^key-9cd441dea1ea14919903d04e15b1b288]: Commencement: Reg. 15 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-9cd441dea1ea14919903d04e15b1b288]: Commencement: Reg. 15 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00086]: Footnote: Paragraph (1) was amended by regulation 8(3)(a) of [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175) and regulation 4(h) of [S.R. 2001 No. 215](https://www.legislation.gov.uk/nisr/2001/215)
 

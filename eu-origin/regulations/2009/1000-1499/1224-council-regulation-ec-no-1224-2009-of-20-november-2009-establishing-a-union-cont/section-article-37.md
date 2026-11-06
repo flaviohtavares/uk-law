@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 37. Corrective measures[^key-1bf5c29ccad2fe4445ff3cbc473a3b4d]
+## Article 37. Corrective measures[^c-1bf5c29ccad2fe4445ff3cbc473a3b4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bf5c29ccad2fe4445ff3cbc473a3b4d]: Textual amendment: Title 4 Ch. 1 Section 4 omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(35)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1bf5c29ccad2fe4445ff3cbc473a3b4d]: Textual amendment: Title 4 Ch. 1 Section 4 omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(35)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

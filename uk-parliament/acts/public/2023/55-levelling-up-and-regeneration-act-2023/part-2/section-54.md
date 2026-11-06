@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Transfer of property, rights and liabilities[^key-fcc45586d506012e04f601042f7174b0]
+## 54. Transfer of property, rights and liabilities[^c-fcc45586d506012e04f601042f7174b0]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcc45586d506012e04f601042f7174b0]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/55/section/54) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-fcc45586d506012e04f601042f7174b0]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2023/55/section/54) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

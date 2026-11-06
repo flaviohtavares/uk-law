@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION, WALES
 
-The Landfill Allowances Scheme (Wales) (Amendment) Regulations 2011 (revoked)[^key-c2607ad480ebb81452e08ae7063155d7]
+The Landfill Allowances Scheme (Wales) (Amendment) Regulations 2011 (revoked)[^c-c2607ad480ebb81452e08ae7063155d7]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 21 November 2011
 
-[^key-c2607ad480ebb81452e08ae7063155d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2607ad480ebb81452e08ae7063155d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-c2607ad480ebb81452e08ae7063155d7]
+## 1. Title, commencement, application and interpretation[^c-c2607ad480ebb81452e08ae7063155d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2004 Regulations[^key-c2607ad480ebb81452e08ae7063155d7]
+## 2. Amendment of the 2004 Regulations[^c-c2607ad480ebb81452e08ae7063155d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2(1) (interpretation)[^key-c2607ad480ebb81452e08ae7063155d7]
+## 3. Amendment of regulation 2(1) (interpretation)[^c-c2607ad480ebb81452e08ae7063155d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Substituting “the Welsh Ministers” for “the Assembly”[^key-c2607ad480ebb81452e08ae7063155d7]
+## 4. Substituting “the Welsh Ministers” for “the Assembly”[^c-c2607ad480ebb81452e08ae7063155d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Substitution of the term “collected municipal waste”[^key-c2607ad480ebb81452e08ae7063155d7]
+## 5. Substitution of the term “collected municipal waste”[^c-c2607ad480ebb81452e08ae7063155d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Substitution of the term “biodegradable collected municipal waste”[^key-c2607ad480ebb81452e08ae7063155d7]
+## 6. Substitution of the term “biodegradable collected municipal waste”[^c-c2607ad480ebb81452e08ae7063155d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Substitution of regulation 8 (determining the amount of biodegradable municipal waste in an amount of waste)[^key-c2607ad480ebb81452e08ae7063155d7]
+## 7. Substitution of regulation 8 (determining the amount of biodegradable municipal waste in an amount of waste)[^c-c2607ad480ebb81452e08ae7063155d7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c2607ad480ebb81452e08ae7063155d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2607ad480ebb81452e08ae7063155d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c2607ad480ebb81452e08ae7063155d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c2607ad480ebb81452e08ae7063155d7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2607ad480ebb81452e08ae7063155d7]: Textual amendment: Regulations revoked (15.1.2012 at 12:01 a.m.) by [The Landfill Allowances Scheme (Wales) (Amendment) Regulations 2012 (S.I. 2012/65)](https://www.legislation.gov.uk/wsi/2012/65), regs. 1(2), [2](https://www.legislation.gov.uk/wsi/2012/65/regulation/2)
+[^c-c2607ad480ebb81452e08ae7063155d7]: Textual amendment: Regulations revoked (15.1.2012 at 12:01 a.m.) by [The Landfill Allowances Scheme (Wales) (Amendment) Regulations 2012 (S.I. 2012/65)](https://www.legislation.gov.uk/wsi/2012/65), regs. 1(2), [2](https://www.legislation.gov.uk/wsi/2012/65/regulation/2)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**316.**[^key-2e941f8d87fb7ee18528c51f4e63ad97] In section 194 (ordinary residence)—
+**316.**[^c-2e941f8d87fb7ee18528c51f4e63ad97] In section 194 (ordinary residence)—
 
 - (a) after subsection (4) insert—
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e941f8d87fb7ee18528c51f4e63ad97]: Commencement: Reg. 316 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-2e941f8d87fb7ee18528c51f4e63ad97]: Commencement: Reg. 316 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00208]: Footnote: Section 194(4A) is inserted by section 75(10) of the Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23) and was enacted in English only.

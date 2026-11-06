@@ -22,11 +22,11 @@ summary: ''
 
 (introduced by section 59)
 
-### 1. Transfer date[^key-70c83abd67205a7b4925c2c0e36bfcd4][^key-e09e71d77088ce3409bb1145dd933b54]
+### 1. Transfer date[^c-70c83abd67205a7b4925c2c0e36bfcd4][^c-e09e71d77088ce3409bb1145dd933b54]
 
 In this schedule, “**transfer date**” means the date on which this paragraph comes into force.
 
-### 2. Transfer of staff[^key-2aeee393e7faade97a040feb042b9755][^key-4db1016e2efe9d1c7bed091904567ba7]
+### 2. Transfer of staff[^c-2aeee393e7faade97a040feb042b9755][^c-4db1016e2efe9d1c7bed091904567ba7]
 
 (1) With effect from the transfer date, any person who, immediately before that date, was employed by the Scottish Qualifications Authority, is transferred into the employment of Qualifications Scotland.
 
@@ -51,7 +51,7 @@ In this schedule, “**transfer date**” means the date on which this paragraph
 
 (7) No such right arises by reason only that, by virtue of this paragraph, the identity of the person’s employer changes.
 
-### 3. Transfer of property[^key-852ef9639935fd203bc8492173e808ba][^key-e2631af9741f7f524ab90e6a83c36f34]
+### 3. Transfer of property[^c-852ef9639935fd203bc8492173e808ba][^c-e2631af9741f7f524ab90e6a83c36f34]
 
 (1) With effect from the transfer date, all property, rights, liabilities and obligations to which sub-paragraph (2) applies, are transferred to, and vest in, Qualifications Scotland.
 
@@ -62,11 +62,11 @@ In this schedule, “**transfer date**” means the date on which this paragraph
 
 (3) Sub-paragraph (1) has effect in relation to any property or liabilities to which it applies despite any provision (of whatever nature) which would otherwise prevent, penalise or restrict the transfer of the property or liabilities.
 
-### 4. Duty to secure vesting of foreign property[^key-7477d3349d1ce90257618508f6be7d5e][^key-dfae30cd5fae1771a9f0748cd8812c46]
+### 4. Duty to secure vesting of foreign property[^c-7477d3349d1ce90257618508f6be7d5e][^c-dfae30cd5fae1771a9f0748cd8812c46]
 
 The Scottish Qualifications Authority and Qualifications Scotland must take all such steps as may be required to secure that the vesting in Qualifications Scotland of any foreign property, right, liability or obligation of the Scottish Qualifications Authority, is effective under the relevant foreign law.
 
-### 5. Appointment of initial board members[^key-909b9e556ae5660c69527bce31b237c7][^key-3434ee1108f27e7548bdbe6c8c7d93e5]
+### 5. Appointment of initial board members[^c-909b9e556ae5660c69527bce31b237c7][^c-3434ee1108f27e7548bdbe6c8c7d93e5]
 
 (1) The person who is, immediately before the date on which this paragraph fully comes into force (the “member appointment date”), the chairing member of the Scottish Qualifications Authority is, on that date, taken to have been appointed as the chairing member of Qualifications Scotland under paragraph 2(1)(a) of schedule 1.
 
@@ -90,22 +90,22 @@ The Scottish Qualifications Authority and Qualifications Scotland must take all 
 
 ## Annotations
 
-[^key-70c83abd67205a7b4925c2c0e36bfcd4]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-70c83abd67205a7b4925c2c0e36bfcd4]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-e09e71d77088ce3409bb1145dd933b54]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/1) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-e09e71d77088ce3409bb1145dd933b54]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/1) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-2aeee393e7faade97a040feb042b9755]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-2aeee393e7faade97a040feb042b9755]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-4db1016e2efe9d1c7bed091904567ba7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/2) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-4db1016e2efe9d1c7bed091904567ba7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/2) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-852ef9639935fd203bc8492173e808ba]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-852ef9639935fd203bc8492173e808ba]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-e2631af9741f7f524ab90e6a83c36f34]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/3) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-e2631af9741f7f524ab90e6a83c36f34]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/3) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-7477d3349d1ce90257618508f6be7d5e]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-7477d3349d1ce90257618508f6be7d5e]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-dfae30cd5fae1771a9f0748cd8812c46]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/4) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-dfae30cd5fae1771a9f0748cd8812c46]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/4) in force at 1.2.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-909b9e556ae5660c69527bce31b237c7]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-909b9e556ae5660c69527bce31b237c7]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-3434ee1108f27e7548bdbe6c8c7d93e5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/5) in force at 1.12.2025 by [S.S.I. 2025/351](https://www.legislation.gov.uk/ssi/2025/351), [reg. 2](https://www.legislation.gov.uk/ssi/2025/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/351/schedule)
+[^c-3434ee1108f27e7548bdbe6c8c7d93e5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/asp/2025/11/schedule/3/paragraph/5) in force at 1.12.2025 by [S.S.I. 2025/351](https://www.legislation.gov.uk/ssi/2025/351), [reg. 2](https://www.legislation.gov.uk/ssi/2025/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/351/schedule)

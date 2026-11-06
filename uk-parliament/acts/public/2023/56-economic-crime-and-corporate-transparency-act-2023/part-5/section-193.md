@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Other defined terms in sections 188 to 191[^key-1eb8c20ffa0ee50ea7d960f17d04f65f][^key-eb8efc526223bf45ac9a4309392f52cb]
+## 193. Other defined terms in sections 188 to 191[^c-1eb8c20ffa0ee50ea7d960f17d04f65f][^c-eb8efc526223bf45ac9a4309392f52cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1eb8c20ffa0ee50ea7d960f17d04f65f]: Commencement: S. 193 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-1eb8c20ffa0ee50ea7d960f17d04f65f]: Commencement: S. 193 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-eb8efc526223bf45ac9a4309392f52cb]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2023/56/section/193) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)
+[^c-eb8efc526223bf45ac9a4309392f52cb]: Commencement: [S. 193](https://www.legislation.gov.uk/ukpga/2023/56/section/193) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)

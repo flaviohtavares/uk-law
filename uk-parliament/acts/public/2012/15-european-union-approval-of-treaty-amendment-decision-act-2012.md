@@ -32,18 +32,18 @@ European Union (Approval of Treaty Amendment Decision) Act 2012 (repealed)
 
 2012 c. 15
 
-[^key-6f75cf4fb6a8bed3b8ce68b88390060c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f75cf4fb6a8bed3b8ce68b88390060c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Approval of EU decision relating to stability mechanism[^key-6f75cf4fb6a8bed3b8ce68b88390060c]
+## 1. Approval of EU decision relating to stability mechanism[^c-6f75cf4fb6a8bed3b8ce68b88390060c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent, commencement and short title[^key-6f75cf4fb6a8bed3b8ce68b88390060c]
+## 2. Extent, commencement and short title[^c-6f75cf4fb6a8bed3b8ce68b88390060c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f75cf4fb6a8bed3b8ce68b88390060c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2012/15) repealed (4.7.2018) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i)
+[^c-6f75cf4fb6a8bed3b8ce68b88390060c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2012/15) repealed (4.7.2018) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i)

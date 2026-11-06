@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Removal of limited partnership from index of names[^key-6c9e0b13e48844f9c9d1c70d426b50b9]
+## 144. Removal of limited partnership from index of names[^c-6c9e0b13e48844f9c9d1c70d426b50b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ After section 26 of the Limited Partnerships Act 1907 (inserted by section 143 o
 
 ## Annotations
 
-[^key-6c9e0b13e48844f9c9d1c70d426b50b9]: Commencement: S. 144 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6c9e0b13e48844f9c9d1c70d426b50b9]: Commencement: S. 144 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

@@ -30,7 +30,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The Highlands and Islands Agricultural Programme Amendment Regulations 1999 (revoked)[^key-671692c9a6136ecfb06dc2e562182205]
+The Highlands and Islands Agricultural Programme Amendment Regulations 1999 (revoked)[^c-671692c9a6136ecfb06dc2e562182205]
 
 Made
 
@@ -44,62 +44,62 @@ Coming into force
 
 31st March 1999
 
-[^key-671692c9a6136ecfb06dc2e562182205]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-671692c9a6136ecfb06dc2e562182205]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-671692c9a6136ecfb06dc2e562182205]
+## 1. Citation, commencement and interpretation[^c-671692c9a6136ecfb06dc2e562182205]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-671692c9a6136ecfb06dc2e562182205]
+## 2. Application[^c-671692c9a6136ecfb06dc2e562182205]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-671692c9a6136ecfb06dc2e562182205]
+## 3. Amendment of the principal Regulations[^c-671692c9a6136ecfb06dc2e562182205]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-671692c9a6136ecfb06dc2e562182205]
+## 4.[^c-671692c9a6136ecfb06dc2e562182205]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-671692c9a6136ecfb06dc2e562182205]
+## 5.[^c-671692c9a6136ecfb06dc2e562182205]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-671692c9a6136ecfb06dc2e562182205]
+## 6.[^c-671692c9a6136ecfb06dc2e562182205]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-671692c9a6136ecfb06dc2e562182205]
+## 7.[^c-671692c9a6136ecfb06dc2e562182205]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-671692c9a6136ecfb06dc2e562182205]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-671692c9a6136ecfb06dc2e562182205]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-671692c9a6136ecfb06dc2e562182205]
+## SCHEDULE[^c-671692c9a6136ecfb06dc2e562182205]
 
 Regulation 7
 
-> **SCHEDULE — AGRICULTURAL BUSINESS IMPROVEMENT SCHEME ELIGIBLE MEASURES[^key-671692c9a6136ecfb06dc2e562182205]**
+> **SCHEDULE — AGRICULTURAL BUSINESS IMPROVEMENT SCHEME ELIGIBLE MEASURES[^c-671692c9a6136ecfb06dc2e562182205]**
 >
 > Regulations 6 and 8
 >
-> **PART A — BUSINESS IMPROVEMENT MEASURES[^key-671692c9a6136ecfb06dc2e562182205]**
+> **PART A — BUSINESS IMPROVEMENT MEASURES[^c-671692c9a6136ecfb06dc2e562182205]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART B — ENVIRONMENTAL ENHANCEMENT MEASURES[^key-671692c9a6136ecfb06dc2e562182205]**
+> **PART B — ENVIRONMENTAL ENHANCEMENT MEASURES[^c-671692c9a6136ecfb06dc2e562182205]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-671692c9a6136ecfb06dc2e562182205]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-671692c9a6136ecfb06dc2e562182205]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-671692c9a6136ecfb06dc2e562182205]: Textual amendment: Regulations revoked (29.1.2001) by [The Agricultural Business Development Scheme (Scotland) Regulations 2000 (S.S.I. 2000/448)](https://www.legislation.gov.uk/ssi/2000/448), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/448/regulation/1/1), [16(1)](https://www.legislation.gov.uk/ssi/2000/448/regulation/16/1)
+[^c-671692c9a6136ecfb06dc2e562182205]: Textual amendment: Regulations revoked (29.1.2001) by [The Agricultural Business Development Scheme (Scotland) Regulations 2000 (S.S.I. 2000/448)](https://www.legislation.gov.uk/ssi/2000/448), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/448/regulation/1/1), [16(1)](https://www.legislation.gov.uk/ssi/2000/448/regulation/16/1)

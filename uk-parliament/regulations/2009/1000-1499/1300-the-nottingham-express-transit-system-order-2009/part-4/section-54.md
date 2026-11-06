@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Power to contract for police services[^key-1eee534f3e6695ee4358d37c52e57e38]
+## 54. Power to contract for police services[^c-1eee534f3e6695ee4358d37c52e57e38]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1eee534f3e6695ee4358d37c52e57e38]: Commencement: Art. 54 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-1eee534f3e6695ee4358d37c52e57e38]: Commencement: Art. 54 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00038]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).
 

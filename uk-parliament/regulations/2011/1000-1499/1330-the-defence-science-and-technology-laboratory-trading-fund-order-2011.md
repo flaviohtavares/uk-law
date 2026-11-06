@@ -32,7 +32,7 @@ summary: ''
 
 Defence
 
-The Defence Science and Technology Laboratory Trading Fund Order 2011 (revoked)[^key-2b2be5ec954f7f62865f66939bc88a9f]
+The Defence Science and Technology Laboratory Trading Fund Order 2011 (revoked)[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 Made
 
@@ -42,64 +42,64 @@ Coming into force
 
 20th May 2011
 
-[^key-2b2be5ec954f7f62865f66939bc88a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b2be5ec954f7f62865f66939bc88a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2b2be5ec954f7f62865f66939bc88a9f]
+## 1. Citation and commencement[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Continuation and extension of the fund[^key-2b2be5ec954f7f62865f66939bc88a9f]
+## 2. Continuation and extension of the fund[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Authorised Lender[^key-2b2be5ec954f7f62865f66939bc88a9f]
+## 3. Authorised Lender[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Assets and liabilities of the fund[^key-2b2be5ec954f7f62865f66939bc88a9f]
+## 4. Assets and liabilities of the fund[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Public dividend capital[^key-2b2be5ec954f7f62865f66939bc88a9f]
+## 5. Public dividend capital[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Maximum borrowing[^key-2b2be5ec954f7f62865f66939bc88a9f]
+## 6. Maximum borrowing[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of Orders[^key-2b2be5ec954f7f62865f66939bc88a9f]
+## 7. Revocation of Orders[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b2be5ec954f7f62865f66939bc88a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b2be5ec954f7f62865f66939bc88a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Funded operations[^key-2b2be5ec954f7f62865f66939bc88a9f]
+## SCHEDULE 1 — Funded operations[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 Article 2(3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Assets and liabilities that continue to be appropriated to the fund[^key-2b2be5ec954f7f62865f66939bc88a9f]
+## SCHEDULE 2 — Assets and liabilities that continue to be appropriated to the fund[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 Article 4
 
-### PART 1 — Assets[^key-2b2be5ec954f7f62865f66939bc88a9f]
+### PART 1 — Assets[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Liabilities[^key-2b2be5ec954f7f62865f66939bc88a9f]
+### PART 2 — Liabilities[^c-2b2be5ec954f7f62865f66939bc88a9f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2b2be5ec954f7f62865f66939bc88a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b2be5ec954f7f62865f66939bc88a9f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b2be5ec954f7f62865f66939bc88a9f]: Textual amendment: Order revoked (1.4.2017) by [The Defence Science and Technology Laboratory Trading Fund (Revocation) Order 2017 (S.I. 2017/148)](https://www.legislation.gov.uk/uksi/2017/148), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/148/article/1/2), [2](https://www.legislation.gov.uk/uksi/2017/148/article/2)
+[^c-2b2be5ec954f7f62865f66939bc88a9f]: Textual amendment: Order revoked (1.4.2017) by [The Defence Science and Technology Laboratory Trading Fund (Revocation) Order 2017 (S.I. 2017/148)](https://www.legislation.gov.uk/uksi/2017/148), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/148/article/1/2), [2](https://www.legislation.gov.uk/uksi/2017/148/article/2)

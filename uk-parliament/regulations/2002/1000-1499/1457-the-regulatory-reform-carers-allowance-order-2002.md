@@ -129,7 +129,7 @@ Article 2(2)
 - (a) in section 44A [^c959821] (deemed earnings factors), subsection (2)(b);
 - (b) in section 63 (descriptions of non-contributory benefits), paragraph (c);
 - (c) in section 70 (invalid care allowance), subsections (1) and (9);
-- (d)[^key-69ea36edfe73c9c7393944bf21403233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-69ea36edfe73c9c7393944bf21403233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in section 150 (interpretation of Part X), subsection (1)(e);
 - (f) in Part III of Schedule 4 (rates of non-contributory periodical benefits), paragraph 4;
 - (g) in Part IV of that Schedule (rates of increase for dependants), paragraph 9.
@@ -164,7 +164,7 @@ Article 4 preserves entitlement to an allowance in the case of any person over t
 
 [^c959821]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); section 44A was inserted by section 30(3) of the [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-69ea36edfe73c9c7393944bf21403233]: Textual amendment: Sch. para. 2(d) revoked (12.1.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/3), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2)
+[^c-69ea36edfe73c9c7393944bf21403233]: Textual amendment: Sch. para. 2(d) revoked (12.1.2010) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/3), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2)
 
 [^c959822]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); [section 2A](https://www.legislation.gov.uk/uksi/2002/1457/section/2A) was inserted by section 57 of the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 

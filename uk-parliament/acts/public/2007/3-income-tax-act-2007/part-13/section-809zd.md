@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809ZD. Section 809ZA: expectation that relevant capital payment will not be paid[^key-17838e00376afcb80c763bcd20c8ddd3]
+## 809ZD. Section 809ZA: expectation that relevant capital payment will not be paid[^c-17838e00376afcb80c763bcd20c8ddd3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17838e00376afcb80c763bcd20c8ddd3]: Textual amendment: Pt. 13 Ch. 6 inserted (21.7.2008 with effect in accordance with Sch. 20 para. 2(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 2(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/1) (with [Sch. 20 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3))
+[^c-17838e00376afcb80c763bcd20c8ddd3]: Textual amendment: Pt. 13 Ch. 6 inserted (21.7.2008 with effect in accordance with Sch. 20 para. 2(2) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 2(1)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/1) (with [Sch. 20 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/2/3))

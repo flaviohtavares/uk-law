@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95B. Weekly donation reports during general election periods[^key-659db08d2e1d8991daa8fa2200f6da0a]
+## 95B. Weekly donation reports during general election periods[^c-659db08d2e1d8991daa8fa2200f6da0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,14 +50,14 @@ summary: ''
 - “**qualifying regulated period**” means a period in relation to which any limit is imposed by paragraph 3, 9, 10 or 11 of Schedule 10 (periods involving parliamentary general elections);
 - “**relevant donation**” has the same meaning as in Schedule 11.
 
-(10A)[^key-274d74e45d9efb215fd45cb459722966] This section does not apply in relation to a recognised third party that is subject to the lower-tier expenditure limits.
+(10A)[^c-274d74e45d9efb215fd45cb459722966] This section does not apply in relation to a recognised third party that is subject to the lower-tier expenditure limits.
 
-(11)[^key-80ff7d6f3628faf9ab0741461eb85d3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-80ff7d6f3628faf9ab0741461eb85d3a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-659db08d2e1d8991daa8fa2200f6da0a]: Textual amendment: Ss. 95A-95F and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-659db08d2e1d8991daa8fa2200f6da0a]: Textual amendment: Ss. 95A-95F and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
 
-[^key-274d74e45d9efb215fd45cb459722966]: Textual amendment: [S. 95B(10A)](https://www.legislation.gov.uk/ukpga/2000/41/section/95B/10A) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 28(12)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/12), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1) (with [s. 28(13)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/13)[(14)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/14)); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-274d74e45d9efb215fd45cb459722966]: Textual amendment: [S. 95B(10A)](https://www.legislation.gov.uk/ukpga/2000/41/section/95B/10A) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 28(12)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/12), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1) (with [s. 28(13)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/13)[(14)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/14)); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
 
-[^key-80ff7d6f3628faf9ab0741461eb85d3a]: Textual amendment: [S. 95B(11)](https://www.legislation.gov.uk/ukpga/2000/41/section/95B/11) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(8)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/8), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-80ff7d6f3628faf9ab0741461eb85d3a]: Textual amendment: [S. 95B(11)](https://www.legislation.gov.uk/ukpga/2000/41/section/95B/11) omitted (24.11.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 24(8)](https://www.legislation.gov.uk/ukpga/2022/37/section/24/8), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

@@ -37,7 +37,7 @@ Most Gracious Sovereign
 
 We , Your Majesty’s most dutiful and loyal subjects, the Commons of the United Kingdom in Parliament assembled, towards raising the necessary supplies to defray Your Majesty’s public expenses, and making an addition to the public revenue, have freely and voluntarily resolved to give and to grant unto Your Majesty the several duties hereinafter mentioned; and do therefore most humbly beseech Your Majesty that it may be enacted, and be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Increase in rate of electricity generator levy[^key-46b607cf33643362b7dc43f9d02a594c]
+## 1. Increase in rate of electricity generator levy[^c-46b607cf33643362b7dc43f9d02a594c]
 
 (1) In [section 279](https://www.legislation.gov.uk/ukpga/2023/30/section/279) of the [Finance (No. 2) Act 2023](https://www.legislation.gov.uk/ukpga/2023/30/contents) (charge on exceptional generation receipts), in [subsection (1)](https://www.legislation.gov.uk/ukpga/2023/30/section/279), for “45%” substitute “55%”.
 
@@ -72,7 +72,7 @@ the additional amount of levy chargeable for the straddling period as a result o
 
 (8) In this section “**the Instalment Payment Regulations**” means the [Corporation Tax (Instalment Payments) Regulations 1998](https://www.legislation.gov.uk/uksi/1998/3175/contents) ([S.I. 1998/3175](https://www.legislation.gov.uk/uksi/1998/3175)).
 
-## 2. Mileage amounts relating to income tax[^key-1c5e957d3e669fd910fba970ccc7158d]
+## 2. Mileage amounts relating to income tax[^c-1c5e957d3e669fd910fba970ccc7158d]
 
 (1) In the table in each of—
 
@@ -85,7 +85,7 @@ for “45p” substitute “55p”.
 
 (3) The amendments made by this section have effect for the tax year 2026-27 and subsequent tax years.
 
-## 3. Goods vehicles: temporary VED rates[^key-63da7580403346d955fcad497b883d8e]
+## 3. Goods vehicles: temporary VED rates[^c-63da7580403346d955fcad497b883d8e]
 
 (1) The [Vehicle Excise and Registration Act 1994](https://www.legislation.gov.uk/ukpga/1994/22/contents) has effect in relation to vehicle licences, other than trade licences, taken out in the period beginning with 1 July 2026 and ending with 30 June 2027 as follows.
 
@@ -112,16 +112,16 @@ for “45p” substitute “55p”.
 
 (7) [Article 3](https://www.legislation.gov.uk/uksi/1986/1428/article/3)[(1)](https://www.legislation.gov.uk/uksi/1986/1428/article/3)[(b)](https://www.legislation.gov.uk/uksi/1986/1428/article/3) of the [Vehicle Licences (Duration of First Licences and Rate of Duty) Order 1986](https://www.legislation.gov.uk/uksi/1986/1428/contents) ([S.I. 1986/1428](https://www.legislation.gov.uk/uksi/1986/1428)) has effect in relation to vehicle licences, other than trade licences, taken out in the period beginning with 1 July 2026 and ending with 30 June 2027 for vehicles for which any of subsections (2) to (5) has effect as if for “£50” there were substituted “£0”.
 
-## 4. Short title[^key-592c62a367e2dfa36037f6f8bfd98bda]
+## 4. Short title[^c-592c62a367e2dfa36037f6f8bfd98bda]
 
 This Act may be cited as the Taxation (Energy and Vehicles) Act 2026.
 
 ## Annotations
 
-[^key-46b607cf33643362b7dc43f9d02a594c]: Commencement: S. 1 in force at Royal Assent
+[^c-46b607cf33643362b7dc43f9d02a594c]: Commencement: S. 1 in force at Royal Assent
 
-[^key-1c5e957d3e669fd910fba970ccc7158d]: Commencement: S. 2 in force at Royal Assent
+[^c-1c5e957d3e669fd910fba970ccc7158d]: Commencement: S. 2 in force at Royal Assent
 
-[^key-63da7580403346d955fcad497b883d8e]: Commencement: S. 3 in force at Royal Assent
+[^c-63da7580403346d955fcad497b883d8e]: Commencement: S. 3 in force at Royal Assent
 
-[^key-592c62a367e2dfa36037f6f8bfd98bda]: Commencement: S. 4 in force at Royal Assent
+[^c-592c62a367e2dfa36037f6f8bfd98bda]: Commencement: S. 4 in force at Royal Assent

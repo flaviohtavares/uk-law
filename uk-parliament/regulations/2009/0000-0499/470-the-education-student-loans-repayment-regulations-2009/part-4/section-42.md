@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Repayment of student loans ... by employees[^key-a9d001ddda2a2a4d4134efbc39dccd44][^key-1a54757b66e6928b25d6551d436afc5a]
+## 42. Repayment of student loans ... by employees[^c-a9d001ddda2a2a4d4134efbc39dccd44][^c-1a54757b66e6928b25d6551d436afc5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Subject to the provisions contained in this Part, repayments by a borrower who i
 
 ## Annotations
 
-[^key-a9d001ddda2a2a4d4134efbc39dccd44]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2009/470/regulation/42) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-a9d001ddda2a2a4d4134efbc39dccd44]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2009/470/regulation/42) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
 
-[^key-1a54757b66e6928b25d6551d436afc5a]: Textual amendment: Words in [reg. 42](https://www.legislation.gov.uk/uksi/2009/470/regulation/42) heading omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [38](https://www.legislation.gov.uk/uksi/2022/1335/regulation/38)
+[^c-1a54757b66e6928b25d6551d436afc5a]: Textual amendment: Words in [reg. 42](https://www.legislation.gov.uk/uksi/2009/470/regulation/42) heading omitted (6.4.2023) by virtue of [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [38](https://www.legislation.gov.uk/uksi/2022/1335/regulation/38)

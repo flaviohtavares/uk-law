@@ -79,7 +79,7 @@ Regulation 37(6)
 > - (e) in Annex 1 to the Gas Regulation (guidelines)—
 >   - (i) points 1 to 10 under heading 1 (duties relating to third-party access services),
 >   - (ii) points 1 to 6 under sub-heading 2.1 (duties relating to capacity allocation and congestion management),
->   - (iii)[^key-59753a2d843f7b14bb975f5b263ee643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>   - (iii)[^c-59753a2d843f7b14bb975f5b263ee643] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >   - (iv) points 3.1.1 and 3.1.2 under sub-heading 3.1 (duties concerning publication of technical information necessary for access to the system),
 >   - (v) points 2 and 3 under sub-heading 3.2 (duties concerning publication of information for certain relevant points of the network),
 >   - (vi) points 1 to 5 under sub-heading 3.3 (duties concerning publication of information at all relevant points of the network),
@@ -169,7 +169,7 @@ Regulation 37(6)
 > - (e) Article 3(3) of the Gas Regulation (duty to supply information relating to certification of gas transmission system operators);
 > - (f) Article 3(3) of the Electricity Regulation (duty to supply information relating to certification of electricity transmission system operators).
 >
-> **10. ...[^key-59753a2d843f7b14bb975f5b263ee643][^key-59753a2d843f7b14bb975f5b263ee643]**
+> **10. ...[^c-59753a2d843f7b14bb975f5b263ee643][^c-59753a2d843f7b14bb975f5b263ee643]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -223,7 +223,7 @@ Regulation 37(6)
 
 [^c21105221]: Marginal citation: [Section 8L](https://www.legislation.gov.uk/uksi/2011/2704/section/8L) is inserted by regulation 4 of these Regulations.
 
-[^key-59753a2d843f7b14bb975f5b263ee643]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2704/schedule/3) omitted (14.1.2015) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2014 (S.I. 2014/3332)](https://www.legislation.gov.uk/uksi/2014/3332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3332/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/3332/regulation/4)
+[^c-59753a2d843f7b14bb975f5b263ee643]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2704/schedule/3) omitted (14.1.2015) by virtue of [The Electricity and Gas (Internal Markets) Regulations 2014 (S.I. 2014/3332)](https://www.legislation.gov.uk/uksi/2014/3332), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3332/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/3332/regulation/4)
 
 [^c21105231]: Marginal citation: [Section 7A](https://www.legislation.gov.uk/uksi/2011/2704/section/7A) was inserted by section 6(1) of the [Gas Act 1995 (c. 45)](https://www.legislation.gov.uk/ukpga/1995/45) and subsequently amended by sections 3(2) and 108 of, and paragraphs 1 and 2(1) of Schedule 6 to, and Schedule 8 to, the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27) and by section 149(1) and (7) of the [Energy Act 2004 (c. 20)](https://www.legislation.gov.uk/ukpga/2004/20).
 

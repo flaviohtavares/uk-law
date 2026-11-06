@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Guidance by SEPA: management of reservoirs[^key-3aad6e6122a1ce09e864e8f89569e684]
+## 6. Guidance by SEPA: management of reservoirs[^c-3aad6e6122a1ce09e864e8f89569e684]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3aad6e6122a1ce09e864e8f89569e684]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/9/section/6) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)
+[^c-3aad6e6122a1ce09e864e8f89569e684]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/9/section/6) in force at 1.1.2015 by [S.S.I. 2014/348](https://www.legislation.gov.uk/ssi/2014/348), [art. 2](https://www.legislation.gov.uk/ssi/2014/348/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/348/schedule)

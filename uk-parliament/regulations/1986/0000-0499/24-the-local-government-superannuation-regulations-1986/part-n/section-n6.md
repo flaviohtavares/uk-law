@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## N6. Decisions by administering authorities as to benefits[^key-822bee2b8eaa536700f257bb38f9acb9]
+## N6. Decisions by administering authorities as to benefits[^c-822bee2b8eaa536700f257bb38f9acb9]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-822bee2b8eaa536700f257bb38f9acb9]: Commencement: [Reg. N6](https://www.legislation.gov.uk/uksi/1986/24/regulation/N6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-822bee2b8eaa536700f257bb38f9acb9]: Commencement: [Reg. N6](https://www.legislation.gov.uk/uksi/1986/24/regulation/N6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

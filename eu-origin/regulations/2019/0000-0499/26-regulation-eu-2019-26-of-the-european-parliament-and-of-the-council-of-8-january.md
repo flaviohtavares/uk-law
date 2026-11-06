@@ -35,44 +35,44 @@ complementing Union type-approval legislation with regard to the withdrawal of t
 
 (Text with EEA relevance) (revoked)
 
-[^key-6b469118e94fe6edbc97ee5cc31f7b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b469118e94fe6edbc97ee5cc31f7b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-6b469118e94fe6edbc97ee5cc31f7b9c]
+## Article 1. Subject matter[^c-6b469118e94fe6edbc97ee5cc31f7b9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Scope[^key-6b469118e94fe6edbc97ee5cc31f7b9c]
+## Article 2. Scope[^c-6b469118e94fe6edbc97ee5cc31f7b9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Definitions[^key-6b469118e94fe6edbc97ee5cc31f7b9c]
+## Article 3. Definitions[^c-6b469118e94fe6edbc97ee5cc31f7b9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Application for a Union type-approval[^key-6b469118e94fe6edbc97ee5cc31f7b9c]
+## Article 4. Application for a Union type-approval[^c-6b469118e94fe6edbc97ee5cc31f7b9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Conditions for the granting of a Union type-approval and its effects[^key-6b469118e94fe6edbc97ee5cc31f7b9c]
+## Article 5. Conditions for the granting of a Union type-approval and its effects[^c-6b469118e94fe6edbc97ee5cc31f7b9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Union type-approval authority responsible for vehicles, systems, components or separate technical units of types not approved under this Regulation[^key-6b469118e94fe6edbc97ee5cc31f7b9c]
+## Article 6. Union type-approval authority responsible for vehicles, systems, components or separate technical units of types not approved under this Regulation[^c-6b469118e94fe6edbc97ee5cc31f7b9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Specific provisions[^key-6b469118e94fe6edbc97ee5cc31f7b9c]
+## Article 7. Specific provisions[^c-6b469118e94fe6edbc97ee5cc31f7b9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and application[^key-6b469118e94fe6edbc97ee5cc31f7b9c]
+## Article 8. Entry into force and application[^c-6b469118e94fe6edbc97ee5cc31f7b9c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b469118e94fe6edbc97ee5cc31f7b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b469118e94fe6edbc97ee5cc31f7b9c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b469118e94fe6edbc97ee5cc31f7b9c]: Textual amendment: Regulation revoked (with transitional provision) (31.12.2020) by [S.I. 2019/648](https://www.legislation.gov.uk/uksi/2019/648), [reg. 10A](https://www.legislation.gov.uk/uksi/2019/648/regulation/10A) (as inserted by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1156)](https://www.legislation.gov.uk/uksi/2019/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1156/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/1156/regulation/2/b) (as amended by [S.I. 2020/1393](https://www.legislation.gov.uk/uksi/2020/1393), [reg. 2(11)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-6b469118e94fe6edbc97ee5cc31f7b9c]: Textual amendment: Regulation revoked (with transitional provision) (31.12.2020) by [S.I. 2019/648](https://www.legislation.gov.uk/uksi/2019/648), [reg. 10A](https://www.legislation.gov.uk/uksi/2019/648/regulation/10A) (as inserted by The Road Vehicles and Non-[Road Mobile Machinery (Type-Approval) (Amendment) (EU Exit) (No. 3) Regulations 2019 (S.I. 2019/1156)](https://www.legislation.gov.uk/uksi/2019/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1156/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2019/1156/regulation/2/b) (as amended by [S.I. 2020/1393](https://www.legislation.gov.uk/uksi/2020/1393), [reg. 2(11)](https://www.legislation.gov.uk/uksi/2020/1393/regulation/2/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

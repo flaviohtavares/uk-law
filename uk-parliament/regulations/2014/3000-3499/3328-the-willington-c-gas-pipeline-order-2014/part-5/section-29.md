@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Railway and navigation crossings[^key-47ddcabd8f987cf2771b4f4961a9db26]
+## 29. Railway and navigation crossings[^c-47ddcabd8f987cf2771b4f4961a9db26]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ except with the consent of the undertakers, authority or, as the case may be, of
 
 ## Annotations
 
-[^key-47ddcabd8f987cf2771b4f4961a9db26]: Commencement: Art. 29 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-47ddcabd8f987cf2771b4f4961a9db26]: Commencement: Art. 29 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00039]: Footnote: “Highway maintainable at the public expense” is defined in section 329.
 

@@ -54,7 +54,7 @@ In accordance with paragraph 4 of schedule 2 of the European Union (Withdrawal) 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-0632f6098bc57bd642816cf84acc65f4]
+### 1. Citation, commencement and extent[^c-0632f6098bc57bd642816cf84acc65f4]
 
 (1) These Regulations may be cited as the Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force as follows—
 
@@ -66,7 +66,7 @@ In accordance with paragraph 4 of schedule 2 of the European Union (Withdrawal) 
 
 ## PART 2 — Amendment of secondary legislation in exercise of powers under section 2(2) of the European Communities Act 1972
 
-### 2. Amendment of the Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007[^key-17499b4f646df271a662fae9468b20e4]
+### 2. Amendment of the Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007[^c-17499b4f646df271a662fae9468b20e4]
 
 In regulation 2 (interpretation) of the Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 [^c23843821]—
 
@@ -77,7 +77,7 @@ In regulation 2 (interpretation) of the Official Controls (Animals, Feed and Foo
 - (b) in paragraph (2)(c), for the words from “Council Regulation” to the end, substitute “ Regulation (EU) No 1151/2012 of the European Parliament and of the Council of 21 November 2012 on quality schemes for agricultural products and foodstuffs [^c23843861] ”,
 - (c) in paragraph (3), after “animal nutrition”, insert “ , as last amended by Regulation (EU) 2019/1243 [^c23843871], ”.
 
-### 3. Amendment of the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012[^key-43c93bfe1618b66371d9a1e5b6124915]
+### 3. Amendment of the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012[^c-43c93bfe1618b66371d9a1e5b6124915]
 
 In the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 [^c23843881], for regulation 8(a) (conditions for a certificate) substitute—
 
@@ -87,7 +87,7 @@ In the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 [^c
 
 ## PART 3 — Amendment of secondary legislation to address deficiencies arising from the withdrawal of the United Kingdom from the European Union
 
-### 4. Amendment of the Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007[^key-1ecc49c7004faf09886205304117ef44]
+### 4. Amendment of the Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007[^c-1ecc49c7004faf09886205304117ef44]
 
 (1) The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 [^c23843891] are amended as follows.
 
@@ -107,13 +107,13 @@ In the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 [^c
 
 (7) In regulation 17(1)(c) (offences and penalties), for “, 10 or 12” substitute “ or 10 ”.
 
-### 5. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012[^key-7b3cbee3773a9b30fa7d9bf96a5e4ded]
+### 5. Amendment of the Trade in Animals and Related Products (Scotland) Regulations 2012[^c-7b3cbee3773a9b30fa7d9bf96a5e4ded]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012[^key-d8cb30d7d62186d6fcce7a3613a7af2b]
+### 6. Amendment of the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012[^c-d8cb30d7d62186d6fcce7a3613a7af2b]
 
 In the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 [^c23843911], in regulation 2(1) (interpretation), in the definition of “qualification certificate”, after paragraph (a) insert—
 
@@ -124,7 +124,7 @@ In the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 [^c
 
 .
 
-### 7. Revocation[^key-4780d3c994737fe4c2ac52ecf4f2aceb]
+### 7. Revocation[^c-4780d3c994737fe4c2ac52ecf4f2aceb]
 
 Regulation 19(2)(b) (the Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007) of the Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 [^c23843921] is revoked.
 
@@ -154,9 +154,9 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23843811]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-0632f6098bc57bd642816cf84acc65f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/288/regulation/1) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/a)
+[^c-0632f6098bc57bd642816cf84acc65f4]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/288/regulation/1) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/a)
 
-[^key-17499b4f646df271a662fae9468b20e4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/288/regulation/2) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/a)
+[^c-17499b4f646df271a662fae9468b20e4]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/288/regulation/2) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/a)
 
 [^c23843821]: Marginal citation: [S.S.I. 2007/91](https://www.legislation.gov.uk/ssi/2007/91), to which there are amendments not relevant to these Regulations.
 
@@ -170,20 +170,20 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c23843871]: Marginal citation: OJ L 198, 25.7.2019, p.241.
 
-[^key-43c93bfe1618b66371d9a1e5b6124915]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/288/regulation/3) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/a)
+[^c-43c93bfe1618b66371d9a1e5b6124915]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/288/regulation/3) in force at 31.10.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/a)
 
 [^c23843881]: Marginal citation: [S.S.I. 2012/321](https://www.legislation.gov.uk/ssi/2012/321), to which there are amendments not relevant to these Regulations.
 
-[^key-1ecc49c7004faf09886205304117ef44]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/c)
+[^c-1ecc49c7004faf09886205304117ef44]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/c)
 
 [^c23843891]: Marginal citation: [S.S.I. 2007/91](https://www.legislation.gov.uk/ssi/2007/91), to which there are amendments not relevant to these Regulations.
 
-[^key-7b3cbee3773a9b30fa7d9bf96a5e4ded]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/458)](https://www.legislation.gov.uk/ssi/2020/458), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/458/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2020/458/regulation/4)
+[^c-7b3cbee3773a9b30fa7d9bf96a5e4ded]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Trade in Animals and Related Products (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/458)](https://www.legislation.gov.uk/ssi/2020/458), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/458/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2020/458/regulation/4)
 
-[^key-d8cb30d7d62186d6fcce7a3613a7af2b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/c)
+[^c-d8cb30d7d62186d6fcce7a3613a7af2b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/c)
 
 [^c23843911]: Marginal citation: [S.S.I. 2012/321](https://www.legislation.gov.uk/ssi/2012/321), as relevantly amended by [S.S.I. 2015/161](https://www.legislation.gov.uk/ssi/2015/161).
 
-[^key-4780d3c994737fe4c2ac52ecf4f2aceb]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-4780d3c994737fe4c2ac52ecf4f2aceb]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23843921]: Marginal citation: [S.S.I. 2019/71](https://www.legislation.gov.uk/ssi/2019/71).

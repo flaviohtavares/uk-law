@@ -24,9 +24,9 @@ summary: ''
 
 - (a) a child or grandchild of the member;
 - (b) a stepchild of the member by a marriage entered into or a civil partnership formed before the date on which the member leaves pensionable employment or reaches age 70 (whichever occurs first), or a child legally adopted by the member before that date;
-- (c) a brother or sister, or a child of a brother or sister, of the member or the member's spouse, civil partner or surviving scheme partner[^key-82b1609cbbeee0bdfbac78c7ea48e3b3] (any half-brother or step-brother being treated as a brother, and any half-sister or step-sister being treated as a sister, for this purpose); or
+- (c) a brother or sister, or a child of a brother or sister, of the member or the member's spouse, civil partner or surviving scheme partner[^c-82b1609cbbeee0bdfbac78c7ea48e3b3] (any half-brother or step-brother being treated as a brother, and any half-sister or step-sister being treated as a sister, for this purpose); or
 - (d) a child whom, immediately before the member left pensionable employment, reached age 70 or died (whichever occurs first), the member had intended to adopt, or a child who, at that time, had been dependent on the member for 2 years or (if less) half the child's life; or
-- (e)[^key-cc466aee928ba1074722242c7f695c93] a child of a member’s surviving scheme partner if the Scottish Ministers are satisfied that the surviving scheme partner was the member’s scheme partner before that date on which the member leaves pensionable employment;
+- (e)[^c-cc466aee928ba1074722242c7f695c93] a child of a member’s surviving scheme partner if the Scottish Ministers are satisfied that the surviving scheme partner was the member’s scheme partner before that date on which the member leaves pensionable employment;
 
 (2) The requirements of this paragraph are satisfied by any child described in paragraph (1) who is—
 
@@ -62,9 +62,9 @@ paragraphs (4)(b), (c) and (d) are to be read as if they did not include the wor
 
 ## Annotations
 
-[^key-82b1609cbbeee0bdfbac78c7ea48e3b3]: Textual amendment: Words in [reg. H1(1)(c)](https://www.legislation.gov.uk/ssi/2011/117/regulation/H1/1/c) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [16(a)](https://www.legislation.gov.uk/ssi/2021/102/regulation/16/a)
+[^c-82b1609cbbeee0bdfbac78c7ea48e3b3]: Textual amendment: Words in [reg. H1(1)(c)](https://www.legislation.gov.uk/ssi/2011/117/regulation/H1/1/c) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [16(a)](https://www.legislation.gov.uk/ssi/2021/102/regulation/16/a)
 
-[^key-cc466aee928ba1074722242c7f695c93]: Textual amendment: [Reg. H1(1)(e)](https://www.legislation.gov.uk/ssi/2011/117/regulation/H1/1/e) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [16(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/16/b)
+[^c-cc466aee928ba1074722242c7f695c93]: Textual amendment: [Reg. H1(1)(e)](https://www.legislation.gov.uk/ssi/2011/117/regulation/H1/1/e) substituted (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/102)](https://www.legislation.gov.uk/ssi/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/102/regulation/1/2), [16(b)](https://www.legislation.gov.uk/ssi/2021/102/regulation/16/b)
 
 [^c21042051]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 

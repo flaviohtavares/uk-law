@@ -43,11 +43,11 @@ Whereas a draft of this instrument was laid before Parliament in accordance with
 
 Now, therefore, the Secretary of State for Social Security, in exercise of the powers conferred by sections 22(5), 30A(2A), (6) and (7), 30C(3), 30DD, 122(1) and 175(2) to (4) of, and paragraph 2(8) of Schedule 3 to, the Social Security Contributions and Benefits Act 1992[^f00002], sections 5(1)(i) and (r), 71(7) and (8) and 189(4) to (6) of the Social Security Administration Act 1992[^f00003] and section 85(6) of the Welfare Reform and Pensions Act 1999[^f00004] and of all other powers enabling him in that behalf, by this instrument which contains only regulations made by virtue of, and consequential upon, sections 62 to 64 of the Welfare Reform and Pensions Act 1999 and which is made before the end of the period of six months beginning with the coming into force of those provisions[^f00005], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-072f3f2b14ee2352662d007ae2afd68d]
+## 1. Citation and commencement[^c-072f3f2b14ee2352662d007ae2afd68d]
 
 These Regulations may be cited as the Social Security (Incapacity Benefit) Miscellaneous Amendments Regulations 2000 and shall come into force on 6th April 2001.
 
-## 2. Amendment of the Social Security (Incapacity Benefit) Regulations 1994[^key-e05bf8310e6c1130a0fc55f5268a86dc]
+## 2. Amendment of the Social Security (Incapacity Benefit) Regulations 1994[^c-e05bf8310e6c1130a0fc55f5268a86dc]
 
 (1) The Social Security (Incapacity Benefit) Regulations 1994[^f00006] shall be amended in accordance with the following paragraphs of this regulation.
 
@@ -167,7 +167,7 @@ These Regulations may be cited as the Social Security (Incapacity Benefit) Misce
 > (5) This paragraph applies where a person is—
 >
 > - (a) a member of a family of a national of a State contracting party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 as adjusted by the Protocol signed at Brussels on 17th March 1993[^f00021];
-> - (b) a person who is lawfully working in Great Britain and is a national of a State with which the Community has concluded an agreement under Article 217 of the Treaty on the Functioning of the European Union[^key-0a1c0e35240b826db9bfa4da006b0380] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families;
+> - (b) a person who is lawfully working in Great Britain and is a national of a State with which the Community has concluded an agreement under Article 217 of the Treaty on the Functioning of the European Union[^c-0a1c0e35240b826db9bfa4da006b0380] providing, in the field of social security, for the equal treatment of workers who are nationals of the signatory State and their families;
 > - (c) a person who is a member of a family of, and living with, a person specified in sub-paragraph (b); or
 > - (d) a person who has been given leave to enter, or remain in, the United Kingdom by the Secretary of State upon an undertaking by another person or persons pursuant to the immigration rules within the meaning of the Immigration Act 1971[^f00024] to be responsible for his maintenance and accommodation.
 >
@@ -287,7 +287,7 @@ These Regulations may be cited as the Social Security (Incapacity Benefit) Misce
 
 .
 
-## 3. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-ab4fb78b0e36822a0fc8d7f6a47fa480][^key-70f9cdaf52268db90c4e5a5536992a4e]
+## 3. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-ab4fb78b0e36822a0fc8d7f6a47fa480][^c-70f9cdaf52268db90c4e5a5536992a4e]
 
 Regulation 24 of the Social Security (Claims and Payments) Regulations 1987[^f00031] (incapacity benefit, maternity allowance and severe disablement allowance) shall be amended as follows—
 
@@ -299,7 +299,7 @@ Regulation 24 of the Social Security (Claims and Payments) Regulations 1987[^f00
 
   .
 
-## 4. Amendment of the Social Security (Credits) Regulations 1975[^key-97aff52b1c67c99ecd4d83fda68eda26]
+## 4. Amendment of the Social Security (Credits) Regulations 1975[^c-97aff52b1c67c99ecd4d83fda68eda26]
 
 The Social Security (Credits) Regulations 1975[^f00033] shall be amended in accordance with the following paragraphs—
 
@@ -307,11 +307,11 @@ The Social Security (Credits) Regulations 1975[^f00033] shall be amended in acco
 - (b) in regulation 8B(1)[^f00035] (credits for incapacity for work), the words “Subject to regulation 9,” shall be omitted; and
 - (c) regulation 9[^f00036] (crediting of earnings for the purposes of entitlement to short-term incapacity benefit—further conditions) shall be omitted.
 
-## 5. Amendment of the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988[^key-747be492320769c6f352a0833113f343][^key-e8538532413deed776584b7b50e4d34d]
+## 5. Amendment of the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988[^c-747be492320769c6f352a0833113f343][^c-e8538532413deed776584b7b50e4d34d]
 
 In regulation 5(2) of the Social Security (Payments on Account, Overpayments and Recovery) Regulations 1988[^f00037] (offsetting prior payment against subsequent award), in Case 3 (child benefit and severe disablement allowance), in heads (a) and (b), after the word “allowance”, in the two places it occurs, there shall be inserted “or incapacity benefit for persons incapacitated in youth in accordance with section 30A(1)(b) and (2A) of the Contributions and Benefits Act[^f00038]”.
 
-## 6. Saving[^key-ea0e3255dbd6d9d1aaf21dcba318db83]
+## 6. Saving[^c-ea0e3255dbd6d9d1aaf21dcba318db83]
 
 Where, on any day before the coming into force of these Regulations, a person is entitled to incapacity benefit and continues, on that day or any day immediately after the coming into force of these Regulations, to be entitled to incapacity benefit, whether or not by virtue of section 30C of the Social Security Contributions and Benefits Act 1992[^f00039], the Social Security (Incapacity Benefit) Regulations 1994[^f00040] shall have effect as if these Regulations had not been made.
 
@@ -359,9 +359,9 @@ An assessment of the impact on business of the measures arising from these Regul
 
 [^f00005]: Footnote: *See* section 173(5)(b) of the Social Security Administration Act [1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5) and section 91(3) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-072f3f2b14ee2352662d007ae2afd68d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
+[^c-072f3f2b14ee2352662d007ae2afd68d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
 
-[^key-e05bf8310e6c1130a0fc55f5268a86dc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
+[^c-e05bf8310e6c1130a0fc55f5268a86dc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/3120/regulation/2) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
 
 [^f00006]: Footnote: S.I. [1994/2946](https://www.legislation.gov.uk/uksi/1994/2946).
 
@@ -395,7 +395,7 @@ An assessment of the impact on business of the measures arising from these Regul
 
 [^f00021]: Footnote: OJ No. LI.3.1.1994, p. 3.
 
-[^key-0a1c0e35240b826db9bfa4da006b0380]: Textual amendment: Words in Instrument substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-0a1c0e35240b826db9bfa4da006b0380]: Textual amendment: Words in Instrument substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
 
 [^f00024]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
@@ -411,15 +411,15 @@ An assessment of the impact on business of the measures arising from these Regul
 
 [^f00030]: Footnote: Section 30DD was inserted by section 63 of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-ab4fb78b0e36822a0fc8d7f6a47fa480]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/3120/regulation/3) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
+[^c-ab4fb78b0e36822a0fc8d7f6a47fa480]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/3120/regulation/3) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
 
-[^key-70f9cdaf52268db90c4e5a5536992a4e]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/3120/regulation/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-70f9cdaf52268db90c4e5a5536992a4e]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/3120/regulation/3) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00031]: Footnote: S.I. [1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Regulation 24 was amended by S.I. [1994/2943](https://www.legislation.gov.uk/uksi/1994/2943) and [1996/1460](https://www.legislation.gov.uk/uksi/1996/1460).
 
 [^f00032]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 30DD was inserted by section 63 of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
-[^key-97aff52b1c67c99ecd4d83fda68eda26]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/3120/regulation/4) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
+[^c-97aff52b1c67c99ecd4d83fda68eda26]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2000/3120/regulation/4) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
 
 [^f00033]: Footnote: S.I. [1975/556](https://www.legislation.gov.uk/uksi/1975/556).
 
@@ -429,15 +429,15 @@ An assessment of the impact on business of the measures arising from these Regul
 
 [^f00036]: Footnote: Regulation 9 was substituted by S.I. [1996/2367](https://www.legislation.gov.uk/uksi/1996/2367) and amended by S.I. [1999/568](https://www.legislation.gov.uk/uksi/1999/568) and [2566](https://www.legislation.gov.uk/uksi/1999/2566).
 
-[^key-747be492320769c6f352a0833113f343]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/3120/regulation/5) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
+[^c-747be492320769c6f352a0833113f343]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/3120/regulation/5) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
 
-[^key-e8538532413deed776584b7b50e4d34d]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/3120/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-e8538532413deed776584b7b50e4d34d]: Modification: [Reg. 5](https://www.legislation.gov.uk/uksi/2000/3120/regulation/5) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/1) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00037]: Footnote: S.I. [1988/664](https://www.legislation.gov.uk/uksi/1988/664). Regulation 5(2) was amended by S.I. [1999/1958](https://www.legislation.gov.uk/uksi/1999/1958), [2422](https://www.legislation.gov.uk/uksi/1999/2422), [2793](https://www.legislation.gov.uk/uksi/1999/2793), [2860](https://www.legislation.gov.uk/uksi/1999/2860) and [3178](https://www.legislation.gov.uk/uksi/1999/3178).
 
 [^f00038]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 30A was inserted by section 1(1) of the Social Security (Incapacity for Work) Act [1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), and section 64(1) of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30) amended subsection (1) and inserted subsection (2A).
 
-[^key-ea0e3255dbd6d9d1aaf21dcba318db83]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
+[^c-ea0e3255dbd6d9d1aaf21dcba318db83]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2000/3120/regulation/6) in force at 6.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/3120/regulation/1)
 
 [^f00039]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 30C was inserted by section 3 of the Social Security (Incapacity for Work) Act [1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18).
 

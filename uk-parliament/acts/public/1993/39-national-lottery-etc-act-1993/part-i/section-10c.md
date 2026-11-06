@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10C. Annual levy[^key-b3a11d6af1ee0e392daa752ad8c91b50]
+## 10C. Annual levy[^c-b3a11d6af1ee0e392daa752ad8c91b50]
 
 *Extent: E+W+S*
 
-(1) The Secretary of State may make regulations requiring holders of licences under section 5 or 6 to pay an annual levy to the Commission[^key-9e1256fb9cf5ee13133760057e1f37b2] .
+(1) The Secretary of State may make regulations requiring holders of licences under section 5 or 6 to pay an annual levy to the Commission[^c-9e1256fb9cf5ee13133760057e1f37b2] .
 
 (2) The regulations shall, in particular, make provision for—
 
@@ -36,7 +36,7 @@ summary: ''
 
 (4) Any sum due by way of levy by virtue of this section shall be treated for the purposes of this Act as if its payment were a condition of the licence under section 5 or 6.
 
-(5) The Commission[^key-5620783f77337281817fac82352d54ca] shall, with the consent of the Treasury and of the Secretary of State, expend money received by way of levy for purposes related to, or by providing financial assistance for projects related to—
+(5) The Commission[^c-5620783f77337281817fac82352d54ca] shall, with the consent of the Treasury and of the Secretary of State, expend money received by way of levy for purposes related to, or by providing financial assistance for projects related to—
 
 - (a) addiction to gambling,
 - (b) other forms of harm or exploitation associated with gambling, or
@@ -46,21 +46,21 @@ summary: ''
 
 (7) The Secretary of State may make regulations under this section only if—
 
-- (a) he has made regulations under the Gambling Act 2005 requiring holders of operating licences to pay an annual levy to the Commission[^key-3c60d85c192c3ff8864731aab38f753a] , and
-- (b) he has consulted the [^key-2487ad30aa09139055a2b4c3a8c2e0ce]... Commission.
+- (a) he has made regulations under the Gambling Act 2005 requiring holders of operating licences to pay an annual levy to the Commission[^c-3c60d85c192c3ff8864731aab38f753a] , and
+- (b) he has consulted the [^c-2487ad30aa09139055a2b4c3a8c2e0ce]... Commission.
 
-(8)[^key-15625ae98b200fd1092bd36d8c65cb09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-15625ae98b200fd1092bd36d8c65cb09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3a11d6af1ee0e392daa752ad8c91b50]: Textual amendment: S. 10C inserted (E.W.S.) (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2005/19/schedule/3/paragraph/1) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-b3a11d6af1ee0e392daa752ad8c91b50]: Textual amendment: S. 10C inserted (E.W.S.) (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2005/19/schedule/3/paragraph/1) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
-[^key-9e1256fb9cf5ee13133760057e1f37b2]: Textual amendment: Word in s. 10C(1) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-9e1256fb9cf5ee13133760057e1f37b2]: Textual amendment: Word in s. 10C(1) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
 
-[^key-5620783f77337281817fac82352d54ca]: Textual amendment: Word in s. 10C(5) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-5620783f77337281817fac82352d54ca]: Textual amendment: Word in s. 10C(5) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(a)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
 
-[^key-3c60d85c192c3ff8864731aab38f753a]: Textual amendment: Word in s. 10C(7)(a) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/b/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-3c60d85c192c3ff8864731aab38f753a]: Textual amendment: Word in s. 10C(7)(a) substituted (1.10.2013) by [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/b/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
 
-[^key-2487ad30aa09139055a2b4c3a8c2e0ce]: Textual amendment: Words in s. 10C(7)(b) omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/b/ii) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-2487ad30aa09139055a2b4c3a8c2e0ce]: Textual amendment: Words in s. 10C(7)(b) omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(b)(ii)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/b/ii) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
 
-[^key-15625ae98b200fd1092bd36d8c65cb09]: Textual amendment: S. 10C(8) omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(c)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))
+[^c-15625ae98b200fd1092bd36d8c65cb09]: Textual amendment: S. 10C(8) omitted (1.10.2013) by virtue of [The Public Bodies (Merger of the Gambling Commission and the National Lottery Commission) Order 2013 (S.I. 2013/2329)](https://www.legislation.gov.uk/uksi/2013/2329), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2329/article/1/2), [Sch. para. 6(c)](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/6/c) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/2329/article/8), [Sch. para. 43](https://www.legislation.gov.uk/uksi/2013/2329/schedule/paragraph/43))

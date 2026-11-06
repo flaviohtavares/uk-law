@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 285. Recognised investment exchanges.[^key-b77fdf7ea13b58fb6c67dd7a1f8e8371]
+## 285. Recognised investment exchanges.[^c-b77fdf7ea13b58fb6c67dd7a1f8e8371]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b77fdf7ea13b58fb6c67dd7a1f8e8371]: Textual amendment: S. 285 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 8(6)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/8/6), [Sch. 27 Pt. 6(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/5)
+[^c-b77fdf7ea13b58fb6c67dd7a1f8e8371]: Textual amendment: S. 285 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 8(6)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/8/6), [Sch. 27 Pt. 6(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Amendment of regulation 138 (suspension of use etc of traditional herbal medicinal product)[^key-29649b9028e68db36b6a125aff4bc51c]
+## 121. Amendment of regulation 138 (suspension of use etc of traditional herbal medicinal product)[^c-29649b9028e68db36b6a125aff4bc51c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Omit regulation 138(10).
 
 ## Annotations
 
-[^key-29649b9028e68db36b6a125aff4bc51c]: Commencement: Reg. 121 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-29649b9028e68db36b6a125aff4bc51c]: Commencement: Reg. 121 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

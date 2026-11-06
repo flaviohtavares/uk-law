@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Form of notice[^key-8e07384a9724a561fcc905c281402b90]
+## 216. Form of notice[^c-8e07384a9724a561fcc905c281402b90]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e07384a9724a561fcc905c281402b90]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2005/19/section/216) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)
+[^c-8e07384a9724a561fcc905c281402b90]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2005/19/section/216) in force at 1.12.2007 by [S.I. 2007/3155](https://www.legislation.gov.uk/uksi/2007/3155), [art. 2](https://www.legislation.gov.uk/uksi/2007/3155/article/2)

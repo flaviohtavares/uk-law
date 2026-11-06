@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make provision about the management and mai
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 23rd May 2013 and received Royal Assent on 28th June 2013
 
-## 1. Trunk roads[^key-59f9f7ae86ab2be8f7298e358e1bd696]
+## 1. Trunk roads[^c-59f9f7ae86ab2be8f7298e358e1bd696]
 
 (1) The length of road described in the schedule becomes a trunk road on the date this subsection comes into force.
 
@@ -44,7 +44,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) In the definition of “trunk road” in section 151(1) of the Roads (Scotland) Act 1984, after “Forth Crossing Act 2011 (asp 2)” insert “ or by virtue of section 1 of the Forth Road Bridge Act 2013 (asp 8) ”.
 
-## 2. Transfer of property and liabilities etc.[^key-9310898ea6645e76bbb294e1debd614e]
+## 2. Transfer of property and liabilities etc.[^c-9310898ea6645e76bbb294e1debd614e]
 
 (1) All property (including rights) and liabilities of the Authority are transferred to, and vest in, the Scottish Ministers.
 
@@ -54,7 +54,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Any legal proceedings raised by, or against, the Authority may be continued by, or against, the Scottish Ministers.
 
-## 3. Transfer of staff[^key-ac61365def532405c7ae9f73ec5ba99f]
+## 3. Transfer of staff[^c-ac61365def532405c7ae9f73ec5ba99f]
 
 (1) On the date this subsection comes into force, any person employed by the Authority is transferred into the employment of the bridge operator.
 
@@ -62,7 +62,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) The transfer effected by subsection (1) is a relevant transfer for the purposes of the Transfer of Undertakings (Protection of Employment) Regulations 2006 (S.I. 2006/246).
 
-## 4. Dissolution of Forth Estuary Transport Authority[^key-697fb7d59d137bb2a3207ae065b6acfa]
+## 4. Dissolution of Forth Estuary Transport Authority[^c-697fb7d59d137bb2a3207ae065b6acfa]
 
 (1) The Authority is dissolved.
 
@@ -74,7 +74,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (b) Forth Road Bridge Order Confirmation Act 1958 (c.vi),
 - (c) Forth Road Bridge Order Confirmation Act 1960 (c.iii).
 
-## 5. Byelaws[^key-6207337fb80627c7bc8d9eddeb661ac1]
+## 5. Byelaws[^c-6207337fb80627c7bc8d9eddeb661ac1]
 
 (1) Despite the revocation of the 2002 Order, any byelaw made under it, or which continued to have effect by virtue of it, continues to have effect by virtue of this subsection as it did immediately before the 2002 Order's revocation.
 
@@ -109,25 +109,25 @@ The short title of this Act is the Forth Road Bridge Act 2013.
 
 (introduced by section 1)
 
-**1.**[^key-b83b90f1b8e3287514bdf12283191353] That length of road, of approximately 3.11 kilometres, partly within the boundary of the City of Edinburgh Council and partly within the boundary of Fife Council—
+**1.**[^c-b83b90f1b8e3287514bdf12283191353] That length of road, of approximately 3.11 kilometres, partly within the boundary of the City of Edinburgh Council and partly within the boundary of Fife Council—
 
 - (a) from a point on the south side of the Forth Road Bridge on the A90, 296 metres or thereby north of the northmost face of the overbridge carrying the roundabout on which the B800 and A904 meet (at grid reference NT 312456, 678010),
 - (b) to a point on the north side of the Forth Road Bridge, 359 metres or thereby north of the northmost abutment of the Forth Road Bridge (at grid reference NT 312607, 681112).
 
-**2.**[^key-e2e11313af01887dedf8c6d79809522a] In paragraph 1, “**grid reference**” means Ordnance Survey National Grid reference.
+**2.**[^c-e2e11313af01887dedf8c6d79809522a] In paragraph 1, “**grid reference**” means Ordnance Survey National Grid reference.
 
 ## Annotations
 
-[^key-59f9f7ae86ab2be8f7298e358e1bd696]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/8/section/1) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
+[^c-59f9f7ae86ab2be8f7298e358e1bd696]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2013/8/section/1) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
 
-[^key-9310898ea6645e76bbb294e1debd614e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/8/section/2) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
+[^c-9310898ea6645e76bbb294e1debd614e]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2013/8/section/2) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
 
-[^key-ac61365def532405c7ae9f73ec5ba99f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/8/section/3) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
+[^c-ac61365def532405c7ae9f73ec5ba99f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2013/8/section/3) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
 
-[^key-697fb7d59d137bb2a3207ae065b6acfa]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/8/section/4) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
+[^c-697fb7d59d137bb2a3207ae065b6acfa]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2013/8/section/4) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
 
-[^key-6207337fb80627c7bc8d9eddeb661ac1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/8/section/5) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
+[^c-6207337fb80627c7bc8d9eddeb661ac1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2013/8/section/5) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
 
-[^key-b83b90f1b8e3287514bdf12283191353]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2013/8/schedule/paragraph/1) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
+[^c-b83b90f1b8e3287514bdf12283191353]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2013/8/schedule/paragraph/1) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
 
-[^key-e2e11313af01887dedf8c6d79809522a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2013/8/schedule/paragraph/2) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)
+[^c-e2e11313af01887dedf8c6d79809522a]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2013/8/schedule/paragraph/2) in force at 1.6.2015 by [S.S.I. 2015/190](https://www.legislation.gov.uk/ssi/2015/190), [art. 2](https://www.legislation.gov.uk/ssi/2015/190/article/2)

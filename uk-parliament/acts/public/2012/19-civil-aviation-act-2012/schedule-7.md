@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Index of defined expressions[^key-5183e1558a0993b8daf550add5cde4be]
+## SCHEDULE 7 — Index of defined expressions[^c-5183e1558a0993b8daf550add5cde4be]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ This Table lists expressions defined in Part 1 of this Act.
 
 ## Annotations
 
-[^key-5183e1558a0993b8daf550add5cde4be]: Commencement: Sch. 7 in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-5183e1558a0993b8daf550add5cde4be]: Commencement: Sch. 7 in force at 6.4.2013 by [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)

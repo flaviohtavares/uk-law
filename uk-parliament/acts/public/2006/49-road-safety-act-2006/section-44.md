@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Enforcement authorities[^key-9c605266f3cb7a9a4b9c085c575249e1]
+## 44. Enforcement authorities[^c-9c605266f3cb7a9a4b9c085c575249e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c605266f3cb7a9a4b9c085c575249e1]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2006/49/section/44) in force at 16.3.2007 for E.W. by [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)
+[^c-9c605266f3cb7a9a4b9c085c575249e1]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2006/49/section/44) in force at 16.3.2007 for E.W. by [S.I. 2007/466](https://www.legislation.gov.uk/uksi/2007/466), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/466/article/2/a)

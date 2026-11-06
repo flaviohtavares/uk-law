@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Appeals[^key-c53cc8138653ba35ed75e5618009d45f]
+## 145. Appeals[^c-c53cc8138653ba35ed75e5618009d45f]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ After section 342A of the Education Act 1996 (inserted by section 144) insert—
 
 ## Annotations
 
-[^key-c53cc8138653ba35ed75e5618009d45f]: Commencement: S. 145 in force at 30.3.2010 by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)
+[^c-c53cc8138653ba35ed75e5618009d45f]: Commencement: S. 145 in force at 30.3.2010 by [S.I. 2010/1093](https://www.legislation.gov.uk/uksi/2010/1093), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1093/article/2/a)

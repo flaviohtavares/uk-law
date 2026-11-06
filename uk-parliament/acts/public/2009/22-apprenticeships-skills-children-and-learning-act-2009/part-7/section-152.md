@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Power to withdraw recognition[^key-3b32a5cff974e68a8d2659ee3481d842]
+## 152. Power to withdraw recognition[^c-3b32a5cff974e68a8d2659ee3481d842]
 
 *Extent: E+W+N.I.*
 
 (1) Subsection (2) applies if a recognised body has failed to comply with a condition to which the recognition is subject.
 
-(2)[^key-a2131a97bd00d80cc98fea68a2e86a59] Ofqual may withdraw recognition from the recognised body in respect of the award or authentication of—
+(2)[^c-a2131a97bd00d80cc98fea68a2e86a59] Ofqual may withdraw recognition from the recognised body in respect of the award or authentication of—
 
 - (a) a specified qualification or description of qualification in respect of which the body is recognised, or
 - (b) every qualification or description of qualification in respect of which the body is recognised.
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b32a5cff974e68a8d2659ee3481d842]: Commencement: S. 152 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-3b32a5cff974e68a8d2659ee3481d842]: Commencement: S. 152 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-a2131a97bd00d80cc98fea68a2e86a59]: Textual amendment: S. 152(2) substituted (1.5.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 23(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/23/4), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)
+[^c-a2131a97bd00d80cc98fea68a2e86a59]: Textual amendment: S. 152(2) substituted (1.5.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 23(4)](https://www.legislation.gov.uk/ukpga/2011/21/section/23/4), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)

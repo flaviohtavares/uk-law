@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 41(1) and (6), 113(1) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-2bcda2985104a3fb150d8ae060ebb673]
+## 1. Citation, commencement and interpretation[^c-2bcda2985104a3fb150d8ae060ebb673]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997 and shall come into operation on 6th April 1997.
 
@@ -61,7 +61,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) For the purposes of these Regulations and notwithstanding section 39(2) of the Interpretation Act (Northern Ireland) 1954[^f00003], where a period of time is expressed to begin on, or to be reckoned from, a particular day, that day shall be included in the period.
 
-## 2. Requirement of trustees or managers to obtain documents[^key-24dea5a8b7bec8e74fe4df8b13856ad9]
+## 2. Requirement of trustees or managers to obtain documents[^c-24dea5a8b7bec8e74fe4df8b13856ad9]
 
 (1) Subject to paragraph (2), where the requirement of Article 47(1)(*a*) of the Order (requirement to appoint an individual or a firm as auditor) applies, the trustees or managers of a scheme shall obtain not more than 7 months after the end of each scheme year which ends on or after 6th April 1997—
 
@@ -72,7 +72,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (3) Where the trustees or managers fail to obtain accounts audited by the auditor or the auditor’s statement in accordance with paragraph (1), and there is no reasonable excuse for the failure to do so, they are guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 3. Form and content of the accounts audited by the auditor[^key-4c5a4d0d6391928df7f130254071fdb6]
+## 3. Form and content of the accounts audited by the auditor[^c-4c5a4d0d6391928df7f130254071fdb6]
 
 The accounts audited by the auditor shall—
 
@@ -83,7 +83,7 @@ The accounts audited by the auditor shall—
   - (iii) the liabilities of the scheme, other than the liabilities to pay pensions and benefits after the end of the scheme year; and
 - (c) contain a report by the auditor as to whether or not in his opinion the requirements of paragraphs (*a*) and (*b*) are satisfied.
 
-## 4. Form and content of the auditor’s statement[^key-39671ff74e6984f0301262f228598320]
+## 4. Form and content of the auditor’s statement[^c-39671ff74e6984f0301262f228598320]
 
 The auditor’s statement about contributions under the scheme shall contain—
 
@@ -102,9 +102,9 @@ Assistant Secretary
 
 Regulation 3
 
-**1.**[^key-38bb474a0169c1de3e77475184a4dfa4] An account of the financial additions to, withdrawals from and changes in value of the fund of the scheme during the scheme year to which the accounts relate.
+**1.**[^c-38bb474a0169c1de3e77475184a4dfa4] An account of the financial additions to, withdrawals from and changes in value of the fund of the scheme during the scheme year to which the accounts relate.
 
-**2.**[^key-633435f4cd45149934d88481acd16182] (1) A statement, as at the end of the scheme year to which the accounts relate, of the assets at market value, or the trustees' or managers' estimate thereof where market value is not readily ascertainable, and liabilities of the scheme, other than liabilities to pay pensions and benefits after the end of that scheme year—
+**2.**[^c-633435f4cd45149934d88481acd16182] (1) A statement, as at the end of the scheme year to which the accounts relate, of the assets at market value, or the trustees' or managers' estimate thereof where market value is not readily ascertainable, and liabilities of the scheme, other than liabilities to pay pensions and benefits after the end of that scheme year—
 
 - (a) giving, in the case of any assets which are stated at an estimate of their market value, the reason why the valuation is an estimate;
 - (b) showing the distribution of the investments and other assets of the scheme between each of the following categories (where none of the investments falls within a particular category, that fact is not required to be stated), namely—
@@ -125,17 +125,17 @@ Regulation 3
 
 (2) Where the assets include policies of insurance which are specifically allocated to the provision of benefits for, and which provide all the benefits payable under the scheme to, particular members or other persons in respect of particular members or both, those policies must be included in the statement and there must be a note of the existence of such policies but that entry need not include their market value or an estimate.
 
-**3.**[^key-f8d7bd35f8df73c5c08b4357646c4f75] Where any assets or liabilities are denominated in currencies other than sterling, a translation of those assets into sterling and an explanation of the basis on which they have been translated.
+**3.**[^c-f8d7bd35f8df73c5c08b4357646c4f75] Where any assets or liabilities are denominated in currencies other than sterling, a translation of those assets into sterling and an explanation of the basis on which they have been translated.
 
-**4.**[^key-4b2f928c37ea27ebffba7c945759598a] Particulars of any investment (other than in United Kingdom Government securities) in which more than 5 per cent. of the total value of the net assets of the scheme is invested, and if any such investment is a policy of insurance, a statement of its main characteristics.
+**4.**[^c-4b2f928c37ea27ebffba7c945759598a] Particulars of any investment (other than in United Kingdom Government securities) in which more than 5 per cent. of the total value of the net assets of the scheme is invested, and if any such investment is a policy of insurance, a statement of its main characteristics.
 
-**5.**[^key-0bbb7aec24d3e592e3a7b5108e392f91] Particulars of any employer-related investments, within the meaning of Article 40 of the Order (restriction on employer-related investments) including those in excess of the restriction prescribed in regulations made under that Article.
+**5.**[^c-0bbb7aec24d3e592e3a7b5108e392f91] Particulars of any employer-related investments, within the meaning of Article 40 of the Order (restriction on employer-related investments) including those in excess of the restriction prescribed in regulations made under that Article.
 
-**6.**[^key-565e2fa178b259592a6d409254d643a8] In respect of every amount shown in the accounts other than the amounts referred to in paragraph 7, a statement of the corresponding amount for the scheme year previous to the one to which the accounts relate, except in a case where regulation 2 is complied with by the trustees or managers of a scheme for the first time.
+**6.**[^c-565e2fa178b259592a6d409254d643a8] In respect of every amount shown in the accounts other than the amounts referred to in paragraph 7, a statement of the corresponding amount for the scheme year previous to the one to which the accounts relate, except in a case where regulation 2 is complied with by the trustees or managers of a scheme for the first time.
 
-**7.**[^key-3ab978a4042b4be2e00c3b810800e580] The total amount of the purchases and the total amount of the sales of investments during the scheme year to which the accounts relate.
+**7.**[^c-3ab978a4042b4be2e00c3b810800e580] The total amount of the purchases and the total amount of the sales of investments during the scheme year to which the accounts relate.
 
-**8.**[^key-fd2f8e4c1d696d14a247b9b090c915c8] A statement whether the accounts have been prepared in accordance with the Statement of Recommended Practice, the guidelines “Financial Reports of Pension Schemes” published by the Pensions Research Accountants Group or another organisation approved for this purpose by the Accounting Standards Board, current at the end of the scheme year to which the accounts relate and, if not, an indication of where there are any material departures from those guidelines.
+**8.**[^c-fd2f8e4c1d696d14a247b9b090c915c8] A statement whether the accounts have been prepared in accordance with the Statement of Recommended Practice, the guidelines “Financial Reports of Pension Schemes” published by the Pensions Research Accountants Group or another organisation approved for this purpose by the Accounting Standards Board, current at the end of the scheme year to which the accounts relate and, if not, an indication of where there are any material departures from those guidelines.
 
 (This note is not part of the Regulations.)
 
@@ -157,30 +157,30 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00001]: Footnote: S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-[^key-2bcda2985104a3fb150d8ae060ebb673]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-2bcda2985104a3fb150d8ae060ebb673]: Commencement: Reg. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
 [^f00002]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); the definition of “money purchase scheme” was substituted by paragraph 13(*a*) of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-24dea5a8b7bec8e74fe4df8b13856ad9]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-24dea5a8b7bec8e74fe4df8b13856ad9]: Commencement: Reg. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-4c5a4d0d6391928df7f130254071fdb6]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-4c5a4d0d6391928df7f130254071fdb6]: Commencement: Reg. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-39671ff74e6984f0301262f228598320]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-39671ff74e6984f0301262f228598320]: Commencement: Reg. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-38bb474a0169c1de3e77475184a4dfa4]: Commencement: Sch. para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-38bb474a0169c1de3e77475184a4dfa4]: Commencement: Sch. para. 1 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-633435f4cd45149934d88481acd16182]: Commencement: Sch. para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-633435f4cd45149934d88481acd16182]: Commencement: Sch. para. 2 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-f8d7bd35f8df73c5c08b4357646c4f75]: Commencement: Sch. para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-f8d7bd35f8df73c5c08b4357646c4f75]: Commencement: Sch. para. 3 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-4b2f928c37ea27ebffba7c945759598a]: Commencement: Sch. para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-4b2f928c37ea27ebffba7c945759598a]: Commencement: Sch. para. 4 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-0bbb7aec24d3e592e3a7b5108e392f91]: Commencement: Sch. para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-0bbb7aec24d3e592e3a7b5108e392f91]: Commencement: Sch. para. 5 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-565e2fa178b259592a6d409254d643a8]: Commencement: Sch. para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-565e2fa178b259592a6d409254d643a8]: Commencement: Sch. para. 6 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-3ab978a4042b4be2e00c3b810800e580]: Commencement: Sch. para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-3ab978a4042b4be2e00c3b810800e580]: Commencement: Sch. para. 7 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
 
-[^key-fd2f8e4c1d696d14a247b9b090c915c8]: Commencement: Sch. para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)
+[^c-fd2f8e4c1d696d14a247b9b090c915c8]: Commencement: Sch. para. 8 in operation at 6.4.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/40/regulation/1/1)

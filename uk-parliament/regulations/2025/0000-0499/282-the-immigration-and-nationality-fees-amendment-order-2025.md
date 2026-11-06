@@ -46,7 +46,7 @@ The Secretary of State makes this Order with the consent of the Treasury in exer
 
 In accordance with section 74(2)(j) of the Immigration Act 2014, a draft of this Order has been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-54fe80d8e68cf21cd3fa86b937130fe7]
+## 1. Citation, commencement and extent[^c-54fe80d8e68cf21cd3fa86b937130fe7]
 
 (1) This Order may be cited as the Immigration and Nationality (Fees) (Amendment) Order 2025.
 
@@ -54,7 +54,7 @@ In accordance with section 74(2)(j) of the Immigration Act 2014, a draft of this
 
 (3) The amendments made by this Order have the same extent as the provisions that are amended.
 
-## 2. Amendments to the Immigration and Nationality (Fees) Order 2016[^key-264636449ffa9f17c4b7f11dd68e7679]
+## 2. Amendments to the Immigration and Nationality (Fees) Order 2016[^c-264636449ffa9f17c4b7f11dd68e7679]
 
 (1) The Immigration and Nationality (Fees) Order 2016[^f00002] is amended as follows.
 
@@ -82,7 +82,7 @@ In accordance with section 74(2)(j) of the Immigration Act 2014, a draft of this
 - (f) in the row beginning “7.8”, in the third column, for “£400”, substitute “£428”;
 - (g) in the row beginning “7.9”, in the third column, for “£400”, substitute “£428”.
 
-## 3. Consequential Amendments to the Immigration and Nationality (Fees) Regulations 2018[^key-53a4b58166bf2f3d4467fec58a75ad6f]
+## 3. Consequential Amendments to the Immigration and Nationality (Fees) Regulations 2018[^c-53a4b58166bf2f3d4467fec58a75ad6f]
 
 (1) The Immigration and Nationality (Fees) Regulations 2018[^f00003] are amended as follows.
 
@@ -127,12 +127,12 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^f00001]: Footnote: [2014 c. 22](https://www.legislation.gov.uk/ukpga/2014/22). Treasury consent has been obtained pursuant to section 69(1). Sections 68 to 70 of the Immigration Act 2014 were extended, with modifications, to the Isle of Man by articles 5 to 7 of the Immigration (Isle of Man) (Amendment) Order ([S.I. 2015/1765](https://www.legislation.gov.uk/uksi/2015/1765)) which inserted new article 22 and new Schedule 9A in the Immigration (Isle of Man) Order 2008 ([S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680)). Article 22 of [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680) was amended by the Immigration (Isle of Man) (Amendment) Order 2019 ([S.I. 2019/562](https://www.legislation.gov.uk/uksi/2019/562)) and further amended by the Immigration (Isle of Man) (Amendment) Order 2020 ([S.I. 2020/1214](https://www.legislation.gov.uk/uksi/2020/1214)). There are other amendments to [S.I. 2008/680](https://www.legislation.gov.uk/uksi/2008/680) not relevant to this Order. Sections 68 to 70 were extended to the Bailiwick of Guernsey by article 4 of the Immigration (Guernsey) Order 2016 ([S.I. 2016/996](https://www.legislation.gov.uk/uksi/2016/996)) subject to modifications specified in the Schedule to that Order. Sections 68 to 70 were also extended to the Bailiwick of Jersey by article 3 of the Immigration (Jersey) Order 2016 ([S.I. 2016/994](https://www.legislation.gov.uk/uksi/2016/994)), subject to modifications specified in the Schedule to that Order.
 
-[^key-54fe80d8e68cf21cd3fa86b937130fe7]: Commencement: Art. 1 in force at 7.3.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/282/article/1/2)
+[^c-54fe80d8e68cf21cd3fa86b937130fe7]: Commencement: Art. 1 in force at 7.3.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/282/article/1/2)
 
-[^key-264636449ffa9f17c4b7f11dd68e7679]: Commencement: Art. 2 in force at 7.3.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/282/article/1/2)
+[^c-264636449ffa9f17c4b7f11dd68e7679]: Commencement: Art. 2 in force at 7.3.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/282/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2016/177](https://www.legislation.gov.uk/uksi/2016/177), amended by [S.I. 2017/440](https://www.legislation.gov.uk/uksi/2017/440) and [2023/977](https://www.legislation.gov.uk/uksi/2023/977); there are other amending instruments but none is relevant.
 
-[^key-53a4b58166bf2f3d4467fec58a75ad6f]: Commencement: Art. 3 in force at 7.3.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/282/article/1/2)
+[^c-53a4b58166bf2f3d4467fec58a75ad6f]: Commencement: Art. 3 in force at 7.3.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/282/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2018/330](https://www.legislation.gov.uk/uksi/2018/330), as amended by [S.I. 2019/475](https://www.legislation.gov.uk/uksi/2019/475) and [2023/1004](https://www.legislation.gov.uk/uksi/2023/1004). There are other amendments to [S.I. 2018/330](https://www.legislation.gov.uk/uksi/2018/330) which are not relevant to this Order.

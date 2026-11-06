@@ -60,7 +60,7 @@ Pack size
 
 Adverse reactions
 
-### 1. Animals to which this Schedule applies[^key-0ec79fc56207fe043ca48e66da0302fb]
+### 1. Animals to which this Schedule applies[^c-0ec79fc56207fe043ca48e66da0302fb]
 
 This Schedule applies in relation to veterinary medicinal products intended solely for the following animals kept exclusively as a pet—
 
@@ -72,13 +72,13 @@ This Schedule applies in relation to veterinary medicinal products intended sole
 - (f) small rodents; and
 - (g) terrarium animals.
 
-### 2. Placing on the market, importing and administering the product[^key-e2f96914e018c76d4258bfad3bffaf68]
+### 2. Placing on the market, importing and administering the product[^c-e2f96914e018c76d4258bfad3bffaf68]
 
 (1) A veterinary medicinal product intended solely for an animal to which this Schedule applies may be placed on the market or imported without a marketing authorisation if it complies with this Schedule.
 
 (2) There are no restrictions on its administration to the target species.
 
-### 3. Manufacture[^key-16cd8a8b0c0e7a84b154629f3038ff3b]
+### 3. Manufacture[^c-16cd8a8b0c0e7a84b154629f3038ff3b]
 
 (1) The product must have been manufactured by—
 
@@ -89,7 +89,7 @@ This Schedule applies in relation to veterinary medicinal products intended sole
 
 (2) This paragraph does not apply until 1st November 2007.
 
-### 4. Approval of the active substance[^key-d9a7a277fc901a27ae4a6e1e5a3dd033]
+### 4. Approval of the active substance[^c-d9a7a277fc901a27ae4a6e1e5a3dd033]
 
 (1) The Secretary of State may approve an active substance for use in a veterinary medicinal product manufactured under this Schedule.
 
@@ -106,7 +106,7 @@ This Schedule applies in relation to veterinary medicinal products intended sole
   - (ii) is genotoxic; or
   - (iii) shows developmental toxicity (including teratogenicity).
 
-### 5. The product[^key-0279c8434d3b94dca3dc044244042647]
+### 5. The product[^c-0279c8434d3b94dca3dc044244042647]
 
 (1) The active substance in the veterinary medicinal product must be approved under paragraph 4.
 
@@ -120,7 +120,7 @@ This Schedule applies in relation to veterinary medicinal products intended sole
 
 (6) The requirement that a veterinary medicinal product may only contain an active substance approved under paragraph 4 does not apply until 1st November 2007 in relation to a veterinary medicinal product on the market on 30th October 2005.
 
-### 6. Labelling[^key-e1d23bfd0182f047b0bf7309ad63ae8b]
+### 6. Labelling[^c-e1d23bfd0182f047b0bf7309ad63ae8b]
 
 (1) The product must be clearly labelled as being exempt from the requirements of these Regulations in relation to a marketing authorisation.
 
@@ -156,15 +156,15 @@ This Schedule applies in relation to veterinary medicinal products intended sole
 
 (4) This paragraph does not apply until 1st November 2007 in relation to a veterinary medicinal product on the market on 30th October 2005.
 
-### 7. Administration[^key-1f88fc3c9e295971d3888d6b26e16587]
+### 7. Administration[^c-1f88fc3c9e295971d3888d6b26e16587]
 
 The method of administration must be oral or topical or (in the case of a product for fish) addition to the water.
 
-### 8. Pack size[^key-14ee2c16c29b3da677c98ce545f18aa4]
+### 8. Pack size[^c-14ee2c16c29b3da677c98ce545f18aa4]
 
 The pack size must only be sufficient for a single course of treatment or, in the case of a veterinary medicinal product for aquarium fish, sufficient for a single treatment of an aquarium of 25,000 litres.
 
-### 9. Adverse reactions[^key-f4d108d271096d349e617b9da0b5339d]
+### 9. Adverse reactions[^c-f4d108d271096d349e617b9da0b5339d]
 
 (1) The manufacturer or importer of a product must notify the Secretary of State of any serious adverse reactions (as defined in paragraph 56 of Schedule 1) of which he becomes aware within 15 days of learning of the reaction.
 
@@ -172,20 +172,20 @@ The pack size must only be sufficient for a single course of treatment or, in th
 
 ## Annotations
 
-[^key-0ec79fc56207fe043ca48e66da0302fb]: Commencement: Sch. 6 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-0ec79fc56207fe043ca48e66da0302fb]: Commencement: Sch. 6 para. 1 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-e2f96914e018c76d4258bfad3bffaf68]: Commencement: Sch. 6 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e2f96914e018c76d4258bfad3bffaf68]: Commencement: Sch. 6 para. 2 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-16cd8a8b0c0e7a84b154629f3038ff3b]: Commencement: Sch. 6 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-16cd8a8b0c0e7a84b154629f3038ff3b]: Commencement: Sch. 6 para. 3 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-d9a7a277fc901a27ae4a6e1e5a3dd033]: Commencement: Sch. 6 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-d9a7a277fc901a27ae4a6e1e5a3dd033]: Commencement: Sch. 6 para. 4 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-0279c8434d3b94dca3dc044244042647]: Commencement: Sch. 6 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-0279c8434d3b94dca3dc044244042647]: Commencement: Sch. 6 para. 5 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-e1d23bfd0182f047b0bf7309ad63ae8b]: Commencement: Sch. 6 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-e1d23bfd0182f047b0bf7309ad63ae8b]: Commencement: Sch. 6 para. 6 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-1f88fc3c9e295971d3888d6b26e16587]: Commencement: Sch. 6 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-1f88fc3c9e295971d3888d6b26e16587]: Commencement: Sch. 6 para. 7 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-14ee2c16c29b3da677c98ce545f18aa4]: Commencement: Sch. 6 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-14ee2c16c29b3da677c98ce545f18aa4]: Commencement: Sch. 6 para. 8 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
 
-[^key-f4d108d271096d349e617b9da0b5339d]: Commencement: Sch. 6 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-f4d108d271096d349e617b9da0b5339d]: Commencement: Sch. 6 para. 9 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

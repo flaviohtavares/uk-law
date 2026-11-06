@@ -42,13 +42,13 @@ summary: ''
 
 (4) Poultry meat from poultry outside a protection zone which does not meet the requirements of paragraph (3)(b) is subject to the measures in paragraphs (2) and (5) applicable to meat from poultry originating in such a zone.
 
-(5) No person shall supply poultry meat from poultry originating in a protection zone for export outside the United Kingdom[^key-460708625e3ce6fedafcd1d5fd09c4ef].
+(5) No person shall supply poultry meat from poultry originating in a protection zone for export outside the United Kingdom[^c-460708625e3ce6fedafcd1d5fd09c4ef].
 
 (6) No person other than the final consumer of meat marked with a mark referred to in paragraph (2)(a) shall deface, obliterate or remove that mark, unless licensed by the Secretary of State.
 
 (7) In this article, “**poultry meat**” means poultry meat and any product containing it which has not been heat treated at a minimum temperature of 70°C, which temperature must be reached throughout the meat or product.
 
-(8)[^key-86f3cbbb42ef6192120d4e17b6763cc1] No person shall—
+(8)[^c-86f3cbbb42ef6192120d4e17b6763cc1] No person shall—
 
 - (a) feed raw poultry meat produced from poultry originating in the protection zone to animals or birds; or
 - (b) permit such meat to be used in the production of raw pet food.
@@ -59,6 +59,6 @@ summary: ''
 
 [^c1680294]: Marginal citation: OJ No L 139, 30.4.2004, p. 55.
 
-[^key-460708625e3ce6fedafcd1d5fd09c4ef]: Textual amendment: Words in [art. 63(5)](https://www.legislation.gov.uk/uksi/2006/2702/article/63/5) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-460708625e3ce6fedafcd1d5fd09c4ef]: Textual amendment: Words in [art. 63(5)](https://www.legislation.gov.uk/uksi/2006/2702/article/63/5) substituted (31.12.2020) by [The Exotic Disease (Amendment) (England) (EU Exit) Regulations 2018 (S.I. 2018/1406)](https://www.legislation.gov.uk/uksi/2018/1406), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1406/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2018/1406/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-86f3cbbb42ef6192120d4e17b6763cc1]: Textual amendment: [Art. 63(8)](https://www.legislation.gov.uk/uksi/2006/2702/article/63/8)[(9)](https://www.legislation.gov.uk/uksi/2006/2702/article/63/9) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/4)
+[^c-86f3cbbb42ef6192120d4e17b6763cc1]: Textual amendment: [Art. 63(8)](https://www.legislation.gov.uk/uksi/2006/2702/article/63/8)[(9)](https://www.legislation.gov.uk/uksi/2006/2702/article/63/9) inserted (22.11.2022) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Amendment) (England) Order 2022 (S.I. 2022/1224)](https://www.legislation.gov.uk/uksi/2022/1224), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1224/article/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1224/article/2/4)

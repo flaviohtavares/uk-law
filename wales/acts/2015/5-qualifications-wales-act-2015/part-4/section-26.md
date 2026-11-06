@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Transitional provision in connection with surrender of approval[^key-8599687d8b230db0be96956bfb9d2ae4]
+## 26. Transitional provision in connection with surrender of approval[^c-8599687d8b230db0be96956bfb9d2ae4]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8599687d8b230db0be96956bfb9d2ae4]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2015/5/section/26) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-8599687d8b230db0be96956bfb9d2ae4]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2015/5/section/26) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

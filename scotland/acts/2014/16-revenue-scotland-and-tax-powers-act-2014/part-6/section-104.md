@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Losses brought about carelessly or deliberately[^key-92d13d7dd475f5af9178c01b612e13d8]
+## 104. Losses brought about carelessly or deliberately[^c-92d13d7dd475f5af9178c01b612e13d8]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92d13d7dd475f5af9178c01b612e13d8]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2014/16/section/104) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-92d13d7dd475f5af9178c01b612e13d8]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2014/16/section/104) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -51,7 +51,7 @@ The Secretary of State for Environment, Food and Rural Affairs, in exercise of t
 
 (2) These Regulations apply in relation to England only[^f00003].
 
-## 2. Interpretation[^key-11b679f197f6aca3da8bcbea66dc64a6]
+## 2. Interpretation[^c-11b679f197f6aca3da8bcbea66dc64a6]
 
 In these Regulations—
 
@@ -74,9 +74,9 @@ shall provide to any such other person the information specified in paragraph (2
 (2) The information referred to in paragraph (1) is—
 
 - (a) the nature of the interest in the land held by the person making the dedication, and where that person holds a legal term of years absolute, the length of the unexpired term,
-- (b) the location and extent of the land which is to be dedicated under section 16, marked on a map on a scale of not less than 1/10,000, [^key-fea53a4684bd6a7908da660b085ca8a1]...
-- (c) any proposals to remove or relax any of the general restrictions in Schedule 2 in relation to any of the land to which the proposed dedication relates, and[^key-cf5268f2a6aeabca0087bb3f3f07779a]
-- (d)[^key-e8159f26cdbe4a452f2febfa20b692eb] a statement as to whether or not the land is to be dedicated as coastal margin.
+- (b) the location and extent of the land which is to be dedicated under section 16, marked on a map on a scale of not less than 1/10,000, [^c-fea53a4684bd6a7908da660b085ca8a1]...
+- (c) any proposals to remove or relax any of the general restrictions in Schedule 2 in relation to any of the land to which the proposed dedication relates, and[^c-cf5268f2a6aeabca0087bb3f3f07779a]
+- (d)[^c-e8159f26cdbe4a452f2febfa20b692eb] a statement as to whether or not the land is to be dedicated as coastal margin.
 
 (3) The information shall be provided in writing and may be given in electronic form.
 
@@ -88,9 +88,9 @@ shall provide to any such other person the information specified in paragraph (2
 - (b) the nature of the interest in the land held by the person making the dedication, and where that person holds a legal term of years absolute, the length of the unexpired term,
 - (c) the location and extent of the land to which the dedication relates, marked on a map on a scale of not less than 1/10,000,
 - (d) the name, postal address and signature of any person consenting to the dedication under section 16(2),
-- (e) any provisions removing or relaxing any of the general restrictions in Schedule 2 in relation to any of the land to which the dedication relates,[^key-4cf566296bfce40a8d84eec2ecb1b266]...
-- (f) a statement as to whether or not it appears to the person making the dedication that any of the land to which the dedication relates consists wholly or predominantly of woodland, and[^key-87c6aec852c90fdc2d3697299931644f]
-- (g)[^key-ba33bfb66b16e6c2886c93b982e80053] a statement as to whether or not the land is dedicated as coastal margin.
+- (e) any provisions removing or relaxing any of the general restrictions in Schedule 2 in relation to any of the land to which the dedication relates,[^c-4cf566296bfce40a8d84eec2ecb1b266]...
+- (f) a statement as to whether or not it appears to the person making the dedication that any of the land to which the dedication relates consists wholly or predominantly of woodland, and[^c-87c6aec852c90fdc2d3697299931644f]
+- (g)[^c-ba33bfb66b16e6c2886c93b982e80053] a statement as to whether or not the land is dedicated as coastal margin.
 
 (2) The instrument of dedication—
 
@@ -108,7 +108,7 @@ shall provide to any such other person the information specified in paragraph (2
 - (a) any person who has consented to the dedication,
 - (b) any other person whom it is reasonably practicable to identify as having an interest in any of the dedicated land,
 - (c) the access authority, and
-- (d) Natural England[^key-1cd50ef69a4bb2c1d787a26e40945c07].
+- (d) Natural England[^c-1cd50ef69a4bb2c1d787a26e40945c07].
 
 (2) Where a dedication is made jointly with another person, nothing in paragraph (1) requires any person referred to in sub-paragraph (a), (b), (c) or (d) of that paragraph to be sent more than one copy of the instrument of dedication.
 
@@ -118,7 +118,7 @@ shall provide to any such other person the information specified in paragraph (2
 
 (2) Section 16(2) to (4) and regulations 4 to 6 shall apply to an amendment to a dedication as if references to a dedication were references to an amendment to a dedication.
 
-(3)[^key-97e957bde39958a74ab9cf2193e4281c] A dedication previously made under section 16 (otherwise than by virtue of subsection (2A) of that section) in respect of land within subsection (2B) of that section may be amended by the persons by whom a dedication could be made, so as to provide that the land is dedicated as coastal margin for the purposes of subsection (2C) of that section.
+(3)[^c-97e957bde39958a74ab9cf2193e4281c] A dedication previously made under section 16 (otherwise than by virtue of subsection (2A) of that section) in respect of land within subsection (2B) of that section may be amended by the persons by whom a dedication could be made, so as to provide that the land is dedicated as coastal margin for the purposes of subsection (2C) of that section.
 
 (4) Any exclusion or restriction under Chapter 2 of access by virtue of section 2(1) which has effect in relation to land which is within subsection (2B)(b) of section 16 immediately before it is dedicated as coastal margin shall cease to have effect at the time the dedication takes effect.
 
@@ -146,22 +146,22 @@ No Regulatory Impact Assessment has been prepared in respect of these Regulation
 
 [^f00003]: Footnote: Regulations made by the Secretary of State may be made only as respects England: see section 45(1) for the meaning of “regulations”.
 
-[^key-11b679f197f6aca3da8bcbea66dc64a6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/2004/regulation/2) substituted (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/2020/regulation/3)
+[^c-11b679f197f6aca3da8bcbea66dc64a6]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/2004/regulation/2) substituted (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2011/2020/regulation/3)
 
-[^key-fea53a4684bd6a7908da660b085ca8a1]: Textual amendment: Word in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/4/2/b) omitted (1.10.2011) by virtue of [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [4(2)(i)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/4/2/i)
+[^c-fea53a4684bd6a7908da660b085ca8a1]: Textual amendment: Word in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/4/2/b) omitted (1.10.2011) by virtue of [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [4(2)(i)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/4/2/i)
 
-[^key-cf5268f2a6aeabca0087bb3f3f07779a]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/4/2/c) substituted (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [4(2)(ii)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/4/2/ii)
+[^c-cf5268f2a6aeabca0087bb3f3f07779a]: Textual amendment: Words in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/4/2/c) substituted (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [4(2)(ii)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/4/2/ii)
 
-[^key-e8159f26cdbe4a452f2febfa20b692eb]: Textual amendment: [Reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/4/2/d) added (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [4(2)(iii)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/4/2/iii)
+[^c-e8159f26cdbe4a452f2febfa20b692eb]: Textual amendment: [Reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/4/2/d) added (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [4(2)(iii)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/4/2/iii)
 
-[^key-4cf566296bfce40a8d84eec2ecb1b266]: Textual amendment: Word in [reg. 5(1)(e)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/5/1/e) omitted (1.10.2011) by virtue of [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/5/a)
+[^c-4cf566296bfce40a8d84eec2ecb1b266]: Textual amendment: Word in [reg. 5(1)(e)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/5/1/e) omitted (1.10.2011) by virtue of [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/5/a)
 
-[^key-87c6aec852c90fdc2d3697299931644f]: Textual amendment: Words in [reg. 5(1)(f)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/5/1/f) substituted (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/5/b)
+[^c-87c6aec852c90fdc2d3697299931644f]: Textual amendment: Words in [reg. 5(1)(f)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/5/1/f) substituted (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/5/b)
 
-[^key-ba33bfb66b16e6c2886c93b982e80053]: Textual amendment: [Reg. 5(1)(g)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/5/1/g) added (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/5/c)
+[^c-ba33bfb66b16e6c2886c93b982e80053]: Textual amendment: [Reg. 5(1)(g)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/5/1/g) added (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/5/c)
 
 [^f00004]: Footnote: [2000. c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-1cd50ef69a4bb2c1d787a26e40945c07]: Textual amendment: Words in [reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/6/1/d) substituted (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/2020/regulation/6)
+[^c-1cd50ef69a4bb2c1d787a26e40945c07]: Textual amendment: Words in [reg. 6(1)(d)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/6/1/d) substituted (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2011/2020/regulation/6)
 
-[^key-97e957bde39958a74ab9cf2193e4281c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/7/4) added (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/2020/regulation/7)
+[^c-97e957bde39958a74ab9cf2193e4281c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2003/2004/regulation/7/4) added (1.10.2011) by [The Access to the Countryside (Dedication of Land) (Amendment) (England) Regulations 2011 (S.I. 2011/2020)](https://www.legislation.gov.uk/uksi/2011/2020), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2020/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2011/2020/regulation/7)

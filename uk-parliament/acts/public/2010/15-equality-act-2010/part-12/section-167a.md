@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167A. Disabled passengers: duties of operators of private hire vehicles[^key-da60c3529df3b83efdf1861443df76ce]
+## 167A. Disabled passengers: duties of operators of private hire vehicles[^c-da60c3529df3b83efdf1861443df76ce]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da60c3529df3b83efdf1861443df76ce]: Textual amendment: [S. 167A](https://www.legislation.gov.uk/ukpga/2010/15/section/167A) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 4](https://www.legislation.gov.uk/ukpga/2022/29/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)
+[^c-da60c3529df3b83efdf1861443df76ce]: Textual amendment: [S. 167A](https://www.legislation.gov.uk/ukpga/2010/15/section/167A) inserted (28.6.2022) by [Taxis and Private Hire Vehicles (Disabled Persons) Act 2022 (c. 29)](https://www.legislation.gov.uk/ukpga/2022/29), [ss. 4](https://www.legislation.gov.uk/ukpga/2022/29/section/4), [6(2)](https://www.legislation.gov.uk/ukpga/2022/29/section/6/2)

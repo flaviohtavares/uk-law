@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Use of person not subject to monitoring for regulated activity[^key-dabdc679b7bb868658801c7277ae76f0]
+## 10. Use of person not subject to monitoring for regulated activity[^c-dabdc679b7bb868658801c7277ae76f0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dabdc679b7bb868658801c7277ae76f0]: Textual amendment: S. 10 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 50](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/50), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)[(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/ii)
+[^c-dabdc679b7bb868658801c7277ae76f0]: Textual amendment: S. 10 repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 50](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/50), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)[(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/ii)

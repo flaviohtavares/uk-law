@@ -33,20 +33,20 @@ of 8 November 2019
 
 on the allocation of the fishing opportunities under the Protocol setting out the fishing opportunities and financial contribution provided for in the Fisheries Partnership Agreement between the European Community and the Islamic Republic of Mauritania (revoked)
 
-[^key-659c83d8b064fc50b3d35fb96b64d9cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-659c83d8b064fc50b3d35fb96b64d9cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Fishing opportunities[^key-659c83d8b064fc50b3d35fb96b64d9cb]
+## Article 1. Fishing opportunities[^c-659c83d8b064fc50b3d35fb96b64d9cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force and application[^key-659c83d8b064fc50b3d35fb96b64d9cb]
+## Article 2. Entry into force and application[^c-659c83d8b064fc50b3d35fb96b64d9cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-659c83d8b064fc50b3d35fb96b64d9cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-659c83d8b064fc50b3d35fb96b64d9cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-659c83d8b064fc50b3d35fb96b64d9cb]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-659c83d8b064fc50b3d35fb96b64d9cb]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

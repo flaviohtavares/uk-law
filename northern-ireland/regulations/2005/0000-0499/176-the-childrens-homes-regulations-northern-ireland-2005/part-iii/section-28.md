@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Other records[^key-21e0ac8b700da593cc162ac05273d7e4]
+## 28. Other records[^c-21e0ac8b700da593cc162ac05273d7e4]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21e0ac8b700da593cc162ac05273d7e4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/176/regulation/28) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-21e0ac8b700da593cc162ac05273d7e4]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2005/176/regulation/28) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

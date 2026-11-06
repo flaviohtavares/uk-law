@@ -37,7 +37,7 @@ summary: ''
 - (a) “**the asset**” means the asset the disposal of which causes the income to be treated as arising, and
 - (b) “**the disposal**” means the disposal mentioned in sub-paragraph (a) of that paragraph.
 
-(5)[^key-c91ced2f1daeb3b054909d46c0d523d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c91ced2f1daeb3b054909d46c0d523d7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c19952031]: Marginal citation: Chapter A1 of Part 14 of the [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), consisting of sections 809A to 809Z7 of that Act, was inserted by paragraph 1 of Schedule 7 to the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
 
-[^key-c91ced2f1daeb3b054909d46c0d523d7]: Textual amendment: Reg. 19(5) omitted (retrospective and with effect for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/c/ii)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)
+[^c-c91ced2f1daeb3b054909d46c0d523d7]: Textual amendment: Reg. 19(5) omitted (retrospective and with effect for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 52(2)(c)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/2/c/ii)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/52/4/a)

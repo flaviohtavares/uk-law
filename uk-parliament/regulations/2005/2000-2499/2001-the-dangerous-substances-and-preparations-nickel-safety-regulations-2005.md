@@ -32,7 +32,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Dangerous Substances and Preparations (Nickel) (Safety) Regulations 2005 (revoked)[^key-db020c07adaac5fa7592403e210fd0db]
+The Dangerous Substances and Preparations (Nickel) (Safety) Regulations 2005 (revoked)[^c-db020c07adaac5fa7592403e210fd0db]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st September 2005
 
-[^key-db020c07adaac5fa7592403e210fd0db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db020c07adaac5fa7592403e210fd0db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and revocation[^key-db020c07adaac5fa7592403e210fd0db]
+## 1. Citation, commencement and revocation[^c-db020c07adaac5fa7592403e210fd0db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-db020c07adaac5fa7592403e210fd0db]
+## 2. Interpretation[^c-db020c07adaac5fa7592403e210fd0db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on marketing and use[^key-db020c07adaac5fa7592403e210fd0db]
+## 3. Prohibition on marketing and use[^c-db020c07adaac5fa7592403e210fd0db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Assessment Procedures[^key-db020c07adaac5fa7592403e210fd0db]
+## 4. Assessment Procedures[^c-db020c07adaac5fa7592403e210fd0db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Proceedings[^key-db020c07adaac5fa7592403e210fd0db]
+## 5. Proceedings[^c-db020c07adaac5fa7592403e210fd0db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db020c07adaac5fa7592403e210fd0db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db020c07adaac5fa7592403e210fd0db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-db020c07adaac5fa7592403e210fd0db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db020c07adaac5fa7592403e210fd0db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db020c07adaac5fa7592403e210fd0db]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)
+[^c-db020c07adaac5fa7592403e210fd0db]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)

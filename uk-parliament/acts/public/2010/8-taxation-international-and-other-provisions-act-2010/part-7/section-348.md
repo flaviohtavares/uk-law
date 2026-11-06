@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 348. Non-existent financial statements of the worldwide group[^key-64f9f0f7786160548ccf17641d07d520]
+## 348. Non-existent financial statements of the worldwide group[^c-64f9f0f7786160548ccf17641d07d520]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64f9f0f7786160548ccf17641d07d520]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2010/8/part/7) repealed (with effect in accordance with Sch. 5 para. 25(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/1)
+[^c-64f9f0f7786160548ccf17641d07d520]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/ukpga/2010/8/part/7) repealed (with effect in accordance with Sch. 5 para. 25(1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 11(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/11/1)

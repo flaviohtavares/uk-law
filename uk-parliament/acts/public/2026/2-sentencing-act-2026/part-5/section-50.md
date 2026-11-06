@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Short title[^key-1dfd834ff659328d79a118cd0e7c0a36]
+## 50. Short title[^c-1dfd834ff659328d79a118cd0e7c0a36]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Sentencing Act 2026.
 
 ## Annotations
 
-[^key-1dfd834ff659328d79a118cd0e7c0a36]: Commencement: S. 50 in force at Royal Assent, see [s. 49(3)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/b)
+[^c-1dfd834ff659328d79a118cd0e7c0a36]: Commencement: S. 50 in force at Royal Assent, see [s. 49(3)(b)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/b)

@@ -56,7 +56,7 @@ HAS ADOPTED THIS DECISION:
 - 1.. Symbols for informing on bathing prohibition or advice against bathing are set out in Part 1 of the Annex to this Decision.
 - 2.. Symbols for informing on bathing water classification are set out in Part 2 of the Annex to this Decision.
 
-**Article 2.**[^key-128b411a94be83399d8af84491b37807] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-128b411a94be83399d8af84491b37807] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 27 May 2011.
 
@@ -80,4 +80,4 @@ José Manuel Barroso
 
 [^f00001]: Footnote: [OJ L 64, 4.3.2006, p. 37](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.064.01.0037.01.ENG).
 
-[^key-128b411a94be83399d8af84491b37807]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2011/321/article/2) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2019/558/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-128b411a94be83399d8af84491b37807]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2011/321/article/2) omitted (31.12.2020) by virtue of [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/2019/558/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

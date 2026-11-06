@@ -24,7 +24,7 @@ summary: ''
 
 (2) It shall be assumed in any proceedings, unless the contrary is proved, that when a person initiated a transaction as mentioned in section 19(1)(c) he knew the principal agreement had been made, or contemplated that it might be made.
 
-(3)[^key-d08d4af7ac86cbcc5c6c22981652a4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d08d4af7ac86cbcc5c6c22981652a4a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In proceedings brought by the creditor under a credit-token agreement—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d08d4af7ac86cbcc5c6c22981652a4a2]: Textual amendment: S. 171(3) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(52)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/52)
+[^c-d08d4af7ac86cbcc5c6c22981652a4a2]: Textual amendment: S. 171(3) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(52)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/52)
 
 [^c18854281]: Textual amendment: S. 171(7) repealed (6.4.2007) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), [ss. 70](https://www.legislation.gov.uk/ukpga/2006/14/section/70), [71(2)](https://www.legislation.gov.uk/ukpga/2006/14/section/71/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/14/schedule/4) (with [Sch. 3 para. 15(5)](https://www.legislation.gov.uk/ukpga/2006/14/schedule/3/paragraph/15/5)); [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2) (as amended by [S.I. 2007/387](https://www.legislation.gov.uk/uksi/2007/387), [art. 2(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2007/387/article/2/3/e/ii))

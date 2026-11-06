@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Appeals against information notices[^key-8a8d0ef8679c9f18d5ec07f9e940a255]
+## 45. Appeals against information notices[^c-8a8d0ef8679c9f18d5ec07f9e940a255]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a8d0ef8679c9f18d5ec07f9e940a255]: Commencement: Reg. 45 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-8a8d0ef8679c9f18d5ec07f9e940a255]: Commencement: Reg. 45 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

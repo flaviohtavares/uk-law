@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Apart from sections 87 to 90 (scientific research and expenses connected with patents, designs and trade marks) and section 97A (cash basis: value of trading stock on cessation of trade)[^key-33b0a5a3890d7e63b863166530a38232], the provisions of this Chapter apply to professions and vocations as they apply to trades.
+Apart from sections 87 to 90 (scientific research and expenses connected with patents, designs and trade marks) and section 97A (cash basis: value of trading stock on cessation of trade)[^c-33b0a5a3890d7e63b863166530a38232], the provisions of this Chapter apply to professions and vocations as they apply to trades.
 
 ## Annotations
 
-[^key-33b0a5a3890d7e63b863166530a38232]: Textual amendment: Words in s. 56 inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 50](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/50)
+[^c-33b0a5a3890d7e63b863166530a38232]: Textual amendment: Words in s. 56 inserted (with effect in accordance with Sch. 4 paras. 56, 57 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 4 para. 50](https://www.legislation.gov.uk/ukpga/2013/29/schedule/4/paragraph/50)

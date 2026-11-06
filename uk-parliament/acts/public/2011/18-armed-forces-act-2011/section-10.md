@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Exceeding alcohol limit for prescribed safety-critical duties[^key-ff28de3b0f044287466b4ea999637f39][^key-0dabe4f2e42276ef70d617bc39407841]
+## 10. Exceeding alcohol limit for prescribed safety-critical duties[^c-ff28de3b0f044287466b4ea999637f39][^c-0dabe4f2e42276ef70d617bc39407841]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ After section 20 of AFA 2006 insert—
 
 ## Annotations
 
-[^key-ff28de3b0f044287466b4ea999637f39]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/18/section/10) in force in so far as not already in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)
+[^c-ff28de3b0f044287466b4ea999637f39]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/18/section/10) in force in so far as not already in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/b)
 
-[^key-0dabe4f2e42276ef70d617bc39407841]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/18/section/10) in force for specified purposes at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/669/article/3/b)
+[^c-0dabe4f2e42276ef70d617bc39407841]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/18/section/10) in force for specified purposes at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/669/article/3/b)

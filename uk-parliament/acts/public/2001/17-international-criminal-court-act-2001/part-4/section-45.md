@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Transfer to another part of the United Kingdom: transfer for temporary purposes[^c18072451][^c19677141][^key-7346f3fa7a7b648515987876b76f5f19][^key-2545ad2aa83e4ce3b9ad2e8ee504e047][^key-061a5f8f0a76959ef5810ec7edb3bdeb]
+## 45. Transfer to another part of the United Kingdom: transfer for temporary purposes[^c18072451][^c19677141][^c-7346f3fa7a7b648515987876b76f5f19][^c-2545ad2aa83e4ce3b9ad2e8ee504e047][^c-061a5f8f0a76959ef5810ec7edb3bdeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,8 +52,8 @@ Any such conditions may be varied or removed at any time.
 
 [^c19677141]: Modification: S. 45 applied (with modifications) (E.W.) (15.8.2007) by [The International Tribunals (Sierra Leone) (Application of Provisions) Order 2007 (S.I. 2007/2140)](https://www.legislation.gov.uk/uksi/2007/2140), [art. 2](https://www.legislation.gov.uk/uksi/2007/2140/article/2)
 
-[^key-7346f3fa7a7b648515987876b76f5f19]: Modification: S. 45 extended (Jersey) (with modifications) (8.10.2014 coming into force in accordance with art. 1) by [The International Criminal Court Act 2001 (Jersey) Order 2014 (S.I. 2014/2706)](https://www.legislation.gov.uk/uksi/2014/2706), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2706/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/2706/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/2706/schedule)
+[^c-7346f3fa7a7b648515987876b76f5f19]: Modification: S. 45 extended (Jersey) (with modifications) (8.10.2014 coming into force in accordance with art. 1) by [The International Criminal Court Act 2001 (Jersey) Order 2014 (S.I. 2014/2706)](https://www.legislation.gov.uk/uksi/2014/2706), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2706/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/2706/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/2706/schedule)
 
-[^key-2545ad2aa83e4ce3b9ad2e8ee504e047]: Modification: [Ss. 42-48](https://www.legislation.gov.uk/ukpga/2001/17/section/42) applied (with modifications) (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [33(3)](https://www.legislation.gov.uk/uksi/2018/187/article/33/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
+[^c-2545ad2aa83e4ce3b9ad2e8ee504e047]: Modification: [Ss. 42-48](https://www.legislation.gov.uk/ukpga/2001/17/section/42) applied (with modifications) (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [33(3)](https://www.legislation.gov.uk/uksi/2018/187/article/33/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
 
-[^key-061a5f8f0a76959ef5810ec7edb3bdeb]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/2001/17/section/45) extended (with modifications) (Guernsey) (coming into force in accordance with art. 1 of the amending S.I.) by [The International Criminal Court Act 2001 (Guernsey) Order 2022 (S.I. 2022/865)](https://www.legislation.gov.uk/uksi/2022/865), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2022/865/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2022/865/schedule)
+[^c-061a5f8f0a76959ef5810ec7edb3bdeb]: Modification: [S. 45](https://www.legislation.gov.uk/ukpga/2001/17/section/45) extended (with modifications) (Guernsey) (coming into force in accordance with art. 1 of the amending S.I.) by [The International Criminal Court Act 2001 (Guernsey) Order 2022 (S.I. 2022/865)](https://www.legislation.gov.uk/uksi/2022/865), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2022/865/article/2/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2022/865/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Overseas simple, transparent and standardised securitisations regime[^key-81666c127678a26a145a5a1664f60aab]
+## 13. Overseas simple, transparent and standardised securitisations regime[^c-81666c127678a26a145a5a1664f60aab]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ in relation to securitisations of descriptions specified in the request.
 - (a) consult the PRA when preparing the report, and
 - (b) provide the Treasury with the report within such reasonable period as may be specified in the request or such other period as may be agreed with the Treasury.
 
-(7A)[^key-894767aa27ba0c28097bed9607ea042d] Regulations under paragraph (1) may—
+(7A)[^c-894767aa27ba0c28097bed9607ea042d] Regulations under paragraph (1) may—
 
 - (a) specify matters that a person carrying out a due-diligence assessment required by regulations 32B and 32C must consider with regard to an overseas STS securitisation;
 - (b) in relation to a matter specified, specify the extent to which the person may rely on the matter.
@@ -61,6 +61,6 @@ in relation to securitisations of descriptions specified in the request.
 
 ## Annotations
 
-[^key-81666c127678a26a145a5a1664f60aab]: Commencement: Reg. 13 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/d)(2)
+[^c-81666c127678a26a145a5a1664f60aab]: Commencement: Reg. 13 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/d)(2)
 
-[^key-894767aa27ba0c28097bed9607ea042d]: Textual amendment: [Reg. 13(7A)](https://www.legislation.gov.uk/uksi/2024/102/regulation/13/7A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/6)
+[^c-894767aa27ba0c28097bed9607ea042d]: Textual amendment: [Reg. 13(7A)](https://www.legislation.gov.uk/uksi/2024/102/regulation/13/7A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(6)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/6)

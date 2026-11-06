@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Attendance at the count[^key-39b80dcd794f472bed6ee4f38aa86ebb]
+## 45. Attendance at the count[^c-39b80dcd794f472bed6ee4f38aa86ebb]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ the officer can give them consistently with the orderly conduct of the proceedin
 
 ## Annotations
 
-[^key-39b80dcd794f472bed6ee4f38aa86ebb]: Commencement: Reg. 45 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-39b80dcd794f472bed6ee4f38aa86ebb]: Commencement: Reg. 45 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

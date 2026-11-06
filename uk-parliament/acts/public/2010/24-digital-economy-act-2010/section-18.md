@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Consultation and Parliamentary scrutiny[^key-8ccb290331a2592df07533c84d900ded]
+## 18. Consultation and Parliamentary scrutiny[^c-8ccb290331a2592df07533c84d900ded]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ccb290331a2592df07533c84d900ded]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2010/24/section/18) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 56](https://www.legislation.gov.uk/ukpga/2015/20/section/56), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)
+[^c-8ccb290331a2592df07533c84d900ded]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/2010/24/section/18) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 56](https://www.legislation.gov.uk/ukpga/2015/20/section/56), [115(3)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/e)

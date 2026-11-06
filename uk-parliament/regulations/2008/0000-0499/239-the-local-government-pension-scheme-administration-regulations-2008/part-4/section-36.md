@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Actuarial valuations and certificates[^key-b59c665bfb6917551a2e112aa23359c1]
+## 36. Actuarial valuations and certificates[^c-b59c665bfb6917551a2e112aa23359c1]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ during the period covered by the certificate.
 
 ## Annotations
 
-[^key-b59c665bfb6917551a2e112aa23359c1]: Commencement: Reg. 36 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-b59c665bfb6917551a2e112aa23359c1]: Commencement: Reg. 36 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Amendment of the Medical Food (England) Regulations 2000[^key-c74465ac3fa60d868e90838a24500340]
+## 10. Amendment of the Medical Food (England) Regulations 2000[^c-c74465ac3fa60d868e90838a24500340]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c74465ac3fa60d868e90838a24500340]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c74465ac3fa60d868e90838a24500340]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23668561]: Marginal citation: [S.I. 2000/845](https://www.legislation.gov.uk/uksi/2000/845), amended by [S.I. 2005/2626](https://www.legislation.gov.uk/uksi/2005/2626), 2007/3521, 2008/2445, 2011/3012, 2016/688, 2019/.
 

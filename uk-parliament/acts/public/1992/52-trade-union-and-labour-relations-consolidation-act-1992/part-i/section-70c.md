@@ -24,10 +24,10 @@ summary: ''
 
 (2) An employment tribunal shall not consider a complaint under this section unless it is presented—
 
-- (a) before the end of the period of six[^key-b65efca92e811f8a7c6b20fb5cdda002] months beginning with the date of the alleged failure, or
-- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^key-14e429538587ba1dd7a2467008ec4f69] months.
+- (a) before the end of the period of six[^c-b65efca92e811f8a7c6b20fb5cdda002] months beginning with the date of the alleged failure, or
+- (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of six[^c-14e429538587ba1dd7a2467008ec4f69] months.
 
-(2A)[^key-566aed788c1ed4d3a9eb5918f6ed3e8e] Section 292A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (2)(a).
+(2A)[^c-566aed788c1ed4d3a9eb5918f6ed3e8e] Section 292A (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of subsection (2)(a).
 
 (3) Where an employment tribunal finds a complaint under this section well-founded it—
 
@@ -52,10 +52,10 @@ summary: ''
 
 [^c14515111]: Textual amendment: Ss. 70B, 70C inserted (6.6.2000) by [1999 c. 26](https://www.legislation.gov.uk/ukpga/1999/26), [s. 5](https://www.legislation.gov.uk/ukpga/1999/26/section/5); [S.I. 2000/1338](https://www.legislation.gov.uk/uksi/2000/1338), [art. 2(b)](https://www.legislation.gov.uk/uksi/2000/1338/article/2/b)
 
-[^key-b65efca92e811f8a7c6b20fb5cdda002]: Textual amendment: Word in [s. 70C(2)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/70C/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/4/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-b65efca92e811f8a7c6b20fb5cdda002]: Textual amendment: Word in [s. 70C(2)(a)](https://www.legislation.gov.uk/ukpga/1992/52/section/70C/2/a) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/4/a); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-14e429538587ba1dd7a2467008ec4f69]: Textual amendment: Word in [s. 70C(2)(b)](https://www.legislation.gov.uk/ukpga/1992/52/section/70C/2/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/4/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
+[^c-14e429538587ba1dd7a2467008ec4f69]: Textual amendment: Word in [s. 70C(2)(b)](https://www.legislation.gov.uk/ukpga/1992/52/section/70C/2/b) substituted (1.10.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 12 para. 2(4)(b)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/12/paragraph/2/4/b); [S.I. 2026/954](https://www.legislation.gov.uk/uksi/2026/954), [reg. 3](https://www.legislation.gov.uk/uksi/2026/954/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/954/regulation/4))
 
-[^key-566aed788c1ed4d3a9eb5918f6ed3e8e]: Textual amendment: [S. 70C(2A)](https://www.legislation.gov.uk/ukpga/1992/52/section/70C/2A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/4); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)
+[^c-566aed788c1ed4d3a9eb5918f6ed3e8e]: Textual amendment: [S. 70C(2A)](https://www.legislation.gov.uk/ukpga/1992/52/section/70C/2A) inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/24/schedule/2/paragraph/4); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(g)](https://www.legislation.gov.uk/uksi/2014/253/article/3/g)
 
 [^c14515131]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).

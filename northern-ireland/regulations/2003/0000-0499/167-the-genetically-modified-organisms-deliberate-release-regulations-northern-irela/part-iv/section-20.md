@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Duties of the Department in relation to applications for consent to release[^key-89484a6a65c34a9a389cd0dec9f611bf]
+## 20. Duties of the Department in relation to applications for consent to release[^c-89484a6a65c34a9a389cd0dec9f611bf]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ Following receipt of an application for consent to release genetically modified 
 
 ## Annotations
 
-[^key-89484a6a65c34a9a389cd0dec9f611bf]: Commencement: Reg. 20 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-89484a6a65c34a9a389cd0dec9f611bf]: Commencement: Reg. 20 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

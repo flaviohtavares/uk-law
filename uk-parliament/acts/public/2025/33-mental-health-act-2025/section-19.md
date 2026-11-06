@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Remote assessment for treatment[^key-1cd153fbc37a15d9d39011e95e7909ae]
+## 19. Remote assessment for treatment[^c-1cd153fbc37a15d9d39011e95e7909ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cd153fbc37a15d9d39011e95e7909ae]: Commencement: S. 19 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-1cd153fbc37a15d9d39011e95e7909ae]: Commencement: S. 19 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

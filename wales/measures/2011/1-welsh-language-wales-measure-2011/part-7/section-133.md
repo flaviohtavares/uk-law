@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Training etc for members of Tribunal[^key-94900647cfa0e00ef714b11242fe8c1e]
+## 133. Training etc for members of Tribunal[^c-94900647cfa0e00ef714b11242fe8c1e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94900647cfa0e00ef714b11242fe8c1e]: Commencement: [S. 133](https://www.legislation.gov.uk/mwa/2011/1/section/133) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(j)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/j)
+[^c-94900647cfa0e00ef714b11242fe8c1e]: Commencement: [S. 133](https://www.legislation.gov.uk/mwa/2011/1/section/133) in force at 7.1.2014 by [S.I. 2013/3140](https://www.legislation.gov.uk/wsi/2013/3140), [art. 2(j)](https://www.legislation.gov.uk/wsi/2013/3140/article/2/j)

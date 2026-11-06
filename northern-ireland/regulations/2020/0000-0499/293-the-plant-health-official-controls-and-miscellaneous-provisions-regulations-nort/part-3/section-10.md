@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Official measures in relation to non-compliant consignments or consignments which pose a risk to plant health[^key-5fa4f0d7eed78f9f69b2393179515cb4]
+## 10. Official measures in relation to non-compliant consignments or consignments which pose a risk to plant health[^c-5fa4f0d7eed78f9f69b2393179515cb4]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fa4f0d7eed78f9f69b2393179515cb4]: Commencement: Reg. 10 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-5fa4f0d7eed78f9f69b2393179515cb4]: Commencement: Reg. 10 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

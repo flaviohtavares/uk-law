@@ -46,13 +46,13 @@ The Secretary of State for Work and Pensions has made an Order[^f00003] under pa
 
 Accordingly the Department for Communities makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-e66681b21f7258c6bd9eb5ec3563ec09]
+## 1. Citation, commencement and interpretation[^c-e66681b21f7258c6bd9eb5ec3563ec09]
 
 (1) This Order may be cited as the Occupational Pensions (Revaluation) Order (Northern Ireland) 2025 and shall come into operation on 1st January 2026.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to this Order as it applies to an Act of the Assembly.
 
-## 2. The higher and lower revaluation percentages for each revaluation period[^key-c8a4c07395837344b8fc0c5555b6a6a4]
+## 2. The higher and lower revaluation percentages for each revaluation period[^c-c8a4c07395837344b8fc0c5555b6a6a4]
 
 For the purposes of paragraph 2(1) of Schedule 2 to the Pension Schemes (Northern Ireland) Act 1993 (methods of revaluing accrued pension benefits), for each revaluation period specified in column 1 of the Schedule—
 
@@ -69,7 +69,7 @@ David Tarr
 
 A senior officer of the Department for Communities
 
-## Schedule 1[^key-5dbf1d795df55f498f3278819869fac3]
+## Schedule 1[^c-5dbf1d795df55f498f3278819869fac3]
 
 Article 2
 
@@ -133,10 +133,10 @@ This Order, which corresponds to an Order ([S.I. 2025/1211](https://www.legislat
 
 [^f00004]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48)
 
-[^key-e66681b21f7258c6bd9eb5ec3563ec09]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/185/article/1) in operation at 1.1.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/185/article/1/1)
+[^c-e66681b21f7258c6bd9eb5ec3563ec09]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/185/article/1) in operation at 1.1.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/185/article/1/1)
 
 [^f00005]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c8a4c07395837344b8fc0c5555b6a6a4]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/185/article/2) in operation at 1.1.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/185/article/1/1)
+[^c-c8a4c07395837344b8fc0c5555b6a6a4]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/185/article/2) in operation at 1.1.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/185/article/1/1)
 
-[^key-5dbf1d795df55f498f3278819869fac3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2025/185/schedule/1) in operation at 1.1.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/185/article/1/1)
+[^c-5dbf1d795df55f498f3278819869fac3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2025/185/schedule/1) in operation at 1.1.2026, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2025/185/article/1/1)

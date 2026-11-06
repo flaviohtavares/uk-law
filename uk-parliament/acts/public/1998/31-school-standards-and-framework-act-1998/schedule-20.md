@@ -75,7 +75,7 @@ shall be such as may be appropriate having regard to any relevant considerations
 
 ### Disapplication of requirement under paragraph 3(2)
 
-**4.** (1) This paragraph applies where a standing advisory council constituted under section 390 of the Education Act 1996[^key-c840c2e012a467b30685b96e5b7129d2] have determined (under section 394 of the [^c14012851]Education Act 1996) that it is not appropriate for the requirement imposed by paragraph 3(2) to apply in the case of any school to which paragraph 3 applies or in the case of any class or description of pupils at any such school.
+**4.** (1) This paragraph applies where a standing advisory council constituted under section 390 of the Education Act 1996[^c-c840c2e012a467b30685b96e5b7129d2] have determined (under section 394 of the [^c14012851]Education Act 1996) that it is not appropriate for the requirement imposed by paragraph 3(2) to apply in the case of any school to which paragraph 3 applies or in the case of any class or description of pupils at any such school.
 
 (2) While the determination has effect—
 
@@ -97,7 +97,7 @@ but paragraph (b) shall not be taken as preventing that worship from being disti
 
 ## Annotations
 
-[^key-c840c2e012a467b30685b96e5b7129d2]: Textual amendment: Words in [Sch. 20 para. 4(1)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/20/paragraph/4/1) substituted (W.) (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 4(9)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4/9)
+[^c-c840c2e012a467b30685b96e5b7129d2]: Textual amendment: Words in [Sch. 20 para. 4(1)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/20/paragraph/4/1) substituted (W.) (1.9.2022 for specified purposes, 1.9.2023 for specified purposes, 1.9.2024 for specified purposes, 1.9.2025 for specified purposes, 1.9.2026 for specified purposes) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Primary Legislation) Regulations 2022 (S.I. 2022/744)](https://www.legislation.gov.uk/wsi/2022/744), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2022/744/regulation/1/3), [Sch. 2 para. 4(9)](https://www.legislation.gov.uk/wsi/2022/744/schedule/2/paragraph/4/9)
 
 [^c14012851]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 

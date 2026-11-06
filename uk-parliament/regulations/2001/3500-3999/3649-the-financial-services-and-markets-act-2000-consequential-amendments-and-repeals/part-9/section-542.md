@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 542. Revocation of the 1996 Regulations[^key-7187577ccf84fba83fd55fc0ae3aefd1]
+## 542. Revocation of the 1996 Regulations[^c-7187577ccf84fba83fd55fc0ae3aefd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Insurance (Lloyd's) Regulations 1996 are revoked.
 
 ## Annotations
 
-[^key-7187577ccf84fba83fd55fc0ae3aefd1]: Commencement: Art. 542 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7187577ccf84fba83fd55fc0ae3aefd1]: Commencement: Art. 542 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

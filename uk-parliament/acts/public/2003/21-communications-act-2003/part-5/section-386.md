@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 386. Monitoring role for OFT in relation to media mergers[^key-c1b26444b286e1e146dce58a21c891dd]
+## 386. Monitoring role for OFT in relation to media mergers[^c-c1b26444b286e1e146dce58a21c891dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ After section 119A of the Enterprise Act 2002 there shall be inserted—
 
 ## Annotations
 
-[^key-c1b26444b286e1e146dce58a21c891dd]: Commencement: S. 386 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-c1b26444b286e1e146dce58a21c891dd]: Commencement: S. 386 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

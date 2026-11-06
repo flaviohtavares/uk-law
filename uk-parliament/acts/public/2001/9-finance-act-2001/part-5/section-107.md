@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Interest on unpaid tax, etc.: foot-and-mouth disease[^key-9f0315a469143dae77b3f9f50bae9969][^c12450491][^c12450481]
+## 107. Interest on unpaid tax, etc.: foot-and-mouth disease[^c-9f0315a469143dae77b3f9f50bae9969][^c12450491][^c12450481]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9f0315a469143dae77b3f9f50bae9969]: Textual amendment: S. 107 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 135(13)](https://www.legislation.gov.uk/ukpga/2008/9/section/135/13)
+[^c-9f0315a469143dae77b3f9f50bae9969]: Textual amendment: S. 107 omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 135(13)](https://www.legislation.gov.uk/ukpga/2008/9/section/135/13)
 
 [^c12450491]: Textual amendment: S. 107 shall cease to have effect (*prosp.*) by virtue of [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 107(5)](https://www.legislation.gov.uk/ukpga/2001/9/section/107/5)
 

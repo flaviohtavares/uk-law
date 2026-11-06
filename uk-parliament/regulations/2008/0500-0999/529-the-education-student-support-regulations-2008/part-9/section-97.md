@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Application of contribution – current system students who are not 2008 cohort students[^key-ded8c7867c26eac4a5607eabdb67577d]
+## 97. Application of contribution – current system students who are not 2008 cohort students[^c-ded8c7867c26eac4a5607eabdb67577d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In the case of a current system student who is not a 2008 cohort student, the Se
 
 ## Annotations
 
-[^key-ded8c7867c26eac4a5607eabdb67577d]: Commencement: Reg. 97 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-ded8c7867c26eac4a5607eabdb67577d]: Commencement: Reg. 97 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

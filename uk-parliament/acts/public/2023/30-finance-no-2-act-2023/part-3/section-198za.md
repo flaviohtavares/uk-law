@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198ZA. Eligible payroll costs: flow-through entities[^key-fa276aa7b57131f94d2847d9df131b47]
+## 198ZA. Eligible payroll costs: flow-through entities[^c-fa276aa7b57131f94d2847d9df131b47]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ the eligible payroll costs of that entity for that period (which may be nil) are
 
 ## Annotations
 
-[^key-fa276aa7b57131f94d2847d9df131b47]: Textual amendment: Ss. 198-198ZC substituted for s. 198 (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 33](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/33), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-fa276aa7b57131f94d2847d9df131b47]: Textual amendment: Ss. 198-198ZC substituted for s. 198 (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 33](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/33), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

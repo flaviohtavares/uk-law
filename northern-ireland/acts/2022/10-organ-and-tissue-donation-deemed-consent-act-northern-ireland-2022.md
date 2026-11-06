@@ -36,7 +36,7 @@ An Act to amend the Human Tissue Act 2004 concerning consent to activities done 
 
 BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:
 
-## 1. “Appropriate consent” to adult transplant activities[^key-5ef1af2eb01f8798a0601ee75aceff5e][^key-3c3d0b3f06007c0fa2e23a9ff05c8bdb]
+## 1. “Appropriate consent” to adult transplant activities[^c-5ef1af2eb01f8798a0601ee75aceff5e][^c-3c3d0b3f06007c0fa2e23a9ff05c8bdb]
 
 (1) Section 3 of the Human Tissue Act 2004 (“appropriate consent”: adults) is amended in accordance with subsections (2) to (5).
 
@@ -97,7 +97,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (8) In section 16(3)(a) of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (annual report on transplantation must, at least once every five years, address whether the Act has been effective in promoting transplantation), for “has” substitute “, and the amendments made in section 3 of the Human Tissue Act 2004 by the Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2021, have”.
 
-## 2. Commencement and short title[^key-bf0ff600cafedad6b9953a3b59fc5ad1]
+## 2. Commencement and short title[^c-bf0ff600cafedad6b9953a3b59fc5ad1]
 
 (1) This section comes into operation on the day after the day on which this Act receives Royal Assent.
 
@@ -107,8 +107,8 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-5ef1af2eb01f8798a0601ee75aceff5e]: Commencement: S. 1 not in operation at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/nia/2022/10/section/2/2)
+[^c-5ef1af2eb01f8798a0601ee75aceff5e]: Commencement: S. 1 not in operation at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/nia/2022/10/section/2/2)
 
-[^key-3c3d0b3f06007c0fa2e23a9ff05c8bdb]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/10/section/1) in operation at 13.2.2023 by [S.R. 2023/14](https://www.legislation.gov.uk/nisr/2023/14), [art. 2](https://www.legislation.gov.uk/nisr/2023/14/article/2)
+[^c-3c3d0b3f06007c0fa2e23a9ff05c8bdb]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/10/section/1) in operation at 13.2.2023 by [S.R. 2023/14](https://www.legislation.gov.uk/nisr/2023/14), [art. 2](https://www.legislation.gov.uk/nisr/2023/14/article/2)
 
-[^key-bf0ff600cafedad6b9953a3b59fc5ad1]: Commencement: S. 2 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/10/section/2/1)
+[^c-bf0ff600cafedad6b9953a3b59fc5ad1]: Commencement: S. 2 in operation at 31.3.2022, see [s. 2(1)](https://www.legislation.gov.uk/nia/2022/10/section/2/1)

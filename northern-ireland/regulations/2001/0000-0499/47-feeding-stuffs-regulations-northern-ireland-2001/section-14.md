@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Control of certain protein sources[^key-9e3356b4052cdb048fbceaad1a6c3c35]
+## 14. Control of certain protein sources[^c-9e3356b4052cdb048fbceaad1a6c3c35]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e3356b4052cdb048fbceaad1a6c3c35]: Commencement: Reg. 14 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-9e3356b4052cdb048fbceaad1a6c3c35]: Commencement: Reg. 14 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

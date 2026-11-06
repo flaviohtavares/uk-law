@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to subsection (3) below, where a notice containing an application under section 119 above is served on a sewerage undertaker with respect to discharges of any special category effluent, it shall be the duty of the undertaker to refer to the appropriate agency[^key-33a55ea55183c7d90fc8b5b8be791b7a] the questions—
+(1) Subject to subsection (3) below, where a notice containing an application under section 119 above is served on a sewerage undertaker with respect to discharges of any special category effluent, it shall be the duty of the undertaker to refer to the appropriate agency[^c-33a55ea55183c7d90fc8b5b8be791b7a] the questions—
 
 - (a) whether the discharges to which the notice relates should be prohibited; and
 - (b) whether, if they are not prohibited, any requirements should be imposed as to the conditions on which they are made.
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-33a55ea55183c7d90fc8b5b8be791b7a]: Textual amendment: Words in s. 120 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 239](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/239) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-33a55ea55183c7d90fc8b5b8be791b7a]: Textual amendment: Words in s. 120 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 239](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/239) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13219791]: Textual amendment: S. 120(9)(10) substituted (1.4.1996) for s. 120(7)(8) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22 para. 105(1)(4)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/105/1/4) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.7. Use of affidavit evidence[^key-84d9fc1bd1b8b1a7dd7a566044fc8710]
+## 7.7. Use of affidavit evidence[^c-84d9fc1bd1b8b1a7dd7a566044fc8710]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84d9fc1bd1b8b1a7dd7a566044fc8710]: Commencement: [Rule 7.7](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.7) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-84d9fc1bd1b8b1a7dd7a566044fc8710]: Commencement: [Rule 7.7](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.7) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

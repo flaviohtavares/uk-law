@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Minor and consequential amendments[^key-261d8540aab6a6785706d12b07e2f404]
+## 109. Minor and consequential amendments[^c-261d8540aab6a6785706d12b07e2f404]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 1 contains minor amendments and amendments consequential on the provisi
 
 ## Annotations
 
-[^key-261d8540aab6a6785706d12b07e2f404]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2016/20/section/109) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-261d8540aab6a6785706d12b07e2f404]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2016/20/section/109) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

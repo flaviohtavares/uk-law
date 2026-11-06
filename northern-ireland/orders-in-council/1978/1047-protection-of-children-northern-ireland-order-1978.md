@@ -92,18 +92,18 @@ shall be guilty of an offence.
 
 ## 3A. Exception for criminal proceedings, investigations etc.[^c20824061]
 
-(1) In proceedings for an offence under Article 3(1)(a) of making an indecent photograph or pseudo-photograph of a child, the defendant is not guilty of the offence if the defendant[^key-23ee955a71491ad9e79624362155d7e7] proves that—
+(1) In proceedings for an offence under Article 3(1)(a) of making an indecent photograph or pseudo-photograph of a child, the defendant is not guilty of the offence if the defendant[^c-23ee955a71491ad9e79624362155d7e7] proves that—
 
-- (a) it was necessary for the defendant[^key-553cce1ffeeca016deb77939d4826cc4] to make the photograph or pseudo-photograph for the purposes of the prevention, detection or investigation of crime, or for the purposes of criminal proceedings, in any part of the world,
-- (b) at the time of the offence charged the defendant was a member of the Security Service or the Secret Intelligence Service[^c20824021], and it was necessary for the defendant to make the photograph or pseudo-photograph for the exercise of any of the functions of that Service[^c20824041], [^key-1b8a0dc83229e5475aa8131b26352b59]...
-- (c) at the time of the offence charged the defendant was a member of GCHQ, and it was necessary for the defendant to make the photograph or pseudo-photograph for the exercise of any of the functions of GCHQ , or[^key-f1589a7540a6c4966d861fd252519290]
+- (a) it was necessary for the defendant[^c-553cce1ffeeca016deb77939d4826cc4] to make the photograph or pseudo-photograph for the purposes of the prevention, detection or investigation of crime, or for the purposes of criminal proceedings, in any part of the world,
+- (b) at the time of the offence charged the defendant was a member of the Security Service or the Secret Intelligence Service[^c20824021], and it was necessary for the defendant to make the photograph or pseudo-photograph for the exercise of any of the functions of that Service[^c20824041], [^c-1b8a0dc83229e5475aa8131b26352b59]...
+- (c) at the time of the offence charged the defendant was a member of GCHQ, and it was necessary for the defendant to make the photograph or pseudo-photograph for the exercise of any of the functions of GCHQ , or[^c-f1589a7540a6c4966d861fd252519290]
 - (d) the defendant—
   - (i) was at the time of the offence charged a member of OFCOM, employed or engaged by OFCOM, or assisting OFCOM in the exercise of any of their online safety functions (within the meaning of section 235 of the Online Safety Act 2023), and
   - (ii) made the photograph or pseudo-photograph for the purposes of OFCOM’s exercise of any of those functions.
 
 (2) In this Article "GCHQ" has the same meaning as in the Intelligence Services Act 1994.
 
-(3)[^key-899cd0f2e11683af4fe7fc9daf16170e] In this Article “**OFCOM**” means the Office of Communications.
+(3)[^c-899cd0f2e11683af4fe7fc9daf16170e] In this Article “**OFCOM**” means the Office of Communications.
 
 ## 3B. Marriage and other relationships[^c20824081]
 
@@ -130,9 +130,9 @@ shall be guilty of an offence.
 
 the defendant is not guilty of the offence unless it is proved either that the child did not so consent and that the defendant did not reasonably believe that the child so consented, or that the defendant had the photograph or pseudo-photograph in his possession with a view to its being distributed or shown to a person other than the child.
 
-## 4. Entry, search and seizure[^c21343301][^key-76fe98f7e345f44ae8406e7b1918e600]
+## 4. Entry, search and seizure[^c21343301][^c-76fe98f7e345f44ae8406e7b1918e600]
 
-(1) Upon a complaint being made to a justice of the peace by or on behalf of the Director of Public Prosecutions for Northern Ireland or by a member of the Royal Ulster Constabulary if the justice is satisfied that there is reasonable ground to suspect— that there is an indecent photograph[^c5459241] or pseudo‐photograph[^c5459251] of a child in any premises [^key-7768feb7a7877768c52e64017c92c0df]... he may grant a warrant under his hand authorising any member of the Royal Ulster Constabulary to enter, if necessary by force, and search the premises[^c5459281]. . . , and to seize and remove any articles which he believes with reasonable cause to be or include indecent photographs or pseudo‐photographs of children[^c5459241]. . . .
+(1) Upon a complaint being made to a justice of the peace by or on behalf of the Director of Public Prosecutions for Northern Ireland or by a member of the Royal Ulster Constabulary if the justice is satisfied that there is reasonable ground to suspect— that there is an indecent photograph[^c5459241] or pseudo‐photograph[^c5459251] of a child in any premises [^c-7768feb7a7877768c52e64017c92c0df]... he may grant a warrant under his hand authorising any member of the Royal Ulster Constabulary to enter, if necessary by force, and search the premises[^c5459281]. . . , and to seize and remove any articles which he believes with reasonable cause to be or include indecent photographs or pseudo‐photographs of children[^c5459241]. . . .
 
 (2)[^c19882671] In this Article “**premises**” has the same meaning as in the Police and Criminal Evidence (Northern Ireland) Order 1989 (S.I. 1989/1341 (N.I. 12)) (see Article 25 of that Order).
 
@@ -173,7 +173,7 @@ Section 20(2) of the Interpretation Act (Northern Ireland) 1954 [^m00002] (liabi
 
 *Sub‐para. (b) rep. by 1998 NI 9*
 
-## SCHEDULE — Forfeiture of indecent photographs of children[^key-993f2dbbb39df6d3c8b2a6d53c246cdd][^c21343311][^c19935331]
+## SCHEDULE — Forfeiture of indecent photographs of children[^c-993f2dbbb39df6d3c8b2a6d53c246cdd][^c21343311][^c19935331]
 
 ### Application of Schedule
 
@@ -358,7 +358,7 @@ the court may order the return of that part to that person.
 
 ### Supplementary provision about forfeiture proceedings
 
-**12.** Proceedings by virtue of this Schedule are civil proceedings and may be instituted in a court of summary jurisdiction [^key-83bed1d14f5b8a468c4fefd61a3c4801]...
+**12.** Proceedings by virtue of this Schedule are civil proceedings and may be instituted in a court of summary jurisdiction [^c-83bed1d14f5b8a468c4fefd61a3c4801]...
 
 **13.** (1) Either party may appeal against the decision of that court to a county court.
 
@@ -434,19 +434,19 @@ the relevant officer may dispose of it in any manner he thinks fit.
 
 [^c20824061]: Textual amendment: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42)
 
-[^key-23ee955a71491ad9e79624362155d7e7]: Textual amendment: Words in [art. 3A(1)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1) substituted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(8)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/8/a), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-23ee955a71491ad9e79624362155d7e7]: Textual amendment: Words in [art. 3A(1)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1) substituted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(8)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/8/a), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-553cce1ffeeca016deb77939d4826cc4]: Textual amendment: Words in [art. 3A(1)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1) substituted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(8)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/8/b), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-553cce1ffeeca016deb77939d4826cc4]: Textual amendment: Words in [art. 3A(1)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1) substituted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(8)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/8/b), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
 [^c20824021]: Textual amendment: Words in [art. 3A(1)(b)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1/b) inserted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 70(4)(a)](https://www.legislation.gov.uk/ukpga/2008/4/section/70/4/a), [153(2)(c)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/c)
 
 [^c20824041]: Textual amendment: Words in [art. 3A(1)(b)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1/b) substituted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 70(4)(b)](https://www.legislation.gov.uk/ukpga/2008/4/section/70/4/b), [153(2)(c)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/c)
 
-[^key-1b8a0dc83229e5475aa8131b26352b59]: Textual amendment: Word in [art. 3A(1)(b)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1/b) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(8)(c)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/8/c), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-1b8a0dc83229e5475aa8131b26352b59]: Textual amendment: Word in [art. 3A(1)(b)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1/b) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(8)(c)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/8/c), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-f1589a7540a6c4966d861fd252519290]: Textual amendment: [Art. 3A(1)(d)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1/d) and word inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(8)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/8/d), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-f1589a7540a6c4966d861fd252519290]: Textual amendment: [Art. 3A(1)(d)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/1/d) and word inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(8)(d)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/8/d), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-899cd0f2e11683af4fe7fc9daf16170e]: Textual amendment: [Art. 3A(3)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/3) inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(9)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/9), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-899cd0f2e11683af4fe7fc9daf16170e]: Textual amendment: [Art. 3A(3)](https://www.legislation.gov.uk/nisi/1978/1047/article/3A/3) inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 214(9)](https://www.legislation.gov.uk/ukpga/2023/50/section/214/9), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
 [^c20824081]: Textual amendment: [Art. 3B](https://www.legislation.gov.uk/nisi/1978/1047/article/3B) inserted (2.2.2009) by [Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769 (N.I. 2))](https://www.legislation.gov.uk/nisi/2008/1769), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/1/3), [42(5)](https://www.legislation.gov.uk/nisi/2008/1769/article/42/5); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
@@ -454,13 +454,13 @@ the relevant officer may dispose of it in any manner he thinks fit.
 
 [^c21343301]: Modification: Art. 4 applied (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 67(2)(a)](https://www.legislation.gov.uk/ukpga/2009/25/section/67/2/a), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)
 
-[^key-76fe98f7e345f44ae8406e7b1918e600]: Modification: Art. 4 applied (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 69(6)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/69/6/a), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/m)
+[^c-76fe98f7e345f44ae8406e7b1918e600]: Modification: Art. 4 applied (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 69(6)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/69/6/a), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/m)
 
 [^c5459241]: Textual amendment: [1988 NI 17](https://www.legislation.gov.uk/nisi/1988)
 
 [^c5459251]: Textual amendment: [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33)
 
-[^key-7768feb7a7877768c52e64017c92c0df]: Textual amendment: Words in art. 4(1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 77(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/77/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-7768feb7a7877768c52e64017c92c0df]: Textual amendment: Words in art. 4(1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 77(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/77/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c5459281]: Textual amendment: [1989 NI 12](https://www.legislation.gov.uk/nisi/1989)
 
@@ -482,10 +482,10 @@ the relevant officer may dispose of it in any manner he thinks fit.
 
 [^c5459471]: Textual amendment: [1998 NI 9](https://www.legislation.gov.uk/1998/ni9)
 
-[^key-993f2dbbb39df6d3c8b2a6d53c246cdd]: Modification: [Sch.](https://www.legislation.gov.uk/nisi/1978/1047/schedule) applied (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 69(6)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/69/6/b), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/m)
+[^c-993f2dbbb39df6d3c8b2a6d53c246cdd]: Modification: [Sch.](https://www.legislation.gov.uk/nisi/1978/1047/schedule) applied (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 69(6)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/69/6/b), [88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/m)
 
 [^c21343311]: Modification: [Sch.](https://www.legislation.gov.uk/nisi/1978/1047/schedule) applied (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 67(2)(b)](https://www.legislation.gov.uk/ukpga/2009/25/section/67/2/b), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22 para. 12(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/12/2)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/1)
 
 [^c19935331]: Textual amendment: Sch. inserted (1.4.2008) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2006/48/section/40/4), [53(1)(a)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/1/a), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/48/schedule/12) (with [s. 40(6)(7)](https://www.legislation.gov.uk/ukpga/2006/48/section/40/6/7)); [S.I. 2008/790](https://www.legislation.gov.uk/uksi/2008/790), [art. 3(a)](https://www.legislation.gov.uk/uksi/2008/790/article/3/a)
 
-[^key-83bed1d14f5b8a468c4fefd61a3c4801]: Textual amendment: Words in Sch. para. 12 repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 77(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/77/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-83bed1d14f5b8a468c4fefd61a3c4801]: Textual amendment: Words in Sch. para. 12 repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 77(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/77/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

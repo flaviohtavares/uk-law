@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Traffic Regulation[^key-07c2565a1f65cfc32adebc2a5043d1c3]
+## 16. Traffic Regulation[^c-07c2565a1f65cfc32adebc2a5043d1c3]
 
 *Extent: E+W+S*
 
@@ -50,6 +50,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-07c2565a1f65cfc32adebc2a5043d1c3]: Commencement: Art. 16 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-07c2565a1f65cfc32adebc2a5043d1c3]: Commencement: Art. 16 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
 [^f00018]: Footnote: [2004 c.18](https://www.legislation.gov.uk/ukpga/2004/18).

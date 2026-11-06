@@ -39,16 +39,16 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 
 ## Charge to tax
 
-### 1. Charge to tax[^key-0de230a45074777f19bbf4317fc42645][^key-a7af82efcbc0a7efbf77257d92f25757]
+### 1. Charge to tax[^c-0de230a45074777f19bbf4317fc42645][^c-a7af82efcbc0a7efbf77257d92f25757]
 
-(1) If a company carries on a ring fence trade in a qualifying accounting period, a sum equal to 38%[^key-7eed60162189a8dca588ac24520abb75] of its levy profits for that period is to be charged on the company as if it were an amount of corporation tax chargeable on it.
+(1) If a company carries on a ring fence trade in a qualifying accounting period, a sum equal to 38%[^c-7eed60162189a8dca588ac24520abb75] of its levy profits for that period is to be charged on the company as if it were an amount of corporation tax chargeable on it.
 
 (2) The charge is referred to in this Act as “**energy (oil and gas) profits levy**” (or as “the levy”).
 
 (3) A qualifying accounting period is an accounting period of a company which—
 
 - (a) begins on or after 26 May 2022, and
-- (b) ends on or before 31 March[^key-a40ca201d99f3fd2e7b43e2f3578848f] 2030[^key-05fb333b34fb7c0fe6cd79ef43e047a4],
+- (b) ends on or before 31 March[^c-a40ca201d99f3fd2e7b43e2f3578848f] 2030[^c-05fb333b34fb7c0fe6cd79ef43e047a4],
 
 (but see also sections 15 and 16 for provision about a case where a company’s accounting period straddles either of those dates).
 
@@ -75,7 +75,7 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 
 ## Relief for investment expenditure
 
-### 2. Additional expenditure treated as incurred for purposes of section 1[^key-291088ac6e306aea33295693cdeca0dc]
+### 2. Additional expenditure treated as incurred for purposes of section 1[^c-291088ac6e306aea33295693cdeca0dc]
 
 (1) This section applies for the purposes of section 1 if, in a qualifying accounting period, a company has incurred investment expenditure.
 
@@ -95,7 +95,7 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 
 (5) This section needs to be read with section 6 (which prevents recycling etc of assets to generate relief).
 
-### 2A. Section 2: meaning of expenditure on “de-carbonisation of upstream petroleum production”[^key-45b48fd22efa481ff43ddd444af6aad0]
+### 2A. Section 2: meaning of expenditure on “de-carbonisation of upstream petroleum production”[^c-45b48fd22efa481ff43ddd444af6aad0]
 
 (1) Expenditure incurred by a company is expenditure on the “**de-carbonisation of its upstream petroleum production**” for the purposes of section 2 if—
 
@@ -124,15 +124,15 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - “**fossil fuel**” has the meaning given by section 32M of the Electricity Act 1989, and
 - “**greenhouse gas**” has the same meaning as it has in the Climate Change Act 2008 (see section 92).
 
-### 3. Section 2: meaning of “operating expenditure”[^key-d627c2e1dac5c2e4681e710ba5406b6f]
+### 3. Section 2: meaning of “operating expenditure”[^c-d627c2e1dac5c2e4681e710ba5406b6f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Section 2: meaning of “leasing expenditure”[^key-e97ee5b7146bfcbf1444d0ed7bb81b58]
+### 4. Section 2: meaning of “leasing expenditure”[^c-e97ee5b7146bfcbf1444d0ed7bb81b58]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Section 2: meaning of “disqualifying purposes”[^key-e9bc6c80e78dd59627347aa2531873ec]
+### 5. Section 2: meaning of “disqualifying purposes”[^c-e9bc6c80e78dd59627347aa2531873ec]
 
 (1) Expenditure is incurred for disqualifying purposes for the purposes of section 2 so far as it arises directly or indirectly in connection with, or otherwise in consequence of, any avoidance arrangements.
 
@@ -154,7 +154,7 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 
 (4) In this section “**arrangements**” includes any transaction, series of transactions, scheme or arrangement, whether or not legally enforceable.
 
-### 6. Recycling etc of assets to generate relief[^key-d3b8ca09853ce1e5d9df5540501e8393]
+### 6. Recycling etc of assets to generate relief[^c-d3b8ca09853ce1e5d9df5540501e8393]
 
 (1) Expenditure incurred at any time by a company on the acquisition of an asset is not to count as investment expenditure for the purposes of section 2 if—
 
@@ -172,18 +172,18 @@ We, Your Majesty’s most dutiful and loyal subjects, the Commons of the United 
 - (b) any reference to the applicable assumption in the case of any expenditure incurred at any time is to the assumption that this Act were fully in force and applied to expenditure incurred at that time, and
 - (c) any reference to an interest in an oil field is to the whole or part of the equity in an oil field.
 
-### 7. When investment expenditure is incurred[^key-5611b83e0c506fdd663ff46e0ab98fbf]
+### 7. When investment expenditure is incurred[^c-5611b83e0c506fdd663ff46e0ab98fbf]
 
 (1) In determining for the purposes of this Act when a company has incurred investment expenditure—
 
-- (a) [^key-91695cc88d987378ab3d5bccd3b68123]... section 5 of CAA 2001 (when capital expenditure is incurred) applies as it applies for the purposes of that Act, and
-- (b)[^key-e95117149239f0290ebd9d01f0c800fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) [^c-91695cc88d987378ab3d5bccd3b68123]... section 5 of CAA 2001 (when capital expenditure is incurred) applies as it applies for the purposes of that Act, and
+- (b)[^c-e95117149239f0290ebd9d01f0c800fb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Any investment expenditure which is (or is treated as) incurred before 26 May 2022 or after 31 March[^key-de52bd96066182f28eb41f7def34d7c9] 2030[^key-88a53d604c008ebc3c69462b9f6a3b1a] is to be left out of account in determining a company’s levy profits or loss for any qualifying accounting period.
+(2) Any investment expenditure which is (or is treated as) incurred before 26 May 2022 or after 31 March[^c-de52bd96066182f28eb41f7def34d7c9] 2030[^c-88a53d604c008ebc3c69462b9f6a3b1a] is to be left out of account in determining a company’s levy profits or loss for any qualifying accounting period.
 
 ## Financing and decommissioning costs
 
-### 8. Meaning of “financing costs” etc[^key-3b85dd901d5f698fc89276813cf37f3c]
+### 8. Meaning of “financing costs” etc[^c-3b85dd901d5f698fc89276813cf37f3c]
 
 (1) This section applies for the purposes of this Act.
 
@@ -236,7 +236,7 @@ the repayment is also to be left out of account in calculating the qualifying le
 - “**lease**” means any arrangements which provide for an asset to be leased or otherwise made available by a person to another person (“**the lessee**”), and
 - “**long funding finance lease**”, “**long funding operating lease**” and “**right-of-use lease**” have the meanings given in Part 2 of CAA 2001 (see section 70YI(1) of that Act).
 
-### 9. Meaning of “decommissioning costs”[^key-f87d18609a40b74ac6d115e6772264db]
+### 9. Meaning of “decommissioning costs”[^c-f87d18609a40b74ac6d115e6772264db]
 
 (1) This section applies for the purposes of this Act.
 
@@ -267,13 +267,13 @@ and the expression “plant or machinery” has the same meaning here as it has 
 
 ## Qualifying levy losses
 
-### 10. Relief for qualifying levy losses[^key-4c301e1dcd2e32d19a702faa4b0e4be3]
+### 10. Relief for qualifying levy losses[^c-4c301e1dcd2e32d19a702faa4b0e4be3]
 
 Schedule 1 makes provision about relief for qualifying levy losses.
 
 ## Management and administration etc
 
-### 11. Application of corporation tax provisions[^key-29a7e689c0dc8de16e5e2322c93961cc]
+### 11. Application of corporation tax provisions[^c-29a7e689c0dc8de16e5e2322c93961cc]
 
 (1) The provisions of section 1(1) relating to the charging of a sum as if it were an amount of corporation tax are to be taken as applying all enactments applying generally to corporation tax.
 
@@ -302,7 +302,7 @@ but nothing in this subsection is to be taken to limit subsections (1) to (3).
 - (a) references to corporation tax do not include a sum chargeable on a company under section 1(1) as if it were corporation tax, and
 - (b) references to profits charged to corporation tax do not include qualifying levy profits.
 
-### 12. Requirement to provide information about payments[^key-6bcac64120030050dbaadfa9a07bdd54]
+### 12. Requirement to provide information about payments[^c-6bcac64120030050dbaadfa9a07bdd54]
 
 (1) This section applies if—
 
@@ -322,7 +322,7 @@ but nothing in this subsection is to be taken to limit subsections (1) to (3).
 
 (6) This section is subject to any provision to the contrary in regulations under section 59E of TMA 1970 (further provision as to when corporation tax is due and payable).
 
-### 13. Adjustments[^key-404d673385ef401034036f05220a8b91]
+### 13. Adjustments[^c-404d673385ef401034036f05220a8b91]
 
 (1) This section applies if there is any alteration in a company’s ring fence profits or loss for an accounting period after this Act has effect in relation to the profits or loss.
 
@@ -330,11 +330,11 @@ but nothing in this subsection is to be taken to limit subsections (1) to (3).
 
 ## Final provisions
 
-### 14. Consequential provision[^key-e85a6483346d0c3f914057d1b63fcb0d]
+### 14. Consequential provision[^c-e85a6483346d0c3f914057d1b63fcb0d]
 
 Schedule 2 contains amendments of enactments that are consequential on the provision made by this Act.
 
-### 15. Transitional provision for accounting periods straddling 26 May 2022[^key-7c167061acaacd9c569d717e2c6b56df][^key-c447bf8a256bc7356de25484042dc264]
+### 15. Transitional provision for accounting periods straddling 26 May 2022[^c-7c167061acaacd9c569d717e2c6b56df][^c-c447bf8a256bc7356de25484042dc264]
 
 (1) In the case of an accounting period (a “straddling period”) beginning before 26 May 2022 and ending on or after that date—
 
@@ -361,7 +361,7 @@ Schedule 2 contains amendments of enactments that are consequential on the provi
 - (a) a company is to be regarded as a large company as respects the deemed accounting period under subsection (1)(a) only if it is a large company for those purposes as respects the straddling period, and
 - (b) any question whether a company is a large company as respects the straddling period is to be determined as it would have been determined apart from section 1.
 
-### 16. Transitional provision for accounting periods straddling 31 March 2030[^key-c972350425046227211132b7b5896a4a][^key-64aefa0a5be9ea7d98dafb0098de02f4][^key-eeaacf718c98a6cd21e1e9af167f6524]
+### 16. Transitional provision for accounting periods straddling 31 March 2030[^c-c972350425046227211132b7b5896a4a][^c-64aefa0a5be9ea7d98dafb0098de02f4][^c-eeaacf718c98a6cd21e1e9af167f6524]
 
 (1) In the case of an accounting period (a “straddling period”) beginning on or before 31 March 2030 and ending after that date—
 
@@ -388,7 +388,7 @@ Schedule 2 contains amendments of enactments that are consequential on the provi
 - (a) a company is to be regarded as a large company as respects the deemed accounting period under subsection (1)(a) only if it is a large company for those purposes as respects the straddling period, and
 - (b) any question whether a company is a large company as respects the straddling period is to be determined as it would have been determined apart from section 1.
 
-### 17. Rules for apportioning profits or loss to separate accounting periods[^key-7f9197612b3ec4cd2dd829055346b8d6][^key-27e4a2ec2e1731360bc7ad23fd7f3463][^key-4a75cabe26913b061509c90e920e2a50]
+### 17. Rules for apportioning profits or loss to separate accounting periods[^c-7f9197612b3ec4cd2dd829055346b8d6][^c-27e4a2ec2e1731360bc7ad23fd7f3463][^c-4a75cabe26913b061509c90e920e2a50]
 
 (1) This section determines for the purposes of sections 15 and 16 how a company’s levy profits or loss for the straddling period are to be apportioned to the two separate accounting periods mentioned in section 15 or 16 (as the case may be).
 
@@ -396,7 +396,7 @@ Schedule 2 contains amendments of enactments that are consequential on the provi
 
 (3) Subject to that, the receipts, expenses, assets and liabilities of the ring fence trade are to be apportioned between the two separate accounting periods on a just and reasonable basis.
 
-### 17A. Circumstances in which the levy ends early: energy security investment mechanism[^key-e05556f8ed4ea54c77a6e2c725d9a2ec]
+### 17A. Circumstances in which the levy ends early: energy security investment mechanism[^c-e05556f8ed4ea54c77a6e2c725d9a2ec]
 
 (1) This section applies if—
 
@@ -451,30 +451,30 @@ so as to substitute the final day of that reference period for references to wha
 - “**final day of the levy**” means the last day of what would otherwise be the latest qualifying accounting period, and
 - “**relevant financial year**” means any financial year after the financial year 2024 other than one beginning after the final day of the levy.
 
-### 18. Interpretation[^key-dcebe725e7095e2e4842f601766ab135]
+### 18. Interpretation[^c-dcebe725e7095e2e4842f601766ab135]
 
 (1) In this Act—
 
 - “**associated company**” has the same meaning as in Part 8 of CTA 2010 (see section 271),
 - “**decommissioning costs**” has the meaning given by section 9,
 - “**energy (oil and gas) profits levy**” has the meaning given by section 1,
-- “[^key-a6a52bc049ae5da723ef6b654ed1c6d5]**facility**” means a platform, an oil well, a platform well, an oil well head or upstream petroleum infrastructure,
+- “[^c-a6a52bc049ae5da723ef6b654ed1c6d5]**facility**” means a platform, an oil well, a platform well, an oil well head or upstream petroleum infrastructure,
 - “**financing costs**” has the meaning given by section 8,
 - “**investment expenditure**” has the meaning given by section 2,
-- [^key-528826b2d2160080706229bcf20ae1e1]...
+- [^c-528826b2d2160080706229bcf20ae1e1]...
 - “**the levy**” means the energy (oil and gas) profits levy,
 - “levy profits” or “**levy loss**” has the meaning given by section 1,
 - “**oil**” has the same meaning as in Part 8 of CTA 2010 (see section 278),
 - “**oil extraction activities**” has the same meaning as in Part 8 of CTA 2010 (see section 272),
 - “**oil field**” has the same meaning as in Part 8 of CTA 2010 (see section 278),
 - “**oil-related activities**” has the same meaning as in Part 8 of CTA 2010 (see section 274),
-- [^key-528826b2d2160080706229bcf20ae1e1]...
+- [^c-528826b2d2160080706229bcf20ae1e1]...
 - “**qualifying accounting period**” has the meaning given by section 1,
 - “**qualifying levy loss**” has the meaning given by section 1,
 - “**qualifying levy profits**” has the meaning given by section 1,
-- “**ring fence profits**” has the same meaning as in Part 8 of CTA 2010 (see section 276), [^key-cd4b832860bab9304216ba0a41927524]...
+- “**ring fence profits**” has the same meaning as in Part 8 of CTA 2010 (see section 276), [^c-cd4b832860bab9304216ba0a41927524]...
 - “**ring fence trade**” has the same meaning as in Part 8 of CTA 2010 (see section 277),
-- “[^key-cbef0c333483a5d9c66abe7f2cfe095c]**upstream petroleum infrastructure**” means any upstream petroleum pipeline, oil processing facility or gas processing facility (as those expressions are defined by section 90 of the Energy Act 2011 but as if that section also applied (with the appropriate modifications) to Northern Ireland).
+- “[^c-cbef0c333483a5d9c66abe7f2cfe095c]**upstream petroleum infrastructure**” means any upstream petroleum pipeline, oil processing facility or gas processing facility (as those expressions are defined by section 90 of the Energy Act 2011 but as if that section also applied (with the appropriate modifications) to Northern Ireland).
 
 (2) In this Act—
 
@@ -486,7 +486,7 @@ so as to substitute the final day of that reference period for references to wha
 - “**OTA 1975**” means the Oil Taxation Act 1975, and
 - “**TMA 1970**” means the Taxes Management Act 1970.
 
-### 19. Short title[^key-8c138120fb7709e3f42a8a2b206af0c4]
+### 19. Short title[^c-8c138120fb7709e3f42a8a2b206af0c4]
 
 This Act may be cited as the Energy (Oil and Gas) Profits Levy Act 2022.
 
@@ -498,7 +498,7 @@ Section 10
 
 ### PART 1 — Carry back or forward of qualifying levy losses
 
-#### 1. Carry back of qualifying levy losses to earlier qualifying accounting periods[^key-9a08e8ce3344faa2b3875b241898f077]
+#### 1. Carry back of qualifying levy losses to earlier qualifying accounting periods[^c-9a08e8ce3344faa2b3875b241898f077]
 
 (1) This paragraph applies if—
 
@@ -518,20 +518,20 @@ Section 10
 
 (6) If, for an accounting period, deductions under sub-paragraph (3) are to be made for qualifying levy losses of different accounting periods, the deductions are to be made in the order in which the losses were made (starting with the earliest loss).
 
-**2.**[^key-795371bd9cf016a3ae3cf4a7c81ef20a] (1) This paragraph applies if an accounting period falls partly within the period of 12 months mentioned in paragraph 1(3).
+**2.**[^c-795371bd9cf016a3ae3cf4a7c81ef20a] (1) This paragraph applies if an accounting period falls partly within the period of 12 months mentioned in paragraph 1(3).
 
 (2) The amount of the deduction for the loss for the accounting period is not to exceed an amount equal to the overlapping proportion of the company’s qualifying levy profits of that period.
 
 (3) The overlapping proportion is the same as the proportion that the part of the accounting period falling within the period of 12 months bears to the whole of the accounting period.
 
-**3.**[^key-fe7ce7cb8dcccd9ba2fa500e09180f8f] (1) Relief under paragraph 1 is not available for a loss made in a ring fence trade unless for the loss-making period, the trade is carried on—
+**3.**[^c-fe7ce7cb8dcccd9ba2fa500e09180f8f] (1) Relief under paragraph 1 is not available for a loss made in a ring fence trade unless for the loss-making period, the trade is carried on—
 
 - (a) on a commercial basis, and
 - (b) with a view to the making of a profit in the trade or so as to afford a reasonable expectation of making such a profit.
 
 (2) If during the loss-making period there is a change in the way in which the trade is carried on, it is treated as having been carried on throughout that period in the way in which it is being carried on by the end of that period.
 
-**4.**[^key-07e9338ccc1d19344a610e479a9c5298] (1) This paragraph applies if—
+**4.**[^c-07e9338ccc1d19344a610e479a9c5298] (1) This paragraph applies if—
 
 - (a) a company ceases to carry on a ring fence trade in a qualifying accounting period, and
 - (b) the company has made a terminal qualifying levy loss in the trade.
@@ -554,7 +554,7 @@ Section 10
 
 (7) For this purpose “**arrangements**” includes any transaction, series of transactions, scheme or arrangement, whether or not legally enforceable.
 
-#### 5. Carry forward of qualifying levy losses to subsequent qualifying accounting period[^key-2a5c7349cda616e76c2469b459f36428]
+#### 5. Carry forward of qualifying levy losses to subsequent qualifying accounting period[^c-2a5c7349cda616e76c2469b459f36428]
 
 (1) This paragraph applies if in a qualifying accounting period a company carrying on a ring fence trade makes a qualifying levy loss in the period.
 
@@ -569,7 +569,7 @@ Section 10
 
 ### PART 2 — Group relief for qualifying levy losses
 
-#### 6. Introduction[^key-30b7253fcb258456b39641773331ea6c]
+#### 6. Introduction[^c-30b7253fcb258456b39641773331ea6c]
 
 (1) This Part of this Schedule—
 
@@ -578,12 +578,12 @@ Section 10
 
 (2) The relief mentioned in sub-paragraph (1) is referred to in this Schedule as “**levy group relief**”.
 
-**7.**[^key-5424ec1ce8f5106e81f758dff5f391f2] In this Part of this Schedule, in relation to a qualifying levy loss that a company has for an accounting period—
+**7.**[^c-5424ec1ce8f5106e81f758dff5f391f2] In this Part of this Schedule, in relation to a qualifying levy loss that a company has for an accounting period—
 
 - “**surrender period**” means a qualifying accounting period for which the surrendering company has the loss, and
 - “**surrenderable amounts**” means a qualifying levy loss so far as eligible for surrender under this Part of this Schedule.
 
-#### 8. Surrender of company’s losses for an accounting period[^key-f204bed78f7bb6b3ea6dccf85c1989e2]
+#### 8. Surrender of company’s losses for an accounting period[^c-f204bed78f7bb6b3ea6dccf85c1989e2]
 
 If—
 
@@ -592,7 +592,7 @@ If—
 
 the surrendering company may surrender the loss.
 
-#### 9. Claims for levy group relief[^key-96304d5760f93181feeadf5f4d5a1100]
+#### 9. Claims for levy group relief[^c-96304d5760f93181feeadf5f4d5a1100]
 
 (1) This paragraph applies in relation to the surrendering company’s surrenderable amounts for the surrender period under paragraph 8.
 
@@ -606,7 +606,7 @@ the surrendering company may surrender the loss.
 
 (4) Paragraph 70(3) and (4) of Schedule 18 to FA 1998 apply for the purposes of any consent given under this paragraph.
 
-#### 10. Giving of levy group relief[^key-3084c7bc627162dc1e72d991c7028ac0]
+#### 10. Giving of levy group relief[^c-3084c7bc627162dc1e72d991c7028ac0]
 
 (1) If a claimant company makes a claim under paragraph 9, the relief is to be given by way of deduction from the company’s qualifying levy profits for the claim period.
 
@@ -617,7 +617,7 @@ the surrendering company may surrender the loss.
 
 (3) The deduction under this paragraph is to be made after any relief under paragraph 1.
 
-#### 11. Limitation on amount of levy group relief to be given[^key-8e7c040df4161a4aca8889a6908ef3fe]
+#### 11. Limitation on amount of levy group relief to be given[^c-8e7c040df4161a4aca8889a6908ef3fe]
 
 (1) Paragraph 10(2) is subject to the limitation in sections 138 to 142 of CTA 2010 (general limitation on amount of group relief to be given) as if those sections applied to levy group relief as they apply to group relief under Part 5 of that Act.
 
@@ -636,11 +636,11 @@ the surrendering company may surrender the loss.
   - (i) in subsection (1) for the words in parenthesis there were substituted “(see paragraph 9(2)(b) of Schedule 1 to the Energy (Oil and Gas) Profits Levy Act 2022)”, and
   - (ii) in subsection (3), for the words from “group relief condition is the” to the end there were substituted “requirement in paragraph 9(2)(c) of Schedule 1 to the Energy (Oil and Gas) Profits Levy Act 2022”.
 
-#### 12. Arrangements for transfer of companies[^key-9c6ee52054babfa17f39bab91de72917]
+#### 12. Arrangements for transfer of companies[^c-9c6ee52054babfa17f39bab91de72917]
 
 Sections 154 and 155A to 156 of CTA 2010 (arrangements for transfer of member of group of companies etc) apply for the purposes of this Part of this Schedule as they apply for the purposes of Part 5 of that Act but as if the references in sections 155A(1) and 155B(1) to “or 155(3)” were omitted.
 
-#### 13. Payments for relief[^key-9e663853edf69454f4c2b32fa41d5207]
+#### 13. Payments for relief[^c-9e663853edf69454f4c2b32fa41d5207]
 
 (1) This paragraph applies if—
 
@@ -650,38 +650,38 @@ Sections 154 and 155A to 156 of CTA 2010 (arrangements for transfer of member of
 
 (2) The payment is not to be taken into account in calculating the qualifying levy profits or loss of either company under section 1.
 
-**14.**[^key-a9bffb789cd978f496e0ffffa4d40228] An amount which is, as a result of paragraph 13, not to be taken account in calculating qualifying levy profits or loss under section 1—
+**14.**[^c-a9bffb789cd978f496e0ffffa4d40228] An amount which is, as a result of paragraph 13, not to be taken account in calculating qualifying levy profits or loss under section 1—
 
 - (a) is also not to be taken into account in calculating profits or loss for corporation tax purposes, and
 - (b) is not to be regarded for those purposes as a distribution.
 
-#### 15. Meaning of “company” and “group”[^key-81ac0cdbe1eacddf795ca0fc43e62095]
+#### 15. Meaning of “company” and “group”[^c-81ac0cdbe1eacddf795ca0fc43e62095]
 
 In this Part of this Schedule “**company**” means any body corporate.
 
-**16.**[^key-4674e417936f1ce40815dce9b152917f] For the purposes of this Part of this Schedule, two companies are part of the same group if—
+**16.**[^c-4674e417936f1ce40815dce9b152917f] For the purposes of this Part of this Schedule, two companies are part of the same group if—
 
 - (a) one is the 75% subsidiary of the other, or
 - (b) both are 75% subsidiaries of a third company.
 
 ### PART 3 — General provision
 
-#### 17. Prohibition on claiming relief more than once for the same amount[^key-a0c411618d851c6b987c541501ac6640]
+#### 17. Prohibition on claiming relief more than once for the same amount[^c-a0c411618d851c6b987c541501ac6640]
 
 Relief from the levy is not to be given more than once for the same amount, whether—
 
 - (a) by giving levy group relief and by giving some other relief (for any accounting period) to the surrendering company, or
 - (b) by giving levy group relief more than once.
 
-#### 18. Change in company ownership[^key-4da815faf568325cb28684cfb42ce6d7]
+#### 18. Change in company ownership[^c-4da815faf568325cb28684cfb42ce6d7]
 
 Part 14 of CTA 2010 (change in company ownership) applies, with any necessary modifications, in relation to relief under any provision of this Schedule as it applies in relation to the corresponding relief from corporation tax.
 
-#### 19. Transfers of trade without a change of ownership[^key-989fc07805633b99e627d65c6cdb591b]
+#### 19. Transfers of trade without a change of ownership[^c-989fc07805633b99e627d65c6cdb591b]
 
 Chapter 1 of Part 22 of CTA 2010 applies, with any necessary modifications, in relation to relief under any provision of this Schedule as it applies in relation to the corresponding relief from corporation tax.
 
-#### 20. Counteracting tax advantage involving qualifying levy losses[^key-224f841396bc1504ce2e6afe2892830d]
+#### 20. Counteracting tax advantage involving qualifying levy losses[^c-224f841396bc1504ce2e6afe2892830d]
 
 (1) A levy advantage arising by reference to a qualifying levy loss that would (in the absence of this paragraph) arise directly or indirectly in connection with, or otherwise in consequence of, disqualifying arrangements is to be counteracted by the making of such adjustments as are just and reasonable.
 
@@ -715,7 +715,7 @@ or otherwise.
 
 Section 14
 
-### 1. TMA 1970[^key-29d71c40b99bf49bef97d62dc40c23c3]
+### 1. TMA 1970[^c-29d71c40b99bf49bef97d62dc40c23c3]
 
 (1) Part 5A of TMA 1970 (payment of tax) is amended as follows.
 
@@ -732,7 +732,7 @@ Section 14
   >
   > - (e) to any sum chargeable on a company under section 1 of the Energy (Oil and Gas) Profits Levy Act 2022 as if it were an amount of corporation tax chargeable on the company.
 
-### 2. FA 1998[^key-96e86da895b3e79afe95d912e5ff4dcf]
+### 2. FA 1998[^c-96e86da895b3e79afe95d912e5ff4dcf]
 
 (1) Schedule 18 to FA 1998 (company tax returns, assessments and related matters) is amended as follows.
 
@@ -760,7 +760,7 @@ Section 14
 
 > - 1. Any amount chargeable by virtue of section 1 of the Energy (Oil and Gas) Profits Levy Act 2022.
 
-### 3. Instalment Payments Regulations 1998[^key-2d2cd2c75d1fe4e0b6b8698814dccd84]
+### 3. Instalment Payments Regulations 1998[^c-2d2cd2c75d1fe4e0b6b8698814dccd84]
 
 (1) The Instalment Payments Regulations 1998 are amended as follows.
 
@@ -780,132 +780,132 @@ Section 14
 
   .
 
-### 4. CTA 2010[^key-799db029c45f98906b025002ef504b18]
+### 4. CTA 2010[^c-799db029c45f98906b025002ef504b18]
 
 In section 270 of CTA 2010 (overview of Part 8: oil activities), in subsection (1), at the end insert “but also needs to be read with the Energy (Oil and Gas) Profits Levy Act 2022 (which imposes a tax in relation to ring fence profits)”.
 
 ## Annotations
 
-[^key-0de230a45074777f19bbf4317fc42645]: Commencement: S. 1 in force at Royal Assent
+[^c-0de230a45074777f19bbf4317fc42645]: Commencement: S. 1 in force at Royal Assent
 
-[^key-a7af82efcbc0a7efbf77257d92f25757]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/2022/40/section/1) modified (with effect in relation to qualifying payments into a decommissioning fund made on or after 20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 3 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/3/paragraph/5), [6](https://www.legislation.gov.uk/ukpga/2025/8/schedule/3/paragraph/6)
+[^c-a7af82efcbc0a7efbf77257d92f25757]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/2022/40/section/1) modified (with effect in relation to qualifying payments into a decommissioning fund made on or after 20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 3 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/3/paragraph/5), [6](https://www.legislation.gov.uk/ukpga/2025/8/schedule/3/paragraph/6)
 
-[^key-7eed60162189a8dca588ac24520abb75]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/1) substituted (20.3.2025 for accounting periods beginning on or after 1.11.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/15/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/15/2) (with [s. 15(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/15/3))
+[^c-7eed60162189a8dca588ac24520abb75]: Textual amendment: Word in [s. 1(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/1) substituted (20.3.2025 for accounting periods beginning on or after 1.11.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/15/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/15/2) (with [s. 15(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/15/3))
 
-[^key-a40ca201d99f3fd2e7b43e2f3578848f]: Textual amendment: Words in [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/3/b) substituted (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 3(1)](https://www.legislation.gov.uk/ukpga/2023/1/section/3/1)
+[^c-a40ca201d99f3fd2e7b43e2f3578848f]: Textual amendment: Words in [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/3/b) substituted (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 3(1)](https://www.legislation.gov.uk/ukpga/2023/1/section/3/1)
 
-[^key-05fb333b34fb7c0fe6cd79ef43e047a4]: Textual amendment: Word in [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/3/b) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/17/1)
+[^c-05fb333b34fb7c0fe6cd79ef43e047a4]: Textual amendment: Word in [s. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2022/40/section/1/3/b) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 17(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/17/1)
 
-[^key-291088ac6e306aea33295693cdeca0dc]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2022/40/section/2) substituted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/2)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
+[^c-291088ac6e306aea33295693cdeca0dc]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/2022/40/section/2) substituted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/2)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
 
-[^key-45b48fd22efa481ff43ddd444af6aad0]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/2022/40/section/2A) inserted (with effect in accordance with s. 12(7) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 12(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/12/4)
+[^c-45b48fd22efa481ff43ddd444af6aad0]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/2022/40/section/2A) inserted (with effect in accordance with s. 12(7) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 12(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/12/4)
 
-[^key-d627c2e1dac5c2e4681e710ba5406b6f]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2022/40/section/3) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/3)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
+[^c-d627c2e1dac5c2e4681e710ba5406b6f]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/2022/40/section/3) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/3)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
 
-[^key-e97ee5b7146bfcbf1444d0ed7bb81b58]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2022/40/section/4) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/3)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
+[^c-e97ee5b7146bfcbf1444d0ed7bb81b58]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/2022/40/section/4) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/3)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
 
-[^key-e9bc6c80e78dd59627347aa2531873ec]: Commencement: S. 5 in force at Royal Assent
+[^c-e9bc6c80e78dd59627347aa2531873ec]: Commencement: S. 5 in force at Royal Assent
 
-[^key-d3b8ca09853ce1e5d9df5540501e8393]: Commencement: S. 6 in force at Royal Assent
+[^c-d3b8ca09853ce1e5d9df5540501e8393]: Commencement: S. 6 in force at Royal Assent
 
-[^key-5611b83e0c506fdd663ff46e0ab98fbf]: Commencement: S. 7 in force at Royal Assent
+[^c-5611b83e0c506fdd663ff46e0ab98fbf]: Commencement: S. 7 in force at Royal Assent
 
-[^key-91695cc88d987378ab3d5bccd3b68123]: Textual amendment: Words in [s. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2022/40/section/7/1/a) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(4)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/4/a)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
+[^c-91695cc88d987378ab3d5bccd3b68123]: Textual amendment: Words in [s. 7(1)(a)](https://www.legislation.gov.uk/ukpga/2022/40/section/7/1/a) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(4)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/4/a)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
 
-[^key-e95117149239f0290ebd9d01f0c800fb]: Textual amendment: [S. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2022/40/section/7/1/b) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/4/b)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
+[^c-e95117149239f0290ebd9d01f0c800fb]: Textual amendment: [S. 7(1)(b)](https://www.legislation.gov.uk/ukpga/2022/40/section/7/1/b) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/4/b)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
 
-[^key-de52bd96066182f28eb41f7def34d7c9]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/2022/40/section/7/2) substituted (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2023/1/section/3/2/a)
+[^c-de52bd96066182f28eb41f7def34d7c9]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/2022/40/section/7/2) substituted (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2023/1/section/3/2/a)
 
-[^key-88a53d604c008ebc3c69462b9f6a3b1a]: Textual amendment: Word in [s. 7(2)](https://www.legislation.gov.uk/ukpga/2022/40/section/7/2) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/17/2/a)
+[^c-88a53d604c008ebc3c69462b9f6a3b1a]: Textual amendment: Word in [s. 7(2)](https://www.legislation.gov.uk/ukpga/2022/40/section/7/2) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 17(2)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/17/2/a)
 
-[^key-3b85dd901d5f698fc89276813cf37f3c]: Commencement: S. 8 in force at Royal Assent
+[^c-3b85dd901d5f698fc89276813cf37f3c]: Commencement: S. 8 in force at Royal Assent
 
-[^key-f87d18609a40b74ac6d115e6772264db]: Commencement: S. 9 in force at Royal Assent
+[^c-f87d18609a40b74ac6d115e6772264db]: Commencement: S. 9 in force at Royal Assent
 
-[^key-4c301e1dcd2e32d19a702faa4b0e4be3]: Commencement: S. 10 in force at Royal Assent
+[^c-4c301e1dcd2e32d19a702faa4b0e4be3]: Commencement: S. 10 in force at Royal Assent
 
-[^key-29a7e689c0dc8de16e5e2322c93961cc]: Commencement: S. 11 in force at Royal Assent
+[^c-29a7e689c0dc8de16e5e2322c93961cc]: Commencement: S. 11 in force at Royal Assent
 
-[^key-6bcac64120030050dbaadfa9a07bdd54]: Commencement: S. 12 in force at Royal Assent
+[^c-6bcac64120030050dbaadfa9a07bdd54]: Commencement: S. 12 in force at Royal Assent
 
-[^key-404d673385ef401034036f05220a8b91]: Commencement: S. 13 in force at Royal Assent
+[^c-404d673385ef401034036f05220a8b91]: Commencement: S. 13 in force at Royal Assent
 
-[^key-e85a6483346d0c3f914057d1b63fcb0d]: Commencement: S. 14 in force at Royal Assent
+[^c-e85a6483346d0c3f914057d1b63fcb0d]: Commencement: S. 14 in force at Royal Assent
 
-[^key-7c167061acaacd9c569d717e2c6b56df]: Commencement: S. 15 in force at Royal Assent
+[^c-7c167061acaacd9c569d717e2c6b56df]: Commencement: S. 15 in force at Royal Assent
 
-[^key-c447bf8a256bc7356de25484042dc264]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/2022/40/section/15) applied (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 1(9)(b)](https://www.legislation.gov.uk/ukpga/2023/1/section/1/9/b)
+[^c-c447bf8a256bc7356de25484042dc264]: Modification: [S. 15](https://www.legislation.gov.uk/ukpga/2022/40/section/15) applied (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 1(9)(b)](https://www.legislation.gov.uk/ukpga/2023/1/section/1/9/b)
 
-[^key-c972350425046227211132b7b5896a4a]: Commencement: S. 16 in force at Royal Assent
+[^c-c972350425046227211132b7b5896a4a]: Commencement: S. 16 in force at Royal Assent
 
-[^key-64aefa0a5be9ea7d98dafb0098de02f4]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/2022/40/section/16) substituted (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2023/1/section/3/2/b)
+[^c-64aefa0a5be9ea7d98dafb0098de02f4]: Textual amendment: Words in [s. 16](https://www.legislation.gov.uk/ukpga/2022/40/section/16) substituted (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2023/1/section/3/2/b)
 
-[^key-eeaacf718c98a6cd21e1e9af167f6524]: Textual amendment: Word in [s. 16](https://www.legislation.gov.uk/ukpga/2022/40/section/16) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/17/2/b)
+[^c-eeaacf718c98a6cd21e1e9af167f6524]: Textual amendment: Word in [s. 16](https://www.legislation.gov.uk/ukpga/2022/40/section/16) substituted (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 17(2)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/17/2/b)
 
-[^key-7f9197612b3ec4cd2dd829055346b8d6]: Commencement: S. 17 in force at Royal Assent
+[^c-7f9197612b3ec4cd2dd829055346b8d6]: Commencement: S. 17 in force at Royal Assent
 
-[^key-27e4a2ec2e1731360bc7ad23fd7f3463]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/2022/40/section/17) applied (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 1(9)(b)](https://www.legislation.gov.uk/ukpga/2023/1/section/1/9/b)
+[^c-27e4a2ec2e1731360bc7ad23fd7f3463]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/2022/40/section/17) applied (10.1.2023) by [Finance Act 2023 (c. 1)](https://www.legislation.gov.uk/ukpga/2023/1), [s. 1(9)(b)](https://www.legislation.gov.uk/ukpga/2023/1/section/1/9/b)
 
-[^key-4a75cabe26913b061509c90e920e2a50]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/2022/40/section/17) applied (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/15/3/b)
+[^c-4a75cabe26913b061509c90e920e2a50]: Modification: [S. 17](https://www.legislation.gov.uk/ukpga/2022/40/section/17) applied (20.3.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 15(3)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/15/3/b)
 
-[^key-e05556f8ed4ea54c77a6e2c725d9a2ec]: Textual amendment: [Ss. 17A](https://www.legislation.gov.uk/ukpga/2022/40/section/17A), [17B](https://www.legislation.gov.uk/ukpga/2022/40/section/17B) inserted (24.5.2024) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 19](https://www.legislation.gov.uk/ukpga/2024/12/section/19)
+[^c-e05556f8ed4ea54c77a6e2c725d9a2ec]: Textual amendment: [Ss. 17A](https://www.legislation.gov.uk/ukpga/2022/40/section/17A), [17B](https://www.legislation.gov.uk/ukpga/2022/40/section/17B) inserted (24.5.2024) by [Finance (No. 2) Act 2024 (c. 12)](https://www.legislation.gov.uk/ukpga/2024/12), [s. 19](https://www.legislation.gov.uk/ukpga/2024/12/section/19)
 
-[^key-dcebe725e7095e2e4842f601766ab135]: Commencement: S. 18 in force at Royal Assent
+[^c-dcebe725e7095e2e4842f601766ab135]: Commencement: S. 18 in force at Royal Assent
 
-[^key-a6a52bc049ae5da723ef6b654ed1c6d5]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/18/1) inserted (with effect in accordance with s. 12(7) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 12(6)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/12/6/a)
+[^c-a6a52bc049ae5da723ef6b654ed1c6d5]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/18/1) inserted (with effect in accordance with s. 12(7) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 12(6)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/12/6/a)
 
-[^key-528826b2d2160080706229bcf20ae1e1]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/18/1) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
+[^c-528826b2d2160080706229bcf20ae1e1]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/18/1) omitted (20.3.2025 with effect in relation to expenditure incurred on or after 1.11.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 16(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/16/6)
 
-[^key-cd4b832860bab9304216ba0a41927524]: Textual amendment: Word in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/18/1) omitted (with effect in accordance with s. 12(7) of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 12(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/12/6/b)
+[^c-cd4b832860bab9304216ba0a41927524]: Textual amendment: Word in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/18/1) omitted (with effect in accordance with s. 12(7) of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 12(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/12/6/b)
 
-[^key-cbef0c333483a5d9c66abe7f2cfe095c]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/18/1) inserted (with effect in accordance with s. 12(7) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 12(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/12/6/b)
+[^c-cbef0c333483a5d9c66abe7f2cfe095c]: Textual amendment: Words in [s. 18(1)](https://www.legislation.gov.uk/ukpga/2022/40/section/18/1) inserted (with effect in accordance with s. 12(7) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 12(6)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/12/6/b)
 
-[^key-8c138120fb7709e3f42a8a2b206af0c4]: Commencement: S. 19 in force at Royal Assent
+[^c-8c138120fb7709e3f42a8a2b206af0c4]: Commencement: S. 19 in force at Royal Assent
 
-[^key-9a08e8ce3344faa2b3875b241898f077]: Commencement: Sch. 1 para. 1 in force at Royal Assent
+[^c-9a08e8ce3344faa2b3875b241898f077]: Commencement: Sch. 1 para. 1 in force at Royal Assent
 
-[^key-795371bd9cf016a3ae3cf4a7c81ef20a]: Commencement: Sch. 1 para. 2 in force at Royal Assent
+[^c-795371bd9cf016a3ae3cf4a7c81ef20a]: Commencement: Sch. 1 para. 2 in force at Royal Assent
 
-[^key-fe7ce7cb8dcccd9ba2fa500e09180f8f]: Commencement: Sch. 1 para. 3 in force at Royal Assent
+[^c-fe7ce7cb8dcccd9ba2fa500e09180f8f]: Commencement: Sch. 1 para. 3 in force at Royal Assent
 
-[^key-07e9338ccc1d19344a610e479a9c5298]: Commencement: Sch. 1 para. 4 in force at Royal Assent
+[^c-07e9338ccc1d19344a610e479a9c5298]: Commencement: Sch. 1 para. 4 in force at Royal Assent
 
-[^key-2a5c7349cda616e76c2469b459f36428]: Commencement: Sch. 1 para. 5 in force at Royal Assent
+[^c-2a5c7349cda616e76c2469b459f36428]: Commencement: Sch. 1 para. 5 in force at Royal Assent
 
-[^key-30b7253fcb258456b39641773331ea6c]: Commencement: Sch. 1 para. 6 in force at Royal Assent
+[^c-30b7253fcb258456b39641773331ea6c]: Commencement: Sch. 1 para. 6 in force at Royal Assent
 
-[^key-5424ec1ce8f5106e81f758dff5f391f2]: Commencement: Sch. 1 para. 7 in force at Royal Assent
+[^c-5424ec1ce8f5106e81f758dff5f391f2]: Commencement: Sch. 1 para. 7 in force at Royal Assent
 
-[^key-f204bed78f7bb6b3ea6dccf85c1989e2]: Commencement: Sch. 1 para. 8 in force at Royal Assent
+[^c-f204bed78f7bb6b3ea6dccf85c1989e2]: Commencement: Sch. 1 para. 8 in force at Royal Assent
 
-[^key-96304d5760f93181feeadf5f4d5a1100]: Commencement: Sch. 1 para. 9 in force at Royal Assent
+[^c-96304d5760f93181feeadf5f4d5a1100]: Commencement: Sch. 1 para. 9 in force at Royal Assent
 
-[^key-3084c7bc627162dc1e72d991c7028ac0]: Commencement: Sch. 1 para. 10 in force at Royal Assent
+[^c-3084c7bc627162dc1e72d991c7028ac0]: Commencement: Sch. 1 para. 10 in force at Royal Assent
 
-[^key-8e7c040df4161a4aca8889a6908ef3fe]: Commencement: Sch. 1 para. 11 in force at Royal Assent
+[^c-8e7c040df4161a4aca8889a6908ef3fe]: Commencement: Sch. 1 para. 11 in force at Royal Assent
 
-[^key-9c6ee52054babfa17f39bab91de72917]: Commencement: Sch. 1 para. 12 in force at Royal Assent
+[^c-9c6ee52054babfa17f39bab91de72917]: Commencement: Sch. 1 para. 12 in force at Royal Assent
 
-[^key-9e663853edf69454f4c2b32fa41d5207]: Commencement: Sch. 1 para. 13 in force at Royal Assent
+[^c-9e663853edf69454f4c2b32fa41d5207]: Commencement: Sch. 1 para. 13 in force at Royal Assent
 
-[^key-a9bffb789cd978f496e0ffffa4d40228]: Commencement: Sch. 1 para. 14 in force at Royal Assent
+[^c-a9bffb789cd978f496e0ffffa4d40228]: Commencement: Sch. 1 para. 14 in force at Royal Assent
 
-[^key-81ac0cdbe1eacddf795ca0fc43e62095]: Commencement: Sch. 1 para. 15 in force at Royal Assent
+[^c-81ac0cdbe1eacddf795ca0fc43e62095]: Commencement: Sch. 1 para. 15 in force at Royal Assent
 
-[^key-4674e417936f1ce40815dce9b152917f]: Commencement: Sch. 1 para. 16 in force at Royal Assent
+[^c-4674e417936f1ce40815dce9b152917f]: Commencement: Sch. 1 para. 16 in force at Royal Assent
 
-[^key-a0c411618d851c6b987c541501ac6640]: Commencement: Sch. 1 para. 17 in force at Royal Assent
+[^c-a0c411618d851c6b987c541501ac6640]: Commencement: Sch. 1 para. 17 in force at Royal Assent
 
-[^key-4da815faf568325cb28684cfb42ce6d7]: Commencement: Sch. 1 para. 18 in force at Royal Assent
+[^c-4da815faf568325cb28684cfb42ce6d7]: Commencement: Sch. 1 para. 18 in force at Royal Assent
 
-[^key-989fc07805633b99e627d65c6cdb591b]: Commencement: Sch. 1 para. 19 in force at Royal Assent
+[^c-989fc07805633b99e627d65c6cdb591b]: Commencement: Sch. 1 para. 19 in force at Royal Assent
 
-[^key-224f841396bc1504ce2e6afe2892830d]: Commencement: Sch. 1 para. 20 in force at Royal Assent
+[^c-224f841396bc1504ce2e6afe2892830d]: Commencement: Sch. 1 para. 20 in force at Royal Assent
 
-[^key-29d71c40b99bf49bef97d62dc40c23c3]: Commencement: Sch. 2 para. 1 in force at Royal Assent
+[^c-29d71c40b99bf49bef97d62dc40c23c3]: Commencement: Sch. 2 para. 1 in force at Royal Assent
 
-[^key-96e86da895b3e79afe95d912e5ff4dcf]: Commencement: Sch. 2 para. 2 in force at Royal Assent
+[^c-96e86da895b3e79afe95d912e5ff4dcf]: Commencement: Sch. 2 para. 2 in force at Royal Assent
 
-[^key-2d2cd2c75d1fe4e0b6b8698814dccd84]: Commencement: Sch. 2 para. 3 in force at Royal Assent
+[^c-2d2cd2c75d1fe4e0b6b8698814dccd84]: Commencement: Sch. 2 para. 3 in force at Royal Assent
 
-[^key-799db029c45f98906b025002ef504b18]: Commencement: Sch. 2 para. 4 in force at Royal Assent
+[^c-799db029c45f98906b025002ef504b18]: Commencement: Sch. 2 para. 4 in force at Royal Assent

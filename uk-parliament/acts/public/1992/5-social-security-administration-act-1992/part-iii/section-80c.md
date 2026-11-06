@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80C. Recovery from bank accounts[^key-12eb4a1bdb1aa2e4fe0d9cea0f7f6085]
+## 80C. Recovery from bank accounts[^c-12eb4a1bdb1aa2e4fe0d9cea0f7f6085]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3ZA (recovery from bank accounts) makes provision for a recoverable amo
 
 ## Annotations
 
-[^key-12eb4a1bdb1aa2e4fe0d9cea0f7f6085]: Textual amendment: S. 80C inserted (2.12.2025 but only for the purposes of making regulations, 24.6.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 95(2)](https://www.legislation.gov.uk/ukpga/2025/28/section/95/2), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/b)
+[^c-12eb4a1bdb1aa2e4fe0d9cea0f7f6085]: Textual amendment: S. 80C inserted (2.12.2025 but only for the purposes of making regulations, 24.6.2026 in so far as not already in force) by [Public Authorities (Fraud, Error and Recovery) Act 2025 (c. 28)](https://www.legislation.gov.uk/ukpga/2025/28), [ss. 95(2)](https://www.legislation.gov.uk/ukpga/2025/28/section/95/2), [109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b) (with [s. 105](https://www.legislation.gov.uk/ukpga/2025/28/section/105)); [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Meaning of “custodial sentence”[^key-1192ca957770c26ec7b62a955e9901d6]
+## 222. Meaning of “custodial sentence”[^c-1192ca957770c26ec7b62a955e9901d6]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ This is subject to subsection (3).
 
 ## Annotations
 
-[^key-1192ca957770c26ec7b62a955e9901d6]: Commencement: S. 222 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1192ca957770c26ec7b62a955e9901d6]: Commencement: S. 222 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

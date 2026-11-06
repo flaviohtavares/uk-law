@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 111. Bank liquidator’s duties on vacating office[^key-629cf87a328bb81682fb79f739e26285]
+## 111. Bank liquidator’s duties on vacating office[^c-629cf87a328bb81682fb79f739e26285]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.138 of the 1986 Rules[^f00045]. Ignore paragraph (3).
 
 ## Annotations
 
-[^key-629cf87a328bb81682fb79f739e26285]: Commencement: Rule 111 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-629cf87a328bb81682fb79f739e26285]: Commencement: Rule 111 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00045]: Footnote: Rule 4.138 was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919) and [S.I. 2004/584](https://www.legislation.gov.uk/uksi/2004/584).

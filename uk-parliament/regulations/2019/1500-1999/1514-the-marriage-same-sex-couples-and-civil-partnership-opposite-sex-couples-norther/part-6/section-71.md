@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. State Pension Credit Act (Northern Ireland) 2002[^key-15d78798d5179cd1c98f4696340a3e32]
+## 71. State Pension Credit Act (Northern Ireland) 2002[^c-15d78798d5179cd1c98f4696340a3e32]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ In section 17 of the State Pension Credit Act (Northern Ireland) 2002[^f00130] (
 
 ## Annotations
 
-[^key-15d78798d5179cd1c98f4696340a3e32]: Commencement: Reg. 71 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-15d78798d5179cd1c98f4696340a3e32]: Commencement: Reg. 71 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00130]: Footnote: [2002 c.14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14). The definition of “couple” in section 17(1), and section 17(1A), were inserted by paragraphs 150 and 151 of Schedule 24 to the Civil Partnership Act 2004.

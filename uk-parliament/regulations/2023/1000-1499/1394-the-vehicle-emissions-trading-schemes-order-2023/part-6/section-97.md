@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Failure to make a payment to account for activity in the Trading Schemes[^key-cac10934abd957f89dd605cc80b9a3d2]
+## 97. Failure to make a payment to account for activity in the Trading Schemes[^c-cac10934abd957f89dd605cc80b9a3d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cac10934abd957f89dd605cc80b9a3d2]: Commencement: Art. 97 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-cac10934abd957f89dd605cc80b9a3d2]: Commencement: Art. 97 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

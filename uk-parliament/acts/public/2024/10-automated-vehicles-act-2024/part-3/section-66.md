@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Offences of impeding investigation[^key-1ea198e9e007b7748548c38e7dc12796]
+## 66. Offences of impeding investigation[^c-1ea198e9e007b7748548c38e7dc12796]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ea198e9e007b7748548c38e7dc12796]: Commencement: S. 66 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-1ea198e9e007b7748548c38e7dc12796]: Commencement: S. 66 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

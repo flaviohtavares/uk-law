@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject as follows in this and the next two sections, where an individual is made[^key-9446ad67776388568e13f990eb594993] bankrupt and he has at a relevant time (defined in section 341) given a preference to any person, the trustee of the bankrupt’s estate may apply to the court for an order under this section.
+(1) Subject as follows in this and the next two sections, where an individual is made[^c-9446ad67776388568e13f990eb594993] bankrupt and he has at a relevant time (defined in section 341) given a preference to any person, the trustee of the bankrupt’s estate may apply to the court for an order under this section.
 
 (2) The court shall, on such an application, make such order as it thinks fit for restoring the position to what it would have been if that individual had not given that preference.
 
@@ -49,4 +49,4 @@ summary: ''
 
     S. 340 restricted (24.3.2003) by [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 419(1)-(4)](https://www.legislation.gov.uk/ukpga/2002/29/section/419/1), [458(1)(3)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1/3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (subject to [arts. 3-13](https://www.legislation.gov.uk/uksi/2003/333/article/3) (as amended by [S.I. 2003/531](https://www.legislation.gov.uk/uksi/2003/531), [arts. 3](https://www.legislation.gov.uk/uksi/2003/531/article/3), [4](https://www.legislation.gov.uk/uksi/2003/531/article/4)))
 
-[^key-9446ad67776388568e13f990eb594993]: Textual amendment: Word in s. 340(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 32](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/32); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-9446ad67776388568e13f990eb594993]: Textual amendment: Word in s. 340(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 32](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/32); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

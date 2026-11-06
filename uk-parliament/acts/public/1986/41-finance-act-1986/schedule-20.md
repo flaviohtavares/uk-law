@@ -74,7 +74,7 @@ Section 102.
 - (a) he had not dies and the acts of his personal representatives were his acts; and
 - (b) property taken by another person under his testamentary dispositions or his intestacy (or partial intestacy) were taken under a gift made by him at the time of his death.
 
-### Termination of interests in possession[^key-27912223c9853dc061446284f8f57820]
+### Termination of interests in possession[^c-27912223c9853dc061446284f8f57820]
 
 **4A.** (1) This paragraph applies where—
 
@@ -130,7 +130,7 @@ shall be treated for the purposes of sub-paragraph (1) above as derived from pro
   - (i) it results from a change in circumstances of the donor since the time of the gift, being a change which was unforseen at the time and was not brought about by the donor to receive the benefit of this provision; and
   - (ii) it occurs at a time when the donor has become unable to maintain himself through old age, infirmity or otherwise; and
   - (iii) it represents a reasonable provision by the donee for the care and maintenance of the donor; and
-  - (iv) the donee is a relative of the donor or his spouse or civil partner[^key-f44ef83fa315fd612ae523c83c3c5a69];
+  - (iv) the donee is a relative of the donor or his spouse or civil partner[^c-f44ef83fa315fd612ae523c83c3c5a69];
 - (c) a benefit which the donor obtained by virtue of any associated operations (as defined in section 268 of the 1984 Act) of which the disposal by way of gift is one shall be treated as a benefit to him by contract or otherwise.
 
 (2) Any question whether any property comprised in a gift was at any time enjoyed to the entire exclusion, or virtually to the entire exclusion, of the donor and of the benefit to him shall (so far as that question depends upon the identity of the property) be determind by reference to the property which is at that time treated as property comprised in the gift.
@@ -139,14 +139,14 @@ shall be treated for the purposes of sub-paragraph (1) above as derived from pro
 
 **7.** (1) Where arrangements are entered into under which—
 
-- (a) there is a disposal by way of gift which consists of or includes, or is made in connection with, a policy of insurance on the life of the donor or his spouse or civil partner[^key-b10ff9f74557e6d2924001d7c2619c5e] or on their joint lives, and
+- (a) there is a disposal by way of gift which consists of or includes, or is made in connection with, a policy of insurance on the life of the donor or his spouse or civil partner[^c-b10ff9f74557e6d2924001d7c2619c5e] or on their joint lives, and
 - (b) the benefits which will or may accrue to the donee as a result of the gift vary by reference to benefits accruing to the donor or his spouse or civil partner (or both of them) under that policy or under another policy (whether issued before, at the same time as or after that referred to in paragraph (a) above),
 
 the property comprised in the gift shall be treated for the purposes of the principal section as not enjoyed to the entire exclusion, or virtually to the entire exclusion, of the donor.
 
 (2) In sub-paragraph (1) above—
 
-- (a) the reference in paragraph (a) to a policy on the joint lives of the donor and his spouse or civil partner[^key-3f4b9bb9330af583df123ff84190ddbd] includes a reference to a policy on their joint lives and on the life of the survivor; and
+- (a) the reference in paragraph (a) to a policy on the joint lives of the donor and his spouse or civil partner[^c-3f4b9bb9330af583df123ff84190ddbd] includes a reference to a policy on their joint lives and on the life of the survivor; and
 - (b) the reference in paragraph (b) to the benefits accruing to the donor or his spouse or civil partner (or both of them) includes a reference to benefits which accrue by virtue of the exercise of rights conferred on either or both of them.
 
 ### Agricultural property and business property
@@ -161,7 +161,7 @@ and that property is property subject to a reservation [^c13535131]. . .
 
 (1A)[^c13535141] Where this paragraph applies—
 
-- (a) any question whether, on the material transfer of value, any shares or securities fall within[^c13535151] any of paragraphs (aa) to[^key-accc3c9b9eb37786e424675bef0cd39a] (cc) of section 105(1) of the 1984 Act (certain shares or securities qualifying for relief) shall be determined, subject to the following provisions of this paragraph, as if the shares or securities were owned by the donor and had been owned by him since the disposal by way of gift; and
+- (a) any question whether, on the material transfer of value, any shares or securities fall within[^c13535151] any of paragraphs (aa) to[^c-accc3c9b9eb37786e424675bef0cd39a] (cc) of section 105(1) of the 1984 Act (certain shares or securities qualifying for relief) shall be determined, subject to the following provisions of this paragraph, as if the shares or securities were owned by the donor and had been owned by him since the disposal by way of gift; and
 - (b) subject to paragraph (a), any question whether, on the material transfer of value, relief is available by virtue of Chapter I or Chapter II of Part V of the 1984 Act and, if relief is available by virtue of Chapter II, what is the appropriate percentage of that relief, shall be determined, subject to the following provisions of this paragraph, as if, so far as it is attributable to the property comprised in the gift, that transfer were a transfer of value by the donee.
 
 (2) For the purpose only of determining whether, on the transfer of value which, by virtue of sub-paragraph (1A)(b)[^c13535161] above, the donee is assumed to make, the requirement of section 106 or, as the case may be, section 117 of the 1984 Act (minimum period of ownership or occupation) is fulfilled,—
@@ -185,13 +185,13 @@ and for the purposes only of determining whether, on the transfer of value which
 
 ## Annotations
 
-[^key-27912223c9853dc061446284f8f57820]: Textual amendment: [Sch. 20 para. 4A](https://www.legislation.gov.uk/ukpga/1986/41/schedule/20/paragraph/4A) and cross-heading inserted (retrospective to 22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 20 para. 33(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/3)[(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/4) (with [Sch. 20 para. 33(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/4))
+[^c-27912223c9853dc061446284f8f57820]: Textual amendment: [Sch. 20 para. 4A](https://www.legislation.gov.uk/ukpga/1986/41/schedule/20/paragraph/4A) and cross-heading inserted (retrospective to 22.3.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 20 para. 33(3)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/3)[(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/4) (with [Sch. 20 para. 33(4)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/20/paragraph/33/4))
 
-[^key-f44ef83fa315fd612ae523c83c3c5a69]: Textual amendment: Words in Sch. 20 para. 6(1)(b)(iv) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2005/3229/regulation/46)
+[^c-f44ef83fa315fd612ae523c83c3c5a69]: Textual amendment: Words in Sch. 20 para. 6(1)(b)(iv) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2005/3229/regulation/46)
 
-[^key-b10ff9f74557e6d2924001d7c2619c5e]: Textual amendment: Words in Sch. 20 para. 7(1) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2005/3229/regulation/46)
+[^c-b10ff9f74557e6d2924001d7c2619c5e]: Textual amendment: Words in Sch. 20 para. 7(1) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2005/3229/regulation/46)
 
-[^key-3f4b9bb9330af583df123ff84190ddbd]: Textual amendment: Words in Sch. 20 para. 7(2) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2005/3229/regulation/46)
+[^c-3f4b9bb9330af583df123ff84190ddbd]: Textual amendment: Words in Sch. 20 para. 7(2) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [46](https://www.legislation.gov.uk/uksi/2005/3229/regulation/46)
 
 [^c13535121]: Textual amendment: Words substituted by [Finance Act 1987 (c. 16, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1987/16), [Sch. 8](https://www.legislation.gov.uk/ukpga/1987/16/schedule/8), [para. 18(2)](https://www.legislation.gov.uk/ukpga/1987/16/paragraph/18/2), with effect from 17 March 1987.
 
@@ -201,7 +201,7 @@ and for the purposes only of determining whether, on the transfer of value which
 
 [^c13535151]: Textual amendment: Words in Sch. 20 para. 8(1A)(a) substituted (in relation to transfers of value made on or after 10.3.1992) by [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), [s. 73](https://www.legislation.gov.uk/ukpga/1992/48/section/73), [Sch. 14 paras.7](https://www.legislation.gov.uk/ukpga/1992/48/schedule/14/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/1992/48/schedule/14/paragraph/8), [9](https://www.legislation.gov.uk/ukpga/1992/48/schedule/14/paragraph/9).
 
-[^key-accc3c9b9eb37786e424675bef0cd39a]: Textual amendment: Words in Sch. 20 para. 8(1A)(a) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 12(7)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/12/7), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-accc3c9b9eb37786e424675bef0cd39a]: Textual amendment: Words in Sch. 20 para. 8(1A)(a) substituted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 12(7)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/12/7), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
 [^c13535161]: Textual amendment: Words substituted by [Finance Act 1987 (c. 16, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1987/16), [Sch. 8](https://www.legislation.gov.uk/ukpga/1987/16/schedule/8), [para. 18(4)](https://www.legislation.gov.uk/ukpga/1987/16/paragraph/18/4), with effect from 17 March 1987.
 

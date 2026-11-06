@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Time apportionment[^key-dade7eaeb14935ee244d4babf4bc780c]
+## 26. Time apportionment[^c-dade7eaeb14935ee244d4babf4bc780c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dade7eaeb14935ee244d4babf4bc780c]: Commencement: S. 26 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-dade7eaeb14935ee244d4babf4bc780c]: Commencement: S. 26 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

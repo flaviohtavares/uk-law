@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Discretion as to payment of children’s pensions[^key-1b89ad01dc18b1a633d39275b068b34a]
+## 46. Discretion as to payment of children’s pensions[^c-1b89ad01dc18b1a633d39275b068b34a]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1b89ad01dc18b1a633d39275b068b34a]: Commencement: Reg. 46 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-1b89ad01dc18b1a633d39275b068b34a]: Commencement: Reg. 46 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

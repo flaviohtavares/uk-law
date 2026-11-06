@@ -57,11 +57,11 @@ WHEREAS—
 
 May it therefore please Your Majesty that it may be enacted, and be it enacted, by the Queen's Most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Citation[^key-84241c9f9767b98cabd01aa4fa388ee7]
+## 1. Citation[^c-84241c9f9767b98cabd01aa4fa388ee7]
 
 This Act may be cited as the Monken Hadley Common Act 2022.
 
-## 2. Interpretation[^key-18b56a65bec356291f0b3540cf7ce396]
+## 2. Interpretation[^c-18b56a65bec356291f0b3540cf7ce396]
 
 In this Act—
 
@@ -72,7 +72,7 @@ In this Act—
 - “the Common” means so much of the land that was vested in the Churchwardens under section 5 of the 1777 Act together with other land adjoining it and which in both cases was in their ownership on the date on which the petition for the Bill for this Act was deposited in Parliament;
 - “land” includes any gates and fences or similar structures (without prejudice to Schedule 1 to the Interpretation Act 1978).
 
-## 3. The primary objects of the Trust[^key-a56d6430858c07efe99ff2536694c9b9]
+## 3. The primary objects of the Trust[^c-a56d6430858c07efe99ff2536694c9b9]
 
 (1) On its incorporation as a charitable incorporated organisation, the objects of the Trust must include—
 
@@ -87,7 +87,7 @@ In this Act—
 
 (5) Any alteration to the objects of the Trust or of a transferee requires the written consent of the Charity Commission.
 
-## 4. Transfer of ownership of Common[^key-381e1d4cd68d68e8ef61a21c2026f00f]
+## 4. Transfer of ownership of Common[^c-381e1d4cd68d68e8ef61a21c2026f00f]
 
 (1) On the appointed day—
 
@@ -105,11 +105,11 @@ are transferred to and vest in the Trust free of any trusts established under th
 
 (4) Where the transfer and vesting of the Common or any part of the Common effected by subsection (1) is a registrable disposition under the Land Registration Act 2002, the Trust must apply to the Chief Land Registrar for registration in the register of title of a restriction to reflect section 12(2).
 
-## 5. Ending of statutory incorporation of Churchwardens[^key-d0190123f260acc01fc24721adc2e319]
+## 5. Ending of statutory incorporation of Churchwardens[^c-d0190123f260acc01fc24721adc2e319]
 
 On the appointed day, the Churchwardens shall cease to be incorporated under the 1777 Act and section 115 of the 1777 Act ceases to apply in relation to the Churchwardens.
 
-## 6. Disapplication of provisions of 1777 Act[^key-994fcd39f104f47bb86999aab5d49977]
+## 6. Disapplication of provisions of 1777 Act[^c-994fcd39f104f47bb86999aab5d49977]
 
 On the appointed day, the following provisions cease to have effect in relation to the Common—
 
@@ -126,7 +126,7 @@ On the appointed day, the following provisions cease to have effect in relation 
 - (k) section 129 (limitation of actions);
 - (l) section 130 (general issue may be pleaded to actions).
 
-## 7. Management of Common[^key-3e6a6143b126c677c21236d0f9f2383a]
+## 7. Management of Common[^c-3e6a6143b126c677c21236d0f9f2383a]
 
 (1) On and after the appointed day the Trust shall be responsible for the management of the Common.
 
@@ -148,7 +148,7 @@ On the appointed day, the following provisions cease to have effect in relation 
 
 (5) Nothing in subsection (4) prejudices or affects the exercise of powers under any enactment whereby access to the Common may be regulated or prohibited.
 
-## 8. Easements and other rights[^key-aeb4362499541647ee4447aa9141dc5c]
+## 8. Easements and other rights[^c-aeb4362499541647ee4447aa9141dc5c]
 
 (1) On and after the appointed day the Trust may, over any part of the Common, grant to an owner or occupier of any land adjoining the Common easements, licences or other rights for access (with or without vehicles), maintenance or services to or in connection with the land as the Trust thinks fit.
 
@@ -158,7 +158,7 @@ On the appointed day, the following provisions cease to have effect in relation 
 
 (4) Nothing in this section affects the application of sections 117 to 123 of the Charities Act 2011 (restrictions on dispositions of land) in relation to the Trust.
 
-## 9. Leases[^key-14ea9e90e3028a83e1885fc040660e35]
+## 9. Leases[^c-14ea9e90e3028a83e1885fc040660e35]
 
 (1) On and after the appointed day the Trust may grant or renew a lease of any part of the Common that is not registered common land to an owner or occupier of any land adjoining the Common.
 
@@ -177,7 +177,7 @@ On the appointed day, the following provisions cease to have effect in relation 
 - (a) land which is registered as common land under the Commons Registration Act 1965 and whose registration under that Act has become final; and
 - (b) land which is registered as common land under Part 1 of the Commons Act 2006.
 
-## 10. Regulations[^key-b2d5a3ba5c7794ca0053a2d102ac8e0b]
+## 10. Regulations[^c-b2d5a3ba5c7794ca0053a2d102ac8e0b]
 
 (1) On and after the appointed day, the Trust may make regulations to secure the good management of the Common including for the following purposes—
 
@@ -210,7 +210,7 @@ On the appointed day, the following provisions cease to have effect in relation 
 - (d) amend or revoke other regulations made under that subsection;
 - (e) revoke rules and orders made under section 60 of the 1777 Act.
 
-## 11. Procedure for making regulations[^key-ee88cfb1034987fb071946cabab0c7c8]
+## 11. Procedure for making regulations[^c-ee88cfb1034987fb071946cabab0c7c8]
 
 (1) Section 236 (except subsection (2)) and section 238 of the Local Government Act 1972 (which respectively relate to the procedure for making byelaws by local authorities and provide for the proof of byelaws in legal proceedings) shall apply to regulations made by the Trust under section 10 as they apply to byelaws made by a district council, as if—
 
@@ -224,7 +224,7 @@ On the appointed day, the following provisions cease to have effect in relation 
 
 (2) The confirming authority for the purposes of section 236 is the Secretary of State.
 
-## 12. Further transfers of the Common[^key-20fadde1c9b647df22907a6c68aa5fdf]
+## 12. Further transfers of the Common[^c-20fadde1c9b647df22907a6c68aa5fdf]
 
 (1) Subject to subsections (2), (4) and (6), the Trust may transfer its interest in the Common and any property, rights and liabilities relating to the Common to another person (“a transferee”).
 
@@ -238,7 +238,7 @@ On the appointed day, the following provisions cease to have effect in relation 
 
 (6) Nothing in this section affects the operation of regulations made under section 245 of the Charities Act 2011 (regulations about winding up, insolvency and dissolution of charitable incorporated organisations).
 
-## 13. Appointed day[^key-abc295f5ed819bcb67fc572889f1a3a5]
+## 13. Appointed day[^c-abc295f5ed819bcb67fc572889f1a3a5]
 
 (1) The appointed day is fixed by a decision of the Churchwardens.
 
@@ -248,7 +248,7 @@ On the appointed day, the following provisions cease to have effect in relation 
 
 (4) The publication of a notice under subsection (3) is conclusive evidence of the date of the appointed day in question, and a photocopy or other reproduction, certified by one of the Churchwardens or the clerk to the Churchwardens, of a page or part of a page of the London Gazette containing the notice is conclusive evidence of publication.
 
-## 14. Transitional provision[^key-112747e3bf72dcd3a3bae41ed04b50a3]
+## 14. Transitional provision[^c-112747e3bf72dcd3a3bae41ed04b50a3]
 
 (1) Any rules and orders made under section 60 of the 1777 Act continue to have effect until revoked by regulations made under section 10.
 
@@ -256,30 +256,30 @@ On the appointed day, the following provisions cease to have effect in relation 
 
 ## Annotations
 
-[^key-84241c9f9767b98cabd01aa4fa388ee7]: Commencement: S. 1 in force at Royal Assent
+[^c-84241c9f9767b98cabd01aa4fa388ee7]: Commencement: S. 1 in force at Royal Assent
 
-[^key-18b56a65bec356291f0b3540cf7ce396]: Commencement: S. 2 in force at Royal Assent
+[^c-18b56a65bec356291f0b3540cf7ce396]: Commencement: S. 2 in force at Royal Assent
 
-[^key-a56d6430858c07efe99ff2536694c9b9]: Commencement: S. 3 in force at Royal Assent
+[^c-a56d6430858c07efe99ff2536694c9b9]: Commencement: S. 3 in force at Royal Assent
 
-[^key-381e1d4cd68d68e8ef61a21c2026f00f]: Commencement: S. 4 in force at Royal Assent
+[^c-381e1d4cd68d68e8ef61a21c2026f00f]: Commencement: S. 4 in force at Royal Assent
 
-[^key-d0190123f260acc01fc24721adc2e319]: Commencement: S. 5 in force at Royal Assent
+[^c-d0190123f260acc01fc24721adc2e319]: Commencement: S. 5 in force at Royal Assent
 
-[^key-994fcd39f104f47bb86999aab5d49977]: Commencement: S. 6 in force at Royal Assent
+[^c-994fcd39f104f47bb86999aab5d49977]: Commencement: S. 6 in force at Royal Assent
 
-[^key-3e6a6143b126c677c21236d0f9f2383a]: Commencement: S. 7 in force at Royal Assent
+[^c-3e6a6143b126c677c21236d0f9f2383a]: Commencement: S. 7 in force at Royal Assent
 
-[^key-aeb4362499541647ee4447aa9141dc5c]: Commencement: S. 8 in force at Royal Assent
+[^c-aeb4362499541647ee4447aa9141dc5c]: Commencement: S. 8 in force at Royal Assent
 
-[^key-14ea9e90e3028a83e1885fc040660e35]: Commencement: S. 9 in force at Royal Assent
+[^c-14ea9e90e3028a83e1885fc040660e35]: Commencement: S. 9 in force at Royal Assent
 
-[^key-b2d5a3ba5c7794ca0053a2d102ac8e0b]: Commencement: S. 10 in force at Royal Assent
+[^c-b2d5a3ba5c7794ca0053a2d102ac8e0b]: Commencement: S. 10 in force at Royal Assent
 
-[^key-ee88cfb1034987fb071946cabab0c7c8]: Commencement: S. 11 in force at Royal Assent
+[^c-ee88cfb1034987fb071946cabab0c7c8]: Commencement: S. 11 in force at Royal Assent
 
-[^key-20fadde1c9b647df22907a6c68aa5fdf]: Commencement: S. 12 in force at Royal Assent
+[^c-20fadde1c9b647df22907a6c68aa5fdf]: Commencement: S. 12 in force at Royal Assent
 
-[^key-abc295f5ed819bcb67fc572889f1a3a5]: Commencement: S. 13 in force at Royal Assent
+[^c-abc295f5ed819bcb67fc572889f1a3a5]: Commencement: S. 13 in force at Royal Assent
 
-[^key-112747e3bf72dcd3a3bae41ed04b50a3]: Commencement: S. 14 in force at Royal Assent
+[^c-112747e3bf72dcd3a3bae41ed04b50a3]: Commencement: S. 14 in force at Royal Assent

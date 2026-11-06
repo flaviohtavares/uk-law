@@ -24,7 +24,7 @@ summary: ''
 
 ### Introductory period
 
-**1.**[^key-a629ce3bb69ff2edb2f91c045b2aa387] (1) The introductory period, in relation to an occupation contract which is a periodic standard contract because the first exception in section 11 or 12 applies and because it is within paragraph 3 of Schedule 3, is—
+**1.**[^c-a629ce3bb69ff2edb2f91c045b2aa387] (1) The introductory period, in relation to an occupation contract which is a periodic standard contract because the first exception in section 11 or 12 applies and because it is within paragraph 3 of Schedule 3, is—
 
 - (a) the period of 12 months starting with the introduction date of the contract, or
 - (b) if there is an extension under paragraph 3, the period of 18 months starting with the introduction date of the contract.
@@ -56,7 +56,7 @@ summary: ''
 
 ### Meaning of introduction date where there are previous introductory standard contracts
 
-**2.**[^key-48d40ab720c7b2733d03c31db0b05707] (1) This paragraph applies in relation to an occupation contract which is a periodic standard contract because the first exception in section 11 or 12 applies and because it is within paragraph 3 of Schedule 3 if—
+**2.**[^c-48d40ab720c7b2733d03c31db0b05707] (1) This paragraph applies in relation to an occupation contract which is a periodic standard contract because the first exception in section 11 or 12 applies and because it is within paragraph 3 of Schedule 3 if—
 
 - (a) a contract-holder under the contract (“the current contract”) was previously a contract-holder under one or more introductory standard contracts (“previous contracts”), and
 - (b) the current contract is the immediate successor of a previous contract.
@@ -78,7 +78,7 @@ summary: ''
 
 ### Extending the introductory period
 
-**3.**[^key-a862aae9dd2adaf36adbd45ab823a77a] (1) The landlord may extend the introductory period to the period of 18 months starting with the introduction date of the contract by giving the contract-holder a notice of extension.
+**3.**[^c-a862aae9dd2adaf36adbd45ab823a77a] (1) The landlord may extend the introductory period to the period of 18 months starting with the introduction date of the contract by giving the contract-holder a notice of extension.
 
 (2) The notice of extension must be given to the contract-holder at least eight weeks before the day on which the introductory period would end under paragraph 1(1)(a).
 
@@ -93,38 +93,38 @@ summary: ''
 
 (6) A landlord may take a person's conduct into account under sub-paragraph (5)(b) whether or not the person lives continuously in the dwelling, and whatever the capacity in which the person lives in the dwelling.
 
-(7) The Welsh Ministers may by regulations amend sub-paragraph (2) for the purpose of changing when a notice of extension must be given to a contract-holder[^key-bd6599b56c2ceec78ff4e5359f42390c]....
+(7) The Welsh Ministers may by regulations amend sub-paragraph (2) for the purpose of changing when a notice of extension must be given to a contract-holder[^c-bd6599b56c2ceec78ff4e5359f42390c]....
 
 ### Landlord's review of decision to extend introductory period
 
-**4.** (1)[^key-bd162788714eec0045b209cd8ab68e54] If a landlord gives a notice of extension under paragraph 3, the contract-holder may request that the landlord carries out a review of the decision to give the notice.
+**4.** (1)[^c-bd162788714eec0045b209cd8ab68e54] If a landlord gives a notice of extension under paragraph 3, the contract-holder may request that the landlord carries out a review of the decision to give the notice.
 
-(2)[^key-bd162788714eec0045b209cd8ab68e54] The request must be made to the landlord before the end of the period of 14 days (or such longer period as the landlord may allow in writing) starting with the day on which the landlord gives the contract-holder the notice of extension.
+(2)[^c-bd162788714eec0045b209cd8ab68e54] The request must be made to the landlord before the end of the period of 14 days (or such longer period as the landlord may allow in writing) starting with the day on which the landlord gives the contract-holder the notice of extension.
 
-(3)[^key-bd162788714eec0045b209cd8ab68e54] If the contract-holder requests a review in accordance with sub-paragraph (2), the landlord must carry out the review.
+(3)[^c-bd162788714eec0045b209cd8ab68e54] If the contract-holder requests a review in accordance with sub-paragraph (2), the landlord must carry out the review.
 
-(4)[^key-bd162788714eec0045b209cd8ab68e54] Following a review, the landlord may—
+(4)[^c-bd162788714eec0045b209cd8ab68e54] Following a review, the landlord may—
 
 - (a) confirm the decision to give the notice, or
 - (b) reverse the decision.
 
-(5)[^key-bd162788714eec0045b209cd8ab68e54] The landlord must notify the contract-holder of the outcome of the review before the date on which the introductory period would end under paragraph 1(1)(a).
+(5)[^c-bd162788714eec0045b209cd8ab68e54] The landlord must notify the contract-holder of the outcome of the review before the date on which the introductory period would end under paragraph 1(1)(a).
 
-(6)[^key-bd162788714eec0045b209cd8ab68e54] If the landlord confirms the decision, the notice must—
+(6)[^c-bd162788714eec0045b209cd8ab68e54] If the landlord confirms the decision, the notice must—
 
 - (a) set out the reasons for the confirmation, and
 - (b) inform the contract-holder that he or she has a right to apply for a review in the county court under paragraph 5, and of the time by which the application must be made.
 
-(7)[^key-a448d5152c0a70237b7c31c5617ad384][^key-c2c98d8b2b71c57914dabd7984e6dc62] The Welsh Ministers may prescribe the procedure to be followed in connection with a review under this paragraph.
+(7)[^c-a448d5152c0a70237b7c31c5617ad384][^c-c2c98d8b2b71c57914dabd7984e6dc62] The Welsh Ministers may prescribe the procedure to be followed in connection with a review under this paragraph.
 
-(8)[^key-a448d5152c0a70237b7c31c5617ad384][^key-c2c98d8b2b71c57914dabd7984e6dc62] Regulations under sub-paragraph (7) may, amongst other things—
+(8)[^c-a448d5152c0a70237b7c31c5617ad384][^c-c2c98d8b2b71c57914dabd7984e6dc62] Regulations under sub-paragraph (7) may, amongst other things—
 
 - (a) require the review to be carried out by a person of appropriate seniority who has not been involved in the decision, and
 - (b) set out circumstances in which a contract-holder is entitled to an oral hearing, and whether and by whom he or she may be represented at such a hearing.
 
 ### County court review of decision to extend
 
-**5.**[^key-2abaeef094ceee5976698509c9ce8d82] (1) This paragraph applies if a landlord, following a request for a review made in accordance with paragraph 4(2)—
+**5.**[^c-2abaeef094ceee5976698509c9ce8d82] (1) This paragraph applies if a landlord, following a request for a review made in accordance with paragraph 4(2)—
 
 - (a) gives notice under paragraph 4(5) informing the contract-holder that the landlord has decided to confirm a decision to give a notice of extension under paragraph 3, or
 - (b) fails to give notice in accordance with paragraph 4(5).
@@ -159,7 +159,7 @@ summary: ''
 
 ### Written statement may address secure contract arising at end of introductory standard contract
 
-**6.**[^key-ebf585bac245e7d12a0470861885f88d] (1) Sub-paragraph (2) applies if, before the end of the introductory period, the landlord and the contract-holder have agreed (subject to the provisions of this Act as to the incorporation of fundamental and supplementary provisions) what the terms of the secure contract that may arise at the end of the introductory period are to be.
+**6.**[^c-ebf585bac245e7d12a0470861885f88d] (1) Sub-paragraph (2) applies if, before the end of the introductory period, the landlord and the contract-holder have agreed (subject to the provisions of this Act as to the incorporation of fundamental and supplementary provisions) what the terms of the secure contract that may arise at the end of the introductory period are to be.
 
 (2) A written statement of the introductory standard contract may set out the terms of the secure contract by—
 
@@ -174,7 +174,7 @@ summary: ''
 
 (4) If the occupation date of a secure contract addressed in a relevant written statement changes because the landlord has extended the introductory period in accordance with paragraph 3, the relevant written statement is not incorrect merely because it does not set out the new occupation date.
 
-**7.**[^key-8819da2c11e83a7cb2ca78e5e2b7ab4a] (1) A secure contract addressed in a relevant written statement may be varied by agreement between the landlord and the contract-holder before the occupation date of the secure contract, subject to sub-paragraphs (2) to (5).
+**7.**[^c-8819da2c11e83a7cb2ca78e5e2b7ab4a] (1) A secure contract addressed in a relevant written statement may be varied by agreement between the landlord and the contract-holder before the occupation date of the secure contract, subject to sub-paragraphs (2) to (5).
 
 (2) Section 108(1) to (5) (limit on variation) applies in relation to such a variation.
 
@@ -191,7 +191,7 @@ summary: ''
 
 ### Terms of secure contract which was an introductory standard contract
 
-**8.**[^key-ea35fb48ebaf0d755c098a617598f723] (1) This paragraph applies where an introductory standard contract ends and is replaced with a secure contract because the introductory period has ended, and the landlord has not addressed the secure contract in the written statement of the introductory standard contract in accordance with paragraph 6(2).
+**8.**[^c-ea35fb48ebaf0d755c098a617598f723] (1) This paragraph applies where an introductory standard contract ends and is replaced with a secure contract because the introductory period has ended, and the landlord has not addressed the secure contract in the written statement of the introductory standard contract in accordance with paragraph 6(2).
 
 (2) If the landlord and the contract-holder have agreed what the terms of the secure contract are to be in that event, the terms of the contract are the terms agreed.
 
@@ -205,30 +205,30 @@ summary: ''
 
 ### Landlord's duty to give address at start of contract does not apply in relation to secure contract
 
-**9.**[^key-e5d95f539212cede42a41277fcbbec77] The requirement in section 39(1) (landlord must give contract-holder a contact address at start of contract) does not apply in relation to a secure contract which replaces an introductory standard contract.
+**9.**[^c-e5d95f539212cede42a41277fcbbec77] The requirement in section 39(1) (landlord must give contract-holder a contact address at start of contract) does not apply in relation to a secure contract which replaces an introductory standard contract.
 
 ## Annotations
 
-[^key-a629ce3bb69ff2edb2f91c045b2aa387]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a629ce3bb69ff2edb2f91c045b2aa387]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-48d40ab720c7b2733d03c31db0b05707]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-48d40ab720c7b2733d03c31db0b05707]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/2) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-a862aae9dd2adaf36adbd45ab823a77a]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a862aae9dd2adaf36adbd45ab823a77a]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/3) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-bd6599b56c2ceec78ff4e5359f42390c]: Textual amendment: Words in [Sch. 4 para. 3(7)](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/3/7) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 24](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/24)
+[^c-bd6599b56c2ceec78ff4e5359f42390c]: Textual amendment: Words in [Sch. 4 para. 3(7)](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/3/7) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 6 para. 24](https://www.legislation.gov.uk/asc/2021/3/schedule/6/paragraph/24)
 
-[^key-bd162788714eec0045b209cd8ab68e54]: Commencement: [Sch. 4 para. 4(1)-(6)](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/4/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-bd162788714eec0045b209cd8ab68e54]: Commencement: [Sch. 4 para. 4(1)-(6)](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/4/1) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-a448d5152c0a70237b7c31c5617ad384]: Commencement: Sch. 4 para. 4(7)(8) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
+[^c-a448d5152c0a70237b7c31c5617ad384]: Commencement: Sch. 4 para. 4(7)(8) in force at 5.8.2016 for specified purposes by [S.I. 2016/813](https://www.legislation.gov.uk/wsi/2016/813), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/813/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2016/813/schedule/part/1)
 
-[^key-c2c98d8b2b71c57914dabd7984e6dc62]: Commencement: [Sch. 4 para. 4(7)](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/4/8) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-c2c98d8b2b71c57914dabd7984e6dc62]: Commencement: [Sch. 4 para. 4(7)](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/4/7)[(8)](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/4/8) in force at 1.12.2022 in so far as not already in force by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-2abaeef094ceee5976698509c9ce8d82]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-2abaeef094ceee5976698509c9ce8d82]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/5) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-ebf585bac245e7d12a0470861885f88d]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-ebf585bac245e7d12a0470861885f88d]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-8819da2c11e83a7cb2ca78e5e2b7ab4a]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-8819da2c11e83a7cb2ca78e5e2b7ab4a]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/7) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-ea35fb48ebaf0d755c098a617598f723]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-ea35fb48ebaf0d755c098a617598f723]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/8) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
 
-[^key-e5d95f539212cede42a41277fcbbec77]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/9) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-e5d95f539212cede42a41277fcbbec77]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/anaw/2016/1/schedule/4/paragraph/9) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

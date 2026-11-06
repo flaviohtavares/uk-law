@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Specified provisions in carbon dioxide storage licences[^key-90c7e7becd8bd46c4c064b5b11e98222][^key-02b81b19921677c76a59601c856ab9af]
+## 103. Specified provisions in carbon dioxide storage licences[^c-90c7e7becd8bd46c4c064b5b11e98222][^c-02b81b19921677c76a59601c856ab9af]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90c7e7becd8bd46c4c064b5b11e98222]: Commencement: S. 103 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-90c7e7becd8bd46c4c064b5b11e98222]: Commencement: S. 103 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-02b81b19921677c76a59601c856ab9af]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2023/52/section/103) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/i)
+[^c-02b81b19921677c76a59601c856ab9af]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2023/52/section/103) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/i)

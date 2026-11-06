@@ -32,7 +32,7 @@ summary: ''
 
 Legal Aid And Advice, England And Wales
 
-The Criminal Legal Aid (Remuneration) (Amendment) (No. 2) Regulations 2023 (revoked)[^key-851d50efa712fbeccb87043618f7bed1]
+The Criminal Legal Aid (Remuneration) (Amendment) (No. 2) Regulations 2023 (revoked)[^c-851d50efa712fbeccb87043618f7bed1]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 17th April 2023
 
-[^key-851d50efa712fbeccb87043618f7bed1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-851d50efa712fbeccb87043618f7bed1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-851d50efa712fbeccb87043618f7bed1]
+## 1. Citation, commencement and extent[^c-851d50efa712fbeccb87043618f7bed1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 1 to the Criminal Legal Aid (Remuneration) Regulations 2013[^key-851d50efa712fbeccb87043618f7bed1]
+## 2. Amendment of Schedule 1 to the Criminal Legal Aid (Remuneration) Regulations 2013[^c-851d50efa712fbeccb87043618f7bed1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-851d50efa712fbeccb87043618f7bed1]
+## 3. Application[^c-851d50efa712fbeccb87043618f7bed1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-851d50efa712fbeccb87043618f7bed1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-851d50efa712fbeccb87043618f7bed1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-851d50efa712fbeccb87043618f7bed1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-851d50efa712fbeccb87043618f7bed1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-851d50efa712fbeccb87043618f7bed1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/366) revoked (16.5.2023) by [The Criminal Legal Aid (Remuneration) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/542)](https://www.legislation.gov.uk/uksi/2023/542), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/542/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2023/542/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/542/regulation/4))
+[^c-851d50efa712fbeccb87043618f7bed1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2023/366) revoked (16.5.2023) by [The Criminal Legal Aid (Remuneration) (Amendment) (No. 3) Regulations 2023 (S.I. 2023/542)](https://www.legislation.gov.uk/uksi/2023/542), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/542/regulation/1/b), [2](https://www.legislation.gov.uk/uksi/2023/542/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/542/regulation/4))

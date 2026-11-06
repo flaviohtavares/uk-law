@@ -48,7 +48,7 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 20(1) of the Hill Farming Act 1946[^f00001].
 
-## 1. Citation, commencement and extent[^key-a9f5f0d83bfd58d1953de7e86329d069]
+## 1. Citation, commencement and extent[^c-a9f5f0d83bfd58d1953de7e86329d069]
 
 (1) These Regulations may be cited as the Heather and Grass etc. Burning (England) (Amendment) Regulations 2025.
 
@@ -56,11 +56,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales.
 
-## 2. Amendments to the Heather and Grass etc. Burning (England) Regulations 2021[^key-584fcb65941d1b642e72e71a1bd7c256]
+## 2. Amendments to the Heather and Grass etc. Burning (England) Regulations 2021[^c-584fcb65941d1b642e72e71a1bd7c256]
 
 The Heather and Grass etc. Burning (England) Regulations 2021[^f00002] are amended in accordance with regulations 3 to 5.
 
-## 3. Amendments to regulation 2[^key-8d0e2f80f88b1e692641463460c6ef31]
+## 3. Amendments to regulation 2[^c-8d0e2f80f88b1e692641463460c6ef31]
 
 In regulation 2 (interpretation)—
 
@@ -69,7 +69,7 @@ In regulation 2 (interpretation)—
 - (b) omit the definition of “designated site”;
 - (c) in the definition of “upland area”, for ““Map of Upland Area in England”” substitute ““Less Favoured Areas (England)”, dated 21 August 2025,”.
 
-## 4. Amendments to regulation 3[^key-af128c4addb7ede49163dbb609acabe9]
+## 4. Amendments to regulation 3[^c-af128c4addb7ede49163dbb609acabe9]
 
 In regulation 3 (prohibition of burning on peat over 40cm deep except under licence)—
 
@@ -78,7 +78,7 @@ In regulation 3 (prohibition of burning on peat over 40cm deep except under lice
   - (i) for “designated site” substitute “site which falls within a less favoured area”;
   - (ii) for “40” substitute “30”.
 
-## 5. Amendments to regulation 4[^key-b26fff6c7cdf11c4bfe4937af18d3922]
+## 5. Amendments to regulation 4[^c-b26fff6c7cdf11c4bfe4937af18d3922]
 
 In regulation 4 (licensing of burning), in paragraph (4)—
 
@@ -117,16 +117,16 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00001]: Footnote: [1946 c. 73](https://www.legislation.gov.uk/ukpga/1946/73). Section 20(1) was amended by section 1 of the Hill Farming Act [1985 (c. 32)](https://www.legislation.gov.uk/ukpga/1985/32) and [S.I. 1955/554](https://www.legislation.gov.uk/uksi/1955/554). The functions of the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State by virtue of [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
 
-[^key-a9f5f0d83bfd58d1953de7e86329d069]: Commencement: Reg. 1 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)
+[^c-a9f5f0d83bfd58d1953de7e86329d069]: Commencement: Reg. 1 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)
 
-[^key-584fcb65941d1b642e72e71a1bd7c256]: Commencement: Reg. 2 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)
+[^c-584fcb65941d1b642e72e71a1bd7c256]: Commencement: Reg. 2 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2021/158](https://www.legislation.gov.uk/uksi/2021/158).
 
-[^key-8d0e2f80f88b1e692641463460c6ef31]: Commencement: Reg. 3 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)
+[^c-8d0e2f80f88b1e692641463460c6ef31]: Commencement: Reg. 3 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)
 
 [^f00003]: Footnote: This map is available at https://www.gov.uk/guidance/heather-and-grass-burning-apply-for-a-licence#check-burn-area-LFA. The map may be inspected upon application to the Department for Environment, Food and Rural Affairs at 2 Marsham Street, London, SW1P 4DF.
 
-[^key-af128c4addb7ede49163dbb609acabe9]: Commencement: Reg. 4 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)
+[^c-af128c4addb7ede49163dbb609acabe9]: Commencement: Reg. 4 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)
 
-[^key-b26fff6c7cdf11c4bfe4937af18d3922]: Commencement: Reg. 5 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)
+[^c-b26fff6c7cdf11c4bfe4937af18d3922]: Commencement: Reg. 5 in force at 30.9.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1000/regulation/1/2)

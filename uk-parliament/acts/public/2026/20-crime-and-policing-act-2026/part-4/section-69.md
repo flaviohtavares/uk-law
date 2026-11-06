@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Secretary of State guidance[^key-4a062e2a4ccc71118df730cdd83ffd5a]
+## 69. Secretary of State guidance[^c-4a062e2a4ccc71118df730cdd83ffd5a]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ in relation to Scotland.
 
 ## Annotations
 
-[^key-4a062e2a4ccc71118df730cdd83ffd5a]: Commencement: S. 69 in force at Royal Assent, see [s. 255(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/b)
+[^c-4a062e2a4ccc71118df730cdd83ffd5a]: Commencement: S. 69 in force at Royal Assent, see [s. 255(2)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Duty to ensure registered office at appropriate address[^c20601431][^c20616211][^key-cc68dea76ef459984a4ce0241468c2d8]
+## 86. Duty to ensure registered office at appropriate address[^c20601431][^c20616211][^c-cc68dea76ef459984a4ce0241468c2d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c20616211]: Modification: S. 86 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/5) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-cc68dea76ef459984a4ce0241468c2d8]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/2006/46/section/86) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/28/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/v)
+[^c-cc68dea76ef459984a4ce0241468c2d8]: Textual amendment: [S. 86](https://www.legislation.gov.uk/ukpga/2006/46/section/86) substituted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 28(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/28/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/v)

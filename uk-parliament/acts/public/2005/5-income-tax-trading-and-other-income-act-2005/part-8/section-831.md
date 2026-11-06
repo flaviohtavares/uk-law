@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 831. Claims for relevant foreign income to be charged on the remittance basis[^key-30e3835209fe233eac5931eca6c3f502]
+## 831. Claims for relevant foreign income to be charged on the remittance basis[^c-30e3835209fe233eac5931eca6c3f502]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30e3835209fe233eac5931eca6c3f502]: Textual amendment: [S. 831](https://www.legislation.gov.uk/ukpga/2005/5/section/831) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 52](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/52)
+[^c-30e3835209fe233eac5931eca6c3f502]: Textual amendment: [S. 831](https://www.legislation.gov.uk/ukpga/2005/5/section/831) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 52](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/52)

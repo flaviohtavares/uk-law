@@ -30,7 +30,7 @@ summary: ''
 - (b) an order under section 151 (power to amend list of public authorities for the purposes of the public sector equality duty);
 - (c) regulations under section 153 or 154(2) (public sector equality duty: powers to impose specific duties);
 - (d) regulations under section 155(5) that amend an Act of Parliament or an Act or Measure of the National Assembly for Wales (public sector equality duty: power to modify or remove specific duties);
-- (e)[^key-a8b532a37dc918bf189e95b6a2c84043] regulations under paragraph 6, 6A or 6F of Schedule 17 (tribunal procedure, case friends and capacity of parents and persons over compulsory school age).
+- (e)[^c-a8b532a37dc918bf189e95b6a2c84043] regulations under paragraph 6, 6A or 6F of Schedule 17 (tribunal procedure, case friends and capacity of parents and persons over compulsory school age).
 
 (4) But a statutory instrument is not subject to the affirmative procedure by virtue of subsection (2) merely because it contains an order under section 151 that provides for—
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8b532a37dc918bf189e95b6a2c84043]: Textual amendment: [S. 209(3)(e)](https://www.legislation.gov.uk/ukpga/2010/15/section/209/3/e) inserted (2.11.2020 for specified purposes, 1.9.2021 in so far as not already in force) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/19/4); [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(n)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/n); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxiii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxiii)
+[^c-a8b532a37dc918bf189e95b6a2c84043]: Textual amendment: [S. 209(3)(e)](https://www.legislation.gov.uk/ukpga/2010/15/section/209/3/e) inserted (2.11.2020 for specified purposes, 1.9.2021 in so far as not already in force) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 19(4)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/19/4); [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(n)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/n); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(xxxiii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/xxxiii)

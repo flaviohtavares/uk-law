@@ -28,7 +28,7 @@ summary: ''
   - (i) a participator in the company, or
   - (ii) an associate of an individual who is such a participator.
 
-(2) There is due from the company, as if it were an amount of corporation tax chargeable on the company for the accounting period in which the loan or advance is made, an amount equal to such percentage of the amount of the loan or advance as corresponds to the dividend upper rate specified in section 8(2) of ITA 2007 for the tax year in which the loan or advance is made[^key-0ddb890dad03976a909319b95ab48c3b] .
+(2) There is due from the company, as if it were an amount of corporation tax chargeable on the company for the accounting period in which the loan or advance is made, an amount equal to such percentage of the amount of the loan or advance as corresponds to the dividend upper rate specified in section 8(2) of ITA 2007 for the tax year in which the loan or advance is made[^c-0ddb890dad03976a909319b95ab48c3b] .
 
 (3) Tax due under this section in relation to a loan or advance is due and payable in accordance with section 59D of TMA 1970 on the day following the end of the period of 9 months from the end of the accounting period in which the loan or advance was made.
 
@@ -58,4 +58,4 @@ In such a case, the close company is to be treated as making a loan of an amount
 
 [^M_F_f83f5482-3c75-43a9-ffd2-391cd9996ff1]: Textual amendment: S. 455(1) substituted (with retrospective effect in accordance with [Sch. 30 para. 3(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/3/2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 30 para. 3(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/3/1)
 
-[^key-0ddb890dad03976a909319b95ab48c3b]: Textual amendment: Words in [s. 455(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/455/2) substituted (with effect in accordance with s. 50(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/50/1)
+[^c-0ddb890dad03976a909319b95ab48c3b]: Textual amendment: Words in [s. 455(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/455/2) substituted (with effect in accordance with s. 50(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 50(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/50/1)

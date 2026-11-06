@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Insurance against default of officers.[^key-8b6df37dcebb004c3d44ff7f6dec9f57]
+## 45. Insurance against default of officers.[^c-8b6df37dcebb004c3d44ff7f6dec9f57]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ insure against risks of loss to the council arising from default in the faithful
 
 ## Annotations
 
-[^key-8b6df37dcebb004c3d44ff7f6dec9f57]: Modification: [S. 45](https://www.legislation.gov.uk/apni/1972/9/section/45) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)
+[^c-8b6df37dcebb004c3d44ff7f6dec9f57]: Modification: [S. 45](https://www.legislation.gov.uk/apni/1972/9/section/45) applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)

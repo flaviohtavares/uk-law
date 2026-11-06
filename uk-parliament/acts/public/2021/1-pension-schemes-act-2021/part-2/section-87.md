@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Continuity option 1: discharge of liabilities and winding up[^c24481121][^key-8c68181e511c22d5ba55019c2a2548cf]
+## 87. Continuity option 1: discharge of liabilities and winding up[^c24481121][^c-8c68181e511c22d5ba55019c2a2548cf]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) quantify, in the case of each beneficiary, the amount that represents the value of the beneficiary's accrued rights to benefits under the scheme;
 - (b) formulate a proposal for discharging the scheme's liability to each beneficiary in respect of those rights, in one of the ways set out in subsection (2);
-- (c) notify the following[^key-c62a1175892c5e16600525f1289dc884] of the proposal and of such other matters as may be specified in regulations made by the Department—[^key-4276e57ccd687fbb60dd34274f3d3b85]
+- (c) notify the following[^c-c62a1175892c5e16600525f1289dc884] of the proposal and of such other matters as may be specified in regulations made by the Department—[^c-4276e57ccd687fbb60dd34274f3d3b85]
   - (i) each employer,
   - (ii) each beneficiary, and
   - (iii) where the scheme is a single or connected employer scheme, each relevant former employer.
@@ -85,8 +85,8 @@ summary: ''
 
 [^c24481121]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2021/1/section/87) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-8c68181e511c22d5ba55019c2a2548cf]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2021/1/section/87) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-8c68181e511c22d5ba55019c2a2548cf]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2021/1/section/87) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
 
-[^key-c62a1175892c5e16600525f1289dc884]: Textual amendment: Words in [s. 87(1)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/87/1/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/17/2/a)
+[^c-c62a1175892c5e16600525f1289dc884]: Textual amendment: Words in [s. 87(1)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/87/1/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [17(2)(a)](https://www.legislation.gov.uk/nisr/2026/151/regulation/17/2/a)
 
-[^key-4276e57ccd687fbb60dd34274f3d3b85]: Textual amendment: Words in [s. 87(1)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/87/1/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/17/2/b)
+[^c-4276e57ccd687fbb60dd34274f3d3b85]: Textual amendment: Words in [s. 87(1)(c)](https://www.legislation.gov.uk/ukpga/2021/1/section/87/1/c) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [17(2)(b)](https://www.legislation.gov.uk/nisr/2026/151/regulation/17/2/b)

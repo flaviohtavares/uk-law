@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**16.**[^key-70b8a8fff29dcec7eeace20131e97f18] In Part 40—
+**16.**[^c-70b8a8fff29dcec7eeace20131e97f18] In Part 40—
 
 - (a) in the table of contents to this Part—
   - (i) after the entry for rule 40.8, insert—
@@ -190,7 +190,7 @@ summary: ''
 
 ## Annotations
 
-[^key-70b8a8fff29dcec7eeace20131e97f18]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2014/407/rule/16) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-70b8a8fff29dcec7eeace20131e97f18]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2014/407/rule/16) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
 
 [^f00005]: Footnote: [1984 c.28](https://www.legislation.gov.uk/ukpga/1984/28). Section 72 is amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5), and Schedule 9, Part 1, paragraph 10(1)(b).
 

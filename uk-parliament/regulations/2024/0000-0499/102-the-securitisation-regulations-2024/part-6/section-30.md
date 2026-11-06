@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Temporary withdrawal of registration to provide third party verification service: procedure[^key-ddd3273033c484ada92c1d0d6eecdad3]
+## 30. Temporary withdrawal of registration to provide third party verification service: procedure[^c-ddd3273033c484ada92c1d0d6eecdad3]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ it must give the third party verifier written notice of its decision.
 
 ## Annotations
 
-[^key-ddd3273033c484ada92c1d0d6eecdad3]: Commencement: Reg. 30 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-ddd3273033c484ada92c1d0d6eecdad3]: Commencement: Reg. 30 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

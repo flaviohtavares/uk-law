@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Authority to survey and investigate the land[^key-18d36827be9b6347b940ac3e902197f5]
+## 15. Authority to survey and investigate the land[^c-18d36827be9b6347b940ac3e902197f5]
 
 *Extent: E+W+S*
 
@@ -45,6 +45,6 @@ but such consent must not be unreasonably withheld.
 
 ## Annotations
 
-[^key-18d36827be9b6347b940ac3e902197f5]: Commencement: Art. 15 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-18d36827be9b6347b940ac3e902197f5]: Commencement: Art. 15 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
 [^f00018]: Footnote: The functions of the Lands Tribunal under the 1961 Act are transferred to the Upper Tribunal under the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).

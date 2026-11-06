@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Change of name of ITA[^key-ae953848a92fd253f2a01f9d00addff7][^key-9b1433bf9302b95e372c3e818fa00903]
+## 97. Change of name of ITA[^c-ae953848a92fd253f2a01f9d00addff7][^c-9b1433bf9302b95e372c3e818fa00903]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ae953848a92fd253f2a01f9d00addff7]: Commencement: S. 97 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-ae953848a92fd253f2a01f9d00addff7]: Commencement: S. 97 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-9b1433bf9302b95e372c3e818fa00903]: Modification: S. 97 applied (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 104(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/104/4), [148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-9b1433bf9302b95e372c3e818fa00903]: Modification: S. 97 applied (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 104(4)](https://www.legislation.gov.uk/ukpga/2009/20/section/104/4), [148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)

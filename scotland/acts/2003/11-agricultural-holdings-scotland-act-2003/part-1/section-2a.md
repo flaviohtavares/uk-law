@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2A. Conversion from 1991 Act tenancy to modern limited duration tenancy[^key-d799f4396a063dae2786774d85e617a4]
+## 2A. Conversion from 1991 Act tenancy to modern limited duration tenancy[^c-d799f4396a063dae2786774d85e617a4]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ were the tenant quitting the holding as a result of the termination of the tenan
 
 ## Annotations
 
-[^key-d799f4396a063dae2786774d85e617a4]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/asp/2003/11/section/2A) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 90(3)](https://www.legislation.gov.uk/asp/2016/18/section/90/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3))
+[^c-d799f4396a063dae2786774d85e617a4]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/asp/2003/11/section/2A) inserted (30.11.2017) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 90(3)](https://www.legislation.gov.uk/asp/2016/18/section/90/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2017/299/regulation/3))

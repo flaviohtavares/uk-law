@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Replacement of Schedule 2[^key-bccc58a624146c914dc2fe1c00380309]
+## 2. Replacement of Schedule 2[^c-bccc58a624146c914dc2fe1c00380309]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For Schedule 2 to the Companies Act 2006 (specified persons, descriptions of dis
 
 ## Annotations
 
-[^key-bccc58a624146c914dc2fe1c00380309]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1208/article/2) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)
+[^c-bccc58a624146c914dc2fe1c00380309]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1208/article/2) in force at 1.7.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1208/article/1/2)

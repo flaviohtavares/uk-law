@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Requirements[^key-b92a6f39ab3525fd08b97e67a375c8fa]
+## 46. Requirements[^c-b92a6f39ab3525fd08b97e67a375c8fa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 Part 2 (approval of matters specified in requirements) has effect in 
 
 ## Annotations
 
-[^key-b92a6f39ab3525fd08b97e67a375c8fa]: Commencement: Art. 46 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-b92a6f39ab3525fd08b97e67a375c8fa]: Commencement: Art. 46 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

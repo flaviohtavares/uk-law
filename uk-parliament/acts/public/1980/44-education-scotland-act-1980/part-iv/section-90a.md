@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90A. Head teachers: education and training standards[^key-3387e139c4c82bc2ac9d5e389135ef29]
+## 90A. Head teachers: education and training standards[^c-3387e139c4c82bc2ac9d5e389135ef29]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3387e139c4c82bc2ac9d5e389135ef29]: Textual amendment: [S. 90A](https://www.legislation.gov.uk/ukpga/1980/44/section/90A) inserted (1.1.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 28(1)](https://www.legislation.gov.uk/asp/2016/8/section/28/1), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)
+[^c-3387e139c4c82bc2ac9d5e389135ef29]: Textual amendment: [S. 90A](https://www.legislation.gov.uk/ukpga/1980/44/section/90A) inserted (1.1.2017) by [Education (Scotland) Act 2016 (asp 8)](https://www.legislation.gov.uk/asp/2016/8), [ss. 28(1)](https://www.legislation.gov.uk/asp/2016/8/section/28/1), [33(2)](https://www.legislation.gov.uk/asp/2016/8/section/33/2); [S.S.I. 2016/386](https://www.legislation.gov.uk/ssi/2016/386), [reg. 2](https://www.legislation.gov.uk/ssi/2016/386/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/386/schedule)

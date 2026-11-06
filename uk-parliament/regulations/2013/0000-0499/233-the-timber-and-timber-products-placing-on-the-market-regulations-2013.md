@@ -50,7 +50,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and interpretation[^key-b456443d6d6999b14079d08f5ccabcd4]
+### 1. Title, commencement and interpretation[^c-b456443d6d6999b14079d08f5ccabcd4]
 
 (1) These Regulations may be cited as the Timber and Timber Products (Placing on the Market) Regulations 2013.
 
@@ -73,21 +73,21 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 (4) Terms used in these Regulations that are also used in the Timber Regulation or the Implementing Regulation have the meaning they bear in those Regulations.
 
-### 2 (Extent: E+W+S) (affected by repeal, see note). Competent authority[^key-03780c50af9c9dd57b5bca5d5ea77c85][^key-6c5ec64a9daf4941a93698d45f58138a]
+### 2 (Extent: E+W+S) (affected by repeal, see note). Competent authority[^c-03780c50af9c9dd57b5bca5d5ea77c85][^c-6c5ec64a9daf4941a93698d45f58138a]
 
-The Secretary of State is the competent authority for the purposes of— *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-6c5ec64a9daf4941a93698d45f58138a]
+The Secretary of State is the competent authority for the purposes of— *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-6c5ec64a9daf4941a93698d45f58138a]
 
-- (a (Extent: E+W+S) (affected by repeal, see note))[^key-6c5ec64a9daf4941a93698d45f58138a] the Timber Regulation; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-6c5ec64a9daf4941a93698d45f58138a]
-- (b (Extent: E+W+S) (affected by repeal, see note))[^key-6c5ec64a9daf4941a93698d45f58138a] Commission Delegated Regulation ( *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-6c5ec64a9daf4941a93698d45f58138a]EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-6c5ec64a9daf4941a93698d45f58138a]) No 363/2012 on the procedural rules for the recognition and withdrawal of recognition of monitoring organisations as provided for in the Timber Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-6c5ec64a9daf4941a93698d45f58138a][^f00006]; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-6c5ec64a9daf4941a93698d45f58138a]
-- (c (Extent: E+W+S) (affected by repeal, see note))[^key-6c5ec64a9daf4941a93698d45f58138a] the Implementing Regulation. *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-6c5ec64a9daf4941a93698d45f58138a]
+- (a (Extent: E+W+S) (affected by repeal, see note))[^c-6c5ec64a9daf4941a93698d45f58138a] the Timber Regulation; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-6c5ec64a9daf4941a93698d45f58138a]
+- (b (Extent: E+W+S) (affected by repeal, see note))[^c-6c5ec64a9daf4941a93698d45f58138a] Commission Delegated Regulation ( *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-6c5ec64a9daf4941a93698d45f58138a]EU *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-6c5ec64a9daf4941a93698d45f58138a]) No 363/2012 on the procedural rules for the recognition and withdrawal of recognition of monitoring organisations as provided for in the Timber Regulation *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-6c5ec64a9daf4941a93698d45f58138a][^f00006]; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-6c5ec64a9daf4941a93698d45f58138a]
+- (c (Extent: E+W+S) (affected by repeal, see note))[^c-6c5ec64a9daf4941a93698d45f58138a] the Implementing Regulation. *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-6c5ec64a9daf4941a93698d45f58138a]
 
-### 3. Inspectors[^key-7862cb715a109e7bcf60f5a9d5239d29]
+### 3. Inspectors[^c-7862cb715a109e7bcf60f5a9d5239d29]
 
 The Secretary of State may authorise in writing a person (an “inspector”) to carry out inspections for the purposes of enforcing the Timber Regulation and the Implementing Regulation.
 
 ## PART 2 — Offences
 
-### 4. Offences[^key-0d06382e340bca4a29fa224ac1dea06e]
+### 4. Offences[^c-0d06382e340bca4a29fa224ac1dea06e]
 
 It is an offence to fail to comply with—
 
@@ -99,7 +99,7 @@ It is an offence to fail to comply with—
 - (f) regulation 10 (obstruction of an inspector); or
 - (g) a notice of remedial actions.
 
-### 5. Due diligence defence[^key-236113f94c2ce9b4793909ed285c4f9a]
+### 5. Due diligence defence[^c-236113f94c2ce9b4793909ed285c4f9a]
 
 (1) In proceedings for an offence under regulation 4(a) or (b), it is a defence for a person (“A”) to show that A made proper use of a due diligence system.
 
@@ -122,7 +122,7 @@ unless A has served a notice on the person bringing the proceedings in accordanc
 - (a) to the steps that A took and those which might reasonably have been taken for the purpose of verifying the information; and
 - (b) to whether A had any reason to disbelieve the information.
 
-### 6. Offences by bodies corporate, partnerships and unincorporated associations[^key-fb09b2c9bf2ff08171752b786f615dfa]
+### 6. Offences by bodies corporate, partnerships and unincorporated associations[^c-fb09b2c9bf2ff08171752b786f615dfa]
 
 (1) Proceedings for an offence under these Regulations alleged to have been committed by a partnership or unincorporated association may be brought against the partnership or association in the name of the partnership or association.
 
@@ -160,7 +160,7 @@ that officer or member, as well as the association, is guilty of the offence and
 
 ## PART 3 — Enforcement
 
-### 7. Powers of entry[^key-86c94325513716b9f33bd5f3a4d41ee1]
+### 7. Powers of entry[^c-86c94325513716b9f33bd5f3a4d41ee1]
 
 (1) An inspector may, on serving reasonable notice, enter premises at any reasonable hour, except premises used wholly or mainly as a private dwelling house, for the purpose of enforcing the Timber Regulation and the Implementing Regulation.
 
@@ -195,7 +195,7 @@ that officer or member, as well as the association, is guilty of the offence and
 
 - (a) be accompanied by—
   - (i) such other persons as the inspector considers necessary,
-  - (ii (Extent: E+W+S) (affected by repeal, see note))[^key-35cc0ffa506566ddd4f83fa951176479] any representative of the European Commission; *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-35cc0ffa506566ddd4f83fa951176479] and
+  - (ii (Extent: E+W+S) (affected by repeal, see note))[^c-35cc0ffa506566ddd4f83fa951176479] any representative of the European Commission; *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-35cc0ffa506566ddd4f83fa951176479] and
 - (b) bring on to the premises such equipment as the inspector considers necessary.
 
 (10) An inspector entering any premises which are unoccupied or from which the occupier is temporarily absent must leave them as effectively secured against unauthorised entry as they were before entry.
@@ -207,7 +207,7 @@ that officer or member, as well as the association, is guilty of the offence and
 - (a) in Scotland, a reference to a justice of the peace means a sheriff, and the reference to sworn information in writing is a reference to evidence on oath; and
 - (b) in Northern Ireland, a reference to a justice of the peace is a reference to a lay magistrate, and the reference to sworn information in writing is a reference to a sworn complaint in writing.
 
-### 8. Powers of inspection[^key-400c6db6af32beb435c90b80413379c8]
+### 8. Powers of inspection[^c-400c6db6af32beb435c90b80413379c8]
 
 (1) An inspector who has entered premises in exercise of a power under regulation 7 may—
 
@@ -228,7 +228,7 @@ that officer or member, as well as the association, is guilty of the offence and
 - (b) timber; and
 - (c) documents, records or other information.
 
-### 9. Powers of seizure[^key-291b41a3dcf10ab9b5c2b68490226bdc]
+### 9. Powers of seizure[^c-291b41a3dcf10ab9b5c2b68490226bdc]
 
 (1) An inspector may seize and remove any timber where the inspector has reasonable grounds for believing that an offence under regulation 4(a) has been committed.
 
@@ -267,7 +267,7 @@ that officer or member, as well as the association, is guilty of the offence and
 
 (11) In Scotland proceedings are by summary application before a sheriff.
 
-### 10. Obstruction of an inspector[^key-11decfca72e3e6e5c4e9096d5a0c6973]
+### 10. Obstruction of an inspector[^c-11decfca72e3e6e5c4e9096d5a0c6973]
 
 Where an inspector exercises a power under these Regulations, no person may—
 
@@ -279,7 +279,7 @@ Where an inspector exercises a power under these Regulations, no person may—
   - (i) a requirement to stop under regulation 7(11), or
   - (ii) a notice under paragraph (4) or (7)(c), or order under paragraph (6)(b), of regulation 9.
 
-### 11. Notice of remedial actions[^key-1200ad811b28f72743ddcf12c7ad2556]
+### 11. Notice of remedial actions[^c-1200ad811b28f72743ddcf12c7ad2556]
 
 An inspector who has reasonable grounds for believing that any person has committed an offence under regulation 4(b) or (c) may serve a notice (a “notice of remedial actions”) on the person that—
 
@@ -288,7 +288,7 @@ An inspector who has reasonable grounds for believing that any person has commit
 - (c) specifies the measures that, in the inspector’s opinion, the person must take in order to secure compliance with Article 4(2) (obligation to exercise due diligence) or Article 4(3) (obligation to maintain and evaluate due diligence system) of the Timber Regulation; and
 - (d) requires the person to take those measures, or measures at least equivalent to them, within the period (being not less than 14 days) specified in the notice.
 
-### 12. Appeals against notice of remedial actions[^key-6936626e3c6dbe91ddaaeb9d2d5a186d]
+### 12. Appeals against notice of remedial actions[^c-6936626e3c6dbe91ddaaeb9d2d5a186d]
 
 (1) A person aggrieved by a notice of remedial actions may appeal to a magistrates’ court or, in Scotland, to the sheriff.
 
@@ -307,7 +307,7 @@ An inspector who has reasonable grounds for believing that any person has commit
 
 (7) On an appeal against a notice of remedial actions, the court may either cancel the notice or confirm it, with or without modification.
 
-### 13. Penalties[^key-64fd845d05031c20213d6be7d510c1a5]
+### 13. Penalties[^c-64fd845d05031c20213d6be7d510c1a5]
 
 (1) A person guilty of an offence under paragraph (a), (b) or (c) of regulation 4 is liable–
 
@@ -343,7 +343,7 @@ within three years from the date of the offence or within one year from the disc
 
 (9) In proceedings in a magistrates’ court in Northern Ireland relating to a notice of remedial actions under regulation 11, the Magistrates’ Courts (Northern Ireland) Order 1981 applies.
 
-### 14. Recovery of expenses of enforcement[^key-d231a68412b92bb07844ba7e13ab2b96]
+### 14. Recovery of expenses of enforcement[^c-d231a68412b92bb07844ba7e13ab2b96]
 
 (1) This regulation applies where a court convicts a person of an offence under regulation 4.
 
@@ -351,14 +351,14 @@ within three years from the date of the offence or within one year from the disc
 
 ## PART 4 — Miscellaneous provisions
 
-### 15. Restrictions on enforcement powers[^key-d9ad6499e0a5cd89fc837799fe104151]
+### 15. Restrictions on enforcement powers[^c-d9ad6499e0a5cd89fc837799fe104151]
 
 Nothing in these Regulations shall be taken as—
 
 - (a) requiring a person to produce any document which that person would be entitled to refuse to produce in any proceedings in any court on the grounds that it is the subject of legal professional privilege or, in Scotland, that it contains a confidential communication made by or to an advocate or solicitor in that capacity; or
 - (b) authorising a person to take possession of any document which is in the possession of a person who would be so entitled.
 
-### 16. Service of notices[^key-617f6de6288405f58b015444c2fe9857]
+### 16. Service of notices[^c-617f6de6288405f58b015444c2fe9857]
 
 (1) Any notice served under these Regulations must be in writing and may be amended, suspended or revoked in writing at any time.
 
@@ -391,7 +391,7 @@ Nothing in these Regulations shall be taken as—
 
 (8) If the name or address of any occupier of premises on whom a notice is to be served under these Regulations cannot, after reasonable inquiry, be ascertained, the notice may be served by leaving it conspicuously affixed to a building or object on the premises.
 
-### 17. Review[^key-cf8e0413f68640ea85fa4c6c2a89e6de]
+### 17. Review[^c-cf8e0413f68640ea85fa4c6c2a89e6de]
 
 (1) The Secretary of State must from time to time—
 
@@ -446,23 +446,23 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: OJ No L 295, 12.11.2010, p. 23.
 
-[^key-b456443d6d6999b14079d08f5ccabcd4]: Commencement: Reg. 1 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-b456443d6d6999b14079d08f5ccabcd4]: Commencement: Reg. 1 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
 [^f00005]: Footnote: OJ No L 177, 7.7.2012, p. 16.
 
-[^key-03780c50af9c9dd57b5bca5d5ea77c85]: Commencement: Reg. 2 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-03780c50af9c9dd57b5bca5d5ea77c85]: Commencement: Reg. 2 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-6c5ec64a9daf4941a93698d45f58138a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/233/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/3/2) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6c5ec64a9daf4941a93698d45f58138a]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/233/regulation/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/3/2) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: OJ No L 115, 27.4.2012, p. 12.
 
-[^key-7862cb715a109e7bcf60f5a9d5239d29]: Commencement: Reg. 3 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-7862cb715a109e7bcf60f5a9d5239d29]: Commencement: Reg. 3 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-0d06382e340bca4a29fa224ac1dea06e]: Commencement: Reg. 4 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-0d06382e340bca4a29fa224ac1dea06e]: Commencement: Reg. 4 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-236113f94c2ce9b4793909ed285c4f9a]: Commencement: Reg. 5 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-236113f94c2ce9b4793909ed285c4f9a]: Commencement: Reg. 5 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-fb09b2c9bf2ff08171752b786f615dfa]: Commencement: Reg. 6 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-fb09b2c9bf2ff08171752b786f615dfa]: Commencement: Reg. 6 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
 [^f00007]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1), (2) and (5) were repealed by the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, Part 2, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71, and Schedule 10.
 
@@ -472,30 +472,30 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00010]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-86c94325513716b9f33bd5f3a4d41ee1]: Commencement: Reg. 7 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-86c94325513716b9f33bd5f3a4d41ee1]: Commencement: Reg. 7 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-35cc0ffa506566ddd4f83fa951176479]: Textual amendment: [Reg. 7(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/233/regulation/7/9/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/3/3) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35cc0ffa506566ddd4f83fa951176479]: Textual amendment: [Reg. 7(9)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/233/regulation/7/9/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Timber and Timber Products and FLEGT (EU Exit) Regulations 2018 (S.I. 2018/1025)](https://www.legislation.gov.uk/uksi/2018/1025), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1025/regulation/3/3) (as amended by [S.I. 2020/1315](https://www.legislation.gov.uk/uksi/2020/1315), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1315/regulation/2/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-400c6db6af32beb435c90b80413379c8]: Commencement: Reg. 8 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-400c6db6af32beb435c90b80413379c8]: Commencement: Reg. 8 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-291b41a3dcf10ab9b5c2b68490226bdc]: Commencement: Reg. 9 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-291b41a3dcf10ab9b5c2b68490226bdc]: Commencement: Reg. 9 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-11decfca72e3e6e5c4e9096d5a0c6973]: Commencement: Reg. 10 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-11decfca72e3e6e5c4e9096d5a0c6973]: Commencement: Reg. 10 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-1200ad811b28f72743ddcf12c7ad2556]: Commencement: Reg. 11 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-1200ad811b28f72743ddcf12c7ad2556]: Commencement: Reg. 11 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-6936626e3c6dbe91ddaaeb9d2d5a186d]: Commencement: Reg. 12 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-6936626e3c6dbe91ddaaeb9d2d5a186d]: Commencement: Reg. 12 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-64fd845d05031c20213d6be7d510c1a5]: Commencement: Reg. 13 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-64fd845d05031c20213d6be7d510c1a5]: Commencement: Reg. 13 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
 [^f00011]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-d231a68412b92bb07844ba7e13ab2b96]: Commencement: Reg. 14 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-d231a68412b92bb07844ba7e13ab2b96]: Commencement: Reg. 14 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-d9ad6499e0a5cd89fc837799fe104151]: Commencement: Reg. 15 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-d9ad6499e0a5cd89fc837799fe104151]: Commencement: Reg. 15 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
-[^key-617f6de6288405f58b015444c2fe9857]: Commencement: Reg. 16 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-617f6de6288405f58b015444c2fe9857]: Commencement: Reg. 16 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
 
 [^f00012]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-cf8e0413f68640ea85fa4c6c2a89e6de]: Commencement: Reg. 17 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)
+[^c-cf8e0413f68640ea85fa4c6c2a89e6de]: Commencement: Reg. 17 in force at 3.3.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/233/regulation/1/2)

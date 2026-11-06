@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 241. Marine licensing: Northern Ireland[^key-d2fa46cc48e5e1a805220d9f4bd0a8de]
+## 241. Marine licensing: Northern Ireland[^c-d2fa46cc48e5e1a805220d9f4bd0a8de]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,8 +31,8 @@ This is subject to subsection (3).
 
 (3) A person appointed under this section does not have the powers referred to in subsection (2) for the purposes of enforcing Part 4 of this Act so far as relating to—
 
-- (a) any activity in Wales, the Welsh inshore region or the Welsh offshore region[^key-ca89a5f6c96a2c575eb9bccb33a409a1] concerning or arising from the exploration for, or production of, petroleum;
-- (aa)[^key-d9f135c7b9ed5f64537e7de985e5acca] any activity in the Welsh offshore region falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc);
+- (a) any activity in Wales, the Welsh inshore region or the Welsh offshore region[^c-ca89a5f6c96a2c575eb9bccb33a409a1] concerning or arising from the exploration for, or production of, petroleum;
+- (aa)[^c-d9f135c7b9ed5f64537e7de985e5acca] any activity in the Welsh offshore region falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc);
 - (b) anything done in the course of taking installation abandonment measures in any other part of the relevant enforcement area, other than Northern Ireland and the Northern Ireland inshore region.
 
 (4) Subject to subsection (9), the powers which a person appointed under this section has for the purposes of enforcing Part 4 of this Act may be exercised—
@@ -78,8 +78,8 @@ changes during the course of the pursuit.
 
 ## Annotations
 
-[^key-d2fa46cc48e5e1a805220d9f4bd0a8de]: Commencement: S. 241 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)
+[^c-d2fa46cc48e5e1a805220d9f4bd0a8de]: Commencement: S. 241 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)
 
-[^key-ca89a5f6c96a2c575eb9bccb33a409a1]: Textual amendment: Words in s. 241(3)(a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(5)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/5/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-ca89a5f6c96a2c575eb9bccb33a409a1]: Textual amendment: Words in s. 241(3)(a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(5)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/5/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
 
-[^key-d9f135c7b9ed5f64537e7de985e5acca]: Textual amendment: S. 241(3)(aa) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(5)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/5/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-d9f135c7b9ed5f64537e7de985e5acca]: Textual amendment: S. 241(3)(aa) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(5)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/5/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)

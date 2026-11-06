@@ -46,22 +46,22 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by paragraph 4(2) of schedule 9 of the Tribunals (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-In accordance with paragraph 4(3) of that schedule, the Scottish Ministers have consulted the President of Tribunals and such other persons as they considered appropriate.[^key-775fd33b6ad0b0d3a88932c8450b6aa0]
+In accordance with paragraph 4(3) of that schedule, the Scottish Ministers have consulted the President of Tribunals and such other persons as they considered appropriate.[^c-775fd33b6ad0b0d3a88932c8450b6aa0]
 
-## 1. Citation and commencement[^key-97c5b89e357ac7c31b4d037bde283768]
+## 1. Citation and commencement[^c-97c5b89e357ac7c31b4d037bde283768]
 
 (1) These Regulations may be cited as the Upper Tribunal for Scotland (Bus Registration Appeals Rules of Procedure) Regulations 2024 and the Rules contained in the schedule may be cited as the Upper Tribunal for Scotland Bus Registration Appeals Rules of Procedure 2024.
 
 (2) These Regulations come into force on 2 December 2024.
 
-## 2. Disapplication of the Upper Tribunal for Scotland Rules 2016[^key-412e308520f459a3a2a5b5c52944d27f]
+## 2. Disapplication of the Upper Tribunal for Scotland Rules 2016[^c-412e308520f459a3a2a5b5c52944d27f]
 
 The Upper Tribunal for Scotland Rules of Procedure 2016[^f00002] do not apply to proceedings before the Upper Tribunal when the Upper Tribunal is exercising functions by virtue of—
 
 - (a) section 39(5A) of the Transport (Scotland) Act 2001[^f00003],
 - (b) regulation 2 of the Public Service Vehicles (Registration of Local Services) (Bus Services Improvement Partnerships Service Standards Decisions) (Appeals) (Scotland) Regulations 2024[^f00004].
 
-## 3. Application of Rules in the schedule[^key-52d00843fb9f180b63c12f0c4d7caff5]
+## 3. Application of Rules in the schedule[^c-52d00843fb9f180b63c12f0c4d7caff5]
 
 The Rules in the schedule of these Regulations apply to all proceedings before the Upper Tribunal when exercising the functions specified in regulation 2.
 
@@ -81,19 +81,19 @@ Regulation 3
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-c58d6f38177363a523d904ff1bdb8ce0]
+#### 1. Interpretation[^c-c58d6f38177363a523d904ff1bdb8ce0]
 
 (1) In these Rules—
 
 - “**the 2014 Act**” means the Tribunals (Scotland) Act 2014[^f00005],
-- “[^key-37e9dac167db5b37bf98c45c5d0c49ec]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024,
+- “[^c-37e9dac167db5b37bf98c45c5d0c49ec]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024,
 - “appeal”, except in Part 7, means an appeal under—
   - (a) section 39(5A) of the Transport (Scotland) Act 2001[^f00006], or
   - (b) regulation 2 of the Public Service Vehicles (Registration of Local Services) (Bus Services Improvement Partnerships Service Standards Decisions) (Appeals) (Scotland) Regulations 2024[^f00007],
 - “**appellant**” means—
   - (a) the person bringing the appeal,
   - (b) a person substituted as an appellant under rule 11 (addition, substitution and removal of parties),
-- “[^key-a099f85324bbec33f810c153fce5d43f]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act,
+- “[^c-a099f85324bbec33f810c153fce5d43f]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act,
 - “**Convention rights**” has the meaning given to it in section 1 of the Human Rights Act 1998[^f00008],
 - “**document**” means anything in which information is recorded in any form,
 - “**electronic communication**” has the meaning given to it by section 15(1) of the Electronic Communications Act 2000[^f00009] and “**electronic signature**” has the same meaning as in section 7 of that Act[^f00010],
@@ -105,7 +105,7 @@ Regulation 3
 - “**practice direction**” means a practice direction issued in terms of section 74 of the 2014 Act,
 - “**the President**” means the President of Tribunals,
 - “**proceedings**” includes, unless indicated otherwise, a part of the proceedings,
-- “[^key-3c1f7b6ed44043413617ac6589543cc6]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights,
+- “[^c-3c1f7b6ed44043413617ac6589543cc6]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights,
 - “**respondent**” means the traffic commissioner,
 - “**review**” means the review provided for by section 43(1) of the 2014 Act,
 - “**review period**” means the time period between an application by a party for a review under rule 31(1), or, as the case may be, the Upper Tribunal’s decision to review a decision under that rule, and the receipt by a party of a notification under rule 31(5),
@@ -122,7 +122,7 @@ the party is presumed to have received the information 48 hours after it is sent
 
 ### PART 2 — Role of the Upper Tribunal
 
-#### 2. Purpose of the Upper Tribunal and overriding objective[^key-e3b947cd9210881d7459a28a3608c08a]
+#### 2. Purpose of the Upper Tribunal and overriding objective[^c-e3b947cd9210881d7459a28a3608c08a]
 
 (1) The Upper Tribunal hears and decides appeals.
 
@@ -150,7 +150,7 @@ the party is presumed to have received the information 48 hours after it is sent
 
 ### PART 3 — Procedure for cases in the Upper Tribunal
 
-#### 3. Notice of appeal[^key-f87d2637a6711a097559e338eb04e345]
+#### 3. Notice of appeal[^c-f87d2637a6711a097559e338eb04e345]
 
 (1) An appeal to the Upper Tribunal is to be made by giving written notice in accordance with paragraphs (2) to (6).
 
@@ -185,7 +185,7 @@ the party is presumed to have received the information 48 hours after it is sent
   - (iii) state why it is said to be in the interests of justice that the time be extended, and
 - (b) unless the Upper Tribunal extends the time for lodging a notice of appeal, the Upper Tribunal may not admit the notice of appeal.
 
-#### 4. Response to the notice of appeal[^key-eedb16230868c1263ee4bfa683f8d1f2]
+#### 4. Response to the notice of appeal[^c-eedb16230868c1263ee4bfa683f8d1f2]
 
 (1) Subject to any order given by the Upper Tribunal, the respondent—
 
@@ -207,7 +207,7 @@ the party is presumed to have received the information 48 hours after it is sent
 
 (5) When the Upper Tribunal receives the documentation or a written response from the respondent it must send a copy of the documentation or written response and any accompanying documents to the appellant and any interested party.
 
-#### 5. Appellant’s reply[^key-5c619187cb0d886472458635b0f689ab]
+#### 5. Appellant’s reply[^c-5c619187cb0d886472458635b0f689ab]
 
 (1) Subject to any order given by the Upper Tribunal, the appellant may provide a written reply to any response provided under rule 4 (response to the notice of appeal).
 
@@ -219,7 +219,7 @@ the party is presumed to have received the information 48 hours after it is sent
 
 ### PART 4 — General Powers and Provisions
 
-#### 6. Delegation to staff[^key-eb0d0c6d3c7c28e1ad23ff5efb68eaeb]
+#### 6. Delegation to staff[^c-eb0d0c6d3c7c28e1ad23ff5efb68eaeb]
 
 (1) Staff of the Scottish Courts and Tribunals Service[^f00014] may, with the approval of the President, carry out functions of a judicial nature permitted or required to be undertaken by the Upper Tribunal, provided that the functions are of a preliminary or an incidental nature.
 
@@ -227,7 +227,7 @@ the party is presumed to have received the information 48 hours after it is sent
 
 (3) Where the Upper Tribunal sends notice of a decision made by a member of staff pursuant to an approval under paragraph (1) to a party, that party may, within the period of 14 days beginning with the day on which the party is presumed to have received the notice, make a written application to the Upper Tribunal for that decision to be considered afresh by a member of the Upper Tribunal.
 
-#### 7. Case management[^key-a1b50c17e3a3751d0c6a9570ae199309]
+#### 7. Case management[^c-a1b50c17e3a3751d0c6a9570ae199309]
 
 (1) Subject to the provisions of the 2014 Act, these Rules and any practice direction given by the President, the Upper Tribunal may regulate its own procedure.
 
@@ -257,7 +257,7 @@ the party is presumed to have received the information 48 hours after it is sent
   - (ii) the Upper Tribunal considers that the other court or tribunal is a more appropriate forum for the determination of the case,
 - (n) suspend the effect of its own decision pending an appeal of that decision.
 
-#### 7A. Compatibility question under the 2024 Act - raising, intimation and notice[^key-90be28cc4df072203986fc9940b878c6]
+#### 7A. Compatibility question under the 2024 Act - raising, intimation and notice[^c-90be28cc4df072203986fc9940b878c6]
 
 (1) This rule applies to—
 
@@ -301,7 +301,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (11) Where a relevant authority does not take part as a party to proceedings and that relevant authority requests to be notified of the outcome of proceedings in respect of the compatibility question, including regarding any subsequent appeal which relates to the determination of the compatibility question, the Upper Tribunal must notify the relevant authority of this as soon as practicable.
 
-#### 8. Procedure for applying for and giving orders[^key-f1cb90aedced6dc462931beebbd73f92]
+#### 8. Procedure for applying for and giving orders[^c-f1cb90aedced6dc462931beebbd73f92]
 
 (1) The Upper Tribunal may give an order on the application of one or more of the parties or on its own initiative.
 
@@ -316,7 +316,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (5) The Upper Tribunal must send written notice of any order to each party to the case.
 
-#### 9. Failure to comply with rules etc.[^key-c5b7545e6dc93cb6ec9c458ed8d63808]
+#### 9. Failure to comply with rules etc.[^c-c5b7545e6dc93cb6ec9c458ed8d63808]
 
 (1) An irregularity resulting from a failure to comply with any requirement in these Rules, a practice direction or an order, does not of itself render void the proceedings or any step taken in the proceedings.
 
@@ -326,7 +326,7 @@ on the basis of which it is claimed that the compatibility question arises.
 - (b) requiring the failure to be remedied, or
 - (c) exercising its power under rule 10 (dismissal of a party’s case).
 
-#### 10. Dismissal of a party’s case[^key-b8ac2ed029176cf67a02ad066869c7a5]
+#### 10. Dismissal of a party’s case[^c-b8ac2ed029176cf67a02ad066869c7a5]
 
 (1) The Upper Tribunal must dismiss the whole or a part of the proceedings if the Upper Tribunal—
 
@@ -343,7 +343,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (4) The Upper Tribunal must notify each party and interested party in writing that dismissal has taken place.
 
-#### 11. Addition, substitution and removal of parties[^key-2dce15d6bf68c32bd04ec41a76e333cb]
+#### 11. Addition, substitution and removal of parties[^c-2dce15d6bf68c32bd04ec41a76e333cb]
 
 (1) The Upper Tribunal may give an order adding, substituting or removing a party as an appellant or a respondent including where—
 
@@ -358,13 +358,13 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (5) If the Upper Tribunal refuses an application under paragraph (3) it must consider whether to permit the person who made the application to provide submissions or evidence to the Upper Tribunal.
 
-#### 12. Expenses[^key-e42a32a969b0add7b368f403bdc351f3]
+#### 12. Expenses[^c-e42a32a969b0add7b368f403bdc351f3]
 
 (1) Except as provided for in paragraph (2), the Upper Tribunal may not order payment of expenses.
 
 (2) Notwithstanding paragraph (1) and without prejudice to that paragraph, the Upper Tribunal may make an order for expenses as taxed by the Auditor of the Court of Session against a party if that party’s act, omission or other conduct has caused any other party to incur expense which it would be unreasonable for that other party to be expected to pay, with the maximum recoverable expenses being the expenses incurred.
 
-#### 13. Representatives[^key-eacd565b5d60e829c5d28233194e712e]
+#### 13. Representatives[^c-eacd565b5d60e829c5d28233194e712e]
 
 (1) A party may be represented in any proceedings by a legal representative or lay representative whose details must be communicated to the Upper Tribunal prior to any hearing.
 
@@ -379,7 +379,7 @@ on the basis of which it is claimed that the compatibility question arises.
 - (a) it is of the opinion that the lay representative is an unsuitable person to act as a lay representative (whether generally or in the proceedings concerned), or
 - (b) it is satisfied that to do so would be in the interests of the efficient administration of justice.
 
-#### 14. Supporters[^key-c47e392f8bb9842b6a08f1c6dcdc9c52]
+#### 14. Supporters[^c-c47e392f8bb9842b6a08f1c6dcdc9c52]
 
 (1) A party may be accompanied by another person to act as a supporter.
 
@@ -403,7 +403,7 @@ on the basis of which it is claimed that the compatibility question arises.
 - (a) it is of the opinion that the supporter is an unsuitable person to act as a supporter (whether generally or in the proceedings concerned), or
 - (b) it is satisfied that to do so would be in the interests of the efficient administration of justice.
 
-#### 15. Calculating time[^key-4f4fc0d0a8d479a82f3e3bad130d79ad]
+#### 15. Calculating time[^c-4f4fc0d0a8d479a82f3e3bad130d79ad]
 
 (1) An act required by these Rules, a practice direction or an order to be done on or by a particular day must be done by 5 pm on that day.
 
@@ -411,14 +411,14 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (3) In this rule, “**working day**” means any day except a Saturday, a Sunday, or a bank holiday in Scotland under section 1 of the Banking and Financial Dealings Act 1971[^f00015].
 
-#### 16. Signature of documents[^key-037b3943f2f760ab80058cac7edb1503]
+#### 16. Signature of documents[^c-037b3943f2f760ab80058cac7edb1503]
 
 Where any of these Rules requires a document to be signed, that requirement will be satisfied—
 
 - (a) if the signature is written, or
 - (b) in the case of a document which is communicated electronically in accordance with these Rules, by the electronic signature of the individual who is required to sign it.
 
-#### 17. Sending and delivery of documents[^key-04948505b3852153725e16ec43547a37]
+#### 17. Sending and delivery of documents[^c-04948505b3852153725e16ec43547a37]
 
 (1) Any document to be provided to the Upper Tribunal under these Rules, a practice direction or an order must be—
 
@@ -433,11 +433,11 @@ Where any of these Rules requires a document to be signed, that requirement will
 
 (5) The Upper Tribunal and each party and interested party may assume that the address provided by a party or interested party or its representative is and remains the address to which documents should be sent or delivered until receiving written notification to the contrary.
 
-#### 18. Disclosure of documents and information[^key-143bd735d2092777174628057215ef61]
+#### 18. Disclosure of documents and information[^c-143bd735d2092777174628057215ef61]
 
 The Upper Tribunal may at any stage of the proceedings, on its own initiative or on application by one or more of the parties or any interested party, make an order with a view to preventing or restricting the public disclosure of any aspect of those proceedings so far as it considers necessary in the interests of justice or in order to protect the Convention rights of any person.
 
-#### 19. Evidence and submissions[^key-ff0f7df796b9918a6e29733dc590a239]
+#### 19. Evidence and submissions[^c-ff0f7df796b9918a6e29733dc590a239]
 
 (1) Subject to paragraph (2), evidence before the Upper Tribunal may be given orally or by written submission.
 
@@ -460,7 +460,7 @@ The Upper Tribunal may at any stage of the proceedings, on its own initiative or
 
 (4) The Upper Tribunal may consent to a witness giving, or require any witness to give, evidence on oath or affirmation, and may administer an oath or affirmation for that purpose.
 
-#### 20. Citation of witnesses and orders to answer questions or produce documents[^key-1737f08d9a4355a681c030b2ca9e8b0f]
+#### 20. Citation of witnesses and orders to answer questions or produce documents[^c-1737f08d9a4355a681c030b2ca9e8b0f]
 
 (1) On the application of a party or on its own initiative, the Upper Tribunal may—
 
@@ -481,7 +481,7 @@ The Upper Tribunal may at any stage of the proceedings, on its own initiative or
 
 (4) A person making an application referred to in sub-paragraph (2)(c) or (3)(a) must do so as soon as reasonably practicable after receiving notice of the citation or order.
 
-#### 21. Withdrawal[^key-7ae1236c09c8ac70f61be65714ff6539]
+#### 21. Withdrawal[^c-7ae1236c09c8ac70f61be65714ff6539]
 
 (1) The Upper Tribunal may, on such terms as to expenses or otherwise as it thinks fit, consent to any party withdrawing from the proceedings.
 
@@ -496,25 +496,25 @@ The Upper Tribunal may at any stage of the proceedings, on its own initiative or
 
 (5) Where the appellant withdraws the appeal, no further appeal may be made in relation to the same matter.
 
-#### 22. Chairing member[^key-0c568292df68e87e872df20aa355df23]
+#### 22. Chairing member[^c-0c568292df68e87e872df20aa355df23]
 
 Where a matter is to be decided by two or more members of the Upper Tribunal, the President must determine the chairing member.
 
 ### PART 5 — Hearings
 
-#### 23. Decision with or without a hearing[^key-efd1542ef1b11eefff1afb33b87e504f]
+#### 23. Decision with or without a hearing[^c-efd1542ef1b11eefff1afb33b87e504f]
 
 The Upper Tribunal may make any decision without a hearing.
 
-#### 24. Venue for hearings[^key-77ff4bbdad26227ef3d5d0cecc41dab1]
+#### 24. Venue for hearings[^c-77ff4bbdad26227ef3d5d0cecc41dab1]
 
 The Upper Tribunal is to be convened at such time and place in Scotland as the President may determine.
 
-#### 25. Entitlement to attend a hearing[^key-f078b5e3f8580caec48d9252d54e4276]
+#### 25. Entitlement to attend a hearing[^c-f078b5e3f8580caec48d9252d54e4276]
 
 Subject to rules 13(5) (representatives), 14(6) (supporters) and 27(2) (public and private hearings), each party and interested party is entitled to participate at a hearing together with any legal or lay representatives and supporters permitted by rules 13 and 14.
 
-#### 26. Notice of hearings[^key-d73f73ed3c603f3e5642a7020adb5500]
+#### 26. Notice of hearings[^c-d73f73ed3c603f3e5642a7020adb5500]
 
 (1) The Upper Tribunal must give each party and interested party entitled to attend a hearing reasonable notice of the time and place of the hearing (including any adjourned or postponed hearing) and any change to the time and place of the hearing.
 
@@ -523,7 +523,7 @@ Subject to rules 13(5) (representatives), 14(6) (supporters) and 27(2) (public a
 - (a) with the consent of the parties and interested parties, or
 - (b) in urgent or exceptional circumstances.
 
-#### 27. Public and private hearings[^key-394f6a13029279026bcba1a8b6c4f51e]
+#### 27. Public and private hearings[^c-394f6a13029279026bcba1a8b6c4f51e]
 
 (1) Hearings of the Upper Tribunal must be held in public unless the Upper Tribunal, on its own initiative or following an application by a party, decides that it is justified—
 
@@ -537,7 +537,7 @@ Subject to rules 13(5) (representatives), 14(6) (supporters) and 27(2) (public a
 
 (3) When publishing a decision in terms of rule 29(4) (notice of decisions and reasons) following a hearing which was held wholly or partly in private, the Upper Tribunal must, so far as practicable, ensure that the decision does not disclose information which was referred to it in a part of the hearing that was held in private.
 
-#### 28. Hearings in a party’s absence[^key-2fe6645818a1f93b222a61ef7737e880]
+#### 28. Hearings in a party’s absence[^c-2fe6645818a1f93b222a61ef7737e880]
 
 If a party fails to attend a hearing, the Upper Tribunal may proceed with the hearing if the Upper Tribunal—
 
@@ -546,7 +546,7 @@ If a party fails to attend a hearing, the Upper Tribunal may proceed with the he
 
 ### PART 6 — Decisions
 
-#### 29. Notice of decisions and reasons[^key-f266b95c27d9e51ff0c3d82ea8f99cc7]
+#### 29. Notice of decisions and reasons[^c-f266b95c27d9e51ff0c3d82ea8f99cc7]
 
 (1) Subject to paragraphs (2) to (4), the Upper Tribunal may give a decision orally at a hearing.
 
@@ -559,11 +559,11 @@ If a party fails to attend a hearing, the Upper Tribunal may proceed with the he
 
 (4) The Upper Tribunal may publish any of its decisions if it considers it in the public interest to do so, with the manner of publication also at the discretion of the Upper Tribunal.
 
-#### 30. Enforcement of decisions[^key-e1fbca8bc6f926943629f53cf294e4bc]
+#### 30. Enforcement of decisions[^c-e1fbca8bc6f926943629f53cf294e4bc]
 
 An order for the payment of a sum payable in pursuance of a decision of the Upper Tribunal, or a copy of such an order certified by the Upper Tribunal, may be enforced as if it were an extract registered decree arbitral bearing a warrant for execution issued by the Court of Session.
 
-#### 31. Reviews[^key-d3733d1e42fd2a7aeb685bf9e1fc94c3]
+#### 31. Reviews[^c-d3733d1e42fd2a7aeb685bf9e1fc94c3]
 
 (1) The Upper Tribunal may at its own instance or on the application of a party review a decision (except an excluded decision) made by it if it considers it necessary in the interests of justice to do so and on review it may confirm, set aside, or set aside and redecide the decision.
 
@@ -579,11 +579,11 @@ An order for the payment of a sum payable in pursuance of a decision of the Uppe
 
 ### PART 7 — Appealing decisions of the Upper Tribunal
 
-#### 32. Interpretation[^key-c10400828a1884caf1b9cb79d1015354]
+#### 32. Interpretation[^c-c10400828a1884caf1b9cb79d1015354]
 
 In this Part, “**appeal**” means the exercise of a right of appeal under section 48(1) of the 2014 Act.
 
-#### 33. Application for permission to appeal a decision of the Upper Tribunal[^key-b06dc7cdddddcc54ee6b2f2f1dfd6d3e]
+#### 33. Application for permission to appeal a decision of the Upper Tribunal[^c-b06dc7cdddddcc54ee6b2f2f1dfd6d3e]
 
 (1) A party seeking permission to appeal must make a written application to the Upper Tribunal.
 
@@ -592,7 +592,7 @@ In this Part, “**appeal**” means the exercise of a right of appeal under sec
 - (a) identify the decision of the Upper Tribunal to which it relates, and
 - (b) identify the alleged error, or errors, of law in the decision.
 
-#### 33A. Reference of compatibility question to the Court of Session[^key-52ecff0737d85c199a1e9e628c795b0e]
+#### 33A. Reference of compatibility question to the Court of Session[^c-52ecff0737d85c199a1e9e628c795b0e]
 
 (1) When the Upper Tribunal refers a compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
 
@@ -606,7 +606,7 @@ In this Part, “**appeal**” means the exercise of a right of appeal under sec
 
 (4) Where a relevant authority does not take part as a party to proceedings before the Upper Tribunal, that relevant authority is not precluded from taking part as a party in any subsequent reference to the Inner House of the Court of Session.
 
-#### 34. Upper Tribunal’s consideration of application for permission to appeal[^key-b56710772da129bc6b6aedd0a296c4aa]
+#### 34. Upper Tribunal’s consideration of application for permission to appeal[^c-b56710772da129bc6b6aedd0a296c4aa]
 
 (1) The Upper Tribunal must consider whether to give permission to appeal in relation to the decision or part of it.
 
@@ -631,11 +631,11 @@ The Rules are set out in the schedule of the Regulations.
 
 [^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-775fd33b6ad0b0d3a88932c8450b6aa0]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2024/249) modified (2.12.2024) by [The Upper Tribunal for Scotland (Transfer of Functions of the Transport Tribunal) Regulations 2024 (S.S.I. 2024/337)](https://www.legislation.gov.uk/ssi/2024/337), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/337/regulation/1/1), [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2024/337/schedule/1/paragraph/5)
+[^c-775fd33b6ad0b0d3a88932c8450b6aa0]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2024/249) modified (2.12.2024) by [The Upper Tribunal for Scotland (Transfer of Functions of the Transport Tribunal) Regulations 2024 (S.S.I. 2024/337)](https://www.legislation.gov.uk/ssi/2024/337), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2024/337/regulation/1/1), [sch. 1 para. 5](https://www.legislation.gov.uk/ssi/2024/337/schedule/1/paragraph/5)
 
-[^key-97c5b89e357ac7c31b4d037bde283768]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/249/regulation/1) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-97c5b89e357ac7c31b4d037bde283768]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2024/249/regulation/1) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-412e308520f459a3a2a5b5c52944d27f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/249/regulation/2) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-412e308520f459a3a2a5b5c52944d27f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2024/249/regulation/2) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
 [^f00002]: Footnote: The Upper Tribunal for Scotland Rules of Procedure 2016 (”the 2016 Rules”) are contained in schedule 1 of [S.S.I. 2016/232](https://www.legislation.gov.uk/ssi/2016/232). The 2016 Rules were amended by [S.S.I. 2016/333](https://www.legislation.gov.uk/ssi/2016/333).
 
@@ -643,19 +643,19 @@ The Rules are set out in the schedule of the Regulations.
 
 [^f00004]: Footnote: [S.S.I. 2024/248](https://www.legislation.gov.uk/ssi/2024/248).
 
-[^key-52d00843fb9f180b63c12f0c4d7caff5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/249/regulation/3) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-52d00843fb9f180b63c12f0c4d7caff5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2024/249/regulation/3) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-c58d6f38177363a523d904ff1bdb8ce0]: Commencement: [Sch. rule 1](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/1) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-c58d6f38177363a523d904ff1bdb8ce0]: Commencement: [Sch. rule 1](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/1) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
 [^f00005]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-37e9dac167db5b37bf98c45c5d0c49ec]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/a/i)
+[^c-37e9dac167db5b37bf98c45c5d0c49ec]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/a/i)
 
 [^f00006]: Footnote: [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2). Section 39(5A) was inserted by S.S.I. 2024/XXX.
 
 [^f00007]: Footnote: [S.S.I. 2024/248](https://www.legislation.gov.uk/ssi/2024/248).
 
-[^key-a099f85324bbec33f810c153fce5d43f]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/a/ii)
+[^c-a099f85324bbec33f810c153fce5d43f]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/a/ii)
 
 [^f00008]: Footnote: [1998 c. 42](https://www.legislation.gov.uk/ukpga/1998/42).
 
@@ -665,84 +665,84 @@ The Rules are set out in the schedule of the Regulations.
 
 [^f00011]: Footnote: [2001 asp 2](https://www.legislation.gov.uk/asp/2001/2). Section 39 was amended by section 17(6)(a) and (b) of the Bus Services Act [2017 (c. 21)](https://www.legislation.gov.uk/ukpga/2017/21) and section 39(2) of the Transport (Scotland) Act [2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17) (“**the 2019 Act**”).
 
-[^key-3c1f7b6ed44043413617ac6589543cc6]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/a/iii)
+[^c-3c1f7b6ed44043413617ac6589543cc6]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/1/1) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/a/iii)
 
 [^f00012]: Footnote: [1981 c. 27](https://www.legislation.gov.uk/ukpga/1981/27).
 
 [^f00013]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67). Section 6M was inserted by section 37(3) of the 2019 Act.
 
-[^key-e3b947cd9210881d7459a28a3608c08a]: Commencement: [Sch. rule 2](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/2) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-e3b947cd9210881d7459a28a3608c08a]: Commencement: [Sch. rule 2](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/2) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-f87d2637a6711a097559e338eb04e345]: Commencement: [Sch. rule 3](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/3) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-f87d2637a6711a097559e338eb04e345]: Commencement: [Sch. rule 3](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/3) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-eedb16230868c1263ee4bfa683f8d1f2]: Commencement: [Sch. rule 4](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/4) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-eedb16230868c1263ee4bfa683f8d1f2]: Commencement: [Sch. rule 4](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/4) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-5c619187cb0d886472458635b0f689ab]: Commencement: [Sch. rule 5](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/5) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-5c619187cb0d886472458635b0f689ab]: Commencement: [Sch. rule 5](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/5) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-eb0d0c6d3c7c28e1ad23ff5efb68eaeb]: Commencement: [Sch. rule 6](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/6) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-eb0d0c6d3c7c28e1ad23ff5efb68eaeb]: Commencement: [Sch. rule 6](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/6) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
 [^f00014]: Footnote: The Scottish Courts and Tribunals Service was established by section 60 of the Judiciary and Courts (Scotland) Act [2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6).
 
-[^key-a1b50c17e3a3751d0c6a9570ae199309]: Commencement: [Sch. rule 7](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/7) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-a1b50c17e3a3751d0c6a9570ae199309]: Commencement: [Sch. rule 7](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/7) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-90be28cc4df072203986fc9940b878c6]: Textual amendment: [Sch. rule 7A](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/7A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/b)
+[^c-90be28cc4df072203986fc9940b878c6]: Textual amendment: [Sch. rule 7A](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/7A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/b)
 
-[^key-f1cb90aedced6dc462931beebbd73f92]: Commencement: [Sch. rule 8](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/8) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-f1cb90aedced6dc462931beebbd73f92]: Commencement: [Sch. rule 8](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/8) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-c5b7545e6dc93cb6ec9c458ed8d63808]: Commencement: [Sch. rule 9](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/9) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-c5b7545e6dc93cb6ec9c458ed8d63808]: Commencement: [Sch. rule 9](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/9) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-b8ac2ed029176cf67a02ad066869c7a5]: Commencement: [Sch. rule 10](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/10) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-b8ac2ed029176cf67a02ad066869c7a5]: Commencement: [Sch. rule 10](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/10) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-2dce15d6bf68c32bd04ec41a76e333cb]: Commencement: [Sch. rule 11](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/11) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-2dce15d6bf68c32bd04ec41a76e333cb]: Commencement: [Sch. rule 11](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/11) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-e42a32a969b0add7b368f403bdc351f3]: Commencement: [Sch. rule 12](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/12) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-e42a32a969b0add7b368f403bdc351f3]: Commencement: [Sch. rule 12](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/12) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-eacd565b5d60e829c5d28233194e712e]: Commencement: [Sch. rule 13](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/13) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-eacd565b5d60e829c5d28233194e712e]: Commencement: [Sch. rule 13](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/13) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-c47e392f8bb9842b6a08f1c6dcdc9c52]: Commencement: [Sch. rule 14](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/14) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-c47e392f8bb9842b6a08f1c6dcdc9c52]: Commencement: [Sch. rule 14](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/14) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-4f4fc0d0a8d479a82f3e3bad130d79ad]: Commencement: [Sch. rule 15](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/15) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-4f4fc0d0a8d479a82f3e3bad130d79ad]: Commencement: [Sch. rule 15](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/15) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
 [^f00015]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-037b3943f2f760ab80058cac7edb1503]: Commencement: [Sch. rule 16](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/16) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-037b3943f2f760ab80058cac7edb1503]: Commencement: [Sch. rule 16](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/16) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-04948505b3852153725e16ec43547a37]: Commencement: [Sch. rule 17](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/17) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-04948505b3852153725e16ec43547a37]: Commencement: [Sch. rule 17](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/17) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-143bd735d2092777174628057215ef61]: Commencement: [Sch. rule 18](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/18) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-143bd735d2092777174628057215ef61]: Commencement: [Sch. rule 18](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/18) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-ff0f7df796b9918a6e29733dc590a239]: Commencement: [Sch. rule 19](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/19) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-ff0f7df796b9918a6e29733dc590a239]: Commencement: [Sch. rule 19](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/19) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-1737f08d9a4355a681c030b2ca9e8b0f]: Commencement: [Sch. rule 20](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/20) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-1737f08d9a4355a681c030b2ca9e8b0f]: Commencement: [Sch. rule 20](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/20) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-7ae1236c09c8ac70f61be65714ff6539]: Commencement: [Sch. rule 21](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/21) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-7ae1236c09c8ac70f61be65714ff6539]: Commencement: [Sch. rule 21](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/21) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-0c568292df68e87e872df20aa355df23]: Commencement: [Sch. rule 22](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/22) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-0c568292df68e87e872df20aa355df23]: Commencement: [Sch. rule 22](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/22) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-efd1542ef1b11eefff1afb33b87e504f]: Commencement: [Sch. rule 23](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/23) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-efd1542ef1b11eefff1afb33b87e504f]: Commencement: [Sch. rule 23](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/23) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-77ff4bbdad26227ef3d5d0cecc41dab1]: Commencement: [Sch. rule 24](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/24) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-77ff4bbdad26227ef3d5d0cecc41dab1]: Commencement: [Sch. rule 24](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/24) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-f078b5e3f8580caec48d9252d54e4276]: Commencement: [Sch. rule 25](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/25) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-f078b5e3f8580caec48d9252d54e4276]: Commencement: [Sch. rule 25](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/25) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-d73f73ed3c603f3e5642a7020adb5500]: Commencement: [Sch. rule 26](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/26) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-d73f73ed3c603f3e5642a7020adb5500]: Commencement: [Sch. rule 26](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/26) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-394f6a13029279026bcba1a8b6c4f51e]: Commencement: [Sch. rule 27](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/27) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-394f6a13029279026bcba1a8b6c4f51e]: Commencement: [Sch. rule 27](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/27) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-2fe6645818a1f93b222a61ef7737e880]: Commencement: [Sch. rule 28](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/28) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-2fe6645818a1f93b222a61ef7737e880]: Commencement: [Sch. rule 28](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/28) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-f266b95c27d9e51ff0c3d82ea8f99cc7]: Commencement: [Sch. rule 29](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/29) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-f266b95c27d9e51ff0c3d82ea8f99cc7]: Commencement: [Sch. rule 29](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/29) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-e1fbca8bc6f926943629f53cf294e4bc]: Commencement: [Sch. rule 30](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/30) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-e1fbca8bc6f926943629f53cf294e4bc]: Commencement: [Sch. rule 30](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/30) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-d3733d1e42fd2a7aeb685bf9e1fc94c3]: Commencement: [Sch. rule 31](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/31) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-d3733d1e42fd2a7aeb685bf9e1fc94c3]: Commencement: [Sch. rule 31](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/31) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
 [^f00016]: Footnote: [S.S.I. 2016/231](https://www.legislation.gov.uk/ssi/2016/231).
 
-[^key-c10400828a1884caf1b9cb79d1015354]: Commencement: [Sch. rule 32](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/32) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-c10400828a1884caf1b9cb79d1015354]: Commencement: [Sch. rule 32](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/32) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-b06dc7cdddddcc54ee6b2f2f1dfd6d3e]: Commencement: [Sch. rule 33](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/33) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-b06dc7cdddddcc54ee6b2f2f1dfd6d3e]: Commencement: [Sch. rule 33](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/33) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
 
-[^key-52ecff0737d85c199a1e9e628c795b0e]: Textual amendment: [Sch. rule 33A](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/33A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/c)
+[^c-52ecff0737d85c199a1e9e628c795b0e]: Textual amendment: [Sch. rule 33A](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/33A) inserted (1.4.2026) by [The Upper Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/33)](https://www.legislation.gov.uk/ssi/2026/33), [regs. 1](https://www.legislation.gov.uk/ssi/2026/33/regulation/1), [5(2)(c)](https://www.legislation.gov.uk/ssi/2026/33/regulation/5/2/c)
 
-[^key-b56710772da129bc6b6aedd0a296c4aa]: Commencement: [Sch. rule 34](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/34) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)
+[^c-b56710772da129bc6b6aedd0a296c4aa]: Commencement: [Sch. rule 34](https://www.legislation.gov.uk/ssi/2024/249/schedule/rule/34) in force at 2.12.2024, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2024/249/regulation/1/2)

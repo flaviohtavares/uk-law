@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17ZA. Treatment of final payments of income[^key-40146a615c2d036245a60d3622572588]
+## 17ZA. Treatment of final payments of income[^c-40146a615c2d036245a60d3622572588]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40146a615c2d036245a60d3622572588]: Textual amendment: [Reg. 17ZA](https://www.legislation.gov.uk/nisr/2003/28/regulation/17ZA) inserted (5.4.2004) by [The State Pension Credit (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (S.R. 2004/110)](https://www.legislation.gov.uk/nisr/2004/110), [regs. 1](https://www.legislation.gov.uk/nisr/2004/110/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2004/110/regulation/3/3)
+[^c-40146a615c2d036245a60d3622572588]: Textual amendment: [Reg. 17ZA](https://www.legislation.gov.uk/nisr/2003/28/regulation/17ZA) inserted (5.4.2004) by [The State Pension Credit (Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (S.R. 2004/110)](https://www.legislation.gov.uk/nisr/2004/110), [regs. 1](https://www.legislation.gov.uk/nisr/2004/110/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2004/110/regulation/3/3)

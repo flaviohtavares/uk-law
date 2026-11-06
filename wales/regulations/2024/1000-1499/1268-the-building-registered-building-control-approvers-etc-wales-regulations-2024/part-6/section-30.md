@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Form, grounds and period for rejecting public body’s final certificate[^key-09df8b4b15ca92a0135c40ce83b2d277]
+## 30. Form, grounds and period for rejecting public body’s final certificate[^c-09df8b4b15ca92a0135c40ce83b2d277]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09df8b4b15ca92a0135c40ce83b2d277]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2024/1268/regulation/30) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-09df8b4b15ca92a0135c40ce83b2d277]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2024/1268/regulation/30) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

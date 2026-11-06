@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312. Penalties for failure to comply with notices under section 311[^key-e942536d6ede98b1ee8a75da8461c5f7][^key-b1a3019857c0020cbc80efaa88bcf412]
+## 312. Penalties for failure to comply with notices under section 311[^c-e942536d6ede98b1ee8a75da8461c5f7][^c-b1a3019857c0020cbc80efaa88bcf412]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e942536d6ede98b1ee8a75da8461c5f7]: Commencement: S. 312 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-e942536d6ede98b1ee8a75da8461c5f7]: Commencement: S. 312 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-b1a3019857c0020cbc80efaa88bcf412]: Commencement: [S. 312](https://www.legislation.gov.uk/ukpga/2024/13/section/312) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)
+[^c-b1a3019857c0020cbc80efaa88bcf412]: Commencement: [S. 312](https://www.legislation.gov.uk/ukpga/2024/13/section/312) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/3)

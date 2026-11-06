@@ -32,7 +32,7 @@ summary: ''
 
 Countryside, England
 
-The National Park Authorities (England) (Amendment) Order 2014 (revoked)[^key-21aea54602fda5f744db787c5f2f4829]
+The National Park Authorities (England) (Amendment) Order 2014 (revoked)[^c-21aea54602fda5f744db787c5f2f4829]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 5th May 2014
 
-[^key-21aea54602fda5f744db787c5f2f4829]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21aea54602fda5f744db787c5f2f4829]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-21aea54602fda5f744db787c5f2f4829]
+## 1. Citation and commencement[^c-21aea54602fda5f744db787c5f2f4829]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Park Authorities (England) Order 1996[^key-21aea54602fda5f744db787c5f2f4829]
+## 2. Amendment of the National Park Authorities (England) Order 1996[^c-21aea54602fda5f744db787c5f2f4829]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-21aea54602fda5f744db787c5f2f4829]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21aea54602fda5f744db787c5f2f4829]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-21aea54602fda5f744db787c5f2f4829]
+## SCHEDULE[^c-21aea54602fda5f744db787c5f2f4829]
 
 Article 2(2)
 
-> **PART 1 — MEMBERSHIP OF NATIONAL PARK AUTHORITIES[^key-21aea54602fda5f744db787c5f2f4829]**
+> **PART 1 — MEMBERSHIP OF NATIONAL PARK AUTHORITIES[^c-21aea54602fda5f744db787c5f2f4829]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-21aea54602fda5f744db787c5f2f4829]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21aea54602fda5f744db787c5f2f4829]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21aea54602fda5f744db787c5f2f4829]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/571) revoked (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [art. 12(d)](https://www.legislation.gov.uk/uksi/2015/770/article/12/d)
+[^c-21aea54602fda5f744db787c5f2f4829]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/571) revoked (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [art. 12(d)](https://www.legislation.gov.uk/uksi/2015/770/article/12/d)

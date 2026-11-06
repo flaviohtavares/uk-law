@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 66. Withdrawal or variation of proof[^key-2beb935792c3f5dcd3109a0cc9fd873a]
+## 66. Withdrawal or variation of proof[^c-2beb935792c3f5dcd3109a0cc9fd873a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.090 of the 1991 Rules.
 
 ## Annotations
 
-[^key-2beb935792c3f5dcd3109a0cc9fd873a]: Commencement: Rule 66 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2beb935792c3f5dcd3109a0cc9fd873a]: Commencement: Rule 66 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

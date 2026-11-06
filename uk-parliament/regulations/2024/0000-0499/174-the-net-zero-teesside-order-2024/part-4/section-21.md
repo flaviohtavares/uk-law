@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Removal of human remains[^key-b672abd2f56121148c3c0f7b986cdc78]
+## 21. Removal of human remains[^c-b672abd2f56121148c3c0f7b986cdc78]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) removed and re-interred in any burial ground or cemetery in which burials may legally take place; or
 - (b) removed to, and cremated in, any crematorium,
 
-[^key-e78a70e049fe78d6213cbe157b393003]... and that person must, as soon as reasonably practicable after such re-interment or cremation, provide to the undertaker a certificate for the purpose of enabling compliance with paragraph (10).
+[^c-e78a70e049fe78d6213cbe157b393003]... and that person must, as soon as reasonably practicable after such re-interment or cremation, provide to the undertaker a certificate for the purpose of enabling compliance with paragraph (10).
 
 (6) If the undertaker is not satisfied that any person giving notice under paragraph (4) is the personal representative or relative as that person claims to be, or that the remains in question can be identified, the question is to be determined on the application of either party in a summary manner by the county court, and the court may make an order specifying who is to remove the remains and as to the payment of the costs of the application.
 
@@ -65,8 +65,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b672abd2f56121148c3c0f7b986cdc78]: Commencement: Art. 21 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-b672abd2f56121148c3c0f7b986cdc78]: Commencement: Art. 21 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-e78a70e049fe78d6213cbe157b393003]: Textual amendment: Words in [art. 21(5)](https://www.legislation.gov.uk/uksi/2024/174/article/21/5) omitted (21.12.2024) by virtue of [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
+[^c-e78a70e049fe78d6213cbe157b393003]: Textual amendment: Words in [art. 21(5)](https://www.legislation.gov.uk/uksi/2024/174/article/21/5) omitted (21.12.2024) by virtue of [The Net Zero Teesside (Correction) Order 2024 (S.I. 2024/1384)](https://www.legislation.gov.uk/uksi/2024/1384), [art. 1](https://www.legislation.gov.uk/uksi/2024/1384/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1384/schedule) Table
 
 [^f00039]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). Substituted by Church of England (Miscellaneous Provisions) Measure [2014 No. 1](https://www.legislation.gov.uk/ukcm/2014/1) section 2 (1 January 2015: substitution has effect subject to transitional and saving provisions specified in [S.I. 2014/2077](https://www.legislation.gov.uk/uksi/2014/2077) Schedule1 paragraphs 1 and 2).

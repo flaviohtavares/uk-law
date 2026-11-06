@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Notification of client information and changes[^c2201943][^key-9b17fd3ac9dc101aee2d05265fbc1d69]
+## 5. Notification of client information and changes[^c2201943][^c-9b17fd3ac9dc101aee2d05265fbc1d69]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c2201943]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/4/section/5) partly in force; [s. 5(4)](https://www.legislation.gov.uk/ukpga/2014/4/section/5/4) in force for certain purposes at Royal Assent, see [s. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/a)
 
-[^key-9b17fd3ac9dc101aee2d05265fbc1d69]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/4/section/5) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-9b17fd3ac9dc101aee2d05265fbc1d69]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/4/section/5) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

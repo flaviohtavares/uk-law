@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Business arrangements with designated persons[^key-28eeabfc631d9d876de261b1f7371e49][^key-ba561b88a5cd5a541da74c890193924c]
+## 24. Business arrangements with designated persons[^c-28eeabfc631d9d876de261b1f7371e49][^c-ba561b88a5cd5a541da74c890193924c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28eeabfc631d9d876de261b1f7371e49]: Commencement: Reg. 24 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-28eeabfc631d9d876de261b1f7371e49]: Commencement: Reg. 24 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-ba561b88a5cd5a541da74c890193924c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/411/regulation/24) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba561b88a5cd5a541da74c890193924c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/411/regulation/24) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

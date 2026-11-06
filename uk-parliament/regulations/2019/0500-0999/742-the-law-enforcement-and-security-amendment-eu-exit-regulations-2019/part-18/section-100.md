@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Third Pillar Conventions[^key-68416ff6130eb7c9e72e00d81f36cef4]
+## 100. Third Pillar Conventions[^c-68416ff6130eb7c9e72e00d81f36cef4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,10 +27,10 @@ summary: ''
 
 (2) Reference in this regulation to former Article 34 of the Treaty on European Union are references to that Article as it had effect at any time before the coming into force of the Treaty of Lisbon.
 
-(3)[^key-86d7e8360d29d9632bae7ea306b47567] See Articles 62(1)(a) and 62(2) and Title VII of Part 3 of the withdrawal agreement, Article 50(1) and (2) and Title IV of the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act.
+(3)[^c-86d7e8360d29d9632bae7ea306b47567] See Articles 62(1)(a) and 62(2) and Title VII of Part 3 of the withdrawal agreement, Article 50(1) and (2) and Title IV of the EEA EFTA separation agreement and sections 7A to 7C of the Withdrawal Act.
 
 ## Annotations
 
-[^key-68416ff6130eb7c9e72e00d81f36cef4]: Commencement: Reg. 100 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-68416ff6130eb7c9e72e00d81f36cef4]: Commencement: Reg. 100 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-86d7e8360d29d9632bae7ea306b47567]: Textual amendment: Reg. 100(3) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [30](https://www.legislation.gov.uk/uksi/2020/1408/regulation/30)
+[^c-86d7e8360d29d9632bae7ea306b47567]: Textual amendment: Reg. 100(3) inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [30](https://www.legislation.gov.uk/uksi/2020/1408/regulation/30)

@@ -31,71 +31,71 @@ Late Night Refreshment Houses Act 1969 (repealed)
 
 1969 c.53
 
-[^key-5216a8d8b933e15032d299a9cffd1d9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5216a8d8b933e15032d299a9cffd1d9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Meaning of “late night refreshment house”.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 1. Meaning of “late night refreshment house”.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Requirement of licence to keep late night refreshment house.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 2. Requirement of licence to keep late night refreshment house.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Annual duty on licence, and power to vary.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 3. Annual duty on licence, and power to vary.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Reduced duty on beginner’s part-year licence.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 4. Reduced duty on beginner’s part-year licence.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Date of licence and period of validity.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 5. Date of licence and period of validity.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Local register of licences.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 6. Local register of licences.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Power of licensing authority to impose conditions as to opening after 11 p.m.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 7. Power of licensing authority to impose conditions as to opening after 11 p.m.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Conditions of licence as to charges and touting.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 8. Conditions of licence as to charges and touting.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Illegal and disorderly conduct.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 9. Illegal and disorderly conduct.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Power of constable to enter and keep order.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 10. Power of constable to enter and keep order.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Punishment of offences.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 11. Punishment of offences.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
-## 13. Transitional provisions and saving.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 14. Repeals.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 13. Transitional provisions and saving.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Citation, commencement and extent.[^key-5216a8d8b933e15032d299a9cffd1d9e][^key-5216a8d8b933e15032d299a9cffd1d9e]
+## 14. Repeals.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 15. Citation, commencement and extent.[^c-5216a8d8b933e15032d299a9cffd1d9e][^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Enactments Repealed[^key-5216a8d8b933e15032d299a9cffd1d9e]
+## SCHEDULE — Enactments Repealed[^c-5216a8d8b933e15032d299a9cffd1d9e]
 
 SECTION 14.
 
@@ -103,4 +103,4 @@ SECTION 14.
 
 ## Annotations
 
-[^key-5216a8d8b933e15032d299a9cffd1d9e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1969/53) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-5216a8d8b933e15032d299a9cffd1d9e]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1969/53) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))

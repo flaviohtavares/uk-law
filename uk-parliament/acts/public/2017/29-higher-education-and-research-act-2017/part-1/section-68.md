@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Duty to monitor and report on financial sustainability[^key-e0a27832e0cc9fd4ad8f86a5d62e13fd]
+## 68. Duty to monitor and report on financial sustainability[^c-e0a27832e0cc9fd4ad8f86a5d62e13fd]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0a27832e0cc9fd4ad8f86a5d62e13fd]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2017/29/section/68) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/g)
+[^c-e0a27832e0cc9fd4ad8f86a5d62e13fd]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2017/29/section/68) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/g)

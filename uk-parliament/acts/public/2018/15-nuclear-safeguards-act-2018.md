@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## 1. Nuclear safeguards
 
-(1)[^key-0ffe236116ce0f0f25f1b5015f3d0bf8] For section 72 of the Energy Act 2013 substitute—
+(1)[^c-0ffe236116ce0f0f25f1b5015f3d0bf8] For section 72 of the Energy Act 2013 substitute—
 
 > **72. Nuclear safeguards purposes**
 >
@@ -48,7 +48,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 > - (b) ensuring compliance by the United Kingdom or, as the case may be, enabling or facilitating compliance by a Minister of the Crown, with a relevant international agreement, and
 > - (c) the development of any future obligations relating to nuclear safeguards.
 
-(2)[^key-cf7219aa2bca74352fb9ffc105634fe0] After section 76 of that Act insert—
+(2)[^c-cf7219aa2bca74352fb9ffc105634fe0] After section 76 of that Act insert—
 
 > **CHAPTER 2A — Nuclear safeguards**
 >
@@ -118,7 +118,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > (5) In this section, “**specified**” means specified in regulations under subsection (1).
 
-(3)[^key-cf7219aa2bca74352fb9ffc105634fe0] In section 112 of that Act (interpretation)—
+(3)[^c-cf7219aa2bca74352fb9ffc105634fe0] In section 112 of that Act (interpretation)—
 
 - (a) in subsection (1), at the appropriate places insert—
 
@@ -154,11 +154,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
   >
   > (1E) Subsection (1D)(a) does not apply if the regulations give effect, without modification, to proposals submitted by the ONR under section 81(1)(a)(iiia).
 
-(4)[^key-cf7219aa2bca74352fb9ffc105634fe0] A consultation requirement imposed by an amendment made by this section may be satisfied by consultation carried out before this Act was passed.
+(4)[^c-cf7219aa2bca74352fb9ffc105634fe0] A consultation requirement imposed by an amendment made by this section may be satisfied by consultation carried out before this Act was passed.
 
-(5)[^key-ad27bcfb328a0090aff0be9a10d97efc][^key-5f86fc47884683e9c346541269bdc5ec] The Schedule contains minor and consequential amendments.
+(5)[^c-ad27bcfb328a0090aff0be9a10d97efc][^c-5f86fc47884683e9c346541269bdc5ec] The Schedule contains minor and consequential amendments.
 
-## 2. Power to amend legislation relating to nuclear safeguards[^key-aaa0c537a57e6eea3b720071c3345b37]
+## 2. Power to amend legislation relating to nuclear safeguards[^c-aaa0c537a57e6eea3b720071c3345b37]
 
 (1) The Secretary of State may by regulations amend any of the following in consequence of a relevant safeguards agreement—
 
@@ -196,7 +196,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) The first reporting period is the period of 3 months beginning with the day on which this Act is passed.
 
-## 4. Request for continuation of existing arrangements[^key-ff150cf32da75d3afe4ce77e865f2323]
+## 4. Request for continuation of existing arrangements[^c-ff150cf32da75d3afe4ce77e865f2323]
 
 (1) The Secretary of State must make a relevant request to the European Council if neither of conditions 1 and 2 is met at the beginning of the period of 28 days ending with exit day.
 
@@ -266,15 +266,15 @@ Section 1
 
 ### Amendments to Part 3 of the Energy Act 2013
 
-**1.**[^key-2bae8ec69d86e038e049bcf5434ffda9] Part 3 of the Energy Act 2013 (nuclear regulation) is amended as follows.
+**1.**[^c-2bae8ec69d86e038e049bcf5434ffda9] Part 3 of the Energy Act 2013 (nuclear regulation) is amended as follows.
 
-**2.**[^key-8fc2100690e4a875ff2fd2a009ec6cc6] In section 74 (nuclear regulations) —
+**2.**[^c-8fc2100690e4a875ff2fd2a009ec6cc6] In section 74 (nuclear regulations) —
 
 - (a) in subsection (1), omit paragraph (c),
 - (b) in subsection (9), omit “any paragraph of”, and
 - (c) in subsection (10), omit paragraphs (b) and (c).
 
-**3.**[^key-56549bee58c9acd3703266d3c2da7084] In section 81 (proposals about orders and regulations), in subsection (1)(a)—
+**3.**[^c-56549bee58c9acd3703266d3c2da7084] In section 81 (proposals about orders and regulations), in subsection (1)(a)—
 
 - (a) after sub-paragraph (i) insert—
 
@@ -287,28 +287,28 @@ Section 1
 
   .
 
-**4.**[^key-d6ffe1939d7f676421f8b8bd091d14e9] In section 82 (enforcement of relevant statutory provisions), in subsection (2)(a), for the words from “of” to the end substitute “ of this Part, nuclear regulations and nuclear safeguards regulations; ”.
+**4.**[^c-d6ffe1939d7f676421f8b8bd091d14e9] In section 82 (enforcement of relevant statutory provisions), in subsection (2)(a), for the words from “of” to the end substitute “ of this Part, nuclear regulations and nuclear safeguards regulations; ”.
 
-**5.**[^key-2e6cb278d6bb927a0f074afa25df5ee4] In section 84 (investigations), in subsection (3)(b), after sub-paragraph (i) (but before the “or”) insert—
+**5.**[^c-2e6cb278d6bb927a0f074afa25df5ee4] In section 84 (investigations), in subsection (3)(b), after sub-paragraph (i) (but before the “or”) insert—
 
 > - (ia) regulations under section 76A (nuclear safeguards regulations etc),
 > - (ib) regulations under section 112(1B) (definition of “relevant international agreement”),
 
 .
 
-**6.**[^key-bd209b22aa8f183a8e96adc32f661619] Omit section 93.
+**6.**[^c-bd209b22aa8f183a8e96adc32f661619] Omit section 93.
 
-**7.**[^key-412ad323aca4e88b234fa7765a6f3a8b] In section 102 (general duty of employers at work in relation to requirements imposed on others)—
+**7.**[^c-412ad323aca4e88b234fa7765a6f3a8b] In section 102 (general duty of employers at work in relation to requirements imposed on others)—
 
 - (a) in subsection (1), for “relevant provision” substitute “ of the relevant statutory provisions ”, and
 - (b) in subsection (5), omit paragraph (b) and the “and” preceding it.
 
-**8.**[^key-0c46a246c9858de7a36003ef1c1db505] In section 104 (duty not to charge employees for certain things)—
+**8.**[^c-0c46a246c9858de7a36003ef1c1db505] In section 104 (duty not to charge employees for certain things)—
 
 - (a) in subsection (1), for “relevant provision” substitute “ of the relevant statutory provisions ”, and
 - (b) in subsection (3), omit paragraph (b) and the “and” preceding it.
 
-**9.**[^key-9d44ae35979a7f57fbadba9eeb022bea] (1) Section 113 (subordinate legislation) is amended as follows.
+**9.**[^c-9d44ae35979a7f57fbadba9eeb022bea] (1) Section 113 (subordinate legislation) is amended as follows.
 
 (2) In subsection (2) (regulations subject to affirmative procedure)—
 
@@ -329,9 +329,9 @@ Section 1
 
 (3) In subsection (3), after “regulations”, in each place it occurs, insert “ or nuclear safeguards regulations ”.
 
-**10.**[^key-53237f6ae3f5652aa8773239a26b958f] In section 118 (review of Part 3), in subsection (1), for “5 years” substitute “ 7 years ”.
+**10.**[^c-53237f6ae3f5652aa8773239a26b958f] In section 118 (review of Part 3), in subsection (1), for “5 years” substitute “ 7 years ”.
 
-**11.**[^key-c5ce3ba1bc419e4c63a5db01e0093820] (1) Schedule 8 (ONR inspectors) is amended as follows.
+**11.**[^c-c5ce3ba1bc419e4c63a5db01e0093820] (1) Schedule 8 (ONR inspectors) is amended as follows.
 
 (2) In paragraph 3 (improvement notices), in sub-paragraph (5), for paragraph (a) (but not the “or” at the end) substitute—
 
@@ -341,48 +341,48 @@ Section 1
 
 (3) In paragraph 4 (prohibition notices), in the definition of “applicable provision” in sub-paragraph (5), after “paragraph 3” insert “ but does not include nuclear safeguards regulations or a provision of the Nuclear Safeguards Act 2000 ”.
 
-**12.**[^key-35a6075ac290c1ff051b46e191ada61a] In Schedule 9 (disclosure of information), in paragraph 20, for “any of the safeguards obligations” substitute “ a relevant international agreement ”.
+**12.**[^c-35a6075ac290c1ff051b46e191ada61a] In Schedule 9 (disclosure of information), in paragraph 20, for “any of the safeguards obligations” substitute “ a relevant international agreement ”.
 
 ### Other amendment
 
-**13.**[^key-659d6f7eb267ddb8c2d79edd57a4c542] In section 12(4) of the Nuclear Safeguards Act 2000 (power to extend to the Channel Islands, the Isle of Man etc), for “colony” substitute “ British overseas territory ”.
+**13.**[^c-659d6f7eb267ddb8c2d79edd57a4c542] In section 12(4) of the Nuclear Safeguards Act 2000 (power to extend to the Channel Islands, the Isle of Man etc), for “colony” substitute “ British overseas territory ”.
 
 ## Annotations
 
-[^key-0ffe236116ce0f0f25f1b5015f3d0bf8]: Commencement: S. 1(1) in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/a)
+[^c-0ffe236116ce0f0f25f1b5015f3d0bf8]: Commencement: S. 1(1) in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/a)
 
-[^key-cf7219aa2bca74352fb9ffc105634fe0]: Commencement: [S. 1(2)-(4)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/2) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)
+[^c-cf7219aa2bca74352fb9ffc105634fe0]: Commencement: [S. 1(2)-(4)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/2) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/a)
 
-[^key-ad27bcfb328a0090aff0be9a10d97efc]: Commencement: [S. 1(5)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/5) in force at 26.10.2018 for specified purposes by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-ad27bcfb328a0090aff0be9a10d97efc]: Commencement: [S. 1(5)](https://www.legislation.gov.uk/ukpga/2018/15/section/1/5) in force at 26.10.2018 for specified purposes by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-5f86fc47884683e9c346541269bdc5ec]: Commencement: S. 1(5) in force at 31.12.2020 on IP completion day in so far as not already in force by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-5f86fc47884683e9c346541269bdc5ec]: Commencement: S. 1(5) in force at 31.12.2020 on IP completion day in so far as not already in force by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-aaa0c537a57e6eea3b720071c3345b37]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/15/section/2) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/c)
+[^c-aaa0c537a57e6eea3b720071c3345b37]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/15/section/2) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/c)
 
-[^key-ff150cf32da75d3afe4ce77e865f2323]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/15/section/4) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/d)
+[^c-ff150cf32da75d3afe4ce77e865f2323]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/15/section/4) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/d)
 
-[^key-2bae8ec69d86e038e049bcf5434ffda9]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/1) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-2bae8ec69d86e038e049bcf5434ffda9]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/1) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-8fc2100690e4a875ff2fd2a009ec6cc6]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-8fc2100690e4a875ff2fd2a009ec6cc6]: Commencement: Sch. para. 2 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-56549bee58c9acd3703266d3c2da7084]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/3) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-56549bee58c9acd3703266d3c2da7084]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/3) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-d6ffe1939d7f676421f8b8bd091d14e9]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-d6ffe1939d7f676421f8b8bd091d14e9]: Commencement: Sch. para. 4 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-2e6cb278d6bb927a0f074afa25df5ee4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/5) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-2e6cb278d6bb927a0f074afa25df5ee4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/5) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-bd209b22aa8f183a8e96adc32f661619]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-bd209b22aa8f183a8e96adc32f661619]: Commencement: Sch. para. 6 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-412ad323aca4e88b234fa7765a6f3a8b]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-412ad323aca4e88b234fa7765a6f3a8b]: Commencement: Sch. para. 7 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-0c46a246c9858de7a36003ef1c1db505]: Commencement: Sch. para. 8 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-0c46a246c9858de7a36003ef1c1db505]: Commencement: Sch. para. 8 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-9d44ae35979a7f57fbadba9eeb022bea]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-9d44ae35979a7f57fbadba9eeb022bea]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/9) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-53237f6ae3f5652aa8773239a26b958f]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/10) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-53237f6ae3f5652aa8773239a26b958f]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/10) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
 
-[^key-c5ce3ba1bc419e4c63a5db01e0093820]: Commencement: Sch. para. 11 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-c5ce3ba1bc419e4c63a5db01e0093820]: Commencement: Sch. para. 11 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-35a6075ac290c1ff051b46e191ada61a]: Commencement: Sch. para. 12 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-35a6075ac290c1ff051b46e191ada61a]: Commencement: Sch. para. 12 in force at 31.12.2020 on IP completion day by [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-659d6f7eb267ddb8c2d79edd57a4c542]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/13) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)
+[^c-659d6f7eb267ddb8c2d79edd57a4c542]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/13) in force at 26.10.2018 by [S.I. 2018/1079](https://www.legislation.gov.uk/uksi/2018/1079), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1079/regulation/2/b)

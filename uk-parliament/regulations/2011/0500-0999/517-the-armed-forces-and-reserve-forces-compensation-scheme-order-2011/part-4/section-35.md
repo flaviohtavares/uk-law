@@ -22,7 +22,7 @@ summary: ''
 
 (1) Subject to paragraph (2), the amount of the bereavement grant payable in respect of the death of a person who was a member on the date of death is £25,000.
 
-(2)[^key-7f27d9be75ef58281b033a5bef888a5e] Where the person was—
+(2)[^c-7f27d9be75ef58281b033a5bef888a5e] Where the person was—
 
 - (a) a member of the AFPS 2005, or
 - (b) a member of the AFPS 2015,
@@ -40,7 +40,7 @@ the amount of the bereavement grant is the difference between the salary of the 
 
 ## Annotations
 
-[^key-7f27d9be75ef58281b033a5bef888a5e]: Textual amendment: Art. 35(2) substituted (6.4.2015) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015 (S.I. 2015/413)](https://www.legislation.gov.uk/uksi/2015/413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/413/article/1/1), [6](https://www.legislation.gov.uk/uksi/2015/413/article/6)
+[^c-7f27d9be75ef58281b033a5bef888a5e]: Textual amendment: Art. 35(2) substituted (6.4.2015) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015 (S.I. 2015/413)](https://www.legislation.gov.uk/uksi/2015/413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/413/article/1/1), [6](https://www.legislation.gov.uk/uksi/2015/413/article/6)
 
 [^c2153163]: Textual amendment: Words in art. 35(4) inserted (17.11.2011) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2011 (S.I. 2011/2552)](https://www.legislation.gov.uk/uksi/2011/2552), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/2552/article/1/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2011/2552/article/5/a/i) (with [art. 10](https://www.legislation.gov.uk/uksi/2011/2552/article/10))
 

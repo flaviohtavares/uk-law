@@ -31,20 +31,20 @@ U.S.A. Veterans’ Pensions (Administration) Act 1949 (repealed)
 
 1949 c.45
 
-[^key-71c5d3e8dcfeb54120ca7a551a08e931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-71c5d3e8dcfeb54120ca7a551a08e931]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[14th July 1949\]
 
 **No longer in force.**
 
-## 1. Administration by Minister of Pensions of veterans’ pensions, et ceteralaetc.[^key-71c5d3e8dcfeb54120ca7a551a08e931][^key-71c5d3e8dcfeb54120ca7a551a08e931]
+## 1. Administration by Minister of Pensions of veterans’ pensions, et ceteralaetc.[^c-71c5d3e8dcfeb54120ca7a551a08e931][^c-71c5d3e8dcfeb54120ca7a551a08e931]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and interpretation.[^key-71c5d3e8dcfeb54120ca7a551a08e931][^key-71c5d3e8dcfeb54120ca7a551a08e931]
+## 2. Short title and interpretation.[^c-71c5d3e8dcfeb54120ca7a551a08e931][^c-71c5d3e8dcfeb54120ca7a551a08e931]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-71c5d3e8dcfeb54120ca7a551a08e931]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/45) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)
+[^c-71c5d3e8dcfeb54120ca7a551a08e931]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/45) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 11](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/11)

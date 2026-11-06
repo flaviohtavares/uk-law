@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Exercise of function of approving courses, etc.[^key-2171e802dea526116d8d762004fcedad]
+## 218. Exercise of function of approving courses, etc.[^c-2171e802dea526116d8d762004fcedad]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2171e802dea526116d8d762004fcedad]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2012/7/section/218) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-2171e802dea526116d8d762004fcedad]: Commencement: [S. 218](https://www.legislation.gov.uk/ukpga/2012/7/section/218) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)

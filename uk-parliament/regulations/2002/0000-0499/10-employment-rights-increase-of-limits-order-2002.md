@@ -31,7 +31,7 @@ summary: ''
 
 TERMS AND CONDITIONS OF EMPLOYMENT
 
-Employment Rights (Increase of Limits) Order 2002 (revoked)[^key-4db50d583a3d65c20081e7b219f2f1f4]
+Employment Rights (Increase of Limits) Order 2002 (revoked)[^c-4db50d583a3d65c20081e7b219f2f1f4]
 
 Made
 
@@ -45,31 +45,31 @@ Coming into force
 
 1st February 2002
 
-[^key-4db50d583a3d65c20081e7b219f2f1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4db50d583a3d65c20081e7b219f2f1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-4db50d583a3d65c20081e7b219f2f1f4]
+## 1. Citation, commencement and interpretation[^c-4db50d583a3d65c20081e7b219f2f1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-4db50d583a3d65c20081e7b219f2f1f4]
+## 2. Revocation[^c-4db50d583a3d65c20081e7b219f2f1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-4db50d583a3d65c20081e7b219f2f1f4]
+## 3. Increase of limits[^c-4db50d583a3d65c20081e7b219f2f1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-4db50d583a3d65c20081e7b219f2f1f4]
+## 4. Transitional provisions[^c-4db50d583a3d65c20081e7b219f2f1f4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4db50d583a3d65c20081e7b219f2f1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4db50d583a3d65c20081e7b219f2f1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — TABLE OF INCREASE OF LIMITS[^key-4db50d583a3d65c20081e7b219f2f1f4]
+## SCHEDULE — TABLE OF INCREASE OF LIMITS[^c-4db50d583a3d65c20081e7b219f2f1f4]
 
 Article 3
 
@@ -77,8 +77,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-4db50d583a3d65c20081e7b219f2f1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4db50d583a3d65c20081e7b219f2f1f4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4db50d583a3d65c20081e7b219f2f1f4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2002/10) revoked (1.2.2003) by [The Employment Rights (Increase of Limits) (No. 2) Order 2002 (S.I. 2002/2927)](https://www.legislation.gov.uk/uksi/2002/2927), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/2927/article/1/1), [2](https://www.legislation.gov.uk/uksi/2002/2927/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2002/2927/article/4))
+[^c-4db50d583a3d65c20081e7b219f2f1f4]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2002/10) revoked (1.2.2003) by [The Employment Rights (Increase of Limits) (No. 2) Order 2002 (S.I. 2002/2927)](https://www.legislation.gov.uk/uksi/2002/2927), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/2927/article/1/1), [2](https://www.legislation.gov.uk/uksi/2002/2927/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2002/2927/article/4))

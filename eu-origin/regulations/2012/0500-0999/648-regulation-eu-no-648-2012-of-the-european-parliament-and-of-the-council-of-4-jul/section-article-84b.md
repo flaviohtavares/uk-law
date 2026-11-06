@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 84b. FCA rules[^key-17a2291f65bb7480d84249eb78114f76]
+## Article 84b. FCA rules[^c-17a2291f65bb7480d84249eb78114f76]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17a2291f65bb7480d84249eb78114f76]: Textual amendment: [Art. 84b](https://www.legislation.gov.uk/eur/2012/648/article/84b) inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/40/4), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/40/5)); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/v)
+[^c-17a2291f65bb7480d84249eb78114f76]: Textual amendment: [Art. 84b](https://www.legislation.gov.uk/eur/2012/648/article/84b) inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [ss. 40(4)](https://www.legislation.gov.uk/ukpga/2021/22/section/40/4), [49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/40/5)); [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/v)

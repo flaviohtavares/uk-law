@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Transfer of assets and liabilities[^key-4a5760b8161c7f5f6a5ee4ff45338a2a]
+## 115. Transfer of assets and liabilities[^c-4a5760b8161c7f5f6a5ee4ff45338a2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a5760b8161c7f5f6a5ee4ff45338a2a]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2022/7/section/115) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)
+[^c-4a5760b8161c7f5f6a5ee4ff45338a2a]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2022/7/section/115) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)

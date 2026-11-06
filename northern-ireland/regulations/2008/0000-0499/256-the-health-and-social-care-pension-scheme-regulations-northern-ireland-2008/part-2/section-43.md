@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Revaluation of increases bought under options: members’ pensions[^key-a629f889a3f68bf49c13daf1d9b6c719][^key-99080a2649981d4001802982d3c23ed3]
+## 43. Revaluation of increases bought under options: members’ pensions[^c-a629f889a3f68bf49c13daf1d9b6c719][^c-99080a2649981d4001802982d3c23ed3]
 
 *Extent: N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a629f889a3f68bf49c13daf1d9b6c719]: Modification: [Regs. 43](https://www.legislation.gov.uk/nisr/2008/256/regulation/43), [44](https://www.legislation.gov.uk/nisr/2008/256/regulation/44) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
+[^c-a629f889a3f68bf49c13daf1d9b6c719]: Modification: [Regs. 43](https://www.legislation.gov.uk/nisr/2008/256/regulation/43), [44](https://www.legislation.gov.uk/nisr/2008/256/regulation/44) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
 
-[^key-99080a2649981d4001802982d3c23ed3]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/nisr/2008/256/regulation/43) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 23](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/23), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)
+[^c-99080a2649981d4001802982d3c23ed3]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/nisr/2008/256/regulation/43) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Injury Benefits and Additional Voluntary Contributions), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/286)](https://www.legislation.gov.uk/nisr/2010/286), [Pt. 3 reg. 23](https://www.legislation.gov.uk/nisr/2010/286/part/3/regulation/23), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/286/regulation/1/2)

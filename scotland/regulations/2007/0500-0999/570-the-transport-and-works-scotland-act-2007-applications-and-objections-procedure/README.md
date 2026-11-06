@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Rules in exercise of the powers conferred by sections 4, 5(1), 6(3), (4) and (5), 8(1), (5) and (8) and 28(6) of the Transport and Works (Scotland) Act 2007 [^c19038411] and all other powers enabling them to do so.
 
-In accordance with section 28(4) and (5) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.[^key-512e93a72877495d1b4297743e598526]
+In accordance with section 28(4) and (5) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.[^c-512e93a72877495d1b4297743e598526]
 
 ## Contents
 
@@ -152,4 +152,4 @@ A Regulatory Impact Assessment has been prepared in respect of these Rules. A co
 
 [^c19038411]: Marginal citation: [2007 asp 8](https://www.legislation.gov.uk/asp/2007/8). See section 6(4) for the meaning of “prescribed” in section 6(3).
 
-[^key-512e93a72877495d1b4297743e598526]: Modification: Rules: power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-512e93a72877495d1b4297743e598526]: Modification: Rules: power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Grant of authorisations for surveillance[^key-f96de1b1f50f622c8aecd998842ae189]
+## 106. Grant of authorisations for surveillance[^c-f96de1b1f50f622c8aecd998842ae189]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f96de1b1f50f622c8aecd998842ae189]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2010/13/section/106) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-f96de1b1f50f622c8aecd998842ae189]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2010/13/section/106) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

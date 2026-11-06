@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Restrictions on powers of investigation etc[^key-a6c122a5210cbf54fd4954e66da51e79][^key-b7de4349e24056c3cad5136733d64f82]
+## 9. Restrictions on powers of investigation etc[^c-a6c122a5210cbf54fd4954e66da51e79][^c-b7de4349e24056c3cad5136733d64f82]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a6c122a5210cbf54fd4954e66da51e79]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-a6c122a5210cbf54fd4954e66da51e79]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-b7de4349e24056c3cad5136733d64f82]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/18/section/9) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-b7de4349e24056c3cad5136733d64f82]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/18/section/9) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

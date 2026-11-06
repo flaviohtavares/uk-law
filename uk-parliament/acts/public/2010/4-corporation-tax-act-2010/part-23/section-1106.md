@@ -28,18 +28,18 @@ summary: ''
 
 (4) “**Tax certificate**”, in relation to a payment of dividend or interest, means a written statement showing—
 
-- (a) the amount of the dividend or interest paid, and[^key-33dfbcaed08967da8609c934a51d4a47]
-- (b) the date of the payment, [^key-a1d5fc6fcb886115fee6bd1c2e845063]...
-- (c)[^key-a1d5fc6fcb886115fee6bd1c2e845063] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the amount of the dividend or interest paid, and[^c-33dfbcaed08967da8609c934a51d4a47]
+- (b) the date of the payment, [^c-a1d5fc6fcb886115fee6bd1c2e845063]...
+- (c)[^c-a1d5fc6fcb886115fee6bd1c2e845063] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-cd9ef5a1c54e0f959be918ce057372d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-cd9ef5a1c54e0f959be918ce057372d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-cd9ef5a1c54e0f959be918ce057372d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-cd9ef5a1c54e0f959be918ce057372d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33dfbcaed08967da8609c934a51d4a47]: Textual amendment: Word in [s. 1106(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/1106/4) inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 42(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/42/2/a)
+[^c-33dfbcaed08967da8609c934a51d4a47]: Textual amendment: Word in [s. 1106(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/1106/4) inserted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 42(2)(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/42/2/a)
 
-[^key-a1d5fc6fcb886115fee6bd1c2e845063]: Textual amendment: [S. 1106(4)(c) and word](https://www.legislation.gov.uk/ukpga/2010/4/section/1106/4/c) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 42(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/42/2/b)
+[^c-a1d5fc6fcb886115fee6bd1c2e845063]: Textual amendment: [S. 1106(4)(c) and word](https://www.legislation.gov.uk/ukpga/2010/4/section/1106/4/c) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 42(2)(b)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/42/2/b)
 
-[^key-cd9ef5a1c54e0f959be918ce057372d1]: Textual amendment: [S. 1106(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/1106/5)[(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/1106/6) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 42(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/42/3)
+[^c-cd9ef5a1c54e0f959be918ce057372d1]: Textual amendment: [S. 1106(5)](https://www.legislation.gov.uk/ukpga/2010/4/section/1106/5)[(6)](https://www.legislation.gov.uk/ukpga/2010/4/section/1106/6) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 42(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/42/3)

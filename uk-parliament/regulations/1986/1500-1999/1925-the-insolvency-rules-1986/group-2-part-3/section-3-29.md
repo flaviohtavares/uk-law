@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.29. Expenses of members[^key-df1b56802eec7a2fe61d6b448591cb12]
+## 3.29. Expenses of members[^c-df1b56802eec7a2fe61d6b448591cb12]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df1b56802eec7a2fe61d6b448591cb12]: Commencement: [Rule 3.29](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.29) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-df1b56802eec7a2fe61d6b448591cb12]: Commencement: [Rule 3.29](https://www.legislation.gov.uk/uksi/1986/1925/rule/3.29) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.157. The chairman at meetings[^key-e7aa9fa0be83ee90a6001cf0f6dee951]
+## 4.157. The chairman at meetings[^c-e7aa9fa0be83ee90a6001cf0f6dee951]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7aa9fa0be83ee90a6001cf0f6dee951]: Commencement: [Rule 4.157](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.157) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e7aa9fa0be83ee90a6001cf0f6dee951]: Commencement: [Rule 4.157](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.157) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190A. Cartel offence: prosecution guidance[^key-e904277a7ee7b0a1aa3d06987365121b]
+## 190A. Cartel offence: prosecution guidance[^c-e904277a7ee7b0a1aa3d06987365121b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e904277a7ee7b0a1aa3d06987365121b]: Textual amendment: [S. 190A](https://www.legislation.gov.uk/ukpga/2002/40/section/190A) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(7)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/7), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-e904277a7ee7b0a1aa3d06987365121b]: Textual amendment: [S. 190A](https://www.legislation.gov.uk/ukpga/2002/40/section/190A) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 47(7)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/7), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3) (with [s. 47(8)](https://www.legislation.gov.uk/ukpga/2013/24/section/47/8)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

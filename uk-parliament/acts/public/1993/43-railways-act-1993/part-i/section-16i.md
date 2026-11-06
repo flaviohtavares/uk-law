@@ -24,11 +24,11 @@ summary: ''
 
 (2) Nothing in any of those sections or a direction under section 16A above—
 
-- (a) limits any power of the Office of Rail and Road[^key-870b101e3613bdcc10a8bf64b5a3f859] under any other provision of this Act; or
+- (a) limits any power of the Office of Rail and Road[^c-870b101e3613bdcc10a8bf64b5a3f859] under any other provision of this Act; or
 - (b) affects any obligation to provide a new railway facility, or to improve or develop an existing railway facility, arising otherwise than from such a direction.
 
 ## Annotations
 
 [^c14099431]: Textual amendment: S. 16I inserted (15.10.2005) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [ss. 223](https://www.legislation.gov.uk/ukpga/2000/38/section/223), [275(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/275/1); [S.I. 2005/2862](https://www.legislation.gov.uk/uksi/2005/2862), [art. 3](https://www.legislation.gov.uk/uksi/2005/2862/article/3)
 
-[^key-870b101e3613bdcc10a8bf64b5a3f859]: Textual amendment: Words in s. 16I(2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(x)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/x)
+[^c-870b101e3613bdcc10a8bf64b5a3f859]: Textual amendment: Words in s. 16I(2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(x)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/x)

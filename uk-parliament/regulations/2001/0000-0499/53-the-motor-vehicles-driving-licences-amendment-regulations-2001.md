@@ -108,7 +108,7 @@ In regulation 15 for paragraph (1)(b) there shall be substituted—
 
 (3) In paragraph (2) for “regulation 44” there shall be substituted “ regulations 44 and 44A ”.
 
-(4)[^key-cdcf717b3b30e48a8c6f95cdf170d323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cdcf717b3b30e48a8c6f95cdf170d323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) After paragraph (4) there shall be in inserted the following paragraph—
 
@@ -228,6 +228,6 @@ The period of validity of a certificate of successful completion of an approved 
 
 [^c15844211]: Marginal citation: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864), to which there are amendments not relevant to these Regulations.
 
-[^key-cdcf717b3b30e48a8c6f95cdf170d323]: Textual amendment: Reg. 8(4) revoked (1.2.2001) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/236)](https://www.legislation.gov.uk/uksi/2001/236), [regs. 1](https://www.legislation.gov.uk/uksi/2001/236/regulation/1), [2](https://www.legislation.gov.uk/uksi/2001/236/regulation/2)
+[^c-cdcf717b3b30e48a8c6f95cdf170d323]: Textual amendment: Reg. 8(4) revoked (1.2.2001) by [The Motor Vehicles (Driving Licences) (Amendment) (No. 2) Regulations 2001 (S.I. 2001/236)](https://www.legislation.gov.uk/uksi/2001/236), [regs. 1](https://www.legislation.gov.uk/uksi/2001/236/regulation/1), [2](https://www.legislation.gov.uk/uksi/2001/236/regulation/2)
 
 [^c15844221]: Marginal citation: [1995 c. 13](https://www.legislation.gov.uk/ukpga/1995/13).

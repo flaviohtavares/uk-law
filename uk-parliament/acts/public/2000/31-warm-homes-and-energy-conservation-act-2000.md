@@ -51,7 +51,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) Regulations under subsection (2) shall be made by statutory instrument; and a statutory instrument containing such regulations made by the Secretary of State shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 1A. Objective for addressing fuel poverty: England[^key-2455b03f84f4b6fa4e18bc5486325d11]
+## 1A. Objective for addressing fuel poverty: England[^c-2455b03f84f4b6fa4e18bc5486325d11]
 
 (1) The Secretary of State must make regulations setting out an objective for addressing the situation of persons in England who live in fuel poverty.
 
@@ -97,16 +97,16 @@ the Secretary of State must revise the strategy within 6 months of the day on wh
 - (c) the Gas and Electricity Markets Authority, and
 - (d) such other persons as the Secretary of State thinks fit.
 
-## 2. Strategy relating to fuel poverty: Wales.[^c887086][^key-d1e66dcc07a88147484e1235909623e9]
+## 2. Strategy relating to fuel poverty: Wales.[^c887086][^c-d1e66dcc07a88147484e1235909623e9]
 
-(1) It shall be the duty of the appropriate authority to prepare and publish, before the end of the period of twelve months beginning with the relevant commencement, a strategy as respects Wales[^key-06964b565c1404606361bbf26921d0ee] setting out the authority’s policies for ensuring, by means including the taking of measures to ensure the efficient use of energy, that as far as reasonably practicable persons do not live in fuel poverty.
+(1) It shall be the duty of the appropriate authority to prepare and publish, before the end of the period of twelve months beginning with the relevant commencement, a strategy as respects Wales[^c-06964b565c1404606361bbf26921d0ee] setting out the authority’s policies for ensuring, by means including the taking of measures to ensure the efficient use of energy, that as far as reasonably practicable persons do not live in fuel poverty.
 
 (2) The strategy must—
 
 - (a) describe the households to which it applies,
 - (b) specify a comprehensive package of measures for ensuring the efficient use of energy, such as the installation of appropriate equipment or insulation,
 - (c) specify interim objectives to be achieved and target dates for achieving them, and
-- (d) specify a target date for achieving the objective of ensuring that as far as reasonably practicable persons in [^key-daea73679d70c44a56ed53bdeb5c47c0]... Wales do not live in fuel poverty.
+- (d) specify a target date for achieving the objective of ensuring that as far as reasonably practicable persons in [^c-daea73679d70c44a56ed53bdeb5c47c0]... Wales do not live in fuel poverty.
 
 (3) The target date specified under subsection (2)(d) must be not more than fifteen years after the date on which the strategy is published.
 
@@ -114,7 +114,7 @@ the Secretary of State must revise the strategy within 6 months of the day on wh
 
 - (a) local authorities or associations of local authorities,
 - (b) persons appearing to the appropriate authority to represent the interests of persons living in fuel poverty,
-- (c) the Gas and Electricity Markets Authority and Citizens Advice[^key-012f437baf47da52311f839058105336], and
+- (c) the Gas and Electricity Markets Authority and Citizens Advice[^c-012f437baf47da52311f839058105336], and
 - (d) such other persons as the appropriate authority thinks fit.
 
 (5) The appropriate authority shall take such steps as are in its opinion necessary to implement the strategy.
@@ -130,13 +130,13 @@ the Secretary of State must revise the strategy within 6 months of the day on wh
 (8) In this section—
 
 - “**the appropriate authority**” means—
-  - (a) [^key-be1dadfb1acbdb0b5f68af025a14f61d]...
+  - (a) [^c-be1dadfb1acbdb0b5f68af025a14f61d]...
   - (b) as respects Wales, the National Assembly for Wales;
 - “**the relevant commencement**” means—
-  - (a) [^key-f41dd3f831a76a2e7f262e7c8a2121aa]...
+  - (a) [^c-f41dd3f831a76a2e7f262e7c8a2121aa]...
   - (b) as respects Wales, the day on which this section comes into force as respects Wales.
 
-(9)[^key-6f2d88563e0d5cdc4589ba3cb73c4789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-6f2d88563e0d5cdc4589ba3cb73c4789] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Expenses.
 
@@ -152,7 +152,7 @@ There shall be paid out of money provided by Parliament—
 - (a) in relation to England, the council of a county, district or London borough, the Common Council of the City of London or the Council of the Isles of Scilly, and
 - (b) in relation to Wales, the council of a county or county borough.
 
-(1A)[^key-06b2dc41e8c2f4c4b1e2edd9ecef45ee] In this Act “Citizens Advice” means the National Association of Citizens Advice Bureaux.
+(1A)[^c-06b2dc41e8c2f4c4b1e2edd9ecef45ee] In this Act “Citizens Advice” means the National Association of Citizens Advice Bureaux.
 
 (2) This Act may be cited as the Warm Homes and Energy Conservation Act 2000.
 
@@ -162,24 +162,24 @@ There shall be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-2455b03f84f4b6fa4e18bc5486325d11]: Textual amendment: Ss. 1A 1B inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-2455b03f84f4b6fa4e18bc5486325d11]: Textual amendment: Ss. 1A 1B inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
 
 [^c887086]: Commencement: S. 2 wholly in force at 1.4.2002; s. 2 in force at Royal Assent as respects England only; s. 2 in force for Wales at 1.4.2002 by [S.I. 2002/758](https://www.legislation.gov.uk/uksi/2002/758), [art. 2](https://www.legislation.gov.uk/uksi/2002/758/article/2)
 
-[^key-d1e66dcc07a88147484e1235909623e9]: Textual amendment: Word in s. 2 inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/a), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-d1e66dcc07a88147484e1235909623e9]: Textual amendment: Word in s. 2 inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(a)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/a), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
 
-[^key-06964b565c1404606361bbf26921d0ee]: Textual amendment: Words in s. 2(1) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/b), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-06964b565c1404606361bbf26921d0ee]: Textual amendment: Words in s. 2(1) inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/b), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
 
-[^key-daea73679d70c44a56ed53bdeb5c47c0]: Textual amendment: Words in s. 2(2)(d) omitted (18.2.2014) by virtue of [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/c), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-daea73679d70c44a56ed53bdeb5c47c0]: Textual amendment: Words in s. 2(2)(d) omitted (18.2.2014) by virtue of [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(c)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/c), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
 
-[^key-012f437baf47da52311f839058105336]: Textual amendment: Words in s. 2(4)(c) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/9/2) (with [Sch. 1 paras. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-012f437baf47da52311f839058105336]: Textual amendment: Words in s. 2(4)(c) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/9/2) (with [Sch. 1 paras. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-be1dadfb1acbdb0b5f68af025a14f61d]: Textual amendment: Words in s. 2(8) omitted (18.2.2014) by virtue of [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/d/i), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-be1dadfb1acbdb0b5f68af025a14f61d]: Textual amendment: Words in s. 2(8) omitted (18.2.2014) by virtue of [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/d/i), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
 
-[^key-f41dd3f831a76a2e7f262e7c8a2121aa]: Textual amendment: Words in s. 2(8) omitted (18.2.2014) by virtue of [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/d/ii), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
+[^c-f41dd3f831a76a2e7f262e7c8a2121aa]: Textual amendment: Words in s. 2(8) omitted (18.2.2014) by virtue of [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 145(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2013/32/section/145/3/d/ii), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2)
 
-[^key-6f2d88563e0d5cdc4589ba3cb73c4789]: Textual amendment: S. 2(9) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-6f2d88563e0d5cdc4589ba3cb73c4789]: Textual amendment: S. 2(9) repealed (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2007/17/schedule/8); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-06b2dc41e8c2f4c4b1e2edd9ecef45ee]: Textual amendment: S. 4(1A) inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/9/3) (with [Sch. 1 paras. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-06b2dc41e8c2f4c4b1e2edd9ecef45ee]: Textual amendment: S. 4(1A) inserted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/9/3) (with [Sch. 1 paras. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
 [^c887088]: Subordinate legislation: S. 4(2) power fully excercised by [S.I. 2002/758](https://www.legislation.gov.uk/uksi/2002/758), [art. 2](https://www.legislation.gov.uk/uksi/2002/758/article/2)

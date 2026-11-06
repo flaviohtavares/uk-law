@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100B. Code of practice: consultation and procedural requirements[^key-d64745044b90175975ecaac1c084bb8d]
+## 100B. Code of practice: consultation and procedural requirements[^c-d64745044b90175975ecaac1c084bb8d]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Commission must consult the following on a draft of a code under section 100A (1)[^key-fd31563a1e80569a05225aa013e3e03a] —
+(1) The Commission must consult the following on a draft of a code under section 100A (1)[^c-fd31563a1e80569a05225aa013e3e03a] —
 
 - (a) the Speaker’s Committee;
 - (b) the Levelling Up, Housing and Communities Committee;
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d64745044b90175975ecaac1c084bb8d]: Textual amendment: Ss. 100A, 100B and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/29/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-d64745044b90175975ecaac1c084bb8d]: Textual amendment: Ss. 100A, 100B and cross-heading inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 29(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/29/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
 
-[^key-fd31563a1e80569a05225aa013e3e03a]: Textual amendment: Word in s. 100B(1) inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 38(3)](https://www.legislation.gov.uk/asc/2024/5/section/38/3), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(m)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/m)
+[^c-fd31563a1e80569a05225aa013e3e03a]: Textual amendment: Word in s. 100B(1) inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 38(3)](https://www.legislation.gov.uk/asc/2024/5/section/38/3), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(m)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/m)

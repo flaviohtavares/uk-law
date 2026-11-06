@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104CA. Decision-making[^key-e6096cf33cec45d6994c13fc7474f6b3]
+## 104CA. Decision-making[^c-e6096cf33cec45d6994c13fc7474f6b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ the decision is to be made by a simple majority of the other voting members pres
 
 ## Annotations
 
-[^key-e6096cf33cec45d6994c13fc7474f6b3]: Textual amendment: [Ss. 104CA](https://www.legislation.gov.uk/ukpga/2009/20/section/104CA), [104CB](https://www.legislation.gov.uk/ukpga/2009/20/section/104CB) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/6/5), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-e6096cf33cec45d6994c13fc7474f6b3]: Textual amendment: [Ss. 104CA](https://www.legislation.gov.uk/ukpga/2009/20/section/104CA), [104CB](https://www.legislation.gov.uk/ukpga/2009/20/section/104CB) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 6(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/6/5), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

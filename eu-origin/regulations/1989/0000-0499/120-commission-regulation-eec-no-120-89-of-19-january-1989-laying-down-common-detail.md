@@ -37,52 +37,52 @@ of 19 January 1989
 
 laying down common detailed rules for the application of export levies and charges on agricultural products (revoked)
 
-[^key-7524ed0ea44077bc083ee05b2711b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7524ed0ea44077bc083ee05b2711b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4a.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4a.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-7524ed0ea44077bc083ee05b2711b0ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7524ed0ea44077bc083ee05b2711b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7524ed0ea44077bc083ee05b2711b0ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-7524ed0ea44077bc083ee05b2711b0ef]
+## ANNEX I[^c-7524ed0ea44077bc083ee05b2711b0ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Correlation table[^key-7524ed0ea44077bc083ee05b2711b0ef]
+## ANNEX II — Correlation table[^c-7524ed0ea44077bc083ee05b2711b0ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7524ed0ea44077bc083ee05b2711b0ef]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-7524ed0ea44077bc083ee05b2711b0ef]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

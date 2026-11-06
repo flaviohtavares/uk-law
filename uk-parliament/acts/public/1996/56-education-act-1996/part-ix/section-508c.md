@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 508C. Local authorities in England: travel arrangements etc for other children[^key-955542e2829d2360397b9b8b95f5cc7a][^key-df82d42709314c7296748c08b3554faa]
+## 508C. Local authorities in England: travel arrangements etc for other children[^c-955542e2829d2360397b9b8b95f5cc7a][^c-df82d42709314c7296748c08b3554faa]
 
 *Extent: E+W*
 
-(1) A local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] in England may make such school travel arrangements as they consider necessary, in relation to any child in the authority's area to whom this section applies, for the purpose of facilitating the child's attendance at any relevant educational establishment in relation to the child.
+(1) A local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] in England may make such school travel arrangements as they consider necessary, in relation to any child in the authority's area to whom this section applies, for the purpose of facilitating the child's attendance at any relevant educational establishment in relation to the child.
 
 (2) This section applies to a child who is not an eligible child for the purposes of section 508B.
 
@@ -39,15 +39,15 @@ summary: ''
 (6) References to a “**relevant educational establishment**”, in relation to a child to whom this section applies, are references to—
 
 - (a) any school at which he is a registered pupil,
-- (b) any institution within the further education sector, or 16 to 19 Academy,[^key-8614d6aee01e54e104e85bde5b7730e2] at which he is receiving education, or
+- (b) any institution within the further education sector, or 16 to 19 Academy,[^c-8614d6aee01e54e104e85bde5b7730e2] at which he is receiving education, or
 - (c) any place other than a school where he is receiving education by virtue of arrangements made in pursuance of section 19(1).
 
 ## Annotations
 
-[^key-955542e2829d2360397b9b8b95f5cc7a]: Textual amendment: Ss. 508B-508D inserted (1.4.2007 for the insertion of ss. 508B(11), 508D, 1.9.2007 in so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 77(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/77/1), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(m)](https://www.legislation.gov.uk/uksi/2007/935/article/5/m); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/b)
+[^c-955542e2829d2360397b9b8b95f5cc7a]: Textual amendment: Ss. 508B-508D inserted (1.4.2007 for the insertion of ss. 508B(11), 508D, 1.9.2007 in so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 77(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/77/1), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(m)](https://www.legislation.gov.uk/uksi/2007/935/article/5/m); [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(b)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/b)
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
-[^key-8614d6aee01e54e104e85bde5b7730e2]: Textual amendment: Words in s. 508C(6)(b) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 13 para. 9(11)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/9/11); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-8614d6aee01e54e104e85bde5b7730e2]: Textual amendment: Words in s. 508C(6)(b) inserted (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 13 para. 9(11)](https://www.legislation.gov.uk/ukpga/2011/21/schedule/13/paragraph/9/11); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

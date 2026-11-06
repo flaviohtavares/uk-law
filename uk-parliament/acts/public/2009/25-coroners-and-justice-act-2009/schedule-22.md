@@ -39,7 +39,7 @@ The order made by virtue of this sub-paragraph is referred to in this Schedule a
 
 (4) The transitional order must, in relation to each coroner area, contain the provision that may be made under paragraph 2(1)(b) of Schedule 3 (minimum number of assistant coroners).
 
-**1A.**[^key-ee4f38e4df3c8e83e3ff4f3e968f50c9] An order under paragraph 2 of Schedule 2 (alteration of coroner areas) may combine two or more coroner areas each of which—
+**1A.**[^c-ee4f38e4df3c8e83e3ff4f3e968f50c9] An order under paragraph 2 of Schedule 2 (alteration of coroner areas) may combine two or more coroner areas each of which—
 
 - (a) is wholly within the area of the same local authority, and
 - (b) is specified in either—
@@ -131,7 +131,7 @@ is to be treated for the purposes of paragraph 3(3) of Schedule 10 as having hel
 
 *Extent: E+W+N.I.*
 
-**7.**[^key-4b37e88bbfa007a8258e862d6489459d] (1) No provision of Chapter 1 of Part 2 affects the operation of—
+**7.**[^c-4b37e88bbfa007a8258e862d6489459d] (1) No provision of Chapter 1 of Part 2 affects the operation of—
 
 - (a) any rule of the common law, or
 - (b) any provision of an Act or of subordinate legislation,
@@ -147,19 +147,19 @@ in relation to offences committed wholly or partly before the commencement of th
 
 #### Suicide
 
-**8.**[^key-98160657dc4a5e2651b643001d9d44f3] The reference to “aiding, abetting, counselling or procuring suicide” in the following enactments is to be read as including a reference to “an offence under section 2(1) of the Suicide Act 1961 (encouraging or assisting suicide) in connection with the death of a person”—
+**8.**[^c-98160657dc4a5e2651b643001d9d44f3] The reference to “aiding, abetting, counselling or procuring suicide” in the following enactments is to be read as including a reference to “an offence under section 2(1) of the Suicide Act 1961 (encouraging or assisting suicide) in connection with the death of a person”—
 
 - (a) section 70(4) of the Army Act 1955 (3 & 4 Eliz. 2 c. 18);
 - (b) section 70(4) of the Air Force Act 1955 (3 & 4 Eliz. 2 c. 19);
 - (c) section 48(2) of the Naval Discipline Act 1957 (c. 53).
 
-**9.**[^key-af4f88e35df4f0e78fa24810bac03ebc] Until such time as the following provisions of the Coroners Act 1988 (c. 13) are repealed by this Act, they have effect with the following amendments—
+**9.**[^c-af4f88e35df4f0e78fa24810bac03ebc] Until such time as the following provisions of the Coroners Act 1988 (c. 13) are repealed by this Act, they have effect with the following amendments—
 
 - (a) in section 16(1)(a)(iii) for “consisting of aiding, abetting, counselling or procuring the suicide of the deceased” substitute “ (encouraging or assisting suicide) in connection with the death of the deceased ”,
 - (b) in section 17(1)(c) for “consisting of aiding, abetting, counselling or procuring the suicide of another” substitute “ (encouraging or assisting suicide) in connection with a death ”, and
 - (c) in section 17(2)(c) for “consisting of aiding, abetting, counselling or procuring the suicide of another” substitute “ (encouraging or assisting suicide) in connection with a death ”.
 
-**10.**[^key-66440cc7ee634c800b180d6c7742a2d9] (1) In this paragraph—
+**10.**[^c-66440cc7ee634c800b180d6c7742a2d9] (1) In this paragraph—
 
 - “**old offence**” means an offence under section 2(1) of the Suicide Act 1961 as that section had effect before the section 59 commencement date, or an attempt to commit such an offence;
 - “**new offence**” means an offence under section 2(1) of that Act as that Act is amended by section 59 of this Act.
@@ -176,7 +176,7 @@ in relation to offences committed wholly or partly before the commencement of th
 
 *Extent: N.I.*
 
-**11.**[^key-322f2424e4a0d1b2557e9c449ff35d43] (1) In this paragraph—
+**11.**[^c-322f2424e4a0d1b2557e9c449ff35d43] (1) In this paragraph—
 
 - “**old offence**” means an offence under section 13(1) of the Criminal Justice Act (Northern Ireland) 1966 (c. 20) as that section had effect before the section 60 commencement date, or an attempt to commit such an offence;
 - “**new offence**” means an offence under section 13(1) of that Act as that Act is amended by section 60 of this Act.
@@ -193,21 +193,21 @@ in relation to offences committed wholly or partly before the commencement of th
 
 #### Prohibited images of children
 
-**12.**[^key-f1823a4e7eb3243727e85be28669f5cd] (1) In section 66(3)(a) in its application in relation to England and Wales the reference to the general limit in a magistrates’ court[^key-50d65b5171c8d4c3803d09964c0b0ffb] is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022[^key-b52e27b64b1ccd4fd4ebe29f88849bd4].
+**12.**[^c-f1823a4e7eb3243727e85be28669f5cd] (1) In section 66(3)(a) in its application in relation to England and Wales the reference to the general limit in a magistrates’ court[^c-50d65b5171c8d4c3803d09964c0b0ffb] is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022[^c-b52e27b64b1ccd4fd4ebe29f88849bd4].
 
 (2) The Schedules mentioned in subsections (1)(b) and (2)(b) of section 67, as applied by virtue of that section, have effect in relation to property regardless of when it was lawfully seized.
 
 #### Slavery, servitude and forced or compulsory labour
 
-**13.**[^key-9f67ab40e8a61af65118c37560d63786] In the definition of “the relevant period” in section 71(4), as it extends to England and Wales, the reference to 12 months is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022[^key-fb6f6996c0c1a6a9b4c25a13a176cbc2].
+**13.**[^c-9f67ab40e8a61af65118c37560d63786] In the definition of “the relevant period” in section 71(4), as it extends to England and Wales, the reference to 12 months is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022[^c-fb6f6996c0c1a6a9b4c25a13a176cbc2].
 
 ### Part 3 — Criminal evidence, investigations and procedure
 
 #### Anonymity in investigations
 
-**14.**[^key-961767afd78cff2d87f90bb19069ca27] In section 76(12)(a) the reference to the general limit in a magistrates’ court[^key-829fc7405a880dff71bde2b7da48878b] is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022[^key-7d093afcae77d7d27264140dd6563910].
+**14.**[^c-961767afd78cff2d87f90bb19069ca27] In section 76(12)(a) the reference to the general limit in a magistrates’ court[^c-829fc7405a880dff71bde2b7da48878b] is to be read as a reference to 6 months in relation to an offence committed before 2 May 2022[^c-7d093afcae77d7d27264140dd6563910].
 
-**15.**[^key-d21dbc6e12ff27b321aa3539261aa9b7] (1) Notwithstanding subsection (4)(a) of section 84, references in that section to a service offence are to be treated as including a reference to—
+**15.**[^c-d21dbc6e12ff27b321aa3539261aa9b7] (1) Notwithstanding subsection (4)(a) of section 84, references in that section to a service offence are to be treated as including a reference to—
 
 - (a) an offence under Part 2 of the Army Act 1955 (3 & 4 Eliz. 2 c. 18), Part 2 of the Air Force Act 1955 (3 & 4 Eliz. 2 c. 19) or Part 1 of the Naval Discipline Act 1957 (c. 53),
 - (b) an offence under paragraph 4(6) of Schedule 5A to the Army Act 1955 or the Air Force Act 1955 or of Schedule 4A to the Naval Discipline Act 1957,
@@ -303,7 +303,7 @@ in relation to offences committed wholly or partly before the commencement of th
 
 #### Vulnerable and intimidated witnesses
 
-**23.**[^key-1eedea21049d9f06042a95e5308157d8] (1) The amendments made by sections 98 to 103 apply to proceedings instituted before the commencement of the amendment in question.
+**23.**[^c-1eedea21049d9f06042a95e5308157d8] (1) The amendments made by sections 98 to 103 apply to proceedings instituted before the commencement of the amendment in question.
 
 (2) But the amendments made by sections 98 to 103 do not affect the continued operation of a special measures direction given before the commencement of the amendment in question.
 
@@ -314,11 +314,11 @@ in relation to offences committed wholly or partly before the commencement of th
 
 (4) In this paragraph, “**special measures direction**” means a direction under section 19 of the Youth Justice and Criminal Evidence Act 1999.
 
-**24.**[^key-e49bac60bbd9482916d9bc657a94c83a] The references in paragraphs 30 and 31 of Schedule 1A to the Youth Justice and Criminal Evidence Act 1999 (inserted by Schedule 14 to this Act) to an offence under Part 2 of the Serious Crime Act 2007 (c. 27) include a reference to the common law offence of incitement.
+**24.**[^c-e49bac60bbd9482916d9bc657a94c83a] The references in paragraphs 30 and 31 of Schedule 1A to the Youth Justice and Criminal Evidence Act 1999 (inserted by Schedule 14 to this Act) to an offence under Part 2 of the Serious Crime Act 2007 (c. 27) include a reference to the common law offence of incitement.
 
 #### Evidence of previous complaint
 
-**25.**[^key-33eaaad7ef63e6fbeb8422e158cdebb8] Section 112 does not have effect in relation to trials or hearings begun before the commencement of that section.
+**25.**[^c-33eaaad7ef63e6fbeb8422e158cdebb8] Section 112 does not have effect in relation to trials or hearings begun before the commencement of that section.
 
 #### Indictment of offenders
 
@@ -330,11 +330,11 @@ in relation to offences committed wholly or partly before the commencement of th
 
 #### Sentencing Council for England and Wales
 
-**27.**[^key-0265469671e84dfb95bb6b39bb39a412] (1) Nothing in section 125 or 126 has effect in relation to the sentencing of persons for offences committed before the commencement of the section in question.
+**27.**[^c-0265469671e84dfb95bb6b39bb39a412] (1) Nothing in section 125 or 126 has effect in relation to the sentencing of persons for offences committed before the commencement of the section in question.
 
 (2) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of sub-paragraph (1) to have been committed on the last of those days.
 
-**28.**[^key-381946eb19c97f52ce2c0a423499df14] (1) Without prejudice to the generality of section 177, an order under subsection (3) of that section made by the Lord Chancellor may provide—
+**28.**[^c-381946eb19c97f52ce2c0a423499df14] (1) Without prejudice to the generality of section 177, an order under subsection (3) of that section made by the Lord Chancellor may provide—
 
 - (a) for the Sentencing Council for England and Wales to exercise any function conferred on the Sentencing Guidelines Council by any provision of Chapter 1 of Part 12 of the Criminal Justice Act 2003 (c. 44) pending the repeal of the provision in question by this Act;
 - (b) for existing guidelines which have effect immediately before the coming into force of section 125(1) to be treated as guidelines issued by the Sentencing Council for England and Wales under this Act;
@@ -347,7 +347,7 @@ in relation to offences committed wholly or partly before the commencement of th
 
 #### Driving disqualification
 
-**29.**[^key-ae7b951ec083b67ceade8be9e1ce1574] (1) No provision of Schedule 16 applies in relation to, or has effect by reference to, offences committed wholly or partly before the commencement of the provision in question.
+**29.**[^c-ae7b951ec083b67ceade8be9e1ce1574] (1) No provision of Schedule 16 applies in relation to, or has effect by reference to, offences committed wholly or partly before the commencement of the provision in question.
 
 (2) An offence is partly committed before the commencement of a provision if—
 
@@ -356,14 +356,14 @@ in relation to offences committed wholly or partly before the commencement of th
 
 (3) “**Relevant event**” in relation to an offence means any act or other event (including any consequence of an act) proof of which is required for conviction of the offence.
 
-**30.**[^key-6a6c36ecccb6d84c0a1c504d28ac8273] (1) During the transitory period, the Road Traffic Offenders Act 1988 (c. 53) has effect with the amendments made by paragraphs 31 to 33.
+**30.**[^c-6a6c36ecccb6d84c0a1c504d28ac8273] (1) During the transitory period, the Road Traffic Offenders Act 1988 (c. 53) has effect with the amendments made by paragraphs 31 to 33.
 
 (2) The transitory period is—
 
 - (a) in the case of paragraph 31 or 32, the period beginning with the coming into force of the paragraph and ending with the coming into force of section 35 of the Road Safety Act 2006 (c. 49) (which substitutes sections 34A to 34C of the Road Traffic Offenders Act 1988 (c. 53));
 - (b) in the case of paragraph 33, the period beginning with the coming into force of the paragraph and ending with the coming into force of paragraph 44(2) of Schedule 3 to the Road Safety Act 2006.
 
-**31.**[^key-1a08a0363e18780fe4d47e316c92eb8d] In section 34A (reduced disqualification period for attendance on courses)—
+**31.**[^c-1a08a0363e18780fe4d47e316c92eb8d] In section 34A (reduced disqualification period for attendance on courses)—
 
 - (a) in subsection (1)(b), after “months” insert “ (disregarding any extension period added pursuant to section 35A or 35C) ”,
 - (b) in subsection (2), after “section 34” insert “ (disregarding any extension period added pursuant to section 35A or 35C) (“**the unreduced period**”) ”,
@@ -375,7 +375,7 @@ in relation to offences committed wholly or partly before the commencement of th
   , and
 - (e) in subsection (5), at the end insert “ but including any extension period added pursuant to section 35A or 35C. ”
 
-**32.**[^key-5bad14aec392fb13dd6f65b51714f4e4] In section 34B (certificates of completion of courses)—
+**32.**[^c-5bad14aec392fb13dd6f65b51714f4e4] In section 34B (certificates of completion of courses)—
 
 - (a) in subsection (1), for “period of disqualification imposed under section 34” substitute “ total unreduced period of disqualification ”,
 - (b) in subsection (2)—
@@ -389,7 +389,7 @@ in relation to offences committed wholly or partly before the commencement of th
   > - “**the total reduced period of disqualification**” means the period of disqualification imposed under section 34 (including any extension period added to that period pursuant to section 35A or 35C), as reduced by an order under section 34A;
   > - “**the total unreduced period of disqualification**” means the period of disqualification imposed under section 34 (including any such extension period), disregarding any reduction by such an order.
 
-**33.**[^key-5e3d4fd77c69180dd90c91ac3ec6bbb6] In section 47(2) (supplementary provisions as to disqualification and endorsement) after “or more” insert “ (disregarding any extension period) ”.
+**33.**[^c-5e3d4fd77c69180dd90c91ac3ec6bbb6] In section 47(2) (supplementary provisions as to disqualification and endorsement) after “or more” insert “ (disregarding any extension period) ”.
 
 *Extent: E+W+S*
 
@@ -415,7 +415,7 @@ in relation to offences committed wholly or partly before the commencement of th
 
 *Extent: N.I.*
 
-**38.**[^key-8f6279103468e55ad4c9ebb286859d28] (1) The amendments made by section 139 have effect in relation only to offences committed on or after the day that section comes into force.
+**38.**[^c-8f6279103468e55ad4c9ebb286859d28] (1) The amendments made by section 139 have effect in relation only to offences committed on or after the day that section comes into force.
 
 (2) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of sub-paragraph (1) to have been committed on the last of those days.
 
@@ -423,7 +423,7 @@ in relation to offences committed wholly or partly before the commencement of th
 
 *Extent: E+W+N.I.*
 
-**39.**[^key-191ab79100d4d56e33d6938025f39c13] The amendments made by sections 140 and 141 (appeals against certain confiscation orders) apply to appeals which are pending when this Act is passed (as well as appeals made after that time).
+**39.**[^c-191ab79100d4d56e33d6938025f39c13] The amendments made by sections 140 and 141 (appeals against certain confiscation orders) apply to appeals which are pending when this Act is passed (as well as appeals made after that time).
 
 ### Part 5 — Miscellaneous
 
@@ -431,15 +431,15 @@ in relation to offences committed wholly or partly before the commencement of th
 
 *Extent: E+W+N.I.*
 
-**40.**[^key-8c9eb9a0a9acde453e20f105b73c6326][^key-b43eec8bf2e6155258e1884cf1f155de] No provision of paragraph 1, 2 or 13 to 18 of Schedule 17 has effect in relation to trials or hearings begun before the commencement of that provision.
+**40.**[^c-8c9eb9a0a9acde453e20f105b73c6326][^c-b43eec8bf2e6155258e1884cf1f155de] No provision of paragraph 1, 2 or 13 to 18 of Schedule 17 has effect in relation to trials or hearings begun before the commencement of that provision.
 
 *Extent: E+W+N.I.*
 
-**41.**[^key-df11033417fea6564bd60ec17ef92dca] (1) No provision of paragraph 6, 8, 10 or 12 of that Schedule has effect in relation to any sentence passed in relation to a conviction for an offence committed before the coming into force of that provision.
+**41.**[^c-df11033417fea6564bd60ec17ef92dca] (1) No provision of paragraph 6, 8, 10 or 12 of that Schedule has effect in relation to any sentence passed in relation to a conviction for an offence committed before the coming into force of that provision.
 
 (2) Where an offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of sub-paragraph (1) to have been committed on the last of those days.
 
-**42.**[^key-ac989879cdbce2063517683fccbd2eb6] (1) No provision of paragraph 7, 9 or 11 of that Schedule has effect in relation to any sentence passed in relation to a conviction for a service offence committed before the coming into force of that provision.
+**42.**[^c-ac989879cdbce2063517683fccbd2eb6] (1) No provision of paragraph 7, 9 or 11 of that Schedule has effect in relation to any sentence passed in relation to a conviction for a service offence committed before the coming into force of that provision.
 
 (2) Where a service offence is found to have been committed over a period of 2 or more days, or at some time during a period of 2 or more days, it must be taken for the purposes of sub-paragraph (1) to have been committed on the last of those days.
 
@@ -450,21 +450,21 @@ in relation to offences committed wholly or partly before the commencement of th
 
 #### Transfer of functions to Parole Board
 
-**43.**[^key-8a6668e648ddc7959dedfaddfab7e4e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-8a6668e648ddc7959dedfaddfab7e4e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Knives in court buildings etc
 
-**44.**[^key-fc59d079a19043c31cd09b136afc01e5] (1) No provision of section 146 has effect in relation to property which was surrendered or seized before the coming into force of that provision.
+**44.**[^c-fc59d079a19043c31cd09b136afc01e5] (1) No provision of section 146 has effect in relation to property which was surrendered or seized before the coming into force of that provision.
 
 (2) No provision of section 147 has effect in relation to property which was surrendered or seized before the coming into force of that provision.
 
 #### Criminal memoirs etc
 
-**45.**[^key-0d8fe7de3ecb8ec21d1c6444636c6126] Until both sections 22(1) and 27(1) of the Justice (Northern Ireland) Act 2002 (c. 26) come into force the reference in section 161(3)(b) to the Advocate General for Northern Ireland is to be read as a reference to the Attorney General for Northern Ireland.
+**45.**[^c-0d8fe7de3ecb8ec21d1c6444636c6126] Until both sections 22(1) and 27(1) of the Justice (Northern Ireland) Act 2002 (c. 26) come into force the reference in section 161(3)(b) to the Advocate General for Northern Ireland is to be read as a reference to the Attorney General for Northern Ireland.
 
 #### Assessment notices
 
-**46.**[^key-7f5af4f9f381daffe4467018de78ba36] Until paragraph 8 of Schedule 4 to the Courts Act 2003 (c. 39) comes into force paragraph 1(1A) of Schedule 9 to the Data Protection Act 1998 (c. 29) (as inserted by paragraph 14(2) of Schedule 20 to this Act) has effect as if the words “or a District Judge (Magistrates' Courts)” were omitted.
+**46.**[^c-7f5af4f9f381daffe4467018de78ba36] Until paragraph 8 of Schedule 4 to the Courts Act 2003 (c. 39) comes into force paragraph 1(1A) of Schedule 9 to the Data Protection Act 1998 (c. 29) (as inserted by paragraph 14(2) of Schedule 20 to this Act) has effect as if the words “or a District Judge (Magistrates' Courts)” were omitted.
 
 #### Assessment of dangerousness and service offences
 
@@ -472,55 +472,55 @@ in relation to offences committed wholly or partly before the commencement of th
 
 ## Annotations
 
-[^key-ee4f38e4df3c8e83e3ff4f3e968f50c9]: Textual amendment: [Sch. 22 para. 1A](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/1A) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 43](https://www.legislation.gov.uk/ukpga/2022/35/section/43), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
+[^c-ee4f38e4df3c8e83e3ff4f3e968f50c9]: Textual amendment: [Sch. 22 para. 1A](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/1A) inserted (28.6.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 43](https://www.legislation.gov.uk/ukpga/2022/35/section/43), [51(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/3)
 
-[^key-4b37e88bbfa007a8258e862d6489459d]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/7) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(a)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/a)
+[^c-4b37e88bbfa007a8258e862d6489459d]: Commencement: [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/7) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(a)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/a)
 
-[^key-98160657dc4a5e2651b643001d9d44f3]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/8) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/b)
+[^c-98160657dc4a5e2651b643001d9d44f3]: Commencement: [Sch. 22 para. 8](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/8) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/b)
 
-[^key-af4f88e35df4f0e78fa24810bac03ebc]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/9) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/b)
+[^c-af4f88e35df4f0e78fa24810bac03ebc]: Commencement: [Sch. 22 para. 9](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/9) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/b)
 
-[^key-66440cc7ee634c800b180d6c7742a2d9]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/10) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/b)
+[^c-66440cc7ee634c800b180d6c7742a2d9]: Commencement: [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/10) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/b)
 
-[^key-322f2424e4a0d1b2557e9c449ff35d43]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/11) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/b)
+[^c-322f2424e4a0d1b2557e9c449ff35d43]: Commencement: [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/11) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(b)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/b)
 
-[^key-f1823a4e7eb3243727e85be28669f5cd]: Commencement: Sch. 22 para. 12 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/a)
+[^c-f1823a4e7eb3243727e85be28669f5cd]: Commencement: Sch. 22 para. 12 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/a)
 
-[^key-50d65b5171c8d4c3803d09964c0b0ffb]: Textual amendment: Words in [Sch. 22 para. 12(1)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/12/1) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-50d65b5171c8d4c3803d09964c0b0ffb]: Textual amendment: Words in [Sch. 22 para. 12(1)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/12/1) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-b52e27b64b1ccd4fd4ebe29f88849bd4]: Textual amendment: Words in [Sch. 22 para. 12(1)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/12/1) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-b52e27b64b1ccd4fd4ebe29f88849bd4]: Textual amendment: Words in [Sch. 22 para. 12(1)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/12/1) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-9f67ab40e8a61af65118c37560d63786]: Commencement: Sch. 22 para. 13 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/b)
+[^c-9f67ab40e8a61af65118c37560d63786]: Commencement: Sch. 22 para. 13 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(b)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/b)
 
-[^key-fb6f6996c0c1a6a9b4c25a13a176cbc2]: Textual amendment: Words in [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/13) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-fb6f6996c0c1a6a9b4c25a13a176cbc2]: Textual amendment: Words in [Sch. 22 para. 13](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/13) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-961767afd78cff2d87f90bb19069ca27]: Commencement: Sch. 22 para. 14 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/c)
+[^c-961767afd78cff2d87f90bb19069ca27]: Commencement: Sch. 22 para. 14 in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/c)
 
-[^key-829fc7405a880dff71bde2b7da48878b]: Textual amendment: Words in [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/14) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-829fc7405a880dff71bde2b7da48878b]: Textual amendment: Words in [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/14) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-7d093afcae77d7d27264140dd6563910]: Textual amendment: Words in [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/14) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-7d093afcae77d7d27264140dd6563910]: Textual amendment: Words in [Sch. 22 para. 14](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/14) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-d21dbc6e12ff27b321aa3539261aa9b7]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/15) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/c)
+[^c-d21dbc6e12ff27b321aa3539261aa9b7]: Commencement: [Sch. 22 para. 15](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/15) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(c)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/c)
 
-[^key-1eedea21049d9f06042a95e5308157d8]: Commencement: [Sch. 22 para. 23](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/23) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(h)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/h)
+[^c-1eedea21049d9f06042a95e5308157d8]: Commencement: [Sch. 22 para. 23](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/23) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(h)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/h)
 
-[^key-e49bac60bbd9482916d9bc657a94c83a]: Commencement: [Sch. 22 para. 24](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/24) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(h)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/h)
+[^c-e49bac60bbd9482916d9bc657a94c83a]: Commencement: [Sch. 22 para. 24](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/24) in force at 27.6.2011 by [S.I. 2011/1452](https://www.legislation.gov.uk/uksi/2011/1452), [art. 2(h)](https://www.legislation.gov.uk/uksi/2011/1452/article/2/h)
 
-[^key-33eaaad7ef63e6fbeb8422e158cdebb8]: Commencement: [Sch. 22 para. 25](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/25) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(c)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/c)
+[^c-33eaaad7ef63e6fbeb8422e158cdebb8]: Commencement: [Sch. 22 para. 25](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/25) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(c)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/c)
 
-[^key-0265469671e84dfb95bb6b39bb39a412]: Commencement: [Sch. 22 para. 27](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/27) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(d)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/d)
+[^c-0265469671e84dfb95bb6b39bb39a412]: Commencement: [Sch. 22 para. 27](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/27) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(d)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/d)
 
-[^key-381946eb19c97f52ce2c0a423499df14]: Commencement: [Sch. 22 para. 28](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/28) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(d)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/d)
+[^c-381946eb19c97f52ce2c0a423499df14]: Commencement: [Sch. 22 para. 28](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/28) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(d)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/d)
 
-[^key-ae7b951ec083b67ceade8be9e1ce1574]: Commencement: [Sch. 22 para. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
+[^c-ae7b951ec083b67ceade8be9e1ce1574]: Commencement: [Sch. 22 para. 29](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/29) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
 
-[^key-6a6c36ecccb6d84c0a1c504d28ac8273]: Commencement: [Sch. 22 para. 30](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/30) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
+[^c-6a6c36ecccb6d84c0a1c504d28ac8273]: Commencement: [Sch. 22 para. 30](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/30) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
 
-[^key-1a08a0363e18780fe4d47e316c92eb8d]: Commencement: [Sch. 22 para. 31](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/31) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
+[^c-1a08a0363e18780fe4d47e316c92eb8d]: Commencement: [Sch. 22 para. 31](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/31) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
 
-[^key-5bad14aec392fb13dd6f65b51714f4e4]: Commencement: [Sch. 22 para. 32](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/32) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
+[^c-5bad14aec392fb13dd6f65b51714f4e4]: Commencement: [Sch. 22 para. 32](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/32) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
 
-[^key-5e3d4fd77c69180dd90c91ac3ec6bbb6]: Commencement: [Sch. 22 para. 33](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/33) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
+[^c-5e3d4fd77c69180dd90c91ac3ec6bbb6]: Commencement: [Sch. 22 para. 33](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/33) in force at 13.4.2015 by [S.I. 2015/819](https://www.legislation.gov.uk/uksi/2015/819), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/819/article/2/c)
 
 [^M_F_7efdb7e3-a149-41fb-a1c3-3e01c2d671d7]: Textual amendment: Sch. 22 para. 34 omitted (28.4.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (2022 c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 140(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/140/5), [208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)
 
@@ -528,22 +528,22 @@ in relation to offences committed wholly or partly before the commencement of th
 
 [^M_F_b6438cc8-d26e-493b-f3a4-fe61eed1e178]: Textual amendment: Sch. 22 para. 36 omitted (28.4.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (2022 c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 142(11)](https://www.legislation.gov.uk/ukpga/2022/32/section/142/11), [208(4)(q)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/q)
 
-[^key-8f6279103468e55ad4c9ebb286859d28]: Commencement: [Sch. 22 para. 38](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/38) in force at 12.1.2010 by [S.I. 2010/28](https://www.legislation.gov.uk/uksi/2010/28), [art. 2](https://www.legislation.gov.uk/uksi/2010/28/article/2)
+[^c-8f6279103468e55ad4c9ebb286859d28]: Commencement: [Sch. 22 para. 38](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/38) in force at 12.1.2010 by [S.I. 2010/28](https://www.legislation.gov.uk/uksi/2010/28), [art. 2](https://www.legislation.gov.uk/uksi/2010/28/article/2)
 
-[^key-191ab79100d4d56e33d6938025f39c13]: Commencement: [Sch. 22 para. 39](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/39) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(e)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/e)
+[^c-191ab79100d4d56e33d6938025f39c13]: Commencement: [Sch. 22 para. 39](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/39) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 26(e)](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/26/e)
 
-[^key-8c9eb9a0a9acde453e20f105b73c6326]: Commencement: [Sch. 22 para. 40](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/40) in force at 15.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1858/article/3/e)
+[^c-8c9eb9a0a9acde453e20f105b73c6326]: Commencement: [Sch. 22 para. 40](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/40) in force at 15.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1858/article/3/e)
 
-[^key-b43eec8bf2e6155258e1884cf1f155de]: Commencement: [Sch. 22 para. 40](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/40) in force at 18.4.2011 for specified purposes for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 2(e)](https://www.legislation.gov.uk/nisr/2011/182/article/2/e)
+[^c-b43eec8bf2e6155258e1884cf1f155de]: Commencement: [Sch. 22 para. 40](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/40) in force at 18.4.2011 for specified purposes for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 2(e)](https://www.legislation.gov.uk/nisr/2011/182/article/2/e)
 
-[^key-df11033417fea6564bd60ec17ef92dca]: Commencement: [Sch. 22 para. 41](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/41) in force at 15.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1858/article/3/e)
+[^c-df11033417fea6564bd60ec17ef92dca]: Commencement: [Sch. 22 para. 41](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/41) in force at 15.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1858/article/3/e)
 
-[^key-ac989879cdbce2063517683fccbd2eb6]: Commencement: [Sch. 22 para. 42](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/42) in force at 15.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1858/article/3/e)
+[^c-ac989879cdbce2063517683fccbd2eb6]: Commencement: [Sch. 22 para. 42](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/42) in force at 15.8.2010 for specified purposes by [S.I. 2010/1858](https://www.legislation.gov.uk/uksi/2010/1858), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/1858/article/3/e)
 
-[^key-8a6668e648ddc7959dedfaddfab7e4e6]: Textual amendment: [Sch. 22 para. 43](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/43) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 21(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/21/b); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
+[^c-8a6668e648ddc7959dedfaddfab7e4e6]: Textual amendment: [Sch. 22 para. 43](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/43) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 16 para. 21(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/16/paragraph/21/b); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(n)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/n)
 
-[^key-fc59d079a19043c31cd09b136afc01e5]: Commencement: [Sch. 22 para. 44](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/44) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(e)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/e)
+[^c-fc59d079a19043c31cd09b136afc01e5]: Commencement: [Sch. 22 para. 44](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/44) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(e)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/e)
 
-[^key-0d8fe7de3ecb8ec21d1c6444636c6126]: Commencement: [Sch. 22 para. 45](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/45) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(f)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/f)
+[^c-0d8fe7de3ecb8ec21d1c6444636c6126]: Commencement: [Sch. 22 para. 45](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/45) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(f)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/f)
 
-[^key-7f5af4f9f381daffe4467018de78ba36]: Commencement: [Sch. 22 para. 46](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/46) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(g)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/g)
+[^c-7f5af4f9f381daffe4467018de78ba36]: Commencement: [Sch. 22 para. 46](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22/paragraph/46) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 21(g)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/21/g)

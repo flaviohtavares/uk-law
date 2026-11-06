@@ -33,7 +33,7 @@ summary: ''
 (3) The matters are—
 
 - (a) that the house is reasonably suitable for occupation by not more than the maximum number of households or persons mentioned in subsection (4) or that it can be made so suitable by the imposition of conditions under section 67;
-- (aa)[^key-e67ea9837ac007eafe7faf882e92b906] that no banning order under section 16 of the Housing and Planning Act 2016 is in force against a person who—
+- (aa)[^c-e67ea9837ac007eafe7faf882e92b906] that no banning order under section 16 of the Housing and Planning Act 2016 is in force against a person who—
   - (i) owns an estate or interest in the house or part of it, and
   - (ii) is a lessor or licensor of the house or part;
 - (b) that the proposed licence holder—
@@ -56,4 +56,4 @@ summary: ''
 
 [^c2051293]: Commencement: S. 64 wholly in force at 16.6.2006; s. 64 not in force at Royal Assent see s. 270(4)(5); s. 64 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 64 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-e67ea9837ac007eafe7faf882e92b906]: Textual amendment: [S. 64(3)(aa)](https://www.legislation.gov.uk/ukpga/2004/34/section/64/3/aa) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/2); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)
+[^c-e67ea9837ac007eafe7faf882e92b906]: Textual amendment: [S. 64(3)(aa)](https://www.legislation.gov.uk/ukpga/2004/34/section/64/3/aa) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2016/22/schedule/2/paragraph/2); [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/b)

@@ -60,7 +60,7 @@ The Secretary of State has consulted in accordance with Article 144(7) of the Of
 
 The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation, commencement, extent and application[^key-15ed625cea808366b0e2c1b415fc00d7]
+## 1. Citation, commencement, extent and application[^c-15ed625cea808366b0e2c1b415fc00d7]
 
 *Extent: E+W+S*
 
@@ -80,13 +80,13 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 *Extent: E+W+S*
 
-### 2. Amendment to [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031)[^key-1fcb8ac77a1088ea607ac078917dd858]
+### 2. Amendment to [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031)[^c-1fcb8ac77a1088ea607ac078917dd858]
 
 (1) [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031)[^f00004] of the European Parliament and of the Council on protective measures against pests of plants is amended as follows.
 
 (2) In Article 2(9)(d) for “the Union territory”, substitute “Great Britain”.
 
-### 3. Amendments to [Commission Implementing Regulation (EU) 2019/2072](https://www.legislation.gov.uk/european/regulation/2019/2072)[^key-b1a513cc0f4de6b0024156f0ff7356be]
+### 3. Amendments to [Commission Implementing Regulation (EU) 2019/2072](https://www.legislation.gov.uk/european/regulation/2019/2072)[^c-b1a513cc0f4de6b0024156f0ff7356be]
 
 (1) [Commission Implementing Regulation (EU) 2019/2072](https://www.legislation.gov.uk/european/regulation/2019/2072) establishing uniform conditions for the implementation of [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031) of the European Parliament and the Council, as regards protective measures against pests of plants[^f00005] is amended as follows.
 
@@ -318,7 +318,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 *Extent: E+W+S*
 
-### 4. Amendments to [Commission Implementing Regulation (EU) 2020/1217](https://www.legislation.gov.uk/european/regulation/2020/1217)[^key-d00ba43549953b8a79e9f858adec2c80]
+### 4. Amendments to [Commission Implementing Regulation (EU) 2020/1217](https://www.legislation.gov.uk/european/regulation/2020/1217)[^c-d00ba43549953b8a79e9f858adec2c80]
 
 (1) [Commission Implementing Regulation (EU) 2020/1217](https://www.legislation.gov.uk/european/regulation/2020/1217) on a derogation from [Implementing Regulation (EU) 2019/2072](https://www.legislation.gov.uk/european/regulation/2019/2072) concerning the introduction into the Union of naturally or artificially dwarfed plants for planting of *Chamaecyparis* Spach, *Juniperus* L. and certain species of *Pinus* L., originating in Japan[^f00006] is amended as follows.
 
@@ -354,7 +354,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
   .
 
-### 5. Amendments to [Commission Implementing Regulation (EU) 2020/1231](https://www.legislation.gov.uk/european/regulation/2020/1231)[^key-f28efc2f5b3885b08cbe80e72c05ca79]
+### 5. Amendments to [Commission Implementing Regulation (EU) 2020/1231](https://www.legislation.gov.uk/european/regulation/2020/1231)[^c-f28efc2f5b3885b08cbe80e72c05ca79]
 
 (1) [Commission Implementing Regulation (EU) 2020/1231](https://www.legislation.gov.uk/european/regulation/2020/1231) on the format and instructions for the annual reports on the results of the surveys and on the format of the multiannual survey programmes and the practical arrangements, respectively provided for in Articles 22 and 23 of [Regulation (EU) 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031) of the European Parliament and the Council[^f00007] is amended as follows.
 
@@ -392,7 +392,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 3 — Seed and seed potatoes: amendment of secondary legislation
 
-### 6. The Seed Marketing Regulations 2011[^key-5ecec0a016c382f610de040dbcda0e21]
+### 6. The Seed Marketing Regulations 2011[^c-5ecec0a016c382f610de040dbcda0e21]
 
 *Extent: E+W*
 
@@ -400,7 +400,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (2) In Schedule 4, in paragraph 10(4), for “, NI Variety List or an equivalent list of a country granted equivalence” substitute “or the NI Variety List”.
 
-### 7. The Seed Potatoes (England) Regulations 2015[^key-0955ef3fdf52fb351e177c8995eb3ea8]
+### 7. The Seed Potatoes (England) Regulations 2015[^c-0955ef3fdf52fb351e177c8995eb3ea8]
 
 *Extent: E+W*
 
@@ -415,7 +415,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   - (ii) for “equivalent Union grade”, in each place where it occurs, substitute “equivalent grade”;
 - (b) in Part 3, in Table 3, for “UK”, in each place where it occurs, substitute “GB”.
 
-### 8. The Animal Health, Plant Health, Seeds and Seed Potatoes (Amendment) (EU Exit) Regulations 2019[^key-d3ea14cae7ab2d96f8c8f71c1d142149]
+### 8. The Animal Health, Plant Health, Seeds and Seed Potatoes (Amendment) (EU Exit) Regulations 2019[^c-d3ea14cae7ab2d96f8c8f71c1d142149]
 
 (1) The Animal Health, Plant Health, Seeds and Seed Potatoes (Amendment) (EU Exit) Regulations 2019[^f00010] are amended as follows.
 
@@ -430,7 +430,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 *Extent: E+W+S*
 
-**9.**[^key-dfea75cc280315ff516390235f326dce] The following retained direct EU legislation is revoked—
+**9.**[^c-dfea75cc280315ff516390235f326dce] The following retained direct EU legislation is revoked—
 
 - (a) [Commission Implementing Regulation (EU) 2020/1292](https://www.legislation.gov.uk/european/regulation/2020/1292) as regards measures to prevent the entry into the Union of *Agrilus planipennis Fairmaire* from Ukraine[^f00011];
 - (b) [Commission Implementing Decision (EU) 2020/1549](https://www.legislation.gov.uk/european/regulation/2020/1549) repealing [Decision 2004/200/EC](https://www.legislation.gov.uk/european/decision/2004/0200) on measures to prevent the introduction into and the spread within the Community of *Pepino mosaic virus* [^f00012].
@@ -439,7 +439,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 *Extent: E+W+S*
 
-### 10. Amendment to the Official Controls and Phytosanitary Conditions (Amendment) Regulations 2021[^key-f1f349ff4ed6eda7c586abe45aa6434e]
+### 10. Amendment to the Official Controls and Phytosanitary Conditions (Amendment) Regulations 2021[^c-f1f349ff4ed6eda7c586abe45aa6434e]
 
 (1) The Official Controls and Phytosanitary Conditions (Amendment) Regulations 2021[^f00013] are amended as follows.
 
@@ -454,17 +454,17 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 .
 
-## PART 6 — Frequency of checks[^key-cbc6f06d58768ca267336079a046da25]
+## PART 6 — Frequency of checks[^c-cbc6f06d58768ca267336079a046da25]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-### 11. Interpretation[^key-cbc6f06d58768ca267336079a046da25]
+### 11. Interpretation[^c-cbc6f06d58768ca267336079a046da25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Modification of [Commission Implementing Regulation (EU) 2019/66](https://www.legislation.gov.uk/european/regulation/2019/0066)[^key-cbc6f06d58768ca267336079a046da25]
+### 12. Modification of [Commission Implementing Regulation (EU) 2019/66](https://www.legislation.gov.uk/european/regulation/2019/0066)[^c-cbc6f06d58768ca267336079a046da25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -508,44 +508,44 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00003]: Footnote: Article 3(2B) of [EUR 2017/625](https://www.legislation.gov.uk/european/regulation/2017/0625) contains the definition of “the appropriate authority”.
 
-[^key-15ed625cea808366b0e2c1b415fc00d7]: Commencement: Reg. 1 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-15ed625cea808366b0e2c1b415fc00d7]: Commencement: Reg. 1 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
-[^key-1fcb8ac77a1088ea607ac078917dd858]: Commencement: Reg. 2 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-1fcb8ac77a1088ea607ac078917dd858]: Commencement: Reg. 2 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
 [^f00004]: Footnote: [EUR 2016/2031](https://www.legislation.gov.uk/european/regulation/2016/2031) was amended by [S.I. 2020/1482](https://www.legislation.gov.uk/uksi/2020/1482) and [S.I. 2021/79](https://www.legislation.gov.uk/uksi/2021/79).
 
-[^key-b1a513cc0f4de6b0024156f0ff7356be]: Commencement: Reg. 3 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-b1a513cc0f4de6b0024156f0ff7356be]: Commencement: Reg. 3 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
 [^f00005]: Footnote: [EUR 2019/2072](https://www.legislation.gov.uk/european/regulation/2019/2072) was amended by [S.I. 2020/1527](https://www.legislation.gov.uk/uksi/2020/1527).
 
-[^key-d00ba43549953b8a79e9f858adec2c80]: Commencement: Reg. 4 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-d00ba43549953b8a79e9f858adec2c80]: Commencement: Reg. 4 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
 [^f00006]: Footnote: [EUR 2020/1217](https://www.legislation.gov.uk/european/regulation/2020/1217).
 
-[^key-f28efc2f5b3885b08cbe80e72c05ca79]: Commencement: Reg. 5 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-f28efc2f5b3885b08cbe80e72c05ca79]: Commencement: Reg. 5 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
 [^f00007]: Footnote: [EUR 2020/1231](https://www.legislation.gov.uk/european/regulation/2020/1231).
 
-[^key-5ecec0a016c382f610de040dbcda0e21]: Commencement: Reg. 6 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-5ecec0a016c382f610de040dbcda0e21]: Commencement: Reg. 6 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2011/463](https://www.legislation.gov.uk/uksi/2011/463), amended by [S.I. 2019/131](https://www.legislation.gov.uk/uksi/2019/131) and [472](https://www.legislation.gov.uk/uksi/2019/472). [S.I. 2019/131](https://www.legislation.gov.uk/uksi/2019/131) was amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388); there are other amending instruments but none is relevant.
 
-[^key-0955ef3fdf52fb351e177c8995eb3ea8]: Commencement: Reg. 7 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-0955ef3fdf52fb351e177c8995eb3ea8]: Commencement: Reg. 7 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2015/1953](https://www.legislation.gov.uk/uksi/2015/1953), amended by [S.I. 2019/809](https://www.legislation.gov.uk/uksi/2019/809); there is another amending instrument but it is not relevant. [S.I. 2019/809](https://www.legislation.gov.uk/uksi/2019/809) was amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
-[^key-d3ea14cae7ab2d96f8c8f71c1d142149]: Commencement: Reg. 8 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-d3ea14cae7ab2d96f8c8f71c1d142149]: Commencement: Reg. 8 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2019/809](https://www.legislation.gov.uk/uksi/2019/809), amended by [S.I. 2020/1388](https://www.legislation.gov.uk/uksi/2020/1388).
 
-[^key-dfea75cc280315ff516390235f326dce]: Commencement: Reg. 9 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-dfea75cc280315ff516390235f326dce]: Commencement: Reg. 9 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
 [^f00011]: Footnote: [EUR 2020/1292](https://www.legislation.gov.uk/european/regulation/2020/1292).
 
 [^f00012]: Footnote: [EUR 2020/1549](https://www.legislation.gov.uk/european/regulation/2020/1549).
 
-[^key-f1f349ff4ed6eda7c586abe45aa6434e]: Commencement: Reg. 10 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
+[^c-f1f349ff4ed6eda7c586abe45aa6434e]: Commencement: Reg. 10 in force at 20.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/426/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2021/136](https://www.legislation.gov.uk/uksi/2021/136).
 
-[^key-cbc6f06d58768ca267336079a046da25]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2021/426/part/6) revoked (22.7.2022) by [The Official Controls (Plant Health) (Frequency of Checks) Regulations 2022 (S.I. 2022/739)](https://www.legislation.gov.uk/uksi/2022/739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/739/regulation/6)
+[^c-cbc6f06d58768ca267336079a046da25]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/uksi/2021/426/part/6) revoked (22.7.2022) by [The Official Controls (Plant Health) (Frequency of Checks) Regulations 2022 (S.I. 2022/739)](https://www.legislation.gov.uk/uksi/2022/739), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/739/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2022/739/regulation/6)

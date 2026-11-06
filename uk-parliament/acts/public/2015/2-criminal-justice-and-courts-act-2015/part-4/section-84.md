@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2a6442e51778722f9a8f9227d5346b26] In section 31 of the Senior Courts Act 1981 (applications for judicial review), after subsection (2) insert—
+(1)[^c-2a6442e51778722f9a8f9227d5346b26] In section 31 of the Senior Courts Act 1981 (applications for judicial review), after subsection (2) insert—
 
 > (2A) The High Court—
 >
@@ -33,7 +33,7 @@ summary: ''
 >
 > (2C) If the court grants relief or makes an award in reliance on subsection (2B), the court must certify that the condition in subsection (2B) is satisfied.
 
-(2)[^key-2a6442e51778722f9a8f9227d5346b26] In that section, before subsection (4) insert—
+(2)[^c-2a6442e51778722f9a8f9227d5346b26] In that section, before subsection (4) insert—
 
 > (3C) When considering whether to grant leave to make an application for judicial review, the High Court—
 >
@@ -46,17 +46,17 @@ summary: ''
 >
 > (3F) If the court grants leave in reliance on subsection (3E), the court must certify that the condition in subsection (3E) is satisfied.
 
-(3)[^key-2a6442e51778722f9a8f9227d5346b26] In that section, after subsection (7) insert—
+(3)[^c-2a6442e51778722f9a8f9227d5346b26] In that section, after subsection (7) insert—
 
 > (8) In this section “**the conduct complained of**”, in relation to an application for judicial review, means the conduct (or alleged conduct) of the defendant that the applicant claims justifies the High Court in granting relief.
 
-(4)[^key-6d79f094037829bc0f5e696a0bdc0429] In section 15 of the Tribunals, Courts and Enforcement Act 2007 (the Upper Tribunal's “judicial review” jurisdiction), after subsection (5) insert—
+(4)[^c-6d79f094037829bc0f5e696a0bdc0429] In section 15 of the Tribunals, Courts and Enforcement Act 2007 (the Upper Tribunal's “judicial review” jurisdiction), after subsection (5) insert—
 
 > (5A) In cases arising under the law of England and Wales, subsections (2A) and (2B) of section 31 of the Senior Courts Act 1981 apply to the Upper Tribunal when deciding whether to grant relief under subsection (1) as they apply to the High Court when deciding whether to grant relief on an application for judicial review.
 >
 > (5B) If the tribunal grants relief in reliance on section 31(2B) of the Senior Courts Act 1981 as applied by subsection (5A), the tribunal must certify that the condition in section 31(2B) as so applied is satisfied.
 
-(5)[^key-6d79f094037829bc0f5e696a0bdc0429] In section 16 of the Tribunals, Courts and Enforcement Act 2007 (application for relief under section 15(1)), before subsection (4) insert—
+(5)[^c-6d79f094037829bc0f5e696a0bdc0429] In section 16 of the Tribunals, Courts and Enforcement Act 2007 (application for relief under section 15(1)), before subsection (4) insert—
 
 > (3C) In cases arising under the law of England and Wales, when considering whether to grant permission to make the application, the tribunal—
 >
@@ -71,7 +71,7 @@ summary: ''
 >
 > (3G) If the tribunal grants permission in reliance on subsection (3F), the tribunal must certify that the condition in subsection (3F) is satisfied.
 
-(6)[^key-6d79f094037829bc0f5e696a0bdc0429] In that section, after subsection (6) insert—
+(6)[^c-6d79f094037829bc0f5e696a0bdc0429] In that section, after subsection (6) insert—
 
 > (6A) In cases arising under the law of England and Wales, subsections (2A) and (2B) of section 31 of the Senior Courts Act 1981 apply to the Upper Tribunal as regards the making of an award under subsection (6) as they apply to the High Court as regards the making of an award under section 31(4) of the Senior Courts Act 1981.
 >
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a6442e51778722f9a8f9227d5346b26]: Commencement: [S. 84(1)-(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/1) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 69](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/69) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/6))
+[^c-2a6442e51778722f9a8f9227d5346b26]: Commencement: [S. 84(1)-(3)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/1) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 69](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/69) (with [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/6))
 
-[^key-6d79f094037829bc0f5e696a0bdc0429]: Commencement: [S. 84(4)-(6)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/4) in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/717/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2016/717/article/6))
+[^c-6d79f094037829bc0f5e696a0bdc0429]: Commencement: [S. 84(4)-(6)](https://www.legislation.gov.uk/ukpga/2015/2/section/84/4) in force at 8.8.2016 by [S.I. 2016/717](https://www.legislation.gov.uk/uksi/2016/717), [art. 3(c)](https://www.legislation.gov.uk/uksi/2016/717/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2016/717/article/6))

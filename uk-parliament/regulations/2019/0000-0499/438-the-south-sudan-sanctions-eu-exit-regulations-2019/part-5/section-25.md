@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Technical assistance relating to military goods and military technology[^key-99e4dba6e0248c745776cbf3920cb316][^key-e4a33e650a64654eb56f23f5167b3285]
+## 25. Technical assistance relating to military goods and military technology[^c-99e4dba6e0248c745776cbf3920cb316][^c-e4a33e650a64654eb56f23f5167b3285]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99e4dba6e0248c745776cbf3920cb316]: Commencement: Reg. 25 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
+[^c-99e4dba6e0248c745776cbf3920cb316]: Commencement: Reg. 25 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/438/regulation/1/2)
 
-[^key-e4a33e650a64654eb56f23f5167b3285]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/438/regulation/25) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4a33e650a64654eb56f23f5167b3285]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2019/438/regulation/25) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

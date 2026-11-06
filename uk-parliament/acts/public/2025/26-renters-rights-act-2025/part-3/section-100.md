@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Decent homes standard[^key-45fbcae4f43fa8f201cbc0142b991388]
+## 100. Decent homes standard[^c-45fbcae4f43fa8f201cbc0142b991388]
 
 *Extent: E+W*
 
-(1)[^key-080e44cc98f10d862ce596f3f453de50][^key-a7341804320ac5ff30e15569890f7004] The [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34) is amended as follows.
+(1)[^c-080e44cc98f10d862ce596f3f453de50][^c-a7341804320ac5ff30e15569890f7004] The [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34) is amended as follows.
 
 (2) In section 1 (new system for assessing housing conditions and enforcing housing standards), after subsection (3) insert—
 
@@ -41,7 +41,7 @@ summary: ''
 >
 > (4B) The requirement to consult under subsection (4A) may be satisfied by consultation before (as well as after) the passing of the Renters’ Rights Act 2025.
 
-(5)[^key-080e44cc98f10d862ce596f3f453de50][^key-a7341804320ac5ff30e15569890f7004] After section 2 insert—
+(5)[^c-080e44cc98f10d862ce596f3f453de50][^c-a7341804320ac5ff30e15569890f7004] After section 2 insert—
 
 > **Additional standards for certain housing in England**
 >
@@ -96,16 +96,16 @@ summary: ''
 >
 > (4) Before making regulations under subsection (3), the Secretary of State must consult such persons as the Secretary of State considers appropriate.
 
-(6)[^key-934660fe8bbf95ddbc4446531acd02d3][^key-75064ba75a7e53dd4897dc9a188125d5] In Schedule 4, Part 1 contains amendments of the [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34) and Part 2 contains amendments of other Acts.
+(6)[^c-934660fe8bbf95ddbc4446531acd02d3][^c-75064ba75a7e53dd4897dc9a188125d5] In Schedule 4, Part 1 contains amendments of the [Housing Act 2004](https://www.legislation.gov.uk/ukpga/2004/34) and Part 2 contains amendments of other Acts.
 
 ## Annotations
 
-[^key-45fbcae4f43fa8f201cbc0142b991388]: Commencement: S. 100 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-45fbcae4f43fa8f201cbc0142b991388]: Commencement: S. 100 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-080e44cc98f10d862ce596f3f453de50]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/1)[(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/5) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/iii)
+[^c-080e44cc98f10d862ce596f3f453de50]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/1)[(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/5) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/a/iii)
 
-[^key-a7341804320ac5ff30e15569890f7004]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/1)[(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/5) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/a)
+[^c-a7341804320ac5ff30e15569890f7004]: Commencement: [S. 100(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/1)[(5)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/5) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/a)
 
-[^key-934660fe8bbf95ddbc4446531acd02d3]: Commencement: [S. 100(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/6) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/b)
+[^c-934660fe8bbf95ddbc4446531acd02d3]: Commencement: [S. 100(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/6) in force at 27.12.2025 for specified purposes by [S.I. 2025/1354](https://www.legislation.gov.uk/uksi/2025/1354), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1354/regulation/2/b)
 
-[^key-75064ba75a7e53dd4897dc9a188125d5]: Commencement: [S. 100(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/6) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/b)
+[^c-75064ba75a7e53dd4897dc9a188125d5]: Commencement: [S. 100(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/100/6) in force at 22.6.2026 for specified purposes by [S.I. 2026/638](https://www.legislation.gov.uk/uksi/2026/638), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/638/regulation/2/b)

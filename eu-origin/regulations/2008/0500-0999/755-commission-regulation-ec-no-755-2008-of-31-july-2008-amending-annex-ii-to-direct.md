@@ -35,18 +35,18 @@ amending Annex II to Directive 2005/36/EC of the European Parliament and of the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f43ff46e6fc02a2cdb945d1eab77f84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f43ff46e6fc02a2cdb945d1eab77f84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f43ff46e6fc02a2cdb945d1eab77f84a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f43ff46e6fc02a2cdb945d1eab77f84a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f43ff46e6fc02a2cdb945d1eab77f84a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f43ff46e6fc02a2cdb945d1eab77f84a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f43ff46e6fc02a2cdb945d1eab77f84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f43ff46e6fc02a2cdb945d1eab77f84a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-f43ff46e6fc02a2cdb945d1eab77f84a]
+## ANNEX[^c-f43ff46e6fc02a2cdb945d1eab77f84a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f43ff46e6fc02a2cdb945d1eab77f84a]: Textual amendment: Regulation revoked (31.12.2020) by [The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/312)](https://www.legislation.gov.uk/uksi/2019/312), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/312/regulation/1/3), [4(f)](https://www.legislation.gov.uk/uksi/2019/312/regulation/4/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f43ff46e6fc02a2cdb945d1eab77f84a]: Textual amendment: Regulation revoked (31.12.2020) by [The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/312)](https://www.legislation.gov.uk/uksi/2019/312), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/312/regulation/1/3), [4(f)](https://www.legislation.gov.uk/uksi/2019/312/regulation/4/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

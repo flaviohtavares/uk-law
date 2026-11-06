@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Saving provisions[^key-2db2c7caae872e77cb0ab0c69c8689d3]
+## 120. Saving provisions[^c-2db2c7caae872e77cb0ab0c69c8689d3]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2db2c7caae872e77cb0ab0c69c8689d3]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2012/5/section/120) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-2db2c7caae872e77cb0ab0c69c8689d3]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2012/5/section/120) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

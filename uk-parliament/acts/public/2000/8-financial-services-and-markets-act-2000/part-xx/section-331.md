@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) If the FCA[^key-9b83527f9b0bc59f42d9666bc2f10f36] proposes to make an order under section 329, it must give the person concerned a warning notice.
+(1) If the FCA[^c-9b83527f9b0bc59f42d9666bc2f10f36] proposes to make an order under section 329, it must give the person concerned a warning notice.
 
 (2) The warning notice must set out the terms of the proposed order.
 
@@ -54,4 +54,4 @@ may refer the matter to the Tribunal.
 
 ## Annotations
 
-[^key-9b83527f9b0bc59f42d9666bc2f10f36]: Textual amendment: Word in s. 331 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/5) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-9b83527f9b0bc59f42d9666bc2f10f36]: Textual amendment: Word in s. 331 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2012/21/schedule/16/paragraph/5) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

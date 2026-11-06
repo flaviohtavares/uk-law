@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74B. Report by a skilled person: cryptoasset businesses[^key-1763ea41155a1057576257682ad35384][^key-57627b588a33b3b62eda0f5351a956a2]
+## 74B. Report by a skilled person: cryptoasset businesses[^c-1763ea41155a1057576257682ad35384][^c-57627b588a33b3b62eda0f5351a956a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1763ea41155a1057576257682ad35384]: Modification: [Regs. 74-74C](https://www.legislation.gov.uk/uksi/2017/692/regulation/74) applied (with modifications) (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [14](https://www.legislation.gov.uk/uksi/2022/860/regulation/14)
+[^c-1763ea41155a1057576257682ad35384]: Modification: [Regs. 74-74C](https://www.legislation.gov.uk/uksi/2017/692/regulation/74) applied (with modifications) (1.9.2022) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [14](https://www.legislation.gov.uk/uksi/2022/860/regulation/14)
 
-[^key-57627b588a33b3b62eda0f5351a956a2]: Textual amendment: Regs. 74A-74C inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/4)
+[^c-57627b588a33b3b62eda0f5351a956a2]: Textual amendment: Regs. 74A-74C inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/4)

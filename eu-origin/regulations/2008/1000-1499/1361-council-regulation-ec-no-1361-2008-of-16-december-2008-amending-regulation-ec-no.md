@@ -33,34 +33,34 @@ of 16 December 2008
 
 amending Regulation (EC) No 219/2007 on the establishment of a joint undertaking to develop the new generation European air traffic management system (SESAR) (revoked)
 
-[^key-9b2a5442bdaedb739fc60c6becc4839a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b2a5442bdaedb739fc60c6becc4839a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Amendments to Regulation (EC) No 219/2007[^key-9b2a5442bdaedb739fc60c6becc4839a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Transitional provisions related to the staff of the Joint Undertaking[^key-9b2a5442bdaedb739fc60c6becc4839a]
+## Article 1. Amendments to Regulation (EC) No 219/2007[^c-9b2a5442bdaedb739fc60c6becc4839a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional provisions related to the mandate of the Executive Director[^key-9b2a5442bdaedb739fc60c6becc4839a]
+## Article 2. Transitional provisions related to the staff of the Joint Undertaking[^c-9b2a5442bdaedb739fc60c6becc4839a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Prior contracts and agreements[^key-9b2a5442bdaedb739fc60c6becc4839a]
+## Article 3. Transitional provisions related to the mandate of the Executive Director[^c-9b2a5442bdaedb739fc60c6becc4839a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-9b2a5442bdaedb739fc60c6becc4839a]
+## Article 4. Prior contracts and agreements[^c-9b2a5442bdaedb739fc60c6becc4839a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9b2a5442bdaedb739fc60c6becc4839a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-9b2a5442bdaedb739fc60c6becc4839a]
 
-## ANNEX[^key-9b2a5442bdaedb739fc60c6becc4839a]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-9b2a5442bdaedb739fc60c6becc4839a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-9b2a5442bdaedb739fc60c6becc4839a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9b2a5442bdaedb739fc60c6becc4839a]: Textual amendment: Regulation revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [74](https://www.legislation.gov.uk/uksi/2019/459/regulation/74); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b2a5442bdaedb739fc60c6becc4839a]: Textual amendment: Regulation revoked (31.12.2020) by [The Air Traffic Management (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/459)](https://www.legislation.gov.uk/uksi/2019/459), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/459/regulation/1/2), [74](https://www.legislation.gov.uk/uksi/2019/459/regulation/74); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

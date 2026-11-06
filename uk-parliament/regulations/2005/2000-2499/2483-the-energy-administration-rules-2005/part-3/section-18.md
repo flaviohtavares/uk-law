@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Release from duty to submit statement of affairs; extension of time[^key-0242acbad0c04622e68d55bf6a5d1965]
+## 18. Release from duty to submit statement of affairs; extension of time[^c-0242acbad0c04622e68d55bf6a5d1965]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ If such a report is filed, a copy of it shall be sent by the energy administrato
 
 ## Annotations
 
-[^key-0242acbad0c04622e68d55bf6a5d1965]: Commencement: Rule 18 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-0242acbad0c04622e68d55bf6a5d1965]: Commencement: Rule 18 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

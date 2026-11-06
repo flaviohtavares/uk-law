@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Second adult rebate[^key-163ff605674cdb3b8670bcca68895a24]
+## 91. Second adult rebate[^c-163ff605674cdb3b8670bcca68895a24]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-163ff605674cdb3b8670bcca68895a24]: Commencement: [Reg. 91](https://www.legislation.gov.uk/ssi/2021/249/regulation/91) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-163ff605674cdb3b8670bcca68895a24]: Commencement: [Reg. 91](https://www.legislation.gov.uk/ssi/2021/249/regulation/91) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

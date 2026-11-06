@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) A phased retirement pension ceases to be payable to a person (P) from the date on which, following an increase in contributable salary other than a standard increase, the amount[^key-db60614161ce7192032c686be92edc10] of P's contributable salary during the 12 months beginning on the relevant date exceeds 80% of—
+(1) A phased retirement pension ceases to be payable to a person (P) from the date on which, following an increase in contributable salary other than a standard increase, the amount[^c-db60614161ce7192032c686be92edc10] of P's contributable salary during the 12 months beginning on the relevant date exceeds 80% of—
 
-- (a) where P satisfied Condition 1 of regulation 57 (election to receive phased retirement benefits) when making the election (“the failed election”), the average annual rate of P's contributable salary during the 12 months[^key-d5eacdc6c6ad9945df17b99ae9958598] before the reduction mentioned in paragraph (2)(b) of that regulation, or
-- (b) where P satisfied Condition 2 of that regulation when making the failed election, the average annual rate of P's contributable salary in the last 12 months[^key-229a1ef7845b277a0ae50687d43f252f] of the previous employment.
+- (a) where P satisfied Condition 1 of regulation 57 (election to receive phased retirement benefits) when making the election (“the failed election”), the average annual rate of P's contributable salary during the 12 months[^c-d5eacdc6c6ad9945df17b99ae9958598] before the reduction mentioned in paragraph (2)(b) of that regulation, or
+- (b) where P satisfied Condition 2 of that regulation when making the failed election, the average annual rate of P's contributable salary in the last 12 months[^c-229a1ef7845b277a0ae50687d43f252f] of the previous employment.
 
 (2) Where a pension ceases to be payable in accordance with paragraph (1)—
 
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-db60614161ce7192032c686be92edc10]: Textual amendment: Word in [reg. 59(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/59/1) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/2651/regulation/14)
+[^c-db60614161ce7192032c686be92edc10]: Textual amendment: Word in [reg. 59(1)](https://www.legislation.gov.uk/uksi/2010/990/regulation/59/1) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/2651/regulation/14)
 
-[^key-d5eacdc6c6ad9945df17b99ae9958598]: Textual amendment: Words in [reg. 59(1)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/59/1/a) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/1084/regulation/4)
+[^c-d5eacdc6c6ad9945df17b99ae9958598]: Textual amendment: Words in [reg. 59(1)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/59/1/a) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/1084/regulation/4)
 
-[^key-229a1ef7845b277a0ae50687d43f252f]: Textual amendment: Words in [reg. 59(1)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/59/1/b) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/1084/regulation/4)
+[^c-229a1ef7845b277a0ae50687d43f252f]: Textual amendment: Words in [reg. 59(1)(b)](https://www.legislation.gov.uk/uksi/2010/990/regulation/59/1/b) substituted (30.11.2017) by [The Teachers’ Pensions Schemes (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1084)](https://www.legislation.gov.uk/uksi/2017/1084), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1084/regulation/1), [4](https://www.legislation.gov.uk/uksi/2017/1084/regulation/4)

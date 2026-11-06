@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.11.14. Leave to abandon[^key-23f2c50958a62174b56a339e07a1d495]
+## 3.11.14. Leave to abandon[^c-23f2c50958a62174b56a339e07a1d495]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23f2c50958a62174b56a339e07a1d495]: Commencement: Rule 3.11.14 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-23f2c50958a62174b56a339e07a1d495]: Commencement: Rule 3.11.14 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

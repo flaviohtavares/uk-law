@@ -24,15 +24,15 @@ Section 76
 
 ### PART 1 — Offences
 
-**1.**[^key-08cc73a041fcc8bdb9b0e6cb6fb12827] The Armed Forces Act 2006 is amended as follows.
+**1.**[^c-08cc73a041fcc8bdb9b0e6cb6fb12827] The Armed Forces Act 2006 is amended as follows.
 
-**2.**[^key-8fcbcf76026704b1772899454362dc20] In Chapter 2 of Part 7 (trial by Court Martial: proceedings), after section 163 insert—
+**2.**[^c-8fcbcf76026704b1772899454362dc20] In Chapter 2 of Part 7 (trial by Court Martial: proceedings), after section 163 insert—
 
 > **163A. Offences**
 >
 > Schedule 2A makes provision about offences relating to members of the Court Martial and their deliberations.
 
-**3.**[^key-4476d81e9e1ee9a9fdc7ce86b75e93c8] After Schedule 2 insert—
+**3.**[^c-4476d81e9e1ee9a9fdc7ce86b75e93c8] After Schedule 2 insert—
 
 > **SCHEDULE 2A — Offences relating to members of the Court Martial**
 >
@@ -246,49 +246,49 @@ Section 76
 
 ### PART 2 — Further amendments
 
-**4.**[^key-676c033c9bbc7724590b1f802bd7b08c] The Armed Forces Act 2006 is amended as follows.
+**4.**[^c-676c033c9bbc7724590b1f802bd7b08c] The Armed Forces Act 2006 is amended as follows.
 
-**5.**[^key-8e54d6582dde700d68f4510ba0bb95f6] In section 50(2) (jurisdiction of the Court Martial: service offences), after paragraph (f) insert—
+**5.**[^c-8e54d6582dde700d68f4510ba0bb95f6] In section 50(2) (jurisdiction of the Court Martial: service offences), after paragraph (f) insert—
 
 > - (fa) an offence under paragraph 2, 3 or 4 of Schedule 2A (offences committed by a lay member of the Court Martial);
 > - (fb) an offence under paragraph 5 of that Schedule (disclosing information about members' deliberations etc) committed by a person described in sub-paragraph (2) of that paragraph;
 
 .
 
-**6.**[^key-f48d7dc1a27b11b77726ee7ae37c549e] In section 51(3) (jurisdiction of the Service Civilian Court: excluded offences), after paragraph (c) insert—
+**6.**[^c-f48d7dc1a27b11b77726ee7ae37c549e] In section 51(3) (jurisdiction of the Service Civilian Court: excluded offences), after paragraph (c) insert—
 
 > - (ca) an offence under paragraph 2, 3, 4 or 5 of Schedule 2A (offences relating to members of the Court Martial);
 
 .
 
-**7.**[^key-31c69ea3b41807c60198402ea7db617c] In section 373 (orders, regulations and rules), after subsection (1) insert—
+**7.**[^c-31c69ea3b41807c60198402ea7db617c] In section 373 (orders, regulations and rules), after subsection (1) insert—
 
 > (1A) The powers conferred by paragraphs 6 and 7 of Schedule 2A on the Lord Chancellor to make regulations are exercisable by statutory instrument.
 
-**8.**[^key-40b21fd5602c5577f61ef9ef15b388ca] In Schedule 2 (offences required to be referred to a service police force or the Director of Service Prosecutions under sections 113 and 116), at the end insert—
+**8.**[^c-40b21fd5602c5577f61ef9ef15b388ca] In Schedule 2 (offences required to be referred to a service police force or the Director of Service Prosecutions under sections 113 and 116), at the end insert—
 
 > **14.** An offence under paragraph 4 of Schedule 2A (lay member of the Court Martial engaging in prohibited conduct).
 >
 > **15.** An offence under paragraph 5 of Schedule 2A (disclosing information about the deliberations of members of the Court Martial) committed by a person described in sub-paragraph (2) of that paragraph.
 
-**9.**[^key-feef6c3cedb33416685c68d7eb96b173] The reference in section 286(4) of the Armed Forces Act 2006 (hearing by the Court Martial of appeals from Service Civilian Court) to Part 7 of that Act includes the provisions inserted in that Part by this Schedule.
+**9.**[^c-feef6c3cedb33416685c68d7eb96b173] The reference in section 286(4) of the Armed Forces Act 2006 (hearing by the Court Martial of appeals from Service Civilian Court) to Part 7 of that Act includes the provisions inserted in that Part by this Schedule.
 
 ## Annotations
 
-[^key-08cc73a041fcc8bdb9b0e6cb6fb12827]: Commencement: Sch. 14 para. 1 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
+[^c-08cc73a041fcc8bdb9b0e6cb6fb12827]: Commencement: Sch. 14 para. 1 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
 
-[^key-8fcbcf76026704b1772899454362dc20]: Commencement: Sch. 14 para. 2 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
+[^c-8fcbcf76026704b1772899454362dc20]: Commencement: Sch. 14 para. 2 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
 
-[^key-4476d81e9e1ee9a9fdc7ce86b75e93c8]: Commencement: Sch. 14 para. 3 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80) (with [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/c)[4(c)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/c))
+[^c-4476d81e9e1ee9a9fdc7ce86b75e93c8]: Commencement: Sch. 14 para. 3 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80) (with [Sch. 2 para. 3(c)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/c)[4(c)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/c))
 
-[^key-676c033c9bbc7724590b1f802bd7b08c]: Commencement: Sch. 14 para. 4 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
+[^c-676c033c9bbc7724590b1f802bd7b08c]: Commencement: Sch. 14 para. 4 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
 
-[^key-8e54d6582dde700d68f4510ba0bb95f6]: Commencement: Sch. 14 para. 5 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
+[^c-8e54d6582dde700d68f4510ba0bb95f6]: Commencement: Sch. 14 para. 5 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
 
-[^key-f48d7dc1a27b11b77726ee7ae37c549e]: Commencement: Sch. 14 para. 6 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
+[^c-f48d7dc1a27b11b77726ee7ae37c549e]: Commencement: Sch. 14 para. 6 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
 
-[^key-31c69ea3b41807c60198402ea7db617c]: Commencement: Sch. 14 para. 7 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
+[^c-31c69ea3b41807c60198402ea7db617c]: Commencement: Sch. 14 para. 7 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
 
-[^key-40b21fd5602c5577f61ef9ef15b388ca]: Commencement: Sch. 14 para. 8 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
+[^c-40b21fd5602c5577f61ef9ef15b388ca]: Commencement: Sch. 14 para. 8 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
 
-[^key-feef6c3cedb33416685c68d7eb96b173]: Commencement: Sch. 14 para. 9 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)
+[^c-feef6c3cedb33416685c68d7eb96b173]: Commencement: Sch. 14 para. 9 in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80)

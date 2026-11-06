@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### 1. Interpretation[^key-0fae39086ea740fff25524099873f991]
+### 1. Interpretation[^c-0fae39086ea740fff25524099873f991]
 
 In this Schedule—
 
@@ -39,11 +39,11 @@ In this Schedule—
 - “**reinstatement planting**” means the reinstatement of the vegetation that has been removed to enable the construction of the authorised development; and
 - “**working hours**” means Monday to Friday between 0700 and 1900 hours during the months of March to October and between 0730 and 1730 hours or during daylight hours, whichever is the shorter, during the months of January to February and November to December and between 0700 and 1300 hours on Saturdays, with no works to take place on Sundays or bank or public holidays.
 
-### 2. Time limits[^key-755d66d42ea88f8821dfc487eb31c9ac]
+### 2. Time limits[^c-755d66d42ea88f8821dfc487eb31c9ac]
 
 The authorised development must be commenced within 5 years of the date that this Order is made.
 
-### 3. Compliance with approved details[^key-e67eb554f701f583048b35c6742aa016]
+### 3. Compliance with approved details[^c-e67eb554f701f583048b35c6742aa016]
 
 The construction of the pole structures forming part of the authorised development comprised in Work No.3 must take place in accordance with the approved drawings listed in Table 1 below and within the limits of deviation as set out in article 4(a) (limits of deviation) as limited by requirement 4—
 
@@ -228,24 +228,24 @@ Table 1
 | 175 | 16 | 12 | Section Single |
 | 176 | 16 | 11 | Section Single |
 
-### 4. Restriction on the limits of deviation[^key-58d1772202f969b3056b85b3447ca95c]
+### 4. Restriction on the limits of deviation[^c-58d1772202f969b3056b85b3447ca95c]
 
 No pole structure as set out in Table 1 of requirement 3 is authorised to move—
 
 - (a) more than 5 metres in any direction from its location as shown on the works plans; or
 - (b) within 1 metre of the outside edge of any hedgerow.
 
-### 5. Plans[^key-98d0096001d375d7a134794266760d2e]
+### 5. Plans[^c-98d0096001d375d7a134794266760d2e]
 
 Subject to article 4 (limits of deviation) and requirements 3, 4, 8 and 10 the authorised development must be carried out in accordance with the plans or other documents certified in accordance with article 35 (certification of plans etc.) and Schedule 9 (documents to be certified).
 
-### 6. Felling[^key-c8832dc8c7cd0775aabe1f700cad4f6b]
+### 6. Felling[^c-c8832dc8c7cd0775aabe1f700cad4f6b]
 
 (1) All felling must be undertaken in accordance with the relevant guidance specified in paragraph (2).
 
 (2) The relevant guidance is The UK Forestry Standard (“UKFS”) (2017).
 
-### 7. Construction hours[^key-2935ebb782a73f9d804268f19ee1980b]
+### 7. Construction hours[^c-2935ebb782a73f9d804268f19ee1980b]
 
 (1) Subject to sub-paragraph (2), construction work must not take place other than during the working hours.
 
@@ -255,7 +255,7 @@ Subject to article 4 (limits of deviation) and requirements 3, 4, 8 and 10 the a
 - (b) stringing of the 132kV overhead line across the highway subject to the prior written approval of the relevant planning authority;
 - (c) the completion of construction works commenced during working hours which cannot be safely stopped.
 
-### 8. Contaminated land and groundwater[^key-0f2faf0a52234e50f19fc3783acf05c1]
+### 8. Contaminated land and groundwater[^c-0f2faf0a52234e50f19fc3783acf05c1]
 
 (1) In the event that contamination is found at any time when carrying out the authorised development, it must be reported in writing immediately to the relevant planning authority and the constructing of that part of the authorised development affected by such contamination must cease immediately. An investigation and risk assessment must be completed in accordance with a scheme to assess the nature and extent of any contamination within the Order limits and whether or not it originates within the Order limits, such scheme must be submitted to and approved by the relevant planning authority. The investigation and risk assessment must be undertaken by competent persons and a written report of the findings must be produced and submitted to and approved by the relevant planning authority.
 
@@ -270,52 +270,52 @@ Subject to article 4 (limits of deviation) and requirements 3, 4, 8 and 10 the a
 - (a) where remediation is required pursuant to the approved investigation and risk assessment for contamination affecting that part, the completion of measures pursuant to sub-paragraph (4); or
 - (b) in all other cases the approval of the investigation and risk assessment pursuant to sub-paragraph (2).
 
-### 9. Construction environmental management plan[^key-33666ea1da71dbc47306a6dd8474c36e]
+### 9. Construction environmental management plan[^c-33666ea1da71dbc47306a6dd8474c36e]
 
 (1) No authorised development is to commence until, following consultation with the relevant highway authority and the Environment Agency, a detailed construction environmental management plan, which is substantially in accordance with the construction environmental management plan certified under article 35 (certification of plans etc.) and Schedule 9 (documents to be certified), has been submitted to and approved by the relevant planning authority. The detailed construction environmental management plan must include measures to minimise impacts of construction works.
 
 (2) The detailed construction environmental management plan must include a canal crossing plan detailing the measures to manage the risks of overhead power lines to anglers, bird collisions and tree works which has been agreed with the Canal & River Trust.
 
-(3)[^key-e96b87f10bcb373c550acd41aee09fe6] The authorised development must be carried out in accordance with the detailed construction environmental management plan.
+(3)[^c-e96b87f10bcb373c550acd41aee09fe6] The authorised development must be carried out in accordance with the detailed construction environmental management plan.
 
-### 10. Approved plans and amendments to approved plans[^key-d4878fed2c004f5680ba64cc2eb0fe23][^key-033de9e0a8992f1526b6e9332a36c03c]
+### 10. Approved plans and amendments to approved plans[^c-d4878fed2c004f5680ba64cc2eb0fe23][^c-033de9e0a8992f1526b6e9332a36c03c]
 
 (1) Where a requirement requires the authorised development to be carried out in accordance with a plan, scheme, statement, strategy or details (the “plan”) approved by the relevant planning authority, the plan must be taken to include any amendments that may be approved subsequently by the relevant planning authority (after consulting every person required to be consulted before approval of the original plan).
 
 (2) The relevant planning authority must not approve the plan or an amendment to the plan unless it is satisfied that the plan or the amendment is unlikely to give rise to any new or materially different environmental effects from those assessed in the environmental statement.
 
-### 11. A5(T) Traffic Management Crossing[^key-11c0caf3b5c669953e7b7cdf6b087d7b]
+### 11. A5(T) Traffic Management Crossing[^c-11c0caf3b5c669953e7b7cdf6b087d7b]
 
 No authorised development is to commence until, following consultation with Highways England, details of the construction traffic management for the temporary use of the existing A5(T) access (as shown in the Construction Accesses Location Plan, Environmental Statement: Appendix 1.4 Traffic and Transport Technical Note (July 2019)) and of the construction method for the installation of the underground cable (Work No. 2) under the A5(T) have been submitted to and approved by the relevant planning authority following written confirmation of approval of them by Highways England. The authorised works must be carried out in accordance with the details approved under this requirement.
 
 ## Annotations
 
-[^key-0fae39086ea740fff25524099873f991]: Commencement: Sch. 2 para. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-0fae39086ea740fff25524099873f991]: Commencement: Sch. 2 para. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
 [^c24030801]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
 [^c24030811]: Marginal citation: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595), amended by [S.I. 2016/873](https://www.legislation.gov.uk/uksi/2016/873), [S.I](https://www.legislation.gov.uk/uksi/2016/873/section/I). 2016/912, [S.I. 2017/402](https://www.legislation.gov.uk/uksi/2017/402), [S.1](https://www.legislation.gov.uk/uksi/2017/402/section/1). 2017/571, [S.I. 2017/1013](https://www.legislation.gov.uk/uksi/2017/1013), [S.I](https://www.legislation.gov.uk/uksi/2017/1013/section/I). 2017/1243, [S.I. 2017/1309](https://www.legislation.gov.uk/uksi/2017/1309), [S.I](https://www.legislation.gov.uk/uksi/2017/1309/section/I). 2018/119 and [S.I. 2018/695](https://www.legislation.gov.uk/uksi/2018/695).
 
-[^key-755d66d42ea88f8821dfc487eb31c9ac]: Commencement: Sch. 2 para. 2 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-755d66d42ea88f8821dfc487eb31c9ac]: Commencement: Sch. 2 para. 2 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-e67eb554f701f583048b35c6742aa016]: Commencement: Sch. 2 para. 3 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-e67eb554f701f583048b35c6742aa016]: Commencement: Sch. 2 para. 3 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-58d1772202f969b3056b85b3447ca95c]: Commencement: Sch. 2 para. 4 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-58d1772202f969b3056b85b3447ca95c]: Commencement: Sch. 2 para. 4 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-98d0096001d375d7a134794266760d2e]: Commencement: Sch. 2 para. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-98d0096001d375d7a134794266760d2e]: Commencement: Sch. 2 para. 5 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-c8832dc8c7cd0775aabe1f700cad4f6b]: Commencement: Sch. 2 para. 6 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-c8832dc8c7cd0775aabe1f700cad4f6b]: Commencement: Sch. 2 para. 6 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-2935ebb782a73f9d804268f19ee1980b]: Commencement: Sch. 2 para. 7 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-2935ebb782a73f9d804268f19ee1980b]: Commencement: Sch. 2 para. 7 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-0f2faf0a52234e50f19fc3783acf05c1]: Commencement: Sch. 2 para. 8 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-0f2faf0a52234e50f19fc3783acf05c1]: Commencement: Sch. 2 para. 8 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-33666ea1da71dbc47306a6dd8474c36e]: Commencement: Sch. 2 para. 9 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-33666ea1da71dbc47306a6dd8474c36e]: Commencement: Sch. 2 para. 9 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-e96b87f10bcb373c550acd41aee09fe6]: Textual amendment: [Sch. 2 requirement 9(3)](https://www.legislation.gov.uk/uksi/2020/325/schedule/2/paragraph/9/3) inserted (29.9.2020) by [The Reinforcement to the North Shropshire Electricity Distribution Network (Correction) Order 2020 (S.I. 2020/1053)](https://www.legislation.gov.uk/uksi/2020/1053), [art. 1](https://www.legislation.gov.uk/uksi/2020/1053/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1053/schedule)
+[^c-e96b87f10bcb373c550acd41aee09fe6]: Textual amendment: [Sch. 2 requirement 9(3)](https://www.legislation.gov.uk/uksi/2020/325/schedule/2/paragraph/9/3) inserted (29.9.2020) by [The Reinforcement to the North Shropshire Electricity Distribution Network (Correction) Order 2020 (S.I. 2020/1053)](https://www.legislation.gov.uk/uksi/2020/1053), [art. 1](https://www.legislation.gov.uk/uksi/2020/1053/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1053/schedule)
 
-[^key-d4878fed2c004f5680ba64cc2eb0fe23]: Commencement: Sch. 2 para. 10 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-d4878fed2c004f5680ba64cc2eb0fe23]: Commencement: Sch. 2 para. 10 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
 
-[^key-033de9e0a8992f1526b6e9332a36c03c]: Textual amendment: Sch. 2 requirement. 10 heading substituted (29.9.2020) by virtue of [The Reinforcement to the North Shropshire Electricity Distribution Network (Correction) Order 2020 (S.I. 2020/1053)](https://www.legislation.gov.uk/uksi/2020/1053), [art. 1](https://www.legislation.gov.uk/uksi/2020/1053/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1053/schedule)
+[^c-033de9e0a8992f1526b6e9332a36c03c]: Textual amendment: Sch. 2 requirement. 10 heading substituted (29.9.2020) by virtue of [The Reinforcement to the North Shropshire Electricity Distribution Network (Correction) Order 2020 (S.I. 2020/1053)](https://www.legislation.gov.uk/uksi/2020/1053), [art. 1](https://www.legislation.gov.uk/uksi/2020/1053/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1053/schedule)
 
-[^key-11c0caf3b5c669953e7b7cdf6b087d7b]: Commencement: Sch. 2 para. 11 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-11c0caf3b5c669953e7b7cdf6b087d7b]: Commencement: Sch. 2 para. 11 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

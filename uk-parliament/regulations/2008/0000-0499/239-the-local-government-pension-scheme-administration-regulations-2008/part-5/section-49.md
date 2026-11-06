@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Contributions equivalent premiums[^key-dc5298f4eb7ee952f33982f45c303880]
+## 49. Contributions equivalent premiums[^c-dc5298f4eb7ee952f33982f45c303880]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc5298f4eb7ee952f33982f45c303880]: Commencement: Reg. 49 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-dc5298f4eb7ee952f33982f45c303880]: Commencement: Reg. 49 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00042]: Footnote: [S.I.1996/1172](https://www.legislation.gov.uk/uksi/1996/1172).

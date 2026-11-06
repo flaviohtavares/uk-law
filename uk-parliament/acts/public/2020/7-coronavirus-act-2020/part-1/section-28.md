@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Enforcement of requirement to provide information[^key-1fa7e0fe589608c26af585270ef39898]
+## 28. Enforcement of requirement to provide information[^c-1fa7e0fe589608c26af585270ef39898]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fa7e0fe589608c26af585270ef39898]: Textual amendment: S. 28 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/e)
+[^c-1fa7e0fe589608c26af585270ef39898]: Textual amendment: S. 28 expires (17.7.2021) by [The Coronavirus Act 2020 (Early Expiry) Regulations 2021 (S.I. 2021/856)](https://www.legislation.gov.uk/uksi/2021/856), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2021/856/regulation/2/1/e)

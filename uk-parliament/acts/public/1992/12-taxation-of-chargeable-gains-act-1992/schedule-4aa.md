@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4AA — Re-basing for non-residents in respect of UK land etc held on 5 April 2019[^key-21ab4c9231b19755bd0236cf3d1f9e32]
+## SCHEDULE 4AA — Re-basing for non-residents in respect of UK land etc held on 5 April 2019[^c-21ab4c9231b19755bd0236cf3d1f9e32]
 
 *Extent: E+W+S+N.I.*
 
@@ -111,7 +111,7 @@ the loss is not an allowable loss.
 
 #### Calculation of residential property gain if election made under paragraph 4
 
-**5.**[^key-531272949e4fe86a312b19cc7f82aeab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-531272949e4fe86a312b19cc7f82aeab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Direct disposals of Pre-April 2015 assets fully chargeable before 6 April 2019
 
@@ -164,9 +164,9 @@ every day on which the land to which the disposal relates consisted of a dwellin
 
 #### Calculation of residential property gain if election made under paragraph 8 or 9
 
-**10.**[^key-a710b3317ce91fafce3261fc5a55cbe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a710b3317ce91fafce3261fc5a55cbe3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-63a2022ee3d71e46021b1c1e06f4e66c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-63a2022ee3d71e46021b1c1e06f4e66c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 4 — Direct disposals of assets partly chargeable before 6 April 2019
 
@@ -203,7 +203,7 @@ every day on which the land to which the disposal relates consisted of a dwellin
 
 #### Calculation of residential property gain if election made under paragraph 14
 
-**15.**[^key-322c7125ebe51d1cf3f1b6eb2ddf82ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-322c7125ebe51d1cf3f1b6eb2ddf82ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 5 — Miscellaneous
 
@@ -299,18 +299,18 @@ are to apply in relation to any allowance made in respect of the expenditure act
 
 (2) If an interest in UK land disposed of by a person results from interests in UK land acquired by the person at different times, the person is regarded for the purposes of this Schedule as having acquired the interest disposed of at the time of the first acquisition.
 
-(3) For the purposes of this Schedule, whether a building is a dwelling is determined in accordance with paragraphs 16E to 16H of Schedule 2 to the Finance Act 2019[^key-1def6de5fbed48c3e743f95ad4ab7d7a].
+(3) For the purposes of this Schedule, whether a building is a dwelling is determined in accordance with paragraphs 16E to 16H of Schedule 2 to the Finance Act 2019[^c-1def6de5fbed48c3e743f95ad4ab7d7a].
 
 ## Annotations
 
-[^key-21ab4c9231b19755bd0236cf3d1f9e32]: Textual amendment: [Sch. 4AA](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/17)
+[^c-21ab4c9231b19755bd0236cf3d1f9e32]: Textual amendment: [Sch. 4AA](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA) inserted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/17)
 
-[^key-531272949e4fe86a312b19cc7f82aeab]: Textual amendment: [Sch. 4AA para. 5](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/5) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-531272949e4fe86a312b19cc7f82aeab]: Textual amendment: [Sch. 4AA para. 5](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/5) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-a710b3317ce91fafce3261fc5a55cbe3]: Textual amendment: [Sch. 4AA para. 10](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/10) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-a710b3317ce91fafce3261fc5a55cbe3]: Textual amendment: [Sch. 4AA para. 10](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/10) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-63a2022ee3d71e46021b1c1e06f4e66c]: Textual amendment: [Sch. 4AA para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/11) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-63a2022ee3d71e46021b1c1e06f4e66c]: Textual amendment: [Sch. 4AA para. 11](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/11) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-322c7125ebe51d1cf3f1b6eb2ddf82ea]: Textual amendment: [Sch. 4AA para. 15](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/15) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-322c7125ebe51d1cf3f1b6eb2ddf82ea]: Textual amendment: [Sch. 4AA para. 15](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/15) omitted (with effect in accordance with s. 7(3) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
 
-[^key-1def6de5fbed48c3e743f95ad4ab7d7a]: Textual amendment: Words in [Sch. 4AA para. 22(3)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/22/3) substituted (with effect in accordance with s. 7(3) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))
+[^c-1def6de5fbed48c3e743f95ad4ab7d7a]: Textual amendment: Words in [Sch. 4AA para. 22(3)](https://www.legislation.gov.uk/ukpga/1992/12/schedule/4AA/paragraph/22/3) substituted (with effect in accordance with s. 7(3) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/7/3), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/1/paragraph/6/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2025/8/schedule/2/part/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Discharge or death of juror during trial[^key-ebb0a6b45de7d0cb1e829a2b28f5cdcb]
+## 66. Discharge or death of juror during trial[^c-ebb0a6b45de7d0cb1e829a2b28f5cdcb]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebb0a6b45de7d0cb1e829a2b28f5cdcb]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/18/section/66) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-ebb0a6b45de7d0cb1e829a2b28f5cdcb]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2014/18/section/66) in force at 22.9.2015 by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

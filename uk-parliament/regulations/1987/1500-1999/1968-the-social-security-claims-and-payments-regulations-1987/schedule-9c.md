@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9C — ELECTRONIC COMMUNICATION[^key-0c637d3bfd01a57ec4cd48c987e937af]
+## SCHEDULE 9C — ELECTRONIC COMMUNICATION[^c-0c637d3bfd01a57ec4cd48c987e937af]
 
 *Extent: E+W+S*
 
@@ -104,4 +104,4 @@ If it is necessary to prove, for the purpose of any legal proceedings, the conte
 
 ## Annotations
 
-[^key-0c637d3bfd01a57ec4cd48c987e937af]: Textual amendment: Sch. 9C inserted (28.10.2002) by [The Social Security (Electronic Communications) (Child Benefit) Order 2002 (S.I. 2002/1789)](https://www.legislation.gov.uk/uksi/2002/1789), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1789/article/1/1), [5](https://www.legislation.gov.uk/uksi/2002/1789/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2002/1789/schedule)
+[^c-0c637d3bfd01a57ec4cd48c987e937af]: Textual amendment: Sch. 9C inserted (28.10.2002) by [The Social Security (Electronic Communications) (Child Benefit) Order 2002 (S.I. 2002/1789)](https://www.legislation.gov.uk/uksi/2002/1789), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1789/article/1/1), [5](https://www.legislation.gov.uk/uksi/2002/1789/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2002/1789/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Supplementary provisions about farm loss payments.[^key-0764d0aa8b67ef83290572c27f449ec4]
+## 36. Supplementary provisions about farm loss payments.[^c-0764d0aa8b67ef83290572c27f449ec4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0764d0aa8b67ef83290572c27f449ec4]: Textual amendment: [Ss. 34-36](https://www.legislation.gov.uk/ukpga/1973/26/section/34) repealed (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 7(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/7/3), [9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111), [Sch. 7 para. 7(5)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/7/5), [9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9)); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d/e)
+[^c-0764d0aa8b67ef83290572c27f449ec4]: Textual amendment: [Ss. 34-36](https://www.legislation.gov.uk/ukpga/1973/26/section/34) repealed (31.10.2004) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 7(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/7/3), [9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111), [Sch. 7 para. 7(5)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/7/5), [9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9)); [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/d/e)

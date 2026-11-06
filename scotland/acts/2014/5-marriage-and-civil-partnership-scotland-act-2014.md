@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### CHAPTER 1 — SAME SEX MARRIAGE
 
-#### 1. Marriage of related persons[^key-8ba16545ee4108e28a1493339cef9115]
+#### 1. Marriage of related persons[^c-8ba16545ee4108e28a1493339cef9115]
 
 (1) The Marriage (Scotland) Act 1977 (“**the 1977 Act**”) is amended as follows.
 
@@ -101,7 +101,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 2. Objections to marriage[^key-3a2c27629099b172ac00b86079ef983b]
+#### 2. Objections to marriage[^c-3a2c27629099b172ac00b86079ef983b]
 
 In section 5(4) of the 1977 Act (objections to marriage)—
 
@@ -115,7 +115,7 @@ In section 5(4) of the 1977 Act (objections to marriage)—
 
   .
 
-#### 3. Preliminaries to marriage[^key-b1c6781e0b38d86c0b4309945f8bb853]
+#### 3. Preliminaries to marriage[^c-b1c6781e0b38d86c0b4309945f8bb853]
 
 (1) The 1977 Act is amended as follows.
 
@@ -145,7 +145,7 @@ In section 5(4) of the 1977 Act (objections to marriage)—
 
 #### 4. Meaning of marriage and related expressions in enactments and documents
 
-(1)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] References (however expressed) in any enactment to—
+(1)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] References (however expressed) in any enactment to—
 
 - (a) marriage (including a marriage that has ended),
 - (b) a person who is (or was) married to another person, and
@@ -153,39 +153,39 @@ In section 5(4) of the 1977 Act (objections to marriage)—
 
 are references to marriage whether between persons of different sexes or persons of the same sex and to a party (or former party), or as the case may be the parties (or former parties), to such a marriage.
 
-(2)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] Subsection (3) applies to references (however expressed) in any enactment to two people who—
+(2)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] Subsection (3) applies to references (however expressed) in any enactment to two people who—
 
 - (a) are (or were) not married to each other, but
 - (b) are (or were) living together as if they were husband and wife.
 
-(3)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] The references include two people of the same sex who are (or were) not married to, nor in civil partnership with, each other but who are (or were) living together as if they were married to each other.
+(3)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] The references include two people of the same sex who are (or were) not married to, nor in civil partnership with, each other but who are (or were) living together as if they were married to each other.
 
-(4)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] References (however expressed) in any enactment to two people of the same sex who are (or were) living together as if they were in a civil partnership cease to have effect.
+(4)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] References (however expressed) in any enactment to two people of the same sex who are (or were) living together as if they were in a civil partnership cease to have effect.
 
-(5)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] Subsections (1) to (4)—
+(5)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] Subsections (1) to (4)—
 
 - (a) apply to enactments (other than private Acts) passed or made before the commencement of this section, and
 - (b) do not apply in so far as the enactment, or any other enactment, provides otherwise.
 
-(6)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] In so far as being (or having been) married or in a purported marriage is relevant for the operation of any rule of law, the rule of law applies equally in relation to marriage or purported marriage to a person of a different sex and marriage or purported marriage to a person of the same sex.
+(6)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] In so far as being (or having been) married or in a purported marriage is relevant for the operation of any rule of law, the rule of law applies equally in relation to marriage or purported marriage to a person of a different sex and marriage or purported marriage to a person of the same sex.
 
-(7)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] Subsections (1) to (6) are subject to an order under subsection (8).
+(7)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] Subsections (1) to (6) are subject to an order under subsection (8).
 
-(8)[^key-667e3e5aa7d090dbf418d43f34b9a333] The Scottish Ministers may by order provide for any of subsections (1) to (6)—
+(8)[^c-667e3e5aa7d090dbf418d43f34b9a333] The Scottish Ministers may by order provide for any of subsections (1) to (6)—
 
 - (a) to have effect subject to provision made by the order, or
 - (b) not to apply in cases specified in the order.
 
-(9)[^key-667e3e5aa7d090dbf418d43f34b9a333] An order under subsection (8)—
+(9)[^c-667e3e5aa7d090dbf418d43f34b9a333] An order under subsection (8)—
 
 - (a) may make different provision for different purposes,
 - (b) may include consequential, supplementary, incidental, transitional, transitory or saving provision,
 - (c) may modify any enactment (including this Act),
 - (d) is (except where subsection (10) applies) subject to the negative procedure.
 
-(10)[^key-667e3e5aa7d090dbf418d43f34b9a333] An order under subsection (8) which adds to, replaces or omits any part of the text of an Act is subject to the affirmative procedure.
+(10)[^c-667e3e5aa7d090dbf418d43f34b9a333] An order under subsection (8) which adds to, replaces or omits any part of the text of an Act is subject to the affirmative procedure.
 
-(11)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] References (however expressed) in any document to—
+(11)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] References (however expressed) in any document to—
 
 - (a) marriage (including a marriage that has ended),
 - (b) a person who is (or was) married to another person, and
@@ -193,23 +193,23 @@ are references to marriage whether between persons of different sexes or persons
 
 are references to marriage whether between persons of different sexes or persons of the same sex and to a party (or former party), or as the case may be the parties (or former parties), to such a marriage.
 
-(12)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] The following expressions in any document have the meanings given—
+(12)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] The following expressions in any document have the meanings given—
 
 - (a) “**widow**” includes a woman whose marriage to another woman ended with the other woman's death,
 - (b) “**widower**” includes a man whose marriage to another man ended with the other man's death.
 
-(13)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] Subsections (11) and (12)—
+(13)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] Subsections (11) and (12)—
 
 - (a) apply to documents executed on or after the commencement of this section, and
 - (b) do not apply in so far as the document provides otherwise.
 
-(14)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] In section 26(2) of the 1977 Act (interpretation), after the definition of “authorised registrar” insert—
+(14)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] In section 26(2) of the 1977 Act (interpretation), after the definition of “authorised registrar” insert—
 
 > “**marriage**” means marriage between persons of different sexes and marriage between persons of the same sex;
 
 .
 
-(15)[^key-4ce5c5ae8d99b92134e4d1b7a39baae5] In schedule 1 to the Interpretation and Legislative Reform (Scotland) Act 2010 (definitions of words and expressions), insert at the appropriate place in alphabetical order—
+(15)[^c-4ce5c5ae8d99b92134e4d1b7a39baae5] In schedule 1 to the Interpretation and Legislative Reform (Scotland) Act 2010 (definitions of words and expressions), insert at the appropriate place in alphabetical order—
 
 > “**marriage**” means marriage between persons of different sexes and marriage between persons of the same sex (and any reference to a person being (or having been) married to another person, or to two people being (or having been) married to each other, is to be read accordingly),
 
@@ -223,7 +223,7 @@ are references to marriage whether between persons of different sexes or persons
 
 .
 
-#### 5. Same sex marriage: further provision[^key-8bbb6900eb67034f5ee411d4aed94792]
+#### 5. Same sex marriage: further provision[^c-8bbb6900eb67034f5ee411d4aed94792]
 
 (1) For the avoidance of doubt, the rule of law which provides for a marriage to be voidable by reason of impotence has effect only in relation to a marriage between persons of different sexes.
 
@@ -233,11 +233,11 @@ are references to marriage whether between persons of different sexes or persons
 
 .
 
-#### 6. Jurisdiction in proceedings relating to same sex marriages[^key-a4d7f3c944f2919b97739a7bdf64a938][^key-f089daa6639baf97ccd3a0adc073ae17]
+#### 6. Jurisdiction in proceedings relating to same sex marriages[^c-a4d7f3c944f2919b97739a7bdf64a938][^c-f089daa6639baf97ccd3a0adc073ae17]
 
 Schedule 1, which makes provision about jurisdiction in proceedings relating to same sex marriages, has effect.
 
-#### 7. Reset: abolition of defence[^key-0f57193c08a7bbb2b281775a0c09ebd9]
+#### 7. Reset: abolition of defence[^c-0f57193c08a7bbb2b281775a0c09ebd9]
 
 (1) Any rule of law under which a wife who receives or conceals goods stolen by her husband does not commit the offence of reset ceases to apply.
 
@@ -245,7 +245,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
 ### CHAPTER 2 — MARRIAGE BETWEEN CIVIL PARTNERS IN QUALIFYING CIVIL PARTNERSHIPS
 
-#### 8. Marriage between civil partners in qualifying civil partnerships[^key-fe6d77e6e4443dd76905f8fe239d0628]
+#### 8. Marriage between civil partners in qualifying civil partnerships[^c-fe6d77e6e4443dd76905f8fe239d0628]
 
 (1) The 1977 Act is amended as follows.
 
@@ -272,7 +272,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
   .
 
-#### 9. Power to modify meaning of “qualifying civil partnership”[^key-6592d4f5e6a26c3e1a2b7be7fdd635d8]
+#### 9. Power to modify meaning of “qualifying civil partnership”[^c-6592d4f5e6a26c3e1a2b7be7fdd635d8]
 
 (1) The Scottish Ministers may by order modify the meaning of “qualifying civil partnership” given by section 5(6) of the 1977 Act (inserted by section 8(3)(b) of this Act) so as to include civil partnerships registered outside Scotland.
 
@@ -288,7 +288,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 - (a) the Registrar General of Births, Deaths and Marriages for Scotland, and
 - (b) such other persons as the Scottish Ministers consider appropriate.
 
-#### 10. Change of qualifying civil partnership into marriage[^key-731e50d2a7cdb8178c3023bb51a759d3]
+#### 10. Change of qualifying civil partnership into marriage[^c-731e50d2a7cdb8178c3023bb51a759d3]
 
 (1) The Scottish Ministers may by regulations make provision to establish a procedure for the parties to a qualifying civil partnership to change their civil partnership into a marriage.
 
@@ -319,47 +319,47 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
 (6) Regulations under subsection (1) which add to, replace or omit any part of the text of an Act are subject to the affirmative procedure.
 
-(7) In this section “**qualifying civil partnership**” has the meaning given by section 5(6)(a)(i)(A) of the 1977 Act[^key-da9e87b5ef5567a69144a1403ff10fbf].
+(7) In this section “**qualifying civil partnership**” has the meaning given by section 5(6)(a)(i)(A) of the 1977 Act[^c-da9e87b5ef5567a69144a1403ff10fbf].
 
-#### 11. Effect of marriage between civil partners in a qualifying civil partnership[^key-032a86cb1f7b8d8f3116dc591542f1ca]
+#### 11. Effect of marriage between civil partners in a qualifying civil partnership[^c-032a86cb1f7b8d8f3116dc591542f1ca]
 
-(1)[^key-a5d20fa1e031f35229ef92bed9f50078] This section applies where civil partners in a qualifying civil partnership (within the meaning of section 5(6) of the 1977 Act)—
+(1)[^c-a5d20fa1e031f35229ef92bed9f50078] This section applies where civil partners in a qualifying civil partnership (within the meaning of section 5(6) of the 1977 Act)—
 
 - (a) marry in accordance with that Act, or
 - (b) change their civil partnership into a marriage in accordance with provision made under section 10(1).
 
-(2)[^key-a5d20fa1e031f35229ef92bed9f50078] Where this section applies—
+(2)[^c-a5d20fa1e031f35229ef92bed9f50078] Where this section applies—
 
 - (a) the qualifying civil partnership ends on the date on which—
   - (i) the marriage was solemnised, or
   - (ii) the change took effect, and
-- (b)[^key-72fea8996cce0fa7ea37fde32d507666][^key-663ce7af1af4a7865e6aed39ed800919] the civil partners are to be treated as having been married to each other since the date on which the qualifying civil partnership was registered.
+- (b)[^c-72fea8996cce0fa7ea37fde32d507666][^c-663ce7af1af4a7865e6aed39ed800919] the civil partners are to be treated as having been married to each other since the date on which the qualifying civil partnership was registered.
 
-(3)[^key-a5d20fa1e031f35229ef92bed9f50078] For the purposes of subsection (2)(b)—
+(3)[^c-a5d20fa1e031f35229ef92bed9f50078] For the purposes of subsection (2)(b)—
 
 - (a) a civil partnership registered under an Order in Council made under section 210 of the 2004 Act is to be treated as having been registered when it is entered in the Register Book maintained under the Order,
 - (b) a civil partnership registered under an Order in Council made under section 211 of the 2004 Act is to be treated as having been registered when the civil partnership register is signed in accordance with the Order.
 
-(4)[^key-a5d20fa1e031f35229ef92bed9f50078] Subsection (2)(b) is subject to—
+(4)[^c-a5d20fa1e031f35229ef92bed9f50078] Subsection (2)(b) is subject to—
 
 - (a) any provision to the contrary made by or under any enactment,
 - (b) an order under subsection (5).
 
-(5)[^key-0186c095eb65d1101a1d3a2f724e2d70] The Scottish Ministers may by order provide for subsection (2)(b)—
+(5)[^c-0186c095eb65d1101a1d3a2f724e2d70] The Scottish Ministers may by order provide for subsection (2)(b)—
 
 - (a) to have effect subject to provision made by the order, or
 - (b) not to apply in cases specified in the order.
 
-(6)[^key-0186c095eb65d1101a1d3a2f724e2d70] An order under subsection (5)—
+(6)[^c-0186c095eb65d1101a1d3a2f724e2d70] An order under subsection (5)—
 
 - (a) may include consequential, supplementary, incidental, transitional, transitory or saving provision,
 - (b) is subject to the negative procedure.
 
-(7)[^key-a5d20fa1e031f35229ef92bed9f50078] If a decree of aliment under section 3 of the Family Law (Scotland) Act 1985 (powers of court in action for aliment) requiring one of the civil partners to make payments to the other is in force at the time the qualifying civil partnership ends by virtue of subsection (2)(a) of this section, the decree continues to have effect despite the ending of the civil partnership.
+(7)[^c-a5d20fa1e031f35229ef92bed9f50078] If a decree of aliment under section 3 of the Family Law (Scotland) Act 1985 (powers of court in action for aliment) requiring one of the civil partners to make payments to the other is in force at the time the qualifying civil partnership ends by virtue of subsection (2)(a) of this section, the decree continues to have effect despite the ending of the civil partnership.
 
-(8)[^key-a5d20fa1e031f35229ef92bed9f50078] If an order under section 103(3) or (4) of the 2004 Act (regulation by court of rights of occupancy of family home) is in force at the time the qualifying civil partnership ends by virtue of subsection (2)(a) of this section the order has effect from that time as if made under section 3(3) or, as the case may be, 3(4) of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (regulation by court of rights of occupancy of matrimonial home).
+(8)[^c-a5d20fa1e031f35229ef92bed9f50078] If an order under section 103(3) or (4) of the 2004 Act (regulation by court of rights of occupancy of family home) is in force at the time the qualifying civil partnership ends by virtue of subsection (2)(a) of this section the order has effect from that time as if made under section 3(3) or, as the case may be, 3(4) of the Matrimonial Homes (Family Protection) (Scotland) Act 1981 (regulation by court of rights of occupancy of matrimonial home).
 
-(9)[^key-a5d20fa1e031f35229ef92bed9f50078] In section 1 of the 2004 Act (provision for civil partnership), after subsection (3) insert—
+(9)[^c-a5d20fa1e031f35229ef92bed9f50078] In section 1 of the 2004 Act (provision for civil partnership), after subsection (3) insert—
 
 > (3A) Subsection (3) is subject to section 11(2)(a) of the Marriage and Civil Partnership (Scotland) Act 2014 (ending of certain civil partnerships on marriage under Scots law).
 
@@ -369,11 +369,11 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
 #### 12. Persons who may solemnise marriage
 
-(1)[^key-3c64a820eb445f6b13acc32edf137e7b][^key-5da6d5774b8dff643c4d5ee77cfdb794] The 1977 Act is amended as follows.
+(1)[^c-3c64a820eb445f6b13acc32edf137e7b][^c-5da6d5774b8dff643c4d5ee77cfdb794] The 1977 Act is amended as follows.
 
 (2) In section 8 (persons who may solemnise marriage)—
 
-- (a)[^key-3c64a820eb445f6b13acc32edf137e7b][^key-df98173b5c1de3cea5fad09af5d2c875] in subsection (1)—
+- (a)[^c-3c64a820eb445f6b13acc32edf137e7b][^c-df98173b5c1de3cea5fad09af5d2c875] in subsection (1)—
   - (i) after “marriage” in the first place where it appears insert “ between persons of different sexes ”,
   - (ii) in paragraph (a)(ii)—
     - (A) for “or priest of a religious body” substitute “ priest or other celebrant of a religious or belief body ”,
@@ -381,7 +381,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
     - (C) for “marriages” substitute “ marriage between persons of different sexes ”,
   - (iii) in paragraph (a)(iii), after “Act” insert “ to solemnise marriage between persons of different sexes ”, and
   - (iv) in paragraph (a)(iv), after “Act” insert “ to solemnise marriage between persons of different sexes ”,
-- (b)[^key-3c64a820eb445f6b13acc32edf137e7b][^key-5da6d5774b8dff643c4d5ee77cfdb794] after subsection (1) insert—
+- (b)[^c-3c64a820eb445f6b13acc32edf137e7b][^c-5da6d5774b8dff643c4d5ee77cfdb794] after subsection (1) insert—
 
   > (1A) The Scottish Ministers may prescribe a religious or belief body under subsection (1)(a)(ii) only if—
   >
@@ -418,18 +418,18 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
   > (1G) Regulations under subsection (1)(a)(ii), (1B)(a)(i) or (1E) are subject to the negative procedure.
 
   , and
-- (c)[^key-c0856c10918255bf903b6acb095f2bf4] in subsection (2)—
+- (c)[^c-c0856c10918255bf903b6acb095f2bf4] in subsection (2)—
   - (i) in paragraph (a)—
     - (A) after “(1)(a)” insert “ or (1B)(a) ”, and
     - (B) for “ “religious marriage”” substitute “ “religious or belief marriage” ”, and
   - (ii) in paragraph (b), after “(1)(b)” insert “ or (1B)(b) ”.
 
-(3)[^key-c0856c10918255bf903b6acb095f2bf4] In section 14 (form of ceremony to be used by approved celebrant)—
+(3)[^c-c0856c10918255bf903b6acb095f2bf4] In section 14 (form of ceremony to be used by approved celebrant)—
 
 - (a) in paragraph (a), after “or (ii)” insert “ or (1B)(a)(i) ”, and
 - (b) in paragraph (b), after “or (iv)” insert “ or (1B)(a)(ii) or (iii) ”.
 
-(4)[^key-c0856c10918255bf903b6acb095f2bf4] In section 26(2) (interpretation)—
+(4)[^c-c0856c10918255bf903b6acb095f2bf4] In section 26(2) (interpretation)—
 
 - (a) for the definition of “religious body” substitute—
 
@@ -447,19 +447,19 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
 #### 13. Registration of nominated persons as celebrants
 
-(1)[^key-fe05060fe0cc8e4b3df929006b2fe6c5][^key-cf6445f32f0b1ed29e0f1e7f30e33f31] The 1977 Act is amended as follows.
+(1)[^c-fe05060fe0cc8e4b3df929006b2fe6c5][^c-cf6445f32f0b1ed29e0f1e7f30e33f31] The 1977 Act is amended as follows.
 
 (2) In section 9 (registration of nominated persons as celebrants)—
 
-- (a)[^key-02f9406c9e8e4cfd004934f961cdea2a] in subsection (1)—
+- (a)[^c-02f9406c9e8e4cfd004934f961cdea2a] in subsection (1)—
   - (i) for “religious body” substitute “ religious or belief body ”, and
   - (ii) after “marriages” insert “ between persons of different sexes ”,
-- (b)[^key-02f9406c9e8e4cfd004934f961cdea2a] after subsection (1) insert—
+- (b)[^c-02f9406c9e8e4cfd004934f961cdea2a] after subsection (1) insert—
 
   > (1A) A religious or belief body, not being prescribed by virtue of section 8(1B)(a)(i), may nominate to the Registrar General any of its members who it desires should be registered under this section as empowered to solemnise marriages between persons of the same sex.
 
   ,
-- (c)[^key-02f9406c9e8e4cfd004934f961cdea2a] in subsection (2)—
+- (c)[^c-02f9406c9e8e4cfd004934f961cdea2a] in subsection (2)—
   - (i) after “(1)” insert “ or (1A) ”,
   - (ii) in paragraph (a), for “religious body” substitute “ religious or belief body ”, and
   - (iii) in paragraph (d)—
@@ -472,7 +472,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
   > - (e) the nominating body does not meet the qualifying requirements.
 
   ,
-- (e)[^key-fe05060fe0cc8e4b3df929006b2fe6c5] after subsection (2) insert—
+- (e)[^c-fe05060fe0cc8e4b3df929006b2fe6c5] after subsection (2) insert—
 
   > (2A) In subsection (2)(e), the “qualifying requirements” are such requirements as may be set out in regulations made by the Scottish Ministers.
   >
@@ -484,7 +484,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
   > (2C) Regulations under subsection (2A) are subject to the negative procedure.
 
   ,
-- (f)[^key-02f9406c9e8e4cfd004934f961cdea2a] in subsection (3)—
+- (f)[^c-02f9406c9e8e4cfd004934f961cdea2a] in subsection (3)—
   - (i) after “ceremony” insert “ for marriage between persons of different sexes ”,
   - (ii) in paragraph (a), for the words from “witnesses,” to “wife;” substitute
 
@@ -505,7 +505,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
     , and
   - (iv) after “ceremonies” insert “ for marriage between persons of different sexes ”,
-- (g)[^key-02f9406c9e8e4cfd004934f961cdea2a] after subsection (3) insert—
+- (g)[^c-02f9406c9e8e4cfd004934f961cdea2a] after subsection (3) insert—
 
   > (3A) For the purposes of subsection (2)(b) above, a marriage ceremony for marriage between persons of the same sex is of an appropriate form if it includes, and is in no way inconsistent with—
   >
@@ -515,11 +515,11 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
   > and the Registrar General may, before deciding whether to accept or reject a nomination, require the nominating body to produce in writing the form of words used at its marriage ceremonies for marriage between persons of the same sex.
 
   ,
-- (h)[^key-02f9406c9e8e4cfd004934f961cdea2a] in subsection (4)—
+- (h)[^c-02f9406c9e8e4cfd004934f961cdea2a] in subsection (4)—
   - (i) after “(1)” insert “ or (1A) ”, and
   - (ii) in paragraph (b), after “area” insert “ or place ”,
-- (i)[^key-02f9406c9e8e4cfd004934f961cdea2a] in subsection (5)(a), after “(1)” insert “ or (1A) ”,
-- (j)[^key-02f9406c9e8e4cfd004934f961cdea2a] after subsection (5) insert—
+- (i)[^c-02f9406c9e8e4cfd004934f961cdea2a] in subsection (5)(a), after “(1)” insert “ or (1A) ”,
+- (j)[^c-02f9406c9e8e4cfd004934f961cdea2a] after subsection (5) insert—
 
   > (5ZA) The register mentioned in subsection (5)(a)(ii) is to be in two parts—
   >
@@ -527,10 +527,10 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
   > - (b) the second part containing those details in relation to persons nominated by religious or belief bodies to solemnise marriages between persons of the same sex.
 
   ,
-- (k)[^key-02f9406c9e8e4cfd004934f961cdea2a] in subsection (6), in the proviso, for “religious body” in each place where it appears substitute “ religious or belief body ”, and
-- (l)[^key-02f9406c9e8e4cfd004934f961cdea2a] the italic cross-heading preceding section 9 becomes “ *Religious or belief marriages* ”.
+- (k)[^c-02f9406c9e8e4cfd004934f961cdea2a] in subsection (6), in the proviso, for “religious body” in each place where it appears substitute “ religious or belief body ”, and
+- (l)[^c-02f9406c9e8e4cfd004934f961cdea2a] the italic cross-heading preceding section 9 becomes “ *Religious or belief marriages* ”.
 
-(3)[^key-02f9406c9e8e4cfd004934f961cdea2a] In section 10 (removal of celebrant's name from register)—
+(3)[^c-02f9406c9e8e4cfd004934f961cdea2a] In section 10 (removal of celebrant's name from register)—
 
 - (a) in subsection (1)—
   - (i) in paragraph (b), after “9(1)” insert “ or (1A) ”, and
@@ -542,18 +542,18 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
   , and
 - (c) in subsection (4), after “9(1)” insert “ or (1A) ”.
 
-(4)[^key-02f9406c9e8e4cfd004934f961cdea2a] In section 14(b) (form of ceremony to be used by approved celebrant), after “9(3)” insert “ or (3A) ”.
+(4)[^c-02f9406c9e8e4cfd004934f961cdea2a] In section 14(b) (form of ceremony to be used by approved celebrant), after “9(3)” insert “ or (3A) ”.
 
-(5)[^key-02f9406c9e8e4cfd004934f961cdea2a] In section 24(2)(a) (offences), after “area” insert “ or place ”.
+(5)[^c-02f9406c9e8e4cfd004934f961cdea2a] In section 24(2)(a) (offences), after “area” insert “ or place ”.
 
 #### 14. Temporary authorisation of celebrants
 
-(1)[^key-9eb8336560868efe63f272f72fb7ba2e][^key-342f65fe61a0fb08241c843be99f7f03] The 1977 Act is amended as follows.
+(1)[^c-9eb8336560868efe63f272f72fb7ba2e][^c-342f65fe61a0fb08241c843be99f7f03] The 1977 Act is amended as follows.
 
-(2)[^key-9eb8336560868efe63f272f72fb7ba2e] In section 12 (temporary authorisation of celebrants)—
+(2)[^c-9eb8336560868efe63f272f72fb7ba2e] In section 12 (temporary authorisation of celebrants)—
 
-- (a)[^key-8c07d0edc0898cc82191e413b36b3ca5] in subsection (1), for “person” substitute “ member of a religious or belief body ”, and
-- (b)[^key-342f65fe61a0fb08241c843be99f7f03] after subsection (1) insert—
+- (a)[^c-8c07d0edc0898cc82191e413b36b3ca5] in subsection (1), for “person” substitute “ member of a religious or belief body ”, and
+- (b)[^c-342f65fe61a0fb08241c843be99f7f03] after subsection (1) insert—
 
   > (1A) The Registrar General may grant an authorisation to a person under subsection (1) only if satisfied that the religious or belief body of which the person is a member meets the qualifying requirements.
   >
@@ -579,7 +579,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
   .
 
-(3)[^key-8c07d0edc0898cc82191e413b36b3ca5] In section 24 (offences), in subsection (2)(c), for the words from “12(a)” to the end substitute
+(3)[^c-8c07d0edc0898cc82191e413b36b3ca5] In section 24 (offences), in subsection (2)(c), for the words from “12(a)” to the end substitute
 
 > 12 of this Act—
 >
@@ -589,7 +589,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
 .
 
-#### 15. Religious or belief marriage: further provision[^key-c8226f92cddbc5237dae03455e7700bc]
+#### 15. Religious or belief marriage: further provision[^c-c8226f92cddbc5237dae03455e7700bc]
 
 (1) The 1977 Act is amended as follows.
 
@@ -607,7 +607,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
 ### CHAPTER 4 — SAME SEX MARRIAGE: PROTECTION OF FREEDOM OF EXPRESSION ETC.
 
-#### 16. Same sex marriage: protection of freedom of expression etc.[^key-2c6579dfedad78abffb46ca60cde794f]
+#### 16. Same sex marriage: protection of freedom of expression etc.[^c-2c6579dfedad78abffb46ca60cde794f]
 
 (1) For the avoidance of doubt, nothing in this Part so far as it makes provision for the marriage of persons of the same sex and as to the persons who may solemnise such marriages affects the exercise of—
 
@@ -619,7 +619,7 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
 ### CHAPTER 5 — OTHER CHANGES TO MARRIAGE PROCEDURE
 
-#### 17. Power of district registrar to require evidence of nationality: marriage[^key-bc3ddda41f5bc545856d2add264df448]
+#### 17. Power of district registrar to require evidence of nationality: marriage[^c-bc3ddda41f5bc545856d2add264df448]
 
 (1) The 1977 Act is amended as follows.
 
@@ -640,30 +640,30 @@ Schedule 1, which makes provision about jurisdiction in proceedings relating to 
 
 #### 18. The Marriage Schedule
 
-(1)[^key-fe21ff81c34213501c536653790b7a2d] The 1977 Act is amended as follows.
+(1)[^c-fe21ff81c34213501c536653790b7a2d] The 1977 Act is amended as follows.
 
 (2) In section 6 (the Marriage Schedule)—
 
-- (a)[^key-6a8dc3e9747b2b827db2c5d2575de1ac] after subsection (1) insert—
+- (a)[^c-6a8dc3e9747b2b827db2c5d2575de1ac] after subsection (1) insert—
 
   > (1A) Regulations under subsection (1) prescribing the form of the Marriage Schedule may make different provision for different cases or circumstances.
 
   , and
-- (b)[^key-fe21ff81c34213501c536653790b7a2d] in subsection (4)(a), for “14 days” in both places where those words appear substitute “ 28 days ”.
+- (b)[^c-fe21ff81c34213501c536653790b7a2d] in subsection (4)(a), for “14 days” in both places where those words appear substitute “ 28 days ”.
 
-(3)[^key-fe21ff81c34213501c536653790b7a2d] In section 7(2) (issuing of certificate in respect of legal capacity to marry), for “14 days” substitute “ 28 days ”.
+(3)[^c-fe21ff81c34213501c536653790b7a2d] In section 7(2) (issuing of certificate in respect of legal capacity to marry), for “14 days” substitute “ 28 days ”.
 
-(4)[^key-fe21ff81c34213501c536653790b7a2d] In section 19(1) (period between receipt of marriage notice and solemnisation of marriage), for “14 days” substitute “ 28 days ”.
+(4)[^c-fe21ff81c34213501c536653790b7a2d] In section 19(1) (period between receipt of marriage notice and solemnisation of marriage), for “14 days” substitute “ 28 days ”.
 
-#### 19. Marriage outside Scotland: evidence of dissolution of former civil partnership[^key-e691cf5ce90ea469b7a986d406b9a160]
+#### 19. Marriage outside Scotland: evidence of dissolution of former civil partnership[^c-e691cf5ce90ea469b7a986d406b9a160]
 
 In section 7(1) of the 1977 Act (marriage outside Scotland where a party resides in Scotland), after “3(1)(a),” insert “ (aa), ”.
 
-#### 20. Religious marriages: solemnisation by Church of Scotland deacons[^key-fbe63fb0efe28b1f447237f5b9710ae9]
+#### 20. Religious marriages: solemnisation by Church of Scotland deacons[^c-fbe63fb0efe28b1f447237f5b9710ae9]
 
 In section 8(1)(a)(i) of the 1977 Act (solemnisation of marriage by ministers of the Church of Scotland), after “minister” insert “ or deacon ”.
 
-#### 21. Places at which civil marriages may be solemnised[^key-b614d23014815ab43512f467c7d4b36e]
+#### 21. Places at which civil marriages may be solemnised[^c-b614d23014815ab43512f467c7d4b36e]
 
 (1) The 1977 Act is amended as follows.
 
@@ -715,13 +715,13 @@ In section 8(1)(a)(i) of the 1977 Act (solemnisation of marriage by ministers of
 
 (5) In section 26(2A)(b) (seaward boundary of registration district), for “within a registration district if it” substitute “ a place within a registration district if the vessel ”.
 
-#### 22. Second marriage ceremony: form of endorsement[^key-186263178f6277c208d02174fb7bd8d4]
+#### 22. Second marriage ceremony: form of endorsement[^c-186263178f6277c208d02174fb7bd8d4]
 
 In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of the endorsement, the word “19” in both places where it appears is repealed.
 
 ### CHAPTER 6 — SHERIFF COURT JURISDICTION IN RELATION TO DECLARATOR OF MARRIAGE
 
-#### 23. Sheriff court jurisdiction in relation to declarator of marriage[^key-ea9183ed569b2f97e2db981e219444d6]
+#### 23. Sheriff court jurisdiction in relation to declarator of marriage[^c-ea9183ed569b2f97e2db981e219444d6]
 
 (1) Section 8 of the Domicile and Matrimonial Proceedings Act 1973 (jurisdiction of the sheriff court in relation to actions for separation, divorce etc.) is amended as follows.
 
@@ -758,9 +758,9 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 
 ### 24. Registration of civil partnership
 
-(1)[^key-56706f7325d6f0db74f44877084eb833][^key-5862da65fca88ada4798c99bb0af17a6][^key-79834b0ea0a7d6925282148e47ceb39e] The Civil Partnership Act 2004 (“**the 2004 Act**”) is amended as follows.
+(1)[^c-56706f7325d6f0db74f44877084eb833][^c-5862da65fca88ada4798c99bb0af17a6][^c-79834b0ea0a7d6925282148e47ceb39e] The Civil Partnership Act 2004 (“**the 2004 Act**”) is amended as follows.
 
-(2)[^key-238d03070639a432add23891047358a7] In section 85 (formation of civil partnership by registration)—
+(2)[^c-238d03070639a432add23891047358a7] In section 85 (formation of civil partnership by registration)—
 
 - (a) in subsection (1), for paragraph (c) and the words following it substitute—
 
@@ -769,7 +769,7 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
   , and
 - (b) in subsection (4)(b), at the beginning insert “ the approved celebrant or, as the case may be, ”.
 
-(3)[^key-238d03070639a432add23891047358a7] In section 86 (eligibility)—
+(3)[^c-238d03070639a432add23891047358a7] In section 86 (eligibility)—
 
 - (a) for subsection (2) substitute—
 
@@ -792,9 +792,9 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
   - (i) for “mother” substitute “ parent ”, and
   - (ii) the words “in either column” are repealed.
 
-(4)[^key-238d03070639a432add23891047358a7] In section 87 (appointment of authorised registrars), before “registration” in the first place where it appears insert “ civil ”.
+(4)[^c-238d03070639a432add23891047358a7] In section 87 (appointment of authorised registrars), before “registration” in the first place where it appears insert “ civil ”.
 
-(5)[^key-238d03070639a432add23891047358a7] In section 88 (notice of proposed civil partnership), after subsection (6) insert—
+(5)[^c-238d03070639a432add23891047358a7] In section 88 (notice of proposed civil partnership), after subsection (6) insert—
 
 > (7) In this section, “**the district registrar**” means—
 >
@@ -805,7 +805,7 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 
 .
 
-(6)[^key-238d03070639a432add23891047358a7] In section 89 (civil partnership notice book), after subsection (2) insert—
+(6)[^c-238d03070639a432add23891047358a7] In section 89 (civil partnership notice book), after subsection (2) insert—
 
 > (3) In this section and sections 90, 91, 92 and 94, “**the district registrar**” means—
 >
@@ -818,24 +818,24 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 
 (7) In section 90 (publicisation)—
 
-- (a)[^key-238d03070639a432add23891047358a7] in subsection (1), for “a district registrar” substitute “ the district registrar ”,
-- (b)[^key-79fb7845d45f2a1d70db0774014854ba] in subsection (2)(b), for “14 days” substitute “ 28 days ”, and
-- (c)[^key-238d03070639a432add23891047358a7] in subsection (3), for “91” substitute “ 91(1) ”.
+- (a)[^c-238d03070639a432add23891047358a7] in subsection (1), for “a district registrar” substitute “ the district registrar ”,
+- (b)[^c-79fb7845d45f2a1d70db0774014854ba] in subsection (2)(b), for “14 days” substitute “ 28 days ”, and
+- (c)[^c-238d03070639a432add23891047358a7] in subsection (3), for “91” substitute “ 91(1) ”.
 
 (8) In section 91 (early registration)—
 
-- (a)[^key-238d03070639a432add23891047358a7] the existing text becomes subsection (1),
+- (a)[^c-238d03070639a432add23891047358a7] the existing text becomes subsection (1),
 - (b) in that subsection—
-  - (i)[^key-238d03070639a432add23891047358a7] for “An authorised registrar who” substitute “ Where the district registrar ”,
-  - (ii)[^key-79fb7845d45f2a1d70db0774014854ba] for “14 days” substitute “ 28 days ”, and
-  - (iii)[^key-238d03070639a432add23891047358a7] after “section 90)” insert “ the district registrar ”, and
-- (c)[^key-238d03070639a432add23891047358a7] after that subsection insert—
+  - (i)[^c-238d03070639a432add23891047358a7] for “An authorised registrar who” substitute “ Where the district registrar ”,
+  - (ii)[^c-79fb7845d45f2a1d70db0774014854ba] for “14 days” substitute “ 28 days ”, and
+  - (iii)[^c-238d03070639a432add23891047358a7] after “section 90)” insert “ the district registrar ”, and
+- (c)[^c-238d03070639a432add23891047358a7] after that subsection insert—
 
   > (2) For the purposes of subsection (1), a request which is made by electronic means is to be treated as in writing if it is received in a form which is legible and capable of being used for subsequent reference.
 
   .
 
-(9)[^key-238d03070639a432add23891047358a7] In section 92 (objections to registration)—
+(9)[^c-238d03070639a432add23891047358a7] In section 92 (objections to registration)—
 
 - (a) in subsection (3), for “at which a notice of proposed civil partnership to which the objection would relate” substitute “ of the district registrar ”,
 - (b) in subsection (4)(b)—
@@ -849,7 +849,7 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
     , and
 - (c) in subsection (5)(a), for the words “not to register the intended civil partners and to notify them” substitute “ to take all reasonable steps to ensure that the registration of the civil partnership does not take place and must notify, or direct the district registrar to notify, the intended civil partners ”.
 
-(10)[^key-238d03070639a432add23891047358a7] In section 93 (place of registration)—
+(10)[^c-238d03070639a432add23891047358a7] In section 93 (place of registration)—
 
 - (a) in subsection (1)—
   - (i) after “registered” insert “ by an authorised registrar ”, and
@@ -883,7 +883,7 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 - (c) subsections (2) and (3) are repealed, and
 - (d) the title of section 93 becomes “ **Place of civil registration of civil partnerships** ”.
 
-(11)[^key-238d03070639a432add23891047358a7] After section 93 insert—
+(11)[^c-238d03070639a432add23891047358a7] After section 93 insert—
 
 > **93A. Date and place of registration of religious or belief civil partnerships**
 >
@@ -912,11 +912,11 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 
 (12) In section 94 (the civil partnership schedule)—
 
-- (a)[^key-238d03070639a432add23891047358a7] the existing text becomes subsection (1),
+- (a)[^c-238d03070639a432add23891047358a7] the existing text becomes subsection (1),
 - (b) in paragraph (b) of that subsection—
-  - (i)[^key-79fb7845d45f2a1d70db0774014854ba] for “14 days” substitute “ 28 days ”, and
-  - (ii)[^key-238d03070639a432add23891047358a7] for “91” substitute “ 91(1) ”, and
-- (c)[^key-238d03070639a432add23891047358a7] after that subsection insert—
+  - (i)[^c-79fb7845d45f2a1d70db0774014854ba] for “14 days” substitute “ 28 days ”, and
+  - (ii)[^c-238d03070639a432add23891047358a7] for “91” substitute “ 91(1) ”, and
+- (c)[^c-238d03070639a432add23891047358a7] after that subsection insert—
 
   > (2) In the case of a civil partnership to be registered by an approved celebrant, the civil partnership schedule completed in accordance with subsection (1) is to be issued by the district registrar to one or both of the parties to the intended civil partnership.
   >
@@ -924,7 +924,7 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 
   .
 
-(13)[^key-56706f7325d6f0db74f44877084eb833][^key-5862da65fca88ada4798c99bb0af17a6] After section 94 insert—
+(13)[^c-56706f7325d6f0db74f44877084eb833][^c-5862da65fca88ada4798c99bb0af17a6] After section 94 insert—
 
 > **94A. Persons who may register civil partnerships**
 >
@@ -1062,7 +1062,7 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 
 .
 
-(14)[^key-238d03070639a432add23891047358a7] In section 95 (further provision as to registration)—
+(14)[^c-238d03070639a432add23891047358a7] In section 95 (further provision as to registration)—
 
 - (a) in subsection (1), after “85” insert “ the approved celebrant or, as the case may be, ”,
 - (b) after subsection (1) insert—
@@ -1096,7 +1096,7 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
   , and
 - (e) in subsection (4), after “their” insert “ civil ”.
 
-(15)[^key-56706f7325d6f0db74f44877084eb833][^key-ac07af82779418abc9572b361a554f27] After section 95 insert—
+(15)[^c-56706f7325d6f0db74f44877084eb833][^c-ac07af82779418abc9572b361a554f27] After section 95 insert—
 
 > **95ZA. Registrar's power to require delivery of civil partnership schedule**
 >
@@ -1106,23 +1106,23 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 
 .
 
-(16)[^key-238d03070639a432add23891047358a7] In section 95A (validity following entry in civil partnership register), in subsection (1), after “95(2)” insert “ or (3C) ”.
+(16)[^c-238d03070639a432add23891047358a7] In section 95A (validity following entry in civil partnership register), in subsection (1), after “95(2)” insert “ or (3C) ”.
 
-(17)[^key-238d03070639a432add23891047358a7] In section 96 (civil partnership with former spouse)—
+(17)[^c-238d03070639a432add23891047358a7] In section 96 (civil partnership with former spouse)—
 
 - (a) in subsection (3)(b), for “91” substitute “ 91(1) ”, and
 - (b) in subsection (3)(c), for “paragraph (b)” substitute “ subsection (1)(b) ”.
 
 (18) In section 97 (certificates of no impediment for Part 2 purposes)—
 
-- (a)[^key-79fb7845d45f2a1d70db0774014854ba] in subsection (4), for “14 days” substitute “ 28 days ”, and
-- (b)[^key-238d03070639a432add23891047358a7] after subsection (5) insert—
+- (a)[^c-79fb7845d45f2a1d70db0774014854ba] in subsection (4), for “14 days” substitute “ 28 days ”, and
+- (b)[^c-238d03070639a432add23891047358a7] after subsection (5) insert—
 
   > (5A) For the purposes of subsection (5), an objection which is submitted by electronic means is to be treated as in writing if it is received in a form which is legible and capable of being used for subsequent reference.
 
   .
 
-(19)[^key-238d03070639a432add23891047358a7] In section 100 (offences)—
+(19)[^c-238d03070639a432add23891047358a7] In section 100 (offences)—
 
 - (a) in subsection (2)—
   - (i) in paragraphs (c), (d) and (e), after “being” insert “ an approved celebrant or, as the case may be, ”, and
@@ -1144,9 +1144,9 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
   , and
 - (c) in subsection (4), for “or (2)” substitute “ , (2) or (3A) ”.
 
-(20)[^key-238d03070639a432add23891047358a7] In section 126(4) (regulations), after “section” insert “ 94A(1)(a)(i) or (5), 94B(3), 94E(4) or ”.
+(20)[^c-238d03070639a432add23891047358a7] In section 126(4) (regulations), after “section” insert “ 94A(1)(a)(i) or (5), 94B(3), 94E(4) or ”.
 
-(21)[^key-238d03070639a432add23891047358a7] In section 135(1) (interpretation of Part 3)—
+(21)[^c-238d03070639a432add23891047358a7] In section 135(1) (interpretation of Part 3)—
 
 - (a) after the definition of “the 1965 Act” insert—
 
@@ -1169,7 +1169,7 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 
   .
 
-(22)[^key-238d03070639a432add23891047358a7] For schedule 10 substitute—
+(22)[^c-238d03070639a432add23891047358a7] For schedule 10 substitute—
 
 > **SCHEDULE 10 — FORBIDDEN DEGREES OF RELATIONSHIP: SCOTLAND**
 >
@@ -1197,7 +1197,7 @@ In section 20(2)(d) of the 1977 Act (second marriage ceremony), in the form of t
 
 .
 
-### 25. Power of district registrar to require evidence of nationality: civil partnership[^key-c9a7103db23b3b93837e2f86287d949c]
+### 25. Power of district registrar to require evidence of nationality: civil partnership[^c-c9a7103db23b3b93837e2f86287d949c]
 
 In section 88 of the 2004 Act (notice of proposed civil partnership), after subsection (7) (inserted by section 24(5) of this Act) insert—
 
@@ -1212,7 +1212,7 @@ In section 88 of the 2004 Act (notice of proposed civil partnership), after subs
 
 .
 
-### 26. Recognition of overseas relationships[^key-975d2bad80dd44ec9a1a746405c41c64]
+### 26. Recognition of overseas relationships[^c-975d2bad80dd44ec9a1a746405c41c64]
 
 (1) The 2004 Act is amended as follows.
 
@@ -1353,7 +1353,7 @@ In section 88 of the 2004 Act (notice of proposed civil partnership), after subs
 
 .
 
-### 27. Dissolution of civil partnership: evidence[^key-6b7a6ec8d887d0bfdc462dee58260e35]
+### 27. Dissolution of civil partnership: evidence[^c-6b7a6ec8d887d0bfdc462dee58260e35]
 
 (1) Article 2 of the 2012 Order (which disapplies from certain actions for dissolution of civil partnership section 8(3A) of the Civil Evidence (Scotland) Act 1988 (requirement for evidence other than that of a party to the civil partnership)) is to be taken to have been in force since 5 December 2005 and to have had effect in relation to actions raised before 30 March 2012 as it has effect in relation to actions raised on or after that date.
 
@@ -1361,7 +1361,7 @@ In section 88 of the 2004 Act (notice of proposed civil partnership), after subs
 
 ## PART 3 — MARRIAGE AND CIVIL PARTNERSHIP: OTHER PROVISION
 
-### 28. Bigamy[^key-65a2c1a72daade83a6b1a0112a77aa42]
+### 28. Bigamy[^c-65a2c1a72daade83a6b1a0112a77aa42]
 
 (1) In section 24 of the 1977 Act (offences)—
 
@@ -1395,16 +1395,16 @@ In section 88 of the 2004 Act (notice of proposed civil partnership), after subs
 
 ## PART 4 — CHANGE OF GENDER OF MARRIED PERSONS OR CIVIL PARTNERS
 
-### 29. Change of gender of married persons or civil partners[^key-dc17d9c39b0f6da2da99d1ee272e6b63][^key-30624b189224ece082f36c1f56895bc6]
+### 29. Change of gender of married persons or civil partners[^c-dc17d9c39b0f6da2da99d1ee272e6b63][^c-30624b189224ece082f36c1f56895bc6]
 
 Schedule 2 (change of gender of married persons or civil partners) has effect.
 
-### 30. Renewed marriage or civil partnership following issue of full gender recognition certificate[^key-e7d1e36907f68440f0b2ca091c63695e]
+### 30. Renewed marriage or civil partnership following issue of full gender recognition certificate[^c-e7d1e36907f68440f0b2ca091c63695e]
 
 (1) The Scottish Ministers may by regulations make provision about—
 
 - (a) the solemnisation of a renewed marriage between the parties to a protected Scottish marriage following the issue of a full gender recognition certificate to a party (or both parties) to the marriage,
-- (b) the registration of a renewed civil partnership between the parties to a protected Scottish civil partnership following the issue of full gender recognition certificates to a party (or both parties)[^key-6b1083b1848faa08493542b238b2a8fb] to the civil partnership.
+- (b) the registration of a renewed civil partnership between the parties to a protected Scottish civil partnership following the issue of full gender recognition certificates to a party (or both parties)[^c-6b1083b1848faa08493542b238b2a8fb] to the civil partnership.
 
 (2) Regulations under subsection (1) may in particular make provision—
 
@@ -1437,7 +1437,7 @@ Schedule 2 (change of gender of married persons or civil partners) has effect.
 
 (7) In this section “**full gender recognition certificate**”, “**protected Scottish civil partnership**” and “**protected Scottish marriage**” have the meanings given by section 25 of the Gender Recognition Act 2004.
 
-### 31. Grounds of divorce: interim gender recognition certificate followed by full certificate[^key-d4c1a52c6c9864c66eb32d538e65c071]
+### 31. Grounds of divorce: interim gender recognition certificate followed by full certificate[^c-d4c1a52c6c9864c66eb32d538e65c071]
 
 (1) Section 1 of the Divorce (Scotland) Act 1976 (grounds of divorce) is amended as follows.
 
@@ -1454,11 +1454,11 @@ Schedule 2 (change of gender of married persons or civil partners) has effect.
 
 ## PART 5 — REGISTRATION SERVICES
 
-### 32. Provision of certain information to district registrars[^key-606dac181fa12ee8f4dffc5578c151fe]
+### 32. Provision of certain information to district registrars[^c-606dac181fa12ee8f4dffc5578c151fe]
 
 In section 39C(1)(a)(i) of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (provision of certain information to district registrars), for “section 34(3)” substitute “ section 34(4) ”.
 
-### 33. Form of register of marriages[^key-f16bd9a7c6c518ef279785790feeb0c3]
+### 33. Form of register of marriages[^c-f16bd9a7c6c518ef279785790feeb0c3]
 
 In section 54 of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (regulations), after subsection (1) insert—
 
@@ -1505,9 +1505,9 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 ### Domicile and Matrimonial Proceedings Act 1973
 
-**1.** (1)[^key-0c1bb7dc570823ccb91244a2e78dc1c3][^key-84539d1e07df84c4cce8585671d0dc1c] The Domicile and Matrimonial Proceedings Act 1973 is amended in accordance with this paragraph.
+**1.** (1)[^c-0c1bb7dc570823ccb91244a2e78dc1c3][^c-84539d1e07df84c4cce8585671d0dc1c] The Domicile and Matrimonial Proceedings Act 1973 is amended in accordance with this paragraph.
 
-(2)[^key-2124f599a26db612e3611566929a5b68] After section 8 insert—
+(2)[^c-2124f599a26db612e3611566929a5b68] After section 8 insert—
 
 > **8A. Same sex marriages**
 >
@@ -1517,7 +1517,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 .
 
-(3)[^key-2124f599a26db612e3611566929a5b68] In section 10 (ancillary and collateral orders), after subsection (1B) insert—
+(3)[^c-2124f599a26db612e3611566929a5b68] In section 10 (ancillary and collateral orders), after subsection (1B) insert—
 
 > (1BA) In relation to a marriage between persons of the same sex, subsection (1) does not give the Court of Session or a sheriff court jurisdiction to entertain an application in proceedings where—
 >
@@ -1526,7 +1526,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 .
 
-(4)[^key-0c1bb7dc570823ccb91244a2e78dc1c3][^key-84539d1e07df84c4cce8585671d0dc1c] Before schedule 2 insert—
+(4)[^c-0c1bb7dc570823ccb91244a2e78dc1c3][^c-84539d1e07df84c4cce8585671d0dc1c] Before schedule 2 insert—
 
 > **SCHEDULE 1B — JURISDICTION IN RELATION TO SAME SEX MARRIAGES (SCOTLAND)**
 >
@@ -1657,7 +1657,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 ### Presumption of Death (Scotland) Act 1977
 
-**2.**[^key-71f3b86ab00f9a6471d0c273b238a185] In section 1 of the Presumption of Death (Scotland) Act 1977 (actions of declarator of the death of missing persons), after subsection (4) insert—
+**2.**[^c-71f3b86ab00f9a6471d0c273b238a185] In section 1 of the Presumption of Death (Scotland) Act 1977 (actions of declarator of the death of missing persons), after subsection (4) insert—
 
 > (4A) Despite subsection (4), the sheriff court of the sheriffdom of Lothian and Borders at Edinburgh also has jurisdiction to entertain an action of declarator if—
 >
@@ -1675,11 +1675,11 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Introductory
 
-**1.**[^key-116f15912f7e680f6cf9af86a4e06343][^key-8fe4a52f612a5caaa91ecf8f017f9dcc] The Gender Recognition Act 2004 is amended in accordance with this Part of this schedule.
+**1.**[^c-116f15912f7e680f6cf9af86a4e06343][^c-8fe4a52f612a5caaa91ecf8f017f9dcc] The Gender Recognition Act 2004 is amended in accordance with this Part of this schedule.
 
 #### Interpretation
 
-**2.**[^key-06792a6a0a2de862e7789625ac6066c1] In section 25 (interpretation)—
+**2.**[^c-06792a6a0a2de862e7789625ac6066c1] In section 25 (interpretation)—
 
 - (a) the existing words become subsection (1),
 - (b) in the definitions of “full gender recognition certificate” and “interim gender recognition certificate”, for “5 or 5A” substitute “ 4C, 4E, 4F, 5, 5A or 5D ”,
@@ -1712,7 +1712,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Evidence
 
-**3.**[^key-09428750b7492e72e40cb8f6258f45dd] In section 3 (evidence), before subsection (7) insert—
+**3.**[^c-09428750b7492e72e40cb8f6258f45dd] In section 3 (evidence), before subsection (7) insert—
 
 > (6D) If the applicant is a party to a protected Scottish marriage, an application under section 1(1) must also include—
 >
@@ -1729,7 +1729,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Successful applications
 
-**4.**[^key-be3f5122790437d83b8df4e054a494f8] In section 4 (successful applications)—
+**4.**[^c-be3f5122790437d83b8df4e054a494f8] In section 4 (successful applications)—
 
 - (a) after subsection (1) insert—
 
@@ -1765,7 +1765,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Issue of full gender recognition certificate after interim certificate: applicant married
 
-**5.**[^key-3e18c2068cedfa397db35ca655063d8c] Before section 5 insert—
+**5.**[^c-3e18c2068cedfa397db35ca655063d8c] Before section 5 insert—
 
 > **4C. Married person with interim certificate: issue of full certificate (Scotland)**
 >
@@ -1881,7 +1881,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Issue of full gender recognition certificate after interim certificate: grounds of divorce
 
-**6.**[^key-357bb53319fd4b3c59d72d7b2213ca42] In section 5 (issue of full certificates where applicant has been married), after subsection (1), insert—
+**6.**[^c-357bb53319fd4b3c59d72d7b2213ca42] In section 5 (issue of full certificates where applicant has been married), after subsection (1), insert—
 
 > (1A) Subsection (1) does not apply where a full gender recognition certificate has already been issued, to the party to whom the interim gender recognition certificate was issued, by the sheriff under section 4E.
 
@@ -1889,7 +1889,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Applications by both civil partners
 
-**7.**[^key-596f0a6759b3b14c419baa101777498d][^key-1ddfb7b567f4bd841eab48df94647900] Before section 6 insert—
+**7.**[^c-596f0a6759b3b14c419baa101777498d][^c-1ddfb7b567f4bd841eab48df94647900] Before section 6 insert—
 
 > **5C. Protected Scottish civil partnership: applications by both civil partners**
 >
@@ -1927,7 +1927,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Appeals etc.
 
-**8.**[^key-8b0c892790bad3e7adc8df35c722fc29] In section 8 (appeals etc.)—
+**8.**[^c-8b0c892790bad3e7adc8df35c722fc29] In section 8 (appeals etc.)—
 
 - (a) in subsection (1), before “5(2)” insert “ 4C, 4F, ”,
 - (b) in subsection (5), before “5(2)” insert “ 4C, 4E, 4F, ”,
@@ -1940,7 +1940,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Registration
 
-**9.** (1)[^key-85f4d6d4b9e3c81ddf4071709e8cf02c] In section 10 (registration), before subsection (2) insert—
+**9.** (1)[^c-85f4d6d4b9e3c81ddf4071709e8cf02c] In section 10 (registration), before subsection (2) insert—
 
 > (1B) Where a full gender recognition certificate is issued by a Gender Recognition Panel or the sheriff to a person who is a party to a protected Scottish marriage or a protected Scottish civil partnership, the Panel must send a copy of the certificate to the Registrar General for Scotland.
 
@@ -1948,8 +1948,8 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 (2) In schedule 3 (registration), in Part 2 (Scotland)—
 
-- (a)[^key-85f4d6d4b9e3c81ddf4071709e8cf02c] in paragraph 19(1), before “5(2)” insert “ 4C, 4E, 4F, ”, and
-- (b)[^key-e18c48d840bc3ca7f59da2ee5f0a27f9][^key-8ff5871a44332a563d75bdd0f4b0a87b] after paragraph 20 insert—
+- (a)[^c-85f4d6d4b9e3c81ddf4071709e8cf02c] in paragraph 19(1), before “5(2)” insert “ 4C, 4E, 4F, ”, and
+- (b)[^c-e18c48d840bc3ca7f59da2ee5f0a27f9][^c-8ff5871a44332a563d75bdd0f4b0a87b] after paragraph 20 insert—
 
   > **20A.** (1) The Registrar General may, with the approval of the Scottish Ministers, make regulations about—
   >
@@ -1969,7 +1969,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Continuity of marriage
 
-**10.**[^key-245aef857b5ea28609d998f50bbe8ceb] Before section 12 insert—
+**10.**[^c-245aef857b5ea28609d998f50bbe8ceb] Before section 12 insert—
 
 > **11C. Continuity of marriage: Scotland**
 >
@@ -1981,7 +1981,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Continuity of civil partnership
 
-**11.**[^key-bad339445986251f68c79a5c661924df] After section 11C (inserted by paragraph 10) insert—
+**11.**[^c-bad339445986251f68c79a5c661924df] After section 11C (inserted by paragraph 10) insert—
 
 > **11D. Continuity of civil partnership: Scotland**
 >
@@ -1991,23 +1991,23 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Foreign gender change and marriage
 
-**12.**[^key-0e5b4164a1a939d499faed508088fbcd] In section 21 (foreign gender change and marriage), subsections (2) to (5) are repealed.
+**12.**[^c-0e5b4164a1a939d499faed508088fbcd] In section 21 (foreign gender change and marriage), subsections (2) to (5) are repealed.
 
 ### PART 2 — ALTERNATIVE GROUNDS FOR GRANTING APPLICATIONS FOR GENDER RECOGNITION CERTIFICATES
 
 #### Introductory
 
-**13.**[^key-2c95728eada747cf910792629f2f6239] The Gender Recognition Act 2004 is further amended in accordance with this Part of this schedule.
+**13.**[^c-2c95728eada747cf910792629f2f6239] The Gender Recognition Act 2004 is further amended in accordance with this Part of this schedule.
 
 #### Alternative grounds for granting applications
 
-**14.**[^key-febf3ee91b66d6e755410ae3b9ae1648] In section 2 (determination of applications), after subsection (3A) insert—
+**14.**[^c-febf3ee91b66d6e755410ae3b9ae1648] In section 2 (determination of applications), after subsection (3A) insert—
 
 > (3B) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3C.
 
 .
 
-**15.**[^key-ecbb6f5ad26744943bd1304e16b577ea][^key-1e022dbfff68e675fe5a92e308770983] After section 3B insert—
+**15.**[^c-ecbb6f5ad26744943bd1304e16b577ea][^c-1e022dbfff68e675fe5a92e308770983] After section 3B insert—
 
 > **3C. Alternative grounds for granting applications: Scotland**
 >
@@ -2050,13 +2050,13 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Evidence for granting applications on alternative grounds
 
-**16.**[^key-e74b5c8cc0ca22a8dad7c5ee56e43bc3] In section 3 (evidence), after subsection (9) insert—
+**16.**[^c-e74b5c8cc0ca22a8dad7c5ee56e43bc3] In section 3 (evidence), after subsection (9) insert—
 
 > (10) This section does not apply to an application under section 1(1)(a) which states that it is an application for a certificate to be granted in accordance with section 3C.
 
 .
 
-**17.**[^key-8365488679addc9ad7f81f6b09c60cea][^key-d3ca79f45a87c5dfa682a52372abc753] After section 3C (inserted by paragraph 15) insert—
+**17.**[^c-8365488679addc9ad7f81f6b09c60cea][^c-d3ca79f45a87c5dfa682a52372abc753] After section 3C (inserted by paragraph 15) insert—
 
 > **3D. Evidence for granting applications on alternative grounds: Scotland**
 >
@@ -2104,7 +2104,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 #### Membership of Panels determining applications on alternative grounds
 
-**18.**[^key-f4f8103bfaba1daea1f3f82a1b8d2487] In schedule 1 (Gender Recognition Panels), in paragraph 4, after sub-paragraph (3) insert—
+**18.**[^c-f4f8103bfaba1daea1f3f82a1b8d2487] In schedule 1 (Gender Recognition Panels), in paragraph 4, after sub-paragraph (3) insert—
 
 > (4) But a Panel need not include a medical member when determining an application under section 1(1)(a) for a certificate to be granted in accordance with section 3C.
 
@@ -2112,7 +2112,7 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 ### PART 3 — CONSEQUENTIAL AMENDMENTS
 
-**19.**[^key-dcebdc544bbe4bf15e73658433bc6f03] (1) In section 7(1) (applications: supplementary), before “5(2)” insert “ 4C, 4F, ”.
+**19.**[^c-dcebdc544bbe4bf15e73658433bc6f03] (1) In section 7(1) (applications: supplementary), before “5(2)” insert “ 4C, 4F, ”.
 
 (2) In section 22(2)(a) (prohibition on disclosure of information), before “5(2)” insert “ 4C, 4F, ”.
 
@@ -2129,170 +2129,170 @@ The short title of this Act is the Marriage and Civil Partnership (Scotland) Act
 
 ## Annotations
 
-[^key-8ba16545ee4108e28a1493339cef9115]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/5/section/1) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-8ba16545ee4108e28a1493339cef9115]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/5/section/1) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-3a2c27629099b172ac00b86079ef983b]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/5/section/2) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-3a2c27629099b172ac00b86079ef983b]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2014/5/section/2) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-b1c6781e0b38d86c0b4309945f8bb853]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/5/section/3) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-b1c6781e0b38d86c0b4309945f8bb853]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/5/section/3) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-4ce5c5ae8d99b92134e4d1b7a39baae5]: Commencement: S. 4(1)-(7)(11)-(15) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-4ce5c5ae8d99b92134e4d1b7a39baae5]: Commencement: S. 4(1)-(7)(11)-(15) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-667e3e5aa7d090dbf418d43f34b9a333]: Commencement: S. 4(8)-(10) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-667e3e5aa7d090dbf418d43f34b9a333]: Commencement: S. 4(8)-(10) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-8bbb6900eb67034f5ee411d4aed94792]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/5/section/5) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-8bbb6900eb67034f5ee411d4aed94792]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/5/section/5) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-a4d7f3c944f2919b97739a7bdf64a938]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/5/section/6) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-a4d7f3c944f2919b97739a7bdf64a938]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/5/section/6) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-f089daa6639baf97ccd3a0adc073ae17]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/5/section/6) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-f089daa6639baf97ccd3a0adc073ae17]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/5/section/6) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-0f57193c08a7bbb2b281775a0c09ebd9]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/5/section/7) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/121/article/2/a)
+[^c-0f57193c08a7bbb2b281775a0c09ebd9]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/5/section/7) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(a)](https://www.legislation.gov.uk/ssi/2014/121/article/2/a)
 
-[^key-fe6d77e6e4443dd76905f8fe239d0628]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/5/section/8) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-fe6d77e6e4443dd76905f8fe239d0628]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/5/section/8) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-6592d4f5e6a26c3e1a2b7be7fdd635d8]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/5/section/9) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-6592d4f5e6a26c3e1a2b7be7fdd635d8]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/5/section/9) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-731e50d2a7cdb8178c3023bb51a759d3]: Commencement: S. 10 in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-731e50d2a7cdb8178c3023bb51a759d3]: Commencement: S. 10 in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-da9e87b5ef5567a69144a1403ff10fbf]: Textual amendment: Words in [s. 10(7)](https://www.legislation.gov.uk/asp/2014/5/section/10/7) substituted (31.10.2015) by [The Qualifying Civil Partnership Modification (Scotland) Order 2015 (S.S.I. 2015/371)](https://www.legislation.gov.uk/ssi/2015/371), [arts. 1](https://www.legislation.gov.uk/ssi/2015/371/article/1), [5](https://www.legislation.gov.uk/ssi/2015/371/article/5)
+[^c-da9e87b5ef5567a69144a1403ff10fbf]: Textual amendment: Words in [s. 10(7)](https://www.legislation.gov.uk/asp/2014/5/section/10/7) substituted (31.10.2015) by [The Qualifying Civil Partnership Modification (Scotland) Order 2015 (S.S.I. 2015/371)](https://www.legislation.gov.uk/ssi/2015/371), [arts. 1](https://www.legislation.gov.uk/ssi/2015/371/article/1), [5](https://www.legislation.gov.uk/ssi/2015/371/article/5)
 
-[^key-032a86cb1f7b8d8f3116dc591542f1ca]: Modification: S. 11 applied (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [14](https://www.legislation.gov.uk/uksi/2014/3229/article/14)
+[^c-032a86cb1f7b8d8f3116dc591542f1ca]: Modification: S. 11 applied (16.12.2014) by [The Marriage and Civil Partnership (Scotland) Act 2014 and Civil Partnership Act 2004 (Consequential Provisions and Modifications) Order 2014 (S.I. 2014/3229)](https://www.legislation.gov.uk/uksi/2014/3229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2), [14](https://www.legislation.gov.uk/uksi/2014/3229/article/14)
 
-[^key-a5d20fa1e031f35229ef92bed9f50078]: Commencement: S. 11(1)-(4)(7)-(9) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-a5d20fa1e031f35229ef92bed9f50078]: Commencement: S. 11(1)-(4)(7)-(9) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-72fea8996cce0fa7ea37fde32d507666]: Modification: [S. 11(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/11/2/b) modified (31.10.2015) by [The Qualifying Civil Partnership Modification (Scotland) Order 2015 (S.S.I. 2015/371)](https://www.legislation.gov.uk/ssi/2015/371), [arts. 1](https://www.legislation.gov.uk/ssi/2015/371/article/1), [6](https://www.legislation.gov.uk/ssi/2015/371/article/6)
+[^c-72fea8996cce0fa7ea37fde32d507666]: Modification: [S. 11(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/11/2/b) modified (31.10.2015) by [The Qualifying Civil Partnership Modification (Scotland) Order 2015 (S.S.I. 2015/371)](https://www.legislation.gov.uk/ssi/2015/371), [arts. 1](https://www.legislation.gov.uk/ssi/2015/371/article/1), [6](https://www.legislation.gov.uk/ssi/2015/371/article/6)
 
-[^key-663ce7af1af4a7865e6aed39ed800919]: Modification: [S. 11(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/11/2/b): power to modify conferred (1.6.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [ss. 4(2)(e)](https://www.legislation.gov.uk/asp/2020/15/section/4/2/e), [16](https://www.legislation.gov.uk/asp/2020/15/section/16); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
+[^c-663ce7af1af4a7865e6aed39ed800919]: Modification: [S. 11(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/11/2/b): power to modify conferred (1.6.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [ss. 4(2)(e)](https://www.legislation.gov.uk/asp/2020/15/section/4/2/e), [16](https://www.legislation.gov.uk/asp/2020/15/section/16); [S.S.I. 2021/23](https://www.legislation.gov.uk/ssi/2021/23), [reg. 2](https://www.legislation.gov.uk/ssi/2021/23/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/23/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/23/regulation/3))
 
-[^key-0186c095eb65d1101a1d3a2f724e2d70]: Commencement: S. 11(5)(6) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-0186c095eb65d1101a1d3a2f724e2d70]: Commencement: S. 11(5)(6) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-3c64a820eb445f6b13acc32edf137e7b]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/asp/2014/5/section/12/1)[(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/a)[(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/b) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/212/article/3))
+[^c-3c64a820eb445f6b13acc32edf137e7b]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/asp/2014/5/section/12/1)[(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/a)[(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/b) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/212/article/3))
 
-[^key-5da6d5774b8dff643c4d5ee77cfdb794]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/asp/2014/5/section/12/1)[(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/b) in force at 16.12.2014 for specified purposes by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/287/article/4))
+[^c-5da6d5774b8dff643c4d5ee77cfdb794]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/asp/2014/5/section/12/1)[(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/b) in force at 16.12.2014 for specified purposes by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/287/article/4))
 
-[^key-df98173b5c1de3cea5fad09af5d2c875]: Commencement: [S. 12(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/a) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/287/article/4))
+[^c-df98173b5c1de3cea5fad09af5d2c875]: Commencement: [S. 12(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/a) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/287/article/4))
 
-[^key-c0856c10918255bf903b6acb095f2bf4]: Commencement: [S. 12(2)(c)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/c)[(3)](https://www.legislation.gov.uk/asp/2014/5/section/12/3)[(4)](https://www.legislation.gov.uk/asp/2014/5/section/12/4) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/287/article/4))
+[^c-c0856c10918255bf903b6acb095f2bf4]: Commencement: [S. 12(2)(c)](https://www.legislation.gov.uk/asp/2014/5/section/12/2/c)[(3)](https://www.legislation.gov.uk/asp/2014/5/section/12/3)[(4)](https://www.legislation.gov.uk/asp/2014/5/section/12/4) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/287/article/4))
 
-[^key-fe05060fe0cc8e4b3df929006b2fe6c5]: Commencement: S. 13(1)(2)(e) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-fe05060fe0cc8e4b3df929006b2fe6c5]: Commencement: S. 13(1)(2)(e) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-cf6445f32f0b1ed29e0f1e7f30e33f31]: Commencement: S. 13(1) in force at 16.12.2014 for specified purposes by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-cf6445f32f0b1ed29e0f1e7f30e33f31]: Commencement: S. 13(1) in force at 16.12.2014 for specified purposes by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-02f9406c9e8e4cfd004934f961cdea2a]: Commencement: S. 13(2)(a)-(c)(f)-(l)(3)-(5) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-02f9406c9e8e4cfd004934f961cdea2a]: Commencement: S. 13(2)(a)-(c)(f)-(l)(3)-(5) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-9eb8336560868efe63f272f72fb7ba2e]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2014/5/section/14/1)[(2)](https://www.legislation.gov.uk/asp/2014/5/section/14/2) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-9eb8336560868efe63f272f72fb7ba2e]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2014/5/section/14/1)[(2)](https://www.legislation.gov.uk/asp/2014/5/section/14/2) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-342f65fe61a0fb08241c843be99f7f03]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2014/5/section/14/1)[(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/14/2/b) in force at 16.12.2014 for specified purposes by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-342f65fe61a0fb08241c843be99f7f03]: Commencement: [S. 14(1)](https://www.legislation.gov.uk/asp/2014/5/section/14/1)[(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/14/2/b) in force at 16.12.2014 for specified purposes by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-8c07d0edc0898cc82191e413b36b3ca5]: Commencement: [S. 14(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/14/2/a)[(3)](https://www.legislation.gov.uk/asp/2014/5/section/14/3) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-8c07d0edc0898cc82191e413b36b3ca5]: Commencement: [S. 14(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/14/2/a)[(3)](https://www.legislation.gov.uk/asp/2014/5/section/14/3) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-c8226f92cddbc5237dae03455e7700bc]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/5/section/15) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-c8226f92cddbc5237dae03455e7700bc]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2014/5/section/15) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-2c6579dfedad78abffb46ca60cde794f]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/5/section/16) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-2c6579dfedad78abffb46ca60cde794f]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2014/5/section/16) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-bc3ddda41f5bc545856d2add264df448]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/5/section/17) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-bc3ddda41f5bc545856d2add264df448]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/5/section/17) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-fe21ff81c34213501c536653790b7a2d]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asp/2014/5/section/18/1)[(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/18/2/b)[(3)](https://www.legislation.gov.uk/asp/2014/5/section/18/3)[(4)](https://www.legislation.gov.uk/asp/2014/5/section/18/4) in force at 1.3.2015 by [S.S.I. 2015/14](https://www.legislation.gov.uk/ssi/2015/14), [art. 2](https://www.legislation.gov.uk/ssi/2015/14/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/14/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/14/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2015/14/article/3/3))
+[^c-fe21ff81c34213501c536653790b7a2d]: Commencement: [S. 18(1)](https://www.legislation.gov.uk/asp/2014/5/section/18/1)[(2)(b)](https://www.legislation.gov.uk/asp/2014/5/section/18/2/b)[(3)](https://www.legislation.gov.uk/asp/2014/5/section/18/3)[(4)](https://www.legislation.gov.uk/asp/2014/5/section/18/4) in force at 1.3.2015 by [S.S.I. 2015/14](https://www.legislation.gov.uk/ssi/2015/14), [art. 2](https://www.legislation.gov.uk/ssi/2015/14/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/14/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/14/article/3/1)[(3)](https://www.legislation.gov.uk/ssi/2015/14/article/3/3))
 
-[^key-6a8dc3e9747b2b827db2c5d2575de1ac]: Commencement: [S. 18(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/18/2/a) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-6a8dc3e9747b2b827db2c5d2575de1ac]: Commencement: [S. 18(2)(a)](https://www.legislation.gov.uk/asp/2014/5/section/18/2/a) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-e691cf5ce90ea469b7a986d406b9a160]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/5/section/19) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/121/article/2/b)
+[^c-e691cf5ce90ea469b7a986d406b9a160]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2014/5/section/19) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(b)](https://www.legislation.gov.uk/ssi/2014/121/article/2/b)
 
-[^key-fbe63fb0efe28b1f447237f5b9710ae9]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/5/section/20) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(c)](https://www.legislation.gov.uk/ssi/2014/121/article/2/c)
+[^c-fbe63fb0efe28b1f447237f5b9710ae9]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2014/5/section/20) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(c)](https://www.legislation.gov.uk/ssi/2014/121/article/2/c)
 
-[^key-b614d23014815ab43512f467c7d4b36e]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/5/section/21) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-b614d23014815ab43512f467c7d4b36e]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2014/5/section/21) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-186263178f6277c208d02174fb7bd8d4]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/5/section/22) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(d)](https://www.legislation.gov.uk/ssi/2014/121/article/2/d)
+[^c-186263178f6277c208d02174fb7bd8d4]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/5/section/22) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(d)](https://www.legislation.gov.uk/ssi/2014/121/article/2/d)
 
-[^key-ea9183ed569b2f97e2db981e219444d6]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/5/section/23) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(e)](https://www.legislation.gov.uk/ssi/2014/121/article/2/e)
+[^c-ea9183ed569b2f97e2db981e219444d6]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2014/5/section/23) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(e)](https://www.legislation.gov.uk/ssi/2014/121/article/2/e)
 
-[^key-56706f7325d6f0db74f44877084eb833]: Commencement: S. 24(1)(13)(15) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-56706f7325d6f0db74f44877084eb833]: Commencement: S. 24(1)(13)(15) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-5862da65fca88ada4798c99bb0af17a6]: Commencement: S. 24(1)(13) in force at 16.12.2014 for specified purposes by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-5862da65fca88ada4798c99bb0af17a6]: Commencement: S. 24(1)(13) in force at 16.12.2014 for specified purposes by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-79834b0ea0a7d6925282148e47ceb39e]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/asp/2014/5/section/24/1) in force at 1.3.2015 for specified purposes by [S.S.I. 2015/14](https://www.legislation.gov.uk/ssi/2015/14), [art. 2](https://www.legislation.gov.uk/ssi/2015/14/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/14/schedule)
+[^c-79834b0ea0a7d6925282148e47ceb39e]: Commencement: [S. 24(1)](https://www.legislation.gov.uk/asp/2014/5/section/24/1) in force at 1.3.2015 for specified purposes by [S.S.I. 2015/14](https://www.legislation.gov.uk/ssi/2015/14), [art. 2](https://www.legislation.gov.uk/ssi/2015/14/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/14/schedule)
 
-[^key-238d03070639a432add23891047358a7]: Commencement: S. 24(2)-(6)(7)(a)(c) (8)(a)(b)(i)(iii)(c)(9)-(11) (12)(a)(b)(ii)(c)(14)(16)(17)(18)(b)(19)-(22) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-238d03070639a432add23891047358a7]: Commencement: S. 24(2)-(6)(7)(a)(c) (8)(a)(b)(i)(iii)(c)(9)-(11) (12)(a)(b)(ii)(c)(14)(16)(17)(18)(b)(19)-(22) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-79fb7845d45f2a1d70db0774014854ba]: Commencement: [S. 24(7)(b)](https://www.legislation.gov.uk/asp/2014/5/section/24/7/b)[(8)(b)(ii)](https://www.legislation.gov.uk/asp/2014/5/section/24/8/b/ii)[(12)(b)(i)](https://www.legislation.gov.uk/asp/2014/5/section/24/12/b/i)[(18)(a)](https://www.legislation.gov.uk/asp/2014/5/section/24/18/a) in force at 1.3.2015 by [S.S.I. 2015/14](https://www.legislation.gov.uk/ssi/2015/14), [art. 2](https://www.legislation.gov.uk/ssi/2015/14/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/14/schedule) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/14/article/3/2)[(4)](https://www.legislation.gov.uk/ssi/2015/14/article/3/4))
+[^c-79fb7845d45f2a1d70db0774014854ba]: Commencement: [S. 24(7)(b)](https://www.legislation.gov.uk/asp/2014/5/section/24/7/b)[(8)(b)(ii)](https://www.legislation.gov.uk/asp/2014/5/section/24/8/b/ii)[(12)(b)(i)](https://www.legislation.gov.uk/asp/2014/5/section/24/12/b/i)[(18)(a)](https://www.legislation.gov.uk/asp/2014/5/section/24/18/a) in force at 1.3.2015 by [S.S.I. 2015/14](https://www.legislation.gov.uk/ssi/2015/14), [art. 2](https://www.legislation.gov.uk/ssi/2015/14/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/14/schedule) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/14/article/3/2)[(4)](https://www.legislation.gov.uk/ssi/2015/14/article/3/4))
 
-[^key-ac07af82779418abc9572b361a554f27]: Commencement: S. 24(15) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-ac07af82779418abc9572b361a554f27]: Commencement: S. 24(15) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-c9a7103db23b3b93837e2f86287d949c]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/5/section/25) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-c9a7103db23b3b93837e2f86287d949c]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2014/5/section/25) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-975d2bad80dd44ec9a1a746405c41c64]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2014/5/section/26) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/287/article/5))
+[^c-975d2bad80dd44ec9a1a746405c41c64]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2014/5/section/26) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2014/287/article/5))
 
-[^key-6b7a6ec8d887d0bfdc462dee58260e35]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/5/section/27) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(f)](https://www.legislation.gov.uk/ssi/2014/121/article/2/f)
+[^c-6b7a6ec8d887d0bfdc462dee58260e35]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2014/5/section/27) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(f)](https://www.legislation.gov.uk/ssi/2014/121/article/2/f)
 
-[^key-65a2c1a72daade83a6b1a0112a77aa42]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/5/section/28) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-65a2c1a72daade83a6b1a0112a77aa42]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2014/5/section/28) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-dc17d9c39b0f6da2da99d1ee272e6b63]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/5/section/29) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-dc17d9c39b0f6da2da99d1ee272e6b63]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/5/section/29) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-30624b189224ece082f36c1f56895bc6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/5/section/29) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-30624b189224ece082f36c1f56895bc6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2014/5/section/29) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-e7d1e36907f68440f0b2ca091c63695e]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/5/section/30) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-e7d1e36907f68440f0b2ca091c63695e]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2014/5/section/30) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-6b1083b1848faa08493542b238b2a8fb]: Textual amendment: Words in [s. 30(1)(b)](https://www.legislation.gov.uk/asp/2014/5/section/30/1/b) substituted (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 7(2)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/7/2); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
+[^c-6b1083b1848faa08493542b238b2a8fb]: Textual amendment: Words in [s. 30(1)(b)](https://www.legislation.gov.uk/asp/2014/5/section/30/1/b) substituted (30.11.2021) by [Civil Partnership (Scotland) Act 2020 (asp 15)](https://www.legislation.gov.uk/asp/2020/15), [s. 16](https://www.legislation.gov.uk/asp/2020/15/section/16), [sch. 2 para. 7(2)](https://www.legislation.gov.uk/asp/2020/15/schedule/2/paragraph/7/2); [S.S.I. 2021/351](https://www.legislation.gov.uk/ssi/2021/351), [reg. 2](https://www.legislation.gov.uk/ssi/2021/351/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/351/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/351/regulation/3))
 
-[^key-d4c1a52c6c9864c66eb32d538e65c071]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/5/section/31) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-d4c1a52c6c9864c66eb32d538e65c071]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/5/section/31) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-606dac181fa12ee8f4dffc5578c151fe]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2014/5/section/32) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(g)](https://www.legislation.gov.uk/ssi/2014/121/article/2/g)
+[^c-606dac181fa12ee8f4dffc5578c151fe]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2014/5/section/32) in force at 21.5.2014 by [S.S.I. 2014/121](https://www.legislation.gov.uk/ssi/2014/121), [art. 2(g)](https://www.legislation.gov.uk/ssi/2014/121/article/2/g)
 
-[^key-f16bd9a7c6c518ef279785790feeb0c3]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/5/section/33) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-f16bd9a7c6c518ef279785790feeb0c3]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2014/5/section/33) in force at 1.9.2014 by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-0c1bb7dc570823ccb91244a2e78dc1c3]: Commencement: [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/1)[(4)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/4) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-0c1bb7dc570823ccb91244a2e78dc1c3]: Commencement: [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/1)[(4)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/4) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-84539d1e07df84c4cce8585671d0dc1c]: Commencement: [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/1)[(4)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/4) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-84539d1e07df84c4cce8585671d0dc1c]: Commencement: [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/1)[(4)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/4) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-2124f599a26db612e3611566929a5b68]: Commencement: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/2)[(3)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/3) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-2124f599a26db612e3611566929a5b68]: Commencement: [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/2)[(3)](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/1/3) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-71f3b86ab00f9a6471d0c273b238a185]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/2) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-71f3b86ab00f9a6471d0c273b238a185]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2014/5/schedule/1/paragraph/2) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-116f15912f7e680f6cf9af86a4e06343]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/1) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-116f15912f7e680f6cf9af86a4e06343]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/1) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-8fe4a52f612a5caaa91ecf8f017f9dcc]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/1) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-8fe4a52f612a5caaa91ecf8f017f9dcc]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/1) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-06792a6a0a2de862e7789625ac6066c1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/2) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-06792a6a0a2de862e7789625ac6066c1]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/2) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-09428750b7492e72e40cb8f6258f45dd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/3) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-09428750b7492e72e40cb8f6258f45dd]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/3) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-be3f5122790437d83b8df4e054a494f8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/4) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-be3f5122790437d83b8df4e054a494f8]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/4) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-3e18c2068cedfa397db35ca655063d8c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/5) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-3e18c2068cedfa397db35ca655063d8c]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/5) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-357bb53319fd4b3c59d72d7b2213ca42]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/6) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-357bb53319fd4b3c59d72d7b2213ca42]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/6) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-596f0a6759b3b14c419baa101777498d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/7) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-596f0a6759b3b14c419baa101777498d]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/7) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-1ddfb7b567f4bd841eab48df94647900]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/7) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-1ddfb7b567f4bd841eab48df94647900]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/7) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-8b0c892790bad3e7adc8df35c722fc29]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/8) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-8b0c892790bad3e7adc8df35c722fc29]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/8) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-85f4d6d4b9e3c81ddf4071709e8cf02c]: Commencement: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/1)[(2)(a)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/a) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-85f4d6d4b9e3c81ddf4071709e8cf02c]: Commencement: [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/1)[(2)(a)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/a) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-e18c48d840bc3ca7f59da2ee5f0a27f9]: Commencement: [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/b) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-e18c48d840bc3ca7f59da2ee5f0a27f9]: Commencement: [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/b) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-8ff5871a44332a563d75bdd0f4b0a87b]: Commencement: [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/b) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-8ff5871a44332a563d75bdd0f4b0a87b]: Commencement: [Sch. 2 para. 9(2)(b)](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/9/2/b) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-245aef857b5ea28609d998f50bbe8ceb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/10) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-245aef857b5ea28609d998f50bbe8ceb]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/10) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-bad339445986251f68c79a5c661924df]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/11) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-bad339445986251f68c79a5c661924df]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/11) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-0e5b4164a1a939d499faed508088fbcd]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/12) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-0e5b4164a1a939d499faed508088fbcd]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/12) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-2c95728eada747cf910792629f2f6239]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/13) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-2c95728eada747cf910792629f2f6239]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/13) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-febf3ee91b66d6e755410ae3b9ae1648]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/14) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-febf3ee91b66d6e755410ae3b9ae1648]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/14) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-ecbb6f5ad26744943bd1304e16b577ea]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/15) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-ecbb6f5ad26744943bd1304e16b577ea]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/15) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-1e022dbfff68e675fe5a92e308770983]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/15) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-1e022dbfff68e675fe5a92e308770983]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/15) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-e74b5c8cc0ca22a8dad7c5ee56e43bc3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/16) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-e74b5c8cc0ca22a8dad7c5ee56e43bc3]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/16) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-8365488679addc9ad7f81f6b09c60cea]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/17) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
+[^c-8365488679addc9ad7f81f6b09c60cea]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/17) in force at 1.9.2014 for specified purposes by [S.S.I. 2014/212](https://www.legislation.gov.uk/ssi/2014/212), [art. 2](https://www.legislation.gov.uk/ssi/2014/212/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/212/schedule)
 
-[^key-d3ca79f45a87c5dfa682a52372abc753]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/17) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-d3ca79f45a87c5dfa682a52372abc753]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/17) in force at 16.12.2014 in so far as not already in force by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-f4f8103bfaba1daea1f3f82a1b8d2487]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/18) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-f4f8103bfaba1daea1f3f82a1b8d2487]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/18) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-dcebdc544bbe4bf15e73658433bc6f03]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/19) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-dcebdc544bbe4bf15e73658433bc6f03]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/19) in force at 16.12.2014 by [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Felling or lopping of trees and removal of hedgerows[^key-0865c912fbe17226fe5e187eaaef039b]
+## 35. Felling or lopping of trees and removal of hedgerows[^c-0865c912fbe17226fe5e187eaaef039b]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a) do no unnecessary damage to any tree or shrub;
 - (b) ensure all works are carried out to a reasonable standard in accordance with the relevant recommendations of appropriate British Standards or other more suitable recognised codes of good practice provided these meet or exceed the appropriate British Standards,;
 - (c) pay compensation to any person for any loss or damage arising from such activity; and
-- (d) not breach [^key-1c8dfef7467315884103046891535622]...the provisions of the Wildlife and Countryside Act 1981[^f00043] and the Conservation of Habitats and Species Regulations 2017[^f00044] or any successor acts and regulations.
+- (d) not breach [^c-1c8dfef7467315884103046891535622]...the provisions of the Wildlife and Countryside Act 1981[^f00043] and the Conservation of Habitats and Species Regulations 2017[^f00044] or any successor acts and regulations.
 
 (3) Any dispute as to a person’s entitlement to compensation under paragraph (2), or as to the amount of compensation, is to be determined under Part 1 of the 1961 Act.
 
@@ -43,9 +43,9 @@ summary: ''
 
 ## Annotations
 
-[^key-0865c912fbe17226fe5e187eaaef039b]: Commencement: Art. 35 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-0865c912fbe17226fe5e187eaaef039b]: Commencement: Art. 35 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
 
-[^key-1c8dfef7467315884103046891535622]: Textual amendment: Word in [art. 35(2)(d)](https://www.legislation.gov.uk/uksi/2024/802/article/35/2/d) omitted (13.11.2024) by virtue of [The Sunnica Energy Farm (Correction) Order 2024 (S.I. 2024/1154)](https://www.legislation.gov.uk/uksi/2024/1154), [art. 1](https://www.legislation.gov.uk/uksi/2024/1154/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1154/schedule)
+[^c-1c8dfef7467315884103046891535622]: Textual amendment: Word in [art. 35(2)(d)](https://www.legislation.gov.uk/uksi/2024/802/article/35/2/d) omitted (13.11.2024) by virtue of [The Sunnica Energy Farm (Correction) Order 2024 (S.I. 2024/1154)](https://www.legislation.gov.uk/uksi/2024/1154), [art. 1](https://www.legislation.gov.uk/uksi/2024/1154/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1154/schedule)
 
 [^f00043]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 

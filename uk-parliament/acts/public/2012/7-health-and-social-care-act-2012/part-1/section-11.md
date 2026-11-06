@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. The Secretary of State's duty as to protection of public health[^key-7068fb88bcd3c84e12adb29b42f2a0cc]
+## 11. The Secretary of State's duty as to protection of public health[^c-7068fb88bcd3c84e12adb29b42f2a0cc]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ After section 2 of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-7068fb88bcd3c84e12adb29b42f2a0cc]: Commencement: S. 11 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7068fb88bcd3c84e12adb29b42f2a0cc]: Commencement: S. 11 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

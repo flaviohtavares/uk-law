@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-026f6c5c9f672a087f06308a8c3bde33] This rule applies to an Authority election that is taken together with the poll at—
+(1)[^c-026f6c5c9f672a087f06308a8c3bde33] This rule applies to an Authority election that is taken together with the poll at—
 
-- (a) a parliamentary election [^key-545de2247a10b1f8b27327d6ddc8b32f]... or local government election (other than an Authority election), under section 15(1) or (2) of the Representation of the People Act 1985 [^c19060301]; or
+- (a) a parliamentary election [^c-545de2247a10b1f8b27327d6ddc8b32f]... or local government election (other than an Authority election), under section 15(1) or (2) of the Representation of the People Act 1985 [^c19060301]; or
 - (b) a local authority mayoral election or referendum in accordance with regulations made under sections 44 and 105, or 45 and 105, of the Local Government Act 2000 [^c19060311].
 
 (2) For the purposes of an election to which this rule applies—
@@ -40,9 +40,9 @@ summary: ''
 
 [^M_C_7cbeab0e-589b-42b1-bf71-306564072826]: Modification: Rule 5 applied (with modifications) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 11 (with reg. 27)
 
-[^key-026f6c5c9f672a087f06308a8c3bde33]: Modification: Rule 5(1) modified (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/paragraph/26)
+[^c-026f6c5c9f672a087f06308a8c3bde33]: Modification: Rule 5(1) modified (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 para. 26](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/paragraph/26)
 
-[^key-545de2247a10b1f8b27327d6ddc8b32f]: Textual amendment: Words in [rule 5(1)(a)](https://www.legislation.gov.uk/uksi/2007/3541/rule/5/1/a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-545de2247a10b1f8b27327d6ddc8b32f]: Textual amendment: Words in [rule 5(1)(a)](https://www.legislation.gov.uk/uksi/2007/3541/rule/5/1/a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
 [^c19060301]: Marginal citation: 1985 c 50 .
 

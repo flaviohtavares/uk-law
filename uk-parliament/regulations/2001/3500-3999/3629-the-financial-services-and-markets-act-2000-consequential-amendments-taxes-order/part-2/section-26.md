@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Interpretative provisions relating to insurance companies[^key-b1a168dc26931ae2046ada8aab6635c0]
+## 26. Interpretative provisions relating to insurance companies[^c-b1a168dc26931ae2046ada8aab6635c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,7 +65,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b1a168dc26931ae2046ada8aab6635c0]: Commencement: Art. 26 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-b1a168dc26931ae2046ada8aab6635c0]: Commencement: Art. 26 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00029]: Footnote: Section 431(2) was relevantly amended by paragraph 1(2)(b) of Schedule 6 to the Finance Act 1990, section 52(1) of the Finance Act 1995 and paragraph 114 of the Schedule to S.I. [1997/2781](https://www.legislation.gov.uk/uksi/1997/2781).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Consignation, or payment into court, in Scotland[^key-b82905fcf67fb1ec49ca60aaedd5cedc]
+## 27. Consignation, or payment into court, in Scotland[^c-b82905fcf67fb1ec49ca60aaedd5cedc]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b82905fcf67fb1ec49ca60aaedd5cedc]: Commencement: S. 27 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-b82905fcf67fb1ec49ca60aaedd5cedc]: Commencement: S. 27 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

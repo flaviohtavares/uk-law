@@ -32,7 +32,7 @@ summary: ''
 (3) The appropriate registrar shall—
 
 - (a) register the documents received under subsection (1)(b), and
-- (b) cancel the registration of the company in the register of companies, or of the society in the register maintained under the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-bb9136d8c4c7c12e0d2477181e43d72a] (c. 24),
+- (b) cancel the registration of the company in the register of companies, or of the society in the register maintained under the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^c-bb9136d8c4c7c12e0d2477181e43d72a] (c. 24),
 
 and shall notify the Commission of having done so.
 
@@ -60,4 +60,4 @@ but the matters mentioned in paragraphs (a) and (b) are to be included only when
 
 ## Annotations
 
-[^key-bb9136d8c4c7c12e0d2477181e43d72a]: Textual amendment: Words in [s. 114(3)(b)](https://www.legislation.gov.uk/nia/2008/12/section/114/3/b) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/35); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-bb9136d8c4c7c12e0d2477181e43d72a]: Textual amendment: Words in [s. 114(3)(b)](https://www.legislation.gov.uk/nia/2008/12/section/114/3/b) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/35); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)

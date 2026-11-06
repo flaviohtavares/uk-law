@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Register of authorised persons[^key-7c49a7bf3364dd4b4b3d33a8a70091f2][^key-4bd5e84548234c8e6adfa14a60deb44c]
+## 33. Register of authorised persons[^c-7c49a7bf3364dd4b4b3d33a8a70091f2][^c-4bd5e84548234c8e6adfa14a60deb44c]
 
 *Extent: S*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c49a7bf3364dd4b4b3d33a8a70091f2]: Commencement: S. 33 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-7c49a7bf3364dd4b4b3d33a8a70091f2]: Commencement: S. 33 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-4bd5e84548234c8e6adfa14a60deb44c]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2026/6/section/33) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)
+[^c-4bd5e84548234c8e6adfa14a60deb44c]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2026/6/section/33) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(t)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/t)

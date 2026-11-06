@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Environment, Food and Rural Affairs, the Secretary of State for Scotland, the Secretary of State for Wales and the Minister of Agriculture and Rural Development for Northern Ireland acting jointly, in exercise of the powers conferred by section 19(4)(e) and (6) of the Veterinary Surgeons Act 1966[^f00001], and now vested in them[^f00002], and after consultation with the Council of the Royal College of Veterinary Surgeons, make the following Order.
 
-## 1. Title, application, commencement and interpretation[^key-4f547d7ba3a189f1cfa8073d505984ec]
+## 1. Title, application, commencement and interpretation[^c-4f547d7ba3a189f1cfa8073d505984ec]
 
 (1) This Order—
 
@@ -58,13 +58,13 @@ The Secretary of State for Environment, Food and Rural Affairs, the Secretary of
 
 - “the Act” means the Veterinary Surgeons Act 1966;
 - “cow” means a cow of the bovine species, including bison and buffalo; and
-- “veterinary surgeon” means a person who is registered in the register of veterinary surgeons or the supplemental veterinary register [^key-c05e6dca6bb34d593910d1eaba5ed1bf]....
+- “veterinary surgeon” means a person who is registered in the register of veterinary surgeons or the supplemental veterinary register [^c-c05e6dca6bb34d593910d1eaba5ed1bf]....
 
-## 2. Revocations[^key-36606dfda258d77b427dbf1552b5c87f]
+## 2. Revocations[^c-36606dfda258d77b427dbf1552b5c87f]
 
 The Veterinary Surgery (Artificial Insemination) Order 2007[^f00004], the Veterinary Surgery (Artificial Insemination) (Amendment) Order 2007[^f00005] and the Veterinary Surgery (Artificial Insemination) (Amendment) Order 2009[^f00006] are revoked.
 
-## 3. Exemption from prohibition on the practice of veterinary surgery for artificial insemination of cows[^key-1e824395ea26523d7f622d3167ee0587]
+## 3. Exemption from prohibition on the practice of veterinary surgery for artificial insemination of cows[^c-1e824395ea26523d7f622d3167ee0587]
 
 *Extent: E+W+S*
 
@@ -76,18 +76,18 @@ The Veterinary Surgery (Artificial Insemination) Order 2007[^f00004], the Veteri
 - (b) has never been convicted of an offence relating to the welfare of animals; and
 - (c) either—
   - (i) carries out that artificial insemination as part of an approved course;
-  - (ii) has successfully completed an approved course; or[^key-33162cfd7545e99e6626a185df961a23]
-  - (iii) was, immediately before the coming into force of this Order, a qualified inseminator by virtue of paragraph (b) of the definition of “qualified inseminator” in article 3(2) of the Veterinary Surgery (Artificial Insemination) Order 2007; [^key-77c4c702631aced75c6d9bba436868d4]...
-  - (iv)[^key-77c4c702631aced75c6d9bba436868d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) has successfully completed an approved course; or[^c-33162cfd7545e99e6626a185df961a23]
+  - (iii) was, immediately before the coming into force of this Order, a qualified inseminator by virtue of paragraph (b) of the definition of “qualified inseminator” in article 3(2) of the Veterinary Surgery (Artificial Insemination) Order 2007; [^c-77c4c702631aced75c6d9bba436868d4]...
+  - (iv)[^c-77c4c702631aced75c6d9bba436868d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this article “approved course” means—
 
 - (a) a training course in the artificial insemination of cows that—
   - (i) has been approved before 22nd May 2007 by the Secretary of State, the Department of Agriculture and Rural Development, the Scottish Ministers or the National Assembly for Wales or, before its winding up, by the Agricultural Training Board[^f00009]; or
-  - (ii) is approved for the time being by the Secretary of State or the Department of Agriculture and Rural Development, after consultation with the Royal College of Veterinary Surgeons; [^key-f907e5a261bcaaadb0857bdc4ca06958]...
-- (b)[^key-f907e5a261bcaaadb0857bdc4ca06958] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) is approved for the time being by the Secretary of State or the Department of Agriculture and Rural Development, after consultation with the Royal College of Veterinary Surgeons; [^c-f907e5a261bcaaadb0857bdc4ca06958]...
+- (b)[^c-f907e5a261bcaaadb0857bdc4ca06958] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption from prohibition on the practice of veterinary surgery for artificial insemination of mares[^key-35aaaf5657305c3a4d271ae1fdf84734]
+## 4. Exemption from prohibition on the practice of veterinary surgery for artificial insemination of mares[^c-35aaaf5657305c3a4d271ae1fdf84734]
 
 (1) Section 19(1) of the Act does not prohibit the artificial insemination of a mare if the conditions in paragraph (2) are complied with.
 
@@ -100,8 +100,8 @@ The Veterinary Surgery (Artificial Insemination) Order 2007[^f00004], the Veteri
 
 (3) In this article “approved course” means—
 
-- (a) a training course in the artificial insemination of mares that is approved for the time being by the Secretary of State after consultation with the Royal College of Veterinary Surgeons;[^key-cda4d79671f2402e785008d15bc1eeba]...
-- (b)[^key-cda4d79671f2402e785008d15bc1eeba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a training course in the artificial insemination of mares that is approved for the time being by the Secretary of State after consultation with the Royal College of Veterinary Surgeons;[^c-cda4d79671f2402e785008d15bc1eeba]...
+- (b)[^c-cda4d79671f2402e785008d15bc1eeba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Jim Paice
 
@@ -147,11 +147,11 @@ No impact assessment has been carried out for this instrument as it has no signi
 
 [^f00002]: Footnote: The functions of the Minister of Agriculture, Fisheries and Food in section 19 of the Veterinary Surgeons Act 1966 were transferred to the Secretary of State for Environment, Food and Rural Affairs by article 3(1) of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)). By virtue of section 95(5) of, and paragraph 10 of Schedule 12 to, the Northern Ireland Act [1998 (c. 47)](https://www.legislation.gov.uk/ukpga/1998/47) the reference in the Veterinary Surgeons Act 1966 to the Minister of Agriculture for Northern Ireland is to be construed as a reference to the Northern Ireland department which exercises that function or to the Northern Ireland Minister in charge of that department. The Department of Agriculture for Northern Ireland was renamed the Department of Agriculture and Rural Development by Article 3(4) of the Departments (Northern Ireland) Order 1999 ([S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)).
 
-[^key-4f547d7ba3a189f1cfa8073d505984ec]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2059/article/1) in force at 14.9.2010, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/1/c)
+[^c-4f547d7ba3a189f1cfa8073d505984ec]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2059/article/1) in force at 14.9.2010, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/1/c)
 
-[^key-c05e6dca6bb34d593910d1eaba5ed1bf]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c05e6dca6bb34d593910d1eaba5ed1bf]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/2) omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-36606dfda258d77b427dbf1552b5c87f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2059/article/2) in force at 14.9.2010, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/1/c)
+[^c-36606dfda258d77b427dbf1552b5c87f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2059/article/2) in force at 14.9.2010, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/1/c)
 
 [^f00004]: Footnote: [S.I. 2007/1315](https://www.legislation.gov.uk/uksi/2007/1315).
 
@@ -159,18 +159,18 @@ No impact assessment has been carried out for this instrument as it has no signi
 
 [^f00006]: Footnote: [S.I. 2009/2769](https://www.legislation.gov.uk/uksi/2009/2769).
 
-[^key-1e824395ea26523d7f622d3167ee0587]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2059/article/3) in force at 14.9.2010, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/1/c)
+[^c-1e824395ea26523d7f622d3167ee0587]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2059/article/3) in force at 14.9.2010, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/1/c)
 
 [^f00007]: Footnote: Section 19(1) of the Act was amended by the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 32(2).
 
-[^key-33162cfd7545e99e6626a185df961a23]: Textual amendment: Word in [art. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/2059/article/3/2/c/ii) inserted (31.12.2020) by [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33162cfd7545e99e6626a185df961a23]: Textual amendment: Word in [art. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/2059/article/3/2/c/ii) inserted (31.12.2020) by [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(3)(a)(i)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77c4c702631aced75c6d9bba436868d4]: Textual amendment: [Art. 3(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2010/2059/article/3/2/c/iv) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77c4c702631aced75c6d9bba436868d4]: Textual amendment: [Art. 3(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2010/2059/article/3/2/c/iv) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: The Agricultural Training Board (“the Board”) was established by the Industrial Training (Agricultural, Horticultural and Forestry Board) Order 1966 ([S.I. 1966/969](https://www.legislation.gov.uk/uksi/1966/969)). The Agricultural Training Board Act [1982 (c. 9)](https://www.legislation.gov.uk/ukpga/1982/9) (“the 1982 Act”) listed the approval of courses provided by other persons as a function of the Board. The Board was wound up by the Agricultural Training Board (Revocation) Order 1994 ([S.I. 1994/555](https://www.legislation.gov.uk/uksi/1994/555)), which lapsed on the repeal of the 1982 Act by the Statute Law (Repeals) Act [2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14).
 
-[^key-f907e5a261bcaaadb0857bdc4ca06958]: Textual amendment: [Art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2010/2059/article/3/3/b) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f907e5a261bcaaadb0857bdc4ca06958]: Textual amendment: [Art. 3(3)(b)](https://www.legislation.gov.uk/uksi/2010/2059/article/3/3/b) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(3)(b)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-35aaaf5657305c3a4d271ae1fdf84734]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2059/article/4) in force at 14.9.2010, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/1/c)
+[^c-35aaaf5657305c3a4d271ae1fdf84734]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2059/article/4) in force at 14.9.2010, see [art. 1(1)(c)](https://www.legislation.gov.uk/uksi/2010/2059/article/1/1/c)
 
-[^key-cda4d79671f2402e785008d15bc1eeba]: Textual amendment: [Art. 4(3)(b)](https://www.legislation.gov.uk/uksi/2010/2059/article/4/3/b) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cda4d79671f2402e785008d15bc1eeba]: Textual amendment: [Art. 4(3)(b)](https://www.legislation.gov.uk/uksi/2010/2059/article/4/3/b) and word omitted (31.12.2020) by virtue of [The Farriers and Animal Health (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/457)](https://www.legislation.gov.uk/uksi/2019/457), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/457/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2019/457/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

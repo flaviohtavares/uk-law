@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 121. Administrator to allow inspection of proofs[^key-1c03d197535e02b5fefa701b04c6e9a7]
+## 121. Administrator to allow inspection of proofs[^c-1c03d197535e02b5fefa701b04c6e9a7]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The administrator must, so long as proofs lodged are in the administrator’s ha
 
 ## Annotations
 
-[^key-1c03d197535e02b5fefa701b04c6e9a7]: Commencement: [Rule 121](https://www.legislation.gov.uk/nisr/2026/11/rule/121) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-1c03d197535e02b5fefa701b04c6e9a7]: Commencement: [Rule 121](https://www.legislation.gov.uk/nisr/2026/11/rule/121) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

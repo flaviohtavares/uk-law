@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Definition of proxy[^key-da880e38926e07a99a1eb06a2d0ffdea]
+## 124. Definition of proxy[^c-da880e38926e07a99a1eb06a2d0ffdea]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da880e38926e07a99a1eb06a2d0ffdea]: Commencement: [Rule 124](https://www.legislation.gov.uk/uksi/2011/1301/rule/124) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-da880e38926e07a99a1eb06a2d0ffdea]: Commencement: [Rule 124](https://www.legislation.gov.uk/uksi/2011/1301/rule/124) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

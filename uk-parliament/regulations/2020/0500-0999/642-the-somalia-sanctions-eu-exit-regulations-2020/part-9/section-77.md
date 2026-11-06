@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Interpretation of Part 9[^key-2c778a2626e50f2c70029461ec6bb6d8]
+## 77. Interpretation of Part 9[^c-2c778a2626e50f2c70029461ec6bb6d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c778a2626e50f2c70029461ec6bb6d8]: Commencement: Reg. 77 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-2c778a2626e50f2c70029461ec6bb6d8]: Commencement: Reg. 77 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

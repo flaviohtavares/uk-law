@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Scheme procedural requirements[^key-179177232857ba14989418311f90a937]
+## 16. Scheme procedural requirements[^c-179177232857ba14989418311f90a937]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ A scheme must state—
 
 ## Annotations
 
-[^key-179177232857ba14989418311f90a937]: Commencement: Reg. 16 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-179177232857ba14989418311f90a937]: Commencement: Reg. 16 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

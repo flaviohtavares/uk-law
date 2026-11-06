@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Management and control of major accident hazards[^key-1f55c89742b03a420e56d02c90c4f5db]
+## 16. Management and control of major accident hazards[^c-1f55c89742b03a420e56d02c90c4f5db]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f55c89742b03a420e56d02c90c4f5db]: Commencement: Reg. 16 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-1f55c89742b03a420e56d02c90c4f5db]: Commencement: Reg. 16 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00029]: Footnote: [S.I. 1998/1056](https://www.legislation.gov.uk/uksi/1998/1056) as amended by [S.I. 2009/229](https://www.legislation.gov.uk/uksi/2009/229) and [S.I. 2015/386](https://www.legislation.gov.uk/uksi/2015/386)

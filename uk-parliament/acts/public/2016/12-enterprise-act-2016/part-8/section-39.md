@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Market rent only option: rent assessments etc[^key-15ae62b571349f850ab722cc0d6a93fe]
+## 39. Market rent only option: rent assessments etc[^c-15ae62b571349f850ab722cc0d6a93fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 43 of the Small Business, Enterprise and Employment Act 2015 (pubs co
 
 ## Annotations
 
-[^key-15ae62b571349f850ab722cc0d6a93fe]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/12/section/39) in force at 21.7.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 4(a)](https://www.legislation.gov.uk/uksi/2016/695/article/4/a)
+[^c-15ae62b571349f850ab722cc0d6a93fe]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/12/section/39) in force at 21.7.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 4(a)](https://www.legislation.gov.uk/uksi/2016/695/article/4/a)

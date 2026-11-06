@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. When does an option in take effect[^key-1c16bbd777b1def247de0696e375d7dd]
+## 19. When does an option in take effect[^c-1c16bbd777b1def247de0696e375d7dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c16bbd777b1def247de0696e375d7dd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/182/regulation/19) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-1c16bbd777b1def247de0696e375d7dd]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2015/182/regulation/19) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

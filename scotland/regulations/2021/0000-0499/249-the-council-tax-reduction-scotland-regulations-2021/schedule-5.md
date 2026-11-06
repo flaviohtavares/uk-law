@@ -22,31 +22,31 @@ summary: ''
 
 Regulation 102
 
-### 1. The Council Tax (Administration and Enforcement) (Scotland) Regulations 1992[^key-4ef0c054df602c613853e7f89423d50a]
+### 1. The Council Tax (Administration and Enforcement) (Scotland) Regulations 1992[^c-4ef0c054df602c613853e7f89423d50a]
 
 (1) The Council Tax (Administration and Enforcement) (Scotland) Regulations 1992[^f00306] are amended as follows.
 
 (2) In regulation 1(2) (interpretation), in the definition of “council tax reduction”, after “Council Tax Reduction (Scotland) Regulations 2012” insert “, the Council Tax Reduction (Scotland) Regulations 2021”.
 
-### 2. The Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992[^key-2dc655acf3d945ee7e8551e7676764f0]
+### 2. The Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992[^c-2dc655acf3d945ee7e8551e7676764f0]
 
 (1) The Council Tax (Reductions for Disabilities) (Scotland) Regulations 1992[^f00307] are amended as follows.
 
 (2) In regulation 4(2)(b) (calculation of amount payable), for “Council Tax Reduction (Scotland) Regulations 2012” substitute “Council Tax Reduction (Scotland) Regulations 2021.
 
-### 3. The Council Tax (Reduction of Liability) (Scotland) Regulations 1994[^key-527f5a6e11d23375a5633363de201652]
+### 3. The Council Tax (Reduction of Liability) (Scotland) Regulations 1994[^c-527f5a6e11d23375a5633363de201652]
 
 (1) The Council Tax (Reduction of Liability) (Scotland) Regulations 1994[^f00308] are amended as follows.
 
 (2) In regulation 4(c) (calculation of amount payable), for “Council Tax Reduction (Scotland) Regulations 2012” substitute “Council Tax Reduction (Scotland) Regulations 2021”.
 
-### 4. The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-8292b384a54d2eab43d590ebdf316ab0]
+### 4. The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-8292b384a54d2eab43d590ebdf316ab0]
 
 (1) The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^f00309] are amended as follows.
 
 (2) In regulation 2 (interpretation), in the definition of “the Council Tax Reduction Regulations”, for “Council Tax Reduction (Scotland) Regulations 2012” substitute “Council Tax Reduction (Scotland) Regulations 2021”.
 
-(3) In regulation 29(11)(b)(i) (treatment of child care charges) for “paragraph 10 of Schedule 1 to the Council Tax Reduction (Scotland) Regulations 2012 (additional condition for the disability premium)” substitute “paragraph 12 of schedule 1 of the Council Tax Reduction (Scotland)[^key-70dcd922fd6a63b07a3342afbf45eadd] Regulations 2021 (additional condition for the disability premium)”.
+(3) In regulation 29(11)(b)(i) (treatment of child care charges) for “paragraph 10 of Schedule 1 to the Council Tax Reduction (Scotland) Regulations 2012 (additional condition for the disability premium)” substitute “paragraph 12 of schedule 1 of the Council Tax Reduction (Scotland)[^c-70dcd922fd6a63b07a3342afbf45eadd] Regulations 2021 (additional condition for the disability premium)”.
 
 (4) In regulation 48 (non-dependant deductions)[^f00310], in each of sub-paragraph (9)(b) and (c), for “the Council Tax Reduction Regulations” substitute “the Council Tax Reduction (Scotland) Regulations 2012”.
 
@@ -73,25 +73,25 @@ Regulation 102
 
 (10) In paragraph 2 of schedule 5 (amount of second adult’s gross income)[^f00314], in each of sub-paragraphs (b) and (c), for “the Council Tax Reduction Regulations” substitute “the Council Tax Reduction (Scotland) Regulations 2012”.
 
-### 5. The Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012[^key-99160eca31c60b06bc45e2ce0e740ad3]
+### 5. The Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012[^c-99160eca31c60b06bc45e2ce0e740ad3]
 
 (1) The Social Security (Information-sharing in relation to Welfare Services etc.) Regulations 2012[^f00315] are amended as follows.
 
 (2) In regulation 2 (interpretation), in the definition of “council tax reduction scheme”, at subparagraph (b), for “Council Tax Reduction (Scotland) Regulations 2012” substitute “Council Tax Reduction (Scotland) Regulations 2021”.
 
-### 6. The Home Energy Assistance Scheme (Scotland) Regulations 2013[^key-d0fbef5ff336eadf5c375f1ef06d963c]
+### 6. The Home Energy Assistance Scheme (Scotland) Regulations 2013[^c-d0fbef5ff336eadf5c375f1ef06d963c]
 
 (1) The Home Energy Assistance Scheme (Scotland) Regulations 2013[^f00316] are amended as follows.
 
 (2) In regulation 2 (interpretation), in the definition of “council tax reduction”, at subparagraph (a), for “Council Tax Reduction (Scotland) Regulations 2012” substitute “Council Tax Reduction (Scotland) Regulations 2021”.
 
-### 7. The Social Security (Persons Required to Provide Information) Regulations 2013[^key-c6b61de0b0567bb44a62ab43c5b72d7a]
+### 7. The Social Security (Persons Required to Provide Information) Regulations 2013[^c-c6b61de0b0567bb44a62ab43c5b72d7a]
 
 (1) The Social Security (Persons Required to Provide Information) Regulations 2013[^f00317] are amended as follows.
 
 (2) In regulation 2(2)(b)(ii) (persons required to provide information), for “Council Tax Reduction (Scotland) Regulations 2012” substitute “Council Tax Reduction (Scotland) Regulations 2021”.
 
-### 8. The Council Tax Reduction (Scotland) Amendment Regulations 2016[^key-5bc4ce13068664501f187155adf51cd9]
+### 8. The Council Tax Reduction (Scotland) Amendment Regulations 2016[^c-5bc4ce13068664501f187155adf51cd9]
 
 (1) The Council Tax Reduction (Scotland) Amendment Regulations 2016[^f00318] are amended as follows.
 
@@ -100,7 +100,7 @@ Regulation 102
 - (a) in sub-paragraph (1), for “regulations 5 and 18” substitute “regulation 18”,
 - (b) in sub-paragraph (3), omit “the Council Tax Reduction (Scotland) Regulations 2012 or, as the case may be,”.
 
-### 9. The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020[^key-50c785bca84169e0d6466b115693b41f]
+### 9. The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020[^c-50c785bca84169e0d6466b115693b41f]
 
 (1) The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020[^f00319] are amended as follows.
 
@@ -112,23 +112,23 @@ Regulation 102
 
 ## Annotations
 
-[^key-4ef0c054df602c613853e7f89423d50a]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-4ef0c054df602c613853e7f89423d50a]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00306]: Footnote: [S.I. 1992/1332](https://www.legislation.gov.uk/uksi/1992/1332). The definition of “council tax reduction” was inserted by [S.S.I. 2012/303](https://www.legislation.gov.uk/ssi/2012/303).
 
-[^key-2dc655acf3d945ee7e8551e7676764f0]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-2dc655acf3d945ee7e8551e7676764f0]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00307]: Footnote: [S.I. 1992/1335](https://www.legislation.gov.uk/uksi/1992/1335). Regulation 4 was relevantly amended by [S.S.I. 2012/303](https://www.legislation.gov.uk/ssi/2012/303).
 
-[^key-527f5a6e11d23375a5633363de201652]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-527f5a6e11d23375a5633363de201652]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00308]: Footnote: [S.I. 1994/3170](https://www.legislation.gov.uk/uksi/1994/3170). Regulation 4 was amended by [S.S.I. 2012/303](https://www.legislation.gov.uk/ssi/2012/303).
 
-[^key-8292b384a54d2eab43d590ebdf316ab0]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-8292b384a54d2eab43d590ebdf316ab0]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00309]: Footnote: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319). There are amendments to those Regulations that are not relevant to these Regulations.
 
-[^key-70dcd922fd6a63b07a3342afbf45eadd]: Textual amendment: Word in sch. 5 para. 4(3) inserted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [22](https://www.legislation.gov.uk/ssi/2022/52/regulation/22)
+[^c-70dcd922fd6a63b07a3342afbf45eadd]: Textual amendment: Word in sch. 5 para. 4(3) inserted (31.3.2022) by [The Council Tax Reduction (Scotland) Amendment Regulations 2022 (S.S.I. 2022/52)](https://www.legislation.gov.uk/ssi/2022/52), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/52/regulation/1/2), [22](https://www.legislation.gov.uk/ssi/2022/52/regulation/22)
 
 [^f00310]: Footnote: Regulation 48(9)(b) and (c) were amended by [S.S.I. 2013/49](https://www.legislation.gov.uk/ssi/2013/49), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41), [S.S.I. 2017/326](https://www.legislation.gov.uk/ssi/2017/326) and [S.S.I. 2018/69](https://www.legislation.gov.uk/ssi/2018/69).
 
@@ -140,22 +140,22 @@ Regulation 102
 
 [^f00314]: Footnote: Paragraph 2 of schedule 5 was amended by [S.S.I. 2013/142](https://www.legislation.gov.uk/ssi/2013/142), [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81), [S.S.I. 2017/41](https://www.legislation.gov.uk/ssi/2017/41) and [S.S.I. 2017/326](https://www.legislation.gov.uk/ssi/2017/326).
 
-[^key-99160eca31c60b06bc45e2ce0e740ad3]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-99160eca31c60b06bc45e2ce0e740ad3]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00315]: Footnote: [S.I. 2012/1483](https://www.legislation.gov.uk/uksi/2012/1483).
 
-[^key-d0fbef5ff336eadf5c375f1ef06d963c]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-d0fbef5ff336eadf5c375f1ef06d963c]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00316]: Footnote: [S.S.I. 2013/148](https://www.legislation.gov.uk/ssi/2013/148). The definition of “council tax reduction” was inserted by [S.S.I. 2013/253](https://www.legislation.gov.uk/ssi/2013/253).
 
-[^key-c6b61de0b0567bb44a62ab43c5b72d7a]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-c6b61de0b0567bb44a62ab43c5b72d7a]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00317]: Footnote: [S.I. 2013/1510](https://www.legislation.gov.uk/uksi/2013/1510).
 
-[^key-5bc4ce13068664501f187155adf51cd9]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-5bc4ce13068664501f187155adf51cd9]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00318]: Footnote: [S.S.I. 2016/81](https://www.legislation.gov.uk/ssi/2016/81).
 
-[^key-50c785bca84169e0d6466b115693b41f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-50c785bca84169e0d6466b115693b41f]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ssi/2021/249/schedule/5/paragraph/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00319]: Footnote: [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309).

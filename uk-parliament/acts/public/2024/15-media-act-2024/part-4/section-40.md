@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Other amendments of Part 4A of the 2003 Act[^key-80c5ba973e42d45b4bb0f9fef8c75b4a][^key-3840af193e5aeab5bca1ffeefd0d3fc5]
+## 40. Other amendments of Part 4A of the 2003 Act[^c-80c5ba973e42d45b4bb0f9fef8c75b4a][^c-3840af193e5aeab5bca1ffeefd0d3fc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80c5ba973e42d45b4bb0f9fef8c75b4a]: Commencement: S. 40 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
+[^c-80c5ba973e42d45b4bb0f9fef8c75b4a]: Commencement: S. 40 not in force at Royal Assent, see [s. 55(3)(d)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/d)
 
-[^key-3840af193e5aeab5bca1ffeefd0d3fc5]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2024/15/section/40) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/r)
+[^c-3840af193e5aeab5bca1ffeefd0d3fc5]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2024/15/section/40) in force at 23.8.2024 by [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(r)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/r)

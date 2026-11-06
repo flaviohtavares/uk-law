@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Other commercial activities[^key-b3a1b0b92215b24bf0e78e3dfd6af761]
+## 57. Other commercial activities[^c-b3a1b0b92215b24bf0e78e3dfd6af761]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ provided that it is conducive to the improvement, maintenance, operation or mana
 
 ## Annotations
 
-[^key-b3a1b0b92215b24bf0e78e3dfd6af761]: Commencement: Art. 57 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-b3a1b0b92215b24bf0e78e3dfd6af761]: Commencement: Art. 57 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
 
 [^f00019]: Footnote: [1966 c. 28](https://www.legislation.gov.uk/ukpga/1966/28); section 37(3) was repealed by the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), Schedule 4 (Part II).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Amendment of Commission Regulation 641/2004[^key-60c7105054cf6045d0d7c3da2e021e44]
+## 42. Amendment of Commission Regulation 641/2004[^c-60c7105054cf6045d0d7c3da2e021e44]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Regulation 641/2004 on detailed rules for the implementation of Regul
 
 ## Annotations
 
-[^key-60c7105054cf6045d0d7c3da2e021e44]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-60c7105054cf6045d0d7c3da2e021e44]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

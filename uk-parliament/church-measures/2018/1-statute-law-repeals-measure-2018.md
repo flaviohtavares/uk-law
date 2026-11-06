@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to repeal certain
 
 \[10th May 2018\]
 
-## 1. Repeals[^key-e2e6333fbf2d7e5f06418a01756aeb72]
+## 1. Repeals[^c-e2e6333fbf2d7e5f06418a01756aeb72]
 
 The enactments specified in the Schedule are repealed or revoked to the extent specified in the second column of that Schedule.
 
@@ -62,7 +62,7 @@ The enactments specified in the Schedule are repealed or revoked to the extent s
 
 Section 1
 
-### PART 1 — CLERGY[^key-032415bb1571d7d247e0100d1afa901b]
+### PART 1 — CLERGY[^c-032415bb1571d7d247e0100d1afa901b]
 
 <table>
 <tbody>
@@ -82,7 +82,7 @@ Section 1
 </tbody>
 </table>
 
-### PART 2 — BENEFICES[^key-ab9ca8d97aa77ade452d7639019cc503]
+### PART 2 — BENEFICES[^c-ab9ca8d97aa77ade452d7639019cc503]
 
 Main repeals
 
@@ -104,7 +104,7 @@ Consequential repeals
 | Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129) | In Schedule 3, paragraph 1(3). |
 | Ecclesiastical Offices (Terms of Service) (Consequential and Transitional Provisions) Order 2010 (S.I. 2010/2847) | In Schedule 2, paragraphs 1 to 11 and the preceding cross-heading. |
 
-### PART 3 — ECCLESIASTICAL PROPERTY[^key-c2f3fc903cbc6fe276f18bc31352f3ef]
+### PART 3 — ECCLESIASTICAL PROPERTY[^c-c2f3fc903cbc6fe276f18bc31352f3ef]
 
 Main repeals
 
@@ -140,7 +140,7 @@ Consequential repeals
 </tbody>
 </table>
 
-### PART 4 — ECCLESIASTICAL JURISDICTION AND FEES[^key-d1552fa28dae592d54b7021bbbeaf6e4]
+### PART 4 — ECCLESIASTICAL JURISDICTION AND FEES[^c-d1552fa28dae592d54b7021bbbeaf6e4]
 
 Main repeals
 
@@ -161,7 +161,7 @@ Consequential repeal
 | --- | --- |
 | Care of Places of Worship Measure 1999 (No. 2) | Section 3(3). |
 
-### PART 5 — CHURCH REPRESENTATION[^key-a82a0f28532f96bda8f795865a086978]
+### PART 5 — CHURCH REPRESENTATION[^c-a82a0f28532f96bda8f795865a086978]
 
 Main repeals
 
@@ -186,13 +186,13 @@ Consequential repeals
 | Care of Places of Worship Measure 1999 (No. 2) | In section 3(4), “, 4”. |
 | Church of England (Miscellaneous Provisions) Measure 2005 (No. 3) | In Schedule 1, paragraph 7. |
 
-### PART 6 — SERVICES[^key-e6329eeecc3621acbabd0ba96c2309d4]
+### PART 6 — SERVICES[^c-e6329eeecc3621acbabd0ba96c2309d4]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
 | Admission to Holy Communion Measure 1972 (No. 1) | The whole Measure. |
 
-### PART 7 — CHURCH COMMISSIONERS[^key-955eca19ddcdd81375d6e3acfe699883]
+### PART 7 — CHURCH COMMISSIONERS[^c-955eca19ddcdd81375d6e3acfe699883]
 
 <table>
 <tbody>
@@ -204,14 +204,14 @@ Consequential repeals
 </tbody>
 </table>
 
-### PART 8 — EDUCATION, &C.[^key-cacae4603de3d7a306640e1cdd6a5de5]
+### PART 8 — EDUCATION, &C.[^c-cacae4603de3d7a306640e1cdd6a5de5]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
 | Parochial Libraries Act 1708 (7 Ann c. 14) | Sections 4 and 5. |
 | Diocesan Boards of Education Measure 1991 (No. 2) | Section 12. |
 
-### PART 9 — CATHEDRALS[^key-de0373ab6b19df898cbb9584203fed8a]
+### PART 9 — CATHEDRALS[^c-de0373ab6b19df898cbb9584203fed8a]
 
 <table>
 <tbody>
@@ -224,22 +224,22 @@ Consequential repeals
 
 ## Annotations
 
-[^key-e2e6333fbf2d7e5f06418a01756aeb72]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/1/section/1) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-e2e6333fbf2d7e5f06418a01756aeb72]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2018/1/section/1) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-032415bb1571d7d247e0100d1afa901b]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-032415bb1571d7d247e0100d1afa901b]: Commencement: [Sch. Pt. 1](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/1) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-ab9ca8d97aa77ade452d7639019cc503]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-ab9ca8d97aa77ade452d7639019cc503]: Commencement: [Sch. Pt. 2](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/2) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-c2f3fc903cbc6fe276f18bc31352f3ef]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-c2f3fc903cbc6fe276f18bc31352f3ef]: Commencement: [Sch. Pt. 3](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/3) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-d1552fa28dae592d54b7021bbbeaf6e4]: Commencement: [Sch. Pt. 4](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/4) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-d1552fa28dae592d54b7021bbbeaf6e4]: Commencement: [Sch. Pt. 4](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/4) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-a82a0f28532f96bda8f795865a086978]: Commencement: [Sch. Pt. 5](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/5) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-a82a0f28532f96bda8f795865a086978]: Commencement: [Sch. Pt. 5](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/5) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-e6329eeecc3621acbabd0ba96c2309d4]: Commencement: [Sch. Pt. 6](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/6) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-e6329eeecc3621acbabd0ba96c2309d4]: Commencement: [Sch. Pt. 6](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/6) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-955eca19ddcdd81375d6e3acfe699883]: Commencement: [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-955eca19ddcdd81375d6e3acfe699883]: Commencement: [Sch. Pt. 7](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/7) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-cacae4603de3d7a306640e1cdd6a5de5]: Commencement: [Sch. Pt. 8](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/8) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-cacae4603de3d7a306640e1cdd6a5de5]: Commencement: [Sch. Pt. 8](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/8) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
-[^key-de0373ab6b19df898cbb9584203fed8a]: Commencement: [Sch. Pt. 9](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/9) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-de0373ab6b19df898cbb9584203fed8a]: Commencement: [Sch. Pt. 9](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/9) in force at 1.7.2018 by [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)

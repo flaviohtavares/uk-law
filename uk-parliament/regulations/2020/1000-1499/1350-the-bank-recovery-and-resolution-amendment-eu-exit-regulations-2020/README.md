@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (revoked)[^key-e3be62588c05095fbaaa707ce86d7044]
+The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (revoked)[^c-e3be62588c05095fbaaa707ce86d7044]
 
 Made
 
@@ -40,11 +40,11 @@ Made
 
 Coming into force in accordance with regulation 1(2) to (4)
 
-[^key-e3be62588c05095fbaaa707ce86d7044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3be62588c05095fbaaa707ce86d7044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-e3be62588c05095fbaaa707ce86d7044]
+### PART 1 — General[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,13 +52,13 @@ Coming into force in accordance with regulation 1(2) to (4)
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 
-### PART 2 — Amendment of Primary Legislation made under the European Communities Act 1972[^key-e3be62588c05095fbaaa707ce86d7044]
+### PART 2 — Amendment of Primary Legislation made under the European Communities Act 1972[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Amendment of the Financial Services and Markets Act 2000[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 1 — Amendment of the Financial Services and Markets Act 2000[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 
 - [Section 2 — Amendment of the Financial Services and Markets Act 2000](part-2/section-2.md)
 
-#### CHAPTER 2 — Amendment of the Banking Act 2009[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 2 — Amendment of the Banking Act 2009[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,7 +96,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 24 — Resolution of UK branches of third-country institutions](part-2/section-24.md)
 - [Section 25 — Index of defined terms](part-2/section-25.md)
 
-### PART 3 — Amendment of Secondary legislation made under the European Communities Act 1972[^key-e3be62588c05095fbaaa707ce86d7044]
+### PART 3 — Amendment of Secondary legislation made under the European Communities Act 1972[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -138,13 +138,13 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 59](part-3/section-59.md)
 - [Section 60](part-3/section-60.md)
 
-### PART 4 — Amendment of legislation made under the European Union (Withdrawal) Act 2018[^key-e3be62588c05095fbaaa707ce86d7044]
+### PART 4 — Amendment of legislation made under the European Union (Withdrawal) Act 2018[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Amendment of Primary Legislation[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 1 — Amendment of Primary Legislation[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -163,7 +163,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 71](part-4/section-71.md)
 - [Section 72](part-4/section-72.md)
 
-#### CHAPTER 2 — Amendment of Secondary Legislation[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 2 — Amendment of Secondary Legislation[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -172,7 +172,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 73 — Amendment of the Credit Institutions (Reorganisation and Winding up) Regulations 2004](part-4/section-73.md)
 - [Section 74 — Amendment of the Bank Recovery and Resolution (No.2) Order 2014](part-4/section-74.md)
 
-#### CHAPTER 3 — Amendment of EU Exit Legislation[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 3 — Amendment of EU Exit Legislation[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -184,7 +184,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 78 — Amendment of Schedule 4](part-4/section-78.md)
 - [Section 79 — Amendment of the Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019](part-4/section-79.md)
 
-#### CHAPTER 4 — Revocation of technical standards under the Recovery and Resolution Directive[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 4 — Revocation of technical standards under the Recovery and Resolution Directive[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -192,13 +192,13 @@ Coming into force in accordance with regulation 1(2) to (4)
 
 - [Section 80 — Revocation of technical standards under the Recovery and Resolution Directive](part-4/section-80.md)
 
-### PART 5 — Other Provision made under the European Communities Act 1972[^key-e3be62588c05095fbaaa707ce86d7044]
+### PART 5 — Other Provision made under the European Communities Act 1972[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Suspension of obligations, interests and rights[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 1 — Suspension of obligations, interests and rights[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -215,7 +215,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 89 — Suspension of obligations when Bank is exercising a stabilisation power](part-5/section-89.md)
 - [Section 90 — Modification of Part for banks not regulated by the PRA](part-5/section-90.md)
 
-#### CHAPTER 2 — Power to prohibit distributions[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 2 — Power to prohibit distributions[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -223,7 +223,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 
 - [Section 91 — Power to prohibit distributions](part-5/section-91.md)
 
-#### CHAPTER 3 — Transfer of losses or capital between members of a group[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 3 — Transfer of losses or capital between members of a group[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -231,7 +231,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 
 - [Section 92 — Transfer of losses or capital between members of a group](part-5/section-92.md)
 
-#### CHAPTER 4 — Contractual recognition of bail-in[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 4 — Contractual recognition of bail-in[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -253,7 +253,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 106 — Exclusion of liabilities from the minimum requirement for own funds and eligible liabilities](part-5/section-106.md)
 - [Section 107 — Exercise of resolution powers where contractual term not included](part-5/section-107.md)
 
-#### CHAPTER 5 — Amendments to priority of debts in insolvency[^key-e3be62588c05095fbaaa707ce86d7044]
+#### CHAPTER 5 — Amendments to priority of debts in insolvency[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -261,7 +261,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 
 - [Section 108 — Transitional provision](part-5/section-108.md)
 
-##### Amendment of the Insolvency Act 1986[^key-e3be62588c05095fbaaa707ce86d7044]
+##### Amendment of the Insolvency Act 1986[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -274,7 +274,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 113 — Interpretation](part-5/section-113.md)
 - [Section 114 — Administration](part-5/section-114.md)
 
-##### Amendment of the Insolvency (Northern Ireland) Order 1989[^key-e3be62588c05095fbaaa707ce86d7044]
+##### Amendment of the Insolvency (Northern Ireland) Order 1989[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -287,7 +287,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 119 — Interpretation](part-5/section-119.md)
 - [Section 120 — Administration](part-5/section-120.md)
 
-##### Further Amendment of Insolvency Legislation[^key-e3be62588c05095fbaaa707ce86d7044]
+##### Further Amendment of Insolvency Legislation[^c-e3be62588c05095fbaaa707ce86d7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -306,12 +306,12 @@ Coming into force in accordance with regulation 1(2) to (4)
 
 **No longer in force.**
 
-[^key-e3be62588c05095fbaaa707ce86d7044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3be62588c05095fbaaa707ce86d7044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-[^key-e3be62588c05095fbaaa707ce86d7044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e3be62588c05095fbaaa707ce86d7044]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e3be62588c05095fbaaa707ce86d7044]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1350) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-e3be62588c05095fbaaa707ce86d7044]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1350) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

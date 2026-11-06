@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Police officer’s ordinary pension[^key-a6293384b1ea9dbcfb3f2b6c732ab2ea]
+## 24. Police officer’s ordinary pension[^c-a6293384b1ea9dbcfb3f2b6c732ab2ea]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6293384b1ea9dbcfb3f2b6c732ab2ea]: Commencement: Reg. 24 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-a6293384b1ea9dbcfb3f2b6c732ab2ea]: Commencement: Reg. 24 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**61.**[^key-0dc8b275212c71767dc5ce95beb846e8] In paragraph 4, in the substituted section 5 of the 1972 Act, omit the substituted subsection (3).
+**61.**[^c-0dc8b275212c71767dc5ce95beb846e8] In paragraph 4, in the substituted section 5 of the 1972 Act, omit the substituted subsection (3).
 
 ## Annotations
 
-[^key-0dc8b275212c71767dc5ce95beb846e8]: Commencement: Art. 61 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-0dc8b275212c71767dc5ce95beb846e8]: Commencement: Art. 61 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Extent[^key-828f3e83d6fa70f20bf5ccba86eedf0a]
+## 55. Extent[^c-828f3e83d6fa70f20bf5ccba86eedf0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-828f3e83d6fa70f20bf5ccba86eedf0a]: Commencement: S. 55 in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/2)
+[^c-828f3e83d6fa70f20bf5ccba86eedf0a]: Commencement: S. 55 in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/2)

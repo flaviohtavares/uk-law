@@ -24,7 +24,7 @@ Section 7
 
 ### Appeals against decisions to give or vary directions
 
-**1.**[^key-d767412a3678901e3a67c874d5704a0f] (1) A person who is given a direction under section 2 or 3 may appeal to the Tribunal against—
+**1.**[^c-d767412a3678901e3a67c874d5704a0f] (1) A person who is given a direction under section 2 or 3 may appeal to the Tribunal against—
 
 - (a) the decision to give the direction;
 - (b) a decision to vary the direction.
@@ -33,7 +33,7 @@ Section 7
 
 ### Decisions on appeal
 
-**2.**[^key-feff067b880a1f8de08e7bd4a3798634] (1) The Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
+**2.**[^c-feff067b880a1f8de08e7bd4a3798634] (1) The Tribunal may allow an appeal under paragraph 1 only to the extent that it is satisfied that the decision appealed against was wrong on one or more of the following grounds—
 
 - (a) that the decision was based on an error of fact;
 - (b) that the decision was wrong in law;
@@ -47,7 +47,7 @@ Section 7
 
 ### Further appeals
 
-**3.**[^key-6638e225616428ab0319ebac20f1a3e4] (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Tribunal under paragraph 2.
+**3.**[^c-6638e225616428ab0319ebac20f1a3e4] (1) An appeal lies to the appropriate court on a point of law arising from a decision of the Tribunal under paragraph 2.
 
 (2) An appeal under this paragraph may be brought by a party to the proceedings before the Tribunal.
 
@@ -63,14 +63,14 @@ Section 7
 
 ### Interpretation
 
-**4.**[^key-4d899108048a6abe7d8f20f5fd8207b6] In this Schedule “**the Tribunal**” means the Competition Appeal Tribunal.
+**4.**[^c-4d899108048a6abe7d8f20f5fd8207b6] In this Schedule “**the Tribunal**” means the Competition Appeal Tribunal.
 
 ## Annotations
 
-[^key-d767412a3678901e3a67c874d5704a0f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2021/12/schedule/1/paragraph/1) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/i)
+[^c-d767412a3678901e3a67c874d5704a0f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2021/12/schedule/1/paragraph/1) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/i)
 
-[^key-feff067b880a1f8de08e7bd4a3798634]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2021/12/schedule/1/paragraph/2) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/i)
+[^c-feff067b880a1f8de08e7bd4a3798634]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2021/12/schedule/1/paragraph/2) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/i)
 
-[^key-6638e225616428ab0319ebac20f1a3e4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/12/schedule/1/paragraph/3) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/i)
+[^c-6638e225616428ab0319ebac20f1a3e4]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2021/12/schedule/1/paragraph/3) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/i)
 
-[^key-4d899108048a6abe7d8f20f5fd8207b6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2021/12/schedule/1/paragraph/4) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/i)
+[^c-4d899108048a6abe7d8f20f5fd8207b6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2021/12/schedule/1/paragraph/4) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/i)

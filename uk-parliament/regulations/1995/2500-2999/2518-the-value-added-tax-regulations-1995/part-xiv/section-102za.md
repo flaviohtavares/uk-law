@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**102ZA.**[^key-97021ec904e8ef0549fb17510fb71a01] (1) A taxable person who is required to make an apportionment under section 24(5) of the Act in relation to goods or services which are used or are to be used partly for business purposes and partly for other purposes may effect that apportionment using a method provided for in regulation 102(1).
+**102ZA.**[^c-97021ec904e8ef0549fb17510fb71a01] (1) A taxable person who is required to make an apportionment under section 24(5) of the Act in relation to goods or services which are used or are to be used partly for business purposes and partly for other purposes may effect that apportionment using a method provided for in regulation 102(1).
 
 (2) Where the taxable person referred to in paragraph (1) is not a fully taxable person, the method used shall be the only method used to calculate that person’s deductible input tax.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97021ec904e8ef0549fb17510fb71a01]: Textual amendment: [Reg. 102ZA](https://www.legislation.gov.uk/uksi/1995/2518/regulation/102ZA) inserted (1.1.2011) by [The Value Added Tax (Amendment) (No. 4) Regulations 2010 (S.I. 2010/3022)](https://www.legislation.gov.uk/uksi/2010/3022), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2010/3022/regulation/6)
+[^c-97021ec904e8ef0549fb17510fb71a01]: Textual amendment: [Reg. 102ZA](https://www.legislation.gov.uk/uksi/1995/2518/regulation/102ZA) inserted (1.1.2011) by [The Value Added Tax (Amendment) (No. 4) Regulations 2010 (S.I. 2010/3022)](https://www.legislation.gov.uk/uksi/2010/3022), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/3022/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2010/3022/regulation/6)

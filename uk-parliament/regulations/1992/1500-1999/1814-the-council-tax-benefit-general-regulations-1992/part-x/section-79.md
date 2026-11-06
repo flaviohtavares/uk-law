@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Shortfall in benefit[^key-f7a1c83825496589c72c96c732055dad]
+## 79. Shortfall in benefit[^c-f7a1c83825496589c72c96c732055dad]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7a1c83825496589c72c96c732055dad]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/1992/1814/regulation/79) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-f7a1c83825496589c72c96c732055dad]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/1992/1814/regulation/79) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

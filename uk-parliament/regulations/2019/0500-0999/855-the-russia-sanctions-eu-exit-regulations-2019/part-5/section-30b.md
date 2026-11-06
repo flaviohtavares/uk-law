@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30B. Export of relevant restricted goods[^key-ba73af781f5cc8f7fa1e335dd966faae][^key-077e3580300099457e2a816e1e35d78e]
+## 30B. Export of relevant restricted goods[^c-ba73af781f5cc8f7fa1e335dd966faae][^c-077e3580300099457e2a816e1e35d78e]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba73af781f5cc8f7fa1e335dd966faae]: Textual amendment: [Reg. 30B](https://www.legislation.gov.uk/uksi/2019/855/regulation/30B) substituted (20.6.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/665)](https://www.legislation.gov.uk/uksi/2023/665), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/665/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/665/regulation/5)
+[^c-ba73af781f5cc8f7fa1e335dd966faae]: Textual amendment: [Reg. 30B](https://www.legislation.gov.uk/uksi/2019/855/regulation/30B) substituted (20.6.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2023 (S.I. 2023/665)](https://www.legislation.gov.uk/uksi/2023/665), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/665/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/665/regulation/5)
 
-[^key-077e3580300099457e2a816e1e35d78e]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/2A) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/792/regulation/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-077e3580300099457e2a816e1e35d78e]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/2A) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2022/792/regulation/6) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))

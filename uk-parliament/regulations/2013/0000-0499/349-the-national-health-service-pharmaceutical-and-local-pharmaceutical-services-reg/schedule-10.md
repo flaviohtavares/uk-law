@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 120
 
-### 1. Amendment of the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^key-55bd166642bf85419f23cc5998c43373]
+### 1. Amendment of the National Health Service (Charges for Drugs and Appliances) Regulations 2000[^c-55bd166642bf85419f23cc5998c43373]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -93,7 +93,7 @@ In regulation 12(3)(d) of the Local Authorities (Partnership Arrangements, Care 
 
 ## Annotations
 
-[^key-55bd166642bf85419f23cc5998c43373]: Textual amendment: [Sch. 10 para. 1](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/1) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-55bd166642bf85419f23cc5998c43373]: Textual amendment: [Sch. 10 para. 1](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/1) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
 
 [^c21648151]: Marginal citation: [S.I. 2002/888](https://www.legislation.gov.uk/uksi/2002/888).
 

@@ -38,7 +38,7 @@ and in this paragraph “specified” means specified in directions.
 
 (3) In this Article “relevant authority” means any of the following, namely—
 
-- (a) the Authority[^key-b411148a1ff6ad3f10e8cd22b37183f6] ;
+- (a) the Authority[^c-b411148a1ff6ad3f10e8cd22b37183f6] ;
 - (b) the Board of Governors or trustees of a grant‐aided school;
 
 *Sub‐para. (c) rep. by 1993 NI 12*
@@ -46,7 +46,7 @@ and in this paragraph “specified” means specified in directions.
 - (d) the governing body of an institution of further education;
 - (e) the managers or trustees of a college of education;
 - (f) the Council for Catholic Maintained Schools;
-- (fa)[^key-4bd5083878a53399f2a880266d784062] the General Teaching Council for Northern Ireland;
+- (fa)[^c-4bd5083878a53399f2a880266d784062] the General Teaching Council for Northern Ireland;
 - (g)[^c17009521] the Northern Ireland Council for the Curriculum, Examinations and Assessment.
 
 (4) If, on a complaint made to it by any person or body, the Department is satised that a relevant authority has acted or is proposing to act unreasonably with respect to the exercise of any power conferred or the performance of any duty imposed by or under any provision of the Education Orders, the Department shall give such directions under paragraph (1) as to the exercise of the power or the performance of the duty as appear to the Department to be expedient to remedy that complaint.
@@ -73,9 +73,9 @@ and in this paragraph “specified” means specified in directions.
 
 [^c17009511]: Textual amendment: certain functions transf. by SR 1999/481
 
-[^key-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-b411148a1ff6ad3f10e8cd22b37183f6]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-4bd5083878a53399f2a880266d784062]: Textual amendment: [Art. 101(3)(fa)](https://www.legislation.gov.uk/nisi/1986/594/article/101/3/fa) inserted (7.6.2022) by [General Teaching Council (Directions) Act (Northern Ireland) 2022 (c. 29)](https://www.legislation.gov.uk/nia/2022/29), [ss. 1(2)](https://www.legislation.gov.uk/nia/2022/29/section/1/2), [2(1)](https://www.legislation.gov.uk/nia/2022/29/section/2/1)
+[^c-4bd5083878a53399f2a880266d784062]: Textual amendment: [Art. 101(3)(fa)](https://www.legislation.gov.uk/nisi/1986/594/article/101/3/fa) inserted (7.6.2022) by [General Teaching Council (Directions) Act (Northern Ireland) 2022 (c. 29)](https://www.legislation.gov.uk/nia/2022/29), [ss. 1(2)](https://www.legislation.gov.uk/nia/2022/29/section/1/2), [2(1)](https://www.legislation.gov.uk/nia/2022/29/section/2/1)
 
 [^c17009521]: Textual amendment: [1993 NI 12](https://www.legislation.gov.uk/nisi/1993)
 

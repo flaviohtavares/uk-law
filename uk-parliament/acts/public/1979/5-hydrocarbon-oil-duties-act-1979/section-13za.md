@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13ZA. Rebate on certain heavy oil used for heating etc[^key-5933b7fb7dd33577c38f02b427208021]
+## 13ZA. Rebate on certain heavy oil used for heating etc[^c-5933b7fb7dd33577c38f02b427208021]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5933b7fb7dd33577c38f02b427208021]: Textual amendment: Ss. 13ZA, 13ZB inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 28](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/28), [37](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/37)
+[^c-5933b7fb7dd33577c38f02b427208021]: Textual amendment: Ss. 13ZA, 13ZB inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 28](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/28), [37](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/37)

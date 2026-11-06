@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 577A. Territorial scope of Part 5 charges: receipts from intellectual property[^key-959d815a56e637e9e1dd73438413c808]
+## 577A. Territorial scope of Part 5 charges: receipts from intellectual property[^c-959d815a56e637e9e1dd73438413c808]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-959d815a56e637e9e1dd73438413c808]: Textual amendment: S. 577A inserted (with effect in accordance with s. 42(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 42(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/42/2) (with [s. 42(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/42/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/42/5))
+[^c-959d815a56e637e9e1dd73438413c808]: Textual amendment: S. 577A inserted (with effect in accordance with s. 42(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 42(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/42/2) (with [s. 42(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/42/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/42/5))

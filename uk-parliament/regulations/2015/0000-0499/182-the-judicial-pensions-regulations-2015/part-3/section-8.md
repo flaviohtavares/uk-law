@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Judicial Pension Board: conflicts of interest[^key-348c984b355310fa1a690aa9f13642ed]
+## 8. Judicial Pension Board: conflicts of interest[^c-348c984b355310fa1a690aa9f13642ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-348c984b355310fa1a690aa9f13642ed]: Commencement: Reg. 8 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-348c984b355310fa1a690aa9f13642ed]: Commencement: Reg. 8 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)

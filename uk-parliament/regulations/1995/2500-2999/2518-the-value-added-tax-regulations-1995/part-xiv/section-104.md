@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Attribution of input tax on self-supplies[^key-47db4ac056fd15bbc2c480b29441be65]
+## 104. Attribution of input tax on self-supplies[^c-47db4ac056fd15bbc2c480b29441be65]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where under or by virtue of any provision of the Act a person makes a supply to 
 
 ## Annotations
 
-[^key-47db4ac056fd15bbc2c480b29441be65]: Commencement: Reg. 104 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-47db4ac056fd15bbc2c480b29441be65]: Commencement: Reg. 104 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

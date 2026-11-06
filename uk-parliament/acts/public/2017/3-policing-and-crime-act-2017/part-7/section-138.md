@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Personal licences: licensing authority powers in relation to convictions[^c22719771][^key-6032f4aa6d6b7c5e99906f5f8abcbed0]
+## 138. Personal licences: licensing authority powers in relation to convictions[^c22719771][^c-6032f4aa6d6b7c5e99906f5f8abcbed0]
 
 *Extent: E+W*
 
@@ -98,4 +98,4 @@ summary: ''
 
 [^c22719771]: Commencement: S. 138 in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-6032f4aa6d6b7c5e99906f5f8abcbed0]: Commencement: S. 138 in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/d)
+[^c-6032f4aa6d6b7c5e99906f5f8abcbed0]: Commencement: S. 138 in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/d)

@@ -45,7 +45,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by Articles 7(4), 9(7), 12(1), (2) and (4), 16(1), (1A) and (3), 41(2A), 47, 48(4) and 50 of the Child Support (Northern Ireland) Order 1991[^f00001] and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-2d0721fb68c14ebab4b387d36a6f0385]
+## 1. Citation, commencement and interpretation[^c-2d0721fb68c14ebab4b387d36a6f0385]
 
 (1) These Regulations may be cited as the Child Support (Information, Evidence and Disclosure and Maintenance Arrangements and Jurisdiction) (Amendment) Regulations (Northern Ireland) 2001 and shall come into operation as follows—
 
@@ -57,30 +57,30 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 - “the Order” means the Child Support (Northern Ireland) Order 1991; and
 - “the Act” means the Child Support, Pensions and Social Security Act (Northern Ireland) 2000[^f00003].
 
-## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^key-837a63fcf0109746d5376a6538c40e08]
+## 2. Amendment of the Child Support (Information, Evidence and Disclosure) Regulations[^c-837a63fcf0109746d5376a6538c40e08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Child Support (Maintenance Arrangements and Jurisdiction) Regulations[^key-7b644a954b944cc98d834c1db99c0a39][^key-5ea77546a9939fa673f4a4460fca7f06]
+## 3. Amendment of the Child Support (Maintenance Arrangements and Jurisdiction) Regulations[^c-7b644a954b944cc98d834c1db99c0a39][^c-5ea77546a9939fa673f4a4460fca7f06]
 
-(1)[^key-7b644a954b944cc98d834c1db99c0a39] The Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992[^f00028] shall be amended in accordance with paragraphs (2) to (9).
+(1)[^c-7b644a954b944cc98d834c1db99c0a39] The Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992[^f00028] shall be amended in accordance with paragraphs (2) to (9).
 
-(2)[^key-7b644a954b944cc98d834c1db99c0a39] For “absent parent” wherever it appears there shall be substituted “non-resident parent”, preceded where appropriate by “a” instead of “an”.
+(2)[^c-7b644a954b944cc98d834c1db99c0a39] For “absent parent” wherever it appears there shall be substituted “non-resident parent”, preceded where appropriate by “a” instead of “an”.
 
-(3)[^key-7b644a954b944cc98d834c1db99c0a39] For “assessment” wherever it appears there shall be substituted “calculation”.
+(3)[^c-7b644a954b944cc98d834c1db99c0a39] For “assessment” wherever it appears there shall be substituted “calculation”.
 
-(4)[^key-6355494c79155fdee4d5a1f38cc47905][^key-7b644a954b944cc98d834c1db99c0a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6355494c79155fdee4d5a1f38cc47905][^c-7b644a954b944cc98d834c1db99c0a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-7b644a954b944cc98d834c1db99c0a39] In regulation 3 (relationship between maintenance assessments and certain court orders)—
+(5)[^c-7b644a954b944cc98d834c1db99c0a39] In regulation 3 (relationship between maintenance assessments and certain court orders)—
 
 - (a) in paragraph (2) after “cease to have effect” there shall be added “on the effective date of the maintenance calculation.”;
 - (b) paragraphs (4) to (7)[^f00030] shall be omitted.
 
-(6)[^key-9c0c8eeed342715f718a3ffb8b73fae7][^key-7b644a954b944cc98d834c1db99c0a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-9c0c8eeed342715f718a3ffb8b73fae7][^c-7b644a954b944cc98d834c1db99c0a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-b4cacd7bbeab86a2ccb6eebd2ffe6897][^key-7b644a954b944cc98d834c1db99c0a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b4cacd7bbeab86a2ccb6eebd2ffe6897][^c-7b644a954b944cc98d834c1db99c0a39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-5ea77546a9939fa673f4a4460fca7f06] After regulation 7 there shall be inserted the following regulation—
+(8)[^c-5ea77546a9939fa673f4a4460fca7f06] After regulation 7 there shall be inserted the following regulation—
 
 > **7A. Prescription for the purposes of jurisdiction**
 >
@@ -102,7 +102,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 .
 
-(9)[^key-7b644a954b944cc98d834c1db99c0a39] In regulation 8 (maintenance assessments and maintenance orders made in error) —
+(9)[^c-7b644a954b944cc98d834c1db99c0a39] In regulation 8 (maintenance assessments and maintenance orders made in error) —
 
 - (a) in paragraph (1) for sub-paragraph (*c*)[^f00041] there shall be substituted the following sub-paragraph—
 
@@ -113,7 +113,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
   - (i) in sub-paragraph (*aa*) “is cancelled or” shall be omitted, and
   - (ii) “as not having been cancelled or, as the case may be,” shall be omitted.
 
-## 4. Transitional provisions and savings[^key-927cc8b25e00eb308086e23d6ac60f8c]
+## 4. Transitional provisions and savings[^c-927cc8b25e00eb308086e23d6ac60f8c]
 
 (1) Where in respect of a particular case before the date that these Regulations come into operation with respect to that type of case (“the commencement date”)—
 
@@ -180,25 +180,25 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-2d0721fb68c14ebab4b387d36a6f0385]: Commencement: Reg. 1 in operation at 31.1.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/a)
+[^c-2d0721fb68c14ebab4b387d36a6f0385]: Commencement: Reg. 1 in operation at 31.1.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/a)
 
 [^f00003]: Footnote: [2000 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4)
 
-[^key-837a63fcf0109746d5376a6538c40e08]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/16/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
+[^c-837a63fcf0109746d5376a6538c40e08]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/16/regulation/2) revoked (27.10.2008) by [The Child Support Information Regulations (Northern Ireland) 2008 (S.R. 2008/403)](https://www.legislation.gov.uk/nisr/2008/403), [reg. 1](https://www.legislation.gov.uk/nisr/2008/403/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2008/403/schedule) (with [reg. 15(2)](https://www.legislation.gov.uk/nisr/2008/403/regulation/15/2))
 
-[^key-7b644a954b944cc98d834c1db99c0a39]: Commencement: [Reg. 3(1)-(7)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/1), [(9)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/9) in operation at 3.3.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/b)
+[^c-7b644a954b944cc98d834c1db99c0a39]: Commencement: [Reg. 3(1)-(7)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/1), [(9)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/9) in operation at 3.3.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/b)
 
-[^key-5ea77546a9939fa673f4a4460fca7f06]: Commencement: Reg. 3(8) in operation at 31.1.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/a)
+[^c-5ea77546a9939fa673f4a4460fca7f06]: Commencement: Reg. 3(8) in operation at 31.1.2001, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/a)
 
 [^f00028]: Footnote: [S.R. 1992 No. 466](https://www.legislation.gov.uk/nisr/1992/466); relevant amending rules are [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164), [S.R. 1995 Nos. 19](https://www.legislation.gov.uk/nisr/1995/19), [162](https://www.legislation.gov.uk/nisr/1995/162) and [475](https://www.legislation.gov.uk/nisr/1995/475) and [S.R. 1999 No. 246 (C. 20)](https://www.legislation.gov.uk/nisr/1999/246)
 
-[^key-6355494c79155fdee4d5a1f38cc47905]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/4) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-6355494c79155fdee4d5a1f38cc47905]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/4) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
 [^f00030]: Footnote: Paragraph (4) was amended by regulation 7(2) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475), paragraph (6) was added by regulation 3 of [S.R. 1995 No. 19](https://www.legislation.gov.uk/nisr/1995/19) and paragraph (7) was added by regulation 7(4)(*b*) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162) and amended by regulation 7(2) of [S.R. 1995 No. 475](https://www.legislation.gov.uk/nisr/1995/475)
 
-[^key-9c0c8eeed342715f718a3ffb8b73fae7]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/6) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-9c0c8eeed342715f718a3ffb8b73fae7]: Textual amendment: [Reg. 3(6)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/6) revoked (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-b4cacd7bbeab86a2ccb6eebd2ffe6897]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/7) revoked (10.11.2009) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/363)](https://www.legislation.gov.uk/nisr/2009/363), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/363/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/363/schedule)
+[^c-b4cacd7bbeab86a2ccb6eebd2ffe6897]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/nisr/2001/16/regulation/3/7) revoked (10.11.2009) by [The Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009 (S.R. 2009/363)](https://www.legislation.gov.uk/nisr/2009/363), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/363/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2009/363/schedule)
 
 [^f00032]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194); Article 10 was amended by Article 3(8) of the Health and Personal Social Services (Northern Ireland) Order 1994 ([S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429))
 
@@ -224,7 +224,7 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^f00043]: Footnote: Paragraph (2) was amended by, and sub-paragraph (*aa*) was inserted by, regulation 3(3)(*b*) of [S.R. 1993 No. 164](https://www.legislation.gov.uk/nisr/1993/164)
 
-[^key-927cc8b25e00eb308086e23d6ac60f8c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/16/regulation/4) in operation at 3.3.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/b)
+[^c-927cc8b25e00eb308086e23d6ac60f8c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/16/regulation/4) in operation at 3.3.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2001/16/regulation/1/1/b)
 
 [^f00044]: Footnote: The definition of “departure direction” was inserted by paragraph 2(*a*) of Schedule 3 to the Child Support (Northern Ireland) Order 1995
 

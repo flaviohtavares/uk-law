@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Cross-sectoral funding[^key-a82f8ba9f5d223937c38e0ee83f30127][^key-5001ecd33a43ed42ec542a8db186ea0c]
+## 177. Cross-sectoral funding[^c-a82f8ba9f5d223937c38e0ee83f30127][^c-5001ecd33a43ed42ec542a8db186ea0c]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a82f8ba9f5d223937c38e0ee83f30127]: Commencement: S. 177 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-a82f8ba9f5d223937c38e0ee83f30127]: Commencement: S. 177 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-5001ecd33a43ed42ec542a8db186ea0c]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2023/52/section/177) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vii)
+[^c-5001ecd33a43ed42ec542a8db186ea0c]: Commencement: [S. 177](https://www.legislation.gov.uk/ukpga/2023/52/section/177) in force at 31.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 3(a)(vii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/3/a/vii)

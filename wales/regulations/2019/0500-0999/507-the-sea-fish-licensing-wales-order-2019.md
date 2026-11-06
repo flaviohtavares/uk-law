@@ -31,7 +31,7 @@ summary: ''
 
 Sea Fisheries, Wales
 
-The Sea Fish Licensing (Wales) Order 2019 (revoked)[^key-cc86c395a3531f1c529852883bf1993b]
+The Sea Fish Licensing (Wales) Order 2019 (revoked)[^c-cc86c395a3531f1c529852883bf1993b]
 
 Made
 
@@ -43,39 +43,39 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with article 1(1)
 
-[^key-cc86c395a3531f1c529852883bf1993b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc86c395a3531f1c529852883bf1993b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-cc86c395a3531f1c529852883bf1993b]
+## 1. Title, commencement and application[^c-cc86c395a3531f1c529852883bf1993b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cc86c395a3531f1c529852883bf1993b]
+## 2. Interpretation[^c-cc86c395a3531f1c529852883bf1993b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on Welsh fishing boats fishing without a licence and exceptions[^key-cc86c395a3531f1c529852883bf1993b]
+## 3. Prohibition on Welsh fishing boats fishing without a licence and exceptions[^c-cc86c395a3531f1c529852883bf1993b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on fishing in the Welsh zone by non-British-owned Crown Dependencies fishing boats[^key-cc86c395a3531f1c529852883bf1993b]
+## 4. Prohibition on fishing in the Welsh zone by non-British-owned Crown Dependencies fishing boats[^c-cc86c395a3531f1c529852883bf1993b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prohibition on fishing in the Welsh zone by foreign fishing boats[^key-cc86c395a3531f1c529852883bf1993b]
+## 5. Prohibition on fishing in the Welsh zone by foreign fishing boats[^c-cc86c395a3531f1c529852883bf1993b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-cc86c395a3531f1c529852883bf1993b]
+## 6. Revocations[^c-cc86c395a3531f1c529852883bf1993b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cc86c395a3531f1c529852883bf1993b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc86c395a3531f1c529852883bf1993b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Revocations[^key-cc86c395a3531f1c529852883bf1993b]
+## SCHEDULE — Revocations[^c-cc86c395a3531f1c529852883bf1993b]
 
 Article 6
 
@@ -83,8 +83,8 @@ Article 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-cc86c395a3531f1c529852883bf1993b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cc86c395a3531f1c529852883bf1993b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cc86c395a3531f1c529852883bf1993b]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2019/507) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/22) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-cc86c395a3531f1c529852883bf1993b]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2019/507) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/22) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

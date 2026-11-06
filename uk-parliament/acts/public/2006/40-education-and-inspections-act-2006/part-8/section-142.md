@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Interpretation etc.[^key-9db6877ea125c604eb27f4eabc8d9f35][^c17507861]
+## 142. Interpretation etc.[^c-9db6877ea125c604eb27f4eabc8d9f35][^c17507861]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9db6877ea125c604eb27f4eabc8d9f35]: Commencement: S. 142 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-9db6877ea125c604eb27f4eabc8d9f35]: Commencement: S. 142 in force at 1.4.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
 [^c17507861]: Commencement: S. 142 partly in force; s. 142 in force at 8.11.2006 in so far as it confers power to make subordinate legislation see [s. 188(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/1)

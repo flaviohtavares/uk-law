@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Failure to provide information under article 81 (information required for the purposes of administering the Trading Schemes)[^key-4887382fd50d3754ff8f3ec6e7859857]
+## 100. Failure to provide information under article 81 (information required for the purposes of administering the Trading Schemes)[^c-4887382fd50d3754ff8f3ec6e7859857]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4887382fd50d3754ff8f3ec6e7859857]: Commencement: Art. 100 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-4887382fd50d3754ff8f3ec6e7859857]: Commencement: Art. 100 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

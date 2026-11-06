@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Responsible person’s determination of means of voting[^key-42bbf9f7fe536fb01dbb5c1946a29789]
+## 46A. Responsible person’s determination of means of voting[^c-42bbf9f7fe536fb01dbb5c1946a29789]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ the determination must include provision setting out which vote is to be counted
 
 ## Annotations
 
-[^key-42bbf9f7fe536fb01dbb5c1946a29789]: Textual amendment: S. 46A and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2026/881/article/3/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-42bbf9f7fe536fb01dbb5c1946a29789]: Textual amendment: S. 46A and cross-heading inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [3(3)](https://www.legislation.gov.uk/uksi/2026/881/article/3/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

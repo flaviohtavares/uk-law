@@ -36,10 +36,10 @@ summary: ''
 
 (5) A person who commits an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(6)[^key-097e809d981f228bdf4ca9800a6540e1] See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
+(6)[^c-097e809d981f228bdf4ca9800a6540e1] See also section 249A (financial penalties as alternative to prosecution for certain housing offences in England).
 
 (7) If a local housing authority has imposed a financial penalty on a person under section 249A in respect of conduct amounting to an offence under this section the person may not be convicted of an offence under this section in respect of the conduct.
 
 ## Annotations
 
-[^key-097e809d981f228bdf4ca9800a6540e1]: Textual amendment: [S. 234(6)](https://www.legislation.gov.uk/ukpga/2004/34/section/234/6)[(7)](https://www.legislation.gov.uk/ukpga/2004/34/section/234/7) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/6); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)
+[^c-097e809d981f228bdf4ca9800a6540e1]: Textual amendment: [S. 234(6)](https://www.legislation.gov.uk/ukpga/2004/34/section/234/6)[(7)](https://www.legislation.gov.uk/ukpga/2004/34/section/234/7) inserted (6.4.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/6); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/f)

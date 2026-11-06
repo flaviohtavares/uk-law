@@ -34,7 +34,7 @@ commits an offence.
 
 (3) A person guilty of an offence under subsection (1)(b) above shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(4)[^key-d0806fddfc71104bd41eca3af0895db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d0806fddfc71104bd41eca3af0895db2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -46,4 +46,4 @@ commits an offence.
 
 [^c794678]: Textual amendment: Ss. 21A–21G inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [ss. 5–7](https://www.legislation.gov.uk/ukpga/1990/31/section/5)
 
-[^key-d0806fddfc71104bd41eca3af0895db2]: Textual amendment: S. 21E(4) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0806fddfc71104bd41eca3af0895db2]: Textual amendment: S. 21E(4) omitted (31.12.2020) by virtue of [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2019/547/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Building And Buildings, England And Wales
 
-The Building (Amendment) Regulations 2009 (revoked)[^key-08f4c1951e84c1cd59916ddd611a5708]
+The Building (Amendment) Regulations 2009 (revoked)[^c-08f4c1951e84c1cd59916ddd611a5708]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st April 2009
 
-[^key-08f4c1951e84c1cd59916ddd611a5708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08f4c1951e84c1cd59916ddd611a5708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-08f4c1951e84c1cd59916ddd611a5708]
+## 1. Citation and commencement[^c-08f4c1951e84c1cd59916ddd611a5708]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Building Regulations 2000[^key-08f4c1951e84c1cd59916ddd611a5708]
+## 2. Amendment of the Building Regulations 2000[^c-08f4c1951e84c1cd59916ddd611a5708]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08f4c1951e84c1cd59916ddd611a5708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08f4c1951e84c1cd59916ddd611a5708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-08f4c1951e84c1cd59916ddd611a5708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08f4c1951e84c1cd59916ddd611a5708]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08f4c1951e84c1cd59916ddd611a5708]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/466) revoked (1.10.2010) by [The Building Regulations 2010 (S.I. 2010/2214)](https://www.legislation.gov.uk/uksi/2010/2214), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2214/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/2214/schedule/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2010/2214/regulation/9))
+[^c-08f4c1951e84c1cd59916ddd611a5708]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/466) revoked (1.10.2010) by [The Building Regulations 2010 (S.I. 2010/2214)](https://www.legislation.gov.uk/uksi/2010/2214), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2214/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/2214/schedule/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2010/2214/regulation/9))

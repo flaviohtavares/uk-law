@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^key-b64b2ebdec9d89c4433912902b60ed62]
+## 20. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^c-b64b2ebdec9d89c4433912902b60ed62]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b64b2ebdec9d89c4433912902b60ed62]: Commencement: Art. 20 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-b64b2ebdec9d89c4433912902b60ed62]: Commencement: Art. 20 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

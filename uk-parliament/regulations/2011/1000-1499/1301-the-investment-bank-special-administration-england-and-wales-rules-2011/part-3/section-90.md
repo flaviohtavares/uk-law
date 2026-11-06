@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Entitlement to vote (clients)[^key-a593f52e2702570525ec352b13078b0d]
+## 90. Entitlement to vote (clients)[^c-a593f52e2702570525ec352b13078b0d]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ and there has been lodged with the administrator any proxy intended to be used o
 
 ## Annotations
 
-[^key-a593f52e2702570525ec352b13078b0d]: Commencement: [Rule 90](https://www.legislation.gov.uk/uksi/2011/1301/rule/90) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-a593f52e2702570525ec352b13078b0d]: Commencement: [Rule 90](https://www.legislation.gov.uk/uksi/2011/1301/rule/90) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554G. Exclusions: transactions under employee benefit packages[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554G. Exclusions: transactions under employee benefit packages[^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,10 +58,10 @@ summary: ''
 
 (7) In this section (apart from subsection (1)(d)(ii)) references to A include references to any person linked with A.
 
-(8)[^key-e72b37758891fd9c9faa257c4d78877a] See paragraph 29 of Schedule 11 to F(No. 2)A 2017 for provision about exclusions for transactions under employee benefit packages in a case in which the relevant step is within paragraph 1 of that Schedule.
+(8)[^c-e72b37758891fd9c9faa257c4d78877a] See paragraph 29 of Schedule 11 to F(No. 2)A 2017 for provision about exclusions for transactions under employee benefit packages in a case in which the relevant step is within paragraph 1 of that Schedule.
 
 ## Annotations
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-e72b37758891fd9c9faa257c4d78877a]: Textual amendment: S. 554G(8) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 30](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/30)
+[^c-e72b37758891fd9c9faa257c4d78877a]: Textual amendment: S. 554G(8) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 11 para. 30](https://www.legislation.gov.uk/ukpga/2017/32/schedule/11/paragraph/30)

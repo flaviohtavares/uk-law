@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**228.**[^key-81f4874159f17c5cbd34856db93eca60] In section 64 (interpretation), in the definition of “social services function”—
+**228.**[^c-81f4874159f17c5cbd34856db93eca60] In section 64 (interpretation), in the definition of “social services function”—
 
 - (a) after “function” insert
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81f4874159f17c5cbd34856db93eca60]: Commencement: Reg. 228 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-81f4874159f17c5cbd34856db93eca60]: Commencement: Reg. 228 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

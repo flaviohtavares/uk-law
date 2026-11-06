@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Final notice[^key-468349db7da4d0c63c47bb7094818d73][^key-de2a1c38b9314c2edba7c797c2561182]
+## 198. Final notice[^c-468349db7da4d0c63c47bb7094818d73][^c-de2a1c38b9314c2edba7c797c2561182]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-468349db7da4d0c63c47bb7094818d73]: Commencement: S. 198 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-468349db7da4d0c63c47bb7094818d73]: Commencement: S. 198 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-de2a1c38b9314c2edba7c797c2561182]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2023/55/section/198) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)
+[^c-de2a1c38b9314c2edba7c797c2561182]: Commencement: [S. 198](https://www.legislation.gov.uk/ukpga/2023/55/section/198) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/a)

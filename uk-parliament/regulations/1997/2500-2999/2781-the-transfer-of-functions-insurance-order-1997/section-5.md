@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transfers of property, etc.[^key-b4bc4156999fdd7c0b542676521bf0ef]
+## 5. Transfers of property, etc.[^c-b4bc4156999fdd7c0b542676521bf0ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4bc4156999fdd7c0b542676521bf0ef]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1997/2781/article/5) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)
+[^c-b4bc4156999fdd7c0b542676521bf0ef]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/1997/2781/article/5) in force at 5.1.1998, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1997/2781/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 272C. Former scheme administrator etc to retain liability[^key-ca05c59b5ac171c05ad98ad06ba784db]
+## 272C. Former scheme administrator etc to retain liability[^c-ca05c59b5ac171c05ad98ad06ba784db]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca05c59b5ac171c05ad98ad06ba784db]: Textual amendment: Ss. 272A-272C inserted (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/19)
+[^c-ca05c59b5ac171c05ad98ad06ba784db]: Textual amendment: Ss. 272A-272C inserted (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 7 para. 19](https://www.legislation.gov.uk/ukpga/2014/26/schedule/7/paragraph/19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Functions of the Commission[^key-f3fe3f760be57bb932c3abbf9eef3a5f]
+## 6. Functions of the Commission[^c-f3fe3f760be57bb932c3abbf9eef3a5f]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The functions of the Commission are—
 
 ## Annotations
 
-[^key-f3fe3f760be57bb932c3abbf9eef3a5f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/18/section/6) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)
+[^c-f3fe3f760be57bb932c3abbf9eef3a5f]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2016/18/section/6) in force at 1.4.2017 by [S.S.I. 2016/250](https://www.legislation.gov.uk/ssi/2016/250), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2016/250/regulation/2/3), [sch. 2](https://www.legislation.gov.uk/ssi/2016/250/schedule/2)

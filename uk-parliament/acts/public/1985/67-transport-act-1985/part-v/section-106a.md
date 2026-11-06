@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106A. Grants for bus services.[^key-b22ae4ca9f85f09e94a8ee980aaec982][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-335db5d73428421b1d7b417ef836b844][^c10882121][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 106A. Grants for bus services.[^c-b22ae4ca9f85f09e94a8ee980aaec982][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-335db5d73428421b1d7b417ef836b844][^c10882121][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W*
 
@@ -34,10 +34,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b22ae4ca9f85f09e94a8ee980aaec982]: Modification: [Ss. 106](https://www.legislation.gov.uk/ukpga/1985/67/section/106), [106A](https://www.legislation.gov.uk/ukpga/1985/67/section/106A): functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4)
+[^c-b22ae4ca9f85f09e94a8ee980aaec982]: Modification: [Ss. 106](https://www.legislation.gov.uk/ukpga/1985/67/section/106), [106A](https://www.legislation.gov.uk/ukpga/1985/67/section/106A): functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4)
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
-[^key-335db5d73428421b1d7b417ef836b844]: Modification: [S. 106A](https://www.legislation.gov.uk/ukpga/1985/67/section/106A): functions made exercisable concurrently (E.) (24.2.2026) by [The Cheshire and Warrington Combined Authority Order 2026 (S.I. 2026/159)](https://www.legislation.gov.uk/uksi/2026/159), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/159/article/1/2), [8](https://www.legislation.gov.uk/uksi/2026/159/article/8)
+[^c-335db5d73428421b1d7b417ef836b844]: Modification: [S. 106A](https://www.legislation.gov.uk/ukpga/1985/67/section/106A): functions made exercisable concurrently (E.) (24.2.2026) by [The Cheshire and Warrington Combined Authority Order 2026 (S.I. 2026/159)](https://www.legislation.gov.uk/uksi/2026/159), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/159/article/1/2), [8](https://www.legislation.gov.uk/uksi/2026/159/article/8)
 
 [^c10882121]: Textual amendment: S. 106A inserted (E.W.) (19.5.1997) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [ss. 27](https://www.legislation.gov.uk/ukpga/1997/29/section/27), [34(2)](https://www.legislation.gov.uk/ukpga/1997/29/section/34/2)

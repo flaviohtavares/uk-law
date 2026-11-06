@@ -56,7 +56,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-51fc7d66e5018f5a7f436c791b187175]
+### 1. Citation and commencement[^c-51fc7d66e5018f5a7f436c791b187175]
 
 (1) These Regulations may be cited as the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019.
 
@@ -74,7 +74,7 @@ In accordance with section 52(2) of the Taxation (Cross-border Trade) Act 2018, 
 
 ## PART 2 — Banana Weight Certificates
 
-### 2. Interpretation[^key-d00c7a3750231a31163dd71b637ec2a6][^key-d2dc93778e3152f8bfc96a25a3eaea11]
+### 2. Interpretation[^c-d00c7a3750231a31163dd71b637ec2a6][^c-d2dc93778e3152f8bfc96a25a3eaea11]
 
 In this Part—
 
@@ -89,10 +89,10 @@ In this Part—
 - “**import duty regulations**” means the Customs (Import Duty) (EU Exit) Regulations 2018 [^c23839211];
 - “simplified Customs declaration process” has meaning given by regulation 30 of the import duty regulations;
 - “**simplified Customs declaration**” has the meaning given by regulation 14 of the import duty regulations.
-- “[^key-b1255181855e8104b34153882241761b]**transitional simplified Customs declaration**” has the meaning given by regulation 14 of the import duty regulations;
+- “[^c-b1255181855e8104b34153882241761b]**transitional simplified Customs declaration**” has the meaning given by regulation 14 of the import duty regulations;
 - “**transitional EIDR simplified Customs declaration process**” has the meaning given by regulation 29A(1) of the import duty regulations.
 
-### 3. Banana Weight Certificates[^key-e22198ed631c5319dcf6143a36735c0a][^key-6c05bbe6882d18c8e30f40ff1eb02c33]
+### 3. Banana Weight Certificates[^c-e22198ed631c5319dcf6143a36735c0a][^c-6c05bbe6882d18c8e30f40ff1eb02c33]
 
 (1) A person (“an Authorised Banana Weigher”) may, if authorised to do so by HMRC, issue certificates specifying the weight of consignments of fresh bananas (“a Banana Weight Certificate”).
 
@@ -102,7 +102,7 @@ In this Part—
 
 (4) For the purposes of regulation 89(1) of the import duty regulations, the specified period in relation to an application for authorisation as an Authorised Banana Weigher is 30 days after the date on which the application was received by HMRC.
 
-### 4. Eligibility for authorisation or approval as an Authorised Banana Weigher[^key-3dbc85b77fd5b11f4fd78fb68424d0f9][^key-3bd0ff9bbf1f9bed548a101fe626b7a8]
+### 4. Eligibility for authorisation or approval as an Authorised Banana Weigher[^c-3dbc85b77fd5b11f4fd78fb68424d0f9][^c-3bd0ff9bbf1f9bed548a101fe626b7a8]
 
 (1) A person may only be an Authorised Banana Weigher if—
 
@@ -122,7 +122,7 @@ In this Part—
   - (ii) relevant to the suitability of the applicant to carry out banana weighing;
 - (d) whether the person maintains a logistical system and records that identify the movement of, and transactions in, consignments of bananas to which Banana Weight Certificates relate, and facilitates compliance with Customs obligations.
 
-### 5. Conditions for approval as an Authorised Banana Weigher[^key-c39991b37775a6147555fd2ef1c67f41][^key-75eb0113355459438c7fba4d5f877885]
+### 5. Conditions for approval as an Authorised Banana Weigher[^c-c39991b37775a6147555fd2ef1c67f41][^c-75eb0113355459438c7fba4d5f877885]
 
 Approval as an Authorised Banana Weigher is granted subject to the following conditions—
 
@@ -130,7 +130,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 - (b) the person must issue the relevant Banana Weight Certificates without delay after carrying out any banana weighing; and
 - (c) such other conditions as may be specified in the approval notification.
 
-### 6. Requirement to provide a Banana Weight Certificate[^key-5fde532e6780f5baaaeed3376903fdd4][^key-d2db3a401689866a73908ef70aa0bdd8]
+### 6. Requirement to provide a Banana Weight Certificate[^c-5fde532e6780f5baaaeed3376903fdd4][^c-d2db3a401689866a73908ef70aa0bdd8]
 
 (1) This regulation applies in relation to bananas of a description specified in a notice which must be published by HMRC Commissioners (“fresh bananas”).
 
@@ -138,24 +138,24 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 (3) Paragraph (2) does not apply where,
 
-- (a)[^key-51f76b8d84de124bd690e96cbbaf540e] at the time the Customs declaration for the free-circulation procedure is made in respect of fresh bananas, the person making the declaration [^c23839231] is a person authorised to use the simplified Customs declaration process [^c23839241] and makes the Customs declaration for the free-circulation procedure in respect of fresh bananas using the simplified Customs declaration process ; or[^key-956153a6cebc4edc07803252b500c2b6]
-- (b)[^key-98b569cdaba6971fc359c8965ed4e662] the Customs declaration is made using the transitional EIDR simplified Customs declaration process.
+- (a)[^c-51f76b8d84de124bd690e96cbbaf540e] at the time the Customs declaration for the free-circulation procedure is made in respect of fresh bananas, the person making the declaration [^c23839231] is a person authorised to use the simplified Customs declaration process [^c23839241] and makes the Customs declaration for the free-circulation procedure in respect of fresh bananas using the simplified Customs declaration process ; or[^c-956153a6cebc4edc07803252b500c2b6]
+- (b)[^c-98b569cdaba6971fc359c8965ed4e662] the Customs declaration is made using the transitional EIDR simplified Customs declaration process.
 
 (4) Where paragraph (3) applies—
 
-- (a) a provisional declaration of weight must be provided in the simplified Customs declaration or transitional simplified Customs declaration, as the case may be[^key-87f2b6bb918f553972171f2b2033828e]; and
-- (b) the person making the simplified Customs declaration or transitional simplified Customs declaration[^key-b9dd1036e54162b2e60e94966ed20357] must provide to HMRC a Banana Weight Certificate in respect of the fresh bananas that are the subject of that declaration within 10 days beginning with the date on which the simplified Customs declaration or transitional simplified Customs declaration is accepted [^c23839251] by HMRC.
+- (a) a provisional declaration of weight must be provided in the simplified Customs declaration or transitional simplified Customs declaration, as the case may be[^c-87f2b6bb918f553972171f2b2033828e]; and
+- (b) the person making the simplified Customs declaration or transitional simplified Customs declaration[^c-b9dd1036e54162b2e60e94966ed20357] must provide to HMRC a Banana Weight Certificate in respect of the fresh bananas that are the subject of that declaration within 10 days beginning with the date on which the simplified Customs declaration or transitional simplified Customs declaration is accepted [^c23839251] by HMRC.
 
 (5) In this regulation—
 
-- “**a Banana Weight Certificate previously issued**” includes a Banana Weight Certificate issued under the EU Customs Code prior to IP completion day[^key-d761f87c4da1b13b589d4b6be75a797b];
+- “**a Banana Weight Certificate previously issued**” includes a Banana Weight Certificate issued under the EU Customs Code prior to IP completion day[^c-d761f87c4da1b13b589d4b6be75a797b];
 - “**EU Customs Code**” means—
   - (a) Regulation (EU) No 952/2013 of the European Parliament and of the Council of 9 October 2013 laying down the Union Customs Code;
-  - (b) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code; [^key-10a7c50f07d7c58fcda762d649ac4a14]...
-  - (c) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code [^c23839261]; and[^key-7875515000b569344647b6534fe913a6]
-  - (d) Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards transitional rules for certain provisions of the Union Customs Code where the relevant electronic systems are not yet operational and amending Delegated Regulation (EU) 2015/2446;[^key-386621e7190dfc5835ac19ef72ffd4c1]
+  - (b) Commission Delegated Regulation (EU) 2015/2446 of 28 July 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards detailed rules concerning certain provisions of the Union Customs Code; [^c-10a7c50f07d7c58fcda762d649ac4a14]...
+  - (c) Commission Implementing Regulation (EU) 2015/2447 of 24 November 2015 laying down detailed rules for implementing certain provisions of Regulation (EU) No 952/2013 of the European Parliament and of the Council laying down the Union Customs Code [^c23839261]; and[^c-7875515000b569344647b6534fe913a6]
+  - (d) Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards transitional rules for certain provisions of the Union Customs Code where the relevant electronic systems are not yet operational and amending Delegated Regulation (EU) 2015/2446;[^c-386621e7190dfc5835ac19ef72ffd4c1]
 - “**provisional declaration of weight**” means either—
-  - (a) the weight, as adjusted for the size of the consignment if that adjustment can be readily determined, that appears on a Banana Weight Certificate previously issued to the person making the simplified Customs declaration or transitional simplified Customs declaration[^key-fb518e8f61077a6e41bf2886daf443db] if the bananas that are the subject of that Banana Weight Certificate are the same as those for which the declaration is being made in respect of—
+  - (a) the weight, as adjusted for the size of the consignment if that adjustment can be readily determined, that appears on a Banana Weight Certificate previously issued to the person making the simplified Customs declaration or transitional simplified Customs declaration[^c-fb518e8f61077a6e41bf2886daf443db] if the bananas that are the subject of that Banana Weight Certificate are the same as those for which the declaration is being made in respect of—
     - (i) the type of packaging used; and
     - (ii) the place of origin; or
   - (b) if—
@@ -166,7 +166,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 ## PART 3 — Reviews and appeals
 
-### 7. Reviews and appeals[^key-2b2b94f07896936d7124dae61a032b7a][^key-29668a31eedb8c5e5d56c4b94314002a]
+### 7. Reviews and appeals[^c-2b2b94f07896936d7124dae61a032b7a][^c-29668a31eedb8c5e5d56c4b94314002a]
 
 (1) The decisions listed in paragraph (2) are to be treated as if they were listed in Schedule 5 to the Finance Act 1994 (decisions subject to review and appeal) [^c23839271].
 
@@ -186,12 +186,12 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 - “**EUCL**” means the direct EU legislation referred to in paragraph 1(1) of Schedule 7 to the Taxation (Cross-border Trade) Act 2018;
 - “**EU Customs Code**” has the same meaning as it has in regulation 6;
 - “**EU Customs legislation**” means—
-  - (a) the EU Customs Code as it had effect before IP completion day[^key-0c52f0783627ca948a99d79310b8bf13] except the EUCL; and
+  - (a) the EU Customs Code as it had effect before IP completion day[^c-0c52f0783627ca948a99d79310b8bf13] except the EUCL; and
   - (b) after IP completion day, the EU Customs Code except the EUCL.
 
 ## PART 4 — Pleasure craft
 
-### 8. Amendment of the Pleasure Craft (Arrival and Report) Regulations 1996 and transitional provision[^key-39ad5fa4818d154dce8d4b629d744e80][^key-541e13fffd644fe6a56b4549a794ea94]
+### 8. Amendment of the Pleasure Craft (Arrival and Report) Regulations 1996 and transitional provision[^c-39ad5fa4818d154dce8d4b629d744e80][^c-541e13fffd644fe6a56b4549a794ea94]
 
 (1) The Pleasure Craft (Arrival and Report) Regulations 1996 [^c23839291] are amended in accordance with paragraphs (2) and (3).
 
@@ -206,7 +206,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 - “**pleasure craft**” has the meaning given in regulation 2 of the Pleasure Craft (Arrival and Report) Regulations 1996;
 - “**port**” has the meaning given in section 1 of the Customs and Excise Management Act 1979 [^c23839301].
 
-### 9. Clearance of ships and aircraft[^key-80aa2337495422283102bf67e2ccfd51][^key-d8aa810527ef6cf4b9f169f6e972d9ff]
+### 9. Clearance of ships and aircraft[^c-80aa2337495422283102bf67e2ccfd51][^c-d8aa810527ef6cf4b9f169f6e972d9ff]
 
 (1) Subject to paragraph (2), the requirement to obtain clearance for departure in section 64(1) of the Customs and Excise Management Act 1979 (clearance outwards of ships and aircraft) does not apply to a vehicle [^c23839311] which departs from the United Kingdom for a place in the Isle of Man.
 
@@ -214,7 +214,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 ## PART 5 — Miscellaneous amendments
 
-### 10. Amendment of the Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018[^key-42b8208873e8fe6f82dc298876f56771][^key-dd1337588bae0729092607b011e13c11]
+### 10. Amendment of the Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018[^c-42b8208873e8fe6f82dc298876f56771][^c-dd1337588bae0729092607b011e13c11]
 
 (1) The Customs (Temporary Storage Facilities Approval Conditions and Miscellaneous Amendments) (EU Exit) Regulations 2018 [^c23839321] are amended as follows.
 
@@ -268,11 +268,11 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 .
 
-### 11. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^key-b33268279317fd2422af49d662675c40][^key-a11b9b463d5198e694f05dd97cd12815]
+### 11. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^c-b33268279317fd2422af49d662675c40][^c-a11b9b463d5198e694f05dd97cd12815]
 
-(1)[^key-b33268279317fd2422af49d662675c40] The Customs (Import Duty) (EU Exit) Regulations 2018 [^c23839341] are amended as follows.
+(1)[^c-b33268279317fd2422af49d662675c40] The Customs (Import Duty) (EU Exit) Regulations 2018 [^c23839341] are amended as follows.
 
-(2)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 2 (interpretation)—
+(2)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 2 (interpretation)—
 
 - (a) after the definition of “the Delegated Regulation” insert—
 
@@ -290,21 +290,21 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(3)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 4 (notification of importation) [^c23839351]—
+(3)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 4 (notification of importation) [^c23839351]—
 
 - (a) in paragraph (1) for “and (3A)” substitute “ , (3A) and (3AA) ”;
 - (b) in paragraph (3A)—
   - (i) in sub-paragraph (c) for “the goods have been declared” substitute “ a Customs declaration has been made in respect of the goods ”;
   - (ii) in the words following sub-paragraph (c) for “paragraphs (1) to (3)” substitute “ paragraphs (1) and (3) ”;
-- (c)[^key-bccea031e682a93cc7fb538b44fb4010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-bccea031e682a93cc7fb538b44fb4010] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph (3B) after “(3A)” in both places it occurs insert “ or (3AA) ”;
 - (e) in paragraph (3C)(a) after “(3A)” insert “ or (3AA) ”;
 - (f) in paragraph (3D) at the end of paragraph (3D)(c) insert “ , or such shorter or longer period as may be specified in a notice published by HMRC Commissioners ”; and
-- (g)[^key-25a5b98d8247fff978f7f0c199a7c80a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-25a5b98d8247fff978f7f0c199a7c80a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-e66b8d33cd3a72dc4de13a5bd9b4e3bb][^key-e4bbd008ffd43848ddc323d5f08e074e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e66b8d33cd3a72dc4de13a5bd9b4e3bb][^c-e4bbd008ffd43848ddc323d5f08e074e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 14 (interpretation (declarations))—
+(5)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 14 (interpretation (declarations))—
 
 - (a) after the definition of “authorised declarant” insert—
 
@@ -322,7 +322,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(6)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 17 (customs declaration made orally: general)—
+(6)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 17 (customs declaration made orally: general)—
 
 - (a) at the beginning of paragraph (4), for “An” substitute “ Subject to where paragraph (4A) applies, an ”;
 - (b) after paragraph (4), insert—
@@ -331,7 +331,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(7)[^key-e4bbd008ffd43848ddc323d5f08e074e] After regulation 26A (free-circulation procedure: goods imported at RoRo listed locations) insert—
+(7)[^c-e4bbd008ffd43848ddc323d5f08e074e] After regulation 26A (free-circulation procedure: goods imported at RoRo listed locations) insert—
 
 > **26B. Free-circulation procedure: pleasure craft**
 >
@@ -356,7 +356,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 .
 
-(8)[^key-e4bbd008ffd43848ddc323d5f08e074e] After regulation 27A (temporary admission procedure: goods imported at RoRo listed locations) insert—
+(8)[^c-e4bbd008ffd43848ddc323d5f08e074e] After regulation 27A (temporary admission procedure: goods imported at RoRo listed locations) insert—
 
 > **27B. Temporary admission procedure: pleasure craft**
 >
@@ -377,7 +377,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 .
 
-(9)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 29 (customs declarations made by conduct: notification, acceptance and discharge)—
+(9)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 29 (customs declarations made by conduct: notification, acceptance and discharge)—
 
 - (a) after paragraph (3) insert—
 
@@ -410,13 +410,13 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
   ;
 - (d) in paragraph (6) for “(5) or (5A)” substitute “ (5), (5A), (5B) or (5C) ”.
 
-(10)[^key-b33268279317fd2422af49d662675c40] In regulation 31(4A) (persons authorised to use the simplified Customs declaration process) substitute the words “ on or before 30th June 2019 ” with “before the end of the period of six months beginning with exit day”.
+(10)[^c-b33268279317fd2422af49d662675c40] In regulation 31(4A) (persons authorised to use the simplified Customs declaration process) substitute the words “ on or before 30th June 2019 ” with “before the end of the period of six months beginning with exit day”.
 
-(11)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 36(2) (EIDR procedure) omit sub-paragraph (a).
+(11)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 36(2) (EIDR procedure) omit sub-paragraph (a).
 
-(12)[^key-b33268279317fd2422af49d662675c40] In regulation 37(3A) (persons authorised to use the EIDR procedure) substitute the words “ on or before 30th June 2019 ” with “before the end of the period of six months beginning with exit day”.
+(12)[^c-b33268279317fd2422af49d662675c40] In regulation 37(3A) (persons authorised to use the EIDR procedure) substitute the words “ on or before 30th June 2019 ” with “before the end of the period of six months beginning with exit day”.
 
-(13)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 37A (persons authorised to use the simplified Customs declaration process and EIDR procedure – transitional authorisations) [^c23839371]—
+(13)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 37A (persons authorised to use the simplified Customs declaration process and EIDR procedure – transitional authorisations) [^c23839371]—
 
 - (a) in paragraph (5)(a)—
   - (i) at the end of paragraph (i) omit “and”;
@@ -443,7 +443,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   [^c23839381].
 
-(14)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 39A (mandatory advance electronic declarations by qualifying travellers: other chargeable goods)—
+(14)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 39A (mandatory advance electronic declarations by qualifying travellers: other chargeable goods)—
 
 - (a) in paragraph (1), for sub-paragraph (d) substitute—
 
@@ -451,7 +451,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   ;
 - (b) omit paragraph (2);
-- (c) in paragraph (4), at the end insert “ before the goods are imported[^key-01a3639c1a406b7157286c951d024210] ”;
+- (c) in paragraph (4), at the end insert “ before the goods are imported[^c-01a3639c1a406b7157286c951d024210] ”;
 - (d) in paragraph (11), for the definition of “small vehicle” substitute—
 
   > “**small vehicle**” means a small vehicle within the meaning given in section 108(1) of the Road Traffic Act 1988 [^c23839391] which is—
@@ -466,7 +466,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(15)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 39B (voluntary advance electronic declarations by qualifying travellers: other chargeable goods)—
+(15)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 39B (voluntary advance electronic declarations by qualifying travellers: other chargeable goods)—
 
 - (a) in paragraph (1)—
   - (i) for sub-paragraph (d) substitute—
@@ -481,22 +481,22 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
     ; and
 - (b) omit paragraph (2).
 
-(16)[^key-b33268279317fd2422af49d662675c40] In regulation 97(5) (single and comprehensive guarantees) for “(5)” substitute “ (4) ”.
+(16)[^c-b33268279317fd2422af49d662675c40] In regulation 97(5) (single and comprehensive guarantees) for “(5)” substitute “ (4) ”.
 
-(17)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 98 (specified amount) —
+(17)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 98 (specified amount) —
 
 - (a) in paragraph (2) omit the words “subject to paragraph (2A)”;
 - (b) omit paragraph (2A);
-- (c)[^key-6eae2558ee3602b777411331df9fb08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-b9b1572e5ce39b8e3020c08e0a054294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-6eae2558ee3602b777411331df9fb08a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b9b1572e5ce39b8e3020c08e0a054294] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(18)[^key-b33268279317fd2422af49d662675c40] In regulation 101(1)(e)(i) (cases where no guarantee is required), for “20, 21 or 27 (Customs declarations made orally or by conduct: musical instruments, packaging, broadcast equipment, disaster relief material and miscellaneous goods)” substitute “ 20, 21, 27, 27A, 27B or 27C (Customs declarations made orally or by conduct: certain goods) ”.
+(18)[^c-b33268279317fd2422af49d662675c40] In regulation 101(1)(e)(i) (cases where no guarantee is required), for “20, 21 or 27 (Customs declarations made orally or by conduct: musical instruments, packaging, broadcast equipment, disaster relief material and miscellaneous goods)” substitute “ 20, 21, 27, 27A, 27B or 27C (Customs declarations made orally or by conduct: certain goods) ”.
 
-(19)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 103 (goods presumed not to be domestic goods) omit paragraph (2).
+(19)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 103 (goods presumed not to be domestic goods) omit paragraph (2).
 
-(20)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 105A(1) (goods not regarded as domestic goods: goods in UK sector of the continental shelf) for “the goods remain” substitute “ , at the time the procedure is discharged, the goods are located ”.
+(20)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 105A(1) (goods not regarded as domestic goods: goods in UK sector of the continental shelf) for “the goods remain” substitute “ , at the time the procedure is discharged, the goods are located ”.
 
-(21)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 130(6) (RoRo listed locations)—
+(21)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 130(6) (RoRo listed locations)—
 
 - (a) at the end of sub-paragraph (a) omit “and”;
 - (b) at the end of sub-paragraph (b) insert “ ; and ”;
@@ -506,28 +506,28 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(22)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 131 (chargeable goods carried by RoRo vehicles destined for RoRo listed locations: making of declarations)—
+(22)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 131 (chargeable goods carried by RoRo vehicles destined for RoRo listed locations: making of declarations)—
 
 - (a) in paragraph (2) omit “which includes a MRN”;
 - (b) in paragraph (3) for “one RoRo listed location for another” substitute “ information of a description specified in a notice published by HMRC ”.
 
-(23)[^key-96a1317dcbb651d5bd0d004ed7c83e1a][^key-e4bbd008ffd43848ddc323d5f08e074e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(23)[^c-96a1317dcbb651d5bd0d004ed7c83e1a][^c-e4bbd008ffd43848ddc323d5f08e074e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(24)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 143 (interpretation (transitional and savings provisions)) omit the definition of “non-Union goods”.
+(24)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 143 (interpretation (transitional and savings provisions)) omit the definition of “non-Union goods”.
 
-(25)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 156(3)(b) (goods located outside the United Kingdom) for the words “29th March 2020” substitute “ the end of the period of one year beginning with IP completion day[^key-e7f9b7bef3c9ad20b6879d9b27c171d3] ”.
+(25)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 156(3)(b) (goods located outside the United Kingdom) for the words “29th March 2020” substitute “ the end of the period of one year beginning with IP completion day[^c-e7f9b7bef3c9ad20b6879d9b27c171d3] ”.
 
-(26)[^key-e4bbd008ffd43848ddc323d5f08e074e] In regulation 157(2) (goods discharged from a customs procedure) for sub-paragraph (c) substitute—
+(26)[^c-e4bbd008ffd43848ddc323d5f08e074e] In regulation 157(2) (goods discharged from a customs procedure) for sub-paragraph (c) substitute—
 
-> - (c) the end of the period of one year beginning with IP completion day[^key-b923e31c1873db54749f7d4e936fddaa].
+> - (c) the end of the period of one year beginning with IP completion day[^c-b923e31c1873db54749f7d4e936fddaa].
 
 .
 
-### 12. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^key-f94cc827f04d7dadbe4a0ba135dabb43][^key-e9056fe24d90228015a4f790f97061f4]
+### 12. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^c-f94cc827f04d7dadbe4a0ba135dabb43][^c-e9056fe24d90228015a4f790f97061f4]
 
-(1)[^key-f94cc827f04d7dadbe4a0ba135dabb43] The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 [^c23839401] are amended as follows.
+(1)[^c-f94cc827f04d7dadbe4a0ba135dabb43] The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018 [^c23839401] are amended as follows.
 
-(2)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 4 (treatment of a declaration as an application for authorisation)—
+(2)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 4 (treatment of a declaration as an application for authorisation)—
 
 - (a) in paragraph (1)(a), omit “either”;
 - (b) for sub-paragraph (a)(i) and (ii) of paragraph (1), substitute—
@@ -573,16 +573,16 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(3)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 6(4)(a)(ii) (cases where a declaration is not to be treated as an application for authorisation) for “regulation 27” substitute “ regulation 27 or 27A ”.
+(3)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 6(4)(a)(ii) (cases where a declaration is not to be treated as an application for authorisation) for “regulation 27” substitute “ regulation 27 or 27A ”.
 
-(4)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 8 (determination of a declaration treated as an application for authorisation)—
+(4)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 8 (determination of a declaration treated as an application for authorisation)—
 
 - (a) in paragraph (1) omit “or by regulation 5 as an application for amendment of an authorisation,”;
 - (b) in paragraph (3)—
   - (i) in the words before paragraph (a) after “authorises” insert “ the making of that declaration. ”;
   - (ii) omit sub-paragraphs (a) and (b) and the preceding dash.
 
-(5)[^key-db2e95b5c706cdff9804dd17773b7941] After regulation 8 (determination of a declaration treated as an application for authorisation) insert—
+(5)[^c-db2e95b5c706cdff9804dd17773b7941] After regulation 8 (determination of a declaration treated as an application for authorisation) insert—
 
 > **8A. Determination of a declaration treated as an application for amendment**
 >
@@ -596,7 +596,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 >
 > (5) If the declaration for the free-circulation procedure is not accepted the application is to be treated as refused.
 
-(6)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 11 (retrospective authorisation)—
+(6)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 11 (retrospective authorisation)—
 
 - (a) in paragraph (3)(a)—
   - (i) for paragraph (ii) substitute—
@@ -621,22 +621,22 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
   >
   > where, in the opinion of an HMRC officer, there are exceptional circumstances justifying that earlier date.
   >
-  > (6) In all cases, the approval notification must not provide that the authorisation has effect from a date earlier than IP completion day[^key-2b64f9b4601dbdc90cb2cd085d6c35d7].
+  > (6) In all cases, the approval notification must not provide that the authorisation has effect from a date earlier than IP completion day[^c-2b64f9b4601dbdc90cb2cd085d6c35d7].
 
   .
 
-(7)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 15(6)(b) (approval to operate a customs warehouse) after “goods” insert “ declared for a storage procedure ”.
+(7)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 15(6)(b) (approval to operate a customs warehouse) after “goods” insert “ declared for a storage procedure ”.
 
-(8)[^key-f94cc827f04d7dadbe4a0ba135dabb43] In regulation 21 (authorisation to declare goods for an inward processing procedure)—
+(8)[^c-f94cc827f04d7dadbe4a0ba135dabb43] In regulation 21 (authorisation to declare goods for an inward processing procedure)—
 
 - (a) in paragraph (1)(a) for “the type of goods” substitute “ the goods, or type of goods, ”;
 - (b) omit paragraph (7).
 
-(9)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 22(1)(b) (authorisation to declare goods for an inward processing procedure – conditions and requirements) in the words before paragraph (i) for “is satisfied, on the basis of an examination of the available evidence, that the essential interests of producers of goods in the United Kingdom would not be” substitute “ has not notified the authorised person that the HMRC officer is of the opinion, on the basis of an examination of the available evidence, that the essential interests of producers of goods in the United Kingdom would be ”.
+(9)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 22(1)(b) (authorisation to declare goods for an inward processing procedure – conditions and requirements) in the words before paragraph (i) for “is satisfied, on the basis of an examination of the available evidence, that the essential interests of producers of goods in the United Kingdom would not be” substitute “ has not notified the authorised person that the HMRC officer is of the opinion, on the basis of an examination of the available evidence, that the essential interests of producers of goods in the United Kingdom would be ”.
 
 (10) In regulation 28 (authorisation to declare goods for an outward processing procedure)—
 
-- (a)[^key-f94cc827f04d7dadbe4a0ba135dabb43] for paragraph (1) substitute—
+- (a)[^c-f94cc827f04d7dadbe4a0ba135dabb43] for paragraph (1) substitute—
 
   > (1) An approval notification issued in relation to an authorisation to declare goods for an outward processing procedure must specify—
   >
@@ -644,13 +644,13 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
   > - (b) the processing to which the goods are to be subject.
 
   ;
-- (b)[^key-db2e95b5c706cdff9804dd17773b7941] in paragraph (2)(b), in the words before paragraph (i), for “is satisfied, on the basis of an examination of the available evidence, that the essential interests of producers of goods in the United Kingdom would not be” substitute “ has not notified the authorised person that the HMRC officer is of the opinion, on the basis of an examination of the available evidence, that the essential interests of producers of goods in the United Kingdom would be ”;
-- (c)[^key-f94cc827f04d7dadbe4a0ba135dabb43] in paragraph (6)—
+- (b)[^c-db2e95b5c706cdff9804dd17773b7941] in paragraph (2)(b), in the words before paragraph (i), for “is satisfied, on the basis of an examination of the available evidence, that the essential interests of producers of goods in the United Kingdom would not be” substitute “ has not notified the authorised person that the HMRC officer is of the opinion, on the basis of an examination of the available evidence, that the essential interests of producers of goods in the United Kingdom would be ”;
+- (c)[^c-f94cc827f04d7dadbe4a0ba135dabb43] in paragraph (6)—
   - (i) in sub-paragraph (a) for “to be used in a process” substitute “ to be processed outside the United Kingdom ”;
   - (ii) in sub-paragraph (c) for “process” substitute “ processing ”;
   - (iii) in sub-paragraph (d) omit “processed”.
 
-(11)[^key-f94cc827f04d7dadbe4a0ba135dabb43] In regulation 29 (standard exchange system)—
+(11)[^c-f94cc827f04d7dadbe4a0ba135dabb43] In regulation 29 (standard exchange system)—
 
 - (a) in paragraph (1)(b)—
   - (i) omit paragraph (i);
@@ -665,15 +665,15 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
       ;
 - (b) in paragraph (3) for “paragraph (1)(c)” substitute “ paragraph (1)(d) ”.
 
-(12)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 35(2)(b) (application for authorisation to declare goods for a temporary admission procedure) for “regulation 27” substitute “ regulation 27, 27A, 27B or 27C ”.
+(12)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 35(2)(b) (application for authorisation to declare goods for a temporary admission procedure) for “regulation 27” substitute “ regulation 27, 27A, 27B or 27C ”.
 
-(13)[^key-f94cc827f04d7dadbe4a0ba135dabb43] In regulation 37(1) (authorisation to declare goods for a temporary admission procedure) for sub–paragraph (a) substitute—
+(13)[^c-f94cc827f04d7dadbe4a0ba135dabb43] In regulation 37(1) (authorisation to declare goods for a temporary admission procedure) for sub–paragraph (a) substitute—
 
 > - (a) the goods, or the type of goods, to which the authorisation applies;
 
 .
 
-(14)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 38 (requirements relating to a temporary admission procedure)—
+(14)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 38 (requirements relating to a temporary admission procedure)—
 
 - (a) in paragraph (1)(c) omit “identified in the declaration of the goods for the procedure”;
 - (b) in paragraph (2)—
@@ -688,7 +688,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(15)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 42 (transfer of rights and obligations)—
+(15)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 42 (transfer of rights and obligations)—
 
 - (a) in paragraph (2)(a)—
   - (i) for paragraph (i) substitute—
@@ -703,7 +703,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
   - (i) at the end of paragraph (i) substitute “ and ” for “or”;
   - (ii) omit paragraph (3)(a)(ii).
 
-(16)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 43(4)(b) (discharge of a special Customs procedure – supplementary provision)—
+(16)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 43(4)(b) (discharge of a special Customs procedure – supplementary provision)—
 
 - (a) in paragraph (iii) after “Customs procedure” insert “ and HMRC accept the declaration ”;
 - (b) in paragraph (iv)—
@@ -715,7 +715,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(17)[^key-db2e95b5c706cdff9804dd17773b7941] In regulation 47(2) (treatment of equivalent goods) for paragraph (a) substitute—
+(17)[^c-db2e95b5c706cdff9804dd17773b7941] In regulation 47(2) (treatment of equivalent goods) for paragraph (a) substitute—
 
 > - (a) on the date on which the declaration of the goods for the procedure is accepted by HMRC—
 >   - (i) the goods are to be treated for the purposes of Part 1 of the Act as if they had been simultaneously released to, and discharged from, the procedure; and
@@ -723,18 +723,18 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 .
 
-### 13. Amendment of the Customs Transit Procedures (EU Exit) Regulations 2018[^key-dbbe1306b5b17f17db6b7ef332bcea75][^key-a41cdfea83d60beb85eabe15500b2771]
+### 13. Amendment of the Customs Transit Procedures (EU Exit) Regulations 2018[^c-dbbe1306b5b17f17db6b7ef332bcea75][^c-a41cdfea83d60beb85eabe15500b2771]
 
 (1) The Customs Transit Procedures (EU Exit) Regulations 2018 [^c23839411] are amended as follows.
 
 (2) In Schedule 1 (the common transit procedure)—
 
-- (a)[^key-a735ca0e0dc4e9fa256d6001a13cc3f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-a735ca0e0dc4e9fa256d6001a13cc3f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph 29 (end of the common transit procedure)—
   - (i) in sub-paragraph (1)(c), for “pursuant to regulations under TCTA, Schedule 6, paragraphs 6 to 9” substitute “ in accordance with Part 10 of the import duty regulations ”;
   - (ii) in sub-paragraph (2)—
     - (aa) after “for the purposes of paragraph 64” omit “except sub-paragraph (10)(d)”;
-    - (bb) for “or to pay a corresponding amount” substitute “ an amount of excise duty or (except for the purposes of paragraph 29(1D) and 64(10)(d)[^key-46995bf85448f69594cc450ea5c0a5a5]) to pay corresponding amounts ”;
+    - (bb) for “or to pay a corresponding amount” substitute “ an amount of excise duty or (except for the purposes of paragraph 29(1D) and 64(10)(d)[^c-46995bf85448f69594cc450ea5c0a5a5]) to pay corresponding amounts ”;
 - (c) in paragraph 58 (general interpretation and provision for air)—
   - (i) in the heading, omit “and provision for air”;
   - (ii) after sub-paragraph (1)(d), insert—
@@ -743,8 +743,8 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
     ;
 - (d) in paragraph 64 (guarantees: supplementary rules for the common transit procedure)—
-  - (i)[^key-789daeb07472ea37f83151cc17baf539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii)[^key-0e63afc929cdf4790e7c34cdc44c34fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-789daeb07472ea37f83151cc17baf539] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-0e63afc929cdf4790e7c34cdc44c34fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) in sub-paragraph (12), for “regulations under TCTA, Schedule 6, paragraphs 6 to 9 about guarantees” substitute “ Part 10 of the import duty regulations ”.
 
 (3) In Schedule 3 (the United Kingdom transit procedure)—
@@ -791,15 +791,15 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 - (b) in paragraph 10(1)(b), for “import duty” substitute “ an amount ”;
 - (c) in paragraph 12(1) (general provision for the purposes of this Schedule), after “(d),” insert “ (da), ”.
 
-### 14. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^key-c226c5eac0fe79fb9ee87ccc4c44a58a][^key-d1471022362f83aba8aa126ca15b0338]
+### 14. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^c-c226c5eac0fe79fb9ee87ccc4c44a58a][^c-d1471022362f83aba8aa126ca15b0338]
 
-(1)[^key-c226c5eac0fe79fb9ee87ccc4c44a58a] The Customs (Export) (EU Exit) Regulations 2019 [^c23839421] are amended as follows.
+(1)[^c-c226c5eac0fe79fb9ee87ccc4c44a58a] The Customs (Export) (EU Exit) Regulations 2019 [^c23839421] are amended as follows.
 
-(2)[^key-c226c5eac0fe79fb9ee87ccc4c44a58a] In regulation 2 (general interpretative provisions), in the definition of “export declaration” for “the” substitute “ a ”.
+(2)[^c-c226c5eac0fe79fb9ee87ccc4c44a58a] In regulation 2 (general interpretative provisions), in the definition of “export declaration” for “the” substitute “ a ”.
 
-(3)[^key-c226c5eac0fe79fb9ee87ccc4c44a58a] In regulation 6 (goods declared for a “common export procedure”) in paragraph (3)(b)(iv) for “admissions” substitute “ admission ”.
+(3)[^c-c226c5eac0fe79fb9ee87ccc4c44a58a] In regulation 6 (goods declared for a “common export procedure”) in paragraph (3)(b)(iv) for “admissions” substitute “ admission ”.
 
-(4)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 9 (interpretation of Part)—
+(4)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 9 (interpretation of Part)—
 
 - (a) the existing provisions become paragraph (1) of that regulation;
 - (b) in that paragraph—
@@ -836,7 +836,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(5)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 16 (goods excluded from export declarations made orally)—
+(5)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 16 (goods excluded from export declarations made orally)—
 
 - (a) at the end of paragraph (c), omit “or”;
 - (b) at the end of paragraph (d), insert “ ; or ”;
@@ -846,7 +846,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(6)[^key-1ca2a4dc0c38d71b0af607d17b601352] After regulation 17 (export declarations made orally by an individual), insert—
+(6)[^c-1ca2a4dc0c38d71b0af607d17b601352] After regulation 17 (export declarations made orally by an individual), insert—
 
 > **17A. Export declarations that may be made orally or electronically**
 >
@@ -858,7 +858,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 >   - (i) contained within the individual's accompanied baggage; or
 >   - (ii) carried by a small vehicle driven by the individual, or in which the individual is a passenger;
 > - (d) the goods are not personal gifts or non-commercial goods;
-> - (e) the value of the goods does not exceed £1,500[^key-666e86d12ca7206e21120c469073b358];
+> - (e) the value of the goods does not exceed £1,500[^c-666e86d12ca7206e21120c469073b358];
 > - (f) the weight of the goods does not exceed 1000 kg;
 > - (g) the goods are not subject to excise duty; and
 > - (h) the goods are not subject to a restriction on export imposed under an enactment.
@@ -867,9 +867,9 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 .
 
-(7)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 18 (export declarations made orally: certain goods subject to temporary admissions procedure) for “admissions”, in each place it occurs, substitute “ admission ”.
+(7)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 18 (export declarations made orally: certain goods subject to temporary admissions procedure) for “admissions”, in each place it occurs, substitute “ admission ”.
 
-(8)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 20 (goods excluded from export declarations made by conduct)—
+(8)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 20 (goods excluded from export declarations made by conduct)—
 
 - (a) at the end of paragraph (c), omit “or”;
 - (b) at the end of paragraph (d), insert “ ; or ”;
@@ -879,7 +879,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(9)[^key-1ca2a4dc0c38d71b0af607d17b601352] After regulation 21 (export declarations by conduct: certain goods with pedestrians), insert—
+(9)[^c-1ca2a4dc0c38d71b0af607d17b601352] After regulation 21 (export declarations by conduct: certain goods with pedestrians), insert—
 
 > **21A. Export declarations that may be made by conduct or electronically**
 >
@@ -891,16 +891,16 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 >   - (i) contained within the individual's accompanied baggage; or
 >   - (ii) carried by a small vehicle driven by the individual, or in which the individual is a passenger;
 > - (d) the goods being exported are not personal gifts or non-commercial goods;
-> - (e) the value of the goods does not exceed £1,500[^key-d49f72d6693d12cc284a256b9678ce61];
+> - (e) the value of the goods does not exceed £1,500[^c-d49f72d6693d12cc284a256b9678ce61];
 > - (f) the weight of the goods does not exceed 1000 kg;
 > - (g) the goods are not subject to excise duty; and
 > - (h) the goods are not subject to a restriction on export imposed under an enactment.
 
 .
 
-(10)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 22(1)(a) (export declarations by conduct: certain goods in vehicles) at the beginning insert “ except where an individual is making an export declaration by conduct on behalf of another person under regulation 19(2), ”.
+(10)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 22(1)(a) (export declarations by conduct: certain goods in vehicles) at the beginning insert “ except where an individual is making an export declaration by conduct on behalf of another person under regulation 19(2), ”.
 
-(11)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 24 (export declarations by conduct: certain goods subject to temporary admissions procedure)—
+(11)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 24 (export declarations by conduct: certain goods subject to temporary admissions procedure)—
 
 - (a) for “admissions”, in each place it occurs, including the heading, substitute “ admission ”;
 - (b) at the beginning insert—
@@ -916,7 +916,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(12)[^key-1ca2a4dc0c38d71b0af607d17b601352] After regulation 24 (export declarations by conduct: certain goods subject to temporary admissions procedure) insert—
+(12)[^c-1ca2a4dc0c38d71b0af607d17b601352] After regulation 24 (export declarations by conduct: certain goods subject to temporary admissions procedure) insert—
 
 > **24A. Export declarations by conduct: pleasure craft**
 >
@@ -935,7 +935,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 .
 
-(13)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 28 (export declarations made orally: consequential provision)—
+(13)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 28 (export declarations made orally: consequential provision)—
 
 - (a) in paragraph (2)—
   - (i) in sub-paragraph (a) omit “and”;
@@ -953,7 +953,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
   .
 
-(14)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 29 (export declarations by conduct: consequential provisions)—
+(14)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 29 (export declarations by conduct: consequential provisions)—
 
 - (a) after paragraph (3) insert—
 
@@ -990,7 +990,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
     ;
 - (d) in paragraph (6) after “export declaration” insert “ , or notification of discharge from a common export procedure, ”.
 
-(15)[^key-1ca2a4dc0c38d71b0af607d17b601352] After regulation 29 (export declarations by conduct: consequential provision), insert—
+(15)[^c-1ca2a4dc0c38d71b0af607d17b601352] After regulation 29 (export declarations by conduct: consequential provision), insert—
 
 > **29A. Export declarations: miscellaneous consequential provisions**
 >
@@ -1028,7 +1028,7 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 >
 > (3) The supplementary conditions are—
 >
-> - (a) the value of the goods exceeds £1,500[^key-95748f229f6f9dc22d5b93f27f364721];
+> - (a) the value of the goods exceeds £1,500[^c-95748f229f6f9dc22d5b93f27f364721];
 > - (b) the weight of the goods exceeds 1000 kg;
 > - (c) the goods are subject to excise duty; or
 > - (d) the goods are subject to a restriction on export imposed under an enactment.
@@ -1055,9 +1055,9 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 .
 
-(16)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 39(2)(a) (export declarations for different types of goods in a consignment) for “import” substitute “ export ”.
+(16)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 39(2)(a) (export declarations for different types of goods in a consignment) for “import” substitute “ export ”.
 
-(17)[^key-1ca2a4dc0c38d71b0af607d17b601352] For regulation 47 substitute—
+(17)[^c-1ca2a4dc0c38d71b0af607d17b601352] For regulation 47 substitute—
 
 > **47. Amendment or withdrawal of export declarations**
 >
@@ -1088,9 +1088,9 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 .
 
-(18)[^key-1ca2a4dc0c38d71b0af607d17b601352] In regulation 54(5) (goods carried by RoRo vehicles to and from RoRo listed locations: modifications in relation to export declarations) for the words “one RoRo listed location for another” substitute “ information of a description specified in a notice given by HMRC ”.
+(18)[^c-1ca2a4dc0c38d71b0af607d17b601352] In regulation 54(5) (goods carried by RoRo vehicles to and from RoRo listed locations: modifications in relation to export declarations) for the words “one RoRo listed location for another” substitute “ information of a description specified in a notice given by HMRC ”.
 
-### 15. Amendment of the Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-1adba8f7f5463d90f8f1220913369937]
+### 15. Amendment of the Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-1adba8f7f5463d90f8f1220913369937]
 
 (1) The Customs (Import Duty, Transit and Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c23839441] are amended as follows.
 
@@ -1102,11 +1102,11 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 (5) Omit regulation 15(4) (transit guarantee requirement).
 
-### 16. Amendment of the Excise Goods (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019[^key-0fdf6deae18970d4129cb7bf9ac4a934]
+### 16. Amendment of the Excise Goods (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019[^c-0fdf6deae18970d4129cb7bf9ac4a934]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Amendment of the Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019[^key-7d2796ae76887a156f63c70ce5b661f9]
+### 17. Amendment of the Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019[^c-7d2796ae76887a156f63c70ce5b661f9]
 
 (1) The Taxation (Cross-border Trade) (Miscellaneous Provisions) (EU Exit) Regulations 2019 [^c23839481] are amended as follows.
 
@@ -1116,11 +1116,11 @@ Approval as an Authorised Banana Weigher is granted subject to the following con
 
 ## PART 6 — Penalties
 
-### 18. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^M_F_12a5e181-3b0d-4b8a-8583-787b97289dac][^key-55f4bf8ca21317a7a99970dc0791cf7f][^key-d83b625e1cd5f8d531ac947b0c0d5b55]
+### 18. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^M_F_12a5e181-3b0d-4b8a-8583-787b97289dac][^c-55f4bf8ca21317a7a99970dc0791cf7f][^c-d83b625e1cd5f8d531ac947b0c0d5b55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendment of the Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2018[^key-11aac9f17e0151cd87e10ae32d2ffbbd]
+### 19. Amendment of the Customs (Contravention of a Relevant Rule) (Amendment) (EU Exit) Regulations 2018[^c-11aac9f17e0151cd87e10ae32d2ffbbd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1178,109 +1178,109 @@ The Regulations will be covered by an overarching HMRC impact assessment (third 
 
 [^c23839201]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 64 was amended by paragraphs 3 and 66 of Schedule 7 to the [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), which inserted sub-section (1A).
 
-[^key-51fc7d66e5018f5a7f436c791b187175]: Commencement: Reg. 1 in force at 3.10.2019, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/a)
+[^c-51fc7d66e5018f5a7f436c791b187175]: Commencement: Reg. 1 in force at 3.10.2019, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/a)
 
-[^key-d00c7a3750231a31163dd71b637ec2a6]: Commencement: Reg. 2 not in force at made date, see reg. 1(2)
+[^c-d00c7a3750231a31163dd71b637ec2a6]: Commencement: Reg. 2 not in force at made date, see reg. 1(2)
 
-[^key-d2dc93778e3152f8bfc96a25a3eaea11]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d2dc93778e3152f8bfc96a25a3eaea11]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839211]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248), amended by [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108), 2019/326 and 2019/486.
 
-[^key-b1255181855e8104b34153882241761b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/1215/regulation/2) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b1255181855e8104b34153882241761b]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/1215/regulation/2) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-e22198ed631c5319dcf6143a36735c0a]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
+[^c-e22198ed631c5319dcf6143a36735c0a]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
 
-[^key-6c05bbe6882d18c8e30f40ff1eb02c33]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/1215/regulation/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6c05bbe6882d18c8e30f40ff1eb02c33]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/1215/regulation/3) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-3dbc85b77fd5b11f4fd78fb68424d0f9]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
+[^c-3dbc85b77fd5b11f4fd78fb68424d0f9]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
 
-[^key-3bd0ff9bbf1f9bed548a101fe626b7a8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/1215/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3bd0ff9bbf1f9bed548a101fe626b7a8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/1215/regulation/4) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-c39991b37775a6147555fd2ef1c67f41]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
+[^c-c39991b37775a6147555fd2ef1c67f41]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
 
-[^key-75eb0113355459438c7fba4d5f877885]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/1215/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-75eb0113355459438c7fba4d5f877885]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/1215/regulation/5) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-5fde532e6780f5baaaeed3376903fdd4]: Commencement: Reg. 6 not in force at made date, see reg. 1(2)
+[^c-5fde532e6780f5baaaeed3376903fdd4]: Commencement: Reg. 6 not in force at made date, see reg. 1(2)
 
-[^key-d2db3a401689866a73908ef70aa0bdd8]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d2db3a401689866a73908ef70aa0bdd8]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839221]: Marginal citation: The free-circulation procedure is defined in section 3(3)(a) of the Taxation (Cross-border Trade) Act 2018.
 
-[^key-51f76b8d84de124bd690e96cbbaf540e]: Textual amendment: Words in reg. 6(3)(a) in reg. 6(3) renumbered as reg. 6(3)(a) (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/a/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-51f76b8d84de124bd690e96cbbaf540e]: Textual amendment: Words in reg. 6(3)(a) in reg. 6(3) renumbered as reg. 6(3)(a) (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/a/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839231]: Marginal citation: Section 37(8) of the Taxation (Cross-border Trade) Act 2018 explains references to a person who makes a Customs declaration.
 
 [^c23839241]: Marginal citation: A person is authorised to use the simplified Customs declaration process if they are an authorised declarant within the meaning of regulation 31(1) of the Customs (Import Duty) (EU Exit) Regulations 2018 ([S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248), “**the Import Duty Regulations**”).
 
-[^key-956153a6cebc4edc07803252b500c2b6]: Textual amendment: Word in reg. 6(3)(a) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-956153a6cebc4edc07803252b500c2b6]: Textual amendment: Word in reg. 6(3)(a) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-98b569cdaba6971fc359c8965ed4e662]: Textual amendment: Reg. 6(3)(b) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/a/iii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-98b569cdaba6971fc359c8965ed4e662]: Textual amendment: Reg. 6(3)(b) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/a/iii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-87f2b6bb918f553972171f2b2033828e]: Textual amendment: Words in reg. 6(4)(a) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/b/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-87f2b6bb918f553972171f2b2033828e]: Textual amendment: Words in reg. 6(4)(a) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/b/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-b9dd1036e54162b2e60e94966ed20357]: Textual amendment: Words in reg. 6(4)(b) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/b/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-b9dd1036e54162b2e60e94966ed20357]: Textual amendment: Words in reg. 6(4)(b) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/b/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839251]: Marginal citation: See paragraphs 10 to 12 of Schedule 1 to the Taxation (Cross-border Trade) Act 2018 on acceptance of Customs declarations. Paragraph 11(2) of Schedule 1 provides that a notification under paragraph 11(1) constitutes the acceptance of a Customs declaration by HMRC which is applied to simplified declarations by regulation 32(3) of the Import Duty Regulations.
 
-[^key-d761f87c4da1b13b589d4b6be75a797b]: Textual amendment: Words in reg. 6(5) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(2)(a)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/2/a)
+[^c-d761f87c4da1b13b589d4b6be75a797b]: Textual amendment: Words in reg. 6(5) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(2)(a)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/2/a)
 
-[^key-10a7c50f07d7c58fcda762d649ac4a14]: Textual amendment: Word in reg. 6(5) omitted (30.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/2/b/i)
+[^c-10a7c50f07d7c58fcda762d649ac4a14]: Textual amendment: Word in reg. 6(5) omitted (30.12.2020) by virtue of [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/2/b/i)
 
 [^c23839261]: Marginal citation: Under section 3 of the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) the Union Customs Code, together with the Delegated and Implementing Regulation, will form part of domestic law on exit day as “retained EU law”. To the extent that retained EU law imposes, or otherwise applies, in relation to any EU customs duty it will cease to have effect in accordance with paragraph 1 of Schedule 7 to the Taxation (Cross-border Trade) Act 2018.
 
-[^key-7875515000b569344647b6534fe913a6]: Textual amendment: Word in reg. 6(5) inserted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/2/b/ii)
+[^c-7875515000b569344647b6534fe913a6]: Textual amendment: Word in reg. 6(5) inserted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/2/b/ii)
 
-[^key-386621e7190dfc5835ac19ef72ffd4c1]: Textual amendment: Words in reg. 6(5) inserted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/2/b/iii)
+[^c-386621e7190dfc5835ac19ef72ffd4c1]: Textual amendment: Words in reg. 6(5) inserted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/2/b/iii)
 
-[^key-fb518e8f61077a6e41bf2886daf443db]: Textual amendment: Words in reg. 6(5) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-fb518e8f61077a6e41bf2886daf443db]: Textual amendment: Words in reg. 6(5) inserted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [9(3)(c)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/3/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2b2b94f07896936d7124dae61a032b7a]: Commencement: Reg. 7 not in force at made date, see reg. 1(2)
+[^c-2b2b94f07896936d7124dae61a032b7a]: Commencement: Reg. 7 not in force at made date, see reg. 1(2)
 
-[^key-29668a31eedb8c5e5d56c4b94314002a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/1215/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-29668a31eedb8c5e5d56c4b94314002a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2019/1215/regulation/7) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839271]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9). Relevant amendments were made by paragraphs 142 and 145 of Schedule 7 to the [Taxation (Cross-border) Trade Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22). There are other amendments but none are relevant.
 
 [^c23839281]: Marginal citation: “Excise duty” is defined in section 53 of the [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22) for the purposes of Part 5 of that Act.
 
-[^key-0c52f0783627ca948a99d79310b8bf13]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/7/3) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/3)
+[^c-0c52f0783627ca948a99d79310b8bf13]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/7/3) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/3)
 
-[^key-39ad5fa4818d154dce8d4b629d744e80]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
+[^c-39ad5fa4818d154dce8d4b629d744e80]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
 
-[^key-541e13fffd644fe6a56b4549a794ea94]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/1215/regulation/8) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-541e13fffd644fe6a56b4549a794ea94]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2019/1215/regulation/8) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839291]: Marginal citation: [S.I. 1996/1406](https://www.legislation.gov.uk/uksi/1996/1406). Regulation 3 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
 [^c23839301]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). There are amendments to section 1 but none are relevant.
 
-[^key-80aa2337495422283102bf67e2ccfd51]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
+[^c-80aa2337495422283102bf67e2ccfd51]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
 
-[^key-d8aa810527ef6cf4b9f169f6e972d9ff]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/1215/regulation/9) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d8aa810527ef6cf4b9f169f6e972d9ff]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/1215/regulation/9) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839311]: Marginal citation: The definition of “vehicle” in section 1 of the [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2) was substituted by paragraphs 3 and 4(2)(l) of Schedule 7 to the Taxation (Cross-border Trade) Act 2018.
 
-[^key-42b8208873e8fe6f82dc298876f56771]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
+[^c-42b8208873e8fe6f82dc298876f56771]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2)
 
-[^key-dd1337588bae0729092607b011e13c11]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/1215/regulation/10) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-dd1337588bae0729092607b011e13c11]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2019/1215/regulation/10) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839321]: Marginal citation: [S.I. 2018/1247](https://www.legislation.gov.uk/uksi/2018/1247). Schedule 2 is amended by regulation 5(3) of [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326). This amendment is not yet in force and is being revoked by regulation 15(2) of these Regulations.
 
 [^c23839331]: Marginal citation: [S.I.2010/593](https://www.legislation.gov.uk/uksi/2010/593). There are amending instruments, but none is relevant.
 
-[^key-b33268279317fd2422af49d662675c40]: Commencement: Reg. 11(1)(10)(12)(16)(18) in force at 3.10.2019, see reg. 1(3)(b)
+[^c-b33268279317fd2422af49d662675c40]: Commencement: Reg. 11(1)(10)(12)(16)(18) in force at 3.10.2019, see reg. 1(3)(b)
 
-[^key-a11b9b463d5198e694f05dd97cd12815]: Commencement: Reg. 11(2)-(9)(11)(13)-(15)(17)(19)-(26) not in force at made date, see reg. 1(2)
+[^c-a11b9b463d5198e694f05dd97cd12815]: Commencement: Reg. 11(2)-(9)(11)(13)-(15)(17)(19)-(26) not in force at made date, see reg. 1(2)
 
 [^c23839341]: Marginal citation: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248), amended by [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108), 2019/326 and 2019/486.
 
-[^key-e4bbd008ffd43848ddc323d5f08e074e]: Commencement: Reg. 11(2)-(9), (11), (13)-(15), (17), (19)-(26) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-e4bbd008ffd43848ddc323d5f08e074e]: Commencement: Reg. 11(2)-(9), (11), (13)-(15), (17), (19)-(26) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839351]: Marginal citation: Paragraphs (3A) to (3D) were inserted by regulation 8 of [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326).
 
-[^key-bccea031e682a93cc7fb538b44fb4010]: Textual amendment: [Reg. 11(3)(c)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/3/c) omitted (31.12.2020) by virtue of [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7/2/a/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-bccea031e682a93cc7fb538b44fb4010]: Textual amendment: [Reg. 11(3)(c)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/3/c) omitted (31.12.2020) by virtue of [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7/2/a/i); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-25a5b98d8247fff978f7f0c199a7c80a]: Textual amendment: [Reg. 11(3)(g)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/3/g) omitted (31.12.2020) by virtue of [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7/2/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-25a5b98d8247fff978f7f0c199a7c80a]: Textual amendment: [Reg. 11(3)(g)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/3/g) omitted (31.12.2020) by virtue of [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7/2/a/ii); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-e66b8d33cd3a72dc4de13a5bd9b4e3bb]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/4) omitted (31.12.2020) by virtue of [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7/2/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-e66b8d33cd3a72dc4de13a5bd9b4e3bb]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/4) omitted (31.12.2020) by virtue of [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7/2/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839361]: Marginal citation: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765). There are amending instruments, but none is relevant.
 
@@ -1288,67 +1288,67 @@ The Regulations will be covered by an overarching HMRC impact assessment (third 
 
 [^c23839381]: Marginal citation: See also Title VII of the UCC concerning special procedures.
 
-[^key-01a3639c1a406b7157286c951d024210]: Textual amendment: Words in [reg. 11(14)(c)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/14/c) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/7/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-01a3639c1a406b7157286c951d024210]: Textual amendment: Words in [reg. 11(14)(c)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/14/c) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/7/2); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839391]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52); the definition of “small vehicle” was inserted by [S.I. 1996/1974](https://www.legislation.gov.uk/uksi/1996/1974).
 
-[^key-6eae2558ee3602b777411331df9fb08a]: Textual amendment: Reg. 11(17)(c) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [9(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/4/a/i)
+[^c-6eae2558ee3602b777411331df9fb08a]: Textual amendment: Reg. 11(17)(c) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [9(4)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/4/a/i)
 
-[^key-b9b1572e5ce39b8e3020c08e0a054294]: Textual amendment: Reg. 11(17)(d) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [9(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/4/a/ii)
+[^c-b9b1572e5ce39b8e3020c08e0a054294]: Textual amendment: Reg. 11(17)(d) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [9(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/4/a/ii)
 
-[^key-96a1317dcbb651d5bd0d004ed7c83e1a]: Textual amendment: Reg. 11(23) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [9(4)(b)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/4/b)
+[^c-96a1317dcbb651d5bd0d004ed7c83e1a]: Textual amendment: Reg. 11(23) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [9(4)(b)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/4/b)
 
-[^key-e7f9b7bef3c9ad20b6879d9b27c171d3]: Textual amendment: Words in reg. 11(25) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(4)(a)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/4/a)
+[^c-e7f9b7bef3c9ad20b6879d9b27c171d3]: Textual amendment: Words in reg. 11(25) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(4)(a)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/4/a)
 
-[^key-b923e31c1873db54749f7d4e936fddaa]: Textual amendment: Words in reg. 11(26) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(4)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/4/b)
+[^c-b923e31c1873db54749f7d4e936fddaa]: Textual amendment: Words in reg. 11(26) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(4)(b)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/4/b)
 
-[^key-f94cc827f04d7dadbe4a0ba135dabb43]: Commencement: Reg. 12(1)(8)(10)(a)(c)(11)(13) in force at 3.10.2019, see reg. 1(3)(c)
+[^c-f94cc827f04d7dadbe4a0ba135dabb43]: Commencement: Reg. 12(1)(8)(10)(a)(c)(11)(13) in force at 3.10.2019, see reg. 1(3)(c)
 
-[^key-e9056fe24d90228015a4f790f97061f4]: Commencement: Reg. 12(2)-(7)(9)(10)(b)(12)(14)-(17) not in force at made date, see reg. 1(2)
+[^c-e9056fe24d90228015a4f790f97061f4]: Commencement: Reg. 12(2)-(7)(9)(10)(b)(12)(14)-(17) not in force at made date, see reg. 1(2)
 
 [^c23839401]: Marginal citation: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249), amended by [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108) and [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486), there are other amending instruments which are not relevant.
 
-[^key-db2e95b5c706cdff9804dd17773b7941]: Commencement: [Reg. 12(2)-(7)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/2), [(9)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/9)[(10)(b)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/10/b)[(12)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/12), [(14)-(17)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/14) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-db2e95b5c706cdff9804dd17773b7941]: Commencement: [Reg. 12(2)-(7)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/2), [(9)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/9)[(10)(b)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/10/b)[(12)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/12), [(14)-(17)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/12/14) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-2b64f9b4601dbdc90cb2cd085d6c35d7]: Textual amendment: Words in reg. 12(6)(b) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(5)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/5)
+[^c-2b64f9b4601dbdc90cb2cd085d6c35d7]: Textual amendment: Words in reg. 12(6)(b) substituted (30.12.2020) by [The Customs (Transitional) (EU Exit) Regulations 2020 (S.I. 2020/1449)](https://www.legislation.gov.uk/uksi/2020/1449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/1/3), [17(5)](https://www.legislation.gov.uk/uksi/2020/1449/regulation/17/5)
 
-[^key-dbbe1306b5b17f17db6b7ef332bcea75]: Commencement: Reg. 13 not in force at made date, see reg. 1(2)
+[^c-dbbe1306b5b17f17db6b7ef332bcea75]: Commencement: Reg. 13 not in force at made date, see reg. 1(2)
 
-[^key-a41cdfea83d60beb85eabe15500b2771]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a41cdfea83d60beb85eabe15500b2771]: Commencement: Reg. 13 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839411]: Marginal citation: [S.I. 2018/1258](https://www.legislation.gov.uk/uksi/2018/1258). Relevant amendments were made by [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486). Paragraph 4(1) of Schedule 3 is amended by regulation 15(4) of [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326). This amendment is not yet in force and is being revoked by regulation 15(5) of these Regulations.
 
-[^key-a735ca0e0dc4e9fa256d6001a13cc3f3]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/13/2/a) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-a735ca0e0dc4e9fa256d6001a13cc3f3]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/13/2/a) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3/a); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-46995bf85448f69594cc450ea5c0a5a5]: Textual amendment: Words in [reg. 13(2)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/13/2/b/ii/bb) substituted (31.12.2020) by [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-46995bf85448f69594cc450ea5c0a5a5]: Textual amendment: Words in [reg. 13(2)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/13/2/b/ii/bb) substituted (31.12.2020) by [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3/b); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-789daeb07472ea37f83151cc17baf539]: Textual amendment: [Reg. 13(2)(d)(i)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/13/2/d/i) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-789daeb07472ea37f83151cc17baf539]: Textual amendment: [Reg. 13(2)(d)(i)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/13/2/d/i) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-0e63afc929cdf4790e7c34cdc44c34fa]: Textual amendment: [Reg. 13(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/13/2/d/ii) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0e63afc929cdf4790e7c34cdc44c34fa]: Textual amendment: [Reg. 13(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/13/2/d/ii) omitted (31.12.2020) by virtue of [The Customs Transit Procedures (Amendment, etc) (EU Exit) Regulations 2020 (S.I. 2020/1491)](https://www.legislation.gov.uk/uksi/2020/1491), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1491/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/1491/regulation/3/c); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-c226c5eac0fe79fb9ee87ccc4c44a58a]: Commencement: Reg. 14(1)-(3) in force at 3.10.2019, see reg. 1(3)(d)
+[^c-c226c5eac0fe79fb9ee87ccc4c44a58a]: Commencement: Reg. 14(1)-(3) in force at 3.10.2019, see reg. 1(3)(d)
 
-[^key-d1471022362f83aba8aa126ca15b0338]: Commencement: Reg. 14(4)-(18) not in force at made date, see reg. 1(2)
+[^c-d1471022362f83aba8aa126ca15b0338]: Commencement: Reg. 14(4)-(18) not in force at made date, see reg. 1(2)
 
 [^c23839421]: Marginal citation: [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108), amended by [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486).
 
-[^key-1ca2a4dc0c38d71b0af607d17b601352]: Commencement: Reg. 14(4)-(18) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1ca2a4dc0c38d71b0af607d17b601352]: Commencement: Reg. 14(4)-(18) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-666e86d12ca7206e21120c469073b358]: Textual amendment: Sum in reg. 14(6) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-666e86d12ca7206e21120c469073b358]: Textual amendment: Sum in reg. 14(6) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23839431]: Marginal citation: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14). Section 24 is cited for the meaning of “prescribed”. Section 26 was amended by paragraph 150 of Schedule 7 to the [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22).
 
-[^key-d49f72d6693d12cc284a256b9678ce61]: Textual amendment: Sum in reg. 14(9) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d49f72d6693d12cc284a256b9678ce61]: Textual amendment: Sum in reg. 14(9) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-95748f229f6f9dc22d5b93f27f364721]: Textual amendment: Sum in reg. 14(15) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-95748f229f6f9dc22d5b93f27f364721]: Textual amendment: Sum in reg. 14(15) substituted (31.12.2020) by [The Customs (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1552)](https://www.legislation.gov.uk/uksi/2020/1552), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1552/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-1adba8f7f5463d90f8f1220913369937]: Commencement: Reg. 15 in force at 3.10.2019, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/e)
+[^c-1adba8f7f5463d90f8f1220913369937]: Commencement: Reg. 15 in force at 3.10.2019, see [reg. 1(3)(e)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/e)
 
 [^c23839441]: Marginal citation: [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326).
 
-[^key-0fdf6deae18970d4129cb7bf9ac4a934]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/1215/regulation/16) omitted (1.1.2022) by virtue of [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4), [10](https://www.legislation.gov.uk/uksi/2021/1347/regulation/10)
+[^c-0fdf6deae18970d4129cb7bf9ac4a934]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2019/1215/regulation/16) omitted (1.1.2022) by virtue of [The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1347)](https://www.legislation.gov.uk/uksi/2021/1347), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4), [10](https://www.legislation.gov.uk/uksi/2021/1347/regulation/10)
 
-[^key-7d2796ae76887a156f63c70ce5b661f9]: Commencement: Reg. 17 in force at 3.10.2019, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/f)
+[^c-7d2796ae76887a156f63c70ce5b661f9]: Commencement: Reg. 17 in force at 3.10.2019, see [reg. 1(3)(f)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/3/f)
 
 [^c23839481]: Marginal citation: [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486).
 
@@ -1356,8 +1356,8 @@ The Regulations will be covered by an overarching HMRC impact assessment (third 
 
 [^M_F_12a5e181-3b0d-4b8a-8583-787b97289dac]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/1215/regulation/18) omitted (29.10.2020) by virtue of [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/3), [9(5)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/9/5)
 
-[^key-55f4bf8ca21317a7a99970dc0791cf7f]: Commencement: Reg. 18 not in force at made date, see reg. 1(2)
+[^c-55f4bf8ca21317a7a99970dc0791cf7f]: Commencement: Reg. 18 not in force at made date, see reg. 1(2)
 
-[^key-d83b625e1cd5f8d531ac947b0c0d5b55]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/1215/regulation/18) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-d83b625e1cd5f8d531ac947b0c0d5b55]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2019/1215/regulation/18) in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-11aac9f17e0151cd87e10ae32d2ffbbd]: Textual amendment: Reg. 19 omitted (31.12.2020) by virtue of [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-11aac9f17e0151cd87e10ae32d2ffbbd]: Textual amendment: Reg. 19 omitted (31.12.2020) by virtue of [The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020 (S.I. 2020/1234)](https://www.legislation.gov.uk/uksi/2020/1234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2020/1234/regulation/7/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

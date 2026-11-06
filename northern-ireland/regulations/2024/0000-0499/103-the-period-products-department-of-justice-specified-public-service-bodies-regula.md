@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of Justice, in exercise of the powers conferred by sections 2(1), (7)(a) and (b) and (13) of the Period Products (Free Provision) Act (Northern Ireland) 2022[^f00001] and after consultation in accordance with section 2(8)(a) of that Act, makes the following Regulations.
 
-## 1. Citation and commencement[^key-73e22344dcd152951163aeb3a31fbca6]
+## 1. Citation and commencement[^c-73e22344dcd152951163aeb3a31fbca6]
 
 Thes Regulations may be cited as the Period Products (Department of Justice Specified Public Service Bodies) Regulations (Northern Ireland) 2024 and shall come into operation on 12th May 2024.
 
-## 2. Interpretation[^key-62f85732dab725c6197e2d88a0dfdc6d]
+## 2. Interpretation[^c-62f85732dab725c6197e2d88a0dfdc6d]
 
 In these Regulations—
 
@@ -66,11 +66,11 @@ In these Regulations—
 > - “**the Act**” means the Period Products (Free Provision) Act (Northern Ireland) 2022; and
 > - “**visitors**” means persons with legitimate reason for being in the premises of a specified public service body, such as attending meetings or events or providing a function or service.
 
-## 3. Specified public service bodies[^key-3487de384210b799b5984b89f1c9c5b6]
+## 3. Specified public service bodies[^c-3487de384210b799b5984b89f1c9c5b6]
 
 The bodies listed in the Schedule are specified as public service as public service bodies to which the duty in section 2(3) of the Act applies.
 
-## 4. Description of premises and persons[^key-f85547a027f1040fb9e4cf5856431385]
+## 4. Description of premises and persons[^c-f85547a027f1040fb9e4cf5856431385]
 
 For the purposes of section 2(3) of the Act—
 
@@ -121,39 +121,39 @@ Naomi Long
 
 Minister of Justice
 
-## SCHEDULE — Specified Public Service Bodies[^key-dd8226eb405f4ed343d0d3bd7294736c]
+## SCHEDULE — Specified Public Service Bodies[^c-dd8226eb405f4ed343d0d3bd7294736c]
 
 Regulation 3
 
-[^key-dd8226eb405f4ed343d0d3bd7294736c]
+[^c-dd8226eb405f4ed343d0d3bd7294736c]
 
 Public Service of Northern Ireland (PSNI)
 
-[^key-dd8226eb405f4ed343d0d3bd7294736c]
+[^c-dd8226eb405f4ed343d0d3bd7294736c]
 
 Northern Ireland Policing Board (NIPB)
 
-[^key-dd8226eb405f4ed343d0d3bd7294736c]
+[^c-dd8226eb405f4ed343d0d3bd7294736c]
 
 Office of the Police Ombudsman for Northern Ireland (OPONI)
 
-[^key-dd8226eb405f4ed343d0d3bd7294736c]
+[^c-dd8226eb405f4ed343d0d3bd7294736c]
 
 Probation Board for Northern Ireland (PBNI)
 
-[^key-dd8226eb405f4ed343d0d3bd7294736c]
+[^c-dd8226eb405f4ed343d0d3bd7294736c]
 
 Chief Inspector of Criminal Justice in Northern Ireland (CJINI)
 
-[^key-dd8226eb405f4ed343d0d3bd7294736c]
+[^c-dd8226eb405f4ed343d0d3bd7294736c]
 
 Northern Ireland Police Fund (NIPF)
 
-[^key-dd8226eb405f4ed343d0d3bd7294736c]
+[^c-dd8226eb405f4ed343d0d3bd7294736c]
 
 Royal Ulster Constabulary GC Foundation (RUCGCF)
 
-[^key-dd8226eb405f4ed343d0d3bd7294736c]
+[^c-dd8226eb405f4ed343d0d3bd7294736c]
 
 Police Rehabilitation and Retraining Trust (PRRT)
 
@@ -169,9 +169,9 @@ These Regulations and Explanatory Memorandum have been produced and are availabl
 
 [^f00001]: Footnote: [2022 c.25 (N.I.)](https://www.legislation.gov.uk/nia/2022/25)
 
-[^key-73e22344dcd152951163aeb3a31fbca6]: Commencement: Reg. 1 in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)
+[^c-73e22344dcd152951163aeb3a31fbca6]: Commencement: Reg. 1 in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)
 
-[^key-62f85732dab725c6197e2d88a0dfdc6d]: Commencement: Reg. 2 in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)
+[^c-62f85732dab725c6197e2d88a0dfdc6d]: Commencement: Reg. 2 in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)
 
 [^f00002]: Footnote: [2000 c.32](https://www.legislation.gov.uk/ukpga/2000/32) \[to which there are amendments not relevant to these Regulations\]
 
@@ -185,8 +185,8 @@ These Regulations and Explanatory Memorandum have been produced and are availabl
 
 [^f00007]: Footnote: [S.R. 2014 No.163](https://www.legislation.gov.uk/nisr/2014/163)
 
-[^key-3487de384210b799b5984b89f1c9c5b6]: Commencement: Reg. 3 in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)
+[^c-3487de384210b799b5984b89f1c9c5b6]: Commencement: Reg. 3 in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)
 
-[^key-f85547a027f1040fb9e4cf5856431385]: Commencement: Reg. 4 in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)
+[^c-f85547a027f1040fb9e4cf5856431385]: Commencement: Reg. 4 in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)
 
-[^key-dd8226eb405f4ed343d0d3bd7294736c]: Commencement: Sch. in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)
+[^c-dd8226eb405f4ed343d0d3bd7294736c]: Commencement: Sch. in operation at 12.5.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/103/regulation/1)

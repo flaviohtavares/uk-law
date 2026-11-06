@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Sale and delivery of crossbows: supplementary provision[^key-7724d528277fef773f35bc63372e371f]
+## 38. Sale and delivery of crossbows: supplementary provision[^c-7724d528277fef773f35bc63372e371f]
 
 *Extent: E+W+S+N.I.*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7724d528277fef773f35bc63372e371f]: Commencement: S. 38 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(b)
+[^c-7724d528277fef773f35bc63372e371f]: Commencement: S. 38 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(b)

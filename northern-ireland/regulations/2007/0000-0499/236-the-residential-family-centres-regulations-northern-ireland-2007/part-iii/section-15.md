@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Placements[^key-c472ea5a7ca94153a6dd26b07dce92ab]
+## 15. Placements[^c-c472ea5a7ca94153a6dd26b07dce92ab]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c472ea5a7ca94153a6dd26b07dce92ab]: Commencement: Reg. 15 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-c472ea5a7ca94153a6dd26b07dce92ab]: Commencement: Reg. 15 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

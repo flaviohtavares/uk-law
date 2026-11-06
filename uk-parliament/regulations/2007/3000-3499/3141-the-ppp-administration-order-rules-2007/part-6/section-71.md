@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Procedure on appeal[^key-f15e4b00dae6980911a977e25d2c5a40]
+## 71. Procedure on appeal[^c-f15e4b00dae6980911a977e25d2c5a40]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f15e4b00dae6980911a977e25d2c5a40]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2007/3141/rule/71) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-f15e4b00dae6980911a977e25d2c5a40]: Commencement: [Rule 71](https://www.legislation.gov.uk/uksi/2007/3141/rule/71) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

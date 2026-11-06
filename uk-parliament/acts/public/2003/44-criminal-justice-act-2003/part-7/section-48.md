@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The effect of an order under section 43, *(Extent: E+W)* *(affected by repeal, see note)*[^key-4b77ec37cb851a5ffa6667678e84ba5b] 44 or 46(5) is that the trial to which the order relates is to be conducted without a jury.
+(1) The effect of an order under section 43, *(Extent: E+W)* *(affected by repeal, see note)*[^c-4b77ec37cb851a5ffa6667678e84ba5b] 44 or 46(5) is that the trial to which the order relates is to be conducted without a jury.
 
 (2) The effect of an order under section 46(3) is that the trial to which the order relates is to be continued without a jury.
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^c19124741]: Commencement: S. 48 partly in force; s. 48 not in force at Royal Assent, see s. 336(3); s. 48 in force for certain purposes at 24.7.2006 by [S.I. 2006/1835](https://www.legislation.gov.uk/uksi/2006/1835), [art. 2](https://www.legislation.gov.uk/uksi/2006/1835/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/2006/1835/article/3))
 
-[^key-4b77ec37cb851a5ffa6667678e84ba5b]: Textual amendment: Word in s. 48(1) repealed (E.W.) (1.5.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 148(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/148/4), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/10)
+[^c-4b77ec37cb851a5ffa6667678e84ba5b]: Textual amendment: Word in s. 48(1) repealed (E.W.) (1.5.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 148(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/148/4), [Sch. 10 Pt. 10](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/10)
 
 [^c19124721]: Textual amendment: S. 48(6): words substituted (31.3.2005) for s. 48(6)(a)(b) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2004/28/section/58/1), [59](https://www.legislation.gov.uk/ukpga/2004/28/section/59), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) {Sch. 10 para. 60} (with Sch. 12 para. 8); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(f)(g)](https://www.legislation.gov.uk/uksi/2005/579/article/3/f/g)

@@ -61,9 +61,9 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 - “**registered scheme**” means a scheme which is registered in accordance with section 153 of the Finance Act 2004 [^c1229504] (registration of pension schemes);
 - “relevant benefits”, before 6th April 2006, has the meaning given by section 612(1) of the Income and Corporation Taxes Act 1988 [^c1229505] and, from that date onwards, has the meaning given by section 393B of the Income Tax (Earnings and Pensions) Act 2003 [^c1229506] (relevant benefits);
 - “**relevant statutory scheme**” has the meaning given by section 611A of the Income and Corporation Taxes Act 1988 [^c1229507] (definition of relevant statutory scheme).
-- [^key-158ca285acebfbcf726319f92769a4af]...
+- [^c-158ca285acebfbcf726319f92769a4af]...
 
-## 1A. Application[^key-1be9f54d314d2251de1dbbd77df9bca1]
+## 1A. Application[^c-1be9f54d314d2251de1dbbd77df9bca1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,6 +136,6 @@ A Regulatory Impact Assessment has not been prepared for this instrument as it h
 
 [^c1229507]: Marginal citation: Section 611A was inserted by paragraph 15 of Schedule 6 to the Finance Act 1989, and was amended by paragraph 5 of Schedule 5 to the Finance Act 1999, and is repealed by Part 4 of Schedule 3 to the Finance Act 2004 with effect from 6th April 2006.
 
-[^key-158ca285acebfbcf726319f92769a4af]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2360/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [25(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/25/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-158ca285acebfbcf726319f92769a4af]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/2360/regulation/1/2) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [25(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/25/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1be9f54d314d2251de1dbbd77df9bca1]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2005/2360/regulation/1A) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [25(3)](https://www.legislation.gov.uk/uksi/2019/192/regulation/25/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1be9f54d314d2251de1dbbd77df9bca1]: Textual amendment: [Reg. 1A](https://www.legislation.gov.uk/uksi/2005/2360/regulation/1A) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [25(3)](https://www.legislation.gov.uk/uksi/2019/192/regulation/25/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

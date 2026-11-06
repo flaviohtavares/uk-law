@@ -34,13 +34,13 @@ An Act to make provision about pension schemes.
 
 \[9th August 2021\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-8c3ba65551f589a92609024013e10ea9]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-8c3ba65551f589a92609024013e10ea9]
 
-## PART 1 — Master Trusts[^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-7116ed443b5bcffe7f48a7ffb3b3b310][^key-3b1c44eac21610140494d92f690afc67][^key-d2d37b421fae2cf6b8fb5dfe31be225d][^key-fc813085b485cac9fd521aec8ffa5b50][^key-62e6d7f43611c6ff1b9dce7ebd25fdb3][^key-88bf90d612c410acdf60e2fc7ee1efbf][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996][^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+## PART 1 — Master Trusts[^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-7116ed443b5bcffe7f48a7ffb3b3b310][^c-3b1c44eac21610140494d92f690afc67][^c-d2d37b421fae2cf6b8fb5dfe31be225d][^c-fc813085b485cac9fd521aec8ffa5b50][^c-62e6d7f43611c6ff1b9dce7ebd25fdb3][^c-88bf90d612c410acdf60e2fc7ee1efbf][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996][^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 ### Definition of a Master Trust scheme
 
-#### 1. Master Trust schemes: definition[^key-87307341013e2f03872835f35f0b5404][^key-85c2a5ebe2db5fce2b1f3db9b8456151][^key-41785c0d968ec3782f6d6e5211a2fdd2][^key-70d5b43a7115a1ee2ddcda5b8c10dbce][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 1. Master Trust schemes: definition[^c-87307341013e2f03872835f35f0b5404][^c-85c2a5ebe2db5fce2b1f3db9b8456151][^c-41785c0d968ec3782f6d6e5211a2fdd2][^c-70d5b43a7115a1ee2ddcda5b8c10dbce][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 (1) In this Act, “Master Trust scheme” means an occupational pension scheme which—
 
@@ -49,7 +49,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - (c) is not used, or intended to be used, only by employers which are connected with each other, and
 - (d) is not a relevant public service pension scheme.
 
-(2)[^key-e523550b5698dc76c139f210a8d0f295] Where a Master Trust scheme provides money purchase benefits in conjunction with other benefits, references in the following provisions of this Act to a Master Trust scheme are to a Master Trust scheme only to the extent that it provides money purchase benefits, except as provided in section 39(2) to (4).
+(2)[^c-e523550b5698dc76c139f210a8d0f295] Where a Master Trust scheme provides money purchase benefits in conjunction with other benefits, references in the following provisions of this Act to a Master Trust scheme are to a Master Trust scheme only to the extent that it provides money purchase benefits, except as provided in section 39(2) to (4).
 
 (3) For the purposes of this section, an employer (“A”) is connected with another employer (“B”)—
 
@@ -65,7 +65,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) Regulations under this section are subject to the confirmatory procedure.
 
-#### 2. Relevant public service pension schemes[^key-2d976f2480a98108bab667576be55232][^key-f89a5cf8b449e95f817782f6abfcf943][^key-10a80bcc37a1a676b05d328970517592][^key-7e710b8b6e1a958446941109b21ff33a][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 2. Relevant public service pension schemes[^c-2d976f2480a98108bab667576be55232][^c-f89a5cf8b449e95f817782f6abfcf943][^c-10a80bcc37a1a676b05d328970517592][^c-7e710b8b6e1a958446941109b21ff33a][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 (1) For the purposes of section 1, a pension scheme is a relevant public service pension scheme if it falls within subsection (2) or (3).
 
@@ -81,7 +81,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### Authorisation: applications etc
 
-#### 3. Prohibition on operating a scheme unless authorised[^key-343d24d8a298967d00879f8c651c408a][^key-0b87bf005c77ec499651a90e2786cbf8][^key-b234afc18496718da8fd1e790400fe6a][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 3. Prohibition on operating a scheme unless authorised[^c-343d24d8a298967d00879f8c651c408a][^c-0b87bf005c77ec499651a90e2786cbf8][^c-b234afc18496718da8fd1e790400fe6a][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 (1) A person may not operate a Master Trust scheme unless the scheme is authorised.
 
@@ -98,7 +98,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 and references to a scheme that is “operating” or “in operation” are to be construed accordingly.
 
-#### 4. Application for authorisation[^key-a568a08e44df5bff0f7245f051bd62fc][^key-60bf1252c9812f2244dd2be95fbfd3f3][^key-5b28ece42dc59fad6896531bebd24acb][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 4. Application for authorisation[^c-a568a08e44df5bff0f7245f051bd62fc][^c-60bf1252c9812f2244dd2be95fbfd3f3][^c-5b28ece42dc59fad6896531bebd24acb][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 (1) The trustees of a Master Trust scheme may apply to the Regulator for authorisation.
 
@@ -123,7 +123,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Regulations under this section are subject to negative resolution.
 
-#### 5. Decision on application[^key-7621579e4166c1214c1162d27ac936b4][^key-10c8c5253feac741f8aa3972c8c6a406][^key-5b946aea0ef9ebe011a58bf028cfe58e][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 5. Decision on application[^c-7621579e4166c1214c1162d27ac936b4][^c-10c8c5253feac741f8aa3972c8c6a406][^c-5b946aea0ef9ebe011a58bf028cfe58e][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 (1) Where an application is made for authorisation of a Master Trust scheme under section 4, the Regulator must decide whether it is satisfied that the scheme meets the authorisation criteria.
 
@@ -153,16 +153,16 @@ and references to a scheme that is “operating” or “in operation” are to 
 - (a) the reasons for the decision, and
 - (b) details of the right of referral to the First-tier Tribunal or Upper Tribunal (see section 6).
 
-#### 6. Referral to Tribunal of refusal to grant authorisation[^key-8e57bbebe8e9a8bf18c41507fe347f28][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 6. Referral to Tribunal of refusal to grant authorisation[^c-8e57bbebe8e9a8bf18c41507fe347f28][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
-(1)[^key-13539bc9541af2f8c8cd9eff63e4ac0d][^key-8448f5583d7b2a750d3e517422d8f728] If the Regulator refuses to grant authorisation to a Master Trust scheme, the decision may be referred to the Tribunal by—
+(1)[^c-13539bc9541af2f8c8cd9eff63e4ac0d][^c-8448f5583d7b2a750d3e517422d8f728] If the Regulator refuses to grant authorisation to a Master Trust scheme, the decision may be referred to the Tribunal by—
 
 - (a) the trustees, or
 - (b) any other person who appears to the Tribunal to be directly affected by the decision.
 
-(2)[^key-8e57bbebe8e9a8bf18c41507fe347f28][^key-5cf38c078b6298293b0ec92c735e2f50][^key-033086b316f7a9695079e22932ef90e3][^key-26aec5462afddf17f59166c3e26da9e8] For the purposes of this Act, any reference in section 3 of the Tribunals, Courts and Enforcement Act 2007 to “any other Act” includes a reference to an Act of the Assembly.
+(2)[^c-8e57bbebe8e9a8bf18c41507fe347f28][^c-5cf38c078b6298293b0ec92c735e2f50][^c-033086b316f7a9695079e22932ef90e3][^c-26aec5462afddf17f59166c3e26da9e8] For the purposes of this Act, any reference in section 3 of the Tribunals, Courts and Enforcement Act 2007 to “any other Act” includes a reference to an Act of the Assembly.
 
-(3)[^key-13539bc9541af2f8c8cd9eff63e4ac0d][^key-8448f5583d7b2a750d3e517422d8f728] In this section—
+(3)[^c-13539bc9541af2f8c8cd9eff63e4ac0d][^c-8448f5583d7b2a750d3e517422d8f728] In this section—
 
 - “the Tribunal”, in relation to a referral under subsection (1), means—
   - (a) the First-tier Tribunal, in any case where it is determined by or under Tribunal Procedure Rules that the First-tier Tribunal is to hear the reference;
@@ -172,9 +172,9 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 ### Authorisation criteria
 
-#### 7. Fit and proper persons requirement[^key-4131847f4fc9aaa097f77cd5ccfe5f36][^key-448414e90be41782ebbc080b0436917a][^key-27ae5510f7c2cb362e26ff90c2d947d2][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-7116ed443b5bcffe7f48a7ffb3b3b310][^key-3b1c44eac21610140494d92f690afc67][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 7. Fit and proper persons requirement[^c-4131847f4fc9aaa097f77cd5ccfe5f36][^c-448414e90be41782ebbc080b0436917a][^c-27ae5510f7c2cb362e26ff90c2d947d2][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-7116ed443b5bcffe7f48a7ffb3b3b310][^c-3b1c44eac21610140494d92f690afc67][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) This section applies for the purposes of enabling the Regulator to decide whether it is satisfied that the persons involved in a Master Trust scheme are fit and proper persons (see section 5(3)(a)).
 
@@ -216,9 +216,9 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (8) Any subsequent regulations under subsection (4), and regulations under subsections (2) and (3), are subject to negative resolution.
 
-#### 8. Financial sustainability requirement[^key-ed9324c8c0fd7e081979be890b831de2][^key-37f6f6300aafc04f16d860b8d4af4442][^key-fc07527ee3f34cc85718b8f4ba22ed64][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-abd9c9ca3aaa117076d5d20322fcdca6][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-7116ed443b5bcffe7f48a7ffb3b3b310][^key-3b1c44eac21610140494d92f690afc67][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 8. Financial sustainability requirement[^c-ed9324c8c0fd7e081979be890b831de2][^c-37f6f6300aafc04f16d860b8d4af4442][^c-fc07527ee3f34cc85718b8f4ba22ed64][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-abd9c9ca3aaa117076d5d20322fcdca6][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-7116ed443b5bcffe7f48a7ffb3b3b310][^c-3b1c44eac21610140494d92f690afc67][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) This section applies for the purposes of enabling the Regulator to decide whether it is satisfied that a Master Trust scheme is financially sustainable (see section 5(3)(b)).
 
@@ -247,9 +247,9 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (7) Any subsequent regulations under this section are subject to negative resolution.
 
-#### 9. Financial sustainability requirement: business plan[^key-283efafc9945cac0c91cf5c3dc48b9e5][^key-3629fe1bff456f7361324fe440853b83][^key-f422d68da422e0028a061fb139d8b706][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-7116ed443b5bcffe7f48a7ffb3b3b310][^key-3b1c44eac21610140494d92f690afc67][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 9. Financial sustainability requirement: business plan[^c-283efafc9945cac0c91cf5c3dc48b9e5][^c-3629fe1bff456f7361324fe440853b83][^c-f422d68da422e0028a061fb139d8b706][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-7116ed443b5bcffe7f48a7ffb3b3b310][^c-3b1c44eac21610140494d92f690afc67][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) A scheme strategist of a Master Trust scheme must prepare a business plan for the scheme.
 
@@ -274,15 +274,15 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (8) Any subsequent regulations under this section are subject to negative resolution.
 
-#### 10. Scheme funder requirements[^key-e08c1f042b876afa518cdd3964de3a83][^key-c5c86e29675fba872455772b4fae3c39][^key-c8b51ca4c5a3c50a0e001a9ecc886faa][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-7116ed443b5bcffe7f48a7ffb3b3b310][^key-3b1c44eac21610140494d92f690afc67][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 10. Scheme funder requirements[^c-e08c1f042b876afa518cdd3964de3a83][^c-c5c86e29675fba872455772b4fae3c39][^c-c8b51ca4c5a3c50a0e001a9ecc886faa][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-7116ed443b5bcffe7f48a7ffb3b3b310][^c-3b1c44eac21610140494d92f690afc67][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) This section makes provision about the requirements that a scheme funder must meet in order for the scheme to meet the authorisation criterion mentioned in section 5(3)(c).
 
 (2) The first requirement is that the scheme funder is a body corporate or a partnership that is a legal person under the law by which it is governed.
 
-(3)[^key-498297c63ab4607092840b7e1c6ef494][^key-64cbe52cbb3da843f1b6c12b6fb54865][^key-d527298b561c8a468627a046fd016d3e][^key-1a2a66d655ff1d0b479a09d32e811494] The second requirement is that the scheme funder only carries out activities that relate directly to Master Trust schemes in relation to which it is a scheme funder or prospective scheme funder.
+(3)[^c-498297c63ab4607092840b7e1c6ef494][^c-64cbe52cbb3da843f1b6c12b6fb54865][^c-d527298b561c8a468627a046fd016d3e][^c-1a2a66d655ff1d0b479a09d32e811494] The second requirement is that the scheme funder only carries out activities that relate directly to Master Trust schemes in relation to which it is a scheme funder or prospective scheme funder.
 
 (4) The Department may make regulations providing for exceptions from the second requirement.
 
@@ -302,9 +302,9 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (9) Any subsequent regulations under subsection (4), and regulations under subsection (6), are subject to negative resolution.
 
-#### 11. Systems and processes requirements[^key-ed6d514792f74b981f5ff01b32214984][^key-152c69eb16f4d73c696ee641e565e4b2][^key-6c1c5e74ea5cd75aa3f0b603358eed87][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-7116ed443b5bcffe7f48a7ffb3b3b310][^key-3b1c44eac21610140494d92f690afc67][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 11. Systems and processes requirements[^c-ed6d514792f74b981f5ff01b32214984][^c-152c69eb16f4d73c696ee641e565e4b2][^c-6c1c5e74ea5cd75aa3f0b603358eed87][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-7116ed443b5bcffe7f48a7ffb3b3b310][^c-3b1c44eac21610140494d92f690afc67][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) This section applies for the purposes of enabling the Regulator to decide whether it is satisfied that the systems and processes used in running the scheme are sufficient to ensure that it is run effectively (see section 5(3)(d)).
 
@@ -332,9 +332,9 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Any subsequent regulations under this section are subject to negative resolution.
 
-#### 12. Continuity strategy requirement[^key-bd3a8b48d2fc595eb914ebb827e5d0ce][^key-497854e539ff8511e95f29211bc5507a][^key-2aee13a879a43a88061b2558e4eb5917][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-7116ed443b5bcffe7f48a7ffb3b3b310][^key-3b1c44eac21610140494d92f690afc67][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 12. Continuity strategy requirement[^c-bd3a8b48d2fc595eb914ebb827e5d0ce][^c-497854e539ff8511e95f29211bc5507a][^c-2aee13a879a43a88061b2558e4eb5917][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-7116ed443b5bcffe7f48a7ffb3b3b310][^c-3b1c44eac21610140494d92f690afc67][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) This section applies for the purposes of enabling the Regulator to decide whether it is satisfied that a Master Trust scheme has an adequate continuity strategy (see section 5(3)(e)).
 
@@ -367,7 +367,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 ### Ongoing supervision of Master Trust schemes
 
-#### 13. List of authorised schemes[^key-d8c89ecd9e81b9bfb29ac8107a2f7be3][^key-8401adba9b89f3ef77c57fdfe6db1dab][^key-943d43fef03483b8fe78badab4bd870c]
+#### 13. List of authorised schemes[^c-d8c89ecd9e81b9bfb29ac8107a2f7be3][^c-8401adba9b89f3ef77c57fdfe6db1dab][^c-943d43fef03483b8fe78badab4bd870c]
 
 (1) The Regulator must maintain and publish a list of authorised Master Trust schemes.
 
@@ -378,7 +378,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (3) The list may be included in the list maintained and published under section 13 of the Pension Schemes Act 2017.
 
-#### 14. Requirement to submit annual accounts[^key-28448125283f62a749a9a7138989fb8e][^key-b7a12262686008545a3b3014cadb9561][^key-def66ec6b0f59947fcaa8a7e2832d1ab]
+#### 14. Requirement to submit annual accounts[^c-28448125283f62a749a9a7138989fb8e][^c-b7a12262686008545a3b3014cadb9561][^c-def66ec6b0f59947fcaa8a7e2832d1ab]
 
 (1) The trustees of an authorised Master Trust scheme must send the scheme’s accounts to the Regulator.
 
@@ -395,7 +395,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Regulations under this section are subject to negative resolution.
 
-#### 15. Requirement to submit supervisory return[^key-471ef4d818312b7d7d6767b2f7dbbf8e][^key-c5d7d1e6436b49ab7097f8a3d879d75f][^key-54b8c8fd4cce8d7026efe5d38dbdc810]
+#### 15. Requirement to submit supervisory return[^c-471ef4d818312b7d7d6767b2f7dbbf8e][^c-c5d7d1e6436b49ab7097f8a3d879d75f][^c-54b8c8fd4cce8d7026efe5d38dbdc810]
 
 (1) The Regulator may by notice in writing require the trustees of an authorised Master Trust scheme to submit a supervisory return.
 
@@ -413,7 +413,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Regulations under this section are subject to negative resolution.
 
-#### 16. Duty to notify Regulator of significant events[^key-2755e9b938f62aa428395340724aa35a][^key-e7d57b572354762173bf9f625b1b016c][^key-8800b32e045e934a93a95002adf9a55f]
+#### 16. Duty to notify Regulator of significant events[^c-2755e9b938f62aa428395340724aa35a][^c-e7d57b572354762173bf9f625b1b016c][^c-8800b32e045e934a93a95002adf9a55f]
 
 (1) Where a person mentioned in subsection (2) becomes aware of the fact that a significant event has occurred in relation to an authorised Master Trust scheme, the person must give notice of that fact, in writing, to the Regulator as soon as reasonably practicable.
 
@@ -441,11 +441,11 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (8) Any subsequent regulations under subsection (3), and regulations under subsection (2), are subject to negative resolution.
 
-#### 17. Fixed penalty notice for failure to comply with request for information etc[^key-7c4f70ebf0c94b35a30acd1dbbfa8321][^key-4ef48bf38f0c4f26c1d450d5ab5f1ac8][^key-8dadb932f673c9160d1fab0fc263562d][^key-0c11102785d689fe1f5edadc311cb114][^key-c017aa5182cb07b5cd418fa49de3052b]
+#### 17. Fixed penalty notice for failure to comply with request for information etc[^c-7c4f70ebf0c94b35a30acd1dbbfa8321][^c-4ef48bf38f0c4f26c1d450d5ab5f1ac8][^c-8dadb932f673c9160d1fab0fc263562d][^c-0c11102785d689fe1f5edadc311cb114][^c-c017aa5182cb07b5cd418fa49de3052b]
 
-(1) The Regulator may issue a fixed penalty notice to a person if it considers that the person has failed to comply with—[^key-850c635e937b760994c31ba79bde5686]
+(1) The Regulator may issue a fixed penalty notice to a person if it considers that the person has failed to comply with—[^c-850c635e937b760994c31ba79bde5686]
 
-- (a) a notice issued under Article 67 of the 2005 Order (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator’s functions under or by virtue of this Part , or[^key-cf8719c05009d65f5a1cfcd0933bb350]
+- (a) a notice issued under Article 67 of the 2005 Order (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator’s functions under or by virtue of this Part , or[^c-cf8719c05009d65f5a1cfcd0933bb350]
 - (b) a notice issued under Article 67A of that Order (interviews), so far as relevant to the exercise of any of the Regulator’s functions under or by virtue of this Part.
 
 (2) A fixed penalty notice is a notice requiring the person to whom it is issued to pay a penalty within the period specified in the notice.
@@ -471,19 +471,19 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (6) Regulations under this section are subject to negative resolution.
 
-#### 18. Escalating penalty notice for failure to comply with request for information etc[^key-5ec2744714f5164d4a13d94f5d73d174][^key-df8b301773db5c5511e32b458a3597d9][^key-25dd7f473e82cc6af0354e359c0eb317][^key-9841ac005b8611c110e20da395681d15][^key-3e89406a2954e0caf54a03fc98e94ea6]
+#### 18. Escalating penalty notice for failure to comply with request for information etc[^c-5ec2744714f5164d4a13d94f5d73d174][^c-df8b301773db5c5511e32b458a3597d9][^c-25dd7f473e82cc6af0354e359c0eb317][^c-9841ac005b8611c110e20da395681d15][^c-3e89406a2954e0caf54a03fc98e94ea6]
 
-(1) The Regulator may issue an escalating penalty notice to a person if it considers that the person has failed to comply with—[^key-0090e706dbd28946aa092a4262c20fd4]
+(1) The Regulator may issue an escalating penalty notice to a person if it considers that the person has failed to comply with—[^c-0090e706dbd28946aa092a4262c20fd4]
 
-- (a) a notice issued under Article 67 of the 2005 Order (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator’s functions under or by virtue of this Part (an “Article 67 notice”) , or[^key-54b14d103ed22dc810828f6e8ac7fa44]
+- (a) a notice issued under Article 67 of the 2005 Order (provision of information to Regulator on request), so far as relevant to the exercise of any of the Regulator’s functions under or by virtue of this Part (an “Article 67 notice”) , or[^c-54b14d103ed22dc810828f6e8ac7fa44]
 - (b) a notice issued under Article 67A of that Order (interviews), so far as relevant to the exercise of any of the Regulator’s functions under or by virtue of this Part (an “Article 67A notice”).
 
 (2) But the Regulator may not issue an escalating penalty notice to a person if—
 
-- (a) the person has exercised the right of referral to a tribunal under section 44 of the Pensions (No. 2) Act (as applied by section 17(5)) in respect of a fixed penalty notice issued under section 17 in relation to the Article 67 notice or the Article 67A notice[^key-080d3b690035223a917ab05d51325949], and
+- (a) the person has exercised the right of referral to a tribunal under section 44 of the Pensions (No. 2) Act (as applied by section 17(5)) in respect of a fixed penalty notice issued under section 17 in relation to the Article 67 notice or the Article 67A notice[^c-080d3b690035223a917ab05d51325949], and
 - (b) the reference has not been determined.
 
-(3) An escalating penalty notice is a notice requiring the person to whom it is issued to pay an escalating penalty if the person fails to comply with an Article 67 notice or an Article 67A notice[^key-603ab2b0e060d9d69cd7fc42db48efb5].
+(3) An escalating penalty notice is a notice requiring the person to whom it is issued to pay an escalating penalty if the person fails to comply with an Article 67 notice or an Article 67A notice[^c-603ab2b0e060d9d69cd7fc42db48efb5].
 
 (4) An escalating penalty is a penalty which is calculated by reference to a daily rate.
 
@@ -495,10 +495,10 @@ and references to a scheme that is “operating” or “in operation” are to 
 (6) An escalating penalty notice must—
 
 - (a) specify the failure to which the penalty relates;
-- (b) state that, if the person fails to comply with the Article 67 notice or the Article 67A notice[^key-22696708f6494a405fcba98ad12a6964] before a specified date, the person will be liable to pay an escalating penalty;
+- (b) state that, if the person fails to comply with the Article 67 notice or the Article 67A notice[^c-22696708f6494a405fcba98ad12a6964] before a specified date, the person will be liable to pay an escalating penalty;
 - (c) state the daily rate of the escalating penalty and the way in which the penalty is calculated;
 - (d) state the date from which the escalating penalty will be payable, which must not be earlier than the date specified in the fixed penalty notice under section 17(4)(b);
-- (e) state that the escalating penalty will continue to be payable at the daily rate until the date on which the person complies with the Article 67 notice or the Article 67A notice[^key-3b168fcbcb963fb7000b6a0a2b908dd9] or such earlier date as the Regulator may determine;
+- (e) state that the escalating penalty will continue to be payable at the daily rate until the date on which the person complies with the Article 67 notice or the Article 67A notice[^c-3b168fcbcb963fb7000b6a0a2b908dd9] or such earlier date as the Regulator may determine;
 - (f) notify the person to whom the notice is issued of the review process under section 43 of the Pensions (No. 2) Act and the right of referral to a tribunal under section 44 of that Act (as applied by subsection (7)).
 
 (7) The following sections of the Pensions (No. 2) Act apply to an escalating penalty notice under this section as they apply to an escalating penalty notice under section 41 of that Act—
@@ -509,7 +509,7 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 (8) Regulations under this section are subject to negative resolution.
 
-#### 19. Withdrawal of authorisation[^key-5a05358489181b5b0bec5d90a01f8410][^key-ab801a5f56c3e469505e52ca109be5dd][^key-e0590eb25b7659d48db21312b35c5c92]
+#### 19. Withdrawal of authorisation[^c-5a05358489181b5b0bec5d90a01f8410][^c-ab801a5f56c3e469505e52ca109be5dd][^c-e0590eb25b7659d48db21312b35c5c92]
 
 (1) If the Regulator stops being satisfied that an authorised Master Trust scheme meets the authorisation criteria, it may decide to withdraw the scheme’s authorisation.
 
@@ -532,9 +532,9 @@ and references to a scheme that is “operating” or “in operation” are to 
 
 ### Triggering events: continuity
 
-#### 20. Triggering event: duties of trustees[^key-09a2c57df2db825a49b4ca44c0dc6963][^key-b6800c25b1ae0ad05bb44dd24b569716][^key-66a579042b9e6b96937101b350bd5c6f][^key-0748e1a920ce827399e44b0e21bc52b2][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 20. Triggering event: duties of trustees[^c-09a2c57df2db825a49b4ca44c0dc6963][^c-b6800c25b1ae0ad05bb44dd24b569716][^c-66a579042b9e6b96937101b350bd5c6f][^c-0748e1a920ce827399e44b0e21bc52b2][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 If a triggering event occurs in relation to a Master Trust scheme, the trustees must—
 
@@ -542,9 +542,9 @@ If a triggering event occurs in relation to a Master Trust scheme, the trustees 
 - (b) comply with the requirements of section 23 (continuity options), and
 - (c) comply with the requirements of section 26 (approval of implementation strategy).
 
-#### 21. Triggering events[^key-50ffb052869589933177e97e81c63356][^key-b6800c25b1ae0ad05bb44dd24b569716][^key-a2c9f54ac2366eaf96bba0d2246e947b][^key-e09e4bb6b99dfedbc076f99aa6bf90c3][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 21. Triggering events[^c-50ffb052869589933177e97e81c63356][^c-b6800c25b1ae0ad05bb44dd24b569716][^c-a2c9f54ac2366eaf96bba0d2246e947b][^c-e09e4bb6b99dfedbc076f99aa6bf90c3][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) A triggering event occurs in relation to a Master Trust scheme if—
 
@@ -564,7 +564,7 @@ If a triggering event occurs in relation to a Master Trust scheme, the trustees 
 
 - (a) the date on which the scheme is wound up;
 - (b) the date on which the trustees receive notification from the Regulator that the Regulator is satisfied that the triggering event has been resolved (see section 25);
-- (c)[^key-1d20548f2719de2a344618746da60362][^key-66bbd71f734080daf89865154a98c02d][^key-2cc7da086d1102215823befe79541c7f] in the case of an event within item 1 or 2 of the table (notice of decision to withdraw authorisation), the date on which it becomes clear that authorisation is not to be withdrawn (see section 34).
+- (c)[^c-1d20548f2719de2a344618746da60362][^c-66bbd71f734080daf89865154a98c02d][^c-2cc7da086d1102215823befe79541c7f] in the case of an event within item 1 or 2 of the table (notice of decision to withdraw authorisation), the date on which it becomes clear that authorisation is not to be withdrawn (see section 34).
 
 (6) The table is—
 
@@ -590,9 +590,9 @@ If a triggering event occurs in relation to a Master Trust scheme, the trustees 
 - “standard procedure” has the meaning given by Article 91 of that Order;
 - “warning notice” has the meaning given by Article 91(2)(a) of that Order.
 
-#### 22. Notification requirements[^key-164f3734486596e171f0193d1de7364b][^key-b6800c25b1ae0ad05bb44dd24b569716][^key-3e2e11d709b2b6f59639bf3b97da3a35][^key-4509e7c85de186d73fafbe1d25d0d3c4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 22. Notification requirements[^c-164f3734486596e171f0193d1de7364b][^c-b6800c25b1ae0ad05bb44dd24b569716][^c-3e2e11d709b2b6f59639bf3b97da3a35][^c-4509e7c85de186d73fafbe1d25d0d3c4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) Subsection (2) applies if an event within an item of the table in section 21(6) that is listed in the first column of the table in subsection (3) occurs in relation to a Master Trust scheme.
 
@@ -657,20 +657,20 @@ the person must notify the Regulator.
 
 (11) Regulations under this section are subject to negative resolution.
 
-#### 23. Continuity options[^key-8db22d71e595bde4083b1885d8885f98][^key-4edbf9e2555598333cf46feac99a55f0][^key-0c2856e9dce577f4ad13b336fd674d34][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 23. Continuity options[^c-8db22d71e595bde4083b1885d8885f98][^c-4edbf9e2555598333cf46feac99a55f0][^c-0c2856e9dce577f4ad13b336fd674d34][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) If a triggering event occurs in relation to a Master Trust scheme, the trustees must comply with the requirements of this section.
 
 (2) In the following cases, the trustees must pursue continuity option 1—
 
-- (a)[^key-7c059ea6821411bef6d6eaa054e75d7b][^key-a6a6388e83e829857b8151560498b8c6] the triggering event is within item 1 or 2 of the table in section 21(6), and the decision to withdraw authorisation has become final (see section 35);
+- (a)[^c-7c059ea6821411bef6d6eaa054e75d7b][^c-a6a6388e83e829857b8151560498b8c6] the triggering event is within item 1 or 2 of the table in section 21(6), and the decision to withdraw authorisation has become final (see section 35);
 - (b) the triggering event is within item 3 of that table.
 
 (3) In those cases, the trustees must pursue continuity option 1 even if—
 
-- (a)[^key-1904878b31af74ed4db2588a5ddffdf5] the triggering event within item 1, 2 or 3 occurs within the triggering event period for an earlier triggering event, and
+- (a)[^c-1904878b31af74ed4db2588a5ddffdf5] the triggering event within item 1, 2 or 3 occurs within the triggering event period for an earlier triggering event, and
 - (b) the trustees have already decided to pursue continuity option 2 in respect of the earlier triggering event.
 
 (4) In any other case, the trustees must decide whether to pursue continuity option 1 or continuity option 2.
@@ -688,9 +688,9 @@ in accordance with regulations under section 24.
 
 (8) Article 10 of the 1995 Order (civil penalties) applies to a person who fails to comply with a requirement imposed by this section.
 
-#### 24. Continuity option 1: transfer out and winding up[^key-81eabcc0465b456586e94416afe0e052][^key-9849d3f50eb0f189908098bd3de82089][^key-6e288f8ee830d90b298104f64e0ff761][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 24. Continuity option 1: transfer out and winding up[^c-81eabcc0465b456586e94416afe0e052][^c-9849d3f50eb0f189908098bd3de82089][^c-6e288f8ee830d90b298104f64e0ff761][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) Where the trustees of a Master Trust scheme are required, or decide, to pursue continuity option 1 they must—
 
@@ -746,9 +746,9 @@ in accordance with regulations under section 24.
 
 (11) Other regulations under this section are subject to negative resolution.
 
-#### 25. Continuity option 2: resolving triggering event[^key-4c648cc4e99138dae8e5cc8885690a8a][^key-53eb3a196e7db2be88bdfd311fa6579b][^key-25dd667d779b35daea6b26675ec8e50d][^key-82649e1e34fc35b9271ebfdf0c3c284f][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 25. Continuity option 2: resolving triggering event[^c-4c648cc4e99138dae8e5cc8885690a8a][^c-53eb3a196e7db2be88bdfd311fa6579b][^c-25dd667d779b35daea6b26675ec8e50d][^c-82649e1e34fc35b9271ebfdf0c3c284f][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) Where the trustees of a Master Trust scheme decide to pursue continuity option 2, they must attempt to resolve the triggering event.
 
@@ -766,15 +766,15 @@ in accordance with regulations under section 24.
 
 (8) Regulations under this section are subject to negative resolution.
 
-#### 26. Approval of implementation strategy[^key-450a4f2115d479ae0b4f6c9e646a2d8f][^key-3d852cc478ee9392059caed78d4b97db][^key-b520f8a57fbc53433240658955696308][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 26. Approval of implementation strategy[^c-450a4f2115d479ae0b4f6c9e646a2d8f][^c-3d852cc478ee9392059caed78d4b97db][^c-b520f8a57fbc53433240658955696308][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) If a triggering event occurs in relation to a Master Trust scheme, the trustees must submit an implementation strategy to the Regulator for approval.
 
-(2)[^key-dd02972bd3bbccd216a7c2e3f6e1d131][^key-fd5eb5343bf5224933220d51d8617c14] But in the case of a triggering event within item 1 or 2 of the table in section 21(6), the trustees must submit an implementation strategy only if the decision to withdraw authorisation has become final (see section 35).
+(2)[^c-dd02972bd3bbccd216a7c2e3f6e1d131][^c-fd5eb5343bf5224933220d51d8617c14] But in the case of a triggering event within item 1 or 2 of the table in section 21(6), the trustees must submit an implementation strategy only if the decision to withdraw authorisation has become final (see section 35).
 
-(3)[^key-da506728c4c15f4f56501ec86c7c471e] If a triggering event within item 1, 2 or 3 of the table in section 21(6) occurs within the triggering event period for an earlier triggering event—
+(3)[^c-da506728c4c15f4f56501ec86c7c471e] If a triggering event within item 1, 2 or 3 of the table in section 21(6) occurs within the triggering event period for an earlier triggering event—
 
 - (a) the trustees are not required to submit an implementation strategy in respect of the earlier triggering event, if they have not done so when the later triggering event occurs;
 - (b) any implementation strategy approved by the Regulator in respect of the earlier triggering event ceases to have effect when the later triggering event occurs.
@@ -793,9 +793,9 @@ in accordance with regulations under section 24.
 
 (10) Regulations under this section are subject to negative resolution.
 
-#### 27. Content of implementation strategy[^key-b33fc56de50e2203e3f57b39631a3501][^key-e5ff2f03b434800fc062a376bbe09d59][^key-9d3b85955d121003c09a493bccc43cd1][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 27. Content of implementation strategy[^c-b33fc56de50e2203e3f57b39631a3501][^c-e5ff2f03b434800fc062a376bbe09d59][^c-9d3b85955d121003c09a493bccc43cd1][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) This section applies for the purposes of enabling the Regulator to decide whether it is satisfied that an implementation strategy for a Master Trust scheme is adequate (see section 26(4)).
 
@@ -820,9 +820,9 @@ in accordance with regulations under section 24.
 
 (7) Regulations under this section are subject to negative resolution.
 
-#### 28. Duty to pursue continuity option[^key-bd6f288f903889d997e08e039affd0ff][^key-3c5fb8418b13c7eeef808d81e90bcbe9][^key-dc13e763b900d189001a9ea6cde836c3][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 28. Duty to pursue continuity option[^c-bd6f288f903889d997e08e039affd0ff][^c-3c5fb8418b13c7eeef808d81e90bcbe9][^c-dc13e763b900d189001a9ea6cde836c3][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) When the Regulator has notified the trustees of a Master Trust scheme that the implementation strategy is approved, the trustees must—
 
@@ -833,7 +833,7 @@ in accordance with regulations under section 24.
 
 (3) If—
 
-- (a)[^key-b2d950d02fee7d3f2bae546cd43220b8] a triggering event within item 1, 2 or 3 of the table in section 21(6) occurs within the triggering event period for an earlier triggering event, and
+- (a)[^c-b2d950d02fee7d3f2bae546cd43220b8] a triggering event within item 1, 2 or 3 of the table in section 21(6) occurs within the triggering event period for an earlier triggering event, and
 - (b) an implementation strategy has been approved by the Regulator in respect of the earlier triggering event,
 
 the trustees are not required to comply with subsections (1) and (2) in respect of the strategy approved in respect of the earlier triggering event.
@@ -851,9 +851,9 @@ to the extent that there is a conflict.
 
 (7) Regulations under this section are subject to negative resolution.
 
-#### 29. Prohibition on winding up except in accordance with continuity option 1[^key-9f9f453b5fc442d0a371a51cd26ddaa0][^key-39a5dbc5dab439c10c2be6a65a3274c6][^key-847d5b50e07bbd1d4a57f148cf6320a9][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 29. Prohibition on winding up except in accordance with continuity option 1[^c-9f9f453b5fc442d0a371a51cd26ddaa0][^c-39a5dbc5dab439c10c2be6a65a3274c6][^c-847d5b50e07bbd1d4a57f148cf6320a9][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) A person may only wind up a Master Trust scheme in accordance with continuity option 1 (see section 24).
 
@@ -863,9 +863,9 @@ to the extent that there is a conflict.
 
 (4) Article 10 of the 1995 Order (civil penalties) applies to a person who fails to comply with subsection (1).
 
-#### 30. Periodic reporting requirement[^key-57629948204a248e8591a3798c5bc47f][^key-1727b7e8e3014c1758da1624b5e89e67][^key-eece2bd9ddc27c7f5e1007a9ec826756][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 30. Periodic reporting requirement[^c-57629948204a248e8591a3798c5bc47f][^c-1727b7e8e3014c1758da1624b5e89e67][^c-eece2bd9ddc27c7f5e1007a9ec826756][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) During a triggering event period for a Master Trust scheme, the trustees must submit periodic reports to the Regulator.
 
@@ -884,9 +884,9 @@ to the extent that there is a conflict.
 
 (6) Regulations under this section are subject to negative resolution.
 
-#### 31. Pause orders[^key-57a95a6f39faa412bbf3469f62a91365][^key-3ebcbaca3582e108857be27adb85531c][^key-c8b41fe62c6b6aa30c6ecdb7889f2f4e][^key-45ab8482278a957c418856b1a1dc3bd0][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-d2d37b421fae2cf6b8fb5dfe31be225d][^key-faacce84b72399eedf31fa64c13e7ecd][^key-fc813085b485cac9fd521aec8ffa5b50][^key-62e6d7f43611c6ff1b9dce7ebd25fdb3][^key-88bf90d612c410acdf60e2fc7ee1efbf][^key-afe1914e102159932af561486099c7af][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996][^key-023f29ba25b400466be62c2b20292097][^key-2b0ca99e4b3f507a533ecab34b9f6c21][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-d2d37b421fae2cf6b8fb5dfe31be225d][^key-fc813085b485cac9fd521aec8ffa5b50][^key-62e6d7f43611c6ff1b9dce7ebd25fdb3][^key-88bf90d612c410acdf60e2fc7ee1efbf][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 31. Pause orders[^c-57a95a6f39faa412bbf3469f62a91365][^c-3ebcbaca3582e108857be27adb85531c][^c-c8b41fe62c6b6aa30c6ecdb7889f2f4e][^c-45ab8482278a957c418856b1a1dc3bd0][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-d2d37b421fae2cf6b8fb5dfe31be225d][^c-faacce84b72399eedf31fa64c13e7ecd][^c-fc813085b485cac9fd521aec8ffa5b50][^c-62e6d7f43611c6ff1b9dce7ebd25fdb3][^c-88bf90d612c410acdf60e2fc7ee1efbf][^c-afe1914e102159932af561486099c7af][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996][^c-023f29ba25b400466be62c2b20292097][^c-2b0ca99e4b3f507a533ecab34b9f6c21][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-d2d37b421fae2cf6b8fb5dfe31be225d][^c-fc813085b485cac9fd521aec8ffa5b50][^c-62e6d7f43611c6ff1b9dce7ebd25fdb3][^c-88bf90d612c410acdf60e2fc7ee1efbf][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) This section applies during a triggering event period for a Master Trust scheme.
 
@@ -929,9 +929,9 @@ to the extent that there is a conflict.
 - “pension credit” means a credit under Article 26(1)(b) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 or under section 29(1)(b) of the Welfare Reform and Pensions Act 1999;
 - “specified” means specified in the pause order.
 
-#### 32. Prohibition on new employers during triggering event period[^key-073943ce98970a87723222dba81cec64][^key-0e1af9f411dd8142bec177724426cba2][^key-53b50cdc40adef5d8cb9ec6a8edead04][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 32. Prohibition on new employers during triggering event period[^c-073943ce98970a87723222dba81cec64][^c-0e1af9f411dd8142bec177724426cba2][^c-53b50cdc40adef5d8cb9ec6a8edead04][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) During a triggering event period for a Master Trust scheme, neither the trustees nor a scheme funder nor a scheme strategist may—
 
@@ -942,9 +942,9 @@ to the extent that there is a conflict.
 
 (3) Article 10 of the 1995 Order (civil penalties) applies to a person who fails to comply with subsection (1).
 
-#### 33. Prohibition on increasing charges etc during triggering event period[^key-a21a98f66827b79a245af867ad4b8b1d][^key-98b103a205285c72ee0fcf0317964853][^key-b9555644895325a5526a12d48bb0be92][^key-c13371cb841e7dadfdafed675713f04e][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-92fa98c4303db71c13b3c42e585cc51d][^key-a88465138389e6a66d2b488522ae2f19][^key-b6083f1f92286a622a2640c0b460a4d6][^key-93b050f3dd1f4677f685ae356556f996]
+#### 33. Prohibition on increasing charges etc during triggering event period[^c-a21a98f66827b79a245af867ad4b8b1d][^c-98b103a205285c72ee0fcf0317964853][^c-b9555644895325a5526a12d48bb0be92][^c-c13371cb841e7dadfdafed675713f04e][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-92fa98c4303db71c13b3c42e585cc51d][^c-a88465138389e6a66d2b488522ae2f19][^c-b6083f1f92286a622a2640c0b460a4d6][^c-93b050f3dd1f4677f685ae356556f996]
 
-[^key-023f29ba25b400466be62c2b20292097][^key-0a7c0ae8f9cb3e122282703e0c166f36][^key-aa7e59fba4db9acf4b0b962afea0b968][^key-28c6f4096efdd30eeb08f1cff1845055]
+[^c-023f29ba25b400466be62c2b20292097][^c-0a7c0ae8f9cb3e122282703e0c166f36][^c-aa7e59fba4db9acf4b0b962afea0b968][^c-28c6f4096efdd30eeb08f1cff1845055]
 
 (1) During a triggering event period for a Master Trust scheme, the trustees must not—
 
@@ -994,9 +994,9 @@ to the extent that there is a conflict.
 
 ### Decisions on withdrawal of authorisation: timing
 
-#### 34. When it becomes clear that authorisation not to be withdrawn[^key-36b192aef249c0b4ef22ef1263557810][^key-8db93ce79f4201aa187ed1d303b28ca8][^key-889516bdbef0915776b809b1241acdeb][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 34. When it becomes clear that authorisation not to be withdrawn[^c-36b192aef249c0b4ef22ef1263557810][^c-8db93ce79f4201aa187ed1d303b28ca8][^c-889516bdbef0915776b809b1241acdeb][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
-(1)[^key-c50f492d622bb2affce8383246282369] Where a triggering event within item 1 or 2 of the table in section 21(6) occurs in relation to a Master Trust scheme, this section applies for determining the date on which it becomes clear that authorisation is not to be withdrawn (see section 21(5)(c)).
+(1)[^c-c50f492d622bb2affce8383246282369] Where a triggering event within item 1 or 2 of the table in section 21(6) occurs in relation to a Master Trust scheme, this section applies for determining the date on which it becomes clear that authorisation is not to be withdrawn (see section 21(5)(c)).
 
 (2) That date is the date given in relation to the event by the third column of the table in subsection (3), in the circumstances set out in relation to the event in the second column of that table.
 
@@ -1014,7 +1014,7 @@ to the extent that there is a conflict.
 - (a) Article 91(7) of the 2005 Order, in a case where the standard procedure applies;
 - (b) Article 94(13) of that Order, in a case where the special procedure applies.
 
-#### 35. When a decision to withdraw authorisation becomes final[^key-82231451d2c0bdc077adabda3804858d][^key-73ef4349c8a5f926c54ddefd8579954b][^key-68ebf64af6793607821b7892ab95ed64][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 35. When a decision to withdraw authorisation becomes final[^c-82231451d2c0bdc077adabda3804858d][^c-73ef4349c8a5f926c54ddefd8579954b][^c-68ebf64af6793607821b7892ab95ed64][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 (1) Where a triggering event within item 1 or 2 of the table in section 21(6) occurs in relation to a Master Trust scheme, this section applies for the purposes of determining the date on which a decision to withdraw authorisation becomes final (see sections 23(2)(a) and 26(2)).
 
@@ -1037,7 +1037,7 @@ to the extent that there is a conflict.
 
 ### Supplementary
 
-#### 36. Fraud compensation[^key-0e8685819bbbee6292872e4384a74392][^key-65ff694947dd7e3f95c8982d1498d9f6][^key-8034604e93a1fff31b54a06987dd5566][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 36. Fraud compensation[^c-0e8685819bbbee6292872e4384a74392][^c-65ff694947dd7e3f95c8982d1498d9f6][^c-8034604e93a1fff31b54a06987dd5566][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 (1) The Department may by regulations modify Articles 165 to 170 of the 2005 Order (fraud compensation) as they apply in relation to—
 
@@ -1046,13 +1046,13 @@ to the extent that there is a conflict.
 
 (2) Regulations under this section are subject to negative resolution.
 
-#### 37. Master trusts in operation on commencement: transitional provision[^key-5b9e5bb597e0011f329addb154d62d90][^key-2b140cd6e33cbdeb4eed65821425946d][^key-06c518f60168e26d11ef275f784e9946][^key-ca60b397ad05850788aba55ce49d3e5c][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 37. Master trusts in operation on commencement: transitional provision[^c-5b9e5bb597e0011f329addb154d62d90][^c-2b140cd6e33cbdeb4eed65821425946d][^c-06c518f60168e26d11ef275f784e9946][^c-ca60b397ad05850788aba55ce49d3e5c][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 Schedule 2 makes provision about the application of this Part in relation to Master Trust schemes that are in operation before the date on which section 3 comes into operation.
 
-#### 38. Minor and consequential amendments[^key-ba2e0e64351933c3851eb8344d3852a4][^key-22f09a9c2519a40855b959e4dc9a9768][^key-b60ac0b6859ca131d6b96b32dbc64f04][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 38. Minor and consequential amendments[^c-ba2e0e64351933c3851eb8344d3852a4][^c-22f09a9c2519a40855b959e4dc9a9768][^c-b60ac0b6859ca131d6b96b32dbc64f04][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
-(1)[^key-28d1ce128ef2253e3b3555a37be1a0c0] Schedule 3 makes minor and consequential amendments relating to this Part.
+(1)[^c-28d1ce128ef2253e3b3555a37be1a0c0] Schedule 3 makes minor and consequential amendments relating to this Part.
 
 (2) The Department may by regulations make provision that is consequential upon any provision of this Part.
 
@@ -1062,7 +1062,7 @@ Schedule 2 makes provision about the application of this Part in relation to Mas
 
 (5) Otherwise, regulations under this section are subject to negative resolution.
 
-#### 39. Interpretation of Part 1[^key-8dfa2b3070d3e20b65fc46a91a0be40e][^key-f9a2f2f859e58889434eec1e0abae185][^key-ddf43a97423b576d640ca9a9cfda78bc][^key-2ca82b65f72ee709db8883ca168bce22][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 39. Interpretation of Part 1[^c-8dfa2b3070d3e20b65fc46a91a0be40e][^c-f9a2f2f859e58889434eec1e0abae185][^c-ddf43a97423b576d640ca9a9cfda78bc][^c-2ca82b65f72ee709db8883ca168bce22][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 (1) In this Part—
 
@@ -1113,7 +1113,7 @@ as if references to winding up the scheme, or to the scheme being wound up, were
 
 (6) Regulations under this section are subject to the confirmatory procedure.
 
-#### 40. Regulations modifying application of Part 1[^key-e2b10daed4243e1cb99b38596a0426b9][^key-9e3032c415c2c78fe460b582de365fc4][^key-85d4f81a866ca67355373f2ddbc77bee][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4][^key-6905bb177d7aaae9b3c2a1e3ddca0e3f][^key-94bc41328e01f0a8d6680d19179c18c8][^key-130224adbc49e420b0dcc52045090f03][^key-108178d02e9d091a5b9b2f2b59e76ce4]
+#### 40. Regulations modifying application of Part 1[^c-e2b10daed4243e1cb99b38596a0426b9][^c-9e3032c415c2c78fe460b582de365fc4][^c-85d4f81a866ca67355373f2ddbc77bee][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4][^c-6905bb177d7aaae9b3c2a1e3ddca0e3f][^c-94bc41328e01f0a8d6680d19179c18c8][^c-130224adbc49e420b0dcc52045090f03][^c-108178d02e9d091a5b9b2f2b59e76ce4]
 
 (1) The Department may make regulations—
 
@@ -1132,7 +1132,7 @@ as if references to winding up the scheme, or to the scheme being wound up, were
 
 ## PART 2 — Administration Charges
 
-### 41. Power to override contract terms[^key-53f38a5e47c656e345289ff6a5d651f3]
+### 41. Power to override contract terms[^c-53f38a5e47c656e345289ff6a5d651f3]
 
 (1) Paragraph 6 of Schedule 18 to the Pensions Act (Northern Ireland) 2015 (power to restrict charges or impose requirements in relation to schemes: overriding provision) is amended as follows.
 
@@ -1152,7 +1152,7 @@ as if references to winding up the scheme, or to the scheme being wound up, were
 
 ## PART 3 — General
 
-### 42. Regulations: general provisions[^key-04ae0d465c6e271724e4b166b66c2046]
+### 42. Regulations: general provisions[^c-04ae0d465c6e271724e4b166b66c2046]
 
 (1) Regulations under Part 1 may—
 
@@ -1171,7 +1171,7 @@ as if references to winding up the scheme, or to the scheme being wound up, were
 
 (4) Any regulations to which subsection (3) applies shall not be subject to negative resolution, but shall be subject to the confirmatory procedure.
 
-### 43. General interpretation[^key-98a091987b82622f3cae81f1b4898a23]
+### 43. General interpretation[^c-98a091987b82622f3cae81f1b4898a23]
 
 (1) In this Act—
 
@@ -1187,7 +1187,7 @@ as if references to winding up the scheme, or to the scheme being wound up, were
 - (a) section 24(1) of the Interpretation Act (Northern Ireland) 1954 (service of documents by post), omit the word “registering”;
 - (b) section 39(2) of that Act (time beginning on a particular day), omit the word “not”.
 
-### 44. Commencement[^key-3e7b62617edc75ac5115b4c35fed0952]
+### 44. Commencement[^c-3e7b62617edc75ac5115b4c35fed0952]
 
 (1) The following provisions come into operation on the day after this Act is passed—
 
@@ -1207,7 +1207,7 @@ as if references to winding up the scheme, or to the scheme being wound up, were
 
 (3) The Department may by order make incidental, supplementary, transitional, transitory and saving provision in connection with the coming into operation of any provision of this Act.
 
-### 45. Short title[^key-6557d15f5b32c887ed623545ec170fce]
+### 45. Short title[^c-6557d15f5b32c887ed623545ec170fce]
 
 This Act may be cited as the Pension Schemes Act (Northern Ireland) 2021.
 
@@ -1219,7 +1219,7 @@ Section 31.
 
 ### Consequences of a pause order
 
-**1.**[^key-ea6bf5b569a91e88b1cd0c5c151e79df][^key-e74e0e0042764bc81b2989031abdab42][^key-e760a899f066fedc56e4773319b8f466] (1) If a pause order is made in relation to a Master Trust scheme, any action taken in contravention of the order is void, except to the extent that the action is validated by an order under paragraph 3.
+**1.**[^c-ea6bf5b569a91e88b1cd0c5c151e79df][^c-e74e0e0042764bc81b2989031abdab42][^c-e760a899f066fedc56e4773319b8f466] (1) If a pause order is made in relation to a Master Trust scheme, any action taken in contravention of the order is void, except to the extent that the action is validated by an order under paragraph 3.
 
 (2) A pause order in relation to a Master Trust scheme does not prevent the scheme being wound up in pursuance of an order under Article 11 of the 1995 Order (power to wind up occupational pension schemes).
 
@@ -1264,7 +1264,7 @@ in their application to a Master Trust scheme in relation to which a pause order
 
 ### Period of effect etc of a pause order
 
-**2.**[^key-440cfa22ab9731d756f398f8eea09649][^key-b0c8a2958528dd80dd13aec56687c38a][^key-1898c58805c44df510b0d6d5abbd6ef1] (1) A pause order must specify the period for which it has effect, which must not exceed three months.
+**2.**[^c-440cfa22ab9731d756f398f8eea09649][^c-b0c8a2958528dd80dd13aec56687c38a][^c-1898c58805c44df510b0d6d5abbd6ef1] (1) A pause order must specify the period for which it has effect, which must not exceed three months.
 
 (2) The Regulator may on one or more occasions by order extend the period for which the pause order has effect for a further three months.
 
@@ -1272,7 +1272,7 @@ in their application to a Master Trust scheme in relation to which a pause order
 
 ### Validation of action in contravention of pause order
 
-**3.**[^key-539c5c189042edc625bea72719d2baf7][^key-7a10926d50153f90af584b9f058f6b8b][^key-1457af68b69c848e5ed09add9726fda5] (1) If a pause order is made in relation to a Master Trust scheme, the Regulator may by order validate action taken in contravention of the order.
+**3.**[^c-539c5c189042edc625bea72719d2baf7][^c-7a10926d50153f90af584b9f058f6b8b][^c-1457af68b69c848e5ed09add9726fda5] (1) If a pause order is made in relation to a Master Trust scheme, the Regulator may by order validate action taken in contravention of the order.
 
 (2) Any of the following persons may apply to the Regulator for an order under this paragraph validating particular action—
 
@@ -1281,7 +1281,7 @@ in their application to a Master Trust scheme in relation to which a pause order
 
 ### Notification of trustees, scheme funders, scheme strategists, employers and members
 
-**4.**[^key-09d646d4c9453d746403a9ec4cd0c2da][^key-2765658a85d755db583ce611a5af6125][^key-66c340fbcaa4cf3a55e0b6f145fedb1d] (1) This paragraph applies where—
+**4.**[^c-09d646d4c9453d746403a9ec4cd0c2da][^c-2765658a85d755db583ce611a5af6125][^c-66c340fbcaa4cf3a55e0b6f145fedb1d] (1) This paragraph applies where—
 
 - (a) a pause order is made in relation to a Master Trust scheme, or
 - (b) an order is made under paragraph 3 validating action taken in contravention of a pause order made in relation to a scheme.
@@ -1302,7 +1302,7 @@ in their application to a Master Trust scheme in relation to which a pause order
 
 ### Supplementary provision
 
-**5.**[^key-8eeeb3380d3a3aa53927ef033353ef96][^key-244b9a6587ecc23c49822d561359827d][^key-98bd1b158668996961d7f0853623fb16] A pause order, or an order made under any of paragraphs 2, 3 or 4, may be made in relation to a Master Trust scheme—
+**5.**[^c-8eeeb3380d3a3aa53927ef033353ef96][^c-244b9a6587ecc23c49822d561359827d][^c-98bd1b158668996961d7f0853623fb16] A pause order, or an order made under any of paragraphs 2, 3 or 4, may be made in relation to a Master Trust scheme—
 
 - (a) in spite of any statutory provision or rule of law, or any rule of the scheme, which would otherwise operate to prevent the order being made, and
 - (b) without regard to any such statutory provision, rule of law or rule of the scheme as would otherwise require, or might otherwise be taken to require, the implementation of any procedure or the obtaining of any consent, with a view to making the order.
@@ -1313,7 +1313,7 @@ Section 37.
 
 ### Overview of Schedule
 
-**1.**[^key-a1e415aac728fe4d2f112743c847ed38][^key-6fd1fe1792b477a2ba1906c3bb80f3a7] (1) This Schedule modifies the application of Part 1 as it applies in relation to existing Master Trust schemes.
+**1.**[^c-a1e415aac728fe4d2f112743c847ed38][^c-6fd1fe1792b477a2ba1906c3bb80f3a7] (1) This Schedule modifies the application of Part 1 as it applies in relation to existing Master Trust schemes.
 
 (2) The modifications in paragraphs 2 to 7 have effect from the date on which this Act is passed.
 
@@ -1326,7 +1326,7 @@ Section 37.
 
 ### Modifications having effect from the date on which this Act is passed
 
-**2.**[^key-3efe4fded73284d87f73e3db9d00e0b9][^key-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 20 (triggering event: duties of trustees) has effect as if—
+**2.**[^c-3efe4fded73284d87f73e3db9d00e0b9][^c-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 20 (triggering event: duties of trustees) has effect as if—
 
 - (a) the existing text were numbered subsection (1);
 - (b) before that subsection there were inserted—
@@ -1336,9 +1336,9 @@ Section 37.
   ;
 - (c) in subsection (1), for “a Master Trust scheme” there were substituted “an existing Master Trust scheme on or after the commencement date”.
 
-**3.**[^key-3fb3f9bc6919a50a929bc382f5a8d3ac][^key-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 21 (triggering events) has effect as if, in subsection (5)(b) after “resolved” there were inserted “, or in a case where the Regulator is satisfied that the triggering event was resolved before the date on which this Act is passed, the date specified in that notification”.
+**3.**[^c-3fb3f9bc6919a50a929bc382f5a8d3ac][^c-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 21 (triggering events) has effect as if, in subsection (5)(b) after “resolved” there were inserted “, or in a case where the Regulator is satisfied that the triggering event was resolved before the date on which this Act is passed, the date specified in that notification”.
 
-**4.**[^key-89bc0e2d1cb581b8df589a85e2669a96][^key-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 22 (notification requirements) has effect as if for subsection (7) there were substituted—
+**4.**[^c-89bc0e2d1cb581b8df589a85e2669a96][^c-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 22 (notification requirements) has effect as if for subsection (7) there were substituted—
 
 > (7) A notification under this section must be given—
 >
@@ -1348,7 +1348,7 @@ Section 37.
 
 .
 
-**5.**[^key-959363798471529f05dbf8599dcdfd74][^key-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 25 (continuity option 2: resolving triggering event) has effect as if—
+**5.**[^c-959363798471529f05dbf8599dcdfd74][^c-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 25 (continuity option 2: resolving triggering event) has effect as if—
 
 - (a) for subsections (1) and (2) there were substituted—
 
@@ -1380,7 +1380,7 @@ Section 37.
   ;
 - (d) in subsection (5), at the end there were added “and, in a case where the Regulator is satisfied that the triggering event was resolved before the date on which this Act is passed, must specify in the notification the date on which the Regulator considers that the triggering event was resolved”.
 
-**6.**[^key-3837c5afea3035582229084c70bfa8ce][^key-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 33 (prohibition on increasing charges etc during triggering event period) has effect as if—
+**6.**[^c-3837c5afea3035582229084c70bfa8ce][^c-6fd1fe1792b477a2ba1906c3bb80f3a7] Section 33 (prohibition on increasing charges etc during triggering event period) has effect as if—
 
 - (a) at the beginning there were inserted—
 
@@ -1441,7 +1441,7 @@ Section 37.
   - (i) in the definition of “receiving scheme”, before “means” there were inserted “, other than in subsections (1A), (1B) and (1E), and subsection (3) as it applies to subsection (1E),”;
   - (ii) in the definition of “transferring scheme”, before “means” there were inserted “, other than in subsection (1A), and subsection (3) as it applies to subsection (1E),”.
 
-**7.**[^key-3efffab2342941de5138b1315a9f3ecc][^key-6fd1fe1792b477a2ba1906c3bb80f3a7] Part 1 applies to an existing Master Trust scheme as if after section 33 there were inserted—
+**7.**[^c-3efffab2342941de5138b1315a9f3ecc][^c-6fd1fe1792b477a2ba1906c3bb80f3a7] Part 1 applies to an existing Master Trust scheme as if after section 33 there were inserted—
 
 > **33A. Existing unauthorised schemes: liability for costs of winding up**
 >
@@ -1456,7 +1456,7 @@ Section 37.
 
 ### Modifications having effect from the commencement date
 
-**8.**[^key-f890dc6045961114298051ba962ed47a][^key-2a1322e6dd27b3a153ce7adb7859e6aa][^key-fc4de95a6dfe51a99fec73035d9ed971] Section 3 (prohibition on operating a Master Trust scheme unless authorised) has effect as if there were substituted—
+**8.**[^c-f890dc6045961114298051ba962ed47a][^c-2a1322e6dd27b3a153ce7adb7859e6aa][^c-fc4de95a6dfe51a99fec73035d9ed971] Section 3 (prohibition on operating a Master Trust scheme unless authorised) has effect as if there were substituted—
 
 > **3. Existing Master Trust schemes: need for authorisation**
 >
@@ -1511,7 +1511,7 @@ Section 37.
 
 .
 
-**9.**[^key-d70f0dea9a1ae98240366d5daf196f47][^key-96636001576fec8be13174be19f13b53][^key-a3978010c9ef163f463da49521fbe86a] Section 5 (decision on application) has effect as if at the end there were added—
+**9.**[^c-d70f0dea9a1ae98240366d5daf196f47][^c-96636001576fec8be13174be19f13b53][^c-a3978010c9ef163f463da49521fbe86a] Section 5 (decision on application) has effect as if at the end there were added—
 
 > (7) In the case of a notification under subsection (5) relating to an existing Master Trust scheme, the notification must also include an explanation that the decision is a triggering event for the purposes of sections 20 to 33A, and of the trustees’ duties under those sections.
 >
@@ -1521,7 +1521,7 @@ Section 37.
 
 .
 
-**10.**[^key-e0ed28b9d476698781bfd77b81152ca3][^key-0766707c6114b2c03bfb18d268066de1][^key-55fe3767b82b9ee89d0d0da5bb0bd7a8] Section 21 (triggering events) has effect as if—
+**10.**[^c-e0ed28b9d476698781bfd77b81152ca3][^c-0766707c6114b2c03bfb18d268066de1][^c-55fe3767b82b9ee89d0d0da5bb0bd7a8] Section 21 (triggering events) has effect as if—
 
 - (a) in subsection (2)—
   - (i) after “2” there were inserted “, 2A”;
@@ -1537,23 +1537,23 @@ Section 37.
   > | 2A. The Regulator notifies the trustees of an existing Master Trust scheme of the Regulator’s decision to refuse to grant the scheme authorisation. | The date on which the notification is given. |
 - (d) in that table, in the triggering event described in item 3, for “3(3)” there were substituted “3(4)”.
 
-**11.**[^key-f0105edf24fa7190f86e5191b67281f1][^key-21968166c8d359c0159033b369f52b64][^key-ee3c68d9b78b85a075fed23910290032] Section 23 (continuity options) has effect as if—
+**11.**[^c-f0105edf24fa7190f86e5191b67281f1][^c-21968166c8d359c0159033b369f52b64][^c-ee3c68d9b78b85a075fed23910290032] Section 23 (continuity options) has effect as if—
 
 - (a) in subsection (2)(a)—
   - (i) after “2” there were inserted “or 2A”;
   - (ii) after “withdraw” there were inserted “or refuse”;
 - (b) in subsection (3)(a), after “2” there were inserted “, 2A”.
 
-**12.**[^key-7faa2622ab3c9dcf5942a0cf3d9699bf][^key-c8414ade31e24dbe41038ee13f2268ed][^key-45c51988575f26d4e972bf8632328921] Section 26 (approval of implementation strategy) has effect as if—
+**12.**[^c-7faa2622ab3c9dcf5942a0cf3d9699bf][^c-c8414ade31e24dbe41038ee13f2268ed][^c-45c51988575f26d4e972bf8632328921] Section 26 (approval of implementation strategy) has effect as if—
 
 - (a) in subsection (2)—
   - (i) after “2” there were inserted “or 2A”;
   - (ii) after “withdraw” there were inserted “or refuse”;
 - (b) in subsection (3), after “2” there were inserted “, 2A”.
 
-**13.**[^key-c62622bb4dce582b9fcf5931dd28dbba][^key-0487d4ddfc04d23ad3637d7620324770][^key-94cc1a92a607b29844b20cdc4711910d] Section 28 (duty to pursue continuity option) has effect as if, in subsection (3)(a), after “2” there were inserted “, 2A”.
+**13.**[^c-c62622bb4dce582b9fcf5931dd28dbba][^c-0487d4ddfc04d23ad3637d7620324770][^c-94cc1a92a607b29844b20cdc4711910d] Section 28 (duty to pursue continuity option) has effect as if, in subsection (3)(a), after “2” there were inserted “, 2A”.
 
-**14.**[^key-094d8f7f733cb678ca1337b4efcaf5db][^key-be2394544eb8c51c6e1620f9f648dfab][^key-5996873387e586adecb9107299630079] Section 34 (when it becomes clear that authorisation not to be withdrawn) has effect as if—
+**14.**[^c-094d8f7f733cb678ca1337b4efcaf5db][^c-be2394544eb8c51c6e1620f9f648dfab][^c-5996873387e586adecb9107299630079] Section 34 (when it becomes clear that authorisation not to be withdrawn) has effect as if—
 
 - (a) in subsection (1)—
   - (i) after “2” there were inserted “or 2A”;
@@ -1570,7 +1570,7 @@ Section 37.
   ;
 - (f) in the section heading, at the end there were added “or refused”.
 
-**15.**[^key-8b8c3c92f6b4dfea84c7a1ac9c8812d3][^key-c0c03f36b0fb072d33ca217038c6866d][^key-207127dc1b7793ed12348bc1e62dd36b] Section 35 (when decision to withdraw authorisation becomes final) has effect as if—
+**15.**[^c-8b8c3c92f6b4dfea84c7a1ac9c8812d3][^c-c0c03f36b0fb072d33ca217038c6866d][^c-207127dc1b7793ed12348bc1e62dd36b] Section 35 (when decision to withdraw authorisation becomes final) has effect as if—
 
 - (a) in subsection (1)—
   - (i) after “2” there were inserted “or 2A”;
@@ -1602,9 +1602,9 @@ Section 38.
 
 ### [The Pension Schemes (Northern Ireland) Act 1993 (c. 49)](https://www.legislation.gov.uk/ukpga/1993/49)
 
-**1.**[^key-a8e0c94098a170a48b942f96298dbfe8] The Pension Schemes Act is amended as follows.
+**1.**[^c-a8e0c94098a170a48b942f96298dbfe8] The Pension Schemes Act is amended as follows.
 
-**2.**[^key-e96c45ccfd181ea819acf4b878e85e47] In section 96B(2) (meaning of “scheme rules”: occupational pension schemes)—
+**2.**[^c-e96c45ccfd181ea819acf4b878e85e47] In section 96B(2) (meaning of “scheme rules”: occupational pension schemes)—
 
 - (a) in paragraph (a), after sub-paragraph (xii) insert—
 
@@ -1617,7 +1617,7 @@ Section 38.
 
   .
 
-**3.**[^key-541e8498e8a04670e876549864326244] In section 97AI(7) (rights under section 97AB: further provision)—
+**3.**[^c-541e8498e8a04670e876549864326244] In section 97AI(7) (rights under section 97AB: further provision)—
 
 - (a) in paragraph (a), after sub-paragraph (xi) insert—
 
@@ -1632,7 +1632,7 @@ Section 38.
 
 ### [The Pensions (Northern Ireland) Order 1995 (NI 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
-**4.**[^key-7b3cdeea27839fcb298138b6988b5ca8] In Article 67A(9) of the 1995 Order (subsisting rights provisions: meaning of “scheme rules”)—
+**4.**[^c-7b3cdeea27839fcb298138b6988b5ca8] In Article 67A(9) of the 1995 Order (subsisting rights provisions: meaning of “scheme rules”)—
 
 - (a) in sub-paragraph (a), at the end add—
 
@@ -1647,9 +1647,9 @@ Section 38.
 
 ### [The Pensions (Northern Ireland) Order 2005 (NI 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-**5.**[^key-cd322ff45dc3da2200ea275ee47cbf8e][^key-3cabe71e895352f85a454cc1ffc4913c][^key-5ed24250605b5782667bcc332650156d][^key-ce4c530ec7ec5475d8481ffa7ae3705c] The 2005 Order is amended as follows.
+**5.**[^c-cd322ff45dc3da2200ea275ee47cbf8e][^c-3cabe71e895352f85a454cc1ffc4913c][^c-5ed24250605b5782667bcc332650156d][^c-ce4c530ec7ec5475d8481ffa7ae3705c] The 2005 Order is amended as follows.
 
-**6.**[^key-a87cbfdf4b9918818809bebd71dc96af] In Article 2(4) (interpretation: scheme rules)—
+**6.**[^c-a87cbfdf4b9918818809bebd71dc96af] In Article 2(4) (interpretation: scheme rules)—
 
 - (a) in sub-paragraph (a), at the end add—
 
@@ -1662,7 +1662,7 @@ Section 38.
 
   .
 
-**7.**[^key-e2af554b8ff52703ada7dfcab8a1a3fb][^key-2b6d0bb00e629cf558ba1116f80af690][^key-2870556c5accea8abf93170031379942] In Article 9 (improvement notices), in paragraph (7) (meaning of “pensions legislation”)—
+**7.**[^c-e2af554b8ff52703ada7dfcab8a1a3fb][^c-2b6d0bb00e629cf558ba1116f80af690][^c-2870556c5accea8abf93170031379942] In Article 9 (improvement notices), in paragraph (7) (meaning of “pensions legislation”)—
 
 - (a) in the opening words, after “by virtue of” insert “any of the following”;
 - (b) at the end add
@@ -1673,36 +1673,25 @@ Section 38.
 
   .
 
-**8.**[^key-02d67a0b70c67c4d371642b66f8a8b0f][^key-592993850d62afdaae81006620cc4df4][^key-1cb0f878d6a12a96d20e2b15060177c8] In Article 65 (duty to report breaches of the law) in paragraph (1), at the end add—
+**8.**[^c-02d67a0b70c67c4d371642b66f8a8b0f][^c-592993850d62afdaae81006620cc4df4][^c-1cb0f878d6a12a96d20e2b15060177c8] In Article 65 (duty to report breaches of the law) in paragraph (1), at the end add—
 
 > - (f) a scheme strategist or scheme funder of a Master Trust scheme within the meaning of Part 1 of the Pension Schemes Act (Northern Ireland) 2021 (see section 39 of that Act).
 
 .
 
-**9.**[^key-3794fe118a6746b16d52e31742f2b505][^key-32b0ecd6f90f933df8c1a84ae3996691][^key-ff7cdfc4357b11b7d5a623e796b0a380][^key-768d34532dfd479e100982bc7bf3a65f] In Article 67 (provision of information), in paragraph (1A), after “2008” insert “or Part 1 of the Pension Schemes Act (Northern Ireland) 2021”.
+**9.**[^c-3794fe118a6746b16d52e31742f2b505][^c-32b0ecd6f90f933df8c1a84ae3996691][^c-ff7cdfc4357b11b7d5a623e796b0a380][^c-768d34532dfd479e100982bc7bf3a65f] In Article 67 (provision of information), in paragraph (1A), after “2008” insert “or Part 1 of the Pension Schemes Act (Northern Ireland) 2021”.
 
-**10.**[^key-c7ba37c79fde4ef97af728360ce18c70][^key-952b1831f870884f7487a483cea8b2c1][^key-82fb22b5ff9d2478e63805a9c6b50663] In Article 68 (inspection of premises), in paragraph (2) before sub-paragraph (e) insert—
+**10.**[^c-c7ba37c79fde4ef97af728360ce18c70][^c-952b1831f870884f7487a483cea8b2c1][^c-82fb22b5ff9d2478e63805a9c6b50663] In Article 68 (inspection of premises), in paragraph (2) before sub-paragraph (e) insert—
 
 > - (dc) the Pension Schemes Act (Northern Ireland) 2021;
 
 .
 
-**11.**[^key-585dd16c6e8a9e759b52d225065edc66][^key-84f6927663862a1546b69aa258780bc1][^key-af1025abca433d0d43b749bbe4625ab6] In Article 72A (fixed penalty notices), in paragraph (6) after “2008” insert “or section 17 of the Pension Schemes Act (Northern Ireland) 2021”.
+**11.**[^c-585dd16c6e8a9e759b52d225065edc66][^c-84f6927663862a1546b69aa258780bc1][^c-af1025abca433d0d43b749bbe4625ab6] In Article 72A (fixed penalty notices), in paragraph (6) after “2008” insert “or section 17 of the Pension Schemes Act (Northern Ireland) 2021”.
 
-**12.**[^key-f7e97609fc798e3cf047b7fa93a131d8][^key-5312cca175efb04a601e414773341bcf][^key-21d928181458b5512016bbd4b33dfd8a] In Article 72B (escalating penalty notices), in paragraph (8) after “2008” insert “or section 18 of the Pension Schemes Act (Northern Ireland) 2021”.
+**12.**[^c-f7e97609fc798e3cf047b7fa93a131d8][^c-5312cca175efb04a601e414773341bcf][^c-21d928181458b5512016bbd4b33dfd8a] In Article 72B (escalating penalty notices), in paragraph (8) after “2008” insert “or section 18 of the Pension Schemes Act (Northern Ireland) 2021”.
 
-**13.**[^key-77d441640960cdda9767009f7b6b3a38][^key-06fd560b06f85d41ba0d7d45c40eaee2][^key-fe855749212b813cc6a2bab59e0ceb69] In Article 75 (offences of providing false or misleading information), in paragraph (1)(c)—
-
-- (a) omit the “or” at the end of head (iv); and
-- (b) in head (v), at the end add
-
-  > , or
-  >
-  > - (vi) the Pension Schemes Act (Northern Ireland) 2021.
-
-  .
-
-**14.**[^key-a642cafd1cc975c40955f290ed9f0d52][^key-dcfb8159791fd9a8e53c7c356333424c][^key-20e888061b6616286a72a5c46fd029a1] In Article 75A (financial penalty for providing false or misleading information to Regulator), in paragraph (2)(c)—
+**13.**[^c-77d441640960cdda9767009f7b6b3a38][^c-06fd560b06f85d41ba0d7d45c40eaee2][^c-fe855749212b813cc6a2bab59e0ceb69] In Article 75 (offences of providing false or misleading information), in paragraph (1)(c)—
 
 - (a) omit the “or” at the end of head (iv); and
 - (b) in head (v), at the end add
@@ -1713,7 +1702,18 @@ Section 38.
 
   .
 
-**15.**[^key-3d5041a635e72b992e80d85e819ade9b][^key-8c123a439a89a43311229ade9b77c840] (1) Article 85 (codes of practice) is amended as follows.
+**14.**[^c-a642cafd1cc975c40955f290ed9f0d52][^c-dcfb8159791fd9a8e53c7c356333424c][^c-20e888061b6616286a72a5c46fd029a1] In Article 75A (financial penalty for providing false or misleading information to Regulator), in paragraph (2)(c)—
+
+- (a) omit the “or” at the end of head (iv); and
+- (b) in head (v), at the end add
+
+  > , or
+  >
+  > - (vi) the Pension Schemes Act (Northern Ireland) 2021.
+
+  .
+
+**15.**[^c-3d5041a635e72b992e80d85e819ade9b][^c-8c123a439a89a43311229ade9b77c840] (1) Article 85 (codes of practice) is amended as follows.
 
 (2) In paragraph (2) (matters on which the Pensions Regulator must issue codes of practice), before sub-paragraph (k) insert—
 
@@ -1730,13 +1730,13 @@ Section 38.
 
 .
 
-**16.**[^key-c543ac058fd0e8041f9946862119419c][^key-cf2d13bc8fa09b18d7a6bd460240492a][^key-02ddc06c4b989b4ae8795c88abd473ce] In Article 88(2) (“regulatory functions” of the Regulator subject to procedure), before sub-paragraph (q) insert—
+**16.**[^c-c543ac058fd0e8041f9946862119419c][^c-cf2d13bc8fa09b18d7a6bd460240492a][^c-02ddc06c4b989b4ae8795c88abd473ce] In Article 88(2) (“regulatory functions” of the Regulator subject to procedure), before sub-paragraph (q) insert—
 
 > - (pe) the power to give a direction under section 26(7) of the Pension Schemes Act (Northern Ireland) 2021 (direction to submit implementation strategy), and
 
 .
 
-**17.**[^key-1977e7959fcfd65373529aba203ffd1c][^key-972cbf0b715808eccfa4ba66a87bcc83][^key-b8bd2fa60eae9be16e9574c8c3cbf828] In Article 92(5) (special procedure: applicable cases), before sub-paragraph (u) insert—
+**17.**[^c-1977e7959fcfd65373529aba203ffd1c][^c-972cbf0b715808eccfa4ba66a87bcc83][^c-b8bd2fa60eae9be16e9574c8c3cbf828] In Article 92(5) (special procedure: applicable cases), before sub-paragraph (u) insert—
 
 > - (tg) the power to withdraw authorisation of a Master Trust scheme under section 19 of the Pension Schemes Act (Northern Ireland) 2021;
 > - (th) the power to make a pause order under section 31 of that Act;
@@ -1746,14 +1746,14 @@ Section 38.
 
 .
 
-**18.**[^key-1e2240fd48e6aadcf6ac752f14c68c49][^key-4faa29cb4f69459f735c1fec0b19a892][^key-148e61aa591ab791f6525bf28d7a2371] In Schedule 1 (the Pensions Regulator), in Part 1 (delegation), in paragraph 2(2), after head (o) add—
+**18.**[^c-1e2240fd48e6aadcf6ac752f14c68c49][^c-4faa29cb4f69459f735c1fec0b19a892][^c-148e61aa591ab791f6525bf28d7a2371] In Schedule 1 (the Pensions Regulator), in Part 1 (delegation), in paragraph 2(2), after head (o) add—
 
 > - (p) the power to issue a fixed penalty notice under section 17 of thePension Schemes Act (Northern Ireland) 2021;
 > - (q) the power to issue an escalating penalty notice under section 18 of that Act.
 
 .
 
-**19.**[^key-6721e76943969af9b2dbaf82c027c6c1][^key-8a9e9a9c137c8410b16f500476e22880][^key-5868aa02c8a69b8fe901cd83f338a4ef] In Schedule 2 (functions exercisable by the Determinations Panel), before Part 5 insert—
+**19.**[^c-6721e76943969af9b2dbaf82c027c6c1][^c-8a9e9a9c137c8410b16f500476e22880][^c-5868aa02c8a69b8fe901cd83f338a4ef] In Schedule 2 (functions exercisable by the Determinations Panel), before Part 5 insert—
 
 > **PART 4B — Functions Under The Pension Schemes Act (Northern Ireland) 2021**
 >
@@ -1775,7 +1775,7 @@ Section 38.
 
 ### [The Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13)
 
-**20.**[^key-d7027bf41b1e13c00dbfdfb6ee7f22ab][^key-344dc32c1ba9905dbdd09b75c95756eb][^key-c167c2c30bf0b5146950eb7c341818d0] In section 31 of the Pensions (No. 2) Act (effect of freezing order or assessment period: qualifying schemes)—
+**20.**[^c-d7027bf41b1e13c00dbfdfb6ee7f22ab][^c-344dc32c1ba9905dbdd09b75c95756eb][^c-c167c2c30bf0b5146950eb7c341818d0] In section 31 of the Pensions (No. 2) Act (effect of freezing order or assessment period: qualifying schemes)—
 
 - (a) in subsection (3), in the definition of “freezing event”, at the end add—
 
@@ -1793,7 +1793,7 @@ Section 38.
 
 ### The Pension Schemes Act (Northern Ireland) 2021
 
-**21.**[^key-722ceb7479f69205954f936ee1ba1698][^key-1fde0204a257ce28e7394f7cd8d8faa4][^key-ec2b1e2a37b7980b0090b7280efb6b44] (1) Section 17 (fixed penalty notice for failure to comply with request for information) is amended as follows.
+**21.**[^c-722ceb7479f69205954f936ee1ba1698][^c-1fde0204a257ce28e7394f7cd8d8faa4][^c-ec2b1e2a37b7980b0090b7280efb6b44] (1) Section 17 (fixed penalty notice for failure to comply with request for information) is amended as follows.
 
 (2) In the heading, at the end insert “etc”.
 
@@ -1814,7 +1814,7 @@ Section 38.
 
   .
 
-**22.**[^key-587639e14a53ff177bdadbdcd0b81452][^key-a0a55aa5784ec0705b306a986485379c][^key-a8dae272a46349301ea383b0d8190307] (1) Section 18 (escalating penalty notice for failure to comply with request for information) is amended as follows.
+**22.**[^c-587639e14a53ff177bdadbdcd0b81452][^c-a0a55aa5784ec0705b306a986485379c][^c-a8dae272a46349301ea383b0d8190307] (1) Section 18 (escalating penalty notice for failure to comply with request for information) is amended as follows.
 
 (2) In the heading, at the end insert “etc”.
 
@@ -1846,586 +1846,586 @@ Section 38.
 
 ## Annotations
 
-[^key-8c3ba65551f589a92609024013e10ea9]: Modification: [Act](https://www.legislation.gov.uk/nia/2021/6) excluded in part (18.3.2026) by 2004 c. 12, s. 274ZZA(2) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
+[^c-8c3ba65551f589a92609024013e10ea9]: Modification: [Act](https://www.legislation.gov.uk/nia/2021/6) excluded in part (18.3.2026) by 2004 c. 12, s. 274ZZA(2) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
 
-[^key-6905bb177d7aaae9b3c2a1e3ddca0e3f]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) modified (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2022/121/regulation/28/2)
+[^c-6905bb177d7aaae9b3c2a1e3ddca0e3f]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) modified (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2022/121/regulation/28/2)
 
-[^key-94bc41328e01f0a8d6680d19179c18c8]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [27(1)](https://www.legislation.gov.uk/nisr/2022/121/regulation/27/1)
+[^c-94bc41328e01f0a8d6680d19179c18c8]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [27(1)](https://www.legislation.gov.uk/nisr/2022/121/regulation/27/1)
 
-[^key-130224adbc49e420b0dcc52045090f03]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) modified (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [28(4)(a)](https://www.legislation.gov.uk/nisr/2022/121/regulation/28/4/a)
+[^c-130224adbc49e420b0dcc52045090f03]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) modified (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [28(4)(a)](https://www.legislation.gov.uk/nisr/2022/121/regulation/28/4/a)
 
-[^key-108178d02e9d091a5b9b2f2b59e76ce4]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [26(1)](https://www.legislation.gov.uk/nisr/2022/121/regulation/26/1)
+[^c-108178d02e9d091a5b9b2f2b59e76ce4]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [26(1)](https://www.legislation.gov.uk/nisr/2022/121/regulation/26/1)
 
-[^key-7116ed443b5bcffe7f48a7ffb3b3b310]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [28](https://www.legislation.gov.uk/nisr/2022/234/regulation/28), [29](https://www.legislation.gov.uk/nisr/2022/234/regulation/29)
+[^c-7116ed443b5bcffe7f48a7ffb3b3b310]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [28](https://www.legislation.gov.uk/nisr/2022/234/regulation/28), [29](https://www.legislation.gov.uk/nisr/2022/234/regulation/29)
 
-[^key-3b1c44eac21610140494d92f690afc67]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [26](https://www.legislation.gov.uk/nisr/2022/234/regulation/26), [27](https://www.legislation.gov.uk/nisr/2022/234/regulation/27)
+[^c-3b1c44eac21610140494d92f690afc67]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [26](https://www.legislation.gov.uk/nisr/2022/234/regulation/26), [27](https://www.legislation.gov.uk/nisr/2022/234/regulation/27)
 
-[^key-d2d37b421fae2cf6b8fb5dfe31be225d]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) modified (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [28(4)(a)](https://www.legislation.gov.uk/nisr/2023/59/regulation/28/4/a)
+[^c-d2d37b421fae2cf6b8fb5dfe31be225d]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) modified (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [28(4)(a)](https://www.legislation.gov.uk/nisr/2023/59/regulation/28/4/a)
 
-[^key-fc813085b485cac9fd521aec8ffa5b50]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) modified (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2023/59/regulation/28/2)
+[^c-fc813085b485cac9fd521aec8ffa5b50]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) modified (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2023/59/regulation/28/2)
 
-[^key-62e6d7f43611c6ff1b9dce7ebd25fdb3]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [27(1)](https://www.legislation.gov.uk/nisr/2023/59/regulation/27/1)
+[^c-62e6d7f43611c6ff1b9dce7ebd25fdb3]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [27(1)](https://www.legislation.gov.uk/nisr/2023/59/regulation/27/1)
 
-[^key-88bf90d612c410acdf60e2fc7ee1efbf]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [26(1)](https://www.legislation.gov.uk/nisr/2023/59/regulation/26/1)
+[^c-88bf90d612c410acdf60e2fc7ee1efbf]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [26(1)](https://www.legislation.gov.uk/nisr/2023/59/regulation/26/1)
 
-[^key-92fa98c4303db71c13b3c42e585cc51d]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [26](https://www.legislation.gov.uk/nisr/2023/148/regulation/26)
+[^c-92fa98c4303db71c13b3c42e585cc51d]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [26](https://www.legislation.gov.uk/nisr/2023/148/regulation/26)
 
-[^key-a88465138389e6a66d2b488522ae2f19]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [28(4)(a)](https://www.legislation.gov.uk/nisr/2023/148/regulation/28/4/a)
+[^c-a88465138389e6a66d2b488522ae2f19]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [28(4)(a)](https://www.legislation.gov.uk/nisr/2023/148/regulation/28/4/a)
 
-[^key-b6083f1f92286a622a2640c0b460a4d6]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [27](https://www.legislation.gov.uk/nisr/2023/148/regulation/27)
+[^c-b6083f1f92286a622a2640c0b460a4d6]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [27](https://www.legislation.gov.uk/nisr/2023/148/regulation/27)
 
-[^key-93b050f3dd1f4677f685ae356556f996]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2023/148/regulation/28/2)
+[^c-93b050f3dd1f4677f685ae356556f996]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2023/148/regulation/28/2)
 
-[^key-023f29ba25b400466be62c2b20292097]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [26](https://www.legislation.gov.uk/nisr/2024/78/regulation/26)
+[^c-023f29ba25b400466be62c2b20292097]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [26](https://www.legislation.gov.uk/nisr/2024/78/regulation/26)
 
-[^key-0a7c0ae8f9cb3e122282703e0c166f36]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [28(4)(a)](https://www.legislation.gov.uk/nisr/2024/78/regulation/28/4/a)
+[^c-0a7c0ae8f9cb3e122282703e0c166f36]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [28(4)(a)](https://www.legislation.gov.uk/nisr/2024/78/regulation/28/4/a)
 
-[^key-aa7e59fba4db9acf4b0b962afea0b968]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [27](https://www.legislation.gov.uk/nisr/2024/78/regulation/27)
+[^c-aa7e59fba4db9acf4b0b962afea0b968]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) excluded (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [27](https://www.legislation.gov.uk/nisr/2024/78/regulation/27)
 
-[^key-28c6f4096efdd30eeb08f1cff1845055]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2024/78/regulation/28/2)
+[^c-28c6f4096efdd30eeb08f1cff1845055]: Modification: [Pt. 1](https://www.legislation.gov.uk/nia/2021/6/part/1) applied (with modifications) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [28(2)](https://www.legislation.gov.uk/nisr/2024/78/regulation/28/2)
 
-[^key-87307341013e2f03872835f35f0b5404]: Commencement: S. 1 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(i)
+[^c-87307341013e2f03872835f35f0b5404]: Commencement: S. 1 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(i)
 
-[^key-85c2a5ebe2db5fce2b1f3db9b8456151]: Modification: [S. 1](https://www.legislation.gov.uk/nia/2021/6/section/1) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-85c2a5ebe2db5fce2b1f3db9b8456151]: Modification: [S. 1](https://www.legislation.gov.uk/nia/2021/6/section/1) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-41785c0d968ec3782f6d6e5211a2fdd2]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2021/6/section/1) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-41785c0d968ec3782f6d6e5211a2fdd2]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2021/6/section/1) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-70d5b43a7115a1ee2ddcda5b8c10dbce]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2021/6/section/1) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-70d5b43a7115a1ee2ddcda5b8c10dbce]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2021/6/section/1) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-e523550b5698dc76c139f210a8d0f295]: Modification: [S. 1(2)](https://www.legislation.gov.uk/nia/2021/6/section/1/2) excluded (18.3.2026) by 2004 c. 12, s. 274ZZA(3) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
+[^c-e523550b5698dc76c139f210a8d0f295]: Modification: [S. 1(2)](https://www.legislation.gov.uk/nia/2021/6/section/1/2) excluded (18.3.2026) by 2004 c. 12, s. 274ZZA(3) (as inserted by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 60(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/60/5))
 
-[^key-2d976f2480a98108bab667576be55232]: Commencement: S. 2 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(i)
+[^c-2d976f2480a98108bab667576be55232]: Commencement: S. 2 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(i)
 
-[^key-f89a5cf8b449e95f817782f6abfcf943]: Modification: [S. 2](https://www.legislation.gov.uk/nia/2021/6/section/2) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-f89a5cf8b449e95f817782f6abfcf943]: Modification: [S. 2](https://www.legislation.gov.uk/nia/2021/6/section/2) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-10a80bcc37a1a676b05d328970517592]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2021/6/section/2) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-10a80bcc37a1a676b05d328970517592]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2021/6/section/2) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-7e710b8b6e1a958446941109b21ff33a]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2021/6/section/2) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-7e710b8b6e1a958446941109b21ff33a]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2021/6/section/2) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-343d24d8a298967d00879f8c651c408a]: Commencement: S. 3 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-343d24d8a298967d00879f8c651c408a]: Commencement: S. 3 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-0b87bf005c77ec499651a90e2786cbf8]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2021/6/section/3) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-0b87bf005c77ec499651a90e2786cbf8]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2021/6/section/3) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-b234afc18496718da8fd1e790400fe6a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2021/6/section/3) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-b234afc18496718da8fd1e790400fe6a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2021/6/section/3) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-a568a08e44df5bff0f7245f051bd62fc]: Commencement: S. 4 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-a568a08e44df5bff0f7245f051bd62fc]: Commencement: S. 4 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-60bf1252c9812f2244dd2be95fbfd3f3]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2021/6/section/4) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-60bf1252c9812f2244dd2be95fbfd3f3]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2021/6/section/4) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-5b28ece42dc59fad6896531bebd24acb]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2021/6/section/4) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-5b28ece42dc59fad6896531bebd24acb]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2021/6/section/4) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-7621579e4166c1214c1162d27ac936b4]: Commencement: S. 5 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-7621579e4166c1214c1162d27ac936b4]: Commencement: S. 5 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-10c8c5253feac741f8aa3972c8c6a406]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2021/6/section/5) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-10c8c5253feac741f8aa3972c8c6a406]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2021/6/section/5) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-5b946aea0ef9ebe011a58bf028cfe58e]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2021/6/section/5) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-5b946aea0ef9ebe011a58bf028cfe58e]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2021/6/section/5) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-8e57bbebe8e9a8bf18c41507fe347f28]: Commencement: S. 6(2) in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(ii)
+[^c-8e57bbebe8e9a8bf18c41507fe347f28]: Commencement: S. 6(2) in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(ii)
 
-[^key-13539bc9541af2f8c8cd9eff63e4ac0d]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/nia/2021/6/section/6/1)[(3)](https://www.legislation.gov.uk/nia/2021/6/section/6/3) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-13539bc9541af2f8c8cd9eff63e4ac0d]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/nia/2021/6/section/6/1)[(3)](https://www.legislation.gov.uk/nia/2021/6/section/6/3) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-8448f5583d7b2a750d3e517422d8f728]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/nia/2021/6/section/6/1)[(3)](https://www.legislation.gov.uk/nia/2021/6/section/6/3) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-8448f5583d7b2a750d3e517422d8f728]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/nia/2021/6/section/6/1)[(3)](https://www.legislation.gov.uk/nia/2021/6/section/6/3) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-5cf38c078b6298293b0ec92c735e2f50]: Modification: [S. 6(2)](https://www.legislation.gov.uk/nia/2021/6/section/6/2) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-5cf38c078b6298293b0ec92c735e2f50]: Modification: [S. 6(2)](https://www.legislation.gov.uk/nia/2021/6/section/6/2) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-033086b316f7a9695079e22932ef90e3]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/nia/2021/6/section/6/2) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-033086b316f7a9695079e22932ef90e3]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/nia/2021/6/section/6/2) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-26aec5462afddf17f59166c3e26da9e8]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/nia/2021/6/section/6/2) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-26aec5462afddf17f59166c3e26da9e8]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/nia/2021/6/section/6/2) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-4131847f4fc9aaa097f77cd5ccfe5f36]: Commencement: S. 7 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-4131847f4fc9aaa097f77cd5ccfe5f36]: Commencement: S. 7 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-448414e90be41782ebbc080b0436917a]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2021/6/section/7) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-448414e90be41782ebbc080b0436917a]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2021/6/section/7) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-27ae5510f7c2cb362e26ff90c2d947d2]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2021/6/section/7) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-27ae5510f7c2cb362e26ff90c2d947d2]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2021/6/section/7) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-ed9324c8c0fd7e081979be890b831de2]: Commencement: S. 8 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-ed9324c8c0fd7e081979be890b831de2]: Commencement: S. 8 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-37f6f6300aafc04f16d860b8d4af4442]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2021/6/section/8) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-37f6f6300aafc04f16d860b8d4af4442]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2021/6/section/8) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-fc07527ee3f34cc85718b8f4ba22ed64]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2021/6/section/8) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-fc07527ee3f34cc85718b8f4ba22ed64]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2021/6/section/8) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-abd9c9ca3aaa117076d5d20322fcdca6]: Modification: [S. 8](https://www.legislation.gov.uk/nia/2021/6/section/8) restricted (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [8(5)](https://www.legislation.gov.uk/nisr/2023/59/regulation/8/5)
+[^c-abd9c9ca3aaa117076d5d20322fcdca6]: Modification: [S. 8](https://www.legislation.gov.uk/nia/2021/6/section/8) restricted (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [8(5)](https://www.legislation.gov.uk/nisr/2023/59/regulation/8/5)
 
-[^key-283efafc9945cac0c91cf5c3dc48b9e5]: Commencement: S. 9 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-283efafc9945cac0c91cf5c3dc48b9e5]: Commencement: S. 9 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-3629fe1bff456f7361324fe440853b83]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2021/6/section/9) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-3629fe1bff456f7361324fe440853b83]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2021/6/section/9) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-f422d68da422e0028a061fb139d8b706]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2021/6/section/9) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-f422d68da422e0028a061fb139d8b706]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2021/6/section/9) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-e08c1f042b876afa518cdd3964de3a83]: Commencement: S. 10 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-e08c1f042b876afa518cdd3964de3a83]: Commencement: S. 10 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-c5c86e29675fba872455772b4fae3c39]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2021/6/section/10) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-c5c86e29675fba872455772b4fae3c39]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2021/6/section/10) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-c8b51ca4c5a3c50a0e001a9ecc886faa]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2021/6/section/10) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-c8b51ca4c5a3c50a0e001a9ecc886faa]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2021/6/section/10) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-498297c63ab4607092840b7e1c6ef494]: Modification: [S. 10(3)](https://www.legislation.gov.uk/nia/2021/6/section/10/3) restricted (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [8(4)](https://www.legislation.gov.uk/nisr/2022/121/regulation/8/4)
+[^c-498297c63ab4607092840b7e1c6ef494]: Modification: [S. 10(3)](https://www.legislation.gov.uk/nia/2021/6/section/10/3) restricted (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [8(4)](https://www.legislation.gov.uk/nisr/2022/121/regulation/8/4)
 
-[^key-64cbe52cbb3da843f1b6c12b6fb54865]: Modification: [S. 10(3)](https://www.legislation.gov.uk/nia/2021/6/section/10/3) restricted (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [8(5)](https://www.legislation.gov.uk/nisr/2022/234/regulation/8/5)
+[^c-64cbe52cbb3da843f1b6c12b6fb54865]: Modification: [S. 10(3)](https://www.legislation.gov.uk/nia/2021/6/section/10/3) restricted (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (revoked) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [8(5)](https://www.legislation.gov.uk/nisr/2022/234/regulation/8/5)
 
-[^key-d527298b561c8a468627a046fd016d3e]: Modification: [S. 10(3)](https://www.legislation.gov.uk/nia/2021/6/section/10/3) restricted (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [8(5)](https://www.legislation.gov.uk/nisr/2023/148/regulation/8/5)
+[^c-d527298b561c8a468627a046fd016d3e]: Modification: [S. 10(3)](https://www.legislation.gov.uk/nia/2021/6/section/10/3) restricted (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [8(5)](https://www.legislation.gov.uk/nisr/2023/148/regulation/8/5)
 
-[^key-1a2a66d655ff1d0b479a09d32e811494]: Modification: [S. 10(3)](https://www.legislation.gov.uk/nia/2021/6/section/10/3) restricted (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [8(5)](https://www.legislation.gov.uk/nisr/2024/78/regulation/8/5)
+[^c-1a2a66d655ff1d0b479a09d32e811494]: Modification: [S. 10(3)](https://www.legislation.gov.uk/nia/2021/6/section/10/3) restricted (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [8(5)](https://www.legislation.gov.uk/nisr/2024/78/regulation/8/5)
 
-[^key-ed6d514792f74b981f5ff01b32214984]: Commencement: S. 11 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-ed6d514792f74b981f5ff01b32214984]: Commencement: S. 11 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-152c69eb16f4d73c696ee641e565e4b2]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2021/6/section/11) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-152c69eb16f4d73c696ee641e565e4b2]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2021/6/section/11) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-6c1c5e74ea5cd75aa3f0b603358eed87]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2021/6/section/11) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-6c1c5e74ea5cd75aa3f0b603358eed87]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2021/6/section/11) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-bd3a8b48d2fc595eb914ebb827e5d0ce]: Commencement: S. 12 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-bd3a8b48d2fc595eb914ebb827e5d0ce]: Commencement: S. 12 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-497854e539ff8511e95f29211bc5507a]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2021/6/section/12) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-497854e539ff8511e95f29211bc5507a]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2021/6/section/12) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-2aee13a879a43a88061b2558e4eb5917]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2021/6/section/12) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-2aee13a879a43a88061b2558e4eb5917]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2021/6/section/12) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-d8c89ecd9e81b9bfb29ac8107a2f7be3]: Commencement: S. 13 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-d8c89ecd9e81b9bfb29ac8107a2f7be3]: Commencement: S. 13 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-8401adba9b89f3ef77c57fdfe6db1dab]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2021/6/section/13) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-8401adba9b89f3ef77c57fdfe6db1dab]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2021/6/section/13) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-943d43fef03483b8fe78badab4bd870c]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2021/6/section/13) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-943d43fef03483b8fe78badab4bd870c]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2021/6/section/13) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-28448125283f62a749a9a7138989fb8e]: Commencement: S. 14 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-28448125283f62a749a9a7138989fb8e]: Commencement: S. 14 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-b7a12262686008545a3b3014cadb9561]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2021/6/section/14) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-b7a12262686008545a3b3014cadb9561]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2021/6/section/14) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-def66ec6b0f59947fcaa8a7e2832d1ab]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2021/6/section/14) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-def66ec6b0f59947fcaa8a7e2832d1ab]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2021/6/section/14) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-471ef4d818312b7d7d6767b2f7dbbf8e]: Commencement: S. 15 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-471ef4d818312b7d7d6767b2f7dbbf8e]: Commencement: S. 15 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-c5d7d1e6436b49ab7097f8a3d879d75f]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2021/6/section/15) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-c5d7d1e6436b49ab7097f8a3d879d75f]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2021/6/section/15) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-54b8c8fd4cce8d7026efe5d38dbdc810]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2021/6/section/15) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-54b8c8fd4cce8d7026efe5d38dbdc810]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2021/6/section/15) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-2755e9b938f62aa428395340724aa35a]: Commencement: S. 16 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-2755e9b938f62aa428395340724aa35a]: Commencement: S. 16 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-e7d57b572354762173bf9f625b1b016c]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2021/6/section/16) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-e7d57b572354762173bf9f625b1b016c]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2021/6/section/16) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-8800b32e045e934a93a95002adf9a55f]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2021/6/section/16) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-8800b32e045e934a93a95002adf9a55f]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2021/6/section/16) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-7c4f70ebf0c94b35a30acd1dbbfa8321]: Commencement: S. 17 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iii)
+[^c-7c4f70ebf0c94b35a30acd1dbbfa8321]: Commencement: S. 17 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iii)
 
-[^key-4ef48bf38f0c4f26c1d450d5ab5f1ac8]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/6/section/17) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-4ef48bf38f0c4f26c1d450d5ab5f1ac8]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/6/section/17) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-8dadb932f673c9160d1fab0fc263562d]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/6/section/17) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-8dadb932f673c9160d1fab0fc263562d]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/6/section/17) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-0c11102785d689fe1f5edadc311cb114]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/6/section/17) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-0c11102785d689fe1f5edadc311cb114]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2021/6/section/17) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-c017aa5182cb07b5cd418fa49de3052b]: Textual amendment: Word in [s. 17 heading](https://www.legislation.gov.uk/nia/2021/6/part/1/crossheading/ongoing-supervision-of-master-trust-schemes) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21/2); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-c017aa5182cb07b5cd418fa49de3052b]: Textual amendment: Word in [s. 17 heading](https://www.legislation.gov.uk/nia/2021/6/part/1/crossheading/ongoing-supervision-of-master-trust-schemes) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 21(2)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21/2); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-850c635e937b760994c31ba79bde5686]: Textual amendment: [S. 17(1)](https://www.legislation.gov.uk/nia/2021/6/section/17/1) substituted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 21(3)(a)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21/3/a); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-850c635e937b760994c31ba79bde5686]: Textual amendment: [S. 17(1)](https://www.legislation.gov.uk/nia/2021/6/section/17/1) substituted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 21(3)(a)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21/3/a); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-cf8719c05009d65f5a1cfcd0933bb350]: Textual amendment: [S. 17(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/17/1/b) and word inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 21(3)(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21/3/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-cf8719c05009d65f5a1cfcd0933bb350]: Textual amendment: [S. 17(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/17/1/b) and word inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 21(3)(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21/3/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-5ec2744714f5164d4a13d94f5d73d174]: Commencement: S. 18 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iii)
+[^c-5ec2744714f5164d4a13d94f5d73d174]: Commencement: S. 18 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iii)
 
-[^key-df8b301773db5c5511e32b458a3597d9]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/6/section/18) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-df8b301773db5c5511e32b458a3597d9]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/6/section/18) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-25dd7f473e82cc6af0354e359c0eb317]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/6/section/18) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-25dd7f473e82cc6af0354e359c0eb317]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/6/section/18) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-9841ac005b8611c110e20da395681d15]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/6/section/18) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-9841ac005b8611c110e20da395681d15]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2021/6/section/18) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-3e89406a2954e0caf54a03fc98e94ea6]: Textual amendment: Word in [s. 18 heading](https://www.legislation.gov.uk/nia/2021/6/part/1/crossheading/ongoing-supervision-of-master-trust-schemes) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(2)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/2); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-3e89406a2954e0caf54a03fc98e94ea6]: Textual amendment: Word in [s. 18 heading](https://www.legislation.gov.uk/nia/2021/6/part/1/crossheading/ongoing-supervision-of-master-trust-schemes) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(2)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/2); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-0090e706dbd28946aa092a4262c20fd4]: Textual amendment: [S. 18(1)](https://www.legislation.gov.uk/nia/2021/6/section/18/1) substituted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(3)(a)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/3/a); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-0090e706dbd28946aa092a4262c20fd4]: Textual amendment: [S. 18(1)](https://www.legislation.gov.uk/nia/2021/6/section/18/1) substituted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(3)(a)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/3/a); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-54b14d103ed22dc810828f6e8ac7fa44]: Textual amendment: [S. 18(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/18/1/b) and word inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(3)(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/3/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-54b14d103ed22dc810828f6e8ac7fa44]: Textual amendment: [S. 18(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/18/1/b) and word inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(3)(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/3/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-080d3b690035223a917ab05d51325949]: Textual amendment: Words in [s. 18(2)(a)](https://www.legislation.gov.uk/nia/2021/6/section/18/2/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(4)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/4); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-080d3b690035223a917ab05d51325949]: Textual amendment: Words in [s. 18(2)(a)](https://www.legislation.gov.uk/nia/2021/6/section/18/2/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(4)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/4); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-603ab2b0e060d9d69cd7fc42db48efb5]: Textual amendment: Words in [s. 18(3)](https://www.legislation.gov.uk/nia/2021/6/section/18/3) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(5)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/5); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-603ab2b0e060d9d69cd7fc42db48efb5]: Textual amendment: Words in [s. 18(3)](https://www.legislation.gov.uk/nia/2021/6/section/18/3) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(5)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/5); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-22696708f6494a405fcba98ad12a6964]: Textual amendment: Words in [s. 18(6)(b)](https://www.legislation.gov.uk/nia/2021/6/section/18/6/b) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(6)(a)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/6/a); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-22696708f6494a405fcba98ad12a6964]: Textual amendment: Words in [s. 18(6)(b)](https://www.legislation.gov.uk/nia/2021/6/section/18/6/b) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(6)(a)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/6/a); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-3b168fcbcb963fb7000b6a0a2b908dd9]: Textual amendment: Words in [s. 18(6)(e)](https://www.legislation.gov.uk/nia/2021/6/section/18/6/e) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(6)(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/6/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-3b168fcbcb963fb7000b6a0a2b908dd9]: Textual amendment: Words in [s. 18(6)(e)](https://www.legislation.gov.uk/nia/2021/6/section/18/6/e) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 3 para. 22(6)(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22/6/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-5a05358489181b5b0bec5d90a01f8410]: Commencement: S. 19 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-5a05358489181b5b0bec5d90a01f8410]: Commencement: S. 19 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-ab801a5f56c3e469505e52ca109be5dd]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2021/6/section/19) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-ab801a5f56c3e469505e52ca109be5dd]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2021/6/section/19) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-e0590eb25b7659d48db21312b35c5c92]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2021/6/section/19) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-e0590eb25b7659d48db21312b35c5c92]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2021/6/section/19) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-09a2c57df2db825a49b4ca44c0dc6963]: Commencement: S. 20 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
+[^c-09a2c57df2db825a49b4ca44c0dc6963]: Commencement: S. 20 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
 
-[^key-b6800c25b1ae0ad05bb44dd24b569716]: Modification: [Ss. 20-22](https://www.legislation.gov.uk/nia/2021/6/section/20) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-b6800c25b1ae0ad05bb44dd24b569716]: Modification: [Ss. 20-22](https://www.legislation.gov.uk/nia/2021/6/section/20) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-66a579042b9e6b96937101b350bd5c6f]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2021/6/section/20) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-66a579042b9e6b96937101b350bd5c6f]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2021/6/section/20) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-0748e1a920ce827399e44b0e21bc52b2]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2021/6/section/20) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-0748e1a920ce827399e44b0e21bc52b2]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2021/6/section/20) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-50ffb052869589933177e97e81c63356]: Commencement: S. 21 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
+[^c-50ffb052869589933177e97e81c63356]: Commencement: S. 21 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
 
-[^key-a2c9f54ac2366eaf96bba0d2246e947b]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2021/6/section/21) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-a2c9f54ac2366eaf96bba0d2246e947b]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2021/6/section/21) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-e09e4bb6b99dfedbc076f99aa6bf90c3]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2021/6/section/21) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-e09e4bb6b99dfedbc076f99aa6bf90c3]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2021/6/section/21) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-1d20548f2719de2a344618746da60362]: Textual amendment: Words in [s. 21(5)(c)](https://www.legislation.gov.uk/nia/2021/6/section/21/5/c) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 10(b)(ii)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10/b/ii); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-1d20548f2719de2a344618746da60362]: Textual amendment: Words in [s. 21(5)(c)](https://www.legislation.gov.uk/nia/2021/6/section/21/5/c) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 10(b)(ii)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10/b/ii); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-66bbd71f734080daf89865154a98c02d]: Textual amendment: Words in [s. 21(5)(c)](https://www.legislation.gov.uk/nia/2021/6/section/21/5/c) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 10(b)(iii)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10/b/iii); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-66bbd71f734080daf89865154a98c02d]: Textual amendment: Words in [s. 21(5)(c)](https://www.legislation.gov.uk/nia/2021/6/section/21/5/c) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 10(b)(iii)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10/b/iii); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-2cc7da086d1102215823befe79541c7f]: Textual amendment: Words in [s. 21(5)(c)](https://www.legislation.gov.uk/nia/2021/6/section/21/5/c) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 10(b)(i)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10/b/i); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-2cc7da086d1102215823befe79541c7f]: Textual amendment: Words in [s. 21(5)(c)](https://www.legislation.gov.uk/nia/2021/6/section/21/5/c) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 10(b)(i)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10/b/i); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-164f3734486596e171f0193d1de7364b]: Commencement: S. 22 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
+[^c-164f3734486596e171f0193d1de7364b]: Commencement: S. 22 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
 
-[^key-3e2e11d709b2b6f59639bf3b97da3a35]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2021/6/section/22) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-3e2e11d709b2b6f59639bf3b97da3a35]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2021/6/section/22) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-4509e7c85de186d73fafbe1d25d0d3c4]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2021/6/section/22) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-4509e7c85de186d73fafbe1d25d0d3c4]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2021/6/section/22) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-8db22d71e595bde4083b1885d8885f98]: Commencement: S. 23 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-8db22d71e595bde4083b1885d8885f98]: Commencement: S. 23 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-4edbf9e2555598333cf46feac99a55f0]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2021/6/section/23) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-4edbf9e2555598333cf46feac99a55f0]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2021/6/section/23) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-0c2856e9dce577f4ad13b336fd674d34]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2021/6/section/23) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-0c2856e9dce577f4ad13b336fd674d34]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2021/6/section/23) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-7c059ea6821411bef6d6eaa054e75d7b]: Textual amendment: Words in [s. 23(2)(a)](https://www.legislation.gov.uk/nia/2021/6/section/23/2/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 11(a)(i)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11/a/i); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-7c059ea6821411bef6d6eaa054e75d7b]: Textual amendment: Words in [s. 23(2)(a)](https://www.legislation.gov.uk/nia/2021/6/section/23/2/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 11(a)(i)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11/a/i); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-a6a6388e83e829857b8151560498b8c6]: Textual amendment: Words in [s. 23(2)(a)](https://www.legislation.gov.uk/nia/2021/6/section/23/2/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 11(a)(ii)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11/a/ii); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-a6a6388e83e829857b8151560498b8c6]: Textual amendment: Words in [s. 23(2)(a)](https://www.legislation.gov.uk/nia/2021/6/section/23/2/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 11(a)(ii)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11/a/ii); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-1904878b31af74ed4db2588a5ddffdf5]: Textual amendment: Words in [s. 23(3)(a)](https://www.legislation.gov.uk/nia/2021/6/section/23/3/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-1904878b31af74ed4db2588a5ddffdf5]: Textual amendment: Words in [s. 23(3)(a)](https://www.legislation.gov.uk/nia/2021/6/section/23/3/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-81eabcc0465b456586e94416afe0e052]: Commencement: S. 24 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-81eabcc0465b456586e94416afe0e052]: Commencement: S. 24 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-9849d3f50eb0f189908098bd3de82089]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2021/6/section/24) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-9849d3f50eb0f189908098bd3de82089]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2021/6/section/24) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-6e288f8ee830d90b298104f64e0ff761]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2021/6/section/24) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-6e288f8ee830d90b298104f64e0ff761]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2021/6/section/24) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-4c648cc4e99138dae8e5cc8885690a8a]: Commencement: S. 25 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
+[^c-4c648cc4e99138dae8e5cc8885690a8a]: Commencement: S. 25 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
 
-[^key-53eb3a196e7db2be88bdfd311fa6579b]: Modification: [S. 25](https://www.legislation.gov.uk/nia/2021/6/section/25) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-53eb3a196e7db2be88bdfd311fa6579b]: Modification: [S. 25](https://www.legislation.gov.uk/nia/2021/6/section/25) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-25dd667d779b35daea6b26675ec8e50d]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2021/6/section/25) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-25dd667d779b35daea6b26675ec8e50d]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2021/6/section/25) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-82649e1e34fc35b9271ebfdf0c3c284f]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2021/6/section/25) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-82649e1e34fc35b9271ebfdf0c3c284f]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2021/6/section/25) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-450a4f2115d479ae0b4f6c9e646a2d8f]: Commencement: S. 26 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-450a4f2115d479ae0b4f6c9e646a2d8f]: Commencement: S. 26 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-3d852cc478ee9392059caed78d4b97db]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2021/6/section/26) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-3d852cc478ee9392059caed78d4b97db]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2021/6/section/26) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-b520f8a57fbc53433240658955696308]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2021/6/section/26) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-b520f8a57fbc53433240658955696308]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2021/6/section/26) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-dd02972bd3bbccd216a7c2e3f6e1d131]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/nia/2021/6/section/26/2) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 12(a)(ii)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12/a/ii); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-dd02972bd3bbccd216a7c2e3f6e1d131]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/nia/2021/6/section/26/2) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 12(a)(ii)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12/a/ii); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-fd5eb5343bf5224933220d51d8617c14]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/nia/2021/6/section/26/2) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 12(a)(i)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12/a/i); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-fd5eb5343bf5224933220d51d8617c14]: Textual amendment: Words in [s. 26(2)](https://www.legislation.gov.uk/nia/2021/6/section/26/2) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 12(a)(i)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12/a/i); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-da506728c4c15f4f56501ec86c7c471e]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/nia/2021/6/section/26/3) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-da506728c4c15f4f56501ec86c7c471e]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/nia/2021/6/section/26/3) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 12(b)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12/b); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-b33fc56de50e2203e3f57b39631a3501]: Commencement: S. 27 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-b33fc56de50e2203e3f57b39631a3501]: Commencement: S. 27 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-e5ff2f03b434800fc062a376bbe09d59]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2021/6/section/27) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-e5ff2f03b434800fc062a376bbe09d59]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2021/6/section/27) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-9d3b85955d121003c09a493bccc43cd1]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2021/6/section/27) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-9d3b85955d121003c09a493bccc43cd1]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2021/6/section/27) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-bd6f288f903889d997e08e039affd0ff]: Commencement: S. 28 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-bd6f288f903889d997e08e039affd0ff]: Commencement: S. 28 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-3c5fb8418b13c7eeef808d81e90bcbe9]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2021/6/section/28) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-3c5fb8418b13c7eeef808d81e90bcbe9]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2021/6/section/28) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-dc13e763b900d189001a9ea6cde836c3]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2021/6/section/28) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-dc13e763b900d189001a9ea6cde836c3]: Commencement: [S. 28](https://www.legislation.gov.uk/nia/2021/6/section/28) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-b2d950d02fee7d3f2bae546cd43220b8]: Textual amendment: Words in [s. 28(3)(a)](https://www.legislation.gov.uk/nia/2021/6/section/28/3/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/13); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-b2d950d02fee7d3f2bae546cd43220b8]: Textual amendment: Words in [s. 28(3)(a)](https://www.legislation.gov.uk/nia/2021/6/section/28/3/a) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/13); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-9f9f453b5fc442d0a371a51cd26ddaa0]: Commencement: S. 29 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-9f9f453b5fc442d0a371a51cd26ddaa0]: Commencement: S. 29 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-39a5dbc5dab439c10c2be6a65a3274c6]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2021/6/section/29) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-39a5dbc5dab439c10c2be6a65a3274c6]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2021/6/section/29) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-847d5b50e07bbd1d4a57f148cf6320a9]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2021/6/section/29) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-847d5b50e07bbd1d4a57f148cf6320a9]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2021/6/section/29) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-57629948204a248e8591a3798c5bc47f]: Commencement: S. 30 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-57629948204a248e8591a3798c5bc47f]: Commencement: S. 30 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-1727b7e8e3014c1758da1624b5e89e67]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2021/6/section/30) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-1727b7e8e3014c1758da1624b5e89e67]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2021/6/section/30) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-eece2bd9ddc27c7f5e1007a9ec826756]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2021/6/section/30) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-eece2bd9ddc27c7f5e1007a9ec826756]: Commencement: [S. 30](https://www.legislation.gov.uk/nia/2021/6/section/30) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-57a95a6f39faa412bbf3469f62a91365]: Commencement: S. 31 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-57a95a6f39faa412bbf3469f62a91365]: Commencement: S. 31 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-3ebcbaca3582e108857be27adb85531c]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-3ebcbaca3582e108857be27adb85531c]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-c8b41fe62c6b6aa30c6ecdb7889f2f4e]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-c8b41fe62c6b6aa30c6ecdb7889f2f4e]: Commencement: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-45ab8482278a957c418856b1a1dc3bd0]: Modification: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) modified (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [28(4)(b)](https://www.legislation.gov.uk/nisr/2022/121/regulation/28/4/b)
+[^c-45ab8482278a957c418856b1a1dc3bd0]: Modification: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) modified (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [28(4)(b)](https://www.legislation.gov.uk/nisr/2022/121/regulation/28/4/b)
 
-[^key-faacce84b72399eedf31fa64c13e7ecd]: Modification: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) modified (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [28(4)(b)](https://www.legislation.gov.uk/nisr/2023/59/regulation/28/4/b)
+[^c-faacce84b72399eedf31fa64c13e7ecd]: Modification: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) modified (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [28(4)(b)](https://www.legislation.gov.uk/nisr/2023/59/regulation/28/4/b)
 
-[^key-afe1914e102159932af561486099c7af]: Modification: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) modified (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [28(4)(b)](https://www.legislation.gov.uk/nisr/2023/148/regulation/28/4/b)
+[^c-afe1914e102159932af561486099c7af]: Modification: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) modified (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [28(4)(b)](https://www.legislation.gov.uk/nisr/2023/148/regulation/28/4/b)
 
-[^key-2b0ca99e4b3f507a533ecab34b9f6c21]: Modification: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) modified (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [28(4)(b)](https://www.legislation.gov.uk/nisr/2024/78/regulation/28/4/b)
+[^c-2b0ca99e4b3f507a533ecab34b9f6c21]: Modification: [S. 31](https://www.legislation.gov.uk/nia/2021/6/section/31) modified (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [28(4)(b)](https://www.legislation.gov.uk/nisr/2024/78/regulation/28/4/b)
 
-[^key-073943ce98970a87723222dba81cec64]: Commencement: S. 32 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-073943ce98970a87723222dba81cec64]: Commencement: S. 32 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-0e1af9f411dd8142bec177724426cba2]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2021/6/section/32) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-0e1af9f411dd8142bec177724426cba2]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2021/6/section/32) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-53b50cdc40adef5d8cb9ec6a8edead04]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2021/6/section/32) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-53b50cdc40adef5d8cb9ec6a8edead04]: Commencement: [S. 32](https://www.legislation.gov.uk/nia/2021/6/section/32) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-a21a98f66827b79a245af867ad4b8b1d]: Commencement: S. 33 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
+[^c-a21a98f66827b79a245af867ad4b8b1d]: Commencement: S. 33 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(iv)
 
-[^key-98b103a205285c72ee0fcf0317964853]: Modification: [S. 33](https://www.legislation.gov.uk/nia/2021/6/section/33) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-98b103a205285c72ee0fcf0317964853]: Modification: [S. 33](https://www.legislation.gov.uk/nia/2021/6/section/33) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-b9555644895325a5526a12d48bb0be92]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2021/6/section/33) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-b9555644895325a5526a12d48bb0be92]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2021/6/section/33) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-c13371cb841e7dadfdafed675713f04e]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2021/6/section/33) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-c13371cb841e7dadfdafed675713f04e]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2021/6/section/33) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-36b192aef249c0b4ef22ef1263557810]: Commencement: S. 34 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-36b192aef249c0b4ef22ef1263557810]: Commencement: S. 34 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-8db93ce79f4201aa187ed1d303b28ca8]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2021/6/section/34) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-8db93ce79f4201aa187ed1d303b28ca8]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2021/6/section/34) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-889516bdbef0915776b809b1241acdeb]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2021/6/section/34) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-889516bdbef0915776b809b1241acdeb]: Commencement: [S. 34](https://www.legislation.gov.uk/nia/2021/6/section/34) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-c50f492d622bb2affce8383246282369]: Textual amendment: Words in [s. 34(1)](https://www.legislation.gov.uk/nia/2021/6/section/34/1) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 14(a)(i)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/14/a/i); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-c50f492d622bb2affce8383246282369]: Textual amendment: Words in [s. 34(1)](https://www.legislation.gov.uk/nia/2021/6/section/34/1) inserted (16.3.2022 for specified purposes, 6.4.2022 in so far as not already in operation) by [Pension Schemes Act (Northern Ireland) 2021 (c. 6)](https://www.legislation.gov.uk/nia/2021/6), [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2), [Sch. 2 para. 14(a)(i)](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/14/a/i); [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-82231451d2c0bdc077adabda3804858d]: Commencement: S. 35 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-82231451d2c0bdc077adabda3804858d]: Commencement: S. 35 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-73ef4349c8a5f926c54ddefd8579954b]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2021/6/section/35) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-73ef4349c8a5f926c54ddefd8579954b]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2021/6/section/35) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-68ebf64af6793607821b7892ab95ed64]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2021/6/section/35) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-68ebf64af6793607821b7892ab95ed64]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2021/6/section/35) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-0e8685819bbbee6292872e4384a74392]: Commencement: S. 36 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-0e8685819bbbee6292872e4384a74392]: Commencement: S. 36 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-65ff694947dd7e3f95c8982d1498d9f6]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2021/6/section/36) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-65ff694947dd7e3f95c8982d1498d9f6]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2021/6/section/36) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-8034604e93a1fff31b54a06987dd5566]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2021/6/section/36) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-8034604e93a1fff31b54a06987dd5566]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2021/6/section/36) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-5b9e5bb597e0011f329addb154d62d90]: Commencement: S. 37 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
+[^c-5b9e5bb597e0011f329addb154d62d90]: Commencement: S. 37 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
 
-[^key-2b140cd6e33cbdeb4eed65821425946d]: Modification: [S. 37](https://www.legislation.gov.uk/nia/2021/6/section/37) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-2b140cd6e33cbdeb4eed65821425946d]: Modification: [S. 37](https://www.legislation.gov.uk/nia/2021/6/section/37) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-06c518f60168e26d11ef275f784e9946]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2021/6/section/37) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-06c518f60168e26d11ef275f784e9946]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2021/6/section/37) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-ca60b397ad05850788aba55ce49d3e5c]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2021/6/section/37) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-ca60b397ad05850788aba55ce49d3e5c]: Commencement: [S. 37](https://www.legislation.gov.uk/nia/2021/6/section/37) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-ba2e0e64351933c3851eb8344d3852a4]: Commencement: S. 38 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(v)(c)
+[^c-ba2e0e64351933c3851eb8344d3852a4]: Commencement: S. 38 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(v)(c)
 
-[^key-22f09a9c2519a40855b959e4dc9a9768]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2021/6/section/38) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-22f09a9c2519a40855b959e4dc9a9768]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2021/6/section/38) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-b60ac0b6859ca131d6b96b32dbc64f04]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2021/6/section/38) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-b60ac0b6859ca131d6b96b32dbc64f04]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2021/6/section/38) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-28d1ce128ef2253e3b3555a37be1a0c0]: Commencement: [S. 38(1)](https://www.legislation.gov.uk/nia/2021/6/section/38/1) in operation at 13.9.2021 for specified purposes by [S.R. 2021/234](https://www.legislation.gov.uk/nisr/2021/234), [art. 2(a)](https://www.legislation.gov.uk/nisr/2021/234/article/2/a)
+[^c-28d1ce128ef2253e3b3555a37be1a0c0]: Commencement: [S. 38(1)](https://www.legislation.gov.uk/nia/2021/6/section/38/1) in operation at 13.9.2021 for specified purposes by [S.R. 2021/234](https://www.legislation.gov.uk/nisr/2021/234), [art. 2(a)](https://www.legislation.gov.uk/nisr/2021/234/article/2/a)
 
-[^key-8dfa2b3070d3e20b65fc46a91a0be40e]: Commencement: S. 39 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(vi)
+[^c-8dfa2b3070d3e20b65fc46a91a0be40e]: Commencement: S. 39 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(vi)
 
-[^key-f9a2f2f859e58889434eec1e0abae185]: Modification: [S. 39](https://www.legislation.gov.uk/nia/2021/6/section/39) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-f9a2f2f859e58889434eec1e0abae185]: Modification: [S. 39](https://www.legislation.gov.uk/nia/2021/6/section/39) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-ddf43a97423b576d640ca9a9cfda78bc]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2021/6/section/39) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-ddf43a97423b576d640ca9a9cfda78bc]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2021/6/section/39) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-2ca82b65f72ee709db8883ca168bce22]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2021/6/section/39) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-2ca82b65f72ee709db8883ca168bce22]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2021/6/section/39) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-e2b10daed4243e1cb99b38596a0426b9]: Commencement: S. 40 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-e2b10daed4243e1cb99b38596a0426b9]: Commencement: S. 40 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-9e3032c415c2c78fe460b582de365fc4]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2021/6/section/40) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-9e3032c415c2c78fe460b582de365fc4]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2021/6/section/40) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-85d4f81a866ca67355373f2ddbc77bee]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2021/6/section/40) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-85d4f81a866ca67355373f2ddbc77bee]: Commencement: [S. 40](https://www.legislation.gov.uk/nia/2021/6/section/40) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-53f38a5e47c656e345289ff6a5d651f3]: Commencement: S. 41 in operation at 10.8.2021, see [s. 44(1)(d)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/d)
+[^c-53f38a5e47c656e345289ff6a5d651f3]: Commencement: S. 41 in operation at 10.8.2021, see [s. 44(1)(d)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/d)
 
-[^key-04ae0d465c6e271724e4b166b66c2046]: Commencement: S. 42 in operation at 10.8.2021, see [s. 44(1)(e)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/e)
+[^c-04ae0d465c6e271724e4b166b66c2046]: Commencement: S. 42 in operation at 10.8.2021, see [s. 44(1)(e)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/e)
 
-[^key-98a091987b82622f3cae81f1b4898a23]: Commencement: S. 43 in operation at 10.8.2021, see [s. 44(1)(e)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/e)
+[^c-98a091987b82622f3cae81f1b4898a23]: Commencement: S. 43 in operation at 10.8.2021, see [s. 44(1)(e)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/e)
 
-[^key-3e7b62617edc75ac5115b4c35fed0952]: Commencement: S. 44 in operation at 10.8.2021, see [s. 44(1)(e)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/e)
+[^c-3e7b62617edc75ac5115b4c35fed0952]: Commencement: S. 44 in operation at 10.8.2021, see [s. 44(1)(e)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/e)
 
-[^key-6557d15f5b32c887ed623545ec170fce]: Commencement: S. 45 in operation at 10.8.2021, see [s. 44(1)(e)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/e)
+[^c-6557d15f5b32c887ed623545ec170fce]: Commencement: S. 45 in operation at 10.8.2021, see [s. 44(1)(e)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/e)
 
-[^key-ea6bf5b569a91e88b1cd0c5c151e79df]: Commencement: Sch. 1 para. 1 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-ea6bf5b569a91e88b1cd0c5c151e79df]: Commencement: Sch. 1 para. 1 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-e74e0e0042764bc81b2989031abdab42]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/1) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-e74e0e0042764bc81b2989031abdab42]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/1) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-e760a899f066fedc56e4773319b8f466]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/1) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-e760a899f066fedc56e4773319b8f466]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/1) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-440cfa22ab9731d756f398f8eea09649]: Commencement: Sch. 1 para. 2 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-440cfa22ab9731d756f398f8eea09649]: Commencement: Sch. 1 para. 2 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-b0c8a2958528dd80dd13aec56687c38a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/2) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-b0c8a2958528dd80dd13aec56687c38a]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/2) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-1898c58805c44df510b0d6d5abbd6ef1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/2) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-1898c58805c44df510b0d6d5abbd6ef1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/2) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-539c5c189042edc625bea72719d2baf7]: Commencement: Sch. 1 para. 3 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-539c5c189042edc625bea72719d2baf7]: Commencement: Sch. 1 para. 3 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-7a10926d50153f90af584b9f058f6b8b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/3) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-7a10926d50153f90af584b9f058f6b8b]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/3) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-1457af68b69c848e5ed09add9726fda5]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/3) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-1457af68b69c848e5ed09add9726fda5]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/3) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-09d646d4c9453d746403a9ec4cd0c2da]: Commencement: Sch. 1 para. 4 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-09d646d4c9453d746403a9ec4cd0c2da]: Commencement: Sch. 1 para. 4 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-2765658a85d755db583ce611a5af6125]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/4) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-2765658a85d755db583ce611a5af6125]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/4) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-66c340fbcaa4cf3a55e0b6f145fedb1d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/4) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-66c340fbcaa4cf3a55e0b6f145fedb1d]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/4) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-8eeeb3380d3a3aa53927ef033353ef96]: Commencement: Sch. 1 para. 5 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-8eeeb3380d3a3aa53927ef033353ef96]: Commencement: Sch. 1 para. 5 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-244b9a6587ecc23c49822d561359827d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/5) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-244b9a6587ecc23c49822d561359827d]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/5) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-98bd1b158668996961d7f0853623fb16]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/5) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-98bd1b158668996961d7f0853623fb16]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2021/6/schedule/1/paragraph/5) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-a1e415aac728fe4d2f112743c847ed38]: Commencement: Sch. 2 para. 1 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
+[^c-a1e415aac728fe4d2f112743c847ed38]: Commencement: Sch. 2 para. 1 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
 
-[^key-6fd1fe1792b477a2ba1906c3bb80f3a7]: Modification: [Sch. 2 paras. 1-7](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/1) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-6fd1fe1792b477a2ba1906c3bb80f3a7]: Modification: [Sch. 2 paras. 1-7](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/1) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-3efe4fded73284d87f73e3db9d00e0b9]: Commencement: Sch. 2 para. 2 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
+[^c-3efe4fded73284d87f73e3db9d00e0b9]: Commencement: Sch. 2 para. 2 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
 
-[^key-3fb3f9bc6919a50a929bc382f5a8d3ac]: Commencement: Sch. 2 para. 3 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
+[^c-3fb3f9bc6919a50a929bc382f5a8d3ac]: Commencement: Sch. 2 para. 3 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
 
-[^key-89bc0e2d1cb581b8df589a85e2669a96]: Commencement: Sch. 2 para. 4 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
+[^c-89bc0e2d1cb581b8df589a85e2669a96]: Commencement: Sch. 2 para. 4 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
 
-[^key-959363798471529f05dbf8599dcdfd74]: Commencement: Sch. 2 para. 5 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
+[^c-959363798471529f05dbf8599dcdfd74]: Commencement: Sch. 2 para. 5 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
 
-[^key-3837c5afea3035582229084c70bfa8ce]: Commencement: Sch. 2 para. 6 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
+[^c-3837c5afea3035582229084c70bfa8ce]: Commencement: Sch. 2 para. 6 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
 
-[^key-3efffab2342941de5138b1315a9f3ecc]: Commencement: Sch. 2 para. 7 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
+[^c-3efffab2342941de5138b1315a9f3ecc]: Commencement: Sch. 2 para. 7 in operation at 10.8.2021, see [s. 44(1)(b)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/b)
 
-[^key-f890dc6045961114298051ba962ed47a]: Commencement: Sch. 2 para. 8 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-f890dc6045961114298051ba962ed47a]: Commencement: Sch. 2 para. 8 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-2a1322e6dd27b3a153ce7adb7859e6aa]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/8) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-2a1322e6dd27b3a153ce7adb7859e6aa]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/8) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-fc4de95a6dfe51a99fec73035d9ed971]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/8) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-fc4de95a6dfe51a99fec73035d9ed971]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/8) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-d70f0dea9a1ae98240366d5daf196f47]: Commencement: Sch. 2 para. 9 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-d70f0dea9a1ae98240366d5daf196f47]: Commencement: Sch. 2 para. 9 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-96636001576fec8be13174be19f13b53]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/9) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-96636001576fec8be13174be19f13b53]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/9) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-a3978010c9ef163f463da49521fbe86a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/9) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-a3978010c9ef163f463da49521fbe86a]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/9) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-e0ed28b9d476698781bfd77b81152ca3]: Commencement: Sch. 2 para. 10 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-e0ed28b9d476698781bfd77b81152ca3]: Commencement: Sch. 2 para. 10 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-0766707c6114b2c03bfb18d268066de1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-0766707c6114b2c03bfb18d268066de1]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-55fe3767b82b9ee89d0d0da5bb0bd7a8]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-55fe3767b82b9ee89d0d0da5bb0bd7a8]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/10) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-f0105edf24fa7190f86e5191b67281f1]: Commencement: Sch. 2 para. 11 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-f0105edf24fa7190f86e5191b67281f1]: Commencement: Sch. 2 para. 11 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-21968166c8d359c0159033b369f52b64]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-21968166c8d359c0159033b369f52b64]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-ee3c68d9b78b85a075fed23910290032]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-ee3c68d9b78b85a075fed23910290032]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/11) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-7faa2622ab3c9dcf5942a0cf3d9699bf]: Commencement: Sch. 2 para. 12 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-7faa2622ab3c9dcf5942a0cf3d9699bf]: Commencement: Sch. 2 para. 12 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-c8414ade31e24dbe41038ee13f2268ed]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-c8414ade31e24dbe41038ee13f2268ed]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-45c51988575f26d4e972bf8632328921]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-45c51988575f26d4e972bf8632328921]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/12) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-c62622bb4dce582b9fcf5931dd28dbba]: Commencement: Sch. 2 para. 13 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-c62622bb4dce582b9fcf5931dd28dbba]: Commencement: Sch. 2 para. 13 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-0487d4ddfc04d23ad3637d7620324770]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/13) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-0487d4ddfc04d23ad3637d7620324770]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/13) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-94cc1a92a607b29844b20cdc4711910d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/13) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-94cc1a92a607b29844b20cdc4711910d]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/13) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-094d8f7f733cb678ca1337b4efcaf5db]: Commencement: Sch. 2 para. 14 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-094d8f7f733cb678ca1337b4efcaf5db]: Commencement: Sch. 2 para. 14 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-be2394544eb8c51c6e1620f9f648dfab]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/14) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-be2394544eb8c51c6e1620f9f648dfab]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/14) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-5996873387e586adecb9107299630079]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/14) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-5996873387e586adecb9107299630079]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/14) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-8b8c3c92f6b4dfea84c7a1ac9c8812d3]: Commencement: Sch. 2 para. 15 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-8b8c3c92f6b4dfea84c7a1ac9c8812d3]: Commencement: Sch. 2 para. 15 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-c0c03f36b0fb072d33ca217038c6866d]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/15) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-c0c03f36b0fb072d33ca217038c6866d]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/15) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-207127dc1b7793ed12348bc1e62dd36b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/15) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-207127dc1b7793ed12348bc1e62dd36b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/nia/2021/6/schedule/2/paragraph/15) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-a8e0c94098a170a48b942f96298dbfe8]: Commencement: Sch. 3 para. 1 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
+[^c-a8e0c94098a170a48b942f96298dbfe8]: Commencement: Sch. 3 para. 1 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
 
-[^key-e96c45ccfd181ea819acf4b878e85e47]: Commencement: Sch. 3 para. 2 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
+[^c-e96c45ccfd181ea819acf4b878e85e47]: Commencement: Sch. 3 para. 2 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
 
-[^key-541e8498e8a04670e876549864326244]: Commencement: Sch. 3 para. 3 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
+[^c-541e8498e8a04670e876549864326244]: Commencement: Sch. 3 para. 3 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
 
-[^key-7b3cdeea27839fcb298138b6988b5ca8]: Commencement: Sch. 3 para. 4 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
+[^c-7b3cdeea27839fcb298138b6988b5ca8]: Commencement: Sch. 3 para. 4 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
 
-[^key-cd322ff45dc3da2200ea275ee47cbf8e]: Commencement: Sch. 3 para. 5 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(v)
+[^c-cd322ff45dc3da2200ea275ee47cbf8e]: Commencement: Sch. 3 para. 5 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(v)
 
-[^key-3cabe71e895352f85a454cc1ffc4913c]: Commencement: Sch. 3 para. 5 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
+[^c-3cabe71e895352f85a454cc1ffc4913c]: Commencement: Sch. 3 para. 5 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
 
-[^key-5ed24250605b5782667bcc332650156d]: Modification: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/5) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-5ed24250605b5782667bcc332650156d]: Modification: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/5) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-ce4c530ec7ec5475d8481ffa7ae3705c]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/5) in operation at 13.9.2021 for specified purposes by [S.R. 2021/234](https://www.legislation.gov.uk/nisr/2021/234), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/234/article/2/b)
+[^c-ce4c530ec7ec5475d8481ffa7ae3705c]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/5) in operation at 13.9.2021 for specified purposes by [S.R. 2021/234](https://www.legislation.gov.uk/nisr/2021/234), [art. 2(b)](https://www.legislation.gov.uk/nisr/2021/234/article/2/b)
 
-[^key-a87cbfdf4b9918818809bebd71dc96af]: Commencement: Sch. 3 para. 6 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
+[^c-a87cbfdf4b9918818809bebd71dc96af]: Commencement: Sch. 3 para. 6 in operation at 10.8.2021, see [s. 44(1)(c)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/c)
 
-[^key-e2af554b8ff52703ada7dfcab8a1a3fb]: Commencement: Sch. 3 para. 7 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-e2af554b8ff52703ada7dfcab8a1a3fb]: Commencement: Sch. 3 para. 7 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-2b6d0bb00e629cf558ba1116f80af690]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/7) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-2b6d0bb00e629cf558ba1116f80af690]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/7) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-2870556c5accea8abf93170031379942]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/7) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-2870556c5accea8abf93170031379942]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/7) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-02d67a0b70c67c4d371642b66f8a8b0f]: Commencement: Sch. 3 para. 8 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-02d67a0b70c67c4d371642b66f8a8b0f]: Commencement: Sch. 3 para. 8 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-592993850d62afdaae81006620cc4df4]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/8) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-592993850d62afdaae81006620cc4df4]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/8) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-1cb0f878d6a12a96d20e2b15060177c8]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/8) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-1cb0f878d6a12a96d20e2b15060177c8]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/8) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-3794fe118a6746b16d52e31742f2b505]: Commencement: Sch. 3 para. 9 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(v)
+[^c-3794fe118a6746b16d52e31742f2b505]: Commencement: Sch. 3 para. 9 in operation at 10.8.2021 for specified purposes, see [s. 44(1)(a)](https://www.legislation.gov.uk/nia/2021/6/section/44/1/a)(v)
 
-[^key-32b0ecd6f90f933df8c1a84ae3996691]: Modification: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/9) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
+[^c-32b0ecd6f90f933df8c1a84ae3996691]: Modification: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/9) transitional provision for commencement by 2021 c. 6 (N.I.), s. 44(1)(a)(b) (11.8.2021) by [The Pension Schemes (2021 Act) (Commencement No. 1 and Transitional Provisions) Order (Northern Ireland) 2021 (S.R. 2021/234)](https://www.legislation.gov.uk/nisr/2021/234), [art. 3](https://www.legislation.gov.uk/nisr/2021/234/article/3)
 
-[^key-ff7cdfc4357b11b7d5a623e796b0a380]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/9) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-ff7cdfc4357b11b7d5a623e796b0a380]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/9) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-768d34532dfd479e100982bc7bf3a65f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/9) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-768d34532dfd479e100982bc7bf3a65f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/9) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-c7ba37c79fde4ef97af728360ce18c70]: Commencement: Sch. 3 para. 10 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-c7ba37c79fde4ef97af728360ce18c70]: Commencement: Sch. 3 para. 10 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-952b1831f870884f7487a483cea8b2c1]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/10) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-952b1831f870884f7487a483cea8b2c1]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/10) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-82fb22b5ff9d2478e63805a9c6b50663]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/10) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-82fb22b5ff9d2478e63805a9c6b50663]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/10) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-585dd16c6e8a9e759b52d225065edc66]: Commencement: Sch. 3 para. 11 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-585dd16c6e8a9e759b52d225065edc66]: Commencement: Sch. 3 para. 11 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-84f6927663862a1546b69aa258780bc1]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/11) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-84f6927663862a1546b69aa258780bc1]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/11) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-af1025abca433d0d43b749bbe4625ab6]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/11) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-af1025abca433d0d43b749bbe4625ab6]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/11) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-f7e97609fc798e3cf047b7fa93a131d8]: Commencement: Sch. 3 para. 12 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-f7e97609fc798e3cf047b7fa93a131d8]: Commencement: Sch. 3 para. 12 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-5312cca175efb04a601e414773341bcf]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/12) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-5312cca175efb04a601e414773341bcf]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/12) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-21d928181458b5512016bbd4b33dfd8a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/12) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-21d928181458b5512016bbd4b33dfd8a]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/12) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-77d441640960cdda9767009f7b6b3a38]: Commencement: Sch. 3 para. 13 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-77d441640960cdda9767009f7b6b3a38]: Commencement: Sch. 3 para. 13 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-06fd560b06f85d41ba0d7d45c40eaee2]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/13) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-06fd560b06f85d41ba0d7d45c40eaee2]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/13) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-fe855749212b813cc6a2bab59e0ceb69]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/13) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-fe855749212b813cc6a2bab59e0ceb69]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/13) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-a642cafd1cc975c40955f290ed9f0d52]: Commencement: Sch. 3 para. 14 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-a642cafd1cc975c40955f290ed9f0d52]: Commencement: Sch. 3 para. 14 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-dcfb8159791fd9a8e53c7c356333424c]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/14) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-dcfb8159791fd9a8e53c7c356333424c]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/14) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-20e888061b6616286a72a5c46fd029a1]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/14) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-20e888061b6616286a72a5c46fd029a1]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/14) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-3d5041a635e72b992e80d85e819ade9b]: Commencement: Sch. 3 para. 15 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-3d5041a635e72b992e80d85e819ade9b]: Commencement: Sch. 3 para. 15 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-8c123a439a89a43311229ade9b77c840]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/15) in operation at 13.9.2021 by [S.R. 2021/234](https://www.legislation.gov.uk/nisr/2021/234), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/234/article/2/c)
+[^c-8c123a439a89a43311229ade9b77c840]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/15) in operation at 13.9.2021 by [S.R. 2021/234](https://www.legislation.gov.uk/nisr/2021/234), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/234/article/2/c)
 
-[^key-c543ac058fd0e8041f9946862119419c]: Commencement: Sch. 3 para. 16 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-c543ac058fd0e8041f9946862119419c]: Commencement: Sch. 3 para. 16 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-cf2d13bc8fa09b18d7a6bd460240492a]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/16) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-cf2d13bc8fa09b18d7a6bd460240492a]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/16) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-02ddc06c4b989b4ae8795c88abd473ce]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/16) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-02ddc06c4b989b4ae8795c88abd473ce]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/16) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-1977e7959fcfd65373529aba203ffd1c]: Commencement: Sch. 3 para. 17 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-1977e7959fcfd65373529aba203ffd1c]: Commencement: Sch. 3 para. 17 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-972cbf0b715808eccfa4ba66a87bcc83]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/17) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-972cbf0b715808eccfa4ba66a87bcc83]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/17) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-b8bd2fa60eae9be16e9574c8c3cbf828]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/17) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-b8bd2fa60eae9be16e9574c8c3cbf828]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/17) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-1e2240fd48e6aadcf6ac752f14c68c49]: Commencement: Sch. 3 para. 18 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-1e2240fd48e6aadcf6ac752f14c68c49]: Commencement: Sch. 3 para. 18 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-4faa29cb4f69459f735c1fec0b19a892]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/18) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-4faa29cb4f69459f735c1fec0b19a892]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/18) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-148e61aa591ab791f6525bf28d7a2371]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/18) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-148e61aa591ab791f6525bf28d7a2371]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/18) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-6721e76943969af9b2dbaf82c027c6c1]: Commencement: Sch. 3 para. 19 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-6721e76943969af9b2dbaf82c027c6c1]: Commencement: Sch. 3 para. 19 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-8a9e9a9c137c8410b16f500476e22880]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/19) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-8a9e9a9c137c8410b16f500476e22880]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/19) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-5868aa02c8a69b8fe901cd83f338a4ef]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/19) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-5868aa02c8a69b8fe901cd83f338a4ef]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/19) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-d7027bf41b1e13c00dbfdfb6ee7f22ab]: Commencement: Sch. 3 para. 20 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-d7027bf41b1e13c00dbfdfb6ee7f22ab]: Commencement: Sch. 3 para. 20 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-344dc32c1ba9905dbdd09b75c95756eb]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/20) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-344dc32c1ba9905dbdd09b75c95756eb]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/20) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-c167c2c30bf0b5146950eb7c341818d0]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/20) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-c167c2c30bf0b5146950eb7c341818d0]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/20) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-722ceb7479f69205954f936ee1ba1698]: Commencement: Sch. 3 para. 21 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-722ceb7479f69205954f936ee1ba1698]: Commencement: Sch. 3 para. 21 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-1fde0204a257ce28e7394f7cd8d8faa4]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-1fde0204a257ce28e7394f7cd8d8faa4]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-ec2b1e2a37b7980b0090b7280efb6b44]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-ec2b1e2a37b7980b0090b7280efb6b44]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/21) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
 
-[^key-587639e14a53ff177bdadbdcd0b81452]: Commencement: Sch. 3 para. 22 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
+[^c-587639e14a53ff177bdadbdcd0b81452]: Commencement: Sch. 3 para. 22 not in operation at Royal Assent, see [s. 44(2)](https://www.legislation.gov.uk/nia/2021/6/section/44/2)
 
-[^key-a0a55aa5784ec0705b306a986485379c]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
+[^c-a0a55aa5784ec0705b306a986485379c]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22) in operation at 16.3.2022 for specified purposes by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/110/article/2/a)
 
-[^key-a8dae272a46349301ea383b0d8190307]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)
+[^c-a8dae272a46349301ea383b0d8190307]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/nia/2021/6/schedule/3/paragraph/22) in operation at 6.4.2022 in so far as not already in operation by [S.R. 2022/110](https://www.legislation.gov.uk/nisr/2022/110), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/110/article/2/b)

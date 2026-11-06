@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Persons entitled to be present at a hearing held in private[^key-d725a8570c54af971c1c4d24f2843127]
+## 31. Persons entitled to be present at a hearing held in private[^c-d725a8570c54af971c1c4d24f2843127]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d725a8570c54af971c1c4d24f2843127]: Commencement: Reg. 31 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-d725a8570c54af971c1c4d24f2843127]: Commencement: Reg. 31 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

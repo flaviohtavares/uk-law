@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Restrictions on power to issue temporary stop notice[^key-f08f170fbaecbb1651c2d943767f80ee]
+## 121. Restrictions on power to issue temporary stop notice[^c-f08f170fbaecbb1651c2d943767f80ee]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f08f170fbaecbb1651c2d943767f80ee]: Commencement: S. 121 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f08f170fbaecbb1651c2d943767f80ee]: Commencement: S. 121 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

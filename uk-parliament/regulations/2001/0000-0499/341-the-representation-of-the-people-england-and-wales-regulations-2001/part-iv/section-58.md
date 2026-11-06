@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Notice of appeal[^key-187278e7eee0c60b0d9ed9b3c9ff4266][^key-76a9cd942fe6d5f9e7e9f0c34dcab1aa][^key-db987a23006a74866e83457dc4abba70][^key-cb38e4e3c621cd2cd65e86ad114f949a][^key-785a0ad9c1703ff461c1dbac265abf53]
+## 58. Notice of appeal[^c-187278e7eee0c60b0d9ed9b3c9ff4266][^c-76a9cd942fe6d5f9e7e9f0c34dcab1aa][^c-db987a23006a74866e83457dc4abba70][^c-cb38e4e3c621cd2cd65e86ad114f949a][^c-785a0ad9c1703ff461c1dbac265abf53]
 
 *Extent: E+W*
 
@@ -28,14 +28,14 @@ summary: ''
 
 ## Annotations
 
-[^key-187278e7eee0c60b0d9ed9b3c9ff4266]: Commencement: Reg. 58 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-187278e7eee0c60b0d9ed9b3c9ff4266]: Commencement: Reg. 58 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
-[^key-76a9cd942fe6d5f9e7e9f0c34dcab1aa]: Modification: [Regs. 50-61](https://www.legislation.gov.uk/uksi/2001/341/regulation/50) applied (with modifications) (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/6/1), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2004/1962/schedule/2/part/3)
+[^c-76a9cd942fe6d5f9e7e9f0c34dcab1aa]: Modification: [Regs. 50-61](https://www.legislation.gov.uk/uksi/2001/341/regulation/50) applied (with modifications) (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/6/1), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2004/1962/schedule/2/part/3)
 
-[^key-db987a23006a74866e83457dc4abba70]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/2001/341/regulation/58) applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 6
+[^c-db987a23006a74866e83457dc4abba70]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/2001/341/regulation/58) applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 6
 
-[^key-cb38e4e3c621cd2cd65e86ad114f949a]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/2001/341/regulation/58) applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 6 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
+[^c-cb38e4e3c621cd2cd65e86ad114f949a]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/2001/341/regulation/58) applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 6 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
 
-[^key-785a0ad9c1703ff461c1dbac265abf53]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/2001/341/regulation/58) applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 6
+[^c-785a0ad9c1703ff461c1dbac265abf53]: Modification: [Reg. 58](https://www.legislation.gov.uk/uksi/2001/341/regulation/58) applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 6
 
 [^f00041]: Footnote: Section 56(1)(b) was amended by Schedule 2 to the 1985 Act.

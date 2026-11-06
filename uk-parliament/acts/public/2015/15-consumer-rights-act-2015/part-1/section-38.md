@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. No other requirement to treat term about quality or fitness as included[^key-d5468f3e9c2c3fa34b4d98dbf3d2520e]
+## 38. No other requirement to treat term about quality or fitness as included[^c-d5468f3e9c2c3fa34b4d98dbf3d2520e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5468f3e9c2c3fa34b4d98dbf3d2520e]: Commencement: S. 38 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-d5468f3e9c2c3fa34b4d98dbf3d2520e]: Commencement: S. 38 in force at 1.10.2015 by [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/a) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

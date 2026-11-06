@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Regulations about care and support plans and support plans[^key-6b64a395902e21e0855e0c4a3f3a9b81]
+## 55. Regulations about care and support plans and support plans[^c-6b64a395902e21e0855e0c4a3f3a9b81]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ Regulations under section 54(5) may, for example—
 
 ## Annotations
 
-[^key-6b64a395902e21e0855e0c4a3f3a9b81]: Commencement: S. 55 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-6b64a395902e21e0855e0c4a3f3a9b81]: Commencement: S. 55 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

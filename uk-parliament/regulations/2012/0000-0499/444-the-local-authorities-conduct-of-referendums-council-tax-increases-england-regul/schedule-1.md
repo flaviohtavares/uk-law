@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — QUESTION TO BE ASKED IN A REFERENDUM[^key-c063c288b1a7cc12b4e900e082c2b459]
+## SCHEDULE 1 — QUESTION TO BE ASKED IN A REFERENDUM[^c-c063c288b1a7cc12b4e900e082c2b459]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ Do you want \[*insert name of authority in respect of which referendum is held*\
 
 ## Annotations
 
-[^key-c063c288b1a7cc12b4e900e082c2b459]: Textual amendment: Sch. 1 substituted (26.2.2013) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment) Regulations 2013 (S.I. 2013/409)](https://www.legislation.gov.uk/uksi/2013/409), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/409/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/409/schedule/1)
+[^c-c063c288b1a7cc12b4e900e082c2b459]: Textual amendment: Sch. 1 substituted (26.2.2013) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment) Regulations 2013 (S.I. 2013/409)](https://www.legislation.gov.uk/uksi/2013/409), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/409/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/409/schedule/1)

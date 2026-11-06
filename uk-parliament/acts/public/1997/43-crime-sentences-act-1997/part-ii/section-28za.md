@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28ZA. Public protection decisions[^key-74cb83f854e42cc4d909d0f56faa68ac][^key-4ceccef13942536f40ead704406a1a58]
+## 28ZA. Public protection decisions[^c-74cb83f854e42cc4d909d0f56faa68ac][^c-4ceccef13942536f40ead704406a1a58]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74cb83f854e42cc4d909d0f56faa68ac]: Modification: [S. 28ZA](https://www.legislation.gov.uk/ukpga/1997/43/section/28ZA): power to amend conferred (3.4.2025) by [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10), [s. 128(3)(aza)](https://www.legislation.gov.uk/ukpga/2012/10/section/128/3/aza) (as inserted by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 60(2)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/60/2/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/441/regulation/2/a))
+[^c-74cb83f854e42cc4d909d0f56faa68ac]: Modification: [S. 28ZA](https://www.legislation.gov.uk/ukpga/1997/43/section/28ZA): power to amend conferred (3.4.2025) by [2012 c.10](https://www.legislation.gov.uk/ukpga/2012/10), [s. 128(3)(aza)](https://www.legislation.gov.uk/ukpga/2012/10/section/128/3/aza) (as inserted by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 60(2)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/60/2/a), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/441/regulation/2/a))
 
-[^key-4ceccef13942536f40ead704406a1a58]: Textual amendment: S. 28ZA inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/58/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/a)
+[^c-4ceccef13942536f40ead704406a1a58]: Textual amendment: S. 28ZA inserted (3.2.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/58/2), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2025/95](https://www.legislation.gov.uk/uksi/2025/95), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/95/regulation/3/a)

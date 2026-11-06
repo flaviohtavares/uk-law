@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Interpretation: lateral projections of loads and their measurement[^key-d42dc6c8e03b340ff2d15a9bd76dedd5]
+## 5. Interpretation: lateral projections of loads and their measurement[^c-d42dc6c8e03b340ff2d15a9bd76dedd5]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d42dc6c8e03b340ff2d15a9bd76dedd5]: Commencement: Art. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-d42dc6c8e03b340ff2d15a9bd76dedd5]: Commencement: Art. 5 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

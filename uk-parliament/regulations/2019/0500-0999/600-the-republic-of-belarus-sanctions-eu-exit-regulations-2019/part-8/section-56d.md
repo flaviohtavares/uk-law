@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56D. Treasury monetary penalties: procedural rights[^key-d1ba219e5071a487e8af6effb129585c]
+## 56D. Treasury monetary penalties: procedural rights[^c-d1ba219e5071a487e8af6effb129585c]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1ba219e5071a487e8af6effb129585c]: Textual amendment: [Regs. 56C](https://www.legislation.gov.uk/uksi/2019/600/regulation/56C), [56D](https://www.legislation.gov.uk/uksi/2019/600/regulation/56D) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(20)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/20)
+[^c-d1ba219e5071a487e8af6effb129585c]: Textual amendment: [Regs. 56C](https://www.legislation.gov.uk/uksi/2019/600/regulation/56C), [56D](https://www.legislation.gov.uk/uksi/2019/600/regulation/56D) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [4(20)](https://www.legislation.gov.uk/uksi/2024/643/regulation/4/20)

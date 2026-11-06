@@ -36,34 +36,34 @@ concerning the authorisation of preparations of lecithins liquid, lecithins hydr
 
 (Text with EEA relevance) (revoked)
 
-[^key-ac858ae76831b85904ba3ada43fb9ee9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac858ae76831b85904ba3ada43fb9ee9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-ac858ae76831b85904ba3ada43fb9ee9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Implementing Regulation (EU) 2017/1007[^key-ac858ae76831b85904ba3ada43fb9ee9]
+## Article 1. Authorisation[^c-ac858ae76831b85904ba3ada43fb9ee9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Transitional measures[^key-ac858ae76831b85904ba3ada43fb9ee9]
+## Article 2. Amendment to Implementing Regulation (EU) 2017/1007[^c-ac858ae76831b85904ba3ada43fb9ee9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force[^key-ac858ae76831b85904ba3ada43fb9ee9]
+## Article 3. Transitional measures[^c-ac858ae76831b85904ba3ada43fb9ee9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac858ae76831b85904ba3ada43fb9ee9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-ac858ae76831b85904ba3ada43fb9ee9]
+## Article 4. Entry into force[^c-ac858ae76831b85904ba3ada43fb9ee9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-ac858ae76831b85904ba3ada43fb9ee9]
+[^c-ac858ae76831b85904ba3ada43fb9ee9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-ac858ae76831b85904ba3ada43fb9ee9]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-ac858ae76831b85904ba3ada43fb9ee9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ac858ae76831b85904ba3ada43fb9ee9]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 265](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/265) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-ac858ae76831b85904ba3ada43fb9ee9]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 265](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/265) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

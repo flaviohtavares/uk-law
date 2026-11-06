@@ -22,7 +22,7 @@ summary: ''
 
 (1) In section 6 of the [^c16419731]Hydrocarbon Oil Duties Act 1979 (excise duty on imported hydrocarbon oil and on oil produced and delivered for home use), in subsection (1)—
 
-- (a)[^key-431598467d94e75201976825682f8636] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-431598467d94e75201976825682f8636] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the words from “and delivered" to “above" shall be omitted.
 
 (2) For subsection (2) of that section there shall be substituted the following subsections—
@@ -54,4 +54,4 @@ summary: ''
 
 [^c16419731]: Marginal citation: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
 
-[^key-431598467d94e75201976825682f8636]: Textual amendment: S. 6(1)(a) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/c), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)
+[^c-431598467d94e75201976825682f8636]: Textual amendment: S. 6(1)(a) omitted (1.11.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 8(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/8/c), [21](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/21)

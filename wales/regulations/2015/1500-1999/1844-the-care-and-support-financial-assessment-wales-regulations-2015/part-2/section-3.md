@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Information to be provided by local authority[^key-22cd82362213a93579ccf3dba5d6b1c2]
+## 3. Information to be provided by local authority[^c-22cd82362213a93579ccf3dba5d6b1c2]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ Before a local authority carries out a financial assessment in accordance with t
 
 ## Annotations
 
-[^key-22cd82362213a93579ccf3dba5d6b1c2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1844/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-22cd82362213a93579ccf3dba5d6b1c2]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1844/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
 
 [^f00018]: Footnote: “Direct payment” is defined in section 50(7) and 52(7) of the Act.
 

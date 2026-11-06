@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Chief Inspectors[^key-78880e778eb014ddc609ba18d2b98242]
+## 89. Chief Inspectors[^c-78880e778eb014ddc609ba18d2b98242]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ After paragraph 3 of Schedule 1 to the Health and Social Care Act 2008 insert—
 
 ## Annotations
 
-[^key-78880e778eb014ddc609ba18d2b98242]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2014/23/section/89) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/d)
+[^c-78880e778eb014ddc609ba18d2b98242]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2014/23/section/89) in force at 1.10.2014 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/2473/article/3/d)

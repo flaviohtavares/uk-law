@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 209. File of court proceedings and inspection[^key-c67fc2ab2885d56fe8e21e6b1565817e]
+## 209. File of court proceedings and inspection[^c-c67fc2ab2885d56fe8e21e6b1565817e]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c67fc2ab2885d56fe8e21e6b1565817e]: Commencement: Rule 209 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c67fc2ab2885d56fe8e21e6b1565817e]: Commencement: Rule 209 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

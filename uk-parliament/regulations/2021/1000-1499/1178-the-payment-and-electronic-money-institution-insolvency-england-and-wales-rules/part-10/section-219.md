@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 219. Appointment of another person to act[^key-0b81f8e72e27807c4e723eb4e56ac497]
+## 219. Appointment of another person to act[^c-0b81f8e72e27807c4e723eb4e56ac497]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b81f8e72e27807c4e723eb4e56ac497]: Commencement: Rule 219 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-0b81f8e72e27807c4e723eb4e56ac497]: Commencement: Rule 219 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Meaning of “annualised final pay”[^key-14d42e6be2002ff05a29661c3a8d5f59]
+## 94. Meaning of “annualised final pay”[^c-14d42e6be2002ff05a29661c3a8d5f59]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ where—
 
 ## Annotations
 
-[^key-14d42e6be2002ff05a29661c3a8d5f59]: Commencement: [Reg. 94](https://www.legislation.gov.uk/ssi/2015/19/regulation/94) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-14d42e6be2002ff05a29661c3a8d5f59]: Commencement: [Reg. 94](https://www.legislation.gov.uk/ssi/2015/19/regulation/94) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

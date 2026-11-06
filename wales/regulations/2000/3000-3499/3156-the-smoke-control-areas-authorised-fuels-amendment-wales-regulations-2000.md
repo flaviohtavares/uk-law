@@ -41,13 +41,13 @@ Coming into force
 
 The National Assembly for Wales makes the following Regulations in exercise of the powers conferred on it by sections 20(6) and 63(1) of the Clean Air Act 1993[^f00001] and of all other powers enabling it in that behalf.
 
-## 1. Citation, commencement and application[^key-fa525cba762e0f383952de1770d78901]
+## 1. Citation, commencement and application[^c-fa525cba762e0f383952de1770d78901]
 
 (1) These Regulations may be cited as the Smoke Control Areas (Authorised Fuels) (Amendment) (Wales) Regulations 2000 and shall come into force on 1st December 2000.
 
 (2) These Regulations apply to Wales only.
 
-## 2. Authorised Fuels for the purposes of the Clean Air Act 1993[^key-07a14524a11d761228c8a4f17a0c992d]
+## 2. Authorised Fuels for the purposes of the Clean Air Act 1993[^c-07a14524a11d761228c8a4f17a0c992d]
 
 (1) Schedule 1 to the Smoke Control Areas (Authorised Fuels) Regulations 1991[^f00002] shall be amended as follows:
 
@@ -78,7 +78,7 @@ The National Assembly for Wales makes the following Regulations in exercise of t
 
 .
 
-## 3. Savings[^key-4a2bbf61a90732958c4937b38cd7c1eb]
+## 3. Savings[^c-4a2bbf61a90732958c4937b38cd7c1eb]
 
 Notwithstanding the amendments made by regulation 2(2) and (5), Sunbrite and Beacon Beans coke manufactured before the coming into force of these Regulations at Avenue Coking and Chemical Works, Wingerworth, near Chesterfield, Derbyshire and Supertherm, Supertherm II and Thermac briquettes manufactured before that date by Thermac Fuels Limited shall continue to be authorised fuels.
 
@@ -112,9 +112,9 @@ The Regulations also amend the 1991 Regulations to take account of the following
 
 [^f00001]: Footnote: [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11).The functions of the Secretary of State under section 20(6) of the Clean Air Act 1993 were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-fa525cba762e0f383952de1770d78901]: Commencement: Reg. 1 in force at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/3156/regulation/1/1)
+[^c-fa525cba762e0f383952de1770d78901]: Commencement: Reg. 1 in force at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/3156/regulation/1/1)
 
-[^key-07a14524a11d761228c8a4f17a0c992d]: Commencement: Reg. 2 in force at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/3156/regulation/1/1)
+[^c-07a14524a11d761228c8a4f17a0c992d]: Commencement: Reg. 2 in force at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/3156/regulation/1/1)
 
 [^f00002]: Footnote: S.I. [1991/1282](https://www.legislation.gov.uk/uksi/1991/1282), amended by S.I. [1992/72](https://www.legislation.gov.uk/uksi/1992/72), [3148](https://www.legislation.gov.uk/uksi/1992/3148), [1993/2499](https://www.legislation.gov.uk/uksi/1993/2499), [1996/1145](https://www.legislation.gov.uk/uksi/1996/1145), [1997/2658](https://www.legislation.gov.uk/uksi/1997/2658), [1998/2154](https://www.legislation.gov.uk/uksi/1998/2154) and [3096](https://www.legislation.gov.uk/uksi/1998/3096).
 
@@ -126,6 +126,6 @@ The Regulations also amend the 1991 Regulations to take account of the following
 
 [^f00006]: Footnote: Paragraph 18B(c) was inserted by regulation 2(c) of S.I. [1997/2658](https://www.legislation.gov.uk/uksi/1997/2658).
 
-[^key-4a2bbf61a90732958c4937b38cd7c1eb]: Commencement: Reg. 3 in force at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/3156/regulation/1/1)
+[^c-4a2bbf61a90732958c4937b38cd7c1eb]: Commencement: Reg. 3 in force at 1.12.2000, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2000/3156/regulation/1/1)
 
 [^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

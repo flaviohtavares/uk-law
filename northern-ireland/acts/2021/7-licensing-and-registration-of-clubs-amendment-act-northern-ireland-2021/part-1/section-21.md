@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Minimum price for alcohol[^key-bd99f5f1a9ab05212a13c2cacb9a6e5d][^key-b454294cc72ce849670e2d88aa816c15]
+## 21. Minimum price for alcohol[^c-bd99f5f1a9ab05212a13c2cacb9a6e5d][^c-b454294cc72ce849670e2d88aa816c15]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd99f5f1a9ab05212a13c2cacb9a6e5d]: Commencement: S. 21 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-bd99f5f1a9ab05212a13c2cacb9a6e5d]: Commencement: S. 21 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-b454294cc72ce849670e2d88aa816c15]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2021/7/section/21) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-b454294cc72ce849670e2d88aa816c15]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2021/7/section/21) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

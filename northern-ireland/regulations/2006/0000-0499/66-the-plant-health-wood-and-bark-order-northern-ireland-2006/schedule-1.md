@@ -16,62 +16,62 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 (affected by repeal, see note) — Pests which shall not be landed in or spread within Northern Ireland (affected by repeal, see note)[^key-aa6bababe9323a689b91d3bab839b049][^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+## SCHEDULE 1 (affected by repeal, see note) — Pests which shall not be landed in or spread within Northern Ireland (affected by repeal, see note)[^c-aa6bababe9323a689b91d3bab839b049][^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
-Articles 4(1), 11(2),17(1), 18(1), 22(4), 26(7), 29(5), 30(2), 37(2), 38(2), 39(2). *(affected by repeal, see note)*[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+Articles 4(1), 11(2),17(1), 18(1), 22(4), 26(7), 29(5), 30(2), 37(2), 38(2), 39(2). *(affected by repeal, see note)*[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
-**[^key-8f0bafb2771c5f1c8a295147e0262bff]...**
-
-|  |  |
-| --- | --- |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+**[^c-8f0bafb2771c5f1c8a295147e0262bff]...**
 
 |  |  |
 | --- | --- |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
 
 |  |  |
 | --- | --- |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |  |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . | [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |
 
 |  |  |
 | --- | --- |
-| [^key-8f0bafb2771c5f1c8a295147e0262bff]. . . |  |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |  |
+
+|  |  |
+| --- | --- |
+| [^c-8f0bafb2771c5f1c8a295147e0262bff]. . . |  |
 
 ## Annotations
 
-[^key-aa6bababe9323a689b91d3bab839b049]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/66/schedule/1) in operation at 31.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/66/article/1)
+[^c-aa6bababe9323a689b91d3bab839b049]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2006/66/schedule/1) in operation at 31.3.2006, see [art. 1](https://www.legislation.gov.uk/nisr/2006/66/article/1)
 
-[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/66) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
+[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/66) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
 
-[^key-8f0bafb2771c5f1c8a295147e0262bff]: Textual amendment: [Schs. 1-8](https://www.legislation.gov.uk/nisr/2006/66/schedule/1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(45)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f0bafb2771c5f1c8a295147e0262bff]: Textual amendment: [Schs. 1-8](https://www.legislation.gov.uk/nisr/2006/66/schedule/1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(45)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Requirement to respond to Commissioner's recommendations[^key-9456ae668bb54aba33d4492c9ac63a48]
+## 6. Requirement to respond to Commissioner's recommendations[^c-9456ae668bb54aba33d4492c9ac63a48]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9456ae668bb54aba33d4492c9ac63a48]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/8/section/6) in force at 7.8.2017 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(4)](https://www.legislation.gov.uk/ssi/2016/254/article/3/4)
+[^c-9456ae668bb54aba33d4492c9ac63a48]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/8/section/6) in force at 7.8.2017 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(4)](https://www.legislation.gov.uk/ssi/2016/254/article/3/4)

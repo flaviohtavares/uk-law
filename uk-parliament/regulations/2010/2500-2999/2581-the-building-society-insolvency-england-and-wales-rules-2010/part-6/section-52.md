@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Chair of meeting as proxy–holder[^key-c97957045537e0aee25097fae37c8c73]
+## 52. Chair of meeting as proxy–holder[^c-c97957045537e0aee25097fae37c8c73]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.64 of the 1986 Rules.
 
 ## Annotations
 
-[^key-c97957045537e0aee25097fae37c8c73]: Commencement: Rule 52 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-c97957045537e0aee25097fae37c8c73]: Commencement: Rule 52 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

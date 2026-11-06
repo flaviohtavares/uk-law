@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Review of safety case[^key-782f21e24561a1d7ec13aa20ae8f1321]
+## 23. Review of safety case[^c-782f21e24561a1d7ec13aa20ae8f1321]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-782f21e24561a1d7ec13aa20ae8f1321]: Commencement: Reg. 23 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-782f21e24561a1d7ec13aa20ae8f1321]: Commencement: Reg. 23 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

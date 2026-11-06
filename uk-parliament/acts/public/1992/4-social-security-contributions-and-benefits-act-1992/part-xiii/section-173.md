@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Age.[^key-a2c700c939b4d8e9c89b596fdfa200af]
+## 173. Age.[^c-a2c700c939b4d8e9c89b596fdfa200af]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ and in Scotland (as in England and Wales) the time at which a person attains a p
 
 ## Annotations
 
-[^key-a2c700c939b4d8e9c89b596fdfa200af]: Modification: S. 173 applied (2.7.2002 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [ss. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2002/16/section/17/3/b), [22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)
+[^c-a2c700c939b4d8e9c89b596fdfa200af]: Modification: S. 173 applied (2.7.2002 for specified purposes, 6.10.2003 in so far as not already in force) by [State Pension Credit Act 2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), [ss. 17(3)(b)](https://www.legislation.gov.uk/ukpga/2002/16/section/17/3/b), [22(3)](https://www.legislation.gov.uk/ukpga/2002/16/section/22/3); [S.I. 2003/1766](https://www.legislation.gov.uk/uksi/2003/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2003/1766/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Special category land[^key-1fb4ebc1bb519142b90b12eff34e064c]
+## 28. Special category land[^c-1fb4ebc1bb519142b90b12eff34e064c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ whichever is the earliest.
 
 ## Annotations
 
-[^key-1fb4ebc1bb519142b90b12eff34e064c]: Commencement: Art. 28 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-1fb4ebc1bb519142b90b12eff34e064c]: Commencement: Art. 28 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

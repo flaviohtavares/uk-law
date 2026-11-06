@@ -56,7 +56,7 @@ Accordingly, the Secretary of State makes the following Regulations.
 
 ## PART 1 — Introduction
 
-### 1. Title, commencement and application[^key-d9690eae149388f577d1232e1e4a2317]
+### 1. Title, commencement and application[^c-d9690eae149388f577d1232e1e4a2317]
 
 These Regulations—
 
@@ -64,7 +64,7 @@ These Regulations—
 - (b) come into force on 11th May 2012;
 - (c) apply in England and Wales only.
 
-### 2. Interpretation[^key-4d4d16aa0f48b54e1135c4c9a15d1271]
+### 2. Interpretation[^c-4d4d16aa0f48b54e1135c4c9a15d1271]
 
 In these Regulations—
 
@@ -77,20 +77,20 @@ In these Regulations—
 - “marketing standards” means any of the minimum requirements, classification, sizing, presentation and marking standards provided for in Article 1 and Annex I of the Commission Regulation, subject to the tolerances in paragraph IV of that Annex; and
 - “premises” includes any place, vehicle or trailer, stall, vessel, freight container, moveable structure, aircraft, or hovercraft.
 
-### 3. Designations, provision of information and appointment of officers[^key-a9bee594db7c12aa01b377aa2f9c1988]
+### 3. Designations, provision of information and appointment of officers[^c-a9bee594db7c12aa01b377aa2f9c1988]
 
 (1) The Secretary of State is designated as the competent national authority for England and Wales for the purposes of the Commission Regulation and as the body responsible for the checks under that Regulation in England and Wales.
 
 (2) For the purposes of fulfilling the obligations in the Commission Regulation on competent national authorities and bodies responsible for checks, the Secretary of State may, without prejudice to disclosure pursuant to an order of a court or pursuant to a rule of law, provide information to and request information from—
 
-- (a) the competent national authorities and inspection bodies [^key-f383687b0f0d6abfa775e466f585fb5c]... in Northern Ireland and Scotland;
-- (b)[^key-a1cec4fca0d9ac54923532716df947b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the competent national authorities and inspection bodies [^c-f383687b0f0d6abfa775e466f585fb5c]... in Northern Ireland and Scotland;
+- (b)[^c-a1cec4fca0d9ac54923532716df947b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The Secretary of State may appoint officers for the purposes of the enforcement of these Regulations.
 
 ##  PART 2 — Offences and Penalties
 
-### 4. Offences[^key-6e9b645dbd4f03bb51ef11a83fb61e1c]
+### 4. Offences[^c-6e9b645dbd4f03bb51ef11a83fb61e1c]
 
 It is an offence for a person—
 
@@ -104,13 +104,13 @@ It is an offence for a person—
   - (ii) fail to provide any record or facilities that an authorised officer may reasonably require; or
   - (iii) supply to an authorised officer any information knowing it to be false, inaccurate or misleading.
 
-### 5. Penalties[^key-8f8d74cb76a2eac1a15450f2432f4439]
+### 5. Penalties[^c-8f8d74cb76a2eac1a15450f2432f4439]
 
 A person guilty of an offence under these Regulations is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 ## PART 3 — Powers of Authorised Officers
 
-### 6. Powers of entry[^key-cda6361e807a1e5911572af062397ca4]
+### 6. Powers of entry[^c-cda6361e807a1e5911572af062397ca4]
 
 (1) An authorised officer may, on giving reasonable notice, and on producing a duly authenticated authorisation if required, enter any premises at any reasonable hour for the purposes of the enforcement of these Regulations or the checks under the Commission Regulation.
 
@@ -127,7 +127,7 @@ A person guilty of an offence under these Regulations is liable on summary convi
 
 - (a) be accompanied by—
   - (i) such other persons as the authorised officer considers necessary; and
-  - (ii)[^key-e4ebc6805266202c024d27de01c81d57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-e4ebc6805266202c024d27de01c81d57] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) bring on to the premises such equipment as the authorised officer considers necessary.
 
 (5) A justice of the peace may, by signed warrant, permit an authorised officer to enter premises, if necessary by reasonable force, if the justice, on sworn information in writing is satisfied that—
@@ -146,7 +146,7 @@ A person guilty of an offence under these Regulations is liable on summary convi
 
 (8) An authorised officer who enters any unoccupied premises must leave them as effectively secured against unauthorised entry as they were before entry.
 
-### 7. Other powers and obligations of authorised officers[^key-9645f6a64798d0e6228843c22e92b243]
+### 7. Other powers and obligations of authorised officers[^c-9645f6a64798d0e6228843c22e92b243]
 
 (1) An authorised officer who has entered premises under regulation 6 may—
 
@@ -179,7 +179,7 @@ A person guilty of an offence under these Regulations is liable on summary convi
 
 an authorised officer must return the items as soon as is reasonably practicable.
 
-### 8. Power to affix a re-graded label[^key-5919b539d0a8c35b8931fc0b1085012a]
+### 8. Power to affix a re-graded label[^c-5919b539d0a8c35b8931fc0b1085012a]
 
 (1) Where an authorised officer who has entered premises under regulation 6 finds bananas which have affixed to them a label or are accompanied by a notice or a document, or are in a container to which a label is affixed or that is accompanied by a notice or document—
 
@@ -193,7 +193,7 @@ the authorised officer may amend or cancel the label, notice or document and may
 - (a) the words “RE-GRADED CLASS I”; or
 - (b) the words “RE-GRADED CLASS II”.
 
-### 9. Power to affix an out-graded label[^key-eb9b65d531b9642a0c67634de5dc4789]
+### 9. Power to affix an out-graded label[^c-eb9b65d531b9642a0c67634de5dc4789]
 
 (1) Where an authorised officer who has entered premises under regulation 6 finds bananas which have affixed to them a label or are accompanied by a notice or a document, or are in a container to which a label is affixed or that is accompanied by a notice or document—
 
@@ -204,7 +204,7 @@ the authorised officer may amend or cancel the label, notice or document and may
 
 (2) The out-graded label must show the word “OUTGRADED”.
 
-### 10. Power to affix a labelling defect label[^key-bc5accd61a3cef65c907f0fdcc276572]
+### 10. Power to affix a labelling defect label[^c-bc5accd61a3cef65c907f0fdcc276572]
 
 (1) Where an authorised officer who has entered premises under regulation 6 finds bananas or containers of bananas which—
 
@@ -217,7 +217,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 
 (2) The labelling defect label must show the words “LABELLING DEFECT”.
 
-### 11. Power to affix a movement control label[^key-70e2629b4cd37657738d8b024191ad41]
+### 11. Power to affix a movement control label[^c-70e2629b4cd37657738d8b024191ad41]
 
 (1) An authorised officer may affix to any bananas or to any container of bananas a label warning that a movement control notice has been served under regulation 15(1) (a “movement control label”).
 
@@ -225,7 +225,7 @@ the authorised officer may, as appropriate, amend or cancel the label, notice or
 
 - “This lot is subject to a Movement Control Notice. The bananas to which this label applies must not be moved without authorisation”.
 
-### 12. Content of labels[^key-3393603efdbea5d3ba41b21bb616fc25]
+### 12. Content of labels[^c-3393603efdbea5d3ba41b21bb616fc25]
 
 A label affixed by an authorised officer under regulation 8(1), regulation 9(1), regulation 10(1) or regulation 11(1) must contain the following information—
 
@@ -239,7 +239,7 @@ A label affixed by an authorised officer under regulation 8(1), regulation 9(1),
   - (a) the wording—
 - “This label must not be removed without authorisation.”.
 
-### 13. Written undertakings[^key-a64c8c34224ebdc519495d5ecd7f598d]
+### 13. Written undertakings[^c-a64c8c34224ebdc519495d5ecd7f598d]
 
 (1) An authorised officer may accept a written undertaking from a person who appears to the officer to be in control of bananas where the officer has—
 
@@ -257,7 +257,7 @@ A label affixed by an authorised officer under regulation 8(1), regulation 9(1),
 - (e) specify the agreed date by which such action will be taken; and
 - (f) be signed and dated by the person giving the undertaking and the authorised officer.
 
-### 14. Warning notices[^key-bd67d9dac3f18e748cc85be6390e141d]
+### 14. Warning notices[^c-bd67d9dac3f18e748cc85be6390e141d]
 
 (1) An authorised officer may serve a warning notice on a person if that authorised officer is of the opinion that there has been or may have been a contravention of any relevant rule.
 
@@ -274,7 +274,7 @@ A label affixed by an authorised officer under regulation 8(1), regulation 9(1),
 - (b) Article 6(6) of the Commission Regulation;
 - (c) the requirement on exempted traders in Article 9(3) of the Commission Regulation.
 
-### 15. Movement control notice[^key-c7fa4d2eb63bbda66627ef8f5d02d1ff]
+### 15. Movement control notice[^c-c7fa4d2eb63bbda66627ef8f5d02d1ff]
 
 (1) An authorised officer may serve a movement control notice on a person if that authorised officer is of the opinion that there has been or may have been a contravention of any of the marketing standards.
 
@@ -309,7 +309,7 @@ A label affixed by an authorised officer under regulation 8(1), regulation 9(1),
 
 (7) An authorised officer’s withdrawal of a movement control notice must be in writing.
 
-### 16. Content of notices[^key-2d5007e387bdd9231f8fd9121d3d93b9]
+### 16. Content of notices[^c-2d5007e387bdd9231f8fd9121d3d93b9]
 
 A notice served under regulation 14(1) or regulation 15(1) must show the following information—
 
@@ -318,7 +318,7 @@ A notice served under regulation 14(1) or regulation 15(1) must show the followi
 - (c) identification of the bananas, or lot of bananas, in relation to which the notice has been served;
 - (d) details of the right of review of the notice, including when and how it may be exercised and the contact details of persons to whom notice of exercise of the right must be given.
 
-### 17. Service of notices[^key-bc4a985a09388a9f4247760e8d24d3ed]
+### 17. Service of notices[^c-bc4a985a09388a9f4247760e8d24d3ed]
 
 (1) A notice under regulation 14(1) or regulation 15(1) must be served on the person who appears to the authorised officer to be in control of the bananas to which the notice relates.
 
@@ -326,7 +326,7 @@ A notice served under regulation 14(1) or regulation 15(1) must show the followi
 
 (3) Subject to regulation 15(7), an authorised officer may, in writing, at any time withdraw or vary a notice.
 
-### 18. Right of review of notices[^key-64c1c57e95d872f391a363395eb13ab9]
+### 18. Right of review of notices[^c-64c1c57e95d872f391a363395eb13ab9]
 
 (1) Subject to paragraph (2), a person served with a notice under regulation 14(1) or regulation 15(1) has a right to a review of the notice.
 
@@ -348,13 +348,13 @@ A notice served under regulation 14(1) or regulation 15(1) must show the followi
 
 ## PART 6 — Additional Enforcement Provisions
 
-### 19. Offence due to fault of another person[^key-54368db3c605503a87e3c4f6e14f1010]
+### 19. Offence due to fault of another person[^c-54368db3c605503a87e3c4f6e14f1010]
 
 (1) Where the commission by a person (“A”) of an offence under these Regulations was due to an act or default of another person (“B”), B is guilty of an offence.
 
 (2) B may be charged with and convicted of the offence whether or not proceedings are taken against A.
 
-### 20. Offences by bodies corporate etc.[^key-089fbbd63bcdd0e838e8a4d3c6008694]
+### 20. Offences by bodies corporate etc.[^c-089fbbd63bcdd0e838e8a4d3c6008694]
 
 (1) If an offence under these Regulations committed by a body corporate is proved—
 
@@ -392,7 +392,7 @@ the officer or member as well as the association is guilty of the offence and li
 
 ## PART 7 — Final provisions
 
-### 21. Review of Regulations[^key-bfa3ffab783a64d36a450b1ee3042a5e]
+### 21. Review of Regulations[^c-bfa3ffab783a64d36a450b1ee3042a5e]
 
 (1) The Secretary of State must from time to time—
 
@@ -400,7 +400,7 @@ the officer or member as well as the association is guilty of the offence and li
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2)[^key-5851bf8d6629043a75502de88e54ec75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5851bf8d6629043a75502de88e54ec75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -412,7 +412,7 @@ the officer or member as well as the association is guilty of the offence and li
 
 (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-### 22. Disapplications[^key-73250db62e1b8590b29db3d845b7e360]
+### 22. Disapplications[^c-73250db62e1b8590b29db3d845b7e360]
 
 The following Acts do not apply in England and Wales to bananas—
 
@@ -464,63 +464,63 @@ A full impact assessment has not been produced for this instrument because the o
 
 [^f00004]: Footnote: OJ No L 31, 1.2.2002, p 1, as last amended by OJ No L 188, 18.7.2009, p 14.
 
-[^key-d9690eae149388f577d1232e1e4a2317]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/947/regulation/1) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-d9690eae149388f577d1232e1e4a2317]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/947/regulation/1) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-4d4d16aa0f48b54e1135c4c9a15d1271]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/947/regulation/2) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-4d4d16aa0f48b54e1135c4c9a15d1271]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/947/regulation/2) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
 [^f00005]: Footnote: OJ No L 157, 15.6.2011, p 1, as last amended by OJ No L 335, 17.12.201, p. 66.
 
-[^key-a9bee594db7c12aa01b377aa2f9c1988]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/947/regulation/3) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-a9bee594db7c12aa01b377aa2f9c1988]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/947/regulation/3) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-f383687b0f0d6abfa775e466f585fb5c]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2012/947/regulation/3/2/a) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f383687b0f0d6abfa775e466f585fb5c]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2012/947/regulation/3/2/a) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/uksi/2019/824/regulation/7/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a1cec4fca0d9ac54923532716df947b2]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/3/2/b) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1cec4fca0d9ac54923532716df947b2]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/3/2/b) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/uksi/2019/824/regulation/7/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6e9b645dbd4f03bb51ef11a83fb61e1c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/947/regulation/4) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-6e9b645dbd4f03bb51ef11a83fb61e1c]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/947/regulation/4) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-8f8d74cb76a2eac1a15450f2432f4439]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/947/regulation/5) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-8f8d74cb76a2eac1a15450f2432f4439]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/947/regulation/5) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-cda6361e807a1e5911572af062397ca4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/947/regulation/6) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-cda6361e807a1e5911572af062397ca4]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/947/regulation/6) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-e4ebc6805266202c024d27de01c81d57]: Textual amendment: [Reg. 6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/947/regulation/6/4/a/ii) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4ebc6805266202c024d27de01c81d57]: Textual amendment: [Reg. 6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/947/regulation/6/4/a/ii) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/824/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9645f6a64798d0e6228843c22e92b243]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/947/regulation/7) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-9645f6a64798d0e6228843c22e92b243]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/947/regulation/7) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-5919b539d0a8c35b8931fc0b1085012a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/947/regulation/8) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-5919b539d0a8c35b8931fc0b1085012a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/947/regulation/8) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-eb9b65d531b9642a0c67634de5dc4789]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/947/regulation/9) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-eb9b65d531b9642a0c67634de5dc4789]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/947/regulation/9) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-bc5accd61a3cef65c907f0fdcc276572]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/947/regulation/10) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-bc5accd61a3cef65c907f0fdcc276572]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/947/regulation/10) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-70e2629b4cd37657738d8b024191ad41]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/947/regulation/11) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-70e2629b4cd37657738d8b024191ad41]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/947/regulation/11) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-3393603efdbea5d3ba41b21bb616fc25]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/947/regulation/12) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-3393603efdbea5d3ba41b21bb616fc25]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/947/regulation/12) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-a64c8c34224ebdc519495d5ecd7f598d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/947/regulation/13) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-a64c8c34224ebdc519495d5ecd7f598d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/947/regulation/13) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-bd67d9dac3f18e748cc85be6390e141d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/947/regulation/14) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-bd67d9dac3f18e748cc85be6390e141d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/947/regulation/14) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-c7fa4d2eb63bbda66627ef8f5d02d1ff]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/947/regulation/15) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-c7fa4d2eb63bbda66627ef8f5d02d1ff]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/947/regulation/15) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-2d5007e387bdd9231f8fd9121d3d93b9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/947/regulation/16) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-2d5007e387bdd9231f8fd9121d3d93b9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/947/regulation/16) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-bc4a985a09388a9f4247760e8d24d3ed]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/947/regulation/17) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-bc4a985a09388a9f4247760e8d24d3ed]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/947/regulation/17) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-64c1c57e95d872f391a363395eb13ab9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/947/regulation/18) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-64c1c57e95d872f391a363395eb13ab9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/947/regulation/18) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-54368db3c605503a87e3c4f6e14f1010]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/947/regulation/19) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-54368db3c605503a87e3c4f6e14f1010]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/947/regulation/19) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-089fbbd63bcdd0e838e8a4d3c6008694]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/947/regulation/20) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-089fbbd63bcdd0e838e8a4d3c6008694]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/947/regulation/20) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
 [^f00006]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Subsections (1) and (2) of section 33 were repealed by the Magistrates’ Courts Act [1952 (c. 55)](https://www.legislation.gov.uk/ukpga/1952/55), section 132 and Schedule 6; subsection (3) was amended by the Courts Act [1971 (c.23)](https://www.legislation.gov.uk/ukpga/1971/23), section 56(1) and Schedule 8, part II, paragraph 19; subsection (4) was amended by the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), section 109(1) and (3), Schedule 8, paragraph 71 and Schedule 10, and by the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43), section 154 and Schedule 7, paragraph 5 (since repealed); subsection (5) was repealed by the Magistrates’ Courts Act 1952, section 132, Schedule 6.
 
 [^f00007]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43). Sub-paragraph 2(a) was amended by the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 47, Schedule 1, paragraph 13, and was repealed by the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), sections 41 and 332, Schedule 3, part 2, paragraph 51, sub-paragraphs (1), (13)(a), and Schedule 37, part 4 (with effect from a date to be appointed); paragraph 5 was repealed by the Criminal Justice Act [1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53), sections 25(2) and 101(2) and Schedule 13; paragraph 6 was amended by the Criminal Justice Act 2003, section 41, Schedule 3, part 2, paragraph 51, sub-paragraphs (1) and (13)(b) (with effect from a date to be appointed).
 
-[^key-bfa3ffab783a64d36a450b1ee3042a5e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/947/regulation/21) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-bfa3ffab783a64d36a450b1ee3042a5e]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/947/regulation/21) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
-[^key-5851bf8d6629043a75502de88e54ec75]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/947/regulation/21/2) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/824/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5851bf8d6629043a75502de88e54ec75]: Textual amendment: [Reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/947/regulation/21/2) omitted (31.12.2020) by virtue of [The Market Measures (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/824)](https://www.legislation.gov.uk/uksi/2019/824), [regs. 1](https://www.legislation.gov.uk/uksi/2019/824/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/824/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-73250db62e1b8590b29db3d845b7e360]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/947/regulation/22) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
+[^c-73250db62e1b8590b29db3d845b7e360]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/947/regulation/22) in force at 11.5.2012, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2012/947/regulation/1/b)
 
 [^f00008]: Footnote: [1964 c. 28](https://www.legislation.gov.uk/ukpga/1964/28).
 

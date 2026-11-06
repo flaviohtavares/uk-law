@@ -37,27 +37,27 @@ An Act to repeal and re-enact with amendments section 97 of the National Parks a
 
 *Extent: E*
 
-(1)[^c753939][^key-b362e820f04836982d95465d4e0e88b5][^key-e0b97503cd0f9e463d4e5db9dabfdeed][^key-b17d7927901d13d52898319763184469][^key-4bb009c6b048fb8b66d846d24fa5f824] Subject to the provisions of this section, where it appears to the Secretary of State that steps should be taken for the purpose of—
+(1)[^c753939][^c-b362e820f04836982d95465d4e0e88b5][^c-e0b97503cd0f9e463d4e5db9dabfdeed][^c-b17d7927901d13d52898319763184469][^c-4bb009c6b048fb8b66d846d24fa5f824] Subject to the provisions of this section, where it appears to the Secretary of State that steps should be taken for the purpose of—
 
 - (a) reclaiming or improving any land to which this sub-section applies; or
 - (b) enabling any such land to be brought into use,
 
 he may, with the consent of the Treasury, pay to any person out of money provided by Parliament grants of such amounts and payable at such time and subject to such conditions as he may from time to time determine in respect of relevant expenditure which is incurred by that person.
 
-(2)[^c753939][^key-b362e820f04836982d95465d4e0e88b5][^key-e0b97503cd0f9e463d4e5db9dabfdeed][^key-b17d7927901d13d52898319763184469][^key-4bb009c6b048fb8b66d846d24fa5f824] Subsection (1) above applies to—
+(2)[^c753939][^c-b362e820f04836982d95465d4e0e88b5][^c-e0b97503cd0f9e463d4e5db9dabfdeed][^c-b17d7927901d13d52898319763184469][^c-4bb009c6b048fb8b66d846d24fa5f824] Subsection (1) above applies to—
 
 - (a) land which is derelict, neglected or unsightly; and
 - (b) in relation to a local authority in whose area it is situated, land which is not derelict, neglected or unsightly but is likely to become so by reason of actual or apprehended collapse of the surface as the result of the carrying out of relevant operations which have ceased to be carried out.
 
-(3)[^c753939][^key-b362e820f04836982d95465d4e0e88b5][^key-e0b97503cd0f9e463d4e5db9dabfdeed][^key-b17d7927901d13d52898319763184469][^key-4bb009c6b048fb8b66d846d24fa5f824] In subsection (1) above “**relevant expenditure**” means expenditure which is incurred, with the approval of the Secretary of State, after the commencement of this Act in or in connection with—
+(3)[^c753939][^c-b362e820f04836982d95465d4e0e88b5][^c-e0b97503cd0f9e463d4e5db9dabfdeed][^c-b17d7927901d13d52898319763184469][^c-4bb009c6b048fb8b66d846d24fa5f824] In subsection (1) above “**relevant expenditure**” means expenditure which is incurred, with the approval of the Secretary of State, after the commencement of this Act in or in connection with—
 
 - (a) the carrying out, for the purpose mentioned in that subsection, of any works on the land to which that subsection applies or any other land;
 - (b) the carrying out of a survey of the land to which that subsection applies for determining whether any works for that purpose should be undertaken (whether or not such works are carried out); and
 - (c) in relation to a local authority in whose area the land to which that subsection applies is situated, the acquisition, for that purpose, of that land or any other land.
 
-(4)[^c753939][^key-b362e820f04836982d95465d4e0e88b5][^key-e0b97503cd0f9e463d4e5db9dabfdeed][^key-b17d7927901d13d52898319763184469][^key-4bb009c6b048fb8b66d846d24fa5f824] Grants under this section may be made in such manner as appears to the Secretary of State to be requisite.
+(4)[^c753939][^c-b362e820f04836982d95465d4e0e88b5][^c-e0b97503cd0f9e463d4e5db9dabfdeed][^c-b17d7927901d13d52898319763184469][^c-4bb009c6b048fb8b66d846d24fa5f824] Grants under this section may be made in such manner as appears to the Secretary of State to be requisite.
 
-(5)[^c753939][^key-b362e820f04836982d95465d4e0e88b5][^key-e0b97503cd0f9e463d4e5db9dabfdeed][^key-b17d7927901d13d52898319763184469][^key-4bb009c6b048fb8b66d846d24fa5f824] Where the land to which subsection (1) applies is in a development area or intermediate area, the amount of the grant which may be paid under this section to any person shall not exceed—
+(5)[^c753939][^c-b362e820f04836982d95465d4e0e88b5][^c-e0b97503cd0f9e463d4e5db9dabfdeed][^c-b17d7927901d13d52898319763184469][^c-4bb009c6b048fb8b66d846d24fa5f824] Where the land to which subsection (1) applies is in a development area or intermediate area, the amount of the grant which may be paid under this section to any person shall not exceed—
 
 - (a) the prescribed percentage of the relevant expenditure; or
 - (b) in the case of a periodical grant in respect of costs from time to time incurred or treated as incurred in respect of the borrowing of money to defray the relevant expenditure, the prescribed percentage of the costs so incurred or treated as incurred.
@@ -67,7 +67,7 @@ In this subsection “**the prescribed percentage**” means—
 - (a) where the applicant for the grant is a local authority in whose area the land to which subsection (1) above applies is situated, 100 per cent.;
 - (b)[^c753944] in any other case, 80 per cent. or such other percentage as may be prescribed by order made by the Secretary of State with the consent of the Treasury.
 
-(6)[^c753939][^key-b362e820f04836982d95465d4e0e88b5][^key-e0b97503cd0f9e463d4e5db9dabfdeed][^key-b17d7927901d13d52898319763184469][^key-4bb009c6b048fb8b66d846d24fa5f824] Where the land to which subsection (1) applies is not in a development area or intermediate area, the amount of the grant which may be paid under this section to any person shall not exceed—
+(6)[^c753939][^c-b362e820f04836982d95465d4e0e88b5][^c-e0b97503cd0f9e463d4e5db9dabfdeed][^c-b17d7927901d13d52898319763184469][^c-4bb009c6b048fb8b66d846d24fa5f824] Where the land to which subsection (1) applies is not in a development area or intermediate area, the amount of the grant which may be paid under this section to any person shall not exceed—
 
 - (a) the prescribed percentage of the relevant expenditure; or
 - (b) in the case of a periodical grant in respect of costs from time to time incurred or treated as incurred in respect of the borrowing of money to defray the relevant expenditure, the prescribed percentage of the costs so incurred or treated as incurred.
@@ -77,7 +77,7 @@ In this subsection “**the prescribed percentage**” means—
 - (a) where the land to which subsection (1) applies is in a National Park or an area of outstanding natural beauty and the applicant for the grant is a local authority in whose area that land is situated, 75 per cent.;
 - (b) in any other case, 50 per cent.
 
-(6A)[^key-a0cce1c4809abff0eb1fc8a499b6bb21] [^key-221a7064b225058314bd2107d7ffe7c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6A)[^c-a0cce1c4809abff0eb1fc8a499b6bb21] [^c-221a7064b225058314bd2107d7ffe7c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Subject to subsection (8) below, the Secretary of State may by order provide that the foregoing provisions of this section shall have effect in relation to land in any locality specified in the order as they have effect in relation to land in a development area or intermediate area; and any locality so specified shall be known as a derelict land clearance area.
 
@@ -235,19 +235,19 @@ The above repeals have effect subject to sections 1(12) and 2(3) above.
 
     S. 1(1)-(6) applied (30.8.2002) by [S.I. 2002/2053](https://www.legislation.gov.uk/uksi/2002/2053), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/2053/article/2/1)
 
-[^key-b362e820f04836982d95465d4e0e88b5]: Modification: S. 1(1)-(6) applied (24.8.2006) by [Derelict Land Clearance Area (Briar’s Lane, Hatfield) Order 2006 (S.I. 2006/1950)](https://www.legislation.gov.uk/uksi/2006/1950), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1950/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2006/1950/article/2/1)
+[^c-b362e820f04836982d95465d4e0e88b5]: Modification: S. 1(1)-(6) applied (24.8.2006) by [Derelict Land Clearance Area (Briar’s Lane, Hatfield) Order 2006 (S.I. 2006/1950)](https://www.legislation.gov.uk/uksi/2006/1950), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1950/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2006/1950/article/2/1)
 
-[^key-e0b97503cd0f9e463d4e5db9dabfdeed]: Modification: S. 1(1)-(6) applied (23.12.2009) by [Derelict Land Clearance Area (Drake Gardens, Tavistock) Order 2009 (S.I. 2009/3098)](https://www.legislation.gov.uk/uksi/2009/3098), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3098/article/1), [2](https://www.legislation.gov.uk/uksi/2009/3098/article/2)
+[^c-e0b97503cd0f9e463d4e5db9dabfdeed]: Modification: S. 1(1)-(6) applied (23.12.2009) by [Derelict Land Clearance Area (Drake Gardens, Tavistock) Order 2009 (S.I. 2009/3098)](https://www.legislation.gov.uk/uksi/2009/3098), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3098/article/1), [2](https://www.legislation.gov.uk/uksi/2009/3098/article/2)
 
-[^key-b17d7927901d13d52898319763184469]: Modification: S. 1(1)-(6) applied (with modifications) (10.10.2011) by [Derelict Land Clearance Area (Highbarns, Hemel Hempstead) Order 2011 (S.I. 2011/2227)](https://www.legislation.gov.uk/uksi/2011/2227), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2227/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2011/2227/article/2/1)
+[^c-b17d7927901d13d52898319763184469]: Modification: S. 1(1)-(6) applied (with modifications) (10.10.2011) by [Derelict Land Clearance Area (Highbarns, Hemel Hempstead) Order 2011 (S.I. 2011/2227)](https://www.legislation.gov.uk/uksi/2011/2227), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2227/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2011/2227/article/2/1)
 
-[^key-4bb009c6b048fb8b66d846d24fa5f824]: Modification: S. 1(1)-(6) applied (14.12.2011) by [Derelict Land Clearance Area (Chantry Lane, Welwyn Hatfield) Order 2011 (S.I. 2011/2562)](https://www.legislation.gov.uk/uksi/2011/2562), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2562/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2011/2562/article/2/1)
+[^c-4bb009c6b048fb8b66d846d24fa5f824]: Modification: S. 1(1)-(6) applied (14.12.2011) by [Derelict Land Clearance Area (Chantry Lane, Welwyn Hatfield) Order 2011 (S.I. 2011/2562)](https://www.legislation.gov.uk/uksi/2011/2562), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2562/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2011/2562/article/2/1)
 
 [^c753944]: Textual amendment: S. 1(5): para. (b) in the definition of “the prescribed percentage” substituted for paras. (b) and (c) (10.11.1993) by [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28), [s. 187(1)](https://www.legislation.gov.uk/ukpga/1993/28/section/187/1), [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/1993/28/schedule/21/paragraph/8); [S.I. 1993/3137](https://www.legislation.gov.uk/uksi/1993/3137), [art. 3](https://www.legislation.gov.uk/uksi/1993/3137/article/3)
 
-[^key-a0cce1c4809abff0eb1fc8a499b6bb21]: Textual amendment: S. 1(6A) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 99](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/99); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-a0cce1c4809abff0eb1fc8a499b6bb21]: Textual amendment: S. 1(6A) inserted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 99](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/99); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-221a7064b225058314bd2107d7ffe7c6]: Textual amendment: S. 1(6A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 7(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/7/1)
+[^c-221a7064b225058314bd2107d7ffe7c6]: Textual amendment: S. 1(6A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(l)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/l), [Sch. 22 para. 7(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/22/paragraph/7/1)
 
 [^c753946]: Textual amendment: Words substituted by [Industrial Development Act 1982 (c. 52, SIF 64)](https://www.legislation.gov.uk/ukpga/1982/52), [s. 19](https://www.legislation.gov.uk/ukpga/1982/52/section/19), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1982/52/schedule/2/paragraph/19)(*a*)
 

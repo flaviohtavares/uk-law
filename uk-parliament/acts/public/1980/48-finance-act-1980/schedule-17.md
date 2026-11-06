@@ -65,15 +65,15 @@ a single notice relating to all the transfers shall be given under this paragrap
 
 **5.** (1) Where the transfer is of part of the old participator’s interest in the field the notice under paragraph 3 above shall state what the old and new participators propose should be the corresponding part of the amounts to be transferred to the new participator under paragraphs 6, 7 and 8 below and of the old participator’s share of oil to be treated as that of the new participator under paragraph 9 below; and subject to the following provisions of this paragraph, the corresponding part shall for the purposes of those provisions be taken to be such part as is determined by the Board and specified in a notice given to the old and new participators.
 
-(2) If the corresponding part determined by the Board differs from that proposed by the old and new participators they or any of them may appeal by notice[^key-672b56831c6cb5f3111c10a2fa646750] in writing given to the Board not more than three months after the notice given by the Board under sub-paragraph (1) above [^key-c280aa369cae53467262e4ae34751b73]...; but the bringing of an appeal shall not affect the operation of the notice given by the Board.
+(2) If the corresponding part determined by the Board differs from that proposed by the old and new participators they or any of them may appeal by notice[^c-672b56831c6cb5f3111c10a2fa646750] in writing given to the Board not more than three months after the notice given by the Board under sub-paragraph (1) above [^c-c280aa369cae53467262e4ae34751b73]...; but the bringing of an appeal shall not affect the operation of the notice given by the Board.
 
-(3) The old participator or the new participator shall, whether or not himself the appellant, be entitled to be a party to[^key-8349d7b2e07fac1840e62c3504b9fc0b] the appeal and in any proceedings arising out of it.
+(3) The old participator or the new participator shall, whether or not himself the appellant, be entitled to be a party to[^c-8349d7b2e07fac1840e62c3504b9fc0b] the appeal and in any proceedings arising out of it.
 
-(4) An appeal may be abandoned before it is notified to the tribunal[^key-3000016b38228e388c55592bcad326af] by notice in writing to the Board; and if before an appeal is determined the old and new participators agree with the Board on what should be the corresponding part referred to above the Board’s notice under subsection (1) above shall have effect as if that were the part specified in it.
+(4) An appeal may be abandoned before it is notified to the tribunal[^c-3000016b38228e388c55592bcad326af] by notice in writing to the Board; and if before an appeal is determined the old and new participators agree with the Board on what should be the corresponding part referred to above the Board’s notice under subsection (1) above shall have effect as if that were the part specified in it.
 
 (5) Where the corresponding part referred to above as specified in the Board’s notice under sub-paragraph (1) is varied on appeal, the Board’s notice shall have effect as if the varied part had been specified in it; and all such assessments or determinations or adjustments shall be made as are necessary in consequence of the variation.
 
-(6)[^key-2547c57631615c2ba6e2b278b44b2f92] The provisions of paragraphs 14A to 14I of Schedule 2 to the Oil Taxation Act 1975 shall apply to appeals under this paragraph subject to any necessary modifications.
+(6)[^c-2547c57631615c2ba6e2b278b44b2f92] The provisions of paragraphs 14A to 14I of Schedule 2 to the Oil Taxation Act 1975 shall apply to appeals under this paragraph subject to any necessary modifications.
 
 ### Part II — Transfer of Old Participator’s Expenditure Relief, Losses and Exemptions
 
@@ -118,9 +118,9 @@ a single notice relating to all the transfers shall be given under this paragrap
 
 ### Part III — Other Rules
 
-#### ...[^key-7e8d955c9500152d2fc27b8f5aec33c0]
+#### ...[^c-7e8d955c9500152d2fc27b8f5aec33c0]
 
-**11.**[^key-7e8d955c9500152d2fc27b8f5aec33c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7e8d955c9500152d2fc27b8f5aec33c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Royalty payments
 
@@ -146,7 +146,7 @@ a single notice relating to all the transfers shall be given under this paragrap
 
 (2) Where at the end of the transfer period the old participator has no interest in the field he shall not be liable under section 105 of this Act to pay any amount as an advance payment of tax in respect of the field for any subsequent chargeable period in which he has no such interest.
 
-(3) The old participator shall not be entitled to interest under subsection (7) of that section by reason of any such excess as is there mentioned for the transfer period or either of the next two chargeable periods if he and the new participator are connected within the meaning of section 1122 of the Corporation Tax Act 2010[^key-919ef7326215077ddbac2026f5a8f0f9].
+(3) The old participator shall not be entitled to interest under subsection (7) of that section by reason of any such excess as is there mentioned for the transfer period or either of the next two chargeable periods if he and the new participator are connected within the meaning of section 1122 of the Corporation Tax Act 2010[^c-919ef7326215077ddbac2026f5a8f0f9].
 
 #### Losses of new participator
 
@@ -164,7 +164,7 @@ the old and new participators may jointly elect that the loss shall be surrender
 
 #### Terminal losses
 
-**15.**[^key-2508813db64c08ac2f352d2124ef95de][^key-7c3ea6f89d3ceb7b4c6d79aa615162ae] (1) This paragraph applies in any case where—
+**15.**[^c-2508813db64c08ac2f352d2124ef95de][^c-7c3ea6f89d3ceb7b4c6d79aa615162ae] (1) This paragraph applies in any case where—
 
 - (a) such an allowable loss as falls to be relieved under section 7(3) accrues to the new participator from the field in a chargeable period ending after 17th March 2004, but
 - (b) some or all of the loss cannot be relieved under section 7(3) against assessable profits accruing to him from the field.
@@ -211,7 +211,7 @@ In this sub-paragraph “ **the transferred interest** ” means the interest tr
 
 using such method as is just and reasonable, having regard to the respective sizes of those interests.
 
-(9A)[^key-cf532162bb9706abc3e31ca7fa59e252] This paragraph is subject to paragraph 6[^key-6e42a2af6de2663fbbfc55a027c08255] of Schedule 20B[^key-dc7d4488085772c4c9d132801e5d453c] to the Finance Act 1993.
+(9A)[^c-cf532162bb9706abc3e31ca7fa59e252] This paragraph is subject to paragraph 6[^c-6e42a2af6de2663fbbfc55a027c08255] of Schedule 20B[^c-dc7d4488085772c4c9d132801e5d453c] to the Finance Act 1993.
 
 (10) For the purposes of this paragraph “ **relevant previous participators' expenditure unrelated to the field** ” means so much of each relevant previous participator’s allowed expenditure unrelated to the field as is referable to his represented interest, other than excepted old expenditure.
 
@@ -252,7 +252,7 @@ if no claim in respect of it has been made under Schedule 7 by the old participa
 - (a) one is a 51 per cent. subsidiary of the other and the other is not a 51 per cent. subsidiary of any company; or
 - (b) each of them is a 51 per cent. subsidiary of a third company which is not itself a 51 per cent. subsidiary of any company;
 
-and Chapter 3 of Part 24 of the Corporation Tax Act 2010[^key-61c779feed56ae66ae8f0d0c8a3803af] (subsidiaries) shall apply for the purposes of this sub-paragraph.
+and Chapter 3 of Part 24 of the Corporation Tax Act 2010[^c-61c779feed56ae66ae8f0d0c8a3803af] (subsidiaries) shall apply for the purposes of this sub-paragraph.
 
 (4) This paragraph is without prejudice to the application of section 5 in cases where the old participator is a company and the new participator is within the meaning of that section a company associated with the old participator in respect of the expenditure in question.
 
@@ -315,15 +315,15 @@ and Chapter 3 of Part 24 of the Corporation Tax Act 2010[^key-61c779feed56ae66ae
 
 [^c10383591]: Textual amendment: [Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 114(2)(a)](https://www.legislation.gov.uk/ukpga/1981/35/section/114/2/a) with effect whether the participator's net profit period ends before or after the passing of that Act
 
-[^key-672b56831c6cb5f3111c10a2fa646750]: Textual amendment: Words in [Sch. 17 para. 5(2)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/2/a)
+[^c-672b56831c6cb5f3111c10a2fa646750]: Textual amendment: Words in [Sch. 17 para. 5(2)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/2) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(2)(a)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/2/a)
 
-[^key-c280aa369cae53467262e4ae34751b73]: Textual amendment: Words in [Sch. 17 para. 5(2)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/2) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/2/b)
+[^c-c280aa369cae53467262e4ae34751b73]: Textual amendment: Words in [Sch. 17 para. 5(2)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/2) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(2)(b)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/2/b)
 
-[^key-8349d7b2e07fac1840e62c3504b9fc0b]: Textual amendment: Words in [Sch. 17 para. 5(3)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/3)
+[^c-8349d7b2e07fac1840e62c3504b9fc0b]: Textual amendment: Words in [Sch. 17 para. 5(3)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/3)
 
-[^key-3000016b38228e388c55592bcad326af]: Textual amendment: Words in [Sch. 17 para. 5(4)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/4) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/4)
+[^c-3000016b38228e388c55592bcad326af]: Textual amendment: Words in [Sch. 17 para. 5(4)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/4) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/4)
 
-[^key-2547c57631615c2ba6e2b278b44b2f92]: Textual amendment: [Sch. 17 para. 5(6)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/6) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/5)
+[^c-2547c57631615c2ba6e2b278b44b2f92]: Textual amendment: [Sch. 17 para. 5(6)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/5/6) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 95(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/95/5)
 
 [^c10383601]: Textual amendment: [Finance Act 1983 (c. 28)](https://www.legislation.gov.uk/ukpga/1983/28), [s. 41](https://www.legislation.gov.uk/ukpga/1983/28/section/41) in relation to transfer periods (see [Sch. 17 Pt. I para. 1](https://www.legislation.gov.uk/ukpga/1983/28/schedule/17/part/I/paragraph/1), ante) ending after 31 December 1982.
 
@@ -331,21 +331,21 @@ and Chapter 3 of Part 24 of the Corporation Tax Act 2010[^key-61c779feed56ae66ae
 
 [^c10383631]: Textual amendment: [Finance Act 1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35), [s. 114(2)(c)](https://www.legislation.gov.uk/ukpga/1981/35/section/114/2/c) with effect whether the participator's net profit period ends before or after the passing of that Act.
 
-[^key-7e8d955c9500152d2fc27b8f5aec33c0]: Textual amendment: Sch. 17 para. 11 and the heading omitted (with effect in accordance with Sch. 43 para. 1 3(5) of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 43 para. 3(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/43/paragraph/3/4) (with [Sch. 43 paras. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/43/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/43/paragraph/4))
+[^c-7e8d955c9500152d2fc27b8f5aec33c0]: Textual amendment: Sch. 17 para. 11 and the heading omitted (with effect in accordance with Sch. 43 para. 1 3(5) of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 43 para. 3(4)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/43/paragraph/3/4) (with [Sch. 43 paras. 2](https://www.legislation.gov.uk/ukpga/2009/10/schedule/43/paragraph/2), [4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/43/paragraph/4))
 
-[^key-919ef7326215077ddbac2026f5a8f0f9]: Textual amendment: Words in [Sch. 17 para. 13(3)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/13/3) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 172(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/172/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-919ef7326215077ddbac2026f5a8f0f9]: Textual amendment: Words in [Sch. 17 para. 13(3)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/13/3) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 172(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/172/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-2508813db64c08ac2f352d2124ef95de]: Modification: Sch. 17 para. 15 excluded (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/84/2) (with [s. 84(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/84/4))
+[^c-2508813db64c08ac2f352d2124ef95de]: Modification: Sch. 17 para. 15 excluded (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 84(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/84/2) (with [s. 84(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/84/4))
 
-[^key-7c3ea6f89d3ceb7b4c6d79aa615162ae]: Textual amendment: Sch. 17 para. 15 substituted (with effect in accordance with s. 288(3) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 288(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/288/2)
+[^c-7c3ea6f89d3ceb7b4c6d79aa615162ae]: Textual amendment: Sch. 17 para. 15 substituted (with effect in accordance with s. 288(3) of the commencing Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 288(2)](https://www.legislation.gov.uk/ukpga/2004/12/section/288/2)
 
-[^key-cf532162bb9706abc3e31ca7fa59e252]: Textual amendment: Sch. 17 para. 15(9A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/33/paragraph/3)
+[^c-cf532162bb9706abc3e31ca7fa59e252]: Textual amendment: Sch. 17 para. 15(9A) inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/2008/9/schedule/33/paragraph/3)
 
-[^key-6e42a2af6de2663fbbfc55a027c08255]: Textual amendment: Words in [Sch. 17 para. 15(9A)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/15/9A) substituted (retrospective to 23.11.2016) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 44(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/3)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/4)
+[^c-6e42a2af6de2663fbbfc55a027c08255]: Textual amendment: Words in [Sch. 17 para. 15(9A)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/15/9A) substituted (retrospective to 23.11.2016) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 44(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/3)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/4)
 
-[^key-dc7d4488085772c4c9d132801e5d453c]: Textual amendment: Words in Sch. 17 para. 15(9A) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/3/2/b)
+[^c-dc7d4488085772c4c9d132801e5d453c]: Textual amendment: Words in Sch. 17 para. 15(9A) substituted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/3/2/b)
 
-[^key-61c779feed56ae66ae8f0d0c8a3803af]: Textual amendment: Words in [Sch. 17 para. 16(3)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/16/3) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 172(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/172/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-61c779feed56ae66ae8f0d0c8a3803af]: Textual amendment: Words in [Sch. 17 para. 16(3)](https://www.legislation.gov.uk/ukpga/1980/48/schedule/17/paragraph/16/3) substituted (with effect in accordance with s. 1184(1) of the commencing Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 172(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/172/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c10383681]: Textual amendment: [Finance Act 1983 (c. 28)](https://www.legislation.gov.uk/ukpga/1983/28), [s. 37(2)](https://www.legislation.gov.uk/ukpga/1983/28/section/37/2) and Sch. 8 Part II para. 8.
 

@@ -129,7 +129,7 @@ and there is no other good reason why he is homeless.
 
 (1) The Executive may formulate and publish a homelessness strategy.
 
-(2) The Regional Agency [^key-fdccd8a171017ea326ba0b34de01ca4f]... shall give such assistance in connection with the exercise of the power under paragraph (1) as the Executive may reasonably require.
+(2) The Regional Agency [^c-fdccd8a171017ea326ba0b34de01ca4f]... shall give such assistance in connection with the exercise of the power under paragraph (1) as the Executive may reasonably require.
 
 (3) The Executive shall exercise that power so as to ensure that the first homelessness strategy is published within the period of 12 months beginning with the day on which section 1 of the Housing (Amendment) Act (Northern Ireland) 2010 comes into operation.
 
@@ -138,7 +138,7 @@ and there is no other good reason why he is homeless.
 (5) The following shall take the homelessness strategy into account in the exercise of their functions—
 
 - (a) the Executive;
-- (b)[^key-0803e2875538e62310d62b0716e8c1b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0803e2875538e62310d62b0716e8c1b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) Health and Social Care trusts;
 - (d) education and library boards;
 - (e) registered housing associations;
@@ -165,7 +165,7 @@ and there is no other good reason why he is homeless.
 (2) A homelessness strategy may include specific objectives to be pursued, and specific action planned to be taken, in the course of the exercise of—
 
 - (a) the functions of the Executive;
-- (b) [^key-a9446ca171bc41fb91fc1e5b5fc2d0c4]... or
+- (b) [^c-a9446ca171bc41fb91fc1e5b5fc2d0c4]... or
 - (c) the functions of Health and Social Care trusts.
 
 (3) A homelessness strategy may also include provision relating to specific action which the Executive expects to be taken—
@@ -193,7 +193,7 @@ and there is no other good reason why he is homeless.
 In Articles 6A and 6B—
 
 - “**the Regional Agency**” means the Regional Agency for Public Health and Social Well-being established under section 12 of the Health and Social Care (Reform) Act (Northern Ireland) 2009;
-- [^key-fb0e53eb0f299e83730f0ae9c03047f1]...
+- [^c-fb0e53eb0f299e83730f0ae9c03047f1]...
 - “**registered housing association**” means a registered housing association within the meaning of Part 2 of the Housing (Northern Ireland) Order 1992;
 - “**voluntary organisation**” means a body which is not a statutory body and whose activities are carried on otherwise than for profit.
 
@@ -247,7 +247,7 @@ it shall make such inquiries as are necessary to satisfy itself as to whether he
 (4A)[^c21094251] A person falls within this paragraph if the person—
 
 - (a) falls within a class specified in an order under section 119(1) of the Immigration and Asylum Act 1999; but
-- (b)[^key-2a02f2df66c85a89a4d26baf30950a5f] is not a person who, immediately before IP completion day, was—
+- (b)[^c-2a02f2df66c85a89a4d26baf30950a5f] is not a person who, immediately before IP completion day, was—
   - (i) a national of an EEA State or Switzerland, and
   - (ii) within a class specified in an order under section 119(1) of the Immigration and Asylum Act 1999 which had effect at that time.
 
@@ -888,13 +888,13 @@ shall, if not otherwise determined, be referred for determination by an industri
 
 [^c22556921]: Textual amendment: [Arts. 6A-6C](https://www.legislation.gov.uk/nisi/1988/1990/article/6A) and preceding cross-heading inserted (31.7.2010) by [Housing (Amendment) Act (Northern Ireland) 2010 (c. 9)](https://www.legislation.gov.uk/nia/2010/9), [ss. 1](https://www.legislation.gov.uk/nia/2010/9/section/1), [19(1)](https://www.legislation.gov.uk/nia/2010/9/section/19/1); [S.R. 2010/251](https://www.legislation.gov.uk/nisr/2010/251), [art. 2](https://www.legislation.gov.uk/nisr/2010/251/article/2)
 
-[^key-fdccd8a171017ea326ba0b34de01ca4f]: Textual amendment: Words in [art. 6A(2)](https://www.legislation.gov.uk/nisi/1988/1990/article/6A/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 122(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/122/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-fdccd8a171017ea326ba0b34de01ca4f]: Textual amendment: Words in [art. 6A(2)](https://www.legislation.gov.uk/nisi/1988/1990/article/6A/2) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 122(2)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/122/2); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0803e2875538e62310d62b0716e8c1b6]: Textual amendment: [Art. 6A(5)(b)](https://www.legislation.gov.uk/nisi/1988/1990/article/6A/5/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 122(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/122/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-0803e2875538e62310d62b0716e8c1b6]: Textual amendment: [Art. 6A(5)(b)](https://www.legislation.gov.uk/nisi/1988/1990/article/6A/5/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 122(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/122/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-a9446ca171bc41fb91fc1e5b5fc2d0c4]: Textual amendment: [Art. 6B(2)(b)](https://www.legislation.gov.uk/nisi/1988/1990/article/6B/2/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 123](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/123); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-a9446ca171bc41fb91fc1e5b5fc2d0c4]: Textual amendment: [Art. 6B(2)(b)](https://www.legislation.gov.uk/nisi/1988/1990/article/6B/2/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 123](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/123); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-fb0e53eb0f299e83730f0ae9c03047f1]: Textual amendment: Words in [art. 6C](https://www.legislation.gov.uk/nisi/1988/1990/article/6C) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 124](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/124); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-fb0e53eb0f299e83730f0ae9c03047f1]: Textual amendment: Words in [art. 6C](https://www.legislation.gov.uk/nisi/1988/1990/article/6C) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 124](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/124); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c22556941]: Textual amendment: [Art. 6D](https://www.legislation.gov.uk/nisi/1988/1990/article/6D) inserted (31.7.2010) by [Housing (Amendment) Act (Northern Ireland) 2010 (c. 9)](https://www.legislation.gov.uk/nia/2010/9), [ss. 2](https://www.legislation.gov.uk/nia/2010/9/section/2), [19(1)](https://www.legislation.gov.uk/nia/2010/9/section/19/1); [S.R. 2010/251](https://www.legislation.gov.uk/nisr/2010/251), [art. 2](https://www.legislation.gov.uk/nisr/2010/251/article/2)
 
@@ -904,7 +904,7 @@ shall, if not otherwise determined, be referred for determination by an industri
 
 [^c21094251]: Textual amendment: Art. 7A(4A) inserted (2.3.2009 for certain purposes, otherwise prosp.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 314](https://www.legislation.gov.uk/ukpga/2008/17/section/314), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 15 para. 18(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/15/paragraph/18/3); [S.I. 2009/415](https://www.legislation.gov.uk/uksi/2009/415), [art. 3](https://www.legislation.gov.uk/uksi/2009/415/article/3)
 
-[^key-2a02f2df66c85a89a4d26baf30950a5f]: Textual amendment: [Art. 7A(4A)(b)](https://www.legislation.gov.uk/nisi/1988/1990/article/7A/4A/b) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/9/2)
+[^c-2a02f2df66c85a89a4d26baf30950a5f]: Textual amendment: [Art. 7A(4A)(b)](https://www.legislation.gov.uk/nisi/1988/1990/article/7A/4A/b) substituted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/9/2)
 
 [^c22556961]: Textual amendment: Words in art. 7A(5) substituted (31.7.2010) by [Housing (Amendment) Act (Northern Ireland) 2010 (c. 9)](https://www.legislation.gov.uk/nia/2010/9), [ss. 3(2)](https://www.legislation.gov.uk/nia/2010/9/section/3/2), [19(1)](https://www.legislation.gov.uk/nia/2010/9/section/19/1); [S.R. 2010/251](https://www.legislation.gov.uk/nisr/2010/251), [art. 2](https://www.legislation.gov.uk/nisr/2010/251/article/2)
 

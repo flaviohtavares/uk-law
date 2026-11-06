@@ -53,7 +53,7 @@ The Convention shall enter into force (in relation to the States which have noti
 
 In order to give effect to the Convention, therefore, His Majesty, in exercise of the powers conferred on Him by section 179(1)(a) and (2) of the Social Security Administration Act 1992 and of all other powers enabling Him to do so, is pleased, by and with the advice of His Privy Council, to order as follows:
 
-## 1. Citation, commencement and interpretation[^key-af02700021865cb126fdfff6a0de2662]
+## 1. Citation, commencement and interpretation[^c-af02700021865cb126fdfff6a0de2662]
 
 (1) This Order may be cited as the Social Security (Iceland) (Liechtenstein) (Norway) Order 2023.
 
@@ -69,7 +69,7 @@ In order to give effect to the Convention, therefore, His Majesty, in exercise o
 - (a) “the Depositary” is to be interpreted in accordance with Article 73(2) (Authentic text and depositary) of the Convention set out in the Schedule to this Order; and
 - (b) “**EEA EFTA State**” has the meaning given to it in Article 1(o) (Definitions) of the Convention set out in the Schedule to this Order.
 
-## 2. Modification of legislation[^key-449336c11cc8ec51c1cc9842f17e050b][^M_C_85f18657-912c-41e3-eadd-aa4f1a67586f]
+## 2. Modification of legislation[^c-449336c11cc8ec51c1cc9842f17e050b][^M_C_85f18657-912c-41e3-eadd-aa4f1a67586f]
 
 (1) The legislation to which this paragraph applies is modified to the extent required to give effect to the provisions contained in the Convention set out in the Schedule to this Order, so far as they relate to England, Wales and Scotland.
 
@@ -93,11 +93,11 @@ In order to give effect to the Convention, therefore, His Majesty, in exercise o
 
 (4) Paragraph (1) also applies to Part 3 of the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999[^f00015] so far as such provision relates to Northern Ireland.
 
-## 3. Variation of Orders[^key-61209483b9cd2d65312bfee6432a6e0d]
+## 3. Variation of Orders[^c-61209483b9cd2d65312bfee6432a6e0d]
 
 The Social Security (Iceland) Order 1985[^f00016] and the Social Security (Norway) Order 1991[^f00017] are varied in accordance with Article 78 (Relationship with pre-existing Social Security Coordination Agreements) of the Convention set out in the Schedule to this Order, so far as they relate to England, Wales and Scotland.
 
-## 4. Amendment of the Social Security (Norway) Order 2020 and the Social Security (Switzerland) Order 2021[^key-7f8f5dfc5cea1648afa3fa3b55496112]
+## 4. Amendment of the Social Security (Norway) Order 2020 and the Social Security (Switzerland) Order 2021[^c-7f8f5dfc5cea1648afa3fa3b55496112]
 
 (1) The Social Security (Norway) Order 2020[^f00018] is amended as follows.
 
@@ -113,7 +113,7 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE — Convention on Social Security Coordination between Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland[^key-37c9381b40fb55e99f7877f8be62b5db]
+## SCHEDULE — Convention on Social Security Coordination between Iceland, the Principality of Liechtenstein, the Kingdom of Norway and the United Kingdom of Great Britain and Northern Ireland[^c-37c9381b40fb55e99f7877f8be62b5db]
 
 Articles 1, 2 and 3
 
@@ -2604,11 +2604,11 @@ This Order does not impose any costs on business, charities or the voluntary sec
 
 [^f00002]: Footnote: 2023 CP 889.
 
-[^key-af02700021865cb126fdfff6a0de2662]: Commencement: Art. 1 in force at 12.10.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2)
+[^c-af02700021865cb126fdfff6a0de2662]: Commencement: Art. 1 in force at 12.10.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2)
 
 [^f00003]: Footnote: The date on which the Convention enters into force will be published on the relevant page on UK Treaties Online which can be found at: https://www.gov.uk/guidance/uk-treaties.
 
-[^key-449336c11cc8ec51c1cc9842f17e050b]: Commencement: Art. 2 comes into force in accordance with art. 1(3)
+[^c-449336c11cc8ec51c1cc9842f17e050b]: Commencement: Art. 2 comes into force in accordance with art. 1(3)
 
 [^M_C_85f18657-912c-41e3-eadd-aa4f1a67586f]: Modification: Art. 2(1)(2) extended (S.) in so far as it does not already so extend (coming into force in accordance with art. 1(1) of the amending S.S.I.) by [The Social Security (Iceland) (Liechtenstein) (Norway) (Further provision in respect of Scotland) Order 2023 (S.S.I. 2023/282)](https://www.legislation.gov.uk/ssi/2023/282), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2023/282/article/1/1), [2](https://www.legislation.gov.uk/ssi/2023/282/article/2)
 
@@ -2636,16 +2636,16 @@ This Order does not impose any costs on business, charities or the voluntary sec
 
 [^f00015]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
-[^key-61209483b9cd2d65312bfee6432a6e0d]: Commencement: Art. 3 comes into force in accordance with art. 1(3)
+[^c-61209483b9cd2d65312bfee6432a6e0d]: Commencement: Art. 3 comes into force in accordance with art. 1(3)
 
 [^f00016]: Footnote: [S.I. 1985/1202](https://www.legislation.gov.uk/uksi/1985/1202). Amending instruments are [S.I. 1988/591](https://www.legislation.gov.uk/uksi/1988/591), [1992/3211](https://www.legislation.gov.uk/uksi/1992/3211), [1995/767](https://www.legislation.gov.uk/uksi/1995/767), [1996/1928](https://www.legislation.gov.uk/uksi/1996/1928), [2001/407](https://www.legislation.gov.uk/uksi/2001/407), [2005/2765](https://www.legislation.gov.uk/uksi/2005/2765) and [2016/158](https://www.legislation.gov.uk/uksi/2016/158).
 
 [^f00017]: Footnote: [S.I. 1991/767](https://www.legislation.gov.uk/uksi/1991/767). Amending instruments are [S.I. 1995/767](https://www.legislation.gov.uk/uksi/1995/767), [1996/1928](https://www.legislation.gov.uk/uksi/1996/1928), [2001/407](https://www.legislation.gov.uk/uksi/2001/407), [2005/2765](https://www.legislation.gov.uk/uksi/2005/2765), [2016/158](https://www.legislation.gov.uk/uksi/2016/158), [2017/159](https://www.legislation.gov.uk/uksi/2017/159) and [2020/1597](https://www.legislation.gov.uk/uksi/2020/1597).
 
-[^key-7f8f5dfc5cea1648afa3fa3b55496112]: Commencement: Art. 4 in force at 12.10.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2)
+[^c-7f8f5dfc5cea1648afa3fa3b55496112]: Commencement: Art. 4 in force at 12.10.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1060/article/1/2)
 
 [^f00018]: Footnote: [S.I. 2020/1597](https://www.legislation.gov.uk/uksi/2020/1597).
 
 [^f00019]: Footnote: [S.I. 2021/1088](https://www.legislation.gov.uk/uksi/2021/1088).
 
-[^key-37c9381b40fb55e99f7877f8be62b5db]: Commencement: Sch. comes into force in accordance with art. 1(3)
+[^c-37c9381b40fb55e99f7877f8be62b5db]: Commencement: Sch. comes into force in accordance with art. 1(3)

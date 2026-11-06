@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Assessing demand for Welsh medium education[^key-2ac5b21e6d7a5f9584ec9ab784eb1c95]
+## 86. Assessing demand for Welsh medium education[^c-2ac5b21e6d7a5f9584ec9ab784eb1c95]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ac5b21e6d7a5f9584ec9ab784eb1c95]: Commencement: [S. 86](https://www.legislation.gov.uk/anaw/2013/1/section/86) in force at 3.12.2013 by [S.I. 2013/3024](https://www.legislation.gov.uk/wsi/2013/3024), [art. 2](https://www.legislation.gov.uk/wsi/2013/3024/article/2)
+[^c-2ac5b21e6d7a5f9584ec9ab784eb1c95]: Commencement: [S. 86](https://www.legislation.gov.uk/anaw/2013/1/section/86) in force at 3.12.2013 by [S.I. 2013/3024](https://www.legislation.gov.uk/wsi/2013/3024), [art. 2](https://www.legislation.gov.uk/wsi/2013/3024/article/2)

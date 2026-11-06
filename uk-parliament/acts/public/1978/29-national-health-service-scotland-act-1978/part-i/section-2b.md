@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) It is the duty of every body to which this section applies to take action with a view to securing, as respects health services for which it is responsible and services which it has the function of providing to individuals under the 2021 Act[^key-67e600c94e22882eac433dee420ed400], that persons to whom those services are being or may be provided are involved in, and consulted on—
+(1) It is the duty of every body to which this section applies to take action with a view to securing, as respects health services for which it is responsible and services which it has the function of providing to individuals under the 2021 Act[^c-67e600c94e22882eac433dee420ed400], that persons to whom those services are being or may be provided are involved in, and consulted on—
 
 - (a) the planning and development, and
 - (b) decisions to be made by the body significantly affecting the operation,
@@ -44,4 +44,4 @@ of those services.
 
 [^c20957421]: Textual amendment: S. 2B inserted after s. 2A (30.9.2004) by [National Health Service Reform (Scotland) Act 2004 (asp 7)](https://www.legislation.gov.uk/asp/2004/7), [ss. 7](https://www.legislation.gov.uk/asp/2004/7/section/7), [12(1)](https://www.legislation.gov.uk/asp/2004/7/section/12/1); [S.S.I. 2004/361](https://www.legislation.gov.uk/ssi/2004/361), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2004/361/article/2/b/i)
 
-[^key-67e600c94e22882eac433dee420ed400]: Textual amendment: Words in [s. 2B(1)](https://www.legislation.gov.uk/ukpga/1978/29/section/2B/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 1(3)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/1/3) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)
+[^c-67e600c94e22882eac433dee420ed400]: Textual amendment: Words in [s. 2B(1)](https://www.legislation.gov.uk/ukpga/1978/29/section/2B/1) inserted (1.4.2022) by [Forensic Medical Services (Victims of Sexual Offences) (Scotland) Act 2021 (asp 3)](https://www.legislation.gov.uk/asp/2021/3), [s. 20(2)](https://www.legislation.gov.uk/asp/2021/3/section/20/2), [sch. para. 1(3)](https://www.legislation.gov.uk/asp/2021/3/schedule/paragraph/1/3) (with [s. 3](https://www.legislation.gov.uk/asp/2021/3/section/3)); [S.S.I. 2022/24](https://www.legislation.gov.uk/ssi/2022/24), [reg. 2](https://www.legislation.gov.uk/ssi/2022/24/regulation/2)

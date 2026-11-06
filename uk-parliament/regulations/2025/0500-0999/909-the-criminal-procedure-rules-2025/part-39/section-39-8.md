@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.8. Application for bail, or to suspend a disqualification or order, pending appeal or retrial[^key-d93d67e2ef7bb89b1745561285a632bf]
+## 39.8. Application for bail, or to suspend a disqualification or order, pending appeal or retrial[^c-d93d67e2ef7bb89b1745561285a632bf]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d93d67e2ef7bb89b1745561285a632bf]: Commencement: [Rule 39.8](https://www.legislation.gov.uk/uksi/2025/909/rule/39.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d93d67e2ef7bb89b1745561285a632bf]: Commencement: [Rule 39.8](https://www.legislation.gov.uk/uksi/2025/909/rule/39.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00962]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 19 was substituted by section 29 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and was amended by section 170 of, and paragraphs 20 and 26 of Schedule 15 to, the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 168 of, and paragraph 22 of Schedule 10 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33) and section 59 of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 

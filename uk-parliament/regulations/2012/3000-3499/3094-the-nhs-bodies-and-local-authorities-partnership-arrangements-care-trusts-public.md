@@ -52,14 +52,14 @@ In accordance with section 224(4) of the Local Government and Public Involvement
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and interpretation[^key-51cce56ad4000c658965f10c802f9ee9]
+### 1. Citation, commencement and interpretation[^c-51cce56ad4000c658965f10c802f9ee9]
 
 (1) These Regulations may be cited as the NHS Bodies and Local Authorities (Partnership Arrangements, Care Trusts, Public Health and Local Healthwatch) Regulations 2012.
 
 (2) These Regulations come into force as follows—
 
 - (a) regulations 3 to 11, and regulation 2 in so far as it relates to those regulations, come into force on the date that section 200 of the 2012 Act (Care Trusts) [^f00004] comes fully into force;
-- (b) regulation 12 comes into force on the date that section 14 of the 2012 Act (power of integrated care board[^key-768fb193da722b7af79fbece78255763] to commission certain health services) [^f00005] comes fully into force;
+- (b) regulation 12 comes into force on the date that section 14 of the 2012 Act (power of integrated care board[^c-768fb193da722b7af79fbece78255763] to commission certain health services) [^f00005] comes fully into force;
 - (c) regulation 13, and regulation 2 in so far as it relates to that regulation, comes into force on the date that paragraph 25 of Schedule 4 to the 2012 Act (amendment of section 76 of the 2006 Act) [^f00006] comes fully into force;
 - (d) Part 3 comes into force on the date that section 30 of the 2012 Act (appointment of directors of public health) [^f00007] comes fully into force;
 - (e) Part 4 comes into force on the date that section 29 of the 2012 Act (other health service functions of local authorities under the 2006 Act) [^f00008] comes fully into force;
@@ -74,14 +74,14 @@ In accordance with section 224(4) of the Local Government and Public Involvement
 
 ## PART 2 — CARE TRUSTS AND MISCELLANEOUS AMENDMENTS
 
-**2.**[^key-fe0369b64e0fc13b5ec3e6431b364435] In this Part—
+**2.**[^c-fe0369b64e0fc13b5ec3e6431b364435] In this Part—
 
-- [^key-1dbba261867bf21c13f3013c1d37411d]...
-- “[^key-60ab9d7c0e21039532b3690b82527b96]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
+- [^c-1dbba261867bf21c13f3013c1d37411d]...
+- “[^c-60ab9d7c0e21039532b3690b82527b96]**NHS England**” means the body corporate established under section 1H of the 2006 Act;
 - “the body” means, in relation to a Care Trust designation or proposed Care Trust designation, the clinical commissioning group, NHS trust or NHS foundation trust which is, or is to be, designated;
 - “the Partnership Regulations” means the NHS Bodies and Local Authorities Partnership Regulations 2000[^f00012].
 
-### 3. Prescribed functions for the purposes of section 77(1) of the 2006 Act[^key-192a58c1ab07928e25744dd2a361320f]
+### 3. Prescribed functions for the purposes of section 77(1) of the 2006 Act[^c-192a58c1ab07928e25744dd2a361320f]
 
 (1) Subject to paragraphs (3) and (4), the health-related functions of local authorities specified in regulation 6 of the Partnership Regulations[^f00013] are prescribed for the purposes of section 77(1) of the 2006 Act[^f00014] (designation of a body as a Care Trust).
 
@@ -91,17 +91,17 @@ In accordance with section 224(4) of the Local Government and Public Involvement
 
 (4) Where the body exercising a health-related function is, or is to be, an NHS trust or NHS foundation trust and the function consists of providing or securing the provision of services, that function is prescribed for the purposes of section 77(1) only if it is to be exercised (whether wholly or in part) by that trust providing those services.
 
-### 4. Consultation requirements[^key-ca89cb9524becc056038adebec42231e]
+### 4. Consultation requirements[^c-ca89cb9524becc056038adebec42231e]
 
 (1) This regulation applies where an integrated care board, NHS trust or NHS foundation trust and a local authority propose to designate a body as a Care Trust under section 77(1) of the 2006 Act, or propose to revoke such designation.
 
 (2) Where this regulation applies, the body and the local authority must, before designating or revoking the designation, as the case may be, consult jointly such persons as appear to them to be affected by the proposed designation or revocation.
 
-### 5. Combination of consultations[^key-68b6351555f53bcbe5b0e7d04721b466]
+### 5. Combination of consultations[^c-68b6351555f53bcbe5b0e7d04721b466]
 
 Where the body and the local authority agree, the consultation required by regulation 4 of these Regulations may be combined with any consultation carried out by the body in relation to proposals for changes in the way in which services are provided by, or provided under arrangements made by, the body.
 
-### 6. Prescribed form and manner for publication[^key-3af1b6ed96f483fbac003030df8bace2]
+### 6. Prescribed form and manner for publication[^c-3af1b6ed96f483fbac003030df8bace2]
 
 (1) The reasons and information referred to in section 77(1A)(a) of the 2006 Act (reasons for designation and information about proposed governance arrangements) must be published before the consultation required by regulation 4 and in the form and manner prescribed by paragraph (2).
 
@@ -110,14 +110,14 @@ Where the body and the local authority agree, the consultation required by regul
 - (a) in writing; and
 - (b) on the websites of the body and the local authority.
 
-### 7. Action following consultation[^key-9508696976fec4f1f963ac2622c64cbe]
+### 7. Action following consultation[^c-9508696976fec4f1f963ac2622c64cbe]
 
 The body and the local authority must, following the consultation prior to designation or revocation of designation of the body as a Care Trust, publish—
 
 - (a) a summary of responses to the consultation; and
 - (b) a written statement setting out how the responses received as part of the consultation have influenced the decision to designate the body as a Care Trust or revoke the designation.
 
-### 8. Publication requirements following the decision to designate[^key-2536e03cbee877f72e756bdcff21e17b]
+### 8. Publication requirements following the decision to designate[^c-2536e03cbee877f72e756bdcff21e17b]
 
 (1) The body and the local authority must publish the following information as soon as practicable following the decision to designate the body as a Care Trust.
 
@@ -132,7 +132,7 @@ The body and the local authority must, following the consultation prior to desig
   - (i) the functions specified in the LA delegation arrangements, and
   - (ii) the NHS functions to be exercised in conjunction with those functions.
 
-### 9. Publication requirements following the decision to revoke the designation[^key-1a58c0e5d5c27f584db083f745350ddf]
+### 9. Publication requirements following the decision to revoke the designation[^c-1a58c0e5d5c27f584db083f745350ddf]
 
 (1) The body and the local authority must publish the following information as soon as practicable following the decision to revoke the designation of the body as a Care Trust.
 
@@ -143,25 +143,25 @@ The body and the local authority must, following the consultation prior to desig
 - (c) the proposed new name of the body following the revocation of the designation; and
 - (d) details of how the LA delegation arrangements between the body and the local authority would be operated following the revocation of the designation.
 
-### 10. Notification requirements following designation or revocation of designation[^key-ced964efcecc5047cf3a8b39421ccedc]
+### 10. Notification requirements following designation or revocation of designation[^c-ced964efcecc5047cf3a8b39421ccedc]
 
 (1) Where a body has been designated as a Care Trust or the designation has been revoked, the body and the local authority must notify the persons mentioned in paragraph (2) of that fact as soon as practicable following the designation or revocation.
 
 (2) The persons to be notified are—
 
-- (a) NHS England[^key-b1b11aaad4b1e129053ffb7732f9d720];
-- (b)[^key-8afd2a30982dbb0c05b82b08473d029b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) NHS England[^c-b1b11aaad4b1e129053ffb7732f9d720];
+- (b)[^c-8afd2a30982dbb0c05b82b08473d029b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) every member of the local authority;
 - (d) the Care Quality Commission[^f00018]; and
 - (e) the Local Healthwatch organisation for the area of the local authority.
 
-### 11. Revocations and amendment relating to Care Trusts[^key-492c07ceb4ec5704d73b411f54ca5d8a]
+### 11. Revocations and amendment relating to Care Trusts[^c-492c07ceb4ec5704d73b411f54ca5d8a]
 
 (1) The Care Trusts (Application and Consultation) Regulations 2001[^f00019] are revoked.
 
 (2) In the National Health Service Trusts (Consultation on Establishment and Dissolution) Regulations 2010[^f00020], in regulation 2 (consultation relating to orders under section 25 of the Act and dissolution orders), in paragraph (4) for “to designate” substitute “to revoke a designation of”.
 
-### 12. Amendment of the NHS Bodies and Local Authorities Partnership Regulations 2000[^key-fe0b6aceb9f4448445d6a76c6183eef4]
+### 12. Amendment of the NHS Bodies and Local Authorities Partnership Regulations 2000[^c-fe0b6aceb9f4448445d6a76c6183eef4]
 
 (1) The NHS Bodies and Local Authorities Partnership Arrangements Regulations 2000[^f00021] are amended as follows.
 
@@ -251,7 +251,7 @@ The body and the local authority must, following the consultation prior to desig
 
   .
 
-### 13. Payments by local authorities to specified NHS bodies in respect of prescribed functions[^key-19be411a178cb0d58262212c634cb5a7]
+### 13. Payments by local authorities to specified NHS bodies in respect of prescribed functions[^c-19be411a178cb0d58262212c634cb5a7]
 
 (1) Subject to paragraph (3) below, the following functions are prescribed functions of NHS England, an integrated care board or a Local Health Board for the purposes of section 76(1) of the 2006 Act (power of local authorities to make payments).
 
@@ -266,13 +266,13 @@ The body and the local authority must, following the consultation prior to desig
 - (a) surgery, radiotherapy, termination of pregnancies, endoscopy, the use of Class 4 laser treatments and other invasive treatments;
 - (b) emergency ambulance services;
 - (c) drugs and other substances which are listed in Schedule 1 to the National Health Service (General Medical Services Contracts) (Prescription of Drugs etc) Regulations 2004[^f00033] or which are listed in column 1 of Schedule 2 to those Regulations in circumstances in which the conditions specified in column 3 of that Schedule are not met; and
-- (d) appliances which are not listed in Part IX of the Drug Tariff which is published in accordance with regulation 89(1) (the Drug Tariff: general provisions) of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^key-d5d049b234f75bb69ac5b2b26356a92e] [^f00034].
+- (d) appliances which are not listed in Part IX of the Drug Tariff which is published in accordance with regulation 89(1) (the Drug Tariff: general provisions) of the National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013[^c-d5d049b234f75bb69ac5b2b26356a92e] [^f00034].
 
 (4) The National Health Service (Payments by Local Authorities to NHS Bodies) (Prescribed Functions) Regulations 2000[^f00035] are revoked.
 
 ## PART 3 — RESPONSIBILITIES OF DIRECTORS OF PUBLIC HEALTH
 
-### 14. Responsibilities of directors of public health[^key-879ca1028ce2003f8faf657d3c0f4b18][^key-69dcb26be9c1e5efaa0d8dffa211def1]
+### 14. Responsibilities of directors of public health[^c-879ca1028ce2003f8faf657d3c0f4b18][^c-69dcb26be9c1e5efaa0d8dffa211def1]
 
 The following functions of a local authority[^f00036] are prescribed for the purposes of section 73A(1)(f) of the 2006 Act (appointment of directors of public health)—
 
@@ -281,21 +281,21 @@ The following functions of a local authority[^f00036] are prescribed for the pur
   - (i) sections 18, 35 and 41B (representations by a responsible authority in relation to applications for, or to vary, premises licences) [^f00039];
   - (ii) section 31 (representations by a responsible authority in relation to determination of application for provisional statement) [^f00040];
   - (iii) sections 51, 52 and 53 (applications and representations by a responsible authority for and in relation to a review of premises licences) [^f00041];
-  - (iv)[^key-879ca1028ce2003f8faf657d3c0f4b18] section 53C (representations by a responsible authority in relation to summary reviews of premises licences) [^f00042];
+  - (iv)[^c-879ca1028ce2003f8faf657d3c0f4b18] section 53C (representations by a responsible authority in relation to summary reviews of premises licences) [^f00042];
   - (v) sections 72, 85 and 86B (representations by a responsible authority in relation to applications concerning club premises certificates) [^f00043];
   - (vi) sections 87[^f00044], 88 and 89 (applications and representations by a responsible authority for and in relation to a review of club premises certificates);
   - (vii) section 96 (powers of a responsible authority in relation to inspection of club premises);
   - (viii) section 167[^f00045] (representations by a responsible authority in relation to review of premises licence following closure order);
   - (ix) section 172B[^f00046] (representations by a responsible authority in relation to early morning alcohol restriction orders).
-- (c)[^key-6700c6fe6e37f10b764fb21e271c8788] any of the authority's functions arising from its duty to provide, or arrange the provision of, healthy start vitamins under regulation 8A of the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005.
+- (c)[^c-6700c6fe6e37f10b764fb21e271c8788] any of the authority's functions arising from its duty to provide, or arrange the provision of, healthy start vitamins under regulation 8A of the Healthy Start Scheme and Welfare Food (Amendment) Regulations 2005.
 
-### 15. Further provision as to prescribed public health functions[^key-557a9253265480241a4de3b9b8fc2d3d]
+### 15. Further provision as to prescribed public health functions[^c-557a9253265480241a4de3b9b8fc2d3d]
 
 The functions which are prescribed under regulation 14 are also prescribed for the purposes of section 73B(2)(e) of the 2006 Act (other public health functions in the exercise of which a local authority must have regard to Secretary of State documents).
 
 ## PART 4 — DENTAL PUBLIC HEALTH FUNCTIONS OF LOCAL AUTHORITIES
 
-### 16. Interpretation[^key-9d630b0c5277a2bc8cd40150cdde3ea9]
+### 16. Interpretation[^c-9d630b0c5277a2bc8cd40150cdde3ea9]
 
 In this Part—
 
@@ -303,7 +303,7 @@ In this Part—
 - “oral health survey” means a survey to establish the prevalence and incidence of disease or abnormality of the oral cavity;
 - “water fluoridation programme” means fluoridation arrangements made under section 87(1) (fluoridation of water supplies at request of relevant authorities) of the Water Industry Act 1991[^f00047].
 
-### 17. Exercise of functions of local authorities[^key-af010a86c66bbed06ab75e70e6c3e7bd]
+### 17. Exercise of functions of local authorities[^c-af010a86c66bbed06ab75e70e6c3e7bd]
 
 (1) Each local authority[^f00048] shall have the following functions in relation to dental public health in England.
 
@@ -318,7 +318,7 @@ In this Part—
 
 (3) The local authority shall participate in any oral health survey conducted or commissioned by the Secretary of State under paragraph 13(1) of Schedule 1 to the 2006 Act (powers in relation to research etc)[^f00049] so far as that survey is conducted within the authority’s area.
 
-### 18. Revocations and transitional arrangements[^key-bb6d4f08450a10ddb142e012f6df1294]
+### 18. Revocations and transitional arrangements[^c-bb6d4f08450a10ddb142e012f6df1294]
 
 (1) The Functions of Primary Care Trusts (Dental Public Health) (England) Regulations 2006[^f00050] (“the 2006 Regulations”) are revoked.
 
@@ -331,7 +331,7 @@ In this Part—
 
 ## PART 5 — COMPLAINTS ABOUT PUBLIC HEALTH FUNCTIONS OF LOCAL AUTHORITIES
 
-### 19. Interpretation[^key-427d0490f243c2b89a8fe33318c3ddc6]
+### 19. Interpretation[^c-427d0490f243c2b89a8fe33318c3ddc6]
 
 In this Part—
 
@@ -341,7 +341,7 @@ In this Part—
 - “service provider” has the meaning given by regulation 20(e);
 - “working day” means any day except a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England under section 1 of the Banking and Financial Dealings Act 1971[^f00052].
 
-### 20. Complaints about exercise of public health functions by local authorities[^key-681df9e0130732bf8ce260a81bd0898f]
+### 20. Complaints about exercise of public health functions by local authorities[^c-681df9e0130732bf8ce260a81bd0898f]
 
 (1) Subject to regulation 25, where a complaint of a description to which paragraph (2) applies is made under these Regulations, it shall be handled and considered in accordance with these Regulations.
 
@@ -355,7 +355,7 @@ In this Part—
   - (ii) for which its director of public health has responsibility[^f00056];
 - (e) the provision of services by another person, in this Part referred to as a service provider, in pursuance of arrangements made by a local authority in the exercise of any function mentioned in sub-paragraphs (a) to (d).
 
-### 21. Arrangements for the handling and consideration of complaints[^key-a8664ce08e6445596114a39c39e2e69b]
+### 21. Arrangements for the handling and consideration of complaints[^c-a8664ce08e6445596114a39c39e2e69b]
 
 (1) Each responsible body must make arrangements (“arrangements for dealing with complaints”) in accordance with these Regulations for the handling and consideration of complaints.
 
@@ -371,7 +371,7 @@ In this Part—
 - (f) complainants are told the outcome of the investigation of their complaint; and
 - (g) action is taken if necessary in the light of the outcome of a complaint.
 
-### 22. Responsibility for complaints arrangements[^key-9dd22a90f0045fad9947d30a58cb137b]
+### 22. Responsibility for complaints arrangements[^c-9dd22a90f0045fad9947d30a58cb137b]
 
 (1) Each responsible body must designate—
 
@@ -396,7 +396,7 @@ In this Part—
 - (b) the same person as the responsible person;
 - (c) a complaints manager designated by another responsible body under paragraph (1)(b).
 
-### 23. Persons who may make complaints[^key-1124a4aee58036d446a3832c687359b5]
+### 23. Persons who may make complaints[^c-1124a4aee58036d446a3832c687359b5]
 
 (1) A complaint may be made by—
 
@@ -431,7 +431,7 @@ In this Part—
 
 (6) In this Part, any reference to a complainant includes a reference to a representative.
 
-### 24. Duty to handle complaints[^key-e86fe0e47523a5e72c5bd05bdb9cbb8d]
+### 24. Duty to handle complaints[^c-e86fe0e47523a5e72c5bd05bdb9cbb8d]
 
 (1) Subject to the following provisions of this regulation, where a responsible body receives a complaint made in accordance with these Regulations, it must handle the complaint in accordance with these Regulations.
 
@@ -454,7 +454,7 @@ In this Part—
 - (a) the local authority must so notify the complainant and the service provider; and
 - (b) the service provider must handle the complaint in accordance with these Regulations and the complainant shall be deemed to have made the complaint to the service provider under these Regulations.
 
-### 25. Complaints not required to be dealt with[^key-5dda08cf7bcfbe95e45e61d0ff9dd396]
+### 25. Complaints not required to be dealt with[^c-5dda08cf7bcfbe95e45e61d0ff9dd396]
 
 (1) The following complaints are not required to be dealt with in accordance with these Regulations—
 
@@ -475,7 +475,7 @@ In this Part—
 
 (4) Where a complaint specified in paragraph (1) is part of, or is connected with, another complaint which is not so specified, nothing in this regulation prevents that other complaint being handled in accordance with these Regulations.
 
-### 26. Duty to co-operate[^key-b2239f75da2429cea2ef1b88e5187258]
+### 26. Duty to co-operate[^c-b2239f75da2429cea2ef1b88e5187258]
 
 (1) This regulation applies where—
 
@@ -495,7 +495,7 @@ In this Part—
 - (b) to provide to the other body information relevant to the consideration of the complaint which is reasonably requested by the other body; and
 - (c) to send a representative to any meeting reasonably required in connection with the consideration of the complaint.
 
-### 27. Time limit for making a complaint[^key-c765bc35d5f52de6ddae95b92a0f6648]
+### 27. Time limit for making a complaint[^c-c765bc35d5f52de6ddae95b92a0f6648]
 
 (1) Except as mentioned in paragraph (2), a complaint must be made not later than twelve months after—
 
@@ -507,7 +507,7 @@ In this Part—
 - (a) the complainant had good reasons for not making the complaint within that time limit; and
 - (b) notwithstanding the delay, it is still possible to investigate the complaint effectively and fairly.
 
-### 28. Procedure before investigation[^key-c1a8f06a6029ac22c5a43515cebc3925]
+### 28. Procedure before investigation[^c-c1a8f06a6029ac22c5a43515cebc3925]
 
 (1) A complaint may be made orally, in writing or electronically.
 
@@ -534,7 +534,7 @@ In this Part—
 - (a) determine the response period specified in paragraph (6)(b); and
 - (b) notify the complainant in writing of that period.
 
-### 29. Investigation and response[^key-eba32dc96b739deaac0638ee2ce9dced]
+### 29. Investigation and response[^c-eba32dc96b739deaac0638ee2ce9dced]
 
 (1) A responsible body to which a complaint is made must—
 
@@ -559,7 +559,7 @@ In this Part—
 - (a) notify the complainant in writing accordingly and explain the reason why; and
 - (b) send the complainant in writing a response in accordance with paragraph (2) as soon as reasonably practicable after the relevant period.
 
-### 30. Form of communications[^key-3b7343357422b9754adf5f00d2b078a8]
+### 30. Form of communications[^c-3b7343357422b9754adf5f00d2b078a8]
 
 (1) Any communication which is required by these Regulations to be made to a complainant may be sent to the complainant electronically where the complainant—
 
@@ -568,14 +568,14 @@ In this Part—
 
 (2) Any requirement in these Regulations for a document to be signed by a person is satisfied, in the case of a document which is sent electronically in accordance with these Regulations, by the individual who is authorised to sign the document typing their name or producing their name using a computer or other electronic means.
 
-### 31. Publicity[^key-69a3f9e24c495983bfed6d83c9bf2621]
+### 31. Publicity[^c-69a3f9e24c495983bfed6d83c9bf2621]
 
 Each responsible body must make information available to the public as to—
 
 - (a) its arrangements for dealing with complaints; and
 - (b) how further information about those arrangements may be obtained.
 
-### 32. Monitoring[^key-e4d407e828d79d9a07a08f23c039a653]
+### 32. Monitoring[^c-e4d407e828d79d9a07a08f23c039a653]
 
 For the purpose of monitoring the arrangements under these Regulations, each responsible body must maintain a record of the following matters—
 
@@ -583,7 +583,7 @@ For the purpose of monitoring the arrangements under these Regulations, each res
 - (b) the subject matter and outcome of each complaint; and
 - (c) whether a report of the outcome of the investigation was sent to the complainant within the response period specified in regulation 28(6)(b).
 
-### 33. Annual reports[^key-3f822fa9a8d14417960c35102c93daf3]
+### 33. Annual reports[^c-3f822fa9a8d14417960c35102c93daf3]
 
 (1) Each responsible body must prepare an annual report for each year which must—
 
@@ -603,7 +603,7 @@ For the purpose of monitoring the arrangements under these Regulations, each res
 
 ## PART 6 — LOCAL HEALTHWATCH
 
-### 34. Interpretation[^key-0346e8ee7e261bd078babd78567e87f7]
+### 34. Interpretation[^c-0346e8ee7e261bd078babd78567e87f7]
 
 (1) In this Part—
 
@@ -636,7 +636,7 @@ For the purpose of monitoring the arrangements under these Regulations, each res
 - (a) the social work profession in England; or
 - (b) social care workers in England.
 
-### 35. Criteria concerning social enterprises[^key-835201bd859a6cd32770029216a3691e]
+### 35. Criteria concerning social enterprises[^c-835201bd859a6cd32770029216a3691e]
 
 (1) For the purposes of section 222(8)(b) of the 2007 Act (Local Healthwatch: social enterprises) the criteria prescribed are that the constitution of the body must—
 
@@ -670,7 +670,7 @@ For the purpose of monitoring the arrangements under these Regulations, each res
 - “realised losses” and “realised profits” means the losses or profits of the business carried on by the body as fall to be treated as realised in accordance with generally accepted accounting practice;
 - “residual assets” means, in relation to the dissolution or winding up of a body, the assets of the body which remain after satisfaction of the body’s liabilities.
 
-### 36. Political activities not to be treated as being carried on for the benefit of the community[^key-0610776f6bf80721c48a1a85399659ee]
+### 36. Political activities not to be treated as being carried on for the benefit of the community[^c-0610776f6bf80721c48a1a85399659ee]
 
 (1) For the purposes of section 222(9) of the 2007 Act (social enterprises: activities for the benefit of the community) and regulation 35(1)(b), the following activities are to be treated as not being activities which a person might reasonably consider to be activities carried on for the benefit of the community in England—
 
@@ -702,18 +702,18 @@ For the purpose of monitoring the arrangements under these Regulations, each res
   - (b) any person certain of whose functions are functions of a public nature;
 - “referendum” includes any national or regional referendum or other poll held in pursuance of any provision made by or under the law of any state on one or more questions or propositions specified in or in accordance with any such provision.
 
-### 37. Section of the community[^key-603f4474a041511101211e66dbcab92f]
+### 37. Section of the community[^c-603f4474a041511101211e66dbcab92f]
 
 For the purposes of section 222(8)(a) and (10) of the 2007 Act (social enterprises: activities for the benefit of the community including a section of the community) and regulation 35(1)(b), any group of individuals may constitute a section of the community if—
 
 - (a) they share a readily identifiable characteristic; and
 - (b) other members of the community of which that group forms part do not share that characteristic.
 
-### 38. Criterion to be met by bodies to be Local Healthwatch organisations[^key-523b073cb93ed16bee17cd18bfa00358]
+### 38. Criterion to be met by bodies to be Local Healthwatch organisations[^c-523b073cb93ed16bee17cd18bfa00358]
 
 For the purposes of section 222(2)(b) of the 2007 Act (arrangements under section 221(1): criteria to be satisfied by social enterprises which are to be Local Healthwatch organisations), the criterion prescribed is that the governance arrangements of the body must include provision for the involvement of lay persons and volunteers in the governance of the body.
 
-### 39. Regulations 40 to 43 - application and interpretation[^key-38a69026411f6cd772fa4aaabe26212e]
+### 39. Regulations 40 to 43 - application and interpretation[^c-38a69026411f6cd772fa4aaabe26212e]
 
 (1) Regulations 40 to 43 apply to any local authority arrangements.
 
@@ -724,7 +724,7 @@ For the purposes of section 222(2)(b) of the 2007 Act (arrangements under sectio
 - “relevant Local Healthwatch arrangements” means any Local Healthwatch arrangements made by L pursuant to section 222(2B) of the 2007 Act;
 - “the relevant contractor”, in relation to each set of relevant Local Healthwatch arrangements, means the Local Healthwatch contractor with whom those arrangements were made.
 
-### 40. Provision to be included in local authority arrangements[^key-9d88193f85c1d1f0e8c4abffe34e8557]
+### 40. Provision to be included in local authority arrangements[^c-9d88193f85c1d1f0e8c4abffe34e8557]
 
 (1) Arrangements to which this regulation applies must include provision that L must—
 
@@ -772,7 +772,7 @@ For the purposes of section 222(2)(b) of the 2007 Act (arrangements under sectio
 
 (5) The procedure referred to in sub-paragraph (c) of the definition of “the required procedures” in paragraph (4) must include provision setting out the circumstances in which a breach must be referred by L to A.
 
-### 41. Provision to be included in Local Healthwatch arrangements[^key-b694d003f1c9ade5cf9106ab78a03de7]
+### 41. Provision to be included in Local Healthwatch arrangements[^c-b694d003f1c9ade5cf9106ab78a03de7]
 
 (1) Arrangements to which this regulation applies must require each set of relevant Local Healthwatch arrangements to include provision that the relevant contractor must, in so far as that contractor carries on the relevant section 221 activities on behalf of L—
 
@@ -803,7 +803,7 @@ For the purposes of section 222(2)(b) of the 2007 Act (arrangements under sectio
 
 (5) The procedure referred to in sub-paragraph (b) of the definition of “the required procedures” in paragraph (4) must include provision setting out the circumstances in which a breach must be referred by the relevant contractor to L.
 
-### 42. Requirements relating to authorised representatives for the purposes of entering and viewing[^key-b79634093846c8a4df15a079224292dd]
+### 42. Requirements relating to authorised representatives for the purposes of entering and viewing[^c-b79634093846c8a4df15a079224292dd]
 
 (1) The requirements referred to in regulation 40(1)(e) and 41(2) are that L or the relevant contractor, as the case may be, must—
 
@@ -825,7 +825,7 @@ For the purposes of section 222(2)(b) of the 2007 Act (arrangements under sectio
 - (a) in the case of a representative to be authorised by L, L; and
 - (b) in the case of a representative to be authorised by the relevant contractor, that contractor.
 
-### 43. Requirements relating to trade mark[^key-cad404519f54f988f806f1080f7727b7]
+### 43. Requirements relating to trade mark[^c-cad404519f54f988f806f1080f7727b7]
 
 (1) The requirements referred to in regulation 40(1)(f) are that L must—
 
@@ -839,7 +839,7 @@ For the purposes of section 222(2)(b) of the 2007 Act (arrangements under sectio
 - “infringement proceedings” has the same meaning as in the Trade Marks Act 1994[^f00088];
 - “the Commission” means the Care Quality Commission[^f00089].
 
-### 44. Duties of responsible persons to respond to reports and recommendations by Local Healthwatch organisations contractors[^key-10a22603e8df482c977efe198c4a61bd]
+### 44. Duties of responsible persons to respond to reports and recommendations by Local Healthwatch organisations contractors[^c-10a22603e8df482c977efe198c4a61bd]
 
 (1) Subject to regulation 45, this regulation applies where a Local Healthwatch organisation or a Local Healthwatch contractor has, in the carrying-on of the relevant section 221 activities, made a report or recommendation to a responsible person.
 
@@ -885,7 +885,7 @@ For the purposes of section 222(2)(b) of the 2007 Act (arrangements under sectio
 
 (12) Where a responsible person is required to acknowledge receipt, provide an explanation or inform the referrer, that responsible person must do so in writing.
 
-### 45. Excluded services[^key-74e0fc7fa7111699b06a1d8a620479c7]
+### 45. Excluded services[^c-74e0fc7fa7111699b06a1d8a620479c7]
 
 (1) Regulation 44 does not apply where a report or recommendation relates wholly to excluded services.
 
@@ -893,11 +893,11 @@ For the purposes of section 222(2)(b) of the 2007 Act (arrangements under sectio
 
 (3) In this regulation, “excluded services” means services which are not care services in respect of which the Local Healthwatch organisation or Local Healthwatch contractor, as the case may be, which made the report or recommendation is carrying on the relevant section 221 activities.
 
-### 46. Referrals of social care matters[^key-58ccc447be2ef7ad5c69759a7229ce39]
+### 46. Referrals of social care matters[^c-58ccc447be2ef7ad5c69759a7229ce39]
 
 For the purposes of section 226(2)(a) of the 2007 Act (overview and scrutiny committees: acknowledgement of referrals by Local Healthwatch), the time by which the duty under that section is to be performed is 20 working days beginning with the date on which the referral to which the duty applies was received.
 
-### 47. Revocation and saving provision[^key-032f83c5a9cce3ecb18f44455088153a]
+### 47. Revocation and saving provision[^c-032f83c5a9cce3ecb18f44455088153a]
 
 (1) The Local Involvement Networks Regulations 2008[^f00090] are revoked.
 
@@ -1017,11 +1017,11 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00003]: Footnote: [2007 c.28](https://www.legislation.gov.uk/ukpga/2007/28). Section 222 is amended by section 183 of, and paragraph 149 of Schedule 5 to, the 2012 Act; section 223 is amended by section 184 of the 2012 Act. *See* the definition of “prescribed provision” in section 223(3). Section 224 is amended by section 186(1) to (5) of, and paragraph 150 of Schedule 5 to, the 2012 Act.
 
-[^key-51cce56ad4000c658965f10c802f9ee9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1) in force at 1.4.2013, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/h)
+[^c-51cce56ad4000c658965f10c802f9ee9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1) in force at 1.4.2013, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/h)
 
 [^f00004]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7) (“the 2012 Act”); section 200 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
 
-[^key-768fb193da722b7af79fbece78255763]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/3094) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-768fb193da722b7af79fbece78255763]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/3094) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^f00005]: Footnote: Section 14 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act and by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657).
 
@@ -1035,15 +1035,15 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00010]: Footnote: Section 183 of the 2012 Act is commenced for limited purposes by virtue of section 306(1)(d) of that Act.
 
-[^key-fe0369b64e0fc13b5ec3e6431b364435]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/3094/regulation/2) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)[(c)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/c)
+[^c-fe0369b64e0fc13b5ec3e6431b364435]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/3094/regulation/2) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)[(c)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/c)
 
-[^key-1dbba261867bf21c13f3013c1d37411d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3094/regulation/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [57(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/57/2/a)
+[^c-1dbba261867bf21c13f3013c1d37411d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3094/regulation/2) omitted (6.11.2023) by virtue of [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [57(2)(a)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/57/2/a)
 
-[^key-60ab9d7c0e21039532b3690b82527b96]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3094/regulation/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [57(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/57/2/b)
+[^c-60ab9d7c0e21039532b3690b82527b96]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/3094/regulation/2) inserted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [57(2)(b)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/57/2/b)
 
 [^f00012]: Footnote: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617) as amended by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2003/629](https://www.legislation.gov.uk/uksi/2003/629), [2004/696](https://www.legislation.gov.uk/uksi/2004/696), [2005/3504](https://www.legislation.gov.uk/uksi/2005/3504), [2009/278](https://www.legislation.gov.uk/uksi/2009/278), [2010/1000](https://www.legislation.gov.uk/uksi/2010/1000) and [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172).
 
-[^key-192a58c1ab07928e25744dd2a361320f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/3094/regulation/3) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+[^c-192a58c1ab07928e25744dd2a361320f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/3094/regulation/3) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
 
 [^f00013]: Footnote: Regulation 6 was amended by [S.I. 2003/629](https://www.legislation.gov.uk/uksi/2003/629), [2005/3504](https://www.legislation.gov.uk/uksi/2005/3504), [2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and by regulation 12 of these Regulations.
 
@@ -1051,35 +1051,35 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00015]: Footnote: Regulation 5 was amended by [S.I. 2009/278](https://www.legislation.gov.uk/uksi/2009/278), [2010/1000](https://www.legislation.gov.uk/uksi/2010/1000) and by regulation 12 of these Regulations.
 
-[^key-ca89cb9524becc056038adebec42231e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/3094/regulation/4) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+[^c-ca89cb9524becc056038adebec42231e]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/3094/regulation/4) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
 
-[^key-68b6351555f53bcbe5b0e7d04721b466]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/3094/regulation/5) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+[^c-68b6351555f53bcbe5b0e7d04721b466]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/3094/regulation/5) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
 
-[^key-3af1b6ed96f483fbac003030df8bace2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/3094/regulation/6) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+[^c-3af1b6ed96f483fbac003030df8bace2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/3094/regulation/6) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
 
-[^key-9508696976fec4f1f963ac2622c64cbe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/3094/regulation/7) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+[^c-9508696976fec4f1f963ac2622c64cbe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/3094/regulation/7) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
 
-[^key-2536e03cbee877f72e756bdcff21e17b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/3094/regulation/8) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+[^c-2536e03cbee877f72e756bdcff21e17b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/3094/regulation/8) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
 
 [^f00016]: Footnote: *See* section 77(12) of the 2006 Act for the meaning of “LA delegation arrangements”.
 
-[^key-1a58c0e5d5c27f584db083f745350ddf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/3094/regulation/9) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+[^c-1a58c0e5d5c27f584db083f745350ddf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/3094/regulation/9) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
 
-[^key-ced964efcecc5047cf3a8b39421ccedc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/3094/regulation/10) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+[^c-ced964efcecc5047cf3a8b39421ccedc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/3094/regulation/10) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
 
-[^key-b1b11aaad4b1e129053ffb7732f9d720]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-b1b11aaad4b1e129053ffb7732f9d720]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-8afd2a30982dbb0c05b82b08473d029b]: Textual amendment: [Reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/10/2/b) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [110(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/110/2)
+[^c-8afd2a30982dbb0c05b82b08473d029b]: Textual amendment: [Reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/10/2/b) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [110(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/110/2)
 
 [^f00018]: Footnote: Established by section 1 of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14) (“the 2008 Act”).
 
-[^key-492c07ceb4ec5704d73b411f54ca5d8a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/3094/regulation/11) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
+[^c-492c07ceb4ec5704d73b411f54ca5d8a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/3094/regulation/11) in force at 1.4.2013, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/a)
 
 [^f00019]: Footnote: [S.I. 2001/3788](https://www.legislation.gov.uk/uksi/2001/3788). The Care Trusts (Application and Consultation) Regulations 2001 were amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [S.I. 2010/743](https://www.legislation.gov.uk/uksi/2010/743).
 
 [^f00020]: Footnote: [S.I. 2010/743](https://www.legislation.gov.uk/uksi/2010/743).
 
-[^key-fe0b6aceb9f4448445d6a76c6183eef4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/3094/regulation/12) in force at 1.4.2013, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/b)
+[^c-fe0b6aceb9f4448445d6a76c6183eef4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2012/3094/regulation/12) in force at 1.4.2013, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/b)
 
 [^f00021]: Footnote: [S.I. 2000/617](https://www.legislation.gov.uk/uksi/2000/617).
 
@@ -1101,7 +1101,7 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00030]: Footnote: Regulation 9 was amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2003/629](https://www.legislation.gov.uk/uksi/2003/629).
 
-[^key-19be411a178cb0d58262212c634cb5a7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/3094/regulation/13) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/c)
+[^c-19be411a178cb0d58262212c634cb5a7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/3094/regulation/13) in force at 1.4.2013, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/c)
 
 [^f00031]: Footnote: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42). Schedule 1 was amended by sections 144 and 160 of, and Schedule 14 to, the 2008 Act, [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) and by section 72 of, and paragraphs 25 and 26 of Schedule 1 to, the Children and Families (Wales) Measure [2010 (nawm 1)](https://www.legislation.gov.uk/mwa/2010/1).
 
@@ -1109,15 +1109,15 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00033]: Footnote: [S.I. 2004/629](https://www.legislation.gov.uk/uksi/2004/629). Schedule 2 was amended by [S.I. 2004/3215](https://www.legislation.gov.uk/uksi/2004/3215), [2009/2230](https://www.legislation.gov.uk/uksi/2009/2230), [2010/2389](https://www.legislation.gov.uk/uksi/2010/2389), [2011/680](https://www.legislation.gov.uk/uksi/2011/680) and [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-d5d049b234f75bb69ac5b2b26356a92e]: Textual amendment: Words in [reg. 13(3)(d)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/12/3/d) substituted (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 12](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/12)
+[^c-d5d049b234f75bb69ac5b2b26356a92e]: Textual amendment: Words in [reg. 13(3)(d)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/12/3/d) substituted (1.4.2013) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) Regulations 2013 (S.I. 2013/349)](https://www.legislation.gov.uk/uksi/2013/349), [reg. 1](https://www.legislation.gov.uk/uksi/2013/349/regulation/1), [Sch. 10 para. 12](https://www.legislation.gov.uk/uksi/2013/349/schedule/10/paragraph/12)
 
 [^f00034]: Footnote: [S.I. 2012/1909](https://www.legislation.gov.uk/uksi/2012/1909).
 
 [^f00035]: Footnote: [S.I. 2000/618](https://www.legislation.gov.uk/uksi/2000/618). The National Health Service (Payments by Local Authorities to NHS Bodies) (Prescribed Functions) Regulations was amended by [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865), [2007/674](https://www.legislation.gov.uk/uksi/2007/674), [2008/2828](https://www.legislation.gov.uk/uksi/2008/2828) and [2012/1909](https://www.legislation.gov.uk/uksi/2012/1909).
 
-[^key-879ca1028ce2003f8faf657d3c0f4b18]: Modification: [Reg. 14(b)(iv)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/14/b/iv) modified (temp. until 1.4.2025) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 11(10)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/10), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [s. 11(13)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/13)) (as amended (29.9.2022) by [S.I. 2022/978](https://www.legislation.gov.uk/uksi/2022/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/978/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/978/regulation/2); and (28.9.2023) by [S.I. 2023/990](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/990/regulation/2))
+[^c-879ca1028ce2003f8faf657d3c0f4b18]: Modification: [Reg. 14(b)(iv)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/14/b/iv) modified (temp. until 1.4.2025) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 11(10)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/10), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [s. 11(13)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/13)) (as amended (29.9.2022) by [S.I. 2022/978](https://www.legislation.gov.uk/uksi/2022/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/978/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/978/regulation/2); and (28.9.2023) by [S.I. 2023/990](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/990/regulation/2))
 
-[^key-69dcb26be9c1e5efaa0d8dffa211def1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/3094/regulation/14) in force at 1.4.2013, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/d)
+[^c-69dcb26be9c1e5efaa0d8dffa211def1]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/3094/regulation/14) in force at 1.4.2013, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/d)
 
 [^f00036]: Footnote: *See* section 2B(5) of the 2006 Act for the definition of “local authority”, which is also applied to sections 73A and 73B of the 2006 Act by virtue of sections 73A(8) and 73B(7) respectively of that Act.
 
@@ -1141,31 +1141,31 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00046]: Footnote: Section 172B of the 2003 Act was inserted by section 119(1) and (3) of the 2011 Act.
 
-[^key-6700c6fe6e37f10b764fb21e271c8788]: Textual amendment: [Reg. 14(c)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/14/c) inserted (1.4.2013) by [The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/261)](https://www.legislation.gov.uk/uksi/2013/261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2013/261/regulation/21)
+[^c-6700c6fe6e37f10b764fb21e271c8788]: Textual amendment: [Reg. 14(c)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/14/c) inserted (1.4.2013) by [The National Health Service and Public Health (Functions and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/261)](https://www.legislation.gov.uk/uksi/2013/261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/261/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2013/261/regulation/21)
 
-[^key-557a9253265480241a4de3b9b8fc2d3d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/3094/regulation/15) in force at 1.4.2013, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/d)
+[^c-557a9253265480241a4de3b9b8fc2d3d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/3094/regulation/15) in force at 1.4.2013, see [reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/d)
 
-[^key-9d630b0c5277a2bc8cd40150cdde3ea9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/3094/regulation/16) in force at 1.4.2013, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/e)
+[^c-9d630b0c5277a2bc8cd40150cdde3ea9]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/3094/regulation/16) in force at 1.4.2013, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/e)
 
 [^f00047]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 87(1) is substituted by section 58(1) and (2) of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
-[^key-af010a86c66bbed06ab75e70e6c3e7bd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/3094/regulation/17) in force at 1.4.2013, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/e)
+[^c-af010a86c66bbed06ab75e70e6c3e7bd]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/3094/regulation/17) in force at 1.4.2013, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/e)
 
 [^f00048]: Footnote: *See* section 2B(5) of the 2006 Act for the definition of “local authority”, which is also applied to section 111 by virtue of section 111(3) of that Act.
 
 [^f00049]: Footnote: Paragraph 13 of Schedule 1 to the 2006 Act is substituted by section 17(2) and (13) of the 2012 Act.
 
-[^key-bb6d4f08450a10ddb142e012f6df1294]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/3094/regulation/18) in force at 1.4.2013, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/e)
+[^c-bb6d4f08450a10ddb142e012f6df1294]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/3094/regulation/18) in force at 1.4.2013, see [reg. 1(2)(e)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/e)
 
 [^f00050]: Footnote: [S.I. 2006/185](https://www.legislation.gov.uk/uksi/2006/185).
 
-[^key-427d0490f243c2b89a8fe33318c3ddc6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/3094/regulation/19) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-427d0490f243c2b89a8fe33318c3ddc6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/3094/regulation/19) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
 [^f00051]: Footnote: *See* section 2B(5) of the 2006 Act for the definition of “local authority”, which is also applied to section 73C by virtue of section 73C(6) of the 2006 Act.
 
 [^f00052]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-681df9e0130732bf8ce260a81bd0898f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/3094/regulation/20) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-681df9e0130732bf8ce260a81bd0898f]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/3094/regulation/20) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
 [^f00053]: Footnote: *See* section 1H(5)(b) of the 2006 Act for the meaning of references to the public health functions of local authorities.
 
@@ -1175,19 +1175,19 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00056]: Footnote: *See* section 73A of the 2006 Act and regulation 14 of these Regulations as to the responsibilities of directors of public health.
 
-[^key-a8664ce08e6445596114a39c39e2e69b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/3094/regulation/21) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-a8664ce08e6445596114a39c39e2e69b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2012/3094/regulation/21) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
-[^key-9dd22a90f0045fad9947d30a58cb137b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/3094/regulation/22) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-9dd22a90f0045fad9947d30a58cb137b]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2012/3094/regulation/22) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
 [^f00057]: Footnote: [1989 c.42](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-1124a4aee58036d446a3832c687359b5]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/3094/regulation/23) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-1124a4aee58036d446a3832c687359b5]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/3094/regulation/23) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
 [^f00058]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-e86fe0e47523a5e72c5bd05bdb9cbb8d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/3094/regulation/24) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-e86fe0e47523a5e72c5bd05bdb9cbb8d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/3094/regulation/24) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
-[^key-5dda08cf7bcfbe95e45e61d0ff9dd396]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/3094/regulation/25) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-5dda08cf7bcfbe95e45e61d0ff9dd396]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2012/3094/regulation/25) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
 [^f00059]: Footnote: [1974 c.7](https://www.legislation.gov.uk/ukpga/1974/7).
 
@@ -1195,25 +1195,25 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00061]: Footnote: [1972 c.11](https://www.legislation.gov.uk/ukpga/1972/11).
 
-[^key-b2239f75da2429cea2ef1b88e5187258]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2012/3094/regulation/26) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-b2239f75da2429cea2ef1b88e5187258]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2012/3094/regulation/26) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
-[^key-c765bc35d5f52de6ddae95b92a0f6648]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2012/3094/regulation/27) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-c765bc35d5f52de6ddae95b92a0f6648]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2012/3094/regulation/27) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
-[^key-c1a8f06a6029ac22c5a43515cebc3925]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/3094/regulation/28) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-c1a8f06a6029ac22c5a43515cebc3925]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/3094/regulation/28) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
-[^key-eba32dc96b739deaac0638ee2ce9dced]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/3094/regulation/29) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-eba32dc96b739deaac0638ee2ce9dced]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/3094/regulation/29) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
-[^key-3b7343357422b9754adf5f00d2b078a8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2012/3094/regulation/30) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-3b7343357422b9754adf5f00d2b078a8]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2012/3094/regulation/30) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
-[^key-69a3f9e24c495983bfed6d83c9bf2621]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2012/3094/regulation/31) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-69a3f9e24c495983bfed6d83c9bf2621]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2012/3094/regulation/31) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
-[^key-e4d407e828d79d9a07a08f23c039a653]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2012/3094/regulation/32) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-e4d407e828d79d9a07a08f23c039a653]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2012/3094/regulation/32) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
-[^key-3f822fa9a8d14417960c35102c93daf3]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2012/3094/regulation/33) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
+[^c-3f822fa9a8d14417960c35102c93daf3]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2012/3094/regulation/33) in force at 1.4.2013, see [reg. 1(2)(f)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/f)
 
 [^f00062]: Footnote: *See* section 115(6) of the 2003 Act for the meaning of “statutory complaints procedure”.
 
-[^key-0346e8ee7e261bd078babd78567e87f7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2012/3094/regulation/34) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-0346e8ee7e261bd078babd78567e87f7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2012/3094/regulation/34) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
 [^f00063]: Footnote: Section 225(5) is amended by section 186(6) and (7) of the 2012 Act.
 
@@ -1247,7 +1247,7 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00078]: Footnote: Section 25(3)(j) was substituted by paragraph 17 of Schedule 10 to the 2008 Act.
 
-[^key-835201bd859a6cd32770029216a3691e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2012/3094/regulation/35) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-835201bd859a6cd32770029216a3691e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2012/3094/regulation/35) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
 [^f00079]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).
 
@@ -1255,27 +1255,27 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00081]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-0610776f6bf80721c48a1a85399659ee]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2012/3094/regulation/36) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-0610776f6bf80721c48a1a85399659ee]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2012/3094/regulation/36) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
 [^f00082]: Footnote: *See* section 5 of, and Schedule 1 to, the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30) for the definition of “the EU”. The definition was substituted by the Schedule to the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-603f4474a041511101211e66dbcab92f]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2012/3094/regulation/37) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-603f4474a041511101211e66dbcab92f]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2012/3094/regulation/37) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
-[^key-523b073cb93ed16bee17cd18bfa00358]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2012/3094/regulation/38) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-523b073cb93ed16bee17cd18bfa00358]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2012/3094/regulation/38) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
-[^key-38a69026411f6cd772fa4aaabe26212e]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2012/3094/regulation/39) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-38a69026411f6cd772fa4aaabe26212e]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2012/3094/regulation/39) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
-[^key-9d88193f85c1d1f0e8c4abffe34e8557]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2012/3094/regulation/40) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-9d88193f85c1d1f0e8c4abffe34e8557]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2012/3094/regulation/40) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
 [^f00083]: Footnote: Sections 244 and 245 are amended by sections 190 and 191 respectively of the 2012 Act.
 
-[^key-b694d003f1c9ade5cf9106ab78a03de7]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2012/3094/regulation/41) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-b694d003f1c9ade5cf9106ab78a03de7]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2012/3094/regulation/41) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
-[^key-b79634093846c8a4df15a079224292dd]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2012/3094/regulation/42) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-b79634093846c8a4df15a079224292dd]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2012/3094/regulation/42) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
 [^f00084]: Footnote: Section 113A was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15) and amended by paragraph 14(1) and (2) of Schedule 9 to, the Safeguarding Vulnerable Groups Act [2006 (c.47)](https://www.legislation.gov.uk/ukpga/2006/47), section 78(2)(a) to (d) and 79 of, and paragraphs 27 and 28 of Schedule 4 to, the Protection of Vulnerable Groups (Scotland) Act [2007 (asp 14)](https://www.legislation.gov.uk/asp/2007/14), section 50(1) and (3)(a) to (c) of the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4), sections 97(2) of, and Schedule 8 to, the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), section 188 of the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1), sections 79(2)(a) and 80(1) of, and Schedule 10 and paragraphs 35 and 36 of Schedule 9 to the Protection of Freedoms Act [2012 (c.9)](https://www.legislation.gov.uk/ukpga/2012/9) and [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203) and [2010/1146](https://www.legislation.gov.uk/uksi/2010/1146).
 
-[^key-cad404519f54f988f806f1080f7727b7]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2012/3094/regulation/43) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-cad404519f54f988f806f1080f7727b7]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2012/3094/regulation/43) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
 [^f00085]: Footnote: Section 45D(1) of the 2008 Act enables the Care Quality Commission to grant a Local Healthwatch organisation a licence authorising the use, in relation to the carrying-on of activities under arrangements made under section 221(1) of the 2007 Act, of a registered trade mark of which the Commission is the proprietor. *See* the definition of “registered trade mark” and “use” in section 45D(3) of the 2008 Act. Section 45D is inserted by section 182(11) of the 2012 Act.
 
@@ -1287,13 +1287,13 @@ A full Impact Assessment has not been produced for this instrument as no or mini
 
 [^f00089]: Footnote: The Commission was established by section 1(1) of the 2008 Act.
 
-[^key-10a22603e8df482c977efe198c4a61bd]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2012/3094/regulation/44) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-10a22603e8df482c977efe198c4a61bd]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2012/3094/regulation/44) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
-[^key-74e0fc7fa7111699b06a1d8a620479c7]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2012/3094/regulation/45) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-74e0fc7fa7111699b06a1d8a620479c7]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2012/3094/regulation/45) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
-[^key-58ccc447be2ef7ad5c69759a7229ce39]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2012/3094/regulation/46) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-58ccc447be2ef7ad5c69759a7229ce39]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2012/3094/regulation/46) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
-[^key-032f83c5a9cce3ecb18f44455088153a]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2012/3094/regulation/47) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
+[^c-032f83c5a9cce3ecb18f44455088153a]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2012/3094/regulation/47) in force at 1.4.2013, see [reg. 1(2)(g)](https://www.legislation.gov.uk/uksi/2012/3094/regulation/1/2/g)
 
 [^f00090]: Footnote: [S.I. 2008/528](https://www.legislation.gov.uk/uksi/2008/528), as amended by [S.I. 2008/1877](https://www.legislation.gov.uk/uksi/2008/1877).
 

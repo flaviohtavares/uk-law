@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 11 — The Qualifications and Curriculum Development Agency[^key-e73c85fcf90e752c86e74f9817a4f74f]
+## Schedule 11 — The Qualifications and Curriculum Development Agency[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
 *Extent: E+W*
 
@@ -24,78 +24,78 @@ summary: ''
 
 Section 175
 
-### Status[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Status[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**1.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Membership[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Membership[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**2.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chief officer[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Chief officer[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**3.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Chair and chief officer: division of functions[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Chair and chief officer: division of functions[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**4.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Tenure[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Tenure[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**5.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Remuneration etc. of ordinary members[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Remuneration etc. of ordinary members[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**6.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Staff[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Staff[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**7.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Committees[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Committees[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**9.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Procedure etc.[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Procedure etc.[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**11.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Delegation[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Delegation[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**13.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Reports[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Reports[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**16.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Accounts[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Accounts[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**17.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Documents[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Documents[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**18.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Funding[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Funding[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**20.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary powers[^key-e73c85fcf90e752c86e74f9817a4f74f]
+### Supplementary powers[^c-e73c85fcf90e752c86e74f9817a4f74f]
 
-**21.**[^key-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-e73c85fcf90e752c86e74f9817a4f74f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e73c85fcf90e752c86e74f9817a4f74f]: Textual amendment: Sch. 11 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 25](https://www.legislation.gov.uk/ukpga/2011/21/section/25), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-e73c85fcf90e752c86e74f9817a4f74f]: Textual amendment: Sch. 11 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 25](https://www.legislation.gov.uk/ukpga/2011/21/section/25), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Power to make provision in relation to certain fee-paid judges[^key-4cc11571110c17b40252862164ae5510][^key-166503b74f87d6c00a015d62d8a45bb1]
+## 103. Power to make provision in relation to certain fee-paid judges[^c-4cc11571110c17b40252862164ae5510][^c-166503b74f87d6c00a015d62d8a45bb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4cc11571110c17b40252862164ae5510]: Commencement: S. 103 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-4cc11571110c17b40252862164ae5510]: Commencement: S. 103 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-166503b74f87d6c00a015d62d8a45bb1]: Commencement: S. 103 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-166503b74f87d6c00a015d62d8a45bb1]: Commencement: S. 103 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

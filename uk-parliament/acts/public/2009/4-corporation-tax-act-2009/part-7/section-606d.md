@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 606D. Counterfactual currency movement assumptions[^key-aca9dcd9780718b5bec15745c715d842]
+## 606D. Counterfactual currency movement assumptions[^c-aca9dcd9780718b5bec15745c715d842]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aca9dcd9780718b5bec15745c715d842]: Textual amendment: Ss. 606A-606H omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 69](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/69)
+[^c-aca9dcd9780718b5bec15745c715d842]: Textual amendment: Ss. 606A-606H omitted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 69](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/69)

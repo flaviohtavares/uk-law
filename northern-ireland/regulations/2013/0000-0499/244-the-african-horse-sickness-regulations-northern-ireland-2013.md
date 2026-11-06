@@ -46,11 +46,11 @@ The Department of Agriculture and Rural Development is a department designated[^
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-21cd982234d041e9ee919ebe59c873cc]
+### 1. Citation and commencement[^c-21cd982234d041e9ee919ebe59c873cc]
 
 These Regulations may be cited as the African Horse Sickness Regulations (Northern Ireland) 2013 and come into operation on 18th November 2013.
 
-### 2. Interpretation[^key-37c3916f739120ec19f82a2d483c6bf6]
+### 2. Interpretation[^c-37c3916f739120ec19f82a2d483c6bf6]
 
 (1) In these Regulations—
 
@@ -70,7 +70,7 @@ These Regulations may be cited as the African Horse Sickness Regulations (Northe
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00004] applies to these Regulations as it applies to an Act of the Assembly.
 
-### 3. References to occupier[^key-1ac69989fbfc8b9783c9d33db4022270]
+### 3. References to occupier[^c-1ac69989fbfc8b9783c9d33db4022270]
 
 (1) In these Regulations a reference to an occupier of premises includes a reference to a person who has ownership or charge of a horse on the premises.
 
@@ -84,16 +84,16 @@ These Regulations may be cited as the African Horse Sickness Regulations (Northe
 
 (6) A notice required or authorised under these Regulations to be served on the occupier of premises may (in addition to it being served on the occupier) be served on any other occupier of the premises.
 
-### 4. Exemptions[^key-c710c38fcbc2d34ffc8ad5acaa127ca9]
+### 4. Exemptions[^c-c710c38fcbc2d34ffc8ad5acaa127ca9]
 
 These Regulations do not apply—
 
 - (a) to anything done under the terms of a licence granted under the Specified Animal Pathogens Order (Northern Ireland) 2008[^f00005]; or
-- (b) at any border control post[^key-639d825d8bfed3bc4573b17a5153e66a] within the meaning of, and for so long as it remains approved for the purposes of, regulation 11 of the Trade in Animals and Related Products Regulations (Northern Ireland) 2011[^f00006].
+- (b) at any border control post[^c-639d825d8bfed3bc4573b17a5153e66a] within the meaning of, and for so long as it remains approved for the purposes of, regulation 11 of the Trade in Animals and Related Products Regulations (Northern Ireland) 2011[^f00006].
 
 ## PART II — NOTIFICATION OF SUSPICION OF AFRICAN HORSE SICKNESS
 
-### 5. Notification requirements[^key-7f4d7f0ab3db8d4a5387843d73eed782]
+### 5. Notification requirements[^c-7f4d7f0ab3db8d4a5387843d73eed782]
 
 (1) Any person who suspects that a horse or carcase is infected with African horse sickness virus shall immediately notify the Department.
 
@@ -119,11 +119,11 @@ for so long as the notice remains in force.
 
 ## PART III — SUSPICION AND CONFIRMATION OF AFRICAN HORSE SICKNESS
 
-### 6. Scope of Part III[^key-c580e5c1688f87b346a3452fc9480669]
+### 6. Scope of Part III[^c-c580e5c1688f87b346a3452fc9480669]
 
 This Part does not apply in relation to slaughterhouses or non-captive horses.
 
-### 7. Initial controls following notification[^key-e897480cd0960d862eb9b4b29c5c275c]
+### 7. Initial controls following notification[^c-e897480cd0960d862eb9b4b29c5c275c]
 
 (1) This regulation applies where the Department receives a notification under regulation 5(1) and a veterinary inspector considers that further investigation relating to the possible presence of African horse sickness virus is necessary.
 
@@ -155,7 +155,7 @@ This Part does not apply in relation to slaughterhouses or non-captive horses.
 - (a) a veterinary inspector confirms (orally or otherwise) to any occupier of the premises that the presence of African horse sickness virus on the premises is not suspected; or
 - (b) the premises become suspect premises[^f00007].
 
-### 8. Imposing measures on suspicion of disease[^key-1987791afe207c8c6b9389c33ed1c464]
+### 8. Imposing measures on suspicion of disease[^c-1987791afe207c8c6b9389c33ed1c464]
 
 (1) This regulation applies where an inspector suspects that a horse or carcase that is or has been infected with African horse sickness virus is or has been on any premises (whether following a notification under regulation 5(1) or otherwise).
 
@@ -178,7 +178,7 @@ This Part does not apply in relation to slaughterhouses or non-captive horses.
 
 and continue the inquiry until these matters have been established so far as is practicable or the possible presence of African horse sickness virus has been discounted.
 
-### 9. Measures following suspicion – premises other than contact premises[^key-33b29a02c6122a47ae9df45db584f599]
+### 9. Measures following suspicion – premises other than contact premises[^c-33b29a02c6122a47ae9df45db584f599]
 
 (1) This regulation applies where premises, other than contact premises, are designated as suspect premises.
 
@@ -202,7 +202,7 @@ and continue the inquiry until these matters have been established so far as is 
 
 (11) If the Department considers it necessary to reduce the risk of spread of African horse sickness virus, the notice served under paragraph (8) may require measures additional to those in Schedule 1 and paragraph (10).
 
-### 10. Measures following suspicion – contact premises[^key-8bd6ed2b30245631978d1ba2de072a36]
+### 10. Measures following suspicion – contact premises[^c-8bd6ed2b30245631978d1ba2de072a36]
 
 (1) This regulation applies where contact premises are designated as suspect premises.
 
@@ -238,7 +238,7 @@ that African horse sickness virus is present in a horse or carcase or on the pre
 
 (11) In this regulation, “the relevant period” is the period determined by the Department to be necessary for establishing whether or not African horse sickness is present in a horse or carcase on the premises.
 
-### 11. Powers to prevent horses from being brought onto other premises[^key-17a2303bd9f6e622bd95f3ccd389a351]
+### 11. Powers to prevent horses from being brought onto other premises[^c-17a2303bd9f6e622bd95f3ccd389a351]
 
 (1) This regulation applies where premises are infected premises and the Department considers that due to the risk of African horse sickness virus spreading it is appropriate to prevent horses from being brought onto other premises.
 
@@ -250,7 +250,7 @@ that African horse sickness virus is present in a horse or carcase or on the pre
 
 (5) The notice may require the main occupier to erect and maintain such signs on the premises as may be required by a veterinary inspector.
 
-### 12. Revocation of notices declaring premises to be infected premises[^key-706ba2315ab60e7a1333d4e857431eb9]
+### 12. Revocation of notices declaring premises to be infected premises[^c-706ba2315ab60e7a1333d4e857431eb9]
 
 (1) A veterinary inspector shall not revoke a notice declaring premises to be infected premises unless the Department is satisfied that there is minimal risk of further infection from those premises.
 
@@ -260,7 +260,7 @@ that African horse sickness virus is present in a horse or carcase or on the pre
 
 ## PART IV — SLAUGHTERHOUSES
 
-### 13. Imposition of initial controls at slaughterhouses[^key-be1fb95d77e75d8cd3df7141c99000eb]
+### 13. Imposition of initial controls at slaughterhouses[^c-be1fb95d77e75d8cd3df7141c99000eb]
 
 (1) This regulation applies—
 
@@ -281,7 +281,7 @@ that African horse sickness virus is present in a horse or carcase or on the pre
 - (b) any notified horse and any other horse from the same premises as the notified horse is not slaughtered unless authorised by a veterinary inspector; and
 - (c) if any notified horse or any horse from the same premises as a notified horse has already been, or is subsequently, slaughtered or has died, its carcase is specifically identified and retained at the slaughterhouse until a veterinary inspector has examined it, and taken samples if considered necessary.
 
-### 14. Actions following examination[^key-766aa498629d2767c6d3eaf604174f7d]
+### 14. Actions following examination[^c-766aa498629d2767c6d3eaf604174f7d]
 
 (1) This regulation applies where a veterinary inspector has acted under regulation 13(3).
 
@@ -310,7 +310,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 ## PART V — NON-CAPTIVE HORSES
 
-### 15. Suspicion relating to non-captive horses[^key-ca5ffb65aa2676d2fb0a132f80e452bc]
+### 15. Suspicion relating to non-captive horses[^c-ca5ffb65aa2676d2fb0a132f80e452bc]
 
 (1) This regulation applies where a veterinary inspector suspects that a non-captive horse may be infected with African horse sickness virus.
 
@@ -335,7 +335,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 ## PART VI — AREA CONTROLS
 
-### 16. Temporary control zone[^key-36d46cfefb6879c70db698079f5cb5b4]
+### 16. Temporary control zone[^c-36d46cfefb6879c70db698079f5cb5b4]
 
 (1) This regulation applies where premises are suspect premises or where a veterinary inspector has taken samples under regulation 14(3) from a horse or carcase at a slaughterhouse.
 
@@ -347,7 +347,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 (5) If the Department considers it necessary to reduce the risk of spread of African horse sickness virus, the Department may in the declaration of the temporary control zone impose any other measures.
 
-### 17. Control zone, protection zone and surveillance zone[^key-78ad5c801a8c95c2648afa0cef693562]
+### 17. Control zone, protection zone and surveillance zone[^c-78ad5c801a8c95c2648afa0cef693562]
 
 (1) This regulation applies where premises are infected premises or where tests under regulation 14 indicate the existence of African horse sickness virus in a horse or carcase at a slaughterhouse.
 
@@ -368,7 +368,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 (7) The Department may declare that any other measure considered necessary to reduce the risk of the spread of African horse sickness virus, applies in respect of the whole or any part of the control zone, protection zone or surveillance zone.
 
-### 18. Infection zones[^key-ad5054c80b34980b5f9bbcf505c00984]
+### 18. Infection zones[^c-ad5054c80b34980b5f9bbcf505c00984]
 
 (1) This regulation applies where a veterinary inspector concludes that African horse sickness virus is likely to be present in a non-captive horse.
 
@@ -379,11 +379,11 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 - (a) restrictions on the movement of horses into or out of the infection zone;
 - (b) that any other measure considered necessary to reduce the risk of spread of African horse sickness virus applies in respect of the whole or any part of the infection zone.
 
-### 19. Declaration of zones where African horse sickness is suspected or confirmed outside Northern Ireland[^key-dc1523e5a81ca7d9e6e262e82d0e7008]
+### 19. Declaration of zones where African horse sickness is suspected or confirmed outside Northern Ireland[^c-dc1523e5a81ca7d9e6e262e82d0e7008]
 
 (1) This regulation applies where—
 
-- (a) the presence of African horse sickness virus is suspected or officially confirmed outside Northern Ireland for the purposes of Council[^key-ac5a73c2466c1eaf7f889869d34f56f2] [Directive 92/35/EEC](https://www.legislation.gov.uk/european/directive/1992/0035) laying down rules and measures to combat African horse sickness, as last amended by Commission Regulation (EU) 2018/415
+- (a) the presence of African horse sickness virus is suspected or officially confirmed outside Northern Ireland for the purposes of Council[^c-ac5a73c2466c1eaf7f889869d34f56f2] [Directive 92/35/EEC](https://www.legislation.gov.uk/european/directive/1992/0035) laying down rules and measures to combat African horse sickness, as last amended by Commission Regulation (EU) 2018/415
 - (b) The Department considers that there is a risk of spread of African horse sickness virus to Northern Ireland.
 
 (2) The Department may declare in Northern Ireland any of the following—
@@ -398,7 +398,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 (4) Regulations 16(4) and (5), 17(5) to (7) and 18(3) apply to any zone declared under this regulation as if it were a zone declared under regulation 16, 17 or 18.
 
-### 20. Declaration of zones[^key-bd2f4a5dc1a51fde49da70c49e2f0f22]
+### 20. Declaration of zones[^c-bd2f4a5dc1a51fde49da70c49e2f0f22]
 
 (1) A declaration of a zone under these Regulations—
 
@@ -412,7 +412,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 (4) In deciding to amend or revoke any declaration of a zone, the Department shall have regard to the epidemiological situation and the measures necessary to control the spread of African horse sickness virus.
 
-### 21. Premises straddling zones[^key-51a1601ae4c48ce13d28f45578f10180]
+### 21. Premises straddling zones[^c-51a1601ae4c48ce13d28f45578f10180]
 
 (1) Premises partly inside and partly outside a temporary control zone declared under regulation 16 or 19 are treated as being inside the temporary control zone.
 
@@ -424,7 +424,7 @@ that African horse sickness virus is present in a horse or carcase at the slaugh
 
 (5) Premises partly inside and partly outside an infection zone declared under regulation 18 or 19 are treated as being inside the infection zone.
 
-### 22. Publicity[^key-b2951b8edefff56551443b5ef02faa80]
+### 22. Publicity[^c-b2951b8edefff56551443b5ef02faa80]
 
 The Department shall publicise—
 
@@ -434,11 +434,11 @@ The Department shall publicise—
 
 ## PART VII — VACCINATION
 
-### 23. Prohibition on vaccination[^key-cdf0983210366e2be33d74928bd2b59f]
+### 23. Prohibition on vaccination[^c-cdf0983210366e2be33d74928bd2b59f]
 
 No person may vaccinate a horse against African horse sickness except in accordance with these Regulations or under the authority of a licence granted by a veterinary inspector.
 
-### 24. Compulsory vaccination[^key-71518fda3523bfe474fcee8eb7296bb8]
+### 24. Compulsory vaccination[^c-71518fda3523bfe474fcee8eb7296bb8]
 
 (1) The Department may declare a vaccination zone, other than in a surveillance zone.
 
@@ -448,7 +448,7 @@ No person may vaccinate a horse against African horse sickness except in accorda
 
 (4) A veterinary inspector may serve a notice on any person in possession or charge of a horse, other than one kept in a surveillance zone, requiring that person to vaccinate the horse in accordance with the notice (whether or not a vaccination zone has been declared under paragraph (1)).
 
-### 25. Vaccinated horses[^key-d5e51ddcafbf02da2efc216e18e62cbd]
+### 25. Vaccinated horses[^c-d5e51ddcafbf02da2efc216e18e62cbd]
 
 (1) The owner of a horse that has been vaccinated against African horse sickness virus shall ensure that the horse is identified by way of a microchip and a record of such horse having been vaccinated is kept.
 
@@ -461,13 +461,13 @@ except under the authority of a licence granted by a veterinary inspector.
 
 ## PART VIII — INSPECTION, ENFORCEMENT AND MISCELLANEOUS PROVISIONS
 
-### 26. Notices[^key-417e638346209bcf112220a78df0bf8d]
+### 26. Notices[^c-417e638346209bcf112220a78df0bf8d]
 
 (1) Any notice required or permitted to be served or given to any person under these Regulations shall be in writing and may be amended, suspended or revoked in writing at any time.
 
 (2) A person shall comply with the terms of any notice served or given under these Regulations.
 
-### 27. Licences[^key-342d724edc060c521f81bd1bc6ce3725]
+### 27. Licences[^c-342d724edc060c521f81bd1bc6ce3725]
 
 (1) A licence granted under these Regulations shall be in writing and may be—
 
@@ -494,7 +494,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (5) If a horse or thing has been moved to premises under a licence, a veterinary inspector may serve a notice on the occupier of the premises of destination imposing such movement restrictions on those premises as are necessary to prevent the risk of spreading African horse sickness virus.
 
-### 28. Powers of inspectors[^key-23a56a8d0e600e427a0315b4bcae3054]
+### 28. Powers of inspectors[^c-23a56a8d0e600e427a0315b4bcae3054]
 
 (1) A lay magistrate may by signed warrant permit an inspector to enter any premises, if necessary by reasonable force, if the lay magistrate, on sworn information in writing, is satisfied—
 
@@ -535,7 +535,7 @@ except under the authority of a licence granted by a veterinary inspector.
 (7) The inspector may—
 
 - (a) take any necessary equipment, sentinel horse or vehicle on to the premises;
-- (b)[^key-b421ae66f30cb1ea776eaca989bc8f89] be accompanied by such other persons as the inspector considers necessary.
+- (b)[^c-b421ae66f30cb1ea776eaca989bc8f89] be accompanied by such other persons as the inspector considers necessary.
 
 (8) Any power or obligation to take a sample and test it includes a power to—
 
@@ -544,7 +544,7 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (9) In this regulation, a sentinel horse is a horse used for surveillance for African horse sickness virus which does not have antibodies to that virus when introduced to or retained at the premises for that purpose.
 
-### 29. Notice following a contravention on movement[^key-3af294804052c801886c70374eae6bd1]
+### 29. Notice following a contravention on movement[^c-3af294804052c801886c70374eae6bd1]
 
 (1) If a horse has been moved to any premises in contravention of any provisions of these Regulations or any licence or notice served under these Regulations, a veterinary inspector may serve a notice on the occupier of the premises requiring—
 
@@ -553,15 +553,15 @@ except under the authority of a licence granted by a veterinary inspector.
 
 (2) If a horse has been moved to other premises under such notice, a veterinary inspector may serve a notice on any occupier of those other premises imposing such movement restrictions relating to horses on those premises as the inspector considers necessary to reduce the risk of spreading African horse sickness virus.
 
-### 30. Change of occupier of premises under restriction – access for welfare purposes[^key-699bbd4ea18fe9cfd15d891cb5c2f8b1]
+### 30. Change of occupier of premises under restriction – access for welfare purposes[^c-699bbd4ea18fe9cfd15d891cb5c2f8b1]
 
 If there is a change of occupier of premises under restriction under these Regulations, the new occupier shall allow the owner of any horse on the premises or any person acting on behalf of the owner to enter the premises to feed or otherwise attend to the welfare of any horse during the period of restriction and for seven days following its end.
 
-### 31. Powers of inspectors in case of default[^key-8a4938bec6cfce49e45a60f026655dc2]
+### 31. Powers of inspectors in case of default[^c-8a4938bec6cfce49e45a60f026655dc2]
 
 If any person fails to comply with a requirement in or under these Regulations, an inspector may take such steps as that inspector considers necessary to ensure the requirement is met at the expense of that person.
 
-### 32. Obstruction[^key-801fc12abe3a543ba058fb3ae7a8d669]
+### 32. Obstruction[^c-801fc12abe3a543ba058fb3ae7a8d669]
 
 A person shall not—
 
@@ -570,7 +570,7 @@ A person shall not—
 - (c) provide to anyone acting in the execution of these Regulations any information knowing it to be false or misleading or not believing it to be true; or
 - (d) fail to produce a record when required to do so to any person acting in the execution or enforcement of these Regulations.
 
-### 33. Offences and penalties[^key-07ce3c99b5133af6ed394465e24e8612]
+### 33. Offences and penalties[^c-07ce3c99b5133af6ed394465e24e8612]
 
 (1) A person is guilty of an offence if that person fails to comply with any of the following provisions—
 
@@ -601,7 +601,7 @@ A person shall not—
 - (a) on summary conviction, to a fine not exceeding the statutory maximum or to imprisonment for a term not exceeding three months or both; or
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding six months or both.
 
-### 34. Offences by bodies corporate[^key-ec3c7db8a0500d0c57ffc5e2347f77dc]
+### 34. Offences by bodies corporate[^c-ec3c7db8a0500d0c57ffc5e2347f77dc]
 
 (1) If an offence under these Regulations committed by a body corporate is proved—
 
@@ -617,7 +617,7 @@ the officer, as well as the body corporate, is guilty of the offence and liable 
 
 (3) If the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with the member’s functions of management as it applies to an officer of a body corporate.
 
-### 35. Offences by partnerships and unincorporated associations[^key-1ca8acec09dc0d4ec3034a7ba83a57ee]
+### 35. Offences by partnerships and unincorporated associations[^c-1ca8acec09dc0d4ec3034a7ba83a57ee]
 
 (1) Proceedings for an offence under these Regulations alleged to have been committed by a partnership or an unincorporated association may be brought against the partnership or association in the name of the partnership or association.
 
@@ -649,14 +649,14 @@ the officer, as well as the association, is guilty of the offence and is liable 
 - (a) an officer of the association or a member of its governing body; or
 - (b) a person purporting to act in such capacity.
 
-### 36. Exceptional circumstances[^key-06aa8706f32a7af455b2874f65245ed4]
+### 36. Exceptional circumstances[^c-06aa8706f32a7af455b2874f65245ed4]
 
 The Department may for the purpose of ensuring the health or welfare of any horse—
 
 - (a) license a person to carry out any action that is otherwise prohibited under these Regulations; or
 - (b) exempt a person, by notice, from any requirement under these Regulations.
 
-### 37. Amendment[^key-24edcb705a958df43c40d5a9e70301cc]
+### 37. Amendment[^c-24edcb705a958df43c40d5a9e70301cc]
 
 In the Specified Diseases (Notification) Order (Northern Ireland) 2004[^f00016], in the Schedule (Specified Diseases) omit item 1 and the reference to “African horse sickness”.
 
@@ -670,7 +670,7 @@ A senior officer of the Department of Agriculture and Rural Development
 
 Regulations 8(2), 9(9), 10(8) and 17(5)
 
-### 1. Records[^key-d679f229f94a884004fb1ece988328b7]
+### 1. Records[^c-d679f229f94a884004fb1ece988328b7]
 
 (1) The occupier shall keep a record of every horse on the premises.
 
@@ -690,18 +690,18 @@ Regulations 8(2), 9(9), 10(8) and 17(5)
 
 whichever is the later.
 
-### 2. Housing of horses[^key-02203305da5390f390c9e0cb494373ac]
+### 2. Housing of horses[^c-02203305da5390f390c9e0cb494373ac]
 
 The occupier shall ensure that every horse on the premises is kept—
 
 - (a) so far as is practicable on the part or parts of the premises where it is likely to be less exposed to vectors; or
 - (b) as directed by a veterinary inspector.
 
-### 3. Restriction on movement of horses, carcases or things[^key-20952f6e58d9dea8bb3af149aa2a043e]
+### 3. Restriction on movement of horses, carcases or things[^c-20952f6e58d9dea8bb3af149aa2a043e]
 
 A person shall not move any horse, carcase or thing to or from the premises, except under the authority of a licence issued by a veterinary inspector or an officer of the Department acting under the direction of a veterinary inspector.
 
-### 4. Control of vectors[^key-98f19fcd7dcb7ab5b9aa65ec34fa2812]
+### 4. Control of vectors[^c-98f19fcd7dcb7ab5b9aa65ec34fa2812]
 
 The occupier shall implement such practicable vector control measures as the veterinary inspector may require.
 
@@ -709,7 +709,7 @@ The occupier shall implement such practicable vector control measures as the vet
 
 Regulation 17(5)
 
-### 1. Movement out of a protection zone[^key-f09fac08b5c92fa6a7e5044e3e7d69d3]
+### 1. Movement out of a protection zone[^c-f09fac08b5c92fa6a7e5044e3e7d69d3]
 
 No person may move any horse, or any semen, ovum or embryo of a horse—
 
@@ -718,7 +718,7 @@ No person may move any horse, or any semen, ovum or embryo of a horse—
 
 except under the authority of a licence granted by a veterinary inspector.
 
-### 2. Movement from premises within a protection zone[^key-02eddf9e9edcd59b96f6a9740608e1a4]
+### 2. Movement from premises within a protection zone[^c-02eddf9e9edcd59b96f6a9740608e1a4]
 
 No person may move from premises within a protection zone or a surveillance zone—
 
@@ -755,120 +755,120 @@ Breach of the Regulations is an offence punishable, on summary conviction, with 
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), section 27(1)(a) and the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7), section 3(3) and Part I of the Schedule.
 
-[^key-21cd982234d041e9ee919ebe59c873cc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-21cd982234d041e9ee919ebe59c873cc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-37c3916f739120ec19f82a2d483c6bf6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2013/244/regulation/2) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-37c3916f739120ec19f82a2d483c6bf6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2013/244/regulation/2) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I.2)](https://www.legislation.gov.uk/nisi/1984/702) Article 17, [S.I. 1994/1891 (N.I.6)](https://www.legislation.gov.uk/nisi/1994/1891) Articles 20 and 23, [S.R. 1994 No. 11](https://www.legislation.gov.uk/nisr/1994/11), [S.R. 2004 No. 362](https://www.legislation.gov.uk/nisr/2004/362) and [S.R. 2006 No. 41](https://www.legislation.gov.uk/nisr/2006/41) and the Diseases of Animals Act (N.I.) [2010 c. 1](https://www.legislation.gov.uk/nia/2010/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-1ac69989fbfc8b9783c9d33db4022270]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/244/regulation/3) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-1ac69989fbfc8b9783c9d33db4022270]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2013/244/regulation/3) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-c710c38fcbc2d34ffc8ad5acaa127ca9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/244/regulation/4) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-c710c38fcbc2d34ffc8ad5acaa127ca9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2013/244/regulation/4) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2008 No. 336](https://www.legislation.gov.uk/nisr/2008/336), as amended by [S.R. 2010 No. 24](https://www.legislation.gov.uk/nisr/2010/24)
 
-[^key-639d825d8bfed3bc4573b17a5153e66a]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/nisr/2013/244/regulation/4/b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [22](https://www.legislation.gov.uk/nisr/2019/227/regulation/22)
+[^c-639d825d8bfed3bc4573b17a5153e66a]: Textual amendment: Words in [reg. 4(b)](https://www.legislation.gov.uk/nisr/2013/244/regulation/4/b) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food) Regulations (Northern Ireland) 2019 (S.R. 2019/227)](https://www.legislation.gov.uk/nisr/2019/227), [regs. 1](https://www.legislation.gov.uk/nisr/2019/227/regulation/1), [22](https://www.legislation.gov.uk/nisr/2019/227/regulation/22)
 
 [^f00006]: Footnote: [S.R. 2011 No. 438](https://www.legislation.gov.uk/nisr/2011/438)
 
-[^key-7f4d7f0ab3db8d4a5387843d73eed782]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/244/regulation/5) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-7f4d7f0ab3db8d4a5387843d73eed782]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2013/244/regulation/5) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-c580e5c1688f87b346a3452fc9480669]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/244/regulation/6) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-c580e5c1688f87b346a3452fc9480669]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2013/244/regulation/6) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-e897480cd0960d862eb9b4b29c5c275c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2013/244/regulation/7) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-e897480cd0960d862eb9b4b29c5c275c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2013/244/regulation/7) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
 [^f00007]: Footnote: At which point other measures have effect: see regulation 8(2).
 
-[^key-1987791afe207c8c6b9389c33ed1c464]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2013/244/regulation/8) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-1987791afe207c8c6b9389c33ed1c464]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2013/244/regulation/8) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
 [^f00008]: Footnote: See also the power of the Department under regulation 16 to declare a temporary control zone.
 
-[^key-33b29a02c6122a47ae9df45db584f599]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2013/244/regulation/9) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-33b29a02c6122a47ae9df45db584f599]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2013/244/regulation/9) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
 [^f00009]: Footnote: See also the power of the Department under regulation 17 to declare a control zone, protection zone and surveillance zone.
 
-[^key-8bd6ed2b30245631978d1ba2de072a36]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2013/244/regulation/10) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-8bd6ed2b30245631978d1ba2de072a36]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2013/244/regulation/10) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
 [^f00010]: Footnote: See also the power of the Department under regulation 17 to declare a control zone, protection zone and surveillance zone.
 
-[^key-17a2303bd9f6e622bd95f3ccd389a351]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2013/244/regulation/11) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-17a2303bd9f6e622bd95f3ccd389a351]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2013/244/regulation/11) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-706ba2315ab60e7a1333d4e857431eb9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2013/244/regulation/12) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-706ba2315ab60e7a1333d4e857431eb9]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2013/244/regulation/12) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-be1fb95d77e75d8cd3df7141c99000eb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2013/244/regulation/13) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-be1fb95d77e75d8cd3df7141c99000eb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2013/244/regulation/13) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-766aa498629d2767c6d3eaf604174f7d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2013/244/regulation/14) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-766aa498629d2767c6d3eaf604174f7d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2013/244/regulation/14) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
 [^f00011]: Footnote: See also the power of the Department under regulation 16 to declare a temporary control zone.
 
 [^f00012]: Footnote: See also the power of the Department under regulation 17 to declare a control zone, protection zone and surveillance zone.
 
-[^key-ca5ffb65aa2676d2fb0a132f80e452bc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2013/244/regulation/15) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-ca5ffb65aa2676d2fb0a132f80e452bc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2013/244/regulation/15) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-36d46cfefb6879c70db698079f5cb5b4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2013/244/regulation/16) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-36d46cfefb6879c70db698079f5cb5b4]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2013/244/regulation/16) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-78ad5c801a8c95c2648afa0cef693562]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2013/244/regulation/17) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-78ad5c801a8c95c2648afa0cef693562]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2013/244/regulation/17) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-ad5054c80b34980b5f9bbcf505c00984]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2013/244/regulation/18) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-ad5054c80b34980b5f9bbcf505c00984]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2013/244/regulation/18) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-dc1523e5a81ca7d9e6e262e82d0e7008]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2013/244/regulation/19) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-dc1523e5a81ca7d9e6e262e82d0e7008]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2013/244/regulation/19) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-ac5a73c2466c1eaf7f889869d34f56f2]: Textual amendment: Words in [reg. 19(1)(a)](https://www.legislation.gov.uk/nisr/2013/244/regulation/19/1/a) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 35](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/35)
+[^c-ac5a73c2466c1eaf7f889869d34f56f2]: Textual amendment: Words in [reg. 19(1)(a)](https://www.legislation.gov.uk/nisr/2013/244/regulation/19/1/a) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 3 para. 35](https://www.legislation.gov.uk/nisr/2019/82/schedule/3/paragraph/35)
 
-[^key-bd2f4a5dc1a51fde49da70c49e2f0f22]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2013/244/regulation/20) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-bd2f4a5dc1a51fde49da70c49e2f0f22]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2013/244/regulation/20) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-51a1601ae4c48ce13d28f45578f10180]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2013/244/regulation/21) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-51a1601ae4c48ce13d28f45578f10180]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2013/244/regulation/21) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-b2951b8edefff56551443b5ef02faa80]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2013/244/regulation/22) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-b2951b8edefff56551443b5ef02faa80]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2013/244/regulation/22) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-cdf0983210366e2be33d74928bd2b59f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2013/244/regulation/23) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-cdf0983210366e2be33d74928bd2b59f]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2013/244/regulation/23) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-71518fda3523bfe474fcee8eb7296bb8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2013/244/regulation/24) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-71518fda3523bfe474fcee8eb7296bb8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2013/244/regulation/24) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-d5e51ddcafbf02da2efc216e18e62cbd]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2013/244/regulation/25) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-d5e51ddcafbf02da2efc216e18e62cbd]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2013/244/regulation/25) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-417e638346209bcf112220a78df0bf8d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2013/244/regulation/26) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-417e638346209bcf112220a78df0bf8d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2013/244/regulation/26) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-342d724edc060c521f81bd1bc6ce3725]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2013/244/regulation/27) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-342d724edc060c521f81bd1bc6ce3725]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2013/244/regulation/27) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-23a56a8d0e600e427a0315b4bcae3054]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2013/244/regulation/28) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-23a56a8d0e600e427a0315b4bcae3054]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2013/244/regulation/28) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-b421ae66f30cb1ea776eaca989bc8f89]: Textual amendment: [Reg. 28(7)(b)](https://www.legislation.gov.uk/nisr/2013/244/regulation/28/7/b) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2019/111/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b421ae66f30cb1ea776eaca989bc8f89]: Textual amendment: [Reg. 28(7)(b)](https://www.legislation.gov.uk/nisr/2013/244/regulation/28/7/b) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2019/111/regulation/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3af294804052c801886c70374eae6bd1]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2013/244/regulation/29) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-3af294804052c801886c70374eae6bd1]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2013/244/regulation/29) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-699bbd4ea18fe9cfd15d891cb5c2f8b1]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2013/244/regulation/30) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-699bbd4ea18fe9cfd15d891cb5c2f8b1]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2013/244/regulation/30) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-8a4938bec6cfce49e45a60f026655dc2]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2013/244/regulation/31) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-8a4938bec6cfce49e45a60f026655dc2]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2013/244/regulation/31) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-801fc12abe3a543ba058fb3ae7a8d669]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2013/244/regulation/32) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-801fc12abe3a543ba058fb3ae7a8d669]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2013/244/regulation/32) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-07ce3c99b5133af6ed394465e24e8612]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2013/244/regulation/33) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-07ce3c99b5133af6ed394465e24e8612]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2013/244/regulation/33) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-ec3c7db8a0500d0c57ffc5e2347f77dc]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2013/244/regulation/34) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-ec3c7db8a0500d0c57ffc5e2347f77dc]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2013/244/regulation/34) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-1ca8acec09dc0d4ec3034a7ba83a57ee]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2013/244/regulation/35) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-1ca8acec09dc0d4ec3034a7ba83a57ee]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2013/244/regulation/35) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
 [^f00014]: Footnote: [1945 c. 15 (N.I.)](https://www.legislation.gov.uk/apni/1945/15); section 18 was amended by the Magistrates’ Courts Act (Northern Ireland) [1964 (c. 21)](https://www.legislation.gov.uk/apni/1964/21) and by the Justice (Northern Ireland) Act [2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), Schedule 12
 
 [^f00015]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675) (as amended)
 
-[^key-06aa8706f32a7af455b2874f65245ed4]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2013/244/regulation/36) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-06aa8706f32a7af455b2874f65245ed4]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2013/244/regulation/36) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-24edcb705a958df43c40d5a9e70301cc]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2013/244/regulation/37) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-24edcb705a958df43c40d5a9e70301cc]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2013/244/regulation/37) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
 [^f00016]: Footnote: [S.R. 2004 No. 248](https://www.legislation.gov.uk/nisr/2004/248)
 
-[^key-d679f229f94a884004fb1ece988328b7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2013/244/schedule/1/paragraph/1) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-d679f229f94a884004fb1ece988328b7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2013/244/schedule/1/paragraph/1) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-02203305da5390f390c9e0cb494373ac]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2013/244/schedule/1/paragraph/2) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-02203305da5390f390c9e0cb494373ac]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2013/244/schedule/1/paragraph/2) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-20952f6e58d9dea8bb3af149aa2a043e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2013/244/schedule/1/paragraph/3) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-20952f6e58d9dea8bb3af149aa2a043e]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2013/244/schedule/1/paragraph/3) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-98f19fcd7dcb7ab5b9aa65ec34fa2812]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2013/244/schedule/1/paragraph/4) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-98f19fcd7dcb7ab5b9aa65ec34fa2812]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2013/244/schedule/1/paragraph/4) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-f09fac08b5c92fa6a7e5044e3e7d69d3]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2013/244/schedule/2/paragraph/1) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-f09fac08b5c92fa6a7e5044e3e7d69d3]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2013/244/schedule/2/paragraph/1) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
 
-[^key-02eddf9e9edcd59b96f6a9740608e1a4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2013/244/schedule/2/paragraph/2) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)
+[^c-02eddf9e9edcd59b96f6a9740608e1a4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2013/244/schedule/2/paragraph/2) in operation at 18.11.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/244/regulation/1)

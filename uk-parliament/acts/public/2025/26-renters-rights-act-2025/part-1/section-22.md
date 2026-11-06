@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Limitation on obligation to pay removal expenses[^key-4a8d898b87125e20698f19682481baf6][^key-55fbcdd85f4a8361cb81d99d8bd39af7]
+## 22. Limitation on obligation to pay removal expenses[^c-4a8d898b87125e20698f19682481baf6][^c-55fbcdd85f4a8361cb81d99d8bd39af7]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a8d898b87125e20698f19682481baf6]: Commencement: S. 22 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-4a8d898b87125e20698f19682481baf6]: Commencement: S. 22 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-55fbcdd85f4a8361cb81d99d8bd39af7]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/26/section/22) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-55fbcdd85f4a8361cb81d99d8bd39af7]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/26/section/22) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

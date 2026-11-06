@@ -45,25 +45,25 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred on them by sections 74(1) and 75(1) of the Curriculum and Assessment (Wales) Act 2021[^f00001] make the following Regulations:
 
-## 1. Title and commencement[^key-21a23628f8c7fb836ae35e9feca7ad4a]
+## 1. Title and commencement[^c-21a23628f8c7fb836ae35e9feca7ad4a]
 
 (1) The title of these Regulations is the Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022.
 
 (2) These Regulations come into force on 8 March 2022.
 
-## 2. Interpretation[^key-8e314ae448ec2b854513aeadea480835]
+## 2. Interpretation[^c-8e314ae448ec2b854513aeadea480835]
 
 (1) In these Regulations—
 
 - “**the 2021 Act**” (“***Deddf 2021***”) means the Curriculum and Assessment (Wales) Act 2021;
-- “**child**” (“***plentyn***”) has the meaning given to it in section 579(1) of the Education Act 1996[^key-b7e92fe00829e79a848482d08eccd8f7];
+- “**child**” (“***plentyn***”) has the meaning given to it in section 579(1) of the Education Act 1996[^c-b7e92fe00829e79a848482d08eccd8f7];
 - “**pupil**” (“***disgybl***”) has the meaning given to it in section 3 of the Education Act 1996[^f00002].
 
 (2) References in these Regulations to “the old law” are to the provisions amended or repealed by Schedule 2 to the 2021 Act as they had effect immediately before Schedule 2 to the 2021 Act came into force.
 
 (3) References in these Regulations to a child or pupil provided with education “under the old curriculum” are to those children and pupils to whom Part 2, 3 or 5 of the 2021 Act applies, but in relation to whom the relevant Part of that Act has not yet come into force.
 
-## 3. Saving and transitional provision[^key-9fa3b4895a4f5930ee7d50e62103b6f0]
+## 3. Saving and transitional provision[^c-9fa3b4895a4f5930ee7d50e62103b6f0]
 
 (1) Despite the commencement of section 73 of, and Schedule 2 to, the 2021 Act, the old law continues to have effect—
 
@@ -111,12 +111,12 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2021 asc 4](https://www.legislation.gov.uk/asc/2021/4). See section 82(1) of the 2021 Act for the definition of “regulations”.
 
-[^key-21a23628f8c7fb836ae35e9feca7ad4a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/111/regulation/1) in force at 8.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/111/regulation/1/2)
+[^c-21a23628f8c7fb836ae35e9feca7ad4a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/111/regulation/1) in force at 8.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/111/regulation/1/2)
 
-[^key-8e314ae448ec2b854513aeadea480835]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/111/regulation/2) in force at 8.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/111/regulation/1/2)
+[^c-8e314ae448ec2b854513aeadea480835]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/111/regulation/2) in force at 8.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/111/regulation/1/2)
 
-[^key-b7e92fe00829e79a848482d08eccd8f7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2022/111/regulation/2/1) substituted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [20](https://www.legislation.gov.uk/wsi/2022/758/regulation/20)
+[^c-b7e92fe00829e79a848482d08eccd8f7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2022/111/regulation/2/1) substituted (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 3) Regulations 2022 (S.I. 2022/758)](https://www.legislation.gov.uk/wsi/2022/758), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/758/regulation/1/2), [20](https://www.legislation.gov.uk/wsi/2022/758/regulation/20)
 
 [^f00002]: Footnote: Subsection (1) was amended by section 57(1) and paragraph 9 of Schedule 7 to the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44) and subsection (1) and (1A) were further amended by section 215(1) and paragraph 34 of Schedule 21 to the Education Act [2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-9fa3b4895a4f5930ee7d50e62103b6f0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/111/regulation/3) in force at 8.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/111/regulation/1/2)
+[^c-9fa3b4895a4f5930ee7d50e62103b6f0]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2022/111/regulation/3) in force at 8.3.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/111/regulation/1/2)

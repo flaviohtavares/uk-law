@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Contraventions subject to civil enforcement[^key-0144682dbc85ea08e39520799c536dd5][^key-ba73a09f150ada7b7d2dde6c9a1723e5]
+## 73. Contraventions subject to civil enforcement[^c-0144682dbc85ea08e39520799c536dd5][^c-ba73a09f150ada7b7d2dde6c9a1723e5]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0144682dbc85ea08e39520799c536dd5]: Commencement: S. 73 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
+[^c-0144682dbc85ea08e39520799c536dd5]: Commencement: S. 73 in force at 26.10.2006 for W. by [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(1)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/1)[(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c)
 
-[^key-ba73a09f150ada7b7d2dde6c9a1723e5]: Commencement: S. 73 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(b)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)
+[^c-ba73a09f150ada7b7d2dde6c9a1723e5]: Commencement: S. 73 in force at 23.7.2007 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [2(1)(2)(b)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2053/article/4)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), art. 3)

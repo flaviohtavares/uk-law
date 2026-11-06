@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.1. When this Part applies[^key-a9f5642611564f0f7c774d90a242ec50]
+## 12.1. When this Part applies[^c-a9f5642611564f0f7c774d90a242ec50]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a9f5642611564f0f7c774d90a242ec50]: Commencement: [Rule 12.1](https://www.legislation.gov.uk/uksi/2025/909/rule/12.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a9f5642611564f0f7c774d90a242ec50]: Commencement: [Rule 12.1](https://www.legislation.gov.uk/uksi/2025/909/rule/12.1) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00313]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 23 was amended by section 119 of, and paragraph 63 of Schedule 8 to, the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37), paragraph 290 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and paragraph 57 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

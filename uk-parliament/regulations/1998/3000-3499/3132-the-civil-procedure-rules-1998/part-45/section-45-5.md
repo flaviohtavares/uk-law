@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.5. Entitlement to costs – more than one claimant[^key-8ed78e3eff468fc080a342c5659897de]
+## 45.5. Entitlement to costs – more than one claimant[^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
@@ -49,22 +49,22 @@ each claimant is entitled to the costs of their own claim in accordance with the
 - (a) means—
   - (i) the applicable costs payable to the claimant in respect of whom the damages of highest value are agreed or awarded; or
   - (ii) where paragraph (i) would apply to two or more claimants, the applicable costs payable to whichever one of those claimants their legal representative chooses;
-- (b) does not include any additional costs[^key-b54fa639da567615211e3c96a149ebd1] under rule 36.24 or increased costs under rule 45.13(2)[^key-fb659c3c4ddc1274ef074dbb6e4e388a]; but
+- (b) does not include any additional costs[^c-b54fa639da567615211e3c96a149ebd1] under rule 36.24 or increased costs under rule 45.13(2)[^c-fb659c3c4ddc1274ef074dbb6e4e388a]; but
 - (c) may include the relevant trial advocacy fees if applicable; and
 - (d) excludes any disbursements.
 
 (7) In addition to the allowable costs under paragraph (4), those claimants who meet the criteria are entitled to London weighting.
 
-(8) Where one or more of the claimants referred to in paragraph (4) is entitled to either[^key-bc9305d91d873c4f3e69ffdc91d20e4c] additional costs under rule 36.24(5) or increased costs under rule 45.13(2), or to both,[^key-306e1054ec748a2ba4c079ee12a54952] the percentage increases for which those rules provide must be calculated by applying the relevant percentage to such proportion of the amount referred to in paragraph (4)(b) as reflects the proportion which each claimant so entitled bears to the total number of claimants to which paragraph (4) applies.
+(8) Where one or more of the claimants referred to in paragraph (4) is entitled to either[^c-bc9305d91d873c4f3e69ffdc91d20e4c] additional costs under rule 36.24(5) or increased costs under rule 45.13(2), or to both,[^c-306e1054ec748a2ba4c079ee12a54952] the percentage increases for which those rules provide must be calculated by applying the relevant percentage to such proportion of the amount referred to in paragraph (4)(b) as reflects the proportion which each claimant so entitled bears to the total number of claimants to which paragraph (4) applies.
 
 ## Annotations
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-b54fa639da567615211e3c96a149ebd1]: Textual amendment: Word in rule 45.5(6)(b) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/3/a/i)
+[^c-b54fa639da567615211e3c96a149ebd1]: Textual amendment: Word in rule 45.5(6)(b) substituted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/3/a/i)
 
-[^key-fb659c3c4ddc1274ef074dbb6e4e388a]: Textual amendment: Words in rule 45.5(6)(b) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/3/a/ii)
+[^c-fb659c3c4ddc1274ef074dbb6e4e388a]: Textual amendment: Words in rule 45.5(6)(b) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/3/a/ii)
 
-[^key-bc9305d91d873c4f3e69ffdc91d20e4c]: Textual amendment: Word in rule 45.5(8) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/3/b/i)
+[^c-bc9305d91d873c4f3e69ffdc91d20e4c]: Textual amendment: Word in rule 45.5(8) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/3/b/i)
 
-[^key-306e1054ec748a2ba4c079ee12a54952]: Textual amendment: Words in rule 45.5(8) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/3/b/ii)
+[^c-306e1054ec748a2ba4c079ee12a54952]: Textual amendment: Words in rule 45.5(8) inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/3/b/ii)

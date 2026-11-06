@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Warrant to enter and take steps[^key-56c05810db2a62c110ffdc1bc4f5376e]
+## 78. Warrant to enter and take steps[^c-56c05810db2a62c110ffdc1bc4f5376e]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56c05810db2a62c110ffdc1bc4f5376e]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2008/5/section/78) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-56c05810db2a62c110ffdc1bc4f5376e]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2008/5/section/78) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

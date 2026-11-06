@@ -49,12 +49,12 @@ Regulation 59
 
 **5.** A record of the following events that occur in the service—
 
-- (a) any serious accident or injury[^key-8914ccd6a9868b08026ecc11021383eb] which is significantly detrimental to the well-being of an individual;
+- (a) any serious accident or injury[^c-8914ccd6a9868b08026ecc11021383eb] which is significantly detrimental to the well-being of an individual;
 - (b) the outbreak of infectious disease in the service;
 - (c) any theft or burglary;
 - (d) any safeguarding referral made in respect of an individual;
 - (e) falls and consequent treatment provided to an individual;
-- (f) incidence of pressure damage[^key-43eb8a8bb3751e36c2eee68b0b71b8ea] and of consequent treatment provided to an individual;
+- (f) incidence of pressure damage[^c-43eb8a8bb3751e36c2eee68b0b71b8ea] and of consequent treatment provided to an individual;
 - (g) date and circumstances of any measures of control, restraint or discipline used on an individual.
 
 **6.** A record of every fire practice, drill or test of fire equipment (including fire alarm equipment) conducted in the service and of any action taken to remedy defects in the fire equipment.
@@ -87,6 +87,6 @@ Regulation 59
 
 ## Annotations
 
-[^key-8914ccd6a9868b08026ecc11021383eb]: Textual amendment: Words in Sch. 2 para. 5(a) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [16(a)](https://www.legislation.gov.uk/wsi/2019/757/regulation/16/a)
+[^c-8914ccd6a9868b08026ecc11021383eb]: Textual amendment: Words in Sch. 2 para. 5(a) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [16(a)](https://www.legislation.gov.uk/wsi/2019/757/regulation/16/a)
 
-[^key-43eb8a8bb3751e36c2eee68b0b71b8ea]: Textual amendment: Word in Sch. 2 para. 5(f) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [16(b)](https://www.legislation.gov.uk/wsi/2019/757/regulation/16/b)
+[^c-43eb8a8bb3751e36c2eee68b0b71b8ea]: Textual amendment: Word in Sch. 2 para. 5(f) substituted (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [16(b)](https://www.legislation.gov.uk/wsi/2019/757/regulation/16/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 98. Earnings of employed earners[^key-dff64ca360e236e1926ca525a3eeded1]
+## 98. Earnings of employed earners[^c-dff64ca360e236e1926ca525a3eeded1]
 
 *Extent: N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dff64ca360e236e1926ca525a3eeded1]: Commencement: Reg. 98 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-dff64ca360e236e1926ca525a3eeded1]: Commencement: Reg. 98 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00091]: Footnote: [S.I. 1976/1043 (N.I. 16)](https://www.legislation.gov.uk/nisi/1976/1043); Article 32(2)(a) and (5) was amended by paragraph 4(5) of Schedule 3 to the Industrial Relations (Northern Ireland) Order 1987 ([S.I. 1987/936 (N.I. 9)](https://www.legislation.gov.uk/nisi/1987/936)). Articles 39 and 41 were substituted by Schedule 3 to the Industrial Relations (Northern Ireland) Order 1993 ([S.I. 1993/2668 (N.I. 11)](https://www.legislation.gov.uk/nisi/1993/2668))
 

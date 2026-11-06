@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Money laundering and terrorist financing[^key-3c871998d70f368e080856c692043d1d]
+## 30. Money laundering and terrorist financing[^c-3c871998d70f368e080856c692043d1d]
 
 *Extent: E+W+S+N.I.*
 
 **Not yet in force.**
 
-(1)[^key-dc44f58c527d9b02643a73211ca2d426] In any regulations or orders transposing money laundering measures contained within [Directive (EU) 2015/849](https://www.legislation.gov.uk/european/directive/2015/0849) of the European Parliament and of the Council of 20 May 2015 (or in relation to any subsequent EU amending or successor measure) the Treasury[^key-be7a329787391d9f827ef3312d96a9b7] shall have a duty to ensure, insofar as such regulations or orders relate to institutions regulated by the Financial Conduct Authority—
+(1)[^c-dc44f58c527d9b02643a73211ca2d426] In any regulations or orders transposing money laundering measures contained within [Directive (EU) 2015/849](https://www.legislation.gov.uk/european/directive/2015/0849) of the European Parliament and of the Council of 20 May 2015 (or in relation to any subsequent EU amending or successor measure) the Treasury[^c-be7a329787391d9f827ef3312d96a9b7] shall have a duty to ensure, insofar as such regulations or orders relate to institutions regulated by the Financial Conduct Authority—
 
 - (a) reasonable regard and due prominence is given to—
   - (i) recital 33,
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3c871998d70f368e080856c692043d1d]: Textual amendment: Words in s. 30 heading inserted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 11(b)(i)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/11/b/i) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-3c871998d70f368e080856c692043d1d]: Textual amendment: Words in s. 30 heading inserted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 11(b)(i)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/11/b/i) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
-[^key-dc44f58c527d9b02643a73211ca2d426]: Modification: S. 30(1) excluded (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [36(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/36/1) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-dc44f58c527d9b02643a73211ca2d426]: Modification: S. 30(1) excluded (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [36(1)](https://www.legislation.gov.uk/uksi/2017/692/regulation/36/1) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
-[^key-be7a329787391d9f827ef3312d96a9b7]: Textual amendment: Word in s. 30(1) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 11(b)(ii)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/11/b/ii) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-be7a329787391d9f827ef3312d96a9b7]: Textual amendment: Word in s. 30(1) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 11(b)(ii)](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/11/b/ii) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))

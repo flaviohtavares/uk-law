@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Application to members etc of bodies[^key-dd36ce7b7e7595d39484665e9ec88638][^key-ec789d09f26f3d7ee7791ddecbc6d63c]
+## 52. Application to members etc of bodies[^c-dd36ce7b7e7595d39484665e9ec88638][^c-ec789d09f26f3d7ee7791ddecbc6d63c]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd36ce7b7e7595d39484665e9ec88638]: Commencement: S. 52 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-dd36ce7b7e7595d39484665e9ec88638]: Commencement: S. 52 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-ec789d09f26f3d7ee7791ddecbc6d63c]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/28/section/52) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-ec789d09f26f3d7ee7791ddecbc6d63c]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/28/section/52) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

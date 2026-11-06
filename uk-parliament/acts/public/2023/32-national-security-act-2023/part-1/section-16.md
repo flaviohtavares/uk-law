@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Foreign interference in elections[^key-a315efada41cc9288fb35ad6664d56a8][^key-094113dc3ca71de03cd26db5056f6434]
+## 16. Foreign interference in elections[^c-a315efada41cc9288fb35ad6664d56a8][^c-094113dc3ca71de03cd26db5056f6434]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where—
 
 - (a) a person commits a relevant electoral offence on or after the day on which this section comes into force, and
-- (b) the foreign power condition or the designated body condition[^key-57286fb2a9d0f839f1db580967d09ed8] is met in relation to the conduct of the person which constitutes the offence (see sections 31 and 33B[^key-1af55c4cdf058e9869ad0abd286e266b]).
+- (b) the foreign power condition or the designated body condition[^c-57286fb2a9d0f839f1db580967d09ed8] is met in relation to the conduct of the person which constitutes the offence (see sections 31 and 33B[^c-1af55c4cdf058e9869ad0abd286e266b]).
 
 (2) A “relevant electoral offence” is an offence listed in column 1 of the table in Part 1 of Schedule 1 (“the table”).
 
@@ -37,10 +37,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a315efada41cc9288fb35ad6664d56a8]: Commencement: S. 16 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-a315efada41cc9288fb35ad6664d56a8]: Commencement: S. 16 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-094113dc3ca71de03cd26db5056f6434]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/32/section/16) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-094113dc3ca71de03cd26db5056f6434]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/32/section/16) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
 
-[^key-57286fb2a9d0f839f1db580967d09ed8]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/16/1/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 19(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/19/a)
+[^c-57286fb2a9d0f839f1db580967d09ed8]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/16/1/b) inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 19(a)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/19/a)
 
-[^key-1af55c4cdf058e9869ad0abd286e266b]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/16/1/b) substituted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 19(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/19/b)
+[^c-1af55c4cdf058e9869ad0abd286e266b]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/ukpga/2023/32/section/16/1/b) substituted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1), [Sch. para. 19(b)](https://www.legislation.gov.uk/ukpga/2026/24/schedule/paragraph/19/b)

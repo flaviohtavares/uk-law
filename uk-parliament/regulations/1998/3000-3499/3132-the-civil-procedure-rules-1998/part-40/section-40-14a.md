@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40.14A. County Court certificate of judgment[^key-6bb064fbd254235aa0e493a227c9bf8a]
+## 40.14A. County Court certificate of judgment[^c-6bb064fbd254235aa0e493a227c9bf8a]
 
 *Extent: E+W*
 
@@ -45,10 +45,10 @@ summary: ''
 
 (6) Without prejudice to paragraph (5), for the purposes of section 12(2) of the County Courts Act 1984 a certificate under this rule may be signed by a court officer.
 
-(Rule 83.19 provides for what happens where a request for a certificate of judgment is made under this rule for the purpose of enforcing a judgment or order in the High Court, including (under rule 83.19(4)) that where certain proceedings are pending, the request for the certificate will not be dealt with until those proceedings are determined.)[^key-1a345e3e2100511c16de861e6e7a4e56]
+(Rule 83.19 provides for what happens where a request for a certificate of judgment is made under this rule for the purpose of enforcing a judgment or order in the High Court, including (under rule 83.19(4)) that where certain proceedings are pending, the request for the certificate will not be dealt with until those proceedings are determined.)[^c-1a345e3e2100511c16de861e6e7a4e56]
 
 ## Annotations
 
-[^key-6bb064fbd254235aa0e493a227c9bf8a]: Textual amendment: Rules 40.14A, 40.14B inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [16(e)](https://www.legislation.gov.uk/uksi/2014/407/rule/16/e) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
+[^c-6bb064fbd254235aa0e493a227c9bf8a]: Textual amendment: Rules 40.14A, 40.14B inserted (6.4.2014) by [The Civil Procedure (Amendment) Rules 2014 (S.I. 2014/407)](https://www.legislation.gov.uk/uksi/2014/407), [rules 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3), [16(e)](https://www.legislation.gov.uk/uksi/2014/407/rule/16/e) (with [rule 41](https://www.legislation.gov.uk/uksi/2014/407/rule/41))
 
-[^key-1a345e3e2100511c16de861e6e7a4e56]: Textual amendment: Words in [rule 40.14A](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.14A) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2021/117/rule/10)
+[^c-1a345e3e2100511c16de861e6e7a4e56]: Textual amendment: Words in [rule 40.14A](https://www.legislation.gov.uk/uksi/1998/3132/rule/40.14A) inserted (6.4.2021) by [The Civil Procedure (Amendment) Rules 2021 (S.I. 2021/117)](https://www.legislation.gov.uk/uksi/2021/117), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/117/rule/1/1), [10](https://www.legislation.gov.uk/uksi/2021/117/rule/10)

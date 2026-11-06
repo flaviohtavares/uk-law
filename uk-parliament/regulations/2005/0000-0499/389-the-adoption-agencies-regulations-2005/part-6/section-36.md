@@ -58,8 +58,8 @@ in relation to such of the matters set out in paragraph (6) as the agency consid
 - (a) whether the adoption agency remains satisfied that the child should be placed for adoption;
 - (b) the child's needs, welfare and development, and whether any changes need to be made to meet his needs or assist his development;
 - (c) the existing arrangements for contact, and whether they should continue or be altered;
-- (d) [^key-0dd33cc00b7efc1ed33e101169cf8287]..., the arrangements in relation to the exercise of parental responsibility for the child, and whether they should continue or be altered;
-- (e) where the child is placed for adoption[^key-cde04ecb56d7a535206c90e8fd5f59dc], the arrangements for the provision of adoption support services for the adoptive family and whether there should be any re-assessment of the need for those services;
+- (d) [^c-0dd33cc00b7efc1ed33e101169cf8287]..., the arrangements in relation to the exercise of parental responsibility for the child, and whether they should continue or be altered;
+- (e) where the child is placed for adoption[^c-cde04ecb56d7a535206c90e8fd5f59dc], the arrangements for the provision of adoption support services for the adoptive family and whether there should be any re-assessment of the need for those services;
 - (f) in consultation with the appropriate agencies, the arrangements for assessing and meeting the child's health care and educational needs;
 - (g) subject to paragraphs (1) and (3), the frequency of the reviews.
 
@@ -74,7 +74,7 @@ in relation to such of the matters set out in paragraph (6) as the agency consid
 - (b) the prospective adopter; and
 - (c) any other person whom the agency considers relevant,
 
-of [^key-edead146180ebd21ed90a9f0fb49fbe7]... any decision taken by the agency in consequence of that review.
+of [^c-edead146180ebd21ed90a9f0fb49fbe7]... any decision taken by the agency in consequence of that review.
 
 (9) The adoption agency must ensure that—
 
@@ -88,8 +88,8 @@ are recorded in writing and placed on the child's case record.
 
 ## Annotations
 
-[^key-0dd33cc00b7efc1ed33e101169cf8287]: Textual amendment: Words in reg. 36(6)(d) omitted (30.12.2005) by virtue of [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(o)(i)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/o/i)
+[^c-0dd33cc00b7efc1ed33e101169cf8287]: Textual amendment: Words in reg. 36(6)(d) omitted (30.12.2005) by virtue of [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(o)(i)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/o/i)
 
-[^key-cde04ecb56d7a535206c90e8fd5f59dc]: Textual amendment: Words in reg. 36(6)(e) inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(o)(ii)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/o/ii)
+[^c-cde04ecb56d7a535206c90e8fd5f59dc]: Textual amendment: Words in reg. 36(6)(e) inserted (30.12.2005) by [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(o)(ii)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/o/ii)
 
-[^key-edead146180ebd21ed90a9f0fb49fbe7]: Textual amendment: Words in reg. 36(8) omitted (30.12.2005) by virtue of [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(o)(iii)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/o/iii)
+[^c-edead146180ebd21ed90a9f0fb49fbe7]: Textual amendment: Words in reg. 36(8) omitted (30.12.2005) by virtue of [The Adoption and Children (Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3482)](https://www.legislation.gov.uk/uksi/2005/3482), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3482/regulation/1), [5(o)(iii)](https://www.legislation.gov.uk/uksi/2005/3482/regulation/5/o/iii)

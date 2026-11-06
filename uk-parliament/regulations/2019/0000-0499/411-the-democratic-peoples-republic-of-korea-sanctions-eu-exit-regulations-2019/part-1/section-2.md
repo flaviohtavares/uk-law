@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-fb0ed76414d3223a828a2abed8b30e2b][^key-38732b08d60ae87d593d18b8395c0b1a]
+## 2. Interpretation[^c-fb0ed76414d3223a828a2abed8b30e2b][^c-38732b08d60ae87d593d18b8395c0b1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 - “**conduct**” includes acts and omissions;
 - “**consular post**” has the same meaning as in the Vienna Convention on Consular Relations done at Vienna on 24 April 1963 [^c23636371], and any reference to the functions of a consular post is to be read in accordance with that Convention;
 - “diplomatic mission”, and any reference to the functions of a diplomatic mission, is to be read in accordance with the Vienna Convention on Diplomatic Relations done at Vienna on 18 April 1961 [^c23636381];
-- “[^key-fd8be045c2ba0e5eda9564a8c7692cca]**director disqualification licence**” means a licence under regulation 89A;
+- “[^c-fd8be045c2ba0e5eda9564a8c7692cca]**director disqualification licence**” means a licence under regulation 89A;
 - “**document**” includes information recorded in any form and, in relation to information recorded otherwise than in legible form, references to its production include producing a copy of the information in legible form;
 - “**the DPRK**” means the Democratic People's Republic of Korea;
 - “**the Dual-Use Regulation**” means Council Regulation [(EC) No 428/2009](https://www.legislation.gov.uk/european/regulation/2009/0428) of 5 May 2009 setting up a Community regime for the control of exports, transfer, brokering and transit of dual-use items;
@@ -90,9 +90,9 @@ summary: ''
 
 ## Annotations
 
-[^key-fb0ed76414d3223a828a2abed8b30e2b]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-fb0ed76414d3223a828a2abed8b30e2b]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-38732b08d60ae87d593d18b8395c0b1a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/411/regulation/2) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/1/b)
+[^c-38732b08d60ae87d593d18b8395c0b1a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/411/regulation/2) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/1/b)
 
 [^c23636361]: Marginal citation: [1979 c.2](https://www.legislation.gov.uk/ukpga/1979/2). Amendments have been made to this Act and are cited, where relevant, in respect of the applicable regulations.
 
@@ -100,6 +100,6 @@ summary: ''
 
 [^c23636381]: Marginal citation: United Nations Treaty Series, vol. 500, p.95.
 
-[^key-fd8be045c2ba0e5eda9564a8c7692cca]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/411/regulation/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/2)
+[^c-fd8be045c2ba0e5eda9564a8c7692cca]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2019/411/regulation/2) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/2/2)
 
 [^c23636391]: Marginal citation: OJ L 224, 31.8.2017, p. 1.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 547. Repo under arrangement designed to produce quasi-interest: tax avoidance[^key-cda5160d25a42c9e3f279ae2d08bd0d0]
+## 547. Repo under arrangement designed to produce quasi-interest: tax avoidance[^c-cda5160d25a42c9e3f279ae2d08bd0d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cda5160d25a42c9e3f279ae2d08bd0d0]: Textual amendment: S. 547 omitted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 8(c)(iii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/8/c/iii), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
+[^c-cda5160d25a42c9e3f279ae2d08bd0d0]: Textual amendment: S. 547 omitted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 8(c)(iii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/8/c/iii), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)

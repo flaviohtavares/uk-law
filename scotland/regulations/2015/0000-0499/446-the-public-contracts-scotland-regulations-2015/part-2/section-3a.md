@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3A. Regulation of procurement by UK contracting authorities[^key-38441f416b15809a1d5ae685975a524d]
+## 3A. Regulation of procurement by UK contracting authorities[^c-38441f416b15809a1d5ae685975a524d]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38441f416b15809a1d5ae685975a524d]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/ssi/2015/446/regulation/3A), [3B](https://www.legislation.gov.uk/ssi/2015/446/regulation/3B) inserted (20.12.2025) by [The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/392/regulation/2/2)
+[^c-38441f416b15809a1d5ae685975a524d]: Textual amendment: [Regs. 3A](https://www.legislation.gov.uk/ssi/2015/446/regulation/3A), [3B](https://www.legislation.gov.uk/ssi/2015/446/regulation/3B) inserted (20.12.2025) by [The Cross-Border Public Procurement (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/392)](https://www.legislation.gov.uk/ssi/2025/392), [regs. 1](https://www.legislation.gov.uk/ssi/2025/392/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/392/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Notice, etc. to solicitors[^key-c6181b492c1fa184638d2f31773ddc35]
+## 118. Notice, etc. to solicitors[^c-c6181b492c1fa184638d2f31773ddc35]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where in PPP administration proceedings a notice or other document is required o
 
 ## Annotations
 
-[^key-c6181b492c1fa184638d2f31773ddc35]: Commencement: [Rule 118](https://www.legislation.gov.uk/uksi/2007/3141/rule/118) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-c6181b492c1fa184638d2f31773ddc35]: Commencement: [Rule 118](https://www.legislation.gov.uk/uksi/2007/3141/rule/118) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

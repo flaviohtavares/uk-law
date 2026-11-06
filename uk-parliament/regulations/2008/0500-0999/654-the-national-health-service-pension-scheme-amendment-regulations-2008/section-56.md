@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Amendment of regulation S1[^key-ecd6925e97289d7d67ed534c205fbe87]
+## 56. Amendment of regulation S1[^c-ecd6925e97289d7d67ed534c205fbe87]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ For paragraph (4) of regulation S1 (suspension of pension on return to NHS emplo
 
 ## Annotations
 
-[^key-ecd6925e97289d7d67ed534c205fbe87]: Commencement: Reg. 56 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-ecd6925e97289d7d67ed534c205fbe87]: Commencement: Reg. 56 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

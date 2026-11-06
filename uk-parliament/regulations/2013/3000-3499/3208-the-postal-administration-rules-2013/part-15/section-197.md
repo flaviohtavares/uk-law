@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 197. Charges for copy documents[^key-f4528ffbbeb2962dda8a3e1a05f9953b]
+## 197. Charges for copy documents[^c-f4528ffbbeb2962dda8a3e1a05f9953b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Except where prohibited by the Rules, a postal administrator is entitled to requ
 
 ## Annotations
 
-[^key-f4528ffbbeb2962dda8a3e1a05f9953b]: Commencement: [Rule 197](https://www.legislation.gov.uk/uksi/2013/3208/rule/197) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-f4528ffbbeb2962dda8a3e1a05f9953b]: Commencement: [Rule 197](https://www.legislation.gov.uk/uksi/2013/3208/rule/197) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

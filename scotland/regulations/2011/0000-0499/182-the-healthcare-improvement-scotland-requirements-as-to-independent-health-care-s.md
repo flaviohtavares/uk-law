@@ -61,10 +61,10 @@ In accordance with section 104(2) of that Act a draft of the instrument has been
   - (b) a registered dentist, or dental practitioner registered with the General Dental Council;
   - (c) a registered pharmacist as defined in section 108(1) of the Act [^c20751051];
   - (d) an ophthalmic optician, as defined in section 108(1) of the Act but excluding a body corporate enrolled in the list kept under section 9 of the Opticians Act 1989 [^c20751061];
-  - (e) a registered nurse, midwife or health visitor (being a person registered in the register maintained under article 5 of the Nursing and Midwifery[^key-4f30b97611ba9369ddd924c8f6f36846] Order 2001 [^c20751071]);
-  - (f) a person who is registered as a member of a profession to which the Health Professions Order 2001 extends[^key-42c33ebc914c041f449b866eff506da6];
-  - (g) a registered chiropractor as defined in section 43 of the Chiropractors Act 1994 [^c20751091]; [^key-a9f9efb5b0aab96d411815e62c09619a]...
-  - (h) a registered osteopath as defined in section 41 of the Osteopaths Act 1993 [^c20751101]; ; or[^key-a271cfc785049c3fb4b856b4a12ff9ab]
+  - (e) a registered nurse, midwife or health visitor (being a person registered in the register maintained under article 5 of the Nursing and Midwifery[^c-4f30b97611ba9369ddd924c8f6f36846] Order 2001 [^c20751071]);
+  - (f) a person who is registered as a member of a profession to which the Health Professions Order 2001 extends[^c-42c33ebc914c041f449b866eff506da6];
+  - (g) a registered chiropractor as defined in section 43 of the Chiropractors Act 1994 [^c20751091]; [^c-a9f9efb5b0aab96d411815e62c09619a]...
+  - (h) a registered osteopath as defined in section 41 of the Osteopaths Act 1993 [^c20751101]; ; or[^c-a271cfc785049c3fb4b856b4a12ff9ab]
   - (i) a person registered under the Anaesthesia Associates and Physician Associates Order 2024;
 - “**manager**” in relation to an independent health care service [^c20751111] means the person for the time being appointed to manage that service;
 - “**provider**” in relation to an independent health care service means the person registered to provide that service;
@@ -285,19 +285,19 @@ Regulation 15 requires the establishment of a complaints service and regulation
 
 [^c20751061]: Marginal citation: [1989 c.44](https://www.legislation.gov.uk/ukpga/1989/44).
 
-[^key-4f30b97611ba9369ddd924c8f6f36846]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 39](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/39)
+[^c-4f30b97611ba9369ddd924c8f6f36846]: Textual amendment: Words in reg. 1(2) substituted (1.4.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications) Order 2011 (S.S.I. 2011/211)](https://www.legislation.gov.uk/ssi/2011/211), [art. 1](https://www.legislation.gov.uk/ssi/2011/211/article/1), [sch. 2 para. 39](https://www.legislation.gov.uk/ssi/2011/211/schedule/2/paragraph/39)
 
 [^c20751071]: Marginal citation: S.I. 2002/253, as amended by S.I. 2009/1182.
 
-[^key-42c33ebc914c041f449b866eff506da6]: Textual amendment: Words in reg. 1(2) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/24)
+[^c-42c33ebc914c041f449b866eff506da6]: Textual amendment: Words in reg. 1(2) substituted (2.12.2019) by [The Children and Social Work Act 2017 (Consequential Amendments) (Social Workers) Regulations 2019 (S.I. 2019/1094)](https://www.legislation.gov.uk/uksi/2019/1094), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1094/regulation/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/uksi/2019/1094/schedule/3/paragraph/24)
 
 [^c20751091]: Marginal citation: [1994 c.17](https://www.legislation.gov.uk/ukpga/1994/17).
 
-[^key-a9f9efb5b0aab96d411815e62c09619a]: Textual amendment: Word in reg. 1(2) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/17/a)
+[^c-a9f9efb5b0aab96d411815e62c09619a]: Textual amendment: Word in reg. 1(2) omitted (13.12.2024) by virtue of [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 17(a)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/17/a)
 
 [^c20751101]: Marginal citation: [1993 c.21](https://www.legislation.gov.uk/ukpga/1993/21).
 
-[^key-a271cfc785049c3fb4b856b4a12ff9ab]: Textual amendment: Words in reg. 1(2) inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 17(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/17/b)
+[^c-a271cfc785049c3fb4b856b4a12ff9ab]: Textual amendment: Words in reg. 1(2) inserted (13.12.2024) by [The Anaesthesia Associates and Physician Associates Order 2024 (S.I. 2024/374)](https://www.legislation.gov.uk/uksi/2024/374), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/374/article/1/3), [Sch. 5 para. 17(b)](https://www.legislation.gov.uk/uksi/2024/374/schedule/5/paragraph/17/b)
 
 [^c20751111]: Marginal citation: Section 10F of the Act defines an independent health care service.
 

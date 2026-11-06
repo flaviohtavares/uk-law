@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designation by the Governor[^key-4166b90636d7a45b738dbcaa844d7a19]
+## 6. Designation by the Governor[^c-4166b90636d7a45b738dbcaa844d7a19]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4166b90636d7a45b738dbcaa844d7a19]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/2870/article/6) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-4166b90636d7a45b738dbcaa844d7a19]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/2870/article/6) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

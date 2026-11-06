@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Mandatory ongoing registration conditions for all providers[^key-38929fefcbc6483401d3cc59b221e6c0]
+## 8. Mandatory ongoing registration conditions for all providers[^c-38929fefcbc6483401d3cc59b221e6c0]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38929fefcbc6483401d3cc59b221e6c0]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/29/section/8) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)
+[^c-38929fefcbc6483401d3cc59b221e6c0]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/29/section/8) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/a)

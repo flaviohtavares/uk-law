@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Inspectors of SFRS[^key-c7bee51c71c903b5dba0cfdb6769d68a][^key-37a2a40a278afaa39bfcc188be2a4788]
+## 119. Inspectors of SFRS[^c-c7bee51c71c903b5dba0cfdb6769d68a][^c-37a2a40a278afaa39bfcc188be2a4788]
 
 *Extent: S*
 
@@ -156,6 +156,6 @@ After section 43 of the 2005 Act, insert—
 
 ## Annotations
 
-[^key-c7bee51c71c903b5dba0cfdb6769d68a]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2012/8/section/119) in force at 1.1.2013 for specified purposes by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/11)[3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))
+[^c-c7bee51c71c903b5dba0cfdb6769d68a]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2012/8/section/119) in force at 1.1.2013 for specified purposes by [S.S.I. 2012/333](https://www.legislation.gov.uk/ssi/2012/333), [art. 2](https://www.legislation.gov.uk/ssi/2012/333/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/333/schedule) (with [Sch. 2 para. 2(11)](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/2/11)[3](https://www.legislation.gov.uk/ssi/2012/333/schedule/2/paragraph/3))
 
-[^key-37a2a40a278afaa39bfcc188be2a4788]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2012/8/section/119) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-37a2a40a278afaa39bfcc188be2a4788]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2012/8/section/119) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

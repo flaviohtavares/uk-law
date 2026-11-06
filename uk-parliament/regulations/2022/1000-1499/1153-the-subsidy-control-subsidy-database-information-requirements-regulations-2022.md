@@ -46,19 +46,19 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 34(1), (2), and (3), and 87(2) of the Subsidy Control Act 2022[^f00001], makes the following Regulations.
 
-## 1. Citation, commencement and extent[^key-51c6ab7bc2e6b4f4bef6263d0dc2c023]
+## 1. Citation, commencement and extent[^c-51c6ab7bc2e6b4f4bef6263d0dc2c023]
 
 (1) These Regulations may be cited as the Subsidy Control (Subsidy Database Information Requirements) Regulations 2022 and come into force on 4th January 2023.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-bb5833fa0466cda22db66290d8220bd3]
+## 2. Interpretation[^c-bb5833fa0466cda22db66290d8220bd3]
 
 (1) In these Regulations “**the Act**” means the Subsidy Control Act 2022.
 
 (2) For the purposes of regulations 3(j) and 4(3)(e)(i), the amount of any subsidy is to be determined in accordance with regulation 8.
 
-## 3. Information to be included in the subsidy database[^key-326be8231bcb19f7548df5c647941335]
+## 3. Information to be included in the subsidy database[^c-326be8231bcb19f7548df5c647941335]
 
 A public authority’s[^f00002] entry in the subsidy database[^f00003] made under section 33(1) of the Act must, subject to regulations 4, 5, 6 and 7, include the following—
 
@@ -107,7 +107,7 @@ A public authority’s[^f00002] entry in the subsidy database[^f00003] made unde
   - (xvi) section 48(1)(a) (legacy subsidies);
   - (xvii) section 50 (large cross-border or international cooperation projects).
 
-## 4. Specific provisions relating to subsidy schemes and subsidies given under subsidy schemes[^key-fa70f7e89589a503bfe3cf606ba6b2d6][^key-c1eaa24f3a587e03910e556deb6c7224]
+## 4. Specific provisions relating to subsidy schemes and subsidies given under subsidy schemes[^c-fa70f7e89589a503bfe3cf606ba6b2d6][^c-c1eaa24f3a587e03910e556deb6c7224]
 
 (1) Paragraphs (2) and (3) of this regulation apply in the case of an entry in the subsidy database made in respect of a subsidy scheme under section 33(1)(b) of the Act.
 
@@ -123,15 +123,15 @@ A public authority’s[^f00002] entry in the subsidy database[^f00003] made unde
   - (i) the maximum amount of an individual subsidy that may be given under the scheme, and
   - (ii) the overall budget for the scheme (where applicable to the scheme).
 
-(4)[^key-f80d172a6888d9fcd08234b884faae16] Paragraph (5) of this regulation applies in the case of an entry in the subsidy database made under section 33(1)(a) of the Act, in respect of a subsidy given under a subsidy scheme.
+(4)[^c-f80d172a6888d9fcd08234b884faae16] Paragraph (5) of this regulation applies in the case of an entry in the subsidy database made under section 33(1)(a) of the Act, in respect of a subsidy given under a subsidy scheme.
 
 (5) The entry need not include the information required under regulation 3(p), (q), (r), (s), (t), (u), (v), (w) and (x).
 
-## 5. Specific provisions relating to minimal financial assistance and SPEI assistance[^key-0ae453a6dcb648e1490b2460630d1032]
+## 5. Specific provisions relating to minimal financial assistance and SPEI assistance[^c-0ae453a6dcb648e1490b2460630d1032]
 
 In the case of an entry in the subsidy database made in respect of minimal financial assistance[^f00009] or SPEI assistance[^f00010], the entry need only include the information required under regulation 3(e), (f), (g), (h), (j), (x) (sub-paragraph (xi) in respect of minimal financial assistance) and (x) (sub-paragraph (xii) in respect of SPEI assistance).
 
-## 6. Specific provisions relating to tax measures[^key-ea3e85a8ab0b6821d4233f483feeb62d]
+## 6. Specific provisions relating to tax measures[^c-ea3e85a8ab0b6821d4233f483feeb62d]
 
 In the case of an entry in the subsidy database made in respect of a subsidy given in the form of a tax measure, the information required under regulation 3(j) may be provided by reference to one of the following ranges—
 
@@ -148,7 +148,7 @@ In the case of an entry in the subsidy database made in respect of a subsidy giv
 
 and so on in ascending ranges of £10,000,000.
 
-## 7. Specific provisions relating to modifications[^key-6beddd7b900468c32380a0fe8390a9ec]
+## 7. Specific provisions relating to modifications[^c-6beddd7b900468c32380a0fe8390a9ec]
 
 (1) Paragraphs (2) to (4) of this regulation apply in the case of an entry in the subsidy database made in respect of a modification to a subsidy or subsidy scheme under section 33(5) of the Act.
 
@@ -158,7 +158,7 @@ and so on in ascending ranges of £10,000,000.
 
 (4) Where there is no existing entry in the subsidy database in respect of the subsidy or scheme to which the modification relates, the entry must contain the information required by these regulations as if it were an entry made under section 33(1) of the Act.
 
-## 8. Amount of subsidy[^key-9749f22afdbda3f6cc9d384e4313842c]
+## 8. Amount of subsidy[^c-9749f22afdbda3f6cc9d384e4313842c]
 
 (1) If a subsidy is provided in cash, the gross cash amount[^f00012] given is to be used in determining the amount of the subsidy.
 
@@ -188,11 +188,11 @@ https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attac
 
 [^f00001]: Footnote: [2022 c. 23](https://www.legislation.gov.uk/ukpga/2022/23).
 
-[^key-51c6ab7bc2e6b4f4bef6263d0dc2c023]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
+[^c-51c6ab7bc2e6b4f4bef6263d0dc2c023]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
 
-[^key-bb5833fa0466cda22db66290d8220bd3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1153/regulation/2) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
+[^c-bb5833fa0466cda22db66290d8220bd3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/1153/regulation/2) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
 
-[^key-326be8231bcb19f7548df5c647941335]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1153/regulation/3) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
+[^c-326be8231bcb19f7548df5c647941335]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/1153/regulation/3) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
 
 [^f00002]: Footnote: “**public authority**” has the meaning given by section 6(1) of the Subsidy Control Act 2022.
 
@@ -208,24 +208,24 @@ https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attac
 
 [^f00008]: Footnote: “**subsidy, or subsidy scheme, of particular interest**” has the meaning given in regulations made by the Secretary of State under section 11(1) of the Subsidy Control Act 2022.
 
-[^key-fa70f7e89589a503bfe3cf606ba6b2d6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1153/regulation/4) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
+[^c-fa70f7e89589a503bfe3cf606ba6b2d6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/1153/regulation/4) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
 
-[^key-c1eaa24f3a587e03910e556deb6c7224]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2022/1153/regulation/4) heading inserted (18.6.2025) by [The Subsidy Control (Subsidy Database Information Requirements) (Amendment) Regulations 2025 (S.I. 2025/635)](https://www.legislation.gov.uk/uksi/2025/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/635/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/635/regulation/2/a)
+[^c-c1eaa24f3a587e03910e556deb6c7224]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2022/1153/regulation/4) heading inserted (18.6.2025) by [The Subsidy Control (Subsidy Database Information Requirements) (Amendment) Regulations 2025 (S.I. 2025/635)](https://www.legislation.gov.uk/uksi/2025/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/635/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2025/635/regulation/2/a)
 
-[^key-f80d172a6888d9fcd08234b884faae16]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/4/4)[(5)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/4/5) inserted (18.6.2025) by [The Subsidy Control (Subsidy Database Information Requirements) (Amendment) Regulations 2025 (S.I. 2025/635)](https://www.legislation.gov.uk/uksi/2025/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/635/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/635/regulation/2/b)
+[^c-f80d172a6888d9fcd08234b884faae16]: Textual amendment: [Reg. 4(4)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/4/4)[(5)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/4/5) inserted (18.6.2025) by [The Subsidy Control (Subsidy Database Information Requirements) (Amendment) Regulations 2025 (S.I. 2025/635)](https://www.legislation.gov.uk/uksi/2025/635), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/635/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2025/635/regulation/2/b)
 
-[^key-0ae453a6dcb648e1490b2460630d1032]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/1153/regulation/5) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
+[^c-0ae453a6dcb648e1490b2460630d1032]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/1153/regulation/5) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
 
 [^f00009]: Footnote: “minimal financial assistance” is defined in section 36(3) of the Subsidy Control Act 2022.
 
 [^f00010]: Footnote: “SPEI assistance” is defined in section 38(3) of the Subsidy Control Act 2022.
 
-[^key-ea3e85a8ab0b6821d4233f483feeb62d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/1153/regulation/6) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
+[^c-ea3e85a8ab0b6821d4233f483feeb62d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/1153/regulation/6) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
 
-[^key-6beddd7b900468c32380a0fe8390a9ec]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/1153/regulation/7) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
+[^c-6beddd7b900468c32380a0fe8390a9ec]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/1153/regulation/7) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
 
 [^f00011]: Footnote: “permitted modification” is defined in section 81(3) of the Subsidy Control Act 2022.
 
-[^key-9749f22afdbda3f6cc9d384e4313842c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/1153/regulation/8) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
+[^c-9749f22afdbda3f6cc9d384e4313842c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/1153/regulation/8) in force at 4.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1153/regulation/1/1)
 
 [^f00012]: Footnote: Section 82(1) of the Subsidy Control Act 2022 provides that the Secretary of State may by regulations make provision about how the gross cash amount, and the gross cash equivalent amount, is to be determined for the purposes of these Regulations.

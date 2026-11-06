@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.55. Remuneration[^key-94113e1c978c9c031d7b2cc48917874a]
+## 33.55. Remuneration[^c-94113e1c978c9c031d7b2cc48917874a]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94113e1c978c9c031d7b2cc48917874a]: Commencement: [Rule 33.55](https://www.legislation.gov.uk/uksi/2025/909/rule/33.55) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-94113e1c978c9c031d7b2cc48917874a]: Commencement: [Rule 33.55](https://www.legislation.gov.uk/uksi/2025/909/rule/33.55) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00848]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 55(4)(b) was amended by paragraph 408 of Schedule 8 to the Courts Act 2003 (c. 39).

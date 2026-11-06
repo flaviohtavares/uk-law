@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Changes to round times and use of electronic auction system[^key-546aec94d4345f6cd57aed2d321fe205]
+## 128. Changes to round times and use of electronic auction system[^c-546aec94d4345f6cd57aed2d321fe205]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-546aec94d4345f6cd57aed2d321fe205]: Commencement: Reg. 128 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-546aec94d4345f6cd57aed2d321fe205]: Commencement: Reg. 128 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

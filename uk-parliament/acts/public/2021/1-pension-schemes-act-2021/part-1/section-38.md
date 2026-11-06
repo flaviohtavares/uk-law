@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Continuity option 3: conversion to closed scheme[^c24459151][^key-723748efaa9cf422f5d4939b6edbb768]
+## 38. Continuity option 3: conversion to closed scheme[^c24459151][^c-723748efaa9cf422f5d4939b6edbb768]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ The reference to closure of the scheme in subsection (7) is to be read according
 
 [^c24459151]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/1/section/38) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-723748efaa9cf422f5d4939b6edbb768]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/1/section/38) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-723748efaa9cf422f5d4939b6edbb768]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2021/1/section/38) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

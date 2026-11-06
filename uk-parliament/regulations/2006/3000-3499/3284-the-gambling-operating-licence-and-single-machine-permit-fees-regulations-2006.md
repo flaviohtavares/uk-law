@@ -56,7 +56,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-8af907099f33fd317405b632256aa682]
+### 1. Citation and commencement[^c-8af907099f33fd317405b632256aa682]
 
 (1) These Regulations may be cited as the Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006.
 
@@ -64,7 +64,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) Regulation 27 comes into force on 1st September 2007.
 
-### 2. General interpretation[^key-f432229472fe59ac3ca50932f376fa54]
+### 2. General interpretation[^c-f432229472fe59ac3ca50932f376fa54]
 
 (1) In these Regulations—
 
@@ -104,7 +104,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (2) A reference in these Regulations to a section is, unless the contrary intention appears, a reference to a section of the Act.
 
-### 3. Units of division[^key-1fbb220056d5952036fcd24083532104]
+### 3. Units of division[^c-1fbb220056d5952036fcd24083532104]
 
 (1) This regulation defines the units by reference to which licences are to be assigned to categories for the purpose of prescribing certain fees (see regulations 6 and 10).
 
@@ -139,7 +139,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 2 — Non-remote operating licences – application fees and annual fees
 
-### 4. Application of this Part[^key-64af8845c4137179d5b997a4262cf995]
+### 4. Application of this Part[^c-64af8845c4137179d5b997a4262cf995]
 
 (1) This Part applies in respect of non-remote operating licences.
 
@@ -161,7 +161,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (n) a lottery operating (external lottery manager) licence; and
 - (o) a lottery operating (society) licence.
 
-### 5. Non-remote new casino operating licences: fee categories[^key-f9277d720d3e6236a344dcd7bbd2b090]
+### 5. Non-remote new casino operating licences: fee categories[^c-f9277d720d3e6236a344dcd7bbd2b090]
 
 A new casino operating licence to which this Part applies:
 
@@ -169,7 +169,7 @@ A new casino operating licence to which this Part applies:
 - (b) is a category B licence if it does not authorise the holder to operate a casino other than a casino in respect of which a small casino premises licence or a large casino premises licence has effect;
 - (c) is a category C licence if it authorises the licensee to operate a casino in respect of which a small, large or regional casino premises licence has effect.
 
-### 6. Other non-remote operating licences: fee categories[^key-89fb5bc8e23e33458f2b8b40c0a45edb]
+### 6. Other non-remote operating licences: fee categories[^c-89fb5bc8e23e33458f2b8b40c0a45edb]
 
 (1) A licence to which this Part applies (other than a new casino operating licence) is a licence of the category indicated in the table in Schedule 1.
 
@@ -181,7 +181,7 @@ A new casino operating licence to which this Part applies:
 
 (3) In this regulation “relevant period” has the same meaning as in regulation 3.
 
-### 7. Application fees for non-remote operating licences[^key-cfa953b8646e0ca891da464f004ea526]
+### 7. Application fees for non-remote operating licences[^c-cfa953b8646e0ca891da464f004ea526]
 
 (1) Subject to regulations 16 and 18 to 20, the application fee—
 
@@ -198,7 +198,7 @@ A new casino operating licence to which this Part applies:
 
 is to be treated (as appropriate) as a reference to the activities, number or amount that the licence would authorise if granted in accordance with the application.
 
-### 8. Annual fees and first annual fees for non-remote operating licences[^key-851e0b3781ed42365ebc35ad4d1c725c]
+### 8. Annual fees and first annual fees for non-remote operating licences[^c-851e0b3781ed42365ebc35ad4d1c725c]
 
 (1) Subject to regulations 17 and 21, the annual fee—
 
@@ -214,7 +214,7 @@ is to be treated (as appropriate) as a reference to the activities, number or am
 
 ## PART 3 — Remote operating licences – application fees and annual fees
 
-### 9. Application of this Part[^key-c5ff78f43aa41fefaa10f109c742e1b5]
+### 9. Application of this Part[^c-c5ff78f43aa41fefaa10f109c742e1b5]
 
 This Part applies in respect of any of the following that is a remote operating licence within the meaning of section 67 of the Act (remote gambling):
 
@@ -231,7 +231,7 @@ This Part applies in respect of any of the following that is a remote operating 
 - (k) a lottery operating (external lottery manager) licence; and
 - (l) a lottery operating (society) licence.
 
-### 10. Remote operating licences: fee categories[^key-c3ee15d64942407a24f2a317a682c295]
+### 10. Remote operating licences: fee categories[^c-c3ee15d64942407a24f2a317a682c295]
 
 (1) A licence to which this Part applies (other than a remote general betting (limited) operating licence or an ancillary remote operating licence) is a licence of the category indicated in the table in Schedule 4.
 
@@ -243,7 +243,7 @@ This Part applies in respect of any of the following that is a remote operating 
 
 (3) In this regulation “relevant period” has the same meaning as in regulation 3.
 
-### 11. Application fees for remote operating licences[^key-00728101731caaaf196df45997894ecd]
+### 11. Application fees for remote operating licences[^c-00728101731caaaf196df45997894ecd]
 
 (1) Subject to regulations 13(1), 14(6), 16 and 18 to 20, the application fee—
 
@@ -253,7 +253,7 @@ This Part applies in respect of any of the following that is a remote operating 
 
 (2) In applying regulation 10 for the purposes of calculating the amount of an application fee under this regulation any reference to the number or amount of the unit of division authorised by the licence is to be treated as a reference to the number or amount that the licence would authorise if granted in accordance with the application.
 
-### 12. Annual fees and first annual fees for remote operating licences[^key-09240201e6a1a4d53ee5220823044083]
+### 12. Annual fees and first annual fees for remote operating licences[^c-09240201e6a1a4d53ee5220823044083]
 
 (1) Subject to regulations 13(2)(b), 14(7), 17(2) and 21, the annual fee—
 
@@ -265,7 +265,7 @@ This Part applies in respect of any of the following that is a remote operating 
 
 (3) Subject to regulations 13(2)(a), 14(8), 17(3) and 21, the first annual fee for a remote operating licence is the same amount as the annual fee.
 
-### 13. Fees for remote general betting (limited) operating licences[^key-0be350340c529f28fa96f8d74f34c829]
+### 13. Fees for remote general betting (limited) operating licences[^c-0be350340c529f28fa96f8d74f34c829]
 
 (1) Subject to regulations 16 and 18 to 20, the application fee for a remote general betting (limited) operating licence is £660.
 
@@ -274,7 +274,7 @@ This Part applies in respect of any of the following that is a remote operating 
 - (a) the first annual fee for a remote general betting (limited) operating licence is £1500; and
 - (b) the annual fee for such a licence is £1500.
 
-### 14. Fees for ancillary remote operating licences[^key-7d2f329a574cdb2a34c4e1b2b100e89c]
+### 14. Fees for ancillary remote operating licences[^c-7d2f329a574cdb2a34c4e1b2b100e89c]
 
 (1) An ancillary remote operating licence is a licence to which any of paragraphs (2) to (5) applies.
 
@@ -316,21 +316,21 @@ This Part applies in respect of any of the following that is a remote operating 
 
 ## PART 4 — Combined and multiple operating licences – application fees and annual fees
 
-### 15. Combined operating licence[^key-aaca94e0f9406b4f88de097fa1b5fe64]
+### 15. Combined operating licence[^c-aaca94e0f9406b4f88de097fa1b5fe64]
 
 For the purposes of this Part, a combined operating licence is an operating licence which either—
 
 - (a) combines more than one of the kinds of licence described in regulation 4 (a “combined non-remote operating licence”), or
 - (b) combines more than one the kinds of licence described in regulation 9 (a “combined remote operating licence”).
 
-### 16. Application fee for combined operating licence[^key-39880b212b96e17c7c0be50197e34241]
+### 16. Application fee for combined operating licence[^c-39880b212b96e17c7c0be50197e34241]
 
 Subject to regulations 18 to 20, the application fee for a combined operating licence is the sum of—
 
 - (a) the application fee which is the highest of those payable in respect of the different kinds of licence to which the combined licence relates; and
 - (b) 25 per cent of each of the other application fees payable in respect of the licences to which the combined licence relates.
 
-### 17. Annual fees and first annual fees for combined operating licences[^key-0436f9dd90665c4bb451745fad8da818]
+### 17. Annual fees and first annual fees for combined operating licences[^c-0436f9dd90665c4bb451745fad8da818]
 
 (1) This regulation is subject to regulation 21.
 
@@ -344,7 +344,7 @@ Subject to regulations 18 to 20, the application fee for a combined operating li
 - (a) a combined non-remote operating licence is 75 per cent of the amount of the annual fee that would be payable for such a licence under paragraph (2) (were the annual fee to be payable when the first annual fee is payable);
 - (b) a combined remote operating licence is the same amount as the annual fee so prescribed (were the annual fee to be payable when the first annual fee is payable).
 
-### 18. Fee for simultaneous applications for two operating licences[^key-612c99dfbd826ba8ff6a4b9a09dab4d7]
+### 18. Fee for simultaneous applications for two operating licences[^c-612c99dfbd826ba8ff6a4b9a09dab4d7]
 
 (1) This regulation applies where a person applies for—
 
@@ -357,7 +357,7 @@ at the same time.
 
 (3) The application fee for the relevant licence is 25 per cent of the application fee that would, but for this regulation, be payable in respect of that licence.
 
-### 19. Fee payable on application for a licence when another application is pending[^key-a98d0097690178da5a55580a39f43f6b]
+### 19. Fee payable on application for a licence when another application is pending[^c-a98d0097690178da5a55580a39f43f6b]
 
 (1) This regulation applies where a person who has applied for an operating licence (“the first application”) applies for another operating licence (“the second application”) before the first application has been determined in accordance with section 74.
 
@@ -368,7 +368,7 @@ at the same time.
 
 (3) In paragraph (1) “operating licence” does not include an ancillary remote operating licence.
 
-### 20. Fee payable when holder of existing licence applies for another licence[^key-84d0879cf0dd009602c1eb92d5eec87b]
+### 20. Fee payable when holder of existing licence applies for another licence[^c-84d0879cf0dd009602c1eb92d5eec87b]
 
 (1) This regulation applies where a person who holds an operating licence (“the first licence”) applies for another operating licence (“the second application”).
 
@@ -379,7 +379,7 @@ at the same time.
 
 (3) In paragraph (1) “operating licence” does not include an ancillary remote operating licence.
 
-### 21. Annual fees for holders of two operating licences[^key-6dd333830489dccda2e3b5e9d45bcac5]
+### 21. Annual fees for holders of two operating licences[^c-6dd333830489dccda2e3b5e9d45bcac5]
 
 (1) This regulation applies where a person holds both—
 
@@ -402,7 +402,7 @@ at the same time.
 
 (4) Paragraph (3) is not to apply where the annual fee which was previously paid in respect of the other licence was reduced in accordance with that paragraph.
 
-### 22. Interpretation[^key-9ac9f80fa75776c42e3dea67193127bd]
+### 22. Interpretation[^c-9ac9f80fa75776c42e3dea67193127bd]
 
 In regulations 18 and 21—
 
@@ -411,7 +411,7 @@ In regulations 18 and 21—
 
 ## PART 5 — Other prescribed fees relating to operating licences
 
-### 23. Change in corporate control application fee[^key-36c12ead6b69f8b40ab4496d8c2ac9a4]
+### 23. Change in corporate control application fee[^c-36c12ead6b69f8b40ab4496d8c2ac9a4]
 
 (1) Subject to the following paragraphs, the fee to accompany an application under section 102(2)(b) (a “change application”) in relation to an operating licence is 75 per cent of the application fee which would be payable for such a licence at the time the change application is made (determined by regulations 7, 11 and 13(1)).
 
@@ -439,7 +439,7 @@ where A is the greater of the two application fees payable for such licences at 
 - “non-remote operating licence” includes a combined non-remote operating licence, and
 - “remote operating licence” includes a combined remote operating licence.
 
-### 24. Fees for applications to vary operating licences[^key-210c9522d8598aebbee1b24fa3f9d25d]
+### 24. Fees for applications to vary operating licences[^c-210c9522d8598aebbee1b24fa3f9d25d]
 
 (1) The fee to accompany an application under section 104(1)(a) to vary a licence by adding or amending a licensed activity is, respectively, 25 per cent of the application fee for a licence that would only authorise the licensee to engage in—
 
@@ -458,19 +458,19 @@ where A is the greater of the two application fees payable for such licences at 
 
 (7) But if the condition which it is sought to vary relates to more than one category, the fee shall be 25 percent of the highest of the application fees payable for licences in the categories to which the condition relates.
 
-### 25. Maximum fee for copy of operating licence[^key-84b94b44a541c9287a8ab852615990c1]
+### 25. Maximum fee for copy of operating licence[^c-84b94b44a541c9287a8ab852615990c1]
 
 The fee for issuing a copy of an operating licence under section 107 shall not exceed £25.
 
 ## PART 6 — Operating Licences: General
 
-### 26. Date for payment of first annual fee[^key-72e20c746a9d34f41651dbe9151480e6]
+### 26. Date for payment of first annual fee[^c-72e20c746a9d34f41651dbe9151480e6]
 
 The first annual fee for a licence shall be paid within 30 days of the date on which the licence was issued.
 
 ## PART 7 — Single-machine supply and maintenance permits – application fee
 
-### 27. Application fee for single-machine supply and maintenance permit[^key-35da15449c2646d54200404fb6f44967]
+### 27. Application fee for single-machine supply and maintenance permit[^c-35da15449c2646d54200404fb6f44967]
 
 **Not yet in force.**
 
@@ -484,7 +484,7 @@ Department for Culture, Media and Sport
 
 10th December 2006
 
-## SCHEDULE 1 — Categories of non-remote operating licences[^key-3a0af2e57bb7091fe28febf2df2bdf88]
+## SCHEDULE 1 — Categories of non-remote operating licences[^c-3a0af2e57bb7091fe28febf2df2bdf88]
 
 Regulation 6
 
@@ -511,7 +511,7 @@ Regulation 6
 </tbody>
 </table>
 
-## SCHEDULE 2 — Application fees for non-remote operating licences[^key-4e0be5d25127c5b363b8718996097c9d]
+## SCHEDULE 2 — Application fees for non-remote operating licences[^c-4e0be5d25127c5b363b8718996097c9d]
 
 Regulation 7
 
@@ -539,7 +539,7 @@ Regulation 7
 </tbody>
 </table>
 
-## SCHEDULE 3 — Annual fees for non-remote operating licences[^key-02da9495b31c3ec4d68fdb921aa988f2]
+## SCHEDULE 3 — Annual fees for non-remote operating licences[^c-02da9495b31c3ec4d68fdb921aa988f2]
 
 Regulation 8
 
@@ -567,7 +567,7 @@ Regulation 8
 </tbody>
 </table>
 
-## SCHEDULE 4 — Categories of remote operating licences[^key-a2b76dee6d56ea1468274ab68d38a4d5]
+## SCHEDULE 4 — Categories of remote operating licences[^c-a2b76dee6d56ea1468274ab68d38a4d5]
 
 Regulation 10
 
@@ -591,7 +591,7 @@ Regulation 10
 </tbody>
 </table>
 
-## SCHEDULE 5 — Application fees for remote operating licences[^key-f6979d16a324f3abd20deb4ab48a9ec8]
+## SCHEDULE 5 — Application fees for remote operating licences[^c-f6979d16a324f3abd20deb4ab48a9ec8]
 
 Regulation 11
 
@@ -615,7 +615,7 @@ Regulation 11
 </tbody>
 </table>
 
-## SCHEDULE 6 — Annual fees for remote operating licences[^key-c437470794fabf8b04e7b992f4136cd3]
+## SCHEDULE 6 — Annual fees for remote operating licences[^c-c437470794fabf8b04e7b992f4136cd3]
 
 Regulation 12
 
@@ -707,70 +707,70 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2005 c. 19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-8af907099f33fd317405b632256aa682]: Commencement: Reg. 1 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-8af907099f33fd317405b632256aa682]: Commencement: Reg. 1 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-f432229472fe59ac3ca50932f376fa54]: Commencement: Reg. 2 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-f432229472fe59ac3ca50932f376fa54]: Commencement: Reg. 2 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-1fbb220056d5952036fcd24083532104]: Commencement: Reg. 3 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-1fbb220056d5952036fcd24083532104]: Commencement: Reg. 3 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
 [^f00002]: Footnote: [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16). Section 11 was amended by section 11(1) and (2) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36) and section 10(1) of the Finance Act [2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25).
 
-[^key-64af8845c4137179d5b997a4262cf995]: Commencement: Reg. 4 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-64af8845c4137179d5b997a4262cf995]: Commencement: Reg. 4 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-f9277d720d3e6236a344dcd7bbd2b090]: Commencement: Reg. 5 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-f9277d720d3e6236a344dcd7bbd2b090]: Commencement: Reg. 5 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-89fb5bc8e23e33458f2b8b40c0a45edb]: Commencement: Reg. 6 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-89fb5bc8e23e33458f2b8b40c0a45edb]: Commencement: Reg. 6 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-cfa953b8646e0ca891da464f004ea526]: Commencement: Reg. 7 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-cfa953b8646e0ca891da464f004ea526]: Commencement: Reg. 7 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-851e0b3781ed42365ebc35ad4d1c725c]: Commencement: Reg. 8 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-851e0b3781ed42365ebc35ad4d1c725c]: Commencement: Reg. 8 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-c5ff78f43aa41fefaa10f109c742e1b5]: Commencement: Reg. 9 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-c5ff78f43aa41fefaa10f109c742e1b5]: Commencement: Reg. 9 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-c3ee15d64942407a24f2a317a682c295]: Commencement: Reg. 10 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-c3ee15d64942407a24f2a317a682c295]: Commencement: Reg. 10 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-00728101731caaaf196df45997894ecd]: Commencement: Reg. 11 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-00728101731caaaf196df45997894ecd]: Commencement: Reg. 11 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-09240201e6a1a4d53ee5220823044083]: Commencement: Reg. 12 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-09240201e6a1a4d53ee5220823044083]: Commencement: Reg. 12 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-0be350340c529f28fa96f8d74f34c829]: Commencement: Reg. 13 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-0be350340c529f28fa96f8d74f34c829]: Commencement: Reg. 13 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-7d2f329a574cdb2a34c4e1b2b100e89c]: Commencement: Reg. 14 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-7d2f329a574cdb2a34c4e1b2b100e89c]: Commencement: Reg. 14 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-aaca94e0f9406b4f88de097fa1b5fe64]: Commencement: Reg. 15 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-aaca94e0f9406b4f88de097fa1b5fe64]: Commencement: Reg. 15 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-39880b212b96e17c7c0be50197e34241]: Commencement: Reg. 16 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-39880b212b96e17c7c0be50197e34241]: Commencement: Reg. 16 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-0436f9dd90665c4bb451745fad8da818]: Commencement: Reg. 17 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-0436f9dd90665c4bb451745fad8da818]: Commencement: Reg. 17 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-612c99dfbd826ba8ff6a4b9a09dab4d7]: Commencement: Reg. 18 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-612c99dfbd826ba8ff6a4b9a09dab4d7]: Commencement: Reg. 18 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-a98d0097690178da5a55580a39f43f6b]: Commencement: Reg. 19 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-a98d0097690178da5a55580a39f43f6b]: Commencement: Reg. 19 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-84d0879cf0dd009602c1eb92d5eec87b]: Commencement: Reg. 20 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-84d0879cf0dd009602c1eb92d5eec87b]: Commencement: Reg. 20 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-6dd333830489dccda2e3b5e9d45bcac5]: Commencement: Reg. 21 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-6dd333830489dccda2e3b5e9d45bcac5]: Commencement: Reg. 21 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-9ac9f80fa75776c42e3dea67193127bd]: Commencement: Reg. 22 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-9ac9f80fa75776c42e3dea67193127bd]: Commencement: Reg. 22 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-36c12ead6b69f8b40ab4496d8c2ac9a4]: Commencement: Reg. 23 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-36c12ead6b69f8b40ab4496d8c2ac9a4]: Commencement: Reg. 23 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-210c9522d8598aebbee1b24fa3f9d25d]: Commencement: Reg. 24 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-210c9522d8598aebbee1b24fa3f9d25d]: Commencement: Reg. 24 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-84b94b44a541c9287a8ab852615990c1]: Commencement: Reg. 25 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-84b94b44a541c9287a8ab852615990c1]: Commencement: Reg. 25 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-72e20c746a9d34f41651dbe9151480e6]: Commencement: Reg. 26 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-72e20c746a9d34f41651dbe9151480e6]: Commencement: Reg. 26 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-35da15449c2646d54200404fb6f44967]: Commencement: Reg. 27 in force at 1.9.2007, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/3)
+[^c-35da15449c2646d54200404fb6f44967]: Commencement: Reg. 27 in force at 1.9.2007, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/3)
 
-[^key-3a0af2e57bb7091fe28febf2df2bdf88]: Commencement: Sch. 1 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-3a0af2e57bb7091fe28febf2df2bdf88]: Commencement: Sch. 1 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-4e0be5d25127c5b363b8718996097c9d]: Commencement: Sch. 2 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-4e0be5d25127c5b363b8718996097c9d]: Commencement: Sch. 2 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-02da9495b31c3ec4d68fdb921aa988f2]: Commencement: Sch. 3 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-02da9495b31c3ec4d68fdb921aa988f2]: Commencement: Sch. 3 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-a2b76dee6d56ea1468274ab68d38a4d5]: Commencement: Sch. 4 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-a2b76dee6d56ea1468274ab68d38a4d5]: Commencement: Sch. 4 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-f6979d16a324f3abd20deb4ab48a9ec8]: Commencement: Sch. 5 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-f6979d16a324f3abd20deb4ab48a9ec8]: Commencement: Sch. 5 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
 
-[^key-c437470794fabf8b04e7b992f4136cd3]: Commencement: Sch. 6 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)
+[^c-c437470794fabf8b04e7b992f4136cd3]: Commencement: Sch. 6 in force at 1.1.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/3284/regulation/1/2)

@@ -24,21 +24,21 @@ Section 118
 
 ### Taxes Management Act 1970
 
-**1.**[^key-05c4264d4bf283319d2807724b8940c9][^key-e5faa3c9be2af7c62cbe2109f4a912a9] TMA 1970 is amended as follows.
+**1.**[^c-05c4264d4bf283319d2807724b8940c9][^c-e5faa3c9be2af7c62cbe2109f4a912a9] TMA 1970 is amended as follows.
 
-**2.**[^key-6588d2e08340aaf02129490268da0e25][^key-8de384cd6f815bc3e94b3fa3ff6eb7bb] For section 8B(8) (withdrawal of notice to file personal or trustee return) substitute—
+**2.**[^c-6588d2e08340aaf02129490268da0e25][^c-8de384cd6f815bc3e94b3fa3ff6eb7bb] For section 8B(8) (withdrawal of notice to file personal or trustee return) substitute—
 
 > (8) See paragraph 21 of Schedule 24 and paragraph 16 of Schedule 25 to the Finance Act 2021 as to the cancellation of liabilities under those Schedules by including provision in a notice under this section.
 
-**3.**[^key-4831f6d486e4d29828d0057c86cd689a][^key-f81a1c04e41e761f427dcc3a29c14942] For section 12AAA(9) (withdrawal of notice to file partnership return) substitute—
+**3.**[^c-4831f6d486e4d29828d0057c86cd689a][^c-f81a1c04e41e761f427dcc3a29c14942] For section 12AAA(9) (withdrawal of notice to file partnership return) substitute—
 
 > (9) See paragraph 21 of Schedule 24 and paragraph 16 of Schedule 25 to the Finance Act 2021 as to the cancellation of liabilities under those Schedules by including provision in a notice under this section.
 
-**4.**[^key-3eb0a0b0647f67752aec420172a46f02][^key-fca87f5d9f0d186e05476b78eafaeacb] In section 49E (nature of review etc), after subsection (5) insert—
+**4.**[^c-3eb0a0b0647f67752aec420172a46f02][^c-fca87f5d9f0d186e05476b78eafaeacb] In section 49E (nature of review etc), after subsection (5) insert—
 
 > (5A) See section 49EA concerning additional conclusions a review can reach in the case of penalties under Schedule 24 to the Finance Act 2021.
 
-**5.**[^key-ce2429a4c4c99fe54a6fc05502607870][^key-74c1c399d13248533bba20cae0bddac0] After section 49E insert—
+**5.**[^c-ce2429a4c4c99fe54a6fc05502607870][^c-74c1c399d13248533bba20cae0bddac0] After section 49E insert—
 
 > **49EA. Nature of review: penalties under Schedule 24 to FA 2021**
 >
@@ -59,7 +59,7 @@ Section 118
 > - (a) it was concluded on an earlier review under section 49B or 49C that HMRC's view that the appellant was liable to the penalty point was to be upheld, or
 > - (b) HMRC's decision that the appellant was liable to the penalty point has been affirmed on appeal.
 
-**6.**[^key-b2fe97045515118b4f1fbd56e1b9c305][^key-c99a37da43d195923dbe2e8ff6a0d9dd] After section 49F insert—
+**6.**[^c-b2fe97045515118b4f1fbd56e1b9c305][^c-c99a37da43d195923dbe2e8ff6a0d9dd] After section 49F insert—
 
 > **49FA. Effect of conclusions of review: penalties under Schedule 24 to FA 2021**
 >
@@ -73,7 +73,7 @@ Section 118
 >
 > (3) In subsection (2) “**post-review period**” has the same meaning as in section 49G (see subsection (5) of that section).
 
-**7.**[^key-ae9a7ecb8aa84d807e23d60522fb9735][^key-4ca78835214c7d3556d1b8562be9f670] In section 69 (recovery of penalty or interest), in subsection (1)—
+**7.**[^c-ae9a7ecb8aa84d807e23d60522fb9735][^c-4ca78835214c7d3556d1b8562be9f670] In section 69 (recovery of penalty or interest), in subsection (1)—
 
 - (a) after paragraph (a) insert—
 
@@ -82,7 +82,7 @@ Section 118
   ;
 - (b) omit paragraph (b).
 
-**8.**[^key-ae970eb1007b59cf914d3b1994607fa8][^key-9bf30f44985a29f9a6ee179ba70b50a7] In section 103ZA (disapplication of sections 100 to 103 in the case of certain penalties)—
+**8.**[^c-ae970eb1007b59cf914d3b1994607fa8][^c-9bf30f44985a29f9a6ee179ba70b50a7] In section 103ZA (disapplication of sections 100 to 103 in the case of certain penalties)—
 
 - (a) omit the “or” at the end of paragraph (k);
 - (b) after paragraph (l) insert—
@@ -91,7 +91,7 @@ Section 118
   > - (n) Schedule 25 to that Act (penalties for deliberately withholding information), or
   > - (o) Schedule 26 to that Act (penalties for failure to pay tax).
 
-**9.**[^key-9ee8398be540d62ca0a24b9f5338365a][^key-59d2baf303ba77eda78bbab6541c5f5d] (1) Section 107A (relevant trustees) is amended as follows.
+**9.**[^c-9ee8398be540d62ca0a24b9f5338365a][^c-59d2baf303ba77eda78bbab6541c5f5d] (1) Section 107A (relevant trustees) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -119,22 +119,22 @@ Section 118
 
 ### Income and Corporation Taxes Act 1988
 
-**10.**[^key-f361c47ea5dd533fde34fda24be40a28][^key-5e5bc278e9c9988fd7dfd0e02f60d9bb] In section 824 of the Income and Corporation Taxes Act 1988 (repayment supplements: individuals and others), in subsection (1)—
+**10.**[^c-f361c47ea5dd533fde34fda24be40a28][^c-5e5bc278e9c9988fd7dfd0e02f60d9bb] In section 824 of the Income and Corporation Taxes Act 1988 (repayment supplements: individuals and others), in subsection (1)—
 
 - (a) omit paragraph (c);
 - (b) in paragraph (d), for “that Act” substitute “ the Finance Act 2009 or Schedules 24 to 26 to the Finance Act 2021. ”
 
 ### Social Security Contributions and Benefits Act 1992
 
-**11.**[^key-d62f174636c474d619535d3abdbaaaf2][^key-907ed47f36c922f6dab42c3eafe55402] The Social Security Contributions and Benefits Act 1992 is amended as follows.
+**11.**[^c-d62f174636c474d619535d3abdbaaaf2][^c-907ed47f36c922f6dab42c3eafe55402] The Social Security Contributions and Benefits Act 1992 is amended as follows.
 
-**12.**[^key-c474138dd8d3b9cfeadd2be32e4f5b42][^key-a10171c4cdad6b4baf15c37659f646d0] In section 11A (application of certain provisions of the Income Tax Acts in relation to Class 2 contributions under section 11(2)), after subsection (1)(ea) insert—
+**12.**[^c-c474138dd8d3b9cfeadd2be32e4f5b42][^c-a10171c4cdad6b4baf15c37659f646d0] In section 11A (application of certain provisions of the Income Tax Acts in relation to Class 2 contributions under section 11(2)), after subsection (1)(ea) insert—
 
 > - (eb) Schedules 24 and 25 to the Finance Act 2021 (penalties for failure to make returns etc or for deliberately withholding information);
 
 .
 
-**13.**[^key-938a00b6c6b193d40d1955cf8f8c4903][^key-63bd954ba0cd8f0acc4da8727662afe8] In section 16(1) (application of Income Tax Acts and destination of Class 4 contributions), at the end of paragraph (e) insert
+**13.**[^c-938a00b6c6b193d40d1955cf8f8c4903][^c-63bd954ba0cd8f0acc4da8727662afe8] In section 16(1) (application of Income Tax Acts and destination of Class 4 contributions), at the end of paragraph (e) insert
 
 > and
 >
@@ -144,7 +144,7 @@ Section 118
 
 ### Social Security Contributions and Benefits (Northern Ireland) Act 1992
 
-**14.**[^key-3d27a1af491b49dffe8fc15abb0a66f5][^key-065487b3fa41d886677e519106a5bb8d] In section 11A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (application of certain provisions of the Income Tax Acts in relation to Class 2 contributions under section 11(2)), after subsection (1)(ea) insert—
+**14.**[^c-3d27a1af491b49dffe8fc15abb0a66f5][^c-065487b3fa41d886677e519106a5bb8d] In section 11A of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 (application of certain provisions of the Income Tax Acts in relation to Class 2 contributions under section 11(2)), after subsection (1)(ea) insert—
 
 > - (eb) Schedules 24 and 25 to the Finance Act 2021 (penalties for failure to make returns etc or for deliberately withholding information);
 
@@ -152,13 +152,13 @@ Section 118
 
 ### Value Added Tax Act 1994
 
-**15.**[^key-9c44f097a40457adaf21a884fee8cfef][^key-0bf5cc6f6cdbc43217307a8ddcbdc7b6][^key-4f46e1868bbeeae34c76d20bf59f3a5f] VATA 1994 is amended as follows.
+**15.**[^c-9c44f097a40457adaf21a884fee8cfef][^c-0bf5cc6f6cdbc43217307a8ddcbdc7b6][^c-4f46e1868bbeeae34c76d20bf59f3a5f] VATA 1994 is amended as follows.
 
-**16.**[^key-fe4a40def39cbed73a60f8f8acb7bd1c][^key-72551ca0dc3fbaab6b30d61490980bbf][^key-a738358e7863378e70bfa221993c94b9] In the italic heading before section 59, omit “Default surcharge and other”.
+**16.**[^c-fe4a40def39cbed73a60f8f8acb7bd1c][^c-72551ca0dc3fbaab6b30d61490980bbf][^c-a738358e7863378e70bfa221993c94b9] In the italic heading before section 59, omit “Default surcharge and other”.
 
-**17.**[^key-6f4b57e80485cc4e75917be0a66463d4][^key-505a1cf8d27baed0e75c09f6251a4dd4][^key-8e7c88d1f8dbd48678edd38c4b6b117b] Omit sections 59 to 59B (default surcharge).
+**17.**[^c-6f4b57e80485cc4e75917be0a66463d4][^c-505a1cf8d27baed0e75c09f6251a4dd4][^c-8e7c88d1f8dbd48678edd38c4b6b117b] Omit sections 59 to 59B (default surcharge).
 
-**18.**[^key-6ebbb28a4a75696027d5a06eb03d9a7c][^key-4cfc1e3761179aa807a2e3e2adfb863c][^key-3fa31986c314715affda45ac3775f411] (1) Section 69 (breaches of regulatory provisions) is amended as follows.
+**18.**[^c-6ebbb28a4a75696027d5a06eb03d9a7c][^c-4cfc1e3761179aa807a2e3e2adfb863c][^c-3fa31986c314715affda45ac3775f411] (1) Section 69 (breaches of regulatory provisions) is amended as follows.
 
 (2) In subsection (4)(a), for “for a surcharge under section 59 or 59A” substitute “ to a penalty point or a penalty under Schedule 24 to the Finance Act 2021 ”.
 
@@ -173,9 +173,9 @@ Section 118
 
   .
 
-**19.**[^key-3e74b57c800f37f5c650bcf911d89527][^key-2b5e298ebef51741475dd08893de016f][^key-29a40882d92d7c4c2e017c55b6bf6d37] In section 71 (construction of sections 59 to 70), in the heading and in subsections (1) and (2), for “59” substitute “ 60 ”.
+**19.**[^c-3e74b57c800f37f5c650bcf911d89527][^c-2b5e298ebef51741475dd08893de016f][^c-29a40882d92d7c4c2e017c55b6bf6d37] In section 71 (construction of sections 59 to 70), in the heading and in subsections (1) and (2), for “59” substitute “ 60 ”.
 
-**20.**[^key-91f48108fb31e78e750181c86c986668][^key-d59c53845cd6000b5f2183259371949e][^key-8c787725ae5fbe3e20ca914317a465c5] (1) Section 76 (assessment of amounts due by way of penalty, interest or surcharge) is amended as follows.
+**20.**[^c-91f48108fb31e78e750181c86c986668][^c-d59c53845cd6000b5f2183259371949e][^c-8c787725ae5fbe3e20ca914317a465c5] (1) Section 76 (assessment of amounts due by way of penalty, interest or surcharge) is amended as follows.
 
 (2) In the heading, for “penalty, interest or surcharge” substitute “ penalty or interest ”.
 
@@ -193,22 +193,22 @@ Section 118
 
 (6) In subsection (5), for “penalty, interest or surcharge”, in both places, substitute “ penalty or interest ”.
 
-**21.**[^key-3887b55498659d9fa4de4508bf97d57e][^key-39924515b3bc16ae06d421e8c07bd08c][^key-2193d6c0f940b3f8d239ec98a26b00ee] In section 77 (assessments: time limits and supplementary assessments), in subsections (2), (3) and (5), for “penalty, interest or surcharge” substitute “ penalty or interest ”.
+**21.**[^c-3887b55498659d9fa4de4508bf97d57e][^c-39924515b3bc16ae06d421e8c07bd08c][^c-2193d6c0f940b3f8d239ec98a26b00ee] In section 77 (assessments: time limits and supplementary assessments), in subsections (2), (3) and (5), for “penalty, interest or surcharge” substitute “ penalty or interest ”.
 
-**22.**[^key-7d579e62053a41097289c51debcf95fb][^key-ba7b3724e1560b5220fdcc6526f8f342][^key-6346034f3000fb99fe55feeb5b60967a] In section 81 (interest given by way of credit and set-off of credits), in subsections (3)(b) and (3A)(c), for “penalty, interest or surcharge” substitute “ penalty or interest ”.
+**22.**[^c-7d579e62053a41097289c51debcf95fb][^c-ba7b3724e1560b5220fdcc6526f8f342][^c-6346034f3000fb99fe55feeb5b60967a] In section 81 (interest given by way of credit and set-off of credits), in subsections (3)(b) and (3A)(c), for “penalty, interest or surcharge” substitute “ penalty or interest ”.
 
-**23.**[^key-9f18fd2ae0f6fa0b839c7509a22b2323][^key-01377404bf15b35bb67175ebed86980d][^key-550b23a1a25534da629d7829e2817b63] In section 83 (appeals), in subsection (1)—
+**23.**[^c-9f18fd2ae0f6fa0b839c7509a22b2323][^c-01377404bf15b35bb67175ebed86980d][^c-550b23a1a25534da629d7829e2817b63] In section 83 (appeals), in subsection (1)—
 
 - (a) in paragraph (n)—
   - (i) omit “or surcharge”;
   - (ii) for “59” substitute “ 60 ”;
 - (b) in paragraph (q), for “penalty, interest or surcharge” substitute “ penalty or interest ”.
 
-**24.**[^key-a2ce23879deef4761095a2e16825fc58][^key-f56ed6b27c5da84157d1514c4b9712e7][^key-6fb3b40804e695363aebc2dd4f9be8e4] In section 83F (nature of review etc), after subsection (5) insert—
+**24.**[^c-a2ce23879deef4761095a2e16825fc58][^c-f56ed6b27c5da84157d1514c4b9712e7][^c-6fb3b40804e695363aebc2dd4f9be8e4] In section 83F (nature of review etc), after subsection (5) insert—
 
 > (5A) See section 83FA concerning additional conclusions a review can reach in the case of penalties under Schedule 24 to the Finance Act 2021.
 
-**25.**[^key-88dc197fdc844b6e3a0dccf17c6d9ba4][^key-a169dd23c99cac28793ed982aeddfc33][^key-e1c1a0b7a67559572f84887b9b15cde1] After section 83F insert—
+**25.**[^c-88dc197fdc844b6e3a0dccf17c6d9ba4][^c-a169dd23c99cac28793ed982aeddfc33][^c-e1c1a0b7a67559572f84887b9b15cde1] After section 83F insert—
 
 > **83FA. Nature of review: penalties under Schedule 24 to FA 2021**
 >
@@ -228,7 +228,7 @@ Section 118
 >
 > (5) In subsection (3) “**relevant date**” has the same meaning as in section 83F(6) (see section 83F(7)).
 
-**26.**[^key-787eae08de38427aaee55b24032b2b66][^key-082c05ad322253160cfcf4cc922332a9][^key-ce955999166c58e75261feae0be3fa67] After section 83FA (inserted by paragraph 25) insert—
+**26.**[^c-787eae08de38427aaee55b24032b2b66][^c-082c05ad322253160cfcf4cc922332a9][^c-ce955999166c58e75261feae0be3fa67] After section 83FA (inserted by paragraph 25) insert—
 
 > **83FB. Effect of conclusions of review: penalties under Schedule 24 to FA 2021**
 >
@@ -240,49 +240,49 @@ Section 118
 >
 > (2) For the purposes of subsection (1) the conclusions of a review are to be treated as final only if the period specified in subsection (3)(b), (4)(b) or (5) of section 83G for appealing the reviewed decision has ended and no appeal has been made within that period.
 
-**27.**[^key-ed25f4b86bde8b9222601cb6627d08ce][^key-7edc972f06916dda3a13470e021fbbfe][^key-6330943cf884966fe61f7aa1a540bf64] In section 84 (further provisions relating to appeals), in subsection (6)—
+**27.**[^c-ed25f4b86bde8b9222601cb6627d08ce][^c-7edc972f06916dda3a13470e021fbbfe][^c-6330943cf884966fe61f7aa1a540bf64] In section 84 (further provisions relating to appeals), in subsection (6)—
 
 - (a) for “penalty, interest or surcharge” substitute “ penalty or interest ”;
 - (b) for “59” substitute “ 60 ”.
 
-**28.**[^key-25d0c08925093c2f76917442e3d1cb1c][^key-6e4628521ee038e290ea8bc95ac3b27e][^key-8a204a60718f1ff2ac1343a5e87cc1ce] In Schedule 13 (transitional provisions and savings), omit paragraph 14.
+**28.**[^c-25d0c08925093c2f76917442e3d1cb1c][^c-6e4628521ee038e290ea8bc95ac3b27e][^c-8a204a60718f1ff2ac1343a5e87cc1ce] In Schedule 13 (transitional provisions and savings), omit paragraph 14.
 
 ### Income Tax (Trading and Other Income) Act 2005
 
-**29.**[^key-3e63fd704f53110dc7a13d52171fa55e][^key-9ac0753e7a48ebaf9d06769256f28153][^key-3e3e14764f532e32a2a3e571902d719d] ITTOIA 2005 is amended as follows.
+**29.**[^c-3e63fd704f53110dc7a13d52171fa55e][^c-9ac0753e7a48ebaf9d06769256f28153][^c-3e3e14764f532e32a2a3e571902d719d] ITTOIA 2005 is amended as follows.
 
-**30.**[^key-c7467c341a8b6668ffb02beac36168ed][^key-057d5668a65c94713d67f08269d0bcac][^key-4756688e448d3e6fe60518b85976e818] In the italic heading before section 54, for “, interest and VAT surcharges” substitute “ and interest ”.
+**30.**[^c-c7467c341a8b6668ffb02beac36168ed][^c-057d5668a65c94713d67f08269d0bcac][^c-4756688e448d3e6fe60518b85976e818] In the italic heading before section 54, for “, interest and VAT surcharges” substitute “ and interest ”.
 
-**31.**[^key-cb226993da816cbb389cc00f75af3bb8][^key-375c4e0d6f4a9e1e36cba71f9449721d][^key-dd284a3fe0ff0de8916ef79385b00857] In section 54 (penalties, interest and VAT surcharges)—
+**31.**[^c-cb226993da816cbb389cc00f75af3bb8][^c-375c4e0d6f4a9e1e36cba71f9449721d][^c-dd284a3fe0ff0de8916ef79385b00857] In section 54 (penalties, interest and VAT surcharges)—
 
 - (a) in the heading, for “, interest and VAT surcharges” substitute “ and interest ”;
 - (b) omit subsection (3).
 
-**32.**[^key-fce75373d70c451569bbf177a07a0cf5][^key-47628bca4e09aa3b5a6e188acd30f208][^key-1f5cc4b58646143bb9a501336c16db04] In section 272 (application of trading income rules: GAAP), in the table in subsection (2), in the entry for section 54, in the second column, for “, interest and VAT surcharges” substitute “ and interest ”.
+**32.**[^c-fce75373d70c451569bbf177a07a0cf5][^c-47628bca4e09aa3b5a6e188acd30f208][^c-1f5cc4b58646143bb9a501336c16db04] In section 272 (application of trading income rules: GAAP), in the table in subsection (2), in the entry for section 54, in the second column, for “, interest and VAT surcharges” substitute “ and interest ”.
 
-**33.**[^key-33747aa7678a93b084115373e39dd615][^key-3560cecfb81536f31e5a442dcb594c7e][^key-2a77f192218472ea0cb6ad4705c976b4] In section 272ZA (application of trading income rules: cash basis), in the table in subsection (1), in the entry for section 54, in the second column, for “, interest and VAT surcharges” substitute “ and interest ”.
+**33.**[^c-33747aa7678a93b084115373e39dd615][^c-3560cecfb81536f31e5a442dcb594c7e][^c-2a77f192218472ea0cb6ad4705c976b4] In section 272ZA (application of trading income rules: cash basis), in the table in subsection (1), in the entry for section 54, in the second column, for “, interest and VAT surcharges” substitute “ and interest ”.
 
-**34.**[^key-27ec42f3fd40deee33668adb1f9b0a13][^key-43e9c011aeae6c94e809af9e222a3d79][^key-50a1bc043a1719b664bc1fe61a6335ae] In the italic heading before section 869, for “, interest and VAT surcharges” substitute “ and interest ”.
+**34.**[^c-27ec42f3fd40deee33668adb1f9b0a13][^c-43e9c011aeae6c94e809af9e222a3d79][^c-50a1bc043a1719b664bc1fe61a6335ae] In the italic heading before section 869, for “, interest and VAT surcharges” substitute “ and interest ”.
 
-**35.**[^key-6e5c9492e3097546b02771306b6e5387][^key-9d2f1419f440feb25549d7db4b87da2b][^key-3326e28441fb447cb4528fcc7be53887] In section 869 (penalties, interest and VAT surcharges: non trades etc)—
+**35.**[^c-6e5c9492e3097546b02771306b6e5387][^c-9d2f1419f440feb25549d7db4b87da2b][^c-3326e28441fb447cb4528fcc7be53887] In section 869 (penalties, interest and VAT surcharges: non trades etc)—
 
 - (a) in the heading, for “, interest and VAT surcharges” substitute “ and interest ”;
 - (b) omit subsection (5).
 
 ### Corporation Tax Act 2009
 
-**36.**[^key-85ad32e041aeed1bd61f9c16461a44ae][^key-d8141dcfbbe4f8c21b7ceb72293b7d0e][^key-f4396e426560cdce30a05dee662a6bf4] In section 1303 of CTA 2009 (penalties, interest and VAT surcharges)—
+**36.**[^c-85ad32e041aeed1bd61f9c16461a44ae][^c-d8141dcfbbe4f8c21b7ceb72293b7d0e][^c-f4396e426560cdce30a05dee662a6bf4] In section 1303 of CTA 2009 (penalties, interest and VAT surcharges)—
 
 - (a) in the heading, for “, interest and VAT surcharges” substitute “ and interest ”;
 - (b) omit subsection (3).
 
 ### Finance Act 2009
 
-**37.**[^key-999bfa52ce8716fa84813d92a8b33175][^key-70d7dc2820010e6985f0b3bd311d3d92][^key-557794331f826a01aa74a381ff40c8c5] FA 2009 is amended as follows.
+**37.**[^c-999bfa52ce8716fa84813d92a8b33175][^c-70d7dc2820010e6985f0b3bd311d3d92][^c-557794331f826a01aa74a381ff40c8c5] FA 2009 is amended as follows.
 
-**38.**[^key-6a9451c8ad2498759bdd780ae230f68b][^key-9bd02749f9443eab6ce70681e6ae7aa6][^key-df8813929f5f798ff57edc85b5c30d43] In section 108 (suspension of penalties during currency of agreement for deferred payment), in subsection (5), in the Table, omit the entry for value added tax.
+**38.**[^c-6a9451c8ad2498759bdd780ae230f68b][^c-9bd02749f9443eab6ce70681e6ae7aa6][^c-df8813929f5f798ff57edc85b5c30d43] In section 108 (suspension of penalties during currency of agreement for deferred payment), in subsection (5), in the Table, omit the entry for value added tax.
 
-**39.**[^key-11b9407706e694c66e0e9718686d5c65][^key-ad6647574e67c8a923d1c7c6028aecef] (1) Schedule 55 (penalty for failure to make returns etc) is amended as follows.
+**39.**[^c-11b9407706e694c66e0e9718686d5c65][^c-ad6647574e67c8a923d1c7c6028aecef] (1) Schedule 55 (penalty for failure to make returns etc) is amended as follows.
 
 (2) In paragraph 1—
 
@@ -297,7 +297,7 @@ Section 118
 
 (6) Until the coming into force of paragraph 3 of Schedule 10 to F(No.3)A 2010, paragraph 2 of Schedule 55 to FA 2009 has effect as if for “1 to 3” there were substituted “ 2A ”.
 
-**40.**[^key-a99fa2faad7803b62a8baa837d2d62c4][^key-f7c941ff7c8f840739ba167de38e0894] (1) Schedule 56 (penalty for failure to make payments on time) is amended as follows.
+**40.**[^c-a99fa2faad7803b62a8baa837d2d62c4][^c-f7c941ff7c8f840739ba167de38e0894] (1) Schedule 56 (penalty for failure to make payments on time) is amended as follows.
 
 (2) In paragraph 1, in the Table—
 
@@ -345,7 +345,7 @@ Section 118
 
 ### Finance Act 2012
 
-**41.**[^key-2547d23285667a2a2d20517debecdf96][^key-f153da95fa73bc7fe854316b3c5f4689][^key-1a9cd9794f0f3beb08ace1d24ac8d318] In Schedule 38 to FA 2012 (tax agents: dishonest conduct), in paragraph 34(1)—
+**41.**[^c-2547d23285667a2a2d20517debecdf96][^c-f153da95fa73bc7fe854316b3c5f4689][^c-1a9cd9794f0f3beb08ace1d24ac8d318] In Schedule 38 to FA 2012 (tax agents: dishonest conduct), in paragraph 34(1)—
 
 - (a) omit the “or” at the end of paragraph (b);
 - (b) at the end of paragraph (c), insert
@@ -356,7 +356,7 @@ Section 118
 
 ### Finance Act 2013
 
-**42.**[^key-6571148a8291c70da58ae06884d15a5d][^key-912f229aef058943a719dde0543bb585] In Schedule 43C to FA 2013 (penalty under section 212A: supplementary provision), in paragraph 8—
+**42.**[^c-6571148a8291c70da58ae06884d15a5d][^c-912f229aef058943a719dde0543bb585] In Schedule 43C to FA 2013 (penalty under section 212A: supplementary provision), in paragraph 8—
 
 - (a) in sub-paragraph (3)(b), after “Schedule 55 to FA 2009” insert “ , or sub-paragraph (3)(b) or (5)(b) of paragraph 3 or paragraph 20(4) of Schedule 25 to FA 2021 ”;
 - (b) in sub-paragraph (5)—
@@ -408,7 +408,7 @@ Section 118
 
 ### Finance Act 2014
 
-**43.**[^key-5d37801e2a37ce26c56f5b0574177c12][^key-46c7741a8409a6d6c113b204090e1811] In section 212 of FA 2014 (aggregate penalties)—
+**43.**[^c-5d37801e2a37ce26c56f5b0574177c12][^c-46c7741a8409a6d6c113b204090e1811] In section 212 of FA 2014 (aggregate penalties)—
 
 - (a) in subsection (2)(b), after “Schedule 55 to FA 2009” insert “ or paragraph 3(3)(b) or (5)(b) or 20(4) of Schedule 25 to FA 2021 ”;
 - (b) in subsection (4)—
@@ -454,7 +454,7 @@ Section 118
 
 ### Finance Act 2015
 
-**44.**[^key-943982f369cad6cbb5781d7414c2c491][^key-4784f76daf634ee3ad8e710d44a270a6] (1) Schedule 21 to FA 2015 (penalties in connection with offshore asset moves) is amended as follows.
+**44.**[^c-943982f369cad6cbb5781d7414c2c491][^c-4784f76daf634ee3ad8e710d44a270a6] (1) Schedule 21 to FA 2015 (penalties in connection with offshore asset moves) is amended as follows.
 
 (2) In paragraph 1(2), at the beginning of paragraph (b) insert “ where the original penalty is a penalty specified in paragraph (a), (b), (c) or (d) of paragraph 2, ”.
 
@@ -478,11 +478,11 @@ Section 118
 
 ### Finance Act 2016
 
-**45.**[^key-9064d130f0916cda868aaddcaa649a5a][^key-0e29fd630154add5366ca2d7715478a7] FA 2016 is amended as follows.
+**45.**[^c-9064d130f0916cda868aaddcaa649a5a][^c-0e29fd630154add5366ca2d7715478a7] FA 2016 is amended as follows.
 
-**46.**[^key-1cbece4d8eb738d1ba60c8eaa258d18b][^key-32ee0ac09a4d157623e0db769839758f] In section 167 (simple assessments), omit subsections (3) and (4).
+**46.**[^c-1cbece4d8eb738d1ba60c8eaa258d18b][^c-32ee0ac09a4d157623e0db769839758f] In section 167 (simple assessments), omit subsections (3) and (4).
 
-**47.**[^key-612058adf2aea0a0895dd6e90012d2f8][^key-19b1c078560e4459870fecad686c6cf9] (1) Schedule 20 (penalties for enablers of offshore tax evasion or non-compliance) is amended as follows.
+**47.**[^c-612058adf2aea0a0895dd6e90012d2f8][^c-19b1c078560e4459870fecad686c6cf9] (1) Schedule 20 (penalties for enablers of offshore tax evasion or non-compliance) is amended as follows.
 
 (2) In paragraph 1(4), after paragraph (d) insert—
 
@@ -506,7 +506,7 @@ Section 118
 
 > (5) In the case of a penalty under paragraph 3 of Schedule 25 to FA 2021 involving offshore activity, the potential lost revenue is the liability to tax which would have been shown in the return in question (within the meaning of that Schedule).
 
-**48.**[^key-b275ecdd92207155515766720bff4bee][^key-69c4b6807f3c4e903f47be35d71fa720] (1) Schedule 22 (asset-based penalty for offshore inaccuracies and failures) is amended as follows.
+**48.**[^c-b275ecdd92207155515766720bff4bee][^c-69c4b6807f3c4e903f47be35d71fa720] (1) Schedule 22 (asset-based penalty for offshore inaccuracies and failures) is amended as follows.
 
 (2) In paragraph 2—
 
@@ -531,268 +531,268 @@ Section 118
 
 (5) In paragraph 19(2), for “or Part 1 of Schedule 18 to FA 2017” substitute “ , Part 1 of Schedule 18 to F(No.2)A 2017 or Schedule 25 to FA 2021 ”.
 
-**49.**[^key-84dec83c73425e8847b6d846b7bfeb60][^key-a99fedd04f826a6a68104a1caae3d03b] In Schedule 23 (simple assessments), omit paragraph 9.
+**49.**[^c-84dec83c73425e8847b6d846b7bfeb60][^c-a99fedd04f826a6a68104a1caae3d03b] In Schedule 23 (simple assessments), omit paragraph 9.
 
 ### Finance Act 2017
 
-**50.**[^key-603180d3d837866aa80c5a7d474445ad][^key-d7e4823cff2f622966a4057bc1bac8ec] In Schedule 4 to FA 2017 (pensions: offshore transfers), omit paragraph 20.
+**50.**[^c-603180d3d837866aa80c5a7d474445ad][^c-d7e4823cff2f622966a4057bc1bac8ec] In Schedule 4 to FA 2017 (pensions: offshore transfers), omit paragraph 20.
 
 ### Finance (No. 2) Act 2017
 
-**51.**[^key-d6048944f42a158b858aae9a242e943b][^key-f7868d19477e547b1b22fc79c8cd3d96] In Schedule 18 to F(No.2)A 2017 (requirement to correct certain offshore tax non-compliance), in paragraph 15(2)(b), after “Schedule 55 to FA 2009” insert “ or of paragraph 11 of Schedule 25 to FA 2021, as the case may be ”.
+**51.**[^c-d6048944f42a158b858aae9a242e943b][^c-f7868d19477e547b1b22fc79c8cd3d96] In Schedule 18 to F(No.2)A 2017 (requirement to correct certain offshore tax non-compliance), in paragraph 15(2)(b), after “Schedule 55 to FA 2009” insert “ or of paragraph 11 of Schedule 25 to FA 2021, as the case may be ”.
 
 ## Annotations
 
-[^key-05c4264d4bf283319d2807724b8940c9]: Commencement: [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/1) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-05c4264d4bf283319d2807724b8940c9]: Commencement: [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/1) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-e5faa3c9be2af7c62cbe2109f4a912a9]: Commencement: [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/1) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-e5faa3c9be2af7c62cbe2109f4a912a9]: Commencement: [Sch. 27 para. 1](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/1) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-6588d2e08340aaf02129490268da0e25]: Commencement: [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/2) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-6588d2e08340aaf02129490268da0e25]: Commencement: [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/2) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-8de384cd6f815bc3e94b3fa3ff6eb7bb]: Commencement: [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/2) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-8de384cd6f815bc3e94b3fa3ff6eb7bb]: Commencement: [Sch. 27 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/2) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-4831f6d486e4d29828d0057c86cd689a]: Commencement: [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/3) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-4831f6d486e4d29828d0057c86cd689a]: Commencement: [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/3) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-f81a1c04e41e761f427dcc3a29c14942]: Commencement: [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/3) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-f81a1c04e41e761f427dcc3a29c14942]: Commencement: [Sch. 27 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/3) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-3eb0a0b0647f67752aec420172a46f02]: Commencement: [Sch. 27 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/4) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-3eb0a0b0647f67752aec420172a46f02]: Commencement: [Sch. 27 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/4) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-fca87f5d9f0d186e05476b78eafaeacb]: Commencement: [Sch. 27 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/4) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-fca87f5d9f0d186e05476b78eafaeacb]: Commencement: [Sch. 27 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/4) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-ce2429a4c4c99fe54a6fc05502607870]: Commencement: [Sch. 27 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/5) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-ce2429a4c4c99fe54a6fc05502607870]: Commencement: [Sch. 27 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/5) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-74c1c399d13248533bba20cae0bddac0]: Commencement: [Sch. 27 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/5) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-74c1c399d13248533bba20cae0bddac0]: Commencement: [Sch. 27 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/5) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-b2fe97045515118b4f1fbd56e1b9c305]: Commencement: [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/6) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-b2fe97045515118b4f1fbd56e1b9c305]: Commencement: [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/6) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-c99a37da43d195923dbe2e8ff6a0d9dd]: Commencement: [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/6) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-c99a37da43d195923dbe2e8ff6a0d9dd]: Commencement: [Sch. 27 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/6) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-ae9a7ecb8aa84d807e23d60522fb9735]: Commencement: [Sch. 27 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/7) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-ae9a7ecb8aa84d807e23d60522fb9735]: Commencement: [Sch. 27 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/7) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-4ca78835214c7d3556d1b8562be9f670]: Commencement: [Sch. 27 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/7) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-4ca78835214c7d3556d1b8562be9f670]: Commencement: [Sch. 27 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/7) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-ae970eb1007b59cf914d3b1994607fa8]: Commencement: [Sch. 27 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/8) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-ae970eb1007b59cf914d3b1994607fa8]: Commencement: [Sch. 27 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/8) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-9bf30f44985a29f9a6ee179ba70b50a7]: Commencement: [Sch. 27 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/8) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-9bf30f44985a29f9a6ee179ba70b50a7]: Commencement: [Sch. 27 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/8) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-9ee8398be540d62ca0a24b9f5338365a]: Commencement: [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/9) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-9ee8398be540d62ca0a24b9f5338365a]: Commencement: [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/9) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-59d2baf303ba77eda78bbab6541c5f5d]: Commencement: [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/9) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-59d2baf303ba77eda78bbab6541c5f5d]: Commencement: [Sch. 27 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/9) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-f361c47ea5dd533fde34fda24be40a28]: Commencement: [Sch. 27 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/10) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-f361c47ea5dd533fde34fda24be40a28]: Commencement: [Sch. 27 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/10) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-5e5bc278e9c9988fd7dfd0e02f60d9bb]: Commencement: [Sch. 27 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/10) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-5e5bc278e9c9988fd7dfd0e02f60d9bb]: Commencement: [Sch. 27 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/10) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-d62f174636c474d619535d3abdbaaaf2]: Commencement: [Sch. 27 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/11) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-d62f174636c474d619535d3abdbaaaf2]: Commencement: [Sch. 27 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/11) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-907ed47f36c922f6dab42c3eafe55402]: Commencement: [Sch. 27 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/11) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-907ed47f36c922f6dab42c3eafe55402]: Commencement: [Sch. 27 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/11) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-c474138dd8d3b9cfeadd2be32e4f5b42]: Commencement: [Sch. 27 para. 12](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/12) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-c474138dd8d3b9cfeadd2be32e4f5b42]: Commencement: [Sch. 27 para. 12](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/12) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-a10171c4cdad6b4baf15c37659f646d0]: Commencement: [Sch. 27 para. 12](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/12) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-a10171c4cdad6b4baf15c37659f646d0]: Commencement: [Sch. 27 para. 12](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/12) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-938a00b6c6b193d40d1955cf8f8c4903]: Commencement: [Sch. 27 para. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/13) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-938a00b6c6b193d40d1955cf8f8c4903]: Commencement: [Sch. 27 para. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/13) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-63bd954ba0cd8f0acc4da8727662afe8]: Commencement: [Sch. 27 para. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/13) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-63bd954ba0cd8f0acc4da8727662afe8]: Commencement: [Sch. 27 para. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/13) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-3d27a1af491b49dffe8fc15abb0a66f5]: Commencement: [Sch. 27 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/14) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-3d27a1af491b49dffe8fc15abb0a66f5]: Commencement: [Sch. 27 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/14) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-065487b3fa41d886677e519106a5bb8d]: Commencement: [Sch. 27 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/14) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-065487b3fa41d886677e519106a5bb8d]: Commencement: [Sch. 27 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/14) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-9c44f097a40457adaf21a884fee8cfef]: Commencement: [Sch. 27 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/15) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-9c44f097a40457adaf21a884fee8cfef]: Commencement: [Sch. 27 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/15) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-0bf5cc6f6cdbc43217307a8ddcbdc7b6]: Commencement: [Sch. 27 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/15) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-0bf5cc6f6cdbc43217307a8ddcbdc7b6]: Commencement: [Sch. 27 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/15) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-4f46e1868bbeeae34c76d20bf59f3a5f]: Commencement: [Sch. 27 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/15) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-4f46e1868bbeeae34c76d20bf59f3a5f]: Commencement: [Sch. 27 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/15) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-fe4a40def39cbed73a60f8f8acb7bd1c]: Commencement: [Sch. 27 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/16) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-fe4a40def39cbed73a60f8f8acb7bd1c]: Commencement: [Sch. 27 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/16) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-72551ca0dc3fbaab6b30d61490980bbf]: Commencement: [Sch. 27 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/16) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-72551ca0dc3fbaab6b30d61490980bbf]: Commencement: [Sch. 27 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/16) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-a738358e7863378e70bfa221993c94b9]: Commencement: [Sch. 27 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/16) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-a738358e7863378e70bfa221993c94b9]: Commencement: [Sch. 27 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/16) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-6f4b57e80485cc4e75917be0a66463d4]: Commencement: [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/17) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-6f4b57e80485cc4e75917be0a66463d4]: Commencement: [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/17) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-505a1cf8d27baed0e75c09f6251a4dd4]: Commencement: [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/17) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-505a1cf8d27baed0e75c09f6251a4dd4]: Commencement: [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/17) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-8e7c88d1f8dbd48678edd38c4b6b117b]: Commencement: [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/17) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-8e7c88d1f8dbd48678edd38c4b6b117b]: Commencement: [Sch. 27 para. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/17) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-6ebbb28a4a75696027d5a06eb03d9a7c]: Commencement: [Sch. 27 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/18) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-6ebbb28a4a75696027d5a06eb03d9a7c]: Commencement: [Sch. 27 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/18) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-4cfc1e3761179aa807a2e3e2adfb863c]: Commencement: [Sch. 27 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/18) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-4cfc1e3761179aa807a2e3e2adfb863c]: Commencement: [Sch. 27 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/18) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-3fa31986c314715affda45ac3775f411]: Commencement: [Sch. 27 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/18) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-3fa31986c314715affda45ac3775f411]: Commencement: [Sch. 27 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/18) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-3e74b57c800f37f5c650bcf911d89527]: Commencement: [Sch. 27 para. 19](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/19) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-3e74b57c800f37f5c650bcf911d89527]: Commencement: [Sch. 27 para. 19](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/19) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-2b5e298ebef51741475dd08893de016f]: Commencement: [Sch. 27 para. 19](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/19) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-2b5e298ebef51741475dd08893de016f]: Commencement: [Sch. 27 para. 19](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/19) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-29a40882d92d7c4c2e017c55b6bf6d37]: Commencement: [Sch. 27 para. 19](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/19) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-29a40882d92d7c4c2e017c55b6bf6d37]: Commencement: [Sch. 27 para. 19](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/19) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-91f48108fb31e78e750181c86c986668]: Commencement: [Sch. 27 para. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/20) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-91f48108fb31e78e750181c86c986668]: Commencement: [Sch. 27 para. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/20) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-d59c53845cd6000b5f2183259371949e]: Commencement: [Sch. 27 para. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/20) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-d59c53845cd6000b5f2183259371949e]: Commencement: [Sch. 27 para. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/20) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-8c787725ae5fbe3e20ca914317a465c5]: Commencement: [Sch. 27 para. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/20) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-8c787725ae5fbe3e20ca914317a465c5]: Commencement: [Sch. 27 para. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/20) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-3887b55498659d9fa4de4508bf97d57e]: Commencement: [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/21) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-3887b55498659d9fa4de4508bf97d57e]: Commencement: [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/21) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-39924515b3bc16ae06d421e8c07bd08c]: Commencement: [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/21) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-39924515b3bc16ae06d421e8c07bd08c]: Commencement: [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/21) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-2193d6c0f940b3f8d239ec98a26b00ee]: Commencement: [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/21) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-2193d6c0f940b3f8d239ec98a26b00ee]: Commencement: [Sch. 27 para. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/21) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-7d579e62053a41097289c51debcf95fb]: Commencement: [Sch. 27 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/22) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-7d579e62053a41097289c51debcf95fb]: Commencement: [Sch. 27 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/22) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-ba7b3724e1560b5220fdcc6526f8f342]: Commencement: [Sch. 27 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/22) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-ba7b3724e1560b5220fdcc6526f8f342]: Commencement: [Sch. 27 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/22) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-6346034f3000fb99fe55feeb5b60967a]: Commencement: [Sch. 27 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/22) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-6346034f3000fb99fe55feeb5b60967a]: Commencement: [Sch. 27 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/22) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-9f18fd2ae0f6fa0b839c7509a22b2323]: Commencement: [Sch. 27 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/23) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-9f18fd2ae0f6fa0b839c7509a22b2323]: Commencement: [Sch. 27 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/23) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-01377404bf15b35bb67175ebed86980d]: Commencement: [Sch. 27 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/23) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-01377404bf15b35bb67175ebed86980d]: Commencement: [Sch. 27 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/23) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-550b23a1a25534da629d7829e2817b63]: Commencement: [Sch. 27 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/23) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-550b23a1a25534da629d7829e2817b63]: Commencement: [Sch. 27 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/23) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-a2ce23879deef4761095a2e16825fc58]: Commencement: [Sch. 27 para. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/24) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-a2ce23879deef4761095a2e16825fc58]: Commencement: [Sch. 27 para. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/24) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-f56ed6b27c5da84157d1514c4b9712e7]: Commencement: [Sch. 27 para. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/24) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-f56ed6b27c5da84157d1514c4b9712e7]: Commencement: [Sch. 27 para. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/24) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-6fb3b40804e695363aebc2dd4f9be8e4]: Commencement: [Sch. 27 para. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/24) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-6fb3b40804e695363aebc2dd4f9be8e4]: Commencement: [Sch. 27 para. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/24) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-88dc197fdc844b6e3a0dccf17c6d9ba4]: Commencement: [Sch. 27 para. 25](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/25) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-88dc197fdc844b6e3a0dccf17c6d9ba4]: Commencement: [Sch. 27 para. 25](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/25) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-a169dd23c99cac28793ed982aeddfc33]: Commencement: [Sch. 27 para. 25](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/25) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-a169dd23c99cac28793ed982aeddfc33]: Commencement: [Sch. 27 para. 25](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/25) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-e1c1a0b7a67559572f84887b9b15cde1]: Commencement: [Sch. 27 para. 25](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/25) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-e1c1a0b7a67559572f84887b9b15cde1]: Commencement: [Sch. 27 para. 25](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/25) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-787eae08de38427aaee55b24032b2b66]: Commencement: [Sch. 27 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/26) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-787eae08de38427aaee55b24032b2b66]: Commencement: [Sch. 27 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/26) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-082c05ad322253160cfcf4cc922332a9]: Commencement: [Sch. 27 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/26) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-082c05ad322253160cfcf4cc922332a9]: Commencement: [Sch. 27 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/26) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-ce955999166c58e75261feae0be3fa67]: Commencement: [Sch. 27 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/26) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-ce955999166c58e75261feae0be3fa67]: Commencement: [Sch. 27 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/26) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-ed25f4b86bde8b9222601cb6627d08ce]: Commencement: [Sch. 27 para. 27](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/27) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-ed25f4b86bde8b9222601cb6627d08ce]: Commencement: [Sch. 27 para. 27](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/27) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-7edc972f06916dda3a13470e021fbbfe]: Commencement: [Sch. 27 para. 27](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/27) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-7edc972f06916dda3a13470e021fbbfe]: Commencement: [Sch. 27 para. 27](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/27) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-6330943cf884966fe61f7aa1a540bf64]: Commencement: [Sch. 27 para. 27](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/27) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-6330943cf884966fe61f7aa1a540bf64]: Commencement: [Sch. 27 para. 27](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/27) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-25d0c08925093c2f76917442e3d1cb1c]: Commencement: [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/28) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
+[^c-25d0c08925093c2f76917442e3d1cb1c]: Commencement: [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/28) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(a)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/a)
 
-[^key-6e4628521ee038e290ea8bc95ac3b27e]: Commencement: [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/28) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-6e4628521ee038e290ea8bc95ac3b27e]: Commencement: [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/28) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-8a204a60718f1ff2ac1343a5e87cc1ce]: Commencement: [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/28) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-8a204a60718f1ff2ac1343a5e87cc1ce]: Commencement: [Sch. 27 para. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/28) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-3e63fd704f53110dc7a13d52171fa55e]: Commencement: [Sch. 27 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/29) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
+[^c-3e63fd704f53110dc7a13d52171fa55e]: Commencement: [Sch. 27 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/29) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
 
-[^key-9ac0753e7a48ebaf9d06769256f28153]: Commencement: [Sch. 27 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/29) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-9ac0753e7a48ebaf9d06769256f28153]: Commencement: [Sch. 27 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/29) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-3e3e14764f532e32a2a3e571902d719d]: Commencement: [Sch. 27 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/29) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-3e3e14764f532e32a2a3e571902d719d]: Commencement: [Sch. 27 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/29) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-c7467c341a8b6668ffb02beac36168ed]: Commencement: [Sch. 27 para. 30](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/30) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
+[^c-c7467c341a8b6668ffb02beac36168ed]: Commencement: [Sch. 27 para. 30](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/30) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
 
-[^key-057d5668a65c94713d67f08269d0bcac]: Commencement: [Sch. 27 para. 30](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/30) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-057d5668a65c94713d67f08269d0bcac]: Commencement: [Sch. 27 para. 30](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/30) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-4756688e448d3e6fe60518b85976e818]: Commencement: [Sch. 27 para. 30](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/30) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-4756688e448d3e6fe60518b85976e818]: Commencement: [Sch. 27 para. 30](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/30) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-cb226993da816cbb389cc00f75af3bb8]: Commencement: [Sch. 27 para. 31](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/31) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
+[^c-cb226993da816cbb389cc00f75af3bb8]: Commencement: [Sch. 27 para. 31](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/31) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
 
-[^key-375c4e0d6f4a9e1e36cba71f9449721d]: Commencement: [Sch. 27 para. 31](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/31) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-375c4e0d6f4a9e1e36cba71f9449721d]: Commencement: [Sch. 27 para. 31](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/31) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-dd284a3fe0ff0de8916ef79385b00857]: Commencement: [Sch. 27 para. 31](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/31) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-dd284a3fe0ff0de8916ef79385b00857]: Commencement: [Sch. 27 para. 31](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/31) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-fce75373d70c451569bbf177a07a0cf5]: Commencement: [Sch. 27 para. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/32) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
+[^c-fce75373d70c451569bbf177a07a0cf5]: Commencement: [Sch. 27 para. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/32) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
 
-[^key-47628bca4e09aa3b5a6e188acd30f208]: Commencement: [Sch. 27 para. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/32) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-47628bca4e09aa3b5a6e188acd30f208]: Commencement: [Sch. 27 para. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/32) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-1f5cc4b58646143bb9a501336c16db04]: Commencement: [Sch. 27 para. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/32) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-1f5cc4b58646143bb9a501336c16db04]: Commencement: [Sch. 27 para. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/32) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-33747aa7678a93b084115373e39dd615]: Commencement: [Sch. 27 para. 33](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/33) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
+[^c-33747aa7678a93b084115373e39dd615]: Commencement: [Sch. 27 para. 33](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/33) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
 
-[^key-3560cecfb81536f31e5a442dcb594c7e]: Commencement: [Sch. 27 para. 33](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/33) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-3560cecfb81536f31e5a442dcb594c7e]: Commencement: [Sch. 27 para. 33](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/33) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-2a77f192218472ea0cb6ad4705c976b4]: Commencement: [Sch. 27 para. 33](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/33) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-2a77f192218472ea0cb6ad4705c976b4]: Commencement: [Sch. 27 para. 33](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/33) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-27ec42f3fd40deee33668adb1f9b0a13]: Commencement: [Sch. 27 para. 34](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/34) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
+[^c-27ec42f3fd40deee33668adb1f9b0a13]: Commencement: [Sch. 27 para. 34](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/34) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
 
-[^key-43e9c011aeae6c94e809af9e222a3d79]: Commencement: [Sch. 27 para. 34](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/34) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-43e9c011aeae6c94e809af9e222a3d79]: Commencement: [Sch. 27 para. 34](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/34) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-50a1bc043a1719b664bc1fe61a6335ae]: Commencement: [Sch. 27 para. 34](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/34) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-50a1bc043a1719b664bc1fe61a6335ae]: Commencement: [Sch. 27 para. 34](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/34) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-6e5c9492e3097546b02771306b6e5387]: Commencement: [Sch. 27 para. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/35) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
+[^c-6e5c9492e3097546b02771306b6e5387]: Commencement: [Sch. 27 para. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/35) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(b)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/b)
 
-[^key-9d2f1419f440feb25549d7db4b87da2b]: Commencement: [Sch. 27 para. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/35) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-9d2f1419f440feb25549d7db4b87da2b]: Commencement: [Sch. 27 para. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/35) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-3326e28441fb447cb4528fcc7be53887]: Commencement: [Sch. 27 para. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/35) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-3326e28441fb447cb4528fcc7be53887]: Commencement: [Sch. 27 para. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/35) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-85ad32e041aeed1bd61f9c16461a44ae]: Commencement: [Sch. 27 para. 36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/36) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(c)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/c)
+[^c-85ad32e041aeed1bd61f9c16461a44ae]: Commencement: [Sch. 27 para. 36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/36) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(c)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/c)
 
-[^key-d8141dcfbbe4f8c21b7ceb72293b7d0e]: Commencement: [Sch. 27 para. 36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/36) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-d8141dcfbbe4f8c21b7ceb72293b7d0e]: Commencement: [Sch. 27 para. 36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/36) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-f4396e426560cdce30a05dee662a6bf4]: Commencement: [Sch. 27 para. 36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/36) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-f4396e426560cdce30a05dee662a6bf4]: Commencement: [Sch. 27 para. 36](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/36) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-999bfa52ce8716fa84813d92a8b33175]: Commencement: [Sch. 27 para. 37](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/37) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(d)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/d)
+[^c-999bfa52ce8716fa84813d92a8b33175]: Commencement: [Sch. 27 para. 37](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/37) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(d)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/d)
 
-[^key-70d7dc2820010e6985f0b3bd311d3d92]: Commencement: [Sch. 27 para. 37](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/37) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-70d7dc2820010e6985f0b3bd311d3d92]: Commencement: [Sch. 27 para. 37](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/37) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-557794331f826a01aa74a381ff40c8c5]: Commencement: [Sch. 27 para. 37](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/37) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-557794331f826a01aa74a381ff40c8c5]: Commencement: [Sch. 27 para. 37](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/37) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-6a9451c8ad2498759bdd780ae230f68b]: Commencement: [Sch. 27 para. 38](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/38) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(d)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/d)
+[^c-6a9451c8ad2498759bdd780ae230f68b]: Commencement: [Sch. 27 para. 38](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/38) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(d)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/d)
 
-[^key-9bd02749f9443eab6ce70681e6ae7aa6]: Commencement: [Sch. 27 para. 38](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/38) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-9bd02749f9443eab6ce70681e6ae7aa6]: Commencement: [Sch. 27 para. 38](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/38) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-df8813929f5f798ff57edc85b5c30d43]: Commencement: [Sch. 27 para. 38](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/38) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-df8813929f5f798ff57edc85b5c30d43]: Commencement: [Sch. 27 para. 38](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/38) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-11b9407706e694c66e0e9718686d5c65]: Commencement: [Sch. 27 para. 39](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/39) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-11b9407706e694c66e0e9718686d5c65]: Commencement: [Sch. 27 para. 39](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/39) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-ad6647574e67c8a923d1c7c6028aecef]: Commencement: [Sch. 27 para. 39](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/39) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-ad6647574e67c8a923d1c7c6028aecef]: Commencement: [Sch. 27 para. 39](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/39) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-a99fa2faad7803b62a8baa837d2d62c4]: Commencement: [Sch. 27 para. 40](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/40) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-a99fa2faad7803b62a8baa837d2d62c4]: Commencement: [Sch. 27 para. 40](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/40) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-f7c941ff7c8f840739ba167de38e0894]: Commencement: [Sch. 27 para. 40](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/40) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-f7c941ff7c8f840739ba167de38e0894]: Commencement: [Sch. 27 para. 40](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/40) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-2547d23285667a2a2d20517debecdf96]: Commencement: [Sch. 27 para. 41](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/41) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(e)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/e)
+[^c-2547d23285667a2a2d20517debecdf96]: Commencement: [Sch. 27 para. 41](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/41) in force at 1.1.2023 for specified purposes by [S.I. 2022/1278](https://www.legislation.gov.uk/uksi/2022/1278), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/3)[(4)(e)](https://www.legislation.gov.uk/uksi/2022/1278/regulation/2/4/e)
 
-[^key-f153da95fa73bc7fe854316b3c5f4689]: Commencement: [Sch. 27 para. 41](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/41) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-f153da95fa73bc7fe854316b3c5f4689]: Commencement: [Sch. 27 para. 41](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/41) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-1a9cd9794f0f3beb08ace1d24ac8d318]: Commencement: [Sch. 27 para. 41](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/41) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-1a9cd9794f0f3beb08ace1d24ac8d318]: Commencement: [Sch. 27 para. 41](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/41) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-6571148a8291c70da58ae06884d15a5d]: Commencement: [Sch. 27 para. 42](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/42) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-6571148a8291c70da58ae06884d15a5d]: Commencement: [Sch. 27 para. 42](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/42) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-912f229aef058943a719dde0543bb585]: Commencement: [Sch. 27 para. 42](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/42) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-912f229aef058943a719dde0543bb585]: Commencement: [Sch. 27 para. 42](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/42) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-5d37801e2a37ce26c56f5b0574177c12]: Commencement: [Sch. 27 para. 43](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/43) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-5d37801e2a37ce26c56f5b0574177c12]: Commencement: [Sch. 27 para. 43](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/43) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-46c7741a8409a6d6c113b204090e1811]: Commencement: [Sch. 27 para. 43](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/43) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-46c7741a8409a6d6c113b204090e1811]: Commencement: [Sch. 27 para. 43](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/43) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-943982f369cad6cbb5781d7414c2c491]: Commencement: [Sch. 27 para. 44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/44) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-943982f369cad6cbb5781d7414c2c491]: Commencement: [Sch. 27 para. 44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/44) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-4784f76daf634ee3ad8e710d44a270a6]: Commencement: [Sch. 27 para. 44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/44) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-4784f76daf634ee3ad8e710d44a270a6]: Commencement: [Sch. 27 para. 44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/44) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-9064d130f0916cda868aaddcaa649a5a]: Commencement: [Sch. 27 para. 45](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/45) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-9064d130f0916cda868aaddcaa649a5a]: Commencement: [Sch. 27 para. 45](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/45) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-0e29fd630154add5366ca2d7715478a7]: Commencement: [Sch. 27 para. 45](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/45) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-0e29fd630154add5366ca2d7715478a7]: Commencement: [Sch. 27 para. 45](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/45) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-1cbece4d8eb738d1ba60c8eaa258d18b]: Commencement: [Sch. 27 para. 46](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/46) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-1cbece4d8eb738d1ba60c8eaa258d18b]: Commencement: [Sch. 27 para. 46](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/46) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-32ee0ac09a4d157623e0db769839758f]: Commencement: [Sch. 27 para. 46](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/46) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-32ee0ac09a4d157623e0db769839758f]: Commencement: [Sch. 27 para. 46](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/46) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-612058adf2aea0a0895dd6e90012d2f8]: Commencement: [Sch. 27 para. 47](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-612058adf2aea0a0895dd6e90012d2f8]: Commencement: [Sch. 27 para. 47](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-19b1c078560e4459870fecad686c6cf9]: Commencement: [Sch. 27 para. 47](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-19b1c078560e4459870fecad686c6cf9]: Commencement: [Sch. 27 para. 47](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/47) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-b275ecdd92207155515766720bff4bee]: Commencement: [Sch. 27 para. 48](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-b275ecdd92207155515766720bff4bee]: Commencement: [Sch. 27 para. 48](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-69c4b6807f3c4e903f47be35d71fa720]: Commencement: [Sch. 27 para. 48](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-69c4b6807f3c4e903f47be35d71fa720]: Commencement: [Sch. 27 para. 48](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/48) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-84dec83c73425e8847b6d846b7bfeb60]: Commencement: [Sch. 27 para. 49](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/49) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-84dec83c73425e8847b6d846b7bfeb60]: Commencement: [Sch. 27 para. 49](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/49) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-a99fedd04f826a6a68104a1caae3d03b]: Commencement: [Sch. 27 para. 49](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/49) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-a99fedd04f826a6a68104a1caae3d03b]: Commencement: [Sch. 27 para. 49](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/49) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-603180d3d837866aa80c5a7d474445ad]: Commencement: [Sch. 27 para. 50](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/50) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-603180d3d837866aa80c5a7d474445ad]: Commencement: [Sch. 27 para. 50](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/50) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-d7e4823cff2f622966a4057bc1bac8ec]: Commencement: [Sch. 27 para. 50](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/50) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-d7e4823cff2f622966a4057bc1bac8ec]: Commencement: [Sch. 27 para. 50](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/50) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
 
-[^key-d6048944f42a158b858aae9a242e943b]: Commencement: [Sch. 27 para. 51](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/51) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
+[^c-d6048944f42a158b858aae9a242e943b]: Commencement: [Sch. 27 para. 51](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/51) in force at 6.4.2024 for specified purposes by [S.I. 2024/440](https://www.legislation.gov.uk/uksi/2024/440), [reg. 2](https://www.legislation.gov.uk/uksi/2024/440/regulation/2)
 
-[^key-f7868d19477e547b1b22fc79c8cd3d96]: Commencement: [Sch. 27 para. 51](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/51) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)
+[^c-f7868d19477e547b1b22fc79c8cd3d96]: Commencement: [Sch. 27 para. 51](https://www.legislation.gov.uk/ukpga/2021/26/schedule/27/paragraph/51) in force at 1.4.2026 for specified purposes by [S.I. 2026/370](https://www.legislation.gov.uk/uksi/2026/370), [reg. 3](https://www.legislation.gov.uk/uksi/2026/370/regulation/3)

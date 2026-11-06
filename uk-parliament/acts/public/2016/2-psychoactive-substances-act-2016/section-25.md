@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Access prohibitions: exemption from liability[^key-ab896310d9cbf22781c842071c9b760d]
+## 25. Access prohibitions: exemption from liability[^c-ab896310d9cbf22781c842071c9b760d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab896310d9cbf22781c842071c9b760d]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/2/section/25) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-ab896310d9cbf22781c842071c9b760d]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2016/2/section/25) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

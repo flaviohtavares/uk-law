@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129. Relevant offences and foreign offences[^key-6e407665eb6d7a5241cd80a5274a705d]
+## 129. Relevant offences and foreign offences[^c-6e407665eb6d7a5241cd80a5274a705d]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ as may be so specified.
 
 (4) For the purposes of this Act, a conviction for a relevant offence or a foreign offence is to be disregarded if it is spent for the purposes of the Rehabilitation of Offenders Act 1974 (c. 53).
 
-(5)[^key-bb65c33d863f2e5357bc68f6fd2626e2] For the purposes of the provisions of this Act specified in subsection (6), section 247(1) and (2) of the Criminal Procedure (Scotland) Act 1995 (c.46) (convictions deemed not to be convictions where offender placed on probation or discharged absolutely) does not apply to a conviction for a relevant offence.
+(5)[^c-bb65c33d863f2e5357bc68f6fd2626e2] For the purposes of the provisions of this Act specified in subsection (6), section 247(1) and (2) of the Criminal Procedure (Scotland) Act 1995 (c.46) (convictions deemed not to be convictions where offender placed on probation or discharged absolutely) does not apply to a conviction for a relevant offence.
 
 (6) Those provisions are—
 
@@ -59,6 +59,6 @@ as may be so specified.
 
 ## Annotations
 
-[^key-6e407665eb6d7a5241cd80a5274a705d]: Commencement: S. 129 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-6e407665eb6d7a5241cd80a5274a705d]: Commencement: S. 129 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
 
-[^key-bb65c33d863f2e5357bc68f6fd2626e2]: Textual amendment: S. 129(5)(6) added (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 24(5)](https://www.legislation.gov.uk/asp/2010/13/section/24/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-bb65c33d863f2e5357bc68f6fd2626e2]: Textual amendment: S. 129(5)(6) added (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 24(5)](https://www.legislation.gov.uk/asp/2010/13/section/24/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Review of contents[^key-8cd6a3da0d3dc03fad11c1f58c7cd7b4]
+## 7. Review of contents[^c-8cd6a3da0d3dc03fad11c1f58c7cd7b4]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The enforcing authority must, by 31st March in each year, review the contents of
 
 ## Annotations
 
-[^key-8cd6a3da0d3dc03fad11c1f58c7cd7b4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/282/regulation/7) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-8cd6a3da0d3dc03fad11c1f58c7cd7b4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2017/282/regulation/7) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

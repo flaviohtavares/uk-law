@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 126. Learner protection plans[^key-f20a3dbe160f0069789beb862546d317][^key-4b4da2775993cf4e2ff901d0876036ff]
+## 126. Learner protection plans[^c-f20a3dbe160f0069789beb862546d317][^c-4b4da2775993cf4e2ff901d0876036ff]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f20a3dbe160f0069789beb862546d317]: Commencement: S. 126 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-f20a3dbe160f0069789beb862546d317]: Commencement: S. 126 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-4b4da2775993cf4e2ff901d0876036ff]: Commencement: [S. 126](https://www.legislation.gov.uk/asc/2022/1/section/126) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ii)
+[^c-4b4da2775993cf4e2ff901d0876036ff]: Commencement: [S. 126](https://www.legislation.gov.uk/asc/2022/1/section/126) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ii)

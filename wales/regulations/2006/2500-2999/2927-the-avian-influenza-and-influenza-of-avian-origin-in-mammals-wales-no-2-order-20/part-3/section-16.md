@@ -25,10 +25,10 @@ In a notice served under article 13(b), the National Assembly must state if the 
 - (a) to all poultry and other captive birds on the premises;
 - (b) only to certain categories of poultry or other captive birds;
 - (c) only to poultry or other captive birds which it suspects are infected;
-- (ca)[^key-c35817e72806e8436f1270a88f2e2741] to all kept mammals at the premises;
+- (ca)[^c-c35817e72806e8436f1270a88f2e2741] to all kept mammals at the premises;
 - (cb) to specified kept mammals at the premises;
 - (d) to all or only a specified part of the premises.
 
 ## Annotations
 
-[^key-c35817e72806e8436f1270a88f2e2741]: Textual amendment: [Art. 16(ca)](https://www.legislation.gov.uk/wsi/2006/2927/article/16/ca)[(cb)](https://www.legislation.gov.uk/wsi/2006/2927/article/16/cb) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [14](https://www.legislation.gov.uk/wsi/2025/1357/article/14)
+[^c-c35817e72806e8436f1270a88f2e2741]: Textual amendment: [Art. 16(ca)](https://www.legislation.gov.uk/wsi/2006/2927/article/16/ca)[(cb)](https://www.legislation.gov.uk/wsi/2006/2927/article/16/cb) inserted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [14](https://www.legislation.gov.uk/wsi/2025/1357/article/14)

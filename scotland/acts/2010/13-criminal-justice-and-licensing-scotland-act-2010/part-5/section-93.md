@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Lists of jurors[^key-fcf73ac060bd8278a34c7767da65bb0e]
+## 93. Lists of jurors[^c-fcf73ac060bd8278a34c7767da65bb0e]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcf73ac060bd8278a34c7767da65bb0e]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2010/13/section/93) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-fcf73ac060bd8278a34c7767da65bb0e]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2010/13/section/93) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

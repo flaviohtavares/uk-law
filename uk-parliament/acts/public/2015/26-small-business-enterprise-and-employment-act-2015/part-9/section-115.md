@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Disqualification as insolvency practitioner: bankruptcy, etc in Scotland or Northern Ireland[^key-46ed9aaddff2fd053464e6fddace8685]
+## 115. Disqualification as insolvency practitioner: bankruptcy, etc in Scotland or Northern Ireland[^c-46ed9aaddff2fd053464e6fddace8685]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In section 390 of the Insolvency Act 1986 (persons not qualified to act as insol
 
 ## Annotations
 
-[^key-46ed9aaddff2fd053464e6fddace8685]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2015/26/section/115) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/13))
+[^c-46ed9aaddff2fd053464e6fddace8685]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2015/26/section/115) in force at 1.10.2015 by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/i) (with [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/13))

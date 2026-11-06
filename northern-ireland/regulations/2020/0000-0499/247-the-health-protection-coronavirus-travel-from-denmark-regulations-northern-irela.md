@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus, Travel from Denmark) Regulations (Northern Ireland) 2020 (revoked)[^key-60ae71dfebe2382c1b496584813523c5]
+The Health Protection (Coronavirus, Travel from Denmark) Regulations (Northern Ireland) 2020 (revoked)[^c-60ae71dfebe2382c1b496584813523c5]
 
 Made
 
@@ -40,36 +40,36 @@ Made
 
 Coming into operation in accordance with Regulation 1
 
-[^key-60ae71dfebe2382c1b496584813523c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60ae71dfebe2382c1b496584813523c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-60ae71dfebe2382c1b496584813523c5]
+## 1. Citation, commencement and interpretation[^c-60ae71dfebe2382c1b496584813523c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prohibition on the arrival of aircraft travelling directly from Denmark[^key-60ae71dfebe2382c1b496584813523c5]
+## 2. Prohibition on the arrival of aircraft travelling directly from Denmark[^c-60ae71dfebe2382c1b496584813523c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on the arrival of vessels travelling directly from Denmark[^key-60ae71dfebe2382c1b496584813523c5]
+## 3. Prohibition on the arrival of vessels travelling directly from Denmark[^c-60ae71dfebe2382c1b496584813523c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Offences and penalties[^key-60ae71dfebe2382c1b496584813523c5]
+## 4. Offences and penalties[^c-60ae71dfebe2382c1b496584813523c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provision[^key-60ae71dfebe2382c1b496584813523c5]
+## 5. Transitional provision[^c-60ae71dfebe2382c1b496584813523c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60ae71dfebe2382c1b496584813523c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60ae71dfebe2382c1b496584813523c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-60ae71dfebe2382c1b496584813523c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60ae71dfebe2382c1b496584813523c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60ae71dfebe2382c1b496584813523c5]: Textual amendment: Regulations revoked (28.11.2020) by [The Health Protection (Coronavirus, Travel from Denmark) (Revocation) Regulations (Northern Ireland) 2020 (S.R. 2020/288)](https://www.legislation.gov.uk/nisr/2020/288), [regs. 1](https://www.legislation.gov.uk/nisr/2020/288/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/288/regulation/2/a)
+[^c-60ae71dfebe2382c1b496584813523c5]: Textual amendment: Regulations revoked (28.11.2020) by [The Health Protection (Coronavirus, Travel from Denmark) (Revocation) Regulations (Northern Ireland) 2020 (S.R. 2020/288)](https://www.legislation.gov.uk/nisr/2020/288), [regs. 1](https://www.legislation.gov.uk/nisr/2020/288/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/288/regulation/2/a)

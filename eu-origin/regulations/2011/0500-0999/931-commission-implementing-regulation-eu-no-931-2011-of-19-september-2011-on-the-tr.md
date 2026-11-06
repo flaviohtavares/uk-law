@@ -94,7 +94,7 @@ This Regulation lays down provisions implementing the traceability requirements 
 - (g) a reference identifying the lot, batch or consignment, as appropriate; and
 - (h) the date of dispatch.
 
-2. The information referred to in paragraph 1 shall be made available in addition to any information required under relevant provisions of [^key-274e9675810e1bdeb42acae4254280a6]... legislation concerning the traceability of food of animal origin.
+2. The information referred to in paragraph 1 shall be made available in addition to any information required under relevant provisions of [^c-274e9675810e1bdeb42acae4254280a6]... legislation concerning the traceability of food of animal origin.
 
 3. The information referred to in paragraph 1 shall be updated on a daily basis and kept at least available until it can be reasonably assumed that the food has been consumed.
 
@@ -104,7 +104,7 @@ When requested by the competent authority, the food business operator shall prov
 
 It shall apply from 1 July 2012.
 
-[^key-76fc27a9ce5a6b1b70651583aa7f5ddd]...
+[^c-76fc27a9ce5a6b1b70651583aa7f5ddd]...
 
 Done at Brussels, 19 September 2011.
 
@@ -124,6 +124,6 @@ José Manuel Barroso
 
 [^f00004]: Footnote: [OJ L 139, 30.4.2004, p. 206](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0206.01.ENG).
 
-[^key-274e9675810e1bdeb42acae4254280a6]: Textual amendment: Word in [Art. 3(2)](https://www.legislation.gov.uk/eur/2011/931/article/3/2) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [24](https://www.legislation.gov.uk/uksi/2019/641/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-274e9675810e1bdeb42acae4254280a6]: Textual amendment: Word in [Art. 3(2)](https://www.legislation.gov.uk/eur/2011/931/article/3/2) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [24](https://www.legislation.gov.uk/uksi/2019/641/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-76fc27a9ce5a6b1b70651583aa7f5ddd]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/931/signature) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [25](https://www.legislation.gov.uk/uksi/2019/641/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76fc27a9ce5a6b1b70651583aa7f5ddd]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/931/signature) omitted (31.12.2020) by virtue of [The General Food Law (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/641)](https://www.legislation.gov.uk/uksi/2019/641), [regs. 1](https://www.legislation.gov.uk/uksi/2019/641/regulation/1), [25](https://www.legislation.gov.uk/uksi/2019/641/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

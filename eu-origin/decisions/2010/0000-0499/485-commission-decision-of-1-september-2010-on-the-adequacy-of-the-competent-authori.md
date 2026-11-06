@@ -39,18 +39,18 @@ on the adequacy of the competent authorities of Australia and the United States 
 
 (2010/485/EU) (revoked)
 
-[^key-b39bd22bfadaf78d4034bdac8947b455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b39bd22bfadaf78d4034bdac8947b455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b39bd22bfadaf78d4034bdac8947b455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b39bd22bfadaf78d4034bdac8947b455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b39bd22bfadaf78d4034bdac8947b455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b39bd22bfadaf78d4034bdac8947b455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b39bd22bfadaf78d4034bdac8947b455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b39bd22bfadaf78d4034bdac8947b455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-b39bd22bfadaf78d4034bdac8947b455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-b39bd22bfadaf78d4034bdac8947b455] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b39bd22bfadaf78d4034bdac8947b455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b39bd22bfadaf78d4034bdac8947b455]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b39bd22bfadaf78d4034bdac8947b455]: Textual amendment: Decision revoked (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [reg. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2019/177/schedule/3/paragraph/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b39bd22bfadaf78d4034bdac8947b455]: Textual amendment: Decision revoked (31.12.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [reg. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2019/177/schedule/3/paragraph/1/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

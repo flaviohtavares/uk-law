@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 7 — Revocations[^key-a576f8f82a98e1b449f64f9e91fb7465]
+## SCHEDULE 7 — Revocations[^c-a576f8f82a98e1b449f64f9e91fb7465]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ Byelaw 3
 
 ## Annotations
 
-[^key-a576f8f82a98e1b449f64f9e91fb7465]: Commencement: Sch. 7 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)
+[^c-a576f8f82a98e1b449f64f9e91fb7465]: Commencement: Sch. 7 in operation at 1.11.1997, see [s. 1](https://www.legislation.gov.uk/nisr/1997/425/section/1)

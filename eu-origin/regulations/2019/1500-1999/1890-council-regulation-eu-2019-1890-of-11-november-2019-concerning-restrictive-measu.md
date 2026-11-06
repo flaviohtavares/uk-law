@@ -36,161 +36,161 @@ of 11 November 2019
 
 concerning restrictive measures in view of Turkey’s unauthorised drilling activities in the Eastern Mediterranean (revoked)
 
-[^key-667d23288883dc2d30350b7e5c58e991]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-667d23288883dc2d30350b7e5c58e991]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 17.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.**[^key-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.**[^c-667d23288883dc2d30350b7e5c58e991] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-667d23288883dc2d30350b7e5c58e991]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 2[^key-667d23288883dc2d30350b7e5c58e991]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II — WEBSITES FOR INFORMATION ON THE COMPETENT AUTHORITIES AND ADDRESS FOR NOTIFICATIONS TO THE COMMISSION[^key-667d23288883dc2d30350b7e5c58e991]
-
-[^key-667d23288883dc2d30350b7e5c58e991]BELGIUM
+## ANNEX I — LIST OF NATURAL AND LEGAL PERSONS, ENTITIES AND BODIES REFERRED TO IN ARTICLE 2[^c-667d23288883dc2d30350b7e5c58e991]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]BULGARIA
+## ANNEX II — WEBSITES FOR INFORMATION ON THE COMPETENT AUTHORITIES AND ADDRESS FOR NOTIFICATIONS TO THE COMMISSION[^c-667d23288883dc2d30350b7e5c58e991]
+
+[^c-667d23288883dc2d30350b7e5c58e991]BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]CZECHIA
+[^c-667d23288883dc2d30350b7e5c58e991]BULGARIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]DENMARK
+[^c-667d23288883dc2d30350b7e5c58e991]CZECHIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]GERMANY
+[^c-667d23288883dc2d30350b7e5c58e991]DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]ESTONIA
+[^c-667d23288883dc2d30350b7e5c58e991]GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]IRELAND
+[^c-667d23288883dc2d30350b7e5c58e991]ESTONIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]GREECE
+[^c-667d23288883dc2d30350b7e5c58e991]IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]SPAIN
+[^c-667d23288883dc2d30350b7e5c58e991]GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]FRANCE
+[^c-667d23288883dc2d30350b7e5c58e991]SPAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]CROATIA
+[^c-667d23288883dc2d30350b7e5c58e991]FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]ITALY
+[^c-667d23288883dc2d30350b7e5c58e991]CROATIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]CYPRUS
+[^c-667d23288883dc2d30350b7e5c58e991]ITALY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]LATVIA
+[^c-667d23288883dc2d30350b7e5c58e991]CYPRUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]LITHUANIA
+[^c-667d23288883dc2d30350b7e5c58e991]LATVIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]LUXEMBOURG
+[^c-667d23288883dc2d30350b7e5c58e991]LITHUANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]HUNGARY
+[^c-667d23288883dc2d30350b7e5c58e991]LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]MALTA
+[^c-667d23288883dc2d30350b7e5c58e991]HUNGARY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]NETHERLANDS
+[^c-667d23288883dc2d30350b7e5c58e991]MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]AUSTRIA
+[^c-667d23288883dc2d30350b7e5c58e991]NETHERLANDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]POLAND
+[^c-667d23288883dc2d30350b7e5c58e991]AUSTRIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]PORTUGAL
+[^c-667d23288883dc2d30350b7e5c58e991]POLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]ROMANIA
+[^c-667d23288883dc2d30350b7e5c58e991]PORTUGAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]SLOVENIA
+[^c-667d23288883dc2d30350b7e5c58e991]ROMANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]SLOVAKIA
+[^c-667d23288883dc2d30350b7e5c58e991]SLOVENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]FINLAND
+[^c-667d23288883dc2d30350b7e5c58e991]SLOVAKIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]SWEDEN
+[^c-667d23288883dc2d30350b7e5c58e991]FINLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-667d23288883dc2d30350b7e5c58e991]UNITED KINGDOM
+[^c-667d23288883dc2d30350b7e5c58e991]SWEDEN
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-667d23288883dc2d30350b7e5c58e991]UNITED KINGDOM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -202,4 +202,4 @@ concerning restrictive measures in view of Turkey’s unauthorised drilling acti
 
 ## Annotations
 
-[^key-667d23288883dc2d30350b7e5c58e991]: Textual amendment: Regulation revoked (31.12.2020) by The Unauthorised Drilling Activities in the [Eastern Mediterranean (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/1474)](https://www.legislation.gov.uk/uksi/2020/1474), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1474/regulation/1/2), [38(1)](https://www.legislation.gov.uk/uksi/2020/1474/regulation/38/1)
+[^c-667d23288883dc2d30350b7e5c58e991]: Textual amendment: Regulation revoked (31.12.2020) by The Unauthorised Drilling Activities in the [Eastern Mediterranean (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/1474)](https://www.legislation.gov.uk/uksi/2020/1474), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1474/regulation/1/2), [38(1)](https://www.legislation.gov.uk/uksi/2020/1474/regulation/38/1)

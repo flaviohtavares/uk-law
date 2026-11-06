@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.45.10. Form of applications relating to incoming protection measures[^key-47f4241d0e20fb75f53bfb61ae0bf88c]
+## 3.45.10. Form of applications relating to incoming protection measures[^c-47f4241d0e20fb75f53bfb61ae0bf88c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47f4241d0e20fb75f53bfb61ae0bf88c]: Textual amendment: [Ch. 3 Pt. 45](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/45) inserted (11.1.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Mutual Recognition of Protection Measures) 2014 (S.S.I. 2014/371)](https://www.legislation.gov.uk/ssi/2014/371), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/4/2)
+[^c-47f4241d0e20fb75f53bfb61ae0bf88c]: Textual amendment: [Ch. 3 Pt. 45](https://www.legislation.gov.uk/uksi/1999/929/chapter/3/part/45) inserted (11.1.2015) by [Act of Sederunt (Rules of the Court of Session and Sheriff Court Rules Amendment No. 3) (Mutual Recognition of Protection Measures) 2014 (S.S.I. 2014/371)](https://www.legislation.gov.uk/ssi/2014/371), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2014/371/paragraph/4/2)

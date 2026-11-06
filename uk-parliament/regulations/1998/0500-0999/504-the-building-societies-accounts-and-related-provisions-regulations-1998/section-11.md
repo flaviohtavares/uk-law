@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Interpretation of Schedules[^key-12457dd541310d01479133da877cf8d6]
+## 11. Interpretation of Schedules[^c-12457dd541310d01479133da877cf8d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 11 shall have effect for the interpretation of the Schedules to these R
 
 ## Annotations
 
-[^key-12457dd541310d01479133da877cf8d6]: Commencement: Reg. 11 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)
+[^c-12457dd541310d01479133da877cf8d6]: Commencement: Reg. 11 in force at 27.3.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/504/regulation/1)

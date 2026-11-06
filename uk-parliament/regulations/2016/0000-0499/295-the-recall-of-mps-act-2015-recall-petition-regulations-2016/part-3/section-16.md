@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Allotment of petition signing places[^key-3ff173b884896e85789394f5d40d7f9c]
+## 16. Allotment of petition signing places[^c-3ff173b884896e85789394f5d40d7f9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The petition officer must allot a petition signing place to each person entitled
 
 ## Annotations
 
-[^key-3ff173b884896e85789394f5d40d7f9c]: Commencement: Reg. 16 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-3ff173b884896e85789394f5d40d7f9c]: Commencement: Reg. 16 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

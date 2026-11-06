@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261D. Treating excess post-cessation trade or property relief as CGT loss[^key-114e475e441da9bc64e129ef09833188]
+## 261D. Treating excess post-cessation trade or property relief as CGT loss[^c-114e475e441da9bc64e129ef09833188]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-114e475e441da9bc64e129ef09833188]: Textual amendment: Ss. 261B-261E and cross-heading inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 329](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/329) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-114e475e441da9bc64e129ef09833188]: Textual amendment: Ss. 261B-261E and cross-heading inserted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 329](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/329) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

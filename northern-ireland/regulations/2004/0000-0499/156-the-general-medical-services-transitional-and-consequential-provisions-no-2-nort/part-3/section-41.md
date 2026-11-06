@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Application and interpretation of this Part[^key-39118109d277bac6509e133c09591201]
+## 41. Application and interpretation of this Part[^c-39118109d277bac6509e133c09591201]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39118109d277bac6509e133c09591201]: Commencement: Art. 41 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-39118109d277bac6509e133c09591201]: Commencement: Art. 41 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

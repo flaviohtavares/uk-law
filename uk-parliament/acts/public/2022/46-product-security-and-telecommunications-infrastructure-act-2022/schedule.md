@@ -24,16 +24,16 @@ summary: ''
 
 Section 67
 
-**1.**[^key-cd2467109c440109875424eb4412b369] The Communications Act 2003 is amended as follows.
+**1.**[^c-cd2467109c440109875424eb4412b369] The Communications Act 2003 is amended as follows.
 
-**2.**[^key-c8c7fec9f2b14b2792e011559951ae85] In section 402 (powers of Secretary of State to make orders and regulations), in subsection (2A), before paragraph (a) insert—
+**2.**[^c-c8c7fec9f2b14b2792e011559951ae85] In section 402 (powers of Secretary of State to make orders and regulations), in subsection (2A), before paragraph (a) insert—
 
 > - (za) regulations under paragraph 27ZC(3)(b) of Schedule 3A;
 > - (zb) regulations under paragraph 27ZF(4) of Schedule 3A;
 
 .
 
-**3.**[^key-3b67b708882f9dc8f0cb401fac23d355] (1) Schedule 3A (the electronic communications code) is amended as follows.
+**3.**[^c-3b67b708882f9dc8f0cb401fac23d355] (1) Schedule 3A (the electronic communications code) is amended as follows.
 
 (2) In paragraph 10 (persons bound by code rights)—
 
@@ -99,8 +99,8 @@ Section 67
 
 ## Annotations
 
-[^key-cd2467109c440109875424eb4412b369]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-cd2467109c440109875424eb4412b369]: Commencement: Sch. para. 1 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-c8c7fec9f2b14b2792e011559951ae85]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-c8c7fec9f2b14b2792e011559951ae85]: Commencement: Sch. para. 2 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-3b67b708882f9dc8f0cb401fac23d355]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-3b67b708882f9dc8f0cb401fac23d355]: Commencement: Sch. para. 3 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)

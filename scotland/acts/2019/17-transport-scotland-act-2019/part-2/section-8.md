@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Enforcement[^key-79fe10fefebb5f442c9227555b583d77]
+## 8. Enforcement[^c-79fe10fefebb5f442c9227555b583d77]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79fe10fefebb5f442c9227555b583d77]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/17/section/8) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-79fe10fefebb5f442c9227555b583d77]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2019/17/section/8) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

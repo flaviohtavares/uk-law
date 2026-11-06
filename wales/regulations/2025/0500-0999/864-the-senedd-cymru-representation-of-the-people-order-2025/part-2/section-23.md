@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Payments by and to returning officer[^key-6366870debe9a57b324dcba51185cbeb]
+## 23. Payments by and to returning officer[^c-6366870debe9a57b324dcba51185cbeb]
 
 *Extent: E+W*
 
@@ -59,6 +59,6 @@ as the Welsh Ministers may determine.
 
 ## Annotations
 
-[^key-6366870debe9a57b324dcba51185cbeb]: Commencement: Art. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-6366870debe9a57b324dcba51185cbeb]: Commencement: Art. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00042]: Footnote: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36). Section 1 was amended by paragraph 2 of Schedule 12 to the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) and paragraph 2 of Schedule 10 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).

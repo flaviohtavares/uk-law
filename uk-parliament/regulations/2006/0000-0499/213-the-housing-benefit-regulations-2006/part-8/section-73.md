@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Extended payments (severe disablement allowance and incapacity benefit)[^key-32e0289911c86f76cf16a930b6d27bc6]
+## 73. Extended payments (severe disablement allowance and incapacity benefit)[^c-32e0289911c86f76cf16a930b6d27bc6]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32e0289911c86f76cf16a930b6d27bc6]: Textual amendment: Regs. 73A-73D substituted for (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/3/2)
+[^c-32e0289911c86f76cf16a930b6d27bc6]: Textual amendment: Regs. 73A-73D substituted for (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/3/2)

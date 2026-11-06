@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Role of the Board and clinical commissioning groups in respect of emergencies[^key-198c8474395c9f390bb79b366a45b532]
+## 46. Role of the Board and clinical commissioning groups in respect of emergencies[^c-198c8474395c9f390bb79b366a45b532]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ For the cross-heading preceding section 253 of the National Health Service Act 2
 
 ## Annotations
 
-[^key-198c8474395c9f390bb79b366a45b532]: Commencement: S. 46 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-198c8474395c9f390bb79b366a45b532]: Commencement: S. 46 in force at 1.4.2013 by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

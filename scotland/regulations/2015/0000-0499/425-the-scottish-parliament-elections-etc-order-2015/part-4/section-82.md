@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Application of certain provisions for Scottish parliamentary elections[^key-862297ceeeaef7b4b26084af1099480e]
+## 82. Application of certain provisions for Scottish parliamentary elections[^c-862297ceeeaef7b4b26084af1099480e]
 
 *Extent: S*
 
@@ -39,7 +39,7 @@ for the purposes of a Scottish parliamentary election but only in relation to th
 (3) Unless the context otherwise requires, in the provisions applied by Schedule 6—
 
 - (a) any provision relating to a local government election or local government electors and associated references (including a reference to a petition questioning an election under the Local Governance (Scotland) Act 2004[^f00048]) shall be disregarded;
-- (b) any reference to a parliamentary election shall be construed as a reference to a Scottish parliamentary election [^key-0ceec09c72cc0542f978523e55835b2e]... and any reference to a general election shall accordingly be construed as a reference to a Scottish parliamentary general election;
+- (b) any reference to a parliamentary election shall be construed as a reference to a Scottish parliamentary election [^c-0ceec09c72cc0542f978523e55835b2e]... and any reference to a general election shall accordingly be construed as a reference to a Scottish parliamentary general election;
 - (c) any reference to a constituency (or parliamentary constituency) shall be construed—
   - (i) in relation to any election or return of a constituency member, as a reference to a Scottish parliamentary constituency;
   - (ii) in relation to any election or return of a regional member, as a reference to a region;
@@ -60,8 +60,8 @@ for the purposes of a Scottish parliamentary election but only in relation to th
 
 ## Annotations
 
-[^key-862297ceeeaef7b4b26084af1099480e]: Commencement: Art. 82 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-862297ceeeaef7b4b26084af1099480e]: Commencement: Art. 82 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00048]: Footnote: [2004 asp 9](https://www.legislation.gov.uk/asp/2004/9).
 
-[^key-0ceec09c72cc0542f978523e55835b2e]: Textual amendment: Words in [art. 82(3)(b)](https://www.legislation.gov.uk/ssi/2015/425/article/82/3/b) omitted (11.12.2020) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [12](https://www.legislation.gov.uk/ssi/2020/426/article/12) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-0ceec09c72cc0542f978523e55835b2e]: Textual amendment: Words in [art. 82(3)(b)](https://www.legislation.gov.uk/ssi/2015/425/article/82/3/b) omitted (11.12.2020) by virtue of [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [12](https://www.legislation.gov.uk/ssi/2020/426/article/12) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))

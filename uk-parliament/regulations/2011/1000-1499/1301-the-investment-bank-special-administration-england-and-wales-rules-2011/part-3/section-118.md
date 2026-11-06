@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Information from administrator[^key-420183d4ba0886b6141e2a4ffd21d503]
+## 118. Information from administrator[^c-420183d4ba0886b6141e2a4ffd21d503]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The meeting at which the administrator’s attendance is required shall be fixed by the committee for a business day, and shall be held at such time and place as the administrator determines.
 
-(4) The administrator shall notify the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-fae18fe03936725a07062fd2c9279df1] of the time and place of the meeting.
+(4) The administrator shall notify the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-fae18fe03936725a07062fd2c9279df1] of the time and place of the meeting.
 
 (5) In a special administration (bank administration), if the meeting is to be held before the Bank of England has given the Objective A Achievement Notice, the Bank of England shall be given the notice in paragraph (4).
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-420183d4ba0886b6141e2a4ffd21d503]: Commencement: [Rule 118](https://www.legislation.gov.uk/uksi/2011/1301/rule/118) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-420183d4ba0886b6141e2a4ffd21d503]: Commencement: [Rule 118](https://www.legislation.gov.uk/uksi/2011/1301/rule/118) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-fae18fe03936725a07062fd2c9279df1]: Textual amendment: Words in [art. 118(4)](https://www.legislation.gov.uk/uksi/2011/1301/article/118/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-fae18fe03936725a07062fd2c9279df1]: Textual amendment: Words in [art. 118(4)](https://www.legislation.gov.uk/uksi/2011/1301/article/118/4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

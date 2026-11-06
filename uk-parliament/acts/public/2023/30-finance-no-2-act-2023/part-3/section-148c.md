@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148C. Value of marketable transferable tax credits: purchaser[^key-7b13fbf63f2f445d93df17aac512ca41]
+## 148C. Value of marketable transferable tax credits: purchaser[^c-7b13fbf63f2f445d93df17aac512ca41]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b13fbf63f2f445d93df17aac512ca41]: Textual amendment: Ss. 148A-148C inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/3)
+[^c-7b13fbf63f2f445d93df17aac512ca41]: Textual amendment: Ss. 148A-148C inserted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 8(3)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/8/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 61D. Suspension of a priest or deacon under section 36A of the Measure[^key-2049ec53de4817a32fd749d770b0d7c2]
+## 61D. Suspension of a priest or deacon under section 36A of the Measure[^c-2049ec53de4817a32fd749d770b0d7c2]
 
 *Extent: E*
 
@@ -25,21 +25,21 @@ summary: ''
 (2) Before exercising the power of suspension, the bishop must refer the matter to the registrar for written advice on—
 
 - (a) whether the complainant has a proper interest in instituting the proceedings,
-- (b) whether there is sufficient substance in the allegation of misconduct[^key-de1003c4535219c59b592304bf405725] to justify proceeding with it in accordance with the Measure, and
+- (b) whether there is sufficient substance in the allegation of misconduct[^c-de1003c4535219c59b592304bf405725] to justify proceeding with it in accordance with the Measure, and
 - (c) whether the suspension is necessary in all the circumstances of the case,
 
 and the bishop must have regard to the registrar’s report in deciding whether to exercise the power of suspension.
 
-(3) A notice suspending a priest or deacon under paragraph[^key-90b266f712d96ec42b936c45f6a4f59f] (1) shall be in form 17a in the Schedule [^key-aceedf37603d39e7e59190d710aeedf7]... and may specify any rights or duties which by leave of the bishop are not suspended.
+(3) A notice suspending a priest or deacon under paragraph[^c-90b266f712d96ec42b936c45f6a4f59f] (1) shall be in form 17a in the Schedule [^c-aceedf37603d39e7e59190d710aeedf7]... and may specify any rights or duties which by leave of the bishop are not suspended.
 
 (4) A copy of the registrar’s report shall be served by the bishop on the priest or deacon at the same time as the notice of suspension.
 
 ## Annotations
 
-[^key-2049ec53de4817a32fd749d770b0d7c2]: Textual amendment: Rules 61C, 61D inserted (1.1.2017) by [The Clergy Discipline (Amendment) Rules 2016 (S.I. 2016/848)](https://www.legislation.gov.uk/uksi/2016/848), [rules 7](https://www.legislation.gov.uk/uksi/2016/848/rule/7), [20(2)](https://www.legislation.gov.uk/uksi/2016/848/rule/20/2)
+[^c-2049ec53de4817a32fd749d770b0d7c2]: Textual amendment: Rules 61C, 61D inserted (1.1.2017) by [The Clergy Discipline (Amendment) Rules 2016 (S.I. 2016/848)](https://www.legislation.gov.uk/uksi/2016/848), [rules 7](https://www.legislation.gov.uk/uksi/2016/848/rule/7), [20(2)](https://www.legislation.gov.uk/uksi/2016/848/rule/20/2)
 
-[^key-de1003c4535219c59b592304bf405725]: Textual amendment: Words in rule 61D(2)(b) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-de1003c4535219c59b592304bf405725]: Textual amendment: Words in rule 61D(2)(b) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
 
-[^key-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)
+[^c-90b266f712d96ec42b936c45f6a4f59f]: Textual amendment: Word in Rules substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2021/557/rule/14/a)
 
-[^key-aceedf37603d39e7e59190d710aeedf7]: Textual amendment: Words in rule 61D(3) omitted (13.7.2021) by virtue of [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [13(7)](https://www.legislation.gov.uk/uksi/2021/557/rule/13/7)
+[^c-aceedf37603d39e7e59190d710aeedf7]: Textual amendment: Words in rule 61D(3) omitted (13.7.2021) by virtue of [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [13(7)](https://www.legislation.gov.uk/uksi/2021/557/rule/13/7)

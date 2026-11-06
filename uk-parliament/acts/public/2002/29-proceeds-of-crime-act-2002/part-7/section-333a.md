@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333A. Tipping off: regulated sector[^key-6888bca757be8d743fd645a569d5cd95]
+## 333A. Tipping off: regulated sector[^c-6888bca757be8d743fd645a569d5cd95]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a) to a constable,
 - (b) to an officer of Revenue and Customs,
 - (c) to a nominated officer, or
-- (d) to a National Crime Agency officer[^key-fb6812ae719fba54f18aa7d75bd99f57] authorised for the purposes of this Part by the Director General of that Agency,
+- (d) to a National Crime Agency officer[^c-fb6812ae719fba54f18aa7d75bd99f57] authorised for the purposes of this Part by the Director General of that Agency,
 
   of information that came to that person in the course of a business in the regulated sector.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6888bca757be8d743fd645a569d5cd95]: Textual amendment: Ss. 333A-333E inserted (26.12.2007) by [Terrorism Act 2000 and Proceeds of Crime Act 2002 (Amendment) Regulations 2007 (S.I. 2007/3398)](https://www.legislation.gov.uk/uksi/2007/3398), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2007/3398/schedule/2/paragraph/4)
+[^c-6888bca757be8d743fd645a569d5cd95]: Textual amendment: Ss. 333A-333E inserted (26.12.2007) by [Terrorism Act 2000 and Proceeds of Crime Act 2002 (Amendment) Regulations 2007 (S.I. 2007/3398)](https://www.legislation.gov.uk/uksi/2007/3398), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/3398/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2007/3398/schedule/2/paragraph/4)
 
-[^key-fb6812ae719fba54f18aa7d75bd99f57]: Textual amendment: Words in s. 333A(2)(d) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 132](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/132); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-fb6812ae719fba54f18aa7d75bd99f57]: Textual amendment: Words in s. 333A(2)(d) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 132](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/132); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

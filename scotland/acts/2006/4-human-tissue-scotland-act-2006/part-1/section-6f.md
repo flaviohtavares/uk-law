@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6F. Adult incapable of understanding deemed authorisation: authorisation for transplantation by nearest relative[^key-cdb0a3173be13aeb484d1383a25a177b]
+## 6F. Adult incapable of understanding deemed authorisation: authorisation for transplantation by nearest relative[^c-cdb0a3173be13aeb484d1383a25a177b]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdb0a3173be13aeb484d1383a25a177b]: Textual amendment: S. 6F inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 9](https://www.legislation.gov.uk/asp/2019/11/section/9), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-cdb0a3173be13aeb484d1383a25a177b]: Textual amendment: S. 6F inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 9](https://www.legislation.gov.uk/asp/2019/11/section/9), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

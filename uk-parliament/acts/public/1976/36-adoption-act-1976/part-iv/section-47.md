@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Miscellaneous enactments.[^key-666cf8d946697de9ff27d95d07351d9e][^key-1ff0b20c9e4b32226d0de818f5c19ff1]
+## 47. Miscellaneous enactments.[^c-666cf8d946697de9ff27d95d07351d9e][^c-1ff0b20c9e4b32226d0de818f5c19ff1]
 
 *Extent: E+W*
 
-(1) Section 39 does not apply for the purposes of section 1 of and Schedule 1 to the Marriage Act 1949 or Schedule 1 to the Civil Partnership Act 2004 (prohibited degrees of kindred and affinity),[^key-6357e1ad565e97c813611f73f25da08d] or sections 64 and 65 of the Sexual Offences Act 2003 (sex with an adult relative)[^key-f06d893815888d5662e828f045cb93c9].
+(1) Section 39 does not apply for the purposes of section 1 of and Schedule 1 to the Marriage Act 1949 or Schedule 1 to the Civil Partnership Act 2004 (prohibited degrees of kindred and affinity),[^c-6357e1ad565e97c813611f73f25da08d] or sections 64 and 65 of the Sexual Offences Act 2003 (sex with an adult relative)[^c-f06d893815888d5662e828f045cb93c9].
 
 (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c13482261] section 39 does not apply for the purposes of any provision of—
 
@@ -35,13 +35,13 @@ summary: ''
 
 ## Annotations
 
-[^key-666cf8d946697de9ff27d95d07351d9e]: Modification: S. 47 restricted by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 64(6)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/64/6/a) (as inserted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(2)(e)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e), [Sch. 15 para. 5(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/5/5))
+[^c-666cf8d946697de9ff27d95d07351d9e]: Modification: S. 47 restricted by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 64(6)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/64/6/a) (as inserted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(2)(e)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e), [Sch. 15 para. 5(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/5/5))
 
-[^key-1ff0b20c9e4b32226d0de818f5c19ff1]: Modification: S. 47 restricted by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 65(6)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/65/6/a) (as inserted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(2)(e)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e), [Sch. 15 para. 6(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/6/5))
+[^c-1ff0b20c9e4b32226d0de818f5c19ff1]: Modification: S. 47 restricted by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 65(6)(a)](https://www.legislation.gov.uk/ukpga/2003/42/section/65/6/a) (as inserted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(2)(e)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e), [Sch. 15 para. 6(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/6/5))
 
-[^key-6357e1ad565e97c813611f73f25da08d]: Textual amendment: Words in s. 47(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2005/3129/schedule/4/paragraph/3)
+[^c-6357e1ad565e97c813611f73f25da08d]: Textual amendment: Words in s. 47(1) substituted (5.12.2005) by [Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2005/3129/schedule/4/paragraph/3)
 
-[^key-f06d893815888d5662e828f045cb93c9]: Textual amendment: Words in s. 47(1) substituted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(2)(e)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/7)
+[^c-f06d893815888d5662e828f045cb93c9]: Textual amendment: Words in s. 47(1) substituted (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(2)(e)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/e), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/15/paragraph/7)
 
 [^c13482261]: Textual amendment: Words repealed by [British Nationality Act 1981 (c. 61, SIF 87)](https://www.legislation.gov.uk/ukpga/1981/61), [s. 52(8)](https://www.legislation.gov.uk/ukpga/1981/61/section/52/8), [Sch. 9](https://www.legislation.gov.uk/ukpga/1981/61/schedule/9)
 

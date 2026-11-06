@@ -22,18 +22,18 @@ summary: ''
 
 Article 21
 
-### 1. Compensation enactments[^key-90250256c4c99ffcdb72ba6649213cfa]
+### 1. Compensation enactments[^c-90250256c4c99ffcdb72ba6649213cfa]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land are to apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right by the creation of a new right as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-8933baeb8657f1768c73f4eeb543cdf1] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00034] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-8933baeb8657f1768c73f4eeb543cdf1] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00034] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 (measure of compensation in case of severance) of the 1965 Act as substituted by paragraph 5—
 
 - (a) for “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-**3.**[^key-91107b8030d326fa6c5667cb2a9c7d23] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**3.**[^c-91107b8030d326fa6c5667cb2a9c7d23] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) In section 5A(5A) (relevant valuation date), omit the words after “if—” and substitute—
 
@@ -45,14 +45,14 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 4. Application of Part 1 of the 1965 Act[^key-215c65a5952686e2bd65aa274ce543a7]
+### 4. Application of Part 1 of the 1965 Act[^c-215c65a5952686e2bd65aa274ce543a7]
 
 Part 1 (compulsory purchase under Acquisition of Land Act 1946) of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act to the acquisition of land under article 18 (compulsory acquisition of land) and as modified by article 23 (modification of Part 1 of the 1965 Act), applies to the compulsory acquisition of a right by the creation of a new right under article 21 (compulsory acquisition of rights)—
 
 - (a) with the modifications specified in paragraph 5; and
 - (b) with such other modifications as may be necessary.
 
-**5.**[^key-429f49eeb6932b897b6e158be2597887] (1) The modifications referred to in paragraph 4(a) are as follows—
+**5.**[^c-429f49eeb6932b897b6e158be2597887] (1) The modifications referred to in paragraph 4(a) are as follows—
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -141,17 +141,17 @@ are modified to secure that, as against persons with interests in the land which
 
 ## Annotations
 
-[^key-90250256c4c99ffcdb72ba6649213cfa]: Commencement: Sch. 7 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-90250256c4c99ffcdb72ba6649213cfa]: Commencement: Sch. 7 para. 1 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-8933baeb8657f1768c73f4eeb543cdf1]: Commencement: Sch. 7 para. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-8933baeb8657f1768c73f4eeb543cdf1]: Commencement: Sch. 7 para. 2 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
 [^f00034]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-91107b8030d326fa6c5667cb2a9c7d23]: Commencement: Sch. 7 para. 3 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-91107b8030d326fa6c5667cb2a9c7d23]: Commencement: Sch. 7 para. 3 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-215c65a5952686e2bd65aa274ce543a7]: Commencement: Sch. 7 para. 4 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-215c65a5952686e2bd65aa274ce543a7]: Commencement: Sch. 7 para. 4 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
-[^key-429f49eeb6932b897b6e158be2597887]: Commencement: Sch. 7 para. 5 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-429f49eeb6932b897b6e158be2597887]: Commencement: Sch. 7 para. 5 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
 
 [^f00035]: Footnote: Section 11A was inserted by section 186(3) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

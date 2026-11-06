@@ -24,7 +24,7 @@ Section 89(2)
 
 ### Part 1 — Constitution, proceedings etc
 
-**1.**[^key-6a0c1b490c4ccbf4620d427e9176464e][^key-8a30ca31a1bcd625b08555a9dd99e9bf] In the Local Audit and Accountability Act 2014, after Schedule 1 insert—
+**1.**[^c-6a0c1b490c4ccbf4620d427e9176464e][^c-8a30ca31a1bcd625b08555a9dd99e9bf] In the Local Audit and Accountability Act 2014, after Schedule 1 insert—
 
 > **Schedule 1A — Local Audit Office: constitution, proceedings etc**
 >
@@ -228,7 +228,7 @@ Section 89(2)
 
 ### Part 2 — Transitional provision
 
-#### 2. Initial appointment of Controller of Local Audit[^key-93ff88e38aab06e217483c3dc2ff2eb3][^key-dd10a2a6a68ffad6c3a096ddaaeead6b]
+#### 2. Initial appointment of Controller of Local Audit[^c-93ff88e38aab06e217483c3dc2ff2eb3][^c-dd10a2a6a68ffad6c3a096ddaaeead6b]
 
 (1) For the purpose of constituting the Local Audit Office—
 
@@ -239,7 +239,7 @@ Section 89(2)
 
 (2) The Secretary of State may direct the Office as to the terms on which the nominated individual is to be employed.
 
-#### 3. Initial business plans and corporate strategy[^key-acce5e059117e12b0b9a696e99054e8b][^key-aa403d9caefc363d187249dddd1ede82]
+#### 3. Initial business plans and corporate strategy[^c-acce5e059117e12b0b9a696e99054e8b][^c-aa403d9caefc363d187249dddd1ede82]
 
 (1) The provision that may be made under section 108(9)(transitional or saving provision in relation to commencement) includes provision disapplying or modifying the duty of the Local Audit Office under paragraph 14(1)(a) and (2) (requirement for business plan) in relation to—
 
@@ -248,7 +248,7 @@ Section 89(2)
 
 (2) The first corporate strategy of the Office must be published as soon as reasonably practicable after it is established.
 
-#### 4. Staff transfer schemes[^key-9754bf7140854e20883a0ff29d2c617a][^key-03838ffe49bca60df96df5ba99d80bd5]
+#### 4. Staff transfer schemes[^c-9754bf7140854e20883a0ff29d2c617a][^c-03838ffe49bca60df96df5ba99d80bd5]
 
 (1) The Secretary of State may make one or more schemes under which individuals employed by—
 
@@ -272,7 +272,7 @@ become employees of the Local Audit Office.
 - (a) for the scheme to be modified by agreement after it comes into effect;
 - (b) for any such modifications to have effect from the date when the original scheme comes into effect.
 
-#### 5. Property transfer schemes[^key-559b7ff78eafcc3795c8a85f93ab9c4b][^key-f46ca1731e0c4fa4a35db9c7f90fd07f]
+#### 5. Property transfer schemes[^c-559b7ff78eafcc3795c8a85f93ab9c4b][^c-f46ca1731e0c4fa4a35db9c7f90fd07f]
 
 (1) The Secretary of State may make one or more schemes for the transfer of property, rights and liabilities from Public Sector Audit Appointments Limited (a company limited by guarantee with the registered number 09178094) (“**PSAA**”) to the Local Audit Office.
 
@@ -301,7 +301,7 @@ become employees of the Local Audit Office.
 
 ### Part 3 — Application of other legislation
 
-#### 6. [Public Records Act 1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51)[^key-ff376f6abc0d82bce9a7f2600eb41647][^key-725a783720f9905c8d9dfb13e6d3c0fa]
+#### 6. [Public Records Act 1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51)[^c-ff376f6abc0d82bce9a7f2600eb41647][^c-725a783720f9905c8d9dfb13e6d3c0fa]
 
 In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 1958 (establishments and organisations whose records are public records), at the appropriate place insert—
 
@@ -309,25 +309,25 @@ In Part 2 of the Table in paragraph 3 of Schedule 1 to the Public Records Act 19
 > | --- |
 > | The Local Audit Office. |
 
-#### 7. [Parliamentary Commissioner Act 1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)[^key-9a75e228b3b2974f5bef3d48dc092101][^key-3997e1788325d8d553e6b53142d7feec]
+#### 7. [Parliamentary Commissioner Act 1967 (c. 13)](https://www.legislation.gov.uk/ukpga/1967/13)[^c-9a75e228b3b2974f5bef3d48dc092101][^c-3997e1788325d8d553e6b53142d7feec]
 
 In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert—
 
 > - The Local Audit Office.
 
-#### 8. [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24)[^key-8f300e00308edc366a69730ef9b258a6][^key-187d216d87bd58ef3abe5f48ca9fbfa4]
+#### 8. [House of Commons Disqualification Act 1975 (c. 24)](https://www.legislation.gov.uk/ukpga/1975/24)[^c-8f300e00308edc366a69730ef9b258a6][^c-187d216d87bd58ef3abe5f48ca9fbfa4]
 
 In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies all members of which are disqualified), at the appropriate place insert—
 
 > - The Local Audit Office.
 
-#### 9. [Freedom of Information Act 2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^key-97b165f34afd32c3d0825f437ebb5576][^key-61d2f5cb317017b8862a338cf012bb8b]
+#### 9. [Freedom of Information Act 2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^c-97b165f34afd32c3d0825f437ebb5576][^c-61d2f5cb317017b8862a338cf012bb8b]
 
 In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies), at the appropriate place insert—
 
 > - The Local Audit Office.
 
-#### 10. [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15)[^key-a40cfbe88424e86fa6cd08cb02f5c36b][^key-e2df6bd04b4e048cf8ec75ab55239788]
+#### 10. [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15)[^c-a40cfbe88424e86fa6cd08cb02f5c36b][^c-e2df6bd04b4e048cf8ec75ab55239788]
 
 In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), under the heading “Regulators”, at the appropriate place insert—
 
@@ -335,42 +335,42 @@ In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the pu
 
 ## Annotations
 
-[^key-6a0c1b490c4ccbf4620d427e9176464e]: Commencement: Sch. 34 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-6a0c1b490c4ccbf4620d427e9176464e]: Commencement: Sch. 34 para. 1 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-8a30ca31a1bcd625b08555a9dd99e9bf]: Commencement: [Sch. 34 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/3)
+[^c-8a30ca31a1bcd625b08555a9dd99e9bf]: Commencement: [Sch. 34 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/1) in force at 15.7.2026 for specified purposes by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)[(3)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/3)
 
-[^key-93ff88e38aab06e217483c3dc2ff2eb3]: Commencement: Sch. 34 para. 2 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-93ff88e38aab06e217483c3dc2ff2eb3]: Commencement: Sch. 34 para. 2 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-dd10a2a6a68ffad6c3a096ddaaeead6b]: Commencement: [Sch. 34 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/2) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+[^c-dd10a2a6a68ffad6c3a096ddaaeead6b]: Commencement: [Sch. 34 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/2) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
 
-[^key-acce5e059117e12b0b9a696e99054e8b]: Commencement: Sch. 34 para. 3 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-acce5e059117e12b0b9a696e99054e8b]: Commencement: Sch. 34 para. 3 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-aa403d9caefc363d187249dddd1ede82]: Commencement: [Sch. 34 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/3) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+[^c-aa403d9caefc363d187249dddd1ede82]: Commencement: [Sch. 34 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/3) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
 
-[^key-9754bf7140854e20883a0ff29d2c617a]: Commencement: Sch. 34 para. 4 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-9754bf7140854e20883a0ff29d2c617a]: Commencement: Sch. 34 para. 4 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-03838ffe49bca60df96df5ba99d80bd5]: Commencement: [Sch. 34 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/4) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+[^c-03838ffe49bca60df96df5ba99d80bd5]: Commencement: [Sch. 34 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/4) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
 
-[^key-559b7ff78eafcc3795c8a85f93ab9c4b]: Commencement: Sch. 34 para. 5 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-559b7ff78eafcc3795c8a85f93ab9c4b]: Commencement: Sch. 34 para. 5 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-f46ca1731e0c4fa4a35db9c7f90fd07f]: Commencement: [Sch. 34 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/5) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+[^c-f46ca1731e0c4fa4a35db9c7f90fd07f]: Commencement: [Sch. 34 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/5) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
 
-[^key-ff376f6abc0d82bce9a7f2600eb41647]: Commencement: Sch. 34 para. 6 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-ff376f6abc0d82bce9a7f2600eb41647]: Commencement: Sch. 34 para. 6 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-725a783720f9905c8d9dfb13e6d3c0fa]: Commencement: [Sch. 34 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/6) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+[^c-725a783720f9905c8d9dfb13e6d3c0fa]: Commencement: [Sch. 34 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/6) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
 
-[^key-9a75e228b3b2974f5bef3d48dc092101]: Commencement: Sch. 34 para. 7 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-9a75e228b3b2974f5bef3d48dc092101]: Commencement: Sch. 34 para. 7 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-3997e1788325d8d553e6b53142d7feec]: Commencement: [Sch. 34 para. 7](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/7) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+[^c-3997e1788325d8d553e6b53142d7feec]: Commencement: [Sch. 34 para. 7](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/7) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
 
-[^key-8f300e00308edc366a69730ef9b258a6]: Commencement: Sch. 34 para. 8 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-8f300e00308edc366a69730ef9b258a6]: Commencement: Sch. 34 para. 8 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-187d216d87bd58ef3abe5f48ca9fbfa4]: Commencement: [Sch. 34 para. 8](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/8) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+[^c-187d216d87bd58ef3abe5f48ca9fbfa4]: Commencement: [Sch. 34 para. 8](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/8) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
 
-[^key-97b165f34afd32c3d0825f437ebb5576]: Commencement: Sch. 34 para. 9 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-97b165f34afd32c3d0825f437ebb5576]: Commencement: Sch. 34 para. 9 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-61d2f5cb317017b8862a338cf012bb8b]: Commencement: [Sch. 34 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/9) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+[^c-61d2f5cb317017b8862a338cf012bb8b]: Commencement: [Sch. 34 para. 9](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/9) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
 
-[^key-a40cfbe88424e86fa6cd08cb02f5c36b]: Commencement: Sch. 34 para. 10 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-a40cfbe88424e86fa6cd08cb02f5c36b]: Commencement: Sch. 34 para. 10 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-e2df6bd04b4e048cf8ec75ab55239788]: Commencement: [Sch. 34 para. 10](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/10) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)
+[^c-e2df6bd04b4e048cf8ec75ab55239788]: Commencement: [Sch. 34 para. 10](https://www.legislation.gov.uk/ukpga/2026/23/schedule/34/paragraph/10) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/2)

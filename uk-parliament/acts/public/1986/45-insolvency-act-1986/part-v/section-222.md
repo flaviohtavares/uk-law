@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Inability to pay debts: unpaid creditor for £750 or more.[^c15574701][^key-6c3782efc0cdfb75e05db19e3546340a]
+## 222. Inability to pay debts: unpaid creditor for £750 or more.[^c15574701][^c-6c3782efc0cdfb75e05db19e3546340a]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
     ss. 220-223 applied (with modifications) (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [arts. 7(1)(2)](https://www.legislation.gov.uk/uksi/1994/2421/article/7/1/2), [9](https://www.legislation.gov.uk/uksi/1994/2421/article/9), [Sch. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3), [Pt. I](https://www.legislation.gov.uk/uksi/1994/2421/part/I)
 
-[^key-6c3782efc0cdfb75e05db19e3546340a]: Modification: S. 222 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))
+[^c-6c3782efc0cdfb75e05db19e3546340a]: Modification: S. 222 applied (with modifications) (6.6.2013) by [The Collective Investment in Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [Pt. 3](https://www.legislation.gov.uk/uksi/2013/1388/part/3) [reg. 1](https://www.legislation.gov.uk/uksi/2013/1388/regulation/1), [Sch. 2 paras. 3](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2013/1388/schedule/2/paragraph/5) Table (with [reg. 24](https://www.legislation.gov.uk/uksi/2013/1388/regulation/24))

@@ -34,7 +34,7 @@ This Statutory Rule has been made in consequence of defects in Statutory Rule [2
 
 Police
 
-Police (Unsatisfactory Performance and Attendance) Regulations (Northern Ireland) 2010 (revoked)[^key-42d2117049552b9d0f65361fac06bdd5]
+Police (Unsatisfactory Performance and Attendance) Regulations (Northern Ireland) 2010 (revoked)[^c-42d2117049552b9d0f65361fac06bdd5]
 
 Made
 
@@ -46,120 +46,120 @@ Coming into operation
 
 To be laid before Parliament
 
-[^key-42d2117049552b9d0f65361fac06bdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42d2117049552b9d0f65361fac06bdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL[^key-42d2117049552b9d0f65361fac06bdd5]
+## PART 1 — GENERAL[^c-42d2117049552b9d0f65361fac06bdd5]
 
-### 1. Citation and commencement[^key-42d2117049552b9d0f65361fac06bdd5]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Revocation and transitional arrangements[^key-42d2117049552b9d0f65361fac06bdd5]
+### 1. Citation and commencement[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-42d2117049552b9d0f65361fac06bdd5]
+### 2. Revocation and transitional arrangements[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Application[^key-42d2117049552b9d0f65361fac06bdd5]
+### 3. Interpretation[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — FIRST INTERVIEW[^key-42d2117049552b9d0f65361fac06bdd5]
-
-### 5. Circumstances in which a first interview may be required[^key-42d2117049552b9d0f65361fac06bdd5]
+### 4. Application[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Arrangement of the first interview[^key-42d2117049552b9d0f65361fac06bdd5]
+## PART 2 — FIRST INTERVIEW[^c-42d2117049552b9d0f65361fac06bdd5]
+
+### 5. Circumstances in which a first interview may be required[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Procedure at first interview[^key-42d2117049552b9d0f65361fac06bdd5]
+### 6. Arrangement of the first interview[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Procedure following first interview[^key-42d2117049552b9d0f65361fac06bdd5]
+### 7. Procedure at first interview[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — SECOND INTERVIEW[^key-42d2117049552b9d0f65361fac06bdd5]
-
-### 9. Circumstances in which a second interview may be required[^key-42d2117049552b9d0f65361fac06bdd5]
+### 8. Procedure following first interview[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Arrangement of second interview[^key-42d2117049552b9d0f65361fac06bdd5]
+## PART 3 — SECOND INTERVIEW[^c-42d2117049552b9d0f65361fac06bdd5]
+
+### 9. Circumstances in which a second interview may be required[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Procedure at second interview[^key-42d2117049552b9d0f65361fac06bdd5]
+### 10. Arrangement of second interview[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Procedure following second interview[^key-42d2117049552b9d0f65361fac06bdd5]
+### 11. Procedure at second interview[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Assessment of performance or attendance following second interview[^key-42d2117049552b9d0f65361fac06bdd5]
+### 12. Procedure following second interview[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — UNSATISFACTORY PERFORMANCE OR ATTENDANCE HEARING[^key-42d2117049552b9d0f65361fac06bdd5]
-
-### 14. Arrangement of hearing[^key-42d2117049552b9d0f65361fac06bdd5]
+### 13. Assessment of performance or attendance following second interview[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Procedure at hearing[^key-42d2117049552b9d0f65361fac06bdd5]
+## PART 4 — UNSATISFACTORY PERFORMANCE OR ATTENDANCE HEARING[^c-42d2117049552b9d0f65361fac06bdd5]
+
+### 14. Arrangement of hearing[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Postponement or adjournment of hearing[^key-42d2117049552b9d0f65361fac06bdd5]
+### 15. Procedure at hearing[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Finding[^key-42d2117049552b9d0f65361fac06bdd5]
+### 16. Postponement or adjournment of hearing[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Disposal[^key-42d2117049552b9d0f65361fac06bdd5]
+### 17. Finding[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Assessment of performance following hearing[^key-42d2117049552b9d0f65361fac06bdd5]
+### 18. Disposal[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Assessment of attendance following hearing[^key-42d2117049552b9d0f65361fac06bdd5]
+### 19. Assessment of performance following hearing[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — REVIEW[^key-42d2117049552b9d0f65361fac06bdd5]
-
-### 21. Request for a review[^key-42d2117049552b9d0f65361fac06bdd5]
+### 20. Assessment of attendance following hearing[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Conduct of the review[^key-42d2117049552b9d0f65361fac06bdd5]
+## PART 5 — REVIEW[^c-42d2117049552b9d0f65361fac06bdd5]
+
+### 21. Request for a review[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Finding of the review[^key-42d2117049552b9d0f65361fac06bdd5]
+### 22. Conduct of the review[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Hearing of review in the absence of the Chief Constable[^key-42d2117049552b9d0f65361fac06bdd5]
+### 23. Finding of the review[^c-42d2117049552b9d0f65361fac06bdd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42d2117049552b9d0f65361fac06bdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 24. Hearing of review in the absence of the Chief Constable[^c-42d2117049552b9d0f65361fac06bdd5]
 
-[^key-42d2117049552b9d0f65361fac06bdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-42d2117049552b9d0f65361fac06bdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-42d2117049552b9d0f65361fac06bdd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-42d2117049552b9d0f65361fac06bdd5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/47) revoked (1.6.2016) by [The Police (Performance and Attendance) Regulations (Northern Ireland) 2016 (S.R. 2016/42)](https://www.legislation.gov.uk/nisr/2016/42), [reg. 2](https://www.legislation.gov.uk/nisr/2016/42/regulation/2) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/42/regulation/2/2))
+[^c-42d2117049552b9d0f65361fac06bdd5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/47) revoked (1.6.2016) by [The Police (Performance and Attendance) Regulations (Northern Ireland) 2016 (S.R. 2016/42)](https://www.legislation.gov.uk/nisr/2016/42), [reg. 2](https://www.legislation.gov.uk/nisr/2016/42/regulation/2) (with [reg. 2(2)](https://www.legislation.gov.uk/nisr/2016/42/regulation/2/2))

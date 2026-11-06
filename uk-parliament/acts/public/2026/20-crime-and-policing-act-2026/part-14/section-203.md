@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Authorised firearms officers: anonymity orders[^key-b2d9e5002469dcdf6fb5246cb174d617]
+## 203. Authorised firearms officers: anonymity orders[^c-b2d9e5002469dcdf6fb5246cb174d617]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2d9e5002469dcdf6fb5246cb174d617]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2026/20/section/203) in force at 29.6.2026, see [s. 255(3)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/h)
+[^c-b2d9e5002469dcdf6fb5246cb174d617]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2026/20/section/203) in force at 29.6.2026, see [s. 255(3)(h)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/h)

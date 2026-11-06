@@ -41,21 +41,21 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 98 and 106 of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-80545c7a81f7f4916ffb32a3c400656d]
+## 1. Citation, commencement and interpretation[^c-80545c7a81f7f4916ffb32a3c400656d]
 
 (1) These Regulations may be cited as the Dental Charges (Amendment) Regulations (Northern Ireland) 2000 and shall come into operation on 1st April 2000.
 
 (2) In these Regulations “the principal Regulations” means the Dental Charges Regulations (Northern Ireland) 1989[^f00003].
 
-## 2. Amendment of regulation 4 of the principal Regulations[^key-2fd4c44bbcf4c635a7ea3a90649b513d]
+## 2. Amendment of regulation 4 of the principal Regulations[^c-2fd4c44bbcf4c635a7ea3a90649b513d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-863aea5bbf9ddf538bc64c77c27ba885]
+## 3. Revocation[^c-863aea5bbf9ddf538bc64c77c27ba885]
 
 Regulation 2 of the Dental Charges (Amendment) Regulations (Northern Ireland) 1999[^f00004] is hereby revoked.
 
-## 4. Application of regulations[^key-9f55f1d4d71ea25b69f3cfdc03746e27]
+## 4. Application of regulations[^c-9f55f1d4d71ea25b69f3cfdc03746e27]
 
 The amendment made by regulation 2 applies only in relation to the supply of any dental appliances or the provision of other dental services in pursuance of a contract or arrangement for the provision of general dental services, or services under a pilot scheme, made on or after 1st April 2000.
 
@@ -91,14 +91,14 @@ Regulation 4 provides that these new charges shall apply only where the arrangem
 
 [^f00002]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265), as amended by S.I. [1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229) Article 14, S.I. [1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) Article 7 and S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Article 34 and Part II of Schedule 5; there are other amendments which are not relevant
 
-[^key-80545c7a81f7f4916ffb32a3c400656d]: Commencement: Reg. 1 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/58/regulation/1/1)
+[^c-80545c7a81f7f4916ffb32a3c400656d]: Commencement: Reg. 1 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/58/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1989 No. 111](https://www.legislation.gov.uk/nisr/1989/111); relevant amending Regulations are [S.R. 1999 No. 105](https://www.legislation.gov.uk/nisr/1999/105)
 
-[^key-2fd4c44bbcf4c635a7ea3a90649b513d]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/58/regulation/2) revoked (28.4.2001) by [Dental Charges (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/124)](https://www.legislation.gov.uk/nisr/2001/124), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/124/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2001/124/regulation/3)
+[^c-2fd4c44bbcf4c635a7ea3a90649b513d]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/58/regulation/2) revoked (28.4.2001) by [Dental Charges (Amendment) Regulations (Northern Ireland) 2001 (S.R. 2001/124)](https://www.legislation.gov.uk/nisr/2001/124), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/124/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2001/124/regulation/3)
 
-[^key-863aea5bbf9ddf538bc64c77c27ba885]: Commencement: Reg. 3 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/58/regulation/1/1)
+[^c-863aea5bbf9ddf538bc64c77c27ba885]: Commencement: Reg. 3 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/58/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1999 No. 105](https://www.legislation.gov.uk/nisr/1999/105)
 
-[^key-9f55f1d4d71ea25b69f3cfdc03746e27]: Commencement: Reg. 4 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/58/regulation/1/1)
+[^c-9f55f1d4d71ea25b69f3cfdc03746e27]: Commencement: Reg. 4 in operation at 1.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/58/regulation/1/1)

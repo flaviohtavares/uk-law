@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 21(1) of that Act, the Scottish Ministers consulted the representatives of such persons as appeared to the Scottish Ministers likely to be affected by these Regulations.
 
-In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.[^key-539acbc0400b005ce1d5e906e74bfec8]
+In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.[^c-539acbc0400b005ce1d5e906e74bfec8]
 
 ## Contents
 
@@ -698,4 +698,4 @@ Schedule 3 makes transitional provision.
 
 [^f00001]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25)
 
-[^key-539acbc0400b005ce1d5e906e74bfec8]: Modification: Regulations restricted (1.10.2023) by [The Teachers’ Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/241)](https://www.legislation.gov.uk/ssi/2023/241), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2023/241/regulation/1/b), [30](https://www.legislation.gov.uk/ssi/2023/241/regulation/30)
+[^c-539acbc0400b005ce1d5e906e74bfec8]: Modification: Regulations restricted (1.10.2023) by [The Teachers’ Pensions (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/241)](https://www.legislation.gov.uk/ssi/2023/241), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2023/241/regulation/1/b), [30](https://www.legislation.gov.uk/ssi/2023/241/regulation/30)

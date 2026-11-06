@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Abatement of works abandoned or decayed[^key-f86da65c25b0126648a79510c66b41f7]
+## 18. Abatement of works abandoned or decayed[^c-f86da65c25b0126648a79510c66b41f7]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ the Secretary of State or A.B. Ports may include that part of the work, or any p
 
 ## Annotations
 
-[^key-f86da65c25b0126648a79510c66b41f7]: Commencement: Art. 18 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-f86da65c25b0126648a79510c66b41f7]: Commencement: Art. 18 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

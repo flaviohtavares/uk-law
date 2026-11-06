@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. Grounds for resignation[^key-be45d27a45e85a4824e6d779dca7783d]
+## 206. Grounds for resignation[^c-be45d27a45e85a4824e6d779dca7783d]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be45d27a45e85a4824e6d779dca7783d]: Commencement: [Rule 206](https://www.legislation.gov.uk/uksi/2011/1301/rule/206) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-be45d27a45e85a4824e6d779dca7783d]: Commencement: [Rule 206](https://www.legislation.gov.uk/uksi/2011/1301/rule/206) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

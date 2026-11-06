@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Payments towards local authority indebtedness[^c522447][^key-93d1e31d57fc27672cb5e39f3e328bdf]
+## 39. Payments towards local authority indebtedness[^c522447][^c-93d1e31d57fc27672cb5e39f3e328bdf]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) The conditions that may be imposed under subsection (4) include (in particular) conditions relating to the repayment in specified circumstances of all or part of the payment.
 
-(6) Payments made to a local authority under this section may not be applied in reducing or extinguishing any debt of the authority to the Treasury, in respect of local loans made under section 3 of the National Loans Act 1968[^key-f29a9431330ae59290ece42915e79b47].
+(6) Payments made to a local authority under this section may not be applied in reducing or extinguishing any debt of the authority to the Treasury, in respect of local loans made under section 3 of the National Loans Act 1968[^c-f29a9431330ae59290ece42915e79b47].
 
 (7) In this section “**local authority**” means—
 
@@ -43,7 +43,7 @@ summary: ''
   - (iii) a London borough council,
   - (iv) the Common Council of the City of London, or
   - (v) the Council of the Isles of Scilly; and
-- (b)[^key-3c6b5a3433dfa23ac44a86531f73659f] in relation to Wales—
+- (b)[^c-3c6b5a3433dfa23ac44a86531f73659f] in relation to Wales—
   - (i) a county council,
   - (ii) a county borough council, or
   - (iii) a corporate joint committee established by regulations under Part 5 of the Local Government and Elections (Wales) Act 2021.
@@ -52,8 +52,8 @@ summary: ''
 
 [^c522447]: Commencement: S.39 partly in force; s. 39 in force for E. at 18.11.2003 see [s. 128(2)(b)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/2/b)
 
-[^key-93d1e31d57fc27672cb5e39f3e328bdf]: Commencement: S. 39 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-93d1e31d57fc27672cb5e39f3e328bdf]: Commencement: S. 39 in force at 27.11.2003 for W. by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-f29a9431330ae59290ece42915e79b47]: Textual amendment: Words in s. 39(6) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/83) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
+[^c-f29a9431330ae59290ece42915e79b47]: Textual amendment: Words in s. 39(6) substituted (25.2.2020) by [The Public Bodies (Abolition of Public Works Loan Commissioners) Order 2020 (S.I. 2020/176)](https://www.legislation.gov.uk/uksi/2020/176), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/176/article/1/2), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2020/176/schedule/1/paragraph/83) (with [art. 9](https://www.legislation.gov.uk/uksi/2020/176/article/9))
 
-[^key-3c6b5a3433dfa23ac44a86531f73659f]: Textual amendment: [S. 39(7)(b)](https://www.legislation.gov.uk/ukpga/2003/26/section/39/7/b) substituted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [17](https://www.legislation.gov.uk/wsi/2022/372/regulation/17)
+[^c-3c6b5a3433dfa23ac44a86531f73659f]: Textual amendment: [S. 39(7)(b)](https://www.legislation.gov.uk/ukpga/2003/26/section/39/7/b) substituted (25.3.2022) by [The Corporate Joint Committees (General) (Wales) Regulations 2022 (S.I. 2022/372)](https://www.legislation.gov.uk/wsi/2022/372), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/372/regulation/1/2), [17](https://www.legislation.gov.uk/wsi/2022/372/regulation/17)

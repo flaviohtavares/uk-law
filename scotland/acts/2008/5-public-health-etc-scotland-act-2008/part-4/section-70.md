@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Failure to ensure child's compliance with order[^key-226250bc28abc2f40c49d27a7ee95f73]
+## 70. Failure to ensure child's compliance with order[^c-226250bc28abc2f40c49d27a7ee95f73]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-226250bc28abc2f40c49d27a7ee95f73]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2008/5/section/70) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-226250bc28abc2f40c49d27a7ee95f73]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2008/5/section/70) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

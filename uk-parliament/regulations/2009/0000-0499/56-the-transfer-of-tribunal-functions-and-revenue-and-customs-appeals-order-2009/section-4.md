@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Abolition of existing tribunals[^key-341f73ff6d66b2b5dd7e1966fa7e7763]
+## 4. Abolition of existing tribunals[^c-341f73ff6d66b2b5dd7e1966fa7e7763]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The existing tribunals (apart from the Commissioners for the general purposes of
 
 ## Annotations
 
-[^key-341f73ff6d66b2b5dd7e1966fa7e7763]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/56/article/4) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-341f73ff6d66b2b5dd7e1966fa7e7763]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/56/article/4) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Reporting duty of listed authorities[^key-105cfac2fca3fee6ded0741cff6733df]
+## 18. Reporting duty of listed authorities[^c-105cfac2fca3fee6ded0741cff6733df]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-105cfac2fca3fee6ded0741cff6733df]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/1/section/18) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-105cfac2fca3fee6ded0741cff6733df]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2024/1/section/18) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

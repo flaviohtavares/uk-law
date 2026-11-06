@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Other public authority functions[^key-6eb60fb350a2be72ec0d66fd04b966f4][^key-6b225919cea879081e8943a336250541]
+## 105A. Other public authority functions[^c-6eb60fb350a2be72ec0d66fd04b966f4][^c-6b225919cea879081e8943a336250541]
 
 *Extent: E+W*
 
@@ -67,6 +67,6 @@ the order may make express provision to that effect.
 
 ## Annotations
 
-[^key-6eb60fb350a2be72ec0d66fd04b966f4]: Modification: S. 105A modified (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 18](https://www.legislation.gov.uk/ukpga/2016/1/section/18), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-6eb60fb350a2be72ec0d66fd04b966f4]: Modification: S. 105A modified (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 18](https://www.legislation.gov.uk/ukpga/2016/1/section/18), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-6b225919cea879081e8943a336250541]: Textual amendment: Ss. 105A, 105B inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/1/section/7), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-6b225919cea879081e8943a336250541]: Textual amendment: Ss. 105A, 105B inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 7](https://www.legislation.gov.uk/ukpga/2016/1/section/7), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

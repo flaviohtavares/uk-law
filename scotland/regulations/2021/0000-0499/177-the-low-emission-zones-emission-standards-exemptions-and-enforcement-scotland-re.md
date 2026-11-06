@@ -42,13 +42,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 6(4), 7(4)(b), 8(1) and 128(1)(b) of the Transport (Scotland) Act 2019[^f00001] and all other powers enabling them to do so.
 
-In accordance with sections 6(4), 7(4)(b) and 8(1) of that Act, the Scottish Ministers have consulted with such persons as they consider appropriate.[^key-04862e66b668e99181e6a54d980eec35]
+In accordance with sections 6(4), 7(4)(b) and 8(1) of that Act, the Scottish Ministers have consulted with such persons as they consider appropriate.[^c-04862e66b668e99181e6a54d980eec35]
 
-In accordance with section 128(2) and (3) of that Act[^f00002], a draft of these Regulations has been laid before, and approved by resolution of, the Scottish Parliament.[^key-04862e66b668e99181e6a54d980eec35]
+In accordance with section 128(2) and (3) of that Act[^f00002], a draft of these Regulations has been laid before, and approved by resolution of, the Scottish Parliament.[^c-04862e66b668e99181e6a54d980eec35]
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and interpretation[^key-5a46ece1110f919c5b40ef8fa80fed29]
+### 1. Citation, commencement and interpretation[^c-5a46ece1110f919c5b40ef8fa80fed29]
 
 (1) These Regulations may be cited as the Low Emission Zones (Emission Standards, Exemptions and Enforcement) (Scotland) Regulations 2021 and come into force on 31 May 2021.
 
@@ -136,7 +136,7 @@ In accordance with section 128(2) and (3) of that Act[^f00002], a draft of these
 
 ## PART 2 — Emission standards and exemptions
 
-### 2. Emission standards[^key-aff50577fe86b7aa9459b7cf3861a69b]
+### 2. Emission standards[^c-aff50577fe86b7aa9459b7cf3861a69b]
 
 For the purpose of section 6(1)(a) (restriction on driving within a zone) of the 2019 Act[^f00014] the emission standard for—
 
@@ -148,7 +148,7 @@ For the purpose of section 6(1)(a) (restriction on driving within a zone) of the
   - (ii) Table 2 in schedule 2 (euro IV standards for positive ignition engine vehicles),
 - (c) mopeds and motorcycles is standard specified for those vehicles in the Table in schedule 3 (euro 3).
 
-### 3. Exemptions[^key-552a2bba9cfe2ec12ba6578b093a892b]
+### 3. Exemptions[^c-552a2bba9cfe2ec12ba6578b093a892b]
 
 (1) For the purpose of section 6(1)(b) (restriction on driving within a zone) of the 2019 Act a vehicle is exempt if—
 
@@ -182,7 +182,7 @@ For the purpose of section 6(1)(a) (restriction on driving within a zone) of the
 
 ## PART 3 — Penalty charges and enforcement
 
-### 4. Penalty charges[^key-8ee255de7a0daefec0105dfd48534200]
+### 4. Penalty charges[^c-8ee255de7a0daefec0105dfd48534200]
 
 (1) The penalty charge payable in respect of a first contravention is the amount specified in the entry in column 3 of the table in schedule 4 corresponding to the vehicle type specified in column 1 of that table in which the contravention occurred.
 
@@ -225,7 +225,7 @@ For the purpose of section 6(1)(a) (restriction on driving within a zone) of the
 - “fourth contravention” refers to the fourth occasion in which the same person as in the first contravention is liable to pay a penalty charge under sections 6(2) and 7(4) of the 2019 Act by virtue of a contravention occurring in the same vehicle and in relation to the same low emission zone as the first contravention,
 - “fifth and any subsequent contravention” refers to the fifth and any subsequent occasion in which the same person as in the first contravention is liable to pay a penalty charge under sections 6(2) and 7(4) of the 2019 Act[^f00023] by virtue of a contravention occurring in the same vehicle and in relation to the same low emission zone as the first contravention.
 
-### 5. Liability of persons other than the registered keeper for penalty charges[^key-15dad0d26f3bc3437787db809890a6b0]
+### 5. Liability of persons other than the registered keeper for penalty charges[^c-15dad0d26f3bc3437787db809890a6b0]
 
 (1) A penalty charge under section 6(2) of the 2019 Act is payable by a person other than the registered keeper of a vehicle in the circumstances specified in paragraphs (2) to (5).
 
@@ -250,7 +250,7 @@ a penalty charge is payable by the person hiring the relevant vehicle.
   - (c) which is not a hire-purchase agreement within the meaning given to that term by section 189(1) (definitions) of the Consumer Credit Act 1974[^f00026],
 - “vehicle trader” has the same meaning as in regulation 3(1) (interpretation) of the Road Vehicle (Registration and Licensing) Regulations 2002[^f00027].
 
-### 6. Penalty charge notices[^key-65fb5863c76b915989b02821fbd699e2]
+### 6. Penalty charge notices[^c-65fb5863c76b915989b02821fbd699e2]
 
 (1) Where a local authority has reason to believe that a penalty charge is payable under section 6(2) of the 2019 Act, it may serve a notice (“a penalty charge notice”) on—
 
@@ -296,7 +296,7 @@ the local authority may serve a penalty charge notice within 14 days beginning w
 
 (7) In this regulation “registration mark” has the meaning given by section 23 (registration marks) of the 1994 Act.
 
-### 7. Charge certificates[^key-1d5c4b14ffe0a16dc8b1acd1594aba1b]
+### 7. Charge certificates[^c-1d5c4b14ffe0a16dc8b1acd1594aba1b]
 
 (1) Where—
 
@@ -324,7 +324,7 @@ the local authority concerned may recover the increased charge as if it were pay
 
 (5) In paragraph (4), “the increased charge” means the penalty charge payable in respect of a contravention in accordance with a charge certificate served in relation to that contravention under paragraph (1).
 
-### 8. Representations in respect of penalty charges[^key-64f0c7037fc875655c031ea8ca1b0ded]
+### 8. Representations in respect of penalty charges[^c-64f0c7037fc875655c031ea8ca1b0ded]
 
 (1) The recipient of a penalty charge notice may make written representations within the payment period to the local authority against the decision to serve a penalty charge notice on any of the grounds specified in paragraph (4).
 
@@ -343,7 +343,7 @@ the local authority concerned may recover the increased charge as if it were pay
 
 (5) Where the ground mentioned in paragraph (4)(c) is relied on in any representations made under paragraph (1), those representations must include a statement of the name and address (if known) of the person who is considered by the recipient of the penalty charge notice to be responsible for payment of the penalty charge under regulation 5.
 
-### 9. Response to representations[^key-b64e4403a696185119c0fc6c9b6bb6b0]
+### 9. Response to representations[^c-b64e4403a696185119c0fc6c9b6bb6b0]
 
 (1) Where representations are made to a local authority under regulation 8(1) within the payment period, or taken account of by the local authority under regulation 8(3), it must—
 
@@ -390,7 +390,7 @@ the local authority may issue a charge certificate under regulation 7 (and descr
   , and
 - (c) in paragraph (3)(b), the reference to paragraph (2) were a reference to that paragraph as modified by sub-paragraph (b) of this paragraph.
 
-### 10. Appeal to the First-tier Tribunal[^key-5779cef27ccc1972638a3ed2b25f873c]
+### 10. Appeal to the First-tier Tribunal[^c-5779cef27ccc1972638a3ed2b25f873c]
 
 (1) A person on whom a penalty charge notice has been served may, on any of the grounds set out in regulation 8(4) and before the end of the appeal period or such longer period as the First-tier Tribunal may allow, appeal to the First-tier Tribunal against the imposition of the penalty charge if—
 
@@ -399,11 +399,11 @@ the local authority may issue a charge certificate under regulation 7 (and descr
 
 (2) An appeal is to made by a notice of appeal sent in writing to the First-tier Tribunal.
 
-### 11. Enforcement arrangements[^key-76ca3720a9f16cec2f3321bf9e6445db]
+### 11. Enforcement arrangements[^c-76ca3720a9f16cec2f3321bf9e6445db]
 
 A local authority may enter into arrangements with any person for the exercise by that person of any function conferred by or under section 7 of the 2019 Act[^f00028] and these Regulations.
 
-### 12. Interference with operation of low emission zone scheme[^key-e375e94696200c1278e36b2db0a34165]
+### 12. Interference with operation of low emission zone scheme[^c-e375e94696200c1278e36b2db0a34165]
 
 (1) A person commits an offence if, with intent to avoid payment of, or with intent to avoid being identified as having failed to pay, a penalty charge payable under section 6(2) of the 2019 Act, the person—
 
@@ -425,11 +425,11 @@ Edinburgh
 
 24th March 2021
 
-## SCHEDULE 1 — Euro Standards for Compression Ignition Engine Vehicles[^key-b4d2c4d30a355ab30d7ce7dfedebd46a]
+## SCHEDULE 1 — Euro Standards for Compression Ignition Engine Vehicles[^c-b4d2c4d30a355ab30d7ce7dfedebd46a]
 
 Regulation 2(1)(a)
 
-[^key-b4d2c4d30a355ab30d7ce7dfedebd46a]In this schedule vehicle categories M<sub>1</sub> to M<sub>3</sub> include ambulances, hearses and motor caravans.
+[^c-b4d2c4d30a355ab30d7ce7dfedebd46a]In this schedule vehicle categories M<sub>1</sub> to M<sub>3</sub> include ambulances, hearses and motor caravans.
 
 Table 1
 
@@ -461,11 +461,11 @@ Euro VI standards for compression ignition engine vehicles
 | category N<sub>3</sub> | exceeding 2610 | 1500 | 400 | 10 | 10 | 6 x 10 | WHSC |
 | category N<sub>3</sub> | exceeding 2610 | 4000 | 460 | 10 | 10 | 6 x 10 | WHTC |
 
-## SCHEDULE 2 — Euro Standards for Positive Ignition Engine Vehicles[^key-2c95be23e52dfc5305c614ea71c1912b]
+## SCHEDULE 2 — Euro Standards for Positive Ignition Engine Vehicles[^c-2c95be23e52dfc5305c614ea71c1912b]
 
 Regulation 2(1)(b)
 
-[^key-2c95be23e52dfc5305c614ea71c1912b]In this schedule vehicle categories M<sub>1</sub> to M<sub>3</sub> include ambulances, hearses and motor caravans.
+[^c-2c95be23e52dfc5305c614ea71c1912b]In this schedule vehicle categories M<sub>1</sub> to M<sub>3</sub> include ambulances, hearses and motor caravans.
 
 Table 1
 
@@ -497,7 +497,7 @@ Euro IV standards for positive ignition engine vehicles
 | category N<sub>3</sub> | exceeding 2610 | 1.5 | 0.46 | 3.5 | 0.02 |  |  | 0.5 | ESC and ELR |
 | category N<sub>3</sub> | exceeding 2610 | 4.0 |  | 3.5 |  | 0.55 | 1.1 |  | ETC |
 
-## SCHEDULE 3 — Euro Standards for Mopeds and Motorcycles[^key-c8e48e7643b08d23f75a7a30bf1e75cf]
+## SCHEDULE 3 — Euro Standards for Mopeds and Motorcycles[^c-c8e48e7643b08d23f75a7a30bf1e75cf]
 
 Regulation 2(1)(c)
 
@@ -511,7 +511,7 @@ Euro 3 standards for mopeds and motorcycles
 | motorcycle | not exceeding 150 | 2 | 0.8 | 0.15 |  | Type I for mopeds and motorcycles and Type II for mopeds and motorcycles |
 | motorcycle | exceeding 150 | 2 | 0.3 | 0.15 |  | Type I for mopeds and motorcycles and Type II for mopeds and motorcycles |
 
-## SCHEDULE 4 — Penalty Charge Rates[^key-0ea5538eeff4cc762c77f5ff2b71ea29]
+## SCHEDULE 4 — Penalty Charge Rates[^c-0ea5538eeff4cc762c77f5ff2b71ea29]
 
 Regulation 4
 
@@ -576,11 +576,11 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00001]: Footnote: [2019 asp 17](https://www.legislation.gov.uk/asp/2019/17).
 
-[^key-04862e66b668e99181e6a54d980eec35]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2021/177): transfer of functions (1.6.2023) by [The First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023 (S.S.I. 2023/158)](https://www.legislation.gov.uk/ssi/2023/158), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/158/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2023/158/regulation/2)
+[^c-04862e66b668e99181e6a54d980eec35]: Modification: [Regulations](https://www.legislation.gov.uk/ssi/2021/177): transfer of functions (1.6.2023) by [The First-tier Tribunal for Scotland (Allocation of Functions to the General Regulatory Chamber) Regulations 2023 (S.S.I. 2023/158)](https://www.legislation.gov.uk/ssi/2023/158), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/158/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2023/158/regulation/2)
 
 [^f00002]: Footnote: [2019 asp 17](https://www.legislation.gov.uk/asp/2019/17). The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation ad Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-5a46ece1110f919c5b40ef8fa80fed29]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/177/regulation/1) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-5a46ece1110f919c5b40ef8fa80fed29]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/177/regulation/1) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
 [^f00003]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22).
 
@@ -604,11 +604,11 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00013]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was relevantly amended by paragraph 158 of schedule 17 of the Communications Act [2003 (c.17)](https://www.legislation.gov.uk/ukpga/2003/17).
 
-[^key-aff50577fe86b7aa9459b7cf3861a69b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/177/regulation/2) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-aff50577fe86b7aa9459b7cf3861a69b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/177/regulation/2) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
 [^f00014]: Footnote: [2019 asp 17](https://www.legislation.gov.uk/asp/2019/17).
 
-[^key-552a2bba9cfe2ec12ba6578b093a892b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/177/regulation/3) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-552a2bba9cfe2ec12ba6578b093a892b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/177/regulation/3) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 1999/686](https://www.legislation.gov.uk/uksi/1999/686).
 
@@ -626,11 +626,11 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00022]: Footnote: [EUR 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858), to which there are amendments not relevant to these Regulations.
 
-[^key-8ee255de7a0daefec0105dfd48534200]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/177/regulation/4) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-8ee255de7a0daefec0105dfd48534200]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/177/regulation/4) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
 [^f00023]: Footnote: [2019 asp 17](https://www.legislation.gov.uk/asp/2019/17).
 
-[^key-15dad0d26f3bc3437787db809890a6b0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/177/regulation/5) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-15dad0d26f3bc3437787db809890a6b0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/177/regulation/5) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
 [^f00024]: Footnote: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22). Section 21(1) was substituted by paragraph 2 of schedule 3 of the Finance Act [1997 (c.16)](https://www.legislation.gov.uk/ukpga/1997/16), and section 21(2) was amended, and section 21(4) substituted, by paragraph 33 of schedule 4 of the Finance Act [1995 (c.4)](https://www.legislation.gov.uk/ukpga/1995/4).
 
@@ -640,26 +640,26 @@ A Business and Regulatory Impact Assessment (“BRIA”) has been prepared in re
 
 [^f00027]: Footnote: [S.I. 2002/2742](https://www.legislation.gov.uk/uksi/2002/2742). Regulation 3(1) was relevantly amended by [S.I. 2015/403](https://www.legislation.gov.uk/uksi/2015/403).
 
-[^key-65fb5863c76b915989b02821fbd699e2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/177/regulation/6) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-65fb5863c76b915989b02821fbd699e2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/177/regulation/6) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
-[^key-1d5c4b14ffe0a16dc8b1acd1594aba1b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/177/regulation/7) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-1d5c4b14ffe0a16dc8b1acd1594aba1b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/177/regulation/7) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
-[^key-64f0c7037fc875655c031ea8ca1b0ded]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/177/regulation/8) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-64f0c7037fc875655c031ea8ca1b0ded]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/177/regulation/8) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
-[^key-b64e4403a696185119c0fc6c9b6bb6b0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/177/regulation/9) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-b64e4403a696185119c0fc6c9b6bb6b0]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/177/regulation/9) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
-[^key-5779cef27ccc1972638a3ed2b25f873c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/177/regulation/10) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-5779cef27ccc1972638a3ed2b25f873c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/177/regulation/10) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
-[^key-76ca3720a9f16cec2f3321bf9e6445db]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/177/regulation/11) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-76ca3720a9f16cec2f3321bf9e6445db]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/177/regulation/11) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
 [^f00028]: Footnote: [2019 asp 17](https://www.legislation.gov.uk/asp/2019/17).
 
-[^key-e375e94696200c1278e36b2db0a34165]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/177/regulation/12) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-e375e94696200c1278e36b2db0a34165]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/177/regulation/12) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
-[^key-b4d2c4d30a355ab30d7ce7dfedebd46a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2021/177/schedule/1) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-b4d2c4d30a355ab30d7ce7dfedebd46a]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2021/177/schedule/1) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
-[^key-2c95be23e52dfc5305c614ea71c1912b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2021/177/schedule/2) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-2c95be23e52dfc5305c614ea71c1912b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2021/177/schedule/2) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
-[^key-c8e48e7643b08d23f75a7a30bf1e75cf]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2021/177/schedule/3) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-c8e48e7643b08d23f75a7a30bf1e75cf]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2021/177/schedule/3) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
 
-[^key-0ea5538eeff4cc762c77f5ff2b71ea29]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2021/177/schedule/4) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)
+[^c-0ea5538eeff4cc762c77f5ff2b71ea29]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2021/177/schedule/4) in force at 31.5.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2021/177/regulation/1/1)

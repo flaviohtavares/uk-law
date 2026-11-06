@@ -57,7 +57,7 @@ The Secretary of State has also decided to vary two retained block exemption reg
 
 The Secretary of State therefore makes the following Order in exercise of the powers conferred by sections 6(2)(a), (5), (6) and (7), 10A(1) and 71(3) of the Act.
 
-## 1. Citation, commencement and extent[^key-b35a45b6a2893891ba11e8cf031c1898]
+## 1. Citation, commencement and extent[^c-b35a45b6a2893891ba11e8cf031c1898]
 
 This Order—
 
@@ -65,7 +65,7 @@ This Order—
 - (b) comes into force on 1st January 2023, and
 - (c) extends to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-6f6646d4d15988dffe6400197bbddaa9]
+## 2. Interpretation[^c-6f6646d4d15988dffe6400197bbddaa9]
 
 (1) In this Order—
 
@@ -131,7 +131,7 @@ This Order—
 
 (3) For the purposes of this Order, the terms “**party**” and “**undertaking**” include their respective connected undertakings.
 
-## 3. Block exemption[^key-6d60329ae07088394128b9b5c6a394a8]
+## 3. Block exemption[^c-6d60329ae07088394128b9b5c6a394a8]
 
 (1) The category of agreements identified in paragraph (2)as R&D agreements is specified for the purposes of section 6 of the Competition Act 1998[^f00008].
 
@@ -151,11 +151,11 @@ This Order—
 
 ## Conditions, obligation and consequences of breach
 
-### 4. Block exemption subject to conditions and obligation[^key-8c9bee3016750ef34073f298568ba593]
+### 4. Block exemption subject to conditions and obligation[^c-8c9bee3016750ef34073f298568ba593]
 
 The block exemption has effect in relation to an R&D agreement subject to the conditions specified in articles5 to 8, 10 and 12 and the obligation specified in article 14.
 
-### 5. Access to the final results[^key-cfee582cbb1942b897f5473205b94058]
+### 5. Access to the final results[^c-cfee582cbb1942b897f5473205b94058]
 
 (1) The R&D agreement must provide—
 
@@ -177,13 +177,13 @@ The block exemption has effect in relation to an R&D agreement subject to the co
 
 (4) In paragraph (3)(b), “**the exploitation of results of research and development**” means the production or distribution of products or the application of technologies arising out of research and development or the assignment or licensing of intellectual property rights or the communication of know-how required for such production or application.
 
-### 6. Access to pre-existing know-how[^key-fb39378499555522b350179e5237950f]
+### 6. Access to pre-existing know-how[^c-fb39378499555522b350179e5237950f]
 
 (1) If the R&D agreement does not provide for joint exploitation of the results it must provide that each party to the agreement is to be granted access to any pre-existing know-how of the other parties if this know-how is indispensable for the purposes of its exploitation of the results.
 
 (2) An R&D agreement does not breach the condition in paragraph(1) by requiring a party to the agreement to compensate another party to the agreement for obtaining access to its pre-existing know-how, provided the compensation required is not so high as to effectively prevent such access.
 
-### 7. Joint exploitation[^key-c7d056b030a51f51857a0c5339f00cce]
+### 7. Joint exploitation[^c-c7d056b030a51f51857a0c5339f00cce]
 
 (1) If the R&D agreement provides for joint exploitation of the results it must meet the conditions in paragraphs(2) and (3).
 
@@ -197,7 +197,7 @@ The block exemption has effect in relation to an R&D agreement subject to the co
 - (a) the R&D agreement also provides for distribution of the contract product by a joint team, organisation or undertaking or by a third party jointly entrusted with distribution of the contract product by the parties, or
 - (b) the parties to the agreement have agreed that only the party producing the contract product may distribute it.
 
-### 8. Thresholds, market shares and duration of exemption[^key-93f67ec96580f2d08cad7df7ac41c221]
+### 8. Thresholds, market shares and duration of exemption[^c-93f67ec96580f2d08cad7df7ac41c221]
 
 (1) Where, in the case of an R&D agreement falling within article 3(2)(a) or (b), at the time the agreement is entered into, two or more of the parties to the agreement are—
 
@@ -276,7 +276,7 @@ the agreement must meet the condition in paragraph (5).
   - (a) research and development of a new product or technology which is the same as, or likely to be substitutable for, a new product or technologythat would be covered by the R&D agreement, or
   - (b) an R&D cluster pursuing an aim or objective which is the same, or substantially the same, as an aim or objective that would be covered by the R&D agreement.
 
-### 9. Rules for applying thresholds[^key-ea60b6170e765252ab4f20ea9c92ad03]
+### 9. Rules for applying thresholds[^c-ea60b6170e765252ab4f20ea9c92ad03]
 
 (1) For the purposes of applying the market share thresholds provided for in article 8, the following rules apply—
 
@@ -295,7 +295,7 @@ the agreement must meet the condition in paragraph (5).
   - (i) the availability of financial and human resources to the third party or parties, their intellectual property rights, know-how or other relevant assets, and their previous research and development efforts, and
   - (ii) the ability of the third party or parties to exploit in the United Kingdom, directly or indirectly, any possible results of a research and development effort of that kind.
 
-### 10. Hardcore restrictions[^key-17006a7167e6819148193b4443963139]
+### 10. Hardcore restrictions[^c-17006a7167e6819148193b4443963139]
 
 (1) The R&D agreement must not, directly or indirectly, in isolation or in combination with other factors under the control of any of the parties to the agreement, have as its object—
 
@@ -333,23 +333,23 @@ the agreement must meet the condition in paragraph (5).
   - (c) advertisement or promotion that is only attractive for the buyer if it (in addition to reaching other customers) reaches a specific group of customers or customers in a specific geographical area (and is considered active selling to that customer group or customers in that geographical area),
   - (d) offering on a website language options different to the ones commonly used in the geographical area in which the distributor is established, or
   - (e) using a domain name corresponding to a geographical area other than the one in which the distributor is established;
-- “[^key-c5823cb0f30a5d369b2f93bf4d10d5d7]**devolved Scottish authority**” has the same meaning as in section 2 of the Procurement Act 2023;
+- “[^c-c5823cb0f30a5d369b2f93bf4d10d5d7]**devolved Scottish authority**” has the same meaning as in section 2 of the Procurement Act 2023;
 - “**digital comparison tools**” means online intermediary services used by end users to compare prices, quality or other characteristics of, and potentially to switch or purchase, goods or services from a range of businesses;
 - “**passive sales**” means—
   - (a) sales in response to unsolicited requests from individual customers, including delivery of goods or services to such customers without the sale having been initiated through advertising actively targeting the particular customer group or geographical area,
   - (b) general advertising or promotion that reaches customers in other distributors’ geographical areas or customer groups (whether exclusive or not) but which is a reasonable way to reach customers not in those other distributors’ geographical areas or customer groups (whether exclusive or not), for instance to reach customers in a supplier’s own geographical area, in that, for example, it would be attractive for the buyer to incur the costs of the general advertising or promotion concerned even if it would not reach customers in other distributors’ geographical areas or customer groups (whether exclusive or not), or
-  - (c) participating in a public procurement exercise undertaken in accordance with[^key-84cc022c225723740cc7ed3a7e901037] —[^key-e601f9a13c6900dfc5946c8f1085e356]
-    - (i) [^key-8a32b8d311913540ff07fd78d45fbaec] the Procurement Act 2023, or[^key-98071bb10ace0afd23abcfc8d637a66d]
+  - (c) participating in a public procurement exercise undertaken in accordance with[^c-84cc022c225723740cc7ed3a7e901037] —[^c-e601f9a13c6900dfc5946c8f1085e356]
+    - (i) [^c-8a32b8d311913540ff07fd78d45fbaec] the Procurement Act 2023, or[^c-98071bb10ace0afd23abcfc8d637a66d]
     - (ii) in respect of a public authority that is a devolved Scottish authority, the Public Contracts (Scotland) Regulations 2015, the Concession Contracts (Scotland) Regulations 2016 or the Utilities Contracts (Scotland) Regulations 2016;
-- “[^key-05404e27b9f1db3c515f57f65d1bb8d9]**public authority**” has the same meaning as in section 2(2) of the Procurement Act 2023.
+- “[^c-05404e27b9f1db3c515f57f65d1bb8d9]**public authority**” has the same meaning as in section 2(2) of the Procurement Act 2023.
 
-### 11. Effect of breach of conditions in article 5, 6, 7, 8 or 10[^key-dd4712c5ca47fe9929b84c0783a96430]
+### 11. Effect of breach of conditions in article 5, 6, 7, 8 or 10[^c-dd4712c5ca47fe9929b84c0783a96430]
 
 (1) Subject to paragraph (2), breach of any of the conditions imposed by article 5, 6, 7, 8(2), (5), (7) or (8) or 10has the effect of cancelling the block exemption in respect of the R&D agreement concerned.
 
 (2) In the case of a breach of the condition in paragraph (8) of article 8, if the combined market share of the undertakings which are parties to the agreement does not exceed the 25% threshold referred to in that paragraph at the end of the seven year period referred to in that paragraph, but subsequently rises above that level, the breach has the effect of cancelling the block exemption but only with effect from the end of the period of two consecutive calendar years following the year in which the 25% threshold referred to in article 8(8) was first exceeded.
 
-### 12. Excluded restrictions[^key-7c5e892f924e665dac20a41b3c414ca6]
+### 12. Excluded restrictions[^c-7c5e892f924e665dac20a41b3c414ca6]
 
 (1) Subject to article 13, the R&D agreement must not contain an excluded restriction.
 
@@ -373,14 +373,14 @@ the agreement must meet the condition in paragraph (5).
 - (b) production of the contract product or the application of the contract technology within the United Kingdom, or
 - (c) the assignment or licensing of intellectual property rights, or the communication of know-how, required for the production of the contract product or the application of the contract technology, to a third party in the United Kingdom.
 
-### 13. Effect of breach of condition in article 12[^key-cddcb712fe0109f98fd192acf846bfec]
+### 13. Effect of breach of condition in article 12[^c-cddcb712fe0109f98fd192acf846bfec]
 
 Breach of the condition imposed by article 12has the effect, as regards an R&D agreement which contains an excluded restriction—
 
 - (a) which is not severable from the agreement, of cancelling the block exemption in respect of that agreement;
 - (b) which is severable from the agreement, of cancelling the block exemption in respect of that excluded restriction only.
 
-### 14. Obligation to provide information and effect of breach[^key-78551de2df68b7dcb0b15fb37edc771a]
+### 14. Obligation to provide information and effect of breach[^c-78551de2df68b7dcb0b15fb37edc771a]
 
 (1) A person must supply to the CMA[^f00013] such information in connection with any agreement claiming the benefit of the block exemption to which it is a party as the CMA may by notice in writing request—
 
@@ -398,7 +398,7 @@ Breach of the condition imposed by article 12has the effect, as regards an R&D a
 
 ## Cancellation and notices
 
-### 15. Cancellation in individual cases[^key-f9da0b7f485cfaf9f1233d9f32966b71]
+### 15. Cancellation in individual cases[^c-f9da0b7f485cfaf9f1233d9f32966b71]
 
 (1) If the CMA considers that a particular R&D agreement is not one which is exempt from the Chapter I prohibition as a result of section 9 of the Competition Act 1998, it may, subject to paragraph (2), by notice in writing cancel the block exemption in respect of that R&D agreement.
 
@@ -407,7 +407,7 @@ Breach of the condition imposed by article 12has the effect, as regards an R&D a
 - (a) give notice in writing of its proposal to cancel the block exemption in accordance with paragraph (1), and
 - (b) consider any representations made to it.
 
-### 16. Notices in writing[^key-79f426c66123aebe1c516ccc3f3f8b16]
+### 16. Notices in writing[^c-79f426c66123aebe1c516ccc3f3f8b16]
 
 For the purposes of articles 14 and 15, notice in writing is to be given by—
 
@@ -422,7 +422,7 @@ For the purposes of articles 14 and 15, notice in writing is to be given by—
 
 ## Transitional and other miscellaneous provision
 
-### 17. Transitional provision[^key-53e167f4183fe068fd3ddbff9646f2c2]
+### 17. Transitional provision[^c-53e167f4183fe068fd3ddbff9646f2c2]
 
 (1) Subject to paragraph (2)—
 
@@ -440,17 +440,17 @@ For the purposes of articles 14 and 15, notice in writing is to be given by—
 
 (5) Articles 14 to 16apply to a pre-existing R&D agreement as they apply to an R&D agreement.
 
-### 18. Amendments to retained block exemption regulations[^key-ad105d213793350394e6491ffdb4f779]
+### 18. Amendments to retained block exemption regulations[^c-ad105d213793350394e6491ffdb4f779]
 
-(1)[^key-eb4ffbeb524933b9fa246ecdfea58600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-eb4ffbeb524933b9fa246ecdfea58600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-40da52256dd9568a76a9a4cea7e8541c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-40da52256dd9568a76a9a4cea7e8541c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8458cd85af9ebadaf3a2baec958a3651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8458cd85af9ebadaf3a2baec958a3651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-6e03766f7394c332a19225f26dbb13d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6e03766f7394c332a19225f26dbb13d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Review[^key-c600109191c329677ad865cb7728e58e]
+### 19. Review[^c-c600109191c329677ad865cb7728e58e]
 
 (1) The Secretary of State must from time to time—
 
@@ -468,7 +468,7 @@ For the purposes of articles 14 and 15, notice in writing is to be given by—
 
 (4) Reports under this article are afterwards to be published at intervals not exceeding five years.
 
-### 20. Expiry[^key-e8109377b327f464ccf77fe1305cb5c0]
+### 20. Expiry[^c-e8109377b327f464ccf77fe1305cb5c0]
 
 This Order ceases to have effect at the end of 31st December 2035.
 
@@ -518,9 +518,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: Section 10A was inserted by [S.I. 2019/93](https://www.legislation.gov.uk/uksi/2019/93). “Retained block exemption regulation” is defined in section 10(12) of the Competition Act 1998 (“**the Act**”), which was also inserted by [S.I. 2019/93](https://www.legislation.gov.uk/uksi/2019/93).
 
-[^key-b35a45b6a2893891ba11e8cf031c1898]: Commencement: Art. 1 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-b35a45b6a2893891ba11e8cf031c1898]: Commencement: Art. 1 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-6f6646d4d15988dffe6400197bbddaa9]: Commencement: Art. 2 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-6f6646d4d15988dffe6400197bbddaa9]: Commencement: Art. 2 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
 [^f00005]: Footnote: “Chapter I prohibition” is defined in section 2(8) of the Act.
 
@@ -528,68 +528,68 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00007]: Footnote: Under section 59(1) (interpretation) of the Act, “person”, in addition to the meaning given by the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), includes any undertaking.
 
-[^key-6d60329ae07088394128b9b5c6a394a8]: Commencement: Art. 3 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-6d60329ae07088394128b9b5c6a394a8]: Commencement: Art. 3 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
 [^f00008]: Footnote: An agreement specified for the purposes of section 6 of the Act is exempt from the prohibition in Chapter 1 of Part 1 of the Act. See section 6(3) of the Act.
 
-[^key-8c9bee3016750ef34073f298568ba593]: Commencement: Art. 4 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-8c9bee3016750ef34073f298568ba593]: Commencement: Art. 4 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-cfee582cbb1942b897f5473205b94058]: Commencement: Art. 5 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-cfee582cbb1942b897f5473205b94058]: Commencement: Art. 5 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-fb39378499555522b350179e5237950f]: Commencement: Art. 6 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-fb39378499555522b350179e5237950f]: Commencement: Art. 6 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-c7d056b030a51f51857a0c5339f00cce]: Commencement: Art. 7 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-c7d056b030a51f51857a0c5339f00cce]: Commencement: Art. 7 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-93f67ec96580f2d08cad7df7ac41c221]: Commencement: Art. 8 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-93f67ec96580f2d08cad7df7ac41c221]: Commencement: Art. 8 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-ea60b6170e765252ab4f20ea9c92ad03]: Commencement: Art. 9 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-ea60b6170e765252ab4f20ea9c92ad03]: Commencement: Art. 9 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-17006a7167e6819148193b4443963139]: Commencement: Art. 10 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-17006a7167e6819148193b4443963139]: Commencement: Art. 10 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-c5823cb0f30a5d369b2f93bf4d10d5d7]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) inserted (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/a) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
+[^c-c5823cb0f30a5d369b2f93bf4d10d5d7]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) inserted (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/a) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
 
-[^key-84cc022c225723740cc7ed3a7e901037]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/27/2)
+[^c-84cc022c225723740cc7ed3a7e901037]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/27/2)
 
-[^key-e601f9a13c6900dfc5946c8f1085e356]: Textual amendment: [Art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5): dash inserted (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(b)(i)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/b/i) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
+[^c-e601f9a13c6900dfc5946c8f1085e356]: Textual amendment: [Art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5): dash inserted (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(b)(i)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/b/i) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
 
-[^key-8a32b8d311913540ff07fd78d45fbaec]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) reordered (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/b/ii) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
+[^c-8a32b8d311913540ff07fd78d45fbaec]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) reordered (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/b/ii) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
 
-[^key-98071bb10ace0afd23abcfc8d637a66d]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) inserted (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/b/iii) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
+[^c-98071bb10ace0afd23abcfc8d637a66d]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) inserted (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/b/iii) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
 
-[^key-05404e27b9f1db3c515f57f65d1bb8d9]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) inserted (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/c) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
+[^c-05404e27b9f1db3c515f57f65d1bb8d9]: Textual amendment: Words in [art. 10(5)](https://www.legislation.gov.uk/uksi/2022/1271/article/10/5) inserted (1.5.2026) by [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(2)(c)](https://www.legislation.gov.uk/uksi/2026/369/article/14/2/c) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
 
-[^key-dd4712c5ca47fe9929b84c0783a96430]: Commencement: Art. 11 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-dd4712c5ca47fe9929b84c0783a96430]: Commencement: Art. 11 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-7c5e892f924e665dac20a41b3c414ca6]: Commencement: Art. 12 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-7c5e892f924e665dac20a41b3c414ca6]: Commencement: Art. 12 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-cddcb712fe0109f98fd192acf846bfec]: Commencement: Art. 13 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-cddcb712fe0109f98fd192acf846bfec]: Commencement: Art. 13 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-78551de2df68b7dcb0b15fb37edc771a]: Commencement: Art. 14 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-78551de2df68b7dcb0b15fb37edc771a]: Commencement: Art. 14 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
 [^f00013]: Footnote: “The CMA” is defined in section 59(1) of the Act.
 
 [^f00014]: Footnote: “working day” is defined in section 59(1) of the Act, the definition having been inserted by [S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261).
 
-[^key-f9da0b7f485cfaf9f1233d9f32966b71]: Commencement: Art. 15 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-f9da0b7f485cfaf9f1233d9f32966b71]: Commencement: Art. 15 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-79f426c66123aebe1c516ccc3f3f8b16]: Commencement: Art. 16 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-79f426c66123aebe1c516ccc3f3f8b16]: Commencement: Art. 16 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
 [^f00015]: Footnote: [S.I. 2014/458](https://www.legislation.gov.uk/uksi/2014/458), to which there are amendments not relevant to this instrument.
 
-[^key-53e167f4183fe068fd3ddbff9646f2c2]: Commencement: Art. 17 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-53e167f4183fe068fd3ddbff9646f2c2]: Commencement: Art. 17 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
 [^f00016]: Footnote: EUR 2010/1217, as amended by [S.I. 2019/93](https://www.legislation.gov.uk/uksi/2019/93).
 
-[^key-ad105d213793350394e6491ffdb4f779]: Commencement: Art. 18 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-ad105d213793350394e6491ffdb4f779]: Commencement: Art. 18 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-eb4ffbeb524933b9fa246ecdfea58600]: Textual amendment: [Art. 18(1)](https://www.legislation.gov.uk/uksi/2022/1271/article/18/1) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-eb4ffbeb524933b9fa246ecdfea58600]: Textual amendment: [Art. 18(1)](https://www.legislation.gov.uk/uksi/2022/1271/article/18/1) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-40da52256dd9568a76a9a4cea7e8541c]: Textual amendment: [Art. 18(2)](https://www.legislation.gov.uk/uksi/2022/1271/article/18/2) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-40da52256dd9568a76a9a4cea7e8541c]: Textual amendment: [Art. 18(2)](https://www.legislation.gov.uk/uksi/2022/1271/article/18/2) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-8458cd85af9ebadaf3a2baec958a3651]: Textual amendment: [Art. 18(3)](https://www.legislation.gov.uk/uksi/2022/1271/article/18/3) omitted (1.5.2026) by virtue of [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2026/369/article/14/3) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
+[^c-8458cd85af9ebadaf3a2baec958a3651]: Textual amendment: [Art. 18(3)](https://www.legislation.gov.uk/uksi/2022/1271/article/18/3) omitted (1.5.2026) by virtue of [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2026/369/article/14/3) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
 
-[^key-6e03766f7394c332a19225f26dbb13d5]: Textual amendment: [Art. 18(4)](https://www.legislation.gov.uk/uksi/2022/1271/article/18/4) omitted (1.5.2026) by virtue of [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2026/369/article/14/3) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
+[^c-6e03766f7394c332a19225f26dbb13d5]: Textual amendment: [Art. 18(4)](https://www.legislation.gov.uk/uksi/2022/1271/article/18/4) omitted (1.5.2026) by virtue of [The Competition Act 1998 (Technology Transfer Agreements Block Exemption) Order 2026 (S.I. 2026/369)](https://www.legislation.gov.uk/uksi/2026/369), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/369/article/1/1), [14(3)](https://www.legislation.gov.uk/uksi/2026/369/article/14/3) (with [art. 1(6)](https://www.legislation.gov.uk/uksi/2026/369/article/1/6))
 
-[^key-c600109191c329677ad865cb7728e58e]: Commencement: Art. 19 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-c600109191c329677ad865cb7728e58e]: Commencement: Art. 19 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
 
-[^key-e8109377b327f464ccf77fe1305cb5c0]: Commencement: Art. 20 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)
+[^c-e8109377b327f464ccf77fe1305cb5c0]: Commencement: Art. 20 in force at 1.1.2023, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2022/1271/article/1/b)

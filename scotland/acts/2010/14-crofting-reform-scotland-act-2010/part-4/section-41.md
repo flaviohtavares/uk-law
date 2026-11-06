@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Extension of period during which sum is payable on disposal of croft land[^key-fa730e1573252af91877b97ec5eb6ffe]
+## 41. Extension of period during which sum is payable on disposal of croft land[^c-fa730e1573252af91877b97ec5eb6ffe]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 14(3) of the 1993 Act (consideration payable in respect of disposal o
 
 ## Annotations
 
-[^key-fa730e1573252af91877b97ec5eb6ffe]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2010/14/section/41) in force at 1.7.2011 by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4), [5(2)](https://www.legislation.gov.uk/ssi/2010/437/article/5/2))
+[^c-fa730e1573252af91877b97ec5eb6ffe]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2010/14/section/41) in force at 1.7.2011 by [S.S.I. 2010/437](https://www.legislation.gov.uk/ssi/2010/437), [art. 3](https://www.legislation.gov.uk/ssi/2010/437/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/437/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/437/article/4), [5(2)](https://www.legislation.gov.uk/ssi/2010/437/article/5/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Expenditure not required to be charged to a revenue account[^key-8deb63ec1f314f258feddee21bf7c3b4]
+## 12. Expenditure not required to be charged to a revenue account[^c-8deb63ec1f314f258feddee21bf7c3b4]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8deb63ec1f314f258feddee21bf7c3b4]: Commencement: Reg. 12 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-8deb63ec1f314f258feddee21bf7c3b4]: Commencement: Reg. 12 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00006]: Footnote: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28).

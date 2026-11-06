@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336. Variation or discharge of order[^key-a9118b9a6243cfff10632858cf908da4]
+## 336. Variation or discharge of order[^c-a9118b9a6243cfff10632858cf908da4]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9118b9a6243cfff10632858cf908da4]: Commencement: [S. 336](https://www.legislation.gov.uk/ukpga/2020/17/section/336) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a9118b9a6243cfff10632858cf908da4]: Commencement: [S. 336](https://www.legislation.gov.uk/ukpga/2020/17/section/336) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61.12. Stay of proceedings[^key-15c3c276e68ba8db6c1696646926b71b]
+## 61.12. Stay of proceedings[^c-15c3c276e68ba8db6c1696646926b71b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ unless the court orders otherwise.
 
 ## Annotations
 
-[^key-15c3c276e68ba8db6c1696646926b71b]: Textual amendment: Pt. 61 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/4015/schedule/5)
+[^c-15c3c276e68ba8db6c1696646926b71b]: Textual amendment: Pt. 61 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 5](https://www.legislation.gov.uk/uksi/2001/4015/schedule/5)

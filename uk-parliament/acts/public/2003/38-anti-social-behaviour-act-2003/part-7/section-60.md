@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60. Power to remove trespassers: alternative site available[^key-ae3a4bf2969e0c26da06dcf95f2a5df9]
+## 60. Power to remove trespassers: alternative site available[^c-ae3a4bf2969e0c26da06dcf95f2a5df9]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ After section 62 of the Criminal Justice and Public Order Act 1994 (c. 33) inser
 
 ## Annotations
 
-[^key-ae3a4bf2969e0c26da06dcf95f2a5df9]: Commencement: S. 60 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)
+[^c-ae3a4bf2969e0c26da06dcf95f2a5df9]: Commencement: S. 60 in force at 27.2.2004 by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 3(b)](https://www.legislation.gov.uk/uksi/2003/3300/article/3/b)

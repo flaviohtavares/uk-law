@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Independence from Ministers[^key-eb02a239ad9b1408dd03f1b5b6cd6415]
+## 7. Independence from Ministers[^c-eb02a239ad9b1408dd03f1b5b6cd6415]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ This section is subject to any contrary provision in this or any other enactment
 
 ## Annotations
 
-[^key-eb02a239ad9b1408dd03f1b5b6cd6415]: Commencement: S. 7 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-eb02a239ad9b1408dd03f1b5b6cd6415]: Commencement: S. 7 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

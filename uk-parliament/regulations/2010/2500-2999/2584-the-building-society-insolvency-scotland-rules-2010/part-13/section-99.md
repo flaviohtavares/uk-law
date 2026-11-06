@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Entitlement to vote (members and contributories)[^key-6b15e548b56e4ff842c778e362a285bb]
+## 99. Entitlement to vote (members and contributories)[^c-6b15e548b56e4ff842c778e362a285bb]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 7.10 of the 1986 Rules[^f00046].
 
 ## Annotations
 
-[^key-6b15e548b56e4ff842c778e362a285bb]: Commencement: Rule 99 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-6b15e548b56e4ff842c778e362a285bb]: Commencement: Rule 99 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00046]: Footnote: Rule 7.10 was amended by paragraph 17 of Schedule 1(2) to [S.I. 2002/2709](https://www.legislation.gov.uk/uksi/2002/2709).

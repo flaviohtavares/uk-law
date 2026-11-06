@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Additional functions of the Commission[^key-eaaec30e72289c8d6e8ed0d44b6b4543][^key-43d5560392e637ebee5125ebf106e5ef]
+## 22. Additional functions of the Commission[^c-eaaec30e72289c8d6e8ed0d44b6b4543][^c-43d5560392e637ebee5125ebf106e5ef]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eaaec30e72289c8d6e8ed0d44b6b4543]: Commencement: S. 22 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-eaaec30e72289c8d6e8ed0d44b6b4543]: Commencement: S. 22 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-43d5560392e637ebee5125ebf106e5ef]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2022/1/section/22) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(h)](https://www.legislation.gov.uk/wsi/2023/919/article/2/h)
+[^c-43d5560392e637ebee5125ebf106e5ef]: Commencement: [S. 22](https://www.legislation.gov.uk/asc/2022/1/section/22) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(h)](https://www.legislation.gov.uk/wsi/2023/919/article/2/h)

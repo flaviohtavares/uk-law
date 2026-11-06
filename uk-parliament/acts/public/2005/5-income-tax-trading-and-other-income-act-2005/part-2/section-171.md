@@ -37,7 +37,7 @@ PAR means the number of grave-spaces or memorial garden plots in the cemetery or
 - (a) ancillary capital expenditure incurred on buildings or structures which were destroyed before the beginning of the first sale period,
 - (b) the excluded amount of any remaining old expenditure (see subsection (3)),
 - (c) if, after the beginning of the first sale period and before the end of the relevant period, an asset representing ancillary capital expenditure was sold or destroyed, the net sale proceeds or the compensation, and
-- (d) any amount deducted under section 170(2)(b) above, or under section 147(2)(b) of CTA 2009[^key-8ed5f8ff1fa447c6a4818e0b30670d1c], for a period of account ending before the relevant period.
+- (d) any amount deducted under section 170(2)(b) above, or under section 147(2)(b) of CTA 2009[^c-8ed5f8ff1fa447c6a4818e0b30670d1c], for a period of account ending before the relevant period.
 
 (3) The excluded amount of remaining old expenditure is calculated by multiplying the remaining old expenditure by the fraction—
 
@@ -63,4 +63,4 @@ PAB means the number of grave-spaces or memorial garden plots in the cemetery or
 
 ## Annotations
 
-[^key-8ed5f8ff1fa447c6a4818e0b30670d1c]: Textual amendment: Words in s. 171(2)(d) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 604](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/604) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-8ed5f8ff1fa447c6a4818e0b30670d1c]: Textual amendment: Words in s. 171(2)(d) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 604](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/604) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

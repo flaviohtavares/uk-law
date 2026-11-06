@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.36. The hearing[^key-be70ca960d1e604c7180eff16abf7117][^key-6d372728ca614d30331c2a6aa037d325]
+## 55.36. The hearing[^c-be70ca960d1e604c7180eff16abf7117][^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Except where—
 
-- (a) the claim is allocated to the fast track , the intermediate track[^key-48b1af18a554baa51a8d9d3a09b855bd] or the multi-track; or
+- (a) the claim is allocated to the fast track , the intermediate track[^c-48b1af18a554baa51a8d9d3a09b855bd] or the multi-track; or
 - (b) the court orders otherwise,
 
 any fact that needs to be proved by the evidence of witnesses at a hearing referred to in paragraph (1) may be proved by evidence in writing.
@@ -40,8 +40,8 @@ any fact that needs to be proved by the evidence of witnesses at a hearing refer
 
 ## Annotations
 
-[^key-be70ca960d1e604c7180eff16abf7117]: Textual amendment: Pt. 55 Section 4 inserted (1.12.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/22/2)
+[^c-be70ca960d1e604c7180eff16abf7117]: Textual amendment: Pt. 55 Section 4 inserted (1.12.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/22/2)
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
 
-[^key-48b1af18a554baa51a8d9d3a09b855bd]: Textual amendment: Words in [rule 55.36(3)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.36/3/a) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2023/572/rule/19/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-48b1af18a554baa51a8d9d3a09b855bd]: Textual amendment: Words in [rule 55.36(3)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.36/3/a) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2023/572/rule/19/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))

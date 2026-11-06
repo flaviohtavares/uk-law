@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113B. Occupational pension schemes: requirements to refer members to guidance etc[^key-9df29da2d35a6ac9199ba3c6be0e1c6c]
+## 113B. Occupational pension schemes: requirements to refer members to guidance etc[^c-9df29da2d35a6ac9199ba3c6be0e1c6c]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9df29da2d35a6ac9199ba3c6be0e1c6c]: Textual amendment: [S. 113B](https://www.legislation.gov.uk/ukpga/1993/48/section/113B) inserted (5.7.2021 for specified purposes, 1.6.2022 in so far as not already in force) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/2), [37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5); [S.I. 2021/764](https://www.legislation.gov.uk/uksi/2021/764), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/764/regulation/2/e); [S.I. 2022/509](https://www.legislation.gov.uk/uksi/2022/509), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/509/regulation/2/b)
+[^c-9df29da2d35a6ac9199ba3c6be0e1c6c]: Textual amendment: [S. 113B](https://www.legislation.gov.uk/ukpga/1993/48/section/113B) inserted (5.7.2021 for specified purposes, 1.6.2022 in so far as not already in force) by [Financial Guidance and Claims Act 2018 (c. 10)](https://www.legislation.gov.uk/ukpga/2018/10), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2018/10/section/19/2), [37(5)](https://www.legislation.gov.uk/ukpga/2018/10/section/37/5); [S.I. 2021/764](https://www.legislation.gov.uk/uksi/2021/764), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/764/regulation/2/e); [S.I. 2022/509](https://www.legislation.gov.uk/uksi/2022/509), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/509/regulation/2/b)

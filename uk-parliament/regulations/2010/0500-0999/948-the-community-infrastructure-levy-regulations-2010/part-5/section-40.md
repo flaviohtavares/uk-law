@@ -97,7 +97,7 @@ it may deem the gross internal area of the part in question to be zero.
   - (ii) part of the chargeable development on completion, and
   - (iii) chargeable at rate R.
 
-## 40. Calculation of chargeable amount[^M_E_1bbd7811-5993-4dd6-f0ab-1abae654f792][^key-5f124feca944ec02b30126ad3d1adbf3]
+## 40. Calculation of chargeable amount[^M_E_1bbd7811-5993-4dd6-f0ab-1abae654f792][^c-5f124feca944ec02b30126ad3d1adbf3]
 
 *Extent: E*
 
@@ -111,4 +111,4 @@ The collecting authority must calculate the amount of CIL payable (“chargeable
 
 [^M_E_1bbd7811-5993-4dd6-f0ab-1abae654f792]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-5f124feca944ec02b30126ad3d1adbf3]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/uksi/2010/948/regulation/40) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-5f124feca944ec02b30126ad3d1adbf3]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/uksi/2010/948/regulation/40) substituted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

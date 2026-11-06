@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Member’s option to make periodical contributions to purchase added pension[^key-2637c4f6c0ff51e2fd5692b7f85319e9]
+## 91. Member’s option to make periodical contributions to purchase added pension[^c-2637c4f6c0ff51e2fd5692b7f85319e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,10 +41,10 @@ This is subject to paragraph (6).
 
 (6) The total pension amounts included in the member’s pension account regulation 29 (establishment of active member’s account) as a result of contributions made under this regulation, taken together with—
 
-- (a) any pension amounts so included as a result of contributions made under regulation 92[^key-8b4b199038a78d024200055c0c6ccd57] (member’s option to pay lump sum contributions to purchase pension); and
+- (a) any pension amounts so included as a result of contributions made under regulation 92[^c-8b4b199038a78d024200055c0c6ccd57] (member’s option to pay lump sum contributions to purchase pension); and
 - (b) any pension amounts included in any other pension account established at any time under regulation 29 (establishment of active member’s account) in respect of the member as a result of—
   - (i) contributions made under this regulation; or
-  - (ii) contributions made under regulation 92[^key-ce82b82937ec66d91c4a433e15787b6d] (member’s option to pay lump sum contributions to purchase pension),
+  - (ii) contributions made under regulation 92[^c-ce82b82937ec66d91c4a433e15787b6d] (member’s option to pay lump sum contributions to purchase pension),
 
 may not exceed such amount as the scheme manager, after the consent of the Treasury has been obtained, may for the time being determine.
 
@@ -59,8 +59,8 @@ may not exceed such amount as the scheme manager, after the consent of the Treas
 
 ## Annotations
 
-[^key-2637c4f6c0ff51e2fd5692b7f85319e9]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2014/2336/regulation/91) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-2637c4f6c0ff51e2fd5692b7f85319e9]: Commencement: [Reg. 91](https://www.legislation.gov.uk/uksi/2014/2336/regulation/91) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
 
-[^key-8b4b199038a78d024200055c0c6ccd57]: Textual amendment: Words in [reg. 91(6)(a)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/91/6/a) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2015/466/regulation/16)
+[^c-8b4b199038a78d024200055c0c6ccd57]: Textual amendment: Words in [reg. 91(6)(a)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/91/6/a) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2015/466/regulation/16)
 
-[^key-ce82b82937ec66d91c4a433e15787b6d]: Textual amendment: Words in [reg. 91(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/91/6/b/ii) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2015/466/regulation/16)
+[^c-ce82b82937ec66d91c4a433e15787b6d]: Textual amendment: Words in [reg. 91(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/91/6/b/ii) substituted (1.4.2015) by [The Armed Forces Pension Scheme and Early Departure Payments Scheme (Amendment) Regulations 2015 (S.I. 2015/466)](https://www.legislation.gov.uk/uksi/2015/466), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/466/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2015/466/regulation/16)

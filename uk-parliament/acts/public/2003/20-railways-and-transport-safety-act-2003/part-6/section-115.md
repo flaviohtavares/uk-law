@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Railways in London: information[^key-5e2756fe25a1380cc187b61ca0e9e22f]
+## 115. Railways in London: information[^c-5e2756fe25a1380cc187b61ca0e9e22f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e2756fe25a1380cc187b61ca0e9e22f]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2003/20/section/115) in force at 31.10.2003 by [S.I. 2003/2681](https://www.legislation.gov.uk/uksi/2003/2681), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/2681/article/2/b)
+[^c-5e2756fe25a1380cc187b61ca0e9e22f]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2003/20/section/115) in force at 31.10.2003 by [S.I. 2003/2681](https://www.legislation.gov.uk/uksi/2003/2681), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/2681/article/2/b)

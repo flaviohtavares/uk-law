@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Power to require name and address[^key-a428437cde747da13b9ab63d8e2ba743][^key-0d59bc8a40bc4507d572c6804f16770b]
+## 7. Power to require name and address[^c-a428437cde747da13b9ab63d8e2ba743][^c-0d59bc8a40bc4507d572c6804f16770b]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a428437cde747da13b9ab63d8e2ba743]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2005/16/section/7) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-a428437cde747da13b9ab63d8e2ba743]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2005/16/section/7) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-0d59bc8a40bc4507d572c6804f16770b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2005/16/section/7) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(b)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/b)
+[^c-0d59bc8a40bc4507d572c6804f16770b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2005/16/section/7) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(b)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/b)

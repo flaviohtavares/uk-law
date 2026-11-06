@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Functions of mayors of combined authorities or CCAs[^key-749327bf2e3ad32475fa1dc2797bf966]
+## 18. Functions of mayors of combined authorities or CCAs[^c-749327bf2e3ad32475fa1dc2797bf966]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-749327bf2e3ad32475fa1dc2797bf966]: Commencement: S. 18 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-749327bf2e3ad32475fa1dc2797bf966]: Commencement: S. 18 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

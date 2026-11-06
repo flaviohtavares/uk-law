@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Procedure for orders under section 5[^key-89d31ebe4ddc9b8b54f9f9a3f49168e1]
+## 7. Procedure for orders under section 5[^c-89d31ebe4ddc9b8b54f9f9a3f49168e1]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89d31ebe4ddc9b8b54f9f9a3f49168e1]: Commencement: S. 7 in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/411/article/2/b)
+[^c-89d31ebe4ddc9b8b54f9f9a3f49168e1]: Commencement: S. 7 in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/411/article/2/b)

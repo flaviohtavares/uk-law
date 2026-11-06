@@ -50,13 +50,13 @@ The Regulations make provision for a purpose mentioned in section 2(2) of the Eu
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and extent[^key-2e1a64f9dfaa1840b3748e4c2dbad4e5]
+### 1. Citation, commencement and extent[^c-2e1a64f9dfaa1840b3748e4c2dbad4e5]
 
 (1) These Regulations may be cited as the Alien and Locally Absent Species in Aquaculture (Scotland) Regulations 2015 and come into force on 3rd April 2015.
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-7cda657296c5ddc8c23ac76b0c5decd1]
+### 2. Interpretation[^c-7cda657296c5ddc8c23ac76b0c5decd1]
 
 (1) In these Regulations—
 
@@ -71,13 +71,13 @@ The Regulations make provision for a purpose mentioned in section 2(2) of the Eu
 
 (3) A reference in these Regulations to anything done in writing or produced in written form includes a reference to an electronic communication, as defined in section 15(1) of the Electronic Communications Act 2000[^f00003] which has been recorded in written form and is capable of being reproduced in that form.
 
-### 3. Competent authority[^key-e43357f77e21f2766f293ce42e38b585]
+### 3. Competent authority[^c-e43357f77e21f2766f293ce42e38b585]
 
 The Scottish Ministers are designated as the competent authority for the purposes of Article 5 of Council Regulation 708/2007.
 
 ## PART 2 — PERMITS
 
-### 4. Permits[^key-6842c63d99fd9012dd78f0e242981561]
+### 4. Permits[^c-6842c63d99fd9012dd78f0e242981561]
 
 (1) A permit—
 
@@ -95,7 +95,7 @@ The Scottish Ministers are designated as the competent authority for the purpose
 - (b) send with the notification the reasons for its decision; and
 - (c) inform the applicant in writing of the right of appeal under regulation 8.
 
-### 5. Amendment of permit[^key-ae232e2b70fb74b2862b74344a5241e5]
+### 5. Amendment of permit[^c-ae232e2b70fb74b2862b74344a5241e5]
 
 (1) The competent authority may amend a permit or any condition imposed by a permit.
 
@@ -113,7 +113,7 @@ The Scottish Ministers are designated as the competent authority for the purpose
 - (c) the date on which the amendment is to take effect; and
 - (d) information on the right of appeal under regulation 8.
 
-### 6. Suspension of permits[^key-f9b07531ea4c4b82657e37c7146f5058]
+### 6. Suspension of permits[^c-f9b07531ea4c4b82657e37c7146f5058]
 
 (1) The competent authority may suspend a permit by serving the permit holder with written notice where it considers that the permit holder has not complied with, is not complying with, or is not likely to comply with any condition of the permit or any provision of Council Regulation 708/2007 or these Regulations.
 
@@ -125,7 +125,7 @@ The Scottish Ministers are designated as the competent authority for the purpose
 
 (3) The notice may include a direction requiring the removal and disposal of any aquatic organism to which the permit relates in such manner as may be specified in the notice.
 
-### 7. Revocation of permits[^key-565e3b521c4fdc5fea8a51b6873dbc96]
+### 7. Revocation of permits[^c-565e3b521c4fdc5fea8a51b6873dbc96]
 
 (1) The competent authority may revoke a permit by serving the permit holder with written notice where it considers that the permit holder has not complied with, is not complying with, or is not likely to comply with any condition of the permit or any provision of Council Regulation 708/2007 or these Regulations.
 
@@ -137,7 +137,7 @@ The Scottish Ministers are designated as the competent authority for the purpose
 
 (3) The notice may include a direction requiring the removal and disposal of any aquatic organism to which the permit relates in such manner as may be specified in the notice.
 
-### 8. Appeal of decision of the competent authority[^key-8139af801db891a9f6b4e2d380705675]
+### 8. Appeal of decision of the competent authority[^c-8139af801db891a9f6b4e2d380705675]
 
 (1) A person (“the appellant”) may appeal to the competent authority against any of the following notices by complying with one of the requirements in paragraph (2) within 21 days from the date on which the notice was served:—
 
@@ -172,12 +172,12 @@ The Scottish Ministers are designated as the competent authority for the purpose
 
 ## PART 3 — MOVEMENT OF ANNEX IV SPECIES AND TRANSLOCATION OF LOCALLY ABSENT SPECIES
 
-### 9. Notification of movement of Annex IV species or translocation of locally absent species[^key-4a75116eeb41b4fb8436a3dbea3046d9]
+### 9. Notification of movement of Annex IV species or translocation of locally absent species[^c-4a75116eeb41b4fb8436a3dbea3046d9]
 
 (1) This regulation applies to a proposal to—
 
 - (a) move an Annex IV species;
-- (b) translocate a locally absent species within Scotland or to Scotland from another part of Great Britain[^key-4cd22473cf35f20e6daa75c519270f4f].
+- (b) translocate a locally absent species within Scotland or to Scotland from another part of Great Britain[^c-4cd22473cf35f20e6daa75c519270f4f].
 
 (2) A person proposing to undertake a movement or translocation must notify the competent authority in writing of the proposal.
 
@@ -190,14 +190,14 @@ The Scottish Ministers are designated as the competent authority for the purpose
 - (a) the movement has previously been permitted by a notice served under regulation 11(2)(b) or (3)(b); or
 - (b) the competent authority has previously served a notice under regulation 15(3), that a permit is not required in respect of a translocation.
 
-### 10. Exemption to regulation 9: rainbow trout and Pacific oysters[^key-6f0481b19e7eeda3e1f7a41ee6e4ed87]
+### 10. Exemption to regulation 9: rainbow trout and Pacific oysters[^c-6f0481b19e7eeda3e1f7a41ee6e4ed87]
 
 Regulation 9 does not apply to movements of—
 
 - (a) *Crassostrea gigas* (Pacific cupped oyster)*;*
 - (b) *Oncorhynchus mykiss* (rainbow trout).
 
-### 11. Movement of Annex IV species[^key-afa6c6f2d8090cee7127d848b34f1c01]
+### 11. Movement of Annex IV species[^c-afa6c6f2d8090cee7127d848b34f1c01]
 
 (1) This regulation applies where the competent authority receives notification under regulation 9(2) of a proposal to move an Annex IV species or where notification is deemed to have been given by virtue of regulation 9(3).
 
@@ -224,7 +224,7 @@ Regulation 9 does not apply to movements of—
 - (a) the reasons for that decision; and
 - (b) information on the right of appeal under regulation 16.
 
-### 12. Amendment of notice issued under regulation 11[^key-941ff8b3eab74e3bb7495ae4f0b186c4]
+### 12. Amendment of notice issued under regulation 11[^c-941ff8b3eab74e3bb7495ae4f0b186c4]
 
 (1) The competent authority may amend a notice, or any condition of a notice, served under regulation 11(2) or (3) (movement of Annex IV species).
 
@@ -242,7 +242,7 @@ Regulation 9 does not apply to movements of—
 - (c) the date on which the amendment is to take effect; and
 - (d) information on the right of appeal under regulation 16.
 
-### 13. Suspension of notice under regulation 11[^key-0991103a5e032e5ec6866181c31ad56e]
+### 13. Suspension of notice under regulation 11[^c-0991103a5e032e5ec6866181c31ad56e]
 
 (1) The competent authority may suspend a notice served under regulation 11 by serving the notice holder with written notice where it considers that the notice holder has not complied with, is not complying with, or is not likely to comply with, any condition of the notice or any provision of Council Regulation 708/2007 or these Regulations.
 
@@ -254,7 +254,7 @@ Regulation 9 does not apply to movements of—
 
 (3) The notice may include a direction requiring the removal and disposal of any aquatic organism to which the notice served under regulation 11 relates in such manner as may be specified in the notice served under paragraph (1).
 
-### 14. Revocation of notice under regulation 11[^key-20d1de58a56146d5c1162f6664845c18]
+### 14. Revocation of notice under regulation 11[^c-20d1de58a56146d5c1162f6664845c18]
 
 (1) The competent authority may revoke a notice served under regulation 11 by serving the notice holder with written notice where it considers that the notice holder has not complied with, is not complying with, or is not likely to comply with, any condition of the notice issued under regulation 11 or any provision of Council Regulation 708/2007 or these Regulations.
 
@@ -266,7 +266,7 @@ Regulation 9 does not apply to movements of—
 
 (3) The notice may include a direction requiring the removal and disposal of any aquatic organism to which the notice served under regulation 11 relates in such a manner as may be specified in the notice served under paragraph (1).
 
-### 15. Translocation of locally absent species[^key-fe16837980abda1010fec4d455e35c41]
+### 15. Translocation of locally absent species[^c-fe16837980abda1010fec4d455e35c41]
 
 (1) This regulation applies where the competent authority receives notification of a proposed translocation of a locally absent species under regulation 9(2) or where notification is deemed to have been given by virtue of regulation 9(3).
 
@@ -279,7 +279,7 @@ Regulation 9 does not apply to movements of—
   - (i) give reasons for the decision; and
   - (ii) inform the person on whom the notice is served of the right of appeal under regulation 16.
 
-### 16. Appeal of notice under regulation 11, 12, 13, 14 or 15[^key-ab0e5540e9bf889a05a6c01c21667587]
+### 16. Appeal of notice under regulation 11, 12, 13, 14 or 15[^c-ab0e5540e9bf889a05a6c01c21667587]
 
 (1) A person (“the appellant”) may appeal to the competent authority against any of the following notices by complying with one of the requirements in paragraph (2) within 21 days from the date on which the notice was served:—
 
@@ -311,17 +311,17 @@ Regulation 9 does not apply to movements of—
 
 ## PART 4 — MONITORING AND RISK ASSESSMENT
 
-### 17. Environmental risk assessment[^key-8341e85825ecbe186be43c6ade620456]
+### 17. Environmental risk assessment[^c-8341e85825ecbe186be43c6ade620456]
 
 An environmental risk assessment carried out under Article 9(1) of Council Regulation 708/2007 is to be produced at the applicant’s own expense.
 
-### 18. Contingency plan[^key-8324ea3d834650c74a5ef2066c7c39e3]
+### 18. Contingency plan[^c-8324ea3d834650c74a5ef2066c7c39e3]
 
 (1) A contingency plan drawn up under Article 17 of Council Regulation 708/2007 is to be produced at the applicant’s own expense and must be approved by the competent authority.
 
 (2) The applicant must implement the contingency plan on the occurrence of an event specified in that plan, as required by Article 17 of Council Regulation 708/2007.
 
-### 19. Monitoring[^key-057356430b2849e1ccb02417584eac79]
+### 19. Monitoring[^c-057356430b2849e1ccb02417584eac79]
 
 (1) This regulation applies where monitoring is required under Article 18 or 22 of Council Regulation 708/2007.
 
@@ -334,7 +334,7 @@ An environmental risk assessment carried out under Article 9(1) of Council Regul
 
 ## PART 5 — ENFORCEMENT
 
-### 20. Entry and inspection of land and premises[^key-4487356537c4eb99ed3fd7581f380ba4]
+### 20. Entry and inspection of land and premises[^c-4487356537c4eb99ed3fd7581f380ba4]
 
 (1) An inspector may, on producing some duly authenticated document showing the inspector’s authority if required, enter and inspect any land or premises at any reasonable time for the purposes of administering and enforcing Council Regulation 708/2007 or these Regulations.
 
@@ -349,7 +349,7 @@ An environmental risk assessment carried out under Article 9(1) of Council Regul
 
 whichever is the sooner.
 
-(5)[^key-b593f60a4e481466595461623af4f0b2] An inspector entering any land or premises may be accompanied by such persons, vehicles, equipment or materials as the inspector considers necessary.
+(5)[^c-b593f60a4e481466595461623af4f0b2] An inspector entering any land or premises may be accompanied by such persons, vehicles, equipment or materials as the inspector considers necessary.
 
 (6) An inspector entering any premises which are unoccupied, or from which the occupier is temporarily absent, must leave them as effectively secured against unauthorised entry as the inspector found them.
 
@@ -358,14 +358,14 @@ whichever is the sooner.
 - (a) any vessel, vehicle or trailer; and
 - (b) any installation, container or receptacle.
 
-### 21. Enforcement powers: general[^key-cad878c5275e0bc6a8f7e1f07a23d763]
+### 21. Enforcement powers: general[^c-cad878c5275e0bc6a8f7e1f07a23d763]
 
 The powers conferred by regulations 22, 23 and 24 may only be exercised—
 
 - (a) for the purpose of determining whether an offence under these Regulations has been committed; or
 - (b) in relation to an item, document or record which an inspector reasonably believes to be evidence of the commission of an offence under these Regulations.
 
-### 22. Search and examination of items on land and premises[^key-d86330f5ccff086c77943663c5f203c4]
+### 22. Search and examination of items on land and premises[^c-d86330f5ccff086c77943663c5f203c4]
 
 An inspector entering any land or premises under regulation 20 may—
 
@@ -374,14 +374,14 @@ An inspector entering any land or premises under regulation 20 may—
   - (i) on the land or premises; or
   - (ii) attached to, or otherwise forms part of the land or premises.
 
-### 23. Production of documents[^key-2cad58aed069ae65bc7651bc9dd14252]
+### 23. Production of documents[^c-2cad58aed069ae65bc7651bc9dd14252]
 
 An inspector entering any land or premises under regulation 20 may require any person—
 
 - (a) to produce any document or record that is in that person’s possession or control; or
 - (b) to render any such document or record on a computer system into a visible and legible form, including requiring it to be produced in a form in which it may be taken away.
 
-### 24. Seizure of items[^key-f961bd07f49560982bc344ee74cd5aa9]
+### 24. Seizure of items[^c-f961bd07f49560982bc344ee74cd5aa9]
 
 (1) This regulation applies where an inspector exercises a power conferred by regulation 22 or 23.
 
@@ -403,7 +403,7 @@ An inspector entering any land or premises under regulation 20 may require any p
 
 (7) Any aquatic organism or water seized by an inspector may be disposed of as the inspector sees fit.
 
-### 25. Enforcement notices[^key-e300e8235eae9053f199c3d78d3d084e]
+### 25. Enforcement notices[^c-e300e8235eae9053f199c3d78d3d084e]
 
 (1) Where the competent authority considers that any person has not complied with, or is not complying with, Council Regulation 708/2007 or these Regulations it may serve an enforcement notice on that person.
 
@@ -440,7 +440,7 @@ An inspector entering any land or premises under regulation 20 may require any p
 
 (7) In this regulation “operator” means any person who is responsible for the management of the aquaculture facility.
 
-### 26. Appeals: enforcement notices[^key-26b6a18a7d3fbb5e2927129ab31ac211]
+### 26. Appeals: enforcement notices[^c-26b6a18a7d3fbb5e2927129ab31ac211]
 
 (1) A person (“the appellant”) may appeal against an enforcement notice served under regulation 25 by complying with one of the requirements in paragraph (2) within 21 days from the date of the notice being served.
 
@@ -476,7 +476,7 @@ An inspector entering any land or premises under regulation 20 may require any p
 
 ## PART 6 — OFFENCES AND PENALTIES
 
-### 27. Offences[^key-92b7c8267d8dcea71d70fd9eca2a9b06]
+### 27. Offences[^c-92b7c8267d8dcea71d70fd9eca2a9b06]
 
 A person commits an offence if that person—
 
@@ -495,14 +495,14 @@ A person commits an offence if that person—
 - (i) fails to comply with regulation 9(2) or (4) (notification of movement of Annex IV species or translocation of locally absent species); or
 - (j) fails to immediately implement an approved contingency plan as required by Article 17 of Council Regulation 708/2007 when a contingency event in that plan occurs.
 
-### 28. Penalties[^key-3d9c541ab13e8cdf279ca8086a0372a5]
+### 28. Penalties[^c-3d9c541ab13e8cdf279ca8086a0372a5]
 
 A person guilty of an offence under these Regulations is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-### 29. Offences by bodies corporate or Scottish partnerships[^key-46d36b149cb871533b5c488dd6c29e55]
+### 29. Offences by bodies corporate or Scottish partnerships[^c-46d36b149cb871533b5c488dd6c29e55]
 
 (1) Where—
 
@@ -523,14 +523,14 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 ## PART 7 — MISCELLANEOUS
 
-### 30. Disclosure of information[^key-aae671ed58cc2fd327c20fb41424328e]
+### 30. Disclosure of information[^c-aae671ed58cc2fd327c20fb41424328e]
 
 The competent authority may disclose information to—
 
 - (a) the equivalent authority in England and Wales for the purposes of Council Regulation 708/2007, these Regulations, or legislation corresponding to these Regulations in England and Wales;
 - (b) the equivalent authority in Northern Ireland, for the purposes of Council Regulation 708/2007 as it has effect by virtue of section 7A of the European Union (Withdrawal) Act 2018, these Regulations, or legislation corresponding to these Regulations in Northern Ireland.
 
-### 31. Service of notices[^key-a26e7b1562ace892c9778a7ca993dc7d]
+### 31. Service of notices[^c-a26e7b1562ace892c9778a7ca993dc7d]
 
 (1) A notice served under these Regulations may be served on a person by—
 
@@ -584,74 +584,74 @@ The Regulatory Impact Assessment relating to these Regulations is available from
 
 [^f00002]: Footnote: OJ L 168, 28.6.2007, p.1 as amended by [Commission Regulation (EC) No 506/2008](https://www.legislation.gov.uk/european/regulation/2008/0506), OJ L 149, 7.6.2008, p.36 and Regulation (EU) No 304/2011 of the European Parliament and of the Council, OJ L 88, 4.4.2011, p.1
 
-[^key-2e1a64f9dfaa1840b3748e4c2dbad4e5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/103/regulation/1) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-2e1a64f9dfaa1840b3748e4c2dbad4e5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/103/regulation/1) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-7cda657296c5ddc8c23ac76b0c5decd1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/103/regulation/2) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-7cda657296c5ddc8c23ac76b0c5decd1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/103/regulation/2) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
 [^f00003]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7), as amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-e43357f77e21f2766f293ce42e38b585]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/103/regulation/3) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-e43357f77e21f2766f293ce42e38b585]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/103/regulation/3) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-6842c63d99fd9012dd78f0e242981561]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/103/regulation/4) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-6842c63d99fd9012dd78f0e242981561]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/103/regulation/4) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-ae232e2b70fb74b2862b74344a5241e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/103/regulation/5) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-ae232e2b70fb74b2862b74344a5241e5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/103/regulation/5) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-f9b07531ea4c4b82657e37c7146f5058]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/103/regulation/6) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-f9b07531ea4c4b82657e37c7146f5058]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/103/regulation/6) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-565e3b521c4fdc5fea8a51b6873dbc96]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/103/regulation/7) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-565e3b521c4fdc5fea8a51b6873dbc96]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/103/regulation/7) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-8139af801db891a9f6b4e2d380705675]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/103/regulation/8) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-8139af801db891a9f6b4e2d380705675]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/103/regulation/8) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-4a75116eeb41b4fb8436a3dbea3046d9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/103/regulation/9) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-4a75116eeb41b4fb8436a3dbea3046d9]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/103/regulation/9) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-4cd22473cf35f20e6daa75c519270f4f]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/ssi/2015/103/regulation/9/1/b) substituted (31.12.2020) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/3), [4(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/4/2)
+[^c-4cd22473cf35f20e6daa75c519270f4f]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/ssi/2015/103/regulation/9/1/b) substituted (31.12.2020) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/3), [4(2)](https://www.legislation.gov.uk/ssi/2020/393/regulation/4/2)
 
 [^f00004]: Footnote: [S.S.I. 2009/85](https://www.legislation.gov.uk/ssi/2009/85) as amended by [S.S.I. 2011/259](https://www.legislation.gov.uk/ssi/2011/259), [S.S.I. 2011/427](https://www.legislation.gov.uk/ssi/2011/427) and [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177).
 
-[^key-6f0481b19e7eeda3e1f7a41ee6e4ed87]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/103/regulation/10) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-6f0481b19e7eeda3e1f7a41ee6e4ed87]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/103/regulation/10) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-afa6c6f2d8090cee7127d848b34f1c01]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/103/regulation/11) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-afa6c6f2d8090cee7127d848b34f1c01]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/103/regulation/11) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-941ff8b3eab74e3bb7495ae4f0b186c4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/103/regulation/12) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-941ff8b3eab74e3bb7495ae4f0b186c4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/103/regulation/12) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-0991103a5e032e5ec6866181c31ad56e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/103/regulation/13) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-0991103a5e032e5ec6866181c31ad56e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/103/regulation/13) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-20d1de58a56146d5c1162f6664845c18]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/103/regulation/14) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-20d1de58a56146d5c1162f6664845c18]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/103/regulation/14) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-fe16837980abda1010fec4d455e35c41]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/103/regulation/15) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-fe16837980abda1010fec4d455e35c41]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/103/regulation/15) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-ab0e5540e9bf889a05a6c01c21667587]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/103/regulation/16) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-ab0e5540e9bf889a05a6c01c21667587]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/103/regulation/16) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-8341e85825ecbe186be43c6ade620456]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/103/regulation/17) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-8341e85825ecbe186be43c6ade620456]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/103/regulation/17) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-8324ea3d834650c74a5ef2066c7c39e3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/103/regulation/18) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-8324ea3d834650c74a5ef2066c7c39e3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/103/regulation/18) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-057356430b2849e1ccb02417584eac79]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/103/regulation/19) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-057356430b2849e1ccb02417584eac79]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/103/regulation/19) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-4487356537c4eb99ed3fd7581f380ba4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/103/regulation/20) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-4487356537c4eb99ed3fd7581f380ba4]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/103/regulation/20) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-b593f60a4e481466595461623af4f0b2]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/ssi/2015/103/regulation/20/5) substituted (31.12.2020) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/3), [4(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/4/3)
+[^c-b593f60a4e481466595461623af4f0b2]: Textual amendment: [Reg. 20(5)](https://www.legislation.gov.uk/ssi/2015/103/regulation/20/5) substituted (31.12.2020) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/3), [4(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/4/3)
 
-[^key-cad878c5275e0bc6a8f7e1f07a23d763]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/103/regulation/21) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-cad878c5275e0bc6a8f7e1f07a23d763]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/103/regulation/21) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-d86330f5ccff086c77943663c5f203c4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/103/regulation/22) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-d86330f5ccff086c77943663c5f203c4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/103/regulation/22) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-2cad58aed069ae65bc7651bc9dd14252]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/103/regulation/23) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-2cad58aed069ae65bc7651bc9dd14252]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/103/regulation/23) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-f961bd07f49560982bc344ee74cd5aa9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2015/103/regulation/24) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-f961bd07f49560982bc344ee74cd5aa9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2015/103/regulation/24) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-e300e8235eae9053f199c3d78d3d084e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2015/103/regulation/25) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-e300e8235eae9053f199c3d78d3d084e]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2015/103/regulation/25) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-26b6a18a7d3fbb5e2927129ab31ac211]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2015/103/regulation/26) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-26b6a18a7d3fbb5e2927129ab31ac211]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2015/103/regulation/26) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-92b7c8267d8dcea71d70fd9eca2a9b06]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2015/103/regulation/27) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-92b7c8267d8dcea71d70fd9eca2a9b06]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2015/103/regulation/27) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-3d9c541ab13e8cdf279ca8086a0372a5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2015/103/regulation/28) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-3d9c541ab13e8cdf279ca8086a0372a5]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2015/103/regulation/28) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-46d36b149cb871533b5c488dd6c29e55]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2015/103/regulation/29) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-46d36b149cb871533b5c488dd6c29e55]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2015/103/regulation/29) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
-[^key-aae671ed58cc2fd327c20fb41424328e]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/ssi/2015/103/regulation/30) substituted (31.12.2020) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/3), [4(4)](https://www.legislation.gov.uk/ssi/2020/393/regulation/4/4)
+[^c-aae671ed58cc2fd327c20fb41424328e]: Textual amendment: [Reg. 30](https://www.legislation.gov.uk/ssi/2015/103/regulation/30) substituted (31.12.2020) by [The Aquaculture and Fisheries (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/393)](https://www.legislation.gov.uk/ssi/2020/393), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/393/regulation/1/3), [4(4)](https://www.legislation.gov.uk/ssi/2020/393/regulation/4/4)
 
-[^key-a26e7b1562ace892c9778a7ca993dc7d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2015/103/regulation/31) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
+[^c-a26e7b1562ace892c9778a7ca993dc7d]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2015/103/regulation/31) in force at 3.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/103/regulation/1/1)
 
 [^f00007]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).

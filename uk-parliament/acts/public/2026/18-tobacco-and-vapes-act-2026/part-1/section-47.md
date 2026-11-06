@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Transitional provision: general[^key-f3ff383d7a7f9e9d598fdfc2131e207a]
+## 47. Transitional provision: general[^c-f3ff383d7a7f9e9d598fdfc2131e207a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3ff383d7a7f9e9d598fdfc2131e207a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2026/18/section/47) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-f3ff383d7a7f9e9d598fdfc2131e207a]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2026/18/section/47) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

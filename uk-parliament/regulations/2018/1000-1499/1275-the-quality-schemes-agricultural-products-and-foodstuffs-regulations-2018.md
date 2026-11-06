@@ -60,24 +60,24 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 ## PART 1 — Introductory
 
-### 1. Citation , commencement and extent[^M_E_e37e8ccf-ead1-4a0c-8c22-cda7f564078e][^key-e63bfb7813b3b67c685cfdd5a86fd9e4]
+### 1. Citation , commencement and extent[^M_E_e37e8ccf-ead1-4a0c-8c22-cda7f564078e][^c-e63bfb7813b3b67c685cfdd5a86fd9e4]
 
 *Extent: E+W+S*
 
-(1)[^key-f4c9d6a01469d87c86f86a029531efaf] These Regulations may be cited as the Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018 and come into force on 1st January 2019.
+(1)[^c-f4c9d6a01469d87c86f86a029531efaf] These Regulations may be cited as the Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018 and come into force on 1st January 2019.
 
-(2)[^key-add771a6f13e9816ab0b3247bb8b478a] The following provisions extend to Great Britain—
+(2)[^c-add771a6f13e9816ab0b3247bb8b478a] The following provisions extend to Great Britain—
 
 - (a) this Part and Parts 2 to 4;
 - (b) regulations 22 and 23.
 
-### 1. Citation , commencement and extent[^M_E_3fc4e9e5-a677-4944-a773-64cf453ac4f3][^key-8dc4cb61d8f10c1a984cdb36c36a95ec]
+### 1. Citation , commencement and extent[^M_E_3fc4e9e5-a677-4944-a773-64cf453ac4f3][^c-8dc4cb61d8f10c1a984cdb36c36a95ec]
 
 *Extent: N.I.*
 
-(1)[^key-d51e078f326c473233afa1d2ed413082] These Regulations may be cited as the Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018 and come into force on 1st January 2019.
+(1)[^c-d51e078f326c473233afa1d2ed413082] These Regulations may be cited as the Quality Schemes (Agricultural Products and Foodstuffs) Regulations 2018 and come into force on 1st January 2019.
 
-(2)[^key-54febcda2e7070da268628cc168748ca] The following provisions extend to Northern Ireland—
+(2)[^c-54febcda2e7070da268628cc168748ca] The following provisions extend to Northern Ireland—
 
 - (a) this Part and Parts 2 to 4;
 - (b) regulations 21 to 23.
@@ -89,16 +89,16 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 (1) In these Regulations—
 
 - (a) terms used that are also used in the EU Regulations have the same meaning as they have in the EU Regulations, and
-- (b) any reference to an Article, except where otherwise specified[^key-20f3f0bfe0c437b33c60c7a837a40bef] , is a reference to an Article of Regulation 1151/2012 [^c23460721].
+- (b) any reference to an Article, except where otherwise specified[^c-20f3f0bfe0c437b33c60c7a837a40bef] , is a reference to an Article of Regulation 1151/2012 [^c23460721].
 
 (2) In these Regulations—
 
-- [^key-851fc4fae7b9818843faa1b126d4cd05]...
-- Regulation 1151/2012” means Regulation (EU) No 1151/2012 of the European Parliament and of the Council on quality schemes for agricultural products and foodstuffs[^key-a015361b08cd35c469a2124f99627c7a]
+- [^c-851fc4fae7b9818843faa1b126d4cd05]...
+- Regulation 1151/2012” means Regulation (EU) No 1151/2012 of the European Parliament and of the Council on quality schemes for agricultural products and foodstuffs[^c-a015361b08cd35c469a2124f99627c7a]
 - “**Regulation 664/2014**” means Commission Delegated Regulation (EU) No 664/2014 supplementing Regulation (EU) No 1151/2012 of the European Parliament and of the Council with regard to the establishment of the Union symbols for protected designations of origin, protected geographical indications and traditional specialities guaranteed and with regard to certain rules on sourcing, certain procedural rules and certain additional transitional rules [^c23460741];
 - “**Regulation 665/2014**” means Commission Delegated Regulation (EU) No 665/2014 supplementing Regulation (EU) No 1151/2012 of the European Parliament and of the Council with regard to conditions of use of the optional quality term ‘mountain product’[^c23460751];
 - “**Regulation 668/2014**” means Commission Implementing Regulation (EU) No 668/2014 laying down rules for the application of Regulation (EU) 1151/2012 of the European Parliament and of the Council on quality schemes for agricultural products and foodstuffs [^c23460761];
-- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;[^key-0299e731d9b430a4846921b6ddfd1aec]
+- “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;[^c-0299e731d9b430a4846921b6ddfd1aec]
 - “**authorised officer**” means a person (whether or not an officer of an enforcement authority) who is authorised by the enforcement authority in writing to act in relation to matters arising under these Regulations and the EU Regulations;
 - “costs”, except in regulation 9(3), has the meaning given in regulation 14(7);
 - “**enforcement authority**” means an enforcement authority appointed under regulation 6(2);
@@ -154,7 +154,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (1) The competent authority is the Secretary of State.
 
-(2)[^key-6b1f2124a6201d2e0f9c89eb82b7c919] The Secretary of State is responsible for exercising the functions of the designated authority for the purposes of Articles 13(3), 24(2) and 34.
+(2)[^c-6b1f2124a6201d2e0f9c89eb82b7c919] The Secretary of State is responsible for exercising the functions of the designated authority for the purposes of Articles 13(3), 24(2) and 34.
 
 ### 3. The competent authority etc.[^M_E_ed584f03-792d-4df3-9248-2585293decdb]
 
@@ -162,13 +162,13 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (1) The competent authority is the Secretary of State.
 
-(2) As regards Northern Ireland,[^key-59232db970d531df5b87822741935c7c] the Secretary of State is also responsible for exercising the functions of—
+(2) As regards Northern Ireland,[^c-59232db970d531df5b87822741935c7c] the Secretary of State is also responsible for exercising the functions of—
 
-- (a) a Member State for the purposes of Articles 8, 13, 20, 24, 34, 37(3), [^key-a217e35cdd2ebd685111b2388a1117b4]... 40 and 46;
+- (a) a Member State for the purposes of Articles 8, 13, 20, 24, 34, 37(3), [^c-a217e35cdd2ebd685111b2388a1117b4]... 40 and 46;
 - (b) the authorities of a Member State for the purposes of Article 13(3) and the first subparagraph of Article 49(2);
 - (c) a Member State for the purposes of—
   - (i) the second subparagraph of Article 49(2);
-  - (ii) Article 49(3)[^key-1972a71e1983cb722662976c95c49d9b]...;
+  - (ii) Article 49(3)[^c-1972a71e1983cb722662976c95c49d9b]...;
   - (iii) Article 49(4);
   - (iv) Article 10(2) of Regulation 668/2014.
 
@@ -181,7 +181,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (2) The report must cover the result of that exercise and must be submitted to the Secretary of State within 28 days of that result.
 
-### 5. Delegation to control bodies[^key-17540e260fea37b00118023953277641]
+### 5. Delegation to control bodies[^c-17540e260fea37b00118023953277641]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -197,7 +197,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) An enforcement authority appointed under paragraph (2) must execute and enforce the provisions of the EU Regulations and these Regulations specified in the terms of its appointment.
 
-(4)[^key-34e2d32dfde91293280eb044ae2f793c] For the purposes of these Regulations any authority (other than the council of a non-metropolitan district) that is a food authority for the purposes of the Food Safety Act 1990 is eligible for appointment as an enforcement authority.
+(4)[^c-34e2d32dfde91293280eb044ae2f793c] For the purposes of these Regulations any authority (other than the council of a non-metropolitan district) that is a food authority for the purposes of the Food Safety Act 1990 is eligible for appointment as an enforcement authority.
 
 (5) Where an enforcement authority is appointed under paragraph (2), the appointment shall operate in relation to its area only.
 
@@ -215,7 +215,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) An enforcement authority appointed under paragraph (2) must execute and enforce the provisions of the EU Regulations and these Regulations specified in the terms of its appointment.
 
-(4)[^key-755401bac1b024a65f28bc4cc0d419c8] For the purposes of these Regulations any district council within the meaning of the Interpretation Act (Northern Ireland) 1954 is eligible for appointment as an enforcement authority.
+(4)[^c-755401bac1b024a65f28bc4cc0d419c8] For the purposes of these Regulations any district council within the meaning of the Interpretation Act (Northern Ireland) 1954 is eligible for appointment as an enforcement authority.
 
 (5) Where an enforcement authority is appointed under paragraph (2), the appointment shall operate in relation to its area only.
 
@@ -269,7 +269,7 @@ the enforcement authority may indemnify the officer against the whole or a part 
 
 (3) An authorised officer must, if requested to do so, produce a duly authenticated authorisation document.
 
-(4) A justice of the peace in England and Wales or[^key-a1976adf205284b8f1a9ce6b24872ec9] a sheriff or justice of the peace in Scotland, [^key-330a893f4ffbd404dd6aa77acc2415e7]... may by signed warrant permit an authorised officer to enter any premises, including dwelling-houses, if necessary by reasonable force, if the justice or sheriff[^key-1710ef14026d92fb0e0fb567042640ec] on sworn information in writing is satisfied—
+(4) A justice of the peace in England and Wales or[^c-a1976adf205284b8f1a9ce6b24872ec9] a sheriff or justice of the peace in Scotland, [^c-330a893f4ffbd404dd6aa77acc2415e7]... may by signed warrant permit an authorised officer to enter any premises, including dwelling-houses, if necessary by reasonable force, if the justice or sheriff[^c-1710ef14026d92fb0e0fb567042640ec] on sworn information in writing is satisfied—
 
 - (a) that there are reasonable grounds to enter those premises for the purpose of enforcing these Regulations or the EU Regulations, and
 - (b) that one or more of the conditions in paragraph (5) are met.
@@ -287,7 +287,7 @@ the enforcement authority may indemnify the officer against the whole or a part 
 
 (8) An authorised officer may—
 
-- (a)[^key-f3eb30b9c37ffc8244b9308e439a13bf] be accompanied by such other persons as the authorised officer considers necessary;
+- (a)[^c-f3eb30b9c37ffc8244b9308e439a13bf] be accompanied by such other persons as the authorised officer considers necessary;
 - (b) bring on to the premises such equipment as the authorised officer considers necessary.
 
 ### 10. Powers of entry[^M_E_a8b5e9b4-39ae-4239-c24c-30a36f54f1f4]
@@ -304,7 +304,7 @@ the enforcement authority may indemnify the officer against the whole or a part 
 
 (3) An authorised officer must, if requested to do so, produce a duly authenticated authorisation document.
 
-(4) A [^key-b773a4648b0cd6670828b7983cb696f2]... lay magistrate in Northern Ireland, may by signed warrant permit an authorised officer to enter any premises, including dwelling-houses, if necessary by reasonable force, if the [^key-530f025ace112b489bfdaa8bd41a0acb]... lay magistrate, on sworn information in writing is satisfied—
+(4) A [^c-b773a4648b0cd6670828b7983cb696f2]... lay magistrate in Northern Ireland, may by signed warrant permit an authorised officer to enter any premises, including dwelling-houses, if necessary by reasonable force, if the [^c-530f025ace112b489bfdaa8bd41a0acb]... lay magistrate, on sworn information in writing is satisfied—
 
 - (a) that there are reasonable grounds to enter those premises for the purpose of enforcing these Regulations or the EU Regulations, and
 - (b) that one or more of the conditions in paragraph (5) are met.
@@ -322,7 +322,7 @@ the enforcement authority may indemnify the officer against the whole or a part 
 
 (8) An authorised officer may—
 
-- (a)[^key-fa4bc4cf38ccbdb5f2b853d3e717cd0c] be accompanied by such other persons as the authorised officer considers necessary;
+- (a)[^c-fa4bc4cf38ccbdb5f2b853d3e717cd0c] be accompanied by such other persons as the authorised officer considers necessary;
 - (b) bring on to the premises such equipment as the authorised officer considers necessary.
 
 ### 11. Powers of authorised officers on entry
@@ -351,7 +351,7 @@ the enforcement authority may indemnify the officer against the whole or a part 
 
 (1) An authorised officer may serve a notice in writing on any person if the authorised officer has grounds for believing that the person—
 
-- (a)[^key-1f93618756837ebb59be6f48a6585325] has marketed, or is marketing or intending to market, a product—
+- (a)[^c-1f93618756837ebb59be6f48a6585325] has marketed, or is marketing or intending to market, a product—
   - (i) under a registered PDO or PGI which has not been labelled in a way described in Article 12 of Regulation 1151/2012 as read with Article 16(4) of that Regulation and Article 2 of, and the Annex to, Regulation 664/2014, or
   - (ii) under a registered TSG which has not been labelled in a way described in Article 23 of Regulation 1151/2012 as read with Article 25(4) of that Regulation and Article 2 of, and the Annex to, Regulation 664/2014;
 - (b) has made, or is making or intending to make, any direct or indirect commercial use of a registered PDO or PGI in a way described in Article 13(1)(a);
@@ -362,7 +362,7 @@ the enforcement authority may indemnify the officer against the whole or a part 
 - (g) has used, or is using or intending to use, a sales description that causes confusion with a registered TSG in a way described in Article 24(2);
 - (h) has marketed, or is marketing or intending to market, a product described with an optional quality term in contravention of Article 33(1);
 - (i) has used, or is using or intending to use, an indication, abbreviation or symbol in contravention of Article 44(1), as read with Regulation 665/2014;
-- (j) has marketed, or is marketing or intending to market, a product under a registered PDO, PGI or TSG which has not been labelled in a way described in Article 13(1) to (3) of Regulation 668/2014 as read with Article 2 of, and the Annex to,[^key-9736d4046621513e69207da84b8302aa] Regulation 664/2014.
+- (j) has marketed, or is marketing or intending to market, a product under a registered PDO, PGI or TSG which has not been labelled in a way described in Article 13(1) to (3) of Regulation 668/2014 as read with Article 2 of, and the Annex to,[^c-9736d4046621513e69207da84b8302aa] Regulation 664/2014.
 
 (2) A notice served under paragraph (1) must contain the following—
 
@@ -370,14 +370,14 @@ the enforcement authority may indemnify the officer against the whole or a part 
 - (b) the name and address of the person on whom the notice is served;
 - (c) the grounds for service of the notice;
 - (d) information on the steps the person must take to comply with the notice;
-- (e) except to the extent that the steps are confined to refraining from doing something believed to be intended, the period within which each step must be completed in order to comply with the notice, which must not expire before the period within which an appeal may be brought under regulation 15 or 16 as the case may be[^key-af0c1f8fd7362caa12cdf0e5b8beb49c];
+- (e) except to the extent that the steps are confined to refraining from doing something believed to be intended, the period within which each step must be completed in order to comply with the notice, which must not expire before the period within which an appeal may be brought under regulation 15 or 16 as the case may be[^c-af0c1f8fd7362caa12cdf0e5b8beb49c];
 - (f) information as to—
   - (i) the rights of appeal;
   - (ii) the scope for suspension of a notice pending appeal;
   - (iii) the consequences of an appeal;
   - (iv) the consequences of a failure to comply with the notice.
 
-(3) Subject to regulations 15 and 16[^key-1397819a512beb404c55d08fb5ef339e], the person on whom the notice is served must comply with the notice.
+(3) Subject to regulations 15 and 16[^c-1397819a512beb404c55d08fb5ef339e], the person on whom the notice is served must comply with the notice.
 
 (4) A notice served under this regulation is referred to in these Regulations as a compliance notice.
 
@@ -404,14 +404,14 @@ the enforcement authority may indemnify the officer against the whole or a part 
 - (b) the name and address of the person on whom the notice is served;
 - (c) the grounds for service of the notice;
 - (d) information on the steps the person must take to comply with the notice;
-- (e) except to the extent that the steps are confined to refraining from doing something believed to be intended, the period within which each step must be completed in order to comply with the notice, which must not expire before the period within which an appeal may be brought under regulation [^key-c93d675120afcbcee37e98b167e2007a]... 17;
+- (e) except to the extent that the steps are confined to refraining from doing something believed to be intended, the period within which each step must be completed in order to comply with the notice, which must not expire before the period within which an appeal may be brought under regulation [^c-c93d675120afcbcee37e98b167e2007a]... 17;
 - (f) information as to—
   - (i) the rights of appeal;
   - (ii) the scope for suspension of a notice pending appeal;
   - (iii) the consequences of an appeal;
   - (iv) the consequences of a failure to comply with the notice.
 
-(3) Subject to regulation[^key-7d07f549134e3adb8d04924a3199b720] 17, the person on whom the notice is served must comply with the notice.
+(3) Subject to regulation[^c-7d07f549134e3adb8d04924a3199b720] 17, the person on whom the notice is served must comply with the notice.
 
 (4) A notice served under this regulation is referred to in these Regulations as a compliance notice.
 
@@ -440,7 +440,7 @@ an enforcement authority may, by way of serving a written notice on the person, 
 - (b) the name and address of the person on whom the notice is served;
 - (c) the grounds for serving the notice;
 - (d) the amount of the penalty;
-- (e) the period within which the penalty must be paid, which must not expire before the period within which an appeal may be brought under regulation 15 or 16 as the case may be[^key-966996ff5757c85c6bc88fcb09e7861d];
+- (e) the period within which the penalty must be paid, which must not expire before the period within which an appeal may be brought under regulation 15 or 16 as the case may be[^c-966996ff5757c85c6bc88fcb09e7861d];
 - (f) whether any discount is offered for early payment, and if so—
   - (i) the amount of the discount;
   - (ii) the period within which the penalty must be paid to take advantage of the discount;
@@ -450,7 +450,7 @@ an enforcement authority may, by way of serving a written notice on the person, 
   - (iii) the consequences of an appeal;
   - (iv) the consequences of failing to comply with the notice.
 
-(4) Subject to regulations 15 and 16[^key-58119a10fc70a9fa94380c513e094c43], the person on whom the notice is served must comply with the notice.
+(4) Subject to regulations 15 and 16[^c-58119a10fc70a9fa94380c513e094c43], the person on whom the notice is served must comply with the notice.
 
 (5) If the requirements of the compliance notice are met before the payment period set out in the non-compliance penalty notice expires, liability to pay the non-compliance penalty is discharged.
 
@@ -481,7 +481,7 @@ an enforcement authority may, by way of serving a written notice on the person, 
 - (b) the name and address of the person on whom the notice is served;
 - (c) the grounds for serving the notice;
 - (d) the amount of the penalty;
-- (e) the period within which the penalty must be paid, which must not expire before the period within which an appeal may be brought under regulation [^key-ea5fd7bd449c9f68fe4d112e32b17557]... 17;
+- (e) the period within which the penalty must be paid, which must not expire before the period within which an appeal may be brought under regulation [^c-ea5fd7bd449c9f68fe4d112e32b17557]... 17;
 - (f) whether any discount is offered for early payment, and if so—
   - (i) the amount of the discount;
   - (ii) the period within which the penalty must be paid to take advantage of the discount;
@@ -491,7 +491,7 @@ an enforcement authority may, by way of serving a written notice on the person, 
   - (iii) the consequences of an appeal;
   - (iv) the consequences of failing to comply with the notice.
 
-(4) Subject to regulation[^key-4952d8f949d552b3be43e05e6fb0b0c4] 17, the person on whom the notice is served must comply with the notice.
+(4) Subject to regulation[^c-4952d8f949d552b3be43e05e6fb0b0c4] 17, the person on whom the notice is served must comply with the notice.
 
 (5) If the requirements of the compliance notice are met before the payment period set out in the non-compliance penalty notice expires, liability to pay the non-compliance penalty is discharged.
 
@@ -512,7 +512,7 @@ an enforcement authority may, by way of serving a written notice on the person, 
 - (a) the name and address of the enforcement authority to which the sum must be paid;
 - (b) the name and address of the person on whom the notice is served;
 - (c) the period within which the sum must be paid, which must not expire before—
-  - (i) the period within which an appeal may be brought under regulation 15 or 16 as the case may be[^key-d2545c85a1b6d729de7f9489a320853b];
+  - (i) the period within which an appeal may be brought under regulation 15 or 16 as the case may be[^c-d2545c85a1b6d729de7f9489a320853b];
   - (ii) the enforcement authority has provided a breakdown of the costs, unless—
     - (aa) the person in question has indicated to the enforcement authority that they do not require the detailed breakdown in question;
     - (bb) the period referred to in paragraph (3) has expired;
@@ -522,7 +522,7 @@ an enforcement authority may, by way of serving a written notice on the person, 
   - (iii) the consequences of an appeal;
   - (iv) the consequences of failure to comply with the notice.
 
-(5) Subject to regulations 15 and 16[^key-8845e4cbf8eb9a52181311f0a25f20a6], the person on whom a notice is served must comply with the notice.
+(5) Subject to regulations 15 and 16[^c-8845e4cbf8eb9a52181311f0a25f20a6], the person on whom a notice is served must comply with the notice.
 
 (6) A notice served under this regulation is referred to in these Regulations as an enforcement costs recovery notice.
 
@@ -547,7 +547,7 @@ an enforcement authority may, by way of serving a written notice on the person, 
 - (a) the name and address of the enforcement authority to which the sum must be paid;
 - (b) the name and address of the person on whom the notice is served;
 - (c) the period within which the sum must be paid, which must not expire before—
-  - (i) the period within which an appeal may be brought under regulation [^key-16fc7014f92a9dd6338e48309f83d784]... 17;
+  - (i) the period within which an appeal may be brought under regulation [^c-16fc7014f92a9dd6338e48309f83d784]... 17;
   - (ii) the enforcement authority has provided a breakdown of the costs, unless—
     - (aa) the person in question has indicated to the enforcement authority that they do not require the detailed breakdown in question;
     - (bb) the period referred to in paragraph (3) has expired;
@@ -557,7 +557,7 @@ an enforcement authority may, by way of serving a written notice on the person, 
   - (iii) the consequences of an appeal;
   - (iv) the consequences of failure to comply with the notice.
 
-(5) Subject to regulation[^key-bccbc9e2910e0b926d405e3af92e479a] 17, the person on whom a notice is served must comply with the notice.
+(5) Subject to regulation[^c-bccbc9e2910e0b926d405e3af92e479a] 17, the person on whom a notice is served must comply with the notice.
 
 (6) A notice served under this regulation is referred to in these Regulations as an enforcement costs recovery notice.
 
@@ -569,37 +569,37 @@ an enforcement authority may, by way of serving a written notice on the person, 
 
 ### 15. Appeals against enforcement notices served in England and Wales
 
-(1)[^key-fd67a5f55209e15d44da1a67aa710d3d] In England and Wales, a person on whom an enforcement notice has been served may appeal to the First-tier Tribunal. *(affected by repeal, see note)*[^key-fd67a5f55209e15d44da1a67aa710d3d]
+(1)[^c-fd67a5f55209e15d44da1a67aa710d3d] In England and Wales, a person on whom an enforcement notice has been served may appeal to the First-tier Tribunal. *(affected by repeal, see note)*[^c-fd67a5f55209e15d44da1a67aa710d3d]
 
-(2) The effect of a compliance notice served under these Regulations is not suspended pending the determination or withdrawal of an appeal unless the First-tier Tribunal directs otherwise. *(affected by repeal, see note)*[^key-fd67a5f55209e15d44da1a67aa710d3d]
+(2) The effect of a compliance notice served under these Regulations is not suspended pending the determination or withdrawal of an appeal unless the First-tier Tribunal directs otherwise. *(affected by repeal, see note)*[^c-fd67a5f55209e15d44da1a67aa710d3d]
 
-(3) An appeal against a non-compliance penalty notice or an enforcement costs recovery notice served under these Regulations suspends the effect of the notice appealed against until the appeal is determined or withdrawn. *(affected by repeal, see note)*[^key-fd67a5f55209e15d44da1a67aa710d3d]
+(3) An appeal against a non-compliance penalty notice or an enforcement costs recovery notice served under these Regulations suspends the effect of the notice appealed against until the appeal is determined or withdrawn. *(affected by repeal, see note)*[^c-fd67a5f55209e15d44da1a67aa710d3d]
 
-(4) On an appeal under this paragraph, the First-tier Tribunal may either cancel or affirm the enforcement notice and, if the First-tier Tribunal affirms the notice, may do so either in its original form or with such modifications as the First-tier Tribunal thinks fit. *(affected by repeal, see note)*[^key-fd67a5f55209e15d44da1a67aa710d3d]
+(4) On an appeal under this paragraph, the First-tier Tribunal may either cancel or affirm the enforcement notice and, if the First-tier Tribunal affirms the notice, may do so either in its original form or with such modifications as the First-tier Tribunal thinks fit. *(affected by repeal, see note)*[^c-fd67a5f55209e15d44da1a67aa710d3d]
 
 ### 16. Appeals against enforcement notices served in Scotland
 
-(1)[^key-b5079cb91c36e21930fadcb7a08a2411] In Scotland, a person on whom an enforcement notice has been served may appeal to the sheriff. *(affected by repeal, see note)*[^key-b5079cb91c36e21930fadcb7a08a2411]
+(1)[^c-b5079cb91c36e21930fadcb7a08a2411] In Scotland, a person on whom an enforcement notice has been served may appeal to the sheriff. *(affected by repeal, see note)*[^c-b5079cb91c36e21930fadcb7a08a2411]
 
-(2) An appeal must be brought within the period of 28 days beginning with the date on which the enforcement notice is served. *(affected by repeal, see note)*[^key-b5079cb91c36e21930fadcb7a08a2411]
+(2) An appeal must be brought within the period of 28 days beginning with the date on which the enforcement notice is served. *(affected by repeal, see note)*[^c-b5079cb91c36e21930fadcb7a08a2411]
 
-(3) The effect of a compliance notice served under this Regulations is not suspended pending the determination or withdrawal of an appeal unless the sheriff directs otherwise. *(affected by repeal, see note)*[^key-b5079cb91c36e21930fadcb7a08a2411]
+(3) The effect of a compliance notice served under this Regulations is not suspended pending the determination or withdrawal of an appeal unless the sheriff directs otherwise. *(affected by repeal, see note)*[^c-b5079cb91c36e21930fadcb7a08a2411]
 
-(4) An appeal against a non-compliance penalty notice or an enforcement costs recovery notice served under these Regulations suspends the effect of the notice appealed against until the appeal is determined or withdrawn. *(affected by repeal, see note)*[^key-b5079cb91c36e21930fadcb7a08a2411]
+(4) An appeal against a non-compliance penalty notice or an enforcement costs recovery notice served under these Regulations suspends the effect of the notice appealed against until the appeal is determined or withdrawn. *(affected by repeal, see note)*[^c-b5079cb91c36e21930fadcb7a08a2411]
 
-(5) On an appeal under this paragraph, the sheriff may either cancel or affirm the enforcement notice, with or without modification. *(affected by repeal, see note)*[^key-b5079cb91c36e21930fadcb7a08a2411]
+(5) On an appeal under this paragraph, the sheriff may either cancel or affirm the enforcement notice, with or without modification. *(affected by repeal, see note)*[^c-b5079cb91c36e21930fadcb7a08a2411]
 
 ### 17. Appeals against enforcement notices served in Northern Ireland
 
-(1)[^key-f7a2905c64de13a2a0100a83232a0a3e] In Northern Ireland, a person on whom an enforcement notice has been served may appeal to the Magistrates' Court. *(affected by repeal, see note)*[^key-f7a2905c64de13a2a0100a83232a0a3e]
+(1)[^c-f7a2905c64de13a2a0100a83232a0a3e] In Northern Ireland, a person on whom an enforcement notice has been served may appeal to the Magistrates' Court. *(affected by repeal, see note)*[^c-f7a2905c64de13a2a0100a83232a0a3e]
 
-(2) An appeal must be brought within the period of 28 days beginning with the date on which the enforcement notice is served. *(affected by repeal, see note)*[^key-f7a2905c64de13a2a0100a83232a0a3e]
+(2) An appeal must be brought within the period of 28 days beginning with the date on which the enforcement notice is served. *(affected by repeal, see note)*[^c-f7a2905c64de13a2a0100a83232a0a3e]
 
-(3) The effect of a compliance notice served under these Regulations is not suspended pending the determination or withdrawal an appeal unless the Magistrates' Court directs otherwise. *(affected by repeal, see note)*[^key-f7a2905c64de13a2a0100a83232a0a3e]
+(3) The effect of a compliance notice served under these Regulations is not suspended pending the determination or withdrawal an appeal unless the Magistrates' Court directs otherwise. *(affected by repeal, see note)*[^c-f7a2905c64de13a2a0100a83232a0a3e]
 
-(4) An appeal against a non-compliance penalty notice or an enforcement costs recovery notice served under these Regulations suspends the effect of the notice appealed against until the appeal is determined or withdrawn. *(affected by repeal, see note)*[^key-f7a2905c64de13a2a0100a83232a0a3e]
+(4) An appeal against a non-compliance penalty notice or an enforcement costs recovery notice served under these Regulations suspends the effect of the notice appealed against until the appeal is determined or withdrawn. *(affected by repeal, see note)*[^c-f7a2905c64de13a2a0100a83232a0a3e]
 
-(5) On an appeal under this paragraph, the Magistrates' Court may either cancel or affirm the enforcement notice, with or without modification. *(affected by repeal, see note)*[^key-f7a2905c64de13a2a0100a83232a0a3e]
+(5) On an appeal under this paragraph, the Magistrates' Court may either cancel or affirm the enforcement notice, with or without modification. *(affected by repeal, see note)*[^c-f7a2905c64de13a2a0100a83232a0a3e]
 
 ### 18. Grounds of appeal
 
@@ -633,7 +633,7 @@ an enforcement notice served under these Regulations.
 
 *Extent: E+W+S*
 
-An enforcement authority may recover any unpaid sum required under regulation 13 or regulation 14, as read with regulations 15 and 16[^key-c7ab30335eb73beee41347f0e99be3c5] —
+An enforcement authority may recover any unpaid sum required under regulation 13 or regulation 14, as read with regulations 15 and 16[^c-c7ab30335eb73beee41347f0e99be3c5] —
 
 - (a) as a civil debt;
 - (b) on the order of the court, on such terms as the court may order.
@@ -642,7 +642,7 @@ An enforcement authority may recover any unpaid sum required under regulation 13
 
 *Extent: N.I.*
 
-An enforcement authority may recover any unpaid sum required under regulation 13 or regulation 14, as read with regulation[^key-69c868f00785e886fbdb9c7310b7930d] 17—
+An enforcement authority may recover any unpaid sum required under regulation 13 or regulation 14, as read with regulation[^c-69c868f00785e886fbdb9c7310b7930d] 17—
 
 - (a) as a civil debt;
 - (b) on the order of the court, on such terms as the court may order.
@@ -651,21 +651,21 @@ An enforcement authority may recover any unpaid sum required under regulation 13
 
 ### 21. Right of appeal in connection with an application to register a PDO, PGI or TSG
 
-(1)[^key-b8397dcf30de139386c49f6f573278ec] Any person or group with a legitimate interest within the meaning of Article 49 who is aggrieved by a decision of the Secretary of State to— *(affected by repeal, see note)*[^key-b8397dcf30de139386c49f6f573278ec]
+(1)[^c-b8397dcf30de139386c49f6f573278ec] Any person or group with a legitimate interest within the meaning of Article 49 who is aggrieved by a decision of the Secretary of State to— *(affected by repeal, see note)*[^c-b8397dcf30de139386c49f6f573278ec]
 
-- (a) accept an application in accordance with Article 49(4); *(affected by repeal, see note)*[^key-b8397dcf30de139386c49f6f573278ec]
-- (b) refuse an application on grounds that the application is not justified and does not meet the requirements of Regulation 1151/2012, *(affected by repeal, see note)*[^key-b8397dcf30de139386c49f6f573278ec]
+- (a) accept an application in accordance with Article 49(4); *(affected by repeal, see note)*[^c-b8397dcf30de139386c49f6f573278ec]
+- (b) refuse an application on grounds that the application is not justified and does not meet the requirements of Regulation 1151/2012, *(affected by repeal, see note)*[^c-b8397dcf30de139386c49f6f573278ec]
 
-may, within three months of that decision being made public, appeal against it to a person appointed for that purpose by the Secretary of State. *(affected by repeal, see note)*[^key-b8397dcf30de139386c49f6f573278ec]
+may, within three months of that decision being made public, appeal against it to a person appointed for that purpose by the Secretary of State. *(affected by repeal, see note)*[^c-b8397dcf30de139386c49f6f573278ec]
 
-(2) The appointed person must consider the appeal and any representations made by the Secretary of State and, within three months of the appeal being made, report in writing with a recommended course of action to the Secretary of State. *(affected by repeal, see note)*[^key-b8397dcf30de139386c49f6f573278ec]
+(2) The appointed person must consider the appeal and any representations made by the Secretary of State and, within three months of the appeal being made, report in writing with a recommended course of action to the Secretary of State. *(affected by repeal, see note)*[^c-b8397dcf30de139386c49f6f573278ec]
 
-(3) The Secretary of State must either— *(affected by repeal, see note)*[^key-b8397dcf30de139386c49f6f573278ec]
+(3) The Secretary of State must either— *(affected by repeal, see note)*[^c-b8397dcf30de139386c49f6f573278ec]
 
-- (a) uphold the decision; *(affected by repeal, see note)*[^key-b8397dcf30de139386c49f6f573278ec]
-- (b) reverse the decision and ensure that the reversal is made public. *(affected by repeal, see note)*[^key-b8397dcf30de139386c49f6f573278ec]
+- (a) uphold the decision; *(affected by repeal, see note)*[^c-b8397dcf30de139386c49f6f573278ec]
+- (b) reverse the decision and ensure that the reversal is made public. *(affected by repeal, see note)*[^c-b8397dcf30de139386c49f6f573278ec]
 
-(4) Applications covered by this regulation are applications for the registration of a PDO, PGI or TSG. *(affected by repeal, see note)*[^key-b8397dcf30de139386c49f6f573278ec]
+(4) Applications covered by this regulation are applications for the registration of a PDO, PGI or TSG. *(affected by repeal, see note)*[^c-b8397dcf30de139386c49f6f573278ec]
 
 ### 22. Transitional period[^M_E_13a2db02-8041-4eb6-efca-af432333ed42]
 
@@ -673,10 +673,10 @@ may, within three months of that decision being made public, appeal against it t
 
 (1) Where the Secretary of State makes a favourable decision in respect of an application, the transitional period afforded in Article 15(4), which is a period of 10 years, applies if the operators concerned—
 
-- (a) have legally marketed the products in question, using the names concerned, continuously for a period of at least five years in Great Britain[^key-c6578fec3e80c364e6311e3f5ff8e717] prior to the date on which the application to the Secretary of State is lodged, and
-- (b) have made that point during the opposition procedure referred to in Article 51[^key-d3a8495445fb2bbc0ae8bb83c988fccc].
+- (a) have legally marketed the products in question, using the names concerned, continuously for a period of at least five years in Great Britain[^c-c6578fec3e80c364e6311e3f5ff8e717] prior to the date on which the application to the Secretary of State is lodged, and
+- (b) have made that point during the opposition procedure referred to in Article 51[^c-d3a8495445fb2bbc0ae8bb83c988fccc].
 
-(2) The transitional period referred to in this regulation applies from the date on which the registration takes effect[^key-2bf86c914d3a73ebffca312c185dc452].
+(2) The transitional period referred to in this regulation applies from the date on which the registration takes effect[^c-2bf86c914d3a73ebffca312c185dc452].
 
 (3) Applications covered by this regulation are applications for the registration of a PDO or PGI.
 
@@ -686,7 +686,7 @@ may, within three months of that decision being made public, appeal against it t
 
 (1) Where the Secretary of State makes a favourable decision in respect of an application, the transitional period afforded in Article 15(4), which is a period of 10 years, applies if the operators concerned—
 
-- (a) have legally marketed the products in question, using the names concerned, continuously for a period of at least five years in Northern Ireland[^key-4ce262eaf867eacba554c359220e51bc] prior to the date on which the application to the Secretary of State is lodged, and
+- (a) have legally marketed the products in question, using the names concerned, continuously for a period of at least five years in Northern Ireland[^c-4ce262eaf867eacba554c359220e51bc] prior to the date on which the application to the Secretary of State is lodged, and
 - (b) have made that point during the national opposition procedure.
 
 (2) The transitional period referred to in this regulation applies from the date on which the Secretary of State lodges an application dossier with the Commission.
@@ -704,7 +704,7 @@ may, within three months of that decision being made public, appeal against it t
 
 (3) Subsequent reports must be published at intervals not exceeding five years.
 
-(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015 requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the obligations under the EU Regulations are implemented in other *(affected by repeal, see note)*[^key-ce9781f3541d9bf583d14942ff99fc4c] member States.
+(4) Section 30(3) of the Small Business, Enterprise and Employment Act 2015 requires that a review carried out under this regulation must, so far as is reasonable, have regard to how the obligations under the EU Regulations are implemented in other *(affected by repeal, see note)*[^c-ce9781f3541d9bf583d14942ff99fc4c] member States.
 
 (5) Section 30(4) of the Small Business, Enterprise and Employment Act 2015 requires that a report published under this regulation must, in particular—
 
@@ -811,29 +811,29 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^M_E_e37e8ccf-ead1-4a0c-8c22-cda7f564078e]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-e63bfb7813b3b67c685cfdd5a86fd9e4]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1) heading substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(2)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/2/a)
+[^c-e63bfb7813b3b67c685cfdd5a86fd9e4]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1) heading substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(2)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/2/a)
 
-[^key-f4c9d6a01469d87c86f86a029531efaf]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1/1) renumbered as reg. 1(1) (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(2)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/2/b)
+[^c-f4c9d6a01469d87c86f86a029531efaf]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1/1) renumbered as reg. 1(1) (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(2)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/2/b)
 
-[^key-add771a6f13e9816ab0b3247bb8b478a]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1/2) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(2)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/2/c)
+[^c-add771a6f13e9816ab0b3247bb8b478a]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1/2) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(2)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/2/c)
 
 [^M_E_3fc4e9e5-a677-4944-a773-64cf453ac4f3]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-8dc4cb61d8f10c1a984cdb36c36a95ec]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1) heading substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(2)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/2/a)
+[^c-8dc4cb61d8f10c1a984cdb36c36a95ec]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1) heading substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(2)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/2/a)
 
-[^key-d51e078f326c473233afa1d2ed413082]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1/1) renumbered as reg. 1(1) (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(2)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/2/b)
+[^c-d51e078f326c473233afa1d2ed413082]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1/1) renumbered as reg. 1(1) (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(2)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/2/b)
 
-[^key-54febcda2e7070da268628cc168748ca]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1/2) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(2)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/2/c)
+[^c-54febcda2e7070da268628cc168748ca]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/1/2) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(2)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/2/c)
 
 [^M_E_281091fb-f537-462f-e206-f2f5774df9ef]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only"
 
-[^key-20f3f0bfe0c437b33c60c7a837a40bef]: Textual amendment: Words in reg. 2(1)(b) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/3)
+[^c-20f3f0bfe0c437b33c60c7a837a40bef]: Textual amendment: Words in reg. 2(1)(b) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/3)
 
 [^c23460721]: Marginal citation: OJ No L 343, 14.12.2012, p.1, as last amended by Regulation (EU) No 625/2017 (OJ No L 95, 7.4.2017, p.1).
 
-[^key-851fc4fae7b9818843faa1b126d4cd05]: Textual amendment: Words in reg. 2 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [30(a)(i)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/30/a/i)
+[^c-851fc4fae7b9818843faa1b126d4cd05]: Textual amendment: Words in reg. 2 omitted (14.12.2019) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [30(a)(i)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/30/a/i)
 
-[^key-a015361b08cd35c469a2124f99627c7a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/2/2) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/5), [2(2)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/2/2)
+[^c-a015361b08cd35c469a2124f99627c7a]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/2/2) substituted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/5), [2(2)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/2/2)
 
 [^c23460741]: Marginal citation: OJ No L 179, 19.6.2014, p.17.
 
@@ -841,7 +841,7 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^c23460761]: Marginal citation: OJ No L 179, 19.6.2014, p.36.
 
-[^key-0299e731d9b430a4846921b6ddfd1aec]: Textual amendment: Words in reg. 2 inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [30(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/30/a/ii)
+[^c-0299e731d9b430a4846921b6ddfd1aec]: Textual amendment: Words in reg. 2 inserted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [30(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/30/a/ii)
 
 [^M_E_eb7bae4b-57ce-48e4-9253-e596da91aee7]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
@@ -859,113 +859,113 @@ An impact assessment for this instrument has not been produced as no impact on t
 
 [^M_E_460d28c2-6a70-41d2-e3e6-7aa7975f53d2]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-6b1f2124a6201d2e0f9c89eb82b7c919]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/3/2) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/4)
+[^c-6b1f2124a6201d2e0f9c89eb82b7c919]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/3/2) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/4)
 
 [^M_E_ed584f03-792d-4df3-9248-2585293decdb]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-59232db970d531df5b87822741935c7c]: Textual amendment: Words in reg. 3(2) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(3)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/3/a)
+[^c-59232db970d531df5b87822741935c7c]: Textual amendment: Words in reg. 3(2) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(3)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/3/a)
 
-[^key-a217e35cdd2ebd685111b2388a1117b4]: Textual amendment: Word in reg. 3(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/5), [2(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/2/3)
+[^c-a217e35cdd2ebd685111b2388a1117b4]: Textual amendment: Word in reg. 3(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/5), [2(3)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/2/3)
 
-[^key-1972a71e1983cb722662976c95c49d9b]: Textual amendment: Words in [reg. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/3/2/c/ii) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/3/b)
+[^c-1972a71e1983cb722662976c95c49d9b]: Textual amendment: Words in [reg. 3(2)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/3/2/c/ii) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/3/b)
 
-[^key-17540e260fea37b00118023953277641]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1275/regulation/5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/5), [2(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/2/4)
+[^c-17540e260fea37b00118023953277641]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/1275/regulation/5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/5), [2(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/2/4)
 
 [^M_E_7a8b2b0a-6aa1-4dae-b4b9-0038ff2de738]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-34e2d32dfde91293280eb044ae2f793c]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/6/4) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/5)
+[^c-34e2d32dfde91293280eb044ae2f793c]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/6/4) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(5)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/5)
 
 [^M_E_70015c1f-a6f2-4d9d-8d96-b3149b8d987a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-755401bac1b024a65f28bc4cc0d419c8]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/6/4) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/4)
+[^c-755401bac1b024a65f28bc4cc0d419c8]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/6/4) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/4)
 
 [^M_E_31dcdab8-8cab-4d3e-eadb-2dd7b739afec]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-a1976adf205284b8f1a9ce6b24872ec9]: Textual amendment: Word in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) substituted for comma (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/6/a/i)
+[^c-a1976adf205284b8f1a9ce6b24872ec9]: Textual amendment: Word in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) substituted for comma (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/6/a/i)
 
-[^key-330a893f4ffbd404dd6aa77acc2415e7]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/6/a/ii)
+[^c-330a893f4ffbd404dd6aa77acc2415e7]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/6/a/ii)
 
-[^key-1710ef14026d92fb0e0fb567042640ec]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/6/a/iii)
+[^c-1710ef14026d92fb0e0fb567042640ec]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/6/a/iii)
 
-[^key-f3eb30b9c37ffc8244b9308e439a13bf]: Textual amendment: Reg. 10(8)(a) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(6)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/6/b)
+[^c-f3eb30b9c37ffc8244b9308e439a13bf]: Textual amendment: Reg. 10(8)(a) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(6)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/6/b)
 
 [^M_E_a8b5e9b4-39ae-4239-c24c-30a36f54f1f4]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-b773a4648b0cd6670828b7983cb696f2]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/5/a/i)
+[^c-b773a4648b0cd6670828b7983cb696f2]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(5)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/5/a/i)
 
-[^key-530f025ace112b489bfdaa8bd41a0acb]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/5/a/ii)
+[^c-530f025ace112b489bfdaa8bd41a0acb]: Textual amendment: Words in [reg. 10(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/10/4) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/5/a/ii)
 
-[^key-fa4bc4cf38ccbdb5f2b853d3e717cd0c]: Textual amendment: Reg. 10(8)(a) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(5)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/5/b)
+[^c-fa4bc4cf38ccbdb5f2b853d3e717cd0c]: Textual amendment: Reg. 10(8)(a) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(5)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/5/b)
 
 [^M_E_78a84bd7-3d75-4b46-d59b-be6c523a03c2]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1f93618756837ebb59be6f48a6585325]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/1/a) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/7/a/i)
+[^c-1f93618756837ebb59be6f48a6585325]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/1/a) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/7/a/i)
 
-[^key-9736d4046621513e69207da84b8302aa]: Textual amendment: Words in [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/1/j) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/7/a/ii)
+[^c-9736d4046621513e69207da84b8302aa]: Textual amendment: Words in [reg. 12(1)(j)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/1/j) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/7/a/ii)
 
-[^key-af0c1f8fd7362caa12cdf0e5b8beb49c]: Textual amendment: Words in [reg. 12(2)(e)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/2/e) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(7)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/7/b)
+[^c-af0c1f8fd7362caa12cdf0e5b8beb49c]: Textual amendment: Words in [reg. 12(2)(e)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/2/e) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(7)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/7/b)
 
-[^key-1397819a512beb404c55d08fb5ef339e]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/3) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(7)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/7/c)
+[^c-1397819a512beb404c55d08fb5ef339e]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/3) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(7)(c)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/7/c)
 
 [^M_E_51c816ca-4c35-4e74-fe3b-5b444ffb5835]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-c93d675120afcbcee37e98b167e2007a]: Textual amendment: Words in [reg. 12(2)(e)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/2/e) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(6)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/6/a)
+[^c-c93d675120afcbcee37e98b167e2007a]: Textual amendment: Words in [reg. 12(2)(e)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/2/e) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(6)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/6/a)
 
-[^key-7d07f549134e3adb8d04924a3199b720]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/3) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(6)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/6/b)
+[^c-7d07f549134e3adb8d04924a3199b720]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/12/3) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(6)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/6/b)
 
 [^M_E_172bdec5-96ca-423c-9e92-ee3441bb4248]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-966996ff5757c85c6bc88fcb09e7861d]: Textual amendment: Words in [reg. 13(3)(e)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/13/3/e) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(8)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/8/a)
+[^c-966996ff5757c85c6bc88fcb09e7861d]: Textual amendment: Words in [reg. 13(3)(e)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/13/3/e) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(8)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/8/a)
 
-[^key-58119a10fc70a9fa94380c513e094c43]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/13/4) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(8)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/8/b)
+[^c-58119a10fc70a9fa94380c513e094c43]: Textual amendment: Words in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/13/4) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(8)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/8/b)
 
 [^M_E_e35f90c4-b224-43a5-fd8e-345343c1591a]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-ea5fd7bd449c9f68fe4d112e32b17557]: Textual amendment: Words in [reg. 13(3)(e)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/13/3/e) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(7)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/7/a)
+[^c-ea5fd7bd449c9f68fe4d112e32b17557]: Textual amendment: Words in [reg. 13(3)(e)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/13/3/e) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(7)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/7/a)
 
-[^key-4952d8f949d552b3be43e05e6fb0b0c4]: Textual amendment: Word in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/13/4) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(7)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/7/b)
+[^c-4952d8f949d552b3be43e05e6fb0b0c4]: Textual amendment: Word in [reg. 13(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/13/4) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(7)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/7/b)
 
 [^M_E_aeddea04-c8f3-4c03-e5ef-f2b90ef996ad]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-d2545c85a1b6d729de7f9489a320853b]: Textual amendment: Words in [reg. 14(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/14/4/c/i) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(9)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/9/a)
+[^c-d2545c85a1b6d729de7f9489a320853b]: Textual amendment: Words in [reg. 14(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/14/4/c/i) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(9)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/9/a)
 
-[^key-8845e4cbf8eb9a52181311f0a25f20a6]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/14/5) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(9)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/9/b)
+[^c-8845e4cbf8eb9a52181311f0a25f20a6]: Textual amendment: Words in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/14/5) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(9)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/9/b)
 
 [^M_E_d5b98ef5-7731-41df-efb5-884f711c65be]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-16fc7014f92a9dd6338e48309f83d784]: Textual amendment: Words in [reg. 14(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/14/4/c/i) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(8)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/8/a)
+[^c-16fc7014f92a9dd6338e48309f83d784]: Textual amendment: Words in [reg. 14(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/14/4/c/i) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(8)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/8/a)
 
-[^key-bccbc9e2910e0b926d405e3af92e479a]: Textual amendment: Word in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/14/5) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(8)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/8/b)
+[^c-bccbc9e2910e0b926d405e3af92e479a]: Textual amendment: Word in [reg. 14(5)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/14/5) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(8)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/8/b)
 
-[^key-fd67a5f55209e15d44da1a67aa710d3d]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/1275/regulation/15) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(9)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/9)
+[^c-fd67a5f55209e15d44da1a67aa710d3d]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2018/1275/regulation/15) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(9)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/9)
 
-[^key-b5079cb91c36e21930fadcb7a08a2411]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/1275/regulation/16) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(9)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/9)
+[^c-b5079cb91c36e21930fadcb7a08a2411]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/2018/1275/regulation/16) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(9)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/9)
 
-[^key-f7a2905c64de13a2a0100a83232a0a3e]: Textual amendment: Reg. 17 omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(10)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/10)
+[^c-f7a2905c64de13a2a0100a83232a0a3e]: Textual amendment: Reg. 17 omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(10)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/10)
 
 [^M_E_d77ef8c1-85bc-4bf7-e6e9-eb8c5aa8931f]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-c7ab30335eb73beee41347f0e99be3c5]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2018/1275/regulation/20) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(11)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/11)
+[^c-c7ab30335eb73beee41347f0e99be3c5]: Textual amendment: Words in [reg. 20](https://www.legislation.gov.uk/uksi/2018/1275/regulation/20) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(11)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/11)
 
 [^M_E_976dc9bb-60b0-4d3b-c1eb-3f2689581aac]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-69c868f00785e886fbdb9c7310b7930d]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/uksi/2018/1275/regulation/20) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(10)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/10)
+[^c-69c868f00785e886fbdb9c7310b7930d]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/uksi/2018/1275/regulation/20) substituted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(10)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/10)
 
-[^key-b8397dcf30de139386c49f6f573278ec]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/1275/regulation/21) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(12)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/12)
+[^c-b8397dcf30de139386c49f6f573278ec]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2018/1275/regulation/21) omitted (E.W.S.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(12)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/12)
 
 [^M_E_13a2db02-8041-4eb6-efca-af432333ed42]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-c6578fec3e80c364e6311e3f5ff8e717]: Textual amendment: Words in [reg. 22(1)(a)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/22/1/a) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(13)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/13/a/i)
+[^c-c6578fec3e80c364e6311e3f5ff8e717]: Textual amendment: Words in [reg. 22(1)(a)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/22/1/a) inserted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(13)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/13/a/i)
 
-[^key-d3a8495445fb2bbc0ae8bb83c988fccc]: Textual amendment: Words in [reg. 22(1)(b)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/22/1/b) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/13/a/ii)
+[^c-d3a8495445fb2bbc0ae8bb83c988fccc]: Textual amendment: Words in [reg. 22(1)(b)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/22/1/b) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/13/a/ii)
 
-[^key-2bf86c914d3a73ebffca312c185dc452]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/22/2) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(13)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/13/b)
+[^c-2bf86c914d3a73ebffca312c185dc452]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/22/2) substituted (E.W.S.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [12(13)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/12/13/b)
 
 [^M_E_10590bb0-be65-40d0-f732-e915b98935bc]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-4ce262eaf867eacba554c359220e51bc]: Textual amendment: Words in [reg. 22(1)(a)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/22/1/a) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(11)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/11)
+[^c-4ce262eaf867eacba554c359220e51bc]: Textual amendment: Words in [reg. 22(1)(a)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/22/1/a) inserted (N.I.) (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(11)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/11)
 
-[^key-ce9781f3541d9bf583d14942ff99fc4c]: Textual amendment: Word in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/23/4) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(12)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/12)
+[^c-ce9781f3541d9bf583d14942ff99fc4c]: Textual amendment: Word in [reg. 23(4)](https://www.legislation.gov.uk/uksi/2018/1275/regulation/23/4) omitted (N.I.) (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [15(12)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/15/12)
 
 [^c23460791]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26); [section 28](https://www.legislation.gov.uk/uksi/2018/1275/section/28) was disapplied by the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [Schedule 7(3)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/7/3), [paragraph 27](https://www.legislation.gov.uk/ukpga/2018/16/paragraph/27); [section 30(3)](https://www.legislation.gov.uk/uksi/2018/1275/section/30/3) was amended by the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [section 19(a)](https://www.legislation.gov.uk/ukpga/2016/12/section/19/a) and the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [Schedule 8(2)](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/2), [paragraphs 36(a)](https://www.legislation.gov.uk/ukpga/2018/16/paragraph/36/a) and (b).
 

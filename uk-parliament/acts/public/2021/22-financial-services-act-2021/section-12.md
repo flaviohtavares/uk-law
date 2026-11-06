@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Mandatory contribution to critical benchmarks[^key-b64159633a1a74cf9dc98f8e6797d978]
+## 12. Mandatory contribution to critical benchmarks[^c-b64159633a1a74cf9dc98f8e6797d978]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b64159633a1a74cf9dc98f8e6797d978]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/22/section/12) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/e)
+[^c-b64159633a1a74cf9dc98f8e6797d978]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2021/22/section/12) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Preparing and revising the National Development Framework for Wales[^c22542591][^key-12e187cebc742aade99cefb2e6eaeb70][^key-3b1a133dfe15435bc993ff841d75c72e]
+## 3. Preparing and revising the National Development Framework for Wales[^c22542591][^c-12e187cebc742aade99cefb2e6eaeb70][^c-3b1a133dfe15435bc993ff841d75c72e]
 
 *Extent: E+W*
 
@@ -136,6 +136,6 @@ In PCPA 2004, for section 60 (and the cross-heading before it) substitute—
 
 [^c22542591]: Commencement: S. 3 partly in force; s. 3 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-12e187cebc742aade99cefb2e6eaeb70]: Commencement: S. 3 in force at 4.1.2016 for specified purposes by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 2](https://www.legislation.gov.uk/wsi/2015/1987/article/2) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1987/article/7))
+[^c-12e187cebc742aade99cefb2e6eaeb70]: Commencement: S. 3 in force at 4.1.2016 for specified purposes by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 2](https://www.legislation.gov.uk/wsi/2015/1987/article/2) (with [art. 7](https://www.legislation.gov.uk/wsi/2015/1987/article/7))
 
-[^key-3b1a133dfe15435bc993ff841d75c72e]: Commencement: S. 3 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)
+[^c-3b1a133dfe15435bc993ff841d75c72e]: Commencement: S. 3 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)

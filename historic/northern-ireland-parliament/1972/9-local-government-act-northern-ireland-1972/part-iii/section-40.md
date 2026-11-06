@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. The Staff Commission.[^key-643a75db2aa314ecb91abde00ab8786b][^key-ddcab12b356c6c52ead74de29512692c]
+## 40. The Staff Commission.[^c-643a75db2aa314ecb91abde00ab8786b][^c-ddcab12b356c6c52ead74de29512692c]
 
 *Extent: N.I.*
 
@@ -60,7 +60,7 @@ to the Staff Commission, within such reasonable period, as the Staff Commission 
 
 (8) The Ministry may, by order made subject to affirmative resolution, make provision for modifying the functions of the Staff Commission, and such an order may modify or repeal any provision of this section or Schedule 3.
 
-(9)[^key-96a57bd1284df312d55179ac98fa5a6c] The Department may by order make provision for, and in connection with, the dissolution of the Staff Commission and such an order may—
+(9)[^c-96a57bd1284df312d55179ac98fa5a6c] The Department may by order make provision for, and in connection with, the dissolution of the Staff Commission and such an order may—
 
 - (a) provide for the transfer of the functions, assets and liabilities of the Staff Commission to any other body or person; and
 - (b) contain such incidental, consequential, transitional or supplementary provisions (including the modification or repeal of any statutory provision (including a provision of this Act)) as appear to the Department to be necessary or expedient.
@@ -69,9 +69,9 @@ to the Staff Commission, within such reasonable period, as the Staff Commission 
 
 ## Annotations
 
-[^key-643a75db2aa314ecb91abde00ab8786b]: Modification: S. 40 applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)
+[^c-643a75db2aa314ecb91abde00ab8786b]: Modification: S. 40 applied (with mods) (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [22](https://www.legislation.gov.uk/nisr/2013/179/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2013/179/schedule/2)
 
-[^key-ddcab12b356c6c52ead74de29512692c]: Modification: Ss. 40 41 applied (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [18(4)](https://www.legislation.gov.uk/nisr/2013/179/regulation/18/4)
+[^c-ddcab12b356c6c52ead74de29512692c]: Modification: Ss. 40 41 applied (2.7.2013) by [The Local Government (Statutory Transition Committees) Regulations (Northern Ireland) 2013 (S.R. 2013/179)](https://www.legislation.gov.uk/nisr/2013/179), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/179/regulation/1/1), [18(4)](https://www.legislation.gov.uk/nisr/2013/179/regulation/18/4)
 
 [^c16962651]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 
@@ -83,4 +83,4 @@ to the Staff Commission, within such reasonable period, as the Staff Commission 
 
 [^c16962861]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-96a57bd1284df312d55179ac98fa5a6c]: Textual amendment: [S. 40(9)](https://www.legislation.gov.uk/apni/1972/9/section/40/9)[(10)](https://www.legislation.gov.uk/apni/1972/9/section/40/10) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 120](https://www.legislation.gov.uk/nia/2014/8/section/120), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-96a57bd1284df312d55179ac98fa5a6c]: Textual amendment: [S. 40(9)](https://www.legislation.gov.uk/apni/1972/9/section/40/9)[(10)](https://www.legislation.gov.uk/apni/1972/9/section/40/10) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 120](https://www.legislation.gov.uk/nia/2014/8/section/120), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

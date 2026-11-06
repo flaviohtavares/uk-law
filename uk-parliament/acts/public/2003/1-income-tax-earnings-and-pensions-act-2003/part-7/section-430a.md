@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 430A. Application of this Chapter where securities exchanged for further securities[^key-d29330ec8d013a50fa7d1c48760751b3][^key-070a79afdd5048639efb19720520cf9b]
+## 430A. Application of this Chapter where securities exchanged for further securities[^c-d29330ec8d013a50fa7d1c48760751b3][^c-070a79afdd5048639efb19720520cf9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,6 +109,6 @@ sections 426 to 430 do not apply to the new securities.
 
 ## Annotations
 
-[^key-d29330ec8d013a50fa7d1c48760751b3]: Textual amendment: [S. 430A](https://www.legislation.gov.uk/ukpga/2003/1/section/430A) inserted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 36](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/36)
+[^c-d29330ec8d013a50fa7d1c48760751b3]: Textual amendment: [S. 430A](https://www.legislation.gov.uk/ukpga/2003/1/section/430A) inserted (17.7.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 para. 36](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/36)
 
-[^key-070a79afdd5048639efb19720520cf9b]: Textual amendment: Pt. 7 Ch. 2 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 3(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 3(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/3/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)
+[^c-070a79afdd5048639efb19720520cf9b]: Textual amendment: Pt. 7 Ch. 2 substituted (1.9.2003 with effect in accordance with Sch. 22 para. 3(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 3(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/3/1); [S.I. 2003/1997](https://www.legislation.gov.uk/uksi/2003/1997), [art. 2](https://www.legislation.gov.uk/uksi/2003/1997/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147.[^key-fd86eb810252d9d655c6a03274099947]
+## 147.[^c-fd86eb810252d9d655c6a03274099947]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 372 (where seafarers' duties are performed), in paragraph (b), after 
 
 ## Annotations
 
-[^key-fd86eb810252d9d655c6a03274099947]: Commencement: Reg. 147 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-fd86eb810252d9d655c6a03274099947]: Commencement: Reg. 147 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Healthcare Improvement Scotland[^key-f39987777ab3f9f1232fb79a75d955da][^key-1355365417c945e5fa97c6436e0a2dc6][^key-12cf50178255c524299ad22ab50b20df][^key-e4ab558af6d9001c0d928bf90c77040b][^key-90b8deb4ca4b1daeeb124d17b2c57db4][^key-a56719fe024369f5618c04fc1dc87a6a][^key-eb666b8a0c2de4e208de11f5c1b1fa88]
+## 108. Healthcare Improvement Scotland[^c-f39987777ab3f9f1232fb79a75d955da][^c-1355365417c945e5fa97c6436e0a2dc6][^c-12cf50178255c524299ad22ab50b20df][^c-e4ab558af6d9001c0d928bf90c77040b][^c-90b8deb4ca4b1daeeb124d17b2c57db4][^c-a56719fe024369f5618c04fc1dc87a6a][^c-eb666b8a0c2de4e208de11f5c1b1fa88]
 
 *Extent: S*
 
@@ -858,16 +858,16 @@ After section 10 of the National Health Service (Scotland) Act 1978 (c. 29) inse
 
 ## Annotations
 
-[^key-f39987777ab3f9f1232fb79a75d955da]: Commencement: S. 108 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-f39987777ab3f9f1232fb79a75d955da]: Commencement: S. 108 in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-1355365417c945e5fa97c6436e0a2dc6]: Commencement: S. 108 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-1355365417c945e5fa97c6436e0a2dc6]: Commencement: S. 108 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-12cf50178255c524299ad22ab50b20df]: Commencement: S. 108 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-12cf50178255c524299ad22ab50b20df]: Commencement: S. 108 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
 
-[^key-e4ab558af6d9001c0d928bf90c77040b]: Commencement: S. 108 in force at 1.4.2016 for specified purposes by [S.S.I. 2016/22](https://www.legislation.gov.uk/ssi/2016/22), [art. 2(1)](https://www.legislation.gov.uk/ssi/2016/22/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2016/22/schedule/1)
+[^c-e4ab558af6d9001c0d928bf90c77040b]: Commencement: S. 108 in force at 1.4.2016 for specified purposes by [S.S.I. 2016/22](https://www.legislation.gov.uk/ssi/2016/22), [art. 2(1)](https://www.legislation.gov.uk/ssi/2016/22/article/2/1), [sch. 1](https://www.legislation.gov.uk/ssi/2016/22/schedule/1)
 
-[^key-90b8deb4ca4b1daeeb124d17b2c57db4]: Commencement: S. 108 in force at 1.4.2017 for specified purposes by [S.S.I. 2016/22](https://www.legislation.gov.uk/ssi/2016/22), [art. 2(2)](https://www.legislation.gov.uk/ssi/2016/22/article/2/2), [sch. 2](https://www.legislation.gov.uk/ssi/2016/22/schedule/2)
+[^c-90b8deb4ca4b1daeeb124d17b2c57db4]: Commencement: S. 108 in force at 1.4.2017 for specified purposes by [S.S.I. 2016/22](https://www.legislation.gov.uk/ssi/2016/22), [art. 2(2)](https://www.legislation.gov.uk/ssi/2016/22/article/2/2), [sch. 2](https://www.legislation.gov.uk/ssi/2016/22/schedule/2)
 
-[^key-a56719fe024369f5618c04fc1dc87a6a]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2010/8/section/108) in force at 19.6.2024 for specified purposes by [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/131/schedule/1)
+[^c-a56719fe024369f5618c04fc1dc87a6a]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2010/8/section/108) in force at 19.6.2024 for specified purposes by [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2024/131/schedule/1)
 
-[^key-eb666b8a0c2de4e208de11f5c1b1fa88]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2010/8/section/108) in force at 19.6.2025 for specified purposes by [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2024/131/schedule/2)
+[^c-eb666b8a0c2de4e208de11f5c1b1fa88]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2010/8/section/108) in force at 19.6.2025 for specified purposes by [S.S.I. 2024/131](https://www.legislation.gov.uk/ssi/2024/131), [art. 2](https://www.legislation.gov.uk/ssi/2024/131/article/2), [sch. 2](https://www.legislation.gov.uk/ssi/2024/131/schedule/2)

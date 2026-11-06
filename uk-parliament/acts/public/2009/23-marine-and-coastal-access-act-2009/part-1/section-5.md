@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Restrictions on time spent at sea: appeals[^key-d46aeb444487b6b251ee6a28e921de68]
+## 5. Restrictions on time spent at sea: appeals[^c-d46aeb444487b6b251ee6a28e921de68]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 4AA(5) of the Sea Fish (Conservation) Act 1967 (duty to vary licence 
 
 ## Annotations
 
-[^key-d46aeb444487b6b251ee6a28e921de68]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2009/23/section/5) in force at 1.4.2010 by [S.I. 2010/907](https://www.legislation.gov.uk/uksi/2010/907), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2010/907/article/2/2/b)
+[^c-d46aeb444487b6b251ee6a28e921de68]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2009/23/section/5) in force at 1.4.2010 by [S.I. 2010/907](https://www.legislation.gov.uk/uksi/2010/907), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2010/907/article/2/2/b)

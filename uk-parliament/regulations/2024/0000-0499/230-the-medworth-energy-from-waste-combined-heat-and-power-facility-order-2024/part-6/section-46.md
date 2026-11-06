@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Arbitration[^key-1cf8dc6404bd924c2acaaf2adf6a7cbc]
+## 46. Arbitration[^c-1cf8dc6404bd924c2acaaf2adf6a7cbc]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any difference or dispute arising under any provision of this Order shall, unles
 
 ## Annotations
 
-[^key-1cf8dc6404bd924c2acaaf2adf6a7cbc]: Commencement: Art. 46 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-1cf8dc6404bd924c2acaaf2adf6a7cbc]: Commencement: Art. 46 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

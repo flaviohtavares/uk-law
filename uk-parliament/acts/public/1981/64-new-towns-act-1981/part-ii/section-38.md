@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Local authorities and work for Commission.[^key-bd37aa83bc180785a075d6ed30b2c3e7]
+## 38. Local authorities and work for Commission.[^c-bd37aa83bc180785a075d6ed30b2c3e7]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd37aa83bc180785a075d6ed30b2c3e7]: Textual amendment: S. 38 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/6), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16)
+[^c-bd37aa83bc180785a075d6ed30b2c3e7]: Textual amendment: S. 38 repealed (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2008/17/schedule/5/paragraph/6), [Sch. 16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16)
 
     [16](https://www.legislation.gov.uk/ukpga/2008/17/schedule/16); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [arts. 2(1)(v)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/v)[(2)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/2), [5](https://www.legislation.gov.uk/uksi/2008/3068/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2008/3068/schedule) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

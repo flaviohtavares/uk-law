@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 14 — Repeals[^c12084651][^key-df12a4d7306fbb347a7b55e38f7636de]
+## SCHEDULE 14 — Repeals[^c12084651][^c-df12a4d7306fbb347a7b55e38f7636de]
 
 *Extent: E+W+S*
 
@@ -90,4 +90,4 @@ Section 117(2).
 
 [^c12084651]: Commencement: Sch. 14 partly in force; Sch. 14 partly in force at Royal Assent see s. 119(2)(e); Sch. 14 in force in relation to specified repeals: at 1.4.1992 by [S.I. 1992/818](https://www.legislation.gov.uk/uksi/1992/818), [art. 2](https://www.legislation.gov.uk/uksi/1992/818/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1992/818/schedule); at 1.8.1992 by [S.I. 1992/1755](https://www.legislation.gov.uk/uksi/1992/1755), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/1992/1755/article/2/1/b); at 1.10.1992 by [S.I. 1992/2183](https://www.legislation.gov.uk/uksi/1992/2183), [art. 2(d)](https://www.legislation.gov.uk/uksi/1992/2183/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/1992/2183/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/1992/2183/article/3)); at 1.4.1993 by [S.I. 1992/2454](https://www.legislation.gov.uk/uksi/1992/2454), [art. 3(b)](https://www.legislation.gov.uk/uksi/1992/2454/article/3/b); at 1.4.1993 by [S.I. 1993/194](https://www.legislation.gov.uk/uksi/1993/194), [art. 2(b)](https://www.legislation.gov.uk/uksi/1993/194/article/2/b); at 1.4.1993 by [S.I. 1993/575](https://www.legislation.gov.uk/uksi/1993/575), [art. 2(d)](https://www.legislation.gov.uk/uksi/1993/575/article/2/d); at 1.4.1996 by [S.I. 1996/918](https://www.legislation.gov.uk/uksi/1996/918), [art. 2(b)](https://www.legislation.gov.uk/uksi/1996/918/article/2/b)
 
-[^key-df12a4d7306fbb347a7b55e38f7636de]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) in force at 26.3.2015 for specified purposes by [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
+[^c-df12a4d7306fbb347a7b55e38f7636de]: Commencement: [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) in force at 26.3.2015 for specified purposes by [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)

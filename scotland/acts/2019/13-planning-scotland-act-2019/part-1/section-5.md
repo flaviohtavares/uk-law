@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Strategic development: regional spatial strategies[^key-9fa19dd879e91a753c69caf18febcdb1]
+## 5. Strategic development: regional spatial strategies[^c-9fa19dd879e91a753c69caf18febcdb1]
 
 *Extent: S*
 
@@ -116,4 +116,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fa19dd879e91a753c69caf18febcdb1]: Commencement: S. 5 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-9fa19dd879e91a753c69caf18febcdb1]: Commencement: S. 5 in force at 8.11.2019 for specified purposes by [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)

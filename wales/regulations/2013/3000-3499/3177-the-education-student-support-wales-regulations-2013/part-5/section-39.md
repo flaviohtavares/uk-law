@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Deductions from the grant for travel (affected by repeal, see note)[^key-314403fa303914817b540bdc0700b580][^key-fb65aa289c1f5f6c86282db81d96956a][^key-fb65aa289c1f5f6c86282db81d96956a]
+## 39. Deductions from the grant for travel (affected by repeal, see note)[^c-314403fa303914817b540bdc0700b580][^c-fb65aa289c1f5f6c86282db81d96956a][^c-fb65aa289c1f5f6c86282db81d96956a]
 
 *Extent: E+W*
 
-A deduction may be made from a grant under regulations 37 and 38 in accordance with Part 9. *(affected by repeal, see note)*[^key-fb65aa289c1f5f6c86282db81d96956a]
+A deduction may be made from a grant under regulations 37 and 38 in accordance with Part 9. *(affected by repeal, see note)*[^c-fb65aa289c1f5f6c86282db81d96956a]
 
 ## Annotations
 
-[^key-314403fa303914817b540bdc0700b580]: Commencement: Reg. 39 in force at 10.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3177/regulation/1/2)
+[^c-314403fa303914817b540bdc0700b580]: Commencement: Reg. 39 in force at 10.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3177/regulation/1/2)
 
-[^key-fb65aa289c1f5f6c86282db81d96956a]: Textual amendment: Regulations revoked (19.2.2015) by [The Education (Student Support) (Wales) Regulations 2015 (S.I. 2015/54)](https://www.legislation.gov.uk/uksi/2015/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/54/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/1) (with savings in [reg. 3(13)(15)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/13/15))
+[^c-fb65aa289c1f5f6c86282db81d96956a]: Textual amendment: Regulations revoked (19.2.2015) by [The Education (Student Support) (Wales) Regulations 2015 (S.I. 2015/54)](https://www.legislation.gov.uk/uksi/2015/54), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/54/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/1) (with savings in [reg. 3(13)(15)](https://www.legislation.gov.uk/uksi/2015/54/regulation/3/13/15))

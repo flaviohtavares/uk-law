@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Appeals[^key-d3cb55e7d683226392b0ebc32439211a]
+## 37. Appeals[^c-d3cb55e7d683226392b0ebc32439211a]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (2) The following persons may also appeal to the First-tier Tribunal—
 
-- (a)[^key-592f5a6b83fdd173abc73dc5b68f590e] an applicant for registration or (as the case may be) a registered person in respect of a determination made by the Welsh Ministers under this Part of a prescribed description;
+- (a)[^c-592f5a6b83fdd173abc73dc5b68f590e] an applicant for registration or (as the case may be) a registered person in respect of a determination made by the Welsh Ministers under this Part of a prescribed description;
 - (b) a registered person against whom an order is made under section 34;
 - (c) a registered person who is given a notice under section 35.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3cb55e7d683226392b0ebc32439211a]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2010/1/section/37) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))
+[^c-d3cb55e7d683226392b0ebc32439211a]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2010/1/section/37) in force at 1.4.2011 by [S.I. 2010/2582](https://www.legislation.gov.uk/wsi/2010/2582), [art. 2](https://www.legislation.gov.uk/wsi/2010/2582/article/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2010/2582/schedule/1) (with [Schs. 2](https://www.legislation.gov.uk/wsi/2010/2582/schedule/2), [3](https://www.legislation.gov.uk/wsi/2010/2582/schedule/3))
 
-[^key-592f5a6b83fdd173abc73dc5b68f590e]: Modification: [S. 37(2)(a)](https://www.legislation.gov.uk/mwa/2010/1/section/37/2/a) applied (6.12.2022) by [The Child Minding and Day Care (Disqualification) (Wales) Regulations 2022 (revoked) 2022 (S.I. 2022/1066)](https://www.legislation.gov.uk/wsi/2022/1066), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1066/regulation/1), [10](https://www.legislation.gov.uk/wsi/2022/1066/regulation/10)
+[^c-592f5a6b83fdd173abc73dc5b68f590e]: Modification: [S. 37(2)(a)](https://www.legislation.gov.uk/mwa/2010/1/section/37/2/a) applied (6.12.2022) by [The Child Minding and Day Care (Disqualification) (Wales) Regulations 2022 (revoked) 2022 (S.I. 2022/1066)](https://www.legislation.gov.uk/wsi/2022/1066), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1066/regulation/1), [10](https://www.legislation.gov.uk/wsi/2022/1066/regulation/10)

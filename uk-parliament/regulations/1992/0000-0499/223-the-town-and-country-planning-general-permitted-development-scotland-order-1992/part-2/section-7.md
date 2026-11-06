@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Directions restricting development in respect of minerals under class 54 or 66[^key-27f683b1d341349cec0208f922db8522]
+## 7. Directions restricting development in respect of minerals under class 54 or 66[^c-27f683b1d341349cec0208f922db8522]
 
 *Extent: S*
 
@@ -40,10 +40,10 @@ summary: ''
 
 (6) Any direction made by a planning authority in accordance with this article may be cancelled by a subsequent direction made by the planning authority and the foregoing article shall apply to the making of such cancelling direction in the same way as it would apply to the making of the direction being revoked.
 
-(7)[^key-d6bb83128bfdc3745bf45b824aa4498f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d6bb83128bfdc3745bf45b824aa4498f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-27f683b1d341349cec0208f922db8522]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1992/223/article/7) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)
+[^c-27f683b1d341349cec0208f922db8522]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/1992/223/article/7) in force at 13.3.1992, see [art. 1(4)](https://www.legislation.gov.uk/uksi/1992/223/article/1/4)
 
-[^key-d6bb83128bfdc3745bf45b824aa4498f]: Textual amendment: [Art. 7(7)](https://www.legislation.gov.uk/uksi/1992/223/article/7/7) omitted (1.10.2015) by virtue of [The Town and Country Planning (General Permitted Development) (Scotland) Amendment Order 2015 (S.S.I. 2015/235)](https://www.legislation.gov.uk/ssi/2015/235), [art. 3(3)](https://www.legislation.gov.uk/ssi/2015/235/article/3/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/235/regulation/1/1) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/235/regulation/2))
+[^c-d6bb83128bfdc3745bf45b824aa4498f]: Textual amendment: [Art. 7(7)](https://www.legislation.gov.uk/uksi/1992/223/article/7/7) omitted (1.10.2015) by virtue of [The Town and Country Planning (General Permitted Development) (Scotland) Amendment Order 2015 (S.S.I. 2015/235)](https://www.legislation.gov.uk/ssi/2015/235), [art. 3(3)](https://www.legislation.gov.uk/ssi/2015/235/article/3/3), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/235/regulation/1/1) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/235/regulation/2))

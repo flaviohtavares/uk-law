@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Annual report[^key-e9d0854d858415b39b1f6b55057ea347]
+## 36. Annual report[^c-e9d0854d858415b39b1f6b55057ea347]
 
 *Extent: E+W+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 (3) The Authority shall send each report under this section—
 
 - (a) to the Secretary of State,
-- (b) to the Welsh Ministers *(Extent: E+W)*[^key-31dbb11f3df094402422237f48be6b1d], and
+- (b) to the Welsh Ministers *(Extent: E+W)*[^c-31dbb11f3df094402422237f48be6b1d], and
 - (c) to the relevant Northern Ireland department,
 
 as soon as practicable after the end of the period to which the report relates.
@@ -41,12 +41,12 @@ as soon as practicable after the end of the period to which the report relates.
 
 *Extent: E+W*
 
-(5A)[^key-4a1ecfc95321a9be27fa48a23f5a43f5] The Welsh Ministers shall lay a copy of each report received by them under this section before the National Assembly for Wales.
+(5A)[^c-4a1ecfc95321a9be27fa48a23f5a43f5] The Welsh Ministers shall lay a copy of each report received by them under this section before the National Assembly for Wales.
 
 ## Annotations
 
-[^key-e9d0854d858415b39b1f6b55057ea347]: Commencement: S. 36 in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))
+[^c-e9d0854d858415b39b1f6b55057ea347]: Commencement: S. 36 in force at 1.4.2005 by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))
 
-[^key-31dbb11f3df094402422237f48be6b1d]: Textual amendment: Words in s. 36(3)(b) substituted (E.W.) (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(6)(a)](https://www.legislation.gov.uk/anaw/2013/5/section/16/6/a), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
+[^c-31dbb11f3df094402422237f48be6b1d]: Textual amendment: Words in s. 36(3)(b) substituted (E.W.) (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(6)(a)](https://www.legislation.gov.uk/anaw/2013/5/section/16/6/a), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
 
-[^key-4a1ecfc95321a9be27fa48a23f5a43f5]: Textual amendment: S. 36(5A) inserted (E.W.) (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(6)(b)](https://www.legislation.gov.uk/anaw/2013/5/section/16/6/b), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)
+[^c-4a1ecfc95321a9be27fa48a23f5a43f5]: Textual amendment: S. 36(5A) inserted (E.W.) (1.12.2015) by [Human Transplantation (Wales) Act 2013 (anaw 5)](https://www.legislation.gov.uk/anaw/2013/5), [ss. 16(6)(b)](https://www.legislation.gov.uk/anaw/2013/5/section/16/6/b), [21(1)](https://www.legislation.gov.uk/anaw/2013/5/section/21/1) (with [s. 14](https://www.legislation.gov.uk/anaw/2013/5/section/14)); [S.I. 2015/1679](https://www.legislation.gov.uk/wsi/2015/1679), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/1679/article/3/e)

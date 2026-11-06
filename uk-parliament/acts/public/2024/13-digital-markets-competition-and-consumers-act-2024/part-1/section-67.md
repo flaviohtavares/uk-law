@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Regulations about duty to report[^key-5b17341429f55e245f690572a14844e9][^key-8c7dd1c350d4f4af1c536cd1568b27fa]
+## 67. Regulations about duty to report[^c-5b17341429f55e245f690572a14844e9][^c-8c7dd1c350d4f4af1c536cd1568b27fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b17341429f55e245f690572a14844e9]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-5b17341429f55e245f690572a14844e9]: Commencement: S. 67 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-8c7dd1c350d4f4af1c536cd1568b27fa]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2024/13/section/67) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-8c7dd1c350d4f4af1c536cd1568b27fa]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2024/13/section/67) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

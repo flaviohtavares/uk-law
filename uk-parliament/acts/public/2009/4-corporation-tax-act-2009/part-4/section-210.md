@@ -70,18 +70,18 @@ summary: ''
 </tbody>
 </table>
 
-[^key-2e4235ae031d2610157950a9a213ac49][^key-17793b186596811864e4a8b344b24b19][^key-6e3be0317a62c680e6230cf7f221d6a5][^key-b3dde969eb044c29d9c6b8daf86c4510][^key-b3dde969eb044c29d9c6b8daf86c4510][^key-142f981b76f413fbb23ebf3fd6de4f4d][^key-cca6f656cdf9eb0c337140a4e6dc60f8]
+[^c-2e4235ae031d2610157950a9a213ac49][^c-17793b186596811864e4a8b344b24b19][^c-6e3be0317a62c680e6230cf7f221d6a5][^c-b3dde969eb044c29d9c6b8daf86c4510][^c-b3dde969eb044c29d9c6b8daf86c4510][^c-142f981b76f413fbb23ebf3fd6de4f4d][^c-cca6f656cdf9eb0c337140a4e6dc60f8]
 
 ## Annotations
 
-[^key-2e4235ae031d2610157950a9a213ac49]: Textual amendment: Words in s. 210(2) table inserted (with effect in accordance with s. 71(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 71(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/71/6)
+[^c-2e4235ae031d2610157950a9a213ac49]: Textual amendment: Words in s. 210(2) table inserted (with effect in accordance with s. 71(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 71(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/71/6)
 
-[^key-17793b186596811864e4a8b344b24b19]: Textual amendment: Figure in s. 210(2) substituted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 52(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/52/a)
+[^c-17793b186596811864e4a8b344b24b19]: Textual amendment: Figure in s. 210(2) substituted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 52(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/52/a)
 
-[^key-6e3be0317a62c680e6230cf7f221d6a5]: Textual amendment: Words in s. 210(2) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 52(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/52/b)
+[^c-6e3be0317a62c680e6230cf7f221d6a5]: Textual amendment: Words in s. 210(2) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the commencing Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 52(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/52/b)
 
-[^key-b3dde969eb044c29d9c6b8daf86c4510]: Textual amendment: Words in s. 210(2) table omitted (with effect in accordance with s. 72(4)(5) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/72/3)
+[^c-b3dde969eb044c29d9c6b8daf86c4510]: Textual amendment: Words in s. 210(2) table omitted (with effect in accordance with s. 72(4)(5) of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/24/section/72/3)
 
-[^key-142f981b76f413fbb23ebf3fd6de4f4d]: Textual amendment: Words in s. 210(2) table inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/4)
+[^c-142f981b76f413fbb23ebf3fd6de4f4d]: Textual amendment: Words in s. 210(2) table inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/4)
 
-[^key-cca6f656cdf9eb0c337140a4e6dc60f8]: Textual amendment: Words in s. 210(2) table inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 4(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/4/3), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)
+[^c-cca6f656cdf9eb0c337140a4e6dc60f8]: Textual amendment: Words in s. 210(2) table inserted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 17 paras. 4(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/4/3), [6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/17/paragraph/6)

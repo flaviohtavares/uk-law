@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Special rules for excluded, exempt ... ... and reduced-rate supplies[^key-5feb0ca5ac84faeeafd429de5097c461][^key-0ff74b51dcdd66580946feef1179820b][^key-86f3e8879d5fe6922f17d15444191a4e]
+## 33. Special rules for excluded, exempt ... ... and reduced-rate supplies[^c-5feb0ca5ac84faeeafd429de5097c461][^c-0ff74b51dcdd66580946feef1179820b][^c-86f3e8879d5fe6922f17d15444191a4e]
 
 *Extent: E+W+S+N.I.*
 
-The provisions of this Part have effect subject to Part III of and Schedule 1[^key-699504bf0fb613c9d89c65c4133dd18a] to these Regulations (accounting and payment in the case of excluded, exempt [^key-84013b8c47c14ef1da8d7ac50c0530c6]... [^key-2e509a1167d8db7694663ef03287ea11]... and reduced-rate supplies).
+The provisions of this Part have effect subject to Part III of and Schedule 1[^c-699504bf0fb613c9d89c65c4133dd18a] to these Regulations (accounting and payment in the case of excluded, exempt [^c-84013b8c47c14ef1da8d7ac50c0530c6]... [^c-2e509a1167d8db7694663ef03287ea11]... and reduced-rate supplies).
 
 ## Annotations
 
-[^key-5feb0ca5ac84faeeafd429de5097c461]: Commencement: Reg. 33 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-5feb0ca5ac84faeeafd429de5097c461]: Commencement: Reg. 33 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
 
-[^key-0ff74b51dcdd66580946feef1179820b]: Textual amendment: Word in reg. 33 heading omitted (1.11.2007 with effect in accordance with the Notes in Sch. 1 to the amending S.I.) by virtue of [The Climate Change Levy (General) (Amendment) Regulations 2007 (S.I. 2007/2903)](https://www.legislation.gov.uk/uksi/2007/2903), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2903/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2903/schedule/1) Table Item 8
+[^c-0ff74b51dcdd66580946feef1179820b]: Textual amendment: Word in reg. 33 heading omitted (1.11.2007 with effect in accordance with the Notes in Sch. 1 to the amending S.I.) by virtue of [The Climate Change Levy (General) (Amendment) Regulations 2007 (S.I. 2007/2903)](https://www.legislation.gov.uk/uksi/2007/2903), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2903/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2903/schedule/1) Table Item 8
 
-[^key-86f3e8879d5fe6922f17d15444191a4e]: Textual amendment: Words in reg. 33 heading omitted (1.4.2014 with effect in accordance with Sch. 20 para. 10 to the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 20 paras. 8(6)(a)](https://www.legislation.gov.uk/uksi/2007/2903/schedule/20/paragraph/8/6/a), [10(1)](https://www.legislation.gov.uk/uksi/2007/2903/schedule/20/paragraph/10/1)
+[^c-86f3e8879d5fe6922f17d15444191a4e]: Textual amendment: Words in reg. 33 heading omitted (1.4.2014 with effect in accordance with Sch. 20 para. 10 to the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 20 paras. 8(6)(a)](https://www.legislation.gov.uk/uksi/2007/2903/schedule/20/paragraph/8/6/a), [10(1)](https://www.legislation.gov.uk/uksi/2007/2903/schedule/20/paragraph/10/1)
 
-[^key-699504bf0fb613c9d89c65c4133dd18a]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2001/838/regulation/33) substituted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/604/regulation/4)
+[^c-699504bf0fb613c9d89c65c4133dd18a]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2001/838/regulation/33) substituted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/604/regulation/4)
 
-[^key-84013b8c47c14ef1da8d7ac50c0530c6]: Textual amendment: Word in reg. 33 omitted (1.11.2007 with effect in accordance with the Notes in Sch. 1 to the amending S.I.) by virtue of [The Climate Change Levy (General) (Amendment) Regulations 2007 (S.I. 2007/2903)](https://www.legislation.gov.uk/uksi/2007/2903), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2903/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2903/schedule/1) Table Item 8
+[^c-84013b8c47c14ef1da8d7ac50c0530c6]: Textual amendment: Word in reg. 33 omitted (1.11.2007 with effect in accordance with the Notes in Sch. 1 to the amending S.I.) by virtue of [The Climate Change Levy (General) (Amendment) Regulations 2007 (S.I. 2007/2903)](https://www.legislation.gov.uk/uksi/2007/2903), [reg. 1](https://www.legislation.gov.uk/uksi/2007/2903/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/2903/schedule/1) Table Item 8
 
-[^key-2e509a1167d8db7694663ef03287ea11]: Textual amendment: Words in reg. 33 omitted (1.4.2014 with effect in accordance with Sch. 20 para. 10 to the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 20 paras. 8(6)(b)](https://www.legislation.gov.uk/uksi/2007/2903/schedule/20/paragraph/8/6/b), [10(1)](https://www.legislation.gov.uk/uksi/2007/2903/schedule/20/paragraph/10/1)
+[^c-2e509a1167d8db7694663ef03287ea11]: Textual amendment: Words in reg. 33 omitted (1.4.2014 with effect in accordance with Sch. 20 para. 10 to the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 20 paras. 8(6)(b)](https://www.legislation.gov.uk/uksi/2007/2903/schedule/20/paragraph/8/6/b), [10(1)](https://www.legislation.gov.uk/uksi/2007/2903/schedule/20/paragraph/10/1)

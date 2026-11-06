@@ -28,7 +28,7 @@ This Statutory Instrument has been printed to correct defects in S.I. 1992/2982 
 
 REGISTRATION OF BIRTHS, DEATHS, MARRIAGES, ETC. ENGLAND AND WALES
 
-The Registration of Births, Deaths and Marriages (Fees) (Amendment) (No. 2) Order 1993 (revoked)[^key-00109506fe8f045230536e94edcb27de]
+The Registration of Births, Deaths and Marriages (Fees) (Amendment) (No. 2) Order 1993 (revoked)[^c-00109506fe8f045230536e94edcb27de]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into force
 
 1st April 1993
 
-[^key-00109506fe8f045230536e94edcb27de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00109506fe8f045230536e94edcb27de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-00109506fe8f045230536e94edcb27de]
+## 1. Citation and commencement[^c-00109506fe8f045230536e94edcb27de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-00109506fe8f045230536e94edcb27de]
+## 2. Interpretation[^c-00109506fe8f045230536e94edcb27de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of principal Order[^key-00109506fe8f045230536e94edcb27de]
+## 3. Amendment of principal Order[^c-00109506fe8f045230536e94edcb27de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of Order[^key-00109506fe8f045230536e94edcb27de]
+## 4. Revocation of Order[^c-00109506fe8f045230536e94edcb27de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-00109506fe8f045230536e94edcb27de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00109506fe8f045230536e94edcb27de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-00109506fe8f045230536e94edcb27de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00109506fe8f045230536e94edcb27de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-00109506fe8f045230536e94edcb27de]: Textual amendment: Order revoked (1.4.1994) by [The Registration of Births, Deaths and Marriages (Fees) Order 1993 (S.I. 1993/3116)](https://www.legislation.gov.uk/uksi/1993/3116), [art. 3](https://www.legislation.gov.uk/uksi/1993/3116/article/3) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]
+[^c-00109506fe8f045230536e94edcb27de]: Textual amendment: Order revoked (1.4.1994) by [The Registration of Births, Deaths and Marriages (Fees) Order 1993 (S.I. 1993/3116)](https://www.legislation.gov.uk/uksi/1993/3116), [art. 3](https://www.legislation.gov.uk/uksi/1993/3116/article/3) \[Editorial note: No historical versions of this S.I.have been created prior to its revocation. Select the 'Original (As Made) version from the left-hand menu to see the document content as it originally stood\]

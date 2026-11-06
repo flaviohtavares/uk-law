@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING
 
-The Planning (Modification and Discharge of Planning Agreements) Regulations (Northern Ireland) 2005 (revoked)[^key-39fc1d206c57609711ddb8a507438e32]
+The Planning (Modification and Discharge of Planning Agreements) Regulations (Northern Ireland) 2005 (revoked)[^c-39fc1d206c57609711ddb8a507438e32]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 31st August 2005
 
-[^key-39fc1d206c57609711ddb8a507438e32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39fc1d206c57609711ddb8a507438e32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-39fc1d206c57609711ddb8a507438e32]
+## 1. Citation, commencement and interpretation[^c-39fc1d206c57609711ddb8a507438e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Applications for the modification and discharge of planning agreements[^key-39fc1d206c57609711ddb8a507438e32]
+## 2. Applications for the modification and discharge of planning agreements[^c-39fc1d206c57609711ddb8a507438e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Notification of applications by applicant[^key-39fc1d206c57609711ddb8a507438e32]
+## 3. Notification of applications by applicant[^c-39fc1d206c57609711ddb8a507438e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Publicity for applications[^key-39fc1d206c57609711ddb8a507438e32]
+## 4. Publicity for applications[^c-39fc1d206c57609711ddb8a507438e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Determination of applications by Department[^key-39fc1d206c57609711ddb8a507438e32]
+## 5. Determination of applications by Department[^c-39fc1d206c57609711ddb8a507438e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Appeals to the Planning Appeals Commission[^key-39fc1d206c57609711ddb8a507438e32]
+## 6. Appeals to the Planning Appeals Commission[^c-39fc1d206c57609711ddb8a507438e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-39fc1d206c57609711ddb8a507438e32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39fc1d206c57609711ddb8a507438e32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — PRESCRIBED NOTICES AND CERTIFICATES[^key-39fc1d206c57609711ddb8a507438e32]
+## SCHEDULE — PRESCRIBED NOTICES AND CERTIFICATES[^c-39fc1d206c57609711ddb8a507438e32]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-39fc1d206c57609711ddb8a507438e32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39fc1d206c57609711ddb8a507438e32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-39fc1d206c57609711ddb8a507438e32]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/353) revoked (22.4.2015) by [The Planning (Modification and Discharge of Planning Agreements) Regulations (Northern Ireland) 2015 (S.R. 2015/187)](https://www.legislation.gov.uk/nisr/2015/187), [reg. 8](https://www.legislation.gov.uk/nisr/2015/187/regulation/8)
+[^c-39fc1d206c57609711ddb8a507438e32]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/353) revoked (22.4.2015) by [The Planning (Modification and Discharge of Planning Agreements) Regulations (Northern Ireland) 2015 (S.R. 2015/187)](https://www.legislation.gov.uk/nisr/2015/187), [reg. 8](https://www.legislation.gov.uk/nisr/2015/187/regulation/8)

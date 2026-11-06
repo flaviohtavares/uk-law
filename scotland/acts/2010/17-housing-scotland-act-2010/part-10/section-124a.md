@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124A. Regulator's consent[^key-0705f48be63bd3810cd2304449c229d8]
+## 124A. Regulator's consent[^c-0705f48be63bd3810cd2304449c229d8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0705f48be63bd3810cd2304449c229d8]: Textual amendment: S. 124A repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 7(3)](https://www.legislation.gov.uk/asp/2018/13/section/7/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-0705f48be63bd3810cd2304449c229d8]: Textual amendment: S. 124A repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 7(3)](https://www.legislation.gov.uk/asp/2018/13/section/7/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

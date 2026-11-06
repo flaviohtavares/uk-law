@@ -43,7 +43,7 @@ summary: ''
 (3) Without prejudice to the generality of subsection (1) or any provision of subsection (2), regulations under subsection (1) may provide—
 
 - (a) for any relevant provision to apply (with or without modification) to, or to any description of—
-  - (i) schools maintained by a local authority[^key-5177265949adaa73e26402711f36dc2e] within the meaning of the [^c14011101]Education Act 1996, or
+  - (i) schools maintained by a local authority[^c-5177265949adaa73e26402711f36dc2e] within the meaning of the [^c14011101]Education Act 1996, or
   - (ii) grant-maintained or grant-maintained special schools within the meaning of that Act;
 - (b) for any provision so applied, or any provision of the regulations, to have effect in relation to schools despite anything in their articles or instruments of government;
 - (c) for any reference in this Act to the appointed day to have effect instead as a reference to such day as is specified in the regulations;
@@ -73,7 +73,7 @@ and in that paragraph and this subsection “**school**” includes a proposed s
 
 [^c14011091]: Modification: S. 144: Transfer of functions (16.2.2000) by [S.I. 2000/253](https://www.legislation.gov.uk/uksi/2000/253), [art. 2(1)](https://www.legislation.gov.uk/uksi/2000/253/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/253/schedule/1)
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
 [^c14011101]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 

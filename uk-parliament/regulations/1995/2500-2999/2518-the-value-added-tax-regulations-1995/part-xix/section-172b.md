@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172B. Writing off debts—tour operators margin scheme[^key-912a09f001c292edf35567267c28315a][^key-be57a27e8154cb1a0f84d5ddd8881765]
+## 172B. Writing off debts—tour operators margin scheme[^c-912a09f001c292edf35567267c28315a][^c-be57a27e8154cb1a0f84d5ddd8881765]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-912a09f001c292edf35567267c28315a]: Textual amendment: [Regs. 172A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/172A), [172B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/172B) inserted (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [15](https://www.legislation.gov.uk/uksi/1997/1086/regulation/15)
+[^c-912a09f001c292edf35567267c28315a]: Textual amendment: [Regs. 172A](https://www.legislation.gov.uk/uksi/1995/2518/regulation/172A), [172B](https://www.legislation.gov.uk/uksi/1995/2518/regulation/172B) inserted (1.5.1997) by [The Value Added Tax (Amendment) Regulations 1997 (S.I. 1997/1086)](https://www.legislation.gov.uk/uksi/1997/1086), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1086/regulation/1), [15](https://www.legislation.gov.uk/uksi/1997/1086/regulation/15)
 
-[^key-be57a27e8154cb1a0f84d5ddd8881765]: Modification: [Pt. XIX](https://www.legislation.gov.uk/uksi/1995/2518/part/XIX) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZF para. 16(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))
+[^c-be57a27e8154cb1a0f84d5ddd8881765]: Modification: [Pt. XIX](https://www.legislation.gov.uk/uksi/1995/2518/part/XIX) modified (10.6.2021 for specified purposes, 1.7.2021 in so far as not already in force) by 1994 c. 23, Sch. 9ZF para. 16(4) (as inserted by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 95(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/95/6/a), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/18/paragraph/6); [S.I. 2021/770](https://www.legislation.gov.uk/uksi/2021/770), [regs. 3](https://www.legislation.gov.uk/uksi/2021/770/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/770/regulation/4) (with [regs. 5-7](https://www.legislation.gov.uk/uksi/2021/770/regulation/5)))

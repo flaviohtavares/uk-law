@@ -57,7 +57,7 @@ Section 582(1).
 
 #### Education Act 1962 (c. 12)
 
-**4.** (1) Section 1 of the Education Act 1962 (local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] awards for designated courses) shall continue to have effect with the following amendment (originally made by section 4 of the [^c15258951]Education (Grants and Awards) Act 1984).
+**4.** (1) Section 1 of the Education Act 1962 (local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] awards for designated courses) shall continue to have effect with the following amendment (originally made by section 4 of the [^c15258951]Education (Grants and Awards) Act 1984).
 
 (2) In subsection (3)(d), for the words from “for the higher diploma” onwards there is substituted “ or for the higher national diploma of the body corporate known at the passing of the Education (Grants and Awards) Act 1984 as the Business & Technician Education Council. ”
 
@@ -71,7 +71,7 @@ Section 582(1).
 
 #### London Government Act 1963 (c. 33)
 
-**8.** In section 30(1) of the London Government Act 1963 (local authorities[^key-df82d42709314c7296748c08b3554faa]) for “the Education Acts 1944 to 1962 or in any other Act” there is substituted “ any Act ”.
+**8.** In section 30(1) of the London Government Act 1963 (local authorities[^c-df82d42709314c7296748c08b3554faa]) for “the Education Acts 1944 to 1962 or in any other Act” there is substituted “ any Act ”.
 
 *Extent: E+W*
 
@@ -81,11 +81,11 @@ Section 582(1).
 
 **10.** In section 37(3) of the Children and Young Persons Act 1963 (exceptions to restriction on persons under 16 taking part in public performances etc.) for “the Education Act 1944” there is substituted “ the Education Act 1996 ”.
 
-**11.** In section 38 of that Act (restriction on licences for performances by children under 13)— *(Extent: S)* *(affected by repeal, see note)*[^key-c6d62600043438db3dac833b0d380ee2]
+**11.** In section 38 of that Act (restriction on licences for performances by children under 13)— *(Extent: S)* *(affected by repeal, see note)*[^c-c6d62600043438db3dac833b0d380ee2]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-c6d62600043438db3dac833b0d380ee2] in subsection (1) for “thirteen” there is substituted *(Extent: S)* *(affected by repeal, see note)*[^key-c6d62600043438db3dac833b0d380ee2] “ fourteen ” *(Extent: S)* *(affected by repeal, see note)*[^key-c6d62600043438db3dac833b0d380ee2]; *(Extent: S)* *(affected by repeal, see note)*[^key-c6d62600043438db3dac833b0d380ee2]
-- (b (Extent: S) (affected by repeal, see note))[^key-c6d62600043438db3dac833b0d380ee2] subsection (2) is omitted; and *(Extent: S)* *(affected by repeal, see note)*[^key-c6d62600043438db3dac833b0d380ee2]
-- (c (Extent: S) (affected by repeal, see note))[^key-c6d62600043438db3dac833b0d380ee2] in the sidenote, for “13” there is substituted *(Extent: S)* *(affected by repeal, see note)*[^key-c6d62600043438db3dac833b0d380ee2] “ 14 ” *(Extent: S)* *(affected by repeal, see note)*[^key-c6d62600043438db3dac833b0d380ee2]. *(Extent: S)* *(affected by repeal, see note)*[^key-c6d62600043438db3dac833b0d380ee2]
+- (a (Extent: S) (affected by repeal, see note))[^c-c6d62600043438db3dac833b0d380ee2] in subsection (1) for “thirteen” there is substituted *(Extent: S)* *(affected by repeal, see note)*[^c-c6d62600043438db3dac833b0d380ee2] “ fourteen ” *(Extent: S)* *(affected by repeal, see note)*[^c-c6d62600043438db3dac833b0d380ee2]; *(Extent: S)* *(affected by repeal, see note)*[^c-c6d62600043438db3dac833b0d380ee2]
+- (b (Extent: S) (affected by repeal, see note))[^c-c6d62600043438db3dac833b0d380ee2] subsection (2) is omitted; and *(Extent: S)* *(affected by repeal, see note)*[^c-c6d62600043438db3dac833b0d380ee2]
+- (c (Extent: S) (affected by repeal, see note))[^c-c6d62600043438db3dac833b0d380ee2] in the sidenote, for “13” there is substituted *(Extent: S)* *(affected by repeal, see note)*[^c-c6d62600043438db3dac833b0d380ee2] “ 14 ” *(Extent: S)* *(affected by repeal, see note)*[^c-c6d62600043438db3dac833b0d380ee2]. *(Extent: S)* *(affected by repeal, see note)*[^c-c6d62600043438db3dac833b0d380ee2]
 
 #### Veterinary Surgeons Act 1966 (c. 36)
 
@@ -93,7 +93,7 @@ Section 582(1).
 
 #### Education Act 1967 (c. 3)
 
-**13.**[^key-7695cc9f3833efbb9b2084c0f41dd030] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7695cc9f3833efbb9b2084c0f41dd030] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Public Expenditure and Receipts Act 1968 (c. 14)
 
@@ -153,7 +153,7 @@ Section 582(1).
 
 #### Fair Trading Act 1973 (c. 41)
 
-**26.**[^key-564a0a11562c2b929384c8e19bf324cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-564a0a11562c2b929384c8e19bf324cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Local Government Act 1974 (c. 7)
 
@@ -200,26 +200,26 @@ Section 582(1).
 
 #### Sex Discrimination Act 1975 (c. 65)
 
-**31.**[^key-099912c8cb32fce17a754d10194ba642] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-099912c8cb32fce17a754d10194ba642] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-5431dc2ef02a46245f5aeeb20903dbf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-5431dc2ef02a46245f5aeeb20903dbf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **33.**[^c15259191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-64ac5b605aac9bd8120feed138abdb40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-64ac5b605aac9bd8120feed138abdb40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-64ac5b605aac9bd8120feed138abdb40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-64ac5b605aac9bd8120feed138abdb40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-64ac5b605aac9bd8120feed138abdb40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-64ac5b605aac9bd8120feed138abdb40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **37.** In Schedule 2 to that Act (transitional exemption orders for educational admissions)—
 
 - (a)[^c15259211] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-a41aa6404b5a7216bc1ec8fd07278497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a41aa6404b5a7216bc1ec8fd07278497] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Restrictive Trade Practices Act 1976 (c. 34)
 
@@ -227,9 +227,9 @@ Section 582(1).
 
 #### Race Relations Act 1976 (c. 74)
 
-**39.**[^key-47375010a0fe63fe9010fd98eb10690c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-47375010a0fe63fe9010fd98eb10690c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-07228e8ccbb3d1cb1ad413d0cb1b7ebe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-07228e8ccbb3d1cb1ad413d0cb1b7ebe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -239,19 +239,19 @@ Section 582(1).
 
 **42.**[^c15259251] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-b7f6ad4e861a260b9f95f46209a895f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-b7f6ad4e861a260b9f95f46209a895f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### National Health Service Act 1977 (c. 49)
 
-**44.**[^key-26e3bd0c42a71f8cf93571138d840270] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-26e3bd0c42a71f8cf93571138d840270] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**45.**[^key-26e3bd0c42a71f8cf93571138d840270] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-26e3bd0c42a71f8cf93571138d840270] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-**46.**[^key-26e3bd0c42a71f8cf93571138d840270] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-26e3bd0c42a71f8cf93571138d840270] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Education Act 1980 (c.20)
 
@@ -287,7 +287,7 @@ Section 582(1).
 
 #### Local Government, Planning and Land Act 1980 (c.65)
 
-**49.**[^key-f1ff4309efbfce04a82772a94ed2812b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-f1ff4309efbfce04a82772a94ed2812b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Acquisition of Land Act 1981 (c. 67)
 
@@ -311,7 +311,7 @@ Section 582(1).
 
 #### Agricultural Training Board Act 1982 (c. 9)
 
-**53.**[^key-a7abd24865de5923790b8ae536d2ba2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-a7abd24865de5923790b8ae536d2ba2e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Industrial Training Act 1982 (c. 10)
 
@@ -374,7 +374,7 @@ Section 582(1).
 
 (2) In subsection (1)(a) for “or 168 of the Education Act 1993” there is substituted “ section 168 of the Education Act 1993 or section 324 of the Education Act 1996 ”.
 
-(3)[^key-c4c70d765ded3214de71e746f5819f46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c4c70d765ded3214de71e746f5819f46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (9)—
 
@@ -383,7 +383,7 @@ Section 582(1).
 
 #### Education (No. 2) Act 1986 (c. 61)
 
-**65.**[^key-8a9386e75df26e5a40dc0b33bac061b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-8a9386e75df26e5a40dc0b33bac061b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **66.** (1) Section 67 of that Act (short title etc.) shall be amended as follows.
 
@@ -438,7 +438,7 @@ Section 582(1).
 
 **75.**[^c15259391] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**76.**[^key-55339efaa1d27459a844d40c1722c5f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**76.**[^c-55339efaa1d27459a844d40c1722c5f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **77.** For section 219 of that Act there is substituted—
 
@@ -493,7 +493,7 @@ Section 582(1).
 
 #### Children Act 1989 (c. 41)
 
-**84.**[^key-750d8505f00d8f81c2f1fce975a37335] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**84.**[^c-750d8505f00d8f81c2f1fce975a37335] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **85.** In section 36(5) of that Act (education supervision orders: presumption that child is not being properly educated)—
 
@@ -587,9 +587,9 @@ Section 582(1).
 
 #### School Teachers’ Pay and Conditions Act 1991 (c. 49)
 
-**101.**[^key-c52656bf46f7a5a51f5f69e237eb8693] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**101.**[^c-c52656bf46f7a5a51f5f69e237eb8693] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-ac6a9269fdcc6c3526f3ac7eb6c112b2]
+#### ...[^c-ac6a9269fdcc6c3526f3ac7eb6c112b2]
 
 *Extent: E+W*
 
@@ -597,7 +597,7 @@ Section 582(1).
 
 **103.**[^c15259641] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**104.**[^key-ac6a9269fdcc6c3526f3ac7eb6c112b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**104.**[^c-ac6a9269fdcc6c3526f3ac7eb6c112b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **105.**[^c15259661] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -677,7 +677,7 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 #### Charities Act 1993 (c. 10)
 
-**119.**[^key-d0cd2c0b658e6caf6993e5b9043cff32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**119.**[^c-d0cd2c0b658e6caf6993e5b9043cff32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **120.** (1) Schedule 2 to that Act (exempt charities) shall continue to have effect with the following amendments (originally made by Schedules 15 and 19 to the [^c15259851]Education Act 1993).
 
@@ -693,17 +693,17 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 .
 
-**121.**[^key-4a67d376e8d3305409bc99baeb3e5cbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**121.**[^c-4a67d376e8d3305409bc99baeb3e5cbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Welsh Language Act 1993 (c. 38)
 
 **122.**[^c15259861] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-28eae958a7d5510b2d7b7d4e63ae1627]
+#### ...[^c-28eae958a7d5510b2d7b7d4e63ae1627]
 
-**123.**[^key-28eae958a7d5510b2d7b7d4e63ae1627] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**123.**[^c-28eae958a7d5510b2d7b7d4e63ae1627] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**124.**[^key-28eae958a7d5510b2d7b7d4e63ae1627] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**124.**[^c-28eae958a7d5510b2d7b7d4e63ae1627] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Value Added Tax Act 1994 (c. 23)
 
@@ -748,7 +748,7 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 #### Nursery Education and Grant-Maintained Schools Act 1996 (c. 57)
 
-**131.**[^key-d1fd510b9f3e4d38fe117ad1e247c5bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**131.**[^c-d1fd510b9f3e4d38fe117ad1e247c5bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **132.** In section 11 of that Act (citation etc.) for subsection (2) there is substituted—
 
@@ -798,17 +798,17 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 [^c15258941]: Marginal citation: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15258951]: Marginal citation: [1984 c. 11](https://www.legislation.gov.uk/ukpga/1984/11).
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15259011]: Textual amendment: Sch. 37 para. 9 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-c6d62600043438db3dac833b0d380ee2]: Textual amendment: Sch. 37 para. 11 repealed (S.) (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [sch. 5 para. 6](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/6); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-c6d62600043438db3dac833b0d380ee2]: Textual amendment: Sch. 37 para. 11 repealed (S.) (1.8.2014) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [s. 102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3), [sch. 5 para. 6](https://www.legislation.gov.uk/asp/2014/8/schedule/5/paragraph/6); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
 
-[^key-7695cc9f3833efbb9b2084c0f41dd030]: Textual amendment: Sch. 37 para. 13 repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1))
+[^c-7695cc9f3833efbb9b2084c0f41dd030]: Textual amendment: Sch. 37 para. 13 repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1))
 
 [^c15259021]: Textual amendment: Sch. 37 paras. 15, 16 repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165(4)](https://www.legislation.gov.uk/ukpga/2000/6/section/165/4), [168](https://www.legislation.gov.uk/ukpga/2000/6/section/168), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 
@@ -824,43 +824,43 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 [^c15259161]: Marginal citation: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^key-564a0a11562c2b929384c8e19bf324cd]: Textual amendment: Sch. 37 para. 26 repealed (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/25)
+[^c-564a0a11562c2b929384c8e19bf324cd]: Textual amendment: Sch. 37 para. 26 repealed (20.6.2003) by [The Enterprise Act 2002 (Consequential and Supplemental Provisions) Order 2003 (S.I. 2003/1398)](https://www.legislation.gov.uk/uksi/2003/1398), [art. 1](https://www.legislation.gov.uk/uksi/2003/1398/article/1), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2003/1398/schedule/paragraph/25)
 
 [^c15259171]: Textual amendment: Sch. 37 para. 27 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
 [^c15259181]: Marginal citation: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^key-099912c8cb32fce17a754d10194ba642]: Textual amendment: Sch. 37 para. 31 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-099912c8cb32fce17a754d10194ba642]: Textual amendment: Sch. 37 para. 31 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
-[^key-5431dc2ef02a46245f5aeeb20903dbf8]: Textual amendment: Sch. 37 para. 32 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010 by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-5431dc2ef02a46245f5aeeb20903dbf8]: Textual amendment: Sch. 37 para. 32 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010 by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
 [^c15259191]: Textual amendment: Sch. 37 para. 33 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-64ac5b605aac9bd8120feed138abdb40]: Textual amendment: Sch. 37 paras. 34-36 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-64ac5b605aac9bd8120feed138abdb40]: Textual amendment: Sch. 37 paras. 34-36 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
 [^c15259211]: Textual amendment: Sch. 37 para. 37(a) repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-a41aa6404b5a7216bc1ec8fd07278497]: Textual amendment: Sch. 37 para. 37(b) repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-a41aa6404b5a7216bc1ec8fd07278497]: Textual amendment: Sch. 37 para. 37(b) repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
-[^key-47375010a0fe63fe9010fd98eb10690c]: Textual amendment: Sch. 37 para. 39 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-47375010a0fe63fe9010fd98eb10690c]: Textual amendment: Sch. 37 para. 39 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
-[^key-07228e8ccbb3d1cb1ad413d0cb1b7ebe]: Textual amendment: Sch. 37 para. 40 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-07228e8ccbb3d1cb1ad413d0cb1b7ebe]: Textual amendment: Sch. 37 para. 40 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
 [^c15259231]: Textual amendment: Sch. 37 para. 41 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
 [^c15259251]: Textual amendment: Sch. 37 para. 42 repealed (2.4.2001) by [2000 c. 34](https://www.legislation.gov.uk/ukpga/2000/34), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2000/34/section/9/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/34/schedule/3) (with [s. 10(5)](https://www.legislation.gov.uk/ukpga/2000/34/section/10/5)); [S.I. 2001/566](https://www.legislation.gov.uk/uksi/2001/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/566/article/2/1)
 
-[^key-b7f6ad4e861a260b9f95f46209a895f1]: Textual amendment: Sch. 37 para. 43 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
+[^c-b7f6ad4e861a260b9f95f46209a895f1]: Textual amendment: Sch. 37 para. 43 repealed by 2010 c. 15, Sch. 27 Pt. 1 (as substituted (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)) (see S.I. 2010/2317, art. 2)
 
-[^key-26e3bd0c42a71f8cf93571138d840270]: Textual amendment: Sch. 37 paras. 44-46 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-26e3bd0c42a71f8cf93571138d840270]: Textual amendment: Sch. 37 paras. 44-46 repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c15259281]: Marginal citation: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^key-f1ff4309efbfce04a82772a94ed2812b]: Textual amendment: Sch. 37 para. 49 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
+[^c-f1ff4309efbfce04a82772a94ed2812b]: Textual amendment: Sch. 37 para. 49 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 2
 
 [^c15259291]: Marginal citation: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^key-a7abd24865de5923790b8ae536d2ba2e]: Textual amendment: Sch. 37 para. 53 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-a7abd24865de5923790b8ae536d2ba2e]: Textual amendment: Sch. 37 para. 53 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
 [^c15259301]: Marginal citation: [1988 c. 40](https://www.legislation.gov.uk/ukpga/1988/40).
 
@@ -872,9 +872,9 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 [^c15259331]: Textual amendment: Sch. 37 para. 63 repealed (28.9.2000) by [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22), [ss. 107(2)](https://www.legislation.gov.uk/ukpga/2000/22/section/107/2), [108(2)(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/2/c), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6)
 
-[^key-c4c70d765ded3214de71e746f5819f46]: Textual amendment: [Sch. 37 para. 64(3)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/paragraph/64/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 43](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/43)
+[^c-c4c70d765ded3214de71e746f5819f46]: Textual amendment: [Sch. 37 para. 64(3)](https://www.legislation.gov.uk/ukpga/1996/56/schedule/37/paragraph/64/3) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 43](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/43)
 
-[^key-8a9386e75df26e5a40dc0b33bac061b0]: Textual amendment: Sch. 37 para. 65 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
+[^c-8a9386e75df26e5a40dc0b33bac061b0]: Textual amendment: Sch. 37 para. 65 repealed (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [s. 125(3)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/3/b), [Sch. 19 Pt. 3](https://www.legislation.gov.uk/ukpga/2005/18/schedule/19/part/3)
 
 [^c15259351]: Textual amendment: Sch. 37 para. 70 repealed (1.4.2001) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21), [s. 153](https://www.legislation.gov.uk/ukpga/2000/21/section/153), [Sch. 11](https://www.legislation.gov.uk/ukpga/2000/21/schedule/11) (with [s. 150](https://www.legislation.gov.uk/ukpga/2000/21/section/150)); [S.I. 2001/654](https://www.legislation.gov.uk/uksi/2001/654), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/654/article/2/2), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2001/654/schedule/part/II) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/654/article/3)); [S.I. 2001/1274](https://www.legislation.gov.uk/uksi/2001/1274), [art. 2(2)](https://www.legislation.gov.uk/uksi/2001/1274/article/2/2), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2001/1274/schedule/part/I) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/1274/article/3))
 
@@ -884,7 +884,7 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 [^c15259391]: Textual amendment: Sch. 37 para. 75 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch. 31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-55339efaa1d27459a844d40c1722c5f8]: Textual amendment: Sch. 37 para. 76 repealed (2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
+[^c-55339efaa1d27459a844d40c1722c5f8]: Textual amendment: Sch. 37 para. 76 repealed (2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1)
 
 [^c15259421]: Textual amendment: Sch. 37 para. 78 repealed (11.9.1998) by [1998 c. 18](https://www.legislation.gov.uk/ukpga/1998/18), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/1998/18/section/54/3), [55(2)](https://www.legislation.gov.uk/ukpga/1998/18/section/55/2), [Sch.5](https://www.legislation.gov.uk/ukpga/1998/18/schedule/5)
 
@@ -898,7 +898,7 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 [^c15259501]: Textual amendment: Sch. 37 para. 82(3) repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); S.I 1999/2323, art. 2(1), Sch. 1
 
-[^key-750d8505f00d8f81c2f1fce975a37335]: Textual amendment: Sch. 37 para. 84 repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
+[^c-750d8505f00d8f81c2f1fce975a37335]: Textual amendment: Sch. 37 para. 84 repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
 
 [^c15259511]: Textual amendment: Sch. 37 para. 86 repealed (1.4.2002) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [s. 117(2)](https://www.legislation.gov.uk/ukpga/2000/14/section/117/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/14/schedule/6); [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [arts. 3(3)(c)(xii)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/3/c/xii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(3)(g)(x)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3/g/x) (subject to [art. 3(2)](https://www.legislation.gov.uk/uksi/2002/920/article/3/2), [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1) and with [art. 3(5)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/5))
 
@@ -912,9 +912,9 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 [^c15259581]: Textual amendment: Sch. 37 para. 97 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-c52656bf46f7a5a51f5f69e237eb8693]: Textual amendment: Sch. 37 para. 101 repealed (1.8.2003) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/2), [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/1) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
+[^c-c52656bf46f7a5a51f5f69e237eb8693]: Textual amendment: Sch. 37 para. 101 repealed (1.8.2003) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(2)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/2), [Sch. 22 Pt. 1](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/1) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
 
-[^key-ac6a9269fdcc6c3526f3ac7eb6c112b2]: Textual amendment: Sch. 37 para. 104 and cross-heading repealed (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 21(3)(a)](https://www.legislation.gov.uk/ukcm/2021/1/section/21/3/a), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [s. 23(8)](https://www.legislation.gov.uk/ukcm/2021/1/section/23/8), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
+[^c-ac6a9269fdcc6c3526f3ac7eb6c112b2]: Textual amendment: Sch. 37 para. 104 and cross-heading repealed (29.6.2021) by [Diocesan Boards of Education Measure 2021 (No. 1)](https://www.legislation.gov.uk/ukcm/2021/1), [ss. 21(3)(a)](https://www.legislation.gov.uk/ukcm/2021/1/section/21/3/a), [24(3)](https://www.legislation.gov.uk/ukcm/2021/1/section/24/3) (with [s. 23(8)](https://www.legislation.gov.uk/ukcm/2021/1/section/23/8), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukcm/2021/1/schedule/2/paragraph/6))
 
 [^c15259621]: Textual amendment: Sch. 37 para. 102 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
@@ -944,18 +944,18 @@ for “section 99 of the Education Act 1944” there is substituted “ section 
 
 [^c15259841]: Textual amendment: Sch. 37 para. 118(3)(d) repealed (1.9.2002) by [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10), [s. 42(1)(6)](https://www.legislation.gov.uk/ukpga/2001/10/section/42/1/6), [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2001/10/schedule/8/paragraph/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2001/10/schedule/9) (with [s. 43(13)](https://www.legislation.gov.uk/ukpga/2001/10/section/43/13)); [S.I. 2002/2217](https://www.legislation.gov.uk/uksi/2002/2217), [art. 3](https://www.legislation.gov.uk/uksi/2002/2217/article/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2217/schedule/1/part/1)
 
-[^key-d0cd2c0b658e6caf6993e5b9043cff32]: Textual amendment: Sch. 37 para. 119 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-d0cd2c0b658e6caf6993e5b9043cff32]: Textual amendment: Sch. 37 para. 119 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c15259851]: Marginal citation: [1993 c. 35](https://www.legislation.gov.uk/ukpga/1993/35).
 
-[^key-4a67d376e8d3305409bc99baeb3e5cbb]: Textual amendment: Sch. 37 para. 121 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-4a67d376e8d3305409bc99baeb3e5cbb]: Textual amendment: Sch. 37 para. 121 repealed (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 10](https://www.legislation.gov.uk/ukpga/2011/25/schedule/10) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^c15259861]: Textual amendment: Sch. 37 para. 122 repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
-[^key-28eae958a7d5510b2d7b7d4e63ae1627]: Textual amendment: Sch. 37 paras. 123, 124 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 41](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/41)
+[^c-28eae958a7d5510b2d7b7d4e63ae1627]: Textual amendment: Sch. 37 paras. 123, 124 and cross-heading omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 41](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/41)
 
 [^c15259871]: Textual amendment: Sch. 37 para. 125(c)(d) repealed (1.9.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 140(1)(3)](https://www.legislation.gov.uk/ukpga/1998/31/section/140/1/3), [Sch. 30 para. 189(e)](https://www.legislation.gov.uk/ukpga/1998/31/schedule/30/paragraph/189/e), [Sch.31](https://www.legislation.gov.uk/ukpga/1998/31/schedule/31) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/2323](https://www.legislation.gov.uk/uksi/1999/2323), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/2323/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/2323/schedule/1)
 
 [^c15259891]: Textual amendment: Sch. 37 para. 129 repealed (1.9.2002) by [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10), [ss. 38(14)](https://www.legislation.gov.uk/ukpga/2001/10/section/38/14), [42(6)](https://www.legislation.gov.uk/ukpga/2001/10/section/42/6), [Sch. 9](https://www.legislation.gov.uk/ukpga/2001/10/schedule/9) (with [s. 43(13)](https://www.legislation.gov.uk/ukpga/2001/10/section/43/13)); [S.I. 2002/2217](https://www.legislation.gov.uk/uksi/2002/2217), [art. 3](https://www.legislation.gov.uk/uksi/2002/2217/article/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2217/schedule/1/part/1)
 
-[^key-d1fd510b9f3e4d38fe117ad1e247c5bd]: Textual amendment: Sch. 37 para. 131 repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1))
+[^c-d1fd510b9f3e4d38fe117ad1e247c5bd]: Textual amendment: Sch. 37 para. 131 repealed (1.4.2003 for E., 2.1.2008 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4); [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1))

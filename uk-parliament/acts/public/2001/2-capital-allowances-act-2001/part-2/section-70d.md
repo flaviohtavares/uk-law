@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70D. Long funding finance lease: additional expenditure: allowances for lessee[^key-1dfc5aa0249178ecbf946313acb2db3c]
+## 70D. Long funding finance lease: additional expenditure: allowances for lessee[^c-1dfc5aa0249178ecbf946313acb2db3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) the lessor incurs expenditure in relation to the plant or machinery,
 - (d) as a result of the lessor incurring the expenditure, there is in the case of the lessee an increase (the “relevant increase”) in the present value of the minimum lease payments.
 
-(1A)[^key-edda6ca1dca423bff773e4b4a914bd1e] Any increase attributable to a relievable amount is to be ignored for the purposes of subsection (1)(d).
+(1A)[^c-edda6ca1dca423bff773e4b4a914bd1e] Any increase attributable to a relievable amount is to be ignored for the purposes of subsection (1)(d).
 
 (1B) Subsections (4B) and (4C) of section 70C apply (with any necessary modifications) for the purposes of this section as for the purposes of that section.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
+[^c-1dfc5aa0249178ecbf946313acb2db3c]: Textual amendment: Ss. 70A-70E and cross-heading inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/6)
 
-[^key-edda6ca1dca423bff773e4b4a914bd1e]: Textual amendment: [S. 70D(1A)](https://www.legislation.gov.uk/ukpga/2001/2/section/70D/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2001/2/section/70D/1B) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 33(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/33/3)
+[^c-edda6ca1dca423bff773e4b4a914bd1e]: Textual amendment: [S. 70D(1A)](https://www.legislation.gov.uk/ukpga/2001/2/section/70D/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2001/2/section/70D/1B) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 33(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/33/3)

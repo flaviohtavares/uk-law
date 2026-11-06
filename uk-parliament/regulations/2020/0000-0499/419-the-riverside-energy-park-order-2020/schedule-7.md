@@ -22,7 +22,7 @@ summary: ''
 
 Article 24
 
-### 1. Interpretation[^key-da7bc0ef67cadd94f0b34cd689a4da03]
+### 1. Interpretation[^c-da7bc0ef67cadd94f0b34cd689a4da03]
 
 In this Schedule—
 
@@ -49,4 +49,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-da7bc0ef67cadd94f0b34cd689a4da03]: Commencement: Sch. 7 para. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-da7bc0ef67cadd94f0b34cd689a4da03]: Commencement: Sch. 7 para. 1 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

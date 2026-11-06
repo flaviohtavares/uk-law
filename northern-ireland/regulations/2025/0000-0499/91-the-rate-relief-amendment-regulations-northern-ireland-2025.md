@@ -42,15 +42,15 @@ Coming into operation
 
 The Department of Finance[^f00001] makes the following Regulations in exercise of the powers conferred by Article 30A of the Rates (Northern Ireland) Order 1977[^f00002].
 
-## 1. Citation and commencement[^key-4dbb73c658880ee77fa4387c68501a42]
+## 1. Citation and commencement[^c-4dbb73c658880ee77fa4387c68501a42]
 
 These regulations may be cited as the Rate Relief (Amendment) Regulations (Northern Ireland) 2025 and shall come into operation on 16th June 2025.
 
-## 2. Amendment of the Rate Relief (Amendment) Regulations (Northern Ireland) 2023[^key-5358e8fb52357a18afcba29c5f53ae19]
+## 2. Amendment of the Rate Relief (Amendment) Regulations (Northern Ireland) 2023[^c-5358e8fb52357a18afcba29c5f53ae19]
 
 In regulation 2(5)(c)(iii)(cc) of the Rate Relief (Amendment) Regulations (Northern Ireland) 2023[^f00003] omit, “omit “, Personal Independence Payment, Jobseeker’s Allowance and Employment and Support Allowance” and “(Northern Ireland) 2016” and”.
 
-## 3. Amendment of the Rate Relief Regulations (Northern Ireland) 2017[^key-c7fdb80bb94c13b14f931803cf145c34]
+## 3. Amendment of the Rate Relief Regulations (Northern Ireland) 2017[^c-c7fdb80bb94c13b14f931803cf145c34]
 
 (1) The Rate Relief Regulations (Northern Ireland) 2017[^f00004] are amended in accordance with paragraphs (2) to (4).
 
@@ -115,12 +115,12 @@ Legislation in respect of universal credit has been amended to allow for the man
 
 [^f00002]: Footnote: [S.I. 1977/2157 (N.I.28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 30A was inserted by Article 14 of The Rates (Amendment) (Northern Ireland) Order 2006 ([S.I.2006/2954 (N.I.18)](https://www.legislation.gov.uk/nisi/2006/2954) and amended by Article 134 of The Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I.1))](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-4dbb73c658880ee77fa4387c68501a42]: Commencement: Reg. 1 in operation at 16.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1)
+[^c-4dbb73c658880ee77fa4387c68501a42]: Commencement: Reg. 1 in operation at 16.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1)
 
-[^key-5358e8fb52357a18afcba29c5f53ae19]: Commencement: Reg. 2 in operation at 16.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1)
+[^c-5358e8fb52357a18afcba29c5f53ae19]: Commencement: Reg. 2 in operation at 16.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2023 No. 39](https://www.legislation.gov.uk/nisr/2023/39).
 
-[^key-c7fdb80bb94c13b14f931803cf145c34]: Commencement: Reg. 3 in operation at 16.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1)
+[^c-c7fdb80bb94c13b14f931803cf145c34]: Commencement: Reg. 3 in operation at 16.6.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2017 No. 184](https://www.legislation.gov.uk/nisr/2017/184) as amended by [S.R. 2018 No. 109](https://www.legislation.gov.uk/nisr/2018/109), [S.R. 2019 No. 1514](https://www.legislation.gov.uk/nisr/2019/1514), [S.R. 2020 No. 308](https://www.legislation.gov.uk/nisr/2020/308) and [S.R. 2023 No. 39](https://www.legislation.gov.uk/nisr/2023/39).

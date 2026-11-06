@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Offences as to moorings[^key-3974672a198a7900070787d5a937ebd4]
+## 53. Offences as to moorings[^c-3974672a198a7900070787d5a937ebd4]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-3974672a198a7900070787d5a937ebd4]: Commencement: Art. 53 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-3974672a198a7900070787d5a937ebd4]: Commencement: Art. 53 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.14. Content of application for an explanation order under the Terrorism Act 2000 or the National Security Act 2023[^key-fa39e9567af0a018cbb02d40ef973af3]
+## 47.14. Content of application for an explanation order under the Terrorism Act 2000 or the National Security Act 2023[^c-fa39e9567af0a018cbb02d40ef973af3]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ As well as complying with rules 47.6 and 47.11, an applicant who wants the court
 
 ## Annotations
 
-[^key-fa39e9567af0a018cbb02d40ef973af3]: Commencement: Rule 47.14 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fa39e9567af0a018cbb02d40ef973af3]: Commencement: Rule 47.14 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01162]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); paragraph 13 of Schedule 5 was amended by section 65 of, and paragraph 9 of Schedule 4 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and section 41(3)(d) of the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).

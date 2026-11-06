@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Authorities' review of arrangements[^key-30f8f2e4dd440aff2029e58df01dc9b1]
+## 82. Authorities' review of arrangements[^c-30f8f2e4dd440aff2029e58df01dc9b1]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ they must prepare and publish a scheme relating to the power to make that order 
 
 ## Annotations
 
-[^key-30f8f2e4dd440aff2029e58df01dc9b1]: Commencement: S. 82 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-30f8f2e4dd440aff2029e58df01dc9b1]: Commencement: S. 82 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

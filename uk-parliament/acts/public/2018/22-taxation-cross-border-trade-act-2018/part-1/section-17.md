@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Place of origin of chargeable goods[^c23439171][^key-424f512336e7c15d671a5035ede018ec][^key-2f9e4a02e3b615d0b815fd0feef9f9a4][^key-899dfede9fc2657222e16150a376abfe]
+## 17. Place of origin of chargeable goods[^c23439171][^c-424f512336e7c15d671a5035ede018ec][^c-2f9e4a02e3b615d0b815fd0feef9f9a4][^c-899dfede9fc2657222e16150a376abfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,8 +54,8 @@ summary: ''
 
 [^c23439171]: Commencement: S. 17 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-424f512336e7c15d671a5035ede018ec]: Commencement: S. 17 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-424f512336e7c15d671a5035ede018ec]: Commencement: S. 17 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-2f9e4a02e3b615d0b815fd0feef9f9a4]: Modification: S. 17 applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-2f9e4a02e3b615d0b815fd0feef9f9a4]: Modification: S. 17 applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2020/1605/regulation/13); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-899dfede9fc2657222e16150a376abfe]: Modification: S. 17 applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-899dfede9fc2657222e16150a376abfe]: Modification: S. 17 applied (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2020/1605/regulation/7); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

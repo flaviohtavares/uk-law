@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Tampering with nomination papers, ballot papers etc.[^key-e2cf91b3a6edec33b26257d9eb6a4d25]
+## 29. Tampering with nomination papers, ballot papers etc.[^c-e2cf91b3a6edec33b26257d9eb6a4d25]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2cf91b3a6edec33b26257d9eb6a4d25]: Commencement: Art. 29 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-e2cf91b3a6edec33b26257d9eb6a4d25]: Commencement: Art. 29 in force at 16.12.2015 in accordance with art. 1(1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 15 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-fa61c59dd08af26d1893886ebd19ed07]
+## SCHEDULE 15 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-fa61c59dd08af26d1893886ebd19ed07]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ Article 36
 
 ## Annotations
 
-[^key-fa61c59dd08af26d1893886ebd19ed07]: Commencement: Sch. 15 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)
+[^c-fa61c59dd08af26d1893886ebd19ed07]: Commencement: Sch. 15 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/802/article/1)

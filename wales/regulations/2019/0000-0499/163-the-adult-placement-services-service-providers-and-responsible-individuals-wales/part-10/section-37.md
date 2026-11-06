@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Overarching requirement[^key-8cfce6393c37147ee211175348c728ae]
+## 37. Overarching requirement[^c-8cfce6393c37147ee211175348c728ae]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The service provider must ensure that the premises, facilities and equipment are
 
 ## Annotations
 
-[^key-8cfce6393c37147ee211175348c728ae]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2019/163/regulation/37) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-8cfce6393c37147ee211175348c728ae]: Commencement: [Reg. 37](https://www.legislation.gov.uk/wsi/2019/163/regulation/37) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

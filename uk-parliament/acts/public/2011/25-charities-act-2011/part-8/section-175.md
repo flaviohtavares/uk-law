@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-The Secretary of State[^key-b52fa3d43f14fcdd8be9ab84d0f4d4be] may by regulations make provision for determining for the purposes of this Part the amount of the aggregate gross income for a financial year of a group consisting of a parent charity and its subsidiary undertaking or undertakings.
+The Secretary of State[^c-b52fa3d43f14fcdd8be9ab84d0f4d4be] may by regulations make provision for determining for the purposes of this Part the amount of the aggregate gross income for a financial year of a group consisting of a parent charity and its subsidiary undertaking or undertakings.
 
 ## Annotations
 
-[^key-b52fa3d43f14fcdd8be9ab84d0f4d4be]: Textual amendment: Words in [s. 175](https://www.legislation.gov.uk/ukpga/2011/25/section/175) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(bb)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/bb) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-b52fa3d43f14fcdd8be9ab84d0f4d4be]: Textual amendment: Words in [s. 175](https://www.legislation.gov.uk/ukpga/2011/25/section/175) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(bb)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/bb) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

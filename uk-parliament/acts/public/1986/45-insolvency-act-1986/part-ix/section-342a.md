@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where an individual who is made[^key-8724eea4ae152f39a89728cd2c01e3fe] bankrupt—
+(1) Where an individual who is made[^c-8724eea4ae152f39a89728cd2c01e3fe] bankrupt—
 
 - (a) has rights under an approved pension arrangement, or
 - (b) has excluded rights under an unapproved pension arrangement,
@@ -70,4 +70,4 @@ the court may make such order as it thinks fit for restoring the position to wha
 
 [^c15580581]: Textual amendment: Ss. 342A-342C inserted (6.4.1996 for the purpose only of authorising the making of regulations) by [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26), [s. 95(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/95/1) (with [s. 121(5)](https://www.legislation.gov.uk/ukpga/1995/26/section/121/5)); [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(5)(a)](https://www.legislation.gov.uk/uksi/1996/778/article/2/5/a), [Sch. Pt. V](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/V)
 
-[^key-8724eea4ae152f39a89728cd2c01e3fe]: Textual amendment: Word in s. 342A(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 35](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/35); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-8724eea4ae152f39a89728cd2c01e3fe]: Textual amendment: Word in s. 342A(1) substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 35](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/35); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))

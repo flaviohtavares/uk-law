@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Effect of statutory adoption pay on an employment and support allowance[^key-6179934ecaf0d7a62125769f4319a09d]
+## 74. Effect of statutory adoption pay on an employment and support allowance[^c-6179934ecaf0d7a62125769f4319a09d]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6179934ecaf0d7a62125769f4319a09d]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2016/219/regulation/74) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-6179934ecaf0d7a62125769f4319a09d]: Commencement: [Reg. 74](https://www.legislation.gov.uk/nisr/2016/219/regulation/74) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00070]: Footnote: Part 12ZB was inserted by Article 6 of the Employment (Northern Ireland) Order 2002 ([S.I. 2002/2836 (N.I. 2)](https://www.legislation.gov.uk/nisi/2002/2836)) and amended by paragraph 269(2) of Schedule 6 to the Income Tax (Earnings and Pensions) Act [2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), paragraph 103 of Schedule 24 to the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33) and Article 4 of, and paragraph 20 of Schedule 1 to, the Work and Families (Northern Ireland) Order 2006 ([S.I. 2006/1947 (N.I. 16)](https://www.legislation.gov.uk/nisi/2006/1947)) and paragraph 1(7) of Schedule 7 and Schedule 8 to [S.R. 2006 No. 261](https://www.legislation.gov.uk/nisr/2006/261)

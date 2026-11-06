@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Technical assistance relating to dual-use goods and dual-use technology[^key-678b40964ec61905ef560ac06134c644]
+## 34. Technical assistance relating to dual-use goods and dual-use technology[^c-678b40964ec61905ef560ac06134c644]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-678b40964ec61905ef560ac06134c644]: Commencement: Reg. 34 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)
+[^c-678b40964ec61905ef560ac06134c644]: Commencement: Reg. 34 in force at 29.4.2021 at 5.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/3)

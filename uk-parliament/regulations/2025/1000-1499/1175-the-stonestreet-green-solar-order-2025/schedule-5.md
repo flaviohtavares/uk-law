@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — ALTERATION OF STREETS[^key-00b963e31e853900230e9d322cf025e2]
+## SCHEDULE 5 — ALTERATION OF STREETS[^c-00b963e31e853900230e9d322cf025e2]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 11
 
 ## Annotations
 
-[^key-00b963e31e853900230e9d322cf025e2]: Commencement: Sch. 5 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-00b963e31e853900230e9d322cf025e2]: Commencement: Sch. 5 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

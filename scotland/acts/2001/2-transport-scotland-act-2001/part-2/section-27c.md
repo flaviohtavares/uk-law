@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27C. National Smart Ticketing Advisory Board[^key-f8fde2e0b16ae1af4c14d13182bd29dd]
+## 27C. National Smart Ticketing Advisory Board[^c-f8fde2e0b16ae1af4c14d13182bd29dd]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8fde2e0b16ae1af4c14d13182bd29dd]: Textual amendment: S. 27C inserted (10.1.2022) by virtue of [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 43(2)](https://www.legislation.gov.uk/asp/2019/17/section/43/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-f8fde2e0b16ae1af4c14d13182bd29dd]: Textual amendment: S. 27C inserted (10.1.2022) by virtue of [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 43(2)](https://www.legislation.gov.uk/asp/2019/17/section/43/2), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

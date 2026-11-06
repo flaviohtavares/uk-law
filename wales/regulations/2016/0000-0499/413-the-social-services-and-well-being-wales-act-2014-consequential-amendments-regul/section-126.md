@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**126.**[^key-894126a4750354cb2b1d2e310588ea83] In section 47 (assessment of needs for community care services)—
+**126.**[^c-894126a4750354cb2b1d2e310588ea83] In section 47 (assessment of needs for community care services)—
 
 - (a) in subsection (1)[^f00143] omit “(in the case of a local authority in England) or of community care services (in the case of a local authority in Wales)”;
 - (b) in subsection (2)[^f00144]—
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-894126a4750354cb2b1d2e310588ea83]: Commencement: Reg. 126 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-894126a4750354cb2b1d2e310588ea83]: Commencement: Reg. 126 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00143]: Footnote: Section 47(1) was amended by [S.I. 2015/914](https://www.legislation.gov.uk/uksi/2015/914), Schedule, paragraphs 49, 51(1), (2).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 107. References in Part 7 to “the 1889 Act” and to “the 1999 Act”[^key-02ad40b24ce825e00f1dc21fbfe81386]
+## 107. References in Part 7 to “the 1889 Act” and to “the 1999 Act”[^c-02ad40b24ce825e00f1dc21fbfe81386]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Part, references—
 
 ## Annotations
 
-[^key-02ad40b24ce825e00f1dc21fbfe81386]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2016/21/section/107) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-02ad40b24ce825e00f1dc21fbfe81386]: Commencement: [S. 107](https://www.legislation.gov.uk/asp/2016/21/section/107) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

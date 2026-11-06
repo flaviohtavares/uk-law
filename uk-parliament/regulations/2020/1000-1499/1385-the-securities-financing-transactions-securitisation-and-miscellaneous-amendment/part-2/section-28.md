@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Enforcement[^key-a6e415e258e67914b30b8b840985bc1b]
+## 28. Enforcement[^c-a6e415e258e67914b30b8b840985bc1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ The following provisions of the Transparency of Securities Financing Transaction
 
 ## Annotations
 
-[^key-a6e415e258e67914b30b8b840985bc1b]: Commencement: Reg. 28 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-a6e415e258e67914b30b8b840985bc1b]: Commencement: Reg. 28 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2019/542](https://www.legislation.gov.uk/uksi/2019/542).

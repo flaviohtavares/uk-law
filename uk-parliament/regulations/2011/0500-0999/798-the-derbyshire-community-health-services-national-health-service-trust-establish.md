@@ -43,38 +43,38 @@ The Secretary of State for Health makes the following Order in exercise of the p
 
 The Secretary of State for Health makes this Order following the completion of the consultation prescribed under section 25(3) of the National Health Service Act 2006[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-0d73fc00e9457fb6a0fe09dc32646a8f]
+## 1. Citation, commencement and interpretation[^c-0d73fc00e9457fb6a0fe09dc32646a8f]
 
 (1) This Order may be cited as the Derbyshire Community Health Services National Health Service Trust (Establishment) Order 2011 and shall come into force on 1st April 2011.
 
 (2) In this Order—
 
 - “the Act” means the National Health Service Act 2006;
-- “community health services” means any services—[^key-ff25e30fa866b398857afcd6e217373d]
-  - (a) whose provision must be arranged by an integrated care board[^key-8f1e0448c80c2638ebafcd26fb39e1c4] under section 3(1)(g) or (i)[^key-4f083679006e401e9ecf771e27f08fe3] of the Act;
-  - (b) which are of a kind mentioned in section 3(1)(g) or (i)[^key-57586c85ad85d18dc7261677d9f1008c] of the Act, but—
-    - (i) whose provision must be arranged by NHS England[^key-817883e1406d0d76ff37ea449f642f79] under regulations made under section 3B of the Act[^f00003]; or
+- “community health services” means any services—[^c-ff25e30fa866b398857afcd6e217373d]
+  - (a) whose provision must be arranged by an integrated care board[^c-8f1e0448c80c2638ebafcd26fb39e1c4] under section 3(1)(g) or (i)[^c-4f083679006e401e9ecf771e27f08fe3] of the Act;
+  - (b) which are of a kind mentioned in section 3(1)(g) or (i)[^c-57586c85ad85d18dc7261677d9f1008c] of the Act, but—
+    - (i) whose provision must be arranged by NHS England[^c-817883e1406d0d76ff37ea449f642f79] under regulations made under section 3B of the Act[^f00003]; or
     - (ii) which may be provided by the Secretary of State or a local authority under section 2B of the Act;
   - (c) which a local authority must provide under paragraph 1 of Schedule 1 to the Act;
   - (d) which a local authority may provide under paragraph 2 or 7A of Schedule 1 to the Act; or
   - (e) which the Secretary of State must provide under paragraph 8 of Schedule 1 to the Act;
 - “the trust” means the National Health Service trust established by article 2.
 
-## 2. Establishment and name of the trust[^key-d4b38f795ccdcb8c6272d1d490cbf6b3]
+## 2. Establishment and name of the trust[^c-d4b38f795ccdcb8c6272d1d490cbf6b3]
 
 There is established a National Health Service trust which shall be called the Derbyshire Community Health Services National Health Service Trust.
 
-## 3. Nature and functions of the trust[^key-3327638b68daebaafcc2f296057e402f]
+## 3. Nature and functions of the trust[^c-3327638b68daebaafcc2f296057e402f]
 
 The trust’s functions shall be to provide goods and services, namely hospital accommodation and services and community health services, for the purposes of the health service.
 
-## 4. Directors of the trust[^key-9372b18dbe22aeffc3a3e3616f650a05]
+## 4. Directors of the trust[^c-9372b18dbe22aeffc3a3e3616f650a05]
 
 (1) The trust shall have, in addition to the chairman, 5 executive directors and 5 non-executive directors.
 
 (2) If the Secretary of State suspends the chairman, or a non-executive director of the trust, the number of non-executive directors of the trust shall increase during the period of suspension by the number of persons so suspended.
 
-## 5. Operational date and accounting date of the trust[^key-5a1ac885f94adb891f11704a3d413e4f]
+## 5. Operational date and accounting date of the trust[^c-5a1ac885f94adb891f11704a3d413e4f]
 
 (1) The operational date of the trust shall be 1st April 2011.
 
@@ -104,24 +104,24 @@ The Order sets out the functions of the trust (article 3), the number of executi
 
 [^f00002]: Footnote: *See* [S.I. 2010/743](https://www.legislation.gov.uk/uksi/2010/743).
 
-[^key-0d73fc00e9457fb6a0fe09dc32646a8f]: Commencement: Art. 1 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)
+[^c-0d73fc00e9457fb6a0fe09dc32646a8f]: Commencement: Art. 1 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)
 
-[^key-ff25e30fa866b398857afcd6e217373d]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/798/article/1/2) substituted (1.4.2013) by [The National Health Service Trusts (Establishment) Amendment Order 2013 (S.I. 2013/593)](https://www.legislation.gov.uk/uksi/2013/593), [arts. 1](https://www.legislation.gov.uk/uksi/2013/593/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/593/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/593/schedule/1)
+[^c-ff25e30fa866b398857afcd6e217373d]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/798/article/1/2) substituted (1.4.2013) by [The National Health Service Trusts (Establishment) Amendment Order 2013 (S.I. 2013/593)](https://www.legislation.gov.uk/uksi/2013/593), [arts. 1](https://www.legislation.gov.uk/uksi/2013/593/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2013/593/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/593/schedule/1)
 
-[^key-8f1e0448c80c2638ebafcd26fb39e1c4]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2011/798) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-8f1e0448c80c2638ebafcd26fb39e1c4]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2011/798) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-4f083679006e401e9ecf771e27f08fe3]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/798/article/1/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [197(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/197/2/a)
+[^c-4f083679006e401e9ecf771e27f08fe3]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/798/article/1/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [197(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/197/2/a)
 
-[^key-57586c85ad85d18dc7261677d9f1008c]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/798/article/1/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [197(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/197/2/b)
+[^c-57586c85ad85d18dc7261677d9f1008c]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/798/article/1/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [197(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/197/2/b)
 
-[^key-817883e1406d0d76ff37ea449f642f79]: Textual amendment: Words in Order substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-817883e1406d0d76ff37ea449f642f79]: Textual amendment: Words in Order substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00003]: Footnote: Paragraph 7A was inserted by section 143 of the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14) and amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158) which also amended paragraphs 1 and 2 of that Schedule.
 
-[^key-d4b38f795ccdcb8c6272d1d490cbf6b3]: Commencement: Art. 2 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)
+[^c-d4b38f795ccdcb8c6272d1d490cbf6b3]: Commencement: Art. 2 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)
 
-[^key-3327638b68daebaafcc2f296057e402f]: Commencement: Art. 3 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)
+[^c-3327638b68daebaafcc2f296057e402f]: Commencement: Art. 3 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)
 
-[^key-9372b18dbe22aeffc3a3e3616f650a05]: Commencement: Art. 4 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)
+[^c-9372b18dbe22aeffc3a3e3616f650a05]: Commencement: Art. 4 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)
 
-[^key-5a1ac885f94adb891f11704a3d413e4f]: Commencement: Art. 5 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)
+[^c-5a1ac885f94adb891f11704a3d413e4f]: Commencement: Art. 5 in force at 1.4.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/798/article/1/1)

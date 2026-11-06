@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Polling districts and places at Senedd elections[^key-23d0dd4c0b41eca5e9bb9406a833c705]
+## 4. Polling districts and places at Senedd elections[^c-23d0dd4c0b41eca5e9bb9406a833c705]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-23d0dd4c0b41eca5e9bb9406a833c705]: Commencement: Art. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-23d0dd4c0b41eca5e9bb9406a833c705]: Commencement: Art. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00028]: Footnote: Sections 18A and 18B were substituted for section 18, as originally enacted, by section 16(1) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).

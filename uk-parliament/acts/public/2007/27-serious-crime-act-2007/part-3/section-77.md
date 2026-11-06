@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Further provision about detained cash investigations[^key-756059554fbe61d4dfea8737bbb222b4][^key-63e0d1d0bbfb667c89721cf1dd0a96c0][^key-8d852afa57fb1dd7e0bbc2bf41df8290]
+## 77. Further provision about detained cash investigations[^c-756059554fbe61d4dfea8737bbb222b4][^c-63e0d1d0bbfb667c89721cf1dd0a96c0][^c-8d852afa57fb1dd7e0bbc2bf41df8290]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Schedule 10 (which makes further provision about detained cash investigations) h
 
 ## Annotations
 
-[^key-756059554fbe61d4dfea8737bbb222b4]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2007/27/section/77) in force at 1.4.2008 for specified purposes by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/755/article/2/2) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-756059554fbe61d4dfea8737bbb222b4]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2007/27/section/77) in force at 1.4.2008 for specified purposes by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(2)](https://www.legislation.gov.uk/uksi/2008/755/article/2/2) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-63e0d1d0bbfb667c89721cf1dd0a96c0]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2007/27/section/77) in force at 6.4.2008 for specified purposes by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(c)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/c)
+[^c-63e0d1d0bbfb667c89721cf1dd0a96c0]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2007/27/section/77) in force at 6.4.2008 for specified purposes by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 17(1)(c)](https://www.legislation.gov.uk/uksi/2008/755/article/17/1/c)
 
-[^key-8d852afa57fb1dd7e0bbc2bf41df8290]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2007/27/section/77) in force at 18.6.2009 in so far as not already in force by [S.S.I. 2009/224](https://www.legislation.gov.uk/ssi/2009/224), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2009/224/article/2/1/c)
+[^c-8d852afa57fb1dd7e0bbc2bf41df8290]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2007/27/section/77) in force at 18.6.2009 in so far as not already in force by [S.S.I. 2009/224](https://www.legislation.gov.uk/ssi/2009/224), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2009/224/article/2/1/c)

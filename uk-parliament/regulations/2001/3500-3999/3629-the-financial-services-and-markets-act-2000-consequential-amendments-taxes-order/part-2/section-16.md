@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Tax treatment of levies and repayments[^key-2e5a286aa9c3f2d1d4bf0c75bbc278b4]
+## 16. Tax treatment of levies and repayments[^c-2e5a286aa9c3f2d1d4bf0c75bbc278b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,7 +68,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2e5a286aa9c3f2d1d4bf0c75bbc278b4]: Commencement: Art. 16 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-2e5a286aa9c3f2d1d4bf0c75bbc278b4]: Commencement: Art. 16 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00016]: Footnote: Section 76(7) and (7A) was substituted by section 411(1) of the Financial Services and Markets Act 2000.
 

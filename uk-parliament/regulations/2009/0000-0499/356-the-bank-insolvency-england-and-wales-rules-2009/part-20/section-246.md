@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 246. Costs of proceedings[^key-d14d857e7b525b34917d3d02b6ce7a60]
+## 246. Costs of proceedings[^c-d14d857e7b525b34917d3d02b6ce7a60]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d14d857e7b525b34917d3d02b6ce7a60]: Commencement: Rule 246 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-d14d857e7b525b34917d3d02b6ce7a60]: Commencement: Rule 246 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00080]: Footnote: Paragraph (3) was substituted by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

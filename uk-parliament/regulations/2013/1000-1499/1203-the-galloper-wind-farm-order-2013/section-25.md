@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. For the protection of specified undertakers[^key-5a145ab6b0c5db3c0898610076090acb]
+## 25. For the protection of specified undertakers[^c-5a145ab6b0c5db3c0898610076090acb]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 6 has effect.
 
 ## Annotations
 
-[^key-5a145ab6b0c5db3c0898610076090acb]: Commencement: Art. 25 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-5a145ab6b0c5db3c0898610076090acb]: Commencement: Art. 25 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

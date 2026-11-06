@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Replacement regulatory arrangements for authorised providers[^key-2fba46d00f4c82e3a22f69941edcf0d9][^key-49e71c52a7581b175b25c39159ab6741]
+## 35. Replacement regulatory arrangements for authorised providers[^c-2fba46d00f4c82e3a22f69941edcf0d9][^c-49e71c52a7581b175b25c39159ab6741]
 
 *Extent: S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2fba46d00f4c82e3a22f69941edcf0d9]: Commencement: S. 35 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-2fba46d00f4c82e3a22f69941edcf0d9]: Commencement: S. 35 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-49e71c52a7581b175b25c39159ab6741]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2025/8/section/35) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-49e71c52a7581b175b25c39159ab6741]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2025/8/section/35) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

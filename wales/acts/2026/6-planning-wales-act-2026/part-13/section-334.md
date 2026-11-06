@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 334. Effect on powers of compulsory acquisition where intention to acquire part[^key-17657ba65841a2859c9c840409ab3eee]
+## 334. Effect on powers of compulsory acquisition where intention to acquire part[^c-17657ba65841a2859c9c840409ab3eee]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17657ba65841a2859c9c840409ab3eee]: Commencement: S. 334 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-17657ba65841a2859c9c840409ab3eee]: Commencement: S. 334 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

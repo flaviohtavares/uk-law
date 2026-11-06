@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Applications for support[^key-531a4455afd2ef70b8031effcb2b923e]
+## 154. Applications for support[^c-531a4455afd2ef70b8031effcb2b923e]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-531a4455afd2ef70b8031effcb2b923e]: Commencement: Reg. 154 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-531a4455afd2ef70b8031effcb2b923e]: Commencement: Reg. 154 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

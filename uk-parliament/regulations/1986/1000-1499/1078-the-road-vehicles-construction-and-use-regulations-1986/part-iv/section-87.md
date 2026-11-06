@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 87. Unbraked trailers[^key-128094314ada693ec5fdc39349929747]
+## 87. Unbraked trailers[^c-128094314ada693ec5fdc39349929747]
 
 *Extent: E+W+S*
 
@@ -28,10 +28,10 @@ summary: ''
 (2) This regulation does not apply to—
 
 - (a) an agricultural trailer; or
-- (b) a trailer mentioned in paragraph (b), (bb), (bc), (c), (d), (e), (f) or (g) of regulation 16(3)[^key-6c55ff952e5ba6663bb70db57f5c079e].
+- (b) a trailer mentioned in paragraph (b), (bb), (bc), (c), (d), (e), (f) or (g) of regulation 16(3)[^c-6c55ff952e5ba6663bb70db57f5c079e].
 
 ## Annotations
 
-[^key-128094314ada693ec5fdc39349929747]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/1986/1078/regulation/87) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-128094314ada693ec5fdc39349929747]: Commencement: [Reg. 87](https://www.legislation.gov.uk/uksi/1986/1078/regulation/87) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-6c55ff952e5ba6663bb70db57f5c079e]: Textual amendment: Words in [reg. 87(2)(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/87/2/b) substituted (1.1.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1996 (S.I. 1996/3033)](https://www.legislation.gov.uk/uksi/1996/3033), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3033/regulation/1), [8](https://www.legislation.gov.uk/uksi/1996/3033/regulation/8)
+[^c-6c55ff952e5ba6663bb70db57f5c079e]: Textual amendment: Words in [reg. 87(2)(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/87/2/b) substituted (1.1.1997) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1996 (S.I. 1996/3033)](https://www.legislation.gov.uk/uksi/1996/3033), [regs. 1](https://www.legislation.gov.uk/uksi/1996/3033/regulation/1), [8](https://www.legislation.gov.uk/uksi/1996/3033/regulation/8)

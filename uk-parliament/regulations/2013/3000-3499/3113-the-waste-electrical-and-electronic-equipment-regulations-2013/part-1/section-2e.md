@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2E. Meaning of non-UK supplier[^key-7f308cfa7d87008c303b40aeaaa0df93]
+## 2E. Meaning of non-UK supplier[^c-7f308cfa7d87008c303b40aeaaa0df93]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In these Regulations, a “**non-UK supplier**” means a person who—
 
 ## Annotations
 
-[^key-7f308cfa7d87008c303b40aeaaa0df93]: Textual amendment: [Regs. 2D-2F](https://www.legislation.gov.uk/uksi/2013/3113/regulation/2D) inserted (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/910/regulation/5) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/910/regulation/27))
+[^c-7f308cfa7d87008c303b40aeaaa0df93]: Textual amendment: [Regs. 2D-2F](https://www.legislation.gov.uk/uksi/2013/3113/regulation/2D) inserted (12.8.2025) by [The Waste Electrical and Electronic Equipment (Amendment, etc.) Regulations 2025 (S.I. 2025/910)](https://www.legislation.gov.uk/uksi/2025/910), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/910/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/910/regulation/5) (with [reg. 27](https://www.legislation.gov.uk/uksi/2025/910/regulation/27))

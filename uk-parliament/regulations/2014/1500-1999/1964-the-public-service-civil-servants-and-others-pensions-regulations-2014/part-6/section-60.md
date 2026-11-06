@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Entitlement to full retirement pension[^key-f21fba5da2250e1bd22cb009bc3871fe]
+## 60. Entitlement to full retirement pension[^c-f21fba5da2250e1bd22cb009bc3871fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f21fba5da2250e1bd22cb009bc3871fe]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2014/1964/regulation/60) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-f21fba5da2250e1bd22cb009bc3871fe]: Commencement: [Reg. 60](https://www.legislation.gov.uk/uksi/2014/1964/regulation/60) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

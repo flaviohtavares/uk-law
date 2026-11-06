@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Education (National Curriculum) (Foundation Phase) (Wales) Order 2014 (revoked)[^key-454590fdad500853f026583deb12e1a3]
+The Education (National Curriculum) (Foundation Phase) (Wales) Order 2014 (revoked)[^c-454590fdad500853f026583deb12e1a3]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 1 September 2014
 
-[^key-454590fdad500853f026583deb12e1a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-454590fdad500853f026583deb12e1a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and application[^key-454590fdad500853f026583deb12e1a3]
+## 1. Title, commencement, interpretation and application[^c-454590fdad500853f026583deb12e1a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-454590fdad500853f026583deb12e1a3]
+## 2. Revocation[^c-454590fdad500853f026583deb12e1a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The foundation phase[^key-454590fdad500853f026583deb12e1a3]
+## 3. The foundation phase[^c-454590fdad500853f026583deb12e1a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Areas of learning, desirable outcomes and educational programmes[^key-454590fdad500853f026583deb12e1a3]
+## 4. Areas of learning, desirable outcomes and educational programmes[^c-454590fdad500853f026583deb12e1a3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-454590fdad500853f026583deb12e1a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-454590fdad500853f026583deb12e1a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-454590fdad500853f026583deb12e1a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-454590fdad500853f026583deb12e1a3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-454590fdad500853f026583deb12e1a3]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/1996) revoked (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2022/679/regulation/13)
+[^c-454590fdad500853f026583deb12e1a3]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/1996) revoked (1.9.2022) by [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [13](https://www.legislation.gov.uk/wsi/2022/679/regulation/13)

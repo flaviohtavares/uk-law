@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Cancellation of options to made periodical contributions[^key-34bc0b708647b65f441ef7c499862695]
+## 93. Cancellation of options to made periodical contributions[^c-34bc0b708647b65f441ef7c499862695]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34bc0b708647b65f441ef7c499862695]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2014/2336/regulation/93) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-34bc0b708647b65f441ef7c499862695]: Commencement: [Reg. 93](https://www.legislation.gov.uk/uksi/2014/2336/regulation/93) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

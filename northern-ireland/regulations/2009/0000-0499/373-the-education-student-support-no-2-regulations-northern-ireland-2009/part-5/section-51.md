@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Qualifying conditions for the grant for travel – courses in medicine and dentistry[^key-77c02be1dd9891b3e8b1fed6a241d4ca]
+## 51. Qualifying conditions for the grant for travel – courses in medicine and dentistry[^c-77c02be1dd9891b3e8b1fed6a241d4ca]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A grant is available to an eligible student attending a course in medicine or de
 
 ## Annotations
 
-[^key-77c02be1dd9891b3e8b1fed6a241d4ca]: Commencement: Reg. 51 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-77c02be1dd9891b3e8b1fed6a241d4ca]: Commencement: Reg. 51 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

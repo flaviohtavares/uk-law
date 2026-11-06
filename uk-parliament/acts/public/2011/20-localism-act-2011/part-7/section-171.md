@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Limits on indebtedness[^key-87c7f631726f4149d692ee8646716c13][^key-0a91d9808f27ec7020140f7733eb94a7]
+## 171. Limits on indebtedness[^c-87c7f631726f4149d692ee8646716c13][^c-0a91d9808f27ec7020140f7733eb94a7]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87c7f631726f4149d692ee8646716c13]: Modification: S. 171 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/1128/regulation/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-87c7f631726f4149d692ee8646716c13]: Modification: S. 171 modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2018/1128/regulation/28) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-0a91d9808f27ec7020140f7733eb94a7]: Modification: S. 171 modified by S.I. 2008/2867, reg. 26 (as amended (E.W.) (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/1296/regulation/15))
+[^c-0a91d9808f27ec7020140f7733eb94a7]: Modification: S. 171 modified by S.I. 2008/2867, reg. 26 (as amended (E.W.) (2.1.2019) by [The Local Government (Structural and Boundary Changes) (Amendment) Regulations 2018 (S.I. 2018/1296)](https://www.legislation.gov.uk/uksi/2018/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1296/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/1296/regulation/15))

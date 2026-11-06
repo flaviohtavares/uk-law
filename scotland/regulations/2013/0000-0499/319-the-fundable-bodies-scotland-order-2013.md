@@ -48,11 +48,11 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 7(1) of that Act, the Scottish Further and Higher Education Funding Council has approved the modifications made in this Order.
 
-## 1. Citation and commencement[^key-e0201fa1ed604232efe947e518fed53b]
+## 1. Citation and commencement[^c-e0201fa1ed604232efe947e518fed53b]
 
 This Order may be cited as the Fundable Bodies (Scotland) Order 2013 and comes into force on 10th December 2013.
 
-## 2. Modification of the Further and Higher Education (Scotland) Act 2005[^key-85dc7372aa53dc17b7cff02b922806a8]
+## 2. Modification of the Further and Higher Education (Scotland) Act 2005[^c-85dc7372aa53dc17b7cff02b922806a8]
 
 In schedule 2 (fundable bodies) to the Further and Higher Education (Scotland) Act 2005[^f00002]—
 
@@ -133,8 +133,8 @@ Article 2(a), (c), (f), (i) and (l) also remove various entries from that schedu
 
 [^f00001]: Footnote: [2005 asp 6](https://www.legislation.gov.uk/asp/2005/6).
 
-[^key-e0201fa1ed604232efe947e518fed53b]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/319/article/1) in force at 10.12.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/319/article/1)
+[^c-e0201fa1ed604232efe947e518fed53b]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2013/319/article/1) in force at 10.12.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/319/article/1)
 
-[^key-85dc7372aa53dc17b7cff02b922806a8]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/319/article/2) in force at 10.12.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/319/article/1)
+[^c-85dc7372aa53dc17b7cff02b922806a8]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2013/319/article/2) in force at 10.12.2013, see [art. 1](https://www.legislation.gov.uk/ssi/2013/319/article/1)
 
 [^f00002]: Footnote: Schedule 2 has been amended by [S.S.I. 2005/660](https://www.legislation.gov.uk/ssi/2005/660), [S.S.I. 2006/480](https://www.legislation.gov.uk/ssi/2006/480), [S.S.I. 2007/255](https://www.legislation.gov.uk/ssi/2007/255), [S.S.I. 2007/524](https://www.legislation.gov.uk/ssi/2007/524), [S.S.I. 2008/241](https://www.legislation.gov.uk/ssi/2008/241), [S.S.I. 2008/412](https://www.legislation.gov.uk/ssi/2008/412), [S.S.I. 2011/227](https://www.legislation.gov.uk/ssi/2011/227), [S.S.I. 2011/229](https://www.legislation.gov.uk/ssi/2011/229) and [S.S.I. 2012/216](https://www.legislation.gov.uk/ssi/2012/216).

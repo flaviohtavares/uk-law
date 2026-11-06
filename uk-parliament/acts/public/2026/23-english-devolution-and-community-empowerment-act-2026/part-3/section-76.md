@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Power to suspend licence temporarily[^key-64da38131cb5d1ec15ea8214bddd70b1]
+## 76. Power to suspend licence temporarily[^c-64da38131cb5d1ec15ea8214bddd70b1]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64da38131cb5d1ec15ea8214bddd70b1]: Commencement: S. 76 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-64da38131cb5d1ec15ea8214bddd70b1]: Commencement: S. 76 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-bbe8d4a168743f3763316aa944e69422]
+## 2. Interpretation[^c-bbe8d4a168743f3763316aa944e69422]
 
 *Extent: E+W*
 
@@ -55,13 +55,13 @@ summary: ''
 - “**engineering section drawings**” means the document of that description listed in Schedule 12 (documents to be certified) certified as the engineering section drawings for the purposes of this Order;
 - “**Environment Agency**” means the body of that name created by section 1 of the Environment Act 1995[^f00024] or any successor in function to it;
 - “**environmental masterplan**” means the document of that description listed in Schedule 12 (documents to be certified) certified by the Secretary of State as the environmental masterplan for the purposes of this Order;
-- “**environmental statement**” means the document of that description [^key-3da1849da38912430acb59674567b3d4]... listed in Schedule 12 (documents to be certified), certified as the environmental statement for the purposes of this Order;
+- “**environmental statement**” means the document of that description [^c-3da1849da38912430acb59674567b3d4]... listed in Schedule 12 (documents to be certified), certified as the environmental statement for the purposes of this Order;
 - “**footpath**” and “**footway**” have the same meaning as in section 329(1) (further provision as to interpretation) of the 1980 Act;
-- “**highway**” has the same meaning as in section 328(1) (meaning of “**highway**”) of the 1980 Act and[^key-3f10264562a13277cbdab7b0233002fa] includes part of a highway;
+- “**highway**” has the same meaning as in section 328(1) (meaning of “**highway**”) of the 1980 Act and[^c-3f10264562a13277cbdab7b0233002fa] includes part of a highway;
 - “**highway authority**” and “**local highway authority**” have the same meaning as in the 1980 Act;
 - “**land plans**” means the document of that description listed in Schedule 12 (documents to be certified) certified by the Secretary of State as the land plans for the purposes of this Order;
 - “**limits of deviation**” means the limits of deviation referred to in article 9 (limits of deviation);
-- “**maintain**” in relation to the authorised development includes to inspect, repair, adjust, alter, improve, landscape, preserve, remove, reconstruct, refurbish or replace, provided such works do not give rise to any materially new or materially different environmental[^key-7dfdae5d7922ce0e076315443c114092] effects in comparison with those reported in the environmental statement, and any derivative of “**maintain**” is to be construed accordingly;
+- “**maintain**” in relation to the authorised development includes to inspect, repair, adjust, alter, improve, landscape, preserve, remove, reconstruct, refurbish or replace, provided such works do not give rise to any materially new or materially different environmental[^c-7dfdae5d7922ce0e076315443c114092] effects in comparison with those reported in the environmental statement, and any derivative of “**maintain**” is to be construed accordingly;
 - “**motor cycle**” has the meaning given in regulation 3(2) of the 1986 Regulations;
 - “**National Grid**” means National Grid Electricity Transmission PLC (Company No. 2366977) whose registered office is at 1-3 Strand, London, WC2N 5EH;
 - “**Network Rail**” means Network Rail Infrastructure Limited (Company No. 02904587) whose registered office is at Waterloo General Office, London, United Kingdom, SE1 8SW;
@@ -80,7 +80,7 @@ summary: ''
 - “**street authority**”, in relation to a street, has the same meaning as in Part 3 (street works in England and Wales) of the 1991 Act;
 - “**streets, rights of way and access plans**” means the document of that description listed in Schedule 12 (documents to be certified) certified by the Secretary of State as the streets, rights of way and access plans for the purposes of this Order;
 - “**structures engineering drawings and sections**” means the document of that description listed in Schedule 12 (documents to be certified) certified by the Secretary of State as the structures engineering drawings and sections for the purposes of this Order;
-- “[^key-3e539cb6167159125e7c5c257e9f4862]**supplementary botanical survey report**” means the document of that description listed in Schedule 12 (documents to be certified) certified by the Secretary of State as the supplementary botanical survey report for the purposes of this Order;
+- “[^c-3e539cb6167159125e7c5c257e9f4862]**supplementary botanical survey report**” means the document of that description listed in Schedule 12 (documents to be certified) certified by the Secretary of State as the supplementary botanical survey report for the purposes of this Order;
 - “**supplementary hedgerow survey report**” means the document of that description listed in Schedule 12 (documents to be certified) certified by the Secretary of State as the supplementary hedgerow survey report for the purposes of this Order;
 - “**temporary works**” means those works shown on the temporary works plans and described under the heading “Temporary Works” in Schedule 1;
 - “**temporary works plans**” means the document of that description listed in Schedule 12 (documents to be certified) certified by the Secretary of State as the temporary works plans for the purposes of this Order and forming part of the works plans;
@@ -101,7 +101,7 @@ summary: ''
   - (b) is directed at traffic on the carriageway on which the vehicle is being driven; and
   - (c) is displayed as a variable message sign by light-emitting characters and symbols;
 - “**watercourse**” includes all rivers, streams, ditches, drains, canals, cuts, culverts, dykes, sluices, sewers and passages through which water flows except a public sewer or drain; and
-- “**works plans**” means the plans comprising the permanent works plans, the temporary works plans and the utilities works plans[^key-86a4a4a8379b6f267472d7e7137ed560].
+- “**works plans**” means the plans comprising the permanent works plans, the temporary works plans and the utilities works plans[^c-86a4a4a8379b6f267472d7e7137ed560].
 
 (2) References in this Order to rights over land include references to rights to do or to place and maintain, anything in, on or under land or in the airspace above its surface.
 
@@ -124,7 +124,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bbe8d4a168743f3763316aa944e69422]: Commencement: Art. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-bbe8d4a168743f3763316aa944e69422]: Commencement: Art. 2 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00011]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -154,17 +154,17 @@ summary: ''
 
 [^f00024]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-3da1849da38912430acb59674567b3d4]: Textual amendment: Words in art. 2(1) omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-3da1849da38912430acb59674567b3d4]: Textual amendment: Words in art. 2(1) omitted (25.4.2025) by virtue of [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-3f10264562a13277cbdab7b0233002fa]: Textual amendment: Word in art. 2(1) inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-3f10264562a13277cbdab7b0233002fa]: Textual amendment: Word in art. 2(1) inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-7dfdae5d7922ce0e076315443c114092]: Textual amendment: Word in art. 2(1) inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-7dfdae5d7922ce0e076315443c114092]: Textual amendment: Word in art. 2(1) inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
 [^f00025]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67). The definition of “owner” was amended by paragraph 9 of Schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to section 7 which are not relevant to this Order.
 
 [^f00026]: Footnote: Section 48 was amended by section 124 of the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26).
 
-[^key-3e539cb6167159125e7c5c257e9f4862]: Textual amendment: Words in art. 2(1) inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-3e539cb6167159125e7c5c257e9f4862]: Textual amendment: Words in art. 2(1) inserted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
 [^f00027]: Footnote: Section 121A was inserted by section 168(1) of, and paragraph 70 of Schedule 8 to the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), and amended by section 1(6) of, and paragraphs 70 and 95(2) and (3) of Schedule 1 to, the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), and [S.I. 2001/1400](https://www.legislation.gov.uk/uksi/2001/1400). There are other amendments to section 121A which are not relevant to this Order.
 
@@ -172,4 +172,4 @@ summary: ''
 
 [^f00029]: Footnote: Section 19 was amended by section 1 of, and Schedule 1 to, the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7). There are other amendments to section 19 that are not relevant to this Order.
 
-[^key-86a4a4a8379b6f267472d7e7137ed560]: Textual amendment: Words in art. 2(1) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-86a4a4a8379b6f267472d7e7137ed560]: Textual amendment: Words in art. 2(1) substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)

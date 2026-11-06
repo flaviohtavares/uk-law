@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Eligibility points used by a bidder[^key-98073e768746d982e4dac17bf6667456]
+## 42. Eligibility points used by a bidder[^c-98073e768746d982e4dac17bf6667456]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98073e768746d982e4dac17bf6667456]: Commencement: Reg. 42 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-98073e768746d982e4dac17bf6667456]: Commencement: Reg. 42 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

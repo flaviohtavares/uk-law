@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Treatment of deferred member’s account on return to pensionable service[^key-b94d2a4b4878b741ab57dc15e91435a0]
+## 37. Treatment of deferred member’s account on return to pensionable service[^c-b94d2a4b4878b741ab57dc15e91435a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b94d2a4b4878b741ab57dc15e91435a0]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/2336/regulation/37) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-b94d2a4b4878b741ab57dc15e91435a0]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2014/2336/regulation/37) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

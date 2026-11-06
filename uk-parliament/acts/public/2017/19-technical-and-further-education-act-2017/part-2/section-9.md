@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Making of ordinary administration orders[^key-43034cbe102ce50d35e762bb1c948816]
+## 9. Making of ordinary administration orders[^c-43034cbe102ce50d35e762bb1c948816]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43034cbe102ce50d35e762bb1c948816]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/19/section/9) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-43034cbe102ce50d35e762bb1c948816]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/19/section/9) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

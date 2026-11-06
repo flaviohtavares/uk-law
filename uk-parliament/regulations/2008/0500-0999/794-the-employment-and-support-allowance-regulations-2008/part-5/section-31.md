@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 31. Claimant who claims jobseeker's allowance to be treated as not having limited capability for work[^key-8a473e0dbab6c0e1894b63fbef03691e]
+## 31. Claimant who claims jobseeker's allowance to be treated as not having limited capability for work[^c-8a473e0dbab6c0e1894b63fbef03691e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a473e0dbab6c0e1894b63fbef03691e]: Textual amendment: Reg. 31 revoked (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [25(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/25/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))
+[^c-8a473e0dbab6c0e1894b63fbef03691e]: Textual amendment: Reg. 31 revoked (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [25(1)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/25/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2010/1907/regulation/3))

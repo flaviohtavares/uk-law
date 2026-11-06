@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Football banning orders: power to amend list of relevant offences[^key-d1c83243a605c54fac4df1aa628ed421]
+## 191. Football banning orders: power to amend list of relevant offences[^c-d1c83243a605c54fac4df1aa628ed421]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1c83243a605c54fac4df1aa628ed421]: Commencement: S. 191 in force at Royal Assent, see [s. 208(4)(z)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/z)
+[^c-d1c83243a605c54fac4df1aa628ed421]: Commencement: S. 191 in force at Royal Assent, see [s. 208(4)(z)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/z)

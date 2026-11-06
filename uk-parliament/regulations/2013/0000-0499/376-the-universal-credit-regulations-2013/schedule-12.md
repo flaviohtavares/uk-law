@@ -22,30 +22,30 @@ summary: ''
 
 Regulation 24A(4)
 
-### 1. ...Introduction[^key-62c259ff33f77e78c036805ea04340d0][^key-62c259ff33f77e78c036805ea04340d0]
+### 1. ...Introduction[^c-62c259ff33f77e78c036805ea04340d0][^c-62c259ff33f77e78c036805ea04340d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Multiple births[^key-62c259ff33f77e78c036805ea04340d0]
+### 2. Multiple births[^c-62c259ff33f77e78c036805ea04340d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Adoptions[^key-62c259ff33f77e78c036805ea04340d0]
+### 3. Adoptions[^c-62c259ff33f77e78c036805ea04340d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Non-parental caring arrangements[^key-62c259ff33f77e78c036805ea04340d0]
+### 4. Non-parental caring arrangements[^c-62c259ff33f77e78c036805ea04340d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Non-consensual conception[^key-62c259ff33f77e78c036805ea04340d0]
+### 5. Non-consensual conception[^c-62c259ff33f77e78c036805ea04340d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Continuation of existing exception in a subsequent award[^key-62c259ff33f77e78c036805ea04340d0]
+### 6. Continuation of existing exception in a subsequent award[^c-62c259ff33f77e78c036805ea04340d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-62c259ff33f77e78c036805ea04340d0]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/uksi/2013/376/schedule/12) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/3/c), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))
+[^c-62c259ff33f77e78c036805ea04340d0]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/uksi/2013/376/schedule/12) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(3)(c)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/3/c), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))

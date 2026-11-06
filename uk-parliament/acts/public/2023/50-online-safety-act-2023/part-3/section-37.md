@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Meaning of “likely to be accessed by children”[^key-0082dac34d08e7d54a73c007debe7af6][^key-a791fe6fb28c0589a9dfb4d00fc90c10]
+## 37. Meaning of “likely to be accessed by children”[^c-0082dac34d08e7d54a73c007debe7af6][^c-a791fe6fb28c0589a9dfb4d00fc90c10]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ This subsection is to be interpreted consistently with section 35.
 
 ## Annotations
 
-[^key-0082dac34d08e7d54a73c007debe7af6]: Commencement: S. 37 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-0082dac34d08e7d54a73c007debe7af6]: Commencement: S. 37 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-a791fe6fb28c0589a9dfb4d00fc90c10]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/50/section/37) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/k)
+[^c-a791fe6fb28c0589a9dfb4d00fc90c10]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/50/section/37) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/k)

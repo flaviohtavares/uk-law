@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Regulations by OFCOM about qualifying worldwide revenue etc[^key-b2698d043f03be2a0ab4c423abd75566][^key-f095000e6068130da42ab5ef30830ed7]
+## 85. Regulations by OFCOM about qualifying worldwide revenue etc[^c-b2698d043f03be2a0ab4c423abd75566][^c-f095000e6068130da42ab5ef30830ed7]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b2698d043f03be2a0ab4c423abd75566]: Commencement: S. 85 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-b2698d043f03be2a0ab4c423abd75566]: Commencement: S. 85 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-f095000e6068130da42ab5ef30830ed7]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/50/section/85) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)
+[^c-f095000e6068130da42ab5ef30830ed7]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2023/50/section/85) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z)

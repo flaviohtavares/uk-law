@@ -22,7 +22,7 @@ summary: ''
 
 Article 23
 
-### 1. Interpretation[^key-2f75f10b8af1e084314b416f69562562]
+### 1. Interpretation[^c-2f75f10b8af1e084314b416f69562562]
 
 In this Schedule—
 
@@ -242,4 +242,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-2f75f10b8af1e084314b416f69562562]: Commencement: Sch. 9 para. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-2f75f10b8af1e084314b416f69562562]: Commencement: Sch. 9 para. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)

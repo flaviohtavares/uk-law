@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1142D. General rule against payments of credit to nominees[^key-f14108cffc617ebe36865aee1ca7a1ea]
+## 1142D. General rule against payments of credit to nominees[^c-f14108cffc617ebe36865aee1ca7a1ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f14108cffc617ebe36865aee1ca7a1ea]: Textual amendment: [S. 1142D](https://www.legislation.gov.uk/ukpga/2009/4/section/1142D) inserted (with effect in accordance with Sch. 1 para. 17(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(17)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/17), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18))
+[^c-f14108cffc617ebe36865aee1ca7a1ea]: Textual amendment: [S. 1142D](https://www.legislation.gov.uk/ukpga/2009/4/section/1142D) inserted (with effect in accordance with Sch. 1 para. 17(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(17)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/17), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18))

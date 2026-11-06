@@ -22,9 +22,9 @@ summary: ''
 
 Regulation 8
 
-**1.**[^key-b0b6e0d94782b5174fa7bf3655f0543c] The Registered Designs Rules are amended as follows.
+**1.**[^c-b0b6e0d94782b5174fa7bf3655f0543c] The Registered Designs Rules are amended as follows.
 
-**2.**[^key-d3d6d429c8841013d6b60db9394849b5] After rule 2A (directions of the registrar), insert—
+**2.**[^c-d3d6d429c8841013d6b60db9394849b5] After rule 2A (directions of the registrar), insert—
 
 > **2B. Re-registered designs**
 >
@@ -32,18 +32,18 @@ Regulation 8
 
 .
 
-**3.**[^key-e999e70a958b672298ebf444dd43833a] In rule 13(2)—
+**3.**[^c-e999e70a958b672298ebf444dd43833a] In rule 13(2)—
 
 - (a) at the end of (2) insert—
 
-  > except where the registered design is a re-registered design or a re-registered international design where the duration of the right in the design ends within the period of six months beginning with IP completion day[^key-8264767f5eb0234c0ae24e66ce2e45f3] (as defined in section 20(1) of the European Union (Withdrawal) Act 2018) and ending with the end of the period of six months beginning with the day after that on which IP completion day falls (a “relevant re-registered design”)
+  > except where the registered design is a re-registered design or a re-registered international design where the duration of the right in the design ends within the period of six months beginning with IP completion day[^c-8264767f5eb0234c0ae24e66ce2e45f3] (as defined in section 20(1) of the European Union (Withdrawal) Act 2018) and ending with the end of the period of six months beginning with the day after that on which IP completion day falls (a “relevant re-registered design”)
 
   .
 - (b) after (2) insert—
 
   > (2A) The period prescribed for the purposes of section 8A(1) in respect of a relevant re-registered design or a re-registered international design shall be the period of 12 months beginning immediately after the date on which the registrar gave notice under section 8(3).
 
-**3A.**[^M_I_24059963-0816-43ee-80eb-a6a4be5cd949][^key-ec05a518596468a71d6efc4b806b9255] After rule 15 insert—
+**3A.**[^M_I_24059963-0816-43ee-80eb-a6a4be5cd949][^c-ec05a518596468a71d6efc4b806b9255] After rule 15 insert—
 
 > **15A. Invalidation of existing registered Community design: invalidation notice and procedure on application for derogation; Schedule 1A paragraph 9A**
 >
@@ -75,22 +75,22 @@ Regulation 8
 
  .
 
-**4.**[^key-d6e1a00a8f3dd527ddc4fdd4b7dad3ed] Omit rule 23.
+**4.**[^c-d6e1a00a8f3dd527ddc4fdd4b7dad3ed] Omit rule 23.
 
-**5.**[^key-538b7129b2be29affeb8139bbf9aa4f6] In rule 26 (certificate of registration), after paragraph (3) insert “ (4) This rule shall not apply to re-registered designs or re-registered international designs. ”
+**5.**[^c-538b7129b2be29affeb8139bbf9aa4f6] In rule 26 (certificate of registration), after paragraph (3) insert “ (4) This rule shall not apply to re-registered designs or re-registered international designs. ”
 
-**6.**[^key-d784674ac4d17e81739045555e8c266f] In rule 27 (registration of interests), in paragraph (1)—
+**6.**[^c-d784674ac4d17e81739045555e8c266f] In rule 27 (registration of interests), in paragraph (1)—
 
 - (a) at the end of sub-paragraph (d), for “.”, substitute “ ; ”;
 - (b) after sub-paragraph (d) insert—
 
-  > - (e) where the design to be registered is a re-registered design (within the meaning of “re-registered design” in paragraph 1(2) of Schedule 1A) an indication that the re-registered design was on IP completion day[^key-80b20f9bc229a9d8d21b8a1adc3b6c65] the subject of a registration at the European Union Intellectual Property Office, including the number of the registration of the registered Community design from which the re-registered design derives.
+  > - (e) where the design to be registered is a re-registered design (within the meaning of “re-registered design” in paragraph 1(2) of Schedule 1A) an indication that the re-registered design was on IP completion day[^c-80b20f9bc229a9d8d21b8a1adc3b6c65] the subject of a registration at the European Union Intellectual Property Office, including the number of the registration of the registered Community design from which the re-registered design derives.
 
   .
 
-**7.**[^key-4f6bd1cf9d7b52ab7b17d19dde0103c6] In rule 33 (copies of representations and specimens), after paragraph (2) insert “ (3) This rule shall not apply to re-registered designs or re-registered international designs. ”
+**7.**[^c-4f6bd1cf9d7b52ab7b17d19dde0103c6] In rule 33 (copies of representations and specimens), after paragraph (2) insert “ (3) This rule shall not apply to re-registered designs or re-registered international designs. ”
 
-**8.**[^key-f8baac0076a41fd11459f93f1cb35dd4][^key-f2f582d96433ed61806bd0956d53c40a] (1) Rule 42 (address for service) is amended as follows.
+**8.**[^c-f8baac0076a41fd11459f93f1cb35dd4][^c-f2f582d96433ed61806bd0956d53c40a] (1) Rule 42 (address for service) is amended as follows.
 
 (2) At the end of sub-paragraph (c) omit “, or” and substitute “;”.
 
@@ -102,7 +102,7 @@ Regulation 8
 
 (4) In paragraph (4), for “another EEA state” substitute “an EEA state”.
 
-**9.**[^M_I_f648a01c-a14e-44c7-c7e4-fcf6c1969599][^key-109ccf2e4800847b9d175cebdd3e1201] (1) Rule 43 (failure to furnish an address for service) is amended as follows.
+**9.**[^M_I_f648a01c-a14e-44c7-c7e4-fcf6c1969599][^c-109ccf2e4800847b9d175cebdd3e1201] (1) Rule 43 (failure to furnish an address for service) is amended as follows.
 
 (2) At the end of sub-paragraph 4(c) omit “, or” and substitute “;”.
 
@@ -114,32 +114,32 @@ Regulation 8
 
 ## Annotations
 
-[^key-b0b6e0d94782b5174fa7bf3655f0543c]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-b0b6e0d94782b5174fa7bf3655f0543c]: Commencement: Sch. 6 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-d3d6d429c8841013d6b60db9394849b5]: Commencement: Sch. 6 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-d3d6d429c8841013d6b60db9394849b5]: Commencement: Sch. 6 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-e999e70a958b672298ebf444dd43833a]: Commencement: Sch. 6 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-e999e70a958b672298ebf444dd43833a]: Commencement: Sch. 6 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-8264767f5eb0234c0ae24e66ce2e45f3]: Textual amendment: Words in [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3/a) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/a)
+[^c-8264767f5eb0234c0ae24e66ce2e45f3]: Textual amendment: Words in [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/3/a) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/a)
 
 [^M_I_24059963-0816-43ee-80eb-a6a4be5cd949]: Commencement: Sch. 6 para. 3A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-ec05a518596468a71d6efc4b806b9255]: Textual amendment: Sch. 6 para. 3A inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/b)
+[^c-ec05a518596468a71d6efc4b806b9255]: Textual amendment: Sch. 6 para. 3A inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/b)
 
-[^key-d6e1a00a8f3dd527ddc4fdd4b7dad3ed]: Commencement: Sch. 6 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-d6e1a00a8f3dd527ddc4fdd4b7dad3ed]: Commencement: Sch. 6 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-538b7129b2be29affeb8139bbf9aa4f6]: Commencement: Sch. 6 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-538b7129b2be29affeb8139bbf9aa4f6]: Commencement: Sch. 6 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-d784674ac4d17e81739045555e8c266f]: Commencement: Sch. 6 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-d784674ac4d17e81739045555e8c266f]: Commencement: Sch. 6 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-80b20f9bc229a9d8d21b8a1adc3b6c65]: Textual amendment: Words in [Sch. 6 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/6/b) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/c)
+[^c-80b20f9bc229a9d8d21b8a1adc3b6c65]: Textual amendment: Words in [Sch. 6 para. 6(b)](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/6/b) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(c)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/c)
 
-[^key-4f6bd1cf9d7b52ab7b17d19dde0103c6]: Commencement: Sch. 6 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-4f6bd1cf9d7b52ab7b17d19dde0103c6]: Commencement: Sch. 6 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-f8baac0076a41fd11459f93f1cb35dd4]: Commencement: Sch. 6 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-f8baac0076a41fd11459f93f1cb35dd4]: Commencement: Sch. 6 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-f2f582d96433ed61806bd0956d53c40a]: Textual amendment: [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/8) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/d)
+[^c-f2f582d96433ed61806bd0956d53c40a]: Textual amendment: [Sch. 6 para. 8](https://www.legislation.gov.uk/uksi/2019/638/schedule/6/paragraph/8) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(d)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/d)
 
 [^M_I_f648a01c-a14e-44c7-c7e4-fcf6c1969599]: Commencement: Sch. 6 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-109ccf2e4800847b9d175cebdd3e1201]: Textual amendment: Sch. 6 para. 9 inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(e)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/e)
+[^c-109ccf2e4800847b9d175cebdd3e1201]: Textual amendment: Sch. 6 para. 9 inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [24(e)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/24/e)

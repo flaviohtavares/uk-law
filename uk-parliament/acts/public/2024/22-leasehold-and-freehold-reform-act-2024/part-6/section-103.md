@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Approval and designation of redress schemes[^key-e5fa8e90a53f27fb5e4fb26d4adf0c8c]
+## 103. Approval and designation of redress schemes[^c-e5fa8e90a53f27fb5e4fb26d4adf0c8c]
 
 *Extent: E+W*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5fa8e90a53f27fb5e4fb26d4adf0c8c]: Commencement: S. 103 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e5fa8e90a53f27fb5e4fb26d4adf0c8c]: Commencement: S. 103 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

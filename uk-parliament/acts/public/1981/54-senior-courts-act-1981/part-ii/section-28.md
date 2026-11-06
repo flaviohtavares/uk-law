@@ -32,7 +32,7 @@ summary: ''
 - (a) any application, or any appeal (whether by way of case stated or otherwise), which it has power to hear and determine under or by virtue of this or any other Act; and
 - (b) all such other appeals as it had jurisdiction to hear and determine immediately before the commencement of this Act.
 
-(4)[^c12332311] In subsection (2)(a) the reference to a decision of the Crown Court relating to trial on indictment does not include a decision relating to a requirement to make a payment under regulations under section 23 or 24 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^key-66db766c74fea701d7e6269655d6598a] .
+(4)[^c12332311] In subsection (2)(a) the reference to a decision of the Crown Court relating to trial on indictment does not include a decision relating to a requirement to make a payment under regulations under section 23 or 24 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^c-66db766c74fea701d7e6269655d6598a] .
 
 ## Annotations
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c12332311]: Textual amendment: S. 28(4) inserted (2.4.2001) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 24](https://www.legislation.gov.uk/ukpga/1999/22/section/24), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/1999/22/schedule/4/paragraph/22) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 2001/916](https://www.legislation.gov.uk/uksi/2001/916), [art. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2001/916/article/3/a/ii) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/916/schedule/2/paragraph/2))
 
-[^key-66db766c74fea701d7e6269655d6598a]: Textual amendment: Words in s. 28(4) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/20); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-66db766c74fea701d7e6269655d6598a]: Textual amendment: Words in s. 28(4) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/20); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)

@@ -65,7 +65,7 @@ summary: ''
 - (b) the Registrar must not decide to refuse the application until after the expiration of that period, and
 - (c) before deciding whether or not to refuse the application, the Registrar must take into consideration any such representations made within that period.
 
-(9)[^key-be062d818066d477813b46cc6c899926] Sections 130(7) to (13) and 131A apply in relation to suspending a person's licence in connection with an application for a new licence in substitution for a licence current at the date of the application as if—
+(9)[^c-be062d818066d477813b46cc6c899926] Sections 130(7) to (13) and 131A apply in relation to suspending a person's licence in connection with an application for a new licence in substitution for a licence current at the date of the application as if—
 
 - (a) the references in sections 130(7) to (13) and 131A to—
   - (i) a notice under section 130(3) were references to a notice under subsection (7) above,
@@ -95,4 +95,4 @@ summary: ''
 
 [^M_F_057e7adf-9219-4fcd-d9a3-b074401e0a96]: Textual amendment: S. 129(5B) omitted by virtue of (8.6.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2), [Sch. 2 para. 22(7)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/2/paragraph/22/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 7(a)](https://www.legislation.gov.uk/uksi/2015/994/article/7/a) (with [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/3))
 
-[^key-be062d818066d477813b46cc6c899926]: Textual amendment: S. 129(9) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/6); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)
+[^c-be062d818066d477813b46cc6c899926]: Textual amendment: S. 129(9) inserted (6.7.2012) by [Driving Instruction (Suspension and Exemption Powers) Act 2009 (c. 17)](https://www.legislation.gov.uk/ukpga/2009/17), [s. 7(3)](https://www.legislation.gov.uk/ukpga/2009/17/section/7/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2009/17/schedule/1/paragraph/6); [S.I. 2012/1356](https://www.legislation.gov.uk/uksi/2012/1356), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1356/article/4/b)

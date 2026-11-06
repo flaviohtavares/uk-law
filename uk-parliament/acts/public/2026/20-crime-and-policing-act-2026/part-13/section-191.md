@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Extension of polygraph condition to certain offenders[^key-f24dafdcd7cb824172e4a60732b1f0e7]
+## 191. Extension of polygraph condition to certain offenders[^c-f24dafdcd7cb824172e4a60732b1f0e7]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f24dafdcd7cb824172e4a60732b1f0e7]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2026/20/section/191) in force at 29.6.2026, see [s. 255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)
+[^c-f24dafdcd7cb824172e4a60732b1f0e7]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2026/20/section/191) in force at 29.6.2026, see [s. 255(3)(g)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 218. Interest on penalties[^key-4ed34783ecf98f272f1c5184bd221dcc]
+## 218. Interest on penalties[^c-4ed34783ecf98f272f1c5184bd221dcc]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ed34783ecf98f272f1c5184bd221dcc]: Commencement: [S. 218](https://www.legislation.gov.uk/asp/2014/16/section/218) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-4ed34783ecf98f272f1c5184bd221dcc]: Commencement: [S. 218](https://www.legislation.gov.uk/asp/2014/16/section/218) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

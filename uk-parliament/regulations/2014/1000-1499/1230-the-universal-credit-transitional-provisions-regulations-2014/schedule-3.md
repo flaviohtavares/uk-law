@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Additional amounts for claimants previously entitled to an enhanced disability premium, a disability premium, a disabled child premium or a disabled child element in addition to a severe disability premium[^key-239b3d436383399cf4f09da7a32e4b63]
+## SCHEDULE 3 — Additional amounts for claimants previously entitled to an enhanced disability premium, a disability premium, a disabled child premium or a disabled child element in addition to a severe disability premium[^c-239b3d436383399cf4f09da7a32e4b63]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,12 +43,12 @@ Regulation 63
 **5.** The additional amount is—
 
 - (a) in the case of a single claimant—
-  - (i) £94.61[^key-15aa7b04fc03d0bb065b8e95ccf48901] for a claimant meeting the condition in paragraph 4(a);
-  - (ii) £193.73[^key-67fea98335aaeac805d2074d8f5576e7] for a claimant meeting the condition in paragraph 4(b); and
-  - (iii) £199.37[^key-8eadfe9a4e5dd8cfce0aad383384db20] per disabled child or qualifying young person for a claimant meeting the condition in paragraph 4(c);
+  - (i) £94.61[^c-15aa7b04fc03d0bb065b8e95ccf48901] for a claimant meeting the condition in paragraph 4(a);
+  - (ii) £193.73[^c-67fea98335aaeac805d2074d8f5576e7] for a claimant meeting the condition in paragraph 4(b); and
+  - (iii) £199.37[^c-8eadfe9a4e5dd8cfce0aad383384db20] per disabled child or qualifying young person for a claimant meeting the condition in paragraph 4(c);
 - (b) in the case of joint claimants—
-  - (i) £135.17[^key-8350d846f072de3a98206f86bff1a590] for claimants meeting the condition in paragraph 4(a);
-  - (ii) £277.08[^key-7903da37d781b7db9d6ececf3dc51b83] for claimants meeting the condition in paragraph 4(b); and
+  - (i) £135.17[^c-8350d846f072de3a98206f86bff1a590] for claimants meeting the condition in paragraph 4(a);
+  - (ii) £277.08[^c-7903da37d781b7db9d6ececf3dc51b83] for claimants meeting the condition in paragraph 4(b); and
   - (iii) £199.37 per disabled child or qualifying young person for claimants meeting the condition in paragraph 4(c).
 
 **6.** The Secretary of State may, having regard to the efficient administration of universal credit, decide the time and manner in which the payments of the additional amount are to be paid to claimants already in receipt of universal credit on the date this Schedule comes into force.
@@ -62,14 +62,14 @@ Regulation 63
 
 ## Annotations
 
-[^key-239b3d436383399cf4f09da7a32e4b63]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3) inserted (14.2.2024) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2023 (S.I. 2023/1238)](https://www.legislation.gov.uk/uksi/2023/1238), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1238/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/1238/regulation/2/3)
+[^c-239b3d436383399cf4f09da7a32e4b63]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3) inserted (14.2.2024) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations 2023 (S.I. 2023/1238)](https://www.legislation.gov.uk/uksi/2023/1238), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1238/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/1238/regulation/2/3)
 
-[^key-15aa7b04fc03d0bb065b8e95ccf48901]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(i)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/i)
+[^c-15aa7b04fc03d0bb065b8e95ccf48901]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(i)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/i)
 
-[^key-67fea98335aaeac805d2074d8f5576e7]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(ii)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/ii)
+[^c-67fea98335aaeac805d2074d8f5576e7]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(ii)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/ii)
 
-[^key-8eadfe9a4e5dd8cfce0aad383384db20]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(iii)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/iii)
+[^c-8eadfe9a4e5dd8cfce0aad383384db20]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(iii)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/iii)
 
-[^key-8350d846f072de3a98206f86bff1a590]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(iv)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/iv)
+[^c-8350d846f072de3a98206f86bff1a590]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(iv)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/iv)
 
-[^key-7903da37d781b7db9d6ececf3dc51b83]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(v)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/v)
+[^c-7903da37d781b7db9d6ececf3dc51b83]: Textual amendment: Sum in [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2014/1230/schedule/3/paragraph/5) substituted (coming into force in accordance with art. 1(3)(n) of the amending S.I.) by [The Social Security Benefits Up-rating Order 2026 (S.I. 2026/148)](https://www.legislation.gov.uk/uksi/2026/148), [arts. 1(3)(n)](https://www.legislation.gov.uk/uksi/2026/148/article/1/3/n), [33(b)(v)](https://www.legislation.gov.uk/uksi/2026/148/article/33/b/v)

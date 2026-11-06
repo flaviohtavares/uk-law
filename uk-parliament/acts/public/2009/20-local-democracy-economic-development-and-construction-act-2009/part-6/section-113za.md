@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113ZA. Requirements in connection with boundary changes or dissolution of combined authority[^key-6e2e4fc03a8fc2d5fc278360fdfff694]
+## 113ZA. Requirements in connection with boundary changes or dissolution of combined authority[^c-6e2e4fc03a8fc2d5fc278360fdfff694]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e2e4fc03a8fc2d5fc278360fdfff694]: Textual amendment: [Ss. 113ZA-113ZC](https://www.legislation.gov.uk/ukpga/2009/20/section/113ZA) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/20) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-6e2e4fc03a8fc2d5fc278360fdfff694]: Textual amendment: [Ss. 113ZA-113ZC](https://www.legislation.gov.uk/ukpga/2009/20/section/113ZA) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/20) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

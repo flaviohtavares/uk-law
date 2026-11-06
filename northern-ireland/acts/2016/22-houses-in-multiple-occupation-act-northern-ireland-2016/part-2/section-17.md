@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Safety and security requirements[^key-c3cc72d483349c00b14a5f69e30c2fbc]
+## 17. Safety and security requirements[^c-c3cc72d483349c00b14a5f69e30c2fbc]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3cc72d483349c00b14a5f69e30c2fbc]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2016/22/section/17) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-c3cc72d483349c00b14a5f69e30c2fbc]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2016/22/section/17) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

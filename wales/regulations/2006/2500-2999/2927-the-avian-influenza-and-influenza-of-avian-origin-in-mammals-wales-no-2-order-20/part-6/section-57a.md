@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57A. Duration of low pathogenic avian influenza restricted zones[^key-162bfa99979c0179edd7e15e0e25c9e0]
+## 57A. Duration of low pathogenic avian influenza restricted zones[^c-162bfa99979c0179edd7e15e0e25c9e0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-162bfa99979c0179edd7e15e0e25c9e0]: Textual amendment: [Art. 57A](https://www.legislation.gov.uk/wsi/2006/2927/article/57A) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [14](https://www.legislation.gov.uk/wsi/2022/280/article/14)
+[^c-162bfa99979c0179edd7e15e0e25c9e0]: Textual amendment: [Art. 57A](https://www.legislation.gov.uk/wsi/2006/2927/article/57A) inserted (10.3.2022 at 8.47 p.m.) by [The Avian Influenza (Wales) (Amendment and Revocation) Order 2022 (S.I. 2022/280)](https://www.legislation.gov.uk/wsi/2022/280), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/280/article/1/2), [14](https://www.legislation.gov.uk/wsi/2022/280/article/14)

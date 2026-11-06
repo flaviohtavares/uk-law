@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Workforce plan[^key-cde70144ace873cf4bbe9cac0b9169d0]
+## 10. Workforce plan[^c-cde70144ace873cf4bbe9cac0b9169d0]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cde70144ace873cf4bbe9cac0b9169d0]: Commencement: Reg. 10 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-cde70144ace873cf4bbe9cac0b9169d0]: Commencement: Reg. 10 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

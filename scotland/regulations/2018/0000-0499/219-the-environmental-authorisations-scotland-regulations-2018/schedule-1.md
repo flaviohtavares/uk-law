@@ -24,7 +24,7 @@ Regulations 16, 19, 21,25 and 26
 
 ### PART 1 — General provisions
 
-#### 1A. Pre-application community engagement[^key-359c2f196932d691fea1bd19ad1f3221]
+#### 1A. Pre-application community engagement[^c-359c2f196932d691fea1bd19ad1f3221]
 
 (1) SEPA may require a person who intends to apply for a permit or a variation to an existing permit to consult with members of the public likely to be affected by the proposed activity or variation.
 
@@ -40,7 +40,7 @@ An application under these Regulations must be in writing and in such form as SE
 
 - (a) any fee payable under a charging scheme;
 - (b) any information required by virtue of the technical schedule;
-- (ca)[^key-39c26e63eab4add26caf239b15df38f0] any information relating to pre-application community engagement required by SEPA under paragraph 1A and
+- (ca)[^c-39c26e63eab4add26caf239b15df38f0] any information relating to pre-application community engagement required by SEPA under paragraph 1A and
 - (c) any other information in such form as SEPA may reasonably require.
 
 (2) SEPA may decline to accept an application where SEPA considers any one or more of the requirements in sub-paragraph (1) are not met.
@@ -59,9 +59,9 @@ An application under these Regulations must be in writing and in such form as SE
 
 #### 4. Modifying an application
 
-(1)[^key-b79983aadbbc36c50d1eee0cdfd21586] An application may be modified by the applicant before it is determined if SEPA agrees in writing to the modification.
+(1)[^c-b79983aadbbc36c50d1eee0cdfd21586] An application may be modified by the applicant before it is determined if SEPA agrees in writing to the modification.
 
-(2)[^key-5dfc940a9d79d460a9d1bd077026f721] Where an application is modified by the applicant, any fee payable under a charging scheme for the modification of an application is payable by the applicant.
+(2)[^c-5dfc940a9d79d460a9d1bd077026f721] Where an application is modified by the applicant, any fee payable under a charging scheme for the modification of an application is payable by the applicant.
 
 #### 5. Notifications relating to certain applications
 
@@ -111,8 +111,8 @@ where any of the criteria in sub-paragraph (3) is met.
 (3) The criteria are—
 
 - (a) consultation is required by the technical schedule;
-- (b) the permit or variation, where granted, will authorise for the first time, a regulated activity which is likely[^key-cc097f707249942a62a008964d1043e1] to cause significant environmental harm;
-- (c) where SEPA determines paragraph 8 should apply having regard to the public participation statement[^key-06ee0bc2e807a52ac8fb3a1d530a0208].
+- (b) the permit or variation, where granted, will authorise for the first time, a regulated activity which is likely[^c-cc097f707249942a62a008964d1043e1] to cause significant environmental harm;
+- (c) where SEPA determines paragraph 8 should apply having regard to the public participation statement[^c-06ee0bc2e807a52ac8fb3a1d530a0208].
 
 #### 8. Public consultation requirements
 
@@ -122,11 +122,11 @@ where any of the criteria in sub-paragraph (3) is met.
 - (b) public consultees are invited to make representations;
 - (c) the address to which and period within which such representations may be made is specified to the public consultees; and
 - (d) copies of the application or proposed SEPA initiated variation are made available to the public for such period, being a period of at least 28 days, as SEPA may determine (“the consultation period”).
-- (e)[^key-0c833b439c8e08c7cf9e08ef2ecda8ab] the times and places where, or the means by which, public consultees may access copies of the application, proposed SEPA initiated variation and any other relevant information required to be publicised.
+- (e)[^c-0c833b439c8e08c7cf9e08ef2ecda8ab] the times and places where, or the means by which, public consultees may access copies of the application, proposed SEPA initiated variation and any other relevant information required to be publicised.
 
-(2) In fulfilling the duties in sub-paragraph (1)[^key-b0938d49370376fdb21507cad3b1edf2]..., SEPA may require the applicant or authorised person to take such steps as SEPA considers appropriate.
+(2) In fulfilling the duties in sub-paragraph (1)[^c-b0938d49370376fdb21507cad3b1edf2]..., SEPA may require the applicant or authorised person to take such steps as SEPA considers appropriate.
 
-(3) Where the applicant fails to take the steps required by SEPA, SEPA may by [^key-6cb43b13d3482096f6a87e02eba14395]... notice deem the application to be withdrawn.
+(3) Where the applicant fails to take the steps required by SEPA, SEPA may by [^c-6cb43b13d3482096f6a87e02eba14395]... notice deem the application to be withdrawn.
 
 (4) Where an application is deemed to be withdrawn under sub-paragraph (3), the applicant is not entitled to the refund of any fee which accompanied it.
 
@@ -165,7 +165,7 @@ the application is deemed to have been refused on the day on which the notice is
 
 (3) In this paragraph, “**the determination period**” means—
 
-- (a) for an application and any required fee[^key-5f6a71b844341dbe1796f5fdcd1f6cd7] for—
+- (a) for an application and any required fee[^c-5f6a71b844341dbe1796f5fdcd1f6cd7] for—
   - (i) registration;
   - (ii) variation of a registration;
   - (iii) transfer of a registration;
@@ -197,9 +197,9 @@ the application is deemed to have been refused on the day on which the notice is
 
 - (a) any period during which an application for commercial confidentiality under regulation 41 is being considered;
 - (b) any period during which an appeal under regulation 55(1)(o) against a decision not to exclude information on the grounds of commercial confidentiality is being considered;
-- (c)[^key-dc0cee4090b66b8b94ef4ed69d045853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-dc0cee4090b66b8b94ef4ed69d045853] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-7f3f3ed73e3e7cc4a03b54a4ace12c81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7f3f3ed73e3e7cc4a03b54a4ace12c81] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 13. Variation Notices
 
@@ -211,7 +211,7 @@ the application is deemed to have been refused on the day on which the notice is
 
 (2) Unless the variation notice is withdrawn it has effect on the date so specified in the notice.
 
-(3)[^key-8c58ea0865a05afef3d70b5a65414275] Where SEPA issues a SEPA initiated variation notice under regulation 25, any fee payable under a charging scheme for the variation is payable by the authorised person.
+(3)[^c-8c58ea0865a05afef3d70b5a65414275] Where SEPA issues a SEPA initiated variation notice under regulation 25, any fee payable under a charging scheme for the variation is payable by the authorised person.
 
 #### 14. Surrender applications
 
@@ -227,7 +227,7 @@ the application is deemed to have been refused on the day on which the notice is
 
 (2) Where SEPA grants an application for surrender (in whole or in part) SEPA must serve notice (a “surrender notice”) on the applicant in accordance with paragraph 15.
 
-(3) An authorisation ceases to have effect [^key-112f56b6151face61b4f9eed74013890]... to the extent specified in the notice.
+(3) An authorisation ceases to have effect [^c-112f56b6151face61b4f9eed74013890]... to the extent specified in the notice.
 
 (4) An authorisation may continue to have effect only to the extent necessary to require the taking of steps specified in a notice.
 
@@ -240,10 +240,10 @@ the application is deemed to have been refused on the day on which the notice is
   - (ii) prevent environmental harm arising as a result of the regulated activity having been carried on;
   - (iii) prevent environmental harm arising as a result of the cessation of the activity;
   - (iv) restore the environment affected by the activity to a satisfactory state; and
-  - (v)[^key-ad2ed272cb6725b65baf3959985a8a88] remove any equipment, plant, articles, waste (including radioactive waste) or substances associated with the activity which adversely affect the amenity of the authorised place and surrounding area or otherwise take steps to preserve the amenity of the authorised place or surrounding area,
+  - (v)[^c-ad2ed272cb6725b65baf3959985a8a88] remove any equipment, plant, articles, waste (including radioactive waste) or substances associated with the activity which adversely affect the amenity of the authorised place and surrounding area or otherwise take steps to preserve the amenity of the authorised place or surrounding area,
 - (b) either—
-  - (i) provide that the authorisation ceases to have effect in whole or in part[^key-4e4095604b1c552b2d80d2812d27547d] on the date on which SEPA confirms to the applicant in writing that the steps have been completed to its satisfaction; or
-  - (ii) specify the date on which the authorisation ceases to have effect in whole or in part[^key-4e2a90a7836afed361de7ba973523a9d] (being not less than 28 days from the date of service of the notice (unless a shorter period is agreed between SEPA and the authorised person)).
+  - (i) provide that the authorisation ceases to have effect in whole or in part[^c-4e4095604b1c552b2d80d2812d27547d] on the date on which SEPA confirms to the applicant in writing that the steps have been completed to its satisfaction; or
+  - (ii) specify the date on which the authorisation ceases to have effect in whole or in part[^c-4e2a90a7836afed361de7ba973523a9d] (being not less than 28 days from the date of service of the notice (unless a shorter period is agreed between SEPA and the authorised person)).
 
 (2) SEPA may impose an off-site condition in a surrender notice.
 
@@ -257,7 +257,7 @@ the application is deemed to have been refused on the day on which the notice is
 (5) An authorisation ceases to have effect on—
 
 - (a) the date specified in the surrender notice; or
-- (b) the date on which SEPA confirms to the authorised person[^key-f506fd9de3df3f92944a3d7a6ae00396] in writing that the steps specified in a surrender notice have been completed to its satisfaction.
+- (b) the date on which SEPA confirms to the authorised person[^c-f506fd9de3df3f92944a3d7a6ae00396] in writing that the steps specified in a surrender notice have been completed to its satisfaction.
 
 #### 16. Revocation of permits or registrations
 
@@ -268,18 +268,18 @@ the application is deemed to have been refused on the day on which the notice is
   - (ii) prevent environmental harm arising as a result of the activity having been carried on;
   - (iii) prevent environmental harm arising as a result of the cessation of the activity;
   - (iv) restore the environment affected by the activity to a satisfactory state; and
-  - (v)[^key-7f1befeeb8270bfa176131ed585f0176] remove any equipment, plant, articles, waste (including radioactive waste) or substances associated with the activity which adversely affect the amenity of the authorised place and surrounding area or otherwise take steps to preserve the amenity of the authorised place or surrounding area,
+  - (v)[^c-7f1befeeb8270bfa176131ed585f0176] remove any equipment, plant, articles, waste (including radioactive waste) or substances associated with the activity which adversely affect the amenity of the authorised place and surrounding area or otherwise take steps to preserve the amenity of the authorised place or surrounding area,
 - (b) specify the reasons for the revocation;
 - (c) in the case of a partial revocation specify—
   - (i) the extent to which the permit or registration is being revoked; and
   - (ii) any variations which are necessary to the permit or registration as a result of the partial revocation; and
 - (d) specify the date on which the authorisation ceases to have effect which—
-  - (i) may be the date on which SEPA confirms to the authorised person in writing that the steps have been completed to SEPA's satisfaction; and[^key-3391114d507398e7f82f2c3b240a3784]
+  - (i) may be the date on which SEPA confirms to the authorised person in writing that the steps have been completed to SEPA's satisfaction; and[^c-3391114d507398e7f82f2c3b240a3784]
   - (ii) must be at least 28 days after the date on which the notice is served.
 
 (2) An authorisation ceases to have effect on the date specified in the revocation notice.
 
-(3)[^key-cfc434c4c810cc4da4915d4c898d5f41] SEPA may impose an off-site condition in a revocation notice.
+(3)[^c-cfc434c4c810cc4da4915d4c898d5f41] SEPA may impose an off-site condition in a revocation notice.
 
 #### 17. Interpretation: satisfactory state
 
@@ -305,21 +305,21 @@ the application is deemed to have been refused on the day on which the notice is
   - (iii) surrender of a permit; and
 - (b) a SEPA initiated variation.
 
-[^key-d3773c7b6eb7d7a2a9e8153169b01792]...
+[^c-d3773c7b6eb7d7a2a9e8153169b01792]...
 
 **19.** (1) The Scottish Ministers may direct SEPA that an application or a SEPA initiated variation to which this Part applies is referred to the Scottish Ministers for determination.
 
-(1A)[^key-08535ce11dfe8d42acb2c6cf43d39bc9] The Scottish Ministers must consult SEPA before issuing a direction under sub-paragraph (1),
+(1A)[^c-08535ce11dfe8d42acb2c6cf43d39bc9] The Scottish Ministers must consult SEPA before issuing a direction under sub-paragraph (1),
 
 (2) SEPA must comply with a direction made under sub-paragraph (1).
 
 (3) The Scottish Ministers must determine a matter referred to them for determination under this paragraph in accordance with Part 3.
 
-**20.**[^key-d5af2576de7888cb2a2fcfb15d8bef2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-d5af2576de7888cb2a2fcfb15d8bef2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-d5af2576de7888cb2a2fcfb15d8bef2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-d5af2576de7888cb2a2fcfb15d8bef2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-d5af2576de7888cb2a2fcfb15d8bef2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-d5af2576de7888cb2a2fcfb15d8bef2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 3 — Determinations of applications by the Scottish Ministers
 
@@ -345,9 +345,9 @@ the application is deemed to have been refused on the day on which the notice is
 **24.** In this schedule—
 
 - “application” or “**applications**” includes reference to any matter which SEPA treats as having been made in terms of regulation 60 or 61.
-- [^key-63cbf7dded4d1238cb092551df298840]...
+- [^c-63cbf7dded4d1238cb092551df298840]...
 
-**25.**[^key-ba1567c59af08cfe20d5de305045cd53] (1) This paragraph applies to a function of the Scottish Ministers in connection with a matter referred to them for determination in compliance of a direction made under paragraph 19(1).
+**25.**[^c-ba1567c59af08cfe20d5de305045cd53] (1) This paragraph applies to a function of the Scottish Ministers in connection with a matter referred to them for determination in compliance of a direction made under paragraph 19(1).
 
 (2) Where this paragraph applies, the Scottish Ministers may—
 
@@ -356,54 +356,54 @@ the application is deemed to have been refused on the day on which the notice is
 
 ## Annotations
 
-[^key-359c2f196932d691fea1bd19ad1f3221]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/1A) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-359c2f196932d691fea1bd19ad1f3221]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/1A) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(a)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/a) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-39c26e63eab4add26caf239b15df38f0]: Textual amendment: Sch. 1 para. 2(1)(ca) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-39c26e63eab4add26caf239b15df38f0]: Textual amendment: Sch. 1 para. 2(1)(ca) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(b)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-b79983aadbbc36c50d1eee0cdfd21586]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/4) renumbered as sch. 1 para. 4(1) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(c)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/c/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b79983aadbbc36c50d1eee0cdfd21586]: Textual amendment: [Sch. 1 para. 4](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/4) renumbered as sch. 1 para. 4(1) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(c)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/c/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-5dfc940a9d79d460a9d1bd077026f721]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/4/2) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(c)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/c/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-5dfc940a9d79d460a9d1bd077026f721]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/4/2) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(c)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/c/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-cc097f707249942a62a008964d1043e1]: Textual amendment: Words in [sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/7/3/b) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(d)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/d/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-cc097f707249942a62a008964d1043e1]: Textual amendment: Words in [sch. 1 para. 7(3)(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/7/3/b) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(d)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/d/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-06ee0bc2e807a52ac8fb3a1d530a0208]: Textual amendment: Words in [sch. 1 para. 7(3)(c)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/7/3/c) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(d)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/d/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-06ee0bc2e807a52ac8fb3a1d530a0208]: Textual amendment: Words in [sch. 1 para. 7(3)(c)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/7/3/c) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(d)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/d/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-0c833b439c8e08c7cf9e08ef2ecda8ab]: Textual amendment: [Sch. 1 para. 8(1)(e)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/8/1/e) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(e)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/e/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-0c833b439c8e08c7cf9e08ef2ecda8ab]: Textual amendment: [Sch. 1 para. 8(1)(e)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/8/1/e) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(e)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/e/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-b0938d49370376fdb21507cad3b1edf2]: Textual amendment: Words in [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/8/2) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(e)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/e/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-b0938d49370376fdb21507cad3b1edf2]: Textual amendment: Words in [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/8/2) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(e)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/e/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-6cb43b13d3482096f6a87e02eba14395]: Textual amendment: Word in [sch. 1 para. 8(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/8/3) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(e)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/e/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-6cb43b13d3482096f6a87e02eba14395]: Textual amendment: Word in [sch. 1 para. 8(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/8/3) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(e)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/e/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-5f6a71b844341dbe1796f5fdcd1f6cd7]: Textual amendment: Words in [sch. 1 para. 10(3)(a)-(c)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/10/3) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [8](https://www.legislation.gov.uk/ssi/2026/55/regulation/8)
+[^c-5f6a71b844341dbe1796f5fdcd1f6cd7]: Textual amendment: Words in [sch. 1 para. 10(3)(a)-(c)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/10/3) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [8](https://www.legislation.gov.uk/ssi/2026/55/regulation/8)
 
-[^key-dc0cee4090b66b8b94ef4ed69d045853]: Textual amendment: [Sch. 1 para. 12(1)(c)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/12/1/c) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(f)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/f) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-dc0cee4090b66b8b94ef4ed69d045853]: Textual amendment: [Sch. 1 para. 12(1)(c)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/12/1/c) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(f)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/f) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-7f3f3ed73e3e7cc4a03b54a4ace12c81]: Textual amendment: [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/12/2) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(f)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/f) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-7f3f3ed73e3e7cc4a03b54a4ace12c81]: Textual amendment: [Sch. 1 para. 12(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/12/2) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(f)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/f) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-8c58ea0865a05afef3d70b5a65414275]: Textual amendment: [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/13/3) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(g)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/g) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-8c58ea0865a05afef3d70b5a65414275]: Textual amendment: [Sch. 1 para. 13(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/13/3) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(g)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/g) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-112f56b6151face61b4f9eed74013890]: Textual amendment: Words in [sch. 1 para. 14(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/14/3) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(h)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/h) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-112f56b6151face61b4f9eed74013890]: Textual amendment: Words in [sch. 1 para. 14(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/14/3) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(h)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/h) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-ad2ed272cb6725b65baf3959985a8a88]: Textual amendment: [Sch. 1 para. 15(1)(a)(v)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/15/1/a/v) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-ad2ed272cb6725b65baf3959985a8a88]: Textual amendment: [Sch. 1 para. 15(1)(a)(v)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/15/1/a/v) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-4e4095604b1c552b2d80d2812d27547d]: Textual amendment: Words in [sch. 1 para. 15(1)(b)(i)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/15/1/b/i) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/i)[(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-4e4095604b1c552b2d80d2812d27547d]: Textual amendment: Words in [sch. 1 para. 15(1)(b)(i)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/15/1/b/i) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/i)[(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-4e2a90a7836afed361de7ba973523a9d]: Textual amendment: Words in [sch. 1 para. 15(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/15/1/b/ii) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/i)[(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-4e2a90a7836afed361de7ba973523a9d]: Textual amendment: Words in [sch. 1 para. 15(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/15/1/b/ii) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/i)[(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f506fd9de3df3f92944a3d7a6ae00396]: Textual amendment: Words in [sch. 1 para. 15(5)(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/15/5/b) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/i)[(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f506fd9de3df3f92944a3d7a6ae00396]: Textual amendment: Words in [sch. 1 para. 15(5)(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/15/5/b) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/i)[(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-7f1befeeb8270bfa176131ed585f0176]: Textual amendment: [Sch. 1 para. 16(1)(a)(v)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/16/1/a/v) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(j)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/j/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-7f1befeeb8270bfa176131ed585f0176]: Textual amendment: [Sch. 1 para. 16(1)(a)(v)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/16/1/a/v) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(j)(i)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/j/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-3391114d507398e7f82f2c3b240a3784]: Textual amendment: Word in [sch. 1 para. 16(1)(d)(i)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/16/1/d/i) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(j)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/j/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-3391114d507398e7f82f2c3b240a3784]: Textual amendment: Word in [sch. 1 para. 16(1)(d)(i)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/16/1/d/i) substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(j)(ii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/j/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-cfc434c4c810cc4da4915d4c898d5f41]: Textual amendment: [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/16/3) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(j)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/j/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-cfc434c4c810cc4da4915d4c898d5f41]: Textual amendment: [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/16/3) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(j)(iii)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/j/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-d3773c7b6eb7d7a2a9e8153169b01792]: Textual amendment: Words in [sch. 1 para. 18(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/18/b) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(k)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/k) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-d3773c7b6eb7d7a2a9e8153169b01792]: Textual amendment: Words in [sch. 1 para. 18(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/18/b) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(k)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/k) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-08535ce11dfe8d42acb2c6cf43d39bc9]: Textual amendment: [Sch. 1 para. 19(1A)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/19/1A) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(l)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/l) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-08535ce11dfe8d42acb2c6cf43d39bc9]: Textual amendment: [Sch. 1 para. 19(1A)](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/19/1A) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(l)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/l) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-d5af2576de7888cb2a2fcfb15d8bef2f]: Textual amendment: [Sch. 1 paras. 20-22](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/20) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(m)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/m) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-d5af2576de7888cb2a2fcfb15d8bef2f]: Textual amendment: [Sch. 1 paras. 20-22](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/20) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(m)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/m) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-63cbf7dded4d1238cb092551df298840]: Textual amendment: Words in [sch. 1 para. 24](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/24) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(n)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/n) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-63cbf7dded4d1238cb092551df298840]: Textual amendment: Words in [sch. 1 para. 24](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/24) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(n)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/n) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-ba1567c59af08cfe20d5de305045cd53]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/25) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(o)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/o) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-ba1567c59af08cfe20d5de305045cd53]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/ssi/2018/219/schedule/1/paragraph/25) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [35(o)](https://www.legislation.gov.uk/ssi/2025/165/regulation/35/o) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

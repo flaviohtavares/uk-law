@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269D. Overview of Chapter[^key-3e03660a4275e6ae3aa881f06df8542c]
+## 269D. Overview of Chapter[^c-3e03660a4275e6ae3aa881f06df8542c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Section 269DC defines “**non-banking or pre-2016 loss relief**” for the purposes of calculating a company's surcharge profits.
 
-(4A)[^key-1d45e98ceee8ec407ceefb6281acca57] Section 269DCA defines “non-banking transferred-in loss relief” for the purposes of calculating a company’s surcharge profits.
+(4A)[^c-1d45e98ceee8ec407ceefb6281acca57] Section 269DCA defines “non-banking transferred-in loss relief” for the purposes of calculating a company’s surcharge profits.
 
 (5) Section 269DD defines “relevant transferred-out gain” and “**non-banking transferred-in gain**” for the purposes of calculating a company's surcharge profits.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
+[^c-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
 
-[^key-1d45e98ceee8ec407ceefb6281acca57]: Textual amendment: S. 269D(4A) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/2)
+[^c-1d45e98ceee8ec407ceefb6281acca57]: Textual amendment: S. 269D(4A) inserted (with effect in accordance with s. 33(6) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 33(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/33/2)

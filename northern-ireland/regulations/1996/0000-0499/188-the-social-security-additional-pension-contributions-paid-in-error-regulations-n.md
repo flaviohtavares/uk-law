@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 61A of, and paragraph 8(1)(*m*) of Schedule 1 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-2f924d283f0a37fae06a3a3bfde06c48]
+## 1. Citation, commencement and interpretation[^c-2f924d283f0a37fae06a3a3bfde06c48]
 
 (1) These Regulations may be cited as the Social Security (Additional Pension) (Contributions Paid in Error) Regulations (Northern Ireland) 1996 and shall come into operation on 4th June 1996.
 
 (2) In these Regulations “the Act” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-## 2. Prescribed conditions for the application of section 61A of the Act[^key-614feaaf63af90a25f177a4b0292dc85]
+## 2. Prescribed conditions for the application of section 61A of the Act[^c-614feaaf63af90a25f177a4b0292dc85]
 
 (1) The prescribed conditions for the application, in the case of an individual, of section 61A of the Act (cases where primary Class 1 contributions have been paid in error) are that—
 
@@ -58,7 +58,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (3) Except in paragraph (1)(*a*) of this regulation, in a case where the individual in question has died, a reference to the individual in this regulation shall include a reference to his surviving spouse.
 
-## 3. Purposes for which primary Class 1 contributions paid in error are to be treated as properly paid[^key-fb22e54d563d223e13a7bc7fe8280504]
+## 3. Purposes for which primary Class 1 contributions paid in error are to be treated as properly paid[^c-fb22e54d563d223e13a7bc7fe8280504]
 
 (1) Where section 61A of the Act applies in the case of an individual and the Department is of the opinion that it is appropriate for this regulation to apply—
 
@@ -73,7 +73,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 - (c) widowed mother’s allowance and widow’s pension, and
 - (d) incapacity benefit (except in transitional cases).
 
-## 4. Amendment of regulation 32 of the Social Security (Contributions) Regulations[^key-822ac98cfef316e2605f6bb16e82716a]
+## 4. Amendment of regulation 32 of the Social Security (Contributions) Regulations[^c-822ac98cfef316e2605f6bb16e82716a]
 
 In regulation 32 of the Social Security (Contributions) Regulations (Northern Ireland) 1979 (return of contributions paid in error or overpaid) after paragraph (1) there shall be inserted the following paragraph—
 
@@ -107,18 +107,18 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 61A was inserted by Article 130 of the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-2f924d283f0a37fae06a3a3bfde06c48]: Commencement: Reg. 1 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)
+[^c-2f924d283f0a37fae06a3a3bfde06c48]: Commencement: Reg. 1 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)
 
-[^key-614feaaf63af90a25f177a4b0292dc85]: Commencement: Reg. 2 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)
+[^c-614feaaf63af90a25f177a4b0292dc85]: Commencement: Reg. 2 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); regulation 32 was amended by [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43), [S.R. 1985 No. 260](https://www.legislation.gov.uk/nisr/1985/260), [S.R. 1987 No. 468](https://www.legislation.gov.uk/nisr/1987/468), [S.R. 1988 No. 204](https://www.legislation.gov.uk/nisr/1988/204), [S.R. 1989 No. 384](https://www.legislation.gov.uk/nisr/1989/384) and [S.R. 1992 No. 41](https://www.legislation.gov.uk/nisr/1992/41)
 
 [^f00003]: Footnote: *See* Article 123 of, and Part I of Schedule 2 to, the Pensions (Northern Ireland) Order 1995, which provide for the progessive equalisation of pension age for men and women from 6th April 2010
 
-[^key-fb22e54d563d223e13a7bc7fe8280504]: Commencement: Reg. 3 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)
+[^c-fb22e54d563d223e13a7bc7fe8280504]: Commencement: Reg. 3 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)
 
 [^f00005]: Footnote: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-822ac98cfef316e2605f6bb16e82716a]: Commencement: Reg. 4 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)
+[^c-822ac98cfef316e2605f6bb16e82716a]: Commencement: Reg. 4 in operation at 4.6.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/188/regulation/1/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-679b0be9c763273fadba3da9f402a0c8][^key-f8afdf934a4c2072b78c32b32a8f6125] Leave to appeal to the Appeal Court shall not be given except on an application in that behalf made by or on behalf of the appellant and lodged, within the prescribed period, with the registrar.
+(1)[^c-679b0be9c763273fadba3da9f402a0c8][^c-f8afdf934a4c2072b78c32b32a8f6125] Leave to appeal to the Appeal Court shall not be given except on an application in that behalf made by or on behalf of the appellant and lodged, within the prescribed period, with the registrar.
 
 (2) The application must be in the prescribed form and specify the grounds on which leave to appeal is sought and such other particulars, if any, as may be prescribed.
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-679b0be9c763273fadba3da9f402a0c8]: Modification: S. 9(1) excluded (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 228(4)](https://www.legislation.gov.uk/ukpga/2006/52/section/228/4), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-679b0be9c763273fadba3da9f402a0c8]: Modification: S. 9(1) excluded (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 228(4)](https://www.legislation.gov.uk/ukpga/2006/52/section/228/4), [383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f8afdf934a4c2072b78c32b32a8f6125]: Modification: S. 9(1) excluded (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [110](https://www.legislation.gov.uk/uksi/2009/1059/article/110)
+[^c-f8afdf934a4c2072b78c32b32a8f6125]: Modification: S. 9(1) excluded (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [110](https://www.legislation.gov.uk/uksi/2009/1059/article/110)

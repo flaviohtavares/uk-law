@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 325. Transfer schemes: compensation[^key-c413a7ed2742ffebbd3db92837ee4666]
+## 325. Transfer schemes: compensation[^c-c413a7ed2742ffebbd3db92837ee4666]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c413a7ed2742ffebbd3db92837ee4666]: Commencement: S. 325 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-c413a7ed2742ffebbd3db92837ee4666]: Commencement: S. 325 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

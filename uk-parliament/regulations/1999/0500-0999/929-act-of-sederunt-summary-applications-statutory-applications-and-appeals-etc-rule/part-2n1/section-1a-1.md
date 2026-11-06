@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1A.1. Application and interpretation[^key-ca97b2f20c3d39a604912ff0b6e9fc77]
+## 1A.1. Application and interpretation[^c-ca97b2f20c3d39a604912ff0b6e9fc77]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca97b2f20c3d39a604912ff0b6e9fc77]: Textual amendment: Ch. 1A inserted (4.4.2013) by [Act of Sederunt (Sheriff Court Rules) (Lay Representation) 2013 (S.S.I. 2013/91)](https://www.legislation.gov.uk/ssi/2013/91), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/3/3)
+[^c-ca97b2f20c3d39a604912ff0b6e9fc77]: Textual amendment: Ch. 1A inserted (4.4.2013) by [Act of Sederunt (Sheriff Court Rules) (Lay Representation) 2013 (S.S.I. 2013/91)](https://www.legislation.gov.uk/ssi/2013/91), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2013/91/paragraph/3/3)

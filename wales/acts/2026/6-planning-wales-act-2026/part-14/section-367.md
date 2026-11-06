@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 367. Procedural requirements for appeals, applications and other proceedings[^key-b99b75ba1914cdd6658410530f191e10]
+## 367. Procedural requirements for appeals, applications and other proceedings[^c-b99b75ba1914cdd6658410530f191e10]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ and may provide that such steps are to be treated as compliance, in whole or in 
 
 ## Annotations
 
-[^key-b99b75ba1914cdd6658410530f191e10]: Commencement: S. 367 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b99b75ba1914cdd6658410530f191e10]: Commencement: S. 367 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

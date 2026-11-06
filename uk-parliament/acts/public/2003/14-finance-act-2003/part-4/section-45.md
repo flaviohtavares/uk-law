@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Transactions entered into before completion of contract[^key-f5f4a6b45d81c8f825676246a9ae7214][^c5521651]
+## 45. Transactions entered into before completion of contract[^c-f5f4a6b45d81c8f825676246a9ae7214][^c5521651]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ Schedule 2A contains—
 
 ## Annotations
 
-[^key-f5f4a6b45d81c8f825676246a9ae7214]: Textual amendment: S. 45 substituted (with effect in accordance with Sch. 39 para. 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 39 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/39/paragraph/2) (with s. 194)
+[^c-f5f4a6b45d81c8f825676246a9ae7214]: Textual amendment: S. 45 substituted (with effect in accordance with Sch. 39 para. 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 39 para. 2](https://www.legislation.gov.uk/ukpga/2013/29/schedule/39/paragraph/2) (with s. 194)
 
 [^c5521651]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)

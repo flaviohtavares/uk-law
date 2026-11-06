@@ -44,19 +44,19 @@ The Department for Communities[^f00001], makes the following Regulations in exer
 
 Proposals in respect of these Regulations were not referred to the Social Security Advisory Committee since it appeared to the Department for Communities that by reason of the urgency of the matter it was expedient not to do so[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-5c8a054eb42f18d1a42299074aa5c823]
+## 1. Citation, commencement and interpretation[^c-5c8a054eb42f18d1a42299074aa5c823]
 
 (1) These regulations may be cited as the Housing Benefit and Universal Credit Housing Costs (Executive Determinations) (Modification) Regulations (Northern Ireland) 2023 and shall come into operation on 31st January 2023.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Modification to the Housing Benefit (Executive Determinations) Regulations[^key-a7815ecadf9be4d5baa16a4c15606dc4]
+## 2. Modification to the Housing Benefit (Executive Determinations) Regulations[^c-a7815ecadf9be4d5baa16a4c15606dc4]
 
 For the purposes of determining the local housing allowance in 2023, the Schedule (broad rental market area determinations and local housing allowance determinations) to the Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008[^f00007] is to be read as if for paragraph 2(2)[^f00008] (local housing allowance for category of dwelling in paragraph 1) there were substituted—
 
 > (2) For all broad rental market areas the local housing allowance for any category of dwelling is the allowance determined for that category of accommodation on 31st March 2020.
 
-## 3. Modification to the Universal Credit Housing Costs (Executive Determinations) Regulations[^key-13017deddd96d1346044f1c81cda5d90]
+## 3. Modification to the Universal Credit Housing Costs (Executive Determinations) Regulations[^c-13017deddd96d1346044f1c81cda5d90]
 
 For the purposes of determining the local housing allowances in 2023, Schedule 1 (local housing allowance determinations) to the Universal Credit Housing Costs (Executive Determinations) Regulations (Northern Ireland) 2016[^f00009] is to be read as if for paragraph 2(2)[^f00010] (local housing allowance for category of accommodation in paragraph 1) there were substituted—
 
@@ -94,17 +94,17 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00005]: Footnote: *See* sections 149(2) and 150(1)(a) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-5c8a054eb42f18d1a42299074aa5c823]: Commencement: Reg. 1 in operation at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/4/regulation/1/1)
+[^c-5c8a054eb42f18d1a42299074aa5c823]: Commencement: Reg. 1 in operation at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/4/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/nisro/1954/33)
 
-[^key-a7815ecadf9be4d5baa16a4c15606dc4]: Commencement: Reg. 2 in operation at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/4/regulation/1/1)
+[^c-a7815ecadf9be4d5baa16a4c15606dc4]: Commencement: Reg. 2 in operation at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/4/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 2008 No. 100](https://www.legislation.gov.uk/nisr/2008/100); relevant amending Regulation is [S.R. 2020 No. 53](https://www.legislation.gov.uk/nisr/2020/53)
 
 [^f00008]: Footnote: Paragraph 2(2) was substituted by regulation 4(1)(b) of [S.R. 2020 No. 53](https://www.legislation.gov.uk/nisr/2020/53)
 
-[^key-13017deddd96d1346044f1c81cda5d90]: Commencement: Reg. 3 in operation at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/4/regulation/1/1)
+[^c-13017deddd96d1346044f1c81cda5d90]: Commencement: Reg. 3 in operation at 31.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/4/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 2016 No. 222](https://www.legislation.gov.uk/nisr/2016/222); relevant amending Regulation is [S.R. 2020 No. 53](https://www.legislation.gov.uk/nisr/2020/53)
 

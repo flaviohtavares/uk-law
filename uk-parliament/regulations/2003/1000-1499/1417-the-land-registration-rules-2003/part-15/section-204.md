@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 204. Request for the return of certain documents[^key-528cd16f74e14678b7f26eafd8e971b7]
+## 204. Request for the return of certain documents[^c-528cd16f74e14678b7f26eafd8e971b7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-528cd16f74e14678b7f26eafd8e971b7]: Textual amendment: [Rule 204](https://www.legislation.gov.uk/uksi/2003/1417/rule/204) omitted (6.4.2018) by virtue of [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/31)
+[^c-528cd16f74e14678b7f26eafd8e971b7]: Textual amendment: [Rule 204](https://www.legislation.gov.uk/uksi/2003/1417/rule/204) omitted (6.4.2018) by virtue of [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2018/70/schedule/1/paragraph/31)

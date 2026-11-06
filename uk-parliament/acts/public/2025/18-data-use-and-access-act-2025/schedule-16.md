@@ -24,15 +24,15 @@ Section 122
 
 ### Part 1 — Amendments of the Energy Act 2008
 
-**1.**[^key-5ebf0a586fa40f89ed44224fba4dc44d] The Energy Act 2008 is amended as follows.
+**1.**[^c-5ebf0a586fa40f89ed44224fba4dc44d] The Energy Act 2008 is amended as follows.
 
 *Extent: E+W+S*
 
-**2.**[^key-49486096afa680f7dcebb8122a901630] In the italic heading before section 88, after “meters” insert “: modification of licence conditions etc by Secretary of State”.
+**2.**[^c-49486096afa680f7dcebb8122a901630] In the italic heading before section 88, after “meters” insert “: modification of licence conditions etc by Secretary of State”.
 
 *Extent: E+W+S*
 
-**3.**[^key-05ec704a7f759d3ee97e6fc2444efaae] After section 91 insert—
+**3.**[^c-05ec704a7f759d3ee97e6fc2444efaae] After section 91 insert—
 
 > **Grant of smart meter communication licences**
 >
@@ -138,7 +138,7 @@ Section 122
 >
 > (4) The notice must be published in such manner as the Authority considers appropriate for bringing it to the attention of those likely to be affected by the making of the modification.
 
-**4.**[^key-373a6b4614e6a50cf5f332ad9c4e904c] In section 104 (subordinate legislation)—
+**4.**[^c-373a6b4614e6a50cf5f332ad9c4e904c] In section 104 (subordinate legislation)—
 
 - (a) in subsection (1), for “or the Scottish Ministers” substitute “, the Scottish Ministers or the Gas and Electricity Markets Authority”;
 - (b) in subsection (3), at the end insert
@@ -153,7 +153,7 @@ Section 122
 
 **Not yet in force.**
 
-#### 5. Gas Act 1986[^key-7a050a8d605e2fd77419bde1d6063309]
+#### 5. Gas Act 1986[^c-7a050a8d605e2fd77419bde1d6063309]
 
 (1) The Gas Act 1986 is amended as follows.
 
@@ -164,7 +164,7 @@ Section 122
 
 (3) In section 41HC (competitive tenders for licences for new licensable activities), in subsection (1), after “activities” insert “, other than a smart meter communication licence,”.
 
-#### 6. Electricity Act 1989[^key-3922361eb12fd4300f3951e3b1b12c96]
+#### 6. Electricity Act 1989[^c-3922361eb12fd4300f3951e3b1b12c96]
 
 (1) The Electricity Act 1989 is amended as follows.
 
@@ -176,22 +176,22 @@ Section 122
 
 (3) In section 56FC (competitive tenders for licences for new licensable activities), in subsection (1), after “activities” insert “, other than a licence under section 6(1)(f) (smart meter communication licence),”.
 
-#### 7. Electricity and Gas (Competitive Tenders for Smart Meter Communication Licences) Regulations 2012[^key-66dea301e99f1864956a7ea262d154c2]
+#### 7. Electricity and Gas (Competitive Tenders for Smart Meter Communication Licences) Regulations 2012[^c-66dea301e99f1864956a7ea262d154c2]
 
 The Electricity and Gas (Competitive Tenders for Smart Meter Communication Licences) Regulations 2012 ([S.I. 2012/2414](https://www.legislation.gov.uk/uksi/2012/2414)) are revoked.
 
 ## Annotations
 
-[^key-5ebf0a586fa40f89ed44224fba4dc44d]: Commencement: Sch. 16 para. 1 in force at Royal Assent, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)
+[^c-5ebf0a586fa40f89ed44224fba4dc44d]: Commencement: Sch. 16 para. 1 in force at Royal Assent, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)
 
-[^key-49486096afa680f7dcebb8122a901630]: Commencement: Sch. 16 para. 2 in force at Royal Assent, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)
+[^c-49486096afa680f7dcebb8122a901630]: Commencement: Sch. 16 para. 2 in force at Royal Assent, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)
 
-[^key-05ec704a7f759d3ee97e6fc2444efaae]: Commencement: Sch. 16 para. 3 in force at Royal Assent, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)
+[^c-05ec704a7f759d3ee97e6fc2444efaae]: Commencement: Sch. 16 para. 3 in force at Royal Assent, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)
 
-[^key-373a6b4614e6a50cf5f332ad9c4e904c]: Commencement: Sch. 16 para. 4 in force at Royal Assent, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)
+[^c-373a6b4614e6a50cf5f332ad9c4e904c]: Commencement: Sch. 16 para. 4 in force at Royal Assent, see [s. 142(2)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/c)
 
-[^key-7a050a8d605e2fd77419bde1d6063309]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see [s. 142(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/4)
+[^c-7a050a8d605e2fd77419bde1d6063309]: Commencement: Sch. 16 para. 5 not in force at Royal Assent, see [s. 142(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/4)
 
-[^key-3922361eb12fd4300f3951e3b1b12c96]: Commencement: Sch. 16 para. 6 not in force at Royal Assent, see [s. 142(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/4)
+[^c-3922361eb12fd4300f3951e3b1b12c96]: Commencement: Sch. 16 para. 6 not in force at Royal Assent, see [s. 142(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/4)
 
-[^key-66dea301e99f1864956a7ea262d154c2]: Commencement: Sch. 16 para. 7 not in force at Royal Assent, see [s. 142(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/4)
+[^c-66dea301e99f1864956a7ea262d154c2]: Commencement: Sch. 16 para. 7 not in force at Royal Assent, see [s. 142(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/4)

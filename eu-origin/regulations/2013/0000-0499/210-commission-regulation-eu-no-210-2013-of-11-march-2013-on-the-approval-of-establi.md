@@ -75,7 +75,7 @@ HAS ADOPTED THIS REGULATION:
 
 It shall apply from 1 July 2013.
 
-[^key-6f0df298b818953327222b31e2265faa]...
+[^c-6f0df298b818953327222b31e2265faa]...
 
 Done at Brussels, 11 March 2013.
 
@@ -126,4 +126,4 @@ Appropriate procedures shall be in place to ensure that:
 
 [^f00007]: Footnote: See page 16 of this Official Journal.
 
-[^key-6f0df298b818953327222b31e2265faa]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/210/signature) omitted (31.12.2020) by virtue of [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/464/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f0df298b818953327222b31e2265faa]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2013/210/signature) omitted (31.12.2020) by virtue of [The Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/464)](https://www.legislation.gov.uk/uksi/2019/464), [regs. 1](https://www.legislation.gov.uk/uksi/2019/464/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/464/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

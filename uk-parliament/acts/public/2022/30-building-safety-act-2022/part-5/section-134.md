@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Duties relating to work to dwellings etc[^key-fd5604f5ce13f7019e90882de46dcd0a]
+## 134. Duties relating to work to dwellings etc[^c-fd5604f5ce13f7019e90882de46dcd0a]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd5604f5ce13f7019e90882de46dcd0a]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2022/30/section/134) in force at 28.6.2022, see [s. 170(3)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/b)
+[^c-fd5604f5ce13f7019e90882de46dcd0a]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2022/30/section/134) in force at 28.6.2022, see [s. 170(3)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/b)

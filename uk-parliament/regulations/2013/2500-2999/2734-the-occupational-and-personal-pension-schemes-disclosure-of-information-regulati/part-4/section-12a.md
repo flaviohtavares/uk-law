@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12A. Additional information available on request: pooled funds[^key-9dbdec1eb2f3bf353ea761a748edf6fb]
+## 12A. Additional information available on request: pooled funds[^c-9dbdec1eb2f3bf353ea761a748edf6fb]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9dbdec1eb2f3bf353ea761a748edf6fb]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2013/2734/regulation/12A) inserted (6.4.2019) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations 2018 (S.I. 2018/233)](https://www.legislation.gov.uk/uksi/2018/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/233/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/233/regulation/3/3)
+[^c-9dbdec1eb2f3bf353ea761a748edf6fb]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/uksi/2013/2734/regulation/12A) inserted (6.4.2019) by [The Occupational Pension Schemes (Administration and Disclosure) (Amendment) Regulations 2018 (S.I. 2018/233)](https://www.legislation.gov.uk/uksi/2018/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/233/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/233/regulation/3/3)

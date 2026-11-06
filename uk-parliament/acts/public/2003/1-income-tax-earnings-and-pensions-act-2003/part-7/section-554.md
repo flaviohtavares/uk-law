@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies if—
 
-- (a) B or an associate of B’s is (apart from this section) to be treated by virtue of section 552(2) as having been the beneficial owner of a percentage of the ordinary share capital of the company as a result of receiving the relevant payment from the trustees of an employee[^key-eca86ce6223e9dd2a836cac02867adbc] benefit trust, and
+- (a) B or an associate of B’s is (apart from this section) to be treated by virtue of section 552(2) as having been the beneficial owner of a percentage of the ordinary share capital of the company as a result of receiving the relevant payment from the trustees of an employee[^c-eca86ce6223e9dd2a836cac02867adbc] benefit trust, and
 - (b) B or an associate of B’s has, during the period of 12 months ending with the payment date, received one or more payments from the trustees of any other employee benefit trust or trusts connected with the company.
 
 (2) In such a case section 552 applies to B or (as the case may be) the associate mentioned in subsection (1)(a) as if B or the associate had received—
@@ -45,4 +45,4 @@ on the payment date.
 
 ## Annotations
 
-[^key-eca86ce6223e9dd2a836cac02867adbc]: Textual amendment: Word in s. 554(1)(a) substituted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 17 para. 9(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/9/3)
+[^c-eca86ce6223e9dd2a836cac02867adbc]: Textual amendment: Word in s. 554(1)(a) substituted (22.7.2004) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 17 para. 9(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/17/paragraph/9/3)

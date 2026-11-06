@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Incumbent officers[^key-aaedfe7ee64df4b66e0321c3a4204c4c][^key-11aaa03e673d391bde5c3f7f95e7108c][^key-1d3290bfb10313548804f6b22a8c3a49]
+## 35. Incumbent officers[^c-aaedfe7ee64df4b66e0321c3a4204c4c][^c-11aaa03e673d391bde5c3f7f95e7108c][^c-1d3290bfb10313548804f6b22a8c3a49]
 
 *Extent: E+W*
 
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aaedfe7ee64df4b66e0321c3a4204c4c]: Commencement: S. 35 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-aaedfe7ee64df4b66e0321c3a4204c4c]: Commencement: S. 35 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-11aaa03e673d391bde5c3f7f95e7108c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/21/section/35) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/iv)
+[^c-11aaa03e673d391bde5c3f7f95e7108c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/21/section/35) in force at 12.12.2025 for specified purposes by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/a/iv)
 
-[^key-1d3290bfb10313548804f6b22a8c3a49]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/21/section/35) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(viii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/viii)
+[^c-1d3290bfb10313548804f6b22a8c3a49]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2025/21/section/35) in force at 5.5.2026 in so far as not already in force by [S.I. 2026/477](https://www.legislation.gov.uk/uksi/2026/477), [reg. 2(1)(a)(viii)](https://www.legislation.gov.uk/uksi/2026/477/regulation/2/1/a/viii)

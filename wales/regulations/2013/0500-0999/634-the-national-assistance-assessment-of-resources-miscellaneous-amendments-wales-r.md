@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL ASSISTANCE SERVICES, WALES
 
-The National Assistance (Assessment of Resources) (Miscellaneous Amendments) (Wales) Regulations 2013 (revoked)[^key-61ddc0f16e1202e366b785eda570c128]
+The National Assistance (Assessment of Resources) (Miscellaneous Amendments) (Wales) Regulations 2013 (revoked)[^c-61ddc0f16e1202e366b785eda570c128]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 8 April 2013
 
-[^key-61ddc0f16e1202e366b785eda570c128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ddc0f16e1202e366b785eda570c128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, interpretation and application[^key-61ddc0f16e1202e366b785eda570c128]
+## 1. Title, commencement, interpretation and application[^c-61ddc0f16e1202e366b785eda570c128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Principal Regulations[^key-61ddc0f16e1202e366b785eda570c128]
+## 2. Amendment of the Principal Regulations[^c-61ddc0f16e1202e366b785eda570c128]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61ddc0f16e1202e366b785eda570c128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ddc0f16e1202e366b785eda570c128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61ddc0f16e1202e366b785eda570c128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61ddc0f16e1202e366b785eda570c128]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61ddc0f16e1202e366b785eda570c128]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/634) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)
+[^c-61ddc0f16e1202e366b785eda570c128]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2013/634) revoked (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/wsi/2016/211/schedule/1)

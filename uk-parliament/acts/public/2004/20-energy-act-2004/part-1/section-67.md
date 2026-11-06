@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Trade union membership[^key-26b574d58e637ddd450630993ffc76d9]
+## 67. Trade union membership[^c-26b574d58e637ddd450630993ffc76d9]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26b574d58e637ddd450630993ffc76d9]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2004/20/section/67) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-26b574d58e637ddd450630993ffc76d9]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2004/20/section/67) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)

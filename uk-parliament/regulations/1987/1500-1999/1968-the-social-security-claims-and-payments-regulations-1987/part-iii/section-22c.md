@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22C. Retirement pension[^key-09d726e1efafa338e6a52a20cfcd6edc]
+## 22C. Retirement pension[^c-09d726e1efafa338e6a52a20cfcd6edc]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09d726e1efafa338e6a52a20cfcd6edc]: Textual amendment: Reg. 22C - Reg. 22D inserted (6.4.2010) by [The Social Security (Miscellaneous Amendments) (No. 6) Regulations 2009 (S.I. 2009/3229)](https://www.legislation.gov.uk/uksi/2009/3229), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3229/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/3229/regulation/2/5)
+[^c-09d726e1efafa338e6a52a20cfcd6edc]: Textual amendment: Reg. 22C - Reg. 22D inserted (6.4.2010) by [The Social Security (Miscellaneous Amendments) (No. 6) Regulations 2009 (S.I. 2009/3229)](https://www.legislation.gov.uk/uksi/2009/3229), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3229/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2009/3229/regulation/2/5)

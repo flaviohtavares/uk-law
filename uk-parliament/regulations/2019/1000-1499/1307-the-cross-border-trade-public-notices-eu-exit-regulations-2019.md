@@ -36,7 +36,7 @@ Customs And Excise
 
 Value Added Tax
 
-The Cross-border Trade (Public Notices) (EU Exit) Regulations 2019 (revoked)[^key-c343c0dc662a3858d3db7f616b9a0017]
+The Cross-border Trade (Public Notices) (EU Exit) Regulations 2019 (revoked)[^c-c343c0dc662a3858d3db7f616b9a0017]
 
 Made
 
@@ -48,27 +48,27 @@ Laid before the House of Commons
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-c343c0dc662a3858d3db7f616b9a0017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c343c0dc662a3858d3db7f616b9a0017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and effect[^key-c343c0dc662a3858d3db7f616b9a0017]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Interpretation etc.[^key-c343c0dc662a3858d3db7f616b9a0017]
+## 1. Citation, commencement and effect[^c-c343c0dc662a3858d3db7f616b9a0017]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Power to make temporary provision by public notice[^key-c343c0dc662a3858d3db7f616b9a0017]
+## 2. Interpretation etc.[^c-c343c0dc662a3858d3db7f616b9a0017]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Supplementary provision[^key-c343c0dc662a3858d3db7f616b9a0017]
+## 3. Power to make temporary provision by public notice[^c-c343c0dc662a3858d3db7f616b9a0017]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Supplementary provision[^c-c343c0dc662a3858d3db7f616b9a0017]
 
 **Not yet in force.**
 
@@ -76,12 +76,12 @@ Coming into force in accordance with regulation 1(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-c343c0dc662a3858d3db7f616b9a0017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c343c0dc662a3858d3db7f616b9a0017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c343c0dc662a3858d3db7f616b9a0017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c343c0dc662a3858d3db7f616b9a0017]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c343c0dc662a3858d3db7f616b9a0017]: Textual amendment: Regulations revoked (25.10.2019) by The Cross-border [Trade (Public Notices) (EU Exit) (Revocation) Regulations 2019 (S.I. 2019/1380)](https://www.legislation.gov.uk/uksi/2019/1380), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1380/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1380/regulation/2)
+[^c-c343c0dc662a3858d3db7f616b9a0017]: Textual amendment: Regulations revoked (25.10.2019) by The Cross-border [Trade (Public Notices) (EU Exit) (Revocation) Regulations 2019 (S.I. 2019/1380)](https://www.legislation.gov.uk/uksi/2019/1380), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1380/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1380/regulation/2)

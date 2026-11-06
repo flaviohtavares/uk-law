@@ -31,7 +31,7 @@ summary: ''
 
 DATA PROTECTION
 
-The Data Protection (Processing of Sensitive Personal Data) Order 2000 (revoked)[^key-90fad48399e147c795efcea7897783b0]
+The Data Protection (Processing of Sensitive Personal Data) Order 2000 (revoked)[^c-90fad48399e147c795efcea7897783b0]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into force
 
 1st March 2000
 
-[^key-90fad48399e147c795efcea7897783b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90fad48399e147c795efcea7897783b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-90fad48399e147c795efcea7897783b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90fad48399e147c795efcea7897783b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — CIRCUMSTANCES IN WHICH SENSITIVE PERSONAL DATA MAY BE PROCESSED[^key-90fad48399e147c795efcea7897783b0]
+## SCHEDULE — CIRCUMSTANCES IN WHICH SENSITIVE PERSONAL DATA MAY BE PROCESSED[^c-90fad48399e147c795efcea7897783b0]
 
 Article 2
 
-**1.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-90fad48399e147c795efcea7897783b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-90fad48399e147c795efcea7897783b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-90fad48399e147c795efcea7897783b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-90fad48399e147c795efcea7897783b0]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 249](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/249) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and saving in [Sch. 20 para. 58(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-90fad48399e147c795efcea7897783b0]: Textual amendment: Order revoked (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 249](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/249) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210) and saving in [Sch. 20 para. 58(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/20/paragraph/58/2)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

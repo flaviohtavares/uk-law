@@ -91,11 +91,11 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** 1. The health claims listed in the Annex to this Regulation may not be made on foods on the Great Britain market[^key-9b6bbdd224506f81d3b74217e8f4daa9].
+**Article 1.** 1. The health claims listed in the Annex to this Regulation may not be made on foods on the Great Britain market[^c-9b6bbdd224506f81d3b74217e8f4daa9].
 
-2.[^key-7423549732918672cc2a3efc7a2f777e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-7423549732918672cc2a3efc7a2f777e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-275a2fe7b0fb815bae76909423c37857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-275a2fe7b0fb815bae76909423c37857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
@@ -125,8 +125,8 @@ Jean-Claude Juncker
 
 [^f00004]: Footnote: EFSA Journal 2014;12(5):3652.
 
-[^key-9b6bbdd224506f81d3b74217e8f4daa9]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2015/391/article/1/1) substituted (E.W.S.) (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [64(2)(a)](https://www.legislation.gov.uk/uksi/2019/651/regulation/64/2/a) (as amended by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(3)(4)(q)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/3/4/q)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b6bbdd224506f81d3b74217e8f4daa9]: Textual amendment: Words in [Art. 1(1)](https://www.legislation.gov.uk/eur/2015/391/article/1/1) substituted (E.W.S.) (31.12.2020) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [64(2)(a)](https://www.legislation.gov.uk/uksi/2019/651/regulation/64/2/a) (as amended by [S.I. 2020/1476](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(3)(4)(q)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/3/4/q)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7423549732918672cc2a3efc7a2f777e]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eur/2015/391/article/1/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [64(2)(b)](https://www.legislation.gov.uk/uksi/2019/651/regulation/64/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7423549732918672cc2a3efc7a2f777e]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eur/2015/391/article/1/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [64(2)(b)](https://www.legislation.gov.uk/uksi/2019/651/regulation/64/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-275a2fe7b0fb815bae76909423c37857]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2015/391/article/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [64(3)](https://www.legislation.gov.uk/uksi/2019/651/regulation/64/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-275a2fe7b0fb815bae76909423c37857]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2015/391/article/2) omitted (E.W.S.) (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [64(3)](https://www.legislation.gov.uk/uksi/2019/651/regulation/64/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

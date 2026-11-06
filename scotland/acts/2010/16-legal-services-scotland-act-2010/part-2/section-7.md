@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Approval of regulators[^key-ab40d65c7e303b89666a6c61fa48acac]
+## 7. Approval of regulators[^c-ab40d65c7e303b89666a6c61fa48acac]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab40d65c7e303b89666a6c61fa48acac]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/16/section/7) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-ab40d65c7e303b89666a6c61fa48acac]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2010/16/section/7) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

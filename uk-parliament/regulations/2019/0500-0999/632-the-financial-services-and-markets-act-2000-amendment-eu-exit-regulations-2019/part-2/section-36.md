@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Section 137N (recovery plans and resolution packs: restriction on duty of confidence)[^key-35e68101589769574518b98c6b4ad38d]
+## 36. Section 137N (recovery plans and resolution packs: restriction on duty of confidence)[^c-35e68101589769574518b98c6b4ad38d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 137N (recovery plans and resolution packs: interpretation), in subsec
 
 ## Annotations
 
-[^key-35e68101589769574518b98c6b4ad38d]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-35e68101589769574518b98c6b4ad38d]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657621]: Marginal citation: Subsection (5) was amended by [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.10. Court’s power to extend time under rule 2.6 or rule 2.7[^key-72b804ea0ffbf32f864a15fb1b9ac1fc]
+## 2.10. Court’s power to extend time under rule 2.6 or rule 2.7[^c-72b804ea0ffbf32f864a15fb1b9ac1fc]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72b804ea0ffbf32f864a15fb1b9ac1fc]: Commencement: [Rule 2.10](https://www.legislation.gov.uk/uksi/2025/909/rule/2.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-72b804ea0ffbf32f864a15fb1b9ac1fc]: Commencement: [Rule 2.10](https://www.legislation.gov.uk/uksi/2025/909/rule/2.10) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**313.**[^key-2105e18c947557f820c432d0ceb8fba3] In section 166(2)(b)(ii) (partnership arrangements) for “NHS trust” substitute “NHS Trust”.
+**313.**[^c-2105e18c947557f820c432d0ceb8fba3] In section 166(2)(b)(ii) (partnership arrangements) for “NHS trust” substitute “NHS Trust”.
 
 ## Annotations
 
-[^key-2105e18c947557f820c432d0ceb8fba3]: Commencement: Reg. 313 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-2105e18c947557f820c432d0ceb8fba3]: Commencement: Reg. 313 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

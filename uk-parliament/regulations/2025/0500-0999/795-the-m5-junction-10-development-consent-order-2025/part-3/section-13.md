@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Construction and maintenance of new, altered or diverted streets and other structures[^key-85bcbb999f2c3f85a713d643fe35c4ce]
+## 13. Construction and maintenance of new, altered or diverted streets and other structures[^c-85bcbb999f2c3f85a713d643fe35c4ce]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-85bcbb999f2c3f85a713d643fe35c4ce]: Commencement: Art. 13 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-85bcbb999f2c3f85a713d643fe35c4ce]: Commencement: Art. 13 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

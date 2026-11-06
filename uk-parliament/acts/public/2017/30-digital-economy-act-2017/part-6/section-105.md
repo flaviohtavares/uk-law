@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Secondary ticketing: duty to provide information about tickets[^key-0892be8a56d9984f045885da50f344f9]
+## 105. Secondary ticketing: duty to provide information about tickets[^c-0892be8a56d9984f045885da50f344f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 90 of the Consumer Rights Act 2015 (duty to provide information about
 
 ## Annotations
 
-[^key-0892be8a56d9984f045885da50f344f9]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2017/30/section/105) in force at 6.4.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 2](https://www.legislation.gov.uk/uksi/2018/382/regulation/2)
+[^c-0892be8a56d9984f045885da50f344f9]: Commencement: [S. 105](https://www.legislation.gov.uk/ukpga/2017/30/section/105) in force at 6.4.2018 for E.W.S. by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 2](https://www.legislation.gov.uk/uksi/2018/382/regulation/2)

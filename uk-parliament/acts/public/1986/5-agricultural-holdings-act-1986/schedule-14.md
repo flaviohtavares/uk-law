@@ -81,9 +81,9 @@ Section 100.
 
 **12.**[^c10155631] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### ...[^key-d01a0ffe1b351fc56f44bbdc32d63337]
+### ...[^c-d01a0ffe1b351fc56f44bbdc32d63337]
 
-**13.**[^key-d01a0ffe1b351fc56f44bbdc32d63337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-d01a0ffe1b351fc56f44bbdc32d63337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Landlord and Tenant Act 1927
 
@@ -497,7 +497,7 @@ and that subsection shall continue to have effect with the substitution of the w
 
 [^c10155631]: Textual amendment: [Sch. 14 para. 12](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/paragraph/12) repealed (1.9.1995) by [1995 c. 8](https://www.legislation.gov.uk/ukpga/1995/8), [ss. 31(4)](https://www.legislation.gov.uk/ukpga/1995/8/section/31/4), [41(2)](https://www.legislation.gov.uk/ukpga/1995/8/section/41/2) (with [s. 37](https://www.legislation.gov.uk/ukpga/1995/8/section/37)).
 
-[^key-d01a0ffe1b351fc56f44bbdc32d63337]: Textual amendment: [Sch. 14 para. 13 and cross-heading](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/crossheading/the-universities-and-college-estates-act-1925) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/15/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-d01a0ffe1b351fc56f44bbdc32d63337]: Textual amendment: [Sch. 14 para. 13 and cross-heading](https://www.legislation.gov.uk/ukpga/1986/5/schedule/14/crossheading/the-universities-and-college-estates-act-1925) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 15(3)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/15/3); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c10155651]: Marginal citation: [1927 c. 36](https://www.legislation.gov.uk/ukpga/1927/36).
 

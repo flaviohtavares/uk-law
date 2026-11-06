@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Further review: responsible medical officer’s duty to extend compulsion order[^key-c720d53218eb52fa11af797f9daeac78]
+## 152. Further review: responsible medical officer’s duty to extend compulsion order[^c-c720d53218eb52fa11af797f9daeac78]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ the responsible medical officer is satisfied as to the matters mentioned in sect
 
 ## Annotations
 
-[^key-c720d53218eb52fa11af797f9daeac78]: Commencement: S. 152 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-c720d53218eb52fa11af797f9daeac78]: Commencement: S. 152 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

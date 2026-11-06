@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — SPECIAL ADMINISTRATION ORDERS[^key-55f1e50e354d732cd167fe72eba3e339]
+## SCHEDULE 3 — SPECIAL ADMINISTRATION ORDERS[^c-55f1e50e354d732cd167fe72eba3e339]
 
 *Extent: E+W*
 
@@ -28,15 +28,15 @@ Section 23.
 
 **1.** Where a special administration order has been made, sections 11 to 15, 17 to 23 and 27 of the 1986 Act (which relate to administration orders under Part II of that Act) shall apply, with the modifications specified in the following provisions of this Part of this Schedule—
 
-- (a) as if references in those sections to an administration order were references to a special administration order and references to an administrator were references to a special administrator; [^key-8ef7efe50af2f0b5390440389a44bd66]...
-- (b)[^key-8ef7efe50af2f0b5390440389a44bd66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) as if references in those sections to an administration order were references to a special administration order and references to an administrator were references to a special administrator; [^c-8ef7efe50af2f0b5390440389a44bd66]...
+- (b)[^c-8ef7efe50af2f0b5390440389a44bd66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Effect of order
 
 **2.** In section 11 of the 1986 Act (effect of order), as applied by this Part of this Schedule—
 
 - (a) the requirement in subsection (1)(a) that any petition for the winding up of the company shall be dismissed shall be without prejudice to the special administration order in a case where the order is made by virtue of section 25 of this Act; and
-- (b)[^key-5e08bca305751fc75fc6d913dc2d884c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (b)[^c-5e08bca305751fc75fc6d913dc2d884c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (c) the reference in subsection (3)(d) to proceedings shall include a reference to any proceedings under or for the purposes of section 18 of this Act.
 
 #### Appointment of special administrator
@@ -62,7 +62,7 @@ Section 23.
 
 (2) In subsection (5)(b) (amount to be paid to chargeholder not to be less than open market value), for the words “in the open market by a willing vendor” there shall be substituted the words “ for the best price which is reasonably available on a sale which is consistent with the purposes of the special administration order ”.
 
-(3)[^key-54e0b1d83e412deef8d03ea4a950ca15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-54e0b1d83e412deef8d03ea4a950ca15] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Duties of special administrator
 
@@ -89,15 +89,15 @@ Section 23.
 
 (4) In subsection (4), the words “or varied” and “or variation” shall be omitted and for the words “to the registrar of companies” there shall be substituted—
 
-- (a)[^key-263936818cbea3cc77ecf55b5947feab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) [^key-393cf45b123f680a38881cba6f2ce027]... the words “to the registrar of companies and to the Director General of Water Services”.
+- (a)[^c-263936818cbea3cc77ecf55b5947feab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-393cf45b123f680a38881cba6f2ce027]... the words “to the registrar of companies and to the Director General of Water Services”.
 
 #### Notice of making of order
 
 **8.** In section 21(2) of the 1986 Act (notice of order to be given by administrator), as applied by this Part of this Schedule, for the words “to the registrar of companies” there shall be substituted—
 
-- (a)[^key-fb8c65e8cd856ebe3c73dcbbcc2a64ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) [^key-ddde85b5abbac3a01e3839f2ebdbf9b5]... the words “to the registrar of companies, to the Director General of Water Services”.
+- (a)[^c-fb8c65e8cd856ebe3c73dcbbcc2a64ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) [^c-ddde85b5abbac3a01e3839f2ebdbf9b5]... the words “to the registrar of companies, to the Director General of Water Services”.
 
 #### Statement of proposals
 
@@ -107,7 +107,7 @@ Section 23.
 >
 > - (a) to the Secretary of State and to the Director General of Water Services;
 > - (b) so far as he is aware of their addresses, to all creditors of the company; and
-> - (c) [^key-79540137f80925a3bb9afd63a5dbe440]... to the registrar of companies;
+> - (c) [^c-79540137f80925a3bb9afd63a5dbe440]... to the registrar of companies;
 >
 > and may from time to time revise those proposals.
 >
@@ -116,7 +116,7 @@ Section 23.
 > - (a) the special administrator proposes to make revisions of the proposals for achieving the purposes of the special administration order; and
 > - (b) those revisions appear to him to be substantial,
 >
-> the special administrator shall, before making those revisions, send a statement of the proposed revisions to the Secretary of State, to the Director General of Water Services, (so far as he is aware of their addresses) to all creditors of the company and[^key-50c535d13128cdf3db8655fa9484bc42]... to the registrar of companies.
+> the special administrator shall, before making those revisions, send a statement of the proposed revisions to the Secretary of State, to the Director General of Water Services, (so far as he is aware of their addresses) to all creditors of the company and[^c-50c535d13128cdf3db8655fa9484bc42]... to the registrar of companies.
 >
 > (2A) Where the special administrator is required by subsection (1) or (2) to send any person a statement before the end of any period or before making any revision of any proposals, he shall also, before the end of that period or, as the case may be, before making those revisions either—
 >
@@ -158,11 +158,11 @@ Section 23.
 
 ## Annotations
 
-[^key-55f1e50e354d732cd167fe72eba3e339]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3) applied (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/7/4) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-55f1e50e354d732cd167fe72eba3e339]: Modification: [Sch. 3](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3) applied (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/7/4) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
-[^key-8ef7efe50af2f0b5390440389a44bd66]: Textual amendment: Sch. 3 para. 1(b) and word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(i)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/i)
+[^c-8ef7efe50af2f0b5390440389a44bd66]: Textual amendment: Sch. 3 para. 1(b) and word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(i)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/i)
 
-[^key-5e08bca305751fc75fc6d913dc2d884c]: Textual amendment: Sch. 3 para. 2(b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/ii)
+[^c-5e08bca305751fc75fc6d913dc2d884c]: Textual amendment: Sch. 3 para. 2(b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(ii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/ii)
 
 [^c19875571]: Textual amendment: Words in [Sch. 3 para. 4(a)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/4/a) inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 52(2)(a)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/52/2/a); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
@@ -170,19 +170,19 @@ Section 23.
 
 [^c19875611]: Textual amendment: Words in [Sch. 3 para. 4(b)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/4/b) inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 52(2)(b)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/52/2/b); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 
-[^key-54e0b1d83e412deef8d03ea4a950ca15]: Textual amendment: [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/5/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(iii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/iii)
+[^c-54e0b1d83e412deef8d03ea4a950ca15]: Textual amendment: [Sch. 3 para. 5(3)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/5/3) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(iii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/iii)
 
-[^key-263936818cbea3cc77ecf55b5947feab]: Textual amendment: [Sch. 3 para. 7(4)(a)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/7/4/a) and word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(iv)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/iv)
+[^c-263936818cbea3cc77ecf55b5947feab]: Textual amendment: [Sch. 3 para. 7(4)(a)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/7/4/a) and word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(iv)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/iv)
 
-[^key-393cf45b123f680a38881cba6f2ce027]: Textual amendment: Words in [Sch. 3 para. 7(4)(b)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/7/4/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(v)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/v)
+[^c-393cf45b123f680a38881cba6f2ce027]: Textual amendment: Words in [Sch. 3 para. 7(4)(b)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/7/4/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(v)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/v)
 
-[^key-fb8c65e8cd856ebe3c73dcbbcc2a64ec]: Textual amendment: [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/8/a) and word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(vi)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/vi)
+[^c-fb8c65e8cd856ebe3c73dcbbcc2a64ec]: Textual amendment: [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/8/a) and word omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(vi)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/vi)
 
-[^key-ddde85b5abbac3a01e3839f2ebdbf9b5]: Textual amendment: Words in [Sch. 3 para. 8(b)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/8/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(vii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/vii)
+[^c-ddde85b5abbac3a01e3839f2ebdbf9b5]: Textual amendment: Words in [Sch. 3 para. 8(b)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/8/b) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(vii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/vii)
 
-[^key-79540137f80925a3bb9afd63a5dbe440]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/9) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(viii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/viii)
+[^c-79540137f80925a3bb9afd63a5dbe440]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/9) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(viii)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/viii)
 
-[^key-50c535d13128cdf3db8655fa9484bc42]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/9) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(ix)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/ix)
+[^c-50c535d13128cdf3db8655fa9484bc42]: Textual amendment: Words in [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/9) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 28(4)(e)(ix)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/28/4/e/ix)
 
 [^c19875731]: Textual amendment: Words in [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/ukpga/1991/56/schedule/3/paragraph/10/2) inserted (1.12.2005) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/101/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 8 para. 52(3)(a)](https://www.legislation.gov.uk/ukpga/2003/37/schedule/8/paragraph/52/3/a); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 3(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/3/c) (with [Sch. para. 8](https://www.legislation.gov.uk/uksi/2005/2714/schedule/paragraph/8))
 

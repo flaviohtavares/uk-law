@@ -35,37 +35,37 @@ An Act to make further provision in relation to tips associated with mines and q
 
 ## Part I — Security of Tips Associated with Mines and Quarries
 
-### 1. Security of certain tips and application of Mines and Quarries Act 1954.[^key-42581ddfd68a862ef339e9948cbb86d2]
+### 1. Security of certain tips and application of Mines and Quarries Act 1954.[^c-42581ddfd68a862ef339e9948cbb86d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Tips to which Part I applies.[^key-42581ddfd68a862ef339e9948cbb86d2]
+### 2. Tips to which Part I applies.[^c-42581ddfd68a862ef339e9948cbb86d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Duties of owners and managers and powers of inspectors.[^key-42581ddfd68a862ef339e9948cbb86d2]
+### 3. Duties of owners and managers and powers of inspectors.[^c-42581ddfd68a862ef339e9948cbb86d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Notification of beginning and ending of tipping operations.[^key-42581ddfd68a862ef339e9948cbb86d2]
+### 4. Notification of beginning and ending of tipping operations.[^c-42581ddfd68a862ef339e9948cbb86d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Tipping rules.[^key-42581ddfd68a862ef339e9948cbb86d2]
+### 5. Tipping rules.[^c-42581ddfd68a862ef339e9948cbb86d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Plans and sections of tips.[^key-42581ddfd68a862ef339e9948cbb86d2]
+### 6. Plans and sections of tips.[^c-42581ddfd68a862ef339e9948cbb86d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Transmission and preservation of plans, etc. relating to tips at abandoned mines and quarries.[^key-42581ddfd68a862ef339e9948cbb86d2]
+### 7. Transmission and preservation of plans, etc. relating to tips at abandoned mines and quarries.[^c-42581ddfd68a862ef339e9948cbb86d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8, 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c690629]
 
-### 10. Interpretation of Part I.[^key-1167f6c5ed5050ae42bc4664d8b13b44][^c690637][^c690638]
+### 10. Interpretation of Part I.[^c-1167f6c5ed5050ae42bc4664d8b13b44][^c690637][^c690638]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -75,7 +75,7 @@ An Act to make further provision in relation to tips associated with mines and q
 
 (1) For the purpose of ensuring that disused tips do not, by reason of instability, constitute a danger to members of the public, local authorities shall have the functions conferred on them by this Part of this Act.
 
-(2)[^key-dd08d2790f48a11d85f049b7b77f6a01] For the purposes of this Part of this Act a disused tip is a tip other than one to which the Quarries Regulations 1999 or the Mines Regulations 2014 apply.
+(2)[^c-dd08d2790f48a11d85f049b7b77f6a01] For the purposes of this Part of this Act a disused tip is a tip other than one to which the Quarries Regulations 1999 or the Mines Regulations 2014 apply.
 
 (3) In this Part of this Act “**local authority**”, . . . [^c690658] means—
 
@@ -83,7 +83,7 @@ An Act to make further provision in relation to tips associated with mines and q
 - (aa)[^c690662] in Wales, the council of a county or county borough, and
 - (b) in Scotland, a council constituted under section 2 of the Local Government[^c690663] etc. (Scotland) Act 1994.
 
-(3A)[^key-5bb0c0f2e6dcc575ce11f96311ccffd2] In this Part of this Act, “tip” means an accumulation or deposit of refuse from a mine or quarry (whether in a solid state or in solution or suspension) other than an accumulation or deposit situated underground, and where any wall or other structure retains or confines a tip then, whether or not that wall or structure is itself composed of refuse, it is deemed to form part of the tip for the purposes of this Part.
+(3A)[^c-5bb0c0f2e6dcc575ce11f96311ccffd2] In this Part of this Act, “tip” means an accumulation or deposit of refuse from a mine or quarry (whether in a solid state or in solution or suspension) other than an accumulation or deposit situated underground, and where any wall or other structure retains or confines a tip then, whether or not that wall or structure is itself composed of refuse, it is deemed to form part of the tip for the purposes of this Part.
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c690664]
 
@@ -417,7 +417,7 @@ the owner of the disused tip shall be entitled to recover from the contributory 
 
 *Extent: E+W*
 
-- In the application of this Part of this Act to England and Wales, “ **the court** ” means the High Court or the county court[^key-a5b2a7f7ab4e1f74729d8010fecac87d] .
+- In the application of this Part of this Act to England and Wales, “ **the court** ” means the High Court or the county court[^c-a5b2a7f7ab4e1f74729d8010fecac87d] .
 
 ### 29. Regulations and orders.
 
@@ -450,18 +450,18 @@ Provided that, if the person to or on whom the document to be given or served ha
 
 (1) No notice under section 14 may be served in respect of a disused tip if the land on which the tip is situated is ecclesiastical property, but nothing in this subsection affects the powers of a local authority under section 17.
 
-(2) Where under this Part of this Act a document is required or authorised to be given to, or served on, any person as occupier of, or owner of an estate or interest in, any land which is ecclesiastical property, a copy of the document shall be given to or served on the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* .
+(2) Where under this Part of this Act a document is required or authorised to be given to, or served on, any person as occupier of, or owner of an estate or interest in, any land which is ecclesiastical property, a copy of the document shall be given to or served on the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* .
 
-(3) Any compensation payable under section 20 to a person by virtue of his having an estate in fee simple in any land shall, if that land is ecclesiastical property, be paid (where the fee simple is vested in any person other than the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* ) to them *(Extent: E)* *(affected by repeal, see note)*[^key-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* instead of that person.
+(3) Any compensation payable under section 20 to a person by virtue of his having an estate in fee simple in any land shall, if that land is ecclesiastical property, be paid (where the fee simple is vested in any person other than the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* ) to them *(Extent: E)* *(affected by repeal, see note)*[^c-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* instead of that person.
 
-(4) Any sums paid under subsection (3) to the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* with reference to any land shall, if the land is not consecrated, be applied by them *(Extent: E)* *(affected by repeal, see note)*[^key-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* for the purposes for which the proceeds of a sale by agreement of the fee simple in the land would be applicable under any enactment or Measure authorising such a sale, and, if the land is consecrated, be applied by them *(Extent: E)* *(affected by repeal, see note)*[^key-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* in such a manner as they may determine *(Extent: E)* *(affected by repeal, see note)*[^key-352997b5a24c5db82daeaea6d6980c5e] as if the land had been sold under the Pastoral Measure 1983 *(Extent: E)* .
+(4) Any sums paid under subsection (3) to the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* with reference to any land shall, if the land is not consecrated, be applied by them *(Extent: E)* *(affected by repeal, see note)*[^c-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* for the purposes for which the proceeds of a sale by agreement of the fee simple in the land would be applicable under any enactment or Measure authorising such a sale, and, if the land is consecrated, be applied by them *(Extent: E)* *(affected by repeal, see note)*[^c-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* in such a manner as they may determine *(Extent: E)* *(affected by repeal, see note)*[^c-352997b5a24c5db82daeaea6d6980c5e] as if the land had been sold under the Pastoral Measure 1983 *(Extent: E)* .
 
-(5) Where the fee simple in any ecclesiastical property is in abeyance *(Extent: E)* *(affected by repeal, see note)*[^key-43b435d67125dd6f5b0fcb2c51a13cb2] Where any ecclesiastical property is vested in the incumbent of a benefice which is vacant *(Extent: E)* —
+(5) Where the fee simple in any ecclesiastical property is in abeyance *(Extent: E)* *(affected by repeal, see note)*[^c-43b435d67125dd6f5b0fcb2c51a13cb2] Where any ecclesiastical property is vested in the incumbent of a benefice which is vacant *(Extent: E)* —
 
-- (a) it shall be treated for the purposes of this Part of this Act as being vested in the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* ; and
-- (b) where, by virtue of paragraph (*a*) above, the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* are owners *(Extent: E)* *(affected by repeal, see note)*[^key-43b435d67125dd6f5b0fcb2c51a13cb2] is the owner *(Extent: E)* of land belonging to a benefice and, by virtue of their *(Extent: E)* *(affected by repeal, see note)*[^key-208209a6db365a312c5cee368d53e7d6] its *(Extent: E)* ownership of that land, are *(Extent: E)* *(affected by repeal, see note)*[^key-c68db6659b0cbb2b2dde1f02d3f47ff6] is *(Extent: E)* under a liability to pay any sum under this Part of this Act, either as owner of a disused tip or as a contributory, their *(Extent: E)* *(affected by repeal, see note)*[^key-208209a6db365a312c5cee368d53e7d6] its *(Extent: E)* liability shall be met from, and shall not exceed the total of, the sums held by them *(Extent: E)* *(affected by repeal, see note)*[^key-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* for that benefice.
+- (a) it shall be treated for the purposes of this Part of this Act as being vested in the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* ; and
+- (b) where, by virtue of paragraph (*a*) above, the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* are owners *(Extent: E)* *(affected by repeal, see note)*[^c-43b435d67125dd6f5b0fcb2c51a13cb2] is the owner *(Extent: E)* of land belonging to a benefice and, by virtue of their *(Extent: E)* *(affected by repeal, see note)*[^c-208209a6db365a312c5cee368d53e7d6] its *(Extent: E)* ownership of that land, are *(Extent: E)* *(affected by repeal, see note)*[^c-c68db6659b0cbb2b2dde1f02d3f47ff6] is *(Extent: E)* under a liability to pay any sum under this Part of this Act, either as owner of a disused tip or as a contributory, their *(Extent: E)* *(affected by repeal, see note)*[^c-208209a6db365a312c5cee368d53e7d6] its *(Extent: E)* liability shall be met from, and shall not exceed the total of, the sums held by them *(Extent: E)* *(affected by repeal, see note)*[^c-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* for that benefice.
 
-(6) Where subsection (5) does not apply but a liability to pay any sum under this Part of this Act falls on any person, either as owner of a disused tip or as a contributory, by virtue of there being vested in him the fee simple in land belonging to a benefice, the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^key-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* may apply any sums held by them *(Extent: E)* *(affected by repeal, see note)*[^key-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* for that benefice in discharging the whole or any part of that liability.
+(6) Where subsection (5) does not apply but a liability to pay any sum under this Part of this Act falls on any person, either as owner of a disused tip or as a contributory, by virtue of there being vested in him the fee simple in land belonging to a benefice, the Church Commissioners *(Extent: E)* *(affected by repeal, see note)*[^c-e51238d27a3a73f2aa72c5c91a50efbc] Diocesan Board of Finance for the diocese in which the land is situated *(Extent: E)* may apply any sums held by them *(Extent: E)* *(affected by repeal, see note)*[^c-208209a6db365a312c5cee368d53e7d6] it *(Extent: E)* for that benefice in discharging the whole or any part of that liability.
 
 (7) In the foregoing provisions of this section “**benefice**” means an ecclesiastical benefice of the Church of England and “**ecclesiastical property**” means land belonging to a benefice or being or forming part of a church subject to the jurisdiction of the bishop of any diocese of the Church of England or the site of a church so subject, or being or forming part of a burial ground so subject.
 
@@ -481,8 +481,8 @@ and in the following provisions of this section the expression “**relevant exp
 
 (2) In relation to England and Wales—
 
-- (a) the purposes authorised for the application of capital moneys by section 73 of the [^c690701]Settled Land Act 1925 [^c690702]... [^key-c809094ee7ab649a8818e906c6e7088e]... shall include the payment of any relevant expenditure;
-- (b) the purposes authorised by section 71 of the [^c690704]Settled Land Act 1925 [^c690702]... [^key-cda131bb7b52e21fd1d5dd5960c66aad]... as purposes for which moneys may be raised by mortgage shall include the payment of any relevant expenditure;
+- (a) the purposes authorised for the application of capital moneys by section 73 of the [^c690701]Settled Land Act 1925 [^c690702]... [^c-c809094ee7ab649a8818e906c6e7088e]... shall include the payment of any relevant expenditure;
+- (b) the purposes authorised by section 71 of the [^c690704]Settled Land Act 1925 [^c690702]... [^c-cda131bb7b52e21fd1d5dd5960c66aad]... as purposes for which moneys may be raised by mortgage shall include the payment of any relevant expenditure;
 - (c) the purposes authorised by section 25 of the Act of the fifty-seventh year of King George the Third, chapter 97, for the application of moneys arising by any such sale of annuities standing in the name or to the account of the Duchy of Lancaster as is therein mentioned shall include the payment of any relevant expenditure arising by virtue of the application of any provision of this Part of this Act to property belonging to Her Majesty in right of that Duchy; and
 - (d) the purposes authorised by section 8 of the [^c690707]Duchy of Cornwall Management Act 1863 for the advancement of parts of such gross sums as are therein mentioned shall include the payment of any relevant expenditure arising by virtue of the application of any provision of this Part of this Act to property belonging to the Duchy of Cornwall.
 
@@ -510,9 +510,9 @@ In the application of this Part of this Act in England and Wales, the following 
 
 (2) A local authority in Scotland may by agreement with the owner of a disused tip themselves execute at his expense any works which they have under this Part of this Act required him to execute, and for that purpose they shall have all such rights as he would have.
 
-(3) In the application of this Part of this Act to Scotland, the provisions of the following enactments shall apply for any purpose of this Part of this Act as they apply for the purposes of the respective enactments, and as if any reference in these enactments to any local authority and, in the case of section 37(3) of the Building (Scotland) Act 2003 (asp 8), the reference to “any such person”[^key-860100490ba737ec46b015e774982256] were a reference to a local authority within the meaning of this Part of this Act, that is to say,—
+(3) In the application of this Part of this Act to Scotland, the provisions of the following enactments shall apply for any purpose of this Part of this Act as they apply for the purposes of the respective enactments, and as if any reference in these enactments to any local authority and, in the case of section 37(3) of the Building (Scotland) Act 2003 (asp 8), the reference to “any such person”[^c-860100490ba737ec46b015e774982256] were a reference to a local authority within the meaning of this Part of this Act, that is to say,—
 
-- (a) section 37(3) and (4) of the Building (Scotland) Act 2003 (power[^key-b05108a99609190913ff961d7463c1e9] to require information as to ownership of premises);
+- (a) section 37(3) and (4) of the Building (Scotland) Act 2003 (power[^c-b05108a99609190913ff961d7463c1e9] to require information as to ownership of premises);
 - (b) section 166 of the [^c690712]Public Health (Scotland) Act 1897 (protection of members and officers of local authorities from personal liability);
 - (c) section 16 of the [^c690713]Land Drainage (Scotland) Act 1958 (Crown rights).
 
@@ -548,7 +548,7 @@ In the application of this Part of this Act in Scotland—
   - (i) is either the fee simple or a tenancy for a specific term which has not less than one year unexpired and is not a mortgage term; and
   - (ii) is not in reversion expectant on the termination of such a tenancy; and
 - (b) with respect to Scotland.
-  - (i) except in a case to which sub-paragraph (ii) of this paragraph applies, the proprietor of the dominium utile or, in the case of land not held on feudal tenure, the proprietor, of *(Extent: S.)* *(affected by repeal, see note)*[^key-6013b411bd4bcaeff929281636d28495] the land on which the tip is situated;
+  - (i) except in a case to which sub-paragraph (ii) of this paragraph applies, the proprietor of the dominium utile or, in the case of land not held on feudal tenure, the proprietor, of *(Extent: S.)* *(affected by repeal, see note)*[^c-6013b411bd4bcaeff929281636d28495] the land on which the tip is situated;
   - (ii) in any case where the land on which the tip is situated is subject to a lease, not being an excluded lease, the tenant who is in possession of the land under the lease or who would, but for the existence of a sub-lease which is an excluded lease, be entitled to such possession.
 
     In this sub-paragraph “**excluded lease**” means a lease for a year or from year to year or for a lesser period, or any other lease the unexpired period of which does not exceed a year; “**lease**” includes sub-lease; and “**tenant**” includes sub-tenant:
@@ -588,37 +588,37 @@ There shall be defrayed out of moneys provided by Parliament—
 
 SCHEDULES
 
-## SCHEDULE 1 — Modifications of Mines and Quarries Act 1954[^key-3f951961b6ce33ef82e89dec0eabb212]
+## SCHEDULE 1 — Modifications of Mines and Quarries Act 1954[^c-3f951961b6ce33ef82e89dec0eabb212]
 
 Section 1.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3f951961b6ce33ef82e89dec0eabb212] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Provisions applicable where Local Authority carries out Remedial Operations on Disused Tip of which it is Owner
 
@@ -763,11 +763,11 @@ sections 21 and 22 shall have effect subject to the modifications specified in t
 
 [^c690466]: Modification: Act amended by [S.I. 1989/635](https://www.legislation.gov.uk/uksi/1989/635), [reg. 33(3)](https://www.legislation.gov.uk/uksi/1989/635/regulation/33/3)
 
-[^key-42581ddfd68a862ef339e9948cbb86d2]: Textual amendment: Ss. 1-7 repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-42581ddfd68a862ef339e9948cbb86d2]: Textual amendment: Ss. 1-7 repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c690629]: Textual amendment: [Ss. 8](https://www.legislation.gov.uk/ukpga/1969/10/section/8), [9](https://www.legislation.gov.uk/ukpga/1969/10/section/9) repealed by [S.I. 1974/2013](https://www.legislation.gov.uk/uksi/1974/2013), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1974/2013/schedule/1/part/II)
 
-[^key-1167f6c5ed5050ae42bc4664d8b13b44]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1969/10/section/10) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-1167f6c5ed5050ae42bc4664d8b13b44]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1969/10/section/10) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c690637]: Modification: Ss. 1–10 amended by [S.I. 1990/1380](https://www.legislation.gov.uk/uksi/1990/1380), [regs. 3](https://www.legislation.gov.uk/uksi/1990/1380/regulation/3), [4](https://www.legislation.gov.uk/uksi/1990/1380/regulation/4)
 
@@ -775,7 +775,7 @@ sections 21 and 22 shall have effect subject to the modifications specified in t
 
 [^c690638]: Modification: Ss. 1-10 saved by virtue of Health and Safety at [Work Act 1974 (c. 37, SIF 43:3)](https://www.legislation.gov.uk/ukpga/1974/37), [s. 53](https://www.legislation.gov.uk/ukpga/1974/37/section/53), [Sch. 1](https://www.legislation.gov.uk/ukpga/1974/37/schedule/1) and [Highland Regional Council (Harbours) Order Confirmation Act 1991 (c. xii)](https://www.legislation.gov.uk/ukla/1991/12), [s. 61(1)(f)](https://www.legislation.gov.uk/ukla/1991/12/section/61/1/f).
 
-[^key-dd08d2790f48a11d85f049b7b77f6a01]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukpga/1969/10/section/11/2) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 3(a)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-dd08d2790f48a11d85f049b7b77f6a01]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukpga/1969/10/section/11/2) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 3(a)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/3/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c690658]: Textual amendment: Words repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
@@ -787,7 +787,7 @@ sections 21 and 22 shall have effect subject to the modifications specified in t
 
 [^c690663]: Textual amendment: Words in s. 11(3)(b) substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 81](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/81) (with [s. 128(8)](https://www.legislation.gov.uk/ukpga/1994/39/section/128/8)); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4](https://www.legislation.gov.uk/uksi/1996/323/article/4)
 
-[^key-5bb0c0f2e6dcc575ce11f96311ccffd2]: Textual amendment: [S. 11(3A)](https://www.legislation.gov.uk/ukpga/1969/10/section/11/3A) inserted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 3(b)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-5bb0c0f2e6dcc575ce11f96311ccffd2]: Textual amendment: [S. 11(3A)](https://www.legislation.gov.uk/ukpga/1969/10/section/11/3A) inserted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 3(b)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/3/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c690664]: Textual amendment: S. 11(4) repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
@@ -819,7 +819,7 @@ sections 21 and 22 shall have effect subject to the modifications specified in t
 
 [^c690684]: Modification: S. 28: by [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/1991/724/article/2/1/e) it is provided that a county court shall have jurisdiction under s. 28(3) (with saving for certain proceedings in art. 12)
 
-[^key-a5b2a7f7ab4e1f74729d8010fecac87d]: Textual amendment: Words in [s. 28](https://www.legislation.gov.uk/ukpga/1969/10/section/28) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-a5b2a7f7ab4e1f74729d8010fecac87d]: Textual amendment: Words in [s. 28](https://www.legislation.gov.uk/ukpga/1969/10/section/28) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c690686]: Textual amendment: Words substituted by virtue of [Interpretation Act 1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1978/30/section/25/2)
 
@@ -833,25 +833,25 @@ sections 21 and 22 shall have effect subject to the modifications specified in t
 
 [^c690691]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).
 
-[^key-e51238d27a3a73f2aa72c5c91a50efbc]: Textual amendment: Words in s. 31 substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/a); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-e51238d27a3a73f2aa72c5c91a50efbc]: Textual amendment: Words in s. 31 substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(a)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/a); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-208209a6db365a312c5cee368d53e7d6]: Textual amendment: Words in s. 31 substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(b)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/b); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-208209a6db365a312c5cee368d53e7d6]: Textual amendment: Words in s. 31 substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(b)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/b); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-352997b5a24c5db82daeaea6d6980c5e]: Textual amendment: Words in s. 31(4) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/c); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-352997b5a24c5db82daeaea6d6980c5e]: Textual amendment: Words in s. 31(4) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(c)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/c); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-43b435d67125dd6f5b0fcb2c51a13cb2]: Textual amendment: Words in s. 31(5) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/d); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-43b435d67125dd6f5b0fcb2c51a13cb2]: Textual amendment: Words in s. 31(5) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/d); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
-[^key-c68db6659b0cbb2b2dde1f02d3f47ff6]: Textual amendment: Word in s. 31(5) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/d); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
+[^c-c68db6659b0cbb2b2dde1f02d3f47ff6]: Textual amendment: Word in s. 31(5) substituted (E.) (1.10.2006) by [Church of England (Miscellaneous Provisions) Measure 2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1), [s. 16(2)](https://www.legislation.gov.uk/ukcm/2006/1/section/16/2), [Sch. 5 para. 16(d)](https://www.legislation.gov.uk/ukcm/2006/1/schedule/5/paragraph/16/d); [S.I. 2006/2](https://www.legislation.gov.uk/ukci/2006/2), Instrument made by Archbishops
 
 [^c690701]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
 [^c690702]: Textual amendment: Words in s. 32(2)(a)(b) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
-[^key-c809094ee7ab649a8818e906c6e7088e]: Textual amendment: Words in s. 32(2)(a) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/10/a); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-c809094ee7ab649a8818e906c6e7088e]: Textual amendment: Words in s. 32(2)(a) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/10/a); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c690704]: Marginal citation: [1925 c. 18](https://www.legislation.gov.uk/ukpga/1925/18).
 
-[^key-cda131bb7b52e21fd1d5dd5960c66aad]: Textual amendment: Words in s. 32(2)(b) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/10/b); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-cda131bb7b52e21fd1d5dd5960c66aad]: Textual amendment: Words in s. 32(2)(b) omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/10/b); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
 
 [^c690707]: Marginal citation: [1863 c. 49](https://www.legislation.gov.uk/ukpga/1863/49).
 
@@ -859,9 +859,9 @@ sections 21 and 22 shall have effect subject to the modifications specified in t
 
 [^c690709]: Textual amendment: [S. 33](https://www.legislation.gov.uk/ukpga/1969/10/section/33)(*b*)(*d*) repealed by [Local Government (Miscellaneous Provisions) Act 1976 (c. 57)](https://www.legislation.gov.uk/ukpga/1976/57), [Sch. 2](https://www.legislation.gov.uk/ukpga/1976/57/schedule/2)
 
-[^key-860100490ba737ec46b015e774982256]: Textual amendment: Words in [s. 34(3)](https://www.legislation.gov.uk/ukpga/1969/10/section/34/3) inserted (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/3/a) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-860100490ba737ec46b015e774982256]: Textual amendment: Words in [s. 34(3)](https://www.legislation.gov.uk/ukpga/1969/10/section/34/3) inserted (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 3(a)](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/3/a) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
-[^key-b05108a99609190913ff961d7463c1e9]: Textual amendment: Words in [s. 34(3)(a)](https://www.legislation.gov.uk/ukpga/1969/10/section/34/3/a) substituted (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 3(b)](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/3/b) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-b05108a99609190913ff961d7463c1e9]: Textual amendment: Words in [s. 34(3)(a)](https://www.legislation.gov.uk/ukpga/1969/10/section/34/3/a) substituted (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 3(b)](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/3/b) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
 [^c690712]: Marginal citation: [1897 c. 38](https://www.legislation.gov.uk/ukpga/1897/38).
 
@@ -871,12 +871,12 @@ sections 21 and 22 shall have effect subject to the modifications specified in t
 
 [^c690715]: Textual amendment: Words substituted by virtue of [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1970/1681/article/2/1), [6(3)](https://www.legislation.gov.uk/uksi/1970/1681/article/6/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1970/1681/schedule/1)
 
-[^key-6013b411bd4bcaeff929281636d28495]: Textual amendment: Words in [s. 36(3)(b)](https://www.legislation.gov.uk/ukpga/1969/10/section/36/3/b)[(i)](https://www.legislation.gov.uk/ukpga/1969/10/section/36/I) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-6013b411bd4bcaeff929281636d28495]: Textual amendment: Words in [s. 36(3)(b)](https://www.legislation.gov.uk/ukpga/1969/10/section/36/3/b)[(i)](https://www.legislation.gov.uk/ukpga/1969/10/section/36/I) repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pts. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c690720]: Marginal citation: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70).
 
 [^c690721]: Modification: Power of appointment conferred by s. 38(3) fully exercised
 
-[^key-3f951961b6ce33ef82e89dec0eabb212]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1969/10/schedule/1) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-3f951961b6ce33ef82e89dec0eabb212]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1969/10/schedule/1) repealed (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3248/schedule/3/part/1) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c690727]: Textual amendment: Words substituted by [Limitation Act 1980 (c. 58, SIF 79)](https://www.legislation.gov.uk/ukpga/1980/58), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/1980/58/schedule/3/paragraph/8)

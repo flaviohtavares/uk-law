@@ -59,7 +59,7 @@ summary: ''
 - “**ship**” includes every description of vessel used in navigation;
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c4802411]
 - “**statutory provision**” means a provision whether of a general or of a special nature contained in, or in any document made or issued under, any Act, whether of a general or a special nature;
-- “**subsidiary**”, in relation to any body corporate, means a body corporate which is a subsidiary of the first mentioned body corporate as defined by section 1159 of the Companies Act 2006[^key-2ebd401a00cacb67f48dded253b63da4] . . . [^c4802501];
+- “**subsidiary**”, in relation to any body corporate, means a body corporate which is a subsidiary of the first mentioned body corporate as defined by section 1159 of the Companies Act 2006[^c-2ebd401a00cacb67f48dded253b63da4] . . . [^c4802501];
 - “**vesting date**” has the meaning assigned to it by section thirty-one of this Act;
 - “**wholly-owned subsidiary**” means a subsidiary all the securities of which are owned by the body of which it is a subsidiary, or by one or more other wholly-owned subsidiaries of that body, or partly by that body and partly by any wholly-owned subsidiary of that body.
 
@@ -83,7 +83,7 @@ summary: ''
 
 [^c4802471]: Marginal citation: [1960 c. 16](https://www.legislation.gov.uk/ukpga/1960/16).
 
-[^key-2ebd401a00cacb67f48dded253b63da4]: Textual amendment: Words in [s. 92(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/92/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-2ebd401a00cacb67f48dded253b63da4]: Textual amendment: Words in [s. 92(1)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/92/1) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/9) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c4802501]: Textual amendment: Words repealed by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [s. 144(4)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/4), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/1989/40/schedule/18/paragraph/4) and expressed to be repealed (1.4.1994) by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 152(3)](https://www.legislation.gov.uk/ukpga/1993/43/section/152/3), [Sch.14](https://www.legislation.gov.uk/ukpga/1993/43/schedule/14); [S.I. 1994/571](https://www.legislation.gov.uk/uksi/1994/571), [art. 5](https://www.legislation.gov.uk/uksi/1994/571/article/5).
 

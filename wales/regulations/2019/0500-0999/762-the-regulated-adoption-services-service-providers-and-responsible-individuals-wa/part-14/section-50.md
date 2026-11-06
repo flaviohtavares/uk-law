@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Statement of compliance with the requirements as to standards of support[^key-1e346627c690cc024396c8e647c4ffb8]
+## 50. Statement of compliance with the requirements as to standards of support[^c-1e346627c690cc024396c8e647c4ffb8]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e346627c690cc024396c8e647c4ffb8]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2019/762/regulation/50) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)
+[^c-1e346627c690cc024396c8e647c4ffb8]: Commencement: [Reg. 50](https://www.legislation.gov.uk/wsi/2019/762/regulation/50) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/762/regulation/1/2)

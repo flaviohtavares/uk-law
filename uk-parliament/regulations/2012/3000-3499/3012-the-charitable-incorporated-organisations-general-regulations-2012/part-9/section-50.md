@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Sending or supplying documents or information[^key-3a0e9e1027e99c76e6d00c9c4c8fa637]
+## 50. Sending or supplying documents or information[^c-3a0e9e1027e99c76e6d00c9c4c8fa637]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a0e9e1027e99c76e6d00c9c4c8fa637]: Commencement: Reg. 50 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-3a0e9e1027e99c76e6d00c9c4c8fa637]: Commencement: Reg. 50 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

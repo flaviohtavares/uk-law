@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173. Service supervision and punishment orders[^key-5aa22c9732a5734fa91118cc12957e16][^key-9a8766b79ccbb727c29a81acb61a8ce2]
+## 173. Service supervision and punishment orders[^c-5aa22c9732a5734fa91118cc12957e16][^c-9a8766b79ccbb727c29a81acb61a8ce2]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ and the descriptions of activities that may be prescribed include extra work and
 
 ## Annotations
 
-[^key-5aa22c9732a5734fa91118cc12957e16]: Commencement: S. 173 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-5aa22c9732a5734fa91118cc12957e16]: Commencement: S. 173 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-9a8766b79ccbb727c29a81acb61a8ce2]: Commencement: S. 173 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9a8766b79ccbb727c29a81acb61a8ce2]: Commencement: S. 173 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

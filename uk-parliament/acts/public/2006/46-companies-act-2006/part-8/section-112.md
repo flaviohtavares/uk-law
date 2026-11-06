@@ -24,9 +24,9 @@ summary: ''
 
 (2)[^c20589121] Every other person who agrees to become a member of a company, and whose name is entered in its register of members, is a member of the company.
 
-(3)[^key-6bcf754715ced3e9daa80e4178592faa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6bcf754715ced3e9daa80e4178592faa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-d4e192152a4d8835e955a8daf5d3f9fa] Where an individual’s name is entered in a company’s register of members but is not in the form required by section 113A, that does not affect the person becoming a member of the company by virtue of subsection (2).
+(4)[^c-d4e192152a4d8835e955a8daf5d3f9fa] Where an individual’s name is entered in a company’s register of members but is not in the form required by section 113A, that does not affect the person becoming a member of the company by virtue of subsection (2).
 
 ## Annotations
 
@@ -36,6 +36,6 @@ summary: ''
 
 [^c20589121]: Modification: S. 112(2) excluded by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [Sch. 3 para. 15(2)](https://www.legislation.gov.uk/ukpga/2002/15/schedule/3/paragraph/15/2) (as substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1941/article/2/1), [Sch. 1 para. 195(11)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/195/11) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10)))
 
-[^key-6bcf754715ced3e9daa80e4178592faa]: Textual amendment: S. 112(3) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/2); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-6bcf754715ced3e9daa80e4178592faa]: Textual amendment: S. 112(3) omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2023/56/schedule/1/paragraph/2); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
 
-[^key-d4e192152a4d8835e955a8daf5d3f9fa]: Textual amendment: [S. 112(4)](https://www.legislation.gov.uk/ukpga/2006/46/section/112/4) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-d4e192152a4d8835e955a8daf5d3f9fa]: Textual amendment: [S. 112(4)](https://www.legislation.gov.uk/ukpga/2006/46/section/112/4) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)

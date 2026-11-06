@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Exclusive licence[^key-8ac1e6a3cdacc95a72160567362dc989][^key-7caef4ddf93625e9268711b7a230c230]
+## 8. Exclusive licence[^c-8ac1e6a3cdacc95a72160567362dc989][^c-7caef4ddf93625e9268711b7a230c230]
 
 *Extent: E+W+S*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8ac1e6a3cdacc95a72160567362dc989]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/2004/25/section/8) modified by SI 2006/3272 art. 7(1) (as inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [5](https://www.legislation.gov.uk/uksi/2007/2169/article/5))
+[^c-8ac1e6a3cdacc95a72160567362dc989]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/2004/25/section/8) modified by SI 2006/3272 art. 7(1) (as inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [5](https://www.legislation.gov.uk/uksi/2007/2169/article/5))
 
-[^key-7caef4ddf93625e9268711b7a230c230]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/25/section/8) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
+[^c-7caef4ddf93625e9268711b7a230c230]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2004/25/section/8) in force at 25.2.2011 by [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)

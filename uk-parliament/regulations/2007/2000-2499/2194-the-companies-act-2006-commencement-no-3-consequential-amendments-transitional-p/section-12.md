@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. General savings[^key-ac3cce45ccf41d6ec6f73023346d7c83]
+## 12. General savings[^c-ac3cce45ccf41d6ec6f73023346d7c83]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ac3cce45ccf41d6ec6f73023346d7c83]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) in force in accordance with [art. 1(3)(e)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/e)
+[^c-ac3cce45ccf41d6ec6f73023346d7c83]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12) in force in accordance with [art. 1(3)(e)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/e)
 
 [^f00008]: Footnote: [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090).
 

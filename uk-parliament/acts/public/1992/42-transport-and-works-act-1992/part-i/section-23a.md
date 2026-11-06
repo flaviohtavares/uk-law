@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23A. Fees for certain services in connection with orders[^key-69ffa5f687ffc8e61338834d6150b78a]
+## 23A. Fees for certain services in connection with orders[^c-69ffa5f687ffc8e61338834d6150b78a]
 
 *Extent: E+W+S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69ffa5f687ffc8e61338834d6150b78a]: Textual amendment: S. 23A inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 42](https://www.legislation.gov.uk/ukpga/2025/34/section/42), [118(1)(x)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/x) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-69ffa5f687ffc8e61338834d6150b78a]: Textual amendment: S. 23A inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 42](https://www.legislation.gov.uk/ukpga/2025/34/section/42), [118(1)(x)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/x) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))

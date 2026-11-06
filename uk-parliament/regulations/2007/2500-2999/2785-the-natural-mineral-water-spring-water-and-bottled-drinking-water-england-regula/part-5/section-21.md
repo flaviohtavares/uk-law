@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Defences[^key-b81029f603e574ad0a2dbe82bda7434b]
+## 21. Defences[^c-b81029f603e574ad0a2dbe82bda7434b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b81029f603e574ad0a2dbe82bda7434b]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/2785/regulation/21) omitted (6.4.2018) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2018/352/regulation/8/c)
+[^c-b81029f603e574ad0a2dbe82bda7434b]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/2785/regulation/21) omitted (6.4.2018) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2018 (S.I. 2018/352)](https://www.legislation.gov.uk/uksi/2018/352), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/352/regulation/1/1), [8(c)](https://www.legislation.gov.uk/uksi/2018/352/regulation/8/c)

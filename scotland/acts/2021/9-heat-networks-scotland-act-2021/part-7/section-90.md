@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Compensation in connection with transfer schemes[^key-1a50b39e6527ead3799dc3b12a9cea4b]
+## 90. Compensation in connection with transfer schemes[^c-1a50b39e6527ead3799dc3b12a9cea4b]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a50b39e6527ead3799dc3b12a9cea4b]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2021/9/section/90) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)
+[^c-1a50b39e6527ead3799dc3b12a9cea4b]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2021/9/section/90) in force at 16.1.2023 by [S.S.I. 2022/376](https://www.legislation.gov.uk/ssi/2022/376), [reg. 2](https://www.legislation.gov.uk/ssi/2022/376/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2022/376/schedule)

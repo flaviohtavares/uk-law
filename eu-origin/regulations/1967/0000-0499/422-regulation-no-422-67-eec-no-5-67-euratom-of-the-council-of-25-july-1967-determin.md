@@ -66,66 +66,66 @@ of 25 July 1967
 
 determining the emoluments of the President and Members of the Commission, of the President, Judges, Advocates-General and Registrar of the Court of Justice, of the President, Members and Registrar of the General Court and of the President, Members and Registrar of the European Union Civil Service Tribunal (repealed) (revoked)
 
-[^key-1fbf03afb359803e3b48ce8e956ff3d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fbf03afb359803e3b48ce8e956ff3d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4a.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4a.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4b.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4b.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 17.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 19.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 19.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 19a.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 19a.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 20.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 20.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 21.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 21.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 21a.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 21a.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 21b.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 21b.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 21c.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 21c.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 22.**[^key-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 22.**[^c-1fbf03afb359803e3b48ce8e956ff3d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1fbf03afb359803e3b48ce8e956ff3d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fbf03afb359803e3b48ce8e956ff3d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1fbf03afb359803e3b48ce8e956ff3d4]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fbf03afb359803e3b48ce8e956ff3d4]: Textual amendment: Regulation revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

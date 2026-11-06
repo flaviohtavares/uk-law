@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32. Calculation of capital in the United Kingdom[^key-4932b0a0b0accaebbb42fe4217cccb4f]
+## 32. Calculation of capital in the United Kingdom[^c-4932b0a0b0accaebbb42fe4217cccb4f]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Capital which a claimant possesses in the United Kingdom shall be calculated—
 
 ## Annotations
 
-[^key-4932b0a0b0accaebbb42fe4217cccb4f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1992/1814/regulation/32) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-4932b0a0b0accaebbb42fe4217cccb4f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1992/1814/regulation/32) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

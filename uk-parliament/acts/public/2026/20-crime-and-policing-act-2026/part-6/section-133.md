@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Guidance about disclosure of information by police: Northern Ireland[^key-9d800c966f73a7098d58c8206e7b0323]
+## 133. Guidance about disclosure of information by police: Northern Ireland[^c-9d800c966f73a7098d58c8206e7b0323]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ In the Protection from Stalking Act (Northern Ireland) [2022 (c. 17 (N.I.))](htt
 
 ## Annotations
 
-[^key-9d800c966f73a7098d58c8206e7b0323]: Commencement: S. 133 not in force at Royal Assent, see [s. 255(8)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/j)
+[^c-9d800c966f73a7098d58c8206e7b0323]: Commencement: S. 133 not in force at Royal Assent, see [s. 255(8)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/j)

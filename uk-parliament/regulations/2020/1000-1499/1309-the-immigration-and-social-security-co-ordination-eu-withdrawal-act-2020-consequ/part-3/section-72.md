@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Amendment of the Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006[^key-028a4bd85b21378c936e95467e4bb8ff][^M_I_947a7b9d-e32c-4c63-a5a3-54d7c55ea366]
+## 72. Amendment of the Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006[^c-028a4bd85b21378c936e95467e4bb8ff][^M_I_947a7b9d-e32c-4c63-a5a3-54d7c55ea366]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,7 +65,7 @@ summary: ''
 
 ## Annotations
 
-[^key-028a4bd85b21378c936e95467e4bb8ff]: Commencement: Reg. 72 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-028a4bd85b21378c936e95467e4bb8ff]: Commencement: Reg. 72 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_947a7b9d-e32c-4c63-a5a3-54d7c55ea366]: Commencement: Reg. 72 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

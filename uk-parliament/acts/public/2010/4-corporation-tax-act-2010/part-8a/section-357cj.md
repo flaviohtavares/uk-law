@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357CJ. Routine deductions[^key-124eefd1ef456fed7e5ae89f48a108ca][^key-3f3b3eec0117028f84fab3c68f3024c2]
+## 357CJ. Routine deductions[^c-124eefd1ef456fed7e5ae89f48a108ca][^c-3f3b3eec0117028f84fab3c68f3024c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-124eefd1ef456fed7e5ae89f48a108ca]: Textual amendment: [S. 357CK](https://www.legislation.gov.uk/ukpga/2010/4/section/357CK) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/9)
+[^c-124eefd1ef456fed7e5ae89f48a108ca]: Textual amendment: [S. 357CK](https://www.legislation.gov.uk/ukpga/2010/4/section/357CK) omitted (15.9.2016) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 9 para. 9](https://www.legislation.gov.uk/ukpga/2016/24/schedule/9/paragraph/9)
 
-[^key-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)
+[^c-3f3b3eec0117028f84fab3c68f3024c2]: Textual amendment: Pt. 8A inserted (with effect in accordance with [Sch. 2 paras. 7, 8](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1)

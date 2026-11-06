@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46F. Disclosure of information, copying of documents etc.[^key-792d3d207261ae0143b4fac7ae821867]
+## 46F. Disclosure of information, copying of documents etc.[^c-792d3d207261ae0143b4fac7ae821867]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) An unexplained wealth order has effect in spite of any restriction on the disclosure of information (however imposed).
 
-(3) The Scottish Ministers may take copies of any documents produced by the respondent or any specified responsible officer[^key-37b4a98c2d1fff0bdf35ad59ad141584] in connection with complying with such a requirement.
+(3) The Scottish Ministers may take copies of any documents produced by the respondent or any specified responsible officer[^c-37b4a98c2d1fff0bdf35ad59ad141584] in connection with complying with such a requirement.
 
 (4) Documents so produced may also be retained for so long as it is necessary to retain them (as opposed to a copy of them) in connection with an external investigation in relation to the property in respect of which the unexplained wealth order is made.
 
@@ -39,6 +39,6 @@ they may be retained until the proceedings are concluded.
 
 ## Annotations
 
-[^key-792d3d207261ae0143b4fac7ae821867]: Textual amendment: Arts. 46A-46H inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [13](https://www.legislation.gov.uk/uksi/2018/1078/article/13)
+[^c-792d3d207261ae0143b4fac7ae821867]: Textual amendment: Arts. 46A-46H inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [13](https://www.legislation.gov.uk/uksi/2018/1078/article/13)
 
-[^key-37b4a98c2d1fff0bdf35ad59ad141584]: Textual amendment: Words in [art. 46F(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/46F/3) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [18(5)](https://www.legislation.gov.uk/uksi/2024/1127/article/18/5)
+[^c-37b4a98c2d1fff0bdf35ad59ad141584]: Textual amendment: Words in [art. 46F(3)](https://www.legislation.gov.uk/uksi/2013/2605/article/46F/3) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [18(5)](https://www.legislation.gov.uk/uksi/2024/1127/article/18/5)

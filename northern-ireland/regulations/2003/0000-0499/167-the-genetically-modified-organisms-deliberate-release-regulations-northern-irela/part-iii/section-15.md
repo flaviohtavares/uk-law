@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Exempt activities[^key-1f90b4eab00cde41e22d1ba18b09ec35]
+## 15. Exempt activities[^c-1f90b4eab00cde41e22d1ba18b09ec35]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ The cases and circumstances prescribed for the purposes of Article 5(7) and Arti
 
 ## Annotations
 
-[^key-1f90b4eab00cde41e22d1ba18b09ec35]: Commencement: Reg. 15 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-1f90b4eab00cde41e22d1ba18b09ec35]: Commencement: Reg. 15 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
 
 [^f00015]: Footnote: O.J. No. L214, 24.8.1993, p. 1
 

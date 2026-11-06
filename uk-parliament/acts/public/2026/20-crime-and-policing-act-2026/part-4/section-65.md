@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Controlling another’s home for criminal purposes[^key-60179078f1c21d678c28e28e8a12232e]
+## 65. Controlling another’s home for criminal purposes[^c-60179078f1c21d678c28e28e8a12232e]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60179078f1c21d678c28e28e8a12232e]: Commencement: S. 65 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-60179078f1c21d678c28e28e8a12232e]: Commencement: S. 65 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

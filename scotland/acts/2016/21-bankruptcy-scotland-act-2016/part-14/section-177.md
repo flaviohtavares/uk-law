@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 177. Sequestration petition by qualified creditor[^key-7d8578a2638be4a323b4f74aeda85a11]
+## 177. Sequestration petition by qualified creditor[^c-7d8578a2638be4a323b4f74aeda85a11]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ present a petition to the sheriff for sequestration of the debtor's estate.
 
 ## Annotations
 
-[^key-7d8578a2638be4a323b4f74aeda85a11]: Commencement: S. 177 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-7d8578a2638be4a323b4f74aeda85a11]: Commencement: S. 177 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

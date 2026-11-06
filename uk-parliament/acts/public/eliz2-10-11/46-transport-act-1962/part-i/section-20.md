@@ -32,7 +32,7 @@ summary: ''
 
 (6) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c4791261]
 
-(7)[^c4791271] This section applies to the British Waterways Board [^key-4b4eb858383971f41ac5e8701c7b69ef] ... subject to the following modifications–
+(7)[^c4791271] This section applies to the British Waterways Board [^c-4b4eb858383971f41ac5e8701c7b69ef] ... subject to the following modifications–
 
 - (a) references to the Minister are to be read as references to the Scottish Ministers;
 - (b) references to the approval of the Treasury are omitted;
@@ -59,4 +59,4 @@ summary: ''
 
 [^c4791271]: Textual amendment: S. 20(7) inserted (1.4.2001) by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2000/3251/article/1/2/b), [2](https://www.legislation.gov.uk/uksi/2000/3251/article/2), [Sch. 2 para. 2(12)](https://www.legislation.gov.uk/uksi/2000/3251/schedule/2/paragraph/2/12) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2000/3251/article/4))
 
-[^key-4b4eb858383971f41ac5e8701c7b69ef]: Textual amendment: Words in s. 20(7) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/12) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-4b4eb858383971f41ac5e8701c7b69ef]: Textual amendment: Words in s. 20(7) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/12) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

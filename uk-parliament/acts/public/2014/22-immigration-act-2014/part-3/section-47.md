@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Revocation of driving licences on grounds of immigration status[^key-982bece63b2d3726cd5fdef4d0bd4df1]
+## 47. Revocation of driving licences on grounds of immigration status[^c-982bece63b2d3726cd5fdef4d0bd4df1]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-982bece63b2d3726cd5fdef4d0bd4df1]: Commencement: S. 47 in force at 14.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/e)
+[^c-982bece63b2d3726cd5fdef4d0bd4df1]: Commencement: S. 47 in force at 14.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/1820/article/2/e)

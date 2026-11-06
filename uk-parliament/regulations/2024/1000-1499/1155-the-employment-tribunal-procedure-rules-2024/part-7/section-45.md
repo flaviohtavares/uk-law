@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Timetabling[^key-4a7e1d82c766cef4abc66f690fff257a]
+## 45. Timetabling[^c-4a7e1d82c766cef4abc66f690fff257a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Tribunal may impose limits on the time that a party may take in presenting e
 
 ## Annotations
 
-[^key-4a7e1d82c766cef4abc66f690fff257a]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2024/1155/rule/45) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-4a7e1d82c766cef4abc66f690fff257a]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2024/1155/rule/45) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Arrangements for exercise of fire and rescue functions[^key-f7eb38eacc9e23d047f0d65fa3280b9a]
+## 43. Arrangements for exercise of fire and rescue functions[^c-f7eb38eacc9e23d047f0d65fa3280b9a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7eb38eacc9e23d047f0d65fa3280b9a]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2023/1432/article/43) in force at 7.5.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3)
+[^c-f7eb38eacc9e23d047f0d65fa3280b9a]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2023/1432/article/43) in force at 7.5.2024, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/3)

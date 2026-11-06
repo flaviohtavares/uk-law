@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43ZA. Termination fees: adjustment for DSR providers[^key-0674c04f9553a7ddf9a8d8fc1ba4a639]
+## 43ZA. Termination fees: adjustment for DSR providers[^c-0674c04f9553a7ddf9a8d8fc1ba4a639]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0674c04f9553a7ddf9a8d8fc1ba4a639]: Textual amendment: [Reg. 43ZA](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43ZA) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/12)
+[^c-0674c04f9553a7ddf9a8d8fc1ba4a639]: Textual amendment: [Reg. 43ZA](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43ZA) inserted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/12)

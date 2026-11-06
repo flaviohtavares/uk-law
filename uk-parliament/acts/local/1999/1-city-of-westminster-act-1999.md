@@ -40,19 +40,19 @@ WHEREAS—
 - (3) The purposes of this Act cannot be effected without the authority of Parliament:
 - (4) In relation to the promotion of the Bill for this Act the requirements of section 239 of the [^m00002]Local Government Act 1972 have been observed:
 
-May it therefore please Your Majesty that it may be enacted, and be it enacted, by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-29dc26dde72cb47ffd26f6b8be4d408e][^key-a84aebf795469c67598e3fcb8c72d2c5]
+May it therefore please Your Majesty that it may be enacted, and be it enacted, by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-29dc26dde72cb47ffd26f6b8be4d408e][^c-a84aebf795469c67598e3fcb8c72d2c5]
 
-## 1. Citation and commencement[^key-3b52c1094ae81a07e419c01c6a84aa9e]
+## 1. Citation and commencement[^c-3b52c1094ae81a07e419c01c6a84aa9e]
 
 (1) This Act may be cited as the City of Westminster Act 1999.
 
 (2) This Act shall come into operation at the end of the period of two months beginning with the date on which it is passed.
 
-## 2. Interpretation[^key-2d8e81925c0787c4e70bcd3d01494b5e]
+## 2. Interpretation[^c-2d8e81925c0787c4e70bcd3d01494b5e]
 
-(1)[^key-df7974ecebfb1bd8095a35d77cd7cb81] In this Act, except as otherwise expressly provided or unless the context otherwise requires—
+(1)[^c-df7974ecebfb1bd8095a35d77cd7cb81] In this Act, except as otherwise expressly provided or unless the context otherwise requires—
 
-- [^key-70827574eaacbdf4ed0d28c80207ce23]...
+- [^c-70827574eaacbdf4ed0d28c80207ce23]...
 - “the city” means the City of Westminster;
 - “the Commissioner” means the Commissioner of Police of the Metropolis;
 - “the council” means the Westminster City Council;
@@ -63,27 +63,27 @@ May it therefore please Your Majesty that it may be enacted, and be it enacted, 
 - “receptacle” includes a vehicle, trailer or stall and any basket, bag, box, vessel, stand, easel, board, tray or thing which is used (whether or not constructed or adapted for such use) as a container for or for the display of any article or thing or equipment used in the provision of any service;
 - “street” includes—
   - (a) any road or footway;
-  - (b) any other area, not being within permanently enclosed premises, within 7 metres of any road or footway, to which the public obtain access without payment—[^key-2b279b812b480944fea1002b0a72fe24]
+  - (b) any other area, not being within permanently enclosed premises, within 7 metres of any road or footway, to which the public obtain access without payment—[^c-2b279b812b480944fea1002b0a72fe24]
     - (i) whether or not they need the consent of the owner or occupier; and
     - (ii) if they do, whether or not they have obtained it;
   - (c) any part of such road, footway or area;
   - (d) any part of any housing development provided or maintained by a local authority under Part II of the [^m00003]Housing Act 1985;
-- “street trading” means, subject to subsections (1A) and (2)[^key-bec70c68b74d984c59cf4c904380e745][^key-088c8bf191e70f97aab855cadca9d73c] below and section 3 (Exemptions) of this Act—
+- “street trading” means, subject to subsections (1A) and (2)[^c-bec70c68b74d984c59cf4c904380e745][^c-088c8bf191e70f97aab855cadca9d73c] below and section 3 (Exemptions) of this Act—
   - (a) the selling, offering for sale, display or exposing for sale of any article (including a living thing); and
-  - (aa) the purchasing of or offering to purchase any ticket for gain or reward; and[^key-ffb9a9ec15003d315750a89af73a2b80]
-  - (b) the supplying or offering to supply a service for gain or reward (whether or not the gain or reward accrues to the person actually carrying out the trading)[^key-b140a189f90c720ac06f5604c62345be],
+  - (aa) the purchasing of or offering to purchase any ticket for gain or reward; and[^c-ffb9a9ec15003d315750a89af73a2b80]
+  - (b) the supplying or offering to supply a service for gain or reward (whether or not the gain or reward accrues to the person actually carrying out the trading)[^c-b140a189f90c720ac06f5604c62345be],
 
   in a street;
 - “street trading licence” means a licence granted under this Act but excludes a temporary licence;
 - “street trading pitch” means the area authorised by a street trading licence or a temporary licence for street trading purposes;
 - “temporary licence” means a licence granted under this Act for one or more days not exceeding six months.
 
-(1A)[^key-4c3d1893dfc55dabb4f02c0440a8e894] In this Act ”street trading" shall also include the selling or exposure or offer for sale of any motor vehicle in the course of business if the vehicle is—
+(1A)[^c-4c3d1893dfc55dabb4f02c0440a8e894] In this Act ”street trading" shall also include the selling or exposure or offer for sale of any motor vehicle in the course of business if the vehicle is—
 
 - (a) exposed or offered for sale on the internet; and
 - (b) kept on a street during the period when it is so exposed or offered for sale.
 
-(2)[^key-066d17b44569e9a7d37ae9e0b5c0e5cd] In determining whether activity amounts to street trading for the purposes of this Act, the fact—
+(2)[^c-066d17b44569e9a7d37ae9e0b5c0e5cd] In determining whether activity amounts to street trading for the purposes of this Act, the fact—
 
 - (a) that a transaction was completed elsewhere than in a street in the case where the initial offer or display of the articles in question or the offer of services, as the case may be, took place in a street;
 - (b) that either party to the transaction was not in a street at the time it was completed;
@@ -91,7 +91,7 @@ May it therefore please Your Majesty that it may be enacted, and be it enacted, 
 
 shall be disregarded.
 
-## 3. Exemptions[^key-e71c2c21eddf7bbadde4e01079d0cce7]
+## 3. Exemptions[^c-e71c2c21eddf7bbadde4e01079d0cce7]
 
 The following are not street trading for the purposes of this Act—
 
@@ -108,7 +108,7 @@ The following are not street trading for the purposes of this Act—
 - (d) the doing of anything authorised by regulations made under section 5 of the [^m00004]Police, Factories, &c. (Miscellaneous Provisions) Act 1916 or by permit or order made under Part III of the [^m00005]Charities Act 1992.
 - (e) trading by a person acting as a pedlar under the authority of a pedlar’s certificate under the [^m00006]Pedlars Act 1871, if the trading is carried out only by means of visits from house to house.
 
-## 4. Itinerant ice cream trading[^key-996b35c682e151c3d1764bd54a94bf64]
+## 4. Itinerant ice cream trading[^c-996b35c682e151c3d1764bd54a94bf64]
 
 (1) Nothing in this Act shall apply to itinerant ice cream trading in any street unless—
 
@@ -136,7 +136,7 @@ The following are not street trading for the purposes of this Act—
 
 (8) As soon as practicable after passing a resolution under subsection (7) above, the council shall by notice in writing inform all persons given notice of the proposed resolution.
 
-## 5. Designation of streets and specification of articles[^key-20030c423b8d451997c37d222adb026b]
+## 5. Designation of streets and specification of articles[^c-20030c423b8d451997c37d222adb026b]
 
 (1) The council may pass any of the following resolutions:—
 
@@ -149,7 +149,7 @@ The following are not street trading for the purposes of this Act—
 
 (2) The council may from time to time rescind or vary any such resolution.
 
-## 6. Designating resolution[^key-43c3b4e7816950cf761f65a3fe3571a5]
+## 6. Designating resolution[^c-43c3b4e7816950cf761f65a3fe3571a5]
 
 (1) The council shall not pass a designating resolution or rescind or vary such a resolution unless they have first given notice in writing of their intention to do so—
 
@@ -181,7 +181,7 @@ The following are not street trading for the purposes of this Act—
 
 (9) A temporary designation under subsection (8) above shall remain in force for a period of no longer than five years from the date of designation and the street trading licence for the temporarily unsuitable pitch may be transferred, with any necessary modification to that licence, to the temporarily designated pitch.
 
-## 7. Specifying resolution[^key-6ac75678528b93bc5433071ecec32d1b]
+## 7. Specifying resolution[^c-6ac75678528b93bc5433071ecec32d1b]
 
 (1) The council shall not pass a specifying resolution or rescind or vary such a resolution unless they have first given notice in writing—
 
@@ -201,13 +201,13 @@ The following are not street trading for the purposes of this Act—
 
 (6) As soon as practicable after passing a resolution under subsection (5) above the council shall by notice in writing inform all parties given notice of the proposed resolution.
 
-## 8. Licensing of street traders[^key-634f55a9faee4ced4b3044b5613bc4a7]
+## 8. Licensing of street traders[^c-634f55a9faee4ced4b3044b5613bc4a7]
 
 (1) Subject to section 4 (Itinerant ice cream trading) of this Act it shall be unlawful for any person to engage in street trading (whether or not in or from a stationary position) within the city unless that person is authorised to do so by a street trading licence or a temporary licence.
 
 (2) For the purposes of this Act a person shall be deemed to engage in street trading whether or not he regularly carries on the business of street trading.
 
-## 9. Street trading licences[^key-57dda0519aa19cc8ce1571db91b23396]
+## 9. Street trading licences[^c-57dda0519aa19cc8ce1571db91b23396]
 
 (1) The council may grant a street trading licence on such reasonable terms and conditions relevant to street trading as the council may specify.
 
@@ -236,9 +236,9 @@ The following are not street trading for the purposes of this Act—
 
 (8) Where a licence is granted to a company incorporated under the Companies Acts, to an unincorporated association or to a partnership to carry on ice cream trading, any individual carrying on ice cream trading in accordance with that licence shall at all times while he is so trading carry with him, and produce on request by an authorised officer or a constable, a recent photograph of himself authenticated by the company or on behalf of the unincorporated association or partnership, as the case may be, which holds the licence.
 
-(9) Where a licence is granted to an individual he shall at all times while engaged in street trading (other than street trading of the type described in subsection (1A) of section 2 (interpretation) of this Act)[^key-d8a5b0e9e5586a60331709c41e3de496] carry with him, and produce on request by an authorised officer or a constable, either the licence or an approved form of identity issued by the council for the purposes of this Act.
+(9) Where a licence is granted to an individual he shall at all times while engaged in street trading (other than street trading of the type described in subsection (1A) of section 2 (interpretation) of this Act)[^c-d8a5b0e9e5586a60331709c41e3de496] carry with him, and produce on request by an authorised officer or a constable, either the licence or an approved form of identity issued by the council for the purposes of this Act.
 
-## 10. Standard conditions[^key-490cd0c8d729d20a64106b92851cd2a2]
+## 10. Standard conditions[^c-490cd0c8d729d20a64106b92851cd2a2]
 
 (1) The council may prescribe standard conditions which are to apply to all street trading licences.
 
@@ -257,7 +257,7 @@ The following are not street trading for the purposes of this Act—
 
 (7) As soon as practicable and in any event no later than 7 days after prescribing such conditions or changes to conditions the council shall by notice in writing inform all the holders of street trading licences to whom previous notice was given under subsection (2) above of the conditions or changes to conditions and the conditions or changes to conditions shall come into force 35 days after the date on which the conditions or changes to conditions were prescribed.
 
-## 11. Applications[^key-ddb26ed04df473ccfa1e7a1b33425f52]
+## 11. Applications[^c-ddb26ed04df473ccfa1e7a1b33425f52]
 
 (1) An application for the grant or variation of a street trading licence shall be made in writing to the council in such form as the council may prescribe.
 
@@ -273,7 +273,7 @@ The following are not street trading for the purposes of this Act—
 
 and may in the case of an individual specify the name of the person to whom he would wish the licence to be granted in the circumstances of any of the events listed in section 20 (Succession) of this Act.
 
-(2A)[^key-02b1bff4ab2c40f85b4f0eb7dd7eb836] In the case of an application for a street trading licence which, if granted, would authorise street trading on land which falls within paragraph (b) in the definition of “street” in subsection (1) of section 2 (interpretation) of this Act, the applicant shall provide evidence in writing—
+(2A)[^c-02b1bff4ab2c40f85b4f0eb7dd7eb836] In the case of an application for a street trading licence which, if granted, would authorise street trading on land which falls within paragraph (b) in the definition of “street” in subsection (1) of section 2 (interpretation) of this Act, the applicant shall provide evidence in writing—
 
 - (a) that he has consent to trade on the land from the owner of the land in question; or
 - (b) that he is the owner of the land in question.
@@ -286,7 +286,7 @@ and may in the case of an individual specify the name of the person to whom he w
 
 (6) Before making such regulations or changing them the council shall consult with any body which appears to the council to represent licence holders and give consideration to any representations received within 28 days of the date the council’s proposals were notified to the body concerned.
 
-## 12. Mandatory grounds of refusal[^key-e109ddcbea28e0d45baa98af831e5da5]
+## 12. Mandatory grounds of refusal[^c-e109ddcbea28e0d45baa98af831e5da5]
 
 (1) The council shall refuse to grant an application made under section 11 (Applications) of this Act—
 
@@ -296,11 +296,11 @@ and may in the case of an individual specify the name of the person to whom he w
 - (d) where the council are satisfied that there is not enough space in the street for the applicant to engage in the trading in which he desires to trade without causing a safety hazard or undue interference or inconvenience to persons or vehicular traffic using the street;
 - (e) where the street to which the application relates is a street in respect of which a specifying resolution is in force and the grant of the licence would be contrary to any of the terms of that resolution;
 - (f) to trade in a street which is not a licence street.
-- (g)[^key-3a60ca62c69e507bf5d3c01e375e5602] where the application, if granted, would authorise street trading on land which falls within paragraph (b) in the definition of “street” in subsection (1) of section 2 (interpretation) of this Act, unless the applicant has provided sufficient such evidence as is mentioned in subsection (2A) above to satisfy the council.
+- (g)[^c-3a60ca62c69e507bf5d3c01e375e5602] where the application, if granted, would authorise street trading on land which falls within paragraph (b) in the definition of “street” in subsection (1) of section 2 (interpretation) of this Act, unless the applicant has provided sufficient such evidence as is mentioned in subsection (2A) above to satisfy the council.
 
 (2) Subsection (1)(a) above shall not apply where the application is to carry on ice cream trading.
 
-## 13. Discretionary grounds of refusal[^key-7c323b06d6c98a0c8aa4a33cae04af51]
+## 13. Discretionary grounds of refusal[^c-7c323b06d6c98a0c8aa4a33cae04af51]
 
 (1) The council may refuse to grant an application made under section 11 (Applications) of this Act on any of the following grounds:—
 
@@ -326,11 +326,11 @@ and may in the case of an individual specify the name of the person to whom he w
 - (b) to trade on a different street trading pitch from that specified in the application; or
 - (c) to trade in goods other than those specified in the application or in only some of the goods so specified.
 
-## 14. Cancellation of licences[^key-9829b6d7da7fd8253a33cbbe64a88c3c]
+## 14. Cancellation of licences[^c-9829b6d7da7fd8253a33cbbe64a88c3c]
 
 A holder of a street trading licence or a temporary licence may at any time surrender his licence with a written and signed request for its cancellation and the cancellation shall take effect when the licence together with the request for its cancellation is received by the council.
 
-## 15. Revocation of licences[^key-59e5391730c4805c44848f1a4237bf80]
+## 15. Revocation of licences[^c-59e5391730c4805c44848f1a4237bf80]
 
 (1) The council may at any time revoke a street trading licence or a temporary licence if they are satisfied that—
 
@@ -353,13 +353,13 @@ A holder of a street trading licence or a temporary licence may at any time surr
 - (b) specifying a different street trading pitch at which licensed street trading may take place; or
 - (c) restricting the description of articles, things or services in which the licence holder is permitted to trade.
 
-## 16. Variation of licences[^key-f9766ec2cf5383fde951ffd704ed3797]
+## 16. Variation of licences[^c-f9766ec2cf5383fde951ffd704ed3797]
 
 (1) In addition to changes to any of the standard conditions which the council may make under section 10 (Standard conditions) of this Act the council may vary a street trading licence on 1st January in any year during the currency of the licence.
 
 (2) Subject to the provisions of this Act, the council may also at any time vary a street trading licence on application by the licence holder in accordance with his application.
 
-## 17. Further provisions relating to refusal, revocation or variation of street trading licences[^key-0a792bed92d9455c3b5dbb197cab7295]
+## 17. Further provisions relating to refusal, revocation or variation of street trading licences[^c-0a792bed92d9455c3b5dbb197cab7295]
 
 (1) The council shall before—
 
@@ -376,14 +376,14 @@ give to the applicant or licence holder at least 21 days notice in writing of th
 - (a) the decision together with the grounds and reasons for that decision; and
 - (b) any rights of appeal against that decision.
 
-## 17A. Lapsing of licence in certain cases[^key-a6706811018beddfecadb7bc8577fcf8]
+## 17A. Lapsing of licence in certain cases[^c-a6706811018beddfecadb7bc8577fcf8]
 
 In the case of a street trading licence which authorises street trading on land which falls within paragraph (b) in the definition of “street” in subsection (1) of section 2 (interpretation) of this Act, the licence shall lapse if—
 
 - (a) the consent is discontinued by the person who gave it, or a successor in title of that person, and the council is provided with written notice of the discontinuation of the consent by the person who discontinues it; or
 - (b) the holder of the licence no longer is the owner of the land in question, as the case may be.
 
-## 18. Appeals against refusal, revocation or variation of licences[^key-b9ea6efdda36b76cf40b90d36e73ba9c]
+## 18. Appeals against refusal, revocation or variation of licences[^c-b9ea6efdda36b76cf40b90d36e73ba9c]
 
 (1) Any person aggrieved—
 
@@ -419,7 +419,7 @@ may appeal to a magistrates' court acting for the area in which the street tradi
   - (ii) he continues to pay fees and charges due to the council under that licence;
 - (b) has revoked a street trading licence on any other grounds and the licence holder has appealed the licence holder may continue to trade under the authority of that licence by virtue of subsection (8) above only whilst he continues to pay fees and charges due to the council under that licence.
 
-## 19. Appeals to a magistrates' court[^key-c6964215199b6a145d3862fb035fcfe3][^key-09f5795c5d02fed94a70e97da6f15503]
+## 19. Appeals to a magistrates' court[^c-c6964215199b6a145d3862fb035fcfe3][^c-09f5795c5d02fed94a70e97da6f15503]
 
 (1) Any person aggrieved—
 
@@ -428,15 +428,15 @@ may appeal to a magistrates' court acting for the area in which the street tradi
 - (c) by a standard condition; or
 - (d) by the amount of a fee or charge under section 22 (Fees and charges) of this Act,
 
-may appeal to a magistrates' court acting for the area of the council[^key-b79a8d9ba5cfc5710fa59ebc6e67a3d5].
+may appeal to a magistrates' court acting for the area of the council[^c-b79a8d9ba5cfc5710fa59ebc6e67a3d5].
 
 (2) An appeal under subsection (1) above may be brought at any time before the expiration of a period of three months commencing on the date on which notice has been given in writing to the person aggrieved under subsection (7) of section 6 (Designating resolution), subsection (6) of section 7 (Specifying resolution), subsection (7) of section 10 (Standard conditions) or subsection (15) of the said section 22 of this Act as appropriate.
 
-(3)[^key-c6b193078cab1309667d5d80d2945db5] A person desiring to appeal under subsection (1) shall give written notice to the magistrates' court and to the council specifying the matter about which the person is aggrieved and the grounds upon which the appeal is made.
+(3)[^c-c6b193078cab1309667d5d80d2945db5] A person desiring to appeal under subsection (1) shall give written notice to the magistrates' court and to the council specifying the matter about which the person is aggrieved and the grounds upon which the appeal is made.
 
 (4) On an appeal to a magistrates' court under this section, the court may make such order as it thinks fit.
 
-## 20. Succession[^key-b8410bae761bc950948a4981b6eb1b3c]
+## 20. Succession[^c-b8410bae761bc950948a4981b6eb1b3c]
 
 (1)
 
@@ -468,7 +468,7 @@ may appeal to a magistrates' court acting for the area of the council[^key-b79a8
 
 (5) Where a street trading licence cannot be granted under this section because of the provisions of subsection (1)(c) of the said section 12 of this Act the council may at their discretion grant a licence to another relative of the former licence holder or to a relative of the person who, but for the provisions of subsection (1)(c) of the said section 12 of this Act, would have been granted the licence.
 
-## 21. Temporary licences[^key-1e127f1dcfe07363ab563d9040c06796]
+## 21. Temporary licences[^c-1e127f1dcfe07363ab563d9040c06796]
 
 (1) The council may if they think fit on the receipt from any person of an application for that purpose and accompanied by the appropriate fee grant to that person a temporary licence.
 
@@ -477,7 +477,7 @@ may appeal to a magistrates' court acting for the area of the council[^key-b79a8
 - (a) shall be in a similar form to a street trading licence with such modifications therein as the circumstances require; and
 - (b) shall contain such terms and conditions as the council may specify.
 
-(2A)[^key-9f5c15777f533f256c4465cd21b34936] In the case of an application for a temporary licence which, if granted, would authorise street trading on land which falls within paragraph (b) in the definition of “street” in subsection (1) of section 2 (interpretation) of this Act, the applicant shall provide evidence in writing—
+(2A)[^c-9f5c15777f533f256c4465cd21b34936] In the case of an application for a temporary licence which, if granted, would authorise street trading on land which falls within paragraph (b) in the definition of “street” in subsection (1) of section 2 (interpretation) of this Act, the applicant shall provide evidence in writing—
 
 - (a) that he has the consent to trade on the land from the owner of the land in question; or
 - (b) that he is the owner of the land in question.
@@ -509,7 +509,7 @@ the temporary licence shall, if the appropriate notice is given by the holder of
 
 (6) The council may establish a register of persons to whom they would be prepared to grant temporary licences.
 
-## 22. Fees and charges[^key-3509951274f51818106e6bbd26f13f55]
+## 22. Fees and charges[^c-3509951274f51818106e6bbd26f13f55]
 
 (1) The council may charge to applicants for the grant or variation of street trading licences such fees as are sufficient in the aggregate, taking one year with another, to recover the reasonable costs of dealing with such applications.
 
@@ -520,7 +520,7 @@ the temporary licence shall, if the appropriate notice is given by the holder of
 - (c) any reasonable administrative costs or other costs not otherwise recovered under this Act incurred in connection with the administration of the provisions of this Act; and
 - (d) the cost of enforcing the provisions of this Act.
 
-(2A)[^key-185f925dc628294f99ce96923bd72ca7] In calculating the levels of fees and charges under subsections (1) and (2) above, the council shall disregard costs incurred by them in relation to street trading of the type described in subsection (1A) of section 2 (interpretation) of this Act.
+(2A)[^c-185f925dc628294f99ce96923bd72ca7] In calculating the levels of fees and charges under subsections (1) and (2) above, the council shall disregard costs incurred by them in relation to street trading of the type described in subsection (1A) of section 2 (interpretation) of this Act.
 
 (3) The council may make a charge for the supply of an approved form of identity issued under subsection (9) of section 9 (Street trading licences) of this Act and for a plate identifying a street trading pitch; any such charge shall not exceed the council’s reasonable costs of supplying those items.
 
@@ -561,7 +561,7 @@ the temporary licence shall, if the appropriate notice is given by the holder of
 
 (16) The fees and charges as determined or varied by the council shall come into force on a date set by the council which shall be not less than 14 days from the date on which the decision as to the determination or variation of fees or charges was made.
 
-## 23. Receptacles and containers[^key-d12744cbf0793e41ac2a8670b41609f3]
+## 23. Receptacles and containers[^c-d12744cbf0793e41ac2a8670b41609f3]
 
 (1) The council may sell or let on hire or otherwise provide to any person holding a street trading licence or a temporary licence under this Act receptacles for use by him in street trading.
 
@@ -570,18 +570,18 @@ the temporary licence shall, if the appropriate notice is given by the holder of
 - (a) adapt any premises or erect any buildings on any land belonging to them but not already appropriated for such purpose; and
 - (b) make such reasonable charges as they think fit for the use of such accommodation.
 
-## 24. Offences[^key-6dcb6a4467a765970aa3a229c3776a7f]
+## 24. Offences[^c-6dcb6a4467a765970aa3a229c3776a7f]
 
 Any person who—
 
 - (a) without reasonable excuse contravenes any of the conditions of a street trading licence or a temporary licence; or
-- (b) in connection with an application for a street trading licence or a temporary licence or in completing a notice in accordance with subsection (4) of section 27B (seizure: notices) of this Act[^key-d07c4c53a307a6322bebe0d49db9b8db] makes a statement which he knows to be false in a material particular; or
+- (b) in connection with an application for a street trading licence or a temporary licence or in completing a notice in accordance with subsection (4) of section 27B (seizure: notices) of this Act[^c-d07c4c53a307a6322bebe0d49db9b8db] makes a statement which he knows to be false in a material particular; or
 - (c) resists or intentionally obstructs an authorised officer in the execution of his duties under this Act; or
 - (d) fails on demand without reasonable excuse in the case of an individual licence holder to produce to an authorised officer or to a constable his licence or other approved form of identity issued by the council for the purposes of this Act, or, in the case of an individual carrying on ice cream trading under a licence granted to a company incorporated under the Companies Acts or to a partnership or unincorporated association, to produce the photograph required by subsection (8) of section 9 (Street trading licences) of this Act,
 
 shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## 25. Power to remove receptacles[^key-b2dbc1b7909ab493e498102044c4aa4b]
+## 25. Power to remove receptacles[^c-b2dbc1b7909ab493e498102044c4aa4b]
 
 (1) Where any receptacle used by a licence holder is not removed to a place of storage on the cessation of trading on any day it shall be lawful for the council to cause it to be removed to a place of storage and to recover from the licence holder the reasonable costs incurred by them in removing and storing the receptacle.
 
@@ -591,11 +591,11 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 (4) If a receptacle removed under subsection (1) above is not recovered by the licence holder within three months of the date it was removed by the council it shall be lawful for the council to dispose of the receptacle in any way they think fit; the council shall take reasonable steps to sell the receptacle at the best possible price which can reasonably be obtained before disposing of it in any other manner.
 
-## 26. Employment of assistants[^key-008f0c6b8205c1015d2b57d770779e26]
+## 26. Employment of assistants[^c-008f0c6b8205c1015d2b57d770779e26]
 
-A person holding a street trading licence or a temporary licence[^key-ed7cdd6248a19691b105dcc2955e9aff] may employ any other person to assist him in the conduct of street trading authorised by the licence but if any person employed by a licence holder, whether or not the licensed holder is present, fails to comply with the conditions of the licence[^key-8345f8e4b034d9a01c913c0d6001a9a2] held by his employer such failure shall be deemed to be a failure by the licence holder.
+A person holding a street trading licence or a temporary licence[^c-ed7cdd6248a19691b105dcc2955e9aff] may employ any other person to assist him in the conduct of street trading authorised by the licence but if any person employed by a licence holder, whether or not the licensed holder is present, fails to comply with the conditions of the licence[^c-8345f8e4b034d9a01c913c0d6001a9a2] held by his employer such failure shall be deemed to be a failure by the licence holder.
 
-## 27. Unlicensed street trading[^key-1ffa2ad180436c6079f5d981425c5aa9]
+## 27. Unlicensed street trading[^c-1ffa2ad180436c6079f5d981425c5aa9]
 
 (1) A person who is not the holder of a street trading licence or a temporary licence and who engages in street trading whether or not from a stationary position in the city shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -833,7 +833,7 @@ and items that are the subject of the complaint are referred to as ”seized ite
 
 (8) For the purposes of this section, ”owner" in respect of a vehicle, has the same meaning as it has for the purposes of the said section 27H.
 
-## 28. Savings[^key-6df7fcc8cf5bda0d62d533dd114f0916]
+## 28. Savings[^c-6df7fcc8cf5bda0d62d533dd114f0916]
 
 (1) Nothing in this Act shall affect the sale or exposure or offer for sale by London Regional Transport or (as the case may be) any of its subsidiaries of refreshments at any shelter or other accommodation provided by either of them under section 65 (Refreshment shelters etc.) of the [^m00009]London Passenger Transport Act 1938.
 
@@ -841,7 +841,7 @@ and items that are the subject of the complaint are referred to as ”seized ite
 
 (3) Nothing in this Act shall afford a defence to a charge in respect of any offence at common law or under an enactment other than this Act.
 
-## 29. Provision as to notices[^key-8b542b4d0aceb3e4f80222a57663cbbe]
+## 29. Provision as to notices[^c-8b542b4d0aceb3e4f80222a57663cbbe]
 
 (1) Any notice, summons or other document required or authorised to be served or given in writing under this Act may be served or given either—
 
@@ -854,15 +854,15 @@ and items that are the subject of the complaint are referred to as ”seized ite
 
 (3) A notice required by this Act to be given shall be deemed to be given on the date it is delivered, left, affixed, or posted in accordance with this section.
 
-## 30. Proof of resolution[^key-db2e82177b298e040068c007893390ff]
+## 30. Proof of resolution[^c-db2e82177b298e040068c007893390ff]
 
 In any proceedings which require proof of the passing of a resolution under this Act it shall be presumed, unless the contrary is proved, that the said resolution was duly passed and that any requirements relating to the passing of the resolution and the giving of any notices or information before or after the passing of the resolution were properly complied with.
 
-## 31. Exercise of powers[^key-0a0d16d7f2d2bd42b415e410cf16007a]
+## 31. Exercise of powers[^c-0a0d16d7f2d2bd42b415e410cf16007a]
 
 Notwithstanding the provisions of section 101 of the [^m00010]Local Government Act 1972 the council’s powers under this Act may be exercised by a committee, sub-committee, officer or panel of officers.
 
-## 32. Disapplication of Part III of London Local Authorities Act 1990[^key-590c9e5a424a0fa82530ed1aa34a5239]
+## 32. Disapplication of Part III of London Local Authorities Act 1990[^c-590c9e5a424a0fa82530ed1aa34a5239]
 
 (1) Subject to subsection (2) below, on the date of commencement of this Act Part III (Street trading) of the [^m00011]London Local Authorities Act 1990 shall cease to have effect in the city and on that date all—
 
@@ -889,35 +889,35 @@ Part III of the Act of 1990 shall continue to apply to the application.
 
 [^m00002]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-29dc26dde72cb47ffd26f6b8be4d408e]: Modification: [Act](https://www.legislation.gov.uk/ukla/1999/1) modified (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [28(1)](https://www.legislation.gov.uk/ukla/2004/1/section/28/1)[(2)](https://www.legislation.gov.uk/ukla/2004/1/section/28/2), [Sch. 5](https://www.legislation.gov.uk/ukla/2004/1/schedule/5)
+[^c-29dc26dde72cb47ffd26f6b8be4d408e]: Modification: [Act](https://www.legislation.gov.uk/ukla/1999/1) modified (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [28(1)](https://www.legislation.gov.uk/ukla/2004/1/section/28/1)[(2)](https://www.legislation.gov.uk/ukla/2004/1/section/28/2), [Sch. 5](https://www.legislation.gov.uk/ukla/2004/1/schedule/5)
 
-[^key-a84aebf795469c67598e3fcb8c72d2c5]: Modification: [Act](https://www.legislation.gov.uk/ukla/1999/1): power to extend conferred (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [37](https://www.legislation.gov.uk/ukla/2007/2/section/37)
+[^c-a84aebf795469c67598e3fcb8c72d2c5]: Modification: [Act](https://www.legislation.gov.uk/ukla/1999/1): power to extend conferred (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [37](https://www.legislation.gov.uk/ukla/2007/2/section/37)
 
-[^key-3b52c1094ae81a07e419c01c6a84aa9e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukla/1999/1/section/1) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-3b52c1094ae81a07e419c01c6a84aa9e]: Commencement: [S. 1](https://www.legislation.gov.uk/ukla/1999/1/section/1) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-2d8e81925c0787c4e70bcd3d01494b5e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukla/1999/1/section/2) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-2d8e81925c0787c4e70bcd3d01494b5e]: Commencement: [S. 2](https://www.legislation.gov.uk/ukla/1999/1/section/2) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-df7974ecebfb1bd8095a35d77cd7cb81]: Textual amendment: S. 2 renumbered as s. 2(1) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(1)](https://www.legislation.gov.uk/ukla/2007/2/section/50/1)
+[^c-df7974ecebfb1bd8095a35d77cd7cb81]: Textual amendment: S. 2 renumbered as s. 2(1) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(1)](https://www.legislation.gov.uk/ukla/2007/2/section/50/1)
 
-[^key-70827574eaacbdf4ed0d28c80207ce23]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukla/1999/1/section/2) repealed (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [28(4)](https://www.legislation.gov.uk/ukla/2004/1/section/28/4)[(5)](https://www.legislation.gov.uk/ukla/2004/1/section/28/5), [Sch. 5](https://www.legislation.gov.uk/ukla/2004/1/schedule/5)
+[^c-70827574eaacbdf4ed0d28c80207ce23]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukla/1999/1/section/2) repealed (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [28(4)](https://www.legislation.gov.uk/ukla/2004/1/section/28/4)[(5)](https://www.legislation.gov.uk/ukla/2004/1/section/28/5), [Sch. 5](https://www.legislation.gov.uk/ukla/2004/1/schedule/5)
 
-[^key-2b279b812b480944fea1002b0a72fe24]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukla/1999/1/section/2/1) substituted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(2)](https://www.legislation.gov.uk/ukla/2007/2/section/50/2)
+[^c-2b279b812b480944fea1002b0a72fe24]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukla/1999/1/section/2/1) substituted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(2)](https://www.legislation.gov.uk/ukla/2007/2/section/50/2)
 
 [^m00003]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-bec70c68b74d984c59cf4c904380e745]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukla/1999/1/section/2) substituted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(2)](https://www.legislation.gov.uk/ukla/2012/2/section/10/2)
+[^c-bec70c68b74d984c59cf4c904380e745]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukla/1999/1/section/2) substituted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(2)](https://www.legislation.gov.uk/ukla/2012/2/section/10/2)
 
-[^key-088c8bf191e70f97aab855cadca9d73c]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukla/1999/1/section/2/1) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(3)(a)](https://www.legislation.gov.uk/ukla/2007/2/section/50/3/a)
+[^c-088c8bf191e70f97aab855cadca9d73c]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukla/1999/1/section/2/1) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(3)(a)](https://www.legislation.gov.uk/ukla/2007/2/section/50/3/a)
 
-[^key-ffb9a9ec15003d315750a89af73a2b80]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukla/1999/1/section/2) inserted (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [20(2)](https://www.legislation.gov.uk/ukla/2004/1/section/20/2)
+[^c-ffb9a9ec15003d315750a89af73a2b80]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukla/1999/1/section/2) inserted (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [20(2)](https://www.legislation.gov.uk/ukla/2004/1/section/20/2)
 
-[^key-b140a189f90c720ac06f5604c62345be]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukla/1999/1/section/2/1) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(3)(b)](https://www.legislation.gov.uk/ukla/2007/2/section/50/3/b)
+[^c-b140a189f90c720ac06f5604c62345be]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/ukla/1999/1/section/2/1) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(3)(b)](https://www.legislation.gov.uk/ukla/2007/2/section/50/3/b)
 
-[^key-4c3d1893dfc55dabb4f02c0440a8e894]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukla/1999/1/section/2/1A) inserted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(3)](https://www.legislation.gov.uk/ukla/2012/2/section/10/3)
+[^c-4c3d1893dfc55dabb4f02c0440a8e894]: Textual amendment: [S. 2(1A)](https://www.legislation.gov.uk/ukla/1999/1/section/2/1A) inserted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(3)](https://www.legislation.gov.uk/ukla/2012/2/section/10/3)
 
-[^key-066d17b44569e9a7d37ae9e0b5c0e5cd]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukla/1999/1/section/2/2) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(4)](https://www.legislation.gov.uk/ukla/2007/2/section/50/4)
+[^c-066d17b44569e9a7d37ae9e0b5c0e5cd]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukla/1999/1/section/2/2) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [50(4)](https://www.legislation.gov.uk/ukla/2007/2/section/50/4)
 
-[^key-e71c2c21eddf7bbadde4e01079d0cce7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukla/1999/1/section/3) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-e71c2c21eddf7bbadde4e01079d0cce7]: Commencement: [S. 3](https://www.legislation.gov.uk/ukla/1999/1/section/3) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
 [^m00004]: Marginal citation: [1916 c. 31](https://www.legislation.gov.uk/ukpga/1916/31).
 
@@ -925,92 +925,92 @@ Part III of the Act of 1990 shall continue to apply to the application.
 
 [^m00006]: Marginal citation: [1871 c. 96](https://www.legislation.gov.uk/ukpga/1871/96).
 
-[^key-996b35c682e151c3d1764bd54a94bf64]: Commencement: [S. 4](https://www.legislation.gov.uk/ukla/1999/1/section/4) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-996b35c682e151c3d1764bd54a94bf64]: Commencement: [S. 4](https://www.legislation.gov.uk/ukla/1999/1/section/4) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-20030c423b8d451997c37d222adb026b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukla/1999/1/section/5) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-20030c423b8d451997c37d222adb026b]: Commencement: [S. 5](https://www.legislation.gov.uk/ukla/1999/1/section/5) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-43c3b4e7816950cf761f65a3fe3571a5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukla/1999/1/section/6) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-43c3b4e7816950cf761f65a3fe3571a5]: Commencement: [S. 6](https://www.legislation.gov.uk/ukla/1999/1/section/6) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-6ac75678528b93bc5433071ecec32d1b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukla/1999/1/section/7) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-6ac75678528b93bc5433071ecec32d1b]: Commencement: [S. 7](https://www.legislation.gov.uk/ukla/1999/1/section/7) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-634f55a9faee4ced4b3044b5613bc4a7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukla/1999/1/section/8) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-634f55a9faee4ced4b3044b5613bc4a7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukla/1999/1/section/8) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-57dda0519aa19cc8ce1571db91b23396]: Commencement: [S. 9](https://www.legislation.gov.uk/ukla/1999/1/section/9) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-57dda0519aa19cc8ce1571db91b23396]: Commencement: [S. 9](https://www.legislation.gov.uk/ukla/1999/1/section/9) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-d8a5b0e9e5586a60331709c41e3de496]: Textual amendment: Words in [s. 9(9)](https://www.legislation.gov.uk/ukla/1999/1/section/9/9) inserted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(4)](https://www.legislation.gov.uk/ukla/2012/2/section/10/4)
+[^c-d8a5b0e9e5586a60331709c41e3de496]: Textual amendment: Words in [s. 9(9)](https://www.legislation.gov.uk/ukla/1999/1/section/9/9) inserted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(4)](https://www.legislation.gov.uk/ukla/2012/2/section/10/4)
 
-[^key-490cd0c8d729d20a64106b92851cd2a2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukla/1999/1/section/10) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-490cd0c8d729d20a64106b92851cd2a2]: Commencement: [S. 10](https://www.legislation.gov.uk/ukla/1999/1/section/10) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-ddb26ed04df473ccfa1e7a1b33425f52]: Commencement: [S. 11](https://www.legislation.gov.uk/ukla/1999/1/section/11) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-ddb26ed04df473ccfa1e7a1b33425f52]: Commencement: [S. 11](https://www.legislation.gov.uk/ukla/1999/1/section/11) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-02b1bff4ab2c40f85b4f0eb7dd7eb836]: Textual amendment: [S. 11(2A)](https://www.legislation.gov.uk/ukla/1999/1/section/11/2A) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [51(2)](https://www.legislation.gov.uk/ukla/2007/2/section/51/2)
+[^c-02b1bff4ab2c40f85b4f0eb7dd7eb836]: Textual amendment: [S. 11(2A)](https://www.legislation.gov.uk/ukla/1999/1/section/11/2A) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [51(2)](https://www.legislation.gov.uk/ukla/2007/2/section/51/2)
 
-[^key-e109ddcbea28e0d45baa98af831e5da5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukla/1999/1/section/12) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-e109ddcbea28e0d45baa98af831e5da5]: Commencement: [S. 12](https://www.legislation.gov.uk/ukla/1999/1/section/12) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
 [^m00007]: Marginal citation: [1990 c. vii](https://www.legislation.gov.uk/ukla/1990/7).
 
-[^key-3a60ca62c69e507bf5d3c01e375e5602]: Textual amendment: [S. 12(1)(g)](https://www.legislation.gov.uk/ukla/1999/1/section/12/1/g) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [52(2)](https://www.legislation.gov.uk/ukla/2007/2/section/52/2)
+[^c-3a60ca62c69e507bf5d3c01e375e5602]: Textual amendment: [S. 12(1)(g)](https://www.legislation.gov.uk/ukla/1999/1/section/12/1/g) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [52(2)](https://www.legislation.gov.uk/ukla/2007/2/section/52/2)
 
-[^key-7c323b06d6c98a0c8aa4a33cae04af51]: Commencement: [S. 13](https://www.legislation.gov.uk/ukla/1999/1/section/13) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-7c323b06d6c98a0c8aa4a33cae04af51]: Commencement: [S. 13](https://www.legislation.gov.uk/ukla/1999/1/section/13) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-9829b6d7da7fd8253a33cbbe64a88c3c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukla/1999/1/section/14) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-9829b6d7da7fd8253a33cbbe64a88c3c]: Commencement: [S. 14](https://www.legislation.gov.uk/ukla/1999/1/section/14) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-59e5391730c4805c44848f1a4237bf80]: Commencement: [S. 15](https://www.legislation.gov.uk/ukla/1999/1/section/15) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-59e5391730c4805c44848f1a4237bf80]: Commencement: [S. 15](https://www.legislation.gov.uk/ukla/1999/1/section/15) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-f9766ec2cf5383fde951ffd704ed3797]: Commencement: [S. 16](https://www.legislation.gov.uk/ukla/1999/1/section/16) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-f9766ec2cf5383fde951ffd704ed3797]: Commencement: [S. 16](https://www.legislation.gov.uk/ukla/1999/1/section/16) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-0a792bed92d9455c3b5dbb197cab7295]: Commencement: [S. 17](https://www.legislation.gov.uk/ukla/1999/1/section/17) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-0a792bed92d9455c3b5dbb197cab7295]: Commencement: [S. 17](https://www.legislation.gov.uk/ukla/1999/1/section/17) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-a6706811018beddfecadb7bc8577fcf8]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukla/1999/1/section/17A) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [53](https://www.legislation.gov.uk/ukla/2007/2/section/53)
+[^c-a6706811018beddfecadb7bc8577fcf8]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukla/1999/1/section/17A) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [53](https://www.legislation.gov.uk/ukla/2007/2/section/53)
 
-[^key-b9ea6efdda36b76cf40b90d36e73ba9c]: Commencement: [S. 18](https://www.legislation.gov.uk/ukla/1999/1/section/18) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-b9ea6efdda36b76cf40b90d36e73ba9c]: Commencement: [S. 18](https://www.legislation.gov.uk/ukla/1999/1/section/18) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-c6964215199b6a145d3862fb035fcfe3]: Commencement: [S. 19](https://www.legislation.gov.uk/ukla/1999/1/section/19) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-c6964215199b6a145d3862fb035fcfe3]: Commencement: [S. 19](https://www.legislation.gov.uk/ukla/1999/1/section/19) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-09f5795c5d02fed94a70e97da6f15503]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukla/1999/1/section/19) heading substituted (2.3.2016) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 91(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/91/7), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2016/206](https://www.legislation.gov.uk/uksi/2016/206), [art. 2](https://www.legislation.gov.uk/uksi/2016/206/article/2)
+[^c-09f5795c5d02fed94a70e97da6f15503]: Textual amendment: [S. 19](https://www.legislation.gov.uk/ukla/1999/1/section/19) heading substituted (2.3.2016) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 91(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/91/7), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2016/206](https://www.legislation.gov.uk/uksi/2016/206), [art. 2](https://www.legislation.gov.uk/uksi/2016/206/article/2)
 
-[^key-b79a8d9ba5cfc5710fa59ebc6e67a3d5]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukla/1999/1/section/19/1) substituted (2.3.2016) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 91(5)](https://www.legislation.gov.uk/ukpga/2015/20/section/91/5), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2016/206](https://www.legislation.gov.uk/uksi/2016/206), [art. 2](https://www.legislation.gov.uk/uksi/2016/206/article/2)
+[^c-b79a8d9ba5cfc5710fa59ebc6e67a3d5]: Textual amendment: Words in [s. 19(1)](https://www.legislation.gov.uk/ukla/1999/1/section/19/1) substituted (2.3.2016) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 91(5)](https://www.legislation.gov.uk/ukpga/2015/20/section/91/5), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2016/206](https://www.legislation.gov.uk/uksi/2016/206), [art. 2](https://www.legislation.gov.uk/uksi/2016/206/article/2)
 
-[^key-c6b193078cab1309667d5d80d2945db5]: Textual amendment: [S. 19(3)](https://www.legislation.gov.uk/ukla/1999/1/section/19/3)[(4)](https://www.legislation.gov.uk/ukla/1999/1/section/19/4) inserted (2.3.2016) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 91(6)](https://www.legislation.gov.uk/ukpga/2015/20/section/91/6), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2016/206](https://www.legislation.gov.uk/uksi/2016/206), [art. 2](https://www.legislation.gov.uk/uksi/2016/206/article/2)
+[^c-c6b193078cab1309667d5d80d2945db5]: Textual amendment: [S. 19(3)](https://www.legislation.gov.uk/ukla/1999/1/section/19/3)[(4)](https://www.legislation.gov.uk/ukla/1999/1/section/19/4) inserted (2.3.2016) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 91(6)](https://www.legislation.gov.uk/ukpga/2015/20/section/91/6), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2016/206](https://www.legislation.gov.uk/uksi/2016/206), [art. 2](https://www.legislation.gov.uk/uksi/2016/206/article/2)
 
-[^key-b8410bae761bc950948a4981b6eb1b3c]: Commencement: [S. 20](https://www.legislation.gov.uk/ukla/1999/1/section/20) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-b8410bae761bc950948a4981b6eb1b3c]: Commencement: [S. 20](https://www.legislation.gov.uk/ukla/1999/1/section/20) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-1e127f1dcfe07363ab563d9040c06796]: Commencement: [S. 21](https://www.legislation.gov.uk/ukla/1999/1/section/21) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-1e127f1dcfe07363ab563d9040c06796]: Commencement: [S. 21](https://www.legislation.gov.uk/ukla/1999/1/section/21) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-9f5c15777f533f256c4465cd21b34936]: Textual amendment: [S. 21(2A)-(2E)](https://www.legislation.gov.uk/ukla/1999/1/section/21/2A) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [54(2)](https://www.legislation.gov.uk/ukla/2007/2/section/54/2)
+[^c-9f5c15777f533f256c4465cd21b34936]: Textual amendment: [S. 21(2A)-(2E)](https://www.legislation.gov.uk/ukla/1999/1/section/21/2A) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [54(2)](https://www.legislation.gov.uk/ukla/2007/2/section/54/2)
 
-[^key-3509951274f51818106e6bbd26f13f55]: Commencement: [S. 22](https://www.legislation.gov.uk/ukla/1999/1/section/22) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-3509951274f51818106e6bbd26f13f55]: Commencement: [S. 22](https://www.legislation.gov.uk/ukla/1999/1/section/22) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-185f925dc628294f99ce96923bd72ca7]: Textual amendment: [S. 22(2A)](https://www.legislation.gov.uk/ukla/1999/1/section/22/2A) inserted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(5)](https://www.legislation.gov.uk/ukla/2012/2/section/10/5)
+[^c-185f925dc628294f99ce96923bd72ca7]: Textual amendment: [S. 22(2A)](https://www.legislation.gov.uk/ukla/1999/1/section/22/2A) inserted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(5)](https://www.legislation.gov.uk/ukla/2012/2/section/10/5)
 
-[^key-d12744cbf0793e41ac2a8670b41609f3]: Commencement: [S. 23](https://www.legislation.gov.uk/ukla/1999/1/section/23) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-d12744cbf0793e41ac2a8670b41609f3]: Commencement: [S. 23](https://www.legislation.gov.uk/ukla/1999/1/section/23) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-6dcb6a4467a765970aa3a229c3776a7f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukla/1999/1/section/24) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-6dcb6a4467a765970aa3a229c3776a7f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukla/1999/1/section/24) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-d07c4c53a307a6322bebe0d49db9b8db]: Textual amendment: Words in [s. 24(b)](https://www.legislation.gov.uk/ukla/1999/1/section/24/b) inserted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2012/2/schedule/1/paragraph/1)
+[^c-d07c4c53a307a6322bebe0d49db9b8db]: Textual amendment: Words in [s. 24(b)](https://www.legislation.gov.uk/ukla/1999/1/section/24/b) inserted (27.5.2012) by [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukla/2012/2/schedule/1/paragraph/1)
 
-[^key-b2dbc1b7909ab493e498102044c4aa4b]: Commencement: [S. 25](https://www.legislation.gov.uk/ukla/1999/1/section/25) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-b2dbc1b7909ab493e498102044c4aa4b]: Commencement: [S. 25](https://www.legislation.gov.uk/ukla/1999/1/section/25) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-008f0c6b8205c1015d2b57d770779e26]: Commencement: [S. 26](https://www.legislation.gov.uk/ukla/1999/1/section/26) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-008f0c6b8205c1015d2b57d770779e26]: Commencement: [S. 26](https://www.legislation.gov.uk/ukla/1999/1/section/26) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-ed7cdd6248a19691b105dcc2955e9aff]: Textual amendment: Words in [s. 26](https://www.legislation.gov.uk/ukla/1999/1/section/26) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [55(2)](https://www.legislation.gov.uk/ukla/2007/2/section/55/2)
+[^c-ed7cdd6248a19691b105dcc2955e9aff]: Textual amendment: Words in [s. 26](https://www.legislation.gov.uk/ukla/1999/1/section/26) inserted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [55(2)](https://www.legislation.gov.uk/ukla/2007/2/section/55/2)
 
-[^key-8345f8e4b034d9a01c913c0d6001a9a2]: Textual amendment: Word in [s. 26](https://www.legislation.gov.uk/ukla/1999/1/section/26) substituted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [55(3)](https://www.legislation.gov.uk/ukla/2007/2/section/55/3)
+[^c-8345f8e4b034d9a01c913c0d6001a9a2]: Textual amendment: Word in [s. 26](https://www.legislation.gov.uk/ukla/1999/1/section/26) substituted (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [55(3)](https://www.legislation.gov.uk/ukla/2007/2/section/55/3)
 
-[^key-1ffa2ad180436c6079f5d981425c5aa9]: Textual amendment: [Ss. 27-27I](https://www.legislation.gov.uk/ukla/1999/1/section/27) substituted for ss. 27-27C (27.5.2012) by virtue of [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(6)-(18)](https://www.legislation.gov.uk/ukla/2012/2/section/10/6), [Sch. 1 paras. 2-8](https://www.legislation.gov.uk/ukla/2012/2/schedule/1/paragraph/2), [Sch. 2](https://www.legislation.gov.uk/ukla/2012/2/schedule/2)
+[^c-1ffa2ad180436c6079f5d981425c5aa9]: Textual amendment: [Ss. 27-27I](https://www.legislation.gov.uk/ukla/1999/1/section/27) substituted for ss. 27-27C (27.5.2012) by virtue of [London Local Authorities Act 2012 (c. ii)](https://www.legislation.gov.uk/ukla/2012/2), [ss. 1(3)](https://www.legislation.gov.uk/ukla/2012/2/section/1/3), [10(6)-(18)](https://www.legislation.gov.uk/ukla/2012/2/section/10/6), [Sch. 1 paras. 2-8](https://www.legislation.gov.uk/ukla/2012/2/schedule/1/paragraph/2), [Sch. 2](https://www.legislation.gov.uk/ukla/2012/2/schedule/2)
 
-[^key-6df7fcc8cf5bda0d62d533dd114f0916]: Commencement: [S. 28](https://www.legislation.gov.uk/ukla/1999/1/section/28) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-6df7fcc8cf5bda0d62d533dd114f0916]: Commencement: [S. 28](https://www.legislation.gov.uk/ukla/1999/1/section/28) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
 [^m00009]: Marginal citation: [1938 c. xcii](https://www.legislation.gov.uk/ukla/1938/92).
 
-[^key-8b542b4d0aceb3e4f80222a57663cbbe]: Commencement: [S. 29](https://www.legislation.gov.uk/ukla/1999/1/section/29) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-8b542b4d0aceb3e4f80222a57663cbbe]: Commencement: [S. 29](https://www.legislation.gov.uk/ukla/1999/1/section/29) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-db2e82177b298e040068c007893390ff]: Commencement: [S. 30](https://www.legislation.gov.uk/ukla/1999/1/section/30) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-db2e82177b298e040068c007893390ff]: Commencement: [S. 30](https://www.legislation.gov.uk/ukla/1999/1/section/30) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
-[^key-0a0d16d7f2d2bd42b415e410cf16007a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukla/1999/1/section/31) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-0a0d16d7f2d2bd42b415e410cf16007a]: Commencement: [S. 31](https://www.legislation.gov.uk/ukla/1999/1/section/31) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
 [^m00010]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-590c9e5a424a0fa82530ed1aa34a5239]: Commencement: [S. 32](https://www.legislation.gov.uk/ukla/1999/1/section/32) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
+[^c-590c9e5a424a0fa82530ed1aa34a5239]: Commencement: [S. 32](https://www.legislation.gov.uk/ukla/1999/1/section/32) in force at 25.5.1999, see [s. 1(2)](https://www.legislation.gov.uk/ukla/1999/1/section/1/2)
 
 [^m00011]: Marginal citation: [1990 c. vii](https://www.legislation.gov.uk/ukla/1990/7).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. False claim of status as creditor or member[^key-f4398cfb9d90c55811c4bb894d8287f7]
+## 112. False claim of status as creditor or member[^c-f4398cfb9d90c55811c4bb894d8287f7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f4398cfb9d90c55811c4bb894d8287f7]: Commencement: [Rule 112](https://www.legislation.gov.uk/uksi/2007/3141/rule/112) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-f4398cfb9d90c55811c4bb894d8287f7]: Commencement: [Rule 112](https://www.legislation.gov.uk/uksi/2007/3141/rule/112) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

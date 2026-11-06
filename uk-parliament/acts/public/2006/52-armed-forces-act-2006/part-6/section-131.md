@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Summary hearing[^key-a344ae010a0316073f20a82ef0cfbf1e][^key-5d5a2a0ba0ea9d24cd26ae7353307c5c]
+## 131. Summary hearing[^c-a344ae010a0316073f20a82ef0cfbf1e][^c-5d5a2a0ba0ea9d24cd26ae7353307c5c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a344ae010a0316073f20a82ef0cfbf1e]: Commencement: S. 131 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-a344ae010a0316073f20a82ef0cfbf1e]: Commencement: S. 131 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-5d5a2a0ba0ea9d24cd26ae7353307c5c]: Commencement: S. 131 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-5d5a2a0ba0ea9d24cd26ae7353307c5c]: Commencement: S. 131 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

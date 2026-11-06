@@ -33,29 +33,29 @@ of 17 December 2013
 
 amending Regulation (EC) No 1082/2006 on a European grouping of territorial cooperation (EGTC) as regards the clarification, simplification and improvement of the establishment and functioning of such groupings (revoked)
 
-[^key-e6bbd5f9a88385320dc14f72527b6af6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e6bbd5f9a88385320dc14f72527b6af6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Regulation (EC) No 1082/2006[^key-e6bbd5f9a88385320dc14f72527b6af6]
+## Article 1. Amendments to Regulation (EC) No 1082/2006[^c-e6bbd5f9a88385320dc14f72527b6af6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Transitional provisions[^key-e6bbd5f9a88385320dc14f72527b6af6]
+## Article 2. Transitional provisions[^c-e6bbd5f9a88385320dc14f72527b6af6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-e6bbd5f9a88385320dc14f72527b6af6]
+## Article 3. Entry into force[^c-e6bbd5f9a88385320dc14f72527b6af6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e6bbd5f9a88385320dc14f72527b6af6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e6bbd5f9a88385320dc14f72527b6af6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-e6bbd5f9a88385320dc14f72527b6af6]
+## ANNEX[^c-e6bbd5f9a88385320dc14f72527b6af6]
 
-[^key-e6bbd5f9a88385320dc14f72527b6af6]**Template of the information to be submitted under Article 5(2)**
+[^c-e6bbd5f9a88385320dc14f72527b6af6]**Template of the information to be submitted under Article 5(2)**
 
 ESTABLISHMENT OF A EUROPEAN GROUPING OF TERRITORIAL COOPERATION (EGTC)
 
@@ -63,4 +63,4 @@ ESTABLISHMENT OF A EUROPEAN GROUPING OF TERRITORIAL COOPERATION (EGTC)
 
 ## Annotations
 
-[^key-e6bbd5f9a88385320dc14f72527b6af6]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/153/schedule) Table 1
+[^c-e6bbd5f9a88385320dc14f72527b6af6]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/153/schedule) Table 1

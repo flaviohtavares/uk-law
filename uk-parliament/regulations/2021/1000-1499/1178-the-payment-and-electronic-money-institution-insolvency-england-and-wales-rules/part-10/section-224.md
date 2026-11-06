@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 224. Requirement to assess costs by the detailed procedure[^key-323b19d2748092e06ab0861e82996535]
+## 224. Requirement to assess costs by the detailed procedure[^c-323b19d2748092e06ab0861e82996535]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-323b19d2748092e06ab0861e82996535]: Commencement: Rule 224 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-323b19d2748092e06ab0861e82996535]: Commencement: Rule 224 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

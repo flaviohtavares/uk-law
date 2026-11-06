@@ -58,29 +58,29 @@ summary: ''
 
 - “chief officer”—
   - (a) in relation to a police force maintained for a police area in England and Wales, means the chief officer of police of that force;
-  - (b) in relation to the Police Service of Scotland, means the chief constable of that Service;[^key-236a54271a8daf226f2c3200566ee6e1]
+  - (b) in relation to the Police Service of Scotland, means the chief constable of that Service;[^c-236a54271a8daf226f2c3200566ee6e1]
   - (c) in relation to the Police Service of Northern Ireland, means the Chief Constable of that Service;
-  - (d) in relation to the National Crime Agency[^key-83dfff285f494c6d8eee63ce86d6aec7], means the Director General of the National Crime Agency[^key-5ccb9a25e6f24dfe4101d4842e4e241b]; and
-  - (e) [^key-3f6ec98fa39f7d3979244aae419e7d06]...
+  - (d) in relation to the National Crime Agency[^c-83dfff285f494c6d8eee63ce86d6aec7], means the Director General of the National Crime Agency[^c-5ccb9a25e6f24dfe4101d4842e4e241b]; and
+  - (e) [^c-3f6ec98fa39f7d3979244aae419e7d06]...
 - “**police force**” means—
   - (a) a police force maintained for a police area in England and Wales;
-  - (b) the Police Service of Scotland;[^key-0c6246e9929daab0ca3d4a7d4f111ea7]
+  - (b) the Police Service of Scotland;[^c-0c6246e9929daab0ca3d4a7d4f111ea7]
   - (c) the Police Service of Northern Ireland;
-  - (d) the National Crime Agency[^key-d74b12042ff548ba12025a7edc82a8a4] ; or
-  - (e) [^key-a5be6fbd23c4111bbf3142684e29a8f3]...
+  - (d) the National Crime Agency[^c-d74b12042ff548ba12025a7edc82a8a4] ; or
+  - (e) [^c-a5be6fbd23c4111bbf3142684e29a8f3]...
 
 ## Annotations
 
-[^key-236a54271a8daf226f2c3200566ee6e1]: Textual amendment: Words in s. 10(10) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/2/a/i)
+[^c-236a54271a8daf226f2c3200566ee6e1]: Textual amendment: Words in s. 10(10) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 64(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/2/a/i)
 
-[^key-83dfff285f494c6d8eee63ce86d6aec7]: Textual amendment: Words in s. 10(10) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 188(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/188/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-83dfff285f494c6d8eee63ce86d6aec7]: Textual amendment: Words in s. 10(10) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 188(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/188/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-5ccb9a25e6f24dfe4101d4842e4e241b]: Textual amendment: Words in s. 10(10) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 188(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/188/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-5ccb9a25e6f24dfe4101d4842e4e241b]: Textual amendment: Words in s. 10(10) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 188(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/188/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-3f6ec98fa39f7d3979244aae419e7d06]: Textual amendment: Words in s. 10(10) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 64(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/2/a/ii)
+[^c-3f6ec98fa39f7d3979244aae419e7d06]: Textual amendment: Words in s. 10(10) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 64(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/2/a/ii)
 
-[^key-0c6246e9929daab0ca3d4a7d4f111ea7]: Textual amendment: Words in s. 10(10) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 64(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/2/b/i)
+[^c-0c6246e9929daab0ca3d4a7d4f111ea7]: Textual amendment: Words in s. 10(10) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 64(2)(b)(i)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/2/b/i)
 
-[^key-d74b12042ff548ba12025a7edc82a8a4]: Textual amendment: Words in s. 10(10) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/186); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-d74b12042ff548ba12025a7edc82a8a4]: Textual amendment: Words in s. 10(10) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/186); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-a5be6fbd23c4111bbf3142684e29a8f3]: Textual amendment: Words in s. 10(10) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 64(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/2/b/ii)
+[^c-a5be6fbd23c4111bbf3142684e29a8f3]: Textual amendment: Words in s. 10(10) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 64(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/64/2/b/ii)

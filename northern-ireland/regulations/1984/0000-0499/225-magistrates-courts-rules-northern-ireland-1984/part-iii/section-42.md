@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Within seven days after the close of a preliminary inquiry at which any person is committed for trial, and in any case before the date on which he is to be arraigned, the clerk of petty sessions shall send to the chief clerk [^key-03419646731af69493641d689a8935d0]... the following original documents—
+(1) Within seven days after the close of a preliminary inquiry at which any person is committed for trial, and in any case before the date on which he is to be arraigned, the clerk of petty sessions shall send to the chief clerk [^c-03419646731af69493641d689a8935d0]... the following original documents—
 
 - (a) the complaint if it is in writing;
 - (b) the statement of complaint;
-- (c) where the charge or charges upon which the accused is committed for trial differ from the charge or charges in the complaint or complaints set out in the statement of complaint first read or put to the accused under Rule 34(2)[^key-1d77ce847338049dd830634c35ed1890], a statement of the charges upon which the accused was committed for trial;
-- (d)[^key-a64149c4e08d28a2fb8be1a0d5c0a66f] the written statements and any depositions admitted in evidence at the preliminary inquiry;
+- (c) where the charge or charges upon which the accused is committed for trial differ from the charge or charges in the complaint or complaints set out in the statement of complaint first read or put to the accused under Rule 34(2)[^c-1d77ce847338049dd830634c35ed1890], a statement of the charges upon which the accused was committed for trial;
+- (d)[^c-a64149c4e08d28a2fb8be1a0d5c0a66f] the written statements and any depositions admitted in evidence at the preliminary inquiry;
 - (e) any formal admission of facts made under section 2 of the Criminal Justice (Miscellaneous Provisions) Act (Northern Ireland) 1968 for the purpose of the inquiry;
 - (f) the certificate in Form 27 of the clerk of petty sessions authenticating those statements, depositions or such admissions;
 - (g) the recognizances of the prosecutor and witnesses (if separate from depositions);
@@ -48,10 +48,10 @@ summary: ''
 
 ## Annotations
 
-[^key-03419646731af69493641d689a8935d0]: Textual amendment: Words in [rule 42(1)](https://www.legislation.gov.uk/nisr/1984/225/rule/42/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(9)](https://www.legislation.gov.uk/nisr/2016/304/article/3/9); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-03419646731af69493641d689a8935d0]: Textual amendment: Words in [rule 42(1)](https://www.legislation.gov.uk/nisr/1984/225/rule/42/1) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(9)](https://www.legislation.gov.uk/nisr/2016/304/article/3/9); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-1d77ce847338049dd830634c35ed1890]: Textual amendment: Words in [rule 42(1)(c)](https://www.legislation.gov.uk/nisr/1984/225/rule/42/1/c) substituted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/7/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-1d77ce847338049dd830634c35ed1890]: Textual amendment: Words in [rule 42(1)(c)](https://www.legislation.gov.uk/nisr/1984/225/rule/42/1/c) substituted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(7)(a)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/7/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
-[^key-a64149c4e08d28a2fb8be1a0d5c0a66f]: Textual amendment: [Rule 42(1)(d)](https://www.legislation.gov.uk/nisr/1984/225/rule/42/1/d) substituted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(7)(b)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/7/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-a64149c4e08d28a2fb8be1a0d5c0a66f]: Textual amendment: [Rule 42(1)(d)](https://www.legislation.gov.uk/nisr/1984/225/rule/42/1/d) substituted (17.10.2022) by [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(7)(b)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/7/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
 [^f00130]: Footnote: Words deleted by [S.R. 1990 No. 426](https://www.legislation.gov.uk/nisr/1990/426) with effect from 1.1.91

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Direct award to protect life, etc[^key-442215b145603a6bcba615b5ac8cbe7c][^key-0920921e67a570bc2c534ad1caef447c]
+## 42. Direct award to protect life, etc[^c-442215b145603a6bcba615b5ac8cbe7c][^c-0920921e67a570bc2c534ad1caef447c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-442215b145603a6bcba615b5ac8cbe7c]: Commencement: S. 42 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-442215b145603a6bcba615b5ac8cbe7c]: Commencement: S. 42 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-0920921e67a570bc2c534ad1caef447c]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/54/section/42) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-0920921e67a570bc2c534ad1caef447c]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/54/section/42) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Establishment of a branch by UK firm[^key-4fcd2fbb81b79539f1b201ce6335fa96]
+## 100. Establishment of a branch by UK firm[^c-4fcd2fbb81b79539f1b201ce6335fa96]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ the notice is (or the notice and certificate are) to be treated as the consent n
 
 ## Annotations
 
-[^key-4fcd2fbb81b79539f1b201ce6335fa96]: Commencement: Art. 100 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-4fcd2fbb81b79539f1b201ce6335fa96]: Commencement: Art. 100 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00034]: Footnote: Schedule 2G was inserted by the 3ID Regulations and has been amended by S.I. [1997/2781](https://www.legislation.gov.uk/uksi/1997/2781).
 

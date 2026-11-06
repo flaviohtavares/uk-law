@@ -30,7 +30,7 @@ the breach is to be ignored.
 (2) If—
 
 - (a) condition B in section 531 (balance of business: assets) is not met in relation to an accounting period other than accounting period 1, but
-- (b) the sum of the values mentioned in section 531(5)(a) and (b)[^key-4dc22d0b60502c1ab43f88b8f8b3a2f4] is at least 50% of the total value of assets held by the UK REIT,
+- (b) the sum of the values mentioned in section 531(5)(a) and (b)[^c-4dc22d0b60502c1ab43f88b8f8b3a2f4] is at least 50% of the total value of assets held by the UK REIT,
 
 the breach is to be ignored.
 
@@ -38,4 +38,4 @@ the breach is to be ignored.
 
 ## Annotations
 
-[^key-4dc22d0b60502c1ab43f88b8f8b3a2f4]: Textual amendment: Words in s. 568(2)(b) substituted (with effect in accordance with Sch. 4 para. 32(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/31)
+[^c-4dc22d0b60502c1ab43f88b8f8b3a2f4]: Textual amendment: Words in s. 568(2)(b) substituted (with effect in accordance with Sch. 4 para. 32(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/31)

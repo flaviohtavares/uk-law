@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Liability of persons other than the principal offender[^key-2aa6ce840c89e8788f817a7f241a4a84]
+## 76. Liability of persons other than the principal offender[^c-2aa6ce840c89e8788f817a7f241a4a84]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aa6ce840c89e8788f817a7f241a4a84]: Commencement: Reg. 76 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-2aa6ce840c89e8788f817a7f241a4a84]: Commencement: Reg. 76 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 453. Interpretation of the 1994 Regulations[^key-7e3fe2a0e0a757127162399550768164]
+## 453. Interpretation of the 1994 Regulations[^c-7e3fe2a0e0a757127162399550768164]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e3fe2a0e0a757127162399550768164]: Commencement: Art. 453 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7e3fe2a0e0a757127162399550768164]: Commencement: Art. 453 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

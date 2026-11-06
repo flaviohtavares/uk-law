@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 188. Shorthand writers — nomination, appointment, remuneration and costs[^key-13b13a91f05aa9bf2da8acbf4cbd92da]
+## 188. Shorthand writers — nomination, appointment, remuneration and costs[^c-13b13a91f05aa9bf2da8acbf4cbd92da]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13b13a91f05aa9bf2da8acbf4cbd92da]: Commencement: Rule 188 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-13b13a91f05aa9bf2da8acbf4cbd92da]: Commencement: Rule 188 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00021]: Footnote: Section 236 was amended by Banking Act [2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1) and [S.I. 2011/245](https://www.legislation.gov.uk/uksi/2011/245). There are other amending instruments but none is relevant.

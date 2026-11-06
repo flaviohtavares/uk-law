@@ -32,7 +32,7 @@ summary: ''
 
 Landfill Tax
 
-The Scottish Landfill Tax (Qualifying Material) Order 2015 (revoked)[^key-7d3db134c140915ca2d41ebdc77a6c74]
+The Scottish Landfill Tax (Qualifying Material) Order 2015 (revoked)[^c-7d3db134c140915ca2d41ebdc77a6c74]
 
 Approved by the Scottish Parliament
 
@@ -48,23 +48,23 @@ Coming into force
 
 1st April 2015
 
-[^key-7d3db134c140915ca2d41ebdc77a6c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d3db134c140915ca2d41ebdc77a6c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-7d3db134c140915ca2d41ebdc77a6c74]
+## 1. Citation, commencement and application[^c-7d3db134c140915ca2d41ebdc77a6c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Qualifying material[^key-7d3db134c140915ca2d41ebdc77a6c74]
+## 2. Qualifying material[^c-7d3db134c140915ca2d41ebdc77a6c74]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d3db134c140915ca2d41ebdc77a6c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d3db134c140915ca2d41ebdc77a6c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-7d3db134c140915ca2d41ebdc77a6c74]
+## SCHEDULE[^c-7d3db134c140915ca2d41ebdc77a6c74]
 
 Article 2
 
@@ -72,8 +72,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-7d3db134c140915ca2d41ebdc77a6c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d3db134c140915ca2d41ebdc77a6c74]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d3db134c140915ca2d41ebdc77a6c74]: Textual amendment: Order revoked (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Landfill Tax (Qualifying Material) Order 2016 (S.S.I. 2016/93)](https://www.legislation.gov.uk/ssi/2016/93), [arts. 1](https://www.legislation.gov.uk/ssi/2016/93/article/1), [5](https://www.legislation.gov.uk/ssi/2016/93/article/5)
+[^c-7d3db134c140915ca2d41ebdc77a6c74]: Textual amendment: Order revoked (with effect in accordance with art. 1(2) of the amending S.S.I.) by [The Scottish Landfill Tax (Qualifying Material) Order 2016 (S.S.I. 2016/93)](https://www.legislation.gov.uk/ssi/2016/93), [arts. 1](https://www.legislation.gov.uk/ssi/2016/93/article/1), [5](https://www.legislation.gov.uk/ssi/2016/93/article/5)

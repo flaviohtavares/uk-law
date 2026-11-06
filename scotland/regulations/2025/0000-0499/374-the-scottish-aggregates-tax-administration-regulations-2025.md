@@ -44,7 +44,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-c95862683f0f61264865dd9b2eb50dfc]
+### 1. Citation and commencement[^c-c95862683f0f61264865dd9b2eb50dfc]
 
 (1) These Regulations may be cited as the Scottish Aggregates Tax (Administration) Regulations 2025.
 
@@ -52,7 +52,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 (3) The remainder of these Regulations come into force on 1 April 2026.
 
-### 2. Interpretation[^key-28b625fc794f1981b78ab7c4f68298ab]
+### 2. Interpretation[^c-28b625fc794f1981b78ab7c4f68298ab]
 
 (1) In these Regulations—
 
@@ -92,13 +92,13 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 ## PART 2 — Weight of Aggregate
 
-### 3. Scope[^key-9297382caa2b54caa07ccb21ebd34817]
+### 3. Scope[^c-9297382caa2b54caa07ccb21ebd34817]
 
 (1) This Part applies for the purpose of determining the weight of any quantity of aggregate and references in this Part to weight are to be construed as references to the weight of such aggregate.
 
 (2) In the event that a method cannot be determined under regulations 4, 5 or 6, Revenue Scotland may prescribe the method to be used and will do so in writing (the “directed method”).
 
-### 4. Standard method[^key-8ea1355b1b64ff8dc7aa7ff368f9cea1]
+### 4. Standard method[^c-8ea1355b1b64ff8dc7aa7ff368f9cea1]
 
 (1) This regulation sets out the standard method by which the weight of aggregate should be determined and applies unless regulations 5 or 6 apply.
 
@@ -112,7 +112,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 - (b) the records to be kept by the registrable person, and
 - (c) the rules regarding the discounting of constituents (such as water).
 
-### 5. Specified method[^key-b99714f9c5f4e6f9661ea6f618e30d11]
+### 5. Specified method[^c-b99714f9c5f4e6f9661ea6f618e30d11]
 
 (1) Where Revenue Scotland has published a notice setting out a specified method for determining the weight of aggregate, this regulation will apply unless regulation 6 applies.
 
@@ -123,7 +123,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 - (c) the records to be kept by the registrable person, and
 - (d) the discounting of the weight of constituents (such as water).
 
-### 6. Agreed method[^key-3398c15ad84250bc21ed4cabbac56129]
+### 6. Agreed method[^c-3398c15ad84250bc21ed4cabbac56129]
 
 (1) This regulation provides for an agreed method of determining the weight of aggregate and applies where—
 
@@ -140,7 +140,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 (4) This paragraph applies where Revenue Scotland believes that the agreed rules should no longer be applied because they do not give an accurate indication of the weight or they are not being fully observed or for some other reason.
 
-### 7. Penalties[^key-5bc6d2542a972a77871e87bfdb7b7ef3]
+### 7. Penalties[^c-5bc6d2542a972a77871e87bfdb7b7ef3]
 
 (1) Paragraph (2) applies where—
 
@@ -152,7 +152,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 ## PART 3 — Registration
 
-### 8. Exemption from registration[^key-c0a6c1f0e2aa567e0d2b2225faa4ea72]
+### 8. Exemption from registration[^c-c0a6c1f0e2aa567e0d2b2225faa4ea72]
 
 (1) This regulation applies where the only taxable activity that a person is carrying out or intends to carry out is the commercial exploitation of aggregate referred to in section 6(2) to 6(8) of the Act.
 
@@ -163,7 +163,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 (3) Such a person may still be required to keep records and meet other duties prescribed by Regulations made under section 18(5) and (6) of the Act.
 
-### 9. Notification of commercial exploitation of exempt aggregate[^key-2102fd4d18c2fa98aee9f91024e0282d]
+### 9. Notification of commercial exploitation of exempt aggregate[^c-2102fd4d18c2fa98aee9f91024e0282d]
 
 (1) This regulation applies where—
 
@@ -180,7 +180,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 (3) Notification under paragraph (2) must be made in accordance with requirements specified in writing by Revenue Scotland.
 
-### 10. Notification of taxable activities[^key-c25451101899f62e29497ab004b445af]
+### 10. Notification of taxable activities[^c-c25451101899f62e29497ab004b445af]
 
 (1) A person who is required under section 18(3) of the Act to make a notification to Revenue Scotland must do so in accordance with requirements specified in writing by Revenue Scotland and within 30 days of the earliest of the following—
 
@@ -189,18 +189,18 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 (2) For the avoidance of doubt, a person who is required to make a notification under section 18(3) of the Act is not required to do so earlier than 30 days after 1 April 2026 but may do so on a voluntary basis between then and the coming into force of this Part.
 
-### 11. Notification of cessation of taxable activities[^key-900f5cc089940401d15f314ebd5af474]
+### 11. Notification of cessation of taxable activities[^c-900f5cc089940401d15f314ebd5af474]
 
 (1) A person who is required under section 19(1) of the Act to notify Revenue Scotland that they have ceased to have the intention of carrying out taxable activities must do so in writing within 30 days of the person’s intention so having ceased.
 
-(2) For the avoidance of doubt, a person who has made a notification under regulation 9(2) must, if the intention referred to in regulation 9(1)(b)[^key-850b56876de893ea2cdd0c2f564d6a61] subsequently ceases, make a further notification to Revenue Scotland in writing within 30 days of that cessation.
+(2) For the avoidance of doubt, a person who has made a notification under regulation 9(2) must, if the intention referred to in regulation 9(1)(b)[^c-850b56876de893ea2cdd0c2f564d6a61] subsequently ceases, make a further notification to Revenue Scotland in writing within 30 days of that cessation.
 
 (3) In either case, the notification must include—
 
 - (a) the date on which the person ceased to have the intention of carrying out taxable activities, and
 - (b) if different, the date on which the person ceased to carry out taxable activities.
 
-### 12. Changes in particulars[^key-542f8ad7a1809eab746adf91b33032b0]
+### 12. Changes in particulars[^c-542f8ad7a1809eab746adf91b33032b0]
 
 (1) A person who has made a notification under section 18(3) of the Act or under regulation 9(2) at any time shall also, as appropriate, notify Revenue Scotland about the following matters—
 
@@ -216,8 +216,8 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 (3) The first of those 30 days begin, as the case requires, on—
 
-- (a) the day after the person discovers that the original notification was inaccurate or is in a position to rectify the inadequacy in that notification (see paragraph (1)(a)[^key-f0ee14c33deb58d62b6c177cf8c15a95] above), or
-- (b) the day after the change in circumstances occurred (see paragraph (1)(b) and (c)[^key-9ede6566732038a1e97c5d7982d3ac71] above).
+- (a) the day after the person discovers that the original notification was inaccurate or is in a position to rectify the inadequacy in that notification (see paragraph (1)(a)[^c-f0ee14c33deb58d62b6c177cf8c15a95] above), or
+- (b) the day after the change in circumstances occurred (see paragraph (1)(b) and (c)[^c-9ede6566732038a1e97c5d7982d3ac71] above).
 
 (4) The full particulars referred to in paragraph (2) above include (but are not limited to)—
 
@@ -239,7 +239,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 
 (7) Where a person makes a notification under this regulation that is or becomes inaccurate, inadequate or misleading, the provisions of paragraphs (1) to (6) above shall likewise apply to that notification.
 
-### 13. Transfer of a going concern[^key-6a89c3fe2166e7760ba1c9a63477d016]
+### 13. Transfer of a going concern[^c-6a89c3fe2166e7760ba1c9a63477d016]
 
 (1) Paragraph (2) applies where—
 
@@ -257,7 +257,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 - (a) any liability of the transferor existing at the date of the transfer to make a return or account for or pay any tax under Part 5 of these Regulations is to become the liability of the transferee,
 - (b) any entitlement of the transferor, whether or not existing at the date of the transfer, to credit or payment under Part 6 of these Regulations is to become the entitlement of the transferee,
 - (c) any other provision by or under the Act relating to the transferor’s obligations under the Act that applied to the transferor before their registration was cancelled and any such provision that continues to apply to the transferor after that cancellation will apply to the transferee, and
-- (d) any circumstances relating to the application of the Act (or any provision made under the Act) relating to the transferor’s obligations under the Act before their registration was cancelled (or any such circumstances that continue to apply to the transferor after the cancellation) will apply to the transferee[^key-e7466b05612d61bf09d0ce9a6d2371e4].
+- (d) any circumstances relating to the application of the Act (or any provision made under the Act) relating to the transferor’s obligations under the Act before their registration was cancelled (or any such circumstances that continue to apply to the transferor after the cancellation) will apply to the transferee[^c-e7466b05612d61bf09d0ce9a6d2371e4].
 
 (5) In addition to the provisions in paragraph (4), where both paragraph (6) and (7) apply, the actions referred to in paragraph (7) are to be treated as having been done by the transferee.
 
@@ -269,7 +269,7 @@ In accordance with section 61(1) of the Aggregates Tax and Devolved Taxes Admini
 - (b) accounted for tax, or
 - (c) claimed an entitlement to credit.
 
-### 14. Representation of unincorporated body[^key-8cd5a878710c6731061d064ff8cdff34]
+### 14. Representation of unincorporated body[^c-8cd5a878710c6731061d064ff8cdff34]
 
 (1) Where anything is required to be done by or under the Act (whether by these Regulations or otherwise) by or on behalf of an unincorporated body other than a partnership, it is to be the joint and several responsibility of—
 
@@ -285,13 +285,13 @@ but, subject to paragraph (2) below, if it is done by any of the persons referre
 
 (4) Notwithstanding regulation 14(3), each individual partner is personally responsible for providing accurate and timely information as required by Revenue Scotland in relation to this Part.
 
-### 15. Bankruptcy or incapacity of registrable persons[^key-f33487b54d804306685725d8c7407b49]
+### 15. Bankruptcy or incapacity of registrable persons[^c-f33487b54d804306685725d8c7407b49]
 
 (1) If a registrable person becomes bankrupt, incapacitated or dies, Revenue Scotland may, from the date on which the registrable person became bankrupt, incapacitated or dies, as the case may be, treat as a registrable person any person carrying on any taxable business of the registrable person, and any legislation relating to the tax is to apply to any person so treated as though that person were a registered person.
 
 (2) Any person carrying on such business for the purposes of sub-paragraph (1) must, within 30 days of commencing to do so, inform Revenue Scotland in writing of that fact and the date of the bankruptcy order or of the nature of the incapacity or of the death and the date on which it began or occurred.
 
-(3) Where Revenue Scotland have treated a person carrying on a business as a registered person under paragraph (1) above, they must cease to so[^key-601c8f7a005540d27645ed1e6ecfaac6] treat that person if—
+(3) Where Revenue Scotland have treated a person carrying on a business as a registered person under paragraph (1) above, they must cease to so[^c-601c8f7a005540d27645ed1e6ecfaac6] treat that person if—
 
 - (a) the registration of the registrable person is cancelled, whether or not any other person is registered with the registration number previously allocated to the registrable person,
 - (b) the bankruptcy is discharged or the incapacity ceases, or
@@ -319,14 +319,14 @@ but, subject to paragraph (2) below, if it is done by any of the persons referre
 
 ## PART 4 — Non-resident taxpayers
 
-### 16. Interpretation[^key-1032fb1b7c8ec474bc7980fd7e367ea0]
+### 16. Interpretation[^c-1032fb1b7c8ec474bc7980fd7e367ea0]
 
 In this Part—
 
 - (a) “**eligible to act as a tax representative**” is to be construed with reference to section 26(1) of the Act which provides that a tax representative must be resident in the United Kingdom, and
 - (b) “**non-resident taxpayer**” has the meaning given in section 26(2) of the Act.
 
-### 17. Non-resident taxpayers: requirement and provision for tax representatives[^key-53848b400b3af1465f2842026287c9fe]
+### 17. Non-resident taxpayers: requirement and provision for tax representatives[^c-53848b400b3af1465f2842026287c9fe]
 
 (1) A non-resident taxpayer must notify Revenue Scotland in writing of becoming a non-resident taxpayer within 30 days of so becoming.
 
@@ -337,13 +337,13 @@ In this Part—
 
 (3) Any appointment of a person as a tax representative is to take effect only if, and from the date, approved by Revenue Scotland.
 
-### 18. Replacement tax representative[^key-c12a538476ece1c6cf6520c38f32b507]
+### 18. Replacement tax representative[^c-c12a538476ece1c6cf6520c38f32b507]
 
 (1) A non-resident taxpayer may appoint a different tax representative as a replacement for a tax representative whose appointment has taken effect.
 
 (2) Such appointment is to take effect only if, and from the date, approved by Revenue Scotland, following an application made to it in writing.
 
-### 19. Requirement to change tax representative[^key-107e79d0d05b7189edf6e134d51d8160]
+### 19. Requirement to change tax representative[^c-107e79d0d05b7189edf6e134d51d8160]
 
 (1) Revenue Scotland may, with effect from a date or dates they specify, for good cause and by way of written notice served on the non-resident taxpayer—
 
@@ -353,11 +353,11 @@ In this Part—
 
 (2) Any appointment of a person as a replacement tax representative is to take effect only if, and from the date, approved by Revenue Scotland.
 
-### 20. Direction regarding appointment of tax representative[^key-2db3598e8bcc6b1e51af12791473ee02]
+### 20. Direction regarding appointment of tax representative[^c-2db3598e8bcc6b1e51af12791473ee02]
 
 (1) This regulation applies in a case where Revenue Scotland require the appointment of a tax representative under regulation 17(2)(a) and the non-resident taxpayer—
 
-- (a) becomes liable to a penalty under section 216C of the RSTP Act (penalty for failing an obligation to request Revenue Scotland’s approval of tax[^key-2fb3f8e2448afc97116b4a822dd04237] representative), or
+- (a) becomes liable to a penalty under section 216C of the RSTP Act (penalty for failing an obligation to request Revenue Scotland’s approval of tax[^c-2fb3f8e2448afc97116b4a822dd04237] representative), or
 - (b) unreasonably fails to obtain Revenue Scotland’s approval in accordance with regulation 17(2)(b) (approval of tax representative).
 
 (2) Where this regulation applies, Revenue Scotland may give a direction requiring a specified person to be treated as the appointed and approved tax representative of that non-resident taxpayer from a specified date.
@@ -375,7 +375,7 @@ In this Part—
 
 (7) Regulations 18 and 19 do not apply in relation to a person specified in a direction under this regulation.
 
-### 21. Ceasing to be a tax representative[^key-d205cc250a100e951d3a2e5305b1d6eb]
+### 21. Ceasing to be a tax representative[^c-d205cc250a100e951d3a2e5305b1d6eb]
 
 (1) A person will cease to be the tax representative for a non-resident taxpayer from the time when—
 
@@ -398,7 +398,7 @@ In this Part—
 
 (5) In this regulation, “bankrupt” and “incapacitated” have the meaning provided for in regulation 15(4) to 15(7).
 
-### 22. Tax representative: Duty to notify[^key-835e2a9d9814417ce9a03ebcdeb37814]
+### 22. Tax representative: Duty to notify[^c-835e2a9d9814417ce9a03ebcdeb37814]
 
 (1) A tax representative (or a person treated as such) must notify and provide full particulars to Revenue Scotland in writing about any of the following matters—
 
@@ -410,7 +410,7 @@ In this Part—
 
 ## PART 5 — Accounting period, returns, payment of tax
 
-### 23. Making of returns[^key-29d49809f3cc0465663fc7648ffdcc4e]
+### 23. Making of returns[^c-29d49809f3cc0465663fc7648ffdcc4e]
 
 (1) Subject to paragraph (3) below, unless Revenue Scotland agree otherwise, a registrable person must, in respect of each accounting period, make a return to Revenue Scotland.
 
@@ -428,7 +428,7 @@ and any person to whom Revenue Scotland gives any direction such as is referred 
 
 (5) However, where the taxpayer authorises an agent to complete the return, the agent must certify in the return that the taxpayer has declared that the information provided in the return is, to the best of the taxpayer’s knowledge, correct and complete.
 
-### 24. Payment of tax[^key-2c5735a743d3b84f63de982e8b439981]
+### 24. Payment of tax[^c-2c5735a743d3b84f63de982e8b439981]
 
 (1) Where a return is to be made under regulation 23, the tax or additional tax payable must be paid to Revenue Scotland no later than 30 days after the end of the accounting period in respect of which the tax liability arises.
 
@@ -446,7 +446,7 @@ and any person to whom Revenue Scotland gives any direction such as is referred 
 
 ## PART 6 — Tax Credits: General
 
-### 25. Interpretation[^key-b2c17691a194be4dec5b026f5df3636a]
+### 25. Interpretation[^c-b2c17691a194be4dec5b026f5df3636a]
 
 In this Part—
 
@@ -456,13 +456,13 @@ In this Part—
 - “**relevant amount**” means the amount of the credit as determined in accordance with Part 7 or 8 of these Regulations, as the case may be,
 - “**relevant tax**” means the tax, if any, that was required to have been paid as a condition of the entitlement to credit.
 
-### 26. Scope[^key-ac166a6c9fad02090564084bd6e057c2]
+### 26. Scope[^c-ac166a6c9fad02090564084bd6e057c2]
 
 (1) This Part applies to entitlements to credit arising under Parts 7 and 8 of these Regulations.
 
 (2) No credit arising under any provision of these Regulations may be claimed except in accordance with this Part.
 
-### 27. Claims in returns[^key-4b3ab72ddece89b24c5d032e0a7db8f6]
+### 27. Claims in returns[^c-4b3ab72ddece89b24c5d032e0a7db8f6]
 
 (1) Subject to paragraph (2) below, a person entitled to credit may claim it by deducting its amount from any tax due from the person for the relevant accounting period and, where that is done, the person must make a return for that accounting period accordingly.
 
@@ -470,7 +470,7 @@ In this Part—
 
 (3) Where a direction described in sub-paragraph (2) has been made that credit, subject to any such subsequent direction varying or withdrawing the rules, may only be claimed in accordance with those rules.
 
-### 28. Payments in respect of credit[^key-10d4f1dc08748ed279724e6391cfd6c2]
+### 28. Payments in respect of credit[^c-10d4f1dc08748ed279724e6391cfd6c2]
 
 (1) Subject to paragraph (5) below, where the total credit claimed by a registrable person in accordance with this Part exceeds the total of the tax due from the person for the accounting period, Revenue Scotland must pay to the person an amount equal to the excess.
 
@@ -488,9 +488,9 @@ In this Part—
 
 ## PART 7 — Credit: bad debts
 
-**29.**[^key-a4efe84fc3ccb6b2aa437662e1eca625] In this Part—
+**29.**[^c-a4efe84fc3ccb6b2aa437662e1eca625] In this Part—
 
-- “**claim**” means a claim in accordance with Part 6 of these Regulations for an amount of credit arising under this Part and “claimant” is[^key-8aab369e8e87a00e3ea3dbcb62b09aeb] to be construed accordingly,
+- “**claim**” means a claim in accordance with Part 6 of these Regulations for an amount of credit arising under this Part and “claimant” is[^c-8aab369e8e87a00e3ea3dbcb62b09aeb] to be construed accordingly,
 - “**customer**” means a person for whom a taxable activity is carried out by the claimant,
 - “**outstanding amount**” means, in relation to any claim—
   - (a) if at the time of the claim the claimant has received no payment in respect of the amount written off in its accounts, the amount so written off, or
@@ -500,7 +500,7 @@ In this Part—
   - (a) in relation to Scotland, any security (whether heritable or moveable), any floating charge and any right of lien or preference and right of retention (other than a right of compensation or set-off), and
   - (b) in relation to England, Wales and Northern Ireland, any mortgage, charge, lien or other security.
 
-### 30. Scope[^key-09698d6e1d1812591c1f958f568b68d9]
+### 30. Scope[^c-09698d6e1d1812591c1f958f568b68d9]
 
 An entitlement to credit arises under this Part where—
 
@@ -511,13 +511,13 @@ An entitlement to credit arises under this Part where—
 - (e) a period of one year (beginning with the date of the issue of that invoice) has elapsed, and
 - (f) the following provisions of this Part have been complied with.
 
-### 31. Amount of credit[^key-94330337fd3aad5c67fb92e777489614]
+### 31. Amount of credit[^c-94330337fd3aad5c67fb92e777489614]
 
 (1) Subject to paragraph (2), the credit arising under this Part is an amount equal to such proportion of the tax charged on the taxable activity as the outstanding amount forms of the total consideration.
 
 (2) Where the consideration for the taxable activity in question is less than twice the amount of tax accounted for and paid by a person in respect of that activity, the amount of the tax credit which they can claim under paragraph (1) above shall be restricted to half the outstanding amount.
 
-### 32. Evidence required in support of claim[^key-d083aeb6432c83b6281b374057405b7f]
+### 32. Evidence required in support of claim[^c-d083aeb6432c83b6281b374057405b7f]
 
 The claimant, before making a claim, must hold in respect of each relevant transaction—
 
@@ -526,7 +526,7 @@ The claimant, before making a claim, must hold in respect of each relevant trans
 - (c) records or any other documents showing that the consideration has been written off in the claimant’s accounts as a bad debt, and
 - (d) any additional evidence specified by Revenue Scotland in a published notice.
 
-### 33. Records required to be kept[^key-77f18e607fd03807bcf939287cdf8578]
+### 33. Records required to be kept[^c-77f18e607fd03807bcf939287cdf8578]
 
 (1) Any person who makes a claim must make a record of that claim and the provisions of The Revenue Scotland and Tax Powers Act (Record Keeping) Amendment Regulations 2025[^f00012] will apply.
 
@@ -544,12 +544,12 @@ The claimant, before making a claim, must hold in respect of each relevant trans
 
 (3) Any records made in pursuance of this regulation are to be kept in a single account known as “the aggregates tax bad debt account”.
 
-### 34. Attribution of payments[^key-927cd5cbb73793c3d8da852890f45ad0]
+### 34. Attribution of payments[^c-927cd5cbb73793c3d8da852890f45ad0]
 
 (1) Paragraph (2) applies where—
 
 - (a) the claimant has engaged in a relevant commercial exploitation of taxable aggregate,
-- (b) there exist one or more other matters in respect of which the claimant is entitled to a debt owed by the customer (whether they involve further charges in respect of the relevant commercial exploitation of taxable aggregate or not[^key-7b20244de8ebef3e47912ef7a1d351cb]), and
+- (b) there exist one or more other matters in respect of which the claimant is entitled to a debt owed by the customer (whether they involve further charges in respect of the relevant commercial exploitation of taxable aggregate or not[^c-7b20244de8ebef3e47912ef7a1d351cb]), and
 - (c) a payment has been received by the claimant from the customer.
 
 (2) The payment is to be attributed to the relevant commercial exploitation in respect of which the claim is made under this Part (“the appropriate commercial exploitation”) and the other matters in accordance with the rules set out in paragraphs (3) and (5) below.
@@ -563,7 +563,7 @@ The claimant, before making a claim, must hold in respect of each relevant trans
 
 the payment shall be attributed to each remaining debt according to the proportion that the debt in question contributes to the total remaining debt.
 
-### 35. Repayment of credit[^key-8ccd579fc4f08084b0873621da9c23af]
+### 35. Repayment of credit[^c-8ccd579fc4f08084b0873621da9c23af]
 
 (1) Paragraph (2) applies where—
 
@@ -583,7 +583,7 @@ the payment shall be attributed to each remaining debt according to the proporti
 
 (4) The claimant must repay to Revenue Scotland the amount of the claim to which the failure to comply relates.
 
-### 36. Writing off debts[^key-dc5361d792168e4bfb7bc46e9a1be2ae]
+### 36. Writing off debts[^c-dc5361d792168e4bfb7bc46e9a1be2ae]
 
 (1) This regulation is to apply for the purpose of determining whether, and to what extent, the consideration is to be taken to have been written off as a bad debt.
 
@@ -602,7 +602,7 @@ the payment shall be attributed to each remaining debt according to the proporti
 
 ## PART 8 — Tax credits: other
 
-### 37. Tax Credits in relevant circumstances[^key-24d791dcadb84c638b66ae365fd86309]
+### 37. Tax Credits in relevant circumstances[^c-24d791dcadb84c638b66ae365fd86309]
 
 (1) An entitlement to credit arises under this Part where—
 
@@ -612,25 +612,25 @@ the payment shall be attributed to each remaining debt according to the proporti
 
 (2) The relevant circumstances conditions are that the aggregate in question—
 
-- (a) subject to paragraph (2A),[^key-b4a4266db62a04fb8a38866c09fc0ae7] is moved outwith Scotland to a place in the rest of the United Kingdom, or to United Kingdom waters, in the form of aggregate,
+- (a) subject to paragraph (2A),[^c-b4a4266db62a04fb8a38866c09fc0ae7] is moved outwith Scotland to a place in the rest of the United Kingdom, or to United Kingdom waters, in the form of aggregate,
 - (b) is exported or removed from the United Kingdom from a place in Scotland without further processing, in the form of aggregate,
 - (c) has an excepted process applied to it,
 - (d) is used in any of the industrial or agricultural processes specified in the schedule,
 - (e) is disposed of (by dumping or otherwise) in any of the following ways—
   - (i) it is returned without further processing to its originating site or any site which is not its originating site but is registered under the same name,
-  - (ii) it is disposed [^key-aa2127e7243b478351fec84ea1016085]... to landfill,
+  - (ii) it is disposed [^c-aa2127e7243b478351fec84ea1016085]... to landfill,
   - (iii) it is gravel or sand and is used for beach restoration purposes at a site which is not its originating site.
 
-(2A)[^key-8542cf4b4f95a15711a0d906a80a4706] The relevant circumstances condition in paragraph (2)(a) will not be met where—
+(2A)[^c-8542cf4b4f95a15711a0d906a80a4706] The relevant circumstances condition in paragraph (2)(a) will not be met where—
 
 - (a) the aggregate in question is, or derives from, aggregate in respect of which section 7(9) of the Act has applied, or
 - (b) the movement of the aggregate in question outwith Scotland is not carried out by, or on behalf of, the registered person mentioned in paragraph (1)(a) and (b).
 
 (3) The amount of the credit arising under this Part is to be equal to the tax that was charged on the aggregate in question.
 
-(4) For the purposes of [^key-70f6645865d35eb9251369adec831f11]... section 15(9) of the Act, all the processes listed in the schedule are specified for the purposes of that subsection.
+(4) For the purposes of [^c-70f6645865d35eb9251369adec831f11]... section 15(9) of the Act, all the processes listed in the schedule are specified for the purposes of that subsection.
 
-### 38. Evidence required in support of claim[^key-c8ba7b4c622e58f78b6427242b7ecbee]
+### 38. Evidence required in support of claim[^c-c8ba7b4c622e58f78b6427242b7ecbee]
 
 (1) The claimant, before making a claim, must hold in respect of each claim—
 
@@ -644,7 +644,7 @@ the payment shall be attributed to each remaining debt according to the proporti
 - (b) the claimant must obtain the records or documents within a period of three months beginning on the day of making the claim, and if the claimant does not do so then sub-paragraph (c) applies,
 - (c) the claimant must amend the return for the accounting period where the claim was made by removing the claim from that return.
 
-### 39. Records required to be kept[^key-a6537369ae53b45bbdd43d3b10a94026]
+### 39. Records required to be kept[^c-a6537369ae53b45bbdd43d3b10a94026]
 
 (1) Any person who makes a claim must make a record of that claim and the provisions of The Revenue Scotland and Tax Powers Act (Record Keeping) Amendment Regulations 2025 will apply.
 
@@ -667,7 +667,7 @@ Edinburgh
 
 25th November 2025
 
-## SCHEDULE — AGRICULTURAL OR INDUSTRIAL PROCESSES[^key-c00cbac1c114729641614c93ce5de422]
+## SCHEDULE — AGRICULTURAL OR INDUSTRIAL PROCESSES[^c-c00cbac1c114729641614c93ce5de422]
 
 Regulation 37
 
@@ -750,49 +750,49 @@ These Regulations make provision for the administration and assurance of Scottis
 
 [^f00003]: Footnote: The powers to make these Regulations are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10) and the Regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-c95862683f0f61264865dd9b2eb50dfc]: Commencement: Reg. 1 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-c95862683f0f61264865dd9b2eb50dfc]: Commencement: Reg. 1 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
-[^key-28b625fc794f1981b78ab7c4f68298ab]: Commencement: Reg. 2 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-28b625fc794f1981b78ab7c4f68298ab]: Commencement: Reg. 2 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
 [^f00004]: Footnote: [2014 asp 2](https://www.legislation.gov.uk/asp/2014/2).
 
 [^f00005]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-9297382caa2b54caa07ccb21ebd34817]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/374/regulation/3) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-9297382caa2b54caa07ccb21ebd34817]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/374/regulation/3) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-8ea1355b1b64ff8dc7aa7ff368f9cea1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/374/regulation/4) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-8ea1355b1b64ff8dc7aa7ff368f9cea1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/374/regulation/4) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-b99714f9c5f4e6f9661ea6f618e30d11]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/374/regulation/5) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-b99714f9c5f4e6f9661ea6f618e30d11]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/374/regulation/5) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-3398c15ad84250bc21ed4cabbac56129]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/374/regulation/6) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-3398c15ad84250bc21ed4cabbac56129]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/374/regulation/6) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-5bc6d2542a972a77871e87bfdb7b7ef3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/374/regulation/7) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-5bc6d2542a972a77871e87bfdb7b7ef3]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/374/regulation/7) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-c0a6c1f0e2aa567e0d2b2225faa4ea72]: Commencement: Reg. 8 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-c0a6c1f0e2aa567e0d2b2225faa4ea72]: Commencement: Reg. 8 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
-[^key-2102fd4d18c2fa98aee9f91024e0282d]: Commencement: Reg. 9 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-2102fd4d18c2fa98aee9f91024e0282d]: Commencement: Reg. 9 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
-[^key-c25451101899f62e29497ab004b445af]: Commencement: Reg. 10 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-c25451101899f62e29497ab004b445af]: Commencement: Reg. 10 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
-[^key-900f5cc089940401d15f314ebd5af474]: Commencement: Reg. 11 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-900f5cc089940401d15f314ebd5af474]: Commencement: Reg. 11 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
-[^key-850b56876de893ea2cdd0c2f564d6a61]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/11/2) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/2)
+[^c-850b56876de893ea2cdd0c2f564d6a61]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/11/2) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/2)
 
-[^key-542f8ad7a1809eab746adf91b33032b0]: Commencement: Reg. 12 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-542f8ad7a1809eab746adf91b33032b0]: Commencement: Reg. 12 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
-[^key-f0ee14c33deb58d62b6c177cf8c15a95]: Textual amendment: Words in [reg. 12(3)(a)](https://www.legislation.gov.uk/ssi/2025/374/regulation/12/3/a) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/3/a)
+[^c-f0ee14c33deb58d62b6c177cf8c15a95]: Textual amendment: Words in [reg. 12(3)(a)](https://www.legislation.gov.uk/ssi/2025/374/regulation/12/3/a) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/3/a)
 
-[^key-9ede6566732038a1e97c5d7982d3ac71]: Textual amendment: Words in [reg. 12(3)(b)](https://www.legislation.gov.uk/ssi/2025/374/regulation/12/3/b) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/3/b)
+[^c-9ede6566732038a1e97c5d7982d3ac71]: Textual amendment: Words in [reg. 12(3)(b)](https://www.legislation.gov.uk/ssi/2025/374/regulation/12/3/b) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/3/b)
 
-[^key-6a89c3fe2166e7760ba1c9a63477d016]: Commencement: Reg. 13 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-6a89c3fe2166e7760ba1c9a63477d016]: Commencement: Reg. 13 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
-[^key-e7466b05612d61bf09d0ce9a6d2371e4]: Textual amendment: Words in [reg. 13(4)(d)](https://www.legislation.gov.uk/ssi/2025/374/regulation/13/4/d) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/4)
+[^c-e7466b05612d61bf09d0ce9a6d2371e4]: Textual amendment: Words in [reg. 13(4)(d)](https://www.legislation.gov.uk/ssi/2025/374/regulation/13/4/d) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/4)
 
-[^key-8cd5a878710c6731061d064ff8cdff34]: Commencement: Reg. 14 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-8cd5a878710c6731061d064ff8cdff34]: Commencement: Reg. 14 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
-[^key-f33487b54d804306685725d8c7407b49]: Commencement: Reg. 15 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
+[^c-f33487b54d804306685725d8c7407b49]: Commencement: Reg. 15 in force at 1.12.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/2)
 
-[^key-601c8f7a005540d27645ed1e6ecfaac6]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/15/3) inserted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/5)
+[^c-601c8f7a005540d27645ed1e6ecfaac6]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/15/3) inserted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/5)
 
 [^f00006]: Footnote: [1986 c. 45](https://www.legislation.gov.uk/ukpga/1986/45).
 
@@ -804,70 +804,70 @@ These Regulations make provision for the administration and assurance of Scottis
 
 [^f00010]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
 
-[^key-1032fb1b7c8ec474bc7980fd7e367ea0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2025/374/regulation/16) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-1032fb1b7c8ec474bc7980fd7e367ea0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2025/374/regulation/16) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-53848b400b3af1465f2842026287c9fe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2025/374/regulation/17) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-53848b400b3af1465f2842026287c9fe]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2025/374/regulation/17) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-c12a538476ece1c6cf6520c38f32b507]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2025/374/regulation/18) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-c12a538476ece1c6cf6520c38f32b507]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2025/374/regulation/18) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-107e79d0d05b7189edf6e134d51d8160]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2025/374/regulation/19) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-107e79d0d05b7189edf6e134d51d8160]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2025/374/regulation/19) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-2db3598e8bcc6b1e51af12791473ee02]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2025/374/regulation/20) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-2db3598e8bcc6b1e51af12791473ee02]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2025/374/regulation/20) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-2fb3f8e2448afc97116b4a822dd04237]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/ssi/2025/374/regulation/20/1/a) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(6)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/6)
+[^c-2fb3f8e2448afc97116b4a822dd04237]: Textual amendment: Word in [reg. 20(1)(a)](https://www.legislation.gov.uk/ssi/2025/374/regulation/20/1/a) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(6)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/6)
 
-[^key-d205cc250a100e951d3a2e5305b1d6eb]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2025/374/regulation/21) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-d205cc250a100e951d3a2e5305b1d6eb]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2025/374/regulation/21) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-835e2a9d9814417ce9a03ebcdeb37814]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2025/374/regulation/22) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-835e2a9d9814417ce9a03ebcdeb37814]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2025/374/regulation/22) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-29d49809f3cc0465663fc7648ffdcc4e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2025/374/regulation/23) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-29d49809f3cc0465663fc7648ffdcc4e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2025/374/regulation/23) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-2c5735a743d3b84f63de982e8b439981]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2025/374/regulation/24) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-2c5735a743d3b84f63de982e8b439981]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2025/374/regulation/24) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
 [^f00011]: Footnote: See section 83 of the RSTP Act for the taxpayer’s right to amend a return and sections 109 to 112 of that Act in respect of defences by Revenue Scotland of unjustified enrichment in respect of a claim by the taxpayer for reimbursement in respect of an overpayment of tax.
 
-[^key-b2c17691a194be4dec5b026f5df3636a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2025/374/regulation/25) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-b2c17691a194be4dec5b026f5df3636a]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2025/374/regulation/25) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-ac166a6c9fad02090564084bd6e057c2]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2025/374/regulation/26) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-ac166a6c9fad02090564084bd6e057c2]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2025/374/regulation/26) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-4b3ab72ddece89b24c5d032e0a7db8f6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2025/374/regulation/27) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-4b3ab72ddece89b24c5d032e0a7db8f6]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2025/374/regulation/27) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-10d4f1dc08748ed279724e6391cfd6c2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2025/374/regulation/28) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-10d4f1dc08748ed279724e6391cfd6c2]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2025/374/regulation/28) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-a4efe84fc3ccb6b2aa437662e1eca625]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2025/374/regulation/29) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-a4efe84fc3ccb6b2aa437662e1eca625]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2025/374/regulation/29) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-8aab369e8e87a00e3ea3dbcb62b09aeb]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/ssi/2025/374/regulation/29) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(7)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/7)
+[^c-8aab369e8e87a00e3ea3dbcb62b09aeb]: Textual amendment: Word in [reg. 29](https://www.legislation.gov.uk/ssi/2025/374/regulation/29) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(7)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/7)
 
-[^key-09698d6e1d1812591c1f958f568b68d9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2025/374/regulation/30) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-09698d6e1d1812591c1f958f568b68d9]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2025/374/regulation/30) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-94330337fd3aad5c67fb92e777489614]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2025/374/regulation/31) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-94330337fd3aad5c67fb92e777489614]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2025/374/regulation/31) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-d083aeb6432c83b6281b374057405b7f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2025/374/regulation/32) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-d083aeb6432c83b6281b374057405b7f]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2025/374/regulation/32) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-77f18e607fd03807bcf939287cdf8578]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2025/374/regulation/33) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-77f18e607fd03807bcf939287cdf8578]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2025/374/regulation/33) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
 [^f00012]: Footnote: [S.S.I. 2025/375](https://www.legislation.gov.uk/ssi/2025/375).
 
-[^key-927cd5cbb73793c3d8da852890f45ad0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2025/374/regulation/34) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-927cd5cbb73793c3d8da852890f45ad0]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2025/374/regulation/34) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-7b20244de8ebef3e47912ef7a1d351cb]: Textual amendment: Words in [reg. 34(1)(b)](https://www.legislation.gov.uk/ssi/2025/374/regulation/34/1/b) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(8)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/8)
+[^c-7b20244de8ebef3e47912ef7a1d351cb]: Textual amendment: Words in [reg. 34(1)(b)](https://www.legislation.gov.uk/ssi/2025/374/regulation/34/1/b) substituted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(8)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/8)
 
-[^key-8ccd579fc4f08084b0873621da9c23af]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2025/374/regulation/35) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-8ccd579fc4f08084b0873621da9c23af]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2025/374/regulation/35) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-dc5361d792168e4bfb7bc46e9a1be2ae]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2025/374/regulation/36) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-dc5361d792168e4bfb7bc46e9a1be2ae]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2025/374/regulation/36) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-24d791dcadb84c638b66ae365fd86309]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2025/374/regulation/37) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-24d791dcadb84c638b66ae365fd86309]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2025/374/regulation/37) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-b4a4266db62a04fb8a38866c09fc0ae7]: Textual amendment: Words in [reg. 37(2)(a)](https://www.legislation.gov.uk/ssi/2025/374/regulation/37/2/a) inserted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(9)(a)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/9/a)
+[^c-b4a4266db62a04fb8a38866c09fc0ae7]: Textual amendment: Words in [reg. 37(2)(a)](https://www.legislation.gov.uk/ssi/2025/374/regulation/37/2/a) inserted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(9)(a)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/9/a)
 
-[^key-aa2127e7243b478351fec84ea1016085]: Textual amendment: Word in [reg. 37(2)(e)(ii)](https://www.legislation.gov.uk/ssi/2025/374/regulation/37/2/e/ii) omitted (1.4.2026) by virtue of [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(9)(b)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/9/b)
+[^c-aa2127e7243b478351fec84ea1016085]: Textual amendment: Word in [reg. 37(2)(e)(ii)](https://www.legislation.gov.uk/ssi/2025/374/regulation/37/2/e/ii) omitted (1.4.2026) by virtue of [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(9)(b)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/9/b)
 
-[^key-8542cf4b4f95a15711a0d906a80a4706]: Textual amendment: [Reg. 37(2A)](https://www.legislation.gov.uk/ssi/2025/374/regulation/37/2A) inserted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(9)(c)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/9/c)
+[^c-8542cf4b4f95a15711a0d906a80a4706]: Textual amendment: [Reg. 37(2A)](https://www.legislation.gov.uk/ssi/2025/374/regulation/37/2A) inserted (1.4.2026) by [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(9)(c)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/9/c)
 
-[^key-70f6645865d35eb9251369adec831f11]: Textual amendment: Word in [reg. 37(4)](https://www.legislation.gov.uk/ssi/2025/374/regulation/37/4) omitted (1.4.2026) by virtue of [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(9)(d)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/9/d)
+[^c-70f6645865d35eb9251369adec831f11]: Textual amendment: Word in [reg. 37(4)](https://www.legislation.gov.uk/ssi/2025/374/regulation/37/4) omitted (1.4.2026) by virtue of [The Scottish Aggregates Tax (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/167)](https://www.legislation.gov.uk/ssi/2026/167), [regs. 1](https://www.legislation.gov.uk/ssi/2026/167/regulation/1), [3(9)(d)](https://www.legislation.gov.uk/ssi/2026/167/regulation/3/9/d)
 
-[^key-c8ba7b4c622e58f78b6427242b7ecbee]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2025/374/regulation/38) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-c8ba7b4c622e58f78b6427242b7ecbee]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2025/374/regulation/38) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-a6537369ae53b45bbdd43d3b10a94026]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2025/374/regulation/39) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-a6537369ae53b45bbdd43d3b10a94026]: Commencement: [Reg. 39](https://www.legislation.gov.uk/ssi/2025/374/regulation/39) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
 
-[^key-c00cbac1c114729641614c93ce5de422]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2025/374/schedule) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)
+[^c-c00cbac1c114729641614c93ce5de422]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2025/374/schedule) in force at 1.4.2026, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/374/regulation/1/3)

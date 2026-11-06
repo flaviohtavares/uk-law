@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30K. Time limits for making consumer redress orders[^key-52cb632918380fa42187bb6b20881209]
+## 30K. Time limits for making consumer redress orders[^c-52cb632918380fa42187bb6b20881209]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52cb632918380fa42187bb6b20881209]: Textual amendment: Ss. 30G-30O inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(2)(h)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2/h), [Sch. 14 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/1/2) (with [Sch. 14 para. 1(8)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/1/8))
+[^c-52cb632918380fa42187bb6b20881209]: Textual amendment: Ss. 30G-30O inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(2)(h)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2/h), [Sch. 14 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/1/2) (with [Sch. 14 para. 1(8)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/1/8))

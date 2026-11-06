@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-1b6abd6db54d53bb4298b06cd952f3e6]
+## 1. Citation and commencement[^c-1b6abd6db54d53bb4298b06cd952f3e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Consumer Rights Act 2015 (Commencement No. 3, Tra
 
 ## Annotations
 
-[^key-1b6abd6db54d53bb4298b06cd952f3e6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
+[^c-1b6abd6db54d53bb4298b06cd952f3e6]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)

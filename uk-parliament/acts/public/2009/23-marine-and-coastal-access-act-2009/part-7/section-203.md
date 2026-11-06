@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Variation etc of orders as a result of development[^c2008194][^key-472eda222fe7761a5511350651fb4c5e]
+## 203. Variation etc of orders as a result of development[^c2008194][^c-472eda222fe7761a5511350651fb4c5e]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ In section 1 of the Sea Fisheries (Shellfish) Act 1967 (power to make orders as 
 
 [^c2008194]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2009/23/section/203) partly in force; [s. 203](https://www.legislation.gov.uk/ukpga/2009/23/section/203) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-472eda222fe7761a5511350651fb4c5e]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2009/23/section/203) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)
+[^c-472eda222fe7761a5511350651fb4c5e]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2009/23/section/203) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/9)

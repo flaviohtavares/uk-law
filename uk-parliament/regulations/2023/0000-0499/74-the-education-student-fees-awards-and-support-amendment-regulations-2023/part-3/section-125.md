@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 125. Amendments to the definitions of “overseas territories” and “specified British overseas territories”[^key-cf293b4a1eecb926e545a952f52a62c1]
+## 125. Amendments to the definitions of “overseas territories” and “specified British overseas territories”[^c-cf293b4a1eecb926e545a952f52a62c1]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In regulation 2(1) (interpretation)—
 
 ## Annotations
 
-[^key-cf293b4a1eecb926e545a952f52a62c1]: Commencement: Reg. 125 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-cf293b4a1eecb926e545a952f52a62c1]: Commencement: Reg. 125 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

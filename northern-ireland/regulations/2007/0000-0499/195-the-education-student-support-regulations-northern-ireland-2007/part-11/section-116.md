@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 116. Disabled part-time students’ allowances[^key-209844a5704c83baf05f27c116b618db]
+## 116. Disabled part-time students’ allowances[^c-209844a5704c83baf05f27c116b618db]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-209844a5704c83baf05f27c116b618db]: Commencement: [Reg. 116](https://www.legislation.gov.uk/nisr/2007/195/regulation/116) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-209844a5704c83baf05f27c116b618db]: Commencement: [Reg. 116](https://www.legislation.gov.uk/nisr/2007/195/regulation/116) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

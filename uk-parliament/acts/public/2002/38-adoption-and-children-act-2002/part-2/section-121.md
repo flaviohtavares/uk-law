@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Care plans[^key-499192cabe4f43a99fa35927c46a1701][^key-50cf333b53787223394f309d9f187524]
+## 121. Care plans[^c-499192cabe4f43a99fa35927c46a1701][^c-50cf333b53787223394f309d9f187524]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-fbe958f0db08058a2f3dc7a83dd7baf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-fbe958f0db08058a2f3dc7a83dd7baf4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) After that section there is inserted—
 
@@ -47,8 +47,8 @@ the plan is to have effect as if made under section 31A of the 1989 Act.
 
 ## Annotations
 
-[^key-499192cabe4f43a99fa35927c46a1701]: Commencement: S. 121 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(xii)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/xii)
+[^c-499192cabe4f43a99fa35927c46a1701]: Commencement: S. 121 in force at 7.12.2004 for specified purposes by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(1)(m)(xii)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/1/m/xii)
 
-[^key-50cf333b53787223394f309d9f187524]: Commencement: S. 121 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-50cf333b53787223394f309d9f187524]: Commencement: S. 121 in force at 30.12.2005 in so far as not already in force by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-fbe958f0db08058a2f3dc7a83dd7baf4]: Textual amendment: S. 121(1) repealed (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/15/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/889/article/4/d) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-fbe958f0db08058a2f3dc7a83dd7baf4]: Textual amendment: S. 121(1) repealed (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 15(3)](https://www.legislation.gov.uk/ukpga/2014/6/section/15/3), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(d)](https://www.legislation.gov.uk/uksi/2014/889/article/4/d) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 24. Night workers[^key-ae7fdc8f1f4e3abe3422ff38f587c13b]
+## 24. Night workers[^c-ae7fdc8f1f4e3abe3422ff38f587c13b]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae7fdc8f1f4e3abe3422ff38f587c13b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/219/regulation/24) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-ae7fdc8f1f4e3abe3422ff38f587c13b]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2016/219/regulation/24) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

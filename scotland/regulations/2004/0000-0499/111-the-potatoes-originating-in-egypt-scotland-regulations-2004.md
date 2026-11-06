@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Potatoes Originating in Egypt (Scotland) Regulations 2004 (revoked)[^key-d983d3c13ab8dca1ee625ab52c2be127]
+The Potatoes Originating in Egypt (Scotland) Regulations 2004 (revoked)[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 Made
 
@@ -45,52 +45,52 @@ Coming into force
 
 31st March 2004
 
-[^key-d983d3c13ab8dca1ee625ab52c2be127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d983d3c13ab8dca1ee625ab52c2be127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-d983d3c13ab8dca1ee625ab52c2be127]
+## 1. Citation, commencement and extent[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-d983d3c13ab8dca1ee625ab52c2be127]
+## 2. Interpretation[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Imports of potatoes originating in Egypt[^key-d983d3c13ab8dca1ee625ab52c2be127]
+## 3. Imports of potatoes originating in Egypt[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Approval of premises which process potatoes originating in Egypt[^key-d983d3c13ab8dca1ee625ab52c2be127]
+## 4. Approval of premises which process potatoes originating in Egypt[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Powers of an inspector[^key-d983d3c13ab8dca1ee625ab52c2be127]
+## 5. Powers of an inspector[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Charges in respect of the sampling of imports of potatoes[^key-d983d3c13ab8dca1ee625ab52c2be127]
+## 6. Charges in respect of the sampling of imports of potatoes[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences[^key-d983d3c13ab8dca1ee625ab52c2be127]
+## 7. Offences[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7A. Offences by bodies corporate[^key-d983d3c13ab8dca1ee625ab52c2be127]
+## 7A. Offences by bodies corporate[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-d983d3c13ab8dca1ee625ab52c2be127]
+## 8. Revocation[^c-d983d3c13ab8dca1ee625ab52c2be127]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d983d3c13ab8dca1ee625ab52c2be127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d983d3c13ab8dca1ee625ab52c2be127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d983d3c13ab8dca1ee625ab52c2be127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d983d3c13ab8dca1ee625ab52c2be127]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d983d3c13ab8dca1ee625ab52c2be127]: Textual amendment: Regulations revoked (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2020/176/schedule)
+[^c-d983d3c13ab8dca1ee625ab52c2be127]: Textual amendment: Regulations revoked (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2020/176/schedule)

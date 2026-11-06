@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24ZA. Application for appointment of manager by special measures manager[^key-ad04186b17d7d6900429fb40dcc80e02]
+## 24ZA. Application for appointment of manager by special measures manager[^c-ad04186b17d7d6900429fb40dcc80e02]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad04186b17d7d6900429fb40dcc80e02]: Textual amendment: S. 24ZA inserted (16.1.2024) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5), [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/9/3); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)
+[^c-ad04186b17d7d6900429fb40dcc80e02]: Textual amendment: S. 24ZA inserted (16.1.2024) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5), [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/ukpga/2022/30/schedule/7/paragraph/9/3); [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/u)

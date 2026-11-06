@@ -37,26 +37,26 @@ on the determination of the Member States’ auction shares during the period 20
 
 (Text with EEA relevance) (revoked)
 
-[^key-2c458db0b897100e86153a139e5c76ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c458db0b897100e86153a139e5c76ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-2c458db0b897100e86153a139e5c76ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2c458db0b897100e86153a139e5c76ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2c458db0b897100e86153a139e5c76ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2c458db0b897100e86153a139e5c76ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2c458db0b897100e86153a139e5c76ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2c458db0b897100e86153a139e5c76ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Auction shares of the allowances issued pursuant to Chapter III of Directive 2003/87/EC[^key-2c458db0b897100e86153a139e5c76ec]
+## ANNEX I — Auction shares of the allowances issued pursuant to Chapter III of Directive 2003/87/EC[^c-2c458db0b897100e86153a139e5c76ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Auction shares of the allowances issued pursuant to Chapter II of Directive 2003/87/EC[^key-2c458db0b897100e86153a139e5c76ec]
+## ANNEX II — Auction shares of the allowances issued pursuant to Chapter II of Directive 2003/87/EC[^c-2c458db0b897100e86153a139e5c76ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2c458db0b897100e86153a139e5c76ec]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-2c458db0b897100e86153a139e5c76ec]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

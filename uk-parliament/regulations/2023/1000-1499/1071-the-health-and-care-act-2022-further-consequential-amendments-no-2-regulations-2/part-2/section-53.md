@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Amendment of the Velindre National Health Service Trust Shared Services Committee (Wales) Regulations 2012 (Welsh language text)[^key-dbf6f23a1e9d9bf77036f9e815773e5d]
+## 53. Amendment of the Velindre National Health Service Trust Shared Services Committee (Wales) Regulations 2012 (Welsh language text)[^c-dbf6f23a1e9d9bf77036f9e815773e5d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbf6f23a1e9d9bf77036f9e815773e5d]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2023/1071/regulation/53) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-dbf6f23a1e9d9bf77036f9e815773e5d]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2023/1071/regulation/53) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

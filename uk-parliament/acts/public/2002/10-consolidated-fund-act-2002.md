@@ -33,28 +33,28 @@ Consolidated Fund Act 2002 (repealed)
 
 \[19th March 2002\]
 
-[^key-259798690a2289eed08872a10ba1c966]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-259798690a2289eed08872a10ba1c966]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-259798690a2289eed08872a10ba1c966]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-259798690a2289eed08872a10ba1c966]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Use of resources for the year ending on 31st March 2002[^key-259798690a2289eed08872a10ba1c966][^key-259798690a2289eed08872a10ba1c966]
+## 1. Use of resources for the year ending on 31st March 2002[^c-259798690a2289eed08872a10ba1c966][^c-259798690a2289eed08872a10ba1c966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Issue out of the Consolidated Fund for the year ending on 31st March 2001[^key-259798690a2289eed08872a10ba1c966][^key-259798690a2289eed08872a10ba1c966]
+## 2. Issue out of the Consolidated Fund for the year ending on 31st March 2001[^c-259798690a2289eed08872a10ba1c966][^c-259798690a2289eed08872a10ba1c966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Issue out of the Consolidated Fund for the year ending on 31st March 2002[^key-259798690a2289eed08872a10ba1c966][^key-259798690a2289eed08872a10ba1c966]
+## 3. Issue out of the Consolidated Fund for the year ending on 31st March 2002[^c-259798690a2289eed08872a10ba1c966][^c-259798690a2289eed08872a10ba1c966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title[^key-259798690a2289eed08872a10ba1c966][^key-259798690a2289eed08872a10ba1c966]
+## 4. Short title[^c-259798690a2289eed08872a10ba1c966][^c-259798690a2289eed08872a10ba1c966]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-259798690a2289eed08872a10ba1c966]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/10) repealed (8.7.2004) by [Appropriation Act 2004 (c. 9)](https://www.legislation.gov.uk/ukpga/2004/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/9/schedule/3)
+[^c-259798690a2289eed08872a10ba1c966]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/10) repealed (8.7.2004) by [Appropriation Act 2004 (c. 9)](https://www.legislation.gov.uk/ukpga/2004/9), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/9/schedule/3)

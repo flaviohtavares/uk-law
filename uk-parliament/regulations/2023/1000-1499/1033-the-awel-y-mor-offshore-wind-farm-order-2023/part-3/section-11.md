@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Temporary stopping up of rights of way[^key-d5b4fbc79fc376feff3b8ae9f3952743]
+## 11. Temporary stopping up of rights of way[^c-d5b4fbc79fc376feff3b8ae9f3952743]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5b4fbc79fc376feff3b8ae9f3952743]: Commencement: Art. 11 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-d5b4fbc79fc376feff3b8ae9f3952743]: Commencement: Art. 11 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

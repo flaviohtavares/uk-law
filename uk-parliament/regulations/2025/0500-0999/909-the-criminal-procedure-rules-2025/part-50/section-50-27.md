@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50.27. Reopening the determination of an appeal[^key-c72cbd9225f05f2dde7e643c9df591e8]
+## 50.27. Reopening the determination of an appeal[^c-c72cbd9225f05f2dde7e643c9df591e8]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c72cbd9225f05f2dde7e643c9df591e8]: Commencement: [Rule 50.27](https://www.legislation.gov.uk/uksi/2025/909/rule/50.27) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c72cbd9225f05f2dde7e643c9df591e8]: Commencement: [Rule 50.27](https://www.legislation.gov.uk/uksi/2025/909/rule/50.27) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

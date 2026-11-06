@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Preventing and reducing serious violence[^key-b10541a8bbd9f9ca709ee0551019dfa6]
+## 13. Preventing and reducing serious violence[^c-b10541a8bbd9f9ca709ee0551019dfa6]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b10541a8bbd9f9ca709ee0551019dfa6]: Commencement: S. 13 in force at Royal Assent, see [s. 208(4)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/c)
+[^c-b10541a8bbd9f9ca709ee0551019dfa6]: Commencement: S. 13 in force at Royal Assent, see [s. 208(4)(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/c)

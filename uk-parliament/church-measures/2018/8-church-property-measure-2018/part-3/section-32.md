@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 32. Vesting of land acquired by DBF[^key-d5d3c080510f8c62fbe69c33722080a5]
+## 32. Vesting of land acquired by DBF[^c-d5d3c080510f8c62fbe69c33722080a5]
 
 *Extent: E*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5d3c080510f8c62fbe69c33722080a5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukcm/2018/8/section/32) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-d5d3c080510f8c62fbe69c33722080a5]: Commencement: [S. 32](https://www.legislation.gov.uk/ukcm/2018/8/section/32) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

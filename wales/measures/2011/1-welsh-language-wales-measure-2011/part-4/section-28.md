@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Service delivery standards[^key-38bb3e3ba2aed64aafee622a41fad628]
+## 28. Service delivery standards[^c-38bb3e3ba2aed64aafee622a41fad628]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38bb3e3ba2aed64aafee622a41fad628]: Commencement: [S. 28](https://www.legislation.gov.uk/mwa/2011/1/section/28) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-38bb3e3ba2aed64aafee622a41fad628]: Commencement: [S. 28](https://www.legislation.gov.uk/mwa/2011/1/section/28) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Sampling and clinical examination of a susceptible animal before slaughter[^key-c42588dba40f4c9e7dd9b67e47442890]
+## 22. Sampling and clinical examination of a susceptible animal before slaughter[^c-c42588dba40f4c9e7dd9b67e47442890]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where the Department serves notice of its intention to cause the slaughter of a 
 
 ## Annotations
 
-[^key-c42588dba40f4c9e7dd9b67e47442890]: Commencement: Reg. 22 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-c42588dba40f4c9e7dd9b67e47442890]: Commencement: Reg. 22 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 263. Procedure where detailed assessment is required[^key-03911c7ca4bc7c9ecf01879e2db1a752]
+## 263. Procedure where detailed assessment is required[^c-03911c7ca4bc7c9ecf01879e2db1a752]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03911c7ca4bc7c9ecf01879e2db1a752]: Commencement: [Rule 263](https://www.legislation.gov.uk/uksi/2011/1301/rule/263) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-03911c7ca4bc7c9ecf01879e2db1a752]: Commencement: [Rule 263](https://www.legislation.gov.uk/uksi/2011/1301/rule/263) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

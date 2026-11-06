@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Remunerative work[^key-af8d4f9a2441e58cedb92045aa5ed645]
+## 51. Remunerative work[^c-af8d4f9a2441e58cedb92045aa5ed645]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ and for those purposes, work is work for which payment is made or which is done 
 
 ## Annotations
 
-[^key-af8d4f9a2441e58cedb92045aa5ed645]: Commencement: Reg. 51 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-af8d4f9a2441e58cedb92045aa5ed645]: Commencement: Reg. 51 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00049]: Footnote: [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338)

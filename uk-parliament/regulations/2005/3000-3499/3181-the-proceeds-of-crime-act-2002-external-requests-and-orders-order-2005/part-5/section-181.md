@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Associated and joint property[^key-ef0633fd19c35fdaa11555bb11ade86e]
+## 181. Associated and joint property[^c-ef0633fd19c35fdaa11555bb11ade86e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef0633fd19c35fdaa11555bb11ade86e]: Commencement: [Art. 181](https://www.legislation.gov.uk/uksi/2005/3181/article/181) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-ef0633fd19c35fdaa11555bb11ade86e]: Commencement: [Art. 181](https://www.legislation.gov.uk/uksi/2005/3181/article/181) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

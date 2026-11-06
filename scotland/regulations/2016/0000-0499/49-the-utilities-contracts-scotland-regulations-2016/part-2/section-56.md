@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Preliminary market consultation[^key-6432f749822fdb3fea509ec60bbefcb0]
+## 56. Preliminary market consultation[^c-6432f749822fdb3fea509ec60bbefcb0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6432f749822fdb3fea509ec60bbefcb0]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2016/49/regulation/56) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-6432f749822fdb3fea509ec60bbefcb0]: Commencement: [Reg. 56](https://www.legislation.gov.uk/ssi/2016/49/regulation/56) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

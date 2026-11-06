@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60A. Detention of property pending appeal[^key-9e824d4b711c2fa84dd745b5322a5ebf]
+## 60A. Detention of property pending appeal[^c-9e824d4b711c2fa84dd745b5322a5ebf]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e824d4b711c2fa84dd745b5322a5ebf]: Textual amendment: [Art. 60A](https://www.legislation.gov.uk/uksi/2005/3181/article/60A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [23](https://www.legislation.gov.uk/uksi/2015/1750/article/23)
+[^c-9e824d4b711c2fa84dd745b5322a5ebf]: Textual amendment: [Art. 60A](https://www.legislation.gov.uk/uksi/2005/3181/article/60A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [23](https://www.legislation.gov.uk/uksi/2015/1750/article/23)

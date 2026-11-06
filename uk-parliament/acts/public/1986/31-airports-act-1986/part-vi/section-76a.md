@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76A. Stamp duty land tax[^key-1886970a22d9d1ad3cd7a46ae1837041]
+## 76A. Stamp duty land tax[^c-1886970a22d9d1ad3cd7a46ae1837041]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ is exempt from charge for the purposes of stamp duty land tax.
 
 ## Annotations
 
-[^key-1886970a22d9d1ad3cd7a46ae1837041]: Textual amendment: [S. 76A](https://www.legislation.gov.uk/ukpga/1986/31/section/76A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/13)
+[^c-1886970a22d9d1ad3cd7a46ae1837041]: Textual amendment: [S. 76A](https://www.legislation.gov.uk/ukpga/1986/31/section/76A) inserted (1.12.2003) by [The Stamp Duty Land Tax (Consequential Amendment of Enactments) Regulations 2003 (S.I. 2003/2867)](https://www.legislation.gov.uk/uksi/2003/2867), [reg. 1](https://www.legislation.gov.uk/uksi/2003/2867/regulation/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2003/2867/schedule/paragraph/13)

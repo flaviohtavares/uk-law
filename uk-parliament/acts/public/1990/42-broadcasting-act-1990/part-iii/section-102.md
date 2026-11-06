@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Additional payments to be made in respect of national licences.[^key-5c9662bd913d357a74bd1f30c9d99ddc]
+## 102. Additional payments to be made in respect of national licences.[^c-5c9662bd913d357a74bd1f30c9d99ddc]
 
 *Extent: E+W+S+N.I.*
 
-(1) A national licence shall include conditions requiring the licence holder to pay to OFCOM[^key-40b034ac2c196cffeb2af2786aebb21c] (in addition to any fees required to be so paid by virtue of section 87(1)(c))—
+(1) A national licence shall include conditions requiring the licence holder to pay to OFCOM[^c-40b034ac2c196cffeb2af2786aebb21c] (in addition to any fees required to be so paid by virtue of section 87(1)(c))—
 
 - (a) in respect of the first complete calendar year falling within the period for which the licence is in force, the amount specified in his cash bid;
 - (b) in respect of each subsequent year falling wholly or partly within that period, the amount so specified as increased by the appropriate percentage; and
@@ -66,12 +66,12 @@ any reference in subsection (1)(c) to an accounting period of his shall include 
 - (a) the retail prices index for the month of November in the year preceding the first complete calendar year falling within the period for which the licence in question is in force; and
 - (b) the retail prices index for the month of November in the year preceding the relevant year;
 
-and for this purpose “**the retail prices index**” means the general index of prices (for all items) published by the Statistics Board[^key-fdd23d73f2fc100da910148e6b6c16ea].
+and for this purpose “**the retail prices index**” means the general index of prices (for all items) published by the Statistics Board[^c-fdd23d73f2fc100da910148e6b6c16ea].
 
 ## Annotations
 
-[^key-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-5c9662bd913d357a74bd1f30c9d99ddc]: Modification: Pt. 3: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/5) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-40b034ac2c196cffeb2af2786aebb21c]: Textual amendment: Words in s. 102 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 42](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/42) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-40b034ac2c196cffeb2af2786aebb21c]: Textual amendment: Words in s. 102 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 42](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/42) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-fdd23d73f2fc100da910148e6b6c16ea]: Textual amendment: Words in s. 102(10) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/6/3); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-fdd23d73f2fc100da910148e6b6c16ea]: Textual amendment: Words in s. 102(10) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [s. 74(1)](https://www.legislation.gov.uk/ukpga/2007/18/section/74/1), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/2007/18/schedule/3/paragraph/6/3); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

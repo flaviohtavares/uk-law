@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43A. Consideration of high-efficiency alternative systems[^key-70fd59190707047a5a757ee85892fb87]
+## 43A. Consideration of high-efficiency alternative systems[^c-70fd59190707047a5a757ee85892fb87]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70fd59190707047a5a757ee85892fb87]: Textual amendment: Regs. 43A, 43B inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2014/44/regulation/6/4) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))
+[^c-70fd59190707047a5a757ee85892fb87]: Textual amendment: Regs. 43A, 43B inserted (25.2.2014) by [The Building (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/44)](https://www.legislation.gov.uk/nisr/2014/44), [regs. 1](https://www.legislation.gov.uk/nisr/2014/44/regulation/1), [6(4)](https://www.legislation.gov.uk/nisr/2014/44/regulation/6/4) (with [reg. 3](https://www.legislation.gov.uk/nisr/2014/44/regulation/3))

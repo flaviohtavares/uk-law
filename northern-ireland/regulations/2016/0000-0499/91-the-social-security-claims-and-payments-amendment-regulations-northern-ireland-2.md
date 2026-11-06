@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2016 (revoked)[^key-949dfef63757f64590d633693b933f2a]
+The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2016 (revoked)[^c-949dfef63757f64590d633693b933f2a]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 1st April 2016
 
-[^key-949dfef63757f64590d633693b933f2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-949dfef63757f64590d633693b933f2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-949dfef63757f64590d633693b933f2a]
+## 1. Citation and commencement[^c-949dfef63757f64590d633693b933f2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-949dfef63757f64590d633693b933f2a]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-949dfef63757f64590d633693b933f2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-949dfef63757f64590d633693b933f2a]
+## 3. Revocation[^c-949dfef63757f64590d633693b933f2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-949dfef63757f64590d633693b933f2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-949dfef63757f64590d633693b933f2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-949dfef63757f64590d633693b933f2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-949dfef63757f64590d633693b933f2a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-949dfef63757f64590d633693b933f2a]: Textual amendment: Regulations revoked (1.4.2017) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/49)](https://www.legislation.gov.uk/nisr/2017/49), [regs. 1](https://www.legislation.gov.uk/nisr/2017/49/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/49/regulation/4)
+[^c-949dfef63757f64590d633693b933f2a]: Textual amendment: Regulations revoked (1.4.2017) by [The Social Security (Claims and Payments) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/49)](https://www.legislation.gov.uk/nisr/2017/49), [regs. 1](https://www.legislation.gov.uk/nisr/2017/49/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/49/regulation/4)

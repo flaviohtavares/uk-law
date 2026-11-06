@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Uses of land that involve a material change[^key-b0fa505a7953ed3e5ae6c8256cff48ec]
+## 5. Uses of land that involve a material change[^c-b0fa505a7953ed3e5ae6c8256cff48ec]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0fa505a7953ed3e5ae6c8256cff48ec]: Commencement: S. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b0fa505a7953ed3e5ae6c8256cff48ec]: Commencement: S. 5 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

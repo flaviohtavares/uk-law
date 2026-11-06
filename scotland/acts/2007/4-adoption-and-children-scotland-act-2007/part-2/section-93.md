@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Amendment of order to grant authority for child to be adopted[^key-4cce0faeb4d7ac5da356378a762a9e42]
+## 93. Amendment of order to grant authority for child to be adopted[^c-4cce0faeb4d7ac5da356378a762a9e42]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cce0faeb4d7ac5da356378a762a9e42]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2007/4/section/93) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^c-4cce0faeb4d7ac5da356378a762a9e42]: Commencement: [S. 93](https://www.legislation.gov.uk/asp/2007/4/section/93) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)

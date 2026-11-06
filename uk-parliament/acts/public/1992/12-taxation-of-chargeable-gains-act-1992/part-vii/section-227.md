@@ -22,7 +22,7 @@ summary: ''
 
 (1) Relief is available under section 229(1) where each of the 6 conditions set out in subsections (2) to (7) below is fulfilled.
 
-(2) The first condition is that a person (“**the claimant**”) makes a disposal of shares, or his interest in shares, to the trustees of a settlement[^key-f28f35a1d6abc8f4178aa718dd6df740] which—
+(2) The first condition is that a person (“**the claimant**”) makes a disposal of shares, or his interest in shares, to the trustees of a settlement[^c-f28f35a1d6abc8f4178aa718dd6df740] which—
 
 - (a) is a qualifying employee share ownership trust at the time of the disposal, and
 - (b) was established by a company (“**the founding company**”) which immediately after the disposal is a trading company or the holding company of a trading group.
@@ -58,6 +58,6 @@ but the preceding provisions of this subsection shall have effect without the wo
 
 ## Annotations
 
-[^key-f28f35a1d6abc8f4178aa718dd6df740]: Textual amendment: Words in s. 227(2) substituted (with effect in accordance with Sch. 12 para. 21(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 21(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/21/1)
+[^c-f28f35a1d6abc8f4178aa718dd6df740]: Textual amendment: Words in s. 227(2) substituted (with effect in accordance with Sch. 12 para. 21(2) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 12 para. 21(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/12/paragraph/21/1)
 
 [^c2138398]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).

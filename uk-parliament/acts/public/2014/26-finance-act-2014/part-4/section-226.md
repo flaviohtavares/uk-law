@@ -34,11 +34,11 @@ summary: ''
 
 (7) Paragraphs 9 to 18 (other than paragraph 11(5)) of Schedule 56 to FA 2009 (provisions which apply to penalties for failures to make payments of tax on time) apply, with any necessary modifications, to a penalty under this section in relation to a failure by P to pay an amount of the accelerated payment as they apply to a penalty under that Schedule in relation to a failure by a person to pay an amount of tax.
 
-(8)[^key-17949dbf08eb47c940876897c265070d] Where an amendment to an accelerated payment notice made under section 227(7A) (amendment following tribunal determination about partnership return) increases the amount of the accelerated payment, the amount of the increase is to be ignored for the purposes of—
+(8)[^c-17949dbf08eb47c940876897c265070d] Where an amendment to an accelerated payment notice made under section 227(7A) (amendment following tribunal determination about partnership return) increases the amount of the accelerated payment, the amount of the increase is to be ignored for the purposes of—
 
 - (a) this section, and
 - (b) any other enactment imposing a penalty or surcharge for non-payment or late payment of tax.
 
 ## Annotations
 
-[^key-17949dbf08eb47c940876897c265070d]: Textual amendment: [S. 226(8)](https://www.legislation.gov.uk/ukpga/2014/26/section/226/8) inserted (with effect in accordance with Sch. 6 para. 14 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 13(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/13/3)
+[^c-17949dbf08eb47c940876897c265070d]: Textual amendment: [S. 226(8)](https://www.legislation.gov.uk/ukpga/2014/26/section/226/8) inserted (with effect in accordance with Sch. 6 para. 14 of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 6 para. 13(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/6/paragraph/13/3)

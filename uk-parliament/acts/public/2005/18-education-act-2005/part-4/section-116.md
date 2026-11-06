@@ -26,7 +26,7 @@ After section 444 of the Education Act 1996 insert—
 >
 > (1) Where, in the case of a child of compulsory school age who is not a registered pupil at any school—
 >
-> - (a) a local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] has made arrangements under section 19 for the provision of education for him otherwise than at a school or at his home, and
+> - (a) a local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] has made arrangements under section 19 for the provision of education for him otherwise than at a school or at his home, and
 > - (b) notice in writing of the arrangements has been given to the child's parent,
 >
 > subsections (1) to (7) of section 444 have effect as if the place at which the education is provided were a school and the child were a registered pupil at that school.
@@ -78,4 +78,4 @@ After section 444 of the Education Act 1996 insert—
 
 [^c19266981]: Commencement: S. 116 wholly in force at 1.9.2006; s. 116 not in force at Royal Assent see s. 125; s. 116 in force for E. at 1.9.2005 by [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); S. 116 in force for W. at 1.9.2006 by [S. I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

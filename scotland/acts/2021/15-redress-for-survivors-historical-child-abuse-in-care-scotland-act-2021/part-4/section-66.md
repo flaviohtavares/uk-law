@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Applicant's death while application ongoing[^key-9d3b2d82f808891eff2206355a8b42d7]
+## 66. Applicant's death while application ongoing[^c-9d3b2d82f808891eff2206355a8b42d7]
 
 *Extent: S*
 
@@ -63,4 +63,4 @@ until the time any such request is rejected or withdrawn, or the application is 
 
 ## Annotations
 
-[^key-9d3b2d82f808891eff2206355a8b42d7]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2021/15/section/66) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-9d3b2d82f808891eff2206355a8b42d7]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2021/15/section/66) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

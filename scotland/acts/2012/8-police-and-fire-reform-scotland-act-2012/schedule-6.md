@@ -24,7 +24,7 @@ summary: ''
 
 ### Interpretation
 
-**1.**[^key-dfeb4356b02d194e77cdbeb052cbb8f9][^key-4bd7a1b66489788fa09842739d2a0389] In this schedule—
+**1.**[^c-dfeb4356b02d194e77cdbeb052cbb8f9][^c-4bd7a1b66489788fa09842739d2a0389] In this schedule—
 
 - “**appointed day**” means such day as the Scottish Ministers may by order appoint (and different days may be appointed for different purposes),
 - “**joint board**” means a joint fire and rescue board constituted by a scheme made under section 2(1) of the 2005 Act,
@@ -36,7 +36,7 @@ summary: ''
 
 ### Joint board staff
 
-**2.**[^key-eec2bdf22d89a1347c71b2ed3b4daa43] (1) A transferring employee's contract of employment has effect on and after the appointed day as if originally made between the employee and SFRS.
+**2.**[^c-eec2bdf22d89a1347c71b2ed3b4daa43] (1) A transferring employee's contract of employment has effect on and after the appointed day as if originally made between the employee and SFRS.
 
 (2) The rights, powers, duties and liabilities of the joint board under or in connection with the contract of employment are by virtue of this paragraph transferred to SFRS on the appointed day.
 
@@ -55,7 +55,7 @@ summary: ''
 
 ### Local authority staff and civil servants
 
-**3.**[^key-7d11cba0c83ab9ac0eb24c9d7738b450] (1) The Scottish Ministers may make a staff transfer scheme.
+**3.**[^c-7d11cba0c83ab9ac0eb24c9d7738b450] (1) The Scottish Ministers may make a staff transfer scheme.
 
 (2) A staff transfer scheme is a scheme making provision for or in connection with the transfer to SFRS of persons who are—
 
@@ -73,7 +73,7 @@ summary: ''
 
 ### Transfers under paragraph 3: effect on contract of employment
 
-**4.**[^key-1cc0161566772b760631b9290a7edd18] (1) This paragraph applies where—
+**4.**[^c-1cc0161566772b760631b9290a7edd18] (1) This paragraph applies where—
 
 - (a) a person is to be transferred by virtue of a staff transfer scheme, and
 - (b) immediately before the transfer day the person has a contract of employment with a relevant employer.
@@ -99,7 +99,7 @@ summary: ''
 
 ### Property transfer scheme: transfers to SFRS
 
-**5.**[^key-795bc5747ecebc6d3d39f04a0df5a9d2] (1) The Scottish Ministers may make an SFRS property transfer scheme.
+**5.**[^c-795bc5747ecebc6d3d39f04a0df5a9d2] (1) The Scottish Ministers may make an SFRS property transfer scheme.
 
 (2) An SFRS property transfer scheme is a scheme making provision for or in connection with the transfer to SFRS of property, rights, liabilities and obligations of—
 
@@ -120,7 +120,7 @@ summary: ''
 
 ### Property transfer scheme: transfers to local authorities
 
-**6.**[^key-5abe244ada98f5f4a9df983e64c6fd20] (1) The Scottish Ministers may make a local authority property transfer scheme.
+**6.**[^c-5abe244ada98f5f4a9df983e64c6fd20] (1) The Scottish Ministers may make a local authority property transfer scheme.
 
 (2) A local authority property transfer scheme is a scheme making provision for or in connection with the transfer to a specified local authority of property, rights, liabilities and obligations of a specified joint board.
 
@@ -137,7 +137,7 @@ summary: ''
 
 ### Property transfer schemes: general
 
-**7.**[^key-09030861cfc21fe9b166c9f2cb84a1af] (1) This paragraph applies in relation to a scheme under paragraph 5 or 6.
+**7.**[^c-09030861cfc21fe9b166c9f2cb84a1af] (1) This paragraph applies in relation to a scheme under paragraph 5 or 6.
 
 (2) The scheme must specify a date (the “transfer date”) on which the transfer is to take effect.
 
@@ -161,24 +161,24 @@ summary: ''
 
 ### Transfer schemes: additional provision
 
-**8.**[^key-fde0bbfcf906d6e68a4540dca3d7069a] A staff transfer scheme or a property transfer scheme under paragraph 5 or 6 may include such incidental, consequential, supplementary, transitional, transitory or saving provision as the Scottish Ministers consider appropriate.
+**8.**[^c-fde0bbfcf906d6e68a4540dca3d7069a] A staff transfer scheme or a property transfer scheme under paragraph 5 or 6 may include such incidental, consequential, supplementary, transitional, transitory or saving provision as the Scottish Ministers consider appropriate.
 
 ## Annotations
 
-[^key-dfeb4356b02d194e77cdbeb052cbb8f9]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/1) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-dfeb4356b02d194e77cdbeb052cbb8f9]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/1) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-4bd7a1b66489788fa09842739d2a0389]: Modification: Sch. 6 para. 1 power exercised: 1.4.2013 appointed for the purposes of sch. 6 by S.S.I. 2012/333, art. 4
+[^c-4bd7a1b66489788fa09842739d2a0389]: Modification: Sch. 6 para. 1 power exercised: 1.4.2013 appointed for the purposes of sch. 6 by S.S.I. 2012/333, art. 4
 
-[^key-eec2bdf22d89a1347c71b2ed3b4daa43]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/2) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-eec2bdf22d89a1347c71b2ed3b4daa43]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/2) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-7d11cba0c83ab9ac0eb24c9d7738b450]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/3) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-7d11cba0c83ab9ac0eb24c9d7738b450]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/3) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-1cc0161566772b760631b9290a7edd18]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/4) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-1cc0161566772b760631b9290a7edd18]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/4) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-795bc5747ecebc6d3d39f04a0df5a9d2]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/5) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-795bc5747ecebc6d3d39f04a0df5a9d2]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/5) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-5abe244ada98f5f4a9df983e64c6fd20]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/6) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-5abe244ada98f5f4a9df983e64c6fd20]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/6) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-09030861cfc21fe9b166c9f2cb84a1af]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/7) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-09030861cfc21fe9b166c9f2cb84a1af]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/7) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-fde0bbfcf906d6e68a4540dca3d7069a]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/8) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-fde0bbfcf906d6e68a4540dca3d7069a]: Commencement: [Sch. 6 para. 8](https://www.legislation.gov.uk/asp/2012/8/schedule/6/paragraph/8) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Sharing of information with the chief constable[^key-06b7777a88bff31a18e812ad064d120a]
+## 64. Sharing of information with the chief constable[^c-06b7777a88bff31a18e812ad064d120a]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06b7777a88bff31a18e812ad064d120a]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2020/13/section/64) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-06b7777a88bff31a18e812ad064d120a]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2020/13/section/64) in force at 1.4.2025 by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

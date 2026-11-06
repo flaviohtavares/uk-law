@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — Enforcement of requirement to take preventative measures on regulated premises[^key-0a4357bb55ed478641caf6ff00ed60b9]
+## SCHEDULE 8 — Enforcement of requirement to take preventative measures on regulated premises[^c-0a4357bb55ed478641caf6ff00ed60b9]
 
 *Extent: E+W*
 
@@ -24,38 +24,38 @@ summary: ''
 
 Regulation 26
 
-### 1. Premises improvement notice[^key-0a4357bb55ed478641caf6ff00ed60b9]
+### 1. Premises improvement notice[^c-0a4357bb55ed478641caf6ff00ed60b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Premises closure notice[^key-0a4357bb55ed478641caf6ff00ed60b9]
+### 2. Premises closure notice[^c-0a4357bb55ed478641caf6ff00ed60b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Effect of premises closure notice[^key-0a4357bb55ed478641caf6ff00ed60b9]
+### 3. Effect of premises closure notice[^c-0a4357bb55ed478641caf6ff00ed60b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Termination of premises improvement or closure notice[^key-0a4357bb55ed478641caf6ff00ed60b9]
+### 4. Termination of premises improvement or closure notice[^c-0a4357bb55ed478641caf6ff00ed60b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Appeals[^key-0a4357bb55ed478641caf6ff00ed60b9]
+### 5. Appeals[^c-0a4357bb55ed478641caf6ff00ed60b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Issuing premises improvement and closure notices and terminations[^key-0a4357bb55ed478641caf6ff00ed60b9]
+### 6. Issuing premises improvement and closure notices and terminations[^c-0a4357bb55ed478641caf6ff00ed60b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Publicising premises improvement and closure notices[^key-0a4357bb55ed478641caf6ff00ed60b9]
+### 7. Publicising premises improvement and closure notices[^c-0a4357bb55ed478641caf6ff00ed60b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Production of documents etc.[^key-0a4357bb55ed478641caf6ff00ed60b9]
+### 8. Production of documents etc.[^c-0a4357bb55ed478641caf6ff00ed60b9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0a4357bb55ed478641caf6ff00ed60b9]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/wsi/2020/1609/schedule/8) omitted (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/wsi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/450/regulation/1/2), [2(10)](https://www.legislation.gov.uk/wsi/2022/450/regulation/2/10)
+[^c-0a4357bb55ed478641caf6ff00ed60b9]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/wsi/2020/1609/schedule/8) omitted (18.4.2022) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 9) Regulations 2022 (S.I. 2022/450)](https://www.legislation.gov.uk/wsi/2022/450), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/450/regulation/1/2), [2(10)](https://www.legislation.gov.uk/wsi/2022/450/regulation/2/10)

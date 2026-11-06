@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7C. Removal of local authority appointees to comply with 24 per cent limit[^key-09e5fa82a1d7ee00004e9e094e2424a3]
+## 7C. Removal of local authority appointees to comply with 24 per cent limit[^c-09e5fa82a1d7ee00004e9e094e2424a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ references to complying with the 24 per cent limit, in relation to the board of 
 
 ## Annotations
 
-[^key-09e5fa82a1d7ee00004e9e094e2424a3]: Textual amendment: [Pt. I Ch. 1A](https://www.legislation.gov.uk/ukpga/1996/52/part/I/chapter/1A) inserted (15.8.2018) by [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [s. 19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2), [Sch. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/1); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)
+[^c-09e5fa82a1d7ee00004e9e094e2424a3]: Textual amendment: [Pt. I Ch. 1A](https://www.legislation.gov.uk/ukpga/1996/52/part/I/chapter/1A) inserted (15.8.2018) by [Regulation of Registered Social Landlords (Wales) Act 2018 (anaw 4)](https://www.legislation.gov.uk/anaw/2018/4), [s. 19(2)](https://www.legislation.gov.uk/anaw/2018/4/section/19/2), [Sch. 1](https://www.legislation.gov.uk/anaw/2018/4/schedule/1); [S.I. 2018/777](https://www.legislation.gov.uk/wsi/2018/777), [art. 3(f)](https://www.legislation.gov.uk/wsi/2018/777/article/3/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Travel concession schemes: application to community transport[^key-2845cd07cf4413786fd89c7607560204]
+## 49. Travel concession schemes: application to community transport[^c-2845cd07cf4413786fd89c7607560204]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2845cd07cf4413786fd89c7607560204]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2019/17/section/49) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/b)
+[^c-2845cd07cf4413786fd89c7607560204]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2019/17/section/49) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/b)

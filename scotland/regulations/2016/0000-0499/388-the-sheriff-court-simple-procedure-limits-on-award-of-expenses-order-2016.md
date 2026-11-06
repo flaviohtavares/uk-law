@@ -44,22 +44,22 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 In accordance with section 133(2)(a) of that Act, a draft of this instrument has been laid before, and approved by resolution of, the Scottish Parliament.
 
-## 1. Citation and commencement[^key-cefcfb4a0016bbfaa70d4d41e85dddef]
+## 1. Citation and commencement[^c-cefcfb4a0016bbfaa70d4d41e85dddef]
 
 This Order may be cited as the Sheriff Court Simple Procedure (Limits on Award of Expenses) Order 2016 and comes into force on 28th November 2016.
 
-## 2. Category of simple procedure cases in which no award of expenses may be made[^key-2c169bbd9e9600f1e1ccf6d12e986587]
+## 2. Category of simple procedure cases in which no award of expenses may be made[^c-2c169bbd9e9600f1e1ccf6d12e986587]
 
-No award of expenses may be made in a simple procedure case[^f00002] in which the value of the claim is less than or equal to £300[^key-53fe0412c494049b9a5dcea1d8948383].
+No award of expenses may be made in a simple procedure case[^f00002] in which the value of the claim is less than or equal to £300[^c-53fe0412c494049b9a5dcea1d8948383].
 
-## 3. Categories of simple procedure cases in which expenses awarded may not exceed prescribed sum[^key-9e60af3b7ffcdf892bab8f01c27b1bb2]
+## 3. Categories of simple procedure cases in which expenses awarded may not exceed prescribed sum[^c-9e60af3b7ffcdf892bab8f01c27b1bb2]
 
 In any simple procedure case in which the value of the claim is—
 
-- (a) greater than £300[^key-0593761ef351149f9d36a6192c5048dc] but less than or equal to £1,500, the expenses awarded by the sheriff may not exceed £150;
+- (a) greater than £300[^c-0593761ef351149f9d36a6192c5048dc] but less than or equal to £1,500, the expenses awarded by the sheriff may not exceed £150;
 - (b) greater than £1,500 but less than or equal to £3,000, the expenses awarded by the sheriff may not exceed 10% of the value of the claim.
 
-## 4. Exceptions[^key-c31bec89e974404997388aa38aff562a]
+## 4. Exceptions[^c-c31bec89e974404997388aa38aff562a]
 
 This Order does not apply to the following types of simple procedure case—
 
@@ -93,16 +93,16 @@ Further, by virtue of section 81(4) of the Courts Reform (Scotland) Act 2014 thi
 
 [^f00001]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18). There are amendments to the Courts Reform (Scotland) Act 2014 not relevant to this Order.
 
-[^key-cefcfb4a0016bbfaa70d4d41e85dddef]: Commencement: Art. 1 in force at 28.11.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/388/article/1)
+[^c-cefcfb4a0016bbfaa70d4d41e85dddef]: Commencement: Art. 1 in force at 28.11.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/388/article/1)
 
-[^key-2c169bbd9e9600f1e1ccf6d12e986587]: Commencement: Art. 2 in force at 28.11.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/388/article/1)
+[^c-2c169bbd9e9600f1e1ccf6d12e986587]: Commencement: Art. 2 in force at 28.11.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/388/article/1)
 
 [^f00002]: Footnote: “simple procedure case” is defined in section 72(9) of the Courts Reform (Scotland) Act 2014.
 
-[^key-53fe0412c494049b9a5dcea1d8948383]: Textual amendment: Sum in [art. 2](https://www.legislation.gov.uk/ssi/2016/388/article/2) substituted (1.4.2019) by [The Sheriff Court Simple Procedure (Limits on Award of Expenses) Amendment Order 2019 (S.S.I. 2019/79)](https://www.legislation.gov.uk/ssi/2019/79), [arts. 1](https://www.legislation.gov.uk/ssi/2019/79/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/79/article/2/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/79/article/3))
+[^c-53fe0412c494049b9a5dcea1d8948383]: Textual amendment: Sum in [art. 2](https://www.legislation.gov.uk/ssi/2016/388/article/2) substituted (1.4.2019) by [The Sheriff Court Simple Procedure (Limits on Award of Expenses) Amendment Order 2019 (S.S.I. 2019/79)](https://www.legislation.gov.uk/ssi/2019/79), [arts. 1](https://www.legislation.gov.uk/ssi/2019/79/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/79/article/2/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/79/article/3))
 
-[^key-9e60af3b7ffcdf892bab8f01c27b1bb2]: Commencement: Art. 3 in force at 28.11.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/388/article/1)
+[^c-9e60af3b7ffcdf892bab8f01c27b1bb2]: Commencement: Art. 3 in force at 28.11.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/388/article/1)
 
-[^key-0593761ef351149f9d36a6192c5048dc]: Textual amendment: Sum in [art. 3](https://www.legislation.gov.uk/ssi/2016/388/article/3) substituted (1.4.2019) by [The Sheriff Court Simple Procedure (Limits on Award of Expenses) Amendment Order 2019 (S.S.I. 2019/79)](https://www.legislation.gov.uk/ssi/2019/79), [arts. 1](https://www.legislation.gov.uk/ssi/2019/79/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/79/article/2/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/79/article/3))
+[^c-0593761ef351149f9d36a6192c5048dc]: Textual amendment: Sum in [art. 3](https://www.legislation.gov.uk/ssi/2016/388/article/3) substituted (1.4.2019) by [The Sheriff Court Simple Procedure (Limits on Award of Expenses) Amendment Order 2019 (S.S.I. 2019/79)](https://www.legislation.gov.uk/ssi/2019/79), [arts. 1](https://www.legislation.gov.uk/ssi/2019/79/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/79/article/2/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2019/79/article/3))
 
-[^key-c31bec89e974404997388aa38aff562a]: Commencement: Art. 4 in force at 28.11.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/388/article/1)
+[^c-c31bec89e974404997388aa38aff562a]: Commencement: Art. 4 in force at 28.11.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/388/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Determination of amount of outlays and remuneration[^key-970117d37dc030d4b8365c34af41649c]
+## 46. Determination of amount of outlays and remuneration[^c-970117d37dc030d4b8365c34af41649c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.32 of the 1986 Rules.
 
 ## Annotations
 
-[^key-970117d37dc030d4b8365c34af41649c]: Commencement: Rule 46 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-970117d37dc030d4b8365c34af41649c]: Commencement: Rule 46 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 8 — Control of certain protein sources[^key-0e4eca086e8b6d3ac3cec882c31205d4]
+## SCHEDULE 8 — Control of certain protein sources[^c-0e4eca086e8b6d3ac3cec882c31205d4]
 
 *Extent: N.I.*
 
@@ -63,6 +63,6 @@ Regulation 14 and Schedule 4 Part I, paragraph 30
 
 ## Annotations
 
-[^key-0e4eca086e8b6d3ac3cec882c31205d4]: Commencement: Sch. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-0e4eca086e8b6d3ac3cec882c31205d4]: Commencement: Sch. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00055]: Footnote: In this Schedule the contents laid down or to be declared in accordance with Columns 5 and 7 refer to the product as such.

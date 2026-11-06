@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Power to amend sections 3 and 4[^key-be7ca34c6a428ba0cdcb3a673898c7d8]
+## 5. Power to amend sections 3 and 4[^c-be7ca34c6a428ba0cdcb3a673898c7d8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulations may amend sections 3 and 4.
 
 ## Annotations
 
-[^key-be7ca34c6a428ba0cdcb3a673898c7d8]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2021/4/section/5) in force at 29.9.2021 by [S.I. 2021/1069](https://www.legislation.gov.uk/wsi/2021/1069), [art. 2](https://www.legislation.gov.uk/wsi/2021/1069/article/2)
+[^c-be7ca34c6a428ba0cdcb3a673898c7d8]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2021/4/section/5) in force at 29.9.2021 by [S.I. 2021/1069](https://www.legislation.gov.uk/wsi/2021/1069), [art. 2](https://www.legislation.gov.uk/wsi/2021/1069/article/2)

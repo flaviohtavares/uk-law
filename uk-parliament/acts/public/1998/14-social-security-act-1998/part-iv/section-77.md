@@ -48,7 +48,7 @@ it shall not apply in relation to that person.
 
 - (a) subsection (5)(a) of section 22 of the Contributions and Benefits Act (earnings factors);
 - (b) section 30C of that Act (incapacity benefit);
-- (c)[^key-969fe5812210863c5a9ba4b9a3ca1f3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-969fe5812210863c5a9ba4b9a3ca1f3d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) subsection (1)(e) of section 124 of that Act (income support) and, so far as relating to income support, subsection (1) of section 135 of that Act (the applicable amount);
 - (e) Part XIIA of that Act (incapacity for work);
 - (f) section 61A of the Administration Act and section 31 above (incapacity for work).
@@ -57,4 +57,4 @@ it shall not apply in relation to that person.
 
 ## Annotations
 
-[^key-969fe5812210863c5a9ba4b9a3ca1f3d]: Textual amendment: S. 77(8)(c) repealed (3.11.2000 for specified purposes, 6.4.2001 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 13 Pt. IV](https://www.legislation.gov.uk/ukpga/1999/30/schedule/13/part/IV); [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958), [art. 2(3)(g)](https://www.legislation.gov.uk/uksi/2000/2958/article/2/3/g)[(4)](https://www.legislation.gov.uk/uksi/2000/2958/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2000/2958/article/2/5) (with [arts. 3](https://www.legislation.gov.uk/uksi/2000/2958/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2958/article/4))
+[^c-969fe5812210863c5a9ba4b9a3ca1f3d]: Textual amendment: S. 77(8)(c) repealed (3.11.2000 for specified purposes, 6.4.2001 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 13 Pt. IV](https://www.legislation.gov.uk/ukpga/1999/30/schedule/13/part/IV); [S.I. 2000/2958](https://www.legislation.gov.uk/uksi/2000/2958), [art. 2(3)(g)](https://www.legislation.gov.uk/uksi/2000/2958/article/2/3/g)[(4)](https://www.legislation.gov.uk/uksi/2000/2958/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2000/2958/article/2/5) (with [arts. 3](https://www.legislation.gov.uk/uksi/2000/2958/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2958/article/4))

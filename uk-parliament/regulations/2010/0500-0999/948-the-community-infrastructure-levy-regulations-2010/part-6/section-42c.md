@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42C. Withdrawal of the exemption for residential annexes[^key-db9f19e3a3b83dea5a1f0fadddee210c]
+## 42C. Withdrawal of the exemption for residential annexes[^c-db9f19e3a3b83dea5a1f0fadddee210c]
 
 *Extent: E+W*
 
@@ -30,8 +30,8 @@ summary: ''
 
 (3) Where this regulation applies the relevant person is liable to pay—
 
-- (a) an amount of CIL equal to the amount of CIL that would have been payable on commencement of the development if the exemption had not been granted; [^key-9ca68605bdb65ed24a307ee0ebc8d017]...
-- (b)[^key-9ca68605bdb65ed24a307ee0ebc8d017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an amount of CIL equal to the amount of CIL that would have been payable on commencement of the development if the exemption had not been granted; [^c-9ca68605bdb65ed24a307ee0ebc8d017]...
+- (b)[^c-9ca68605bdb65ed24a307ee0ebc8d017] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The relevant person must notify the collecting authority in writing of the disqualifying event before the end of the period of 14 days beginning with the day on which the disqualifying event occurs.
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db9f19e3a3b83dea5a1f0fadddee210c]: Textual amendment: [Regs. 42A-42C](https://www.legislation.gov.uk/uksi/2010/948/regulation/42A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/1)
+[^c-db9f19e3a3b83dea5a1f0fadddee210c]: Textual amendment: [Regs. 42A-42C](https://www.legislation.gov.uk/uksi/2010/948/regulation/42A) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2014/385/regulation/7/1)
 
-[^key-9ca68605bdb65ed24a307ee0ebc8d017]: Textual amendment: [Reg. 42C(3)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/42C/3/b) and word omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(6)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-9ca68605bdb65ed24a307ee0ebc8d017]: Textual amendment: [Reg. 42C(3)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/42C/3/b) and word omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 11(6)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/11/6) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

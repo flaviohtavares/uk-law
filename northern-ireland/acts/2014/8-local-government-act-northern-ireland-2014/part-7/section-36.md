@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Meetings and proceedings[^key-1a7567d0679fb10ae27f35aa3d914504]
+## 36. Meetings and proceedings[^c-1a7567d0679fb10ae27f35aa3d914504]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 (which makes provision as respects meetings and proceedings of counci
 
 ## Annotations
 
-[^key-1a7567d0679fb10ae27f35aa3d914504]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2014/8/section/36) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-1a7567d0679fb10ae27f35aa3d914504]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2014/8/section/36) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

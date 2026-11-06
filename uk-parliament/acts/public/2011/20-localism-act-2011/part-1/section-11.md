@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Integrated Transport Authorities[^key-e79a432561429e4b7f6d0c2890732bd8]
+## 11. Integrated Transport Authorities[^c-e79a432561429e4b7f6d0c2890732bd8]
 
 *Extent: E+W*
 
@@ -129,4 +129,4 @@ In Part 5 of the Local Transport Act 2008 (integrated transport authorities etc)
 
 ## Annotations
 
-[^key-e79a432561429e4b7f6d0c2890732bd8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2011/20/section/11) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-e79a432561429e4b7f6d0c2890732bd8]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2011/20/section/11) in force at 18.2.2012 by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)

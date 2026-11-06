@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Northern Ireland Civil Service Pension Board: establishment[^key-86cb5e0067d21dc555ef61ae0f116a34]
+## 6. Northern Ireland Civil Service Pension Board: establishment[^c-86cb5e0067d21dc555ef61ae0f116a34]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86cb5e0067d21dc555ef61ae0f116a34]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/290/regulation/6) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-86cb5e0067d21dc555ef61ae0f116a34]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2014/290/regulation/6) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00040]: Footnote: ()See section 5(8) of the Act for the meaning of “pension board”

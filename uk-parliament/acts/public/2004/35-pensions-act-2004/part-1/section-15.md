@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Injunctions and interdicts[^key-e6c74820bdd5c67a3fe49b0875891c22]
+## 15. Injunctions and interdicts[^c-e6c74820bdd5c67a3fe49b0875891c22]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ the court may grant an injunction restraining him from doing so or, in Scotland,
 
 ## Annotations
 
-[^key-e6c74820bdd5c67a3fe49b0875891c22]: Commencement: S. 15 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-e6c74820bdd5c67a3fe49b0875891c22]: Commencement: S. 15 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

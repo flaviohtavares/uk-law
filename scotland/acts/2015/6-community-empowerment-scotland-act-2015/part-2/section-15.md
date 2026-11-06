@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Guidance[^key-80f7a9c870f89a07ec25a369813e07ce][^key-3d4893db07cb7368ba286e537f9a99a1]
+## 15. Guidance[^c-80f7a9c870f89a07ec25a369813e07ce][^c-3d4893db07cb7368ba286e537f9a99a1]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-80f7a9c870f89a07ec25a369813e07ce]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2015/6/section/15) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-80f7a9c870f89a07ec25a369813e07ce]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2015/6/section/15) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
 
-[^key-3d4893db07cb7368ba286e537f9a99a1]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2015/6/section/15) in force at 20.12.2016 in so far as not already in force by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-3d4893db07cb7368ba286e537f9a99a1]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2015/6/section/15) in force at 20.12.2016 in so far as not already in force by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)

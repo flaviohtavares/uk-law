@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.15. Forfeiture of a recognizance given by a surety[^key-781e99a8fe5ea97d185e6bade621b4e3]
+## 14.15. Forfeiture of a recognizance given by a surety[^c-781e99a8fe5ea97d185e6bade621b4e3]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ of the hearing at which the court will consider the forfeiture of the recognizan
 
 ## Annotations
 
-[^key-781e99a8fe5ea97d185e6bade621b4e3]: Commencement: [Rule 14.15](https://www.legislation.gov.uk/uksi/2025/909/rule/14.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-781e99a8fe5ea97d185e6bade621b4e3]: Commencement: [Rule 14.15](https://www.legislation.gov.uk/uksi/2025/909/rule/14.15) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00373]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 120 was amended by section 55 of the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37) and section 62 of, and paragraphs 45 and 56 of Schedule 13 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).

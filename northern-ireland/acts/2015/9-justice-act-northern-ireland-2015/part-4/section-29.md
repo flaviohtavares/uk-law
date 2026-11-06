@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Meaning of victim[^key-827b298973d3937bf7cc7d9d075c049d]
+## 29. Meaning of victim[^c-827b298973d3937bf7cc7d9d075c049d]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ references in section 28 to the victim are to be read as references to a member 
 
 ## Annotations
 
-[^key-827b298973d3937bf7cc7d9d075c049d]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2015/9/section/29) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/320/article/2/b)
+[^c-827b298973d3937bf7cc7d9d075c049d]: Commencement: [S. 29](https://www.legislation.gov.uk/nia/2015/9/section/29) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/320/article/2/b)

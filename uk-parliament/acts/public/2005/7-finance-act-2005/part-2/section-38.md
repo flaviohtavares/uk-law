@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Meaning of “disabled person”[^key-00e9239e3e17cb76da3a74e079a2c832]
+## 38. Meaning of “disabled person”[^c-00e9239e3e17cb76da3a74e079a2c832]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In this Chapter “**disabled person**” has the meaning given by Schedule 1A.
 
 ## Annotations
 
-[^key-00e9239e3e17cb76da3a74e079a2c832]: Textual amendment: S. 38 substituted (with effect in accordance with Sch. 44 para. 18 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 17](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/17)
+[^c-00e9239e3e17cb76da3a74e079a2c832]: Textual amendment: S. 38 substituted (with effect in accordance with Sch. 44 para. 18 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 44 para. 17](https://www.legislation.gov.uk/ukpga/2013/29/schedule/44/paragraph/17)

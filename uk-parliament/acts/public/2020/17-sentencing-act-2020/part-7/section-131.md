@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Fine imposed by Crown Court: power to search offender[^key-cd373185948474ec62098a3861e7141b]
+## 131. Fine imposed by Crown Court: power to search offender[^c-cd373185948474ec62098a3861e7141b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ See section 142 of the Powers of Criminal Courts (Sentencing) Act 2000 for the p
 
 ## Annotations
 
-[^key-cd373185948474ec62098a3861e7141b]: Commencement: S. 131 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-cd373185948474ec62098a3861e7141b]: Commencement: S. 131 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

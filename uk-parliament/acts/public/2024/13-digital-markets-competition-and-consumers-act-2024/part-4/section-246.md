@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 246. Meaning of “average consumer”: general[^key-38dd01bded07176c66d39ff0cc2ea497][^key-de002489e37432ac52b2a8c02f578197]
+## 246. Meaning of “average consumer”: general[^c-38dd01bded07176c66d39ff0cc2ea497][^c-de002489e37432ac52b2a8c02f578197]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38dd01bded07176c66d39ff0cc2ea497]: Commencement: S. 246 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-38dd01bded07176c66d39ff0cc2ea497]: Commencement: S. 246 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-de002489e37432ac52b2a8c02f578197]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2024/13/section/246) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-de002489e37432ac52b2a8c02f578197]: Commencement: [S. 246](https://www.legislation.gov.uk/ukpga/2024/13/section/246) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

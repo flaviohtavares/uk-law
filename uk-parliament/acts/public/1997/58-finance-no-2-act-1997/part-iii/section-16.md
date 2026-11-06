@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Limit on relief for interest for 1998-99.[^key-56f4d63dbd698ba3beb748cd93d55c09]
+## 16. Limit on relief for interest for 1998-99.[^c-56f4d63dbd698ba3beb748cd93d55c09]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56f4d63dbd698ba3beb748cd93d55c09]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1997/58/section/16) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-56f4d63dbd698ba3beb748cd93d55c09]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1997/58/section/16) repealed (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

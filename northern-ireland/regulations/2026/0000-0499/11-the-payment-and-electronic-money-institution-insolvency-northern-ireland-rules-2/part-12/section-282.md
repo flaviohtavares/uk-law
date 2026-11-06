@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 282. Right to have list of creditors[^key-2a720e2c223c45e31e3d68c0c0e9618a]
+## 282. Right to have list of creditors[^c-2a720e2c223c45e31e3d68c0c0e9618a]
 
 *Extent: N.I.*
 
@@ -43,4 +43,4 @@ the list furnished under paragraph (2) of this rule, shall state the number of e
 
 ## Annotations
 
-[^key-2a720e2c223c45e31e3d68c0c0e9618a]: Commencement: [Rule 282](https://www.legislation.gov.uk/nisr/2026/11/rule/282) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-2a720e2c223c45e31e3d68c0c0e9618a]: Commencement: [Rule 282](https://www.legislation.gov.uk/nisr/2026/11/rule/282) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

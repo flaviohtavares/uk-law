@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36.6. Hearings[^key-0f4af1b7bd76f756f2ca2ad07745e2fd]
+## 36.6. Hearings[^c-0f4af1b7bd76f756f2ca2ad07745e2fd]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ but it may order any hearing to be in private.
 
 ## Annotations
 
-[^key-0f4af1b7bd76f756f2ca2ad07745e2fd]: Commencement: [Rule 36.6](https://www.legislation.gov.uk/uksi/2025/909/rule/36.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-0f4af1b7bd76f756f2ca2ad07745e2fd]: Commencement: [Rule 36.6](https://www.legislation.gov.uk/uksi/2025/909/rule/36.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

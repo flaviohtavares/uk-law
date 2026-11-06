@@ -47,11 +47,11 @@ In accordance with section 6(8) of, and paragraph 6(5)(b) of Schedule 2 to, that
 
 Accordingly, the Secretary of State, in exercise of the powers conferred by sections 6(1) and 20 of, and paragraphs 11 and 16(2), (4) and (5) of Schedule 2 to, the Energy Act 2013, makes the following Regulations:
 
-## 1. Citation and commencement[^key-8abedaff9d988bc6f04d39f3f88c51a4]
+## 1. Citation and commencement[^c-8abedaff9d988bc6f04d39f3f88c51a4]
 
 These Regulations may be cited as the Electricity Market Reform (General) (Amendment) Regulations 2015 and come into force on the day after the date on which they are made.
 
-## 2. Amendment[^key-dcb40f636edbae46d10bbf6efda5b5aa]
+## 2. Amendment[^c-dcb40f636edbae46d10bbf6efda5b5aa]
 
 (1) The Electricity Market Reform (General) Regulations 2014[^f00002] are amended as follows.
 
@@ -152,8 +152,8 @@ A full impact assessment of the effect the CFD regime will have on the costs of 
 
 [^f00001]: Footnote: [2013 c. 32](https://www.legislation.gov.uk/ukpga/2013/32).
 
-[^key-8abedaff9d988bc6f04d39f3f88c51a4]: Commencement: Reg. 1 in force at 15.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/718/regulation/1)
+[^c-8abedaff9d988bc6f04d39f3f88c51a4]: Commencement: Reg. 1 in force at 15.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/718/regulation/1)
 
-[^key-dcb40f636edbae46d10bbf6efda5b5aa]: Commencement: Reg. 2 in force at 15.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/718/regulation/1)
+[^c-dcb40f636edbae46d10bbf6efda5b5aa]: Commencement: Reg. 2 in force at 15.3.2015, see [reg. 1](https://www.legislation.gov.uk/uksi/2015/718/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2014/2013](https://www.legislation.gov.uk/uksi/2014/2013).

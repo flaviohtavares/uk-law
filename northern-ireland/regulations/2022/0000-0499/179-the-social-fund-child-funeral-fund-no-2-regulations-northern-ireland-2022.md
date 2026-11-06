@@ -42,22 +42,22 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 134(1)(a) and (4), 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 1(1) and (1C), 5(1)(a), (j), (k) and (1A) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-d15ebb3261935a7db42482c3b9f0a06a]
+## 1. Citation and commencement[^c-d15ebb3261935a7db42482c3b9f0a06a]
 
 These Regulations may be cited as the Social Fund (Child Funeral Fund) (No. 2) Regulations (Northern Ireland) 2022 and shall come into operation on 1st June 2022.
 
-## 2. Interpretation[^key-d60d791f4678aea660937ce40c7f742a]
+## 2. Interpretation[^c-d60d791f4678aea660937ce40c7f742a]
 
 In these Regulations—
 
 - “**claimant**” means the person responsible for the fees and expenses chargeable in the organisation of the funeral of the deceased where the entitlement requirements in regulation 3 have been met;
-- Child Funeral Fund payment means—[^key-1aa7336454a51b8ff8306e6c0c1cfb23]
+- Child Funeral Fund payment means—[^c-1aa7336454a51b8ff8306e6c0c1cfb23]
   - (a) for funerals taking place on or before 30th November 2025 a one-off lump sum payment of £3,056.00, or
   - (b) for funerals taking place on or after 1st December 2025 a one-off lump sum payment of £3,441.00;
 - “**funeral**” includes erecting a memorial where there is no body; and
 - “**qualifying age**” means an age less than 18 years old”.
 
-## 3. Entitlement[^key-8021639ea3daaf67ef85fd9793bcaa2b]
+## 3. Entitlement[^c-8021639ea3daaf67ef85fd9793bcaa2b]
 
 (1) A claimant is entitled to a Child Funeral Fund payment where—
 
@@ -74,7 +74,7 @@ In these Regulations—
 - (a) any service or ceremony takes place in Northern Ireland; and
 - (b) the conditions in paragraph (1)(a) – (d) are met.
 
-## 4. Provisions against double payment[^key-e02faae1dfdb3d3dd6e5fd9da28990d8]
+## 4. Provisions against double payment[^c-e02faae1dfdb3d3dd6e5fd9da28990d8]
 
 No payment may be made under these Regulations if—
 
@@ -82,7 +82,7 @@ No payment may be made under these Regulations if—
 - (b) a payment has been made in respect of funeral expenses arising from the death of the same person under Regulations made under section 34 of the Social Security (Scotland) Act 2018[^f00005]; or
 - (c) a payment has been made in respect of funeral expenses arising from the death of the same person under the Social Fund (Children’s Funeral Fund for England) Regulations 2019[^f00006].
 
-## 5. Amendment of the Social Security Maternity and Funeral Expenses (General) Regulations[^key-5ca74abfdd629fca684835d8018e27a3]
+## 5. Amendment of the Social Security Maternity and Funeral Expenses (General) Regulations[^c-5ca74abfdd629fca684835d8018e27a3]
 
 (1) The Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005 are amended in accordance with paragraph (2).
 
@@ -92,13 +92,13 @@ No payment may be made under these Regulations if—
 
 .
 
-## 6. Amendment of the Social Security (Claims and Payments) Regulations[^key-6f772db19f8ec7afffd4d88801176d83]
+## 6. Amendment of the Social Security (Claims and Payments) Regulations[^c-6f772db19f8ec7afffd4d88801176d83]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00007] are amended in accordance with paragraph (2).
 
 (2) In regulation 2(1) (interpretation), in the definition of “social fund funeral payment”[^f00008] after “Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005” insert, “including social fund payments made under the Social Fund (Child Funeral Fund) (No. 2) Regulations (Northern Ireland) 2022”.
 
-## 7. Revocation[^key-88d1ff4e714a0d17474bec239e966197]
+## 7. Revocation[^c-88d1ff4e714a0d17474bec239e966197]
 
 The Social Fund (Child Funeral Fund) Regulations (Northern Ireland) 2022[^f00009] are revoked.
 
@@ -138,30 +138,30 @@ A regulatory impact assessment has not been produced for these Regulations as th
 
 [^f00003]: Footnote: see Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5) )
 
-[^key-d15ebb3261935a7db42482c3b9f0a06a]: Commencement: Reg. 1 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
+[^c-d15ebb3261935a7db42482c3b9f0a06a]: Commencement: Reg. 1 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
 
-[^key-d60d791f4678aea660937ce40c7f742a]: Commencement: Reg. 2 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
+[^c-d60d791f4678aea660937ce40c7f742a]: Commencement: Reg. 2 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
 
-[^key-1aa7336454a51b8ff8306e6c0c1cfb23]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2022/179/regulation/2) substituted (1.12.2025) by [The Social Fund (Child Funeral Fund) (No. 2) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/169)](https://www.legislation.gov.uk/nisr/2025/169), [regs. 1](https://www.legislation.gov.uk/nisr/2025/169/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/169/regulation/2/2)
+[^c-1aa7336454a51b8ff8306e6c0c1cfb23]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2022/179/regulation/2) substituted (1.12.2025) by [The Social Fund (Child Funeral Fund) (No. 2) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/169)](https://www.legislation.gov.uk/nisr/2025/169), [regs. 1](https://www.legislation.gov.uk/nisr/2025/169/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/169/regulation/2/2)
 
-[^key-8021639ea3daaf67ef85fd9793bcaa2b]: Commencement: Reg. 3 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
+[^c-8021639ea3daaf67ef85fd9793bcaa2b]: Commencement: Reg. 3 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 506](https://www.legislation.gov.uk/nisr/2005/506)
 
-[^key-e02faae1dfdb3d3dd6e5fd9da28990d8]: Commencement: Reg. 4 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
+[^c-e02faae1dfdb3d3dd6e5fd9da28990d8]: Commencement: Reg. 4 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
 
 [^f00005]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9)
 
 [^f00006]: Footnote: [S.R. 2019 No. 1064](https://www.legislation.gov.uk/nisr/2019/1064)
 
-[^key-5ca74abfdd629fca684835d8018e27a3]: Commencement: Reg. 5 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
+[^c-5ca74abfdd629fca684835d8018e27a3]: Commencement: Reg. 5 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
 
-[^key-6f772db19f8ec7afffd4d88801176d83]: Commencement: Reg. 6 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
+[^c-6f772db19f8ec7afffd4d88801176d83]: Commencement: Reg. 6 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 
 [^f00008]: Footnote: The Definition of “Social Fund Funeral Payment” was inserted by regulation 2(2)(c) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299)
 
-[^key-88d1ff4e714a0d17474bec239e966197]: Commencement: Reg. 7 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
+[^c-88d1ff4e714a0d17474bec239e966197]: Commencement: Reg. 7 in operation at 1.6.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/179/regulation/1)
 
 [^f00009]: Footnote: [S.R. 2022 No. 165](https://www.legislation.gov.uk/nisr/2022/165)

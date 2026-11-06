@@ -22,18 +22,18 @@ summary: ''
 
 Article 23
 
-### 1. Compensation enactments[^key-8203211fdd700561f4855e4b9d3a5b95]
+### 1. Compensation enactments[^c-8203211fdd700561f4855e4b9d3a5b95]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply, with the necessary modifications as respects compensation, in the case of a compulsory acquisition under this Order of a right, by the creation of a new right or imposition of a restriction as they apply as respects compensation on the compulsory purchase of land and interests in land.
 
-**2.**[^key-03cb44679dc830f9ba62656322de744d] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00047] has effect subject to the modifications set out in sub-paragraph (2).
+**2.**[^c-03cb44679dc830f9ba62656322de744d] (1) Without limitation on the scope of paragraph 1, the Land Compensation Act 1973[^f00047] has effect subject to the modifications set out in sub-paragraph (2).
 
 (2) In section 44(1) (compensation for injurious affection), as it applies to compensation for injurious affection under section 7 of the 1965 Act as substituted by paragraph 5—
 
 - (a) for “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-**3.**[^key-9a7af34bafeda8d744a40e00aa633395] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
+**3.**[^c-9a7af34bafeda8d744a40e00aa633395] (1) Without limitation on the scope of paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
 (2) For Section 5A(5A) (relevant valuation date) of the 1961 Act, after “If” substitute—
 
@@ -45,7 +45,7 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 4. Application of the 1965 Act[^key-ab34e1f7e52886fb1881525649878033]
+### 4. Application of the 1965 Act[^c-ab34e1f7e52886fb1881525649878033]
 
 (1) The 1965 Act has effect with the modifications necessary to make it apply to the compulsory acquisition under this Order of a right by the creation of a new right, or to the imposition under this Order of a restrictive covenant, as it applies to the compulsory acquisition under this Order of land, so that, in appropriate contexts, references in that Act to land must be read (according to the requirements of the particular context) as referring to, or as including references to—
 
@@ -61,11 +61,11 @@ The enactments for the time being in force with respect to compensation for the 
 - (a) for “section 23 of the Acquisition of Land Act 1981 (application to High Court in respect of compulsory purchase order)” substitute “section 118 of the Planning Act 2008 (legal challenges relating to applications for orders granting development consent”; and
 - (b) for “the three year period mentioned in section 4” substitute “the five year period mentioned in article 32 of the National Grid (Bramford to Twinstead Reinforcement) Order 2024”.
 
-**5.**[^key-d353bd6d4a4cb69147ac8966df420c5c] For section 7 of the 1965 Act (measure of compensation in case of severance) substitute—
+**5.**[^c-d353bd6d4a4cb69147ac8966df420c5c] For section 7 of the 1965 Act (measure of compensation in case of severance) substitute—
 
 > **7.** In assessing the compensation to be paid by the acquiring authority under this Act, regard must be had not only to the extent (if any) to which the value of the land over which the right is to be acquired or the restrictive covenant is to be imposed is depreciated by the acquisition of the right or the imposition of the covenant but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of the owner, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
-**6.**[^key-90b6eb706094b2157e1bbd3e13cbe214] For section 8 of the 1965 Act (provisions as to divided land) substitute—
+**6.**[^c-90b6eb706094b2157e1bbd3e13cbe214] For section 8 of the 1965 Act (provisions as to divided land) substitute—
 
 > **8.** (1) Where in consequence of the service on a person under section 5 of this Act of a notice to treat in respect of a right over land consisting of a house, building or manufactory or of a park or garden belonging to a house (“**the relevant land**”)—
 >
@@ -82,7 +82,7 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-**7.**[^key-7d80838fb3d9fde3d6b64bd81aba2f00] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
+**7.**[^c-7d80838fb3d9fde3d6b64bd81aba2f00] The following provisions of the 1965 Act (which state the effect of a deed poll executed in various circumstances where there is no conveyance by persons with interests in the land), that is to say—
 
 - (a) section 9(4) (failure by owners to convey);
 - (b) paragraph 10(3) of Schedule 1 (conveyance of the land or interest);
@@ -91,15 +91,15 @@ The enactments for the time being in force with respect to compensation for the 
 
 are modified to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired or the restrictive covenant which is to be imposed is vested absolutely in the acquiring authority.
 
-**8.**[^key-a2346128888462337856f55da03c8507] Section 11[^f00048] of the 1965 Act (powers of entry) is modified to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right or restriction, it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right or enforcing that restrictive covenant (which is deemed for this purpose to have been created on the date of service of the notice); and sections 12[^f00049] (penalty for unauthorised entry) and 13[^f00050] (entry on warrant in the event of obstruction) of the 1965 Act are modified correspondingly.
+**8.**[^c-a2346128888462337856f55da03c8507] Section 11[^f00048] of the 1965 Act (powers of entry) is modified to secure that, as from the date on which the acquiring authority has served notice to treat in respect of any right or restriction, it has power, exercisable in equivalent circumstances and subject to equivalent conditions, to enter for the purpose of exercising that right or enforcing that restrictive covenant (which is deemed for this purpose to have been created on the date of service of the notice); and sections 12[^f00049] (penalty for unauthorised entry) and 13[^f00050] (entry on warrant in the event of obstruction) of the 1965 Act are modified correspondingly.
 
-**9.**[^key-9eb253cd829e762b1d3c72f0bf9880da] Section 20[^f00051] of the 1965 Act (protection for interests of tenants at will, etc.) applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right or the enforcement of the restrictive covenant in question.
+**9.**[^c-9eb253cd829e762b1d3c72f0bf9880da] Section 20[^f00051] of the 1965 Act (protection for interests of tenants at will, etc.) applies with the modifications necessary to secure that persons with such interests in land as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition under this Order of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right or the enforcement of the restrictive covenant in question.
 
-**10.**[^key-24af5c6142fcde614e16b357d7eff275] Section 22 of the 1965 Act (interests omitted from purchase) is modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired or to enforce the restriction imposed, subject to compliance with that section as respects compensation.
+**10.**[^c-24af5c6142fcde614e16b357d7eff275] Section 22 of the 1965 Act (interests omitted from purchase) is modified as to enable the acquiring authority, in circumstances corresponding to those referred to in that section, to continue to be entitled to exercise the right acquired or to enforce the restriction imposed, subject to compliance with that section as respects compensation.
 
-**11.**[^key-8215db103d7e40f4c379b9e8050126f3] In section 22(2) (expiry of time limit for exercise of compulsory purchase power not to affect acquisition of interests omitted from purchase) for “section 4 of this Act” substitute “article 32 (time limit for exercise of authority to acquire land and rights compulsorily) of the National Grid (Bramford to Twinstead Reinforcement) Order 2024”.
+**11.**[^c-8215db103d7e40f4c379b9e8050126f3] In section 22(2) (expiry of time limit for exercise of compulsory purchase power not to affect acquisition of interests omitted from purchase) for “section 4 of this Act” substitute “article 32 (time limit for exercise of authority to acquire land and rights compulsorily) of the National Grid (Bramford to Twinstead Reinforcement) Order 2024”.
 
-**12.**[^key-817a0eff3347a4be8f2e58a5ca28ca89] For Schedule 2A of the 1965 Act substitute—
+**12.**[^c-817a0eff3347a4be8f2e58a5ca28ca89] For Schedule 2A of the 1965 Act substitute—
 
 > **SCHEDULE 2A — COUNTER-NOTICE REQUIRING PURCHASE OF LAND**
 >
@@ -156,27 +156,27 @@ are modified to secure that, as against persons with interests in the land which
 
 .
 
-**13.**[^key-b72a7c8aaa0e8db6560a77d0eaa2a4c1] In this Schedule, references to entering on and taking possession of land do not include doing so under articles 20 (protective works), 25 (temporary use of land by National Grid) or 27 (temporary use of land for maintaining the authorised development) of this Order.
+**13.**[^c-b72a7c8aaa0e8db6560a77d0eaa2a4c1] In this Schedule, references to entering on and taking possession of land do not include doing so under articles 20 (protective works), 25 (temporary use of land by National Grid) or 27 (temporary use of land for maintaining the authorised development) of this Order.
 
 ## Annotations
 
-[^key-8203211fdd700561f4855e4b9d3a5b95]: Commencement: Sch. 9 para. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-8203211fdd700561f4855e4b9d3a5b95]: Commencement: Sch. 9 para. 1 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-03cb44679dc830f9ba62656322de744d]: Commencement: Sch. 9 para. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-03cb44679dc830f9ba62656322de744d]: Commencement: Sch. 9 para. 2 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00047]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-9a7af34bafeda8d744a40e00aa633395]: Commencement: Sch. 9 para. 3 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-9a7af34bafeda8d744a40e00aa633395]: Commencement: Sch. 9 para. 3 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-ab34e1f7e52886fb1881525649878033]: Commencement: Sch. 9 para. 4 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-ab34e1f7e52886fb1881525649878033]: Commencement: Sch. 9 para. 4 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-d353bd6d4a4cb69147ac8966df420c5c]: Commencement: Sch. 9 para. 5 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-d353bd6d4a4cb69147ac8966df420c5c]: Commencement: Sch. 9 para. 5 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-90b6eb706094b2157e1bbd3e13cbe214]: Commencement: Sch. 9 para. 6 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-90b6eb706094b2157e1bbd3e13cbe214]: Commencement: Sch. 9 para. 6 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-7d80838fb3d9fde3d6b64bd81aba2f00]: Commencement: Sch. 9 para. 7 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-7d80838fb3d9fde3d6b64bd81aba2f00]: Commencement: Sch. 9 para. 7 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-a2346128888462337856f55da03c8507]: Commencement: Sch. 9 para. 8 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-a2346128888462337856f55da03c8507]: Commencement: Sch. 9 para. 8 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00048]: Footnote: Section 11 was amended by Schedule 4 to the Acquisition of Land Act 1981 (c. 67, sections 186, 187 and 188 of, and Schedules 14 and 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No.1)](https://www.legislation.gov.uk/ukcm/2006/1) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
@@ -184,14 +184,14 @@ are modified to secure that, as against persons with interests in the land which
 
 [^f00050]: Footnote: Section 13 was amended by section 139(4) to (9) of, and paragraph 28 of Schedule 13 and paragraph 1 of Schedule 23 to, the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-9eb253cd829e762b1d3c72f0bf9880da]: Commencement: Sch. 9 para. 9 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-9eb253cd829e762b1d3c72f0bf9880da]: Commencement: Sch. 9 para. 9 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00051]: Footnote: Section 20 was amended by paragraph 4 of Schedule 15 to the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 
-[^key-24af5c6142fcde614e16b357d7eff275]: Commencement: Sch. 9 para. 10 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-24af5c6142fcde614e16b357d7eff275]: Commencement: Sch. 9 para. 10 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-8215db103d7e40f4c379b9e8050126f3]: Commencement: Sch. 9 para. 11 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-8215db103d7e40f4c379b9e8050126f3]: Commencement: Sch. 9 para. 11 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-817a0eff3347a4be8f2e58a5ca28ca89]: Commencement: Sch. 9 para. 12 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-817a0eff3347a4be8f2e58a5ca28ca89]: Commencement: Sch. 9 para. 12 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-b72a7c8aaa0e8db6560a77d0eaa2a4c1]: Commencement: Sch. 9 para. 13 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-b72a7c8aaa0e8db6560a77d0eaa2a4c1]: Commencement: Sch. 9 para. 13 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

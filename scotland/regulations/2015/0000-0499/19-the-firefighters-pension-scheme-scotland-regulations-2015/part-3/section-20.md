@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Deferred membership[^key-59180a1122c1b23c988a75f17bb63b77]
+## 20. Deferred membership[^c-59180a1122c1b23c988a75f17bb63b77]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ A person (P) is a deferred member of this scheme in relation to a continuous per
 
 ## Annotations
 
-[^key-59180a1122c1b23c988a75f17bb63b77]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/19/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-59180a1122c1b23c988a75f17bb63b77]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/19/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

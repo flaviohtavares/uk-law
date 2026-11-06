@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Concurrent appointment for functions of issuing guidance[^key-a7892a35c5cfe7664fdc392679fa99c7]
+## 4. Concurrent appointment for functions of issuing guidance[^c-a7892a35c5cfe7664fdc392679fa99c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7892a35c5cfe7664fdc392679fa99c7]: Commencement: Reg. 4 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-a7892a35c5cfe7664fdc392679fa99c7]: Commencement: Reg. 4 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

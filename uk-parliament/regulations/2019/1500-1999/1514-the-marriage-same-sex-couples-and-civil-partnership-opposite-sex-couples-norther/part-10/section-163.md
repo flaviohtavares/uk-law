@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Equality Act (Sexual Orientation) Regulations (Northern Ireland) 2006[^key-ff692377159640a33b1e5de9507c4b59]
+## 163. Equality Act (Sexual Orientation) Regulations (Northern Ireland) 2006[^c-ff692377159640a33b1e5de9507c4b59]
 
 *Extent: N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff692377159640a33b1e5de9507c4b59]: Commencement: Reg. 163 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-ff692377159640a33b1e5de9507c4b59]: Commencement: Reg. 163 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00272]: Footnote: [S.R. (N.I.) 2006/439](https://www.legislation.gov.uk/nisr/2006/439).

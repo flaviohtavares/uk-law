@@ -27,8 +27,8 @@ summary: ''
 
 (2) “**Relevant persons**” means—
 
-- (a) the monitored promoter, [^key-6ac027f90b6665255335480770c87a30]...
-- (aa)[^key-549505b1b24b3887534a30235c8d3e51] any person who HMRC know falls within the case described in paragraph 3 of Schedule 33A by virtue of acting under the instruction or guidance of the monitored promoter, and
+- (a) the monitored promoter, [^c-6ac027f90b6665255335480770c87a30]...
+- (aa)[^c-549505b1b24b3887534a30235c8d3e51] any person who HMRC know falls within the case described in paragraph 3 of Schedule 33A by virtue of acting under the instruction or guidance of the monitored promoter, and
 - (b) if the monitored promoter is resident outside the United Kingdom, any person who HMRC know is an intermediary in relation to a relevant proposal of the monitored promoter.
 
 (3) The “**appeal period**” means—
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac027f90b6665255335480770c87a30]: Textual amendment: Word in [s. 250(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/250/2/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 13(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/13/a)
+[^c-6ac027f90b6665255335480770c87a30]: Textual amendment: Word in [s. 250(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/section/250/2/a) omitted (with effect in accordance with s. 121(6) of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 13(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/13/a)
 
-[^key-549505b1b24b3887534a30235c8d3e51]: Textual amendment: [S. 250(2)(aa)](https://www.legislation.gov.uk/ukpga/2014/26/section/250/2/aa) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 13(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/13/b)
+[^c-549505b1b24b3887534a30235c8d3e51]: Textual amendment: [S. 250(2)(aa)](https://www.legislation.gov.uk/ukpga/2014/26/section/250/2/aa) inserted (with effect in accordance with s. 121(6) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 30 para. 13(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/30/paragraph/13/b)

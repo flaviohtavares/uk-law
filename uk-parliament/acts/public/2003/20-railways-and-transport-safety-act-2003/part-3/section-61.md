@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Inquiry: supplemental[^key-d35f9b950d5f824db38371f543640c9c]
+## 61. Inquiry: supplemental[^c-d35f9b950d5f824db38371f543640c9c]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d35f9b950d5f824db38371f543640c9c]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2003/20/section/61) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(rr)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/rr)
+[^c-d35f9b950d5f824db38371f543640c9c]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2003/20/section/61) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(rr)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/rr)

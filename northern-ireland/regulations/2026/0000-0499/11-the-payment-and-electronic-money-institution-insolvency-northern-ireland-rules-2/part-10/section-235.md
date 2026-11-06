@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 235. Appeals and reviews of court orders[^key-f67a833b971ad3fb07ad723eb33b53f4]
+## 235. Appeals and reviews of court orders[^c-f67a833b971ad3fb07ad723eb33b53f4]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f67a833b971ad3fb07ad723eb33b53f4]: Commencement: [Rule 235](https://www.legislation.gov.uk/nisr/2026/11/rule/235) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-f67a833b971ad3fb07ad723eb33b53f4]: Commencement: [Rule 235](https://www.legislation.gov.uk/nisr/2026/11/rule/235) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

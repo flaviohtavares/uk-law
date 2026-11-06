@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Simple majority[^key-eef0521d2ef42548ff44516e88eb8de1]
+## 39. Simple majority[^c-eef0521d2ef42548ff44516e88eb8de1]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eef0521d2ef42548ff44516e88eb8de1]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2014/8/section/39) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-eef0521d2ef42548ff44516e88eb8de1]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2014/8/section/39) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

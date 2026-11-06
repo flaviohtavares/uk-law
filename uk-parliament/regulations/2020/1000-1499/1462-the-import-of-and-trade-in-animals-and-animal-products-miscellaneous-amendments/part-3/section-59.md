@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Commission Decision 2011/163/EU on the approval of plans submitted by third countries[^key-a15b484b5a1fc7b05bdf89c0ff360c6b]
+## 59. Commission Decision 2011/163/EU on the approval of plans submitted by third countries[^c-a15b484b5a1fc7b05bdf89c0ff360c6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a15b484b5a1fc7b05bdf89c0ff360c6b]: Commencement: Reg. 59 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)
+[^c-a15b484b5a1fc7b05bdf89c0ff360c6b]: Commencement: Reg. 59 in force at 31.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1462/regulation/1/3)

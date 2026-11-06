@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Consequential amendment to the 2010 Regulations[^key-6c692058f923717d53e97a197cda4203]
+## 40. Consequential amendment to the 2010 Regulations[^c-6c692058f923717d53e97a197cda4203]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 12(7) of the 2010 Regulations, for “regulation 19 of the Buildin
 
 ## Annotations
 
-[^key-6c692058f923717d53e97a197cda4203]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2024/1268/regulation/40) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-6c692058f923717d53e97a197cda4203]: Commencement: [Reg. 40](https://www.legislation.gov.uk/wsi/2024/1268/regulation/40) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

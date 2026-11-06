@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND PERSONAL SOCIAL SERVICES
 
-General Medical Services (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-ffacfb6a1e414cb1ccfef6dfd9259a84]
+General Medical Services (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-ffacfb6a1e414cb1ccfef6dfd9259a84]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 1st August 2000
 
-[^key-ffacfb6a1e414cb1ccfef6dfd9259a84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffacfb6a1e414cb1ccfef6dfd9259a84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ffacfb6a1e414cb1ccfef6dfd9259a84]
+## 1. Citation, commencement and interpretation[^c-ffacfb6a1e414cb1ccfef6dfd9259a84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-ffacfb6a1e414cb1ccfef6dfd9259a84]
+## 2. Amendment of the principal Regulations[^c-ffacfb6a1e414cb1ccfef6dfd9259a84]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ffacfb6a1e414cb1ccfef6dfd9259a84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffacfb6a1e414cb1ccfef6dfd9259a84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ffacfb6a1e414cb1ccfef6dfd9259a84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ffacfb6a1e414cb1ccfef6dfd9259a84]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ffacfb6a1e414cb1ccfef6dfd9259a84]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/217) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)
+[^c-ffacfb6a1e414cb1ccfef6dfd9259a84]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/217) revoked (1.4.2004) by [The General Medical Services Transitional and Consequential Provisions (No. 2) (Northern Ireland) Order 2004 (S.R. 2004/156)](https://www.legislation.gov.uk/nisr/2004/156), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2004/156/schedule/2)

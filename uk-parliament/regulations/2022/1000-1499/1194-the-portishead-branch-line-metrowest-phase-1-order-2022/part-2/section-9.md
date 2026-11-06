@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Benefit of Order[^key-19d56ea414c1dc3a75ecefa01eab8ef1]
+## 9. Benefit of Order[^c-19d56ea414c1dc3a75ecefa01eab8ef1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to article 10 (consent to transfer benefit of Order) and article 11 (agr
 
 ## Annotations
 
-[^key-19d56ea414c1dc3a75ecefa01eab8ef1]: Commencement: Art. 9 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-19d56ea414c1dc3a75ecefa01eab8ef1]: Commencement: Art. 9 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A.1. Interpretation[^key-c31fab2c436238e66887a59bc9717311]
+## 3A.1. Interpretation[^c-c31fab2c436238e66887a59bc9717311]
 
 *Extent: E+W*
 
@@ -24,8 +24,8 @@ In this Part—
 
 - “child” means a person under the age of 18 years whether or not the child is the subject of the proceedings, except that—
   - (a) in adoption proceedings, it also includes a person who is the subject of proceedings and has attained the age of 18 years before the proceedings are concluded; and
-  - (b) in proceedings brought under [^key-6ab4fc10add1d12df1fd97c861440576]... the 1980 Hague Convention or the European Convention, it means a person under the age of 16 years who is the subject of proceedings;
-- [^key-bbde4346c6b2cfc5f4047f0a73a4fd6a]...
+  - (b) in proceedings brought under [^c-6ab4fc10add1d12df1fd97c861440576]... the 1980 Hague Convention or the European Convention, it means a person under the age of 16 years who is the subject of proceedings;
+- [^c-bbde4346c6b2cfc5f4047f0a73a4fd6a]...
 - “intermediary” means a person whose function is to—
   - (a) communicate questions put to a witness or party;
   - (b) communicate to any person asking such questions the answers given by the witness or party in reply to them; and
@@ -37,17 +37,17 @@ In this Part—
   - (b) a direction that a witness or party should have the assistance of one or more of the measures in rule 3A.8; and
 
   references to “quality of evidence” are to its quality in terms of completeness, coherence and accuracy; and for this purpose “coherence” refers to a witness’s or a party’s ability in giving evidence to give answers which address the questions put to the witness or the party and which can be understood both individually and collectively.
-- “relative” has the meaning given by section 63(1) of the 1996 Act;[^key-717ce5b75d635f64957c4740ee5790cf]
-- “victim” includes a child to whom section 3[^key-a75097f623d79957ac0cc3195140096a] of the Domestic Abuse Act 2021 applies; and
+- “relative” has the meaning given by section 63(1) of the 1996 Act;[^c-717ce5b75d635f64957c4740ee5790cf]
+- “victim” includes a child to whom section 3[^c-a75097f623d79957ac0cc3195140096a] of the Domestic Abuse Act 2021 applies; and
 
 ## Annotations
 
-[^key-c31fab2c436238e66887a59bc9717311]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2010/2955/part/3A) inserted (27.11.2017) by [The Family Procedure (Amendment No. 3) Rules 2017 (S.I. 2017/1033)](https://www.legislation.gov.uk/uksi/2017/1033), [rules 1](https://www.legislation.gov.uk/uksi/2017/1033/rule/1), [3](https://www.legislation.gov.uk/uksi/2017/1033/rule/3)
+[^c-c31fab2c436238e66887a59bc9717311]: Textual amendment: [Pt. 3A](https://www.legislation.gov.uk/uksi/2010/2955/part/3A) inserted (27.11.2017) by [The Family Procedure (Amendment No. 3) Rules 2017 (S.I. 2017/1033)](https://www.legislation.gov.uk/uksi/2017/1033), [rules 1](https://www.legislation.gov.uk/uksi/2017/1033/rule/1), [3](https://www.legislation.gov.uk/uksi/2017/1033/rule/3)
 
-[^key-6ab4fc10add1d12df1fd97c861440576]: Textual amendment: Words in [rule 3A.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.1) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6ab4fc10add1d12df1fd97c861440576]: Textual amendment: Words in [rule 3A.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.1) omitted (31.12.2020) by virtue of [The Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/517)](https://www.legislation.gov.uk/uksi/2019/517), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/517/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bbde4346c6b2cfc5f4047f0a73a4fd6a]: Textual amendment: Words in [rule 3A.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.1) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [15(a)](https://www.legislation.gov.uk/uksi/2023/1324/rule/15/a)
+[^c-bbde4346c6b2cfc5f4047f0a73a4fd6a]: Textual amendment: Words in [rule 3A.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.1) omitted (29.4.2024) by virtue of [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [15(a)](https://www.legislation.gov.uk/uksi/2023/1324/rule/15/a)
 
-[^key-717ce5b75d635f64957c4740ee5790cf]: Textual amendment: Words in [rule 3A.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.1) inserted (1.10.2021) by [The Family Procedure (Amendment No. 2) Rules 2021 (S.I. 2021/875)](https://www.legislation.gov.uk/uksi/2021/875), [rules 1](https://www.legislation.gov.uk/uksi/2021/875/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/875/rule/3/b); [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/d)
+[^c-717ce5b75d635f64957c4740ee5790cf]: Textual amendment: Words in [rule 3A.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.1) inserted (1.10.2021) by [The Family Procedure (Amendment No. 2) Rules 2021 (S.I. 2021/875)](https://www.legislation.gov.uk/uksi/2021/875), [rules 1](https://www.legislation.gov.uk/uksi/2021/875/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/875/rule/3/b); [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/2/d)
 
-[^key-a75097f623d79957ac0cc3195140096a]: Textual amendment: Words in [rule 3A.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.1) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [15(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/15/b)
+[^c-a75097f623d79957ac0cc3195140096a]: Textual amendment: Words in [rule 3A.1](https://www.legislation.gov.uk/uksi/2010/2955/rule/3A.1) substituted (29.4.2024) by [The Family Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/1324)](https://www.legislation.gov.uk/uksi/2023/1324), [rules 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/1/3/b), [15(b)](https://www.legislation.gov.uk/uksi/2023/1324/rule/15/b)

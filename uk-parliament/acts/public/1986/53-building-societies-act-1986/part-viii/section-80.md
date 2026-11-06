@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Every balance sheet of a building society shall be signed by one director[^key-b7998e0844d4008c22473b90797b894e] on behalf of the board of directors [^key-f19dbc60b13388d1232a2c8fc8643b8c]....
+(1) Every balance sheet of a building society shall be signed by one director[^c-b7998e0844d4008c22473b90797b894e] on behalf of the board of directors [^c-f19dbc60b13388d1232a2c8fc8643b8c]....
 
 (2) The income and expenditure account, [^c15512581]. . . and the annual business statement shall be annexed to the balance sheet, and so shall any group accounts; and the auditor’s report shall be attached to it.
 
@@ -35,16 +35,16 @@ summary: ''
 - (a) without having annexed to it a copy of the income and expenditure account, or
 - (b)[^c15512601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) without having annexed to it a copy of the annual business statement, or
-- (d) without having attached to it a copy of the auditor’s report[^key-1b378ece79c057c1dc70bc455bf57585], or
+- (d) without having attached to it a copy of the auditor’s report[^c-1b378ece79c057c1dc70bc455bf57585], or
 - (e) without having attached to it a copy of the directors’ report,
 
 the building society shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale and so shall any officer who is also guilty of the offence.
 
 ## Annotations
 
-[^key-b7998e0844d4008c22473b90797b894e]: Textual amendment: Words in s. 80(1) substituted (6.1.2025) by [The Building Societies Act 1986 (Modifications) Order 2024 (S.I. 2024/1346)](https://www.legislation.gov.uk/uksi/2024/1346), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1346/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1346/article/2/4/a)
+[^c-b7998e0844d4008c22473b90797b894e]: Textual amendment: Words in s. 80(1) substituted (6.1.2025) by [The Building Societies Act 1986 (Modifications) Order 2024 (S.I. 2024/1346)](https://www.legislation.gov.uk/uksi/2024/1346), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1346/article/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/1346/article/2/4/a)
 
-[^key-f19dbc60b13388d1232a2c8fc8643b8c]: Textual amendment: Words in s. 80(1) omitted (6.1.2025) by virtue of [The Building Societies Act 1986 (Modifications) Order 2024 (S.I. 2024/1346)](https://www.legislation.gov.uk/uksi/2024/1346), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1346/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1346/article/2/4/b)
+[^c-f19dbc60b13388d1232a2c8fc8643b8c]: Textual amendment: Words in s. 80(1) omitted (6.1.2025) by virtue of [The Building Societies Act 1986 (Modifications) Order 2024 (S.I. 2024/1346)](https://www.legislation.gov.uk/uksi/2024/1346), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1346/article/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/1346/article/2/4/b)
 
 [^c15512581]: Textual amendment: Words in s. 80(2) omitted (23.3.1999) by virtue of [S.I. 1999/248](https://www.legislation.gov.uk/uksi/1999/248), [reg. 3](https://www.legislation.gov.uk/uksi/1999/248/regulation/3), [Sch. para. 5(1)](https://www.legislation.gov.uk/uksi/1999/248/schedule/paragraph/5/1)
 
@@ -52,4 +52,4 @@ the building society shall be liable on summary conviction to a fine not exceedi
 
 [^c15512601]: Textual amendment: S. 80(6)(b) omitted (23.3.1999) by virtue of [S.I. 1999/248](https://www.legislation.gov.uk/uksi/1999/248), [reg. 3](https://www.legislation.gov.uk/uksi/1999/248/regulation/3), [Sch. para. 5(3)](https://www.legislation.gov.uk/uksi/1999/248/schedule/paragraph/5/3)
 
-[^key-1b378ece79c057c1dc70bc455bf57585]: Textual amendment: Words in s. 80(6)(d) substituted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/1519/schedule/2/paragraph/6)
+[^c-1b378ece79c057c1dc70bc455bf57585]: Textual amendment: Words in s. 80(6)(d) substituted (29.6.2008) by [The Building Societies Act 1986 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1519)](https://www.legislation.gov.uk/uksi/2008/1519), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/1519/article/1/2), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2008/1519/schedule/2/paragraph/6)

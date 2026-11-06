@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 190. Payments into court[^key-c918fa61a4635b9ab3fd0ae30ba97a39]
+## 190. Payments into court[^c-c918fa61a4635b9ab3fd0ae30ba97a39]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Order 22 of the Rules of the Court of Judicature (miscellaneous provisions about
 
 ## Annotations
 
-[^key-c918fa61a4635b9ab3fd0ae30ba97a39]: Commencement: [Rule 190](https://www.legislation.gov.uk/nisr/2026/11/rule/190) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c918fa61a4635b9ab3fd0ae30ba97a39]: Commencement: [Rule 190](https://www.legislation.gov.uk/nisr/2026/11/rule/190) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

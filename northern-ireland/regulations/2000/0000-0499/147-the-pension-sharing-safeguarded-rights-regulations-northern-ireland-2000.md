@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Pension Sharing (Safeguarded Rights) Regulations (Northern Ireland) 2000 (revoked)[^key-82390828daad13bfe6269ac2b0ca33ff]
+The Pension Sharing (Safeguarded Rights) Regulations (Northern Ireland) 2000 (revoked)[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 Made
 
@@ -41,64 +41,64 @@ Coming into operation
 
 1st December 2000
 
-[^key-82390828daad13bfe6269ac2b0ca33ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82390828daad13bfe6269ac2b0ca33ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 1. Citation, commencement and interpretation[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Definition of contracted-out rights[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 2. Definition of contracted-out rights[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirements for schemes holding safeguarded rights[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 3. Requirements for schemes holding safeguarded rights[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Identification of safeguarded rights[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 4. Identification of safeguarded rights[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Valuation of safeguarded rights in money purchase schemes[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 5. Valuation of safeguarded rights in money purchase schemes[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Ways of giving effect to safeguarded rights — money purchase schemes[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 6. Ways of giving effect to safeguarded rights — money purchase schemes[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. The pension and annuity requirements — money purchase schemes[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 7. The pension and annuity requirements — money purchase schemes[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Insurance companies that may provide safeguarded rights by way of annuities[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 8. Insurance companies that may provide safeguarded rights by way of annuities[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Ways of giving effect to safeguarded rights—salary related schemes[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 9. Ways of giving effect to safeguarded rights—salary related schemes[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Payable age in salary related contracted-out schemes[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 10. Payable age in salary related contracted-out schemes[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Investment and resources of safeguarded rights[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 11. Investment and resources of safeguarded rights[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Suspension and forfeiture of safeguarded rights[^key-82390828daad13bfe6269ac2b0ca33ff]
+## 12. Suspension and forfeiture of safeguarded rights[^c-82390828daad13bfe6269ac2b0ca33ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-82390828daad13bfe6269ac2b0ca33ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82390828daad13bfe6269ac2b0ca33ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-82390828daad13bfe6269ac2b0ca33ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-82390828daad13bfe6269ac2b0ca33ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-82390828daad13bfe6269ac2b0ca33ff]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/147) revoked (6.4.2009) by [The Pensions (2008 Acts) (Consequential Provisions) Order (Northern Ireland) 2009 (S.R. 2009/113)](https://www.legislation.gov.uk/nisr/2009/113), [arts. 1](https://www.legislation.gov.uk/nisr/2009/113/article/1), [12](https://www.legislation.gov.uk/nisr/2009/113/article/12), [Sch.](https://www.legislation.gov.uk/nisr/2009/113/schedule)
+[^c-82390828daad13bfe6269ac2b0ca33ff]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/147) revoked (6.4.2009) by [The Pensions (2008 Acts) (Consequential Provisions) Order (Northern Ireland) 2009 (S.R. 2009/113)](https://www.legislation.gov.uk/nisr/2009/113), [arts. 1](https://www.legislation.gov.uk/nisr/2009/113/article/1), [12](https://www.legislation.gov.uk/nisr/2009/113/article/12), [Sch.](https://www.legislation.gov.uk/nisr/2009/113/schedule)

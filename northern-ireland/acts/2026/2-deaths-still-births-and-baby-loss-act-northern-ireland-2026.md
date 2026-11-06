@@ -38,14 +38,14 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 ## Registration
 
-### 1. Introductory[^key-0518ddd4c416bef078921341e7817956]
+### 1. Introductory[^c-0518ddd4c416bef078921341e7817956]
 
 In this Act—
 
 - “**the 1976 Order**” means the Births and Deaths Registration (Northern Ireland) Order 1976;
 - “**the 2012 Regulations**” means the Civil Registration Regulations (Northern Ireland) 2012.
 
-### 2. Power to approve electronic means[^key-48556db0ef7c26de4a348f97212dc790][^key-b31ebc074054fd6c3c18981a3dc8bd45]
+### 2. Power to approve electronic means[^c-48556db0ef7c26de4a348f97212dc790][^c-b31ebc074054fd6c3c18981a3dc8bd45]
 
 After Article 2(3) of the 1976 Order insert—
 
@@ -58,7 +58,7 @@ After Article 2(3) of the 1976 Order insert—
 
 .
 
-### 3. Giving certificate of still-birth directly[^key-2b0b9e7f2677634caaffe70c6a15fee0][^key-466b27b5428bd21fc670cc6ee89536a9]
+### 3. Giving certificate of still-birth directly[^c-2b0b9e7f2677634caaffe70c6a15fee0][^c-466b27b5428bd21fc670cc6ee89536a9]
 
 (1) Article 15 of the 1976 Order is amended as follows.
 
@@ -116,7 +116,7 @@ After Article 2(3) of the 1976 Order insert—
 - (a) in regulation 21(b), omit “a written” and for “accompanied by a certificate” substitute “and a certificate has been”;
 - (b) in Schedule 1, in Form 10, in the opening lines, omit “a written” and for “accompanied by” substitute “and”.
 
-### 4. Giving certificate of cause of death directly[^key-9ba245531877059b22579d914b77281a][^key-de5d29fbc96d8b01f0e12c27884437a6]
+### 4. Giving certificate of cause of death directly[^c-9ba245531877059b22579d914b77281a][^c-de5d29fbc96d8b01f0e12c27884437a6]
 
 (1) In Article 22 of the 1976 Order—
 
@@ -143,7 +143,7 @@ After Article 2(3) of the 1976 Order insert—
 
 (7) In paragraph (4), for the words from “An informant” to “and” substitute “Where a registered medical practitioner gives to the registrar a certificate under paragraph (2) together with such other particulars as are required to be given under that paragraph,”.
 
-### 5. Giving certificate of registration, or written notice of death, directly[^key-a909a5bce10377245ff64775ec0e39a7][^key-599e63dd95e852fa4b5d1c4bc41033fd]
+### 5. Giving certificate of registration, or written notice of death, directly[^c-a909a5bce10377245ff64775ec0e39a7][^c-599e63dd95e852fa4b5d1c4bc41033fd]
 
 (1) Article 29 of the 1976 Order is amended as follows.
 
@@ -177,7 +177,7 @@ After Article 2(3) of the 1976 Order insert—
 - (a) in regulation 28(ii), omit “a written”;
 - (b) in Schedule 1, in Form 13, in the heading and in footnote (a), omit “written”.
 
-### 6. Registration of particulars of still-birth[^key-000ed167592f789d86817112eac58590][^key-7eb1c78b08f7a2db6439dcba90eeb403]
+### 6. Registration of particulars of still-birth[^c-000ed167592f789d86817112eac58590][^c-7eb1c78b08f7a2db6439dcba90eeb403]
 
 (1) Regulation 16 of the 2012 Regulations is amended as follows.
 
@@ -224,7 +224,7 @@ After Article 2(3) of the 1976 Order insert—
 
   .
 
-### 7. Manner in which particulars of death are required to be given[^key-2a8e3233662f3f4a485581107580b760][^key-efb5928ee3a448532bffef56e3567b83]
+### 7. Manner in which particulars of death are required to be given[^c-2a8e3233662f3f4a485581107580b760][^c-efb5928ee3a448532bffef56e3567b83]
 
 (1) Regulation 25 of the 2012 Regulations is amended as follows.
 
@@ -252,21 +252,21 @@ After Article 2(3) of the 1976 Order insert—
 
   .
 
-### 8. Minor amendments relating to births and still-births[^key-be8cb3c4a9d3d41a98bea32c4f57ef6a]
+### 8. Minor amendments relating to births and still-births[^c-be8cb3c4a9d3d41a98bea32c4f57ef6a]
 
 The Schedule to this Act contains minor amendments.
 
-### 9. No restriction on power to amend Regulations[^key-7a14b7fa8228fd7a5ccc51173c143069]
+### 9. No restriction on power to amend Regulations[^c-7a14b7fa8228fd7a5ccc51173c143069]
 
 The amendments made by this Act to the 2012 Regulations do not restrict any power conferred by any statutory provision to amend, modify or revoke those Regulations.
 
-### 10. Repeal of temporary provisions[^key-038062383c0db5c8f2fc92b077e86d3c][^key-2286fc5439467190511cb134724fa4a8]
+### 10. Repeal of temporary provisions[^c-038062383c0db5c8f2fc92b077e86d3c][^c-2286fc5439467190511cb134724fa4a8]
 
 Section 18(3) of, and Part 3 of Schedule 13 to, the Coronavirus Act 2020 (registration of deaths and still-births: Northern Ireland) are repealed.
 
 ## Certificates recognising the loss of a baby during pregnancy
 
-### 11. Certificates of baby loss[^key-e83b524769d39da1a7f5c092057ea1ce]
+### 11. Certificates of baby loss[^c-e83b524769d39da1a7f5c092057ea1ce]
 
 (1) The Department of Finance shall by regulations make provision for the issue, by the Registrar General of Births and Deaths, of certificates which recognise the loss of a baby during pregnancy.
 
@@ -291,13 +291,13 @@ Section 18(3) of, and Part 3 of Schedule 13 to, the Coronavirus Act 2020 (regist
 
 ## General
 
-### 12. Commencement[^key-db3e3cabe9dc385ebe9bde271b645c2f]
+### 12. Commencement[^c-db3e3cabe9dc385ebe9bde271b645c2f]
 
 (1) Sections 2 to 7 and 10 come into operation on such day or days as the Department of Finance may by order appoint.
 
 (2) The other provisions of this Act come into operation on the day after the day on which this Act receives Royal Assent.
 
-### 13. Short title[^key-19a70bdbfbf4a748d6bcf3d9c587a4df]
+### 13. Short title[^c-19a70bdbfbf4a748d6bcf3d9c587a4df]
 
 This Act may be cited as the Deaths, Still-Births and Baby Loss Act (Northern Ireland) 2026.
 
@@ -305,11 +305,11 @@ This Act may be cited as the Deaths, Still-Births and Baby Loss Act (Northern Ir
 
 Section 8.
 
-### 1. The 1976 Order[^key-f7a06f4898a0b520cba28d2896ed86e9]
+### 1. The 1976 Order[^c-f7a06f4898a0b520cba28d2896ed86e9]
 
 The 1976 Order is amended as follows.
 
-### 2.[^key-86adb8628dce69a35f6226981300cd8f]
+### 2.[^c-86adb8628dce69a35f6226981300cd8f]
 
 (1) Article 14ZA is amended as follows.
 
@@ -319,7 +319,7 @@ The 1976 Order is amended as follows.
 
 (4) In paragraph (4)(b), for “and the signing of the register by her in the presence of the registrar” substitute “in the prescribed manner”.
 
-### 3.[^key-685874156173ff425715ec1654942355]
+### 3.[^c-685874156173ff425715ec1654942355]
 
 (1) Article 18(1) is amended as follows.
 
@@ -332,11 +332,11 @@ The 1976 Order is amended as follows.
 
   .
 
-### 4. The 2012 Regulations[^key-e2927a63c9ad303f17ac39bb06b6c8fb]
+### 4. The 2012 Regulations[^c-e2927a63c9ad303f17ac39bb06b6c8fb]
 
 The 2012 Regulations are amended as follows.
 
-### 5.[^key-ca0d40ad6914d06939ca38a986524d11]
+### 5.[^c-ca0d40ad6914d06939ca38a986524d11]
 
 (1) Regulation 12 is amended as follows.
 
@@ -347,7 +347,7 @@ The 2012 Regulations are amended as follows.
 - (a) for paragraph (a) and the words “(b) both parents” substitute “the mother and second female parent of a child”;
 - (b) at the end insert “or separately, and where both parents intend to make such a request separately, the provisions of regulation 13 apply”.
 
-### 6.[^key-e4b23618b732487bac5e5834d4fa87db]
+### 6.[^c-e4b23618b732487bac5e5834d4fa87db]
 
 (1) Regulation 13 is amended as follows.
 
@@ -362,54 +362,54 @@ The 2012 Regulations are amended as follows.
 
 ## Annotations
 
-[^key-0518ddd4c416bef078921341e7817956]: Commencement: S. 1 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-0518ddd4c416bef078921341e7817956]: Commencement: S. 1 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-48556db0ef7c26de4a348f97212dc790]: Commencement: S. 2 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
+[^c-48556db0ef7c26de4a348f97212dc790]: Commencement: S. 2 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
 
-[^key-b31ebc074054fd6c3c18981a3dc8bd45]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2026/2/section/2) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(a)](https://www.legislation.gov.uk/nisr/2026/32/article/2/a)
+[^c-b31ebc074054fd6c3c18981a3dc8bd45]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2026/2/section/2) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(a)](https://www.legislation.gov.uk/nisr/2026/32/article/2/a)
 
-[^key-2b0b9e7f2677634caaffe70c6a15fee0]: Commencement: S. 3 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
+[^c-2b0b9e7f2677634caaffe70c6a15fee0]: Commencement: S. 3 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
 
-[^key-466b27b5428bd21fc670cc6ee89536a9]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2026/2/section/3) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/32/article/2/b)
+[^c-466b27b5428bd21fc670cc6ee89536a9]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2026/2/section/3) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(b)](https://www.legislation.gov.uk/nisr/2026/32/article/2/b)
 
-[^key-9ba245531877059b22579d914b77281a]: Commencement: S. 4 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
+[^c-9ba245531877059b22579d914b77281a]: Commencement: S. 4 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
 
-[^key-de5d29fbc96d8b01f0e12c27884437a6]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2026/2/section/4) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(c)](https://www.legislation.gov.uk/nisr/2026/32/article/2/c)
+[^c-de5d29fbc96d8b01f0e12c27884437a6]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2026/2/section/4) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(c)](https://www.legislation.gov.uk/nisr/2026/32/article/2/c)
 
-[^key-a909a5bce10377245ff64775ec0e39a7]: Commencement: S. 5 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
+[^c-a909a5bce10377245ff64775ec0e39a7]: Commencement: S. 5 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
 
-[^key-599e63dd95e852fa4b5d1c4bc41033fd]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2026/2/section/5) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(d)](https://www.legislation.gov.uk/nisr/2026/32/article/2/d)
+[^c-599e63dd95e852fa4b5d1c4bc41033fd]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2026/2/section/5) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(d)](https://www.legislation.gov.uk/nisr/2026/32/article/2/d)
 
-[^key-000ed167592f789d86817112eac58590]: Commencement: S. 6 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
+[^c-000ed167592f789d86817112eac58590]: Commencement: S. 6 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
 
-[^key-7eb1c78b08f7a2db6439dcba90eeb403]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2026/2/section/6) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(e)](https://www.legislation.gov.uk/nisr/2026/32/article/2/e)
+[^c-7eb1c78b08f7a2db6439dcba90eeb403]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2026/2/section/6) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(e)](https://www.legislation.gov.uk/nisr/2026/32/article/2/e)
 
-[^key-2a8e3233662f3f4a485581107580b760]: Commencement: S. 7 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
+[^c-2a8e3233662f3f4a485581107580b760]: Commencement: S. 7 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
 
-[^key-efb5928ee3a448532bffef56e3567b83]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2026/2/section/7) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(f)](https://www.legislation.gov.uk/nisr/2026/32/article/2/f)
+[^c-efb5928ee3a448532bffef56e3567b83]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2026/2/section/7) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(f)](https://www.legislation.gov.uk/nisr/2026/32/article/2/f)
 
-[^key-be8cb3c4a9d3d41a98bea32c4f57ef6a]: Commencement: S. 8 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-be8cb3c4a9d3d41a98bea32c4f57ef6a]: Commencement: S. 8 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-7a14b7fa8228fd7a5ccc51173c143069]: Commencement: S. 9 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-7a14b7fa8228fd7a5ccc51173c143069]: Commencement: S. 9 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-038062383c0db5c8f2fc92b077e86d3c]: Commencement: S. 10 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
+[^c-038062383c0db5c8f2fc92b077e86d3c]: Commencement: S. 10 not in operation at Royal Assent, see [s. 12(1)](https://www.legislation.gov.uk/nia/2026/2/section/12/1)
 
-[^key-2286fc5439467190511cb134724fa4a8]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2026/2/section/10) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(g)](https://www.legislation.gov.uk/nisr/2026/32/article/2/g)
+[^c-2286fc5439467190511cb134724fa4a8]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2026/2/section/10) in operation at 23.3.2026 by [S.R. 2026/32](https://www.legislation.gov.uk/nisr/2026/32), [art. 2(g)](https://www.legislation.gov.uk/nisr/2026/32/article/2/g)
 
-[^key-e83b524769d39da1a7f5c092057ea1ce]: Commencement: S. 11 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-e83b524769d39da1a7f5c092057ea1ce]: Commencement: S. 11 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-db3e3cabe9dc385ebe9bde271b645c2f]: Commencement: S. 12 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-db3e3cabe9dc385ebe9bde271b645c2f]: Commencement: S. 12 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-19a70bdbfbf4a748d6bcf3d9c587a4df]: Commencement: S. 13 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-19a70bdbfbf4a748d6bcf3d9c587a4df]: Commencement: S. 13 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-f7a06f4898a0b520cba28d2896ed86e9]: Commencement: Sch. para. 1 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-f7a06f4898a0b520cba28d2896ed86e9]: Commencement: Sch. para. 1 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-86adb8628dce69a35f6226981300cd8f]: Commencement: Sch. para. 2 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-86adb8628dce69a35f6226981300cd8f]: Commencement: Sch. para. 2 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-685874156173ff425715ec1654942355]: Commencement: Sch. para. 3 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-685874156173ff425715ec1654942355]: Commencement: Sch. para. 3 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-e2927a63c9ad303f17ac39bb06b6c8fb]: Commencement: Sch. para. 4 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-e2927a63c9ad303f17ac39bb06b6c8fb]: Commencement: Sch. para. 4 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-ca0d40ad6914d06939ca38a986524d11]: Commencement: Sch. para. 5 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-ca0d40ad6914d06939ca38a986524d11]: Commencement: Sch. para. 5 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
 
-[^key-e4b23618b732487bac5e5834d4fa87db]: Commencement: Sch. para. 6 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)
+[^c-e4b23618b732487bac5e5834d4fa87db]: Commencement: Sch. para. 6 in operation at 26.2.2026, see [s. 12(2)](https://www.legislation.gov.uk/nia/2026/2/section/12/2)

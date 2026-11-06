@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations (Northern Ireland) 2000 (revoked)[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+The Occupational Pension Schemes (Republic of Ireland Schemes Exemption) Regulations (Northern Ireland) 2000 (revoked)[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 Made
 
@@ -41,63 +41,63 @@ Coming into operation
 
 31st December 2000
 
-[^key-c8a4bcc54d8d05b8086d9579b5ad9486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a4bcc54d8d05b8086d9579b5ad9486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 1. Citation, commencement and interpretation[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exemption of Republic of Ireland schemes—general provision[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 2. Exemption of Republic of Ireland schemes—general provision[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption of Republic of Ireland schemes from Article 27[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 3. Exemption of Republic of Ireland schemes from Article 27[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information to be given to members[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 4. Information to be given to members[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Penalties[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 5. Penalties[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 6. Amendment of the Occupational Pension Schemes (Member-nominated Trustees and Directors) Regulations[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 7. Amendment of the Occupational Pension Schemes (Investment) Regulations[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 8. Amendment of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 9. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 10. Amendment of the Occupational Pension Schemes (Disclosure of Information) Regulations[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 11. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of the Occupational and Personal Pension Schemes (Levy) Regulations[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## 12. Amendment of the Occupational and Personal Pension Schemes (Levy) Regulations[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c8a4bcc54d8d05b8086d9579b5ad9486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a4bcc54d8d05b8086d9579b5ad9486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Legislation from which Republic of Ireland Schemes are exempt[^key-c8a4bcc54d8d05b8086d9579b5ad9486]
+## SCHEDULE — Legislation from which Republic of Ireland Schemes are exempt[^c-c8a4bcc54d8d05b8086d9579b5ad9486]
 
 Regulation 2
 
@@ -105,8 +105,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-c8a4bcc54d8d05b8086d9579b5ad9486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c8a4bcc54d8d05b8086d9579b5ad9486]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c8a4bcc54d8d05b8086d9579b5ad9486]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/382) revoked (6.4.2006) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006 (S.R. 2006/65)](https://www.legislation.gov.uk/nisr/2006/65), [art. 1(3)](https://www.legislation.gov.uk/nisr/2006/65/article/1/3), [reg. 10](https://www.legislation.gov.uk/nisr/2006/65/regulation/10), [Sch.](https://www.legislation.gov.uk/nisr/2006/65/schedule)
+[^c-c8a4bcc54d8d05b8086d9579b5ad9486]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/382) revoked (6.4.2006) by [The Occupational Pension Schemes (Republic of Ireland Schemes Exemption (Revocation) and Tax Exempt Schemes (Miscellaneous Amendments)) Regulations (Northern Ireland) 2006 (S.R. 2006/65)](https://www.legislation.gov.uk/nisr/2006/65), [art. 1(3)](https://www.legislation.gov.uk/nisr/2006/65/article/1/3), [reg. 10](https://www.legislation.gov.uk/nisr/2006/65/regulation/10), [Sch.](https://www.legislation.gov.uk/nisr/2006/65/schedule)

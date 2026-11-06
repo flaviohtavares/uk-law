@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Minor surgery list[^key-08122ec68d2e1cf1c5d8eb042b225968]
+## 35. Minor surgery list[^c-08122ec68d2e1cf1c5d8eb042b225968]
 
 *Extent: N.I.*
 
@@ -88,4 +88,4 @@ and shall seek and take into account any medical advice it considers necessary t
 
 ## Annotations
 
-[^key-08122ec68d2e1cf1c5d8eb042b225968]: Commencement: Reg. 35 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-08122ec68d2e1cf1c5d8eb042b225968]: Commencement: Reg. 35 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Compensation for voluntary compliance with request[^key-1c2d45d7ac1b589fbbf0e6d1edaaaf78][^key-757521a78043bc425b8de6a8ad87c42b]
+## 56. Compensation for voluntary compliance with request[^c-1c2d45d7ac1b589fbbf0e6d1edaaaf78][^c-757521a78043bc425b8de6a8ad87c42b]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ is to be determined by a single arbiter appointed by agreement between the board
 
 ## Annotations
 
-[^key-1c2d45d7ac1b589fbbf0e6d1edaaaf78]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2008/5/section/56) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-1c2d45d7ac1b589fbbf0e6d1edaaaf78]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2008/5/section/56) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-757521a78043bc425b8de6a8ad87c42b]: Modification: [S. 56](https://www.legislation.gov.uk/asp/2008/5/section/56) modified (temp.) (24.3.2022 until the end of 31.10.2022) by [Coronavirus (Discretionary Compensation for Self-isolation) (Scotland) Act 2022 (asp 2)](https://www.legislation.gov.uk/asp/2022/2), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/2/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/2/section/6) (with [ss. 2-4](https://www.legislation.gov.uk/asp/2022/2/section/2))
+[^c-757521a78043bc425b8de6a8ad87c42b]: Modification: [S. 56](https://www.legislation.gov.uk/asp/2008/5/section/56) modified (temp.) (24.3.2022 until the end of 31.10.2022) by [Coronavirus (Discretionary Compensation for Self-isolation) (Scotland) Act 2022 (asp 2)](https://www.legislation.gov.uk/asp/2022/2), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/2/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/2/section/6) (with [ss. 2-4](https://www.legislation.gov.uk/asp/2022/2/section/2))

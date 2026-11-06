@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Relevant pension payments[^key-f1a5456fb86818ba98b49ceaca4072ed]
+## 6. Relevant pension payments[^c-f1a5456fb86818ba98b49ceaca4072ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In these Regulations, any reference (however expressed) to relevant pension paym
 
 ## Annotations
 
-[^key-f1a5456fb86818ba98b49ceaca4072ed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/2682/regulation/6) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-f1a5456fb86818ba98b49ceaca4072ed]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/2682/regulation/6) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)

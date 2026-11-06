@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Power to provide for authorities making joint local plans[^key-3cfa258dbc018a73c9662be9bc99bc25]
+## 147. Power to provide for authorities making joint local plans[^c-3cfa258dbc018a73c9662be9bc99bc25]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cfa258dbc018a73c9662be9bc99bc25]: Commencement: S. 147 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-3cfa258dbc018a73c9662be9bc99bc25]: Commencement: S. 147 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

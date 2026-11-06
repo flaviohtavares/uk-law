@@ -32,7 +32,7 @@ summary: ''
 
 Insolvency
 
-The Insolvency (Amendment) Rules 2011 (revoked)[^key-ef542e1f6681561428b04c25e3c44bf8]
+The Insolvency (Amendment) Rules 2011 (revoked)[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 Made
 
@@ -46,78 +46,78 @@ Coming into force
 
 6th April 2011
 
-[^key-ef542e1f6681561428b04c25e3c44bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef542e1f6681561428b04c25e3c44bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 1. Citation and commencement[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Insolvency Rules 1986[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 2. Amendments to the Insolvency Rules 1986[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to Rule 5A.10[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 3. Amendments to Rule 5A.10[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Substitution of Rule 5A.21[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 4. Substitution of Rule 5A.21[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to Rule 6.4[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 5. Amendments to Rule 6.4[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Substitution of Rule 6.9A[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 6. Substitution of Rule 6.9A[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Substitution of Rule 6.40A[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 7. Substitution of Rule 6.40A[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation of Rule 6.229[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 8. Revocation of Rule 6.229[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. New Chapter in Part[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 9. New Chapter in Part[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendments to Form 6.1[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 10. Amendments to Form 6.1[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendments to Form 6.2[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 11. Amendments to Form 6.2[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendments to Form 6.3[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 12. Amendments to Form 6.3[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendments to Forms 6.7, 6.8, 6.9 and 6.10[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 13. Amendments to Forms 6.7, 6.8, 6.9 and 6.10[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment to Form 6.27[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 14. Amendment to Form 6.27[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Transitional provisions[^key-ef542e1f6681561428b04c25e3c44bf8]
+## 15. Transitional provisions[^c-ef542e1f6681561428b04c25e3c44bf8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-ef542e1f6681561428b04c25e3c44bf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-ef542e1f6681561428b04c25e3c44bf8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef542e1f6681561428b04c25e3c44bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef542e1f6681561428b04c25e3c44bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef542e1f6681561428b04c25e3c44bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef542e1f6681561428b04c25e3c44bf8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef542e1f6681561428b04c25e3c44bf8]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2011/785) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))
+[^c-ef542e1f6681561428b04c25e3c44bf8]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2011/785) revoked (6.4.2017) by [The Insolvency (England and Wales) Rules 2016 (S.I. 2016/1024)](https://www.legislation.gov.uk/uksi/2016/1024), [rule 1](https://www.legislation.gov.uk/uksi/2016/1024/rule/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/1024/schedule/1) (with [rule 3(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/3/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/1024/schedule/2))

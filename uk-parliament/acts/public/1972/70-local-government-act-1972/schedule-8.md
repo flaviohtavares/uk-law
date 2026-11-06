@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — Constitution and Proceedings of the Local Government Boundary Commission for Wales[^key-078128e2fad34f6c922fe8c2ac4ef3f8]
+## SCHEDULE 8 — Constitution and Proceedings of the Local Government Boundary Commission for Wales[^c-078128e2fad34f6c922fe8c2ac4ef3f8]
 
 *Extent: E+W*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Section 53.
 
-**1.**[^key-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Officers and servants, remuneration and expenses[^key-078128e2fad34f6c922fe8c2ac4ef3f8]
+### Officers and servants, remuneration and expenses[^c-078128e2fad34f6c922fe8c2ac4ef3f8]
 
-**7.**[^key-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Proof of documents[^key-078128e2fad34f6c922fe8c2ac4ef3f8]
+### Proof of documents[^c-078128e2fad34f6c922fe8c2ac4ef3f8]
 
-**9.**[^key-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-078128e2fad34f6c922fe8c2ac4ef3f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-078128e2fad34f6c922fe8c2ac4ef3f8]: Textual amendment: Sch. 8 repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)
+[^c-078128e2fad34f6c922fe8c2ac4ef3f8]: Textual amendment: Sch. 8 repealed (30.9.2013) by [Local Government (Democracy) (Wales) Act 2013 (anaw 4)](https://www.legislation.gov.uk/anaw/2013/4), [s. 75(2)(d)](https://www.legislation.gov.uk/anaw/2013/4/section/75/2/d), [Sch. 2](https://www.legislation.gov.uk/anaw/2013/4/schedule/2)

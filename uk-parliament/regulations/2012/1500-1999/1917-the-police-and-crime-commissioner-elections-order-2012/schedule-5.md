@@ -93,7 +93,7 @@ regard is to be had to the total value in monetary terms of the consideration pr
   - (ii) the purchase price of, or any other charge for access to, any publication,
 - (b) the making of any payment in respect of the inclusion of an advertisement in any publication where the payment is made at the commercial rate payable for the inclusion of such an advertisement in any such publication.
 
-(4) The Secretary of State[^key-68e30f4be5dc10f531b65360dd2ed5db] may, on the recommendation of the Commission, by order made by statutory instrument amend sub-paragraph (2) or (3).
+(4) The Secretary of State[^c-68e30f4be5dc10f531b65360dd2ed5db] may, on the recommendation of the Commission, by order made by statutory instrument amend sub-paragraph (2) or (3).
 
 (5) Any order under sub-paragraph (4) may not be made unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -296,7 +296,7 @@ as they apply in relation to a donation received by a registered party and the r
 
 ## Annotations
 
-[^key-68e30f4be5dc10f531b65360dd2ed5db]: Textual amendment: Words in [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/5/paragraph/3/4) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(h)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/h) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-68e30f4be5dc10f531b65360dd2ed5db]: Textual amendment: Words in [Sch. 5 para. 3(4)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/5/paragraph/3/4) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(h)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/h) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c21344501]: Marginal citation: 1946 9&10 Geo.6 (c.36).
 

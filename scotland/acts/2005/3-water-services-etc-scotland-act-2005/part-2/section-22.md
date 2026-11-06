@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Scottish Water's functions: powers of the Scottish Ministers[^key-a8284acf012455c16ea82076e163c463]
+## 22. Scottish Water's functions: powers of the Scottish Ministers[^c-a8284acf012455c16ea82076e163c463]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ After section 56 (directions) of the 2002 Act there is inserted—
 
 ## Annotations
 
-[^key-a8284acf012455c16ea82076e163c463]: Commencement: S. 22 in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-a8284acf012455c16ea82076e163c463]: Commencement: S. 22 in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)

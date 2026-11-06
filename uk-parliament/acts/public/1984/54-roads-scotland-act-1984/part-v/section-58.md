@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Occupation of parts of road for deposit of building materials etc.[^c1610734][^key-961f4e4a54b90cf52aa152d5ba2ad395][^key-4b2c18900d987b3e758ec7b05961ad31][^key-32063001ee15fe5f7cfb5400eef718b0]
+## 58. Occupation of parts of road for deposit of building materials etc.[^c1610734][^c-961f4e4a54b90cf52aa152d5ba2ad395][^c-4b2c18900d987b3e758ec7b05961ad31][^c-32063001ee15fe5f7cfb5400eef718b0]
 
 *Extent: S*
 
@@ -46,8 +46,8 @@ and that he was unaware that he was depositing the materials otherwise than unde
 
 [^c1610734]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/1984/54/section/58): power to contract out functions of Secretary of State (16.3.1996) by [S.I. 1996/878](https://www.legislation.gov.uk/uksi/1996/878), [art. 2](https://www.legislation.gov.uk/uksi/1996/878/article/2), [Sch. para. 5(n)](https://www.legislation.gov.uk/uksi/1996/878/schedule/paragraph/5/n)
 
-[^key-961f4e4a54b90cf52aa152d5ba2ad395]: Modification: Ss. 56-61A excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(3)](https://www.legislation.gov.uk/asp/2011/2/section/20/3), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-961f4e4a54b90cf52aa152d5ba2ad395]: Modification: Ss. 56-61A excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(3)](https://www.legislation.gov.uk/asp/2011/2/section/20/3), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-4b2c18900d987b3e758ec7b05961ad31]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/1984/54/section/58) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [11(3)](https://www.legislation.gov.uk/ssi/2017/100/article/11/3) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
+[^c-4b2c18900d987b3e758ec7b05961ad31]: Modification: [S. 58](https://www.legislation.gov.uk/ukpga/1984/54/section/58) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [11(3)](https://www.legislation.gov.uk/ssi/2017/100/article/11/3) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
 
-[^key-32063001ee15fe5f7cfb5400eef718b0]: Modification: [Ss. 56-61A](https://www.legislation.gov.uk/ukpga/1984/54/section/56) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [9(a)](https://www.legislation.gov.uk/ssi/2017/100/article/9/a) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))
+[^c-32063001ee15fe5f7cfb5400eef718b0]: Modification: [Ss. 56-61A](https://www.legislation.gov.uk/ukpga/1984/54/section/56) excluded (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [arts. 1](https://www.legislation.gov.uk/ssi/2017/100/article/1), [9(a)](https://www.legislation.gov.uk/ssi/2017/100/article/9/a) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37))

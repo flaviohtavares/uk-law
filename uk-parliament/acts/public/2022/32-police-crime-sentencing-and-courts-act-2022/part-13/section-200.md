@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Expansion of use of video and audio links in criminal proceedings[^key-afa24d105c18ae1201f0dac842b41198]
+## 200. Expansion of use of video and audio links in criminal proceedings[^c-afa24d105c18ae1201f0dac842b41198]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afa24d105c18ae1201f0dac842b41198]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2022/32/section/200) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)
+[^c-afa24d105c18ae1201f0dac842b41198]: Commencement: [S. 200](https://www.legislation.gov.uk/ukpga/2022/32/section/200) in force at 28.6.2022, see [s. 208(5)(y)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/y)

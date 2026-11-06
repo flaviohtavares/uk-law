@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8H. The ownership unbundling requirement[^key-762125c0c176f82ef3ca3b8a42776ac8]
+## 8H. The ownership unbundling requirement[^c-762125c0c176f82ef3ca3b8a42776ac8]
 
 *Extent: E+W+S+N.I.*
 
-(1) In section 8G(3) the ownership unbundling requirement is met by an applicant for certification if in relation to each of the five tests below—[^key-212c30cd5d209bfc7e93779f0a47dbd7]
+(1) In section 8G(3) the ownership unbundling requirement is met by an applicant for certification if in relation to each of the five tests below—[^c-212c30cd5d209bfc7e93779f0a47dbd7]
 
 - (a) the Authority thinks that it is passed, or
 - (b) it is treated as passed by virtue of subsection (7), (9) or (9A).
@@ -54,7 +54,7 @@ summary: ''
 - (a) the control over the applicant was gained through the exercise of a right conferred as a condition of the provision of either financial support or a guarantee (or both), in relation to the applicant’s business; or
 - (b) the majority shareholding in the relevant producer or supplier was gained through the exercise of such a right conferred in relation to the business of the relevant producer or supplier.
 
-(9A)[^key-71fdedb805e404864048b47b3aad1a98] The Authority may treat one or more of the five tests in this section as passed if—
+(9A)[^c-71fdedb805e404864048b47b3aad1a98] The Authority may treat one or more of the five tests in this section as passed if—
 
 - (a) the test or tests are not passed in relation to a relevant producer or supplier,
 - (b) the applicant has demonstrated to the Authority’s satisfaction that the applicant does not have a relationship with the relevant producer or supplier which might lead the applicant to discriminate in favour of the relevant producer or supplier, and
@@ -64,8 +64,8 @@ summary: ''
 
 ## Annotations
 
-[^key-762125c0c176f82ef3ca3b8a42776ac8]: Textual amendment: Ss. 8C-8Q and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2704/regulation/4)
+[^c-762125c0c176f82ef3ca3b8a42776ac8]: Textual amendment: Ss. 8C-8Q and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2011/2704/regulation/4)
 
-[^key-212c30cd5d209bfc7e93779f0a47dbd7]: Textual amendment: Words in s. 8H(1) substituted (15.1.2015) by [The Electricity and Gas (Ownership Unbundling) Regulations 2014 (S.I. 2014/3333)](https://www.legislation.gov.uk/uksi/2014/3333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3333/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3333/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2014/3333/regulation/4))
+[^c-212c30cd5d209bfc7e93779f0a47dbd7]: Textual amendment: Words in s. 8H(1) substituted (15.1.2015) by [The Electricity and Gas (Ownership Unbundling) Regulations 2014 (S.I. 2014/3333)](https://www.legislation.gov.uk/uksi/2014/3333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3333/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3333/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2014/3333/regulation/4))
 
-[^key-71fdedb805e404864048b47b3aad1a98]: Textual amendment: S. 8H(9A) inserted (15.1.2015) by [The Electricity and Gas (Ownership Unbundling) Regulations 2014 (S.I. 2014/3333)](https://www.legislation.gov.uk/uksi/2014/3333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3333/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3333/regulation/2/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2014/3333/regulation/4))
+[^c-71fdedb805e404864048b47b3aad1a98]: Textual amendment: S. 8H(9A) inserted (15.1.2015) by [The Electricity and Gas (Ownership Unbundling) Regulations 2014 (S.I. 2014/3333)](https://www.legislation.gov.uk/uksi/2014/3333), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3333/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3333/regulation/2/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2014/3333/regulation/4))

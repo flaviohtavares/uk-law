@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Insurance Companies Act: miscellaneous provisions[^key-4684a10b5997baee3848ba00ceb075b1]
+## 52. Insurance Companies Act: miscellaneous provisions[^c-4684a10b5997baee3848ba00ceb075b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ the notice has effect after commencement as a warning notice served under sectio
 
 ## Annotations
 
-[^key-4684a10b5997baee3848ba00ceb075b1]: Commencement: Art. 52 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-4684a10b5997baee3848ba00ceb075b1]: Commencement: Art. 52 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -60,11 +60,11 @@ Section 59
 
 #### Removal of power to establish joint waste authorities in England
 
-**4.**[^key-3119233e9868f8f8ba6c392e9a66a641] In the Local Government and Public Involvement in Health Act 2007, in Part 11 (joint waste authorities), omit sections 205 to 208 (provisions relating to the establishment of joint waste authorities in England).
+**4.**[^c-3119233e9868f8f8ba6c392e9a66a641] In the Local Government and Public Involvement in Health Act 2007, in Part 11 (joint waste authorities), omit sections 205 to 208 (provisions relating to the establishment of joint waste authorities in England).
 
-**5.**[^key-b8dbc992692040d1f9328698a09e2f58] The provisions repealed by paragraph 4 continue to have effect for the purposes of the exercise by the Welsh Ministers of the power conferred on them by section 210 of the Local Government and Public Involvement in Health Act 2007 (power by order to make provision in relation to Wales applying any provisions of sections 205 to 208 with modifications).
+**5.**[^c-b8dbc992692040d1f9328698a09e2f58] The provisions repealed by paragraph 4 continue to have effect for the purposes of the exercise by the Welsh Ministers of the power conferred on them by section 210 of the Local Government and Public Involvement in Health Act 2007 (power by order to make provision in relation to Wales applying any provisions of sections 205 to 208 with modifications).
 
-**6.**[^key-b31486071ce4115f612d346883b9a0f2] (1) The following amendments are made in consequence of paragraph 4.
+**6.**[^c-b31486071ce4115f612d346883b9a0f2] (1) The following amendments are made in consequence of paragraph 4.
 
 (2) In the Landlord and Tenant Act 1954, in section 69(1), in the definition of “local authority”, omit the words from “an authority” to “(joint waste authorities),”.
 
@@ -226,22 +226,22 @@ Section 59
 
 #### Removal of power of local authorities to designate area as noise abatement zone
 
-**9.**[^key-f4273eba9d8e1879702822037fdddd3f] Part 3 of the Control of Pollution Act 1974 (noise) is amended in accordance with paragraphs 10 to 14.
+**9.**[^c-f4273eba9d8e1879702822037fdddd3f] Part 3 of the Control of Pollution Act 1974 (noise) is amended in accordance with paragraphs 10 to 14.
 
-**10.**[^key-82aeb34b7f392e17ce3a5951476ca826] Omit section 57 (local authority duty to conduct periodical inspections to decide how to exercise powers concerning noise abatement zones).
+**10.**[^c-82aeb34b7f392e17ce3a5951476ca826] Omit section 57 (local authority duty to conduct periodical inspections to decide how to exercise powers concerning noise abatement zones).
 
-**11.**[^key-914ec767b9ad3b2ca481b5392906170b] Omit sections 63 to 67 (noise abatement zones).
+**11.**[^c-914ec767b9ad3b2ca481b5392906170b] Omit sections 63 to 67 (noise abatement zones).
 
-**12.**[^key-ec600b138fb474646251c5846c6be2af] Omit section 69 (execution of works by local authority).
+**12.**[^c-ec600b138fb474646251c5846c6be2af] Omit section 69 (execution of works by local authority).
 
-**13.**[^key-0b98399b213c303f80aa93622771ba70] In section 73 (interpretation and other supplementary provisions)—
+**13.**[^c-0b98399b213c303f80aa93622771ba70] In section 73 (interpretation and other supplementary provisions)—
 
 - (a) in subsection (1), omit the definitions of “noise abatement order”, “noise abatement zone”, “noise level register”, “noise reduction notice” and “person responsible”;
 - (b) in subsection (2), for “sections 62 to 67” (in both places where it occurs) substitute “ section 62 ”.
 
-**14.**[^key-e26d3c78a656de3099ae80e279464303] Omit Schedule 1 (provisions applying to coming into operation of noise abatement orders).
+**14.**[^c-e26d3c78a656de3099ae80e279464303] Omit Schedule 1 (provisions applying to coming into operation of noise abatement orders).
 
-**15.**[^key-58d1dde39d28a3f7cfa39471821bdffe] (1) The following repeals are made in consequence of paragraphs 11 and 14.
+**15.**[^c-58d1dde39d28a3f7cfa39471821bdffe] (1) The following repeals are made in consequence of paragraphs 11 and 14.
 
 (2) In the Control of Pollution Act 1974, in section 104(1), omit the words from “(except sections” to “65(6))”.
 
@@ -251,22 +251,22 @@ Section 59
 
 ## Annotations
 
-[^key-3119233e9868f8f8ba6c392e9a66a641]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/4) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+[^c-3119233e9868f8f8ba6c392e9a66a641]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/4) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
 
-[^key-b8dbc992692040d1f9328698a09e2f58]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/5) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+[^c-b8dbc992692040d1f9328698a09e2f58]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/5) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
 
-[^key-b31486071ce4115f612d346883b9a0f2]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+[^c-b31486071ce4115f612d346883b9a0f2]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6) in force at 26.5.2015 by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
 
-[^key-f4273eba9d8e1879702822037fdddd3f]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
+[^c-f4273eba9d8e1879702822037fdddd3f]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/9) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
 
-[^key-82aeb34b7f392e17ce3a5951476ca826]: Commencement: [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
+[^c-82aeb34b7f392e17ce3a5951476ca826]: Commencement: [Sch. 13 para. 10](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/10) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
 
-[^key-914ec767b9ad3b2ca481b5392906170b]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/11) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
+[^c-914ec767b9ad3b2ca481b5392906170b]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/11) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
 
-[^key-ec600b138fb474646251c5846c6be2af]: Commencement: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/12) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
+[^c-ec600b138fb474646251c5846c6be2af]: Commencement: [Sch. 13 para. 12](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/12) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
 
-[^key-0b98399b213c303f80aa93622771ba70]: Commencement: [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/13) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
+[^c-0b98399b213c303f80aa93622771ba70]: Commencement: [Sch. 13 para. 13](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/13) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
 
-[^key-e26d3c78a656de3099ae80e279464303]: Commencement: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/14) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
+[^c-e26d3c78a656de3099ae80e279464303]: Commencement: [Sch. 13 para. 14](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/14) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
 
-[^key-58d1dde39d28a3f7cfa39471821bdffe]: Commencement: [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/15) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)
+[^c-58d1dde39d28a3f7cfa39471821bdffe]: Commencement: [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/15) in force at 1.10.2015 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(f)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 147. Supply of information for the register[^key-773f11f432e47cc4e6a7715afa38d8e2]
+## 147. Supply of information for the register[^c-773f11f432e47cc4e6a7715afa38d8e2]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-773f11f432e47cc4e6a7715afa38d8e2]: Commencement: S. 147 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-773f11f432e47cc4e6a7715afa38d8e2]: Commencement: S. 147 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Private rights[^key-430635bcce1d8ea9ef5b70ebba3e3e07]
+## 27. Private rights[^c-430635bcce1d8ea9ef5b70ebba3e3e07]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-430635bcce1d8ea9ef5b70ebba3e3e07]: Commencement: Art. 27 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-430635bcce1d8ea9ef5b70ebba3e3e07]: Commencement: Art. 27 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
 
 [^f00035]: Footnote: Section 11(1) was amended by sections 186 to 188 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67).

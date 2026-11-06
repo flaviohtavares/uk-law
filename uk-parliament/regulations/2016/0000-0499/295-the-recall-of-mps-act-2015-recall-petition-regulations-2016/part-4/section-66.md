@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Additional requirements for applications for a proxy signature for a definite or an indefinite period based on occupation, service, employment or attendance on a course[^key-0a8a41d44501966e4fc1ea668c940591]
+## 66. Additional requirements for applications for a proxy signature for a definite or an indefinite period based on occupation, service, employment or attendance on a course[^c-0a8a41d44501966e4fc1ea668c940591]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a8a41d44501966e4fc1ea668c940591]: Commencement: Reg. 66 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-0a8a41d44501966e4fc1ea668c940591]: Commencement: Reg. 66 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

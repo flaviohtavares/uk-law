@@ -35,7 +35,7 @@ summary: ''
   - (a) any consulate,
   - (b) any consular establishment, or
   - (c) any other premises used for those purposes, and
-- “**reciprocal arrangement**” means a consular convention or other arrangement with a foreign state, making similar provision to that made by this section , sections 646A and 681A of this Act and section 771 of[^key-be6baad8ec8f3ee309f4213338119359] ITTOIA 2005 (relevant foreign income of consular officers and employees) in the case of Her Majesty’s consular officers or employees in that state.
+- “**reciprocal arrangement**” means a consular convention or other arrangement with a foreign state, making similar provision to that made by this section , sections 646A and 681A of this Act and section 771 of[^c-be6baad8ec8f3ee309f4213338119359] ITTOIA 2005 (relevant foreign income of consular officers and employees) in the case of Her Majesty’s consular officers or employees in that state.
 
 (5) An Order in Council under subsection (1) may limit the operation of this section in relation to a state in any way appearing to Her Majesty necessary or expedient having regard to the arrangement with the state.
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be6baad8ec8f3ee309f4213338119359]: Textual amendment: Words in s. 302(4) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 591](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/591) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-be6baad8ec8f3ee309f4213338119359]: Textual amendment: Words in s. 302(4) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 591](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/591) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

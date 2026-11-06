@@ -72,11 +72,11 @@ they may, in the assessment in relation to the later period, specify an amount o
 (1) An assessment under paragraph 2 or 3 above of an amount of aggregates levy due for any accounting period—
 
 - (a) shall not be made more than two years after the end of the accounting period unless it is made within the period mentioned in sub-paragraph (2) below; and
-- (b) subject to sub-paragraph (3) below, shall not in any event be made more than 4 years[^key-4b09975f668a4f7f7e0f8baaa0bb6d41] after the end of that accounting period.
+- (b) subject to sub-paragraph (3) below, shall not in any event be made more than 4 years[^c-4b09975f668a4f7f7e0f8baaa0bb6d41] after the end of that accounting period.
 
 (2) The period referred to in sub-paragraph (1)(a) above is the period of one year after evidence of facts sufficient in the Commissioners’ opinion to justify the making of the assessment first came to their knowledge.
 
-(3)[^key-f06455d16f5c2841801deab734c80489] An assessment of an amount due from a person in a case involving a loss of aggregates levy—
+(3)[^c-f06455d16f5c2841801deab734c80489] An assessment of an amount due from a person in a case involving a loss of aggregates levy—
 
 - (a) brought about deliberately by the person (or by another person acting on that person's behalf), or
 - (b) attributable to a failure by the person to comply with an obligation under section 24(2) or paragraph 1 of Schedule 4,
@@ -87,8 +87,8 @@ may be made at any time not more than 20 years after the end of the accounting p
 
 (4) Where, after a person’s death, the Commissioners propose to assess an amount of aggregates levy as due by reason of some conduct of the deceased—
 
-- (a) the assessment shall not be made more than 4 years[^key-f7b6fadb14f17960c0d1bb1c632c830a] after the death; [^key-17548964c190681ec54861ded016c2a0]...
-- (b)[^key-17548964c190681ec54861ded016c2a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the assessment shall not be made more than 4 years[^c-f7b6fadb14f17960c0d1bb1c632c830a] after the death; [^c-17548964c190681ec54861ded016c2a0]...
+- (b)[^c-17548964c190681ec54861ded016c2a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Nothing in this paragraph shall prejudice the powers of the Commissioners under paragraph 2(4) above.
 
@@ -298,7 +298,7 @@ In section 51(5) of the Finance Act 1997 (c. 16) (definition of relevant taxes f
 
 (4) The person in default shall not be liable to a penalty under sub-paragraph (3) above if he satisfies the Commissioners or, on appeal, an appeal tribunal that there is a reasonable excuse for the breach in question.
 
-(5)[^key-f95aba87888d081904c6178f6a5ca12e] This paragraph extends only to Northern Ireland.
+(5)[^c-f95aba87888d081904c6178f6a5ca12e] This paragraph extends only to Northern Ireland.
 
 ### 16. Recovery by diligence
 
@@ -310,15 +310,15 @@ In section 52(5) of the Finance Act 1997 (c. 16) (definition of relevant taxes f
 
 ### 17. Preferential debts in England and Wales and Northern Ireland
 
-(1)[^key-15c389046f0524103a9d0059d9c7baef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-15c389046f0524103a9d0059d9c7baef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-15c389046f0524103a9d0059d9c7baef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-15c389046f0524103a9d0059d9c7baef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-680d8ee1dce4ea27068dff6a42048a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-680d8ee1dce4ea27068dff6a42048a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-680d8ee1dce4ea27068dff6a42048a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-680d8ee1dce4ea27068dff6a42048a11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Preferred debts in Scotland[^key-36a06dbfa484ac45b89e802d8737b92f]
+### 18. Preferred debts in Scotland[^c-36a06dbfa484ac45b89e802d8737b92f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -337,25 +337,25 @@ In section 52(5) of the Finance Act 1997 (c. 16) (definition of relevant taxes f
 
 (4) In this paragraph “**trustee in bankruptcy**” includes, as respects Scotland—
 
-- (a) a trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a person’s estate;[^key-c41e85037c738f36aa444414e12988e8] and
+- (a) a trustee or interim trustee in the sequestration, under the Bankruptcy (Scotland) Act 2016, of a person’s estate;[^c-c41e85037c738f36aa444414e12988e8] and
 - (b) a trustee acting under a trust deed (within the meaning of that Act).
 
 ## Annotations
 
-[^key-4b09975f668a4f7f7e0f8baaa0bb6d41]: Textual amendment: Words in Sch. 5 para. 4(1)(b) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 29(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/29/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2010/867/article/10))
+[^c-4b09975f668a4f7f7e0f8baaa0bb6d41]: Textual amendment: Words in Sch. 5 para. 4(1)(b) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 29(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/29/2); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 10](https://www.legislation.gov.uk/uksi/2010/867/article/10))
 
-[^key-f06455d16f5c2841801deab734c80489]: Textual amendment: Sch. 5 para. 4(3)(3A) substituted for Sch. 5 para. 4(3) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 29(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/29/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2010/867/article/11))
+[^c-f06455d16f5c2841801deab734c80489]: Textual amendment: Sch. 5 para. 4(3)(3A) substituted for Sch. 5 para. 4(3) (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 29(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/29/3); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2010/867/article/11))
 
-[^key-f7b6fadb14f17960c0d1bb1c632c830a]: Textual amendment: Words in Sch. 5 para. 4(4)(a) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 29(4)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/29/4/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2010/867/article/12))
+[^c-f7b6fadb14f17960c0d1bb1c632c830a]: Textual amendment: Words in Sch. 5 para. 4(4)(a) substituted (1.4.2010) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 29(4)(a)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/29/4/a); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2010/867/article/12))
 
-[^key-17548964c190681ec54861ded016c2a0]: Textual amendment: Sch. 5 para. 4(4)(b) and word omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 29(4)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/29/4/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2010/867/article/12))
+[^c-17548964c190681ec54861ded016c2a0]: Textual amendment: Sch. 5 para. 4(4)(b) and word omitted (1.4.2010) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 99(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/99/2), [Sch. 51 para. 29(4)(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/51/paragraph/29/4/b); [S.I. 2010/867](https://www.legislation.gov.uk/uksi/2010/867), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/867/article/2/1) (with [art. 12](https://www.legislation.gov.uk/uksi/2010/867/article/12))
 
-[^key-f95aba87888d081904c6178f6a5ca12e]: Textual amendment: [Sch. 5 para. 15(5)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/5/paragraph/15/5) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 141](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/141) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-f95aba87888d081904c6178f6a5ca12e]: Textual amendment: [Sch. 5 para. 15(5)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/5/paragraph/15/5) substituted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 141](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/141) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-15c389046f0524103a9d0059d9c7baef]: Textual amendment: Sch. 5 para. 17(1)(2) repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-15c389046f0524103a9d0059d9c7baef]: Textual amendment: Sch. 5 para. 17(1)(2) repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
-[^key-680d8ee1dce4ea27068dff6a42048a11]: Textual amendment: [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/5/paragraph/17/3)[(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/5/paragraph/17/4) repealed (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
+[^c-680d8ee1dce4ea27068dff6a42048a11]: Textual amendment: [Sch. 5 para. 17(3)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/5/paragraph/17/3)[(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/5/paragraph/17/4) repealed (N.I.) (27.3.2006) by [The Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455)](https://www.legislation.gov.uk/nisi/2005/1455), [art. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (subject to [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), arts. 2-7)
 
-[^key-36a06dbfa484ac45b89e802d8737b92f]: Textual amendment: Sch. 5 para. 18 repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
+[^c-36a06dbfa484ac45b89e802d8737b92f]: Textual amendment: Sch. 5 para. 18 repealed (15.9.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/2093/article/4))
 
-[^key-c41e85037c738f36aa444414e12988e8]: Textual amendment: Word in [Sch. 5 para. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/5/paragraph/19/4/a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24/3)
+[^c-c41e85037c738f36aa444414e12988e8]: Textual amendment: Word in [Sch. 5 para. 19(4)(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/5/paragraph/19/4/a) substituted (30.11.2016) by [The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1034)](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 24(3)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/24/3)

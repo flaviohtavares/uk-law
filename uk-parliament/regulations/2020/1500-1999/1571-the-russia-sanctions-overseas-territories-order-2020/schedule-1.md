@@ -22,7 +22,7 @@ summary: ''
 
 Article 1(2)
 
-[^key-4d322ff2eec80e5bcb12a6cedca54b20]
+[^c-4d322ff2eec80e5bcb12a6cedca54b20]
 
 - Anguilla
 - British Antarctic Territory
@@ -39,4 +39,4 @@ Article 1(2)
 
 ## Annotations
 
-[^key-4d322ff2eec80e5bcb12a6cedca54b20]: Commencement: Sch. 1 comes into force in accordance with art. 1(1)
+[^c-4d322ff2eec80e5bcb12a6cedca54b20]: Commencement: Sch. 1 comes into force in accordance with art. 1(1)

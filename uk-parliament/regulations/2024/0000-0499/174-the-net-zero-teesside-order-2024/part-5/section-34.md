@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Apparatus and rights of statutory undertakers in streets[^key-e7216376cdcea81aedaa5ef9bc6ff159]
+## 34. Apparatus and rights of statutory undertakers in streets[^c-e7216376cdcea81aedaa5ef9bc6ff159]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a street is altered or diverted or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-e7216376cdcea81aedaa5ef9bc6ff159]: Commencement: Art. 34 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-e7216376cdcea81aedaa5ef9bc6ff159]: Commencement: Art. 34 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

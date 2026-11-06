@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Report on progress towards meeting the interim target[^key-45e00215c2c2557a858b6102b69b5d4e]
+## 39. Report on progress towards meeting the interim target[^c-45e00215c2c2557a858b6102b69b5d4e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45e00215c2c2557a858b6102b69b5d4e]: Textual amendment: Ss. 38-41 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 11](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/11); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-45e00215c2c2557a858b6102b69b5d4e]: Textual amendment: Ss. 38-41 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 11](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/11); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

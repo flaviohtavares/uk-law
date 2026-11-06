@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35D. Limitation on payment of transfer values[^key-fa696061dd48909a370bd570e6b4c578]
+## 35D. Limitation on payment of transfer values[^c-fa696061dd48909a370bd570e6b4c578]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa696061dd48909a370bd570e6b4c578]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2010/990/part/4) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/2651/regulation/10)
+[^c-fa696061dd48909a370bd570e6b4c578]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2010/990/part/4) substituted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [10](https://www.legislation.gov.uk/uksi/2014/2651/regulation/10)

@@ -36,7 +36,7 @@ summary: ''
 
 (2) In subsection (3) of that section the words “or 11AA” shall cease to have effect.
 
-(3)[^key-5e0dc8bb2e5fe582b588d4f0a12e9ad3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5e0dc8bb2e5fe582b588d4f0a12e9ad3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After subsection (5) of section 59B of that Act (payment of income tax and capital gains tax) there shall be inserted the following subsection—
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c14611901]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-5e0dc8bb2e5fe582b588d4f0a12e9ad3]: Textual amendment: S. 125(3) repealed (with effect in accordance with s. 92 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/3)
+[^c-5e0dc8bb2e5fe582b588d4f0a12e9ad3]: Textual amendment: S. 125(3) repealed (with effect in accordance with s. 92 of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 5(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/3)

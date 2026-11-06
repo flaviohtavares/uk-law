@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Voluntary adoption agencies: distribution of functions[^key-cf369c007f96e2271d3b5432b2e11325]
+## 36A. Voluntary adoption agencies: distribution of functions[^c-cf369c007f96e2271d3b5432b2e11325]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf369c007f96e2271d3b5432b2e11325]: Textual amendment: S. 36A repealed (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/12); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))
+[^c-cf369c007f96e2271d3b5432b2e11325]: Textual amendment: S. 36A repealed (29.4.2019) by [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2), [s. 188(1)](https://www.legislation.gov.uk/anaw/2016/2/section/188/1), [Sch. 3 para. 12](https://www.legislation.gov.uk/anaw/2016/2/schedule/3/paragraph/12); [S.I. 2019/864](https://www.legislation.gov.uk/wsi/2019/864), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2019/864/article/2/3/d), [Sch.](https://www.legislation.gov.uk/wsi/2019/864/schedule) (with [arts. 3-13](https://www.legislation.gov.uk/wsi/2019/864/article/3))

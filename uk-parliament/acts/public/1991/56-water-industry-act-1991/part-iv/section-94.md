@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. General duty to provide sewerage system.[^key-cd50164512671ec0e860f483512e0d8c]
+## 94. General duty to provide sewerage system.[^c-cd50164512671ec0e860f483512e0d8c]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cd50164512671ec0e860f483512e0d8c]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/1991/56/section/94) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/10/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
+[^c-cd50164512671ec0e860f483512e0d8c]: Modification: [S. 94](https://www.legislation.gov.uk/ukpga/1991/56/section/94) applied (with modifications) (28.6.2013) by [The Water Industry (Specified Infrastructure Projects) (English Undertakers) Regulations 2013 (S.I. 2013/1582)](https://www.legislation.gov.uk/uksi/2013/1582), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/b), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/1582/schedule/1/paragraph/10/2) (with [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2013/1582/regulation/1/1/c))
 
 [^c19881041]: Textual amendment: Words in s. 94(1)(a) inserted (28.5.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 97(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/97/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 

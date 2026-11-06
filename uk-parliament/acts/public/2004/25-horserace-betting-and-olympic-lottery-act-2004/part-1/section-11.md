@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Preparatory work by the Tote[^key-56dc5b99f1cd22f232f86604e80337db]
+## 11. Preparatory work by the Tote[^c-56dc5b99f1cd22f232f86604e80337db]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56dc5b99f1cd22f232f86604e80337db]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/25/section/11) in force at 1.1.2005 by [S.I. 2004/3283](https://www.legislation.gov.uk/uksi/2004/3283), [art. 3](https://www.legislation.gov.uk/uksi/2004/3283/article/3)
+[^c-56dc5b99f1cd22f232f86604e80337db]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2004/25/section/11) in force at 1.1.2005 by [S.I. 2004/3283](https://www.legislation.gov.uk/uksi/2004/3283), [art. 3](https://www.legislation.gov.uk/uksi/2004/3283/article/3)

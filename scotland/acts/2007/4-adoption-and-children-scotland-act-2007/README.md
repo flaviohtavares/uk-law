@@ -32,7 +32,7 @@ Adoption and Children (Scotland) Act 2007
 
 An Act of the Scottish Parliament to restate and amend the law relating to adoption; to make other provision in relation to the care of children; to enable provision to be made in relation to allowances in respect of certain children; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 7th December 2006 and received Royal Assent on 15th January 2007[^key-021bd7dcbb268c4a4c4407a5544fbd77][^key-14ff4fb49773f0522319dcece1743dbb][^key-1337d9b51df35c1a3dc85a941c0e1d84]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 7th December 2006 and received Royal Assent on 15th January 2007[^c-021bd7dcbb268c4a4c4407a5544fbd77][^c-14ff4fb49773f0522319dcece1743dbb][^c-1337d9b51df35c1a3dc85a941c0e1d84]
 
 ## Contents
 
@@ -66,7 +66,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 13 — Regulations](part-1/section-13.md)
 
-#### CHAPTER 1A — Scotland's Adoption Register[^key-fd33c8a06ef68d382e3b4ec6e1b25b4d]
+#### CHAPTER 1A — Scotland's Adoption Register[^c-fd33c8a06ef68d382e3b4ec6e1b25b4d]
 
 *Extent: S*
 
@@ -78,7 +78,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 13F — Use of an organisation as agency for payments](part-1/section-13f.md)
 - [Section 13G — Supplementary](part-1/section-13g.md)
 
-#### Chapter 2 — The adoption process[^key-1aa9b1ca6bb367ab31400e0712afec2e]
+#### Chapter 2 — The adoption process[^c-1aa9b1ca6bb367ab31400e0712afec2e]
 
 ##### Preliminary
 
@@ -303,7 +303,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 108 — Rules: appointment of curators ad litem and reporting officers](part-3/section-108.md)
 - [Section 109 — Proceedings to be in private](part-3/section-109.md)
 
-#### Care allowances and other payments: regulations[^key-c2f8b85fa45f5f42d472a5a64c9dc091]
+#### Care allowances and other payments: regulations[^c-c2f8b85fa45f5f42d472a5a64c9dc091]
 
 - [Section 110 — Allowances and other payments for care of certain children: regulations](part-3/section-110.md)
 
@@ -330,14 +330,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-021bd7dcbb268c4a4c4407a5544fbd77]: Modification: Act applied (with modifications) (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 53-61](https://www.legislation.gov.uk/ssi/2009/182/regulation/53)
+[^c-021bd7dcbb268c4a4c4407a5544fbd77]: Modification: Act applied (with modifications) (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 53-61](https://www.legislation.gov.uk/ssi/2009/182/regulation/53)
 
-[^key-14ff4fb49773f0522319dcece1743dbb]: Modification: Act: power to modify conferred (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 55](https://www.legislation.gov.uk/ukpga/2008/22/section/55), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/q)
+[^c-14ff4fb49773f0522319dcece1743dbb]: Modification: Act: power to modify conferred (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 55](https://www.legislation.gov.uk/ukpga/2008/22/section/55), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/q)
 
-[^key-1337d9b51df35c1a3dc85a941c0e1d84]: Modification: Act applied (with modifications) (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/1412/schedule/2)
+[^c-1337d9b51df35c1a3dc85a941c0e1d84]: Modification: Act applied (with modifications) (21.12.2018) by [The Human Fertilisation and Embryology (Parental Orders) Regulations 2018 (S.I. 2018/1412)](https://www.legislation.gov.uk/uksi/2018/1412), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/1412/schedule/2)
 
-[^key-fd33c8a06ef68d382e3b4ec6e1b25b4d]: Textual amendment: [Pt. 1 Ch. 1A](https://www.legislation.gov.uk/asp/2007/4/part/1/chapter/1A) inserted (30.9.2015 so far as is necessary to enable the Scottish Ministers to make regulations under section 13A(2), 1.4.2016 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 75](https://www.legislation.gov.uk/asp/2014/8/section/75), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/317](https://www.legislation.gov.uk/ssi/2015/317), [art. 2](https://www.legislation.gov.uk/ssi/2015/317/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/317/schedule); [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/2)
+[^c-fd33c8a06ef68d382e3b4ec6e1b25b4d]: Textual amendment: [Pt. 1 Ch. 1A](https://www.legislation.gov.uk/asp/2007/4/part/1/chapter/1A) inserted (30.9.2015 so far as is necessary to enable the Scottish Ministers to make regulations under section 13A(2), 1.4.2016 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 75](https://www.legislation.gov.uk/asp/2014/8/section/75), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2015/317](https://www.legislation.gov.uk/ssi/2015/317), [art. 2](https://www.legislation.gov.uk/ssi/2015/317/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/317/schedule); [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(2)](https://www.legislation.gov.uk/ssi/2015/406/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2015/406/article/3/3), [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2015/406/schedule/part/2)
 
-[^key-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
+[^c-1aa9b1ca6bb367ab31400e0712afec2e]: Modification: Pt. 1 Ch. 2 applied in part (28.9.2009) by [Adoptions with a Foreign Element (Scotland) Regulations 2009 (S.S.I. 2009/182)](https://www.legislation.gov.uk/ssi/2009/182), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/1/1), [9(1)](https://www.legislation.gov.uk/ssi/2009/182/regulation/9/1)
 
-[^key-c2f8b85fa45f5f42d472a5a64c9dc091]: Textual amendment: S. 110 cross-heading substituted (30.9.2026) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 36(4)](https://www.legislation.gov.uk/asp/2026/16/section/36/4), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-c2f8b85fa45f5f42d472a5a64c9dc091]: Textual amendment: S. 110 cross-heading substituted (30.9.2026) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 36(4)](https://www.legislation.gov.uk/asp/2026/16/section/36/4), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

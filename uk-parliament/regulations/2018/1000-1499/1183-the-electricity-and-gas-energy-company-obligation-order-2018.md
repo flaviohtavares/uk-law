@@ -123,7 +123,7 @@ In this Order—
   - (a) private rented premises; or
   - (b) social housing;
 - “**participant**” has the meaning given in article 3(1) and (2);
-- “[^key-e68676439ba7884db7b19d0353a8f901]**PAS 2030:2019**” means Publicly Available Specification 2030:2019 [^c23434471];
+- “[^c-e68676439ba7884db7b19d0353a8f901]**PAS 2030:2019**” means Publicly Available Specification 2030:2019 [^c23434471];
 - “**PAS 2030:2019 certified installer**” means, in relation to a measure, a person who is certified, by a certification body or organisation accredited to EN ISO/IEC 17065:2012 [^c23434481], as compliant with those parts of PAS 2030:2019 that apply to the measure;
 - “**PAS 2035:2019**” means Publicly Available Specification 2035:2019 [^c23434491];
 - “**phase**” means one of the four phases as follows—
@@ -493,9 +493,9 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 
 - (a) the measure is installed at F, G or unrated private rented premises occupied by a member of the help to heat group; and
 - (b) the measure is—
-  - (i) solid wall insulation; [^key-6916fbe74c131b36df0c87b39f409429]...
-  - (ii) a renewable heating measure; or[^key-632d62efb3907ab415483050b929b36f]
-  - (iii)[^key-a85ec286d32e8233461c9db571ab1cf0] a first time heating system.
+  - (i) solid wall insulation; [^c-6916fbe74c131b36df0c87b39f409429]...
+  - (ii) a renewable heating measure; or[^c-632d62efb3907ab415483050b929b36f]
+  - (iii)[^c-a85ec286d32e8233461c9db571ab1cf0] a first time heating system.
 
 (4) A measure also meets the condition in this article if the measure (“the in-fill measure”) is—
 
@@ -546,7 +546,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
   - (i) installed to improve the insulating properties of the premises;
   - (ii) a demonstration action;
   - (iii) an innovation measure; or
-  - (iv) a first time heating system [^key-ce3ba14d9c3f4ccb5847f905eb283655]... .
+  - (iv) a first time heating system [^c-ce3ba14d9c3f4ccb5847f905eb283655]... .
 
 (2) This paragraph applies to social housing if a post-installation EPC expresses the energy performance rating of the social housing as band E, F or G.
 
@@ -555,7 +555,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 - (a) a pre-installation EPC expresses the energy performance rating of the social housing as band E, F or G; and
 - (b) the social landlord in respect of the social housing has confirmed in writing that, to the best of its knowledge and belief, no changes were made to the social housing, after the pre-installation EPC was issued and before the measure was installed, which would increase the energy performance rating of the social housing to band A, B, C or D.
 
-(4)[^key-cfc103be3533bad936ec16218355fcd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-cfc103be3533bad936ec16218355fcd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 17. Measures accompanied by a statement from a local authority
 
@@ -578,9 +578,9 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 - (a) the measure is installed at F, G or unrated private rented premises;
 - (b) paragraphs (1)(b) and (c) apply in respect of the premises; and
 - (c) the measure is—
-  - (i) solid wall insulation; [^key-22cd2cbc15a9363ed2a34d035c2c8d22]...
-  - (ii) a renewable heating measure; or[^key-4bf9ee0b61fd37639b903d1fe9b573df]
-  - (iii)[^key-e4a67d0a0b2b023437cee722b7890ab1] a first time heating system.
+  - (i) solid wall insulation; [^c-22cd2cbc15a9363ed2a34d035c2c8d22]...
+  - (ii) a renewable heating measure; or[^c-4bf9ee0b61fd37639b903d1fe9b573df]
+  - (iii)[^c-e4a67d0a0b2b023437cee722b7890ab1] a first time heating system.
 
 (4) A measure also meets the condition in this article if—
 
@@ -604,7 +604,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
   - (ii) on a low income and are vulnerable to the effects of living in a cold home; or
 - (b) a statement of intent within the meaning of article 16A of the 2014 Order.
 
-### 18. Installation standards, warranties and consumer protection[^key-f785faa8a733e8243b1fb477b952d5c3]
+### 18. Installation standards, warranties and consumer protection[^c-f785faa8a733e8243b1fb477b952d5c3]
 
 (1) Where the installation of a measure is completed before 1st July 2021, that measure meets the requirements of this article if—
 
@@ -679,7 +679,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
   - (i) a repair; or
   - (ii) installed at domestic premises which immediately prior to the installation of the measure have a central heating system or district heating connection that in either case has broken down and cannot be economically repaired;
 - (c) is not the installation of a connection to a district heating system that delivers heat generated wholly or partly from coal or oil;
-- (ca)[^key-0705df0e08d7834c1ea618120b436e85] is not the installation of a first time heating system at uninsulated premises;
+- (ca)[^c-0705df0e08d7834c1ea618120b436e85] is not the installation of a first time heating system at uninsulated premises;
 - (d) except in the case of the installation of a ground source heat pump, is not the installation of equipment that is, or has been at any time—
   - (i) an accredited domestic plant within the meaning of the Domestic Renewable Heat Incentive Scheme Regulations 2014 [^c23434531]; or
   - (ii) an accredited RHI installation within the meaning of the Renewable Heat Incentive Scheme Regulations 2018 [^c23434541];
@@ -723,7 +723,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
     - (ii) has a peak energy efficiency that is no better than a central heating system falling within paragraph (b)(i); and
   - (d) in the case of an electric heating system or an electric storage heater, has a responsiveness rating equal to or less than 0.2 when assessed against the Standard Assessment Procedure;
 - “**peak energy efficiency**” means the maximum efficiency at which a central heating system or district heating system, as the case may be, is designed to produce heat.
-- “[^key-7230151c162fd9b4523bc5025e03d3bf]**room-in-roof**” means, in relation to insulation, insulation of the ceiling and walls of a room in the roof space of a building;
+- “[^c-7230151c162fd9b4523bc5025e03d3bf]**room-in-roof**” means, in relation to insulation, insulation of the ceiling and walls of a room in the roof space of a building;
 - “**uninsulated premises**” means premises other than a mobile home—
   - (a) which include the top floor of the building in which they are located and which—
     - (i) do not have flat roof, loft, rafter or room-in-roof insulation; and
@@ -981,7 +981,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 - (a) is a district heating connection; and
 - (b) is not a demonstration action or a surplus action.
 
-(2)[^key-1dd8d5d2ac39939e00812a2b484fc357] Where this article applies, the score is calculated by determining the cost savings for the qualifying action in accordance with the following formulae—
+(2)[^c-1dd8d5d2ac39939e00812a2b484fc357] Where this article applies, the score is calculated by determining the cost savings for the qualifying action in accordance with the following formulae—
 
 - (a) in the case of a qualifying action which meets the conditions in paragraph (2A)—
 
@@ -990,7 +990,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
 
-(2A)[^key-365f38ccc1443b24eb2fd11f170bc181] A qualifying action meets the conditions in this paragraph if the qualifying action is a measure which—
+(2A)[^c-365f38ccc1443b24eb2fd11f170bc181] A qualifying action meets the conditions in this paragraph if the qualifying action is a measure which—
 
 - (a) is referred to in PAS 2030:2019;
 - (b) is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer; and
@@ -1026,7 +1026,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 
 (1) This article applies for the purpose of calculating the score of a qualifying action which is a demonstration action.
 
-(2)[^key-bf6dcf5b4fdb1f66401d77b366443b40] The score of a demonstration action is calculated in accordance with the following formulae—
+(2)[^c-bf6dcf5b4fdb1f66401d77b366443b40] The score of a demonstration action is calculated in accordance with the following formulae—
 
 - (a) in the case of a qualifying action which meets the conditions in paragraph (2A)—
 
@@ -1035,7 +1035,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
 
-(2A)[^key-fa0c70af7db7f92b85d8965d5dfbef1f] A qualifying action meets the conditions in this paragraph if the qualifying action is a measure—
+(2A)[^c-fa0c70af7db7f92b85d8965d5dfbef1f] A qualifying action meets the conditions in this paragraph if the qualifying action is a measure—
 
 - (a) which is referred to in PAS 2030:2019;
 - (b) which is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer; and
@@ -1091,11 +1091,11 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 (2) Where this article applies, the score is the greater of—
 
 - (a) the score for the qualifying action calculated in accordance with article 32(2); and
-- (b)[^key-4b7aa2fb6e9becb7ab33fa1df93887ab] either—
+- (b)[^c-4b7aa2fb6e9becb7ab33fa1df93887ab] either—
   - (i) the score for the qualifying action calculated in accordance with the methodology stated in the application for approval of the monitored measure in accordance with article 22(2)(a)(iii); or
   - (ii) if the conditions in paragraph (2A) are met, the score under paragraph (i) multiplied by 1.2.
 
-(2A)[^key-cefcaef12ccb3597bbb578b0588349ce] The conditions in this paragraph are met if the qualifying action is a measure which—
+(2A)[^c-cefcaef12ccb3597bbb578b0588349ce] The conditions in this paragraph are met if the qualifying action is a measure which—
 
 - (a) is referred to in PAS 2030:2019;
 - (b) is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer; and
@@ -1123,7 +1123,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 - (d) a monitored measure; or
 - (e) a surplus action.
 
-(2)[^key-d71c16e081873f0139ecee13bef86038] Where this article applies, the score is calculated by determining the cost savings for the qualifying action in accordance with the following formulae—
+(2)[^c-d71c16e081873f0139ecee13bef86038] Where this article applies, the score is calculated by determining the cost savings for the qualifying action in accordance with the following formulae—
 
 - (a) in the case of a qualifying action which meets the conditions in paragraph (2A)—
 
@@ -1132,7 +1132,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2018/1183)
 
-(2A)[^key-c30e16fe6493212d66045a3543733408] A qualifying action meets the conditions in this paragraph if the qualifying action is a measure which—
+(2A)[^c-c30e16fe6493212d66045a3543733408] A qualifying action meets the conditions in this paragraph if the qualifying action is a measure which—
 
 - (a) is referred to in PAS 2030:2019;
 - (b) is installed in accordance with PAS 2030:2019 and PAS 2035:2019 by, or under the responsibility of, a PAS 2030:2019 certified installer; and
@@ -1143,13 +1143,13 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 - “Q” is the cost savings for the qualifying action calculated in accordance with a methodology published by the Administrator under article 33;
 - “R” is—
   - (a) 1.35, in the case of a qualifying action which is installed to improve the insulating properties of non-gas fuelled premises;
-  - (b) 4, in the case of a qualifying action which is the replacement of a broken boiler with another boiler and which is—[^key-aca8f7c00eb94c6861d00b46c4ccca5c]
+  - (b) 4, in the case of a qualifying action which is the replacement of a broken boiler with another boiler and which is—[^c-aca8f7c00eb94c6861d00b46c4ccca5c]
     - (i) a measure to which article 12(9) applies; or
     - (ii) a renewable heating measure;
-  - (ba) 2, in the case of a qualifying action which is the replacement of a broken boiler with another boiler and which is not a qualifying action described in paragraph (b);[^key-31445ec6160865fd09aefda452cd9c3b]
+  - (ba) 2, in the case of a qualifying action which is the replacement of a broken boiler with another boiler and which is not a qualifying action described in paragraph (b);[^c-31445ec6160865fd09aefda452cd9c3b]
   - (c) 2.4, in the case of a qualifying action which is the replacement of a broken electric storage heater with another electric storage heater;
   - (d) 1.25, in the case of a qualifying action which—
-    - (i) is not a qualifying action described in paragraph (a), (b) , (ba)[^key-4989c2c0e82d03c4433f5a0af3af0d49] or (c);
+    - (i) is not a qualifying action described in paragraph (a), (b) , (ba)[^c-4989c2c0e82d03c4433f5a0af3af0d49] or (c);
     - (ii) is a qualifying action by virtue of meeting the condition in article 17; and
     - (iii) is installed at domestic premises described as relevant F or G owner-occupied premises in Schedule 4;
   - (e) 1, in all other cases.
@@ -1168,13 +1168,13 @@ For the period from the commencement date to 31st March 2022 the overall home-he
 
 (2) Under the methodology published by the Administrator the calculation of the cost savings must be based on—
 
-- (a)[^key-46c4075551585d48f4c17f7c10fe0818] in the case of a qualifying action which is the repair of a boiler or electric storage heater, an expected lifetime for the qualifying action of 2 years;
+- (a)[^c-46c4075551585d48f4c17f7c10fe0818] in the case of a qualifying action which is the repair of a boiler or electric storage heater, an expected lifetime for the qualifying action of 2 years;
 - (b) in the case of a qualifying action which is the replacement of a broken boiler with another boiler, an expected lifetime for the qualifying action of 3 years;
 - (c) in the case of a qualifying action which is the replacement of a broken electric storage heater with another electric storage heater, an expected lifetime for the qualifying action of 5 years;
 - (d) in the case of a qualifying action which is the installation of cavity wall insulation and which is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 42 years;
 - (e) in the case of a qualifying action which is the installation of insulation applied to the floor, walls and ceiling of a mobile home and which is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 30 years;
-- (f) in the case of a qualifying action which is the installation of solid wall insulation and which is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 36 years; [^key-9d7d9d9aea359c10c5bddab6d2ad0430]...
-- (fa)[^key-db24a4db909b4310a0b26081b559f5ae] in the case of a qualifying action which is the installation of room-in-roof insulation and which, if completed on or after 1st July 2020, is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 42 years;
+- (f) in the case of a qualifying action which is the installation of solid wall insulation and which is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 36 years; [^c-9d7d9d9aea359c10c5bddab6d2ad0430]...
+- (fa)[^c-db24a4db909b4310a0b26081b559f5ae] in the case of a qualifying action which is the installation of room-in-roof insulation and which, if completed on or after 1st July 2020, is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 42 years;
 - (fb) in the case of a qualifying action which is the installation of underfloor insulation and which, if completed on or after 1st July 2020, is accompanied by an appropriate warranty, an expected lifetime for the qualifying action of 42 years;
 - (fc) in the case of a qualifying action which is a first time heating system other than the installation of a district heating connection, an expected lifetime for the qualifying action of 20 years; and
 - (g) in the case of any other qualifying action, an expected lifetime for the qualifying action that is specified in, or determined in accordance with, the methodology.
@@ -1193,7 +1193,7 @@ For the period from the commencement date to 31st March 2022 the overall home-he
   - (b) is for 25 years or more; and
   - (c) provides for repair, or replacement where appropriate, of the insulation, covering the cost of remedial and replacement works and materials;
 - “**broken boiler**” and “**broken electric storage heater**” have the same meaning as in article 32;
-- “[^key-cb50ea70f6fdd479e1b9bcac1f2791c7]**room-in-roof**” in relation to insulation has the same meaning as in article 19;
+- “[^c-cb50ea70f6fdd479e1b9bcac1f2791c7]**room-in-roof**” in relation to insulation has the same meaning as in article 19;
 - “**underfloor insulation**” means insulation of all or part of the floor of a room in a building, where that floor, or that part of the floor, is not situated above a habitable room.
 
 ## PART 8 — Transfers
@@ -1413,19 +1413,19 @@ Article 14
 - “**child**” and “**qualifying young person**” have the same meaning as in Part 9 of the 1992 Act [^c23434901];
 - “**couple**” means—
   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
-  - (b) two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^key-6bf1f8cfcf9dcbd07c3874de16f9522b];
+  - (b) two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^c-6bf1f8cfcf9dcbd07c3874de16f9522b];
 - “**single claimant**” means a person who is not a member of a couple.
 
 ## SCHEDULE 3 — Requirements for warranties for boiler installations
 
 Article 18
 
-**1.** The requirements referred to in article 18(1)(d)(ii) and (5)(d)[^key-381744a9d9d90c7c0e26b2d84c51fdd2] for a warranty are as follows.
+**1.** The requirements referred to in article 18(1)(d)(ii) and (5)(d)[^c-381744a9d9d90c7c0e26b2d84c51fdd2] for a warranty are as follows.
 
 **2.** Subject to paragraph 3, the warranty must provide for the rectification, without any charge to a consumer, of all problems which affect the functioning of the boiler or the heating system it serves and which—
 
 - (a) relate to its installation or its suitability for the heating system it serves; and
-- (b) are notified to the person providing the warranty within 2 years[^key-680c45b4731f1932b75dedfbfa13cf3c] of the boiler being installed.
+- (b) are notified to the person providing the warranty within 2 years[^c-680c45b4731f1932b75dedfbfa13cf3c] of the boiler being installed.
 
 **3.** The warranty is not required to provide for the rectification of a problem which—
 
@@ -1561,7 +1561,7 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c23434401]: Marginal citation: Defined in Schedule 1 to the [Interpretation Act 1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-e68676439ba7884db7b19d0353a8f901]: Textual amendment: Words in art. 2 inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [3](https://www.legislation.gov.uk/uksi/2019/1441/article/3) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-e68676439ba7884db7b19d0353a8f901]: Textual amendment: Words in art. 2 inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [3](https://www.legislation.gov.uk/uksi/2019/1441/article/3) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
 [^c23434471]: Marginal citation: ISBN 978 0 580 99563 7. This specification for the installation of energy efficiency measures in existing dwellings and insulation in residential park homes was published by the British Standards Institution on 30th June 2019.
 
@@ -1583,29 +1583,29 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c23434461]: Marginal citation: See section 33BD(1) of the Gas Act 1986 and section 41B(1) of the Electricity Act 1989 for the definition of “home-heating cost reduction obligation”.
 
-[^key-6916fbe74c131b36df0c87b39f409429]: Textual amendment: Word in art. 14(3)(b)(i) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/4/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-6916fbe74c131b36df0c87b39f409429]: Textual amendment: Word in art. 14(3)(b)(i) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/4/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-632d62efb3907ab415483050b929b36f]: Textual amendment: Word in art. 14(3)(b)(ii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/4/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-632d62efb3907ab415483050b929b36f]: Textual amendment: Word in art. 14(3)(b)(ii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/4/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-a85ec286d32e8233461c9db571ab1cf0]: Textual amendment: Art. 14(3)(b)(iii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2019/1441/article/4/c) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-a85ec286d32e8233461c9db571ab1cf0]: Textual amendment: Art. 14(3)(b)(iii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2019/1441/article/4/c) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
 [^c23434501]: Marginal citation: [S.I. 2011/1033](https://www.legislation.gov.uk/uksi/2011/1033), as amended by [S.I. 2014/695](https://www.legislation.gov.uk/uksi/2014/695), [S.I. 2015/652](https://www.legislation.gov.uk/uksi/2015/652) and [S.I. 2016/806](https://www.legislation.gov.uk/uksi/2016/806) and the [Warm Home Discount (Miscellaneous Amendments) Regulations 2018](https://www.legislation.gov.uk/uksi/2018/909).
 
-[^key-ce3ba14d9c3f4ccb5847f905eb283655]: Textual amendment: Words in art. 16(1)(b)(iv) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/5/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-ce3ba14d9c3f4ccb5847f905eb283655]: Textual amendment: Words in art. 16(1)(b)(iv) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/5/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-cfc103be3533bad936ec16218355fcd6]: Textual amendment: Art. 16(4) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/5/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-cfc103be3533bad936ec16218355fcd6]: Textual amendment: Art. 16(4) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/5/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-22cd2cbc15a9363ed2a34d035c2c8d22]: Textual amendment: Word in art. 17(3)(c)(i) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/6/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-22cd2cbc15a9363ed2a34d035c2c8d22]: Textual amendment: Word in art. 17(3)(c)(i) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/6/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-4bf9ee0b61fd37639b903d1fe9b573df]: Textual amendment: Word in art. 17(3)(c)(ii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/6/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-4bf9ee0b61fd37639b903d1fe9b573df]: Textual amendment: Word in art. 17(3)(c)(ii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/6/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-e4a67d0a0b2b023437cee722b7890ab1]: Textual amendment: Art. 17(3)(c)(iii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2019/1441/article/6/c) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-e4a67d0a0b2b023437cee722b7890ab1]: Textual amendment: Art. 17(3)(c)(iii) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [6(c)](https://www.legislation.gov.uk/uksi/2019/1441/article/6/c) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-f785faa8a733e8243b1fb477b952d5c3]: Textual amendment: Art. 18 substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [7](https://www.legislation.gov.uk/uksi/2019/1441/article/7) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-f785faa8a733e8243b1fb477b952d5c3]: Textual amendment: Art. 18 substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [7](https://www.legislation.gov.uk/uksi/2019/1441/article/7) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
 [^c23434521]: Marginal citation: ISBN 978 0 580 82569 9. This specification for the installation of energy efficiency measures in existing buildings was published by the British Standards Institution on 31st January 2017.
 
-[^key-0705df0e08d7834c1ea618120b436e85]: Textual amendment: Art. 19(1)(ca) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/8/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-0705df0e08d7834c1ea618120b436e85]: Textual amendment: Art. 19(1)(ca) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/8/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
 [^c23434531]: Marginal citation: [S.I. 2014/928](https://www.legislation.gov.uk/uksi/2014/928), amended by [S.I. 2015/143](https://www.legislation.gov.uk/uksi/2015/143), [S.I. 2015/145](https://www.legislation.gov.uk/uksi/2015/145), [S.I. 2015/1459](https://www.legislation.gov.uk/uksi/2015/1459), [S.I. 2016/257](https://www.legislation.gov.uk/uksi/2016/257), [S.I. 2017/857](https://www.legislation.gov.uk/uksi/2017/857), [S.I. 2018/610](https://www.legislation.gov.uk/uksi/2018/610) and [S.I. 2018/635](https://www.legislation.gov.uk/uksi/2018/635). See regulation 2.
 
@@ -1613,41 +1613,41 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c23434551]: Marginal citation: [2010 c.4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-7230151c162fd9b4523bc5025e03d3bf]: Textual amendment: Words in art. 19(2) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/8/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-7230151c162fd9b4523bc5025e03d3bf]: Textual amendment: Words in art. 19(2) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/8/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
 [^c23434561]: Marginal citation: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
 
 [^c23434571]: Marginal citation: OJ No. C 368, 28.10.2017, p.6. The Horizon 2020 Work Programme 2018-2020 and its General Annexes can be found at: http://ec.europa.eu/research/participants/portal/desktop/en/funding/reference\_docs.html#h2020-work-programmes-2018-20 A copy can be inspected by contacting the Energy Company Obligation Team at the Department for Business, Energy and Industrial Strategy, 1 Victoria Street, London SW1H 0ET.
 
-[^key-1dd8d5d2ac39939e00812a2b484fc357]: Textual amendment: Art. 27(2) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/9/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-1dd8d5d2ac39939e00812a2b484fc357]: Textual amendment: Art. 27(2) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [9(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/9/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-365f38ccc1443b24eb2fd11f170bc181]: Textual amendment: Art. 27(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/9/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-365f38ccc1443b24eb2fd11f170bc181]: Textual amendment: Art. 27(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [9(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/9/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-bf6dcf5b4fdb1f66401d77b366443b40]: Textual amendment: Art. 28(2) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/10/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-bf6dcf5b4fdb1f66401d77b366443b40]: Textual amendment: Art. 28(2) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/10/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-fa0c70af7db7f92b85d8965d5dfbef1f]: Textual amendment: Art. 28(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [10(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/10/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-fa0c70af7db7f92b85d8965d5dfbef1f]: Textual amendment: Art. 28(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [10(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/10/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-4b7aa2fb6e9becb7ab33fa1df93887ab]: Textual amendment: Art. 30(2)(b) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/11/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-4b7aa2fb6e9becb7ab33fa1df93887ab]: Textual amendment: Art. 30(2)(b) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [11(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/11/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-cefcaef12ccb3597bbb578b0588349ce]: Textual amendment: Art. 30(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [11(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/11/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-cefcaef12ccb3597bbb578b0588349ce]: Textual amendment: Art. 30(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [11(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/11/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-d71c16e081873f0139ecee13bef86038]: Textual amendment: Art. 32(2) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-d71c16e081873f0139ecee13bef86038]: Textual amendment: Art. 32(2) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-c30e16fe6493212d66045a3543733408]: Textual amendment: Art. 32(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-c30e16fe6493212d66045a3543733408]: Textual amendment: Art. 32(2A) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-aca8f7c00eb94c6861d00b46c4ccca5c]: Textual amendment: Words in art. 32(3) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(c)(i)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/c/i) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-aca8f7c00eb94c6861d00b46c4ccca5c]: Textual amendment: Words in art. 32(3) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(c)(i)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/c/i) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-31445ec6160865fd09aefda452cd9c3b]: Textual amendment: Words in art. 32(3) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/c/ii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-31445ec6160865fd09aefda452cd9c3b]: Textual amendment: Words in art. 32(3) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(c)(ii)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/c/ii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-4989c2c0e82d03c4433f5a0af3af0d49]: Textual amendment: Word in art. 32(3) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(c)(iii)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/c/iii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-4989c2c0e82d03c4433f5a0af3af0d49]: Textual amendment: Word in art. 32(3) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [12(c)(iii)](https://www.legislation.gov.uk/uksi/2019/1441/article/12/c/iii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-46c4075551585d48f4c17f7c10fe0818]: Textual amendment: Art. 33(2)(a) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/a/i) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-46c4075551585d48f4c17f7c10fe0818]: Textual amendment: Art. 33(2)(a) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(a)(i)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/a/i) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-9d7d9d9aea359c10c5bddab6d2ad0430]: Textual amendment: Word in art. 33(2)(f) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/a/ii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-9d7d9d9aea359c10c5bddab6d2ad0430]: Textual amendment: Word in art. 33(2)(f) omitted (1.1.2020) by virtue of [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/a/ii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-db24a4db909b4310a0b26081b559f5ae]: Textual amendment: Art. 33(2)(fa)-(fc) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/a/iii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-db24a4db909b4310a0b26081b559f5ae]: Textual amendment: Art. 33(2)(fa)-(fc) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/a/iii) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-cb50ea70f6fdd479e1b9bcac1f2791c7]: Textual amendment: Words in art. 33(4) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-cb50ea70f6fdd479e1b9bcac1f2791c7]: Textual amendment: Words in art. 33(4) inserted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [13(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/13/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
 [^c23434581]: Marginal citation: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44). Section 30O was inserted by paragraph 1 of Schedule 14 to the [Energy Act 2013 (c.32)](https://www.legislation.gov.uk/ukpga/2013/32).
 
@@ -1715,8 +1715,8 @@ A full impact assessment of the effect that this Order will have on the costs of
 
 [^c23434901]: Marginal citation: See section 142. That section was amended by section 1 of the Child Benefit Act 2005.
 
-[^key-6bf1f8cfcf9dcbd07c3874de16f9522b]: Textual amendment: Words in Sch. 2 para. 5 substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 105](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/105)
+[^c-6bf1f8cfcf9dcbd07c3874de16f9522b]: Textual amendment: Words in Sch. 2 para. 5 substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 105](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/105)
 
-[^key-381744a9d9d90c7c0e26b2d84c51fdd2]: Textual amendment: Words in Sch. 3 para. 1 substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [14(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/14/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-381744a9d9d90c7c0e26b2d84c51fdd2]: Textual amendment: Words in Sch. 3 para. 1 substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [14(a)](https://www.legislation.gov.uk/uksi/2019/1441/article/14/a) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
 
-[^key-680c45b4731f1932b75dedfbfa13cf3c]: Textual amendment: Words in Sch. 3 para. 2(b) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [14(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/14/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))
+[^c-680c45b4731f1932b75dedfbfa13cf3c]: Textual amendment: Words in Sch. 3 para. 2(b) substituted (1.1.2020) by [The Electricity and Gas (Energy Company Obligation) (Amendment) Order 2019 (S.I. 2019/1441)](https://www.legislation.gov.uk/uksi/2019/1441), [arts. 1](https://www.legislation.gov.uk/uksi/2019/1441/article/1), [14(b)](https://www.legislation.gov.uk/uksi/2019/1441/article/14/b) (with [art. 15](https://www.legislation.gov.uk/uksi/2019/1441/article/15))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.12. Specific disclosure or inspection[^key-33ae7037ae35b7f9c090d862dc8adf60]
+## 31.12. Specific disclosure or inspection[^c-33ae7037ae35b7f9c090d862dc8adf60]
 
 *Extent: E+W*
 
@@ -30,16 +30,16 @@ summary: ''
 
 (3) An order for specific inspection is an order that a party permit inspection of a document referred to in rule 31.3(2).
 
-(Rule 31.3(2) allows a party to state in their[^key-65a80d75e1f2c0ab10791c760140ee59] disclosure statement that they[^key-faabec3d6f169d4e1983096921949952] will not permit inspection of a document on the grounds that it would be disproportionate to do so)
+(Rule 31.3(2) allows a party to state in their[^c-65a80d75e1f2c0ab10791c760140ee59] disclosure statement that they[^c-faabec3d6f169d4e1983096921949952] will not permit inspection of a document on the grounds that it would be disproportionate to do so)
 
-[^key-146dbc3a0cfa75d66541d643ff7f6a61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-146dbc3a0cfa75d66541d643ff7f6a61]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33ae7037ae35b7f9c090d862dc8adf60]: Commencement: [Rule 31.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.12) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-33ae7037ae35b7f9c090d862dc8adf60]: Commencement: [Rule 31.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.12) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-65a80d75e1f2c0ab10791c760140ee59]: Textual amendment: Word in [rule 31.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.12) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(8)(a)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/8/a)
+[^c-65a80d75e1f2c0ab10791c760140ee59]: Textual amendment: Word in [rule 31.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.12) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(8)(a)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/8/a)
 
-[^key-faabec3d6f169d4e1983096921949952]: Textual amendment: Word in [rule 31.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.12) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(8)(b)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/8/b)
+[^c-faabec3d6f169d4e1983096921949952]: Textual amendment: Word in [rule 31.12](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.12) substituted (1.10.2026) by [The Civil Procedure (Amendment No. 2) Rules 2026 (S.I. 2026/817)](https://www.legislation.gov.uk/uksi/2026/817), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/817/rule/1/3), [10(8)(b)](https://www.legislation.gov.uk/uksi/2026/817/rule/10/8/b)
 
-[^key-146dbc3a0cfa75d66541d643ff7f6a61]: Textual amendment: Words in rule 31.12 omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/521/regulation/10/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2019/521/regulation/22)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(e)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-146dbc3a0cfa75d66541d643ff7f6a61]: Textual amendment: Words in rule 31.12 omitted (31.12.2020) by virtue of [The Civil Procedure Rules 1998 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/521)](https://www.legislation.gov.uk/uksi/2019/521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/521/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2019/521/regulation/10/3) (with [reg. 22](https://www.legislation.gov.uk/uksi/2019/521/regulation/22)) (as amended by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [9(2)(e)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/9/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

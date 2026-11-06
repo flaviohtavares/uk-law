@@ -32,7 +32,7 @@ An Act to make further and better provision for enabling persons handicapped by 
 
 \[1st May 1945\]
 
-WHEREAS by section twenty-two of the Disabled Persons (Employment) Act, 1944 [^c16506631], passed by the Parliament of the United Kingdom (in this act referred to as “the United Kingdom Act”) it is provided that notwithstanding anything in the Government of Ireland Act, 1920 [^c16506641], the Parliament of Northern Ireland shall have power to make laws, in respect of matters exclusively relating to Northern Ireland or any part thereof, for purposes similar to any of the purposes of the United Kingdom Act.[^key-dd89b9f95b2510d961bc006545e808b6]
+WHEREAS by section twenty-two of the Disabled Persons (Employment) Act, 1944 [^c16506631], passed by the Parliament of the United Kingdom (in this act referred to as “the United Kingdom Act”) it is provided that notwithstanding anything in the Government of Ireland Act, 1920 [^c16506641], the Parliament of Northern Ireland shall have power to make laws, in respect of matters exclusively relating to Northern Ireland or any part thereof, for purposes similar to any of the purposes of the United Kingdom Act.[^c-dd89b9f95b2510d961bc006545e808b6]
 
 ## Disabled persons
 
@@ -157,7 +157,7 @@ SCHEDULES
 
 [^c16506641]: Marginal citation: [1920 c. 67](https://www.legislation.gov.uk/ukpga/1920/67)
 
-[^key-dd89b9f95b2510d961bc006545e808b6]: Modification: [Act](https://www.legislation.gov.uk/apni/1945/6): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-dd89b9f95b2510d961bc006545e808b6]: Modification: [Act](https://www.legislation.gov.uk/apni/1945/6): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/4/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^c11532991]: Textual amendment: prosp. rep. by [1995 c.50](https://www.legislation.gov.uk/ukpga/1995/50)
 

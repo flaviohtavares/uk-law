@@ -16,10 +16,10 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 128. Items associated with particular high risk[^key-418412734ab5291c8535c97003ed221b]
+## Article 128. Items associated with particular high risk[^c-418412734ab5291c8535c97003ed221b]
 
 *Extent: E+W+S+N.I.*
 
 ## Annotations
 
-[^key-418412734ab5291c8535c97003ed221b]: Textual amendment: [Art. 128](https://www.legislation.gov.uk/eur/2013/575/article/128) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/a)
+[^c-418412734ab5291c8535c97003ed221b]: Textual amendment: [Art. 128](https://www.legislation.gov.uk/eur/2013/575/article/128) omitted (1.1.2022) by virtue of [The Capital Requirements Regulation (Amendment) Regulations 2021 (S.I. 2021/1078)](https://www.legislation.gov.uk/uksi/2021/1078), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/1/1), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/1078/regulation/6/3/a)

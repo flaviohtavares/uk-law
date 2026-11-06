@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Consent to transfer benefit of Order[^key-717b9b10e8b231bbd8adcb863e4ae6ce]
+## 5. Consent to transfer benefit of Order[^c-717b9b10e8b231bbd8adcb863e4ae6ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,17 +69,17 @@ except where paragraph (7) applies, in which case no consent of the Secretary of
 
 (11) The notice given under paragraph (8) must be signed by the undertaker and the person to whom the benefit of the powers will be transferred or granted as specified in that notice.
 
-(12) Sections 72(7) and (8) (variation, suspension, reservation and transfer) of the 2009 Act do not apply to a transfer or grant of the whole or part of the benefit of the provisions of the deemed marine licences to another person by the undertaker pursuant to an agreement under paragraph (2)[^key-2e70cb7911f0a3772dbf7fa21e5c3330].
+(12) Sections 72(7) and (8) (variation, suspension, reservation and transfer) of the 2009 Act do not apply to a transfer or grant of the whole or part of the benefit of the provisions of the deemed marine licences to another person by the undertaker pursuant to an agreement under paragraph (2)[^c-2e70cb7911f0a3772dbf7fa21e5c3330].
 
 (13) The provisions of articles 8 (street works), 10 (temporary stopping up of streets), 16 (compulsory acquisition of land), 18 (compulsory acquisition of rights), 24 (temporary use of land for carrying out the authorised development) and (temporary use of land for maintaining the authorised development) are to have effect only for the benefit of the named undertaker and a person who is a transferee or lessee who is also—
 
 - (a) in respect of Work Nos. 1 to 9 a person who holds a licence under the 1989 Act; or
-- (b) in respect of functions under Article 8 (street works)[^key-de02e4a0e979be6dc39cb221fd975f3e] relating to street, a street authority.
+- (b) in respect of functions under Article 8 (street works)[^c-de02e4a0e979be6dc39cb221fd975f3e] relating to street, a street authority.
 
 ## Annotations
 
-[^key-717b9b10e8b231bbd8adcb863e4ae6ce]: Commencement: Art. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-717b9b10e8b231bbd8adcb863e4ae6ce]: Commencement: Art. 5 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
 
-[^key-2e70cb7911f0a3772dbf7fa21e5c3330]: Textual amendment: Words in [art. 5(12)](https://www.legislation.gov.uk/uksi/2020/547/article/5/12) substituted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)
+[^c-2e70cb7911f0a3772dbf7fa21e5c3330]: Textual amendment: Words in [art. 5(12)](https://www.legislation.gov.uk/uksi/2020/547/article/5/12) substituted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)
 
-[^key-de02e4a0e979be6dc39cb221fd975f3e]: Textual amendment: Words in [art. 5(13)(b)](https://www.legislation.gov.uk/uksi/2020/547/article/5/13/b) substituted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)
+[^c-de02e4a0e979be6dc39cb221fd975f3e]: Textual amendment: Words in [art. 5(13)(b)](https://www.legislation.gov.uk/uksi/2020/547/article/5/13/b) substituted (11.8.2021) by [The Cleve Hill Solar Park (Correction) Order 2021 (S.I. 2021/934)](https://www.legislation.gov.uk/uksi/2021/934), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/934/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/934/schedule)

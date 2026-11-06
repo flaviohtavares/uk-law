@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Decisions and grounds for refusal[^key-249c578d58100a5395035f7d2b0bb5be]
+## 13. Decisions and grounds for refusal[^c-249c578d58100a5395035f7d2b0bb5be]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-249c578d58100a5395035f7d2b0bb5be]: Commencement: Reg. 13 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-249c578d58100a5395035f7d2b0bb5be]: Commencement: Reg. 13 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

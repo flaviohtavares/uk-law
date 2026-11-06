@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Amendment of the Plant Protection Products Regulations 2011[^key-022b6e52f2e9e2e61535e4a3979968dc]
+## 26. Amendment of the Plant Protection Products Regulations 2011[^c-022b6e52f2e9e2e61535e4a3979968dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-022b6e52f2e9e2e61535e4a3979968dc]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)
+[^c-022b6e52f2e9e2e61535e4a3979968dc]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1(1)

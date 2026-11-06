@@ -45,31 +45,31 @@ In accordance with section 98(3)(c)[^f00002] of that Act, a draft of these Regul
 
 ## PART 1 — Introduction
 
-### 1. Title and commencement[^key-e27cbfba14cc021285c52665e64057f1]
+### 1. Title and commencement[^c-e27cbfba14cc021285c52665e64057f1]
 
 The title of these Regulations is the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Consequential Amendments) Regulations 2021 and they come into force on 1 September 2021.
 
 ## PART 2 — Amendments to Primary Legislation
 
-### 2. Local Government Act 1974[^key-707b6a62a845d00e9c011fa195769387]
+### 2. Local Government Act 1974[^c-707b6a62a845d00e9c011fa195769387]
 
 (1) The Local Government Act 1974[^f00003] is amended as follows.
 
 (2) In Schedule 5, in paragraph 5(2)(b)[^f00004], after “special educational needs (within the meaning given by section 579(1) of the Education Act 1996)” insert “or additional learning needs (within the meaning given by section 2 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018)”.
 
-### 3. Education Act 1997[^key-e3582bf821bbd603518a5a9f7cef3b32]
+### 3. Education Act 1997[^c-e3582bf821bbd603518a5a9f7cef3b32]
 
 (1) The Education Act 1997[^f00005] is amended as follows.
 
 (2) In section 32(6)(a)[^f00006], for “special educational needs (as defined in section 312 of the Education Act 1996)” substitute “additional learning needs (as defined in section 2 of the Additional Learning Needs and Education Tribunal (Wales) Act 2018)”.
 
-### 4. Special Educational Needs and Disability Act 2001[^key-101d28d942ac8af4cf0d0ecc91de6394]
+### 4. Special Educational Needs and Disability Act 2001[^c-101d28d942ac8af4cf0d0ecc91de6394]
 
 (1) The Special Educational Needs and Disability Act 2001[^f00007] is amended as follows.
 
 (2) In Schedule 8, Part 1, omit paragraph 12.
 
-### 5. Education Act 2002[^key-5239932217d052e8192d4196093b3bb8]
+### 5. Education Act 2002[^c-5239932217d052e8192d4196093b3bb8]
 
 (1) The Education Act 2002[^f00008] is amended as follows.
 
@@ -91,7 +91,7 @@ The title of these Regulations is the Additional Learning Needs and Education Tr
 > - (a) excluding the application of the National Curriculum for England, or
 > - (b) applying the National Curriculum for England with such modifications as may be specified in the plan.
 
-### 6. Nationality, Immigration and Asylum Act 2002[^key-ca6eabb27e8f8bb36aa6d9df65443f17]
+### 6. Nationality, Immigration and Asylum Act 2002[^c-ca6eabb27e8f8bb36aa6d9df65443f17]
 
 (1) The Nationality, Immigration and Asylum Act 2002[^f00011] is amended as follows.
 
@@ -127,13 +127,13 @@ The title of these Regulations is the Additional Learning Needs and Education Tr
   ;
 - (i) omit subsection (9)(c).
 
-### 7. Education Act 2005[^key-87eaf968c9f6066586d2d419faa81dd7]
+### 7. Education Act 2005[^c-87eaf968c9f6066586d2d419faa81dd7]
 
 (1) The Education Act 2005[^f00012] is amended as follows.
 
 (2) In section 28[^f00013], omit subsections (2)(d) and (4)(d).
 
-### 8. Education and Inspections Act 2006[^key-f7d23bc38df459f30984e7b5711794ae]
+### 8. Education and Inspections Act 2006[^c-f7d23bc38df459f30984e7b5711794ae]
 
 (1) The Education and Inspections Act 2006[^f00014] is amended as follows.
 
@@ -141,13 +141,13 @@ The title of these Regulations is the Additional Learning Needs and Education Tr
 
 (3) In section 88(5), omit “or the Assembly” in both places it occurs.
 
-### 9. Qualifications Wales Act 2015[^key-dde0a675deb122162c6ce8c7c7f1751c]
+### 9. Qualifications Wales Act 2015[^c-dde0a675deb122162c6ce8c7c7f1751c]
 
 (1) The Qualifications Wales Act 2015[^f00016] is amended as follows.
 
 (2) In section 57(5)(a), after “special educational needs” insert “or additional learning needs”.
 
-### 10. Wales Act 2017[^key-faaea3cb297fadc8dbefe37a8dcedc74]
+### 10. Wales Act 2017[^c-faaea3cb297fadc8dbefe37a8dcedc74]
 
 (1) The Wales Act 2017[^f00017] is amended as follows.
 
@@ -159,7 +159,7 @@ The title of these Regulations is the Additional Learning Needs and Education Tr
 
 (3) Omit section 62(4).
 
-### 11. Coronavirus Act 2020[^key-3a59139f5e525286f20e5c6783be1416]
+### 11. Coronavirus Act 2020[^c-3a59139f5e525286f20e5c6783be1416]
 
 (1) The Coronavirus Act 2020[^f00018] is amended as follows.
 
@@ -191,25 +191,25 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The references in section 98(3) to the National Assembly for Wales now have effect as references to Senedd Cymru, by virtue of section 150A(2) of the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-e27cbfba14cc021285c52665e64057f1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-e27cbfba14cc021285c52665e64057f1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
-[^key-707b6a62a845d00e9c011fa195769387]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/861/regulation/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-707b6a62a845d00e9c011fa195769387]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2021/861/regulation/2) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00003]: Footnote: [1974 c. 7](https://www.legislation.gov.uk/ukpga/1974/7).
 
 [^f00004]: Footnote: Paragraph 5 of Schedule 5 was amended by paragraph 63 of Schedule 3 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6). Paragraph 5 also includes other amendments which are not relevant to these Regulations.
 
-[^key-e3582bf821bbd603518a5a9f7cef3b32]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/861/regulation/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-e3582bf821bbd603518a5a9f7cef3b32]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2021/861/regulation/3) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00005]: Footnote: [1997 c. 44](https://www.legislation.gov.uk/ukpga/1997/44).
 
 [^f00006]: Footnote: There are amendments to section 32 which are not relevant to these Regulations.
 
-[^key-101d28d942ac8af4cf0d0ecc91de6394]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/861/regulation/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-101d28d942ac8af4cf0d0ecc91de6394]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2021/861/regulation/4) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00007]: Footnote: [2001 c. 10](https://www.legislation.gov.uk/ukpga/2001/10).
 
-[^key-5239932217d052e8192d4196093b3bb8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/861/regulation/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-5239932217d052e8192d4196093b3bb8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2021/861/regulation/5) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00008]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
@@ -217,31 +217,31 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00010]: Footnote: There are amendments to section 2 which are not relevant to these Regulations.
 
-[^key-ca6eabb27e8f8bb36aa6d9df65443f17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/861/regulation/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-ca6eabb27e8f8bb36aa6d9df65443f17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2021/861/regulation/6) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00011]: Footnote: [2002 c. 41](https://www.legislation.gov.uk/ukpga/2002/41).
 
-[^key-87eaf968c9f6066586d2d419faa81dd7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/861/regulation/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-87eaf968c9f6066586d2d419faa81dd7]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2021/861/regulation/7) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00012]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18).
 
 [^f00013]: Footnote: There are amendments to section 28 which are not relevant to these Regulations.
 
-[^key-f7d23bc38df459f30984e7b5711794ae]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/861/regulation/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-f7d23bc38df459f30984e7b5711794ae]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2021/861/regulation/8) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00014]: Footnote: [2006 c. 40](https://www.legislation.gov.uk/ukpga/2006/40).
 
 [^f00015]: Footnote: Section 16 was amended by paragraph 81 of Schedule 3(2) to the Children and Families Act 2014. There are other amendments to section 16 which are not relevant to these Regulations.
 
-[^key-dde0a675deb122162c6ce8c7c7f1751c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/861/regulation/9) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-dde0a675deb122162c6ce8c7c7f1751c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2021/861/regulation/9) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00016]: Footnote: [2015 anaw 5](https://www.legislation.gov.uk/anaw/2015/5).
 
-[^key-faaea3cb297fadc8dbefe37a8dcedc74]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/861/regulation/10) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-faaea3cb297fadc8dbefe37a8dcedc74]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2021/861/regulation/10) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00017]: Footnote: [2017 c. 4](https://www.legislation.gov.uk/ukpga/2017/4).
 
-[^key-3a59139f5e525286f20e5c6783be1416]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/861/regulation/11) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
+[^c-3a59139f5e525286f20e5c6783be1416]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2021/861/regulation/11) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/wsi/2021/861/regulation/1)
 
 [^f00018]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7).
 

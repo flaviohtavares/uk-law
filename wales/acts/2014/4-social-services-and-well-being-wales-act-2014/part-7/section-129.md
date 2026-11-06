@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Abolition of local authority's power to remove persons in need of care and attention[^key-11aa89c87bb72933b72ab9b5ed683cde]
+## 129. Abolition of local authority's power to remove persons in need of care and attention[^c-11aa89c87bb72933b72ab9b5ed683cde]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Section 47 of the National Assistance Act 1948 (which enables local authorities 
 
 ## Annotations
 
-[^key-11aa89c87bb72933b72ab9b5ed683cde]: Commencement: S. 129 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-11aa89c87bb72933b72ab9b5ed683cde]: Commencement: S. 129 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))

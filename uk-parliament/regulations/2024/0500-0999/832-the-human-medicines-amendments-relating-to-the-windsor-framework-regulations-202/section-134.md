@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Amendment to Schedule 1[^key-8a415889591478201f9003020dcb7f7f]
+## 134. Amendment to Schedule 1[^c-8a415889591478201f9003020dcb7f7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In Schedule 1 (further provisions for classification of medicinal products)[^f00
 
 ## Annotations
 
-[^key-8a415889591478201f9003020dcb7f7f]: Commencement: [Reg. 134](https://www.legislation.gov.uk/uksi/2024/832/regulation/134) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-8a415889591478201f9003020dcb7f7f]: Commencement: [Reg. 134](https://www.legislation.gov.uk/uksi/2024/832/regulation/134) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00141]: Footnote: Relevant amendments were made to Schedule 1 by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

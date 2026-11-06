@@ -47,8 +47,8 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 (2) In these Regulations—
 
-- [^key-aac3e026d6d0ff43a2d4a3e8ace3806b].........
-- [^key-aac3e026d6d0ff43a2d4a3e8ace3806b].........
+- [^c-aac3e026d6d0ff43a2d4a3e8ace3806b].........
+- [^c-aac3e026d6d0ff43a2d4a3e8ace3806b].........
 - “**the Income Support Regulations**” means the Income Support (General) Regulations 1987 [^c506118];
 - “**the Jobseeker’s Allowance Regulations**” means the Jobseeker’s Allowance Regulations 1996 [^c506119];
 - “**The Working Tax Credit and Child Tax Credit Consequential Amendments Regulations**” means the Social Security (Working Tax Credit and Child Tax Credit) (Consequential Amendments) Regulations 2003 [^c506120].
@@ -74,7 +74,7 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 - (a) in paragraphs 14A(1)(c) (parental leave) and 14B(2)(b) (paternity leave) the words “working families' tax credit, disabled person’s tax credit” shall be omitted; and
 - (b) at the end of paragraphs 14A(2) and 14B(3) there shall be added the words “ but subject in any case to calculations of those amounts made in accordance with the Tax Credits (Income Thresholds and Determination of Rates) Regulations 2002 [^c506123]. ”.
 
-## 3. Amendment of the Housing Benefit Regulations and the Council Tax Benefit Regulations[^key-de86820c1ffa27a0e63fa78c30fdcecf]
+## 3. Amendment of the Housing Benefit Regulations and the Council Tax Benefit Regulations[^c-de86820c1ffa27a0e63fa78c30fdcecf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -140,7 +140,7 @@ In paragraph 4 of Schedule 3A to the Social Security and Child Support (Decision
 - (a) in paragraph 16(d) (calculation of grant income) after the words “an adult dependant” there shall be added the words “ and the words “or for an older student” shall be omitted ”; and
 - (b) the words “and paragraph 9(a) in Column (2)” in paragraph 21(a) and paragraphs 2(b), 3(b) and 21(b) and (d) shall be omitted.
 
-(6)[^key-c86675fa554d1b2456888d5316f03937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c86675fa554d1b2456888d5316f03937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Work and Pensions.
 
@@ -172,7 +172,7 @@ These Regulations do not impose a charge on business.
 
 [^c506115]: Marginal citation: *See* section 170 and 173(1)(b) of the Social Security Administration Act 1992 and paragraph 67 of the Schedule 2 to the Jobseekers Act 1995 which added that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee.
 
-[^key-aac3e026d6d0ff43a2d4a3e8ace3806b]: Textual amendment: Words in reg. 1(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-aac3e026d6d0ff43a2d4a3e8ace3806b]: Textual amendment: Words in reg. 1(2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c506118]: Marginal citation: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -186,10 +186,10 @@ These Regulations do not impose a charge on business.
 
 [^c506123]: Marginal citation: [S.I. 2002/2008](https://www.legislation.gov.uk/uksi/2002/2008).
 
-[^key-de86820c1ffa27a0e63fa78c30fdcecf]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/1731/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-de86820c1ffa27a0e63fa78c30fdcecf]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/1731/regulation/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c506126]: Marginal citation: The relevant amending instrument is [S.I. 2002/2402](https://www.legislation.gov.uk/uksi/2002/2402).
 
 [^c506127]: Marginal citation: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991); the relevant amending instrument is [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596).
 
-[^key-c86675fa554d1b2456888d5316f03937]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/6) revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
+[^c-c86675fa554d1b2456888d5316f03937]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2003/1731/regulation/6/6) revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)

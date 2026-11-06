@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.17.3. Applications for release of detained cash or detained property[^key-7c2a1a88c0e8fce5a4193f56fa2c37d0][^key-b65042420a6e2e6b575047fdfe8492bb]
+## 3.17.3. Applications for release of detained cash or detained property[^c-7c2a1a88c0e8fce5a4193f56fa2c37d0][^c-b65042420a6e2e6b575047fdfe8492bb]
 
 *Extent: S*
 
-(1)[^key-1af5575a617e854bf66a5e2e34e9e565] An application to the sheriff under—
+(1)[^c-1af5575a617e854bf66a5e2e34e9e565] An application to the sheriff under—
 
 - (a) paragraph 5(2) (application for release of detained cash) or paragraph 9(1) (application by person who claims that cash belongs to that person) must be made—
   - (i) in the course of proceedings for an order under paragraph 3(2); or
@@ -39,8 +39,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7c2a1a88c0e8fce5a4193f56fa2c37d0]: Textual amendment: Ch. 3 Pt. 17 inserted (8.3.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Detention and Forfeiture of Terrorist Cash) 2002 (S.S.I. 2002/129)](https://www.legislation.gov.uk/ssi/2002/129), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2002/129/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2002/129/paragraph/2/2)
+[^c-7c2a1a88c0e8fce5a4193f56fa2c37d0]: Textual amendment: Ch. 3 Pt. 17 inserted (8.3.2002) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Detention and Forfeiture of Terrorist Cash) 2002 (S.S.I. 2002/129)](https://www.legislation.gov.uk/ssi/2002/129), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2002/129/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2002/129/paragraph/2/2)
 
-[^key-b65042420a6e2e6b575047fdfe8492bb]: Textual amendment: Words in rule 3.17.3 heading inserted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/2/b/i)
+[^c-b65042420a6e2e6b575047fdfe8492bb]: Textual amendment: Words in rule 3.17.3 heading inserted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/2/b/i)
 
-[^key-1af5575a617e854bf66a5e2e34e9e565]: Textual amendment: Rule 3.17.3(1) substituted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/2/b/ii)
+[^c-1af5575a617e854bf66a5e2e34e9e565]: Textual amendment: Rule 3.17.3(1) substituted (1.6.2019) by [Act of Sederunt (Rules of the Court of Session 1994 and Summary Applications, Statutory Applications and Appeals etc. Rules 1999 Amendment) (Proceeds of Crime) 2019 (S.S.I. 2019/146)](https://www.legislation.gov.uk/ssi/2019/146), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/146/paragraph/3/2/b/ii)

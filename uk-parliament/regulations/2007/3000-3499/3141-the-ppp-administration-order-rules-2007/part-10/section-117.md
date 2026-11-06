@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 117. “Give notice” etc.[^key-57ff1594520b15550805e10f1190220d]
+## 117. “Give notice” etc.[^c-57ff1594520b15550805e10f1190220d]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57ff1594520b15550805e10f1190220d]: Commencement: [Rule 117](https://www.legislation.gov.uk/uksi/2007/3141/rule/117) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-57ff1594520b15550805e10f1190220d]: Commencement: [Rule 117](https://www.legislation.gov.uk/uksi/2007/3141/rule/117) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 148. Disclosure of information[^key-a37078f36187e6c20b7d9262d609b5e0]
+## 148. Disclosure of information[^c-a37078f36187e6c20b7d9262d609b5e0]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a37078f36187e6c20b7d9262d609b5e0]: Commencement: S. 148 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-a37078f36187e6c20b7d9262d609b5e0]: Commencement: S. 148 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

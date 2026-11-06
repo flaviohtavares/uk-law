@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Additional voluntary contributions[^key-45f11717ae0f2533674ace02ef659aae]
+## 104. Additional voluntary contributions[^c-45f11717ae0f2533674ace02ef659aae]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-45f11717ae0f2533674ace02ef659aae]: Commencement: Art. 104 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-45f11717ae0f2533674ace02ef659aae]: Commencement: Art. 104 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00095]: Footnote: Section 127A was inserted by the [Judicial Pensions (NI) Order 1991 (NI 24)](https://www.legislation.gov.uk/nisi/1991/2631) Article 6(1)(a) and (2).
 

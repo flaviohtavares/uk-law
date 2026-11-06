@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Economic Development, acting as the Department concerned[^f00001] in exercise of the powers conferred on it by Articles 17(1) to (6), 40(2) to (4) and 55(2) of, and paragraphs 2, 3, 5, 13 and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978[^f00002], and of all other powers enabling it in that behalf, after consultation in accordance with Article 46(1) of that Order with the Health and Safety Agency for Northern Ireland, and such other bodies as appear to it to be appropriate, hereby makes the following Regulations:—
 
-## 1. Citation, commencement and interpretation[^key-06c10c12ceb2f56e461a50284915bd60]
+## 1. Citation, commencement and interpretation[^c-06c10c12ceb2f56e461a50284915bd60]
 
 (1) These Regulations may be cited as the Carriage of Dangerous Goods by Road (Driver Training) Regulations (Northern Ireland) 1997 and shall come into operation on 1st July 1997.
 
@@ -130,7 +130,7 @@ the instructor or (as the case may be) the driver of the vehicle which is being 
 
   and includes a vehicle which has been provided to the armed forces under any kind of agreement or arrangement under which payments are, or are to be, made for the provision of the vehicle, including a conditional-sale agreement, a credit-sale agreement, a hire-purchase agreement and a contract for sale.
 
-## 2. Application[^key-9777789b63d69e90da2de0e18320c937]
+## 2. Application[^c-9777789b63d69e90da2de0e18320c937]
 
 (1) These Regulations shall apply to the carriage of—
 
@@ -183,7 +183,7 @@ where those goods are being carried in—
 - (d) a vehicle with a maximum design speed of 25 km/h or less; or
 - (e) a vehicle owned by the armed forces or a vehicle under the control of the armed forces.
 
-## 3. Instructions and training for drivers[^key-c12de97c5c3238fb56e54eea4f2d63c7]
+## 3. Instructions and training for drivers[^c-c12de97c5c3238fb56e54eea4f2d63c7]
 
 (1) The operator of any motor vehicle (other than a motor vehicle registered outside the United Kingdom) which is engaged in the carriage of dangerous goods shall ensure that the driver of the vehicle has received—
 
@@ -195,7 +195,7 @@ where those goods are being carried in—
 
 (2) Each operator shall keep a record of any training provided by him in accordance with paragraph (1) to the driver of a vehicle, where that driver is employed by him, and shall make available a copy of that record to the driver concerned.
 
-## 4. Vocational training certificates[^key-f1e7041d86de9e55cda3d917ee72a358]
+## 4. Vocational training certificates[^c-f1e7041d86de9e55cda3d917ee72a358]
 
 (1) Subject to paragraphs (2) and (9) and regulation 5, the operator of any vehicle which is engaged in the carriage of dangerous goods shall ensure that the driver of that vehicle holds a valid certificate applicable to that carriage (to be known as a “vocational training certificate”) issued by the Secretary of State.
 
@@ -230,7 +230,7 @@ where those goods are being carried in—
 - (b) the total number of such packages on the vehicle is not more than 10 and the sum of the Transport Indexes for the packages is not more than 3; and
 - (c) the driver holds a certificate provided by his employer (or, in the case of self-employment, by himself) confirming that he has received the instruction and training specified in regulation 3(1)(*a*) and (*c*).
 
-## 5. Existing training certificates[^key-f52f3b0a6c9c1c0486ff7f7e92c80744]
+## 5. Existing training certificates[^c-f52f3b0a6c9c1c0486ff7f7e92c80744]
 
 (1) It shall be sufficient compliance with regulation 4(1) if the driver of the relevant vehicle holds a training certificate applicable to the dangerous goods being carried, which was issued to him by the appropriate national authority before the coming into operation of the 1992 Regulations as respects the carriage concerned, on the basis of national provisions existing at that time which the Commission of the European Communities has confirmed satisfy the corresponding requirements of the Council Directive; provided that such compliance shall cease—
 
@@ -240,21 +240,21 @@ where those goods are being carried in—
 
 (2) Any vocational training certificate issued in accordance with regulation 5(1) of the 1992 Regulations shall be deemed to be a vocational training certificate issued in accordance with regulation 4(1) and shall remain valid until the date of expiry stated therein, subject to any extension of the validity of the certificate in accordance with regulation 6(5) of the 1992 Regulations or regulation 4(6).
 
-## 6. Certificates to be available during carriage[^key-e911c93b7398651fa92b6780fd2a6aff]
+## 6. Certificates to be available during carriage[^c-e911c93b7398651fa92b6780fd2a6aff]
 
 The driver of any vehicle which is engaged in the carriage of dangerous goods shall ensure that the relevant certificate he holds in accordance with regulation 4 or 5 is so kept by him that it is immediately available during the whole of the carriage.
 
-## 7. Certificates to be produced to constables, etc.[^key-f631715d7f6f59e95a3646e18158ffbb]
+## 7. Certificates to be produced to constables, etc.[^c-f631715d7f6f59e95a3646e18158ffbb]
 
 (1) The driver of any vehicle which is engaged in the carriage of dangerous goods shall on request produce to any constable or vehicle examiner the relevant certificate he holds in accordance with regulation 4 or 5.
 
 (2) The driver of any vehicle which is engaged in the carriage of any radioactive material shall on request produce to any inspector appointed in accordance with Article 9(1) of the Radioactive Material (Road Transport) (Northern Ireland) Order 1992 the relevant certificate he holds in accordance with regulation 4 or 5.
 
-## 8. Enforcement[^key-841ae7051d5d6e94cb2c5348a18ad2a8]
+## 8. Enforcement[^c-841ae7051d5d6e94cb2c5348a18ad2a8]
 
 Notwithstanding the Health and Safety (Enforcing Authority) Regulations (Northern Ireland) 1997[^f00019], the enforcing authority for these Regulations shall, insofar as they apply to the carriage of petrol (and that carriage is also carriage which is subject to the provisions of Schedule 12 to the CDGRoad Regulations), be the relevant petroleum licensing authority ascertained in accordance with regulation 20(2)(*c*) of the CDGRoad Regulations.
 
-## 9. Exemption certificates[^key-58f9a78d85ecf8e465c3ddc5ff8b153d]
+## 9. Exemption certificates[^c-58f9a78d85ecf8e465c3ddc5ff8b153d]
 
 (1) Subject to paragraph (2) and to any provisions imposed by the Communities in respect of the transport of dangerous goods by road, the Department may, by a certificate in writing, exempt any person or class of person from all or any of the requirements or prohibitions imposed by these Regulations; and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by the Department by a further certificate in writing.
 
@@ -272,7 +272,7 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by the said Secretary of State by a further certificate in writing.
 
-## 10. Defence[^key-b9011c7a40ebf9c7696bba3c9d41ab8e]
+## 10. Defence[^c-b9011c7a40ebf9c7696bba3c9d41ab8e]
 
 (1) In any proceedings for an offence for a contravention of any of the provisions of these Regulations it shall, subject to paragraphs (2) and (3), be a defence for the person charged to prove—
 
@@ -283,7 +283,7 @@ and any such exemption may be granted subject to conditions and to a limit of ti
 
 (3) Where a contravention of any of the provisions of these Regulations by any person is due to the act or default of the other person, that other person shall be guilty of the offence which would, but for any defence under these Regulations available to the first mentioned person, be constituted by the act or default.
 
-## 11. Transitional defence[^key-4993bb59406adff296a7cb9f534aa775]
+## 11. Transitional defence[^c-4993bb59406adff296a7cb9f534aa775]
 
 (1) In any proceedings for an offence consisting of a contravention of regulation 3 or 4(1) prior to 1st November 1997 in relation to the carriage of dangerous goods other than radioactive material, it shall be a defence for the accused to prove that, as regards the carriage concerned, he has complied with the relevant requirements (if any) of regulation 5 or 6(1), respectively, of the 1992 Regulations, as in operation immediately before the commencement of these Regulations.
 
@@ -294,7 +294,7 @@ and any such exemption may be granted subject to conditions and to a limit of ti
 
 it shall be a defence for the accused to prove that, as regards the carriage concerned, he has complied with the relevant requirements (if any) of regulation 5 or 6(1), respectively, of the 1992 Regulations, as in operation immediately before the commencement of these Regulations.
 
-## 12. Revocations[^key-a363d6186c7eb7c0a856d1f734d2a81d]
+## 12. Revocations[^c-a363d6186c7eb7c0a856d1f734d2a81d]
 
 The following Regulations are hereby revoked—
 
@@ -310,7 +310,7 @@ Assistant Secretary
 
 20th May 1997.
 
-## SCHEDULE 1 — Cases where the Carriage of Dangerous Goods is not Carriage to which these Regulations apply[^key-14254f5455b3d878fc9643e0f45354f1]
+## SCHEDULE 1 — Cases where the Carriage of Dangerous Goods is not Carriage to which these Regulations apply[^c-14254f5455b3d878fc9643e0f45354f1]
 
 Regulation 2(1)
 
@@ -344,13 +344,13 @@ These Regulations shall not apply to any such carriage as is specified in regula
 
 Regulation 2(1)
 
-**1.**[^key-7e03ea555cd44a85cdb6e1d55866a6fc] Subject to paragraph 4, these Regulations shall not apply to any such carriage as is specified in regulation 2(1)(*a*) where that carriage is in or on an agricultural or forestry tractor or any trailer being drawn thereby and the dangerous goods are—
+**1.**[^c-7e03ea555cd44a85cdb6e1d55866a6fc] Subject to paragraph 4, these Regulations shall not apply to any such carriage as is specified in regulation 2(1)(*a*) where that carriage is in or on an agricultural or forestry tractor or any trailer being drawn thereby and the dangerous goods are—
 
 - (a) listed in column 1 of the Approved Carriage List under the proper shipping name “DIESEL FUEL or GAS OIL or HEATING OIL, LIGHT”;
 - (b) of a total volume not more than 5,000 litres; and
 - (c) being carried from one piece of land occupied for the purpose of agriculture to another piece of land occupied for the purpose of agriculture within a radius of 50 km.
 
-**2.**[^key-881420e72d996d4639054d14210735d8] These Regulations shall not apply to any such carriage as is specified in regulation 2(1)(*a*) where—
+**2.**[^c-881420e72d996d4639054d14210735d8] These Regulations shall not apply to any such carriage as is specified in regulation 2(1)(*a*) where—
 
 - (a) either a flammable liquid with a flash point of not less than 32°C is being carried in a volumetric prover, or a flammable liquid with a flash point of less than 32°C is being carried in a volumetric prover which has been purged with nitrogen, and that volumetric prover—
   - (i) is not moved, driven or kept on the road, other than when it is nominally empty; and
@@ -362,7 +362,7 @@ Regulation 2(1)
 
   and in this sub-paragraph “pesticide” has the same meaning as in section 16(15) of the Food and Environment Protection Act 1985[^f00025], “plant protection product” has the same meaning as in regulation 2(1) of the Plant Protection Products Regulations (Northern Ireland) 1995 and “wood preservative” means a pesticide used for preserving wood.
 
-**3.**[^key-8869c7229098a2eb617200e4923a5fd1] These Regulations shall not apply to any such carriage as is specified in regulation 2(1)(*a*)(ii) where—
+**3.**[^c-8869c7229098a2eb617200e4923a5fd1] These Regulations shall not apply to any such carriage as is specified in regulation 2(1)(*a*)(ii) where—
 
 - (a) subject to paragraph 4, that carriage is in or on an agricultural or forestry tractor or any trailer being drawn thereby, the dangerous goods are being carried from one piece of land occupied for the purpose of agriculture to another piece of land occupied for the purpose of agriculture within a radius of 12 km and those goods are—
   - (i) in packages and are diluted or otherwise ready for use and with a net mass of not more than 1 tonne; or(ii)
@@ -370,13 +370,13 @@ Regulation 2(1)
     - (bb) being carried other than in a tank and with a net mass of not more than 10 tonnes; or
 - (b) the dangerous goods being carried are specified in regulation 3(1)(*k*) of the CDGCPL Regulations.
 
-**4.**[^key-83cf92edce836d324cca04e643bc6c20] Paragraphs 1, 2(*b*) and 3(*a*) shall only apply if the driver of the vehicle concerned has received instruction and training of the type specified in regulation 3(1)(*a*)(i).
+**4.**[^c-83cf92edce836d324cca04e643bc6c20] Paragraphs 1, 2(*b*) and 3(*a*) shall only apply if the driver of the vehicle concerned has received instruction and training of the type specified in regulation 3(1)(*a*)(i).
 
 ## SCHEDULE 3 — Minimum Training Requirements for Issue of Vocational Training Certificates
 
 Regulation 4(5)
 
-**1.**[^key-55500cec81f11852c0aa610f752769dd] Any training approved by the Secretary of State in accordance with regulation 4(3)(*a*) shall cover at least the following subjects—
+**1.**[^c-55500cec81f11852c0aa610f752769dd] Any training approved by the Secretary of State in accordance with regulation 4(3)(*a*) shall cover at least the following subjects—
 
 - (a) general requirements concerning the carriage of dangerous goods;
 - (b) main types of hazard;
@@ -391,31 +391,31 @@ Regulation 4(5)
 - (k) general information concerning civil liability; and
 - (l) information on multi-modal transport operations.
 
-**2.**[^key-f5c0052f5175b1408afeab2b4932cbad] For drivers of vehicles carrying dangerous goods in packages, the training required to be approved shall also cover handling and stowage of packages.
+**2.**[^c-f5c0052f5175b1408afeab2b4932cbad] For drivers of vehicles carrying dangerous goods in packages, the training required to be approved shall also cover handling and stowage of packages.
 
-**3.**[^key-79865dd81b2a88d681a2393bdf35c4de] For drivers of road tankers or vehicles carrying dangerous goods in tank containers, the training required to be approved shall also cover the behaviour of such vehicles on roads, including the movement of the loads they are carrying.
+**3.**[^c-79865dd81b2a88d681a2393bdf35c4de] For drivers of road tankers or vehicles carrying dangerous goods in tank containers, the training required to be approved shall also cover the behaviour of such vehicles on roads, including the movement of the loads they are carrying.
 
 ## SCHEDULE 4 — Fees for Applications for Approvals
 
 Regulation 4(7)
 
-**1.**[^key-bebe3b4b21332480addec7f0d73ca4a1] On the making of an application to the Secretary of State—
+**1.**[^c-bebe3b4b21332480addec7f0d73ca4a1] On the making of an application to the Secretary of State—
 
 - (a) for the approval of training under regulation 4(3)(*a*); or
 - (b) for the approval of a refresher course under regulation 4(6)(*a*),
 
 there shall be payable by the applicant to the Secretary of State in connection with the determination by him of that application a fee or fees to be determined in accordance with paragraphs 2 to 5.
 
-**2.**[^key-97c63a80e81a8dd1da6ff08a2d3b60fd] On receipt of the application, the Secretary of State shall prepare and send to the applicant an estimate of the cost of the work necessary for the determination of the application; the amount so estimated shall, subject to paragraph 4, be the amount of the initial fee payable and shall be paid forthwith.
+**2.**[^c-97c63a80e81a8dd1da6ff08a2d3b60fd] On receipt of the application, the Secretary of State shall prepare and send to the applicant an estimate of the cost of the work necessary for the determination of the application; the amount so estimated shall, subject to paragraph 4, be the amount of the initial fee payable and shall be paid forthwith.
 
-**3.**[^key-79deaabb753609dfeb4ef3b570d120cc] On determination of the application, the Secretary of State shall prepare a detailed statement of the work carried out in relation to the determination of the application and of the cost reasonably incurred by him or any person acting on his behalf in carrying out that work.
+**3.**[^c-79deaabb753609dfeb4ef3b570d120cc] On determination of the application, the Secretary of State shall prepare a detailed statement of the work carried out in relation to the determination of the application and of the cost reasonably incurred by him or any person acting on his behalf in carrying out that work.
 
-**4.**[^key-095507c4879baa9adeee92e134b9ae5f] If the cost stated in accordance with paragraph 3—
+**4.**[^c-095507c4879baa9adeee92e134b9ae5f] If the cost stated in accordance with paragraph 3—
 
 - (a) is greater than the amount of the initial fee estimated in accordance with paragraph 2, the difference shall be notified by the Secretary of State to the applicant, and shall be paid by the applicant forthwith; or
 - (b) is less than the amount of the initial fee estimated in accordance with paragraph 2, the difference shall be paid forthwith to the applicant by the Secretary of State.
 
-**5.**[^key-4aeb815d808fa021a1e990368e5bd1cc] In estimating or stating the cost of carrying out any work, the Secretary of State may take into account the cost to him or any person acting on his behalf of employing an officer for any period to perform the work concerned and shall determine that cost by reference to the average cost of employing an officer of the relevant grade for that period.
+**5.**[^c-4aeb815d808fa021a1e990368e5bd1cc] In estimating or stating the cost of carrying out any work, the Secretary of State may take into account the cost to him or any person acting on his behalf of employing an officer for any period to perform the work concerned and shall determine that cost by reference to the average cost of employing an officer of the relevant grade for that period.
 
 (This note is not part of the Regulations.)
 
@@ -451,7 +451,7 @@ there shall be payable by the applicant to the Secretary of State in connection 
 
 [^f00002]: Footnote: S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039); Article 1 was modified by the Health and Safety at Work (Northern Ireland) Order 1978 (Application to Environmentally Hazardous Substances) Regulations 1996 ([S.R. 1996 No. 525](https://www.legislation.gov.uk/nisr/1996/525))
 
-[^key-06c10c12ceb2f56e461a50284915bd60]: Commencement: Reg. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-06c10c12ceb2f56e461a50284915bd60]: Commencement: Reg. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1989 No. 299](https://www.legislation.gov.uk/nisr/1989/299) as amended by [S.R. 1991 No. 147](https://www.legislation.gov.uk/nisr/1991/147), [S.R. 1991 No. 420](https://www.legislation.gov.uk/nisr/1991/420), [S.R. 1992 No. 54](https://www.legislation.gov.uk/nisr/1992/54), [S.R. 1992 No. 227](https://www.legislation.gov.uk/nisr/1992/227), [S.R. 1992 No. 373](https://www.legislation.gov.uk/nisr/1992/373), [S.R. 1992 No. 509](https://www.legislation.gov.uk/nisr/1992/509), [S.R. 1993 No. 39](https://www.legislation.gov.uk/nisr/1993/39), [S.R. 1993 No. 247](https://www.legislation.gov.uk/nisr/1993/247), [S.R. 1994 No. 231](https://www.legislation.gov.uk/nisr/1994/231), [S.R. 1994 No. 353](https://www.legislation.gov.uk/nisr/1994/353), and [S.R. 1994 No. 452](https://www.legislation.gov.uk/nisr/1994/452)
 
@@ -485,29 +485,29 @@ there shall be payable by the applicant to the Secretary of State in connection 
 
 [^f00018]: Footnote: [1964 c. 5](https://www.legislation.gov.uk/ukpga/1964/5)
 
-[^key-9777789b63d69e90da2de0e18320c937]: Commencement: Reg. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-9777789b63d69e90da2de0e18320c937]: Commencement: Reg. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-c12de97c5c3238fb56e54eea4f2d63c7]: Commencement: Reg. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-c12de97c5c3238fb56e54eea4f2d63c7]: Commencement: Reg. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-f1e7041d86de9e55cda3d917ee72a358]: Commencement: Reg. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-f1e7041d86de9e55cda3d917ee72a358]: Commencement: Reg. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-f52f3b0a6c9c1c0486ff7f7e92c80744]: Commencement: Reg. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-f52f3b0a6c9c1c0486ff7f7e92c80744]: Commencement: Reg. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-e911c93b7398651fa92b6780fd2a6aff]: Commencement: Reg. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-e911c93b7398651fa92b6780fd2a6aff]: Commencement: Reg. 6 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-f631715d7f6f59e95a3646e18158ffbb]: Commencement: Reg. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-f631715d7f6f59e95a3646e18158ffbb]: Commencement: Reg. 7 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-841ae7051d5d6e94cb2c5348a18ad2a8]: Commencement: Reg. 8 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-841ae7051d5d6e94cb2c5348a18ad2a8]: Commencement: Reg. 8 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 1997 No. 229](https://www.legislation.gov.uk/nisr/1997/229)
 
-[^key-58f9a78d85ecf8e465c3ddc5ff8b153d]: Commencement: Reg. 9 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-58f9a78d85ecf8e465c3ddc5ff8b153d]: Commencement: Reg. 9 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-b9011c7a40ebf9c7696bba3c9d41ab8e]: Commencement: Reg. 10 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-b9011c7a40ebf9c7696bba3c9d41ab8e]: Commencement: Reg. 10 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-4993bb59406adff296a7cb9f534aa775]: Commencement: Reg. 11 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-4993bb59406adff296a7cb9f534aa775]: Commencement: Reg. 11 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-a363d6186c7eb7c0a856d1f734d2a81d]: Commencement: Reg. 12 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-a363d6186c7eb7c0a856d1f734d2a81d]: Commencement: Reg. 12 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
 [^f00020]: Footnote: [S.R. 1992 No. 262](https://www.legislation.gov.uk/nisr/1992/262) as amended by [S.R. 1993 No. 240](https://www.legislation.gov.uk/nisr/1993/240), [S.R. 1995 No. 47](https://www.legislation.gov.uk/nisr/1995/47) and [S.R. 1996 No. 159](https://www.legislation.gov.uk/nisr/1996/159)
 
@@ -515,11 +515,11 @@ there shall be payable by the applicant to the Secretary of State in connection 
 
 [^f00022]: Footnote: [S.R. 1997 No. 234](https://www.legislation.gov.uk/nisr/1997/234)
 
-[^key-14254f5455b3d878fc9643e0f45354f1]: Commencement: Sch. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-14254f5455b3d878fc9643e0f45354f1]: Commencement: Sch. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-7e03ea555cd44a85cdb6e1d55866a6fc]: Commencement: Sch. 2 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-7e03ea555cd44a85cdb6e1d55866a6fc]: Commencement: Sch. 2 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-881420e72d996d4639054d14210735d8]: Commencement: Sch. 2 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-881420e72d996d4639054d14210735d8]: Commencement: Sch. 2 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
 [^f00023]: Footnote: [S.R. 1987 No. 414](https://www.legislation.gov.uk/nisr/1987/414)
 
@@ -527,22 +527,22 @@ there shall be payable by the applicant to the Secretary of State in connection 
 
 [^f00025]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48)
 
-[^key-8869c7229098a2eb617200e4923a5fd1]: Commencement: Sch. 2 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-8869c7229098a2eb617200e4923a5fd1]: Commencement: Sch. 2 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-83cf92edce836d324cca04e643bc6c20]: Commencement: Sch. 2 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-83cf92edce836d324cca04e643bc6c20]: Commencement: Sch. 2 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-55500cec81f11852c0aa610f752769dd]: Commencement: Sch. 3 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-55500cec81f11852c0aa610f752769dd]: Commencement: Sch. 3 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-f5c0052f5175b1408afeab2b4932cbad]: Commencement: Sch. 3 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-f5c0052f5175b1408afeab2b4932cbad]: Commencement: Sch. 3 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-79865dd81b2a88d681a2393bdf35c4de]: Commencement: Sch. 3 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-79865dd81b2a88d681a2393bdf35c4de]: Commencement: Sch. 3 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-bebe3b4b21332480addec7f0d73ca4a1]: Commencement: Sch. 4 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-bebe3b4b21332480addec7f0d73ca4a1]: Commencement: Sch. 4 para. 1 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-97c63a80e81a8dd1da6ff08a2d3b60fd]: Commencement: Sch. 4 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-97c63a80e81a8dd1da6ff08a2d3b60fd]: Commencement: Sch. 4 para. 2 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-79deaabb753609dfeb4ef3b570d120cc]: Commencement: Sch. 4 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-79deaabb753609dfeb4ef3b570d120cc]: Commencement: Sch. 4 para. 3 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-095507c4879baa9adeee92e134b9ae5f]: Commencement: Sch. 4 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-095507c4879baa9adeee92e134b9ae5f]: Commencement: Sch. 4 para. 4 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
 
-[^key-4aeb815d808fa021a1e990368e5bd1cc]: Commencement: Sch. 4 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)
+[^c-4aeb815d808fa021a1e990368e5bd1cc]: Commencement: Sch. 4 para. 5 in operation at 1.7.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/249/regulation/1/1)

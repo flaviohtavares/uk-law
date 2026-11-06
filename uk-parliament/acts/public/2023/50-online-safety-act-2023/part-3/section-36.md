@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Duties about children’s access assessments[^key-119bdf64805cfaf60d1ca3c5f87572f3][^key-7a7f176cd586591c3a472c9a234314e7]
+## 36. Duties about children’s access assessments[^c-119bdf64805cfaf60d1ca3c5f87572f3][^c-7a7f176cd586591c3a472c9a234314e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-119bdf64805cfaf60d1ca3c5f87572f3]: Commencement: S. 36 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-119bdf64805cfaf60d1ca3c5f87572f3]: Commencement: S. 36 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-7a7f176cd586591c3a472c9a234314e7]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/50/section/36) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/k)
+[^c-7a7f176cd586591c3a472c9a234314e7]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/50/section/36) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/k)

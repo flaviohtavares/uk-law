@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 243. Creation of the new community ward of Penrhos[^key-ae37807023d2c280e1fb8477445e051a][^key-6574f064c267c7edf2f6eefb5e0276aa]
+## 243. Creation of the new community ward of Penrhos[^c-ae37807023d2c280e1fb8477445e051a][^c-6574f064c267c7edf2f6eefb5e0276aa]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The new community ward of Penrhos is created in the community of Whitecastle whi
 
 ## Annotations
 
-[^key-ae37807023d2c280e1fb8477445e051a]: Commencement: Art. 243 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-ae37807023d2c280e1fb8477445e051a]: Commencement: Art. 243 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-6574f064c267c7edf2f6eefb5e0276aa]: Commencement: [Art. 243](https://www.legislation.gov.uk/wsi/2021/1227/article/243) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-6574f064c267c7edf2f6eefb5e0276aa]: Commencement: [Art. 243](https://www.legislation.gov.uk/wsi/2021/1227/article/243) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

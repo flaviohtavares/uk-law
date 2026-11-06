@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Surrenders of authorisation[^key-87ac32b13d557f2d493b2369f7ec0775]
+## 28. Surrenders of authorisation[^c-87ac32b13d557f2d493b2369f7ec0775]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87ac32b13d557f2d493b2369f7ec0775]: Commencement: Art. 28 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-87ac32b13d557f2d493b2369f7ec0775]: Commencement: Art. 28 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

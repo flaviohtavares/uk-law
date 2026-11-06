@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Statements[^key-d3a42b49354a8e4ef7002c64861998ec]
+## 19. Statements[^c-d3a42b49354a8e4ef7002c64861998ec]
 
 *Extent: E+W+N.I.*
 
@@ -40,7 +40,7 @@ by them or on their behalf in the proceedings arising out of the prosecution.
 
 ## Annotations
 
-[^key-d3a42b49354a8e4ef7002c64861998ec]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2013/2605/article/19) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-d3a42b49354a8e4ef7002c64861998ec]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2013/2605/article/19) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
 [^f00007]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 

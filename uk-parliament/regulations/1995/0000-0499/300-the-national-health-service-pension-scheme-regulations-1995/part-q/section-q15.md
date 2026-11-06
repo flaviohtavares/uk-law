@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## Q15. Effect of death or early payment of pension after option exercised under regulation Q8, Q10 or Q11[^key-aa2a412986ca69692abb9558e0be1fe9][^key-00430665ba18d864a911dfc27863655f][^key-c913027479172f2772924a040c51c5cc][^key-4a5c18c82daf5105f62265fd45b35ebd]
+## Q15. Effect of death or early payment of pension after option exercised under regulation Q8, Q10 or Q11[^c-aa2a412986ca69692abb9558e0be1fe9][^c-00430665ba18d864a911dfc27863655f][^c-c913027479172f2772924a040c51c5cc][^c-4a5c18c82daf5105f62265fd45b35ebd]
 
 *Extent: E+W+S*
 
-[^key-aa2a412986ca69692abb9558e0be1fe9]
+[^c-aa2a412986ca69692abb9558e0be1fe9]
 
 (1) If a member in respect of whom an option under regulation Q8, Q10 and Q11 has been exercised dies before the end of the period of 12 months beginning with the date on which the option was exercised—
 
@@ -29,7 +29,7 @@ summary: ''
   - (i) in the case of an option under regulation Q8 or Q10, to the member’s personal representatives; and
   - (ii) in the case of an option under regulation Q11, to the employing authority which made the contribution.
 
-(2) Subject to regulation Q13(5) and (6), if a member[^key-4d51b2fada25b1f940d928a55ead5ae4] in respect of whom an option under regulation Q8 has been exercised dies after the end of the period of 12 months beginning with the date on which the option was exercised and before the end of the contribution option period, regulation Q14(4) applies as if all contributions due after the date of death had been made.
+(2) Subject to regulation Q13(5) and (6), if a member[^c-4d51b2fada25b1f940d928a55ead5ae4] in respect of whom an option under regulation Q8 has been exercised dies after the end of the period of 12 months beginning with the date on which the option was exercised and before the end of the contribution option period, regulation Q14(4) applies as if all contributions due after the date of death had been made.
 
 (3) If a member in respect of whom an option under regulation Q8, Q10 or Q11 has been exercised becomes entitled to a pension under regulation E2A as a result of a claim made before the end of the period of 12 months beginning with the date on which the option was exercised—
 
@@ -38,13 +38,13 @@ summary: ''
   - (i) in the case of an option under regulation Q8 or Q10, to the member, and
   - (ii) in the case of an option under regulation Q11, to the employing authority which made the contribution.
 
-(4) Subject to regulation Q13(5) and (6), if a member[^key-7032537c613d5d8a2fe7502d45f7f10e] in respect of whom an option under regulation Q8 has been exercised becomes entitled to a pension under regulation E2A before the end of the contribution option period as a result of a claim made after the end of the period of 12 months beginning with the date on which the option was exercised, regulation Q14(2) and (4) applies as if all contributions under the option had been made.
+(4) Subject to regulation Q13(5) and (6), if a member[^c-7032537c613d5d8a2fe7502d45f7f10e] in respect of whom an option under regulation Q8 has been exercised becomes entitled to a pension under regulation E2A before the end of the contribution option period as a result of a claim made after the end of the period of 12 months beginning with the date on which the option was exercised, regulation Q14(2) and (4) applies as if all contributions under the option had been made.
 
 (5) If a member in respect of whom an option under regulation Q8, Q10 or Q11 has been exercised—
 
 - (a) becomes entitled to a pension under regulation E3, E3A, or E5; or
 - (b) becomes entitled to a pension under regulation E1 or L1 before reaching the age of 60; or
-- (c) becomes entitled to a pension under regulation E1 after age 60 but before the member’s chosen birthday ; or[^key-c628264b2052d26ea06e93000b174100]
+- (c) becomes entitled to a pension under regulation E1 after age 60 but before the member’s chosen birthday ; or[^c-c628264b2052d26ea06e93000b174100]
 - (d) becomes entitled to a pension under regulation E5A before the member’s chosen birthday,
 
 the increase in the member’s pension which would otherwise be due under regulation Q14(2) or regulation Q16 is reduced.
@@ -53,16 +53,16 @@ the increase in the member’s pension which would otherwise be due under regula
 
 ## Annotations
 
-[^key-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)
+[^c-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)
 
-[^key-00430665ba18d864a911dfc27863655f]: Modification: [Regs. Q8-Q15](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/a)
+[^c-00430665ba18d864a911dfc27863655f]: Modification: [Regs. Q8-Q15](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q8) continued (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [23(2)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/2/a)[(3)(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/23/3/a)
 
-[^key-c913027479172f2772924a040c51c5cc]: Modification: [Reg. Q15](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q15) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [24(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/24/a)
+[^c-c913027479172f2772924a040c51c5cc]: Modification: [Reg. Q15](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q15) modified (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [24(a)](https://www.legislation.gov.uk/uksi/2015/95/regulation/24/a)
 
-[^key-4a5c18c82daf5105f62265fd45b35ebd]: Textual amendment: [Regs. Q8-Q17](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q8) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2008/654/regulation/51)
+[^c-4a5c18c82daf5105f62265fd45b35ebd]: Textual amendment: [Regs. Q8-Q17](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q8) inserted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [51](https://www.legislation.gov.uk/uksi/2008/654/regulation/51)
 
-[^key-4d51b2fada25b1f940d928a55ead5ae4]: Textual amendment: Words in [reg. Q15(2)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q15/2) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2013/413/regulation/15)
+[^c-4d51b2fada25b1f940d928a55ead5ae4]: Textual amendment: Words in [reg. Q15(2)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q15/2) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2013/413/regulation/15)
 
-[^key-7032537c613d5d8a2fe7502d45f7f10e]: Textual amendment: Words in [reg. Q15(4)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q15/4) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2013/413/regulation/15)
+[^c-7032537c613d5d8a2fe7502d45f7f10e]: Textual amendment: Words in [reg. Q15(4)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q15/4) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2013/413/regulation/15)
 
-[^key-c628264b2052d26ea06e93000b174100]: Textual amendment: [Reg. Q15(5)(d)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q15/5/d) and word inserted (1.10.2023) by [The National Health Service Pension Schemes (Partial Retirement etc.) (Amendment) Regulations 2023 (S.I. 2023/952)](https://www.legislation.gov.uk/uksi/2023/952), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/952/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/952/regulation/16)
+[^c-c628264b2052d26ea06e93000b174100]: Textual amendment: [Reg. Q15(5)(d)](https://www.legislation.gov.uk/uksi/1995/300/regulation/Q15/5/d) and word inserted (1.10.2023) by [The National Health Service Pension Schemes (Partial Retirement etc.) (Amendment) Regulations 2023 (S.I. 2023/952)](https://www.legislation.gov.uk/uksi/2023/952), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/952/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2023/952/regulation/16)

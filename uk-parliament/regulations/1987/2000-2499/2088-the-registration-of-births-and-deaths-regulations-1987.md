@@ -43,33 +43,33 @@ The Registrar General in exercise of the powers set out in Schedule 1 to this in
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-b5e477ac17705b21dd6128ab1d539d5b]
+### 1. Citation and commencement[^c-b5e477ac17705b21dd6128ab1d539d5b]
 
 These Regulations may be cited as the Registration of Births and Deaths Regulations 1987 and shall come into force on 1st January 1988.
 
-### 2. Interpretation[^key-9846362fe08e8ffebf74d2ea3bc15458]
+### 2. Interpretation[^c-9846362fe08e8ffebf74d2ea3bc15458]
 
 (1) In these Regulations, unless the context otherwise requires–
 
-- “the[^key-626c30dc4680cc9440698e6be9ae00d0] 2009 Act” means the Coroners and Justice Act 2009”
-- “[^key-ec6589580332ebab6c3013e4cc5f938e]**approved electronic form**” means any form of electronic communication or electronic storage (including an electronic signature) approved by the Registrar General pursuant to the powers conferred under section 9(2) of the Births and Deaths Registration Act 1926, or under section 39(2) of the Act;
+- “the[^c-626c30dc4680cc9440698e6be9ae00d0] 2009 Act” means the Coroners and Justice Act 2009”
+- “[^c-ec6589580332ebab6c3013e4cc5f938e]**approved electronic form**” means any form of electronic communication or electronic storage (including an electronic signature) approved by the Registrar General pursuant to the powers conferred under section 9(2) of the Births and Deaths Registration Act 1926, or under section 39(2) of the Act;
 - “the Act” means the Births and Deaths Registration Act 1953[^f00003];
 - “approved form” means a form approved by the Registrar General for the purpose for which it is used;
-- [^key-046e04030288aed0d8b8ad795256e744]...
-- “coroner” includes—[^key-778a53d93e5de3823f4eea3624c28e7d]
+- [^c-046e04030288aed0d8b8ad795256e744]...
+- “coroner” includes—[^c-778a53d93e5de3823f4eea3624c28e7d]
   - (a) a senior coroner, area coroner and assistant coroner;
   - (b) the Chief Coroner when conducting an investigation under paragraph 1 of Schedule 10 to the 2009 Act; and
   - (c) a judge, former judge, or former coroner conducting an investigation under paragraph 3 of Schedule 10 to the 2009 Act;
 - “description”, in relation to a coroner, means his official designation and the area of his jurisdiction;
-- “[^key-885a01660d630e1a662ce6fbf67f6701]**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000;
+- “[^c-885a01660d630e1a662ce6fbf67f6701]**electronic communication**” has the meaning given in section 15(1) of the Electronic Communications Act 2000;
 - “**electronic signature**” has the meaning given in section 7(2) of the Electronic Communications Act 2000;
 - “entry” means a record of the particulars relating to a live-birth, still-birth or death completed by the registrar in the appropriate spaces in form 1, 9 or 13;
-- “inquest” includes an inquest which is conducted as part of an investigation under Part 1 of the Coroners and Justice Act 2009 (including any inquest which has been adjourned)[^key-94fa59ec43790d465d796121a69ea2b4];
-- “maiden surname” means the surname with which a woman entered into her first marriage or civil partnership, and, where a woman has entered into a civil partnership and marriage, it means the surname with which she entered the first of these ceremonies.[^key-26490bd38f4a3a7559c4a32d2a552edc]
+- “inquest” includes an inquest which is conducted as part of an investigation under Part 1 of the Coroners and Justice Act 2009 (including any inquest which has been adjourned)[^c-94fa59ec43790d465d796121a69ea2b4];
+- “maiden surname” means the surname with which a woman entered into her first marriage or civil partnership, and, where a woman has entered into a civil partnership and marriage, it means the surname with which she entered the first of these ceremonies.[^c-26490bd38f4a3a7559c4a32d2a552edc]
 - “name”, in relation to a person, excludes surname;
-- [^key-b1005812ba79cdf921b86ecb7f6298c5]...
-- “other parent” means a woman who is a parent by virtue of section 42 or 43 of the Human Fertilisation and Embryology Act 2008.[^key-04e20b82129c34eac463fa5f49b7d40f]
-- “relevant registrar”, in relation to the registration of a birth or death, means (subject to paragraph (3)(b) below) the registrar of the sub-district in which the birth or death occurred.[^key-93ab674f82ae67b45846baca76b1c90f]
+- [^c-b1005812ba79cdf921b86ecb7f6298c5]...
+- “other parent” means a woman who is a parent by virtue of section 42 or 43 of the Human Fertilisation and Embryology Act 2008.[^c-04e20b82129c34eac463fa5f49b7d40f]
+- “relevant registrar”, in relation to the registration of a birth or death, means (subject to paragraph (3)(b) below) the registrar of the sub-district in which the birth or death occurred.[^c-93ab674f82ae67b45846baca76b1c90f]
 
 (2) In these Regulations, unless the context otherwise requires–
 
@@ -81,7 +81,7 @@ These Regulations may be cited as the Registration of Births and Deaths Regulati
 - (a) the date of the still-birth or of the death of the deceased person, is to be construed as a reference to the date on which the still-born child or the deceased was found;
 - (b) the place where the still-birth or death occurred is, if the place is unknown, to be construed as a reference to the place where the still-born child or the deceased was found.
 
-### 2A. Sending and providing notices, information or other documents[^key-beaa6a00e1bdfb3599bca2212210b313]
+### 2A. Sending and providing notices, information or other documents[^c-beaa6a00e1bdfb3599bca2212210b313]
 
 Where any notice, information, declaration, certificate, return or other document is required to be given, sent, delivered, produced, supplied, transmitted or otherwise provided for any purpose of these Regulations, the requirement may be met by—
 
@@ -102,46 +102,46 @@ Where any notice, information, declaration, certificate, return or other documen
 - (f) form 10,
 - (g) form 11,
 - (h) form 12,
-- (i)[^key-55da7141e329db583d988f471c5b7938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-cc8329871fc96d88ae245c0c0b5a29cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-679ac61fc9d62470c0496b0b1670d5a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-55da7141e329db583d988f471c5b7938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-cc8329871fc96d88ae245c0c0b5a29cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-679ac61fc9d62470c0496b0b1670d5a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l) form 17,
 - (m) form 18.
 
 ## PART II — GENERAL PROVISIONS AS TO REGISTRATION
 
-### 3. Preparation of draft particulars[^key-2f304b484e630d6a9e9c22fa98a3c6c6][^key-8ec61d02b5757b738f5777c32bbebba0]
+### 3. Preparation of draft particulars[^c-2f304b484e630d6a9e9c22fa98a3c6c6][^c-8ec61d02b5757b738f5777c32bbebba0]
 
 (1) Before commencing registration of a birth or death whether or not in the presence of a qualified informant, the registrar shall, except where paragraph (2) applies, prepare a draft of the particulars to be entered in the register, either:—
 
 - (a) on an approved form; or
-- (b)[^key-795c12e225ed90a6c171817d1e718777] in an approved electronic form.
+- (b)[^c-795c12e225ed90a6c171817d1e718777] in an approved electronic form.
 
-(2) Before a qualified informant makes a declaration under Regulation 13, 34A, or 42A[^key-053623d0fa92edf862c06d260f3d87b1] or a statement under Regulation 17(7)(a)[^key-787d453e7c205b5302ccdfbef59ea9fd] the officer before whom the declaration or statement is to be made shall prepare a draft of the particulars to be entered in the register, either:—
+(2) Before a qualified informant makes a declaration under Regulation 13, 34A, or 42A[^c-053623d0fa92edf862c06d260f3d87b1] or a statement under Regulation 17(7)(a)[^c-787d453e7c205b5302ccdfbef59ea9fd] the officer before whom the declaration or statement is to be made shall prepare a draft of the particulars to be entered in the register, either:—
 
 - (a) on an approved form; or
-- (b)[^key-852c7a33affec4338ec400d057beed36] in an approved electronic form.
+- (b)[^c-852c7a33affec4338ec400d057beed36] in an approved electronic form.
 
-(3) Having prepared a draft of the particulars in accordance with paragraph (1) or (2), [^key-45e83bb8e6c1ba500bb701758b3d07f6]... the officer shall show or read them to the informant[^key-6cf1a43c1688e047f76d751432a57551] and shall correct any error or omission.
+(3) Having prepared a draft of the particulars in accordance with paragraph (1) or (2), [^c-45e83bb8e6c1ba500bb701758b3d07f6]... the officer shall show or read them to the informant[^c-6cf1a43c1688e047f76d751432a57551] and shall correct any error or omission.
 
-### 4. Absence of particulars[^key-f8ba5ab5da51c4b79d7bd8197272252b]
+### 4. Absence of particulars[^c-f8ba5ab5da51c4b79d7bd8197272252b]
 
-Where during the registration of a birth or death it appears to the registrar that he cannot enter the particulars required in any space on the appropriate form, other than space 17 on form 1, he shall, subject to any other provision of these Regulations, enter a line through that space[^key-ecbfb5ec1fead95568aab5cd46048bc3] before the informant is called upon to certify the entry.
+Where during the registration of a birth or death it appears to the registrar that he cannot enter the particulars required in any space on the appropriate form, other than space 17 on form 1, he shall, subject to any other provision of these Regulations, enter a line through that space[^c-ecbfb5ec1fead95568aab5cd46048bc3] before the informant is called upon to certify the entry.
 
-### 5. Signature by mark or in foreign characters[^key-e1edf2a84b2cc61453bb863898fa2446]
+### 5. Signature by mark or in foreign characters[^c-e1edf2a84b2cc61453bb863898fa2446]
 
 Where–
 
-- (a) under any provision of these Regulations a person is required to sign a register, declaration or statement in the presence of [^key-227dc8e923de9dc42ee94e8ad73e7318]... a registrar;
+- (a) under any provision of these Regulations a person is required to sign a register, declaration or statement in the presence of [^c-227dc8e923de9dc42ee94e8ad73e7318]... a registrar;
 - (b) that person makes a mark or signs in characters other than those used in the English or Welsh language,
 
-the [^key-8501e8127bdeab212b83106ebb0836a6]... registrar concerned shall write against the mark or signature the words “The mark \[or signature\] of ”, inserting the name and surname of the person.
+the [^c-8501e8127bdeab212b83106ebb0836a6]... registrar concerned shall write against the mark or signature the words “The mark \[or signature\] of ”, inserting the name and surname of the person.
 
-### 6. Registration in more than one place[^key-b60bda5f626f28403706a3073b6e8ed0]
+### 6. Registration in more than one place[^c-b60bda5f626f28403706a3073b6e8ed0]
 
 (1) A registrar shall not register a birth or death which has already been registered except–
 
-- (a) in accordance with Regulation 36, or 45[^key-dad30017acc3a15e9b33a941c8e09ce5]; or
+- (a) in accordance with Regulation 36, or 45[^c-dad30017acc3a15e9b33a941c8e09ce5]; or
 - (b) where the Registrar General gives his authority.
 
 (2) Where it appears to a registrar that a birth or death has nevertheless been registered more than once–
@@ -153,13 +153,13 @@ the [^key-8501e8127bdeab212b83106ebb0836a6]... registrar concerned shall write a
 
 ## PART III — REGISTRATION OF LIVE-BIRTHS
 
-### 7. Particulars to be registered and form of register[^key-4484f5872c7025cc45bd3ccd2154f270]
+### 7. Particulars to be registered and form of register[^c-4484f5872c7025cc45bd3ccd2154f270]
 
 (1) The particulars concerning a live-birth required to be registered pursuant to section 1(1) of the Act[^f00005] shall, subject to the provisions of these Regulations, be those required in spaces 1 to 13 in form 1 and that form shall be the prescribed form for registration of live-births for the purpose of section 5 of the Act (which provides for registration of births free of charge).
 
-(2) Except as otherwise provided in these Regulations the particulars to be recorded in respect of the mother, father or other parent[^key-23295757d56d11efd4aba4da7eb400e0] of a child shall be those appropriate as at the date of its birth.
+(2) Except as otherwise provided in these Regulations the particulars to be recorded in respect of the mother, father or other parent[^c-23295757d56d11efd4aba4da7eb400e0] of a child shall be those appropriate as at the date of its birth.
 
-### 8. Declaration by mother, father or other parent for registration of birth[^key-be02da33b2e698e2ca114273701d6ea8][^key-f19f5d4c11923d23123b98ec8abaa151]
+### 8. Declaration by mother, father or other parent for registration of birth[^c-be02da33b2e698e2ca114273701d6ea8][^c-f19f5d4c11923d23123b98ec8abaa151]
 
 Form 2 is the prescribed form of the declaration to be made under the Act by—
 
@@ -168,9 +168,9 @@ Form 2 is the prescribed form of the declaration to be made under the Act by—
 - (c) the mother under section 10(1B)(b)(i); or
 - (d) the other parent under section 10(1B)(c)(i).
 
-### 9. Entry of particulars on registration[^key-0d2b36bc64b1c9fe56c06045cfa1c0cc][^key-63527caa0e1757bffe919d57bf8ceef7]
+### 9. Entry of particulars on registration[^c-0d2b36bc64b1c9fe56c06045cfa1c0cc][^c-63527caa0e1757bffe919d57bf8ceef7]
 
-(1) Where the relevant registrar receives from any qualified informant [^key-64bbfc97ca91f4b018923804603f7319]... information of the particulars required by Regulation 7(1) he shall [^key-d3ba80ade511c8584fbb92345d68ba4e]... register the birth and the particulars, if not previously registered, [^key-e412172607485e7a024c07225aaaf935]... on form 1, entering the particulars required in spaces 1 to 13 in accordance, where applicable, with the following provisions of this Regulation.
+(1) Where the relevant registrar receives from any qualified informant [^c-64bbfc97ca91f4b018923804603f7319]... information of the particulars required by Regulation 7(1) he shall [^c-d3ba80ade511c8584fbb92345d68ba4e]... register the birth and the particulars, if not previously registered, [^c-e412172607485e7a024c07225aaaf935]... on form 1, entering the particulars required in spaces 1 to 13 in accordance, where applicable, with the following provisions of this Regulation.
 
 (2) With respect to space 1 (date and place of birth), if more than one living child is born at the confinement the registrar shall after the date of birth enter the time of birth.
 
@@ -179,15 +179,15 @@ Form 2 is the prescribed form of the declaration to be made under the Act by—
 - (a) if a name is not given, the registrar shall enter only the surname, preceded by a horizontal line;
 - (b) the surname to be entered shall be the surname by which at the date of the registration of the birth it is intended that the child shall be known.
 
-(4)[^key-f2a34fb5792863691dbb92332b37b5d4] With respect to space 4 (father’s, or other parent’s, name and surname) —
+(4)[^c-f2a34fb5792863691dbb92332b37b5d4] With respect to space 4 (father’s, or other parent’s, name and surname) —
 
 - (a) If, other than in a case to which sub-paragraph (b) applies, the father or other parent acquired after the child’s birth a name or surname different from their name at the date of the birth, the registrar shall enter in space 4 the name and surname as at the date of birth followed by the name and surname as at the date of registration preceded by the word ‘now’; or if the father or other parent has died between the birth and the date of registration and changed their name between the birth and their subsequent death, their name and surname at birth is provided followed by the word “afterwards” and then their name at the date of their death is inserted into space 4;
 - (b) In the case of a request made under paragraph (d), (e), (f) or (g) of section 10(1) or paragraph (d), (e), (f) of section 10(1B) and upon production of a declaration in Form 6A, the registrar shall enter in space 4 of Form 1, the name and surname of the father or putative father or other parent or putative other parent as appropriate and as recorded in the parental responsibility agreement mentioned in section 10(1)(d)(i) or 10(1B)(d)(i) or the orders mentioned in section 10(1)(e)(i), (f)(i), (g)(i),or section 10(1B) (e)(i) or (f)(i).
 - (c) In the case of a request under section 10ZA of the Act (Registration of father or second female parent by virtue of certain provisions of the Human Fertilisation and Embryology Act 2008) the registrar shall enter in space 4, as the father or other parent of the child, the name and surname as at the date of death, of the man who is the father or the woman who is the other parent.
 
-(4A)[^key-668888578d0be2bfec3bc7923a2a7d66] Form 6A shall be the prescribed form of the declaration for the purposes of paragraphs (d) to (g) of section 10(1) , and paragraphs (d) to (f) of section 10(1B)[^key-87da8293596ba665b11e1d65b7265116] of the Act.
+(4A)[^c-668888578d0be2bfec3bc7923a2a7d66] Form 6A shall be the prescribed form of the declaration for the purposes of paragraphs (d) to (g) of section 10(1) , and paragraphs (d) to (f) of section 10(1B)[^c-87da8293596ba665b11e1d65b7265116] of the Act.
 
-(5)[^key-f1b9e9406e89b476034627fe34e91105] With respect to spaces 5 and 6 (father or other parent’s place of birth and occupation)—
+(5)[^c-f1b9e9406e89b476034627fe34e91105] With respect to spaces 5 and 6 (father or other parent’s place of birth and occupation)—
 
 - (a) In a case to which section 10(1) or 10(1B) of the Act applies, the registrar shall not complete spaces 5 and 6 unless the name and surname of the father, or other parent, of the child have been entered in space 4 pursuant to either of those sections;
 - (b) If either the father or the other parent was deceased at the date of the birth the registrar shall enter in space 6 the word ‘deceased’;
@@ -196,16 +196,16 @@ Form 2 is the prescribed form of the declaration to be made under the Act by—
 (6) With respect to space 7 (mother’s name and surname)–
 
 - (a) if after the birth of the child the mother acquired a name or surname different from that borne by her at the date of the birth, the registrar shall enter the name and surname as at the date of the birth, followed by the name and surname as at the date of registration preceded by the word “now” or, if the mother is deceased, the name and surname as at her death preceded by the word “afterwards”;
-- (b)[^key-92596ef2911f055a8e82801c8d9e0684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-92596ef2911f055a8e82801c8d9e0684] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6A)[^key-b8d071befc88430884cdbe01e2868ece] With respect to space 8b (mother’s occupation) if the mother has changed her occupation since the birth of the child, the registrar shall in space 8b after the occupation as at the date of the birth enter the occupation as at the date of registration preceded by the word “now”.
+(6A)[^c-b8d071befc88430884cdbe01e2868ece] With respect to space 8b (mother’s occupation) if the mother has changed her occupation since the birth of the child, the registrar shall in space 8b after the occupation as at the date of the birth enter the occupation as at the date of registration preceded by the word “now”.
 
-(7)[^key-245ccf96f4fec4934a24c2e73cb58b2f] With respect to space 9(b) (mother’s surname at marriage or civil partnership if different from maiden surname) the surname to be entered shall be—
+(7)[^c-245ccf96f4fec4934a24c2e73cb58b2f] With respect to space 9(b) (mother’s surname at marriage or civil partnership if different from maiden surname) the surname to be entered shall be—
 
-- (a)[^key-dd0d0bf4afa740a8e9391c323a08ab12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) the name in which she contracted her marriage with, or in which she entered into a civil partnership with, the father or[^key-3a49fd363aae765e6012d9549aa982f6] other parent of the child (and where the marriage results from the conversion of a civil partnership under section 9 of the Marriage (Same Sex Couples) Act 2013 and regulations made under that section, the name to be entered is that used for the conversion, if different)[^key-12766d803c1a4d5cf4dfe7124523e2b8].
+- (a)[^c-dd0d0bf4afa740a8e9391c323a08ab12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the name in which she contracted her marriage with, or in which she entered into a civil partnership with, the father or[^c-3a49fd363aae765e6012d9549aa982f6] other parent of the child (and where the marriage results from the conversion of a civil partnership under section 9 of the Marriage (Same Sex Couples) Act 2013 and regulations made under that section, the name to be entered is that used for the conversion, if different)[^c-12766d803c1a4d5cf4dfe7124523e2b8].
 
-(8)[^key-d48c1a6b6cb31ca8fe9394ea7cb537ab] For space 13 (informant’s usual address) —
+(8)[^c-d48c1a6b6cb31ca8fe9394ea7cb537ab] For space 13 (informant’s usual address) —
 
 - (a) the address required is the address at registration of the birth;
 - (b) if under sections 10(1)(a) or 10(1B)(a) of the Act an entry of the father or other parent has been made, the registrar shall enter the father’s or other parent’s address followed by the mother’s address if different;
@@ -213,62 +213,62 @@ Form 2 is the prescribed form of the declaration to be made under the Act by—
 
 (9) After completing spaces 1 to 13 of the entry the registrar shall call upon the informant to verify the particulars entered.
 
-(10) If any error has been made in those particulars, the registrar, in the presence of the informant, shall, where the entry is being completed in manuscript, make the correction in accordance with regulation 54[^key-b97749015e9a60bee2d186ec9f5f2eac].
+(10) If any error has been made in those particulars, the registrar, in the presence of the informant, shall, where the entry is being completed in manuscript, make the correction in accordance with regulation 54[^c-b97749015e9a60bee2d186ec9f5f2eac].
 
-### 10. Completion of registration[^key-bed9e4ece5f1d0f7fdf9a7cb1a4ba1de]
+### 10. Completion of registration[^c-bed9e4ece5f1d0f7fdf9a7cb1a4ba1de]
 
 (1) When spaces 1 to 13 of form 1 have been completed and verified the registrar shall call upon the following persons to sign the entry in space 14 of the form–
 
-- (a) subject to sub-paragraph (b) or (c)[^key-c5c9cdc6628fca65d725fbbc29970e47], the informant;
-- (b) where an entry has been made under section 10(1)[^key-217e7190038a206b420cfe46c51e9ebb] of the Act–
-  - (i) if made pursuant to paragraph (a) of that sub-section[^key-5de875922a22abd000f01489ad2fa2e9], the person acknowledging himself to be the father, and then the mother,
+- (a) subject to sub-paragraph (b) or (c)[^c-c5c9cdc6628fca65d725fbbc29970e47], the informant;
+- (b) where an entry has been made under section 10(1)[^c-217e7190038a206b420cfe46c51e9ebb] of the Act–
+  - (i) if made pursuant to paragraph (a) of that sub-section[^c-5de875922a22abd000f01489ad2fa2e9], the person acknowledging himself to be the father, and then the mother,
   - (ii) if made pursuant to paragraph (b) of that sub-section, the mother, in which case the registrar shall add after her signature the words “Statutory declaration made by on ”, inserting the name and surname of the person acknowledging himself to be the father and the date on which the statutory declaration was made by him,
-  - (iii)[^key-70cc01174de1571d18a4bb5def6a4f69] if made pursuant to paragraph (c) of that sub-section, the person stating himself to be the father of the child, in which case the registrar shall add after his signature the words “Statutory declaration made by on ”, inserting the name and surname of the mother and the date on which the statutory declaration was made by her,
-  - (iv)[^key-9a35ddef64e6a58d21dbd0b19dad77b0] if made pursuant to paragraph (d) of that sub-section, the person making the request in which case the registrar shall add after his signature the words “Pursuant to section 10(1)(d) of the Births and Deaths Registration Act 1953”,
+  - (iii)[^c-70cc01174de1571d18a4bb5def6a4f69] if made pursuant to paragraph (c) of that sub-section, the person stating himself to be the father of the child, in which case the registrar shall add after his signature the words “Statutory declaration made by on ”, inserting the name and surname of the mother and the date on which the statutory declaration was made by her,
+  - (iv)[^c-9a35ddef64e6a58d21dbd0b19dad77b0] if made pursuant to paragraph (d) of that sub-section, the person making the request in which case the registrar shall add after his signature the words “Pursuant to section 10(1)(d) of the Births and Deaths Registration Act 1953”,
   - (v) if made pursuant to paragraph (e) of that sub-section, the person making the request, in which case the registrar shall add after his signature the words “Pursuant to section 10(1)(e) of the Births and Deaths Registration Act 1953,”
   - (vi) if made pursuant to paragraph (f) of that sub-section, the person making the request in which case the registrar shall add after his signature the words “Pursuant to section 10(1)(f) of the Births and Deaths Registration Act 1953,”
   - (vii) if made pursuant to paragraph (g) of that sub-section, the person making the request in which case the Registrar shall add after his signature the words “Pursuant to section 10(1)(g) of the Births and Deaths Registration Act 1953”.
-- (c)[^key-51fc27f00e4b7a8b4134d381b9894dd1] where an entry has been made under section 10(1B) of the Act the following persons shall sign the entry in space 14 —
+- (c)[^c-51fc27f00e4b7a8b4134d381b9894dd1] where an entry has been made under section 10(1B) of the Act the following persons shall sign the entry in space 14 —
   - (i) the person acknowledging herself to be the other parent and then the mother if made under paragraph (a) of section 10(1B);
   - (ii) the mother if made pursuant to paragraph (b) of section 10(1B), in which case the registrar shall add after the mother’s signature the words “Statutory declaration made by … on …” , inserting the name and surname of the person acknowledging herself to be the other parent and the date on which the statutory declaration was made by her;
   - (iii) the person stating herself to be the other parent if made under paragraph (c) of section 10(1B) in which case the registrar shall add after her signature the words “Statutory declaration made by … on …” inserting the name and surname of the mother and the date on which the statutory declaration was made by her;
   - (iv) the mother or other parent making the request if made under paragraph (d) of section 10(1B), in which case the registrar shall add after his signature the words ‘Pursuant to section 10(1B)(d) of the Births and Deaths Registration Act 1953’;
   - (v) the person making the request if made under paragraph (e) of section 10(1B), in which case the registrar shall add after his signature the words ‘Pursuant to section 10(1B)(e) of the Births and Deaths Registration Act 1953’; or
   - (vi) the person making the request if made under paragraph (f) of section 10(1B), in which case the registrar shall add after his signature the words ‘Pursuant to section 10(1B)(f) of the Births and Deaths Registration Act 1953’.
-- (d)[^key-c91f8c7e30833b8fc2396a17872593c0] Where an entry has been made under section 10ZA of the Act, the person making the request shall sign the entry in space 14, in which case the registrar shall add after his signature the words “Pursuant to section 10ZA of the Births and Deaths Registration Act 1953.
+- (d)[^c-c91f8c7e30833b8fc2396a17872593c0] Where an entry has been made under section 10ZA of the Act, the person making the request shall sign the entry in space 14, in which case the registrar shall add after his signature the words “Pursuant to section 10ZA of the Births and Deaths Registration Act 1953.
 
 (2) The registrar shall then enter in space 15 the date on which the entry is made and shall sign the entry in space 16, adding his official description.
 
-### 11. Registration between three and twelve months from date of birth[^key-d406db72ce024defaeb1ea2e45c52dce][^key-7c64aeca673e1d4c2f68e14dc6b3a3aa]
+### 11. Registration between three and twelve months from date of birth[^c-d406db72ce024defaeb1ea2e45c52dce][^c-7c64aeca673e1d4c2f68e14dc6b3a3aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Report to the Registrar General[^key-0e6851873d3ee31915f8494ca80de512][^key-88bf19e8ffdf3fdf6296022a8d0b16c5]
+### 12. Report to the Registrar General[^c-0e6851873d3ee31915f8494ca80de512][^c-88bf19e8ffdf3fdf6296022a8d0b16c5]
 
-(1) Where a relevant registrar [^key-f726935f91dc5954a1f3a3ae1c312cc2]... is informed that a live-birth which occurred more than twelve months previously has not been registered, he shall make a report to the Registrar General stating, to the best of his knowledge and belief–
+(1) Where a relevant registrar [^c-f726935f91dc5954a1f3a3ae1c312cc2]... is informed that a live-birth which occurred more than twelve months previously has not been registered, he shall make a report to the Registrar General stating, to the best of his knowledge and belief–
 
 - (a) the particulars required to be registered concerning the birth;
 - (b) the source of his information; and
 - (c) the name, surname and address of any qualified informant available to give information for the registration.
 
-(2)[^key-0c35f66da21acfbd241932a045398102] On being satisfied that the Registrar General has issued his written authority to the relevant registrar for the registration of the birth, that registrar, on registering the birth, shall enter in space 15 the words “On the authority of the Registrar General”.
+(2)[^c-0c35f66da21acfbd241932a045398102] On being satisfied that the Registrar General has issued his written authority to the relevant registrar for the registration of the birth, that registrar, on registering the birth, shall enter in space 15 the words “On the authority of the Registrar General”.
 
-(3)[^key-f6e1689a0d53fdbe48dee2e97846e4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f6e1689a0d53fdbe48dee2e97846e4c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Declaration and registration under section 9 of the Act[^key-35bf424597335c75701f0577ea5e0243]
+### 13. Declaration and registration under section 9 of the Act[^c-35bf424597335c75701f0577ea5e0243]
 
-(1)[^key-1bc1076daa24f5c9b6a00b16e133b907] In relation to a live-birth, the officer prescribed for the purposes of section 9(1) of the Act is a registrar who is not the relevant registrar.
+(1)[^c-1bc1076daa24f5c9b6a00b16e133b907] In relation to a live-birth, the officer prescribed for the purposes of section 9(1) of the Act is a registrar who is not the relevant registrar.
 
 (2) The officer before whom the declaration is to be made shall–
 
 - (a) enter in the declaration the particulars required to be registered concerning the birth, using an approved form for the purpose;
-- (b) show or read the declaration to the informant and correct any error or omission, requiring the informant to initial any amendment if the declaration is prepared in manuscript, and then to sign the declaration[^key-f53e90e5f84547ff715547afbcb6093c];
+- (b) show or read the declaration to the informant and correct any error or omission, requiring the informant to initial any amendment if the declaration is prepared in manuscript, and then to sign the declaration[^c-f53e90e5f84547ff715547afbcb6093c];
 - (c) attest the declaration himself;
 - (d) send the declaration to the relevant registrar in accordance with section 9(2) of the Act.
 
 (3) Where it appears to the relevant registrar that the particulars contained in the declaration are in any material respect not proper to be registered, he shall return the declaration to the officer before whom it was attested together with a note of the matters in which it appears to need amendment, and–
 
-- (a) that officer shall then [^key-b7f10802e06993310c14e37099d6a06c]... amend any error by striking out any incorrect particulars and inserting the correct particulars;
+- (a) that officer shall then [^c-b7f10802e06993310c14e37099d6a06c]... amend any error by striking out any incorrect particulars and inserting the correct particulars;
 - (b) any amendment so made shall be initialled by the declarant, and the declaration shall be returned to the relevant registrar.
 
 (4) On receiving the declaration the registrar shall, subject to paragraph (3), enter the particulars of the birth in the register in the following manner–
@@ -276,17 +276,17 @@ Form 2 is the prescribed form of the declaration to be made under the Act by—
 - (a) in spaces 1 to 13 of form 1, he shall enter the particulars as appearing in the corresponding spaces of the declaration, except that where any particulars have been corrected in pursuance of paragraph (3) he shall enter in the register only the particulars as corrected, omitting any incorrect particular which has been struck out and the initials of the declarant;
 - (b) in space 14 of form 1 (signature of informant)–
   - (i) he shall enter the name of the declarant in the form in which he signed the declaration and shall add the words “by declaration dated ”, inserting the date on which the declaration was made and signed,
-  - (ii) if, pursuant to section 9(4) of the Act[^f00010], a request made under paragraph (b), (c), (d), (e), (f) or (g) of section 10(1) of the Act[^key-584e44979875e89198787aa14ccff809] , or a request made under paragraph (b), (c), (d), (e), or (f) of section 10(1B) of[^key-45a75830382ae1e0d6dd4131dc4d81a6] the Act, was included in the declaration, he shall after the words required by head (i) make the same addition as, on completion of registration under Regulation 10, would be required under (as the case may be) head (ii), (iii), (iv), (v), (vi) or (vii)[^key-adef413bb5f79ce1863f12d9273880a7] of paragraph (1)(b) of that Regulation.
-  - (iii)[^key-49115dc48c07bce8ab8565c11c06bea3] if, pursuant to section 9(4)(A) of the Act, a request made under section 10ZA of the Act was included in the declaration, he shall after the words “by declaration dated…” add “Pursuant to section 10ZA of the Births and Deaths Registration Act 1953.”
+  - (ii) if, pursuant to section 9(4) of the Act[^f00010], a request made under paragraph (b), (c), (d), (e), (f) or (g) of section 10(1) of the Act[^c-584e44979875e89198787aa14ccff809] , or a request made under paragraph (b), (c), (d), (e), or (f) of section 10(1B) of[^c-45a75830382ae1e0d6dd4131dc4d81a6] the Act, was included in the declaration, he shall after the words required by head (i) make the same addition as, on completion of registration under Regulation 10, would be required under (as the case may be) head (ii), (iii), (iv), (v), (vi) or (vii)[^c-adef413bb5f79ce1863f12d9273880a7] of paragraph (1)(b) of that Regulation.
+  - (iii)[^c-49115dc48c07bce8ab8565c11c06bea3] if, pursuant to section 9(4)(A) of the Act, a request made under section 10ZA of the Act was included in the declaration, he shall after the words “by declaration dated…” add “Pursuant to section 10ZA of the Births and Deaths Registration Act 1953.”
 
-(5)[^key-8eeaca00c8e446ca1f6b2a7316d4d688] If—
+(5)[^c-8eeaca00c8e446ca1f6b2a7316d4d688] If—
 
 - (a) not more than twelve months have elapsed from the date of the birth, the registrar shall enter the date on which the entry is made in space 15 of form 1 and shall sign the entry in space 16 of that form, adding his official description;
 - (b) more than twelve months have elapsed since the date of the birth, the registrar shall, on being satisfied that the Registrar General has given written authority in accordance with section 7 of the Act—
   - (i) enter the date on which the entry is made and the words “On the authority of the Registrar General” in space 15 of form 1; and
   - (ii) sign the entry in space 16 of that form, adding his official description.
 
-### 14. Alteration or giving of name after registration[^key-33f9e4828ce6c3fa63ecb6810a51c4aa]
+### 14. Alteration or giving of name after registration[^c-33f9e4828ce6c3fa63ecb6810a51c4aa]
 
 (1) The form of the certificate pursuant to section 13(1) of the Act, as to the alteration of or giving of a name to a child before the expiration of twelve months from the date of the registration of its birth, shall be–
 
@@ -295,31 +295,31 @@ Form 2 is the prescribed form of the declaration to be made under the Act by—
 
 (2) Upon delivery to him of a certificate duly signed in accordance with section 13(1), the registrar or superintendent registrar having custody of the register in which the birth is entered shall (in pursuance of section 13(1)) enter in space 17 of the entry the name shown in the certificate, followed by the surname recorded in space 2 of the entry and–
 
-- (a) where the name was altered or given in baptism[^key-7de278d3425f8a218b7cb08464680a43] he shall add the words “by baptism on ”, inserting the date on which the child was baptised;
-- (b) where the name was altered or given otherwise than in baptism[^key-0f3e4710de9892038e9610e2fb0fcc62], he shall add the words “on certificate of naming dated ”, inserting the date on which the certificate was signed.
+- (a) where the name was altered or given in baptism[^c-7de278d3425f8a218b7cb08464680a43] he shall add the words “by baptism on ”, inserting the date on which the child was baptised;
+- (b) where the name was altered or given otherwise than in baptism[^c-0f3e4710de9892038e9610e2fb0fcc62], he shall add the words “on certificate of naming dated ”, inserting the date on which the certificate was signed.
 
-## PART IV — RE-REGISTRATION OF BIRTHS OF CHILDREN WHOSE PARENTS NOT MARRIED TO , OR CIVIL PARTNERS OF, EACH OTHER[^key-62a44bf2592501b79e870e26e58343d2]
+## PART IV — RE-REGISTRATION OF BIRTHS OF CHILDREN WHOSE PARENTS NOT MARRIED TO , OR CIVIL PARTNERS OF, EACH OTHER[^c-62a44bf2592501b79e870e26e58343d2]
 
-### 15. Officers before whom statements may be made[^key-3a48e6ed5caa2b7dc4c2a8230bce389c][^key-710367a54a820fe689de5b488c66c9fb]
+### 15. Officers before whom statements may be made[^c-3a48e6ed5caa2b7dc4c2a8230bce389c][^c-710367a54a820fe689de5b488c66c9fb]
 
 The officer prescribed for the purposes of section 9(5) of the Act (request other than to the relevant registrar for re-registration of birth) is a registrar who is not the relevant registrar.
 
-### 16. Declaration by mother, father or other parent for the re-registration of a birth[^key-885ab1023569ec5ddeac3d2cda6d5207][^key-e6fe03875f2d667c81170546289da33a]
+### 16. Declaration by mother, father or other parent for the re-registration of a birth[^c-885ab1023569ec5ddeac3d2cda6d5207][^c-e6fe03875f2d667c81170546289da33a]
 
 Form 2 shall be the prescribed form of the declaration to be made —
 
 - (a) by the mother under section 10A(1)(b)(i) and by the person stating himself to be the father under section 10A(1)(c)(i)of the Act; and
 - (b) by the mother under section 10A(1B)(b)(i) and by the person stating herself to be the other parent of the child under section 10A(1B)(c)(i) of the Act.
 
-### 17. Re-registration of birth[^key-43d35eca9630be363286e8b4d5fd8b63][^key-3fcf7bffb8bac3e5851b8b169d5f75b2]
+### 17. Re-registration of birth[^c-43d35eca9630be363286e8b4d5fd8b63][^c-3fcf7bffb8bac3e5851b8b169d5f75b2]
 
 (1) The relevant registrar shall re-register a birth under section 10A or 10A(1B) of the Act in accordance with the following provisions.
 
-(2) In a section 10A(1)(a) case, the registrar shall enter the particulars to be registered concerning the birth in spaces 1 to 13 on form 1, and call upon the mother and father to verify the particulars entered, and to sign the entry in space 14.[^key-9f7014095ac55c12b3d632bfd4005629]
+(2) In a section 10A(1)(a) case, the registrar shall enter the particulars to be registered concerning the birth in spaces 1 to 13 on form 1, and call upon the mother and father to verify the particulars entered, and to sign the entry in space 14.[^c-9f7014095ac55c12b3d632bfd4005629]
 
-- (a)[^key-815e57c1c22c7e7ab50cc380ccad249c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-815e57c1c22c7e7ab50cc380ccad249c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-9851710424e5a21d5ccf6cd5f081f75c] Where a mother or father separately attend, the registrar shall, after their signature—
+(2A)[^c-9851710424e5a21d5ccf6cd5f081f75c] Where a mother or father separately attend, the registrar shall, after their signature—
 
 - (i) in a section 10A(1)(b) case, add the words “Statutory declaration made by …   on …” inserting the name and surname of the person acknowledging himself as the father and the date on which the statutory declaration was made by him;
 - (ii) in a section 10A(1)(c) case, add the words, “Statutory declaration made by …   on …,” inserting the name and surname of the mother and the date on which the statutory declaration was made by her;
@@ -329,7 +329,7 @@ Form 2 shall be the prescribed form of the declaration to be made —
 - (vi) in a section 10A(1)(ff) case, add the words “Pursuant to section 10A(1)(ff) of the Births and Deaths Registration Act 1953”; or
 - (vii) in a section 10A(1)(g) case, add the words “Pursuant to section 10A(1)(g) of the Births and Deaths Registration Act 1953”.
 
-(3)[^key-27f87628c8bc04f58585619267ffe444] In a section 10A(1B)(a) case, the registrar shall enter the particulars to be registered concerning the birth in spaces 1 to 13 on form 1, and call upon the mother and other parent to verify the particulars entered, and to sign the entry in space 14.
+(3)[^c-27f87628c8bc04f58585619267ffe444] In a section 10A(1B)(a) case, the registrar shall enter the particulars to be registered concerning the birth in spaces 1 to 13 on form 1, and call upon the mother and other parent to verify the particulars entered, and to sign the entry in space 14.
 
 (4) Where the mother or other parent separately attend, the registrar shall, after their signature —
 
@@ -344,7 +344,7 @@ Form 2 shall be the prescribed form of the declaration to be made —
 
 (6) The registrar shall sign the entry in space 16, and add his official description.
 
-(7) Where a father, mother or other parent attends to register the birth [^key-4d6b384cd48ddda0f4069d275c84b0da]... before an officer mentioned in regulation 15 (Officers before whom statements may be made) that officer shall—
+(7) Where a father, mother or other parent attends to register the birth [^c-4d6b384cd48ddda0f4069d275c84b0da]... before an officer mentioned in regulation 15 (Officers before whom statements may be made) that officer shall—
 
 - (a) call upon the mother, father or other parent to make and sign a statement in form 2 in accordance with the authority of the Registrar General;
 - (b) attest the statement and deliver it to the relevant registrar together with the authority of the Registrar General and also —
@@ -361,12 +361,12 @@ Form 2 shall be the prescribed form of the declaration to be made —
   - (i) add the words “by declaration dated …”, inserting the date on which the declaration was made and signed; or
   - (ii) in a case under paragraph (b), (c), (d), (e), (f), (ff) or (g) of section 10A(1) make the further addition specified in paragraph 2(b) or under section 10A(1B)(b),(c),(d),(e),(f) or (g) make the further addition specified in paragraph 4;
 - (c) enter in space 15 the date on which the entry is made, adding the words “On the authority of the Registrar General”; and
-- (d) [^key-ec935b71e51692c2636e9287981ce64c]... sign the entry in space 16 and add his official description.[^M_F_a1496554-c777-40ba-922c-2692b56f50f1]
-- (e)[^key-f53aed18cd98fdd9cc6709ef963d081f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) [^c-ec935b71e51692c2636e9287981ce64c]... sign the entry in space 16 and add his official description.[^M_F_a1496554-c777-40ba-922c-2692b56f50f1]
+- (e)[^c-f53aed18cd98fdd9cc6709ef963d081f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In a section 10A(1)(ff) case, or a section 10A(1B)(g) case any reference in these Regulations to the mother shall be to another qualified informant in the case of the death or inability of the mother.
 
-### 18. Noting of previous entry[^key-18e52734e17972e944b3779891550477][^key-d611a4b8c87a3dba941ea0213fa8c137]
+### 18. Noting of previous entry[^c-18e52734e17972e944b3779891550477][^c-d611a4b8c87a3dba941ea0213fa8c137]
 
 Where the Registrar General has directed that there shall be a re-registration in accordance with this Part of these Regulations, the registrar or superintendent registrar who has custody of the register in which the birth was previously registered shall, when so directed by the Registrar General, enter a note in the margin of the entry with the following words—
 
@@ -375,17 +375,17 @@ Where the Registrar General has directed that there shall be a re-registration i
 
 ## PART V — RE-REGISTRATION OF BIRTHS OF LEGITIMATED PERSONS
 
-### 19. Attendance and particulars on re-registration[^key-b6e3e0378066d965c51ce6f2fa269f6d]
+### 19. Attendance and particulars on re-registration[^c-b6e3e0378066d965c51ce6f2fa269f6d]
 
 Where under section 14(1) of the Act[^f00015] the Registrar General authorises the re-registration of the birth of a legitimated person–
 
-- (a) except where Regulation 21 or 23 applies, and subject to section 14(2) of the Act[^f00016] (personal attendance as required by the Registrar General), a mother, father or other parent[^key-8292bac22adce6f23a9be29a98aa992f] of the legitimated person shall attend personally at the office of the relevant registrar for re-registration of the birth within such time as the Registrar General may direct;
-- (b) Regulation 7(2) shall apply as to the particulars to be recorded in respect of the mother, father or other parent[^key-d60b4ce175be0a6949c417785184ce83] except that–
-  - (i)[^key-b80741f803fcd31c0ec6af0ceed7acd1] in spaces 6 and 8b of form 1 (occupations) the occupations of the father and mother, or the other parent and mother[^key-e83b4f0863d0dd7c5b3aca3427c242b6] respectively need not be recorded as at both the date of birth and the date of the entry,
-  - (ii) in space 7 of form 1, the surname to be recorded in respect of the mother of the child shall be her surname immediately after[^key-6456871bd7d688e7444cdd99a6adf6eb] [^key-10dd6ffbf958f8b3465e3b555f99ec78]... her marriage to, or civil partnership with, the father or[^key-f95ad765ef0cc5cc33c75c7a4c047653] other parent, and
-  - (iii)[^key-19756859aabb978910c4d63f15f3c2dc] in space 9(b) of form 1 the surname (if any) to be entered shall be that in which the mother contracted her marriage or civil partnership to the father or other parent [^key-5f99607127985e228aea50aa63d618cf]... of the child prior to re-registration.
+- (a) except where Regulation 21 or 23 applies, and subject to section 14(2) of the Act[^f00016] (personal attendance as required by the Registrar General), a mother, father or other parent[^c-8292bac22adce6f23a9be29a98aa992f] of the legitimated person shall attend personally at the office of the relevant registrar for re-registration of the birth within such time as the Registrar General may direct;
+- (b) Regulation 7(2) shall apply as to the particulars to be recorded in respect of the mother, father or other parent[^c-d60b4ce175be0a6949c417785184ce83] except that–
+  - (i)[^c-b80741f803fcd31c0ec6af0ceed7acd1] in spaces 6 and 8b of form 1 (occupations) the occupations of the father and mother, or the other parent and mother[^c-e83b4f0863d0dd7c5b3aca3427c242b6] respectively need not be recorded as at both the date of birth and the date of the entry,
+  - (ii) in space 7 of form 1, the surname to be recorded in respect of the mother of the child shall be her surname immediately after[^c-6456871bd7d688e7444cdd99a6adf6eb] [^c-10dd6ffbf958f8b3465e3b555f99ec78]... her marriage to, or civil partnership with, the father or[^c-f95ad765ef0cc5cc33c75c7a4c047653] other parent, and
+  - (iii)[^c-19756859aabb978910c4d63f15f3c2dc] in space 9(b) of form 1 the surname (if any) to be entered shall be that in which the mother contracted her marriage or civil partnership to the father or other parent [^c-5f99607127985e228aea50aa63d618cf]... of the child prior to re-registration.
 
-### 20. Re-registration where mother, father or other parent attends[^key-6e3cf198cef7e421e4b15fb7bb301f08][^key-fbec96dadeb6c3b0bbf489c671d6b785]
+### 20. Re-registration where mother, father or other parent attends[^c-6e3cf198cef7e421e4b15fb7bb301f08][^c-fbec96dadeb6c3b0bbf489c671d6b785]
 
 Where the mother, father or other parent as the case may be, attend at the office of the relevant registrar to re-register a birth, the registrar must —
 
@@ -394,9 +394,9 @@ Where the mother, father or other parent as the case may be, attend at the offic
 - (c) enter in space 15 of form 1 the date on which the entry is made and add the words “On the authority of the Registrar General”; and
 - (d) sign the entry in space 16 of form 1 and add his official description.
 
-### 21. Making of declaration where parent does not attend[^key-745a5260181639416d2a6d254ac8ef97]
+### 21. Making of declaration where parent does not attend[^c-745a5260181639416d2a6d254ac8ef97]
 
-(1) Instead of attending personally at the office of the relevant registrar, a parent may [^key-8eeadadca786ce133fa9702b7ebbe4e4]... verify the particulars required on re-registration in accordance with the following provisions of this Regulation , provided that if the parent is not in England and Wales, he has obtained the written consent of the Registrar General[^key-a19b31b06b4184186e829d3181c14f48].
+(1) Instead of attending personally at the office of the relevant registrar, a parent may [^c-8eeadadca786ce133fa9702b7ebbe4e4]... verify the particulars required on re-registration in accordance with the following provisions of this Regulation , provided that if the parent is not in England and Wales, he has obtained the written consent of the Registrar General[^c-a19b31b06b4184186e829d3181c14f48].
 
 (2) A parent who is in England or Wales may verify the particulars by making and signing before any registrar other than the relevant registrar a declaration of the particulars on an approved form.
 
@@ -410,52 +410,52 @@ Where the mother, father or other parent as the case may be, attend at the offic
 - (b) in the case of a parent to whom sub-paragraph (a) above does not apply (and who is outside England and Wales), one of Her Majesty’s consular officers, a notary public and any other person who, in the place where the declaration is made, is authorised to administer oaths so however that a declaration made otherwise than before a consular officer shall be authenticated by such an officer if the Registrar General so requires;
 - (c) in the case of a parent who is a member of Her Majesty’s Forces and who is not in the United Kingdom, any officer who holds a rank not below that of Lieutenant-Commander, Major or Squadron-Leader.
 
-(6)[^key-52ca0f613be5f62f45ea233d8ba20e06] In this regulation parent means mother, father or other parent.
+(6)[^c-52ca0f613be5f62f45ea233d8ba20e06] In this regulation parent means mother, father or other parent.
 
-### 22. Re-registration in pursuance of declaration[^key-c39167ecdadfc465479bd5ed6f5e31fd]
+### 22. Re-registration in pursuance of declaration[^c-c39167ecdadfc465479bd5ed6f5e31fd]
 
 On receiving the Registrar General’s authority to re-register a birth together with his consent as to verification and the declaration made for the purposes of Regulation 21, the relevant registrar shall–
 
 - (a) copy the particulars recorded in the spaces of the declaration into the corresponding spaces of form 1;
-- (b) enter in space 12 of form 1 the qualification of the informant as “father” or “mother” or “other parent”[^key-3beb832cf7437739d9144a6fd946274c], as the case may be;
+- (b) enter in space 12 of form 1 the qualification of the informant as “father” or “mother” or “other parent”[^c-3beb832cf7437739d9144a6fd946274c], as the case may be;
 - (c) enter in space 14 of form 1 the name of the declarant in the form in which he signed the declaration and add the words “by declaration dated ”, inserting the date on which the declaration was made and signed;
 - (d) complete the entry as provided in regulation 20(3)(c) and (d).
 
-### 23. Re-registration where particulars not verified by parent[^key-fb4dd4b85f0666d555df8c11a397662b]
+### 23. Re-registration where particulars not verified by parent[^c-fb4dd4b85f0666d555df8c11a397662b]
 
-Where, in a case to which any of the provisos to section 14(1)[^f00017] of[^key-e0822bced1464433afbb51d41944bdc6] the Act applies, the Registrar General authorises the relevant registrar to re-register the birth of a legitimated person notwithstanding that the particulars to be registered have not been verified by either parent, the registrar shall–
+Where, in a case to which any of the provisos to section 14(1)[^f00017] of[^c-e0822bced1464433afbb51d41944bdc6] the Act applies, the Registrar General authorises the relevant registrar to re-register the birth of a legitimated person notwithstanding that the particulars to be registered have not been verified by either parent, the registrar shall–
 
 - (a) copy the particulars recorded in the spaces of the authority into the corresponding spaces of form 1;
 - (b) enter in space 14 the words “On the authority of the Registrar General” without any further entry in that space;
 - (c) enter in space 15 the date on which the entry is made and sign the entry in space 16, adding his official description.
 
-(2)[^key-64fb0e76458584748cbf5b383a774109] In this regulation, parent means mother, father or other parent.
+(2)[^c-64fb0e76458584748cbf5b383a774109] In this regulation, parent means mother, father or other parent.
 
-### 24. Noting of previous entry[^key-967ef493ed849833956ee2f6f3980346]
+### 24. Noting of previous entry[^c-967ef493ed849833956ee2f6f3980346]
 
 Where the birth of a legitimated person is re-registered in accordance with Regulation 20, 22 or 23 the superintendent registrar or registrar having custody of the register in which the birth was previously registered shall, when so directed by the Registrar General, note in the margin of the previous entry the words “Re-registered under section 14 of the Births and Deaths Registration Act 1953, on ”, inserting the date of the re-registration.
 
-### 25. Certified copies of re-registered entries[^key-fcd563b178f59f9cfa1af5c7e5424e38]
+### 25. Certified copies of re-registered entries[^c-fcd563b178f59f9cfa1af5c7e5424e38]
 
 Where an application is made to a superintendent registrar or registrar for a certified copy of the entry of the birth of a legitimated person whose birth has been re-registered in a register in his custody–
 
 - (a) he shall supply a certified copy of the entry of re-registration;
 - (b) a certified copy of the superseded entry shall not be supplied except with the authority of the Registrar General.
 
-### 26. Re-registration where person born at sea[^key-c235f335ddc8842a48e85aaca6ed4513]
+### 26. Re-registration where person born at sea[^c-c235f335ddc8842a48e85aaca6ed4513]
 
 (1) Where under section 14(1) of the Act the Registrar General authorises the re-registration of the birth of a legitimated person who was born at sea and whose birth was included in a return sent to the Registrar General–
 
-- (a) a mother, father or other parent[^key-48a85dd219b9299fb49d78c3d9e939bb] of the legitimated person shall verify the particulars required on re-registration by making and signing on an approved form a declaration of those particulars before a registrar or a relevant authority as defined in Regulation 21(5);
-- (b) the mother, father or other parent[^key-c87e9d770dd2e1cef142dfa23efeb3fd] shall send the declaration to the Registrar General.
+- (a) a mother, father or other parent[^c-48a85dd219b9299fb49d78c3d9e939bb] of the legitimated person shall verify the particulars required on re-registration by making and signing on an approved form a declaration of those particulars before a registrar or a relevant authority as defined in Regulation 21(5);
+- (b) the mother, father or other parent[^c-c87e9d770dd2e1cef142dfa23efeb3fd] shall send the declaration to the Registrar General.
 
-(2) In relation to any case to which this Regulation applies, section 14(1) of the Act shall apply with the modification that a person deputed for the purpose by the Registrar General shall on receiving the Registrar General’s authority, together with the declaration made by the mother, father or other parent[^key-cd0bad33703f5ebf58524455341c4cf3] under paragraph (1), effect re-registration by–
+(2) In relation to any case to which this Regulation applies, section 14(1) of the Act shall apply with the modification that a person deputed for the purpose by the Registrar General shall on receiving the Registrar General’s authority, together with the declaration made by the mother, father or other parent[^c-cd0bad33703f5ebf58524455341c4cf3] under paragraph (1), effect re-registration by–
 
 - (a) making the entry in a register to be kept at the General Register Office in form 7, copying the particulars recorded in the spaces of the authority into the corresponding spaces of the form;
 - (b) noting in the margin of any previous record of the birth in the custody of the Registrar General the words “Re-registered under section 14 of the Births and Deaths Registration Act 1953, on ”, inserting the date of re-registration; and
 - (c) sending a copy of the previous record, including a copy of the marginal note, certified under the seal of the General Register Office, to the authority from whom that record was received by the Registrar General.
 
-## PART VA — Re-registration of births after declaration of parentage or legitimacy[^key-0007e2310558c1694e944a482a286a49]
+## PART VA — Re-registration of births after declaration of parentage or legitimacy[^c-0007e2310558c1694e944a482a286a49]
 
 ### 26A. Particulars on re-registration
 
@@ -482,18 +482,18 @@ Where under section 14A of the Act the Registrar General authorises the re-regis
 
 ## PART VI — BIRTH ENTRIES OF ADOPTED CHILDREN
 
-### 27. Marking of birth entry of adopted child[^key-bcc48f4b95e1ce5788bbf627884a3e22]
+### 27. Marking of birth entry of adopted child[^c-bcc48f4b95e1ce5788bbf627884a3e22]
 
 (1) When so directed by the Registrar General acting pursuant to any of the relevant provisions, a superintendent registrar or a registrar shall–
 
-- (a) mark the entry specified in the direction with the word “Adopted” [^key-35af87b8b653af5d76d97d493c8ba418]... followed immediately, where the direction so specifies, by the name, in brackets, of the country in which the adoption order was made;
+- (a) mark the entry specified in the direction with the word “Adopted” [^c-35af87b8b653af5d76d97d493c8ba418]... followed immediately, where the direction so specifies, by the name, in brackets, of the country in which the adoption order was made;
 - (b) strike through any marking as to adoption in the margin of the entry specified in the direction and underneath write, as may be specified in the direction, the words “Adoption order quashed”, “Adoption order revoked”, “Appeal against adoption order allowed” or “Direction for the marking of this entry revoked”,
 
 and, after marking the entry or striking through the marking (as the case may be), the officer concerned shall add his signature and official description.
 
-(2) In paragraph (1) “the relevant provisions” means sections 77(6) of, and paragraphs 1(2), 2, 3(2)(a), 4(5)(b), (6)(b) and (9), 5 and 6(2)(b) of Schedule 1 to, the Adoption and Children Act 2002[^key-e7a7a2999435bf4c8248711d76e314fe].
+(2) In paragraph (1) “the relevant provisions” means sections 77(6) of, and paragraphs 1(2), 2, 3(2)(a), 4(5)(b), (6)(b) and (9), 5 and 6(2)(b) of Schedule 1 to, the Adoption and Children Act 2002[^c-e7a7a2999435bf4c8248711d76e314fe].
 
-### 28. Reproduction of marking in certified copy[^key-ac601c41b951226dde96a7e92f06a340]
+### 28. Reproduction of marking in certified copy[^c-ac601c41b951226dde96a7e92f06a340]
 
 Where–
 
@@ -505,33 +505,33 @@ the certified copy shall include a copy of the marking.
 
 ## PART VII — REGISTRATION OF BIRTHS OF ABANDONED CHILDREN
 
-### 29. Particulars to be registered[^key-5c53a222ec4153679fc647fc57377dd7]
+### 29. Particulars to be registered[^c-5c53a222ec4153679fc647fc57377dd7]
 
 The particulars required to be registered pursuant to section 3A(2)(c) of the Act[^f00020] (registration of births of abandoned children in register at the General Register Office) shall be those required in spaces 1 to 6 in form 8.
 
-### 30. Noting of previous entry[^key-6730e08e8ec51df06f6ca894bf304f7e]
+### 30. Noting of previous entry[^c-6730e08e8ec51df06f6ca894bf304f7e]
 
 Where the Registrar General re-registers a birth under section 3A(5) of the Act the superintendent registrar or registrar having custody of the register in which the birth was previously registered shall, when so directed by the Registrar General, note in the margin of the previous entry the words “Re-registered under section 3A(5) of the Births and Deaths Registration Act 1953 on ”, inserting the date of the re-registration as notified by the Registrar General.
 
 ## PART VIII — REGISTRATION OF STILL-BIRTHS
 
-### 31. Particulars to be registered and form of register[^key-b03b640b8e6b27c9d1f200bb266fe41f]
+### 31. Particulars to be registered and form of register[^c-b03b640b8e6b27c9d1f200bb266fe41f]
 
 The particulars concerning a still-birth required to be registered pursuant to section 1(1) of the Act[^f00021] shall, subject to the provisions of this Part of these Regulations, be those required in spaces 1 to 13 in form 9 and that form shall be the prescribed form for registration of still-births for the purposes of section 5 of the Act (which provides for registration of births free of charge).
 
-### 32. Certificate and declaration in connection with registration[^key-5a1899807916b9b368c493401e483d75]
+### 32. Certificate and declaration in connection with registration[^c-5a1899807916b9b368c493401e483d75]
 
 (1) The form of the certificate to be signed, pursuant to section 11(1)(a) of the Act[^f00022], by a registered medical practitioner or a registered midwife for delivery by the qualified informant to the registrar shall be form 10.
 
 (2) The form of the declaration to be made by a qualified informant, pursuant to section 11(1)(b) of the Act[^f00023], where no certificate is obtained shall be form 11.
 
-### 33. Reference to coroner[^key-73b5922dbb42f993cea7507215e5c3ae]
+### 33. Reference to coroner[^c-73b5922dbb42f993cea7507215e5c3ae]
 
-(1) Where the relevant registrar[^key-32793bfb967d8d788bdc67ab5279023d] is given information of an alleged still-birth and he has reason to believe that the child was born alive he shall report the matter to the coroner on an approved form.
+(1) Where the relevant registrar[^c-32793bfb967d8d788bdc67ab5279023d] is given information of an alleged still-birth and he has reason to believe that the child was born alive he shall report the matter to the coroner on an approved form.
 
 (2) The registrar shall not register a still-birth which to his knowledge has been reported to the coroner until he has received either a coroner’s certificate after inquest or a notification from the coroner that he does not intend to hold an inquest.
 
-### 33A. Report to the Registrar General[^key-d0bdedc72079bab75109ba4a779148bd]
+### 33A. Report to the Registrar General[^c-d0bdedc72079bab75109ba4a779148bd]
 
 (1) Where a relevant registrar is informed that a still-birth which occurred more than twelve months previously has not been registered, he shall make a report to the Registrar General stating, to the best of his knowledge and belief—
 
@@ -543,36 +543,36 @@ The particulars concerning a still-birth required to be registered pursuant to s
 
 (3) On being satisfied that the Registrar General has issued his written authority to the relevant registrar for the registration of the still-birth, that registrar, on registering the birth, shall enter in space 15 the words “on the authority of the Registrar General”.
 
-### 34. Registration where no reference to coroner[^key-a27ee221a88f9f593250e061ded69376]
+### 34. Registration where no reference to coroner[^c-a27ee221a88f9f593250e061ded69376]
 
-(1)[^key-142187c5293019ccd063395ca2b5ac0d] In the case of a still-birth in respect of which–
+(1)[^c-142187c5293019ccd063395ca2b5ac0d] In the case of a still-birth in respect of which–
 
-- (a) a certificate or a declaration, in a form prescribed under regulation 32,[^key-13e4945fedb6925561a3e55225f91d1f] has been delivered to the relevant registrar;
+- (a) a certificate or a declaration, in a form prescribed under regulation 32,[^c-13e4945fedb6925561a3e55225f91d1f] has been delivered to the relevant registrar;
 - (b) a report has not been, and is not required to be, made to the coroner; and
-- (c) [^key-4a1ccac8e6952f77605677c99369f9d3]... the relevant registrar receives [^key-0a79e9bb8b59a58cbd4dd2d132d1de3b]... from a qualified informant information of the particulars required to be registered concerning the birth,
+- (c) [^c-4a1ccac8e6952f77605677c99369f9d3]... the relevant registrar receives [^c-0a79e9bb8b59a58cbd4dd2d132d1de3b]... from a qualified informant information of the particulars required to be registered concerning the birth,
 
-the relevant registrar shall forthwith register the birth and the particulars, if not previously registered, [^key-a42824f2ad0b0879bdd5ba77584f3a1c]... on form 9, entering the particulars required in spaces 1 to 13.
+the relevant registrar shall forthwith register the birth and the particulars, if not previously registered, [^c-a42824f2ad0b0879bdd5ba77584f3a1c]... on form 9, entering the particulars required in spaces 1 to 13.
 
 (2) Regulations 7(2), 9 and 10 shall apply to the completion of form 9 as they apply to the completion of form 1 but with any necessary modifications, in particular the following–
 
-- (a) in space 1a[^key-7ad98c493794f1187e546e3089cacadb]–
+- (a) in space 1a[^c-7ad98c493794f1187e546e3089cacadb]–
   - (i) where a still-born child is found exposed and the date and place of the still-birth are unknown the registrar shall enter the words “Found on ”, inserting the relevant place and date,
-  - (ii)[^key-d807513b4944114a33657ae170e5c413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (aa)[^key-efbc367e5e2ac986cb7578bac337e1e5] in space 1(b) (name and surname) any name and surname given by the informant in respect of the child;
+  - (ii)[^c-d807513b4944114a33657ae170e5c413] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-efbc367e5e2ac986cb7578bac337e1e5] in space 1(b) (name and surname) any name and surname given by the informant in respect of the child;
 - (b) in space 2–
   - (i) where a certificate in form 10 has been produced, the registrar shall enter the cause of death precisely as stated in the certificate, followed by the words “Certified by ” and the name, surname and qualification of the registered medical practitioner or, as the case may be, the name and surname of the midwife and the words “Registered Midwife”,
   - (ii) where a declaration in form 11 has been produced, the registrar shall enter the words “Declaration by informant”,
 
   and, except where head (ii) applies, the informant shall not be required to verify the particulars entered in space 2.
 
-### 34A. Declaration and registration of a still-birth under section 9 of the Act[^key-25bf06f90ffd8f99fdb7145fae253496]
+### 34A. Declaration and registration of a still-birth under section 9 of the Act[^c-25bf06f90ffd8f99fdb7145fae253496]
 
 (1) In relation to a still-birth, the officer before whom a declaration for the purposes of section 9(1) of the Act (giving of information to a person other than the registrar may be made shall be any registrar) other than the relevant registrar.
 
 (2) The officer before whom the declaration is to be made shall—
 
 - (a) enter in the declaration the particulars required to be registered concerning the still-birth, using an approved form for the purpose;
-- (b) show or read the declaration to the informant and correct any error or omission, requiring the informant to initial any amendment if the declaration is prepared in manuscript, and then to sign the declaration[^key-05a8470bfe7a65ed893e327167cb002d];
+- (b) show or read the declaration to the informant and correct any error or omission, requiring the informant to initial any amendment if the declaration is prepared in manuscript, and then to sign the declaration[^c-05a8470bfe7a65ed893e327167cb002d];
 - (c) attest the declaration himself; and
 - (d) send the declaration and either the certificate in form 10 or the declaration in form 11 to the relevant registrar in accordance with section 11(1B)(b) of the Act.
 
@@ -589,14 +589,14 @@ the relevant registrar shall forthwith register the birth and the particulars, i
   - (ii) if he has received a declaration in form 11, as they appear in the corresponding spaces of the declaration for the purposes of section 9(1) of the Act, except that where those particulars have been corrected in pursuance of paragraph (3) he shall enter in the register only the particulars as corrected, omitting any incorrect particular which has been struck out and the initials of the declarant.
 - (c) in space 14 of form 9—
   - (i) he shall enter the name of the declarant in the form in which he signed the declaration and shall add the words “by declaration dated….”, inserting the date on which the declaration was made and signed;
-  - (ii) if, pursuant to section 9(4) of the Act, a request made under paragraph (b) or (c) of section 10(1) , or paragraphs (b) or (c) of section 10(1B)[^key-99c80e4e09aed8868874e1b43a0009a9] of the Act was included in the declaration, he shall after the words required by head (i) make the same addition as, on completion of registration under regulation 10, would be required under (as the case may be) head (ii) or (iii) of paragraph (1)(b) or (ii) or (iii) of paragraph (1)(c)[^key-173e2b67ec5528710195c905445ef9f0] of that regulation;
-  - (iii)[^key-beee0e4c73d013d230f9e156bf92fca4] if, pursuant to section 9(4A) of the Act, a request made under section 10ZA of the Act was included in the declaration, he shall after the words required by head (i) make the same addition as, on completion of registration under regulation 10, would be required under paragraph 1(d) of regulation 10[^key-0f162a25584419e28cbc3f9416fb1027];
+  - (ii) if, pursuant to section 9(4) of the Act, a request made under paragraph (b) or (c) of section 10(1) , or paragraphs (b) or (c) of section 10(1B)[^c-99c80e4e09aed8868874e1b43a0009a9] of the Act was included in the declaration, he shall after the words required by head (i) make the same addition as, on completion of registration under regulation 10, would be required under (as the case may be) head (ii) or (iii) of paragraph (1)(b) or (ii) or (iii) of paragraph (1)(c)[^c-173e2b67ec5528710195c905445ef9f0] of that regulation;
+  - (iii)[^c-beee0e4c73d013d230f9e156bf92fca4] if, pursuant to section 9(4A) of the Act, a request made under section 10ZA of the Act was included in the declaration, he shall after the words required by head (i) make the same addition as, on completion of registration under regulation 10, would be required under paragraph 1(d) of regulation 10[^c-0f162a25584419e28cbc3f9416fb1027];
 - (d) in space 15 of form 9 he shall enter the date on which the entry is made; and
 - (e) in space 16 of form 9 he shall sign the entry, adding his official description.
 
-### 35. Registration on coroner’s notification where no inquest is held[^key-e2636e20d97587586458e1045bafc27a]
+### 35. Registration on coroner’s notification where no inquest is held[^c-e2636e20d97587586458e1045bafc27a]
 
-(1) Where, in relation to[^key-a462700f8fc14dfd243baa8dd6e0658d] a still-birth which has not already been registered, the relevant registrar receives from a coroner notification that he does not intend to hold an inquest, the registrar shall, subject to paragraph (2)[^key-2975a3eff9c839daab745d9002200682], take such action as may be required to register the still-birth [^key-e00804dcbd449551904a81042fe94c14]... on form 9 in the presence of a qualified informant, entering the particulars required in spaces 1 to 13 in accordance with Regulation 34(2) or, if a declaration is made for the purposes of section 9(1) of the Act, in accordance with regulation 34A(4)[^key-17bad6c31d8e77057ce4d0dfda41c840].
+(1) Where, in relation to[^c-a462700f8fc14dfd243baa8dd6e0658d] a still-birth which has not already been registered, the relevant registrar receives from a coroner notification that he does not intend to hold an inquest, the registrar shall, subject to paragraph (2)[^c-2975a3eff9c839daab745d9002200682], take such action as may be required to register the still-birth [^c-e00804dcbd449551904a81042fe94c14]... on form 9 in the presence of a qualified informant, entering the particulars required in spaces 1 to 13 in accordance with Regulation 34(2) or, if a declaration is made for the purposes of section 9(1) of the Act, in accordance with regulation 34A(4)[^c-17bad6c31d8e77057ce4d0dfda41c840].
 
 (2) Where the coroner–
 
@@ -605,22 +605,22 @@ the relevant registrar shall forthwith register the birth and the particulars, i
 
 the registrar shall enter in space 2 of form 9 the cause of death precisely as stated in the certificate, followed by the words “Certified by after post-mortem held by direction of ”, inserting respectively the name, surname and qualification of the registered medical practitioner who made the examination and the name, surname and description of the coroner.
 
-(3)[^key-51bc2702bfc0ca4166f09043ca47324c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-51bc2702bfc0ca4166f09043ca47324c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Registration on coroner’s certificate after inquest[^key-b52e4d7390f4d42cd050ba339cf5884e]
+### 36. Registration on coroner’s certificate after inquest[^c-b52e4d7390f4d42cd050ba339cf5884e]
 
-(1) Where [^key-2d2859b66f7b6c96c59949a7771780d4]... the relevant registrar receives a coroner’s certificate after inquest from which it appears that the child was still-born or that there was not sufficient evidence to show that the child was born alive, the registrar shall forthwith register the still-birth and the particulars (whether or not already registered) on form 9 as follows–
+(1) Where [^c-2d2859b66f7b6c96c59949a7771780d4]... the relevant registrar receives a coroner’s certificate after inquest from which it appears that the child was still-born or that there was not sufficient evidence to show that the child was born alive, the registrar shall forthwith register the still-birth and the particulars (whether or not already registered) on form 9 as follows–
 
-- (a) in spaces 1 a, 1b[^key-fd5b9c6291badad8f7731961c6ea95de] and 3 to 10, he shall enter, precisely as stated in the coroner’s certificate, the particulars contained in the certificate as the particulars to be entered in the respective spaces;
+- (a) in spaces 1 a, 1b[^c-fd5b9c6291badad8f7731961c6ea95de] and 3 to 10, he shall enter, precisely as stated in the coroner’s certificate, the particulars contained in the certificate as the particulars to be entered in the respective spaces;
 - (b) in space 2, he shall enter the cause of death precisely as stated in the coroner’s certificate followed by the words “Certificate after inquest held on ”, inserting the date of the inquest as stated in the certificate;
 - (c) in spaces 11 and 12 together, he shall enter the name, surname and description of the coroner;
 - (d) he shall draw a line through spaces 13 and 14;
 - (e) in space 15, he shall enter the date on which the entry is made;
 - (f) in space 16 he shall sign the entry and add his official description.
 
-(2)[^key-1a29d2c473e46bb629930405c92eb7de] If the still-birth has already been registered, the relevant registrar shall register the still-birth and the particulars in accordance with paragraph (1) without making any alteration of the original entry.
+(2)[^c-1a29d2c473e46bb629930405c92eb7de] If the still-birth has already been registered, the relevant registrar shall register the still-birth and the particulars in accordance with paragraph (1) without making any alteration of the original entry.
 
-### 37. Noting of previous entry after coroner’s certificate after inquest[^key-78a8ac310d08f24285c27c9b0b89cbe7]
+### 37. Noting of previous entry after coroner’s certificate after inquest[^c-78a8ac310d08f24285c27c9b0b89cbe7]
 
 Where, in any case to which Regulation 36 applies, the registrar ascertains that an entry in respect of the child has previously been made in any register of live-births, still-births or deaths he shall, after registering the still-birth in accordance with that Regulation–
 
@@ -631,7 +631,7 @@ Where, in any case to which Regulation 36 applies, the registrar ascertains that
 
 ## PART IX — DISPOSAL OF BODIES OF STILL-BORN CHILDREN
 
-### 38. Certificates for disposal[^key-135154409e55409e5e5717c9df8b26d7]
+### 38. Certificates for disposal[^c-135154409e55409e5e5717c9df8b26d7]
 
 (1) The form of the certificate of a registrar to be given under section 11(2) of the Act[^f00024] (preliminaries to disposal of body) that he has registered a still-birth shall be form 12.
 
@@ -642,21 +642,21 @@ Where, in any case to which Regulation 36 applies, the registrar ascertains that
 
 ## PART X — REGISTRATION OF DEATHS
 
-### 39. Particulars to be registered[^key-12c8ac9a0f76875146a0b107bb2e1c83]
+### 39. Particulars to be registered[^c-12c8ac9a0f76875146a0b107bb2e1c83]
 
-The particulars concerning a death required to be registered pursuant to section 15 of the Act shall, subject to the provisions of this Part of these Regulations, be those required in spaces 1 to 7 and 9[^key-29920ebd610116df621fc0c5e05d906b] in form 13 and that form shall be the prescribed form for registration of deaths for the purpose of section 20 of the Act (which provides for registration of deaths free of charge).
+The particulars concerning a death required to be registered pursuant to section 15 of the Act shall, subject to the provisions of this Part of these Regulations, be those required in spaces 1 to 7 and 9[^c-29920ebd610116df621fc0c5e05d906b] in form 13 and that form shall be the prescribed form for registration of deaths for the purpose of section 20 of the Act (which provides for registration of deaths free of charge).
 
-### 40. Certificate of cause of death[^key-b23457b90fbbde7225e29d23109f1544][^key-640e1fbde281a3ca2bef07315875bee9]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 41. Reference to coroner[^key-ee2d45335246996becce7e1ddc0d28cb]
+### 40. Certificate of cause of death[^c-b23457b90fbbde7225e29d23109f1544][^c-640e1fbde281a3ca2bef07315875bee9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 42. Registration where no report to coroner[^key-bfe5c72b84e74fb787767fec4dfaacdd][^key-5afe2089dce86f196a68463853b0a7b4]
+### 41. Reference to coroner[^c-ee2d45335246996becce7e1ddc0d28cb]
 
-(1)[^key-512efdb542b8c3d0f6e95461200fca9d] Paragraph (1A) applies where—
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 42. Registration where no report to coroner[^c-bfe5c72b84e74fb787767fec4dfaacdd][^c-5afe2089dce86f196a68463853b0a7b4]
+
+(1)[^c-512efdb542b8c3d0f6e95461200fca9d] Paragraph (1A) applies where—
 
 - (a) the relevant registrar receives from any qualified informant information of the particulars required to be registered concerning a person’s death;
 - (b) no investigation into the death under Part 1 of the 2009 Act is conducted; and
@@ -675,58 +675,58 @@ The particulars concerning a death required to be registered pursuant to section
 
 (3) In space 6 (occupation and usual address of deceased person)–
 
-- (a) where the deceased was a child under the age of 16 years, the registrar shall enter the words “son \[*or* daughter\] of ”, inserting the name, surname and occupation of the father, or other parent,[^key-d2c5195deefdc2248051157f7bcf203e] if that information is given, and the name, surname and occupation of the mother preceded where appropriate by the word “and” so however that if–
-  - (i)[^key-154b41a28e16dd920f63f009f6859c32] the names and surnames of the mother, father and other parent are to be entered, whichever is appropriate, and the surname of the mother if it is different from the surname of the father or other parent
-  - (ii)[^key-5c65a83e4da1cc4e117a578be68d2bf3] it is within the knowledge of the informant that the mother was known by the surname of the father or the surname of the other parent at any time during the lifetime of the child,
+- (a) where the deceased was a child under the age of 16 years, the registrar shall enter the words “son \[*or* daughter\] of ”, inserting the name, surname and occupation of the father, or other parent,[^c-d2c5195deefdc2248051157f7bcf203e] if that information is given, and the name, surname and occupation of the mother preceded where appropriate by the word “and” so however that if–
+  - (i)[^c-154b41a28e16dd920f63f009f6859c32] the names and surnames of the mother, father and other parent are to be entered, whichever is appropriate, and the surname of the mother if it is different from the surname of the father or other parent
+  - (ii)[^c-5c65a83e4da1cc4e117a578be68d2bf3] it is within the knowledge of the informant that the mother was known by the surname of the father or the surname of the other parent at any time during the lifetime of the child,
 
   the registrar shall enter in respect of the mother that surname followed by her name and surname as at the death of the child preceded by the word “now” or, if the mother is deceased, the name and surname as at her death preceded by the word “afterwards”;
-- (b) where the deceased was a married woman or widow, the registrar shall, after her occupation enter the words “Wife \[*or* Widow\] of ”, inserting the name, surname and occupation of her spouse[^key-f021ff5a2fe707875361c7a7cfced39e] or deceased spouse.
-- (ba)[^key-c476fbac5d3334475573f9f0b4ebab01] where the deceased was a married man or widower, the registrar shall, after his occupation enter the words “Husband \[or Widower\] of …”, inserting the name, surname and occupation of his spouse[^key-cba7b49313c39d41106b5db5ca70ce9c] or deceased spouse;
+- (b) where the deceased was a married woman or widow, the registrar shall, after her occupation enter the words “Wife \[*or* Widow\] of ”, inserting the name, surname and occupation of her spouse[^c-f021ff5a2fe707875361c7a7cfced39e] or deceased spouse.
+- (ba)[^c-c476fbac5d3334475573f9f0b4ebab01] where the deceased was a married man or widower, the registrar shall, after his occupation enter the words “Husband \[or Widower\] of …”, inserting the name, surname and occupation of his spouse[^c-cba7b49313c39d41106b5db5ca70ce9c] or deceased spouse;
 - (bb) where the deceased was a civil partner or surviving civil partner, the registrar shall, after his occupation enter the words “Civil partner \[or Surviving civil partner\] of …”, inserting the name, surname and occupation of his civil partner or deceased civil partner.
-- (bc)[^key-ac31ff67d9d224eb8eadf4f50bf12dae] the name, surname and occupation of adoptive parent(s) shall also be entered in space 6.
+- (bc)[^c-ac31ff67d9d224eb8eadf4f50bf12dae] the name, surname and occupation of adoptive parent(s) shall also be entered in space 6.
 
-(4)[^key-1d608331e3a1b12cc3d4636ea6c964c2] In space 9 (cause of death) the registrar—
+(4)[^c-1d608331e3a1b12cc3d4636ea6c964c2] In space 9 (cause of death) the registrar—
 
 - (a) shall enter the cause of death precisely as stated in the confirmed attending practitioner’s certificate, or in the medical examiner’s certificate, and
 - (b) shall enter the words—
   - (i) “Established by .. ...”, inserting the name, surname and qualifications of the attending practitioner who signed the attending practitioner’s certificate, as stated in the certificate, followed by the words “Scrutinised and confirmed by .. .. Medical Examiner”, inserting the name, surname and qualifications of the medical examiner who confirmed the cause of death, as stated in the certificate, or
   - (ii) “Established and confirmed by .. .. Medical Examiner, following referral by a coroner”, inserting the name, surname and qualifications of the medical examiner who signed the medical examiner’s certificate, as stated in the certificate.
 
-(5) After entering the required particulars in spaces 1 to 7 and 9[^key-9eefd5c1157508f84ec3bca34c21cf11], the registrar shall call upon the informant to verify the particulars in spaces 1 to 7.
+(5) After entering the required particulars in spaces 1 to 7 and 9[^c-9eefd5c1157508f84ec3bca34c21cf11], the registrar shall call upon the informant to verify the particulars in spaces 1 to 7.
 
-(6) If any error has been made in those particulars, the registrar shall, in the presence of the informant, make the necessary correction as provided in Regulation 54 when the entry is being prepared in manuscript[^key-1855027fd49edaaf5f665f9a43d4bd00].
+(6) If any error has been made in those particulars, the registrar shall, in the presence of the informant, make the necessary correction as provided in Regulation 54 when the entry is being prepared in manuscript[^c-1855027fd49edaaf5f665f9a43d4bd00].
 
 (7) The registrar shall then–
 
-- (a) call upon the informant to sign the entry in space 8[^key-0858740cbbf2f1ea1180a85380d6fba9];
+- (a) call upon the informant to sign the entry in space 8[^c-0858740cbbf2f1ea1180a85380d6fba9];
 - (b) enter in space 10 the date on which the entry is made; and
 - (c) sign the entry in space 11, adding his official description.
 
-### 42A. Declaration and registration under section 23A of the Act[^key-e5690aca640423abb9511f134f4f1568]
+### 42A. Declaration and registration under section 23A of the Act[^c-e5690aca640423abb9511f134f4f1568]
 
 (1) The officer before whom a declaration for the purposes of section 23A of the Act (giving of information concerning a death to a person other than the registrar) may be made shall be any registrar other than the relevant registrar.
 
 (2) The officer before whom the declaration is to be made shall—
 
 - (a) enter in the declaration the particulars required to be registered concerning the death, using an approved form for the purpose;
-- (b) show or read the particulars entered on the form to the informant and correct any error or omission, where the declaration is being prepared in manuscript[^key-759e3fe53c9fddeddfcba6c30175a0c6] requiring the informant to initial any amendment and then to sign the declaration;
+- (b) show or read the particulars entered on the form to the informant and correct any error or omission, where the declaration is being prepared in manuscript[^c-759e3fe53c9fddeddfcba6c30175a0c6] requiring the informant to initial any amendment and then to sign the declaration;
 - (c) attest the declaration himself; and
 - (d) send the declaration to the relevant registrar in accordance with section 23A(3) of the Act.
 
-(3) Where[^key-1e8b065e655da0a737c8ad4ef5a1bdc2] it appears to the relevant registrar that the particulars contained in the declaration are in any material respect not proper to be registered, he shall return the declaration to the officer before whom it was attested together with a note of the matters in which it appears to need amendment, and—
+(3) Where[^c-1e8b065e655da0a737c8ad4ef5a1bdc2] it appears to the relevant registrar that the particulars contained in the declaration are in any material respect not proper to be registered, he shall return the declaration to the officer before whom it was attested together with a note of the matters in which it appears to need amendment, and—
 
-- (a) that officer shall then [^key-1c497eceeb23d22e712d240ad13ec97e]... amend any error by striking out any incorrect particulars and inserting the correct particulars;
+- (a) that officer shall then [^c-1c497eceeb23d22e712d240ad13ec97e]... amend any error by striking out any incorrect particulars and inserting the correct particulars;
 - (b) any amendment so made shall be initialled by the declarant and the declaration shall be returned to the relevant registrar.
 
 (4) On receiving the declaration the registrar shall, subject to paragraph (3), enter the particulars of the death in the register in the following manner—
 
 - (a) in spaces 1 to 7 of form 13, he shall enter the particulars as appearing in the corresponding spaces of the declaration, except that where any particulars have been corrected in pursuance of paragraph (3) he shall enter in the register only the particulars as corrected, omitting any incorrect particular which has been struck out and the initials of the declarant;
-- (b) in space 9[^key-d756ef90c5f1d06019fa57d8982db0bb] of form 13 he shall enter the cause of death as it appears in the confirmed attending practitioner’s certificate or in the medical examiner’s certificate given to the registrar in accordance with regulations under section 20 of the 2009 Act[^key-271c28618b78e0b292809e69169661a2];
-- (c) in space 8[^key-e2ed0987aced78a129df05afffa11409] of form 13 he shall enter the name of the declarant in the form in which he signed the declaration and shall add the words “by declaration dated ”, inserting the date on which the declaration was made and signed;
+- (b) in space 9[^c-d756ef90c5f1d06019fa57d8982db0bb] of form 13 he shall enter the cause of death as it appears in the confirmed attending practitioner’s certificate or in the medical examiner’s certificate given to the registrar in accordance with regulations under section 20 of the 2009 Act[^c-271c28618b78e0b292809e69169661a2];
+- (c) in space 8[^c-e2ed0987aced78a129df05afffa11409] of form 13 he shall enter the name of the declarant in the form in which he signed the declaration and shall add the words “by declaration dated ”, inserting the date on which the declaration was made and signed;
 - (d) in space 10 of form 13 he shall enter the date on which the entry is made; and
 - (e) in space 11 of form 13 he shall sign the entry, adding his official description.
 
-### 43. Registration where inquest is not held[^key-fa3f8c12d739164f7a6aceb97c5b956d]
+### 43. Registration where inquest is not held[^c-fa3f8c12d739164f7a6aceb97c5b956d]
 
 (1)  Where the registrar is notified by the coroner that an investigation into a death has been discontinued under section 4 of the 2009 Act and the coroner certifies the cause of death in his notification, the registrar shall, subject to paragraph (2), take such action as may be required to register the death and the particulars on form 13, in accordance with regulation 42(2) to (7) or, if a declaration is made for the purposes of section 23A of the Act, in accordance with regulation 42A(4).
 
@@ -749,7 +749,7 @@ as the case may be, inserting in the places provided the name, surname and descr
 
 (6) This regulation is subject to regulation 43A.
 
-### 43A. Registration where a coroner’s certificate is provided to the registrar on request by the registrar[^key-1016d1f699c274febf1d646b5709a7c0]
+### 43A. Registration where a coroner’s certificate is provided to the registrar on request by the registrar[^c-1016d1f699c274febf1d646b5709a7c0]
 
 (1)  This regulation applies where a death has not already been registered and—
 
@@ -765,43 +765,43 @@ as the case may be, inserting in the places provided the name, surname and descr
 - (b) in spaces 7.(b), 7.(c) the registrar shall enter no particulars and draw a line through those spaces;
 - (c) in space 9 the registrar shall enter the cause of death precisely as stated in the certificate from the coroner, in accordance with regulation 43(2).
 
-### 44. Noting of existing entry on coroner’s notification of cause of death[^key-fce78c3309b248e543c191c3526e1b7a]
+### 44. Noting of existing entry on coroner’s notification of cause of death[^c-fce78c3309b248e543c191c3526e1b7a]
 
-Where the registrar receives a notification as mentioned in Regulation 43(1)[^key-ab1ff80aa245e3e2f7e5d92f3d2d0ae3] in respect of a death which he has already registered on the information of a qualified informant–
+Where the registrar receives a notification as mentioned in Regulation 43(1)[^c-ab1ff80aa245e3e2f7e5d92f3d2d0ae3] in respect of a death which he has already registered on the information of a qualified informant–
 
-- (a) if the register containing the entry is in his custody, he shall, without altering the entry in space 9[^key-975fb558e27ad0a9ab2dfa5d675045ae] of form 13, enter in its margin the words “ Inquest discontinued under section 4 of the Coroners and Justice Act 2009 by .. ..[^key-73da959c1db1148a1845c2ccd207acf9]”, inserting the name, surname and description of the coroner, followed by the words “and cause of death disclosed as ”, inserting the cause of death as certified by the coroner;
+- (a) if the register containing the entry is in his custody, he shall, without altering the entry in space 9[^c-975fb558e27ad0a9ab2dfa5d675045ae] of form 13, enter in its margin the words “ Inquest discontinued under section 4 of the Coroners and Justice Act 2009 by .. ..[^c-73da959c1db1148a1845c2ccd207acf9]”, inserting the name, surname and description of the coroner, followed by the words “and cause of death disclosed as ”, inserting the cause of death as certified by the coroner;
 - (b) if the register containing the entry is in the custody of the superintendent registrar, he shall deliver the notification to the superintendent registrar who shall, without altering the entry of the death, enter in its margin the particulars required by paragraph (a).
 
-### 44A. Registration after receipt of declaration and coroner’s notification of cause of death[^key-ad4e607f3d9799e9f54b9aaa020d36df]
+### 44A. Registration after receipt of declaration and coroner’s notification of cause of death[^c-ad4e607f3d9799e9f54b9aaa020d36df]
 
-Where the registrar receives a notification as mentioned in regulation 43(1)[^key-949dc1b8a7ad3a62d54f02e621fbd011] in respect of a death in respect of which a declaration has been made for the purposes of section 23A of the Act, but that death has not yet been registered, he shall register that death in accordance with regulation 42A and shall enter in the margin of the entry the particulars required by regulation 44(a).
+Where the registrar receives a notification as mentioned in regulation 43(1)[^c-949dc1b8a7ad3a62d54f02e621fbd011] in respect of a death in respect of which a declaration has been made for the purposes of section 23A of the Act, but that death has not yet been registered, he shall register that death in accordance with regulation 42A and shall enter in the margin of the entry the particulars required by regulation 44(a).
 
-### 45. Registration after inquest , or after an investigation by the coroner is suspended[^key-e0380d70853753bb99752cc12d9ffd85][^key-f430a053ee5d28289a7fec8acf84a1db]
+### 45. Registration after inquest , or after an investigation by the coroner is suspended[^c-e0380d70853753bb99752cc12d9ffd85][^c-f430a053ee5d28289a7fec8acf84a1db]
 
-Where the relevant registrar receives with reference to a death a coroner’s certificate after an inquest, or after an investigation is suspended under Schedule 1 to the 2009 Act or under section 7(1B) and (2) of the Visiting Forces Act 1952, the relevant registrar shall register the death (whether or not it has already been registered) as follows[^key-9ca57f7c50dcaefc96f1c2364ebad0bc]–
+Where the relevant registrar receives with reference to a death a coroner’s certificate after an inquest, or after an investigation is suspended under Schedule 1 to the 2009 Act or under section 7(1B) and (2) of the Visiting Forces Act 1952, the relevant registrar shall register the death (whether or not it has already been registered) as follows[^c-9ca57f7c50dcaefc96f1c2364ebad0bc]–
 
-- (a) in spaces 1 to 6 and 9[^key-3ac242533ebf52dcf9ae521d55b43cfa] in form 13, he shall enter the particulars contained in the certificate, precisely as stated in the certificate, except that if any person is named in the certificate as having caused the death his name and surname shall be omitted;
+- (a) in spaces 1 to 6 and 9[^c-3ac242533ebf52dcf9ae521d55b43cfa] in form 13, he shall enter the particulars contained in the certificate, precisely as stated in the certificate, except that if any person is named in the certificate as having caused the death his name and surname shall be omitted;
 - (b) in space 7–
   - (i) subject to head (ii) below, he shall enter the words “Certificate received from ”, inserting the name, surname and description of the coroner followed by the words “Inquest held on ”, inserting the date of inquest as stated in the certificate,
   - (ii) if the inquest was adjourned, instead of the words “Certificate received from” he shall enter the words “Certificate on inquest adjourned received from”,
-- (c) he shall draw a line through space 8[^key-c2ec3db47344e5d08301afeee89c1b5c];
+- (c) he shall draw a line through space 8[^c-c2ec3db47344e5d08301afeee89c1b5c];
 - (d) in space 10, he shall enter the date on which the entry is made;
 - (e) in space 11, he shall sign the entry and add his official description.
 
-### 46. Noting of previous entry on registration after inquest[^key-1bc70734416b6d1a722835f3eac0504c]
+### 46. Noting of previous entry on registration after inquest[^c-1bc70734416b6d1a722835f3eac0504c]
 
-Where under regulation 45 [^key-790aaae7611d23e4ea6b718dfd66c788]... the registrar registers a death which has already been registered on the information of a qualified informant–
+Where under regulation 45 [^c-790aaae7611d23e4ea6b718dfd66c788]... the registrar registers a death which has already been registered on the information of a qualified informant–
 
 - (a) if the registrar has custody of the register containing the previous entry, he shall, without altering that entry, write in its margin the words “Re-registered on coroner’s certificate at entry No ”, inserting the number of the new entry;
 - (b) where the previous entry is in a register in the custody of a superintendent registrar, he shall give him a copy of the new entry together with particulars of the previous entry whereupon the superintendent registrar shall, without altering the previous entry, write in its margin the words “Re-registered on coroner’s certificate at entry No in register No ”, inserting the number of the new entry and of the register.
 
-### 47. Registration after twelve months[^key-0e41d962f1c222c3a3fc867496b35152][^key-d12bcdb815b0642aac84b49c36c063c4]
+### 47. Registration after twelve months[^c-0e41d962f1c222c3a3fc867496b35152][^c-d12bcdb815b0642aac84b49c36c063c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART XI — DISPOSAL OF BODIES OF DECEASED PERSONS
 
-### 48. Interpretation of Part XI[^key-f53eea579980038a394d288448ce6032]
+### 48. Interpretation of Part XI[^c-f53eea579980038a394d288448ce6032]
 
 In this Part of these Regulations–
 
@@ -809,28 +809,28 @@ In this Part of these Regulations–
 - “certificate for disposal” means any certificate under subsection (1) of section 24 of the Act (certificates as to receipt of notice of and as to registration of death) and “certificate for disposal before registration” means a certificate of a registrar under that subsection that he has received written notice of a death;
 - “notification of disposal” means a notification as to the date, place and means of disposal of the body of a deceased person which a person effecting the dis-posal is required by section 3(1) of the 1926 Act to deliver to the relevant registrar.
 
-### 49. Certificates and declaration for disposal[^key-6df3afe6ec24558f0b840dee73993b75]
+### 49. Certificates and declaration for disposal[^c-6df3afe6ec24558f0b840dee73993b75]
 
 (1) A certificate for disposal shall be given by the relevant registrar on an approved form which, for the use of the person effecting the disposal, shall embody a form of notification of disposal in form 17.
 
-(2) A registrar may give a certificate for disposal before registration for the purpose of burial or cremation, in England and Wales, but only[^key-a78cdab82cc06c652255f072f6c4eaf0]–
+(2) A registrar may give a certificate for disposal before registration for the purpose of burial or cremation, in England and Wales, but only[^c-a78cdab82cc06c652255f072f6c4eaf0]–
 
 - (a) if the death is one which is not required to be reported to the coroner; or
 - (b) if the death has been reported, unless the registrar has received a coroner’s certificate after inquest or a notification from a coroner that he does not intend to hold an inquest and the registrar is satisfied that a coroner’s order has not been issued authorising the disposal of the body.
 
 (3) The form of a declaration for the purpose of the proviso to section 1(1) of the 1926 Act (disposal by burial on declaration that certificate of registrar or order of coroner has been issued) shall be form 18.
 
-(4)[^key-f1ca99aca8eba2453f175091e5b95c3e] Where a confirmed attending practitioner’s certificate, or a medical examiner certificate given to the registrar in accordance with regulations under section 20 of the 2009 Act, embodies medical device information in accordance with those regulations, the registrar shall furnish the medical device information to the person giving information concerning the death, together with the approved form given under paragraph (1).
+(4)[^c-f1ca99aca8eba2453f175091e5b95c3e] Where a confirmed attending practitioner’s certificate, or a medical examiner certificate given to the registrar in accordance with regulations under section 20 of the 2009 Act, embodies medical device information in accordance with those regulations, the registrar shall furnish the medical device information to the person giving information concerning the death, together with the approved form given under paragraph (1).
 
-### 50. Notification of disposal[^key-953ad8acb4f194f4491b0ac7b8fc076e]
+### 50. Notification of disposal[^c-953ad8acb4f194f4491b0ac7b8fc076e]
 
 The person effecting the disposal of the body of a deceased person shall–
 
-- (a)[^key-6f61f6a58d84b20f4428318a89b8f634] write, sign and date the notification of disposal embodied in form 17 or in the coroner’s order with regard to the deceased, and deliver the notification to the relevant registrar; or
+- (a)[^c-6f61f6a58d84b20f4428318a89b8f634] write, sign and date the notification of disposal embodied in form 17 or in the coroner’s order with regard to the deceased, and deliver the notification to the relevant registrar; or
 - (aa) where a certificate under regulation 49(1) is issued in an approved electronic form, notify the relevant registrar of the disposal in an approved electronic form; or
 - (b) where a declaration has been made as mentioned in regulation 49(3), notify the relevant registrar in writing in the terms used in form 17.
 
-### 51. Enquiry in default of notification of disposal[^key-b4f4049e2550557205444a35aa68aa9e]
+### 51. Enquiry in default of notification of disposal[^c-b4f4049e2550557205444a35aa68aa9e]
 
 (1) The period after the issue of a certificate for disposal, or a coroner’s order authorising the disposal of the body, on the expiration of which the registrar (if he has not previously received a notification for disposal) is required to make enquiry under section 24(5) of the Act shall be a period of 14 days after the date of the issue of the certificate of order.
 
@@ -841,31 +841,31 @@ The person effecting the disposal of the body of a deceased person shall–
 - (a) he shall immediately ask the person effecting the disposal of the body to deliver the notification to him; and
 - (b) if the notification is not received within three days he shall report the matter to the Registrar General.
 
-### 52. Certificate that death is not required to be registered[^key-92465462916e8970651975b3b8d676eb]
+### 52. Certificate that death is not required to be registered[^c-92465462916e8970651975b3b8d676eb]
 
 The form of a certificate of a registrar for the purposes of section 24(2) of the Act that a death is not required to be registered in England or Wales shall be form 19.
 
 ## PART XII — CORRECTION OF ERRORS
 
-### 53. Time when entry is complete[^key-5cafbcec3185a1e5c8d81105f353d646]
+### 53. Time when entry is complete[^c-5cafbcec3185a1e5c8d81105f353d646]
 
 An entry of a birth or death made by a registrar shall for the purposes of these Regulations be deemed to have been completed when the registrar has signed the entry and added his official description.
 
-### 54. Correction of entry before completion[^key-418071cd7e416216762ac359cfdf902e]
+### 54. Correction of entry before completion[^c-418071cd7e416216762ac359cfdf902e]
 
-(1) Where under these Regulations a registrar is required to correct an error in an entry , which he is preparing in manuscript[^key-cbed03753bf016f2286f3ff9aca2fcfa] of a birth or death before the completion of the entry, he shall, subject to paragraph (2), make the correction in the following manner–
+(1) Where under these Regulations a registrar is required to correct an error in an entry , which he is preparing in manuscript[^c-cbed03753bf016f2286f3ff9aca2fcfa] of a birth or death before the completion of the entry, he shall, subject to paragraph (2), make the correction in the following manner–
 
 - (a) if a word is incorrect, he shall strike it out by a line drawn through it, but so that the word remains legible, and shall write the correct word above it;
 - (b) if in any group of figures one or more is incorrect, he shall strike out all the figures by a line drawn through them, but so that they remain legible, and shall write the correct figures above them;
 - (c) if a word has been omitted, he shall place a caret where the omission occurs and above the caret he shall write the omitted word, except that if there is sufficient space he shall write the word where the omission occurs and underline it;
-- (d)[^key-16f49ae00b0ece7aed1fa42057135826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-16f49ae00b0ece7aed1fa42057135826] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) if the particulars required to be entered in any two spaces have been inadvertently transposed, the registrar shall, without any other correction, write in the margin of the entry a note of the error in the following form: “The particulars in and inadvertently transposed”, inserting the numbers of the spaces and adding his initials.
 
-(2) If it appears that an error has been made in his signature, the informant shall make the correction[^key-82f386910a1da7adae514e4ff951c149]....
+(2) If it appears that an error has been made in his signature, the informant shall make the correction[^c-82f386910a1da7adae514e4ff951c149]....
 
-### 55. Correction of minor clerical errors after completion[^key-d87f444de81e9be6981b1aaabf6d73f8]
+### 55. Correction of minor clerical errors after completion[^c-d87f444de81e9be6981b1aaabf6d73f8]
 
-(1) Where it appears or is represented to the superintendent registrar or the registrar that in any completed entry made [^key-5edba2fdf4b1cfc6207a9000a485a7d7]... in a register of live-births, still-births or deaths in his custody there is any clerical error to which this Regulation applies he shall, correct the error as provided in regulation 55(3)[^key-21bfffc5ea13d369d00b1cc7a8be6955].
+(1) Where it appears or is represented to the superintendent registrar or the registrar that in any completed entry made [^c-5edba2fdf4b1cfc6207a9000a485a7d7]... in a register of live-births, still-births or deaths in his custody there is any clerical error to which this Regulation applies he shall, correct the error as provided in regulation 55(3)[^c-21bfffc5ea13d369d00b1cc7a8be6955].
 
 (2) The clerical errors to which this Regulation applies are–
 
@@ -877,26 +877,26 @@ An entry of a birth or death made by a registrar shall for the purposes of these
 - (b) the incorrect statement or omission–
   - (i) in the date of registration, of the day or the month (but not both) provided it is evident from the preceding and succeeding entries which day or month should have been inserted,
   - (ii) of the year of the birth or death to which an entry relates or of the year of registration (but not of both);
-- (c) the omission of all the words required to be added, in space 14 of a birth entry, under these Regulations[^key-baf1f3618b5a7f46e7df608c07e1b88c];
-- (cc)[^key-7dc609ad65a7131214329f1e67de955e] omission of the words required to be added in space 15 of a birth entry under these Regulations[^key-110934b131dcc20c5c9c041521737c10];
+- (c) the omission of all the words required to be added, in space 14 of a birth entry, under these Regulations[^c-baf1f3618b5a7f46e7df608c07e1b88c];
+- (cc)[^c-7dc609ad65a7131214329f1e67de955e] omission of the words required to be added in space 15 of a birth entry under these Regulations[^c-110934b131dcc20c5c9c041521737c10];
 - (d) the omission of any of the words (including the date) required to be added, following the entry of a name in space 17 of a birth entry, by Regulation 14(2)(a) or (b);
-- (e)[^key-43b0152951b7b0e6502e028ab1d7862c] the omission of–
-  - (i) any of the words (including the name, surname and qualification of the registered medical practitioner) “Certified by ” required to be entered, in space 9[^key-7d43d66bdd1625fe35ea1bcb5bbd9efa] of a death entry, by Regulation 42(4),
+- (e)[^c-43b0152951b7b0e6502e028ab1d7862c] the omission of–
+  - (i) any of the words (including the name, surname and qualification of the registered medical practitioner) “Certified by ” required to be entered, in space 9[^c-7d43d66bdd1625fe35ea1bcb5bbd9efa] of a death entry, by Regulation 42(4),
   - (ii) any of the words (including the name, surname and description of the coroner) “Certified by after post-mortem without inquest” required to be entered, in space 9 of a death entry by Regulation 43(2),
   - (iii) any of the words (including the name, surname and description of the coroner and the date of inquest) “Certificate received from Inquest held on ” required to be entered, in space 7 of a death entry, by Regulation 45(b)(i),
   - (iv) any of the words (including the name, surname and description of the coroner) “Certificate on inquest adjourned received from ” required to be entered in space 7 of a death entry, by Regulation 45(b)(ii);
 - (f) any error in copying any particulars required to be copied from–
-  - (i) a declaration made in accordance with Regulation 13 , 34A or 42A[^key-34a57a7f560c6191369b56919a0557ac],
+  - (i) a declaration made in accordance with Regulation 13 , 34A or 42A[^c-34a57a7f560c6191369b56919a0557ac],
   - (ii) a certificate of name given in baptism, or a certificate of name given other than in baptism, delivered in pursuance of section 13(1) of the Act[^f00031],
-  - (iii) a certificate of cause of death, confirmed attending practitioner’s certificate, or medical examiner certificate,[^key-df5b41668e24b96af822c12c62c92f9c]
+  - (iii) a certificate of cause of death, confirmed attending practitioner’s certificate, or medical examiner certificate,[^c-df5b41668e24b96af822c12c62c92f9c]
   - (iv) a doctor’s or midwife’s certificate of still-birth,
-  - (v) a coroner’s notification that an investigation into a death has been discontinued under section 4 of the 2009 Act[^key-def4d6fa84f31b4797363b9f216bfed2]; or
+  - (v) a coroner’s notification that an investigation into a death has been discontinued under section 4 of the 2009 Act[^c-def4d6fa84f31b4797363b9f216bfed2]; or
   - (vi) a coroner’s certificate after inquest;
-- (g)[^key-db2d901c3afccbe90bb7160911e5e5d5] any error, in space 14 of a birth entry, in copying the date of a statutory declaration as required by regulations 10(1)(b)(ii) or (iii), or 10(1)(c)(ii) or (iii) or 17(2)(b)(i) or (ii), or 17(4)(i) or (ii)
+- (g)[^c-db2d901c3afccbe90bb7160911e5e5d5] any error, in space 14 of a birth entry, in copying the date of a statutory declaration as required by regulations 10(1)(b)(ii) or (iii), or 10(1)(c)(ii) or (iii) or 17(2)(b)(i) or (ii), or 17(4)(i) or (ii)
 
 and the references in this paragraph to provisions of these Regulations include any corresponding provision of regulations revoked by these Regulations.
 
-(3)[^key-a1d5c0def4fdffe15daa731ebcecaec7] Where any correction is made under paragraph (1), the superintendent registrar or registrar concerned shall enter a marginal note providing details of the correction and where an error has occurred the following wording shall apply—
+(3)[^c-a1d5c0def4fdffe15daa731ebcecaec7] Where any correction is made under paragraph (1), the superintendent registrar or registrar concerned shall enter a marginal note providing details of the correction and where an error has occurred the following wording shall apply—
 
 > In space \[or column\].. .. corrected to.. .. on .. ..by me .. .. registrar \[or superintendent registrar\]
 
@@ -916,58 +916,58 @@ where particulars have been transposed the following wording shall apply —
 
 and the registrar or superintendent registrar shall complete and sign the marginal note.
 
-(4)[^key-8d3acaaf6e76c3f15f9798b6f9e6e879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8d3acaaf6e76c3f15f9798b6f9e6e879] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 56. Correction of other minor clerical errors after completion[^key-1c3d654978e569b411d85084c58d93e0]
+### 56. Correction of other minor clerical errors after completion[^c-1c3d654978e569b411d85084c58d93e0]
 
-(1)[^key-5631f3ac81f4ae21be6a3f5eeca73ace] Where it appears or is represented to the superintendent registrar or the registrar that there is any clerical error to which this regulation applies in a completed entry made on the information of a qualified informant in a register of live-births in his custody, he shall correct the error [^key-c2c677e853cae14db1265d6d430055ab]....
+(1)[^c-5631f3ac81f4ae21be6a3f5eeca73ace] Where it appears or is represented to the superintendent registrar or the registrar that there is any clerical error to which this regulation applies in a completed entry made on the information of a qualified informant in a register of live-births in his custody, he shall correct the error [^c-c2c677e853cae14db1265d6d430055ab]....
 
-(2)[^key-91da9e9f63f1e907573089a581a21ebb] Where an error is corrected in accordance with paragraph (1) the following wording shall apply—
+(2)[^c-91da9e9f63f1e907573089a581a21ebb] Where an error is corrected in accordance with paragraph (1) the following wording shall apply—
 
-> In space \[or column\] .. ..corrected to .. .. on .. .. by me .. .. registrar \[or superintendent registrar\] [^key-51d9118275a5aebd21a28f83c9838540]...
+> In space \[or column\] .. ..corrected to .. .. on .. .. by me .. .. registrar \[or superintendent registrar\] [^c-51d9118275a5aebd21a28f83c9838540]...
 
 ,
 
 and where an omission is corrected in accordance with paragraph (1) the following wording shall apply—
 
-> In space \[or column\] .. .. for .. .. read.. .. corrected on .. .. by me .. .. registrar \[or superintendent registrar\] [^key-51d9118275a5aebd21a28f83c9838540]...
+> In space \[or column\] .. .. for .. .. read.. .. corrected on .. .. by me .. .. registrar \[or superintendent registrar\] [^c-51d9118275a5aebd21a28f83c9838540]...
 
 and the registrar or superintendent registrar shall complete and sign the note in the places provided.
 
-(3) This[^key-751238ec0949065b4d45f07a486f0efb] Regulation applies to the following clerical errors–
+(3) This[^c-751238ec0949065b4d45f07a486f0efb] Regulation applies to the following clerical errors–
 
 - (a) in a live-birth entry (form 1)–
   - (i) in space 1, in the date or place of birth, but not both, provided the correct place of birth is within the sub-district where the birth was registered and the correct date of birth is within 3 months of the date of registration,
-  - (ii) in space 5, in the father’s or other parent’s[^key-905398c9c47a50d3d2371f573987382c] place of birth,
-  - (iii) in space 6, in the father’s or other parent’s[^key-70185d66635b7b72a7d0fd2ca144b3aa] occupation,
-  - (iv)[^key-fc3d3c8e947a7b04a2e674ba93154ea8] in space 8a, in the mother’s place of birth and in space 8b in the mother’s occupation,
+  - (ii) in space 5, in the father’s or other parent’s[^c-905398c9c47a50d3d2371f573987382c] place of birth,
+  - (iii) in space 6, in the father’s or other parent’s[^c-70185d66635b7b72a7d0fd2ca144b3aa] occupation,
+  - (iv)[^c-fc3d3c8e947a7b04a2e674ba93154ea8] in space 8a, in the mother’s place of birth and in space 8b in the mother’s occupation,
   - (v) in space 10, in the mother’s usual address,
-  - (vi) in space 12, in the qualification of the informant, unless neither the father nor the mother, nor the other parent[^key-fe09b44598b56f916ea3fdb6287636fb] provided the identity of the informant is clear from the signature in space 14 and this is consistent with the information in space 4 or 7,
+  - (vi) in space 12, in the qualification of the informant, unless neither the father nor the mother, nor the other parent[^c-fe09b44598b56f916ea3fdb6287636fb] provided the identity of the informant is clear from the signature in space 14 and this is consistent with the information in space 4 or 7,
   - (vii) in space 13, in the usual address of informant,
 - (b) in a death entry (form 13)–
   - (i) in space 1, in the date or place of death, but not both, provided the corrected place of death is within the sub-district in which the death was registered and the corrected date of death is within 12 months of the date of registration,
   - (ii) in space 3, consisting of the omission of the sex of the deceased provided the sex as corrected is consistent with the name of the deceased in space 2,
   - (iii) in space 4, in the deceased’s maiden surname,
-  - (iv) in space 5, consisting of the incorrect statement or omission of one, but not both, of the date or place of birth but, in the case of an incorrect statement of the former[^key-cc75f367851dbee0b2e40400a3845163] only if the date is not corrected by more than one year,
-  - (v) in space 6, consisting of the incorrect statement or omission of the occupation of the deceased or of the deceased’s husband or wife or civil partner[^key-a15fc454992f5e46308707c4efa0b500] or parents or of the usual address of the deceased or of the omission of the words “son \[or daughter\] of ” and of the names and surnames of the deceased’s parents,
+  - (iv) in space 5, consisting of the incorrect statement or omission of one, but not both, of the date or place of birth but, in the case of an incorrect statement of the former[^c-cc75f367851dbee0b2e40400a3845163] only if the date is not corrected by more than one year,
+  - (v) in space 6, consisting of the incorrect statement or omission of the occupation of the deceased or of the deceased’s husband or wife or civil partner[^c-a15fc454992f5e46308707c4efa0b500] or parents or of the usual address of the deceased or of the omission of the words “son \[or daughter\] of ” and of the names and surnames of the deceased’s parents,
   - (vi) in space 7(a), in the informant’s name or surname provided this is consistent with the signature in space 9,
   - (vii) in space 7(c), in the informant’s usual address.
 
-(4)[^key-91ca35057e250ce3a9bf88faae7eb37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-91ca35057e250ce3a9bf88faae7eb37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-91ca35057e250ce3a9bf88faae7eb37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-91ca35057e250ce3a9bf88faae7eb37e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 57. Correction of other clerical errors after completion[^key-bbea6d12a762084282e5082487f245ec]
+### 57. Correction of other clerical errors after completion[^c-bbea6d12a762084282e5082487f245ec]
 
-(1) Where it appears or is represented to a superintendent registrar or a registrar that in a completed entry made [^key-71571c365b7e47001c1b9e47dc588d9f]..., on the information of a qualified informant, in a register of live-births, still-births or deaths in his custody, there is a clerical error other than one to which Regulation 55[^key-175808d76f5ce02ee3a087919a90bf4d], 56 , 58A[^key-e6f59941551368181a5ace65f1febcb1] or 59(2) applies, he shall send a report to the Registrar General and shall include with his report–
+(1) Where it appears or is represented to a superintendent registrar or a registrar that in a completed entry made [^c-71571c365b7e47001c1b9e47dc588d9f]..., on the information of a qualified informant, in a register of live-births, still-births or deaths in his custody, there is a clerical error other than one to which Regulation 55[^c-175808d76f5ce02ee3a087919a90bf4d], 56 , 58A[^c-e6f59941551368181a5ace65f1febcb1] or 59(2) applies, he shall send a report to the Registrar General and shall include with his report–
 
 - (a) such evidence as the Registrar General may require for the purpose of verifying the facts;
-- (b)[^key-dafe951aeca47c8e2fb344dbcf7fd9c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-dafe951aeca47c8e2fb344dbcf7fd9c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a copy of the entry.
 
-(2) On receiving the authority of the Registrar General the superintendent registrar or the registrar concerned shall correct the error [^key-6dc5528db9b0bab6ccab77b6c76e2998]...[^key-70fd8156393867b9d615bf655fd5e8c7]....
+(2) On receiving the authority of the Registrar General the superintendent registrar or the registrar concerned shall correct the error [^c-6dc5528db9b0bab6ccab77b6c76e2998]...[^c-70fd8156393867b9d615bf655fd5e8c7]....
 
-(3)[^key-e10889a9607fbfbcdb5df110a10ec8df] Where any correction is made under paragraph (2) the registrar or the superintendent registrar concerned shall—[^key-6180a4bdfaa54cc73783c569b98f2f6e]
+(3)[^c-e10889a9607fbfbcdb5df110a10ec8df] Where any correction is made under paragraph (2) the registrar or the superintendent registrar concerned shall—[^c-6180a4bdfaa54cc73783c569b98f2f6e]
 
 - (a) enter a marginal note in the following form—
 
@@ -981,23 +981,23 @@ and the registrar or superintendent registrar shall complete and sign the note i
 
 and he shall complete and sign the note in the places provided.
 
-### 58. Correction of errors of fact or substance[^key-7a96773e23a6cfffb11c5761f032fb79]
+### 58. Correction of errors of fact or substance[^c-7a96773e23a6cfffb11c5761f032fb79]
 
-(1) Where it appears or is represented to a superintendent registrar or a registrar that there is an error of fact or substance in a completed entry in a register of live-births, still-births or deaths in his custody, other than an entry to which Regulation 58A or[^key-9f5ae8581ceebad10d3553a924c3c41b] 59 applies, he shall–
+(1) Where it appears or is represented to a superintendent registrar or a registrar that there is an error of fact or substance in a completed entry in a register of live-births, still-births or deaths in his custody, other than an entry to which Regulation 58A or[^c-9f5ae8581ceebad10d3553a924c3c41b] 59 applies, he shall–
 
 - (a) send a report to the Registrar General giving such information as the Registrar General may require and enclosing a copy of the entry; and
 - (b) comply with any instructions which the Registrar General may give for the purpose of verifying the facts of the case and ascertaining whether there are available two persons qualified to make a statutory declaration required by section 29(3) of the Act[^f00032].
 
 (2) On being informed by the Registrar General that the error may be corrected on production of such a statutory declaration, the superintendent registrar or the registrar concerned shall on production to him of the statutory declaration correct the error in the following manner–
 
-- (a)[^key-7d578f69ee9237566c2ae55a2e208c44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7d578f69ee9237566c2ae55a2e208c44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) he shall write in the margin of the entry a note in the following form (or such other form as the Registrar General may authorise in any particular case)–
 
 - “In No in for read Corrected on by me Superintendent Registrar \[*or* Registrar\] on production of a statutory declaration made by and ”,
 
 and he shall enter the particulars of the correction and of the declarants and complete and sign the note in the places provided.
 
-### 58A. Correction of errors on notification by medical examiner[^key-dee62464767f35fc5137acd094f3c9de]
+### 58A. Correction of errors on notification by medical examiner[^c-dee62464767f35fc5137acd094f3c9de]
 
 (1)  This regulation applies—
 
@@ -1015,16 +1015,16 @@ and he shall enter the particulars of the correction and of the declarants and c
 
   .
 
-### 59. Correction of error on coroner’s certificate[^key-350b1b19d54883ba814f8df4e751756c]
+### 59. Correction of error on coroner’s certificate[^c-350b1b19d54883ba814f8df4e751756c]
 
 (1) Where the superintendent registrar or the registrar having the custody of a register containing an entry made in pursuance of a coroner’s certificate after inquest receives–
 
-- (a) notification from the coroner of a clerical error in the certificate [^key-ef78bf5b02b9892c1fe36436bb7089ed]...; or
+- (a) notification from the coroner of a clerical error in the certificate [^c-ef78bf5b02b9892c1fe36436bb7089ed]...; or
 - (b) a certificate relating to that entry given by the coroner pursuant to section 29(4)(a) or (b) of the Act[^f00033], as to an error of fact or substance in the certificate after inquest and as to the true facts of the case,
 
 he shall send a report to the Registrar General, enclosing a copy of the entry and (as the case may be) of the coroner’s certificate and notification, or of the coroner’s certificates, relating to the entry.
 
-(2)[^key-c179dce72fc876feb2929b3c78c62478] Where the error is a clerical error, the superintendent registrar or the registrar shall correct the error by entering a marginal note in the following form—
+(2)[^c-c179dce72fc876feb2929b3c78c62478] Where the error is a clerical error, the superintendent registrar or the registrar shall correct the error by entering a marginal note in the following form—
 
 > Clerical error in space \[or column\] .. .. .. corrected to .. .. .. on .. .. .. by me .. .. .. registrar \[or superintendent registrar \] on receipt of notification from the Coroner
 
@@ -1034,8 +1034,8 @@ and he shall complete and sign the note in the places provided.
 
 (3) Where the error is one of fact or substance the superintendent registrar or the registrar shall correct the error by–
 
-- (a)[^key-e82be21cde89b3dc9d879f731d9f7c43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-6b9084179f14b5ddb0e6bb4486102dc3] entering a marginal note in the following form—
+- (a)[^c-e82be21cde89b3dc9d879f731d9f7c43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6b9084179f14b5ddb0e6bb4486102dc3] entering a marginal note in the following form—
 
   > In space \[or column\] .. .. .. corrected to .. .. ..on .. .. ..by me .. .. .. registrar \[or superintendent registrar\] on the authority of a certificate from the Coroner
 
@@ -1043,33 +1043,33 @@ and he shall complete and sign the note in the places provided.
 
 - and he shall complete and sign the note in the places provided.
 
-### 60. Correction of clerical errors in entries made before 1st April 1969[^key-73f25fffc6bb613405620ea5d3f3c4ee]
+### 60. Correction of clerical errors in entries made before 1st April 1969[^c-73f25fffc6bb613405620ea5d3f3c4ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 61. Copy of corrected or annotated entry to be sent to Registrar General[^key-91ddd2bf0272be327d35c6e8314ce5a0]
+### 61. Copy of corrected or annotated entry to be sent to Registrar General[^c-91ddd2bf0272be327d35c6e8314ce5a0]
 
 (1) Where a superintendent registrar or a registrar makes any correction or annotation to a completed entry in a register of live-births, still-births or deaths, whether by marginal note or otherwise, he shall, subject to paragraph (2), within seven days make and send to the Registrar General a copy of the entry as corrected or annotated (or both), including a copy of any marginal note, certified by–
 
-- (a) the registrar, if the register containing the entry is in his custody [^key-436acea99cb1e1b243c33546560f4f10]...
-- (b)[^key-436acea99cb1e1b243c33546560f4f10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; or
+- (a) the registrar, if the register containing the entry is in his custody [^c-436acea99cb1e1b243c33546560f4f10]...
+- (b)[^c-436acea99cb1e1b243c33546560f4f10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . ; or
 - (c) the superintendent registrar, where the register containing that entry is in his custody,
 
 together, in any case where a birth is re-registered under section 10A of the Act[^f00034], with a copy of the new entry, certified by the registrar who made that entry.
 
 (2) Paragraph (1) shall apply in relation to a correction or annotation made by a registrar under Regulations 55 and 56 only if the correction or annotation is made after the registrar has certified a true copy of the original entry pursuant to section 26(1)(a) of the Act (quarterly returns).
 
-(3) Where a registrar has re-registered a birth under either section 10A , 14(1) or 14A[^key-0041589cf16098fbc38879382291cd84] of the Act[^f00035] and the previous entry is in a register in the custody of a superintendent registrar the registrar shall within seven days of the re-registration provide the superintendent registrar with a certified copy of the new entry.
+(3) Where a registrar has re-registered a birth under either section 10A , 14(1) or 14A[^c-0041589cf16098fbc38879382291cd84] of the Act[^f00035] and the previous entry is in a register in the custody of a superintendent registrar the registrar shall within seven days of the re-registration provide the superintendent registrar with a certified copy of the new entry.
 
-(4)[^key-35d0f9379f8d75882a0373d57fddc29e] Where the information in a completed entry in a register of live-births, still-births or deaths exists in an electronic form approved by the Registrar General under the Act, then the information in a correction or annotation made under paragraph (1) must be incorporated into the information in that electronic form after the correction or annotation has been made.
+(4)[^c-35d0f9379f8d75882a0373d57fddc29e] Where the information in a completed entry in a register of live-births, still-births or deaths exists in an electronic form approved by the Registrar General under the Act, then the information in a correction or annotation made under paragraph (1) must be incorporated into the information in that electronic form after the correction or annotation has been made.
 
 ## PART XIII — BIRTH AND DEATH CERTIFICATES
 
-### 62. Certificate of registration of birth[^key-b32dc48746e59725dca5dceecc693054]
+### 62. Certificate of registration of birth[^c-b32dc48746e59725dca5dceecc693054]
 
 The form of certificate for the purposes of section 12 of the Act[^f00036] (certificate by registrar that he has registered a birth) shall be form 20.
 
-### 63. Application for short certificate of birth[^key-0203710e101d047512e7b3cbec82bfd2]
+### 63. Application for short certificate of birth[^c-0203710e101d047512e7b3cbec82bfd2]
 
 (1) Section 33 of the Act[^f00037] (short certificates of birth) shall not apply in relation to still-births.
 
@@ -1078,12 +1078,12 @@ The form of certificate for the purposes of section 12 of the Act[^f00036] (cert
 - (a) where that person has been adopted and the certificate is to be in respect of him as an adopted person–
   - (i) his name and surname,
   - (ii) the date of his birth,
-  - (iii)[^key-45219d196e0eec1107e96cd3521fb245] the name and surname of his adoptive parent(s),
+  - (iii)[^c-45219d196e0eec1107e96cd3521fb245] the name and surname of his adoptive parent(s),
   - (iv) the date upon which, and the name of the court by which, the adoption order was made;
 - (b) in any other case–
   - (i) his name and surname,
   - (ii) the date of his birth,
-  - (iii) the name and surname of his father or other parent[^key-87b8c4df440c385da061bcc476f3a608],
+  - (iii) the name and surname of his father or other parent[^c-87b8c4df440c385da061bcc476f3a608],
   - (iv) the name, surname and maiden surname of his mother, and
   - (v) the place of his birth or the place at which his birth was registered.
 
@@ -1092,14 +1092,14 @@ The form of certificate for the purposes of section 12 of the Act[^f00036] (cert
 - (a) no particulars shall be required if the application is made at the time of registering the birth;
 - (b) any particulars may be omitted which, in the opinion of the person to whom the application is made, it is not reasonably practicable for the applicant to furnish.
 
-### 64. Form of short certificate of birth[^key-90113dfad3729f6bba35309782d4d8bd]
+### 64. Form of short certificate of birth[^c-90113dfad3729f6bba35309782d4d8bd]
 
 The form of short certificate of birth to be issued under section 33 of the Act–
 
 - (a) by a superintendent registrar or registrar, shall be form 21;
 - (b) by the Registrar General, shall be form 22.
 
-### 65. Compilation of short certificate of birth[^key-a53b7932991f2ca4b69416be9348fa4a]
+### 65. Compilation of short certificate of birth[^c-a53b7932991f2ca4b69416be9348fa4a]
 
 (1) A short certificate of birth under section 33 of the Act shall be compiled, from the records and registers in the custody of the Registrar General or from the registers in the custody of the superintendent registrar or registrar (as the case may be), in accordance with the following provisions of this Regulation.
 
@@ -1129,7 +1129,7 @@ so however that if the place of birth is not recorded in the birth entry, the su
   - (iv) in any other case where the birth entry contains particulars as to the place of birth, those particulars,
   - (v) where the birth entry contains no particulars as to the place of birth, such particulars (if any) as to the country of birth as the Registrar General is satisfied can be obtained from any register or record in his custody.
 
-### 66. Short certificate of birth in respect of certain children admitted to the Foundling Hospital[^key-cad9675f506b450c1580bb85441a642d]
+### 66. Short certificate of birth in respect of certain children admitted to the Foundling Hospital[^c-cad9675f506b450c1580bb85441a642d]
 
 (1) The form of short certificate of birth of a person in substitution for that set out in the Second Schedule to the Foundling Hospital Act 1953[^f00039] (which provides for short certificates of birth for children admitted to the hospital before 30th January 1948 who on admission were given names and surnames different from those recorded on registration of their births), shall be form 22.
 
@@ -1140,7 +1140,7 @@ so however that if the place of birth is not recorded in the birth entry, the su
 - (c) opposite the words “Date of Birth” there shall be entered the date of birth recorded in the birth entry or, if no date of birth is recorded, such date (if any) as may appear to the Registrar General from the information recorded in the entry to be the probable date of birth;
 - (d) opposite the words “Place of Birth” there shall be entered particulars of the person’s country of birth.
 
-### 66A. Application for short certificate of death[^key-d2926e5b728d08f1a81ce3ee68e79e35]
+### 66A. Application for short certificate of death[^c-d2926e5b728d08f1a81ce3ee68e79e35]
 
 (1)  Subject to paragraphs (2) and (3), the particulars to be furnished on an application under section 33A(1) of the Act for a short certificate of the death of any person shall be—
 
@@ -1167,29 +1167,29 @@ The form of short certificate of death to be issued under section 33A of the Act
 
 (3) In the case of a certificate in form 22B the certificate shall be completed by inserting in the places provided the relevant particulars from the records and registers in the custody of the Registrar General.
 
-### 67. Applications for certificate of birth or death for certain purposes[^key-c6559b1ccdd642ae13dc9a76abc516e7]
+### 67. Applications for certificate of birth or death for certain purposes[^c-c6559b1ccdd642ae13dc9a76abc516e7]
 
-(1) Where a person wishes to make an application for a certificate of a live-birth or death where[^key-61d9dfc7d62842614865e33cc55ee9b7] any enactment specified in paragraph (2) applies[^key-9d0c0aee1b5e102278b542983b9e0708] the superintendent registrar or the registrar having custody of the register shall on request provide that person without charge with an approved form.
+(1) Where a person wishes to make an application for a certificate of a live-birth or death where[^c-61d9dfc7d62842614865e33cc55ee9b7] any enactment specified in paragraph (2) applies[^c-9d0c0aee1b5e102278b542983b9e0708] the superintendent registrar or the registrar having custody of the register shall on request provide that person without charge with an approved form.
 
 (2) The enactments referred to in paragraph (1) are–
 
 - (a) section 10 of the Savings Banks Act 1887[^f00040];
-- (b)[^key-1534cafdcd629bc06bec52f5a3786e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-1534cafdcd629bc06bec52f5a3786e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1534cafdcd629bc06bec52f5a3786e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1534cafdcd629bc06bec52f5a3786e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) section 106(1) of the Friendly Societies Act 1974[^f00043].
 
-### 68. Certificates of death for certain purposes[^key-799f7faf69923de78e9349f87d2c8eff]
+### 68. Certificates of death for certain purposes[^c-799f7faf69923de78e9349f87d2c8eff]
 
-(1) The relevant officer shall without charge provide with an approved form a person who wishes to apply for the issue of a certificate of death for the purposes [^key-76d37fb7a8e42d1dd9647563818e4f3b]... of Schedule 5 to the 1974 Act.
+(1) The relevant officer shall without charge provide with an approved form a person who wishes to apply for the issue of a certificate of death for the purposes [^c-76d37fb7a8e42d1dd9647563818e4f3b]... of Schedule 5 to the 1974 Act.
 
 (2) A relevant officer shall not issue such a certificate to an applicant unless the applicant certifies in the application that–
 
 - (a) he is the child, grandchild or stepchild of the person to whose death the application relates; and
 - (b) he is entitled to claim under an insurance taken out by him on or after 1st January 1924 on the life of that person.
 
-(3) Except as provided in paragraph (4) more than one certificate of death shall not be issued to the same person for the purposes [^key-491e207baffb5781a7505827981f042b]... of Schedule 5 to the 1974 Act.
+(3) Except as provided in paragraph (4) more than one certificate of death shall not be issued to the same person for the purposes [^c-491e207baffb5781a7505827981f042b]... of Schedule 5 to the 1974 Act.
 
-(4) Where a person to whom a death certificate has been issued for the purposes [^key-a26209dfafeb365faf6578e4a5a2824e]... Schedule 5 to the 1974 Act makes and delivers to the relevant officer a statutory declaration stating–
+(4) Where a person to whom a death certificate has been issued for the purposes [^c-a26209dfafeb365faf6578e4a5a2824e]... Schedule 5 to the 1974 Act makes and delivers to the relevant officer a statutory declaration stating–
 
 - (a) that the certificate has been lost or destroyed;
 - (b) whether any endorsement has been made on the certificate and, if so, by what registered society, branch or company; and
@@ -1207,45 +1207,45 @@ the relevant officer shall issue to that person a duplicate of the certificate o
 
 (7) In this Regulation–
 
-- (a)[^key-e2a01ceeb4b71a69eb7022eb7013633e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e2a01ceeb4b71a69eb7022eb7013633e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “the 1974 Act” means the Friendly Society Act 1974;
 - (c) “the relevant officer” means the superintendent registrar or the registrar having custody of the register in which the death is registered.
 
 ## PART XIV — MISCELLANEOUS
 
-### 69. Information under the Population (Statistics) Act 1938[^key-944635f590f86c0bdfae77c3825ffa10]
+### 69. Information under the Population (Statistics) Act 1938[^c-944635f590f86c0bdfae77c3825ffa10]
 
 (1) Where a draft of the particulars to be registered concerning a birth or death is prepared pursuant to Regulation 3, then, except in the case of–
 
 - (a) the registration of the death of a child under the age of 16 years;
-- (b) the registration of a [^key-8d9703b1f29885f109faec523a509518]...birth or death which occurred more than 12 months previously;
+- (b) the registration of a [^c-8d9703b1f29885f109faec523a509518]...birth or death which occurred more than 12 months previously;
 - (c) the re-registration of a birth or death on the authority of the Registrar General,
 
-the [^key-6b88a5c1ca65e79ea28dda8d81eac1fd]... registrar concerned shall require the informant to furnish to him such other particulars specified in the Schedule to the Population (Statistics) Act 1938[^f00045] as are appropriate to the registration and within his knowledge and shall enter the information so furnished on an approved form or, if he has one, on a computer[^key-fcabfb7f97d3973948144e5a2f192638].
+the [^c-6b88a5c1ca65e79ea28dda8d81eac1fd]... registrar concerned shall require the informant to furnish to him such other particulars specified in the Schedule to the Population (Statistics) Act 1938[^f00045] as are appropriate to the registration and within his knowledge and shall enter the information so furnished on an approved form or, if he has one, on a computer[^c-fcabfb7f97d3973948144e5a2f192638].
 
-(2) The [^key-c87527924df0a7acd76caaa59be64a2a]... registrar concerned shall show or read to the informant the particulars entered on the approved form or, if he has one, on a computer[^key-3f5f2fd3c55779f8eb900e3bb29f5f5b] and shall correct any error or omission.
+(2) The [^c-c87527924df0a7acd76caaa59be64a2a]... registrar concerned shall show or read to the informant the particulars entered on the approved form or, if he has one, on a computer[^c-3f5f2fd3c55779f8eb900e3bb29f5f5b] and shall correct any error or omission.
 
-### 70. Draft of particulars to be sent to the Registrar General[^key-35c78bbf7bdf9915fd41077e138a304c][^key-482136840efde2aa5c6379d4f777d722]
+### 70. Draft of particulars to be sent to the Registrar General[^c-35c78bbf7bdf9915fd41077e138a304c][^c-482136840efde2aa5c6379d4f777d722]
 
-(1) The registrar shall send to the Registrar General the draft of particulars[^key-388e43a1289e9914912e3913ea3297e8] prepared pursuant to Regulations 3 and 69–
+(1) The registrar shall send to the Registrar General the draft of particulars[^c-388e43a1289e9914912e3913ea3297e8] prepared pursuant to Regulations 3 and 69–
 
 - (a) in the case of a live-birth, not later than the Saturday of the week following the week in which he registered the birth; and
 - (b) in the case of a still-birth or death, not later than the Saturday of the week in which he registered the still-birth or death.
 
-(2)[^key-5028169e71f21be5819821d72deff484] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5028169e71f21be5819821d72deff484] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 70A. Transmission of draft particulars[^key-bf98bb2a83098424564d1ca42cc8a0c3]
+### 70A. Transmission of draft particulars[^c-bf98bb2a83098424564d1ca42cc8a0c3]
 
-The draft particulars referred to in regulations 3, 11, 69 and 70 may, if prepared on approved forms be sent on such forms, or, if prepared electronically be transmitted electronically[^key-9e6f9e1401ec2b2b51f6874569cd263b].
+The draft particulars referred to in regulations 3, 11, 69 and 70 may, if prepared on approved forms be sent on such forms, or, if prepared electronically be transmitted electronically[^c-9e6f9e1401ec2b2b51f6874569cd263b].
 
-### 71. Quarterly returns[^key-5a53b8b139ff7193cd3ab271f3c1290b]
+### 71. Quarterly returns[^c-5a53b8b139ff7193cd3ab271f3c1290b]
 
 For the purposes of section 26(1) of the Act (quarterly returns to be made by registrars to superintendent registrars)–
 
 - (a) the forms of a true copy of all the entries of live-births, still-births and deaths made in the registers during a period shall be forms 1, 9 and 13 respectively and any such copy shall be certified by the registrar completing a form in form 23, signing and dating the form in the space provided;
-- (b) the form of certificate , unless section 26(1)(b)(ii) of[^key-6736b82d1764c172eb67c85c6c53982f] the Act applies, that no birth, still-birth or death has been registered in a sub-district during that period shall be form 24.
+- (b) the form of certificate , unless section 26(1)(b)(ii) of[^c-6736b82d1764c172eb67c85c6c53982f] the Act applies, that no birth, still-birth or death has been registered in a sub-district during that period shall be form 24.
 
-### 72. Offences and proceedings[^key-e7e5da6622f33fa8aafeeef74eda9d88]
+### 72. Offences and proceedings[^c-e7e5da6622f33fa8aafeeef74eda9d88]
 
 (1) If it appears to a superintendent registrar or a registrar that any offence under or breach of–
 
@@ -1256,7 +1256,7 @@ has been committed, he shall report the matter to the Registrar General and shal
 
 (2) Except with the authority of the Registrar General, a superintendent registrar shall not commence any proceedings in respect of an offence under the Act.
 
-### 73. Revocations and transitional provisions[^key-03e2659fc00fd51fa5fbdb7055f297a6]
+### 73. Revocations and transitional provisions[^c-03e2659fc00fd51fa5fbdb7055f297a6]
 
 (1) The regulations specified in column 1 of Schedule 3 to these Regulations are hereby revoked to the extent mentioned in column 3 of that Schedule.
 
@@ -1278,7 +1278,7 @@ Department of Health and Social Security
 
 26th November 1987
 
-## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^key-887d42dc5968b6f965daf4f68feea5cf]
+## SCHEDULE 1 — PROVISIONS CONFERRING POWERS EXERCISED IN MAKING THESE REGULATIONS[^c-887d42dc5968b6f965daf4f68feea5cf]
 
 <table>
 <thead>
@@ -1326,7 +1326,7 @@ Department of Health and Social Security
 
 [^f00051][^f00050][^f00053][^f00052][^f00054][^f00055][^f00056][^f00057][^f00058][^f00059][^f00060][^f00061][^f00062][^f00063][^f00064]
 
-## SCHEDULE 2[^key-2cc3669041fcd0e1b65cc4c9e3b4fd39][^key-097a5be43defb84451f411fcd79ce791][^key-a3bbcf4bed7f04edc1c9830ba49353d7][^key-74ea806b2fdebcca9537037b7f1b1458][^key-7fc2eb99a246b762c17333eae6faa784][^key-9b6553e6d6e14988b4e50af42b7a5689][^key-c67debd22cf43624419706617fec3203][^key-77647a5b6bcb720149d17160e0a27232][^key-b00f849bcb876a7dfa0bdf7eb3b10266][^key-8913a774ce8385460b2767ee5c416b22][^key-5bdd2258cf0c516f16d27d6da33bfa66][^key-611beb366b06f2d87849ac14ab975960][^key-84e4b68cdc87b138a420fce87c7996cf][^key-c5b8039453d614cc820bb99f5035b1c9][^key-793dc7d31df2b6f16546eeaa98bdc311][^key-c01c06bff978be6febcfbb265a71d7da][^key-0c0436d3ff46e6785280ffbac241cf5e][^key-af6911a33a0d2a5433e60302ae518491][^key-8a380e4f146a9f9c158756f3ac9b8528][^key-aa141b3fcc911e41326bc32aabe3f456][^key-562a316db9a39474bb77f65bb724ce57][^key-fecdca19753755c3b6a6ceaf5b018b44][^key-9df8693083d8bd44809214c54ab8ba78]
+## SCHEDULE 2[^c-2cc3669041fcd0e1b65cc4c9e3b4fd39][^c-097a5be43defb84451f411fcd79ce791][^c-a3bbcf4bed7f04edc1c9830ba49353d7][^c-74ea806b2fdebcca9537037b7f1b1458][^c-7fc2eb99a246b762c17333eae6faa784][^c-9b6553e6d6e14988b4e50af42b7a5689][^c-c67debd22cf43624419706617fec3203][^c-77647a5b6bcb720149d17160e0a27232][^c-b00f849bcb876a7dfa0bdf7eb3b10266][^c-8913a774ce8385460b2767ee5c416b22][^c-5bdd2258cf0c516f16d27d6da33bfa66][^c-611beb366b06f2d87849ac14ab975960][^c-84e4b68cdc87b138a420fce87c7996cf][^c-c5b8039453d614cc820bb99f5035b1c9][^c-793dc7d31df2b6f16546eeaa98bdc311][^c-c01c06bff978be6febcfbb265a71d7da][^c-0c0436d3ff46e6785280ffbac241cf5e][^c-af6911a33a0d2a5433e60302ae518491][^c-8a380e4f146a9f9c158756f3ac9b8528][^c-aa141b3fcc911e41326bc32aabe3f456][^c-562a316db9a39474bb77f65bb724ce57][^c-fecdca19753755c3b6a6ceaf5b018b44][^c-9df8693083d8bd44809214c54ab8ba78]
 
 PRESCRIBED FORMS
 
@@ -1349,16 +1349,16 @@ Regulation 2(2)(b)
 | 11 | 32(2) | Declaration as to still-birth | The Act, section 11(1)(b) |
 | 12 | 38(1) | Certificate that registrar has registered still-birth | The Act, section 11(2) |
 | 13 | 39 | Particulars of death | The Act, sections 15 and 20 |
-| [^key-81c3a2f609e4a31df21b8fc211770c40]. . . | [^key-81c3a2f609e4a31df21b8fc211770c40]. . . | [^key-81c3a2f609e4a31df21b8fc211770c40]. . . | [^key-81c3a2f609e4a31df21b8fc211770c40]. . . |
-| [^key-81c3a2f609e4a31df21b8fc211770c40]. . . | [^key-81c3a2f609e4a31df21b8fc211770c40]. . . | [^key-81c3a2f609e4a31df21b8fc211770c40]. . . | [^key-81c3a2f609e4a31df21b8fc211770c40]. . . |
-| [^key-81c3a2f609e4a31df21b8fc211770c40]. . . | [^key-81c3a2f609e4a31df21b8fc211770c40]. . . | [^key-81c3a2f609e4a31df21b8fc211770c40]. . . | [^key-81c3a2f609e4a31df21b8fc211770c40]. . . |
+| [^c-81c3a2f609e4a31df21b8fc211770c40]. . . | [^c-81c3a2f609e4a31df21b8fc211770c40]. . . | [^c-81c3a2f609e4a31df21b8fc211770c40]. . . | [^c-81c3a2f609e4a31df21b8fc211770c40]. . . |
+| [^c-81c3a2f609e4a31df21b8fc211770c40]. . . | [^c-81c3a2f609e4a31df21b8fc211770c40]. . . | [^c-81c3a2f609e4a31df21b8fc211770c40]. . . | [^c-81c3a2f609e4a31df21b8fc211770c40]. . . |
+| [^c-81c3a2f609e4a31df21b8fc211770c40]. . . | [^c-81c3a2f609e4a31df21b8fc211770c40]. . . | [^c-81c3a2f609e4a31df21b8fc211770c40]. . . | [^c-81c3a2f609e4a31df21b8fc211770c40]. . . |
 | 17 | 49(1) | Notification | Births and Deaths Registration Act 1926, section 3(1) |
 | 18 | 49(3) | Declaration that certificate or order has been issued | Births and Deaths Registration Act 1926, section 1(1) |
 | 19 | 52 | Certificate that death is not required to be registered | The Act, section 24(2) |
 | 20 | 62 | Certificate of registration of birth | The Act, section 12 |
 | 21 | 64(a) | Short certificate of birth issued by superintendent registrar/registrar | The Act, section 33 |
 | 22 | 64(b), 66(1) | Short certificate of birth issued by Registrar General | The Act, section 33; Foundling Hospital Act 1953, section 5(2) |
-| 22A[^key-38481fb6d75b66471fd4e4b3df1c8e99] | 66B(a) | Short certificate of death issued by superintendent registrar/registrar | The Act, section 33A |
+| 22A[^c-38481fb6d75b66471fd4e4b3df1c8e99] | 66B(a) | Short certificate of death issued by superintendent registrar/registrar | The Act, section 33A |
 | 22B | 66B | Short certificate of death issued by Registrar General | The Act, section 33A |
 | 23 | 71(a) | Quarterly return of live-births, still-births and deaths | The Act, section 26(1)(a) |
 | 24 | 71(b) | Certificate of no registration | The Act, section 26(1)(b) |
@@ -1393,7 +1393,7 @@ Regulation 17(3) Births and Deaths Registration Act 1953, s.10A(1)(d)–(g)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_006)[image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_epp_023.gif)[image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_008)[image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_009)[image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_epp_018.gif)[image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_013)[image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_014)[image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_015)[image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_epp_024.gif)[image: see source](https://www.legislation.gov.uk/uksi/1987/2088/images/uksi_19872088_en_epp_025.gif)
 
-## SCHEDULE 3 — REVOCATIONS[^key-acf13cb2040c5defcf5bb11c262a9a78]
+## SCHEDULE 3 — REVOCATIONS[^c-acf13cb2040c5defcf5bb11c262a9a78]
 
 Regulation 73
 
@@ -1452,455 +1452,455 @@ Among the changes of substance are the introduction of an additional category of
 
 [^f00002]: Footnote: The concurrence of the Secretary of State is required in relation to the exercise of the powers conferred by the provisions specified in paragraph 1 of Schedule 1 to this instrument and his approval is required in relation to the exercise of the powers conferred by the provisions specified in the remaining paragraphs, other than paragraphs 2 and 7, of the Schedule.
 
-[^key-b5e477ac17705b21dd6128ab1d539d5b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-b5e477ac17705b21dd6128ab1d539d5b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-9846362fe08e8ffebf74d2ea3bc15458]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-9846362fe08e8ffebf74d2ea3bc15458]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-626c30dc4680cc9440698e6be9ae00d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) inserted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/2/2/a)
+[^c-626c30dc4680cc9440698e6be9ae00d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) inserted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/2/2/a)
 
-[^key-ec6589580332ebab6c3013e4cc5f938e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) inserted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/2/a)
+[^c-ec6589580332ebab6c3013e4cc5f938e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) inserted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/2/a)
 
 [^f00003]: Footnote: [1953 c. 20](https://www.legislation.gov.uk/ukpga/1953/20).
 
-[^key-046e04030288aed0d8b8ad795256e744]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-046e04030288aed0d8b8ad795256e744]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-778a53d93e5de3823f4eea3624c28e7d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/2/2/b)
+[^c-778a53d93e5de3823f4eea3624c28e7d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/2/2/b)
 
-[^key-885a01660d630e1a662ce6fbf67f6701]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) inserted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/2/b)
+[^c-885a01660d630e1a662ce6fbf67f6701]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) inserted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/2/b)
 
-[^key-94fa59ec43790d465d796121a69ea2b4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/2/2/c)
+[^c-94fa59ec43790d465d796121a69ea2b4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) substituted (25.7.2013) by [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 2(2)(c)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/2/2/c)
 
-[^key-26490bd38f4a3a7559c4a32d2a552edc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/2/2)
+[^c-26490bd38f4a3a7559c4a32d2a552edc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/2/2)
 
-[^key-b1005812ba79cdf921b86ecb7f6298c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-b1005812ba79cdf921b86ecb7f6298c5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-04e20b82129c34eac463fa5f49b7d40f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/2/3)
+[^c-04e20b82129c34eac463fa5f49b7d40f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/2/3)
 
-[^key-93ab674f82ae67b45846baca76b1c90f]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) entry substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1203/regulation/2)
+[^c-93ab674f82ae67b45846baca76b1c90f]: Textual amendment: [Reg. 2(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2/1) entry substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1203/regulation/2)
 
-[^key-beaa6a00e1bdfb3599bca2212210b313]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2B) inserted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/3)
+[^c-beaa6a00e1bdfb3599bca2212210b313]: Textual amendment: [Regs. 2A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2A), [2B](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2B) inserted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/3)
 
-[^key-55da7141e329db583d988f471c5b7938]: Textual amendment: [Reg. 2B(2)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2B/2/i) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-55da7141e329db583d988f471c5b7938]: Textual amendment: [Reg. 2B(2)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2B/2/i) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-cc8329871fc96d88ae245c0c0b5a29cc]: Textual amendment: [Reg. 2B(2)(j)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2B/2/j) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-cc8329871fc96d88ae245c0c0b5a29cc]: Textual amendment: [Reg. 2B(2)(j)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2B/2/j) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-679ac61fc9d62470c0496b0b1670d5a4]: Textual amendment: [Reg. 2B(2)(k)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2B/2/k) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-679ac61fc9d62470c0496b0b1670d5a4]: Textual amendment: [Reg. 2B(2)(k)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/2B/2/k) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-2f304b484e630d6a9e9c22fa98a3c6c6]: Commencement: Reg. 3 in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-2f304b484e630d6a9e9c22fa98a3c6c6]: Commencement: Reg. 3 in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-8ec61d02b5757b738f5777c32bbebba0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3) substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/2753/regulation/3)
+[^c-8ec61d02b5757b738f5777c32bbebba0]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3) substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/2753/regulation/3)
 
-[^key-795c12e225ed90a6c171817d1e718777]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/1/b) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/4/a)
+[^c-795c12e225ed90a6c171817d1e718777]: Textual amendment: [Reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/1/b) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/4/a)
 
-[^key-053623d0fa92edf862c06d260f3d87b1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/2) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1203/regulation/3)
+[^c-053623d0fa92edf862c06d260f3d87b1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/2) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1203/regulation/3)
 
-[^key-787d453e7c205b5302ccdfbef59ea9fd]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/2) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/2165/regulation/3)
+[^c-787d453e7c205b5302ccdfbef59ea9fd]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/2) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2009/2165/regulation/3)
 
-[^key-852c7a33affec4338ec400d057beed36]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/2/b) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/4/b)
+[^c-852c7a33affec4338ec400d057beed36]: Textual amendment: [Reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/2/b) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/4/b)
 
-[^key-45e83bb8e6c1ba500bb701758b3d07f6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/3) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/4/c/i)
+[^c-45e83bb8e6c1ba500bb701758b3d07f6]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/3) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(4)(c)(i)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/4/c/i)
 
-[^key-6cf1a43c1688e047f76d751432a57551]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/3) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/4/c/ii)
+[^c-6cf1a43c1688e047f76d751432a57551]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/3/3) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/4/c/ii)
 
-[^key-f8ba5ab5da51c4b79d7bd8197272252b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1987/2088/regulation/4) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-f8ba5ab5da51c4b79d7bd8197272252b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1987/2088/regulation/4) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-ecbfb5ec1fead95568aab5cd46048bc3]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1987/2088/regulation/4) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2006/2827/regulation/2)
+[^c-ecbfb5ec1fead95568aab5cd46048bc3]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/1987/2088/regulation/4) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2006/2827/regulation/2)
 
-[^key-e1edf2a84b2cc61453bb863898fa2446]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1987/2088/regulation/5) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-e1edf2a84b2cc61453bb863898fa2446]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1987/2088/regulation/5) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-227dc8e923de9dc42ee94e8ad73e7318]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/5/a) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/4/2)
+[^c-227dc8e923de9dc42ee94e8ad73e7318]: Textual amendment: Words in [reg. 5(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/5/a) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/4/2)
 
-[^key-8501e8127bdeab212b83106ebb0836a6]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1987/2088/regulation/5) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/4/3)
+[^c-8501e8127bdeab212b83106ebb0836a6]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/1987/2088/regulation/5) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/4/3)
 
-[^key-b60bda5f626f28403706a3073b6e8ed0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1987/2088/regulation/6) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-b60bda5f626f28403706a3073b6e8ed0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1987/2088/regulation/6) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-dad30017acc3a15e9b33a941c8e09ce5]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/6/1/a) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-dad30017acc3a15e9b33a941c8e09ce5]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/6/1/a) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-4484f5872c7025cc45bd3ccd2154f270]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/2088/regulation/7) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-4484f5872c7025cc45bd3ccd2154f270]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1987/2088/regulation/7) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00005]: Footnote: Section 1(1) was amended by paragraph 13(1) of Schedule 3 to the Children Act [1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72).
 
-[^key-23295757d56d11efd4aba4da7eb400e0]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/7/2) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2009/2165/regulation/5)
+[^c-23295757d56d11efd4aba4da7eb400e0]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/7/2) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2009/2165/regulation/5)
 
-[^key-be02da33b2e698e2ca114273701d6ea8]: Commencement: Reg. 8 in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-be02da33b2e698e2ca114273701d6ea8]: Commencement: Reg. 8 in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-f19f5d4c11923d23123b98ec8abaa151]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/2088/regulation/8) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2009/2165/regulation/6)
+[^c-f19f5d4c11923d23123b98ec8abaa151]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/1987/2088/regulation/8) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2009/2165/regulation/6)
 
-[^key-0d2b36bc64b1c9fe56c06045cfa1c0cc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-0d2b36bc64b1c9fe56c06045cfa1c0cc]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-63527caa0e1757bffe919d57bf8ceef7]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9) heading substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/5/2)
+[^c-63527caa0e1757bffe919d57bf8ceef7]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9) heading substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/5/2)
 
-[^key-64bbfc97ca91f4b018923804603f7319]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/1) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/5/3)
+[^c-64bbfc97ca91f4b018923804603f7319]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/1) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/5/3)
 
-[^key-d3ba80ade511c8584fbb92345d68ba4e]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/1) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/5/a)
+[^c-d3ba80ade511c8584fbb92345d68ba4e]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/1) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/5/a)
 
-[^key-e412172607485e7a024c07225aaaf935]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/1) omitted (9.6.2020) by virtue of [The Registration of Births and Deaths (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/577)](https://www.legislation.gov.uk/uksi/2020/577), [regs. 1](https://www.legislation.gov.uk/uksi/2020/577/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/577/regulation/2)
+[^c-e412172607485e7a024c07225aaaf935]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/1) omitted (9.6.2020) by virtue of [The Registration of Births and Deaths (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/577)](https://www.legislation.gov.uk/uksi/2020/577), [regs. 1](https://www.legislation.gov.uk/uksi/2020/577/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/577/regulation/2)
 
-[^key-f2a34fb5792863691dbb92332b37b5d4]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/4) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/7/2)
+[^c-f2a34fb5792863691dbb92332b37b5d4]: Textual amendment: [Reg. 9(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/4) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/7/2)
 
-[^key-668888578d0be2bfec3bc7923a2a7d66]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/4A) inserted (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/2/3)
+[^c-668888578d0be2bfec3bc7923a2a7d66]: Textual amendment: [Reg. 9(4A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/4A) inserted (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/2/3)
 
-[^key-87da8293596ba665b11e1d65b7265116]: Textual amendment: Words in [reg. 9(4A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/4A) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/7/3)
+[^c-87da8293596ba665b11e1d65b7265116]: Textual amendment: Words in [reg. 9(4A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/4A) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/7/3)
 
-[^key-f1b9e9406e89b476034627fe34e91105]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/5) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/7/4)
+[^c-f1b9e9406e89b476034627fe34e91105]: Textual amendment: [Reg. 9(5)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/5) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/7/4)
 
-[^key-92596ef2911f055a8e82801c8d9e0684]: Textual amendment: [Reg. 9(6)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/6/b) omitted (1.4.1995) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/3/a)
+[^c-92596ef2911f055a8e82801c8d9e0684]: Textual amendment: [Reg. 9(6)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/6/b) omitted (1.4.1995) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/3/a)
 
-[^key-b8d071befc88430884cdbe01e2868ece]: Textual amendment: [Reg. 9(6A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/6A) inserted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/3/b)
+[^c-b8d071befc88430884cdbe01e2868ece]: Textual amendment: [Reg. 9(6A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/6A) inserted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/3/b)
 
-[^key-245ccf96f4fec4934a24c2e73cb58b2f]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/7) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/2)
+[^c-245ccf96f4fec4934a24c2e73cb58b2f]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/7) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/2)
 
-[^key-dd0d0bf4afa740a8e9391c323a08ab12]: Textual amendment: [Reg. 9(7)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/7/a) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/2/a)
+[^c-dd0d0bf4afa740a8e9391c323a08ab12]: Textual amendment: [Reg. 9(7)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/7/a) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/2/a)
 
-[^key-3a49fd363aae765e6012d9549aa982f6]: Textual amendment: Words in [reg. 9(7)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/7/b) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/2/b)
+[^c-3a49fd363aae765e6012d9549aa982f6]: Textual amendment: Words in [reg. 9(7)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/7/b) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/2/b)
 
-[^key-12766d803c1a4d5cf4dfe7124523e2b8]: Textual amendment: Words in [reg. 9(7)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/7/b) inserted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/7)
+[^c-12766d803c1a4d5cf4dfe7124523e2b8]: Textual amendment: Words in [reg. 9(7)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/7/b) inserted (10.12.2014) by [The Marriage (Same Sex Couples) Act 2013 and Marriage and Civil Partnership (Scotland) Act 2014 (Consequential Provisions) Order 2014 (S.I. 2014/3061)](https://www.legislation.gov.uk/uksi/2014/3061), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3061/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/3061/schedule/1/paragraph/7)
 
-[^key-d48c1a6b6cb31ca8fe9394ea7cb537ab]: Textual amendment: [Reg. 9(8)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/8) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/7/6)
+[^c-d48c1a6b6cb31ca8fe9394ea7cb537ab]: Textual amendment: [Reg. 9(8)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/8) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [7(6)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/7/6)
 
-[^key-b97749015e9a60bee2d186ec9f5f2eac]: Textual amendment: Words in [reg. 9(10)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/10) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/3/2)
+[^c-b97749015e9a60bee2d186ec9f5f2eac]: Textual amendment: Words in [reg. 9(10)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/9/10) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/3/2)
 
-[^key-bed9e4ece5f1d0f7fdf9a7cb1a4ba1de]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-bed9e4ece5f1d0f7fdf9a7cb1a4ba1de]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-c5c9cdc6628fca65d725fbbc29970e47]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/a) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/8/2)
+[^c-c5c9cdc6628fca65d725fbbc29970e47]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/a) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/8/2)
 
-[^key-217e7190038a206b420cfe46c51e9ebb]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1989/497/regulation/4/a) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
+[^c-217e7190038a206b420cfe46c51e9ebb]: Textual amendment: Words in [reg. 10(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1989/497/regulation/4/a) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
 
-[^key-5de875922a22abd000f01489ad2fa2e9]: Textual amendment: Word in [reg. 10(1)(b)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/i)[(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/ii) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1989/497/regulation/4/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
+[^c-5de875922a22abd000f01489ad2fa2e9]: Textual amendment: Word in [reg. 10(1)(b)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/i)[(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/ii) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1989/497/regulation/4/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
 
-[^key-70cc01174de1571d18a4bb5def6a4f69]: Textual amendment: [Reg. 10(1)(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iv) substituted for [reg. 10(1)(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iii) (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/1989/497/regulation/4/c) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
+[^c-70cc01174de1571d18a4bb5def6a4f69]: Textual amendment: [Reg. 10(1)(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iv) substituted for [reg. 10(1)(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iii) (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [4(c)](https://www.legislation.gov.uk/uksi/1989/497/regulation/4/c) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
 
-[^key-9a35ddef64e6a58d21dbd0b19dad77b0]: Textual amendment: [Reg. 10(1)(b)(iv)-(vii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iv) substituted for [reg. 10(1)(b)(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iv) (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1991/2275/regulation/3)
+[^c-9a35ddef64e6a58d21dbd0b19dad77b0]: Textual amendment: [Reg. 10(1)(b)(iv)-(vii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iv) substituted for [reg. 10(1)(b)(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/b/iv) (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1991/2275/regulation/3)
 
-[^key-51fc27f00e4b7a8b4134d381b9894dd1]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/c) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/8/3)
+[^c-51fc27f00e4b7a8b4134d381b9894dd1]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/c) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/8/3)
 
-[^key-c91f8c7e30833b8fc2396a17872593c0]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/d) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/8/4)
+[^c-c91f8c7e30833b8fc2396a17872593c0]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/10/1/d) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/8/4)
 
-[^key-d406db72ce024defaeb1ea2e45c52dce]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1987/2088/regulation/11) revoked (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2012/1203/regulation/6)
+[^c-d406db72ce024defaeb1ea2e45c52dce]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1987/2088/regulation/11) revoked (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2012/1203/regulation/6)
 
-[^key-7c64aeca673e1d4c2f68e14dc6b3a3aa]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1987/2088/regulation/11) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-7c64aeca673e1d4c2f68e14dc6b3a3aa]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1987/2088/regulation/11) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-0e6851873d3ee31915f8494ca80de512]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-0e6851873d3ee31915f8494ca80de512]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-88bf19e8ffdf3fdf6296022a8d0b16c5]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12) heading substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/7/2)
+[^c-88bf19e8ffdf3fdf6296022a8d0b16c5]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12) heading substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/7/2)
 
-[^key-f726935f91dc5954a1f3a3ae1c312cc2]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12/1) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/7/3)
+[^c-f726935f91dc5954a1f3a3ae1c312cc2]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12/1) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/7/3)
 
-[^key-0c35f66da21acfbd241932a045398102]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12/2) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/7/4)
+[^c-0c35f66da21acfbd241932a045398102]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12/2) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [7(4)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/7/4)
 
-[^key-f6e1689a0d53fdbe48dee2e97846e4c7]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12/3) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/7/5)
+[^c-f6e1689a0d53fdbe48dee2e97846e4c7]: Textual amendment: [Reg. 12(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/12/3) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [7(5)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/7/5)
 
-[^key-35bf424597335c75701f0577ea5e0243]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-35bf424597335c75701f0577ea5e0243]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-1bc1076daa24f5c9b6a00b16e133b907]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/1) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/8/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2012/1203/regulation/9))
+[^c-1bc1076daa24f5c9b6a00b16e133b907]: Textual amendment: [Reg. 13(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/1) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/8/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2012/1203/regulation/9))
 
-[^key-f53e90e5f84547ff715547afbcb6093c]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/2/b) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/6/1)
+[^c-f53e90e5f84547ff715547afbcb6093c]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/2/b) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [6(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/6/1)
 
-[^key-b7f10802e06993310c14e37099d6a06c]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/3/a) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/6)
+[^c-b7f10802e06993310c14e37099d6a06c]: Textual amendment: Words in [reg. 13(3)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/3/a) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/6)
 
 [^f00010]: Footnote: Section 9(4) was added by section 93(3) of the Children Act [1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72).
 
-[^key-584e44979875e89198787aa14ccff809]: Textual amendment: Words in [reg. 13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/4/b/ii) substituted (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/4/a)
+[^c-584e44979875e89198787aa14ccff809]: Textual amendment: Words in [reg. 13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/4/b/ii) substituted (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/4/a)
 
-[^key-45a75830382ae1e0d6dd4131dc4d81a6]: Textual amendment: Words in [reg. 13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/4/b/ii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2009/2165/regulation/9)
+[^c-45a75830382ae1e0d6dd4131dc4d81a6]: Textual amendment: Words in [reg. 13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/4/b/ii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2009/2165/regulation/9)
 
-[^key-adef413bb5f79ce1863f12d9273880a7]: Textual amendment: Words in [reg. 13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/4/b/ii) substituted (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/4/b)
+[^c-adef413bb5f79ce1863f12d9273880a7]: Textual amendment: Words in [reg. 13(4)(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/4/b/ii) substituted (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/4/b)
 
-[^key-49115dc48c07bce8ab8565c11c06bea3]: Textual amendment: [Reg. 13(4)(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/4/b/iii) inserted (1.12.2003) by [The Registration of Births and Deaths (Amendment) Regulations 2003 (S.I. 2003/3048)](https://www.legislation.gov.uk/uksi/2003/3048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3048/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/3048/regulation/4)
+[^c-49115dc48c07bce8ab8565c11c06bea3]: Textual amendment: [Reg. 13(4)(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/4/b/iii) inserted (1.12.2003) by [The Registration of Births and Deaths (Amendment) Regulations 2003 (S.I. 2003/3048)](https://www.legislation.gov.uk/uksi/2003/3048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3048/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/3048/regulation/4)
 
-[^key-8eeaca00c8e446ca1f6b2a7316d4d688]: Textual amendment: [Reg. 13(5)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/5) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/8/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2012/1203/regulation/9))
+[^c-8eeaca00c8e446ca1f6b2a7316d4d688]: Textual amendment: [Reg. 13(5)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/13/5) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/8/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2012/1203/regulation/9))
 
-[^key-33f9e4828ce6c3fa63ecb6810a51c4aa]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1987/2088/regulation/14) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-33f9e4828ce6c3fa63ecb6810a51c4aa]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1987/2088/regulation/14) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-7de278d3425f8a218b7cb08464680a43]: Textual amendment: Words in [reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/14/2/a) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/7/a)
+[^c-7de278d3425f8a218b7cb08464680a43]: Textual amendment: Words in [reg. 14(2)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/14/2/a) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/7/a)
 
-[^key-0f3e4710de9892038e9610e2fb0fcc62]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/14/2/b) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/7/b)
+[^c-0f3e4710de9892038e9610e2fb0fcc62]: Textual amendment: Words in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/14/2/b) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/7/b)
 
-[^key-62a44bf2592501b79e870e26e58343d2]: Textual amendment: Words in [Pt. IV](https://www.legislation.gov.uk/uksi/1987/2088/part/IV) heading inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/3)
+[^c-62a44bf2592501b79e870e26e58343d2]: Textual amendment: Words in [Pt. IV](https://www.legislation.gov.uk/uksi/1987/2088/part/IV) heading inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/3)
 
-[^key-3a48e6ed5caa2b7dc4c2a8230bce389c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1987/2088/regulation/15) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-3a48e6ed5caa2b7dc4c2a8230bce389c]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1987/2088/regulation/15) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-710367a54a820fe689de5b488c66c9fb]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1987/2088/regulation/15) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2012/1203/regulation/10)
+[^c-710367a54a820fe689de5b488c66c9fb]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/1987/2088/regulation/15) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2012/1203/regulation/10)
 
-[^key-885ab1023569ec5ddeac3d2cda6d5207]: Commencement: Reg. 16 in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-885ab1023569ec5ddeac3d2cda6d5207]: Commencement: Reg. 16 in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-e6fe03875f2d667c81170546289da33a]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/1987/2088/regulation/16) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/10/1)
+[^c-e6fe03875f2d667c81170546289da33a]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/uksi/1987/2088/regulation/16) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [10(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/10/1)
 
-[^key-43d35eca9630be363286e8b4d5fd8b63]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-43d35eca9630be363286e8b4d5fd8b63]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-3fcf7bffb8bac3e5851b8b169d5f75b2]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2009/2165/regulation/11)
+[^c-3fcf7bffb8bac3e5851b8b169d5f75b2]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2009/2165/regulation/11)
 
-[^key-9f7014095ac55c12b3d632bfd4005629]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/2) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(8)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/8/a/i)
+[^c-9f7014095ac55c12b3d632bfd4005629]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/2) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(8)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/8/a/i)
 
-[^key-815e57c1c22c7e7ab50cc380ccad249c]: Textual amendment: [Reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/2/a) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/8/a/ii)
+[^c-815e57c1c22c7e7ab50cc380ccad249c]: Textual amendment: [Reg. 17(2)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/2/a) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/8/a/ii)
 
-[^key-9851710424e5a21d5ccf6cd5f081f75c]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/2A): reg. 17(2)(b) renumbered as reg. 17(2A) (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/8/a/iii)
+[^c-9851710424e5a21d5ccf6cd5f081f75c]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/2A): reg. 17(2)(b) renumbered as reg. 17(2A) (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(8)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/8/a/iii)
 
-[^key-27f87628c8bc04f58585619267ffe444]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/3) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/8/b)
+[^c-27f87628c8bc04f58585619267ffe444]: Textual amendment: [Reg. 17(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/3) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/8/b)
 
-[^key-4d6b384cd48ddda0f4069d275c84b0da]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/7) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/11/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2012/1203/regulation/12))
+[^c-4d6b384cd48ddda0f4069d275c84b0da]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/7) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/11/3) (with [reg. 12](https://www.legislation.gov.uk/uksi/2012/1203/regulation/12))
 
-[^key-ec935b71e51692c2636e9287981ce64c]: Textual amendment: Words in [reg. 17(9)(d)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/9/d) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/11/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2012/1203/regulation/12))
+[^c-ec935b71e51692c2636e9287981ce64c]: Textual amendment: Words in [reg. 17(9)(d)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/9/d) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/11/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2012/1203/regulation/12))
 
 [^M_F_a1496554-c777-40ba-922c-2692b56f50f1]: Textual amendment: [Reg. 17(9)(d)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/9/e) full-stop substituted for word (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/11/4) (with [reg. 12](https://www.legislation.gov.uk/uksi/2012/1203/regulation/12))
 
-[^key-f53aed18cd98fdd9cc6709ef963d081f]: Textual amendment: [Reg. 17(9)(e)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/9/e) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/11/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2012/1203/regulation/12))
+[^c-f53aed18cd98fdd9cc6709ef963d081f]: Textual amendment: [Reg. 17(9)(e)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/17/9/e) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [11(5)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/11/5) (with [reg. 12](https://www.legislation.gov.uk/uksi/2012/1203/regulation/12))
 
-[^key-18e52734e17972e944b3779891550477]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1987/2088/regulation/18) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-18e52734e17972e944b3779891550477]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1987/2088/regulation/18) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-d611a4b8c87a3dba941ea0213fa8c137]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1987/2088/regulation/18) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2009/2165/regulation/12)
+[^c-d611a4b8c87a3dba941ea0213fa8c137]: Textual amendment: [Reg. 18](https://www.legislation.gov.uk/uksi/1987/2088/regulation/18) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2009/2165/regulation/12)
 
-[^key-b6e3e0378066d965c51ce6f2fa269f6d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-b6e3e0378066d965c51ce6f2fa269f6d]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00015]: Footnote: Section 14(1) was amended by section 1(2) of the Legitimation (Re-registration of Birth) Act [1957 (c. 39)](https://www.legislation.gov.uk/ukpga/1957/39); by paragraph 1(b) of Schedule 1 to the Matrimonial Causes Act [1973 (c. 18)](https://www.legislation.gov.uk/ukpga/1973/18); and by paragraph 13(3) of Schedule 3 to the Children Act [1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72).
 
 [^f00016]: Footnote: Section 14(2) was amended by section 1(2) of the Legitimation (Re-registration of Birth) Act [1957 (c. 39)](https://www.legislation.gov.uk/ukpga/1957/39).
 
-[^key-8292bac22adce6f23a9be29a98aa992f]: Textual amendment: Words in [reg. 19(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/a) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/13/1)
+[^c-8292bac22adce6f23a9be29a98aa992f]: Textual amendment: Words in [reg. 19(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/a) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/13/1)
 
-[^key-d60b4ce175be0a6949c417785184ce83]: Textual amendment: Words in [reg. 19(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/13/2)
+[^c-d60b4ce175be0a6949c417785184ce83]: Textual amendment: Words in [reg. 19(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [13(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/13/2)
 
-[^key-b80741f803fcd31c0ec6af0ceed7acd1]: Textual amendment: [Reg. 19(b)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/i) substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1994/1948/regulation/4)
+[^c-b80741f803fcd31c0ec6af0ceed7acd1]: Textual amendment: [Reg. 19(b)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/i) substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/1994/1948/regulation/4)
 
-[^key-e83b4f0863d0dd7c5b3aca3427c242b6]: Textual amendment: Words in [reg. 19(b)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/i) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/13/3)
+[^c-e83b4f0863d0dd7c5b3aca3427c242b6]: Textual amendment: Words in [reg. 19(b)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/i) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [13(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/13/3)
 
-[^key-6456871bd7d688e7444cdd99a6adf6eb]: Textual amendment: Words in [reg. 19(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/ii) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/3/a)
+[^c-6456871bd7d688e7444cdd99a6adf6eb]: Textual amendment: Words in [reg. 19(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/ii) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(3)(a)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/3/a)
 
-[^key-10dd6ffbf958f8b3465e3b555f99ec78]: Textual amendment: Words in [reg. 19(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/ii) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(4)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/4/a)
+[^c-10dd6ffbf958f8b3465e3b555f99ec78]: Textual amendment: Words in [reg. 19(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/ii) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(4)(a)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/4/a)
 
-[^key-f95ad765ef0cc5cc33c75c7a4c047653]: Textual amendment: Words in [reg. 19(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/ii) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(4)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/4/b)
+[^c-f95ad765ef0cc5cc33c75c7a4c047653]: Textual amendment: Words in [reg. 19(b)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/ii) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [18(4)(b)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/18/4/b)
 
-[^key-19756859aabb978910c4d63f15f3c2dc]: Textual amendment: Words in [reg. 19(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/iii) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/13/5)
+[^c-19756859aabb978910c4d63f15f3c2dc]: Textual amendment: Words in [reg. 19(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/iii) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [13(5)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/13/5)
 
-[^key-5f99607127985e228aea50aa63d618cf]: Textual amendment: Word in [reg. 19(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/iii) omitted (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(3)(b)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/3/b)
+[^c-5f99607127985e228aea50aa63d618cf]: Textual amendment: Word in [reg. 19(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/19/b/iii) omitted (13.3.2014) by virtue of [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(3)(b)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/3/b)
 
-[^key-6e3cf198cef7e421e4b15fb7bb301f08]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1987/2088/regulation/20) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-6e3cf198cef7e421e4b15fb7bb301f08]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1987/2088/regulation/20) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-fbec96dadeb6c3b0bbf489c671d6b785]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/1987/2088/regulation/20) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2009/2165/regulation/14)
+[^c-fbec96dadeb6c3b0bbf489c671d6b785]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/1987/2088/regulation/20) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2009/2165/regulation/14)
 
-[^key-745a5260181639416d2a6d254ac8ef97]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1987/2088/regulation/21) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-745a5260181639416d2a6d254ac8ef97]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1987/2088/regulation/21) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-8eeadadca786ce133fa9702b7ebbe4e4]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/21/1) omitted (1.7.1997) by virtue of [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/4/a)
+[^c-8eeadadca786ce133fa9702b7ebbe4e4]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/21/1) omitted (1.7.1997) by virtue of [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/4/a)
 
-[^key-a19b31b06b4184186e829d3181c14f48]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/21/1) inserted (1.7.1997) by [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/4/b)
+[^c-a19b31b06b4184186e829d3181c14f48]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/21/1) inserted (1.7.1997) by [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/4/b)
 
-[^key-52ca0f613be5f62f45ea233d8ba20e06]: Textual amendment: [Reg. 21(6)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/21/6) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2009/2165/regulation/15)
+[^c-52ca0f613be5f62f45ea233d8ba20e06]: Textual amendment: [Reg. 21(6)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/21/6) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2009/2165/regulation/15)
 
-[^key-c39167ecdadfc465479bd5ed6f5e31fd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1987/2088/regulation/22) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-c39167ecdadfc465479bd5ed6f5e31fd]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1987/2088/regulation/22) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-3beb832cf7437739d9144a6fd946274c]: Textual amendment: Words in [reg. 22(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/22/b) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2009/2165/regulation/16)
+[^c-3beb832cf7437739d9144a6fd946274c]: Textual amendment: Words in [reg. 22(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/22/b) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2009/2165/regulation/16)
 
-[^key-fb4dd4b85f0666d555df8c11a397662b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1987/2088/regulation/23) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-fb4dd4b85f0666d555df8c11a397662b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1987/2088/regulation/23) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00017]: Footnote: Proviso (a) was amended by paragraph 13(3) of Schedule 3 to the Children Act [1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72) and proviso (c) by paragraph 1(b) of Schedule 1 to the Matrimonial Causes Act [1973 (c. 18)](https://www.legislation.gov.uk/ukpga/1973/18).
 
-[^key-e0822bced1464433afbb51d41944bdc6]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/1987/2088/regulation/23) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [17(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/17/1)
+[^c-e0822bced1464433afbb51d41944bdc6]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/1987/2088/regulation/23) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [17(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/17/1)
 
-[^key-64fb0e76458584748cbf5b383a774109]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/1987/2088/regulation/23) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/17/2)
+[^c-64fb0e76458584748cbf5b383a774109]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/1987/2088/regulation/23) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/17/2)
 
-[^key-967ef493ed849833956ee2f6f3980346]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1987/2088/regulation/24) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-967ef493ed849833956ee2f6f3980346]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1987/2088/regulation/24) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-fcd563b178f59f9cfa1af5c7e5424e38]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1987/2088/regulation/25) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-fcd563b178f59f9cfa1af5c7e5424e38]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1987/2088/regulation/25) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-c235f335ddc8842a48e85aaca6ed4513]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1987/2088/regulation/26) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-c235f335ddc8842a48e85aaca6ed4513]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1987/2088/regulation/26) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-48a85dd219b9299fb49d78c3d9e939bb]: Textual amendment: Words in [reg. 26(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/26/1/a) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/18/1)
+[^c-48a85dd219b9299fb49d78c3d9e939bb]: Textual amendment: Words in [reg. 26(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/26/1/a) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/18/1)
 
-[^key-c87e9d770dd2e1cef142dfa23efeb3fd]: Textual amendment: Words in [reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/26/1/b) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/18/2)
+[^c-c87e9d770dd2e1cef142dfa23efeb3fd]: Textual amendment: Words in [reg. 26(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/26/1/b) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/18/2)
 
-[^key-cd0bad33703f5ebf58524455341c4cf3]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/26/2) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/18/3)
+[^c-cd0bad33703f5ebf58524455341c4cf3]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/26/2) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/18/3)
 
-[^key-0007e2310558c1694e944a482a286a49]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/1987/2088/part/5A) inserted (4.4.1988) by [The Registration of Births and Deaths (Amendment) Regulations 1988 (S.I. 1988/638)](https://www.legislation.gov.uk/uksi/1988/638), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/638/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1988/638/regulation/2)
+[^c-0007e2310558c1694e944a482a286a49]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/1987/2088/part/5A) inserted (4.4.1988) by [The Registration of Births and Deaths (Amendment) Regulations 1988 (S.I. 1988/638)](https://www.legislation.gov.uk/uksi/1988/638), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/638/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/1988/638/regulation/2)
 
-[^key-bcc48f4b95e1ce5788bbf627884a3e22]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1987/2088/regulation/27) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-bcc48f4b95e1ce5788bbf627884a3e22]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1987/2088/regulation/27) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-35af87b8b653af5d76d97d493c8ba418]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/27/1/a) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/7/1)
+[^c-35af87b8b653af5d76d97d493c8ba418]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/27/1/a) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [7(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/7/1)
 
-[^key-e7a7a2999435bf4c8248711d76e314fe]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/27/2) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/7/2)
+[^c-e7a7a2999435bf4c8248711d76e314fe]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/27/2) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/7/2)
 
-[^key-ac601c41b951226dde96a7e92f06a340]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1987/2088/regulation/28) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-ac601c41b951226dde96a7e92f06a340]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1987/2088/regulation/28) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00019]: Footnote: Sections 30(2), 31(2) and 32 were amended by Schedule 2 to the Registration of Births, Deaths and Marriages (Fees) Order 1968 ([S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242)) and by the Schedule to the Registration of Births, Deaths and Marriages (Fees) Order 1987 ([S.I. 1987/50](https://www.legislation.gov.uk/uksi/1987/50)).
 
-[^key-5c53a222ec4153679fc647fc57377dd7]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1987/2088/regulation/29) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-5c53a222ec4153679fc647fc57377dd7]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1987/2088/regulation/29) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00020]: Footnote: Section 3A was inserted by section 92 of the Children Act [1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72).
 
-[^key-6730e08e8ec51df06f6ca894bf304f7e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1987/2088/regulation/30) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-6730e08e8ec51df06f6ca894bf304f7e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1987/2088/regulation/30) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-b03b640b8e6b27c9d1f200bb266fe41f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1987/2088/regulation/31) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-b03b640b8e6b27c9d1f200bb266fe41f]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1987/2088/regulation/31) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00021]: Footnote: Section 1(1) was amended by paragraph 13(1) of Schedule 3 to the Children Act [1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72).
 
-[^key-5a1899807916b9b368c493401e483d75]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1987/2088/regulation/32) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-5a1899807916b9b368c493401e483d75]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1987/2088/regulation/32) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00022]: Footnote: Section 11(1)(a) was substituted by section 2(1) of the Population (Statistics) Act [1960 (c. 32)](https://www.legislation.gov.uk/ukpga/1960/32) and amended by paragraph 7 of Schedule 7 to the Nurses, Midwives and Health Visitors Act [1979 (c. 36)](https://www.legislation.gov.uk/ukpga/1979/36).
 
 [^f00023]: Footnote: Section 11(1)(b) was amended by paragraph 7 of Schedule 7 to the Nurses, Midwives and Health Visitors Act [1979 (c. 36)](https://www.legislation.gov.uk/ukpga/1979/36).
 
-[^key-73b5922dbb42f993cea7507215e5c3ae]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1987/2088/regulation/33) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-73b5922dbb42f993cea7507215e5c3ae]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1987/2088/regulation/33) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-32793bfb967d8d788bdc67ab5279023d]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/33/1) substituted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1997/844/regulation/2/3)
+[^c-32793bfb967d8d788bdc67ab5279023d]: Textual amendment: Words in [reg. 33(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/33/1) substituted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/1997/844/regulation/2/3)
 
-[^key-d0bdedc72079bab75109ba4a779148bd]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/33A) inserted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2012/1203/regulation/13)
+[^c-d0bdedc72079bab75109ba4a779148bd]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/33A) inserted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2012/1203/regulation/13)
 
-[^key-a27ee221a88f9f593250e061ded69376]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-a27ee221a88f9f593250e061ded69376]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-142187c5293019ccd063395ca2b5ac0d]: Modification: [Reg. 34(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1) expiry of earlier affecting provision 2020 c. 7, Sch. 13 para. 6 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-142187c5293019ccd063395ca2b5ac0d]: Modification: [Reg. 34(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1) expiry of earlier affecting provision 2020 c. 7, Sch. 13 para. 6 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-13e4945fedb6925561a3e55225f91d1f]: Textual amendment: Words in [reg. 34(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1/a) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/9/a)
+[^c-13e4945fedb6925561a3e55225f91d1f]: Textual amendment: Words in [reg. 34(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1/a) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/9/a)
 
-[^key-4a1ccac8e6952f77605677c99369f9d3]: Textual amendment: Words in [reg. 34(1)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1/c) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/1203/regulation/14)
+[^c-4a1ccac8e6952f77605677c99369f9d3]: Textual amendment: Words in [reg. 34(1)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1/c) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/1203/regulation/14)
 
-[^key-0a79e9bb8b59a58cbd4dd2d132d1de3b]: Textual amendment: Word in [reg. 34(1)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1/c) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [reg. 2(9)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/9/b)
+[^c-0a79e9bb8b59a58cbd4dd2d132d1de3b]: Textual amendment: Word in [reg. 34(1)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1/c) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [reg. 2(9)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/9/b)
 
-[^key-a42824f2ad0b0879bdd5ba77584f3a1c]: Textual amendment: Words in [reg. 34(1)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1/c) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [reg. 2(9)(c)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/9/c)
+[^c-a42824f2ad0b0879bdd5ba77584f3a1c]: Textual amendment: Words in [reg. 34(1)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/1/c) omitted (coming into force in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [reg. 2(9)(c)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/9/c)
 
-[^key-7ad98c493794f1187e546e3089cacadb]: Textual amendment: Word in [reg. 34(2)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/2/a) inserted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1994/1948/regulation/5)
+[^c-7ad98c493794f1187e546e3089cacadb]: Textual amendment: Word in [reg. 34(2)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/2/a) inserted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1994/1948/regulation/5)
 
-[^key-d807513b4944114a33657ae170e5c413]: Textual amendment: [Reg. 34(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/2/a/ii) omitted (1.4.1995) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1994/1948/regulation/5)
+[^c-d807513b4944114a33657ae170e5c413]: Textual amendment: [Reg. 34(2)(a)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/2/a/ii) omitted (1.4.1995) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1994/1948/regulation/5)
 
-[^key-efbc367e5e2ac986cb7578bac337e1e5]: Textual amendment: [Reg. 34(2)(aa)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/2/aa) inserted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1994/1948/regulation/5)
+[^c-efbc367e5e2ac986cb7578bac337e1e5]: Textual amendment: [Reg. 34(2)(aa)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34/2/aa) inserted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1994/1948/regulation/5)
 
-[^key-25bf06f90ffd8f99fdb7145fae253496]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1997/844/regulation/2/4)
+[^c-25bf06f90ffd8f99fdb7145fae253496]: Textual amendment: [Reg. 34A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/1997/844/regulation/2/4)
 
-[^key-05a8470bfe7a65ed893e327167cb002d]: Textual amendment: Words in [reg. 34A(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/2/b) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/2827/regulation/8)
+[^c-05a8470bfe7a65ed893e327167cb002d]: Textual amendment: Words in [reg. 34A(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/2/b) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/2827/regulation/8)
 
-[^key-99c80e4e09aed8868874e1b43a0009a9]: Textual amendment: Words in [reg. 34A(4)(c)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/4/c/ii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/19/1)
+[^c-99c80e4e09aed8868874e1b43a0009a9]: Textual amendment: Words in [reg. 34A(4)(c)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/4/c/ii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/19/1)
 
-[^key-173e2b67ec5528710195c905445ef9f0]: Textual amendment: Words in [reg. 34A(4)(c)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/4/c/ii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/19/2)
+[^c-173e2b67ec5528710195c905445ef9f0]: Textual amendment: Words in [reg. 34A(4)(c)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/4/c/ii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/19/2)
 
-[^key-beee0e4c73d013d230f9e156bf92fca4]: Textual amendment: [Reg. 34A(4)(c)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/4/c/iii) inserted (1.12.2003) by [The Registration of Births and Deaths (Amendment) Regulations 2003 (S.I. 2003/3048)](https://www.legislation.gov.uk/uksi/2003/3048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3048/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/3048/regulation/6)
+[^c-beee0e4c73d013d230f9e156bf92fca4]: Textual amendment: [Reg. 34A(4)(c)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/4/c/iii) inserted (1.12.2003) by [The Registration of Births and Deaths (Amendment) Regulations 2003 (S.I. 2003/3048)](https://www.legislation.gov.uk/uksi/2003/3048), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3048/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2003/3048/regulation/6)
 
-[^key-0f162a25584419e28cbc3f9416fb1027]: Textual amendment: Words in [reg. 34A(4)(c)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/4/c/iii) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/19/3)
+[^c-0f162a25584419e28cbc3f9416fb1027]: Textual amendment: Words in [reg. 34A(4)(c)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/34A/4/c/iii) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/19/3)
 
-[^key-e2636e20d97587586458e1045bafc27a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-e2636e20d97587586458e1045bafc27a]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-a462700f8fc14dfd243baa8dd6e0658d]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/1) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/15/2/a)
+[^c-a462700f8fc14dfd243baa8dd6e0658d]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/1) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [15(2)(a)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/15/2/a)
 
-[^key-2975a3eff9c839daab745d9002200682]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/1) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/15/2/b)
+[^c-2975a3eff9c839daab745d9002200682]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/1) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [15(2)(b)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/15/2/b)
 
-[^key-e00804dcbd449551904a81042fe94c14]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/1) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/10)
+[^c-e00804dcbd449551904a81042fe94c14]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/1) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/10)
 
-[^key-17bad6c31d8e77057ce4d0dfda41c840]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/1) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/1997/844/regulation/2/5)
+[^c-17bad6c31d8e77057ce4d0dfda41c840]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/1) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/1997/844/regulation/2/5)
 
-[^key-51bc2702bfc0ca4166f09043ca47324c]: Textual amendment: [Reg. 35(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/3) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/15/3)
+[^c-51bc2702bfc0ca4166f09043ca47324c]: Textual amendment: [Reg. 35(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/35/3) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [15(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/15/3)
 
-[^key-b52e4d7390f4d42cd050ba339cf5884e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1987/2088/regulation/36) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-b52e4d7390f4d42cd050ba339cf5884e]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1987/2088/regulation/36) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-2d2859b66f7b6c96c59949a7771780d4]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/36/1) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/16/2)
+[^c-2d2859b66f7b6c96c59949a7771780d4]: Textual amendment: Words in [reg. 36(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/36/1) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/16/2)
 
-[^key-fd5b9c6291badad8f7731961c6ea95de]: Textual amendment: Words in [reg. 36(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/36/1/a) inserted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1994/1948/regulation/6)
+[^c-fd5b9c6291badad8f7731961c6ea95de]: Textual amendment: Words in [reg. 36(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/36/1/a) inserted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1994/1948/regulation/6)
 
-[^key-1a29d2c473e46bb629930405c92eb7de]: Textual amendment: [Reg. 36(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/36/2) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/16/3)
+[^c-1a29d2c473e46bb629930405c92eb7de]: Textual amendment: [Reg. 36(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/36/2) substituted (28.5.2012) by [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/16/3)
 
-[^key-78a8ac310d08f24285c27c9b0b89cbe7]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1987/2088/regulation/37) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-78a8ac310d08f24285c27c9b0b89cbe7]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1987/2088/regulation/37) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-135154409e55409e5e5717c9df8b26d7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1987/2088/regulation/38) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-135154409e55409e5e5717c9df8b26d7]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1987/2088/regulation/38) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00024]: Footnote: Section 11(2) was amended by section 3(3) of the Population (Statistics) Act [1960 (c. 32)](https://www.legislation.gov.uk/ukpga/1960/32).
 
-[^key-12c8ac9a0f76875146a0b107bb2e1c83]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1987/2088/regulation/39) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-12c8ac9a0f76875146a0b107bb2e1c83]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1987/2088/regulation/39) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-29920ebd610116df621fc0c5e05d906b]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/uksi/1987/2088/regulation/39) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2006/2827/regulation/9)
+[^c-29920ebd610116df621fc0c5e05d906b]: Textual amendment: Words in [reg. 39](https://www.legislation.gov.uk/uksi/1987/2088/regulation/39) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2006/2827/regulation/9)
 
-[^key-b23457b90fbbde7225e29d23109f1544]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/uksi/1987/2088/regulation/40) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/5/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-b23457b90fbbde7225e29d23109f1544]: Textual amendment: [Reg. 40](https://www.legislation.gov.uk/uksi/1987/2088/regulation/40) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/5/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-640e1fbde281a3ca2bef07315875bee9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1987/2088/regulation/40) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-640e1fbde281a3ca2bef07315875bee9]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1987/2088/regulation/40) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-ee2d45335246996becce7e1ddc0d28cb]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/1987/2088/regulation/41) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/5/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-ee2d45335246996becce7e1ddc0d28cb]: Textual amendment: [Reg. 41](https://www.legislation.gov.uk/uksi/1987/2088/regulation/41) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/5/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-bfe5c72b84e74fb787767fec4dfaacdd]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-bfe5c72b84e74fb787767fec4dfaacdd]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-5afe2089dce86f196a68463853b0a7b4]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42) heading substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/6/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-5afe2089dce86f196a68463853b0a7b4]: Textual amendment: [Reg. 42](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42) heading substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/6/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-512efdb542b8c3d0f6e95461200fca9d]: Textual amendment: [Reg. 42(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/1)[(1A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/1A) substituted for [reg. 42(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/1) (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/6/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-512efdb542b8c3d0f6e95461200fca9d]: Textual amendment: [Reg. 42(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/1)[(1A)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/1A) substituted for [reg. 42(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/1) (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/6/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-d2c5195deefdc2248051157f7bcf203e]: Textual amendment: Words in [reg. 42(3)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/a) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [20(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/20/1)
+[^c-d2c5195deefdc2248051157f7bcf203e]: Textual amendment: Words in [reg. 42(3)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/a) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [20(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/20/1)
 
-[^key-154b41a28e16dd920f63f009f6859c32]: Textual amendment: [Reg. 42(3)(a)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/a/i) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/20/2)
+[^c-154b41a28e16dd920f63f009f6859c32]: Textual amendment: [Reg. 42(3)(a)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/a/i) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/20/2)
 
-[^key-5c65a83e4da1cc4e117a578be68d2bf3]: Textual amendment: [Reg. 42(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/a/ii) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/20/3)
+[^c-5c65a83e4da1cc4e117a578be68d2bf3]: Textual amendment: [Reg. 42(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/a/ii) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [20(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/20/3)
 
-[^key-f021ff5a2fe707875361c7a7cfced39e]: Textual amendment: Word in [reg. 42(3)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/b) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(4)(a)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/4/a)
+[^c-f021ff5a2fe707875361c7a7cfced39e]: Textual amendment: Word in [reg. 42(3)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/b) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(4)(a)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/4/a)
 
-[^key-c476fbac5d3334475573f9f0b4ebab01]: Textual amendment: [Reg. 42(3)(ba)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/ba)[(bb)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/bb) inserted (5.12.2005) by [The Registration of Births, Deaths and Marriages (Amendment) Regulations 2005 (S.I. 2005/3177)](https://www.legislation.gov.uk/uksi/2005/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3177/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2005/3177/regulation/6/2)
+[^c-c476fbac5d3334475573f9f0b4ebab01]: Textual amendment: [Reg. 42(3)(ba)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/ba)[(bb)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/bb) inserted (5.12.2005) by [The Registration of Births, Deaths and Marriages (Amendment) Regulations 2005 (S.I. 2005/3177)](https://www.legislation.gov.uk/uksi/2005/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3177/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2005/3177/regulation/6/2)
 
-[^key-cba7b49313c39d41106b5db5ca70ce9c]: Textual amendment: Word in [reg. 42(3)(ba)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/ba) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(4)(b)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/4/b)
+[^c-cba7b49313c39d41106b5db5ca70ce9c]: Textual amendment: Word in [reg. 42(3)(ba)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/ba) substituted (13.3.2014) by [The Marriage (Same Sex Couples) Act 2013 (Consequential Provisions) Order 2014 (S.I. 2014/107)](https://www.legislation.gov.uk/uksi/2014/107), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/107/article/1/2), [Sch. 1 para. 11(4)(b)](https://www.legislation.gov.uk/uksi/2014/107/schedule/1/paragraph/11/4/b)
 
-[^key-ac31ff67d9d224eb8eadf4f50bf12dae]: Textual amendment: [Reg. 42(3)(bc)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/bc) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [20(4)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/20/4)
+[^c-ac31ff67d9d224eb8eadf4f50bf12dae]: Textual amendment: [Reg. 42(3)(bc)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/3/bc) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [20(4)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/20/4)
 
-[^key-1d608331e3a1b12cc3d4636ea6c964c2]: Textual amendment: [Reg. 42(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/4) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/6/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-1d608331e3a1b12cc3d4636ea6c964c2]: Textual amendment: [Reg. 42(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/4) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(6)(c)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/6/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-9eefd5c1157508f84ec3bca34c21cf11]: Textual amendment: Words in [reg. 42(5)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/5) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/10/3)
+[^c-9eefd5c1157508f84ec3bca34c21cf11]: Textual amendment: Words in [reg. 42(5)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/5) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [10(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/10/3)
 
-[^key-1855027fd49edaaf5f665f9a43d4bd00]: Textual amendment: Words in [reg. 42(6)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/6) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/10/4)
+[^c-1855027fd49edaaf5f665f9a43d4bd00]: Textual amendment: Words in [reg. 42(6)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/6) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [10(4)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/10/4)
 
-[^key-0858740cbbf2f1ea1180a85380d6fba9]: Textual amendment: Word in [reg. 42(7)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/7/a) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/10/5)
+[^c-0858740cbbf2f1ea1180a85380d6fba9]: Textual amendment: Word in [reg. 42(7)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42/7/a) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [10(5)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/10/5)
 
-[^key-e5690aca640423abb9511f134f4f1568]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1997/844/regulation/3/2)
+[^c-e5690aca640423abb9511f134f4f1568]: Textual amendment: [Reg. 42A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/1997/844/regulation/3/2)
 
-[^key-759e3fe53c9fddeddfcba6c30175a0c6]: Textual amendment: Words in [reg. 42A(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/2/b) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/11/1)
+[^c-759e3fe53c9fddeddfcba6c30175a0c6]: Textual amendment: Words in [reg. 42A(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/2/b) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [11(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/11/1)
 
-[^key-1e8b065e655da0a737c8ad4ef5a1bdc2]: Textual amendment: Word in [reg. 42A(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/3) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-1e8b065e655da0a737c8ad4ef5a1bdc2]: Textual amendment: Word in [reg. 42A(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/3) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-1c497eceeb23d22e712d240ad13ec97e]: Textual amendment: Words in [reg. 42A(3)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/3/a) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/13)
+[^c-1c497eceeb23d22e712d240ad13ec97e]: Textual amendment: Words in [reg. 42A(3)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/3/a) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/13)
 
-[^key-d756ef90c5f1d06019fa57d8982db0bb]: Textual amendment: Word in [reg. 42A(4)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/4/b) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/11/2)
+[^c-d756ef90c5f1d06019fa57d8982db0bb]: Textual amendment: Word in [reg. 42A(4)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/4/b) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/11/2)
 
-[^key-271c28618b78e0b292809e69169661a2]: Textual amendment: Words in [reg. 42A(4)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/4/b) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-271c28618b78e0b292809e69169661a2]: Textual amendment: Words in [reg. 42A(4)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/4/b) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-e2ed0987aced78a129df05afffa11409]: Textual amendment: Word in [reg. 42A(4)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/4/c) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/11/2)
+[^c-e2ed0987aced78a129df05afffa11409]: Textual amendment: Word in [reg. 42A(4)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/42A/4/c) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/11/2)
 
-[^key-fa3f8c12d739164f7a6aceb97c5b956d]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/1987/2088/regulation/43) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/8)
+[^c-fa3f8c12d739164f7a6aceb97c5b956d]: Textual amendment: [Reg. 43](https://www.legislation.gov.uk/uksi/1987/2088/regulation/43) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/8)
 
-[^key-1016d1f699c274febf1d646b5709a7c0]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/43A) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/9)
+[^c-1016d1f699c274febf1d646b5709a7c0]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/43A) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/9)
 
-[^key-fce78c3309b248e543c191c3526e1b7a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-fce78c3309b248e543c191c3526e1b7a]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-ab1ff80aa245e3e2f7e5d92f3d2d0ae3]: Textual amendment: Words in [reg. 44](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/10/a)
+[^c-ab1ff80aa245e3e2f7e5d92f3d2d0ae3]: Textual amendment: Words in [reg. 44](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/10/a)
 
-[^key-975fb558e27ad0a9ab2dfa5d675045ae]: Textual amendment: Word in [reg. 44(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44/a) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2006/2827/regulation/13)
+[^c-975fb558e27ad0a9ab2dfa5d675045ae]: Textual amendment: Word in [reg. 44(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44/a) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2006/2827/regulation/13)
 
-[^key-73da959c1db1148a1845c2ccd207acf9]: Textual amendment: Words in [reg. 44](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/10/b)
+[^c-73da959c1db1148a1845c2ccd207acf9]: Textual amendment: Words in [reg. 44](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/10/b)
 
-[^key-ad4e607f3d9799e9f54b9aaa020d36df]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44A) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/1997/844/regulation/3/4)
+[^c-ad4e607f3d9799e9f54b9aaa020d36df]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44A) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/1997/844/regulation/3/4)
 
-[^key-949dc1b8a7ad3a62d54f02e621fbd011]: Textual amendment: Word in [reg. 44A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44A) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/11)
+[^c-949dc1b8a7ad3a62d54f02e621fbd011]: Textual amendment: Word in [reg. 44A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/44A) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/11)
 
-[^key-e0380d70853753bb99752cc12d9ffd85]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-e0380d70853753bb99752cc12d9ffd85]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-f430a053ee5d28289a7fec8acf84a1db]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45) heading inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/12/a)
+[^c-f430a053ee5d28289a7fec8acf84a1db]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45) heading inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/12/a)
 
-[^key-9ca57f7c50dcaefc96f1c2364ebad0bc]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/12/b)
+[^c-9ca57f7c50dcaefc96f1c2364ebad0bc]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/12/b)
 
-[^key-3ac242533ebf52dcf9ae521d55b43cfa]: Textual amendment: Word in [reg. 45(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45/a) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/14/1)
+[^c-3ac242533ebf52dcf9ae521d55b43cfa]: Textual amendment: Word in [reg. 45(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45/a) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [14(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/14/1)
 
-[^key-c2ec3db47344e5d08301afeee89c1b5c]: Textual amendment: Word in [reg. 45(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45/c) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/14/2)
+[^c-c2ec3db47344e5d08301afeee89c1b5c]: Textual amendment: Word in [reg. 45(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/45/c) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [14(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/14/2)
 
-[^key-1bc70734416b6d1a722835f3eac0504c]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1987/2088/regulation/46) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-1bc70734416b6d1a722835f3eac0504c]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1987/2088/regulation/46) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-790aaae7611d23e4ea6b718dfd66c788]: Textual amendment: Words in [reg. 46](https://www.legislation.gov.uk/uksi/1987/2088/regulation/46) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/13) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-790aaae7611d23e4ea6b718dfd66c788]: Textual amendment: Words in [reg. 46](https://www.legislation.gov.uk/uksi/1987/2088/regulation/46) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/13) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-0e41d962f1c222c3a3fc867496b35152]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/1987/2088/regulation/47) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/14) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-0e41d962f1c222c3a3fc867496b35152]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/uksi/1987/2088/regulation/47) omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(14)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/14) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-d12bcdb815b0642aac84b49c36c063c4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1987/2088/regulation/47) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-d12bcdb815b0642aac84b49c36c063c4]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1987/2088/regulation/47) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-f53eea579980038a394d288448ce6032]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1987/2088/regulation/48) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-f53eea579980038a394d288448ce6032]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1987/2088/regulation/48) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00027]: Footnote: [1926 c. 48](https://www.legislation.gov.uk/ukpga/1926/48).
 
-[^key-6df3afe6ec24558f0b840dee73993b75]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1987/2088/regulation/49) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-6df3afe6ec24558f0b840dee73993b75]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/1987/2088/regulation/49) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-a78cdab82cc06c652255f072f6c4eaf0]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/49/2) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2006/2827/regulation/15)
+[^c-a78cdab82cc06c652255f072f6c4eaf0]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/49/2) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2006/2827/regulation/15)
 
-[^key-f1ca99aca8eba2453f175091e5b95c3e]: Textual amendment: [Reg. 49(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/49/4) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/15) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-f1ca99aca8eba2453f175091e5b95c3e]: Textual amendment: [Reg. 49(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/49/4) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/15) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-953ad8acb4f194f4491b0ac7b8fc076e]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1987/2088/regulation/50) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-953ad8acb4f194f4491b0ac7b8fc076e]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/1987/2088/regulation/50) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-6f61f6a58d84b20f4428318a89b8f634]: Textual amendment: [Reg. 50(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/50/a)[(aa)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/50/aa) substituted for [reg. 50(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/50/a) (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/16)
+[^c-6f61f6a58d84b20f4428318a89b8f634]: Textual amendment: [Reg. 50(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/50/a)[(aa)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/50/aa) substituted for [reg. 50(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/50/a) (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/16)
 
-[^key-b4f4049e2550557205444a35aa68aa9e]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1987/2088/regulation/51) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-b4f4049e2550557205444a35aa68aa9e]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1987/2088/regulation/51) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00028]: Footnote: [1832 c. 75](https://www.legislation.gov.uk/ukpga/1832/75).
 
@@ -1908,205 +1908,205 @@ Among the changes of substance are the introduction of an additional category of
 
 [^f00030]: Footnote: [1961 c. 54](https://www.legislation.gov.uk/ukpga/1961/54).
 
-[^key-92465462916e8970651975b3b8d676eb]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1987/2088/regulation/52) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-92465462916e8970651975b3b8d676eb]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/1987/2088/regulation/52) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-5cafbcec3185a1e5c8d81105f353d646]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1987/2088/regulation/53) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-5cafbcec3185a1e5c8d81105f353d646]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/1987/2088/regulation/53) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-418071cd7e416216762ac359cfdf902e]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1987/2088/regulation/54) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-418071cd7e416216762ac359cfdf902e]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/1987/2088/regulation/54) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-cbed03753bf016f2286f3ff9aca2fcfa]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/54/1) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [16(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/16/1)
+[^c-cbed03753bf016f2286f3ff9aca2fcfa]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/54/1) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [16(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/16/1)
 
-[^key-16f49ae00b0ece7aed1fa42057135826]: Textual amendment: [Reg. 54(1)(d)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/54/1/d) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/16/2)
+[^c-16f49ae00b0ece7aed1fa42057135826]: Textual amendment: [Reg. 54(1)(d)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/54/1/d) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [16(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/16/2)
 
-[^key-82f386910a1da7adae514e4ff951c149]: Textual amendment: Words in [reg. 54(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/54/2) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/16/3)
+[^c-82f386910a1da7adae514e4ff951c149]: Textual amendment: Words in [reg. 54(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/54/2) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [16(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/16/3)
 
-[^key-d87f444de81e9be6981b1aaabf6d73f8]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-d87f444de81e9be6981b1aaabf6d73f8]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-5edba2fdf4b1cfc6207a9000a485a7d7]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/1) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(1)(a)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/1/a)
+[^c-5edba2fdf4b1cfc6207a9000a485a7d7]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/1) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(1)(a)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/1/a)
 
-[^key-21bfffc5ea13d369d00b1cc7a8be6955]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/1) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(1)(b)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/1/b)
+[^c-21bfffc5ea13d369d00b1cc7a8be6955]: Textual amendment: Words in [reg. 55(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/1) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(1)(b)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/1/b)
 
-[^key-baf1f3618b5a7f46e7df608c07e1b88c]: Textual amendment: Words in [reg. 55(2)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/c) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/2)
+[^c-baf1f3618b5a7f46e7df608c07e1b88c]: Textual amendment: Words in [reg. 55(2)(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/c) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/2)
 
-[^key-7dc609ad65a7131214329f1e67de955e]: Textual amendment: [Reg. 55(2)(cc)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/cc) inserted (1.7.1997) by [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/5/a)
+[^c-7dc609ad65a7131214329f1e67de955e]: Textual amendment: [Reg. 55(2)(cc)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/cc) inserted (1.7.1997) by [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/5/a)
 
-[^key-110934b131dcc20c5c9c041521737c10]: Textual amendment: Words in [reg. 55(2)(cc)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/cc) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/3)
+[^c-110934b131dcc20c5c9c041521737c10]: Textual amendment: Words in [reg. 55(2)(cc)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/cc) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/3)
 
-[^key-43b0152951b7b0e6502e028ab1d7862c]: Textual amendment: [Reg. 55(2)(e)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/e) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/1989/497/regulation/9/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
+[^c-43b0152951b7b0e6502e028ab1d7862c]: Textual amendment: [Reg. 55(2)(e)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/e) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/1989/497/regulation/9/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
 
-[^key-7d43d66bdd1625fe35ea1bcb5bbd9efa]: Textual amendment: Word in [reg. 55(2)(e)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/e/i)[(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/e/ii) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/4)
+[^c-7d43d66bdd1625fe35ea1bcb5bbd9efa]: Textual amendment: Word in [reg. 55(2)(e)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/e/i)[(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/e/ii) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/4)
 
-[^key-34a57a7f560c6191369b56919a0557ac]: Textual amendment: Words in [reg. 55(2)(f)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/f/i) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/1997/844/regulation/4/3/b)
+[^c-34a57a7f560c6191369b56919a0557ac]: Textual amendment: Words in [reg. 55(2)(f)(i)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/f/i) inserted (1.4.1997) by [The Registration of Births and Deaths (Amendment) Regulations 1997 (S.I. 1997/844)](https://www.legislation.gov.uk/uksi/1997/844), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1997/844/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/1997/844/regulation/4/3/b)
 
 [^f00031]: Footnote: Section 13(1) was amended by Schedule 2 to the Registration of Births, Deaths and Marriages (Fees) Order 1968 ([S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242)).
 
-[^key-df5b41668e24b96af822c12c62c92f9c]: Textual amendment: Words in [reg. 55(2)(f)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/f/iii) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(16)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/16/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-df5b41668e24b96af822c12c62c92f9c]: Textual amendment: Words in [reg. 55(2)(f)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/f/iii) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(16)(a)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/16/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-def4d6fa84f31b4797363b9f216bfed2]: Textual amendment: Words in [reg. 55(2)(f)(v)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/f/v) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(16)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/16/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-def4d6fa84f31b4797363b9f216bfed2]: Textual amendment: Words in [reg. 55(2)(f)(v)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/f/v) substituted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(16)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/16/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-db2d901c3afccbe90bb7160911e5e5d5]: Textual amendment: Words in [reg. 55(2)(g)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/g) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2009/2165/regulation/21)
+[^c-db2d901c3afccbe90bb7160911e5e5d5]: Textual amendment: Words in [reg. 55(2)(g)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/2/g) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2009/2165/regulation/21)
 
-[^key-a1d5c0def4fdffe15daa731ebcecaec7]: Textual amendment: [Reg. 55(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/3) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/5)
+[^c-a1d5c0def4fdffe15daa731ebcecaec7]: Textual amendment: [Reg. 55(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/3) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(5)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/5)
 
-[^key-8d3acaaf6e76c3f15f9798b6f9e6e879]: Textual amendment: [Reg. 55(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/4) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(6)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/6)
+[^c-8d3acaaf6e76c3f15f9798b6f9e6e879]: Textual amendment: [Reg. 55(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/55/4) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [17(6)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/17/6)
 
-[^key-1c3d654978e569b411d85084c58d93e0]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-1c3d654978e569b411d85084c58d93e0]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-5631f3ac81f4ae21be6a3f5eeca73ace]: Textual amendment: [Reg. 56(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/1) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/18/1)
+[^c-5631f3ac81f4ae21be6a3f5eeca73ace]: Textual amendment: [Reg. 56(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/1) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [18(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/18/1)
 
-[^key-c2c677e853cae14db1265d6d430055ab]: Textual amendment: Words in [reg. 56(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/1) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/17/a)
+[^c-c2c677e853cae14db1265d6d430055ab]: Textual amendment: Words in [reg. 56(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/1) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/17/a)
 
-[^key-91da9e9f63f1e907573089a581a21ebb]: Textual amendment: [Reg. 56(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/2) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/18/2)
+[^c-91da9e9f63f1e907573089a581a21ebb]: Textual amendment: [Reg. 56(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/2) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [18(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/18/2)
 
-[^key-51d9118275a5aebd21a28f83c9838540]: Textual amendment: Words in [reg. 56(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/2) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/17/b)
+[^c-51d9118275a5aebd21a28f83c9838540]: Textual amendment: Words in [reg. 56(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/2) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/17/b)
 
-[^key-751238ec0949065b4d45f07a486f0efb]: Textual amendment: Word in [reg. 56(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/18/3)
+[^c-751238ec0949065b4d45f07a486f0efb]: Textual amendment: Word in [reg. 56(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/18/3)
 
-[^key-905398c9c47a50d3d2371f573987382c]: Textual amendment: Words in [reg. 56(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/ii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [22(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/22/1)
+[^c-905398c9c47a50d3d2371f573987382c]: Textual amendment: Words in [reg. 56(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/ii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [22(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/22/1)
 
-[^key-70185d66635b7b72a7d0fd2ca144b3aa]: Textual amendment: Words in [reg. 56(3)(a)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/iii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/22/2)
+[^c-70185d66635b7b72a7d0fd2ca144b3aa]: Textual amendment: Words in [reg. 56(3)(a)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/iii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [22(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/22/2)
 
-[^key-fc3d3c8e947a7b04a2e674ba93154ea8]: Textual amendment: [Reg. 56(3)(a)(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/iv) substituted for [reg. 56(3)(a)(iiia)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/iiia)[(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/iv) (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/1994/1948/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/1994/1948/regulation/9))
+[^c-fc3d3c8e947a7b04a2e674ba93154ea8]: Textual amendment: [Reg. 56(3)(a)(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/iv) substituted for [reg. 56(3)(a)(iiia)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/iiia)[(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/iv) (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/1994/1948/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/1994/1948/regulation/9))
 
-[^key-fe09b44598b56f916ea3fdb6287636fb]: Textual amendment: Words in [reg. 56(3)(a)(vi)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/vi) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/22/3)
+[^c-fe09b44598b56f916ea3fdb6287636fb]: Textual amendment: Words in [reg. 56(3)(a)(vi)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/a/vi) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [22(3)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/22/3)
 
-[^key-cc75f367851dbee0b2e40400a3845163]: Textual amendment: Word in [reg. 56(3)(b)(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/b/iv) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/1989/497/regulation/10/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
+[^c-cc75f367851dbee0b2e40400a3845163]: Textual amendment: Word in [reg. 56(3)(b)(iv)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/b/iv) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/1989/497/regulation/10/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
 
-[^key-a15fc454992f5e46308707c4efa0b500]: Textual amendment: Words in [reg. 56(3)(b)(v)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/b/v) inserted (5.12.2005) by [The Registration of Births, Deaths and Marriages (Amendment) Regulations 2005 (S.I. 2005/3177)](https://www.legislation.gov.uk/uksi/2005/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3177/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2005/3177/regulation/6/3)
+[^c-a15fc454992f5e46308707c4efa0b500]: Textual amendment: Words in [reg. 56(3)(b)(v)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/3/b/v) inserted (5.12.2005) by [The Registration of Births, Deaths and Marriages (Amendment) Regulations 2005 (S.I. 2005/3177)](https://www.legislation.gov.uk/uksi/2005/3177), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3177/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2005/3177/regulation/6/3)
 
-[^key-91ca35057e250ce3a9bf88faae7eb37e]: Textual amendment: [Reg. 56(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/4)[(5)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/5) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [18(4)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/18/4)
+[^c-91ca35057e250ce3a9bf88faae7eb37e]: Textual amendment: [Reg. 56(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/4)[(5)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/56/5) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [18(4)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/18/4)
 
-[^key-bbea6d12a762084282e5082487f245ec]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-bbea6d12a762084282e5082487f245ec]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-71571c365b7e47001c1b9e47dc588d9f]: Textual amendment: Words in [reg. 57(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/1) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/19/1)
+[^c-71571c365b7e47001c1b9e47dc588d9f]: Textual amendment: Words in [reg. 57(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/1) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [19(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/19/1)
 
-[^key-175808d76f5ce02ee3a087919a90bf4d]: Textual amendment: Word in [reg. 57(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/1) substituted (4.4.1988) by [The Registration of Births and Deaths (Amendment) Regulations 1988 (S.I. 1988/638)](https://www.legislation.gov.uk/uksi/1988/638), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/638/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1988/638/regulation/5)
+[^c-175808d76f5ce02ee3a087919a90bf4d]: Textual amendment: Word in [reg. 57(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/1) substituted (4.4.1988) by [The Registration of Births and Deaths (Amendment) Regulations 1988 (S.I. 1988/638)](https://www.legislation.gov.uk/uksi/1988/638), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/638/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/1988/638/regulation/5)
 
-[^key-e6f59941551368181a5ace65f1febcb1]: Textual amendment: Word in [reg. 57](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(17)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/17) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-e6f59941551368181a5ace65f1febcb1]: Textual amendment: Word in [reg. 57](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(17)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/17) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-dafe951aeca47c8e2fb344dbcf7fd9c9]: Textual amendment: [Reg. 57(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/1/b) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/18/a)
+[^c-dafe951aeca47c8e2fb344dbcf7fd9c9]: Textual amendment: [Reg. 57(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/1/b) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/18/a)
 
-[^key-6dc5528db9b0bab6ccab77b6c76e2998]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/2) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/19/2)
+[^c-6dc5528db9b0bab6ccab77b6c76e2998]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/2) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [19(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/19/2)
 
-[^key-70fd8156393867b9d615bf655fd5e8c7]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/2) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/18/b)
+[^c-70fd8156393867b9d615bf655fd5e8c7]: Textual amendment: Words in [reg. 57(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/2) omitted (20.12.2021) by virtue of [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/18/b)
 
-[^key-e10889a9607fbfbcdb5df110a10ec8df]: Textual amendment: [Reg. 57(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/3)[(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/4) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/19/3)
+[^c-e10889a9607fbfbcdb5df110a10ec8df]: Textual amendment: [Reg. 57(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/3)[(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/4) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [19(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/19/3)
 
-[^key-6180a4bdfaa54cc73783c569b98f2f6e]: Textual amendment: Words in [reg. 57(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/3) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(18)(c)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/18/c)
+[^c-6180a4bdfaa54cc73783c569b98f2f6e]: Textual amendment: Words in [reg. 57(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/57/3) substituted (20.12.2021) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2021 (S.I. 2021/1436)](https://www.legislation.gov.uk/uksi/2021/1436), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/1/2), [2(18)(c)](https://www.legislation.gov.uk/uksi/2021/1436/regulation/2/18/c)
 
-[^key-7a96773e23a6cfffb11c5761f032fb79]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1987/2088/regulation/58) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-7a96773e23a6cfffb11c5761f032fb79]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1987/2088/regulation/58) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-9f5ae8581ceebad10d3553a924c3c41b]: Textual amendment: Words in [reg. 58](https://www.legislation.gov.uk/uksi/1987/2088/regulation/58) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(18)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/18) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-9f5ae8581ceebad10d3553a924c3c41b]: Textual amendment: Words in [reg. 58](https://www.legislation.gov.uk/uksi/1987/2088/regulation/58) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(18)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/18) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
 [^f00032]: Footnote: Section 29(3) was amended by Schedule 2 to the Registration of Births, Deaths and Marriages (Fees) Order 1968 ([S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242)).
 
-[^key-7d578f69ee9237566c2ae55a2e208c44]: Textual amendment: [Reg. 58(2)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/58/2/a) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2006/2827/regulation/20)
+[^c-7d578f69ee9237566c2ae55a2e208c44]: Textual amendment: [Reg. 58(2)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/58/2/a) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2006/2827/regulation/20)
 
-[^key-dee62464767f35fc5137acd094f3c9de]: Textual amendment: [Reg. 58A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/58A) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(19)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/19) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-dee62464767f35fc5137acd094f3c9de]: Textual amendment: [Reg. 58A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/58A) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(19)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/19) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-350b1b19d54883ba814f8df4e751756c]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-350b1b19d54883ba814f8df4e751756c]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-ef78bf5b02b9892c1fe36436bb7089ed]: Textual amendment: Words in [reg. 59(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59/1/a) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [21(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/21/1)
+[^c-ef78bf5b02b9892c1fe36436bb7089ed]: Textual amendment: Words in [reg. 59(1)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59/1/a) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [21(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/21/1)
 
 [^f00033]: Footnote: Section 29(4) was amended by Schedule 12 to the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45) and by Schedule 2 to the Coroners Act [1980 (c. 38)](https://www.legislation.gov.uk/ukpga/1980/38).
 
-[^key-c179dce72fc876feb2929b3c78c62478]: Textual amendment: [Reg. 59(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59/2) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/21/2)
+[^c-c179dce72fc876feb2929b3c78c62478]: Textual amendment: [Reg. 59(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59/2) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/21/2)
 
-[^key-e82be21cde89b3dc9d879f731d9f7c43]: Textual amendment: [Reg. 59(3)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59/3/a) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [21(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/21/3)
+[^c-e82be21cde89b3dc9d879f731d9f7c43]: Textual amendment: [Reg. 59(3)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59/3/a) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [21(3)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/21/3)
 
-[^key-6b9084179f14b5ddb0e6bb4486102dc3]: Textual amendment: [Reg. 59(3)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59/3/b) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [21(4)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/21/4)
+[^c-6b9084179f14b5ddb0e6bb4486102dc3]: Textual amendment: [Reg. 59(3)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/59/3/b) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [21(4)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/21/4)
 
-[^key-73f25fffc6bb613405620ea5d3f3c4ee]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/uksi/1987/2088/regulation/60) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2006/2827/regulation/22)
+[^c-73f25fffc6bb613405620ea5d3f3c4ee]: Textual amendment: [Reg. 60](https://www.legislation.gov.uk/uksi/1987/2088/regulation/60) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2006/2827/regulation/22)
 
-[^key-91ddd2bf0272be327d35c6e8314ce5a0]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/1987/2088/regulation/61) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-91ddd2bf0272be327d35c6e8314ce5a0]: Commencement: [Reg. 61](https://www.legislation.gov.uk/uksi/1987/2088/regulation/61) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-436acea99cb1e1b243c33546560f4f10]: Textual amendment: Words in [reg. 61(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/61/1) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [23(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/23/1)
+[^c-436acea99cb1e1b243c33546560f4f10]: Textual amendment: Words in [reg. 61(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/61/1) omitted (13.11.2006) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [23(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/23/1)
 
 [^f00034]: Footnote: Section 10A was inserted by section 93(2) of the Children Act [1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72).
 
-[^key-0041589cf16098fbc38879382291cd84]: Textual amendment: Words in [reg. 61(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/61/3) substituted (4.4.1988) by [The Registration of Births and Deaths (Amendment) Regulations 1988 (S.I. 1988/638)](https://www.legislation.gov.uk/uksi/1988/638), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/638/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1988/638/regulation/6)
+[^c-0041589cf16098fbc38879382291cd84]: Textual amendment: Words in [reg. 61(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/61/3) substituted (4.4.1988) by [The Registration of Births and Deaths (Amendment) Regulations 1988 (S.I. 1988/638)](https://www.legislation.gov.uk/uksi/1988/638), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1988/638/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/1988/638/regulation/6)
 
 [^f00035]: Footnote: Section 14(1) was amended by paragraph 13(3) of Schedule 3 to the Children Act [1975 (c. 72)](https://www.legislation.gov.uk/ukpga/1975/72) and by paragraph 1(b) of Schedule 1 to the Matrimonial Causes Act [1973 (c. 18)](https://www.legislation.gov.uk/ukpga/1973/18).
 
-[^key-35d0f9379f8d75882a0373d57fddc29e]: Textual amendment: [Reg. 61(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/61/4) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/23/2)
+[^c-35d0f9379f8d75882a0373d57fddc29e]: Textual amendment: [Reg. 61(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/61/4) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/23/2)
 
-[^key-b32dc48746e59725dca5dceecc693054]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1987/2088/regulation/62) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-b32dc48746e59725dca5dceecc693054]: Commencement: [Reg. 62](https://www.legislation.gov.uk/uksi/1987/2088/regulation/62) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00036]: Footnote: Section 12 was amended by Schedule 2 to the Registration of Births, Deaths and Marriages (Fees) Order 1968 ([S.I. 1968/1242](https://www.legislation.gov.uk/uksi/1968/1242)).
 
-[^key-0203710e101d047512e7b3cbec82bfd2]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1987/2088/regulation/63) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-0203710e101d047512e7b3cbec82bfd2]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/1987/2088/regulation/63) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00037]: Footnote: Section 33 was amended by section 10(1) of the Decimal Currency Act [1969 (c. 19)](https://www.legislation.gov.uk/ukpga/1969/19) and by the Registration of Births, Deaths and Marriages (Fees) Order 1985 ([S.I. 1985/1960](https://www.legislation.gov.uk/uksi/1985/1960)).
 
-[^key-45219d196e0eec1107e96cd3521fb245]: Textual amendment: Words in [reg. 63(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/63/2/a/iii) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [23(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/23/1)
+[^c-45219d196e0eec1107e96cd3521fb245]: Textual amendment: Words in [reg. 63(2)(a)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/63/2/a/iii) substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [23(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/23/1)
 
-[^key-87b8c4df440c385da061bcc476f3a608]: Textual amendment: Words in [reg. 63(2)(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/63/2/b/iii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/23/2)
+[^c-87b8c4df440c385da061bcc476f3a608]: Textual amendment: Words in [reg. 63(2)(b)(iii)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/63/2/b/iii) inserted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/23/2)
 
-[^key-90113dfad3729f6bba35309782d4d8bd]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1987/2088/regulation/64) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-90113dfad3729f6bba35309782d4d8bd]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/1987/2088/regulation/64) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-a53b7932991f2ca4b69416be9348fa4a]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1987/2088/regulation/65) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-a53b7932991f2ca4b69416be9348fa4a]: Commencement: [Reg. 65](https://www.legislation.gov.uk/uksi/1987/2088/regulation/65) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00038]: Footnote: [1894 c. 60](https://www.legislation.gov.uk/ukpga/1894/60); section 1 was amended by Part I of Schedule 4 to the British Nationality Act [1948 (c. 56)](https://www.legislation.gov.uk/ukpga/1948/56) (repealed).
 
-[^key-cad9675f506b450c1580bb85441a642d]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1987/2088/regulation/66) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-cad9675f506b450c1580bb85441a642d]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1987/2088/regulation/66) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00039]: Footnote: [1953 c.xxxvi](https://www.legislation.gov.uk/ukla/1953/36).
 
-[^key-d2926e5b728d08f1a81ce3ee68e79e35]: Textual amendment: [Regs. 66A-66C](https://www.legislation.gov.uk/uksi/1987/2088/regulation/66A) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/20)
+[^c-d2926e5b728d08f1a81ce3ee68e79e35]: Textual amendment: [Regs. 66A-66C](https://www.legislation.gov.uk/uksi/1987/2088/regulation/66A) inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(20)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/20)
 
-[^key-c6559b1ccdd642ae13dc9a76abc516e7]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-c6559b1ccdd642ae13dc9a76abc516e7]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-61d9dfc7d62842614865e33cc55ee9b7]: Textual amendment: Word in [reg. 67(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67/1) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [11(1)(a)](https://www.legislation.gov.uk/uksi/1989/497/regulation/11/1/a) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
+[^c-61d9dfc7d62842614865e33cc55ee9b7]: Textual amendment: Word in [reg. 67(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67/1) substituted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [11(1)(a)](https://www.legislation.gov.uk/uksi/1989/497/regulation/11/1/a) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
 
-[^key-9d0c0aee1b5e102278b542983b9e0708]: Textual amendment: Word in [reg. 67(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67/1) inserted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/1989/497/regulation/11/1/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
+[^c-9d0c0aee1b5e102278b542983b9e0708]: Textual amendment: Word in [reg. 67(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67/1) inserted (1.4.1989) by [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [11(1)(b)](https://www.legislation.gov.uk/uksi/1989/497/regulation/11/1/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
 
 [^f00040]: Footnote: [1887 c. 40](https://www.legislation.gov.uk/ukpga/1887/40); section 10 was amended by Part III of Schedule 6 to the Post Office Act [1969 (c. 48)](https://www.legislation.gov.uk/ukpga/1969/48) and by Schedule 4 to the Trustee Savings Banks Act [1985 (c. 58)](https://www.legislation.gov.uk/ukpga/1985/58) and by the Schedule to the Registration of Births, Deaths and Marriages (Fees) Order 1985 ([S.I. 1985/1960](https://www.legislation.gov.uk/uksi/1985/1960)). The section is applied by regulation 32 of the Savings Certificates Regulations 1972 ([S.I. 1972/641](https://www.legislation.gov.uk/uksi/1972/641)) and by regulation 25 of the Premium Savings Bonds Regulations 1972 ([S.I. 1972/765](https://www.legislation.gov.uk/uksi/1972/765)).
 
-[^key-1534cafdcd629bc06bec52f5a3786e6c]: Textual amendment: [Reg. 67(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67/2/b)[(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67/2/c) omitted (1.4.1989) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/1989/497/regulation/11/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
+[^c-1534cafdcd629bc06bec52f5a3786e6c]: Textual amendment: [Reg. 67(2)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67/2/b)[(c)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/67/2/c) omitted (1.4.1989) by virtue of [The Registration of Births and Deaths (Amendment) Regulations 1989 (S.I. 1989/497)](https://www.legislation.gov.uk/uksi/1989/497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1989/497/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/1989/497/regulation/11/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/1989/497/regulation/13))
 
 [^f00043]: Footnote: [1974 c. 46](https://www.legislation.gov.uk/ukpga/1974/46).
 
-[^key-799f7faf69923de78e9349f87d2c8eff]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-799f7faf69923de78e9349f87d2c8eff]: Commencement: [Reg. 68](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-76d37fb7a8e42d1dd9647563818e4f3b]: Textual amendment: Words in [reg. 68(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68/1) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001 (S.I. 2001/3647)](https://www.legislation.gov.uk/uksi/2001/3647), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3647/regulation/1), [Sch. 3 para. 22(a)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/paragraph/22/a)
+[^c-76d37fb7a8e42d1dd9647563818e4f3b]: Textual amendment: Words in [reg. 68(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68/1) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001 (S.I. 2001/3647)](https://www.legislation.gov.uk/uksi/2001/3647), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3647/regulation/1), [Sch. 3 para. 22(a)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/paragraph/22/a)
 
-[^key-491e207baffb5781a7505827981f042b]: Textual amendment: Words in [reg. 68(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68/3) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001 (S.I. 2001/3647)](https://www.legislation.gov.uk/uksi/2001/3647), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3647/regulation/1), [Sch. 3 para. 22(a)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/paragraph/22/a)
+[^c-491e207baffb5781a7505827981f042b]: Textual amendment: Words in [reg. 68(3)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68/3) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001 (S.I. 2001/3647)](https://www.legislation.gov.uk/uksi/2001/3647), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3647/regulation/1), [Sch. 3 para. 22(a)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/paragraph/22/a)
 
-[^key-a26209dfafeb365faf6578e4a5a2824e]: Textual amendment: Words in [reg. 68(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68/4) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001 (S.I. 2001/3647)](https://www.legislation.gov.uk/uksi/2001/3647), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3647/regulation/1), [Sch. 3 para. 22(a)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/paragraph/22/a)
+[^c-a26209dfafeb365faf6578e4a5a2824e]: Textual amendment: Words in [reg. 68(4)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68/4) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001 (S.I. 2001/3647)](https://www.legislation.gov.uk/uksi/2001/3647), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3647/regulation/1), [Sch. 3 para. 22(a)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/paragraph/22/a)
 
-[^key-e2a01ceeb4b71a69eb7022eb7013633e]: Textual amendment: [Reg. 68(7)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68/7/a) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001 (S.I. 2001/3647)](https://www.legislation.gov.uk/uksi/2001/3647), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3647/regulation/1), [Sch. 3 para. 22(b)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/paragraph/22/b)
+[^c-e2a01ceeb4b71a69eb7022eb7013633e]: Textual amendment: [Reg. 68(7)(a)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/68/7/a) omitted (1.12.2001) by virtue of [The Financial Services and Markets Act 2000 (Consequential Amendments and Savings) (Industrial Assurance) Order 2001 (S.I. 2001/3647)](https://www.legislation.gov.uk/uksi/2001/3647), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3647/regulation/1), [Sch. 3 para. 22(b)](https://www.legislation.gov.uk/uksi/2001/3647/schedule/3/paragraph/22/b)
 
-[^key-944635f590f86c0bdfae77c3825ffa10]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-944635f590f86c0bdfae77c3825ffa10]: Commencement: [Reg. 69](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-8d9703b1f29885f109faec523a509518]: Textual amendment: Words in [reg. 69(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/1/b) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/17/2)
+[^c-8d9703b1f29885f109faec523a509518]: Textual amendment: Words in [reg. 69(1)(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/1/b) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [17(2)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/17/2)
 
-[^key-6b88a5c1ca65e79ea28dda8d81eac1fd]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/1) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/17/3)
+[^c-6b88a5c1ca65e79ea28dda8d81eac1fd]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/1) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [17(3)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/17/3)
 
 [^f00045]: Footnote: [1938 c. 12](https://www.legislation.gov.uk/ukpga/1938/12); the Schedule was substituted by the Schedule to the Population (Statistics) Act [1960 (c. 32)](https://www.legislation.gov.uk/ukpga/1960/32).
 
-[^key-fcabfb7f97d3973948144e5a2f192638]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/1) substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/2753/regulation/5/a)
+[^c-fcabfb7f97d3973948144e5a2f192638]: Textual amendment: Words in [reg. 69(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/1) substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/1992/2753/regulation/5/a)
 
-[^key-c87527924df0a7acd76caaa59be64a2a]: Textual amendment: Words in [reg. 69(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/2) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/17/4)
+[^c-c87527924df0a7acd76caaa59be64a2a]: Textual amendment: Words in [reg. 69(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/2) omitted (28.5.2012) by virtue of [The Registration of Births and Deaths Regulations 1987 (Amendment) Regulations 2012 (S.I. 2012/1203)](https://www.legislation.gov.uk/uksi/2012/1203), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/1/1), [17(4)](https://www.legislation.gov.uk/uksi/2012/1203/regulation/17/4)
 
-[^key-3f5f2fd3c55779f8eb900e3bb29f5f5b]: Textual amendment: Words in [reg. 69(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/2) substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/1992/2753/regulation/5/b)
+[^c-3f5f2fd3c55779f8eb900e3bb29f5f5b]: Textual amendment: Words in [reg. 69(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/69/2) substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/1992/2753/regulation/5/b)
 
-[^key-35c78bbf7bdf9915fd41077e138a304c]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-35c78bbf7bdf9915fd41077e138a304c]: Commencement: [Reg. 70](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-482136840efde2aa5c6379d4f777d722]: Textual amendment: Words in [reg. 70](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70) Title substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/1992/2753/regulation/6/a)
+[^c-482136840efde2aa5c6379d4f777d722]: Textual amendment: Words in [reg. 70](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70) Title substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/1992/2753/regulation/6/a)
 
-[^key-388e43a1289e9914912e3913ea3297e8]: Textual amendment: Words in [reg. 70(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70/1) substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/1992/2753/regulation/6/b)
+[^c-388e43a1289e9914912e3913ea3297e8]: Textual amendment: Words in [reg. 70(1)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70/1) substituted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/1992/2753/regulation/6/b)
 
-[^key-5028169e71f21be5819821d72deff484]: Textual amendment: [Reg. 70(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70/2) omitted (25.7.2013) by virtue of [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/2/4)
+[^c-5028169e71f21be5819821d72deff484]: Textual amendment: [Reg. 70(2)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70/2) omitted (25.7.2013) by virtue of [The Coroners and Justice Act 2009 (Commencement No. 15, Consequential and Transitory Provisions) Order 2013 (S.I. 2013/1869)](https://www.legislation.gov.uk/uksi/2013/1869), [art. 4](https://www.legislation.gov.uk/uksi/2013/1869/article/4), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/2/4)
 
-[^key-bf98bb2a83098424564d1ca42cc8a0c3]: Textual amendment: [Reg. 70A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70A) inserted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [7](https://www.legislation.gov.uk/uksi/1992/2753/regulation/7)
+[^c-bf98bb2a83098424564d1ca42cc8a0c3]: Textual amendment: [Reg. 70A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70A) inserted (1.1.1993) by [The Registration of Births and Deaths (Amendment) Regulations 1992 (S.I. 1992/2753)](https://www.legislation.gov.uk/uksi/1992/2753), [regs. 1](https://www.legislation.gov.uk/uksi/1992/2753/regulation/1), [7](https://www.legislation.gov.uk/uksi/1992/2753/regulation/7)
 
-[^key-9e6f9e1401ec2b2b51f6874569cd263b]: Textual amendment: Words in [reg. 70A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70A) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2006/2827/regulation/24)
+[^c-9e6f9e1401ec2b2b51f6874569cd263b]: Textual amendment: Words in [reg. 70A](https://www.legislation.gov.uk/uksi/1987/2088/regulation/70A) substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2006/2827/regulation/24)
 
-[^key-5a53b8b139ff7193cd3ab271f3c1290b]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/1987/2088/regulation/71) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-5a53b8b139ff7193cd3ab271f3c1290b]: Commencement: [Reg. 71](https://www.legislation.gov.uk/uksi/1987/2088/regulation/71) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-6736b82d1764c172eb67c85c6c53982f]: Textual amendment: Words in [reg. 71(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/71/b) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2006/2827/regulation/25)
+[^c-6736b82d1764c172eb67c85c6c53982f]: Textual amendment: Words in [reg. 71(b)](https://www.legislation.gov.uk/uksi/1987/2088/regulation/71/b) inserted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2006/2827/regulation/25)
 
-[^key-e7e5da6622f33fa8aafeeef74eda9d88]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1987/2088/regulation/72) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-e7e5da6622f33fa8aafeeef74eda9d88]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/1987/2088/regulation/72) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00047]: Footnote: [1938 c. 12](https://www.legislation.gov.uk/ukpga/1938/12).
 
@@ -2114,9 +2114,9 @@ Among the changes of substance are the introduction of an additional category of
 
 [^f00049]: Footnote: [1981 c. 45](https://www.legislation.gov.uk/ukpga/1981/45).
 
-[^key-03e2659fc00fd51fa5fbdb7055f297a6]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1987/2088/regulation/73) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-03e2659fc00fd51fa5fbdb7055f297a6]: Commencement: [Reg. 73](https://www.legislation.gov.uk/uksi/1987/2088/regulation/73) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-887d42dc5968b6f965daf4f68feea5cf]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1987/2088/schedule/1) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-887d42dc5968b6f965daf4f68feea5cf]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1987/2088/schedule/1) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
 [^f00051]: Footnote: [1926 c. 48](https://www.legislation.gov.uk/ukpga/1926/48).
 
@@ -2148,54 +2148,54 @@ Among the changes of substance are the introduction of an additional category of
 
 [^f00064]: Footnote: [1981 c. 25](https://www.legislation.gov.uk/ukpga/1981/25).
 
-[^key-2cc3669041fcd0e1b65cc4c9e3b4fd39]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-2cc3669041fcd0e1b65cc4c9e3b4fd39]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
 
-[^key-097a5be43defb84451f411fcd79ce791]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Forms 6A 6B inserted (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1991/2275/schedule/part/II)
+[^c-097a5be43defb84451f411fcd79ce791]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Forms 6A 6B inserted (14.10.1991) by [The Registration of Births and Deaths (Amendment) Regulations 1991 (S.I. 1991/2275)](https://www.legislation.gov.uk/uksi/1991/2275), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2275/regulation/1/1), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1991/2275/schedule/part/II)
 
-[^key-a3bbcf4bed7f04edc1c9830ba49353d7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 1 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 1
+[^c-a3bbcf4bed7f04edc1c9830ba49353d7]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 1 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 1
 
-[^key-74ea806b2fdebcca9537037b7f1b1458]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 6 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 6
+[^c-74ea806b2fdebcca9537037b7f1b1458]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 6 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 6
 
-[^key-7fc2eb99a246b762c17333eae6faa784]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 9 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 9
+[^c-7fc2eb99a246b762c17333eae6faa784]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 9 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 9
 
-[^key-9b6553e6d6e14988b4e50af42b7a5689]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 11 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 11
+[^c-9b6553e6d6e14988b4e50af42b7a5689]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 11 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 11
 
-[^key-c67debd22cf43624419706617fec3203]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 20 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 20
+[^c-c67debd22cf43624419706617fec3203]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 20 substituted (1.4.1995) by [The Registration of Births and Deaths (Amendment) Regulations 1994 (S.I. 1994/1948)](https://www.legislation.gov.uk/uksi/1994/1948), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/1948/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/1994/1948/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/1994/1948/schedule) Form 20
 
-[^key-77647a5b6bcb720149d17160e0a27232]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 2 substituted (1.7.1997) by [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/6/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/1533/schedule/1)
+[^c-77647a5b6bcb720149d17160e0a27232]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 2 substituted (1.7.1997) by [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/6/a), [Sch. 1](https://www.legislation.gov.uk/uksi/1997/1533/schedule/1)
 
-[^key-b00f849bcb876a7dfa0bdf7eb3b10266]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 5 omitted (1.7.1997) by virtue of [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/6/b)
+[^c-b00f849bcb876a7dfa0bdf7eb3b10266]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 5 omitted (1.7.1997) by virtue of [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/6/b)
 
-[^key-8913a774ce8385460b2767ee5c416b22]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 6 omitted (1.7.1997) by virtue of [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/6/b)
+[^c-8913a774ce8385460b2767ee5c416b22]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 6 omitted (1.7.1997) by virtue of [The Registration of Births and Deaths (Amendment No. 2) Regulations 1997 (S.I. 1997/1533)](https://www.legislation.gov.uk/uksi/1997/1533), [regs. 1](https://www.legislation.gov.uk/uksi/1997/1533/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/1997/1533/regulation/2/6/b)
 
-[^key-5bdd2258cf0c516f16d27d6da33bfa66]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 13 substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/26/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2827/schedule/1) (with [reg. 26(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/26/2))
+[^c-5bdd2258cf0c516f16d27d6da33bfa66]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 13 substituted (13.11.2006) by [The Registration of Births and Deaths (Amendment) Regulations 2006 (S.I. 2006/2827)](https://www.legislation.gov.uk/uksi/2006/2827), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/1/1), [26(1)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/26/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/2827/schedule/1) (with [reg. 26(2)](https://www.legislation.gov.uk/uksi/2006/2827/regulation/26/2))
 
-[^key-611beb366b06f2d87849ac14ab975960]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 1 substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
+[^c-611beb366b06f2d87849ac14ab975960]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 1 substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
 
-[^key-84e4b68cdc87b138a420fce87c7996cf]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 2 substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
+[^c-84e4b68cdc87b138a420fce87c7996cf]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 2 substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
 
-[^key-c5b8039453d614cc820bb99f5035b1c9]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 6A substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
+[^c-c5b8039453d614cc820bb99f5035b1c9]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 6A substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
 
-[^key-793dc7d31df2b6f16546eeaa98bdc311]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 6B substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
+[^c-793dc7d31df2b6f16546eeaa98bdc311]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 6B substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
 
-[^key-c01c06bff978be6febcfbb265a71d7da]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 9 substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
+[^c-c01c06bff978be6febcfbb265a71d7da]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 9 substituted (1.9.2009) by [The Registration of Births and Deaths (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/2165)](https://www.legislation.gov.uk/uksi/2009/2165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2165/regulation/1/1), [24](https://www.legislation.gov.uk/uksi/2009/2165/regulation/24), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/2165/schedule/1)
 
-[^key-0c0436d3ff46e6785280ffbac241cf5e]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 14 expiry of earlier affecting provision [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2020/7/schedule/13/paragraph/4) (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-0c0436d3ff46e6785280ffbac241cf5e]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 14 expiry of earlier affecting provision [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2020/7/schedule/13/paragraph/4) (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-af6911a33a0d2a5433e60302ae518491]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 15 expiry of earlier affecting provision [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2020/7/schedule/13/paragraph/4) (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-af6911a33a0d2a5433e60302ae518491]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) Form 15 expiry of earlier affecting provision [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2020/7/schedule/13/paragraph/4) (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-8a380e4f146a9f9c158756f3ac9b8528]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 22B inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/885/schedule)
+[^c-8a380e4f146a9f9c158756f3ac9b8528]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 22B inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/885/schedule)
 
-[^key-aa141b3fcc911e41326bc32aabe3f456]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 22A form inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/885/schedule)
+[^c-aa141b3fcc911e41326bc32aabe3f456]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 22A form inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/885/schedule)
 
-[^key-562a316db9a39474bb77f65bb724ce57]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 14 form omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-562a316db9a39474bb77f65bb724ce57]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 14 form omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-fecdca19753755c3b6a6ceaf5b018b44]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 15 form omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-fecdca19753755c3b6a6ceaf5b018b44]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 15 form omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-9df8693083d8bd44809214c54ab8ba78]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 16 form omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-9df8693083d8bd44809214c54ab8ba78]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) form 16 form omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(b)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-81c3a2f609e4a31df21b8fc211770c40]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) table omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(a)(i)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/a/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
+[^c-81c3a2f609e4a31df21b8fc211770c40]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) table omitted (9.9.2024) by virtue of [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(a)(i)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/a/i) (with [art. 3](https://www.legislation.gov.uk/uksi/2024/885/article/3)) (as amended by [S.I. 2024/904](https://www.legislation.gov.uk/uksi/2024/904), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/904/article/1/2), [2](https://www.legislation.gov.uk/uksi/2024/904/article/2))
 
-[^key-38481fb6d75b66471fd4e4b3df1c8e99]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) table inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/a/ii)
+[^c-38481fb6d75b66471fd4e4b3df1c8e99]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/uksi/1987/2088/schedule/2) table inserted (9.9.2024) by [The Registration of Births and Deaths (England and Wales) (Amendment) Regulations 2024 (S.I. 2024/885)](https://www.legislation.gov.uk/uksi/2024/885), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/885/regulation/1/2), [2(21)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/885/regulation/2/21/a/ii)
 
-[^key-acf13cb2040c5defcf5bb11c262a9a78]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1987/2088/schedule/3) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)
+[^c-acf13cb2040c5defcf5bb11c262a9a78]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1987/2088/schedule/3) in force at 1.1.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/2088/regulation/1)

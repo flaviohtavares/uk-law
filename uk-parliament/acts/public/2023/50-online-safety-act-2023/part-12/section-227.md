@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. “User”, “United Kingdom user” and “interested person”[^key-1927431ffc3aacc47ca91b13109040e3]
+## 227. “User”, “United Kingdom user” and “interested person”[^c-1927431ffc3aacc47ca91b13109040e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1927431ffc3aacc47ca91b13109040e3]: Commencement: S. 227 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-1927431ffc3aacc47ca91b13109040e3]: Commencement: S. 227 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

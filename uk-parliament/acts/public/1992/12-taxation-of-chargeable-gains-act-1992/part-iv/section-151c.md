@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151C. Strips: manipulation of price: associated payment giving rise to loss[^key-b61df16b8720e76efac2a95369f08b50]
+## 151C. Strips: manipulation of price: associated payment giving rise to loss[^c-b61df16b8720e76efac2a95369f08b50]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,12 +35,12 @@ summary: ''
 
 (4) The reference in subsection (1)(b) to the acquisition or disposal of a strip shall be construed as if it were in Chapter 8 of Part 4 of ITTOIA 2005 (profits from deeply discounted securities) (see, in particular, sections 437 and 445 of that Act for the meaning of “disposal” and “acquisition” and section 444 of that Act for the meaning of “strip”).
 
-(5) In subsection (3)(a) “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^key-3fa660fe42f576c7cbe51db26d1d6fb3].
+(5) In subsection (3)(a) “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^c-3fa660fe42f576c7cbe51db26d1d6fb3].
 
 (6) This section applies to losses accruing on or after 17th March 2004.
 
 ## Annotations
 
-[^key-b61df16b8720e76efac2a95369f08b50]: Textual amendment: S. 151C inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 438](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/438) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-b61df16b8720e76efac2a95369f08b50]: Textual amendment: S. 151C inserted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 438](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/438) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-3fa660fe42f576c7cbe51db26d1d6fb3]: Textual amendment: Words in s. 151C(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 238](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/238) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-3fa660fe42f576c7cbe51db26d1d6fb3]: Textual amendment: Words in s. 151C(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 238](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/238) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A requirement imposed by a regulator in accordance with section 196 of the 2000 Act (power of intervention) and which has effect immediately before IP completion day[^key-ebade7407a6b3314fbcc0e9668676c7c] continues to have effect on and after IP completion day in respect of a person to whom regulation 8 or 11 applies as if it were imposed by the regulator under—
+(1) A requirement imposed by a regulator in accordance with section 196 of the 2000 Act (power of intervention) and which has effect immediately before IP completion day[^c-ebade7407a6b3314fbcc0e9668676c7c] continues to have effect on and after IP completion day in respect of a person to whom regulation 8 or 11 applies as if it were imposed by the regulator under—
 
 - (a) section 55L (imposition of requirements by FCA) of that Act, or
 - (b) section 55M (imposition of requirements by PRA) of that Act.
@@ -36,4 +36,4 @@ if it appears that, immediately before IP completion day, the circumstances set 
 
 ## Annotations
 
-[^key-ebade7407a6b3314fbcc0e9668676c7c]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2018/1149/regulation/18) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(k)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/k)
+[^c-ebade7407a6b3314fbcc0e9668676c7c]: Textual amendment: Words in [reg. 18](https://www.legislation.gov.uk/uksi/2018/1149/regulation/18) substituted (31.1.2020 immediately before exit day) by [The Financial Services (Consequential Amendments) Regulations 2020 (S.I. 2020/56)](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [6(2)(k)](https://www.legislation.gov.uk/uksi/2020/56/regulation/6/2/k)

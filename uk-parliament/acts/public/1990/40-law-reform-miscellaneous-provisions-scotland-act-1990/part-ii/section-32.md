@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Multi-national practices.[^c13713041][^key-90d1a32e33d18c58d4363985c4a9c17a]
+## 32. Multi-national practices.[^c13713041][^c-90d1a32e33d18c58d4363985c4a9c17a]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ Before section 61 of the 1980 Act there shall be inserted the following sectionâ
 
 [^c13713041]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/1990/40/section/32) partly in force; [s. 32](https://www.legislation.gov.uk/ukpga/1990/40/section/32) not in force at Royal Assent see [s. 75(2)](https://www.legislation.gov.uk/ukpga/1990/40/section/75/2); [s. 32](https://www.legislation.gov.uk/ukpga/1990/40/section/32) in force for certain purposes at 17.3.1993 by [S.I. 1993/641](https://www.legislation.gov.uk/uksi/1993/641), [art. 3](https://www.legislation.gov.uk/uksi/1993/641/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1993/641/schedule)
 
-[^key-90d1a32e33d18c58d4363985c4a9c17a]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/1990/40/section/32) in force at 1.10.2004 in so far as not already in force by [S.S.I. 2004/382](https://www.legislation.gov.uk/ssi/2004/382), [art. 2](https://www.legislation.gov.uk/ssi/2004/382/article/2)
+[^c-90d1a32e33d18c58d4363985c4a9c17a]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/1990/40/section/32) in force at 1.10.2004 in so far as not already in force by [S.S.I. 2004/382](https://www.legislation.gov.uk/ssi/2004/382), [art. 2](https://www.legislation.gov.uk/ssi/2004/382/article/2)

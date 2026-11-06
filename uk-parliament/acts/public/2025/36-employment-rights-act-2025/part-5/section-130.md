@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Evidence of authority[^key-83ee72ad1a83e7a58628174f4b81d18a][^key-00772ba99a455b5833edeb72299d6e9a]
+## 130. Evidence of authority[^c-83ee72ad1a83e7a58628174f4b81d18a][^c-00772ba99a455b5833edeb72299d6e9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-83ee72ad1a83e7a58628174f4b81d18a]: Commencement: S. 130 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-83ee72ad1a83e7a58628174f4b81d18a]: Commencement: S. 130 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-00772ba99a455b5833edeb72299d6e9a]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2025/36/section/130) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(31)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/31)
+[^c-00772ba99a455b5833edeb72299d6e9a]: Commencement: [S. 130](https://www.legislation.gov.uk/ukpga/2025/36/section/130) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(31)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/31)

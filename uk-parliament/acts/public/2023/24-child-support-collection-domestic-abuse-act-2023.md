@@ -36,7 +36,7 @@ An Act to make provision enabling the making of arrangements for the collection 
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Collection of maintenance in England and Wales and Scotland: cases involving domestic abuse[^key-6f7a01cc0c25ae5573c2203904d424e4]
+## 1. Collection of maintenance in England and Wales and Scotland: cases involving domestic abuse[^c-6f7a01cc0c25ae5573c2203904d424e4]
 
 **Not yet in force.**
 
@@ -60,7 +60,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   >
   > - (d) the making by the Secretary of State of a determination for the purposes of subsection (3A).
 
-## 2. Further provision about collection of maintenance in Scottish cases involving domestic abuse[^key-8c8a3d4f48a4611ce01b37e8693c2c69]
+## 2. Further provision about collection of maintenance in Scottish cases involving domestic abuse[^c-8c8a3d4f48a4611ce01b37e8693c2c69]
 
 **Not yet in force.**
 
@@ -85,7 +85,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   >
   > - (d) the making by the Secretary of State of a determination for the purposes of subsection (4A).
 
-## 3. Minor and consequential amendments relating to sections 1 and 2[^key-3d5db7346cef692345b3c566c7f375e3]
+## 3. Minor and consequential amendments relating to sections 1 and 2[^c-3d5db7346cef692345b3c566c7f375e3]
 
 (1) The Child Support Act 1991 is amended as follows.
 
@@ -96,7 +96,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) In section 41D (power to accept part payment of arrears), in subsection (7)(b), after “7(3)” insert “or (4A)”.
 
-(4)[^key-3d5db7346cef692345b3c566c7f375e3] In section 49A (as inserted by section 34 of the Child Maintenance and Other Payments Act 2008), in subsection (8)(b), after “7(3)” insert “or (4A)”.
+(4)[^c-3d5db7346cef692345b3c566c7f375e3] In section 49A (as inserted by section 34 of the Child Maintenance and Other Payments Act 2008), in subsection (8)(b), after “7(3)” insert “or (4A)”.
 
 (5) In section 52(2)(a) (regulations requiring approval by resolution of each House of Parliament), after “section” insert “4(3A), 7(4A),”.
 
@@ -106,7 +106,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 .
 
-## 4. Collection of maintenance in Northern Ireland: cases involving domestic abuse[^key-3162cec001b82ea7046cda2a279dc633]
+## 4. Collection of maintenance in Northern Ireland: cases involving domestic abuse[^c-3162cec001b82ea7046cda2a279dc633]
 
 (1) The Child Support (Northern Ireland) Order 1991 ([S.I. 1991/2628 (N.I. 23))](https://www.legislation.gov.uk/nisi/1991/2628) is amended as follows.
 
@@ -139,7 +139,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (4) In Article 48(2)(a) (regulations to be laid before Assembly after being made), before “9(1)” insert “7(3A),”.
 
-## 5. Extent, commencement and short title[^key-59ba6d2ef5afc6ec4ff07465e5295988]
+## 5. Extent, commencement and short title[^c-59ba6d2ef5afc6ec4ff07465e5295988]
 
 (1) An amendment made by this Act has the same extent as the provision to which it relates.
 
@@ -163,12 +163,12 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-6f7a01cc0c25ae5573c2203904d424e4]: Commencement: S. 1 not in force at Royal Assent, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/24/section/5/3)
+[^c-6f7a01cc0c25ae5573c2203904d424e4]: Commencement: S. 1 not in force at Royal Assent, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/24/section/5/3)
 
-[^key-8c8a3d4f48a4611ce01b37e8693c2c69]: Commencement: S. 2 not in force at Royal Assent, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/24/section/5/3)
+[^c-8c8a3d4f48a4611ce01b37e8693c2c69]: Commencement: S. 2 not in force at Royal Assent, see [s. 5(3)](https://www.legislation.gov.uk/ukpga/2023/24/section/5/3)
 
-[^key-3d5db7346cef692345b3c566c7f375e3]: Commencement: S. 3(4) comes into force in accordance with s. 5(4)
+[^c-3d5db7346cef692345b3c566c7f375e3]: Commencement: S. 3(4) comes into force in accordance with s. 5(4)
 
-[^key-3162cec001b82ea7046cda2a279dc633]: Commencement: S. 4 comes into force in accordance with s. 5(5)
+[^c-3162cec001b82ea7046cda2a279dc633]: Commencement: S. 4 comes into force in accordance with s. 5(5)
 
-[^key-59ba6d2ef5afc6ec4ff07465e5295988]: Commencement: S. 5 in force at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/ukpga/2023/24/section/5/6)
+[^c-59ba6d2ef5afc6ec4ff07465e5295988]: Commencement: S. 5 in force at Royal Assent, see [s. 5(6)](https://www.legislation.gov.uk/ukpga/2023/24/section/5/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Application[^key-4898cf95594544629c4071039de00718]
+## 3. Application[^c-4898cf95594544629c4071039de00718]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ where both the criteria in paragraph (3) are met.
 
 ## Annotations
 
-[^key-4898cf95594544629c4071039de00718]: Commencement: Reg. 3 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-4898cf95594544629c4071039de00718]: Commencement: Reg. 3 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

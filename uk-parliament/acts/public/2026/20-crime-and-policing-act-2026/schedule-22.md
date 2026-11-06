@@ -26,7 +26,7 @@ Section 189(2)
 
 ### Part 1 — The principal objective
 
-**1.**[^key-654427a6ce0fc91f9d3b35acdc9ab694] (1) The Proceeds of Crime Act 2002 is amended as follows.
+**1.**[^c-654427a6ce0fc91f9d3b35acdc9ab694] (1) The Proceeds of Crime Act 2002 is amended as follows.
 
 (2) At the beginning of Part 4 insert—
 
@@ -61,7 +61,7 @@ Section 189(2)
 
 ### Part 2 — Criminal lifestyle
 
-#### 2. Prosecutor’s discretion[^key-902144b4ab5b25eac523a18eb951e148]
+#### 2. Prosecutor’s discretion[^c-902144b4ab5b25eac523a18eb951e148]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -87,7 +87,7 @@ Section 189(2)
 - (b) in paragraph (a), for “the defendant has a criminal lifestyle but” substitute “has decided under section 156(4)(b) that the defendant”;
 - (c) in paragraph (b), for “the defendant does not have a criminal lifestyle and” substitute “has decided under section 156(4)(c) that the defendant”.
 
-#### 3. The serious risk of injustice test[^key-ae88bee42459229da4897dfd964dc26c]
+#### 3. The serious risk of injustice test[^c-ae88bee42459229da4897dfd964dc26c]
 
 In section 160 of the Proceeds of Crime Act 2002 (assumptions to be made in case of criminal lifestyle), after subsection (6) insert—
 
@@ -96,7 +96,7 @@ In section 160 of the Proceeds of Crime Act 2002 (assumptions to be made in case
 > - (a) any evidence about the serious risk of injustice that has been made available to it, and
 > - (b) any explanation given by the defendant for being unable to provide evidence that would have shown the assumption to be incorrect.
 
-#### 4. Cases in which defendant has a criminal lifestyle[^key-3d96665cee611019362a6e4ceafec80f]
+#### 4. Cases in which defendant has a criminal lifestyle[^c-3d96665cee611019362a6e4ceafec80f]
 
 (1) Section 223 of the Proceeds of Crime Act 2002 (criminal lifestyle) is amended as follows.
 
@@ -110,7 +110,7 @@ In section 160 of the Proceeds of Crime Act 2002 (assumptions to be made in case
 
 (3) The amendments made by sub-paragraph (2)(a), (b)(ii) and (c) do not apply in relation to conduct that took place wholly or partly before the date on which those provisions come into force.
 
-#### 5. Criminal lifestyle offences[^key-b2f079d3c5230d0a9c18d4dde32a2daa]
+#### 5. Criminal lifestyle offences[^c-b2f079d3c5230d0a9c18d4dde32a2daa]
 
 (1) Schedule 5 to the Proceeds of Crime Act 2002 (criminal lifestyle offences) is amended as follows.
 
@@ -132,7 +132,7 @@ In section 160 of the Proceeds of Crime Act 2002 (assumptions to be made in case
 
 ### Part 3 — Provisions concerning amount to be paid under confiscation order
 
-#### 6. Recoverable amount[^key-32afca3a3d8444a9b97bf0de532fcf54]
+#### 6. Recoverable amount[^c-32afca3a3d8444a9b97bf0de532fcf54]
 
 (1) Section 157 of the Proceeds of Crime Act 2002 (recoverable amount) is amended in accordance with sub-paragraphs (2) and (3).
 
@@ -174,7 +174,7 @@ In section 160 of the Proceeds of Crime Act 2002 (assumptions to be made in case
   >   - (i) but for section 157(4)(g) (seized property), would have been taken into account in calculating the relevant amount, and
   >   - (ii) has been released to the defendant since the relevant time.
 
-#### 7. Hidden property[^key-c4801078e929fbf3aaee9fc355cff090]
+#### 7. Hidden property[^c-c4801078e929fbf3aaee9fc355cff090]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -211,7 +211,7 @@ In section 160 of the Proceeds of Crime Act 2002 (assumptions to be made in case
 
 (6) In section 173 (inadequacy of available amount: variation of order), in subsection (2), for “section 159” substitute “sections 159 and 159A”.
 
-#### 8. Tainted gifts[^key-59a81774684e70fdc135e822c20e778b]
+#### 8. Tainted gifts[^c-59a81774684e70fdc135e822c20e778b]
 
 In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection (5) substitute—
 
@@ -220,7 +220,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 > - (a) at any time after the commission of the offence concerned, or
 > - (b) if the defendant’s particular criminal conduct consists of two or more offences and they were committed at different times, at any time after the commission of the earliest of the offences.
 
-#### 9. Benefit[^key-a4c75a36d3c328774dae70969d89a73a]
+#### 9. Benefit[^c-a4c75a36d3c328774dae70969d89a73a]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -243,7 +243,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 
   > (3) If, as a result of or in connection with conduct, a person keeps property that the person already has, where the court believes it just to do so the person is to be treated as obtaining the property as a result of or in connection with the conduct.
 
-#### 10. Value of property obtained[^key-8074594335f62c53d7bef73a342870c2]
+#### 10. Value of property obtained[^c-8074594335f62c53d7bef73a342870c2]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -286,7 +286,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 >   - (b) the material time;
 > - “**the material time**” is the time the court makes its decision.
 
-#### 11. Value of property realised or destroyed[^key-21d8106a05833079ca3231fd21729afd]
+#### 11. Value of property realised or destroyed[^c-21d8106a05833079ca3231fd21729afd]
 
 (1) Section 228 of the Proceeds of Crime Act 2002 (value of property obtained from conduct) is amended as follows.
 
@@ -307,7 +307,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 
 ### Part 4 — Priority orders
 
-#### 12. Priority orders[^key-4d0ec688bb8dc576cdd282d63427d86a]
+#### 12. Priority orders[^c-4d0ec688bb8dc576cdd282d63427d86a]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -355,7 +355,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 
 ### Part 5 — Procedural matters
 
-#### 13. Timing of confiscation proceedings and effect on sentencing[^key-0d5e9f0cc80b715a2375cd0918f39ab3]
+#### 13. Timing of confiscation proceedings and effect on sentencing[^c-0d5e9f0cc80b715a2375cd0918f39ab3]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -398,7 +398,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 
 (3) Omit sections 164 and 165 (postponement of confiscation proceedings).
 
-#### 14. Early resolution meeting[^key-97897f22e5eb714964c9405438975cb0]
+#### 14. Early resolution meeting[^c-97897f22e5eb714964c9405438975cb0]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -447,7 +447,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 
 ### Part 6 — Reconsideration and provisional discharge
 
-#### 15. Order made: reconsideration[^key-5ecbcd972282aeb0d78e151c821cb8aa]
+#### 15. Order made: reconsideration[^c-5ecbcd972282aeb0d78e151c821cb8aa]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -528,7 +528,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 
 (5) In section 188 (reconsideration etc: variation of prison term), in subsection (1)(a), after “171,” insert “171A,”.
 
-#### 16. Provisional discharge of confiscation order[^key-f8615104d0950437fa524071d702dfcf]
+#### 16. Provisional discharge of confiscation order[^c-f8615104d0950437fa524071d702dfcf]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -623,7 +623,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 
 ### Part 7 — Enforcement
 
-#### 17. Enforcement plans[^key-2b9c757a0161fe5657b617082e7dee1f]
+#### 17. Enforcement plans[^c-2b9c757a0161fe5657b617082e7dee1f]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -681,7 +681,7 @@ In section 225 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection
 >
 > (5) In this section “**the initial enforcement hearing**” means the hearing held pursuant to section 163ZB.
 
-#### 18. Power to compel defendant to attend court at any stage of enforcement proceedings[^key-f42adcf342a951dda99c11f537114d92]
+#### 18. Power to compel defendant to attend court at any stage of enforcement proceedings[^c-f42adcf342a951dda99c11f537114d92]
 
 After section 185A of the Proceeds of Crime Act 2002 insert—
 
@@ -703,7 +703,7 @@ After section 185A of the Proceeds of Crime Act 2002 insert—
 >
 > (5) On the failure of the defendant to appear before the court in answer to a summons issued under subsection (4)(a), the court may issue a warrant to arrest them and bring them before the court.
 
-#### 19. Financial status order[^key-5e41b88db47056b77e9bb60f11cef55b]
+#### 19. Financial status order[^c-5e41b88db47056b77e9bb60f11cef55b]
 
 After section 185B of the Proceeds of Crime Act 2002 insert—
 
@@ -718,7 +718,7 @@ After section 185B of the Proceeds of Crime Act 2002 insert—
 >
 > that the court may require in connection with the enforcement of the confiscation order.
 
-#### 20. Confiscation assistance advisers[^key-54bca1ddeebb13005b9afce48b6d4ad7]
+#### 20. Confiscation assistance advisers[^c-54bca1ddeebb13005b9afce48b6d4ad7]
 
 After section 185C of the Proceeds of Crime Act 2002 insert—
 
@@ -730,7 +730,7 @@ After section 185C of the Proceeds of Crime Act 2002 insert—
 >
 > (3) But a person may only be appointed under subsection (2) with the person’s consent.
 
-#### 21. Extension to Crown Court of powers in relation to money, cryptoassets and personal property[^key-13117f22ef754945252fcd76ba2b61eb]
+#### 21. Extension to Crown Court of powers in relation to money, cryptoassets and personal property[^c-13117f22ef754945252fcd76ba2b61eb]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -778,7 +778,7 @@ After section 185C of the Proceeds of Crime Act 2002 insert—
 
 ### Part 8 — Restraint orders
 
-#### 22. Conditions for making of restraint order: risk of dissipation[^key-4d716b6ce2d5b6a3a1892334d84e944d]
+#### 22. Conditions for making of restraint order: risk of dissipation[^c-4d716b6ce2d5b6a3a1892334d84e944d]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -808,7 +808,7 @@ After section 185C of the Proceeds of Crime Act 2002 insert—
 
 (3) In section 190(1) (power to make restraint order), for “If any condition set out in section 189 is satisfied” substitute “In a case where this section applies (see section 189),”.
 
-#### 23. Exception to restraint orders for reasonable legal expenses[^key-f505b5c4949efbc2d81ca9a5d3adc6cd]
+#### 23. Exception to restraint orders for reasonable legal expenses[^c-f505b5c4949efbc2d81ca9a5d3adc6cd]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -844,7 +844,7 @@ After section 185C of the Proceeds of Crime Act 2002 insert—
 >
 > (6) Before making regulations under this section, the Department of Justice must consult such persons as the Department of Justice considers appropriate.
 
-#### 24. Exception to restraint order for reasonable living expenses[^key-cf3c4f36db367bfab16f2bdcba7a650b]
+#### 24. Exception to restraint order for reasonable living expenses[^c-cf3c4f36db367bfab16f2bdcba7a650b]
 
 In section 190 of the Proceeds of Crime Act 2002 (restraint orders)—
 
@@ -868,7 +868,7 @@ In section 190 of the Proceeds of Crime Act 2002 (restraint orders)—
   >   - (b) in a case where there is reasonable cause to believe that the person enjoys a higher standard of living as a result of criminal activity, the standard of living that the person would enjoy but for that activity;
   > - “**relevant realisable property**” has the same meaning as in section 189.
 
-#### 25. Discharge of restraint order etc: proceedings not started within reasonable time[^key-90623abba4b64ad660681071efadef5e]
+#### 25. Discharge of restraint order etc: proceedings not started within reasonable time[^c-90623abba4b64ad660681071efadef5e]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -899,7 +899,7 @@ In section 190 of the Proceeds of Crime Act 2002 (restraint orders)—
 > - (f) the nature of the restraint order (for example, the extent of the property to which it relates);
 > - (g) the impact of the restraint order on any person affected by the order.
 
-#### 26. Restraint orders: effect of conviction[^key-661c1f7243125b420fd42441157e2061]
+#### 26. Restraint orders: effect of conviction[^c-661c1f7243125b420fd42441157e2061]
 
 After section 191 of the Proceeds of Crime Act 2002 insert—
 
@@ -923,7 +923,7 @@ After section 191 of the Proceeds of Crime Act 2002 insert—
 
 ### Part 9 — Management receivers
 
-#### 27. Appointment of management receiver[^key-e0bc57eaf373af5109c1c07118fdb6dd]
+#### 27. Appointment of management receiver[^c-e0bc57eaf373af5109c1c07118fdb6dd]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -953,7 +953,7 @@ After section 191 of the Proceeds of Crime Act 2002 insert—
 
 ### Part 10 — Appeals
 
-#### 28. Appeal rights in relation to confiscation proceedings[^key-ea4e36927de8c6c97d11efba14e4efaa]
+#### 28. Appeal rights in relation to confiscation proceedings[^c-ea4e36927de8c6c97d11efba14e4efaa]
 
 (1) The Proceeds of Crime Act 2002 is amended in accordance with sub-paragraphs (2) to (7).
 
@@ -1235,11 +1235,11 @@ After section 191 of the Proceeds of Crime Act 2002 insert—
 
 ### Part 11 — Consequential and related amendments
 
-#### 29. Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4)[^key-32a618aa21a61fd4a389bfeb024b4f5c]
+#### 29. Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4)[^c-32a618aa21a61fd4a389bfeb024b4f5c]
 
 In the Constitutional Reform Act 2005, in Schedule 9 (amendments relating to jurisdiction of the Supreme Court), omit paragraph 77(6) and (7).
 
-#### 30. Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27)[^key-aa124199def44b8e5e58653e98cb0a5a]
+#### 30. Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27)[^c-aa124199def44b8e5e58653e98cb0a5a]
 
 In the Serious Crime Act 2007, in Schedule 8 (abolition of Assets Recovery Agency and its Director)—
 
@@ -1247,19 +1247,19 @@ In the Serious Crime Act 2007, in Schedule 8 (abolition of Assets Recovery Agenc
 - (b) omit paragraphs 50 and 51;
 - (c) omit paragraph 65.
 
-#### 31. Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9)[^key-422d447c57e4f21637bd0cc8dc57c6b5]
+#### 31. Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9)[^c-422d447c57e4f21637bd0cc8dc57c6b5]
 
 The Serious Crime Act 2015 is amended as follows.
 
-**32.**[^key-5df03d9561ced0127000959f6e90b30d] Omit section 26 (appeals in relation to confiscation orders).
+**32.**[^c-5df03d9561ced0127000959f6e90b30d] Omit section 26 (appeals in relation to confiscation orders).
 
-**33.**[^key-5eb7bec1823f88279d2e17f8814520f2] In Schedule 4 (minor and consequential amendments), omit paragraph 48.
+**33.**[^c-5eb7bec1823f88279d2e17f8814520f2] In Schedule 4 (minor and consequential amendments), omit paragraph 48.
 
-#### 34. Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) [2015 (c.2 (N.I.))](https://www.legislation.gov.uk/nia/2015/2)[^key-f8d8857a28c0efed031383563af740d2]
+#### 34. Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) [2015 (c.2 (N.I.))](https://www.legislation.gov.uk/nia/2015/2)[^c-f8d8857a28c0efed031383563af740d2]
 
 The Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 is amended as follows.
 
-**35.**[^key-e63d0920f0ebd9e1c02086c94d4843c5] In paragraph 3 of Schedule 2 (slavery and trafficking reparation orders)—
+**35.**[^c-e63d0920f0ebd9e1c02086c94d4843c5] In paragraph 3 of Schedule 2 (slavery and trafficking reparation orders)—
 
 - (a) in sub-paragraph (6)—
   - (i) for “174” substitute “174A”;
@@ -1267,84 +1267,84 @@ The Human Trafficking and Exploitation (Criminal Justice and Support for Victims
 - (b) in sub-paragraph (8), for “181” substitute “215E(1) or (2) or 215G(1)”;
 - (c) in sub-paragraph (9), for “183” substitute “215E(5) or 215G(5)”.
 
-**36.**[^key-643c7eb0d0522002bbcfc83df05a532f] In Schedule 4 (minor and consequential amendments) omit paragraphs 13 to 15.
+**36.**[^c-643c7eb0d0522002bbcfc83df05a532f] In Schedule 4 (minor and consequential amendments) omit paragraphs 13 to 15.
 
-#### 37. Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22)[^key-49e0a865cdce75d404df591bbb56a962]
+#### 37. Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22)[^c-49e0a865cdce75d404df591bbb56a962]
 
 In section 32 of the Criminal Finances Act 2017 (reconsideration of discharged orders), omit subsections (5) and (6).
 
 ## Annotations
 
-[^key-654427a6ce0fc91f9d3b35acdc9ab694]: Commencement: Sch. 22 para. 1 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-654427a6ce0fc91f9d3b35acdc9ab694]: Commencement: Sch. 22 para. 1 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-902144b4ab5b25eac523a18eb951e148]: Commencement: Sch. 22 para. 2 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-902144b4ab5b25eac523a18eb951e148]: Commencement: Sch. 22 para. 2 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-ae88bee42459229da4897dfd964dc26c]: Commencement: Sch. 22 para. 3 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-ae88bee42459229da4897dfd964dc26c]: Commencement: Sch. 22 para. 3 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-3d96665cee611019362a6e4ceafec80f]: Commencement: Sch. 22 para. 4 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-3d96665cee611019362a6e4ceafec80f]: Commencement: Sch. 22 para. 4 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-b2f079d3c5230d0a9c18d4dde32a2daa]: Commencement: Sch. 22 para. 5 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-b2f079d3c5230d0a9c18d4dde32a2daa]: Commencement: Sch. 22 para. 5 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-32afca3a3d8444a9b97bf0de532fcf54]: Commencement: Sch. 22 para. 6 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-32afca3a3d8444a9b97bf0de532fcf54]: Commencement: Sch. 22 para. 6 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-c4801078e929fbf3aaee9fc355cff090]: Commencement: Sch. 22 para. 7 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-c4801078e929fbf3aaee9fc355cff090]: Commencement: Sch. 22 para. 7 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-59a81774684e70fdc135e822c20e778b]: Commencement: Sch. 22 para. 8 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-59a81774684e70fdc135e822c20e778b]: Commencement: Sch. 22 para. 8 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-a4c75a36d3c328774dae70969d89a73a]: Commencement: Sch. 22 para. 9 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-a4c75a36d3c328774dae70969d89a73a]: Commencement: Sch. 22 para. 9 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-8074594335f62c53d7bef73a342870c2]: Commencement: Sch. 22 para. 10 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-8074594335f62c53d7bef73a342870c2]: Commencement: Sch. 22 para. 10 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-21d8106a05833079ca3231fd21729afd]: Commencement: Sch. 22 para. 11 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-21d8106a05833079ca3231fd21729afd]: Commencement: Sch. 22 para. 11 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-4d0ec688bb8dc576cdd282d63427d86a]: Commencement: Sch. 22 para. 12 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-4d0ec688bb8dc576cdd282d63427d86a]: Commencement: Sch. 22 para. 12 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-0d5e9f0cc80b715a2375cd0918f39ab3]: Commencement: Sch. 22 para. 13 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-0d5e9f0cc80b715a2375cd0918f39ab3]: Commencement: Sch. 22 para. 13 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-97897f22e5eb714964c9405438975cb0]: Commencement: Sch. 22 para. 14 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-97897f22e5eb714964c9405438975cb0]: Commencement: Sch. 22 para. 14 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-5ecbcd972282aeb0d78e151c821cb8aa]: Commencement: Sch. 22 para. 15 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-5ecbcd972282aeb0d78e151c821cb8aa]: Commencement: Sch. 22 para. 15 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-f8615104d0950437fa524071d702dfcf]: Commencement: Sch. 22 para. 16 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-f8615104d0950437fa524071d702dfcf]: Commencement: Sch. 22 para. 16 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-2b9c757a0161fe5657b617082e7dee1f]: Commencement: Sch. 22 para. 17 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-2b9c757a0161fe5657b617082e7dee1f]: Commencement: Sch. 22 para. 17 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-f42adcf342a951dda99c11f537114d92]: Commencement: Sch. 22 para. 18 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-f42adcf342a951dda99c11f537114d92]: Commencement: Sch. 22 para. 18 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-5e41b88db47056b77e9bb60f11cef55b]: Commencement: Sch. 22 para. 19 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-5e41b88db47056b77e9bb60f11cef55b]: Commencement: Sch. 22 para. 19 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-54bca1ddeebb13005b9afce48b6d4ad7]: Commencement: Sch. 22 para. 20 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-54bca1ddeebb13005b9afce48b6d4ad7]: Commencement: Sch. 22 para. 20 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-13117f22ef754945252fcd76ba2b61eb]: Commencement: Sch. 22 para. 21 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-13117f22ef754945252fcd76ba2b61eb]: Commencement: Sch. 22 para. 21 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-4d716b6ce2d5b6a3a1892334d84e944d]: Commencement: Sch. 22 para. 22 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-4d716b6ce2d5b6a3a1892334d84e944d]: Commencement: Sch. 22 para. 22 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-f505b5c4949efbc2d81ca9a5d3adc6cd]: Commencement: Sch. 22 para. 23 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-f505b5c4949efbc2d81ca9a5d3adc6cd]: Commencement: Sch. 22 para. 23 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-cf3c4f36db367bfab16f2bdcba7a650b]: Commencement: Sch. 22 para. 24 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-cf3c4f36db367bfab16f2bdcba7a650b]: Commencement: Sch. 22 para. 24 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-90623abba4b64ad660681071efadef5e]: Commencement: Sch. 22 para. 25 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-90623abba4b64ad660681071efadef5e]: Commencement: Sch. 22 para. 25 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-661c1f7243125b420fd42441157e2061]: Commencement: Sch. 22 para. 26 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-661c1f7243125b420fd42441157e2061]: Commencement: Sch. 22 para. 26 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-e0bc57eaf373af5109c1c07118fdb6dd]: Commencement: Sch. 22 para. 27 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-e0bc57eaf373af5109c1c07118fdb6dd]: Commencement: Sch. 22 para. 27 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-ea4e36927de8c6c97d11efba14e4efaa]: Commencement: Sch. 22 para. 28 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-ea4e36927de8c6c97d11efba14e4efaa]: Commencement: Sch. 22 para. 28 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-32a618aa21a61fd4a389bfeb024b4f5c]: Commencement: Sch. 22 para. 29 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-32a618aa21a61fd4a389bfeb024b4f5c]: Commencement: Sch. 22 para. 29 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-aa124199def44b8e5e58653e98cb0a5a]: Commencement: Sch. 22 para. 30 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-aa124199def44b8e5e58653e98cb0a5a]: Commencement: Sch. 22 para. 30 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-422d447c57e4f21637bd0cc8dc57c6b5]: Commencement: Sch. 22 para. 31 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-422d447c57e4f21637bd0cc8dc57c6b5]: Commencement: Sch. 22 para. 31 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-5df03d9561ced0127000959f6e90b30d]: Commencement: Sch. 22 para. 32 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-5df03d9561ced0127000959f6e90b30d]: Commencement: Sch. 22 para. 32 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-5eb7bec1823f88279d2e17f8814520f2]: Commencement: Sch. 22 para. 33 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-5eb7bec1823f88279d2e17f8814520f2]: Commencement: Sch. 22 para. 33 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-f8d8857a28c0efed031383563af740d2]: Commencement: Sch. 22 para. 34 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-f8d8857a28c0efed031383563af740d2]: Commencement: Sch. 22 para. 34 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-e63d0920f0ebd9e1c02086c94d4843c5]: Commencement: Sch. 22 para. 35 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-e63d0920f0ebd9e1c02086c94d4843c5]: Commencement: Sch. 22 para. 35 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-643c7eb0d0522002bbcfc83df05a532f]: Commencement: Sch. 22 para. 36 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-643c7eb0d0522002bbcfc83df05a532f]: Commencement: Sch. 22 para. 36 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
 
-[^key-49e0a865cdce75d404df591bbb56a962]: Commencement: Sch. 22 para. 37 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)
+[^c-49e0a865cdce75d404df591bbb56a962]: Commencement: Sch. 22 para. 37 not in force at Royal Assent, see [s. 255(8)(m)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/m)

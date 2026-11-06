@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Statutory undertakers[^key-cbdf9c8620bbf8e2ce17d3dd1fcc8e84]
+## 33. Statutory undertakers[^c-cbdf9c8620bbf8e2ce17d3dd1fcc8e84]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Subject to the provisions of article 24(2) (compulsory acquisition of rights) an
 
 ## Annotations
 
-[^key-cbdf9c8620bbf8e2ce17d3dd1fcc8e84]: Commencement: Art. 33 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-cbdf9c8620bbf8e2ce17d3dd1fcc8e84]: Commencement: Art. 33 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)

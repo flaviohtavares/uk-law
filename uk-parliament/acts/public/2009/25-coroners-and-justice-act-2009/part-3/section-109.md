@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Use of live link in certain enforcement hearings[^key-80150aed24b80d357caebfe9c7dfe58f]
+## 109. Use of live link in certain enforcement hearings[^c-80150aed24b80d357caebfe9c7dfe58f]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80150aed24b80d357caebfe9c7dfe58f]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2009/25/section/109) in force at 14.12.2009 by [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3253/article/2/b)
+[^c-80150aed24b80d357caebfe9c7dfe58f]: Commencement: [S. 109](https://www.legislation.gov.uk/ukpga/2009/25/section/109) in force at 14.12.2009 by [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3253/article/2/b)

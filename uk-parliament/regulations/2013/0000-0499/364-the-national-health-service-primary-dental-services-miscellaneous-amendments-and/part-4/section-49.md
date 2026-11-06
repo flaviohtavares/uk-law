@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Amendment of regulation 8[^key-c9866414a5d6487f4efef2135f250c26]
+## 49. Amendment of regulation 8[^c-c9866414a5d6487f4efef2135f250c26]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In regulation 8 (making and recovery of charges)—
 
 ## Annotations
 
-[^key-c9866414a5d6487f4efef2135f250c26]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2013/364/regulation/49) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-c9866414a5d6487f4efef2135f250c26]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2013/364/regulation/49) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

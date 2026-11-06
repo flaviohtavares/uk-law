@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 89. Liable relative payments[^key-546ae4932638b17c977b1d032c264215]
+## 89. Liable relative payments[^c-546ae4932638b17c977b1d032c264215]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulations 94 to 106, 108 to 115 and Chapter IX of this Part shall not apply to
 
 ## Annotations
 
-[^key-546ae4932638b17c977b1d032c264215]: Commencement: Reg. 89 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-546ae4932638b17c977b1d032c264215]: Commencement: Reg. 89 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

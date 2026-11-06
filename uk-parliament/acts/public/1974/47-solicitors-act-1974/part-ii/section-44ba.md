@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44BA. Power to require explanation of document or information[^key-3439d3ee3237ccbc9ef483a8ca5fe1bc][^key-c07c30c577233d8573d0764aaa0027ae][^c20569011][^c19662871][^c19662701]
+## 44BA. Power to require explanation of document or information[^c-3439d3ee3237ccbc9ef483a8ca5fe1bc][^c-c07c30c577233d8573d0764aaa0027ae][^c20569011][^c19662871][^c19662701]
 
 *Extent: E+W*
 
@@ -33,9 +33,9 @@ summary: ''
 
 ## Annotations
 
-[^key-3439d3ee3237ccbc9ef483a8ca5fe1bc]: Modification: [S. 44BA](https://www.legislation.gov.uk/ukpga/1974/47/section/44BA) applied by 1985 c. 61, Sch. 2 para. 14ZA(6) (as inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/20/4))
+[^c-3439d3ee3237ccbc9ef483a8ca5fe1bc]: Modification: [S. 44BA](https://www.legislation.gov.uk/ukpga/1974/47/section/44BA) applied by 1985 c. 61, Sch. 2 para. 14ZA(6) (as inserted (1.11.2015) by [The Legal Services Act 2007 (The Law Society) (Modification of Functions) Order 2015 (S.I. 2015/401)](https://www.legislation.gov.uk/uksi/2015/401), [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/401/article/1/3), [Sch. 1 para. 20(4)](https://www.legislation.gov.uk/uksi/2015/401/schedule/1/paragraph/20/4))
 
-[^key-c07c30c577233d8573d0764aaa0027ae]: Modification: [S. 44BA](https://www.legislation.gov.uk/ukpga/1974/47/section/44BA) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-c07c30c577233d8573d0764aaa0027ae]: Modification: [S. 44BA](https://www.legislation.gov.uk/ukpga/1974/47/section/44BA) applied (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c20569011]: Modification: [S. 44BA](https://www.legislation.gov.uk/ukpga/1974/47/section/44BA) extended (with modifications) (1.7.2009) by [The Registered Foreign Lawyers Order 2009 (S.I. 2009/1589)](https://www.legislation.gov.uk/uksi/2009/1589), [art. 5(d)](https://www.legislation.gov.uk/uksi/2009/1589/article/5/d)
 

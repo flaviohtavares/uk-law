@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18R. Meaning of “full treaty territory”[^key-7ecf91942442bc685d5c039773680a41]
+## 18R. Meaning of “full treaty territory”[^c-7ecf91942442bc685d5c039773680a41]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ecf91942442bc685d5c039773680a41]: Textual amendment: Pt. 2 Ch. 3A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/4), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)
+[^c-7ecf91942442bc685d5c039773680a41]: Textual amendment: Pt. 2 Ch. 3A inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/4), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Powers to obtain information[^key-d7614f8414b40a50ffd2ab3f1f724e2b]
+## 110. Powers to obtain information[^c-d7614f8414b40a50ffd2ab3f1f724e2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7614f8414b40a50ffd2ab3f1f724e2b]: Commencement: Reg. 110 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-d7614f8414b40a50ffd2ab3f1f724e2b]: Commencement: Reg. 110 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

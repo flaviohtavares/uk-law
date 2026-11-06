@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Modifications to Building Societies Appeal Tribunal Regulations 1987[^key-67524051ceb8aad7dcc2490a92c3d46c]
+## 131. Modifications to Building Societies Appeal Tribunal Regulations 1987[^c-67524051ceb8aad7dcc2490a92c3d46c]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ The Building Societies Appeal Tribunal Regulations 1987[^f00043] apply to transi
 
 ## Annotations
 
-[^key-67524051ceb8aad7dcc2490a92c3d46c]: Commencement: Art. 131 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-67524051ceb8aad7dcc2490a92c3d46c]: Commencement: Art. 131 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00043]: Footnote: S.I. [1987/891](https://www.legislation.gov.uk/uksi/1987/891). The Regulations have been amended by the 2BCD Regulations, by S.I. [1993/983](https://www.legislation.gov.uk/uksi/1993/983) and S.I. [1999/678](https://www.legislation.gov.uk/uksi/1999/678).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36V. Interim orders[^key-ab4407b8a03d50859e6c0a0648ea6539]
+## 36V. Interim orders[^c-ab4407b8a03d50859e6c0a0648ea6539]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) The Interim Orders Committee may exercise functions under this section only in relation to a person whose case has been referred to them—
 
 - (a) by the registrar under section 36N(5)(b);
-- (b) by the Investigating Committee under section 36O(4A) or (6A)[^key-96402cd40c4fbb69a195cd5678169e2d]; or
+- (b) by the Investigating Committee under section 36O(4A) or (6A)[^c-96402cd40c4fbb69a195cd5678169e2d]; or
 - (c) by a Practice Committee in accordance with rules under paragraph 7(1)(c) of Schedule 4B.
 
 (3) A Practice Committee may exercise functions under this section only in relation to a person whose case has been referred to them—
@@ -80,6 +80,6 @@ and the decision of the court on any application under this subsection shall be 
 
 ## Annotations
 
-[^key-ab4407b8a03d50859e6c0a0648ea6539]: Textual amendment: Ss. 36K-36V and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 31](https://www.legislation.gov.uk/uksi/2005/2011/article/31) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
+[^c-ab4407b8a03d50859e6c0a0648ea6539]: Textual amendment: Ss. 36K-36V and cross-heading inserted (coming into force in accordance with art. 1(4)-(7) of the amending S.I. (see the London Gazette, issue nos. 57734, 57975, 58050 and 58769, dated respectively 19.8.2005, 5.6.2006, 21.7.2006 and 18.7.2008)) by [The Dentists Act 1984 (Amendment) Order 2005 (S.I. 2005/2011)](https://www.legislation.gov.uk/uksi/2005/2011), [art. 31](https://www.legislation.gov.uk/uksi/2005/2011/article/31) (with [Sch. 7](https://www.legislation.gov.uk/uksi/2005/2011/schedule/7)) (with transitional provisions in [S.I. 2006/1671](https://www.legislation.gov.uk/uksi/2006/1671))
 
-[^key-96402cd40c4fbb69a195cd5678169e2d]: Textual amendment: Words in [s. 36V(2)(b)](https://www.legislation.gov.uk/ukpga/1984/24/section/36V/2/b) substituted (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [18](https://www.legislation.gov.uk/uksi/2016/496/article/18)
+[^c-96402cd40c4fbb69a195cd5678169e2d]: Textual amendment: Words in [s. 36V(2)(b)](https://www.legislation.gov.uk/ukpga/1984/24/section/36V/2/b) substituted (13.4.2016) by [The General Dental Council (Fitness to Practise etc.) Order 2016 (S.I. 2016/496)](https://www.legislation.gov.uk/uksi/2016/496), [arts. 1](https://www.legislation.gov.uk/uksi/2016/496/article/1), [18](https://www.legislation.gov.uk/uksi/2016/496/article/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. TV licence fee concessions by reference to age[^key-e5de40f9dd711d8871af2c9977d1a340]
+## 89. TV licence fee concessions by reference to age[^c-e5de40f9dd711d8871af2c9977d1a340]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5de40f9dd711d8871af2c9977d1a340]: Commencement: S. 89 in force at 1.6.2020, see s. 118(3)
+[^c-e5de40f9dd711d8871af2c9977d1a340]: Commencement: S. 89 in force at 1.6.2020, see s. 118(3)

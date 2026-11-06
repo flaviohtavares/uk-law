@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Substitution of regulation 51B[^key-9b87398912a96c70abe5abb56ad9479f]
+## 36. Substitution of regulation 51B[^c-9b87398912a96c70abe5abb56ad9479f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ For regulation 51B (application for UKMA(UK) relating to generic medicinal produ
 
 ## Annotations
 
-[^key-9b87398912a96c70abe5abb56ad9479f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2024/832/regulation/36) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-9b87398912a96c70abe5abb56ad9479f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2024/832/regulation/36) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00047]: Footnote: Regulation 51B was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Power of trustee in relation to debtor's family home[^key-9daf7290291ada264de12f44d72764f3]
+## 113. Power of trustee in relation to debtor's family home[^c-9daf7290291ada264de12f44d72764f3]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ the debtor's family home as that subsection applies to an application under subs
 
 ## Annotations
 
-[^key-9daf7290291ada264de12f44d72764f3]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2016/21/section/113) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-9daf7290291ada264de12f44d72764f3]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2016/21/section/113) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

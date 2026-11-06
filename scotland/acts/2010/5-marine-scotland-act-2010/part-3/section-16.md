@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Monitoring of and periodical reporting on implementation of marine plans[^key-c08572ec8617d936d8e0230eeebefb99]
+## 16. Monitoring of and periodical reporting on implementation of marine plans[^c-c08572ec8617d936d8e0230eeebefb99]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c08572ec8617d936d8e0230eeebefb99]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/5/section/16) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)
+[^c-c08572ec8617d936d8e0230eeebefb99]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2010/5/section/16) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/230/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Lump sum payable on death of pensioner member[^key-b9adacd78cb2bf91e4b483acebcc36c4]
+## 97. Lump sum payable on death of pensioner member[^c-b9adacd78cb2bf91e4b483acebcc36c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9adacd78cb2bf91e4b483acebcc36c4]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/2014/2848/regulation/97) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-b9adacd78cb2bf91e4b483acebcc36c4]: Commencement: [Reg. 97](https://www.legislation.gov.uk/uksi/2014/2848/regulation/97) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

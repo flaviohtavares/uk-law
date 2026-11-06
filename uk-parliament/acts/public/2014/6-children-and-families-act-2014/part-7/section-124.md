@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Rate of statutory adoption pay[^key-fe3c8356267db21363839a05395f40e7]
+## 124. Rate of statutory adoption pay[^c-fe3c8356267db21363839a05395f40e7]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe3c8356267db21363839a05395f40e7]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2014/6/section/124) in force at 5.4.2015 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/a) (with [art. 13](https://www.legislation.gov.uk/uksi/2014/1640/article/13))
+[^c-fe3c8356267db21363839a05395f40e7]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2014/6/section/124) in force at 5.4.2015 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 6(a)](https://www.legislation.gov.uk/uksi/2014/1640/article/6/a) (with [art. 13](https://www.legislation.gov.uk/uksi/2014/1640/article/13))

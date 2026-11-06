@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**22.**[^key-7ccb46c8e84ebf9607458f0d13b1db86] In regulation 22—
+**22.**[^c-7ccb46c8e84ebf9607458f0d13b1db86] In regulation 22—
 
 - (a) in paragraph (1)—
   - (i) for “another” substitute “an EU”;
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ccb46c8e84ebf9607458f0d13b1db86]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-7ccb46c8e84ebf9607458f0d13b1db86]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

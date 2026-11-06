@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179.[^key-b2cc6410987f30dc57c39c3a64641207]
+## 179.[^c-b2cc6410987f30dc57c39c3a64641207]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In Schedule 15 (charge to income tax on benefits received by former owner of pro
 
 ## Annotations
 
-[^key-b2cc6410987f30dc57c39c3a64641207]: Commencement: Reg. 179 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b2cc6410987f30dc57c39c3a64641207]: Commencement: Reg. 179 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

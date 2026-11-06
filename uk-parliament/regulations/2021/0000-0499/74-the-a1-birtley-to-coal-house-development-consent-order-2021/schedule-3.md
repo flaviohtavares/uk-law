@@ -22,7 +22,7 @@ summary: ''
 
 Articles 14 and 18
 
-### PART 1 — TRUNK ROADS[^key-261389e981bf73d5beb1990b1a5893b7]
+### PART 1 — TRUNK ROADS[^c-261389e981bf73d5beb1990b1a5893b7]
 
 | *(1)* *Road* | *(1)* *Road* |
 | --- | --- |
@@ -30,7 +30,7 @@ Articles 14 and 18
 | Junction 67 (Coal House) Southbound on slip | Between point 3/1 and point 3/6 on Sheet 3 of the Streets, Rights of Way and Access Plans. |
 | Junction 67 (Coal House) Northbound off slip | Between point 2/2 on Sheet 2 and point 3/5 on Sheet 3 of the Streets, Rights of Way and Access Plans. |
 
-### PART 2 — OTHER RIGHTS OF WAY[^key-e90806380a0a07559b88bb59345f3d5b]
+### PART 2 — OTHER RIGHTS OF WAY[^c-e90806380a0a07559b88bb59345f3d5b]
 
 | *(1)* *Public right of way* | *(2)* *Extent* |
 | --- | --- |
@@ -38,6 +38,6 @@ Articles 14 and 18
 
 ## Annotations
 
-[^key-261389e981bf73d5beb1990b1a5893b7]: Commencement: Sch. 3 Pt. 1 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-261389e981bf73d5beb1990b1a5893b7]: Commencement: Sch. 3 Pt. 1 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
 
-[^key-e90806380a0a07559b88bb59345f3d5b]: Commencement: Sch. 3 Pt. 2 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)
+[^c-e90806380a0a07559b88bb59345f3d5b]: Commencement: Sch. 3 Pt. 2 in force at 9.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/74/article/1)

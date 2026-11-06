@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Limits on costs orders in relation to unexplained wealth orders: England and Wales and Northern Ireland[^key-1bc34a7c347615a72c820a2ccd5502b7][^key-60ffcb7c49a928afb9246de77722709d]
+## 52. Limits on costs orders in relation to unexplained wealth orders: England and Wales and Northern Ireland[^c-1bc34a7c347615a72c820a2ccd5502b7][^c-60ffcb7c49a928afb9246de77722709d]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ After section 362T of the Proceeds of Crime Act 2002 insert—
 
 ## Annotations
 
-[^key-1bc34a7c347615a72c820a2ccd5502b7]: Commencement: S. 52 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-1bc34a7c347615a72c820a2ccd5502b7]: Commencement: S. 52 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-60ffcb7c49a928afb9246de77722709d]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/10/section/52) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/519/regulation/3))
+[^c-60ffcb7c49a928afb9246de77722709d]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2022/10/section/52) in force at 15.5.2022 by [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/519/regulation/3))

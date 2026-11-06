@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 159. Modification of section 22A of Sea Fish (Conservation) Act 1967[^key-380188d693d10d8628aaf7bb06627a15]
+## 159. Modification of section 22A of Sea Fish (Conservation) Act 1967[^c-380188d693d10d8628aaf7bb06627a15]
 
 *Extent: S*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-380188d693d10d8628aaf7bb06627a15]: Commencement: [S. 159](https://www.legislation.gov.uk/asp/2010/5/section/159) in force at 24.2.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/58/article/2/a)
+[^c-380188d693d10d8628aaf7bb06627a15]: Commencement: [S. 159](https://www.legislation.gov.uk/asp/2010/5/section/159) in force at 24.2.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 2(a)](https://www.legislation.gov.uk/ssi/2011/58/article/2/a)

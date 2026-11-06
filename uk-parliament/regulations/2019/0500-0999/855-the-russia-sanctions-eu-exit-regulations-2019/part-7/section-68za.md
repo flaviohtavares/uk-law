@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68ZA. Detained transport asset: licensing offences[^key-c1906805ebbc3e040949235d6ea2dba6]
+## 68ZA. Detained transport asset: licensing offences[^c-c1906805ebbc3e040949235d6ea2dba6]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a detained transport asset licence (whether for P o
 
 ## Annotations
 
-[^key-c1906805ebbc3e040949235d6ea2dba6]: Textual amendment: [Regs. 68ZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/68ZA), [68ZB](https://www.legislation.gov.uk/uksi/2019/855/regulation/68ZB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2026/543/regulation/23)
+[^c-c1906805ebbc3e040949235d6ea2dba6]: Textual amendment: [Regs. 68ZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/68ZA), [68ZB](https://www.legislation.gov.uk/uksi/2019/855/regulation/68ZB) inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2026/543/regulation/23)

@@ -47,7 +47,7 @@ is a dwelling except in so far as it forms part of a larger property which is it
 
 *Extent: E*
 
-(4A)[^key-00efcb3dcf9da680f8d7fc4a7551881c] Subject to subsection (6) below, domestic property falling within section 66(1A) of the 1988 Act is not a dwelling except in so far as it forms part of a larger property which is itself a dwelling by virtue of subsection (2) above.
+(4A)[^c-00efcb3dcf9da680f8d7fc4a7551881c] Subject to subsection (6) below, domestic property falling within section 66(1A) of the 1988 Act is not a dwelling except in so far as it forms part of a larger property which is itself a dwelling by virtue of subsection (2) above.
 
 (5) The Secretary of State may by order provide that in such cases as may be prescribed by or determined under the order—
 
@@ -62,4 +62,4 @@ is a dwelling except in so far as it forms part of a larger property which is it
 
 [^c12072841]: Marginal citation: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
-[^key-00efcb3dcf9da680f8d7fc4a7551881c]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/ukpga/1992/14/section/3/4A) inserted (E.) (1.4.2013) by [The Non-Domestic Rating and Council Tax (Definition of Domestic Property and Dwelling) (England) Order 2013 (S.I. 2013/468)](https://www.legislation.gov.uk/uksi/2013/468), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/468/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/468/article/3)
+[^c-00efcb3dcf9da680f8d7fc4a7551881c]: Textual amendment: [S. 3(4A)](https://www.legislation.gov.uk/ukpga/1992/14/section/3/4A) inserted (E.) (1.4.2013) by [The Non-Domestic Rating and Council Tax (Definition of Domestic Property and Dwelling) (England) Order 2013 (S.I. 2013/468)](https://www.legislation.gov.uk/uksi/2013/468), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/468/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/468/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Payment of panel members' expenses[^key-8ba99acbc8967774d7870c77cc1b1c89]
+## 28. Payment of panel members' expenses[^c-8ba99acbc8967774d7870c77cc1b1c89]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers may pay allowances (including travelling and subsistence all
 
 ## Annotations
 
-[^key-8ba99acbc8967774d7870c77cc1b1c89]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2015/2/section/28) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(j)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/j)
+[^c-8ba99acbc8967774d7870c77cc1b1c89]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2015/2/section/28) in force at 16.10.2015 by [S.I. 2015/1785](https://www.legislation.gov.uk/wsi/2015/1785), [art. 2(j)](https://www.legislation.gov.uk/wsi/2015/1785/article/2/j)

@@ -33,7 +33,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Creosote (Prohibition on Use and Marketing)(No. 2) Regulations 2003 (revoked)[^key-b51f2c5efb39db4f3e3027132f949bd7]
+The Creosote (Prohibition on Use and Marketing)(No. 2) Regulations 2003 (revoked)[^c-b51f2c5efb39db4f3e3027132f949bd7]
 
 Made
 
@@ -53,45 +53,45 @@ Remainder
 
 30th June 2003
 
-[^key-b51f2c5efb39db4f3e3027132f949bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b51f2c5efb39db4f3e3027132f949bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-b51f2c5efb39db4f3e3027132f949bd7]
+## 1. Citation, commencement and extent[^c-b51f2c5efb39db4f3e3027132f949bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-b51f2c5efb39db4f3e3027132f949bd7]
+## 2. Revocation[^c-b51f2c5efb39db4f3e3027132f949bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-b51f2c5efb39db4f3e3027132f949bd7]
+## 3. Interpretation[^c-b51f2c5efb39db4f3e3027132f949bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on use of a dangerous substance or preparation[^key-b51f2c5efb39db4f3e3027132f949bd7]
+## 4. Prohibition on use of a dangerous substance or preparation[^c-b51f2c5efb39db4f3e3027132f949bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Marketing and sale[^key-b51f2c5efb39db4f3e3027132f949bd7]
+## 5. Marketing and sale[^c-b51f2c5efb39db4f3e3027132f949bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Prohibition on use of treated wood[^key-b51f2c5efb39db4f3e3027132f949bd7]
+## 6. Prohibition on use of treated wood[^c-b51f2c5efb39db4f3e3027132f949bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Offences and Penalties[^key-b51f2c5efb39db4f3e3027132f949bd7]
+## 7. Offences and Penalties[^c-b51f2c5efb39db4f3e3027132f949bd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b51f2c5efb39db4f3e3027132f949bd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b51f2c5efb39db4f3e3027132f949bd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b51f2c5efb39db4f3e3027132f949bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b51f2c5efb39db4f3e3027132f949bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SUBSTANCES CONTAINED IN DANGEROUS SUBSTANCES OR PREPARATIONS[^key-b51f2c5efb39db4f3e3027132f949bd7]
+## SCHEDULE — SUBSTANCES CONTAINED IN DANGEROUS SUBSTANCES OR PREPARATIONS[^c-b51f2c5efb39db4f3e3027132f949bd7]
 
 Regulation 3
 
@@ -99,8 +99,8 @@ Regulation 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-b51f2c5efb39db4f3e3027132f949bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b51f2c5efb39db4f3e3027132f949bd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b51f2c5efb39db4f3e3027132f949bd7]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)
+[^c-b51f2c5efb39db4f3e3027132f949bd7]: Textual amendment: Regulations revoked (1.6.2009) by [The REACH Enforcement Regulations 2008 (S.I. 2008/2852)](https://www.legislation.gov.uk/uksi/2008/2852), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2008/2852/schedule/10/part/1)

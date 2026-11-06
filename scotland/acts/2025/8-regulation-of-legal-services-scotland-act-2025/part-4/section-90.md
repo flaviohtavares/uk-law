@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Offence of taking or using the title of lawyer[^key-9880ba921d355801bb607ca3692b6f42]
+## 90. Offence of taking or using the title of lawyer[^c-9880ba921d355801bb607ca3692b6f42]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9880ba921d355801bb607ca3692b6f42]: Commencement: S. 90 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-9880ba921d355801bb607ca3692b6f42]: Commencement: S. 90 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

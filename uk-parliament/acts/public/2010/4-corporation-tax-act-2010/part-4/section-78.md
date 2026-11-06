@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of this Chapter a qualifying trading company is a company which meets each of conditions A to C[^key-5cfe71a9223c8dc31f71f1d8059dfc9c] .
+(1) For the purposes of this Chapter a qualifying trading company is a company which meets each of conditions A to C[^c-5cfe71a9223c8dc31f71f1d8059dfc9c] .
 
 (2) Condition A is that the company either—
 
@@ -41,10 +41,10 @@ summary: ''
 - (a) met the gross assets requirement (see section 84) both immediately before and immediately after the issue of the shares in respect of which the share loss relief is claimed, and
 - (b) met the unquoted status requirement (see section 85) at the relevant time within the meaning of that section.
 
-(5)[^key-448f0825cfdd935d3c59646a16cc6654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-448f0825cfdd935d3c59646a16cc6654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5cfe71a9223c8dc31f71f1d8059dfc9c]: Textual amendment: Word in s. 78(1) substituted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/ii)
+[^c-5cfe71a9223c8dc31f71f1d8059dfc9c]: Textual amendment: Word in s. 78(1) substituted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/b/ii)
 
-[^key-448f0825cfdd935d3c59646a16cc6654]: Textual amendment: S. 78(5) repealed (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(1)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/1/b)
+[^c-448f0825cfdd935d3c59646a16cc6654]: Textual amendment: S. 78(5) repealed (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(1)(b)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/1/b)

@@ -39,7 +39,7 @@ but if such provision is not made by any such scheme or regulations the CAA shal
 (5) An airport is a relevant airport for the purposes of subsection (3) or (4) if—
 
 - (a) the recommendations referred to in that subsection relate to the airport, or
-- (b) the airport is an airport to which Part 5 applies[^key-93079fd45e816c853b038f21da02e356] , and it and any new airport to which those recommendations relate would be airports serving the same area in the United Kingdom;
+- (b) the airport is an airport to which Part 5 applies[^c-93079fd45e816c853b038f21da02e356] , and it and any new airport to which those recommendations relate would be airports serving the same area in the United Kingdom;
 
 and the reference in paragraph (b) above to airports serving the same area in the United Kingdom shall be construed in accordance with section 31(6),
 
@@ -47,4 +47,4 @@ and the reference in paragraph (b) above to airports serving the same area in th
 
 ## Annotations
 
-[^key-93079fd45e816c853b038f21da02e356]: Textual amendment: Words in [s. 69(5)(b)](https://www.legislation.gov.uk/ukpga/1986/31/section/69/5/b) substituted (6.4.2013) by [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/1/b)
+[^c-93079fd45e816c853b038f21da02e356]: Textual amendment: Words in [s. 69(5)(b)](https://www.legislation.gov.uk/ukpga/1986/31/section/69/5/b) substituted (6.4.2013) by [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/1/b)

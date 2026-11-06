@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Registration of qualifying Scottish partnerships[^key-a378e7392a2854b7e1b7f9b5a240be57]
+## 153. Registration of qualifying Scottish partnerships[^c-a378e7392a2854b7e1b7f9b5a240be57]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a378e7392a2854b7e1b7f9b5a240be57]: Commencement: S. 153 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-a378e7392a2854b7e1b7f9b5a240be57]: Commencement: S. 153 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

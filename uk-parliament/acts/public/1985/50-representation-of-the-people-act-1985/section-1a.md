@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Qualification as an overseas elector in respect of a constituency[^key-b84f7ab215f48154d78316df6aada694]
+## 1A. Qualification as an overseas elector in respect of a constituency[^c-b84f7ab215f48154d78316df6aada694]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b84f7ab215f48154d78316df6aada694]: Textual amendment: [Ss. 1-1E](https://www.legislation.gov.uk/ukpga/1985/50/section/1) substituted for ss. 1, 2 (6.2.2023 for specified purposes) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/b/i)
+[^c-b84f7ab215f48154d78316df6aada694]: Textual amendment: [Ss. 1-1E](https://www.legislation.gov.uk/ukpga/1985/50/section/1) substituted for ss. 1, 2 (6.2.2023 for specified purposes) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 14(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/14/1), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2023/115](https://www.legislation.gov.uk/uksi/2023/115), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2023/115/regulation/2/b/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Amendment of Commission Implementing Regulation (EU) No 307/2012[^key-1ff991a92d9cfe3eccdda71f049d45e9]
+## 43. Amendment of Commission Implementing Regulation (EU) No 307/2012[^c-1ff991a92d9cfe3eccdda71f049d45e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 - (a) in paragraph 1—
   - (i) for “the assessment of” substitute “ assessing ”;
-  - (ii) for “Member States” substitute “ parts of Great Britain[^key-b503bf1f1dc7850717c8957727e92a49] ”;
+  - (ii) for “Member States” substitute “ parts of Great Britain[^c-b503bf1f1dc7850717c8957727e92a49] ”;
 - (b) in paragraph 2, for “Member States may submit a request to the Commission when the assessment referred to in paragraph 1” substitute “ The power to make regulations under Article 8 of Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) may be exercised where the assessment referred to in paragraph 1 ”;
 - (c) omit paragraph 4.
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1ff991a92d9cfe3eccdda71f049d45e9]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1ff991a92d9cfe3eccdda71f049d45e9]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-b503bf1f1dc7850717c8957727e92a49]: Textual amendment: Words in reg. 43(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/5)
+[^c-b503bf1f1dc7850717c8957727e92a49]: Textual amendment: Words in reg. 43(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/6/5)

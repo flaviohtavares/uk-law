@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Scope of modification power under section 14[^key-87a452fba0c5992e9f2671e33b8bcb2e]
+## 15. Scope of modification power under section 14[^c-87a452fba0c5992e9f2671e33b8bcb2e]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87a452fba0c5992e9f2671e33b8bcb2e]: Commencement: S. 15 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)
+[^c-87a452fba0c5992e9f2671e33b8bcb2e]: Commencement: S. 15 in force at Royal Assent, see [s. 118(1)(f)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/f)

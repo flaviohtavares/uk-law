@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Resolutions[^key-162e59dc7c28d8741c7b7581391c93a3]
+## 29. Resolutions[^c-162e59dc7c28d8741c7b7581391c93a3]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-162e59dc7c28d8741c7b7581391c93a3]: Commencement: Rule 29 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-162e59dc7c28d8741c7b7581391c93a3]: Commencement: Rule 29 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Notice of assessment[^key-c7957e23432e6a447c5901a72ba464d8]
+## 74. Notice of assessment[^c-c7957e23432e6a447c5901a72ba464d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7957e23432e6a447c5901a72ba464d8]: Commencement: Reg. 74 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-c7957e23432e6a447c5901a72ba464d8]: Commencement: Reg. 74 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

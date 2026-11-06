@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Crown application[^key-525c233d8f6d316f5be61c3443e2c631]
+## 105. Crown application[^c-525c233d8f6d316f5be61c3443e2c631]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Chapter binds the Crown.
 
 ## Annotations
 
-[^key-525c233d8f6d316f5be61c3443e2c631]: Commencement: S. 105 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-525c233d8f6d316f5be61c3443e2c631]: Commencement: S. 105 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

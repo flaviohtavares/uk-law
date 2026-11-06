@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Power to enter and search premises[^key-ab17668193f1719648f24626a061320c]
+## 39. Power to enter and search premises[^c-ab17668193f1719648f24626a061320c]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab17668193f1719648f24626a061320c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/2/section/39) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-ab17668193f1719648f24626a061320c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2016/2/section/39) in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Constables: terms of office[^key-60222c2cf5b6b3be47f9a7c4534c840d]
+## 12. Constables: terms of office[^c-60222c2cf5b6b3be47f9a7c4534c840d]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A constable is to hold and vacate office in accordance with—
 
 ## Annotations
 
-[^key-60222c2cf5b6b3be47f9a7c4534c840d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2012/8/section/12) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-60222c2cf5b6b3be47f9a7c4534c840d]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2012/8/section/12) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

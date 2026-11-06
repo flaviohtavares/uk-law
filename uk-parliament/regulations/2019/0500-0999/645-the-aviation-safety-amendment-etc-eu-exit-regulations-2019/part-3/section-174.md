@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Amendment of Annex II to Regulation (EU) No 2018/1139[^key-c6915ea6d14b2236ac7e1d58e26a77e6]
+## 174. Amendment of Annex II to Regulation (EU) No 2018/1139[^c-c6915ea6d14b2236ac7e1d58e26a77e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Annex II (essential requirements for airworthiness), in point 3.1(d), omit â€
 
 ## Annotations
 
-[^key-c6915ea6d14b2236ac7e1d58e26a77e6]: Commencement: Reg. 174 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c6915ea6d14b2236ac7e1d58e26a77e6]: Commencement: Reg. 174 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

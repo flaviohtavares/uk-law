@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Transfer of functions to the Financial Conduct Authority and the Prudential Regulation Authority[^key-fbc83455f3c0ceb59331a4016f56eb30]
+## 2. Transfer of functions to the Financial Conduct Authority and the Prudential Regulation Authority[^c-fbc83455f3c0ceb59331a4016f56eb30]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ The following Schedules to this Order have effect—
 
 ## Annotations
 
-[^key-fbc83455f3c0ceb59331a4016f56eb30]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
+[^c-fbc83455f3c0ceb59331a4016f56eb30]: Commencement: Art. 2 in force at 1.4.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1)
 
 [^f00002]: Footnote: Section 117(1) of the Financial Services Act 2012 defines “FSMA 2000” as meaning the Financial Services and Markets Act 2000, “FCA” as meaning the Financial Conduct Authority and “PRA” as meaning the Prudential Regulation Authority.
 

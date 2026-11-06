@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety makes the following Regulations in exercise of the powers conferred by Articles 44(2) and (3) and 48(2) of, and paragraph 2(4) of Schedule 2 to, the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00001].
 
-## 1. Citation and commencement[^key-ef0263c8ba858088ea9d6a4153e15d3c]
+## 1. Citation and commencement[^c-ef0263c8ba858088ea9d6a4153e15d3c]
 
 These Regulations may be cited as the Care Tribunal (Amendment) Regulations (Northern Ireland) 2006 and shall come into operation on 29th September 2006.
 
-## 2. Amendment of the Care Tribunal Regulations (Northern Ireland) 2005[^key-3071b21ef978a867d3b9d5c6ea25d7a3]
+## 2. Amendment of the Care Tribunal Regulations (Northern Ireland) 2005[^c-3071b21ef978a867d3b9d5c6ea25d7a3]
 
 (1) The Care Tribunal Regulations (Northern Ireland) 2005[^f00002] shall be amended in accordance with paragraphs (2) to (15).
 
@@ -55,7 +55,7 @@ These Regulations may be cited as the Care Tribunal (Amendment) Regulations (Nor
 - (b) for the definition of “the respondent”, there shall be substituted—
 
   > - “the respondent” means—
-  >   - (a) in relation to an appeal under Article 22 of the 2003 Order, the RQIA[^key-e5b818c98e0a09a4f5bda64b07ef3895];
+  >   - (a) in relation to an appeal under Article 22 of the 2003 Order, the RQIA[^c-e5b818c98e0a09a4f5bda64b07ef3895];
   >   - (b) in relation to an appeal under Article 78A or 94A of the 1995 Order, the RQIA;
   >   - (c) in relation to an appeal or an application for leave to appeal under Article 11 or 12 of the 2003 Order, the Department;
   >   - (d) in relation to an appeal, an application for leave or a determination under Article 42 of the 2003 Order, the Department;
@@ -124,10 +124,10 @@ These Regulations amend the Care Tribunal Regulations (Northern Ireland) 2005 in
 
 [^f00001]: Footnote: S.I. [2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431)
 
-[^key-ef0263c8ba858088ea9d6a4153e15d3c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1) in operation at 29.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1)
+[^c-ef0263c8ba858088ea9d6a4153e15d3c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1) in operation at 29.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1)
 
-[^key-3071b21ef978a867d3b9d5c6ea25d7a3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/342/regulation/2) in operation at 29.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1)
+[^c-3071b21ef978a867d3b9d5c6ea25d7a3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/342/regulation/2) in operation at 29.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/342/regulation/1)
 
 [^f00002]: Footnote: [S.R. 2005 No. 178](https://www.legislation.gov.uk/nisr/2005/178)
 
-[^key-e5b818c98e0a09a4f5bda64b07ef3895]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-e5b818c98e0a09a4f5bda64b07ef3895]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(b)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/b) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

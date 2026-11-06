@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**53.**[^key-7fb62ae96ff574a49a5dc3041b022327] In Schedule 2, Class 1, paragraph 3, after “1979” insert “or under section 3 of the Historic Environment (Wales) Act 2023”.
+**53.**[^c-7fb62ae96ff574a49a5dc3041b022327] In Schedule 2, Class 1, paragraph 3, after “1979” insert “or under section 3 of the Historic Environment (Wales) Act 2023”.
 
 ## Annotations
 
-[^key-7fb62ae96ff574a49a5dc3041b022327]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2024/924/regulation/53) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-7fb62ae96ff574a49a5dc3041b022327]: Commencement: [Reg. 53](https://www.legislation.gov.uk/wsi/2024/924/regulation/53) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

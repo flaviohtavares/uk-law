@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Undertakings as alternative to monopoly reference by Director General of Fair Trading.[^key-73e8683586adcc289933ad14631c5c64]
+## 7. Undertakings as alternative to monopoly reference by Director General of Fair Trading.[^c-73e8683586adcc289933ad14631c5c64]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73e8683586adcc289933ad14631c5c64]: Textual amendment: [S. 7(1)](https://www.legislation.gov.uk/ukpga/1994/40/section/7/1) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
+[^c-73e8683586adcc289933ad14631c5c64]: Textual amendment: [S. 7(1)](https://www.legislation.gov.uk/ukpga/1994/40/section/7/1) repealed (20.6.2003) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [s. 279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 26](https://www.legislation.gov.uk/ukpga/2002/40/schedule/26); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))

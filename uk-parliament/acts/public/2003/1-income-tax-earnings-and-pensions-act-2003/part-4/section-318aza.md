@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 318AZA. Meaning of “eligible employee”[^key-5ed5b0f9be09bf90a0e42fc6da95a8c9]
+## 318AZA. Meaning of “eligible employee”[^c-5ed5b0f9be09bf90a0e42fc6da95a8c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5ed5b0f9be09bf90a0e42fc6da95a8c9]: Textual amendment: [S. 318AZA](https://www.legislation.gov.uk/ukpga/2003/1/section/318AZA) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 64(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/64/4), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
+[^c-5ed5b0f9be09bf90a0e42fc6da95a8c9]: Textual amendment: [S. 318AZA](https://www.legislation.gov.uk/ukpga/2003/1/section/318AZA) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 64(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/64/4), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))

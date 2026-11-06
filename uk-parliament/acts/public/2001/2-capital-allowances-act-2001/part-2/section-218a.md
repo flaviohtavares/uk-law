@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218A. Further restriction on annual investment allowance[^key-950b9235d278079fe6ed1076c5a82e2d]
+## 218A. Further restriction on annual investment allowance[^c-950b9235d278079fe6ed1076c5a82e2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-950b9235d278079fe6ed1076c5a82e2d]: Textual amendment: S. 218A inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/9)
+[^c-950b9235d278079fe6ed1076c5a82e2d]: Textual amendment: S. 218A inserted (with effect in accordance with Sch. 24 para. 23 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 24 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/24/paragraph/9)

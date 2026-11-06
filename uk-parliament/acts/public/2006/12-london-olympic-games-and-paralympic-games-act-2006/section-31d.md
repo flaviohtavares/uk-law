@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31D. Disposal orders[^key-33f601071439951586e1a74b1f9b5d51]
+## 31D. Disposal orders[^c-33f601071439951586e1a74b1f9b5d51]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33f601071439951586e1a74b1f9b5d51]: Textual amendment: [S. 31D](https://www.legislation.gov.uk/ukpga/2006/12/section/31D) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(m)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/m)
+[^c-33f601071439951586e1a74b1f9b5d51]: Textual amendment: [S. 31D](https://www.legislation.gov.uk/ukpga/2006/12/section/31D) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(m)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/m)

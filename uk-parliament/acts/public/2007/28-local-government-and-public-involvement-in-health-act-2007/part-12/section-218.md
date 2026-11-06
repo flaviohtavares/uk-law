@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218. Definition of certain terms in amended enactments: Wales[^key-ef9321e082dcd68eeb3a449fa44eb3de]
+## 218. Definition of certain terms in amended enactments: Wales[^c-ef9321e082dcd68eeb3a449fa44eb3de]
 
 *Extent: E+W*
 
 (1) The Welsh Ministers may by order under this section—
 
-- (a)[^key-35ba24a697547152d704d1d1b66ac194] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-35ba24a697547152d704d1d1b66ac194] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) define, for the purposes of sections 98(8)(d) and 100(1)(a) of the Local Government, Planning and Land Act 1980, the references in each of those provisions to—
   - (i) “an entity under the control of” the body mentioned there;
   - (ii) “an entity subject to the influence of” that body; and
@@ -36,7 +36,7 @@ summary: ''
 
 (2) Any reference in subsection (1) to the purposes of a provision of—
 
-- [^key-146682071049c9351134379e0ce3f634]...
+- [^c-146682071049c9351134379e0ce3f634]...
 - the Local Government, Planning and Land Act 1980 (c. 65),
 - the Environment Act 1995, or
 - the Local Government Act 2003,
@@ -52,8 +52,8 @@ is a reference to the purposes of that provision as it applies in relation to Wa
 
 ## Annotations
 
-[^key-ef9321e082dcd68eeb3a449fa44eb3de]: Commencement: S. 218 in force at 30.12.2007, see [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
+[^c-ef9321e082dcd68eeb3a449fa44eb3de]: Commencement: S. 218 in force at 30.12.2007, see [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
 
-[^key-35ba24a697547152d704d1d1b66ac194]: Textual amendment: [S. 218(1)(a)](https://www.legislation.gov.uk/ukpga/2007/28/section/218/1/a) omitted (17.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 2 para. 13(2)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/13/2/a); [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
+[^c-35ba24a697547152d704d1d1b66ac194]: Textual amendment: [S. 218(1)(a)](https://www.legislation.gov.uk/ukpga/2007/28/section/218/1/a) omitted (17.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 2 para. 13(2)(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/13/2/a); [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
 
-[^key-146682071049c9351134379e0ce3f634]: Textual amendment: Words in [s. 218(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/218/2) omitted (17.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 2 para. 13(2)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/13/2/b); [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
+[^c-146682071049c9351134379e0ce3f634]: Textual amendment: Words in [s. 218(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/218/2) omitted (17.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 2 para. 13(2)(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/13/2/b); [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)

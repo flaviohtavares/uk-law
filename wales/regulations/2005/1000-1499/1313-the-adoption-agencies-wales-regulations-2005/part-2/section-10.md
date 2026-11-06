@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Establishment of new adoption panels on 30 December 2005[^key-37d300470b28e0f44a15fdc37bcb21fe]
+## 10. Establishment of new adoption panels on 30 December 2005[^c-37d300470b28e0f44a15fdc37bcb21fe]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37d300470b28e0f44a15fdc37bcb21fe]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2005/1313/regulation/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-37d300470b28e0f44a15fdc37bcb21fe]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2005/1313/regulation/10) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
 
 [^f00008]: Footnote: [S.I.1983/1964](https://www.legislation.gov.uk/uksi/1983/1964). Regulation 5A(1A) was inserted by the Adoption (Agencies) Regulations 2003 (S.I. [2003/3223](https://www.legislation.gov.uk/uksi/2003/3223)).

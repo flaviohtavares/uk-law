@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 253H. Application of receipts[^key-690b4e9decb238c1aa52f1a4ef110736]
+## 253H. Application of receipts[^c-690b4e9decb238c1aa52f1a4ef110736]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-690b4e9decb238c1aa52f1a4ef110736]: Textual amendment: Ss. 253F-253J and cross-heading inserted (13.8.2014 for the insertion of ss. 253F, 253G for specified purposes, 25.11.2019 in so far as not already in force except for the insertion of s. 253G(4)(a)(b)) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 26](https://www.legislation.gov.uk/asp/2014/1/section/26), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule); [S.S.I. 2019/283](https://www.legislation.gov.uk/ssi/2019/283), [art. 2](https://www.legislation.gov.uk/ssi/2019/283/article/2)
+[^c-690b4e9decb238c1aa52f1a4ef110736]: Textual amendment: Ss. 253F-253J and cross-heading inserted (13.8.2014 for the insertion of ss. 253F, 253G for specified purposes, 25.11.2019 in so far as not already in force except for the insertion of s. 253G(4)(a)(b)) by [Victims and Witnesses (Scotland) Act 2014 (asp 1)](https://www.legislation.gov.uk/asp/2014/1), [ss. 26](https://www.legislation.gov.uk/asp/2014/1/section/26), [34](https://www.legislation.gov.uk/asp/2014/1/section/34); [S.S.I. 2014/210](https://www.legislation.gov.uk/ssi/2014/210), [art. 2](https://www.legislation.gov.uk/ssi/2014/210/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/210/schedule); [S.S.I. 2019/283](https://www.legislation.gov.uk/ssi/2019/283), [art. 2](https://www.legislation.gov.uk/ssi/2019/283/article/2)

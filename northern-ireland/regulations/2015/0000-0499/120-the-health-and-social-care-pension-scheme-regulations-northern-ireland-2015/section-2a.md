@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2A. Members who do not fall within any of the cases in paragraph 2[^key-89fd2df7afd8fdaa13d8453e602ce3af]
+## 2A. Members who do not fall within any of the cases in paragraph 2[^c-89fd2df7afd8fdaa13d8453e602ce3af]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89fd2df7afd8fdaa13d8453e602ce3af]: Textual amendment: [Sch. 9 para. 2A](https://www.legislation.gov.uk/nisr/2015/120/schedule/9/paragraph/2A) inserted (1.11.2022) by [The Health and Social Care Pension Scheme (Member Contributions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/244)](https://www.legislation.gov.uk/nisr/2022/244), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2), [7(4)](https://www.legislation.gov.uk/nisr/2022/244/regulation/7/4)
+[^c-89fd2df7afd8fdaa13d8453e602ce3af]: Textual amendment: [Sch. 9 para. 2A](https://www.legislation.gov.uk/nisr/2015/120/schedule/9/paragraph/2A) inserted (1.11.2022) by [The Health and Social Care Pension Scheme (Member Contributions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/244)](https://www.legislation.gov.uk/nisr/2022/244), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/244/regulation/1/2), [7(4)](https://www.legislation.gov.uk/nisr/2022/244/regulation/7/4)

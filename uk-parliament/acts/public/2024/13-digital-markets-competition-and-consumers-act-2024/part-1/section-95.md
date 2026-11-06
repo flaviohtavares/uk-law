@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Obstructing an officer[^key-ea9b32f582c4f138bfd91863fe9c5043][^key-f52c6ff626be4ba18584680dac6ca0ad]
+## 95. Obstructing an officer[^c-ea9b32f582c4f138bfd91863fe9c5043][^c-f52c6ff626be4ba18584680dac6ca0ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea9b32f582c4f138bfd91863fe9c5043]: Commencement: S. 95 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-ea9b32f582c4f138bfd91863fe9c5043]: Commencement: S. 95 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f52c6ff626be4ba18584680dac6ca0ad]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2024/13/section/95) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-f52c6ff626be4ba18584680dac6ca0ad]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2024/13/section/95) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

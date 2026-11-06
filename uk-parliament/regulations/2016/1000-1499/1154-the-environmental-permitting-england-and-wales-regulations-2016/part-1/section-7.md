@@ -23,7 +23,7 @@ summary: ''
 In these Regulations—
 
 - “**operate a regulated facility**” means—
-  - (a) operate an installation, mobile plant, a medium combustion plant or a specified generator[^key-41348c23dc3bc2c8c8eac0b38943eed1], or
+  - (a) operate an installation, mobile plant, a medium combustion plant or a specified generator[^c-41348c23dc3bc2c8c8eac0b38943eed1], or
   - (b) carry on a waste operation, mining waste operation, radioactive substances activity, water discharge activity, groundwater activity, small waste incineration plant operation, solvent emission activity or flood risk activity;
 - “**operator**”, in relation to a regulated facility, means—
   - (a) the person who has control over the operation of the regulated facility,
@@ -32,4 +32,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-41348c23dc3bc2c8c8eac0b38943eed1]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2016/1154/regulation/7) substituted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/110/regulation/5)
+[^c-41348c23dc3bc2c8c8eac0b38943eed1]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2016/1154/regulation/7) substituted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [5](https://www.legislation.gov.uk/uksi/2018/110/regulation/5)

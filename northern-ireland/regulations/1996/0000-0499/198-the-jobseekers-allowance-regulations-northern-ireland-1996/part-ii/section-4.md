@@ -20,7 +20,7 @@ summary: ''
 
 **Not yet in force.**
 
-**4.**[^key-5477d13bfd57df2ce85f2daa07561f8d] In Parts II, IV and V and, as provided below, the Order—
+**4.**[^c-5477d13bfd57df2ce85f2daa07561f8d] In Parts II, IV and V and, as provided below, the Order—
 
 - “appropriate office” means the office of the Department which the claimant is required to attend in accordance with a notice under regulation 23, or any other place which he is so required to attend;
 - “caring responsibilities” means responsibility for caring for a child or for an elderly person or for a person whose physical or mental condition requires him to be cared for, who is either in the same household or a close relative;
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5477d13bfd57df2ce85f2daa07561f8d]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-5477d13bfd57df2ce85f2daa07561f8d]: Commencement: Reg. 4 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00035]: Footnote: [S.I. 1984/1821 (N.I. 11)](https://www.legislation.gov.uk/nisi/1984/1821)

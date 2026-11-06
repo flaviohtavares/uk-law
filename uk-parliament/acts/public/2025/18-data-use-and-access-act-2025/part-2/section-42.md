@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Duty to remove services from the DVS register[^key-ddd15adf14f01622c5de357ae06f0e7d][^key-b888329e5edd109714f1056752401f03]
+## 42. Duty to remove services from the DVS register[^c-ddd15adf14f01622c5de357ae06f0e7d][^c-b888329e5edd109714f1056752401f03]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ddd15adf14f01622c5de357ae06f0e7d]: Commencement: S. 42 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-ddd15adf14f01622c5de357ae06f0e7d]: Commencement: S. 42 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-b888329e5edd109714f1056752401f03]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2025/18/section/42) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-b888329e5edd109714f1056752401f03]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2025/18/section/42) in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

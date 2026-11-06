@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11A. Seafarer employment agreements: captive seafarers[^key-63ef9cca817089828e35ff8e10bafdcf]
+## 11A. Seafarer employment agreements: captive seafarers[^c-63ef9cca817089828e35ff8e10bafdcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63ef9cca817089828e35ff8e10bafdcf]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2014/1613/regulation/11A) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/2/3)
+[^c-63ef9cca817089828e35ff8e10bafdcf]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2014/1613/regulation/11A) inserted (26.12.2020) by [The Merchant Shipping (Maritime Labour Convention and Work in Fishing Convention) (Amendment) Regulations 2020 (S.I. 2020/1166)](https://www.legislation.gov.uk/uksi/2020/1166), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1166/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1166/regulation/2/3)

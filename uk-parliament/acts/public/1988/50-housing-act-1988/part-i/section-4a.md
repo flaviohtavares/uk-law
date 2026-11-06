@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4A. Assured tenancies to be periodic with rent period not exceeding a month[^key-3deb237748a81a4bdde19b47a7bcbb3c]
+## 4A. Assured tenancies to be periodic with rent period not exceeding a month[^c-3deb237748a81a4bdde19b47a7bcbb3c]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ where—
 
 ## Annotations
 
-[^key-3deb237748a81a4bdde19b47a7bcbb3c]: Textual amendment: S. 4A inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 1](https://www.legislation.gov.uk/ukpga/2025/26/section/1), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [147(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/2), [Sch. 6 paras. 1-4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-3deb237748a81a4bdde19b47a7bcbb3c]: Textual amendment: S. 4A inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 1](https://www.legislation.gov.uk/ukpga/2025/26/section/1), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [147(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/2), [Sch. 6 paras. 1-4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

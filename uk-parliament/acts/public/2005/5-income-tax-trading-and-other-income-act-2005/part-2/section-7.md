@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Tax is charged under this Chapter on the full amount of the profits of the tax year (including amounts treated as profits of the tax year under section 23E(1)[^key-452e180a7d13d03649677ad081212db0] , section 23I or section 23M[^key-00ba86e2be0a290626799a2ac27a1977]).
+(1) Tax is charged under this Chapter on the full amount of the profits of the tax year (including amounts treated as profits of the tax year under section 23E(1)[^c-452e180a7d13d03649677ad081212db0] , section 23I or section 23M[^c-00ba86e2be0a290626799a2ac27a1977]).
 
-(2)[^key-a5ca000b88d8fc3ffe1a8fd110b44a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a5ca000b88d8fc3ffe1a8fd110b44a77] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-03ee1d4f90bc29d09a506af8b91ffa7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-03ee1d4f90bc29d09a506af8b91ffa7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This section is subject to Part 8 (foreign income: special rules).
 
@@ -32,10 +32,10 @@ summary: ''
 
 ## Annotations
 
-[^key-452e180a7d13d03649677ad081212db0]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/7/1) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 2(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/2/2), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-452e180a7d13d03649677ad081212db0]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/7/1) inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 2(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/2/2), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
 
-[^key-00ba86e2be0a290626799a2ac27a1977]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/7/1) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/3)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)
+[^c-00ba86e2be0a290626799a2ac27a1977]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/7/1) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/3)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)
 
-[^key-a5ca000b88d8fc3ffe1a8fd110b44a77]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/7/2) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/2/3), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-a5ca000b88d8fc3ffe1a8fd110b44a77]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/7/2) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/2/3), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
 
-[^key-03ee1d4f90bc29d09a506af8b91ffa7e]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/7/3) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/2/3), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)
+[^c-03ee1d4f90bc29d09a506af8b91ffa7e]: Textual amendment: [S. 7(3)](https://www.legislation.gov.uk/ukpga/2005/5/section/7/3) omitted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/2/3), [61(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/61/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Public Health, England
 
-The Private and Voluntary Health Care (England) Amendment Regulations 2008 (revoked)[^key-6f410e1e13aa389d1da64be53d621d8e]
+The Private and Voluntary Health Care (England) Amendment Regulations 2008 (revoked)[^c-6f410e1e13aa389d1da64be53d621d8e]
 
 Made
 
@@ -46,40 +46,40 @@ Coming into force
 
 1st October 2008
 
-[^key-6f410e1e13aa389d1da64be53d621d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f410e1e13aa389d1da64be53d621d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-6f410e1e13aa389d1da64be53d621d8e]
+## 1. Citation, commencement, application and interpretation[^c-6f410e1e13aa389d1da64be53d621d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the 2001 Regulations[^key-6f410e1e13aa389d1da64be53d621d8e]
+## 2. Amendment of regulation 2 of the 2001 Regulations[^c-6f410e1e13aa389d1da64be53d621d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 3 of the 2001 Regulations[^key-6f410e1e13aa389d1da64be53d621d8e]
+## 3. Amendment of regulation 3 of the 2001 Regulations[^c-6f410e1e13aa389d1da64be53d621d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 4 of the 2001 Regulations[^key-6f410e1e13aa389d1da64be53d621d8e]
+## 4. Amendment of regulation 4 of the 2001 Regulations[^c-6f410e1e13aa389d1da64be53d621d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 5 of the 2001 Regulations[^key-6f410e1e13aa389d1da64be53d621d8e]
+## 5. Amendment of regulation 5 of the 2001 Regulations[^c-6f410e1e13aa389d1da64be53d621d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 26 of the 2001 Regulations[^key-6f410e1e13aa389d1da64be53d621d8e]
+## 6. Amendment of regulation 26 of the 2001 Regulations[^c-6f410e1e13aa389d1da64be53d621d8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f410e1e13aa389d1da64be53d621d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f410e1e13aa389d1da64be53d621d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6f410e1e13aa389d1da64be53d621d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f410e1e13aa389d1da64be53d621d8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f410e1e13aa389d1da64be53d621d8e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2352) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
+[^c-6f410e1e13aa389d1da64be53d621d8e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/2352) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)

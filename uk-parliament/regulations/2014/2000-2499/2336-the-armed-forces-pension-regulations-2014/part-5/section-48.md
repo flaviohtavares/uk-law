@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Annual rate of pension credit member’s pension[^key-94a85146de937019ef1c374188f65477]
+## 48. Annual rate of pension credit member’s pension[^c-94a85146de937019ef1c374188f65477]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The annual rate of the pension credit member’s pension is determined by—
 
 ## Annotations
 
-[^key-94a85146de937019ef1c374188f65477]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2014/2336/regulation/48) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-94a85146de937019ef1c374188f65477]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2014/2336/regulation/48) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

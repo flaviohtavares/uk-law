@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Non-Road Mobile Machinery (Emission of Gaseous and Particulate Pollutants) (Amendment) Regulations 2006 (revoked)[^key-b194966dc03c6324d934f045ed213fb1]
+The Non-Road Mobile Machinery (Emission of Gaseous and Particulate Pollutants) (Amendment) Regulations 2006 (revoked)[^c-b194966dc03c6324d934f045ed213fb1]
 
 Made
 
@@ -46,84 +46,84 @@ Coming into force
 
 17th February 2006
 
-[^key-b194966dc03c6324d934f045ed213fb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b194966dc03c6324d934f045ed213fb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b194966dc03c6324d934f045ed213fb1]
+## 1. Citation and commencement[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-b194966dc03c6324d934f045ed213fb1]
+## 2. Amendment of Regulations[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-b194966dc03c6324d934f045ed213fb1]
+## 3. Interpretation[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Scope and exclusions[^key-b194966dc03c6324d934f045ed213fb1]
+## 4. Scope and exclusions[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Provisions applying to CI engines only[^key-b194966dc03c6324d934f045ed213fb1]
+## 5. Provisions applying to CI engines only[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Placing on the market: SI engines only[^key-b194966dc03c6324d934f045ed213fb1]
+## 6. Placing on the market: SI engines only[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Classes of SI engines[^key-b194966dc03c6324d934f045ed213fb1]
+## 7. Classes of SI engines[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Type approval: SI engines only[^key-b194966dc03c6324d934f045ed213fb1]
+## 8. Type approval: SI engines only[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Exemptions: SI engines only[^key-b194966dc03c6324d934f045ed213fb1]
+## 9. Exemptions: SI engines only[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Transitional provisions: SI engines only[^key-b194966dc03c6324d934f045ed213fb1]
+## 10. Transitional provisions: SI engines only[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Provisions applying to both CI and SI engines[^key-b194966dc03c6324d934f045ed213fb1]
+## 11. Provisions applying to both CI and SI engines[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Application to EEA States[^key-b194966dc03c6324d934f045ed213fb1]
+## 12. Application to EEA States[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Conformity[^key-b194966dc03c6324d934f045ed213fb1]
+## 13. Conformity[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. CI engines: exemptions, end of series engines and equivalent type approvals[^key-b194966dc03c6324d934f045ed213fb1]
+## 14. CI engines: exemptions, end of series engines and equivalent type approvals[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Offences[^key-b194966dc03c6324d934f045ed213fb1]
+## 15. Offences[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Declarations of compliance with Directive [82/714/EC](https://www.legislation.gov.uk/eudr/1982/714)[^key-b194966dc03c6324d934f045ed213fb1]
+## 16. Declarations of compliance with Directive [82/714/EC](https://www.legislation.gov.uk/eudr/1982/714)[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. CI engines: categories, exemptions and transitional provisions[^key-b194966dc03c6324d934f045ed213fb1]
+## 17. CI engines: categories, exemptions and transitional provisions[^c-b194966dc03c6324d934f045ed213fb1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b194966dc03c6324d934f045ed213fb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b194966dc03c6324d934f045ed213fb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b194966dc03c6324d934f045ed213fb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b194966dc03c6324d934f045ed213fb1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b194966dc03c6324d934f045ed213fb1]: Textual amendment: Regulations revoked (21.9.2018) by [The Non-Road Mobile Machinery (Type-Approval and Emission of Gaseous and Particulate Pollutants) Regulations 2018 (S.I. 2018/764)](https://www.legislation.gov.uk/uksi/2018/764), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2018/764/schedule/2/part/2) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/c))
+[^c-b194966dc03c6324d934f045ed213fb1]: Textual amendment: Regulations revoked (21.9.2018) by [The Non-Road Mobile Machinery (Type-Approval and Emission of Gaseous and Particulate Pollutants) Regulations 2018 (S.I. 2018/764)](https://www.legislation.gov.uk/uksi/2018/764), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2018/764/schedule/2/part/2) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/764/regulation/1/c))

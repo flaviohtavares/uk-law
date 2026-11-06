@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Options and rights of pre-emption[^key-2c3be2cab2050aaacd0cc4ad0f464c87]
+## 12. Options and rights of pre-emption[^c-2c3be2cab2050aaacd0cc4ad0f464c87]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ is a land transaction distinct from any land transaction resulting from the exer
 
 ## Annotations
 
-[^key-2c3be2cab2050aaacd0cc4ad0f464c87]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2013/11/section/12) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-2c3be2cab2050aaacd0cc4ad0f464c87]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2013/11/section/12) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

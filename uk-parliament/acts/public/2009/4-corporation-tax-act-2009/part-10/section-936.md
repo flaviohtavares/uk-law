@@ -30,7 +30,7 @@ summary: ''
 - (a) has borne United Kingdom income tax by deduction, or
 - (b) is income in respect of which the personal representatives are directly assessable to United Kingdom income tax for the tax year.
 
-(3) Condition B is that none of the income of the estate is income for which the personal representatives are not liable to United Kingdom income tax for the tax year because they are not UK resident [^key-7a777dcc074e722f35a5b475b086e4fe]....
+(3) Condition B is that none of the income of the estate is income for which the personal representatives are not liable to United Kingdom income tax for the tax year because they are not UK resident [^c-7a777dcc074e722f35a5b475b086e4fe]....
 
 (4) For the purposes of conditions A and B, sums within section 963(3) , (3A)[^M_F_f799bbcc-98dc-413b-b8ea-e3773034daee] or (4) (sums treated as bearing income tax) are ignored.
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a777dcc074e722f35a5b475b086e4fe]: Textual amendment: Words in s. 936(3) omitted (with application in accordance with Sch. 46 para. 139(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 139(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/139/1)
+[^c-7a777dcc074e722f35a5b475b086e4fe]: Textual amendment: Words in s. 936(3) omitted (with application in accordance with Sch. 46 para. 139(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 139(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/139/1)
 
 [^M_F_f799bbcc-98dc-413b-b8ea-e3773034daee]: Textual amendment: Word in s. 936(4) inserted (with effect in relation to accounting periods beginning on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 2 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/8/2), [14(2)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/2/paragraph/14/2/b)
 

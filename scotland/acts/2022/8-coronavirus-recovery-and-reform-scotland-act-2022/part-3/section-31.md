@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Civic licensing: how notices may be published[^key-de8401b8c6533a7c11f3a692d7d62b65]
+## 31. Civic licensing: how notices may be published[^c-de8401b8c6533a7c11f3a692d7d62b65]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de8401b8c6533a7c11f3a692d7d62b65]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2022/8/section/31) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-de8401b8c6533a7c11f3a692d7d62b65]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2022/8/section/31) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

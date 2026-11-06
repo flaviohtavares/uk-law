@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 8. Central list administration[^key-f2b180fa61e4e32f29f470bf841bcf2b]
+## 8. Central list administration[^c-f2b180fa61e4e32f29f470bf841bcf2b]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ After section 52 of the Act insert—
 
 ## Annotations
 
-[^key-f2b180fa61e4e32f29f470bf841bcf2b]: Commencement: S. 8 not in force at Royal Assent, see [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6)
+[^c-f2b180fa61e4e32f29f470bf841bcf2b]: Commencement: S. 8 not in force at Royal Assent, see [s. 19(6)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/6)

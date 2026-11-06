@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 720. Directors' statement and auditor's report to be available for inspection[^key-d5dc3163029a424e92ec646e09c57645][^key-7e9a630dc68a85bd11614243ad0433fb]
+## 720. Directors' statement and auditor's report to be available for inspection[^c-d5dc3163029a424e92ec646e09c57645][^c-7e9a630dc68a85bd11614243ad0433fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ unless they have at all times been kept at the company's registered office.
 
 ## Annotations
 
-[^key-d5dc3163029a424e92ec646e09c57645]: Modification: [S. 720](https://www.legislation.gov.uk/ukpga/2006/46/section/720) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(ix)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/ix)
+[^c-d5dc3163029a424e92ec646e09c57645]: Modification: [S. 720](https://www.legislation.gov.uk/ukpga/2006/46/section/720) modified (6.4.2016) by [The Companies (Address of Registered Office) Regulations 2016 (S.I. 2016/423)](https://www.legislation.gov.uk/uksi/2016/423), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/423/regulation/1/1), [11(a)(ix)](https://www.legislation.gov.uk/uksi/2016/423/regulation/11/a/ix)
 
-[^key-7e9a630dc68a85bd11614243ad0433fb]: Modification: [S. 720](https://www.legislation.gov.uk/ukpga/2006/46/section/720) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-7e9a630dc68a85bd11614243ad0433fb]: Modification: [S. 720](https://www.legislation.gov.uk/ukpga/2006/46/section/720) restricted (temp.) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2024/233/regulation/16); S.I. 2024/269, [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)

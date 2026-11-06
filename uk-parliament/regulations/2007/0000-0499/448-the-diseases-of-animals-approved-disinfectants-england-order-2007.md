@@ -63,7 +63,7 @@ Any approval under this Order or any renewal, amendment, suspension or revocatio
 (2) The Secretary of State may only approve a disinfectant if he is satisfied—
 
 - (a) as to its efficacy and quality; and
-- (b) that it complies with Regulation ([^key-d723276efb947f389d0512f4ccbddabe]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products .
+- (b) that it complies with Regulation ([^c-d723276efb947f389d0512f4ccbddabe]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products .
 
 (3) The approval—
 
@@ -90,14 +90,14 @@ An approved disinfectant may only be used in accordance with the conditions of i
 
 (2) If a renewal is applied for, the approval continues to be valid up to the date on which the applicant is notified of the decision to renew or to refuse to renew.
 
-## 6. Amendment, suspension and revocation of approvals[^key-703a1ede1dfbb364190c3adedda40159]
+## 6. Amendment, suspension and revocation of approvals[^c-703a1ede1dfbb364190c3adedda40159]
 
 (1) The Secretary of State may amend, suspend or revoke the approval or refuse to renew the approval in respect of a disinfectant in the following circumstances—
 
 - (a) production has ceased;
 - (b) the disinfectant is no longer efficacious or of suitable quality;
 - (c) the manufacturer does not comply with any condition of approval;
-- (d) the disinfectant does not comply with Regulation ([^key-d655590b80a478e4af06bd9db6f77a62]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products ; or
+- (d) the disinfectant does not comply with Regulation ([^c-d655590b80a478e4af06bd9db6f77a62]EU) No 528/2012 of the European Parliament and of the Council of 22 May 2012 concerning the making available on the market and use of biocidal products ; or
 - (e) the manufacturer who is required to pay the annual fee in accordance with article 3 of the Diseases of Animals (Approved Disinfectants) (Fees and Amendment) (England) Order 2011 has failed to make payment by the due date for payment.
 
 (2) The Secretary of State may also suspend an approval pending investigation of any disinfectant if the Secretary of State has reasonable grounds to suspect that any of the circumstances in paragraph (1)(a) to (d) apply.
@@ -154,7 +154,7 @@ Any reference in an order under the Animal Health Act 1981 to a disinfectant app
 
 (2) The Secretary of State may direct, in cases of a particular description or any particular case, that he will enforce this Order instead of the local authority.
 
-(3)[^key-b2b4e9c1e2d509f86614360d497f5edd] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
+(3)[^c-b2b4e9c1e2d509f86614360d497f5edd] Where the Secretary of State makes a direction under paragraph (2), the Secretary of State may delegate to the Director of Public Prosecutions functions in relation to the prosecution of an offence under section 73 of the Animal Health Act 1981 relating to this Order.
 
 ## 13. Revocations
 
@@ -193,14 +193,14 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); see section 86(1) for definitions of “the Minister” and “the Ministers”. Functions of “the Ministers”, so far as exercisable in relation to England, were transferred to the Minister of Agriculture, Fisheries and Food by the Transfer of Functions (Agriculture and Food) Order 1999 ([S.I. 1999/3141](https://www.legislation.gov.uk/uksi/1999/3141)) and functions of the Minister of Agriculture, Fisheries and Food were transferred to the Secretary of State by article 2 of the Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 ([S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794)).
 
-[^key-d723276efb947f389d0512f4ccbddabe]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2007/448/article/3/2/b) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/uksi/2013/1506/schedule/5/paragraph/7/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5)[31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-d723276efb947f389d0512f4ccbddabe]: Textual amendment: Words in [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2007/448/article/3/2/b) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [Sch. 5 para. 7(2)](https://www.legislation.gov.uk/uksi/2013/1506/schedule/5/paragraph/7/2) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5)[31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
-[^key-703a1ede1dfbb364190c3adedda40159]: Textual amendment: Art. 6 substituted (11.7.2011) by [The Diseases of Animals (Approved Disinfectants) (Fees and Amendment) (England) Order 2011 (S.I. 2011/1509)](https://www.legislation.gov.uk/uksi/2011/1509), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1509/article/1), [5](https://www.legislation.gov.uk/uksi/2011/1509/article/5)
+[^c-703a1ede1dfbb364190c3adedda40159]: Textual amendment: Art. 6 substituted (11.7.2011) by [The Diseases of Animals (Approved Disinfectants) (Fees and Amendment) (England) Order 2011 (S.I. 2011/1509)](https://www.legislation.gov.uk/uksi/2011/1509), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1509/article/1), [5](https://www.legislation.gov.uk/uksi/2011/1509/article/5)
 
-[^key-d655590b80a478e4af06bd9db6f77a62]: Textual amendment: Words in [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2007/448/article/6/1/d) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/uksi/2013/1506/schedule/5/paragraph/7/3) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5)[31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
+[^c-d655590b80a478e4af06bd9db6f77a62]: Textual amendment: Words in [art. 6(1)(d)](https://www.legislation.gov.uk/uksi/2007/448/article/6/1/d) substituted (1.9.2013) by [The Biocidal Products and Chemicals (Appointment of Authorities and Enforcement) Regulations 2013 (S.I. 2013/1506)](https://www.legislation.gov.uk/uksi/2013/1506), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/2/1), [Sch. 5 para. 7(3)](https://www.legislation.gov.uk/uksi/2013/1506/schedule/5/paragraph/7/3) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2013/1506/regulation/3/5)[31](https://www.legislation.gov.uk/uksi/2013/1506/regulation/31))
 
 [^f00003]: Footnote: [S.I.1978/32](https://www.legislation.gov.uk/uksi/1978/32), as amended by [S.I. 2006/1394](https://www.legislation.gov.uk/uksi/2006/1394).
 
-[^key-b2b4e9c1e2d509f86614360d497f5edd]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/uksi/2007/448/article/12/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [17](https://www.legislation.gov.uk/uksi/2012/2897/article/17)
+[^c-b2b4e9c1e2d509f86614360d497f5edd]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/uksi/2007/448/article/12/3) added (24.12.2012) by [The Agriculture, Animals, Environment and Food etc. (Miscellaneous Amendments) Order 2012 (S.I. 2012/2897)](https://www.legislation.gov.uk/uksi/2012/2897), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/2897/article/1/1), [17](https://www.legislation.gov.uk/uksi/2012/2897/article/17)
 
 [^f00004]: Footnote: [S.I. 2006/1394](https://www.legislation.gov.uk/uksi/2006/1394).

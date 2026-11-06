@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Inspection of CAFCASS functions[^key-0d552c3fc830b749b50bebc452d7f129]
+## 143. Inspection of CAFCASS functions[^c-0d552c3fc830b749b50bebc452d7f129]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d552c3fc830b749b50bebc452d7f129]: Commencement: S. 143 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-0d552c3fc830b749b50bebc452d7f129]: Commencement: S. 143 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

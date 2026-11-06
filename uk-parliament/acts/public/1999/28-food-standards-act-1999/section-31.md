@@ -26,8 +26,8 @@ summary: ''
 
 *Extent: N.I.*
 
-(3)[^key-ec62ce786d7357353f7b45d9a14aa4b9] The duty to consult set out in paragraph (a) of section 30 (6), in so far as it applies to an order made under this section, shall not apply in any case in respect of which the consultation requirement set out in Article 9 of Regulation EC No.178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, applies.
+(3)[^c-ec62ce786d7357353f7b45d9a14aa4b9] The duty to consult set out in paragraph (a) of section 30 (6), in so far as it applies to an order made under this section, shall not apply in any case in respect of which the consultation requirement set out in Article 9 of Regulation EC No.178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety, applies.
 
 ## Annotations
 
-[^key-ec62ce786d7357353f7b45d9a14aa4b9]: Textual amendment: [S. 31(3)](https://www.legislation.gov.uk/ukpga/1999/28/section/31/3) added (N.I.) (1.1.2005) by [The Feeding Stuffs (Safety Requirements for Feed for Food-Producing Animals) Regulations (Northern Ireland) 2004 (S.R. 2004/506)](https://www.legislation.gov.uk/nisr/2004/506), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/506/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2004/506/regulation/13)
+[^c-ec62ce786d7357353f7b45d9a14aa4b9]: Textual amendment: [S. 31(3)](https://www.legislation.gov.uk/ukpga/1999/28/section/31/3) added (N.I.) (1.1.2005) by [The Feeding Stuffs (Safety Requirements for Feed for Food-Producing Animals) Regulations (Northern Ireland) 2004 (S.R. 2004/506)](https://www.legislation.gov.uk/nisr/2004/506), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2004/506/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2004/506/regulation/13)

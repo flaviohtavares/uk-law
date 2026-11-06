@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. “Flood risk management function”[^key-4e0ef1840265c82d4e982c96a39fd5d4][^key-557c9997c7e0b5c2cb911b75985bb324]
+## 4. “Flood risk management function”[^c-4e0ef1840265c82d4e982c96a39fd5d4][^c-557c9997c7e0b5c2cb911b75985bb324]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e0ef1840265c82d4e982c96a39fd5d4]: Commencement: S. 4 in force at 1.9.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 3(1)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/1)
+[^c-4e0ef1840265c82d4e982c96a39fd5d4]: Commencement: S. 4 in force at 1.9.2010 for specified purposes by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 3(1)](https://www.legislation.gov.uk/uksi/2010/2169/article/3/1)
 
-[^key-557c9997c7e0b5c2cb911b75985bb324]: Commencement: S. 4 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-557c9997c7e0b5c2cb911b75985bb324]: Commencement: S. 4 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

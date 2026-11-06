@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Zero energy consumption[^key-a76579b8ea47a4781b710a2225272ffc]
+## 33A. Zero energy consumption[^c-a76579b8ea47a4781b710a2225272ffc]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a76579b8ea47a4781b710a2225272ffc]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/2014/1643/regulation/33A) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2026/701/regulation/25)
+[^c-a76579b8ea47a4781b710a2225272ffc]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/2014/1643/regulation/33A) inserted (22.7.2026) by [The Energy Savings Opportunity Scheme (Amendment) Regulations 2026 (S.I. 2026/701)](https://www.legislation.gov.uk/uksi/2026/701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/701/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2026/701/regulation/25)

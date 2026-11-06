@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 417. Accounting requirements for authorised deposit takers not required to prepare accounts under Part VII of the Companies Act 1985[^key-6255547bfb6b3f25e860d8cf82aec566]
+## 417. Accounting requirements for authorised deposit takers not required to prepare accounts under Part VII of the Companies Act 1985[^c-6255547bfb6b3f25e860d8cf82aec566]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6255547bfb6b3f25e860d8cf82aec566]: Textual amendment: [Art. 417](https://www.legislation.gov.uk/uksi/2001/3649/article/417) revoked (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-6255547bfb6b3f25e860d8cf82aec566]: Textual amendment: [Art. 417](https://www.legislation.gov.uk/uksi/2001/3649/article/417) revoked (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

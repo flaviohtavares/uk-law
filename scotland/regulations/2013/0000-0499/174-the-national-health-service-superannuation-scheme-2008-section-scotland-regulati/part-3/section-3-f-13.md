@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.F.13. Public sector transfer arrangements[^key-42ef515ccb8370e0ce1b364dc7e34f11]
+## 3.F.13. Public sector transfer arrangements[^c-42ef515ccb8370e0ce1b364dc7e34f11]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42ef515ccb8370e0ce1b364dc7e34f11]: Textual amendment: [Reg. 3.F.13](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.F.13) substituted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/19)
+[^c-42ef515ccb8370e0ce1b364dc7e34f11]: Textual amendment: [Reg. 3.F.13](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.F.13) substituted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 19](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/19)

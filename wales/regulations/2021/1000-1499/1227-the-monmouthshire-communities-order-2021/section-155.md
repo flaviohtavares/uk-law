@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**155.**[^key-b8ad0186a2512abe4be1ac0e485b5cb5][^key-ee95f73919ca7a17128d608ef6c4b194] The areas of the Llangwm and Llansoy wards of the community of Llantrisant Fawr form part of the electoral ward of Devauden.
+**155.**[^c-b8ad0186a2512abe4be1ac0e485b5cb5][^c-ee95f73919ca7a17128d608ef6c4b194] The areas of the Llangwm and Llansoy wards of the community of Llantrisant Fawr form part of the electoral ward of Devauden.
 
 ## Annotations
 
-[^key-b8ad0186a2512abe4be1ac0e485b5cb5]: Commencement: Art. 155 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-b8ad0186a2512abe4be1ac0e485b5cb5]: Commencement: Art. 155 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-ee95f73919ca7a17128d608ef6c4b194]: Commencement: [Art. 155](https://www.legislation.gov.uk/wsi/2021/1227/article/155) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-ee95f73919ca7a17128d608ef6c4b194]: Commencement: [Art. 155](https://www.legislation.gov.uk/wsi/2021/1227/article/155) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

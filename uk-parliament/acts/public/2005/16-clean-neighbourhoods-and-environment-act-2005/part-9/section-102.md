@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 102. Statutory nuisance: lighting[^key-0da3896985109ebb5751c3af1d24bef1][^key-eb47fbd11ad3f9504aa7be4cefebce92]
+## 102. Statutory nuisance: lighting[^c-0da3896985109ebb5751c3af1d24bef1][^c-eb47fbd11ad3f9504aa7be4cefebce92]
 
 *Extent: E+W*
 
@@ -113,6 +113,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0da3896985109ebb5751c3af1d24bef1]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2005/16/section/102) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-0da3896985109ebb5751c3af1d24bef1]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2005/16/section/102) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-eb47fbd11ad3f9504aa7be4cefebce92]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2005/16/section/102) in force at 31.1.2007 (being the date on which S.I. 2007/120, art. 2, Sch. came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 7(a)](https://www.legislation.gov.uk/wsi/2006/2797/article/7/a) (as amended by S.I. 2007/120, art. 3(e)-(h))
+[^c-eb47fbd11ad3f9504aa7be4cefebce92]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2005/16/section/102) in force at 31.1.2007 (being the date on which S.I. 2007/120, art. 2, Sch. came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 7(a)](https://www.legislation.gov.uk/wsi/2006/2797/article/7/a) (as amended by S.I. 2007/120, art. 3(e)-(h))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 48. Power to exclude from hearing[^key-c8cdfd4836da266cd69bd7c5adc51778]
+## 48. Power to exclude from hearing[^c-c8cdfd4836da266cd69bd7c5adc51778]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ The tribunal may exclude from the hearing any person who threatens to disrupt or
 
 ## Annotations
 
-[^key-c8cdfd4836da266cd69bd7c5adc51778]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2005/2022/rule/48) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-c8cdfd4836da266cd69bd7c5adc51778]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2005/2022/rule/48) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

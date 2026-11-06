@@ -22,31 +22,31 @@ summary: ''
 
 Section 98
 
-### 1. Public Records Act 1958[^key-4be9e5398409f59a21c823f7d228cd44]
+### 1. Public Records Act 1958[^c-4be9e5398409f59a21c823f7d228cd44]
 
 In Schedule 1 to the Public Records Act 1958 (definition of public records), in paragraph 3, in Part 2 of the Table, at the appropriate place insert—
 
 > - The Independent Football Regulator.
 
-### 2. Parliamentary Commissioner Act 1967[^key-545306eb5bd32504ffaf247189f0b802]
+### 2. Parliamentary Commissioner Act 1967[^c-545306eb5bd32504ffaf247189f0b802]
 
 In Schedule 2 to the Parliamentary Commissioner Act 1967 (departments etc subject to investigation), at the appropriate place insert—
 
 > - The Independent Football Regulator.
 
-### 3. House of Commons Disqualification Act 1975[^key-4b06d800d1e0ef50ba1ff29e7c444f56]
+### 3. House of Commons Disqualification Act 1975[^c-4b06d800d1e0ef50ba1ff29e7c444f56]
 
 In Part 2 of Schedule 1 to the House of Commons Disqualification Act 1975 (bodies of which all members are disqualified), at the appropriate place insert—
 
 > - The Independent Football Regulator.
 
-### 4. Freedom of Information Act 2000[^key-49b766acef630a51a0c4fda1c5c265ab]
+### 4. Freedom of Information Act 2000[^c-49b766acef630a51a0c4fda1c5c265ab]
 
 In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bodies and offices: general), at the appropriate place insert—
 
 > - The Independent Football Regulator.
 
-### 5. Criminal Justice and Police Act 2001[^key-088b64f3932b9bc9a43a9187300daf60][^key-de2a77673f9b194492bbbf0d51c4edea]
+### 5. Criminal Justice and Police Act 2001[^c-088b64f3932b9bc9a43a9187300daf60][^c-de2a77673f9b194492bbbf0d51c4edea]
 
 (1) The Criminal Justice and Police Act 2001 is amended as follows.
 
@@ -84,11 +84,11 @@ In Part 6 of Schedule 1 to the Freedom of Information Act 2000 (other public bod
 >
 > Each of the powers of seizure conferred by paragraph 3(2)(i) and (j) of Schedule 8 to the Football Governance Act 2025 (seizure of information for the purposes of an investigation).
 
-### 6. Enterprise Act 2002[^key-77c0c601f9f964f8633e3d6d8d3e0e8e][^key-a49b6c7811496f7420e172b313e9cbbd]
+### 6. Enterprise Act 2002[^c-77c0c601f9f964f8633e3d6d8d3e0e8e][^c-a49b6c7811496f7420e172b313e9cbbd]
 
 Schedule 4 to the Enterprise Act 2002 (the Competition Appeal Tribunal: procedure) is amended as follows.
 
-**7.**[^key-e67e3f18e60a71b4cfdb63d4d26f29dc][^key-12a4ba8b9dae599c0e16e10163601710] (1) Paragraph 1A (enforcement of injunctions in England and Wales and Northern Ireland) is amended as follows.
+**7.**[^c-e67e3f18e60a71b4cfdb63d4d26f29dc][^c-12a4ba8b9dae599c0e16e10163601710] (1) Paragraph 1A (enforcement of injunctions in England and Wales and Northern Ireland) is amended as follows.
 
 (2) In sub-paragraph (1), for “proceedings under” to “the Digital Markets, Competition and Consumers Act 2024” substitute “relevant proceedings”.
 
@@ -100,7 +100,7 @@ Schedule 4 to the Enterprise Act 2002 (the Competition Appeal Tribunal: procedur
 > - (b) section 101 of the Digital Markets, Competition and Consumers Act 2024;
 > - (c) paragraph 7 of Schedule 9 to the Football Governance Act 2025.
 
-**8.**[^key-993666ecbf2c329342b322c277858cba][^key-28559fa2e319c0d2daf62bf8df1e2e79] (1) Paragraph 10A (Tribunal rules: institution of proceedings) is amended as follows.
+**8.**[^c-993666ecbf2c329342b322c277858cba][^c-28559fa2e319c0d2daf62bf8df1e2e79] (1) Paragraph 10A (Tribunal rules: institution of proceedings) is amended as follows.
 
 (2) In sub-paragraph (1), in the words before paragraph (a), for “warrant” to “the 1998 Act” substitute “relevant warrant”.
 
@@ -115,13 +115,13 @@ Schedule 4 to the Enterprise Act 2002 (the Competition Appeal Tribunal: procedur
 > - (c) section 74 of the Digital Markets, Competition and Consumers Act 2024;
 > - (d) paragraph 3 of Schedule 8 to the Football Governance Act 2025.
 
-### 9. Equality Act 2010[^key-4550695e6b3e1f0b0c5165dd84496da7]
+### 9. Equality Act 2010[^c-4550695e6b3e1f0b0c5165dd84496da7]
 
 In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the public sector equality duty), in the group of entries under the heading “Regulators”, at the appropriate place insert—
 
 > - The Independent Football Regulator.
 
-### 10. Competition Appeal Tribunal Rules 2015 ([S.I. 2015/1648](https://www.legislation.gov.uk/uksi/2015/1648))[^key-3c64691c18b59bffb8679e9b41500217][^key-4bab057f7eccab239162309c9ebf0b67]
+### 10. Competition Appeal Tribunal Rules 2015 ([S.I. 2015/1648](https://www.legislation.gov.uk/uksi/2015/1648))[^c-3c64691c18b59bffb8679e9b41500217][^c-4bab057f7eccab239162309c9ebf0b67]
 
 (1) The Competition Appeal Tribunal Rules 2015 ([S.I. 2015/1648](https://www.legislation.gov.uk/uksi/2015/1648)) are amended as follows.
 
@@ -165,32 +165,32 @@ In Part 1 of Schedule 19 to the Equality Act 2010 (authorities subject to the pu
 
 ## Annotations
 
-[^key-4be9e5398409f59a21c823f7d228cd44]: Commencement: Sch. 12 para. 1 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
+[^c-4be9e5398409f59a21c823f7d228cd44]: Commencement: Sch. 12 para. 1 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
 
-[^key-545306eb5bd32504ffaf247189f0b802]: Commencement: Sch. 12 para. 2 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
+[^c-545306eb5bd32504ffaf247189f0b802]: Commencement: Sch. 12 para. 2 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
 
-[^key-4b06d800d1e0ef50ba1ff29e7c444f56]: Commencement: Sch. 12 para. 3 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
+[^c-4b06d800d1e0ef50ba1ff29e7c444f56]: Commencement: Sch. 12 para. 3 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
 
-[^key-49b766acef630a51a0c4fda1c5c265ab]: Commencement: Sch. 12 para. 4 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
+[^c-49b766acef630a51a0c4fda1c5c265ab]: Commencement: Sch. 12 para. 4 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
 
-[^key-088b64f3932b9bc9a43a9187300daf60]: Commencement: Sch. 12 para. 5 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-088b64f3932b9bc9a43a9187300daf60]: Commencement: Sch. 12 para. 5 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-de2a77673f9b194492bbbf0d51c4edea]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/5) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
+[^c-de2a77673f9b194492bbbf0d51c4edea]: Commencement: [Sch. 12 para. 5](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/5) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
 
-[^key-77c0c601f9f964f8633e3d6d8d3e0e8e]: Commencement: Sch. 12 para. 6 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-77c0c601f9f964f8633e3d6d8d3e0e8e]: Commencement: Sch. 12 para. 6 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-a49b6c7811496f7420e172b313e9cbbd]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/6) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
+[^c-a49b6c7811496f7420e172b313e9cbbd]: Commencement: [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/6) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
 
-[^key-e67e3f18e60a71b4cfdb63d4d26f29dc]: Commencement: Sch. 12 para. 7 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-e67e3f18e60a71b4cfdb63d4d26f29dc]: Commencement: Sch. 12 para. 7 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-12a4ba8b9dae599c0e16e10163601710]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/7) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
+[^c-12a4ba8b9dae599c0e16e10163601710]: Commencement: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/7) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
 
-[^key-993666ecbf2c329342b322c277858cba]: Commencement: Sch. 12 para. 8 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-993666ecbf2c329342b322c277858cba]: Commencement: Sch. 12 para. 8 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-28559fa2e319c0d2daf62bf8df1e2e79]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/8) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
+[^c-28559fa2e319c0d2daf62bf8df1e2e79]: Commencement: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/8) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
 
-[^key-4550695e6b3e1f0b0c5165dd84496da7]: Commencement: Sch. 12 para. 9 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
+[^c-4550695e6b3e1f0b0c5165dd84496da7]: Commencement: Sch. 12 para. 9 in force at Royal Assent, see [s. 100(2)(e)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e)
 
-[^key-3c64691c18b59bffb8679e9b41500217]: Commencement: Sch. 12 para. 10 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-3c64691c18b59bffb8679e9b41500217]: Commencement: Sch. 12 para. 10 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-4bab057f7eccab239162309c9ebf0b67]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)
+[^c-4bab057f7eccab239162309c9ebf0b67]: Commencement: [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2025/21/schedule/12/paragraph/10) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(vi)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/vi)

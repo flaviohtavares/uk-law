@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 725. Provision applying for the purposes of Chapters 2 to 5A[^key-4d94330375f62c2f5bb570b7db14993b]
+## 725. Provision applying for the purposes of Chapters 2 to 5A[^c-4d94330375f62c2f5bb570b7db14993b]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies for the purposes of Chapters 2 to 5A[^key-7de9e3c80c75733e2429afcead254b80] .
+(1) This section applies for the purposes of Chapters 2 to 5A[^c-7de9e3c80c75733e2429afcead254b80] .
 
 (2) If any of those Chapters has operated to restrict relief by reference to a change in the ownership of a company taking place at any time, no transaction or circumstances before that time may be taken into account in determining whether there is any subsequent change in the ownership of the company.
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d94330375f62c2f5bb570b7db14993b]: Textual amendment: Word in s. 725 heading substituted (with effect in accordance with Sch. 13 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 13 para. 1(5)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/13/paragraph/1/5/a)
+[^c-4d94330375f62c2f5bb570b7db14993b]: Textual amendment: Word in s. 725 heading substituted (with effect in accordance with Sch. 13 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 13 para. 1(5)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/13/paragraph/1/5/a)
 
-[^key-7de9e3c80c75733e2429afcead254b80]: Textual amendment: Word in s. 725(1) substituted (with effect in accordance with Sch. 13 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 13 para. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/13/paragraph/1/5/b)
+[^c-7de9e3c80c75733e2429afcead254b80]: Textual amendment: Word in s. 725(1) substituted (with effect in accordance with Sch. 13 para. 3 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 13 para. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/13/paragraph/1/5/b)

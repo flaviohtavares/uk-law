@@ -25,7 +25,7 @@ summary: ''
 - (a) a laboratory, zoo, wildlife park or other premises where susceptible animals are kept principally for the purposes of display and education of the public, or an enclosed area principally used for shooting;
 - (b) premises not falling within sub paragraph (a) of a body, institute or centre which–
   - (i) keeps susceptible animals only for the purposes of conservation, display and education of the public, or scientific research or breeding of such animals for research; and
-  - (ii) is approved in relation to those animals under paragraph 4 of Part 1 of schedule 2 of the Trade in Animals and Related Products (Scotland) Regulations 2012[^key-2f346a7dba9398ab7f26c15d98e02f86];
+  - (ii) is approved in relation to those animals under paragraph 4 of Part 1 of schedule 2 of the Trade in Animals and Related Products (Scotland) Regulations 2012[^c-2f346a7dba9398ab7f26c15d98e02f86];
 - (c) other premises where susceptible animals are kept for scientific purposes or purposes related to conservation of species or farm animal genetic resources.
 
 (2) The Scottish Ministers shall take such steps as they consider necessary to prevent the spread of disease to premises to which this article applies.
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f346a7dba9398ab7f26c15d98e02f86]: Textual amendment: Words in [art. 43(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2006/44/article/43/1/b/ii) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/3)
+[^c-2f346a7dba9398ab7f26c15d98e02f86]: Textual amendment: Words in [art. 43(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2006/44/article/43/1/b/ii) substituted (28.2.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) (Scotland) Regulations 2018 (S.S.I. 2018/391)](https://www.legislation.gov.uk/ssi/2018/391), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2018/391/regulation/1/1), [25(3)](https://www.legislation.gov.uk/ssi/2018/391/regulation/25/3)

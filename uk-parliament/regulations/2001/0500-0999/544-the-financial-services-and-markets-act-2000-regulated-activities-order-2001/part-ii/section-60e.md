@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60E. Exempt agreements: exemptions relating to the nature of the lender[^key-715a373f306ef1d29d9e1397179a518c]
+## 60E. Exempt agreements: exemptions relating to the nature of the lender[^c-715a373f306ef1d29d9e1397179a518c]
 
 *Extent: E+W+S+N.I.*
 
 (1) A credit agreement is an exempt agreement for the purposes of this Chapter in the following cases.
 
-(2) Subject to article 60HA, a relevant credit agreement[^key-8999a3ef0482671cc701f48646f5e0e0] relating to the purchase of land is an exempt agreement if the lender is—
+(2) Subject to article 60HA, a relevant credit agreement[^c-8999a3ef0482671cc701f48646f5e0e0] relating to the purchase of land is an exempt agreement if the lender is—
 
 - (a) specified, or of a description specified, in rules made by the FCA under paragraph (3), or
 - (b) a local authority.
@@ -44,29 +44,29 @@ summary: ''
 - (a) specify a particular person or class of persons;
 - (b) be limited so as to apply only to agreements or classes of agreement specified in the rules.
 
-(5) Subject to article 60HA, a relevant credit agreement[^key-6ecc53d9ba7448cfa9f7404a77178244] is an exempt agreement if it is—
+(5) Subject to article 60HA, a relevant credit agreement[^c-6ecc53d9ba7448cfa9f7404a77178244] is an exempt agreement if it is—
 
-- (a) secured by a legal or equitable[^key-2442b4800a9146ec47917dd7d0173dda] mortgage on land,
+- (a) secured by a legal or equitable[^c-2442b4800a9146ec47917dd7d0173dda] mortgage on land,
 - (b) that land is used or is intended to be used as or in connection with a dwelling, and
 - (c) the lender is a housing authority.
 
 (6) A credit agreement is an exempt agreement if—
 
-- (a) the lender is an investment firm or a qualifying credit institution[^key-ad17eb7473eb40dd58eb79101ef4a3df], and
+- (a) the lender is an investment firm or a qualifying credit institution[^c-ad17eb7473eb40dd58eb79101ef4a3df], and
 - (b) the agreement is entered into for the purpose of allowing the borrower to carry out a transaction relating to one or more financial instruments.
 
 (7) In this article—
 
 - “housing authority” means—
-  - (a) in England and Wales, the Homes and Communities Agency, the Welsh Ministers, a company which is a wholly-owned subsidiary of the Welsh Ministers,[^key-5cf5507b4090b0554f077114302d1972] a registered social landlord within the meaning of Part 1 of the Housing Act 1996,[^key-a4cf4d929910819b76c1d9e6ef40f048] or a private registered provider (within the meaning of Part 2 of the Housing and Regeneration Act 2008);
+  - (a) in England and Wales, the Homes and Communities Agency, the Welsh Ministers, a company which is a wholly-owned subsidiary of the Welsh Ministers,[^c-5cf5507b4090b0554f077114302d1972] a registered social landlord within the meaning of Part 1 of the Housing Act 1996,[^c-a4cf4d929910819b76c1d9e6ef40f048] or a private registered provider (within the meaning of Part 2 of the Housing and Regeneration Act 2008);
   - (b) in Scotland, the Scottish Ministers or a registered social landlord (within the meaning of the Housing (Scotland) Act 2010;
-  - (c) in Northern Ireland, the Northern Ireland Housing Executive or a housing association within the meaning of Part 2 of the Housing (Northern Ireland) Order 1992[^key-04d6bfc93c92934ae5b783599e52df79];
+  - (c) in Northern Ireland, the Northern Ireland Housing Executive or a housing association within the meaning of Part 2 of the Housing (Northern Ireland) Order 1992[^c-04d6bfc93c92934ae5b783599e52df79];
 - “relevant credit agreement relating to the purchase of land” means—
   - (a) a borrower-lender-supplier agreement financing—
     - (i) the purchase of land, or
     - (ii) provision of dwellings on land,
 
-    and secured by a legal or equitable[^key-9954819f39533ee072bc2e6c72f137a1] mortgage on that land,
+    and secured by a legal or equitable[^c-9954819f39533ee072bc2e6c72f137a1] mortgage on that land,
   - (b) a borrower-lender agreement secured by a legal or equitable mortgage on land, or
   - (c) a borrower-lender-supplier agreement financing a transaction which is a linked transaction in relation to—
     - (i) an agreement falling within sub-paragraph (a), or
@@ -80,7 +80,7 @@ summary: ''
   - (b) section 156(4) of that Act as it has effect by virtue of section 17 of the Housing Act 1996 (the right to acquire), or
   - (c) article 154(1)(a) of the Housing (Northern Ireland) Order 1981.
 
-(7A)[^key-5a2f1e5f58ba9f6aa2655b0c4634f714] In paragraph (7), in the definition of “housing authority”, in paragraph (a), “wholly-owned subsidiary” has the same meaning as in section 1159 (meaning of “subsidiary” etc.) of the Companies Act 2006.
+(7A)[^c-5a2f1e5f58ba9f6aa2655b0c4634f714] In paragraph (7), in the definition of “housing authority”, in paragraph (a), “wholly-owned subsidiary” has the same meaning as in section 1159 (meaning of “subsidiary” etc.) of the Companies Act 2006.
 
 (7B) For the purpose of paragraph (7A), the Welsh Ministers are to be treated as a body corporate.
 
@@ -114,22 +114,22 @@ summary: ''
 
 ## Annotations
 
-[^key-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
+[^c-715a373f306ef1d29d9e1397179a518c]: Textual amendment: Pt. II Ch. 14A, 14B inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [6](https://www.legislation.gov.uk/uksi/2013/1881/article/6)
 
-[^key-8999a3ef0482671cc701f48646f5e0e0]: Textual amendment: Words in art. 60E(2) substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 4(15)(a)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/4/15/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-8999a3ef0482671cc701f48646f5e0e0]: Textual amendment: Words in art. 60E(2) substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 4(15)(a)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/4/15/a) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-6ecc53d9ba7448cfa9f7404a77178244]: Textual amendment: Words in art. 60E(5) substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 4(15)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/4/15/b) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
+[^c-6ecc53d9ba7448cfa9f7404a77178244]: Textual amendment: Words in art. 60E(5) substituted (20.4.2015 for specified purposes, 21.12.2015 for specified purposes, 21.3.2016 in so far as not already in force) by [The Mortgage Credit Directive Order 2015 (S.I. 2015/910)](https://www.legislation.gov.uk/uksi/2015/910), [art. 1(5)](https://www.legislation.gov.uk/uksi/2015/910/article/1/5), [Sch. 1 para. 4(15)(b)](https://www.legislation.gov.uk/uksi/2015/910/schedule/1/paragraph/4/15/b) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2015/910/part/4))
 
-[^key-2442b4800a9146ec47917dd7d0173dda]: Textual amendment: Words in art. 60E(5)(a) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(26)](https://www.legislation.gov.uk/uksi/2014/366/article/2/26)
+[^c-2442b4800a9146ec47917dd7d0173dda]: Textual amendment: Words in art. 60E(5)(a) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(26)](https://www.legislation.gov.uk/uksi/2014/366/article/2/26)
 
-[^key-ad17eb7473eb40dd58eb79101ef4a3df]: Textual amendment: Words in art. 60E(6)(a) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [139](https://www.legislation.gov.uk/uksi/2019/632/regulation/139) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad17eb7473eb40dd58eb79101ef4a3df]: Textual amendment: Words in art. 60E(6)(a) substituted (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [139](https://www.legislation.gov.uk/uksi/2019/632/regulation/139) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5cf5507b4090b0554f077114302d1972]: Textual amendment: Words in art. 60E(7) inserted (28.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 3) Order 2014 (S.I. 2014/1740)](https://www.legislation.gov.uk/uksi/2014/1740), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1740/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2014/1740/article/2/a)
+[^c-5cf5507b4090b0554f077114302d1972]: Textual amendment: Words in art. 60E(7) inserted (28.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 3) Order 2014 (S.I. 2014/1740)](https://www.legislation.gov.uk/uksi/2014/1740), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1740/article/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2014/1740/article/2/a)
 
-[^key-a4cf4d929910819b76c1d9e6ef40f048]: Textual amendment: Words in art. 60E(7) inserted (17.3.2016 for specified purposes, 20.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/b), [2(13)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/2/13/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-a4cf4d929910819b76c1d9e6ef40f048]: Textual amendment: Words in art. 60E(7) inserted (17.3.2016 for specified purposes, 20.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/b), [2(13)(a)](https://www.legislation.gov.uk/uksi/2016/392/article/2/13/a) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-04d6bfc93c92934ae5b783599e52df79]: Textual amendment: Words in art. 60E(7) inserted (17.3.2016 for specified purposes, 20.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/b), [2(13)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/2/13/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
+[^c-04d6bfc93c92934ae5b783599e52df79]: Textual amendment: Words in art. 60E(7) inserted (17.3.2016 for specified purposes, 20.3.2016 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2016 (S.I. 2016/392)](https://www.legislation.gov.uk/uksi/2016/392), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/392/article/1/2)[(3)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/1/3/b), [2(13)(b)](https://www.legislation.gov.uk/uksi/2016/392/article/2/13/b) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2016/392/part/5))
 
-[^key-9954819f39533ee072bc2e6c72f137a1]: Textual amendment: Words in art. 60E(7) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(26)](https://www.legislation.gov.uk/uksi/2014/366/article/2/26)
+[^c-9954819f39533ee072bc2e6c72f137a1]: Textual amendment: Words in art. 60E(7) inserted (14.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2014 (S.I. 2014/366)](https://www.legislation.gov.uk/uksi/2014/366), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/366/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/366/article/1/4), [2(26)](https://www.legislation.gov.uk/uksi/2014/366/article/2/26)
 
-[^key-5a2f1e5f58ba9f6aa2655b0c4634f714]: Textual amendment: Art. 60E(7A)(7B) inserted (28.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 3) Order 2014 (S.I. 2014/1740)](https://www.legislation.gov.uk/uksi/2014/1740), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1740/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2014/1740/article/2/b)
+[^c-5a2f1e5f58ba9f6aa2655b0c4634f714]: Textual amendment: Art. 60E(7A)(7B) inserted (28.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 3) Order 2014 (S.I. 2014/1740)](https://www.legislation.gov.uk/uksi/2014/1740), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1740/article/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2014/1740/article/2/b)

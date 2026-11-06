@@ -73,25 +73,25 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation lays down rules supplementing Regulation (EU) No 1308/2013 with regard to certain aspects of producer cooperation. It applies without prejudice to the specific rules laid down in the following regulations:
 
-- ((a)) Commission Delegated Regulation (EU) No 2017/891 and Commission Implementing Regulation (EU) No 2017/892[^key-7cea6cb05742baec793fec50f6875ac7] as regards the fruit and vegetables sector;
-- ((b)) Commission Delegated Regulation (EU) No 880/2012[^f00006] and Commission Implementing Regulation (EU) No 511/2012[^f00007] as regards the milk and milk products sector; [^key-cb2b60c8abe7a9960b802a222653f745]...
-- ((c)) [^key-b203cd5c3b45c9124019c1e57a18acd4]...
+- ((a)) Commission Delegated Regulation (EU) No 2017/891 and Commission Implementing Regulation (EU) No 2017/892[^c-7cea6cb05742baec793fec50f6875ac7] as regards the fruit and vegetables sector;
+- ((b)) Commission Delegated Regulation (EU) No 880/2012[^f00006] and Commission Implementing Regulation (EU) No 511/2012[^f00007] as regards the milk and milk products sector; [^c-cb2b60c8abe7a9960b802a222653f745]...
+- ((c)) [^c-b203cd5c3b45c9124019c1e57a18acd4]...
 
-## Article 2. Definitions[^key-2a9de7cd57a7de12e56d68591a57c8ec]
+## Article 2. Definitions[^c-2a9de7cd57a7de12e56d68591a57c8ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 3. Outsourcing
 
-1. The sectors in which the Secretary of State[^key-8875f874328b4f1076f33bf960b2432e] may permit outsourcing in accordance with Article 155 of Regulation (EU) No 1308/2013 shall be those listed in Article 1(2) of that Regulation.
+1. The sectors in which the Secretary of State[^c-8875f874328b4f1076f33bf960b2432e] may permit outsourcing in accordance with Article 155 of Regulation (EU) No 1308/2013 shall be those listed in Article 1(2) of that Regulation.
 
 2. Producer organisations or associations of producer organisations outsourcing any of their activities shall enter into a commercial arrangement by way of a written agreement that shall ensure that the producer organisation or the association of producer organisations maintains control and supervision of the activity being carried out.
 
-## Article 4. Recognition of transnational organisations and associations[^key-5d03501e8b2cbce645eadcf59ab9a6e2]
+## Article 4. Recognition of transnational organisations and associations[^c-5d03501e8b2cbce645eadcf59ab9a6e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Notifications[^key-2cfacd727c75fc77130a51460379e0fb]
+## Article 5. Notifications[^c-2cfacd727c75fc77130a51460379e0fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -101,7 +101,7 @@ Regulations (EC) No 223/2008 and (EC) No 709/2008 are repealed.
 
 **Article 7.** This Regulation shall enter into force on the seventh day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-c9949ba6ddcee8b243c85689ca1b5074]...
+[^c-c9949ba6ddcee8b243c85689ca1b5074]...
 
 Done at Brussels, 15 December 2015.
 
@@ -121,22 +121,22 @@ Jean-Claude Juncker
 
 [^f00004]: Footnote: Commission Regulation (EC) No 709/2008 of 24 July 2008 laying down detailed rules for implementing Council Regulation (EC) No 1234/2007, as regards interbranch organisations and agreements in the tobacco sector ([OJ L 197, 25.7.2008, p. 23](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2008.197.01.0023.01.ENG)).
 
-[^key-7cea6cb05742baec793fec50f6875ac7]: Textual amendment: Words in [Art. 1(a)](https://www.legislation.gov.uk/eur/2016/232/article/1/a) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7cea6cb05742baec793fec50f6875ac7]: Textual amendment: Words in [Art. 1(a)](https://www.legislation.gov.uk/eur/2016/232/article/1/a) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(2)(a)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: Commission Delegated Regulation (EU) No 880/2012 of 28 June 2012 supplementing Council Regulation (EC) No 1234/2007 as regards transnational cooperation and contractual negotiations of producer organisations in the milk and milk products sector ([OJ L 263, 28.9.2012, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.263.01.0008.01.ENG)).
 
 [^f00007]: Footnote: Commission Implementing Regulation (EU) No 511/2012 of 15 June 2012 on notifications concerning producer and interbranch organisations and contractual negotiations and relations provided for in Council Regulation (EC) No 1234/2007 in the milk and milk products sector ([OJ L 156, 16.6.2012, p. 39](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.156.01.0039.01.ENG)).
 
-[^key-cb2b60c8abe7a9960b802a222653f745]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2016/232/article/1) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cb2b60c8abe7a9960b802a222653f745]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2016/232/article/1) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(2)(b)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b203cd5c3b45c9124019c1e57a18acd4]: Textual amendment: [Art. 1(c)](https://www.legislation.gov.uk/eur/2016/232/article/1/c) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(2)(c)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b203cd5c3b45c9124019c1e57a18acd4]: Textual amendment: [Art. 1(c)](https://www.legislation.gov.uk/eur/2016/232/article/1/c) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(2)(c)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2a9de7cd57a7de12e56d68591a57c8ec]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2016/232/article/2) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2020/1446/regulation/4)
+[^c-2a9de7cd57a7de12e56d68591a57c8ec]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2016/232/article/2) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2020/1446/regulation/4)
 
-[^key-8875f874328b4f1076f33bf960b2432e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2016/232/article/3/1) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8875f874328b4f1076f33bf960b2432e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2016/232/article/3/1) substituted (31.12.2020) by [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d03501e8b2cbce645eadcf59ab9a6e2]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2016/232/article/4) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2020/1446/regulation/4)
+[^c-5d03501e8b2cbce645eadcf59ab9a6e2]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2016/232/article/4) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [4](https://www.legislation.gov.uk/uksi/2020/1446/regulation/4)
 
-[^key-2cfacd727c75fc77130a51460379e0fb]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2016/232/article/5) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2cfacd727c75fc77130a51460379e0fb]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/eur/2016/232/article/5) omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(4)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9949ba6ddcee8b243c85689ca1b5074]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9949ba6ddcee8b243c85689ca1b5074]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1402)](https://www.legislation.gov.uk/uksi/2019/1402), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/1/3), [8(5)](https://www.legislation.gov.uk/uksi/2019/1402/regulation/8/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

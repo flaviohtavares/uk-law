@@ -31,7 +31,7 @@ summary: ''
 
 Food
 
-The Meat Products (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-e7d2b11d907ae4f28ab717e99a8ad900]
+The Meat Products (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-e7d2b11d907ae4f28ab717e99a8ad900]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 6th April 2008
 
-[^key-e7d2b11d907ae4f28ab717e99a8ad900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7d2b11d907ae4f28ab717e99a8ad900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e7d2b11d907ae4f28ab717e99a8ad900]
+## 1. Citation and commencement[^c-e7d2b11d907ae4f28ab717e99a8ad900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Meat Products Regulations (Northern Ireland) 2004[^key-e7d2b11d907ae4f28ab717e99a8ad900]
+## 2. Amendment of the Meat Products Regulations (Northern Ireland) 2004[^c-e7d2b11d907ae4f28ab717e99a8ad900]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e7d2b11d907ae4f28ab717e99a8ad900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7d2b11d907ae4f28ab717e99a8ad900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e7d2b11d907ae4f28ab717e99a8ad900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e7d2b11d907ae4f28ab717e99a8ad900]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e7d2b11d907ae4f28ab717e99a8ad900]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/82) revoked (13.12.2014) by [The Products Containing Meat etc. Regulations (Northern Ireland) 2014 (S.R. 2014/285)](https://www.legislation.gov.uk/nisr/2014/285), [reg. 10(b)](https://www.legislation.gov.uk/nisr/2014/285/regulation/10/b)
+[^c-e7d2b11d907ae4f28ab717e99a8ad900]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/82) revoked (13.12.2014) by [The Products Containing Meat etc. Regulations (Northern Ireland) 2014 (S.R. 2014/285)](https://www.legislation.gov.uk/nisr/2014/285), [reg. 10(b)](https://www.legislation.gov.uk/nisr/2014/285/regulation/10/b)

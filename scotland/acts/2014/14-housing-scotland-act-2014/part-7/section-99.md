@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Repeal of defective designation provisions[^key-a96384e623e03ec60ae3be8573e452f8]
+## 99. Repeal of defective designation provisions[^c-a96384e623e03ec60ae3be8573e452f8]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a96384e623e03ec60ae3be8573e452f8]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2014/14/section/99) in force at 30.7.2018 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule)
+[^c-a96384e623e03ec60ae3be8573e452f8]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2014/14/section/99) in force at 30.7.2018 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110A. Term of office, procedure etc.[^key-4e4fcf3af3d6549f1d3179a6a4afa1fe]
+## 110A. Term of office, procedure etc.[^c-4e4fcf3af3d6549f1d3179a6a4afa1fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e4fcf3af3d6549f1d3179a6a4afa1fe]: Textual amendment: Ss. 110-110C repealed (2.7.2012) by [The Inland Waterways Advisory Council (Abolition) Order 2012 (S.I. 2012/1658)](https://www.legislation.gov.uk/uksi/2012/1658), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2012/1658/article/1/b), [5](https://www.legislation.gov.uk/uksi/2012/1658/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2012/1658/schedule)
+[^c-4e4fcf3af3d6549f1d3179a6a4afa1fe]: Textual amendment: Ss. 110-110C repealed (2.7.2012) by [The Inland Waterways Advisory Council (Abolition) Order 2012 (S.I. 2012/1658)](https://www.legislation.gov.uk/uksi/2012/1658), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2012/1658/article/1/b), [5](https://www.legislation.gov.uk/uksi/2012/1658/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2012/1658/schedule)

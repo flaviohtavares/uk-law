@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## F4. Modified application of regulation F3 in certain cases[^key-da7b834c65908fed7a2302dd68b832e1]
+## F4. Modified application of regulation F3 in certain cases[^c-da7b834c65908fed7a2302dd68b832e1]
 
 *Extent: E+W+S*
 
@@ -57,7 +57,7 @@ the period between his leaving and re-entering local government employment shall
 
 ## Annotations
 
-[^key-da7b834c65908fed7a2302dd68b832e1]: Commencement: [Reg. F4](https://www.legislation.gov.uk/uksi/1986/24/regulation/F4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-da7b834c65908fed7a2302dd68b832e1]: Commencement: [Reg. F4](https://www.legislation.gov.uk/uksi/1986/24/regulation/F4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00047]: Footnote: [S.l. 1969/975](https://www.legislation.gov.uk/uksi/1969/975).
 

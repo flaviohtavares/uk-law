@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 59. Relationship with amounts to be disregarded under Schedule 6[^key-45c3142c9e5da761da7e1e2141c0b616]
+## 59. Relationship with amounts to be disregarded under Schedule 6[^c-45c3142c9e5da761da7e1e2141c0b616]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ No part of a student’s covenant income or grant income shall be disregarded un
 
 ## Annotations
 
-[^key-45c3142c9e5da761da7e1e2141c0b616]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2006/405/regulation/59) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-45c3142c9e5da761da7e1e2141c0b616]: Commencement: [Reg. 59](https://www.legislation.gov.uk/nisr/2006/405/regulation/59) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

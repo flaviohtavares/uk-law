@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Conditions for exercise of supervisory powers[^key-25c2bfbe5bdb6d76bf26c8371837f01e]
+## 41. Conditions for exercise of supervisory powers[^c-25c2bfbe5bdb6d76bf26c8371837f01e]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ is exercisable in relation to a community interest company unless the company de
 
 ## Annotations
 
-[^key-25c2bfbe5bdb6d76bf26c8371837f01e]: Commencement: S. 41 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)
+[^c-25c2bfbe5bdb6d76bf26c8371837f01e]: Commencement: S. 41 in force at 1.7.2005 by [S.I. 2004/3322](https://www.legislation.gov.uk/uksi/2004/3322), [art. 2(3)](https://www.legislation.gov.uk/uksi/2004/3322/article/2/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2004/3322/schedule/3)

@@ -39,8 +39,8 @@ summary: ''
 - (ff)[^c17625241] paragraph (1) of Article 135A (read with paragraph (2) of that Article) applies,
 - (fg)[^c20565151][^c17625261] paragraph (1) of Article 135B (read with paragraph (2) of that Article) applies,
 - (fh)[^c17625291] Article 135C applies;
-- (fi)[^key-46b19830333b1cabdad4a9aaafdf339e] paragraph (1) of Article 135D (read with paragraph (2) of that Article) applies,
-- (fk)[^key-6ad69f2ce2b52b6f7e907e8551fb6c3a] paragraph (1) of Article 135F (read with paragraph (2) of that Article) applies,
+- (fi)[^c-46b19830333b1cabdad4a9aaafdf339e] paragraph (1) of Article 135D (read with paragraph (2) of that Article) applies,
+- (fk)[^c-6ad69f2ce2b52b6f7e907e8551fb6c3a] paragraph (1) of Article 135F (read with paragraph (2) of that Article) applies,
 - (g) Article 136 applies, or
 - (h) Article 137 applies[^c17625311]. . .
 - (j)[^c17625321] Article 144A applies[^c17625331]. . .
@@ -74,9 +74,9 @@ summary: ''
 
 [^c17625291]: Textual amendment: [2003 NI 15](https://www.legislation.gov.uk/nisi/2003)
 
-[^key-46b19830333b1cabdad4a9aaafdf339e]: Textual amendment: Art. 140(3)(fi) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 57(5)](https://www.legislation.gov.uk/nia/2008/13/section/57/5), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
+[^c-46b19830333b1cabdad4a9aaafdf339e]: Textual amendment: Art. 140(3)(fi) inserted (30.6.2012) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [ss. 57(5)](https://www.legislation.gov.uk/nia/2008/13/section/57/5), [118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/266/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/2)
 
-[^key-6ad69f2ce2b52b6f7e907e8551fb6c3a]: Textual amendment: [Art. 140(3)(fk)](https://www.legislation.gov.uk/nisi/1996/1919/article/140/3/fk) inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(4)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/4)
+[^c-6ad69f2ce2b52b6f7e907e8551fb6c3a]: Textual amendment: [Art. 140(3)(fk)](https://www.legislation.gov.uk/nisi/1996/1919/article/140/3/fk) inserted (6.4.2014) by [The Employment Relations (Northern Ireland) Order 1999 (Blacklists) Regulations (Northern Ireland) 2014 (S.R. 2014/88)](https://www.legislation.gov.uk/nisr/2014/88), [regs. 1](https://www.legislation.gov.uk/nisr/2014/88/regulation/1), [12(4)](https://www.legislation.gov.uk/nisr/2014/88/regulation/12/4)
 
 [^c17625311]: Textual amendment: SI 1999/3323
 

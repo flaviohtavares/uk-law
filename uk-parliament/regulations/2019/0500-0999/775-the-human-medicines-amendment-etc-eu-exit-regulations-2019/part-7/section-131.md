@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Substitution of regulation 149 (urgent safety restrictions)[^M_I_565e0815-aab1-42c4-a0b5-1d38983f3025][^key-1aa6d93f953d0bb58dd92be62199a9c2]
+## 131. Substitution of regulation 149 (urgent safety restrictions)[^M_I_565e0815-aab1-42c4-a0b5-1d38983f3025][^c-1aa6d93f953d0bb58dd92be62199a9c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ For regulation 149 substitute—
 
 [^M_I_565e0815-aab1-42c4-a0b5-1d38983f3025]: Commencement: Reg. 131 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1aa6d93f953d0bb58dd92be62199a9c2]: Textual amendment: Reg. 131 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 98](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/98)
+[^c-1aa6d93f953d0bb58dd92be62199a9c2]: Textual amendment: Reg. 131 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 98](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/98)

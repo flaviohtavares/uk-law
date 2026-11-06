@@ -39,14 +39,14 @@ summary: ''
 (6) Before making an order under subsection (4) in relation to a local justice area the Lord Chancellor must consult—
 
 - (a) the justices of the peace assigned to the local justice area,
-- (b)[^key-3d4c432b3aeab599f0433baf1c5f0b6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3d4c432b3aeab599f0433baf1c5f0b6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) unless the alteration consists only of a change of name, any local authorities whose area includes the local justice area or a part of the local justice area.
 
 (7) “**Local authority**” means—
 
 - (a) any council of a county, a county borough, a London borough or a council of a district,
 - (b) the Common Council of the City of London, or
-- (c)[^key-5fb812e3c33eae9aa2b98ea29410d860] a police and crime commissioner or the Mayor's Office for Policing and Crime.
+- (c)[^c-5fb812e3c33eae9aa2b98ea29410d860] a police and crime commissioner or the Mayor's Office for Policing and Crime.
 
 (8)[^c19279791] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.
 
@@ -54,8 +54,8 @@ summary: ''
 
 [^c19279771]: Textual amendment: S. 8(5A) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/1), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 312(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/312/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)
 
-[^key-3d4c432b3aeab599f0433baf1c5f0b6d]: Textual amendment: S. 8(6)(b) repealed (2.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2012/1206/schedule/paragraph/6)
+[^c-3d4c432b3aeab599f0433baf1c5f0b6d]: Textual amendment: S. 8(6)(b) repealed (2.5.2012) by [The Public Bodies (Abolition of Courts Boards) Order 2012 (S.I. 2012/1206)](https://www.legislation.gov.uk/uksi/2012/1206), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1206/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2012/1206/schedule/paragraph/6)
 
-[^key-5fb812e3c33eae9aa2b98ea29410d860]: Textual amendment: S. 8(7)(c) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 311](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/311); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 72](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/72))
+[^c-5fb812e3c33eae9aa2b98ea29410d860]: Textual amendment: S. 8(7)(c) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 311](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/311); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 72](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/72))
 
 [^c19279791]: Textual amendment: S. 8(8) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/1), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 312(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/312/3); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)

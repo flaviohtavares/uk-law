@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 11 — WASTE MANAGEMENT ACTIVITIES[^key-17305316793a787bfd1bddb33642f381]
+## SCHEDULE 11 — WASTE MANAGEMENT ACTIVITIES[^c-17305316793a787bfd1bddb33642f381]
 
 *Extent: S*
 
@@ -130,7 +130,7 @@ Regulation 6(1)
 - (a) 12 months by authorised persons who transport hazardous waste, and in relation to permits and authorisations for waste treatment under paragraph 5 of this schedule,
 - (b) 3 years in relation to all other authorisations for hazardous waste.
 
-#### 7. Authorisation conditions: metal contamination[^key-a282870878f565e03f78c153d6324435]
+#### 7. Authorisation conditions: metal contamination[^c-a282870878f565e03f78c153d6324435]
 
 SEPA must ensure that permits for the activity described in paragraph 25(2)(d) of Chapter 5 of Part 4 of schedule 20 include such conditions as it considers appropriate to ensure that—
 
@@ -140,6 +140,6 @@ SEPA must ensure that permits for the activity described in paragraph 25(2)(d) o
 
 ## Annotations
 
-[^key-17305316793a787bfd1bddb33642f381]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/ssi/2018/219/schedule/11) inserted (1.6.2025 for specified purposes, 1.11.2025 in so far as not already in force) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2/4/d/ii/5), [sch. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-17305316793a787bfd1bddb33642f381]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/ssi/2018/219/schedule/11) inserted (1.6.2025 for specified purposes, 1.11.2025 in so far as not already in force) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)(4)(d)(ii)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2/4/d/ii/5), [sch. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-a282870878f565e03f78c153d6324435]: Textual amendment: [Sch. 11 para. 7](https://www.legislation.gov.uk/ssi/2018/219/schedule/11/paragraph/7) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [11](https://www.legislation.gov.uk/ssi/2026/55/regulation/11)
+[^c-a282870878f565e03f78c153d6324435]: Textual amendment: [Sch. 11 para. 7](https://www.legislation.gov.uk/ssi/2018/219/schedule/11/paragraph/7) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [11](https://www.legislation.gov.uk/ssi/2026/55/regulation/11)

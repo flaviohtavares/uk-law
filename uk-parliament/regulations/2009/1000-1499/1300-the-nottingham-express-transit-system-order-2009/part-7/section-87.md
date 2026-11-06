@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Greater Nottingham Light Rapid Transit Advisory Committee[^key-12ade1cb92d9fda2e86c1991e45faaf7]
+## 87. Greater Nottingham Light Rapid Transit Advisory Committee[^c-12ade1cb92d9fda2e86c1991e45faaf7]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ and, on ceasing to hold office pursuant to this paragraph, a member of the Commi
 
 ## Annotations
 
-[^key-12ade1cb92d9fda2e86c1991e45faaf7]: Commencement: Art. 87 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-12ade1cb92d9fda2e86c1991e45faaf7]: Commencement: Art. 87 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

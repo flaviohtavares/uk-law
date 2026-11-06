@@ -31,7 +31,7 @@ Light Railways Act 1896
 
 [^c576601]An Act to facilitate the Construction of Light Railways in Great Britain.
 
-\[14th August 1896\] [^c576596][^c576597][^c576598][^c576599][^c576600][^key-d4d1aaad647b0fc2a3c1c8d7c39bf02a][^key-9edf991f88ba67dbbdedb0f53670cd39][^key-fec69d2681a454a29d60819d754cf160]
+\[14th August 1896\] [^c576596][^c576597][^c576598][^c576599][^c576600][^c-d4d1aaad647b0fc2a3c1c8d7c39bf02a][^c-9edf991f88ba67dbbdedb0f53670cd39][^c-fec69d2681a454a29d60819d754cf160]
 
 ## 1. Duty of Light Railway Commission.
 
@@ -198,9 +198,9 @@ Where a company have power to construct or work a railway, they may be authorise
 
 ## 20. Power to grant Crown lands.[^c576650]
 
-(1)[^key-a30ea25cfb5e54d9c5c328d636accc21] The Crown Estate Commissioners[^c576651] shall, on behalf of Her Majesty, have the like powers to convey Crown lands as are by this Act conferred upon persons having power, either by statute or otherwise, to sell and convey lands, except that in the case of Crown lands the sanction of the Treasury shall be substituted for the sanction of the Board of Agriculture.
+(1)[^c-a30ea25cfb5e54d9c5c328d636accc21] The Crown Estate Commissioners[^c576651] shall, on behalf of Her Majesty, have the like powers to convey Crown lands as are by this Act conferred upon persons having power, either by statute or otherwise, to sell and convey lands, except that in the case of Crown lands the sanction of the Treasury shall be substituted for the sanction of the Board of Agriculture.
 
-(2) In subsection (1), in relation to land to which section 90B(5) of the Scotland Act 1998 applies—[^key-6ad908fd3e7f17725be556a82cd59ed0]
+(2) In subsection (1), in relation to land to which section 90B(5) of the Scotland Act 1998 applies—[^c-6ad908fd3e7f17725be556a82cd59ed0]
 
 - (a) the reference to the Crown Estate Commissioners is to be read as a reference to the person who manages the land, and
 - (b) the reference to the Treasury is to be read as a reference to the Scottish Ministers.
@@ -247,7 +247,7 @@ This Act shall apply to Scotland with the following modifications:—
 
 (4) The Lord President of the Court of Session shall be substituted for the Lord Chancellor;
 
-(5) The money necessary to defray expenditure, not being capital expenditure incurred by a county council in pursuance of this Act, shall be raised by a rate . . . [^c576680] The money necessary to defray expenditure similarly incurred by a town council, [^key-787786526ab271903f416cc281480663]... or burgh commissioners shall be raised by a rate . . . [^c576680] If the expenditure incurred is capital expenditure it shall be raised by borrowing . . . [^c576680] the rate chargeable for repayment of capital, including interest and expenses, being the same rate as is liable for maintenance as aforesaid;
+(5) The money necessary to defray expenditure, not being capital expenditure incurred by a county council in pursuance of this Act, shall be raised by a rate . . . [^c576680] The money necessary to defray expenditure similarly incurred by a town council, [^c-787786526ab271903f416cc281480663]... or burgh commissioners shall be raised by a rate . . . [^c576680] If the expenditure incurred is capital expenditure it shall be raised by borrowing . . . [^c576680] the rate chargeable for repayment of capital, including interest and expenses, being the same rate as is liable for maintenance as aforesaid;
 
 (6) The provisions relating to district councils shall apply to district committees or combinations of parish councils, subject to the following modifications:—
 
@@ -326,11 +326,11 @@ Section 12.
 
     Act applied (1.9.1993) by [S.I. 1993/2154](https://www.legislation.gov.uk/uksi/1993/2154), [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/1993/2154/article/4/2/b) (with [arts. 5](https://www.legislation.gov.uk/uksi/1993/2154/article/5), [7](https://www.legislation.gov.uk/uksi/1993/2154/article/7), [9(6)](https://www.legislation.gov.uk/uksi/1993/2154/article/9/6), [10](https://www.legislation.gov.uk/uksi/1993/2154/article/10))
 
-[^key-d4d1aaad647b0fc2a3c1c8d7c39bf02a]: Modification: Act restricted (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [ss. 22](https://www.legislation.gov.uk/asp/2007/8/section/22), [30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
+[^c-d4d1aaad647b0fc2a3c1c8d7c39bf02a]: Modification: Act restricted (S.) (28.12.2007) by [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), [ss. 22](https://www.legislation.gov.uk/asp/2007/8/section/22), [30(4)](https://www.legislation.gov.uk/asp/2007/8/section/30/4); [S.S.I. 2007/516](https://www.legislation.gov.uk/ssi/2007/516), [art. 2](https://www.legislation.gov.uk/ssi/2007/516/article/2)
 
-[^key-9edf991f88ba67dbbdedb0f53670cd39]: Modification: Act: savings for effects of 2007 asp 8, s. 22 (28.12.2007) by [Transport and Works (Scotland) Act 2007 (Consequential and Transitional Provisions) Order 2007 (S.S.I. 2007/517)](https://www.legislation.gov.uk/ssi/2007/517), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/517/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2007/517/article/4/1)
+[^c-9edf991f88ba67dbbdedb0f53670cd39]: Modification: Act: savings for effects of 2007 asp 8, s. 22 (28.12.2007) by [Transport and Works (Scotland) Act 2007 (Consequential and Transitional Provisions) Order 2007 (S.S.I. 2007/517)](https://www.legislation.gov.uk/ssi/2007/517), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/517/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2007/517/article/4/1)
 
-[^key-fec69d2681a454a29d60819d754cf160]: Modification: Act excluded (24.11.2016) by [The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016 (S.I. 2016/1035)](https://www.legislation.gov.uk/uksi/2016/1035), [art. 6](https://www.legislation.gov.uk/uksi/2016/1035/article/6) (with [arts. 43](https://www.legislation.gov.uk/uksi/2016/1035/article/43), [44](https://www.legislation.gov.uk/uksi/2016/1035/article/44))
+[^c-fec69d2681a454a29d60819d754cf160]: Modification: Act excluded (24.11.2016) by [The Transport for Greater Manchester (Light Rapid Transit System) (Trafford Park Extension) Order 2016 (S.I. 2016/1035)](https://www.legislation.gov.uk/uksi/2016/1035), [art. 6](https://www.legislation.gov.uk/uksi/2016/1035/article/6) (with [arts. 43](https://www.legislation.gov.uk/uksi/2016/1035/article/43), [44](https://www.legislation.gov.uk/uksi/2016/1035/article/44))
 
 [^c576602]: Textual amendment: [S. 1(1)(3)](https://www.legislation.gov.uk/ukpga/Vict/59-60/48/section/1/1/3)—(7) repealed by [Railways Act 1921 (c. 55)](https://www.legislation.gov.uk/ukpga/1921/55), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1921/55/schedule/9/part/I)
 
@@ -420,11 +420,11 @@ Section 12.
 
 [^c576650]: Modification: References to Board of Agriculture to be construed as references to Minister of Agriculture, Fisheries and Food: [Board of Agriculture and Fisheries Act 1903 (c. 31)](https://www.legislation.gov.uk/ukpga/1903/31), [s. 1](https://www.legislation.gov.uk/ukpga/1903/31/section/1), [Ministry of Agriculture and Fisheries Act 1919 (c. 91)](https://www.legislation.gov.uk/ukpga/1919/91), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1919/91/section/1/1) and [S.I. 1955/554](https://www.legislation.gov.uk/uksi/1955/554) (1955 I, p. 1200)
 
-[^key-a30ea25cfb5e54d9c5c328d636accc21]: Textual amendment: S. 20(1): s. 20 renumbered as s. 20(1) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/4/a)
+[^c-a30ea25cfb5e54d9c5c328d636accc21]: Textual amendment: S. 20(1): s. 20 renumbered as s. 20(1) (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 4(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/4/a)
 
 [^c576651]: Textual amendment: Words substituted by virtue of S.R.& O. 1924/1370 (Rev. V, p. 443, 1924, p. 228), [Crown Estate Act 1956 (c. 73)](https://www.legislation.gov.uk/ukpga/1956/73), [s. 1(1)(7)](https://www.legislation.gov.uk/ukpga/1956/73/section/1/1/7) and [Crown Estate Act 1961 (c. 55)](https://www.legislation.gov.uk/ukpga/1961/55), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1961/55/section/1/1), [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/ukpga/1961/55/schedule/2/paragraph/4/1)
 
-[^key-6ad908fd3e7f17725be556a82cd59ed0]: Textual amendment: S. 20(2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 4(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/4/b)
+[^c-6ad908fd3e7f17725be556a82cd59ed0]: Textual amendment: S. 20(2) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [para. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 4(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/4/b)
 
 [^c576652]: Modification: References to Board of Agriculture to be construed as references to Secretary of State: [Board of Agriculture and Fisheries Act 1903 (c. 31)](https://www.legislation.gov.uk/ukpga/1903/31), [s. 1](https://www.legislation.gov.uk/ukpga/1903/31/section/1), [Ministry of Agriculture and Fisheries Act 1919 (c. 91)](https://www.legislation.gov.uk/ukpga/1919/91), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1919/91/section/1/1), [S.I](https://www.legislation.gov.uk/ukpga/1919/91/section/I). 1955/554 (1955 I, p. 1200), 1965/143, arts. 2(1)(a), 3(1)(a), Sch., 1967/156 arts. 2(2)(a)(5), 3(1), and 1970/1681, arts. 2(1), 6(3)
 
@@ -446,7 +446,7 @@ Section 12.
 
 [^c576680]: Textual amendment: Words repealed by [Local Government (Scotland) Act 1947 (c. 43)](https://www.legislation.gov.uk/ukpga/1947/43), [Sch. 14](https://www.legislation.gov.uk/ukpga/1947/43/schedule/14)
 
-[^key-787786526ab271903f416cc281480663]: Textual amendment: Words in [s. 26(5)](https://www.legislation.gov.uk/ukpga/Vict/59-60/48/section/26/5) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/1)
+[^c-787786526ab271903f416cc281480663]: Textual amendment: Words in [s. 26(5)](https://www.legislation.gov.uk/ukpga/Vict/59-60/48/section/26/5) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/1)
 
 [^c576683]: Marginal citation: [1845 c. 33](https://www.legislation.gov.uk/ukpga/1845/33).
 

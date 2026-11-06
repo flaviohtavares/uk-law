@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26C. Target primary energy rates for new buildings[^M_E_8a5bddb2-49e4-4577-b259-6597e11f5774][^key-8cef95e88049157c07fec3e4e2335232]
+## 26C. Target primary energy rates for new buildings[^M_E_8a5bddb2-49e4-4577-b259-6597e11f5774][^c-8cef95e88049157c07fec3e4e2335232]
 
 *Extent: E*
 
@@ -32,7 +32,7 @@ Where a dwelling is erected, it must equal or exceed the energy efficiency ratin
 
 [^M_E_8a5bddb2-49e4-4577-b259-6597e11f5774]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-8cef95e88049157c07fec3e4e2335232]: Textual amendment: [Reg. 26C](https://www.legislation.gov.uk/uksi/2010/2214/regulation/26C) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) Regulations 2021 (S.I. 2021/1391)](https://www.legislation.gov.uk/uksi/2021/1391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1391/regulation/6) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2021/1391/regulation/17)) (as amended (5.6.2023) by [S.I. 2023/520](https://www.legislation.gov.uk/uksi/2023/520), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/520/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/520/regulation/3))
+[^c-8cef95e88049157c07fec3e4e2335232]: Textual amendment: [Reg. 26C](https://www.legislation.gov.uk/uksi/2010/2214/regulation/26C) inserted (E.) (15.6.2022) by [The Building Regulations etc. (Amendment) (England) Regulations 2021 (S.I. 2021/1391)](https://www.legislation.gov.uk/uksi/2021/1391), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2021/1391/regulation/6) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1391/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2021/1391/regulation/17)) (as amended (5.6.2023) by [S.I. 2023/520](https://www.legislation.gov.uk/uksi/2023/520), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/520/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/520/regulation/3))
 
 [^M_E_fb34801d-c5fe-431e-8941-2a6764dc6acd]: Extent: This version of this provision applies to Wales only; a separate version has been created for England only
 

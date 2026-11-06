@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Meaning of “substantial performance”[^key-b7d4c42a9e45212face812e2450c867a]
+## 14. Meaning of “substantial performance”[^c-b7d4c42a9e45212face812e2450c867a]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7d4c42a9e45212face812e2450c867a]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2013/11/section/14) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-b7d4c42a9e45212face812e2450c867a]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2013/11/section/14) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

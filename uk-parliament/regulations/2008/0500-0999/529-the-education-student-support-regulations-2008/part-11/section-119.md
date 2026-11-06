@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Support for distance learning courses[^key-111b5cc281790060984131e62b7c1288]
+## 119. Support for distance learning courses[^c-111b5cc281790060984131e62b7c1288]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-111b5cc281790060984131e62b7c1288]: Commencement: Reg. 119 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-111b5cc281790060984131e62b7c1288]: Commencement: Reg. 119 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
 
 [^f00065]: Footnote: [S.I. 1998/1760 (N.I. 14)](https://www.legislation.gov.uk/nisi/1998/1760), to which there are amendments not relevant to these Regulations.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5.[^key-a9bad97b8dc9f04f11be29f816489ac9]
+## 5.[^c-a9bad97b8dc9f04f11be29f816489ac9]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9bad97b8dc9f04f11be29f816489ac9]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/647)](https://www.legislation.gov.uk/uksi/2020/647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/647/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2020/647/regulation/2/b)
+[^c-a9bad97b8dc9f04f11be29f816489ac9]: Textual amendment: Reg. 5 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/647)](https://www.legislation.gov.uk/uksi/2020/647), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/647/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2020/647/regulation/2/b)

@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Prohibition
 
-### 1. Prohibition on dealing in ivory[^key-b0b1ca6906903f07542efd3c27de2d4d][^key-1a2248d7e4b71d2cc0be1cc8627da7b7]
+### 1. Prohibition on dealing in ivory[^c-b0b1ca6906903f07542efd3c27de2d4d][^c-1a2248d7e4b71d2cc0be1cc8627da7b7]
 
 (1) Dealing in ivory is prohibited.
 
@@ -72,7 +72,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Exemption for outstandingly valuable and important pre-1918 items
 
-### 2. Pre-1918 items of outstanding artistic etc value and importance[^key-283139772519a2449bf2f4e27a30fb8d][^key-5dcf2a88c3b56225351677768531775c]
+### 2. Pre-1918 items of outstanding artistic etc value and importance[^c-283139772519a2449bf2f4e27a30fb8d][^c-5dcf2a88c3b56225351677768531775c]
 
 (1) An item that is made of ivory, or has ivory in it, is exempt from the prohibition if—
 
@@ -100,7 +100,7 @@ In this Act “**prescribed institution**” means an institution prescribed und
 
 (6) An institution may be prescribed under subsection (5) only with the consent of the persons in charge of the institution.
 
-### 3. Applications for exemption certificates[^key-d0cbf9080b90d2dc5c8517793feed333][^key-fe37558cd06ae876c2c8d5a623750fec]
+### 3. Applications for exemption certificates[^c-d0cbf9080b90d2dc5c8517793feed333][^c-fe37558cd06ae876c2c8d5a623750fec]
 
 (1) A person applying for an exemption certificate for an item must—
 
@@ -137,7 +137,7 @@ Otherwise the Secretary of State must refuse the application and inform the appl
 
 (7) If the application is granted, the Secretary of State must provide the applicant with an exemption certificate.
 
-### 4. Further provision about exemption certificates[^key-588f04c7719fdbb2c1922e9e1a894f3d][^key-c184bd37cb4c26cf2b23467167718dbf]
+### 4. Further provision about exemption certificates[^c-588f04c7719fdbb2c1922e9e1a894f3d][^c-c184bd37cb4c26cf2b23467167718dbf]
 
 (1) An exemption certificate must—
 
@@ -177,7 +177,7 @@ the owner must notify the Secretary of State accordingly and must provide the Se
 - “**relevant information**” means any information given to the Secretary of State under section 3 or this section;
 - “**specified information**” means information specified in regulations made by the appropriate national authority.
 
-### 5. Fresh applications and appeals[^key-310372a629a5413943a730bad6778348][^key-617ea80d213fec5b4a80cbd24eb89f2c]
+### 5. Fresh applications and appeals[^c-310372a629a5413943a730bad6778348][^c-617ea80d213fec5b4a80cbd24eb89f2c]
 
 (1) Where an application for an exemption certificate is refused or an exemption certificate is revoked, the owner of the item concerned—
 
@@ -206,7 +206,7 @@ or on any other grounds that are prescribed by regulations made by the appropria
 
 ## Other exemptions
 
-### 6. Pre-1918 portrait miniatures[^key-20630d98bec1b6267ea9468f9bc697ea][^key-5592a40c52f2ea51b3ba31e0544572be]
+### 6. Pre-1918 portrait miniatures[^c-20630d98bec1b6267ea9468f9bc697ea][^c-5592a40c52f2ea51b3ba31e0544572be]
 
 (1) An item that has ivory in it is exempt from the prohibition if—
 
@@ -215,7 +215,7 @@ or on any other grounds that are prescribed by regulations made by the appropria
 
 (2) For the purposes of subsection (1)(a) the “surface area” of a portrait miniature does not include any part consisting of or covered by a frame.
 
-### 7. Pre-1947 items with low ivory content[^key-807fe41c4ea4eaee3728ca2afd896213][^key-37020021d291cc2571e1cbe63f277892]
+### 7. Pre-1947 items with low ivory content[^c-807fe41c4ea4eaee3728ca2afd896213][^c-37020021d291cc2571e1cbe63f277892]
 
 (1) An item that has ivory in it is exempt from the prohibition if—
 
@@ -226,7 +226,7 @@ or on any other grounds that are prescribed by regulations made by the appropria
 
 (2) For the purposes of subsection (1)(b) ivory is “integral” to an item if it could not be removed from the item without difficulty or without damaging the item.
 
-### 8. Pre-1975 musical instruments[^key-fe721bad570b267a89e7cfac9832bd6c][^key-69301c40b813877543b90de957bd83f1]
+### 8. Pre-1975 musical instruments[^c-fe721bad570b267a89e7cfac9832bd6c][^c-69301c40b813877543b90de957bd83f1]
 
 (1) An item that has ivory in it is exempt from the prohibition if—
 
@@ -239,7 +239,7 @@ or on any other grounds that are prescribed by regulations made by the appropria
 - (a) does not include anything that, although capable of being played as a musical instrument, was not made primarily for that purpose;
 - (b) includes a bow, plectrum or other thing made for playing a musical instrument.
 
-### 9. Acquisitions by qualifying museums[^key-06a57faeef5795527554a9041e453bc1][^key-7ebc77b399ba42e796e19876c6afee41]
+### 9. Acquisitions by qualifying museums[^c-06a57faeef5795527554a9041e453bc1][^c-7ebc77b399ba42e796e19876c6afee41]
 
 (1) Dealing in an ivory item to which this section applies is exempt from the prohibition if or to the extent that the dealing—
 
@@ -272,7 +272,7 @@ or on any other grounds that are prescribed by regulations made by the appropria
 - “**the relevant time**” means the time of any activity that constitutes dealing in the ivory;
 - “**sale**” includes a disposal for valuable consideration (and “sell” is to be read accordingly).
 
-### 10. Registration[^key-89fa66c5135289cc82bef1af93c31b8d][^key-92acf749bf6156691b879b43eeca10a3]
+### 10. Registration[^c-89fa66c5135289cc82bef1af93c31b8d][^c-92acf749bf6156691b879b43eeca10a3]
 
 (1) The Secretary of State must register an item under this section if the owner of the item—
 
@@ -302,7 +302,7 @@ or on any other grounds that are prescribed by regulations made by the appropria
 
 (5) The Secretary of State must keep a record of information (including photographs) provided to the Secretary of State under this section or section 11.
 
-### 11. Further provision about registration[^key-c256bcab7fb1d19af75e96eaca0a9c06]
+### 11. Further provision about registration[^c-c256bcab7fb1d19af75e96eaca0a9c06]
 
 (1) The registration of an item under section 10 ceases to be valid if the ownership of the item changes (but the new owner may make a fresh application for registration).
 
@@ -329,7 +329,7 @@ the owner must notify the Secretary of State accordingly and must provide the Se
 
 ## Criminal and civil sanctions
 
-### 12. Offence of breaching the prohibition or causing or facilitating a breach[^key-1efa2dafeaf3c811aacbc2f9916ad87e][^key-29e01e33dbd2061f436e081e15333e3f]
+### 12. Offence of breaching the prohibition or causing or facilitating a breach[^c-1efa2dafeaf3c811aacbc2f9916ad87e][^c-29e01e33dbd2061f436e081e15333e3f]
 
 (1) It is an offence—
 
@@ -343,20 +343,20 @@ the owner must notify the Secretary of State accordingly and must provide the Se
 
 (4) A person who commits an offence under this section is liable—
 
-- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-0e9529a16f6f730deb4738d6a20c8cbb] or a fine (or both);
+- (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-0e9529a16f6f730deb4738d6a20c8cbb] or a fine (or both);
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding six months or a fine not exceeding the statutory maximum (or both);
 - (d) on conviction on indictment, to imprisonment for a term not exceeding five years or a fine (or both).
 
-(5) In relation to an offence committed before 2 May 2022[^key-8a9d9f5419cdf920d25311ba69085e40], the reference in subsection (4)(a) to the general limit in a magistrates’ court[^key-f048baedc3c4bdb4ae00ace9a8e1a7ab] is to be read as a reference to six months.
+(5) In relation to an offence committed before 2 May 2022[^c-8a9d9f5419cdf920d25311ba69085e40], the reference in subsection (4)(a) to the general limit in a magistrates’ court[^c-f048baedc3c4bdb4ae00ace9a8e1a7ab] is to be read as a reference to six months.
 
-### 13. Civil sanctions[^key-ee085d99ad5ec08e3775df00ba20d9f0][^key-feadd95b725fa9f8bbef945d725ae6d9]
+### 13. Civil sanctions[^c-ee085d99ad5ec08e3775df00ba20d9f0][^c-feadd95b725fa9f8bbef945d725ae6d9]
 
 Schedule 1 (civil sanctions) has effect.
 
 ## Powers of entry, search and seizure
 
-### 14. Power to stop and search persons[^key-77995121dc296bc6c714a0d562068acc]
+### 14. Power to stop and search persons[^c-77995121dc296bc6c714a0d562068acc]
 
 (1) This section applies where a police or customs officer has reasonable grounds to suspect that a person has committed, or is committing, a relevant offence.
 
@@ -378,7 +378,7 @@ Schedule 1 (civil sanctions) has effect.
   - (a) an offence in connection with an exemption certificate or with registration under section 10, or
   - (b) an offence under section 12.
 
-### 15. Power to stop and search vehicles[^key-4ab3badf6b7e0e46add494769ae9863b]
+### 15. Power to stop and search vehicles[^c-4ab3badf6b7e0e46add494769ae9863b]
 
 (1) This section applies where—
 
@@ -410,7 +410,7 @@ to provide any help and facilities, with respect to matters under the person's c
 
 (7) For provisions conferring additional powers on police or customs officers to enter and search vehicles, see section 17.
 
-### 16. Power to board and search vessels and aircraft[^key-b4efa5006e64a7b240f0059a4738a404]
+### 16. Power to board and search vessels and aircraft[^c-b4efa5006e64a7b240f0059a4738a404]
 
 (1) This section applies where—
 
@@ -438,7 +438,7 @@ to provide any help and facilities, with respect to matters under the person's c
 
 (7) For provision conferring additional powers on police or customs officers to enter and search vessels and aircraft, see section 17.
 
-### 17. Warrants authorising entry and search of premises[^key-a912c6889fe2185b765c55b966ac1917]
+### 17. Warrants authorising entry and search of premises[^c-a912c6889fe2185b765c55b966ac1917]
 
 (1) Where a justice is satisfied that the requirements in subsection (5) are met in relation to any premises, the justice may issue a warrant (a “search warrant”) authorising a police or customs officer—
 
@@ -480,7 +480,7 @@ In this subsection “**senior officer**” means—
 - (a) a vehicle, vessel or aircraft;
 - (b) a tent or moveable structure.
 
-### 18. Further provision about search warrants[^key-f87427d9b86f03bfaa8e2f43ed4e7609]
+### 18. Further provision about search warrants[^c-f87427d9b86f03bfaa8e2f43ed4e7609]
 
 (1) An application for a search warrant must be supported—
 
@@ -512,7 +512,7 @@ But the person may exercise such a power only in the company of, and under the s
 
 (8) An entry on or search of premises under a search warrant issued in England and Wales or Northern Ireland is unlawful if it does not comply with the provisions of Part 3 of that Schedule (execution of search warrants).
 
-### 19. Powers of examination etc[^key-011277f57bf9c1f63205116adefd3101]
+### 19. Powers of examination etc[^c-011277f57bf9c1f63205116adefd3101]
 
 (1) This section applies where a police or customs officer is exercising a power of search conferred by section 15, 16 or 17 in relation to any premises.
 
@@ -530,7 +530,7 @@ But the person may exercise such a power only in the company of, and under the s
 
 (5) Nothing in this section confers any power to search a person.
 
-### 20. Power to require production of documents etc[^key-90e6b547e481a2178e7a1b2cb5ffaa17]
+### 20. Power to require production of documents etc[^c-90e6b547e481a2178e7a1b2cb5ffaa17]
 
 (1) This section applies where a police or customs officer is exercising a power of search conferred by section 15, 16 or 17 in relation to any premises.
 
@@ -551,7 +551,7 @@ But the person may exercise such a power only in the company of, and under the s
   - (i) it can be read with the naked eye, or
   - (ii) to the extent that it consists of images (for example photographs, pictures, maps, plans or drawings), it can be seen with the naked eye.
 
-### 21. Powers of seizure etc[^key-89dab0f27823d5009d68f5cd2f573265]
+### 21. Powers of seizure etc[^c-89dab0f27823d5009d68f5cd2f573265]
 
 (1) A police or customs officer who is exercising the power of search conferred by section 14 may seize and detain anything found in the course of the search.
 
@@ -574,7 +574,7 @@ In this subsection “**document**” includes anything falling within paragraph
 
 (5) Nothing in this section confers power on an officer to seize an item that is an excluded item (see section 24).
 
-### 22. Accredited civilian officers: powers of entry[^key-52fda45837df75de63634119e9c77923]
+### 22. Accredited civilian officers: powers of entry[^c-52fda45837df75de63634119e9c77923]
 
 (1) An accredited civilian officer may on giving reasonable notice—
 
@@ -597,7 +597,7 @@ In this subsection “**document**” includes anything falling within paragraph
 - (a) does not authorise the entry into premises used wholly or mainly as a dwelling;
 - (b) authorises entry only at a reasonable time.
 
-### 23. Other powers of accredited civilian officers[^key-2ff950ea0c42d0a68ef3f7d29690ab53]
+### 23. Other powers of accredited civilian officers[^c-2ff950ea0c42d0a68ef3f7d29690ab53]
 
 (1) This section applies where—
 
@@ -635,7 +635,7 @@ In this subsection “**document**” includes anything falling within paragraph
 
 (9) Subsections (3) and (4) of section 20 apply for the purposes of this section as they apply for the purposes of that one.
 
-### 24. Excluded items[^key-6515fab310d83cb2fa1065fc8554806a]
+### 24. Excluded items[^c-6515fab310d83cb2fa1065fc8554806a]
 
 (1) This section sets out what is meant by “**excluded items**” for the purposes of sections 21 and 23.
 
@@ -653,7 +653,7 @@ In this subsection “**document**” includes anything falling within paragraph
 - (b) excluded material within the meaning of that Order (see Article 13 of that Order);
 - (c) special procedure material within the meaning of that Order (see Article 16 of that Order).
 
-### 25. Further provision about seizure under section 21 or 23[^key-7b2d3921e0a945ac58238f3556adab7d]
+### 25. Further provision about seizure under section 21 or 23[^c-7b2d3921e0a945ac58238f3556adab7d]
 
 (1) Where—
 
@@ -680,7 +680,7 @@ any power to seize and remove the items conferred on the officer by section 21 o
 
 to secure that the item is not removed or otherwise interfered with until the officer is able to seize and remove it.
 
-### 26. Notices and records in relation to seized items[^key-7d172fd8ce30420f7577df4bf12fc1a3]
+### 26. Notices and records in relation to seized items[^c-7d172fd8ce30420f7577df4bf12fc1a3]
 
 (1) This section applies where an officer, or a person accompanying an officer, seizes an item under section 21 or 23.
 
@@ -709,7 +709,7 @@ the officer must leave a copy of the notice in a prominent place on the premises
 
 (6) If a person who appears to the officer concerned to be an affected person asks for a copy of that record, the officer must provide a copy of it to that person within a reasonable time.
 
-### 27. Powers of entry, search and seizure: supplementary provision[^key-f1862a91374f6f2033ae2036c3aa092e]
+### 27. Powers of entry, search and seizure: supplementary provision[^c-f1862a91374f6f2033ae2036c3aa092e]
 
 (1) An officer who is exercising, or is about to exercise, a power conferred by section 14, 15, 16 or 22 must—
 
@@ -732,7 +732,7 @@ if asked to do so by a person entitled to make the request.
 
 (6) The powers conferred on an officer by any of sections 14 to 25 do not affect any powers exercisable by the officer apart from those sections.
 
-### 28. Offences of obstruction etc[^key-9e5f16b5649427ca9b2ff08a4da486c6]
+### 28. Offences of obstruction etc[^c-9e5f16b5649427ca9b2ff08a4da486c6]
 
 (1) A person commits an offence if, without reasonable excuse, the person intentionally obstructs an officer in the performance of any of the officer's functions under sections 14 to 25.
 
@@ -750,7 +750,7 @@ if asked to do so by a person entitled to make the request.
 
 ## Retention and disposal or return of items
 
-### 29. Retention of seized items[^key-7f5bb0c85dc7015500b1d84370be6611]
+### 29. Retention of seized items[^c-7f5bb0c85dc7015500b1d84370be6611]
 
 (1) An item seized under section 21 or 23 may be retained for as long as is necessary in all the circumstances and in particular—
 
@@ -759,7 +759,7 @@ if asked to do so by a person entitled to make the request.
 
 (2) An item may be not be retained for either of the purposes mentioned in subsection (1) if a photograph or a copy would be sufficient for that purpose.
 
-### 30. Forfeiture of seized items by court on application[^key-275308e08049b0526f8c2e8be2a58148]
+### 30. Forfeiture of seized items by court on application[^c-275308e08049b0526f8c2e8be2a58148]
 
 (1) A police officer or an accredited civilian officer may apply to the appropriate court for the forfeiture of an item retained under section 29.
 
@@ -807,7 +807,7 @@ But if it is decided before the end of the period mentioned in paragraph (a) tha
 - (a) the person from whom it was seized;
 - (b) (if different) any person to whom it belongs.
 
-### 31. Appeal against decision under section 30[^key-e8a2a4cabe4eea3141739b9b3720e433]
+### 31. Appeal against decision under section 30[^c-e8a2a4cabe4eea3141739b9b3720e433]
 
 (1) Where an order has been made under section 30, each of the following persons may appeal against the order—
 
@@ -846,7 +846,7 @@ the officer must make reasonable efforts to give notice of the appeal to every p
 - (a) the person from whom it was seized;
 - (b) (if different) any person to whom it belongs.
 
-### 32. Return of item to person entitled to it, or disposal if return impracticable[^key-1611266429740615b79e5ac472356408]
+### 32. Return of item to person entitled to it, or disposal if return impracticable[^c-1611266429740615b79e5ac472356408]
 
 (1) Where the retention of an item has been, but is no longer, authorised under this Act—
 
@@ -872,7 +872,7 @@ a police or customs officer, or the Secretary of State, may dispose of the item 
 - (a) the person from whom it was seized;
 - (b) (if different) any person to whom it belongs.
 
-### 33. Forfeiture by court following conviction[^key-8ed2b85537ac64a7c94717d0aa197d05]
+### 33. Forfeiture by court following conviction[^c-8ed2b85537ac64a7c94717d0aa197d05]
 
 (1) This section applies where a person is convicted of—
 
@@ -907,7 +907,7 @@ An order under this subsection is referred to below as a “forfeiture order”.
 
 ## General
 
-### 34. Application of Customs and Excise Management Act 1979[^key-55d1ba89f83cb4f36ce5edd7cc321ab0]
+### 34. Application of Customs and Excise Management Act 1979[^c-55d1ba89f83cb4f36ce5edd7cc321ab0]
 
 (1) An item that is—
 
@@ -918,7 +918,7 @@ is liable to forfeiture under the Customs and Excise Management Act 1979.
 
 (2) Section 5 of that Act (time of importation, exportation, etc) applies for the purposes of this section as it applies for the purposes of that Act.
 
-### 35. Contracts of insurance etc[^key-d7edf11735e0d08579522e9feb59588f]
+### 35. Contracts of insurance etc[^c-d7edf11735e0d08579522e9feb59588f]
 
 (1) A transaction under which a person acquires an item in pursuance of an existing contract of insurance is not a purchase or sale of the item for the purposes of this Act.
 
@@ -936,7 +936,7 @@ is not a purchase or sale of the item for the purposes of this Act.
 - “**regulated insurance contract**” means a contract of insurance effected or carried out by a regulated insurer;
 - “**regulated insurer**” means a person who has permission to effect or carry out contracts of insurance under Part 4A of the Financial Services and Markets Act 2000.
 
-### 36. Liability of corporate officers for offences by bodies corporate etc[^key-33c16c57cf85a8718d5d120fe9153ba2]
+### 36. Liability of corporate officers for offences by bodies corporate etc[^c-33c16c57cf85a8718d5d120fe9153ba2]
 
 (1) If an offence under this Act by a body corporate or a Scottish partnership is proved to have been committed with the consent or connivance of an officer, the officer (as well as the body corporate or partnership) is guilty of the offence and liable to be proceeded against and punished accordingly.
 
@@ -954,7 +954,7 @@ is not a purchase or sale of the item for the purposes of this Act.
 
 ### 37. Meaning of “ivory”
 
-(1)[^key-a62eea0ad7bd9695c2c075dc8157bda9][^key-47a46a8c2822fe3e1d8a4d1b9b99d527] In this Act (apart from this section) “**ivory**” means ivory from the tusk or tooth of any of the following—[^key-59ee9ab016716f8233f5b1ef0ce87f97]
+(1)[^c-a62eea0ad7bd9695c2c075dc8157bda9][^c-47a46a8c2822fe3e1d8a4d1b9b99d527] In this Act (apart from this section) “**ivory**” means ivory from the tusk or tooth of any of the following—[^c-59ee9ab016716f8233f5b1ef0ce87f97]
 
 - (a) an elephant (see subsection (8));
 - (b) a common hippopotamus (*Hippopotamus amphibius*);
@@ -962,24 +962,24 @@ is not a purchase or sale of the item for the purposes of this Act.
 - (d) a narwhal (*Monodon monoceros*);
 - (e) a sperm whale (*Physeter macrocephalus*).
 
-(2)[^key-a01bb1da33ec8913c5ec31cc201c3861] Regulations made by the appropriate national authority may amend subsection (1) so as to include ivory from an animal or species (whether extant or not) that is not for the time being covered by that subsection.
+(2)[^c-a01bb1da33ec8913c5ec31cc201c3861] Regulations made by the appropriate national authority may amend subsection (1) so as to include ivory from an animal or species (whether extant or not) that is not for the time being covered by that subsection.
 
-(3)[^key-a01bb1da33ec8913c5ec31cc201c3861] A statutory instrument containing regulations made by the Secretary of State under subsection (2) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before each House of Parliament and approved by a resolution of each House.
+(3)[^c-a01bb1da33ec8913c5ec31cc201c3861] A statutory instrument containing regulations made by the Secretary of State under subsection (2) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before each House of Parliament and approved by a resolution of each House.
 
-(4)[^key-a01bb1da33ec8913c5ec31cc201c3861] A statutory instrument containing regulations made by the Welsh Ministers under subsection (2) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before the National Assembly for Wales and approved by a resolution of the Assembly.
+(4)[^c-a01bb1da33ec8913c5ec31cc201c3861] A statutory instrument containing regulations made by the Welsh Ministers under subsection (2) (whether alone or with other provision) may not be made unless a draft of the instrument has been laid before the National Assembly for Wales and approved by a resolution of the Assembly.
 
-(5)[^key-a01bb1da33ec8913c5ec31cc201c3861] Regulations made by the Scottish Ministers under subsection (2) are subject to the affirmative procedure.
+(5)[^c-a01bb1da33ec8913c5ec31cc201c3861] Regulations made by the Scottish Ministers under subsection (2) are subject to the affirmative procedure.
 
-(6)[^key-a01bb1da33ec8913c5ec31cc201c3861] Regulations made by the Northern Ireland department under subsection (2) may not be made unless a draft of the instrument has been laid before the Northern Ireland Assembly and approved by a resolution of the Assembly.
+(6)[^c-a01bb1da33ec8913c5ec31cc201c3861] Regulations made by the Northern Ireland department under subsection (2) may not be made unless a draft of the instrument has been laid before the Northern Ireland Assembly and approved by a resolution of the Assembly.
 
-(7)[^key-a62eea0ad7bd9695c2c075dc8157bda9][^key-47a46a8c2822fe3e1d8a4d1b9b99d527] In any proceedings under this Act, any material that is proved to be ivory from an animal is presumed to be ivory from an animal specified in subsection (1)[^key-68f2ea2d88d9351f950e8d0e3dcc9bda] unless the material is proved to be from none of the animals specified in that subsection[^key-3db4e94c7c354f51998d3d3053db4edb].
+(7)[^c-a62eea0ad7bd9695c2c075dc8157bda9][^c-47a46a8c2822fe3e1d8a4d1b9b99d527] In any proceedings under this Act, any material that is proved to be ivory from an animal is presumed to be ivory from an animal specified in subsection (1)[^c-68f2ea2d88d9351f950e8d0e3dcc9bda] unless the material is proved to be from none of the animals specified in that subsection[^c-3db4e94c7c354f51998d3d3053db4edb].
 
-(8)[^key-a62eea0ad7bd9695c2c075dc8157bda9][^key-47a46a8c2822fe3e1d8a4d1b9b99d527] In this section “**elephant**” means an animal of a species that is—
+(8)[^c-a62eea0ad7bd9695c2c075dc8157bda9][^c-47a46a8c2822fe3e1d8a4d1b9b99d527] In this section “**elephant**” means an animal of a species that is—
 
 - (a) within the family *Elephantidae*, and
 - (b) extant on the day on which this Act is passed.
 
-### 38. Meaning of other expressions[^key-19b12cbd0fa4fa19dea18e13802b12b5][^key-4c5a699ac53231cf4a0555a3fac23766]
+### 38. Meaning of other expressions[^c-19b12cbd0fa4fa19dea18e13802b12b5][^c-4c5a699ac53231cf4a0555a3fac23766]
 
 (1) In this Act—
 
@@ -1030,7 +1030,7 @@ is not a purchase or sale of the item for the purposes of this Act.
 
 but does not include a reference to anything that permanently rests on, or is permanently attached to, the sea bed.
 
-### 39. Regulations[^key-f8c7ce265dba8d2ad5b711b231ba08a3][^key-6ef75111f42b30f883599bb7d05fd539]
+### 39. Regulations[^c-f8c7ce265dba8d2ad5b711b231ba08a3][^c-6ef75111f42b30f883599bb7d05fd539]
 
 (1) Regulations under the preceding provisions of this Act—
 
@@ -1067,23 +1067,23 @@ The “necessary consent” is—
 
 (9) Regulations made by the Northern Ireland department under this Act, other than regulations under section 37(2), are subject to negative resolution within the meaning of section 41(6) of the Interpretation Act (Northern Ireland) 1954.
 
-### 40. Financial provision[^key-21bc84221ec9ec39f534acc95aa24d32]
+### 40. Financial provision[^c-21bc84221ec9ec39f534acc95aa24d32]
 
 Any expenditure incurred by the Secretary of State under or by virtue of this Act is to be paid out of money provided by Parliament.
 
-### 41. Crown application[^key-2c7c380c20ae012f338df07957941d76]
+### 41. Crown application[^c-2c7c380c20ae012f338df07957941d76]
 
 (1) Subject to subsection (2), this Act binds the Crown.
 
 (2) Sections 12 and 28 and paragraph 9 of Schedule 1 (offences) apply to persons in the service of the Crown but, apart from that, do not bind the Crown.
 
-### 42. Extent[^key-8c7f897776a7ce0e465a8b046329058e][^key-28aab77ec0fcc26c4ebcdaca960dfe75]
+### 42. Extent[^c-8c7f897776a7ce0e465a8b046329058e][^c-28aab77ec0fcc26c4ebcdaca960dfe75]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
 (2) Subsection (1) does not apply to section 18(7) and (8) and Schedule 2, which extend to England and Wales and Northern Ireland.
 
-### 43. Commencement[^key-f181b55b249636b6666ec29592ea23df][^key-b89f9a7212f30a19ce11f1edda692357]
+### 43. Commencement[^c-f181b55b249636b6666ec29592ea23df][^c-b89f9a7212f30a19ce11f1edda692357]
 
 (1) This Act comes into force in accordance with provision made by the Secretary of State by regulations.
 
@@ -1092,7 +1092,7 @@ Any expenditure incurred by the Secretary of State under or by virtue of this Ac
 - (a) may make transitional or saving provision;
 - (b) may make different provision for different purposes or for different parts of the United Kingdom.
 
-### 44. Short title[^key-92326052fd2d73521540bce166dd3b1a][^key-345df967ea0d64be6c06c0cbfd5e7376]
+### 44. Short title[^c-92326052fd2d73521540bce166dd3b1a][^c-345df967ea0d64be6c06c0cbfd5e7376]
 
 This Act may be cited as the Ivory Act 2018.
 
@@ -1106,7 +1106,7 @@ Section 13
 
 #### Imposition of monetary penalties
 
-**1.**[^key-307e400e9a98ae26010e6c1257e8e149][^key-82a35a0da84754003b4fff66bc633e14] (1) The Secretary of State may impose a monetary penalty on a person if satisfied beyond reasonable doubt that the person has committed an offence under section 12.
+**1.**[^c-307e400e9a98ae26010e6c1257e8e149][^c-82a35a0da84754003b4fff66bc633e14] (1) The Secretary of State may impose a monetary penalty on a person if satisfied beyond reasonable doubt that the person has committed an offence under section 12.
 
 (2) In this Schedule “**monetary penalty**” means a requirement to pay to the Secretary of State a penalty of an amount determined by the Secretary of State.
 
@@ -1114,7 +1114,7 @@ Section 13
 
 #### Representations and appeals etc
 
-**2.**[^key-1fab2f38dd1fb9a416db85f02a4e392e][^key-536a3663ad479f76ab8f8ecc19f56bd8] (1) Where the Secretary of State proposes to impose a monetary penalty on a person, the Secretary of State must serve on the person a notice of what is proposed.
+**2.**[^c-1fab2f38dd1fb9a416db85f02a4e392e][^c-536a3663ad479f76ab8f8ecc19f56bd8] (1) Where the Secretary of State proposes to impose a monetary penalty on a person, the Secretary of State must serve on the person a notice of what is proposed.
 
 (2) A notice under sub-paragraph (1) must offer the person the opportunity to discharge the person's liability for the monetary penalty by payment of a sum specified in the notice (which must be less than or equal to the amount of the penalty).
 
@@ -1140,7 +1140,7 @@ or on any other grounds that are prescribed.
 
 #### Information to be included in notices under paragraph 2
 
-**3.**[^key-a9967993fbdd76f6bf9a093df279acdd][^key-2d4a7974dedd3c41b2c599ddb0cb1d74] (1) A notice under paragraph 2(1) must include information as to—
+**3.**[^c-a9967993fbdd76f6bf9a093df279acdd][^c-2d4a7974dedd3c41b2c599ddb0cb1d74] (1) A notice under paragraph 2(1) must include information as to—
 
 - (a) the grounds for the proposal to impose the monetary penalty;
 - (b) the effect of payment of the sum referred to in paragraph 2(2);
@@ -1167,7 +1167,7 @@ The period referred to in paragraph (c) must be at least 28 days.
 
 #### Monetary penalties: criminal proceedings and conviction
 
-**4.**[^key-5af158426c73d21fe0cf44cb73ac0882] (1) Where a notice under paragraph 2(1) is served on a person—
+**4.**[^c-5af158426c73d21fe0cf44cb73ac0882] (1) Where a notice under paragraph 2(1) is served on a person—
 
 - (a) no criminal proceedings for an offence under section 12 may be instituted against the person in respect of the act or omission to which the notice relates before the end of the period within which the person's liability may be discharged as mentioned in paragraph 2(2) (see paragraph 3(2));
 - (b) if the liability is so discharged, the person may not at any time be convicted of an offence under section 12 in relation to that act or omission.
@@ -1178,7 +1178,7 @@ The period referred to in paragraph (c) must be at least 28 days.
 
 #### Imposition of stop notices
 
-**5.**[^key-8bd561aac6ee401c266931d001947192][^key-9eaf13e2acd6fa4ab3636ed72215240e] (1) Where sub-paragraph (2) or (3) applies, the Secretary of State may serve on a person a notice (a “stop notice”)—
+**5.**[^c-8bd561aac6ee401c266931d001947192][^c-9eaf13e2acd6fa4ab3636ed72215240e] (1) Where sub-paragraph (2) or (3) applies, the Secretary of State may serve on a person a notice (a “stop notice”)—
 
 - (a) prohibiting the person from carrying on an activity specified in the notice, or
 - (b) prohibiting the person from carrying on an activity specified in the notice until the person has taken the steps specified in the notice.
@@ -1197,7 +1197,7 @@ The period referred to in paragraph (c) must be at least 28 days.
 
 #### Information to be included in stop notices
 
-**6.**[^key-acc955d370c17131eaaa2b1107844706][^key-4025fbf477a0622c3f5840a411cbd681] A stop notice must include information as to—
+**6.**[^c-acc955d370c17131eaaa2b1107844706][^c-4025fbf477a0622c3f5840a411cbd681] A stop notice must include information as to—
 
 - (a) the grounds for serving the notice;
 - (b) rights of appeal;
@@ -1205,7 +1205,7 @@ The period referred to in paragraph (c) must be at least 28 days.
 
 #### Completion certificates
 
-**7.**[^key-1ca4c767671d4af91da1a8fcb3e44ea3][^key-f5f3641dd23b0e8d608600447754d2fa] (1) This paragraph applies where a person is served with a stop notice prohibiting the person from carrying on an activity specified in the notice until the person has taken the steps specified in the notice.
+**7.**[^c-1ca4c767671d4af91da1a8fcb3e44ea3][^c-f5f3641dd23b0e8d608600447754d2fa] (1) This paragraph applies where a person is served with a stop notice prohibiting the person from carrying on an activity specified in the notice until the person has taken the steps specified in the notice.
 
 (2) Where the Secretary of State is satisfied that the person has taken the specified steps, the Secretary of State must issue a certificate to that effect (a “completion certificate”).
 
@@ -1215,7 +1215,7 @@ The period referred to in paragraph (c) must be at least 28 days.
 
 #### Appeals
 
-**8.**[^key-6d22a4ab2ceb7ecba6f9d2f28a273f47][^key-498a084bb8ed12dd6821d687806d13d4] (1) A person served with a stop notice may appeal against the decision to serve it on the ground—
+**8.**[^c-6d22a4ab2ceb7ecba6f9d2f28a273f47][^c-498a084bb8ed12dd6821d687806d13d4] (1) A person served with a stop notice may appeal against the decision to serve it on the ground—
 
 - (a) that the decision was based on an error of fact,
 - (b) that the decision was wrong in law,
@@ -1237,7 +1237,7 @@ or on any other grounds that are prescribed.
 
 #### Offence of failure to comply with stop notice
 
-**9.**[^key-81dfb70b9245d3d856bde91e23f0ab09] (1) A person served with a stop notice who does not comply with it commits an offence.
+**9.**[^c-81dfb70b9245d3d856bde91e23f0ab09] (1) A person served with a stop notice who does not comply with it commits an offence.
 
 (2) A person who commits an offence under this paragraph is liable—
 
@@ -1246,7 +1246,7 @@ or on any other grounds that are prescribed.
 
 ### Part 3 — Enforcement undertakings
 
-**10.**[^key-3e3c72c5a387e2ec1807855ccd6ddeaf][^key-41001434cbb41b646ab3f9190aebbb20] (1) This paragraph applies where—
+**10.**[^c-3e3c72c5a387e2ec1807855ccd6ddeaf][^c-41001434cbb41b646ab3f9190aebbb20] (1) This paragraph applies where—
 
 - (a) the Secretary of State has reasonable grounds to suspect that a person has committed an offence under section 12,
 - (b) the person offers an undertaking (an “enforcement undertaking”) to take specified action, within a specified period,
@@ -1313,7 +1313,7 @@ or on any other grounds that are prescribed.
 
 #### Supplementary regulations: general
 
-**14.**[^key-578f2ce7ec2b0b8f95c3a8323f5d9cf5][^key-3ea92a54685e9c840b658450167a885c] (1) The appropriate national authority may by regulations (“**supplementary regulations**”)—
+**14.**[^c-578f2ce7ec2b0b8f95c3a8323f5d9cf5][^c-3ea92a54685e9c840b658450167a885c] (1) The appropriate national authority may by regulations (“**supplementary regulations**”)—
 
 - (a) make provision (including transitional provision) supplementing that made by this Schedule;
 - (b) make provision that is consequential on or incidental to that made by this Schedule.
@@ -1322,13 +1322,13 @@ or on any other grounds that are prescribed.
 
 #### Consultation
 
-**15.**[^key-cb03fa1da58fa28ef72dc6259cba7b23][^key-d1c14640051469a07b4d0e8eade58dcf] (1) Before making supplementary regulations the appropriate national authority must consult any persons that the authority considers appropriate.
+**15.**[^c-cb03fa1da58fa28ef72dc6259cba7b23][^c-d1c14640051469a07b4d0e8eade58dcf] (1) Before making supplementary regulations the appropriate national authority must consult any persons that the authority considers appropriate.
 
 (2) If, as a result of any consultation required by sub-paragraph (1), it appears to the authority that it is appropriate substantially to change the whole or any part of the proposals, the authority must undertake whatever further consultation the authority considers appropriate with respect to the changes.
 
 #### Monetary penalties and costs
 
-**16.**[^key-6178d0ea6f6e0946034c7bc4204aac38][^key-8c5a558e89603f88a7ca957a419033ea] (1) Supplementary regulations may make any of the following provision in relation to the power of the Secretary of State to require a person to pay a monetary penalty (under paragraph 1) or costs (under paragraph 11)—
+**16.**[^c-6178d0ea6f6e0946034c7bc4204aac38][^c-8c5a558e89603f88a7ca957a419033ea] (1) Supplementary regulations may make any of the following provision in relation to the power of the Secretary of State to require a person to pay a monetary penalty (under paragraph 1) or costs (under paragraph 11)—
 
 - (a) provision for early payment discounts;
 - (b) provision for the payment of interest or other financial penalties for late payment;
@@ -1343,7 +1343,7 @@ or on any other grounds that are prescribed.
 
 #### Enforcement undertakings
 
-**17.**[^key-7c1ecde0a37b6f589738491f88f85cf6][^key-ac53d7be6f96bda26b43c823377cf093] Supplementary regulations may make any of the following provision in relation to an enforcement undertaking—
+**17.**[^c-7c1ecde0a37b6f589738491f88f85cf6][^c-ac53d7be6f96bda26b43c823377cf093] Supplementary regulations may make any of the following provision in relation to an enforcement undertaking—
 
 - (a) provision as to the procedure for entering into an undertaking;
 - (b) provision as to the terms of an undertaking;
@@ -1358,7 +1358,7 @@ or on any other grounds that are prescribed.
 
 #### Appeals
 
-**18.**[^key-676a8f56cdec8877d40289d7538aeea9][^key-747227cc625103790e724de1cf6e74ae] (1) Supplementary regulations may make any of the following provision in relation to an appeal in respect of the imposition of a requirement, or the service of a notice, under this Schedule—
+**18.**[^c-676a8f56cdec8877d40289d7538aeea9][^c-747227cc625103790e724de1cf6e74ae] (1) Supplementary regulations may make any of the following provision in relation to an appeal in respect of the imposition of a requirement, or the service of a notice, under this Schedule—
 
 - (a) provision suspending the requirement or notice pending determination of the appeal;
 - (b) provision as to the powers of the tribunal to which the appeal is made.
@@ -1374,7 +1374,7 @@ or on any other grounds that are prescribed.
 
 #### Combination of sanctions
 
-**19.**[^key-078a6c3b0dd1284250b0011a1a5cd71a] (1) The Secretary of State may not serve on a person a notice under paragraph 2(1) (notice of proposed monetary penalty) in relation to any act or omission in relation to which a stop notice has been served on that person.
+**19.**[^c-078a6c3b0dd1284250b0011a1a5cd71a] (1) The Secretary of State may not serve on a person a notice under paragraph 2(1) (notice of proposed monetary penalty) in relation to any act or omission in relation to which a stop notice has been served on that person.
 
 (2) The Secretary of State may not serve a stop notice on a person in relation to any act or omission in relation to which—
 
@@ -1383,11 +1383,11 @@ or on any other grounds that are prescribed.
 
 #### Unincorporated associations
 
-**20.**[^key-38917966dc1163d3eb2ef9271eb6134c] Any amount that is payable under this Schedule by an unincorporated association is to be paid out of the funds of the association.
+**20.**[^c-38917966dc1163d3eb2ef9271eb6134c] Any amount that is payable under this Schedule by an unincorporated association is to be paid out of the funds of the association.
 
 #### Guidance as to enforcement
 
-**21.**[^key-60d75e0ad561a4d9d8145195b0873356][^key-077a263857f0d571bbd580cdda0bb45d] (1) The Secretary of State must prepare and publish guidance as to—
+**21.**[^c-60d75e0ad561a4d9d8145195b0873356][^c-077a263857f0d571bbd580cdda0bb45d] (1) The Secretary of State must prepare and publish guidance as to—
 
 - (a) the sanctions that may be imposed on a person who commits an offence under section 12;
 - (b) the action that the Secretary of State may take in relation to such a person;
@@ -1429,11 +1429,11 @@ before publishing guidance or revised guidance under this paragraph.
 
 #### Pre-commencement consultation
 
-**22.**[^key-ddea4765101c0b8a2d4e5edd2dc4889f][^key-1ac89eef8184ed51c0f47859158ac1b1] If, before the day on which this Schedule comes into effect, any consultation was undertaken which, had it been undertaken after that day, would to any extent have satisfied the requirements of paragraph 15 or 21, those requirements may to that extent be taken to have been satisfied.
+**22.**[^c-ddea4765101c0b8a2d4e5edd2dc4889f][^c-1ac89eef8184ed51c0f47859158ac1b1] If, before the day on which this Schedule comes into effect, any consultation was undertaken which, had it been undertaken after that day, would to any extent have satisfied the requirements of paragraph 15 or 21, those requirements may to that extent be taken to have been satisfied.
 
 #### Reports on use of civil sanctions
 
-**23.**[^key-8cbd34c46a85cf2db6d0b5f13c567805] (1) The Secretary of State must from time to time publish reports about the use made by the Secretary of State of his or her powers under this Schedule.
+**23.**[^c-8cbd34c46a85cf2db6d0b5f13c567805] (1) The Secretary of State must from time to time publish reports about the use made by the Secretary of State of his or her powers under this Schedule.
 
 (2) Each report must, in particular, specify—
 
@@ -1448,7 +1448,7 @@ before publishing guidance or revised guidance under this paragraph.
 
 #### Disclosure of information
 
-**24.**[^key-a05ce900bd2a43a98ef1023a5060002d] (1) Information held by or on behalf of—
+**24.**[^c-a05ce900bd2a43a98ef1023a5060002d] (1) Information held by or on behalf of—
 
 - (a) a police or customs officer,
 - (b) the Crown Prosecution Service,
@@ -1474,7 +1474,7 @@ may be disclosed to the Secretary of State for the purpose of the exercise by th
 
 #### Interpretation of Schedule
 
-**25.**[^key-358a907004e80b824ab0da4c5818f7d9][^key-902fa91c215e9521ac2f827039f1e70e] In this Schedule—
+**25.**[^c-358a907004e80b824ab0da4c5818f7d9][^c-902fa91c215e9521ac2f827039f1e70e] In this Schedule—
 
 - “**completion certificate**” has the meaning given by paragraph 7(2);
 - “**enforcement cost recovery notice**” has the meaning given by paragraph 11(2);
@@ -1494,14 +1494,14 @@ Section 18
 
 #### Application of this Schedule
 
-**1.**[^key-e9a955e59ecfa0140911a5d745293587] This Schedule applies to—
+**1.**[^c-e9a955e59ecfa0140911a5d745293587] This Schedule applies to—
 
 - (a) applications for search warrants made in England and Wales or Northern Ireland;
 - (b) search warrants issued in England and Wales or Northern Ireland.
 
 #### Interpretation
 
-**2.**[^key-4f3bab91f23141678dab613c8f36e1de] In this Schedule—
+**2.**[^c-4f3bab91f23141678dab613c8f36e1de] In this Schedule—
 
 - “**senior officer**” means—
   - (a) a constable of at least the rank of inspector;
@@ -1513,7 +1513,7 @@ Section 18
 
 #### Applications for warrants
 
-**3.**[^key-a8a5c33350c1d8c1aed253f8bf0f1df8] (1) A person applying for a search warrant must—
+**3.**[^c-a8a5c33350c1d8c1aed253f8bf0f1df8] (1) A person applying for a search warrant must—
 
 - (a) state that the application is made under section 17 of this Act;
 - (b) specify the matters set out in sub-paragraph (2) or (3) (as the case may be);
@@ -1536,9 +1536,9 @@ Section 18
 
 #### Safeguards in connection with power of entry conferred by warrant
 
-**4.**[^key-2c77498122fe40d0d2f222d1d1e39b42] A search warrant authorises entry on one occasion only, unless it specifies that it authorises multiple entries.
+**4.**[^c-2c77498122fe40d0d2f222d1d1e39b42] A search warrant authorises entry on one occasion only, unless it specifies that it authorises multiple entries.
 
-**5.**[^key-793a21c47d5f06892e5c75a66f120882] A search warrant must—
+**5.**[^c-793a21c47d5f06892e5c75a66f120882] A search warrant must—
 
 - (a) specify the name of the person who applied for it;
 - (b) specify the date on which it is issued;
@@ -1546,7 +1546,7 @@ Section 18
 - (d) specify each set of premises to be searched, or (in the case of an all-premises warrant) the person who is in occupation or control of premises to be searched, together with any premises to be searched that are under the person's occupation or control and can be specified;
 - (e) specify the offence to which the relevant evidence relates.
 
-**6.**[^key-042774b1a84bbb0abab182e1589058f0] (1) Two copies must be made of a search warrant that specifies only one set of premises and does not authorise multiple entries.
+**6.**[^c-042774b1a84bbb0abab182e1589058f0] (1) Two copies must be made of a search warrant that specifies only one set of premises and does not authorise multiple entries.
 
 (2) As many copies as are reasonably required may be made of any other kind of search warrant.
 
@@ -1556,27 +1556,27 @@ Section 18
 
 #### Warrant to be executed within one month
 
-**7.**[^key-b1e526213eaf34aa78ae8dcf7290ca4c] Entry and search under a search warrant must be within the period of one month starting with the date of its issue.
+**7.**[^c-b1e526213eaf34aa78ae8dcf7290ca4c] Entry and search under a search warrant must be within the period of one month starting with the date of its issue.
 
 #### All-premises warrants
 
-**8.**[^key-ef3728d36ba6a8e8650952a4e0c119ed] (1) In the case of an all-premises warrant, premises that are not specified in the warrant may be entered and searched only if a senior officer has authorised them to be entered.
+**8.**[^c-ef3728d36ba6a8e8650952a4e0c119ed] (1) In the case of an all-premises warrant, premises that are not specified in the warrant may be entered and searched only if a senior officer has authorised them to be entered.
 
 (2) An authorisation under sub-paragraph (1) must be in writing.
 
 #### Search of premises more than once
 
-**9.**[^key-a04c0f5bef6fbd57a044113ca9b2966b] (1) Premises may be entered or searched for the second or a subsequent time under a search warrant authorising multiple entries only if a senior officer has authorised that entry to the premises.
+**9.**[^c-a04c0f5bef6fbd57a044113ca9b2966b] (1) Premises may be entered or searched for the second or a subsequent time under a search warrant authorising multiple entries only if a senior officer has authorised that entry to the premises.
 
 (2) An authorisation under sub-paragraph (1) must be in writing.
 
 #### Time of search
 
-**10.**[^key-8de7148c4e29491be019160c50bcca1a] Entry and search under a search warrant must be at a reasonable hour unless it appears to the officer executing it that the purpose of a search may be frustrated or seriously prejudiced on an entry at a reasonable hour.
+**10.**[^c-8de7148c4e29491be019160c50bcca1a] Entry and search under a search warrant must be at a reasonable hour unless it appears to the officer executing it that the purpose of a search may be frustrated or seriously prejudiced on an entry at a reasonable hour.
 
 #### Evidence of authority etc
 
-**11.**[^key-c9aab347145c44b646f3f491ee330c27] (1) Where the occupier of premises to be entered and searched under a search warrant is present at the time when a police or customs officer seeks to execute the warrant, the following requirements must be satisfied—
+**11.**[^c-c9aab347145c44b646f3f491ee330c27] (1) Where the occupier of premises to be entered and searched under a search warrant is present at the time when a police or customs officer seeks to execute the warrant, the following requirements must be satisfied—
 
 - (a) the occupier must be told the officer's name;
 - (b) if not a constable in uniform, the officer must produce to the occupier documentary evidence that the officer is a police or customs officer;
@@ -1589,15 +1589,15 @@ Section 18
 
 #### Extent of search
 
-**12.**[^key-3045641c56fe662686cf98254e80b5a0] A search under a search warrant may only be a search to the extent required for the purpose for which the warrant was issued.
+**12.**[^c-3045641c56fe662686cf98254e80b5a0] A search under a search warrant may only be a search to the extent required for the purpose for which the warrant was issued.
 
 #### Securing premises after entry
 
-**13.**[^key-6065897fc8c7c1f103d15af57f2110ed] A police or customs officer who enters premises under a search warrant must take reasonable steps to ensure that when the officer leaves the premises they are as secure as they were before the officer entered.
+**13.**[^c-6065897fc8c7c1f103d15af57f2110ed] A police or customs officer who enters premises under a search warrant must take reasonable steps to ensure that when the officer leaves the premises they are as secure as they were before the officer entered.
 
 #### Return and retention of warrant
 
-**14.**[^key-01d14f6a2f11a53c717160911f147172] (1) A search warrant must be returned to the appropriate person (see sub-paragraph (2))—
+**14.**[^c-01d14f6a2f11a53c717160911f147172] (1) A search warrant must be returned to the appropriate person (see sub-paragraph (2))—
 
 - (a) when the warrant has been executed, or
 - (b) on or before the expiry of the period of one month starting with the date of its issue, if the warrant is—
@@ -1616,244 +1616,244 @@ Section 18
 
 ## Annotations
 
-[^key-b0b1ca6906903f07542efd3c27de2d4d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/30/section/1) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 2](https://www.legislation.gov.uk/uksi/2022/93/regulation/2)
+[^c-b0b1ca6906903f07542efd3c27de2d4d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/30/section/1) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 2](https://www.legislation.gov.uk/uksi/2022/93/regulation/2)
 
-[^key-1a2248d7e4b71d2cc0be1cc8627da7b7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/30/section/1) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 2](https://www.legislation.gov.uk/uksi/2022/288/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-1a2248d7e4b71d2cc0be1cc8627da7b7]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2018/30/section/1) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 2](https://www.legislation.gov.uk/uksi/2022/288/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-283139772519a2449bf2f4e27a30fb8d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/30/section/2) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/a)
+[^c-283139772519a2449bf2f4e27a30fb8d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/30/section/2) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/a)
 
-[^key-5dcf2a88c3b56225351677768531775c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/30/section/2) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/a)
+[^c-5dcf2a88c3b56225351677768531775c]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2018/30/section/2) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/a)
 
-[^key-d0cbf9080b90d2dc5c8517793feed333]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/30/section/3) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/b)
+[^c-d0cbf9080b90d2dc5c8517793feed333]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/30/section/3) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/b)
 
-[^key-fe37558cd06ae876c2c8d5a623750fec]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/30/section/3) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/b)
+[^c-fe37558cd06ae876c2c8d5a623750fec]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/30/section/3) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/b)
 
-[^key-588f04c7719fdbb2c1922e9e1a894f3d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/30/section/4) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/c)
+[^c-588f04c7719fdbb2c1922e9e1a894f3d]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/30/section/4) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/c)
 
-[^key-c184bd37cb4c26cf2b23467167718dbf]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/30/section/4) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/c)
+[^c-c184bd37cb4c26cf2b23467167718dbf]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2018/30/section/4) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/c)
 
-[^key-310372a629a5413943a730bad6778348]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/30/section/5) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/d)
+[^c-310372a629a5413943a730bad6778348]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/30/section/5) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/d)
 
-[^key-617ea80d213fec5b4a80cbd24eb89f2c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/30/section/5) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/d)
+[^c-617ea80d213fec5b4a80cbd24eb89f2c]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2018/30/section/5) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/d)
 
-[^key-20630d98bec1b6267ea9468f9bc697ea]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/30/section/6) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/e)
+[^c-20630d98bec1b6267ea9468f9bc697ea]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/30/section/6) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/e)
 
-[^key-5592a40c52f2ea51b3ba31e0544572be]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/30/section/6) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/e)
+[^c-5592a40c52f2ea51b3ba31e0544572be]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2018/30/section/6) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/e)
 
-[^key-807fe41c4ea4eaee3728ca2afd896213]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/30/section/7) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/f)
+[^c-807fe41c4ea4eaee3728ca2afd896213]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/30/section/7) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/f)
 
-[^key-37020021d291cc2571e1cbe63f277892]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/30/section/7) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/f)
+[^c-37020021d291cc2571e1cbe63f277892]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2018/30/section/7) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/f)
 
-[^key-fe721bad570b267a89e7cfac9832bd6c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/30/section/8) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/g)
+[^c-fe721bad570b267a89e7cfac9832bd6c]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/30/section/8) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/g)
 
-[^key-69301c40b813877543b90de957bd83f1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/30/section/8) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/g)
+[^c-69301c40b813877543b90de957bd83f1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2018/30/section/8) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/g)
 
-[^key-06a57faeef5795527554a9041e453bc1]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2018/30/section/9) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/h)
+[^c-06a57faeef5795527554a9041e453bc1]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2018/30/section/9) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/h)
 
-[^key-7ebc77b399ba42e796e19876c6afee41]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2018/30/section/9) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/h)
+[^c-7ebc77b399ba42e796e19876c6afee41]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2018/30/section/9) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/h)
 
-[^key-89fa66c5135289cc82bef1af93c31b8d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/30/section/10) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/i)
+[^c-89fa66c5135289cc82bef1af93c31b8d]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/30/section/10) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/i)
 
-[^key-92acf749bf6156691b879b43eeca10a3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/30/section/10) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/i)
+[^c-92acf749bf6156691b879b43eeca10a3]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2018/30/section/10) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/i)
 
-[^key-c256bcab7fb1d19af75e96eaca0a9c06]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2018/30/section/11) in force at 24.2.2022 by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/93/regulation/4/a)
+[^c-c256bcab7fb1d19af75e96eaca0a9c06]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2018/30/section/11) in force at 24.2.2022 by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/93/regulation/4/a)
 
-[^key-1efa2dafeaf3c811aacbc2f9916ad87e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2018/30/section/12) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-1efa2dafeaf3c811aacbc2f9916ad87e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2018/30/section/12) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-29e01e33dbd2061f436e081e15333e3f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2018/30/section/12) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-29e01e33dbd2061f436e081e15333e3f]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2018/30/section/12) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-0e9529a16f6f730deb4738d6a20c8cbb]: Textual amendment: Words in [s. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2018/30/section/12/4/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-0e9529a16f6f730deb4738d6a20c8cbb]: Textual amendment: Words in [s. 12(4)(a)](https://www.legislation.gov.uk/ukpga/2018/30/section/12/4/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-8a9d9f5419cdf920d25311ba69085e40]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/ukpga/2018/30/section/12/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-8a9d9f5419cdf920d25311ba69085e40]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/ukpga/2018/30/section/12/5) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-f048baedc3c4bdb4ae00ace9a8e1a7ab]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/ukpga/2018/30/section/12/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-f048baedc3c4bdb4ae00ace9a8e1a7ab]: Textual amendment: Words in [s. 12(5)](https://www.legislation.gov.uk/ukpga/2018/30/section/12/5) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-ee085d99ad5ec08e3775df00ba20d9f0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/30/section/13) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-ee085d99ad5ec08e3775df00ba20d9f0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/30/section/13) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-feadd95b725fa9f8bbef945d725ae6d9]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/30/section/13) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-feadd95b725fa9f8bbef945d725ae6d9]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2018/30/section/13) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-77995121dc296bc6c714a0d562068acc]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2018/30/section/14) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-77995121dc296bc6c714a0d562068acc]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2018/30/section/14) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-4ab3badf6b7e0e46add494769ae9863b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/30/section/15) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-4ab3badf6b7e0e46add494769ae9863b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2018/30/section/15) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-b4efa5006e64a7b240f0059a4738a404]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2018/30/section/16) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-b4efa5006e64a7b240f0059a4738a404]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2018/30/section/16) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-a912c6889fe2185b765c55b966ac1917]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2018/30/section/17) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-a912c6889fe2185b765c55b966ac1917]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2018/30/section/17) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/d) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-f87427d9b86f03bfaa8e2f43ed4e7609]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2018/30/section/18) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-f87427d9b86f03bfaa8e2f43ed4e7609]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2018/30/section/18) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-011277f57bf9c1f63205116adefd3101]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2018/30/section/19) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/f) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-011277f57bf9c1f63205116adefd3101]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2018/30/section/19) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(f)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/f) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-90e6b547e481a2178e7a1b2cb5ffaa17]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2018/30/section/20) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-90e6b547e481a2178e7a1b2cb5ffaa17]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2018/30/section/20) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-89dab0f27823d5009d68f5cd2f573265]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2018/30/section/21) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/h) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-89dab0f27823d5009d68f5cd2f573265]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2018/30/section/21) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/h) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-52fda45837df75de63634119e9c77923]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2018/30/section/22) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-52fda45837df75de63634119e9c77923]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2018/30/section/22) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/i) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-2ff950ea0c42d0a68ef3f7d29690ab53]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2018/30/section/23) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-2ff950ea0c42d0a68ef3f7d29690ab53]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2018/30/section/23) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/j) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-6515fab310d83cb2fa1065fc8554806a]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2018/30/section/24) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-6515fab310d83cb2fa1065fc8554806a]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2018/30/section/24) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(k)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/k) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-7b2d3921e0a945ac58238f3556adab7d]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2018/30/section/25) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/l) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-7b2d3921e0a945ac58238f3556adab7d]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2018/30/section/25) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/l) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-7d172fd8ce30420f7577df4bf12fc1a3]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2018/30/section/26) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/m) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-7d172fd8ce30420f7577df4bf12fc1a3]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2018/30/section/26) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(m)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/m) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-f1862a91374f6f2033ae2036c3aa092e]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2018/30/section/27) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(n)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/n) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-f1862a91374f6f2033ae2036c3aa092e]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2018/30/section/27) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(n)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/n) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-9e5f16b5649427ca9b2ff08a4da486c6]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2018/30/section/28) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/o) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-9e5f16b5649427ca9b2ff08a4da486c6]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2018/30/section/28) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(o)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/o) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-7f5bb0c85dc7015500b1d84370be6611]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2018/30/section/29) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(p)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/p) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-7f5bb0c85dc7015500b1d84370be6611]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2018/30/section/29) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(p)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/p) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-275308e08049b0526f8c2e8be2a58148]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2018/30/section/30) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(q)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/q) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-275308e08049b0526f8c2e8be2a58148]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2018/30/section/30) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(q)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/q) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-e8a2a4cabe4eea3141739b9b3720e433]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2018/30/section/31) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(r)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/r) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-e8a2a4cabe4eea3141739b9b3720e433]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2018/30/section/31) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(r)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/r) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-1611266429740615b79e5ac472356408]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2018/30/section/32) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(s)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/s) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-1611266429740615b79e5ac472356408]: Commencement: [S. 32](https://www.legislation.gov.uk/ukpga/2018/30/section/32) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(s)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/s) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-8ed2b85537ac64a7c94717d0aa197d05]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2018/30/section/33) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(t)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/t) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-8ed2b85537ac64a7c94717d0aa197d05]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2018/30/section/33) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(t)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/t) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-55d1ba89f83cb4f36ce5edd7cc321ab0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2018/30/section/34) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(u)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/u) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-55d1ba89f83cb4f36ce5edd7cc321ab0]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2018/30/section/34) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(u)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/u) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-d7edf11735e0d08579522e9feb59588f]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2018/30/section/35) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(v)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/v) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-d7edf11735e0d08579522e9feb59588f]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2018/30/section/35) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(v)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/v) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-33c16c57cf85a8718d5d120fe9153ba2]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2018/30/section/36) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(w)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/w) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-33c16c57cf85a8718d5d120fe9153ba2]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2018/30/section/36) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(w)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/w) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-a62eea0ad7bd9695c2c075dc8157bda9]: Commencement: [S. 37(1)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/1)[(7)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/7)[(8)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/8) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/j)
+[^c-a62eea0ad7bd9695c2c075dc8157bda9]: Commencement: [S. 37(1)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/1)[(7)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/7)[(8)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/8) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/j)
 
-[^key-47a46a8c2822fe3e1d8a4d1b9b99d527]: Commencement: [S. 37(1)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/1)[(7)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/7)[(8)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/8) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/j)
+[^c-47a46a8c2822fe3e1d8a4d1b9b99d527]: Commencement: [S. 37(1)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/1)[(7)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/7)[(8)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/8) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/j)
 
-[^key-59ee9ab016716f8233f5b1ef0ce87f97]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/1) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/2/a) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/3))
+[^c-59ee9ab016716f8233f5b1ef0ce87f97]: Textual amendment: Words in [s. 37(1)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/1) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/2/a) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/3))
 
-[^key-a01bb1da33ec8913c5ec31cc201c3861]: Commencement: [S. 37(2)-(6)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/2) in force at 21.5.2024 by [S.I. 2024/664](https://www.legislation.gov.uk/uksi/2024/664), [reg. 2](https://www.legislation.gov.uk/uksi/2024/664/regulation/2)
+[^c-a01bb1da33ec8913c5ec31cc201c3861]: Commencement: [S. 37(2)-(6)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/2) in force at 21.5.2024 by [S.I. 2024/664](https://www.legislation.gov.uk/uksi/2024/664), [reg. 2](https://www.legislation.gov.uk/uksi/2024/664/regulation/2)
 
-[^key-68f2ea2d88d9351f950e8d0e3dcc9bda]: Textual amendment: Words in [s. 37(7)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/7) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/2/b/i) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/3))
+[^c-68f2ea2d88d9351f950e8d0e3dcc9bda]: Textual amendment: Words in [s. 37(7)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/7) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/2/b/i) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/3))
 
-[^key-3db4e94c7c354f51998d3d3053db4edb]: Textual amendment: Words in [s. 37(7)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/7) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/2/b/ii) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/3))
+[^c-3db4e94c7c354f51998d3d3053db4edb]: Textual amendment: Words in [s. 37(7)](https://www.legislation.gov.uk/ukpga/2018/30/section/37/7) substituted (28.1.2025) by [The Ivory Act 2018 (Meaning of “Ivory” and Miscellaneous Amendments) Regulations 2025 (S.I. 2025/9)](https://www.legislation.gov.uk/uksi/2025/9), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/9/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/2/b/ii) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2025/9/regulation/2/3))
 
-[^key-19b12cbd0fa4fa19dea18e13802b12b5]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2018/30/section/38) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/k)
+[^c-19b12cbd0fa4fa19dea18e13802b12b5]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2018/30/section/38) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/k)
 
-[^key-4c5a699ac53231cf4a0555a3fac23766]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2018/30/section/38) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/k)
+[^c-4c5a699ac53231cf4a0555a3fac23766]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2018/30/section/38) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/k)
 
-[^key-f8c7ce265dba8d2ad5b711b231ba08a3]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2018/30/section/39) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/l)
+[^c-f8c7ce265dba8d2ad5b711b231ba08a3]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2018/30/section/39) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/l)
 
-[^key-6ef75111f42b30f883599bb7d05fd539]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2018/30/section/39) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/l)
+[^c-6ef75111f42b30f883599bb7d05fd539]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2018/30/section/39) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/l)
 
-[^key-21bc84221ec9ec39f534acc95aa24d32]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2018/30/section/40) in force at 24.2.2022 by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/93/regulation/4/b)
+[^c-21bc84221ec9ec39f534acc95aa24d32]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2018/30/section/40) in force at 24.2.2022 by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/93/regulation/4/b)
 
-[^key-2c7c380c20ae012f338df07957941d76]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2018/30/section/41) in force at 24.2.2022 by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/93/regulation/4/c)
+[^c-2c7c380c20ae012f338df07957941d76]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2018/30/section/41) in force at 24.2.2022 by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/93/regulation/4/c)
 
-[^key-8c7f897776a7ce0e465a8b046329058e]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2018/30/section/42) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/m)
+[^c-8c7f897776a7ce0e465a8b046329058e]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2018/30/section/42) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/m)
 
-[^key-28aab77ec0fcc26c4ebcdaca960dfe75]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2018/30/section/42) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/m)
+[^c-28aab77ec0fcc26c4ebcdaca960dfe75]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2018/30/section/42) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/m)
 
-[^key-f181b55b249636b6666ec29592ea23df]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2018/30/section/43) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/n)
+[^c-f181b55b249636b6666ec29592ea23df]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2018/30/section/43) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/n)
 
-[^key-b89f9a7212f30a19ce11f1edda692357]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2018/30/section/43) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/n)
+[^c-b89f9a7212f30a19ce11f1edda692357]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2018/30/section/43) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(n)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/n)
 
-[^key-92326052fd2d73521540bce166dd3b1a]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2018/30/section/44) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/o)
+[^c-92326052fd2d73521540bce166dd3b1a]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2018/30/section/44) in force at 1.2.2022 for specified purposes by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/o)
 
-[^key-345df967ea0d64be6c06c0cbfd5e7376]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2018/30/section/44) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/o)
+[^c-345df967ea0d64be6c06c0cbfd5e7376]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2018/30/section/44) in force at 24.2.2022 in so far as not already in force by [S.I. 2022/93](https://www.legislation.gov.uk/uksi/2022/93), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2022/93/regulation/3/o)
 
-[^key-307e400e9a98ae26010e6c1257e8e149]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/1) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-307e400e9a98ae26010e6c1257e8e149]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/1) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-82a35a0da84754003b4fff66bc633e14]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/1) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-82a35a0da84754003b4fff66bc633e14]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/1) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-1fab2f38dd1fb9a416db85f02a4e392e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/2) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-1fab2f38dd1fb9a416db85f02a4e392e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/2) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-536a3663ad479f76ab8f8ecc19f56bd8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/2) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-536a3663ad479f76ab8f8ecc19f56bd8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/2) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-a9967993fbdd76f6bf9a093df279acdd]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/3) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-a9967993fbdd76f6bf9a093df279acdd]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/3) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-2d4a7974dedd3c41b2c599ddb0cb1d74]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/3) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-2d4a7974dedd3c41b2c599ddb0cb1d74]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/3) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-5af158426c73d21fe0cf44cb73ac0882]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/4) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-5af158426c73d21fe0cf44cb73ac0882]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/4) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-8bd561aac6ee401c266931d001947192]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/5) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-8bd561aac6ee401c266931d001947192]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/5) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-9eaf13e2acd6fa4ab3636ed72215240e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/5) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-9eaf13e2acd6fa4ab3636ed72215240e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/5) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-acc955d370c17131eaaa2b1107844706]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/6) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-acc955d370c17131eaaa2b1107844706]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/6) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-4025fbf477a0622c3f5840a411cbd681]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/6) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-4025fbf477a0622c3f5840a411cbd681]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/6) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-1ca4c767671d4af91da1a8fcb3e44ea3]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/7) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-1ca4c767671d4af91da1a8fcb3e44ea3]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/7) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-f5f3641dd23b0e8d608600447754d2fa]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/7) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-f5f3641dd23b0e8d608600447754d2fa]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/7) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-6d22a4ab2ceb7ecba6f9d2f28a273f47]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/8) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-6d22a4ab2ceb7ecba6f9d2f28a273f47]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/8) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-498a084bb8ed12dd6821d687806d13d4]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/8) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-498a084bb8ed12dd6821d687806d13d4]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/8) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-81dfb70b9245d3d856bde91e23f0ab09]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/9) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-81dfb70b9245d3d856bde91e23f0ab09]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/9) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-3e3c72c5a387e2ec1807855ccd6ddeaf]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/10) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-3e3c72c5a387e2ec1807855ccd6ddeaf]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/10) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-41001434cbb41b646ab3f9190aebbb20]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/10) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-41001434cbb41b646ab3f9190aebbb20]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/10) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-578f2ce7ec2b0b8f95c3a8323f5d9cf5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/14) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-578f2ce7ec2b0b8f95c3a8323f5d9cf5]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/14) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-3ea92a54685e9c840b658450167a885c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/14) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-3ea92a54685e9c840b658450167a885c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/14) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-cb03fa1da58fa28ef72dc6259cba7b23]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/15) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-cb03fa1da58fa28ef72dc6259cba7b23]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/15) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-d1c14640051469a07b4d0e8eade58dcf]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/15) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-d1c14640051469a07b4d0e8eade58dcf]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/15) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-6178d0ea6f6e0946034c7bc4204aac38]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/16) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-6178d0ea6f6e0946034c7bc4204aac38]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/16) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-8c5a558e89603f88a7ca957a419033ea]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/16) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-8c5a558e89603f88a7ca957a419033ea]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/16) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-7c1ecde0a37b6f589738491f88f85cf6]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/17) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-7c1ecde0a37b6f589738491f88f85cf6]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/17) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-ac53d7be6f96bda26b43c823377cf093]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/17) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-ac53d7be6f96bda26b43c823377cf093]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/17) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-676a8f56cdec8877d40289d7538aeea9]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/18) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-676a8f56cdec8877d40289d7538aeea9]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/18) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-747227cc625103790e724de1cf6e74ae]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/18) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-747227cc625103790e724de1cf6e74ae]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/18) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-078a6c3b0dd1284250b0011a1a5cd71a]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/19) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-078a6c3b0dd1284250b0011a1a5cd71a]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/19) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-38917966dc1163d3eb2ef9271eb6134c]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/20) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-38917966dc1163d3eb2ef9271eb6134c]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/20) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-60d75e0ad561a4d9d8145195b0873356]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/21) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-60d75e0ad561a4d9d8145195b0873356]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/21) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-077a263857f0d571bbd580cdda0bb45d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/21) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-077a263857f0d571bbd580cdda0bb45d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/21) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-ddea4765101c0b8a2d4e5edd2dc4889f]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/22) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-ddea4765101c0b8a2d4e5edd2dc4889f]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/22) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-1ac89eef8184ed51c0f47859158ac1b1]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/22) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-1ac89eef8184ed51c0f47859158ac1b1]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/22) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-8cbd34c46a85cf2db6d0b5f13c567805]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/23) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-8cbd34c46a85cf2db6d0b5f13c567805]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/23) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-a05ce900bd2a43a98ef1023a5060002d]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/24) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-a05ce900bd2a43a98ef1023a5060002d]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/24) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(x)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/x) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-358a907004e80b824ab0da4c5818f7d9]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/25) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-358a907004e80b824ab0da4c5818f7d9]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/25) in force at 15.3.2022 for specified purposes by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-902fa91c215e9521ac2f827039f1e70e]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/25) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-902fa91c215e9521ac2f827039f1e70e]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/ukpga/2018/30/schedule/1/paragraph/25) in force at 6.6.2022 in so far as not already in force by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2022/288/regulation/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-e9a955e59ecfa0140911a5d745293587]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/1) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-e9a955e59ecfa0140911a5d745293587]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/1) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-4f3bab91f23141678dab613c8f36e1de]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/2) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-4f3bab91f23141678dab613c8f36e1de]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/2) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-a8a5c33350c1d8c1aed253f8bf0f1df8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/3) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-a8a5c33350c1d8c1aed253f8bf0f1df8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/3) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-2c77498122fe40d0d2f222d1d1e39b42]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/4) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-2c77498122fe40d0d2f222d1d1e39b42]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/4) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-793a21c47d5f06892e5c75a66f120882]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/5) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-793a21c47d5f06892e5c75a66f120882]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/5) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-042774b1a84bbb0abab182e1589058f0]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/6) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-042774b1a84bbb0abab182e1589058f0]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/6) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-b1e526213eaf34aa78ae8dcf7290ca4c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/7) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-b1e526213eaf34aa78ae8dcf7290ca4c]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/7) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-ef3728d36ba6a8e8650952a4e0c119ed]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/8) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-ef3728d36ba6a8e8650952a4e0c119ed]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/8) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-a04c0f5bef6fbd57a044113ca9b2966b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/9) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-a04c0f5bef6fbd57a044113ca9b2966b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/9) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-8de7148c4e29491be019160c50bcca1a]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/10) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-8de7148c4e29491be019160c50bcca1a]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/10) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-c9aab347145c44b646f3f491ee330c27]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/11) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-c9aab347145c44b646f3f491ee330c27]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/11) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-3045641c56fe662686cf98254e80b5a0]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/12) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-3045641c56fe662686cf98254e80b5a0]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/12) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-6065897fc8c7c1f103d15af57f2110ed]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/13) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-6065897fc8c7c1f103d15af57f2110ed]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/13) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
 
-[^key-01d14f6a2f11a53c717160911f147172]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/14) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))
+[^c-01d14f6a2f11a53c717160911f147172]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2018/30/schedule/2/paragraph/14) in force at 6.6.2022 by [S.I. 2022/288](https://www.legislation.gov.uk/uksi/2022/288), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2022/288/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2022/288/regulation/5))

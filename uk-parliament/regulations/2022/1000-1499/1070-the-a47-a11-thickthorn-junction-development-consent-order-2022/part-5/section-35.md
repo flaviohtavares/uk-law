@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Temporary use of land for maintaining the authorised development[^key-2ba4c68079ba6391d90f63211022c42b]
+## 35. Temporary use of land for maintaining the authorised development[^c-2ba4c68079ba6391d90f63211022c42b]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ and in such circumstances, the undertaker may enter the land under paragraph (1)
 
 ## Annotations
 
-[^key-2ba4c68079ba6391d90f63211022c42b]: Commencement: Art. 35 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-2ba4c68079ba6391d90f63211022c42b]: Commencement: Art. 35 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)

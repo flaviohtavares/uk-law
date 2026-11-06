@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The appropriate authority may make regulations laying[^key-1da34618ade82173a8e74268b6052770] down rules on:
+The appropriate authority may make regulations laying[^c-1da34618ade82173a8e74268b6052770] down rules on:
 
 - ((a)) the format of the CHED and the instructions for its presentation and use, taking into account relevant international standards; and
-- ((b)) the minimum time requirements for prior notification of consignments by operators responsible for the consignment as provided for in point (a) of Article 56(3) in order to enable the competent authorities [^key-06bca7ce3db4ae20f550fdd0f7e6342d]... to perform official controls in a timely and effective manner.
+- ((b)) the minimum time requirements for prior notification of consignments by operators responsible for the consignment as provided for in point (a) of Article 56(3) in order to enable the competent authorities [^c-06bca7ce3db4ae20f550fdd0f7e6342d]... to perform official controls in a timely and effective manner.
 
-[^key-a4ecd143ce9335415d23c1418308f8fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4ecd143ce9335415d23c1418308f8fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1da34618ade82173a8e74268b6052770]: Textual amendment: Words in [Art. 58](https://www.legislation.gov.uk/eur/2017/625/article/58) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(11)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/11/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-1da34618ade82173a8e74268b6052770]: Textual amendment: Words in [Art. 58](https://www.legislation.gov.uk/eur/2017/625/article/58) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(11)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/11/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-06bca7ce3db4ae20f550fdd0f7e6342d]: Textual amendment: Words in [Art. 58(b)](https://www.legislation.gov.uk/eur/2017/625/article/58/b) omitted (10.2.2025) by virtue of [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [18](https://www.legislation.gov.uk/uksi/2025/102/regulation/18)
+[^c-06bca7ce3db4ae20f550fdd0f7e6342d]: Textual amendment: Words in [Art. 58(b)](https://www.legislation.gov.uk/eur/2017/625/article/58/b) omitted (10.2.2025) by virtue of [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [18](https://www.legislation.gov.uk/uksi/2025/102/regulation/18)
 
-[^key-a4ecd143ce9335415d23c1418308f8fd]: Textual amendment: Words in [Art. 58](https://www.legislation.gov.uk/eur/2017/625/article/58) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(11)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/11/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-a4ecd143ce9335415d23c1418308f8fd]: Textual amendment: Words in [Art. 58](https://www.legislation.gov.uk/eur/2017/625/article/58) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [11(11)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/11/11/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

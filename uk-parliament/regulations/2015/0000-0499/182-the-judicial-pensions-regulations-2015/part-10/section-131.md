@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Application of Part[^key-11c1a1b21c860f9470920fab24b92922]
+## 131. Application of Part[^c-11c1a1b21c860f9470920fab24b92922]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ This Part—
 
 ## Annotations
 
-[^key-11c1a1b21c860f9470920fab24b92922]: Commencement: [Reg. 131](https://www.legislation.gov.uk/uksi/2015/182/regulation/131) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-11c1a1b21c860f9470920fab24b92922]: Commencement: [Reg. 131](https://www.legislation.gov.uk/uksi/2015/182/regulation/131) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00047]: Footnote: Chapter 5 of Part 4 of the Pension Schemes Act 1993 was inserted by the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35) section 264.

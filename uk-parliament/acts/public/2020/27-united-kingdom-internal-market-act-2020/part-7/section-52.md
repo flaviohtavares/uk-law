@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Regulation of distortive or harmful subsidies[^key-21e11b3a6baccf4a7eb1ba40e0d427aa]
+## 52. Regulation of distortive or harmful subsidies[^c-21e11b3a6baccf4a7eb1ba40e0d427aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21e11b3a6baccf4a7eb1ba40e0d427aa]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2020/27/section/52) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/i)
+[^c-21e11b3a6baccf4a7eb1ba40e0d427aa]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2020/27/section/52) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/i)

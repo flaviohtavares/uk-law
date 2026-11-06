@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Review of land management orders[^key-630d5c2c5fe1ad5c0091dd5de1890f54][^key-99b362b56cc9ba95cdfacfa5fb68b659][^key-99b362b56cc9ba95cdfacfa5fb68b659]
+## 32. Review of land management orders[^c-630d5c2c5fe1ad5c0091dd5de1890f54][^c-99b362b56cc9ba95cdfacfa5fb68b659][^c-99b362b56cc9ba95cdfacfa5fb68b659]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-630d5c2c5fe1ad5c0091dd5de1890f54]: Commencement: S. 32 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-630d5c2c5fe1ad5c0091dd5de1890f54]: Commencement: S. 32 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
 
-[^key-99b362b56cc9ba95cdfacfa5fb68b659]: Modification: Pt. 2 Ch. 3 applied (with modifications) by S.I. 1994/2716, regs. 19, 21 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))
+[^c-99b362b56cc9ba95cdfacfa5fb68b659]: Modification: Pt. 2 Ch. 3 applied (with modifications) by S.I. 1994/2716, regs. 19, 21 (as substituted (29.11.2004) by [Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2004 (S.S.I. 2004/475)](https://www.legislation.gov.uk/ssi/2004/475), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/475/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2004/475/regulation/9) (with [regs. 20-21](https://www.legislation.gov.uk/ssi/2004/475/regulation/20)))

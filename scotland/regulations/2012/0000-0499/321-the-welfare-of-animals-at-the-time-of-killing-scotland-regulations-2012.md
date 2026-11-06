@@ -74,16 +74,16 @@ These Regulations—
 - “**competent authority**” has the meaning given in regulation 3;
 - “**enforcement authority**” means an authority that enforces the EU Regulation and these Regulations under regulation 18;
 - “**EU Regulation**” means Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) on the protection of animals at the time of killing [^c21450621];
-- “[^key-57cbfdea8fb2dc7e047e417af382b9cb]**the Professional Qualifications Regulations 2023**” means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023,
+- “[^c-57cbfdea8fb2dc7e047e417af382b9cb]**the Professional Qualifications Regulations 2023**” means the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023,
 - “**qualification certificate**” means—
-  - (a) a certificate granted by a body—[^key-92e7da98f69f0addafa8cc3f71fd14a3]
-    - ((i)) recognised and regulated by[^key-450681d3102308a8574634da0615b353] Qualifications Scotland[^key-d78b3cde6449afc1d065e1e05b525c26] or an equivalent body in England, Wales or Northern Ireland; and
+  - (a) a certificate granted by a body—[^c-92e7da98f69f0addafa8cc3f71fd14a3]
+    - ((i)) recognised and regulated by[^c-450681d3102308a8574634da0615b353] Qualifications Scotland[^c-d78b3cde6449afc1d065e1e05b525c26] or an equivalent body in England, Wales or Northern Ireland; and
     - ((ii)) which oversees the training and assessment of persons carrying out the killing of animals and related operations confirming the passing of an independent examination as provided for in Article 21; or
-  - (aa) a document attesting the passing of an independent final examination issued by—[^key-4a4d490c5b8618a8b98306a0fef354f1]
+  - (aa) a document attesting the passing of an independent final examination issued by—[^c-4a4d490c5b8618a8b98306a0fef354f1]
     - ((i)) a body designated by the Republic of Ireland as responsible for delivering certificates in accordance with Article 21(1) of the EU Regulation as it has effect in EU law as amended from time to time, or
     - ((ii)) a body to whom the function of the final examination or the issuing of certificates has been delegated in the Republic of Ireland in accordance with Article 21(2) of the EU Regulation as it has effect in EU law as amended from time to time, or
-  - (ab) a certificate issued in the Republic of Ireland in reliance on article 29(2) of the EU Regulation, [^key-2f2ba8ea19479d9e1b37209f1bfad3d9]...
-  - (ac) a qualification which has been recognised under Part 2 of the Professional Qualifications Regulations 2023 in relation to an operation specified in regulation 5, or[^key-206937888114cc7e57ac153a41c4cb75]
+  - (ab) a certificate issued in the Republic of Ireland in reliance on article 29(2) of the EU Regulation, [^c-2f2ba8ea19479d9e1b37209f1bfad3d9]...
+  - (ac) a qualification which has been recognised under Part 2 of the Professional Qualifications Regulations 2023 in relation to an operation specified in regulation 5, or[^c-206937888114cc7e57ac153a41c4cb75]
   - (b) a licence granted by the Rabbinical Commission for the purpose of slaughtering animals in accordance with the Jewish method (Schechita) and confirming the passing of an independent examination as provided for in Article 21;
 - “**Rabbinical Commission**” means the body responsible for licensing persons carrying out the slaughter of animals in accordance with the Jewish method (Schochetim);
 - “**stunning pen**” means a pen or compartment which is suitable for confining a bovine animal for the purpose of stunning and is constructed so as to—
@@ -101,13 +101,13 @@ These Regulations—
 
 ### 3. The competent authority
 
-(1) Food Standards Scotland[^key-a6e63da65fa93df2c289e6c9a9e592ba] is the competent authority for the purposes of—
+(1) Food Standards Scotland[^c-a6e63da65fa93df2c289e6c9a9e592ba] is the competent authority for the purposes of—
 
 - (a) Part 2 (certificates of competence);
 - (b) in relation to the slaughtering of animals in a slaughterhouse—
   - (i) receiving documents or records in accordance with Articles 6(4), 9(1) and 17(5);
   - (ii) receiving and assessing information in accordance with Article 14(2); and
-  - (iii) taking action in the event of non-compliance with the EU Regulation in accordance with Article 138 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products[^key-9aaad7c7851ad8005c18f87e521d5b6c].
+  - (iii) taking action in the event of non-compliance with the EU Regulation in accordance with Article 138 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products[^c-9aaad7c7851ad8005c18f87e521d5b6c].
 
 (2) Otherwise, the Scottish Ministers are the competent authority for the purposes of the EU Regulation and these Regulations.
 
@@ -174,7 +174,7 @@ The competent authority must grant a certificate if—
 
 The applicant must—
 
-- (a)[^key-e4008f65c40e09e1b58b833ba3cf4d0d] submit a qualification certificate in respect of the operation, category of animal and, where appropriate, type of equipment for which a certificate is sought,
+- (a)[^c-e4008f65c40e09e1b58b833ba3cf4d0d] submit a qualification certificate in respect of the operation, category of animal and, where appropriate, type of equipment for which a certificate is sought,
 - (b) submit a written declaration in accordance with Article 21(6);
 - (c) provide written details if the applicant has—
   - (i) been convicted of an offence concerning the welfare of animals;
@@ -228,7 +228,7 @@ The applicant must—
 (1) Where paragraph (2) applies, the competent authority may, by notice in writing, suspend or revoke—
 
 - (a) a certificate or a temporary certificate; or
-- (b) a document issued elsewhere in the United Kingdom [^key-47e9fee51b9927bc89624ae745ffa3a9]... which corresponds to a certificate or a temporary certificate.
+- (b) a document issued elsewhere in the United Kingdom [^c-47e9fee51b9927bc89624ae745ffa3a9]... which corresponds to a certificate or a temporary certificate.
 
 (2) This paragraph applies where the competent authority is satisfied that the holder—
 
@@ -303,7 +303,7 @@ The competent authority may charge an applicant for, or a holder of, a certifica
 
 (1) Subject to paragraph (2), the EU Regulation and these Regulations are enforced by the Scottish Ministers.
 
-(2) At a slaughterhouse, the EU Regulation and these Regulations are enforced by Food Standards Scotland[^key-5f16ce66e02ff2a4d657d77fb335192d].
+(2) At a slaughterhouse, the EU Regulation and these Regulations are enforced by Food Standards Scotland[^c-5f16ce66e02ff2a4d657d77fb335192d].
 
 ### 19. Powers of entry
 
@@ -311,7 +311,7 @@ The competent authority may charge an applicant for, or a holder of, a certifica
 
 (2) In this regulation “**premises**” means any land, building, shed, pen, receptacle or vehicle, of any description.
 
-(3) The authorised person may be accompanied by such other persons as the authorised person considers necessary [^key-2c3f5394899a337b1ba95d5475f42bfc]... .
+(3) The authorised person may be accompanied by such other persons as the authorised person considers necessary [^c-2c3f5394899a337b1ba95d5475f42bfc]... .
 
 (4) Admission to any premises used only as a dwellinghouse may not be demanded as of right unless the entry is in accordance with a warrant granted under this regulation.
 
@@ -441,7 +441,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 may appeal to the sheriff against the decision or the notice.
 
-(1A)[^key-2919193c90e0c67db007b0802cbe22d8] A person who is aggrieved by a decision of the competent authority not to recognise a qualification under Part 2 of the Professional Qualifications Regulations 2023 in relation to an operation specified in regulation 5 may appeal to the sheriff against the decision.
+(1A)[^c-2919193c90e0c67db007b0802cbe22d8] A person who is aggrieved by a decision of the competent authority not to recognise a qualification under Part 2 of the Professional Qualifications Regulations 2023 in relation to an operation specified in regulation 5 may appeal to the sheriff against the decision.
 
 (1B) In paragraph (1A), the reference to a decision of the competent authority not to recognise a person’s qualification under Part 2 of the Professional Qualifications Regulations 2023 is to be treated as including any failure by the competent authority to notify the applicant of its decision concerning the person’s application within the period of four months beginning with the day after the day on which the person submitted a complete application to the competent authority under Part 2 of the Professional Qualifications Regulations 2023.
 
@@ -532,7 +532,7 @@ The repeals and revocations in Schedule 5 have effect.
 
 - (a) revoke regulation 4 (humane treatment of animals);
 - (b) revoke regulation 6(1)(d) (animal welfare legislation and codes);
-- (ba)[^key-059b152432932ca60e6add69ae99c13f] revoke regulation 7 (codes of practice);
+- (ba)[^c-059b152432932ca60e6add69ae99c13f] revoke regulation 7 (codes of practice);
 - (c) revoke regulation 22 (exemption for slaughter by a religious method);
 - (d) revoke Schedule 1 (the licensing of slaughtermen);
 - (e) in Schedule 2, revoke paragraph 1(a) (general requirements for all slaughterhouses and knackers' yards);
@@ -609,10 +609,10 @@ Where a slaughterhouse is one in which horses are killed, the business operator 
 
 (1) No person may use a captive bolt device to stun an animal unless—
 
-- (a) subject to sub-paragraphs (2) and (3)[^key-000e4fc08e2aa7be23b9f5c0fbbe74ea], the instrument is positioned and applied so as to ensure that the projectile enters the cerebral cortex; and
+- (a) subject to sub-paragraphs (2) and (3)[^c-000e4fc08e2aa7be23b9f5c0fbbe74ea], the instrument is positioned and applied so as to ensure that the projectile enters the cerebral cortex; and
 - (b) the correct strength of cartridge or other propellant is used, in accordance with the manufacturer's instructions, to produce an effective stun.
 
-(2) No person may shoot a bovine animal , other than a water buffalo,[^key-92ec1870f257040e55d40c87bd89eb37] in the back of the head.
+(2) No person may shoot a bovine animal , other than a water buffalo,[^c-92ec1870f257040e55d40c87bd89eb37] in the back of the head.
 
 (3) No person may shoot a sheep or goat in the back of the head, unless the presence of horns prevents use of the top or the front of its head, in which case it may be shot in the back of the head provided that—
 
@@ -629,38 +629,38 @@ No person may use a waterbath stunner to stun poultry unless—
 - (b) it is adequate in size and depth for the type of poultry being slaughtered; and
 - (c) a person is available to ascertain whether it has been effective in stunning the birds and who, where it has not been effective, will either stun and slaughter or kill any bird without delay.
 
-### 9. Gas killing of pigs[^key-4f75ea5a763937b3ccf0d0989a162ebf]
+### 9. Gas killing of pigs[^c-4f75ea5a763937b3ccf0d0989a162ebf]
 
-(1) No person may kill[^key-caf8f562d420fb0b9e915ef866ba3b6b] a pig by exposure to gas unless—
+(1) No person may kill[^c-caf8f562d420fb0b9e915ef866ba3b6b] a pig by exposure to gas unless—
 
-- (a) the gas chamber[^key-d5330222025a35220548a71d6da17994] provided for that purpose, including any equipment used for conveying a pig through the gas mixture, is designed, constructed and maintained so as to enable each pig—
+- (a) the gas chamber[^c-d5330222025a35220548a71d6da17994] provided for that purpose, including any equipment used for conveying a pig through the gas mixture, is designed, constructed and maintained so as to enable each pig—
   - (i) to remain upright until it loses consciousness; and
   - (ii) to see other pigs as it is conveyed into the chamber;
-- (b) adequate lighting is provided in the gas chamber[^key-0f6d3d16269d62b5c31c7ec04feae6f2] and conveying mechanism to allow pigs to see other pigs or their surroundings;
-- (c) the gas chamber[^key-eba592377ea641d708cfa78cbaf6a26e] is equipped to maintain the required gas concentration (in accordance with Table 3 of Chapter I of Annex I) in the gas chamber;
-- (d) there is a means of flushing the gas chamber[^key-a2a1dc7b2ae8990872785f01600c54e7] with atmospheric air with the minimum of delay; and
+- (b) adequate lighting is provided in the gas chamber[^c-0f6d3d16269d62b5c31c7ec04feae6f2] and conveying mechanism to allow pigs to see other pigs or their surroundings;
+- (c) the gas chamber[^c-eba592377ea641d708cfa78cbaf6a26e] is equipped to maintain the required gas concentration (in accordance with Table 3 of Chapter I of Annex I) in the gas chamber;
+- (d) there is a means of flushing the gas chamber[^c-a2a1dc7b2ae8990872785f01600c54e7] with atmospheric air with the minimum of delay; and
 - (e) there is a means of access to any pig with the minimum of delay.
 
-(2) The business operator of a slaughterhouse and any person engaged in the killing[^key-f29dabab0c318574b2bc99dc766281ba] of pigs by exposure to gas must ensure that—
+(2) The business operator of a slaughterhouse and any person engaged in the killing[^c-f29dabab0c318574b2bc99dc766281ba] of pigs by exposure to gas must ensure that—
 
 - (a) no pig enters the gas chamber if the displayed concentration by volume of carbon dioxide falls below the required gas concentration; and
 - (b) no pig is allowed to pass through or allowed to remain in the chamber at any time when the visible and audible warning signals have been activated or when there is any defect in the operation of the chamber.
 
-**10.** In the case of killing[^key-3f6dcf3581f2aa6df751f835a18189c0] by exposure to gas mixture 1 in Table 3 of Chapter I of Annex I (“carbon dioxide at high concentration”), once a pig enters the gas chamber[^key-96b56130e4bfdc9330cada1873462e9d] it must be conveyed to the point in the gas chamber of maximum concentration of the gas mixture within a maximum period of 30 seconds.
+**10.** In the case of killing[^c-3f6dcf3581f2aa6df751f835a18189c0] by exposure to gas mixture 1 in Table 3 of Chapter I of Annex I (“carbon dioxide at high concentration”), once a pig enters the gas chamber[^c-96b56130e4bfdc9330cada1873462e9d] it must be conveyed to the point in the gas chamber of maximum concentration of the gas mixture within a maximum period of 30 seconds.
 
-### 11. Gas killing of poultry[^key-2618d98aae211491628dabfe11570a68]
+### 11. Gas killing of poultry[^c-2618d98aae211491628dabfe11570a68]
 
-(1) No person may kill[^key-2a687a6a75ed0d7c1c1d5249d8c6343b] poultry by exposure to gas unless—
+(1) No person may kill[^c-2a687a6a75ed0d7c1c1d5249d8c6343b] poultry by exposure to gas unless—
 
-- (a) the gas chamber[^key-23122a76f49e5d23dad3c2d27af4d31f] provided for that purpose, including any equipment used for conveying poultry through the gas mixture, is—
+- (a) the gas chamber[^c-23122a76f49e5d23dad3c2d27af4d31f] provided for that purpose, including any equipment used for conveying poultry through the gas mixture, is—
   - (i) designed, constructed and maintained so that once a bird enters the chamber it is conveyed to the point of maximum concentration of the gas mixture within a maximum period of 10 seconds;
   - (ii) equipped to maintain the required gas concentration (in accordance with Table 3 of Chapter I of Annex I) in the gas chamber; and
   - (iii) fitted with a means of visually monitoring the poultry;
-- (b) there is a means of flushing the gas chamber[^key-d742d2cb7199f38de22f8ad749a77d2c] with atmospheric air with the minimum of delay;
+- (b) there is a means of flushing the gas chamber[^c-d742d2cb7199f38de22f8ad749a77d2c] with atmospheric air with the minimum of delay;
 - (c) there is a means of access to the poultry with the minimum of delay; and
-- (d) birds are exposed to the gas mixture for long enough to ensure they are killed[^key-b2b517598649731c28a49d25dd941fd7];
+- (d) birds are exposed to the gas mixture for long enough to ensure they are killed[^c-b2b517598649731c28a49d25dd941fd7];
 
-(2)[^key-b84b1054f9225f779be25af2d03facd4] The business operator of a slaughterhouse and any person engaged in the killing of poultry by exposure to gas must ensure that no bird is allowed—
+(2)[^c-b84b1054f9225f779be25af2d03facd4] The business operator of a slaughterhouse and any person engaged in the killing of poultry by exposure to gas must ensure that no bird is allowed—
 
 - (a) to enter the chamber if the displayed concentration of oxygen is above 2% by volume or the displayed concentration of carbon dioxide is above 30% by volume; and
 - (b) to pass through, or allowed to remain in, the chamber at any time when the visible and audible warning signals have been activated or when there is any defect in the operation of the chamber.
@@ -825,7 +825,7 @@ Regulation 29
 | 1980 c.13 | Slaughter of Animals (Scotland) Act 1980 | Section 9<br>Section 14(1) to (3)<br>Section 19(1A) and (1B)<br>Section 19A<br>Section 20 |
 | 1984 c.40 | Animal Health and Welfare Act 1984 | Section 6<br>Section 7<br>Section 8<br>Section 9 |
 | 1991 c.30 | Welfare of Animals at Slaughter Act 1991 | Section 4(2)<br>Section 5(2) |
-| 1994 c.40 | Deregulation and Contracting Out Act 1994 | Paragraphs 1, 3[^key-f1d253ce4049e99c3e8f9c5ddc832380] and 5 of Schedule 9 |
+| 1994 c.40 | Deregulation and Contracting Out Act 1994 | Paragraphs 1, 3[^c-f1d253ce4049e99c3e8f9c5ddc832380] and 5 of Schedule 9 |
 
 ### PART 2 — REVOCATIONS
 
@@ -875,71 +875,71 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^c21450621]: Marginal citation: OJ No L 303, 18.11.2009, p.1.
 
-[^key-57cbfdea8fb2dc7e047e417af382b9cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) inserted (1.12.2023) by [The Animal Welfare and Food Safety (International Professional Qualification Recognition Agreement Implementation) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/312)](https://www.legislation.gov.uk/ssi/2023/312), [regs. 1](https://www.legislation.gov.uk/ssi/2023/312/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/312/regulation/2/2/a)
+[^c-57cbfdea8fb2dc7e047e417af382b9cb]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) inserted (1.12.2023) by [The Animal Welfare and Food Safety (International Professional Qualification Recognition Agreement Implementation) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/312)](https://www.legislation.gov.uk/ssi/2023/312), [regs. 1](https://www.legislation.gov.uk/ssi/2023/312/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2023/312/regulation/2/2/a)
 
-[^key-92e7da98f69f0addafa8cc3f71fd14a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) substituted (19.5.2015) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2015 (S.S.I. 2015/161)](https://www.legislation.gov.uk/ssi/2015/161), [regs. 1](https://www.legislation.gov.uk/ssi/2015/161/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/161/regulation/2/2)
+[^c-92e7da98f69f0addafa8cc3f71fd14a3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) substituted (19.5.2015) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2015 (S.S.I. 2015/161)](https://www.legislation.gov.uk/ssi/2015/161), [regs. 1](https://www.legislation.gov.uk/ssi/2015/161/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2015/161/regulation/2/2)
 
-[^key-450681d3102308a8574634da0615b353]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2020/380/regulation/2)
+[^c-450681d3102308a8574634da0615b353]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1/a/i) substituted (31.12.2020 immediately before IP completion day) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2020/380/regulation/2)
 
-[^key-d78b3cde6449afc1d065e1e05b525c26]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2025 (S.S.I. 2025/385)](https://www.legislation.gov.uk/ssi/2025/385), [reg. 1](https://www.legislation.gov.uk/ssi/2025/385/regulation/1), [sch. para. 6](https://www.legislation.gov.uk/ssi/2025/385/schedule/paragraph/6); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-d78b3cde6449afc1d065e1e05b525c26]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) substituted (1.2.2026) by [The Education (Scotland) Act 2025 (Consequential Provisions) Regulations 2025 (S.S.I. 2025/385)](https://www.legislation.gov.uk/ssi/2025/385), [reg. 1](https://www.legislation.gov.uk/ssi/2025/385/regulation/1), [sch. para. 6](https://www.legislation.gov.uk/ssi/2025/385/schedule/paragraph/6); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
 
-[^key-4a4d490c5b8618a8b98306a0fef354f1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) inserted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/288)](https://www.legislation.gov.uk/ssi/2019/288), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/c), [6](https://www.legislation.gov.uk/ssi/2019/288/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a4d490c5b8618a8b98306a0fef354f1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) inserted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/288)](https://www.legislation.gov.uk/ssi/2019/288), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/c), [6](https://www.legislation.gov.uk/ssi/2019/288/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f2ba8ea19479d9e1b37209f1bfad3d9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) omitted (1.12.2023) by virtue of [The Animal Welfare and Food Safety (International Professional Qualification Recognition Agreement Implementation) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/312)](https://www.legislation.gov.uk/ssi/2023/312), [regs. 1](https://www.legislation.gov.uk/ssi/2023/312/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2023/312/regulation/2/2/b/i)
+[^c-2f2ba8ea19479d9e1b37209f1bfad3d9]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) omitted (1.12.2023) by virtue of [The Animal Welfare and Food Safety (International Professional Qualification Recognition Agreement Implementation) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/312)](https://www.legislation.gov.uk/ssi/2023/312), [regs. 1](https://www.legislation.gov.uk/ssi/2023/312/regulation/1), [2(2)(b)(i)](https://www.legislation.gov.uk/ssi/2023/312/regulation/2/2/b/i)
 
-[^key-206937888114cc7e57ac153a41c4cb75]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) inserted (1.12.2023) by [The Animal Welfare and Food Safety (International Professional Qualification Recognition Agreement Implementation) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/312)](https://www.legislation.gov.uk/ssi/2023/312), [regs. 1](https://www.legislation.gov.uk/ssi/2023/312/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/312/regulation/2/2/b/ii)
+[^c-206937888114cc7e57ac153a41c4cb75]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2012/321/regulation/2/1) inserted (1.12.2023) by [The Animal Welfare and Food Safety (International Professional Qualification Recognition Agreement Implementation) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/312)](https://www.legislation.gov.uk/ssi/2023/312), [regs. 1](https://www.legislation.gov.uk/ssi/2023/312/regulation/1), [2(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2023/312/regulation/2/2/b/ii)
 
-[^key-a6e63da65fa93df2c289e6c9a9e592ba]: Textual amendment: Words in reg. 3(1) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 33](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/33)
+[^c-a6e63da65fa93df2c289e6c9a9e592ba]: Textual amendment: Words in reg. 3(1) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 33](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/33)
 
-[^key-9aaad7c7851ad8005c18f87e521d5b6c]: Textual amendment: Words in [reg. 3(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2012/321/regulation/3/1/b/iii) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [26](https://www.legislation.gov.uk/ssi/2019/412/regulation/26)
+[^c-9aaad7c7851ad8005c18f87e521d5b6c]: Textual amendment: Words in [reg. 3(1)(b)(iii)](https://www.legislation.gov.uk/ssi/2012/321/regulation/3/1/b/iii) substituted (14.12.2019) by [The Official Controls (Agriculture etc.) (Scotland) Regulations 2019 (S.S.I. 2019/412)](https://www.legislation.gov.uk/ssi/2019/412), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1), [26](https://www.legislation.gov.uk/ssi/2019/412/regulation/26)
 
-[^key-e4008f65c40e09e1b58b833ba3cf4d0d]: Textual amendment: [Reg. 8(a)](https://www.legislation.gov.uk/ssi/2012/321/regulation/8/a) substituted (31.10.2019) by [The Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/288)](https://www.legislation.gov.uk/ssi/2019/288), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/a), [3](https://www.legislation.gov.uk/ssi/2019/288/regulation/3)
+[^c-e4008f65c40e09e1b58b833ba3cf4d0d]: Textual amendment: [Reg. 8(a)](https://www.legislation.gov.uk/ssi/2012/321/regulation/8/a) substituted (31.10.2019) by [The Animal Health and Welfare and Official Controls (Animals, Feed and Food) (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/288)](https://www.legislation.gov.uk/ssi/2019/288), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/288/regulation/1/1/a), [3](https://www.legislation.gov.uk/ssi/2019/288/regulation/3)
 
-[^key-47e9fee51b9927bc89624ae745ffa3a9]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/13/1/b) omitted (31.12.2020) by virtue of [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2019/34/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47e9fee51b9927bc89624ae745ffa3a9]: Textual amendment: Words in [reg. 13(1)(b)](https://www.legislation.gov.uk/ssi/2012/321/regulation/13/1/b) omitted (31.12.2020) by virtue of [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [6(2)](https://www.legislation.gov.uk/ssi/2019/34/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5f16ce66e02ff2a4d657d77fb335192d]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/ssi/2012/321/regulation/18/2) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 33](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/33)
+[^c-5f16ce66e02ff2a4d657d77fb335192d]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/ssi/2012/321/regulation/18/2) substituted (1.4.2015) by [The Food (Scotland) Act 2015 (Consequential and Transitional Provisions) Order 2015 (S.S.I. 2015/100)](https://www.legislation.gov.uk/ssi/2015/100), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2015/100/article/1/2), [2](https://www.legislation.gov.uk/ssi/2015/100/article/2), [sch. para. 33](https://www.legislation.gov.uk/ssi/2015/100/schedule/paragraph/33)
 
-[^key-2c3f5394899a337b1ba95d5475f42bfc]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/ssi/2012/321/regulation/19/3) omitted (31.12.2020) by virtue of [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2019/34/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c3f5394899a337b1ba95d5475f42bfc]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/ssi/2012/321/regulation/19/3) omitted (31.12.2020) by virtue of [The Animal Welfare (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/34)](https://www.legislation.gov.uk/ssi/2019/34), [regs. 1](https://www.legislation.gov.uk/ssi/2019/34/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2019/34/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2919193c90e0c67db007b0802cbe22d8]: Textual amendment: [Reg. 25(1A)](https://www.legislation.gov.uk/ssi/2012/321/regulation/25/1A)[(1B)](https://www.legislation.gov.uk/ssi/2012/321/regulation/25/1B) inserted (1.12.2023) by [The Animal Welfare and Food Safety (International Professional Qualification Recognition Agreement Implementation) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/312)](https://www.legislation.gov.uk/ssi/2023/312), [regs. 1](https://www.legislation.gov.uk/ssi/2023/312/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/312/regulation/2/3)
+[^c-2919193c90e0c67db007b0802cbe22d8]: Textual amendment: [Reg. 25(1A)](https://www.legislation.gov.uk/ssi/2012/321/regulation/25/1A)[(1B)](https://www.legislation.gov.uk/ssi/2012/321/regulation/25/1B) inserted (1.12.2023) by [The Animal Welfare and Food Safety (International Professional Qualification Recognition Agreement Implementation) (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/312)](https://www.legislation.gov.uk/ssi/2023/312), [regs. 1](https://www.legislation.gov.uk/ssi/2023/312/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/312/regulation/2/3)
 
 [^c21450631]: Marginal citation: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-059b152432932ca60e6add69ae99c13f]: Textual amendment: [Reg. 30(2)(ba)](https://www.legislation.gov.uk/ssi/2012/321/regulation/30/2/ba) inserted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/2)
+[^c-059b152432932ca60e6add69ae99c13f]: Textual amendment: [Reg. 30(2)(ba)](https://www.legislation.gov.uk/ssi/2012/321/regulation/30/2/ba) inserted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/2)
 
-[^key-000e4fc08e2aa7be23b9f5c0fbbe74ea]: Textual amendment: Words in [sch. 1 para. 6(1)(a)](https://www.legislation.gov.uk/ssi/2012/321/schedule/1/paragraph/6/1/a) substituted (19.5.2015) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2015 (S.S.I. 2015/161)](https://www.legislation.gov.uk/ssi/2015/161), [regs. 1](https://www.legislation.gov.uk/ssi/2015/161/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2015/161/regulation/2/3/a)
+[^c-000e4fc08e2aa7be23b9f5c0fbbe74ea]: Textual amendment: Words in [sch. 1 para. 6(1)(a)](https://www.legislation.gov.uk/ssi/2012/321/schedule/1/paragraph/6/1/a) substituted (19.5.2015) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2015 (S.S.I. 2015/161)](https://www.legislation.gov.uk/ssi/2015/161), [regs. 1](https://www.legislation.gov.uk/ssi/2015/161/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/ssi/2015/161/regulation/2/3/a)
 
-[^key-92ec1870f257040e55d40c87bd89eb37]: Textual amendment: Words in [sch. 1 para. 6(2)](https://www.legislation.gov.uk/ssi/2012/321/schedule/1/paragraph/6/2) inserted (19.5.2015) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2015 (S.S.I. 2015/161)](https://www.legislation.gov.uk/ssi/2015/161), [regs. 1](https://www.legislation.gov.uk/ssi/2015/161/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2015/161/regulation/2/3/b)
+[^c-92ec1870f257040e55d40c87bd89eb37]: Textual amendment: Words in [sch. 1 para. 6(2)](https://www.legislation.gov.uk/ssi/2012/321/schedule/1/paragraph/6/2) inserted (19.5.2015) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2015 (S.S.I. 2015/161)](https://www.legislation.gov.uk/ssi/2015/161), [regs. 1](https://www.legislation.gov.uk/ssi/2015/161/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/ssi/2015/161/regulation/2/3/b)
 
-[^key-4f75ea5a763937b3ccf0d0989a162ebf]: Textual amendment: Word in sch. 1 para. 9 substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/i)
+[^c-4f75ea5a763937b3ccf0d0989a162ebf]: Textual amendment: Word in sch. 1 para. 9 substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/i)
 
-[^key-caf8f562d420fb0b9e915ef866ba3b6b]: Textual amendment: Word in sch. 1 para. 9(1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/ii)
+[^c-caf8f562d420fb0b9e915ef866ba3b6b]: Textual amendment: Word in sch. 1 para. 9(1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/ii)
 
-[^key-d5330222025a35220548a71d6da17994]: Textual amendment: Word in sch. 1 para. 9(1)(a) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/iii)
+[^c-d5330222025a35220548a71d6da17994]: Textual amendment: Word in sch. 1 para. 9(1)(a) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/iii)
 
-[^key-0f6d3d16269d62b5c31c7ec04feae6f2]: Textual amendment: Word in sch. 1 para. 9(1)(b) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/iv)
+[^c-0f6d3d16269d62b5c31c7ec04feae6f2]: Textual amendment: Word in sch. 1 para. 9(1)(b) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/iv)
 
-[^key-eba592377ea641d708cfa78cbaf6a26e]: Textual amendment: Word in sch. 1 para. 9(1)(c) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(v)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/v)
+[^c-eba592377ea641d708cfa78cbaf6a26e]: Textual amendment: Word in sch. 1 para. 9(1)(c) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(v)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/v)
 
-[^key-a2a1dc7b2ae8990872785f01600c54e7]: Textual amendment: Word in sch. 1 para. 9(1)(d) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(vi)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/vi)
+[^c-a2a1dc7b2ae8990872785f01600c54e7]: Textual amendment: Word in sch. 1 para. 9(1)(d) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(vi)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/vi)
 
-[^key-f29dabab0c318574b2bc99dc766281ba]: Textual amendment: Word in sch. 1 para. 9(2) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(vii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/vii)
+[^c-f29dabab0c318574b2bc99dc766281ba]: Textual amendment: Word in sch. 1 para. 9(2) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(a)(vii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/a/vii)
 
-[^key-3f6dcf3581f2aa6df751f835a18189c0]: Textual amendment: Word in [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2012/321/schedule/1/paragraph/10) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/b/i)
+[^c-3f6dcf3581f2aa6df751f835a18189c0]: Textual amendment: Word in [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2012/321/schedule/1/paragraph/10) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(b)(i)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/b/i)
 
-[^key-96b56130e4bfdc9330cada1873462e9d]: Textual amendment: Word in [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2012/321/schedule/1/paragraph/10) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/b/ii)
+[^c-96b56130e4bfdc9330cada1873462e9d]: Textual amendment: Word in [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2012/321/schedule/1/paragraph/10) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/b/ii)
 
-[^key-2618d98aae211491628dabfe11570a68]: Textual amendment: Word in sch. 1 para. 11 substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(i)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/i)
+[^c-2618d98aae211491628dabfe11570a68]: Textual amendment: Word in sch. 1 para. 11 substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(i)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/i)
 
-[^key-2a687a6a75ed0d7c1c1d5249d8c6343b]: Textual amendment: Word in sch. 1 para. 11(1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/ii)
+[^c-2a687a6a75ed0d7c1c1d5249d8c6343b]: Textual amendment: Word in sch. 1 para. 11(1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(ii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/ii)
 
-[^key-23122a76f49e5d23dad3c2d27af4d31f]: Textual amendment: Word in sch. 1 para. 11(1)(a) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/iii)
+[^c-23122a76f49e5d23dad3c2d27af4d31f]: Textual amendment: Word in sch. 1 para. 11(1)(a) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(iii)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/iii)
 
-[^key-d742d2cb7199f38de22f8ad749a77d2c]: Textual amendment: Word in sch. 1 para. 11(1)(b) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(iv)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/iv)
+[^c-d742d2cb7199f38de22f8ad749a77d2c]: Textual amendment: Word in sch. 1 para. 11(1)(b) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(iv)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/iv)
 
-[^key-b2b517598649731c28a49d25dd941fd7]: Textual amendment: Word in sch. 1 para. 11(1)(d) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(v)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/v)
+[^c-b2b517598649731c28a49d25dd941fd7]: Textual amendment: Word in sch. 1 para. 11(1)(d) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(v)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/v)
 
-[^key-b84b1054f9225f779be25af2d03facd4]: Textual amendment: sch. 1 para. 11(2) substituted for sch. 1 para. 11(2)(3) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(vi)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/vi)
+[^c-b84b1054f9225f779be25af2d03facd4]: Textual amendment: sch. 1 para. 11(2) substituted for sch. 1 para. 11(2)(3) (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(3)(c)(vi)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/3/c/vi)
 
 [^c21450641]: Marginal citation: S.S.I. 2006/44.
 
@@ -947,4 +947,4 @@ A business and regulatory impact assessment has been prepared and placed in the 
 
 [^c21450661]: Marginal citation: S.S.I. 2009/262.
 
-[^key-f1d253ce4049e99c3e8f9c5ddc832380]: Textual amendment: Word in [sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/4)
+[^c-f1d253ce4049e99c3e8f9c5ddc832380]: Textual amendment: Word in [sch. 5 Pt. 1](https://www.legislation.gov.uk/ssi/2012/321/schedule/5/part/1) substituted (1.1.2013) by [The Welfare of Animals at the Time of Killing (Scotland) Amendment Regulations 2012 (S.S.I. 2012/355)](https://www.legislation.gov.uk/ssi/2012/355), [regs. 1](https://www.legislation.gov.uk/ssi/2012/355/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2012/355/regulation/2/4)

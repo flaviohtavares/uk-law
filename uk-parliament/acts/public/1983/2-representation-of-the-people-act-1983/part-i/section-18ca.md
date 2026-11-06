@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18CA. Review of polling places: Northern Ireland[^key-2372a6e3b671108f4aec8f70aace6233][^c19430921][^c14479931]
+## 18CA. Review of polling places: Northern Ireland[^c-2372a6e3b671108f4aec8f70aace6233][^c19430921][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2372a6e3b671108f4aec8f70aace6233]: Textual amendment: S. 18CA inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/5)
+[^c-2372a6e3b671108f4aec8f70aace6233]: Textual amendment: S. 18CA inserted (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [9(5)](https://www.legislation.gov.uk/uksi/2013/3156/article/9/5)
 
 [^c19430921]: Textual amendment: Ss. 18A-18E substituted (1.1.2007 for E.W.S. and 1.7.2008 for N.I.) for s. 18 by [Electoral Administration Act 2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2006/22/section/16/1), [77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14(c)](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14/c) (subject to transitional provisions in [art. 6](https://www.legislation.gov.uk/uksi/2006/3412/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/3412/schedule/2)); [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts 2](https://www.legislation.gov.uk/uksi/2008/1316/article/2), [4](https://www.legislation.gov.uk/uksi/2008/1316/article/4)
 

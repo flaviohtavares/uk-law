@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Area navigation and required navigation performance capabilities — aircraft registered in the Isle of Man[^key-ec2acace59f529283b346ea924fb4d20]
+## 67. Area navigation and required navigation performance capabilities — aircraft registered in the Isle of Man[^c-ec2acace59f529283b346ea924fb4d20]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec2acace59f529283b346ea924fb4d20]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2015/870/article/67) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-ec2acace59f529283b346ea924fb4d20]: Commencement: [Art. 67](https://www.legislation.gov.uk/uksi/2015/870/article/67) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

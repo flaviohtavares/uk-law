@@ -28,7 +28,7 @@ summary: ''
 
 Social Security
 
-The Universal Credit (Transitional Provisions) (Amendment) Regulations 2016 (revoked)[^key-cd610ba055fdfbd10566e8f68bc2a985]
+The Universal Credit (Transitional Provisions) (Amendment) Regulations 2016 (revoked)[^c-cd610ba055fdfbd10566e8f68bc2a985]
 
 Made
 
@@ -42,23 +42,23 @@ Coming into force
 
 1st April 2016
 
-[^key-cd610ba055fdfbd10566e8f68bc2a985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd610ba055fdfbd10566e8f68bc2a985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cd610ba055fdfbd10566e8f68bc2a985]
+## 1. Citation and commencement[^c-cd610ba055fdfbd10566e8f68bc2a985]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Universal Credit (Transitional Provisions) Regulations 2014[^key-cd610ba055fdfbd10566e8f68bc2a985]
+## 2. Amendment of the Universal Credit (Transitional Provisions) Regulations 2014[^c-cd610ba055fdfbd10566e8f68bc2a985]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd610ba055fdfbd10566e8f68bc2a985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd610ba055fdfbd10566e8f68bc2a985]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-cd610ba055fdfbd10566e8f68bc2a985]EXPLANATORY NOTE
+[^c-cd610ba055fdfbd10566e8f68bc2a985]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -72,4 +72,4 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 ## Annotations
 
-[^key-cd610ba055fdfbd10566e8f68bc2a985]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2016/232) revoked (25.9.2017) by [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [art. 9](https://www.legislation.gov.uk/uksi/2017/781/article/9)
+[^c-cd610ba055fdfbd10566e8f68bc2a985]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2016/232) revoked (25.9.2017) by [The Tax Credits (Exercise of Functions in relation to Northern Ireland and Notices for Recovery of Tax Credit Overpayments) Order 2017 (S.I. 2017/781)](https://www.legislation.gov.uk/uksi/2017/781), [art. 9](https://www.legislation.gov.uk/uksi/2017/781/article/9)

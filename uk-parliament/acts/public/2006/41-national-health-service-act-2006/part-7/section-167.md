@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) NHS England[^key-c26379f595629655ada8a57e0d3d2bfd][^key-3551a5cddb8192d0f13d8c8052f9d5ff] may recognise a committee formed for an area which it is satisfied is representative of—
+(1) NHS England[^c-c26379f595629655ada8a57e0d3d2bfd][^c-3551a5cddb8192d0f13d8c8052f9d5ff] may recognise a committee formed for an area which it is satisfied is representative of—
 
 - (a) the persons providing pharmaceutical services from premises in the area for which the committee is formed (“pharmaceutical services providers”),
 - (b) pharmaceutical services providers and the persons to whom subsections (2) and (3) apply,
@@ -29,12 +29,12 @@ summary: ''
 
 (2) This subsection applies to each person who—
 
-- (a) is providing local pharmaceutical services [^key-acb1589580c514abb482f0dbf499167b]... under an LPS scheme made (whether with himself or another person) by NHS England, and
+- (a) is providing local pharmaceutical services [^c-acb1589580c514abb482f0dbf499167b]... under an LPS scheme made (whether with himself or another person) by NHS England, and
 - (b) has notified NHS England that he wishes to be represented by the committee (and has not notified it that he wishes to cease to be so represented).
 
 (3) This subsection applies to each person who—
 
-- (a) is providing local pharmaceutical services [^key-3994157650bb0d7a4db50d1c2888c71f]... under a pilot scheme made (whether with himself or another person) by NHS England, and
+- (a) is providing local pharmaceutical services [^c-3994157650bb0d7a4db50d1c2888c71f]... under a pilot scheme made (whether with himself or another person) by NHS England, and
 - (b) has notified NHS England that he wishes to be represented by the committee (and has not notified it that he wishes to cease to be so represented).
 
 (4) A committee recognised under this section is called the Local Pharmaceutical Committee for the area for which it is formed.
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-3551a5cddb8192d0f13d8c8052f9d5ff]: Textual amendment: Words in [s. 167(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/167/1) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 91(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/91/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3551a5cddb8192d0f13d8c8052f9d5ff]: Textual amendment: Words in [s. 167(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/167/1) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 91(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/91/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-acb1589580c514abb482f0dbf499167b]: Textual amendment: Words in [s. 167(2)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/167/2/a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 91(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/91/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-acb1589580c514abb482f0dbf499167b]: Textual amendment: Words in [s. 167(2)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/167/2/a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 91(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/91/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-3994157650bb0d7a4db50d1c2888c71f]: Textual amendment: Words in [s. 167(3)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/167/3/a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 91(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/91/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-3994157650bb0d7a4db50d1c2888c71f]: Textual amendment: Words in [s. 167(3)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/167/3/a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 91(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/91/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

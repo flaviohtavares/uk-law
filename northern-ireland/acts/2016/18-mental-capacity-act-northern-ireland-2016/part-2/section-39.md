@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Sections 37 and 38: extension reports[^key-19f86c6b80d13031c66090b338e18e00]
+## 39. Sections 37 and 38: extension reports[^c-19f86c6b80d13031c66090b338e18e00]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ the report must contain a statement of that opinion.
 
 ## Annotations
 
-[^key-19f86c6b80d13031c66090b338e18e00]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2016/18/section/39) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-19f86c6b80d13031c66090b338e18e00]: Commencement: [S. 39](https://www.legislation.gov.uk/nia/2016/18/section/39) in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

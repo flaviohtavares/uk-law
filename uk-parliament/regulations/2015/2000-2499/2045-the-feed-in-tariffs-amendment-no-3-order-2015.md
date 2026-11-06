@@ -46,17 +46,17 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 43(3)(a) and 104(2) of the Energy Act 2008[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-201ae9447cd30e27e86f3721e07ff415]
+## 1. Citation and commencement[^c-201ae9447cd30e27e86f3721e07ff415]
 
 This Order may be cited as the Feed-in Tariffs (Amendment) (No. 3) Order 2015 and comes into force on 15th January 2016.
 
-## 2. Amendment to the Feed-in Tariffs Order 2012[^key-5fd192c519b15c31dedae4f613bc679b]
+## 2. Amendment to the Feed-in Tariffs Order 2012[^c-5fd192c519b15c31dedae4f613bc679b]
 
 (1) This Order amends the Feed-in Tariffs Order 2012[^f00002] (“the 2012 Order”).
 
 (2) A reference in this Order to a numbered article or Part or Schedule is to the article or Part or Schedule so numbered in the 2012 Order.
 
-## 3. Article 2 (interpretation)[^key-a45735e1d3a7966776e4aaaea25809e9]
+## 3. Article 2 (interpretation)[^c-a45735e1d3a7966776e4aaaea25809e9]
 
 In article 2 (interpretation)—
 
@@ -93,7 +93,7 @@ In article 2 (interpretation)—
 
   .
 
-## 4. Part 3 (accreditation and matters relating to accreditation)[^key-15bdd1e63719badc78f9b6b6f47ddd28]
+## 4. Part 3 (accreditation and matters relating to accreditation)[^c-15bdd1e63719badc78f9b6b6f47ddd28]
 
 For article 4 (application of this Chapter) substitute—
 
@@ -118,7 +118,7 @@ For article 4 (application of this Chapter) substitute—
 
 .
 
-**5.**[^key-262d9a305848325cbf06f3c5bfb0db3b] In article 5 (accreditation of eligible installations)—
+**5.**[^c-262d9a305848325cbf06f3c5bfb0db3b] In article 5 (accreditation of eligible installations)—
 
 - (a) after paragraph (1) insert—
 
@@ -146,9 +146,9 @@ For article 4 (application of this Chapter) substitute—
 - (d) in paragraphs (4)(c) and (5)(b), for “article 4(b)” substitute “article 4(3)”;
 - (e) in paragraph (6), at the end insert “, and, where the reason for the non-accreditation is that article 8B applies, give notice of the date of the start of the next tariff period within which the application will be considered by the Authority in accordance with this article.”.
 
-**6.**[^key-629a093527f97cbc32cbaf6d70b1720b] In article 6(1), for “articles 7 and 8” substitute “articles 7, 8, 8A and 8B”.
+**6.**[^c-629a093527f97cbc32cbaf6d70b1720b] In article 6(1), for “articles 7 and 8” substitute “articles 7, 8, 8A and 8B”.
 
-**7.**[^key-869ddb1427eb95b99094e18ad3ef85d6] After article 8 (limit on numbers of eligible installations using combined heat and power) insert—
+**7.**[^c-869ddb1427eb95b99094e18ad3ef85d6] After article 8 (limit on numbers of eligible installations using combined heat and power) insert—
 
 > **8A. The pause period**
 >
@@ -229,7 +229,7 @@ For article 4 (application of this Chapter) substitute—
 
 .
 
-## 8. Amendments to articles 9 to 12[^key-96dec73582a8125605d5bfc33875e8a8]
+## 8. Amendments to articles 9 to 12[^c-96dec73582a8125605d5bfc33875e8a8]
 
 Article 9 (preliminary accreditation) is amended as follows—
 
@@ -238,7 +238,7 @@ Article 9 (preliminary accreditation) is amended as follows—
 - (c) at the end of paragraph (2)(b), add “and, for this purpose, applications for preliminary accreditation are to be considered under article 5(1A)(a) in the same way as applications for the accreditation of eligible installations mentioned in that sub-paragraph.”; and
 - (d) at the end of paragraph (9)(c), add “and, where the reason for not granting preliminary accreditation is that article 8B applies, the date of the start of the next tariff period within which the application will be determined by the Authority in accordance with this article.”.
 
-**9.**[^key-c02d6ac815d826a79d1bf51fce0b4a78] In article 10 (effect of preliminary accreditation)—
+**9.**[^c-c02d6ac815d826a79d1bf51fce0b4a78] In article 10 (effect of preliminary accreditation)—
 
 - (a) for paragraph (3) substitute—
 
@@ -251,7 +251,7 @@ Article 9 (preliminary accreditation) is amended as follows—
 - (b) for paragraph (4)(d), substitute “its total installed capacity is different”; and
 - (c) omit paragraph (4)(e).
 
-**10.**[^key-8f642965a3458def7ade52bf3031bdb7] In article 11 (pre-registration of community energy installations), in paragraph (5), for sub-paragraphs (a) and (b) substitute—
+**10.**[^c-8f642965a3458def7ade52bf3031bdb7] In article 11 (pre-registration of community energy installations), in paragraph (5), for sub-paragraphs (a) and (b) substitute—
 
 > - (a) where the application for pre-registration was received by the Authority before 1st October 2015—
 >   - (i) the eligibility date of the installation is the later of the—
@@ -276,7 +276,7 @@ Article 9 (preliminary accreditation) is amended as follows—
 
 .
 
-**11.**[^key-fa35e33095d7bc738ef56fe9c8a064c5] In article 12 (pre-registration of school installations), in paragraph (5), for sub-paragraphs (a) and (b) substitute—
+**11.**[^c-fa35e33095d7bc738ef56fe9c8a064c5] In article 12 (pre-registration of school installations), in paragraph (5), for sub-paragraphs (a) and (b) substitute—
 
 > - (a) where the application for pre-registration was received by the Authority before 15th January 2016—
 >   - (i) the eligibility date of the installation is the date on which the Authority received the application for pre-registration, and
@@ -289,11 +289,11 @@ Article 9 (preliminary accreditation) is amended as follows—
 
 .
 
-## 12. Article 15 (site of accredited FIT installation)[^key-1ac72a62a61c3966ea0734e5c84b89dd]
+## 12. Article 15 (site of accredited FIT installation)[^c-1ac72a62a61c3966ea0734e5c84b89dd]
 
 Omit article 15(5).
 
-## 13. Article 16 (calculating and publishing FIT payment rates)[^key-8551b00b959af6bd24a8293dfe504c1a]
+## 13. Article 16 (calculating and publishing FIT payment rates)[^c-8551b00b959af6bd24a8293dfe504c1a]
 
 For article 16 (calculating and publishing FIT payment rates), substitute—
 
@@ -315,11 +315,11 @@ For article 16 (calculating and publishing FIT payment rates), substitute—
 
 .
 
-## 14. Removal of the extension rule[^key-1e14110bae13f820e2c6b105359e4498]
+## 14. Removal of the extension rule[^c-1e14110bae13f820e2c6b105359e4498]
 
 In article 18 (accreditation of extensions to accredited FIT installations), at the end of paragraph (1) insert “and the commissioning date of the extension is before 15th January 2016”.
 
-**15.**[^key-03be1749a1ffdc42e1ee550cf3243593] In article 19 (accreditation of extensions to installations which are not accredited FIT installations), after paragraph (1)(b), insert—
+**15.**[^c-03be1749a1ffdc42e1ee550cf3243593] In article 19 (accreditation of extensions to installations which are not accredited FIT installations), after paragraph (1)(b), insert—
 
 > ; and
 >
@@ -327,7 +327,7 @@ In article 18 (accreditation of extensions to accredited FIT installations), at 
 
 .
 
-## 16. Article 24B (other installations not yet accredited)[^key-a97bdc7010fc8c6d1ed3937754450278]
+## 16. Article 24B (other installations not yet accredited)[^c-a97bdc7010fc8c6d1ed3937754450278]
 
 In article 24B (other installations not yet accredited), after paragraph (2)—
 
@@ -337,7 +337,7 @@ In article 24B (other installations not yet accredited), after paragraph (2)—
 
 .
 
-## 17. Amendments to levelisation[^key-dd09208facfd862cf078180b64f57aac]
+## 17. Amendments to levelisation[^c-dd09208facfd862cf078180b64f57aac]
 
 In article 25 (levelisation fund), renumber the first sentence as paragraph (1), and add—
 
@@ -347,7 +347,7 @@ In article 25 (levelisation fund), renumber the first sentence as paragraph (1),
 
 .
 
-**18.**[^key-c1aa6beb58e9002293d5fb6955b3e94a] (1) Article 27 (calculation of FIT contributions, etc) is amended as follows.
+**18.**[^c-c1aa6beb58e9002293d5fb6955b3e94a] (1) Article 27 (calculation of FIT contributions, etc) is amended as follows.
 
 (2) In paragraph (2), for “payments made and costs incurred”, substitute “payments made and incurred”.
 
@@ -384,7 +384,7 @@ In article 25 (levelisation fund), renumber the first sentence as paragraph (1),
 
   .
 
-**19.**[^key-37c7f349c67b3da50698d64435579db6] After article 27, insert—
+**19.**[^c-37c7f349c67b3da50698d64435579db6] After article 27, insert—
 
 > **27A. The capped amount of qualifying renewable electricity**
 >
@@ -410,7 +410,7 @@ In article 25 (levelisation fund), renumber the first sentence as paragraph (1),
 
 .
 
-## 20. Article 38 (determinations relating to levelisation)[^key-31ec0ef363a6023322d054d1b62851e9]
+## 20. Article 38 (determinations relating to levelisation)[^c-31ec0ef363a6023322d054d1b62851e9]
 
 In article 38 (determinations relating to levelisation), after paragraph (1)(d), insert—
 
@@ -418,21 +418,21 @@ In article 38 (determinations relating to levelisation), after paragraph (1)(d),
 
 .
 
-## 21. New Schedule A1 (MCS-certified installations)[^key-1a4a67a699a2753f97b32aa33a61dbb4]
+## 21. New Schedule A1 (MCS-certified installations)[^c-1a4a67a699a2753f97b32aa33a61dbb4]
 
 Before Schedule 1 (the Central FIT Register), insert the schedule that is set out in Schedule 1 to this Order.
 
-## 22. New Schedule 1A (limit of aggregate capacity of eligible installations)[^key-73bcdd9a4dc835e0912c0863973606bc]
+## 22. New Schedule 1A (limit of aggregate capacity of eligible installations)[^c-73bcdd9a4dc835e0912c0863973606bc]
 
 After Schedule 1 (the Central FIT Register), insert the schedule that is set out in Schedule 2 to this Order.
 
-## 23. New Schedule 2 (publication of FIT deployment data)[^key-b0611751d2eaa9bce4931d00f00c10b9]
+## 23. New Schedule 2 (publication of FIT deployment data)[^c-b0611751d2eaa9bce4931d00f00c10b9]
 
 For Schedule 2 (publication of FIT deployment data), substitute the schedule that is set out in Schedule 3 to this Order.
 
-## 24. Savings[^key-b457eec223de1ee7e7f60d237554c493]
+## 24. Savings[^c-b457eec223de1ee7e7f60d237554c493]
 
-(1) Where an application for accreditation of a commissioned eligible installation has been made before 15th January 2016 and has not been determined before that date, the Authority must determine whether to accredit the installation in accordance with the 2012 Order as if it had not been amended by this Order or by the Feed-in Tariffs (Amendment) Order 2016[^key-fc13a94d4fea37b18d1940948222f2d0].
+(1) Where an application for accreditation of a commissioned eligible installation has been made before 15th January 2016 and has not been determined before that date, the Authority must determine whether to accredit the installation in accordance with the 2012 Order as if it had not been amended by this Order or by the Feed-in Tariffs (Amendment) Order 2016[^c-fc13a94d4fea37b18d1940948222f2d0].
 
 (2) The tables published by the Authority under article 16 of the 2012 Order as it applied before this Order came into force, setting out the FIT payment rates to apply to accredited FIT installations, shall continue to have effect in relation to installations which were commissioned before 15th January 2016 and for which an application for accreditation was made before that date.
 
@@ -444,7 +444,7 @@ Department of Energy and Climate Change
 
 16th December 2015
 
-## SCHEDULE 1[^key-c1798d9dcc89c8822479d1ab3a414219]
+## SCHEDULE 1[^c-c1798d9dcc89c8822479d1ab3a414219]
 
 Article 21
 
@@ -473,7 +473,7 @@ Article 21
 >
 > **4.** In this Schedule, “MCS” means the Microgeneration Certification Scheme.
 
-## SCHEDULE 2[^key-8ac996b19919726145430379f11d0a6b]
+## SCHEDULE 2[^c-8ac996b19919726145430379f11d0a6b]
 
 Article 22
 
@@ -497,7 +497,7 @@ Article 22
 > | Wind with total installed capacity greater than 100 kW but not exceeding 1500 kW | 6.8 | 6.7 | 6.6 | 6.5 | 6.4 | 6.3 | 6.2 | 6.1 | 6.1 | 5.9 | 5.8 | 5.7 | 5.7 |
 > | Wind with total installed capacity greater than 1500 kW | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 | 5.0 |
 
-## SCHEDULE 3[^key-5afe70fe1c421d73090606d398da0add]
+## SCHEDULE 3[^c-5afe70fe1c421d73090606d398da0add]
 
 Article 23
 
@@ -557,66 +557,66 @@ An impact assessment has been prepared in respect of the changes to the FIT sche
 
 [^f00001]: Footnote: [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-201ae9447cd30e27e86f3721e07ff415]: Commencement: Art. 1 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-201ae9447cd30e27e86f3721e07ff415]: Commencement: Art. 1 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-5fd192c519b15c31dedae4f613bc679b]: Commencement: Art. 2 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-5fd192c519b15c31dedae4f613bc679b]: Commencement: Art. 2 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
 [^f00002]: Footnote: [S.I. 2012/2782](https://www.legislation.gov.uk/uksi/2012/2782) as amended by [S.I. 2013/1099](https://www.legislation.gov.uk/uksi/2013/1099), [2014/1601](https://www.legislation.gov.uk/uksi/2014/1601), [2014/2865](https://www.legislation.gov.uk/uksi/2014/2865), [2015/35](https://www.legislation.gov.uk/uksi/2015/35) and [2015/1659](https://www.legislation.gov.uk/uksi/2015/1659).
 
-[^key-a45735e1d3a7966776e4aaaea25809e9]: Commencement: Art. 3 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-a45735e1d3a7966776e4aaaea25809e9]: Commencement: Art. 3 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
 [^f00003]: Footnote: European standards are published by the European Committee on Standardization (CEN): www.cen.eu.
 
 [^f00004]: Footnote: ISO standards can be obtained from the International Organization for Standardization: www.iso.org.
 
-[^key-15bdd1e63719badc78f9b6b6f47ddd28]: Commencement: Art. 4 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-15bdd1e63719badc78f9b6b6f47ddd28]: Commencement: Art. 4 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-262d9a305848325cbf06f3c5bfb0db3b]: Commencement: Art. 5 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-262d9a305848325cbf06f3c5bfb0db3b]: Commencement: Art. 5 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-629a093527f97cbc32cbaf6d70b1720b]: Commencement: Art. 6 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-629a093527f97cbc32cbaf6d70b1720b]: Commencement: Art. 6 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-869ddb1427eb95b99094e18ad3ef85d6]: Commencement: Art. 7 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-869ddb1427eb95b99094e18ad3ef85d6]: Commencement: Art. 7 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-96dec73582a8125605d5bfc33875e8a8]: Commencement: Art. 8 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-96dec73582a8125605d5bfc33875e8a8]: Commencement: Art. 8 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-c02d6ac815d826a79d1bf51fce0b4a78]: Commencement: Art. 9 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-c02d6ac815d826a79d1bf51fce0b4a78]: Commencement: Art. 9 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-8f642965a3458def7ade52bf3031bdb7]: Commencement: Art. 10 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-8f642965a3458def7ade52bf3031bdb7]: Commencement: Art. 10 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-fa35e33095d7bc738ef56fe9c8a064c5]: Commencement: Art. 11 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-fa35e33095d7bc738ef56fe9c8a064c5]: Commencement: Art. 11 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-1ac72a62a61c3966ea0734e5c84b89dd]: Commencement: Art. 12 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-1ac72a62a61c3966ea0734e5c84b89dd]: Commencement: Art. 12 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-8551b00b959af6bd24a8293dfe504c1a]: Commencement: Art. 13 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-8551b00b959af6bd24a8293dfe504c1a]: Commencement: Art. 13 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-1e14110bae13f820e2c6b105359e4498]: Commencement: Art. 14 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-1e14110bae13f820e2c6b105359e4498]: Commencement: Art. 14 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-03be1749a1ffdc42e1ee550cf3243593]: Commencement: Art. 15 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-03be1749a1ffdc42e1ee550cf3243593]: Commencement: Art. 15 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-a97bdc7010fc8c6d1ed3937754450278]: Commencement: Art. 16 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-a97bdc7010fc8c6d1ed3937754450278]: Commencement: Art. 16 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-dd09208facfd862cf078180b64f57aac]: Commencement: Art. 17 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-dd09208facfd862cf078180b64f57aac]: Commencement: Art. 17 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-c1aa6beb58e9002293d5fb6955b3e94a]: Commencement: Art. 18 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-c1aa6beb58e9002293d5fb6955b3e94a]: Commencement: Art. 18 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
 [^f00005]: Footnote: [S.I. 2003/2562](https://www.legislation.gov.uk/uksi/2003/2562) as amended by [S.I. 2010/2715](https://www.legislation.gov.uk/uksi/2010/2715).
 
-[^key-37c7f349c67b3da50698d64435579db6]: Commencement: Art. 19 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-37c7f349c67b3da50698d64435579db6]: Commencement: Art. 19 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-31ec0ef363a6023322d054d1b62851e9]: Commencement: Art. 20 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-31ec0ef363a6023322d054d1b62851e9]: Commencement: Art. 20 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-1a4a67a699a2753f97b32aa33a61dbb4]: Commencement: Art. 21 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-1a4a67a699a2753f97b32aa33a61dbb4]: Commencement: Art. 21 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-73bcdd9a4dc835e0912c0863973606bc]: Commencement: Art. 22 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-73bcdd9a4dc835e0912c0863973606bc]: Commencement: Art. 22 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-b0611751d2eaa9bce4931d00f00c10b9]: Commencement: Art. 23 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-b0611751d2eaa9bce4931d00f00c10b9]: Commencement: Art. 23 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-b457eec223de1ee7e7f60d237554c493]: Commencement: Art. 24 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-b457eec223de1ee7e7f60d237554c493]: Commencement: Art. 24 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-fc13a94d4fea37b18d1940948222f2d0]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/uksi/2015/2045/article/24/1) added (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [6](https://www.legislation.gov.uk/uksi/2016/319/article/6)
+[^c-fc13a94d4fea37b18d1940948222f2d0]: Textual amendment: Words in [art. 24(1)](https://www.legislation.gov.uk/uksi/2015/2045/article/24/1) added (31.3.2016) by [The Feed-in Tariffs (Amendment) Order 2016 (S.I. 2016/319)](https://www.legislation.gov.uk/uksi/2016/319), [arts. 1](https://www.legislation.gov.uk/uksi/2016/319/article/1), [6](https://www.legislation.gov.uk/uksi/2016/319/article/6)
 
-[^key-c1798d9dcc89c8822479d1ab3a414219]: Commencement: Sch. 1 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-c1798d9dcc89c8822479d1ab3a414219]: Commencement: Sch. 1 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-8ac996b19919726145430379f11d0a6b]: Commencement: Sch. 2 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-8ac996b19919726145430379f11d0a6b]: Commencement: Sch. 2 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
 
-[^key-5afe70fe1c421d73090606d398da0add]: Commencement: Sch. 3 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)
+[^c-5afe70fe1c421d73090606d398da0add]: Commencement: Sch. 3 in force at 15.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2045/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Inspection for airworthiness purposes[^key-83f56262baad4f76d6643b0eb1312416]
+## 39. Inspection for airworthiness purposes[^c-83f56262baad4f76d6643b0eb1312416]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Governor may require such inspections, investigations, tests, experiments an
 
 ## Annotations
 
-[^key-83f56262baad4f76d6643b0eb1312416]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2013/2870/article/39) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-83f56262baad4f76d6643b0eb1312416]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2013/2870/article/39) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

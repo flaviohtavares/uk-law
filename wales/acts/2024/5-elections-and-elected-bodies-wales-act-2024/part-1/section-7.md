@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Pilot regulations: procedure[^key-ec473bda579ace64405f4679f85c6c8d]
+## 7. Pilot regulations: procedure[^c-ec473bda579ace64405f4679f85c6c8d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec473bda579ace64405f4679f85c6c8d]: Commencement: S. 7 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-ec473bda579ace64405f4679f85c6c8d]: Commencement: S. 7 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

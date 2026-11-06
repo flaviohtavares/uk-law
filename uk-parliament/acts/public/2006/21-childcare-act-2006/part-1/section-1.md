@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. General duties of local authority in relation to well-being of young children[^key-e5069bc338ac1cafafabdd37a7cbe25d][^key-45443554f0a941aef003eec7f1339b2c]
+## 1. General duties of local authority in relation to well-being of young children[^c-e5069bc338ac1cafafabdd37a7cbe25d][^c-45443554f0a941aef003eec7f1339b2c]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e5069bc338ac1cafafabdd37a7cbe25d]: Commencement: S. 1 in force at 20.12.2006 for specified purposes by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/a)
+[^c-e5069bc338ac1cafafabdd37a7cbe25d]: Commencement: S. 1 in force at 20.12.2006 for specified purposes by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/a)
 
-[^key-45443554f0a941aef003eec7f1339b2c]: Commencement: S. 1 in force at 1.4.2008 in so far as not already in force by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/785/article/2/a)
+[^c-45443554f0a941aef003eec7f1339b2c]: Commencement: S. 1 in force at 1.4.2008 in so far as not already in force by [S.I. 2008/785](https://www.legislation.gov.uk/uksi/2008/785), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/785/article/2/a)

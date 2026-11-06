@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendments etc of EU tertiary legislation and consequential provision[^key-a2f81afb5b4b75394e35a34cbc77f7e0]
+## 5. Amendments etc of EU tertiary legislation and consequential provision[^c-a2f81afb5b4b75394e35a34cbc77f7e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (amendments etc of EU tertiary legislation and consequential provisio
 
 ## Annotations
 
-[^key-a2f81afb5b4b75394e35a34cbc77f7e0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/465/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1)
+[^c-a2f81afb5b4b75394e35a34cbc77f7e0]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/465/regulation/5) in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1)

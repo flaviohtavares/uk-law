@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Establishment of the new homes ombudsman scheme[^key-8416ee9b583b8b38f319334ed4f60b26]
+## 136. Establishment of the new homes ombudsman scheme[^c-8416ee9b583b8b38f319334ed4f60b26]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8416ee9b583b8b38f319334ed4f60b26]: Commencement: S. 136 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-8416ee9b583b8b38f319334ed4f60b26]: Commencement: S. 136 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)

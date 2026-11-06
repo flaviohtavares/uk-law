@@ -33,7 +33,7 @@ summary: ''
 
 (4) An officer of Revenue and Customs may (in addition to the adjustment under subsection (3)) assess the company to such amount of corporation tax or income tax (as the case may be) as the officer thinks is equivalent to the value of the tax advantage.
 
-(5) For the purposes of this section “**tax advantage**” has the meaning given by section 1139[^key-f256732944b229029723739dce25f631]....
+(5) For the purposes of this section “**tax advantage**” has the meaning given by section 1139[^c-f256732944b229029723739dce25f631]....
 
 (6) But a company does not obtain a tax advantage merely because it is, or is a member of, a UK REIT unless the company does anything (whether before or while it is, or is a member of, the UK REIT) which in the opinion of an officer of Revenue and Customs is wholly or principally designed—
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f256732944b229029723739dce25f631]: Textual amendment: Words in s. 545(5) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 34(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/34/1) (with [Sch. 4 para. 34(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/34/2))
+[^c-f256732944b229029723739dce25f631]: Textual amendment: Words in s. 545(5) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 34(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/34/1) (with [Sch. 4 para. 34(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/34/2))

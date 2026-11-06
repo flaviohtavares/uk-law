@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Co-opted governors[^key-fb66567b8bf401dcaf6ccd3a12e52adf]
+## 19. Co-opted governors[^c-fb66567b8bf401dcaf6ccd3a12e52adf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In these Regulations “co-opted governor” means a person who is appointed as 
 
 ## Annotations
 
-[^key-fb66567b8bf401dcaf6ccd3a12e52adf]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/1035/regulation/19) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-fb66567b8bf401dcaf6ccd3a12e52adf]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/1035/regulation/19) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

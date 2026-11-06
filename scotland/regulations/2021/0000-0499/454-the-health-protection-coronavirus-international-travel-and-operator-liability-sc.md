@@ -32,7 +32,7 @@ summary: ''
 
 Public Health
 
-The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment (No. 11) Regulations 2021 (revoked)[^key-69da4ae4b5639635abbbba9e256b0b64]
+The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Amendment (No. 11) Regulations 2021 (revoked)[^c-69da4ae4b5639635abbbba9e256b0b64]
 
 Approved by the Scottish Parliament
 
@@ -48,31 +48,31 @@ Laid before the Scottish Parliament
 
 at 9.30 a.m. on 6th December 2021
 
-[^key-69da4ae4b5639635abbbba9e256b0b64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69da4ae4b5639635abbbba9e256b0b64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-69da4ae4b5639635abbbba9e256b0b64]
+## 1. Citation and commencement[^c-69da4ae4b5639635abbbba9e256b0b64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^key-69da4ae4b5639635abbbba9e256b0b64]
+## 2. Amendment of the Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Regulations 2021[^c-69da4ae4b5639635abbbba9e256b0b64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of schedule 1 – red list countries[^key-69da4ae4b5639635abbbba9e256b0b64]
+## 3. Amendment of schedule 1 – red list countries[^c-69da4ae4b5639635abbbba9e256b0b64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Saving[^key-69da4ae4b5639635abbbba9e256b0b64]
+## 4. Saving[^c-69da4ae4b5639635abbbba9e256b0b64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-69da4ae4b5639635abbbba9e256b0b64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-69da4ae4b5639635abbbba9e256b0b64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-69da4ae4b5639635abbbba9e256b0b64]EXPLANATORY NOTE
+[^c-69da4ae4b5639635abbbba9e256b0b64]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -84,4 +84,4 @@ Regulation 4 makes savings provision to the effect that a person arriving in Sco
 
 ## Annotations
 
-[^key-69da4ae4b5639635abbbba9e256b0b64]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))
+[^c-69da4ae4b5639635abbbba9e256b0b64]: Textual amendment: Regulations revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus) (International Travel and Operator Liability) (Scotland) Revocation Regulations 2022 (S.S.I. 2022/99)](https://www.legislation.gov.uk/ssi/2022/99), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/99/regulation/1/2), [sch.](https://www.legislation.gov.uk/ssi/2022/99/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2022/99/regulation/3))

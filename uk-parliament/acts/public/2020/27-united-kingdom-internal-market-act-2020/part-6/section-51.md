@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Financial assistance: supplementary[^key-6f140bf751e531a1dedae43c1fdaa2d0]
+## 51. Financial assistance: supplementary[^c-6f140bf751e531a1dedae43c1fdaa2d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f140bf751e531a1dedae43c1fdaa2d0]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2020/27/section/51) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/h)
+[^c-6f140bf751e531a1dedae43c1fdaa2d0]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2020/27/section/51) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/h)

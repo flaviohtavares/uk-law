@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Code of practice about the disclosure of information[^key-434161d7ce8fe25a00f163f6c38e40cf][^key-d33762f92ec97a365cde99aa50a06efc]
+## 49. Code of practice about the disclosure of information[^c-434161d7ce8fe25a00f163f6c38e40cf][^c-d33762f92ec97a365cde99aa50a06efc]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) In preparing or revising the code of practice, the Secretary of State must consult—
 
-- (a) the Information Commission[^key-fddd70e7e355d0516b2e455884e73bea],
+- (a) the Information Commission[^c-fddd70e7e355d0516b2e455884e73bea],
 - (b) the Welsh Ministers,
 - (c) the Scottish Ministers,
 - (d) the Department of Finance in Northern Ireland, and
@@ -59,8 +59,8 @@ summary: ''
 
 ## Annotations
 
-[^key-434161d7ce8fe25a00f163f6c38e40cf]: Commencement: S. 49 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-434161d7ce8fe25a00f163f6c38e40cf]: Commencement: S. 49 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-d33762f92ec97a365cde99aa50a06efc]: Commencement: S. 49 in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-d33762f92ec97a365cde99aa50a06efc]: Commencement: S. 49 in force at 1.12.2025 by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
 
-[^key-fddd70e7e355d0516b2e455884e73bea]: Textual amendment: Word in s. 49(5)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/3/d); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-fddd70e7e355d0516b2e455884e73bea]: Textual amendment: Word in s. 49(5)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 28(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/2)[(3)(d)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/28/3/d); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

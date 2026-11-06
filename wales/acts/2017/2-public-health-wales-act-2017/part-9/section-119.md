@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Fixed penalty receipts for food hygiene rating offences[^key-4e5b94876892a8c9085fccbd88d0e064]
+## 119. Fixed penalty receipts for food hygiene rating offences[^c-4e5b94876892a8c9085fccbd88d0e064]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 22 of the Food Hygiene Rating (Wales) Act 2013 (anaw 2), for subsecti
 
 ## Annotations
 
-[^key-4e5b94876892a8c9085fccbd88d0e064]: Commencement: [S. 119](https://www.legislation.gov.uk/anaw/2017/2/section/119) in force at 4.10.2017 by [S.I. 2017/949](https://www.legislation.gov.uk/wsi/2017/949), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/949/article/2/c)
+[^c-4e5b94876892a8c9085fccbd88d0e064]: Commencement: [S. 119](https://www.legislation.gov.uk/anaw/2017/2/section/119) in force at 4.10.2017 by [S.I. 2017/949](https://www.legislation.gov.uk/wsi/2017/949), [art. 2(c)](https://www.legislation.gov.uk/wsi/2017/949/article/2/c)

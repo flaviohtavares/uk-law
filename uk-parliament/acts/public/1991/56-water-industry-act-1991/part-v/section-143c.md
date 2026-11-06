@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143C. Rules under section 143B: procedure[^key-ab5bcc1326204b4bebf89b4c8595ac51][^M_C_4d8100a8-1110-4719-e9f4-0e96a98c7425]
+## 143C. Rules under section 143B: procedure[^c-ab5bcc1326204b4bebf89b4c8595ac51][^M_C_4d8100a8-1110-4719-e9f4-0e96a98c7425]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab5bcc1326204b4bebf89b4c8595ac51]: Textual amendment: Ss. 143B-143E inserted (15.7.2015 for the insertion of s. 143C(1)-(7), 1.11.2015 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/a), [4(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/a) (with [art. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
+[^c-ab5bcc1326204b4bebf89b4c8595ac51]: Textual amendment: Ss. 143B-143E inserted (15.7.2015 for the insertion of s. 143C(1)-(7), 1.11.2015 in so far as not already in force) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/16/2), [94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3); [S.I. 2015/1469](https://www.legislation.gov.uk/uksi/2015/1469), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/2/a), [4(a)](https://www.legislation.gov.uk/uksi/2015/1469/article/4/a) (with [art. 5(4)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/4)[(5)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/5))
 
 [^M_C_4d8100a8-1110-4719-e9f4-0e96a98c7425]: Modification: S. 143C applied (with modifications) by S.I. 2013/1582, Sch. 11(2B) (as inserted (31.3.2017) by [The Water Act 2014 (Consequential Amendments etc.) Order 2017 (S.I. 2017/506)](https://www.legislation.gov.uk/uksi/2017/506), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2017/506/article/1/1), [30(12)(d)](https://www.legislation.gov.uk/uksi/2017/506/article/30/12/d))

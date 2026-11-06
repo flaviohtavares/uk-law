@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27D (Extent: W.). Orders dissolving separate community councils for communities (Extent: W.)[^key-f1ae539771c6d4b896e80257a1d8a45f]
+## 27D (Extent: W.). Orders dissolving separate community councils for communities (Extent: W.)[^c-f1ae539771c6d4b896e80257a1d8a45f]
 
 *Extent: E+W.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1ae539771c6d4b896e80257a1d8a45f]: Textual amendment: S. 27D inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 104](https://www.legislation.gov.uk/mwa/2011/4/section/104), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-f1ae539771c6d4b896e80257a1d8a45f]: Textual amendment: S. 27D inserted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 104](https://www.legislation.gov.uk/mwa/2011/4/section/104), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

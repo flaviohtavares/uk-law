@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Resolution not to issue casino licences[^key-c4990ff0b5ea739e240365735f294847]
+## 166. Resolution not to issue casino licences[^c-c4990ff0b5ea739e240365735f294847]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4990ff0b5ea739e240365735f294847]: Commencement: S. 166 in force at 31.3.2006 by [S.I. 2006/631](https://www.legislation.gov.uk/uksi/2006/631), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/631/article/2/1/a)
+[^c-c4990ff0b5ea739e240365735f294847]: Commencement: S. 166 in force at 31.3.2006 by [S.I. 2006/631](https://www.legislation.gov.uk/uksi/2006/631), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/631/article/2/1/a)

@@ -44,17 +44,17 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State, as a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002], in relation to matters relating to consumer protection and to the control of advertising, makes the following Regulations in exercise of the powers conferred by section 2(2) of that Act.
 
-## 1. Citation, commencement and interpretation[^key-7d06e7f8904547cc604bb9bfa372ffc2][^key-aee196422a326fa8238452624310f8d3]
+## 1. Citation, commencement and interpretation[^c-7d06e7f8904547cc604bb9bfa372ffc2][^c-aee196422a326fa8238452624310f8d3]
 
-(1)[^key-7d06e7f8904547cc604bb9bfa372ffc2] These Regulations may be cited as the Consumer Protection (Amendment) Regulations 2014.
+(1)[^c-7d06e7f8904547cc604bb9bfa372ffc2] These Regulations may be cited as the Consumer Protection (Amendment) Regulations 2014.
 
-(2)[^key-7d06e7f8904547cc604bb9bfa372ffc2] Paragraph (1), this paragraph and regulation 9 come into force on 13th June 2014 immediately before the coming into force of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^f00003] and apply in relation to contracts entered into on or after that date.
+(2)[^c-7d06e7f8904547cc604bb9bfa372ffc2] Paragraph (1), this paragraph and regulation 9 come into force on 13th June 2014 immediately before the coming into force of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^f00003] and apply in relation to contracts entered into on or after that date.
 
-(3)[^key-aee196422a326fa8238452624310f8d3] The remaining provisions of these Regulations come into force on 1st October 2014 and apply in relation to contracts entered into, or payments made, on or after that date.
+(3)[^c-aee196422a326fa8238452624310f8d3] The remaining provisions of these Regulations come into force on 1st October 2014 and apply in relation to contracts entered into, or payments made, on or after that date.
 
-(4)[^key-aee196422a326fa8238452624310f8d3] In these Regulations “the 2008 Regulations” means the Consumer Protection from Unfair Trading Regulations 2008[^f00004].
+(4)[^c-aee196422a326fa8238452624310f8d3] In these Regulations “the 2008 Regulations” means the Consumer Protection from Unfair Trading Regulations 2008[^f00004].
 
-## 2. Amendments to regulation 2 of the 2008 Regulations[^key-fc8fb459f5384475bff091626b7787f1]
+## 2. Amendments to regulation 2 of the 2008 Regulations[^c-fc8fb459f5384475bff091626b7787f1]
 
 (1) Regulation 2 of the 2008 Regulations (interpretation) is amended as follows.
 
@@ -119,7 +119,7 @@ The Secretary of State, as a Minister designated[^f00001] for the purposes of se
 
 .
 
-## 3. New Part 4A of the 2008 Regulations[^key-3bb4a0ff96c773f2c010e04d82360c1f]
+## 3. New Part 4A of the 2008 Regulations[^c-3bb4a0ff96c773f2c010e04d82360c1f]
 
 After Part 4 of the 2008 Regulations insert—
 
@@ -434,7 +434,7 @@ After Part 4 of the 2008 Regulations insert—
 
 .
 
-## 4. Other amendments of the 2008 Regulations[^key-d818dd3bc69ef3dfc15d56d883e7f16b]
+## 4. Other amendments of the 2008 Regulations[^c-d818dd3bc69ef3dfc15d56d883e7f16b]
 
 (1) In regulation 19(1) of the 2008 Regulations (duty of enforcement authority to enforce regulations), at the end insert “(other than Part 4A).”.
 
@@ -442,7 +442,7 @@ After Part 4 of the 2008 Regulations insert—
 
 (3) In regulation 29 of the 2008 Regulations (agreement not to be void or unenforceable by reason of breach of Regulations), at the beginning insert “Except as provided by Part 4A, ”.
 
-## 5. Amendments of other enactments[^key-1919fcbc2e778b960de83ee0c8922509]
+## 5. Amendments of other enactments[^c-1919fcbc2e778b960de83ee0c8922509]
 
 In section 2 of the Misrepresentation Act 1967[^f00016] (damages for misrepresentation), after subsection (3) insert—
 
@@ -452,7 +452,7 @@ In section 2 of the Misrepresentation Act 1967[^f00016] (damages for misrepresen
 
 .
 
-**6.**[^key-1463ba8e548335bd47563ccc3b06fc06] In section 2 of the Misrepresentation Act (Northern Ireland) 1967[^f00017] (damages for misrepresentation), after subsection (3) insert—
+**6.**[^c-1463ba8e548335bd47563ccc3b06fc06] In section 2 of the Misrepresentation Act (Northern Ireland) 1967[^f00017] (damages for misrepresentation), after subsection (3) insert—
 
 > (4) This section does not entitle a person to be paid damages in respect of a misrepresentation if the person has a right to redress under Part 4A of the Consumer Protection from Unfair Trading Regulations 2008 ([SI 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277)) in respect of the conduct constituting the misrepresentation.
 >
@@ -460,13 +460,13 @@ In section 2 of the Misrepresentation Act 1967[^f00016] (damages for misrepresen
 
 .
 
-**7.**[^key-69e897487fe27bc00460921e82e12933] In paragraph 1 of Schedule 1 to the Prescription and Limitation (Scotland) Act 1973[^f00018] (obligations affected by prescriptive periods of five years under section 6), before paragraph (b) insert—
+**7.**[^c-69e897487fe27bc00460921e82e12933] In paragraph 1 of Schedule 1 to the Prescription and Limitation (Scotland) Act 1973[^f00018] (obligations affected by prescriptive periods of five years under section 6), before paragraph (b) insert—
 
 > - (af) to any obligation arising by virtue of a right to redress under Part 4A of the Consumer Protection from Unfair Trading Regulations 2008 ([SI 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277));
 
 .
 
-**8.**[^key-09abf623b49cc40fbb033730130af9b0] In section 10 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985[^f00019] (negligent misrepresentation), after subsection (2) insert—
+**8.**[^c-09abf623b49cc40fbb033730130af9b0] In section 10 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1985[^f00019] (negligent misrepresentation), after subsection (2) insert—
 
 > (3) This section does not entitle a person to be paid damages in respect of a misrepresentation if the person has a right to redress under Part 4A of the Consumer Protection from Unfair Trading Regulations 2008 ([SI 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277)) in respect of the conduct constituting the misrepresentation.
 >
@@ -474,7 +474,7 @@ In section 2 of the Misrepresentation Act 1967[^f00016] (damages for misrepresen
 
 .
 
-**9.**[^key-e241633b02ee0e84933295dabb48af81] (1) The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 are amended as follows.
+**9.**[^c-e241633b02ee0e84933295dabb48af81] (1) The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013 are amended as follows.
 
 (2) In regulation 35(8) (consumer not required to bear cost of collecting goods unless consumer agreed to bear them) for “unless the consumer agreed to bear them.” substitute “unless the trader has offered to collect the goods and the consumer has agreed to bear the costs of the trader doing so.”.
 
@@ -552,17 +552,17 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7), Schedule 1, paragraph 1.
 
-[^key-7d06e7f8904547cc604bb9bfa372ffc2]: Commencement: Reg. 1(1)(2) in force at 13.6.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2)
+[^c-7d06e7f8904547cc604bb9bfa372ffc2]: Commencement: Reg. 1(1)(2) in force at 13.6.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/2)
 
-[^key-aee196422a326fa8238452624310f8d3]: Commencement: Reg. 1(3)(4) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
+[^c-aee196422a326fa8238452624310f8d3]: Commencement: Reg. 1(3)(4) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
 
 [^f00003]: Footnote: [S.I. 2013/3134](https://www.legislation.gov.uk/uksi/2013/3134).
 
 [^f00004]: Footnote: [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), amended by [S.I. 2013/3134](https://www.legislation.gov.uk/uksi/2013/3134) and [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549).
 
-[^key-fc8fb459f5384475bff091626b7787f1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/870/regulation/2) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
+[^c-fc8fb459f5384475bff091626b7787f1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/870/regulation/2) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
 
-[^key-3bb4a0ff96c773f2c010e04d82360c1f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/870/regulation/3) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
+[^c-3bb4a0ff96c773f2c010e04d82360c1f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/870/regulation/3) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
 
 [^f00005]: Footnote: [1988 c.50](https://www.legislation.gov.uk/ukpga/1988/50); Part 1 was amended by the Courts and Legal Services Act [1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41), Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15), Housing and Regeneration Act [2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17), Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22) and Anti-social Behaviour, Crime and Policing Act [2014 (c.12)](https://www.legislation.gov.uk/ukpga/2014/12)
 
@@ -586,22 +586,22 @@ An impact assessment of the effect that the instrument will have on the costs of
 
 [^f00015]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-d818dd3bc69ef3dfc15d56d883e7f16b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/870/regulation/4) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
+[^c-d818dd3bc69ef3dfc15d56d883e7f16b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/870/regulation/4) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
 
-[^key-1919fcbc2e778b960de83ee0c8922509]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/870/regulation/5) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
+[^c-1919fcbc2e778b960de83ee0c8922509]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/870/regulation/5) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
 
 [^f00016]: Footnote: [1967 c.7](https://www.legislation.gov.uk/ukpga/1967/7).
 
-[^key-1463ba8e548335bd47563ccc3b06fc06]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/870/regulation/6) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
+[^c-1463ba8e548335bd47563ccc3b06fc06]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/870/regulation/6) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
 
 [^f00017]: Footnote: [1967 c.14](https://www.legislation.gov.uk/ukpga/1967/14).
 
-[^key-69e897487fe27bc00460921e82e12933]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/870/regulation/7) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
+[^c-69e897487fe27bc00460921e82e12933]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/870/regulation/7) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
 
 [^f00018]: Footnote: [1973 c.52](https://www.legislation.gov.uk/ukpga/1973/52).
 
-[^key-09abf623b49cc40fbb033730130af9b0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/870/regulation/8) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
+[^c-09abf623b49cc40fbb033730130af9b0]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/870/regulation/8) in force at 1.10.2014, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
 
 [^f00019]: Footnote: [1985 c.73](https://www.legislation.gov.uk/ukpga/1985/73).
 
-[^key-e241633b02ee0e84933295dabb48af81]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/870/regulation/9) in force at 13.6.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)
+[^c-e241633b02ee0e84933295dabb48af81]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/870/regulation/9) in force at 13.6.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/870/regulation/1/3)

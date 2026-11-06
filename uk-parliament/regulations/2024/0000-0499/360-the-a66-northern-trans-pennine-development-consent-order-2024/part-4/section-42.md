@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Traffic regulation measures[^key-01673dee7e3041eccb55a42ee62ba36d]
+## 42. Traffic regulation measures[^c-01673dee7e3041eccb55a42ee62ba36d]
 
 *Extent: E+W*
 
@@ -66,7 +66,7 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-01673dee7e3041eccb55a42ee62ba36d]: Commencement: Art. 42 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-01673dee7e3041eccb55a42ee62ba36d]: Commencement: Art. 42 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
 
 [^f00105]: Footnote: [S.I. 2011/935](https://www.legislation.gov.uk/uksi/2011/935).
 

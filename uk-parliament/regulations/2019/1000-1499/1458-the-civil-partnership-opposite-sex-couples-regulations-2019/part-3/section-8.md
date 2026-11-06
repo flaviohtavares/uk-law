@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**8.**[^key-d878fdb8385af3af522958018021cb6e] (1) The Marriages and Civil Partnerships (Approved Premises) Regulations 2005[^f00011] are amended as follows.
+**8.**[^c-d878fdb8385af3af522958018021cb6e] (1) The Marriages and Civil Partnerships (Approved Premises) Regulations 2005[^f00011] are amended as follows.
 
 (2) Omit regulation 2B.
 
@@ -123,6 +123,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d878fdb8385af3af522958018021cb6e]: Commencement: Reg. 8 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-d878fdb8385af3af522958018021cb6e]: Commencement: Reg. 8 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2005/3168](https://www.legislation.gov.uk/uksi/2005/3168), amended by [S.I. 2011/2661](https://www.legislation.gov.uk/uksi/2011/2661); there are other amending instruments but none is relevant.

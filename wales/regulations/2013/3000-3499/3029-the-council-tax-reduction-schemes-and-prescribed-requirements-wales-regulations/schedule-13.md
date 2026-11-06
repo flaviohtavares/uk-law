@@ -24,7 +24,7 @@ Regulation 34(3)
 
 ### PART 1 — Applications
 
-#### 1. Who may make an application[^key-558e86ae9e302e7d1738e45bb08a27b0]
+#### 1. Who may make an application[^c-558e86ae9e302e7d1738e45bb08a27b0]
 
 (1) In the case of—
 
@@ -57,7 +57,7 @@ that deputy, judicial factor, guardian or attorney, as the case may be, may make
 - (b) explain the possible consequences (including prosecution) of failing to comply with that duty; and
 - (c) set out the circumstances a change in which might affect entitlement to a reduction or its amount.
 
-#### 2. Date on which an application is made[^key-a6f9b123073099d477edbc252ae6f58e]
+#### 2. Date on which an application is made[^c-a6f9b123073099d477edbc252ae6f58e]
 
 (1) Subject to sub-paragraph (7), the date on which an application is made is—
 
@@ -125,13 +125,13 @@ or, in either case, within such longer period as the authority considers reasona
 
 (7) Except in the case of an application made by a person treated as not being in Great Britain, where the applicant is not entitled to a reduction under an authority’s scheme at the time that the application is received by an authority but the authority is of the opinion that, unless there is a change of circumstances, the applicant will be entitled to a reduction under its scheme for a period beginning not later than the thirteenth reduction week following the date on which the application is made (or such other period as the authority considers reasonable), the authority may treat the application as made on a date in the reduction week immediately preceding the first reduction week of that period of entitlement and award a reduction accordingly.
 
-#### 3. Back-dating of applications: pensioners[^key-a68db6f7ff27aafcd82f9ee501c2d7c6]
+#### 3. Back-dating of applications: pensioners[^c-a68db6f7ff27aafcd82f9ee501c2d7c6]
 
 (1) Subject to sub-paragraph (2), the time for the making of an application for a reduction under an authority’s scheme by a pensioner is, as regards any day on which, apart from satisfying the condition of making an application, the applicant is entitled to such a reduction, that day and the period of three months immediately following it.
 
 (2) In any case where paragraph 2(1)(a) applies, sub-paragraph (1) does not entitle a person to apply for a reduction under an authority’s scheme in respect of any day earlier than 3 months before the date on which the claim for state pension credit is made (or treated as made by virtue of any provision of the Social Security (Claims and Payments) Regulations 1987[^f00371]).
 
-#### 4. Back-dating of applications: persons who are not pensioners[^key-a3eabc9ebc315caec4a8ddf235230b32]
+#### 4. Back-dating of applications: persons who are not pensioners[^c-a3eabc9ebc315caec4a8ddf235230b32]
 
 (1) Where an applicant who is a person who is not a pensioner—
 
@@ -146,7 +146,7 @@ the application is to be treated as made on the date determined in accordance wi
 - (b) the day 3 months before the date the application was made;
 - (c) the day 3 months before the date when the applicant requested that the application should include a past period.
 
-#### 5. Evidence and information[^key-0efc838bb912f53029be808551d25331]
+#### 5. Evidence and information[^c-0efc838bb912f53029be808551d25331]
 
 (1) Subject to sub-paragraph (3), a person who makes an application for a reduction under an authority’s scheme must satisfy sub-paragraph (2) in relation both to the person making the application and to any other person in respect of whom the person is making the application.
 
@@ -180,17 +180,17 @@ the application is to be treated as made on the date determined in accordance wi
 
 - (a) a payment which is—
   - (i) disregarded under paragraph 28 of Schedule 9 (sums disregarded in the calculation of income other than earnings: persons who are not pensioners) or paragraph 38 of Schedule 10 (capital disregards: persons who are not pensioners); or
-  - (ii) made under or by the Trusts, the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , an approved blood scheme, the Scottish Infected Blood Support Scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund[^key-1b8f9e39cb1c2b475843bf50ce12e4e0] , the Windrush Compensation Scheme[^key-53b12a6e66be4cca351cf409a97f93f4] or the London Bombings Relief Charitable Fund;
+  - (ii) made under or by the Trusts, the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , an approved blood scheme, the Scottish Infected Blood Support Scheme, the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-1b8f9e39cb1c2b475843bf50ce12e4e0] , the Windrush Compensation Scheme[^c-53b12a6e66be4cca351cf409a97f93f4] or the London Bombings Relief Charitable Fund;
 - (b) a payment which is disregarded under paragraph 16 of Schedule 5 (payments made under certain trusts and certain other payments) other than a payment under the Independent Living Fund (2006);
-- (c) a payment which is disregarded under paragraph 5(9)(b) or (c) of Schedule 6 (non-dependent deductions; persons who are not pensioners) other than a payment made under the Independent Living Fund (2006) ;[^key-f427daa07f121fd507d0a57f1244e33d]
-- (d)[^key-c32659e6cce61833da333dd2a4e465aa] a payment which is disregarded under paragraph 28D or 28E of Schedule 5 (capital disregards: pensioners) or paragraph 66 or 67 of Schedule 10 (capital disregards: persons who are not pensioners).
+- (c) a payment which is disregarded under paragraph 5(9)(b) or (c) of Schedule 6 (non-dependent deductions; persons who are not pensioners) other than a payment made under the Independent Living Fund (2006) ;[^c-f427daa07f121fd507d0a57f1244e33d]
+- (d)[^c-c32659e6cce61833da333dd2a4e465aa] a payment which is disregarded under paragraph 28D or 28E of Schedule 5 (capital disregards: pensioners) or paragraph 66 or 67 of Schedule 10 (capital disregards: persons who are not pensioners).
 
 (8) Where an applicant or a person to whom a reduction under an authority’s scheme has been awarded or any partner has attained the qualifying age for state pension credit and is a member of, or a person deriving entitlement to a pension under a personal pension scheme, the person must where the authority so requires furnish the following information—
 
 - (a) the name and address of the pension fund holder;
 - (b) such other information including any reference or policy number as is needed to enable the personal pension scheme to be identified.
 
-#### 6. Amendment and withdrawal of application[^key-66e3235d0a3013cfa35cbf18b015893b]
+#### 6. Amendment and withdrawal of application[^c-66e3235d0a3013cfa35cbf18b015893b]
 
 (1) A person who has made an application may amend it at any time before a decision has been made on it by a notice in writing delivered or sent to the designated office.
 
@@ -206,7 +206,7 @@ the application is to be treated as made on the date determined in accordance wi
 
 (7) Where a person, by telephone, amends or withdraws an application the person must (if required to do so by the authority) confirm the amendment or withdrawal by a notice in writing delivered or sent to the designated office.
 
-#### 7. Duty to notify changes of circumstances[^key-b4859a9173f1a9fe2d51282689c1b9db]
+#### 7. Duty to notify changes of circumstances[^c-b4859a9173f1a9fe2d51282689c1b9db]
 
 (1) Subject to sub-paragraphs (3) and (8), the applicant (or any person acting on the applicant’s behalf) must comply with sub-paragraph (2) if there is a relevant change of circumstances at any time—
 
@@ -252,11 +252,11 @@ and whether such a person or, as the case may be, non-dependant stops living or 
 
 ### PART 2 — Decisions by an authority
 
-#### 8. Decision by an authority[^key-19bbb7f33b2ab4b86fcabe010b92933b]
+#### 8. Decision by an authority[^c-19bbb7f33b2ab4b86fcabe010b92933b]
 
 An authority must make a decision on an application for a reduction under its scheme within 14 days of paragraphs 2 and 5 being satisfied, or as soon as reasonably practicable thereafter.
 
-#### 9. Notification of decision[^key-1716939f2ca601f484e66516bcffd180]
+#### 9. Notification of decision[^c-1716939f2ca601f484e66516bcffd180]
 
 (1) An authority must notify in writing any person affected by a decision made by it under its scheme—
 
@@ -290,7 +290,7 @@ An authority must make a decision on an application for a reduction under its sc
 
 ### PART 3 — Award or payment of reduction
 
-#### 10. The award or payment of a reduction under a scheme[^key-917851d9816223135b7786b35e38fe99]
+#### 10. The award or payment of a reduction under a scheme[^c-917851d9816223135b7786b35e38fe99]
 
 (1) Subject to sub-paragraph (2), where a person is entitled to a reduction under an authority’s scheme in respect of that person’s liability for council tax as it has effect in respect of a financial year, the authority must discharge that person’s entitlement by reducing, so far as possible, the amount of that person’s liability to which regulation 20(2) of the Council Tax (Administration and Enforcement) Regulations 1992 refers.
 
@@ -308,7 +308,7 @@ it may make a payment to that person of the amount of reduction to which that pe
 
 ## Annotations
 
-[^key-558e86ae9e302e7d1738e45bb08a27b0]: Commencement: Sch. 13 para. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-558e86ae9e302e7d1738e45bb08a27b0]: Commencement: Sch. 13 para. 1 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00366]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
@@ -320,32 +320,32 @@ it may make a payment to that person of the amount of reduction to which that pe
 
 [^f00370]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
-[^key-a6f9b123073099d477edbc252ae6f58e]: Commencement: Sch. 13 para. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-a6f9b123073099d477edbc252ae6f58e]: Commencement: Sch. 13 para. 2 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-a68db6f7ff27aafcd82f9ee501c2d7c6]: Commencement: Sch. 13 para. 3 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-a68db6f7ff27aafcd82f9ee501c2d7c6]: Commencement: Sch. 13 para. 3 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00371]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
-[^key-a3eabc9ebc315caec4a8ddf235230b32]: Commencement: Sch. 13 para. 4 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-a3eabc9ebc315caec4a8ddf235230b32]: Commencement: Sch. 13 para. 4 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-0efc838bb912f53029be808551d25331]: Commencement: Sch. 13 para. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-0efc838bb912f53029be808551d25331]: Commencement: Sch. 13 para. 5 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
 [^f00372]: Footnote: [1999 c.33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-1b8f9e39cb1c2b475843bf50ce12e4e0]: Textual amendment: Words in Sch. 13 para. 5(7)(a)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [14](https://www.legislation.gov.uk/wsi/2018/14/regulation/14)
+[^c-1b8f9e39cb1c2b475843bf50ce12e4e0]: Textual amendment: Words in Sch. 13 para. 5(7)(a)(ii) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2018 (S.I. 2018/14)](https://www.legislation.gov.uk/wsi/2018/14), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/14/regulation/1/2), [14](https://www.legislation.gov.uk/wsi/2018/14/regulation/14)
 
-[^key-53b12a6e66be4cca351cf409a97f93f4]: Textual amendment: Words in Sch. 13 para. 5(7)(a)(ii) inserted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2021 (S.I. 2021/34)](https://www.legislation.gov.uk/wsi/2021/34), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/34/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2021/34/regulation/10)
+[^c-53b12a6e66be4cca351cf409a97f93f4]: Textual amendment: Words in Sch. 13 para. 5(7)(a)(ii) inserted (with application in accordance with reg. 1(3)(4) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2021 (S.I. 2021/34)](https://www.legislation.gov.uk/wsi/2021/34), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/34/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2021/34/regulation/10)
 
-[^key-f427daa07f121fd507d0a57f1244e33d]: Textual amendment: Sch. 13 para. 5(7)(c): semicolon substituted for full stop (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2022 (S.I. 2022/51)](https://www.legislation.gov.uk/wsi/2022/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2), [10(a)](https://www.legislation.gov.uk/wsi/2022/51/regulation/10/a)
+[^c-f427daa07f121fd507d0a57f1244e33d]: Textual amendment: Sch. 13 para. 5(7)(c): semicolon substituted for full stop (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2022 (S.I. 2022/51)](https://www.legislation.gov.uk/wsi/2022/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2), [10(a)](https://www.legislation.gov.uk/wsi/2022/51/regulation/10/a)
 
-[^key-c32659e6cce61833da333dd2a4e465aa]: Textual amendment: Sch. 13 para. 5(7)(d) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2022 (S.I. 2022/51)](https://www.legislation.gov.uk/wsi/2022/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2), [10(b)](https://www.legislation.gov.uk/wsi/2022/51/regulation/10/b)
+[^c-c32659e6cce61833da333dd2a4e465aa]: Textual amendment: Sch. 13 para. 5(7)(d) inserted (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (Wales) (Amendment) Regulations 2022 (S.I. 2022/51)](https://www.legislation.gov.uk/wsi/2022/51), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/51/regulation/1/2), [10(b)](https://www.legislation.gov.uk/wsi/2022/51/regulation/10/b)
 
-[^key-66e3235d0a3013cfa35cbf18b015893b]: Commencement: Sch. 13 para. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-66e3235d0a3013cfa35cbf18b015893b]: Commencement: Sch. 13 para. 6 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-b4859a9173f1a9fe2d51282689c1b9db]: Commencement: Sch. 13 para. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-b4859a9173f1a9fe2d51282689c1b9db]: Commencement: Sch. 13 para. 7 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-19bbb7f33b2ab4b86fcabe010b92933b]: Commencement: Sch. 13 para. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-19bbb7f33b2ab4b86fcabe010b92933b]: Commencement: Sch. 13 para. 8 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-1716939f2ca601f484e66516bcffd180]: Commencement: Sch. 13 para. 9 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-1716939f2ca601f484e66516bcffd180]: Commencement: Sch. 13 para. 9 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
 
-[^key-917851d9816223135b7786b35e38fe99]: Commencement: Sch. 13 para. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-917851d9816223135b7786b35e38fe99]: Commencement: Sch. 13 para. 10 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

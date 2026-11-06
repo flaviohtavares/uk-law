@@ -33,8 +33,8 @@ summary: ''
 - (a) the subject of a school attendance order which is in force under section 437 of the Education Act 1996[^c15164931] and which has not been complied with; or
 - (b)[^c19037541] is not attending regularly within the meaning of section 444 of that Act—
   - (i) a school at which he is a registered pupil,
-  - (ii) any place at which education is provided for him in the circumstances mentioned in subsection (1) or (1A)[^key-e146e9d3a347c91794b8323133319099] of section 444ZA of that Act, or
-  - (iii) any place which he is required to attend in the circumstances mentioned in subsection (1B) or[^key-6ceda7cc6734b1a6911eb5f3a3ba3458] (2) of that section,
+  - (ii) any place at which education is provided for him in the circumstances mentioned in subsection (1) or (1A)[^c-e146e9d3a347c91794b8323133319099] of section 444ZA of that Act, or
+  - (iii) any place which he is required to attend in the circumstances mentioned in subsection (1B) or[^c-6ceda7cc6734b1a6911eb5f3a3ba3458] (2) of that section,
 
 then, unless it is proved that he is being properly educated, it shall be assumed that he is not.
 
@@ -58,7 +58,7 @@ then, unless it is proved that he is being properly educated, it shall be assume
 
 (10) Part III of Schedule 3 makes further provision with respect to education supervision orders.
 
-(11)[^key-6a55f2d90b869c81c3b04497332cc4f1] Where, for the purposes of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, a local authority in Wales is responsible for a child or a child is looked after by a local authority in Wales, the reference to special educational needs in subsection (4) is to be interpreted as a reference to additional learning needs (which has the same meaning as in that Act).
+(11)[^c-6a55f2d90b869c81c3b04497332cc4f1] Where, for the purposes of the Additional Learning Needs and Education Tribunal (Wales) Act 2018, a local authority in Wales is responsible for a child or a child is looked after by a local authority in Wales, the reference to special educational needs in subsection (4) is to be interpreted as a reference to additional learning needs (which has the same meaning as in that Act).
 
 ## Annotations
 
@@ -70,9 +70,9 @@ then, unless it is proved that he is being properly educated, it shall be assume
 
 [^c19037541]: Textual amendment: S. 36(5)(b) substituted (1.9.2005 for E. and 1.9.2006 for W.) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 117](https://www.legislation.gov.uk/ukpga/2005/18/section/117), [119](https://www.legislation.gov.uk/ukpga/2005/18/section/119), [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/18/paragraph/1); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 4](https://www.legislation.gov.uk/uksi/2005/2034/article/4); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 
-[^key-e146e9d3a347c91794b8323133319099]: Textual amendment: Words in s. 36(5)(b)(ii) inserted (1.9.2012) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 43(a)](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/43/a); [S.I. 2012/2197](https://www.legislation.gov.uk/uksi/2012/2197), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2197/article/2/b)
+[^c-e146e9d3a347c91794b8323133319099]: Textual amendment: Words in s. 36(5)(b)(ii) inserted (1.9.2012) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 43(a)](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/43/a); [S.I. 2012/2197](https://www.legislation.gov.uk/uksi/2012/2197), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2197/article/2/b)
 
-[^key-6ceda7cc6734b1a6911eb5f3a3ba3458]: Textual amendment: Words in s. 36(5)(b)(iii) inserted (1.9.2012) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 43(b)](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/43/b); [S.I. 2012/2197](https://www.legislation.gov.uk/uksi/2012/2197), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2197/article/2/b)
+[^c-6ceda7cc6734b1a6911eb5f3a3ba3458]: Textual amendment: Words in s. 36(5)(b)(iii) inserted (1.9.2012) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 1 para. 43(b)](https://www.legislation.gov.uk/ukpga/2008/25/schedule/1/paragraph/43/b); [S.I. 2012/2197](https://www.legislation.gov.uk/uksi/2012/2197), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2197/article/2/b)
 
 [^c20900231]: Textual amendment: Words in s. 36(7) substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/1158/article/5/1), [Sch. 2 para. 37(7)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/37/7/b)
 
@@ -82,4 +82,4 @@ then, unless it is proved that he is being properly educated, it shall be assume
 
 [^c20900271]: Textual amendment: Words in s. 36(8) inserted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2010/1158/article/5/1), [Sch. 2 para. 37(7)(c)(ii)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/37/7/c/ii)
 
-[^key-6a55f2d90b869c81c3b04497332cc4f1]: Textual amendment: S. 36(11) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/2/3); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(iii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/iii)
+[^c-6a55f2d90b869c81c3b04497332cc4f1]: Textual amendment: S. 36(11) inserted (1.9.2021) by [Additional Learning Needs and Education Tribunal (Wales) Act 2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2), [s. 100(3)](https://www.legislation.gov.uk/anaw/2018/2/section/100/3), [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/anaw/2018/2/schedule/1/paragraph/2/3); [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(j)(iii)](https://www.legislation.gov.uk/wsi/2021/373/article/8/j/iii)

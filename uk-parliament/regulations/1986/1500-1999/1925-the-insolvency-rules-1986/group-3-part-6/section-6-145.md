@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.145. Notice to official receiver of intention to vacate office[^key-760366734609fcac80f2ee17b97d4a64][^key-3db268fff2b8239a0a47282113b57745]
+## 6.145. Notice to official receiver of intention to vacate office[^c-760366734609fcac80f2ee17b97d4a64][^c-3db268fff2b8239a0a47282113b57745]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-760366734609fcac80f2ee17b97d4a64]: Commencement: [Rule 6.145](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.145) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-760366734609fcac80f2ee17b97d4a64]: Commencement: [Rule 6.145](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.145) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-3db268fff2b8239a0a47282113b57745]: Textual amendment: [Rule 6.145](https://www.legislation.gov.uk/uksi/1986/1925/article/6.145) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 116](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/116)
+[^c-3db268fff2b8239a0a47282113b57745]: Textual amendment: [Rule 6.145](https://www.legislation.gov.uk/uksi/1986/1925/article/6.145) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 116](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/116)

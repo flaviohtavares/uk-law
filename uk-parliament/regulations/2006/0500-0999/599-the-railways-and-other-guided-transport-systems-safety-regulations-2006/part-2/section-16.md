@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Office of Rail and Road[^key-17a35cc840d4e9ce92033a3e83a2246a] shall revoke a safety authorisation if it is satisfied that the holder is no longer satisfying the conditions of that safety authorisation and there is a significant risk arising as a result.
+(1) The Office of Rail and Road[^c-17a35cc840d4e9ce92033a3e83a2246a] shall revoke a safety authorisation if it is satisfied that the holder is no longer satisfying the conditions of that safety authorisation and there is a significant risk arising as a result.
 
 (2) In this regulation, “**conditions**” means—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17a35cc840d4e9ce92033a3e83a2246a]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2006/599/regulation/16) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(m)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/m)
+[^c-17a35cc840d4e9ce92033a3e83a2246a]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2006/599/regulation/16) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(m)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/m)

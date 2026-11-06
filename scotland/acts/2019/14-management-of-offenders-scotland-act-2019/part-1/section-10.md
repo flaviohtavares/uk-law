@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Arrangements for monitoring system[^key-53841d7c75bedd67b280cb2fc2e08a3f]
+## 10. Arrangements for monitoring system[^c-53841d7c75bedd67b280cb2fc2e08a3f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53841d7c75bedd67b280cb2fc2e08a3f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/14/section/10) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/f) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))
+[^c-53841d7c75bedd67b280cb2fc2e08a3f]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/14/section/10) in force at 17.5.2022 by [S.S.I. 2022/94](https://www.legislation.gov.uk/ssi/2022/94), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2022/94/regulation/2/2/f) (with [reg. 1(2)](https://www.legislation.gov.uk/ssi/2022/94/regulation/1/2))

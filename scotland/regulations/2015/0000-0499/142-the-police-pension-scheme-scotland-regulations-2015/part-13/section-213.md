@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 213. General prohibition on unauthorised payments[^key-f2ab4be9c97c33b116bde5251543d702]
+## 213. General prohibition on unauthorised payments[^c-f2ab4be9c97c33b116bde5251543d702]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Nothing in these Regulations requires or authorises the making of any payment, w
 
 ## Annotations
 
-[^key-f2ab4be9c97c33b116bde5251543d702]: Commencement: Reg. 213 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f2ab4be9c97c33b116bde5251543d702]: Commencement: Reg. 213 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

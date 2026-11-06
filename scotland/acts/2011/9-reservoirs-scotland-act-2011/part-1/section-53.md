@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Defences: offence under section 52(1)(c)[^key-7fb425e97db54aff9a572713d901a2f9]
+## 53. Defences: offence under section 52(1)(c)[^c-7fb425e97db54aff9a572713d901a2f9]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ It is a defence to a charge in proceedings under section 52(1)(c) for the person
 
 ## Annotations
 
-[^key-7fb425e97db54aff9a572713d901a2f9]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2011/9/section/53) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))
+[^c-7fb425e97db54aff9a572713d901a2f9]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2011/9/section/53) in force at 1.4.2016 by [S.S.I. 2016/42](https://www.legislation.gov.uk/ssi/2016/42), [art. 2](https://www.legislation.gov.uk/ssi/2016/42/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/42/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/42/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Closure of deferred member’s account after gap in pensionable service not exceeding five years[^key-4a5351ea4fe80aed6f6195eef0506e4b]
+## 49. Closure of deferred member’s account after gap in pensionable service not exceeding five years[^c-4a5351ea4fe80aed6f6195eef0506e4b]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a5351ea4fe80aed6f6195eef0506e4b]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2015/19/regulation/49) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-4a5351ea4fe80aed6f6195eef0506e4b]: Commencement: [Reg. 49](https://www.legislation.gov.uk/ssi/2015/19/regulation/49) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

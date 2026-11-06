@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Applicable amounts[^key-07c3629626158cc5b597747cfa810dbc]
+## 15. Applicable amounts[^c-07c3629626158cc5b597747cfa810dbc]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ Subject to regulation 16 (polygamous marriages), the weekly applicable amount of
 
 ## Annotations
 
-[^key-07c3629626158cc5b597747cfa810dbc]: Commencement: Reg. 15 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)
+[^c-07c3629626158cc5b597747cfa810dbc]: Commencement: Reg. 15 in operation at 16.2.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/8/regulation/1)

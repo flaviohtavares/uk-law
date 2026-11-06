@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Suspension of restriction on development of Bridgwater C[^key-e6681f014edb86e786f62793a8ef2b85]
+## 38. Suspension of restriction on development of Bridgwater C[^c-e6681f014edb86e786f62793a8ef2b85]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6681f014edb86e786f62793a8ef2b85]: Textual amendment: [Art. 38](https://www.legislation.gov.uk/uksi/2013/648/article/38) omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [4](https://www.legislation.gov.uk/uksi/2017/843/article/4)
+[^c-e6681f014edb86e786f62793a8ef2b85]: Textual amendment: [Art. 38](https://www.legislation.gov.uk/uksi/2013/648/article/38) omitted (18.8.2017) by virtue of [The Hinkley Point C (Nuclear Generating Station) (Amendment) Order 2017 (S.I. 2017/843)](https://www.legislation.gov.uk/uksi/2017/843), [arts. 1](https://www.legislation.gov.uk/uksi/2017/843/article/1), [4](https://www.legislation.gov.uk/uksi/2017/843/article/4)

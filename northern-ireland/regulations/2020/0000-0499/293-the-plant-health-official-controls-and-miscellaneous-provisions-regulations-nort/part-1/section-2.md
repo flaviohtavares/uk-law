@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation: general[^key-a3ec51ee49967f0f896b71d4e531b55d]
+## 2. Interpretation: general[^c-a3ec51ee49967f0f896b71d4e531b55d]
 
 *Extent: N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ec51ee49967f0f896b71d4e531b55d]: Commencement: Reg. 2 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-a3ec51ee49967f0f896b71d4e531b55d]: Commencement: Reg. 2 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 

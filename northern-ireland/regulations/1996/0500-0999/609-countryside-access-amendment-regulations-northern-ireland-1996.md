@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Agriculture being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by that section, and by Article 3(1) and (2) of the Agriculture (Conservation Grants) (Northern Ireland) Order 1995[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-a521c66c8eee2ae02632d2b0a10c79e3]
+## 1. Citation, commencement and interpretation[^c-a521c66c8eee2ae02632d2b0a10c79e3]
 
 (1) These Regulations may be cited as the Countryside Access (Amendment) Regulations (Northern Ireland) 1996 and shall come into operation on 1st January 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendments to the Countryside Access Regulations (Northern Ireland) 1996[^key-bf8b4841e63799fde63e523de7e46861]
+## 2. Amendments to the Countryside Access Regulations (Northern Ireland) 1996[^c-bf8b4841e63799fde63e523de7e46861]
 
 (1) The Countryside Access Regulations (Northern Ireland) 1996[^f00005] shall be amended as provided by paragraphs (2) to (6).
 
@@ -84,9 +84,9 @@ The Department of Agriculture being a Department designated[^f00001] for the pur
 
 > (1) Subject to the provisions of these Regulations, of Article 20(3) of the Commission Regulation (which requires a person who, intentionally or by reason of gross negligence, makes a false declaration, to be excluded from all aid under the Council Regulation) and, in respect of an application made on or after 1st January 1997, of Article 10 of the Commission Regulation (which restricts duplication of aid payments), the Department shall make payments of aid in respect of each year of the duration of the undertakings referred to in regulation 3.
 
-(5)[^key-3cd97915e8a295dbbe927a844d8f1357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3cd97915e8a295dbbe927a844d8f1357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-3cd97915e8a295dbbe927a844d8f1357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3cd97915e8a295dbbe927a844d8f1357] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Sealed with the Official Seal of the Department of Agriculture for Northern Ireland on 23rd December 1996.
 
@@ -119,11 +119,11 @@ No Compliance Cost Assessment in relation to these Regulations has been prepared
 
 [^f00003]: Footnote: S.I. [1995/3212 (N.I. 21)](https://www.legislation.gov.uk/nisi/1995/3212)
 
-[^key-a521c66c8eee2ae02632d2b0a10c79e3]: Commencement: Reg. 1 in operation at 1.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/609/regulation/1/1)
+[^c-a521c66c8eee2ae02632d2b0a10c79e3]: Commencement: Reg. 1 in operation at 1.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/609/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-bf8b4841e63799fde63e523de7e46861]: Commencement: Reg. 2 in operation at 1.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/609/regulation/1/1)
+[^c-bf8b4841e63799fde63e523de7e46861]: Commencement: Reg. 2 in operation at 1.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/609/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1996 No. 213](https://www.legislation.gov.uk/nisr/1996/213)
 
@@ -135,4 +135,4 @@ No Compliance Cost Assessment in relation to these Regulations has been prepared
 
 [^f00009]: Footnote: O.J. No. L259, 12.10.96, p. 7
 
-[^key-3cd97915e8a295dbbe927a844d8f1357]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/1996/609/regulation/2/5)[(6)](https://www.legislation.gov.uk/nisr/1996/609/regulation/2/6) revoked (30.11.1998) by [Countryside Access (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/368)](https://www.legislation.gov.uk/nisr/1998/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/368/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/1998/368/regulation/2/2)
+[^c-3cd97915e8a295dbbe927a844d8f1357]: Textual amendment: [Reg. 2(5)](https://www.legislation.gov.uk/nisr/1996/609/regulation/2/5)[(6)](https://www.legislation.gov.uk/nisr/1996/609/regulation/2/6) revoked (30.11.1998) by [Countryside Access (Amendment) Regulations (Northern Ireland) 1998 (S.R. 1998/368)](https://www.legislation.gov.uk/nisr/1998/368), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/368/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/1998/368/regulation/2/2)

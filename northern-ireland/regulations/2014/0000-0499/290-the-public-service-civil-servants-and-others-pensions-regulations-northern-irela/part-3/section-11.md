@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Scheme advisory board: membership[^key-c2d5b0ac743ed3ccaa59ca6e47103cf8]
+## 11. Scheme advisory board: membership[^c-c2d5b0ac743ed3ccaa59ca6e47103cf8]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2d5b0ac743ed3ccaa59ca6e47103cf8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2014/290/regulation/11) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-c2d5b0ac743ed3ccaa59ca6e47103cf8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2014/290/regulation/11) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

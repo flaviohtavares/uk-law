@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Management administrators[^key-7bbfcdaa14264a0aa043195af6298da2]
+## 63. Management administrators[^c-7bbfcdaa14264a0aa043195af6298da2]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 ## Annotations
 
-[^key-7bbfcdaa14264a0aa043195af6298da2]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2005/3181/article/63) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-7bbfcdaa14264a0aa043195af6298da2]: Commencement: [Art. 63](https://www.legislation.gov.uk/uksi/2005/3181/article/63) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00042]: Footnote: [1986 c. 32](https://www.legislation.gov.uk/ukpga/1986/32).
 

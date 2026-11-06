@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. “Provider pornographic content” and “regulated provider pornographic content”[^key-42cbbf828767e7420ddc4c27ecf8d6e3]
+## 79. “Provider pornographic content” and “regulated provider pornographic content”[^c-42cbbf828767e7420ddc4c27ecf8d6e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42cbbf828767e7420ddc4c27ecf8d6e3]: Commencement: S. 79 in force at Royal Assent, see [s. 240(4)(k)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/k)
+[^c-42cbbf828767e7420ddc4c27ecf8d6e3]: Commencement: S. 79 in force at Royal Assent, see [s. 240(4)(k)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/k)

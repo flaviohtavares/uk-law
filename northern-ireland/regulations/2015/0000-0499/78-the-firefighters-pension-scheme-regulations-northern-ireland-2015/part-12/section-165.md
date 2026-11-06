@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 165. Appeals on other issues[^key-a533e9088e3d2463b03672ce6f239a89]
+## 165. Appeals on other issues[^c-a533e9088e3d2463b03672ce6f239a89]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a person makes a formal complaint to the Scheme Manager which does not inv
 
 ## Annotations
 
-[^key-a533e9088e3d2463b03672ce6f239a89]: Textual amendment: [Reg. 165](https://www.legislation.gov.uk/nisr/2015/78/regulation/165) and heading substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 2(7)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/2/7)
+[^c-a533e9088e3d2463b03672ce6f239a89]: Textual amendment: [Reg. 165](https://www.legislation.gov.uk/nisr/2015/78/regulation/165) and heading substituted (1.4.2022) by [The Firefighters’ Pension Schemes (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/155)](https://www.legislation.gov.uk/nisr/2022/155), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/155/regulation/1/2), [Sch. 1 para. 2(7)](https://www.legislation.gov.uk/nisr/2022/155/schedule/1/paragraph/2/7)

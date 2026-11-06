@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.72. Further disclosure[^key-00f236eaf91390f19c960ef97d85fa73]
+## 6.72. Further disclosure[^c-00f236eaf91390f19c960ef97d85fa73]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00f236eaf91390f19c960ef97d85fa73]: Commencement: [Rule 6.72](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.72) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-00f236eaf91390f19c960ef97d85fa73]: Commencement: [Rule 6.72](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.72) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

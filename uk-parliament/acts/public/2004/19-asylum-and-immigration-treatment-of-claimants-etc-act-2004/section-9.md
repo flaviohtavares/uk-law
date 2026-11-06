@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Failed asylum seekers: withdrawal of support[^key-e488c477a5dc455985b16d1f4218cd46]
+## 9. Failed asylum seekers: withdrawal of support[^c-e488c477a5dc455985b16d1f4218cd46]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 - (a) that by virtue of a provision of Schedule 3 to the Nationality, Immigration and Asylum Act 2002 (c. 41) other than paragraph 7A a person is not qualified to receive support, or
 - (b) on the grounds of the application of a provision of that Schedule other than paragraph 7A, to stop providing support to a person.
 
-(4) On an appeal under section 103 of the Immigration and Asylum Act 1999 (c. 33) against a decision made by virtue of paragraph 7A of Schedule 3 to the Nationality, Immigration and Asylum Act 2002 the First-tier Tribunal[^key-60d03d6c6a5eaabd988b8448c9592dfe] may, in particular—
+(4) On an appeal under section 103 of the Immigration and Asylum Act 1999 (c. 33) against a decision made by virtue of paragraph 7A of Schedule 3 to the Nationality, Immigration and Asylum Act 2002 the First-tier Tribunal[^c-60d03d6c6a5eaabd988b8448c9592dfe] may, in particular—
 
 - (a) annul a certificate of the Secretary of State issued for the purposes of that paragraph;
 - (b) require the Secretary of State to reconsider the matters certified.
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e488c477a5dc455985b16d1f4218cd46]: Commencement: S. 9 in force at 1.12.2004 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2004/2999/article/3), [4](https://www.legislation.gov.uk/uksi/2004/2999/article/4))
+[^c-e488c477a5dc455985b16d1f4218cd46]: Commencement: S. 9 in force at 1.12.2004 by [S.I. 2004/2999](https://www.legislation.gov.uk/uksi/2004/2999), [art. 2](https://www.legislation.gov.uk/uksi/2004/2999/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2999/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2004/2999/article/3), [4](https://www.legislation.gov.uk/uksi/2004/2999/article/4))
 
-[^key-60d03d6c6a5eaabd988b8448c9592dfe]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/ukpga/2004/19/section/9/4) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 203](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/203)
+[^c-60d03d6c6a5eaabd988b8448c9592dfe]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/ukpga/2004/19/section/9/4) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 203](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/203)

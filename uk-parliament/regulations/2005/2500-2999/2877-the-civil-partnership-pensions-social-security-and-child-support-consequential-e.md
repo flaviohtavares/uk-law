@@ -229,7 +229,7 @@ In regulation 2 of the Occupational Pension Schemes (Internal Dispute Resolution
   - (ii) after “surviving spouse” insert “ or, as the case may be, a surviving civil partner ”;
 - (b) in sub-paragraph (5)(a), after “not married” insert “ or not in a civil partnership ”.
 
-### 6. Occupational Pension Schemes (Modification of Schemes) Regulations 1996[^key-90c567101b783ee3493b00b42d786f2b]
+### 6. Occupational Pension Schemes (Modification of Schemes) Regulations 1996[^c-90c567101b783ee3493b00b42d786f2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -275,7 +275,7 @@ In Schedule 1 to the Social Security (Employed Earners' Employments for Industri
 - (a) after “spouse” insert “ or civil partner ”;
 - (b) after “spouse's” insert “ or civil partner's ”.
 
-### 3. Social Security (Hospital In-Patients) Regulations 1975[^key-d88c924021d1991724d8c708997f16c5]
+### 3. Social Security (Hospital In-Patients) Regulations 1975[^c-d88c924021d1991724d8c708997f16c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -646,13 +646,13 @@ In regulation 2 of the Social Security Benefit (Persons Residing Together) Regul
 
 (8) In regulation 36 (payment to a partner as alternative payee), in paragraph (2)(a) [^c1313703], for “of a married or unmarried” substitute “ member of a ”.
 
-### 15. Housing Benefit (General) Regulations 1987[^key-74e577b7f085dece8d155da2bda3315d]
+### 15. Housing Benefit (General) Regulations 1987[^c-74e577b7f085dece8d155da2bda3315d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-74e577b7f085dece8d155da2bda3315d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-74e577b7f085dece8d155da2bda3315d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Housing Benefit (Supply of Information) Regulations 1988[^key-c5d00a94ffc371f8ab46826fe5935d7e]
+### 17. Housing Benefit (Supply of Information) Regulations 1988[^c-c5d00a94ffc371f8ab46826fe5935d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -668,11 +668,11 @@ In regulation 2 of the Social Security (Attendance Allowance) Regulations 1991 [
 
 In regulation 2 of the Social Security (Disability Living Allowance) Regulations 1991 [^c1313727] (conditions as to residence and presence in Great Britain), in paragraph (2)(c), after “spouse,” insert “ civil partner, ”.
 
-### 21. Council Tax Benefit (General) Regulations 1992[^key-8de0387379afebe43b4b0059db4fbd33]
+### 21. Council Tax Benefit (General) Regulations 1992[^c-8de0387379afebe43b4b0059db4fbd33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-8de0387379afebe43b4b0059db4fbd33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-8de0387379afebe43b4b0059db4fbd33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 23. Social Security (Incapacity Benefit – Increases for Dependants) Regulations 1994
 
@@ -857,7 +857,7 @@ In regulation 17 of the Social Security (Claims and Information) Regulations 199
 - (b) for “a married or unmarried couple” substitute “ a couple ”;
 - (c) after “also a member” insert “ , and “**couple**” has the same meaning as in regulation 1(3) of the Jobseeker's Allowance Regulations 1996 ”[^c1313773].
 
-### 32. Social Fund Winter Fuel Payment Regulations 2000[^key-486b3cf584e7ec3e07e262f4d5b25199]
+### 32. Social Fund Winter Fuel Payment Regulations 2000[^c-486b3cf584e7ec3e07e262f4d5b25199]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -965,7 +965,7 @@ In regulation 17 of the Social Security (Claims and Information) Regulations 199
   - (i) omit “, where a person is a member of a married or an unmarried couple,”;
   - (ii) for “that” substitute “ a ”.
 
-(3)[^key-017f93aca2992a90f4f9e420e095b0a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-017f93aca2992a90f4f9e420e095b0a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 37. Social Security (Jobcentre Plus Interviews for Partners) Regulations 2003
 
@@ -1311,7 +1311,7 @@ A regulatory impact assessment has not been prepared for this Order as it has no
 
 [^c1313615]: Marginal citation: [Paragraph 6ZA](https://www.legislation.gov.uk/uksi/2005/2877/paragraph/6ZA) was inserted by [S.I. 2002/1383](https://www.legislation.gov.uk/uksi/2002/1383).
 
-[^key-90c567101b783ee3493b00b42d786f2b]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2005/2877/schedule/2/paragraph/6) revoked (6.4.2006) by [Occupational Pension Schemes (Modification of Schemes) Regulations 2006 (S.I. 2006/759)](https://www.legislation.gov.uk/uksi/2006/759), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/759/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2006/759/schedule)
+[^c-90c567101b783ee3493b00b42d786f2b]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2005/2877/schedule/2/paragraph/6) revoked (6.4.2006) by [Occupational Pension Schemes (Modification of Schemes) Regulations 2006 (S.I. 2006/759)](https://www.legislation.gov.uk/uksi/2006/759), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/759/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2006/759/regulation/9), [Sch.](https://www.legislation.gov.uk/uksi/2006/759/schedule)
 
 [^c1313617]: Marginal citation: [S.I. 1997/785](https://www.legislation.gov.uk/uksi/1997/785).
 
@@ -1329,7 +1329,7 @@ A regulatory impact assessment has not been prepared for this Order as it has no
 
 [^c1313624]: Marginal citation: [S.I. 1975/467](https://www.legislation.gov.uk/uksi/1975/467).
 
-[^key-d88c924021d1991724d8c708997f16c5]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/3) revoked (10.4.2006 for specified purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
+[^c-d88c924021d1991724d8c708997f16c5]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/3) revoked (10.4.2006 for specified purposes) by [Social Security (Hospital In-Patients) Regulations 2005 (S.I. 2005/3360)](https://www.legislation.gov.uk/uksi/2005/3360), [regs. 1(e)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/1/e), [9(2)](https://www.legislation.gov.uk/uksi/2005/3360/regulation/9/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3360/schedule)
 
 [^c1313632]: Marginal citation: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556).
 
@@ -1475,9 +1475,9 @@ A regulatory impact assessment has not been prepared for this Order as it has no
 
 [^c1313703]: Marginal citation: [Regulation 36](https://www.legislation.gov.uk/uksi/2005/2877/regulation/36) was renumbered as regulation 36(1) and paragraph (2) was inserted by [S.I. 2002/2660](https://www.legislation.gov.uk/uksi/2002/2660).
 
-[^key-74e577b7f085dece8d155da2bda3315d]: Textual amendment: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/16) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [Instrument](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-74e577b7f085dece8d155da2bda3315d]: Textual amendment: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/16) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [Instrument](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-c5d00a94ffc371f8ab46826fe5935d7e]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/17) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-c5d00a94ffc371f8ab46826fe5935d7e]: Textual amendment: [Sch. 3 para. 17](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/17) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1313724]: Marginal citation: [S.I. 1988/664](https://www.legislation.gov.uk/uksi/1988/664).
 
@@ -1487,7 +1487,7 @@ A regulatory impact assessment has not been prepared for this Order as it has no
 
 [^c1313727]: Marginal citation: [S.I. 1991/2890](https://www.legislation.gov.uk/uksi/1991/2890).
 
-[^key-8de0387379afebe43b4b0059db4fbd33]: Textual amendment: [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/22) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-8de0387379afebe43b4b0059db4fbd33]: Textual amendment: [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/22) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1313743]: Marginal citation: [S.I. 1994/2945](https://www.legislation.gov.uk/uksi/1994/2945).
 
@@ -1551,7 +1551,7 @@ A regulatory impact assessment has not been prepared for this Order as it has no
 
 [^c1313773]: Marginal citation: The definition of “couple” in regulation 1(3) of the [Jobseeker's Allowance Regulations 1996 (S.I. 1996/207)](https://www.legislation.gov.uk/uksi/1996/207) has been substituted by paragraph 26(2)(b) of this Schedule.
 
-[^key-486b3cf584e7ec3e07e262f4d5b25199]: Textual amendment: [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/32) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2) (as amended by [S.I. 2024/898](https://www.legislation.gov.uk/uksi/2024/898), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/898/regulation/1/1), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2024/898/regulation/2/3/c/i))
+[^c-486b3cf584e7ec3e07e262f4d5b25199]: Textual amendment: [Sch. 3 para. 32](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/32) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations 2024 (S.I. 2024/869)](https://www.legislation.gov.uk/uksi/2024/869), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/869/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/869/schedule/2) (as amended by [S.I. 2024/898](https://www.legislation.gov.uk/uksi/2024/898), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/898/regulation/1/1), [2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2024/898/regulation/2/3/c/i))
 
 [^c1313775]: Marginal citation: [S.I. 2001/1395](https://www.legislation.gov.uk/uksi/2001/1395).
 
@@ -1571,7 +1571,7 @@ A regulatory impact assessment has not been prepared for this Order as it has no
 
 [^c1313783]: Marginal citation: [S.I. 2002/3196](https://www.legislation.gov.uk/uksi/2002/3196).
 
-[^key-017f93aca2992a90f4f9e420e095b0a5]: Textual amendment: [Sch. 3 para. 36(3)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/36/3) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-017f93aca2992a90f4f9e420e095b0a5]: Textual amendment: [Sch. 3 para. 36(3)](https://www.legislation.gov.uk/uksi/2005/2877/schedule/3/paragraph/36/3) revoked () (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
 [^c1313784]: Marginal citation: [S.I. 2003/1886](https://www.legislation.gov.uk/uksi/2003/1886).
 

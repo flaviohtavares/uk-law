@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115A. Loans made by the Secretary of State[^key-371e4304f67a614a772260bc65fd0e75]
+## 115A. Loans made by the Secretary of State[^c-371e4304f67a614a772260bc65fd0e75]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-371e4304f67a614a772260bc65fd0e75]: Textual amendment: [S. 115A](https://www.legislation.gov.uk/ukpga/2004/35/section/115A) inserted (20.10.2021) by [Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021 (c. 29)](https://www.legislation.gov.uk/ukpga/2021/29), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2021/29/section/2/2)
+[^c-371e4304f67a614a772260bc65fd0e75]: Textual amendment: [S. 115A](https://www.legislation.gov.uk/ukpga/2004/35/section/115A) inserted (20.10.2021) by [Compensation (London Capital & Finance plc and Fraud Compensation Fund) Act 2021 (c. 29)](https://www.legislation.gov.uk/ukpga/2021/29), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2021/29/section/2/2)

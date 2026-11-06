@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Financial assistance for benevolent bodies[^key-b27a370f249b1c4c8e4bd796d2152fb5]
+## 97. Financial assistance for benevolent bodies[^c-b27a370f249b1c4c8e4bd796d2152fb5]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b27a370f249b1c4c8e4bd796d2152fb5]: Commencement: S. 97 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)
+[^c-b27a370f249b1c4c8e4bd796d2152fb5]: Commencement: S. 97 in force at 1.1.2006 by [S.S.I. 2005/644](https://www.legislation.gov.uk/ssi/2005/644), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/644/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/644/schedule/1)

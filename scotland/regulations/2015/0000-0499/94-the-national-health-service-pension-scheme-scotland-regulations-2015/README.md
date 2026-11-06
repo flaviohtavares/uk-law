@@ -48,7 +48,7 @@ Coming into force
 
 In accordance with section 21(1) of that Act, the Scottish Ministers consulted the representatives of such persons as appeared to the Scottish Ministers likely to be affected by these Regulations.
 
-In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.[^key-0c1f27ff43cc187337c07c11d5c4b3e5][^key-37267f58ee33c56a8bbd9e33908ba1dd]
+In accordance with section 3(5) of that Act, these Regulations are made with the consent of the Treasury.[^c-0c1f27ff43cc187337c07c11d5c4b3e5][^c-37267f58ee33c56a8bbd9e33908ba1dd]
 
 ## Contents
 
@@ -434,6 +434,6 @@ An impact assessment has not been prepared for this instrument as no impact on t
 
 [^c22414701]: Marginal citation: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-0c1f27ff43cc187337c07c11d5c4b3e5]: Modification: Regulations modified (25.3.2022 immediately after the expiry of [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 46](https://www.legislation.gov.uk/ukpga/2020/7/section/46)) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/117)](https://www.legislation.gov.uk/ssi/2022/117), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/117/regulation/1/3), [5](https://www.legislation.gov.uk/ssi/2022/117/regulation/5)
+[^c-0c1f27ff43cc187337c07c11d5c4b3e5]: Modification: Regulations modified (25.3.2022 immediately after the expiry of [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 46](https://www.legislation.gov.uk/ukpga/2020/7/section/46)) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendments) (Scotland) Regulations 2022 (S.S.I. 2022/117)](https://www.legislation.gov.uk/ssi/2022/117), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2022/117/regulation/1/3), [5](https://www.legislation.gov.uk/ssi/2022/117/regulation/5)
 
-[^key-37267f58ee33c56a8bbd9e33908ba1dd]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2015/94) modified (temp.) (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2024/272/regulation/2), [5](https://www.legislation.gov.uk/ssi/2024/272/regulation/5)
+[^c-37267f58ee33c56a8bbd9e33908ba1dd]: Modification: [Instrument](https://www.legislation.gov.uk/ssi/2015/94) modified (temp.) (with effect in accordance with reg. 1(3) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2024/272/regulation/2), [5](https://www.legislation.gov.uk/ssi/2024/272/regulation/5)

@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes these Rules in exercise of the powers conferred by section 239(5) and 330(3) of the Criminal Justice Act 2003[^f00001].
 
-## 1. Citation, extent, commencement and interpretation[^key-63ea367cd3258813e863c602f4d90fec]
+## 1. Citation, extent, commencement and interpretation[^c-63ea367cd3258813e863c602f4d90fec]
 
 (1) These Rules may be cited as the Parole Board (Amendment) Rules 2024.
 
@@ -57,9 +57,9 @@ The Secretary of State makes these Rules in exercise of the powers conferred by 
 (4) In these Rules—
 
 - (a) “**the 2019 Rules**” means the Parole Board Rules 2019[^f00002];
-- (b)[^key-f7cd09ad301d4cdc30284bd09a66c0bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f7cd09ad301d4cdc30284bd09a66c0bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2019 Rules[^key-c2a1eeb22f9ad4e6c63f7f41bbaa49d2]
+## 2. Amendments to the 2019 Rules[^c-c2a1eeb22f9ad4e6c63f7f41bbaa49d2]
 
 (1) The 2019 Rules are amended as follows.
 
@@ -132,7 +132,7 @@ The Secretary of State makes these Rules in exercise of the powers conferred by 
 (13) In rule 28 (reconsideration of decisions)—
 
 - (a) in paragraph (1), for “21(7), 25(1) or 31(6)(a) or (c) or (6A)” substitute “19(1A), 21(7), 21(7A), 25(1), 25(1A), 31(6) or 31(6A);
-- (b)[^key-5b76c47ac54fb1b8f481a9bb0cc932db] in paragraph (3) for “provided” substitute “sent”.
+- (b)[^c-5b76c47ac54fb1b8f481a9bb0cc932db] in paragraph (3) for “provided” substitute “sent”.
 
 (14) In rule 29 (error of procedure), in paragraph (b), after “considers appropriate” insert “, but such directions or steps must not include the reconsideration of provisional decisions or the setting aside of final decisions, procedures for which are governed by rules 28 and 28A.”.
 
@@ -187,12 +187,12 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-63ea367cd3258813e863c602f4d90fec]: Commencement: Rule 1 in force at 1.11.2024, see [rule 1(3)](https://www.legislation.gov.uk/uksi/2024/1011/rule/1/3)
+[^c-63ea367cd3258813e863c602f4d90fec]: Commencement: Rule 1 in force at 1.11.2024, see [rule 1(3)](https://www.legislation.gov.uk/uksi/2024/1011/rule/1/3)
 
 [^f00002]: Footnote: [S.I. 2019/1038](https://www.legislation.gov.uk/uksi/2019/1038), to which there are relevant amendments in [S.I. 2022/717](https://www.legislation.gov.uk/uksi/2022/717), and [S.I. 2023/397](https://www.legislation.gov.uk/uksi/2023/397).
 
-[^key-f7cd09ad301d4cdc30284bd09a66c0bc]: Textual amendment: [Rule 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1011/rule/1/4/b) omitted (16.12.2025) by virtue of [The Parole Board (Amendment) Rules 2025 (S.I. 2025/1231)](https://www.legislation.gov.uk/uksi/2025/1231), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/1231/rule/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/1231/rule/3/2)
+[^c-f7cd09ad301d4cdc30284bd09a66c0bc]: Textual amendment: [Rule 1(4)(b)](https://www.legislation.gov.uk/uksi/2024/1011/rule/1/4/b) omitted (16.12.2025) by virtue of [The Parole Board (Amendment) Rules 2025 (S.I. 2025/1231)](https://www.legislation.gov.uk/uksi/2025/1231), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/1231/rule/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2025/1231/rule/3/2)
 
-[^key-c2a1eeb22f9ad4e6c63f7f41bbaa49d2]: Commencement: Rule 2 in force at 1.11.2024, see [rule 1(3)](https://www.legislation.gov.uk/uksi/2024/1011/rule/1/3)
+[^c-c2a1eeb22f9ad4e6c63f7f41bbaa49d2]: Commencement: Rule 2 in force at 1.11.2024, see [rule 1(3)](https://www.legislation.gov.uk/uksi/2024/1011/rule/1/3)
 
-[^key-5b76c47ac54fb1b8f481a9bb0cc932db]: Textual amendment: [Rule 2(13)(b)](https://www.legislation.gov.uk/uksi/2024/1011/rule/2/13/b) substituted (16.12.2025) by [The Parole Board (Amendment) Rules 2025 (S.I. 2025/1231)](https://www.legislation.gov.uk/uksi/2025/1231), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/1231/rule/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/1231/rule/3/3)
+[^c-5b76c47ac54fb1b8f481a9bb0cc932db]: Textual amendment: [Rule 2(13)(b)](https://www.legislation.gov.uk/uksi/2024/1011/rule/2/13/b) substituted (16.12.2025) by [The Parole Board (Amendment) Rules 2025 (S.I. 2025/1231)](https://www.legislation.gov.uk/uksi/2025/1231), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/1231/rule/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2025/1231/rule/3/3)

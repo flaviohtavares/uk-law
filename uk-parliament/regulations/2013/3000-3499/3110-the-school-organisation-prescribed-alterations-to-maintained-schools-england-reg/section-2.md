@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-3585a8b0e7d33c7067b6c176dce4f243]
+## 2. Interpretation[^c-3585a8b0e7d33c7067b6c176dce4f243]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 - “representation period” means the period prescribed in these Regulations in which objections or comments in relation to the proposals must be made;
 - “site” does not include playing fields but otherwise includes any site which is to form part of the premises of the school in question;
 - “sixth form education” means full time secondary education suitable to the requirements of pupils over compulsory school age;
-- [^key-89ba27f5a598771e5a237d7306f68d59]...
+- [^c-89ba27f5a598771e5a237d7306f68d59]...
 - “special school” has the same meaning as in section 337 of the Education Act 1996[^f00009];
 - “sponsor governor” means a person who is nominated as a sponsor governor and is appointed as such by the governing body in accordance with Schedule 5 to the School Governance (Constitution) Regulations 2007[^f00010];
 - “transferor” and “transferee” mean the transferor and transferee under any transfer to which these Regulations apply;
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3585a8b0e7d33c7067b6c176dce4f243]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3110/regulation/2) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)
+[^c-3585a8b0e7d33c7067b6c176dce4f243]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/3110/regulation/2) in force at 28.1.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/1/1)
 
 [^f00003]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31).
 
@@ -63,7 +63,7 @@ summary: ''
 
 [^f00007]: Footnote: [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13). Section 91(3) was amended by paras 1and 13 of Sched 8 to the Apprenticeships, Skills, Children and Learning Act 2009.
 
-[^key-89ba27f5a598771e5a237d7306f68d59]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/2/1) omitted (1.9.2014) by virtue of [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [47](https://www.legislation.gov.uk/uksi/2014/2103/article/47)
+[^c-89ba27f5a598771e5a237d7306f68d59]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/3110/regulation/2/1) omitted (1.9.2014) by virtue of [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [47](https://www.legislation.gov.uk/uksi/2014/2103/article/47)
 
 [^f00009]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 

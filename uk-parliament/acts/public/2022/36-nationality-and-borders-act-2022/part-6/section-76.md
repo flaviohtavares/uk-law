@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Liability of carriers[^key-39597ab61d41f7c4726d8ae4dd82801b][^key-019a8a710f4ceb9ee1aa77899c3929ac][^key-cba7f991bbe5e6270346720eeae0986a]
+## 76. Liability of carriers[^c-39597ab61d41f7c4726d8ae4dd82801b][^c-019a8a710f4ceb9ee1aa77899c3929ac][^c-cba7f991bbe5e6270346720eeae0986a]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,8 +74,8 @@ summary: ''
 
 ## Annotations
 
-[^key-39597ab61d41f7c4726d8ae4dd82801b]: Commencement: S. 76 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-39597ab61d41f7c4726d8ae4dd82801b]: Commencement: S. 76 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-019a8a710f4ceb9ee1aa77899c3929ac]: Modification: [S. 76](https://www.legislation.gov.uk/ukpga/2022/36/section/76) extended (with modifications) (Guernsey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2025 (S.I. 2025/1138)](https://www.legislation.gov.uk/uksi/2025/1138), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1138/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1138/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/schedule/2)
+[^c-019a8a710f4ceb9ee1aa77899c3929ac]: Modification: [S. 76](https://www.legislation.gov.uk/ukpga/2022/36/section/76) extended (with modifications) (Guernsey) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Guernsey) Order 2025 (S.I. 2025/1138)](https://www.legislation.gov.uk/uksi/2025/1138), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1138/article/1/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2025/1138/schedule/1), [2](https://www.legislation.gov.uk/uksi/2025/1138/schedule/2)
 
-[^key-cba7f991bbe5e6270346720eeae0986a]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/36/section/76) in force at 20.3.2026 by [S.I. 2026/165](https://www.legislation.gov.uk/uksi/2026/165), [reg. 2](https://www.legislation.gov.uk/uksi/2026/165/regulation/2)
+[^c-cba7f991bbe5e6270346720eeae0986a]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2022/36/section/76) in force at 20.3.2026 by [S.I. 2026/165](https://www.legislation.gov.uk/uksi/2026/165), [reg. 2](https://www.legislation.gov.uk/uksi/2026/165/regulation/2)

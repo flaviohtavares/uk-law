@@ -32,7 +32,7 @@ Regulation 9
 
 **2.** (1) The consolidated balance sheet and profit and loss account must incorporate in full the information contained in the individual accounts of the undertakings included in the consolidation, subject to the adjustments authorised or required by the following provisions of this Schedule and to such other adjustments (if any) as may be appropriate in accordance with generally accepted accounting principles or practice.
 
-(1A)[^key-5e3508a770e399b0289fdac00511d4cf] Group accounts must be drawn up as at the same date as the accounts of the parent company.
+(1A)[^c-5e3508a770e399b0289fdac00511d4cf] Group accounts must be drawn up as at the same date as the accounts of the parent company.
 
 (2) If the financial year of a subsidiary undertaking included in the consolidation does not end with that of the parent company, the group accounts must be made up—
 
@@ -77,9 +77,9 @@ Regulation 9
 
 (5) The resulting amount if positive must be treated as goodwill, and if negative as a negative consolidation difference.
 
-(6)[^key-dd649fc616c89c24869aff0ff082deef] Negative goodwill may be transferred to the consolidated profit and loss account where such a treatment is in accordance with the principles and rules of Part 2 of Schedule 1 to these Regulations.
+(6)[^c-dd649fc616c89c24869aff0ff082deef] Negative goodwill may be transferred to the consolidated profit and loss account where such a treatment is in accordance with the principles and rules of Part 2 of Schedule 1 to these Regulations.
 
-**10.**[^key-efa8a19af25541ff373804ba32ab5ed4] The conditions for accounting for an acquisition as a merger are—
+**10.**[^c-efa8a19af25541ff373804ba32ab5ed4] The conditions for accounting for an acquisition as a merger are—
 
 - (a) that the undertaking whose shares are acquired is ultimately controlled by the same party both before and after the acquisition,
 - (b) that the control referred to in paragraph (a) is not transitory, and
@@ -150,14 +150,14 @@ and in relation to an acquisition which significantly affects the figures shown 
 
 if in the opinion of the directors of the parent company the disclosure would be seriously prejudicial to the business of that undertaking or to the business of the parent company or any of its subsidiary undertakings and the Secretary of State agrees that the information should not be disclosed.
 
-**16A.**[^key-d9c56c43094b50f2b7649a7764f84d8f] Where an acquisition has taken place in the financial year and the merger method of accounting has been adopted, the notes to the accounts must also disclose—
+**16A.**[^c-d9c56c43094b50f2b7649a7764f84d8f] Where an acquisition has taken place in the financial year and the merger method of accounting has been adopted, the notes to the accounts must also disclose—
 
 - (a) the address of the registered office of the undertaking acquired (whether in or outside the United Kingdom),
 - (b) the name of the party referred to in paragraph 10(a),
 - (c) the address of the registered office of that party (whether in or outside the United Kingdom), and
 - (d) the information referred to in paragraph 11(6).
 
-#### 17. Non-controlling interests[^key-200244f92da55effc741c66847db60d5]
+#### 17. Non-controlling interests[^c-200244f92da55effc741c66847db60d5]
 
 (1) The formats set out in Schedule 1 to these Regulations have effect in relation to group accounts with the following additions.
 
@@ -179,9 +179,9 @@ if in the opinion of the directors of the parent company the disclosure would be
 
 be dealt with in the group accounts by the method of proportional consolidation.
 
-(2) The provisions of this Schedule relating to the preparation of consolidated accounts and sections 402 and 405 of the 2006 Act[^key-d6bcbaf6a70df4285f03f1c3b0323eec] apply, with any necessary modifications, to proportional consolidation under this paragraph.
+(2) The provisions of this Schedule relating to the preparation of consolidated accounts and sections 402 and 405 of the 2006 Act[^c-d6bcbaf6a70df4285f03f1c3b0323eec] apply, with any necessary modifications, to proportional consolidation under this paragraph.
 
-(3)[^key-a4ce97da68d9071483dd95495a669ec3] In addition to the disclosure of the average number of employees employed during the financial year (see section 411(7) of the 2006 Act), there must be a separate disclosure in the notes to the accounts of the average number of employees employed by undertakings that are proportionately consolidated.
+(3)[^c-a4ce97da68d9071483dd95495a669ec3] In addition to the disclosure of the average number of employees employed during the financial year (see section 411(7) of the 2006 Act), there must be a separate disclosure in the notes to the accounts of the average number of employees employed by undertakings that are proportionately consolidated.
 
 #### 19. Associated undertakings
 
@@ -207,10 +207,10 @@ by two items: “Interests in associated undertakings” and “Other participat
 
 (3) In the profit and loss account formats replace the items headed “Income from participating interests”, that is—
 
-- (a) in format 1, item 8, and[^key-61ad5c6aba982f7fa52ed5e3f59320f0]
+- (a) in format 1, item 8, and[^c-61ad5c6aba982f7fa52ed5e3f59320f0]
 - (b) in format 2, item 10,
-- (c)[^key-c5e4a126e69826bda301c3445684dc0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-c5e4a126e69826bda301c3445684dc0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c5e4a126e69826bda301c3445684dc0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-c5e4a126e69826bda301c3445684dc0a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 by two items: “Income from interests in associated undertakings” and “Income from other participating interests”.
 
@@ -224,7 +224,7 @@ by two items: “Income from interests in associated undertakings” and “Inco
 
 Paragraph 72 of Schedule 1 to these Regulations applies to transactions which the parent company, or other undertakings included in the consolidation, have entered into with related parties, unless they are intra group transactions.
 
-#### 22A. Total amount of directors' remuneration etc[^key-4b41629389e354dfc82cbb11e258e1ed]
+#### 22A. Total amount of directors' remuneration etc[^c-4b41629389e354dfc82cbb11e258e1ed]
 
 Paragraph 1 of Schedule 5 to these Regulations applies to group accounts with the modification that only the amounts and values referred to in that paragraph received or receivable by the directors of the parent company from the parent company and any of its subsidiary undertakings must be disclosed in the notes to the accounts.
 
@@ -243,9 +243,9 @@ In its application to banking groups, Part 1 of this Schedule has effect with th
 - (a) the reference in sub-paragraph (1) to the provisions of Schedule 1 to these Regulations is to be construed as a reference to the provisions of Schedule 2 to these Regulations, and
 - (b) sub-paragraph (2) is to be omitted.
 
-**24A.**[^key-47502b3dd3e91add39b16e26d691e594] In paragraph 9 of this Schedule, the reference in sub-paragraph (6) to Schedule 1 is to these Regulations is to be construed as a reference to Schedule 2.
+**24A.**[^c-47502b3dd3e91add39b16e26d691e594] In paragraph 9 of this Schedule, the reference in sub-paragraph (6) to Schedule 1 is to these Regulations is to be construed as a reference to Schedule 2.
 
-#### 25. Non-controlling interests and associated undertakings[^key-0a31842678320102cf81318903ad95aa]
+#### 25. Non-controlling interests and associated undertakings[^c-0a31842678320102cf81318903ad95aa]
 
 (1) This paragraph adapts paragraphs 17 and 20 (which require items in respect of “non-controlling interests” and associated undertakings to be added to the formats set out in Schedule 1 to these Regulations) to the formats prescribed by Schedule 2 to these Regulations.
 
@@ -342,9 +342,9 @@ For sub-paragraph (4) of paragraph 6 substitute—
 
 .
 
-**35A.**[^key-7ffdf959a4f72e7341cc4b6d1ec760e4] In paragraph 9 of this Schedule, the reference in sub-paragraph (6) to Schedule 1 to these Regulations is to be construed as a reference to Schedule 3 to these Regulations.
+**35A.**[^c-7ffdf959a4f72e7341cc4b6d1ec760e4] In paragraph 9 of this Schedule, the reference in sub-paragraph (6) to Schedule 1 to these Regulations is to be construed as a reference to Schedule 3 to these Regulations.
 
-#### 36. Non-controlling interests[^key-643aef2314e1787b600efbf3787a3867]
+#### 36. Non-controlling interests[^c-643aef2314e1787b600efbf3787a3867]
 
 In paragraph 17—
 
@@ -394,11 +394,11 @@ In paragraph 22 of this Schedule, for the reference to paragraph 72 of Schedule 
 
 ## Annotations
 
-[^key-5e3508a770e399b0289fdac00511d4cf]: Textual amendment: Sch. 6 para. 2(1A) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(2)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-5e3508a770e399b0289fdac00511d4cf]: Textual amendment: Sch. 6 para. 2(1A) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(2)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-dd649fc616c89c24869aff0ff082deef]: Textual amendment: Sch. 6 para. 9(6) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-dd649fc616c89c24869aff0ff082deef]: Textual amendment: Sch. 6 para. 9(6) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-efa8a19af25541ff373804ba32ab5ed4]: Textual amendment: Sch. 6 para. 10 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(4)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-efa8a19af25541ff373804ba32ab5ed4]: Textual amendment: Sch. 6 para. 10 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(4)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
 [^c19250041]: Marginal citation: Section 131 is prospectively repealed by the 2006 Act.
 
@@ -408,24 +408,24 @@ In paragraph 22 of this Schedule, for the reference to paragraph 72 of Schedule 
 
 [^c19250071]: Marginal citation: Article 142 is prospectively repealed by the 2006 Act.
 
-[^key-d9c56c43094b50f2b7649a7764f84d8f]: Textual amendment: Sch. 6 para. 16A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(5)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-d9c56c43094b50f2b7649a7764f84d8f]: Textual amendment: Sch. 6 para. 16A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(5)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-200244f92da55effc741c66847db60d5]: Textual amendment: Sch. 6 para. 17 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(6)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-200244f92da55effc741c66847db60d5]: Textual amendment: Sch. 6 para. 17 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(6)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-d6bcbaf6a70df4285f03f1c3b0323eec]: Textual amendment: Words in Sch. 6 para. 18(2) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(7)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-d6bcbaf6a70df4285f03f1c3b0323eec]: Textual amendment: Words in Sch. 6 para. 18(2) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(7)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-a4ce97da68d9071483dd95495a669ec3]: Textual amendment: Sch. 6 para. 18(3) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(8)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-a4ce97da68d9071483dd95495a669ec3]: Textual amendment: Sch. 6 para. 18(3) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(8)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-61ad5c6aba982f7fa52ed5e3f59320f0]: Textual amendment: Word in Sch. 6 para. 20(3)(a) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(9)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/9/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-61ad5c6aba982f7fa52ed5e3f59320f0]: Textual amendment: Word in Sch. 6 para. 20(3)(a) inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(9)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/9/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-c5e4a126e69826bda301c3445684dc0a]: Textual amendment: Sch. 6 para. 20(3)(c)(d) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(9)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/9/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-c5e4a126e69826bda301c3445684dc0a]: Textual amendment: Sch. 6 para. 20(3)(c)(d) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(9)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/9/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-4b41629389e354dfc82cbb11e258e1ed]: Textual amendment: Sch. 6 paras. 22A, 22B inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(10)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-4b41629389e354dfc82cbb11e258e1ed]: Textual amendment: Sch. 6 paras. 22A, 22B inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(10)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/10) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-47502b3dd3e91add39b16e26d691e594]: Textual amendment: Sch. 6 para. 24A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(11)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/11) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-47502b3dd3e91add39b16e26d691e594]: Textual amendment: Sch. 6 para. 24A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(11)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/11) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-0a31842678320102cf81318903ad95aa]: Textual amendment: Sch. 6 para. 25 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(12)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/12) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-0a31842678320102cf81318903ad95aa]: Textual amendment: Sch. 6 para. 25 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(12)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/12) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-7ffdf959a4f72e7341cc4b6d1ec760e4]: Textual amendment: Sch. 6 para. 35A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(13)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-7ffdf959a4f72e7341cc4b6d1ec760e4]: Textual amendment: Sch. 6 para. 35A inserted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(13)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/13) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-643aef2314e1787b600efbf3787a3867]: Textual amendment: Sch. 6 para. 36 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(14)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-643aef2314e1787b600efbf3787a3867]: Textual amendment: Sch. 6 para. 36 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [39(14)](https://www.legislation.gov.uk/uksi/2015/980/regulation/39/14) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))

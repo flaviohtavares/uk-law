@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: S*
 
-SFRS[^key-d16c70e1aae117da3fdd442d6aafd0ef] may establish and maintain one or more centres for providing education and training in matters in relation to which it has[^key-cdbcd49243628439a061fc3dbd5efc6a] functions.
+SFRS[^c-d16c70e1aae117da3fdd442d6aafd0ef] may establish and maintain one or more centres for providing education and training in matters in relation to which it has[^c-cdbcd49243628439a061fc3dbd5efc6a] functions.
 
 ## Annotations
 
-[^key-d16c70e1aae117da3fdd442d6aafd0ef]: Textual amendment: Word in s. 15 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 109(a)](https://www.legislation.gov.uk/asp/2012/8/section/109/a), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-d16c70e1aae117da3fdd442d6aafd0ef]: Textual amendment: Word in s. 15 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 109(a)](https://www.legislation.gov.uk/asp/2012/8/section/109/a), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-cdbcd49243628439a061fc3dbd5efc6a]: Textual amendment: Words in s. 15 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 109(b)](https://www.legislation.gov.uk/asp/2012/8/section/109/b), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-cdbcd49243628439a061fc3dbd5efc6a]: Textual amendment: Words in s. 15 substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 109(b)](https://www.legislation.gov.uk/asp/2012/8/section/109/b), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

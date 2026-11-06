@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 18. Land management scheme: suspension[^key-87bce22fa1d66fbcf054b4a736ad554f]
+## 18. Land management scheme: suspension[^c-87bce22fa1d66fbcf054b4a736ad554f]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87bce22fa1d66fbcf054b4a736ad554f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukcm/2018/8/section/18) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-87bce22fa1d66fbcf054b4a736ad554f]: Commencement: [S. 18](https://www.legislation.gov.uk/ukcm/2018/8/section/18) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

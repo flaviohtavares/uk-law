@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Obstruction and contempt[^key-38d7ef649ae7d337daf98216a993470b]
+## 54. Obstruction and contempt[^c-38d7ef649ae7d337daf98216a993470b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38d7ef649ae7d337daf98216a993470b]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2019/3/section/54) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-38d7ef649ae7d337daf98216a993470b]: Commencement: [S. 54](https://www.legislation.gov.uk/anaw/2019/3/section/54) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

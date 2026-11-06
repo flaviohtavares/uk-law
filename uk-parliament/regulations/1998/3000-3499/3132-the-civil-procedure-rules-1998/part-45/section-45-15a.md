@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.15A. Restoration proceedings[^key-9d88d5b2fe89cd465ff39777a253a096][^key-8ed78e3eff468fc080a342c5659897de]
+## 45.15A. Restoration proceedings[^c-9d88d5b2fe89cd465ff39777a253a096][^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
@@ -29,12 +29,12 @@ summary: ''
 
 the fixed costs may include the amount specified in Table 15A (inclusive of any advocate’s fees incurred) in respect of the restoration proceedings, together with the disbursements allowed under paragraph (2) of that Table.
 
-(3)[^key-04d23c63075e317d8c7dec8752ec8232] Where appropriate, VAT may be recovered in addition to the cost of any disbursement allowable under this rule.
+(3)[^c-04d23c63075e317d8c7dec8752ec8232] Where appropriate, VAT may be recovered in addition to the cost of any disbursement allowable under this rule.
 
 ## Annotations
 
-[^key-9d88d5b2fe89cd465ff39777a253a096]: Textual amendment: Rule 45.15A inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/4)
+[^c-9d88d5b2fe89cd465ff39777a253a096]: Textual amendment: Rule 45.15A inserted (6.4.2024) by [The Civil Procedure (Amendment) Rules 2024 (S.I. 2024/106)](https://www.legislation.gov.uk/uksi/2024/106), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/106/rule/1/1), [9(4)](https://www.legislation.gov.uk/uksi/2024/106/rule/9/4)
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-04d23c63075e317d8c7dec8752ec8232]: Textual amendment: Rule 45.15A(3) inserted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/4)
+[^c-04d23c63075e317d8c7dec8752ec8232]: Textual amendment: Rule 45.15A(3) inserted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2024/839/rule/11/4)

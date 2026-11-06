@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Creditors’ winding-up: no concurrent petition against member[^key-49df823a6769d8e8c704ca34a85c4255]
+## 111. Creditors’ winding-up: no concurrent petition against member[^c-49df823a6769d8e8c704ca34a85c4255]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49df823a6769d8e8c704ca34a85c4255]: Commencement: S. 111 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-49df823a6769d8e8c704ca34a85c4255]: Commencement: S. 111 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

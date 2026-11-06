@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 102. Calculation of income of participants in the self-employment route[^key-2eb6b129571470feb7d0fbe83ad4abe6]
+## 102. Calculation of income of participants in the self-employment route[^c-2eb6b129571470feb7d0fbe83ad4abe6]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2eb6b129571470feb7d0fbe83ad4abe6]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2008/280/regulation/102) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-2eb6b129571470feb7d0fbe83ad4abe6]: Commencement: [Reg. 102](https://www.legislation.gov.uk/nisr/2008/280/regulation/102) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Procedure for consideration of disputes[^key-f5bffb8d42ce4e820fd6826aab3a94b8]
+## 23. Procedure for consideration of disputes[^c-f5bffb8d42ce4e820fd6826aab3a94b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5bffb8d42ce4e820fd6826aab3a94b8]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2016/20/section/23) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-f5bffb8d42ce4e820fd6826aab3a94b8]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2016/20/section/23) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

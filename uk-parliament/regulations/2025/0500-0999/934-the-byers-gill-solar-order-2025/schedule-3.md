@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### 1. Interpretation[^key-fd08d35addac37d1522377ce06bc3d62]
+### 1. Interpretation[^c-fd08d35addac37d1522377ce06bc3d62]
 
 In this Schedule “**cable works**” means works to place, retain and maintain underground electrical and communications apparatus
 
@@ -73,4 +73,4 @@ In this Schedule “**cable works**” means works to place, retain and maintain
 
 ## Annotations
 
-[^key-fd08d35addac37d1522377ce06bc3d62]: Commencement: Sch. 3 para. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-fd08d35addac37d1522377ce06bc3d62]: Commencement: Sch. 3 para. 1 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

@@ -38,43 +38,43 @@ Coming into operation in accordance with Regulation 1(2)
 
 The Department of Health and Social Services in exercise of the powers conferred on it by Articles 98, and 106 of, and Schedule 15 to, the Health and Personal Social Services (Northern Ireland) Order 1972[^f00001] and of all other powers enabling it in that behalf, with the approval of the Department of Finance and Personnel, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-ee344169baf37b645050e5663e1fd159]
+## 1. Citation, commencement and interpretation[^c-ee344169baf37b645050e5663e1fd159]
 
-(1)[^key-e049015a11dba456525e6df5e3fb4ebc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-e049015a11dba456525e6df5e3fb4ebc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e7bb920c86ad8dfb1ff8e7ecb65f21e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e7bb920c86ad8dfb1ff8e7ecb65f21e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-934aadf2fa18feb4fc880de2d80b1f98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-934aadf2fa18feb4fc880de2d80b1f98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-9bf6732f414e8937dec2f5af2a0180ca]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 3. Amendment of regulation 3 of the principal Regulations[^key-f1e7de220e92d454202602ec1e1fb222]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-9bf6732f414e8937dec2f5af2a0180ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 4 of the principal Regulations[^key-f1e7de220e92d454202602ec1e1fb222]
+## 3. Amendment of regulation 3 of the principal Regulations[^c-f1e7de220e92d454202602ec1e1fb222]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 5 of the principal Regulations[^key-f1e7de220e92d454202602ec1e1fb222]
+## 4. Amendment of regulation 4 of the principal Regulations[^c-f1e7de220e92d454202602ec1e1fb222]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 9 of the principal Regulations[^key-f1e7de220e92d454202602ec1e1fb222]
+## 5. Amendment of regulation 5 of the principal Regulations[^c-f1e7de220e92d454202602ec1e1fb222]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Schedule 1 to the principal Regulations[^key-f1e7de220e92d454202602ec1e1fb222]
+## 6. Amendment of regulation 9 of the principal Regulations[^c-f1e7de220e92d454202602ec1e1fb222]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Transitional provisions[^key-f1e7de220e92d454202602ec1e1fb222]
+## 7. Amendment of Schedule 1 to the principal Regulations[^c-f1e7de220e92d454202602ec1e1fb222]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocation[^key-f1e7de220e92d454202602ec1e1fb222]
+## 8. Transitional provisions[^c-f1e7de220e92d454202602ec1e1fb222]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Revocation[^c-f1e7de220e92d454202602ec1e1fb222]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -118,14 +118,14 @@ Transitional arrangements are made in respect of pre-payment certificates and ap
 
 [^f00001]: Footnote: S.I. [1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265); the relevant amending instruments are S.I. [1986/2229 (N.I. 24)](https://www.legislation.gov.uk/nisi/1986/2229) Article 14, S.I. [1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249) Article 7 and S.I. [1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194) Article 34 and Part II of Schedule 5
 
-[^key-ee344169baf37b645050e5663e1fd159]: Commencement: Reg. 1 in operation at 1.4.1998, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/135/regulation/1/2)
+[^c-ee344169baf37b645050e5663e1fd159]: Commencement: Reg. 1 in operation at 1.4.1998, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/135/regulation/1/2)
 
-[^key-e049015a11dba456525e6df5e3fb4ebc]: Textual amendment: [Reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/135/regulation/1/1) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
+[^c-e049015a11dba456525e6df5e3fb4ebc]: Textual amendment: [Reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/135/regulation/1/1) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
 
-[^key-e7bb920c86ad8dfb1ff8e7ecb65f21e6]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/135/regulation/1/2) revoked (1.4.1999) by [Charges for Drugs and Appliances and Travelling Expenses and Remission of Charges (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/166)](https://www.legislation.gov.uk/nisr/1999/166), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/166/regulation/1), [5](https://www.legislation.gov.uk/nisr/1999/166/regulation/5)
+[^c-e7bb920c86ad8dfb1ff8e7ecb65f21e6]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/nisr/1998/135/regulation/1/2) revoked (1.4.1999) by [Charges for Drugs and Appliances and Travelling Expenses and Remission of Charges (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/166)](https://www.legislation.gov.uk/nisr/1999/166), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/166/regulation/1), [5](https://www.legislation.gov.uk/nisr/1999/166/regulation/5)
 
-[^key-934aadf2fa18feb4fc880de2d80b1f98]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/1998/135/regulation/1/3) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
+[^c-934aadf2fa18feb4fc880de2d80b1f98]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/1998/135/regulation/1/3) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
 
-[^key-9bf6732f414e8937dec2f5af2a0180ca]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/135/regulation/2) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
+[^c-9bf6732f414e8937dec2f5af2a0180ca]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1998/135/regulation/2) revoked (1.4.2010) by [The Charges for Drugs and Appliances (Abolition) and Supply of Appliances Regulations (Northern Ireland) 2010 (S.R. 2010/71)](https://www.legislation.gov.uk/nisr/2010/71), [regs. 1](https://www.legislation.gov.uk/nisr/2010/71/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2010/71/regulation/4/1), [Sch.](https://www.legislation.gov.uk/nisr/2010/71/schedule)
 
-[^key-f1e7de220e92d454202602ec1e1fb222]: Textual amendment: [Regs. 3-9](https://www.legislation.gov.uk/nisr/1998/135/regulation/3) revoked (1.4.1999) by [Charges for Drugs and Appliances and Travelling Expenses and Remission of Charges (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/166)](https://www.legislation.gov.uk/nisr/1999/166), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/166/regulation/1), [5](https://www.legislation.gov.uk/nisr/1999/166/regulation/5)
+[^c-f1e7de220e92d454202602ec1e1fb222]: Textual amendment: [Regs. 3-9](https://www.legislation.gov.uk/nisr/1998/135/regulation/3) revoked (1.4.1999) by [Charges for Drugs and Appliances and Travelling Expenses and Remission of Charges (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/166)](https://www.legislation.gov.uk/nisr/1999/166), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/166/regulation/1), [5](https://www.legislation.gov.uk/nisr/1999/166/regulation/5)

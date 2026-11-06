@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Effect of notices under the ISD Regulations or the 2BCD Regulations after commencement[^key-42a71e9d64fdeec8520bb0a749f0b81f]
+## 21. Effect of notices under the ISD Regulations or the 2BCD Regulations after commencement[^c-42a71e9d64fdeec8520bb0a749f0b81f]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42a71e9d64fdeec8520bb0a749f0b81f]: Commencement: Art. 21 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-42a71e9d64fdeec8520bb0a749f0b81f]: Commencement: Art. 21 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

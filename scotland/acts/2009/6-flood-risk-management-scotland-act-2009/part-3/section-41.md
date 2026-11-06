@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Duty to have regard to flood risk management plans and local flood risk management plans[^key-e2c818c3a23b3391602199ebbd425b41]
+## 41. Duty to have regard to flood risk management plans and local flood risk management plans[^c-e2c818c3a23b3391602199ebbd425b41]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2c818c3a23b3391602199ebbd425b41]: Commencement: S. 41 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-e2c818c3a23b3391602199ebbd425b41]: Commencement: S. 41 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

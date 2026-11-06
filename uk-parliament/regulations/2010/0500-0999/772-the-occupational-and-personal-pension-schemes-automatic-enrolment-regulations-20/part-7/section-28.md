@@ -30,11 +30,11 @@ The arrangements prescribed in regulations 6, 7 and 8 are the arrangements presc
   >
   > (2) An employer must ensure that a jobholder to whom section 3 of the Act applies becomes an active member of that scheme with effect from the day after the end of the transitional period prescribed for the purposes of section 30 (transitional period for defined benefits and hybrid schemes) of the Act.
   >
-  > (3) An employer must carry out the duties in paragraphs (1) and (2) before the end of a period of six weeks[^key-c2e4b7bb6c0823c619c1b38dd0cdb041] beginning with the day after the end of the transitional period prescribed for the purposes of section 30 of the Act.
+  > (3) An employer must carry out the duties in paragraphs (1) and (2) before the end of a period of six weeks[^c-c2e4b7bb6c0823c619c1b38dd0cdb041] beginning with the day after the end of the transitional period prescribed for the purposes of section 30 of the Act.
 
   ; and
 - (b) in regulations 7 and 8 for all references to “the automatic enrolment date” substitute “ ;the day after the end of the transitional period prescribed for the purposes of section 30 of the Act ”.
 
 ## Annotations
 
-[^key-c2e4b7bb6c0823c619c1b38dd0cdb041]: Textual amendment: Words in reg. 28(a) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)
+[^c-c2e4b7bb6c0823c619c1b38dd0cdb041]: Textual amendment: Words in reg. 28(a) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/4)

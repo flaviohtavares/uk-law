@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75A. Official warnings by the Commission[^key-3951a5650ad8494391407cb39451da9d]
+## 75A. Official warnings by the Commission[^c-3951a5650ad8494391407cb39451da9d]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3951a5650ad8494391407cb39451da9d]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/2011/25/section/75A) inserted (1.11.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 1](https://www.legislation.gov.uk/ukpga/2016/4/section/1), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/a)
+[^c-3951a5650ad8494391407cb39451da9d]: Textual amendment: [S. 75A](https://www.legislation.gov.uk/ukpga/2011/25/section/75A) inserted (1.11.2016) by [Charities (Protection and Social Investment) Act 2016 (c. 4)](https://www.legislation.gov.uk/ukpga/2016/4), [ss. 1](https://www.legislation.gov.uk/ukpga/2016/4/section/1), [17(4)](https://www.legislation.gov.uk/ukpga/2016/4/section/17/4); [S.I. 2016/815](https://www.legislation.gov.uk/uksi/2016/815), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/815/regulation/4/a)

@@ -52,7 +52,7 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by sections 7(8), 10(2), 65(1) and (9) of the Tax Credits Act 2002[^f00001] and sections 9(2) and (3) and 69(2) of the Childcare Payments Act 2014[^f00002] make regulations 1, 2, 3 and 4 of these Regulations and the Secretary of State, in exercise of the powers conferred by section 1(2), (3) and (4) of the Childcare Act 2016[^f00003] makes regulations 1 and 5 of these Regulations.
 
-## 1. Citation, commencement and effect[^key-f64a5f2200ae3159b98db686540e4a1e]
+## 1. Citation, commencement and effect[^c-f64a5f2200ae3159b98db686540e4a1e]
 
 (1) These Regulations may be cited as the Tax Credits, Childcare Payments and Childcare (Extended Entitlement) (Coronavirus and Miscellaneous Amendments) Regulations 2020.
 
@@ -62,7 +62,7 @@ The Treasury, in exercise of the powers conferred by sections 7(8), 10(2), 65(1)
 
 (4) In this regulation “furloughed employee under the Coronavirus Job Retention Scheme” and “coronavirus-impacted worker” have the meanings given by regulation 2 of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002 (interpretation)[^f00004].
 
-## 2. Amendment of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^key-238f5bd3e021b48db080ee56fb62a4be]
+## 2. Amendment of the Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^c-238f5bd3e021b48db080ee56fb62a4be]
 
 (1) The Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f00005] are amended as follows.
 
@@ -161,7 +161,7 @@ The Treasury, in exercise of the powers conferred by sections 7(8), 10(2), 65(1)
 
   .
 
-## 3. Amendment of the Tax Credits (Definition and Calculation of Income) Regulations 2002[^key-f61afdc975b4e59e16af8bf7cbf4ed94]
+## 3. Amendment of the Tax Credits (Definition and Calculation of Income) Regulations 2002[^c-f61afdc975b4e59e16af8bf7cbf4ed94]
 
 (1) The Tax Credits (Definition and Calculation of Income) Regulations 2002[^f00014] are amended as follows.
 
@@ -188,7 +188,7 @@ The Treasury, in exercise of the powers conferred by sections 7(8), 10(2), 65(1)
   | --- |
   | “40. Any payment, made under the scheme known as the Covid Winter Grant Scheme in respect of England, or any other scheme established by the Northern Ireland Executive, the Scottish Government or the Welsh Government for the purpose of providing financial support to families and vulnerable individuals to assist with the cost of food and utilities over the same period.”. |
 
-## 4. Amendment of the Childcare Payments (Eligibility) Regulations 2015[^key-a40cff7bbd15a4dd430977c6d497bba8]
+## 4. Amendment of the Childcare Payments (Eligibility) Regulations 2015[^c-a40cff7bbd15a4dd430977c6d497bba8]
 
 (1) The Childcare Payments (Eligibility) Regulations 2015[^f00019] are amended as follows.
 
@@ -219,7 +219,7 @@ The Treasury, in exercise of the powers conferred by sections 7(8), 10(2), 65(1)
 
 (4) In regulation 15 (income not to exceed a certain level), omit the words ““coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2);”.
 
-## 5. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^key-2ab98249a602f647e88552b3c4aec76e][^key-f192838877e7db5b2e2b9e02a119b12d]
+## 5. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^c-2ab98249a602f647e88552b3c4aec76e][^c-f192838877e7db5b2e2b9e02a119b12d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -271,11 +271,11 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00003]: Footnote: [2016 c. 5](https://www.legislation.gov.uk/ukpga/2016/5).
 
-[^key-f64a5f2200ae3159b98db686540e4a1e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)
+[^c-f64a5f2200ae3159b98db686540e4a1e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005). Relevant amending instruments are [S.I. 2003/701](https://www.legislation.gov.uk/uksi/2003/701), [2020/534](https://www.legislation.gov.uk/uksi/2020/534) and [2020/941](https://www.legislation.gov.uk/uksi/2020/941). The definitions of “furloughed employee” and “coronavirus-impacted worker” were inserted by regulation 2 of [S.I. 2020/534](https://www.legislation.gov.uk/uksi/2020/534) and the definition of furloughed employee was subsequently amended by regulation 3 of [S.I. 2020/941](https://www.legislation.gov.uk/uksi/2020/941).
 
-[^key-238f5bd3e021b48db080ee56fb62a4be]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1515/regulation/2) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)
+[^c-238f5bd3e021b48db080ee56fb62a4be]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1515/regulation/2) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005) (“the Entitlement Regulations”), relevant amending instruments are [S.I. 2003/701](https://www.legislation.gov.uk/uksi/2003/701), [2020/534](https://www.legislation.gov.uk/uksi/2020/534) and [2020/941](https://www.legislation.gov.uk/uksi/2020/941).
 
@@ -295,7 +295,7 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00013]: Footnote: The term “Coronavirus Job Retention Scheme” is defined in regulation 2 of the Entitlement Regulations. That definition was inserted by regulation 2 of [S.I. 2020/534](https://www.legislation.gov.uk/uksi/2020/534).
 
-[^key-f61afdc975b4e59e16af8bf7cbf4ed94]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1515/regulation/3) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)
+[^c-f61afdc975b4e59e16af8bf7cbf4ed94]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1515/regulation/3) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006) (“the Income Regulations”), relevant amending instruments are [S.I. 2006/766](https://www.legislation.gov.uk/uksi/2006/766), [2020/534](https://www.legislation.gov.uk/uksi/2020/534) and [2020/941](https://www.legislation.gov.uk/uksi/2020/941).
 
@@ -307,7 +307,7 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00018]: Footnote: [S.S.I. 2019/193](https://www.legislation.gov.uk/ssi/2019/193).
 
-[^key-a40cff7bbd15a4dd430977c6d497bba8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1515/regulation/4) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)
+[^c-a40cff7bbd15a4dd430977c6d497bba8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1515/regulation/4) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2015/448](https://www.legislation.gov.uk/uksi/2015/448), relevant amending instruments are [S.I. 2016/793](https://www.legislation.gov.uk/uksi/2016/793), [2016/1021](https://www.legislation.gov.uk/uksi/2016/1021), [2017/1101](https://www.legislation.gov.uk/uksi/2017/1101), [2020/297](https://www.legislation.gov.uk/uksi/2020/297) and [2020/354](https://www.legislation.gov.uk/uksi/2020/354).
 
@@ -315,6 +315,6 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^f00021]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). Section 44 has been amended by section 12 of the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11).
 
-[^key-2ab98249a602f647e88552b3c4aec76e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1515/regulation/5) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/7/2)
+[^c-2ab98249a602f647e88552b3c4aec76e]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1515/regulation/5) omitted (1.12.2022) by virtue of [The Childcare (Free of Charge for Working Parents) (England) Regulations 2022 (S.I. 2022/1134)](https://www.legislation.gov.uk/uksi/2022/1134), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2022/1134/schedule/paragraph/7/2)
 
-[^key-f192838877e7db5b2e2b9e02a119b12d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1515/regulation/5) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)
+[^c-f192838877e7db5b2e2b9e02a119b12d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1515/regulation/5) in force at 14.1.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1515/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Occupier’s duty[^key-893478219b40f15b1c9cb96d2005441d]
+## 11. Occupier’s duty[^c-893478219b40f15b1c9cb96d2005441d]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ The occupier of any premises approved, authorised, licensed or registered under 
 
 ## Annotations
 
-[^key-893478219b40f15b1c9cb96d2005441d]: Commencement: Reg. 11 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-893478219b40f15b1c9cb96d2005441d]: Commencement: Reg. 11 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

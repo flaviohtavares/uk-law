@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. New private institution fee loan[^key-0672aceb6f9791fb6404b5954c6290db]
+## 21. New private institution fee loan[^c-0672aceb6f9791fb6404b5954c6290db]
 
 *Extent: E+W*
 
@@ -30,22 +30,22 @@ summary: ''
 
 (3) The maximum amount of new private institution fee loan available under this regulation to a 2012 cohort student in respect of an academic year of a designated course provided by a private institution where none of the circumstances in regulation 16(7), 16(8), 16(9) or 16(10) applies is the lesser of—
 
-- (a) £6,525[^key-f6efbf3517b0ce303f330b971f31028e]; and
+- (a) £6,525[^c-f6efbf3517b0ce303f330b971f31028e]; and
 - (b) the fees payable by the student in respect of, or otherwise in connection with, that year.
 
 (4) The maximum amount of new private institution fee loan available under this regulation to a 2012 cohort student in respect of an academic year of a designated course provided by a private institution where one of the circumstances in regulation 16(7) or 16(8) applies is the lesser of—
 
-- (a) £3,260[^key-ec7ab125f0cdc4b41cf3a3c04e9658cc]; and
+- (a) £3,260[^c-ec7ab125f0cdc4b41cf3a3c04e9658cc]; and
 - (b) the fees payable by the student in respect of, or otherwise in connection with, that year.
 
 (5) The maximum amount of new private institution fee loan available under this regulation to a 2012 cohort student in respect of an academic year of a designated course provided by a private institution where regulation 16(9) applies is the lesser of—
 
-- (a) £1,305[^key-bbab965999d390f98eb98ad47f9137ae]; and
+- (a) £1,305[^c-bbab965999d390f98eb98ad47f9137ae]; and
 - (b) the fees payable by the student in respect of, or otherwise in connection with, that year.
 
 (6) The maximum amount of new private institution fee loan available under this regulation to a 2012 cohort student in respect of an academic year of a designated course provided by a private institution where regulation 16(10) applies is the lesser of—
 
-- (a) £975[^key-b8d017162929fb85ae0b5ffa0faa8616]; and
+- (a) £975[^c-b8d017162929fb85ae0b5ffa0faa8616]; and
 - (b) the fees payable by the student in respect of, or otherwise in connection with, that year.
 
 (7) Where an eligible student has applied for a new private institution fee loan of less than the maximum amount available in relation to an academic year, the eligible student may apply to borrow an additional amount which, when added to the amount already applied for, does not exceed that maximum.
@@ -54,12 +54,12 @@ summary: ''
 
 ## Annotations
 
-[^key-0672aceb6f9791fb6404b5954c6290db]: Commencement: Reg. 21 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-0672aceb6f9791fb6404b5954c6290db]: Commencement: Reg. 21 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-f6efbf3517b0ce303f330b971f31028e]: Textual amendment: Sum in [reg. 21(3)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/21/3/a) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [10(a)](https://www.legislation.gov.uk/wsi/2026/11/regulation/10/a)
+[^c-f6efbf3517b0ce303f330b971f31028e]: Textual amendment: Sum in [reg. 21(3)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/21/3/a) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [10(a)](https://www.legislation.gov.uk/wsi/2026/11/regulation/10/a)
 
-[^key-ec7ab125f0cdc4b41cf3a3c04e9658cc]: Textual amendment: Sum in [reg. 21(4)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/21/4/a) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [10(b)](https://www.legislation.gov.uk/wsi/2026/11/regulation/10/b)
+[^c-ec7ab125f0cdc4b41cf3a3c04e9658cc]: Textual amendment: Sum in [reg. 21(4)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/21/4/a) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [10(b)](https://www.legislation.gov.uk/wsi/2026/11/regulation/10/b)
 
-[^key-bbab965999d390f98eb98ad47f9137ae]: Textual amendment: Sum in [reg. 21(5)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/21/5/a) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [10(c)](https://www.legislation.gov.uk/wsi/2026/11/regulation/10/c)
+[^c-bbab965999d390f98eb98ad47f9137ae]: Textual amendment: Sum in [reg. 21(5)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/21/5/a) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [10(c)](https://www.legislation.gov.uk/wsi/2026/11/regulation/10/c)
 
-[^key-b8d017162929fb85ae0b5ffa0faa8616]: Textual amendment: Sum in [reg. 21(6)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/21/6/a) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [10(d)](https://www.legislation.gov.uk/wsi/2026/11/regulation/10/d)
+[^c-b8d017162929fb85ae0b5ffa0faa8616]: Textual amendment: Sum in [reg. 21(6)(a)](https://www.legislation.gov.uk/wsi/2017/47/regulation/21/6/a) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [10(d)](https://www.legislation.gov.uk/wsi/2026/11/regulation/10/d)

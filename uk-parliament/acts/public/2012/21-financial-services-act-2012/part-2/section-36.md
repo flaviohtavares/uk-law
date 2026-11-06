@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Suspension and removal of financial instruments from trading[^key-187f0a1c19a4bf68f4a35f2fed3c83cd]
+## 36. Suspension and removal of financial instruments from trading[^c-187f0a1c19a4bf68f4a35f2fed3c83cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In every provision of Part 18A of FSMA 2000 (suspension and removal of financial
 
 ## Annotations
 
-[^key-187f0a1c19a4bf68f4a35f2fed3c83cd]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2012/21/section/36) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-187f0a1c19a4bf68f4a35f2fed3c83cd]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2012/21/section/36) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

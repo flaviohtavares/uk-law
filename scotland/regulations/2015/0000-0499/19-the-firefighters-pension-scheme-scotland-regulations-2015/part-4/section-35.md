@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Opening balance, index adjustment and age addition[^key-9be6b0db2eda426087cc1637888ec129]
+## 35. Opening balance, index adjustment and age addition[^c-9be6b0db2eda426087cc1637888ec129]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9be6b0db2eda426087cc1637888ec129]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2015/19/regulation/35) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-9be6b0db2eda426087cc1637888ec129]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2015/19/regulation/35) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

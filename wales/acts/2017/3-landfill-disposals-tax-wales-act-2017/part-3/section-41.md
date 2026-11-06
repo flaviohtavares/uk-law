@@ -20,34 +20,34 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-aa59fde140c4837e96099bd1469a538a] Tax chargeable on a taxable disposal made at an authorised landfill site is chargeable in respect of the accounting period in which the disposal is made.
+(1)[^c-aa59fde140c4837e96099bd1469a538a] Tax chargeable on a taxable disposal made at an authorised landfill site is chargeable in respect of the accounting period in which the disposal is made.
 
-(2)[^key-aa59fde140c4837e96099bd1469a538a] But if the person who carries out taxable operations at the site issues a landfill invoice in respect of the disposal within the period of 14 days beginning with the day on which the disposal is made, the amount of tax chargeable on the disposal is chargeable in respect of the accounting period in which the invoice is issued (rather than the accounting period in which the disposal is made).
+(2)[^c-aa59fde140c4837e96099bd1469a538a] But if the person who carries out taxable operations at the site issues a landfill invoice in respect of the disposal within the period of 14 days beginning with the day on which the disposal is made, the amount of tax chargeable on the disposal is chargeable in respect of the accounting period in which the invoice is issued (rather than the accounting period in which the disposal is made).
 
-(3)[^key-aa59fde140c4837e96099bd1469a538a] Subsection (2) does not apply to the disposal if the person has given notice to WRA, before the landfill invoice is issued, that the person does not wish to take advantage of it.
+(3)[^c-aa59fde140c4837e96099bd1469a538a] Subsection (2) does not apply to the disposal if the person has given notice to WRA, before the landfill invoice is issued, that the person does not wish to take advantage of it.
 
-(4)[^key-aa59fde140c4837e96099bd1469a538a] The person may vary or withdraw the notice by giving a further notice to WRA.
+(4)[^c-aa59fde140c4837e96099bd1469a538a] The person may vary or withdraw the notice by giving a further notice to WRA.
 
-(5)[^key-aa59fde140c4837e96099bd1469a538a] A person who carries out taxable operations, or who intends to do so, may make an application in writing to WRA for subsection (2) to be applied—
+(5)[^c-aa59fde140c4837e96099bd1469a538a] A person who carries out taxable operations, or who intends to do so, may make an application in writing to WRA for subsection (2) to be applied—
 
 - (a) to all taxable disposals made at an authorised landfill site at which the person carries out taxable operations, or
 - (b) to a description of taxable disposals specified in the application,
 
 as if the reference to a period of 14 days were to a longer period.
 
-(6)[^key-aa59fde140c4837e96099bd1469a538a] WRA must issue a notice to the person of its decision on the application; and if WRA grants the application, the notice must specify the longer period and the taxable disposals in relation to which the longer period is to be applied.
+(6)[^c-aa59fde140c4837e96099bd1469a538a] WRA must issue a notice to the person of its decision on the application; and if WRA grants the application, the notice must specify the longer period and the taxable disposals in relation to which the longer period is to be applied.
 
-(7)[^key-aa59fde140c4837e96099bd1469a538a] WRA may vary or withdraw the notice by issuing a further notice to the person.
+(7)[^c-aa59fde140c4837e96099bd1469a538a] WRA may vary or withdraw the notice by issuing a further notice to the person.
 
-(8)[^key-aa59fde140c4837e96099bd1469a538a] In this section, a “**landfill invoice**” means an invoice which—
+(8)[^c-aa59fde140c4837e96099bd1469a538a] In this section, a “**landfill invoice**” means an invoice which—
 
 - (a) is issued in respect of a taxable disposal, and
 - (b) contains the information specified in Schedule 3.
 
-(9)[^key-4cd6151a32e9cccbc3d2051bb8326dc4] Regulations may amend Schedule 3.
+(9)[^c-4cd6151a32e9cccbc3d2051bb8326dc4] Regulations may amend Schedule 3.
 
 ## Annotations
 
-[^key-aa59fde140c4837e96099bd1469a538a]: Commencement: [S. 41(1)-(8)](https://www.legislation.gov.uk/anaw/2017/3/section/41/1) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-aa59fde140c4837e96099bd1469a538a]: Commencement: [S. 41(1)-(8)](https://www.legislation.gov.uk/anaw/2017/3/section/41/1) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
 
-[^key-4cd6151a32e9cccbc3d2051bb8326dc4]: Commencement: [S. 41(9)](https://www.legislation.gov.uk/anaw/2017/3/section/41/9) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/955/article/2/d)
+[^c-4cd6151a32e9cccbc3d2051bb8326dc4]: Commencement: [S. 41(9)](https://www.legislation.gov.uk/anaw/2017/3/section/41/9) in force at 18.10.2017 by [S.I. 2017/955](https://www.legislation.gov.uk/wsi/2017/955), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/955/article/2/d)

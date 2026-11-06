@@ -47,13 +47,13 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by sections 116(1) and 120(1) of the Protection of Freedoms Act 2012[^f00001], makes the following Order.
 
-## 1. Citation and interpretation[^key-4a570040175bc1cb2ed668bc60058350]
+## 1. Citation and interpretation[^c-4a570040175bc1cb2ed668bc60058350]
 
 (1) This Order may be cited as the Protection of Freedoms Act 2012 (Commencement No. 3) Order 2012.
 
 (2) In this Order “the Act” means the Protection of Freedoms Act 2012.
 
-## 2. Provisions coming into force on 10th September 2012[^key-ae12d585f15cbb683561ddac1f1960e0]
+## 2. Provisions coming into force on 10th September 2012[^c-ae12d585f15cbb683561ddac1f1960e0]
 
 The following provisions of the Act shall come into force on 10th September 2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012[^f00002]—
 
@@ -108,7 +108,7 @@ The following provisions of the Act shall come into force on 10th September 2012
 - (bb) Part 5 of Schedule 10 except for the repeal of article 29 of the Safeguarding Vulnerable Groups Act 2006 (Regulated Activity, Miscellaneous and Transitional Provisions and Commencement No. 5) Order 2009[^f00006];
 - (cc) Part 6 of Schedule 10 except for the repeals of sections 113A(4), 113B(6)(a) and 122(3A)(a) and the words “or registered person” in 124A(1)(c) of the Police Act 1997.
 
-## 3. Provisions coming into force on 1st October 2012[^key-2ce958d658fab86e6d5da5eaeff44d76]
+## 3. Provisions coming into force on 1st October 2012[^c-2ce958d658fab86e6d5da5eaeff44d76]
 
 The day appointed for the coming into force of the following provisions of the Act is 1st October 2012:
 
@@ -128,41 +128,41 @@ The day appointed for the coming into force of the following provisions of the A
 - (n) section 115(1) (consequential amendments, repeals and revocations) insofar as it relates to the provisions of Schedule 9 specified in paragraph (o) below;
 - (o) Part 9 of Schedule 9.
 
-## 4. Transitional provisions[^key-16f7e2666f87cdd4c598cc5077877daf]
+## 4. Transitional provisions[^c-16f7e2666f87cdd4c598cc5077877daf]
 
 (1) The commencement of sections 64 and 66 of the Act shall have effect in relation to applications to which paragraph (2) applies only in respect of applications received by the Secretary of State on or after 10th September 2012.
 
 (2) This paragraph applies to applications for a certificate made under section 113B of the Police Act 1997[^f00007] which, by virtue of section 113BA or section 113BB of that Act[^f00008], will include suitability information relating to children or suitability information relating to vulnerable adults.
 
-**5.**[^key-c36c2939fc050e57d62adbac1916442f] The commencement of section 80 of the Act shall have effect, in relation to applications made under sections 113A, 113B, 114 and 116 of the Police Act 1997[^f00009], only in respect of applications received by the Secretary of State on or after 10th September 2012.
+**5.**[^c-c36c2939fc050e57d62adbac1916442f] The commencement of section 80 of the Act shall have effect, in relation to applications made under sections 113A, 113B, 114 and 116 of the Police Act 1997[^f00009], only in respect of applications received by the Secretary of State on or after 10th September 2012.
 
-**6.**[^key-511fe31667f8c62238d2b43fc4e92d26] In articles 8, 10, 12, 14 and 15—
+**6.**[^c-511fe31667f8c62238d2b43fc4e92d26] In articles 8, 10, 12, 14 and 15—
 
 - “the 2006 Act” means the Safeguarding Vulnerable Groups Act 2006;
 - “the 2007 Order” means the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007;
-- “DBS[^key-df1de2c2dbdbe993997c6d8d6d612399]” means the Disclosure and Barring Service.
+- “DBS[^c-df1de2c2dbdbe993997c6d8d6d612399]” means the Disclosure and Barring Service.
 
-**7.**[^key-d199c39a2a66ab73b9bee2660d1b65e0] Articles 8 to 10 apply from 10th September 2012.
+**7.**[^c-d199c39a2a66ab73b9bee2660d1b65e0] Articles 8 to 10 apply from 10th September 2012.
 
-**8.**[^key-960e52fbd5e3ebd32020f472a79bee48] (1) Any person who is on the children’s barred list or the adults’ barred list (within the meaning of section 2 of the 2006 Act or Article 6 of the 2007 Order), at the time that section 67 of, and paragraph 4 of Schedule 7 to, the Act comes into force, may apply to DBS[^key-dcac28a814f8af3000efd9917e0115c3] for a review of their inclusion in the children’s barred list or the adults’ barred list (as the case may) in the circumstances set out in paragraph (2).
+**8.**[^c-960e52fbd5e3ebd32020f472a79bee48] (1) Any person who is on the children’s barred list or the adults’ barred list (within the meaning of section 2 of the 2006 Act or Article 6 of the 2007 Order), at the time that section 67 of, and paragraph 4 of Schedule 7 to, the Act comes into force, may apply to DBS[^c-dcac28a814f8af3000efd9917e0115c3] for a review of their inclusion in the children’s barred list or the adults’ barred list (as the case may) in the circumstances set out in paragraph (2).
 
 (2) The circumstances are that the person considers that DBS would not, if it were now considering whether to bar that person under paragraphs 2, 3, 5, 8, 9 or 11 of Schedule 3 to the 2006 Act or paragraphs 2, 3, 5, 8, 9 or 11 of Schedule 1 to 2007 Order, as amended by section 67(2) to (4) and (6) to (8) of, and paragraph 4(2) to (4) and (6) to (8) of Schedule 7 to, the Act, have reason to believe that the person is or has been or might in future be engaged in regulated activity relating to children or vulnerable adults (as the case may be).
 
-**9.**[^key-fa6d900230e1ce1a125b4af39d3fce7f] On receiving an application under article 8, DBS[^key-4e9d77d8c51f39b395ded308f31dedd1] must remove the person from the children’s barred list or the adults’ barred list (as the case may be) if it does not have reason to believe that the person has been engaged, or, on the date on which they were barred, might in the future be engaged in regulated activity relating to children or vulnerable adults (as the case may be).
+**9.**[^c-fa6d900230e1ce1a125b4af39d3fce7f] On receiving an application under article 8, DBS[^c-4e9d77d8c51f39b395ded308f31dedd1] must remove the person from the children’s barred list or the adults’ barred list (as the case may be) if it does not have reason to believe that the person has been engaged, or, on the date on which they were barred, might in the future be engaged in regulated activity relating to children or vulnerable adults (as the case may be).
 
-**10.**[^key-9fc8c0c9abb931beee4826b09736e298] Section 4 of the 2006 Act and Article 8 of the 2007 Order apply to any decision of DBS[^key-1f0fe96467544b3e9f4628676e1c2dbc] not to remove a person from the children’s barred list or the adults’ barred list (as the case may be) under article 10 of this Order.
+**10.**[^c-9fc8c0c9abb931beee4826b09736e298] Section 4 of the 2006 Act and Article 8 of the 2007 Order apply to any decision of DBS[^c-1f0fe96467544b3e9f4628676e1c2dbc] not to remove a person from the children’s barred list or the adults’ barred list (as the case may be) under article 10 of this Order.
 
-**11.**[^key-a73c21df06ae8dc74b294b43fa353e11] Article 12 applies from 10th September 2012 until 1st December 2012.
+**11.**[^c-a73c21df06ae8dc74b294b43fa353e11] Article 12 applies from 10th September 2012 until 1st December 2012.
 
-**12.**[^key-a4e39f22f4bfbd505cf9e45f7955018f] The Secretary of State may provide to DBS[^key-434c764c67ba89c18426e516c8aa07dd] any information she holds in order to enable DBS to determine whether, in relation to any person, paragraphs 1, 2, 3, 5, 7, 8, 9 or 11 of Schedule 3 to the 2006 Act applies or appears to apply.
+**12.**[^c-a4e39f22f4bfbd505cf9e45f7955018f] The Secretary of State may provide to DBS[^c-434c764c67ba89c18426e516c8aa07dd] any information she holds in order to enable DBS to determine whether, in relation to any person, paragraphs 1, 2, 3, 5, 7, 8, 9 or 11 of Schedule 3 to the 2006 Act applies or appears to apply.
 
-**13.**[^key-dd0f3748aa4c5909dad6a1b8f7dc2dba] Article 14 applies from 10th September 2012 until 31st December 2015[^key-e48d4bfac70b241200723ca82ea7cf65].
+**13.**[^c-dd0f3748aa4c5909dad6a1b8f7dc2dba] Article 14 applies from 10th September 2012 until 31st December 2015[^c-e48d4bfac70b241200723ca82ea7cf65].
 
-**14.**[^key-0c6c737125a68c005e8e7016570bb4d2] The Department of Justice in Northern Ireland may provide to DBS[^key-b16a5774179004343b622add1930ad1d] any information it holds in order to enable DBS to determine whether, in relation to any person, paragraphs 1, 2, 3, 5, 7, 8, 9 or 11 of Schedule 1 to the 2007 Order applies or appears to apply.
+**14.**[^c-0c6c737125a68c005e8e7016570bb4d2] The Department of Justice in Northern Ireland may provide to DBS[^c-b16a5774179004343b622add1930ad1d] any information it holds in order to enable DBS to determine whether, in relation to any person, paragraphs 1, 2, 3, 5, 7, 8, 9 or 11 of Schedule 1 to the 2007 Order applies or appears to apply.
 
-**15.**[^key-497108ae65feabdfc409fb9d07a52564] Article 16 applies from 10th September 2012 until such time as section 72(1) of the Act is brought into force for the purposes of inserting section 30A into the 2006 Act.
+**15.**[^c-497108ae65feabdfc409fb9d07a52564] Article 16 applies from 10th September 2012 until such time as section 72(1) of the Act is brought into force for the purposes of inserting section 30A into the 2006 Act.
 
-**16.**[^key-b1ca88a6bb1b770cd1b1c73f0497f11e] DBS[^key-97b7cd805ced860a2f3f5c53a1cceda2] may use any information it holds to check whether any of its members or employees, or prospective members or employees, are on the children’s barred list or the adults’ barred list or both.
+**16.**[^c-b1ca88a6bb1b770cd1b1c73f0497f11e] DBS[^c-97b7cd805ced860a2f3f5c53a1cceda2] may use any information it holds to check whether any of its members or employees, or prospective members or employees, are on the children’s barred list or the adults’ barred list or both.
 
 Lynne Featherstone
 
@@ -267,9 +267,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-4a570040175bc1cb2ed668bc60058350]: Commencement: Art. 1 in force at made date
+[^c-4a570040175bc1cb2ed668bc60058350]: Commencement: Art. 1 in force at made date
 
-[^key-ae12d585f15cbb683561ddac1f1960e0]: Commencement: Art. 2 in force at made date
+[^c-ae12d585f15cbb683561ddac1f1960e0]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: [S.I. 2012/2157](https://www.legislation.gov.uk/uksi/2012/2157).
 
@@ -281,52 +281,52 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00006]: Footnote: [S.I. 2009/2610](https://www.legislation.gov.uk/uksi/2009/2610).
 
-[^key-2ce958d658fab86e6d5da5eaeff44d76]: Commencement: Art. 3 in force at made date
+[^c-2ce958d658fab86e6d5da5eaeff44d76]: Commencement: Art. 3 in force at made date
 
-[^key-16f7e2666f87cdd4c598cc5077877daf]: Commencement: Art. 4 in force at made date
+[^c-16f7e2666f87cdd4c598cc5077877daf]: Commencement: Art. 4 in force at made date
 
 [^f00007]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50). Section 113B was inserted by section 163(2) of the Serious Organised Crime and Police Act 2005 and amended by section 63(1) of, and paragraph 14 of Schedule 9 to, the Safeguarding Vulnerable Groups Act 2006, section 50 of the Criminal Justice and Immigration Act 2008, [S.I. 2009/203](https://www.legislation.gov.uk/uksi/2009/203), and sections 79(2), 80(1), 82 and 115(1) and (2) of, and paragraphs 35 and 37 of Schedule 9 and Parts 5 and 6 of Schedule 10 to, the Protection of Freedoms Act 2012.
 
 [^f00008]: Footnote: Sections 113BA and 113BB were inserted by section 63(1) of, and paragraph 14 of Schedule 9 to, the Safeguarding Vulnerable Groups Act 2006. There are amendments but none relevant to this Order.
 
-[^key-c36c2939fc050e57d62adbac1916442f]: Commencement: Art. 5 in force at made date
+[^c-c36c2939fc050e57d62adbac1916442f]: Commencement: Art. 5 in force at made date
 
 [^f00009]: Footnote: Section 113A was inserted by section 163(2) of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15). There are amendments but none relevant to this Order.
 
-[^key-511fe31667f8c62238d2b43fc4e92d26]: Commencement: Art. 6 in force at made date
+[^c-511fe31667f8c62238d2b43fc4e92d26]: Commencement: Art. 6 in force at made date
 
-[^key-df1de2c2dbdbe993997c6d8d6d612399]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2012/2234/article/6) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-df1de2c2dbdbe993997c6d8d6d612399]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2012/2234/article/6) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-d199c39a2a66ab73b9bee2660d1b65e0]: Commencement: Art. 7 in force at made date
+[^c-d199c39a2a66ab73b9bee2660d1b65e0]: Commencement: Art. 7 in force at made date
 
-[^key-960e52fbd5e3ebd32020f472a79bee48]: Commencement: Art. 8 in force at made date
+[^c-960e52fbd5e3ebd32020f472a79bee48]: Commencement: Art. 8 in force at made date
 
-[^key-dcac28a814f8af3000efd9917e0115c3]: Textual amendment: Word in [art. 8](https://www.legislation.gov.uk/uksi/2012/2234/article/8) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-dcac28a814f8af3000efd9917e0115c3]: Textual amendment: Word in [art. 8](https://www.legislation.gov.uk/uksi/2012/2234/article/8) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-fa6d900230e1ce1a125b4af39d3fce7f]: Commencement: Art. 9 in force at made date
+[^c-fa6d900230e1ce1a125b4af39d3fce7f]: Commencement: Art. 9 in force at made date
 
-[^key-4e9d77d8c51f39b395ded308f31dedd1]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2012/2234/article/9) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-4e9d77d8c51f39b395ded308f31dedd1]: Textual amendment: Word in [art. 9](https://www.legislation.gov.uk/uksi/2012/2234/article/9) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-9fc8c0c9abb931beee4826b09736e298]: Commencement: Art. 10 in force at made date
+[^c-9fc8c0c9abb931beee4826b09736e298]: Commencement: Art. 10 in force at made date
 
-[^key-1f0fe96467544b3e9f4628676e1c2dbc]: Textual amendment: Word in [art. 10](https://www.legislation.gov.uk/uksi/2012/2234/article/10) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-1f0fe96467544b3e9f4628676e1c2dbc]: Textual amendment: Word in [art. 10](https://www.legislation.gov.uk/uksi/2012/2234/article/10) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-a73c21df06ae8dc74b294b43fa353e11]: Commencement: Art. 11 in force at made date
+[^c-a73c21df06ae8dc74b294b43fa353e11]: Commencement: Art. 11 in force at made date
 
-[^key-a4e39f22f4bfbd505cf9e45f7955018f]: Commencement: Art. 12 in force at made date
+[^c-a4e39f22f4bfbd505cf9e45f7955018f]: Commencement: Art. 12 in force at made date
 
-[^key-434c764c67ba89c18426e516c8aa07dd]: Textual amendment: Word in [art. 12](https://www.legislation.gov.uk/uksi/2012/2234/article/12) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-434c764c67ba89c18426e516c8aa07dd]: Textual amendment: Word in [art. 12](https://www.legislation.gov.uk/uksi/2012/2234/article/12) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-dd0f3748aa4c5909dad6a1b8f7dc2dba]: Commencement: Art. 13 in force at made date
+[^c-dd0f3748aa4c5909dad6a1b8f7dc2dba]: Commencement: Art. 13 in force at made date
 
-[^key-e48d4bfac70b241200723ca82ea7cf65]: Textual amendment: Words in [art. 13](https://www.legislation.gov.uk/uksi/2012/2234/article/13) substituted (31.3.2014) by [The Protection of Freedoms Act 2012 (Commencement No. 3) (Amendment) Order 2014 (S.I. 2014/831)](https://www.legislation.gov.uk/uksi/2014/831), [arts. 1](https://www.legislation.gov.uk/uksi/2014/831/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/831/article/2/2)
+[^c-e48d4bfac70b241200723ca82ea7cf65]: Textual amendment: Words in [art. 13](https://www.legislation.gov.uk/uksi/2012/2234/article/13) substituted (31.3.2014) by [The Protection of Freedoms Act 2012 (Commencement No. 3) (Amendment) Order 2014 (S.I. 2014/831)](https://www.legislation.gov.uk/uksi/2014/831), [arts. 1](https://www.legislation.gov.uk/uksi/2014/831/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/831/article/2/2)
 
-[^key-0c6c737125a68c005e8e7016570bb4d2]: Commencement: Art. 14 in force at made date
+[^c-0c6c737125a68c005e8e7016570bb4d2]: Commencement: Art. 14 in force at made date
 
-[^key-b16a5774179004343b622add1930ad1d]: Textual amendment: Word in [art. 14](https://www.legislation.gov.uk/uksi/2012/2234/article/14) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-b16a5774179004343b622add1930ad1d]: Textual amendment: Word in [art. 14](https://www.legislation.gov.uk/uksi/2012/2234/article/14) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-497108ae65feabdfc409fb9d07a52564]: Commencement: Art. 15 in force at made date
+[^c-497108ae65feabdfc409fb9d07a52564]: Commencement: Art. 15 in force at made date
 
-[^key-b1ca88a6bb1b770cd1b1c73f0497f11e]: Commencement: Art. 16 in force at made date
+[^c-b1ca88a6bb1b770cd1b1c73f0497f11e]: Commencement: Art. 16 in force at made date
 
-[^key-97b7cd805ced860a2f3f5c53a1cceda2]: Textual amendment: Word in [art. 16](https://www.legislation.gov.uk/uksi/2012/2234/article/16) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-97b7cd805ced860a2f3f5c53a1cceda2]: Textual amendment: Word in [art. 16](https://www.legislation.gov.uk/uksi/2012/2234/article/16) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(ee)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/ee) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Exercise of higher education assessment functions by a designated body[^key-28e52a4911a4d62cbd26fac67a755363][^key-88ba514094b313c70a59fdc557b4856d]
+## 56. Exercise of higher education assessment functions by a designated body[^c-28e52a4911a4d62cbd26fac67a755363][^c-88ba514094b313c70a59fdc557b4856d]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-28e52a4911a4d62cbd26fac67a755363]: Commencement: S. 56 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-28e52a4911a4d62cbd26fac67a755363]: Commencement: S. 56 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-88ba514094b313c70a59fdc557b4856d]: Commencement: [S. 56](https://www.legislation.gov.uk/asc/2022/1/section/56) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(u)](https://www.legislation.gov.uk/wsi/2025/432/article/2/u)
+[^c-88ba514094b313c70a59fdc557b4856d]: Commencement: [S. 56](https://www.legislation.gov.uk/asc/2022/1/section/56) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(u)](https://www.legislation.gov.uk/wsi/2025/432/article/2/u)

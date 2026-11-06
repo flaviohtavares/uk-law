@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Changes in ownership of accredited RHI installations[^key-2703fdfa5e8103e822612b8d0fba2515]
+## 54. Changes in ownership of accredited RHI installations[^c-2703fdfa5e8103e822612b8d0fba2515]
 
 *Extent: E+W+S*
 
-(1) This regulation applies where ownership of all or part of an accredited RHI installation is transferred from one person to another person (“new owner”)[^key-9fb373322ccacfcca9aa27eef9bfa9d1].
+(1) This regulation applies where ownership of all or part of an accredited RHI installation is transferred from one person to another person (“new owner”)[^c-9fb373322ccacfcca9aa27eef9bfa9d1].
 
 (2) No periodic support payment may be made to a new owner until—
 
@@ -47,14 +47,14 @@ the installation will on the expiry of that period cease to be accredited and ac
 
 (6) The period specified in paragraph (5) may be extended by the Authority where the Authority considers it is just and equitable to do so.
 
-(7) Subject to paragraph (8), if the steps required under paragraph (4) are completed, the new owner of an accredited RHI installation must be paid periodic support payments calculated from the date of the notification under paragraph (2)(a)[^key-ad62bfdb6e5a3e9dde3677dd4584aa26] for the remainder of the tariff lifetime of that accredited RHI installation in accordance with these Regulations.
+(7) Subject to paragraph (8), if the steps required under paragraph (4) are completed, the new owner of an accredited RHI installation must be paid periodic support payments calculated from the date of the notification under paragraph (2)(a)[^c-ad62bfdb6e5a3e9dde3677dd4584aa26] for the remainder of the tariff lifetime of that accredited RHI installation in accordance with these Regulations.
 
 (8) Where a transfer of ownership of all or part of an accredited RHI installation takes place and results in that accredited RHI installation being owned by more than one person, the Authority may require that only one of those owners is the participant for the purposes of the Scheme and require that owner to comply with sub-paragraphs (b) and (c) of regulation 30(3).
 
 ## Annotations
 
-[^key-2703fdfa5e8103e822612b8d0fba2515]: Textual amendment: Words in reg. 54 heading inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [24](https://www.legislation.gov.uk/uksi/2021/76/regulation/24)
+[^c-2703fdfa5e8103e822612b8d0fba2515]: Textual amendment: Words in reg. 54 heading inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [24](https://www.legislation.gov.uk/uksi/2021/76/regulation/24)
 
-[^key-9fb373322ccacfcca9aa27eef9bfa9d1]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/54/1) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [44(a)](https://www.legislation.gov.uk/uksi/2022/159/regulation/44/a)
+[^c-9fb373322ccacfcca9aa27eef9bfa9d1]: Textual amendment: Words in [reg. 54(1)](https://www.legislation.gov.uk/uksi/2018/611/regulation/54/1) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [44(a)](https://www.legislation.gov.uk/uksi/2022/159/regulation/44/a)
 
-[^key-ad62bfdb6e5a3e9dde3677dd4584aa26]: Textual amendment: Words in [reg. 54(7)](https://www.legislation.gov.uk/uksi/2018/611/regulation/54/7) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [44(b)](https://www.legislation.gov.uk/uksi/2022/159/regulation/44/b)
+[^c-ad62bfdb6e5a3e9dde3677dd4584aa26]: Textual amendment: Words in [reg. 54(7)](https://www.legislation.gov.uk/uksi/2018/611/regulation/54/7) substituted (1.4.2022) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2022 (S.I. 2022/159)](https://www.legislation.gov.uk/uksi/2022/159), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/159/regulation/1/3), [44(b)](https://www.legislation.gov.uk/uksi/2022/159/regulation/44/b)

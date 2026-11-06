@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59.4. Claim form and particulars of claim[^key-b86c9615e686de7195c572935f3010d3]
+## 59.4. Claim form and particulars of claim[^c-b86c9615e686de7195c572935f3010d3]
 
 *Extent: E+W*
 
@@ -34,10 +34,10 @@ summary: ''
 
 in both the claim form and the particulars of claim.
 
-(3) Rule 12.7(1)(a) applies[^key-63f575f18007a8d9c7dd3f27f806f1dc] with the modification that references to the particulars of claim shall be read as if they referred to the claim form.
+(3) Rule 12.7(1)(a) applies[^c-63f575f18007a8d9c7dd3f27f806f1dc] with the modification that references to the particulars of claim shall be read as if they referred to the claim form.
 
 ## Annotations
 
-[^key-b86c9615e686de7195c572935f3010d3]: Textual amendment: Pt. 59 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/4015/schedule/3)
+[^c-b86c9615e686de7195c572935f3010d3]: Textual amendment: Pt. 59 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2001/4015/schedule/3)
 
-[^key-63f575f18007a8d9c7dd3f27f806f1dc]: Textual amendment: Words in rule 59.4(3) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [28(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/28/1)
+[^c-63f575f18007a8d9c7dd3f27f806f1dc]: Textual amendment: Words in rule 59.4(3) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [28(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/28/1)

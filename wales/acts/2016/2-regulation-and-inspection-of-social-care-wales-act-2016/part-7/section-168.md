@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Prohibition orders: supplementary provision[^key-212f4b5ee8ee92e6bdcdbc38d1b94faf]
+## 168. Prohibition orders: supplementary provision[^c-212f4b5ee8ee92e6bdcdbc38d1b94faf]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ The Welsh Ministers may by regulations—
 
 ## Annotations
 
-[^key-212f4b5ee8ee92e6bdcdbc38d1b94faf]: Commencement: [S. 168](https://www.legislation.gov.uk/anaw/2016/2/section/168) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-212f4b5ee8ee92e6bdcdbc38d1b94faf]: Commencement: [S. 168](https://www.legislation.gov.uk/anaw/2016/2/section/168) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(f)](https://www.legislation.gov.uk/wsi/2017/309/article/2/f) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

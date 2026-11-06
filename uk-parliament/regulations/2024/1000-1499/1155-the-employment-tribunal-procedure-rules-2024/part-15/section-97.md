@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 97. Devolution issues[^key-f00a7b2a1b4e58aa862b60e738bdff86]
+## 97. Devolution issues[^c-f00a7b2a1b4e58aa862b60e738bdff86]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ unless they are a party to the proceedings.
 
 ## Annotations
 
-[^key-f00a7b2a1b4e58aa862b60e738bdff86]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2024/1155/rule/97) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-f00a7b2a1b4e58aa862b60e738bdff86]: Commencement: [Rule 97](https://www.legislation.gov.uk/uksi/2024/1155/rule/97) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00038]: Footnote: Paragraph 1 of Schedule 6 was amended by the Scotland Act [2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), sections 12(2)(a) and 36(4), the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), Schedule 3, Part 3, paragraph 23 and [S.I. 2022/357](https://www.legislation.gov.uk/uksi/2022/357).
 

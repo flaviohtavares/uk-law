@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 16. Opening operator holding accounts in the Union Registry[^key-3b312f1d5d3ad55b9c5769bf9f3bc186]
+## Article 16. Opening operator holding accounts in the Union Registry[^c-3b312f1d5d3ad55b9c5769bf9f3bc186]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b312f1d5d3ad55b9c5769bf9f3bc186]: Textual amendment: [Arts. 14-17](https://www.legislation.gov.uk/eur/2013/389/article/14) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(10)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/10)
+[^c-3b312f1d5d3ad55b9c5769bf9f3bc186]: Textual amendment: [Arts. 14-17](https://www.legislation.gov.uk/eur/2013/389/article/14) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [4(10)](https://www.legislation.gov.uk/uksi/2021/511/regulation/4/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Imitation of official petition notice[^key-61bcd9d07e8b390ae4996e049a8bf81c]
+## 126. Imitation of official petition notice[^c-61bcd9d07e8b390ae4996e049a8bf81c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61bcd9d07e8b390ae4996e049a8bf81c]: Commencement: Reg. 126 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-61bcd9d07e8b390ae4996e049a8bf81c]: Commencement: Reg. 126 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

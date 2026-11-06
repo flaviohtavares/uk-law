@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by sections 57 and 196(2)(c) of the Social Services and Well-being (Wales) Act 2014[^f00001], make the following Regulations.
 
-## 1. Title, commencement, application and interpretation[^key-754610ca792e1107e04dd8c1f52f2437]
+## 1. Title, commencement, application and interpretation[^c-754610ca792e1107e04dd8c1f52f2437]
 
 (1) The title of these Regulations is the Care and Support (Choice of Accommodation) (Wales) Regulations 2015.
 
@@ -55,24 +55,24 @@ The Welsh Ministers, in exercise of the powers conferred by sections 57 and 196(
 
 - “the Act” (“*y Ddeddf*”) means the Social Services and Well-being (Wales) Act 2014;
 - “care home accommodation” (“*llety cartref gofal*”) means—
-  - (za) accommodation in Wales in a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to adults;[^key-c0668a3a9b8e3dabf14dc70c40582288]
-  - (b) accommodation in a care home within the meaning given by section 3 of the Care Standards Act 2000[^f00002] where the accommodation is in [^key-5e60a8627d298440ff31d87584ac30fc]... England;
+  - (za) accommodation in Wales in a place at which a care home service, within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016, is provided wholly or mainly to adults;[^c-c0668a3a9b8e3dabf14dc70c40582288]
+  - (b) accommodation in a care home within the meaning given by section 3 of the Care Standards Act 2000[^f00002] where the accommodation is in [^c-5e60a8627d298440ff31d87584ac30fc]... England;
   - (c) accommodation in a care home service within the meaning given by paragraph 2 of Schedule 12 to the Public Services Reform (Scotland) Act 2010[^f00003] where the accommodation is in Scotland; or
   - (d) accommodation in a residential care home within the meaning given by article 10 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00004] where the accommodation is in Northern Ireland;
 - “preferred accommodation” (“*llety sy’n cael ei ffafrio*”) means the accommodation for which a person for whom it is to be provided expresses a preference in accordance with regulation 2(b).
-- “short term” (“[^key-14af50996a01291d386c5ffd23e88ff2]*byrdymor*” ) means a period not exceeding 8 weeks.
+- “short term” (“[^c-14af50996a01291d386c5ffd23e88ff2]*byrdymor*” ) means a period not exceeding 8 weeks.
 
-## 2. Choice of accommodation[^key-f43864e17af05a51280c1ef93568bd29]
+## 2. Choice of accommodation[^c-f43864e17af05a51280c1ef93568bd29]
 
 Where—
 
-- (a) a local authority[^f00005] is going to meet needs under sections 35 to 38 of the Act by providing or arranging for the provision of care home accommodation in the United Kingdom which is not short term[^key-e99bca80bf00d95cdfa9b7329d6e5b47];
+- (a) a local authority[^f00005] is going to meet needs under sections 35 to 38 of the Act by providing or arranging for the provision of care home accommodation in the United Kingdom which is not short term[^c-e99bca80bf00d95cdfa9b7329d6e5b47];
 - (b) the person for whom the accommodation is to be provided expresses a preference for a particular care home; and
 - (c) the conditions in regulation 3 are met,
 
 the local authority must provide or arrange for the provision of the preferred accommodation in accordance with these Regulations.
 
-## 3. Conditions for provision of preferred accommodation[^key-4ae6efa7bdeb8c4c4607556c089e3cb4]
+## 3. Conditions for provision of preferred accommodation[^c-4ae6efa7bdeb8c4c4607556c089e3cb4]
 
 (1) The following conditions must be met for the provision of preferred accommodation under regulation 2—
 
@@ -83,7 +83,7 @@ the local authority must provide or arrange for the provision of the preferred a
 
 (2) If the cost to the local authority of providing or arranging for the provision of the preferred accommodation is greater than the cost that the local authority would usually expect to incur in providing or arranging the provision of care home accommodation to meet the needs of the person concerned, the additional cost condition in regulation 4 must also be met[^f00006].
 
-## 4. The additional cost condition[^key-6b61f4eac07ca5f5971a463cd71d72b7]
+## 4. The additional cost condition[^c-6b61f4eac07ca5f5971a463cd71d72b7]
 
 (1) The additional cost condition is met if—
 
@@ -119,7 +119,7 @@ the local authority must provide or arrange for the provision of the preferred a
 
 (7) For the purposes of this regulation, the additional cost that is to be paid by the payer may be less than the full amount of the additional cost referred to in section 57(3) of the Act, if the local authority agrees that a lesser amount should be paid.
 
-## 5. Refusal to provide preferred accommodation[^key-6fc050d2d4d5ebd702d0054067ad7ded]
+## 5. Refusal to provide preferred accommodation[^c-6fc050d2d4d5ebd702d0054067ad7ded]
 
 Where a local authority refuses to provide or arrange for the provision of preferred accommodation it must provide a statement in writing setting out which of the conditions in regulation 3(1) or regulation 4(1) is not met and specifying the reasons.
 
@@ -149,32 +149,32 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-754610ca792e1107e04dd8c1f52f2437]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)
+[^c-754610ca792e1107e04dd8c1f52f2437]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)
 
-[^key-c0668a3a9b8e3dabf14dc70c40582288]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/3) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 37(2)(a)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/37/2/a)
+[^c-c0668a3a9b8e3dabf14dc70c40582288]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/3) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 37(2)(a)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/37/2/a)
 
 [^f00002]: Footnote: [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), section 95 and paragraph 4 of Schedule 5.
 
-[^key-5e60a8627d298440ff31d87584ac30fc]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/3) omitted (2.4.2018) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 37(2)(b)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/37/2/b)
+[^c-5e60a8627d298440ff31d87584ac30fc]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/3) omitted (2.4.2018) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 37(2)(b)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/37/2/b)
 
 [^f00003]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
 [^f00004]: Footnote: [S.I. 2003/431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431).
 
-[^key-14af50996a01291d386c5ffd23e88ff2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/3) inserted (10.4.2017) by [The Care and Support (Choice of Accommodation, Charging and Financial Assessment) (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/214)](https://www.legislation.gov.uk/wsi/2017/214), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/214/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2017/214/regulation/2/a)
+[^c-14af50996a01291d386c5ffd23e88ff2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/3) inserted (10.4.2017) by [The Care and Support (Choice of Accommodation, Charging and Financial Assessment) (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/214)](https://www.legislation.gov.uk/wsi/2017/214), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/214/regulation/1/2), [2(a)](https://www.legislation.gov.uk/wsi/2017/214/regulation/2/a)
 
-[^key-f43864e17af05a51280c1ef93568bd29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1840/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)
+[^c-f43864e17af05a51280c1ef93568bd29]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1840/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)
 
 [^f00005]: Footnote: S*ee* section 197(1) of the Act for the meaning of “local authority”; the definition is limited to local authorities in Wales.
 
-[^key-e99bca80bf00d95cdfa9b7329d6e5b47]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/2/a) inserted (10.4.2017) by [The Care and Support (Choice of Accommodation, Charging and Financial Assessment) (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/214)](https://www.legislation.gov.uk/wsi/2017/214), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/214/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2017/214/regulation/2/b)
+[^c-e99bca80bf00d95cdfa9b7329d6e5b47]: Textual amendment: Words in [reg. 2(a)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/2/a) inserted (10.4.2017) by [The Care and Support (Choice of Accommodation, Charging and Financial Assessment) (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/214)](https://www.legislation.gov.uk/wsi/2017/214), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/214/regulation/1/2), [2(b)](https://www.legislation.gov.uk/wsi/2017/214/regulation/2/b)
 
-[^key-4ae6efa7bdeb8c4c4607556c089e3cb4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1840/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)
+[^c-4ae6efa7bdeb8c4c4607556c089e3cb4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1840/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)
 
 [^f00006]: Footnote: *See* section 57(3) of the Act for the meaning of “additional cost”.
 
-[^key-6b61f4eac07ca5f5971a463cd71d72b7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1840/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)
+[^c-6b61f4eac07ca5f5971a463cd71d72b7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1840/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2015/1844 (W. 272)](https://www.legislation.gov.uk/wsi/2015/1844)
 
-[^key-6fc050d2d4d5ebd702d0054067ad7ded]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1840/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)
+[^c-6fc050d2d4d5ebd702d0054067ad7ded]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1840/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1840/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Search of vehicles[^key-b38e5d73a8daaffed63bebbb613c5dc7]
+## 43A. Search of vehicles[^c-b38e5d73a8daaffed63bebbb613c5dc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ to discover whether there is anything which may constitute evidence that the veh
 
 ## Annotations
 
-[^key-b38e5d73a8daaffed63bebbb613c5dc7]: Textual amendment: S. 43A inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/9/section/60/3), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/d)
+[^c-b38e5d73a8daaffed63bebbb613c5dc7]: Textual amendment: S. 43A inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/9/section/60/3), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/d)

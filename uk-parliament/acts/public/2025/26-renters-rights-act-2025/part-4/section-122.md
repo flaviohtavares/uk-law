@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Power to require production of documents following entry[^key-70229681b06f0f9f4ee5518def291c54]
+## 122. Power to require production of documents following entry[^c-70229681b06f0f9f4ee5518def291c54]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70229681b06f0f9f4ee5518def291c54]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2025/26/section/122) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-70229681b06f0f9f4ee5518def291c54]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2025/26/section/122) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Request for transfer payment to be made[^key-97eba356467d122bc1d7d36dad7d0243]
+## 136. Request for transfer payment to be made[^c-97eba356467d122bc1d7d36dad7d0243]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97eba356467d122bc1d7d36dad7d0243]: Commencement: [Reg. 136](https://www.legislation.gov.uk/uksi/2014/2848/regulation/136) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-97eba356467d122bc1d7d36dad7d0243]: Commencement: [Reg. 136](https://www.legislation.gov.uk/uksi/2014/2848/regulation/136) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

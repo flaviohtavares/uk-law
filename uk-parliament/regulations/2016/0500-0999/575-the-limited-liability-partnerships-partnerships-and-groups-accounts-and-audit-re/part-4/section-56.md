@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Amendments to Part 3 of Schedule 1 (notes to the accounts: non-IAS individual accounts)[^key-ff26c59f816669c997c217afa3cc259a]
+## 56. Amendments to Part 3 of Schedule 1 (notes to the accounts: non-IAS individual accounts)[^c-ff26c59f816669c997c217afa3cc259a]
 
 *Extent: E+W+S+N.I.*
 
@@ -107,4 +107,4 @@ In Part 3 of Schedule 1 (notes to the accounts: non-IAS individual accounts)—
 
 ## Annotations
 
-[^key-ff26c59f816669c997c217afa3cc259a]: Commencement: Reg. 56 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-ff26c59f816669c997c217afa3cc259a]: Commencement: Reg. 56 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

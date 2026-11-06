@@ -171,7 +171,7 @@ In regulation 25 [^c951463] (other persons with a right to appeal) before paragr
 
 In regulation 29(5) [^c951467] (further particulars required relating to certificate of recoverable benefits appeals or applications) for the words “Department of Social Security” there shall be substituted the words “ Department for Work and Pensions ”.
 
-## 9.[^key-81cc7bd4ef384772abbf240c3bb1d0e9]
+## 9.[^c-81cc7bd4ef384772abbf240c3bb1d0e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -179,7 +179,7 @@ In regulation 29(5) [^c951467] (further particulars required relating to certifi
 
 In regulation 32 (late appeals)—
 
-- (a)[^key-3469d279b6711d21d7666693d9b42091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3469d279b6711d21d7666693d9b42091] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (4) there shall be substituted the following paragraph—
 
   > (4) An application for an extension of time shall not be granted unless—
@@ -228,169 +228,169 @@ In regulation 38A(1) [^c951471] (appeals raising issues for decision by officers
 
 ## 13.
 
-Regulation 47 *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951472] (reinstatement of struck out appeals) shall be renumbered paragraph (2) of regulation 47 and immediately before the renumbered paragraph (2) the following paragraph shall be inserted as paragraph (1)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+Regulation 47 *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] [^c951472] (reinstatement of struck out appeals) shall be renumbered paragraph (2) of regulation 47 and immediately before the renumbered paragraph (2) the following paragraph shall be inserted as paragraph (1)— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-> (1) The clerk to the appeal tribunal may reinstate an appeal which has been struck out in accordance with regulation 46(1)(c) where— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+> (1) The clerk to the appeal tribunal may reinstate an appeal which has been struck out in accordance with regulation 46(1)(c) where— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 >
-> - (a) the appellant has made representations to him or, as the case may be, further representations in support of his appeal with reasons why he considers that his appeal should not have been struck out; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-> - (b) the representations are made in writing within one month of the order to strike out the appeal being issued; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-> - (c) the clerk is satisfied in the light of those representations that there are reasonable grounds for reinstating the appeal *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+> - (a) the appellant has made representations to him or, as the case may be, further representations in support of his appeal with reasons why he considers that his appeal should not have been struck out; *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+> - (b) the representations are made in writing within one month of the order to strike out the appeal being issued; and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+> - (c) the clerk is satisfied in the light of those representations that there are reasonable grounds for reinstating the appeal *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 >
-> but if the clerk is not satisfied that there are reasonable grounds for reinstatement a legally qualified panel member shall consider whether the appeal should be reinstated in accordance with paragraph (2). *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+> but if the clerk is not satisfied that there are reasonable grounds for reinstatement a legally qualified panel member shall consider whether the appeal should be reinstated in accordance with paragraph (2). *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
 .
 
 ## 14.
 
-In regulation 49 (procedure at oral hearings)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+In regulation 49 (procedure at oral hearings)— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-- (a) for paragraph (6) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (a) for paragraph (6) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-  > (6) An oral hearing shall be in public except where the chairman, or in the case of an appeal tribunal which has only one member, that member, is satisfied that it is necessary to hold the hearing, or part of the hearing, in private— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (6) An oral hearing shall be in public except where the chairman, or in the case of an appeal tribunal which has only one member, that member, is satisfied that it is necessary to hold the hearing, or part of the hearing, in private— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > - (a) in the interests of national security, morals, public order or children; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (b) for the protection of the private or family life of one or more parties to the proceedings; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (c) in special circumstances, because publicity would prejudice the interests of justice. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (a) in the interests of national security, morals, public order or children; *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) for the protection of the private or family life of one or more parties to the proceedings; or *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (c) in special circumstances, because publicity would prejudice the interests of justice. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
   ;
-- (b) for paragraph (7) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (b) for paragraph (7) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-  > (7) At an oral hearing— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (7) At an oral hearing— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > - (a) any party to the proceedings shall be entitled to be present and be heard; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (b) the following persons may be present by means of a live television link— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  >   - (i) a party to the proceedings or his representative or both; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  >   - (ii (affected by repeal, see note))[^key-714754ebad6279c5d080907af4cfd2c8] where an appeal tribunal consists of more than one member, a tribunal member other than the chairman, *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (a) any party to the proceedings shall be entitled to be present and be heard; and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) the following persons may be present by means of a live television link— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  >   - (i) a party to the proceedings or his representative or both; or *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  >   - (ii (affected by repeal, see note))[^c-714754ebad6279c5d080907af4cfd2c8] where an appeal tribunal consists of more than one member, a tribunal member other than the chairman, *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  >   provided that the person who constitutes or is the chairman of the tribunal gives permission and the appellant consents. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >   provided that the person who constitutes or is the chairman of the tribunal gives permission and the appellant consents. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
   ;
-- (c) in paragraph (9)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  - (i) in sub-paragraph (b) the word “panel” shall be omitted; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  - (ii (affected by repeal, see note))[^key-714754ebad6279c5d080907af4cfd2c8] in sub-paragraph (d) the words “and the consent of every party to the proceedings actually present,” shall be omitted; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-- (d) for paragraph (10) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951473] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (c) in paragraph (9)— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  - (i) in sub-paragraph (b) the word “panel” shall be omitted; and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  - (ii (affected by repeal, see note))[^c-714754ebad6279c5d080907af4cfd2c8] in sub-paragraph (d) the words “and the consent of every party to the proceedings actually present,” shall be omitted; *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+- (d) for paragraph (10) *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] [^c951473] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-  > (10) Nothing in paragraph (9) affects the rights of— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (10) Nothing in paragraph (9) affects the rights of— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > - (a) any person mentioned in sub-paragraphs (a) and (b) of that paragraph where he is sitting as a member of a tribunal or acting as its clerk; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (b) the clerk to the tribunal, *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (a) any person mentioned in sub-paragraphs (a) and (b) of that paragraph where he is sitting as a member of a tribunal or acting as its clerk; or *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) the clerk to the tribunal, *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > and nothing in this regulation prevents the presence at an oral hearing of any witness or of any person whom the chairman, or in the case of an appeal tribunal which has only one member, that member, permits to be present in order to assist the appeal tribunal or the clerk. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > and nothing in this regulation prevents the presence at an oral hearing of any witness or of any person whom the chairman, or in the case of an appeal tribunal which has only one member, that member, permits to be present in order to assist the appeal tribunal or the clerk. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-- (e) after paragraph (12) the following paragraph shall be added— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+- (e) after paragraph (12) the following paragraph shall be added— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-  > (13) In this regulation “live television link” means a live television link or other facilities which allow a person who is not physically present at an oral hearing to see and hear proceedings and be seen and heard by those physically present. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (13) In this regulation “live television link” means a live television link or other facilities which allow a person who is not physically present at an oral hearing to see and hear proceedings and be seen and heard by those physically present. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
   .
 
-## 15.[^key-714754ebad6279c5d080907af4cfd2c8]
+## 15.[^c-714754ebad6279c5d080907af4cfd2c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 16.
 
-In regulation 53 (decisions of appeal tribunals), for paragraph (4) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951474] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+In regulation 53 (decisions of appeal tribunals), for paragraph (4) *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] [^c951474] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-> (4) A party to the proceedings may apply in writing to the clerk to the appeal tribunal for a statement of the reasons for the tribunal’s decision within one month of the sending or giving of the decision notice to every party to the proceedings or within such longer period as may be allowed in accordance with regulation 54 and following that application the chairman, or in the case of a tribunal with only one member, that member shall record a statement of the reasons and a copy of that statement shall be given to every party to the proceedings as soon as may be practicable. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+> (4) A party to the proceedings may apply in writing to the clerk to the appeal tribunal for a statement of the reasons for the tribunal’s decision within one month of the sending or giving of the decision notice to every party to the proceedings or within such longer period as may be allowed in accordance with regulation 54 and following that application the chairman, or in the case of a tribunal with only one member, that member shall record a statement of the reasons and a copy of that statement shall be given to every party to the proceedings as soon as may be practicable. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
 .
 
 ## 17.
 
-In regulation 54 (late applications for a statement of reasons of tribunal decision)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+In regulation 54 (late applications for a statement of reasons of tribunal decision)— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-- (a) in paragraph (6)(a) for the word “spouse” there shall be substituted the word *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ partner ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ;
-- (b) in paragraphs (10), (11) and (12) for the word “decision” in each place where it occurs there shall be substituted the word *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ determination ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ;
-- (c) in paragraph (11) for the words “a copy” there shall be substituted the word *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ notice ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ;
-- (d) in paragraph (12) for the words “a copy”, in the first place where they occur, there shall be substituted the word *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ notice ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-- (e) the following paragraph shall be substituted for paragraph (13) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951475] —
+- (a) in paragraph (6)(a) for the word “spouse” there shall be substituted the word *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] “ partner ” *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] ;
+- (b) in paragraphs (10), (11) and (12) for the word “decision” in each place where it occurs there shall be substituted the word *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] “ determination ” *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] ;
+- (c) in paragraph (11) for the words “a copy” there shall be substituted the word *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] “ notice ” *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] ;
+- (d) in paragraph (12) for the words “a copy”, in the first place where they occur, there shall be substituted the word *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] “ notice ” *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] ; and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+- (e) the following paragraph shall be substituted for paragraph (13) *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] [^c951475] —
 
-  > (13) In calculating the time specified for applying in writing for a statement of the reasons for the tribunal’s decision there shall be disregarded any day which falls before the day on which notice was given of— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (13) In calculating the time specified for applying in writing for a statement of the reasons for the tribunal’s decision there shall be disregarded any day which falls before the day on which notice was given of— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > - (a) a correction of a decision or the record thereof pursuant to regulation 56; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (b) a determination that a decision shall not be set aside following an application made under regulation 57, except where the decision was not set aside because of a refusal to extend the time for applying. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (a) a correction of a decision or the record thereof pursuant to regulation 56; or *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) a determination that a decision shall not be set aside following an application made under regulation 57, except where the decision was not set aside because of a refusal to extend the time for applying. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
   .
 
 ## 18.
 
-In regulation 57 (setting aside decisions on certain grounds)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+In regulation 57 (setting aside decisions on certain grounds)— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-- (a) in paragraph (2) the words “the chairman, or in the case of an appeal tribunal which has only one member, unless” shall be omitted; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-- (b) for paragraph (3) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951476] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (a) in paragraph (2) the words “the chairman, or in the case of an appeal tribunal which has only one member, unless” shall be omitted; *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+- (b) for paragraph (3) *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] [^c951476] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-  > (3) An application under this regulation shall— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (3) An application under this regulation shall— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > - (a) be made within one month of the date on which— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  >   - (i) a copy of the decision notice is sent or given to the parties to the proceedings in accordance with regulation 53(3); or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  >   - (ii (affected by repeal, see note))[^key-714754ebad6279c5d080907af4cfd2c8] the statement of the reasons for the decision is given or sent in accordance with regulation 53(4), *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (a) be made within one month of the date on which— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  >   - (i) a copy of the decision notice is sent or given to the parties to the proceedings in accordance with regulation 53(3); or *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  >   - (ii (affected by repeal, see note))[^c-714754ebad6279c5d080907af4cfd2c8] the statement of the reasons for the decision is given or sent in accordance with regulation 53(4), *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  >   whichever is later; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (b) be in writing and signed by a party to the proceedings or, where the party has provided written authority to a representative to act on his behalf, that representative; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (c) contain particulars of the grounds on which it is made; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (d) be sent to the clerk to the appeal tribunal. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  >   whichever is later; *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) be in writing and signed by a party to the proceedings or, where the party has provided written authority to a representative to act on his behalf, that representative; *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (c) contain particulars of the grounds on which it is made; and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (d) be sent to the clerk to the appeal tribunal. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-- (c) the following paragraphs shall be substituted for paragraphs (6) to (12) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951477] —
+  and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+- (c) the following paragraphs shall be substituted for paragraphs (6) to (12) *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] [^c951477] —
 
-  > (6) The time within which an application under this regulation must be made may be extended by a period not exceeding one year where the conditions specified in paragraphs (7) to (11) are satisfied. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (6) The time within which an application under this regulation must be made may be extended by a period not exceeding one year where the conditions specified in paragraphs (7) to (11) are satisfied. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > (7) An application for an extension of time shall be made in accordance with paragraph (3)(b) to (d), shall include details of any relevant special circumstances for the purposes of paragraph (9) and shall be determined by a legally qualified panel member. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (7) An application for an extension of time shall be made in accordance with paragraph (3)(b) to (d), shall include details of any relevant special circumstances for the purposes of paragraph (9) and shall be determined by a legally qualified panel member. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > (8) An application for an extension of time shall not be granted unless the panel member is satisfied that— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (8) An application for an extension of time shall not be granted unless the panel member is satisfied that— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > - (a) if the application is granted there are reasonable prospects that the application to set aside will be successful; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (b) it is in the interests of justice for the application for an extension of time to be granted. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (a) if the application is granted there are reasonable prospects that the application to set aside will be successful; and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) it is in the interests of justice for the application for an extension of time to be granted. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > (9) For the purposes of paragraph (8) it is not in the interests of justice to grant an application for an extension of time unless the panel member is satisfied that— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (9) For the purposes of paragraph (8) it is not in the interests of justice to grant an application for an extension of time unless the panel member is satisfied that— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > - (a) the special circumstances specified in paragraph (10) are relevant to that application; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (b) some other special circumstances exist which are wholly exceptional and relevant to that application, *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (a) the special circumstances specified in paragraph (10) are relevant to that application; or *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) some other special circumstances exist which are wholly exceptional and relevant to that application, *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > and as a result of those special circumstances, it was not practicable for the application to set aside to be made within the time limit specified in paragraph (3)(a). *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > and as a result of those special circumstances, it was not practicable for the application to set aside to be made within the time limit specified in paragraph (3)(a). *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > (10) For the purposes of paragraph (9)(a) the special circumstances are that— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (10) For the purposes of paragraph (9)(a) the special circumstances are that— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > - (a) the applicant or a partner or dependant of the applicant has died or suffered serious illness; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (b) the applicant is not resident in the United Kingdom; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (c) normal postal services were disrupted. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (a) the applicant or a partner or dependant of the applicant has died or suffered serious illness; *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) the applicant is not resident in the United Kingdom; or *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (c) normal postal services were disrupted. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > (11) In determining whether it is in the interests of justice to grant an application for an extension of time, the panel member shall have regard to the principle that the greater the amount of time that has elapsed between the expiry of the time within which the application to set aside is to be made and the making of the application for an extension of time, the more compelling should be the special circumstances on which the application for an extension is based. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (11) In determining whether it is in the interests of justice to grant an application for an extension of time, the panel member shall have regard to the principle that the greater the amount of time that has elapsed between the expiry of the time within which the application to set aside is to be made and the making of the application for an extension of time, the more compelling should be the special circumstances on which the application for an extension is based. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > (12) An application under this regulation for an extension of time which has been refused may not be renewed. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (12) An application under this regulation for an extension of time which has been refused may not be renewed. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
   .
 
-## 19.[^key-714754ebad6279c5d080907af4cfd2c8]
+## 19.[^c-714754ebad6279c5d080907af4cfd2c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 20.
 
-In regulation 58 *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951479] (application for leave to appeal to a Commissioner from an appeal tribunal)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+In regulation 58 *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] [^c951479] (application for leave to appeal to a Commissioner from an appeal tribunal)— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-- (a) in paragraph (1)— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  - (i) after the word “under” there shall be inserted the words *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ section 13 of the 1997 Act or under ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ; and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  - (ii (affected by repeal, see note))[^key-714754ebad6279c5d080907af4cfd2c8] in sub-paragraph (a) for the words “made within the period of one month commencing on the date the applicant is sent” there shall be substituted the words *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] “ sent to the clerk to the appeal tribunal within the period of one month of the date of the applicant being sent ” *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] ;
-- (b) paragraph (3) shall be omitted; *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-- (c) for paragraph (4) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+- (a) in paragraph (1)— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  - (i) after the word “under” there shall be inserted the words *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] “ section 13 of the 1997 Act or under ” *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] ; and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  - (ii (affected by repeal, see note))[^c-714754ebad6279c5d080907af4cfd2c8] in sub-paragraph (a) for the words “made within the period of one month commencing on the date the applicant is sent” there shall be substituted the words *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] “ sent to the clerk to the appeal tribunal within the period of one month of the date of the applicant being sent ” *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] ;
+- (b) paragraph (3) shall be omitted; *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+- (c) for paragraph (4) there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-  > (4) A person determining an application for leave to appeal to a Commissioner shall record his determination in writing and send a copy to every party to the proceedings. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (4) A person determining an application for leave to appeal to a Commissioner shall record his determination in writing and send a copy to every party to the proceedings. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
   ;
 
-  and *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-- (d) for paragraph (6) *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8] [^c951480] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  and *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+- (d) for paragraph (6) *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8] [^c951480] there shall be substituted the following paragraph— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
-  > (6) Where an application for leave to appeal against a decision of an appeal tribunal is made— *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > (6) Where an application for leave to appeal against a decision of an appeal tribunal is made— *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
   >
-  > - (a) if the person who constituted, or was the chairman of, the appeal tribunal when the decision was given was a fee-paid legally qualified panel member, the application may be determined by a salaried legally qualified panel member; or *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
-  > - (b) if it is impracticable, or it would be likely to cause undue delay, for the application to be determined by whoever constituted, or was the chairman of, the appeal tribunal when the decision was given, the application may be determined by another legally qualified panel member. *(affected by repeal, see note)*[^key-714754ebad6279c5d080907af4cfd2c8]
+  > - (a) if the person who constituted, or was the chairman of, the appeal tribunal when the decision was given was a fee-paid legally qualified panel member, the application may be determined by a salaried legally qualified panel member; or *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
+  > - (b) if it is impracticable, or it would be likely to cause undue delay, for the application to be determined by whoever constituted, or was the chairman of, the appeal tribunal when the decision was given, the application may be determined by another legally qualified panel member. *(affected by repeal, see note)*[^c-714754ebad6279c5d080907af4cfd2c8]
 
   .
 
@@ -442,7 +442,7 @@ In Schedule 2 (decisions against which no appeal lies)—
 
   .
 
-## 22.[^key-9a702a6ffd382f5f28424108b7e2ee3b]
+## 22.[^c-9a702a6ffd382f5f28424108b7e2ee3b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -493,7 +493,7 @@ In regulation 18 of the Housing Benefit (Decisions and Appeals) Regulations (tim
 
 In regulation 19 of the Housing Benefit (Decisions and Appeals) Regulations (late appeals)—
 
-- (a)[^key-30baeeca6979eb0f780beb1da241d4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-30baeeca6979eb0f780beb1da241d4d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (5) there shall be substituted the following paragraph—
 
   > (5) An application for an extension of time shall not be granted unless—
@@ -505,7 +505,7 @@ In regulation 19 of the Housing Benefit (Decisions and Appeals) Regulations (lat
 - (c) in paragraph (6) after the words “panel member” there shall be inserted the words “ or the relevant authority, as the case may be, ”; and
 - (d) in paragraph (8) for the words “the panel member shall have regard” there shall be substituted the words “ regard shall be had ”.
 
-## 28.[^key-c0763cec7b31fa4c0bd4878986576181]
+## 28.[^c-c0763cec7b31fa4c0bd4878986576181]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -630,9 +630,9 @@ These Regulations do not impose any costs on business.
 
 [^c951467]: Marginal citation: Regulation 29(5) was amended by [S.I. 2000/3030](https://www.legislation.gov.uk/uksi/2000/3030).
 
-[^key-81cc7bd4ef384772abbf240c3bb1d0e9]: Textual amendment: Reg. 9 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-81cc7bd4ef384772abbf240c3bb1d0e9]: Textual amendment: Reg. 9 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
-[^key-3469d279b6711d21d7666693d9b42091]: Textual amendment: Reg. 10(a) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-3469d279b6711d21d7666693d9b42091]: Textual amendment: Reg. 10(a) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
 [^c951469]: Marginal citation: Regulation 33 was amended by [S.I. 1999/1662](https://www.legislation.gov.uk/uksi/1999/1662), 2570 and 2677 and 2000/897, 1596 and 3030.
 
@@ -640,7 +640,7 @@ These Regulations do not impose any costs on business.
 
 [^c951471]: Marginal citation: Regulation 38A was inserted by [S.I. 1999/1670](https://www.legislation.gov.uk/uksi/1999/1670).
 
-[^key-714754ebad6279c5d080907af4cfd2c8]: Textual amendment: Regs. 13-20 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(d)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/d), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
+[^c-714754ebad6279c5d080907af4cfd2c8]: Textual amendment: Regs. 13-20 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2) (with [arts. 3(3)(d)](https://www.legislation.gov.uk/uksi/2008/2683/article/3/3/d), [4](https://www.legislation.gov.uk/uksi/2008/2683/article/4))
 
 [^c951472]: Marginal citation: Regulation 47 was amended by [S.I. 2000/1596](https://www.legislation.gov.uk/uksi/2000/1596).
 
@@ -714,11 +714,11 @@ These Regulations do not impose any costs on business.
 
 [^c951508]: Marginal citation: [2000 c.19](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-9a702a6ffd382f5f28424108b7e2ee3b]: Textual amendment: Reg. 22 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-9a702a6ffd382f5f28424108b7e2ee3b]: Textual amendment: Reg. 22 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
-[^key-30baeeca6979eb0f780beb1da241d4d9]: Textual amendment: Reg. 27(a) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-30baeeca6979eb0f780beb1da241d4d9]: Textual amendment: Reg. 27(a) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
-[^key-c0763cec7b31fa4c0bd4878986576181]: Textual amendment: Reg. 28 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-c0763cec7b31fa4c0bd4878986576181]: Textual amendment: Reg. 28 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
 [^c951510]: Marginal citation: [1979 c.17](https://www.legislation.gov.uk/ukpga/1979/17).
 

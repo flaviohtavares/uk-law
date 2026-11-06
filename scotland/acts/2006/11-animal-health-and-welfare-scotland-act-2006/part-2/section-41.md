@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Seizure orders where disqualification breached[^key-48eba38605c6e6dd3eb52d60548e5b95][^key-a19ee5ec4c26197ebb4dc9b78f69171f]
+## 41. Seizure orders where disqualification breached[^c-48eba38605c6e6dd3eb52d60548e5b95][^c-a19ee5ec4c26197ebb4dc9b78f69171f]
 
 *Extent: S*
 
@@ -69,6 +69,6 @@ summary: ''
 
 ## Annotations
 
-[^key-48eba38605c6e6dd3eb52d60548e5b95]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2006/11/section/41) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2) (with [art. 4(1)(c)](https://www.legislation.gov.uk/ssi/2006/482/article/4/1/c))
+[^c-48eba38605c6e6dd3eb52d60548e5b95]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2006/11/section/41) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2) (with [art. 4(1)(c)](https://www.legislation.gov.uk/ssi/2006/482/article/4/1/c))
 
-[^key-a19ee5ec4c26197ebb4dc9b78f69171f]: Modification: [Ss. 41](https://www.legislation.gov.uk/asp/2006/11/section/41), [42](https://www.legislation.gov.uk/asp/2006/11/section/42) applied (1.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 (S.S.I. 2021/84)](https://www.legislation.gov.uk/ssi/2021/84), [regs. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1), [25(2)](https://www.legislation.gov.uk/ssi/2021/84/regulation/25/2)
+[^c-a19ee5ec4c26197ebb4dc9b78f69171f]: Modification: [Ss. 41](https://www.legislation.gov.uk/asp/2006/11/section/41), [42](https://www.legislation.gov.uk/asp/2006/11/section/42) applied (1.9.2021) by [The Animal Welfare (Licensing of Activities Involving Animals) (Scotland) Regulations 2021 (S.S.I. 2021/84)](https://www.legislation.gov.uk/ssi/2021/84), [regs. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1), [25(2)](https://www.legislation.gov.uk/ssi/2021/84/regulation/25/2)

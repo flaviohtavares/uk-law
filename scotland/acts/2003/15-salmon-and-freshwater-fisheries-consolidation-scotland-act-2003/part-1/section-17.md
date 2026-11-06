@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Annual close time for trout[^key-131c2db0d3ffad53e0c6e8aff600c69d]
+## 17. Annual close time for trout[^c-131c2db0d3ffad53e0c6e8aff600c69d]
 
 *Extent: S*
 
@@ -36,10 +36,10 @@ shall be guilty of an offence, and liable on summary conviction to a fine not ex
 
 (4) It shall not be an offence under this section for a person to whom trout are consigned, whether by sale or otherwise, for the purpose mentioned in subsection (3)(b) above, to be in possession of such trout.
 
-(5)[^key-69801415a116648aef30aae37f36983e] A person who commits an offence under this section may be convicted on the evidence of one witness.
+(5)[^c-69801415a116648aef30aae37f36983e] A person who commits an offence under this section may be convicted on the evidence of one witness.
 
 ## Annotations
 
-[^key-131c2db0d3ffad53e0c6e8aff600c69d]: Commencement: S. 17 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-131c2db0d3ffad53e0c6e8aff600c69d]: Commencement: S. 17 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-69801415a116648aef30aae37f36983e]: Textual amendment: S. 17(5) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(2)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/333/article/4))
+[^c-69801415a116648aef30aae37f36983e]: Textual amendment: S. 17(5) inserted (1.8.2007) by [Aquaculture and Fisheries (Scotland) Act 2007 (asp 12)](https://www.legislation.gov.uk/asp/2007/12), [s. 45(2)](https://www.legislation.gov.uk/asp/2007/12/section/45/2), [Sch. para. 6(2)](https://www.legislation.gov.uk/asp/2007/12/schedule/paragraph/6/2) (with [s. 39](https://www.legislation.gov.uk/asp/2007/12/section/39)); [S.S.I. 2007/333](https://www.legislation.gov.uk/ssi/2007/333), [art. 2(1)](https://www.legislation.gov.uk/ssi/2007/333/article/2/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2007/333/article/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Chairing[^key-6c3be27498a7135b74c0a414c5d41d8f]
+## 11. Chairing[^c-6c3be27498a7135b74c0a414c5d41d8f]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ Ministers may vary the terms of the member's appointment so as to alter the date
 
 ## Annotations
 
-[^key-6c3be27498a7135b74c0a414c5d41d8f]: Commencement: S. 11 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-6c3be27498a7135b74c0a414c5d41d8f]: Commencement: S. 11 in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

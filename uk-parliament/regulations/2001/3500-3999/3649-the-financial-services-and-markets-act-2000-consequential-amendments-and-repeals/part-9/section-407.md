@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 407. Loan instruments issued by local authorities[^key-c19631c264f3cc9012ec60539c3b7e15]
+## 407. Loan instruments issued by local authorities[^c-c19631c264f3cc9012ec60539c3b7e15]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c19631c264f3cc9012ec60539c3b7e15]: Commencement: Art. 407 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c19631c264f3cc9012ec60539c3b7e15]: Commencement: Art. 407 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00295]: Footnote: Paragraph (b) was amended by [S.I. 1991/2000](https://www.legislation.gov.uk/uksi/1991/2000), regulation 5(3).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 219. Powers to enter land, take steps required by maintenance of land notice and recover costs[^key-4018c212f0ef9763490735ea8a3e44b2]
+## 219. Powers to enter land, take steps required by maintenance of land notice and recover costs[^c-4018c212f0ef9763490735ea8a3e44b2]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ are to be treated as incurred or paid for the use and at the request of any pers
 
 ## Annotations
 
-[^key-4018c212f0ef9763490735ea8a3e44b2]: Commencement: S. 219 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4018c212f0ef9763490735ea8a3e44b2]: Commencement: S. 219 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

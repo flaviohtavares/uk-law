@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 276. Power to make regulations about dealing with money and valuables[^key-16747a8ef22fdb4c50e2ab35407190b4]
+## 276. Power to make regulations about dealing with money and valuables[^c-16747a8ef22fdb4c50e2ab35407190b4]
 
 *Extent: N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16747a8ef22fdb4c50e2ab35407190b4]: Commencement: [S. 276](https://www.legislation.gov.uk/nia/2016/18/section/276) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)
+[^c-16747a8ef22fdb4c50e2ab35407190b4]: Commencement: [S. 276](https://www.legislation.gov.uk/nia/2016/18/section/276) in operation at 2.12.2019 by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(2)](https://www.legislation.gov.uk/nisr/2019/163/article/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by S.R. 2019/190, art. 2)

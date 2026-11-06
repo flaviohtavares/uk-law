@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Temporary suspension of public access to access land[^key-a4d53219ffc3fe9cd6d52933a40e9dab]
+## 22. Temporary suspension of public access to access land[^c-a4d53219ffc3fe9cd6d52933a40e9dab]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4d53219ffc3fe9cd6d52933a40e9dab]: Commencement: Art. 22 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-a4d53219ffc3fe9cd6d52933a40e9dab]: Commencement: Art. 22 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Receipts for payment[^key-ad00a71f18f95603618afa8a13022f58]
+## 166. Receipts for payment[^c-ad00a71f18f95603618afa8a13022f58]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ When a relevant amount is paid to WRA, WRA must give a receipt if requested to d
 
 ## Annotations
 
-[^key-ad00a71f18f95603618afa8a13022f58]: Commencement: S. 166 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(h)](https://www.legislation.gov.uk/wsi/2018/33/article/2/h)
+[^c-ad00a71f18f95603618afa8a13022f58]: Commencement: S. 166 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(h)](https://www.legislation.gov.uk/wsi/2018/33/article/2/h)

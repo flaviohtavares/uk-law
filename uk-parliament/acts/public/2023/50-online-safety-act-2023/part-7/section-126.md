@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Review and further notice under section 121(1)[^key-a794a17eee798efe69cbef41bf61a461][^key-1959c8ba9c5a889f8e8813feeeedce34]
+## 126. Review and further notice under section 121(1)[^c-a794a17eee798efe69cbef41bf61a461][^c-1959c8ba9c5a889f8e8813feeeedce34]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a794a17eee798efe69cbef41bf61a461]: Commencement: S. 126 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-a794a17eee798efe69cbef41bf61a461]: Commencement: S. 126 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-1959c8ba9c5a889f8e8813feeeedce34]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2023/50/section/126) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)
+[^c-1959c8ba9c5a889f8e8813feeeedce34]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2023/50/section/126) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)

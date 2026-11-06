@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Power to change the register where no notice has been given to WRA[^key-7fe8f48c2a9d0d306d06259b26b007dc]
+## 11. Power to change the register where no notice has been given to WRA[^c-7fe8f48c2a9d0d306d06259b26b007dc]
 
 *Extent: E+W*
 
-(1)[^key-5f232fa3067a99b6fd9d9118b461660a] WRA may change a VAP’s entry in the register where no notice has been given by the VAP under section 9 if WRA considers that the entry is inaccurate.
+(1)[^c-5f232fa3067a99b6fd9d9118b461660a] WRA may change a VAP’s entry in the register where no notice has been given by the VAP under section 9 if WRA considers that the entry is inaccurate.
 
-(2)[^key-5f232fa3067a99b6fd9d9118b461660a] Before WRA may change a VAP’s entry under subsection (1), WRA must issue a notice to that VAP—
+(2)[^c-5f232fa3067a99b6fd9d9118b461660a] Before WRA may change a VAP’s entry under subsection (1), WRA must issue a notice to that VAP—
 
 - (a) specifying the information WRA considers inaccurate,
 - (b) setting out whether WRA intends to—
@@ -33,7 +33,7 @@ summary: ''
   - (ii) WRA is satisfied that the register does not need to be changed, and
 - (d) setting out information about rights of review and appeal.
 
-(3)[^key-5f232fa3067a99b6fd9d9118b461660a] The date specified in the notice under subsection (2)(c) must be at least 30 days after the day the notice is issued.
+(3)[^c-5f232fa3067a99b6fd9d9118b461660a] The date specified in the notice under subsection (2)(c) must be at least 30 days after the day the notice is issued.
 
 (4) Where a VAP’s entry is changed under this section, the VAP remains liable to penalties under section 10; but the VAP is to be treated for the purposes of that section as having given the notice required by section 9(1)(a) or (b) from the time the VAP gives notice to WRA—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7fe8f48c2a9d0d306d06259b26b007dc]: Commencement: S. 11 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-7fe8f48c2a9d0d306d06259b26b007dc]: Commencement: S. 11 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
 
-[^key-5f232fa3067a99b6fd9d9118b461660a]: Commencement: [S. 11(1)-(3)](https://www.legislation.gov.uk/asc/2025/5/section/11/1) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/f)
+[^c-5f232fa3067a99b6fd9d9118b461660a]: Commencement: [S. 11(1)-(3)](https://www.legislation.gov.uk/asc/2025/5/section/11/1) in force at 1.10.2026 by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(f)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/f)

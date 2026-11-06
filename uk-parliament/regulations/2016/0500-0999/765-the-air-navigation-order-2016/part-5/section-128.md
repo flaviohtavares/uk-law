@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The Secretary of State may make regulations prescribing[^key-61e856be529c5ecb974af8d48c819ff0] requirements for helicopters registered in the United Kingdom which are not Part-CAT helicopters in respect of their weight and related performance and flight in specified meteorological conditions or at night.
+(1) The Secretary of State may make regulations prescribing[^c-61e856be529c5ecb974af8d48c819ff0] requirements for helicopters registered in the United Kingdom which are not Part-CAT helicopters in respect of their weight and related performance and flight in specified meteorological conditions or at night.
 
 (2) Subject to paragraph (3), a helicopter registered in the United Kingdom must not fly for the purpose of public transport unless the helicopter complies with the applicable provisions of the requirements which have been prescribed for its weight and related performance and flight in specified meteorological conditions or at night.
 
@@ -41,4 +41,4 @@ to reach a place at which it can safely land at a height sufficient to enable it
 
 ## Annotations
 
-[^key-61e856be529c5ecb974af8d48c819ff0]: Textual amendment: Words in [art. 128(1)](https://www.legislation.gov.uk/uksi/2016/765/article/128/1) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [28](https://www.legislation.gov.uk/uksi/2017/1112/article/28)
+[^c-61e856be529c5ecb974af8d48c819ff0]: Textual amendment: Words in [art. 128(1)](https://www.legislation.gov.uk/uksi/2016/765/article/128/1) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [28](https://www.legislation.gov.uk/uksi/2017/1112/article/28)

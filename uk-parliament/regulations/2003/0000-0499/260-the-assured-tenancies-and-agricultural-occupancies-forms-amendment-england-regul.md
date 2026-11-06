@@ -31,7 +31,7 @@ summary: ''
 
 LANDLORD AND TENANT, ENGLAND
 
-The Assured Tenancies and Agricultural Occupancies (Forms) (Amendment) (England) Regulations 2003 (revoked)[^key-02868f671e7964ad2799c304871abb0f]
+The Assured Tenancies and Agricultural Occupancies (Forms) (Amendment) (England) Regulations 2003 (revoked)[^c-02868f671e7964ad2799c304871abb0f]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into force
 
 11th February 2003
 
-[^key-02868f671e7964ad2799c304871abb0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02868f671e7964ad2799c304871abb0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-02868f671e7964ad2799c304871abb0f]
+## 1. Citation, commencement and application[^c-02868f671e7964ad2799c304871abb0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-02868f671e7964ad2799c304871abb0f]
+## 2. Amendment of Regulations[^c-02868f671e7964ad2799c304871abb0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation and saving[^key-02868f671e7964ad2799c304871abb0f]
+## 3. Revocation and saving[^c-02868f671e7964ad2799c304871abb0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-02868f671e7964ad2799c304871abb0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02868f671e7964ad2799c304871abb0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FORMS PRESCRIBED FOR THE PURPOSES OF SECTION 13(2) OF THE HOUSING ACT 1988[^key-02868f671e7964ad2799c304871abb0f]
+## SCHEDULE — FORMS PRESCRIBED FOR THE PURPOSES OF SECTION 13(2) OF THE HOUSING ACT 1988[^c-02868f671e7964ad2799c304871abb0f]
 
 Regulation 2(b)
 
@@ -75,8 +75,8 @@ FORM No. 4C
 
 **May not be in force at this date. Check the source.**
 
-[^key-02868f671e7964ad2799c304871abb0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-02868f671e7964ad2799c304871abb0f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-02868f671e7964ad2799c304871abb0f]: Textual amendment: Regulations revoked (6.4.2015) by [The Assured Tenancies and Agricultural Occupancies (Forms) (England) Regulations 2015 (S.I. 2015/620)](https://www.legislation.gov.uk/uksi/2015/620), [regs. 1](https://www.legislation.gov.uk/uksi/2015/620/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/620/regulation/4/2) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2015/620/regulation/4/3))
+[^c-02868f671e7964ad2799c304871abb0f]: Textual amendment: Regulations revoked (6.4.2015) by [The Assured Tenancies and Agricultural Occupancies (Forms) (England) Regulations 2015 (S.I. 2015/620)](https://www.legislation.gov.uk/uksi/2015/620), [regs. 1](https://www.legislation.gov.uk/uksi/2015/620/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2015/620/regulation/4/2) (with [reg. 4(3)](https://www.legislation.gov.uk/uksi/2015/620/regulation/4/3))

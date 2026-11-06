@@ -58,9 +58,9 @@ summary: ''
   - (ii) is about the architecture of a telecommunication system, and
   - (iii) is not about a specific person,
 
-but (subject to subsection (5A))[^key-66ab797b07fd0a37c059af9ac0b2d306] does not include any content of a communication or anything which, in the absence of subsection (6)(b), would be content of a communication.
+but (subject to subsection (5A))[^c-66ab797b07fd0a37c059af9ac0b2d306] does not include any content of a communication or anything which, in the absence of subsection (6)(b), would be content of a communication.
 
-(5A)[^key-0a6e59bed1475a012532a65f386cc705] In subsection (5) the words after paragraph (c) do not apply to relevant subscriber data.
+(5A)[^c-0a6e59bed1475a012532a65f386cc705] In subsection (5) the words after paragraph (c) do not apply to relevant subscriber data.
 
 (5B) In subsection (5A) “**relevant subscriber data**” means entity data, other than data comprised in a recording of speech, which—
 
@@ -87,10 +87,10 @@ but (subject to subsection (5A))[^key-66ab797b07fd0a37c059af9ac0b2d306] does not
 
 (10) “**Telecommunications operator**” means a person who—
 
-- (a) offers or provides a telecommunications service to persons in the United Kingdom, [^key-ccbdade4c7e58bbde68e9f5c0097a07b]...
+- (a) offers or provides a telecommunications service to persons in the United Kingdom, [^c-ccbdade4c7e58bbde68e9f5c0097a07b]...
 - (b) controls or provides a telecommunication system which is (wholly or partly)—
   - (i) in the United Kingdom, or
-  - (ii) controlled from the United Kingdom, or[^key-ed436ff12745be806ac38257e9084246]
+  - (ii) controlled from the United Kingdom, or[^c-ed436ff12745be806ac38257e9084246]
 - (c) controls or provides a telecommunication system which—
   - (i) is not (wholly or partly) in, or controlled from, the United Kingdom, and
   - (ii) is used by another person to offer or provide a telecommunications service to persons in the United Kingdom.
@@ -109,10 +109,10 @@ but (subject to subsection (5A))[^key-66ab797b07fd0a37c059af9ac0b2d306] does not
 
 ## Annotations
 
-[^key-66ab797b07fd0a37c059af9ac0b2d306]: Textual amendment: Words in [s. 261(5)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/5) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/13/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/m)
+[^c-66ab797b07fd0a37c059af9ac0b2d306]: Textual amendment: Words in [s. 261(5)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/5) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/13/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/m)
 
-[^key-0a6e59bed1475a012532a65f386cc705]: Textual amendment: [S. 261(5A)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/5A)[(5B)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/5B) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/13/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/m)
+[^c-0a6e59bed1475a012532a65f386cc705]: Textual amendment: [S. 261(5A)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/5A)[(5B)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/5B) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/13/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/m)
 
-[^key-ccbdade4c7e58bbde68e9f5c0097a07b]: Textual amendment: Word in [s. 261(10)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/10) omitted (14.10.2024) by virtue of [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/19/2/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/r)
+[^c-ccbdade4c7e58bbde68e9f5c0097a07b]: Textual amendment: Word in [s. 261(10)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/10) omitted (14.10.2024) by virtue of [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2024/9/section/19/2/a), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/r)
 
-[^key-ed436ff12745be806ac38257e9084246]: Textual amendment: [S. 261(10)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/10/c) and word inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/19/2/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/r)
+[^c-ed436ff12745be806ac38257e9084246]: Textual amendment: [S. 261(10)(c)](https://www.legislation.gov.uk/ukpga/2016/25/section/261/10/c) and word inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2024/9/section/19/2/b), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/r)

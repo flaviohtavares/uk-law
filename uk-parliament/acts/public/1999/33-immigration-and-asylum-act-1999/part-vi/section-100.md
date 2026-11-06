@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies if the Secretary of State asks—
 
 - (a) a local authority,
-- (aa)[^key-0d61645a5e7e5ab814fd54b50b4ed2f7] a private registered provider of social housing,
+- (aa)[^c-0d61645a5e7e5ab814fd54b50b4ed2f7] a private registered provider of social housing,
 - (b) a registered social landlord,
 - (c) a registered housing association in Scotland or Northern Ireland, or
 - (d) the Executive,
@@ -32,7 +32,7 @@ to assist him to exercise his power under section 95 to provide accommodation.
 
 (2) The person to whom the request is made must co-operate in giving the Secretary of State such assistance in the exercise of that power as is reasonable in the circumstances.
 
-(3) Subsection (2) does not require a private registered provider of social housing or[^key-e5d9d9937e3337dd6d7ca37984229382] a registered social landlord to act beyond its powers.
+(3) Subsection (2) does not require a private registered provider of social housing or[^c-e5d9d9937e3337dd6d7ca37984229382] a registered social landlord to act beyond its powers.
 
 (4) A local authority must supply to the Secretary of State such information about their housing accommodation (whether or not occupied) as he may from time to time request.
 
@@ -47,9 +47,9 @@ to assist him to exercise his power under section 95 to provide accommodation.
 
 ## Annotations
 
-[^key-0d61645a5e7e5ab814fd54b50b4ed2f7]: Textual amendment: [S. 100(1)(aa)](https://www.legislation.gov.uk/ukpga/1999/33/section/100/1/aa) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 118(2)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/118/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-0d61645a5e7e5ab814fd54b50b4ed2f7]: Textual amendment: [S. 100(1)(aa)](https://www.legislation.gov.uk/ukpga/1999/33/section/100/1/aa) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 118(2)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/118/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
-[^key-e5d9d9937e3337dd6d7ca37984229382]: Textual amendment: Words in [s. 100(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/100/3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 118(3)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/118/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
+[^c-e5d9d9937e3337dd6d7ca37984229382]: Textual amendment: Words in [s. 100(3)](https://www.legislation.gov.uk/ukpga/1999/33/section/100/3) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2), [Sch. 2 para. 118(3)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/118/3) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/866/article/6), [Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/schedule/3))
 
 [^c11433921]: Marginal citation: [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52).
 

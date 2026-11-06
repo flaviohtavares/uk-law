@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Sections 63 and 64: supplementary[^key-b445f88b8ad4e32e5bb87946d17ccaf3][^key-97eeeaac101564454c19e0d18255919b]
+## 65. Sections 63 and 64: supplementary[^c-b445f88b8ad4e32e5bb87946d17ccaf3][^c-97eeeaac101564454c19e0d18255919b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ as if he had been acquitted of the offence.
 
 ## Annotations
 
-[^key-b445f88b8ad4e32e5bb87946d17ccaf3]: Commencement: S. 65 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b445f88b8ad4e32e5bb87946d17ccaf3]: Commencement: S. 65 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-97eeeaac101564454c19e0d18255919b]: Commencement: S. 65 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-97eeeaac101564454c19e0d18255919b]: Commencement: S. 65 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

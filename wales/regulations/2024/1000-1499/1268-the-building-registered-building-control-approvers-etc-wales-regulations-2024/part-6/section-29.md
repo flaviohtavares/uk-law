@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Effect of public body’s plans certificate[^key-e5fb13fbf8ddc43e16b271580e48a693]
+## 29. Effect of public body’s plans certificate[^c-e5fb13fbf8ddc43e16b271580e48a693]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ If a public body’s notice ceases to be in force and the conditions in paragrap
 
 ## Annotations
 
-[^key-e5fb13fbf8ddc43e16b271580e48a693]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2024/1268/regulation/29) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-e5fb13fbf8ddc43e16b271580e48a693]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2024/1268/regulation/29) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

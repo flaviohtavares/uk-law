@@ -31,7 +31,7 @@ summary: ''
 
 Council Tax, Wales
 
-The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2023 (revoked)[^key-deead5901f0f790d33f1dd5c842c71f8]
+The Council Tax (Additional Provisions for Discount Disregards) (Amendment) (Wales) Regulations 2023 (revoked)[^c-deead5901f0f790d33f1dd5c842c71f8]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 April 2023
 
-[^key-deead5901f0f790d33f1dd5c842c71f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deead5901f0f790d33f1dd5c842c71f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-deead5901f0f790d33f1dd5c842c71f8]
+## 1. Title, commencement and application[^c-deead5901f0f790d33f1dd5c842c71f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^key-deead5901f0f790d33f1dd5c842c71f8]
+## 2. Amendment to the Council Tax (Additional Provisions for Discount Disregards) Regulations 1992[^c-deead5901f0f790d33f1dd5c842c71f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-deead5901f0f790d33f1dd5c842c71f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deead5901f0f790d33f1dd5c842c71f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-deead5901f0f790d33f1dd5c842c71f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-deead5901f0f790d33f1dd5c842c71f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-deead5901f0f790d33f1dd5c842c71f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2023/154) revoked (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 16(l)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/16/l)
+[^c-deead5901f0f790d33f1dd5c842c71f8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2023/154) revoked (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 16(l)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/16/l)

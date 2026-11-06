@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Prohibition of the carriage of certain mixed loads[^key-75d4f6995acea2dfd9086de93fb25888]
+## 18. Prohibition of the carriage of certain mixed loads[^c-75d4f6995acea2dfd9086de93fb25888]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75d4f6995acea2dfd9086de93fb25888]: Commencement: Reg. 18 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-75d4f6995acea2dfd9086de93fb25888]: Commencement: Reg. 18 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

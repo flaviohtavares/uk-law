@@ -25,7 +25,7 @@ summary: ''
 - (a) to attend its proceedings for the purpose of giving evidence, or
 - (b) to produce documents in his custody or under his control,
 
-concerning any subject for which any member of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62] has general responsibility.
+concerning any subject for which any member of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62] has general responsibility.
 
 (2) Subject to subsection (3), the Parliament may impose such a requirement on a person outside Scotland only in connection with the discharge by him of—
 
@@ -66,7 +66,7 @@ unless the exercise concerns a subject for which any member of the Scottish Gove
 
 [^c12394111]: Commencement: S. 23 wholly in force; s. 23 not in force at Royal Assent see s. 130; s. 23 in force for certain purposes at 6.5.1999 and for all remaining purposes at 1.7.1999 by [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [arts. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2), [3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
 
 [^c12394121]: Modification: S. 23(2)(b) extended (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 35(1)(a)](https://www.legislation.gov.uk/ukpga/1999/28/section/35/1/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 

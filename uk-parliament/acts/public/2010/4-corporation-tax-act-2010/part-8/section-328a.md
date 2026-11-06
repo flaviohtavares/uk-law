@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 328A. Adjustment of pool to remove pre-2013 losses after the initial 6 periods[^key-451e580b5c8b5b63e8ea0f6850546115]
+## 328A. Adjustment of pool to remove pre-2013 losses after the initial 6 periods[^c-451e580b5c8b5b63e8ea0f6850546115]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,13 +56,13 @@ summary: ''
 
 (11) Once a reduction in the pool has been made under this section—
 
-- (a) no account is to be taken of a loss in determining under section 327(4) the relevant amount for a post-commencement period[^key-b61caa888eaa9311cd090e3dbd4ec18d] if and to the extent that the loss is represented by the reduction made under this section, and
-- (b) if and to the extent that losses are represented by the reduction they are to be used under section 45 to reduce any profits of a post-commencement period before any such profits are reduced by the use under section 45, 45B, 303B, 303C and 303D of ring fence losses that are not represented by the reduction[^key-079eb2e63e2cea7254760b279a33a0c3].
+- (a) no account is to be taken of a loss in determining under section 327(4) the relevant amount for a post-commencement period[^c-b61caa888eaa9311cd090e3dbd4ec18d] if and to the extent that the loss is represented by the reduction made under this section, and
+- (b) if and to the extent that losses are represented by the reduction they are to be used under section 45 to reduce any profits of a post-commencement period before any such profits are reduced by the use under section 45, 45B, 303B, 303C and 303D of ring fence losses that are not represented by the reduction[^c-079eb2e63e2cea7254760b279a33a0c3].
 
 ## Annotations
 
-[^key-451e580b5c8b5b63e8ea0f6850546115]: Textual amendment: S. 328A inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/10)
+[^c-451e580b5c8b5b63e8ea0f6850546115]: Textual amendment: S. 328A inserted (with effect in accordance with Sch. 11 para. 14 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2015/11/schedule/11/paragraph/10)
 
-[^key-b61caa888eaa9311cd090e3dbd4ec18d]: Textual amendment: Words in s. 328A(11)(a) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 55(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/55/a)
+[^c-b61caa888eaa9311cd090e3dbd4ec18d]: Textual amendment: Words in s. 328A(11)(a) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 55(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/55/a)
 
-[^key-079eb2e63e2cea7254760b279a33a0c3]: Textual amendment: Words in s. 328A(11)(b) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 55(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/55/b)
+[^c-079eb2e63e2cea7254760b279a33a0c3]: Textual amendment: Words in s. 328A(11)(b) substituted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 55(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/55/b)

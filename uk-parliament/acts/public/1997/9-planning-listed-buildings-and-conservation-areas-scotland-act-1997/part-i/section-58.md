@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Proceedings for questioning validity of other orders, decisions and directions.[^key-ca11b8cf40ab88645882fbe80cb94673]
+## 58. Proceedings for questioning validity of other orders, decisions and directions.[^c-ca11b8cf40ab88645882fbe80cb94673]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ he may make an application to the Court of Session under this section.
 
 ## Annotations
 
-[^key-ca11b8cf40ab88645882fbe80cb94673]: Modification: [Ss. 56-58](https://www.legislation.gov.uk/ukpga/1997/9/section/56) applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
+[^c-ca11b8cf40ab88645882fbe80cb94673]: Modification: [Ss. 56-58](https://www.legislation.gov.uk/ukpga/1997/9/section/56) applied (with modifications) (1.10.2015) by [The Planning (Listed Building Consent and Conservation Area Consent Procedure) (Scotland) Regulations 2015 (S.S.I. 2015/243)](https://www.legislation.gov.uk/ssi/2015/243), [regs. 1](https://www.legislation.gov.uk/ssi/2015/243/regulation/1), [15](https://www.legislation.gov.uk/ssi/2015/243/regulation/15), [sch. 3](https://www.legislation.gov.uk/ssi/2015/243/schedule/3) (with [reg. 2](https://www.legislation.gov.uk/ssi/2015/243/regulation/2))
 
 [^c262044]: Marginal citation: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).

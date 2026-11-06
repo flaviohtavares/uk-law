@@ -24,22 +24,22 @@ summary: ''
 
 Section 47
 
-### 1. Parliamentary Commissioner Act 1967[^key-8f4ce344d0abae0a73bb7abc4df86054]
+### 1. Parliamentary Commissioner Act 1967[^c-8f4ce344d0abae0a73bb7abc4df86054]
 
 In Schedule 4 to the Parliamentary Commissioner Act 1967 (relevant tribunals), in the entry relating to rent assessment committees, omit “and also known as leasehold valuation tribunals for the purpose of determinations pursuant to section 21(1), (2) and (3) of the Leasehold Reform Act 1967”.
 
-### 2. Leasehold Reform Act 1979[^key-dcee09e7fac8d738ccefcbebb1d847bc]
+### 2. Leasehold Reform Act 1979[^c-dcee09e7fac8d738ccefcbebb1d847bc]
 
 In section 1 of the Leasehold Reform Act 1979 (price of enfranchisement under the LRA 1967 not to be made less favourable by reference to superior interest), in subsection (1), after “the price payable on a conveyance for giving effect to that section” insert “, in a case where the price payable is determined under section 9(1) of that Act by virtue of section 7A of that Act,”.
 
-### 3. Local Government Act 1985[^key-f256fa0e34eb97d5da63938e1c7698dc]
+### 3. Local Government Act 1985[^c-f256fa0e34eb97d5da63938e1c7698dc]
 
 In Schedule 13 to the Local Government Act 1985 (residuary bodies)—
 
 - (a) in paragraph 14(aa), at the end insert “, where it applies by virtue of section 7A or 32(5) of that Act”;
 - (b) omit paragraph 17.
 
-### 4. Housing Act 1985[^key-733068dba66c66e698e9a3b7b9200222]
+### 4. Housing Act 1985[^c-733068dba66c66e698e9a3b7b9200222]
 
 In the Housing Act 1985—
 
@@ -79,7 +79,7 @@ In the Housing Act 1985—
     ;
 - (b) omit section 175 (determination of price payable on enfranchisement under LRA 1967 where tenancy created under right to buy).
 
-### 5. Landlord and Tenant Act 1985[^key-40e8ce1df455391cae475754fef103ed]
+### 5. Landlord and Tenant Act 1985[^c-40e8ce1df455391cae475754fef103ed]
 
 In section 26 of the LTA 1985 (exception to service charge restrictions for public authority tenants)—
 
@@ -107,7 +107,7 @@ In section 26 of the LTA 1985 (exception to service charge restrictions for publ
   >
   > (7) A statutory instrument containing regulations under this section is subject to the negative procedure.
 
-### 6. Housing and Planning Act 1986[^key-e3df8b1c0d783295cadb8613feafc728]
+### 6. Housing and Planning Act 1986[^c-e3df8b1c0d783295cadb8613feafc728]
 
 In Schedule 4 to the Housing and Planning Act 1986 (shared ownership leases), in paragraph 11 (transitional provisions and savings)—
 
@@ -118,14 +118,14 @@ In Schedule 4 to the Housing and Planning Act 1986 (shared ownership leases), in
   >
   > (2) In those cases, this Schedule does not affect the operation of section 140 of the Housing Act 1980, the enactments applying that section or regulations made under it.
 
-### 7. Housing Act 1988[^key-aa8868eb733fd122d9c694002c56ff71]
+### 7. Housing Act 1988[^c-aa8868eb733fd122d9c694002c56ff71]
 
 In Schedule 17 to the Housing Act 1988 (minor and consequential amendments)—
 
 - (a) omit paragraph 40;
 - (b) omit paragraph 68.
 
-### 8. Local Government and Housing Act 1989[^key-d163e47ecc1e7b8f0d18fd08aa85a383]
+### 8. Local Government and Housing Act 1989[^c-d163e47ecc1e7b8f0d18fd08aa85a383]
 
 In paragraph 5 of Schedule 10 to the Local Government and Housing Act 1989 (security of tenure for long residential leases)—
 
@@ -163,14 +163,14 @@ In paragraph 5 of Schedule 10 to the Local Government and Housing Act 1989 (secu
   >   - (i) the development or redevelopment of an area defined by a development plan under the Planning and Compulsory Purchase Act 2004 as an area of comprehensive development;
   >   - (ii) the treatment as a whole, by development, redevelopment or improvement, or partly by one and partly by another method, of any area in which the premises are situated.
 
-### 9. Local Government (Wales) Act 1994[^key-587c27c2ea69689243b37a7f143acf12]
+### 9. Local Government (Wales) Act 1994[^c-587c27c2ea69689243b37a7f143acf12]
 
 In Schedule 13 to the Local Government (Wales) Act 1994, in paragraph 24—
 
 - (a) omit paragraph (b);
 - (b) in paragraph (c), at the end insert “, where it applies by virtue of section 7A or 32(5) of that Act”.
 
-### 10. Housing Act 1996[^key-bda3fbdb9d92faa8f32c20e3c33b60bb]
+### 10. Housing Act 1996[^c-bda3fbdb9d92faa8f32c20e3c33b60bb]
 
 In the Housing Act 1996—
 
@@ -183,7 +183,7 @@ In the Housing Act 1996—
   - (i) in paragraph 2, omit sub-paragraph (2);
   - (ii) in paragraph 3, omit sub-paragraph (2).
 
-### 11. Commonhold and Leasehold Reform Act 2002[^key-62086c354f3431ec50e7fc3aa0596006]
+### 11. Commonhold and Leasehold Reform Act 2002[^c-62086c354f3431ec50e7fc3aa0596006]
 
 In the CLRA 2002—
 
@@ -197,7 +197,7 @@ In the CLRA 2002—
 - (h) omit section 136 (lease extension for flats: disregard of marriage value for very long leases);
 - (i) in Schedule 13 (leasehold valuation tribunals), omit paragraph 15.
 
-### 12. Finance Act 2003[^key-63799ab7b2c4015ce5117618ae683057]
+### 12. Finance Act 2003[^c-63799ab7b2c4015ce5117618ae683057]
 
 In the Finance Act 2003—
 
@@ -217,7 +217,7 @@ In the Finance Act 2003—
 
   .
 
-### 13. Companies Act 2006[^key-4d546fce146388ff89247aab837c1d65]
+### 13. Companies Act 2006[^c-4d546fce146388ff89247aab837c1d65]
 
 In section 1181 of the Companies Act 2006 (access to constitutional documents of RTE and RTM companies)—
 
@@ -225,30 +225,30 @@ In section 1181 of the Companies Act 2006 (access to constitutional documents of
 - (b) in subsection (1), omit paragraph (a);
 - (c) in subsection (4), omit the definition of “RTE companies”.
 
-### 14. Enterprise and Regulatory Reform Act 2013[^key-5ad0940d7ec1b88909537cff6c7544c3]
+### 14. Enterprise and Regulatory Reform Act 2013[^c-5ad0940d7ec1b88909537cff6c7544c3]
 
 In section 84 of the Enterprise and Regulatory Reform Act 2013 (redress schemes: property management work), in subsection (10), omit the words from “or which” to the end.
 
-### 15. Immigration Act 2014[^key-910427951109d4b22b895a8d0f7d36d2]
+### 15. Immigration Act 2014[^c-910427951109d4b22b895a8d0f7d36d2]
 
 In Schedule 3 to the Immigration Act 2014 (excluded residential tenancy agreements), in paragraph 13(2)(a), omit the words from “or which” to the end.
 
-### 16. Consumer Rights Act 2015[^key-b936c6b028cb84780cad7ba9fd3fb1ab]
+### 16. Consumer Rights Act 2015[^c-b936c6b028cb84780cad7ba9fd3fb1ab]
 
 In section 88 of the Consumer Rights Act 2015 (duty of letting agents to publicise fees: supplementary provisions), in subsection (1), in the definition of “long lease”, omit paragraph (a)(ii) and the “or” preceding it.
 
-### 17. Housing and Planning Act 2016[^key-1052e3b6e4bdf33811d3ce7284bf2d41]
+### 17. Housing and Planning Act 2016[^c-1052e3b6e4bdf33811d3ce7284bf2d41]
 
 In Schedule 10 to the Housing and Planning Act 2016 (leasehold enfranchisement and extension: calculations)—
 
 - (a) omit paragraph 4;
 - (b) omit paragraph 5.
 
-### 18. Tenant Fees Act 2019[^key-bb29d1b65184c42b9516b8a6d4881c8f]
+### 18. Tenant Fees Act 2019[^c-bb29d1b65184c42b9516b8a6d4881c8f]
 
 In section 28 of the Tenant Fees Act 2019 (interpretation), in subsection (1), in the definition of “long lease”, omit paragraph (b) and the “or” preceding it.
 
-### 19. Building Safety Act 2022[^key-f71c4825b5e713f4e238849761a2be5c]
+### 19. Building Safety Act 2022[^c-f71c4825b5e713f4e238849761a2be5c]
 
 In Schedule 8 to the BSA 2022 (remediation costs), in paragraph 6 (permitted maximum)—
 
@@ -259,40 +259,40 @@ In Schedule 8 to the BSA 2022 (remediation costs), in paragraph 6 (permitted max
 
 ## Annotations
 
-[^key-8f4ce344d0abae0a73bb7abc4df86054]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-8f4ce344d0abae0a73bb7abc4df86054]: Commencement: Sch. 9 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-dcee09e7fac8d738ccefcbebb1d847bc]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-dcee09e7fac8d738ccefcbebb1d847bc]: Commencement: Sch. 9 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-f256fa0e34eb97d5da63938e1c7698dc]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f256fa0e34eb97d5da63938e1c7698dc]: Commencement: Sch. 9 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-733068dba66c66e698e9a3b7b9200222]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-733068dba66c66e698e9a3b7b9200222]: Commencement: Sch. 9 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-40e8ce1df455391cae475754fef103ed]: Commencement: Sch. 9 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-40e8ce1df455391cae475754fef103ed]: Commencement: Sch. 9 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-e3df8b1c0d783295cadb8613feafc728]: Commencement: Sch. 9 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-e3df8b1c0d783295cadb8613feafc728]: Commencement: Sch. 9 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-aa8868eb733fd122d9c694002c56ff71]: Commencement: Sch. 9 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-aa8868eb733fd122d9c694002c56ff71]: Commencement: Sch. 9 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-d163e47ecc1e7b8f0d18fd08aa85a383]: Commencement: Sch. 9 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d163e47ecc1e7b8f0d18fd08aa85a383]: Commencement: Sch. 9 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-587c27c2ea69689243b37a7f143acf12]: Commencement: Sch. 9 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-587c27c2ea69689243b37a7f143acf12]: Commencement: Sch. 9 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-bda3fbdb9d92faa8f32c20e3c33b60bb]: Commencement: Sch. 9 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-bda3fbdb9d92faa8f32c20e3c33b60bb]: Commencement: Sch. 9 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-62086c354f3431ec50e7fc3aa0596006]: Commencement: Sch. 9 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-62086c354f3431ec50e7fc3aa0596006]: Commencement: Sch. 9 para. 11 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-63799ab7b2c4015ce5117618ae683057]: Commencement: Sch. 9 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-63799ab7b2c4015ce5117618ae683057]: Commencement: Sch. 9 para. 12 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-4d546fce146388ff89247aab837c1d65]: Commencement: Sch. 9 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4d546fce146388ff89247aab837c1d65]: Commencement: Sch. 9 para. 13 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-5ad0940d7ec1b88909537cff6c7544c3]: Commencement: Sch. 9 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-5ad0940d7ec1b88909537cff6c7544c3]: Commencement: Sch. 9 para. 14 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-910427951109d4b22b895a8d0f7d36d2]: Commencement: Sch. 9 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-910427951109d4b22b895a8d0f7d36d2]: Commencement: Sch. 9 para. 15 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-b936c6b028cb84780cad7ba9fd3fb1ab]: Commencement: Sch. 9 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-b936c6b028cb84780cad7ba9fd3fb1ab]: Commencement: Sch. 9 para. 16 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-1052e3b6e4bdf33811d3ce7284bf2d41]: Commencement: Sch. 9 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-1052e3b6e4bdf33811d3ce7284bf2d41]: Commencement: Sch. 9 para. 17 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-bb29d1b65184c42b9516b8a6d4881c8f]: Commencement: Sch. 9 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-bb29d1b65184c42b9516b8a6d4881c8f]: Commencement: Sch. 9 para. 18 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-f71c4825b5e713f4e238849761a2be5c]: Commencement: Sch. 9 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f71c4825b5e713f4e238849761a2be5c]: Commencement: Sch. 9 para. 19 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

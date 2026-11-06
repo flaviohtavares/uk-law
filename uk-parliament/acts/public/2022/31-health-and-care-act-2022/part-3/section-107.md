@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Transfer schemes: taxation[^key-cdb58d677533594ff34766adce00cf68][^key-ab3cd7a6031f7d765f43a51e019740e9]
+## 107. Transfer schemes: taxation[^c-cdb58d677533594ff34766adce00cf68][^c-ab3cd7a6031f7d765f43a51e019740e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cdb58d677533594ff34766adce00cf68]: Commencement: S. 107 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-cdb58d677533594ff34766adce00cf68]: Commencement: S. 107 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-ab3cd7a6031f7d765f43a51e019740e9]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2022/31/section/107) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-ab3cd7a6031f7d765f43a51e019740e9]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2022/31/section/107) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Joint working[^key-6241bd73ca586b886ec26ae83527ddc8]
+## 25. Joint working[^c-6241bd73ca586b886ec26ae83527ddc8]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) a review under section 72B of the Care Standards Act 2000 (c.14) by the Children's Commissioner for Wales;
 - (b) a review under section 3 of the Commissioner for Older People (Wales) Act 2006 (c.30) by the Commissioner for Older People in Wales;
 - (c) an inquiry under section 7 of the Welsh Language (Wales) Measure 2011 (nawm 1) by the Welsh Language Commissioner.
-- (d)[^key-d7e8c1fd794fcc46ba770b6e65feeaf3] an investigation under the Public Services Ombudsman (Wales) Act 2019 (anaw 3) by the Public Services Ombudsman for Wales (and references in this section to the other Commissioner or the Commissioners include the Ombudsman).
+- (d)[^c-d7e8c1fd794fcc46ba770b6e65feeaf3] an investigation under the Public Services Ombudsman (Wales) Act 2019 (anaw 3) by the Public Services Ombudsman for Wales (and references in this section to the other Commissioner or the Commissioners include the Ombudsman).
 
 (2) The Commissioner may—
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6241bd73ca586b886ec26ae83527ddc8]: Commencement: S. 25 in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)
+[^c-6241bd73ca586b886ec26ae83527ddc8]: Commencement: S. 25 in force at 1.2.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 2](https://www.legislation.gov.uk/wsi/2016/86/article/2)
 
-[^key-d7e8c1fd794fcc46ba770b6e65feeaf3]: Textual amendment: S. 25(1)(d) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/5); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-d7e8c1fd794fcc46ba770b6e65feeaf3]: Textual amendment: S. 25(1)(d) inserted (23.7.2019) by [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3), [s. 77(1)](https://www.legislation.gov.uk/anaw/2019/3/section/77/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/anaw/2019/3/schedule/5/paragraph/5); [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

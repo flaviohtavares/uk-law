@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16.[^key-37bf9efd0a13c948694007be37bf0bf0]
+## 16.[^c-37bf9efd0a13c948694007be37bf0bf0]
 
 *Extent: E+W+S*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-37bf9efd0a13c948694007be37bf0bf0]: Commencement: Reg. 16 in force at 26.3.2019, see reg. 1(2)
+[^c-37bf9efd0a13c948694007be37bf0bf0]: Commencement: Reg. 16 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620701]: Marginal citation: Section 99ZA was inserted by [S.I. 2005/1904](https://www.legislation.gov.uk/uksi/2005/1904) and amended by [S.I. 2016/248](https://www.legislation.gov.uk/uksi/2016/248).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Responsible licensing authority’s response to suspension of licence[^key-43e6559ed4ff3bbcd498b66ac4d34c99]
+## 80. Responsible licensing authority’s response to suspension of licence[^c-43e6559ed4ff3bbcd498b66ac4d34c99]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43e6559ed4ff3bbcd498b66ac4d34c99]: Commencement: S. 80 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-43e6559ed4ff3bbcd498b66ac4d34c99]: Commencement: S. 80 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

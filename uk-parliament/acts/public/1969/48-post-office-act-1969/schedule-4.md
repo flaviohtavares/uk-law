@@ -56,7 +56,7 @@ Sections 76, 88, 139.
 
 #### Adaptations of other Enactments
 
-**14.**[^key-f522f1f38935a57147e89ca4f1184de2][^c11860821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-f522f1f38935a57147e89ca4f1184de2][^c11860821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11860861]
 
@@ -76,11 +76,11 @@ Sections 76, 88, 139.
 
 **26.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11860971]
 
-**27.**[^key-3f86fa965d61214795975b9fa5f4fb64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-3f86fa965d61214795975b9fa5f4fb64] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **28, 29.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11861011]
 
-**30.**[^key-fe57db010ac93e66bcb560de139d7f18][^c11861021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-fe57db010ac93e66bcb560de139d7f18][^c11861021] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **31.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11861041]
 
@@ -162,7 +162,7 @@ Sections 76, 88, 139.
 
 **69.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11861641]
 
-**70.**[^key-0e9b49b6e1433e9de49903ae42f16791][^c11861651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**70.**[^c-0e9b49b6e1433e9de49903ae42f16791][^c11861651] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **71.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11861671]
 
@@ -208,7 +208,7 @@ Sections 76, 88, 139.
 
 **92.**[^c11862111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**93.** (1) A universal service provider[^c11864051] [^key-efd99b4100639426e97be0879b7c4799]... in connection with the provision of a universal postal service [^key-794d7c9b49724ed93b56ea6ae80abbc5]... shall be deemed to be a statutory undertaker[^c11864061] and his undertaking so far as relating to the provision of a universal postal service[^c11864071] a statutory undertaking for the purposes of the following enactments, namely,—
+**93.** (1) A universal service provider[^c11864051] [^c-efd99b4100639426e97be0879b7c4799]... in connection with the provision of a universal postal service [^c-794d7c9b49724ed93b56ea6ae80abbc5]... shall be deemed to be a statutory undertaker[^c11864061] and his undertaking so far as relating to the provision of a universal postal service[^c11864071] a statutory undertaking for the purposes of the following enactments, namely,—
 
 - (i)–(iv) [^c11864081]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (v) the [^c11864091]Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947;
@@ -261,7 +261,7 @@ Sections 76, 88, 139.
 - (r)[^c11864551] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (s), (t)
 
-[^c11864561]“**the appropriate Minister**” shall, in relation to a universal service provider[^c11864571] [^key-efd99b4100639426e97be0879b7c4799]... , mean the Minister.
+[^c11864561]“**the appropriate Minister**” shall, in relation to a universal service provider[^c11864571] [^c-efd99b4100639426e97be0879b7c4799]... , mean the Minister.
 
 (3)[^c11864581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -279,14 +279,14 @@ Sections 76, 88, 139.
   - (j) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11864691]
   - (k)[^c11864701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-  “**operational land**” shall, in relation to a universal service provider[^c11864711] [^key-efd99b4100639426e97be0879b7c4799]... , mean land of his[^c11864721] of any such class as may be specified in regulations made jointly by the Minister and the Minister of Housing and Local Government by statutory instrument (which shall be subject to annulment in pursuance of a resolution of either House of Parliament); and—
+  “**operational land**” shall, in relation to a universal service provider[^c11864711] [^c-efd99b4100639426e97be0879b7c4799]... , mean land of his[^c11864721] of any such class as may be specified in regulations made jointly by the Minister and the Minister of Housing and Local Government by statutory instrument (which shall be subject to annulment in pursuance of a resolution of either House of Parliament); and—
 
   - (i) the definition of a class of land for the purposes of regulations made under this sub-paragraph may be framed by reference to any circumstances whatsoever; and
   - (ii) if any question arises whether land of a universal service provider’s[^c11864731] falls within a class specified in regulations so made, it shall be determined by the Minister.
 
 In the application of this sub-paragraph to Scotland, for the reference to the Minister of Housing and Local Government there shall be substituted a reference to the Secretary of State.
 
-(4A)[^key-f5c00afac1e56812092c78c5c6efd717] In this paragraph “**universal service provider**” and “**universal postal service**” have the same meaning as in Part 3 of the Postal Services Act 2011.
+(4A)[^c-f5c00afac1e56812092c78c5c6efd717] In this paragraph “**universal service provider**” and “**universal postal service**” have the same meaning as in Part 3 of the Postal Services Act 2011.
 
 (5) This paragraph shall come into operation on the appointed day.
 
@@ -345,7 +345,7 @@ shall affect any powers of the authority under the enactments relating to telegr
 
 [^c11860781]: Textual amendment: [Sch. 4 paras. 12](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/12), [13](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/13) repealed by Electricity (Northern Ireland) Order 1972 and [S.I. 1972/1072 (N.I. 9)](https://www.legislation.gov.uk/nisi/1972/1072), [Sch. 7](https://www.legislation.gov.uk/nisi/1972/1072/schedule/7)
 
-[^key-f522f1f38935a57147e89ca4f1184de2]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/14) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
+[^c-f522f1f38935a57147e89ca4f1184de2]: Textual amendment: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/14) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
 
 [^c11860821]: Modification: The text of Sch. 4 paras. 2(8)(10)(15)(22), 14 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -367,11 +367,11 @@ shall affect any powers of the authority under the enactments relating to telegr
 
 [^c11860971]: Textual amendment: [Sch. 4 paras. 26](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/26), [28](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/28), [29](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/29) repealed by [Telecommunications Act 1984 (c. 12, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/12), [s. 109](https://www.legislation.gov.uk/ukpga/1984/12/section/109), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1984/12/schedule/7/part/I)
 
-[^key-3f86fa965d61214795975b9fa5f4fb64]: Textual amendment: Sch. 4 para. 27 repealed (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/3), [4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11)) and expressed to be repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-3f86fa965d61214795975b9fa5f4fb64]: Textual amendment: Sch. 4 para. 27 repealed (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/3), [4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11)) and expressed to be repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c11861011]: Textual amendment: [Sch. 4 paras. 26](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/26), [28](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/28), [29](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/29) repealed by [Telecommunications Act 1984 (c. 12, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/12), [s. 109](https://www.legislation.gov.uk/ukpga/1984/12/section/109), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1984/12/schedule/7/part/I)
 
-[^key-fe57db010ac93e66bcb560de139d7f18]: Textual amendment: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/30) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
+[^c-fe57db010ac93e66bcb560de139d7f18]: Textual amendment: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/30) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
 
 [^c11861021]: Modification: The text of Sch. 4 paras. 27, 30, 33, 54, 55, 56, 73, Sch. 5 para. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -469,7 +469,7 @@ shall affect any powers of the authority under the enactments relating to telegr
 
 [^c11861641]: Textual amendment: [Sch. 4 para. 69](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/69) repealed by [Highways Act 1980 (c. 66)](https://www.legislation.gov.uk/ukpga/1980/66), [Sch. 25](https://www.legislation.gov.uk/ukpga/1980/66/schedule/25)
 
-[^key-0e9b49b6e1433e9de49903ae42f16791]: Textual amendment: [Sch. 4 para. 70](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/70) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
+[^c-0e9b49b6e1433e9de49903ae42f16791]: Textual amendment: [Sch. 4 para. 70](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/70) repealed (12.11.2003) by [The Postal Services Act 2000 (Consequential Modifications) Order 2003 (S.I. 2003/2908)](https://www.legislation.gov.uk/uksi/2003/2908), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/2908/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2908/schedule/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2003/2908/article/4/3))
 
 [^c11861651]: Modification: The text of Sch. 4 paras. 27, 30, 33, 54, 55, 56, 73, Sch. 5 para. 3 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -529,9 +529,9 @@ shall affect any powers of the authority under the enactments relating to telegr
 
 [^c11864051]: Textual amendment: Words in Sch. 4 para. 93(1) substituted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 26(3)(a)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/26/3/a) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/3), [4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11))
 
-[^key-efd99b4100639426e97be0879b7c4799]: Textual amendment: Words in Sch. 4 para. 93 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 92(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/92/1); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-efd99b4100639426e97be0879b7c4799]: Textual amendment: Words in Sch. 4 para. 93 omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 92(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/92/1); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-794d7c9b49724ed93b56ea6ae80abbc5]: Textual amendment: Words in Sch. 4 para. 93(1) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 92(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/92/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-794d7c9b49724ed93b56ea6ae80abbc5]: Textual amendment: Words in Sch. 4 para. 93(1) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 92(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/92/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c11864061]: Textual amendment: Words in Sch. 4 para. 93(1) substituted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 26(3)(b)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/26/3/b) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/3), [4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11))
 
@@ -665,7 +665,7 @@ shall affect any powers of the authority under the enactments relating to telegr
 
 [^c11864731]: Textual amendment: Words in Sch. 4 para. 93(4) substituted (26.3.2001) by [S.I. 2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/1149/article/3/1), [Sch. 1 para. 26(5)(c)](https://www.legislation.gov.uk/uksi/2001/1149/schedule/1/paragraph/26/5/c) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/3), [4(11)](https://www.legislation.gov.uk/uksi/2001/1149/article/4/11))
 
-[^key-f5c00afac1e56812092c78c5c6efd717]: Textual amendment: Sch. 4 para. 93(4A) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 92(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/92/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f5c00afac1e56812092c78c5c6efd717]: Textual amendment: Sch. 4 para. 93(4A) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 92(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/92/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c11864741]: Textual amendment: [Sch. 4 para. 94](https://www.legislation.gov.uk/ukpga/1969/48/schedule/4/paragraph/94) repealed by [British Telecommunications Act 1981 (c. 38)](https://www.legislation.gov.uk/ukpga/1981/38), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1981/38/schedule/6/part/I)
 

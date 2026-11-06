@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248. Power to enter and inspect vehicles[^key-dd3c1ab861fdd751e9bda4906d484ede]
+## 248. Power to enter and inspect vehicles[^c-dd3c1ab861fdd751e9bda4906d484ede]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ to afford such facilities and assistance with respect to matters under that pers
 
 ## Annotations
 
-[^key-dd3c1ab861fdd751e9bda4906d484ede]: Commencement: S. 248 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)
+[^c-dd3c1ab861fdd751e9bda4906d484ede]: Commencement: S. 248 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 21](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/21)

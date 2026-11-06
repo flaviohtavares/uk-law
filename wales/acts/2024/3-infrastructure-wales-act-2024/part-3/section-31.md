@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Change in the person who proposes to apply for infrastructure consent[^key-8765bcdfa974e1b6516655ad05e16692][^key-d56db58fdac7d7891d909fa66535c539]
+## 31. Change in the person who proposes to apply for infrastructure consent[^c-8765bcdfa974e1b6516655ad05e16692][^c-d56db58fdac7d7891d909fa66535c539]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8765bcdfa974e1b6516655ad05e16692]: Commencement: S. 31 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-8765bcdfa974e1b6516655ad05e16692]: Commencement: S. 31 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-d56db58fdac7d7891d909fa66535c539]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2024/3/section/31) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)
+[^c-d56db58fdac7d7891d909fa66535c539]: Commencement: [S. 31](https://www.legislation.gov.uk/asc/2024/3/section/31) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(a)](https://www.legislation.gov.uk/wsi/2025/698/article/3/a)

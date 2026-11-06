@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 197. Service of court documents outside jurisdiction[^key-deb3cf9fd0a134417c378f844397157d]
+## 197. Service of court documents outside jurisdiction[^c-deb3cf9fd0a134417c378f844397157d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Order 65 of the Rules of the Court of Judicature applies to the service of court
 
 ## Annotations
 
-[^key-deb3cf9fd0a134417c378f844397157d]: Commencement: [Rule 197](https://www.legislation.gov.uk/nisr/2026/11/rule/197) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-deb3cf9fd0a134417c378f844397157d]: Commencement: [Rule 197](https://www.legislation.gov.uk/nisr/2026/11/rule/197) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

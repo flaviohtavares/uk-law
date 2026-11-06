@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Meaning of “entitlement day” (age retirement pension)[^key-0fcdf7ec31ff980c7779ab58bb8de374]
+## 82. Meaning of “entitlement day” (age retirement pension)[^c-0fcdf7ec31ff980c7779ab58bb8de374]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fcdf7ec31ff980c7779ab58bb8de374]: Commencement: [Reg. 82](https://www.legislation.gov.uk/ssi/2014/292/regulation/82) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-0fcdf7ec31ff980c7779ab58bb8de374]: Commencement: [Reg. 82](https://www.legislation.gov.uk/ssi/2014/292/regulation/82) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

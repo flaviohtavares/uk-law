@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) Any amendment, or purported amendment, of an access agreement shall be void unless the amendment has been approved by the Office of Rail and Road[^key-9a3b1ea00fab80838be03456810737f0] or is made pursuant to directions under section 22A or 22C below or Schedule 4A to this Act[^c14100231].
+(1) Any amendment, or purported amendment, of an access agreement shall be void unless the amendment has been approved by the Office of Rail and Road[^c-9a3b1ea00fab80838be03456810737f0] or is made pursuant to directions under section 22A or 22C below or Schedule 4A to this Act[^c14100231].
 
 (2) The Office of Rail and Road may, for the purposes of subsection (1) above, give the parties to any particular access agreement its[^c18782331] general approval to the making to that access agreement of amendments of a description specified in the approval; and any approval so given shall not be revoked.
 
@@ -32,7 +32,7 @@ summary: ''
 
 (6)[^c14100241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6A)[^c14100251] Neither the[^key-516331fad7544187746ee9f0583455c8] CMA nor the Office of Rail and Road may exercise, in respect of an access agreement, the powers given by section 32 (enforcement directions) or section 35(2) (interim directions) of the Competition Act 1998.
+(6A)[^c14100251] Neither the[^c-516331fad7544187746ee9f0583455c8] CMA nor the Office of Rail and Road may exercise, in respect of an access agreement, the powers given by section 32 (enforcement directions) or section 35(2) (interim directions) of the Competition Act 1998.
 
 (6B)[^c14100251] Subsection (6A) does not apply to the exercise of the powers given by section 35(2) in respect of conduct—
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9a3b1ea00fab80838be03456810737f0]: Textual amendment: Words in s. 22 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ee)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ee)
+[^c-9a3b1ea00fab80838be03456810737f0]: Textual amendment: Words in s. 22 substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(ee)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/ee)
 
 [^c14100231]: Textual amendment: Words in s. 22(1) inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 232(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/232/1); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c14100251]: Textual amendment: S. 22 (6A)(6B) inserted (1.3.2000) by [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41), [ss. 66(5)](https://www.legislation.gov.uk/ukpga/1998/41/section/66/5), [Sch. 10 Pt. IV para. 15(5)](https://www.legislation.gov.uk/ukpga/1998/41/schedule/10/part/IV/paragraph/15/5); [S.I. 2000/344](https://www.legislation.gov.uk/uksi/2000/344), [art. 2](https://www.legislation.gov.uk/uksi/2000/344/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/344/schedule)
 
-[^key-516331fad7544187746ee9f0583455c8]: Textual amendment: Words in s. 22(6A) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/104) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))
+[^c-516331fad7544187746ee9f0583455c8]: Textual amendment: Words in s. 22(6A) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 104](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/104) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3))

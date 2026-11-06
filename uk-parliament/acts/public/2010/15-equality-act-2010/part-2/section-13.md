@@ -33,14 +33,14 @@ summary: ''
 (6) If the protected characteristic is sex—
 
 - (a) less favourable treatment of a woman includes less favourable treatment of her because she is breast-feeding;
-- (b) in a case where B is a man, no account is to be taken of special treatment afforded to a woman in connection with pregnancy , childbirth or maternity[^key-bc72301264ecf363c77b966b2021e92a].
+- (b) in a case where B is a man, no account is to be taken of special treatment afforded to a woman in connection with pregnancy , childbirth or maternity[^c-bc72301264ecf363c77b966b2021e92a].
 
-(7)[^key-195117990fd58e9a21cb7cd5a15efadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-195117990fd58e9a21cb7cd5a15efadc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) This section is subject to sections 17(6) and 18(7).
 
 ## Annotations
 
-[^key-bc72301264ecf363c77b966b2021e92a]: Textual amendment: Words in [s. 13(6)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/13/6/b) substituted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/2/2/a)
+[^c-bc72301264ecf363c77b966b2021e92a]: Textual amendment: Words in [s. 13(6)(b)](https://www.legislation.gov.uk/ukpga/2010/15/section/13/6/b) substituted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/2/2/a)
 
-[^key-195117990fd58e9a21cb7cd5a15efadc]: Textual amendment: [S. 13(7)](https://www.legislation.gov.uk/ukpga/2010/15/section/13/7) omitted (1.1.2024) by virtue of [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/2/2/b)
+[^c-195117990fd58e9a21cb7cd5a15efadc]: Textual amendment: [S. 13(7)](https://www.legislation.gov.uk/ukpga/2010/15/section/13/7) omitted (1.1.2024) by virtue of [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/2/2/b)

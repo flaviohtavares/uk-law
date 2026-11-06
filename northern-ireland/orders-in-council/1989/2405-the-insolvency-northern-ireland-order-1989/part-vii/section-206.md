@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 206. Extortionate credit transactions[^key-45ff22a5dc3139992c20c9555fc7879a][^key-a2bf2f68007bbdce65c2dcc9f41f17cf][^key-a2bf2f68007bbdce65c2dcc9f41f17cf]
+## 206. Extortionate credit transactions[^c-45ff22a5dc3139992c20c9555fc7879a][^c-a2bf2f68007bbdce65c2dcc9f41f17cf][^c-a2bf2f68007bbdce65c2dcc9f41f17cf]
 
 *Extent: N.I.*
 
@@ -43,8 +43,8 @@ and it shall be presumed, unless the contrary is proved, that a transaction with
 
 ## Annotations
 
-[^key-45ff22a5dc3139992c20c9555fc7879a]: Modification: [Art. 206](https://www.legislation.gov.uk/nisi/1989/2405/article/206) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-45ff22a5dc3139992c20c9555fc7879a]: Modification: [Art. 206](https://www.legislation.gov.uk/nisi/1989/2405/article/206) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
-[^key-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-a2bf2f68007bbdce65c2dcc9f41f17cf]: Modification: [Pt. 7](https://www.legislation.gov.uk/nisi/1989/2405/part/7) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1A/paragraph/3) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
 [^c20131901]: Textual amendment: Words in [art. 206(2)](https://www.legislation.gov.uk/nisi/1989/2405/article/206/2) substituted (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [3(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/3/3), [Sch. 2 para. 39](https://www.legislation.gov.uk/nisi/2005/1455/schedule/2/paragraph/39) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2) - 7)

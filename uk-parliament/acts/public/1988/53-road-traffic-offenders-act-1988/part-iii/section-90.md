@@ -24,14 +24,14 @@ The expressions listed in the left hand column below are respectively defined or
 
 |  |  |
 | --- | --- |
-| The applicable Community rules[^key-9d71544865a9c0a1b787ccacc8b6652a] | Section 89(1) |
-| [^key-bbab166efaf2f50204ade66bd589d865]. . . | [^key-bbab166efaf2f50204ade66bd589d865]. . . |
-| Community drivers’ hours offence[^key-a921b2c8ef909e373734630ab13689e1] | Section 89(3) |
-| The Community Drivers’ Hours Regulation[^key-c81e4d559fa09e0203789ae39517e5f1] | Section 89(1) |
-| Contracting third country[^key-8256fcbd5641fd959813a09168eb06a1] | Section 89(1) |
-| Conditional offer | 75(5)[^key-4e52158bc765025ae464fd8fef6e61d2] |
+| The applicable Community rules[^c-9d71544865a9c0a1b787ccacc8b6652a] | Section 89(1) |
+| [^c-bbab166efaf2f50204ade66bd589d865]. . . | [^c-bbab166efaf2f50204ade66bd589d865]. . . |
+| Community drivers’ hours offence[^c-a921b2c8ef909e373734630ab13689e1] | Section 89(3) |
+| The Community Drivers’ Hours Regulation[^c-c81e4d559fa09e0203789ae39517e5f1] | Section 89(1) |
+| Contracting third country[^c-8256fcbd5641fd959813a09168eb06a1] | Section 89(1) |
+| Conditional offer | 75(5)[^c-4e52158bc765025ae464fd8fef6e61d2] |
 | Fixed penalty | Section 53 |
-| Fixed penalty clerk | Section 69(4) and[^c18165851] 75(6)[^key-db8b68741b94e881a2cb00df4f50dc12] |
+| Fixed penalty clerk | Section 69(4) and[^c18165851] 75(6)[^c-db8b68741b94e881a2cb00df4f50dc12] |
 | Fixed penalty notice | Section 52 |
 | Fixed penalty offence | Section 51 |
 | Notice to owner | Sections 63(2) and 66(4) |
@@ -50,18 +50,18 @@ The expressions listed in the left hand column below are respectively defined or
 
 ## Annotations
 
-[^key-9d71544865a9c0a1b787ccacc8b6652a]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) inserted (31.1.2018) by [The Community Drivers Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/24/regulation/6/2)
+[^c-9d71544865a9c0a1b787ccacc8b6652a]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) inserted (31.1.2018) by [The Community Drivers Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/24/regulation/6/2)
 
-[^key-bbab166efaf2f50204ade66bd589d865]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) Table omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 15(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/15/2); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-bbab166efaf2f50204ade66bd589d865]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) Table omitted (30.11.2022) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 10 para. 15(2)](https://www.legislation.gov.uk/ukpga/2022/32/schedule/10/paragraph/15/2); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
 
-[^key-a921b2c8ef909e373734630ab13689e1]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) inserted (31.1.2018) by [The Community Drivers Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/24/regulation/6/3)
+[^c-a921b2c8ef909e373734630ab13689e1]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) inserted (31.1.2018) by [The Community Drivers Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/24/regulation/6/3)
 
-[^key-c81e4d559fa09e0203789ae39517e5f1]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) inserted (31.1.2018) by [The Community Drivers Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/24/regulation/6/4)
+[^c-c81e4d559fa09e0203789ae39517e5f1]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) inserted (31.1.2018) by [The Community Drivers Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/24/regulation/6/4)
 
-[^key-8256fcbd5641fd959813a09168eb06a1]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) inserted (31.1.2018) by [The Community Drivers Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2018/24/regulation/6/5)
+[^c-8256fcbd5641fd959813a09168eb06a1]: Textual amendment: Words in [s. 90](https://www.legislation.gov.uk/ukpga/1988/53/section/90) inserted (31.1.2018) by [The Community Drivers Hours Offences (Enforcement) Regulations 2018 (S.I. 2018/24)](https://www.legislation.gov.uk/uksi/2018/24), [regs. 1](https://www.legislation.gov.uk/uksi/2018/24/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2018/24/regulation/6/5)
 
-[^key-4e52158bc765025ae464fd8fef6e61d2]: Textual amendment: Words in s. 90 substituted (8.11.2006) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 58(5)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/58/5/a), [61(9)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/9)
+[^c-4e52158bc765025ae464fd8fef6e61d2]: Textual amendment: Words in s. 90 substituted (8.11.2006) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 58(5)(a)](https://www.legislation.gov.uk/ukpga/2006/49/section/58/5/a), [61(9)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/9)
 
 [^c18165851]: Textual amendment: Words in s. 90 added (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 48](https://www.legislation.gov.uk/ukpga/1991/40/section/48), [Sch. 4 para. 108(b)](https://www.legislation.gov.uk/ukpga/1991/40/schedule/4/paragraph/108/b); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2),Sch.
 
-[^key-db8b68741b94e881a2cb00df4f50dc12]: Textual amendment: Words in s. 90 substituted (8.11.2006) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 58(5)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/58/5/b), [61(9)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/9)
+[^c-db8b68741b94e881a2cb00df4f50dc12]: Textual amendment: Words in s. 90 substituted (8.11.2006) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [ss. 58(5)(b)](https://www.legislation.gov.uk/ukpga/2006/49/section/58/5/b), [61(9)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/9)

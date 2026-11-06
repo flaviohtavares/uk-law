@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-349359f74fed3ce38981818e37063f45] When considering whether to make recommendations for changes to the electoral arrangements of a principal area, the Commission must have regard to the following factors—
+(1)[^c-349359f74fed3ce38981818e37063f45] When considering whether to make recommendations for changes to the electoral arrangements of a principal area, the Commission must have regard to the following factors—
 
 - (a) the desirability of having a ratio of local government electors to the number of members of the council to be elected that is the same, or nearly the same, in every electoral ward of the principal area;
 - (b) special geographical considerations, including in particular the size, shape and accessibility of an electoral ward;
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-349359f74fed3ce38981818e37063f45]: Textual amendment: S. 30(1) substituted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 40(2)](https://www.legislation.gov.uk/asc/2024/5/section/40/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))
+[^c-349359f74fed3ce38981818e37063f45]: Textual amendment: S. 30(1) substituted (9.11.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 40(2)](https://www.legislation.gov.uk/asc/2024/5/section/40/2), [72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a) (with [s. 55](https://www.legislation.gov.uk/asc/2024/5/section/55))

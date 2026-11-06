@@ -22,7 +22,7 @@ summary: ''
 
 (1) For every principal area in Wales there shall be a council consisting of a chairman and councillors.
 
-(1A)[^c15088871] Where a council falling within subsection (1) are operating executive arrangements which involve a mayor and cabinet executive [^key-f8d8537054f2177a75913ee490e5142d]..., the council shall consist of an elected mayor, a chairman and councillors.
+(1A)[^c15088871] Where a council falling within subsection (1) are operating executive arrangements which involve a mayor and cabinet executive [^c-f8d8537054f2177a75913ee490e5142d]..., the council shall consist of an elected mayor, a chairman and councillors.
 
 (1B)[^c19637971] In such a case, a reference in this Act to a member of a council is a reference to—
 
@@ -50,6 +50,6 @@ summary: ''
 
 [^c15088871]: Textual amendment: S. 21(1A) inserted (28.7.2001) by [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22), [ss. 46](https://www.legislation.gov.uk/ukpga/2000/22/section/46), [108(4)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/4), [Sch. 3 para. 4(1)(2)](https://www.legislation.gov.uk/ukpga/2000/22/schedule/3/paragraph/4/1/2)
 
-[^key-f8d8537054f2177a75913ee490e5142d]: Textual amendment: Words in s. 21(1A) repealed (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 34(7)(a)](https://www.legislation.gov.uk/mwa/2011/4/section/34/7/a), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2), [Sch. 4 Pt. B](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/B)
+[^c-f8d8537054f2177a75913ee490e5142d]: Textual amendment: Words in s. 21(1A) repealed (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 34(7)(a)](https://www.legislation.gov.uk/mwa/2011/4/section/34/7/a), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2), [Sch. 4 Pt. B](https://www.legislation.gov.uk/mwa/2011/4/schedule/4/part/B)
 
 [^c19637971]: Textual amendment: S. 21(1B) inserted (30.12.2007) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 74](https://www.legislation.gov.uk/ukpga/2007/28/section/74), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2007/28/schedule/3/paragraph/4/2)

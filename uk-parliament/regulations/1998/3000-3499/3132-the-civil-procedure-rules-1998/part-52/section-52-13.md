@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52.13. Respondent’s notice[^key-80838474f749f7ae040b777947f28e75]
+## 52.13. Respondent’s notice[^c-80838474f749f7ae040b777947f28e75]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ must file a respondent’s notice.
 
 (4) A respondent’s notice must be filed within—
 
-- (a) such period as may be directed by the lower court at the hearing at which the decision to be appealed was made or any adjournment of that hearing[^key-784af881da0f24bdfbbcf2d0565b7529]; or
+- (a) such period as may be directed by the lower court at the hearing at which the decision to be appealed was made or any adjournment of that hearing[^c-784af881da0f24bdfbbcf2d0565b7529]; or
 - (b) where the court makes no such direction, 14 days after the date in paragraph (5).
 
 (5) The date referred to in paragraph (4) is—
@@ -55,6 +55,6 @@ after it is filed.
 
 ## Annotations
 
-[^key-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
+[^c-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
 
-[^key-784af881da0f24bdfbbcf2d0565b7529]: Textual amendment: Words in rule 52.13(4)(a) inserted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2021/855/rule/9/3)
+[^c-784af881da0f24bdfbbcf2d0565b7529]: Textual amendment: Words in rule 52.13(4)(a) inserted (1.10.2021) by [The Civil Procedure (Amendment No. 4) Rules 2021 (S.I. 2021/855)](https://www.legislation.gov.uk/uksi/2021/855), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/855/rule/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2021/855/rule/9/3)

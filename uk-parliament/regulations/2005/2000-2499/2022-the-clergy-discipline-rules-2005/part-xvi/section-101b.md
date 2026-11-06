@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 101B. Word and page limits[^key-f7ff45505562fbb815a493f61c8e5b82]
+## 101B. Word and page limits[^c-f7ff45505562fbb815a493f61c8e5b82]
 
 *Extent: E*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7ff45505562fbb815a493f61c8e5b82]: Textual amendment: [Rule 101B](https://www.legislation.gov.uk/uksi/2005/2022/rule/101B) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [10](https://www.legislation.gov.uk/uksi/2021/557/rule/10)
+[^c-f7ff45505562fbb815a493f61c8e5b82]: Textual amendment: [Rule 101B](https://www.legislation.gov.uk/uksi/2005/2022/rule/101B) inserted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rules 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [10](https://www.legislation.gov.uk/uksi/2021/557/rule/10)

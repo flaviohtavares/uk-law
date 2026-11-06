@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Entry to non-residential premises by accountable person[^key-85566b73d7aefdd025477642e401c1be]
+## 67. Entry to non-residential premises by accountable person[^c-85566b73d7aefdd025477642e401c1be]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85566b73d7aefdd025477642e401c1be]: Commencement: S. 67 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-85566b73d7aefdd025477642e401c1be]: Commencement: S. 67 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

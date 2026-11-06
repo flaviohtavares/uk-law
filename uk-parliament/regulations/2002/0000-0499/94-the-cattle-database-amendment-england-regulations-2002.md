@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Cattle Database (Amendment) (England) Regulations 2002 (revoked)[^key-c390b1f2b2b7c903cfdc0ec801422792]
+The Cattle Database (Amendment) (England) Regulations 2002 (revoked)[^c-c390b1f2b2b7c903cfdc0ec801422792]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 11th February 2002
 
-[^key-c390b1f2b2b7c903cfdc0ec801422792]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c390b1f2b2b7c903cfdc0ec801422792]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-c390b1f2b2b7c903cfdc0ec801422792]
+## 1. Title, extent and commencement[^c-c390b1f2b2b7c903cfdc0ec801422792]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Cattle Database Regulations 1998[^key-c390b1f2b2b7c903cfdc0ec801422792]
+## 2. Amendment to the Cattle Database Regulations 1998[^c-c390b1f2b2b7c903cfdc0ec801422792]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c390b1f2b2b7c903cfdc0ec801422792]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c390b1f2b2b7c903cfdc0ec801422792]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c390b1f2b2b7c903cfdc0ec801422792]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c390b1f2b2b7c903cfdc0ec801422792]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c390b1f2b2b7c903cfdc0ec801422792]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification Regulations 2007 (S.I. 2007/529)](https://www.legislation.gov.uk/uksi/2007/529), [regs. 1](https://www.legislation.gov.uk/uksi/2007/529/regulation/1), [17(g)](https://www.legislation.gov.uk/uksi/2007/529/regulation/17/g)
+[^c-c390b1f2b2b7c903cfdc0ec801422792]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification Regulations 2007 (S.I. 2007/529)](https://www.legislation.gov.uk/uksi/2007/529), [regs. 1](https://www.legislation.gov.uk/uksi/2007/529/regulation/1), [17(g)](https://www.legislation.gov.uk/uksi/2007/529/regulation/17/g)

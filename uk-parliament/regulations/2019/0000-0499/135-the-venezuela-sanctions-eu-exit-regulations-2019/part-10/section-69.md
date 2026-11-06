@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Revocation of the Venezuela Council Regulation[^key-46f200f43d847e64e357555e8b3693cd]
+## 69. Revocation of the Venezuela Council Regulation[^c-46f200f43d847e64e357555e8b3693cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Regulation (EU) No 2017/2063, concerning restrictive measures in view of
 
 ## Annotations
 
-[^key-46f200f43d847e64e357555e8b3693cd]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46f200f43d847e64e357555e8b3693cd]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

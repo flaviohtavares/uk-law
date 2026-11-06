@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Regulatory scheme - additional matters to be included: further provision[^key-5c15d6ef83e481b8f28aeaa07f209bdb][^key-619cee5ca760eee04db36e20d3f19eb8]
+## 25. Regulatory scheme - additional matters to be included: further provision[^c-5c15d6ef83e481b8f28aeaa07f209bdb][^c-619cee5ca760eee04db36e20d3f19eb8]
 
 *Extent: S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c15d6ef83e481b8f28aeaa07f209bdb]: Commencement: S. 25 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-5c15d6ef83e481b8f28aeaa07f209bdb]: Commencement: S. 25 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-619cee5ca760eee04db36e20d3f19eb8]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2025/8/section/25) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-619cee5ca760eee04db36e20d3f19eb8]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2025/8/section/25) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Manner of citation.[^key-4f791449ec678b38cafd2a62c6a7f393]
+## 141. Manner of citation.[^c-4f791449ec678b38cafd2a62c6a7f393]
 
 *Extent: S*
 
@@ -30,10 +30,10 @@ summary: ''
 (2) Notwithstanding subsection (1) above, citation may also be effected—
 
 - (a) where the accused or witness is the master of, or a seaman or person employed in a vessel, if the citation is left with a person on board the vessel and connected with it;
-- (b) where the accused is an organisation other than a body of trustees[^key-7f65ded9fc09805ed7f2428f45e99a45] or a partnership prosecuted by virtue of section 1 of the Partnerships (Prosecution) (Scotland) Act 2013[^key-af81cfab286c1ee170f23f99f6e4493a]—
+- (b) where the accused is an organisation other than a body of trustees[^c-7f65ded9fc09805ed7f2428f45e99a45] or a partnership prosecuted by virtue of section 1 of the Partnerships (Prosecution) (Scotland) Act 2013[^c-af81cfab286c1ee170f23f99f6e4493a]—
   - (i) if the citation is left at its ordinary place of business with a partner, director, secretary or other official; or
-  - (ii) if it is cited in the same manner as if the proceedings were in a civil court; [^key-5cb365327d1f7a11bb8ba4595a329f6e]...
-- (c) where the accused is a body of trustees, if the citation is left with any one of them who is resident in Scotland or with their known solicitor in Scotland or[^key-15722171ca4b21fc3919b64808fd6ebd]
+  - (ii) if it is cited in the same manner as if the proceedings were in a civil court; [^c-5cb365327d1f7a11bb8ba4595a329f6e]...
+- (c) where the accused is a body of trustees, if the citation is left with any one of them who is resident in Scotland or with their known solicitor in Scotland or[^c-15722171ca4b21fc3919b64808fd6ebd]
 - (d) where the accused is a partnership prosecuted by virtue of section 1 of the Partnerships (Prosecution) (Scotland) Act 2013, if the citation is left with any one of the partners who is resident in Scotland;
 
 ; and in sub-paragraph (b)(i) of this subsection references to the director or secretary or other official, in relation to a limited liability partnership, are to any member of the limited liability partnership[^c14470891]
@@ -104,17 +104,17 @@ shall (even if not purporting to be written by or on behalf of the accused) be a
 
 ## Annotations
 
-[^key-4f791449ec678b38cafd2a62c6a7f393]: Modification: S. 141 applied (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 27(2)](https://www.legislation.gov.uk/asp/2016/1/section/27/2)[(3)](https://www.legislation.gov.uk/asp/2016/1/section/27/3), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-4f791449ec678b38cafd2a62c6a7f393]: Modification: S. 141 applied (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 27(2)](https://www.legislation.gov.uk/asp/2016/1/section/27/2)[(3)](https://www.legislation.gov.uk/asp/2016/1/section/27/3), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
 [^c19804431]: Textual amendment: S. 141(1) substituted (10.12.2007) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 8(a)](https://www.legislation.gov.uk/asp/2007/6/section/8/a), [84](https://www.legislation.gov.uk/asp/2007/6/section/84); [S.S.I. 2007/479](https://www.legislation.gov.uk/ssi/2007/479), [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/479/article/3/1), [Sch.](https://www.legislation.gov.uk/ssi/2007/479/schedule) (as amended by [S.S. I. 2007/527](https://www.legislation.gov.uk/ssi/2007/527))
 
-[^key-7f65ded9fc09805ed7f2428f45e99a45]: Textual amendment: Words in s. 141(2)(b) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 68](https://www.legislation.gov.uk/asp/2010/13/section/68), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-7f65ded9fc09805ed7f2428f45e99a45]: Textual amendment: Words in s. 141(2)(b) substituted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 68](https://www.legislation.gov.uk/asp/2010/13/section/68), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-af81cfab286c1ee170f23f99f6e4493a]: Textual amendment: Words in s. 141(2)(b) inserted (26.4.2013) by [Partnerships (Prosecution) (Scotland) Act 2013 (c. 21)](https://www.legislation.gov.uk/ukpga/2013/21), [ss. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2013/21/section/6/5/a), [8(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/4))
+[^c-af81cfab286c1ee170f23f99f6e4493a]: Textual amendment: Words in s. 141(2)(b) inserted (26.4.2013) by [Partnerships (Prosecution) (Scotland) Act 2013 (c. 21)](https://www.legislation.gov.uk/ukpga/2013/21), [ss. 6(5)(a)](https://www.legislation.gov.uk/ukpga/2013/21/section/6/5/a), [8(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/4))
 
-[^key-5cb365327d1f7a11bb8ba4595a329f6e]: Textual amendment: Word in s. 141(2) omitted (26.4.2013) by virtue of [Partnerships (Prosecution) (Scotland) Act 2013 (c. 21)](https://www.legislation.gov.uk/ukpga/2013/21), [ss. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2013/21/section/6/5/b), [8(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/4))
+[^c-5cb365327d1f7a11bb8ba4595a329f6e]: Textual amendment: Word in s. 141(2) omitted (26.4.2013) by virtue of [Partnerships (Prosecution) (Scotland) Act 2013 (c. 21)](https://www.legislation.gov.uk/ukpga/2013/21), [ss. 6(5)(b)](https://www.legislation.gov.uk/ukpga/2013/21/section/6/5/b), [8(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/4))
 
-[^key-15722171ca4b21fc3919b64808fd6ebd]: Textual amendment: S. 141(2)(d) and word inserted (26.4.2013) by [Partnerships (Prosecution) (Scotland) Act 2013 (c. 21)](https://www.legislation.gov.uk/ukpga/2013/21), [ss. 6(5)(c)](https://www.legislation.gov.uk/ukpga/2013/21/section/6/5/c), [8(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/4))
+[^c-15722171ca4b21fc3919b64808fd6ebd]: Textual amendment: S. 141(2)(d) and word inserted (26.4.2013) by [Partnerships (Prosecution) (Scotland) Act 2013 (c. 21)](https://www.legislation.gov.uk/ukpga/2013/21), [ss. 6(5)(c)](https://www.legislation.gov.uk/ukpga/2013/21/section/6/5/c), [8(2)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/2) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/3)[(4)](https://www.legislation.gov.uk/ukpga/2013/21/section/8/4))
 
 [^c14470891]: Textual amendment: Words in s. 141(2) inserted (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 5](https://www.legislation.gov.uk/ssi/2001/128/regulation/5), [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/4/paragraph/2)
 

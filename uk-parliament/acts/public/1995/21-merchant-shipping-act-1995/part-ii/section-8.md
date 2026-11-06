@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Central register of British ships.[^key-415e246ce4c54899549516e767b69a3f]
+## 8. Central register of British ships.[^c-415e246ce4c54899549516e767b69a3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-415e246ce4c54899549516e767b69a3f]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/1995/21/section/8) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)
+[^c-415e246ce4c54899549516e767b69a3f]: Modification: [S. 8](https://www.legislation.gov.uk/ukpga/1995/21/section/8) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [4](https://www.legislation.gov.uk/uksi/2023/35/article/4)

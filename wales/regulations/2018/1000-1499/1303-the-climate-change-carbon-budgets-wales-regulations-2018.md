@@ -59,7 +59,7 @@ Accordingly, the Welsh Ministers, in exercise of the powers conferred by 31(1) o
 
 (1) The carbon budget for the 2016 to 2020 budgetary period is limited to an average of 23% lower than the baseline.
 
-(2) The carbon budget for the 2021 to 2025 budgetary period is limited to an average of 37%[^key-ac960a1964296d5822de595f5499e0cb] lower than the baseline.
+(2) The carbon budget for the 2021 to 2025 budgetary period is limited to an average of 37%[^c-ac960a1964296d5822de595f5499e0cb] lower than the baseline.
 
 Lesley Griffiths
 
@@ -83,4 +83,4 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23532801]: Marginal citation: 2016 anaw 3.
 
-[^key-ac960a1964296d5822de595f5499e0cb]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/1303/regulation/2/2) substituted (19.3.2021) by [The Climate Change (Carbon Budgets) (Wales) (Amendment) Regulations 2021 (S.I. 2021/332)](https://www.legislation.gov.uk/wsi/2021/332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/332/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/332/regulation/2)
+[^c-ac960a1964296d5822de595f5499e0cb]: Textual amendment: Word in [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/1303/regulation/2/2) substituted (19.3.2021) by [The Climate Change (Carbon Budgets) (Wales) (Amendment) Regulations 2021 (S.I. 2021/332)](https://www.legislation.gov.uk/wsi/2021/332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/332/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/332/regulation/2)

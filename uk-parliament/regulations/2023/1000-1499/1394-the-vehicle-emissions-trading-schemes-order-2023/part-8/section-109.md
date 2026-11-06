@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Interpretation of Part 8[^key-57b480607d1f5a67aabc75d7ef3cfc22]
+## 109. Interpretation of Part 8[^c-57b480607d1f5a67aabc75d7ef3cfc22]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ In this Part—
 
 ## Annotations
 
-[^key-57b480607d1f5a67aabc75d7ef3cfc22]: Commencement: Art. 109 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-57b480607d1f5a67aabc75d7ef3cfc22]: Commencement: Art. 109 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
 [^f00021]: Footnote: EUR 2010/1014, amended by [S.I. 2019/550](https://www.legislation.gov.uk/uksi/2019/550), [2021/1242](https://www.legislation.gov.uk/uksi/2021/1242) and 2022/1361.
 

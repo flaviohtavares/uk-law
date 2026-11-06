@@ -31,8 +31,8 @@ summary: ''
 
 - (a) where the purchase of an annuity under a personal pension scheme or occupational pension scheme has been deferred, the amount of any income which is being withdrawn from the personal pension scheme or occupational pension scheme;
 - (b) in the case of—
-  - (i) a personal pension scheme or occupational pension scheme where income withdrawal is available, the rate of the annuity which may have been purchased with the funds held under the scheme[^key-1c9dfe789ce5d455b314ba3706327f90], or
-  - (ii) a personal pension scheme or occupational pension scheme where income withdrawal is not available, the rate of the annuity which might have been purchased with the fund[^key-a8f2f5eb13b227d30e62ed939eb0a8fd] if the fund were held under a personal pension scheme or occupational pension scheme where income withdrawal was available,
+  - (i) a personal pension scheme or occupational pension scheme where income withdrawal is available, the rate of the annuity which may have been purchased with the funds held under the scheme[^c-1c9dfe789ce5d455b314ba3706327f90], or
+  - (ii) a personal pension scheme or occupational pension scheme where income withdrawal is not available, the rate of the annuity which might have been purchased with the fund[^c-a8f2f5eb13b227d30e62ed939eb0a8fd] if the fund were held under a personal pension scheme or occupational pension scheme where income withdrawal was available,
 
   calculated by or on behalf of the pension fund holder by means of tables prepared from time to time by the Government Actuary which are appropriate for this purpose.
 
@@ -51,9 +51,9 @@ summary: ''
 
 ## Annotations
 
-[^key-1c9dfe789ce5d455b314ba3706327f90]: Textual amendment: Words in reg. 38(3)(b)(i) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [16(a)](https://www.legislation.gov.uk/nisr/2017/218/regulation/16/a)
+[^c-1c9dfe789ce5d455b314ba3706327f90]: Textual amendment: Words in reg. 38(3)(b)(i) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [16(a)](https://www.legislation.gov.uk/nisr/2017/218/regulation/16/a)
 
-[^key-a8f2f5eb13b227d30e62ed939eb0a8fd]: Textual amendment: Words in reg. 38(3)(b)(ii) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [16(b)](https://www.legislation.gov.uk/nisr/2017/218/regulation/16/b)
+[^c-a8f2f5eb13b227d30e62ed939eb0a8fd]: Textual amendment: Words in reg. 38(3)(b)(ii) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [16(b)](https://www.legislation.gov.uk/nisr/2017/218/regulation/16/b)
 
 [^c24174551]: Marginal citation: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49); the definition of “personal pension scheme” was substituted by Article 216(3) of the [Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255) and amended by Part 3(2) of Schedule 27 to the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11).
 

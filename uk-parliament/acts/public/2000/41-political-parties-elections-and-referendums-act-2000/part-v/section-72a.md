@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72A. Campaign expenditure: power of Scottish Ministers[^key-231174132143c28ceb20da6428a1ba27]
+## 72A. Campaign expenditure: power of Scottish Ministers[^c-231174132143c28ceb20da6428a1ba27]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-231174132143c28ceb20da6428a1ba27]: Textual amendment: [S. 72A](https://www.legislation.gov.uk/ukpga/2000/41/section/72A) inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/7/2), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/e)
+[^c-231174132143c28ceb20da6428a1ba27]: Textual amendment: [S. 72A](https://www.legislation.gov.uk/ukpga/2000/41/section/72A) inserted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/7/2), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38.[^key-62d35c9e37cb34b4759dbf90f1ac74b8]
+## 38.[^c-62d35c9e37cb34b4759dbf90f1ac74b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 272 (general interpretation), insert at the appropriate place —
 
 ## Annotations
 
-[^key-62d35c9e37cb34b4759dbf90f1ac74b8]: Commencement: Reg. 38 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-62d35c9e37cb34b4759dbf90f1ac74b8]: Commencement: Reg. 38 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

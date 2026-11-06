@@ -46,11 +46,11 @@ Accordingly, the Department for Communities, makes the following Regulations in 
 
 In accordance with section 1(4) of that Act, the Executive Office[^f00003] approves the making of these Regulations.
 
-## 1. Citation and commencement[^key-eb57b591f171946245a12e0fe709a19b]
+## 1. Citation and commencement[^c-eb57b591f171946245a12e0fe709a19b]
 
 These Regulations may be cited as the Emergency Fuel Payment Regulations (Northern Ireland) 2025 and shall come into operation on 3rd March 2025.
 
-## 2. Emergency Fuel Payment Scheme[^key-bfd574eba9e0cd4c02e50e33393be066]
+## 2. Emergency Fuel Payment Scheme[^c-bfd574eba9e0cd4c02e50e33393be066]
 
 The Department for Communities makes the Scheme set out in the Schedules.
 
@@ -76,7 +76,7 @@ A senior officer of the Executive Office
 
 Regulation 2
 
-### 1. Citation and interpretation[^key-aa19a2d0ee2e05ff23da888934ac4fff]
+### 1. Citation and interpretation[^c-aa19a2d0ee2e05ff23da888934ac4fff]
 
 (1) This Scheme may be cited as the Emergency Fuel Payment Scheme (Northern Ireland) 2025.
 
@@ -102,7 +102,7 @@ Regulation 2
 - “**social security information**” means information held by or on behalf of the Department and obtained as a result of, or for the purpose of, the exercise of the Department’s functions in relation to social security;
 - “**withdrawal agreement**”, “**EEA EFTA separation agreement**” and “**Swiss citizens’ rights agreement**” have the same meanings as in section 39(1) of the European Union (Withdrawal Agreement) Act 2020[^f00010].
 
-### 2. Eligibility[^key-817cf7747e6c02c17c9d8698c385d5cb]
+### 2. Eligibility[^c-817cf7747e6c02c17c9d8698c385d5cb]
 
 (1) Subject to paragraph 4 the Department must pay an Emergency Fuel Payment to a person where—
 
@@ -112,7 +112,7 @@ Regulation 2
 (2) This sub-paragraph applies if the person is—
 
 - (a) ordinarily resident in Northern Ireland, and
-- (b) not entitled to a Social Fund Winter Fuel Payment in accordance with the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024[^key-8394b8c3e452c4d4069a7a11456a383f] .
+- (b) not entitled to a Social Fund Winter Fuel Payment in accordance with the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024[^c-8394b8c3e452c4d4069a7a11456a383f] .
 
 (3) This sub-paragraph applies if the person is—
 
@@ -121,13 +121,13 @@ Regulation 2
   - (i) Title III of Part 2 of the withdrawal agreement, as set out at Article 30 of that agreement[^f00011];
   - (ii) Title III of Part 2 of the EEA EFTA separation agreement, as set out at Article 29 of that agreement[^f00012];
   - (iii) Part Three of the Swiss citizens’ rights agreement, as set out at Article 25 of that agreement[^f00013]; or
-  - (iv) the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1st February 2019, as set out in Article 2 of that Convention[^f00014]; [^key-35ce4bd582d37d22afe684c6a611e212]...
-- (c) able to demonstrate a genuine and sufficient link to the Northern Ireland, with an applicable Northern Ireland postal address as determined by official government pension records; and[^key-4d7ede734b8abde0a1ca1100ec339f85] .
-- (d)[^key-b3046c30e21f0d9ccb81ff7dee1ab463] not entitled to a Social Fund Winter Fuel Payment in accordance with the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024.
+  - (iv) the Convention on Social Security between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of Ireland signed at Dublin on 1st February 2019, as set out in Article 2 of that Convention[^f00014]; [^c-35ce4bd582d37d22afe684c6a611e212]...
+- (c) able to demonstrate a genuine and sufficient link to the Northern Ireland, with an applicable Northern Ireland postal address as determined by official government pension records; and[^c-4d7ede734b8abde0a1ca1100ec339f85] .
+- (d)[^c-b3046c30e21f0d9ccb81ff7dee1ab463] not entitled to a Social Fund Winter Fuel Payment in accordance with the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024.
 
 (4) Only one Emergency Fuel Payment shall be payable under this Scheme in respect of any person.
 
-### 3. Amount of Emergency Fuel Payment[^key-40f636c6a60dbde58c1e515c05c2f5b7]
+### 3. Amount of Emergency Fuel Payment[^c-40f636c6a60dbde58c1e515c05c2f5b7]
 
 The amount of an Emergency Fuel Payment is as follows—
 
@@ -136,7 +136,7 @@ The amount of an Emergency Fuel Payment is as follows—
 - (c) if the person is living in residential care throughout the qualifying week, and for the period of 12 weeks immediately before the qualifying week, £50; or
 - (d) if the person is living in residential care throughout the qualifying week, and for a period of less than 12 weeks immediately before the qualifying week, £100.
 
-### 4. Persons not entitled to an Emergency Fuel Payment[^key-8829091bc48fa58721afb66949009856]
+### 4. Persons not entitled to an Emergency Fuel Payment[^c-8829091bc48fa58721afb66949009856]
 
 (1) Paragraph 2 of this Schedule does not apply in respect of a person who—
 
@@ -148,11 +148,11 @@ The amount of an Emergency Fuel Payment is as follows—
 - (b) having been ordinarily resident in Northern Ireland on a day falling within the qualifying week, becomes ordinarily resident in England and Wales or Scotland by the last day of that week; or
 - (c) has not made an application for a delayed Emergency Fuel Payment under paragraph 6 on or before 11th April following the qualifying week in respect of the winter following that week.
 
-### 5. Recovery[^key-c1fc0ec60796f9c86d07716fc659f8a8]
+### 5. Recovery[^c-c1fc0ec60796f9c86d07716fc659f8a8]
 
 The Department may recover any payment made in error.
 
-### 6. Delayed payment[^key-9d47de5388824da9c3b800a703989598]
+### 6. Delayed payment[^c-9d47de5388824da9c3b800a703989598]
 
 (1) A person who is eligible for an Emergency Fuel Payment, and has not received it by 11th April 2025, may apply for a payment.
 
@@ -164,19 +164,19 @@ The Department may recover any payment made in error.
 
 (3) If the Department is satisfied that a person making an application under sub-paragraph (1) is eligible for an Emergency Fuel Payment and has not already received such a payment, the Department shall make that payment.
 
-### 7. Appeals[^key-bd6ee6a7e1fc2e14376727f74d743013]
+### 7. Appeals[^c-bd6ee6a7e1fc2e14376727f74d743013]
 
 There will be no right of appeal.
 
-### 8. Payment to be disregarded for social security[^key-409c2b1345ca953c4cd7733e1797d8dd]
+### 8. Payment to be disregarded for social security[^c-409c2b1345ca953c4cd7733e1797d8dd]
 
 The Emergency Fuel Payment shall be disregarded for social security benefits purposes.
 
-### 9. Information[^key-9e86651547e2eefc77423b3c7271dfbc]
+### 9. Information[^c-9e86651547e2eefc77423b3c7271dfbc]
 
 The Department may use social security information for the purpose of determining whether a person is eligible for an Emergency Fuel Payment.
 
-## SCHEDULE 2 — Countries[^key-fd4f735208cca22ce434dbe9a017b860]
+## SCHEDULE 2 — Countries[^c-fd4f735208cca22ce434dbe9a017b860]
 
 Regulation 2
 
@@ -247,11 +247,11 @@ A regulatory impact assessment has not been produced for the Regulations as they
 
 [^f00003]: Footnote: Formerly the Office of the First Minister and deputy First Minister; see section 1(1) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-eb57b591f171946245a12e0fe709a19b]: Commencement: Reg. 1 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-eb57b591f171946245a12e0fe709a19b]: Commencement: Reg. 1 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-bfd574eba9e0cd4c02e50e33393be066]: Commencement: Reg. 2 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-bfd574eba9e0cd4c02e50e33393be066]: Commencement: Reg. 2 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-aa19a2d0ee2e05ff23da888934ac4fff]: Commencement: Sch. 1 para. 1 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-aa19a2d0ee2e05ff23da888934ac4fff]: Commencement: Sch. 1 para. 1 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580)
 
@@ -267,9 +267,9 @@ A regulatory impact assessment has not been produced for the Regulations as they
 
 [^f00010]: Footnote: [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1); amended by [S.I. 2024/164](https://www.legislation.gov.uk/uksi/2024/164)
 
-[^key-817cf7747e6c02c17c9d8698c385d5cb]: Commencement: Sch. 1 para. 2 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-817cf7747e6c02c17c9d8698c385d5cb]: Commencement: Sch. 1 para. 2 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-8394b8c3e452c4d4069a7a11456a383f]: Textual amendment: Words in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2025/23/schedule/1/paragraph/2/2/b) added (18.3.2025) by [The Emergency Fuel Payment (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/45)](https://www.legislation.gov.uk/nisr/2025/45), [regs. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/45/regulation/2/2)
+[^c-8394b8c3e452c4d4069a7a11456a383f]: Textual amendment: Words in [Sch. 1 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2025/23/schedule/1/paragraph/2/2/b) added (18.3.2025) by [The Emergency Fuel Payment (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/45)](https://www.legislation.gov.uk/nisr/2025/45), [regs. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2025/45/regulation/2/2)
 
 [^f00011]: Footnote: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment\_data/file/862063/TS3202\_1.PDF
 
@@ -279,24 +279,24 @@ A regulatory impact assessment has not been produced for the Regulations as they
 
 [^f00014]: Footnote: https://assets.publishing.service.gov.uk/media/5c629e1ee5274a31522b14be/CS\_Ireland\_1.2019\_Soc\_Sec.pdf
 
-[^key-35ce4bd582d37d22afe684c6a611e212]: Textual amendment: Word in [Sch. 1 para. 2(3)(b)(iv)](https://www.legislation.gov.uk/nisr/2025/23/schedule/1/paragraph/2/3/b/iv) omitted (18.3.2025) by virtue of [The Emergency Fuel Payment (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/45)](https://www.legislation.gov.uk/nisr/2025/45), [regs. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/45/regulation/2/3)
+[^c-35ce4bd582d37d22afe684c6a611e212]: Textual amendment: Word in [Sch. 1 para. 2(3)(b)(iv)](https://www.legislation.gov.uk/nisr/2025/23/schedule/1/paragraph/2/3/b/iv) omitted (18.3.2025) by virtue of [The Emergency Fuel Payment (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/45)](https://www.legislation.gov.uk/nisr/2025/45), [regs. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2025/45/regulation/2/3)
 
-[^key-4d7ede734b8abde0a1ca1100ec339f85]: Textual amendment: Words in [Sch. 1 para. 2(3)(c)](https://www.legislation.gov.uk/nisr/2025/23/schedule/1/paragraph/2/3/c) substituted (18.3.2025) by [The Emergency Fuel Payment (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/45)](https://www.legislation.gov.uk/nisr/2025/45), [regs. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2025/45/regulation/2/4)
+[^c-4d7ede734b8abde0a1ca1100ec339f85]: Textual amendment: Words in [Sch. 1 para. 2(3)(c)](https://www.legislation.gov.uk/nisr/2025/23/schedule/1/paragraph/2/3/c) substituted (18.3.2025) by [The Emergency Fuel Payment (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/45)](https://www.legislation.gov.uk/nisr/2025/45), [regs. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2025/45/regulation/2/4)
 
-[^key-b3046c30e21f0d9ccb81ff7dee1ab463]: Textual amendment: [Sch. 1 para. 2(3)(d)](https://www.legislation.gov.uk/nisr/2025/23/schedule/1/paragraph/2/3/d) added (18.3.2025) by [The Emergency Fuel Payment (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/45)](https://www.legislation.gov.uk/nisr/2025/45), [regs. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2025/45/regulation/2/5)
+[^c-b3046c30e21f0d9ccb81ff7dee1ab463]: Textual amendment: [Sch. 1 para. 2(3)(d)](https://www.legislation.gov.uk/nisr/2025/23/schedule/1/paragraph/2/3/d) added (18.3.2025) by [The Emergency Fuel Payment (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/45)](https://www.legislation.gov.uk/nisr/2025/45), [regs. 1](https://www.legislation.gov.uk/nisr/2025/45/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2025/45/regulation/2/5)
 
-[^key-40f636c6a60dbde58c1e515c05c2f5b7]: Commencement: Sch. 1 para. 3 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-40f636c6a60dbde58c1e515c05c2f5b7]: Commencement: Sch. 1 para. 3 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-8829091bc48fa58721afb66949009856]: Commencement: Sch. 1 para. 4 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-8829091bc48fa58721afb66949009856]: Commencement: Sch. 1 para. 4 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-c1fc0ec60796f9c86d07716fc659f8a8]: Commencement: Sch. 1 para. 5 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-c1fc0ec60796f9c86d07716fc659f8a8]: Commencement: Sch. 1 para. 5 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-9d47de5388824da9c3b800a703989598]: Commencement: Sch. 1 para. 6 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-9d47de5388824da9c3b800a703989598]: Commencement: Sch. 1 para. 6 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-bd6ee6a7e1fc2e14376727f74d743013]: Commencement: Sch. 1 para. 7 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-bd6ee6a7e1fc2e14376727f74d743013]: Commencement: Sch. 1 para. 7 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-409c2b1345ca953c4cd7733e1797d8dd]: Commencement: Sch. 1 para. 8 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-409c2b1345ca953c4cd7733e1797d8dd]: Commencement: Sch. 1 para. 8 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-9e86651547e2eefc77423b3c7271dfbc]: Commencement: Sch. 1 para. 9 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-9e86651547e2eefc77423b3c7271dfbc]: Commencement: Sch. 1 para. 9 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
 
-[^key-fd4f735208cca22ce434dbe9a017b860]: Commencement: Sch. 2 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)
+[^c-fd4f735208cca22ce434dbe9a017b860]: Commencement: Sch. 2 in operation at 3.3.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/23/regulation/1)

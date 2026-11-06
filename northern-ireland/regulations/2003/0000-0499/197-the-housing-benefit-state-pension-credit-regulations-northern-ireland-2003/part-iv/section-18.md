@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Minor amendments[^key-b3c7b93ec6d456f0cdcae9f2026e9ba8]
+## 18. Minor amendments[^c-b3c7b93ec6d456f0cdcae9f2026e9ba8]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b3c7b93ec6d456f0cdcae9f2026e9ba8]: Commencement: Reg. 18 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
+[^c-b3c7b93ec6d456f0cdcae9f2026e9ba8]: Commencement: Reg. 18 in operation at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2003/197/regulation/1/1/b)
 
 [^f00092]: Footnote: Paragraph (5) was amended by regulation 3 of [S.R. 1996 No. 334](https://www.legislation.gov.uk/nisr/1996/334)
 

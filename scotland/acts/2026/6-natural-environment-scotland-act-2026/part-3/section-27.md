@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Power to require information and documents[^key-549875c448841fd19100aac93ddfdf16]
+## 27. Power to require information and documents[^c-549875c448841fd19100aac93ddfdf16]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-549875c448841fd19100aac93ddfdf16]: Commencement: S. 27 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-549875c448841fd19100aac93ddfdf16]: Commencement: S. 27 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

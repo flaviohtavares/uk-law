@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32.1. Application and interpretation of this Chapter[^key-21acd5026f854030f41b745506c09d45]
+## 32.1. Application and interpretation of this Chapter[^c-21acd5026f854030f41b745506c09d45]
 
 *Extent: S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-21acd5026f854030f41b745506c09d45]: Commencement: Para. 32.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-21acd5026f854030f41b745506c09d45]: Commencement: Para. 32.1 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00038]: Footnote: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1). Section 164 was amended by the Children (Scotland) Act [2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), section 26(3). Sections 163, 164, 165 and 167 are prospectively amended by the Children (Scotland) Act 2020, section 27(1) to (6).
 

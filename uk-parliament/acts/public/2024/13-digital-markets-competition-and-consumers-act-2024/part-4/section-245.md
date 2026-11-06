@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Meaning of “transactional decision”[^key-c80f8d42e14b3ef3b6bf4b62f30c2159][^key-dc9100852569fe28370d7ca7ec9e5d7b]
+## 245. Meaning of “transactional decision”[^c-c80f8d42e14b3ef3b6bf4b62f30c2159][^c-dc9100852569fe28370d7ca7ec9e5d7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In this Chapter, “**transactional decision**” means any decision made by a c
 
 ## Annotations
 
-[^key-c80f8d42e14b3ef3b6bf4b62f30c2159]: Commencement: S. 245 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-c80f8d42e14b3ef3b6bf4b62f30c2159]: Commencement: S. 245 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-dc9100852569fe28370d7ca7ec9e5d7b]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2024/13/section/245) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)
+[^c-dc9100852569fe28370d7ca7ec9e5d7b]: Commencement: [S. 245](https://www.legislation.gov.uk/ukpga/2024/13/section/245) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(3)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/3)

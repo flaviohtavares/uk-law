@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Restatement in rules: exemption from consultation requirements etc[^key-623c146dc43a42ee40271f8afc88042b][^key-ebc1fecb06370bba3e0ea12d31afc509]
+## 6. Restatement in rules: exemption from consultation requirements etc[^c-623c146dc43a42ee40271f8afc88042b][^c-ebc1fecb06370bba3e0ea12d31afc509]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,12 +27,12 @@ summary: ''
 
 (2) A relevant requirement does not apply to the making of rules by a regulator if and to the extent that—
 
-- (a) the proposed rules make excluded changes to provision of existing rules made by the regulator containing an assimilated[^key-3c91dc439c2aebfc5cd7ed076cb9cd1b] obligation, and
-- (b) the assimilated[^key-981c4b29c3b11e705a7993c76c4fb6d7] obligation is specified, or falls within a description of obligations specified, in relation to the making of rules by the regulator in regulations made by the Treasury for the purposes of this section.
+- (a) the proposed rules make excluded changes to provision of existing rules made by the regulator containing an assimilated[^c-3c91dc439c2aebfc5cd7ed076cb9cd1b] obligation, and
+- (b) the assimilated[^c-981c4b29c3b11e705a7993c76c4fb6d7] obligation is specified, or falls within a description of obligations specified, in relation to the making of rules by the regulator in regulations made by the Treasury for the purposes of this section.
 
 (3) A relevant requirement does not apply to the revocation of rules by a regulator if and to the extent that—
 
-- (a) the rules being revoked make provision containing an assimilated[^key-709357654f3af71ab98bc164deb19299] obligation, and
+- (a) the rules being revoked make provision containing an assimilated[^c-709357654f3af71ab98bc164deb19299] obligation, and
 - (b) the rules are revoked without being replaced by other rules made by the regulator.
 
 (4) For the purposes of subsection (1), rules make excluded provision in relation to provisions of legislation if, in the opinion of the regulator making the rules, the rules reproduce those provisions—
@@ -68,8 +68,8 @@ summary: ''
 (9) Where a regulator makes or revokes rules without complying with a relevant requirement by virtue of subsection (1), (2) or (3), the regulator must publish a statement which must—
 
 - (a) in a case falling within subsection (1), list the provisions of legislation that have been restated by the rules;
-- (b) in a case falling within subsection (2), specify or describe the assimilated[^key-ea4c0dc8b387722bca76ceb3ebe70c5d] obligations in relation to which changes have been made by the rules;
-- (c) in a case falling within subsection (3), specify or describe the assimilated[^key-82dc5ebcac065587f4a1fc73101da7c2] obligations that have been removed by the revocation of the rules.
+- (b) in a case falling within subsection (2), specify or describe the assimilated[^c-ea4c0dc8b387722bca76ceb3ebe70c5d] obligations in relation to which changes have been made by the rules;
+- (c) in a case falling within subsection (3), specify or describe the assimilated[^c-82dc5ebcac065587f4a1fc73101da7c2] obligations that have been removed by the revocation of the rules.
 
 (10) Where the statement relates to the making of rules that include provision of a kind mentioned in subsection (4)(b) or (5)(a) and (b), the statement must—
 
@@ -95,16 +95,16 @@ summary: ''
 
 ## Annotations
 
-[^key-623c146dc43a42ee40271f8afc88042b]: Commencement: S. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-623c146dc43a42ee40271f8afc88042b]: Commencement: S. 6 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-ebc1fecb06370bba3e0ea12d31afc509]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/29/section/6) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/d)
+[^c-ebc1fecb06370bba3e0ea12d31afc509]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/29/section/6) in force at 29.8.2023 by [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/d)
 
-[^key-3c91dc439c2aebfc5cd7ed076cb9cd1b]: Textual amendment: Words in [s. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/2/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/a)
+[^c-3c91dc439c2aebfc5cd7ed076cb9cd1b]: Textual amendment: Words in [s. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/2/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/a)
 
-[^key-981c4b29c3b11e705a7993c76c4fb6d7]: Textual amendment: Words in [s. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/2/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/b)
+[^c-981c4b29c3b11e705a7993c76c4fb6d7]: Textual amendment: Words in [s. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/2/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/b)
 
-[^key-709357654f3af71ab98bc164deb19299]: Textual amendment: Words in [s. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/a)
+[^c-709357654f3af71ab98bc164deb19299]: Textual amendment: Words in [s. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/3/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/a)
 
-[^key-ea4c0dc8b387722bca76ceb3ebe70c5d]: Textual amendment: Words in [s. 6(9)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/9/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/b)
+[^c-ea4c0dc8b387722bca76ceb3ebe70c5d]: Textual amendment: Words in [s. 6(9)(b)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/9/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/b)
 
-[^key-82dc5ebcac065587f4a1fc73101da7c2]: Textual amendment: Words in [s. 6(9)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/9/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/b)
+[^c-82dc5ebcac065587f4a1fc73101da7c2]: Textual amendment: Words in [s. 6(9)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/6/9/c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 107(5)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/107/5/b)

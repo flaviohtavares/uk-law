@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Application, disapplication and modification of legislative provisions[^key-c1c3e31bb606ff24996cbee86fd75550]
+## 54. Application, disapplication and modification of legislative provisions[^c-c1c3e31bb606ff24996cbee86fd75550]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 15 (public general legislation) to this Order, which makes provision ap
 
 ## Annotations
 
-[^key-c1c3e31bb606ff24996cbee86fd75550]: Commencement: Art. 54 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-c1c3e31bb606ff24996cbee86fd75550]: Commencement: Art. 54 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

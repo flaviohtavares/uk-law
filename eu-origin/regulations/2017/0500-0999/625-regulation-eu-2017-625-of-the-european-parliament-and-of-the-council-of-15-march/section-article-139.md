@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-05e5dc570bb1658dae67aec03abff01a] The appropriate authority may, by regulations, make provision for—
+1.[^c-05e5dc570bb1658dae67aec03abff01a] The appropriate authority may, by regulations, make provision for—
 
 - (a) penalties applicable to infringements of—
   - (i) this Regulation;
@@ -29,9 +29,9 @@ summary: ''
 - (b) civil sanctions in relation to the infringements mentioned in point (a);
 - (c) appeals in respect of the decisions mentioned in Article 7 of this Regulation.
 
-2.[^key-b42b4ef586fecf4c40975b97cf979286] The appropriate authority shall ensure that financial penalties for violations of this Regulation and of the rules referred to in Article 1(2), perpetrated through fraudulent or deceptive practices, reflect [^key-10777e0d24c1430b0c4d909b8ac477a8]... at least either the economic advantage for the operator or, as appropriate, a percentage of the operator's turnover.
+2.[^c-b42b4ef586fecf4c40975b97cf979286] The appropriate authority shall ensure that financial penalties for violations of this Regulation and of the rules referred to in Article 1(2), perpetrated through fraudulent or deceptive practices, reflect [^c-10777e0d24c1430b0c4d909b8ac477a8]... at least either the economic advantage for the operator or, as appropriate, a percentage of the operator's turnover.
 
-3.[^key-8a245f6d326523ef9406f1b91f39b756] Regulations under this Article may create offences.
+3.[^c-8a245f6d326523ef9406f1b91f39b756] Regulations under this Article may create offences.
 
 4. Regulations may provide for an offence under the regulations to be triable—
 
@@ -51,10 +51,10 @@ summary: ''
 
 ## Annotations
 
-[^key-05e5dc570bb1658dae67aec03abff01a]: Textual amendment: [Art. 139(1)](https://www.legislation.gov.uk/eur/2017/625/article/139/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [30](https://www.legislation.gov.uk/uksi/2025/102/regulation/30)
+[^c-05e5dc570bb1658dae67aec03abff01a]: Textual amendment: [Art. 139(1)](https://www.legislation.gov.uk/eur/2017/625/article/139/1) substituted (10.2.2025) by [The Official Controls (Amendment) Regulations 2025 (S.I. 2025/102)](https://www.legislation.gov.uk/uksi/2025/102), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2025/102/regulation/1/1/b), [30](https://www.legislation.gov.uk/uksi/2025/102/regulation/30)
 
-[^key-b42b4ef586fecf4c40975b97cf979286]: Textual amendment: Words in [Art. 139(2)](https://www.legislation.gov.uk/eur/2017/625/article/139/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/25/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-b42b4ef586fecf4c40975b97cf979286]: Textual amendment: Words in [Art. 139(2)](https://www.legislation.gov.uk/eur/2017/625/article/139/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [25(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/25/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-10777e0d24c1430b0c4d909b8ac477a8]: Textual amendment: Words in [Art. 139(2)](https://www.legislation.gov.uk/eur/2017/625/article/139/2) omitted (13.12.2022) by virtue of [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/9/b)
+[^c-10777e0d24c1430b0c4d909b8ac477a8]: Textual amendment: Words in [Art. 139(2)](https://www.legislation.gov.uk/eur/2017/625/article/139/2) omitted (13.12.2022) by virtue of [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [9(b)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/9/b)
 
-[^key-8a245f6d326523ef9406f1b91f39b756]: Textual amendment: [Art. 139(3)-(6)](https://www.legislation.gov.uk/eur/2017/625/article/139/3) inserted (13.12.2022) by [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/9/c)
+[^c-8a245f6d326523ef9406f1b91f39b756]: Textual amendment: [Art. 139(3)-(6)](https://www.legislation.gov.uk/eur/2017/625/article/139/3) inserted (13.12.2022) by [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [9(c)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/9/c)

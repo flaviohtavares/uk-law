@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33C. Winding up of sub-funds[^key-1cdcdbbcd6711465b772135338b08796]
+## 33C. Winding up of sub-funds[^c-1cdcdbbcd6711465b772135338b08796]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1cdcdbbcd6711465b772135338b08796]: Textual amendment: Reg. 33C inserted (21.12.2011) by [The Open-Ended Investment Companies (Amendment) Regulations 2011 (S.I. 2011/3049)](https://www.legislation.gov.uk/uksi/2011/3049), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/3/5) (with [regs. 4-10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4))
+[^c-1cdcdbbcd6711465b772135338b08796]: Textual amendment: Reg. 33C inserted (21.12.2011) by [The Open-Ended Investment Companies (Amendment) Regulations 2011 (S.I. 2011/3049)](https://www.legislation.gov.uk/uksi/2011/3049), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3049/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2011/3049/regulation/3/5) (with [regs. 4-10](https://www.legislation.gov.uk/uksi/2011/3049/regulation/4))

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Dairy Produce Quotas (Scotland) Amendment Regulations 2002 (revoked)[^key-c667fbd02a4bc95e494dbeb86fbd1015]
+The Dairy Produce Quotas (Scotland) Amendment Regulations 2002 (revoked)[^c-c667fbd02a4bc95e494dbeb86fbd1015]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 5th June 2002
 
-[^key-c667fbd02a4bc95e494dbeb86fbd1015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c667fbd02a4bc95e494dbeb86fbd1015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c667fbd02a4bc95e494dbeb86fbd1015]
+## 1. Citation and commencement[^c-c667fbd02a4bc95e494dbeb86fbd1015]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Dairy Produce Quotas (Scotland) Regulations 2002[^key-c667fbd02a4bc95e494dbeb86fbd1015]
+## 2. Amendment of the Dairy Produce Quotas (Scotland) Regulations 2002[^c-c667fbd02a4bc95e494dbeb86fbd1015]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Agricultural Subsidies (Appeals) (Scotland) Regulations 2000[^key-c667fbd02a4bc95e494dbeb86fbd1015]
+## 3. Amendment of the Agricultural Subsidies (Appeals) (Scotland) Regulations 2000[^c-c667fbd02a4bc95e494dbeb86fbd1015]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c667fbd02a4bc95e494dbeb86fbd1015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c667fbd02a4bc95e494dbeb86fbd1015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c667fbd02a4bc95e494dbeb86fbd1015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c667fbd02a4bc95e494dbeb86fbd1015]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c667fbd02a4bc95e494dbeb86fbd1015]: Textual amendment: Regulations revoked (31.3.2005) by [The Dairy Produce Quotas (Scotland) Regulations 2005 (S.S.I. 2005/91)](https://www.legislation.gov.uk/ssi/2005/91), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/91/regulation/1/2), [41(1)](https://www.legislation.gov.uk/ssi/2005/91/regulation/41/1)
+[^c-c667fbd02a4bc95e494dbeb86fbd1015]: Textual amendment: Regulations revoked (31.3.2005) by [The Dairy Produce Quotas (Scotland) Regulations 2005 (S.S.I. 2005/91)](https://www.legislation.gov.uk/ssi/2005/91), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2005/91/regulation/1/2), [41(1)](https://www.legislation.gov.uk/ssi/2005/91/regulation/41/1)

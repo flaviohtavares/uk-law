@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**26.**[^key-d8e93a06e12d5122b093cc3bd68f4c09] In section 1 (information as to need for and existence of welfare services), omit subsections (1) and (2).
+**26.**[^c-d8e93a06e12d5122b093cc3bd68f4c09] In section 1 (information as to need for and existence of welfare services), omit subsections (1) and (2).
 
 ## Annotations
 
-[^key-d8e93a06e12d5122b093cc3bd68f4c09]: Commencement: Reg. 26 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d8e93a06e12d5122b093cc3bd68f4c09]: Commencement: Reg. 26 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

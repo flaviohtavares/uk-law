@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333F. Economic development strategy for London[^key-c909154813555e09bb889787b7672c11]
+## 333F. Economic development strategy for London[^c-c909154813555e09bb889787b7672c11]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ the Secretary of State may direct the Mayor to make such revisions of the strate
 
 ## Annotations
 
-[^key-c909154813555e09bb889787b7672c11]: Textual amendment: Pt. 7B inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 192(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/192/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))
+[^c-c909154813555e09bb889787b7672c11]: Textual amendment: Pt. 7B inserted (3.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 192(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/192/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/3/b) (with [arts. 7](https://www.legislation.gov.uk/uksi/2012/1008/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/1008/article/9))

@@ -45,8 +45,8 @@ summary: ''
 - (a) in determining which company is a principal company, regard is had to any company which is a qualifying 75% subsidiary of another, and
 - (b) that company ceases to be a qualifying 75% subsidiary of the other on that day.
 
-(7) This section is supplemented by section 398 (“qualifying 75% [^key-8dcd94bf8555eb47ac1c1afe769a73cb]... subsidiary” etc).
+(7) This section is supplemented by section 398 (“qualifying 75% [^c-8dcd94bf8555eb47ac1c1afe769a73cb]... subsidiary” etc).
 
 ## Annotations
 
-[^key-8dcd94bf8555eb47ac1c1afe769a73cb]: Textual amendment: Words in s. 393(7) omitted (with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/13/section/29/2)
+[^c-8dcd94bf8555eb47ac1c1afe769a73cb]: Textual amendment: Words in s. 393(7) omitted (with effect in accordance with s. 29(8) of the amending Act) by virtue of [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/13/section/29/2)

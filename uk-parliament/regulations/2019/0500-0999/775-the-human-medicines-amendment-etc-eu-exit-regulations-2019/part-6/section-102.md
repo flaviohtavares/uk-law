@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Amendment of regulation 110 (revocation, variation and suspension of certificate of registration)[^key-6360865af19c8b92f3ad68fd51387865]
+## 102. Amendment of regulation 110 (revocation, variation and suspension of certificate of registration)[^c-6360865af19c8b92f3ad68fd51387865]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation 110 [^c23885051] is amended as follows.
 
-(2)[^key-5d8d0f27017929a773d22233d8aa021c] In paragraph (7) for “established in the European Union” substitute—
+(2)[^c-5d8d0f27017929a773d22233d8aa021c] In paragraph (7) for “established in the European Union” substitute—
 
 > established in—
 >
@@ -33,7 +33,7 @@ summary: ''
 
 .
 
-(2A)[^key-5f9ae30c2ef4826e430930e320db2c40] After paragraph (8A) insert—
+(2A)[^c-5f9ae30c2ef4826e430930e320db2c40] After paragraph (8A) insert—
 
 > (8B) Condition I is that the licensing authority thinks that the revocation, variation or suspension is necessary or expedient in light of the Protocol on Ireland/Northern Ireland in the withdrawal agreement.
 
@@ -43,10 +43,10 @@ summary: ''
 
 ## Annotations
 
-[^key-6360865af19c8b92f3ad68fd51387865]: Commencement: Reg. 102 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6360865af19c8b92f3ad68fd51387865]: Commencement: Reg. 102 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885051]: Marginal citation: Regulation 110 was amended by [S.I.2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-5d8d0f27017929a773d22233d8aa021c]: Textual amendment: Reg. 102(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 80(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/80/a)
+[^c-5d8d0f27017929a773d22233d8aa021c]: Textual amendment: Reg. 102(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 80(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/80/a)
 
-[^key-5f9ae30c2ef4826e430930e320db2c40]: Textual amendment: Reg. 102(2A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 80(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/80/b)
+[^c-5f9ae30c2ef4826e430930e320db2c40]: Textual amendment: Reg. 102(2A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 80(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/80/b)

@@ -33,7 +33,7 @@ Bees Act 1980
 
 An Act to make new provision for the control of pests and diseases affecting bees.
 
-\[20th March 1980\][^c914785][^key-cade25a67c48878835dba2940f210cce]
+\[20th March 1980\][^c914785][^c-cade25a67c48878835dba2940f210cce]
 
 ## 1. Control of pests and diseases affecting bees.
 
@@ -82,7 +82,7 @@ on or in which he has reasonable grounds for supposing there are or have been an
 
 (3) Any person who intentionally obstructs a person acting in exercise of the power of entry under this section shall be liable on summary conviction, or, in Scotland, on conviction by a court of summary jurisdiction, to a fine not exceeding level 3 on the standard scale[^c914786].
 
-## 2A. Fixed penalty notices and time limit for prosecution[^key-cf5df6432adf1101e7c266d30a8e7a07]
+## 2A. Fixed penalty notices and time limit for prosecution[^c-cf5df6432adf1101e7c266d30a8e7a07]
 
 *Extent: S*
 
@@ -165,13 +165,13 @@ Section 1(2).
 
 [^c914785]: Modification: Act: transfer of certain functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-cade25a67c48878835dba2940f210cce]: Modification: Act: certain functions transferred (31.12.2004) by [National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
+[^c-cade25a67c48878835dba2940f210cce]: Modification: Act: certain functions transferred (31.12.2004) by [National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
 
 [^M_F_daa128e1-bebf-4b93-95b6-6b3fcc45bfd4]: Textual amendment: Words substituted (E.W.) by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 37](https://www.legislation.gov.uk/ukpga/1982/48/section/37), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) (with [s. 47](https://www.legislation.gov.uk/ukpga/1982/48/section/47)) and (S.) by [Criminal Procedure (Scotland) Act 1975 (c. 21)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) (as inserted by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 54](https://www.legislation.gov.uk/ukpga/1982/48/section/54))
 
 [^c914786]: Textual amendment: Words substituted (E.W.S.) by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [s. 289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G)
 
-[^key-cf5df6432adf1101e7c266d30a8e7a07]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/1980/12/section/2A) inserted (S.) (7.3.2026) by [The Animal Health (Fixed Penalty Notices) (Scotland) Regulations 2026 (S.S.I. 2026/67)](https://www.legislation.gov.uk/ssi/2026/67), [regs. 1](https://www.legislation.gov.uk/ssi/2026/67/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2026/67/regulation/14/2)
+[^c-cf5df6432adf1101e7c266d30a8e7a07]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/1980/12/section/2A) inserted (S.) (7.3.2026) by [The Animal Health (Fixed Penalty Notices) (Scotland) Regulations 2026 (S.S.I. 2026/67)](https://www.legislation.gov.uk/ssi/2026/67), [regs. 1](https://www.legislation.gov.uk/ssi/2026/67/regulation/1), [14(2)](https://www.legislation.gov.uk/ssi/2026/67/regulation/14/2)
 
 [^c914787]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
 

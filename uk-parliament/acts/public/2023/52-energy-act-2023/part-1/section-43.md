@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Objective of a transport and storage administration[^key-052d47203864f96b950d6f8a371dfc75]
+## 43. Objective of a transport and storage administration[^c-052d47203864f96b950d6f8a371dfc75]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ of so much of that undertaking as it is appropriate to transfer for the purpose 
 
 ## Annotations
 
-[^key-052d47203864f96b950d6f8a371dfc75]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/52/section/43) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-052d47203864f96b950d6f8a371dfc75]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2023/52/section/43) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

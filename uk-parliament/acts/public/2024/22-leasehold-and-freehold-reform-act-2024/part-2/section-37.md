@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Enfranchisement or extension: new method for calculating price payable[^key-51e566b019c7649ab06804b770527d1c]
+## 37. Enfranchisement or extension: new method for calculating price payable[^c-51e566b019c7649ab06804b770527d1c]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51e566b019c7649ab06804b770527d1c]: Commencement: S. 37 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-51e566b019c7649ab06804b770527d1c]: Commencement: S. 37 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

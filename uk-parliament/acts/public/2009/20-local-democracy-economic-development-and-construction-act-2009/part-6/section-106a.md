@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106A. Section 106(1)(a) orders: consent requirements under other powers[^key-207032f58652e16bf2beed7fae2f26df]
+## 106A. Section 106(1)(a) orders: consent requirements under other powers[^c-207032f58652e16bf2beed7fae2f26df]
 
 *Extent: E+W*
 
@@ -42,11 +42,11 @@ summary: ''
 
 - (a) to make an order under section 104, 105 or 105A, or
 - (b) to make regulations under—
-  - (i) section 74 of the Local Government Finance Act 1988 (by virtue of subsection (8B) or (8C)[^key-a3b5e9f51b860d928eabc04e80d47e97] of that section), or
+  - (i) section 74 of the Local Government Finance Act 1988 (by virtue of subsection (8B) or (8C)[^c-a3b5e9f51b860d928eabc04e80d47e97] of that section), or
   - (ii) section 23(5) of the Local Government Act 2003.
 
 ## Annotations
 
-[^key-207032f58652e16bf2beed7fae2f26df]: Textual amendment: S. 106A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 14(6)](https://www.legislation.gov.uk/ukpga/2016/1/section/14/6), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-207032f58652e16bf2beed7fae2f26df]: Textual amendment: S. 106A inserted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 14(6)](https://www.legislation.gov.uk/ukpga/2016/1/section/14/6), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
 
-[^key-a3b5e9f51b860d928eabc04e80d47e97]: Textual amendment: Words in s. 106A(5)(b) substituted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 14(10)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/14/10/b), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-a3b5e9f51b860d928eabc04e80d47e97]: Textual amendment: Words in s. 106A(5)(b) substituted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 14(10)(b)](https://www.legislation.gov.uk/ukpga/2026/23/section/14/10/b), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

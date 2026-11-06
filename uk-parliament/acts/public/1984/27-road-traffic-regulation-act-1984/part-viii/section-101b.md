@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 101B. Representations and appeals[^key-39201a7e717d4a5c868bfe0c03f6a375][^c19152861]
+## 101B. Representations and appeals[^c-39201a7e717d4a5c868bfe0c03f6a375][^c19152861]
 
 *Extent: E+W+S*
 
@@ -52,7 +52,7 @@ and making it a criminal offence triable summarily and punishable with a fine no
 
 ## Annotations
 
-[^key-39201a7e717d4a5c868bfe0c03f6a375]: Modification: [Ss. 101-103](https://www.legislation.gov.uk/ukpga/1984/27/section/101) applied (15.3.2018) by [City of London Corporation (Open Spaces) Act 2018 (c. i)](https://www.legislation.gov.uk/ukla/2018/1), [s. 13(5)(b)](https://www.legislation.gov.uk/ukla/2018/1/section/13/5/b) (with [ss. 3](https://www.legislation.gov.uk/ukla/2018/1/section/3), [4(2)](https://www.legislation.gov.uk/ukla/2018/1/section/4/2))
+[^c-39201a7e717d4a5c868bfe0c03f6a375]: Modification: [Ss. 101-103](https://www.legislation.gov.uk/ukpga/1984/27/section/101) applied (15.3.2018) by [City of London Corporation (Open Spaces) Act 2018 (c. i)](https://www.legislation.gov.uk/ukla/2018/1), [s. 13(5)(b)](https://www.legislation.gov.uk/ukla/2018/1/section/13/5/b) (with [ss. 3](https://www.legislation.gov.uk/ukla/2018/1/section/3), [4(2)](https://www.legislation.gov.uk/ukla/2018/1/section/4/2))
 
 [^c19152861]: Textual amendment: S. 101B inserted (E.W.) (26.10.2006 for W. and 23.7.2007 for E.) by [Traffic Management Act 2004 (c. 18)](https://www.legislation.gov.uk/ukpga/2004/18), [ss. 91](https://www.legislation.gov.uk/ukpga/2004/18/section/91), [99](https://www.legislation.gov.uk/ukpga/2004/18/section/99), [Sch. 11 para. 3(2)](https://www.legislation.gov.uk/ukpga/2004/18/schedule/11/paragraph/3/2) (with [s. 38](https://www.legislation.gov.uk/ukpga/2004/18/section/38)); [S.I. 2006/2826](https://www.legislation.gov.uk/uksi/2006/2826), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2006/2826/article/2/2/c); [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [art. 2(1)(2)(i)](https://www.legislation.gov.uk/uksi/2007/2053/article/2/1/2/i)
 

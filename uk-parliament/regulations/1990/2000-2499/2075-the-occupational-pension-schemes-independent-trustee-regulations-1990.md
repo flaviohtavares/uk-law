@@ -45,63 +45,63 @@ Coming into force
 
 The Secretary of State for Social Security, in exercise of his powers under sections 166(1) to (3) and 168(1) of, and Schedule 20 to, the Social Security Act 1975[^f00001], sections 57C(3)(c), 57D(9) and (10) and 66(2) of the Social Security Pensions Act 1975[^f00002] and section 21(3) of the Social Security Act 1990[^f00003], and of all other powers enabling him in that behalf, not being required to refer the proposals in respect of these Regulations to the Occupational Pensions Board because this instrument contains only regulations made consequential upon paragraph 1 of Schedule 4 to the Social Security Act 1990 and is made before the end of the period of 6 months beginning with the coming into force of that enactment[^f00004], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-0a91cf779fcea5f88ac659b365432bcc]
+## 1. Citation and commencement[^c-0a91cf779fcea5f88ac659b365432bcc]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Independent Trustee) Regulations 1990.
 
 (2) These Regulations come into force on 12th November 1990.
 
-## 2. Additional requirement for “independent trustee”[^key-2e8f6a4da5fa0fa2c343aacfc0779015]
+## 2. Additional requirement for “independent trustee”[^c-2e8f6a4da5fa0fa2c343aacfc0779015]
 
-(1) For the purposes of section 119(2) of the Pension Schemes Act 1993[^key-d492b5e29373b4875009d88ace40902b], a person is “independent” only if he satisfies the requirements of paragraphs (2) and (3) of this regulation as well as the requirements of section 119(3)(a) and (b) of that Act.
+(1) For the purposes of section 119(2) of the Pension Schemes Act 1993[^c-d492b5e29373b4875009d88ace40902b], a person is “independent” only if he satisfies the requirements of paragraphs (2) and (3) of this regulation as well as the requirements of section 119(3)(a) and (b) of that Act.
 
-(2) This paragraph requires that the person has not provided services to the trustees or managers of the scheme, or the employer, in relation to the scheme. This requirement is, however, satisfied if the last occasion on which the person provided services was more than 3 years before section 119 of the Pension Schemes Act 1993[^key-f42b24464022665b96cb7761e0213a86] started to apply in relation to the scheme.
+(2) This paragraph requires that the person has not provided services to the trustees or managers of the scheme, or the employer, in relation to the scheme. This requirement is, however, satisfied if the last occasion on which the person provided services was more than 3 years before section 119 of the Pension Schemes Act 1993[^c-f42b24464022665b96cb7761e0213a86] started to apply in relation to the scheme.
 
 (3) This paragraph requires that the person is neither connected with, nor an associate of—
 
 - (a) a person who has an interest in the assets of the employer or of the scheme, otherwise than as trustee of the scheme; or
 - (b) a person to whom paragraph (2) of this regulation applies.
 
-## 3. Centralised schemes[^key-84137dd10ddf8b6d2632945b6ec7f3c9]
+## 3. Centralised schemes[^c-84137dd10ddf8b6d2632945b6ec7f3c9]
 
-(1) Sections 119 to 122 of the Pension Schemes Act 1993[^key-1f1db8bd0966922160e1bc5ace3374b0] are modified as described in this regulation in their application to any occupational pension scheme which applies to earners in employments under different employers (“centralised schemes”).
+(1) Sections 119 to 122 of the Pension Schemes Act 1993[^c-1f1db8bd0966922160e1bc5ace3374b0] are modified as described in this regulation in their application to any occupational pension scheme which applies to earners in employments under different employers (“centralised schemes”).
 
-(2) Section 119 of the Pension Schemes Act 1993[^key-6315a148defa57ab1e5d18a4ef31862e] applies in relation to a centralised scheme only if an insolvency practitioner, or the official receiver, starts to act in relation to any employer of persons in the description or category of employment to which the scheme relates and—
+(2) Section 119 of the Pension Schemes Act 1993[^c-6315a148defa57ab1e5d18a4ef31862e] applies in relation to a centralised scheme only if an insolvency practitioner, or the official receiver, starts to act in relation to any employer of persons in the description or category of employment to which the scheme relates and—
 
 - (a) the employer concerned has power to appoint or remove any trustee of the scheme; or
 - (b) the employer concerned is a trustee of the scheme.
 
-(3) Where section 119 of the Pension Schemes Act 1993 applies in relation to a centralised scheme, references to “the employer” in that section and in sections 120 to 122 of that Act[^key-e4d986e1aa6c989806d17ef6082a34b2] are to be treated as references to the employer in relation to whom the practitioner or official receiver is acting.
+(3) Where section 119 of the Pension Schemes Act 1993 applies in relation to a centralised scheme, references to “the employer” in that section and in sections 120 to 122 of that Act[^c-e4d986e1aa6c989806d17ef6082a34b2] are to be treated as references to the employer in relation to whom the practitioner or official receiver is acting.
 
-(4) Where section 119 of the Pension Schemes Act 1993 applies in relation to a centralised scheme, it shall not cease to do so by virtue of subsection (6)(a) of that section[^key-3314188adb70c70c80fc403f9f1825da] unless the power to appoint or remove any trustee of the scheme is transferred to the person other than the employer concerned, or to any person who is “independent” for the purposes of subsection (2) of that section.
+(4) Where section 119 of the Pension Schemes Act 1993 applies in relation to a centralised scheme, it shall not cease to do so by virtue of subsection (6)(a) of that section[^c-3314188adb70c70c80fc403f9f1825da] unless the power to appoint or remove any trustee of the scheme is transferred to the person other than the employer concerned, or to any person who is “independent” for the purposes of subsection (2) of that section.
 
-## 4. Paid-up schemes[^key-2d7fb9f12cd034dcf060ed556adb5abf]
+## 4. Paid-up schemes[^c-2d7fb9f12cd034dcf060ed556adb5abf]
 
-(1) Sections 119 to 122 of the Pension Schemes Act 1993[^key-7caef3774ff0f6c03149c022771f2aca] are modified as described in this regulation in their application to any occupational pension scheme of which there are no members who are in pensionable service under the scheme, as defined in section 70 of that Act[^key-c3a5aab120a3d3071e031b124f4eb8fd] (“paid-up schemes”).
+(1) Sections 119 to 122 of the Pension Schemes Act 1993[^c-7caef3774ff0f6c03149c022771f2aca] are modified as described in this regulation in their application to any occupational pension scheme of which there are no members who are in pensionable service under the scheme, as defined in section 70 of that Act[^c-c3a5aab120a3d3071e031b124f4eb8fd] (“paid-up schemes”).
 
-(2) Section 119 of the Pension Schemes Act 1993[^key-7d1dfbefcfbd64e79297c4f7b46ea107] applies in relation to a paid-up scheme only if—
+(2) Section 119 of the Pension Schemes Act 1993[^c-7d1dfbefcfbd64e79297c4f7b46ea107] applies in relation to a paid-up scheme only if—
 
 - (a) the employer has power to appoint or remove any trustee of the scheme; or
 - (b) the employer is a trustee of the scheme.
 
-## 5. Cases where a partnership is the employer[^key-60c3b487e9f74a6a1bcf4a47662aca59]
+## 5. Cases where a partnership is the employer[^c-60c3b487e9f74a6a1bcf4a47662aca59]
 
-(1) Sections 119 to 122 of the Pension Schemes Act 1993[^key-570a7857d86d8700ed8c630780e42959] are modified as described in this regulation in their application to any case where—
+(1) Sections 119 to 122 of the Pension Schemes Act 1993[^c-570a7857d86d8700ed8c630780e42959] are modified as described in this regulation in their application to any case where—
 
 - (a) a partnership is the employer, or one of the employers, in relation to an occupational pension scheme;
 - (b) the partnership is insolvent; and
 - (c) the courts of England and Wales have jurisdiction to wind up the insolvent partnership[^f00006].
 
-(2) Section 119(1) of the Pension Schemes Act 1993[^key-2e25217a33e20401a5dfe38bb712e884] applies in relation to the scheme—
+(2) Section 119(1) of the Pension Schemes Act 1993[^c-2e25217a33e20401a5dfe38bb712e884] applies in relation to the scheme—
 
 - (a) if a person commences to act as an insolvency practitioner in relation to the insolvent partnership; or
 - (b) if the official receiver becomes the liquidator or provisional liquidator of the insolvent partnership.
 
-(3) Where section 119 of the Pension Schemes Act 1993[^key-44a1e24c013ab8b90d3257563c8abe0b] applies in relation to the scheme, references to “a company” are to be treated as including any insolvent partnership that the courts in England and Wales have jurisdiction to wind up.
+(3) Where section 119 of the Pension Schemes Act 1993[^c-44a1e24c013ab8b90d3257563c8abe0b] applies in relation to the scheme, references to “a company” are to be treated as including any insolvent partnership that the courts in England and Wales have jurisdiction to wind up.
 
-## 6. Schemes to which sections 57C and 57D do not apply[^key-3029fe4ea208c960435d46a9deb8dba5]
+## 6. Schemes to which sections 57C and 57D do not apply[^c-3029fe4ea208c960435d46a9deb8dba5]
 
-(1) Sections 119 to 122 of the Pension Schemes Act 1993[^key-6b9063899abed8523b2dc9f12b6df8fb] shall not apply in relation to occupational pension schemes of a description prescribed by this regulation.
+(1) Sections 119 to 122 of the Pension Schemes Act 1993[^c-6b9063899abed8523b2dc9f12b6df8fb] shall not apply in relation to occupational pension schemes of a description prescribed by this regulation.
 
 (2) Sections 119 to 122 of the Pension Schemes Act 1993, do not apply to a scheme of which each member is a trustee. For this purpose, “member” means any employee or former employee of the employer who has rights under the scheme arising from that employment.
 
@@ -112,11 +112,11 @@ The Secretary of State for Social Security, in exercise of his powers under sect
 
 (4) Sections 119 to 122 of the Pension Schemes Act 1993 do not apply to any scheme under which all the benefits to be provided are secured by means of insurance policies that are specifically allocated to the provision of benefits for, or in respect of, particular members.
 
-## 7. Transitional provision and saving[^key-636c4822c39b4d6d057872cb242a0dae]
+## 7. Transitional provision and saving[^c-636c4822c39b4d6d057872cb242a0dae]
 
 (1) This regulation is made in connection with the coming into force of paragraph 1 of Schedule 4 to the Social Security Act 1990 (which inserted sections 57C and 57D into, the Social Security Pensions Act 1975)[^f00007].
 
-(2) Sections 119 to 122 of the Pension Schemes Act 1993[^key-a5101421bf1b5cb676834c7b3d31a581] do not apply where an insolvency practitioner or the official receiver started to act in relation to the employer before 12th November 1990.
+(2) Sections 119 to 122 of the Pension Schemes Act 1993[^c-a5101421bf1b5cb676834c7b3d31a581] do not apply where an insolvency practitioner or the official receiver started to act in relation to the employer before 12th November 1990.
 
 Signed by authority of the Secretary of State for Social Security.
 
@@ -156,48 +156,48 @@ The proposals in respect of these Regulations were not referred to the Occupatio
 
 [^f00004]: Footnote: See section 61(2) of the Social Security Pensions Act 1975 and section 61(5) of the Social Security Act [1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50). Section 61(5) of the 1986 Act was amended by paragraph 12(3) of Schedule 8 to the Social Security Act [1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24).
 
-[^key-0a91cf779fcea5f88ac659b365432bcc]: Commencement: Reg. 1 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
+[^c-0a91cf779fcea5f88ac659b365432bcc]: Commencement: Reg. 1 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
 
-[^key-2e8f6a4da5fa0fa2c343aacfc0779015]: Commencement: Reg. 2 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
+[^c-2e8f6a4da5fa0fa2c343aacfc0779015]: Commencement: Reg. 2 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
 
-[^key-d492b5e29373b4875009d88ace40902b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/2/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/2)
+[^c-d492b5e29373b4875009d88ace40902b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/2/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(2)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/2)
 
-[^key-f42b24464022665b96cb7761e0213a86]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/2/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/3)
+[^c-f42b24464022665b96cb7761e0213a86]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/2/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/3)
 
-[^key-84137dd10ddf8b6d2632945b6ec7f3c9]: Commencement: Reg. 3 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
+[^c-84137dd10ddf8b6d2632945b6ec7f3c9]: Commencement: Reg. 3 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
 
-[^key-1f1db8bd0966922160e1bc5ace3374b0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/4)
+[^c-1f1db8bd0966922160e1bc5ace3374b0]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/4)
 
-[^key-6315a148defa57ab1e5d18a4ef31862e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/4) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/3)
+[^c-6315a148defa57ab1e5d18a4ef31862e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/2)[(3)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/4) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/3)
 
-[^key-e4d986e1aa6c989806d17ef6082a34b2]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/3) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(5)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/5)
+[^c-e4d986e1aa6c989806d17ef6082a34b2]: Textual amendment: Words in [reg. 3(3)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/3) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(5)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/5)
 
-[^key-3314188adb70c70c80fc403f9f1825da]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/4) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(6)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/6)
+[^c-3314188adb70c70c80fc403f9f1825da]: Textual amendment: Words in [reg. 3(4)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/3/4) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(6)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/6)
 
-[^key-2d7fb9f12cd034dcf060ed556adb5abf]: Commencement: Reg. 4 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
+[^c-2d7fb9f12cd034dcf060ed556adb5abf]: Commencement: Reg. 4 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
 
-[^key-7caef3774ff0f6c03149c022771f2aca]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/4/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/4)
+[^c-7caef3774ff0f6c03149c022771f2aca]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/4/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/4)
 
-[^key-c3a5aab120a3d3071e031b124f4eb8fd]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/4/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(7)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/7)
+[^c-c3a5aab120a3d3071e031b124f4eb8fd]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/4/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(7)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/7)
 
-[^key-7d1dfbefcfbd64e79297c4f7b46ea107]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/4/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/3)
+[^c-7d1dfbefcfbd64e79297c4f7b46ea107]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/4/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/3)
 
-[^key-60c3b487e9f74a6a1bcf4a47662aca59]: Commencement: Reg. 5 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
+[^c-60c3b487e9f74a6a1bcf4a47662aca59]: Commencement: Reg. 5 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
 
-[^key-570a7857d86d8700ed8c630780e42959]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/5/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/4)
+[^c-570a7857d86d8700ed8c630780e42959]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/5/1) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/4)
 
 [^f00006]: Footnote: See Part V of the Insolvency Act [1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45) and the Insolvent Partnerships Order 1986 (S.I. [1986/2142](https://www.legislation.gov.uk/uksi/1986/2142)).
 
-[^key-2e25217a33e20401a5dfe38bb712e884]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/5/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(8)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/8)
+[^c-2e25217a33e20401a5dfe38bb712e884]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/5/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(8)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/8)
 
-[^key-44a1e24c013ab8b90d3257563c8abe0b]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/5/3) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/3)
+[^c-44a1e24c013ab8b90d3257563c8abe0b]: Textual amendment: Words in [reg. 5(3)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/5/3) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(3)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/3)
 
-[^key-3029fe4ea208c960435d46a9deb8dba5]: Commencement: Reg. 6 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
+[^c-3029fe4ea208c960435d46a9deb8dba5]: Commencement: Reg. 6 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
 
-[^key-6b9063899abed8523b2dc9f12b6df8fb]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/6/3)[(4)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/6/4) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/4)
+[^c-6b9063899abed8523b2dc9f12b6df8fb]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/6/2)[(3)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/6/3)[(4)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/6/4) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(4)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/4)
 
-[^key-636c4822c39b4d6d057872cb242a0dae]: Commencement: Reg. 7 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
+[^c-636c4822c39b4d6d057872cb242a0dae]: Commencement: Reg. 7 in force at 12.11.1990, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/1/2)
 
 [^f00007]: Footnote: See S.I. [1990/1942](https://www.legislation.gov.uk/uksi/1990/1942).
 
-[^key-a5101421bf1b5cb676834c7b3d31a581]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/7/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(9)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/9)
+[^c-a5101421bf1b5cb676834c7b3d31a581]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/1990/2075/regulation/7/2) substituted (12.5.1994) by [The Occupational and Personal Pension Schemes (Consequential Amendments) Regulations 1994 (S.I. 1994/1062)](https://www.legislation.gov.uk/uksi/1994/1062), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1994/1062/regulation/1/2), [Sch. 2 para. 26(9)](https://www.legislation.gov.uk/uksi/1994/1062/schedule/2/paragraph/26/9)

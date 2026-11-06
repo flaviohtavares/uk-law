@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Provisions supplementary to s. 10, etc.[^key-1890eefa90a8d9ffb75addcf6a91acf2]
+## 11. Provisions supplementary to s. 10, etc.[^c-1890eefa90a8d9ffb75addcf6a91acf2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1890eefa90a8d9ffb75addcf6a91acf2]: Textual amendment: S. 11 repealed (19.7.2006 for specified purposes, 1.8.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [23](https://www.legislation.gov.uk/uksi/2006/1914/article/23)
+[^c-1890eefa90a8d9ffb75addcf6a91acf2]: Textual amendment: S. 11 repealed (19.7.2006 for specified purposes, 1.8.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [23](https://www.legislation.gov.uk/uksi/2006/1914/article/23)

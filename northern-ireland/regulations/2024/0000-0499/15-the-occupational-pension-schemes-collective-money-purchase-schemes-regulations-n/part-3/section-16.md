@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Continuity strategy: administration charges[^key-76c5525d4ff4607549ecde02e716415f]
+## 16. Continuity strategy: administration charges[^c-76c5525d4ff4607549ecde02e716415f]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76c5525d4ff4607549ecde02e716415f]: Commencement: Reg. 16 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-76c5525d4ff4607549ecde02e716415f]: Commencement: Reg. 16 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)

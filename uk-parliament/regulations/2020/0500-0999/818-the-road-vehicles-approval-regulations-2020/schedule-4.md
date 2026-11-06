@@ -24,7 +24,7 @@ Regulation 29(1)
 
 ### PART 1 — Offences
 
-#### 1. Offences and defences[^key-d8969a2e1e3c66820447a0fa3fc3ecfc]
+#### 1. Offences and defences[^c-d8969a2e1e3c66820447a0fa3fc3ecfc]
 
 (1) A person commits an offence if—
 
@@ -32,7 +32,7 @@ Regulation 29(1)
 - (b) the trailer is supplied for use on a road, and
 - (c) none of the conditions specified in sub-paragraph (2) is met.
 
-(2)[^key-c51e228e5b9f88ecae6d5cb6b5e3c4cc] The specified conditions are that—
+(2)[^c-c51e228e5b9f88ecae6d5cb6b5e3c4cc] The specified conditions are that—
 
 - (a) where the trailer is to be kept or normally kept at a place in Great Britain, one of the following has effect with respect to the trailer—
   - (i) a certificate of conformity issued under regulation 16(7) relating to—
@@ -62,10 +62,10 @@ Regulation 29(1)
 
 (5) A person commits an offence if that person—
 
-- (a) contravenes any other prohibition in these Regulations, the Type Approval Regulation , the EU Type Approval Regulation[^key-e84952713b42dde4ebacaeacaf118990] or the legislation listed in Schedule 5, or
-- (b) fails to comply with any requirement or obligation in these Regulations, the Type Approval Regulation , the EU Type Approval Regulation[^key-e88e3e92411e1d85d17cf20a70d00d51] or the legislation listed in Schedule 5.
+- (a) contravenes any other prohibition in these Regulations, the Type Approval Regulation , the EU Type Approval Regulation[^c-e84952713b42dde4ebacaeacaf118990] or the legislation listed in Schedule 5, or
+- (b) fails to comply with any requirement or obligation in these Regulations, the Type Approval Regulation , the EU Type Approval Regulation[^c-e88e3e92411e1d85d17cf20a70d00d51] or the legislation listed in Schedule 5.
 
-(5A)[^key-575ee8055660c640d59755f591421c70] It is a defence for a person charged with an offence under sub-paragraph (1), to show that, at the time when the trailer was supplied—
+(5A)[^c-575ee8055660c640d59755f591421c70] It is a defence for a person charged with an offence under sub-paragraph (1), to show that, at the time when the trailer was supplied—
 
 - (a) if the condition in sub-paragraph (2)(a) is not satisfied, there was reasonable cause to believe that the trailer would not be kept, or normally kept, at a place in Great Britain, or
 - (b) if the condition in sub-paragraph (2)(b) is not satisfied, there was reasonable cause to believe that the trailer would not be kept, or normally kept, at a place in Northern Ireland.
@@ -99,12 +99,12 @@ Regulation 29(1)
 - “**relevant vehicle**” has the meaning given in regulation 23(8);
 - “**statutory inspection or test**” means an inspection or test carried out under or pursuant to—
   - (a) the Type Approval Regulation,
-  - (ab) the EU Type Approval Regulation,[^key-a524fdd2b17f3faf6fdd6061e048276e]
+  - (ab) the EU Type Approval Regulation,[^c-a524fdd2b17f3faf6fdd6061e048276e]
   - (b) these Regulations,
   - (c) the Goods Vehicles (Plating and Testing) Regulations 1988, or
   - (d) the Goods Vehicles (Testing) Regulations (Northern Ireland) 2003.
 
-#### 2. Offences by bodies corporate and partnerships[^key-6c3b692376efccea7ea191708722f75e]
+#### 2. Offences by bodies corporate and partnerships[^c-6c3b692376efccea7ea191708722f75e]
 
 (1) If an offence under these Regulations committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to neglect on the part of, an officer of the body corporate, or a person purporting to act as an officer of the body corporate, that officer or person (as well as the body corporate) commits the offence and is liable to be proceeded against and punished accordingly.
 
@@ -121,7 +121,7 @@ the partner (as well as the partnership) commits the offence and is liable to be
 
 ### PART 2 — Penalties
 
-#### 3. Criminal penalties[^key-dd02ce3816101df5f62e78c1772ef916]
+#### 3. Criminal penalties[^c-dd02ce3816101df5f62e78c1772ef916]
 
 (1) A person who commits an offence under these Regulations is punishable on summary conviction—
 
@@ -133,7 +133,7 @@ the partner (as well as the partnership) commits the offence and is liable to be
 - (a) the enforcement authority has required a person to pay a penalty in respect of that offence under paragraph 4, and
 - (b) that penalty has been paid to the enforcement authority.
 
-#### 4. Civil penalties[^key-1453fb4e4816ea2f1715bb4ffdf643f3]
+#### 4. Civil penalties[^c-1453fb4e4816ea2f1715bb4ffdf643f3]
 
 (1) The enforcement authority may require a person to pay a penalty if the enforcement authority is satisfied, on a balance of probabilities, that the person has committed an offence mentioned in paragraph 1(1), (3), (4) or (5).
 
@@ -146,7 +146,7 @@ the partner (as well as the partnership) commits the offence and is liable to be
 
 (4) The penalty is payable to the enforcement authority on demand.
 
-#### 5. Notification of penalty decision[^key-fc348f12d8b165f89a73bcc89b29819b]
+#### 5. Notification of penalty decision[^c-fc348f12d8b165f89a73bcc89b29819b]
 
 (1) If the enforcement authority decides to require a person to pay a penalty under these Regulations, the enforcement authority must give the person a penalty notice.
 
@@ -161,7 +161,7 @@ the partner (as well as the partnership) commits the offence and is liable to be
 - (g) include an explanation of the steps that the person may take if the person objects to the penalty (including specifying the manner and form in which any notice of objection must be given to the enforcement authority), and
 - (h) include an explanation of the steps the enforcement authority may take to recover any unpaid penalty.
 
-#### 6. Objection to penalty decision[^key-d2b1b4e7b7215c95d70839fa78cefde7]
+#### 6. Objection to penalty decision[^c-d2b1b4e7b7215c95d70839fa78cefde7]
 
 (1) The recipient of a penalty notice (the “recipient”) may object to the penalty notice by giving a notice of objection to the enforcement authority.
 
@@ -193,7 +193,7 @@ the partner (as well as the partnership) commits the offence and is liable to be
 
 (7) A notification under sub-paragraph (4) notifying the recipient that the enforcement authority has decided to cancel the penalty must state the enforcement authority's reasons for the decision under sub-paragraph (3).
 
-#### 7. Civil penalties: appeals[^key-f1e4f8e07118cd79db84e0cf4d634634]
+#### 7. Civil penalties: appeals[^c-f1e4f8e07118cd79db84e0cf4d634634]
 
 (1) A person (the “appellant”) may appeal to the court against a decision to require the person to pay a penalty under these Regulations.
 
@@ -231,7 +231,7 @@ the partner (as well as the partnership) commits the offence and is liable to be
 
 ### PART 3 — Enforcement and other matters
 
-#### 8. Enforcement of penalty decision[^key-6aebed755156e6377145423e4a45ebc3]
+#### 8. Enforcement of penalty decision[^c-6aebed755156e6377145423e4a45ebc3]
 
 (1) This paragraph applies where a sum is payable to the enforcement authority as a penalty under these Regulations.
 
@@ -246,7 +246,7 @@ the partner (as well as the partnership) commits the offence and is liable to be
 - (a) in relation to England and Wales, to be treated for the purposes of section 98 of the Courts Act 2003 [^c24306301] (register of judgments and orders etc.) as if it were a judgment entered in the county court;
 - (b) in relation to Northern Ireland, to be treated for the purposes of article 116 of the Judgments Enforcement (Northern Ireland) Order 1981 [^c24306311] (register of judgments) as if it were a judgment in respect of which an application has been accepted under article 22 or 23(1) of that Order.
 
-#### 9. Obstruction of officers and false statements[^key-2d0b1ec4ca4ac1834bcc2ca277d39666]
+#### 9. Obstruction of officers and false statements[^c-2d0b1ec4ca4ac1834bcc2ca277d39666]
 
 (1) A person must not—
 
@@ -259,7 +259,7 @@ the partner (as well as the partnership) commits the offence and is liable to be
 - (a) make any statement which the person knows is false in a material particular, or
 - (b) recklessly make a statement which is false in a material particular.
 
-#### 10. Powers of search, etc.[^key-4c24ae4bc8fe1563120dad2ad4cade90]
+#### 10. Powers of search, etc.[^c-4c24ae4bc8fe1563120dad2ad4cade90]
 
 (1) Officers may exercise any of the powers set out in sub-paragraph (2) at all reasonable hours provided the officers—
 
@@ -320,7 +320,7 @@ the justice may by warrant under the justice's hand, which continues in force fo
 - (b) in Scotland, a sheriff or summary sheriff, and
 - (c) in Northern Ireland, a lay magistrate.
 
-#### 11. Powers of customs officers to detain goods[^key-8f67c2ef0b895da286ba3c08d95a2d6a]
+#### 11. Powers of customs officers to detain goods[^c-8f67c2ef0b895da286ba3c08d95a2d6a]
 
 (1) An Officer of Revenue and Customs may, for the purpose of facilitating the exercise by the enforcement authority, or duly authorised officer of the authority, of any powers conferred on the authority or officer by these Regulations seize any imported relevant products or any records, and detain them for not more than two working days.
 
@@ -330,7 +330,7 @@ the justice may by warrant under the justice's hand, which continues in force fo
 
 (4) In sub-paragraph (1) the reference to two working days is a reference to a period of forty-eight hours calculated from the time when the goods in question are seized, but disregarding so much of any period as falls on a Saturday or Sunday or on Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 [^c24306321] in the part of the United Kingdom where the goods are seized.
 
-#### 12. Applications for the release of detained items[^key-8f3036c39e71fa65ac7a8344992c9929]
+#### 12. Applications for the release of detained items[^c-8f3036c39e71fa65ac7a8344992c9929]
 
 (1) Any person having an interest in any relevant products or records detained for the time being under paragraph 10 may apply for an order requiring any item so detained to be released to the applicant or another person.
 
@@ -353,7 +353,7 @@ the justice may by warrant under the justice's hand, which continues in force fo
 
 (5) In England and Wales or in Northern Ireland, an order so made may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c24306341] or article 146 of the Magistrates' Courts (Northern Ireland) Order 1981 [^c24306351] (statement of case)).
 
-#### 13. Compensation for seizure and detention[^key-3a56ac9694934f4685de3b49eecdbf53]
+#### 13. Compensation for seizure and detention[^c-3a56ac9694934f4685de3b49eecdbf53]
 
 (1) Where an officer exercises any power under paragraph 10 to seize and detain any relevant products or records, the enforcement authority is liable to pay compensation to any person having an interest in the item seized and detained in respect of any loss or damage caused by the exercise of the power if—
 
@@ -365,13 +365,13 @@ the justice may by warrant under the justice's hand, which continues in force fo
 - (a) in England and Wales or Northern Ireland, in accordance with the Arbitration Act 1996 [^c24306361], or
 - (b) in Scotland, in accordance with the Arbitration (Scotland) Act 2010 [^c24306371].
 
-#### 14. Recovery of the expenses of enforcement[^key-76a1cf8e3dd079d4a10bc25376c08c30]
+#### 14. Recovery of the expenses of enforcement[^c-76a1cf8e3dd079d4a10bc25376c08c30]
 
 (1) This paragraph applies where a court convicts a person of an offence in respect of a contravention of any provision of these Regulations in relation to any relevant products or records.
 
 (2) The court may (in addition to any other order it may make as to costs and expenses) order the person convicted to reimburse the enforcement authority for any expenditure which has been or may be incurred by that authority in connection with any seizure or detention by or on behalf of the authority of the relevant products or records.
 
-#### 15. Power of the Commissioners for Her Majesty's Revenue and Customs to disclose information[^key-8d3553522a9df2d28806dd2018295678]
+#### 15. Power of the Commissioners for Her Majesty's Revenue and Customs to disclose information[^c-8d3553522a9df2d28806dd2018295678]
 
 (1) If they think it appropriate to do so for the purpose of facilitating the exercise by any person to whom sub-paragraph (2) applies of any functions conferred on that person by any provisions of these Regulations, the Commissioners for Her Majesty's Revenue and Customs may authorise the disclosure to that person of any information obtained for the purposes of the exercise by the Commissioners of their functions in relation to imported goods.
 
@@ -381,58 +381,58 @@ the justice may by warrant under the justice's hand, which continues in force fo
 
 (4) Information may be disclosed to a person under sub-paragraph (1) whether or not the disclosure of the information has been requested by or on behalf of that person.
 
-#### 16. Savings for certain privileges[^key-35669d09d722bef998a85f3835f38426]
+#### 16. Savings for certain privileges[^c-35669d09d722bef998a85f3835f38426]
 
 Nothing in these Regulations is to be taken as requiring any person—
 
 - (a) to produce any records if that person would be entitled to refuse to produce those records in any proceedings in any court on the grounds that they are the subject of legal professional privilege or, in Scotland, a claim of confidential communications, or as authorising any person to take possession of any records which are in the possession of a person who would be so entitled, or
 - (b) to answer any question or give any information if to do so would incriminate that person or that person's spouse or civil partner.
 
-#### 17. Savings for civil rights[^key-0b8ae5dcf9df2d5235cbabc8d3dba8ad]
+#### 17. Savings for civil rights[^c-0b8ae5dcf9df2d5235cbabc8d3dba8ad]
 
 A contract for the supply of relevant products is not void or unenforceable by reason only of a contravention of any provision of these Regulations.
 
 ## Annotations
 
-[^key-d8969a2e1e3c66820447a0fa3fc3ecfc]: Commencement: Sch. 4 para. 1 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-d8969a2e1e3c66820447a0fa3fc3ecfc]: Commencement: Sch. 4 para. 1 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
 
-[^key-c51e228e5b9f88ecae6d5cb6b5e3c4cc]: Textual amendment: [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/a)
+[^c-c51e228e5b9f88ecae6d5cb6b5e3c4cc]: Textual amendment: [Sch. 4 para. 1(2)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/2) substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/a)
 
-[^key-e84952713b42dde4ebacaeacaf118990]: Textual amendment: Words in [Sch. 4 para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/5/a) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/b)
+[^c-e84952713b42dde4ebacaeacaf118990]: Textual amendment: Words in [Sch. 4 para. 1(5)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/5/a) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/b)
 
-[^key-e88e3e92411e1d85d17cf20a70d00d51]: Textual amendment: Words in [Sch. 4 para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/5/b) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/b)
+[^c-e88e3e92411e1d85d17cf20a70d00d51]: Textual amendment: Words in [Sch. 4 para. 1(5)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/5/b) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(b)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/b)
 
-[^key-575ee8055660c640d59755f591421c70]: Textual amendment: [Sch. 4 para. 1(5A)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/5A)[(5B)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/5B) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/c)
+[^c-575ee8055660c640d59755f591421c70]: Textual amendment: [Sch. 4 para. 1(5A)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/5A)[(5B)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/5B) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(c)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/c)
 
-[^key-a524fdd2b17f3faf6fdd6061e048276e]: Textual amendment: Words in [Sch. 4 para. 1(9)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/9) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/d)
+[^c-a524fdd2b17f3faf6fdd6061e048276e]: Textual amendment: Words in [Sch. 4 para. 1(9)](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/1/9) inserted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [20(d)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/20/d)
 
-[^key-6c3b692376efccea7ea191708722f75e]: Commencement: Sch. 4 para. 2 in force at 1.9.2020, see reg. 1(b)
+[^c-6c3b692376efccea7ea191708722f75e]: Commencement: Sch. 4 para. 2 in force at 1.9.2020, see reg. 1(b)
 
-[^key-dd02ce3816101df5f62e78c1772ef916]: Commencement: Sch. 4 para. 3 in force at 1.9.2020, see reg. 1(b)
+[^c-dd02ce3816101df5f62e78c1772ef916]: Commencement: Sch. 4 para. 3 in force at 1.9.2020, see reg. 1(b)
 
-[^key-1453fb4e4816ea2f1715bb4ffdf643f3]: Commencement: Sch. 4 para. 4 in force at 1.9.2020, see reg. 1(b)
+[^c-1453fb4e4816ea2f1715bb4ffdf643f3]: Commencement: Sch. 4 para. 4 in force at 1.9.2020, see reg. 1(b)
 
-[^key-fc348f12d8b165f89a73bcc89b29819b]: Commencement: Sch. 4 para. 5 in force at 1.9.2020, see reg. 1(b)
+[^c-fc348f12d8b165f89a73bcc89b29819b]: Commencement: Sch. 4 para. 5 in force at 1.9.2020, see reg. 1(b)
 
-[^key-d2b1b4e7b7215c95d70839fa78cefde7]: Commencement: Sch. 4 para. 6 in force at 1.9.2020, see reg. 1(b)
+[^c-d2b1b4e7b7215c95d70839fa78cefde7]: Commencement: Sch. 4 para. 6 in force at 1.9.2020, see reg. 1(b)
 
-[^key-f1e4f8e07118cd79db84e0cf4d634634]: Commencement: Sch. 4 para. 7 in force at 1.9.2020, see reg. 1(b)
+[^c-f1e4f8e07118cd79db84e0cf4d634634]: Commencement: Sch. 4 para. 7 in force at 1.9.2020, see reg. 1(b)
 
-[^key-6aebed755156e6377145423e4a45ebc3]: Commencement: Sch. 4 para. 8 in force at 1.9.2020, see reg. 1(b)
+[^c-6aebed755156e6377145423e4a45ebc3]: Commencement: Sch. 4 para. 8 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306301]: Marginal citation: [2003 c.39](https://www.legislation.gov.uk/ukpga/2003/39); section 98 has been amended by sections 48(1) and 106(2) of, and paragraph 55(1), (2), (3)(a) and (b) of Schedule 8 and paragraph 15 of Schedule 16 to, the [Tribunals, Courts and Enforcement Act 2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15) and section 17(5) of, and paragraph 40(a) and (c) of Part 2 of Schedule 9 to, the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22). Further amendments made by the Tribunals, Courts and Enforcement Act 2007 have yet to be brought into force.
 
 [^c24306311]: Marginal citation: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226).
 
-[^key-2d0b1ec4ca4ac1834bcc2ca277d39666]: Commencement: Sch. 4 para. 9 in force at 1.9.2020, see reg. 1(b)
+[^c-2d0b1ec4ca4ac1834bcc2ca277d39666]: Commencement: Sch. 4 para. 9 in force at 1.9.2020, see reg. 1(b)
 
-[^key-4c24ae4bc8fe1563120dad2ad4cade90]: Commencement: Sch. 4 para. 10 in force at 1.9.2020, see reg. 1(b)
+[^c-4c24ae4bc8fe1563120dad2ad4cade90]: Commencement: Sch. 4 para. 10 in force at 1.9.2020, see reg. 1(b)
 
-[^key-8f67c2ef0b895da286ba3c08d95a2d6a]: Commencement: Sch. 4 para. 11 in force at 1.9.2020, see reg. 1(b)
+[^c-8f67c2ef0b895da286ba3c08d95a2d6a]: Commencement: Sch. 4 para. 11 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306321]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-8f3036c39e71fa65ac7a8344992c9929]: Commencement: Sch. 4 para. 12 in force at 1.9.2020, see reg. 1(b)
+[^c-8f3036c39e71fa65ac7a8344992c9929]: Commencement: Sch. 4 para. 12 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306331]: Marginal citation: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18).
 
@@ -440,16 +440,16 @@ A contract for the supply of relevant products is not void or unenforceable by r
 
 [^c24306351]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-3a56ac9694934f4685de3b49eecdbf53]: Commencement: Sch. 4 para. 13 in force at 1.9.2020, see reg. 1(b)
+[^c-3a56ac9694934f4685de3b49eecdbf53]: Commencement: Sch. 4 para. 13 in force at 1.9.2020, see reg. 1(b)
 
 [^c24306361]: Marginal citation: [1996 c.23](https://www.legislation.gov.uk/ukpga/1996/23).
 
 [^c24306371]: Marginal citation: [2010 asp 1](https://www.legislation.gov.uk/asp/2010/1).
 
-[^key-76a1cf8e3dd079d4a10bc25376c08c30]: Commencement: Sch. 4 para. 14 in force at 1.9.2020, see reg. 1(b)
+[^c-76a1cf8e3dd079d4a10bc25376c08c30]: Commencement: Sch. 4 para. 14 in force at 1.9.2020, see reg. 1(b)
 
-[^key-8d3553522a9df2d28806dd2018295678]: Commencement: Sch. 4 para. 15 in force at 1.9.2020, see reg. 1(b)
+[^c-8d3553522a9df2d28806dd2018295678]: Commencement: Sch. 4 para. 15 in force at 1.9.2020, see reg. 1(b)
 
-[^key-35669d09d722bef998a85f3835f38426]: Commencement: Sch. 4 para. 16 in force at 1.9.2020, see reg. 1(b)
+[^c-35669d09d722bef998a85f3835f38426]: Commencement: Sch. 4 para. 16 in force at 1.9.2020, see reg. 1(b)
 
-[^key-0b8ae5dcf9df2d5235cbabc8d3dba8ad]: Commencement: Sch. 4 para. 17 in force at 1.9.2020, see reg. 1(b)
+[^c-0b8ae5dcf9df2d5235cbabc8d3dba8ad]: Commencement: Sch. 4 para. 17 in force at 1.9.2020, see reg. 1(b)

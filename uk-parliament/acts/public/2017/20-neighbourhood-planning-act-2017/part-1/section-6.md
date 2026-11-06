@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Assistance in connection with neighbourhood planning[^key-2d2fd32328e98f43cd70ea64848040f6]
+## 6. Assistance in connection with neighbourhood planning[^c-2d2fd32328e98f43cd70ea64848040f6]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d2fd32328e98f43cd70ea64848040f6]: Commencement: S. 6 in force at 31.7.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/38/regulation/4/a)
+[^c-2d2fd32328e98f43cd70ea64848040f6]: Commencement: S. 6 in force at 31.7.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/38/regulation/4/a)

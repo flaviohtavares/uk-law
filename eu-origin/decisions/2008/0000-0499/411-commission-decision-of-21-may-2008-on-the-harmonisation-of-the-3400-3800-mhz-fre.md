@@ -41,80 +41,80 @@ on the harmonisation of the 3 400-3 800 MHz frequency band for terrestrial syste
 
 (2008/411/EC) (revoked)
 
-[^key-c1932716c695f483e51f9a1de52df9fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c1932716c695f483e51f9a1de52df9fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4a.**[^key-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4a.**[^c-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-c1932716c695f483e51f9a1de52df9fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — PARAMETERS REFERRED TO IN ARTICLE 2[^key-c1932716c695f483e51f9a1de52df9fc]
+## ANNEX — PARAMETERS REFERRED TO IN ARTICLE 2[^c-c1932716c695f483e51f9a1de52df9fc]
 
-[^key-c1932716c695f483e51f9a1de52df9fc] A.
+[^c-c1932716c695f483e51f9a1de52df9fc] A.
 
 DEFINITIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] B.
+[^c-c1932716c695f483e51f9a1de52df9fc] B.
 
 GENERAL PARAMETERS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] C.
+[^c-c1932716c695f483e51f9a1de52df9fc] C.
 
 TECHNICAL CONDITIONS FOR BASE STATIONS — BLOCK EDGE MASK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] Figure
+[^c-c1932716c695f483e51f9a1de52df9fc] Figure
 
 **Example of base station BEM elements and power limits**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 1
+[^c-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 2
+[^c-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 3
+[^c-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 5
+[^c-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 5
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 6
+[^c-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 6
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 7
+[^c-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] D.
+[^c-c1932716c695f483e51f9a1de52df9fc] D.
 
 TECHNICAL CONDITIONS FOR TERMINAL STATIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 8
+[^c-c1932716c695f483e51f9a1de52df9fc] Explanatory note to Table 8
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c1932716c695f483e51f9a1de52df9fc]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1932716c695f483e51f9a1de52df9fc]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

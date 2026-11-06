@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 14 — Overhead lines: consent[^c1252306][^key-26be10bfebe827fc8125aecf05f9125a]
+## SCHEDULE 14 — Overhead lines: consent[^c1252306][^c-26be10bfebe827fc8125aecf05f9125a]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,7 +105,7 @@ they shall, within 14 days of receiving the application, also invite the appropr
 
 | Matter | Body |
 | --- | --- |
-| Nature conservation. | Natural England.[^key-33bfa5833a3d7295f762aca3a18be0f3] |
+| Nature conservation. | Natural England.[^c-33bfa5833a3d7295f762aca3a18be0f3] |
 | Conservation of the natural beauty or amenity of the countryside. | The Nature conservation or conservation of the natural beauty or amenity of the countryside. |
 | Sites of archaeological or historic interest. | The Historic Buildings and Monuments Commission for England. |
 
@@ -155,24 +155,24 @@ shall have effect as if this Schedule had been in force at all material times.
 
 ### Interpretation
 
-**13.**[^key-ffcbf575b4f2e7624ad838c5d4d88b72] In this Schedule, references to the appropriate Ministers are to the Secretary of State for Energy Security and Net Zero[^key-9b8abd893f11b15ad0e62e71469361b1] and the Secretary of State for Transport[^c1252315] acting jointly.
+**13.**[^c-ffcbf575b4f2e7624ad838c5d4d88b72] In this Schedule, references to the appropriate Ministers are to the Secretary of State for Energy Security and Net Zero[^c-9b8abd893f11b15ad0e62e71469361b1] and the Secretary of State for Transport[^c1252315] acting jointly.
 
 ## Annotations
 
 [^c1252306]: Modification: [Sch. 14](https://www.legislation.gov.uk/ukpga/1996/61/schedule/14) (except paras. 8(2)(a), 12) applied (with modifications) (22.3.2001) by [S.I. 2001/1451](https://www.legislation.gov.uk/uksi/2001/1451), [art. 15(1)](https://www.legislation.gov.uk/uksi/2001/1451/article/15/1), [Sch. 3 para. 1(i)](https://www.legislation.gov.uk/uksi/2001/1451/schedule/3/paragraph/1/i)
 
-[^key-26be10bfebe827fc8125aecf05f9125a]: Modification: [Sch. 14](https://www.legislation.gov.uk/ukpga/1996/61/schedule/14): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/424/article/7/1) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-26be10bfebe827fc8125aecf05f9125a]: Modification: [Sch. 14](https://www.legislation.gov.uk/ukpga/1996/61/schedule/14): functions transferred (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/424/article/7/1) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^c1252307]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-33bfa5833a3d7295f762aca3a18be0f3]: Textual amendment: Words in [Sch. 14 para. 7(4)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/14/paragraph/7/4) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 148](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/148); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-33bfa5833a3d7295f762aca3a18be0f3]: Textual amendment: Words in [Sch. 14 para. 7(4)](https://www.legislation.gov.uk/ukpga/1996/61/schedule/14/paragraph/7/4) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 148](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/148); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c1252311]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
 [^c1252312]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
-[^key-ffcbf575b4f2e7624ad838c5d4d88b72]: Modification: Sch. 14 para. 13 transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(g)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/g)
+[^c-ffcbf575b4f2e7624ad838c5d4d88b72]: Modification: Sch. 14 para. 13 transfer of functions (5.3.2009) by [Secretary of State for Energy and Climate Change Order 2009 (S.I. 2009/229)](https://www.legislation.gov.uk/uksi/2009/229), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/229/article/1/2), [4](https://www.legislation.gov.uk/uksi/2009/229/article/4), [Sch. 1(g)](https://www.legislation.gov.uk/uksi/2009/229/schedule/1/g)
 
-[^key-9b8abd893f11b15ad0e62e71469361b1]: Textual amendment: Words in [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/1996/61/schedule/14/paragraph/13) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 8(4)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/8/4) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-9b8abd893f11b15ad0e62e71469361b1]: Textual amendment: Words in [Sch. 14 para. 13](https://www.legislation.gov.uk/ukpga/1996/61/schedule/14/paragraph/13) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 8(4)](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/8/4) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
 [^c1252315]: Textual amendment: Words in Sch. 14 para. 13 substituted (25.11.2002) by [S.I. 2002/2626](https://www.legislation.gov.uk/uksi/2002/2626), [art. 20](https://www.legislation.gov.uk/uksi/2002/2626/article/20), [Sch. 2 para. 21(6)](https://www.legislation.gov.uk/uksi/2002/2626/schedule/2/paragraph/21/6)

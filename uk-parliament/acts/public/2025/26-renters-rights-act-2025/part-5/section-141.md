@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 141. Power of Welsh Ministers to make consequential provision[^key-1f2b0cbd5e3737c498644a7484a4e5ca]
+## 141. Power of Welsh Ministers to make consequential provision[^c-1f2b0cbd5e3737c498644a7484a4e5ca]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f2b0cbd5e3737c498644a7484a4e5ca]: Commencement: S. 141 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-1f2b0cbd5e3737c498644a7484a4e5ca]: Commencement: S. 141 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

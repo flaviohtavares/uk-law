@@ -1177,7 +1177,7 @@ Accordingly, Directive 1999/93/EC is hereby amended as follows:
 
 6.2.
 
-[^key-e8852a37935585709549a0587853e75a]...
+[^c-e8852a37935585709549a0587853e75a]...
 
 7\.
 
@@ -2138,7 +2138,7 @@ Directive 2006/113/EC of the European Parliament and of the Council of 12 Decemb
 
 [^f00049]: Footnote: [OJ L 13, 19.1.2000, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.013.01.0012.01.ENG).
 
-[^key-e8852a37935585709549a0587853e75a]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2008/1137/annex) point 6.2 omitted (31.12.2020) by virtue of [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/919/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8852a37935585709549a0587853e75a]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2008/1137/annex) point 6.2 omitted (31.12.2020) by virtue of [The Electronic Communications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/919)](https://www.legislation.gov.uk/uksi/2019/919), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/919/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/919/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00052]: Footnote: [OJ L 255, 30.9.2005, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.255.01.0022.01.ENG).
 

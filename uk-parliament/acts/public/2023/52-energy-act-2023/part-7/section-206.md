@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Standard conditions for MPI licences[^key-56cb3dd0d77149f457620895d0057294]
+## 206. Standard conditions for MPI licences[^c-56cb3dd0d77149f457620895d0057294]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56cb3dd0d77149f457620895d0057294]: Commencement: S. 206 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-56cb3dd0d77149f457620895d0057294]: Commencement: S. 206 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)

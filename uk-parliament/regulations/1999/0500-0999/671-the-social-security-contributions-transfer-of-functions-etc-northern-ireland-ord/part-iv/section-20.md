@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Rights and liabilities[^key-8076dcf43aac8c5a29894f6e49e60761]
+## 20. Rights and liabilities[^c-8076dcf43aac8c5a29894f6e49e60761]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8076dcf43aac8c5a29894f6e49e60761]: Commencement: Art. 20 in force at 24.3.1999, see [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/e)
+[^c-8076dcf43aac8c5a29894f6e49e60761]: Commencement: Art. 20 in force at 24.3.1999, see [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/1999/671/article/1/2/e)

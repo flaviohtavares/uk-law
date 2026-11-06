@@ -49,11 +49,11 @@ The Secretary of State, having considered the report and recommendation of the s
 
 In exercise of the powers conferred by sections 114, 115, 120, and 149A of the 2008 Act the Secretary of State makes the following Order:
 
-## 1. Citation and commencement[^key-3314403c775e665382b70e92aa074afb]
+## 1. Citation and commencement[^c-3314403c775e665382b70e92aa074afb]
 
 This Order may be cited as the Kentish Flats Extension Order 2013 and shall come into force on 20th February 2013.
 
-## 2. Interpretation[^key-2691c9e5bff33d5478f343a841a3c870]
+## 2. Interpretation[^c-2691c9e5bff33d5478f343a841a3c870]
 
 (1) Except for Schedule 2 which is subject to the definitions provided in that Schedule, in this Order—
 
@@ -98,7 +98,7 @@ This Order may be cited as the Kentish Flats Extension Order 2013 and shall come
 
 (4) All distances, directions and lengths referred to in this Order are approximate and distances between points on a work comprised in the authorised development shall be taken to be measured along that work.
 
-## 3. Development consent etc. granted by the Order[^key-5872f7d5371036b156e5f4209a98572b]
+## 3. Development consent etc. granted by the Order[^c-5872f7d5371036b156e5f4209a98572b]
 
 (1) Subject to the provisions of this Order, the Requirements and the provisions and conditions of the deemed Marine Licence, the undertaker is granted—
 
@@ -109,11 +109,11 @@ to be carried out within the Order limits.
 
 (2) Subject to article 4 the authorised development shall be constructed in the lines or situations shown on the works plan.
 
-## 4. Limits of deviation[^key-bf9ba8ab1522802226185ba29fcc7355]
+## 4. Limits of deviation[^c-bf9ba8ab1522802226185ba29fcc7355]
 
 Subject to Requirements 4 and 5, in carrying out or maintaining the scheduled works the undertaker may deviate laterally from the lines or situations shown on the works plan to the extent of the limits of deviation.
 
-## 5. Maintenance of authorised project[^key-13f561f1c704920d252268ed4dca0c8b]
+## 5. Maintenance of authorised project[^c-13f561f1c704920d252268ed4dca0c8b]
 
 Subject to—
 
@@ -122,13 +122,13 @@ Subject to—
 
 the undertaker may at any time maintain the authorised project.
 
-## 6. Operation of electricity generating station[^key-6340e1fcfc503c2b136eb449033c040a]
+## 6. Operation of electricity generating station[^c-6340e1fcfc503c2b136eb449033c040a]
 
 (1) The undertaker is authorised to operate the electricity generating station comprised in the authorised development.
 
 (2) This article does not relieve the undertaker of any requirement to obtain any permit or licence under any other legislation that may be required to authorise the operation of the electricity generating station.
 
-## 7. Consent to transfer benefit of Order[^key-1795fb612abf1f82332627d82a202920]
+## 7. Consent to transfer benefit of Order[^c-1795fb612abf1f82332627d82a202920]
 
 (1) Except as provided for in this article, section 156(1) of the 2008 Act applies to the grant of development consent by this Order.
 
@@ -143,7 +143,7 @@ the undertaker may at any time maintain the authorised project.
 
 (5) Not later than 21 days after entering into any transfer or grant under paragraph (1) the undertaker shall give written notice to the Secretary of State, Trinity House, the PLA, the MCA and the MMO stating the name and address of the person to whom the benefits or rights were conferred and the date when the transfer or grant is to take effect (which shall not be earlier than the date of receipt of the notice by whichever of the Secretary of State, Trinity House, the PLA, the MCA or the MMO is the last to be notified).
 
-## 8. Requirements, appeals etc[^key-bc4e86cf9f2dea96eb450cea2c3a655b]
+## 8. Requirements, appeals etc[^c-bc4e86cf9f2dea96eb450cea2c3a655b]
 
 (1) Where an application is made to the local planning authority for any consent, agreement or approval required by Requirements 3 or 12 to 15 (requirements that relate to land above MLW), the following provisions apply in respect of that application as they would apply if the consent, agreement or approval so required was required by a condition imposed on a grant of planning permission—
 
@@ -152,7 +152,7 @@ the undertaker may at any time maintain the authorised project.
 
 (2) For the purposes of the application of section 262 of the 1990 Act (meaning of “statutory undertaker”) to appeals pursuant to this article, the undertaker is deemed to be a holder of a licence under section 6 of the Electricity Act 1989.
 
-## 9. Public rights of navigation[^key-495df3b466606f5217a7f12c5e5fc215]
+## 9. Public rights of navigation[^c-495df3b466606f5217a7f12c5e5fc215]
 
 (1) Subject to paragraphs (2) and (3), the rights of navigation over the places in the sea where each individual wind turbine generator comprising part of the authorised development is located (“the relevant rights of navigation”) shall be extinguished.
 
@@ -162,7 +162,7 @@ the undertaker may at any time maintain the authorised project.
 
 (4) The plan submitted in accordance with paragraph (2) shall be published by the undertaker in such form and manner as required by the Secretary of State.
 
-## 10. Abatement of works abandoned or decayed[^key-a7428406b4215e180574140fe6f65747]
+## 10. Abatement of works abandoned or decayed[^c-a7428406b4215e180574140fe6f65747]
 
 (1) Where the authorised project or any part of it is abandoned or suffered to fall into decay the Secretary of State may by notice in writing require the undertaker at its own expense either to repair and restore the authorised project or any part, or to remove the authorised project and restore the site to its former condition, to such an extent and within such limits as the Secretary of State thinks proper.
 
@@ -170,7 +170,7 @@ the undertaker may at any time maintain the authorised project.
 
 (3) If the undertaker fails to comply in any respect with a notice served under this article within the period of 30 days beginning with the date of service of the notice, the Secretary of State may take whatever steps the Secretary of State considers appropriate to achieve the result required by the notice; and any expenditure incurred by the Secretary of State in doing so shall be recoverable from the undertaker.
 
-## 11. Survey of works[^key-5391ffca03e60753f0f8bd653f38d033]
+## 11. Survey of works[^c-5391ffca03e60753f0f8bd653f38d033]
 
 (1) If the Secretary of State considers it expedient to do so, the Secretary of State may order a survey and examination of the authorised project or of the site on which it is proposed to construct the authorised project, and any expenditure incurred by the Secretary of State in any such survey and examination shall be recoverable from the undertaker.
 
@@ -179,15 +179,15 @@ the undertaker may at any time maintain the authorised project.
 - (a) consult the undertaker in order to establish what relevant survey information is already available; and
 - (b) give the undertaker an opportunity to carry out the survey itself.
 
-## 12. Deemed licence under the Marine and Coastal Access Act 2009[^key-094fca04a95bdd1e1e9baac3bb0a68a2]
+## 12. Deemed licence under the Marine and Coastal Access Act 2009[^c-094fca04a95bdd1e1e9baac3bb0a68a2]
 
 The undertaker is deemed to have been granted a licence under Part 4 Chapter 1 of the 2009 Act to carry out the works and make the deposits described in Schedule 2, subject to the licence conditions which are deemed to have been attached to the licence by the Secretary of State under Part 4 of the 2009 Act.
 
-## 13. Saving for Trinity House[^key-3504a50ed53a9d9e6c68509736409990]
+## 13. Saving for Trinity House[^c-3504a50ed53a9d9e6c68509736409990]
 
 Nothing in this Order prejudices or derogates from any of the rights, duties or privileges of Trinity House.
 
-## 14. Crown rights[^key-31a39ac3eff412bba46dbbd1f86e1324]
+## 14. Crown rights[^c-31a39ac3eff412bba46dbbd1f86e1324]
 
 (1) Nothing in this Order shall—
 
@@ -198,7 +198,7 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 (2) A consent under paragraph (1)(b) may be given unconditionally or may be subject to such conditions or upon such terms as may be considered necessary or appropriate by the Commissioners or by the government department concerned as the case may be.
 
-## 15. Certification of plans etc[^key-ca7d575d65a6a87636ae89cb0c365d30]
+## 15. Certification of plans etc[^c-ca7d575d65a6a87636ae89cb0c365d30]
 
 (1) The undertaker shall, as soon as practicable after the making of this Order, submit to the Secretary of State copies of—
 
@@ -211,7 +211,7 @@ for certification that they are true copies of the documents referred to in this
 
 (2) A plan or document so certified shall be admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-## 16. Arbitration[^key-ffb0f463234078260eaac919827feef3]
+## 16. Arbitration[^c-ffb0f463234078260eaac919827feef3]
 
 Any difference under any provision of this Order, unless otherwise provided for, shall be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on application of either party (after giving notice in writing to the other) by the Secretary of State.
 
@@ -231,7 +231,7 @@ Article 2(1)
 
 ### PART 1 — Authorised development
 
-**1.**[^key-59aa98c2d8c43cea5b1d82fbe74e5b73] A nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act comprising an offshore wind turbine generating station with an installed capacity of up to 51 MW being an extension to the existing Kentish Flats offshore wind farm located on the bed of the sea approximately 7.8 kilometres off the coast of Kent and on land within the administrative area of Canterbury City Council and consisting of the following—
+**1.**[^c-59aa98c2d8c43cea5b1d82fbe74e5b73] A nationally significant infrastructure project as defined in sections 14(1)(a) and 15 of the 2008 Act comprising an offshore wind turbine generating station with an installed capacity of up to 51 MW being an extension to the existing Kentish Flats offshore wind farm located on the bed of the sea approximately 7.8 kilometres off the coast of Kent and on land within the administrative area of Canterbury City Council and consisting of the following—
 
 - (a) within the offshore development area—
   - (i) Work No. 1a—
@@ -252,7 +252,7 @@ Article 2(1)
     | A5 | 51°26′48.536″ | 01°08′27.326″ |
     | A6 | 51°26′21.713″ | 01°04′00.060″ |
 
-#### 2. Associated development[^key-8518a1505c2b4c1d95e7bed4d63f3a9b]
+#### 2. Associated development[^c-8518a1505c2b4c1d95e7bed4d63f3a9b]
 
 Within the export cable area—
 
@@ -283,7 +283,7 @@ Within the export cable area—
 
 ### PART 2 — Ancillary works
 
-**1.**[^key-30d145bc7f271aee35f0f1d43a554832] (1) Temporary landing places, moorings or other means of accommodating vessels in the construction and/or maintenance of the authorised development.
+**1.**[^c-30d145bc7f271aee35f0f1d43a554832] (1) Temporary landing places, moorings or other means of accommodating vessels in the construction and/or maintenance of the authorised development.
 
 (2) Buoys, beacons, fenders and other navigational warning or ship impact protection works.
 
@@ -291,7 +291,7 @@ Within the export cable area—
 
 ### PART 3 — Requirements
 
-#### 1. Interpretation[^key-cdc249b16360003b1d4a2dfb50b8858b]
+#### 1. Interpretation[^c-cdc249b16360003b1d4a2dfb50b8858b]
 
 (1) In this Part of this Schedule—
 
@@ -305,11 +305,11 @@ Within the export cable area—
 
 (2) In this Schedule references to the locations of a wind turbine are references to the centre point of that turbine.
 
-#### 2. Time limits[^key-73af0afa3957bf3c21bc879d579f6b1d]
+#### 2. Time limits[^c-73af0afa3957bf3c21bc879d579f6b1d]
 
 The authorised development shall commence no later than the expiration of five years beginning with the date this Order comes into force or the expiration of such longer period as the Secretary of State may direct in writing.
 
-#### 3. Detailed design approval[^key-24851566eab15aa0531a1ac48ca53edd]
+#### 3. Detailed design approval[^c-24851566eab15aa0531a1ac48ca53edd]
 
 (1) No authorised development shall commence until the location and detailed specifications for Work Nos. 2a and 2b above mean low water level have been submitted to and approved in writing by the local planning authority.
 
@@ -322,7 +322,7 @@ The authorised development shall commence no later than the expiration of five y
 - (a) the Order limits plan; and
 - (b) the works plan.
 
-#### 4. Detailed design parameters[^key-f05059f48c9821bd0232db2b7ffa2c95]
+#### 4. Detailed design parameters[^c-f05059f48c9821bd0232db2b7ffa2c95]
 
 The wind turbine generators forming part of the authorised development shall be located within the Order limits and within 160 metres of the grid co-ordinates listed below.
 
@@ -346,24 +346,24 @@ The wind turbine generators forming part of the authorised development shall be 
 | T16 | 51°26′49.262″ | 01°07′38.798″ |
 | T17 | 51°26′52.861″ | 01°08′14.578″ |
 
-**5.**[^key-c097084625a4aac7a2c1dd018d3b6008] Except with the prior written approval of the Secretary of State all wind turbine generators forming part of the authorised development shall be of the same make, model and size, have three blades and shall not—
+**5.**[^c-c097084625a4aac7a2c1dd018d3b6008] Except with the prior written approval of the Secretary of State all wind turbine generators forming part of the authorised development shall be of the same make, model and size, have three blades and shall not—
 
 - (a) exceed a height of 145 metres or be less than 115 metres high when measured from mean sea level to the tip of the vertical blade;
 - (b) exceed a height of 85 metres or be less than 70 metres high to the hub when measured from mean sea level;
 - (c) exceed a rotor diameter of 120 metres or have a rotor diameter of less than 90 metres;
 - (d) have a distance of less than 22 metres between the lowest point of the rotating blade of the wind turbine and mean high water level;
-- (e) subject to Requirement 9 be lit unless the lighting used is of a shape, colour and character as required by the Air Navigation Order 2016[^key-6f0f2a9b0a927e02e305efb70621ccb8] or as directed by the CAA; and
+- (e) subject to Requirement 9 be lit unless the lighting used is of a shape, colour and character as required by the Air Navigation Order 2016[^c-6f0f2a9b0a927e02e305efb70621ccb8] or as directed by the CAA; and
 - (f) subject to Requirement 9, be painted in any colour other than submarine grey RA7035.
 
-**6.**[^key-046ed954b66430d607fb475a463c387e] (1) The total length of the cables comprising Work No. 1b shall not exceed 12 kilometres.
+**6.**[^c-046ed954b66430d607fb475a463c387e] (1) The total length of the cables comprising Work No. 1b shall not exceed 12 kilometres.
 
 (2) The total length of the cables comprising Work No. 2a shall not exceed 18 kilometres.
 
 (3) The number of cables forming part of Work No. 2a and installed within the export cable area shall not exceed two.
 
-**7.**[^key-e69fe28c57bf5ab03b8d321a1b78763c] Each monopile foundation forming part of the authorised development shall not have a diameter greater than 6 metres.
+**7.**[^c-e69fe28c57bf5ab03b8d321a1b78763c] Each monopile foundation forming part of the authorised development shall not have a diameter greater than 6 metres.
 
-#### 8. Safety management[^key-3cf3da62fd89eab4481c3532d3e87d4a]
+#### 8. Safety management[^c-3cf3da62fd89eab4481c3532d3e87d4a]
 
 (1) No authorised development shall commence until the Secretary of State, in consultation with the MCA, has given written approval of a plan for an active safety management system in accordance with the MCA recommendations in Annex 4 of the document MGN 371 Offshore Renewable Energy Installations (OREIs) – Guidance on UK Navigational Practice, Safety and Emergency Response Issues.
 
@@ -371,7 +371,7 @@ The wind turbine generators forming part of the authorised development shall be 
 
 (3) The active safety management system and emergency response and co-operation plans must be implemented as approved unless otherwise agreed in writing by the Secretary of State.
 
-#### 9. Lighting[^key-1729a5584adb6c6c0f95686c9fcd0434]
+#### 9. Lighting[^c-1729a5584adb6c6c0f95686c9fcd0434]
 
 The undertaker shall during the whole period from the start of construction of the authorised development to the completion of decommissioning—
 
@@ -381,7 +381,7 @@ The undertaker shall during the whole period from the start of construction of t
 - (d) notify Trinity House as soon as reasonably practicable of both the progress and completion of the authorised development and any aids to navigation established from time to time; and
 - (e) provide reports on the working condition of aids to navigation periodically as requested by Trinity House.
 
-#### 10. Aviation safety[^key-94f85359546155868ce395208376d125]
+#### 10. Aviation safety[^c-94f85359546155868ce395208376d125]
 
 (1) Prior to the commencement of the authorised development the following information shall be provided in writing to the UK Hydrographic Office and Defence Infrastructure Organisation Safeguarding—
 
@@ -400,11 +400,11 @@ and the UK Hydrographic Office and Defence Infrastructure Organisation Safeguard
 - (b) “Defence Infrastructure Organisation Safeguarding” means Ministry of Defence Safeguarding, Defence Infrastructure Organisation, Kingston Road, Sutton Coldfield, West Midlands B75 7RL and any successor body to its functions; and
 - (c) “Air Navigation Service Provider” means any person or organisation certified and designated by the CAA for the provision of air traffic services to civil aviation.
 
-#### 11. Provision against danger to navigation[^key-50b36b48fa2612e19f31d0c05828e9bc]
+#### 11. Provision against danger to navigation[^c-50b36b48fa2612e19f31d0c05828e9bc]
 
 In case of damage to, or destruction or decay of, the authorised development or any part of it the undertaker shall as soon as reasonably practicable notify Trinity House and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as Trinity House may from time to time direct.
 
-#### 12. Archaeology above mean low water level[^key-d57d975096b39f88c881600b032fe310]
+#### 12. Archaeology above mean low water level[^c-d57d975096b39f88c881600b032fe310]
 
 (1) No part of the authorised development above mean low water level shall commence until a written scheme for the investigation of areas of archaeological interest above MLW has, after consultation with English Heritage, been submitted to and approved by the local planning authority.
 
@@ -414,25 +414,25 @@ In case of damage to, or destruction or decay of, the authorised development or 
 
 (4) Any archaeological works or watching brief must be undertaken in accordance with the approved scheme unless otherwise agreed in writing by the local planning authority.
 
-#### 13. Ecological management plan above mean low water level[^key-f0f677a814efef728a846f18b9099f59]
+#### 13. Ecological management plan above mean low water level[^c-f0f677a814efef728a846f18b9099f59]
 
 (1) No part of the authorised development above mean low water level shall commence until a written ecological management plan relating to the land above MLW and reflecting the survey results and ecological mitigation measures included in the environmental statement has been submitted to and approved by the local planning authority after consultation with Natural England.
 
 (2) The ecological management plan shall include an implementation timetable and must be carried out as approved unless otherwise agreed in writing by the local planning authority.
 
-#### 14. Code of construction practice[^key-96ce85f03a9cdd71d22cc518544ce87a]
+#### 14. Code of construction practice[^c-96ce85f03a9cdd71d22cc518544ce87a]
 
 (1) No part of the authorised development above mean low water level shall commence until a code of construction practice relating to the works authorised above MLW has been submitted to and approved by the local planning authority.
 
 (2) All construction works shall be undertaken in accordance with the approved code unless otherwise agreed in writing by the local planning authority.
 
-#### 15. Construction hours[^key-2b8dbd6c94be43d88f9a2168d87e88d6]
+#### 15. Construction hours[^c-2b8dbd6c94be43d88f9a2168d87e88d6]
 
 (1) Construction work above mean low water level shall only take place between 0800 and 1800 hours on weekdays and 0800 and 1300 hours on Saturdays, and not on Sundays or public holidays, unless otherwise agreed in writing by the local planning authority.
 
 (2) Nothing in sub-paragraph (1) precludes a start-up period from 0730 to 0800 on weekdays and Saturdays and a shut-down period from 1800 to 1830 on weekdays and from 1300 to 1330 on Saturdays.
 
-#### 16. Decommissioning[^key-70874fcb0f8db7cbc7ed572389ed20b7]
+#### 16. Decommissioning[^c-70874fcb0f8db7cbc7ed572389ed20b7]
 
 (1) No part of the authorised development shall commence until a written decommissioning programme in compliance with any notice served upon the undertaker by the Secretary of State pursuant to section 105(2) of the 2004 Act has been submitted to the Secretary of State for approval.
 
@@ -442,11 +442,11 @@ In case of damage to, or destruction or decay of, the authorised development or 
 
 (4) For the avoidance of doubt decommissioning measures are not authorised by this Order. Decommissioning measures will be set out in the decommissioning programme required under sub-paragraph (1).
 
-#### 17. Requirement for written approval[^key-8feb49db82deaa295ff1e09c4f96320d]
+#### 17. Requirement for written approval[^c-8feb49db82deaa295ff1e09c4f96320d]
 
 Where under any of the above Requirements the approval or agreement of the Secretary of State, the local planning authority or another person or body is required, that approval or agreement must be given in writing.
 
-#### 18. Amendments to approved details[^key-8c4e5a296b28b534d05156f3bb68f4de]
+#### 18. Amendments to approved details[^c-8c4e5a296b28b534d05156f3bb68f4de]
 
 With respect to any Requirement which requires the authorised development to be carried out in accordance with a detailed specification, plan, scheme or code approved by the local planning authority or any other person or body, the approved details, plan, scheme or code shall be taken to include any amendments that may subsequently be approved in writing by the local planning authority or that other person or body.
 
@@ -456,7 +456,7 @@ Articles 2(1), 3(1), 5 and 12
 
 ### PART 1 — Interpretation
 
-**1.**[^key-8e2081434fbbb1bfe6fd864683071eb6] (1) In this Schedule—
+**1.**[^c-8e2081434fbbb1bfe6fd864683071eb6] (1) In this Schedule—
 
 - “the 1990 Act” means the Town and Country Planning Act 1990[^f00009];
 - “the 2008 Act” means the Planning Act 2008[^f00010];
@@ -626,7 +626,7 @@ Articles 2(1), 3(1), 5 and 12
 
   Tel 01474 562200
 
-#### 2. Details of licensed marine activities[^key-7e0e1f8d5efe810b11c5dbc688c29c69]
+#### 2. Details of licensed marine activities[^c-7e0e1f8d5efe810b11c5dbc688c29c69]
 
 (1) Subject to the licence conditions this licence authorises the undertaker (and any agent or contractor acting on their behalf) to carry out the following licensable marine activities pursuant to section 66(1) of the 2009 Act—
 
@@ -691,7 +691,7 @@ Articles 2(1), 3(1), 5 and 12
 
 ### PART 2 — Licence conditions
 
-#### 1. Design parameters[^key-8fb6721e232cdfd2de27bcbf353603da]
+#### 1. Design parameters[^c-8fb6721e232cdfd2de27bcbf353603da]
 
 The wind turbine generators forming part of the authorised development shall be located within the Order limits and within 160 metres of the grid co-ordinates listed below.
 
@@ -715,16 +715,16 @@ The wind turbine generators forming part of the authorised development shall be 
 | T16 | 51°26′49.262″ | 01°07′38.798″ |
 | T17 | 51°26′52.861″ | 01°08′14.578″ |
 
-**2.**[^key-69e80d708ef3abd0d2d04e9106a59249] Except with the prior written approval of the Secretary of State and as assessed in the environmental statement all wind turbine generators forming part of the authorised development shall be of the same make, model and size, have three blades and shall not—
+**2.**[^c-69e80d708ef3abd0d2d04e9106a59249] Except with the prior written approval of the Secretary of State and as assessed in the environmental statement all wind turbine generators forming part of the authorised development shall be of the same make, model and size, have three blades and shall not—
 
 - (a) exceed a height of 145 metres or be less than 115 metres when measured from mean sea level to the tip of the vertical blade;
 - (b) exceed a height of 85 metres or be less than 70 metres to the hub when measured from mean sea level;
 - (c) exceed a rotor diameter of 120 metres or have a rotor diameter of less than 90 metres;
 - (d) have a distance of less than 22 metres between the lowest point of the rotating blade of the wind turbine and mean high water level;
-- (e) subject to Requirement 9 be lit unless the lighting used is of a shape, colour and character as required by the Air Navigation Order 2016[^key-22a73482f67f4943989ba3f611553e5a] or as directed by the CAA; and
+- (e) subject to Requirement 9 be lit unless the lighting used is of a shape, colour and character as required by the Air Navigation Order 2016[^c-22a73482f67f4943989ba3f611553e5a] or as directed by the CAA; and
 - (f) subject to Requirement 9, be painted in any colour other than submarine grey RA7035.
 
-**3.**[^key-0b1b7dd32c9cc059c59052afd49e485a] (1) The total length of the cables comprising Work No. 1b shall not exceed 12 kilometres.
+**3.**[^c-0b1b7dd32c9cc059c59052afd49e485a] (1) The total length of the cables comprising Work No. 1b shall not exceed 12 kilometres.
 
 (2) The total length of the cables comprising Work No. 2a shall not exceed 18 kilometres.
 
@@ -734,7 +734,7 @@ The wind turbine generators forming part of the authorised development shall be 
 
 (5) The undertaker shall notify the MMO in writing within 14 days of any changes to the detailed design parameters approved by the Secretary of State in accordance with licence condition 2.
 
-#### 4. Notifications and inspections[^key-9a46223e9b0d3652c9af2b12c4b2528e]
+#### 4. Notifications and inspections[^c-9a46223e9b0d3652c9af2b12c4b2528e]
 
 (1) The undertaker shall ensure that—
 
@@ -787,7 +787,7 @@ The wind turbine generators forming part of the authorised development shall be 
 
 (13) Both the Fisheries Liaison Officer and the Environmental Liaison Officer shall be required to establish and maintain communications between the undertaker, contractors, fishermen, conservation groups and other users of the sea for the duration of the licensed activities.
 
-#### 5. Chemicals, drilling and debris[^key-20e85a9f017dcff42ea7721d85446852]
+#### 5. Chemicals, drilling and debris[^c-20e85a9f017dcff42ea7721d85446852]
 
 (1) All chemicals used in the construction of the authorised development, including any chemical agents placed within the monopile void, shall be selected from the List of Notified Chemicals approved for use by the offshore oil and gas industry under the Offshore Chemicals Regulations 2002[^f00013] unless otherwise agreed in writing by the MMO prior to construction works commencing.
 
@@ -826,17 +826,17 @@ The wind turbine generators forming part of the authorised development shall be 
 - (a) “best environmental practice” means best environmental practice as defined in Appendix 1 of the 1992 OSPAR Convention on the Protection of the Marine Environment of the North-East Atlantic;
 - (b) “EHS law” means all applicable legislation, regulations and legally binding codes of practice and guidance notes issued by regulatory authorities in so far as they relate to or apply to matters relating to the occupational health and safety of any person and/or to the pollution or protection of air, water, land or any or all organisms (including man).
 
-#### 6. Force majeure[^key-15aa4798b8a540bc21f6b22978f13cac]
+#### 6. Force majeure[^c-15aa4798b8a540bc21f6b22978f13cac]
 
 If, due to stress of weather or any other cause the master of a vessel determines that it is necessary to deposit the authorised deposits outside of the Order limits because the safety of human life and/or of the vessel is threatened, full details of the circumstances of the deposit shall be notified to the MMO within 48 hours.
 
-#### 7. Seasonal restrictions[^key-a742f17013d998d74f5323fb1fd39e3c]
+#### 7. Seasonal restrictions[^c-a742f17013d998d74f5323fb1fd39e3c]
 
 Except with the prior written approval of the MMO, following consultation with Cefas and Natural England, no monopile foundations shall be installed or works take place within the export cable area between 14 February and 31 May to avoid effects on herring spawning.
 
-**8.**[^key-858aa74d26d8ca38f8c5cd03591d3ccf] In the event that cable installation works take place between October and April (inclusive) any such works between mean low water and mean high water shall avoid the period two hours either side of high water to avoid disturbance to roosting turnstone.
+**8.**[^c-858aa74d26d8ca38f8c5cd03591d3ccf] In the event that cable installation works take place between October and April (inclusive) any such works between mean low water and mean high water shall avoid the period two hours either side of high water to avoid disturbance to roosting turnstone.
 
-#### 9. Pre-construction plans and documentation[^key-ca5c5aa7146efd8e6c33eedbc6d5dd47]
+#### 9. Pre-construction plans and documentation[^c-ca5c5aa7146efd8e6c33eedbc6d5dd47]
 
 (1) The licensed activities shall not commence until the following have been submitted to and approved in writing by the MMO. Except where otherwise stated or with the prior written approval of the MMO these documents must be submitted to the MMO for approval at least 4 months prior to the commencement of works—
 
@@ -884,7 +884,7 @@ Except with the prior written approval of the MMO, following consultation with C
 
 (2) The undertaker shall comply with the plans and documentation approved under this licence condition in carrying out the licensed activities unless otherwise agreed in writing by the MMO.
 
-#### 10. Reporting of engaged agents, contractors and vessels[^key-92574f7c3651d320dc2699f6c93270cf]
+#### 10. Reporting of engaged agents, contractors and vessels[^c-92574f7c3651d320dc2699f6c93270cf]
 
 (1) The undertaker shall provide the following information to the MMO—
 
@@ -893,7 +893,7 @@ Except with the prior written approval of the MMO, following consultation with C
 
 (2) Any changes to the supplied details must be notified to the MMO in writing prior to the agent, contractor or vessel engaging in the licensed activities.
 
-#### 11. Equipment and operation of vessels engaged in licensed activities[^key-bc71cf09c7b88efb2d04b9dc7df65e77]
+#### 11. Equipment and operation of vessels engaged in licensed activities[^c-bc71cf09c7b88efb2d04b9dc7df65e77]
 
 (1) All vessels employed to perform the licensed activities shall be constructed and equipped to be capable of the proper performance of such activities in accordance with the conditions of this licence and shall comply with sub-paragraphs (2) to (7).
 
@@ -914,7 +914,7 @@ Except with the prior written approval of the MMO, following consultation with C
 
 (7) No vessel shall engage in the licensed activities unless all the equipment specified in sub-paragraph (2) is fully operational.
 
-#### 12. Pre-construction baseline[^key-36f6e5fa6d71ff842bcc6b988416fe19]
+#### 12. Pre-construction baseline[^c-36f6e5fa6d71ff842bcc6b988416fe19]
 
 (1) Any pre-construction baseline report shall take account of any existing environmental data, assessments and reports relevant to the Order limits.
 
@@ -931,7 +931,7 @@ Except with the prior written approval of the MMO, following consultation with C
 
 (4) In the event that the pre-construction baseline report contains sufficient information regarding the effects of the licensed activities on individual matters listed at sub-paragraph (3)(a) to (e) the MMO shall not require further monitoring to be carried out in respect of that matter.
 
-#### 13. Construction monitoring[^key-c6f0e2fd1c30716020b33d4f0be9386d]
+#### 13. Construction monitoring[^c-c6f0e2fd1c30716020b33d4f0be9386d]
 
 (1) During construction the undertaker shall submit environmental monitoring reports to the MMO in accordance with the construction and monitoring programme approved under licence condition 9(1)(a) which shall include—
 
@@ -944,7 +944,7 @@ Except with the prior written approval of the MMO, following consultation with C
 
 (3) In the event that the installation of the export cable(s) takes place between May and September, bathing water quality shall be monitored and reported to the Environment Agency in accordance with a written protocol agreed in advance of such works taking place. The protocol shall include procedures for setting the bathing water quality baseline, details of the appropriate standards and the steps to be taken in the event that, as a result of the export cable works, bathing water quality falls below the agreed standards.
 
-#### 14. Post construction[^key-99414e5e5cb4c2c2b915adfb570ec8da]
+#### 14. Post construction[^c-99414e5e5cb4c2c2b915adfb570ec8da]
 
 Post construction the undertaker shall submit environmental monitoring reports to the MMO in accordance with the construction and monitoring timetable approved under licence condition 9(1)(a) which shall include—
 
@@ -954,7 +954,7 @@ Post construction the undertaker shall submit environmental monitoring reports t
 - (d) a survey of fish and shellfish populations in the vicinity of the Order limits; and
 - (e) ornithological monitoring.
 
-#### 15. Amendments to approved details[^key-894fa54f8c5512775c508d87ab1ed0de]
+#### 15. Amendments to approved details[^c-894fa54f8c5512775c508d87ab1ed0de]
 
 With respect to any condition of this Schedule which requires the licensed activities to be carried out in accordance with plans, programmes and reports approved by the MMO, the approved plans, programmes and reports shall be taken to include any amendments that may subsequently be approved in writing by the MMO.
 
@@ -974,9 +974,9 @@ A copy of the plans referred to in this Order and certified in accordance with a
 
 [^f00002]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). The relevant provisions of the Planning Act 2008 are amended by Part 6 of Chapter 6 of, and Schedule 13 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20). Following the abolition of the Infrastructure Commission on 1st April 2012 the single person appointed under section 61(2) of the Planning Act 2008 is treated as if appointed by the Secretary of State by virtue of a direction given by the Secretary of State under section 129 of the Localism Act.
 
-[^key-3314403c775e665382b70e92aa074afb]: Commencement: Art. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-3314403c775e665382b70e92aa074afb]: Commencement: Art. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-2691c9e5bff33d5478f343a841a3c870]: Commencement: Art. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-2691c9e5bff33d5478f343a841a3c870]: Commencement: Art. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
 [^f00003]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8); section 78 was extended by section 50(1) of the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5). There are other amendments to the 1990 Act which are not relevant to this Order.
 
@@ -984,83 +984,83 @@ A copy of the plans referred to in this Order and certified in accordance with a
 
 [^f00005]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-5872f7d5371036b156e5f4209a98572b]: Commencement: Art. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-5872f7d5371036b156e5f4209a98572b]: Commencement: Art. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-bf9ba8ab1522802226185ba29fcc7355]: Commencement: Art. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-bf9ba8ab1522802226185ba29fcc7355]: Commencement: Art. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-13f561f1c704920d252268ed4dca0c8b]: Commencement: Art. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-13f561f1c704920d252268ed4dca0c8b]: Commencement: Art. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-6340e1fcfc503c2b136eb449033c040a]: Commencement: Art. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-6340e1fcfc503c2b136eb449033c040a]: Commencement: Art. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-1795fb612abf1f82332627d82a202920]: Commencement: Art. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-1795fb612abf1f82332627d82a202920]: Commencement: Art. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-bc4e86cf9f2dea96eb450cea2c3a655b]: Commencement: Art. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-bc4e86cf9f2dea96eb450cea2c3a655b]: Commencement: Art. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-495df3b466606f5217a7f12c5e5fc215]: Commencement: Art. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-495df3b466606f5217a7f12c5e5fc215]: Commencement: Art. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-a7428406b4215e180574140fe6f65747]: Commencement: Art. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-a7428406b4215e180574140fe6f65747]: Commencement: Art. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-5391ffca03e60753f0f8bd653f38d033]: Commencement: Art. 11 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-5391ffca03e60753f0f8bd653f38d033]: Commencement: Art. 11 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-094fca04a95bdd1e1e9baac3bb0a68a2]: Commencement: Art. 12 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-094fca04a95bdd1e1e9baac3bb0a68a2]: Commencement: Art. 12 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-3504a50ed53a9d9e6c68509736409990]: Commencement: Art. 13 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-3504a50ed53a9d9e6c68509736409990]: Commencement: Art. 13 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-31a39ac3eff412bba46dbbd1f86e1324]: Commencement: Art. 14 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-31a39ac3eff412bba46dbbd1f86e1324]: Commencement: Art. 14 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-ca7d575d65a6a87636ae89cb0c365d30]: Commencement: Art. 15 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-ca7d575d65a6a87636ae89cb0c365d30]: Commencement: Art. 15 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-ffb0f463234078260eaac919827feef3]: Commencement: Art. 16 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-ffb0f463234078260eaac919827feef3]: Commencement: Art. 16 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-59aa98c2d8c43cea5b1d82fbe74e5b73]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-59aa98c2d8c43cea5b1d82fbe74e5b73]: Commencement: Sch. 1 Pt. 1 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-8518a1505c2b4c1d95e7bed4d63f3a9b]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-8518a1505c2b4c1d95e7bed4d63f3a9b]: Commencement: Sch. 1 Pt. 1 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-30d145bc7f271aee35f0f1d43a554832]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-30d145bc7f271aee35f0f1d43a554832]: Commencement: Sch. 1 Pt. 2 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-cdc249b16360003b1d4a2dfb50b8858b]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-cdc249b16360003b1d4a2dfb50b8858b]: Commencement: Sch. 1 Pt. 3 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
 [^f00006]: Footnote: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
 [^f00007]: Footnote: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16). Section 1 was amended by section 311(2) and (3) of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-73af0afa3957bf3c21bc879d579f6b1d]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-73af0afa3957bf3c21bc879d579f6b1d]: Commencement: Sch. 1 Pt. 3 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-24851566eab15aa0531a1ac48ca53edd]: Commencement: Sch. 1 para. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-24851566eab15aa0531a1ac48ca53edd]: Commencement: Sch. 1 para. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-f05059f48c9821bd0232db2b7ffa2c95]: Commencement: Sch. 1 para. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-f05059f48c9821bd0232db2b7ffa2c95]: Commencement: Sch. 1 para. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-c097084625a4aac7a2c1dd018d3b6008]: Commencement: Sch. 1 para. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-c097084625a4aac7a2c1dd018d3b6008]: Commencement: Sch. 1 para. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-6f0f2a9b0a927e02e305efb70621ccb8]: Textual amendment: Words in Sch. 1 para. 5(e) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 5(a)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/5/a) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-6f0f2a9b0a927e02e305efb70621ccb8]: Textual amendment: Words in Sch. 1 para. 5(e) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 5(a)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/5/a) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-046ed954b66430d607fb475a463c387e]: Commencement: Sch. 1 para. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-046ed954b66430d607fb475a463c387e]: Commencement: Sch. 1 para. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-e69fe28c57bf5ab03b8d321a1b78763c]: Commencement: Sch. 1 para. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-e69fe28c57bf5ab03b8d321a1b78763c]: Commencement: Sch. 1 para. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-3cf3da62fd89eab4481c3532d3e87d4a]: Commencement: Sch. 1 para. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-3cf3da62fd89eab4481c3532d3e87d4a]: Commencement: Sch. 1 para. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-1729a5584adb6c6c0f95686c9fcd0434]: Commencement: Sch. 1 para. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-1729a5584adb6c6c0f95686c9fcd0434]: Commencement: Sch. 1 para. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-94f85359546155868ce395208376d125]: Commencement: Sch. 1 para. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-94f85359546155868ce395208376d125]: Commencement: Sch. 1 para. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-50b36b48fa2612e19f31d0c05828e9bc]: Commencement: Sch. 1 para. 11 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-50b36b48fa2612e19f31d0c05828e9bc]: Commencement: Sch. 1 para. 11 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-d57d975096b39f88c881600b032fe310]: Commencement: Sch. 1 para. 12 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-d57d975096b39f88c881600b032fe310]: Commencement: Sch. 1 para. 12 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-f0f677a814efef728a846f18b9099f59]: Commencement: Sch. 1 para. 13 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-f0f677a814efef728a846f18b9099f59]: Commencement: Sch. 1 para. 13 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-96ce85f03a9cdd71d22cc518544ce87a]: Commencement: Sch. 1 para. 14 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-96ce85f03a9cdd71d22cc518544ce87a]: Commencement: Sch. 1 para. 14 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-2b8dbd6c94be43d88f9a2168d87e88d6]: Commencement: Sch. 1 para. 15 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-2b8dbd6c94be43d88f9a2168d87e88d6]: Commencement: Sch. 1 para. 15 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-70874fcb0f8db7cbc7ed572389ed20b7]: Commencement: Sch. 1 para. 16 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-70874fcb0f8db7cbc7ed572389ed20b7]: Commencement: Sch. 1 para. 16 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-8feb49db82deaa295ff1e09c4f96320d]: Commencement: Sch. 1 para. 17 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-8feb49db82deaa295ff1e09c4f96320d]: Commencement: Sch. 1 para. 17 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-8c4e5a296b28b534d05156f3bb68f4de]: Commencement: Sch. 1 para. 18 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-8c4e5a296b28b534d05156f3bb68f4de]: Commencement: Sch. 1 para. 18 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-8e2081434fbbb1bfe6fd864683071eb6]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-8e2081434fbbb1bfe6fd864683071eb6]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
 [^f00009]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
@@ -1070,38 +1070,38 @@ A copy of the plans referred to in this Order and certified in accordance with a
 
 [^f00012]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); section 10 of the Health and Safety at Work Act is substituted by [S.I. 2008/960](https://www.legislation.gov.uk/uksi/2008/960).
 
-[^key-7e0e1f8d5efe810b11c5dbc688c29c69]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-7e0e1f8d5efe810b11c5dbc688c29c69]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-8fb6721e232cdfd2de27bcbf353603da]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-8fb6721e232cdfd2de27bcbf353603da]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-69e80d708ef3abd0d2d04e9106a59249]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-69e80d708ef3abd0d2d04e9106a59249]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-22a73482f67f4943989ba3f611553e5a]: Textual amendment: Words in Sch. 2 Pt. 2 para. 2(e) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 5(b)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/5/b) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
+[^c-22a73482f67f4943989ba3f611553e5a]: Textual amendment: Words in Sch. 2 Pt. 2 para. 2(e) substituted (25.8.2016) by [The Air Navigation Order 2016 (S.I. 2016/765)](https://www.legislation.gov.uk/uksi/2016/765), [art. 1](https://www.legislation.gov.uk/uksi/2016/765/article/1), [Sch. 14 para. 5(b)](https://www.legislation.gov.uk/uksi/2016/765/schedule/14/paragraph/5/b) (with [arts. 17-23](https://www.legislation.gov.uk/uksi/2016/765/article/17), [274(2)-(4)](https://www.legislation.gov.uk/uksi/2016/765/article/274/2))
 
-[^key-0b1b7dd32c9cc059c59052afd49e485a]: Commencement: Sch. 2 para. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-0b1b7dd32c9cc059c59052afd49e485a]: Commencement: Sch. 2 para. 3 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-9a46223e9b0d3652c9af2b12c4b2528e]: Commencement: Sch. 2 para. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-9a46223e9b0d3652c9af2b12c4b2528e]: Commencement: Sch. 2 para. 4 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-20e85a9f017dcff42ea7721d85446852]: Commencement: Sch. 2 para. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-20e85a9f017dcff42ea7721d85446852]: Commencement: Sch. 2 para. 5 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
 [^f00013]: Footnote: [S.I. 2002/1355](https://www.legislation.gov.uk/uksi/2002/1355).
 
-[^key-15aa4798b8a540bc21f6b22978f13cac]: Commencement: Sch. 2 para. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-15aa4798b8a540bc21f6b22978f13cac]: Commencement: Sch. 2 para. 6 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-a742f17013d998d74f5323fb1fd39e3c]: Commencement: Sch. 2 para. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-a742f17013d998d74f5323fb1fd39e3c]: Commencement: Sch. 2 para. 7 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-858aa74d26d8ca38f8c5cd03591d3ccf]: Commencement: Sch. 2 para. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-858aa74d26d8ca38f8c5cd03591d3ccf]: Commencement: Sch. 2 para. 8 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-ca5c5aa7146efd8e6c33eedbc6d5dd47]: Commencement: Sch. 2 para. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-ca5c5aa7146efd8e6c33eedbc6d5dd47]: Commencement: Sch. 2 para. 9 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-92574f7c3651d320dc2699f6c93270cf]: Commencement: Sch. 2 para. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-92574f7c3651d320dc2699f6c93270cf]: Commencement: Sch. 2 para. 10 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-bc71cf09c7b88efb2d04b9dc7df65e77]: Commencement: Sch. 2 para. 11 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-bc71cf09c7b88efb2d04b9dc7df65e77]: Commencement: Sch. 2 para. 11 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-36f6e5fa6d71ff842bcc6b988416fe19]: Commencement: Sch. 2 para. 12 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-36f6e5fa6d71ff842bcc6b988416fe19]: Commencement: Sch. 2 para. 12 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-c6f0e2fd1c30716020b33d4f0be9386d]: Commencement: Sch. 2 para. 13 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-c6f0e2fd1c30716020b33d4f0be9386d]: Commencement: Sch. 2 para. 13 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-99414e5e5cb4c2c2b915adfb570ec8da]: Commencement: Sch. 2 para. 14 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-99414e5e5cb4c2c2b915adfb570ec8da]: Commencement: Sch. 2 para. 14 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
 
-[^key-894fa54f8c5512775c508d87ab1ed0de]: Commencement: Sch. 2 para. 15 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)
+[^c-894fa54f8c5512775c508d87ab1ed0de]: Commencement: Sch. 2 para. 15 in force at 20.2.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/343/article/1)

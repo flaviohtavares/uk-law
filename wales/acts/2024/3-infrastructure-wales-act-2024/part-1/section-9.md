@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Rail freight interchanges[^key-457763483ea296740760d54b89571b25]
+## 9. Rail freight interchanges[^c-457763483ea296740760d54b89571b25]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-457763483ea296740760d54b89571b25]: Commencement: S. 9 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-457763483ea296740760d54b89571b25]: Commencement: S. 9 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

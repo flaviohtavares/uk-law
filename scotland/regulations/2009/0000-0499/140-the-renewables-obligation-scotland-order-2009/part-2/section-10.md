@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 10. Calculation C[^key-998ba4e3517f3a892e3418c6d96cee0f]
+## 10. Calculation C[^c-998ba4e3517f3a892e3418c6d96cee0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-998ba4e3517f3a892e3418c6d96cee0f]: Textual amendment: Art. 10 omitted (1.4.2010) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [5](https://www.legislation.gov.uk/ssi/2010/147/article/5) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))
+[^c-998ba4e3517f3a892e3418c6d96cee0f]: Textual amendment: Art. 10 omitted (1.4.2010) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2010 (S.S.I. 2010/147)](https://www.legislation.gov.uk/ssi/2010/147), [arts. 1](https://www.legislation.gov.uk/ssi/2010/147/article/1), [5](https://www.legislation.gov.uk/ssi/2010/147/article/5) (with [art. 17](https://www.legislation.gov.uk/ssi/2010/147/article/17))

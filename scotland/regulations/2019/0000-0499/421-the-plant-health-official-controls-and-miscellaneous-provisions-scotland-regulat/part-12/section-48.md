@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Minor and consequential amendments[^key-a4e93d675b8db9ada24e01c014dc9901]
+## 48. Minor and consequential amendments[^c-a4e93d675b8db9ada24e01c014dc9901]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 5 has effect and makes provision for minor and consequential amendments
 
 ## Annotations
 
-[^key-a4e93d675b8db9ada24e01c014dc9901]: Commencement: Reg. 48 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-a4e93d675b8db9ada24e01c014dc9901]: Commencement: Reg. 48 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

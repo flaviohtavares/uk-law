@@ -31,42 +31,42 @@ Betting and Lotteries Act 1934 (repealed)
 
 1934 c. 58
 
-[^key-a3c019eca2b40580d648aa6b8a065dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c019eca2b40580d648aa6b8a065dc0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Part I[^key-a3c019eca2b40580d648aa6b8a065dc0]
+## Part I[^c-a3c019eca2b40580d648aa6b8a065dc0]
 
-### 1—20. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a3c019eca2b40580d648aa6b8a065dc0][^key-a3c019eca2b40580d648aa6b8a065dc0]
+### 1—20. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a3c019eca2b40580d648aa6b8a065dc0][^c-a3c019eca2b40580d648aa6b8a065dc0]
 
-## Part II — Lotteries and Prize Competitions[^key-a3c019eca2b40580d648aa6b8a065dc0]
+## Part II — Lotteries and Prize Competitions[^c-a3c019eca2b40580d648aa6b8a065dc0]
 
-### 21—24. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a3c019eca2b40580d648aa6b8a065dc0][^key-a3c019eca2b40580d648aa6b8a065dc0]
+### 21—24. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a3c019eca2b40580d648aa6b8a065dc0][^c-a3c019eca2b40580d648aa6b8a065dc0]
 
-### 25. Amendment of the law with respect to, and saving for, lotteries of Art Unions.[^key-a3c019eca2b40580d648aa6b8a065dc0][^key-a3c019eca2b40580d648aa6b8a065dc0]
+### 25. Amendment of the law with respect to, and saving for, lotteries of Art Unions.[^c-a3c019eca2b40580d648aa6b8a065dc0][^c-a3c019eca2b40580d648aa6b8a065dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26—28. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a3c019eca2b40580d648aa6b8a065dc0][^key-a3c019eca2b40580d648aa6b8a065dc0]
+### 26—28. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a3c019eca2b40580d648aa6b8a065dc0][^c-a3c019eca2b40580d648aa6b8a065dc0]
 
-## Part III — General[^key-a3c019eca2b40580d648aa6b8a065dc0]
+## Part III — General[^c-a3c019eca2b40580d648aa6b8a065dc0]
 
-### 29—32. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-a3c019eca2b40580d648aa6b8a065dc0][^key-a3c019eca2b40580d648aa6b8a065dc0]
+### 29—32. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-a3c019eca2b40580d648aa6b8a065dc0][^c-a3c019eca2b40580d648aa6b8a065dc0]
 
-### 33. Short title, commencement and extent.[^key-a3c019eca2b40580d648aa6b8a065dc0][^key-a3c019eca2b40580d648aa6b8a065dc0]
+### 33. Short title, commencement and extent.[^c-a3c019eca2b40580d648aa6b8a065dc0][^c-a3c019eca2b40580d648aa6b8a065dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-a3c019eca2b40580d648aa6b8a065dc0]
+## SCHEDULE 1[^c-a3c019eca2b40580d648aa6b8a065dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-a3c019eca2b40580d648aa6b8a065dc0]
+## SCHEDULE 2[^c-a3c019eca2b40580d648aa6b8a065dc0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3c019eca2b40580d648aa6b8a065dc0]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/24-25/58) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 3
+[^c-a3c019eca2b40580d648aa6b8a065dc0]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/24-25/58) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 3

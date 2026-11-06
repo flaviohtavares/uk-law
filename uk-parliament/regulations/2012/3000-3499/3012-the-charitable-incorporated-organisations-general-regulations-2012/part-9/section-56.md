@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Requirements for proper delivery to Commission[^key-7fe66df0112bd1e9ee9485bf4366430c]
+## 56. Requirements for proper delivery to Commission[^c-7fe66df0112bd1e9ee9485bf4366430c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fe66df0112bd1e9ee9485bf4366430c]: Commencement: Reg. 56 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-7fe66df0112bd1e9ee9485bf4366430c]: Commencement: Reg. 56 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

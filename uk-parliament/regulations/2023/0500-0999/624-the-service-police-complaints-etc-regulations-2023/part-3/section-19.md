@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Withdrawn complaints[^key-8194787ec0ea5e2893b24fd1c86c0a29]
+## 19. Withdrawn complaints[^c-8194787ec0ea5e2893b24fd1c86c0a29]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ the Commissioner must consider whether it is in the public interest for that det
 
 ## Annotations
 
-[^key-8194787ec0ea5e2893b24fd1c86c0a29]: Commencement: Reg. 19 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-8194787ec0ea5e2893b24fd1c86c0a29]: Commencement: Reg. 19 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Transitional and consequential amendments relating to European Public Limited-Liability Companies[^key-cfffeda87ac2ad9e58f69a48ee08625b]
+## 21. Transitional and consequential amendments relating to European Public Limited-Liability Companies[^c-cfffeda87ac2ad9e58f69a48ee08625b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 has effect.
 
 ## Annotations
 
-[^key-cfffeda87ac2ad9e58f69a48ee08625b]: Commencement: Reg. 21 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-cfffeda87ac2ad9e58f69a48ee08625b]: Commencement: Reg. 21 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

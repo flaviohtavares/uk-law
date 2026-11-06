@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 660A. Clubs consisting mainly of social members[^key-dec32284c144d79c6db515896517d435]
+## 660A. Clubs consisting mainly of social members[^c-dec32284c144d79c6db515896517d435]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dec32284c144d79c6db515896517d435]: Textual amendment: S. 660A inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 5](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/5), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)
+[^c-dec32284c144d79c6db515896517d435]: Textual amendment: S. 660A inserted (1.4.2010) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 21 paras. 5](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/5), [9](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/9) (with [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/21/paragraph/10)); [S.I. 2015/674](https://www.legislation.gov.uk/uksi/2015/674), [art. 2](https://www.legislation.gov.uk/uksi/2015/674/article/2)

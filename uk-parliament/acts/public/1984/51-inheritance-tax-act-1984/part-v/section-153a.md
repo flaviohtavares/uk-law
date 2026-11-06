@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153A. Death of emergency service personnel etc[^key-8c64332567af7f163a43074cc5c81a68]
+## 153A. Death of emergency service personnel etc[^c-8c64332567af7f163a43074cc5c81a68]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c64332567af7f163a43074cc5c81a68]: Textual amendment: S. 153A and cross-heading inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 75(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/75/2)
+[^c-8c64332567af7f163a43074cc5c81a68]: Textual amendment: S. 153A and cross-heading inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 75(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/75/2)

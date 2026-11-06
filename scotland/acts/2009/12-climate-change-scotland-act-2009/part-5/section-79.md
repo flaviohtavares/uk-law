@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Information on waste[^key-4b4ddb6ebaee98c2fc639920fb4896dc]
+## 79. Information on waste[^c-4b4ddb6ebaee98c2fc639920fb4896dc]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b4ddb6ebaee98c2fc639920fb4896dc]: Commencement: S. 79 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-4b4ddb6ebaee98c2fc639920fb4896dc]: Commencement: S. 79 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

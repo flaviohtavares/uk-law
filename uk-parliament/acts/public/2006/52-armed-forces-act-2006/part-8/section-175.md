@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Service compensation orders[^key-df8d2d61680ad7c57f29a8002b9cd2dd][^key-b8c14440bd8e4ca0229dd52e5827ef11]
+## 175. Service compensation orders[^c-df8d2d61680ad7c57f29a8002b9cd2dd][^c-b8c14440bd8e4ca0229dd52e5827ef11]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 - (a) the vehicle is in the public service of the Crown; or
 - (b) the use of the vehicle is exempted from insurance by section 144 of the Road Traffic Act 1988 (c. 52) or Article 90(2) of the Road Traffic (Northern Ireland) Order 1981 (S.I. 1981/154 (N.I. 1)).
 
-(7A)[^key-045af607174263b66d029918d20d05a1] The court must consider making a service compensation order in any case where it has power to do so.
+(7A)[^c-045af607174263b66d029918d20d05a1] The court must consider making a service compensation order in any case where it has power to do so.
 
 (8) The court must give reasons, on passing sentence, if it does not make a service compensation order in a case where it has power to do so.
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-df8d2d61680ad7c57f29a8002b9cd2dd]: Commencement: S. 175 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-df8d2d61680ad7c57f29a8002b9cd2dd]: Commencement: S. 175 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b8c14440bd8e4ca0229dd52e5827ef11]: Commencement: S. 175 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b8c14440bd8e4ca0229dd52e5827ef11]: Commencement: S. 175 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-045af607174263b66d029918d20d05a1]: Textual amendment: S. 175(7A) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 63(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/63/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/a)
+[^c-045af607174263b66d029918d20d05a1]: Textual amendment: S. 175(7A) inserted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 63(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/63/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/a)

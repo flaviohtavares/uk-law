@@ -22,11 +22,11 @@ summary: ''
 
 Rule 4.4
 
-### 1. Application of this schedule[^key-395b1075efa773db04dcb416c33eccbe]
+### 1. Application of this schedule[^c-395b1075efa773db04dcb416c33eccbe]
 
 This schedule applies to the gathering of information by a participant in an inquiry.
 
-### 2. Confidentiality[^key-8d7ee1cde16c5a0db10b178f29c15d67]
+### 2. Confidentiality[^c-8d7ee1cde16c5a0db10b178f29c15d67]
 
 (1) This paragraph applies to information recovered under—
 
@@ -44,7 +44,7 @@ This schedule applies to the gathering of information by a participant in an inq
 
 (5) The person claiming confidentiality may oppose the application.
 
-### 3. Warrants for production of original documents from public records[^key-7aef605ab5b377e4e012e3264550daa2]
+### 3. Warrants for production of original documents from public records[^c-7aef605ab5b377e4e012e3264550daa2]
 
 (1) Where a participant (other than the procurator fiscal) seeks to obtain from the keeper of any public record production of the original of any register or deed in his or her custody for the purposes of an inquiry, that participant must apply to the sheriff.
 
@@ -58,7 +58,7 @@ This schedule applies to the gathering of information by a participant in an inq
 
 (6) A certified copy of the warrant granted under subparagraph (5) must be intimated to the keeper of the public record concerned.
 
-### 4. Applications for commission and diligence[^key-59f33a2f1436918663df3cc3333c95ea]
+### 4. Applications for commission and diligence[^c-59f33a2f1436918663df3cc3333c95ea]
 
 (1) A participant may apply for a commission and diligence for the recovery of a document or other property.
 
@@ -70,7 +70,7 @@ This schedule applies to the gathering of information by a participant in an inq
 
 (5) The Advocate General for Scotland or the Lord Advocate (as the case may be) may appear at the hearing of that application.
 
-### 5. Optional procedure before executing commission and diligence[^key-dc9adaeee28e954213ae7b0c500632b1]
+### 5. Optional procedure before executing commission and diligence[^c-dc9adaeee28e954213ae7b0c500632b1]
 
 (1) A participant who has obtained a commission and diligence may, before executing it, intimate on the haver an order in Form S5.5A.
 
@@ -110,7 +110,7 @@ This schedule applies to the gathering of information by a participant in an inq
 (10) If the participant who intimated the order is not satisfied that—
 
 - (a) full compliance has been made with the order; or
-- (b) adequate reasons for non-compliance have been given, that participant may execute the commission and diligence under paragraph 6[^key-1d2f23300049aa48422d6fcaf67831c3].
+- (b) adequate reasons for non-compliance have been given, that participant may execute the commission and diligence under paragraph 6[^c-1d2f23300049aa48422d6fcaf67831c3].
 
 (11) Where an extract from a book of any description (whether the extract is certified or not) is produced under the order, the sheriff may, on the application of the participant who intimated the order, direct that that participant may inspect the book and take copies of any entries falling with the specification.
 
@@ -118,7 +118,7 @@ This schedule applies to the gathering of information by a participant in an inq
 
 (13) The sheriff may order the production of any book (not being a banker’s book or book of public record) containing entries falling under a specification, notwithstanding the production of a certified extract from that book.
 
-### 6. Execution of commission and diligence[^key-8567928cf23877e13e6b2e1266e077e9]
+### 6. Execution of commission and diligence[^c-8567928cf23877e13e6b2e1266e077e9]
 
 (1) A participant executing a commission and diligence must—
 
@@ -158,7 +158,7 @@ This schedule applies to the gathering of information by a participant in an inq
 - (a) intimate the return of the document to every other participant; and
 - (b) if no other participant uplifts the document within 14 days of the date of intimation, return it to the haver.
 
-### 7. Letters of request[^key-a2542c1bad73f03488f61fc98aec0b0d]
+### 7. Letters of request[^c-a2542c1bad73f03488f61fc98aec0b0d]
 
 (1) This paragraph—
 
@@ -192,7 +192,7 @@ then the applicant must, before the issue of the letter of request, lodge in the
 - (b) any interrogatories and cross-interrogatories as adjusted; and
 - (c) the translations (if any).
 
-### 8. Information given on commission[^key-f5553e99c92d8e9dcc5ac1394306c517]
+### 8. Information given on commission[^c-f5553e99c92d8e9dcc5ac1394306c517]
 
 (1) On cause shown, the sheriff may order that the testimony of a witness is to be taken by a commissioner.
 
@@ -214,7 +214,7 @@ then the applicant must, before the issue of the letter of request, lodge in the
 
 (7) A participant may apply for leave to be present in the room where the commission is carried out.
 
-### 9. Testimony by commissioner: interrogatories[^key-f81186562cbf581b891930cba8a7948b]
+### 9. Testimony by commissioner: interrogatories[^c-f81186562cbf581b891930cba8a7948b]
 
 (1) This paragraph applies where the sheriff—
 
@@ -233,13 +233,13 @@ then the applicant must, before the issue of the letter of request, lodge in the
 
 (7) The sheriff is to resolve any dispute as to the content of the interrogatories and cross-interrogatories, and approve them.
 
-### 10. Testimony by commissioner: conduct of commission[^key-9b888aa803411a8cd87744f62a749889]
+### 10. Testimony by commissioner: conduct of commission[^c-9b888aa803411a8cd87744f62a749889]
 
 (1) The commissioner is to administer the oath *de fideli administratione* to the clerk.
 
 (2) The commissioner is to administer the oath or affirmation to the witness.
 
-### 11. Testimony by commissioner: lodging and custody of video record and documents[^key-930dce8fc66558bfa31cdcfe13e8267b]
+### 11. Testimony by commissioner: lodging and custody of video record and documents[^c-930dce8fc66558bfa31cdcfe13e8267b]
 
 (1) The commissioner is to lodge the video record of the commission and any relevant documents with the sheriff clerk.
 
@@ -258,7 +258,7 @@ then the applicant must, before the issue of the letter of request, lodge in the
   - (i) the name of the witness in any list of witnesses; or
   - (ii) the record in any list of productions.
 
-### 12. Taking of evidence in the EU[^key-1edfce432b158ddaefda2d8282e85d13]
+### 12. Taking of evidence in the EU[^c-1edfce432b158ddaefda2d8282e85d13]
 
 (1) This paragraph applies to any request—
 
@@ -269,30 +269,30 @@ then the applicant must, before the issue of the letter of request, lodge in the
 
 ## Annotations
 
-[^key-395b1075efa773db04dcb416c33eccbe]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-395b1075efa773db04dcb416c33eccbe]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-8d7ee1cde16c5a0db10b178f29c15d67]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-8d7ee1cde16c5a0db10b178f29c15d67]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/2) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-7aef605ab5b377e4e012e3264550daa2]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-7aef605ab5b377e4e012e3264550daa2]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/3) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-59f33a2f1436918663df3cc3333c95ea]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-59f33a2f1436918663df3cc3333c95ea]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
 [^f00016]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46), last amended by the Scotland Act [2016 (c.11)](https://www.legislation.gov.uk/ukpga/2016/11).
 
-[^key-dc9adaeee28e954213ae7b0c500632b1]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-dc9adaeee28e954213ae7b0c500632b1]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/5) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-1d2f23300049aa48422d6fcaf67831c3]: Textual amendment: Word in [sch. 5 para. 5(10)](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/5/10) substituted (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(7)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/7)
+[^c-1d2f23300049aa48422d6fcaf67831c3]: Textual amendment: Word in [sch. 5 para. 5(10)](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/5/10) substituted (15.6.2017) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2017 (S.S.I. 2017/154)](https://www.legislation.gov.uk/ssi/2017/154), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/1/2), [3(7)](https://www.legislation.gov.uk/ssi/2017/154/paragraph/3/7)
 
-[^key-8567928cf23877e13e6b2e1266e077e9]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-8567928cf23877e13e6b2e1266e077e9]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/6) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-a2542c1bad73f03488f61fc98aec0b0d]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-a2542c1bad73f03488f61fc98aec0b0d]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/7) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-f5553e99c92d8e9dcc5ac1394306c517]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-f5553e99c92d8e9dcc5ac1394306c517]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/8) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-f81186562cbf581b891930cba8a7948b]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/9) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-f81186562cbf581b891930cba8a7948b]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/9) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-9b888aa803411a8cd87744f62a749889]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/10) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-9b888aa803411a8cd87744f62a749889]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/10) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-930dce8fc66558bfa31cdcfe13e8267b]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/11) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-930dce8fc66558bfa31cdcfe13e8267b]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/11) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
 
-[^key-1edfce432b158ddaefda2d8282e85d13]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/12) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-1edfce432b158ddaefda2d8282e85d13]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ssi/2017/103/schedule/5/paragraph/12) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

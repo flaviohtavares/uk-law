@@ -40,36 +40,36 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 5(1)(*a*) and (*b*), 25(1), 59(1) and 165(1) and (3) to (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-66b3ca25a103154856dd5837c5142eb7]
+## 1. Citation, commencement and interpretation[^c-66b3ca25a103154856dd5837c5142eb7]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments and Adjudication) (Amendment) Regulations (Northern Ireland) 1997 and shall come into operation on 13th October 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-b94ff31fef1d66f1e0453cf055af8529]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-b94ff31fef1d66f1e0453cf055af8529]
 
-(1)[^key-907fe669f5580b4d17334ace0cad8d86] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86][^f00003] shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86]
+(1)[^c-907fe669f5580b4d17334ace0cad8d86] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86][^f00003] shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86]
 
-(2) In regulation 6 (date of claim) after paragraph (28) *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86][^f00004] there shall be added the following paragraph— *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86]
+(2) In regulation 6 (date of claim) after paragraph (28) *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86][^f00004] there shall be added the following paragraph— *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86]
 
-> (29) In the case of a claim for an increase of severe disablement allowance or of invalid care allowance in respect of a child or adult dependant, paragraphs (16) and (21) shall apply to the claim as if it were a claim for severe disablement allowance or, as the case may be, invalid care allowance. *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86]
+> (29) In the case of a claim for an increase of severe disablement allowance or of invalid care allowance in respect of a child or adult dependant, paragraphs (16) and (21) shall apply to the claim as if it were a claim for severe disablement allowance or, as the case may be, invalid care allowance. *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86]
 
 .
 
-(3) In regulation 19(7) *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86][^f00005] (time for claiming benefit)— *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86]
+(3) In regulation 19(7) *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86][^f00005] (time for claiming benefit)— *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86]
 
-- (a) at the end of sub-paragraph ( *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86]*f*) “or” shall be omitted; and *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86]
-- (b) after sub-paragraph ( *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86]*g*) there shall be added “or” and the following sub-paragraph— *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86]
+- (a) at the end of sub-paragraph ( *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86]*f*) “or” shall be omitted; and *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86]
+- (b) after sub-paragraph ( *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86]*g*) there shall be added “or” and the following sub-paragraph— *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86]
 
-  > - (h) in the case of a claim for disability working allowance, the claimant had previously been entitled to income support, jobseeker’s allowance, incapacity benefit or severe disablement allowance (“the previous benefit”), and the claim for disability working allowance was made within one month of expiry of entitlement to the previous benefit. *(affected by repeal, see note)*[^key-907fe669f5580b4d17334ace0cad8d86]
+  > - (h) in the case of a claim for disability working allowance, the claimant had previously been entitled to income support, jobseeker’s allowance, incapacity benefit or severe disablement allowance (“the previous benefit”), and the claim for disability working allowance was made within one month of expiry of entitlement to the previous benefit. *(affected by repeal, see note)*[^c-907fe669f5580b4d17334ace0cad8d86]
 
   .
 
-## 3. Amendment of the Social Security (Adjudication) Regulations[^key-90b0dcc9add689292dcb034cef726f3c]
+## 3. Amendment of the Social Security (Adjudication) Regulations[^c-90b0dcc9add689292dcb034cef726f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provision[^key-90b0dcc9add689292dcb034cef726f3c]
+## 4. Transitional provision[^c-90b0dcc9add689292dcb034cef726f3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -99,13 +99,13 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-66b3ca25a103154856dd5837c5142eb7]: Commencement: Reg. 1 in operation at 13.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/417/regulation/1/1)
+[^c-66b3ca25a103154856dd5837c5142eb7]: Commencement: Reg. 1 in operation at 13.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/417/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b94ff31fef1d66f1e0453cf055af8529]: Commencement: Reg. 2 in operation at 13.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/417/regulation/1/1)
+[^c-b94ff31fef1d66f1e0453cf055af8529]: Commencement: Reg. 2 in operation at 13.10.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/417/regulation/1/1)
 
-[^key-907fe669f5580b4d17334ace0cad8d86]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/417/regulation/2) revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-907fe669f5580b4d17334ace0cad8d86]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/417/regulation/2) revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00003]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending regulations are [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 
@@ -113,4 +113,4 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00005]: Footnote: Regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 
-[^key-90b0dcc9add689292dcb034cef726f3c]: Textual amendment: [Regs. 3](https://www.legislation.gov.uk/nisr/1997/417/regulation/3), [4](https://www.legislation.gov.uk/nisr/1997/417/regulation/4) revoked (1.6.1999 for specified purposes, 5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in operation) by [The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (S.R. 1999/162)](https://www.legislation.gov.uk/nisr/1999/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1), [59(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/162/schedule/3) (with [reg. 59(2)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/2)[(3)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/3))
+[^c-90b0dcc9add689292dcb034cef726f3c]: Textual amendment: [Regs. 3](https://www.legislation.gov.uk/nisr/1997/417/regulation/3), [4](https://www.legislation.gov.uk/nisr/1997/417/regulation/4) revoked (1.6.1999 for specified purposes, 5.7.1999 for specified purposes, 6.9.1999 for specified purposes, 5.10.1999 for specified purposes, 18.10.1999 for specified purposes, 29.11.1999 in so far as not already in operation) by [The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999 (S.R. 1999/162)](https://www.legislation.gov.uk/nisr/1999/162), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/1), [59(1)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/1), [Sch. 3](https://www.legislation.gov.uk/nisr/1999/162/schedule/3) (with [reg. 59(2)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/2)[(3)](https://www.legislation.gov.uk/nisr/1999/162/regulation/59/3))

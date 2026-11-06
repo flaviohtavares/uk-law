@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Combination of polls at Senedd and local government elections[^key-ea9e3d45e3c9487701e586f302b1d570]
+## 15. Combination of polls at Senedd and local government elections[^c-ea9e3d45e3c9487701e586f302b1d570]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ea9e3d45e3c9487701e586f302b1d570]: Commencement: Art. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ea9e3d45e3c9487701e586f302b1d570]: Commencement: Art. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00037]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 89(1) was amended by section 19(6)(c) of the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50).
 

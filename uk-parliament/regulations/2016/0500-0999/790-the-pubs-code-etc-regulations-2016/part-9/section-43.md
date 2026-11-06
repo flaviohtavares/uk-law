@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Annual compliance report[^key-6db1046f8b4383e808dcb014ac5dcc07]
+## 43. Annual compliance report[^c-6db1046f8b4383e808dcb014ac5dcc07]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6db1046f8b4383e808dcb014ac5dcc07]: Commencement: Reg. 43 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-6db1046f8b4383e808dcb014ac5dcc07]: Commencement: Reg. 43 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00023]: Footnote: Section 72(1) of SBEEA 2015 defines “financial year”.

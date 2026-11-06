@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Member's option to pay lump sum contribution to purchase additional pension[^key-5e53f575b024d5ac4eb0f64078bd9d4e]
+## 36. Member's option to pay lump sum contribution to purchase additional pension[^c-5e53f575b024d5ac4eb0f64078bd9d4e]
 
 *Extent: N.I.*
 
@@ -51,10 +51,10 @@ summary: ''
 
 may not exceed £5000 or such other amount as the Department may for the time being determine (taking into account any increase in the member's pension as a result of the exercise of an option in accordance with regulations 165 to 174).
 
-(7)[^key-e6e655d8ff2c015efab3621c947a49de] In the case of a 2008 Section Optant, this regulation is subject to regulation 136D.
+(7)[^c-e6e655d8ff2c015efab3621c947a49de] In the case of a 2008 Section Optant, this regulation is subject to regulation 136D.
 
 ## Annotations
 
-[^key-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
+[^c-5e53f575b024d5ac4eb0f64078bd9d4e]: Modification: [Regs. 34-41](https://www.legislation.gov.uk/nisr/2008/256/regulation/34) applied (with modifications) (1.4.2015) by [The Health and Social Care Pension Scheme (Transitional and Consequential Provisions) Regulations (Northern Ireland) 2015 (S.R. 2015/122)](https://www.legislation.gov.uk/nisr/2015/122), [regs. 1](https://www.legislation.gov.uk/nisr/2015/122/regulation/1), [23(2)(a)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/2/a)[(3)(b)(i)](https://www.legislation.gov.uk/nisr/2015/122/regulation/23/3/b/i)
 
-[^key-e6e655d8ff2c015efab3621c947a49de]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/nisr/2008/256/regulation/36/7) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2010/22/regulation/24)
+[^c-e6e655d8ff2c015efab3621c947a49de]: Textual amendment: [Reg. 36(7)](https://www.legislation.gov.uk/nisr/2008/256/regulation/36/7) added (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [24](https://www.legislation.gov.uk/nisr/2010/22/regulation/24)

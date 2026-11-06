@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Printer’s name and address on election publications[^key-cb522b2e1b4b4976c2a2a6be86d62cc6]
+## 78. Printer’s name and address on election publications[^c-cb522b2e1b4b4976c2a2a6be86d62cc6]
 
 *Extent: E+W*
 
@@ -101,6 +101,6 @@ would, apart from this paragraph, be guilty of an offence under paragraph (10) o
 
 ## Annotations
 
-[^key-cb522b2e1b4b4976c2a2a6be86d62cc6]: Commencement: Art. 78 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-cb522b2e1b4b4976c2a2a6be86d62cc6]: Commencement: Art. 78 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00057]: Footnote: Section 143 was amended by section 66 of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and section 26(11) of the Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act [2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4).

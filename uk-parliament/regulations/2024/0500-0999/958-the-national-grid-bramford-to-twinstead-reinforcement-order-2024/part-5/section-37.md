@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Power to override easements and other rights[^key-b7e97b39ea7408d9b6ba00186ec8d2e7]
+## 37. Power to override easements and other rights[^c-b7e97b39ea7408d9b6ba00186ec8d2e7]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ the liability is to be enforceable against that undertaker in accordance with se
 
 ## Annotations
 
-[^key-b7e97b39ea7408d9b6ba00186ec8d2e7]: Commencement: Art. 37 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-b7e97b39ea7408d9b6ba00186ec8d2e7]: Commencement: Art. 37 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
 [^f00039]: Footnote: [2016 c. 22](https://www.legislation.gov.uk/ukpga/2016/22).

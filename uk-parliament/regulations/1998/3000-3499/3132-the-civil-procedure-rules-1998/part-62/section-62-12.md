@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62.12. Applications to Judge[^key-61ad487b8f6703fe6a308989f3dd26b8]
+## 62.12. Applications to Judge[^c-61ad487b8f6703fe6a308989f3dd26b8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ must be made in the High Court and will be heard by a judge of the Commercial Co
 
 ## Annotations
 
-[^key-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)
+[^c-61ad487b8f6703fe6a308989f3dd26b8]: Textual amendment: Pt. 62 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [Sch. 6](https://www.legislation.gov.uk/uksi/2001/4015/schedule/6)

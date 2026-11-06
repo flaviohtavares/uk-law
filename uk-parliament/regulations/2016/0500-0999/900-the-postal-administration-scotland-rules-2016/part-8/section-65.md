@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Incapacity to act, through death or otherwise[^key-452a0f325c1c5fab1ca772b133f86fff]
+## 65. Incapacity to act, through death or otherwise[^c-452a0f325c1c5fab1ca772b133f86fff]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-452a0f325c1c5fab1ca772b133f86fff]: Commencement: Rule 65 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-452a0f325c1c5fab1ca772b133f86fff]: Commencement: Rule 65 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
 [^M_F_02cb2826-5bf7-49d5-8357-d206283eb172]: Textual amendment: Full stop in rule 65(1) omitted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(10)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/10)

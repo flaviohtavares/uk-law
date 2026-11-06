@@ -42,7 +42,7 @@ The Scottish Ministers make the following order in exercise of the powers confer
 
 In accordance with section 99(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement, interpretation and application[^key-23fc1f45bdbb656de35873d0fe1a8b94]
+## 1. Citation, commencement, interpretation and application[^c-23fc1f45bdbb656de35873d0fe1a8b94]
 
 (1) This Order may be cited as the Provision of Early Learning and Childcare (Specified Children) (Scotland) Order 2014 and shall come into force—
 
@@ -51,7 +51,7 @@ In accordance with section 99(2) of that Act, a draft of this instrument has bee
 
 (2) In this Order—
 
-- “assessment period” means the assessment period for the purposes of universal credit as specified in regulation 21 of the Universal Credit Regulations 2013;[^key-f80df08f51048336afe22fe0c642dafa]
+- “assessment period” means the assessment period for the purposes of universal credit as specified in regulation 21 of the Universal Credit Regulations 2013;[^c-f80df08f51048336afe22fe0c642dafa]
 - “couple” has the meaning given in section 39 of the Welfare Reform Act 2012;
 - “earned income” means the person’s earned income within the meaning of Chapter 2 of Part 6 of the Universal Credit Regulations 2013;
 - “single person” has the meaning given in section 1(2)(a) of the Welfare Reform Act 2012;
@@ -63,10 +63,10 @@ In accordance with section 99(2) of that Act, a draft of this instrument has bee
   - (d) incapacity benefit under Part II of the Social Security Contributions and Benefits Act 1992[^f00006];
   - (e) severe disablement allowance under the Social Security Contributions and Benefits Act 1992[^f00007];
   - (f) state pension credit payable under the State Pension Credit Act 2002[^f00008];
-  - (g) [^key-7270279baecc4c1e65e0d76b50348aae]...
-  - (h) support provided under Part VI of the Immigration and Asylum Act 1999;[^key-c18a74b90d9f6e2332d1c23d4e09aff9]
-  - (i) universal credit payable under Part 1 of the Welfare Reform Act 2012, where the parent is in receipt of universal credit, either—[^key-e74d607b704a4759430421528b4ed4bd]
-    - (i) as a single person, where the single person has earned income not exceeding £850[^key-0fc793887a4f2b0147680dccb2463feb], or
+  - (g) [^c-7270279baecc4c1e65e0d76b50348aae]...
+  - (h) support provided under Part VI of the Immigration and Asylum Act 1999;[^c-c18a74b90d9f6e2332d1c23d4e09aff9]
+  - (i) universal credit payable under Part 1 of the Welfare Reform Act 2012, where the parent is in receipt of universal credit, either—[^c-e74d607b704a4759430421528b4ed4bd]
+    - (i) as a single person, where the single person has earned income not exceeding £850[^c-0fc793887a4f2b0147680dccb2463feb], or
     - (ii) as a member of a couple, where the couple have a combined earned income not exceeding £850,
 
     in the assessment period immediately preceding the application for early learning and childcare being made;
@@ -80,9 +80,9 @@ In accordance with section 99(2) of that Act, a draft of this instrument has bee
   - (a) subject to paragraph (5), where a child’s second birthday falls in the period beginning 1st March and ending on 31st August, the first day of the autumn term occurring in that year;
   - (b) where a child’s second birthday falls in the period beginning 1st September and ending on 31st December, the first day of the spring term immediately following that birthday; and
   - (c) where a child’s second birthday falls in the period beginning 1st January and ending on the last day of February, the first day of the summer term immediately following that birthday;
-- “the[^key-db267bb2cd4b2ea39a4551f85e325419] 2002 Act” means the Tax Credits Act 2002;
+- “the[^c-db267bb2cd4b2ea39a4551f85e325419] 2002 Act” means the Tax Credits Act 2002;
 - “the 2014 Act” means the Children and Young People (Scotland) Act 2014;
-- “the relevant income” has the meaning given by section 7(3) of the[^key-bb8442d0339056f893037f611fb18363] 2002 Act.
+- “the relevant income” has the meaning given by section 7(3) of the[^c-bb8442d0339056f893037f611fb18363] 2002 Act.
 
 (3) For the purposes of this Order the terms of a school year shall be taken to commence during the following periods—
 
@@ -94,31 +94,31 @@ In accordance with section 99(2) of that Act, a draft of this instrument has bee
 
 (5) Where a child’s second birthday falls in the period beginning 1st March 2014 and ending on 31st August 2014, the starting point for 2 year olds in relation to that child means (other than for the purposes of article 2(2)(b) and (3)(b)) 31st October 2014.
 
-## 2. Description of children entitled to be provided with mandatory amount of early learning and childcare[^key-16154f7e83cb471c2c0cfe543b0709ac][^key-16154f7e83cb471c2c0cfe543b0709ac]
+## 2. Description of children entitled to be provided with mandatory amount of early learning and childcare[^c-16154f7e83cb471c2c0cfe543b0709ac][^c-16154f7e83cb471c2c0cfe543b0709ac]
 
-(1)[^key-c26a5032ec5abae05e743e87a0dc8469] A child is of a specified description if the child has attained the starting point for 3 year olds.
+(1)[^c-c26a5032ec5abae05e743e87a0dc8469] A child is of a specified description if the child has attained the starting point for 3 year olds.
 
-(2)[^key-a9ff07f349063496dac4ecbea56ae438] A child is of a specified description if—
+(2)[^c-a9ff07f349063496dac4ecbea56ae438] A child is of a specified description if—
 
 - (a) the child has attained the starting point for 2 year olds but has not attained the starting point for 3 year olds; and
 - (b) the child’s parent is in receipt of one or more qualifying benefits on the day on which the child attains the starting point for 2 year olds.
 
-(3)[^key-a9ff07f349063496dac4ecbea56ae438] A child is of a specified description if—
+(3)[^c-a9ff07f349063496dac4ecbea56ae438] A child is of a specified description if—
 
 - (a) the child has attained the starting point for 2 year olds but has not attained the starting point for 3 year olds; and
 - (b) the child’s parent starts receiving one or more qualifying benefits after the starting point for 2 year olds.
 
-(4)[^key-a9ff07f349063496dac4ecbea56ae438] Where paragraph (3) of this article applies the child shall be of a specified description from the first day of the term of the school year commencing immediately after the child’s parent first receives one or more qualifying benefits.
+(4)[^c-a9ff07f349063496dac4ecbea56ae438] Where paragraph (3) of this article applies the child shall be of a specified description from the first day of the term of the school year commencing immediately after the child’s parent first receives one or more qualifying benefits.
 
-(5)[^key-a9ff07f349063496dac4ecbea56ae438] A child shall remain of a specified description by virtue of paragraphs (2) and (3) of this article notwithstanding that a child’s parent ceases to be in receipt of one or more qualifying benefits.
+(5)[^c-a9ff07f349063496dac4ecbea56ae438] A child shall remain of a specified description by virtue of paragraphs (2) and (3) of this article notwithstanding that a child’s parent ceases to be in receipt of one or more qualifying benefits.
 
-(6)[^key-8b90d0c5c0f7fff87a49a306e7d83fc4][^key-16154f7e83cb471c2c0cfe543b0709ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-8b90d0c5c0f7fff87a49a306e7d83fc4][^c-16154f7e83cb471c2c0cfe543b0709ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Circumstances in which child does not (or is no longer to) fall within section 47(3) of the 2014 Act[^key-d698d83bb206b8e048c19ea4e7e9fc66]
+## 3. Circumstances in which child does not (or is no longer to) fall within section 47(3) of the 2014 Act[^c-d698d83bb206b8e048c19ea4e7e9fc66]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-0f072ad02d8d8a527fd89a22b87ee9ba]
+## 4. Revocation[^c-0f072ad02d8d8a527fd89a22b87ee9ba]
 
 The Provision of School Education for Children Under School Age (Prescribed Children) (Scotland) Order 2002[^f00009] and the Provision of School Education for Children under School Age (Prescribed Children) (Scotland) Amendment Order 2007[^f00010] are revoked.
 
@@ -164,9 +164,9 @@ Article 4 revokes the Provision of School Education for Children under School Ag
 
 [^f00001]: Footnote: [2014 asp 8](https://www.legislation.gov.uk/asp/2014/8).
 
-[^key-23fc1f45bdbb656de35873d0fe1a8b94]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) in force at 1.8.2014, see [art. 1(1)(a)](https://www.legislation.gov.uk/ssi/2014/196/article/1/1/a)
+[^c-23fc1f45bdbb656de35873d0fe1a8b94]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) in force at 1.8.2014, see [art. 1(1)(a)](https://www.legislation.gov.uk/ssi/2014/196/article/1/1/a)
 
-[^key-f80df08f51048336afe22fe0c642dafa]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) inserted (1.8.2017) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/182)](https://www.legislation.gov.uk/ssi/2017/182), [regs. 1](https://www.legislation.gov.uk/ssi/2017/182/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2017/182/regulation/3/2)
+[^c-f80df08f51048336afe22fe0c642dafa]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) inserted (1.8.2017) by [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/182)](https://www.legislation.gov.uk/ssi/2017/182), [regs. 1](https://www.legislation.gov.uk/ssi/2017/182/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2017/182/regulation/3/2)
 
 [^f00002]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44); the definition of “parent” was amended by the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36), Schedule 4, paragraph 28(5)(a).
 
@@ -182,29 +182,29 @@ Article 4 revokes the Provision of School Education for Children under School Ag
 
 [^f00008]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-7270279baecc4c1e65e0d76b50348aae]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) omitted (6.4.2025) by virtue of [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2025 (S.S.I. 2025/82)](https://www.legislation.gov.uk/ssi/2025/82), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/82/article/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2025/82/article/2/a)
+[^c-7270279baecc4c1e65e0d76b50348aae]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) omitted (6.4.2025) by virtue of [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2025 (S.S.I. 2025/82)](https://www.legislation.gov.uk/ssi/2025/82), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2025/82/article/1/2), [2(a)](https://www.legislation.gov.uk/ssi/2025/82/article/2/a)
 
-[^key-c18a74b90d9f6e2332d1c23d4e09aff9]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
+[^c-c18a74b90d9f6e2332d1c23d4e09aff9]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/a) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
 
-[^key-e74d607b704a4759430421528b4ed4bd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2/i) substituted (1.8.2017) by virtue of [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/182)](https://www.legislation.gov.uk/ssi/2017/182), [regs. 1](https://www.legislation.gov.uk/ssi/2017/182/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2017/182/regulation/3/3)
+[^c-e74d607b704a4759430421528b4ed4bd]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2/i) substituted (1.8.2017) by virtue of [The Welfare Reform (Consequential Amendments) (Scotland) Regulations 2017 (S.S.I. 2017/182)](https://www.legislation.gov.uk/ssi/2017/182), [regs. 1](https://www.legislation.gov.uk/ssi/2017/182/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2017/182/regulation/3/3)
 
-[^key-0fc793887a4f2b0147680dccb2463feb]: Textual amendment: Sum in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) substituted (1.4.2025) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2025 (S.S.I. 2025/82)](https://www.legislation.gov.uk/ssi/2025/82), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/82/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/82/article/2/b)
+[^c-0fc793887a4f2b0147680dccb2463feb]: Textual amendment: Sum in [art. 1(2)](https://www.legislation.gov.uk/ssi/2014/196/article/1/2) substituted (1.4.2025) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2025 (S.S.I. 2025/82)](https://www.legislation.gov.uk/ssi/2025/82), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/82/article/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2025/82/article/2/b)
 
-[^key-db267bb2cd4b2ea39a4551f85e325419]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
+[^c-db267bb2cd4b2ea39a4551f85e325419]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/b) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
 
-[^key-bb8442d0339056f893037f611fb18363]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
+[^c-bb8442d0339056f893037f611fb18363]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/ssi/2014/196/article/1) inserted (1.8.2015) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2015 (S.S.I. 2015/268)](https://www.legislation.gov.uk/ssi/2015/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/268/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2015/268/article/2/2/c) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2015/268/article/1/2))
 
-[^key-16154f7e83cb471c2c0cfe543b0709ac]: Commencement: [Art. 2(1)](https://www.legislation.gov.uk/ssi/2014/196/article/2/1)[(6)](https://www.legislation.gov.uk/ssi/2014/196/article/2/6) in force at 1.8.2014, see [art. 1(1)(a)](https://www.legislation.gov.uk/ssi/2014/196/article/1/1/a)
+[^c-16154f7e83cb471c2c0cfe543b0709ac]: Commencement: [Art. 2(1)](https://www.legislation.gov.uk/ssi/2014/196/article/2/1)[(6)](https://www.legislation.gov.uk/ssi/2014/196/article/2/6) in force at 1.8.2014, see [art. 1(1)(a)](https://www.legislation.gov.uk/ssi/2014/196/article/1/1/a)
 
-[^key-c26a5032ec5abae05e743e87a0dc8469]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/ssi/2014/196/article/2/1) substituted (1.8.2023) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2021 (S.S.I. 2021/67)](https://www.legislation.gov.uk/ssi/2021/67), [arts. 1](https://www.legislation.gov.uk/ssi/2021/67/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2021/67/article/2/2/a)
+[^c-c26a5032ec5abae05e743e87a0dc8469]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/ssi/2014/196/article/2/1) substituted (1.8.2023) by [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2021 (S.S.I. 2021/67)](https://www.legislation.gov.uk/ssi/2021/67), [arts. 1](https://www.legislation.gov.uk/ssi/2021/67/article/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2021/67/article/2/2/a)
 
-[^key-a9ff07f349063496dac4ecbea56ae438]: Commencement: [Art. 2(2)-(5)](https://www.legislation.gov.uk/ssi/2014/196/article/2/2) in force at 31.10.2014, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2014/196/article/1/b)
+[^c-a9ff07f349063496dac4ecbea56ae438]: Commencement: [Art. 2(2)-(5)](https://www.legislation.gov.uk/ssi/2014/196/article/2/2) in force at 31.10.2014, see [art. 1(b)](https://www.legislation.gov.uk/ssi/2014/196/article/1/b)
 
-[^key-8b90d0c5c0f7fff87a49a306e7d83fc4]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/ssi/2014/196/article/2/6) omitted (1.8.2023) by virtue of [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2021 (S.S.I. 2021/67)](https://www.legislation.gov.uk/ssi/2021/67), [arts. 1](https://www.legislation.gov.uk/ssi/2021/67/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2021/67/article/2/2/b)
+[^c-8b90d0c5c0f7fff87a49a306e7d83fc4]: Textual amendment: [Art. 2(6)](https://www.legislation.gov.uk/ssi/2014/196/article/2/6) omitted (1.8.2023) by virtue of [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2021 (S.S.I. 2021/67)](https://www.legislation.gov.uk/ssi/2021/67), [arts. 1](https://www.legislation.gov.uk/ssi/2021/67/article/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2021/67/article/2/2/b)
 
-[^key-d698d83bb206b8e048c19ea4e7e9fc66]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2014/196/article/3) omitted (1.8.2023) by virtue of [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2021 (S.S.I. 2021/67)](https://www.legislation.gov.uk/ssi/2021/67), [arts. 1](https://www.legislation.gov.uk/ssi/2021/67/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/67/article/2/3)
+[^c-d698d83bb206b8e048c19ea4e7e9fc66]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/ssi/2014/196/article/3) omitted (1.8.2023) by virtue of [The Provision of Early Learning and Childcare (Specified Children) (Scotland) Amendment Order 2021 (S.S.I. 2021/67)](https://www.legislation.gov.uk/ssi/2021/67), [arts. 1](https://www.legislation.gov.uk/ssi/2021/67/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/67/article/2/3)
 
-[^key-0f072ad02d8d8a527fd89a22b87ee9ba]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/196/article/4) in force at 1.8.2014, see [art. 1(1)(a)](https://www.legislation.gov.uk/ssi/2014/196/article/1/1/a)
+[^c-0f072ad02d8d8a527fd89a22b87ee9ba]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2014/196/article/4) in force at 1.8.2014, see [art. 1(1)(a)](https://www.legislation.gov.uk/ssi/2014/196/article/1/1/a)
 
 [^f00009]: Footnote: [S.S.I. 2002/90](https://www.legislation.gov.uk/ssi/2002/90) as amended by [S.S.I. 2007/396](https://www.legislation.gov.uk/ssi/2007/396).
 

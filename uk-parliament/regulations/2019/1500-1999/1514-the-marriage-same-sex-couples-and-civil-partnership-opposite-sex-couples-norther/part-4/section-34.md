@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Child abduction[^key-925b2000d250969589881eb3234aca4c]
+## 34. Child abduction[^c-925b2000d250969589881eb3234aca4c]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-925b2000d250969589881eb3234aca4c]: Commencement: Reg. 34 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-925b2000d250969589881eb3234aca4c]: Commencement: Reg. 34 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00050]: Footnote: [S.I. 1985/1638 (N.I. 17)](https://www.legislation.gov.uk/nisi/1985/1638).
 

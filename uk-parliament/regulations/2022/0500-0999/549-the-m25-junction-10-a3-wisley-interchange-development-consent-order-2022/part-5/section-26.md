@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Extinguishment of public rights of way[^key-8d421d8e9eeed7595cb865553fcc9a5e]
+## 26. Extinguishment of public rights of way[^c-8d421d8e9eeed7595cb865553fcc9a5e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d421d8e9eeed7595cb865553fcc9a5e]: Commencement: Art. 26 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-8d421d8e9eeed7595cb865553fcc9a5e]: Commencement: Art. 26 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)

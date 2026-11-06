@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. General interpretation[^key-00f7e9f2c97091f4775e54e91bb254f3][^key-38255eaed41e6c97c02da13e0ceed3d7][^key-cce242312d5b618a88d9f4769131381c][^key-ba75dcc417f56849b8f12de7e35d1085][^key-2b3e2c30e02d4bf74542e54d73ecfe50][^key-07d1bb0ce94d92f1a26cf538fca66adf][^key-952bf45974875255e1d86bc08c207d8f]
+## 54. General interpretation[^c-00f7e9f2c97091f4775e54e91bb254f3][^c-38255eaed41e6c97c02da13e0ceed3d7][^c-cce242312d5b618a88d9f4769131381c][^c-ba75dcc417f56849b8f12de7e35d1085][^c-2b3e2c30e02d4bf74542e54d73ecfe50][^c-07d1bb0ce94d92f1a26cf538fca66adf][^c-952bf45974875255e1d86bc08c207d8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,32 +48,32 @@ summary: ''
 - (a) display for the purpose of enabling people to pay their final respects to the deceased, or
 - (b) display which is incidental to the deceased’s funeral.
 
-(6)[^key-07351fb5e8050ba6d0a6861a3eef1511] In this Act “**embryo**” and “**gametes**” have the same meaning as they have by virtue of section 1(1), (4) and (6) of the Human Fertilisation and Embryology Act 1990 in the other provisions of that Act (apart from section 4A).
+(6)[^c-07351fb5e8050ba6d0a6861a3eef1511] In this Act “**embryo**” and “**gametes**” have the same meaning as they have by virtue of section 1(1), (4) and (6) of the Human Fertilisation and Embryology Act 1990 in the other provisions of that Act (apart from section 4A).
 
 (7) For the purposes of this Act, material shall not be regarded as from a human body if it is created outside the human body.
 
 (8) For the purposes of this Act, except section 49, a person is another’s partner if the two of them (whether of different sexes or the same sex) live as partners in an enduring family relationship.
 
-(9) The following are qualifying relationships for the purposes of this Act, spouse civil partner,[^key-740f9366e73f9bac069c9a6402b757ed], partner, parent, child, brother, sister, grandparent, grandchild, child of a brother or sister, stepfather, stepmother, half-brother, half-sister and friend of long standing.
+(9) The following are qualifying relationships for the purposes of this Act, spouse civil partner,[^c-740f9366e73f9bac069c9a6402b757ed], partner, parent, child, brother, sister, grandparent, grandchild, child of a brother or sister, stepfather, stepmother, half-brother, half-sister and friend of long standing.
 
 (10) The Secretary of State may by order amend subsection (9).
 
 ## Annotations
 
-[^key-00f7e9f2c97091f4775e54e91bb254f3]: Commencement: S. 54 in force at 1.4.2005 for specified purposes by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))
+[^c-00f7e9f2c97091f4775e54e91bb254f3]: Commencement: S. 54 in force at 1.4.2005 for specified purposes by [S.I. 2005/919](https://www.legislation.gov.uk/uksi/2005/919), [art. 3](https://www.legislation.gov.uk/uksi/2005/919/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2005/919/schedule) (with [art. 2](https://www.legislation.gov.uk/uksi/2005/919/article/2))
 
-[^key-38255eaed41e6c97c02da13e0ceed3d7]: Commencement: S. 54 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-38255eaed41e6c97c02da13e0ceed3d7]: Commencement: S. 54 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-cce242312d5b618a88d9f4769131381c]: Commencement: S. 54 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(d)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/d)
+[^c-cce242312d5b618a88d9f4769131381c]: Commencement: S. 54 in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(d)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/d)
 
-[^key-ba75dcc417f56849b8f12de7e35d1085]: Commencement: S. 54 in force at 1.3.2006 for specified purposes by [S.I. 2006/404](https://www.legislation.gov.uk/uksi/2006/404), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/404/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2006/404/article/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/404/schedule) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2006/404/article/4))
+[^c-ba75dcc417f56849b8f12de7e35d1085]: Commencement: S. 54 in force at 1.3.2006 for specified purposes by [S.I. 2006/404](https://www.legislation.gov.uk/uksi/2006/404), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/404/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2006/404/article/2/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/404/schedule) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2006/404/article/4))
 
-[^key-2b3e2c30e02d4bf74542e54d73ecfe50]: Commencement: S. 54 in force at 7.4.2006 for specified purposes by [S.I. 2006/404](https://www.legislation.gov.uk/uksi/2006/404), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/404/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/404/schedule) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2006/404/article/4))
+[^c-2b3e2c30e02d4bf74542e54d73ecfe50]: Commencement: S. 54 in force at 7.4.2006 for specified purposes by [S.I. 2006/404](https://www.legislation.gov.uk/uksi/2006/404), [art. 3(3)](https://www.legislation.gov.uk/uksi/2006/404/article/3/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/404/schedule) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2006/404/article/4))
 
-[^key-07d1bb0ce94d92f1a26cf538fca66adf]: Commencement: S. 54 in force at 31.7.2006 for specified purposes by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 2](https://www.legislation.gov.uk/uksi/2006/1997/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1997/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4))
+[^c-07d1bb0ce94d92f1a26cf538fca66adf]: Commencement: S. 54 in force at 31.7.2006 for specified purposes by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 2](https://www.legislation.gov.uk/uksi/2006/1997/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/1997/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4))
 
-[^key-952bf45974875255e1d86bc08c207d8f]: Commencement: S. 54 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-952bf45974875255e1d86bc08c207d8f]: Commencement: S. 54 in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
 
-[^key-07351fb5e8050ba6d0a6861a3eef1511]: Textual amendment: [S. 54(6)](https://www.legislation.gov.uk/ukpga/2004/30/section/54/6) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/24); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
+[^c-07351fb5e8050ba6d0a6861a3eef1511]: Textual amendment: [S. 54(6)](https://www.legislation.gov.uk/ukpga/2004/30/section/54/6) substituted (1.10.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2008/22/schedule/7/paragraph/24); [S.I. 2009/2232](https://www.legislation.gov.uk/uksi/2009/2232), [art. 2(y)](https://www.legislation.gov.uk/uksi/2009/2232/article/2/y)
 
-[^key-740f9366e73f9bac069c9a6402b757ed]: Textual amendment: Words in s. 54(9) inserted (5.12.2005) by [Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/uksi/2005/3129/schedule/4/paragraph/12/3)
+[^c-740f9366e73f9bac069c9a6402b757ed]: Textual amendment: Words in s. 54(9) inserted (5.12.2005) by [Civil Partnership Act 2004 (Overseas Relationships and Consequential, etc. Amendments) Order 2005 (S.I. 2005/3129)](https://www.legislation.gov.uk/uksi/2005/3129), [art. 1](https://www.legislation.gov.uk/uksi/2005/3129/article/1), [Sch. 4 para. 12(3)](https://www.legislation.gov.uk/uksi/2005/3129/schedule/4/paragraph/12/3)

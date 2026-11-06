@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Arbitration[^key-ecf94b61d59acab5fc0d1dc80bfe9481]
+## 35. Arbitration[^c-ecf94b61d59acab5fc0d1dc80bfe9481]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecf94b61d59acab5fc0d1dc80bfe9481]: Commencement: Art. 35 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)
+[^c-ecf94b61d59acab5fc0d1dc80bfe9481]: Commencement: Art. 35 in force at 19.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/547/article/1)

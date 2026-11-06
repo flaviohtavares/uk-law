@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 256. Named person: application by patient etc.[^key-931369691b5814a1395f1d62f546ef18][^key-d7fd318ec0d6725b9987130db2f4faf5]
+## 256. Named person: application by patient etc.[^c-931369691b5814a1395f1d62f546ef18][^c-d7fd318ec0d6725b9987130db2f4faf5]
 
 *Extent: S*
 
 (1) Where—
 
-- (a)[^key-a5fe6a41b4206551d8466dbffbd06925] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) a person mentioned in subsection (2) below (“[^key-ce9fe2b0cc6ee0cb4039ddb98a6c7050]**the applicant**”) considers that though the patient has a named person it is inappropriate that that person be the patient’s named person; or
+- (a)[^c-a5fe6a41b4206551d8466dbffbd06925] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) a person mentioned in subsection (2) below (“[^c-ce9fe2b0cc6ee0cb4039ddb98a6c7050]**the applicant**”) considers that though the patient has a named person it is inappropriate that that person be the patient’s named person; or
 - (c) circumstances of such description as may be prescribed by regulations exist,
 
 the applicant may apply to the Tribunal for an order under section 257 of this Act in relation to the patient.
@@ -43,10 +43,10 @@ the applicant may apply to the Tribunal for an order under section 257 of this A
 
 ## Annotations
 
-[^key-931369691b5814a1395f1d62f546ef18]: Commencement: S. 256 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
+[^c-931369691b5814a1395f1d62f546ef18]: Commencement: S. 256 in force at 21.3.2005 for specified purposes by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 2](https://www.legislation.gov.uk/ssi/2005/161/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2005/161/schedule/1)
 
-[^key-d7fd318ec0d6725b9987130db2f4faf5]: Commencement: S. 256 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-d7fd318ec0d6725b9987130db2f4faf5]: Commencement: S. 256 in force at 5.10.2005 in so far as not already in force by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-a5fe6a41b4206551d8466dbffbd06925]: Textual amendment: [S. 256(1)(a)](https://www.legislation.gov.uk/asp/2003/13/section/256/1/a) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 24(3)(a)](https://www.legislation.gov.uk/asp/2015/9/section/24/3/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-a5fe6a41b4206551d8466dbffbd06925]: Textual amendment: [S. 256(1)(a)](https://www.legislation.gov.uk/asp/2003/13/section/256/1/a) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 24(3)(a)](https://www.legislation.gov.uk/asp/2015/9/section/24/3/a), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-ce9fe2b0cc6ee0cb4039ddb98a6c7050]: Textual amendment: Words in [s. 256(1)(b)](https://www.legislation.gov.uk/asp/2003/13/section/256/1/b) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 24(3)(b)](https://www.legislation.gov.uk/asp/2015/9/section/24/3/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-ce9fe2b0cc6ee0cb4039ddb98a6c7050]: Textual amendment: Words in [s. 256(1)(b)](https://www.legislation.gov.uk/asp/2003/13/section/256/1/b) substituted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 24(3)(b)](https://www.legislation.gov.uk/asp/2015/9/section/24/3/b), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)

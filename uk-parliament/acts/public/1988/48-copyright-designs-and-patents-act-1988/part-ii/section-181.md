@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Qualifying performances.[^key-efd3341915b36006f7a21237fed5db40]
+## 181. Qualifying performances.[^c-efd3341915b36006f7a21237fed5db40]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efd3341915b36006f7a21237fed5db40]: Textual amendment: S. 181 substituted (coming into force in accordance with s. 7(1) of the amending Act) by [Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024 (c. 6)](https://www.legislation.gov.uk/ukpga/2024/6), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/6/section/5/2) (with [s. 5(4)-(6)](https://www.legislation.gov.uk/ukpga/2024/6/section/5/4))
+[^c-efd3341915b36006f7a21237fed5db40]: Textual amendment: S. 181 substituted (coming into force in accordance with s. 7(1) of the amending Act) by [Trade (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) Act 2024 (c. 6)](https://www.legislation.gov.uk/ukpga/2024/6), [s. 5(2)](https://www.legislation.gov.uk/ukpga/2024/6/section/5/2) (with [s. 5(4)-(6)](https://www.legislation.gov.uk/ukpga/2024/6/section/5/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Raising funds and borrowing.[^key-c00b4160a18c40467894d51872d609c2][^c15490751]
+## 8. Raising funds and borrowing.[^c-c00b4160a18c40467894d51872d609c2][^c15490751]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) accept a deposit from an individual;
 - (b) raise funds from an individual otherwise than by the issue of shares; and
-- (c)[^key-5c9c43a025e95b426b278131c95ae613] raise funds from a body corporate, or from a bare trustee (or, in Scotland, a simple trustee) for a body corporate or for persons who include a body corporate, otherwise than by the issue of deferred shares.
+- (c)[^c-5c9c43a025e95b426b278131c95ae613] raise funds from a body corporate, or from a bare trustee (or, in Scotland, a simple trustee) for a body corporate or for persons who include a body corporate, otherwise than by the issue of deferred shares.
 
 (2) Nothing in subsection (1)(a) above shall apply in relation to—
 
@@ -33,7 +33,7 @@ summary: ''
 - (c) the acceptance from an individual of a qualifying time deposit or an overseas deposit; or
 - (d) in the case of a building society which has announced publicly that it intends, in accordance with section 97 and the other applicable provisions of this Act, to transfer the whole of its business to a company, anything done by the society during the period of two years beginning with the date of the announcement.
 
-(3) The appropriate authority[^key-17fbbbd9faffda44c3c5863d1c086a62] may, if it thinks fit, extend or further extend the period mentioned in subsection (2)(d) above if written application is made to it before the expiry of that period or that period as extended; and a direction under this subsection—
+(3) The appropriate authority[^c-17fbbbd9faffda44c3c5863d1c086a62] may, if it thinks fit, extend or further extend the period mentioned in subsection (2)(d) above if written application is made to it before the expiry of that period or that period as extended; and a direction under this subsection—
 
 - (a) shall be in writing;
 - (b) may be given subject to such limitations or conditions as the appropriate authority may think fit.
@@ -56,7 +56,7 @@ and funds so raised may be repaid when they are no longer required for the purpo
 (9) In this section, in relation to a building society—
 
 - “**overseas deposit**” means a deposit which is accepted by a branch or agency of the society in a country or territory outside the United Kingdom and is repayable in such a country or territory;
-- “**qualifying time deposit**” has the meaning given by section 866(2) and (3) of the Income Tax Act 2007[^key-06988834a69bc1d788c8670f8a1ec441];
+- “**qualifying time deposit**” has the meaning given by section 866(2) and (3) of the Income Tax Act 2007[^c-06988834a69bc1d788c8670f8a1ec441];
 - “**raise funds**” means, subject to subsection (8) above, raise funds by the issue of shares or other securities;
 - “**transferable instrument**” means an instrument which embodies a transferable right to receive an amount referable to a deposit with the society.
 
@@ -74,15 +74,15 @@ and funds so raised may be repaid when they are no longer required for the purpo
 
 ## Annotations
 
-[^key-c00b4160a18c40467894d51872d609c2]: Modification: S. 8 extended (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [Sch. 2 para. 11(c)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/11/c)
+[^c-c00b4160a18c40467894d51872d609c2]: Modification: S. 8 extended (24.6.2003) by [The Uncertificated Securities (Amendment) (Eligible Debt Securities) Regulations 2003 (S.I. 2003/1633)](https://www.legislation.gov.uk/uksi/2003/1633), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2003/1633/regulation/1/1), [Sch. 2 para. 11(c)](https://www.legislation.gov.uk/uksi/2003/1633/schedule/2/paragraph/11/c)
 
 [^c15490751]: Textual amendment: S. 8 substituted (1.12.1997 in specified cases and for specified purposes and otherwise in accordance with art. 2(2)(3)(5) of [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668)) by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [ss. 9](https://www.legislation.gov.uk/ukpga/1997/32/section/9), [47(3)](https://www.legislation.gov.uk/ukpga/1997/32/section/47/3) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/1997/32/section/46/1), [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/1997/32/schedule/8/paragraph/9)); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. II(h)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/II/h)
 
-[^key-5c9c43a025e95b426b278131c95ae613]: Modification: S. 8(1)(c) excluded (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [6](https://www.legislation.gov.uk/uksi/2010/1188/article/6)
+[^c-5c9c43a025e95b426b278131c95ae613]: Modification: S. 8(1)(c) excluded (7.4.2010) by [The Building Societies (Financial Assistance) Order 2010 (S.I. 2010/1188)](https://www.legislation.gov.uk/uksi/2010/1188), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1188/article/1/2), [6](https://www.legislation.gov.uk/uksi/2010/1188/article/6)
 
-[^key-17fbbbd9faffda44c3c5863d1c086a62]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/1986/53/section/8/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 7](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/7) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-17fbbbd9faffda44c3c5863d1c086a62]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/1986/53/section/8/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 7](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/7) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-06988834a69bc1d788c8670f8a1ec441]: Textual amendment: Words in s. 8(9) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 273](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/273) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-06988834a69bc1d788c8670f8a1ec441]: Textual amendment: Words in s. 8(9) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 273](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/273) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
 [^c15490791]: Modification: S. 8(12): Functions of Building Societies Commission transferred (1.12.2001) to the Treasury by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/2617/article/1/2/b), [4(1)](https://www.legislation.gov.uk/uksi/2001/2617/article/4/1),Sch. 1 Pt. III; [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(a)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/a)
 

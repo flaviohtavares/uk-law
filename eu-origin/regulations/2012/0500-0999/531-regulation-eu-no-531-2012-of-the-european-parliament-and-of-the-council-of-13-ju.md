@@ -40,134 +40,134 @@ on roaming on public mobile communications networks within the Union
 
 (Text with EEA relevance) (revoked)
 
-[^key-18212e3973d50b4a6753dd3aed7c0bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18212e3973d50b4a6753dd3aed7c0bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 1. Subject matter and scope[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 2. Definitions[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Wholesale roaming access[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 3. Wholesale roaming access[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Separate sale of regulated retail data roaming services[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 4. Separate sale of regulated retail data roaming services[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Implementation of separate sale of regulated retail data roaming services[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 5. Implementation of separate sale of regulated retail data roaming services[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Committee procedure[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 6. Committee procedure[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6a. Abolition of retail roaming surcharges[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 6a. Abolition of retail roaming surcharges[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6b. Fair use[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 6b. Fair use[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6c. Sustainability of the abolition of retail roaming surcharges[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 6c. Sustainability of the abolition of retail roaming surcharges[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6d. Implementation of fair use policy and of sustainability of the abolition of retail roaming surcharges[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 6d. Implementation of fair use policy and of sustainability of the abolition of retail roaming surcharges[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6e. Provision of regulated retail roaming services[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 6e. Provision of regulated retail roaming services[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6f. Transitional retail roaming surcharges[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 6f. Transitional retail roaming surcharges[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Wholesale charges for the making of regulated roaming calls[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 7. Wholesale charges for the making of regulated roaming calls[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Retail charges for regulated roaming calls[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 8. Retail charges for regulated roaming calls[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Wholesale charges for regulated roaming SMS messages[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 9. Wholesale charges for regulated roaming SMS messages[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Retail charges for regulated roaming SMS messages[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 10. Retail charges for regulated roaming SMS messages[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Technical characteristics of regulated roaming SMS messages[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 11. Technical characteristics of regulated roaming SMS messages[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Wholesale charges for regulated data roaming services[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 12. Wholesale charges for regulated data roaming services[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Retail charges for regulated data roaming services[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 13. Retail charges for regulated data roaming services[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Transparency of retail charges for roaming calls and SMS messages[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 14. Transparency of retail charges for roaming calls and SMS messages[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Transparency and safeguard mechanisms for retail data roaming services[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 15. Transparency and safeguard mechanisms for retail data roaming services[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Supervision and enforcement[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 16. Supervision and enforcement[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Dispute resolution[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 17. Dispute resolution[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Penalties[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 18. Penalties[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Review[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 19. Review[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 20. Notification requirements[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 20. Notification requirements[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 21. Repeal[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 21. Repeal[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 22. Entry into force and expiry[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## Article 22. Entry into force and expiry[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-18212e3973d50b4a6753dd3aed7c0bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18212e3973d50b4a6753dd3aed7c0bc4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## ANNEX I[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-18212e3973d50b4a6753dd3aed7c0bc4]
+## ANNEX II[^c-18212e3973d50b4a6753dd3aed7c0bc4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-18212e3973d50b4a6753dd3aed7c0bc4]: Textual amendment: Regulation revoked (6.4.2023) by [The Trade (Mobile Roaming) Regulations 2023 (S.I. 2023/214)](https://www.legislation.gov.uk/uksi/2023/214), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b), [14](https://www.legislation.gov.uk/uksi/2023/214/regulation/14)
+[^c-18212e3973d50b4a6753dd3aed7c0bc4]: Textual amendment: Regulation revoked (6.4.2023) by [The Trade (Mobile Roaming) Regulations 2023 (S.I. 2023/214)](https://www.legislation.gov.uk/uksi/2023/214), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b), [14](https://www.legislation.gov.uk/uksi/2023/214/regulation/14)

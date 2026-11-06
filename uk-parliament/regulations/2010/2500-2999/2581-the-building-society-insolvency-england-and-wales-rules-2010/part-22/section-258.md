@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 258. Documents issuing from Secretary of State[^key-e8d598bb0fca6ccb49c156f9bd6e19fc]
+## 258. Documents issuing from Secretary of State[^c-e8d598bb0fca6ccb49c156f9bd6e19fc]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.6 of the 1986 Rules.
 
 ## Annotations
 
-[^key-e8d598bb0fca6ccb49c156f9bd6e19fc]: Commencement: Rule 258 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-e8d598bb0fca6ccb49c156f9bd6e19fc]: Commencement: Rule 258 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

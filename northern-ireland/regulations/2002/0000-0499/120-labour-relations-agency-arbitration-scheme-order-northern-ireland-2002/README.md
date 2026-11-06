@@ -31,7 +31,7 @@ summary: ''
 
 INDUSTRIAL RELATIONS
 
-Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2002 (revoked)[^key-b14b7f0d6e2a198fba1a0d6a0e6c3306]
+Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2002 (revoked)[^c-b14b7f0d6e2a198fba1a0d6a0e6c3306]
 
 Made
 
@@ -41,7 +41,7 @@ Coming into operation
 
 28th April 2002
 
-[^key-b14b7f0d6e2a198fba1a0d6a0e6c3306]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b14b7f0d6e2a198fba1a0d6a0e6c3306]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -57,12 +57,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-b14b7f0d6e2a198fba1a0d6a0e6c3306]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b14b7f0d6e2a198fba1a0d6a0e6c3306]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-b14b7f0d6e2a198fba1a0d6a0e6c3306]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b14b7f0d6e2a198fba1a0d6a0e6c3306]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b14b7f0d6e2a198fba1a0d6a0e6c3306]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/120) revoked with savings (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [arts. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [3(1)](https://www.legislation.gov.uk/nisr/2012/301/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2012/301/article/3/2))
+[^c-b14b7f0d6e2a198fba1a0d6a0e6c3306]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2002/120) revoked with savings (27.9.2012) by [The Labour Relations Agency Arbitration Scheme Order (Northern Ireland) 2012 (S.R. 2012/301)](https://www.legislation.gov.uk/nisr/2012/301), [arts. 1](https://www.legislation.gov.uk/nisr/2012/301/article/1), [3(1)](https://www.legislation.gov.uk/nisr/2012/301/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/nisr/2012/301/article/3/2))

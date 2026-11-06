@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-417b31552a81c4683e6fd0f844a7c45a][^c858824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-417b31552a81c4683e6fd0f844a7c45a][^c858824] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-417b31552a81c4683e6fd0f844a7c45a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-417b31552a81c4683e6fd0f844a7c45a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-417b31552a81c4683e6fd0f844a7c45a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-417b31552a81c4683e6fd0f844a7c45a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-417b31552a81c4683e6fd0f844a7c45a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-417b31552a81c4683e6fd0f844a7c45a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) In [^key-ebcba7bede67c9a0199944341d8334e7]... Part I of Schedule 5—
+(5) In [^c-ebcba7bede67c9a0199944341d8334e7]... Part I of Schedule 5—
 
 - “**the appointed day**” means the day appointed by the Secretary of State under subsection (1);
 - “**the Council**” means the National Ports Council;
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-417b31552a81c4683e6fd0f844a7c45a]: Textual amendment: [S. 15(1)-(4)](https://www.legislation.gov.uk/ukpga/1981/56/section/15/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
+[^c-417b31552a81c4683e6fd0f844a7c45a]: Textual amendment: [S. 15(1)-(4)](https://www.legislation.gov.uk/ukpga/1981/56/section/15/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
 
 [^c858824]: Modification: 1.10.1981 appointed under s. 15(1) by [S.I. 1981/1364](https://www.legislation.gov.uk/uksi/1981/1364)
 
-[^key-ebcba7bede67c9a0199944341d8334e7]: Textual amendment: Words in s. 15(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13
+[^c-ebcba7bede67c9a0199944341d8334e7]: Textual amendment: Words in s. 15(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 13

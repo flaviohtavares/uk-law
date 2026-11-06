@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Adoption of lateral drains[^key-e35411988c558f22deb5e6f170e32a82]
+## 96. Adoption of lateral drains[^c-e35411988c558f22deb5e6f170e32a82]
 
 *Extent: E+W*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e35411988c558f22deb5e6f170e32a82]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2003/37/section/96) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-e35411988c558f22deb5e6f170e32a82]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2003/37/section/96) in force at 28.5.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 4(b)](https://www.legislation.gov.uk/uksi/2004/641/article/4/b) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79.24. Redacted material[^key-a1accc8b3c27de745fb74740b9e24225]
+## 79.24. Redacted material[^c-a1accc8b3c27de745fb74740b9e24225]
 
 *Extent: E+W*
 
-Where the appropriate Minister[^key-00d208e37cd2d84c643aabcb39114a00] serves[^key-a18b49a7f1ec25603b585816489722c3] on another party any evidence (including a witness statement) or material which has been redacted on grounds other than those of legal professional privilege, the appropriate Minister must—
+Where the appropriate Minister[^c-00d208e37cd2d84c643aabcb39114a00] serves[^c-a18b49a7f1ec25603b585816489722c3] on another party any evidence (including a witness statement) or material which has been redacted on grounds other than those of legal professional privilege, the appropriate Minister must—
 
 - (a) notify the party that the evidence or material has been redacted and on what grounds it has been redacted;
 - (b) file the evidence or material with the court in an unredacted form together with an explanation of the redaction.
 
 ## Annotations
 
-[^key-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
+[^c-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
 
-[^key-00d208e37cd2d84c643aabcb39114a00]: Textual amendment: Words in [rule 79.24](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.24) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(17)(a)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/17/a)
+[^c-00d208e37cd2d84c643aabcb39114a00]: Textual amendment: Words in [rule 79.24](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.24) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(17)(a)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/17/a)
 
-[^key-a18b49a7f1ec25603b585816489722c3]: Textual amendment: Word in [rule 79.24](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.24) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(17)(b)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/17/b)
+[^c-a18b49a7f1ec25603b585816489722c3]: Textual amendment: Word in [rule 79.24](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.24) substituted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(17)(b)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/17/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Power of slaughter for preventing spread of disease: Scotland[^key-4249a2e68f2accaeb4be0952576690de]
+## SCHEDULE 3A — Power of slaughter for preventing spread of disease: Scotland[^c-4249a2e68f2accaeb4be0952576690de]
 
 *Extent: S*
 
@@ -106,4 +106,4 @@ sub-paragraph (1) does not apply in relation to the making of an order under par
 
 ## Annotations
 
-[^key-4249a2e68f2accaeb4be0952576690de]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ukpga/1981/22/schedule/3A) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 1(2)](https://www.legislation.gov.uk/asp/2006/11/section/1/2), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-4249a2e68f2accaeb4be0952576690de]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ukpga/1981/22/schedule/3A) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 1(2)](https://www.legislation.gov.uk/asp/2006/11/section/1/2), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16.6. Defence of set-off[^key-e6a0fc168ff389896776a3ad85bfd364]
+## 16.6. Defence of set-off[^c-e6a0fc168ff389896776a3ad85bfd364]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the contention may be included in the defence and set off against the claim, whe
 
 ## Annotations
 
-[^key-e6a0fc168ff389896776a3ad85bfd364]: Textual amendment: [Rules 16.4-16.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/16.4) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [12(4)](https://www.legislation.gov.uk/uksi/2022/783/rule/12/4)
+[^c-e6a0fc168ff389896776a3ad85bfd364]: Textual amendment: [Rules 16.4-16.7](https://www.legislation.gov.uk/uksi/1998/3132/rule/16.4) substituted (1.10.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [12(4)](https://www.legislation.gov.uk/uksi/2022/783/rule/12/4)

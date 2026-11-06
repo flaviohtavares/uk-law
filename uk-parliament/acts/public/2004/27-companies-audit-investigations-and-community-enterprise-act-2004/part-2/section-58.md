@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Extension of provisions about registrar etc.[^key-fada580a67d06c3fb2c8ad847039bb1a]
+## 58. Extension of provisions about registrar etc.[^c-fada580a67d06c3fb2c8ad847039bb1a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fada580a67d06c3fb2c8ad847039bb1a]: Textual amendment: S. 58 omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 238](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/238) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-fada580a67d06c3fb2c8ad847039bb1a]: Textual amendment: S. 58 omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 238](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/238) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

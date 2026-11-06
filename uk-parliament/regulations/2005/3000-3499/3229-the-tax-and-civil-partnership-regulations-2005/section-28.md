@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28.[^key-f4bee1f53e6951e01e7ec5823bf6f854]
+## 28.[^c-f4bee1f53e6951e01e7ec5823bf6f854]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 135 (reorganisation of share capital, etc), in subsection (4), after 
 
 ## Annotations
 
-[^key-f4bee1f53e6951e01e7ec5823bf6f854]: Commencement: Reg. 28 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-f4bee1f53e6951e01e7ec5823bf6f854]: Commencement: Reg. 28 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

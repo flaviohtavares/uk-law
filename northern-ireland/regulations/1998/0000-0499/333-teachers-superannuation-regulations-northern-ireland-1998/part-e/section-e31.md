@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E31. Average salary[^key-11dfcc60463809b3173dd97561dc6343]
+## E31. Average salary[^c-11dfcc60463809b3173dd97561dc6343]
 
 *Extent: N.I.*
 
@@ -68,7 +68,7 @@ beginning after 31st March 1979 and ending before 1st September 1980, a persons'
 
 ## Annotations
 
-[^key-11dfcc60463809b3173dd97561dc6343]: Commencement: Reg. E31 in operation at 2.11.1998, see reg. A1
+[^c-11dfcc60463809b3173dd97561dc6343]: Commencement: Reg. E31 in operation at 2.11.1998, see reg. A1
 
 [^f00023]: Footnote: [1975 c. 57](https://www.legislation.gov.uk/ukpga/1975/57)
 

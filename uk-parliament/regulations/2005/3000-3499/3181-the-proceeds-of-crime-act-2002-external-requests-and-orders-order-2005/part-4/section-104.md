@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Action on receipt of external order in connection with criminal convictions[^key-513b647cabef7a80e6ffa4be071ea0d9]
+## 104. Action on receipt of external order in connection with criminal convictions[^c-513b647cabef7a80e6ffa4be071ea0d9]
 
 *Extent: E+W+S+N.I.*
 
 (1) Except where paragraph (2) applies, the Secretary of State may refer an external order arising from a criminal conviction in the country from which the order was sent and concerning relevant property in Northern Ireland to—
 
-- (a)[^key-bf867ad7e8aeba1f8c2d4f2af49f9ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-bf867ad7e8aeba1f8c2d4f2af49f9ad4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the Director of Public Prosecutions for Northern Ireland;
 
 to process it.
@@ -40,6 +40,6 @@ to process it.
 
 ## Annotations
 
-[^key-513b647cabef7a80e6ffa4be071ea0d9]: Commencement: [Art. 104](https://www.legislation.gov.uk/uksi/2005/3181/article/104) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-513b647cabef7a80e6ffa4be071ea0d9]: Commencement: [Art. 104](https://www.legislation.gov.uk/uksi/2005/3181/article/104) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-bf867ad7e8aeba1f8c2d4f2af49f9ad4]: Textual amendment: [Art. 104(1)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/104/1/a) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(23)](https://www.legislation.gov.uk/uksi/2008/302/article/2/23)
+[^c-bf867ad7e8aeba1f8c2d4f2af49f9ad4]: Textual amendment: [Art. 104(1)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/104/1/a) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(23)](https://www.legislation.gov.uk/uksi/2008/302/article/2/23)

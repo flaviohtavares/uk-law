@@ -44,13 +44,13 @@ Coming into operation
 
 The Department of Finance, in exercise of the powers conferred by section 11 of the Deaths, Still-Births and Baby Loss Act (Northern Ireland) 2026[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-cd3ec78353f7e1e88e94510d668e6e58]
+## 1. Citation and commencement[^c-cd3ec78353f7e1e88e94510d668e6e58]
 
 These Regulations may be cited as the Baby Loss Certificate Regulations (Northern Ireland) 2026.
 
-**2.**[^key-7759f012994bc0b886fc9d72d8449723] These Regulations come into operation on 15th June 2026.
+**2.**[^c-7759f012994bc0b886fc9d72d8449723] These Regulations come into operation on 15th June 2026.
 
-## 3. Interpretation[^key-9ca4960177ccb563174839b79eb6b0d8]
+## 3. Interpretation[^c-9ca4960177ccb563174839b79eb6b0d8]
 
 In these Regulations—
 
@@ -58,7 +58,7 @@ In these Regulations—
 - “**Registrar General**” means the Registrar General of Births and Deaths in Northern Ireland;
 - “**second female parent**” means a woman who is a parent of a child by virtue of section 42, 43 or, where appropriate, section 46(1) or (2) of the Human Fertilisation and Embryology Act 2008[^f00003].
 
-## 4. Baby Loss Certificate[^key-e3c0efaf530faf23d5402a50ee91ceeb]
+## 4. Baby Loss Certificate[^c-e3c0efaf530faf23d5402a50ee91ceeb]
 
 (1) The Registrar General may, on receipt of an application under regulation 5, issue a Baby Loss Certificate.
 
@@ -77,7 +77,7 @@ In these Regulations—
 - (a) a reference number for the certificate; and
 - (b) the date on which the certificate is issued.
 
-## 5. Application for Baby Loss Certificate[^key-6e8c2c59f2b0cb75369faf5a09cbf48d]
+## 5. Application for Baby Loss Certificate[^c-6e8c2c59f2b0cb75369faf5a09cbf48d]
 
 (1) The following persons may apply to the Registrar General for a Baby Loss Certificate—
 
@@ -101,13 +101,13 @@ In these Regulations—
 
 (4) A single application may be made for more than one baby loss.
 
-## 6. Record of Baby Loss Certificates[^key-cefd3bd92bb5f5d5f655f6b12ac12ddb]
+## 6. Record of Baby Loss Certificates[^c-cefd3bd92bb5f5d5f655f6b12ac12ddb]
 
 (1) The Registrar General must maintain a record of Baby Loss Certificates issued under these Regulations.
 
 (2) The record must not be open to public inspection and no search may be conducted of the record by anyone other than the Registrar General or an officer delegated for that purpose by the Registrar General.
 
-## 7. Amendment to certificate[^key-80dbd3db174f7faa39fc4944a42d50ba]
+## 7. Amendment to certificate[^c-80dbd3db174f7faa39fc4944a42d50ba]
 
 (1) An applicant to whom a Baby Loss Certificate has been issued under regulation 4 may apply to the Registrar General for an amendment to the Baby Loss Certificate.
 
@@ -147,20 +147,20 @@ Regulation 7 provides for an amendment of a Baby Loss Certificate.
 
 [^f00001]: Footnote: [2026 (c.2)](https://www.legislation.gov.uk/ukpga/2026/2)
 
-[^key-cd3ec78353f7e1e88e94510d668e6e58]: Commencement: Reg. 1 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
+[^c-cd3ec78353f7e1e88e94510d668e6e58]: Commencement: Reg. 1 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
 
-[^key-7759f012994bc0b886fc9d72d8449723]: Commencement: Reg. 2 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
+[^c-7759f012994bc0b886fc9d72d8449723]: Commencement: Reg. 2 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
 
-[^key-9ca4960177ccb563174839b79eb6b0d8]: Commencement: Reg. 3 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
+[^c-9ca4960177ccb563174839b79eb6b0d8]: Commencement: Reg. 3 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
 
 [^f00002]: Footnote: [S.I. 1976/1041 (N.I. 14)](https://www.legislation.gov.uk/nisi/1976/1041) amended by Article 3 of the Still-Birth (Definition) (Northern Ireland) Order 1992, ([S.I. 1992/1310) (N.I. 10)](https://www.legislation.gov.uk/nisi/1992/1310)
 
 [^f00003]: Footnote: [2008 (c.22)](https://www.legislation.gov.uk/ukpga/2008/22)
 
-[^key-e3c0efaf530faf23d5402a50ee91ceeb]: Commencement: Reg. 4 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
+[^c-e3c0efaf530faf23d5402a50ee91ceeb]: Commencement: Reg. 4 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
 
-[^key-6e8c2c59f2b0cb75369faf5a09cbf48d]: Commencement: Reg. 5 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
+[^c-6e8c2c59f2b0cb75369faf5a09cbf48d]: Commencement: Reg. 5 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
 
-[^key-cefd3bd92bb5f5d5f655f6b12ac12ddb]: Commencement: Reg. 6 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
+[^c-cefd3bd92bb5f5d5f655f6b12ac12ddb]: Commencement: Reg. 6 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
 
-[^key-80dbd3db174f7faa39fc4944a42d50ba]: Commencement: Reg. 7 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)
+[^c-80dbd3db174f7faa39fc4944a42d50ba]: Commencement: Reg. 7 in operation at 15.6.2026, see [reg. 2](https://www.legislation.gov.uk/nisr/2026/100/regulation/2)

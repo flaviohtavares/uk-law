@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Enforcement by the Pensions Regulator[^key-23dcbdca31f0e4778211b82dea9ba398]
+## 32. Enforcement by the Pensions Regulator[^c-23dcbdca31f0e4778211b82dea9ba398]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23dcbdca31f0e4778211b82dea9ba398]: Commencement: S. 32 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-23dcbdca31f0e4778211b82dea9ba398]: Commencement: S. 32 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

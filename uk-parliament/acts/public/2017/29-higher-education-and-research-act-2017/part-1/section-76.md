@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Secretary of State's power to confer supplementary functions[^key-5c437e8ee39f50dd8b0f4b26be56b468]
+## 76. Secretary of State's power to confer supplementary functions[^c-5c437e8ee39f50dd8b0f4b26be56b468]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c437e8ee39f50dd8b0f4b26be56b468]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2017/29/section/76) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/i)
+[^c-5c437e8ee39f50dd8b0f4b26be56b468]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2017/29/section/76) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/i)

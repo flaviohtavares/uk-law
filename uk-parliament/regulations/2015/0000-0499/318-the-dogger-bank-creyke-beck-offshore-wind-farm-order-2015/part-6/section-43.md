@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Protective provisions[^key-551270c5344ef1932c8269874f6b3412]
+## 43. Protective provisions[^c-551270c5344ef1932c8269874f6b3412]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 12 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-551270c5344ef1932c8269874f6b3412]: Commencement: Art. 43 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-551270c5344ef1932c8269874f6b3412]: Commencement: Art. 43 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)

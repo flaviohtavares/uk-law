@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Conditions relating to local resolution of disputes over terms of service[^key-d148e3ec7f8639f16956f73dff8a7d1e]
+## 48. Conditions relating to local resolution of disputes over terms of service[^c-d148e3ec7f8639f16956f73dff8a7d1e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d148e3ec7f8639f16956f73dff8a7d1e]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2020/1073/regulation/48) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-d148e3ec7f8639f16956f73dff8a7d1e]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2020/1073/regulation/48) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

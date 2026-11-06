@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.55. The chairman at meetings[^key-f47b19904e89fd7c36669692d21033a2]
+## 4.55. The chairman at meetings[^c-f47b19904e89fd7c36669692d21033a2]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ A person nominated under this paragraph must be either—
 
 ## Annotations
 
-[^key-f47b19904e89fd7c36669692d21033a2]: Commencement: [Rule 4.55](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.55) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f47b19904e89fd7c36669692d21033a2]: Commencement: [Rule 4.55](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.55) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

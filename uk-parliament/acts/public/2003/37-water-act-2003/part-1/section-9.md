@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Power to provide for further exemptions[^key-725db62cdcade4c17ae256bf49acf679]
+## 9. Power to provide for further exemptions[^c-725db62cdcade4c17ae256bf49acf679]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ After section 33 of the WRA there is inserted—
 
 ## Annotations
 
-[^key-725db62cdcade4c17ae256bf49acf679]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2003/37/section/9) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/641/article/3/b) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-725db62cdcade4c17ae256bf49acf679]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2003/37/section/9) in force at 1.4.2004 by [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/641/article/3/b) (with [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1)[7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))

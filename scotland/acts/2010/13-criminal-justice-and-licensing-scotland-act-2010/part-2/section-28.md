@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Involvement in serious organised crime[^key-06b328dd450fc292b91047733651c110]
+## 28. Involvement in serious organised crime[^c-06b328dd450fc292b91047733651c110]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06b328dd450fc292b91047733651c110]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2010/13/section/28) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-06b328dd450fc292b91047733651c110]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2010/13/section/28) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-fc6cf8c2f8050066b5a94f570c196101]
+The Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-fc6cf8c2f8050066b5a94f570c196101]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 29th June 2007
 
-[^key-fc6cf8c2f8050066b5a94f570c196101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc6cf8c2f8050066b5a94f570c196101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fc6cf8c2f8050066b5a94f570c196101]
+## 1. Citation and commencement[^c-fc6cf8c2f8050066b5a94f570c196101]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fc6cf8c2f8050066b5a94f570c196101]
+## 2. Interpretation[^c-fc6cf8c2f8050066b5a94f570c196101]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment[^key-fc6cf8c2f8050066b5a94f570c196101]
+## 3. Amendment[^c-fc6cf8c2f8050066b5a94f570c196101]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc6cf8c2f8050066b5a94f570c196101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc6cf8c2f8050066b5a94f570c196101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fc6cf8c2f8050066b5a94f570c196101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fc6cf8c2f8050066b5a94f570c196101]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fc6cf8c2f8050066b5a94f570c196101]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/314) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(e)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/e)
+[^c-fc6cf8c2f8050066b5a94f570c196101]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/314) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(e)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/e)

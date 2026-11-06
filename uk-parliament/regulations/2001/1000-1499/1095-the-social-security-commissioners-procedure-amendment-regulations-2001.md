@@ -43,7 +43,7 @@ The Lord Chancellor, in exercise of the powers conferred upon him by paragraphs 
 
 (2) In these Regulations a reference to a regulation by number alone means the regulation so numbered in the Social Security Commissioners (Procedure) Regulations 1999 [^c1553952].
 
-## 2. Amendments to the Social Security Commissioners (Procedure) Regulations 1999[^key-1e6a444ddd6c009732a40da0f3a0cf72]
+## 2. Amendments to the Social Security Commissioners (Procedure) Regulations 1999[^c-1e6a444ddd6c009732a40da0f3a0cf72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,35 +53,35 @@ In regulation 4—
 
 - (a) at the beginning insert “ (1) ”;
 - (b) in the definition of “the Act" for the words “the Act" there shall be substituted the words “ the 1998 Act ”;
-- (c)[^key-784a74a926b25cef28566ebf488356c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d) in the definition of “appeal tribunal" for the words “the Act" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5] “ the 1998 Act ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
-- (e) in the definition of “authorised officer" for the words “the Act" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5] “ the 1998 Act ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
-- (f) in the definition of “the chairman", in paragraph (ii), for the words “section 14 of the Act" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5] “ section 14 of the 1998 Act or paragraph 8 of Schedule 7 to the 2000 Act ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
-- (g) in the definition of “Commissioner" for the words “the Act" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5] “ the 1998 Act ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]; *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
-- (h) after the definition of “party" there shall be inserted the following definition— *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
+- (c)[^c-784a74a926b25cef28566ebf488356c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) in the definition of “appeal tribunal" for the words “the Act" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5] “ the 1998 Act ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
+- (e) in the definition of “authorised officer" for the words “the Act" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5] “ the 1998 Act ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
+- (f) in the definition of “the chairman", in paragraph (ii), for the words “section 14 of the Act" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5] “ section 14 of the 1998 Act or paragraph 8 of Schedule 7 to the 2000 Act ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
+- (g) in the definition of “Commissioner" for the words “the Act" there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5] “ the 1998 Act ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]; *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
+- (h) after the definition of “party" there shall be inserted the following definition— *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
 
-  > “person affected" means, subject to paragraph (2), a person who is a person affected under regulation 3 of the Housing Benefit and Council Tax Benefit (Decision and Appeals) Regulations 2001 provided that he is an appellant against the appeal tribunal’s decision or was a party to the appeal tribunal proceedings; *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
+  > “person affected" means, subject to paragraph (2), a person who is a person affected under regulation 3 of the Housing Benefit and Council Tax Benefit (Decision and Appeals) Regulations 2001 provided that he is an appellant against the appeal tribunal’s decision or was a party to the appeal tribunal proceedings; *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
 
-  ; *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
-- (i) after the definition of “proceedings" there shall be inserted the following definition— *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
+  ; *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
+- (i) after the definition of “proceedings" there shall be inserted the following definition— *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
 
-  > “relevant authority" has the same meaning as in paragraph 1(1) of Schedule 7 to the 2000 Act; *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
+  > “relevant authority" has the same meaning as in paragraph 1(1) of Schedule 7 to the 2000 Act; *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
 
-  ; *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
-- (j) for the definition of “respondent" there shall be substituted the following definition— *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
+  ; *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
+- (j) for the definition of “respondent" there shall be substituted the following definition— *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
 
-  > “respondent" means— *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
+  > “respondent" means— *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
   >
-  > - (i (Extent: E+W) (affected by repeal, see note))[^key-784a74a926b25cef28566ebf488356c5] any person or organisation other than the applicant, appellant or person making the reference who is one of the principal parties as defined in section 13 of the 1998 Act, *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
-  > - (ii (Extent: E+W) (affected by repeal, see note))[^key-784a74a926b25cef28566ebf488356c5] any other person taking part in the proceedings in accordance with section 14 of the 1998 Act or as a person affected or as a relevant authority or at the direction or with the leave of the Commissioner, *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
-  > - (iii (Extent: E+W) (affected by repeal, see note))[^key-784a74a926b25cef28566ebf488356c5] the Secretary of State in any case where he is not otherwise a respondent and has given notice to the Commissioner of his wish to be joined as a party to the proceedings. *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
+  > - (i (Extent: E+W) (affected by repeal, see note))[^c-784a74a926b25cef28566ebf488356c5] any person or organisation other than the applicant, appellant or person making the reference who is one of the principal parties as defined in section 13 of the 1998 Act, *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
+  > - (ii (Extent: E+W) (affected by repeal, see note))[^c-784a74a926b25cef28566ebf488356c5] any other person taking part in the proceedings in accordance with section 14 of the 1998 Act or as a person affected or as a relevant authority or at the direction or with the leave of the Commissioner, *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
+  > - (iii (Extent: E+W) (affected by repeal, see note))[^c-784a74a926b25cef28566ebf488356c5] the Secretary of State in any case where he is not otherwise a respondent and has given notice to the Commissioner of his wish to be joined as a party to the proceedings. *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
 
-  ; *(Extent: E+W)* *(affected by repeal, see note)*[^key-784a74a926b25cef28566ebf488356c5]
+  ; *(Extent: E+W)* *(affected by repeal, see note)*[^c-784a74a926b25cef28566ebf488356c5]
 
   and
-- (k)[^key-784a74a926b25cef28566ebf488356c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-784a74a926b25cef28566ebf488356c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-58ed09b8ecc9d6eb1dc719a7d31e8e3f]
+## 4.[^c-58ed09b8ecc9d6eb1dc719a7d31e8e3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -90,42 +90,42 @@ In regulation 4—
 In regulation 14—
 
 - (a) in paragraph (1) for the words “the Act" there shall be substituted the words “ the 1998 Act ”;
-- (b)[^key-7a6bdb57af523cd61a41d309e8649047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-7a6bdb57af523cd61a41d309e8649047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-7a6bdb57af523cd61a41d309e8649047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-7a6bdb57af523cd61a41d309e8649047] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-267414d697e5d4c6743918c8019d3b23]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 7.[^key-267414d697e5d4c6743918c8019d3b23]
+## 6.[^c-267414d697e5d4c6743918c8019d3b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-267414d697e5d4c6743918c8019d3b23]
+## 7.[^c-267414d697e5d4c6743918c8019d3b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9.[^key-267414d697e5d4c6743918c8019d3b23]
+## 8.[^c-267414d697e5d4c6743918c8019d3b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10.[^key-267414d697e5d4c6743918c8019d3b23]
+## 9.[^c-267414d697e5d4c6743918c8019d3b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-267414d697e5d4c6743918c8019d3b23]
+## 10.[^c-267414d697e5d4c6743918c8019d3b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-267414d697e5d4c6743918c8019d3b23]
+## 11.[^c-267414d697e5d4c6743918c8019d3b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-267414d697e5d4c6743918c8019d3b23]
+## 12.[^c-267414d697e5d4c6743918c8019d3b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14.[^key-267414d697e5d4c6743918c8019d3b23]
+## 13.[^c-267414d697e5d4c6743918c8019d3b23]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14.[^c-267414d697e5d4c6743918c8019d3b23]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -159,12 +159,12 @@ The Social Security Commissioners (Procedure) Regulations 1999 were recently ame
 
 [^c1553952]: Marginal citation: [S.I. 1999/1495](https://www.legislation.gov.uk/uksi/1999/1495), as amended by the [Social Security Commissioners (Procedure) (Amendments) Regulations 2000 (S.I. 2000/2854)](https://www.legislation.gov.uk/uksi/2000/2854).
 
-[^key-1e6a444ddd6c009732a40da0f3a0cf72]: Textual amendment: Reg. 2 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-1e6a444ddd6c009732a40da0f3a0cf72]: Textual amendment: Reg. 2 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
-[^key-784a74a926b25cef28566ebf488356c5]: Textual amendment: Reg. 3(c)(k) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-784a74a926b25cef28566ebf488356c5]: Textual amendment: Reg. 3(c)(k) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
-[^key-58ed09b8ecc9d6eb1dc719a7d31e8e3f]: Textual amendment: Reg. 4 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-58ed09b8ecc9d6eb1dc719a7d31e8e3f]: Textual amendment: Reg. 4 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
-[^key-7a6bdb57af523cd61a41d309e8649047]: Textual amendment: Reg. 5(b)(c) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-7a6bdb57af523cd61a41d309e8649047]: Textual amendment: Reg. 5(b)(c) revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
 
-[^key-267414d697e5d4c6743918c8019d3b23]: Textual amendment: Regs. 6-14 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)
+[^c-267414d697e5d4c6743918c8019d3b23]: Textual amendment: Regs. 6-14 revoked (3.11.2008) by [Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/2683/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. General exclusion for leases of land[^key-c7c9ab908dc4ded0670fbceb9f91e11b]
+## 122. General exclusion for leases of land[^c-c7c9ab908dc4ded0670fbceb9f91e11b]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ that consideration shall not be regarded as having been given until the undertak
 
 ## Annotations
 
-[^key-c7c9ab908dc4ded0670fbceb9f91e11b]: Commencement: Reg. 122 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-c7c9ab908dc4ded0670fbceb9f91e11b]: Commencement: Reg. 122 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Provision of advice to children's hearing[^key-7ff984ac37cfdcf90547efa569b2c7b9]
+## 8. Provision of advice to children's hearing[^c-7ff984ac37cfdcf90547efa569b2c7b9]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ff984ac37cfdcf90547efa569b2c7b9]: Commencement: S. 8 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-7ff984ac37cfdcf90547efa569b2c7b9]: Commencement: S. 8 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

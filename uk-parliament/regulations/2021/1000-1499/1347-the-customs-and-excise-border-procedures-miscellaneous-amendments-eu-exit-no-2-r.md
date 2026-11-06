@@ -50,7 +50,7 @@ Coming into force in accordance with regulation 1
 
 The Commissioners of Her Majesty’s Revenue and Customs, in exercise of the powers conferred by sections 32(7), (8), 34(5), 35(2), (3), (4), 45(1) and (2) of, and paragraphs 1(7) and (8) and 3(1), (5) and (6) of Schedule 1 to, the Taxation (Cross-border Trade) Act 2018[^f00001], and the Treasury, in exercise of the power conferred by section 26(1) of the Finance Act 2003[^f00002] make these Regulations.
 
-## 1. Citation and commencement[^key-9f3fb7a701c1f74c99dc5d207a27f4e8]
+## 1. Citation and commencement[^c-9f3fb7a701c1f74c99dc5d207a27f4e8]
 
 (1) These Regulations may be cited as the Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021.
 
@@ -60,17 +60,17 @@ The Commissioners of Her Majesty’s Revenue and Customs, in exercise of the pow
 
 (4) The remainder of these Regulations come into force on 1st January 2022.
 
-## 2. Revocation of the Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Regulations 2021[^key-f80d98a7217722a833aae9e7edd898f7]
+## 2. Revocation of the Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Regulations 2021[^c-f80d98a7217722a833aae9e7edd898f7]
 
 The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Regulations 2021[^f00003] are revoked.
 
 ## PART 1 — Amendments relating to Border Procedures
 
-### 3. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^key-b87a6b9bdc6b0835eb5136a5710912a1][^key-f77ebcba22f4a7b9d87f93dcea33880b]
+### 3. Amendment of the Customs (Import Duty) (EU Exit) Regulations 2018[^c-b87a6b9bdc6b0835eb5136a5710912a1][^c-f77ebcba22f4a7b9d87f93dcea33880b]
 
-(1)[^key-b87a6b9bdc6b0835eb5136a5710912a1] The Customs (Import Duty) (EU Exit) Regulations 2018[^f00004] are amended as follows.
+(1)[^c-b87a6b9bdc6b0835eb5136a5710912a1] The Customs (Import Duty) (EU Exit) Regulations 2018[^f00004] are amended as follows.
 
-(2)[^key-b87a6b9bdc6b0835eb5136a5710912a1][^key-2c1362e5756393eab2718bbc23b48703] In regulation 4 (notification of importation)—
+(2)[^c-b87a6b9bdc6b0835eb5136a5710912a1][^c-2c1362e5756393eab2718bbc23b48703] In regulation 4 (notification of importation)—
 
 - (a) omit paragraphs (3A)(aa) and (3AC)(b);
 - (b) in paragraph (3AC)(a) after “applies;” insert “and”;
@@ -83,7 +83,7 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 
     .
 
-(3)[^key-b87a6b9bdc6b0835eb5136a5710912a1] In regulation 12 (handling of goods in temporary storage)—
+(3)[^c-b87a6b9bdc6b0835eb5136a5710912a1] In regulation 12 (handling of goods in temporary storage)—
 
 - (a) for paragraph (1) substitute—
 
@@ -124,9 +124,9 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 
   .
 
-(4)[^key-b87a6b9bdc6b0835eb5136a5710912a1] In regulation 13(a) (breach of handling requirement) for “a temporary storage facility operated by” substitute “the possession or control of”.
+(4)[^c-b87a6b9bdc6b0835eb5136a5710912a1] In regulation 13(a) (breach of handling requirement) for “a temporary storage facility operated by” substitute “the possession or control of”.
 
-(5)[^key-b87a6b9bdc6b0835eb5136a5710912a1] For regulation 17(5) (customs declarations made orally: general) substitute—
+(5)[^c-b87a6b9bdc6b0835eb5136a5710912a1] For regulation 17(5) (customs declarations made orally: general) substitute—
 
 > (5) A Customs declaration may not be made orally where the goods—
 >
@@ -135,11 +135,11 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 
 .
 
-(6)[^key-f77ebcba22f4a7b9d87f93dcea33880b] In regulations 130(5) (RoRo listed locations) and 131E(5) (other listed locations) at the end insert “and paragraphs (3) and (4) shall apply to such variation or cancellation as if it were a listing”.
+(6)[^c-f77ebcba22f4a7b9d87f93dcea33880b] In regulations 130(5) (RoRo listed locations) and 131E(5) (other listed locations) at the end insert “and paragraphs (3) and (4) shall apply to such variation or cancellation as if it were a listing”.
 
-(7)[^key-796787df07849dea55fa5fe3c673f8db][^key-b87a6b9bdc6b0835eb5136a5710912a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-796787df07849dea55fa5fe3c673f8db][^c-b87a6b9bdc6b0835eb5136a5710912a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-b87a6b9bdc6b0835eb5136a5710912a1] In regulation 131F (chargeable goods carried by relevant vehicles destined for other listed locations: making of declarations), for paragraph (3) substitute—
+(8)[^c-b87a6b9bdc6b0835eb5136a5710912a1] In regulation 131F (chargeable goods carried by relevant vehicles destined for other listed locations: making of declarations), for paragraph (3) substitute—
 
 > (3) A Customs declaration or a temporary storage declaration must be made in respect of the goods—
 >
@@ -150,7 +150,7 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 
 .
 
-(9)[^key-b87a6b9bdc6b0835eb5136a5710912a1] After regulation 131H (goods intended to be carried in a shuttle train: making of declarations)[^f00007] insert—
+(9)[^c-b87a6b9bdc6b0835eb5136a5710912a1] After regulation 131H (goods intended to be carried in a shuttle train: making of declarations)[^f00007] insert—
 
 > **PART 13E — Notification of embarkation requirements for chargeable goods destined for RoRo listed locations or other listed locations**
 >
@@ -162,7 +162,7 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 > - (b) goods in respect of which a voluntary Customs declaration may be made under regulation 39B(3)[^f00009];
 > - (c) goods described in regulation 39(1), 39A(1), 131(1)(b) or 131F(1)(b);
 > - (d) goods in respect of which a simplified Customs declaration has been made using the EIDR procedure.
-> - (e)[^key-97dc495de36a0c250fee10abcb03d973] goods which were in the Republic of Ireland or Northern Ireland immediately before they were imported into the United Kingdom.
+> - (e)[^c-97dc495de36a0c250fee10abcb03d973] goods which were in the Republic of Ireland or Northern Ireland immediately before they were imported into the United Kingdom.
 >
 > (3) The notification of embarkation must be made in the form and manner, and contain such information, as is specified in a notice published by HMRC Commissioners.
 >
@@ -177,15 +177,15 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 
 .
 
-### 4. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^key-27df84a5d31285ca3a25f4fab80f33ed][^key-2f365d8a83642ef30863cf17c4d124fc]
+### 4. Amendment of the Customs (Export) (EU Exit) Regulations 2019[^c-27df84a5d31285ca3a25f4fab80f33ed][^c-2f365d8a83642ef30863cf17c4d124fc]
 
-(1)[^key-27df84a5d31285ca3a25f4fab80f33ed] The Customs (Export) (EU Exit) Regulations 2019[^f00010] are amended as follows.
+(1)[^c-27df84a5d31285ca3a25f4fab80f33ed] The Customs (Export) (EU Exit) Regulations 2019[^f00010] are amended as follows.
 
-(2)[^key-2f365d8a83642ef30863cf17c4d124fc] In regulation 40(8) (obligation to make goods available for examination) after “RoRo listed locations” insert “or specified export locations”.
+(2)[^c-2f365d8a83642ef30863cf17c4d124fc] In regulation 40(8) (obligation to make goods available for examination) after “RoRo listed locations” insert “or specified export locations”.
 
-(3)[^key-2f365d8a83642ef30863cf17c4d124fc] In the heading to Part 6 after “RoRo listed locations” insert “or specified export locations”.
+(3)[^c-2f365d8a83642ef30863cf17c4d124fc] In the heading to Part 6 after “RoRo listed locations” insert “or specified export locations”.
 
-(4)[^key-2f365d8a83642ef30863cf17c4d124fc] In regulation 52 (interpretation of Part)—
+(4)[^c-2f365d8a83642ef30863cf17c4d124fc] In regulation 52 (interpretation of Part)—
 
 - (a) before the definition of “RoRo listed location” insert—
 
@@ -198,9 +198,9 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 
   .
 
-(5)[^key-2f365d8a83642ef30863cf17c4d124fc] In the heading to regulation 53 (RoRo listed locations for export), after “export” insert “and specified export locations”.
+(5)[^c-2f365d8a83642ef30863cf17c4d124fc] In the heading to regulation 53 (RoRo listed locations for export), after “export” insert “and specified export locations”.
 
-(6)[^key-2f365d8a83642ef30863cf17c4d124fc] In regulation 53 (RoRo listed locations for export)—
+(6)[^c-2f365d8a83642ef30863cf17c4d124fc] In regulation 53 (RoRo listed locations for export)—
 
 - (a) after paragraph (2) insert—
 
@@ -220,7 +220,7 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 
   .
 
-(7)[^key-27df84a5d31285ca3a25f4fab80f33ed] In regulation 54 (goods carried by RoRo vehicles to and from RoRo listed locations: modifications in relation to export declarations)—
+(7)[^c-27df84a5d31285ca3a25f4fab80f33ed] In regulation 54 (goods carried by RoRo vehicles to and from RoRo listed locations: modifications in relation to export declarations)—
 
 - (a) in the heading for “Goods carried by RoRo vehicles to and from” substitute “Specified export locations and”;
 - (b) for paragraph (1) substitute—
@@ -248,7 +248,7 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 
   .
 
-(8)[^key-27df84a5d31285ca3a25f4fab80f33ed] After regulation 54 insert—
+(8)[^c-27df84a5d31285ca3a25f4fab80f33ed] After regulation 54 insert—
 
 > **54AA. Control of goods carried to and from RoRo listed locations or specified export locations**
 >
@@ -277,7 +277,7 @@ The Customs and Excise Border Procedures (Miscellaneous Amendments) (EU Exit) Re
 
 .
 
-### 5. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^key-16c48e2f826489568e31a592ed287556]
+### 5. Amendment of the Customs (Contravention of a Relevant Rule) Regulations 2003[^c-16c48e2f826489568e31a592ed287556]
 
 The Schedule to the Customs (Contravention of a Relevant Rule) Regulations 2003[^f00011] is amended as follows—
 
@@ -325,19 +325,19 @@ The Schedule to the Customs (Contravention of a Relevant Rule) Regulations 2003[
 
 ## PART 2 — Consequential Customs amendments
 
-### 6. Amendment of the Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020[^key-d155c0302fdba58b755e38457789d55e]
+### 6. Amendment of the Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020[^c-d155c0302fdba58b755e38457789d55e]
 
 (1) The Customs (Declarations) (Amendment and Modification) (EU Exit) Regulations 2020[^f00015] are amended as follows.
 
 (2) Omit regulation 2 (modified export controls).
 
-### 7. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^key-4668201047a3b7a8bdc6a8323c5d3b64]
+### 7. Amendment of the Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^c-4668201047a3b7a8bdc6a8323c5d3b64]
 
 (1) The Customs (Special Procedures and Outward Processing) (EU Exit) Regulations 2018[^f00016] are amended as follows.
 
 (2) In regulation 13A(1)(c) (declarations for an outward processing procedure: further provisions) after “RoRo listed” insert “or specified export”.
 
-### 8. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^key-9e103ac8d52f132409d4ad5cb436d37f]
+### 8. Amendment of the Customs (Northern Ireland) (EU Exit) Regulations 2020[^c-9e103ac8d52f132409d4ad5cb436d37f]
 
 (1) The Customs (Northern Ireland) (EU Exit) Regulations 2020[^f00017] are amended as follows.
 
@@ -345,11 +345,11 @@ The Schedule to the Customs (Contravention of a Relevant Rule) Regulations 2003[
 
 ## PART 3 — Consequential excise amendments
 
-### 9. Amendment of the Excise Duties (Miscellaneous Amendments) (EU Exit) (No.3) Regulations 2019[^key-3983720f27b432a964c5744a95b642eb][^key-4a2b41e5f4686ac3a8c4c04bb1b74557]
+### 9. Amendment of the Excise Duties (Miscellaneous Amendments) (EU Exit) (No.3) Regulations 2019[^c-3983720f27b432a964c5744a95b642eb][^c-4a2b41e5f4686ac3a8c4c04bb1b74557]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of the Customs and Excise (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-89b47d441bd0c268834168a99f0d189a]
+### 10. Amendment of the Customs and Excise (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-89b47d441bd0c268834168a99f0d189a]
 
 Omit regulation 16 (amendment of the Excise Duties (Miscellaneous Amendments) (EU Exit) (No. 3) Regulations 2019) of the Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019[^f00019].
 
@@ -393,21 +393,21 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00002]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14). Relevant amendments were made by Schedule 7 to the Taxation (Cross-border Trade) Act 2018.
 
-[^key-9f3fb7a701c1f74c99dc5d207a27f4e8]: Commencement: Reg. 1 in force at 22.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1)
+[^c-9f3fb7a701c1f74c99dc5d207a27f4e8]: Commencement: Reg. 1 in force at 22.12.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1)
 
-[^key-f80d98a7217722a833aae9e7edd898f7]: Commencement: Reg. 2 in force at 22.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/2)
+[^c-f80d98a7217722a833aae9e7edd898f7]: Commencement: Reg. 2 in force at 22.12.2021, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2021/830](https://www.legislation.gov.uk/uksi/2021/830).
 
-[^key-b87a6b9bdc6b0835eb5136a5710912a1]: Commencement: Reg. 3(1)-(5)(7)-(9) in force at 1.1.2022, see reg. 1(4)
+[^c-b87a6b9bdc6b0835eb5136a5710912a1]: Commencement: Reg. 3(1)-(5)(7)-(9) in force at 1.1.2022, see reg. 1(4)
 
-[^key-f77ebcba22f4a7b9d87f93dcea33880b]: Commencement: Reg. 3(6) in force at 22.12.2021 immediately after reg. 2 comes into force, see reg. 1(3)
+[^c-f77ebcba22f4a7b9d87f93dcea33880b]: Commencement: Reg. 3(6) in force at 22.12.2021 immediately after reg. 2 comes into force, see reg. 1(3)
 
 [^f00004]: Footnote: [S.I. 2018/1248](https://www.legislation.gov.uk/uksi/2018/1248); amended by [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326), [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486), [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215), [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346), [S.I. 2020/967](https://www.legislation.gov.uk/uksi/2020/967), [S.I. 2020/1088](https://www.legislation.gov.uk/uksi/2020/1088), [S.I. 2020/1234](https://www.legislation.gov.uk/uksi/2020/1234), [S.I 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [S.I. 2020/1552](https://www.legislation.gov.uk/uksi/2020/1552), [S.I 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [S.I. 2021/478](https://www.legislation.gov.uk/uksi/2021/478), [S.I 2020/697](https://www.legislation.gov.uk/uksi/2020/697), [S.I. 2020/1431](https://www.legislation.gov.uk/uksi/2020/1431), [S.I. 2021/1205](https://www.legislation.gov.uk/uksi/2021/1205), [S.I. 2021/1156](https://www.legislation.gov.uk/uksi/2021/1156).
 
-[^key-2c1362e5756393eab2718bbc23b48703]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/2) substituted (31.12.2021) by [The Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1444)](https://www.legislation.gov.uk/uksi/2021/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/3/2/a)
+[^c-2c1362e5756393eab2718bbc23b48703]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/2) substituted (31.12.2021) by [The Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1444)](https://www.legislation.gov.uk/uksi/2021/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/3/2/a)
 
-[^key-796787df07849dea55fa5fe3c673f8db]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/7) omitted (31.12.2021) by virtue of [The Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1444)](https://www.legislation.gov.uk/uksi/2021/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/3/2/b)
+[^c-796787df07849dea55fa5fe3c673f8db]: Textual amendment: [Reg. 3(7)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/7) omitted (31.12.2021) by virtue of [The Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1444)](https://www.legislation.gov.uk/uksi/2021/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/3/2/b)
 
 [^f00006]: Footnote: Paragraph 16A of Schedule 1 to the TCTA inserted by regulation 5(2) of [S.I. 2020/1439](https://www.legislation.gov.uk/uksi/2020/1439) provides that paragraphs 15 and 16 are subject to provision made under paragraph 3(5) about customs declarations.
 
@@ -417,15 +417,15 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00009]: Footnote: Regulations 39A and 39B were inserted by [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486).
 
-[^key-97dc495de36a0c250fee10abcb03d973]: Textual amendment: Words in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/9) inserted (31.12.2021) by [The Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1444)](https://www.legislation.gov.uk/uksi/2021/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/3/2/c)
+[^c-97dc495de36a0c250fee10abcb03d973]: Textual amendment: Words in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/3/9) inserted (31.12.2021) by [The Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1444)](https://www.legislation.gov.uk/uksi/2021/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/3/2/c)
 
-[^key-27df84a5d31285ca3a25f4fab80f33ed]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/4/1)[(7)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/4/7)[(8)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/4/8) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
+[^c-27df84a5d31285ca3a25f4fab80f33ed]: Commencement: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/4/1)[(7)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/4/7)[(8)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/4/8) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
 
-[^key-2f365d8a83642ef30863cf17c4d124fc]: Commencement: Reg. 4(2)-(6) in force at 22.12.2021 immediately after reg. 2 comes into force, see reg. 1(3)
+[^c-2f365d8a83642ef30863cf17c4d124fc]: Commencement: Reg. 4(2)-(6) in force at 22.12.2021 immediately after reg. 2 comes into force, see reg. 1(3)
 
 [^f00010]: Footnote: [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108); amended by [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486), [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215), [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346), [S.I. 2020/967](https://www.legislation.gov.uk/uksi/2020/967), [S.I. 2020/1234](https://www.legislation.gov.uk/uksi/2020/1234), [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [S.I. 2020/1552](https://www.legislation.gov.uk/uksi/2020/1552), [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [S.I. 2021/478](https://www.legislation.gov.uk/uksi/2021/478), [S.I. 2021/697](https://www.legislation.gov.uk/uksi/2021/697), [S.I. 2021/1205](https://www.legislation.gov.uk/uksi/2021/1205) and [S.I. 2021/1156](https://www.legislation.gov.uk/uksi/2021/1156).
 
-[^key-16c48e2f826489568e31a592ed287556]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1347/regulation/5) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
+[^c-16c48e2f826489568e31a592ed287556]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1347/regulation/5) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
 
 [^f00011]: Footnote: [S.I. 2003/3113](https://www.legislation.gov.uk/uksi/2003/3113); amended by [S.I. 2009/3164](https://www.legislation.gov.uk/uksi/2009/3164), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2011/2085](https://www.legislation.gov.uk/uksi/2011/2085), [S.I. 2011/2534](https://www.legislation.gov.uk/uksi/2011/2534), [S.I. 2015/636](https://www.legislation.gov.uk/uksi/2015/636), [S.I. 2018/483](https://www.legislation.gov.uk/uksi/2018/483), [S.I. 2018/1260](https://www.legislation.gov.uk/uksi/2018/1260), [S.I. 2019/148](https://www.legislation.gov.uk/uksi/2019/148), [S.I. 2019/326](https://www.legislation.gov.uk/uksi/2019/326), [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486), [S.I. 2019/487](https://www.legislation.gov.uk/uksi/2019/487), [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215), [S.I. 2020/1088](https://www.legislation.gov.uk/uksi/2020/1088), [S.I. 2020/1234](https://www.legislation.gov.uk/uksi/2020/1234), [S.I. 2020/1431](https://www.legislation.gov.uk/uksi/2020/1431), [S.I. 2020/1552](https://www.legislation.gov.uk/uksi/2020/1552), [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605), [S.I. 2020/1629](https://www.legislation.gov.uk/uksi/2020/1629) and [S.I. 2021/1156](https://www.legislation.gov.uk/uksi/2021/1156).
 
@@ -435,22 +435,22 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00014]: Footnote: [S.I. 2021/1312](https://www.legislation.gov.uk/uksi/2021/1312).
 
-[^key-d155c0302fdba58b755e38457789d55e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/1347/regulation/6) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
+[^c-d155c0302fdba58b755e38457789d55e]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2021/1347/regulation/6) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
 
 [^f00015]: Footnote: [S.I. 2020/1234](https://www.legislation.gov.uk/uksi/2020/1234).
 
-[^key-4668201047a3b7a8bdc6a8323c5d3b64]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1347/regulation/7) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
+[^c-4668201047a3b7a8bdc6a8323c5d3b64]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2021/1347/regulation/7) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
 
 [^f00016]: Footnote: [S.I. 2018/1249](https://www.legislation.gov.uk/uksi/2018/1249). Relevant amending instruments are [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108) and [S.I. 2019/486](https://www.legislation.gov.uk/uksi/2019/486).
 
-[^key-9e103ac8d52f132409d4ad5cb436d37f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/1347/regulation/8) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
+[^c-9e103ac8d52f132409d4ad5cb436d37f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2021/1347/regulation/8) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
 
 [^f00017]: Footnote: [S.I. 2020/1605](https://www.legislation.gov.uk/uksi/2020/1605); there are amendments but none are relevant.
 
-[^key-3983720f27b432a964c5744a95b642eb]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1347/regulation/9) omitted (31.12.2021) by virtue of [The Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1444)](https://www.legislation.gov.uk/uksi/2021/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/3/3)
+[^c-3983720f27b432a964c5744a95b642eb]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1347/regulation/9) omitted (31.12.2021) by virtue of [The Taxation (Cross-border Trade) (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2021 (S.I. 2021/1444)](https://www.legislation.gov.uk/uksi/2021/1444), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2021/1444/regulation/3/3)
 
-[^key-4a2b41e5f4686ac3a8c4c04bb1b74557]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1347/regulation/9) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
+[^c-4a2b41e5f4686ac3a8c4c04bb1b74557]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2021/1347/regulation/9) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
 
-[^key-89b47d441bd0c268834168a99f0d189a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1347/regulation/10) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
+[^c-89b47d441bd0c268834168a99f0d189a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2021/1347/regulation/10) in force at 1.1.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2021/1347/regulation/1/4)
 
 [^f00019]: Footnote: [S.I. 2019/1215](https://www.legislation.gov.uk/uksi/2019/1215).

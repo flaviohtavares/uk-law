@@ -30,7 +30,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-25e7c4a7aaaa5e66cf75eb8dbcac3986]
+The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-25e7c4a7aaaa5e66cf75eb8dbcac3986]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 7th April 1997
 
-[^key-25e7c4a7aaaa5e66cf75eb8dbcac3986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25e7c4a7aaaa5e66cf75eb8dbcac3986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-25e7c4a7aaaa5e66cf75eb8dbcac3986]
+## 1. Citation, commencement and interpretation[^c-25e7c4a7aaaa5e66cf75eb8dbcac3986]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-25e7c4a7aaaa5e66cf75eb8dbcac3986]
+## 2. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-25e7c4a7aaaa5e66cf75eb8dbcac3986]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-25e7c4a7aaaa5e66cf75eb8dbcac3986]
+## 3. Revocation[^c-25e7c4a7aaaa5e66cf75eb8dbcac3986]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25e7c4a7aaaa5e66cf75eb8dbcac3986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25e7c4a7aaaa5e66cf75eb8dbcac3986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-25e7c4a7aaaa5e66cf75eb8dbcac3986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25e7c4a7aaaa5e66cf75eb8dbcac3986]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25e7c4a7aaaa5e66cf75eb8dbcac3986]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/112) revoked (6.4.1998) by [The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/54)](https://www.legislation.gov.uk/nisr/1998/54), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/54/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/1998/54/regulation/3)
+[^c-25e7c4a7aaaa5e66cf75eb8dbcac3986]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/112) revoked (6.4.1998) by [The Social Security (Incapacity for Work) (General) (Amendment) Regulations (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/54)](https://www.legislation.gov.uk/nisr/1998/54), [regs. 1(1)](https://www.legislation.gov.uk/nisr/1998/54/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/1998/54/regulation/3)

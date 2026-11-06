@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Review of qualifications to which Part applies[^key-f7f26c44b0948402f31fe21e6ac0cb13]
+## 154. Review of qualifications to which Part applies[^c-f7f26c44b0948402f31fe21e6ac0cb13]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ Ofqual may keep under review all aspects of qualifications to which this Part ap
 
 ## Annotations
 
-[^key-f7f26c44b0948402f31fe21e6ac0cb13]: Commencement: S. 154 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-f7f26c44b0948402f31fe21e6ac0cb13]: Commencement: S. 154 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)

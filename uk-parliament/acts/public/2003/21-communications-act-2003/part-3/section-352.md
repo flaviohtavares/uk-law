@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 352. Action following review under s. 351[^key-71a47ac429ccfc45ea01423b4e7ca219]
+## 352. Action following review under s. 351[^c-71a47ac429ccfc45ea01423b4e7ca219]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ they may vary the licence so as to include in it such conditions relating to any
 
 ## Annotations
 
-[^key-71a47ac429ccfc45ea01423b4e7ca219]: Commencement: S. 352 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-71a47ac429ccfc45ea01423b4e7ca219]: Commencement: S. 352 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 260. Arrangements for consumers to exercise right to end contract[^key-92cd4c975921377be3a4d2b3e0c487d3]
+## 260. Arrangements for consumers to exercise right to end contract[^c-92cd4c975921377be3a4d2b3e0c487d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92cd4c975921377be3a4d2b3e0c487d3]: Commencement: S. 260 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-92cd4c975921377be3a4d2b3e0c487d3]: Commencement: S. 260 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

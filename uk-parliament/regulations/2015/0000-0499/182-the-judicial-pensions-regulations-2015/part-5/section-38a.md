@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Transfer value payment or purported transfer value payment in respect of judges with remediable service[^key-962483b0b9588ab328fafa65c9339640]
+## 38A. Transfer value payment or purported transfer value payment in respect of judges with remediable service[^c-962483b0b9588ab328fafa65c9339640]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-962483b0b9588ab328fafa65c9339640]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/uksi/2015/182/regulation/38A) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/4)
+[^c-962483b0b9588ab328fafa65c9339640]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/uksi/2015/182/regulation/38A) substituted (24.1.2024) by [The Judicial Pensions (Remediable Service etc.) (Amendment) Regulations 2024 (S.I. 2024/79)](https://www.legislation.gov.uk/uksi/2024/79), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/79/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2024/79/regulation/2/4)

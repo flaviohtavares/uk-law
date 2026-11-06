@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 5 — REPEALS[^c22529091][^key-f583d2c60805f69507a36a0b932f83d3]
+## SCHEDULE 5 — REPEALS[^c22529091][^c-f583d2c60805f69507a36a0b932f83d3]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ Section 57(2).
 
 [^c22529091]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) partly in operation; [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) not in operation at Royal Assent see [s. 59](https://www.legislation.gov.uk/nia/2011/16/section/59); [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) in operation for specified purposes at 11.7.2011 by [S.R. 2011/245](https://www.legislation.gov.uk/nisr/2011/245), [arts. 2](https://www.legislation.gov.uk/nisr/2011/245/article/2), [3](https://www.legislation.gov.uk/nisr/2011/245/article/3), [Schs. 1](https://www.legislation.gov.uk/nisr/2011/245/schedule/1), [2](https://www.legislation.gov.uk/nisr/2011/245/schedule/2)
 
-[^key-f583d2c60805f69507a36a0b932f83d3]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) in operation at 2.4.2012 for specified purposes by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [arts. 2(b)](https://www.legislation.gov.uk/nisr/2012/154/article/2/b), [3](https://www.legislation.gov.uk/nisr/2012/154/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/154/schedule/2), [3](https://www.legislation.gov.uk/nisr/2012/154/schedule/3)
+[^c-f583d2c60805f69507a36a0b932f83d3]: Commencement: [Sch. 5](https://www.legislation.gov.uk/nia/2011/16/schedule/5) in operation at 2.4.2012 for specified purposes by [S.R. 2012/154](https://www.legislation.gov.uk/nisr/2012/154), [arts. 2(b)](https://www.legislation.gov.uk/nisr/2012/154/article/2/b), [3](https://www.legislation.gov.uk/nisr/2012/154/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/154/schedule/2), [3](https://www.legislation.gov.uk/nisr/2012/154/schedule/3)

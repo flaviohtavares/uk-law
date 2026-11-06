@@ -50,11 +50,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation and commencement[^key-eb36f5722c340d33acd112ff94ae1e9e]
+### 1. Citation and commencement[^c-eb36f5722c340d33acd112ff94ae1e9e]
 
 These Regulations may be cited as the Animal By-Products (Enforcement) Regulations (Northern Ireland) 2015 and shall come into operation on 14th October 2015.
 
-### 2. Interpretation[^key-66751be6baed2f0ff7e0c41358d482e8]
+### 2. Interpretation[^c-66751be6baed2f0ff7e0c41358d482e8]
 
 (1) In these Regulations—
 
@@ -82,24 +82,24 @@ These Regulations may be cited as the Animal By-Products (Enforcement) Regulatio
 
 ## PART 2 — THE COMPETENT AUTHORITY AND MISCELLANEOUS PROVISIONS
 
-### 3. The competent authority[^key-3d04171b1133e0a4662bb59a3c5f9da5]
+### 3. The competent authority[^c-3d04171b1133e0a4662bb59a3c5f9da5]
 
 The Department is the competent authority for the purposes of the EU Control Regulation and the EU Implementing Regulation.
 
-### 4. Access in relation to prohibitions in Article 11(1) of the EU Control Regulation[^key-3dc7b39f2749d1046d9f71e885ee939e]
+### 4. Access in relation to prohibitions in Article 11(1) of the EU Control Regulation[^c-3dc7b39f2749d1046d9f71e885ee939e]
 
 In relation to a prohibition on feeding in Article 11(1) of the EU Control Regulation, the requirements of regulations 5 and 6 apply.
 
-**5.**[^key-8fd4e5e00dd1d87c20c0955f12f2126c] (1) Animal by-products, including catering waste, shall not be brought on to any premises where farmed animals have access to the animal by-products.
+**5.**[^c-8fd4e5e00dd1d87c20c0955f12f2126c] (1) Animal by-products, including catering waste, shall not be brought on to any premises where farmed animals have access to the animal by-products.
 
 (2) Paragraph (1) does not apply to derived products, except for—
 
 - (a) products derived from catering waste; or
 - (b) meat and bone meal derived from Category 2 material and processed animal proteins intended to be used as or in organic fertilisers and soil improvers that do not comply with the requirements of Article 32(1)(d) (placing on the market and use) of the EU Control Regulation.
 
-**6.**[^key-d90435967be19d601c148dd801c4e8e3] A body or part of a body of any farmed animal that has not been slaughtered for human consumption shall be held, pending consignment or disposal, in accordance with the EU Control Regulation as read with the EU Implementing Regulation, in such manner as to ensure that any animal or bird will not have access to it.
+**6.**[^c-d90435967be19d601c148dd801c4e8e3] A body or part of a body of any farmed animal that has not been slaughtered for human consumption shall be held, pending consignment or disposal, in accordance with the EU Control Regulation as read with the EU Implementing Regulation, in such manner as to ensure that any animal or bird will not have access to it.
 
-### 7. Use of organic fertilisers and soil improvers and additional waiting period for pigs in relation to the prohibition in Article 11(1)(c) of the EU Control Regulation[^key-3c946cd6ffcbf7414ca140d6153a2545]
+### 7. Use of organic fertilisers and soil improvers and additional waiting period for pigs in relation to the prohibition in Article 11(1)(c) of the EU Control Regulation[^c-3c946cd6ffcbf7414ca140d6153a2545]
 
 (1) Where organic fertilisers or soil improvers have been applied to land, in addition to the minimum waiting period that applies to farmed animals, pigs are prohibited during the additional waiting period, (resulting in a total period of 60 days from such application) from—
 
@@ -121,11 +121,11 @@ In relation to a prohibition on feeding in Article 11(1) of the EU Control Regul
 - (a) “the minimum waiting period” is the period of 21 days commencing from the date of application of organic fertilisers or soil improvers to land as provided in Article 11(1)(c) of the EU Control Regulation, as read with Article 5(2) of, and Chapter II of Annex II to, the EU Implementing Regulation;
 - (b) “the additional waiting period” is the period of 39 days commencing on the expiration of the minimum waiting period.
 
-### 8. Collection centres for feeding in relation to Article 18(1) of the EU Control Regulation[^key-cfee271cb24927e916179c47db0480ff]
+### 8. Collection centres for feeding in relation to Article 18(1) of the EU Control Regulation[^c-cfee271cb24927e916179c47db0480ff]
 
 In relation to Article 18(1) of the EU Control Regulation, and in accordance with Article 13 of the EU Implementing Regulation as read with paragraph 3 of Section 1 of Chapter II Annex VI to that Regulation, a processing plant for Category 2 material is authorised as a collection centre for Category 2 material for the purposes of Article 18(1) of the EU Control Regulation on condition that it is approved for that purpose under Article 24 of the EU Control Regulation.
 
-### 9. Remote areas for the purposes of Article 19(1)(b) of the EU Control Regulation[^key-3b5586c59b09fe8cde705b06c22b4ed1]
+### 9. Remote areas for the purposes of Article 19(1)(b) of the EU Control Regulation[^c-3b5586c59b09fe8cde705b06c22b4ed1]
 
 For the purposes of applying Article 19(1)(b) of the EU Control Regulation—
 
@@ -134,11 +134,11 @@ For the purposes of applying Article 19(1)(b) of the EU Control Regulation—
 
 are categorised as remote areas.
 
-### 10. Placing on the market in relation to Article 36 of the EU Control Regulation[^key-54a9e1d0b46c713a3a3e858df47e42b4]
+### 10. Placing on the market in relation to Article 36 of the EU Control Regulation[^c-54a9e1d0b46c713a3a3e858df47e42b4]
 
 In relation to Article 36 of the EU Control Regulation, and in accordance with Article 24(4) of the EU Implementing Regulation as read with point B of Chapter VII to Annex XIII of that Regulation, the placing on the market of untreated wool and hair from farms or from establishments or plants is authorised without restrictions except where they present a risk of any disease communicable through those products to humans or animals.
 
-### 11. Reporting of test results[^key-88574f82d4f5b23d805593fef50065a8]
+### 11. Reporting of test results[^c-88574f82d4f5b23d805593fef50065a8]
 
 Operators must report to the Department the results of any tests carried out pursuant to any of the following Articles of the EU Implementing Regulation which fail to meet the standards required by those Articles—
 
@@ -149,7 +149,7 @@ Operators must report to the Department the results of any tests carried out pur
 
 ## PART 3 — STAINING
 
-### 12. Staining[^key-19ba55914b774749ef1be22ec0437795]
+### 12. Staining[^c-19ba55914b774749ef1be22ec0437795]
 
 (1) This regulation applies to the operators of—
 
@@ -192,20 +192,20 @@ Operators must report to the Department the results of any tests carried out pur
 - (d) any animal by-product which is moved immediately after generation to a processing or incineration establishment or plant approved under the EU Control Regulation via a sealed and leak-proof pipe; or
 - (e) a whole animal body, except a whole poultry body.
 
-(6) No one may export stained material of the type referred to in paragraph (3) to a member State[^key-92d6aefbc2a96397b7a14d670ffc03cb] of the European Union unless that member State agrees to import the material.
+(6) No one may export stained material of the type referred to in paragraph (3) to a member State[^c-92d6aefbc2a96397b7a14d670ffc03cb] of the European Union unless that member State agrees to import the material.
 
 (7) In paragraph 5(b) “green offal” means the stomach and intestines of an animal and the contents of the digestive tract.
 
 ## PART 4 — REGISTRATION AND APPROVAL
 
-### 13. Procedure for registration of plants and establishments[^key-fce05d6d300c50883aef49223757ecca]
+### 13. Procedure for registration of plants and establishments[^c-fce05d6d300c50883aef49223757ecca]
 
 A notification shall be made in writing to the Department, where it is made in relation to Articles 23(1) and 23(2)of the EU Control Regulation—
 
 - (a) with a view to registration in accordance with Article 23(1); or
 - (b) to inform the Department of changes in accordance with Article 23(2).
 
-### 14. Notifications of the Department in respect of registration[^key-5224075cc2673494d2d21b8a32e290b4]
+### 14. Notifications of the Department in respect of registration[^c-5224075cc2673494d2d21b8a32e290b4]
 
 (1) The Department shall give notice in writing to—
 
@@ -222,14 +222,14 @@ A notification shall be made in writing to the Department, where it is made in r
 - (a) ensure that the provisions of the EU Control Regulation, the EU Implementing Regulation and these Regulations are complied with; and
 - (b) protect public and animal health.
 
-### 15. Approval[^key-edbe1eea4b6d5e5f706a90292ac2bf00]
+### 15. Approval[^c-edbe1eea4b6d5e5f706a90292ac2bf00]
 
 Operators to whom Article 24(1) of the EU Control Regulation applies, shall apply in writing to the Department to be—
 
 - (a) approved; or
 - (b) where Article 33 of the EU Implementing Regulation applies, re-approved.
 
-### 16. Notification in respect of decisions on approval[^key-6d7aaa3094406af290fd127034fa10a0]
+### 16. Notification in respect of decisions on approval[^c-6d7aaa3094406af290fd127034fa10a0]
 
 (1) The Department shall give notice in writing to—
 
@@ -256,7 +256,7 @@ Operators to whom Article 24(1) of the EU Control Regulation applies, shall appl
 - (a) ensure that the provisions of the EU Control Regulation, the EU Implementing Regulation and these Regulations are complied with; and
 - (b) protect public and animal health.
 
-### 17. Reasons for decisions[^key-787dd4125e1b91826a68385ad8b47a82]
+### 17. Reasons for decisions[^c-787dd4125e1b91826a68385ad8b47a82]
 
 (1) Where a decision is made by the Department as provided in paragraph (2), the Department shall give reasons in writing for that decision.
 
@@ -269,7 +269,7 @@ Operators to whom Article 24(1) of the EU Control Regulation applies, shall appl
 - (e) in respect of the imposition of conditions, under regulation 16(1)(b)(iii) or regulation 16(1)(c)(i);
 - (f) in respect of a prohibition, under regulation 16(1)(b)(vi) or regulation 16(1)(c)(iii).
 
-### 18. Appeals[^key-16fc6f4a6911b70008b50eab9b352295]
+### 18. Appeals[^c-16fc6f4a6911b70008b50eab9b352295]
 
 (1) Where the Department has made a notification referred to in regulation 17(2), a person may appeal against it by making written representations to a person appointed for the purpose by the Department within 21 days of the issuing of notification of that decision.
 
@@ -283,11 +283,11 @@ Operators to whom Article 24(1) of the EU Control Regulation applies, shall appl
 
 ## PART 5 — OFFENCES AND PENALTIES
 
-### 19. Offences[^key-c588dc2377e86801169599a379973b97]
+### 19. Offences[^c-c588dc2377e86801169599a379973b97]
 
 A person who fails to comply with an animal by-product requirement commits an offence.
 
-### 20. Obstruction[^key-876873191986595b550ec9bf48e77009]
+### 20. Obstruction[^c-876873191986595b550ec9bf48e77009]
 
 (1) A person is guilty of an offence if that person—
 
@@ -298,7 +298,7 @@ A person who fails to comply with an animal by-product requirement commits an of
 
 (2) Nothing in paragraph (1)(b) shall be construed as requiring any person to answer any question if to do so might incriminate him.
 
-### 21. Penalties[^key-ebf6e96ace230d0592c1d7841962e3f8]
+### 21. Penalties[^c-ebf6e96ace230d0592c1d7841962e3f8]
 
 A person guilty of an offence under these Regulations is liable—
 
@@ -307,21 +307,21 @@ A person guilty of an offence under these Regulations is liable—
 
 ## PART 6 — ENFORCEMENT
 
-### 22. Enforcement authority[^key-c9eef5efbe2c33ac5c2468fc1dd97d5c]
+### 22. Enforcement authority[^c-c9eef5efbe2c33ac5c2468fc1dd97d5c]
 
 These Regulations shall be enforced by the Department, the Department of the Environment or a district council within its district.
 
-### 23. Authorised person[^key-c5664447e78e60418951f88b39326ee1]
+### 23. Authorised person[^c-c5664447e78e60418951f88b39326ee1]
 
 (1) An enforcement authority may authorise in writing such persons as the authority considers appropriate to act for the purpose of enforcing these Regulations.
 
 (2) In these Regulations, a person authorised under paragraph (1) is an “authorised person”.
 
-### 24. Powers of authorised person[^key-6334858e7b04fbefe1f0a78409e831f9]
+### 24. Powers of authorised person[^c-6334858e7b04fbefe1f0a78409e831f9]
 
 An authorised person may, on production, if so required, of his authority, exercise any of the powers specified in regulation 25 and regulation 27 for the purposes of enforcing these Regulations and ensuring the EU Control Regulation and EU Implementing Regulation are complied with.
 
-### 25. Powers of entry and additional powers[^key-0ad3a16a9eaf25ee3a8feb6667197f57]
+### 25. Powers of entry and additional powers[^c-0ad3a16a9eaf25ee3a8feb6667197f57]
 
 (1) An authorised person has the power to enter premises at all reasonable hours.
 
@@ -364,7 +364,7 @@ An authorised person may, on production, if so required, of his authority, exerc
 
 (8) Nothing in paragraph (3)(g) shall be construed as requiring any person to answer any question if to do so might incriminate them.
 
-### 26. Warrant[^key-00007350f6b995bc0bc89ec30ba8f0ff]
+### 26. Warrant[^c-00007350f6b995bc0bc89ec30ba8f0ff]
 
 (1) If, in relation to the power to enter premises under regulation 25, a lay magistrate, on sworn complaint in writing—
 
@@ -377,7 +377,7 @@ the lay magistrate may by warrant under the lay magistrate’s hand, which conti
 
 (2) Where an authorised person has been authorised under paragraph (1) to enter by warrant, the authorised person has the powers conferred by regulation 25(3).
 
-### 27. Notices served by an authorised person[^key-1cb62652aecd587a2a5d0428c752d8d0]
+### 27. Notices served by an authorised person[^c-1cb62652aecd587a2a5d0428c752d8d0]
 
 (1) An authorised person may serve a notice in accordance with paragraph (2) where that person—
 
@@ -401,7 +401,7 @@ the lay magistrate may by warrant under the lay magistrate’s hand, which conti
 
 (5) Any person on whom a notice is served who contravenes or fails to comply with the provisions of that notice is guilty of an offence.
 
-### 28. Power to share information for enforcement purposes[^key-10ddb236f863b6e836162b649a6925e2]
+### 28. Power to share information for enforcement purposes[^c-10ddb236f863b6e836162b649a6925e2]
 
 (1) This regulation applies to information received by an enforcement authority or an authorised person in the course of enforcing these Regulations.
 
@@ -415,7 +415,7 @@ the lay magistrate may by warrant under the lay magistrate’s hand, which conti
 
 ## PART 7 — SMALL QUANTITIES, AMENDMENT AND REVOCATIONS
 
-### 29. Small quantities[^key-b12f635e9bccd2f91b2b9526f4608338]
+### 29. Small quantities[^c-b12f635e9bccd2f91b2b9526f4608338]
 
 (1) The collection, transport and disposal of Category 3 material in Article 10(f) of the EU Control Regulation, is authorised under Article 19(1)(d) of that Regulation, where the requirements of paragraph (2) are satisfied.
 
@@ -426,7 +426,7 @@ the lay magistrate may by warrant under the lay magistrate’s hand, which conti
   - (i) in an authorised landfill without prior processing; or
   - (ii) where Article 21 of the EU Control Regulation is satisfied, to a biogas or composting plant for transformation in accordance with an authorisation under paragraph 2 of Section 2 of Chapter III of Annex V to the EU Implementing Regulation.
 
-### 30. Amendment and Revocations[^key-aa8ffc0ca683fd71267c524a2d115331]
+### 30. Amendment and Revocations[^c-aa8ffc0ca683fd71267c524a2d115331]
 
 (1) In regulation 12(2) of the Cattle Identification (No2) Regulations (Northern Ireland) 1998[^f00009] for the words “the Animal By-Products Regulations (Northern Ireland) 1993[^f00010]” substitute “the Animal By-Products (Enforcement) Regulations (Northern Ireland) 2015”.
 
@@ -442,7 +442,7 @@ Geraldine Fee
 
 A senior officer of the Department of Agriculture and Rural Development
 
-## SCHEDULE — ANIMAL BY-PRODUCT REQUIREMENTS[^key-e62e144b47fe274206282e5b766a1c3a]
+## SCHEDULE — ANIMAL BY-PRODUCT REQUIREMENTS[^c-e62e144b47fe274206282e5b766a1c3a]
 
 Regulation 2
 
@@ -468,7 +468,7 @@ Regulation 2
 | **14.** Own checks | Article 28 of the EU Control Regulation |  |
 | **15** Hazard analysis | Article 29(1) to (3) of the EU Control Regulation |  |
 | **16.** Placing on the market animal by-products and derived products for feeding to farmed animals excluding fur animals | Article 31(1) of the EU Control Regulation | Article 31(2) of the EU Control Regulation as read with Article 21 of the EU Implementing Regulation (placing on the market for feeding to farmed animals) and Article 24(2) of that Regulation (pet food and other derived products) |
-| **17.** Placing on the market and use of organic fertilisers and soil improvers | Article 32(1) and (2) of the EU Control Regulation | Regulation 7(1) of these Regulations (subject to regulation 7(2)) (application of fertilisers)<br>Article 32(3) of the EU Control Regulation as read with Article 22(1) to (3) of the EU Implementing Regulation (placing on the market of fertilisers)<br>[^key-806f96342d93c1cbda427c789c6dbfed]... |
+| **17.** Placing on the market and use of organic fertilisers and soil improvers | Article 32(1) and (2) of the EU Control Regulation | Regulation 7(1) of these Regulations (subject to regulation 7(2)) (application of fertilisers)<br>Article 32(3) of the EU Control Regulation as read with Article 22(1) to (3) of the EU Implementing Regulation (placing on the market of fertilisers)<br>[^c-806f96342d93c1cbda427c789c6dbfed]... |
 | **18.** Collection and movement for manufacture of derived products | Article 34 of the EU Control Regulation<br>except in so far as it relates to imports | Article 33 of the EU Control Regulation (placing on the market of derived products)<br>Article 23 of the EU Implementing Regulation (intermediate products) |
 | **19.** Compliance with prohibition on use for manufacture for products not within Article 33 or 36 of the EU Control Regulation | Article 24(1) of the EU Implementing Regulation | Article 33 of the EU Control Regulation (placing on the market of certain derived products regulated by Community legislation)<br>Article 36 of that Regulation (placing on the market of other derived products) |
 | **20.** Placing on the market of pet food | Article 35 of the EU Control Regulation | Article 5(2) of the EU Control Regulation as read with Article 3 of the EU Implementing Regulation (end point in the manufacturing chain)<br>Article 40 of the EU Control Regulation as read with Article 24(3) of the EU Implementing Regulation (pet food and other derived products) |
@@ -507,9 +507,9 @@ These Regulations provide for the following.
 
 [^f00003]: Footnote: O.J. No L 54, 26.02.2011, p 1, last amended by Commission Regulation (EU) No 9/2015 (OJ No L 3, 7.1.2015, p10)
 
-[^key-eb36f5722c340d33acd112ff94ae1e9e]: Commencement: Reg. 1 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-eb36f5722c340d33acd112ff94ae1e9e]: Commencement: Reg. 1 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-66751be6baed2f0ff7e0c41358d482e8]: Commencement: Reg. 2 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-66751be6baed2f0ff7e0c41358d482e8]: Commencement: Reg. 2 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
 [^f00004]: Footnote: O.J. No L300, 14.11.2009, p1, last amended by Council Regulation (EU) No 1385/2013 (OJ No L 354, 28.12.2013, p.86)
 
@@ -519,65 +519,65 @@ These Regulations provide for the following.
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3d04171b1133e0a4662bb59a3c5f9da5]: Commencement: Reg. 3 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-3d04171b1133e0a4662bb59a3c5f9da5]: Commencement: Reg. 3 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-3dc7b39f2749d1046d9f71e885ee939e]: Commencement: Reg. 4 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-3dc7b39f2749d1046d9f71e885ee939e]: Commencement: Reg. 4 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-8fd4e5e00dd1d87c20c0955f12f2126c]: Commencement: Reg. 5 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-8fd4e5e00dd1d87c20c0955f12f2126c]: Commencement: Reg. 5 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-d90435967be19d601c148dd801c4e8e3]: Commencement: Reg. 6 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-d90435967be19d601c148dd801c4e8e3]: Commencement: Reg. 6 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-3c946cd6ffcbf7414ca140d6153a2545]: Commencement: Reg. 7 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-3c946cd6ffcbf7414ca140d6153a2545]: Commencement: Reg. 7 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-cfee271cb24927e916179c47db0480ff]: Commencement: Reg. 8 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-cfee271cb24927e916179c47db0480ff]: Commencement: Reg. 8 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-3b5586c59b09fe8cde705b06c22b4ed1]: Commencement: Reg. 9 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-3b5586c59b09fe8cde705b06c22b4ed1]: Commencement: Reg. 9 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-54a9e1d0b46c713a3a3e858df47e42b4]: Commencement: Reg. 10 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-54a9e1d0b46c713a3a3e858df47e42b4]: Commencement: Reg. 10 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-88574f82d4f5b23d805593fef50065a8]: Commencement: Reg. 11 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-88574f82d4f5b23d805593fef50065a8]: Commencement: Reg. 11 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-19ba55914b774749ef1be22ec0437795]: Commencement: Reg. 12 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-19ba55914b774749ef1be22ec0437795]: Commencement: Reg. 12 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
 [^f00008]: Footnote: [S.R. 2006 No. 3](https://www.legislation.gov.uk/nisr/2006/3)
 
-[^key-92d6aefbc2a96397b7a14d670ffc03cb]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/nisr/2015/332/regulation/12/6) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [21](https://www.legislation.gov.uk/nisr/2020/324/regulation/21)
+[^c-92d6aefbc2a96397b7a14d670ffc03cb]: Textual amendment: Words in [reg. 12(6)](https://www.legislation.gov.uk/nisr/2015/332/regulation/12/6) substituted (31.12.2020) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/3), [21](https://www.legislation.gov.uk/nisr/2020/324/regulation/21)
 
-[^key-fce05d6d300c50883aef49223757ecca]: Commencement: Reg. 13 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-fce05d6d300c50883aef49223757ecca]: Commencement: Reg. 13 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-5224075cc2673494d2d21b8a32e290b4]: Commencement: Reg. 14 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-5224075cc2673494d2d21b8a32e290b4]: Commencement: Reg. 14 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-edbe1eea4b6d5e5f706a90292ac2bf00]: Commencement: Reg. 15 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-edbe1eea4b6d5e5f706a90292ac2bf00]: Commencement: Reg. 15 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-6d7aaa3094406af290fd127034fa10a0]: Commencement: Reg. 16 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-6d7aaa3094406af290fd127034fa10a0]: Commencement: Reg. 16 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-787dd4125e1b91826a68385ad8b47a82]: Commencement: Reg. 17 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-787dd4125e1b91826a68385ad8b47a82]: Commencement: Reg. 17 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-16fc6f4a6911b70008b50eab9b352295]: Commencement: Reg. 18 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-16fc6f4a6911b70008b50eab9b352295]: Commencement: Reg. 18 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-c588dc2377e86801169599a379973b97]: Commencement: Reg. 19 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-c588dc2377e86801169599a379973b97]: Commencement: Reg. 19 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-876873191986595b550ec9bf48e77009]: Commencement: Reg. 20 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-876873191986595b550ec9bf48e77009]: Commencement: Reg. 20 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-ebf6e96ace230d0592c1d7841962e3f8]: Commencement: Reg. 21 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-ebf6e96ace230d0592c1d7841962e3f8]: Commencement: Reg. 21 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-c9eef5efbe2c33ac5c2468fc1dd97d5c]: Commencement: Reg. 22 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-c9eef5efbe2c33ac5c2468fc1dd97d5c]: Commencement: Reg. 22 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-c5664447e78e60418951f88b39326ee1]: Commencement: Reg. 23 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-c5664447e78e60418951f88b39326ee1]: Commencement: Reg. 23 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-6334858e7b04fbefe1f0a78409e831f9]: Commencement: Reg. 24 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-6334858e7b04fbefe1f0a78409e831f9]: Commencement: Reg. 24 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-0ad3a16a9eaf25ee3a8feb6667197f57]: Commencement: Reg. 25 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-0ad3a16a9eaf25ee3a8feb6667197f57]: Commencement: Reg. 25 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-00007350f6b995bc0bc89ec30ba8f0ff]: Commencement: Reg. 26 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-00007350f6b995bc0bc89ec30ba8f0ff]: Commencement: Reg. 26 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-1cb62652aecd587a2a5d0428c752d8d0]: Commencement: Reg. 27 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-1cb62652aecd587a2a5d0428c752d8d0]: Commencement: Reg. 27 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-10ddb236f863b6e836162b649a6925e2]: Commencement: Reg. 28 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-10ddb236f863b6e836162b649a6925e2]: Commencement: Reg. 28 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-b12f635e9bccd2f91b2b9526f4608338]: Commencement: Reg. 29 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-b12f635e9bccd2f91b2b9526f4608338]: Commencement: Reg. 29 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-aa8ffc0ca683fd71267c524a2d115331]: Commencement: Reg. 30 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-aa8ffc0ca683fd71267c524a2d115331]: Commencement: Reg. 30 in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
 [^f00009]: Footnote: [S.R. 1998 No.279](https://www.legislation.gov.uk/nisr/1998/279) as amended by [S.R. 2012 No.416](https://www.legislation.gov.uk/nisr/2012/416)
 
@@ -589,6 +589,6 @@ These Regulations provide for the following.
 
 [^f00013]: Footnote: [S.R. 2014 No. 184](https://www.legislation.gov.uk/nisr/2014/184)
 
-[^key-e62e144b47fe274206282e5b766a1c3a]: Commencement: Sch. in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
+[^c-e62e144b47fe274206282e5b766a1c3a]: Commencement: Sch. in operation at 14.10.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/332/regulation/1)
 
-[^key-806f96342d93c1cbda427c789c6dbfed]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2015/332/schedule) Table omitted (11.4.2019) by virtue of [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 31](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/31)
+[^c-806f96342d93c1cbda427c789c6dbfed]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2015/332/schedule) Table omitted (11.4.2019) by virtue of [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 5 para. 31](https://www.legislation.gov.uk/nisr/2019/82/schedule/5/paragraph/31)

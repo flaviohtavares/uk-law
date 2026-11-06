@@ -149,14 +149,14 @@ In regulation 1(2) (interpretation) of the Pension Protection Fund (Multi-employ
     ;
   - (iii) after sub-paragraph (b)(vi) insert—
 
-    > - (vii) the extent (if at all) to which non-financial matters are taken into account in the selection, retention and realisation of investments; [^key-d61ec51d51559131f484cef69f031ba5]...
+    > - (vii) the extent (if at all) to which non-financial matters are taken into account in the selection, retention and realisation of investments; [^c-d61ec51d51559131f484cef69f031ba5]...
 
     ; and
   - (iv) for sub-paragraph (c) substitute—
 
     > - (c) their policy in relation to—
     >   - (i) the exercise of the rights (including voting rights) attaching to the investments; and
-    >   - (ii) undertaking engagement activities in respect of the investments (including the methods by which, and the circumstances under which, trustees would monitor and engage with relevant persons about relevant matters) and[^key-42c2fa03b1204d51f849d420faf34895]
+    >   - (ii) undertaking engagement activities in respect of the investments (including the methods by which, and the circumstances under which, trustees would monitor and engage with relevant persons about relevant matters) and[^c-42c2fa03b1204d51f849d420faf34895]
 
     ; and
 - (b) after paragraph (3) insert—
@@ -167,12 +167,12 @@ In regulation 1(2) (interpretation) of the Pension Protection Fund (Multi-employ
   > - “**beneficiaries**” means a person, other than a member of the trust scheme, who is entitled to the payment of benefits under the scheme;
   > - “**financially material considerations**” includes (but is not limited to) environmental, social and governance considerations (including but not limited to climate change), which the trustees of the trust scheme consider financially material;
   > - “**non-financial matters**” means the views of the members and beneficiaries including (but not limited to) their ethical views and their views in relation to social and environmental impact and present and future quality of life of the members and beneficiaries of the trust scheme;
-  > - “**relevant matters**” includes (but is not limited to) matters concerning an issuer of debt or equity, including their performance, strategy, capital structure, management of actual or potential conflicts of interest,[^key-f84796d884a01cb15919d0e30950b734] risks, social and environmental impact and corporate governance; and
-  > - “**relevant persons**” includes (but is not limited to) an issuer of debt or equity, an investment manager, another stakeholder[^key-c3ecac5d2b00b5277ae6795c3c19ffe1] or another holder of debt or equity.
+  > - “**relevant matters**” includes (but is not limited to) matters concerning an issuer of debt or equity, including their performance, strategy, capital structure, management of actual or potential conflicts of interest,[^c-f84796d884a01cb15919d0e30950b734] risks, social and environmental impact and corporate governance; and
+  > - “**relevant persons**” includes (but is not limited to) an issuer of debt or equity, an investment manager, another stakeholder[^c-c3ecac5d2b00b5277ae6795c3c19ffe1] or another holder of debt or equity.
 
   .
 
-(3)[^key-3d9922f2066b776fbe1c7f042a4c7ada] In regulation 2A(1)(b) (additional requirements in relation to default arrangement), after “regulation 2(3)(b)” insert “and, if that scheme has 100 or more members, regulation 2(3)(c) and (d)”.
+(3)[^c-3d9922f2066b776fbe1c7f042a4c7ada] In regulation 2A(1)(b) (additional requirements in relation to default arrangement), after “regulation 2(3)(b)” insert “and, if that scheme has 100 or more members, regulation 2(3)(c) and (d)”.
 
 ## 5. Amendments to the Disclosure Regulations
 
@@ -183,7 +183,7 @@ In regulation 1(2) (interpretation) of the Pension Protection Fund (Multi-employ
 - (a) in paragraph (1), before “given in accordance”, insert “ (subject to paragraph (5)) ”; and
 - (b) after paragraph (4) insert—
 
-  > (5)[^key-c77e815ce36a71ace0c231e06e5300ed] Where section 35 of the 1995 Act applies to a scheme the following information must be made publicly available free of charge in accordance with regulation 29A—
+  > (5)[^c-c77e815ce36a71ace0c231e06e5300ed] Where section 35 of the 1995 Act applies to a scheme the following information must be made publicly available free of charge in accordance with regulation 29A—
   >
   > - (a) the information listed in paragraph 30(ca) of Schedule 3 but only if the scheme is not a relevant scheme within the meaning of regulation 1(2) (interpretation) of the Occupational Pension Schemes (Scheme Administration) Regulations 1996; or
   > - (b) the information listed in paragraph 30(f) of that Schedule but only if the scheme is a relevant scheme within the meaning of that regulation.
@@ -203,7 +203,7 @@ In regulation 1(2) (interpretation) of the Pension Protection Fund (Multi-employ
   > - (b) the information which must be included in the most recent document prepared under regulation 12 in accordance with paragraph 30(f) of Schedule 3.
 
   ; and
-- (c)[^key-2a65aaa493ea577394ecec8ea1b36820] in paragraph (4), after “paragraph (2)”, insert “, (2A) or (2B)”.
+- (c)[^c-2a65aaa493ea577394ecec8ea1b36820] in paragraph (4), after “paragraph (2)”, insert “, (2A) or (2B)”.
 
 (5) In paragraph 30 of Schedule 3 (information to be given on request)—
 
@@ -211,9 +211,9 @@ In regulation 1(2) (interpretation) of the Pension Protection Fund (Multi-employ
 
   > - (d) the policies specified in the following paragraph of regulation 2 of the Occupational Pension Schemes (Investment) Regulations 2005 (statement of investment principles) (“**the Investment Regulations**”)—
   >   - (i) paragraph (3)(b)(vi) [^c23383081],
-  >   - (ii) paragraph (3)(b)(vii) [^c23383091], [^key-514804d28a4ee8a5e5aa7e1065a6a5bf]...
-  >   - (iii) paragraph (3)(c) [^c23383101], [^key-ff49dc3ff91829a9ba971c9a3b5c3240]...
-  >   - (iv)[^key-46a15b7d20defa631b2c43ae9c0e44f5] paragraph (3)(d), and
+  >   - (ii) paragraph (3)(b)(vii) [^c23383091], [^c-514804d28a4ee8a5e5aa7e1065a6a5bf]...
+  >   - (iii) paragraph (3)(c) [^c23383101], [^c-ff49dc3ff91829a9ba971c9a3b5c3240]...
+  >   - (iv)[^c-46a15b7d20defa631b2c43ae9c0e44f5] paragraph (3)(d), and
 
   ;
 - (b) omit sub-paragraph (e); and
@@ -224,7 +224,7 @@ In regulation 1(2) (interpretation) of the Pension Protection Fund (Multi-employ
   >   - (ii) describe any review of the statement of investment principles undertaken during the year in accordance with regulation 2(1) of the Investment Regulations and any other review of how the statement of investment principles has been met,
   >   - (iii) explain any change made to the statement of investment principles during the year and the reason for the change, and
   >   - (iv) where no such review was undertaken during the year in accordance with regulation 2(1) of the Investment Regulations, give the date of the last review.
-  >   - (v)[^key-fe0a97a15c0cd50c8909f43240d96ba8] describe the voting behaviour by, or on behalf of, trustees (including the most significant votes cast by trustees or on their behalf) during the year and state any use of the services of a proxy voter during that year.
+  >   - (v)[^c-fe0a97a15c0cd50c8909f43240d96ba8] describe the voting behaviour by, or on behalf of, trustees (including the most significant votes cast by trustees or on their behalf) during the year and state any use of the services of a proxy voter during that year.
 
   .
 
@@ -294,33 +294,33 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23383031]: Marginal citation: [S.I. 2005/3378](https://www.legislation.gov.uk/uksi/2005/3378).
 
-[^key-d61ec51d51559131f484cef69f031ba5]: Textual amendment: Word in reg. 4(2)(a)(iii) omitted (30.9.2019) by virtue of [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/a/i)[(aa)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/aa) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-d61ec51d51559131f484cef69f031ba5]: Textual amendment: Word in reg. 4(2)(a)(iii) omitted (30.9.2019) by virtue of [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/a/i)[(aa)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/aa) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
-[^key-42c2fa03b1204d51f849d420faf34895]: Textual amendment: Word in reg. 4(2)(a)(iv) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/a/i)[(bb)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/bb) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-42c2fa03b1204d51f849d420faf34895]: Textual amendment: Word in reg. 4(2)(a)(iv) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/a/i)[(bb)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/bb) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
-[^key-f84796d884a01cb15919d0e30950b734]: Textual amendment: Words in reg. 4(2)(b) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/a/ii)[(aa)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/aa) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-f84796d884a01cb15919d0e30950b734]: Textual amendment: Words in reg. 4(2)(b) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/a/ii)[(aa)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/aa) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
-[^key-c3ecac5d2b00b5277ae6795c3c19ffe1]: Textual amendment: Words in reg. 4(2)(b) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/a/ii)[(bb)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/bb) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-c3ecac5d2b00b5277ae6795c3c19ffe1]: Textual amendment: Words in reg. 4(2)(b) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/a/ii)[(bb)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/bb) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
-[^key-3d9922f2066b776fbe1c7f042a4c7ada]: Textual amendment: Reg. 4(3) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-3d9922f2066b776fbe1c7f042a4c7ada]: Textual amendment: Reg. 4(3) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/2/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
-[^key-c77e815ce36a71ace0c231e06e5300ed]: Textual amendment: Words in reg. 5(2)(b) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-c77e815ce36a71ace0c231e06e5300ed]: Textual amendment: Words in reg. 5(2)(b) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
-[^key-2a65aaa493ea577394ecec8ea1b36820]: Textual amendment: Reg. 5(4)(c) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-2a65aaa493ea577394ecec8ea1b36820]: Textual amendment: Reg. 5(4)(c) substituted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
 [^c23383081]: Marginal citation: Paragraph (3)(b)(vi) is substituted by regulation 4(2)(a)(ii) of these Regulations.
 
 [^c23383091]: Marginal citation: Paragraph (3)(b)(vii) is inserted by regulation 4(2)(a)(iii) of these Regulations.
 
-[^key-514804d28a4ee8a5e5aa7e1065a6a5bf]: Textual amendment: Word in reg. 5(5)(a) omitted (30.9.2019) by virtue of [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3)[(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/c/i/aa) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-514804d28a4ee8a5e5aa7e1065a6a5bf]: Textual amendment: Word in reg. 5(5)(a) omitted (30.9.2019) by virtue of [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3)[(c)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/c/i/aa) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
 [^c23383101]: Marginal citation: Paragraph (3)(c) is substituted by regulation 4(2)(a)(iv) of these Regulations.
 
-[^key-ff49dc3ff91829a9ba971c9a3b5c3240]: Textual amendment: Word in reg. 5(5)(a) omitted (30.9.2019) by virtue of [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3)[(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/c/i/bb) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-ff49dc3ff91829a9ba971c9a3b5c3240]: Textual amendment: Word in reg. 5(5)(a) omitted (30.9.2019) by virtue of [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3)[(c)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/c/i/bb) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
-[^key-46a15b7d20defa631b2c43ae9c0e44f5]: Textual amendment: Reg. 5(5)(a) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/c/i)[(cc)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/cc) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-46a15b7d20defa631b2c43ae9c0e44f5]: Textual amendment: Reg. 5(5)(a) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)(c)(i)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/c/i)[(cc)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/cc) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
-[^key-fe0a97a15c0cd50c8909f43240d96ba8]: Textual amendment: Words in reg. 5(5)(c) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/c/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
+[^c-fe0a97a15c0cd50c8909f43240d96ba8]: Textual amendment: Words in reg. 5(5)(c) inserted (30.9.2019) by [The Occupational Pension Schemes (Investment and Disclosure) (Amendment) Regulations 2019 (S.I. 2019/982)](https://www.legislation.gov.uk/uksi/2019/982), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/982/regulation/1/2), [4(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/982/regulation/4/3/c/ii) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/982/regulation/5))
 
 [^c23383111]: Marginal citation: Paragraph 5B of Schedule 6 was inserted by [S.I. 2018/233](https://www.legislation.gov.uk/uksi/2018/233).
 

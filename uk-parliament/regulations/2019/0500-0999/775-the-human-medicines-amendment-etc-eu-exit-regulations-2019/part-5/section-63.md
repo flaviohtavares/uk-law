@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Amendment of Schedule 11 (advice and representations)[^key-b2fb1e4c603b2f88ba094f3439ac23ac]
+## 63. Amendment of Schedule 11 (advice and representations)[^c-b2fb1e4c603b2f88ba094f3439ac23ac]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) in sub-paragraph (1)—
   - (i) in sub-paragraph (b) omit “and”, and
-  - (ii)[^key-c81e8229d584b2f2b2919112d7a8b717] at the end insert—
+  - (ii)[^c-c81e8229d584b2f2b2919112d7a8b717] at the end insert—
 
     > and;
     >
@@ -43,13 +43,13 @@ summary: ''
   > - (d) a refusal to vary a parallel import licence following an application for a variation by the holder.
 
   ; and
-- (c)[^key-28275438de85d20520231b9e481ac6d1] for sub-paragraph (2) substitute—
+- (c)[^c-28275438de85d20520231b9e481ac6d1] for sub-paragraph (2) substitute—
 
   > (2) In relation to an application for a UKMA(NI) or THR(NI), this Part is subject to Part 4 of this Schedule.
 
   ;
 
-(2A)[^key-36f8ebf960c6ec92ec8d5bf2df27106a] In paragraph 2 (requirement to consult the appropriate committee), after sub-paragraph (2), insert—
+(2A)[^c-36f8ebf960c6ec92ec8d5bf2df27106a] In paragraph 2 (requirement to consult the appropriate committee), after sub-paragraph (2), insert—
 
 > (2A) The licensing authority must consult the appropriate committee if the authority proposes to decide that the orphan criteria are not met in relation to a medicinal product which is the subject of an application for the grant of a UK marketing authorisation.
 
@@ -80,7 +80,7 @@ summary: ''
 
   .
 
-(3)[^key-21cb4373d9ca27ea95aad3cfc26767b1] In paragraph 12 (licensing authority decisions in other cases)—
+(3)[^c-21cb4373d9ca27ea95aad3cfc26767b1] In paragraph 12 (licensing authority decisions in other cases)—
 
 - (a) in sub-paragraph (1), insert “ , parallel import licence ” after “ UK marketing authorisation ” in each place it appears;
 - (b) in sub-paragraph (5), insert “ , licence ” after “ the authorisation ”; and
@@ -90,7 +90,7 @@ summary: ''
 
   .
 
-(3A)[^key-d48f7498b955eb35e247b2414d802e12] After Part 1 insert—
+(3A)[^c-d48f7498b955eb35e247b2414d802e12] After Part 1 insert—
 
 > **PART 1A — Paediatric Decisions**
 >
@@ -186,7 +186,7 @@ summary: ''
 
 .
 
-(4)[^key-b108ce4228df54c8ce06a69601a64044] In paragraph 14(a) (application of Part 2), after “veterinary medicinal products” insert “or paragraph 1 of Schedule 10A”.
+(4)[^c-b108ce4228df54c8ce06a69601a64044] In paragraph 14(a) (application of Part 2), after “veterinary medicinal products” insert “or paragraph 1 of Schedule 10A”.
 
 (5) In paragraph 15(2) and (3)(b), insert “ UK ” before “marketing authorisation”.
 
@@ -195,7 +195,7 @@ summary: ''
 - (a) in sub-paragraph (2)(b), insert “ UK ” before “marketing authorisation”; and
 - (b) in sub-paragraph (5), omit the words from “or in any Directive” to the end.
 
-(7)[^key-1a8fd1fae5c2ba9a775b4afe66648671] For paragraph 17 substitute—
+(7)[^c-1a8fd1fae5c2ba9a775b4afe66648671] For paragraph 17 substitute—
 
 > **17.** In relation to an application for a UKMA(NI) or THR(NI), this Part is subject to Part 4 of this Schedule.
 
@@ -206,33 +206,33 @@ summary: ''
 - (a) in the heading to Part 3, for “Committee for Herbal Medicinal Products” substitute “ appropriate committee for traditional herbal registrations ”;
 - (b) in paragraph 24—
   - (i) in sub-paragraph (1), for the words from “Committee” to the end substitute “ appropriate committee in accordance with regulation 130A(1) ”; and
-  - (ii)[^key-060158640df1eae121b71fefb99e2cf3] for sub-paragraph (2) substitute—
+  - (ii)[^c-060158640df1eae121b71fefb99e2cf3] for sub-paragraph (2) substitute—
 
     > (2) In relation to an application for a UKMA(NI) or THR(NI), this Part is subject to Part 4 of this Schedule.
 
     ; and
 - (c) in paragraph 29(1), for “proceed with its proposal” substitute “ grant or refuse the application ”.
 
-(9)[^key-082edc057f4bc2b9017fa76eb591f1ca] In Part 4 (exceptions to Schedule) omit paragraphs 31, 34, 35, 37 and 38.
+(9)[^c-082edc057f4bc2b9017fa76eb591f1ca] In Part 4 (exceptions to Schedule) omit paragraphs 31, 34, 35, 37 and 38.
 
 ## Annotations
 
-[^key-b2fb1e4c603b2f88ba094f3439ac23ac]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b2fb1e4c603b2f88ba094f3439ac23ac]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c81e8229d584b2f2b2919112d7a8b717]: Textual amendment: Reg. 63(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c81e8229d584b2f2b2919112d7a8b717]: Textual amendment: Reg. 63(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28275438de85d20520231b9e481ac6d1]: Textual amendment: Reg. 63(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/a)
+[^c-28275438de85d20520231b9e481ac6d1]: Textual amendment: Reg. 63(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/a)
 
-[^key-36f8ebf960c6ec92ec8d5bf2df27106a]: Textual amendment: Reg. 63(2A)-(2D) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-36f8ebf960c6ec92ec8d5bf2df27106a]: Textual amendment: Reg. 63(2A)-(2D) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21cb4373d9ca27ea95aad3cfc26767b1]: Textual amendment: Reg. 63(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21cb4373d9ca27ea95aad3cfc26767b1]: Textual amendment: Reg. 63(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d48f7498b955eb35e247b2414d802e12]: Textual amendment: Reg. 63(3A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d48f7498b955eb35e247b2414d802e12]: Textual amendment: Reg. 63(3A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 7(5)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b108ce4228df54c8ce06a69601a64044]: Textual amendment: Reg. 63(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/b)
+[^c-b108ce4228df54c8ce06a69601a64044]: Textual amendment: Reg. 63(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/b)
 
-[^key-1a8fd1fae5c2ba9a775b4afe66648671]: Textual amendment: Reg. 63(7) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/c)
+[^c-1a8fd1fae5c2ba9a775b4afe66648671]: Textual amendment: Reg. 63(7) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/c)
 
-[^key-060158640df1eae121b71fefb99e2cf3]: Textual amendment: Reg. 63(8)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/d)
+[^c-060158640df1eae121b71fefb99e2cf3]: Textual amendment: Reg. 63(8)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/d)
 
-[^key-082edc057f4bc2b9017fa76eb591f1ca]: Textual amendment: Reg. 63(9) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/e)
+[^c-082edc057f4bc2b9017fa76eb591f1ca]: Textual amendment: Reg. 63(9) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 46(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/46/e)

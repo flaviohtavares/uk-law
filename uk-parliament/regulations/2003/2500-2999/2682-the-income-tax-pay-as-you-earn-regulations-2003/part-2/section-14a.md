@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14A. Determination of code in respect of recovery of relevant debts[^key-17ee215ba29a17bab1ed0f59092c15ce]
+## 14A. Determination of code in respect of recovery of relevant debts[^c-17ee215ba29a17bab1ed0f59092c15ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17ee215ba29a17bab1ed0f59092c15ce]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14A) inserted (with effect from 6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) (No.3) Regulations 2011 (S.I. 2011/1584)](https://www.legislation.gov.uk/uksi/2011/1584), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1584/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2011/1584/regulation/2/2)
+[^c-17ee215ba29a17bab1ed0f59092c15ce]: Textual amendment: [Reg. 14A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/14A) inserted (with effect from 6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) (No.3) Regulations 2011 (S.I. 2011/1584)](https://www.legislation.gov.uk/uksi/2011/1584), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1584/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2011/1584/regulation/2/2)

@@ -53,16 +53,16 @@ laying down a list of bodies whose researchers may access confidential data for 
 
 (2004/452/EC) (revoked)
 
-[^key-5e480e77a5df4c963b0514c9878a1738]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5e480e77a5df4c963b0514c9878a1738]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5e480e77a5df4c963b0514c9878a1738] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5e480e77a5df4c963b0514c9878a1738] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5e480e77a5df4c963b0514c9878a1738] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5e480e77a5df4c963b0514c9878a1738] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — BODIES WHOSE RESEARCHERS MAY ACCESS CONFIDENTIAL DATA FOR SCIENTIFIC PURPOSES[^key-5e480e77a5df4c963b0514c9878a1738]
+## ANNEX — BODIES WHOSE RESEARCHERS MAY ACCESS CONFIDENTIAL DATA FOR SCIENTIFIC PURPOSES[^c-5e480e77a5df4c963b0514c9878a1738]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5e480e77a5df4c963b0514c9878a1738]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e480e77a5df4c963b0514c9878a1738]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/50); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

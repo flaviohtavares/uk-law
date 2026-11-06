@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Allocation of offences triable either way, and sending cases to Crown Court[^c19093811][^M_I_a7e865e5-9e88-46a8-fca0-4dfb4d9c3c0e][^key-2122553ca97b9bf789a44dd43f9840ab]
+## 41. Allocation of offences triable either way, and sending cases to Crown Court[^c19093811][^M_I_a7e865e5-9e88-46a8-fca0-4dfb4d9c3c0e][^c-2122553ca97b9bf789a44dd43f9840ab]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Schedule 3 (which makes provision in relation to the allocation and other treatm
 
 [^M_I_a7e865e5-9e88-46a8-fca0-4dfb4d9c3c0e]: Commencement: S. 41 in force at 5.11.2012 for specified purposes by [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(1)(a)(2)(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/1/a/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), [art. 2](https://www.legislation.gov.uk/uksi/2012/2761/article/2)) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
 
-[^key-2122553ca97b9bf789a44dd43f9840ab]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2003/44/section/41) in force at 28.5.2013 for specified purposes by [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))
+[^c-2122553ca97b9bf789a44dd43f9840ab]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2003/44/section/41) in force at 28.5.2013 for specified purposes by [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1103/article/2/3) (with [arts. 3](https://www.legislation.gov.uk/uksi/2013/1103/article/3), [4](https://www.legislation.gov.uk/uksi/2013/1103/article/4))

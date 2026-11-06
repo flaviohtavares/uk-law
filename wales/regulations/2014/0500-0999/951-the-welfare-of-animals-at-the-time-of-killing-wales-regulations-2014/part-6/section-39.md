@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Appeals against enforcement notices[^key-d9d516a7ab6e791d6ecce415815d7008]
+## 39. Appeals against enforcement notices[^c-d9d516a7ab6e791d6ecce415815d7008]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ may appeal against it.
 
 ## Annotations
 
-[^key-d9d516a7ab6e791d6ecce415815d7008]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2014/951/regulation/39) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-d9d516a7ab6e791d6ecce415815d7008]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2014/951/regulation/39) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

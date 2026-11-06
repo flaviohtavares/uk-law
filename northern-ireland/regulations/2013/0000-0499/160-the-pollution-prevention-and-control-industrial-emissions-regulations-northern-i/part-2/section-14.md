@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Conditions of permits: specific conditions for Part B and C installations and mobile plant[^key-6f0a5647306070b01b5097c7555fafb8]
+## 14. Conditions of permits: specific conditions for Part B and C installations and mobile plant[^c-6f0a5647306070b01b5097c7555fafb8]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f0a5647306070b01b5097c7555fafb8]: Commencement: Reg. 14 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-6f0a5647306070b01b5097c7555fafb8]: Commencement: Reg. 14 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

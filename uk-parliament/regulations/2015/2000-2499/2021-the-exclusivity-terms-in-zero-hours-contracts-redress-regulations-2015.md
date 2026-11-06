@@ -42,7 +42,7 @@ The Secretary of State, in exercise of the powers conferred by sections 27B(1) a
 
 A draft of these Regulations was laid before Parliament in accordance with section 236(3) of the Employment Rights Act 1996[^f00002] and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and interpretation[^key-ec798c32faed9b3f1c0fc79e73e05e00]
+## 1. Citation, commencement and interpretation[^c-ec798c32faed9b3f1c0fc79e73e05e00]
 
 (1) These Regulations may be cited as the Exclusivity Terms in Zero Hours Contracts (Redress) Regulations 2015.
 
@@ -50,7 +50,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 (3) In these Regulations “the 1996 Act” means the Employment Rights Act 1996.
 
-## 2. Unfair dismissal and the right not to be subjected to detriment[^key-1271f3075e8500fa22c1c6d4dca0ea76]
+## 2. Unfair dismissal and the right not to be subjected to detriment[^c-1271f3075e8500fa22c1c6d4dca0ea76]
 
 (1) An employee who works under a zero hours contract is to be regarded for the purposes of Part 10 of the 1996 Act as unfairly dismissed if the reason (or, if more than one, the principal reason) for the dismissal is the reason specified in paragraph (3).
 
@@ -62,13 +62,13 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 (5) Section 108 of the 1996 Act (qualifying period of employment) does not apply in relation to a dismissal to which paragraph (1) applies.
 
-## 3. Complaints to employment tribunals[^key-6e8212060a42b1b8914e7c7162564b41]
+## 3. Complaints to employment tribunals[^c-6e8212060a42b1b8914e7c7162564b41]
 
 (1) Subject to regulation 2(4), a worker may present a complaint to an employment tribunal that an employer has infringed the right conferred on the worker by regulation 2(2).
 
-(2) Subject to paragraph (3), an employment tribunal must not consider a complaint under this regulation unless it is presented before the end of the period of six[^key-108bce124e468d02403d9cd0c57b7390] months beginning with the date of the act or failure to act to which the complaint relates or, where that act or failure is part of a series of similar acts or failures, the last of them.
+(2) Subject to paragraph (3), an employment tribunal must not consider a complaint under this regulation unless it is presented before the end of the period of six[^c-108bce124e468d02403d9cd0c57b7390] months beginning with the date of the act or failure to act to which the complaint relates or, where that act or failure is part of a series of similar acts or failures, the last of them.
 
-(2A)[^key-2a950d549491cdb34e8168e53829b512] Regulation 3A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-2a950d549491cdb34e8168e53829b512] Regulation 3A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) A tribunal may consider any such complaint which is out of time if, in all the circumstances of the case, it considers that it is just and equitable to do so.
 
@@ -84,7 +84,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 (6) Where a worker presents a complaint under this regulation it is for the employer to identify the ground on which any act, or deliberate failure to act, was done.
 
-## 3A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-c63228d2b50a2d01aeb528420f95fafe]
+## 3A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-c63228d2b50a2d01aeb528420f95fafe]
 
 (1) In this regulation—
 
@@ -97,7 +97,7 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 (4) The power conferred on the employment tribunal by regulation 3(3) to extend the time limit set by paragraph (2) of that regulation is exercisable in relation to that time limit as extended by this regulation.
 
-## 4. Remedies[^key-e720913a6cdd825b75a54c3799150760]
+## 4. Remedies[^c-e720913a6cdd825b75a54c3799150760]
 
 (1) Where an employment tribunal finds that a complaint presented to it under regulation 3 is well founded, it must take such of the following steps as it considers just and equitable—
 
@@ -130,7 +130,7 @@ any compensation awarded under paragraph (1)(b) must not exceed the limit specif
 
 (7) Where the tribunal finds that the act, or failure to act, to which the complaint relates was to any extent caused or contributed to by action of the complainant, it must reduce the amount of the compensation by such proportion as it considers just and equitable having regard to that finding.
 
-## 5. Review[^key-d3fb61e966f587d0f70317e779c758f7]
+## 5. Review[^c-d3fb61e966f587d0f70317e779c758f7]
 
 (1) The Secretary of State must from time to time—
 
@@ -176,22 +176,22 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^f00002]: Footnote: Section 236(3) was amended by the Small Business, Enterprise and Employment Act, section 153(1) and (3).
 
-[^key-ec798c32faed9b3f1c0fc79e73e05e00]: Commencement: Reg. 1 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)
+[^c-ec798c32faed9b3f1c0fc79e73e05e00]: Commencement: Reg. 1 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)
 
-[^key-1271f3075e8500fa22c1c6d4dca0ea76]: Commencement: Reg. 2 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)
+[^c-1271f3075e8500fa22c1c6d4dca0ea76]: Commencement: Reg. 2 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)
 
 [^f00003]: Footnote: Section 27A was inserted by the Small Business, Enterprise and Employment Act, section 153(1) and (2).
 
-[^key-6e8212060a42b1b8914e7c7162564b41]: Commencement: Reg. 3 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)
+[^c-6e8212060a42b1b8914e7c7162564b41]: Commencement: Reg. 3 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)
 
-[^key-108bce124e468d02403d9cd0c57b7390]: Textual amendment: Word in reg. 3(2) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/758/regulation/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
+[^c-108bce124e468d02403d9cd0c57b7390]: Textual amendment: Word in reg. 3(2) substituted (1.10.2026) by [The Employment Tribunal (Extension of Time Limits) (Miscellaneous Amendments and Transitional Provisions) Regulations 2026 (S.I. 2026/758)](https://www.legislation.gov.uk/uksi/2026/758), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/758/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/758/regulation/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2026/758/regulation/10))
 
-[^key-2a950d549491cdb34e8168e53829b512]: Textual amendment: Reg. 3(2A) inserted (11.1.2016) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2015 (S.I. 2015/2054)](https://www.legislation.gov.uk/uksi/2015/2054), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2054/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/2054/article/3/2)
+[^c-2a950d549491cdb34e8168e53829b512]: Textual amendment: Reg. 3(2A) inserted (11.1.2016) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2015 (S.I. 2015/2054)](https://www.legislation.gov.uk/uksi/2015/2054), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2054/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2015/2054/article/3/2)
 
-[^key-c63228d2b50a2d01aeb528420f95fafe]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2015/2021/regulation/3A) inserted (11.1.2016) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2015 (S.I. 2015/2054)](https://www.legislation.gov.uk/uksi/2015/2054), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2054/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/2054/article/3/3)
+[^c-c63228d2b50a2d01aeb528420f95fafe]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2015/2021/regulation/3A) inserted (11.1.2016) by [The Employment Tribunals Act 1996 (Application of Conciliation Provisions) Order 2015 (S.I. 2015/2054)](https://www.legislation.gov.uk/uksi/2015/2054), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2054/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2015/2054/article/3/3)
 
-[^key-e720913a6cdd825b75a54c3799150760]: Commencement: Reg. 4 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)
+[^c-e720913a6cdd825b75a54c3799150760]: Commencement: Reg. 4 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)
 
 [^f00004]: Footnote: Section 124(1ZA) was inserted by the Unfair Dismissal (Variation of the Limit of Compensatory Award) Order 2013, [S.I. 2013/1949](https://www.legislation.gov.uk/uksi/2013/1949), articles 2(1) and (3). Section 124(1ZA)(a) was amended by the Employment Rights (Increase of Limits) Order 2015, [S.I. 2015/226](https://www.legislation.gov.uk/uksi/2015/226), Article 3, Schedule.
 
-[^key-d3fb61e966f587d0f70317e779c758f7]: Commencement: Reg. 5 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)
+[^c-d3fb61e966f587d0f70317e779c758f7]: Commencement: Reg. 5 in force at 11.1.2016, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/2021/regulation/1/2)

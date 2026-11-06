@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 93. Condition about period within which development must start[^key-5a2a2e303028c2b479e0695a0de19fd5]
+## 93. Condition about period within which development must start[^c-5a2a2e303028c2b479e0695a0de19fd5]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ the planning permission is to be treated as having been granted subject to the c
 
 ## Annotations
 
-[^key-5a2a2e303028c2b479e0695a0de19fd5]: Commencement: S. 93 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5a2a2e303028c2b479e0695a0de19fd5]: Commencement: S. 93 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

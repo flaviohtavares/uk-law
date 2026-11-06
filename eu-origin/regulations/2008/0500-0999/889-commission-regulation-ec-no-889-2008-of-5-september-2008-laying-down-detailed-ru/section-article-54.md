@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. The authorities or bodies designated to grant authorisations in accordance with Article 45 shall register all authorisations, and shall make this information available in a report to the competent authority [^key-cdc50cd0805ec3aed455a3881db73900]... and to the manager of the database.
+1. The authorities or bodies designated to grant authorisations in accordance with Article 45 shall register all authorisations, and shall make this information available in a report to the competent authority [^c-cdc50cd0805ec3aed455a3881db73900]... and to the manager of the database.
 
 The report shall contain, for each species concerned by an authorisation according to Article 45(5), the following information:
 
@@ -34,4 +34,4 @@ The report shall contain, for each species concerned by an authorisation accordi
 
 ## Annotations
 
-[^key-cdc50cd0805ec3aed455a3881db73900]: Textual amendment: Words in [Art. 54(1)](https://www.legislation.gov.uk/eur/2008/889/article/54/1) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(32)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cdc50cd0805ec3aed455a3881db73900]: Textual amendment: Words in [Art. 54(1)](https://www.legislation.gov.uk/eur/2008/889/article/54/1) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(32)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

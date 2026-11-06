@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The redemption of funding bonds is not treated as the payment of interest on a debt for income tax purposes if their issue was treated under section 380 of this Act or section 413 of CTA 2009[^key-467ff0705f178ab06f7bd47204f5a6b7] as the payment of interest on the debt.
+(1) The redemption of funding bonds is not treated as the payment of interest on a debt for income tax purposes if their issue was treated under section 380 of this Act or section 413 of CTA 2009[^c-467ff0705f178ab06f7bd47204f5a6b7] as the payment of interest on the debt.
 
 (2) In this section “**funding bonds**” includes any bonds, stocks, shares, securities or certificates of indebtedness.
 
 ## Annotations
 
-[^key-467ff0705f178ab06f7bd47204f5a6b7]: Textual amendment: Words in s. 754(1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 636](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/636) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-467ff0705f178ab06f7bd47204f5a6b7]: Textual amendment: Words in s. 754(1) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 636](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/636) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

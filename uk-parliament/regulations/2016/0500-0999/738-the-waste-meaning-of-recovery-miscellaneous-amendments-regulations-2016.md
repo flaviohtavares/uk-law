@@ -57,7 +57,7 @@ The Secretary of State has in accordance with section 2(4) of the 1999 Act consu
 
 The Secretary of State is a Minister designated for the purposes of section 2(2) of the 1972 Act in relation to the environment[^f00003].
 
-## 1. Citation, commencement, extent and application[^key-653ff3feb0b301a3c2ebf9032d3213d9]
+## 1. Citation, commencement, extent and application[^c-653ff3feb0b301a3c2ebf9032d3213d9]
 
 (1) These Regulations may be cited as the Waste (Meaning of Recovery) (Miscellaneous Amendments) Regulations 2016 and come into force on 3rd August 2016.
 
@@ -65,15 +65,15 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 (3) Regulations 8 and 10 do not apply to Wales.
 
-## 2. Amendment of the Environmental Protection Act 1990[^key-00fc0fab4c2572b94adf4842f4897875]
+## 2. Amendment of the Environmental Protection Act 1990[^c-00fc0fab4c2572b94adf4842f4897875]
 
 In section 33(13) of the Environmental Protection Act 1990[^f00004], for “Annex I or II of [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste” substitute “Annex I or II of [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council of 19 November 2008 on waste[^f00005]”.
 
-## 3. Amendment of the Marine and Coastal Access Act 2009[^key-b571cac2fba1652e710ccfefa11e3727]
+## 3. Amendment of the Marine and Coastal Access Act 2009[^c-b571cac2fba1652e710ccfefa11e3727]
 
 In section 75(5) of the Marine and Coastal Access Act 2009[^f00006], for “[Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council of 18 November 2008 on waste” substitute “[Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council of 19 November 2008 on waste”.
 
-## 4. Amendment of the End-of-Life Vehicles Regulations 2003[^key-5f9c736dc8f455b4b86e308f1bf0f3ca]
+## 4. Amendment of the End-of-Life Vehicles Regulations 2003[^c-5f9c736dc8f455b4b86e308f1bf0f3ca]
 
 In regulation 2 of the End-of-Life Vehicles Regulations 2003[^f00007], for the definition of “the Waste Directive”, substitute—
 
@@ -81,7 +81,7 @@ In regulation 2 of the End-of-Life Vehicles Regulations 2003[^f00007], for the d
 
 .
 
-## 5. Amendment of the End-of-Life Vehicles (Producer Responsibility) Regulations 2005[^key-3c2123be2a4b27a58f2b296a6bc61218]
+## 5. Amendment of the End-of-Life Vehicles (Producer Responsibility) Regulations 2005[^c-3c2123be2a4b27a58f2b296a6bc61218]
 
 In regulation 2 of the End-of-Life Vehicles (Producer Responsibility) Regulations 2005[^f00008], for the definition of “the Waste Directive” substitute—
 
@@ -89,7 +89,7 @@ In regulation 2 of the End-of-Life Vehicles (Producer Responsibility) Regulation
 
 .
 
-## 6. Amendment of the Hazardous Waste (England and Wales) Regulations 2005[^key-75b1a078feaab128750c5247aab2c7fe]
+## 6. Amendment of the Hazardous Waste (England and Wales) Regulations 2005[^c-75b1a078feaab128750c5247aab2c7fe]
 
 In regulation 2(1) of the Hazardous Waste (England and Wales) Regulations 2005[^f00009], for sub-paragraph (a) substitute—
 
@@ -97,7 +97,7 @@ In regulation 2(1) of the Hazardous Waste (England and Wales) Regulations 2005[^
 
 .
 
-## 7. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^key-57f16307fe0c834c21486e64710b1e6b]
+## 7. Amendment of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^c-57f16307fe0c834c21486e64710b1e6b]
 
 In regulation 2(1) of the Producer Responsibility Obligations (Packaging Waste) Regulations 2007[^f00010], for the definition of “the Waste Directive” substitute—
 
@@ -105,7 +105,7 @@ In regulation 2(1) of the Producer Responsibility Obligations (Packaging Waste) 
 
 .
 
-## 8. Amendment of the Environmental Permitting (England and Wales) Regulations 2010[^key-ac57a19dfdaaf2c6cc952c61afb12c32]
+## 8. Amendment of the Environmental Permitting (England and Wales) Regulations 2010[^c-ac57a19dfdaaf2c6cc952c61afb12c32]
 
 In regulation 3 of the Environmental Permitting (England and Wales) Regulations 2010[^f00011], for the definition of “the Waste Framework Directive” substitute—
 
@@ -113,7 +113,7 @@ In regulation 3 of the Environmental Permitting (England and Wales) Regulations 
 
 .
 
-## 9. Amendment of the Marine Licensing (Exempted Activities) Order 2011[^key-2f8e997286edbc67fd8c60ce8b452c08]
+## 9. Amendment of the Marine Licensing (Exempted Activities) Order 2011[^c-2f8e997286edbc67fd8c60ce8b452c08]
 
 In article 3 of the Marine Licensing (Exempted Activities) Order 2011[^f00012], for the definition of “the Waste Framework Directive” substitute—
 
@@ -121,7 +121,7 @@ In article 3 of the Marine Licensing (Exempted Activities) Order 2011[^f00012], 
 
 .
 
-## 10. Amendment of the Waste (England and Wales) Regulations 2011[^key-eb3be2cb1d616a58397355733f6c6224]
+## 10. Amendment of the Waste (England and Wales) Regulations 2011[^c-eb3be2cb1d616a58397355733f6c6224]
 
 In regulation 3(1) of the Waste (England and Wales) Regulations 2011[^f00013], for the definition of “the Waste Framework Directive” substitute—
 
@@ -129,7 +129,7 @@ In regulation 3(1) of the Waste (England and Wales) Regulations 2011[^f00013], f
 
 .
 
-## 11. Amendment of the Climate Change Agreements (Eligible Facilities) Regulations 2012[^key-935063852f8a788666990e6a6ac2954c]
+## 11. Amendment of the Climate Change Agreements (Eligible Facilities) Regulations 2012[^c-935063852f8a788666990e6a6ac2954c]
 
 In regulation 2 of the Climate Change Agreements (Eligible Facilities) Regulations 2012[^f00014], for the definition of “the Waste Framework Directive” substitute—
 
@@ -137,11 +137,11 @@ In regulation 2 of the Climate Change Agreements (Eligible Facilities) Regulatio
 
 .
 
-## 12. Amendment of the Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013[^key-fcd20677af01678a0c5e90a99f850d2f]
+## 12. Amendment of the Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013[^c-fcd20677af01678a0c5e90a99f850d2f]
 
 In regulation 4(10)(d) of the Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013[^f00015], for “[Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste” substitute “[Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) of the European Parliament and of the Council on waste”.
 
-## 13. Amendment of the Waste Electrical and Electronic Equipment Regulations 2013[^key-53503a738907baf03c12210b16bccec2]
+## 13. Amendment of the Waste Electrical and Electronic Equipment Regulations 2013[^c-53503a738907baf03c12210b16bccec2]
 
 In regulation 2 of the Waste Electrical and Electronic Equipment Regulations 2013[^f00016]—
 
@@ -178,54 +178,54 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00003]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
 
-[^key-653ff3feb0b301a3c2ebf9032d3213d9]: Commencement: Reg. 1 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-653ff3feb0b301a3c2ebf9032d3213d9]: Commencement: Reg. 1 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
-[^key-00fc0fab4c2572b94adf4842f4897875]: Commencement: Reg. 2 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-00fc0fab4c2572b94adf4842f4897875]: Commencement: Reg. 2 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00004]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43); section 33(13) was inserted by [S.I. 2007/3538](https://www.legislation.gov.uk/uksi/2007/3538) and amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988).
 
 [^f00005]: Footnote: OJ No L 312, 22.11.2008, p 3, as last amended by Commission Directive (EU) 2015/1127 (OJ No L 184, 11.07.15, p 13).
 
-[^key-b571cac2fba1652e710ccfefa11e3727]: Commencement: Reg. 3 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-b571cac2fba1652e710ccfefa11e3727]: Commencement: Reg. 3 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00006]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23); section 75(5) was inserted by [S.I. 2011/405](https://www.legislation.gov.uk/uksi/2011/405).
 
-[^key-5f9c736dc8f455b4b86e308f1bf0f3ca]: Commencement: Reg. 4 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-5f9c736dc8f455b4b86e308f1bf0f3ca]: Commencement: Reg. 4 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2003/2635](https://www.legislation.gov.uk/uksi/2003/2635), amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988); there are other amending instruments but none is relevant.
 
-[^key-3c2123be2a4b27a58f2b296a6bc61218]: Commencement: Reg. 5 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-3c2123be2a4b27a58f2b296a6bc61218]: Commencement: Reg. 5 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 2005/263](https://www.legislation.gov.uk/uksi/2005/263), amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988); there are other amending instruments but none is relevant.
 
-[^key-75b1a078feaab128750c5247aab2c7fe]: Commencement: Reg. 6 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-75b1a078feaab128750c5247aab2c7fe]: Commencement: Reg. 6 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 2005/894](https://www.legislation.gov.uk/uksi/2005/894); relevant amending instruments are [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988) and [2015/1360](https://www.legislation.gov.uk/uksi/2015/1360).
 
-[^key-57f16307fe0c834c21486e64710b1e6b]: Commencement: Reg. 7 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-57f16307fe0c834c21486e64710b1e6b]: Commencement: Reg. 7 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2007/871](https://www.legislation.gov.uk/uksi/2007/871), amended by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988); there are other amending instruments but none is relevant.
 
-[^key-ac57a19dfdaaf2c6cc952c61afb12c32]: Commencement: Reg. 8 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-ac57a19dfdaaf2c6cc952c61afb12c32]: Commencement: Reg. 8 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00011]: Footnote: [S.I. 2010/675](https://www.legislation.gov.uk/uksi/2010/675), amended by [S.I. 2015/1360](https://www.legislation.gov.uk/uksi/2015/1360); there are other amending instruments but none is relevant.
 
-[^key-2f8e997286edbc67fd8c60ce8b452c08]: Commencement: Reg. 9 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-2f8e997286edbc67fd8c60ce8b452c08]: Commencement: Reg. 9 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00012]: Footnote: [S.I. 2011/409](https://www.legislation.gov.uk/uksi/2011/409), to which there are amendments not relevant to these Regulations.
 
-[^key-eb3be2cb1d616a58397355733f6c6224]: Commencement: Reg. 10 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-eb3be2cb1d616a58397355733f6c6224]: Commencement: Reg. 10 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), to which there are amendments not relevant to these Regulations.
 
-[^key-935063852f8a788666990e6a6ac2954c]: Commencement: Reg. 11 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-935063852f8a788666990e6a6ac2954c]: Commencement: Reg. 11 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 2012/2999](https://www.legislation.gov.uk/uksi/2012/2999), to which there are amendments not relevant to these Regulations.
 
-[^key-fcd20677af01678a0c5e90a99f850d2f]: Commencement: Reg. 12 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-fcd20677af01678a0c5e90a99f850d2f]: Commencement: Reg. 12 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2013/141](https://www.legislation.gov.uk/uksi/2013/141).
 
-[^key-53503a738907baf03c12210b16bccec2]: Commencement: Reg. 13 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
+[^c-53503a738907baf03c12210b16bccec2]: Commencement: Reg. 13 in force at 3.8.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1)
 
 [^f00016]: Footnote: [S.I. 2013/3113](https://www.legislation.gov.uk/uksi/2013/3113), to which there are amendments not relevant to these Regulations.

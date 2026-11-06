@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41D. Power to accept part payment of arrears in full and final satisfaction[^M_C_8aa97dd8-16da-41bd-d5df-a8fdca53407f][^key-4e220e46f023cb3fc07036bbe3ee0dc9]
+## 41D. Power to accept part payment of arrears in full and final satisfaction[^M_C_8aa97dd8-16da-41bd-d5df-a8fdca53407f][^c-4e220e46f023cb3fc07036bbe3ee0dc9]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ summary: ''
 
 [^M_C_8aa97dd8-16da-41bd-d5df-a8fdca53407f]: Modification: S. 41D modified (10.6.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 59(4)](https://www.legislation.gov.uk/ukpga/2008/6/section/59/4); [S.I. 2008/1476](https://www.legislation.gov.uk/uksi/2008/1476), [art. 2(6)](https://www.legislation.gov.uk/uksi/2008/1476/article/2/6)
 
-[^key-4e220e46f023cb3fc07036bbe3ee0dc9]: Textual amendment: [S. 41D](https://www.legislation.gov.uk/ukpga/1991/48/section/41D) inserted (8.10.2012 for specified purposes, 10.12.2012 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/6/section/32), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/2/d); [S.I. 2012/3042](https://www.legislation.gov.uk/uksi/2012/3042), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/3042/article/4/a)
+[^c-4e220e46f023cb3fc07036bbe3ee0dc9]: Textual amendment: [S. 41D](https://www.legislation.gov.uk/ukpga/1991/48/section/41D) inserted (8.10.2012 for specified purposes, 10.12.2012 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 32](https://www.legislation.gov.uk/ukpga/2008/6/section/32), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2012/2523](https://www.legislation.gov.uk/uksi/2012/2523), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/2523/article/2/2/d); [S.I. 2012/3042](https://www.legislation.gov.uk/uksi/2012/3042), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/3042/article/4/a)
 
 [^M_F_0cb8a4da-4d8a-4402-d1ca-bd8d7506e658]: Textual amendment: Words in s. 41D(1)(3) substituted (1.8.2012) by [The Public Bodies (Child Maintenance and Enforcement Commission: Abolition and Transfer of Functions) Order 2012 (S.I. 2012/2007)](https://www.legislation.gov.uk/uksi/2012/2007), [art. 3(2)](https://www.legislation.gov.uk/uksi/2012/2007/article/3/2), [Sch. para. 84(2)](https://www.legislation.gov.uk/uksi/2012/2007/schedule/paragraph/84/2)
 

@@ -32,10 +32,10 @@ Regulation (EEC) No 2988/74 of the Council
 
 of 26 November 1974 concerning limitation periods in proceedings and the enforcement of sanctions under the rules of the European Economic Community relating to transport and competition (revoked)
 
-[^key-dc5452f06cba43b8b8e66475844f2395]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc5452f06cba43b8b8e66475844f2395]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-dc5452f06cba43b8b8e66475844f2395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-dc5452f06cba43b8b8e66475844f2395] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc5452f06cba43b8b8e66475844f2395]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc5452f06cba43b8b8e66475844f2395]: Textual amendment: Regulation revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/1/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

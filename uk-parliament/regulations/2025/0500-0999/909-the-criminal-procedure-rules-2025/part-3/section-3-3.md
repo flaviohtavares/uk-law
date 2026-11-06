@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.3. The duty of the parties[^key-d57eff1b2e4fef29cf21c06f7d809f60]
+## 3.3. The duty of the parties[^c-d57eff1b2e4fef29cf21c06f7d809f60]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d57eff1b2e4fef29cf21c06f7d809f60]: Commencement: [Rule 3.3](https://www.legislation.gov.uk/uksi/2025/909/rule/3.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d57eff1b2e4fef29cf21c06f7d809f60]: Commencement: [Rule 3.3](https://www.legislation.gov.uk/uksi/2025/909/rule/3.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -35,20 +35,20 @@ authorising the extension of use of bovine milk basic whey protein isolate as a 
 
 (Text with EEA relevance) (revoked)
 
-[^key-72d39cdd93ae3506960c5b98a6630c71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72d39cdd93ae3506960c5b98a6630c71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-72d39cdd93ae3506960c5b98a6630c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-72d39cdd93ae3506960c5b98a6630c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-72d39cdd93ae3506960c5b98a6630c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-72d39cdd93ae3506960c5b98a6630c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-72d39cdd93ae3506960c5b98a6630c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-72d39cdd93ae3506960c5b98a6630c71] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-72d39cdd93ae3506960c5b98a6630c71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-72d39cdd93ae3506960c5b98a6630c71]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-72d39cdd93ae3506960c5b98a6630c71]
+## ANNEX[^c-72d39cdd93ae3506960c5b98a6630c71]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-72d39cdd93ae3506960c5b98a6630c71]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 35](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/35) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-72d39cdd93ae3506960c5b98a6630c71]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 7 para. 35](https://www.legislation.gov.uk/uksi/2025/361/schedule/7/paragraph/35) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

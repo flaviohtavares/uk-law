@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. User empowerment duties: interpretation[^key-5431109c9961bd9bd7431f0a0d69896d][^key-8c81325fa91db47b71203eac0172e176]
+## 16. User empowerment duties: interpretation[^c-5431109c9961bd9bd7431f0a0d69896d][^c-8c81325fa91db47b71203eac0172e176]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5431109c9961bd9bd7431f0a0d69896d]: Commencement: S. 16 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5431109c9961bd9bd7431f0a0d69896d]: Commencement: S. 16 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-8c81325fa91db47b71203eac0172e176]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/50/section/16) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/e)
+[^c-8c81325fa91db47b71203eac0172e176]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2023/50/section/16) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/e)

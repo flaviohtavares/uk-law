@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — FORM OF FIXED PENALTY NOTICES/[^key-a97605205d7ffd15e662a60ffe446d69]
+## SCHEDULE 10 — FORM OF FIXED PENALTY NOTICES/[^c-a97605205d7ffd15e662a60ffe446d69]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Regulation 70(7)
 
 ## Annotations
 
-[^key-a97605205d7ffd15e662a60ffe446d69]: Textual amendment: Words “the Natural Resources Body for Wales” substituted (1.4.2013) for “the Environment Agency” in Sch. 10 by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 36](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/36) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a97605205d7ffd15e662a60ffe446d69]: Textual amendment: Words “the Natural Resources Body for Wales” substituted (1.4.2013) for “the Environment Agency” in Sch. 10 by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 36](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/36) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

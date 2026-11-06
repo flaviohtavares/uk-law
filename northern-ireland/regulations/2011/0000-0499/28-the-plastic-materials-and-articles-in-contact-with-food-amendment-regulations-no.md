@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^key-b6fb630a87aa2ba01ae8e46549c202f5]
+The Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2011 (revoked)[^c-b6fb630a87aa2ba01ae8e46549c202f5]
 
 Made
 
@@ -42,22 +42,22 @@ Coming into operation
 
 1st March 2011
 
-[^key-b6fb630a87aa2ba01ae8e46549c202f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6fb630a87aa2ba01ae8e46549c202f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b6fb630a87aa2ba01ae8e46549c202f5]
+## 1. Citation and commencement[^c-b6fb630a87aa2ba01ae8e46549c202f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2009[^key-b6fb630a87aa2ba01ae8e46549c202f5]
+## 2. Amendment to the Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2009[^c-b6fb630a87aa2ba01ae8e46549c202f5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6fb630a87aa2ba01ae8e46549c202f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6fb630a87aa2ba01ae8e46549c202f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b6fb630a87aa2ba01ae8e46549c202f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b6fb630a87aa2ba01ae8e46549c202f5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b6fb630a87aa2ba01ae8e46549c202f5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/28) revoked (20.11.2012) by [The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2012 (S.R. 2012/384)](https://www.legislation.gov.uk/nisr/2012/384), [reg. 29(d)](https://www.legislation.gov.uk/nisr/2012/384/regulation/29/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2012/384/regulation/3))
+[^c-b6fb630a87aa2ba01ae8e46549c202f5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2011/28) revoked (20.11.2012) by [The Materials and Articles in Contact with Food Regulations (Northern Ireland) 2012 (S.R. 2012/384)](https://www.legislation.gov.uk/nisr/2012/384), [reg. 29(d)](https://www.legislation.gov.uk/nisr/2012/384/regulation/29/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2012/384/regulation/3))

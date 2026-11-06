@@ -171,23 +171,23 @@ In the Medicines (Advertising) Regulations 1994 [^c5080411], in regulation 1 (in
 
 .
 
-## 9. Amendment of regulation 3B of the General Fees Regulations[^key-33007146afafdd1f3aca3d84036db397]
+## 9. Amendment of regulation 3B of the General Fees Regulations[^c-33007146afafdd1f3aca3d84036db397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Part II of Schedule 1 to the General Fees Regulations[^key-33007146afafdd1f3aca3d84036db397]
+## 10. Amendment of Part II of Schedule 1 to the General Fees Regulations[^c-33007146afafdd1f3aca3d84036db397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of Part III of Schedule 1 to the General Fees Regulations[^key-33007146afafdd1f3aca3d84036db397]
+## 11. Amendment of Part III of Schedule 1 to the General Fees Regulations[^c-33007146afafdd1f3aca3d84036db397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Schedule 3 to the General Fees Regulations[^key-33007146afafdd1f3aca3d84036db397]
+## 12. Amendment of Schedule 3 to the General Fees Regulations[^c-33007146afafdd1f3aca3d84036db397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of Schedule 5 to the General Fees Regulations[^key-33007146afafdd1f3aca3d84036db397]
+## 13. Amendment of Schedule 5 to the General Fees Regulations[^c-33007146afafdd1f3aca3d84036db397]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -278,7 +278,7 @@ A Regulatory Impact Assessment in relation to these Regulations has been placed 
 
 [^c5080471]: Marginal citation: Schedule 3 was amended by [S.I. 1998/3105](https://www.legislation.gov.uk/uksi/1998/3105), 2000/292 and 2002/236.
 
-[^key-33007146afafdd1f3aca3d84036db397]: Textual amendment: [Regs. 9-13](https://www.legislation.gov.uk/uksi/2003/2321/regulation/9) revoked (1.4.2009) by [The Medicines (Products for Human Use) (Fees) Regulations 2009 (S.I. 2009/389)](https://www.legislation.gov.uk/uksi/2009/389), [regs. 1](https://www.legislation.gov.uk/uksi/2009/389/regulation/1), [51(1)](https://www.legislation.gov.uk/uksi/2009/389/regulation/51/1) (with [reg. 51(2)](https://www.legislation.gov.uk/uksi/2009/389/regulation/51/2)[(3)](https://www.legislation.gov.uk/uksi/2009/389/regulation/51/3))
+[^c-33007146afafdd1f3aca3d84036db397]: Textual amendment: [Regs. 9-13](https://www.legislation.gov.uk/uksi/2003/2321/regulation/9) revoked (1.4.2009) by [The Medicines (Products for Human Use) (Fees) Regulations 2009 (S.I. 2009/389)](https://www.legislation.gov.uk/uksi/2009/389), [regs. 1](https://www.legislation.gov.uk/uksi/2009/389/regulation/1), [51(1)](https://www.legislation.gov.uk/uksi/2009/389/regulation/51/1) (with [reg. 51(2)](https://www.legislation.gov.uk/uksi/2009/389/regulation/51/2)[(3)](https://www.legislation.gov.uk/uksi/2009/389/regulation/51/3))
 
 [^c5080511]: Marginal citation: OJ No. L 22, 9.2.1965, p. 369.
 

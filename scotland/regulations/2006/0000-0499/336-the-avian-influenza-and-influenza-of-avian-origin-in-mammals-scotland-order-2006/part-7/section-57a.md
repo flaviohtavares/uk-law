@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57A. Compensation[^key-ac08a50ff2ba6e8d239a3b3053319188]
+## 57A. Compensation[^c-ac08a50ff2ba6e8d239a3b3053319188]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Where the Scottish Ministers cause a mammal to be slaughtered under section 32 o
 
 ## Annotations
 
-[^key-ac08a50ff2ba6e8d239a3b3053319188]: Textual amendment: [Art. 57A](https://www.legislation.gov.uk/ssi/2006/336/article/57A) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2025/108/article/2/6)
+[^c-ac08a50ff2ba6e8d239a3b3053319188]: Textual amendment: [Art. 57A](https://www.legislation.gov.uk/ssi/2006/336/article/57A) inserted (29.5.2025) by [The Disease Control (Miscellaneous Amendment) (Scotland) Order 2025 (S.S.I. 2025/108)](https://www.legislation.gov.uk/ssi/2025/108), [arts. 1](https://www.legislation.gov.uk/ssi/2025/108/article/1), [2(6)](https://www.legislation.gov.uk/ssi/2025/108/article/2/6)

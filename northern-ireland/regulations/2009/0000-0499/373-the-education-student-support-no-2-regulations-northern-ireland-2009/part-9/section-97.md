@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Provision of United Kingdom national insurance number[^key-b425f0ed299bf443f8da2c02df211242]
+## 97. Provision of United Kingdom national insurance number[^c-b425f0ed299bf443f8da2c02df211242]
 
 *Extent: N.I.*
 
-(1) The Department may make it a condition of entitlement to payment of any loan that the eligible student[^key-6c5fd8930333add2794928b35f4ad208] must provide the Department with the student’s United Kingdom national insurance number.
+(1) The Department may make it a condition of entitlement to payment of any loan that the eligible student[^c-6c5fd8930333add2794928b35f4ad208] must provide the Department with the student’s United Kingdom national insurance number.
 
-(2) Where the Department has imposed a condition under paragraph (1), the Department must not make any payment of the loan to the eligible student[^key-b0e26b44da5b9800519146dbda27a528] before it is satisfied that the student has complied with that condition.
+(2) Where the Department has imposed a condition under paragraph (1), the Department must not make any payment of the loan to the eligible student[^c-b0e26b44da5b9800519146dbda27a528] before it is satisfied that the student has complied with that condition.
 
-(3) Despite paragraph (2), the Department may make a payment of loan to an eligible student[^key-0b138022159aa15c3c3d554693eae5c9] if the Department is satisfied that owing to exceptional circumstances it would be appropriate to make such a payment without the eligible student having complied with the condition imposed under paragraph (1).
+(3) Despite paragraph (2), the Department may make a payment of loan to an eligible student[^c-0b138022159aa15c3c3d554693eae5c9] if the Department is satisfied that owing to exceptional circumstances it would be appropriate to make such a payment without the eligible student having complied with the condition imposed under paragraph (1).
 
 ## Annotations
 
-[^key-b425f0ed299bf443f8da2c02df211242]: Commencement: Reg. 97 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-b425f0ed299bf443f8da2c02df211242]: Commencement: Reg. 97 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
 
-[^key-6c5fd8930333add2794928b35f4ad208]: Textual amendment: Words in [reg. 97(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/97/1) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [13(a)](https://www.legislation.gov.uk/nisr/2024/19/regulation/13/a)
+[^c-6c5fd8930333add2794928b35f4ad208]: Textual amendment: Words in [reg. 97(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/97/1) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [13(a)](https://www.legislation.gov.uk/nisr/2024/19/regulation/13/a)
 
-[^key-b0e26b44da5b9800519146dbda27a528]: Textual amendment: Words in [reg. 97(2)](https://www.legislation.gov.uk/nisr/2009/373/regulation/97/2) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [13(b)](https://www.legislation.gov.uk/nisr/2024/19/regulation/13/b)
+[^c-b0e26b44da5b9800519146dbda27a528]: Textual amendment: Words in [reg. 97(2)](https://www.legislation.gov.uk/nisr/2009/373/regulation/97/2) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [13(b)](https://www.legislation.gov.uk/nisr/2024/19/regulation/13/b)
 
-[^key-0b138022159aa15c3c3d554693eae5c9]: Textual amendment: Words in [reg. 97(3)](https://www.legislation.gov.uk/nisr/2009/373/regulation/97/3) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [13(c)](https://www.legislation.gov.uk/nisr/2024/19/regulation/13/c)
+[^c-0b138022159aa15c3c3d554693eae5c9]: Textual amendment: Words in [reg. 97(3)](https://www.legislation.gov.uk/nisr/2009/373/regulation/97/3) substituted (26.2.2024) by [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/19)](https://www.legislation.gov.uk/nisr/2024/19), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/19/regulation/1/2), [13(c)](https://www.legislation.gov.uk/nisr/2024/19/regulation/13/c)

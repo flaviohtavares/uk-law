@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Maritime enforcement powers: other supplementary provision[^c22719281][^key-cc7d766bf5fbef4c9e60e6ec333b8990]
+## 92. Maritime enforcement powers: other supplementary provision[^c22719281][^c-cc7d766bf5fbef4c9e60e6ec333b8990]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ to assist the officer in the exercise of powers under this Chapter.
 
 [^c22719281]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2017/3/section/92) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-cc7d766bf5fbef4c9e60e6ec333b8990]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2017/3/section/92) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-cc7d766bf5fbef4c9e60e6ec333b8990]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2017/3/section/92) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

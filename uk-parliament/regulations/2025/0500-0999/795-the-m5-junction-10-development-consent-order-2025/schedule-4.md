@@ -29,14 +29,14 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 - (c) Private means of access to be stopped up, as described in column (2) of Parts 3 and 4 of this Schedule, are shown by thick brown diagonal hatching (as shown in the key on the streets, rights of way and access plans) over the extent of stopping up described in column (3) of Parts 3 and 4 of this Schedule, and are given a reference label (an upper case letter in a circle).
 - (d) New private means of access to be substituted for a private means of access to be stopped up (or which are otherwise to be provided), as are included in column (4) of Part 4 of this Schedule, are shown by orange honeycomb hatching (as shown in the key on the streets, rights of way and access plans) and are given a reference label (a lower case letter in a circle).
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTES IS TO BE PROVIDED[^key-5550ca8d6d0cd54bd4d34b8b8eb6ea1b]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH NO SUBSTITUTES IS TO BE PROVIDED[^c-5550ca8d6d0cd54bd4d34b8b8eb6ea1b]
 
 | *(1)*<br>*Area* | *(2)*<br>*Highway to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
 | Boddington Civil Parish, Tewkesbury | Withybridge Gardens | For a distance of 420 metres, as shown between point 5/1 on sheet 5 of the streets, rights of way and access plans and point 12/1 on sheet 12 of the streets, rights of way and access plans |
 | Boddington and Elmstone Hardwicke Civil Parishes, Tewkesbury | Stanboro Lane / Piffs Elm Lane | For a distance of 127 metres as shown between points 5/2 and 5/3 on sheet 5 of the streets, rights of way and access plans |
 
-### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-967c8d5130af67f9401805e93acc6266]
+### PART 2 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-967c8d5130af67f9401805e93acc6266]
 
 | *(1)*<br>*Area* | *(2)*<br>*Highway to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New Highway to be substituted/provided* |
 | --- | --- | --- | --- |
@@ -80,7 +80,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 | Boddington Civil Parish, Tewkesbury |  |  | Reference 16/4 to 16/5<br>New unclassified road to the proposed West Cheltenham Golden Valley Development at the new signalised junction between the new West Cheltenham Link Road and B4634 for a length of 30 metres, as shown between points 16/4 and 16/5 on sheet 16 of the streets, rights of way and access plans, including 20 metres of new cycle track (reference PR52), 30 metres of new cycle track (reference PR54), 20 metres of new footway (reference PR53) and 30 metres of new footway (reference PR55) |
 | Boddington Civil Parish, Tewkesbury |  |  | Reference 16/6 to 16/7<br>The re-aligned B4634 carriageway for a length of 488 metres, as shown between points 16/6 and 16/7 on sheet 16 of the streets, rights of way and access plans, including 273 metres of new non-segregated footway/cycle track (reference PR51) on the northern side of the B4634 |
 
-### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS PROVIDED[^key-0cc78da742e3fa21c8724942b4848b9c]
+### PART 3 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH NO SUBSTITUTE IS PROVIDED[^c-0cc78da742e3fa21c8724942b4848b9c]
 
 | *(1)*<br>*Area* | *(2)*<br>*Private means of access to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -104,7 +104,7 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 | Uckington Civil Parish, Tewkesbury | Reference LL<br>Access to field north of the existing A4019 as shown on sheet 14 of the streets, rights of way and access plans | From the existing A4019 for a length of 5 metres as shown on sheet 14 of the streets, rights of way and access plans |
 | Boddington Civil Parish, Tewkesbury | Reference OO<br>Access to field north of the existing B4634 as shown on sheet 16 of the streets, rights of way and access plans | From the existing B4634 for a length of 2 metres as shown on sheet 16 of the streets, rights of way and access plans |
 
-### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^key-1e1b949f628c69b2e204f505920639fc]
+### PART 4 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^c-1e1b949f628c69b2e204f505920639fc]
 
 | *(1)*<br>*Area* | *(2)*<br>*Private means of access to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New private means of access to be substituted/provided* |
 | --- | --- | --- | --- |
@@ -159,10 +159,10 @@ In relating this Schedule to the streets, rights of way and access plans, the pr
 
 ## Annotations
 
-[^key-5550ca8d6d0cd54bd4d34b8b8eb6ea1b]: Commencement: Sch. 4 Pt. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-5550ca8d6d0cd54bd4d34b8b8eb6ea1b]: Commencement: Sch. 4 Pt. 1 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-967c8d5130af67f9401805e93acc6266]: Commencement: Sch. 4 Pt. 2 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-967c8d5130af67f9401805e93acc6266]: Commencement: Sch. 4 Pt. 2 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-0cc78da742e3fa21c8724942b4848b9c]: Commencement: Sch. 4 Pt. 3 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-0cc78da742e3fa21c8724942b4848b9c]: Commencement: Sch. 4 Pt. 3 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-1e1b949f628c69b2e204f505920639fc]: Commencement: Sch. 4 Pt. 4 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-1e1b949f628c69b2e204f505920639fc]: Commencement: Sch. 4 Pt. 4 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

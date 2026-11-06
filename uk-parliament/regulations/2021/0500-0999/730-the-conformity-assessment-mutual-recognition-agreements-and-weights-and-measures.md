@@ -60,24 +60,24 @@ In accordance with paragraph 4(1) of Schedule 2 to the Trade Act 2021 a draft of
 
 ## PART 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-8d5816e74cd825a303326207b675bd41]
+### 1. Citation and commencement[^c-8d5816e74cd825a303326207b675bd41]
 
 These Regulations may be cited as the Conformity Assessment (Mutual Recognition Agreements) and Weights and Measures (Intoxicating Liquor) (Amendment) Regulations 2021 and come into force on the day after the day on which these Regulations are made.
 
-### 2. Extent[^key-9ed035d8e9ff06bf1b5cc4df9a6b8aa9]
+### 2. Extent[^c-9ed035d8e9ff06bf1b5cc4df9a6b8aa9]
 
 (1) Regulations 4, 5, 8 and 9 extend to England and Wales and Scotland only.
 
 (2) Save for the regulations set out in paragraph (1), these Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 3. Interpretation[^key-b28b54e1dd29cc9504768dceeb866d36]
+### 3. Interpretation[^c-b28b54e1dd29cc9504768dceeb866d36]
 
 In these Regulations—
 
-- (za)[^key-e49eef9434d0976848b72145d4e21d6e] “**the 2009 Regulations**” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00003];
+- (za)[^c-e49eef9434d0976848b72145d4e21d6e] “**the 2009 Regulations**” means the Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009[^f00003];
 - (a) “accreditation” means third-party attestation related to a conformity assessment body conveying formal demonstration of its competence to carry out specific conformity assessment activities;
 - (b) “accreditation body” means an authoritative body that performs accreditation;
-- (ba)[^key-7057be93627debc6dc9d127071f27887] “**appointed body**” has the meaning given in regulation 2(5) of the 2009 Regulations;
+- (ba)[^c-7057be93627debc6dc9d127071f27887] “**appointed body**” has the meaning given in regulation 2(5) of the 2009 Regulations;
 - (c) “approved body” has the meaning given to it in the specified Regulations[^f00002];
 - (d) “Canadian MRA” means the Protocol on the mutual acceptance of the results of conformity assessment to the Agreement on Trade Continuity between the United Kingdom of Great Britain and Northern Ireland and Canada[^f00003];
 - (e) “conformity assessment body” means a body that performs or is responsible for conformity assessment procedures;
@@ -90,8 +90,8 @@ In these Regulations—
   - (ii) the Agreement on mutual recognition in relation to conformity assessment between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of New Zealand[^f00006];
   - (iii) the Agreement on mutual recognition between the Government of the United Kingdom of Great Britain and Northern Ireland and the United States of America[^f00007];
   - (iv) Annex 2-B to the Free Trade Agreement between the United Kingdom of Great Britain and Northern Ireland and the Republic of Korea[^f00008];
-  - (v) the Protocol on mutual recognition to the Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership[^f00009]; [^key-3c67af967e899b45c5ced5f7b150aa43]...
-  - (vi) the Canadian MRA; or[^key-d85ddb9d2434f278141cf531c83add5a]
+  - (v) the Protocol on mutual recognition to the Agreement between the United Kingdom of Great Britain and Northern Ireland and Japan for a Comprehensive Economic Partnership[^f00009]; [^c-3c67af967e899b45c5ced5f7b150aa43]...
+  - (vi) the Canadian MRA; or[^c-d85ddb9d2434f278141cf531c83add5a]
   - (vii) the Agreement between the Swiss Confederation and the United Kingdom of Great Britain and Northern Ireland on mutual recognition in relation to conformity assessment;
 - (i) “MRA body” means a conformity assessment body designated in respect of specified Regulations by the authorities of the other Party to the MRA responsible for designating conformity assessment bodies under the MRA and that is recognised by the United Kingdom under the MRA;
 - (j) “other Party” means the party to the MRA which is not the United Kingdom;
@@ -101,18 +101,18 @@ In these Regulations—
 
 ## PART 2 — Provisions in respect of MRAs
 
-### 4. Recognition of conformity assessment[^key-b10cc5c6e87d5fabca26e0757dbfe4c1]
+### 4. Recognition of conformity assessment[^c-b10cc5c6e87d5fabca26e0757dbfe4c1]
 
 *Extent: E+W+S*
 
 (1) Paragraph (2) applies where, pursuant to an MRA, the United Kingdom is required to recognise or accept a conformity assessment procedure performed or a conformity assessment result issued by an MRA body in respect of a product, process or service to which the specified Regulations apply (a “mutually recognised procedure or conformity assessment result”).
 
-(2) For the purpose of the specified Regulations which are referred to in paragraph (1), the mutually recognised procedure or conformity assessment result is to be treated as if it were performed or issued by—[^key-b1e15c072d12bf38ac8ace3f70b344f0]
+(2) For the purpose of the specified Regulations which are referred to in paragraph (1), the mutually recognised procedure or conformity assessment result is to be treated as if it were performed or issued by—[^c-b1e15c072d12bf38ac8ace3f70b344f0]
 
 - (a) an approved body, for the purposes of the specified Regulations other than the 2009 Regulations; or
 - (b) an appointed body, for the purposes of the 2009 Regulations.
 
-### 5. Registers of MRA bodies and UK-recognised Canadian accreditation bodies[^key-9d79680d585b573fecfc9cca87e3e03f]
+### 5. Registers of MRA bodies and UK-recognised Canadian accreditation bodies[^c-9d79680d585b573fecfc9cca87e3e03f]
 
 *Extent: E+W+S*
 
@@ -133,7 +133,7 @@ In these Regulations—
 
 (3) The Secretary of State may authorise the United Kingdom Accreditation Service to compile and maintain the registers referred to in paragraph (1).
 
-### 6. Designation of UK bodies[^key-e70d5ee7b2694924dd14e2e9d0bfb969]
+### 6. Designation of UK bodies[^c-e70d5ee7b2694924dd14e2e9d0bfb969]
 
 (1) The Secretary of State may designate for the purpose of an MRA a conformity assessment body to perform conformity assessment procedures against the legislative, regulatory and administrative requirements of the other Party that are set out in or relate to products specified in an annex or appendix to an MRA listed in Schedule 2 (referred to in this regulation as a “designated body”) and any such designation must include the scope of the activities for which the body is designated.
 
@@ -169,7 +169,7 @@ the Secretary of State must notify and give to the designated body an opportunit
 - (c) compiling and maintaining the register of designated bodies in accordance with paragraph (9); and
 - (d) verifying that the accreditation body referred to in paragraph (4) has been duly recognised by Canada.
 
-### 7. Disclosure of information pursuant to an MRA[^key-6df15d3f5a30a5fdbeeba30064dde2e3]
+### 7. Disclosure of information pursuant to an MRA[^c-6df15d3f5a30a5fdbeeba30064dde2e3]
 
 (1) The Secretary of State, or a person authorised to act on behalf of the Secretary of State, may disclose relevant information to the other Party.
 
@@ -186,7 +186,7 @@ the Secretary of State must notify and give to the designated body an opportunit
 
 *Extent: E+W+S*
 
-### 8. Amendment of the Weights and Measures (Intoxicating Liquor) Order 1988[^key-11b14b34655b6a63f223eb068e9937a2]
+### 8. Amendment of the Weights and Measures (Intoxicating Liquor) Order 1988[^c-11b14b34655b6a63f223eb068e9937a2]
 
 (1) The Weights and Measures (Intoxicating Liquor) Order 1988[^f00011] is amended as follows.
 
@@ -198,7 +198,7 @@ the Secretary of State must notify and give to the designated body an opportunit
 
 (3) In the table in Schedule A1, in the row relating to “Spirit drinks”, in the fourth column, at the end, insert “, or single distilled shochu in containers of a capacity of 720 ml, 900 ml or 1800 ml”.
 
-### 9. Amendment of Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110)[^key-107f52f504f0fcf3b901c02d215621f7]
+### 9. Amendment of Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110)[^c-107f52f504f0fcf3b901c02d215621f7]
 
 In Regulation [(EC) No 110/2008](https://www.legislation.gov.uk/european/regulation/2008/0110) of the European Parliament and of the Council of 15 January 2008 on the definition, description, presentation, labelling and the protection of geographical indications of spirit drinks and repealing [Council Regulation (EEC) No 1576/89](https://www.legislation.gov.uk/european/regulation/1989/1576)[^f00012], omit Article 24a.
 
@@ -212,69 +212,69 @@ Department for Business, Energy and Industrial Strategy
 
 Regulation 3
 
-**1.**[^key-b9af58af58787921a0cf8ef650df758f] The Noise Emission in the Environment by Equipment for use Outdoors Regulations 2001[^f00013].
+**1.**[^c-b9af58af58787921a0cf8ef650df758f] The Noise Emission in the Environment by Equipment for use Outdoors Regulations 2001[^f00013].
 
-**2.**[^key-58c9e23fa78e5014db536a6573924ecf] The Supply of Machinery (Safety) Regulations 2008[^f00014].
+**2.**[^c-58c9e23fa78e5014db536a6573924ecf] The Supply of Machinery (Safety) Regulations 2008[^f00014].
 
-**2A.**[^key-27cae33d67ee2fe23867184e7ec914bb] The 2009 Regulations.
+**2A.**[^c-27cae33d67ee2fe23867184e7ec914bb] The 2009 Regulations.
 
-**3.**[^key-b99f2c0c26a7df57259a95863390f872] The Ecodesign for Energy-Related Products Regulations 2010[^f00015] with respect to hot water boilers and related appliances only.
+**3.**[^c-b99f2c0c26a7df57259a95863390f872] The Ecodesign for Energy-Related Products Regulations 2010[^f00015] with respect to hot water boilers and related appliances only.
 
-**3A.**[^key-04ae698fc54bb4c7dae84de20bce4247] [Regulation (EU) No 305/2011](https://www.legislation.gov.uk/european/regulation/2011/0305) of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council [Directive 89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106).
+**3A.**[^c-04ae698fc54bb4c7dae84de20bce4247] [Regulation (EU) No 305/2011](https://www.legislation.gov.uk/european/regulation/2011/0305) of the European Parliament and of the Council of 9 March 2011 laying down harmonised conditions for the marketing of construction products and repealing Council [Directive 89/106/EEC](https://www.legislation.gov.uk/european/directive/1989/0106).
 
-**4.**[^key-5fe0e40a2d5f79cd052b6ebaec1a1da4] The Toys (Safety) Regulations 2011[^f00016].
+**4.**[^c-5fe0e40a2d5f79cd052b6ebaec1a1da4] The Toys (Safety) Regulations 2011[^f00016].
 
-**5.**[^key-1fd6651f8469e24bc1282e5c3659d7e4] The Electromagnetic Compatibility Regulations 2016[^f00017].
+**5.**[^c-1fd6651f8469e24bc1282e5c3659d7e4] The Electromagnetic Compatibility Regulations 2016[^f00017].
 
-**6.**[^key-fa1d7044fe570929b1e5b4491d204b60] The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016[^f00018].
+**6.**[^c-fa1d7044fe570929b1e5b4491d204b60] The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016[^f00018].
 
-**7.**[^key-7f95f6a96f16f6b015e4f699df525d3f] The Measuring Instruments Regulations 2016[^f00019].
+**7.**[^c-7f95f6a96f16f6b015e4f699df525d3f] The Measuring Instruments Regulations 2016[^f00019].
 
-**7A.**[^key-7ab477dfa1ae88a18b396be620fccd0a] The Non-automatic Weighing Instruments Regulations 2016.
+**7A.**[^c-7ab477dfa1ae88a18b396be620fccd0a] The Non-automatic Weighing Instruments Regulations 2016.
 
-**8.**[^key-f4556aad657afa1dbd1c98875cfe48bf] The Simple Pressure Vessels (Safety) Regulations 2016[^f00020].
+**8.**[^c-f4556aad657afa1dbd1c98875cfe48bf] The Simple Pressure Vessels (Safety) Regulations 2016[^f00020].
 
-**9.**[^key-dd3a1b0ec22f7678f36aade0584f2462] The Radio Equipment Regulations 2017[^f00021].
+**9.**[^c-dd3a1b0ec22f7678f36aade0584f2462] The Radio Equipment Regulations 2017[^f00021].
 
-**10.**[^key-d8ed45d81e818b7e70d4d996c78d055b] The Recreational Craft Regulations 2017[^f00022].
+**10.**[^c-d8ed45d81e818b7e70d4d996c78d055b] The Recreational Craft Regulations 2017[^f00022].
 
 ## SCHEDULE 2 — Annexes and Appendices to the MRAs
 
 Regulation 6
 
-### 1. For the Australian and New Zealand MRAs[^key-26ee3bdc2ebaa737b18703dc66fe4fa7]
+### 1. For the Australian and New Zealand MRAs[^c-26ee3bdc2ebaa737b18703dc66fe4fa7]
 
 Sectoral annex on telecommunications terminal equipment[^f00023].
 
-**2.**[^key-6795fd8b2d67e3779b61764e9525bfd7] Sectoral annex on low voltage equipment.
+**2.**[^c-6795fd8b2d67e3779b61764e9525bfd7] Sectoral annex on low voltage equipment.
 
-**3.**[^key-1af315f64376b8f74d9969cc419a7895] Sectoral annex on electromagnetic compatibility.
+**3.**[^c-1af315f64376b8f74d9969cc419a7895] Sectoral annex on electromagnetic compatibility.
 
-**4.**[^key-6901e693e4d1ec72a717338d9d5a911c] Sectoral annex on machinery.
+**4.**[^c-6901e693e4d1ec72a717338d9d5a911c] Sectoral annex on machinery.
 
-**5.**[^key-c8efadab9d3a07483c076592f5ea7c6f] Sectoral annex on pressure equipment, in relation to simple pressure vessels.
+**5.**[^c-c8efadab9d3a07483c076592f5ea7c6f] Sectoral annex on pressure equipment, in relation to simple pressure vessels.
 
-### 6. For the US MRA[^key-45ac011780e1628cc71ad294a0015c89]
+### 6. For the US MRA[^c-45ac011780e1628cc71ad294a0015c89]
 
 Sectoral annex for telecommunications equipment.
 
-**7.**[^key-df88ece9949107883cd1d1b20f9a2198] Sectoral annex for electromagnetic compatibility.
+**7.**[^c-df88ece9949107883cd1d1b20f9a2198] Sectoral annex for electromagnetic compatibility.
 
-### 8. For the Korean MRA[^key-f2df4cb374555fb9c3fa881a00cc3652]
+### 8. For the Korean MRA[^c-f2df4cb374555fb9c3fa881a00cc3652]
 
  Appendix 2-B-1 (electronics).
 
-### 9. For the Japanese MRA[^key-ab5e31e4d9b02999d5d4e04d5d91c06c]
+### 9. For the Japanese MRA[^c-ab5e31e4d9b02999d5d4e04d5d91c06c]
 
 Sectoral annex on telecommunications terminal equipment and radio equipment.
 
-**10.**[^key-37e2fec7a9d41c994dba87062888958e] Sectoral annex on electrical products.
+**10.**[^c-37e2fec7a9d41c994dba87062888958e] Sectoral annex on electrical products.
 
-### 11. For the Canadian MRA[^key-74908616619940f9a0c3bae9cc8884d9]
+### 11. For the Canadian MRA[^c-74908616619940f9a0c3bae9cc8884d9]
 
 Annex 1 (product coverage).
 
-### 12. For the Swiss MRA[^key-70b405888867fd7db8f532fa61a8680b]
+### 12. For the Swiss MRA[^c-70b405888867fd7db8f532fa61a8680b]
 
 Annex I (Product sectors).
 
@@ -311,17 +311,17 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2021 c. 10](https://www.legislation.gov.uk/ukpga/2021/10). See section 5(1) of the Trade Act 2021 for the definition of “appropriate authority”.
 
-[^key-8d5816e74cd825a303326207b675bd41]: Commencement: Reg. 1 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-8d5816e74cd825a303326207b675bd41]: Commencement: Reg. 1 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-9ed035d8e9ff06bf1b5cc4df9a6b8aa9]: Commencement: Reg. 2 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-9ed035d8e9ff06bf1b5cc4df9a6b8aa9]: Commencement: Reg. 2 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-b28b54e1dd29cc9504768dceeb866d36]: Commencement: Reg. 3 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-b28b54e1dd29cc9504768dceeb866d36]: Commencement: Reg. 3 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-e49eef9434d0976848b72145d4e21d6e]: Textual amendment: [Reg. 3(za)](https://www.legislation.gov.uk/uksi/2021/730/regulation/3/za) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/4/a) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
+[^c-e49eef9434d0976848b72145d4e21d6e]: Textual amendment: [Reg. 3(za)](https://www.legislation.gov.uk/uksi/2021/730/regulation/3/za) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/4/a) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
 
 [^f00003]: Footnote: The agreement was published in CP 351. An electronic copy of CP 351 can be found at https://www.gov.uk/government/publications/ukcanada-agreement-on-trade-continuity-cs-canada-no12020. Hard copies are available upon request from the Regulatory Environment Team, Department for International Trade, King Charles Street, Whitehall, London, SW1A 2AH, United Kingdom.
 
-[^key-7057be93627debc6dc9d127071f27887]: Textual amendment: [Reg. 3(ba)](https://www.legislation.gov.uk/uksi/2021/730/regulation/3/ba) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/4/b) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
+[^c-7057be93627debc6dc9d127071f27887]: Textual amendment: [Reg. 3(ba)](https://www.legislation.gov.uk/uksi/2021/730/regulation/3/ba) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/4/b) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
 
 [^f00002]: Footnote: The term “approved body” was introduced into the specified Regulations with effect from IP completion day by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696).
 
@@ -337,98 +337,98 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00009]: Footnote: The agreement was published in CP 311. An electronic copy of CP 311 can be found at https://www.gov.uk/government/publications/ukjapan-agreement-for-a-comprehensive-economic-partnership-cs-japan-no12020. Hard copies are available upon request from the Regulatory Environment Team.
 
-[^key-3c67af967e899b45c5ced5f7b150aa43]: Textual amendment: Word in [reg. 3(h)](https://www.legislation.gov.uk/uksi/2021/730/regulation/3/h) omitted (23.12.2022) by virtue of [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/4/c/i) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
+[^c-3c67af967e899b45c5ced5f7b150aa43]: Textual amendment: Word in [reg. 3(h)](https://www.legislation.gov.uk/uksi/2021/730/regulation/3/h) omitted (23.12.2022) by virtue of [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/4/c/i) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
 
-[^key-d85ddb9d2434f278141cf531c83add5a]: Textual amendment: [Reg. 3(h)(vii)](https://www.legislation.gov.uk/uksi/2021/730/regulation/3/h/vii) and word inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/4/c/ii) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
+[^c-d85ddb9d2434f278141cf531c83add5a]: Textual amendment: [Reg. 3(h)(vii)](https://www.legislation.gov.uk/uksi/2021/730/regulation/3/h/vii) and word inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/4/c/ii) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
 
-[^key-b10cc5c6e87d5fabca26e0757dbfe4c1]: Commencement: Reg. 4 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-b10cc5c6e87d5fabca26e0757dbfe4c1]: Commencement: Reg. 4 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-b1e15c072d12bf38ac8ace3f70b344f0]: Textual amendment: [Reg. 4(2)(a)(b)](https://www.legislation.gov.uk/uksi/2021/730/regulation/4/2/a/b) and word substituted for words (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [5](https://www.legislation.gov.uk/uksi/2022/1400/regulation/5) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
+[^c-b1e15c072d12bf38ac8ace3f70b344f0]: Textual amendment: [Reg. 4(2)(a)(b)](https://www.legislation.gov.uk/uksi/2021/730/regulation/4/2/a/b) and word substituted for words (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [5](https://www.legislation.gov.uk/uksi/2022/1400/regulation/5) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
 
-[^key-9d79680d585b573fecfc9cca87e3e03f]: Commencement: Reg. 5 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-9d79680d585b573fecfc9cca87e3e03f]: Commencement: Reg. 5 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-e70d5ee7b2694924dd14e2e9d0bfb969]: Commencement: Reg. 6 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-e70d5ee7b2694924dd14e2e9d0bfb969]: Commencement: Reg. 6 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-6df15d3f5a30a5fdbeeba30064dde2e3]: Commencement: Reg. 7 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-6df15d3f5a30a5fdbeeba30064dde2e3]: Commencement: Reg. 7 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00010]: Footnote: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12). There are amendments to this Act but none are relevant to these Regulations.
 
-[^key-11b14b34655b6a63f223eb068e9937a2]: Commencement: Reg. 8 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-11b14b34655b6a63f223eb068e9937a2]: Commencement: Reg. 8 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1988/2039](https://www.legislation.gov.uk/uksi/1988/2039), amended by [S.I. 2009/663](https://www.legislation.gov.uk/uksi/2009/663); there are other amending instruments but none is relevant.
 
-[^key-107f52f504f0fcf3b901c02d215621f7]: Commencement: Reg. 9 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-107f52f504f0fcf3b901c02d215621f7]: Commencement: Reg. 9 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00012]: Footnote: EUR 2008/110.
 
-[^key-b9af58af58787921a0cf8ef650df758f]: Commencement: Sch. 1 para. 1 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-b9af58af58787921a0cf8ef650df758f]: Commencement: Sch. 1 para. 1 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2001/1701](https://www.legislation.gov.uk/uksi/2001/1701), amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); there are other amending instruments but none is relevant.
 
-[^key-58c9e23fa78e5014db536a6573924ecf]: Commencement: Sch. 1 para. 2 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-58c9e23fa78e5014db536a6573924ecf]: Commencement: Sch. 1 para. 2 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00014]: Footnote: [S.I. 2008/1597](https://www.legislation.gov.uk/uksi/2008/1597), amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); there are other amending instruments but none is relevant.
 
-[^key-27cae33d67ee2fe23867184e7ec914bb]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/2A) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/6/a) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
+[^c-27cae33d67ee2fe23867184e7ec914bb]: Textual amendment: [Sch. 1 para. 2A](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/2A) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/6/a) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
 
-[^key-b99f2c0c26a7df57259a95863390f872]: Commencement: Sch. 1 para. 3 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-b99f2c0c26a7df57259a95863390f872]: Commencement: Sch. 1 para. 3 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2010/2617](https://www.legislation.gov.uk/uksi/2010/2617), amended by [S.I. 2019/539](https://www.legislation.gov.uk/uksi/2019/539); there are other amending instruments but none is relevant.
 
-[^key-04ae698fc54bb4c7dae84de20bce4247]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/3A) inserted (27.11.2021) by [The Conformity Assessment (Mutual Recognition Agreements) (Construction Products) (Amendment) Regulations 2021 (S.I. 2021/1332)](https://www.legislation.gov.uk/uksi/2021/1332), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1332/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1332/regulation/3/2)
+[^c-04ae698fc54bb4c7dae84de20bce4247]: Textual amendment: [Sch. 1 para. 3A](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/3A) inserted (27.11.2021) by [The Conformity Assessment (Mutual Recognition Agreements) (Construction Products) (Amendment) Regulations 2021 (S.I. 2021/1332)](https://www.legislation.gov.uk/uksi/2021/1332), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1332/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2021/1332/regulation/3/2)
 
-[^key-5fe0e40a2d5f79cd052b6ebaec1a1da4]: Commencement: Sch. 1 para. 4 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-5fe0e40a2d5f79cd052b6ebaec1a1da4]: Commencement: Sch. 1 para. 4 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00016]: Footnote: [S.I. 2011/1881](https://www.legislation.gov.uk/uksi/2011/1881), amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); there are other amending instruments but none is relevant.
 
-[^key-1fd6651f8469e24bc1282e5c3659d7e4]: Commencement: Sch. 1 para. 5 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-1fd6651f8469e24bc1282e5c3659d7e4]: Commencement: Sch. 1 para. 5 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00017]: Footnote: [S.I. 2016/1091](https://www.legislation.gov.uk/uksi/2016/1091), amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); there are other amending instruments but none is relevant.
 
-[^key-fa1d7044fe570929b1e5b4491d204b60]: Commencement: Sch. 1 para. 6 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-fa1d7044fe570929b1e5b4491d204b60]: Commencement: Sch. 1 para. 6 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00018]: Footnote: [S.I. 2016/1107](https://www.legislation.gov.uk/uksi/2016/1107), amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); there are other amending instruments but none is relevant.
 
-[^key-7f95f6a96f16f6b015e4f699df525d3f]: Commencement: Sch. 1 para. 7 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-7f95f6a96f16f6b015e4f699df525d3f]: Commencement: Sch. 1 para. 7 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2016/1153](https://www.legislation.gov.uk/uksi/2016/1153), amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); there are other amending instruments but none is relevant.
 
-[^key-7ab477dfa1ae88a18b396be620fccd0a]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/7A) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/6/b) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
+[^c-7ab477dfa1ae88a18b396be620fccd0a]: Textual amendment: [Sch. 1 para. 7A](https://www.legislation.gov.uk/uksi/2021/730/schedule/1/paragraph/7A) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2022/1400/regulation/6/b) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
 
-[^key-f4556aad657afa1dbd1c98875cfe48bf]: Commencement: Sch. 1 para. 8 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-f4556aad657afa1dbd1c98875cfe48bf]: Commencement: Sch. 1 para. 8 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00020]: Footnote: [S.I. 2016/1092](https://www.legislation.gov.uk/uksi/2016/1092), amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); there are other amending instruments but none is relevant.
 
-[^key-dd3a1b0ec22f7678f36aade0584f2462]: Commencement: Sch. 1 para. 9 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-dd3a1b0ec22f7678f36aade0584f2462]: Commencement: Sch. 1 para. 9 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00021]: Footnote: [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206), amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); there are other amending instruments but none is relevant.
 
-[^key-d8ed45d81e818b7e70d4d996c78d055b]: Commencement: Sch. 1 para. 10 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-d8ed45d81e818b7e70d4d996c78d055b]: Commencement: Sch. 1 para. 10 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00022]: Footnote: [S.I. 2017/737](https://www.legislation.gov.uk/uksi/2017/737), amended by [S.I. 2019/696](https://www.legislation.gov.uk/uksi/2019/696); there are other amending instruments but none is relevant.
 
-[^key-26ee3bdc2ebaa737b18703dc66fe4fa7]: Commencement: Sch. 2 para. 1 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-26ee3bdc2ebaa737b18703dc66fe4fa7]: Commencement: Sch. 2 para. 1 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
 [^f00023]: Footnote: The Australian MRA incorporates mutatis mutandis the sectoral annexes from the Agreement on mutual recognition in relation to conformity assessment, certificates and markings between the European Community and Australia dated 24 June 1998 (OJ L 229, 17.8.1998, p.3), as amended by Decisions No. 01/2005 (OJ L 333, 20.12.2005, p.51) and No. 02/2005 (OJ L 333, 20.12.2005, p.53) of the Joint Committee of 11 November 2005 and the Agreement between the European Union and Australia dated 23 February 2012 (OJ L 359, 29.12.2012, p.2). The New Zealand MRA incorporates mutatis mutandis the sectoral annexes from the Agreement on mutual recognition in relation to conformity assessment between the European Community and New Zealand dated 25 June 1998 (OJ L 229, 17.8.1998, p.2) and any subsequent amendments made thereto prior to the date on which it ceases to apply to the United Kingdom.
 
-[^key-6795fd8b2d67e3779b61764e9525bfd7]: Commencement: Sch. 2 para. 2 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-6795fd8b2d67e3779b61764e9525bfd7]: Commencement: Sch. 2 para. 2 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-1af315f64376b8f74d9969cc419a7895]: Commencement: Sch. 2 para. 3 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-1af315f64376b8f74d9969cc419a7895]: Commencement: Sch. 2 para. 3 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-6901e693e4d1ec72a717338d9d5a911c]: Commencement: Sch. 2 para. 4 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-6901e693e4d1ec72a717338d9d5a911c]: Commencement: Sch. 2 para. 4 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-c8efadab9d3a07483c076592f5ea7c6f]: Commencement: Sch. 2 para. 5 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-c8efadab9d3a07483c076592f5ea7c6f]: Commencement: Sch. 2 para. 5 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-45ac011780e1628cc71ad294a0015c89]: Commencement: Sch. 2 para. 6 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-45ac011780e1628cc71ad294a0015c89]: Commencement: Sch. 2 para. 6 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-df88ece9949107883cd1d1b20f9a2198]: Commencement: Sch. 2 para. 7 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-df88ece9949107883cd1d1b20f9a2198]: Commencement: Sch. 2 para. 7 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-f2df4cb374555fb9c3fa881a00cc3652]: Commencement: Sch. 2 para. 8 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-f2df4cb374555fb9c3fa881a00cc3652]: Commencement: Sch. 2 para. 8 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-ab5e31e4d9b02999d5d4e04d5d91c06c]: Commencement: Sch. 2 para. 9 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-ab5e31e4d9b02999d5d4e04d5d91c06c]: Commencement: Sch. 2 para. 9 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-37e2fec7a9d41c994dba87062888958e]: Commencement: Sch. 2 para. 10 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-37e2fec7a9d41c994dba87062888958e]: Commencement: Sch. 2 para. 10 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-74908616619940f9a0c3bae9cc8884d9]: Commencement: Sch. 2 para. 11 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
+[^c-74908616619940f9a0c3bae9cc8884d9]: Commencement: Sch. 2 para. 11 in force at 19.6.2021, see [reg. 1](https://www.legislation.gov.uk/uksi/2021/730/regulation/1)
 
-[^key-70b405888867fd7db8f532fa61a8680b]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2021/730/schedule/2/paragraph/12) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [7](https://www.legislation.gov.uk/uksi/2022/1400/regulation/7) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]
+[^c-70b405888867fd7db8f532fa61a8680b]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2021/730/schedule/2/paragraph/12) inserted (23.12.2022) by [The Conformity Assessment (Mutual Recognition Agreements) (Amendment) Regulations 2022 (S.I. 2022/1400)](https://www.legislation.gov.uk/uksi/2022/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2022/1400/regulation/1), [7](https://www.legislation.gov.uk/uksi/2022/1400/regulation/7) \[Note: This affecting S.I. is published in substitution of [S.I. 2022/1346](https://www.legislation.gov.uk/uksi/2022/1346) which was made before being approved by the House of Lords.\]

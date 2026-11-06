@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Introductory[^key-bef88f2fb4cd76b8184ebeff43a63411]
+## 124. Introductory[^c-bef88f2fb4cd76b8184ebeff43a63411]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bef88f2fb4cd76b8184ebeff43a63411]: Commencement: [Rule 124](https://www.legislation.gov.uk/uksi/2013/3208/rule/124) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-bef88f2fb4cd76b8184ebeff43a63411]: Commencement: [Rule 124](https://www.legislation.gov.uk/uksi/2013/3208/rule/124) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
 
 [^f00014]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).

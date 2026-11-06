@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Sale conditions[^key-f43ba8113523071ec9ceab1a59064be9]
+## 131. Sale conditions[^c-f43ba8113523071ec9ceab1a59064be9]
 
 *Extent: S*
 
@@ -67,4 +67,4 @@ the applicant may refer the matter to the Lands Tribunal.
 
 ## Annotations
 
-[^key-f43ba8113523071ec9ceab1a59064be9]: Commencement: S. 131 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-f43ba8113523071ec9ceab1a59064be9]: Commencement: S. 131 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Inspection of premises etc[^M_I_84749f78-0540-40aa-e940-90d9ef0f68ac][^key-134b77f6b63ace407e993578cb70bf20]
+## 96. Inspection of premises etc[^M_I_84749f78-0540-40aa-e940-90d9ef0f68ac][^c-134b77f6b63ace407e993578cb70bf20]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^M_I_84749f78-0540-40aa-e940-90d9ef0f68ac]: Commencement: S. 96 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-134b77f6b63ace407e993578cb70bf20]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2023/30/section/96) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-134b77f6b63ace407e993578cb70bf20]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2023/30/section/96) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

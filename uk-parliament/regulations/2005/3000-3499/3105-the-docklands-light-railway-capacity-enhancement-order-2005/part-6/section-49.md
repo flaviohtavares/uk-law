@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Disclosure of confidential information[^key-ce1c907ac59aef7c639a92bc21bacd73]
+## 49. Disclosure of confidential information[^c-ce1c907ac59aef7c639a92bc21bacd73]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-ce1c907ac59aef7c639a92bc21bacd73]: Commencement: Art. 49 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-ce1c907ac59aef7c639a92bc21bacd73]: Commencement: Art. 49 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

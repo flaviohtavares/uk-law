@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Form of applications for registration[^key-7fe8c2ede9f9349b60587b9aa6af6e2c]
+## 37. Form of applications for registration[^c-7fe8c2ede9f9349b60587b9aa6af6e2c]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fe8c2ede9f9349b60587b9aa6af6e2c]: Commencement: S. 37 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-7fe8c2ede9f9349b60587b9aa6af6e2c]: Commencement: S. 37 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

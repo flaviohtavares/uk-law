@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — COMMON SAFETY INDICATORS[^key-ab2a8e524e3528caa9838476c926b5a7]
+## SCHEDULE 3 — COMMON SAFETY INDICATORS[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,78 +24,78 @@ summary: ''
 
 Regulation 20(1)(c)
 
-[^key-ab2a8e524e3528caa9838476c926b5a7]
+[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part 1 — COMMON SAFETY INDICATORS[^key-ab2a8e524e3528caa9838476c926b5a7]
+### Part 1 — COMMON SAFETY INDICATORS[^c-ab2a8e524e3528caa9838476c926b5a7]
 
-#### 1. Interpretation[^key-ab2a8e524e3528caa9838476c926b5a7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Indicators relating to accidents[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 1. Interpretation[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Indicators relating to dangerous goods[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 2. Indicators relating to accidents[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Indicators relating to suicides[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 3. Indicators relating to dangerous goods[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Indicators relating to precursors of accidents[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 4. Indicators relating to suicides[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Indicators to calculate the economic impact of accidents[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 5. Indicators relating to precursors of accidents[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Indicators relating to technical safety of infrastructure and its implementation[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 6. Indicators to calculate the economic impact of accidents[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Indicators relating to management of safety[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 7. Indicators relating to technical safety of infrastructure and its implementation[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — COMMON DEFINITIONS AND METHODS TO CALCULATE THE ECONOMIC IMPACT OF ACCIDENTS[^key-ab2a8e524e3528caa9838476c926b5a7]
-
-#### 1. Indicators relating to accidents[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 8. Indicators relating to management of safety[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Indicators relating to dangerous goods[^key-ab2a8e524e3528caa9838476c926b5a7]
+### PART 2 — COMMON DEFINITIONS AND METHODS TO CALCULATE THE ECONOMIC IMPACT OF ACCIDENTS[^c-ab2a8e524e3528caa9838476c926b5a7]
+
+#### 1. Indicators relating to accidents[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Indicators relating to suicides[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 2. Indicators relating to dangerous goods[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Indicators relating to precursors of accidents[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 3. Indicators relating to suicides[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Common methodologies to calculate the economic impact of accidents[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 4. Indicators relating to precursors of accidents[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Indicators relating to technical safety of infrastructure and its implementation[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 5. Common methodologies to calculate the economic impact of accidents[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Indicators relating to the management of safety[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 6. Indicators relating to technical safety of infrastructure and its implementation[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Definitions of the scaling bases[^key-ab2a8e524e3528caa9838476c926b5a7]
+#### 7. Indicators relating to the management of safety[^c-ab2a8e524e3528caa9838476c926b5a7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 8. Definitions of the scaling bases[^c-ab2a8e524e3528caa9838476c926b5a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab2a8e524e3528caa9838476c926b5a7]: Textual amendment: Sch. 3 omitted (11.12.2015) by virtue of [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2015 (S.I. 2015/1917)](https://www.legislation.gov.uk/uksi/2015/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1917/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1917/regulation/2/4)
+[^c-ab2a8e524e3528caa9838476c926b5a7]: Textual amendment: Sch. 3 omitted (11.12.2015) by virtue of [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2015 (S.I. 2015/1917)](https://www.legislation.gov.uk/uksi/2015/1917), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1917/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/1917/regulation/2/4)

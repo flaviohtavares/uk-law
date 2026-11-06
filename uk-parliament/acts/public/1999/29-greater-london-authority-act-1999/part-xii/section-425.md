@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c12808871] Apart from this section, section 420 above and any power of a Minister of the Crown to make regulations or an order (which accordingly come into force on the day on which this Act is passed) the provisions of this Act shall come into force on such day as the Secretary of State may by order appoint; and different days may be appointed for different purposes.
 
-(3)[^key-cd90ffd799fd496f0e84e5c4c0db9634] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cd90ffd799fd496f0e84e5c4c0db9634] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any order under this section may make such transitional provision as appears to the Secretary of State to be necessary or expedient in connection with the provisions brought into force by the order.
 
@@ -63,4 +63,4 @@ as appear to the Secretary of State to be necessary or expedient for the purpose
 
     S. 425(2) power partly exercised (5.11.2001): 7.11.2001 appointed for specified provisions by [S.I. 2001/3603](https://www.legislation.gov.uk/uksi/2001/3603), [art. 2](https://www.legislation.gov.uk/uksi/2001/3603/article/2)
 
-[^key-cd90ffd799fd496f0e84e5c4c0db9634]: Textual amendment: S. 425(3) repealed (10.7.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 114(6)](https://www.legislation.gov.uk/ukpga/2003/20/section/114/6), [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8)
+[^c-cd90ffd799fd496f0e84e5c4c0db9634]: Textual amendment: S. 425(3) repealed (10.7.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 114(6)](https://www.legislation.gov.uk/ukpga/2003/20/section/114/6), [Sch. 8](https://www.legislation.gov.uk/ukpga/2003/20/schedule/8)

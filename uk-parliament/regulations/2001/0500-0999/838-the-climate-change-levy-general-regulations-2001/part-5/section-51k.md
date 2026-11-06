@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**51K.**[^key-803aa9fa3f649411679cf9cd7eb6114a] Supplies shall not be regarded as exempt CHP supplies for the purposes of paragraph 20A of the Act unless–
+**51K.**[^c-803aa9fa3f649411679cf9cd7eb6114a] Supplies shall not be regarded as exempt CHP supplies for the purposes of paragraph 20A of the Act unless–
 
 - (a) the supplier provides the recipient with a written notice for the duration of the CHP declaration contract, updated as necessary, setting out how to identify those supplies of electricity that–
   - (i) are or will be made under the CHP declaration contract, and
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)
+[^c-803aa9fa3f649411679cf9cd7eb6114a]: Textual amendment: Pt. 4A inserted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [19](https://www.legislation.gov.uk/uksi/2003/604/regulation/19)

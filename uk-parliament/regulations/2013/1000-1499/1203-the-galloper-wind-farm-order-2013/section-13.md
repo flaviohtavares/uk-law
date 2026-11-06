@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Street works[^key-04982a94c1a97ae09953caa978b08005]
+## 13. Street works[^c-04982a94c1a97ae09953caa978b08005]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04982a94c1a97ae09953caa978b08005]: Commencement: Art. 13 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)
+[^c-04982a94c1a97ae09953caa978b08005]: Commencement: Art. 13 in force at 15.6.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1203/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Possession of an unauthorised veterinary medicinal product[^key-4cd8c87653d43d4821d553596671dd76]
+## 26. Possession of an unauthorised veterinary medicinal product[^c-4cd8c87653d43d4821d553596671dd76]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cd8c87653d43d4821d553596671dd76]: Commencement: Reg. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-4cd8c87653d43d4821d553596671dd76]: Commencement: Reg. 26 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

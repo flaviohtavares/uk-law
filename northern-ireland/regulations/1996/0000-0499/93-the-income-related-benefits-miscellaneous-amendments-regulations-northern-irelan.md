@@ -38,7 +38,7 @@ Coming into operation in accordance with regulation 1
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1), 130(1), 131(1) and (6), 132(2), (3) and (4)(*a*) and (*b*) and 133(2)(*h*) and (*i*) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and section 5(1)(*b*) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland[^f00003] in so far as relates to regulations 3, 4, 5, 7(*b*), 8(1) and (2)(*b*), 9(1) and (2)(*b*), 10(2) and 11(2) of these Regulations and after agreement by the Social Security Advisory Committee that proposals to make these Regulations should not be referred to it[^f00004], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b82603c7c616100c978738ecb24d6bc5]
+## 1. Citation, commencement and interpretation[^c-b82603c7c616100c978738ecb24d6bc5]
 
 (1) These Regulations may be cited as the Income-Related Benefits (Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and this regulation shall come into operation on 1st April 1996.
 
@@ -62,7 +62,7 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (7) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Income support: Preserved rights[^key-3557b50ca69f6b00ed58b8288773ede2]
+## 2. Income support: Preserved rights[^c-3557b50ca69f6b00ed58b8288773ede2]
 
 In regulation 19 of the Income Support Regulations (applicable amounts for persons in residential care and nursing homes) after paragraph (1ZO)[^f00010] there shall be inserted—
 
@@ -76,7 +76,7 @@ In regulation 19 of the Income Support Regulations (applicable amounts for perso
 
 .
 
-## 3. Housing benefit: Severe disability premium[^key-e522b56d7a38a436416cfe092dd2a6b6]
+## 3. Housing benefit: Severe disability premium[^c-e522b56d7a38a436416cfe092dd2a6b6]
 
 (1) Schedule 2 to the Housing Benefit Regulations (applicable amounts) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -95,7 +95,7 @@ In regulation 19 of the Income Support Regulations (applicable amounts for perso
 
 .
 
-## 4. Housing benefit: Disregard of family credit and disability working allowance[^key-f1e1addc933373187702a2cfd20c7b41]
+## 4. Housing benefit: Disregard of family credit and disability working allowance[^c-f1e1addc933373187702a2cfd20c7b41]
 
 In Schedule 4 to the Housing Benefit Regulations (sums to be disregarded in the calculation of income other than earnings) for paragraphs 60 and 61[^f00013] there shall be substituted—
 
@@ -105,7 +105,7 @@ In Schedule 4 to the Housing Benefit Regulations (sums to be disregarded in the 
 
 .
 
-## 5. Housing benefit: Backdated claims[^key-4c6ebcdf39dcba225824867cb19eed1f]
+## 5. Housing benefit: Backdated claims[^c-4c6ebcdf39dcba225824867cb19eed1f]
 
 In regulation 72(14)[^f00018] of the Housing Benefit Regulations (time and manner in which claims are to be made) for the words from “any period before” to the end there shall be substituted—
 
@@ -118,7 +118,7 @@ In regulation 72(14)[^f00018] of the Housing Benefit Regulations (time and manne
 
 .
 
-## 6. Family credit: Normal weekly income of employed earners[^key-f0d2035f27a71764270a6075eec5f18b]
+## 6. Family credit: Normal weekly income of employed earners[^c-f0d2035f27a71764270a6075eec5f18b]
 
 In regulation 14(2) of the Family Credit Regulations (normal weekly earnings of employed earners) for sub-paragraph (*aa*)[^f00019] there shall be substituted—
 
@@ -128,7 +128,7 @@ In regulation 14(2) of the Family Credit Regulations (normal weekly earnings of 
 
 .
 
-## 7. Income-related benefits: Disregard of charitable or voluntary payments[^key-f193211aaebffd1879b1aadd7b740f4a]
+## 7. Income-related benefits: Disregard of charitable or voluntary payments[^c-f193211aaebffd1879b1aadd7b740f4a]
 
 In the following provisions (which provide for certain charitable or voluntary payments to be disregarded in the calculation of income other than earnings, the amount of such payments to be disregarded and special arrangements where the claimant has other income, apart from such payments, to be disregarded) for “£10” there shall be substituted “£20”—
 
@@ -137,7 +137,7 @@ In the following provisions (which provide for certain charitable or voluntary p
 - (c) regulation 41 of, and paragraphs 13(1)[^f00025] and 29[^f00026] of Schedule 2 to, the Family Credit Regulations;
 - (d) regulation 45 of, and paragraphs 12(1) and 29 of Schedule 3 to, the Disability Working Allowance Regulations.
 
-## 8. Income-related benefits: Treatment of student loans[^key-c6fac89dae57a401b714c9fb2da98c21]
+## 8. Income-related benefits: Treatment of student loans[^c-c6fac89dae57a401b714c9fb2da98c21]
 
 (1) In each of the provisions specified in paragraph (2) (which provide for student loans to be treated as income) for paragraph (3) there shall be substituted—
 
@@ -152,7 +152,7 @@ In the following provisions (which provide for certain charitable or voluntary p
 - (c) regulation 42A[^f00029] of the Family Credit Regulations;
 - (d) regulation 47 of the Disability Working Allowance Regulations.
 
-## 9. Income-related benefits: Disregard of contribution to a student grant[^key-6b449e9c259b55ef8658ddd0583901ad]
+## 9. Income-related benefits: Disregard of contribution to a student grant[^c-6b449e9c259b55ef8658ddd0583901ad]
 
 (1) In each of the provisions specified in paragraph (2) (disregard of contribution) for the words from “the income”, where they first appear, to the end there shall be substituted—
 
@@ -167,7 +167,7 @@ In the following provisions (which provide for certain charitable or voluntary p
 - (c) regulation 43 of the Family Credit Regulations;
 - (d) regulation 48 of the Disability Working Allowance Regulations.
 
-## 10. Income-related benefits: Disregard of payments to holders of the Victoria or George Cross[^key-32aa6f3a1a50908b47a73afd4527a71d]
+## 10. Income-related benefits: Disregard of payments to holders of the Victoria or George Cross[^c-32aa6f3a1a50908b47a73afd4527a71d]
 
 (1) In Schedule 10 to the Income Support Regulations (capital to be disregarded) after paragraph 43[^f00030] there shall be added the following paragraph—
 
@@ -187,7 +187,7 @@ In the following provisions (which provide for certain charitable or voluntary p
 
 .
 
-## 11. Income support and housing benefit: Capital limits for persons in residential and other types of accommodation[^key-fdbd908b169de1ea6706fe1f440d6c6d]
+## 11. Income support and housing benefit: Capital limits for persons in residential and other types of accommodation[^c-fdbd908b169de1ea6706fe1f440d6c6d]
 
 (1) In the Income Support Regulations—
 
@@ -314,7 +314,7 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00004]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-b82603c7c616100c978738ecb24d6bc5]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/1)
+[^c-b82603c7c616100c978738ecb24d6bc5]: Commencement: Reg. 1 in operation at 1.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1988 No. 431](https://www.legislation.gov.uk/nisr/1988/431), [S.R. 1990 Nos. 131](https://www.legislation.gov.uk/nisr/1990/131), [137](https://www.legislation.gov.uk/nisr/1990/137), [297](https://www.legislation.gov.uk/nisr/1990/297) and [305](https://www.legislation.gov.uk/nisr/1990/305), [S.R. 1993 Nos. 149](https://www.legislation.gov.uk/nisr/1993/149) and [373](https://www.legislation.gov.uk/nisr/1993/373) and [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327)
 
@@ -326,17 +326,17 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-3557b50ca69f6b00ed58b8288773ede2]: Commencement: Reg. 2 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
+[^c-3557b50ca69f6b00ed58b8288773ede2]: Commencement: Reg. 2 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
 
 [^f00010]: Footnote: Paragraph (1ZO) was inserted by [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327)
 
 [^f00011]: Footnote: Paragraphs (1ZB) and (1ZC) were inserted by [S.R. 1993 No. 149](https://www.legislation.gov.uk/nisr/1993/149)
 
-[^key-e522b56d7a38a436416cfe092dd2a6b6]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/4)
+[^c-e522b56d7a38a436416cfe092dd2a6b6]: Commencement: Reg. 3 in operation at 1.4.1996, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/4)
 
 [^f00012]: Footnote: Relevant amending rule is [S.R. 1995 No. 84](https://www.legislation.gov.uk/nisr/1995/84)
 
-[^key-f1e1addc933373187702a2cfd20c7b41]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/4)
+[^c-f1e1addc933373187702a2cfd20c7b41]: Commencement: Reg. 4 in operation at 1.4.1996, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/4)
 
 [^f00013]: Footnote: Paragraphs 60 and 61 were added by regulation 2 of [S.R. 1995 No. 223](https://www.legislation.gov.uk/nisr/1995/223)
 
@@ -348,15 +348,15 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00017]: Footnote: Paragraph 1A was inserted by regulation 3(4) of [S.R. 1995 No. 223](https://www.legislation.gov.uk/nisr/1995/223)
 
-[^key-4c6ebcdf39dcba225824867cb19eed1f]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/4)
+[^c-4c6ebcdf39dcba225824867cb19eed1f]: Commencement: Reg. 5 in operation at 1.4.1996, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/1996/93/regulation/1/4)
 
 [^f00018]: Footnote: Relevant amending regulations are [S.R. 1988 No. 424](https://www.legislation.gov.uk/nisr/1988/424)
 
-[^key-f0d2035f27a71764270a6075eec5f18b]: Commencement: Reg. 6 in operation at 9.4.1996 with effect in accordance with reg. 1(5)(a)(b)
+[^c-f0d2035f27a71764270a6075eec5f18b]: Commencement: Reg. 6 in operation at 9.4.1996 with effect in accordance with reg. 1(5)(a)(b)
 
 [^f00019]: Footnote: Regulation 14 was substituted by regulation 4 of [S.R. 1992 No. 148](https://www.legislation.gov.uk/nisr/1992/148) and paragraph (2)(*aa*) was inserted by regulation 3(3)(*b*) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327)
 
-[^key-f193211aaebffd1879b1aadd7b740f4a]: Commencement: Reg. 7 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
+[^c-f193211aaebffd1879b1aadd7b740f4a]: Commencement: Reg. 7 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
 
 [^f00020]: Footnote: Paragraph 15(1) was substituted by regulation 4(22)(*b*)(i) of [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373)
 
@@ -372,7 +372,7 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00026]: Footnote: Paragraph 29 was amended by [S.R. 1990 Nos. 138](https://www.legislation.gov.uk/nisr/1990/138) and [387](https://www.legislation.gov.uk/nisr/1990/387)
 
-[^key-c6fac89dae57a401b714c9fb2da98c21]: Commencement: Reg. 8 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
+[^c-c6fac89dae57a401b714c9fb2da98c21]: Commencement: Reg. 8 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
 
 [^f00027]: Footnote: Regulation 66A was inserted by regulation 4(7) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
 
@@ -380,9 +380,9 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00029]: Footnote: Regulation 42A was inserted by regulation 2(5) of [S.R. 1990 No. 297](https://www.legislation.gov.uk/nisr/1990/297)
 
-[^key-6b449e9c259b55ef8658ddd0583901ad]: Commencement: Reg. 9 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
+[^c-6b449e9c259b55ef8658ddd0583901ad]: Commencement: Reg. 9 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
 
-[^key-32aa6f3a1a50908b47a73afd4527a71d]: Commencement: Reg. 10 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
+[^c-32aa6f3a1a50908b47a73afd4527a71d]: Commencement: Reg. 10 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
 
 [^f00030]: Footnote: Paragraph 43 was added by regulation 2(11)(*b*) of [S.R. 1994 No. 327](https://www.legislation.gov.uk/nisr/1994/327)
 
@@ -390,7 +390,7 @@ In so far as these Regulations are required, for the purposes of regulations 3, 
 
 [^f00032]: Footnote: Paragraph 46 was added by regulation 4(8) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
 
-[^key-fdbd908b169de1ea6706fe1f440d6c6d]: Commencement: Reg. 11 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
+[^c-fdbd908b169de1ea6706fe1f440d6c6d]: Commencement: Reg. 11 in operation at 8.4.1996 with effect in accordance with reg. 1(2)
 
 [^f00033]: Footnote: Relevant amending regulations are [S.R. 1990 No. 137](https://www.legislation.gov.uk/nisr/1990/137)
 

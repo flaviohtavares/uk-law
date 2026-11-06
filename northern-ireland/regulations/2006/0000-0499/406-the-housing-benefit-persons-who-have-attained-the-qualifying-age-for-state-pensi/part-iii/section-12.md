@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Rates[^key-13e2d4c24fda0b3611863d866cbc7259]
+## 12. Rates[^c-13e2d4c24fda0b3611863d866cbc7259]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13e2d4c24fda0b3611863d866cbc7259]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/406/regulation/12) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-13e2d4c24fda0b3611863d866cbc7259]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2006/406/regulation/12) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

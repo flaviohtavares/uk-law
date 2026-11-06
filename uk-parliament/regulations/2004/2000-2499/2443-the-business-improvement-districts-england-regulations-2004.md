@@ -42,7 +42,7 @@ Coming into force
 
 The First Secretary of State, in exercise of the powers conferred by section 150(1), (2) and (3) of the Local Government and Housing Act 1989[^f00001] and sections 47(4), 48(1) and (2), 49(2), 51(2) and (3), 52(2), 54(4) and (5), 55(1) and (2), 56(1) and 123(2) of the Local Government Act 2003[^f00002] and having consulted with such representatives of local government as appear to him to be appropriate, hereby makes the following Regulations, a draft of which has been laid before, and approved by a resolution of, each House of Parliament:
 
-## 1. Application, citation, commencement and interpretation[^key-7189f2cf3171201ba759b0999589494a]
+## 1. Application, citation, commencement and interpretation[^c-7189f2cf3171201ba759b0999589494a]
 
 (1) These Regulations, which apply in England only, may be cited as the Business Improvement Districts (England) Regulations 2004 and shall come into force on the day after the day on which they are made.
 
@@ -64,16 +64,16 @@ The First Secretary of State, in exercise of the powers conferred by section 150
 - “BID” means business improvement district;
 - “BID ballot” means a ballot under section 49(1) of the Act;
 - “BID body” means, where a local authority BID body is not responsible for implementing the BID arrangements, the body (whether corporate or not corporate) responsible for the implementation of the arrangements;
-- “BID proposer” means a person who draws up BID proposals other than a relevant billing authority;[^key-4639283ddcf839fef2cd54371938c4ae]
+- “BID proposer” means a person who draws up BID proposals other than a relevant billing authority;[^c-4639283ddcf839fef2cd54371938c4ae]
 - “commencement date” subject to regulation 9(12), means the day, pursuant to section 53 of the Act, the BID arrangements are to come into force;
 - “data form” means information which is in a form which is capable of being processed by means of equipment operating automatically in response to instructions given for that purpose;
 - “the day of the ballot” means the day determined by the ballot holder, in accordance with Schedule 2, as the day by which ballot papers must be returned to him;
 - “demand notice” means the notice required to be served under paragraph 2(1) of Schedule 4;
 - “electronic communication” means a communication transmitted (whether from one person to another, from one device to another or from a person to a device or vice versa)—
-  - (a) by means of an electronic communications service (within the meaning of the Communications Act 2003); or[^key-3c2ea7e974ee1b887a8a692cc16cfc95]
+  - (a) by means of an electronic communications service (within the meaning of the Communications Act 2003); or[^c-3c2ea7e974ee1b887a8a692cc16cfc95]
   - (b) by other means but while in electronic form;
 - “hereditament” means anything which is or is treated as being a hereditament by virtue of the provisions of or any provisions made under section 64 of the 1988 Act including any hereditament to which regulation 6 of the Non-Domestic Rating (Miscellaneous Provisions) Regulations 1989[^f00006] applies but otherwise excluding any hereditament to which regulations made under section 64(3)(b) of the 1988 Act apply;
-- “joint BID arrangements” has the meaning given in regulation 1A;[^key-c4dd3c0800d9d26b9203011d3f955a40]
+- “joint BID arrangements” has the meaning given in regulation 1A;[^c-c4dd3c0800d9d26b9203011d3f955a40]
 - “liability order” has the meaning given in regulation 10 of the 1989 Regulations;
 - “local authority BID body” means, where the relevant billing authority or a company under the control of the authority (within the meaning given in section 68 of the Local Government and Housing Act 1989[^f00007]) is responsible for implementing the BID arrangements, that person;
 - “person entitled to vote” has the meaning given in regulation 8;
@@ -85,13 +85,13 @@ The First Secretary of State, in exercise of the powers conferred by section 150
 - “veto notice” means a notice given by a billing authority pursuant to section 51(4) of the Act; and
 - “working day” means any day other than a Saturday, Sunday, Christmas Day, Good Friday or any day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00008].
 
-## 1A. Joint arrangements[^key-cf8396543f86469784652f183f279221]
+## 1A. Joint arrangements[^c-cf8396543f86469784652f183f279221]
 
 (1) Two or more billing authorities may make BID arrangements (“joint BID arrangements”) under Part 4 of the Act with respect to a BID comprising all or part of the area of each of the authorities.
 
 (2) In their application to joint BID arrangements, Part 4 of the Act and these Regulations have effect subject to the modifications in Schedule 5.
 
-## 2. Obtaining information from billing authority for the purpose of developing BID proposals[^key-5d32005c1f3f4f11b21bbf431aa3b5d5]
+## 2. Obtaining information from billing authority for the purpose of developing BID proposals[^c-5d32005c1f3f4f11b21bbf431aa3b5d5]
 
 (1) On receiving a request (made in accordance with paragraph (2)) from any person who is developing BID proposals, the relevant billing authority shall–
 
@@ -117,7 +117,7 @@ otherwise than for the purpose of developing the BID proposal described in the r
 
 (5) The relevant billing authority shall ensure the amount of a charge imposed under paragraph (4) is reasonable having regard to the costs incurred or likely to be incurred by the authority in dealing with requests and supplying information under this regulation.
 
-## 3. BID proposer[^key-ed4b9eb8da765aabc8b0a6d7c26d2b21]
+## 3. BID proposer[^c-ed4b9eb8da765aabc8b0a6d7c26d2b21]
 
 (1) The following persons may draw up BID proposals—
 
@@ -131,9 +131,9 @@ otherwise than for the purpose of developing the BID proposal described in the r
 
 (3) Paragraph (2) shall not apply where a BID proposer sends the notice required under regulation 4(2)(a)(ii) to the relevant billing authority before 1st April 2005.
 
-(4)[^key-ab31a0193850a44a87aed3a116500062] Where a relevant billing authority draws up BID proposals, it shall, at least 84 days before instructing the ballot holder to hold a BID ballot, notify the Secretary of State of its intention to do so.
+(4)[^c-ab31a0193850a44a87aed3a116500062] Where a relevant billing authority draws up BID proposals, it shall, at least 84 days before instructing the ballot holder to hold a BID ballot, notify the Secretary of State of its intention to do so.
 
-## 4. BID proposals, renewal proposals, alteration proposals and preliminary procedures[^key-9e348288cc3cfcab073c7b7b72cd18ed]
+## 4. BID proposals, renewal proposals, alteration proposals and preliminary procedures[^c-9e348288cc3cfcab073c7b7b72cd18ed]
 
 (1) BID proposals, renewal proposals or alteration proposals, as the case may be, shall include the matters mentioned in paragraphs 1, 2 and 3 of Schedule 1.
 
@@ -147,48 +147,48 @@ otherwise than for the purpose of developing the BID proposal described in the r
   - (ii) a notice in writing requesting the relevant billing authority to instruct the ballot holder to hold a BID ballot in relation to the BID proposals, an alteration ballot in relation to the alteration proposals or a renewal ballot in relation to the renewal proposals, as the case may be; and
 - (b) provide the relevant billing authority with such information as it shall reasonably require to satisfy itself that the BID proposer or, as the case may be, the BID body, has sufficient funds to meet the costs of the BID ballot, the renewal ballot, or the re-ballot in relation to the BID ballot, or the renewal ballot, as the case may be, should it be required to do so under regulation 10.
 
-(2A)[^key-e93c463df8a2ab531a7884f5e07527f9] Where a relevant billing authority draws up BID proposals, it shall prepare a document setting out the proposed business plan (including the estimated cashflow, an estimate of the predicted revenue to be generated and the predicted expenditure to be spent under the BID arrangements and the contingency margin included in the budget).
+(2A)[^c-e93c463df8a2ab531a7884f5e07527f9] Where a relevant billing authority draws up BID proposals, it shall prepare a document setting out the proposed business plan (including the estimated cashflow, an estimate of the predicted revenue to be generated and the predicted expenditure to be spent under the BID arrangements and the contingency margin included in the budget).
 
 (3) Where—
 
-- (a) a BID proposer or a relevant billing authority[^key-a340b6aa1ac9466827396f24823eca3a] decides to seek approval of BID proposals in a BID ballot;
+- (a) a BID proposer or a relevant billing authority[^c-a340b6aa1ac9466827396f24823eca3a] decides to seek approval of BID proposals in a BID ballot;
 - (b) a BID body or a local authority BID body, as the case may be, decides to seek approval of alteration proposals in an alteration ballot or renewal proposals in a renewal ballot,
 
 it shall send a copy of the BID proposals, alteration proposals, or renewal proposals, as the case may be, and the proposed business plan, to any person who is to be liable for the proposed BID levy who requests a copy.
 
 (4) Where the relevant billing authority is of the view that the BID proposals, renewal proposals or alteration proposals conflict with a policy formally adopted by and contained in a document published by the authority (whether or not the authority is under a statutory duty to prepare such document) the authority shall, as soon as reasonably practicable after receiving the proposals, notify the BID proposer or BID body, as the case may be, in writing explaining the nature of that conflict.
 
-## 5. Instructions to hold a BID ballot, renewal ballot, alteration ballot or re-ballot[^key-95809536c8a0334f162589bf49f34f5b]
+## 5. Instructions to hold a BID ballot, renewal ballot, alteration ballot or re-ballot[^c-95809536c8a0334f162589bf49f34f5b]
 
 (1) Where the relevant billing authority—
 
 - (a) subject to paragraph (2), receives a notice pursuant to regulation 4(2)(a)(ii);
-- (b) in the case where a local authority BID body is responsible for implementing the BID arrangements, decides to seek approval of alteration proposals or renewal proposals, as the case may be; [^key-1deca9322e294981a1bf1f83e9d6c804]...
-- (c) receives a notification from the Secretary of State under regulation 9(10) requiring it to arrange a re-ballot ; or[^key-03eb231b1fce4ecdd9196d0614f27cc9]
+- (b) in the case where a local authority BID body is responsible for implementing the BID arrangements, decides to seek approval of alteration proposals or renewal proposals, as the case may be; [^c-1deca9322e294981a1bf1f83e9d6c804]...
+- (c) receives a notification from the Secretary of State under regulation 9(10) requiring it to arrange a re-ballot ; or[^c-03eb231b1fce4ecdd9196d0614f27cc9]
 - (d) decides to seek approval of BID proposals which it has drawn up;
 
 it shall instruct the ballot holder to hold a BID ballot, a renewal ballot, an alteration ballot or re-ballot, as the case may be.
 
 (2) Where the relevant billing authority receives a notice pursuant to regulation 4(2)(a)(ii), it shall not be required to instruct the ballot holder under paragraph (1) until such time as the BID proposer or BID body, as the case may be, complies with the requirements of regulation 4(1) and (2).
 
-## 6. Ballot holder[^key-28e13df294212886f3954098e5019ad3]
+## 6. Ballot holder[^c-28e13df294212886f3954098e5019ad3]
 
-(1) Subject to paragraph (1A),[^key-c117740256de84df66d42a7c84789ddc] the person who holds a BID ballot, renewal ballot, alteration ballot or re-ballot (“the ballot holder”) shall be the person the relevant billing authority has appointed under section 35 of the Representation of the People Act 1983[^f00009] as the returning officer for elections to that authority.
+(1) Subject to paragraph (1A),[^c-c117740256de84df66d42a7c84789ddc] the person who holds a BID ballot, renewal ballot, alteration ballot or re-ballot (“the ballot holder”) shall be the person the relevant billing authority has appointed under section 35 of the Representation of the People Act 1983[^f00009] as the returning officer for elections to that authority.
 
-(1A)[^key-9c8a39b22667ce63ce11eaca1315ed1f] Where the relevant billing authority is the Common Council of the City of London—
+(1A)[^c-9c8a39b22667ce63ce11eaca1315ed1f] Where the relevant billing authority is the Common Council of the City of London—
 
 - (a) paragraph (1) shall not apply; and
 - (b) the ballot holder shall be the town clerk.
 
 (2) The ballot holder may by writing under his hand appoint one or more persons to discharge all or any of his functions under these Regulations.
 
-(3)[^key-9d1b3d83cbddd72081d6412bee79c8a8] In this regulation “town clerk” has the same meaning as in section 4(1) of the City of London (Various Powers) Act 1957.
+(3)[^c-9d1b3d83cbddd72081d6412bee79c8a8] In this regulation “town clerk” has the same meaning as in section 4(1) of the City of London (Various Powers) Act 1957.
 
-## 7. Arrangements for holding a ballot and conduct of a ballot[^key-91005229fe3289025847ba6478cc7050]
+## 7. Arrangements for holding a ballot and conduct of a ballot[^c-91005229fe3289025847ba6478cc7050]
 
 On receipt of an instruction under regulation 5, the ballot holder shall make arrangements for conducting a BID ballot, alteration ballot, renewal ballot or re-ballot, as the case may be, in accordance with Schedule 2.
 
-## 8. Persons entitled to vote[^key-f5adb2973d99052bc012376d20811ee1]
+## 8. Persons entitled to vote[^c-f5adb2973d99052bc012376d20811ee1]
 
 (1) Subject to paragraph (3), a person shall be entitled to vote in a BID ballot, an alteration ballot or a re-ballot in respect of a BID ballot or an alteration ballot if, on the date the ballot holder publishes the notice under paragraph 3(a) of Schedule 2, he falls within the class of non-domestic ratepayers to be liable for the BID levy described in the BID proposals or the alteration proposals, as the case may be.
 
@@ -196,7 +196,7 @@ On receipt of an instruction under regulation 5, the ballot holder shall make ar
 
 (3) Where, in respect of a hereditament, more than one person is or is to be liable for the BID levy as partners or trustees the person entitled to vote in respect of that hereditament shall be the partners or trustees jointly.
 
-## 9. Declaring a ballot void[^key-72562f9c1aed7b3a115793e4c6e8d4be]
+## 9. Declaring a ballot void[^c-72562f9c1aed7b3a115793e4c6e8d4be]
 
 (1) Subject to paragraph (3), the Secretary of State may declare void a BID ballot, renewal ballot, alteration ballot or re-ballot if it appears to him that a material irregularity has occurred.
 
@@ -235,7 +235,7 @@ On receipt of an instruction under regulation 5, the ballot holder shall make ar
 
 (13) The day determined under paragraph (12) shall be no later than a year after the date of the notice of the result is published pursuant to paragraph 17 of Schedule 2.
 
-## 10. Payment of costs of a ballot[^key-580edd5412f23105f6e1443b4df79ddd]
+## 10. Payment of costs of a ballot[^c-580edd5412f23105f6e1443b4df79ddd]
 
 (1) This paragraph applies where the number of persons voting in the ballot who have voted in favour is less than 20 per cent. of the number of persons entitled to vote in the ballot and—
 
@@ -246,7 +246,7 @@ On receipt of an instruction under regulation 5, the ballot holder shall make ar
 
 (3) The costs referred to in paragraph (2) include any expenses properly incurred by the ballot holder and charged to the relevant billing authority pursuant to regulation 20.
 
-## 11. Obtaining information from billing authority for the purpose of canvassing[^key-d7070553ab8c80619835ccbefc506271]
+## 11. Obtaining information from billing authority for the purpose of canvassing[^c-d7070553ab8c80619835ccbefc506271]
 
 (1) As soon as practicable after instructing the ballot holder to hold a ballot (under regulation 5(1)), the relevant billing authority shall–
 
@@ -279,7 +279,7 @@ otherwise than for the purpose of canvassing persons entitled to vote in the BID
 
 (6) The relevant billing authority shall ensure the amount of a charge imposed under paragraph (5) is reasonable having regard to the costs incurred or likely to be incurred by the authority in dealing with requests and supplying information under this regulation.
 
-## 12. Veto of BID proposals[^key-3dd14cdda4ed73417e7bb98b8e858ae1]
+## 12. Veto of BID proposals[^c-3dd14cdda4ed73417e7bb98b8e858ae1]
 
 (1) For the purposes of section 51(2) of the Act, the prescribed circumstances are that the relevant billing authority is of the opinion the BID arrangements are likely—
 
@@ -298,7 +298,7 @@ otherwise than for the purpose of canvassing persons entitled to vote in the BID
 - (d) the extent to which the BID proposer discussed the BID proposals with the authority before submitting the BID proposals to the authority under regulation 4; and
 - (e) the cost incurred by any person up to the end of the period prescribed in paragraph (2) in developing the BID proposals and canvassing in relation to the BID proposals.
 
-## 13. Appeal against veto[^key-bff9031fb2ddb05fa80b399024af1a91]
+## 13. Appeal against veto[^c-bff9031fb2ddb05fa80b399024af1a91]
 
 (1) A person (“the appellant”) who wishes to appeal against a veto under section 52(1) of the Act shall serve on the Secretary of State, within 28 days of the veto notice being given by the relevant billing authority under section 51(4) of the Act, a notice in writing (“the appeal notice”) accompanied by a statement of the reasons for which the appeal is made.
 
@@ -328,7 +328,7 @@ otherwise than for the purpose of canvassing persons entitled to vote in the BID
 
 (9) As soon as reasonably practicable after a decision has been made, the Secretary of State shall send notice of his decision in writing to the appellant and the relevant billing authority.
 
-## 14. BID Revenue Account[^key-5271dd1d96bf38e9c6a1e44b83ead612]
+## 14. BID Revenue Account[^c-5271dd1d96bf38e9c6a1e44b83ead612]
 
 (1) Schedule 3 shall have effect with respect to the keeping of the BID Revenue Account, as follows —
 
@@ -347,11 +347,11 @@ otherwise than for the purpose of canvassing persons entitled to vote in the BID
 
 (5) Where paragraph (3) does not apply, the relevant billing authority shall carry the credit balance in the BID Revenue account to the credit of its general fund.
 
-## 15. Administration of the BID levy etc[^key-4e6897925bbaf98236991e6d7ca6c6c0]
+## 15. Administration of the BID levy etc[^c-4e6897925bbaf98236991e6d7ca6c6c0]
 
 The relevant billing authority shall, by the commencement date, provide for the imposition, administration, collection, recovery and application of the BID levy and Schedule 4 shall have effect with respect to those matters.
 
-## 16. Alteration of BID arrangements without an alteration ballot[^key-ffa9d63d9702cdf9a3020decc6e5a8c7]
+## 16. Alteration of BID arrangements without an alteration ballot[^c-ffa9d63d9702cdf9a3020decc6e5a8c7]
 
 (1) Subject to paragraphs (2) to (4), BID arrangements may be altered without an alteration ballot where the arrangements include a provision to that effect.
 
@@ -374,7 +374,7 @@ The relevant billing authority shall, by the commencement date, provide for the 
 - (a) the billing authority shall ensure the BID arrangements (as altered) are made by the time those BID arrangements (as altered) are to come into force and shall send a notice in writing explaining the reason for and the effect of the alteration to each person liable for the BID levy; and
 - (b) sections 44 to 47 of the Act, regulations 14 to 18 and Schedules 3 and 4 shall have effect from the date the BID arrangements (as altered) come into force as if a reference in each of those provisions to “BID arrangements” were a reference to the BID arrangements (as altered).
 
-## 17. Alterations of the BID arrangements following a ballot[^key-aa5d814f2246196d1f0beb5a83fba429]
+## 17. Alterations of the BID arrangements following a ballot[^c-aa5d814f2246196d1f0beb5a83fba429]
 
 (1) Where there is a proposal to alter—
 
@@ -396,7 +396,7 @@ The relevant billing authority shall, by the commencement date, provide for the 
 - (a) the billing authority shall ensure the BID arrangements (as altered) are made by the time those BID arrangements (as altered) are to come into force; and
 - (b) sections 44 to 47 of the Act, regulations 14 to 18 and Schedules 3 and 4 shall have effect from the date the BID arrangements (as altered) come into force as if a reference in each of those provisions to “BID arrangements” were a reference to the BID arrangements (as altered).
 
-## 18. Termination of BID arrangements[^key-1e546ac34d0ac730147d459743804222]
+## 18. Termination of BID arrangements[^c-1e546ac34d0ac730147d459743804222]
 
 (1) The relevant billing authority may terminate BID arrangements where—
 
@@ -423,15 +423,15 @@ The relevant billing authority shall, by the commencement date, provide for the 
 
 (6) Where BID arrangements are terminated under this regulation the relevant billing authority shall, as soon as is reasonably practicable, give notice of the termination in writing to each person liable for the BID levy and the notice shall include an explanation of whether a repayment under regulation 14(4) is to be made.
 
-## 19. Information[^key-41ba8c769ecf8715abdde23baa23369f]
+## 19. Information[^c-41ba8c769ecf8715abdde23baa23369f]
 
 The relevant billing authority shall supply to the ballot holder any information he requires for the purposes of carrying out his functions under these Regulations.
 
-## 20. Expenses of the ballot holder[^key-69838e851d6179a46de2f342e00e7ceb]
+## 20. Expenses of the ballot holder[^c-69838e851d6179a46de2f342e00e7ceb]
 
 All expenditure properly incurred by the ballot holder in relation to the holding of a ballot under these Regulations shall be paid by the relevant billing authority.
 
-## 21. Electronic communication of requests, applications or notices[^key-5081688efb19b20195f5c8e364607230]
+## 21. Electronic communication of requests, applications or notices[^c-5081688efb19b20195f5c8e364607230]
 
 (1) Subject to paragraph (2), a requirement in these Regulations that any request, application or notice should be in writing is satisfied where (apart from the usual meaning of that expression) the text of it—
 
@@ -455,7 +455,7 @@ Office of the Deputy Prime Minister
 
 Regulation 4
 
-**1.**[^key-d42e27de2de6e655f27bdb1afd2fe135] (1) Subject to sub-paragraphs (2) and (3), the matters which shall be included in BID proposals are—
+**1.**[^c-d42e27de2de6e655f27bdb1afd2fe135] (1) Subject to sub-paragraphs (2) and (3), the matters which shall be included in BID proposals are—
 
 - (a) a statement of the works or services to be provided, the name of who will provide them (the name of the BID body or local authority BID body) and the type of body the provider is (whether a local authority, a company under the control of the authority, a limited company or a partnership);
 - (b) a statement of the existing baseline services (if any) provided by the relevant billing authority or other public authority;
@@ -468,14 +468,14 @@ Regulation 4
 
 (2) In relation to sub-paragraph (1)(c), the geographical area in which BID arrangements are to have effect shall not include part only of a whole hereditament.
 
-(3) In relation to sub-paragraph (1)(h), the BID proposals[^key-1794461d08cbdf626e35d56175392c1d] shall specify how many days after the notice of the result is published pursuant to paragraph 17 of Schedule 2 [^key-bd99e0924556e8c298aedd83065d47a9]... the BID arrangements will commence and such commencement date shall be no later than a year after the date of that notice.
+(3) In relation to sub-paragraph (1)(h), the BID proposals[^c-1794461d08cbdf626e35d56175392c1d] shall specify how many days after the notice of the result is published pursuant to paragraph 17 of Schedule 2 [^c-bd99e0924556e8c298aedd83065d47a9]... the BID arrangements will commence and such commencement date shall be no later than a year after the date of that notice.
 
-**2.**[^key-5c378ac171dd234d8ed0bc6f9180a291] The matters which shall be included in renewal proposals are—
+**2.**[^c-5c378ac171dd234d8ed0bc6f9180a291] The matters which shall be included in renewal proposals are—
 
 - (a) a statement of the proposed period (not exceeding 5 years) of the renewed BID arrangements; and
 - (b) a summary of the BID arrangements (including the geographical area of the BID, the works or service provided, an explanation of who is liable for the BID levy, the level of the BID levy and how it is calculated).
 
-**3.**[^key-fdad9abcb04f1b14a5571a235c57b25a] (1) Subject to sub-paragraph (2), the matters which shall be included in alteration proposals are a description of how it is proposed the BID arrangements are to be altered in relation to each of the following—
+**3.**[^c-fdad9abcb04f1b14a5571a235c57b25a] (1) Subject to sub-paragraph (2), the matters which shall be included in alteration proposals are a description of how it is proposed the BID arrangements are to be altered in relation to each of the following—
 
 - (a) the works or services to be provided or the person to have responsibility for implementing the BID arrangements;
 - (b) a summary of the existing baseline services (if any) provided by the relevant billing authority;
@@ -497,7 +497,7 @@ Regulation 7
 
 #### Timetable
 
-**1.**[^key-66275bdd13a81f3c15027398d87433b3] The proceedings of the ballot shall be conducted in accordance with the following Table.
+**1.**[^c-66275bdd13a81f3c15027398d87433b3] The proceedings of the ballot shall be conducted in accordance with the following Table.
 
 Timetable
 
@@ -512,7 +512,7 @@ Timetable
 
 #### Day of the ballot
 
-**2.**[^key-ee1f452730afc80661356cc5e1692c25] (1) Subject to sub-paragraph (2), the ballot holder shall secure that the day of the ballot is—
+**2.**[^c-ee1f452730afc80661356cc5e1692c25] (1) Subject to sub-paragraph (2), the ballot holder shall secure that the day of the ballot is—
 
 - (a) a working day;
 - (b) at least 28 days after the date on which the ballot papers were sent to voters (or, where the ballot papers were sent on more than one date, the last such date); and
@@ -524,7 +524,7 @@ Timetable
 
 #### Ballots—preliminary procedures
 
-**3.**[^key-01ac3576ef78fdeb59b7dc433dbc0ac8] The ballot holder shall, at least 42 days before the day of the ballot—
+**3.**[^c-01ac3576ef78fdeb59b7dc433dbc0ac8] The ballot holder shall, at least 42 days before the day of the ballot—
 
 - (a) publish notice of the ballot stating—
   - (i) the day of the ballot; and
@@ -532,13 +532,13 @@ Timetable
 - (b) prepare a list of persons entitled to vote and proxies (if any);
 - (c) send to each person entitled to vote or, if applicable, his proxy a statement which–
   - (i) explains the arrangements for the ballot;
-  - (ii) explains that regulation 4(3) allows that person to request a copy of the BID proposals from the BID proposer or, where the relevant billing authority has drawn up the BID proposals, from that authority;[^key-5368577697e8e87e861a5057fb884748] and
-  - (iii) provides the name and address of the BID proposer or, where the relevant billing authority has drawn up the BID proposals, the name and address of that authority;[^key-ded6f2a4e1c941094331ef9536e6ae22] and
+  - (ii) explains that regulation 4(3) allows that person to request a copy of the BID proposals from the BID proposer or, where the relevant billing authority has drawn up the BID proposals, from that authority;[^c-5368577697e8e87e861a5057fb884748] and
+  - (iii) provides the name and address of the BID proposer or, where the relevant billing authority has drawn up the BID proposals, the name and address of that authority;[^c-ded6f2a4e1c941094331ef9536e6ae22] and
 - (d) send to the Secretary of State a copy of the notice referred to in sub-paragraph (a).
 
 #### Ballots - general
 
-**4.**[^key-69822b80ffff03b540020fcfaae64c17] (1) Each ballot shall be a postal ballot.
+**4.**[^c-69822b80ffff03b540020fcfaae64c17] (1) Each ballot shall be a postal ballot.
 
 (2) Each person entitled to vote in a BID ballot, renewal ballot, alteration ballot or re-ballot, as the case may be, shall have one vote in respect of each hereditament occupied or (if unoccupied) owned by him in the geographical area of the BID.
 
@@ -546,7 +546,7 @@ Timetable
 
 #### Proxy voting
 
-**5.**[^key-1af41b27017cf774f3e9e8e7094fc5bc] (1) Subject to the provisions of this paragraph, any person is capable of being appointed proxy to vote for another in a ballot and may vote in pursuance of the appointment.
+**5.**[^c-1af41b27017cf774f3e9e8e7094fc5bc] (1) Subject to the provisions of this paragraph, any person is capable of being appointed proxy to vote for another in a ballot and may vote in pursuance of the appointment.
 
 (2) The person entitled to vote cannot have more than one person at a time appointed as proxy to vote for him in a ballot.
 
@@ -582,7 +582,7 @@ Timetable
 
 #### Requirement of secrecy
 
-**6.**[^key-fd5e3bd1921787ce2c6fa07fa071e440] (1) Every person attending the proceedings in connection with the issue or the receipt of ballot papers shall maintain and aid in maintaining the secrecy of the voting and shall not attempt to ascertain at the proceedings in connection with the receipt of the ballot papers the way in which any vote is given in any particular ballot paper or communicate any information with respect thereto obtained at those proceedings.
+**6.**[^c-fd5e3bd1921787ce2c6fa07fa071e440] (1) Every person attending the proceedings in connection with the issue or the receipt of ballot papers shall maintain and aid in maintaining the secrecy of the voting and shall not attempt to ascertain at the proceedings in connection with the receipt of the ballot papers the way in which any vote is given in any particular ballot paper or communicate any information with respect thereto obtained at those proceedings.
 
 (2) Every person attending at the counting of the votes shall maintain and aid in maintaining the secrecy of voting and shall not communicate any information obtained at the counting of the votes as to the way in which any vote is given on any particular ballot paper.
 
@@ -590,11 +590,11 @@ Timetable
 
 #### Notification of requirement of secrecy
 
-**7.**[^key-afcccc27b9a28c9ed38a2987340edfd8] The ballot holder shall make such arrangements as he thinks fit to ensure that every person attending at proceedings in connection with the issue or receipt of ballot papers or the counting of the votes has been given a copy in writing of the provisions of paragraph 6.
+**7.**[^c-afcccc27b9a28c9ed38a2987340edfd8] The ballot holder shall make such arrangements as he thinks fit to ensure that every person attending at proceedings in connection with the issue or receipt of ballot papers or the counting of the votes has been given a copy in writing of the provisions of paragraph 6.
 
 #### The ballot paper
 
-**8.**[^key-41c9b51f8f15d4c051b51c5d15fcb0b7] (1) Nothing is to be printed on the ballot paper except in accordance with this paragraph.
+**8.**[^c-41c9b51f8f15d4c051b51c5d15fcb0b7] (1) Nothing is to be printed on the ballot paper except in accordance with this paragraph.
 
 (2) Each ballot paper may have a number or barcode printed on the back..
 
@@ -616,11 +616,11 @@ Timetable
 
 #### Prohibition of disclosure of vote
 
-**9.**[^key-d8b0fae055debca1f3a1e2579154fbee] No person who has voted shall, in any legal proceeding to question the BID ballot, renewal ballot, alteration ballot or re-ballot, be required to state the way in which he voted.
+**9.**[^c-d8b0fae055debca1f3a1e2579154fbee] No person who has voted shall, in any legal proceeding to question the BID ballot, renewal ballot, alteration ballot or re-ballot, be required to state the way in which he voted.
 
 #### Procedure on issue of ballot paper
 
-**10.**[^key-2951c9863b4c043a62cf135911ff6975] (1) One ballot paper shall be issued in respect of each person entitled to vote in the BID ballot, renewal ballot, alteration ballot or re-ballot, as the case may be, in respect of each hereditament for which he is entitled to vote.
+**10.**[^c-2951c9863b4c043a62cf135911ff6975] (1) One ballot paper shall be issued in respect of each person entitled to vote in the BID ballot, renewal ballot, alteration ballot or re-ballot, as the case may be, in respect of each hereditament for which he is entitled to vote.
 
 (2) The address to which the ballot paper is to be sent is—
 
@@ -632,7 +632,7 @@ Timetable
 - (a) a statement prepared by the ballot holder providing an explanation of the BID arrangements and the arrangements for the ballot; and
 - (b) an envelope for the return of the ballot paper (referred to in this Schedule as the “return envelope”).
 
-(4)[^key-3f092944c5806a46ed122663e8ef5cf4] For the purpose of delivering the ballot papers the ballot holder may use a postal operator within the meaning of Part 3 of the Postal Services Act 2011.
+(4)[^c-3f092944c5806a46ed122663e8ef5cf4] For the purpose of delivering the ballot papers the ballot holder may use a postal operator within the meaning of Part 3 of the Postal Services Act 2011.
 
 (5) Postage shall be prepaid on envelopes in which the ballot paper is issued and return postage shall be prepaid on all return envelopes.
 
@@ -640,7 +640,7 @@ Timetable
 
 #### Spoilt ballot papers
 
-**11.**[^key-6a15193a8cb3d548e4009f19796b1c5e] (1) If a voter has inadvertently dealt with his ballot paper in such manner that it cannot be conveniently used as a ballot paper (referred to as “a spoilt ballot paper”) he may return (either by hand or by post) to the ballot holder the spoilt ballot paper.
+**11.**[^c-6a15193a8cb3d548e4009f19796b1c5e] (1) If a voter has inadvertently dealt with his ballot paper in such manner that it cannot be conveniently used as a ballot paper (referred to as “a spoilt ballot paper”) he may return (either by hand or by post) to the ballot holder the spoilt ballot paper.
 
 (2) On receipt of the spoilt ballot paper, the ballot holder shall issue another ballot paper, except where those documents are received later than 3 working days before the day of the ballot.
 
@@ -650,7 +650,7 @@ Timetable
 
 #### Lost ballot papers
 
-**12.**[^key-1278e6bf13de718b5f118c8785ce23b3] (1) Where a voter has not received his ballot paper by the fourth working day before the day of the ballot, he may apply (whether or not in person) to the ballot holder for a replacement ballot paper.
+**12.**[^c-1278e6bf13de718b5f118c8785ce23b3] (1) Where a voter has not received his ballot paper by the fourth working day before the day of the ballot, he may apply (whether or not in person) to the ballot holder for a replacement ballot paper.
 
 (2) Such an application shall include evidence of the voter’s identity.
 
@@ -665,7 +665,7 @@ he shall issue another ballot paper.
 
 #### Receipt of return ballot papers
 
-**13.**[^key-96cad54c0b517daf5586c149baa5fa27] (1) A postal ballot paper shall not be taken to be duly returned unless it is received by the ballot holder (either by hand or by post) or at any place for delivery specified in the notice of ballot as being a place of delivery before 5pm on the day of the ballot.
+**13.**[^c-96cad54c0b517daf5586c149baa5fa27] (1) A postal ballot paper shall not be taken to be duly returned unless it is received by the ballot holder (either by hand or by post) or at any place for delivery specified in the notice of ballot as being a place of delivery before 5pm on the day of the ballot.
 
 (2) On receipt of a returned ballot paper the ballot holder shall arrange for it to be kept in a secure receptacle until the votes are counted.
 
@@ -673,13 +673,13 @@ he shall issue another ballot paper.
 
 #### The count
 
-**14.**[^key-63e93841e5ca399f2334ea63ba4b8c02] (1) As soon as practicable after the day of the ballot, the ballot holder shall make arrangements for counting the votes cast on such of the ballot papers as have been duly returned (in accordance with paragraph 13(1)) and record the number counted.
+**14.**[^c-63e93841e5ca399f2334ea63ba4b8c02] (1) As soon as practicable after the day of the ballot, the ballot holder shall make arrangements for counting the votes cast on such of the ballot papers as have been duly returned (in accordance with paragraph 13(1)) and record the number counted.
 
 (2) No person other than the ballot holder and his clerks may be present at the counting of the votes, unless permitted by the ballot holder to attend.
 
 #### Rejected ballot papers
 
-**15.**[^key-3049555e6fc433a6b2dc8c845eb3f658] (1) Where a ballot paper is received which bears the same number or barcode as a ballot paper already received, both that ballot paper and the other ballot paper bearing the same number or barcode (as the case may be) shall be void and not counted.
+**15.**[^c-3049555e6fc433a6b2dc8c845eb3f658] (1) Where a ballot paper is received which bears the same number or barcode as a ballot paper already received, both that ballot paper and the other ballot paper bearing the same number or barcode (as the case may be) shall be void and not counted.
 
 (2) Any ballot paper which is unsigned, unmarked or void for uncertainty shall, subject to sub-paragraph (3), be void and not counted.
 
@@ -693,11 +693,11 @@ shall not for such reason be deemed to be void if the voting intention appears c
 
 #### Decisions on ballot papers
 
-**16.**[^key-07556aaa4588409fe083bdf0a34eccc9] The decision of the ballot holder on any question arising in respect of a ballot paper shall be final.
+**16.**[^c-07556aaa4588409fe083bdf0a34eccc9] The decision of the ballot holder on any question arising in respect of a ballot paper shall be final.
 
 #### Declaration of result
 
-**17.**[^key-7668b1984c1c55215cd5c70f9a1b9538] (1) The ballot holder shall certify—
+**17.**[^c-7668b1984c1c55215cd5c70f9a1b9538] (1) The ballot holder shall certify—
 
 - (a) the total number of votes cast in the ballot excluding any votes given on ballot papers rejected under paragraph 15;
 - (b) the aggregate rateable value of each hereditament in respect of which a person voted in the ballot;
@@ -711,7 +711,7 @@ shall not for such reason be deemed to be void if the voting intention appears c
 
 #### Validity
 
-**18.**[^key-20b1773a53829a2f9acf6dff8968ca43] (1) No BID ballot, renewal ballot, alteration ballot or re-ballot, as the case may be, shall be declared invalid by reason of any act or omission of the ballot holder or any other person in breach of the provisions of this Schedule, if it appears to a court considering the question that—
+**18.**[^c-20b1773a53829a2f9acf6dff8968ca43] (1) No BID ballot, renewal ballot, alteration ballot or re-ballot, as the case may be, shall be declared invalid by reason of any act or omission of the ballot holder or any other person in breach of the provisions of this Schedule, if it appears to a court considering the question that—
 
 - (a) the BID ballot, renewal ballot, alteration ballot or re-ballot, as the case may be, was so conducted as to be substantially in accordance with the provisions of this Schedule; and
 - (b) the act or omission did not affect its result.
@@ -720,36 +720,36 @@ shall not for such reason be deemed to be void if the voting intention appears c
 
 #### Retention of ballot papers
 
-**19.**[^key-1e50c9a3520951e4228b81d0dcbda961] The ballot holder shall retain the ballot papers for six months after the day of the ballot and then, unless otherwise directed by order of the High Court, shall cause them to be destroyed.
+**19.**[^c-1e50c9a3520951e4228b81d0dcbda961] The ballot holder shall retain the ballot papers for six months after the day of the ballot and then, unless otherwise directed by order of the High Court, shall cause them to be destroyed.
 
 ## SCHEDULE 3 — THE KEEPING OF THE BID REVENUE ACCOUNT
 
 Regulation 14
 
-### Part 1 — Credits to the Account[^key-5d4ee07161f5524d492d8a1dbf793868]
+### Part 1 — Credits to the Account[^c-5d4ee07161f5524d492d8a1dbf793868]
 
 **1.** For each year a billing authority which is required to keep a BID Revenue Account (“the account”) shall carry to the credit of the account amounts equal to the items listed in this Part of this Schedule.
 
 #### Item 1: BID revenues
 
-Sums receivable[^key-50032289f220dac0e43ca18c838ceef9] for the year under sections 43 and 45 of the Act.
+Sums receivable[^c-50032289f220dac0e43ca18c838ceef9] for the year under sections 43 and 45 of the Act.
 
 #### Item 2: Income from BID services and facilities
 
-Sums receivable[^key-b4bb79cd2e3060f590ed13ad3ecb4ac6] by the authority for the year in respect of services or facilities provided by it (excluding contributions made by it to the BID under section 43(2)(a) of the Act) under the BID arrangements.
+Sums receivable[^c-b4bb79cd2e3060f590ed13ad3ecb4ac6] by the authority for the year in respect of services or facilities provided by it (excluding contributions made by it to the BID under section 43(2)(a) of the Act) under the BID arrangements.
 
 #### Item 3: reduced provision for bad or doubtful debts
 
 The following, namely—
 
-- (a) any sums debited to the account for a previous year under sub-paragraph (a) of item 3[^key-2ffd29cce1e75790100bc6a56393305b] of Part 2 of this Schedule which have been recovered by the authority during the year; and
+- (a) any sums debited to the account for a previous year under sub-paragraph (a) of item 3[^c-2ffd29cce1e75790100bc6a56393305b] of Part 2 of this Schedule which have been recovered by the authority during the year; and
 - (b) any amount by which, in the opinion of the authority, any provision debited to the account for a previous year under sub-paragraph (b) of that item should be reduced.
 
 #### Item 4: credit balance from previous year
 
 Any credit balance shown in the account for the previous year.
 
-### Part 2 — Debits to the Account[^key-bf26f3b46da00fa0c62fa4e986a4656d]
+### Part 2 — Debits to the Account[^c-bf26f3b46da00fa0c62fa4e986a4656d]
 
 **2.** For each year a billing authority which is required to keep a BID Revenue Account (“the account”) shall carry to the debit of the account amounts equal to the items listed in this Part of this Schedule.
 
@@ -780,7 +780,7 @@ AND APPLICATION OF THE BID LEVY
 
 Regulation 15
 
-### 1. Interpretation[^key-2aae2bc5d1d476326f2c8c7f0c36e6f8]
+### 1. Interpretation[^c-2aae2bc5d1d476326f2c8c7f0c36e6f8]
 
 (1) In this Schedule “relevant period” in relation to a notice means the chargeable period to which the notice relates.
 
@@ -816,9 +816,9 @@ Regulation 15
 
 (9) A person who has entered into an agreement with the billing authority under sub-paragraph (5)(b)(i) may, by notice in writing to the billing authority, inform the authority that he no longer wishes to be a party to the agreement; and where such notice is given, the agreement shall be treated as revoked on the third business day after the date on which the notice is received by the billing authority.
 
-(10)[^key-e1302b765cc5b696c6d82d0910181abb] In this Schedule, “the Schedule 12 procedure” means the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods and selling them to recover a sum of money).
+(10)[^c-e1302b765cc5b696c6d82d0910181abb] In this Schedule, “the Schedule 12 procedure” means the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 (taking control of goods and selling them to recover a sum of money).
 
-### 2. The requirement for demand notices[^key-10c0e519fecfee901eb782cd12e8445e]
+### 2. The requirement for demand notices[^c-10c0e519fecfee901eb782cd12e8445e]
 
 (1) For each chargeable period a relevant billing authority shall, in accordance with paragraphs 4 to 6, serve a notice in writing on every person who is liable for the BID levy in relation to the BID arrangements for the period.
 
@@ -828,7 +828,7 @@ Regulation 15
 
 (4) If a single demand notice relates to the amount payable with respect to more than one hereditament the amounts due under it, and the times at which they fall due, shall be determined as if separate notices were issued in respect of each hereditament.
 
-### 3. Content of demand notices[^key-e8904bb5856949760287461c376c7e2e]
+### 3. Content of demand notices[^c-e8904bb5856949760287461c376c7e2e]
 
 (1) A demand notice shall contain the following matters—
 
@@ -843,7 +843,7 @@ Regulation 15
 - (c) a description of the matters on which it was spent; and
 - (d) a description of the matters on which it is intended to spend the revenue from the BID levy in the financial year.
 
-### 4. Invalid notices[^key-843391ff4f9250975868d895882fafe7]
+### 4. Invalid notices[^c-843391ff4f9250975868d895882fafe7]
 
 (1) Where—
 
@@ -855,7 +855,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 
 (2) Where a requirement to pay an amount under an invalid notice subsists by virtue of sub-paragraph (1), the billing authority shall as soon as practicable after the mistake is discovered issue to the person who is liable for the BID levy concerned a statement of the matters which were not contained in the notice and which should have been so contained.
 
-### 5. Service of demand notices[^key-c83e035f88b53e49e5fc34c27a581265]
+### 5. Service of demand notices[^c-c83e035f88b53e49e5fc34c27a581265]
 
 (1) Subject to sub-paragraph (2), a demand notice shall be served on or as soon as practicable after—
 
@@ -864,7 +864,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 
 (2) A demand notice may be served before the beginning of the relevant period on a person who, on the day it is issued, the relevant billing authority considers will fall within the description of person to be liable to the BID levy specified in the BID arrangements as regards the hereditament to which it relates; and if it is so served, references in this Schedule to a person who is liable for the BID levy shall, in relation to that notice and so far as the context permits, be construed as references to that person.
 
-### 6. Payments under demand notices[^key-b073c4178e16af4e011fa7be161da29d]
+### 6. Payments under demand notices[^c-b073c4178e16af4e011fa7be161da29d]
 
 (1) If a demand notice is issued before or during the relevant period and it appears to the relevant billing authority that the person falls within the description of person to be liable to the BID levy specified in the BID arrangements in respect of the day on which the notice is issued as regards the hereditament to which it relates, the notice shall require payment of an amount equal to the relevant billing authority’s estimate of the amount payable for the period.
 
@@ -878,7 +878,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 
 (6) If a demand notice is issued after the end of the relevant period, it shall require payment of the amount payable for the period.
 
-### 7. Payments under demand notices: further provision[^key-411d04d1a237d994e22d9a0665f9ceb7]
+### 7. Payments under demand notices: further provision[^c-411d04d1a237d994e22d9a0665f9ceb7]
 
 (1) Unless an agreement under sub-paragraph (3) in relation to the relevant period has been reached before the demand notice is issued, a notice to which paragraph 6(1) applies shall require the estimate of the amount payable on expiry of such period (being not less than 14 days) after the day of issue of the notice as is specified in it.
 
@@ -892,7 +892,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 
 (6) No payment in respect of the amount payable by a person who is liable for the BID levy in relation to a hereditament for any chargeable period need be made unless a notice served under this Schedule requires it.
 
-### 8. Demand notices: final adjustment[^key-b3a4fa0e6aca1d9e866836f54f1ecb87]
+### 8. Demand notices: final adjustment[^c-b3a4fa0e6aca1d9e866836f54f1ecb87]
 
 (1) This paragraph applies where—
 
@@ -909,9 +909,9 @@ the requirement to pay those amounts shall apply as if the notice were valid.
 - (a) shall be repaid if the person who is liable for the BID levy so requires; or
 - (b) in any other case shall (as the relevant billing authority determines) either be repaid or be credited against any subsequent liability of the person who is liable for the BID levy to pay anything to it by way of the BID levy or non-domestic rate.
 
-### 9. Enforcement[^key-7942a7012e414e9974bd4c8c08953b8e]
+### 9. Enforcement[^c-7942a7012e414e9974bd4c8c08953b8e]
 
-(1) Part 3 of and Schedule 4[^key-febf593f4771764307e94a284650e545] to the Non-Domestic Rating (Collection and Enforcement)(Local Lists) Regulations 1989[^f00012] shall apply to the enforcement of the BID levy with the following modifications—
+(1) Part 3 of and Schedule 4[^c-febf593f4771764307e94a284650e545] to the Non-Domestic Rating (Collection and Enforcement)(Local Lists) Regulations 1989[^f00012] shall apply to the enforcement of the BID levy with the following modifications—
 
 - (a) the reference in regulations 10 and 20 to a sum which has become payable to a billing authority under Part 2 of those regulations shall be read as including a reference to a sum which has become payable to a billing authority under this Schedule;
 - (b) regulation 11(3) shall not apply;
@@ -924,7 +924,7 @@ the requirement to pay those amounts shall apply as if the notice were valid.
   - (ii) the words “or the multiplier in substitution is set under paragraph 10 of Schedule 7 to the Act (as the case maybe)” were excluded; and
 - (h) regulation 23(4) shall be read as if for the word “paragraph (3)(a) in the case in question, or sets a multiplier in substitution so that paragraph 10(4) of Schedule 7 to the Act applies in the case in question” there were substituted a reference to paragraph 8(2) of this Schedule.
 
-### 10. Outstanding liabilities on death[^key-88a7d6a657aad3fa3d8cf757ada1e88a]
+### 10. Outstanding liabilities on death[^c-88a7d6a657aad3fa3d8cf757ada1e88a]
 
 (1) This paragraph applies where a person dies and at any time before his death he was (or is alleged to have been) subject to a BID levy.
 
@@ -942,7 +942,7 @@ his executor or administrator shall, subject to sub-paragraph (3) and to the ext
 (5) Costs are relevant costs for the purposes of sub-paragraphs (2) and (4) if—
 
 - (a) an order or warrant (as the case may be) was made by the court in respect of them under regulation 12(6)(b)or (7) or 16(4)(b) of the 1989 Regulations, or in proceedings under regulation 20 of the 1989 Regulations; or
-- (b) they are charges which may be recovered pursuant to the Taking Control of Goods (Fees) Regulations 2014[^key-d1c9874fed411407ee0cf54ffe793df3].
+- (b) they are charges which may be recovered pursuant to the Taking Control of Goods (Fees) Regulations 2014[^c-d1c9874fed411407ee0cf54ffe793df3].
 
 (6) A sum payable under sub-paragraph (2) shall be enforceable in the administration of the deceased’s estate as a debt of the deceased and accordingly—
 
@@ -953,7 +953,7 @@ his executor or administrator shall, subject to sub-paragraph (3) and to the ext
 
 (8) Insofar as is relevant to his liability under this paragraph in the administration of the deceased’s estate, the executor or administrator may institute, continue or withdraw proceedings.
 
-### 11. Application of BID administration provisions to the Crown[^key-e89c40a5c04c661d885f7641cab73e66]
+### 11. Application of BID administration provisions to the Crown[^c-e89c40a5c04c661d885f7641cab73e66]
 
 (1) No contravention by the Crown of any provision of this Schedule shall make the Crown criminally liable; but the High Court may, on the application of a billing authority, declare unlawful any act or omission of the Crown which constitutes such a contravention.
 
@@ -961,7 +961,7 @@ his executor or administrator shall, subject to sub-paragraph (3) and to the ext
 
 (3) No power of entry conferred by this Schedule shall be exercisable in relation to any hereditament occupied, or, if unoccupied, owned by Her Majesty in her private capacity, and this sub-paragraph shall be construed as if section 38(3) of the Crown Proceedings Act 1947[^f00013] were contained in this Schedule.
 
-### 12. Joint occupiers and owners: billing[^key-670009af6580f83a3b05bf3e9be49a7e]
+### 12. Joint occupiers and owners: billing[^c-670009af6580f83a3b05bf3e9be49a7e]
 
 (1) This paragraph applies in any case where (apart from this paragraph) there would at a particular time be more than one person who is liable for the BID levy for a hereditament, or of part of such a hereditament.
 
@@ -994,9 +994,9 @@ and where such a notice falls to be served on a partnership, a person having con
 
 (10) Paragraphs (2)(b) and (8) are without prejudice to any right or duty in law or equity of a person who is liable for the BID levy who has made a payment, or receives a repayment, in respect of a liability under paragraph (2)(b) to recover all or part of the payment from, or to account for all or part of the repayment to, the other persons who are liable for the BID levy or any beneficiaries interested in the hereditament.
 
-### 13. Joint owners and occupiers: enforcement[^key-2219d3e013504105af281287ff30731f]
+### 13. Joint owners and occupiers: enforcement[^c-2219d3e013504105af281287ff30731f]
 
-(1) Part 3 of and Schedules 3 and 4[^key-3b2095c19f236abc841a78a24ed08cf4] to the 1989 Regulations, shall have effect, with the following modifications, for the recovery of a sum for which persons are liable under section 46 of the Act as applied by paragraph 12.
+(1) Part 3 of and Schedules 3 and 4[^c-3b2095c19f236abc841a78a24ed08cf4] to the 1989 Regulations, shall have effect, with the following modifications, for the recovery of a sum for which persons are liable under section 46 of the Act as applied by paragraph 12.
 
 (2) A reminder notice shall be served in accordance with regulation 11(1) and (2) of the 1989 Regulations on every person against whom an application for a liability order is to be made.
 
@@ -1004,22 +1004,22 @@ and where such a notice falls to be served on a partnership, a person having con
 
 (4) A liability order may be applied for and made against one or more of the persons who are liable for the BID levy concerned in respect of an amount to which paragraph 12(2)(b) applies, whether they have been served with a notice in respect of the amount jointly or severally.
 
-(5) Where a liability order has been made against more than one person in respect of an amount, subject to sub-paragraph (9) the Schedule 12 procedure may be used[^key-e4c55a95eb8f32a04deb421642db90eb] against one or more of them.
+(5) Where a liability order has been made against more than one person in respect of an amount, subject to sub-paragraph (9) the Schedule 12 procedure may be used[^c-e4c55a95eb8f32a04deb421642db90eb] against one or more of them.
 
-(6) Where the Schedule 12 procedure has been used[^key-b85485c5545ff9c2b68830b3a3e59de1] against more than one person in respect of an amount, a warrant of commitment may be applied for at any time against one of them or different warrants may be applied for against more than one of them.
+(6) Where the Schedule 12 procedure has been used[^c-b85485c5545ff9c2b68830b3a3e59de1] against more than one person in respect of an amount, a warrant of commitment may be applied for at any time against one of them or different warrants may be applied for against more than one of them.
 
 (7) Where the Schedule 12 procedure has been used against one person only, a warrant of commitment may be applied for against that person.
 
-(8) Where a liability order has been made against more than one person in respect of an amount, and a warrant of commitment is issued against (or a term of imprisonment is fixed in the case of) one of them under regulation 16(3) of the 1989 Regulations, no steps, or no further steps, may be taken against any of them by way of the Schedule 12 procedure[^key-78e2d7b4f1a92dbc292a56a399e998a3], bankruptcy or winding up in relation to the amount mentioned in regulation 16(4) of the 1989 Regulations.
+(8) Where a liability order has been made against more than one person in respect of an amount, and a warrant of commitment is issued against (or a term of imprisonment is fixed in the case of) one of them under regulation 16(3) of the 1989 Regulations, no steps, or no further steps, may be taken against any of them by way of the Schedule 12 procedure[^c-78e2d7b4f1a92dbc292a56a399e998a3], bankruptcy or winding up in relation to the amount mentioned in regulation 16(4) of the 1989 Regulations.
 
 (9) Where a liability order has been made against more than one person in respect of an amount—
 
 - (a) steps by way of the Schedule 12 procedure, commitment, bankruptcy or winding up may not be taken against a person in respect of the amount while steps by way of another of those methods are being taken against him in respect of it; and
 - (b) subject to sub-paragraph (10), steps by way of the Schedule 12 procedure may not be taken against a person in respect of an amount whilst steps by way of the Schedule 12 procedure are being taken against one of the others in respect of it.
 
-(10) Where a liability order has been made against more than one person in respect of an amount and in using the Schedule 12 procedure[^key-64ff6f0dd34b587148bbc7b58b3c3110] against one of them goods jointly owned by him and another of them are found, paragraph (9)(b) does not preclude control being taken of[^key-e40805c11a487f0f5182e3a4453134df] those goods with respect to that amount; but in any subsequent proceedings under regulation 16 of the 1989 Regulations, charges arising under the Taking Control of Goods (Fees) Regulations 2014 from the use of the Schedule 12 procedure[^key-dce171976a63cc5683d3d123c62d33fd] shall be treated as charges relating to the person against whose goods the Schedule 12 procedure was intended to be used[^key-9c8b69db8aa5ae8852835c91503125bc] when the jointly owned goods were found, and not as charges relating to the other.
+(10) Where a liability order has been made against more than one person in respect of an amount and in using the Schedule 12 procedure[^c-64ff6f0dd34b587148bbc7b58b3c3110] against one of them goods jointly owned by him and another of them are found, paragraph (9)(b) does not preclude control being taken of[^c-e40805c11a487f0f5182e3a4453134df] those goods with respect to that amount; but in any subsequent proceedings under regulation 16 of the 1989 Regulations, charges arising under the Taking Control of Goods (Fees) Regulations 2014 from the use of the Schedule 12 procedure[^c-dce171976a63cc5683d3d123c62d33fd] shall be treated as charges relating to the person against whose goods the Schedule 12 procedure was intended to be used[^c-9c8b69db8aa5ae8852835c91503125bc] when the jointly owned goods were found, and not as charges relating to the other.
 
-(11)[^key-2f64e92a1bf9b7cbb4f2b4242869f336] Where—
+(11)[^c-2f64e92a1bf9b7cbb4f2b4242869f336] Where—
 
 - (a) a liability order has been made against more than one person in respect of an amount; and
 - (b) a charge has arisen against one of them for the enforcement stage within the meaning of regulation 5 of the Taking Control of Goods (Fees) Regulations 2014 in respect of that amount,
@@ -1036,7 +1036,7 @@ no further charge for the enforcement stage or compliance stage (within the mean
 
 (14) Sub-paragraph (12) is not to be construed as permitting a billing authority to apply under regulation 12(2) of the 1989 Regulations for a liability order against a person in respect of costs alone after an order has been made for those costs against another person.
 
-### 14. Enforcement in relation to partnerships[^key-c0b1ccc176010fc2e805069414ce9d68]
+### 14. Enforcement in relation to partnerships[^c-c0b1ccc176010fc2e805069414ce9d68]
 
 (1) Where persons are liable to pay an amount to which paragraph 12(2)(b) applies as partners in consequence of the service of a notice pursuant to paragraph 12(3)(b), a liability order in relation to it may be applied for and made against them in their firm name; and such an order shall be as effective as if orders were made against each partner concerned in respect of his liability for that amount.
 
@@ -1044,16 +1044,16 @@ no further charge for the enforcement stage or compliance stage (within the mean
 
 (3) Without prejudice to regulation 13(2) of the 1989 Regulations, a summons issued pursuant to an application for a liability order against partners in their firm name may be served by leaving it at, or by sending it by post to the partnership at, the principal office of the partnership.
 
-(4) Where a liability order has been made against partners in their firm name in respect of an amount, paragraph 13(9)(b) does not preclude control being taken of[^key-e74d355d221eb092a2812e83380ad7f9] partnership property with respect to that amount; and in any subsequent proceedings under regulation 16 of the 1989 Regulations, the partners shall be treated as jointly and severally liable for charges arising under the Taking Control of Goods (Fees) Regulations 2014 from the use of the Schedule 12 procedure[^key-e269aab68d61bc5b8c279d927d74fcda].
+(4) Where a liability order has been made against partners in their firm name in respect of an amount, paragraph 13(9)(b) does not preclude control being taken of[^c-e74d355d221eb092a2812e83380ad7f9] partnership property with respect to that amount; and in any subsequent proceedings under regulation 16 of the 1989 Regulations, the partners shall be treated as jointly and severally liable for charges arising under the Taking Control of Goods (Fees) Regulations 2014 from the use of the Schedule 12 procedure[^c-e269aab68d61bc5b8c279d927d74fcda].
 
-(5)[^key-cf9326f23f98048a8bf8cc1677a5fc33] Where a liability order is made against partners in their firm name, regulation 18(2) of the 1989 Regulations shall have effect as if the reference to a company included a reference to the partnership and the reference to section 221(5)(b) of the Insolvency Act 1986 were—
+(5)[^c-cf9326f23f98048a8bf8cc1677a5fc33] Where a liability order is made against partners in their firm name, regulation 18(2) of the 1989 Regulations shall have effect as if the reference to a company included a reference to the partnership and the reference to section 221(5)(b) of the Insolvency Act 1986 were—
 
 - (a) in a case where article 7 of the Insolvent Partnerships Order 1994 applies, a reference to section 221(7)(b) of that Act as modified by article 7(2) of and Part 1 of Schedule 3 to that Order; or
 - (b) in a case where article 8 of that Order applies, a reference to section 221(8)(a) of that Act as modified by article 8(2) of and Part 1 of Schedule 4 to that Order.
 
 (6) Where a liability order is made against partners in their firm name, paragraph 13(9)(a) does not preclude insolvency proceedings being brought against the partnership as well as against members of the partnership, and those proceedings being dealt with in accordance with the Insolvent Partnerships Order 1994.
 
-## SCHEDULE 5 — Modification of the Act and these Regulations in respect of joint BID arrangements[^key-0719553e5e958d18e35d88a5f6ee49cc]
+## SCHEDULE 5 — Modification of the Act and these Regulations in respect of joint BID arrangements[^c-0719553e5e958d18e35d88a5f6ee49cc]
 
 Regulation 1A
 
@@ -1168,7 +1168,7 @@ In regulation 5 (instructions to hold a ballot)—
 
 ### 8.
 
-In regulation 6(1) and 6(1A)[^key-eb36c7cbc051d6fab12759a813309145] (ballot holder), for “the relevant billing authority” substitute “the lead authority”.
+In regulation 6(1) and 6(1A)[^c-eb36c7cbc051d6fab12759a813309145] (ballot holder), for “the relevant billing authority” substitute “the lead authority”.
 
 ### 9.
 
@@ -1413,212 +1413,212 @@ Regulation 21 provides for electronic communication of notices etc. This provisi
 
 [^f00002]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26). *See* section 59(1) for the definition of “prescribed”.
 
-[^key-7189f2cf3171201ba759b0999589494a]: Commencement: Reg. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-7189f2cf3171201ba759b0999589494a]: Commencement: Reg. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
 [^f00003]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
 [^f00004]: Footnote: [S.I. 1989/1058](https://www.legislation.gov.uk/uksi/1989/1058); amendments are made by [S.I. 1990/145](https://www.legislation.gov.uk/uksi/1990/145), [1991/141](https://www.legislation.gov.uk/uksi/1991/141), [1991/1127](https://www.legislation.gov.uk/uksi/1991/1127), [1992/474](https://www.legislation.gov.uk/uksi/1992/474), [1992/1512](https://www.legislation.gov.uk/uksi/1992/1512), [1993/774](https://www.legislation.gov.uk/uksi/1993/774), [1993/894](https://www.legislation.gov.uk/uksi/1993/894), [1993/1493](https://www.legislation.gov.uk/uksi/1993/1493), [1995/212](https://www.legislation.gov.uk/uksi/1995/212) and [1998/3089](https://www.legislation.gov.uk/uksi/1998/3089).
 
-[^key-4639283ddcf839fef2cd54371938c4ae]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/1)
+[^c-4639283ddcf839fef2cd54371938c4ae]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/1)
 
-[^key-3c2ea7e974ee1b887a8a692cc16cfc95]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1) substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2265/regulation/4)
+[^c-3c2ea7e974ee1b887a8a692cc16cfc95]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1) substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/2265/regulation/4)
 
 [^f00006]: Footnote: [S.I. 1989/1060](https://www.legislation.gov.uk/uksi/1989/1060); relevant amendments are made by [S.I. 1993/616](https://www.legislation.gov.uk/uksi/1993/616).
 
-[^key-c4dd3c0800d9d26b9203011d3f955a40]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/3/1)
+[^c-c4dd3c0800d9d26b9203011d3f955a40]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/3/1)
 
 [^f00007]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
 [^f00008]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-cf8396543f86469784652f183f279221]: Textual amendment: Reg. 1A inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/3/2)
+[^c-cf8396543f86469784652f183f279221]: Textual amendment: Reg. 1A inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/3/2)
 
-[^key-5d32005c1f3f4f11b21bbf431aa3b5d5]: Commencement: Reg. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-5d32005c1f3f4f11b21bbf431aa3b5d5]: Commencement: Reg. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-ed4b9eb8da765aabc8b0a6d7c26d2b21]: Commencement: Reg. 3 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-ed4b9eb8da765aabc8b0a6d7c26d2b21]: Commencement: Reg. 3 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-ab31a0193850a44a87aed3a116500062]: Textual amendment: Reg. 3(4) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/2)
+[^c-ab31a0193850a44a87aed3a116500062]: Textual amendment: Reg. 3(4) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/2)
 
-[^key-9e348288cc3cfcab073c7b7b72cd18ed]: Commencement: Reg. 4 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-9e348288cc3cfcab073c7b7b72cd18ed]: Commencement: Reg. 4 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-e93c463df8a2ab531a7884f5e07527f9]: Textual amendment: Reg. 4(2A) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/3/a)
+[^c-e93c463df8a2ab531a7884f5e07527f9]: Textual amendment: Reg. 4(2A) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/3/a)
 
-[^key-a340b6aa1ac9466827396f24823eca3a]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/4/3/a) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/3/b)
+[^c-a340b6aa1ac9466827396f24823eca3a]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/4/3/a) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/3/b)
 
-[^key-95809536c8a0334f162589bf49f34f5b]: Commencement: Reg. 5 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-95809536c8a0334f162589bf49f34f5b]: Commencement: Reg. 5 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-1deca9322e294981a1bf1f83e9d6c804]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/5/1/b) omitted (7.10.2013) by virtue of [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/4/a)
+[^c-1deca9322e294981a1bf1f83e9d6c804]: Textual amendment: Word in [reg. 5(1)(b)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/5/1/b) omitted (7.10.2013) by virtue of [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/4/a)
 
-[^key-03eb231b1fce4ecdd9196d0614f27cc9]: Textual amendment: Reg. 5(1)(d) and word inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/4/b)
+[^c-03eb231b1fce4ecdd9196d0614f27cc9]: Textual amendment: Reg. 5(1)(d) and word inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/4/b)
 
-[^key-28e13df294212886f3954098e5019ad3]: Commencement: Reg. 6 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-28e13df294212886f3954098e5019ad3]: Commencement: Reg. 6 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-c117740256de84df66d42a7c84789ddc]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/6/1) inserted (27.12.2014) by [The Business Improvement Districts (England) (Amendment) Regulations 2014 (S.I. 2014/3199)](https://www.legislation.gov.uk/uksi/2014/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/2/2/a)
+[^c-c117740256de84df66d42a7c84789ddc]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/6/1) inserted (27.12.2014) by [The Business Improvement Districts (England) (Amendment) Regulations 2014 (S.I. 2014/3199)](https://www.legislation.gov.uk/uksi/2014/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/2/2/a)
 
 [^f00009]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 
-[^key-9c8a39b22667ce63ce11eaca1315ed1f]: Textual amendment: Reg. 6(1A) inserted (27.12.2014) by [The Business Improvement Districts (England) (Amendment) Regulations 2014 (S.I. 2014/3199)](https://www.legislation.gov.uk/uksi/2014/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/2/2/b)
+[^c-9c8a39b22667ce63ce11eaca1315ed1f]: Textual amendment: Reg. 6(1A) inserted (27.12.2014) by [The Business Improvement Districts (England) (Amendment) Regulations 2014 (S.I. 2014/3199)](https://www.legislation.gov.uk/uksi/2014/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/2/2/b)
 
-[^key-9d1b3d83cbddd72081d6412bee79c8a8]: Textual amendment: Reg. 6(3) inserted (27.12.2014) by [The Business Improvement Districts (England) (Amendment) Regulations 2014 (S.I. 2014/3199)](https://www.legislation.gov.uk/uksi/2014/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/2/2/c)
+[^c-9d1b3d83cbddd72081d6412bee79c8a8]: Textual amendment: Reg. 6(3) inserted (27.12.2014) by [The Business Improvement Districts (England) (Amendment) Regulations 2014 (S.I. 2014/3199)](https://www.legislation.gov.uk/uksi/2014/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/2/2/c)
 
-[^key-91005229fe3289025847ba6478cc7050]: Commencement: Reg. 7 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-91005229fe3289025847ba6478cc7050]: Commencement: Reg. 7 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-f5adb2973d99052bc012376d20811ee1]: Commencement: Reg. 8 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-f5adb2973d99052bc012376d20811ee1]: Commencement: Reg. 8 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-72562f9c1aed7b3a115793e4c6e8d4be]: Commencement: Reg. 9 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-72562f9c1aed7b3a115793e4c6e8d4be]: Commencement: Reg. 9 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-580edd5412f23105f6e1443b4df79ddd]: Commencement: Reg. 10 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-580edd5412f23105f6e1443b4df79ddd]: Commencement: Reg. 10 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-d7070553ab8c80619835ccbefc506271]: Commencement: Reg. 11 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-d7070553ab8c80619835ccbefc506271]: Commencement: Reg. 11 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-3dd14cdda4ed73417e7bb98b8e858ae1]: Commencement: Reg. 12 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-3dd14cdda4ed73417e7bb98b8e858ae1]: Commencement: Reg. 12 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-bff9031fb2ddb05fa80b399024af1a91]: Commencement: Reg. 13 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-bff9031fb2ddb05fa80b399024af1a91]: Commencement: Reg. 13 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-5271dd1d96bf38e9c6a1e44b83ead612]: Commencement: Reg. 14 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-5271dd1d96bf38e9c6a1e44b83ead612]: Commencement: Reg. 14 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-4e6897925bbaf98236991e6d7ca6c6c0]: Commencement: Reg. 15 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-4e6897925bbaf98236991e6d7ca6c6c0]: Commencement: Reg. 15 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-ffa9d63d9702cdf9a3020decc6e5a8c7]: Commencement: Reg. 16 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-ffa9d63d9702cdf9a3020decc6e5a8c7]: Commencement: Reg. 16 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-aa5d814f2246196d1f0beb5a83fba429]: Commencement: Reg. 17 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-aa5d814f2246196d1f0beb5a83fba429]: Commencement: Reg. 17 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-1e546ac34d0ac730147d459743804222]: Commencement: Reg. 18 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-1e546ac34d0ac730147d459743804222]: Commencement: Reg. 18 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-41ba8c769ecf8715abdde23baa23369f]: Commencement: Reg. 19 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-41ba8c769ecf8715abdde23baa23369f]: Commencement: Reg. 19 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-69838e851d6179a46de2f342e00e7ceb]: Commencement: Reg. 20 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-69838e851d6179a46de2f342e00e7ceb]: Commencement: Reg. 20 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-5081688efb19b20195f5c8e364607230]: Commencement: Reg. 21 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-5081688efb19b20195f5c8e364607230]: Commencement: Reg. 21 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-d42e27de2de6e655f27bdb1afd2fe135]: Commencement: Sch. 1 para. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-d42e27de2de6e655f27bdb1afd2fe135]: Commencement: Sch. 1 para. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-1794461d08cbdf626e35d56175392c1d]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/1/paragraph/1/3) substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/5)
+[^c-1794461d08cbdf626e35d56175392c1d]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/1/paragraph/1/3) substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/5)
 
-[^key-bd99e0924556e8c298aedd83065d47a9]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/1/paragraph/1/3) omitted (7.10.2013) by virtue of [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/5)
+[^c-bd99e0924556e8c298aedd83065d47a9]: Textual amendment: Words in [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/1/paragraph/1/3) omitted (7.10.2013) by virtue of [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/5)
 
-[^key-5c378ac171dd234d8ed0bc6f9180a291]: Commencement: Sch. 1 para. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-5c378ac171dd234d8ed0bc6f9180a291]: Commencement: Sch. 1 para. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-fdad9abcb04f1b14a5571a235c57b25a]: Commencement: Sch. 1 para. 3 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-fdad9abcb04f1b14a5571a235c57b25a]: Commencement: Sch. 1 para. 3 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-66275bdd13a81f3c15027398d87433b3]: Commencement: Sch. 2 para. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-66275bdd13a81f3c15027398d87433b3]: Commencement: Sch. 2 para. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-ee1f452730afc80661356cc5e1692c25]: Commencement: Sch. 2 para. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-ee1f452730afc80661356cc5e1692c25]: Commencement: Sch. 2 para. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-01ac3576ef78fdeb59b7dc433dbc0ac8]: Commencement: Sch. 2 para. 3 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-01ac3576ef78fdeb59b7dc433dbc0ac8]: Commencement: Sch. 2 para. 3 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-5368577697e8e87e861a5057fb884748]: Textual amendment: Words in [Sch. 2 para. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/2/paragraph/3/c/ii) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/6)
+[^c-5368577697e8e87e861a5057fb884748]: Textual amendment: Words in [Sch. 2 para. 3(c)(ii)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/2/paragraph/3/c/ii) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/6)
 
-[^key-ded6f2a4e1c941094331ef9536e6ae22]: Textual amendment: Words in [Sch. 2 para. 3(c)(iii)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/2/paragraph/3/c/iii) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/7)
+[^c-ded6f2a4e1c941094331ef9536e6ae22]: Textual amendment: Words in [Sch. 2 para. 3(c)(iii)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/2/paragraph/3/c/iii) inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [5(7)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/5/7)
 
-[^key-69822b80ffff03b540020fcfaae64c17]: Commencement: Sch. 2 para. 4 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-69822b80ffff03b540020fcfaae64c17]: Commencement: Sch. 2 para. 4 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-1af41b27017cf774f3e9e8e7094fc5bc]: Commencement: Sch. 2 para. 5 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-1af41b27017cf774f3e9e8e7094fc5bc]: Commencement: Sch. 2 para. 5 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-fd5e3bd1921787ce2c6fa07fa071e440]: Commencement: Sch. 2 para. 6 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-fd5e3bd1921787ce2c6fa07fa071e440]: Commencement: Sch. 2 para. 6 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-afcccc27b9a28c9ed38a2987340edfd8]: Commencement: Sch. 2 para. 7 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-afcccc27b9a28c9ed38a2987340edfd8]: Commencement: Sch. 2 para. 7 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-41c9b51f8f15d4c051b51c5d15fcb0b7]: Commencement: Sch. 2 para. 8 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-41c9b51f8f15d4c051b51c5d15fcb0b7]: Commencement: Sch. 2 para. 8 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-d8b0fae055debca1f3a1e2579154fbee]: Commencement: Sch. 2 para. 9 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-d8b0fae055debca1f3a1e2579154fbee]: Commencement: Sch. 2 para. 9 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-2951c9863b4c043a62cf135911ff6975]: Commencement: Sch. 2 para. 10 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-2951c9863b4c043a62cf135911ff6975]: Commencement: Sch. 2 para. 10 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-3f092944c5806a46ed122663e8ef5cf4]: Textual amendment: [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/2/paragraph/10/4) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/63)
+[^c-3f092944c5806a46ed122663e8ef5cf4]: Textual amendment: [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/2/paragraph/10/4) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/63)
 
-[^key-6a15193a8cb3d548e4009f19796b1c5e]: Commencement: Sch. 2 para. 11 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-6a15193a8cb3d548e4009f19796b1c5e]: Commencement: Sch. 2 para. 11 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-1278e6bf13de718b5f118c8785ce23b3]: Commencement: Sch. 2 para. 12 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-1278e6bf13de718b5f118c8785ce23b3]: Commencement: Sch. 2 para. 12 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-96cad54c0b517daf5586c149baa5fa27]: Commencement: Sch. 2 para. 13 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-96cad54c0b517daf5586c149baa5fa27]: Commencement: Sch. 2 para. 13 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-63e93841e5ca399f2334ea63ba4b8c02]: Commencement: Sch. 2 para. 14 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-63e93841e5ca399f2334ea63ba4b8c02]: Commencement: Sch. 2 para. 14 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-3049555e6fc433a6b2dc8c845eb3f658]: Commencement: Sch. 2 para. 15 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-3049555e6fc433a6b2dc8c845eb3f658]: Commencement: Sch. 2 para. 15 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-07556aaa4588409fe083bdf0a34eccc9]: Commencement: Sch. 2 para. 16 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-07556aaa4588409fe083bdf0a34eccc9]: Commencement: Sch. 2 para. 16 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-7668b1984c1c55215cd5c70f9a1b9538]: Commencement: Sch. 2 para. 17 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-7668b1984c1c55215cd5c70f9a1b9538]: Commencement: Sch. 2 para. 17 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-20b1773a53829a2f9acf6dff8968ca43]: Commencement: Sch. 2 para. 18 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-20b1773a53829a2f9acf6dff8968ca43]: Commencement: Sch. 2 para. 18 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-1e50c9a3520951e4228b81d0dcbda961]: Commencement: Sch. 2 para. 19 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-1e50c9a3520951e4228b81d0dcbda961]: Commencement: Sch. 2 para. 19 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-5d4ee07161f5524d492d8a1dbf793868]: Commencement: Sch. 3 Pt. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-5d4ee07161f5524d492d8a1dbf793868]: Commencement: Sch. 3 Pt. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-50032289f220dac0e43ca18c838ceef9]: Textual amendment: Word in Sch. 3 para. 1 Item 1 substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/6/a)
+[^c-50032289f220dac0e43ca18c838ceef9]: Textual amendment: Word in Sch. 3 para. 1 Item 1 substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/6/a)
 
-[^key-b4bb79cd2e3060f590ed13ad3ecb4ac6]: Textual amendment: Word in Sch. 3 para. 1 Item 2 substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/6/b)
+[^c-b4bb79cd2e3060f590ed13ad3ecb4ac6]: Textual amendment: Word in Sch. 3 para. 1 Item 2 substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/6/b)
 
-[^key-2ffd29cce1e75790100bc6a56393305b]: Textual amendment: Word in Sch. 3 para. 1 Item 3 substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/6/c)
+[^c-2ffd29cce1e75790100bc6a56393305b]: Textual amendment: Word in Sch. 3 para. 1 Item 3 substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/6/c)
 
-[^key-bf26f3b46da00fa0c62fa4e986a4656d]: Commencement: Sch. 3 Pt. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-bf26f3b46da00fa0c62fa4e986a4656d]: Commencement: Sch. 3 Pt. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-2aae2bc5d1d476326f2c8c7f0c36e6f8]: Commencement: Sch. 4 para. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-2aae2bc5d1d476326f2c8c7f0c36e6f8]: Commencement: Sch. 4 para. 1 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
 [^f00011]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-e1302b765cc5b696c6d82d0910181abb]: Textual amendment: Sch. 4 para. 1(10) inserted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-e1302b765cc5b696c6d82d0910181abb]: Textual amendment: Sch. 4 para. 1(10) inserted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(a)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/a) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-10c0e519fecfee901eb782cd12e8445e]: Commencement: Sch. 4 para. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-10c0e519fecfee901eb782cd12e8445e]: Commencement: Sch. 4 para. 2 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-e8904bb5856949760287461c376c7e2e]: Commencement: Sch. 4 para. 3 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-e8904bb5856949760287461c376c7e2e]: Commencement: Sch. 4 para. 3 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-843391ff4f9250975868d895882fafe7]: Commencement: Sch. 4 para. 4 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-843391ff4f9250975868d895882fafe7]: Commencement: Sch. 4 para. 4 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-c83e035f88b53e49e5fc34c27a581265]: Commencement: Sch. 4 para. 5 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-c83e035f88b53e49e5fc34c27a581265]: Commencement: Sch. 4 para. 5 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-b073c4178e16af4e011fa7be161da29d]: Commencement: Sch. 4 para. 6 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-b073c4178e16af4e011fa7be161da29d]: Commencement: Sch. 4 para. 6 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-411d04d1a237d994e22d9a0665f9ceb7]: Commencement: Sch. 4 para. 7 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-411d04d1a237d994e22d9a0665f9ceb7]: Commencement: Sch. 4 para. 7 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-b3a4fa0e6aca1d9e866836f54f1ecb87]: Commencement: Sch. 4 para. 8 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-b3a4fa0e6aca1d9e866836f54f1ecb87]: Commencement: Sch. 4 para. 8 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-7942a7012e414e9974bd4c8c08953b8e]: Commencement: Sch. 4 para. 9 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-7942a7012e414e9974bd4c8c08953b8e]: Commencement: Sch. 4 para. 9 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-febf593f4771764307e94a284650e545]: Textual amendment: Words in [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/9/1) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/b) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-febf593f4771764307e94a284650e545]: Textual amendment: Words in [Sch. 4 para. 9(1)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/9/1) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(b)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/b) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
 [^f00012]: Footnote: [S.I. 1989/1058](https://www.legislation.gov.uk/uksi/1989/1058); amendments are made by [S.I. 1990/145](https://www.legislation.gov.uk/uksi/1990/145), [1991/141](https://www.legislation.gov.uk/uksi/1991/141), [1991/1127](https://www.legislation.gov.uk/uksi/1991/1127), [1992/474](https://www.legislation.gov.uk/uksi/1992/474), [1992/1512](https://www.legislation.gov.uk/uksi/1992/1512), [1993/774](https://www.legislation.gov.uk/uksi/1993/774), [1993/894](https://www.legislation.gov.uk/uksi/1993/894), [1993/1493](https://www.legislation.gov.uk/uksi/1993/1493), [1995/212](https://www.legislation.gov.uk/uksi/1995/212) and [1998/3089](https://www.legislation.gov.uk/uksi/1998/3089).
 
-[^key-88a7d6a657aad3fa3d8cf757ada1e88a]: Commencement: Sch. 4 para. 10 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-88a7d6a657aad3fa3d8cf757ada1e88a]: Commencement: Sch. 4 para. 10 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-d1c9874fed411407ee0cf54ffe793df3]: Textual amendment: Words in [Sch. 4 para. 10(5)(b)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/10/5/b) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/c) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-d1c9874fed411407ee0cf54ffe793df3]: Textual amendment: Words in [Sch. 4 para. 10(5)(b)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/10/5/b) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(c)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/c) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-e89c40a5c04c661d885f7641cab73e66]: Commencement: Sch. 4 para. 11 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-e89c40a5c04c661d885f7641cab73e66]: Commencement: Sch. 4 para. 11 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
 [^f00013]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
 
-[^key-670009af6580f83a3b05bf3e9be49a7e]: Commencement: Sch. 4 para. 12 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-670009af6580f83a3b05bf3e9be49a7e]: Commencement: Sch. 4 para. 12 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-2219d3e013504105af281287ff30731f]: Commencement: Sch. 4 para. 13 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-2219d3e013504105af281287ff30731f]: Commencement: Sch. 4 para. 13 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-3b2095c19f236abc841a78a24ed08cf4]: Textual amendment: Words in [Sch. 4 para. 13(1)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/1) substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/7/b)
+[^c-3b2095c19f236abc841a78a24ed08cf4]: Textual amendment: Words in [Sch. 4 para. 13(1)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/1) substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/7/b)
 
-[^key-e4c55a95eb8f32a04deb421642db90eb]: Textual amendment: Words in [Sch. 4 para. 13(5)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/5) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/i) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-e4c55a95eb8f32a04deb421642db90eb]: Textual amendment: Words in [Sch. 4 para. 13(5)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/5) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(i)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/i) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-b85485c5545ff9c2b68830b3a3e59de1]: Textual amendment: Words in [Sch. 4 para. 13(6)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/6)[(7)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/7) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/ii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-b85485c5545ff9c2b68830b3a3e59de1]: Textual amendment: Words in [Sch. 4 para. 13(6)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/6)[(7)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/7) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/ii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-78e2d7b4f1a92dbc292a56a399e998a3]: Textual amendment: Words in [Sch. 4 para. 13(8)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/8)[(9)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/9) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-78e2d7b4f1a92dbc292a56a399e998a3]: Textual amendment: Words in [Sch. 4 para. 13(8)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/8)[(9)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/9) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-64ff6f0dd34b587148bbc7b58b3c3110]: Textual amendment: Words in [Sch. 4 para. 13(10)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iv)(aa)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iv/aa) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-64ff6f0dd34b587148bbc7b58b3c3110]: Textual amendment: Words in [Sch. 4 para. 13(10)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iv)(aa)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iv/aa) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-e40805c11a487f0f5182e3a4453134df]: Textual amendment: Words in [Sch. 4 para. 13(10)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iv)(bb)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iv/bb) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-e40805c11a487f0f5182e3a4453134df]: Textual amendment: Words in [Sch. 4 para. 13(10)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iv)(bb)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iv/bb) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-dce171976a63cc5683d3d123c62d33fd]: Textual amendment: Words in [Sch. 4 para. 13(10)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iv)(cc)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iv/cc) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-dce171976a63cc5683d3d123c62d33fd]: Textual amendment: Words in [Sch. 4 para. 13(10)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iv)(cc)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iv/cc) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-9c8b69db8aa5ae8852835c91503125bc]: Textual amendment: Words in [Sch. 4 para. 13(10)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iv)(dd)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iv/dd) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-9c8b69db8aa5ae8852835c91503125bc]: Textual amendment: Words in [Sch. 4 para. 13(10)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/10) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(iv)(dd)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/iv/dd) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-2f64e92a1bf9b7cbb4f2b4242869f336]: Textual amendment: [Sch. 4 para. 13(11)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/11) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(v)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/v) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-2f64e92a1bf9b7cbb4f2b4242869f336]: Textual amendment: [Sch. 4 para. 13(11)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/13/11) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(d)(v)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/d/v) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-c0b1ccc176010fc2e805069414ce9d68]: Commencement: Sch. 4 para. 14 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
+[^c-c0b1ccc176010fc2e805069414ce9d68]: Commencement: Sch. 4 para. 14 in force at 17.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/2443/regulation/1/1)
 
-[^key-e74d355d221eb092a2812e83380ad7f9]: Textual amendment: Words in [Sch. 4 para. 14(4)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/14/4) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(e)(i)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/e/i) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-e74d355d221eb092a2812e83380ad7f9]: Textual amendment: Words in [Sch. 4 para. 14(4)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/14/4) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(e)(i)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/e/i) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-e269aab68d61bc5b8c279d927d74fcda]: Textual amendment: Words in [Sch. 4 para. 14(4)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/14/4) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/e/ii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
+[^c-e269aab68d61bc5b8c279d927d74fcda]: Textual amendment: Words in [Sch. 4 para. 14(4)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/14/4) substituted (6.4.2014) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential, Transitional and Saving Provision) Order 2014 (S.I. 2014/600)](https://www.legislation.gov.uk/uksi/2014/600), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/600/article/2/1), [Sch. para. 9(2)(e)(ii)](https://www.legislation.gov.uk/uksi/2014/600/schedule/paragraph/9/2/e/ii) (with [arts. 3](https://www.legislation.gov.uk/uksi/2014/600/article/3), [4](https://www.legislation.gov.uk/uksi/2014/600/article/4))
 
-[^key-cf9326f23f98048a8bf8cc1677a5fc33]: Textual amendment: [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/14/5) substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/7/c)
+[^c-cf9326f23f98048a8bf8cc1677a5fc33]: Textual amendment: [Sch. 4 para. 14(5)](https://www.legislation.gov.uk/uksi/2004/2443/schedule/4/paragraph/14/5) substituted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/7/c)
 
-[^key-0719553e5e958d18e35d88a5f6ee49cc]: Textual amendment: Sch. 5 inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/3/3)
+[^c-0719553e5e958d18e35d88a5f6ee49cc]: Textual amendment: Sch. 5 inserted (7.10.2013) by [The Business Improvement Districts (England) (Amendment) Regulations 2013 (S.I. 2013/2265)](https://www.legislation.gov.uk/uksi/2013/2265), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2265/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/2265/regulation/3/3)
 
-[^key-eb36c7cbc051d6fab12759a813309145]: Textual amendment: Words in [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2004/2443/schedule/5/paragraph/8) inserted (27.12.2014) by [The Business Improvement Districts (England) (Amendment) Regulations 2014 (S.I. 2014/3199)](https://www.legislation.gov.uk/uksi/2014/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/2/3)
+[^c-eb36c7cbc051d6fab12759a813309145]: Textual amendment: Words in [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2004/2443/schedule/5/paragraph/8) inserted (27.12.2014) by [The Business Improvement Districts (England) (Amendment) Regulations 2014 (S.I. 2014/3199)](https://www.legislation.gov.uk/uksi/2014/3199), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3199/regulation/2/3)

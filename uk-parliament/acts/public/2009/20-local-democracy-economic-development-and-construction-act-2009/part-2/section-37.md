@@ -22,7 +22,7 @@ summary: ''
 
 **Not yet in force.**
 
-(1)[^key-2fc30ff59047b67721ac936d3771a329] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-2fc30ff59047b67721ac936d3771a329] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where it comes to the attention of a local authority in Wales that—
 
@@ -36,4 +36,4 @@ the authority must notify the entity and the Auditor General for Wales according
 
 ## Annotations
 
-[^key-2fc30ff59047b67721ac936d3771a329]: Textual amendment: [S. 37(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/37/1) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 99](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/99); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-2fc30ff59047b67721ac936d3771a329]: Textual amendment: [S. 37(1)](https://www.legislation.gov.uk/ukpga/2009/20/section/37/1) omitted (1.4.2015) by virtue of [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 99](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/99); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

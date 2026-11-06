@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Supply of goods or digital content[^key-502de45420d8f76b11657e95924912cc][^key-e3159b6c9febb7a94efc6f8dd1a40c09]
+## 217. Supply of goods or digital content[^c-502de45420d8f76b11657e95924912cc][^c-e3159b6c9febb7a94efc6f8dd1a40c09]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ are to be read as including references to a person who conducts any antecedent n
 
 ## Annotations
 
-[^key-502de45420d8f76b11657e95924912cc]: Commencement: S. 217 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-502de45420d8f76b11657e95924912cc]: Commencement: S. 217 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-e3159b6c9febb7a94efc6f8dd1a40c09]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2024/13/section/217) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-e3159b6c9febb7a94efc6f8dd1a40c09]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2024/13/section/217) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

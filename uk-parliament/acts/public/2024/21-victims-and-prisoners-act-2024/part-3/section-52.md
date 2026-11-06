@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Reviews and appeals[^key-fea52a1090175fdc3983f97eb3f4014b]
+## 52. Reviews and appeals[^c-fea52a1090175fdc3983f97eb3f4014b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fea52a1090175fdc3983f97eb3f4014b]: Commencement: S. 52 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-fea52a1090175fdc3983f97eb3f4014b]: Commencement: S. 52 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)

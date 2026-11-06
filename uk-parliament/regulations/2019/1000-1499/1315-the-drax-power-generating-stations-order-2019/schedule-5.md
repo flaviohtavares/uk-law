@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED AT THE PUBLIC EXPENSE[^key-3cc4c9210c02b12115c7f7fd40d23c5a]
+### PART 1 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED AT THE PUBLIC EXPENSE[^c-3cc4c9210c02b12115c7f7fd40d23c5a]
 
 Table 4
 
@@ -31,7 +31,7 @@ Table 4
 | In the District of Selby | New Road | That part of the access in the area cross hatched in blue between the points marked AI and AJ on sheet 3 of the access and rights of way plans |
 | In the District of Selby | Rusholme Lane | That part of the access in the area cross hatched in blue between the points marked AW and AV on sheet 8 of the access and rights of way plans |
 
-### PART 2 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED BY THE STREET AUTHORITY[^key-507532e3d3c5570272f10c5696b70b30]
+### PART 2 — THOSE PARTS OF THE ACCESS TO BE MAINTAINED BY THE STREET AUTHORITY[^c-507532e3d3c5570272f10c5696b70b30]
 
 Table 5
 
@@ -40,7 +40,7 @@ Table 5
 | In the District of Selby | New Road | That part of the access in the area cross hatched in red between the points marked AI and AJ on sheet 3 of the access and rights of way plans |
 | In the District of Selby | Rusholme Lane | That part of the access in the area cross hatched in red between the points marked AW and AV on sheet 8 of the access and rights of way plans |
 
-### PART 3 — THOSE WORKS TO RESTORE THE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^key-cc6f6ef7c60774ce3c39cc89bb9547f4]
+### PART 3 — THOSE WORKS TO RESTORE THE TEMPORARY ACCESSES WHICH WILL BE MAINTAINED BY THE STREET AUTHORITY[^c-cc6f6ef7c60774ce3c39cc89bb9547f4]
 
 Table 6
 
@@ -65,8 +65,8 @@ Table 6
 
 ## Annotations
 
-[^key-3cc4c9210c02b12115c7f7fd40d23c5a]: Commencement: Sch. 5 Pt. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-3cc4c9210c02b12115c7f7fd40d23c5a]: Commencement: Sch. 5 Pt. 1 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-507532e3d3c5570272f10c5696b70b30]: Commencement: Sch. 5 Pt. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-507532e3d3c5570272f10c5696b70b30]: Commencement: Sch. 5 Pt. 2 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
 
-[^key-cc6f6ef7c60774ce3c39cc89bb9547f4]: Commencement: Sch. 5 Pt. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-cc6f6ef7c60774ce3c39cc89bb9547f4]: Commencement: Sch. 5 Pt. 3 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

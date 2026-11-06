@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-ea5608aae0416478be436b2bc92a9efc] In these Regulations, “**the List of Wastes**” means the list of wastes established by Commission Decision [2000/532/EC](https://www.legislation.gov.uk/eud/2000/532) replacing Decision [94/3/EC](https://www.legislation.gov.uk/eud/1994/3) establishing a list of wastes pursuant to Article 1(a) of Council Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442) on waste and Council Decision [94/904/EC](https://www.legislation.gov.uk/eud/1994/904) establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive [91/689/EEC](https://www.legislation.gov.uk/eud/1991/689) on hazardous waste, as amended from time to time.
+(1)[^c-ea5608aae0416478be436b2bc92a9efc] In these Regulations, “**the List of Wastes**” means the list of wastes established by Commission Decision [2000/532/EC](https://www.legislation.gov.uk/eud/2000/532) replacing Decision [94/3/EC](https://www.legislation.gov.uk/eud/1994/3) establishing a list of wastes pursuant to Article 1(a) of Council Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442) on waste and Council Decision [94/904/EC](https://www.legislation.gov.uk/eud/1994/904) establishing a list of hazardous waste pursuant to Article 1(4) of Council Directive [91/689/EEC](https://www.legislation.gov.uk/eud/1991/689) on hazardous waste, as amended from time to time.
 
 (2) A reference in these Regulations in relation to any waste to—
 
@@ -31,4 +31,4 @@ and cognate expressions shall be construed accordingly.
 
 ## Annotations
 
-[^key-ea5608aae0416478be436b2bc92a9efc]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/4/1) substituted (1.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1360)](https://www.legislation.gov.uk/uksi/2015/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/3/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1360/schedule/2))
+[^c-ea5608aae0416478be436b2bc92a9efc]: Textual amendment: [Reg. 4(1)](https://www.legislation.gov.uk/uksi/2005/894/regulation/4/1) substituted (1.7.2015) by [The Hazardous Waste (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/1360)](https://www.legislation.gov.uk/uksi/2015/1360), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2015/1360/regulation/3/4) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1360/schedule/2))

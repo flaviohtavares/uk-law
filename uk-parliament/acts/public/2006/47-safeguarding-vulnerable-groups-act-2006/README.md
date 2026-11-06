@@ -34,7 +34,7 @@ An Act to make provision in connection with the protection of children and vulne
 
 \[8th November 2006\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-7a7ec7b5203d9db3777ec4cbda0aa46f]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-7a7ec7b5203d9db3777ec4cbda0aa46f]
 
 ## Contents
 
@@ -146,7 +146,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 49 — Supervisory authorities: notification of barring &c. in respect of vulnerable adults](section-49.md)
 - [Section 50 — Provision of information to supervisory authorities](section-50.md)
 
-### Provision of information to the police etc.[^key-ef84f5bbbde53c45c667c60a0a1791a7][^key-f918d78273f8d00c0336626ea17c06cb]
+### Provision of information to the police etc.[^c-ef84f5bbbde53c45c667c60a0a1791a7][^c-f918d78273f8d00c0336626ea17c06cb]
 
 *Extent: E+W+N.I.*
 
@@ -199,8 +199,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-7a7ec7b5203d9db3777ec4cbda0aa46f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/47) modified by 1997 c. 50, s. 126(3) (as added) () (12.10.2009) by [The Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (S.I. 2007/1351)](https://www.legislation.gov.uk/nisi/2007/1351), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/1351/article/1/3), [Sch. 7 para. 3](https://www.legislation.gov.uk/nisi/2007/1351/schedule/7/paragraph/3) (with [arts. 2(4)](https://www.legislation.gov.uk/nisi/2007/1351/article/2/4), [53](https://www.legislation.gov.uk/nisi/2007/1351/article/53), [57(3)](https://www.legislation.gov.uk/nisi/2007/1351/article/57/3), [61(4)](https://www.legislation.gov.uk/nisi/2007/1351/article/61/4)); [S.R. 2009/304](https://www.legislation.gov.uk/nisr/2009/304), [art. 3(a)](https://www.legislation.gov.uk/nisr/2009/304/article/3/a)
+[^c-7a7ec7b5203d9db3777ec4cbda0aa46f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/47) modified by 1997 c. 50, s. 126(3) (as added) () (12.10.2009) by [The Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (S.I. 2007/1351)](https://www.legislation.gov.uk/nisi/2007/1351), [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/1351/article/1/3), [Sch. 7 para. 3](https://www.legislation.gov.uk/nisi/2007/1351/schedule/7/paragraph/3) (with [arts. 2(4)](https://www.legislation.gov.uk/nisi/2007/1351/article/2/4), [53](https://www.legislation.gov.uk/nisi/2007/1351/article/53), [57(3)](https://www.legislation.gov.uk/nisi/2007/1351/article/57/3), [61(4)](https://www.legislation.gov.uk/nisi/2007/1351/article/61/4)); [S.R. 2009/304](https://www.legislation.gov.uk/nisr/2009/304), [art. 3(a)](https://www.legislation.gov.uk/nisr/2009/304/article/3/a)
 
-[^key-ef84f5bbbde53c45c667c60a0a1791a7]: Textual amendment: S. 50A and cross-heading inserted (30.11.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 88](https://www.legislation.gov.uk/ukpga/2009/26/section/88), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3096/article/2/a)
+[^c-ef84f5bbbde53c45c667c60a0a1791a7]: Textual amendment: S. 50A and cross-heading inserted (30.11.2009) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 88](https://www.legislation.gov.uk/ukpga/2009/26/section/88), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3096/article/2/a)
 
-[^key-f918d78273f8d00c0336626ea17c06cb]: Textual amendment: Word in s. 50A cross-heading inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 65(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/65/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/ii)
+[^c-f918d78273f8d00c0336626ea17c06cb]: Textual amendment: Word in s. 50A cross-heading inserted (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 65(4)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/65/4) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(ii)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/ii)

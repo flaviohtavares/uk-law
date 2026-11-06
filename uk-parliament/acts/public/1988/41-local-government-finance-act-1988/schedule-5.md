@@ -47,8 +47,8 @@ Section 51.
 
 **3.** A building is an agricultural building if it is not a dwelling and—
 
-- (a)[^key-a5f9f8f598f6d22a7168c077f70072f2] it is occupied together with agricultural land and is used solely in connection with agricultural operations on that or other agricultural land, [^key-3fd94aabb3d77b510e6ba6b2001f2384]...
-- (b) it is or forms part of a market garden and is used solely in connection with agricultural operations at the market garden , or[^key-bdf94240f868f27d8dd6c9e05ccec1de]
+- (a)[^c-a5f9f8f598f6d22a7168c077f70072f2] it is occupied together with agricultural land and is used solely in connection with agricultural operations on that or other agricultural land, [^c-3fd94aabb3d77b510e6ba6b2001f2384]...
+- (b) it is or forms part of a market garden and is used solely in connection with agricultural operations at the market garden , or[^c-bdf94240f868f27d8dd6c9e05ccec1de]
 - (c) it is or forms part of a nursery ground and is used solely in connection with agricultural operations at the nursery ground.
 
 **4.** (1) A building is an agricultural building if it is used solely in connection with agricultural operations carried on on agricultural land and sub-paragraph (2) or (3) below applies.
@@ -92,7 +92,7 @@ Section 51.
 **7.** (1) A building is an agricultural building if it is not a dwelling and—
 
 - (a) it is used in connection with agricultural operations carried on on agricultural land, and
-- (b) it is occupied by a body corporate any of whose members are or are together with the body[^c13077451] the occupiers of the land, and[^key-09db8c97992a71864241b31096b72416]
+- (b) it is occupied by a body corporate any of whose members are or are together with the body[^c13077451] the occupiers of the land, and[^c-09db8c97992a71864241b31096b72416]
 - (c) the members who are occupiers of the land together have control of the body.
 
 (2) A building is also an agricultural building if it is not a dwelling and—
@@ -100,7 +100,7 @@ Section 51.
 - (a) it is used in connection with the operations carried on in a building which, or buildings each of which, is used for the keeping or breeding of livestock and is an agricultural building by virtue of paragraph 5 above, and
 - (b) sub-paragraph (3), (4) or (5) below applies as regards the building first mentioned in this sub-paragraph (the building in question).
 
-(3)[^key-d6cf9586b525698f986398fe2729a78e] This sub-paragraph applies if—
+(3)[^c-d6cf9586b525698f986398fe2729a78e] This sub-paragraph applies if—
 
 - (a) the building in question is occupied by a body corporate any of whose members are, or are together with the body, the occupiers of the building or buildings mentioned in sub-paragraph (2)(a) above, and
 - (b) the members who are occupiers of the land together have control of the body.
@@ -118,7 +118,7 @@ Section 51.
 
 (8) Sub-paragraph (4) or (5) above does not apply unless the number of occupiers of the building or buildings mentioned in sub-paragraph (2)(a) above is less than 25.
 
-(9)[^key-65b5f7f4126bdb331dbbd71f39ae0e6d] In this paragraph “**control**” shall be construed in accordance with sections 450 and 451 of the Corporation Tax Act 2010[^key-91749355c73655e9c0ece31fd627534b].
+(9)[^c-65b5f7f4126bdb331dbbd71f39ae0e6d] In this paragraph “**control**” shall be construed in accordance with sections 450 and 451 of the Corporation Tax Act 2010[^c-91749355c73655e9c0ece31fd627534b].
 
 **8.** (1) In paragraphs 1 and 3 to 7 above “**agricultural land**” shall be construed in accordance with paragraph 2 above.
 
@@ -190,7 +190,7 @@ Section 51.
 
 (3) “**Accessory**” means a manhole, ventilating shaft, pumping station, pump or other accessory.
 
-(4) The appropriate national authority[^key-7ac127a0a8bc17fe040672216b694c3e] may by order repeal sub-paragraphs (1) to (3) above.
+(4) The appropriate national authority[^c-7ac127a0a8bc17fe040672216b694c3e] may by order repeal sub-paragraphs (1) to (3) above.
 
 ### Property of drainage authorities
 
@@ -200,7 +200,7 @@ Section 51.
 - (b) a structure maintained by a drainage authority for the purpose of controlling or regulating the flow of water in, into or out of a watercourse which forms part of a main river or is maintained by the authority;
 - (c) an appliance so maintained for that purpose.
 
-(2) “[^c13077671]**Drainage authority**” means the Environment Agency, the Natural Resources Body for Wales or[^key-c97964e959f7adf90100bbca44233eb4] any internal drainage board and “**main river**” and “**watercourse**” have the same meanings, respectively, as they have in the Water Resources Act 1991 and the Land Drainage Act 1991.
+(2) “[^c13077671]**Drainage authority**” means the Environment Agency, the Natural Resources Body for Wales or[^c-c97964e959f7adf90100bbca44233eb4] any internal drainage board and “**main river**” and “**watercourse**” have the same meanings, respectively, as they have in the Water Resources Act 1991 and the Land Drainage Act 1991.
 
 (3)[^c13077681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -236,13 +236,13 @@ Section 51.
 - (c) the provision of facilities under section 15 of the [^c13077781]Disabled Persons (Employment) Act 1944;
 - (d) the provision of a workshop or of other facilities under section 3(1) of the [^c13077791]Disabled Persons (Employment) Act 1958.
 
-(1A)[^key-adfa1408a0ed2f02e7056bcb4ed1d731] For the purposes of this paragraph in its application to hereditaments in England, a person is disabled if he has a disability within the meaning given by section 6 of the Equality Act 2010.
+(1A)[^c-adfa1408a0ed2f02e7056bcb4ed1d731] For the purposes of this paragraph in its application to hereditaments in England, a person is disabled if he has a disability within the meaning given by section 6 of the Equality Act 2010.
 
-(2)[^key-ac55972222772c09606872d7b295b5a6] For the purposes of this paragraph in its application to hereditaments in Wales, a person is disabled if he is disabled within the meaning of section 3 of the Social Services and Well-being (Wales) Act 2014.
+(2)[^c-ac55972222772c09606872d7b295b5a6] For the purposes of this paragraph in its application to hereditaments in Wales, a person is disabled if he is disabled within the meaning of section 3 of the Social Services and Well-being (Wales) Act 2014.
 
-(3) “**Illness**” has the meaning given by section 275 of the National Health Service Act 2006[^key-ed7d1be903f64e2192c7b71b597f888c].
+(3) “**Illness**” has the meaning given by section 275 of the National Health Service Act 2006[^c-ed7d1be903f64e2192c7b71b597f888c].
 
-(4)[^key-e567862bf1bce2c7db5cf3d844207d3a] “Welfare services for disabled persons” means services or facilities (by whomsoever provided)—
+(4)[^c-e567862bf1bce2c7db5cf3d844207d3a] “Welfare services for disabled persons” means services or facilities (by whomsoever provided)—
 
 - (a) of a kind which a local authority in England had power to provide under section 29 of the National Assistance Act 1948 before it ceased to apply to local authorities in England;
 - (b) of a kind which a local authority in Wales has power to provide, or arrange to provide, to an adult in the exercise of its functions under sections 35 or 36 of the Social Services and Well-being (Wales) Act 2014.
@@ -302,9 +302,9 @@ Section 51.
 - “**headquarters**” means an international headquarters or defence organisation designated by an Order in Council under section 1 of the [^c13077881]International Headquarters and Defence Organisations Act 1964; and
 - “**visiting force**” means any such body, contingent or detachment of the forces of any country as is a visiting force for the purposes of any provision of the [^c13077891]Visiting Forces Act 1952.
 
-### Power to confer exemption : England[^key-88678444978ff2e8c31157187f55758e]
+### Power to confer exemption : England[^c-88678444978ff2e8c31157187f55758e]
 
-**20.** (1) The Secretary of State may in relation to England[^key-2b3b4ea608ec17da19d91a8d55a25416] make regulations providing that prescribed hereditaments or hereditaments falling within any prescribed description are exempt to such extent (whether as to the whole or some lesser extent) as may be prescribed.
+**20.** (1) The Secretary of State may in relation to England[^c-2b3b4ea608ec17da19d91a8d55a25416] make regulations providing that prescribed hereditaments or hereditaments falling within any prescribed description are exempt to such extent (whether as to the whole or some lesser extent) as may be prescribed.
 
 (2) But the power under sub-paragraph (1) above may not be exercised so as to confer exemption which in his opinion goes beyond such exemption or privilege (if any) as fulfils the first and second conditions.
 
@@ -317,7 +317,7 @@ Section 51.
 
 (5) Regulations under sub-paragraph (1) above in their application to a particular financial year (including regulations amending or revoking others) shall not be effective unless they come into force before 1 January in the preceding financial year.
 
-### Powers to confer, vary and withdraw exemption: Wales[^key-5cfb56137ca3eb870fa7e253f7c80209]
+### Powers to confer, vary and withdraw exemption: Wales[^c-5cfb56137ca3eb870fa7e253f7c80209]
 
 **20A.** (1) The Welsh Ministers may by regulations, for the purpose in sub-paragraph (2)—
 
@@ -344,21 +344,21 @@ Section 51.
 
 [^c13077441]: Marginal citation: [1922 c. 51](https://www.legislation.gov.uk/ukpga/1922/51).
 
-[^key-a5f9f8f598f6d22a7168c077f70072f2]: Textual amendment: Sch. 5 para. 3(a) substituted (1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/67/2), [128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/II); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/II)
+[^c-a5f9f8f598f6d22a7168c077f70072f2]: Textual amendment: Sch. 5 para. 3(a) substituted (1.4.2004) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 67(2)](https://www.legislation.gov.uk/ukpga/2003/26/section/67/2), [128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/II); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/II)
 
-[^key-3fd94aabb3d77b510e6ba6b2001f2384]: Textual amendment: Word in Sch. 5 para. 3 omitted (with effect in accordance with s. 1(2) of the amending Act) by virtue of [Non-Domestic Rating (Nursery Grounds) Act 2018 (c. 26)](https://www.legislation.gov.uk/ukpga/2018/26), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2018/26/section/1/1)
+[^c-3fd94aabb3d77b510e6ba6b2001f2384]: Textual amendment: Word in Sch. 5 para. 3 omitted (with effect in accordance with s. 1(2) of the amending Act) by virtue of [Non-Domestic Rating (Nursery Grounds) Act 2018 (c. 26)](https://www.legislation.gov.uk/ukpga/2018/26), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2018/26/section/1/1)
 
-[^key-bdf94240f868f27d8dd6c9e05ccec1de]: Textual amendment: Sch. 5 para. 3(c) and word inserted (with effect in accordance with s. 1(2) of the amending Act) by [Non-Domestic Rating (Nursery Grounds) Act 2018 (c. 26)](https://www.legislation.gov.uk/ukpga/2018/26), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2018/26/section/1/1)
+[^c-bdf94240f868f27d8dd6c9e05ccec1de]: Textual amendment: Sch. 5 para. 3(c) and word inserted (with effect in accordance with s. 1(2) of the amending Act) by [Non-Domestic Rating (Nursery Grounds) Act 2018 (c. 26)](https://www.legislation.gov.uk/ukpga/2018/26), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2018/26/section/1/1)
 
 [^c13077451]: Textual amendment: Words substituted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 37(2)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/37/2)
 
-[^key-09db8c97992a71864241b31096b72416]: Textual amendment: Sch. 5 para. 7(1)(c) and words inserted (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/2003/26/section/67/3), [128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-09db8c97992a71864241b31096b72416]: Textual amendment: Sch. 5 para. 7(1)(c) and words inserted (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 67(3)](https://www.legislation.gov.uk/ukpga/2003/26/section/67/3), [128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-d6cf9586b525698f986398fe2729a78e]: Textual amendment: Sch. 5 para. 7(3) substituted (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 67(4)](https://www.legislation.gov.uk/ukpga/2003/26/section/67/4), [128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-d6cf9586b525698f986398fe2729a78e]: Textual amendment: Sch. 5 para. 7(3) substituted (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 67(4)](https://www.legislation.gov.uk/ukpga/2003/26/section/67/4), [128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-65b5f7f4126bdb331dbbd71f39ae0e6d]: Textual amendment: Sch. 5 para. 7(9) inserted (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 67(5)](https://www.legislation.gov.uk/ukpga/2003/26/section/67/5), [128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-65b5f7f4126bdb331dbbd71f39ae0e6d]: Textual amendment: Sch. 5 para. 7(9) inserted (18.11.2003 for E., 27.11.2003 for W.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [ss. 67(5)](https://www.legislation.gov.uk/ukpga/2003/26/section/67/5), [128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/3/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-91749355c73655e9c0ece31fd627534b]: Textual amendment: Words in Sch. 5 para. 7(9) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 210](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/210) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-91749355c73655e9c0ece31fd627534b]: Textual amendment: Words in Sch. 5 para. 7(9) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 210](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/210) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c13077471]: Textual amendment: Sch. 5 para. 9(4A) inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 37(3)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/37/3)
 
@@ -372,11 +372,11 @@ Section 51.
 
 [^c13077641]: Marginal citation: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
-[^key-7ac127a0a8bc17fe040672216b694c3e]: Textual amendment: Words in [Sch. 5 para. 13(4)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/13/4) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(20)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/20)
+[^c-7ac127a0a8bc17fe040672216b694c3e]: Textual amendment: Words in [Sch. 5 para. 13(4)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/13/4) substituted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a), [Sch. para. 1(20)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/1/20)
 
 [^c13077671]: Textual amendment: Sch. 5 para. 14(2) substituted (1. 12. 1991) by [Water Consolidation (Consequential Provisions) Act 1991 (c. 60)](https://www.legislation.gov.uk/ukpga/1991/60), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1991/60/section/2/1), [4(2)](https://www.legislation.gov.uk/ukpga/1991/60/section/4/2), [Sch. 1 para. 49(b)](https://www.legislation.gov.uk/ukpga/1991/60/schedule/1/paragraph/49/b)
 
-[^key-c97964e959f7adf90100bbca44233eb4]: Textual amendment: Words in Sch. 5 para. 14(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 187](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/187) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c97964e959f7adf90100bbca44233eb4]: Textual amendment: Words in Sch. 5 para. 14(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 187](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/187) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c13077681]: Textual amendment: Sch. 5 para. 14(3) omitted (1.4.1997) by virtue of [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 2(4)](https://www.legislation.gov.uk/ukpga/1997/29/section/2/4); [S.I. 1997/1097](https://www.legislation.gov.uk/uksi/1997/1097), [art. 2(a)](https://www.legislation.gov.uk/uksi/1997/1097/article/2/a) and expressed to be repealed (1.4.2000) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 33(2)](https://www.legislation.gov.uk/ukpga/1997/29/section/33/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/29/schedule/4); [S.I. 1998/2329](https://www.legislation.gov.uk/uksi/1998/2329), [art. 3(1)](https://www.legislation.gov.uk/uksi/1998/2329/article/3/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/1998/2329/article/3/2))
 
@@ -392,13 +392,13 @@ Section 51.
 
 [^c13077791]: Marginal citation: [1958 c. 33](https://www.legislation.gov.uk/ukpga/1958/33).
 
-[^key-adfa1408a0ed2f02e7056bcb4ed1d731]: Textual amendment: Sch. 5 para. 16(1A) inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 42(2)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/42/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
+[^c-adfa1408a0ed2f02e7056bcb4ed1d731]: Textual amendment: Sch. 5 para. 16(1A) inserted (1.4.2015) by [The Care Act 2014 and Children and Families Act 2014 (Consequential Amendments) Order 2015 (S.I. 2015/914)](https://www.legislation.gov.uk/uksi/2015/914), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/914/article/1/2), [Sch. para. 42(2)](https://www.legislation.gov.uk/uksi/2015/914/schedule/paragraph/42/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/914/article/1/3), [3](https://www.legislation.gov.uk/uksi/2015/914/article/3))
 
-[^key-ac55972222772c09606872d7b295b5a6]: Textual amendment: [Sch. 5 para. 16(2)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/16/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [52(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/52/2)
+[^c-ac55972222772c09606872d7b295b5a6]: Textual amendment: [Sch. 5 para. 16(2)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/16/2) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [52(2)](https://www.legislation.gov.uk/wsi/2016/413/regulation/52/2)
 
-[^key-ed7d1be903f64e2192c7b71b597f888c]: Textual amendment: Words in Sch. 5 para. 16(3) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 110](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/110) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-ed7d1be903f64e2192c7b71b597f888c]: Textual amendment: Words in Sch. 5 para. 16(3) substituted (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 1 para. 110](https://www.legislation.gov.uk/ukpga/2006/43/schedule/1/paragraph/110) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
 
-[^key-e567862bf1bce2c7db5cf3d844207d3a]: Textual amendment: [Sch. 5 para. 16(4)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/16/4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [52(3)](https://www.legislation.gov.uk/wsi/2016/413/regulation/52/3)
+[^c-e567862bf1bce2c7db5cf3d844207d3a]: Textual amendment: [Sch. 5 para. 16(4)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/16/4) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [52(3)](https://www.legislation.gov.uk/wsi/2016/413/regulation/52/3)
 
 [^c13077821]: Textual amendment: Sch. 5 para. 18A inserted by [Local Government and Housing Act 1989 (c. 42, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1989/42), [s. 139](https://www.legislation.gov.uk/ukpga/1989/42/section/139), [Sch. 5 para. 37(4)](https://www.legislation.gov.uk/ukpga/1989/42/schedule/5/paragraph/37/4)
 
@@ -420,8 +420,8 @@ Section 51.
 
 [^c13077891]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
-[^key-88678444978ff2e8c31157187f55758e]: Textual amendment: Word in [Sch. 5 para. 20 cross-heading](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/crossheading/power-to-confer-exemption) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e), [Sch. para. 8(2)(a)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/8/2/a)
+[^c-88678444978ff2e8c31157187f55758e]: Textual amendment: Word in [Sch. 5 para. 20 cross-heading](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/crossheading/power-to-confer-exemption) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e), [Sch. para. 8(2)(a)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/8/2/a)
 
-[^key-2b3b4ea608ec17da19d91a8d55a25416]: Textual amendment: Words in [Sch. 5 para. 20(1)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/20/1) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e), [Sch. para. 8(2)(b)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/8/2/b)
+[^c-2b3b4ea608ec17da19d91a8d55a25416]: Textual amendment: Words in [Sch. 5 para. 20(1)](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/20/1) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e), [Sch. para. 8(2)(b)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/8/2/b)
 
-[^key-5cfb56137ca3eb870fa7e253f7c80209]: Textual amendment: [Sch. 5 para. 20A](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/20A) and cross-heading inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 9(2)](https://www.legislation.gov.uk/asc/2024/6/section/9/2), [23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e)
+[^c-5cfb56137ca3eb870fa7e253f7c80209]: Textual amendment: [Sch. 5 para. 20A](https://www.legislation.gov.uk/ukpga/1988/41/schedule/5/paragraph/20A) and cross-heading inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 9(2)](https://www.legislation.gov.uk/asc/2024/6/section/9/2), [23(2)(e)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/e)

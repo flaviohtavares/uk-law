@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Other community policing arrangements[^key-c58abc1a2a3e4bef5ab39222935a6b38]
+## 33. Other community policing arrangements[^c-c58abc1a2a3e4bef5ab39222935a6b38]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c58abc1a2a3e4bef5ab39222935a6b38]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2011/24/section/33) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-c58abc1a2a3e4bef5ab39222935a6b38]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2011/24/section/33) in operation at 1.4.2012 by [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)

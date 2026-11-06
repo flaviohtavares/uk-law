@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Payment of benefits to or in respect of a dual capacity member[^key-bb28d71bc6166126778d39a50fc9e2eb]
+## 119. Payment of benefits to or in respect of a dual capacity member[^c-bb28d71bc6166126778d39a50fc9e2eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb28d71bc6166126778d39a50fc9e2eb]: Commencement: Reg. 119 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-bb28d71bc6166126778d39a50fc9e2eb]: Commencement: Reg. 119 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

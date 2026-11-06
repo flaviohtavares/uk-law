@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Time limits[^key-d8145c68de7cd582bd903859e07b4b20][^key-96e17ec9cb26d704de8334d1f1ef8d17]
+## 6. Time limits[^c-d8145c68de7cd582bd903859e07b4b20][^c-96e17ec9cb26d704de8334d1f1ef8d17]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8145c68de7cd582bd903859e07b4b20]: Commencement: Rule 6 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-d8145c68de7cd582bd903859e07b4b20]: Commencement: Rule 6 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-96e17ec9cb26d704de8334d1f1ef8d17]: Textual amendment: Word in [rule 6](https://www.legislation.gov.uk/uksi/2009/356/rule/6) heading substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [6](https://www.legislation.gov.uk/uksi/2010/2579/rule/6)
+[^c-96e17ec9cb26d704de8334d1f1ef8d17]: Textual amendment: Word in [rule 6](https://www.legislation.gov.uk/uksi/2009/356/rule/6) heading substituted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [6](https://www.legislation.gov.uk/uksi/2010/2579/rule/6)

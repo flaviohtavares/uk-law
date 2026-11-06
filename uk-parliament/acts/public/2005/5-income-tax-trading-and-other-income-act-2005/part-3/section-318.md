@@ -37,8 +37,8 @@ summary: ''
 
 is ignored if the person is a company within the charge to corporation tax.
 
-(4) For any entitlement of a company within the charge to corporation tax to a deduction for any of the expenditure, see sections 255 to 257 of CTA 2009[^key-bc594ae7b741384d9e72690bed3f2483] (corresponding corporation tax provision).
+(4) For any entitlement of a company within the charge to corporation tax to a deduction for any of the expenditure, see sections 255 to 257 of CTA 2009[^c-bc594ae7b741384d9e72690bed3f2483] (corresponding corporation tax provision).
 
 ## Annotations
 
-[^key-bc594ae7b741384d9e72690bed3f2483]: Textual amendment: Words in s. 318(4) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 628](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/628) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-bc594ae7b741384d9e72690bed3f2483]: Textual amendment: Words in s. 318(4) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 628](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/628) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Special Immigration Appeals Commission[^key-c6639fc53470496d9b440122425baa25][^key-913bf4f5e2b8ae978047980feaf25e92]
+## 77. Special Immigration Appeals Commission[^c-c6639fc53470496d9b440122425baa25][^c-913bf4f5e2b8ae978047980feaf25e92]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c6639fc53470496d9b440122425baa25]: Commencement: S. 77 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-c6639fc53470496d9b440122425baa25]: Commencement: S. 77 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-913bf4f5e2b8ae978047980feaf25e92]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/36/section/77) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/27)
+[^c-913bf4f5e2b8ae978047980feaf25e92]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2022/36/section/77) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/27)

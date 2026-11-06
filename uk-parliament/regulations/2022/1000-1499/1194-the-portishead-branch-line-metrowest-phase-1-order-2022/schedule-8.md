@@ -22,13 +22,13 @@ summary: ''
 
 Article 20
 
-### PART 1 — Crossings: works required[^key-13dac0f074d903bb5edd333192a8cd30]
+### PART 1 — Crossings: works required[^c-13dac0f074d903bb5edd333192a8cd30]
 
 | *(1)*<br>*Area* | *(2)*<br>*Crossing to be discontinued* | *(3)*<br>*Street or way to be stopped up* | *(4)*<br>*Replacement* |
 | --- | --- | --- | --- |
 | District of North Somerset, Portishead | Quays Avenue, Portishead | Crossing known as Quays Avenue Portishead between the points marked S1 and S2 on sheet 1 of the crossings to be extinguished plans | Work No. 2 |
 
-### PART 2 — Crossings: No works required[^key-e9968df1dd8bb7f754e38f8c2ad7b235]
+### PART 2 — Crossings: No works required[^c-e9968df1dd8bb7f754e38f8c2ad7b235]
 
 | *(1)*<br>*Area* | *(2)*<br>*Level Crossing to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -38,6 +38,6 @@ Article 20
 
 ## Annotations
 
-[^key-13dac0f074d903bb5edd333192a8cd30]: Commencement: Sch. 8 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-13dac0f074d903bb5edd333192a8cd30]: Commencement: Sch. 8 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
-[^key-e9968df1dd8bb7f754e38f8c2ad7b235]: Commencement: Sch. 8 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-e9968df1dd8bb7f754e38f8c2ad7b235]: Commencement: Sch. 8 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

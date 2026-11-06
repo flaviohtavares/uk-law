@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. For the protection of the City of London Corporation[^key-03bf67f00a0b9614af2b90af376ad12b]
+## 46. For the protection of the City of London Corporation[^c-03bf67f00a0b9614af2b90af376ad12b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 14 (for the protection of the City of London Corporat
 
 ## Annotations
 
-[^key-03bf67f00a0b9614af2b90af376ad12b]: Commencement: Art. 46 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-03bf67f00a0b9614af2b90af376ad12b]: Commencement: Art. 46 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

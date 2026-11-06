@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Choice of arrangements[^key-d1b5b9b6622e6d74eba0608306e9f080]
+## 24. Choice of arrangements[^c-d1b5b9b6622e6d74eba0608306e9f080]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1b5b9b6622e6d74eba0608306e9f080]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2010/16/section/24) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-d1b5b9b6622e6d74eba0608306e9f080]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2010/16/section/24) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

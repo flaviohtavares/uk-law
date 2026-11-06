@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Pay reference periods for the purposes of sections 1(1)(c), 3(1)(c) and 5(1)(c) of the Act[^key-157b7face1d7809676194ff7bdbd1e12][^key-0332c1169e4022f6e0c9d70c73eada8e]
+## 4. Pay reference periods for the purposes of sections 1(1)(c), 3(1)(c) and 5(1)(c) of the Act[^c-157b7face1d7809676194ff7bdbd1e12][^c-0332c1169e4022f6e0c9d70c73eada8e]
 
 *Extent: E+W+S*
 
@@ -60,6 +60,6 @@ whichever is the longer.
 
 ## Annotations
 
-[^key-157b7face1d7809676194ff7bdbd1e12]: Textual amendment: Reg. 4 substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/2)
+[^c-157b7face1d7809676194ff7bdbd1e12]: Textual amendment: Reg. 4 substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/2)
 
-[^key-0332c1169e4022f6e0c9d70c73eada8e]: Textual amendment: Words in reg. 4 heading substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [19(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/19/a)
+[^c-0332c1169e4022f6e0c9d70c73eada8e]: Textual amendment: Words in reg. 4 heading substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [19(a)](https://www.legislation.gov.uk/uksi/2012/215/regulation/19/a)

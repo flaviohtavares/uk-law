@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH
 
-The Plant Health (Phytophthora ramorum) Order (Northern Ireland) 2003 (revoked)[^key-08f0cf96a553d299f1b45b0992059647]
+The Plant Health (Phytophthora ramorum) Order (Northern Ireland) 2003 (revoked)[^c-08f0cf96a553d299f1b45b0992059647]
 
 Made
 
@@ -41,88 +41,88 @@ Coming into operation
 
 16th April 2003
 
-[^key-08f0cf96a553d299f1b45b0992059647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08f0cf96a553d299f1b45b0992059647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-08f0cf96a553d299f1b45b0992059647]
+## 1. Citation and commencement[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-08f0cf96a553d299f1b45b0992059647]
+## 2. Interpretation[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition against the introduction and spread of Phytophthora ramorum into and within Northern Ireland[^key-08f0cf96a553d299f1b45b0992059647]
+## 3. Prohibition against the introduction and spread of Phytophthora ramorum into and within Northern Ireland[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Landing susceptible material from the USA[^key-08f0cf96a553d299f1b45b0992059647]
+## 4. Landing susceptible material from the USA[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Movement of susceptible material originating in third countries[^key-08f0cf96a553d299f1b45b0992059647]
+## 5. Movement of susceptible material originating in third countries[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions from the requirements of Articles 4 and 5[^key-08f0cf96a553d299f1b45b0992059647]
+## 6. Exemptions from the requirements of Articles 4 and 5[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Movement of susceptible material originating in Northern Ireland and elsewhere in the European Community[^key-08f0cf96a553d299f1b45b0992059647]
+## 7. Movement of susceptible material originating in Northern Ireland and elsewhere in the European Community[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Official registration[^key-08f0cf96a553d299f1b45b0992059647]
+## 8. Official registration[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Plant passports[^key-08f0cf96a553d299f1b45b0992059647]
+## 9. Plant passports[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Phytosanitary certificates[^key-08f0cf96a553d299f1b45b0992059647]
+## 10. Phytosanitary certificates[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Phytosanitary certificates or plant passports issued outside Northern Ireland[^key-08f0cf96a553d299f1b45b0992059647]
+## 11. Phytosanitary certificates or plant passports issued outside Northern Ireland[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Licences for scientific or research purposes[^key-08f0cf96a553d299f1b45b0992059647]
+## 12. Licences for scientific or research purposes[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of an inspector[^key-08f0cf96a553d299f1b45b0992059647]
+## 13. Powers of an inspector[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Offences[^key-08f0cf96a553d299f1b45b0992059647]
+## 14. Offences[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Revocation and saving[^key-08f0cf96a553d299f1b45b0992059647]
+## 15. Revocation and saving[^c-08f0cf96a553d299f1b45b0992059647]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08f0cf96a553d299f1b45b0992059647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08f0cf96a553d299f1b45b0992059647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-08f0cf96a553d299f1b45b0992059647]
+## SCHEDULE 1[^c-08f0cf96a553d299f1b45b0992059647]
 
 Article 4(1)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-08f0cf96a553d299f1b45b0992059647]
+## SCHEDULE 2[^c-08f0cf96a553d299f1b45b0992059647]
 
 Article 7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-08f0cf96a553d299f1b45b0992059647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-08f0cf96a553d299f1b45b0992059647]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-08f0cf96a553d299f1b45b0992059647]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/193) revoked (28.2.2005) by [The Plant Health (Phytophthora ramorum) Order (Northern Ireland) 2005 (S.R. 2005/23)](https://www.legislation.gov.uk/nisr/2005/23), [arts. 1](https://www.legislation.gov.uk/nisr/2005/23/article/1), [16](https://www.legislation.gov.uk/nisr/2005/23/article/16)
+[^c-08f0cf96a553d299f1b45b0992059647]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/193) revoked (28.2.2005) by [The Plant Health (Phytophthora ramorum) Order (Northern Ireland) 2005 (S.R. 2005/23)](https://www.legislation.gov.uk/nisr/2005/23), [arts. 1](https://www.legislation.gov.uk/nisr/2005/23/article/1), [16](https://www.legislation.gov.uk/nisr/2005/23/article/16)

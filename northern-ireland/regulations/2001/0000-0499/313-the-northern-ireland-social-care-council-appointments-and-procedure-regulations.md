@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001], in exercise of the powers conferred on it by sections 1(4) and 57(3) of, and paragraph 5 of Schedule 1 to, the Health and Personal Social Services Act (Northern Ireland) 2001[^f00002] and of all other powers enabling it in that behalf hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b63c1d2fa2d9bb6acc0cf8ff46959086]
+## 1. Citation, commencement and interpretation[^c-b63c1d2fa2d9bb6acc0cf8ff46959086]
 
 (1) These Regulations may be cited as the Northern Ireland Social Care Council (Appointments and Procedure) Regulations (Northern Ireland) 2001 and shall come into operation on 1st October 2001.
 
@@ -67,11 +67,11 @@ The Department of Health, Social Services and Public Safety[^f00001], in exercis
 
 ## The Chairman and Members
 
-### 2. Appointments[^key-ebd784c936086458d56e562561167ffb]
+### 2. Appointments[^c-ebd784c936086458d56e562561167ffb]
 
 The Council shall consist of a chairman and not more than 24 other members appointed by the Department.
 
-### 3. Terms of Appointment[^key-b46a21773170c4d61d209134c7415fa4]
+### 3. Terms of Appointment[^c-b46a21773170c4d61d209134c7415fa4]
 
 (1) The chairman shall be appointed for a period not exceeding 4 years.
 
@@ -85,7 +85,7 @@ The Council shall consist of a chairman and not more than 24 other members appoi
 
 (6) The Department may instead of re-appointing the chairman or a member on the expiration of their term of office, extend their appointment for such further period as may appear reasonable in the particular circumstances; but the period by which an appointment is extended must not exceed 4 years.
 
-### 4. Disqualification for appointment[^key-e5198f927db7d9a4cc4bd432ceac41c7]
+### 4. Disqualification for appointment[^c-e5198f927db7d9a4cc4bd432ceac41c7]
 
 (1) The following persons are disqualified for appointment as chairman or as a member of the Council—
 
@@ -134,7 +134,7 @@ The Council shall consist of a chairman and not more than 24 other members appoi
 - (f) a fully registered osteopath as defined by section 41 of the Osteopaths Act 1993[^f00015]; or
 - (g) a fully registered chiropractor as defined by section 43 of the Chiropractors Act 1994[^f00016].
 
-### 5. Resignations[^key-c45672ee173ca1fad229a1ce8225b7bf]
+### 5. Resignations[^c-c45672ee173ca1fad229a1ce8225b7bf]
 
 (1) The chairman or member of the Council may resign his office at any time during his term of office by giving not less than 30 days notice in writing to the Department of his intention to do so.
 
@@ -146,7 +146,7 @@ The Council shall consist of a chairman and not more than 24 other members appoi
 
 (5) In the case of a member who during his term of office is appointed chairman of the Council, the terms on which he was appointed a member shall cease to apply on the day on which his appointment as chairman takes effect.
 
-### 6. Termination of tenure of office of chairman and members[^key-cda91c0d92a5fbaf356282b12973ab9f]
+### 6. Termination of tenure of office of chairman and members[^c-cda91c0d92a5fbaf356282b12973ab9f]
 
 (1) The Department—
 
@@ -167,7 +167,7 @@ The Council shall consist of a chairman and not more than 24 other members appoi
 
 (6) A person who, after his appointment as chairman or as a member of the Council, is adjudged bankrupt or makes a composition or arrangement with his creditors, shall give notice in writing of the fact to the Department.
 
-### 7. Appointment of deputy chairman[^key-5261b18443beb9fbcbd8678e6fe3126f]
+### 7. Appointment of deputy chairman[^c-5261b18443beb9fbcbd8678e6fe3126f]
 
 (1) Subject to paragraph (2), the chairman and members of the Council may appoint one of their number to be deputy chairman for such period, not exceeding the remainder of his term of office as a member, as they may specify on appointing him.
 
@@ -177,7 +177,7 @@ The Council shall consist of a chairman and not more than 24 other members appoi
 
 ## Committees, meetings and procedures
 
-### 8. Appointment of committees and sub-committees[^key-52b686c5eb06f3de435869182fb53cf8]
+### 8. Appointment of committees and sub-committees[^c-52b686c5eb06f3de435869182fb53cf8]
 
 (1) Subject to any directions given to it by the Department, the Council may and if so directed by the Department, shall appoint committees of the Council.
 
@@ -187,7 +187,7 @@ The Council shall consist of a chairman and not more than 24 other members appoi
 
 (4) Regulations 4 and 6 shall apply to appointments to committees and sub-committees and to the termination of those appointments as they apply to appointments to the Council and to the termination of those appointments.
 
-### 9. Meetings and proceedings[^key-8a4ee867596dad1c6f61c3d703c186d8]
+### 9. Meetings and proceedings[^c-8a4ee867596dad1c6f61c3d703c186d8]
 
 (1) The meetings and proceedings of the Council shall be conducted in accordance with the provisions set out in the Schedule and with Standing Orders made under paragraph (2).
 
@@ -195,7 +195,7 @@ The Council shall consist of a chairman and not more than 24 other members appoi
 
 (3) The proceedings of the Council shall not be invalidated by any defect in the appointment of a member.
 
-### 10. Disclosure of pecuniary interest and exclusion of chairman and members in proceedings on account of pecuniary interest[^key-edc1e22118a9b200b466d000a8f27355]
+### 10. Disclosure of pecuniary interest and exclusion of chairman and members in proceedings on account of pecuniary interest[^c-edc1e22118a9b200b466d000a8f27355]
 
 (1) Subject to the following provisions of this regulation, if the chairman or any other member of the Council has a pecuniary interest, direct or indirect, in any contract, proposed contract or other matter and is present at any meeting of the Council at which the contract, proposed contract or other matter is the subject of consideration, he shall at the meeting and as soon as practicable after its meeting, disclose his interest and shall not take part in the consideration or discussion of the contract or other matter or vote on any question with respect to it.
 
@@ -248,9 +248,9 @@ Department of Health, Social Services and Public Safety
 
 Regulation 9(1)
 
-**1.**[^key-9b595e5995e3d686a2539c746eebab2f] The first meeting of the Council shall be held on such day and at such place as may be fixed by the chairman, and he shall be responsible for convening the meeting.
+**1.**[^c-9b595e5995e3d686a2539c746eebab2f] The first meeting of the Council shall be held on such day and at such place as may be fixed by the chairman, and he shall be responsible for convening the meeting.
 
-**2.**[^key-8bb7bdaace356d739f6389e94320a97d] (1) The chairman may call a meeting of the Council at any time.
+**2.**[^c-8bb7bdaace356d739f6389e94320a97d] (1) The chairman may call a meeting of the Council at any time.
 
 (2) If a requisition for a meeting, signed by at least 5 other members, is presented to the chairman, and the chairman either—
 
@@ -270,17 +270,17 @@ shall be served on each member at least 7 clear days before the day of the meeti
 
 (5) In the case of a meeting called under sub-paragraph (2) by members, those members shall sign the notice and no business other than that specified in the notice shall be transacted at the meeting.
 
-**3.**[^key-ef41120a4852b4b298b8e9704a13f2b5] (1) At any meeting of the Council the chairman or, in his absence, the deputy chairman (if there is one and he is present) shall preside.
+**3.**[^c-ef41120a4852b4b298b8e9704a13f2b5] (1) At any meeting of the Council the chairman or, in his absence, the deputy chairman (if there is one and he is present) shall preside.
 
 (2) If the chairman and deputy chairman are both absent, such other member present, as the other members present shall choose for the purpose, shall preside.
 
-**4.**[^key-e49219c3a8f57e1cdd7da6e1844e364d] (1) At any meeting of the Council the quorum shall be one third (rounded up to a whole number) of the appointed members, including the chairman.
+**4.**[^c-e49219c3a8f57e1cdd7da6e1844e364d] (1) At any meeting of the Council the quorum shall be one third (rounded up to a whole number) of the appointed members, including the chairman.
 
 (2) Where the Council is considering the appointment of a Chief Executive, the Council is not quorate unless the chairman is present.
 
-**5.**[^key-64cd4aefae0fee0b345a12c02105952f] Every question at a meeting shall be determined by a majority of the votes of the members present and competent to vote on the question and, in the case of an equality of votes, the chairman or, in his absence, the person presiding at the meeting, shall have a second vote.
+**5.**[^c-64cd4aefae0fee0b345a12c02105952f] Every question at a meeting shall be determined by a majority of the votes of the members present and competent to vote on the question and, in the case of an equality of votes, the chairman or, in his absence, the person presiding at the meeting, shall have a second vote.
 
-**6.**[^key-f3311cd2b74c6fd8a9e9eefe81b4859a] (1) The minutes of the proceedings of a meeting shall be drawn up and shall be signed at the ensuing meeting by the person presiding at that next meeting.
+**6.**[^c-f3311cd2b74c6fd8a9e9eefe81b4859a] (1) The minutes of the proceedings of a meeting shall be drawn up and shall be signed at the ensuing meeting by the person presiding at that next meeting.
 
 (2) The names of the members present at a meeting shall be recorded in the minutes.
 
@@ -296,7 +296,7 @@ These Regulations do not impose a charge on businesses.
 
 [^f00002]: Footnote: [2001 c.](https://www.legislation.gov.uk/nia/2001/3)
 
-[^key-b63c1d2fa2d9bb6acc0cf8ff46959086]: Commencement: Reg. 1 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-b63c1d2fa2d9bb6acc0cf8ff46959086]: Commencement: Reg. 1 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
 [^f00003]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49); sections 8 and 10 were amended by sections 1 and 2 of the [National Health Service and Community Care Act (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19)
 
@@ -308,11 +308,11 @@ These Regulations do not impose a charge on businesses.
 
 [^f00007]: Footnote: [1970 c. 46](https://www.legislation.gov.uk/ukpga/1970/46)
 
-[^key-ebd784c936086458d56e562561167ffb]: Commencement: Reg. 2 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-ebd784c936086458d56e562561167ffb]: Commencement: Reg. 2 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-b46a21773170c4d61d209134c7415fa4]: Commencement: Reg. 3 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-b46a21773170c4d61d209134c7415fa4]: Commencement: Reg. 3 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-e5198f927db7d9a4cc4bd432ceac41c7]: Commencement: Reg. 4 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-e5198f927db7d9a4cc4bd432ceac41c7]: Commencement: Reg. 4 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
 [^f00008]: Footnote: The General Social Care Council was established under section 54 of the Care Standards Act 2000
 
@@ -332,28 +332,28 @@ These Regulations do not impose a charge on businesses.
 
 [^f00016]: Footnote: [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17)
 
-[^key-c45672ee173ca1fad229a1ce8225b7bf]: Commencement: Reg. 5 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-c45672ee173ca1fad229a1ce8225b7bf]: Commencement: Reg. 5 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-cda91c0d92a5fbaf356282b12973ab9f]: Commencement: Reg. 6 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-cda91c0d92a5fbaf356282b12973ab9f]: Commencement: Reg. 6 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-5261b18443beb9fbcbd8678e6fe3126f]: Commencement: Reg. 7 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-5261b18443beb9fbcbd8678e6fe3126f]: Commencement: Reg. 7 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-52b686c5eb06f3de435869182fb53cf8]: Commencement: Reg. 8 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-52b686c5eb06f3de435869182fb53cf8]: Commencement: Reg. 8 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-8a4ee867596dad1c6f61c3d703c186d8]: Commencement: Reg. 9 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-8a4ee867596dad1c6f61c3d703c186d8]: Commencement: Reg. 9 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-edc1e22118a9b200b466d000a8f27355]: Commencement: Reg. 10 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-edc1e22118a9b200b466d000a8f27355]: Commencement: Reg. 10 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
 [^f00017]: Footnote: [1907 c. 36](https://www.legislation.gov.uk/ukpga/1907/36)
 
-[^key-9b595e5995e3d686a2539c746eebab2f]: Commencement: Sch. para. 1 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-9b595e5995e3d686a2539c746eebab2f]: Commencement: Sch. para. 1 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-8bb7bdaace356d739f6389e94320a97d]: Commencement: Sch. para. 2 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-8bb7bdaace356d739f6389e94320a97d]: Commencement: Sch. para. 2 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-ef41120a4852b4b298b8e9704a13f2b5]: Commencement: Sch. para. 3 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-ef41120a4852b4b298b8e9704a13f2b5]: Commencement: Sch. para. 3 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-e49219c3a8f57e1cdd7da6e1844e364d]: Commencement: Sch. para. 4 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-e49219c3a8f57e1cdd7da6e1844e364d]: Commencement: Sch. para. 4 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-64cd4aefae0fee0b345a12c02105952f]: Commencement: Sch. para. 5 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-64cd4aefae0fee0b345a12c02105952f]: Commencement: Sch. para. 5 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
 
-[^key-f3311cd2b74c6fd8a9e9eefe81b4859a]: Commencement: Sch. para. 6 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)
+[^c-f3311cd2b74c6fd8a9e9eefe81b4859a]: Commencement: Sch. para. 6 in operation at 1.10.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/313/regulation/1/1)

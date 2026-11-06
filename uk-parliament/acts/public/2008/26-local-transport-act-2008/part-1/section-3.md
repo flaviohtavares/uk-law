@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-b183faf42031a62e39306fbdb3bc75ff][^key-4ff9c3403fbca54122d5b029f42da47e] After section 4 of the PPVA 1981 (traffic commissioners) insert—
+(1)[^c-b183faf42031a62e39306fbdb3bc75ff][^c-4ff9c3403fbca54122d5b029f42da47e] After section 4 of the PPVA 1981 (traffic commissioners) insert—
 
 > **4A. Appointment of senior traffic commissioner**
 >
@@ -130,28 +130,28 @@ summary: ''
 
 .
 
-(2)[^key-8391c679d6f77b9873f1662661b52eb6] In each of the following provisions (which provide for traffic commissioners to act under general directions of the Secretary of State)—
+(2)[^c-8391c679d6f77b9873f1662661b52eb6] In each of the following provisions (which provide for traffic commissioners to act under general directions of the Secretary of State)—
 
 - (a) section 4(4)(a) of the PPVA 1981,
 - (b) section 1(2) of the Goods Vehicles (Licensing of Operators) Act 1995 (c. 23),
 
 for “the general directions of the Secretary of State” substitute “ the general directions of, and shall have regard to any guidance given by, the senior traffic commissioner ”.
 
-(3)[^key-8391c679d6f77b9873f1662661b52eb6] In Schedule 2 to the PPVA 1981 (traffic commissioners) in paragraph 8, at the beginning insert “ (1) ” and at the end insert—
+(3)[^c-8391c679d6f77b9873f1662661b52eb6] In Schedule 2 to the PPVA 1981 (traffic commissioners) in paragraph 8, at the beginning insert “ (1) ” and at the end insert—
 
 > (2) There shall be paid to the senior traffic commissioner such additional remuneration in respect of the responsibilities of that office as may be so determined.
 
 .
 
-(4)[^key-8391c679d6f77b9873f1662661b52eb6] The person who, on the date on which section 4A(1) of the PPVA 1981 comes into force, is the person designated by the Secretary of State as senior traffic commissioner—
+(4)[^c-8391c679d6f77b9873f1662661b52eb6] The person who, on the date on which section 4A(1) of the PPVA 1981 comes into force, is the person designated by the Secretary of State as senior traffic commissioner—
 
 - (a) is to become, on that date, the first holder of the office of senior traffic commissioner, and
 - (b) is to remain in that office until the expiry of the term for which that person was so designated (but subject to section 4A(3)(b) of, and Schedule 2 to, the PPVA 1981).
 
 ## Annotations
 
-[^key-b183faf42031a62e39306fbdb3bc75ff]: Commencement: S. 3(1) in force at 4.3.2009 for specified purposes by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 3](https://www.legislation.gov.uk/uksi/2009/107/article/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/107/schedule/3)
+[^c-b183faf42031a62e39306fbdb3bc75ff]: Commencement: S. 3(1) in force at 4.3.2009 for specified purposes by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 3](https://www.legislation.gov.uk/uksi/2009/107/article/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/107/schedule/3)
 
-[^key-4ff9c3403fbca54122d5b029f42da47e]: Commencement: S. 3(1) in force at 3.7.2013 in so far as not already in force by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/685/article/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2013/685/article/3/2/b)
+[^c-4ff9c3403fbca54122d5b029f42da47e]: Commencement: S. 3(1) in force at 3.7.2013 in so far as not already in force by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/685/article/3/1)[(2)(b)](https://www.legislation.gov.uk/uksi/2013/685/article/3/2/b)
 
-[^key-8391c679d6f77b9873f1662661b52eb6]: Commencement: S. 3(2)-(4) in force at 4.3.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 3](https://www.legislation.gov.uk/uksi/2009/107/article/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/107/schedule/3)
+[^c-8391c679d6f77b9873f1662661b52eb6]: Commencement: S. 3(2)-(4) in force at 4.3.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 3](https://www.legislation.gov.uk/uksi/2009/107/article/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/107/schedule/3)

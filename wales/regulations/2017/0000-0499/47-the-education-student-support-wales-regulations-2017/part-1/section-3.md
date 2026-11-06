@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Revocation, savings and transitional provisions[^key-571eacf9050b5ebe4630c4722bb83ad0]
+## 3. Revocation, savings and transitional provisions[^c-571eacf9050b5ebe4630c4722bb83ad0]
 
 *Extent: E+W*
 
@@ -65,14 +65,14 @@ summary: ''
 - (a) the Welsh Ministers, in the case of a function referred to in section 44(1) of the Higher Education Act 2004[^f00045]; or
 - (b) the Welsh Ministers or the Secretary of State, in the case of a function referred to in section 44(2) of the Higher Education Act 2004.
 
-(16) Subject to regulation 1(3)[^key-c73fd1d05ebb41f2b7f532708aca7c3a] these Regulations apply in relation to the provision of support to students in respect of an academic year which begins on or after 1 September 2017 and before 1 August 2018[^key-0e322bcfde2ee23bf7b501f91f50c692] whether anything done under these Regulations is done before, on or after 1 September 2017.
+(16) Subject to regulation 1(3)[^c-c73fd1d05ebb41f2b7f532708aca7c3a] these Regulations apply in relation to the provision of support to students in respect of an academic year which begins on or after 1 September 2017 and before 1 August 2018[^c-0e322bcfde2ee23bf7b501f91f50c692] whether anything done under these Regulations is done before, on or after 1 September 2017.
 
 ## Annotations
 
-[^key-571eacf9050b5ebe4630c4722bb83ad0]: Commencement: Reg. 3 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-571eacf9050b5ebe4630c4722bb83ad0]: Commencement: Reg. 3 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
 [^f00045]: Footnote: [2004 c. 8](https://www.legislation.gov.uk/ukpga/2004/8).
 
-[^key-c73fd1d05ebb41f2b7f532708aca7c3a]: Textual amendment: Words in [reg. 3(16)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/16) inserted (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/wsi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/1/2), [Sch. 6 para. 4(a)](https://www.legislation.gov.uk/wsi/2018/191/schedule/6/paragraph/4/a) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/2)[(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/3))
+[^c-c73fd1d05ebb41f2b7f532708aca7c3a]: Textual amendment: Words in [reg. 3(16)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/16) inserted (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/wsi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/1/2), [Sch. 6 para. 4(a)](https://www.legislation.gov.uk/wsi/2018/191/schedule/6/paragraph/4/a) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/2)[(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/3))
 
-[^key-0e322bcfde2ee23bf7b501f91f50c692]: Textual amendment: Words in [reg. 3(16)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/16) inserted (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/wsi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/1/2), [Sch. 6 para. 4(b)](https://www.legislation.gov.uk/wsi/2018/191/schedule/6/paragraph/4/b) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/2)[(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/3))
+[^c-0e322bcfde2ee23bf7b501f91f50c692]: Textual amendment: Words in [reg. 3(16)](https://www.legislation.gov.uk/wsi/2017/47/regulation/3/16) inserted (12.3.2018) by [The Education (Student Support) (Wales) Regulations 2018 (S.I. 2018/191)](https://www.legislation.gov.uk/wsi/2018/191), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/1/2), [Sch. 6 para. 4(b)](https://www.legislation.gov.uk/wsi/2018/191/schedule/6/paragraph/4/b) (with [reg. 2(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/2)[(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/2/3))

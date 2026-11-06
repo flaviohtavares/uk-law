@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-f36c4611732707d579e9a1f03d101b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-f36c4611732707d579e9a1f03d101b06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-75ce39e89039bfb2d2fb1ebc7d724a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-75ce39e89039bfb2d2fb1ebc7d724a69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 140A of TCGA 1992 (transfer of UK trade)—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f36c4611732707d579e9a1f03d101b06]: Textual amendment: S. 59(1) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-f36c4611732707d579e9a1f03d101b06]: Textual amendment: S. 59(1) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-75ce39e89039bfb2d2fb1ebc7d724a69]: Textual amendment: S. 59(2) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/h)
+[^c-75ce39e89039bfb2d2fb1ebc7d724a69]: Textual amendment: S. 59(2) omitted (with effect in accordance with Sch. 2 para. 71 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 70(h)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/70/h)

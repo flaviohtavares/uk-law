@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Amendment of regulation 54[^key-5c97e6cb324c353fd6b2c0f8b44c0966]
+## 34. Amendment of regulation 54[^c-5c97e6cb324c353fd6b2c0f8b44c0966]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 54, in Step 2, for “the Contributions Table” substitute “Tab
 
 ## Annotations
 
-[^key-5c97e6cb324c353fd6b2c0f8b44c0966]: Commencement: Reg. 34 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-5c97e6cb324c353fd6b2c0f8b44c0966]: Commencement: Reg. 34 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

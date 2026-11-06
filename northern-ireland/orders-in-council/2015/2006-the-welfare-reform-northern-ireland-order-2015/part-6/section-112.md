@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Powers to require information relating to investigations[^key-612f47daeefb5138578660ca92730046]
+## 112. Powers to require information relating to investigations[^c-612f47daeefb5138578660ca92730046]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ In section 103B of the Administration Act (power to require information), in sub
 
 ## Annotations
 
-[^key-612f47daeefb5138578660ca92730046]: Commencement: [Art. 112](https://www.legislation.gov.uk/nisi/2015/2006/article/112) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/c)
+[^c-612f47daeefb5138578660ca92730046]: Commencement: [Art. 112](https://www.legislation.gov.uk/nisi/2015/2006/article/112) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 35. Restriction order[^key-ee7cc205e9d163e58858206653cf233e]
+## 35. Restriction order[^c-ee7cc205e9d163e58858206653cf233e]
 
 *Extent: E*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee7cc205e9d163e58858206653cf233e]: Commencement: S. 35 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-ee7cc205e9d163e58858206653cf233e]: Commencement: S. 35 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

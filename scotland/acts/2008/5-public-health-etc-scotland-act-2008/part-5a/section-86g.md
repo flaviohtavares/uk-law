@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 86G. Special restrictions and requirements[^key-1fbe3b64e74b1d617988b2f4af4d44cc]
+## 86G. Special restrictions and requirements[^c-1fbe3b64e74b1d617988b2f4af4d44cc]
 
 *Extent: S*
 
@@ -44,7 +44,7 @@ summary: ''
 - (b) that the thing be kept in quarantine,
 - (c) that the thing be disinfected or decontaminated,
 - (d) that the vector, agent or source of any infection or contamination be removed,
-- (e) in the case of a dead body, that the body be buried , cremated or hydrolysed[^key-8e18ce1679b33025ceed1028b3f4e035],
+- (e) in the case of a dead body, that the body be buried , cremated or hydrolysed[^c-8e18ce1679b33025ceed1028b3f4e035],
 - (f) in any other case, that the thing be destroyed or disposed of.
 
 (5) In relation to premises, the restriction or requirement referred to in subsection (1) is—
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fbe3b64e74b1d617988b2f4af4d44cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2008/5/part/5A) inserted (1.9.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/8/section/1/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-1fbe3b64e74b1d617988b2f4af4d44cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2008/5/part/5A) inserted (1.9.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/8/section/1/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
-[^key-8e18ce1679b33025ceed1028b3f4e035]: Textual amendment: Words in [s. 86G(4)(e)](https://www.legislation.gov.uk/asp/2008/5/section/86G/4/e) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/b)
+[^c-8e18ce1679b33025ceed1028b3f4e035]: Textual amendment: Words in [s. 86G(4)(e)](https://www.legislation.gov.uk/asp/2008/5/section/86G/4/e) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2026/50/regulation/5/b)

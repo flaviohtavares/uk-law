@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 19. Power to require landlords to provide information[^key-d92099d36cc2b273751514526b9ac8b4][^key-2c7d78ede8d5e00662e977e63696c11b]
+## 19. Power to require landlords to provide information[^c-d92099d36cc2b273751514526b9ac8b4][^c-2c7d78ede8d5e00662e977e63696c11b]
 
 *Extent: S*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d92099d36cc2b273751514526b9ac8b4]: Commencement: S. 19 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-d92099d36cc2b273751514526b9ac8b4]: Commencement: S. 19 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-2c7d78ede8d5e00662e977e63696c11b]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/13/section/19) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-2c7d78ede8d5e00662e977e63696c11b]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/13/section/19) in force at 1.4.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

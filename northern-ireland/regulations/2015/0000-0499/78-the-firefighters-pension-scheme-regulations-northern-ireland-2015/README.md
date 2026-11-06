@@ -335,7 +335,7 @@ In accordance with section 3(5) of that Act, the Department of Finance and Perso
 - [Section 158 — Appointment of scheme actuary and actuarial valuations](part-11/section-158.md)
 - [Section 159 — Employer cost cap](part-11/section-159.md)
 
-### PART 12 — Determination of Questions of Appeals[^key-9448ed5c23c8c52b5c9b3614c49f258f]
+### PART 12 — Determination of Questions of Appeals[^c-9448ed5c23c8c52b5c9b3614c49f258f]
 
 #### CHAPTER 1
 
@@ -455,4 +455,4 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^c22393931]: Marginal citation: [2014 c.2](https://www.legislation.gov.uk/ukpga/2014/2). (NI)
 
-[^key-9448ed5c23c8c52b5c9b3614c49f258f]: Modification: [Pt. 12](https://www.legislation.gov.uk/nisr/2015/78/part/12) applied (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/133)](https://www.legislation.gov.uk/nisr/2023/133), [regs. 1](https://www.legislation.gov.uk/nisr/2023/133/regulation/1), [51(7)](https://www.legislation.gov.uk/nisr/2023/133/regulation/51/7)
+[^c-9448ed5c23c8c52b5c9b3614c49f258f]: Modification: [Pt. 12](https://www.legislation.gov.uk/nisr/2015/78/part/12) applied (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/133)](https://www.legislation.gov.uk/nisr/2023/133), [regs. 1](https://www.legislation.gov.uk/nisr/2023/133/regulation/1), [51(7)](https://www.legislation.gov.uk/nisr/2023/133/regulation/51/7)

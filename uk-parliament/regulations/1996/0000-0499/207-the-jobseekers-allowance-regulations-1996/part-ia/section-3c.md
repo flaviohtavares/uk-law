@@ -14,13 +14,13 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 3C. Entitlement of a new joint-claim couple to a jobseeker’s allowance[^key-96a67ae8afbc894b1f569ab5ae3721d8]
+## 3C. Entitlement of a new joint-claim couple to a jobseeker’s allowance[^c-96a67ae8afbc894b1f569ab5ae3721d8]
 
 (1) Paragraph (2) shall apply where a couple become a joint-claim couple because the child, or all the children, for which they were responsible have—
 
 - (a) died;
 - (b) ceased to be a child or children for whom they are responsible; or
-- (c) reached the age of 16 and are not qualifying young persons within the meaning of section 142 of the Benefits Act (child and qualifying young person)[^key-44564fa43a60dd7d00677e03327fea9e].
+- (c) reached the age of 16 and are not qualifying young persons within the meaning of section 142 of the Benefits Act (child and qualifying young person)[^c-44564fa43a60dd7d00677e03327fea9e].
 
 (2) In a case to which this paragraph applies—
 
@@ -42,6 +42,6 @@ where the conditions specified in paragraph (3) have been complied with.
 
 ## Annotations
 
-[^key-96a67ae8afbc894b1f569ab5ae3721d8]: Textual amendment: Pt. 1A inserted (19.3.2001) by [The Jobseeker’s Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/2/2)
+[^c-96a67ae8afbc894b1f569ab5ae3721d8]: Textual amendment: Pt. 1A inserted (19.3.2001) by [The Jobseeker’s Allowance (Joint Claims) Regulations 2000 (S.I. 2000/1978)](https://www.legislation.gov.uk/uksi/2000/1978), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2000/1978/regulation/2/2)
 
-[^key-44564fa43a60dd7d00677e03327fea9e]: Textual amendment: Words in [reg. 3C(1)(c)](https://www.legislation.gov.uk/uksi/1996/207/regulation/3C/1/c) substituted (10.4.2006) by [The Social Security (Young Persons) Amendment Regulations 2006 (S.I. 2006/718)](https://www.legislation.gov.uk/uksi/2006/718), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/718/regulation/1/2/a), [3(3)](https://www.legislation.gov.uk/uksi/2006/718/regulation/3/3)
+[^c-44564fa43a60dd7d00677e03327fea9e]: Textual amendment: Words in [reg. 3C(1)(c)](https://www.legislation.gov.uk/uksi/1996/207/regulation/3C/1/c) substituted (10.4.2006) by [The Social Security (Young Persons) Amendment Regulations 2006 (S.I. 2006/718)](https://www.legislation.gov.uk/uksi/2006/718), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2006/718/regulation/1/2/a), [3(3)](https://www.legislation.gov.uk/uksi/2006/718/regulation/3/3)

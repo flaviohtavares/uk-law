@@ -45,7 +45,7 @@ at 8.00 p.m. on 27 October 2023
 
 The Welsh Ministers make the following Regulations in exercise of the power conferred on them by section 17(2) of the Non-Domestic Rating Act 2023[^f00001].
 
-## 1. Title, application and coming into force[^key-076535287f964cdae5b0e0b08340a6fd]
+## 1. Title, application and coming into force[^c-076535287f964cdae5b0e0b08340a6fd]
 
 (1) The title of these Regulations is the Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023.
 
@@ -53,39 +53,39 @@ The Welsh Ministers make the following Regulations in exercise of the power conf
 
 (3) These Regulations come into force at 8.00 p.m. on 27 October 2023.
 
-## 2. Amendments to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^key-205a73808c2a10996e69ae7e31ae3b82]
+## 2. Amendments to the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^c-205a73808c2a10996e69ae7e31ae3b82]
 
 (1) Regulation 3(1) (interpretation) of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989[^f00002] is amended as follows.
 
 (2) In the definition of “the amount payable”, in sub-paragraph (a)—
 
-- (a)[^key-8318812f3b370fd256d3bf779d932e92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8318812f3b370fd256d3bf779d932e92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “58(3)(a)” substitute “58(3)”.
 
-## 3. Amendment to the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990[^key-a4b495aa84987dd0adf932ca06c96d06]
+## 3. Amendment to the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990[^c-a4b495aa84987dd0adf932ca06c96d06]
 
 In regulation 3(2)(a) (joint owners and occupiers) of the Non-Domestic Rating (Collection and Enforcement) (Miscellaneous Provisions) Regulations 1990[^f00003], for “58(3)(a)” substitute “58(3)”.
 
-## 4. Amendments to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^key-7ac19449aa1af3cead0142e02862382b]
+## 4. Amendments to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^c-7ac19449aa1af3cead0142e02862382b]
 
 (1) Schedule 1 (matters to be contained in demand notices) to the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017[^f00004] is amended as follows.
 
-(2)[^key-1b145fa87db6045b1979c69db8906a2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1b145fa87db6045b1979c69db8906a2c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-eaf3cbe9e84ad652f9d2f524c4346018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-eaf3cbe9e84ad652f9d2f524c4346018] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph 6—
 
-- (a)[^key-3622b2df43d80ce0b2e5cb8bbbe4f9fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-2ffb7462bf23520c2450e0d95159ac66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-3622b2df43d80ce0b2e5cb8bbbe4f9fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2ffb7462bf23520c2450e0d95159ac66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in sub-paragraph (c), for “58(3)(a)” substitute “58(3)”;
-- (d)[^key-f92551e0af000022e99bc2e21e3eaa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-f92551e0af000022e99bc2e21e3eaa93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Non-Domestic Rating (Small Business Relief) (Wales) Order 2017[^key-9c15744e33d163788d511c13781f3fd2]
+## 5. Amendments to the Non-Domestic Rating (Small Business Relief) (Wales) Order 2017[^c-9c15744e33d163788d511c13781f3fd2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2022[^key-d099654d36183d7a62cfd18d861e72b4]
+## 6. Amendments to the Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2022[^c-d099654d36183d7a62cfd18d861e72b4]
 
 (1) The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2022[^f00006] are amended as follows.
 
@@ -99,7 +99,7 @@ In regulation 3(2)(a) (joint owners and occupiers) of the Non-Domestic Rating (C
 
 (5) In regulation 11 (rules for finding the chargeable amount), for “section 58(3)(a)” substitute “section 58(3)”.
 
-## 7. Amendments to the Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023[^key-645ce3b5bb5098103863597b70d8d08c]
+## 7. Amendments to the Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023[^c-645ce3b5bb5098103863597b70d8d08c]
 
 (1) The Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023[^f00007] are amended as follows.
 
@@ -142,38 +142,38 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2023 c. 53](https://www.legislation.gov.uk/ukpga/2023/53).
 
-[^key-076535287f964cdae5b0e0b08340a6fd]: Commencement: Reg. 1 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
+[^c-076535287f964cdae5b0e0b08340a6fd]: Commencement: Reg. 1 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
 
-[^key-205a73808c2a10996e69ae7e31ae3b82]: Commencement: Reg. 2 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
+[^c-205a73808c2a10996e69ae7e31ae3b82]: Commencement: Reg. 2 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1989/1058](https://www.legislation.gov.uk/uksi/1989/1058); relevant amending instruments are [S.I. 1991/141](https://www.legislation.gov.uk/uksi/1991/141), [S.I. 1993/616](https://www.legislation.gov.uk/uksi/1993/616) and [S.I. 2010/187](https://www.legislation.gov.uk/uksi/2010/187).
 
-[^key-8318812f3b370fd256d3bf779d932e92]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/2/2/a) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(2)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/2)
+[^c-8318812f3b370fd256d3bf779d932e92]: Textual amendment: [Reg. 2(2)(a)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/2/2/a) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(2)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/2)
 
-[^key-a4b495aa84987dd0adf932ca06c96d06]: Commencement: Reg. 3 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
+[^c-a4b495aa84987dd0adf932ca06c96d06]: Commencement: Reg. 3 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1990/145](https://www.legislation.gov.uk/uksi/1990/145), to which there are amendments not relevant to these Regulations.
 
-[^key-7ac19449aa1af3cead0142e02862382b]: Commencement: Reg. 4 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
+[^c-7ac19449aa1af3cead0142e02862382b]: Commencement: Reg. 4 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2017/113 (W. 39)](https://www.legislation.gov.uk/wsi/2017/113), to which there are amendments not relevant to these Regulations.
 
-[^key-1b145fa87db6045b1979c69db8906a2c]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/2) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/a)
+[^c-1b145fa87db6045b1979c69db8906a2c]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/2) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(a)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/a)
 
-[^key-eaf3cbe9e84ad652f9d2f524c4346018]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/3) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/b)
+[^c-eaf3cbe9e84ad652f9d2f524c4346018]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/3) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(b)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/b)
 
-[^key-3622b2df43d80ce0b2e5cb8bbbe4f9fa]: Textual amendment: [Reg. 4(4)(a)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/4/a) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/c)
+[^c-3622b2df43d80ce0b2e5cb8bbbe4f9fa]: Textual amendment: [Reg. 4(4)(a)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/4/a) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/c)
 
-[^key-2ffb7462bf23520c2450e0d95159ac66]: Textual amendment: [Reg. 4(4)(b)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/4/b) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/c)
+[^c-2ffb7462bf23520c2450e0d95159ac66]: Textual amendment: [Reg. 4(4)(b)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/4/b) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/c)
 
-[^key-f92551e0af000022e99bc2e21e3eaa93]: Textual amendment: [Reg. 4(4)(d)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/4/d) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/c)
+[^c-f92551e0af000022e99bc2e21e3eaa93]: Textual amendment: [Reg. 4(4)(d)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/4/d) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(3)(c)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/3/c)
 
-[^key-9c15744e33d163788d511c13781f3fd2]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/1154/regulation/5) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/4)
+[^c-9c15744e33d163788d511c13781f3fd2]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/1154/regulation/5) omitted (19.1.2024) by virtue of [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/3), [5(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/5/4)
 
-[^key-d099654d36183d7a62cfd18d861e72b4]: Commencement: Reg. 6 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
+[^c-d099654d36183d7a62cfd18d861e72b4]: Commencement: Reg. 6 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2022/1350 (W. 272)](https://www.legislation.gov.uk/wsi/2022/1350).
 
-[^key-645ce3b5bb5098103863597b70d8d08c]: Commencement: Reg. 7 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
+[^c-645ce3b5bb5098103863597b70d8d08c]: Commencement: Reg. 7 in force at 27.10.2023 at 8.00 p.m., see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2023/350 (W. 51)](https://www.legislation.gov.uk/wsi/2023/350).

@@ -24,10 +24,10 @@ summary: ''
 
 (2) For that purpose a licensable activity is unauthorised unless it is under and in accordance with an authorisation.
 
-(3) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding six months or to a fine[^key-75855444985614089463467dbd5c8d9e], or to both.
+(3) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding six months or to a fine[^c-75855444985614089463467dbd5c8d9e], or to both.
 
 (4) The court by which a person is convicted of an offence under this section may order the alcohol in question, and any container for it, to be forfeited and either destroyed or dealt with in such other manner as the court may order.
 
 ## Annotations
 
-[^key-75855444985614089463467dbd5c8d9e]: Textual amendment: Words in s. 137(3) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-75855444985614089463467dbd5c8d9e]: Textual amendment: Words in s. 137(3) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 33(3)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/33/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

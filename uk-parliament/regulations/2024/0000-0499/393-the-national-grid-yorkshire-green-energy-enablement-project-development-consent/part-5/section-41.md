@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Recovery of costs of new connections[^key-93930f93b5f59a3e7b025f2dc181daaf]
+## 41. Recovery of costs of new connections[^c-93930f93b5f59a3e7b025f2dc181daaf]
 
 *Extent: E+W+S*
 
@@ -36,6 +36,6 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## Annotations
 
-[^key-93930f93b5f59a3e7b025f2dc181daaf]: Commencement: Art. 41 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-93930f93b5f59a3e7b025f2dc181daaf]: Commencement: Art. 41 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
 [^f00073]: Footnote: Section 151 was implemented by Article 1, Section 2 and Schedule 1 of [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), Article 3 of [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142); as amended by Schedule 1 of [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210). There are other amendments to section 151 which are not relevant to this Order.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Power to alter layout, etc. of streets[^key-b09cc0144eae1c6408bee1c0ae39a01a]
+## 11. Power to alter layout, etc. of streets[^c-b09cc0144eae1c6408bee1c0ae39a01a]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b09cc0144eae1c6408bee1c0ae39a01a]: Commencement: Art. 11 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)
+[^c-b09cc0144eae1c6408bee1c0ae39a01a]: Commencement: Art. 11 in force at 11.4.2024, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/436/article/1/2)

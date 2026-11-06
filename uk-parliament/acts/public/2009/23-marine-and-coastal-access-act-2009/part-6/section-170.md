@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Agreements under section 167: particular powers[^key-3a6b6322deaf48f36e839528efd2852d]
+## 170. Agreements under section 167: particular powers[^c-3a6b6322deaf48f36e839528efd2852d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a6b6322deaf48f36e839528efd2852d]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2009/23/section/170) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)
+[^c-3a6b6322deaf48f36e839528efd2852d]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2009/23/section/170) in force at 1.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2011/556/article/2/2/e)

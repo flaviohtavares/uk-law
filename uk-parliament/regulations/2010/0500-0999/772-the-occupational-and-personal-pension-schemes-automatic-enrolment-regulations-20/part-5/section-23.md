@@ -31,10 +31,10 @@ summary: ''
 
 (2) The requirement in paragraph (1)(b) does not apply in relation to the information specified in regulation 3(1)(g), (h), (i), (j) or (k), where the trustees or managers of the occupational pension scheme notify, or the personal pension scheme provider notifies, the employer that they do not require that piece of information to achieve active membership of that scheme.
 
-(3) Where the information referred to in regulation 3(1)(f) is not available to the employer on the date the notice is received by the employer, the employer must give the trustees or managers of the occupational pension scheme or the personal pension scheme provider that information within six weeks[^key-f24bc68ba5bd16ceb40f525bf2b1e043] from the date on which the employer receives it.
+(3) Where the information referred to in regulation 3(1)(f) is not available to the employer on the date the notice is received by the employer, the employer must give the trustees or managers of the occupational pension scheme or the personal pension scheme provider that information within six weeks[^c-f24bc68ba5bd16ceb40f525bf2b1e043] from the date on which the employer receives it.
 
 (4) For the purposes of this regulation, any reference to ‘the jobholder’ in regulation 3(1) shall be read as a reference to ‘worker’.
 
 ## Annotations
 
-[^key-f24bc68ba5bd16ceb40f525bf2b1e043]: Textual amendment: Words in reg. 23(3) substituted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [8](https://www.legislation.gov.uk/uksi/2015/501/regulation/8)
+[^c-f24bc68ba5bd16ceb40f525bf2b1e043]: Textual amendment: Words in reg. 23(3) substituted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [8](https://www.legislation.gov.uk/uksi/2015/501/regulation/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Restriction on justices sitting after dealing with bail.[^key-cad3cd6be5eecb5111ab08f4fc2f779f]
+## 42. Restriction on justices sitting after dealing with bail.[^c-cad3cd6be5eecb5111ab08f4fc2f779f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cad3cd6be5eecb5111ab08f4fc2f779f]: Textual amendment: S. 42 repealed (18.6.2012) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/14), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(d)(f)(ii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/f/ii)[(ii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/ii)
+[^c-cad3cd6be5eecb5111ab08f4fc2f779f]: Textual amendment: S. 42 repealed (18.6.2012) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/14), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(d)(f)(ii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/f/ii)[(ii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/ii)

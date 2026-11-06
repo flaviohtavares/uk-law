@@ -49,52 +49,52 @@ In accordance with section 48(4A) of that Act, the Assembly has had regard to re
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00002], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Title, application and commencement[^key-accd22f69a1edb6ae07d1d896c48ab38]
+## 1. Title, application and commencement[^c-accd22f69a1edb6ae07d1d896c48ab38]
 
 These Regulations are called the Addition of Vitamins, Minerals and Other Substances (Wales) Regulations 2007, apply in relation to Wales and come into force on 7 August 2007.
 
-## 2. Interpretation[^key-6985b12877475d4815b9ef08f4d4dae0]
+## 2. Interpretation[^c-6985b12877475d4815b9ef08f4d4dae0]
 
 (1) In these Regulations —
 
 - “the Act” (“*y Ddeddf*”) means the Food Safety Act 1990;
 - “food authority” (“*awdurdod bwyd*”) has the same meaning as in section 5(1A) and (3)(a) and (b) of the Act;;
 - “port health authority” (“*awdurdod iechyd porthladd*”) means in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984[^f00003], a port health authority for that district constituted by order under section 2(4) of that Act;
-- “[^key-29e0783b9cedbf72ce39fae486051e20]**the EC Regulation**” (“***y Rheoliad CE***”) means Regulation [(EC) No. 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods, as Annex 1, 2 or 3[^key-3f948b518d761ae1459e2eadba7aadc6] to which is amended from time to time.
+- “[^c-29e0783b9cedbf72ce39fae486051e20]**the EC Regulation**” (“***y Rheoliad CE***”) means Regulation [(EC) No. 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods, as Annex 1, 2 or 3[^c-3f948b518d761ae1459e2eadba7aadc6] to which is amended from time to time.
 
 (2) Expressions used in these Regulations and in the EC Regulation have the same meaning in these Regulations as they do in that Regulation.
 
 (3) Any reference to a numbered Article or Annex is a reference to the Article or Annex so numbered in the EC Regulation.
 
-## 3. Enforcement[^key-7b7c027750f95f309f284ce3fd5255b5]
+## 3. Enforcement[^c-7b7c027750f95f309f284ce3fd5255b5]
 
 Each port health authority within its district and each food authority within its area will execute and enforce the provisions of these Regulations and of the EC Regulation.
 
-## 4. Offences and penalties[^key-ce57326190702d4d8f1b4d872b2348d4]
+## 4. Offences and penalties[^c-ce57326190702d4d8f1b4d872b2348d4]
 
-(1) Any[^key-6088cf3d3181b2a736f5e886f8e25a1a] person who contravenes or fails to comply with the provisions of the EC Regulation specified in paragraph (2) is guilty of an offence and liable —
+(1) Any[^c-6088cf3d3181b2a736f5e886f8e25a1a] person who contravenes or fails to comply with the provisions of the EC Regulation specified in paragraph (2) is guilty of an offence and liable —
 
 - (a) on conviction on indictment to a term of imprisonment not exceeding two years or to a fine or both;
 - (b) on summary conviction to a term of imprisonment not exceeding three months or to a fine not exceeding the statutory maximum or both.
 
 (2) The specified provisions referred to in paragraph (1) are —
 
-- (a) Article 3(1) (requirement that only vitamins or minerals listed in Annex I and in form listed in Annex II may be added to food) [^key-c69b368d4895e1710ec81b1e7e470b4c]...;
+- (a) Article 3(1) (requirement that only vitamins or minerals listed in Annex I and in form listed in Annex II may be added to food) [^c-c69b368d4895e1710ec81b1e7e470b4c]...;
 - (b) Article 4 (prohibition on addition of vitamins and minerals to certain foods);
 - (c) Article 5(2) (requirement to observe purity criteria);
-- (d) Article 6(6) (requirement for added vitamins and minerals to be in the food in at least a significant amount as defined); [^key-4f429dbec57813f531473ab1f8dadd89]...
-- (e)[^key-6063b1507c4ead2b99d3436e6e65b7a2] Article 7(1), (2) and (3) (restrictions and conditions applying to labelling, presentation and advertising of foods to which vitamins or minerals have been added);[^key-8cec32b8ccb640f45541e5c8cd868a8b]
-- (f)[^key-f47eebf666b77efcc1d9203458396aee] Article 8(2)(a)(i) (prohibition of the addition of a substance listed in Annex 3, Part A to foods or its use in the manufacture of foods);
+- (d) Article 6(6) (requirement for added vitamins and minerals to be in the food in at least a significant amount as defined); [^c-4f429dbec57813f531473ab1f8dadd89]...
+- (e)[^c-6063b1507c4ead2b99d3436e6e65b7a2] Article 7(1), (2) and (3) (restrictions and conditions applying to labelling, presentation and advertising of foods to which vitamins or minerals have been added);[^c-8cec32b8ccb640f45541e5c8cd868a8b]
+- (f)[^c-f47eebf666b77efcc1d9203458396aee] Article 8(2)(a)(i) (prohibition of the addition of a substance listed in Annex 3, Part A to foods or its use in the manufacture of foods);
 - (g) Article 8(2)(a)(ii) (prohibition of the addition of a substance listed in Annex 3, Part B to foods or its use in the manufacture of foods unless that substance is added or used in accordance with the conditions specified in that Part).
 
-## 4A. Transitional provision in relation to food containing substance listed in Annex 3, Part B[^key-9addd38546de1652aef7659a2b79b35f]
+## 4A. Transitional provision in relation to food containing substance listed in Annex 3, Part B[^c-9addd38546de1652aef7659a2b79b35f]
 
 An offence is not committed under paragraph (1) of regulation 4 by virtue of paragraph (2)(g) of that regulation in respect of the addition of a substance to, or its use in the manufacture of, any food if—
 
 - (a) the food is placed on the market before 1 April 2021; and
 - (b) the substance concerned falls within the entry in Annex 3, Part B relating to trans fat other than trans fat naturally occurring in fat of animal origin.
 
-## 5. Application of various provisions of the Act[^key-04a1082d6b406be8af9ffec6dd570b87]
+## 5. Application of various provisions of the Act[^c-04a1082d6b406be8af9ffec6dd570b87]
 
 The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations —
 
@@ -109,7 +109,7 @@ The following provisions of the Act apply for the purposes of these Regulations 
 - (i) section 36A (offences by Scottish partnerships); and
 - (j) section 44 (protection of officers acting in good faith.
 
-## 6. Obstruction of officers and provision of information etc[^key-20a226a016b6f966624353206873135e]
+## 6. Obstruction of officers and provision of information etc[^c-20a226a016b6f966624353206873135e]
 
 (1) Any person who —
 
@@ -153,34 +153,34 @@ Under authority of the Minister for Health and Social Services, one of the Welsh
 
 [^f00002]: Footnote: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (OJ No. L100, 8.4.2006, p3).
 
-[^key-accd22f69a1edb6ae07d1d896c48ab38]: Commencement: Reg. 1 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
+[^c-accd22f69a1edb6ae07d1d896c48ab38]: Commencement: Reg. 1 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
 
-[^key-6985b12877475d4815b9ef08f4d4dae0]: Commencement: Reg. 2 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
+[^c-6985b12877475d4815b9ef08f4d4dae0]: Commencement: Reg. 2 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
 
 [^f00003]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-29e0783b9cedbf72ce39fae486051e20]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/2/1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [13(2)](https://www.legislation.gov.uk/wsi/2018/806/regulation/13/2)
+[^c-29e0783b9cedbf72ce39fae486051e20]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/2/1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [13(2)](https://www.legislation.gov.uk/wsi/2018/806/regulation/13/2)
 
-[^key-3f948b518d761ae1459e2eadba7aadc6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/2/1) substituted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/2)
+[^c-3f948b518d761ae1459e2eadba7aadc6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/2/1) substituted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/2)
 
-[^key-7b7c027750f95f309f284ce3fd5255b5]: Commencement: Reg. 3 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
+[^c-7b7c027750f95f309f284ce3fd5255b5]: Commencement: Reg. 3 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
 
-[^key-ce57326190702d4d8f1b4d872b2348d4]: Commencement: Reg. 4 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
+[^c-ce57326190702d4d8f1b4d872b2348d4]: Commencement: Reg. 4 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
 
-[^key-6088cf3d3181b2a736f5e886f8e25a1a]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/13/3)
+[^c-6088cf3d3181b2a736f5e886f8e25a1a]: Textual amendment: Word in [reg. 4(1)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/1) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [13(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/13/3)
 
-[^key-c69b368d4895e1710ec81b1e7e470b4c]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/179)](https://www.legislation.gov.uk/wsi/2019/179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2019/179/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c69b368d4895e1710ec81b1e7e470b4c]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Nutrition (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/179)](https://www.legislation.gov.uk/wsi/2019/179), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/179/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2019/179/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4f429dbec57813f531473ab1f8dadd89]: Textual amendment: Word in [reg. 4(2)(d)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/d) omitted (3.4.2020) by virtue of [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/3/a)
+[^c-4f429dbec57813f531473ab1f8dadd89]: Textual amendment: Word in [reg. 4(2)(d)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/d) omitted (3.4.2020) by virtue of [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/3/a)
 
-[^key-6063b1507c4ead2b99d3436e6e65b7a2]: Textual amendment: [Reg. 4(2)(e)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/e) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 46](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/46)
+[^c-6063b1507c4ead2b99d3436e6e65b7a2]: Textual amendment: [Reg. 4(2)(e)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/e) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 46](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/46)
 
-[^key-8cec32b8ccb640f45541e5c8cd868a8b]: Textual amendment: [Reg. 4(2)(e)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/e): semicolon substituted for full stop (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/3/b)
+[^c-8cec32b8ccb640f45541e5c8cd868a8b]: Textual amendment: [Reg. 4(2)(e)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/e): semicolon substituted for full stop (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/3/b)
 
-[^key-f47eebf666b77efcc1d9203458396aee]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/f)[(g)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/g) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/3/c)
+[^c-f47eebf666b77efcc1d9203458396aee]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/f)[(g)](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4/2/g) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/3/c)
 
-[^key-9addd38546de1652aef7659a2b79b35f]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4A) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/4)
+[^c-9addd38546de1652aef7659a2b79b35f]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/wsi/2007/1984/regulation/4A) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (Wales) (Amendment) Regulations 2020 (S.I. 2020/257)](https://www.legislation.gov.uk/wsi/2020/257), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/257/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2020/257/regulation/2/4)
 
-[^key-04a1082d6b406be8af9ffec6dd570b87]: Commencement: Reg. 5 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
+[^c-04a1082d6b406be8af9ffec6dd570b87]: Commencement: Reg. 5 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
 
-[^key-20a226a016b6f966624353206873135e]: Commencement: Reg. 6 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)
+[^c-20a226a016b6f966624353206873135e]: Commencement: Reg. 6 in force at 7.8.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/1984/regulation/1)

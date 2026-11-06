@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.102. Proof of licensed moneylender[^key-beb5e8d1eddf7910c19c828fa08b504f]
+## 6.102. Proof of licensed moneylender[^c-beb5e8d1eddf7910c19c828fa08b504f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A proof of debt in respect of a moneylending transaction made before 27th Januar
 
 ## Annotations
 
-[^key-beb5e8d1eddf7910c19c828fa08b504f]: Commencement: [Rule 6.102](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.102) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-beb5e8d1eddf7910c19c828fa08b504f]: Commencement: [Rule 6.102](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.102) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

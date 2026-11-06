@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Discrimination relating to children or benefits status: Welsh language[^key-2d909efe395f919057f2743480d33eb0][^key-4db6be9a9a712eb0a34c321508c77168]
+## 43. Discrimination relating to children or benefits status: Welsh language[^c-2d909efe395f919057f2743480d33eb0][^c-4db6be9a9a712eb0a34c321508c77168]
 
 *Extent: E+W*
 
@@ -219,6 +219,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d909efe395f919057f2743480d33eb0]: Commencement: S. 43 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-2d909efe395f919057f2743480d33eb0]: Commencement: S. 43 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-4db6be9a9a712eb0a34c321508c77168]: Commencement: S. 43 in force at 1.6.2026 by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/6/article/2/a)
+[^c-4db6be9a9a712eb0a34c321508c77168]: Commencement: S. 43 in force at 1.6.2026 by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(a)](https://www.legislation.gov.uk/wsi/2026/6/article/2/a)

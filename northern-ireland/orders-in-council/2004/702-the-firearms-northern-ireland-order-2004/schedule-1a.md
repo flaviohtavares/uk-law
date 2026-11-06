@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1A — Relevant firearms for Article 11(4)(c)[^key-9e0ccbde7ce9ef4e1d7fba8d8065fc14]
+## SCHEDULE 1A — Relevant firearms for Article 11(4)(c)[^c-9e0ccbde7ce9ef4e1d7fba8d8065fc14]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ Article 11(8
 
 ## Annotations
 
-[^key-9e0ccbde7ce9ef4e1d7fba8d8065fc14]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/nisi/2004/702/schedule/1A) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/3/2)
+[^c-9e0ccbde7ce9ef4e1d7fba8d8065fc14]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/nisi/2004/702/schedule/1A) inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/nia/2016/21/schedule/5/paragraph/3/2)

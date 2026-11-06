@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Mis-sold personal pensions[^key-ad214fdf227613149322c4031ddc7b28]
+## 93. Mis-sold personal pensions[^c-ad214fdf227613149322c4031ddc7b28]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad214fdf227613149322c4031ddc7b28]: Commencement: Art. 93 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-ad214fdf227613149322c4031ddc7b28]: Commencement: Art. 93 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

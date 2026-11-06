@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**25A.**[^key-6d4fd41d468968e1e930aed9dc3cba16] (1) The Secretary of State may revoke—
+**25A.**[^c-6d4fd41d468968e1e930aed9dc3cba16] (1) The Secretary of State may revoke—
 
 - (a) an appointment made under regulation 22A(1)(a), or
 - (b) an approval given under regulation 22A(2),
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d4fd41d468968e1e930aed9dc3cba16]: Textual amendment: Reg. 25A inserted (1.5.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2010/1203/regulation/10)
+[^c-6d4fd41d468968e1e930aed9dc3cba16]: Textual amendment: Reg. 25A inserted (1.5.2010) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2010 (S.I. 2010/1203)](https://www.legislation.gov.uk/uksi/2010/1203), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1203/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2010/1203/regulation/10)

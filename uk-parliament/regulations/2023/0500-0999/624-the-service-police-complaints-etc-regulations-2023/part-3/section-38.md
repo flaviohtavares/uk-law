@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Combining and splitting investigations[^key-f4a2012b101cf7d70a714ae719634a77]
+## 38. Combining and splitting investigations[^c-f4a2012b101cf7d70a714ae719634a77]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ if the Commissioner considers that it is more efficient and effective, or is oth
 
 ## Annotations
 
-[^key-f4a2012b101cf7d70a714ae719634a77]: Commencement: Reg. 38 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-f4a2012b101cf7d70a714ae719634a77]: Commencement: Reg. 38 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

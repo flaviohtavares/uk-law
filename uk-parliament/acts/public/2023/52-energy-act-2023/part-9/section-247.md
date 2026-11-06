@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 247. Load control: supplemental[^key-9872a71f23ec0d21a770b1abbbc0b618][^key-0f7d8c4b8a665b9391f80585599d2b10]
+## 247. Load control: supplemental[^c-9872a71f23ec0d21a770b1abbbc0b618][^c-0f7d8c4b8a665b9391f80585599d2b10]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9872a71f23ec0d21a770b1abbbc0b618]: Commencement: S. 247 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-9872a71f23ec0d21a770b1abbbc0b618]: Commencement: S. 247 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-0f7d8c4b8a665b9391f80585599d2b10]: Commencement: [S. 247](https://www.legislation.gov.uk/ukpga/2023/52/section/247) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)
+[^c-0f7d8c4b8a665b9391f80585599d2b10]: Commencement: [S. 247](https://www.legislation.gov.uk/ukpga/2023/52/section/247) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/b/iii)

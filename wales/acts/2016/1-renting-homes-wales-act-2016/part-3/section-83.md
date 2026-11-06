@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 83. Succession: interpretation[^key-a0cf4ee2d33d289c86847795f5a45afc]
+## 83. Succession: interpretation[^c-a0cf4ee2d33d289c86847795f5a45afc]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0cf4ee2d33d289c86847795f5a45afc]: Commencement: [S. 83](https://www.legislation.gov.uk/anaw/2016/1/section/83) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a0cf4ee2d33d289c86847795f5a45afc]: Commencement: [S. 83](https://www.legislation.gov.uk/anaw/2016/1/section/83) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

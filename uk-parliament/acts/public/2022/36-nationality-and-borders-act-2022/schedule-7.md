@@ -22,9 +22,9 @@ summary: ''
 
 Section 45
 
-**1.**[^key-e368609772c2c4d5f75877bba8532fb1][^key-15b276f037896c8c8473c97bf9684b43] Part 3A of the Immigration Act 1971 (maritime enforcement) is amended as follows.
+**1.**[^c-e368609772c2c4d5f75877bba8532fb1][^c-15b276f037896c8c8473c97bf9684b43] Part 3A of the Immigration Act 1971 (maritime enforcement) is amended as follows.
 
-**2.**[^key-8b767314c62b15319ebcd60a3f7a4189][^key-27b8c66e8f405b289b65e0a8fd00afc2] Before section 28M insert—
+**2.**[^c-8b767314c62b15319ebcd60a3f7a4189][^c-27b8c66e8f405b289b65e0a8fd00afc2] Before section 28M insert—
 
 > **28LA. Enforcement powers in relation to ships: United Kingdom**
 >
@@ -47,35 +47,35 @@ Section 45
 > - (c) a foreign ship, or
 > - (d) a ship registered under the law of a relevant territory.
 
-**3.**[^key-2657098ad81a1f19f46bfdcd4b855b7f][^key-f6d6e43810c200ab8555c045ea7028c7] In section 28M (enforcement powers in relation to ships: England and Wales)—
+**3.**[^c-2657098ad81a1f19f46bfdcd4b855b7f][^c-f6d6e43810c200ab8555c045ea7028c7] In section 28M (enforcement powers in relation to ships: England and Wales)—
 
 - (a) in subsection (1), for the words from “An immigration officer” to “enforcement officer” substitute “An English and Welsh constable”, and
 - (b) in subsection (3)—
   - (i) omit “an immigration officer,”, and
   - (ii) omit “or an enforcement officer”.
 
-**4.**[^key-638949be973871f79409fbd5e71c97e5][^key-b52a60f89a7f3c53e8a8906514d28d47] In section 28N (enforcement powers in relation to ships: Scotland)—
+**4.**[^c-638949be973871f79409fbd5e71c97e5][^c-b52a60f89a7f3c53e8a8906514d28d47] In section 28N (enforcement powers in relation to ships: Scotland)—
 
 - (a) in subsection (1) for the words from “An immigration officer” to “enforcement officer” substitute “A Scottish constable”, and
 - (b) in subsection (3)—
   - (i) omit “an immigration officer,”, and
   - (ii) omit “or an enforcement officer”.
 
-**5.**[^key-204d6369e811957b33bec4f01eddb9d1][^key-ec7ea4143d1f3a4d4b993793b6530606] In section 28O (enforcement powers in relation to ships: Northern Ireland)—
+**5.**[^c-204d6369e811957b33bec4f01eddb9d1][^c-ec7ea4143d1f3a4d4b993793b6530606] In section 28O (enforcement powers in relation to ships: Northern Ireland)—
 
 - (a) in subsection (1) for the words from “An immigration officer” to “enforcement officer” substitute “A Northern Ireland constable”, and
 - (b) in subsection (3)—
   - (i) omit “an immigration officer,”, and
   - (ii) omit “or an enforcement officer”.
 
-**6.**[^key-c2c58a15479e35297aea2ab84a452bdc][^key-c513418b5be85a50e1c9426c80bca565] In section 28P (hot pursuit of ships in United Kingdom waters)—
+**6.**[^c-c2c58a15479e35297aea2ab84a452bdc][^c-c513418b5be85a50e1c9426c80bca565] In section 28P (hot pursuit of ships in United Kingdom waters)—
 
 - (a) in subsection (1), for the words from “An immigration officer” to “enforcement officer” substitute “An English and Welsh constable”,
 - (b) in subsection (3), for the words from “An immigration officer” to “enforcement officer” substitute “A Scottish constable”,
 - (c) in subsection (5), for the words from “An immigration officer” to “enforcement officer” substitute “A Northern Ireland constable”, and
 - (d) in subsection (10), omit “or an enforcement officer”.
 
-**7.**[^key-f3862f17c47e77c03e7292702764f6c6][^key-19d099b457da1ee1b22a896a03657abf] After section 28P insert—
+**7.**[^c-f3862f17c47e77c03e7292702764f6c6][^c-19d099b457da1ee1b22a896a03657abf] After section 28P insert—
 
 > **28PA. Power to seize and dispose of ships etc.**
 >
@@ -125,7 +125,7 @@ Section 45
 > - (c) by destruction;
 > - (d) by donation of the ship or other property to a charity or other not-for-profit body.
 
-**8.**[^key-404f26ae1a5af05a521ac92abdd05011][^key-7607f9d3eed7a83e284adce38cf3edf4] In section 28Q (interpretation of Part 3A)—
+**8.**[^c-404f26ae1a5af05a521ac92abdd05011][^c-7607f9d3eed7a83e284adce38cf3edf4] In section 28Q (interpretation of Part 3A)—
 
 - (a) at the appropriate places insert—
 
@@ -160,9 +160,9 @@ Section 45
 
   .
 
-**9.**[^key-7db77994ea3ce2320ef2fbab276d14ac][^key-71ff899d3e27741aeb21568734299404] Schedule 4A (enforcement powers in relation to ships) is amended as follows.
+**9.**[^c-7db77994ea3ce2320ef2fbab276d14ac][^c-71ff899d3e27741aeb21568734299404] Schedule 4A (enforcement powers in relation to ships) is amended as follows.
 
-**10.**[^key-0b7e1d4fb1fb8caa1535ffad7188723e][^key-bc28d0e99c2e89ca217764491dd23a56] Before Part 1, insert—
+**10.**[^c-0b7e1d4fb1fb8caa1535ffad7188723e][^c-bc28d0e99c2e89ca217764491dd23a56] Before Part 1, insert—
 
 > **PART A1 — United Kingdom**
 >
@@ -390,113 +390,113 @@ Section 45
 >
 > (4) A person guilty of an offence under this paragraph is liable on summary conviction to a term not exceeding 6 months, to a fine not exceeding level 5 on the standard scale or to both.
 
-**11.**[^key-669935a5d7a4ccc99734f0f0df4f3837][^key-af5a23b1ca6c92c96b6f918c562e341a] In paragraph 1(1)—
+**11.**[^c-669935a5d7a4ccc99734f0f0df4f3837][^c-af5a23b1ca6c92c96b6f918c562e341a] In paragraph 1(1)—
 
 - (a) omit “immigration officers,” and
 - (b) omit “and enforcement officers”.
 
-**12.**[^key-251a54d0a1e15f987fb2ec30fb124196][^key-aaa97f4ed758d84baa491a3067d81835] In paragraph 4—
+**12.**[^c-251a54d0a1e15f987fb2ec30fb124196][^c-aaa97f4ed758d84baa491a3067d81835] In paragraph 4—
 
 - (a) in sub-paragraph (2) omit “constable or”, and
 - (b) in sub-paragraph (3) omit “constable or”.
 
-**13.**[^key-e81c20a96102c62783dbbdf22fc38e60][^key-ff6400997207ed32b7d005596b752a1d] In paragraph 6—
+**13.**[^c-e81c20a96102c62783dbbdf22fc38e60][^c-ff6400997207ed32b7d005596b752a1d] In paragraph 6—
 
 - (a) omit sub-paragraph (5), and
 - (b) in sub-paragraph (6), for the words from “Where” to “the document” substitute “A nationality document that has been seized and retained by a relevant officer”.
 
-**14.**[^key-583a796ff97cf638139ad70eb2447393][^key-d5eb2d8e3518125c561e41d743c4c622] In paragraph 12(1)—
+**14.**[^c-583a796ff97cf638139ad70eb2447393][^c-d5eb2d8e3518125c561e41d743c4c622] In paragraph 12(1)—
 
 - (a) omit “immigration officers,”, and
 - (b) omit “and enforcement officers”.
 
-**15.**[^key-e6642ca6dee1d8213532e2232de4bc91][^key-2caf09e9d61a3160280204fc68305e83] In paragraph 17—
+**15.**[^c-e6642ca6dee1d8213532e2232de4bc91][^c-2caf09e9d61a3160280204fc68305e83] In paragraph 17—
 
 - (a) omit sub-paragraph (5), and
 - (b) in sub-paragraph (6), for the words from “Where” to “the document” substitute “A nationality document that has been seized and retained by a relevant officer”.
 
-**16.**[^key-00c6819e3ee8409c65f7f89d17f7809d][^key-9248004090cb9184fdae2230576ed557] In paragraph 23—
+**16.**[^c-00c6819e3ee8409c65f7f89d17f7809d][^c-9248004090cb9184fdae2230576ed557] In paragraph 23—
 
 - (a) omit “immigration officers,” and
 - (b) omit “and enforcement officers”.
 
-**17.**[^key-f52dd98e269f35abb7f3f3a36a3f5b7b][^key-b0c1713044621f7ac77835d6ee4bc519] In paragraph 26(3) omit “constable or”.
+**17.**[^c-f52dd98e269f35abb7f3f3a36a3f5b7b][^c-b0c1713044621f7ac77835d6ee4bc519] In paragraph 26(3) omit “constable or”.
 
-**18.**[^key-932fc7bb3981dc1d4dd4d22a2c68d4cf][^key-ec929cd519af2efab01fc70457af3989] In paragraph 28—
+**18.**[^c-932fc7bb3981dc1d4dd4d22a2c68d4cf][^c-ec929cd519af2efab01fc70457af3989] In paragraph 28—
 
 - (a) omit sub-paragraph (5), and
 - (b) in sub-paragraph (6), for the words from “Where” to “the document” substitute “A nationality document that has been seized and retained by a relevant officer”.
 
 ## Annotations
 
-[^key-e368609772c2c4d5f75877bba8532fb1]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-e368609772c2c4d5f75877bba8532fb1]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-15b276f037896c8c8473c97bf9684b43]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/1) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-15b276f037896c8c8473c97bf9684b43]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/1) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-8b767314c62b15319ebcd60a3f7a4189]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-8b767314c62b15319ebcd60a3f7a4189]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-27b8c66e8f405b289b65e0a8fd00afc2]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/2) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-27b8c66e8f405b289b65e0a8fd00afc2]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/2) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-2657098ad81a1f19f46bfdcd4b855b7f]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-2657098ad81a1f19f46bfdcd4b855b7f]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-f6d6e43810c200ab8555c045ea7028c7]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/3) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-f6d6e43810c200ab8555c045ea7028c7]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/3) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-638949be973871f79409fbd5e71c97e5]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-638949be973871f79409fbd5e71c97e5]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-b52a60f89a7f3c53e8a8906514d28d47]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/4) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-b52a60f89a7f3c53e8a8906514d28d47]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/4) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-204d6369e811957b33bec4f01eddb9d1]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-204d6369e811957b33bec4f01eddb9d1]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-ec7ea4143d1f3a4d4b993793b6530606]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/5) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-ec7ea4143d1f3a4d4b993793b6530606]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/5) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-c2c58a15479e35297aea2ab84a452bdc]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-c2c58a15479e35297aea2ab84a452bdc]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-c513418b5be85a50e1c9426c80bca565]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-c513418b5be85a50e1c9426c80bca565]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/6) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-f3862f17c47e77c03e7292702764f6c6]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-f3862f17c47e77c03e7292702764f6c6]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-19d099b457da1ee1b22a896a03657abf]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/7) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-19d099b457da1ee1b22a896a03657abf]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/7) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-404f26ae1a5af05a521ac92abdd05011]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-404f26ae1a5af05a521ac92abdd05011]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-7607f9d3eed7a83e284adce38cf3edf4]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/8) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-7607f9d3eed7a83e284adce38cf3edf4]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/8) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-7db77994ea3ce2320ef2fbab276d14ac]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-7db77994ea3ce2320ef2fbab276d14ac]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-71ff899d3e27741aeb21568734299404]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/9) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-71ff899d3e27741aeb21568734299404]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/9) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-0b7e1d4fb1fb8caa1535ffad7188723e]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-0b7e1d4fb1fb8caa1535ffad7188723e]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-bc28d0e99c2e89ca217764491dd23a56]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/10) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-bc28d0e99c2e89ca217764491dd23a56]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/10) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-669935a5d7a4ccc99734f0f0df4f3837]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-669935a5d7a4ccc99734f0f0df4f3837]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-af5a23b1ca6c92c96b6f918c562e341a]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/11) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-af5a23b1ca6c92c96b6f918c562e341a]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/11) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-251a54d0a1e15f987fb2ec30fb124196]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-251a54d0a1e15f987fb2ec30fb124196]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-aaa97f4ed758d84baa491a3067d81835]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/12) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-aaa97f4ed758d84baa491a3067d81835]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/12) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-e81c20a96102c62783dbbdf22fc38e60]: Commencement: Sch. 7 para. 13 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-e81c20a96102c62783dbbdf22fc38e60]: Commencement: Sch. 7 para. 13 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-ff6400997207ed32b7d005596b752a1d]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/13) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-ff6400997207ed32b7d005596b752a1d]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/13) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-583a796ff97cf638139ad70eb2447393]: Commencement: Sch. 7 para. 14 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-583a796ff97cf638139ad70eb2447393]: Commencement: Sch. 7 para. 14 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-d5eb2d8e3518125c561e41d743c4c622]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/14) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-d5eb2d8e3518125c561e41d743c4c622]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/14) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-e6642ca6dee1d8213532e2232de4bc91]: Commencement: Sch. 7 para. 15 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-e6642ca6dee1d8213532e2232de4bc91]: Commencement: Sch. 7 para. 15 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-2caf09e9d61a3160280204fc68305e83]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/15) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-2caf09e9d61a3160280204fc68305e83]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/15) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-00c6819e3ee8409c65f7f89d17f7809d]: Commencement: Sch. 7 para. 16 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-00c6819e3ee8409c65f7f89d17f7809d]: Commencement: Sch. 7 para. 16 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-9248004090cb9184fdae2230576ed557]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/16) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-9248004090cb9184fdae2230576ed557]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/16) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-f52dd98e269f35abb7f3f3a36a3f5b7b]: Commencement: Sch. 7 para. 17 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-f52dd98e269f35abb7f3f3a36a3f5b7b]: Commencement: Sch. 7 para. 17 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-b0c1713044621f7ac77835d6ee4bc519]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/17) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-b0c1713044621f7ac77835d6ee4bc519]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/17) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
 
-[^key-932fc7bb3981dc1d4dd4d22a2c68d4cf]: Commencement: Sch. 7 para. 18 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-932fc7bb3981dc1d4dd4d22a2c68d4cf]: Commencement: Sch. 7 para. 18 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-ec929cd519af2efab01fc70457af3989]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/18) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))
+[^c-ec929cd519af2efab01fc70457af3989]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2022/36/schedule/7/paragraph/18) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/22) (with [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/8))

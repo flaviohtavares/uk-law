@@ -28,7 +28,7 @@ summary: ''
 
 Failing this, the request may be made and the fee paid within such further period (of not less than six months) as may be prescribed, in which case an additional renewal fee must also be paid within that period.
 
-(3A)[^key-02c7b307f9d643fa8a7bf30345d11f92] If a request for renewal is made or the renewal fee is paid in respect of only some of the goods or services for which the trade mark is registered, the registration is to be renewed for those goods or services only.
+(3A)[^c-02c7b307f9d643fa8a7bf30345d11f92] If a request for renewal is made or the renewal fee is paid in respect of only some of the goods or services for which the trade mark is registered, the registration is to be renewed for those goods or services only.
 
 (4) Renewal shall take effect from the expiry of the previous registration.
 
@@ -42,4 +42,4 @@ Provision may be made by rules for the restoration of the registration of a trad
 
 [^c1130358]: Commencement: S. 43 wholly in force at 31.10.1994; s. 43 not in force at Royal Assent see s. 109; s.43(2)(3)(5)(6) in force for certain purposes at 29.9.1994 and at 31.10.1994 insofar as s. 43 not already in force by [S.I. 1994/2550](https://www.legislation.gov.uk/uksi/1994/2550), [arts. 2](https://www.legislation.gov.uk/uksi/1994/2550/article/2), [3(1)](https://www.legislation.gov.uk/uksi/1994/2550/article/3/1), [Sch.](https://www.legislation.gov.uk/uksi/1994/2550/schedule)
 
-[^key-02c7b307f9d643fa8a7bf30345d11f92]: Textual amendment: S. 43(3A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2018/825/regulation/21) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-02c7b307f9d643fa8a7bf30345d11f92]: Textual amendment: S. 43(3A) inserted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2018/825/regulation/21) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 4 — KILLING ANIMALS OTHER THAN THOSE TO WHICH THE EU REGULATION APPLIES[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+## SCHEDULE 4 — KILLING ANIMALS OTHER THAN THOSE TO WHICH THE EU REGULATION APPLIES[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 *Extent: E+W+S+NI*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 28
 
-### 1. Interpretation[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 1. Interpretation[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Scope[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 2. Scope[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Exemptions[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 3. Exemptions[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Humane killing[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 4. Humane killing[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Poultry, rabbits or hares bled for private domestic consumption[^key-eaeb0b05bdec91f07b9245f3afc817bd]
+### 5. Poultry, rabbits or hares bled for private domestic consumption[^c-eaeb0b05bdec91f07b9245f3afc817bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)
+[^c-eaeb0b05bdec91f07b9245f3afc817bd]: Textual amendment: Regulations revoked (19.5.2014) by [The Welfare of Animals at the Time of Killing (Revocation) Regulations 2014 (S.I. 2014/1258)](https://www.legislation.gov.uk/uksi/2014/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/1258/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2014/1258/regulation/2)

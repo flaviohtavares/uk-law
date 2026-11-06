@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Payments to personal representatives of qualifying infected persons[^key-244b86c3c5b16809b10408bf82b90620]
+## 56. Payments to personal representatives of qualifying infected persons[^c-244b86c3c5b16809b10408bf82b90620]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ and to or in respect of whom no payment has been made under the Infected Blood I
 
 ## Annotations
 
-[^key-244b86c3c5b16809b10408bf82b90620]: Commencement: S. 56 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)
+[^c-244b86c3c5b16809b10408bf82b90620]: Commencement: S. 56 in force at Royal Assent, see [s. 81(1)(a)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/1/a)

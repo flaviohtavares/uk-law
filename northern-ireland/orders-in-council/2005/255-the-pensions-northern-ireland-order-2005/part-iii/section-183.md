@@ -52,7 +52,7 @@ if the disclosure appears to the Board to be desirable or expedient in the inter
   which the Board has instituted or in which it has a right to be heard,
 - (e) with a view to the institution of, or otherwise for the purposes of, any disciplinary proceedings relating to the exercise of his professional duties by a solicitor, an actuary, an accountant or an insolvency practitioner,
 - (f) with a view to the institution of, or otherwise for the purpose of, any disciplinary proceedings relating to the exercise by a public servant of his functions, or
-- (g)[^key-c121e2f7f5b1f542a8ed3d2da18b668e] in pursuance of assimilated[^key-7801b606c835267414d0d513fdeecc87] law.
+- (g)[^c-c121e2f7f5b1f542a8ed3d2da18b668e] in pursuance of assimilated[^c-7801b606c835267414d0d513fdeecc87] law.
 
 (3) In paragraph (2)(f), “public servant” means an officer or servant of the Crown or of any prescribed authority.
 
@@ -83,6 +83,6 @@ if the disclosure appears to the Board to be desirable or expedient in the inter
 
 ## Annotations
 
-[^key-c121e2f7f5b1f542a8ed3d2da18b668e]: Textual amendment: [Art. 183(2)(g)](https://www.legislation.gov.uk/nisi/2005/255/article/183/2/g) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/193/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c121e2f7f5b1f542a8ed3d2da18b668e]: Textual amendment: [Art. 183(2)(g)](https://www.legislation.gov.uk/nisi/2005/255/article/183/2/g) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/193/regulation/5/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7801b606c835267414d0d513fdeecc87]: Textual amendment: Word in [art. 183(2)(g)](https://www.legislation.gov.uk/nisi/2005/255/article/183/2/g) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 58(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/58/2/b)
+[^c-7801b606c835267414d0d513fdeecc87]: Textual amendment: Word in [art. 183(2)(g)](https://www.legislation.gov.uk/nisi/2005/255/article/183/2/g) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 58(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/58/2/b)

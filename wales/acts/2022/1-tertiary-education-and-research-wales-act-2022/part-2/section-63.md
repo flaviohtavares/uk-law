@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Area inspections[^key-b8ba483e09124283766616cc4534b181][^key-fc28162a081eba3283efeefc142641ba][^key-557cccb9bb0d7fea16317c8908a8b8de]
+## 63. Area inspections[^c-b8ba483e09124283766616cc4534b181][^c-fc28162a081eba3283efeefc142641ba][^c-557cccb9bb0d7fea16317c8908a8b8de]
 
 *Extent: E+W*
 
@@ -74,8 +74,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b8ba483e09124283766616cc4534b181]: Commencement: S. 63 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b8ba483e09124283766616cc4534b181]: Commencement: S. 63 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-fc28162a081eba3283efeefc142641ba]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2022/1/section/63) in force at 1.11.2023 for specified purposes by [S.I. 2023/1106](https://www.legislation.gov.uk/wsi/2023/1106), [art. 2](https://www.legislation.gov.uk/wsi/2023/1106/article/2)
+[^c-fc28162a081eba3283efeefc142641ba]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2022/1/section/63) in force at 1.11.2023 for specified purposes by [S.I. 2023/1106](https://www.legislation.gov.uk/wsi/2023/1106), [art. 2](https://www.legislation.gov.uk/wsi/2023/1106/article/2)
 
-[^key-557cccb9bb0d7fea16317c8908a8b8de]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2022/1/section/63) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(g)](https://www.legislation.gov.uk/wsi/2026/62/article/2/g) (with [art. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
+[^c-557cccb9bb0d7fea16317c8908a8b8de]: Commencement: [S. 63](https://www.legislation.gov.uk/asc/2022/1/section/63) in force at 1.4.2026 in so far as not already in force by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(g)](https://www.legislation.gov.uk/wsi/2026/62/article/2/g) (with [art. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))

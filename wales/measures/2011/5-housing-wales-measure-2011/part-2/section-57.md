@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Grounds for imposition[^key-61b054a92c7d8cc8644240d3866abbad][^key-81eb6c6f434ffdacf0b3a671e41c2cee]
+## 57. Grounds for imposition[^c-61b054a92c7d8cc8644240d3866abbad][^c-81eb6c6f434ffdacf0b3a671e41c2cee]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ After section 50G of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-61b054a92c7d8cc8644240d3866abbad]: Commencement: [S. 57](https://www.legislation.gov.uk/mwa/2011/5/section/57) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(k)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/k)
+[^c-61b054a92c7d8cc8644240d3866abbad]: Commencement: [S. 57](https://www.legislation.gov.uk/mwa/2011/5/section/57) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(k)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/k)
 
-[^key-81eb6c6f434ffdacf0b3a671e41c2cee]: Commencement: [S. 57](https://www.legislation.gov.uk/mwa/2011/5/section/57) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/f)
+[^c-81eb6c6f434ffdacf0b3a671e41c2cee]: Commencement: [S. 57](https://www.legislation.gov.uk/mwa/2011/5/section/57) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(f)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/f)

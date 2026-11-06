@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004[^key-ec85dcd0d69f1de8301a16278812488b]
+## 101. Travelling Expenses and Remission of Charges Regulations (Northern Ireland) 2004[^c-ec85dcd0d69f1de8301a16278812488b]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec85dcd0d69f1de8301a16278812488b]: Commencement: Reg. 101 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-ec85dcd0d69f1de8301a16278812488b]: Commencement: Reg. 101 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00164]: Footnote: [S.R. (N.I.) 2004/91](https://www.legislation.gov.uk/nisr/2004/91).

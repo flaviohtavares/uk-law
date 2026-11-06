@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Constitution of governing bodies: maintained schools in England[^key-3afa86a5c797329695be27df46cda647]
+## 38. Constitution of governing bodies: maintained schools in England[^c-3afa86a5c797329695be27df46cda647]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3afa86a5c797329695be27df46cda647]: Commencement: S. 38 in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1087/article/5)) (as amended (9.7.2018) by [The Education Act 2011 (Commencement No. 4 and Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/809)](https://www.legislation.gov.uk/uksi/2018/809), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/809/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/809/article/2))
+[^c-3afa86a5c797329695be27df46cda647]: Commencement: S. 38 in force at 1.9.2012 by [S.I. 2012/1087](https://www.legislation.gov.uk/uksi/2012/1087), [art. 3](https://www.legislation.gov.uk/uksi/2012/1087/article/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1087/article/5)) (as amended (9.7.2018) by [The Education Act 2011 (Commencement No. 4 and Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/809)](https://www.legislation.gov.uk/uksi/2018/809), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/809/article/1/2), [2](https://www.legislation.gov.uk/uksi/2018/809/article/2))

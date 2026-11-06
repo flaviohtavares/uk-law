@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Calculation of amount of accrued pension for purpose of phased retirement[^key-1787167ad8c5712fc28995d94deeb2b9]
+## 45. Calculation of amount of accrued pension for purpose of phased retirement[^c-1787167ad8c5712fc28995d94deeb2b9]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1787167ad8c5712fc28995d94deeb2b9]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2014/292/regulation/45) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-1787167ad8c5712fc28995d94deeb2b9]: Commencement: [Reg. 45](https://www.legislation.gov.uk/ssi/2014/292/regulation/45) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

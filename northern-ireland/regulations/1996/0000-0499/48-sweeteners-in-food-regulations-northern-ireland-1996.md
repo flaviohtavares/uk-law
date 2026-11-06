@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health and Social Services in exercise of the powers conferred on it by Articles 15(1)(*a*) and (*e*), 16(1), 25(1) and (3), 26(3) and 47(2) of, and paragraph 1 of Schedule 1 to, the Food Safety (Northern Ireland) Order 1991[^f00001] and of all other powers enabling it in that behalf and after consultation in accordance with Article 47(3) of that Order with such organisations as appear to it to be representative of interests likely to be substantially affected by these Regulations, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-34af87314b11f60491d83ed32d005b21]
+## 1. Citation and commencement[^c-34af87314b11f60491d83ed32d005b21]
 
 These Regulations may be cited as the Sweeteners in Food Regulations (Northern Ireland) 1996 and shall come into operation on 22nd April 1996.
 
-## 2. Interpretation[^key-e4b2f77170a52905874fdcff6367dee8]
+## 2. Interpretation[^c-e4b2f77170a52905874fdcff6367dee8]
 
 (1) In these Regulations—
 
@@ -76,7 +76,7 @@ and other expressions used in these Regulations and in Directive 94/35/EC have t
 - (c) in column 4, the maximum usable dose indicated in relation to a food is the maximum amount, in milligrams, of permitted sweetener per kilogram or, as the case may be, per litre of that food which is ready to eat having been prepared according to any instructions for use;
 - (d) in column 4, “*quantum satis*” means that no maximum level of permitted sweetener in or on a corresponding food is specified but that in or on such food a permitted sweetener may be used in accordance with good manufacturing practice at a level not higher than is necessary to achieve the intended purpose and provided that such use does not mislead the consumer.
 
-## 3. Sale and use of sweeteners[^key-7e162f980bf3410c3d85f4f6bf38f79b]
+## 3. Sale and use of sweeteners[^c-7e162f980bf3410c3d85f4f6bf38f79b]
 
 (1) Subject to regulation 4, no person shall sell any sweetener which is intended—
 
@@ -91,7 +91,7 @@ other than a permitted sweetener.
 
 (4) No person shall use any permitted sweetener in or on any food for infants or young children as specified in Council Directive [89/398/EEC](https://www.legislation.gov.uk/european/directive/1989/0398)[^f00004] on the approximation of the laws of the member States relating to foodstuffs intended for particular nutritional uses.
 
-## 4. Sale of table-top sweeteners[^key-039f1bb71ada9926db69f112275bdc31]
+## 4. Sale of table-top sweeteners[^c-039f1bb71ada9926db69f112275bdc31]
 
 No person shall sell any table-top sweetener unless—
 
@@ -101,28 +101,28 @@ No person shall sell any table-top sweetener unless—
   - (ii) where it contains polyols, with the warning “excessive consumption may induce laxative effects”, and
   - (iii) where it contains aspartame, with the warning “contains a source of phenylalanine”.
 
-## 5. Sale of food containing sweeteners[^key-a72509d956c438e82f2ca1ab28f00e39]
+## 5. Sale of food containing sweeteners[^c-a72509d956c438e82f2ca1ab28f00e39]
 
 No person shall sell any food having in it or on it any added sweetener other than a permitted sweetener which has been used in or on that food without contravening any of the provisions of paragraphs (2), (3) and (4) of regulation 3.
 
-## 6. Condemnation of food[^key-f1b06e678ca3039bc02d90fb9e54bdc7]
+## 6. Condemnation of food[^c-f1b06e678ca3039bc02d90fb9e54bdc7]
 
 Where any food is certified by a food analyst as being food which it is an offence against these Regulations to sell, that food may be treated for the purposes of Article 8 of the Order (inspection and seizure of suspected food) as failing to comply with food safety requirements, and Article 7(2) of the Order shall apply for the purposes of these Regulations as it applies for the purposes of the Order.
 
-## 7. Offences, penalties and enforcement[^key-ec885f549e7ba7f50c63a9f25094f780]
+## 7. Offences, penalties and enforcement[^c-ec885f549e7ba7f50c63a9f25094f780]
 
 (1) If any person contravenes any of the provisions of these Regulations he shall be guilty of an offence, and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (2) These Regulations shall be enforced and executed by each district council within its district.
 
-## 8. Defence in relation to exports[^key-1bc86a71cbe3bd70bdb3e515d0c8b838]
+## 8. Defence in relation to exports[^c-1bc86a71cbe3bd70bdb3e515d0c8b838]
 
 In any proceedings for an offence under these Regulations it shall be a defence for the person charged to prove—
 
 - (a) that the food or, as the case may be, sweetener in respect of which the offence is alleged to have been committed was intended for export to a country which has legislation analogous to these Regulations and that such food or sweetener complies with that legislation; and
 - (b) in the case of export to another member State, that the legislation complies with Council Directive [89/107/EEC](https://www.legislation.gov.uk/european/directive/1989/0107)[^f00005] on the approximation of the laws of the member States concerning food additives authorised for use in foodstuffs intended for human consumption, Directive 94/35/EC and Directive 95/31/EC.
 
-## 9. Application of various provisions of the Order[^key-59d860dbd8674d884cf79ba6f5d7ecd0]
+## 9. Application of various provisions of the Order[^c-59d860dbd8674d884cf79ba6f5d7ecd0]
 
 The following provisions of the Order shall apply for the purposes of these Regulations as they apply for the purposes of Articles 7, 13 and 14 of the Order and any reference in them to the Order shall be construed as a reference to these Regulations:
 
@@ -134,7 +134,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 - (f) Article 30(8) (which relates to documentary evidence);
 - (g) Article 34 (obstruction etc. of officers).
 
-## 10. Revocation and amendments[^key-f8524f532a61f1ae446b738c7fde1390]
+## 10. Revocation and amendments[^c-f8524f532a61f1ae446b738c7fde1390]
 
 (1) The Regulations and order specified in columns 1 and 2 of Schedule 2 shall be revoked to the extent specified in column 3 of that Schedule.
 
@@ -148,7 +148,7 @@ The following provisions of the Order shall apply for the purposes of these Regu
 
 (4) In the Food Additives Labelling Regulations (Northern Ireland) 1992[^f00008], in Part II of Schedule 1 (categories of food additives), in subparagraph (*n*), for “1983” there shall be substituted “1996”.
 
-## 11. Transitional provision and exemption[^key-7a56552844bcc4f8d985207d5f1ddaf8]
+## 11. Transitional provision and exemption[^c-7a56552844bcc4f8d985207d5f1ddaf8]
 
 (1) In any proceedings for an offence against these Regulations it shall be a defence to prove that—
 
@@ -172,7 +172,7 @@ Assistant Secretary
 
 28th February 1996.
 
-## SCHEDULE 1 — Permitted sweeteners and the foods in or on which they may be used[^key-a0335c0a05eb6f59df6b27c2cc83c6fb]
+## SCHEDULE 1 — Permitted sweeteners and the foods in or on which they may be used[^c-a0335c0a05eb6f59df6b27c2cc83c6fb]
 
 Regulations 2(1) and (3)and 3(3)
 
@@ -346,7 +346,7 @@ Regulations 2(1) and (3)and 3(3)
 
 [^f00009][^f00010]
 
-## SCHEDULE 2 — Revocations[^key-bf7301b1ff47f36eb6a7e75b45513efc]
+## SCHEDULE 2 — Revocations[^c-bf7301b1ff47f36eb6a7e75b45513efc]
 
 Regulation 10(1)
 
@@ -393,33 +393,33 @@ The Regulation also—
 
 [^f00001]: Footnote: S.I. [1991/762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762). *See* Article 2(2) for the definition of “regulations” and “the Department concerned”
 
-[^key-34af87314b11f60491d83ed32d005b21]: Commencement: Reg. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-34af87314b11f60491d83ed32d005b21]: Commencement: Reg. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
-[^key-e4b2f77170a52905874fdcff6367dee8]: Commencement: Reg. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-e4b2f77170a52905874fdcff6367dee8]: Commencement: Reg. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
 [^f00002]: Footnote: O.J. No. L237, 10.9.94, p. 3
 
 [^f00003]: Footnote: O.J. No. L178, 28.7.95, p. 1
 
-[^key-7e162f980bf3410c3d85f4f6bf38f79b]: Commencement: Reg. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-7e162f980bf3410c3d85f4f6bf38f79b]: Commencement: Reg. 3 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L186, 30.6.89, p. 27
 
-[^key-039f1bb71ada9926db69f112275bdc31]: Commencement: Reg. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-039f1bb71ada9926db69f112275bdc31]: Commencement: Reg. 4 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
-[^key-a72509d956c438e82f2ca1ab28f00e39]: Commencement: Reg. 5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-a72509d956c438e82f2ca1ab28f00e39]: Commencement: Reg. 5 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
-[^key-f1b06e678ca3039bc02d90fb9e54bdc7]: Commencement: Reg. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-f1b06e678ca3039bc02d90fb9e54bdc7]: Commencement: Reg. 6 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
-[^key-ec885f549e7ba7f50c63a9f25094f780]: Commencement: Reg. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-ec885f549e7ba7f50c63a9f25094f780]: Commencement: Reg. 7 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
-[^key-1bc86a71cbe3bd70bdb3e515d0c8b838]: Commencement: Reg. 8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-1bc86a71cbe3bd70bdb3e515d0c8b838]: Commencement: Reg. 8 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
 [^f00005]: Footnote: O.J. No. L40, 11.2.89, p. 27
 
-[^key-59d860dbd8674d884cf79ba6f5d7ecd0]: Commencement: Reg. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-59d860dbd8674d884cf79ba6f5d7ecd0]: Commencement: Reg. 9 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
-[^key-f8524f532a61f1ae446b738c7fde1390]: Commencement: Reg. 10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-f8524f532a61f1ae446b738c7fde1390]: Commencement: Reg. 10 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
 [^f00006]: Footnote: [S.R. 1982 No. 105](https://www.legislation.gov.uk/nisr/1982/105); the relevant amending Regulations are [S.R. 1983 No. 265](https://www.legislation.gov.uk/nisr/1983/265)
 
@@ -427,12 +427,12 @@ The Regulation also—
 
 [^f00008]: Footnote: [S.R. 1992 No. 417](https://www.legislation.gov.uk/nisr/1992/417)
 
-[^key-7a56552844bcc4f8d985207d5f1ddaf8]: Commencement: Reg. 11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-7a56552844bcc4f8d985207d5f1ddaf8]: Commencement: Reg. 11 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
-[^key-a0335c0a05eb6f59df6b27c2cc83c6fb]: Commencement: Sch. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-a0335c0a05eb6f59df6b27c2cc83c6fb]: Commencement: Sch. 1 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
 
 [^f00009]: Footnote: The maximum usable doses for cyclamic acid and its Na and Ca salts are expressed in terms of the free acid
 
 [^f00010]: Footnote: The maximum usable doses for saccharin and its Na, K and Ca salts are expressed in terms of the free imide
 
-[^key-bf7301b1ff47f36eb6a7e75b45513efc]: Commencement: Sch. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)
+[^c-bf7301b1ff47f36eb6a7e75b45513efc]: Commencement: Sch. 2 in operation at 22.4.1996, see [reg. 1](https://www.legislation.gov.uk/nisr/1996/48/regulation/1)

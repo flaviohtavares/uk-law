@@ -469,7 +469,7 @@ Section 2
 
 **50.** The Co-operative and Community Benefit Societies Act 2014 is amended as follows.
 
-**51.**[^key-de742446bcbcf36eb51e0469c152d138] In section 106 (appointment of inspectors and calling of special meetings), omit subsection (2).
+**51.**[^c-de742446bcbcf36eb51e0469c152d138] In section 106 (appointment of inspectors and calling of special meetings), omit subsection (2).
 
 **52.** (1) Section 118 (power to apply provisions about company arrangements and administration) is amended as follows.
 
@@ -504,7 +504,7 @@ Section 2
 
 ### The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)
 
-**54.**[^key-4be2b1127392dad6fa9bf11d61a95cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-4be2b1127392dad6fa9bf11d61a95cfa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The International Interests in Aircraft Equipment (Cape Town Convention) Regulations 2015
 
@@ -531,6 +531,6 @@ Section 2
 
 ## Annotations
 
-[^key-de742446bcbcf36eb51e0469c152d138]: Commencement: Sch. 3 para. 51 in force at 18.7.2020 by [S.I. 2020/744](https://www.legislation.gov.uk/uksi/2020/744), [art. 3](https://www.legislation.gov.uk/uksi/2020/744/article/3)
+[^c-de742446bcbcf36eb51e0469c152d138]: Commencement: Sch. 3 para. 51 in force at 18.7.2020 by [S.I. 2020/744](https://www.legislation.gov.uk/uksi/2020/744), [art. 3](https://www.legislation.gov.uk/uksi/2020/744/article/3)
 
-[^key-4be2b1127392dad6fa9bf11d61a95cfa]: Textual amendment: Sch. 3 para. 54 revoked (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [4](https://www.legislation.gov.uk/uksi/2020/744/article/4)
+[^c-4be2b1127392dad6fa9bf11d61a95cfa]: Textual amendment: Sch. 3 para. 54 revoked (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [4](https://www.legislation.gov.uk/uksi/2020/744/article/4)

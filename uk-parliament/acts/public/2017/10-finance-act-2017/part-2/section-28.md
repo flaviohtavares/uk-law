@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Meaning of “chargeable soft drink”[^key-e7369d992002b5690186686ebf24c377]
+## 28. Meaning of “chargeable soft drink”[^c-e7369d992002b5690186686ebf24c377]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7369d992002b5690186686ebf24c377]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/10/section/28) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-e7369d992002b5690186686ebf24c377]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/10/section/28) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

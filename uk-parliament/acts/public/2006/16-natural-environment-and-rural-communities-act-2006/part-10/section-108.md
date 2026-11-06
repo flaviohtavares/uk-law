@@ -29,7 +29,7 @@ summary: ''
 - (a) amendments affecting any provisions of the Wildlife and Countryside Act 1981 (c. 69) that extend to the territorial waters adjacent to England and Wales extend also to those waters, and
 - (b) paragraphs 1, 2, 5 and 6 of Schedule 6 (wildlife offences: time limits for proceedings), and section 53 so far as necessary, extend to any place to which the enactments amended by Schedule 6 extend.
 
-(4)[^key-d02a022fc0235e91f77495b384435584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-d02a022fc0235e91f77495b384435584] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Part 8 (flexible administrative arrangements)—
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d02a022fc0235e91f77495b384435584]: Textual amendment: [S. 108(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/108/4) repealed (2.7.2012) by [The Inland Waterways Advisory Council (Abolition) Order 2012 (S.I. 2012/1658)](https://www.legislation.gov.uk/uksi/2012/1658), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2012/1658/article/1/b), [5](https://www.legislation.gov.uk/uksi/2012/1658/article/5), [Schs.](https://www.legislation.gov.uk/uksi/2012/1658/schedule)
+[^c-d02a022fc0235e91f77495b384435584]: Textual amendment: [S. 108(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/108/4) repealed (2.7.2012) by [The Inland Waterways Advisory Council (Abolition) Order 2012 (S.I. 2012/1658)](https://www.legislation.gov.uk/uksi/2012/1658), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2012/1658/article/1/b), [5](https://www.legislation.gov.uk/uksi/2012/1658/article/5), [Schs.](https://www.legislation.gov.uk/uksi/2012/1658/schedule)

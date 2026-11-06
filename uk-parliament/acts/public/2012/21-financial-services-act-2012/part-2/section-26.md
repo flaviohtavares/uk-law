@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Control over authorised persons[^key-de80e3f1114e16bec5cc698d770f1af3]
+## 26. Control over authorised persons[^c-de80e3f1114e16bec5cc698d770f1af3]
 
 *Extent: E+W+S+N.I.*
 
@@ -155,4 +155,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de80e3f1114e16bec5cc698d770f1af3]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2012/21/section/26) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-de80e3f1114e16bec5cc698d770f1af3]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2012/21/section/26) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

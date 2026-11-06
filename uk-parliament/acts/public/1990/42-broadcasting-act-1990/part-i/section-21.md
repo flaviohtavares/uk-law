@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Restriction on changes in control over Channel 3 licence holder.[^key-44913a70087f36fcd98212dcf0eea017]
+## 21. Restriction on changes in control over Channel 3 licence holder.[^c-44913a70087f36fcd98212dcf0eea017]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,13 +27,13 @@ summary: ''
   - (ii) an associated programme provider,
 
   takes place within the relevant period, and
-- (b) that change takes place without having been previously approved for the purposes of this section by OFCOM[^key-85bfe42dbd9ad20ce9856ff614df2053] ,
+- (b) that change takes place without having been previously approved for the purposes of this section by OFCOM[^c-85bfe42dbd9ad20ce9856ff614df2053] ,
 
 then (subject to subsection (4)) OFCOM may, if the licence has not yet been granted, refuse to grant it to the body referred to in paragraph (a)(i) above or, if it has already been granted, serve on that body a notice revoking it.
 
 (2) In subsection (1)—
 
-- “**associated programme provider**”, in relation to such a body as is mentioned in paragraph (a)(i) of that subsection, means any body which is connected with that body and is or is likely to be involved, to a substantial extent, in the provision of the programmes included[^key-e213d3220642d64d93a5b1bdf106c4f0] in the licensed service; and
+- “**associated programme provider**”, in relation to such a body as is mentioned in paragraph (a)(i) of that subsection, means any body which is connected with that body and is or is likely to be involved, to a substantial extent, in the provision of the programmes included[^c-e213d3220642d64d93a5b1bdf106c4f0] in the licensed service; and
 - “**the relevant period**”, in relation to a Channel 3 licence, means the period beginning with the date of the award of the licence and ending on the first anniversary of the date of its coming into force;
 
 and paragraph 3 in Part I of Schedule 2 to this Act shall have effect for the purposes of this subsection as if a body to which a Channel 3 licence has been awarded but not yet granted were the holder of such a licence.
@@ -51,8 +51,8 @@ and OFCOM may refuse so to approve any such change if, in any circumstances not 
 
 ## Annotations
 
-[^key-44913a70087f36fcd98212dcf0eea017]: Modification: Pt. 1: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/3/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-44913a70087f36fcd98212dcf0eea017]: Modification: Pt. 1: transfer of functions (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/1/paragraph/3/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-85bfe42dbd9ad20ce9856ff614df2053]: Textual amendment: Words in s. 21 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 11(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/11/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-85bfe42dbd9ad20ce9856ff614df2053]: Textual amendment: Words in s. 21 substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 11(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/11/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e213d3220642d64d93a5b1bdf106c4f0]: Textual amendment: Words in s. 21(2) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 11(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/11/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e213d3220642d64d93a5b1bdf106c4f0]: Textual amendment: Words in s. 21(2) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 15 para. 11(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/15/paragraph/11/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

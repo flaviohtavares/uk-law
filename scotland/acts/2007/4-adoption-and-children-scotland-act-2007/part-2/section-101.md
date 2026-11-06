@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Local authority to give notice of certain matters[^key-8f88cf7ca6e5458eb3da99db6ab8859d]
+## 101. Local authority to give notice of certain matters[^c-8f88cf7ca6e5458eb3da99db6ab8859d]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f88cf7ca6e5458eb3da99db6ab8859d]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2007/4/section/101) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^c-8f88cf7ca6e5458eb3da99db6ab8859d]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2007/4/section/101) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41A. Anonymous entries[^key-e242556b716921d79fbcfed12747c79d]
+## 41A. Anonymous entries[^c-e242556b716921d79fbcfed12747c79d]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e242556b716921d79fbcfed12747c79d]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/uksi/2001/497/regulation/41A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2007/925/regulation/15)
+[^c-e242556b716921d79fbcfed12747c79d]: Textual amendment: [Reg. 41A](https://www.legislation.gov.uk/uksi/2001/497/regulation/41A) inserted (1.4.2007) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [15](https://www.legislation.gov.uk/uksi/2007/925/regulation/15)

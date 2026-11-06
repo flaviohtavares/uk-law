@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Modification of Children Order in relation to adoption[^key-a1ab69c6bcacd48d172727f1cbb14a11]
+## 52. Modification of Children Order in relation to adoption[^c-a1ab69c6bcacd48d172727f1cbb14a11]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ regulations may provide for the following provisions of the Children Order to ap
 
 ## Annotations
 
-[^key-a1ab69c6bcacd48d172727f1cbb14a11]: Commencement: S. 52 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-a1ab69c6bcacd48d172727f1cbb14a11]: Commencement: S. 52 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

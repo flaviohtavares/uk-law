@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Software and firmware updates[^key-74614c1b587a729031cf4d4e23945e29]
+## 10. Software and firmware updates[^c-74614c1b587a729031cf4d4e23945e29]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74614c1b587a729031cf4d4e23945e29]: Commencement: Reg. 10 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)
+[^c-74614c1b587a729031cf4d4e23945e29]: Commencement: Reg. 10 in force at 10.4.2026, see [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/318/regulation/2/1/a)

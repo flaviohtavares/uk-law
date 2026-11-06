@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Exceptions[^key-c8237fc153d490df5e78305d4851a86f]
+## 6. Exceptions[^c-c8237fc153d490df5e78305d4851a86f]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ A local education authority’s LEA budget or schools budget must not include th
 
 ## Annotations
 
-[^key-c8237fc153d490df5e78305d4851a86f]: Commencement: Reg. 6 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-c8237fc153d490df5e78305d4851a86f]: Commencement: Reg. 6 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00028]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27). Section 26 has been amended by section 8 of, and Schedule 5 to, the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), and sections 288 and 423 of and Schedule 34 to, the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29), and sections 270 and 274 of, and Schedule 31 to, the Transport Act [2000 (c.38)](https://www.legislation.gov.uk/ukpga/2000/38).
 

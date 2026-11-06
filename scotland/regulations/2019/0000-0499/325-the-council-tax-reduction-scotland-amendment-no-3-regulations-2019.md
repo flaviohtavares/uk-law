@@ -46,15 +46,15 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 80 and 113(1) and paragraph 1 of schedule 2 of the Local Government Finance Act 1992 [^c23895471] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-5155e3a79e094053fe811d1fd9867e95]
+## 1. Citation and commencement[^c-5155e3a79e094053fe811d1fd9867e95]
 
 These Regulations may be cited as the Council Tax Reduction (Scotland) Amendment (No. 3) Regulations 2019 and come into force on 26 November 2019.
 
-## 2. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^key-af9474623e27f90fdcba2f802656ed55]
+## 2. Amendment of the Council Tax Reduction (Scotland) Regulations 2012[^c-af9474623e27f90fdcba2f802656ed55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^key-a2662bff31222d0df1d454127b301c22]
+## 3. Amendment of the Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012[^c-a2662bff31222d0df1d454127b301c22]
 
 The Council Tax Reduction (State Pension Credit) (Scotland) Regulations 2012 [^c23895591] are amended in accordance with paragraphs (a) and (b)—
 
@@ -105,11 +105,11 @@ Regulation 3 makes equivalent provision to that in regulation 2 which relates to
 
 [^c23895471]: Marginal citation: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14). Section 80 and paragraph 1 of schedule 2 were amended by paragraph 176 of schedule 13 of the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). There are other amendments to section 80 and amendments to section 113(1) that are not relevant to these Regulations. The functions of the Secretary of State, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-5155e3a79e094053fe811d1fd9867e95]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/325/regulation/1) in force at 26.11.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/325/regulation/1)
+[^c-5155e3a79e094053fe811d1fd9867e95]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/325/regulation/1) in force at 26.11.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/325/regulation/1)
 
-[^key-af9474623e27f90fdcba2f802656ed55]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/325/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
+[^c-af9474623e27f90fdcba2f802656ed55]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/325/regulation/2) revoked (1.4.2022) by [The Council Tax Reduction (Scotland) Regulations 2021 (S.S.I. 2021/249)](https://www.legislation.gov.uk/ssi/2021/249), [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1), [sch. 6](https://www.legislation.gov.uk/ssi/2021/249/schedule/6) (with [regs. 2](https://www.legislation.gov.uk/ssi/2021/249/regulation/2), [97-101](https://www.legislation.gov.uk/ssi/2021/249/regulation/97))
 
-[^key-a2662bff31222d0df1d454127b301c22]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/325/regulation/3) in force at 26.11.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/325/regulation/1)
+[^c-a2662bff31222d0df1d454127b301c22]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/325/regulation/3) in force at 26.11.2019, see [reg. 1](https://www.legislation.gov.uk/ssi/2019/325/regulation/1)
 
 [^c23895591]: Marginal citation: [S.S.I. 2012/319](https://www.legislation.gov.uk/ssi/2012/319).
 

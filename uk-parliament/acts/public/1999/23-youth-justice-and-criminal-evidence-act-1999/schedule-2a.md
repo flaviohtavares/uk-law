@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Restriction of reporting of criminal proceedings for lifetime of witnesses and victims under 18: providers of information society services[^key-fd5718d5412e014ebcd34bb3cd33fc10]
+## SCHEDULE 2A — Restriction of reporting of criminal proceedings for lifetime of witnesses and victims under 18: providers of information society services[^c-fd5718d5412e014ebcd34bb3cd33fc10]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,11 +24,11 @@ Section 49
 
 ### Domestic service providers: extension of liability
 
-**1.**[^key-2ec79a28028fbc002d7d55420a35c23b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2ec79a28028fbc002d7d55420a35c23b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Non-UK service providers: restriction on institution of proceedings
 
-**2.**[^key-383b1b23d620f187568d9a4830b268ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-383b1b23d620f187568d9a4830b268ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exceptions for mere conduits
 
@@ -100,14 +100,14 @@ and “**the E-Commerce Directive**” means Directive [2000/31/EC](https://www.
 
 (4) “**Service provider**” means a person providing an information society service.
 
-(5)[^key-8ab796f137019ad8e53bf3116ca118bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8ab796f137019ad8e53bf3116ca118bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fd5718d5412e014ebcd34bb3cd33fc10]: Textual amendment: Sch. 2A inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2015/2/schedule/15/paragraph/2); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/81)
+[^c-fd5718d5412e014ebcd34bb3cd33fc10]: Textual amendment: Sch. 2A inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2015/2/schedule/15/paragraph/2); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 81](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/81)
 
-[^key-2ec79a28028fbc002d7d55420a35c23b]: Textual amendment: Sch. 2A para. 1 omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/835/regulation/4/a)
+[^c-2ec79a28028fbc002d7d55420a35c23b]: Textual amendment: Sch. 2A para. 1 omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/835/regulation/4/a)
 
-[^key-383b1b23d620f187568d9a4830b268ce]: Textual amendment: Sch. 2A para. 2 omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/835/regulation/4/b)
+[^c-383b1b23d620f187568d9a4830b268ce]: Textual amendment: Sch. 2A para. 2 omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/835/regulation/4/b)
 
-[^key-8ab796f137019ad8e53bf3116ca118bc]: Textual amendment: Sch. 2A para. 6(5) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2021/835/regulation/4/c)
+[^c-8ab796f137019ad8e53bf3116ca118bc]: Textual amendment: Sch. 2A para. 6(5) omitted (29.7.2021) by virtue of [The Criminal Justice (Electronic Commerce) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/835)](https://www.legislation.gov.uk/uksi/2021/835), [regs. 1](https://www.legislation.gov.uk/uksi/2021/835/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2021/835/regulation/4/c)

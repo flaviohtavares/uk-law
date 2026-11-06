@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Consumption of alcohol by a child or young person[^key-fb8363a3fb8b2996caa3a7e63d571d03]
+## 106. Consumption of alcohol by a child or young person[^c-fb8363a3fb8b2996caa3a7e63d571d03]
 
 *Extent: S*
 
 (1) A child or young person who knowingly consumes alcohol on any relevant premises commits an offence.
 
-(2) Any responsible person who [^key-31304476801e96b6be4006553d929e39]... allows a child or young person to consume alcohol on any relevant premises commits an offence.
+(2) Any responsible person who [^c-31304476801e96b6be4006553d929e39]... allows a child or young person to consume alcohol on any relevant premises commits an offence.
 
 (3) Subsections (1) and (2) do not apply to the consumption of beer, wine, cider or perry by a young person along with a meal supplied on relevant premises.
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fb8363a3fb8b2996caa3a7e63d571d03]: Commencement: S. 106 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-fb8363a3fb8b2996caa3a7e63d571d03]: Commencement: S. 106 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
-[^key-31304476801e96b6be4006553d929e39]: Textual amendment: Word in s. 106(2) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(2)(c)](https://www.legislation.gov.uk/asp/2010/13/section/195/2/c), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-31304476801e96b6be4006553d929e39]: Textual amendment: Word in s. 106(2) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(2)(c)](https://www.legislation.gov.uk/asp/2010/13/section/195/2/c), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

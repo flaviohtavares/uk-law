@@ -35,135 +35,135 @@ establishing the European Year of Equal Opportunities for All (2007) — towards
 
 (Text with EEA relevance) (revoked)
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35caf2ab186380a1e4138a36b5d571fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. The European Year[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 1. The European Year[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Objectives[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 2. Objectives[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Content of actions[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 3. Content of actions[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Gender mainstreaming[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 4. Gender mainstreaming[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Cooperation and implementation at Community level[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 5. Cooperation and implementation at Community level[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Cooperation and implementation at national level[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 6. Cooperation and implementation at national level[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Committee[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 7. Committee[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Financial arrangements[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 8. Financial arrangements[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Application and selection procedure[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 9. Application and selection procedure[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Consistency and complementarity[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 10. Consistency and complementarity[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Participation of non-Member States[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 11. Participation of non-Member States[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Budget[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 12. Budget[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. International cooperation[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 13. International cooperation[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Monitoring and evaluation[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 14. Monitoring and evaluation[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Entry into force[^key-35caf2ab186380a1e4138a36b5d571fc]
+## Article 15. Entry into force[^c-35caf2ab186380a1e4138a36b5d571fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-35caf2ab186380a1e4138a36b5d571fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Details of the actions referred to in Article 3[^key-35caf2ab186380a1e4138a36b5d571fc]
+## ANNEX — Details of the actions referred to in Article 3[^c-35caf2ab186380a1e4138a36b5d571fc]
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]I.
+[^c-35caf2ab186380a1e4138a36b5d571fc]I.
 
 Community-wide action
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]1.
+[^c-35caf2ab186380a1e4138a36b5d571fc]1.
 
 Meetings and events
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]2.
+[^c-35caf2ab186380a1e4138a36b5d571fc]2.
 
 Information and promotional campaigns involving:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]3.
+[^c-35caf2ab186380a1e4138a36b5d571fc]3.
 
 Other actions
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]4.
+[^c-35caf2ab186380a1e4138a36b5d571fc]4.
 
 Funding may be in the form of:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]II.
+[^c-35caf2ab186380a1e4138a36b5d571fc]II.
 
 Actions at national level
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]1.
+[^c-35caf2ab186380a1e4138a36b5d571fc]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]2.
+[^c-35caf2ab186380a1e4138a36b5d571fc]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]3.
+[^c-35caf2ab186380a1e4138a36b5d571fc]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]4.
+[^c-35caf2ab186380a1e4138a36b5d571fc]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]5.
+[^c-35caf2ab186380a1e4138a36b5d571fc]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]6.
+[^c-35caf2ab186380a1e4138a36b5d571fc]6.
 
 Actions at local, regional or national level may include:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]III.
+[^c-35caf2ab186380a1e4138a36b5d571fc]III.
 
 Action for which no financial aid from the general budget of the European Union is available
 
@@ -171,4 +171,4 @@ Action for which no financial aid from the general budget of the European Union 
 
 ## Annotations
 
-[^key-35caf2ab186380a1e4138a36b5d571fc]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/5) and [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/305/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35caf2ab186380a1e4138a36b5d571fc]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/5) and [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/305/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

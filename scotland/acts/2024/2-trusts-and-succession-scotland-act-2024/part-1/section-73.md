@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Completion of title by beneficiary[^key-aac649ca8672f0745f1d06a3e52c98c7]
+## 73. Completion of title by beneficiary[^c-aac649ca8672f0745f1d06a3e52c98c7]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aac649ca8672f0745f1d06a3e52c98c7]: Commencement: S. 73 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-aac649ca8672f0745f1d06a3e52c98c7]: Commencement: S. 73 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a8e406c009eb66ab449e8cb2d6fa6a38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a8e406c009eb66ab449e8cb2d6fa6a38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The amendment made by subsection (1) has effect in relation to any land transaction of which the effective date is on or after 6 April 2011.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8e406c009eb66ab449e8cb2d6fa6a38]: Textual amendment: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2010/13/section/7/1) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(b)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/b) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))
+[^c-a8e406c009eb66ab449e8cb2d6fa6a38]: Textual amendment: [S. 7(1)](https://www.legislation.gov.uk/ukpga/2010/13/section/7/1) omitted (with effect in accordance with s. 2(2) of the amending Act) by virtue of [Stamp Duty Land Tax Act 2015 (c. 1)](https://www.legislation.gov.uk/ukpga/2015/1), [Sch. para. 21(b)](https://www.legislation.gov.uk/ukpga/2015/1/schedule/paragraph/21/b) (with [s. 2(3)-(6)](https://www.legislation.gov.uk/ukpga/2015/1/section/2/3))

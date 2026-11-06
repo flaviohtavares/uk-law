@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Offence of carrying out hymenoplasty: Northern Ireland[^key-d8f8e5d45df655002fd09a21f924f086][^key-c0b77edf7ad0249a18f3b94c1891769e]
+## 156. Offence of carrying out hymenoplasty: Northern Ireland[^c-d8f8e5d45df655002fd09a21f924f086][^c-c0b77edf7ad0249a18f3b94c1891769e]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8f8e5d45df655002fd09a21f924f086]: Commencement: S. 156 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-d8f8e5d45df655002fd09a21f924f086]: Commencement: S. 156 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-c0b77edf7ad0249a18f3b94c1891769e]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2022/31/section/156) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c0b77edf7ad0249a18f3b94c1891769e]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2022/31/section/156) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

@@ -46,7 +46,7 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations in exercise of the powers conferred by sections 15(8) and 109(4) and (5) of the Courts Act 2003[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-93b883cfb6c8316bd30ae701c8c88423]
+## 1. Citation, commencement and interpretation[^c-93b883cfb6c8316bd30ae701c8c88423]
 
 (1) These Regulations may be cited as the Justices’ Allowances Regulations 2015 and come into force on 1st August 2015.
 
@@ -54,15 +54,15 @@ The Lord Chancellor makes the following Regulations in exercise of the powers co
 
 - “claim” means a claim for a travelling, subsistence or financial loss allowance under section 15 of the Courts Act 2003.
 
-## 2. Requirements applying to lay justices who submit claims[^key-4f562fbbd403c853a6ad9fcf28757002]
+## 2. Requirements applying to lay justices who submit claims[^c-4f562fbbd403c853a6ad9fcf28757002]
 
-(1)[^key-284021a25c16774c7e5f2065f1f2feb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-284021a25c16774c7e5f2065f1f2feb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-284021a25c16774c7e5f2065f1f2feb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-284021a25c16774c7e5f2065f1f2feb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-284021a25c16774c7e5f2065f1f2feb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-284021a25c16774c7e5f2065f1f2feb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-2d001e730fa143a887850425598b0005] A lay justice who wishes to submit any claim must—
+(3A)[^c-2d001e730fa143a887850425598b0005] A lay justice who wishes to submit any claim must—
 
 - (a) do so in writing, and
 - (b) include the following particulars in relation to the claim—
@@ -93,13 +93,13 @@ The Lord Chancellor makes the following Regulations in exercise of the powers co
 - (c) evidence in relation to sub-paragraph (b), if applicable, and
 - (d) a declaration that they have suffered loss of earnings or social security benefits, or incurred any other expenditure, by reason of the performance of their duties as a lay justice.
 
-(4) A lay justice must submit[^key-97c88e8fc7f4ffebcc8c6ddc0236c10c] any claim within 1 month of the date on which the expenditure or loss to which the claim relates was incurred.
+(4) A lay justice must submit[^c-97c88e8fc7f4ffebcc8c6ddc0236c10c] any claim within 1 month of the date on which the expenditure or loss to which the claim relates was incurred.
 
-## 3. Transitional provision[^key-35ac62d39b6563fa795a968fe40bc768]
+## 3. Transitional provision[^c-35ac62d39b6563fa795a968fe40bc768]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-5fb253a33b1378ae4a657b85299685ae]
+## 4. Revocations[^c-5fb253a33b1378ae4a657b85299685ae]
 
 The Justices’ Allowances Regulations 1976[^f00002] and the Justices’ Allowances (Amendment) Regulations 1976[^f00003] are revoked, except to the extent necessary for the purposes of dealing with any claim submitted in accordance with those Regulations before 1st August 2015.
 
@@ -111,7 +111,7 @@ Ministry of Justice
 
 18th June 2015
 
-## SCHEDULE 1[^key-75bafee9a2e53866ae2507d7d996074a]
+## SCHEDULE 1[^c-75bafee9a2e53866ae2507d7d996074a]
 
 **No longer in force.**
 
@@ -119,7 +119,7 @@ Regulation 2(1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-ccd02b167065ca5080df2451eb1f620f]
+## SCHEDULE 2[^c-ccd02b167065ca5080df2451eb1f620f]
 
 **No longer in force.**
 
@@ -143,24 +143,24 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39). Section 15 has been amended by section 15(1) and paragraphs 308 and 317 of Schedule 4 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). Section 109 has been amended by section 15(1) of, and paragraphs 308 and 349 of Schedule 4 to, the Constitutional Reform Act 2005.
 
-[^key-93b883cfb6c8316bd30ae701c8c88423]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1423/regulation/1) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/1/1)
+[^c-93b883cfb6c8316bd30ae701c8c88423]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1423/regulation/1) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/1/1)
 
-[^key-4f562fbbd403c853a6ad9fcf28757002]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1423/regulation/2) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/1/1)
+[^c-4f562fbbd403c853a6ad9fcf28757002]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1423/regulation/2) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/1/1)
 
-[^key-284021a25c16774c7e5f2065f1f2feb4]: Textual amendment: [Reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/2/1) omitted (25.7.2023) by virtue of [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
+[^c-284021a25c16774c7e5f2065f1f2feb4]: Textual amendment: [Reg. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/2/1) omitted (25.7.2023) by virtue of [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
 
-[^key-2d001e730fa143a887850425598b0005]: Textual amendment: [Reg. 2(3A)-(3D)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/2/3A) inserted (25.7.2023) by [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
+[^c-2d001e730fa143a887850425598b0005]: Textual amendment: [Reg. 2(3A)-(3D)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/2/3A) inserted (25.7.2023) by [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
 
-[^key-97c88e8fc7f4ffebcc8c6ddc0236c10c]: Textual amendment: Word in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/2/4) substituted (25.7.2023) by [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
+[^c-97c88e8fc7f4ffebcc8c6ddc0236c10c]: Textual amendment: Word in [reg. 2(4)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/2/4) substituted (25.7.2023) by [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/2/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
 
-[^key-35ac62d39b6563fa795a968fe40bc768]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1423/regulation/3) omitted (25.7.2023) by virtue of [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
+[^c-35ac62d39b6563fa795a968fe40bc768]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1423/regulation/3) omitted (25.7.2023) by virtue of [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
 
-[^key-5fb253a33b1378ae4a657b85299685ae]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1423/regulation/4) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/1/1)
+[^c-5fb253a33b1378ae4a657b85299685ae]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1423/regulation/4) in force at 1.8.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1423/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1976/117](https://www.legislation.gov.uk/uksi/1976/117), as amended by [S.I. 1976/2118](https://www.legislation.gov.uk/uksi/1976/2118) and [S.I. 1985/1383](https://www.legislation.gov.uk/uksi/1985/1383). [S.I. 1976/117](https://www.legislation.gov.uk/uksi/1976/117) was made under the powers contained in Part III of Schedule 1 to the Administration of Justice Act [1973 (c.15)](https://www.legislation.gov.uk/ukpga/1973/15), as repealed by Schedule 3 to the Justices of the Peace Act [1979 (c.55)](https://www.legislation.gov.uk/ukpga/1979/55), and re-enacted under section 12 of the Justices of the Peace Act 1979. The provisions of section 12 were repealed by Schedule 6 to, and re-enacted by section 10 of, the Justices of the Peace Act [1997 (c.25)](https://www.legislation.gov.uk/ukpga/1997/25). Section 10 of the Justices of the Peace Act 1997 was repealed by s.109(3) of and Schedule 10 to, the Courts Act [2003 (c.39)](https://www.legislation.gov.uk/ukpga/2003/39) and re-enacted by section 15 of that Act. By virtue of section 17 of the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30), the 1976 regulations continued to have effect under the enabling powers as re-enacted.
 
 [^f00003]: Footnote: [S.I. 1976/2118](https://www.legislation.gov.uk/uksi/1976/2118).
 
-[^key-75bafee9a2e53866ae2507d7d996074a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1423/schedule/1) omitted (25.7.2023) by virtue of [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
+[^c-75bafee9a2e53866ae2507d7d996074a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1423/schedule/1) omitted (25.7.2023) by virtue of [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
 
-[^key-ccd02b167065ca5080df2451eb1f620f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1423/schedule/2) omitted (25.7.2023) by virtue of [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))
+[^c-ccd02b167065ca5080df2451eb1f620f]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1423/schedule/2) omitted (25.7.2023) by virtue of [The Justices’ Allowances (Amendment) Regulations 2023 (S.I. 2023/737)](https://www.legislation.gov.uk/uksi/2023/737), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/737/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/737/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/737/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6F. Enforcement of section 6E regulations relating to patient choice[^key-b5c38b11737eec57090e5f5babe9fe2c]
+## 6F. Enforcement of section 6E regulations relating to patient choice[^c-b5c38b11737eec57090e5f5babe9fe2c]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ unless the integrated care board fails to comply with the undertaking.
 
 ## Annotations
 
-[^key-b5c38b11737eec57090e5f5babe9fe2c]: Textual amendment: [Ss. 6F](https://www.legislation.gov.uk/ukpga/2006/41/section/6F), [6G](https://www.legislation.gov.uk/ukpga/2006/41/section/6G) inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/78/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/a)
+[^c-b5c38b11737eec57090e5f5babe9fe2c]: Textual amendment: [Ss. 6F](https://www.legislation.gov.uk/ukpga/2006/41/section/6F), [6G](https://www.legislation.gov.uk/ukpga/2006/41/section/6G) inserted (1.1.2024) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 78(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/78/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/1431](https://www.legislation.gov.uk/uksi/2023/1431), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1431/regulation/3/a)

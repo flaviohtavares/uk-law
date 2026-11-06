@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Records and lists kept under Schedule 4 to the Representation of the People Act 2000[^key-aa8d18a9364e26cd361387c9f6e0ff60][^f00074]
+## 55. Records and lists kept under Schedule 4 to the Representation of the People Act 2000[^c-aa8d18a9364e26cd361387c9f6e0ff60][^f00074]
 
 *Extent: E+W*
 
@@ -105,7 +105,7 @@ For regulation 61 substitute—
 
 ## Annotations
 
-[^key-aa8d18a9364e26cd361387c9f6e0ff60]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2006/2910/regulation/55) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-aa8d18a9364e26cd361387c9f6e0ff60]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2006/2910/regulation/55) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00074]: Footnote: [2000 c. 2](https://www.legislation.gov.uk/ukpga/2000/2).
 

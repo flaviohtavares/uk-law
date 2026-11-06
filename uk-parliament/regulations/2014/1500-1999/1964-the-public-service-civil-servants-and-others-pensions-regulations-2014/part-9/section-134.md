@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Rate of member contributions[^key-a86bc1d5725d889a5a44244f8c5cc390]
+## 134. Rate of member contributions[^c-a86bc1d5725d889a5a44244f8c5cc390]
 
 *Extent: E+W+S+N.I.*
 
@@ -98,7 +98,7 @@ Scheme Year 1st April 2017 to 31st March 2018
 </tbody>
 </table>
 
-Scheme Year 1st April 2018 to 31st March 2019 and Scheme Year 1st April 2019 to 31st March 2020[^key-b4ac57baf722e4dcb89994307e15f4f9]
+Scheme Year 1st April 2018 to 31st March 2019 and Scheme Year 1st April 2019 to 31st March 2020[^c-b4ac57baf722e4dcb89994307e15f4f9]
 
 <table>
 <thead>
@@ -113,7 +113,7 @@ Scheme Year 1st April 2018 to 31st March 2019 and Scheme Year 1st April 2019 to 
 </tbody>
 </table>
 
-Scheme Year 1st April 2020 to 31st March 2021[^key-a5f20f8463d03ef5243b43e4f6ebc7ca]
+Scheme Year 1st April 2020 to 31st March 2021[^c-a5f20f8463d03ef5243b43e4f6ebc7ca]
 
 | Annualised rate of pensionable earnings | Member contributions rate |
 | --- | --- |
@@ -122,7 +122,7 @@ Scheme Year 1st April 2020 to 31st March 2021[^key-a5f20f8463d03ef5243b43e4f6ebc
 | £54,901 to but not including £150,001 | 7.35% |
 | £150,001 and above | 8.05% |
 
-Scheme Year 1st April 2021 to 31st March 2022[^key-508b29961180edd2d20964f682be3974] and 1st April 2022 to 31st March 2023[^key-1456d9ac1c45a1649a811a86b734a829]
+Scheme Year 1st April 2021 to 31st March 2022[^c-508b29961180edd2d20964f682be3974] and 1st April 2022 to 31st March 2023[^c-1456d9ac1c45a1649a811a86b734a829]
 
 | Annualised rate of pensionable earnings | Member contribution rates |
 | --- | --- |
@@ -131,7 +131,7 @@ Scheme Year 1st April 2021 to 31st March 2022[^key-508b29961180edd2d20964f682be3
 | £56,001 up to but not including £150,001 | 7.35% |
 | £150,001 and above | 8.05% |
 
-Scheme Year 1st April 2023 to 31st March 2024 and subsequently[^key-0ab95c8fc53c12b47e3c006367d83a5d]
+Scheme Year 1st April 2023 to 31st March 2024 and subsequently[^c-0ab95c8fc53c12b47e3c006367d83a5d]
 
 | Annualised rate of pensionable earnings | Member contributions rate |
 | --- | --- |
@@ -140,7 +140,7 @@ Scheme Year 1st April 2023 to 31st March 2024 and subsequently[^key-0ab95c8fc53c
 | £56,001 to but not including £150,001 | 7.35% |
 | £150,001 and above | 8.05% |
 
-(9)[^key-5e7039757e76d04b1eca496f0440d1ad] The figures in the column headed “Annualised rate of pensionable earnings” of the table headed “**Scheme Year 1st April 2023 to 31st March 2024 and subsequently**” (except for the figures of £56,001 and £150,001) are to be increased on 1st April 2024, 1st April 2025 and 1st April 2026 if there is a relevant increase in the consumer prices index or, should the Minister decide, any other index of the general level of prices in the United Kingdom, by the appropriate percentage for the scheme year rounded up to the nearest £100.
+(9)[^c-5e7039757e76d04b1eca496f0440d1ad] The figures in the column headed “Annualised rate of pensionable earnings” of the table headed “**Scheme Year 1st April 2023 to 31st March 2024 and subsequently**” (except for the figures of £56,001 and £150,001) are to be increased on 1st April 2024, 1st April 2025 and 1st April 2026 if there is a relevant increase in the consumer prices index or, should the Minister decide, any other index of the general level of prices in the United Kingdom, by the appropriate percentage for the scheme year rounded up to the nearest £100.
 
 (10) The figures in the column headed “Annualised rate of pensionable earnings” of the table headed “**Scheme Year 1st April 2023 to 31st March 2024 and subsequently**” (except for the figure of £150,001) are to be increased on 1st April 2027 and on 1st April of each subsequent scheme year, if there is a relevant increase in the consumer prices index or, should the Minister decide, any other index of the general level of prices in the United Kingdom, by the appropriate percentage for the scheme year rounded up to the nearest £100.
 
@@ -154,16 +154,16 @@ Scheme Year 1st April 2023 to 31st March 2024 and subsequently[^key-0ab95c8fc53c
 
 ## Annotations
 
-[^key-a86bc1d5725d889a5a44244f8c5cc390]: Commencement: [Reg. 134](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-a86bc1d5725d889a5a44244f8c5cc390]: Commencement: [Reg. 134](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
-[^key-b4ac57baf722e4dcb89994307e15f4f9]: Textual amendment: Words in [reg. 134](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134) inserted (1.4.2019) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2019 (S.I. 2019/520)](https://www.legislation.gov.uk/uksi/2019/520), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/520/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/520/regulation/2/2)
+[^c-b4ac57baf722e4dcb89994307e15f4f9]: Textual amendment: Words in [reg. 134](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134) inserted (1.4.2019) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2019 (S.I. 2019/520)](https://www.legislation.gov.uk/uksi/2019/520), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/520/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2019/520/regulation/2/2)
 
-[^key-a5f20f8463d03ef5243b43e4f6ebc7ca]: Textual amendment: [Reg. 134(8)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134/8) table inserted (1.4.2020) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2020 (S.I. 2020/224)](https://www.legislation.gov.uk/uksi/2020/224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/224/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/224/regulation/3)
+[^c-a5f20f8463d03ef5243b43e4f6ebc7ca]: Textual amendment: [Reg. 134(8)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134/8) table inserted (1.4.2020) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2020 (S.I. 2020/224)](https://www.legislation.gov.uk/uksi/2020/224), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/224/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/224/regulation/3)
 
-[^key-508b29961180edd2d20964f682be3974]: Textual amendment: [Reg. 134(8)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134/8) table inserted (1.4.2021) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2021 (S.I. 2021/240)](https://www.legislation.gov.uk/uksi/2021/240), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/240/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/240/regulation/2/2)
+[^c-508b29961180edd2d20964f682be3974]: Textual amendment: [Reg. 134(8)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134/8) table inserted (1.4.2021) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2021 (S.I. 2021/240)](https://www.legislation.gov.uk/uksi/2021/240), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/240/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/240/regulation/2/2)
 
-[^key-1456d9ac1c45a1649a811a86b734a829]: Textual amendment: Words in [reg. 134](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134) table inserted (1.4.2022) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2022 (S.I. 2022/330)](https://www.legislation.gov.uk/uksi/2022/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/330/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/330/regulation/4)
+[^c-1456d9ac1c45a1649a811a86b734a829]: Textual amendment: Words in [reg. 134](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134) table inserted (1.4.2022) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2022 (S.I. 2022/330)](https://www.legislation.gov.uk/uksi/2022/330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/330/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/330/regulation/4)
 
-[^key-0ab95c8fc53c12b47e3c006367d83a5d]: Textual amendment: [Reg. 134(8)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134/8) table inserted (1.4.2023) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2023 (S.I. 2023/180)](https://www.legislation.gov.uk/uksi/2023/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/180/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/180/regulation/2/2/a)
+[^c-0ab95c8fc53c12b47e3c006367d83a5d]: Textual amendment: [Reg. 134(8)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134/8) table inserted (1.4.2023) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2023 (S.I. 2023/180)](https://www.legislation.gov.uk/uksi/2023/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/180/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/180/regulation/2/2/a)
 
-[^key-5e7039757e76d04b1eca496f0440d1ad]: Textual amendment: [Reg. 134(9)-(14)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134/9) inserted (1.4.2023) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2023 (S.I. 2023/180)](https://www.legislation.gov.uk/uksi/2023/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/180/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/180/regulation/2/2/b)
+[^c-5e7039757e76d04b1eca496f0440d1ad]: Textual amendment: [Reg. 134(9)-(14)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/134/9) inserted (1.4.2023) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations 2023 (S.I. 2023/180)](https://www.legislation.gov.uk/uksi/2023/180), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/180/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/180/regulation/2/2/b)

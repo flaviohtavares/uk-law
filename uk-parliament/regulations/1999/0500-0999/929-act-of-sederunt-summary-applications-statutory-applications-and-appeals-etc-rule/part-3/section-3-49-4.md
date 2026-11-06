@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.49.4. Labour market enforcement orders[^key-fe8f36f3e60923664d08dd23b58dcaa8][^key-4e58feccc776cf258db463e366db5c91]
+## 3.49.4. Labour market enforcement orders[^c-fe8f36f3e60923664d08dd23b58dcaa8][^c-4e58feccc776cf258db463e366db5c91]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8f36f3e60923664d08dd23b58dcaa8]: Textual amendment: [Rule 3.49.4](https://www.legislation.gov.uk/uksi/1999/929/rule/3.49.4) inserted (18.5.2019) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Labour Market Enforcement Orders) 2019 (S.S.I. 2019/140)](https://www.legislation.gov.uk/ssi/2019/140), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/140/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/140/paragraph/2/2/b)
+[^c-fe8f36f3e60923664d08dd23b58dcaa8]: Textual amendment: [Rule 3.49.4](https://www.legislation.gov.uk/uksi/1999/929/rule/3.49.4) inserted (18.5.2019) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Labour Market Enforcement Orders) 2019 (S.S.I. 2019/140)](https://www.legislation.gov.uk/ssi/2019/140), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/140/paragraph/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/140/paragraph/2/2/b)
 
-[^key-4e58feccc776cf258db463e366db5c91]: Textual amendment: [Ch. 3 Pt. 49](https://www.legislation.gov.uk/uksi/1999/929/part/49) inserted (1.12.2017) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Illegal Working Orders) 2017 (S.S.I. 2017/386)](https://www.legislation.gov.uk/ssi/2017/386), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/386/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2017/386/paragraph/2)
+[^c-4e58feccc776cf258db463e366db5c91]: Textual amendment: [Ch. 3 Pt. 49](https://www.legislation.gov.uk/uksi/1999/929/part/49) inserted (1.12.2017) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules Amendment) (Illegal Working Orders) 2017 (S.S.I. 2017/386)](https://www.legislation.gov.uk/ssi/2017/386), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2017/386/paragraph/1/2), [2](https://www.legislation.gov.uk/ssi/2017/386/paragraph/2)

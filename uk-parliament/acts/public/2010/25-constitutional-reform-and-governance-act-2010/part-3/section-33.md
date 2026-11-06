@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Investigations[^key-94bebfe5ed7e40df940b806972618378]
+## 33. Investigations[^c-94bebfe5ed7e40df940b806972618378]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,4 +96,4 @@ For section 9 of the Parliamentary Standards Act 2009 (investigations) substitut
 
 ## Annotations
 
-[^key-94bebfe5ed7e40df940b806972618378]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2010/25/section/33) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/c) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))
+[^c-94bebfe5ed7e40df940b806972618378]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2010/25/section/33) in force at 27.7.2010 by [S.I. 2010/1931](https://www.legislation.gov.uk/uksi/2010/1931), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/1931/article/3/c) (with [arts. 4](https://www.legislation.gov.uk/uksi/2010/1931/article/4), [5](https://www.legislation.gov.uk/uksi/2010/1931/article/5))

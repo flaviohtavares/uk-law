@@ -47,8 +47,8 @@ summary: ''
 (7) In this section—
 
 - “**intangible asset**” has the meaning it has for accounting purposes, and
-- “**research and development**” has the meaning given by section 1138 of CTA 2010[^key-81c00c326bdaa58a13aa2ffb57ea6d0e].
+- “**research and development**” has the meaning given by section 1138 of CTA 2010[^c-81c00c326bdaa58a13aa2ffb57ea6d0e].
 
 ## Annotations
 
-[^key-81c00c326bdaa58a13aa2ffb57ea6d0e]: Textual amendment: Words in s. 1308(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 695](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/695) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-81c00c326bdaa58a13aa2ffb57ea6d0e]: Textual amendment: Words in s. 1308(7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 695](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/695) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

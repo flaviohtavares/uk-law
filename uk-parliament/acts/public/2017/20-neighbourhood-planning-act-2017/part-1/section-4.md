@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Modification of neighbourhood development order or plan[^c22730111][^key-e0f87afe619f10f40d1e2f1b296dd92f]
+## 4. Modification of neighbourhood development order or plan[^c22730111][^c-e0f87afe619f10f40d1e2f1b296dd92f]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ summary: ''
 
 [^c22730111]: Commencement: S. 4 in force for specified purposes at Royal Assent, see s. 46
 
-[^key-e0f87afe619f10f40d1e2f1b296dd92f]: Commencement: S. 4 in force at 31.1.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)
+[^c-e0f87afe619f10f40d1e2f1b296dd92f]: Commencement: S. 4 in force at 31.1.2018 in so far as not already in force by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/b)

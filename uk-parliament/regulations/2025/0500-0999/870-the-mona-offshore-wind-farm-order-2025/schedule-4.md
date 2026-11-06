@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Streets to be temporarily closed or restricted[^key-04ddfb6aa42e91b635648a056a39a511]
+## SCHEDULE 4 — Streets to be temporarily closed or restricted[^c-04ddfb6aa42e91b635648a056a39a511]
 
 *Extent: E+W*
 
 Article 12
 
-[^key-04ddfb6aa42e91b635648a056a39a511]
+[^c-04ddfb6aa42e91b635648a056a39a511]
 
 In the County of Conwy:
 
@@ -39,7 +39,7 @@ In the County of Conwy:
 | Public highway unclassified road south of the B5381 Glascoed Road | Between points 19 and 20, as shown on Sheet 7 of the street works and access to works plan |
 | Public highway unclassified road south of the B5381 Glascoed | Between points 21 and 22, as shown on Sheet 8 of the street works and access to works plan |
 
-[^key-04ddfb6aa42e91b635648a056a39a511]
+[^c-04ddfb6aa42e91b635648a056a39a511]
 
 In the County of Denbighshire:
 
@@ -57,4 +57,4 @@ In the County of Denbighshire:
 
 ## Annotations
 
-[^key-04ddfb6aa42e91b635648a056a39a511]: Commencement: Sch. 4 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)
+[^c-04ddfb6aa42e91b635648a056a39a511]: Commencement: Sch. 4 in force at 28.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/870/article/1)

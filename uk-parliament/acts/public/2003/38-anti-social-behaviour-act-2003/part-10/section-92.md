@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 92. Repeals[^key-15ad9560843ddcc7ce377f6d715344d2][^key-3afaa701b9015176360365c94541d055][^key-146f8c730fb21247ee2675f8c7ac7f33][^key-716f3e3baa94e84fb83921bd3afdeb94][^key-851ce18d5362268775b4685572831c6f]
+## 92. Repeals[^c-15ad9560843ddcc7ce377f6d715344d2][^c-3afaa701b9015176360365c94541d055][^c-146f8c730fb21247ee2675f8c7ac7f33][^c-716f3e3baa94e84fb83921bd3afdeb94][^c-851ce18d5362268775b4685572831c6f]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ Schedule 3 contains repeals.
 
 ## Annotations
 
-[^key-15ad9560843ddcc7ce377f6d715344d2]: Commencement: S. 92 in force at 20.1.2004 for specified purposes by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/g/i)
+[^c-15ad9560843ddcc7ce377f6d715344d2]: Commencement: S. 92 in force at 20.1.2004 for specified purposes by [S.I. 2003/3300](https://www.legislation.gov.uk/uksi/2003/3300), [art. 2(g)(i)](https://www.legislation.gov.uk/uksi/2003/3300/article/2/g/i)
 
-[^key-3afaa701b9015176360365c94541d055]: Commencement: S. 92 in force at 31.3.2004 for specified purposes by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/690/article/2/c/i)
+[^c-3afaa701b9015176360365c94541d055]: Commencement: S. 92 in force at 31.3.2004 for specified purposes by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/690/article/2/c/i)
 
-[^key-146f8c730fb21247ee2675f8c7ac7f33]: Commencement: S. 92 in force at 30.6.2004 for specified purposes for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/c/i)
+[^c-146f8c730fb21247ee2675f8c7ac7f33]: Commencement: S. 92 in force at 30.6.2004 for specified purposes for E. by [S.I. 2004/1502](https://www.legislation.gov.uk/uksi/2004/1502), [art. 2(c)(i)](https://www.legislation.gov.uk/uksi/2004/1502/article/2/c/i)
 
-[^key-716f3e3baa94e84fb83921bd3afdeb94]: Commencement: S. 92 in force at 30.9.2004 for specified purposes by [S.I. 2004/2168](https://www.legislation.gov.uk/uksi/2004/2168), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2004/2168/article/2/b/i)
+[^c-716f3e3baa94e84fb83921bd3afdeb94]: Commencement: S. 92 in force at 30.9.2004 for specified purposes by [S.I. 2004/2168](https://www.legislation.gov.uk/uksi/2004/2168), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2004/2168/article/2/b/i)
 
-[^key-851ce18d5362268775b4685572831c6f]: Commencement: S. 92 in force at 30.9.2004 for specified purposes by [S.I. 2004/2168](https://www.legislation.gov.uk/uksi/2004/2168), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2004/2168/article/3/1/b/i)[(2)](https://www.legislation.gov.uk/uksi/2004/2168/article/3/2)
+[^c-851ce18d5362268775b4685572831c6f]: Commencement: S. 92 in force at 30.9.2004 for specified purposes by [S.I. 2004/2168](https://www.legislation.gov.uk/uksi/2004/2168), [art. 3(1)(b)(i)](https://www.legislation.gov.uk/uksi/2004/2168/article/3/1/b/i)[(2)](https://www.legislation.gov.uk/uksi/2004/2168/article/3/2)

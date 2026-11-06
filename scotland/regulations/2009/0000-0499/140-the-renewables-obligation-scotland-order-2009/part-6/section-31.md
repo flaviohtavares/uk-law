@@ -16,7 +16,7 @@ summary: ''
 
 ## 31. Generating stations which were accredited, or held preliminary accreditation, as at 31st March 2009
 
-(1)[^key-60a0b786558ad92a47f6fde742f85976] Subject to paragraph (3), this article applies to electricity which is generated—
+(1)[^c-60a0b786558ad92a47f6fde742f85976] Subject to paragraph (3), this article applies to electricity which is generated—
 
 - (a) by a generating station—
   - (i) which was accredited as at 31st March 2009;
@@ -43,21 +43,21 @@ summary: ''
 
 (5) Where, at any time it generates electricity after 31st March 2011, the generating station's total installed capacity is greater than it was on 31st March 2011, paragraph (4) applies only in relation to SROCs which are to be issued in respect of–
 
-- (a) where electricity generated using the total installed capacity of the station as at 31st March 2011 (“the original capacity”) is measured separately from electricity generated using capacity which has been added to the station since that date, the electricity to which this article applies[^key-a41495c5f4864e62ffba071c01427ab6] which is generated using the station's original capacity; and
-- (b)[^key-eb7d8ea5ac9b0b88054daa54cb9220c3] in any other case, the appropriate percentage of the electricity to which this article applies (the appropriate percentage for these purposes being the total installed capacity of the station as at 31st March 2011 expressed as a percentage of the total installed capacity of the pre-2013 capacity of the station as at the date of generation of the electricity).
+- (a) where electricity generated using the total installed capacity of the station as at 31st March 2011 (“the original capacity”) is measured separately from electricity generated using capacity which has been added to the station since that date, the electricity to which this article applies[^c-a41495c5f4864e62ffba071c01427ab6] which is generated using the station's original capacity; and
+- (b)[^c-eb7d8ea5ac9b0b88054daa54cb9220c3] in any other case, the appropriate percentage of the electricity to which this article applies (the appropriate percentage for these purposes being the total installed capacity of the station as at 31st March 2011 expressed as a percentage of the total installed capacity of the pre-2013 capacity of the station as at the date of generation of the electricity).
 
-(6) In relation to the remainder of the electricity to which this article applies[^key-1785b400928491f3092db7f50c940022], the amount of electricity to be stated in each SROC is to be determined in accordance with article 27(4) [^key-dd3b0688962dad507b6b2462d2f172f6]....
+(6) In relation to the remainder of the electricity to which this article applies[^c-1785b400928491f3092db7f50c940022], the amount of electricity to be stated in each SROC is to be determined in accordance with article 27(4) [^c-dd3b0688962dad507b6b2462d2f172f6]....
 
 (7) This article is subject to article 32.
 
 ## Annotations
 
-[^key-60a0b786558ad92a47f6fde742f85976]: Textual amendment: Art. 31(1)-(4) substituted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(2)](https://www.legislation.gov.uk/ssi/2013/116/article/18/2) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-60a0b786558ad92a47f6fde742f85976]: Textual amendment: Art. 31(1)-(4) substituted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(2)](https://www.legislation.gov.uk/ssi/2013/116/article/18/2) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
 
-[^key-a41495c5f4864e62ffba071c01427ab6]: Textual amendment: Words in art. 31(5)(a) inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(3)](https://www.legislation.gov.uk/ssi/2013/116/article/18/3) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-a41495c5f4864e62ffba071c01427ab6]: Textual amendment: Words in art. 31(5)(a) inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(3)](https://www.legislation.gov.uk/ssi/2013/116/article/18/3) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
 
-[^key-eb7d8ea5ac9b0b88054daa54cb9220c3]: Textual amendment: Art. 31(5)(b) substituted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(4)](https://www.legislation.gov.uk/ssi/2013/116/article/18/4) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-eb7d8ea5ac9b0b88054daa54cb9220c3]: Textual amendment: Art. 31(5)(b) substituted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(4)](https://www.legislation.gov.uk/ssi/2013/116/article/18/4) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
 
-[^key-1785b400928491f3092db7f50c940022]: Textual amendment: Words in art. 31(6) substituted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(5)(a)](https://www.legislation.gov.uk/ssi/2013/116/article/18/5/a) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-1785b400928491f3092db7f50c940022]: Textual amendment: Words in art. 31(6) substituted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(5)(a)](https://www.legislation.gov.uk/ssi/2013/116/article/18/5/a) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
 
-[^key-dd3b0688962dad507b6b2462d2f172f6]: Textual amendment: Words in art. 31(6) omitted (1.4.2013) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(5)(b)](https://www.legislation.gov.uk/ssi/2013/116/article/18/5/b) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-dd3b0688962dad507b6b2462d2f172f6]: Textual amendment: Words in art. 31(6) omitted (1.4.2013) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [18(5)(b)](https://www.legislation.gov.uk/ssi/2013/116/article/18/5/b) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))

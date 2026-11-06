@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. General duties of building society liquidator[^key-6fcbe5c8b4c5355c78913b27ddc96723]
+## 137. General duties of building society liquidator[^c-6fcbe5c8b4c5355c78913b27ddc96723]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.179 of the 1986 Rules.
 
 ## Annotations
 
-[^key-6fcbe5c8b4c5355c78913b27ddc96723]: Commencement: Rule 137 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-6fcbe5c8b4c5355c78913b27ddc96723]: Commencement: Rule 137 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Police
 
-The Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2012 (revoked)[^key-51571761f06ecb3af6b602c344f73ec0]
+The Police Act 1997 (Criminal Records) (Scotland) Amendment Regulations 2012 (revoked)[^c-51571761f06ecb3af6b602c344f73ec0]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 4th February 2013
 
-[^key-51571761f06ecb3af6b602c344f73ec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51571761f06ecb3af6b602c344f73ec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-51571761f06ecb3af6b602c344f73ec0]
+## 1. Citation, commencement and extent[^c-51571761f06ecb3af6b602c344f73ec0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Police Act 1997 (Criminal Records)(Scotland) Regulations 2010[^key-51571761f06ecb3af6b602c344f73ec0]
+## 2. Amendment of the Police Act 1997 (Criminal Records)(Scotland) Regulations 2010[^c-51571761f06ecb3af6b602c344f73ec0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51571761f06ecb3af6b602c344f73ec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51571761f06ecb3af6b602c344f73ec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-51571761f06ecb3af6b602c344f73ec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51571761f06ecb3af6b602c344f73ec0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51571761f06ecb3af6b602c344f73ec0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/354) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/15) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))
+[^c-51571761f06ecb3af6b602c344f73ec0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/354) revoked (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 2 para. 15](https://www.legislation.gov.uk/ssi/2025/74/schedule/2/paragraph/15) ([S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule))

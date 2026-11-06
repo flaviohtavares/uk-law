@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Requirements for auditors' report published with accounts[^key-c068ac2e12a87858a5cb81bb65636d1f]
+## 8. Requirements for auditors' report published with accounts[^c-c068ac2e12a87858a5cb81bb65636d1f]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ In section 240(3) of the 1985 Act (requirements in connection with publication o
 
 ## Annotations
 
-[^key-c068ac2e12a87858a5cb81bb65636d1f]: Commencement: Reg. 8 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
+[^c-c068ac2e12a87858a5cb81bb65636d1f]: Commencement: Reg. 8 in force at 12.11.2004, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/2947/regulation/1/2)
 
 [^f00007]: Footnote: Section 240 was substituted by section 10 of the Companies Act 1989, and amended by regulation 4 of, and paragraph 1 of Schedule 1 to, S.I. [1994/1935](https://www.legislation.gov.uk/uksi/1994/1935).

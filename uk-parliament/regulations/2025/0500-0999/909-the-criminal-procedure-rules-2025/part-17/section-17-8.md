@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17.8. Taking a deposition in a magistrates’ court[^key-a57a50ff8144b02a3aa18c3137ddfa01]
+## 17.8. Taking a deposition in a magistrates’ court[^c-a57a50ff8144b02a3aa18c3137ddfa01]
 
 *Extent: E+W*
 
@@ -68,7 +68,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a57a50ff8144b02a3aa18c3137ddfa01]: Commencement: [Rule 17.8](https://www.legislation.gov.uk/uksi/2025/909/rule/17.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a57a50ff8144b02a3aa18c3137ddfa01]: Commencement: [Rule 17.8](https://www.legislation.gov.uk/uksi/2025/909/rule/17.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00435]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); paragraph 4 of Schedule 3 was amended by paragraphs 15, 20, 68 and 72 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), section 169 of the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), article 3 of, and paragraphs 35 and 37 of the Schedule to, [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035) and article 2 of, and paragraph 61 of the Schedule to, [S.I. 2005/886](https://www.legislation.gov.uk/uksi/2005/886).
 

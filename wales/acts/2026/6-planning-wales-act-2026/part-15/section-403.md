@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 403. Enforcement steps in relation to Crown land[^key-36f3297c02c74fc1fe21aa4cc9f27425]
+## 403. Enforcement steps in relation to Crown land[^c-36f3297c02c74fc1fe21aa4cc9f27425]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36f3297c02c74fc1fe21aa4cc9f27425]: Commencement: S. 403 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-36f3297c02c74fc1fe21aa4cc9f27425]: Commencement: S. 403 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

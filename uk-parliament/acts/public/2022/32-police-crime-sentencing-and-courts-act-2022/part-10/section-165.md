@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Serious violence reduction orders[^key-3646339d5fcbbe5b8a0d45d163955ea0]
+## 165. Serious violence reduction orders[^c-3646339d5fcbbe5b8a0d45d163955ea0]
 
 *Extent: E+W*
 
-(1)[^key-d6d8845b8ba5cbe53c94e5e7d68f9db7] In Part 11 of the Sentencing Code (behaviour orders) after Chapter 1 insert—
+(1)[^c-d6d8845b8ba5cbe53c94e5e7d68f9db7] In Part 11 of the Sentencing Code (behaviour orders) after Chapter 1 insert—
 
 > **CHAPTER 1A — Serious violence reduction orders**
 >
@@ -324,13 +324,13 @@ summary: ''
 >   - (b) any other place to which people have ready access but which is not a dwelling;
 > - “**the offender**”, in relation to a serious violence reduction order, means the offender in respect of whom the order or the application for the order has been made.
 
-(2)[^key-fb4e810ff3f55b77d9c4e89ce59c3e8d] In section 80(3) of the Sentencing Code (list of circumstances where an order for conditional discharge is not available) after paragraph (d) insert—
+(2)[^c-fb4e810ff3f55b77d9c4e89ce59c3e8d] In section 80(3) of the Sentencing Code (list of circumstances where an order for conditional discharge is not available) after paragraph (d) insert—
 
 > - (da) section 342G(4) (offences relating to a serious violence reduction order);
 
 .
 
-(3)[^key-ab48b3edb3e1d1e293944a6c75085dee] In section 3(2) of the Prosecution of Offences Act 1985 (functions of the Director of Public Prosecutions) after paragraph (fg) insert—
+(3)[^c-ab48b3edb3e1d1e293944a6c75085dee] In section 3(2) of the Prosecution of Offences Act 1985 (functions of the Director of Public Prosecutions) after paragraph (fg) insert—
 
 > - (fh) to have the conduct of applications for orders under section 342A of the Sentencing Code (serious violence reduction orders);
 
@@ -338,10 +338,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3646339d5fcbbe5b8a0d45d163955ea0]: Commencement: S. 165 in force at Royal Assent for specified purposes, see [s. 208(4)(u)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/u)
+[^c-3646339d5fcbbe5b8a0d45d163955ea0]: Commencement: S. 165 in force at Royal Assent for specified purposes, see [s. 208(4)(u)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/u)
 
-[^key-d6d8845b8ba5cbe53c94e5e7d68f9db7]: Commencement: [S. 165(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/1) in force at 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/a)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))
+[^c-d6d8845b8ba5cbe53c94e5e7d68f9db7]: Commencement: [S. 165(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/1) in force at 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(a)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/a)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))
 
-[^key-fb4e810ff3f55b77d9c4e89ce59c3e8d]: Commencement: [S. 165(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/2) in force at 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))
+[^c-fb4e810ff3f55b77d9c4e89ce59c3e8d]: Commencement: [S. 165(2)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/2) in force at 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(b)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/b)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))
 
-[^key-ab48b3edb3e1d1e293944a6c75085dee]: Commencement: [S. 165(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/3) in force at 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/c)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))
+[^c-ab48b3edb3e1d1e293944a6c75085dee]: Commencement: [S. 165(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/165/3) in force at 19.4.2023 for the specified purpose and for the specified period of 24 months beginning with that date by [S.I. 2023/387](https://www.legislation.gov.uk/uksi/2023/387), [regs. 1](https://www.legislation.gov.uk/uksi/2023/387/regulation/1), [5(1)(c)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/1/c)[(2)](https://www.legislation.gov.uk/uksi/2023/387/regulation/5/2) (with [regs. 6-8](https://www.legislation.gov.uk/uksi/2023/387/regulation/6))

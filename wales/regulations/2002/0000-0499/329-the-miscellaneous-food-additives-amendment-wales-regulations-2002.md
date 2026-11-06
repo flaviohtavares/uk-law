@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Miscellaneous Food Additives (Amendment) (Wales) Regulations 2002 (revoked)[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
+The Miscellaneous Food Additives (Amendment) (Wales) Regulations 2002 (revoked)[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
 
 Made
 
@@ -41,45 +41,45 @@ Coming into force
 
 1st March 2002
 
-[^key-0ef6205d3eea560b74e1b0bf3313f0e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ef6205d3eea560b74e1b0bf3313f0e4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and application[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
+## 1. Citation, commencement and application[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
+## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
+
+**No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
+## 3.[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
+## 4.[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
+## 5.[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
+## 6.[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
+## 7.[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of the Miscellaneous Food Additives (Amendment) (Wales) Regulations 2001[^key-0ef6205d3eea560b74e1b0bf3313f0e4]
+## 8.[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 9. Amendment of the Miscellaneous Food Additives (Amendment) (Wales) Regulations 2001[^c-0ef6205d3eea560b74e1b0bf3313f0e4]
 
 **No longer in force.**
 
@@ -113,4 +113,4 @@ The Regulations also—
 
 ## Annotations
 
-[^key-0ef6205d3eea560b74e1b0bf3313f0e4]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-0ef6205d3eea560b74e1b0bf3313f0e4]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

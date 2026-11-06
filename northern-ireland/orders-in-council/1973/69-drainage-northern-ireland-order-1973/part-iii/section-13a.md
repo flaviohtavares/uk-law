@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13A. Public Participation[^key-4b7da26c4164ebd6da66a6356f18503e]
+## 13A. Public Participation[^c-4b7da26c4164ebd6da66a6356f18503e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The Department shall, in relation to any works specified in a drainage scheme, m
 
 ## Annotations
 
-[^key-4b7da26c4164ebd6da66a6356f18503e]: Textual amendment: Arts. 13, 13A substituted (16.5.2017) by [The Drainage (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/88)](https://www.legislation.gov.uk/nisr/2017/88), [regs. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1), [22](https://www.legislation.gov.uk/nisr/2017/88/regulation/22)
+[^c-4b7da26c4164ebd6da66a6356f18503e]: Textual amendment: Arts. 13, 13A substituted (16.5.2017) by [The Drainage (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/88)](https://www.legislation.gov.uk/nisr/2017/88), [regs. 1](https://www.legislation.gov.uk/nisr/2017/88/regulation/1), [22](https://www.legislation.gov.uk/nisr/2017/88/regulation/22)

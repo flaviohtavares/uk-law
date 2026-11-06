@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Variation of permitted times for making muirburn[^key-e0a5f5b197802f2ab24137f0981525ed]
+## 58. Variation of permitted times for making muirburn[^c-e0a5f5b197802f2ab24137f0981525ed]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ After section 23 of the Hill Farming Act 1946 (c. 73) (prohibition of muirburn a
 
 ## Annotations
 
-[^key-e0a5f5b197802f2ab24137f0981525ed]: Commencement: S. 58 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-e0a5f5b197802f2ab24137f0981525ed]: Commencement: S. 58 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

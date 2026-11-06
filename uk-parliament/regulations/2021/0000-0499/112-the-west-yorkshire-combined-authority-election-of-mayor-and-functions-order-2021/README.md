@@ -61,7 +61,7 @@ In accordance with section 105B(9) of the 2009 Act the Secretary of State has la
 
 A draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament pursuant to section 117(2) of the 2009 Act.
 
-Accordingly, the Secretary of State makes the following Order:[^key-09016b1880d3a9115e3dbf1a2be76e8c]
+Accordingly, the Secretary of State makes the following Order:[^c-09016b1880d3a9115e3dbf1a2be76e8c]
 
 ## Contents
 
@@ -89,7 +89,7 @@ Accordingly, the Secretary of State makes the following Order:[^key-09016b1880d3
 - [Section 8 — Conditions on the exercise of functions mentioned in articles 6 and 7](part-3/section-8.md)
 - [Section 9 — Modification of provisions in the Apprenticeships, Skills, Children and Learning Act 2009](part-3/section-9.md)
 
-### PART 4 — Housing, regeneration and planning[^key-f72a87aaec9861aead4148f778dee7c8]
+### PART 4 — Housing, regeneration and planning[^c-f72a87aaec9861aead4148f778dee7c8]
 
 *Extent: E+W*
 
@@ -100,7 +100,7 @@ Accordingly, the Secretary of State makes the following Order:[^key-09016b1880d3
 - [Section 12 — Condition on the exercise of the functions conferred by articles 10 and 11](part-4/section-12.md)
 - [Section 13 — Application of provisions of the 1985 Act, the 1990 Act and the 2008 Act](part-4/section-13.md)
 
-### PART 5 — Mayoral development corporation[^key-aa96de22f35ae8e94fb5ab99e26a0ece]
+### PART 5 — Mayoral development corporation[^c-aa96de22f35ae8e94fb5ab99e26a0ece]
 
 *Extent: E+W*
 
@@ -123,7 +123,7 @@ Accordingly, the Secretary of State makes the following Order:[^key-09016b1880d3
 - [Section 23 — Permit schemes](part-6/section-23.md)
 - [Section 24 — Bus lane contraventions](part-6/section-24.md)
 
-### PART 7 — Additional functions[^key-3e003b0a146b9b79641f048f63d997df]
+### PART 7 — Additional functions[^c-3e003b0a146b9b79641f048f63d997df]
 
 *Extent: E+W*
 
@@ -226,10 +226,10 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^c24433101]: Marginal citation: This Order relates to the West Yorkshire Combined Authority, which was established by the West Yorkshire Combined Authority Order ([S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864)).
 
-[^key-09016b1880d3a9115e3dbf1a2be76e8c]: Modification: [Order](https://www.legislation.gov.uk/uksi/2021/112) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
+[^c-09016b1880d3a9115e3dbf1a2be76e8c]: Modification: [Order](https://www.legislation.gov.uk/uksi/2021/112) continued (temp.) (25.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/1)
 
-[^key-f72a87aaec9861aead4148f778dee7c8]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2021/112/part/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/4)
+[^c-f72a87aaec9861aead4148f778dee7c8]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2021/112/part/4) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/4)
 
-[^key-aa96de22f35ae8e94fb5ab99e26a0ece]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2021/112/part/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(5)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/5)
+[^c-aa96de22f35ae8e94fb5ab99e26a0ece]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2021/112/part/5) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(5)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/5)
 
-[^key-3e003b0a146b9b79641f048f63d997df]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2021/112/part/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(7)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/7)
+[^c-3e003b0a146b9b79641f048f63d997df]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/uksi/2021/112/part/7) omitted (4.6.2026) by virtue of [The English Devolution and Community Empowerment Act 2026 (Consequential Amendments and Revocations) (England) Regulations 2026 (S.I. 2026/519)](https://www.legislation.gov.uk/uksi/2026/519), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/519/regulation/1/2), [32(7)](https://www.legislation.gov.uk/uksi/2026/519/regulation/32/7)

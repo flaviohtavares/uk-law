@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Commencement and transitional provision[^key-3b37bc4a50b442dd48a99c61a631f1a2]
+## 51. Commencement and transitional provision[^c-3b37bc4a50b442dd48a99c61a631f1a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b37bc4a50b442dd48a99c61a631f1a2]: Commencement: S. 51 in force at Royal Assent, see [s. 51(1)(d)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/d)
+[^c-3b37bc4a50b442dd48a99c61a631f1a2]: Commencement: S. 51 in force at Royal Assent, see [s. 51(1)(d)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1/d)

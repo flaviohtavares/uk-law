@@ -22,7 +22,7 @@ summary: ''
 
 Article 34
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-8e88ef7d47de15377b5536d457fe2de9]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-8e88ef7d47de15377b5536d457fe2de9]
 
 | *(1) Area* | *(2) Location of hedgerow* |
 | --- | --- |
@@ -280,7 +280,7 @@ Article 34
 | South Norfolk District | The hedgerow shown between points 340a and 340b on sheet 34 of the tree preservation order and hedgerow plan |
 | South Norfolk District | The hedgerow shown between points 341a and 341b on sheets 35 and 36 of the tree preservation order and hedgerow plan |
 
-### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^key-ba678cf50fd9680e399fc9136af148e2]
+### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^c-ba678cf50fd9680e399fc9136af148e2]
 
 <table>
 <tbody>
@@ -383,6 +383,6 @@ Article 34
 
 ## Annotations
 
-[^key-8e88ef7d47de15377b5536d457fe2de9]: Commencement: Sch. 10 Pt. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-8e88ef7d47de15377b5536d457fe2de9]: Commencement: Sch. 10 Pt. 1 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
 
-[^key-ba678cf50fd9680e399fc9136af148e2]: Commencement: Sch. 10 Pt. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)
+[^c-ba678cf50fd9680e399fc9136af148e2]: Commencement: Sch. 10 Pt. 2 in force at 22.1.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1656/article/1)

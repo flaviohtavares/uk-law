@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61L. Permission granted by neighbourhood development orders[^key-99c58ceb70d9a80231e26e93f5bf37c9]
+## 61L. Permission granted by neighbourhood development orders[^c-99c58ceb70d9a80231e26e93f5bf37c9]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ the development may, despite the withdrawal of the permission, be completed.
 
 ## Annotations
 
-[^key-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)

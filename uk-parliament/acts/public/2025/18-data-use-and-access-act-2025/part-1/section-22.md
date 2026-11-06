@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Regulations under this Part: Parliamentary procedure and consultation[^key-b0a23bc35044d8e199cb04392ff4da62][^key-c5ee666a4b7cc513dcb904ddc3b6581f]
+## 22. Regulations under this Part: Parliamentary procedure and consultation[^c-b0a23bc35044d8e199cb04392ff4da62][^c-c5ee666a4b7cc513dcb904ddc3b6581f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0a23bc35044d8e199cb04392ff4da62]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-b0a23bc35044d8e199cb04392ff4da62]: Commencement: S. 22 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-c5ee666a4b7cc513dcb904ddc3b6581f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/18/section/22) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-c5ee666a4b7cc513dcb904ddc3b6581f]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2025/18/section/22) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Information to be excluded or removed from a register[^key-cc39ac5a11878d4f6be01e7248225162]
+## 10. Information to be excluded or removed from a register[^c-cc39ac5a11878d4f6be01e7248225162]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc39ac5a11878d4f6be01e7248225162]: Commencement: Reg. 10 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-cc39ac5a11878d4f6be01e7248225162]: Commencement: Reg. 10 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)

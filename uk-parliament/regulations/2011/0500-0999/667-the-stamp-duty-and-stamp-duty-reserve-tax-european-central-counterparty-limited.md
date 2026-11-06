@@ -34,7 +34,7 @@ Stamp Duty
 
 Stamp Duty Reserve Tax
 
-The Stamp Duty and Stamp Duty Reserve Tax (European Central Counterparty Limited) Regulations 2011 (revoked)[^key-c5358f0c225e4a3fde8db7f69874d207]
+The Stamp Duty and Stamp Duty Reserve Tax (European Central Counterparty Limited) Regulations 2011 (revoked)[^c-c5358f0c225e4a3fde8db7f69874d207]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 1st April 2011
 
-[^key-c5358f0c225e4a3fde8db7f69874d207]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5358f0c225e4a3fde8db7f69874d207]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-c5358f0c225e4a3fde8db7f69874d207]
+## 1. Citation, commencement and effect[^c-c5358f0c225e4a3fde8db7f69874d207]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c5358f0c225e4a3fde8db7f69874d207]
+## 2. Interpretation[^c-c5358f0c225e4a3fde8db7f69874d207]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescription of EuroCCP[^key-c5358f0c225e4a3fde8db7f69874d207]
+## 3. Prescription of EuroCCP[^c-c5358f0c225e4a3fde8db7f69874d207]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescribed circumstances for the purposes of sections 116 and 117[^key-c5358f0c225e4a3fde8db7f69874d207]
+## 4. Prescribed circumstances for the purposes of sections 116 and 117[^c-c5358f0c225e4a3fde8db7f69874d207]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c5358f0c225e4a3fde8db7f69874d207]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5358f0c225e4a3fde8db7f69874d207]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c5358f0c225e4a3fde8db7f69874d207]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c5358f0c225e4a3fde8db7f69874d207]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c5358f0c225e4a3fde8db7f69874d207]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/667) revoked (10.11.2015) by [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (Revocation) Regulations 2015 (S.I. 2015/1779)](https://www.legislation.gov.uk/uksi/2015/1779), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1779/regulation/2/b)
+[^c-c5358f0c225e4a3fde8db7f69874d207]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/667) revoked (10.11.2015) by [The Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (Revocation) Regulations 2015 (S.I. 2015/1779)](https://www.legislation.gov.uk/uksi/2015/1779), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2015/1779/regulation/2/b)

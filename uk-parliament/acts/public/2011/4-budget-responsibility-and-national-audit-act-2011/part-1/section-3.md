@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Office for Budget Responsibility[^key-0c994cf45544e77f11610a7e2d1b381f]
+## 3. Office for Budget Responsibility[^c-0c994cf45544e77f11610a7e2d1b381f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c994cf45544e77f11610a7e2d1b381f]: Commencement: S. 3 in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)
+[^c-0c994cf45544e77f11610a7e2d1b381f]: Commencement: S. 3 in force at 4.4.2011 by [S.I. 2011/892](https://www.legislation.gov.uk/uksi/2011/892), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/892/schedule/2)

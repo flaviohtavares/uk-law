@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Regulation (EU) 2015/2365[^key-2c5387a9fcc7478d212dba3fc6fd4cce]
+## 75. Regulation (EU) 2015/2365[^c-2c5387a9fcc7478d212dba3fc6fd4cce]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In Article 3 of Regulation (EU) 2015/2365 of the European Parliament and of the 
 
 ## Annotations
 
-[^key-2c5387a9fcc7478d212dba3fc6fd4cce]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2020/1385/regulation/75) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)
+[^c-2c5387a9fcc7478d212dba3fc6fd4cce]: Commencement: [Reg. 75](https://www.legislation.gov.uk/uksi/2020/1385/regulation/75) in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3)

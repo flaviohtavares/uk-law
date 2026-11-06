@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may by order authorise the stopping up or diversion of any road if he is satisfied that it is necessary to do so in order to enable development to be carried out—
 
-- (a) in accordance with planning permission granted under Part III or section 242A[^key-7a98ccccc5a7ab54907e56e4d56b8720], or
+- (a) in accordance with planning permission granted under Part III or section 242A[^c-7a98ccccc5a7ab54907e56e4d56b8720], or
 - (b) by a government department.
 
 (2) Such an order may make such provision as appears to the Secretary of State to be necessary or expedient for the construction or improvement of any other road.
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a98ccccc5a7ab54907e56e4d56b8720]: Textual amendment: Words in s. 202(1)(a) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(7)](https://www.legislation.gov.uk/ssi/2006/243/article/4/7)
+[^c-7a98ccccc5a7ab54907e56e4d56b8720]: Textual amendment: Words in s. 202(1)(a) inserted (11.5.2006) by [Planning and Compulsory Purchase Act 2004 (Commencement No.2 and Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/243)](https://www.legislation.gov.uk/ssi/2006/243), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/243/article/1/1), [4(7)](https://www.legislation.gov.uk/ssi/2006/243/article/4/7)
 
 [^c950207]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 

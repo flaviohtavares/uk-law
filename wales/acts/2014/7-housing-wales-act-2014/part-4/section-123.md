@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Power to direct exercise of other local housing authority functions[^key-b088d0bb4dae55e7ef8b297d70f392cf]
+## 123. Power to direct exercise of other local housing authority functions[^c-b088d0bb4dae55e7ef8b297d70f392cf]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b088d0bb4dae55e7ef8b297d70f392cf]: Commencement: [S. 123](https://www.legislation.gov.uk/anaw/2014/7/section/123) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-b088d0bb4dae55e7ef8b297d70f392cf]: Commencement: [S. 123](https://www.legislation.gov.uk/anaw/2014/7/section/123) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333. Saving for rights and liabilities as to interference with highways.[^key-d4850b21e441e466b304b2daef90795a][^c13438951]
+## 333. Saving for rights and liabilities as to interference with highways.[^c-d4850b21e441e466b304b2daef90795a][^c13438951]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4850b21e441e466b304b2daef90795a]: Modification: [S. 333](https://www.legislation.gov.uk/ukpga/1980/66/section/333) applied (with modifications) (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/7), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))
+[^c-d4850b21e441e466b304b2daef90795a]: Modification: [S. 333](https://www.legislation.gov.uk/ukpga/1980/66/section/333) applied (with modifications) (temp.) (22.7.2020) by [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/7), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [ss. 7(4)](https://www.legislation.gov.uk/ukpga/2020/16/section/7/4), [10](https://www.legislation.gov.uk/ukpga/2020/16/section/10))
 
 [^c13438951]: Textual amendment: S. 333(2) inserted (the existing provision being renumbered as subsection (1)) as provided by [Rights of Way Act 1990 (c. 24, SIF 59)](https://www.legislation.gov.uk/ukpga/1990/24), [s. 3](https://www.legislation.gov.uk/ukpga/1990/24/section/3)

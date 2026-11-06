@@ -31,7 +31,7 @@ summary: ''
 
 RATING AND VALUATION, WALES
 
-The Non-Domestic Rating (Alteration of Lists and Appeals) (Amendment) (Wales) Regulations 2000 (revoked)[^key-615553fae3668b46a06f5d77bdf4995a]
+The Non-Domestic Rating (Alteration of Lists and Appeals) (Amendment) (Wales) Regulations 2000 (revoked)[^c-615553fae3668b46a06f5d77bdf4995a]
 
 Made
 
@@ -41,64 +41,64 @@ Coming into force
 
 1st April 2000
 
-[^key-615553fae3668b46a06f5d77bdf4995a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-615553fae3668b46a06f5d77bdf4995a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Application, citation, commencement and interpretation[^key-615553fae3668b46a06f5d77bdf4995a]
+## 1. Application, citation, commencement and interpretation[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 1993 Regulations[^key-615553fae3668b46a06f5d77bdf4995a]
+## 2. Amendment of the 1993 Regulations[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Periods for making proposals: 1990 List[^key-615553fae3668b46a06f5d77bdf4995a]
+## 3. Periods for making proposals: 1990 List[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Periods for making proposals: 1995 List[^key-615553fae3668b46a06f5d77bdf4995a]
+## 4. Periods for making proposals: 1995 List[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Periods for making proposals: the 2000 List onwards[^key-615553fae3668b46a06f5d77bdf4995a]
+## 5. Periods for making proposals: the 2000 List onwards[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Manner of making proposals etc. and proposals treated as invalid[^key-615553fae3668b46a06f5d77bdf4995a]
+## 6. Manner of making proposals etc. and proposals treated as invalid[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-615553fae3668b46a06f5d77bdf4995a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-615553fae3668b46a06f5d77bdf4995a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Time from which alteration is to have effect[^key-615553fae3668b46a06f5d77bdf4995a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**9.**[^key-615553fae3668b46a06f5d77bdf4995a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 10. Advertising rights[^key-615553fae3668b46a06f5d77bdf4995a]
+## 8. Time from which alteration is to have effect[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Central rating list[^key-615553fae3668b46a06f5d77bdf4995a]
+**9.**[^c-615553fae3668b46a06f5d77bdf4995a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 10. Advertising rights[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Evidence[^key-615553fae3668b46a06f5d77bdf4995a]
+## 11. Central rating list[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Service of notices[^key-615553fae3668b46a06f5d77bdf4995a]
+## 12. Evidence[^c-615553fae3668b46a06f5d77bdf4995a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-615553fae3668b46a06f5d77bdf4995a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 13. Service of notices[^c-615553fae3668b46a06f5d77bdf4995a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-615553fae3668b46a06f5d77bdf4995a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-615553fae3668b46a06f5d77bdf4995a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-615553fae3668b46a06f5d77bdf4995a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-615553fae3668b46a06f5d77bdf4995a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/792) revoked (1.4.2005) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2005 (S.I. 2005/758)](https://www.legislation.gov.uk/wsi/2005/758), [regs. 1](https://www.legislation.gov.uk/wsi/2005/758/regulation/1), [44(1)(d)](https://www.legislation.gov.uk/wsi/2005/758/regulation/44/1/d) (with [reg. 44(2)](https://www.legislation.gov.uk/wsi/2005/758/regulation/44/2)[(3)](https://www.legislation.gov.uk/wsi/2005/758/regulation/44/3))
+[^c-615553fae3668b46a06f5d77bdf4995a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2000/792) revoked (1.4.2005) by [The Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2005 (S.I. 2005/758)](https://www.legislation.gov.uk/wsi/2005/758), [regs. 1](https://www.legislation.gov.uk/wsi/2005/758/regulation/1), [44(1)(d)](https://www.legislation.gov.uk/wsi/2005/758/regulation/44/1/d) (with [reg. 44(2)](https://www.legislation.gov.uk/wsi/2005/758/regulation/44/2)[(3)](https://www.legislation.gov.uk/wsi/2005/758/regulation/44/3))

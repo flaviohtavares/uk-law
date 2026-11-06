@@ -45,7 +45,7 @@ Coming into force
 
 1st January 2002
 
-[^key-acb216c31f1e9e19ec10916dfec4619e]The Secretary of State for Environment, Food and Rural Affairs being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on her by that section and of all other powers enabling her in that behalf, hereby makes the following Regulations:
+[^c-acb216c31f1e9e19ec10916dfec4619e]The Secretary of State for Environment, Food and Rural Affairs being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on her by that section and of all other powers enabling her in that behalf, hereby makes the following Regulations:
 
 ## 1. Title, commencement, extent and interpretation
 
@@ -112,7 +112,7 @@ These Regulations extend to the United Kingdom.
 
 ## Annotations
 
-[^key-acb216c31f1e9e19ec10916dfec4619e]: Textual amendment: Regulations revoked (E.W.S.) (1.4.2003) by [The Plant Protection Products (Fees) Regulations 2003 (S.I. 2003/660)](https://www.legislation.gov.uk/uksi/2003/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/660/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/660/regulation/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2003/660/regulation/3))
+[^c-acb216c31f1e9e19ec10916dfec4619e]: Textual amendment: Regulations revoked (E.W.S.) (1.4.2003) by [The Plant Protection Products (Fees) Regulations 2003 (S.I. 2003/660)](https://www.legislation.gov.uk/uksi/2003/660), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/660/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2003/660/regulation/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2003/660/regulation/3))
 
 [^f00001]: Footnote: S.I. [1972/1811](https://www.legislation.gov.uk/uksi/1972/1811).
 

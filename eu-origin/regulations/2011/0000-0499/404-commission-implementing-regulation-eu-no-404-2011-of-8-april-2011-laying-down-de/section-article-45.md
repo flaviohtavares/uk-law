@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 45. Exchange of data ...[^c000001][^key-27b3f1c896bbd7d8a8d84071f09f3979]
+## Article 45. Exchange of data ...[^c000001][^c-27b3f1c896bbd7d8a8d84071f09f3979]
 
 *Extent: E+W+S+N.I.*
 
-A fisheries administration must[^key-ebf645a9716dae27f9138a39a5d90a3f]:
+A fisheries administration must[^c-ebf645a9716dae27f9138a39a5d90a3f]:
 
 - ((a)) ensure that data received according to this Chapter are recorded in computer-readable form and safely stored in computerised databases for at least 3 years;
 - ((b)) take all necessary measures to ensure that the data are only used for purposes as provided for in this Regulation; and
@@ -30,6 +30,6 @@ A fisheries administration must[^key-ebf645a9716dae27f9138a39a5d90a3f]:
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2015/1962 of 28 October 2015 amending Implementing Regulation (EU) No 404/2011 laying down detailed rules for the implementation of Council Regulation (EC) No 1224/2009 establishing a Community control system for ensuring compliance with the rules of the common fisheries policy](https://www.legislation.gov.uk/eur/2015/1962).
 
-[^key-27b3f1c896bbd7d8a8d84071f09f3979]: Textual amendment: Words in [Art. 45](https://www.legislation.gov.uk/eur/2011/404/article/45) heading omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(41)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/41/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27b3f1c896bbd7d8a8d84071f09f3979]: Textual amendment: Words in [Art. 45](https://www.legislation.gov.uk/eur/2011/404/article/45) heading omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(41)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/41/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ebf645a9716dae27f9138a39a5d90a3f]: Textual amendment: Words in [Art. 45](https://www.legislation.gov.uk/eur/2011/404/article/45) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(41)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/41/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ebf645a9716dae27f9138a39a5d90a3f]: Textual amendment: Words in [Art. 45](https://www.legislation.gov.uk/eur/2011/404/article/45) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [5(41)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/5/41/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

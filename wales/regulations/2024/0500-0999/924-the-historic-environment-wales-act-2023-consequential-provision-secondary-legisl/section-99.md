@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**99.**[^key-354e3d8a6fecb618528e5940248d555b] After regulation 4, insert—
+**99.**[^c-354e3d8a6fecb618528e5940248d555b] After regulation 4, insert—
 
 > **4A.** Paragraphs (1) to (7) of regulations 4 and 5 do not apply to provision in these Regulations made under the 2023 Act (see section 205 of the 2023 Act.)
 
 ## Annotations
 
-[^key-354e3d8a6fecb618528e5940248d555b]: Commencement: [Reg. 99](https://www.legislation.gov.uk/wsi/2024/924/regulation/99) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-354e3d8a6fecb618528e5940248d555b]: Commencement: [Reg. 99](https://www.legislation.gov.uk/wsi/2024/924/regulation/99) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

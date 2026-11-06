@@ -26,7 +26,7 @@ Section 95.
 
 #### England and Wales
 
-**1.** (1) The Secretary of State may authorise a universal service provider to purchase compulsorily any land in England and Wales where it is necessary to do so for the purpose of providing a universal postal service[^key-292fb6672803ab14d4e64876722a1727].
+**1.** (1) The Secretary of State may authorise a universal service provider to purchase compulsorily any land in England and Wales where it is necessary to do so for the purpose of providing a universal postal service[^c-292fb6672803ab14d4e64876722a1727].
 
 (2) The power of purchasing land compulsorily under this paragraph includes power to acquire, by creation of a new right, an easement or other right over land.
 
@@ -34,7 +34,7 @@ Section 95.
 
 #### Scotland
 
-**2.** (1) The Secretary of State may authorise a universal service provider to purchase compulsorily any land in Scotland where it is necessary to do so for the purpose of providing a universal postal service[^key-e43720d09bdc736f1c25c673ce23bb9f].
+**2.** (1) The Secretary of State may authorise a universal service provider to purchase compulsorily any land in Scotland where it is necessary to do so for the purpose of providing a universal postal service[^c-e43720d09bdc736f1c25c673ce23bb9f].
 
 (2) The power of purchasing land compulsorily under this paragraph includes power to acquire, by creation of a new right, a servitude or other right over land.
 
@@ -44,7 +44,7 @@ Section 95.
 
 **3.** (1) Where a universal service provider proposes to acquire, otherwise than by agreement, any land in Northern Ireland—
 
-- (a)[^key-d2cb5eb7770ced83f4bd4ecfb89fbf89] which it is necessary to acquire for the purpose of providing a universal postal service, or
+- (a)[^c-d2cb5eb7770ced83f4bd4ecfb89fbf89] which it is necessary to acquire for the purpose of providing a universal postal service, or
 - (b) as to which it can reasonably be foreseen that it will be so necessary,
 
 the universal service provider may apply to the Secretary of State for an order vesting the land in him, and the Secretary of State shall have power to make such an order.
@@ -92,7 +92,7 @@ according to the requirements of the particular context.
 
 > 7\. In assessing the compensation to be paid by the acquiring authority under this Act regard shall be had not only to the extent (if any) to which the value of the land over which the right is to be acquired is depreciated by the acquisition of the right but also to the damage (if any) to be sustained by the owner of the land by reason of its severance from other land of his, or injuriously affecting that other land by the exercise of the powers conferred by this or the special Act.
 
-**8.**[^key-24d5780c4d12d613f71bc1a4dfd39f25] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
+**8.**[^c-24d5780c4d12d613f71bc1a4dfd39f25] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
 
 > **SCHEDULE 2A — Counter-notice requiring purchase of land**
 >
@@ -161,7 +161,7 @@ according to the requirements of the particular context.
 
 (3) The provisions shall be so modified as to secure that, as against persons with interests in the land which are expressed to be overridden by the deed, the right which is to be compulsorily acquired is vested absolutely in the acquiring authority.
 
-**10.** Section 11 of that Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority have served notice to treat in respect of any right, the acquiring authority have power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on enforcement officer's or sheriff's warrant[^key-a5fe2feb0aaade9c90490412264ec454] in the event of obstruction) shall be modified correspondingly.
+**10.** Section 11 of that Act (powers of entry) shall be so modified as to secure that, as from the date on which the acquiring authority have served notice to treat in respect of any right, the acquiring authority have power, exercisable in the like circumstances and subject to the like conditions, to enter for the purpose of exercising that right (which shall be deemed for this purpose to have been created on the date of service of the notice); and sections 12 (penalty for unauthorised entry) and 13 (entry on enforcement officer's or sheriff's warrant[^c-a5fe2feb0aaade9c90490412264ec454] in the event of obstruction) shall be modified correspondingly.
 
 **11.** Section 20 of that Act (protection for interests of tenants at will etc.) shall apply with the modifications necessary to secure that persons with such interests as are mentioned in that section are compensated in a manner corresponding to that in which they would be compensated on a compulsory acquisition of that land, but taking into account only the extent (if any) of such interference with such an interest as is actually caused, or likely to be caused, by the exercise of the right in question.
 
@@ -274,11 +274,11 @@ shall be so modified as to secure that, as against persons with interests in the
 
 ## Annotations
 
-[^key-292fb6672803ab14d4e64876722a1727]: Textual amendment: Words in Sch. 5 para. 1(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 54(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/54/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-292fb6672803ab14d4e64876722a1727]: Textual amendment: Words in Sch. 5 para. 1(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 54(2)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/54/2); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-e43720d09bdc736f1c25c673ce23bb9f]: Textual amendment: Words in Sch. 5 para. 2(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 54(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/54/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-e43720d09bdc736f1c25c673ce23bb9f]: Textual amendment: Words in Sch. 5 para. 2(1) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 54(3)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/54/3); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-d2cb5eb7770ced83f4bd4ecfb89fbf89]: Textual amendment: Sch. 5 para. 3(1)(a)(b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 54(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/54/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-d2cb5eb7770ced83f4bd4ecfb89fbf89]: Textual amendment: Sch. 5 para. 3(1)(a)(b) substituted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 54(4)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/54/4); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
 [^c10292551]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33) .
 
@@ -288,9 +288,9 @@ shall be so modified as to secure that, as against persons with interests in the
 
 [^c10292581]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
-[^key-24d5780c4d12d613f71bc1a4dfd39f25]: Textual amendment: Sch. 5 para. 8 substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-24d5780c4d12d613f71bc1a4dfd39f25]: Textual amendment: Sch. 5 para. 8 substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
 
-[^key-a5fe2feb0aaade9c90490412264ec454]: Textual amendment: Words in Sch. 5 para. 10 substituted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2007/15/schedule/22/paragraph/11); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(b)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/b)
+[^c-a5fe2feb0aaade9c90490412264ec454]: Textual amendment: Words in Sch. 5 para. 10 substituted (1.4.2008) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 22 para. 11](https://www.legislation.gov.uk/ukpga/2007/15/schedule/22/paragraph/11); [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 5(b)](https://www.legislation.gov.uk/uksi/2007/2709/article/5/b)
 
 [^c10292591]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 

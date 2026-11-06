@@ -33,18 +33,18 @@ of 1 December 2016
 
 amending Annex I to Regulation (EC) No 794/2004 as regards the form to be used for the notification of State aid to the fishery and aquaculture sector (revoked)
 
-[^key-ff0615f099b25a46884ade9be44cec39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff0615f099b25a46884ade9be44cec39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ff0615f099b25a46884ade9be44cec39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ff0615f099b25a46884ade9be44cec39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ff0615f099b25a46884ade9be44cec39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ff0615f099b25a46884ade9be44cec39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ff0615f099b25a46884ade9be44cec39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff0615f099b25a46884ade9be44cec39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-ff0615f099b25a46884ade9be44cec39]
+## ANNEX[^c-ff0615f099b25a46884ade9be44cec39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff0615f099b25a46884ade9be44cec39]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(t)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/t) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-ff0615f099b25a46884ade9be44cec39]: Textual amendment: Regulation revoked (31.12.2020) by [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [5(t)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/5/t) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

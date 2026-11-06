@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Exemptions[^key-c1106c2856aac2666aebaf92495f422f][^key-79876301c2c4087c1451b14db86f6aa8]
+## 73. Exemptions[^c-c1106c2856aac2666aebaf92495f422f][^c-79876301c2c4087c1451b14db86f6aa8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 15 makes provision in relation to exemptions.
 
 ## Annotations
 
-[^key-c1106c2856aac2666aebaf92495f422f]: Commencement: S. 73 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-c1106c2856aac2666aebaf92495f422f]: Commencement: S. 73 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-79876301c2c4087c1451b14db86f6aa8]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/32/section/73) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-79876301c2c4087c1451b14db86f6aa8]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/32/section/73) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

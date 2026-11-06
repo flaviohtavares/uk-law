@@ -29,14 +29,14 @@ summary: ''
 - (a) the child;
 - (b) each relevant person;
 - (c) any appointed safeguarder;
-- (ca)[^key-8ddf1605ea601ff1e0883cc1b83539bb] any individual who is to be afforded an opportunity to participate in relation to the children’s hearing by virtue of rule 2A;
-- (d) any other individual[^key-91eea1f559ffcc0f72ccf2826d102627] who appears to the Reporter to have or recently have had significant involvement in the upbringing of the child;
+- (ca)[^c-8ddf1605ea601ff1e0883cc1b83539bb] any individual who is to be afforded an opportunity to participate in relation to the children’s hearing by virtue of rule 2A;
+- (d) any other individual[^c-91eea1f559ffcc0f72ccf2826d102627] who appears to the Reporter to have or recently have had significant involvement in the upbringing of the child;
 - (e) the three members of the children's hearing;
 - (f) the National Convener.
 
 (4) As soon as practicable before the beginning of the hearing, the Reporter must give to the persons mentioned in paragraph (3)(a) to (c) such of the information mentioned in rules 23, 26 and 34 as is available.
 
-(4A)[^key-ccdde1d686fbf873a5b1b68b75904282] As soon as practicable before the beginning of the hearing, the Reporter must give to the persons mentioned in paragraph (3)(ca)—
+(4A)[^c-ccdde1d686fbf873a5b1b68b75904282] As soon as practicable before the beginning of the hearing, the Reporter must give to the persons mentioned in paragraph (3)(ca)—
 
 - (a) the information mentioned in rule 23A, and
 - (b) any information (including information contained in a document) that—
@@ -52,7 +52,7 @@ summary: ''
 
 (6) As soon as practicable before the beginning of the hearing, the Reporter must give to the persons mentioned in paragraph (3)(d) the information mentioned in rule 24.
 
-(7)[^key-9aa3176946ddffcb4cdbb4802813b018] Where the Reporter is required by these Rules to give a copy of a report or other document to the members of a children’s hearing before the hearing begins, the Reporter must also give a copy of the report or other document to—
+(7)[^c-9aa3176946ddffcb4cdbb4802813b018] Where the Reporter is required by these Rules to give a copy of a report or other document to the members of a children’s hearing before the hearing begins, the Reporter must also give a copy of the report or other document to—
 
 - (a) the chief social work officer of the relevant local authority for the child, or
 - (b) if the child is subject to a compulsory supervision order or an interim compulsory supervision order, the chief social work officer of the implementation authority.
@@ -61,10 +61,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8ddf1605ea601ff1e0883cc1b83539bb]: Textual amendment: Rule 36(3)(ca) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(10)(a)(i)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/10/a/i)
+[^c-8ddf1605ea601ff1e0883cc1b83539bb]: Textual amendment: Rule 36(3)(ca) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(10)(a)(i)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/10/a/i)
 
-[^key-91eea1f559ffcc0f72ccf2826d102627]: Textual amendment: Words in rule 36(3)(d) substituted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/10/a/ii)
+[^c-91eea1f559ffcc0f72ccf2826d102627]: Textual amendment: Words in rule 36(3)(d) substituted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(10)(a)(ii)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/10/a/ii)
 
-[^key-ccdde1d686fbf873a5b1b68b75904282]: Textual amendment: Rule 36(4A)(4B) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(10)(b)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/10/b)
+[^c-ccdde1d686fbf873a5b1b68b75904282]: Textual amendment: Rule 36(4A)(4B) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(10)(b)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/10/b)
 
-[^key-9aa3176946ddffcb4cdbb4802813b018]: Textual amendment: Rule 36(7)(8) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(10)(c)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/10/c)
+[^c-9aa3176946ddffcb4cdbb4802813b018]: Textual amendment: Rule 36(7)(8) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(10)(c)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/10/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Parental compensation orders[^key-8a779da87a6a646b7a8dbef62218996d]
+## 144. Parental compensation orders[^c-8a779da87a6a646b7a8dbef62218996d]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 10 is to have effect.
 
 ## Annotations
 
-[^key-8a779da87a6a646b7a8dbef62218996d]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2005/15/section/144) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
+[^c-8a779da87a6a646b7a8dbef62218996d]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2005/15/section/144) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)

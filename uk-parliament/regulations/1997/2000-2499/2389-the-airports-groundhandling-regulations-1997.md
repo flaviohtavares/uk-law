@@ -42,7 +42,7 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State for Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to air transport, in exercise of the powers conferred by that section, and of all other powers enabling him in that behalf, hereby makes the following Regulations—
 
-## 1. Citation and commencement[^key-ab3074629bd2f14748072953f831a6e3]
+## 1. Citation and commencement[^c-ab3074629bd2f14748072953f831a6e3]
 
 (1) These Regulations may be cited as the Airports (Groundhandling) Regulations 1997.
 
@@ -62,7 +62,7 @@ The Secretary of State for Transport, being a Minister designated[^f00001] for t
   - (i) in relation to category A airports, on 1st January 1999; and
   - (ii) in relation to category B airports on 1st January 2001.
 
-## 2. Interpretation[^key-5a9248820eef30ba45ccf122dce8b9eb]
+## 2. Interpretation[^c-5a9248820eef30ba45ccf122dce8b9eb]
 
 (1) In these Regulations—
 
@@ -84,29 +84,29 @@ The Secretary of State for Transport, being a Minister designated[^f00001] for t
 - “groundhandling” means the services provided to airport users at airports as described in the Annex to the Directive;
 - “the independent examiner” means the person appointed, pursuant to regulation 18, by the CAA as an independent examiner;
 - “managing body of the airport” means a body which, in conjunction with other activities or not as the case may be, has as its objective under national law or regulation the administration and management of the airport infrastructures, and the co-ordination and control of the activities of the different operators present in the airport or airport system concerned;
-- “Official Record” means a document of that name published on the website of the[^key-f7f0277ff9a432087cd81aaf8f35425a] CAA;
+- “Official Record” means a document of that name published on the website of the[^c-f7f0277ff9a432087cd81aaf8f35425a] CAA;
 - “self-handling” means a situation in which an airport user directly provides for himself one or more categories of groundhandling services and concludes no contract of any description with a third party for the provision of such services; for the purposes of this definition, among themselves airport users shall not be deemed to be third parties where—
   - (a) one holds a majority holding in the other; or
   - (b) a single body has a majority holding in each; and
 - “supplier of groundhandling services” means any person supplying third parties with one or more categories of groundhandling services and in—
-  - (a) regulations 8(a), 10(8) and 26(1)(b)[^key-3960ade658d73a33bedf5b6d217f711e]; and
+  - (a) regulations 8(a), 10(8) and 26(1)(b)[^c-3960ade658d73a33bedf5b6d217f711e]; and
   - (b) save to the extent that it applies to applications made pursuant to regulation 14(1) or 15(1), paragraph 12 of Schedule 1 to these Regulations
 
   includes a person who sought, or who seeks, or would have wished, to be a supplier of groundhandling services.
 
 (2) Other expressions used in these Regulations have, in so far as the context admits, the same meaning as in the Directive and cognate expressions shall be construed accordingly.
 
-(3)[^key-56e551081db691ac26b80ea663244992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-56e551081db691ac26b80ea663244992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any reference in these Regulations to a numbered regulation shall be construed as a reference to the regulation bearing that number in these Regulations.
 
-## 3. Managing body of the airport[^key-df3163a172eefecbb426b9acd546dfa8]
+## 3. Managing body of the airport[^c-df3163a172eefecbb426b9acd546dfa8]
 
 (1) Where an airport or airport system is managed and operated not by a single body but by several separate bodies, each of those bodies shall be considered part of the managing body of the airport for the purposes of these Regulations.
 
 (2) Where only a single managing body is set up for several airports or airport systems, each of those airports or airport systems shall be considered separately for the purposes of these Regulations.
 
-## 4. Service of documents[^key-c043dabe1b8075f7713f991f7c570dde]
+## 4. Service of documents[^c-c043dabe1b8075f7713f991f7c570dde]
 
 (1) Any notice or other document required or authorised by any provision of these Regulations to be served on or given to any person may be served or given—
 
@@ -127,7 +127,7 @@ The Secretary of State for Transport, being a Minister designated[^f00001] for t
 
 and, for the purposes of this paragraph, where a company registered outside the United Kingdom or a partnership carrying on business outside the United Kingdom has an office in the United Kingdom, the principal office of that company or partnership shall be their principal office in the United Kingdom.
 
-## 5. Application[^key-ea0938d50c9b43fbab9cf4da379b59ab]
+## 5. Application[^c-ea0938d50c9b43fbab9cf4da379b59ab]
 
 (1) These Regulations apply to airports in the United Kingdom which are open to commercial traffic.
 
@@ -146,13 +146,13 @@ and, for the purposes of this paragraph, where a company registered outside the 
 
 (4) Where an airport reaches one of the freight traffic thresholds referred to in the definitions in regulation 2 of category A, category B or category C airports the provisions of these Regulations shall not apply to categories of groundhandling services reserved exclusively for passengers save to the extent that they apply by virtue of the airport having also reached one of the passenger movement thresholds referred to in those definitions.
 
-## 6. Airport Users' Committee[^key-88ebae204fae2c1fccbb6afa32a9e24b]
+## 6. Airport Users' Committee[^c-88ebae204fae2c1fccbb6afa32a9e24b]
 
 (1) On or before 14th November 1997 the managing body of an airport shall set up a committee of representatives of airport users or organisations representing airport users in accordance with this regulation.
 
 (2) All airport users shall have the right to be on the committee or, if they so wish, to be represented on it by an organisation appointed to that effect.
 
-## 7. Consultation[^key-aeadf3a382ba08f3777e45014fe5371c]
+## 7. Consultation[^c-aeadf3a382ba08f3777e45014fe5371c]
 
 (1) The managing body of an airport shall ensure that, at least once a year, a consultation relating to the application of these Regulations takes place between itself, the committee referred to in regulation 6 and the persons providing groundhandling services at the airport.
 
@@ -161,14 +161,14 @@ and, for the purposes of this paragraph, where a company registered outside the 
 - (a) the price of those groundhandling services for which a determination has been made pursuant to regulation 11(1)(b); and
 - (b) the organisation of the provision of those services.
 
-## 8. Prohibition of restrictions[^key-417a1c9cee586010a8460ced04d5e465][^key-dcc7b00a5ea895faba68c7a9f6c7d728][^key-5d335b9f4219d7e6fa8ef482118851b4]
+## 8. Prohibition of restrictions[^c-417a1c9cee586010a8460ced04d5e465][^c-dcc7b00a5ea895faba68c7a9f6c7d728][^c-5d335b9f4219d7e6fa8ef482118851b4]
 
 Save as otherwise provided in these Regulations, the managing body of an airport shall take the necessary measures to—
 
-- (a)[^key-417a1c9cee586010a8460ced04d5e465][^key-dcc7b00a5ea895faba68c7a9f6c7d728] ensure free access by suppliers of groundhandling services to the market for the provision of groundhandling services to third parties; and
-- (b)[^key-5d335b9f4219d7e6fa8ef482118851b4] ensure the freedom to self-handle.
+- (a)[^c-417a1c9cee586010a8460ced04d5e465][^c-dcc7b00a5ea895faba68c7a9f6c7d728] ensure free access by suppliers of groundhandling services to the market for the provision of groundhandling services to third parties; and
+- (b)[^c-5d335b9f4219d7e6fa8ef482118851b4] ensure the freedom to self-handle.
 
-## 9. Self-handling[^key-3c7c4f10dc79d87ffd3a607ad485a260]
+## 9. Self-handling[^c-3c7c4f10dc79d87ffd3a607ad485a260]
 
 (1) The CAA may, on an application made to it by the managing body of an airport, determine that, at the airport or part of the airport, the right to self-handle in relation to one or more airside services shall be limited for such period as the CAA thinks fit.
 
@@ -195,7 +195,7 @@ Save as otherwise provided in these Regulations, the managing body of an airport
 
 (9) Where an application is made pursuant to paragraph (1) above, the provisions of Schedule 1, in so far as they relate to such applications, shall apply.
 
-## 10. Groundhandling for third parties[^key-f280405f9ee1b9d472fcaec582bc0376]
+## 10. Groundhandling for third parties[^c-f280405f9ee1b9d472fcaec582bc0376]
 
 (1) The CAA may, on an application made to it by the managing body of an airport, determine that, at the airport or part of the airport, the number of suppliers authorised to provide one or more airside services to third parties shall be limited.
 
@@ -229,25 +229,25 @@ the CAA may vary from time to time or revoke a determination made pursuant to pa
 
 (9) Where an application is made pursuant to paragraph (1) above or where an application or a proposal is made pursuant to paragraph (8) above, the provisions of Schedule 1 to these Regulations, in so far as they relate to such applications or, as the case may be, proposals, shall apply.
 
-(10) In any case where the number of suppliers of groundhandling services is restricted pursuant to paragraph (1) above, the Secretary of State, the CAA and the managing body of the airport concerned shall not prevent an airport user, whatever part of the airport is allocated to him, from having, in respect of each category of groundhandling services subject to that restriction, an effective choice between at least two suppliers of groundhandling services, at least one of whom meets the condition in paragraph (11)[^key-4cb38f177f7cef1f795383cc6e27248f].
+(10) In any case where the number of suppliers of groundhandling services is restricted pursuant to paragraph (1) above, the Secretary of State, the CAA and the managing body of the airport concerned shall not prevent an airport user, whatever part of the airport is allocated to him, from having, in respect of each category of groundhandling services subject to that restriction, an effective choice between at least two suppliers of groundhandling services, at least one of whom meets the condition in paragraph (11)[^c-4cb38f177f7cef1f795383cc6e27248f].
 
-(11)[^key-9750444a795c8567bbb058c510eee6c0] The condition is that the supplier is not directly or indirectly controlled by—
+(11)[^c-9750444a795c8567bbb058c510eee6c0] The condition is that the supplier is not directly or indirectly controlled by—
 
 - (a) the managing body of the airport;
 - (b) any person controlling, or directly or indirectly controlled by, that managing body;
 - (c) any airport user which, during the calendar year preceding that in which that supplier was selected, has carried more than 25% of the passengers or freight recorded at the airport; or
 - (d) any person controlling, or directly or indirectly controlled by, any such airport user.
 
-## 11. Determinations by the CAA[^key-14398ee253f468f216f25fbbefbf4028][^key-1b9674e45a07ef8fa44affd524b6f3b5]
+## 11. Determinations by the CAA[^c-14398ee253f468f216f25fbbefbf4028][^c-1b9674e45a07ef8fa44affd524b6f3b5]
 
-(1) Where at an airport specific constraints of available space or capacity, arising in particular from congestion and area utilisation rate, make it impossible to open up the market for the supply of groundhandling services to the degree provided for in regulations 8 and 10[^key-648e551eb71177fa8c4ca8f5037c9568], the CAA may, on an application made to it by the managing body of the airport concerned, determine to:
+(1) Where at an airport specific constraints of available space or capacity, arising in particular from congestion and area utilisation rate, make it impossible to open up the market for the supply of groundhandling services to the degree provided for in regulations 8 and 10[^c-648e551eb71177fa8c4ca8f5037c9568], the CAA may, on an application made to it by the managing body of the airport concerned, determine to:
 
 - (a) limit the number of suppliers of one or more categories of groundhandling services, other than airside services, to no fewer than two suppliers for each category of groundhandling services; or
 - (b) reserve to a single supplier one or more airside services
 
 at the airport or part of the airport.
 
-(2) Where at an airport specific constraints of available space or capacity, arising in particular from congestion and area utilisation rate, make it impossible to implement self-handling to the degree provided for in regulations 8 and 9[^key-13c459622e118b082411b52f2d52fd9b], the CAA may, on an application made to it by the managing body of the airport concerned, determine to:
+(2) Where at an airport specific constraints of available space or capacity, arising in particular from congestion and area utilisation rate, make it impossible to implement self-handling to the degree provided for in regulations 8 and 9[^c-13c459622e118b082411b52f2d52fd9b], the CAA may, on an application made to it by the managing body of the airport concerned, determine to:
 
 - (a) reserve self-handling to a limited number of airport users for one or more categories of groundhandling services other than airside services; or
 - (b) ban self-handling or restrict it to a single airport user for one or more airside services
@@ -272,7 +272,7 @@ at the airport or part of the airport.
 
 (7) A determination made by the CAA pursuant to paragraph (1) or (2) above shall not:
 
-- (a) unduly prejudice the aims of these Regulations[^key-74f741fff590562d130432f5ca217209];
+- (a) unduly prejudice the aims of these Regulations[^c-74f741fff590562d130432f5ca217209];
 - (b) give rise to distortions of competition between suppliers of groundhandling services or self-handling airport users or both;
 - (c) extend further than necessary.
 
@@ -285,17 +285,17 @@ at the airport or part of the airport.
 
 (10) Where an application is made pursuant to paragraph (1) or (2) above, the provisions of Schedule 1 to these Regulations, in so far as they relate to such applications, shall apply.
 
-(11)[^key-ec7f366a3f37aaf98cb3297ea79466e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-ec7f366a3f37aaf98cb3297ea79466e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-ec7f366a3f37aaf98cb3297ea79466e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-ec7f366a3f37aaf98cb3297ea79466e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) On an application made to it by the managing body of the airport concerned the CAA may determine to renew from time to time any determination made pursuant to paragraph (1) or (2) above save that a determination made pursuant to paragraph (1)(b) above may be renewed once only.
 
-(14) Paragraphs (1) to (10)[^key-b74eae4f2be482db721a48c64e3cdc6f] above shall apply, with the necessary modifications, to an application for and the making of a renewal determination under paragraph (13) above as they applied to the application for and the making of the determination the subject of the application for renewal.
+(14) Paragraphs (1) to (10)[^c-b74eae4f2be482db721a48c64e3cdc6f] above shall apply, with the necessary modifications, to an application for and the making of a renewal determination under paragraph (13) above as they applied to the application for and the making of the determination the subject of the application for renewal.
 
 (15) A determination made pursuant to paragraph (13) above shall be made no later than three months before the expiry of the determination which it is intended to renew and shall come into force no earlier than the date on which that determination expires.
 
-## 12. Selection of suppliers[^key-32cfe0c446b272cfebd38719caf9369f]
+## 12. Selection of suppliers[^c-32cfe0c446b272cfebd38719caf9369f]
 
 (1) Where the CAA has made a determination to which this regulation applies, the managing body of the airport concerned shall take the necessary measures in accordance with this regulation for the organisation of a selection procedure for the suppliers authorised to provide groundhandling services.
 
@@ -310,7 +310,7 @@ at the airport or part of the airport.
 
 (4) Where paragraph 2(b) above applies and the number of suppliers authorised to provide one or more airside services is reduced, any decisions previously made pursuant to paragraph (7) below in relation to those services shall cease to be valid upon the selection of the reduced number of suppliers authorised to provide those services.
 
-(5) For the purpose of selecting the suppliers referred to in paragraph (1) above, the managing body of the airport shall cause an invitation to tender, which complies with paragraph (6) below, to be published in the CAA[^key-f13bd8f560f8821f2a8b9e584ca165bc]’s Official Record.
+(5) For the purpose of selecting the suppliers referred to in paragraph (1) above, the managing body of the airport shall cause an invitation to tender, which complies with paragraph (6) below, to be published in the CAA[^c-f13bd8f560f8821f2a8b9e584ca165bc]’s Official Record.
 
 (6) An invitation to tender which is published pursuant to paragraph (5) above shall specify—
 
@@ -352,7 +352,7 @@ and where at any time on or after the relevant date all of the authorised suppli
 
 (16) In this regulation “relevant date” means 1st January 2001 or, where the Commission has granted a deferral pursuant to Article 6(3) of the Directive, 31st December 2002.
 
-## 13. Managing body of the airport and connected persons providing groundhandling services[^key-eeac559bfc1b9f40fd640533bd9d259e]
+## 13. Managing body of the airport and connected persons providing groundhandling services[^c-eeac559bfc1b9f40fd640533bd9d259e]
 
 (1) This regulation applies where the CAA has made a determination pursuant to regulation 10(1) or regulation 11(1) or where it has made a determination pursuant to regulation 11(13) which renews a determination made pursuant to regulation 11(1).
 
@@ -365,7 +365,7 @@ and where at any time on or after the relevant date all of the authorised suppli
 
 (3) Where the managing body of an airport or a person authorised by that body provides groundhandling services pursuant to paragraph (2) above, that managing body or authorised person shall be one of the number of suppliers specified in accordance with regulation 10(2)(c) or regulation 11(3)(c), as the case may be.
 
-## 14. Centralised infrastructures[^key-e2b08b358930b97f9248702c1e3eb282]
+## 14. Centralised infrastructures[^c-e2b08b358930b97f9248702c1e3eb282]
 
 (1) On an application from the managing body of an airport, the CAA may determine to reserve for that managing body or for another person the management of the centralised infrastructures used for the supply of groundhandling services whose complexity, cost or environmental impact does not allow of division or duplication, such as baggage sorting, de-icing, water purification and fuel-distribution systems.
 
@@ -373,7 +373,7 @@ and where at any time on or after the relevant date all of the authorised suppli
 
 (3) The person for whom the management of a centralised infrastructure has been reserved pursuant to paragraph (1) above shall ensure that the management of that infrastructure is transparent, objective and non-discriminatory and, in particular, that it does not hinder the access of suppliers of groundhandling services or self-handling airport users within the limits provided for in these Regulations.
 
-(4)[^key-39ad273bb309a6f329f2ff13149dc5dd] On its own proposal or on an application made to it by–
+(4)[^c-39ad273bb309a6f329f2ff13149dc5dd] On its own proposal or on an application made to it by–
 
 - (a) the managing body of the airport concerned,
 - (b) the person for whom has been reserved the management of the centralised infrastructures in question, where that person is not the managing body of the airport concerned,
@@ -384,7 +384,7 @@ the CAA may vary from time to time or revoke a determination made pursuant to pa
 
 (5) Where an application is made pursuant to paragraph (1) above or where an application or proposal is made pursuant to paragraph (4) above, the provisions of Schedule 1 to these Regulations, in so far as they relate to such applications, or, as the case may be, proposals, shall apply.
 
-## 15. Prohibition of suppliers and airport users[^key-6b61467163645e806868b81adfbb3ecc][^key-104d193b52df3d556ea396c6937d14d9][^key-32d056ec63312a14561cf9fffe79ad8d]
+## 15. Prohibition of suppliers and airport users[^c-6b61467163645e806868b81adfbb3ecc][^c-104d193b52df3d556ea396c6937d14d9][^c-32d056ec63312a14561cf9fffe79ad8d]
 
 (1) Where, on an application made to it by the managing body of an airport, the CAA is satisfied that a supplier of groundhandling services or an airport user has failed to comply with a rule imposed upon him to ensure the proper functioning of the airport, and that rule—
 
@@ -401,7 +401,7 @@ the CAA may, subject to regulation 10(10), determine to prohibit, for such perio
 
 (5) In this regulation “rule” includes an obligation contained in an agreement, a byelaw made under section 63 of the Airports Act 1986[^f00006] or Article 18 of the Airports (Northern Ireland) Order 1994[^f00007], or otherwise.
 
-## 16. Access to airport installations[^key-fbc03f4e65c6fbc0dad4ca3a6189ca5d][^key-52a80faf11dfe1476613049a120c99ae][^key-4b6d35f4f0a7465002bd084bf82aa249]
+## 16. Access to airport installations[^c-fbc03f4e65c6fbc0dad4ca3a6189ca5d][^c-52a80faf11dfe1476613049a120c99ae][^c-4b6d35f4f0a7465002bd084bf82aa249]
 
 Subject to regulations 9, 10, 11, 14, 15 and 19, the managing body of an airport or, where appropriate, the public authority or any other body which controls it shall take the necessary measures to ensure that—
 
@@ -410,7 +410,7 @@ Subject to regulations 9, 10, 11, 14, 15 and 19, the managing body of an airport
 - (c) the space available for groundhandling at the airport is divided among the various suppliers of groundhandling services and self-handling airport users, including new entrants in the field, to the extent necessary for the exercise of their rights and to allow effective and fair competition on the basis of relevant, objective, transparent and non-discriminatory rules and criteria;
 - (d) any fee charged for such access is determined according to relevant, objective, transparent and non-discriminatory criteria.
 
-## 17. Separation of accounts[^key-468d735c04abcf696d9ef35395e30d77][^key-0cdf2e2d1136b5d68c7123422b6c831e]
+## 17. Separation of accounts[^c-468d735c04abcf696d9ef35395e30d77][^c-0cdf2e2d1136b5d68c7123422b6c831e]
 
 (1) A person to whom this regulation applies shall rigorously separate the accounts of his groundhandling activities from the accounts of his other activities in accordance with current commercial practice.
 
@@ -425,7 +425,7 @@ Subject to regulations 9, 10, 11, 14, 15 and 19, the managing body of an airport
 
 (4) The managing body of an airport shall not cause or permit its groundhandling activities to be subsidised from the revenue it derives from its role as an airport authority.
 
-## 18. Independent examiner[^key-1b26f5d41537006ca76d28999eb7ff86][^key-67b2470c78171d1becfb7041eb6fc4b9]
+## 18. Independent examiner[^c-1b26f5d41537006ca76d28999eb7ff86][^c-67b2470c78171d1becfb7041eb6fc4b9]
 
 (1) In any case where, pursuant to regulation 17, the managing body of an airport, an airport user or a supplier of groundhandling services is required to separate its accounts, the CAA shall appoint in relation to that managing body, airport user or supplier a person to undertake the duties of the independent examiner described in this regulation.
 
@@ -443,20 +443,20 @@ Subject to regulations 9, 10, 11, 14, 15 and 19, the managing body of an airport
 
 (8) The independent examiner shall be entitled to recover from the person in relation to whom he has been appointed a sum equal to any expense reasonably incurred by him in undertaking the duties of the independent examiner described in this regulation.
 
-## 19. Reciprocity[^key-cb2855983f681b3a6b26dca0958dd356][^key-9f52c62eef2b0e451c017f64957fd168][^key-dc7179110fcb1d6d4908905e24ae31bf]
+## 19. Reciprocity[^c-cb2855983f681b3a6b26dca0958dd356][^c-9f52c62eef2b0e451c017f64957fd168][^c-dc7179110fcb1d6d4908905e24ae31bf]
 
 (1) Where it appears to the Secretary of State that a third country, with respect to access to the groundhandling or self-handling market:
 
-- (a) does not, *de jure* or *de facto*, grant suppliers of groundhandling services and self-handling airport users from the United Kingdom [^key-32eae8905156c02c3a462ab50b394114]... treatment comparable to that granted by the United Kingdom [^key-7256eadd8cbe6566598521a2b9a6e4d9]... to suppliers of groundhandling services and self-handling airport users from that third country; or
-- (b) grant suppliers of groundhandling services and self-handling airport users from that third country or from other third countries more favourable treatment than suppliers of groundhandling services and self-handling airport users from the United Kingdom [^key-caefb02d0d4cf35b659ed7e8aad23139]...
+- (a) does not, *de jure* or *de facto*, grant suppliers of groundhandling services and self-handling airport users from the United Kingdom [^c-32eae8905156c02c3a462ab50b394114]... treatment comparable to that granted by the United Kingdom [^c-7256eadd8cbe6566598521a2b9a6e4d9]... to suppliers of groundhandling services and self-handling airport users from that third country; or
+- (b) grant suppliers of groundhandling services and self-handling airport users from that third country or from other third countries more favourable treatment than suppliers of groundhandling services and self-handling airport users from the United Kingdom [^c-caefb02d0d4cf35b659ed7e8aad23139]...
 
 the Secretary of State may wholly or partially suspend the obligations arising from these Regulations in respect of suppliers of groundhandling services and airport users from that third country.
 
-(2)[^key-4526e020f9226405807e74b52256c428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4526e020f9226405807e74b52256c428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) In this regulation “third country” means any country or territory other than the United Kingdom [^key-f1b1fa1a04e070f014a26906d5eab0df]... or Gibraltar.
+(3) In this regulation “third country” means any country or territory other than the United Kingdom [^c-f1b1fa1a04e070f014a26906d5eab0df]... or Gibraltar.
 
-## 20. Appeals[^key-1101a6e2b72af235f215478d60c65952]
+## 20. Appeals[^c-1101a6e2b72af235f215478d60c65952]
 
 (1) Any person who is aggrieved by a decision or individual measure taken pursuant to regulation 7, 12 or 16 by the managing body of an airport or, in the case of regulation 16, the public authority or other body controlling the airport shall have the right to appeal to the CAA and the provisions of Part I of Schedule 2 to these Regulations shall apply in relation to such an appeal.
 
@@ -466,7 +466,7 @@ the Secretary of State may wholly or partially suspend the obligations arising f
 
 (4) A determination made pursuant to regulation 15 shall not take effect before the expiration of the period within which an appeal may be made against that determination (which period is described in Part II of Schedule 2 to these Regulations) nor, if such an appeal is brought within that period, before the determination or abandonment of the appeal.
 
-## 21. Supplementary provisions with regard to the CAA[^key-c228f55d42ab2beec5d260ed658f360c]
+## 21. Supplementary provisions with regard to the CAA[^c-c228f55d42ab2beec5d260ed658f360c]
 
 (1) The functions of the CAA to which this paragraph applies shall not be performed by any person other than a member of the CAA.
 
@@ -482,7 +482,7 @@ the Secretary of State may wholly or partially suspend the obligations arising f
 
 (3) Any other function which the CAA is required to perform under these Regulations may be performed only by a member or an employee of the CAA.
 
-## 22. Furnishing of information etc. to CAA[^key-3a863f16f8a393d762f4155d7f585f9a][^key-4ab941d97583b9c95da92e9c87063139]
+## 22. Furnishing of information etc. to CAA[^c-3a863f16f8a393d762f4155d7f585f9a][^c-4ab941d97583b9c95da92e9c87063139]
 
 (1) The CAA may by a notice in writing served on any person require him to furnish to the CAA, in such form and at such times as may be specified in the notice, information of such descriptions as may be so specified which relates to the accounts of any person to whom the requirements of regulation 17 apply.
 
@@ -495,7 +495,7 @@ the Secretary of State may wholly or partially suspend the obligations arising f
 
 (4) Any person who, in purported compliance with the requirements of any such notice, knowingly or recklessly furnishes information which is false in a material particular shall be guilty of an offence.
 
-## 23. Restriction on disclosure of information[^key-5c20a4f0f20ba387bf143d3a8677d173][^key-7a191981a18eef4fcf444ca602001918]
+## 23. Restriction on disclosure of information[^c-5c20a4f0f20ba387bf143d3a8677d173][^c-7a191981a18eef4fcf444ca602001918]
 
 (1) Subject to paragraph (2) below, no information with respect to any particular business which has been obtained under or by virtue of regulation 22 shall, so long as the business continues to be carried on, be disclosed without the consent of the person for the time being carrying it on.
 
@@ -509,21 +509,21 @@ the Secretary of State may wholly or partially suspend the obligations arising f
 
 (4) Any person who discloses any information in contravention of this regulation shall be guilty of an offence.
 
-## 24. Penalties[^key-8afbb59e45bb5bf9b3a4aaf662fae979][^key-1da1d78ce6e20006f6ea4d3d39aec56e]
+## 24. Penalties[^c-8afbb59e45bb5bf9b3a4aaf662fae979][^c-1da1d78ce6e20006f6ea4d3d39aec56e]
 
 (1) A person who is guilty of an offence under regulation 17(3) or 22(4) shall be liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-(2) A person who is guilty of an offence under regulation 22(3) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale[^key-13c7efdf595b316f9a9c1f4632c966da].
+(2) A person who is guilty of an offence under regulation 22(3) shall be liable on summary conviction to a fine not exceeding level 5 on the standard scale[^c-13c7efdf595b316f9a9c1f4632c966da].
 
 (3) A person who is guilty of an offence under regulation 23(4) shall be liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-## 25. Offences by bodies corporate and Scottish partnerships[^key-e4180974effea3ae26cbb5695eb15e48][^key-02916e72ed46022a592155d479615e4d]
+## 25. Offences by bodies corporate and Scottish partnerships[^c-e4180974effea3ae26cbb5695eb15e48][^c-02916e72ed46022a592155d479615e4d]
 
 (1) Where an offence under these Regulations has been committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and be liable to be proceeded against and punished accordingly.
 
@@ -531,7 +531,7 @@ the Secretary of State may wholly or partially suspend the obligations arising f
 
 (3) Where a Scottish partnership is guilty of an offence under these Regulations and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, he as well as the partnership shall be guilty of that offence and shall be liable to be prosecuted against and punished accordingly.
 
-## 26. Civil liability[^key-f797de1c8c3e5197ac375865a82d35fe]
+## 26. Civil liability[^c-f797de1c8c3e5197ac375865a82d35fe]
 
 (1) The obligation on the managing body of an airport to comply with—
 
@@ -557,11 +557,11 @@ the Secretary of State may wholly or partially suspend the obligations arising f
 
 (9) Notwithstanding sections 21 and 42 of the Crown Proceedings Act 1947[^f00009], in proceedings brought under this regulation against the Crown the Court shall have power to grant an injunction or interdict.
 
-## 27. Miscellaneous[^key-b9e2d396a6b8367b1baa2ea2dbda546c]
+## 27. Miscellaneous[^c-b9e2d396a6b8367b1baa2ea2dbda546c]
 
 (1) Section 4 of the Civil Aviation Act 1982[^f00004] shall not apply in relation to the performance by the CAA of its functions under these Regulations.
 
-(2) Nothing contained in [^key-6ea6717419d426954cfaca648bc84d48]... Part 1 of the Civil Aviation Act 2012[^key-e9da09cf11de3b3fcfc0292f2db8da7a], and nothing which is done under that Part[^key-e0d7e42acbb97daa5c13f820685a6647], shall prejudice or affect the operation of the provisions contained in these Regulations.
+(2) Nothing contained in [^c-6ea6717419d426954cfaca648bc84d48]... Part 1 of the Civil Aviation Act 2012[^c-e9da09cf11de3b3fcfc0292f2db8da7a], and nothing which is done under that Part[^c-e0d7e42acbb97daa5c13f820685a6647], shall prejudice or affect the operation of the provisions contained in these Regulations.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -577,46 +577,46 @@ Department of the Environment, Transport and the Regions
 
 Regulations 9(9), 10(9), 11(10), 14(4) and 15(4)
 
-**1.**[^key-90b752ce397f908da3fe7859f251e483][^key-e76f596ac2eeb062a66d00077afc71e8][^key-6f16f258ae9ee447c8eea8d0190d83fc][^key-5f710d68b7d2892c80046b11b7a85639]
+**1.**[^c-90b752ce397f908da3fe7859f251e483][^c-e76f596ac2eeb062a66d00077afc71e8][^c-6f16f258ae9ee447c8eea8d0190d83fc][^c-5f710d68b7d2892c80046b11b7a85639]
 
-- (a) An application to which the provisions of this Schedule apply shall be made in writing to the CAA and [^key-72d1c6e769c90c514123ee5af6fdb74e]... shall contain such particulars with respect to such matters as the CAA may specify in a notice published in its Official Record.
+- (a) An application to which the provisions of this Schedule apply shall be made in writing to the CAA and [^c-72d1c6e769c90c514123ee5af6fdb74e]... shall contain such particulars with respect to such matters as the CAA may specify in a notice published in its Official Record.
 - (b) A notice published pursuant to sub-paragraph (a) above may be altered or cancelled by subsequent notice published pursuant to that sub-paragraph.
 
-**2.**[^key-a31c5e345374340fedcef5bbb7b9e2df][^key-3eac7606e27e37420dddd6a30f094a80][^key-a2eb356e0f50144823ae29651cc4a2d6][^key-66ac54fd1c5b357f70c2922268520fe1] An application made pursuant to regulation 11(1), (2) or (13) shall be accompanied by a plan of appropriate measures to overcome the specific constraints of available space or capacity which allegedly make it impossible to open up the market or, as the case may be, implement self-handling to the degree provided for in these Regulations.
+**2.**[^c-a31c5e345374340fedcef5bbb7b9e2df][^c-3eac7606e27e37420dddd6a30f094a80][^c-a2eb356e0f50144823ae29651cc4a2d6][^c-66ac54fd1c5b357f70c2922268520fe1] An application made pursuant to regulation 11(1), (2) or (13) shall be accompanied by a plan of appropriate measures to overcome the specific constraints of available space or capacity which allegedly make it impossible to open up the market or, as the case may be, implement self-handling to the degree provided for in these Regulations.
 
-**3.**[^key-dc31cf0409123f0498d3fd308bd0dfe2][^key-425b99b8c07566f6c483327a84ec4ae8][^key-f9751ffacf06a3da68bf70df5b710b7a][^key-a0b10ea915e21a20474917b9b83d36da] The provisions of this Schedule apply, save as otherwise provided, to applications made to the CAA pursuant to regulations 9(1), 10(1) and (8), 11(1), (2) and (13), 14(1) and (4)[^key-fb37b04435c8c5ceca1293c0f5f39a02] and 15(1).
+**3.**[^c-dc31cf0409123f0498d3fd308bd0dfe2][^c-425b99b8c07566f6c483327a84ec4ae8][^c-f9751ffacf06a3da68bf70df5b710b7a][^c-a0b10ea915e21a20474917b9b83d36da] The provisions of this Schedule apply, save as otherwise provided, to applications made to the CAA pursuant to regulations 9(1), 10(1) and (8), 11(1), (2) and (13), 14(1) and (4)[^c-fb37b04435c8c5ceca1293c0f5f39a02] and 15(1).
 
-**4.**[^key-ccced563d2e1beb1e24aa251bb8b35ad][^key-3e74e100339679ea23cf0d6473aad5ad][^key-fabea3a116f921a6158e4c0983042cd8][^key-26cb70e5e8b321ac9f0ce0e231939a96] The CAA may refuse to consider an application unless it contains all the particulars specified by the CAA pursuant to paragraph 1 above.
+**4.**[^c-ccced563d2e1beb1e24aa251bb8b35ad][^c-3e74e100339679ea23cf0d6473aad5ad][^c-fabea3a116f921a6158e4c0983042cd8][^c-26cb70e5e8b321ac9f0ce0e231939a96] The CAA may refuse to consider an application unless it contains all the particulars specified by the CAA pursuant to paragraph 1 above.
 
-**5.**[^key-3a9a8992fbd105e0b05db04416ee8ffe][^key-b5a0c9c30cd865acbe75bf5e106a1fd6][^key-279072b9ea8131c34ad1ff9b2051106c][^key-efa13d1d3e8d71aa070c3b5c4114223f] Where, pursuant to regulation 10(8), the CAA proposes to revoke or vary a determination made pursuant to regulation 10(1), it shall serve on—
+**5.**[^c-3a9a8992fbd105e0b05db04416ee8ffe][^c-b5a0c9c30cd865acbe75bf5e106a1fd6][^c-279072b9ea8131c34ad1ff9b2051106c][^c-efa13d1d3e8d71aa070c3b5c4114223f] Where, pursuant to regulation 10(8), the CAA proposes to revoke or vary a determination made pursuant to regulation 10(1), it shall serve on—
 
 - (a) the managing body of the airport concerned, and
 - (b) any supplier of groundhandling services who, pursuant to regulation 12(7), has been selected in relation to that determination to provide groundhandling services at the airport
 
 notice of the proposal together with the reasons for it.
 
-**5A.**[^key-e99ca20c83d2f22268c41113bc7302da] Where, pursuant to regulation 14(4), the CAA proposes to revoke or vary a determination made pursuant to regulation 14(1), it shall serve on–
+**5A.**[^c-e99ca20c83d2f22268c41113bc7302da] Where, pursuant to regulation 14(4), the CAA proposes to revoke or vary a determination made pursuant to regulation 14(1), it shall serve on–
 
 - (a) the managing body of the airport concerned, and
 - (b) the person for whom has been reserved the management of the centralised infrastructures in question, where that person is not the managing body of the airport concerned,
 
 notice of the proposal together with the reasons for it.
 
-**6.**[^key-5bb0d8cc9e18da00e2bd0c0d3197e829][^key-4743cbdf78f3663a68ee2ac4aba76253][^key-36ed3781c124191196f140b71a4f96dc][^key-bb87d28b57c5170442dfd7b133498296] Where the managing body of an airport makes an application to the CAA pursuant to regulation 15(1), the CAA shall serve on the supplier of groundhandling services or the airport user to whom it relates a copy of the application.
+**6.**[^c-5bb0d8cc9e18da00e2bd0c0d3197e829][^c-4743cbdf78f3663a68ee2ac4aba76253][^c-36ed3781c124191196f140b71a4f96dc][^c-bb87d28b57c5170442dfd7b133498296] Where the managing body of an airport makes an application to the CAA pursuant to regulation 15(1), the CAA shall serve on the supplier of groundhandling services or the airport user to whom it relates a copy of the application.
 
-**7.**[^key-0ff628e7a9d23b50311cbb7738895ddf][^key-f0831cb6f1949364fd0759667e54cf4b][^key-2a84f5a800044b6cb923e4d0851dbdcb][^key-8e85055a1634383ff5fc801307fe9c18] In the following provisions of this Schedule, save where the context otherwise admits, “application” shall include a proposal in respect of which notice has been served pursuant to paragraph 5 or paragraph 5A[^key-40bc4e8e30c426bdbf6a36c60a4963d4] above.
+**7.**[^c-0ff628e7a9d23b50311cbb7738895ddf][^c-f0831cb6f1949364fd0759667e54cf4b][^c-2a84f5a800044b6cb923e4d0851dbdcb][^c-8e85055a1634383ff5fc801307fe9c18] In the following provisions of this Schedule, save where the context otherwise admits, “application” shall include a proposal in respect of which notice has been served pursuant to paragraph 5 or paragraph 5A[^c-40bc4e8e30c426bdbf6a36c60a4963d4] above.
 
-**8.**[^key-091cb2fd0a06d133b42f2c31a15ac683][^key-7ddc994f913b5cf7d4d736af0f40bdda][^key-8a2f759878f63d3ae230ebb73bc9c14f][^key-cb474008f0aec513a953e163563cef7b] The CAA shall cause such particulars of the application as it thinks necessary for indicating the substance of the application to be published in its Official Record and shall make a copy of the application available at its principal office for inspection by any person at any reasonable time.
+**8.**[^c-091cb2fd0a06d133b42f2c31a15ac683][^c-7ddc994f913b5cf7d4d736af0f40bdda][^c-8a2f759878f63d3ae230ebb73bc9c14f][^c-cb474008f0aec513a953e163563cef7b] The CAA shall cause such particulars of the application as it thinks necessary for indicating the substance of the application to be published in its Official Record and shall make a copy of the application available at its principal office for inspection by any person at any reasonable time.
 
-**9.**[^key-5b78133061f67f21dabc84055821c11d][^key-18bdf7cb15f03ff0fe0696874509a9ce][^key-e9ff9aacb5da8c907cc044c805134efa][^key-7a2e8941b05c11e6d46945df3f10facf] The publication referred to in paragraph 8 above shall specify a period for the service of objections or representations which period shall be not less than 14 days beginning on the date of publication unless the CAA is satisfied that for reasons of urgency it is desirable to specify a shorter period.
+**9.**[^c-5b78133061f67f21dabc84055821c11d][^c-18bdf7cb15f03ff0fe0696874509a9ce][^c-e9ff9aacb5da8c907cc044c805134efa][^c-7a2e8941b05c11e6d46945df3f10facf] The publication referred to in paragraph 8 above shall specify a period for the service of objections or representations which period shall be not less than 14 days beginning on the date of publication unless the CAA is satisfied that for reasons of urgency it is desirable to specify a shorter period.
 
-**10.**[^key-5aa9fe8dffe673aff063628851760b3f][^key-4cb717b174509a10c57ee78be473e429][^key-2c5d3236c2831c647a300083bf3177e3][^key-abd37144ee13650707aba90a21fd15a6] Any person may serve on the CAA an objection to, or representation about, an application published pursuant to paragraph 8 above where—
+**10.**[^c-5aa9fe8dffe673aff063628851760b3f][^c-4cb717b174509a10c57ee78be473e429][^c-2c5d3236c2831c647a300083bf3177e3][^c-abd37144ee13650707aba90a21fd15a6] Any person may serve on the CAA an objection to, or representation about, an application published pursuant to paragraph 8 above where—
 
 - (a) he does so in writing within the period specified in the publication referred to in that paragraph;
 - (b) in the case of an application referred to in paragraph 3 above, he serves a copy of his objection or representation on the applicant within 24 hours after it has been served on the CAA; and
 - (c) he states the grounds of his objection or representation.
 
-**11.**[^key-01f1cf9606f93f67564384fb1e190809][^key-d8c2455d397cf3402fe6a59e73125647][^key-9e88d2b2e51bd5899efa398d16c1be22][^key-b04248e1be0a2211624a2d105d18666a][^key-b199b48b28e1f6832a22cde294af68fe] (1) Before the date fixed for the hearing of an application pursuant to paragraph 12 below, and subject to sub-paragraphs (2) and (3) below, the CAA shall serve on any person who has the right to be heard in connection with the application or whom the CAA proposes to hear a copy of, or a summary of, any information in the possession of the CAA which has been provided in connection with the application or which the CAA has reason to believe will be referred to at the hearing of the application.
+**11.**[^c-01f1cf9606f93f67564384fb1e190809][^c-d8c2455d397cf3402fe6a59e73125647][^c-9e88d2b2e51bd5899efa398d16c1be22][^c-b04248e1be0a2211624a2d105d18666a][^c-b199b48b28e1f6832a22cde294af68fe] (1) Before the date fixed for the hearing of an application pursuant to paragraph 12 below, and subject to sub-paragraphs (2) and (3) below, the CAA shall serve on any person who has the right to be heard in connection with the application or whom the CAA proposes to hear a copy of, or a summary of, any information in the possession of the CAA which has been provided in connection with the application or which the CAA has reason to believe will be referred to at the hearing of the application.
 
 (2) Before serving any information provided by a supplier the CAA shall consult that supplier.
 
@@ -629,7 +629,7 @@ then the CAA shall not serve the information.
 
 (4) In this paragraph, “supplier” means a person who has provided to the CAA information in connection with an application to which the provisions of this Schedule apply.
 
-**12.**[^key-c182cefeff84bcc75b5af1b9fadfcaa9][^key-3072eb9b6471cff4be7ff679c920a755][^key-42616b7a2c8e4017cfd393cdaf2a752f][^key-730ea6cbae868e9a534e2c4aaec5f618] (1) Subject to sub-paragraph (2) below, before any decision is made on an application published pursuant to paragraph 8 above the following persons shall have the right to be heard:
+**12.**[^c-c182cefeff84bcc75b5af1b9fadfcaa9][^c-3072eb9b6471cff4be7ff679c920a755][^c-42616b7a2c8e4017cfd393cdaf2a752f][^c-730ea6cbae868e9a534e2c4aaec5f618] (1) Subject to sub-paragraph (2) below, before any decision is made on an application published pursuant to paragraph 8 above the following persons shall have the right to be heard:
 
 - (a) the managing body of the airport concerned;
 - (b) an airport user;
@@ -641,13 +641,13 @@ then the CAA shall not serve the information.
 
 (4) No hearing shall be held pursuant to this paragraph unless the CAA has served on all persons having a right to be heard and whom it proposes to hear in connection with the application not less than 14 days' notice of the date, time and place of the hearing, and the notice shall clearly identify the application to which it relates; a similar notice shall be published not less than 7 days before the date of the hearing and shall be exhibited in a public place in the CAA’s principal office during the 7 days immediately preceding the date of the hearing.
 
-**13.**[^key-3a7b687d2bf27c0845afb02688dc7e75][^key-665497eaefcfe25469777e912f523fe0][^key-79b633b582c4a5428b0a21418cc67d95][^key-56622a1cd5e587d4ffe1d6aafd5c4d6c] (1) Hearings shall be conducted by the CAA, sitting with such employees of the CAA acting as advisers as it thinks fit.
+**13.**[^c-3a7b687d2bf27c0845afb02688dc7e75][^c-665497eaefcfe25469777e912f523fe0][^c-79b633b582c4a5428b0a21418cc67d95][^c-56622a1cd5e587d4ffe1d6aafd5c4d6c] (1) Hearings shall be conducted by the CAA, sitting with such employees of the CAA acting as advisers as it thinks fit.
 
 (2) At a hearing every party to the case may appear in person or be represented by any other person whom he may have authorised to represent him and may produce oral and written evidence and may examine any other party to the case, any person whom the CAA hears pursuant to paragraph 12(3) above and any witnesses produced by any such party or person. The CAA may, to such extent as it thinks fit, permit any person heard by it pursuant to paragraph 12(3) above to exercise at the hearing the rights set out in this paragraph of a party to the case.
 
 (3) Any person who has served an objection or representation pursuant to paragraph 10 above but who does not wish to be heard may make a written submission which he shall serve on the CAA not less than 3 working days before the date fixed for the hearing of the case.
 
-(4) Every hearing shall be held in public unless the CAA otherwise decides in relation to the whole or part of a particular application [^key-978014806401b24239588931beb367d2]....
+(4) Every hearing shall be held in public unless the CAA otherwise decides in relation to the whole or part of a particular application [^c-978014806401b24239588931beb367d2]....
 
 (5)
 
@@ -655,35 +655,35 @@ then the CAA shall not serve the information.
 - (b) The CAA shall not be required to make available a mechanical recording or transcript of the record of the proceedings at any time after the expiry of one year from the day of publication of its decision on the application.
 - (c) A mechanical recording or transcript of the record of proceedings conducted otherwise than in public shall only be required to be made available for purchase by any party to the case or by any other person heard by the CAA at those proceedings.
 
-**14.**[^key-2f056b3b96eef8aacbfe621700cb4231][^key-f82b1e0d96e03911320cb9e3ffb4aeb9][^key-63857f11a92fc043fc46a803a35445ab][^key-3ffc58d54dd54dd66fed14e855506fb4] The CAA shall notify—
+**14.**[^c-2f056b3b96eef8aacbfe621700cb4231][^c-f82b1e0d96e03911320cb9e3ffb4aeb9][^c-63857f11a92fc043fc46a803a35445ab][^c-3ffc58d54dd54dd66fed14e855506fb4] The CAA shall notify—
 
 - (a) the managing body of the airport concerned;
-- (b) in the case of an application made pursuant to regulation 10(8) or regulation 14(4)[^key-e4e9c7b5a371b8262859ea6383e2293a] by a person other than the managing body of the airport, that person;
+- (b) in the case of an application made pursuant to regulation 10(8) or regulation 14(4)[^c-e4e9c7b5a371b8262859ea6383e2293a] by a person other than the managing body of the airport, that person;
 - (c) any person whom it has heard in connection with the application; and
 - (d) in the case of an application made pursuant to regulation 15(1), the supplier of groundhandling services or, as the case may be, the airport user in relation to whom the application was made
 
 of its determination and of its reasons for the determination.
 
-**15.**[^key-fd75f4edbf70de93338aa1e64b0d0527][^key-d2eac4714f4cb7f3b38541c957cb3f59][^key-1c8ce2831f087352bb942840e0d9b735][^key-6e660495e81ad3f051c7ccedc11fbd6d] The CAA shall cause particulars of its determination and of its reasons for the determination to be published in its Official Record.
+**15.**[^c-fd75f4edbf70de93338aa1e64b0d0527][^c-d2eac4714f4cb7f3b38541c957cb3f59][^c-1c8ce2831f087352bb942840e0d9b735][^c-6e660495e81ad3f051c7ccedc11fbd6d] The CAA shall cause particulars of its determination and of its reasons for the determination to be published in its Official Record.
 
-**16.**[^key-e8ac6a173a6123db878f9a27712f3307][^key-e82e46b180b12a117ce64328b2c0184d][^key-cb169b0f43d3c9585943d5f732f221e0][^key-f12d06e2ffe9230cec03903118ef46c7] Where the CAA makes a determination pursuant to regulation 9(1) or 10(1), the particulars published pursuant to paragraph 15 above shall include:
+**16.**[^c-e8ac6a173a6123db878f9a27712f3307][^c-e82e46b180b12a117ce64328b2c0184d][^c-cb169b0f43d3c9585943d5f732f221e0][^c-f12d06e2ffe9230cec03903118ef46c7] Where the CAA makes a determination pursuant to regulation 9(1) or 10(1), the particulars published pursuant to paragraph 15 above shall include:
 
 - (a) the matters required by regulation 9(2) or, as the case may be, 10(2) to be specified in relation to such a determination; and
 - (b) in the case of a determination made pursuant to regulation 9(1), the relevant, objective, transparent and non-discriminatory criteria on which the CAA based its choice of airport users in accordance with regulation 9(3).
 
-**17.**[^key-1d23c1eba0c93552e7ffeaaa5ca6bbb1][^key-3fafe190ac2167cc3a6da1132dc9863d][^key-874a582b14583e4aee805cd1510c704a][^key-873c3c9f4188ed2d800ca617f73cad4c] Where the CAA makes a determination pursuant to regulation 11(1), (2) or (13), the particulars published pursuant to paragraph 15 above shall include—
+**17.**[^c-1d23c1eba0c93552e7ffeaaa5ca6bbb1][^c-3fafe190ac2167cc3a6da1132dc9863d][^c-874a582b14583e4aee805cd1510c704a][^c-873c3c9f4188ed2d800ca617f73cad4c] Where the CAA makes a determination pursuant to regulation 11(1), (2) or (13), the particulars published pursuant to paragraph 15 above shall include—
 
 - (a) the matters required by regulation 11(3) to be specified in relation to such a determination;
 - (b) the place where, and the hours during which, a copy of the plan referred to in paragraph 2 above may be viewed; and
 - (c) in the case of a determination made pursuant to regulation 11(2) or a determination made pursuant to regulation 11(13) which renews a determination made pursuant to regulation 11(2), the relevant, objective, transparent and non-discriminatory criteria on which the CAA based its choice of airport users in accordance with regulation 11(4).
 
-**18.**[^key-5841239258e8ab322e258df68f2404b4][^key-f5b12433dfe88d3c099e647b6b05c0ad][^key-1ea9d0f5fcf1c9041a73ef8b2787c3e7][^key-bd6d1a8b9e6bcf8f6837fa767c4a47ce] Where, pursuant to regulation 9(6) or 10(5), notice is served on the CAA to the effect that an airport has become a category A, category B or, as the case may be, a category C airport, the CAA shall cause a notice to the same effect to be published in its Official Record. The CAA’s notice shall also include a statement to the effect that the determination made in relation to that airport pursuant to regulation 9(1) or, as the case may be, 10(1) has taken effect.
+**18.**[^c-5841239258e8ab322e258df68f2404b4][^c-f5b12433dfe88d3c099e647b6b05c0ad][^c-1ea9d0f5fcf1c9041a73ef8b2787c3e7][^c-bd6d1a8b9e6bcf8f6837fa767c4a47ce] Where, pursuant to regulation 9(6) or 10(5), notice is served on the CAA to the effect that an airport has become a category A, category B or, as the case may be, a category C airport, the CAA shall cause a notice to the same effect to be published in its Official Record. The CAA’s notice shall also include a statement to the effect that the determination made in relation to that airport pursuant to regulation 9(1) or, as the case may be, 10(1) has taken effect.
 
-**19.**[^key-71727c929ce1e294777353389f4ff193] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-71727c929ce1e294777353389f4ff193] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-64e8db02af6ab09da5c9f312af98c6e8][^key-68580242ebbd2f46b06486eeecdd5e5f][^key-9400d943f8d697829ef4eb05421d966a][^key-c195f692d48db8e96ee598ded76e5b89] The failure of the CAA or of any person to give notice or publish any particulars in the time or manner provided for in these Regulations or any other procedural irregularity shall not invalidate the action taken by the CAA; but the CAA may take such steps as it thinks fit before reaching its decision to cure the irregularity, whether by the giving of notice or otherwise, and shall take such steps if it considers that any person may have been prejudiced.
+**20.**[^c-64e8db02af6ab09da5c9f312af98c6e8][^c-68580242ebbd2f46b06486eeecdd5e5f][^c-9400d943f8d697829ef4eb05421d966a][^c-c195f692d48db8e96ee598ded76e5b89] The failure of the CAA or of any person to give notice or publish any particulars in the time or manner provided for in these Regulations or any other procedural irregularity shall not invalidate the action taken by the CAA; but the CAA may take such steps as it thinks fit before reaching its decision to cure the irregularity, whether by the giving of notice or otherwise, and shall take such steps if it considers that any person may have been prejudiced.
 
-**21.**[^key-6d8bda6eb252d806595b0018928565e1][^key-a66885db181995ba8461fbe99f075b5f][^key-207c517618ae21d1e3aec39dc001233d][^key-b0a1b858964b7257673eea9378647dff] In this Schedule “party to the case” means a person having the right to be heard by virtue of paragraph 12(1) above.
+**21.**[^c-6d8bda6eb252d806595b0018928565e1][^c-a66885db181995ba8461fbe99f075b5f][^c-207c517618ae21d1e3aec39dc001233d][^c-b0a1b858964b7257673eea9378647dff] In this Schedule “party to the case” means a person having the right to be heard by virtue of paragraph 12(1) above.
 
 ## SCHEDULE 2
 
@@ -691,22 +691,22 @@ Regulation 20
 
 ### PART I — APPEALS TO THE CAA
 
-**1.**[^key-037e601fdc9e72e920b6a258e181151c] An appeal to the CAA shall be made by a notice in writing, signed by or on behalf of the appellant, which clearly identifies the decision or individual measure to which it relates and states the grounds on which the appeal is based and the arguments on which the appellant relies.
+**1.**[^c-037e601fdc9e72e920b6a258e181151c] An appeal to the CAA shall be made by a notice in writing, signed by or on behalf of the appellant, which clearly identifies the decision or individual measure to which it relates and states the grounds on which the appeal is based and the arguments on which the appellant relies.
 
-**2.**[^key-9e302822404052ed09a51cf58919d5e3] The appellant shall serve the notice of appeal on–
+**2.**[^c-9e302822404052ed09a51cf58919d5e3] The appellant shall serve the notice of appeal on–
 
 - (a) the CAA, and
 - (b) the managing body of the airport concerned, and
 - (c) in the case of an appeal against a decision of the managing body of an airport made pursuant to regulation 12(7)(a), the persons named in the notice published by the CAA pursuant to regulation 12(15) as the persons selected to supply groundhandling services, and
 - (d) in the case of an appeal against a decision or individual measure taken, pursuant to regulation 16, by the public authority or other body controlling the airport, that authority or body.
 
-**3.**[^key-6250d5b111f4cc36c4cc7f1916bd92f4] (1) Where the appeal is against a decision of the managing body of an airport made pursuant to regulation 12(7)(a), the notice of appeal shall be served within a period of 1 month beginning on the date on which the decision was published by the CAA pursuant to regulation 12(15).
+**3.**[^c-6250d5b111f4cc36c4cc7f1916bd92f4] (1) Where the appeal is against a decision of the managing body of an airport made pursuant to regulation 12(7)(a), the notice of appeal shall be served within a period of 1 month beginning on the date on which the decision was published by the CAA pursuant to regulation 12(15).
 
 (2) In every other case, the notice of appeal shall be served promptly and in any event within a period of 1 month beginning on the date on which the decision or individual measure concerned was taken.
 
 (3) The CAA may extend the period within which an appeal may be made if it considers that there is good reason for doing so.
 
-**4.**[^key-38e46424883810c65d0012d28d662211] (1) Where a notice of appeal is served on the CAA pursuant to paragraph 2(a) above, the CAA shall serve on each of the parties to the appeal a notice requiring each such party within 7 days after receiving the notice from the CAA to inform the CAA whether he requires an oral hearing of the appeal.
+**4.**[^c-38e46424883810c65d0012d28d662211] (1) Where a notice of appeal is served on the CAA pursuant to paragraph 2(a) above, the CAA shall serve on each of the parties to the appeal a notice requiring each such party within 7 days after receiving the notice from the CAA to inform the CAA whether he requires an oral hearing of the appeal.
 
 (2) If any person on whom a notice is served by the CAA pursuant to paragraph 4(1) above informs the CAA that he requires an oral hearing, then–
 
@@ -721,7 +721,7 @@ Regulation 20
 
 (2) At a hearing each of the parties to the appeal may appear in person or be represented by any other person whom he may have authorised to represent him and may produce oral and written evidence and may examine any other party to the appeal and any witnesses produced by any such party.
 
-(3) Every hearing shall be held in public unless the CAA otherwise decides in relation to the whole or part of a particular appeal [^key-cdb2b1492ab742b0a8752bc8fe6631f2]....
+(3) Every hearing shall be held in public unless the CAA otherwise decides in relation to the whole or part of a particular appeal [^c-cdb2b1492ab742b0a8752bc8fe6631f2]....
 
 (4) Subject to sub-paragraphs (5) and (6) below, all the proceedings at a hearing of the CAA in connection with the appeal shall be recorded by a shorthand writer or by some other means, and if any person requests a record of the proceedings the CAA shall cause a mechanical recording or transcript of the shorthand or other record to be made available for purchase by that person at a reasonable price.
 
@@ -739,33 +739,33 @@ Regulation 20
 - (a) shall serve on the CAA any reply he may wish to make to any such submission, and
 - (b) shall serve on all other parties to the appeal a copy of any such reply.
 
-**6.**[^key-80fdba44c2377dd1f8484909e5bd3b0a] Before deciding an appeal the CAA may ask any of the parties to the appeal[^key-7e27d19cb4ff83b3d1d5797491b041dc] to amplify or explain any point made by him or to answer any question, the answer to which appears to the CAA necessary to enable it to determine the appeal, and the CAA shall give the other parties to the appeal[^key-b4c74bded7056981b55d412ff1728e6b] an opportunity of replying to such amplification, explanation or answer.
+**6.**[^c-80fdba44c2377dd1f8484909e5bd3b0a] Before deciding an appeal the CAA may ask any of the parties to the appeal[^c-7e27d19cb4ff83b3d1d5797491b041dc] to amplify or explain any point made by him or to answer any question, the answer to which appears to the CAA necessary to enable it to determine the appeal, and the CAA shall give the other parties to the appeal[^c-b4c74bded7056981b55d412ff1728e6b] an opportunity of replying to such amplification, explanation or answer.
 
-**7.**[^key-794117f283b7b1bc086985d2e94bb930] (1) Where the appeal is against a decision made by the managing body of an airport pursuant to regulation 12(7)(a), the CAA may if it thinks fit determine either to dismiss the appeal or to direct that body to vary its decision.
+**7.**[^c-794117f283b7b1bc086985d2e94bb930] (1) Where the appeal is against a decision made by the managing body of an airport pursuant to regulation 12(7)(a), the CAA may if it thinks fit determine either to dismiss the appeal or to direct that body to vary its decision.
 
 (2) In every other case, the CAA may determine to—
 
 - (a) dismiss the appeal; or
 - (b) give such direction in relation to the decision or individual measure concerned as it thinks fit.
 
-**8.**[^key-14e28039bdd889c6633aa195b797acdc] A person to whom a direction is given by the CAA pursuant to paragraph 7(1) or (2)(b) above shall comply with that direction.
+**8.**[^c-14e28039bdd889c6633aa195b797acdc] A person to whom a direction is given by the CAA pursuant to paragraph 7(1) or (2)(b) above shall comply with that direction.
 
-**9.**[^key-b259147fdc5c644cbf94bef47c0f6eb2] The CAA shall notify each of the parties to the appeal of its determination and the reasons for it.
+**9.**[^c-b259147fdc5c644cbf94bef47c0f6eb2] The CAA shall notify each of the parties to the appeal of its determination and the reasons for it.
 
-**10.**[^key-370840206d9a37495d175e5bc23e169d] The CAA shall cause particulars of its determination and of the reasons for it to be published in its Official Record.
+**10.**[^c-370840206d9a37495d175e5bc23e169d] The CAA shall cause particulars of its determination and of the reasons for it to be published in its Official Record.
 
-**11.**[^key-04e07ced97b46ee2a6f676adfb4304b5] The failure of any person (other than the appellant in serving notice of appeal on the CAA within the time prescribed in paragraph 3 above) to serve any notice, submission or reply, or copies thereof or to furnish any particulars in the time provided for in this Part of this Schedule or any other procedural irregularity shall not invalidate the decision of the CAA; but the CAA may take such steps as it thinks fit before deciding the appeal to cure the irregularity and shall take such steps if it considers that any person may have been prejudiced.
+**11.**[^c-04e07ced97b46ee2a6f676adfb4304b5] The failure of any person (other than the appellant in serving notice of appeal on the CAA within the time prescribed in paragraph 3 above) to serve any notice, submission or reply, or copies thereof or to furnish any particulars in the time provided for in this Part of this Schedule or any other procedural irregularity shall not invalidate the decision of the CAA; but the CAA may take such steps as it thinks fit before deciding the appeal to cure the irregularity and shall take such steps if it considers that any person may have been prejudiced.
 
-**12.**[^key-1a80e93dc90300115cdb26e41f33f1cb] In this Part of this Schedule “parties to the appeal” means–
+**12.**[^c-1a80e93dc90300115cdb26e41f33f1cb] In this Part of this Schedule “parties to the appeal” means–
 
 - (a) the appellant, and
 - (b) the persons (other than the CAA) on whom a notice of appeal is served in accordance with paragraph 2 above.
 
 ### PART II — APPEALS TO THE SECRETARY OF STATE
 
-**1.**[^key-99bf5df2ef7b28098d9b810abc585d16] An appeal to the Secretary of State shall be made by a notice in writing, signed by or on behalf of the appellant, which clearly identifies the determination or decision[^key-841763b907ce5d78fff86b7110b689e9] to which it relates and states the grounds on which the appeal is based and the arguments on which the appellant relies.
+**1.**[^c-99bf5df2ef7b28098d9b810abc585d16] An appeal to the Secretary of State shall be made by a notice in writing, signed by or on behalf of the appellant, which clearly identifies the determination or decision[^c-841763b907ce5d78fff86b7110b689e9] to which it relates and states the grounds on which the appeal is based and the arguments on which the appellant relies.
 
-**2.**[^key-8267c8d7ac688970c05fb50330faecd9] The appellant shall serve the notice of appeal on–
+**2.**[^c-8267c8d7ac688970c05fb50330faecd9] The appellant shall serve the notice of appeal on–
 
 - (a) the Secretary of State, and
 - (b) the CAA, and
@@ -773,9 +773,9 @@ Regulation 20
 - (d) in the case of an appeal against a determination of the CAA made pursuant to regulation 9(1), the persons named in the notice published by the CAA pursuant to paragraph 15 of Schedule 1 to these Regulations as the persons selected to exercise the right to self-handle in relation to the airside services to which the determination relates, and
 - (e) in the case of an appeal against a decision of the CAA taken pursuant to regulation 12(7)(b), the persons named in the notice published by the CAA pursuant to regulation 12(15) as the persons selected to supply groundhandling services.
 
-**3.**[^key-b45f7706048a1d67205f80e59029265b] The notice of appeal shall be served within a period of 1 month beginning on the date on which, pursuant to these Regulations, the CAA publishes in its Official Record particulars of the determination or decision concerned[^key-2a7b210cd07ae42f512d9b574daf61ec].
+**3.**[^c-b45f7706048a1d67205f80e59029265b] The notice of appeal shall be served within a period of 1 month beginning on the date on which, pursuant to these Regulations, the CAA publishes in its Official Record particulars of the determination or decision concerned[^c-2a7b210cd07ae42f512d9b574daf61ec].
 
-**4.**[^key-d23100dd2be6a1bd0c9ec5dae4ad7e7d] (1) Where a person receives a notice of appeal pursuant to paragraph 2(b), 2(c), 2(d) or 2(e) above, that person shall, within 14 days after receiving such notice–
+**4.**[^c-d23100dd2be6a1bd0c9ec5dae4ad7e7d] (1) Where a person receives a notice of appeal pursuant to paragraph 2(b), 2(c), 2(d) or 2(e) above, that person shall, within 14 days after receiving such notice–
 
 - (a) serve on the Secretary of State any submission which that person may wish to make in connection with the appeal, and
 - (b) serve on each of the other parties to the appeal a copy of that submission.
@@ -785,21 +785,21 @@ Regulation 20
 - (a) shall serve on the Secretary of State any reply he may wish to make to any such submission, and
 - (b) shall serve on all other parties to the appeal a copy of any such reply.
 
-**5.**[^key-e9137a5f27154bc682e2d67ca5af2a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e9137a5f27154bc682e2d67ca5af2a27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-569958a0f11d4bfb43dfdc07b569a8ee] Before deciding an appeal the Secretary of State may ask any of the parties to the appeal[^key-52631351f5d8fe7885cf12c8add35468] to amplify or explain any point made by them or to answer any question, the answer to which appears to the Secretary of State necessary to enable him to determine the appeal, and the Secretary of State shall give the other parties to the appeal[^key-32ac71957cbf4de2be1e3dc3a9098a5e] an opportunity of replying to such amplification, explanation or answer.
+**6.**[^c-569958a0f11d4bfb43dfdc07b569a8ee] Before deciding an appeal the Secretary of State may ask any of the parties to the appeal[^c-52631351f5d8fe7885cf12c8add35468] to amplify or explain any point made by them or to answer any question, the answer to which appears to the Secretary of State necessary to enable him to determine the appeal, and the Secretary of State shall give the other parties to the appeal[^c-32ac71957cbf4de2be1e3dc3a9098a5e] an opportunity of replying to such amplification, explanation or answer.
 
-**7.**[^key-ce3d002d7fa1f0b16ca3d2be6cf28460] In the appeal proceedings no person may submit to the Secretary of State evidence which was not before the CAA when it made the determination.
+**7.**[^c-ce3d002d7fa1f0b16ca3d2be6cf28460] In the appeal proceedings no person may submit to the Secretary of State evidence which was not before the CAA when it made the determination.
 
-**8.**[^key-17500c812c8498094d98aa7d7ac28eb9] The Secretary of State may if he thinks fit uphold the determination or direct the CAA to reverse or vary its determination.
+**8.**[^c-17500c812c8498094d98aa7d7ac28eb9] The Secretary of State may if he thinks fit uphold the determination or direct the CAA to reverse or vary its determination.
 
-**9.**[^key-43a1c598f5e4bf715d8c573f4cfa6aa9] The Secretary of State shall notify each of the parties to the appeal[^key-3e23caaeb548f536935288600761ed3a] of his decision and of the reasons for it.
+**9.**[^c-43a1c598f5e4bf715d8c573f4cfa6aa9] The Secretary of State shall notify each of the parties to the appeal[^c-3e23caaeb548f536935288600761ed3a] of his decision and of the reasons for it.
 
-**10.**[^key-b3d021cc270dd3204f75a13c8e2ddd13] The CAA shall cause particulars of the Secretary of State’s decision and of the reasons for it to be published in its Official Record.
+**10.**[^c-b3d021cc270dd3204f75a13c8e2ddd13] The CAA shall cause particulars of the Secretary of State’s decision and of the reasons for it to be published in its Official Record.
 
-**11.**[^key-676dfa5247bf81f71eb446c672a949ab] The failure of any person (other than the appellant in serving notice of appeal on the Secretary of State within the time prescribed in paragraph 3 above) to serve any notice, submission or reply, or copies thereof or to furnish any particulars in the time provided for in this Part of this Schedule or any other procedural irregularity shall not invalidate the decision of the Secretary of State; but the Secretary of State may take such steps as he thinks fit before deciding the appeal to cure the irregularity and shall take such steps if he considers that any person may have been prejudiced.
+**11.**[^c-676dfa5247bf81f71eb446c672a949ab] The failure of any person (other than the appellant in serving notice of appeal on the Secretary of State within the time prescribed in paragraph 3 above) to serve any notice, submission or reply, or copies thereof or to furnish any particulars in the time provided for in this Part of this Schedule or any other procedural irregularity shall not invalidate the decision of the Secretary of State; but the Secretary of State may take such steps as he thinks fit before deciding the appeal to cure the irregularity and shall take such steps if he considers that any person may have been prejudiced.
 
-**12.**[^key-c96b32eb35bedd0abe044a5fa9319b4e] In this Part of this Schedule “parties to the appeal” means–
+**12.**[^c-c96b32eb35bedd0abe044a5fa9319b4e] In this Part of this Schedule “parties to the appeal” means–
 
 - (a) the appellant, and
 - (b) the persons (other than the Secretary of State) on whom a notice of appeal is served in accordance with paragraph 2 above.
@@ -846,378 +846,378 @@ These Regulations implement Council Directive [96/67/EC](https://www.legislation
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-ab3074629bd2f14748072953f831a6e3]: Commencement: Reg. 1 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-ab3074629bd2f14748072953f831a6e3]: Commencement: Reg. 1 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-5a9248820eef30ba45ccf122dce8b9eb]: Commencement: Reg. 2 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-5a9248820eef30ba45ccf122dce8b9eb]: Commencement: Reg. 2 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
 [^f00003]: Footnote: O.J. No. L240, 24.8.92, p.8.
 
 [^f00004]: Footnote: O.J. No. L272, 25.10.96. p.36.
 
-[^key-f7f0277ff9a432087cd81aaf8f35425a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/2/1) inserted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/1088/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7f0277ff9a432087cd81aaf8f35425a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/2/1) inserted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [3](https://www.legislation.gov.uk/uksi/2018/1088/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3960ade658d73a33bedf5b6d217f711e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/2/1) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/3/a)
+[^c-3960ade658d73a33bedf5b6d217f711e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/2/1) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/3/a)
 
-[^key-56e551081db691ac26b80ea663244992]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/2/3) omitted (31.12.1998) by virtue of [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/3/b)
+[^c-56e551081db691ac26b80ea663244992]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/2/3) omitted (31.12.1998) by virtue of [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/3/b)
 
-[^key-df3163a172eefecbb426b9acd546dfa8]: Commencement: Reg. 3 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-df3163a172eefecbb426b9acd546dfa8]: Commencement: Reg. 3 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-c043dabe1b8075f7713f991f7c570dde]: Commencement: Reg. 4 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-c043dabe1b8075f7713f991f7c570dde]: Commencement: Reg. 4 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
 [^f00005]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-ea0938d50c9b43fbab9cf4da379b59ab]: Commencement: Reg. 5 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-ea0938d50c9b43fbab9cf4da379b59ab]: Commencement: Reg. 5 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-88ebae204fae2c1fccbb6afa32a9e24b]: Commencement: Reg. 6 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-88ebae204fae2c1fccbb6afa32a9e24b]: Commencement: Reg. 6 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-aeadf3a382ba08f3777e45014fe5371c]: Commencement: Reg. 7 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-aeadf3a382ba08f3777e45014fe5371c]: Commencement: Reg. 7 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-417a1c9cee586010a8460ced04d5e465]: Commencement: [Reg. 8(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/8/a) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
+[^c-417a1c9cee586010a8460ced04d5e465]: Commencement: [Reg. 8(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/8/a) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
 
-[^key-dcc7b00a5ea895faba68c7a9f6c7d728]: Commencement: [Reg. 8(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/8/a) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
+[^c-dcc7b00a5ea895faba68c7a9f6c7d728]: Commencement: [Reg. 8(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/8/a) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
 
-[^key-5d335b9f4219d7e6fa8ef482118851b4]: Commencement: [Reg. 8(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/8/b) in force at 1.1.1998, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/3)
+[^c-5d335b9f4219d7e6fa8ef482118851b4]: Commencement: [Reg. 8(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/8/b) in force at 1.1.1998, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/3)
 
-[^key-3c7c4f10dc79d87ffd3a607ad485a260]: Commencement: Reg. 9 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-3c7c4f10dc79d87ffd3a607ad485a260]: Commencement: Reg. 9 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-f280405f9ee1b9d472fcaec582bc0376]: Commencement: Reg. 10 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-f280405f9ee1b9d472fcaec582bc0376]: Commencement: Reg. 10 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-4cb38f177f7cef1f795383cc6e27248f]: Textual amendment: Words in [reg. 10(10)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/10/10) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4cb38f177f7cef1f795383cc6e27248f]: Textual amendment: Words in [reg. 10(10)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/10/10) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9750444a795c8567bbb058c510eee6c0]: Textual amendment: Reg. 10(11) inserted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9750444a795c8567bbb058c510eee6c0]: Textual amendment: Reg. 10(11) inserted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-14398ee253f468f216f25fbbefbf4028]: Commencement: Reg. 11 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-14398ee253f468f216f25fbbefbf4028]: Commencement: Reg. 11 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-1b9674e45a07ef8fa44affd524b6f3b5]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11) heading substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b9674e45a07ef8fa44affd524b6f3b5]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11) heading substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-648e551eb71177fa8c4ca8f5037c9568]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/1) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-648e551eb71177fa8c4ca8f5037c9568]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/1) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13c459622e118b082411b52f2d52fd9b]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/2) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13c459622e118b082411b52f2d52fd9b]: Textual amendment: Words in [reg. 11(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/2) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74f741fff590562d130432f5ca217209]: Textual amendment: Words in [reg. 11(7)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/7/a) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74f741fff590562d130432f5ca217209]: Textual amendment: Words in [reg. 11(7)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/7/a) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(d)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ec7f366a3f37aaf98cb3297ea79466e9]: Textual amendment: [Reg. 11(11)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/11)[(12)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/12) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(e)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec7f366a3f37aaf98cb3297ea79466e9]: Textual amendment: [Reg. 11(11)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/11)[(12)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/12) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(e)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b74eae4f2be482db721a48c64e3cdc6f]: Textual amendment: Word in [reg. 11(14)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/14) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(f)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b74eae4f2be482db721a48c64e3cdc6f]: Textual amendment: Word in [reg. 11(14)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/11/14) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [5(f)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/5/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-32cfe0c446b272cfebd38719caf9369f]: Commencement: Reg. 12 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-32cfe0c446b272cfebd38719caf9369f]: Commencement: Reg. 12 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-f13bd8f560f8821f2a8b9e584ca165bc]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/12/5) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/1088/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f13bd8f560f8821f2a8b9e584ca165bc]: Textual amendment: Words in [reg. 12(5)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/12/5) substituted (31.12.2020) by [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/1088/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eeac559bfc1b9f40fd640533bd9d259e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1997/2389/regulation/13) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [4](https://www.legislation.gov.uk/uksi/1998/2918/regulation/4)
+[^c-eeac559bfc1b9f40fd640533bd9d259e]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/1997/2389/regulation/13) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [4](https://www.legislation.gov.uk/uksi/1998/2918/regulation/4)
 
-[^key-e2b08b358930b97f9248702c1e3eb282]: Commencement: Reg. 14 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-e2b08b358930b97f9248702c1e3eb282]: Commencement: Reg. 14 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-39ad273bb309a6f329f2ff13149dc5dd]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/14/4)[(5)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/14/5) substituted for [reg. 14(4)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/14/4) (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [5](https://www.legislation.gov.uk/uksi/1998/2918/regulation/5)
+[^c-39ad273bb309a6f329f2ff13149dc5dd]: Textual amendment: [Reg. 14(4)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/14/4)[(5)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/14/5) substituted for [reg. 14(4)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/14/4) (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [5](https://www.legislation.gov.uk/uksi/1998/2918/regulation/5)
 
-[^key-6b61467163645e806868b81adfbb3ecc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/2389/regulation/15) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-6b61467163645e806868b81adfbb3ecc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/2389/regulation/15) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-104d193b52df3d556ea396c6937d14d9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/2389/regulation/15) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-104d193b52df3d556ea396c6937d14d9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/2389/regulation/15) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-32d056ec63312a14561cf9fffe79ad8d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/2389/regulation/15) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-32d056ec63312a14561cf9fffe79ad8d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1997/2389/regulation/15) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
 [^f00006]: Footnote: [1986 c. 31](https://www.legislation.gov.uk/ukpga/1986/31).
 
 [^f00007]: Footnote: S.I. [1994/426 (N.I.1)](https://www.legislation.gov.uk/nisi/1994/426).
 
-[^key-fbc03f4e65c6fbc0dad4ca3a6189ca5d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/2389/regulation/16) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-fbc03f4e65c6fbc0dad4ca3a6189ca5d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/2389/regulation/16) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-52a80faf11dfe1476613049a120c99ae]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/2389/regulation/16) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-52a80faf11dfe1476613049a120c99ae]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/2389/regulation/16) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-4b6d35f4f0a7465002bd084bf82aa249]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/2389/regulation/16) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-4b6d35f4f0a7465002bd084bf82aa249]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1997/2389/regulation/16) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-468d735c04abcf696d9ef35395e30d77]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1997/2389/regulation/17) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
+[^c-468d735c04abcf696d9ef35395e30d77]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1997/2389/regulation/17) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
 
-[^key-0cdf2e2d1136b5d68c7123422b6c831e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1997/2389/regulation/17) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
+[^c-0cdf2e2d1136b5d68c7123422b6c831e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1997/2389/regulation/17) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
 
-[^key-1b26f5d41537006ca76d28999eb7ff86]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1997/2389/regulation/18) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
+[^c-1b26f5d41537006ca76d28999eb7ff86]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1997/2389/regulation/18) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
 
-[^key-67b2470c78171d1becfb7041eb6fc4b9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1997/2389/regulation/18) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
+[^c-67b2470c78171d1becfb7041eb6fc4b9]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1997/2389/regulation/18) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
 
-[^key-cb2855983f681b3a6b26dca0958dd356]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-cb2855983f681b3a6b26dca0958dd356]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-9f52c62eef2b0e451c017f64957fd168]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-9f52c62eef2b0e451c017f64957fd168]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-dc7179110fcb1d6d4908905e24ae31bf]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-dc7179110fcb1d6d4908905e24ae31bf]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-32eae8905156c02c3a462ab50b394114]: Textual amendment: Words in [reg. 19(1)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/1/a) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32eae8905156c02c3a462ab50b394114]: Textual amendment: Words in [reg. 19(1)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/1/a) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(a)(i)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7256eadd8cbe6566598521a2b9a6e4d9]: Textual amendment: Words in [reg. 19(1)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/1/a) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7256eadd8cbe6566598521a2b9a6e4d9]: Textual amendment: Words in [reg. 19(1)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/1/a) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(a)(ii)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-caefb02d0d4cf35b659ed7e8aad23139]: Textual amendment: Words in [reg. 19(1)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/1/b) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-caefb02d0d4cf35b659ed7e8aad23139]: Textual amendment: Words in [reg. 19(1)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/1/b) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4526e020f9226405807e74b52256c428]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/2) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4526e020f9226405807e74b52256c428]: Textual amendment: [Reg. 19(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/2) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1b1fa1a04e070f014a26906d5eab0df]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/3) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1b1fa1a04e070f014a26906d5eab0df]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/19/3) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2018/1088/regulation/7/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1101a6e2b72af235f215478d60c65952]: Commencement: Reg. 20 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-1101a6e2b72af235f215478d60c65952]: Commencement: Reg. 20 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-c228f55d42ab2beec5d260ed658f360c]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/1997/2389/regulation/21) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/2918/regulation/6)
+[^c-c228f55d42ab2beec5d260ed658f360c]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/1997/2389/regulation/21) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [6](https://www.legislation.gov.uk/uksi/1998/2918/regulation/6)
 
-[^key-3a863f16f8a393d762f4155d7f585f9a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1997/2389/regulation/22) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
+[^c-3a863f16f8a393d762f4155d7f585f9a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1997/2389/regulation/22) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
 
-[^key-4ab941d97583b9c95da92e9c87063139]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1997/2389/regulation/22) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
+[^c-4ab941d97583b9c95da92e9c87063139]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1997/2389/regulation/22) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
 
-[^key-5c20a4f0f20ba387bf143d3a8677d173]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1997/2389/regulation/23) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
+[^c-5c20a4f0f20ba387bf143d3a8677d173]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1997/2389/regulation/23) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
 
-[^key-7a191981a18eef4fcf444ca602001918]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1997/2389/regulation/23) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
+[^c-7a191981a18eef4fcf444ca602001918]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1997/2389/regulation/23) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
 
-[^key-8afbb59e45bb5bf9b3a4aaf662fae979]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1997/2389/regulation/24) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
+[^c-8afbb59e45bb5bf9b3a4aaf662fae979]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1997/2389/regulation/24) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
 
-[^key-1da1d78ce6e20006f6ea4d3d39aec56e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1997/2389/regulation/24) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
+[^c-1da1d78ce6e20006f6ea4d3d39aec56e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1997/2389/regulation/24) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
 
-[^key-13c7efdf595b316f9a9c1f4632c966da]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/24/2) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/2918/regulation/7)
+[^c-13c7efdf595b316f9a9c1f4632c966da]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/24/2) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [7](https://www.legislation.gov.uk/uksi/1998/2918/regulation/7)
 
-[^key-e4180974effea3ae26cbb5695eb15e48]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1997/2389/regulation/25) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
+[^c-e4180974effea3ae26cbb5695eb15e48]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1997/2389/regulation/25) in force at 1.1.1999 for specified purposes, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/a)
 
-[^key-02916e72ed46022a592155d479615e4d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1997/2389/regulation/25) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
+[^c-02916e72ed46022a592155d479615e4d]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1997/2389/regulation/25) in force at 1.1.2001 in so far as not already in force, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/4/b)
 
-[^key-f797de1c8c3e5197ac375865a82d35fe]: Commencement: Reg. 26 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-f797de1c8c3e5197ac375865a82d35fe]: Commencement: Reg. 26 in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
 [^f00009]: Footnote: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44); the Crown Proceedings Act 1947 was extended to Northern Ireland in relation to Her Majesty’s Government in the United Kingdom and in Northern Ireland by and with the additions, exceptions and modifications set out in the Crown Proceedings (Northern Ireland) Order 1981 (S.I. [1981/233](https://www.legislation.gov.uk/uksi/1981/233), to which there is an amendment not relevant to these Regulations).
 
-[^key-b9e2d396a6b8367b1baa2ea2dbda546c]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/1997/2389/regulation/27) added (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [8](https://www.legislation.gov.uk/uksi/1998/2918/regulation/8)
+[^c-b9e2d396a6b8367b1baa2ea2dbda546c]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/uksi/1997/2389/regulation/27) added (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [8](https://www.legislation.gov.uk/uksi/1998/2918/regulation/8)
 
-[^key-6ea6717419d426954cfaca648bc84d48]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/27/2) omitted (1.4.2014) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/3), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2013/610/schedule/2/paragraph/2/a)
+[^c-6ea6717419d426954cfaca648bc84d48]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/27/2) omitted (1.4.2014) by virtue of [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/3), [Sch. 2 para. 2(a)](https://www.legislation.gov.uk/uksi/2013/610/schedule/2/paragraph/2/a)
 
-[^key-e9da09cf11de3b3fcfc0292f2db8da7a]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/27/2) substituted (6.4.2013) by [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/2)
+[^c-e9da09cf11de3b3fcfc0292f2db8da7a]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/27/2) substituted (6.4.2013) by [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/2), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/610/schedule/1/paragraph/2)
 
-[^key-e0d7e42acbb97daa5c13f820685a6647]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/27/2) substituted (1.4.2014) by [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/3), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2013/610/schedule/2/paragraph/2/b)
+[^c-e0d7e42acbb97daa5c13f820685a6647]: Textual amendment: Words in [reg. 27(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/27/2) substituted (1.4.2014) by [The Civil Aviation Act 2012 (Regulation of Operators of Dominant Airports) (Consequential Amendments) Regulations 2013 (S.I. 2013/610)](https://www.legislation.gov.uk/uksi/2013/610), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2013/610/regulation/1/3), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/uksi/2013/610/schedule/2/paragraph/2/b)
 
-[^key-90b752ce397f908da3fe7859f251e483]: Commencement: Sch. 1 para. 1 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-90b752ce397f908da3fe7859f251e483]: Commencement: Sch. 1 para. 1 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-e76f596ac2eeb062a66d00077afc71e8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/1) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-e76f596ac2eeb062a66d00077afc71e8]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/1) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-6f16f258ae9ee447c8eea8d0190d83fc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/1) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-6f16f258ae9ee447c8eea8d0190d83fc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/1) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-5f710d68b7d2892c80046b11b7a85639]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/1) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-5f710d68b7d2892c80046b11b7a85639]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/1) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-72d1c6e769c90c514123ee5af6fdb74e]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/1/a) omitted (31.12.1998) by virtue of [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/a)
+[^c-72d1c6e769c90c514123ee5af6fdb74e]: Textual amendment: Words in [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/1/a) omitted (31.12.1998) by virtue of [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/a)
 
-[^key-a31c5e345374340fedcef5bbb7b9e2df]: Commencement: Sch. 1 para. 2 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-a31c5e345374340fedcef5bbb7b9e2df]: Commencement: Sch. 1 para. 2 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-3eac7606e27e37420dddd6a30f094a80]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/2) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-3eac7606e27e37420dddd6a30f094a80]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/2) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-a2eb356e0f50144823ae29651cc4a2d6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/2) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-a2eb356e0f50144823ae29651cc4a2d6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/2) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-66ac54fd1c5b357f70c2922268520fe1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/2) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-66ac54fd1c5b357f70c2922268520fe1]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/2) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-dc31cf0409123f0498d3fd308bd0dfe2]: Commencement: Sch. 1 para. 3 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-dc31cf0409123f0498d3fd308bd0dfe2]: Commencement: Sch. 1 para. 3 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-425b99b8c07566f6c483327a84ec4ae8]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/3) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-425b99b8c07566f6c483327a84ec4ae8]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/3) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-f9751ffacf06a3da68bf70df5b710b7a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/3) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-f9751ffacf06a3da68bf70df5b710b7a]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/3) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-a0b10ea915e21a20474917b9b83d36da]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/3) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-a0b10ea915e21a20474917b9b83d36da]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/3) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-fb37b04435c8c5ceca1293c0f5f39a02]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/3) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/b)
+[^c-fb37b04435c8c5ceca1293c0f5f39a02]: Textual amendment: Words in [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/3) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/b)
 
-[^key-ccced563d2e1beb1e24aa251bb8b35ad]: Commencement: Sch. 1 para. 4 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-ccced563d2e1beb1e24aa251bb8b35ad]: Commencement: Sch. 1 para. 4 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-3e74e100339679ea23cf0d6473aad5ad]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/4) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-3e74e100339679ea23cf0d6473aad5ad]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/4) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-fabea3a116f921a6158e4c0983042cd8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/4) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-fabea3a116f921a6158e4c0983042cd8]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/4) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-26cb70e5e8b321ac9f0ce0e231939a96]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/4) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-26cb70e5e8b321ac9f0ce0e231939a96]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/4) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-3a9a8992fbd105e0b05db04416ee8ffe]: Commencement: Sch. 1 para. 5 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-3a9a8992fbd105e0b05db04416ee8ffe]: Commencement: Sch. 1 para. 5 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-b5a0c9c30cd865acbe75bf5e106a1fd6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/5) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-b5a0c9c30cd865acbe75bf5e106a1fd6]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/5) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-279072b9ea8131c34ad1ff9b2051106c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/5) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-279072b9ea8131c34ad1ff9b2051106c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/5) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-efa13d1d3e8d71aa070c3b5c4114223f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/5) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-efa13d1d3e8d71aa070c3b5c4114223f]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/5) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-e99ca20c83d2f22268c41113bc7302da]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/5A) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/c)
+[^c-e99ca20c83d2f22268c41113bc7302da]: Textual amendment: [Sch. 1 para. 5A](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/5A) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/c)
 
-[^key-5bb0d8cc9e18da00e2bd0c0d3197e829]: Commencement: Sch. 1 para. 6 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-5bb0d8cc9e18da00e2bd0c0d3197e829]: Commencement: Sch. 1 para. 6 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-4743cbdf78f3663a68ee2ac4aba76253]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/6) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-4743cbdf78f3663a68ee2ac4aba76253]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/6) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-36ed3781c124191196f140b71a4f96dc]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/6) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-36ed3781c124191196f140b71a4f96dc]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/6) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-bb87d28b57c5170442dfd7b133498296]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/6) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-bb87d28b57c5170442dfd7b133498296]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/6) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-0ff628e7a9d23b50311cbb7738895ddf]: Commencement: Sch. 1 para. 7 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-0ff628e7a9d23b50311cbb7738895ddf]: Commencement: Sch. 1 para. 7 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-f0831cb6f1949364fd0759667e54cf4b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/7) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-f0831cb6f1949364fd0759667e54cf4b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/7) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-2a84f5a800044b6cb923e4d0851dbdcb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/7) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-2a84f5a800044b6cb923e4d0851dbdcb]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/7) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-8e85055a1634383ff5fc801307fe9c18]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/7) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-8e85055a1634383ff5fc801307fe9c18]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/7) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-40bc4e8e30c426bdbf6a36c60a4963d4]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/7) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(d)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/d)
+[^c-40bc4e8e30c426bdbf6a36c60a4963d4]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/7) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(d)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/d)
 
-[^key-091cb2fd0a06d133b42f2c31a15ac683]: Commencement: Sch. 1 para. 8 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-091cb2fd0a06d133b42f2c31a15ac683]: Commencement: Sch. 1 para. 8 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-7ddc994f913b5cf7d4d736af0f40bdda]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/8) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-7ddc994f913b5cf7d4d736af0f40bdda]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/8) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-8a2f759878f63d3ae230ebb73bc9c14f]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/8) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-8a2f759878f63d3ae230ebb73bc9c14f]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/8) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-cb474008f0aec513a953e163563cef7b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/8) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-cb474008f0aec513a953e163563cef7b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/8) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-5b78133061f67f21dabc84055821c11d]: Commencement: Sch. 1 para. 9 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-5b78133061f67f21dabc84055821c11d]: Commencement: Sch. 1 para. 9 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-18bdf7cb15f03ff0fe0696874509a9ce]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/9) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-18bdf7cb15f03ff0fe0696874509a9ce]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/9) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-e9ff9aacb5da8c907cc044c805134efa]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/9) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-e9ff9aacb5da8c907cc044c805134efa]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/9) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-7a2e8941b05c11e6d46945df3f10facf]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/9) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-7a2e8941b05c11e6d46945df3f10facf]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/9) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-5aa9fe8dffe673aff063628851760b3f]: Commencement: Sch. 1 para. 10 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-5aa9fe8dffe673aff063628851760b3f]: Commencement: Sch. 1 para. 10 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-4cb717b174509a10c57ee78be473e429]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/10) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-4cb717b174509a10c57ee78be473e429]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/10) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-2c5d3236c2831c647a300083bf3177e3]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/10) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-2c5d3236c2831c647a300083bf3177e3]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/10) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-abd37144ee13650707aba90a21fd15a6]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/10) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-abd37144ee13650707aba90a21fd15a6]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/10) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-01f1cf9606f93f67564384fb1e190809]: Commencement: Sch. 1 para. 11 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-01f1cf9606f93f67564384fb1e190809]: Commencement: Sch. 1 para. 11 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-d8c2455d397cf3402fe6a59e73125647]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/11) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-d8c2455d397cf3402fe6a59e73125647]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/11) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-9e88d2b2e51bd5899efa398d16c1be22]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/11) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-9e88d2b2e51bd5899efa398d16c1be22]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/11) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-b04248e1be0a2211624a2d105d18666a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/11) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-b04248e1be0a2211624a2d105d18666a]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/11) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-b199b48b28e1f6832a22cde294af68fe]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/11) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(e)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/e)
+[^c-b199b48b28e1f6832a22cde294af68fe]: Textual amendment: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/11) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(e)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/e)
 
-[^key-c182cefeff84bcc75b5af1b9fadfcaa9]: Commencement: Sch. 1 para. 12 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-c182cefeff84bcc75b5af1b9fadfcaa9]: Commencement: Sch. 1 para. 12 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-3072eb9b6471cff4be7ff679c920a755]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/12) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-3072eb9b6471cff4be7ff679c920a755]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/12) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-42616b7a2c8e4017cfd393cdaf2a752f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/12) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-42616b7a2c8e4017cfd393cdaf2a752f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/12) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-730ea6cbae868e9a534e2c4aaec5f618]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/12) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-730ea6cbae868e9a534e2c4aaec5f618]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/12) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-3a7b687d2bf27c0845afb02688dc7e75]: Commencement: Sch. 1 para. 13 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-3a7b687d2bf27c0845afb02688dc7e75]: Commencement: Sch. 1 para. 13 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-665497eaefcfe25469777e912f523fe0]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/13) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-665497eaefcfe25469777e912f523fe0]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/13) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-79b633b582c4a5428b0a21418cc67d95]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/13) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-79b633b582c4a5428b0a21418cc67d95]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/13) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-56622a1cd5e587d4ffe1d6aafd5c4d6c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/13) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-56622a1cd5e587d4ffe1d6aafd5c4d6c]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/13) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-978014806401b24239588931beb367d2]: Textual amendment: Words in [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/13/4) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/83)
+[^c-978014806401b24239588931beb367d2]: Textual amendment: Words in [Sch. 1 para. 13(4)](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/13/4) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/83)
 
-[^key-2f056b3b96eef8aacbfe621700cb4231]: Commencement: Sch. 1 para. 14 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-2f056b3b96eef8aacbfe621700cb4231]: Commencement: Sch. 1 para. 14 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-f82b1e0d96e03911320cb9e3ffb4aeb9]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/14) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-f82b1e0d96e03911320cb9e3ffb4aeb9]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/14) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-63857f11a92fc043fc46a803a35445ab]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/14) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-63857f11a92fc043fc46a803a35445ab]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/14) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-3ffc58d54dd54dd66fed14e855506fb4]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/14) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-3ffc58d54dd54dd66fed14e855506fb4]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/14) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-e4e9c7b5a371b8262859ea6383e2293a]: Textual amendment: Words in [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/14/b) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(f)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/f)
+[^c-e4e9c7b5a371b8262859ea6383e2293a]: Textual amendment: Words in [Sch. 1 para. 14(b)](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/14/b) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [9(f)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/9/f)
 
-[^key-fd75f4edbf70de93338aa1e64b0d0527]: Commencement: Sch. 1 para. 15 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-fd75f4edbf70de93338aa1e64b0d0527]: Commencement: Sch. 1 para. 15 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-d2eac4714f4cb7f3b38541c957cb3f59]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/15) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-d2eac4714f4cb7f3b38541c957cb3f59]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/15) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-1c8ce2831f087352bb942840e0d9b735]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/15) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-1c8ce2831f087352bb942840e0d9b735]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/15) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-6e660495e81ad3f051c7ccedc11fbd6d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/15) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-6e660495e81ad3f051c7ccedc11fbd6d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/15) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-e8ac6a173a6123db878f9a27712f3307]: Commencement: Sch. 1 para. 16 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-e8ac6a173a6123db878f9a27712f3307]: Commencement: Sch. 1 para. 16 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-e82e46b180b12a117ce64328b2c0184d]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/16) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-e82e46b180b12a117ce64328b2c0184d]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/16) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-cb169b0f43d3c9585943d5f732f221e0]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/16) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-cb169b0f43d3c9585943d5f732f221e0]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/16) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-f12d06e2ffe9230cec03903118ef46c7]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/16) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-f12d06e2ffe9230cec03903118ef46c7]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/16) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-1d23c1eba0c93552e7ffeaaa5ca6bbb1]: Commencement: Sch. 1 para. 17 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-1d23c1eba0c93552e7ffeaaa5ca6bbb1]: Commencement: Sch. 1 para. 17 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-3fafe190ac2167cc3a6da1132dc9863d]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/17) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-3fafe190ac2167cc3a6da1132dc9863d]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/17) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-874a582b14583e4aee805cd1510c704a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/17) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-874a582b14583e4aee805cd1510c704a]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/17) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-873c3c9f4188ed2d800ca617f73cad4c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/17) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-873c3c9f4188ed2d800ca617f73cad4c]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/17) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-5841239258e8ab322e258df68f2404b4]: Commencement: Sch. 1 para. 18 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-5841239258e8ab322e258df68f2404b4]: Commencement: Sch. 1 para. 18 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-f5b12433dfe88d3c099e647b6b05c0ad]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/18) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-f5b12433dfe88d3c099e647b6b05c0ad]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/18) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-1ea9d0f5fcf1c9041a73ef8b2787c3e7]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/18) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-1ea9d0f5fcf1c9041a73ef8b2787c3e7]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/18) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-bd6d1a8b9e6bcf8f6837fa767c4a47ce]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/18) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-bd6d1a8b9e6bcf8f6837fa767c4a47ce]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/18) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-71727c929ce1e294777353389f4ff193]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/19) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1088/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71727c929ce1e294777353389f4ff193]: Textual amendment: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/19) omitted (31.12.2020) by virtue of [The Airports (Groundhandling) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1088)](https://www.legislation.gov.uk/uksi/2018/1088), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1088/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1088/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64e8db02af6ab09da5c9f312af98c6e8]: Commencement: Sch. 1 para. 20 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-64e8db02af6ab09da5c9f312af98c6e8]: Commencement: Sch. 1 para. 20 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-68580242ebbd2f46b06486eeecdd5e5f]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/20) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-68580242ebbd2f46b06486eeecdd5e5f]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/20) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-9400d943f8d697829ef4eb05421d966a]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/20) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-9400d943f8d697829ef4eb05421d966a]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/20) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-c195f692d48db8e96ee598ded76e5b89]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/20) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-c195f692d48db8e96ee598ded76e5b89]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/20) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-6d8bda6eb252d806595b0018928565e1]: Commencement: Sch. 1 para. 21 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-6d8bda6eb252d806595b0018928565e1]: Commencement: Sch. 1 para. 21 in force at 27.10.1997 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-a66885db181995ba8461fbe99f075b5f]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/21) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
+[^c-a66885db181995ba8461fbe99f075b5f]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/21) in force at 1.1.1998 for specified purposes, see [reg. 1(5)(a)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/a)
 
-[^key-207c517618ae21d1e3aec39dc001233d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/21) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
+[^c-207c517618ae21d1e3aec39dc001233d]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/21) in force at 1.1.1999 for specified purposes, see [reg. 1(5)(b)(i)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/i)
 
-[^key-b0a1b858964b7257673eea9378647dff]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/21) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
+[^c-b0a1b858964b7257673eea9378647dff]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/1997/2389/schedule/1/paragraph/21) in force at 1.1.2001 in so far as not already in force, see [reg. 1(5)(b)(ii)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/5/b/ii)
 
-[^key-037e601fdc9e72e920b6a258e181151c]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/1) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-037e601fdc9e72e920b6a258e181151c]: Commencement: [Sch. 2 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/1) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-9e302822404052ed09a51cf58919d5e3]: Textual amendment: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/2) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/a)
+[^c-9e302822404052ed09a51cf58919d5e3]: Textual amendment: [Sch. 2 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/2) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/a)
 
-[^key-6250d5b111f4cc36c4cc7f1916bd92f4]: Commencement: [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/3) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-6250d5b111f4cc36c4cc7f1916bd92f4]: Commencement: [Sch. 2 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/3) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-38e46424883810c65d0012d28d662211]: Textual amendment: Sch. 2 Pt. 1 paras. 4-5A substituted for Sch. 2 Pt. 1 paras. 4, 5 (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/b)
+[^c-38e46424883810c65d0012d28d662211]: Textual amendment: Sch. 2 Pt. 1 paras. 4-5A substituted for Sch. 2 Pt. 1 paras. 4, 5 (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/b)
 
-[^key-cdb2b1492ab742b0a8752bc8fe6631f2]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 5(3)](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/5) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 84](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/84)
+[^c-cdb2b1492ab742b0a8752bc8fe6631f2]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 5(3)](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/5) omitted (3.11.2008) by virtue of [The Tribunals, Courts and Enforcement Act 2007 (Transitional and Consequential Provisions) Order 2008 (S.I. 2008/2683)](https://www.legislation.gov.uk/uksi/2008/2683), [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1), [Sch. 1 para. 84](https://www.legislation.gov.uk/uksi/2008/2683/schedule/1/paragraph/84)
 
-[^key-80fdba44c2377dd1f8484909e5bd3b0a]: Commencement: [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/6) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-80fdba44c2377dd1f8484909e5bd3b0a]: Commencement: [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/6) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-7e27d19cb4ff83b3d1d5797491b041dc]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/6) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(c)(i)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/c/i)
+[^c-7e27d19cb4ff83b3d1d5797491b041dc]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/6) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(c)(i)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/c/i)
 
-[^key-b4c74bded7056981b55d412ff1728e6b]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/6) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(c)(ii)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/c/ii)
+[^c-b4c74bded7056981b55d412ff1728e6b]: Textual amendment: Words in [Sch. 2 Pt. 1 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/6) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(c)(ii)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/c/ii)
 
-[^key-794117f283b7b1bc086985d2e94bb930]: Commencement: [Sch. 2 Pt. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/7) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-794117f283b7b1bc086985d2e94bb930]: Commencement: [Sch. 2 Pt. 1 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/7) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-14e28039bdd889c6633aa195b797acdc]: Commencement: [Sch. 2 Pt. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/8) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-14e28039bdd889c6633aa195b797acdc]: Commencement: [Sch. 2 Pt. 1 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/8) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-b259147fdc5c644cbf94bef47c0f6eb2]: Textual amendment: [Sch. 2 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/9) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/d)
+[^c-b259147fdc5c644cbf94bef47c0f6eb2]: Textual amendment: [Sch. 2 Pt. 1 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/9) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/d)
 
-[^key-370840206d9a37495d175e5bc23e169d]: Commencement: [Sch. 2 Pt. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/10) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-370840206d9a37495d175e5bc23e169d]: Commencement: [Sch. 2 Pt. 1 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/10) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-04e07ced97b46ee2a6f676adfb4304b5]: Commencement: [Sch. 2 Pt. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/11) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-04e07ced97b46ee2a6f676adfb4304b5]: Commencement: [Sch. 2 Pt. 1 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/I/paragraph/11) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-1a80e93dc90300115cdb26e41f33f1cb]: Textual amendment: Sch. 2 Pt. 1 para. 12 added (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/e)
+[^c-1a80e93dc90300115cdb26e41f33f1cb]: Textual amendment: Sch. 2 Pt. 1 para. 12 added (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [10(e)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/10/e)
 
-[^key-99bf5df2ef7b28098d9b810abc585d16]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/1) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-99bf5df2ef7b28098d9b810abc585d16]: Commencement: [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/1) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-841763b907ce5d78fff86b7110b689e9]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/1) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/a)
+[^c-841763b907ce5d78fff86b7110b689e9]: Textual amendment: Words in [Sch. 2 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/1) inserted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/a)
 
-[^key-8267c8d7ac688970c05fb50330faecd9]: Textual amendment: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/2) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/b)
+[^c-8267c8d7ac688970c05fb50330faecd9]: Textual amendment: [Sch. 2 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/2) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/b)
 
-[^key-b45f7706048a1d67205f80e59029265b]: Commencement: [Sch. 2 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/3) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-b45f7706048a1d67205f80e59029265b]: Commencement: [Sch. 2 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/3) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-2a7b210cd07ae42f512d9b574daf61ec]: Textual amendment: Words in Sch. 2 Pt. 2 para. 3 substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/c)
+[^c-2a7b210cd07ae42f512d9b574daf61ec]: Textual amendment: Words in Sch. 2 Pt. 2 para. 3 substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/c)
 
-[^key-d23100dd2be6a1bd0c9ec5dae4ad7e7d]: Textual amendment: [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/4) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/d)
+[^c-d23100dd2be6a1bd0c9ec5dae4ad7e7d]: Textual amendment: [Sch. 2 Pt. 2 para. 4](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/4) substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/d)
 
-[^key-e9137a5f27154bc682e2d67ca5af2a27]: Textual amendment: [Sch. 2 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/5) omitted (31.12.1998) by virtue of [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/e)
+[^c-e9137a5f27154bc682e2d67ca5af2a27]: Textual amendment: [Sch. 2 Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/5) omitted (31.12.1998) by virtue of [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/e)
 
-[^key-569958a0f11d4bfb43dfdc07b569a8ee]: Commencement: [Sch. 2 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/6) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-569958a0f11d4bfb43dfdc07b569a8ee]: Commencement: [Sch. 2 Pt. 2 para. 6](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/6) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-52631351f5d8fe7885cf12c8add35468]: Textual amendment: Words in Sch. 2 Pt. 2 para. 6 substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(f)(i)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/f/i)
+[^c-52631351f5d8fe7885cf12c8add35468]: Textual amendment: Words in Sch. 2 Pt. 2 para. 6 substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(f)(i)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/f/i)
 
-[^key-32ac71957cbf4de2be1e3dc3a9098a5e]: Textual amendment: Words in Sch. 2 Pt. 2 para. 6 substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(f)(ii)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/f/ii)
+[^c-32ac71957cbf4de2be1e3dc3a9098a5e]: Textual amendment: Words in Sch. 2 Pt. 2 para. 6 substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(f)(ii)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/f/ii)
 
-[^key-ce3d002d7fa1f0b16ca3d2be6cf28460]: Commencement: [Sch. 2 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/7) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-ce3d002d7fa1f0b16ca3d2be6cf28460]: Commencement: [Sch. 2 Pt. 2 para. 7](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/7) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-17500c812c8498094d98aa7d7ac28eb9]: Commencement: [Sch. 2 Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/8) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-17500c812c8498094d98aa7d7ac28eb9]: Commencement: [Sch. 2 Pt. 2 para. 8](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/8) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-43a1c598f5e4bf715d8c573f4cfa6aa9]: Commencement: [Sch. 2 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/9) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-43a1c598f5e4bf715d8c573f4cfa6aa9]: Commencement: [Sch. 2 Pt. 2 para. 9](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/9) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-3e23caaeb548f536935288600761ed3a]: Textual amendment: Words in Sch. 2 Pt. 2 para. 9 substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(g)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/g)
+[^c-3e23caaeb548f536935288600761ed3a]: Textual amendment: Words in Sch. 2 Pt. 2 para. 9 substituted (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(g)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/g)
 
-[^key-b3d021cc270dd3204f75a13c8e2ddd13]: Commencement: [Sch. 2 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/10) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-b3d021cc270dd3204f75a13c8e2ddd13]: Commencement: [Sch. 2 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/10) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-676dfa5247bf81f71eb446c672a949ab]: Commencement: [Sch. 2 Pt. 2 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/11) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
+[^c-676dfa5247bf81f71eb446c672a949ab]: Commencement: [Sch. 2 Pt. 2 para. 11](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/11) in force at 27.10.1997, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1997/2389/regulation/1/2)
 
-[^key-c96b32eb35bedd0abe044a5fa9319b4e]: Textual amendment: [Sch. 2 Pt. 2 para. 12](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/12) added (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(h)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/h)
+[^c-c96b32eb35bedd0abe044a5fa9319b4e]: Textual amendment: [Sch. 2 Pt. 2 para. 12](https://www.legislation.gov.uk/uksi/1997/2389/schedule/2/part/II/paragraph/12) added (31.12.1998) by [The Airports (Groundhandling) (Amendment) Regulations 1998 (S.I. 1998/2918)](https://www.legislation.gov.uk/uksi/1998/2918), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2918/regulation/1), [11(h)](https://www.legislation.gov.uk/uksi/1998/2918/regulation/11/h)

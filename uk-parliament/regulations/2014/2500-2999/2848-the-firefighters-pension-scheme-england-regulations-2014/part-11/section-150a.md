@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150A. Employer cost cap[^key-fa070b9979fbede00d8671e7ab2c6b5f]
+## 150A. Employer cost cap[^c-fa070b9979fbede00d8671e7ab2c6b5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa070b9979fbede00d8671e7ab2c6b5f]: Textual amendment: [Reg. 150A](https://www.legislation.gov.uk/uksi/2014/2848/regulation/150A) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (Amendment) (Governance) Regulations 2015 (S.I. 2015/465)](https://www.legislation.gov.uk/uksi/2015/465), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/465/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2015/465/regulation/5)
+[^c-fa070b9979fbede00d8671e7ab2c6b5f]: Textual amendment: [Reg. 150A](https://www.legislation.gov.uk/uksi/2014/2848/regulation/150A) inserted (1.4.2015) by [The Firefighters’ Pension Scheme (Amendment) (Governance) Regulations 2015 (S.I. 2015/465)](https://www.legislation.gov.uk/uksi/2015/465), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/465/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2015/465/regulation/5)

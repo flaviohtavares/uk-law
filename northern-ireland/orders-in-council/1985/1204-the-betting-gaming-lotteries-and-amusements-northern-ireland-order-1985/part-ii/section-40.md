@@ -28,7 +28,7 @@ summary: ''
 
 (4) Where at any time—
 
-- (a) the holder of a track betting licence dies or is adjudged bankrupt, or his track becomes vested in the official assignee (whether before or after his death) without his being so adjudged [^key-274071cd11b4d3560bca440f3362f438]... or a receiver of his property or a committee or guardian is appointed with power to manage the track; or
+- (a) the holder of a track betting licence dies or is adjudged bankrupt, or his track becomes vested in the official assignee (whether before or after his death) without his being so adjudged [^c-274071cd11b4d3560bca440f3362f438]... or a receiver of his property or a committee or guardian is appointed with power to manage the track; or
 - (b) in the case of a body corporate, a winding-up is commenced or a receiver is appointed as aforesaid;
 
 the personal representative or, as the case requires, the assignees or trustee in bankruptcy, official assignee, [^M_F_549a143f-95de-4068-c245-35babaa36e45]... receiver, committee, guardian or liquidator shall be deemed to be the holder of the track betting licence and—
@@ -52,6 +52,6 @@ but the authority, if so suspended, shall revive upon the service of such a noti
 
 ## Annotations
 
-[^key-274071cd11b4d3560bca440f3362f438]: Textual amendment: Words in [art. 40(4)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/40/4/a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-274071cd11b4d3560bca440f3362f438]: Textual amendment: Words in [art. 40(4)(a)](https://www.legislation.gov.uk/nisi/1985/1204/article/40/4/a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^M_F_549a143f-95de-4068-c245-35babaa36e45]: Textual amendment: Words in art. 40(4) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

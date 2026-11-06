@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145A. Deputy Pensions Ombudsmen[^key-44e1152dce517eee41857d692ace48f8]
+## 145A. Deputy Pensions Ombudsmen[^c-44e1152dce517eee41857d692ace48f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44e1152dce517eee41857d692ace48f8]: Textual amendment: [S. 145A](https://www.legislation.gov.uk/ukpga/1993/48/section/145A) inserted (17.12.2004) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 274(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/274/3), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)
+[^c-44e1152dce517eee41857d692ace48f8]: Textual amendment: [S. 145A](https://www.legislation.gov.uk/ukpga/1993/48/section/145A) inserted (17.12.2004) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 274(3)](https://www.legislation.gov.uk/ukpga/2004/35/section/274/3), [322(1)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/1) (with [s. 313](https://www.legislation.gov.uk/ukpga/2004/35/section/313)); [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule)

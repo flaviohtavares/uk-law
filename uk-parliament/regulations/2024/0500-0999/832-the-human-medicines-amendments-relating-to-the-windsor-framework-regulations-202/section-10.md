@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Amendment to regulation 17[^key-d2d418fdf0f218bcdfb0e977cc1d3290]
+## 10. Amendment to regulation 17[^c-d2d418fdf0f218bcdfb0e977cc1d3290]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In regulation 17 (manufacturing of medicinal products)[^f00017]—
 
 ## Annotations
 
-[^key-d2d418fdf0f218bcdfb0e977cc1d3290]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/832/regulation/10) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-d2d418fdf0f218bcdfb0e977cc1d3290]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2024/832/regulation/10) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00017]: Footnote: Paragraph (4) was amended by, and paragraph (7) inserted by, [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), and paragraph (9) was inserted by [S.I. 2023/437](https://www.legislation.gov.uk/uksi/2023/437).

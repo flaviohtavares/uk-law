@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 565. Group accounts: subsidiary undertakings[^key-44dee4fa2a7c0d5dac4f821bcb8ffc8c]
+## 565. Group accounts: subsidiary undertakings[^c-44dee4fa2a7c0d5dac4f821bcb8ffc8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44dee4fa2a7c0d5dac4f821bcb8ffc8c]: Commencement: Art. 565 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-44dee4fa2a7c0d5dac4f821bcb8ffc8c]: Commencement: Art. 565 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

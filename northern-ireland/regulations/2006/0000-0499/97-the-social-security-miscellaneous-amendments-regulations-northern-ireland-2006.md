@@ -43,7 +43,7 @@ Regulation 3 of these Regulations is made with the consent of the Department of 
 
 The Social Security Advisory Committee has agreed that proposals in respect of regulation 3 should not be referred to it[^f00007].
 
-## 1. Citation, commencement and interpretation[^key-b528d3160e6e8bfa6273a709234c7eaa][^key-b528d3160e6e8bfa6273a709234c7eaa]
+## 1. Citation, commencement and interpretation[^c-b528d3160e6e8bfa6273a709234c7eaa][^c-b528d3160e6e8bfa6273a709234c7eaa]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2006 and shall, subject to paragraphs (2) to (6), come into operation on 6th April 2006.
 
@@ -59,70 +59,70 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
 
 (7) The Interpretation Act (Northern Ireland) 1954[^f00010] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Income Support (General) Regulations[^key-79d57e6bf479fc2dc6636500f35e75b5][^key-b53d8e37e25d0562251962eccbb9fb6a][^key-b97684e631836975bc01f2c52ee0e3c5][^key-b53d8e37e25d0562251962eccbb9fb6a]
+## 2. Amendment of the Income Support (General) Regulations[^c-79d57e6bf479fc2dc6636500f35e75b5][^c-b53d8e37e25d0562251962eccbb9fb6a][^c-b97684e631836975bc01f2c52ee0e3c5][^c-b53d8e37e25d0562251962eccbb9fb6a]
 
-(1)[^key-a821bc7990c29d14762ccfdbca8966a9] The Income Support (General) Regulations (Northern Ireland) 1987[^f00011] shall be amended in accordance with paragraphs (2) to (4).
+(1)[^c-a821bc7990c29d14762ccfdbca8966a9] The Income Support (General) Regulations (Northern Ireland) 1987[^f00011] shall be amended in accordance with paragraphs (2) to (4).
 
 (2) In regulation 42 (notional income)—
 
-- (a)[^key-79d57e6bf479fc2dc6636500f35e75b5] in paragraph (2)(g)[^f00012] for “or retirement annuity contract” there shall be substituted “, retirement annuity contract or a payment made by the Board of the Pension Protection Fund”;
-- (b)[^key-79d57e6bf479fc2dc6636500f35e75b5] in paragraph (2ZA)(a)[^f00013] for “personal pension scheme or retirement annuity contract” there shall be substituted “a personal pension scheme, a retirement annuity contract or the Board of the Pension Protection Fund”;
-- (c)[^key-a821bc7990c29d14762ccfdbca8966a9] in paragraph (4)(a)(ia)[^f00014] for “or is a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”; and
-- (d)[^key-a821bc7990c29d14762ccfdbca8966a9] in paragraph (4ZA)(d)[^f00015] for “or in respect of a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”.
+- (a)[^c-79d57e6bf479fc2dc6636500f35e75b5] in paragraph (2)(g)[^f00012] for “or retirement annuity contract” there shall be substituted “, retirement annuity contract or a payment made by the Board of the Pension Protection Fund”;
+- (b)[^c-79d57e6bf479fc2dc6636500f35e75b5] in paragraph (2ZA)(a)[^f00013] for “personal pension scheme or retirement annuity contract” there shall be substituted “a personal pension scheme, a retirement annuity contract or the Board of the Pension Protection Fund”;
+- (c)[^c-a821bc7990c29d14762ccfdbca8966a9] in paragraph (4)(a)(ia)[^f00014] for “or is a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”; and
+- (d)[^c-a821bc7990c29d14762ccfdbca8966a9] in paragraph (4ZA)(d)[^f00015] for “or in respect of a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”.
 
 (3) In regulation 51(notional capital)—
 
-- (a)[^key-79d57e6bf479fc2dc6636500f35e75b5] in paragraph (2)(da)[^f00016] after “scheme” there shall be inserted “or a payment made by the Board of the Pension Protection Fund”;
-- (b)[^key-a821bc7990c29d14762ccfdbca8966a9] in paragraph (3)(a)(ia)[^f00017] for “or is a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”; and
-- (c)[^key-a821bc7990c29d14762ccfdbca8966a9] in paragraph (3A)(c)[^f00018] for “or in respect of a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”.
+- (a)[^c-79d57e6bf479fc2dc6636500f35e75b5] in paragraph (2)(da)[^f00016] after “scheme” there shall be inserted “or a payment made by the Board of the Pension Protection Fund”;
+- (b)[^c-a821bc7990c29d14762ccfdbca8966a9] in paragraph (3)(a)(ia)[^f00017] for “or is a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”; and
+- (c)[^c-a821bc7990c29d14762ccfdbca8966a9] in paragraph (3A)(c)[^f00018] for “or in respect of a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”.
 
 (4) The following provisions shall be omitted—
 
-- (a)[^key-b53d8e37e25d0562251962eccbb9fb6a] regulation 17(1)(g)[^f00019] (applicable amounts);
-- (b)[^key-b53d8e37e25d0562251962eccbb9fb6a] regulation 18(1)(h)[^f00020] (polygamous marriages);
-- (c)[^key-042ea07965de87028cd6e59fe94d772f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-b97684e631836975bc01f2c52ee0e3c5] paragraph 16A[^f00022] of Schedule 1B (prescribed categories of person);
-- (e)[^key-b53d8e37e25d0562251962eccbb9fb6a] Schedule 3A[^f00023] (protected sum); and
-- (f)[^key-b53d8e37e25d0562251962eccbb9fb6a] Schedule 3B[^f00024] (protected sum).
+- (a)[^c-b53d8e37e25d0562251962eccbb9fb6a] regulation 17(1)(g)[^f00019] (applicable amounts);
+- (b)[^c-b53d8e37e25d0562251962eccbb9fb6a] regulation 18(1)(h)[^f00020] (polygamous marriages);
+- (c)[^c-042ea07965de87028cd6e59fe94d772f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b97684e631836975bc01f2c52ee0e3c5] paragraph 16A[^f00022] of Schedule 1B (prescribed categories of person);
+- (e)[^c-b53d8e37e25d0562251962eccbb9fb6a] Schedule 3A[^f00023] (protected sum); and
+- (f)[^c-b53d8e37e25d0562251962eccbb9fb6a] Schedule 3B[^f00024] (protected sum).
 
-## 3. Amendment of the Housing Benefit (General) Regulations[^key-8f6bdcae674d5b1cedd45492e9db40ae]
+## 3. Amendment of the Housing Benefit (General) Regulations[^c-8f6bdcae674d5b1cedd45492e9db40ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-aeb33e35c3b4bc639bc2c65330b5f467][^key-67c096ee6ba457a13f8c422b9da8d8d3]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-aeb33e35c3b4bc639bc2c65330b5f467][^c-67c096ee6ba457a13f8c422b9da8d8d3]
 
-(1)[^key-aeb33e35c3b4bc639bc2c65330b5f467] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00037] shall be amended in accordance with paragraphs (2) and (3).
+(1)[^c-aeb33e35c3b4bc639bc2c65330b5f467] The Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00037] shall be amended in accordance with paragraphs (2) and (3).
 
 (2) In regulation 105 (notional income)—
 
-- (a)[^key-67c096ee6ba457a13f8c422b9da8d8d3] in paragraph (2)(g)[^f00038] for “or occupational pension scheme” there shall be substituted “, occupational pension scheme or a payment made by the Board of the Pension Protection Fund”;
-- (b)[^key-67c096ee6ba457a13f8c422b9da8d8d3] in paragraph (2B)(a)[^f00039] for “or personal pension scheme” there shall be substituted “ a personal pension scheme or the Board of the Pension Protection Fund”;
-- (c)[^key-aeb33e35c3b4bc639bc2c65330b5f467] in paragraph (10)(a)(ia)[^f00040] for “or is a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”; and
-- (d)[^key-aeb33e35c3b4bc639bc2c65330b5f467] in paragraph (10A)(d)[^f00041] for “or in respect of a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”.
+- (a)[^c-67c096ee6ba457a13f8c422b9da8d8d3] in paragraph (2)(g)[^f00038] for “or occupational pension scheme” there shall be substituted “, occupational pension scheme or a payment made by the Board of the Pension Protection Fund”;
+- (b)[^c-67c096ee6ba457a13f8c422b9da8d8d3] in paragraph (2B)(a)[^f00039] for “or personal pension scheme” there shall be substituted “ a personal pension scheme or the Board of the Pension Protection Fund”;
+- (c)[^c-aeb33e35c3b4bc639bc2c65330b5f467] in paragraph (10)(a)(ia)[^f00040] for “or is a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”; and
+- (d)[^c-aeb33e35c3b4bc639bc2c65330b5f467] in paragraph (10A)(d)[^f00041] for “or in respect of a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”.
 
 (3) In regulation 113 (notional capital)—
 
-- (a)[^key-67c096ee6ba457a13f8c422b9da8d8d3] in paragraph (2)(da)[^f00042] after “scheme” there shall be inserted “or a payment made by the Board of the Pension Protection Fund”;
-- (b)[^key-aeb33e35c3b4bc639bc2c65330b5f467] in paragraph (3)(a)(ia)[^f00043] for “or is a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”; and
-- (c)[^key-aeb33e35c3b4bc639bc2c65330b5f467] in paragraph (3A)(c)[^f00044] for “or in respect of a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”.
+- (a)[^c-67c096ee6ba457a13f8c422b9da8d8d3] in paragraph (2)(da)[^f00042] after “scheme” there shall be inserted “or a payment made by the Board of the Pension Protection Fund”;
+- (b)[^c-aeb33e35c3b4bc639bc2c65330b5f467] in paragraph (3)(a)(ia)[^f00043] for “or is a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”; and
+- (c)[^c-aeb33e35c3b4bc639bc2c65330b5f467] in paragraph (3A)(c)[^f00044] for “or in respect of a pension or other periodical payment made under a personal pension scheme” there shall be substituted “, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund”.
 
-## 5. Amendment of the State Pension Credit Regulations[^key-540250ec181a8e2272b6c7d9016dfcb8][^key-b72c5b37cecc6ef69ec4dcf83a675c41]
+## 5. Amendment of the State Pension Credit Regulations[^c-540250ec181a8e2272b6c7d9016dfcb8][^c-b72c5b37cecc6ef69ec4dcf83a675c41]
 
-(1)[^key-540250ec181a8e2272b6c7d9016dfcb8] The State Pension Credit Regulations (Northern Ireland) 2003[^f00045] shall be amended in accordance with paragraphs (2) to (5).
+(1)[^c-540250ec181a8e2272b6c7d9016dfcb8] The State Pension Credit Regulations (Northern Ireland) 2003[^f00045] shall be amended in accordance with paragraphs (2) to (5).
 
-(2)[^key-540250ec181a8e2272b6c7d9016dfcb8] In regulation 15(5) (income for the purposes of the Act) after sub-paragraph (j)[^f00046] there shall be added the following sub-paragraph—
+(2)[^c-540250ec181a8e2272b6c7d9016dfcb8] In regulation 15(5) (income for the purposes of the Act) after sub-paragraph (j)[^f00046] there shall be added the following sub-paragraph—
 
 > - (k) PPF periodic payments.
 
 .
 
-(3)[^key-b72c5b37cecc6ef69ec4dcf83a675c41] In Schedule 1 Part 3 (amount applicable for former claimants of income support or income-based jobseeker’s allowance) for paragraph 6(9)(b) there shall be substituted the following sub-paragraph—
+(3)[^c-b72c5b37cecc6ef69ec4dcf83a675c41] In Schedule 1 Part 3 (amount applicable for former claimants of income support or income-based jobseeker’s allowance) for paragraph 6(9)(b) there shall be substituted the following sub-paragraph—
 
 > - (b) any amount by which the appropriate minimum guarantee of a patient is increased on 10th April 2006 by virtue of the substitution of paragraph 2[^f00047] of Schedule 3.
 
 .
 
-(4)[^key-540250ec181a8e2272b6c7d9016dfcb8] In paragraph 1 of Schedule 2 (housing costs)—
+(4)[^c-540250ec181a8e2272b6c7d9016dfcb8] In paragraph 1 of Schedule 2 (housing costs)—
 
 - (a) in sub-paragraph (2) in the definition of “disabled person” for paragraph (a) there shall be substituted the following paragraphs—
 
@@ -132,9 +132,9 @@ The Social Security Advisory Committee has agreed that proposals in respect of r
   ; and
 - (b) in sub-paragraph (3) for “sub-paragraph (2)(a)” there shall be substituted “sub-paragraph (2)(a), (aa) and (b)”.
 
-(5)[^key-b72c5b37cecc6ef69ec4dcf83a675c41] In paragraph 2(2)(a) of Schedule 3[^f00049] (further provisions in the case of patients) after “that section” there shall be inserted “, and nil is the prescribed additional amount for the purposes of subsection (3)(b)”.
+(5)[^c-b72c5b37cecc6ef69ec4dcf83a675c41] In paragraph 2(2)(a) of Schedule 3[^f00049] (further provisions in the case of patients) after “that section” there shall be inserted “, and nil is the prescribed additional amount for the purposes of subsection (3)(b)”.
 
-## 6. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^key-52f45bc885a715425f84c8fcd271fb74]
+## 6. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations[^c-52f45bc885a715425f84c8fcd271fb74]
 
 In regulation 8(2) of the Social Fund Maternity and Funeral Expenses (General) Regulations (Northern Ireland) 2005[^f00050] (funeral payments: supplementary) for sub-paragraph (b) there shall be substituted the following sub-paragraph—
 
@@ -211,7 +211,7 @@ These Regulations do not impose any charge on business.
 
 [^f00007]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-b528d3160e6e8bfa6273a709234c7eaa]: Commencement: Reg. 1 in operation at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/2)
+[^c-b528d3160e6e8bfa6273a709234c7eaa]: Commencement: Reg. 1 in operation at 1.4.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/2)
 
 [^f00008]: Footnote: [S.R. 2005 No. 424](https://www.legislation.gov.uk/nisr/2005/424)
 
@@ -219,13 +219,13 @@ These Regulations do not impose any charge on business.
 
 [^f00010]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-79d57e6bf479fc2dc6636500f35e75b5]: Commencement: Reg. 2(2)(a)(b)(3)(a) in operation at 6.4.2006, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/4)
+[^c-79d57e6bf479fc2dc6636500f35e75b5]: Commencement: Reg. 2(2)(a)(b)(3)(a) in operation at 6.4.2006, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/4)
 
-[^key-b53d8e37e25d0562251962eccbb9fb6a]: Commencement: Reg. 2(4)(a)-(c)(e)(f) in operation at 3.4.2006, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/3)
+[^c-b53d8e37e25d0562251962eccbb9fb6a]: Commencement: Reg. 2(4)(a)-(c)(e)(f) in operation at 3.4.2006, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/3)
 
-[^key-b97684e631836975bc01f2c52ee0e3c5]: Commencement: [Reg. 2(4)(d)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/4/d) in operation at 10.4.2006, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/5)
+[^c-b97684e631836975bc01f2c52ee0e3c5]: Commencement: [Reg. 2(4)(d)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/4/d) in operation at 10.4.2006, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/5)
 
-[^key-a821bc7990c29d14762ccfdbca8966a9]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/2/c)[(d)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/2/d)[(3)(b)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/3/b)[(c)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/3/c) in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/1)
+[^c-a821bc7990c29d14762ccfdbca8966a9]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/1)[(2)(c)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/2/c)[(d)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/2/d)[(3)(b)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/3/b)[(c)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/3/c) in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/1)
 
 [^f00011]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending regulations are [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318), [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139), [S.R. 1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367), [S.R. 1999 No. 391](https://www.legislation.gov.uk/nisr/1999/391), [S.R. 2000 No. 260](https://www.legislation.gov.uk/nisr/2000/260), [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) and [S.R. 2005 Nos. 424](https://www.legislation.gov.uk/nisr/2005/424) and [536](https://www.legislation.gov.uk/nisr/2005/536)
 
@@ -247,7 +247,7 @@ These Regulations do not impose any charge on business.
 
 [^f00020]: Footnote: Regulation 18(1)(h) was added by paragraph 14 of Schedule 1 to [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318) and amended by paragraph 17 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139)
 
-[^key-042ea07965de87028cd6e59fe94d772f]: Textual amendment: [Reg. 2(4)(c)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/4/c) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
+[^c-042ea07965de87028cd6e59fe94d772f]: Textual amendment: [Reg. 2(4)(c)](https://www.legislation.gov.uk/nisr/2006/97/regulation/2/4/c) revoked (25.1.2010) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/6)](https://www.legislation.gov.uk/nisr/2010/6), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/6/regulation/1/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2010/6/schedule/part/1) (with [reg. 2(2)-(4)](https://www.legislation.gov.uk/nisr/2010/6/regulation/2/2))
 
 [^f00022]: Footnote: Paragraph 16A was inserted by regulation 2(2) of [S.R. 2000 No. 260](https://www.legislation.gov.uk/nisr/2000/260) and amended by paragraph 12(6) of Schedule 3 to [S.R. 2005 No. 536](https://www.legislation.gov.uk/nisr/2005/536)
 
@@ -255,11 +255,11 @@ These Regulations do not impose any charge on business.
 
 [^f00024]: Footnote: Schedule 3B was inserted by paragraph 18 of Schedule 1 to [S.R. 1989 No. 139](https://www.legislation.gov.uk/nisr/1989/139)
 
-[^key-8f6bdcae674d5b1cedd45492e9db40ae]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/97/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-8f6bdcae674d5b1cedd45492e9db40ae]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/97/regulation/3) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-aeb33e35c3b4bc639bc2c65330b5f467]: Commencement: Reg. 4(1)(2)(c)(d)(3)(b)(c) in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/1)
+[^c-aeb33e35c3b4bc639bc2c65330b5f467]: Commencement: Reg. 4(1)(2)(c)(d)(3)(b)(c) in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/1)
 
-[^key-67c096ee6ba457a13f8c422b9da8d8d3]: Commencement: Reg. 4(2)(a)(b)(3)(a) in operation at 6.4.2006, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/4)
+[^c-67c096ee6ba457a13f8c422b9da8d8d3]: Commencement: Reg. 4(2)(a)(b)(3)(a) in operation at 6.4.2006, see [reg. 1(4)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/4)
 
 [^f00037]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending regulations are [S.R. 1999 No. 391](https://www.legislation.gov.uk/nisr/1999/391), [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195) and [S.R. 2005 No. 424](https://www.legislation.gov.uk/nisr/2005/424)
 
@@ -277,9 +277,9 @@ These Regulations do not impose any charge on business.
 
 [^f00044]: Footnote: Paragraph (3A)(c) was added by regulation 2(3)(c) of [S.R. 1999 No. 391](https://www.legislation.gov.uk/nisr/1999/391) and amended by paragraph 13(c) of Schedule 2 to [S.R. 2003 No. 195](https://www.legislation.gov.uk/nisr/2003/195)
 
-[^key-540250ec181a8e2272b6c7d9016dfcb8]: Commencement: Reg. 5(1)(2)(4) in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/1)
+[^c-540250ec181a8e2272b6c7d9016dfcb8]: Commencement: Reg. 5(1)(2)(4) in operation at 6.4.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/1)
 
-[^key-b72c5b37cecc6ef69ec4dcf83a675c41]: Commencement: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2006/97/regulation/5/3)[(5)](https://www.legislation.gov.uk/nisr/2006/97/regulation/5/5) in operation at 10.4.2006, see [reg. 1(6)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/6)
+[^c-b72c5b37cecc6ef69ec4dcf83a675c41]: Commencement: [Reg. 5(3)](https://www.legislation.gov.uk/nisr/2006/97/regulation/5/3)[(5)](https://www.legislation.gov.uk/nisr/2006/97/regulation/5/5) in operation at 10.4.2006, see [reg. 1(6)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/6)
 
 [^f00045]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending regulations are [S.R. 2004 No. 394](https://www.legislation.gov.uk/nisr/2004/394) and [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580)
 
@@ -291,7 +291,7 @@ These Regulations do not impose any charge on business.
 
 [^f00049]: Footnote: Paragraph 2 was substituted by regulation 7(5) of [S.R. 2005 No. 580](https://www.legislation.gov.uk/nisr/2005/580)
 
-[^key-52f45bc885a715425f84c8fcd271fb74]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/97/regulation/6) in operation at 10.4.2006, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/5)
+[^c-52f45bc885a715425f84c8fcd271fb74]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/97/regulation/6) in operation at 10.4.2006, see [reg. 1(5)](https://www.legislation.gov.uk/nisr/2006/97/regulation/1/5)
 
 [^f00050]: Footnote: [S.R. 2005 No. 506](https://www.legislation.gov.uk/nisr/2005/506)
 

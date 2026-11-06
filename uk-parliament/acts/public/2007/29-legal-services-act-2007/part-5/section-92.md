@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 92. Duties of Head of Finance and Administration[^key-9652dbbd9b320408f4a180c6e2827c15]
+## 92. Duties of Head of Finance and Administration[^c-9652dbbd9b320408f4a180c6e2827c15]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9652dbbd9b320408f4a180c6e2827c15]: Commencement: S. 92 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-9652dbbd9b320408f4a180c6e2827c15]: Commencement: S. 92 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

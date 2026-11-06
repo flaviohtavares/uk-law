@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Notices of meetings etc.[^key-e683f79302036493c06a5f08b179e8df]
+## 41. Notices of meetings etc.[^c-e683f79302036493c06a5f08b179e8df]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 
 (3) For the purposes of—
 
-- (a) serving notices of meetings, whether under section 310(1) of the[^key-4c5a3423674c81e7d16813da0c2dcca4] 2006 Act, any other enactment, a provision in the articles of association or any other instrument; or
-- (b) sending copies of the documents required to be sent to any person by section 423(1) of the[^key-7c06c219d4d88e35ddb1f82a3aadf96a] 2006 Act,
+- (a) serving notices of meetings, whether under section 310(1) of the[^c-4c5a3423674c81e7d16813da0c2dcca4] 2006 Act, any other enactment, a provision in the articles of association or any other instrument; or
+- (b) sending copies of the documents required to be sent to any person by section 423(1) of the[^c-7c06c219d4d88e35ddb1f82a3aadf96a] 2006 Act,
 
 a participating issuer may determine that persons entitled to receive such notices, or copies of such documents (as the case may be), are those persons entered on the relevant register of securities at the close of business on a day determined by him.
 
@@ -38,14 +38,14 @@ a participating issuer may determine that persons entitled to receive such notic
 - (a) by paragraph 5(3) of Schedule 4, to a participating issuer which is a company; and
 - (b) by paragraph 13(4) or 15(3) of Schedule 4, to a participating issuer.
 
-(6)[^key-07a4c0bcb1752e5c96b8af8dfcee6714] In calculating the period mentioned in paragraph (1) above no account shall be taken of any part of a day that is not a working day.
+(6)[^c-07a4c0bcb1752e5c96b8af8dfcee6714] In calculating the period mentioned in paragraph (1) above no account shall be taken of any part of a day that is not a working day.
 
 ## Annotations
 
-[^key-e683f79302036493c06a5f08b179e8df]: Commencement: Reg. 41 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-e683f79302036493c06a5f08b179e8df]: Commencement: Reg. 41 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
 
-[^key-4c5a3423674c81e7d16813da0c2dcca4]: Textual amendment: Words in [reg. 41(3)(a)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/41/3/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/18/a)
+[^c-4c5a3423674c81e7d16813da0c2dcca4]: Textual amendment: Words in [reg. 41(3)(a)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/41/3/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(18)(a)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/18/a)
 
-[^key-7c06c219d4d88e35ddb1f82a3aadf96a]: Textual amendment: Words in [reg. 41(3)(b)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/41/3/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/18/b)
+[^c-7c06c219d4d88e35ddb1f82a3aadf96a]: Textual amendment: Words in [reg. 41(3)(b)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/41/3/b) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(18)(b)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/18/b)
 
-[^key-07a4c0bcb1752e5c96b8af8dfcee6714]: Textual amendment: [Reg. 41(6)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/41/6) inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(18)(c)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/18/c)
+[^c-07a4c0bcb1752e5c96b8af8dfcee6714]: Textual amendment: [Reg. 41(6)](https://www.legislation.gov.uk/uksi/2001/3755/regulation/41/6) inserted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments) (Uncertificated Securities) Order 2009 (S.I. 2009/1889)](https://www.legislation.gov.uk/uksi/2009/1889), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/1/2), [2(18)(c)](https://www.legislation.gov.uk/uksi/2009/1889/regulation/2/18/c)

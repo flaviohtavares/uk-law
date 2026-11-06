@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Inquiries: Wales[^key-a86ed33aac7cfb38bfaea8a58db8bea2][^key-6ff81e01d213e249d7e1db3e90d46a7b]
+## 144. Inquiries: Wales[^c-a86ed33aac7cfb38bfaea8a58db8bea2][^c-6ff81e01d213e249d7e1db3e90d46a7b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a86ed33aac7cfb38bfaea8a58db8bea2]: Textual amendment: S. 144 repealed (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/49), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 paras. 35(t)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/t), [36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36)
+[^c-a86ed33aac7cfb38bfaea8a58db8bea2]: Textual amendment: S. 144 repealed (1.4.2009) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2008/14/schedule/5/paragraph/49), [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/14/schedule/15/part/1); [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 paras. 35(t)](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/35/t), [36](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/36)
 
-[^key-6ff81e01d213e249d7e1db3e90d46a7b]: Commencement: S. 144 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/873/article/2/d)
+[^c-6ff81e01d213e249d7e1db3e90d46a7b]: Commencement: S. 144 in force at 1.4.2004 by [S.I. 2004/873](https://www.legislation.gov.uk/uksi/2004/873), [art. 2(d)](https://www.legislation.gov.uk/uksi/2004/873/article/2/d)

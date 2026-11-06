@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Authorising imports or movements involving Northern Ireland[^key-c2909ac02c7b25799a818d35d2bb84bc]
+## 37. Authorising imports or movements involving Northern Ireland[^c-c2909ac02c7b25799a818d35d2bb84bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 - (a) its decision under paragraph (3), and
 - (b) where the decision is to refuse to grant the authorisation, the reasons for the refusal.
 
-(7)[^key-dbb9304f4ca070b17568bdb7442f4d68] This regulation applies to the transport of mercury from Northern Ireland into Great Britain, subject to the modifications in paragraphs (8) and (9).
+(7)[^c-dbb9304f4ca070b17568bdb7442f4d68] This regulation applies to the transport of mercury from Northern Ireland into Great Britain, subject to the modifications in paragraphs (8) and (9).
 
 (8) Paragraph (1) is to be read as if after “enforcing authority” there were inserted “in Great Britain”.
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2909ac02c7b25799a818d35d2bb84bc]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2017/1200/regulation/37) heading inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/6/2)
+[^c-c2909ac02c7b25799a818d35d2bb84bc]: Textual amendment: Words in [reg. 37](https://www.legislation.gov.uk/uksi/2017/1200/regulation/37) heading inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/6/2)
 
-[^key-dbb9304f4ca070b17568bdb7442f4d68]: Textual amendment: [Reg. 37(7)-(16)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/37/7) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/6/3)
+[^c-dbb9304f4ca070b17568bdb7442f4d68]: Textual amendment: [Reg. 37(7)-(16)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/37/7) inserted (31.12.2020) by [The Control of Mercury (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1620)](https://www.legislation.gov.uk/uksi/2020/1620), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/2/2), [6(3)](https://www.legislation.gov.uk/uksi/2020/1620/regulation/6/3)

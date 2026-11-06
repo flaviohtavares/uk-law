@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Change of occupation of premises under restriction[^key-4c7e160a459bf3965e87bbcb500056aa]
+## 74. Change of occupation of premises under restriction[^c-4c7e160a459bf3965e87bbcb500056aa]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c7e160a459bf3965e87bbcb500056aa]: Commencement: Reg. 74 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-4c7e160a459bf3965e87bbcb500056aa]: Commencement: Reg. 74 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

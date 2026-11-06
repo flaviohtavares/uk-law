@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 595. Joint venture company liable for additional charge[^key-ce389bc88821ad91ba4b8e30870b390d]
+## 595. Joint venture company liable for additional charge[^c-ce389bc88821ad91ba4b8e30870b390d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce389bc88821ad91ba4b8e30870b390d]: Textual amendment: Ss. 595-597 and crossheading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/39)
+[^c-ce389bc88821ad91ba4b8e30870b390d]: Textual amendment: Ss. 595-597 and crossheading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 39](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/39)

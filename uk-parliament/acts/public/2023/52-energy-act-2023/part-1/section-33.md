@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Making of false statements etc[^key-50a96c49971e528654e6bca2d2e7b017]
+## 33. Making of false statements etc[^c-50a96c49971e528654e6bca2d2e7b017]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50a96c49971e528654e6bca2d2e7b017]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/52/section/33) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-50a96c49971e528654e6bca2d2e7b017]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2023/52/section/33) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

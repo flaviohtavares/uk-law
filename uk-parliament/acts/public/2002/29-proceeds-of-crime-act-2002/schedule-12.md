@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12 — Repeals and revocations[^c4026031][^key-135b7b293512eeb4257be4e826b69d66][^key-70b224f07969040c97568d6d2ef8145e][^key-b5a7a64767d1abe0dba221cd05ebdabe]
+## SCHEDULE 12 — Repeals and revocations[^c4026031][^c-135b7b293512eeb4257be4e826b69d66][^c-70b224f07969040c97568d6d2ef8145e][^c-b5a7a64767d1abe0dba221cd05ebdabe]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,8 +57,8 @@ Section 457
 
 [^c4026031]: Commencement: Sch. 12 in force at 30.12.2002 for specified purposes by [S.I. 2002/3015](https://www.legislation.gov.uk/uksi/2002/3015), [art. 2](https://www.legislation.gov.uk/uksi/2002/3015/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/3015/schedule)
 
-[^key-135b7b293512eeb4257be4e826b69d66]: Commencement: Sch. 12 in force at 24.2.2003 for specified purposes by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2003/120/article/3)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-135b7b293512eeb4257be4e826b69d66]: Commencement: Sch. 12 in force at 24.2.2003 for specified purposes by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3-6](https://www.legislation.gov.uk/uksi/2003/120/article/3)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-70b224f07969040c97568d6d2ef8145e]: Commencement: Sch. 12 in force at 24.3.2003 for specified purposes by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
+[^c-70b224f07969040c97568d6d2ef8145e]: Commencement: Sch. 12 in force at 24.3.2003 for specified purposes by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7))
 
-[^key-b5a7a64767d1abe0dba221cd05ebdabe]: Commencement: Sch. 12 in force at 24.3.2003 for specified purposes by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-b5a7a64767d1abe0dba221cd05ebdabe]: Commencement: Sch. 12 in force at 24.3.2003 for specified purposes by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))

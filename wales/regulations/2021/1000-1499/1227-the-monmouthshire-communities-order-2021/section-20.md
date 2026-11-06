@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Priory — change of electoral ward name[^key-e1e1e08609dd84baa3e3283967a340c4][^key-b31838febf91116bca67e73fc53e9518]
+## 20. Priory — change of electoral ward name[^c-e1e1e08609dd84baa3e3283967a340c4][^c-b31838febf91116bca67e73fc53e9518]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The electoral ward of Priory as changed by this order is re-named Park.
 
 ## Annotations
 
-[^key-e1e1e08609dd84baa3e3283967a340c4]: Commencement: Art. 20 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-e1e1e08609dd84baa3e3283967a340c4]: Commencement: Art. 20 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-b31838febf91116bca67e73fc53e9518]: Commencement: [Art. 20](https://www.legislation.gov.uk/wsi/2021/1227/article/20) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-b31838febf91116bca67e73fc53e9518]: Commencement: [Art. 20](https://www.legislation.gov.uk/wsi/2021/1227/article/20) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

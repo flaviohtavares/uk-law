@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Consequential amendments[^key-497da7f4f56abef063b3b64655aef53c]
+## 60. Consequential amendments[^c-497da7f4f56abef063b3b64655aef53c]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-497da7f4f56abef063b3b64655aef53c]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2007/18/section/60) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-497da7f4f56abef063b3b64655aef53c]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2007/18/section/60) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

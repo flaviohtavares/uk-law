@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 33. Christmas bonus[^key-0da7d80ad2daa46705b258ce79e8c5d3]
+## 33. Christmas bonus[^c-0da7d80ad2daa46705b258ce79e8c5d3]
 
 (1) A decision by the Secretary of State that a person is entitled or not entitled to payment of a qualifying benefit in respect of a period which includes a day in the relevant week shall be conclusive for the purposes of section 148 of the Contributions and Benefits Act.
 
@@ -22,4 +22,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0da7d80ad2daa46705b258ce79e8c5d3]: Commencement: S. 33 in force at 29.11.1999 for specified purposes by [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))
+[^c-0da7d80ad2daa46705b258ce79e8c5d3]: Commencement: S. 33 in force at 29.11.1999 for specified purposes by [S.I. 1999/3178](https://www.legislation.gov.uk/uksi/1999/3178), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/1/a)[(2)](https://www.legislation.gov.uk/uksi/1999/3178/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/3178/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/3178/article/4), [Schs. 21-23](https://www.legislation.gov.uk/uksi/1999/3178/schedule/21))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Calculation of the required sum[^key-d9b0971d216f547ec0b04555d938cd3a][^key-f5faa6e64c4b09162209e1b22a409b45][^key-6fcb0aa244ac9b4c73f805fb97032609]
+## 104. Calculation of the required sum[^c-d9b0971d216f547ec0b04555d938cd3a][^c-f5faa6e64c4b09162209e1b22a409b45][^c-6fcb0aa244ac9b4c73f805fb97032609]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,8 +39,8 @@ This is subject to subsection (4).
 
 ## Annotations
 
-[^key-d9b0971d216f547ec0b04555d938cd3a]: Commencement: S. 104 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d9b0971d216f547ec0b04555d938cd3a]: Commencement: S. 104 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-f5faa6e64c4b09162209e1b22a409b45]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/36/section/104) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(28)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/28)
+[^c-f5faa6e64c4b09162209e1b22a409b45]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/36/section/104) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(28)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/28)
 
-[^key-6fcb0aa244ac9b4c73f805fb97032609]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/36/section/104) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(11)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/11/b)
+[^c-6fcb0aa244ac9b4c73f805fb97032609]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2025/36/section/104) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(11)(b)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/11/b)

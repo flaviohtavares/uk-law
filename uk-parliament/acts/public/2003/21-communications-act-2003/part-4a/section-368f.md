@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 368F. Advertising[^key-8b5116708328654f497f918c49a3b13d]
+## 368F. Advertising[^c-8b5116708328654f497f918c49a3b13d]
 
 *Extent: E+W+S+N.I.*
 
 (1) Advertising of the following products is prohibited in on-demand programme services—
 
 - (a) cigarettes or other tobacco products;
-- (aa)[^key-6611d9bc7408c9321544bbe88660fee4] electronic cigarettes or electronic cigarette refill containers;
+- (aa)[^c-6611d9bc7408c9321544bbe88660fee4] electronic cigarettes or electronic cigarette refill containers;
 - (b) any prescription-only medicine.
 
-(2)[^key-82cf8b7534ac0234789242529fe32d39] Advertising of alcoholic drinks is only permitted in on-demand programme services if—
+(2)[^c-82cf8b7534ac0234789242529fe32d39] Advertising of alcoholic drinks is only permitted in on-demand programme services if—
 
 - (a) it is not aimed specifically at persons under the age of eighteen, nor does it, in particular, depict such persons consuming alcoholic drinks;
 - (b) it does not link the consumption of alcohol to enhanced physical performance or to driving;
@@ -46,7 +46,7 @@ summary: ''
 - (b) include or promote discrimination based on sex, racial or ethnic origin, nationality, religion or belief, disability, age or sexual orientation;
 - (c) encourage behaviour prejudicial to health or safety;
 - (d) encourage behaviour grossly prejudicial to the protection of the environment;
-- (e) cause physical , mental[^key-84c7635bc62dab0d1c08ad9a1d1b623d] or moral detriment to persons under the age of eighteen;
+- (e) cause physical , mental[^c-84c7635bc62dab0d1c08ad9a1d1b623d] or moral detriment to persons under the age of eighteen;
 - (f) directly exhort such persons to purchase or rent goods or services in a manner which exploits their inexperience or credulity;
 - (g) directly encourage such persons to persuade their parents or others to purchase or rent goods or services;
 - (h) exploit the trust of such persons in parents, teachers or others; or
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
+[^c-8b5116708328654f497f918c49a3b13d]: Textual amendment: Pt. 4A inserted (19.12.2009) by [Audiovisual Media Services Regulations 2009 (S.I. 2009/2979)](https://www.legislation.gov.uk/uksi/2009/2979), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2979/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/2979/regulation/2)
 
-[^key-6611d9bc7408c9321544bbe88660fee4]: Textual amendment: S. 368F(1)(aa) inserted (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/46/2)
+[^c-6611d9bc7408c9321544bbe88660fee4]: Textual amendment: S. 368F(1)(aa) inserted (20.5.2016) by [The Tobacco and Related Products Regulations 2016 (S.I. 2016/507)](https://www.legislation.gov.uk/uksi/2016/507), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2016/507/regulation/46/2)
 
-[^key-82cf8b7534ac0234789242529fe32d39]: Textual amendment: S. 368F(2) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [33(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/33/a) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-82cf8b7534ac0234789242529fe32d39]: Textual amendment: S. 368F(2) substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [33(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/33/a) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-84c7635bc62dab0d1c08ad9a1d1b623d]: Textual amendment: Word in s. 368F(4)(e) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [33(b)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/33/b) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-84c7635bc62dab0d1c08ad9a1d1b623d]: Textual amendment: Word in s. 368F(4)(e) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [33(b)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/33/b) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))

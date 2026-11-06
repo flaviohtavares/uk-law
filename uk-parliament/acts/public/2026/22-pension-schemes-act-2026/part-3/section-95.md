@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Release of capital buffer treated as reducing employer debt[^key-5120b3f0245d303e27dbb5ce075d903c]
+## 95. Release of capital buffer treated as reducing employer debt[^c-5120b3f0245d303e27dbb5ce075d903c]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Where some or all of the capital buffer is released in consequence of a debt fal
 
 ## Annotations
 
-[^key-5120b3f0245d303e27dbb5ce075d903c]: Commencement: S. 95 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-5120b3f0245d303e27dbb5ce075d903c]: Commencement: S. 95 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

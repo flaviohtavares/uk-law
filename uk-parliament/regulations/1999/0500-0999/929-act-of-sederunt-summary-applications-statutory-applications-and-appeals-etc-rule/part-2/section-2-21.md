@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.21. Transfer to another sheriff court[^key-07316cb75a542daa92aaa51fc45ef553]
+## 2.21. Transfer to another sheriff court[^c-07316cb75a542daa92aaa51fc45ef553]
 
 *Extent: S*
 
@@ -40,10 +40,10 @@ summary: ''
 
 (7) A transferred summary application shall proceed in all respects as if it had been originally brought in the court to which it is transferred.
 
-(8)[^key-954863b0355032289a8071a28dff92ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-954863b0355032289a8071a28dff92ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-07316cb75a542daa92aaa51fc45ef553]: Commencement: Rule 2.21 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-07316cb75a542daa92aaa51fc45ef553]: Commencement: Rule 2.21 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
 
-[^key-954863b0355032289a8071a28dff92ae]: Textual amendment: [Rule 2.21(8)](https://www.legislation.gov.uk/uksi/1999/929/rule/2.21/8) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/2) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))
+[^c-954863b0355032289a8071a28dff92ae]: Textual amendment: [Rule 2.21(8)](https://www.legislation.gov.uk/uksi/1999/929/rule/2.21/8) omitted (1.1.2016) by virtue of [Act of Sederunt (Rules of the Court of Session, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Sheriff Appeal Court) 2015 (S.S.I. 2015/419)](https://www.legislation.gov.uk/ssi/2015/419), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/1/2), [9(2)](https://www.legislation.gov.uk/ssi/2015/419/paragraph/9/2) (with [para. 20](https://www.legislation.gov.uk/ssi/2015/419/paragraph/20))

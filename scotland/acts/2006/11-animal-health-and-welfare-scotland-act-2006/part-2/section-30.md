@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Sale of animals to children[^key-9a29a064dab7ccbd26653b9072d5cbb9]
+## 30. Sale of animals to children[^c-9a29a064dab7ccbd26653b9072d5cbb9]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ believed that person B was aged 16 years or over.
 
 ## Annotations
 
-[^key-9a29a064dab7ccbd26653b9072d5cbb9]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2006/11/section/30) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-9a29a064dab7ccbd26653b9072d5cbb9]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2006/11/section/30) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

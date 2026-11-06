@@ -37,11 +37,11 @@ Made
 
 The Department for Communities makes the following Order in exercise of the powers conferred by section 131(2) and (4) of the Pension Schemes Act 2021[^f00001].
 
-## 1. Citation[^key-1d6c3140667a514a02b9f4cd9f4e5d55]
+## 1. Citation[^c-1d6c3140667a514a02b9f4cd9f4e5d55]
 
 This Order may be cited as the Pension Schemes Act 2021 (Commencement No. 6) Order (Northern Ireland) 2022.
 
-## 2. Appointed day[^key-1a74e00b35d82428eec8e7d2255ffa9d]
+## 2. Appointed day[^c-1a74e00b35d82428eec8e7d2255ffa9d]
 
 The day appointed for the coming into operation of section 120 of, and Schedule 9 to, the Pension Schemes Act 2021 (pensions dashboards: Northern Ireland), in so far as they are not already in operation[^f00002], is 31st October 2022.
 
@@ -104,8 +104,8 @@ The following provisions of the Pension Schemes Act 2021 have been brought into 
 
 [^f00001]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1)
 
-[^key-1d6c3140667a514a02b9f4cd9f4e5d55]: Commencement: Art. 1 in operation at made date
+[^c-1d6c3140667a514a02b9f4cd9f4e5d55]: Commencement: Art. 1 in operation at made date
 
-[^key-1a74e00b35d82428eec8e7d2255ffa9d]: Commencement: Art. 2 in operation at made date
+[^c-1a74e00b35d82428eec8e7d2255ffa9d]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: *See* section 131(3)(a) of the Pension Schemes Act 2021

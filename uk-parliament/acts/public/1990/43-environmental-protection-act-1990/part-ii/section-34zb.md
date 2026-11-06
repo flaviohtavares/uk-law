@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34ZB. Fixed penalty notices: offences under section 34(6) relating to section 34(2A): Wales[^key-df4040af33cb6e75c45c41bf326eb43f]
+## 34ZB. Fixed penalty notices: offences under section 34(6) relating to section 34(2A): Wales[^c-df4040af33cb6e75c45c41bf326eb43f]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-df4040af33cb6e75c45c41bf326eb43f]: Textual amendment: S. 34ZB inserted (E.W.) (21.2.2019) by [The Household Waste Duty of Care (Fixed Penalties) (Wales) Regulations 2019 (S.I. 2019/331)](https://www.legislation.gov.uk/wsi/2019/331), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/331/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2019/331/regulation/2/2)
+[^c-df4040af33cb6e75c45c41bf326eb43f]: Textual amendment: S. 34ZB inserted (E.W.) (21.2.2019) by [The Household Waste Duty of Care (Fixed Penalties) (Wales) Regulations 2019 (S.I. 2019/331)](https://www.legislation.gov.uk/wsi/2019/331), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/331/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2019/331/regulation/2/2)

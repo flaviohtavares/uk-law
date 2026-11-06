@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21A. Disqualification relating to sexual offences etc[^key-f18ee8699538e6cbe24e8a0a287f6e19][^key-2aae8014726959d81b97bab0b0645c2d]
+## 21A. Disqualification relating to sexual offences etc[^c-f18ee8699538e6cbe24e8a0a287f6e19][^c-2aae8014726959d81b97bab0b0645c2d]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f18ee8699538e6cbe24e8a0a287f6e19]: Modification: S. 21A: power to amend conferred (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2022/17/section/4/1)[(2)(c)](https://www.legislation.gov.uk/ukpga/2022/17/section/4/2/c), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))
+[^c-f18ee8699538e6cbe24e8a0a287f6e19]: Modification: S. 21A: power to amend conferred (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2022/17/section/4/1)[(2)(c)](https://www.legislation.gov.uk/ukpga/2022/17/section/4/2/c), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))
 
-[^key-2aae8014726959d81b97bab0b0645c2d]: Textual amendment: S. 21A inserted (E.W.) (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2022/17/section/3/1), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))
+[^c-2aae8014726959d81b97bab0b0645c2d]: Textual amendment: S. 21A inserted (E.W.) (28.6.2022) by [Local Government (Disqualification) Act 2022 (c. 17)](https://www.legislation.gov.uk/ukpga/2022/17), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2022/17/section/3/1), [6(2)](https://www.legislation.gov.uk/ukpga/2022/17/section/6/2) (with [s. 5](https://www.legislation.gov.uk/ukpga/2022/17/section/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Screeners: supplementary provisions[^key-f19c9bdca83542cc870ab92cdc8813ae][^key-2b230ee2b6c9202e2643a7a2a35c540a][^key-02c3a584be6c0fc395e9b3158cf2b6c6]
+## 24. Screeners: supplementary provisions[^c-f19c9bdca83542cc870ab92cdc8813ae][^c-2b230ee2b6c9202e2643a7a2a35c540a][^c-02c3a584be6c0fc395e9b3158cf2b6c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,8 +49,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f19c9bdca83542cc870ab92cdc8813ae]: Commencement: Art. 24 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
+[^c-f19c9bdca83542cc870ab92cdc8813ae]: Commencement: Art. 24 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2002/254/article/1/2)
 
-[^key-2b230ee2b6c9202e2643a7a2a35c540a]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2002/254/article/24) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
+[^c-2b230ee2b6c9202e2643a7a2a35c540a]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2002/254/article/24) in force at 14.3.2003 for specified purposes as notified in the London Gazette dated 7.3.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3)
 
-[^key-02c3a584be6c0fc395e9b3158cf2b6c6]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2002/254/article/24) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))
+[^c-02c3a584be6c0fc395e9b3158cf2b6c6]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2002/254/article/24) in force at 9.7.2003 in so far as not already in force as notified in the London Gazette dated 27.6.2003, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2002/254/article/1/3) (with transitional provisions in [S.I. 2003/1700](https://www.legislation.gov.uk/uksi/2003/1700))

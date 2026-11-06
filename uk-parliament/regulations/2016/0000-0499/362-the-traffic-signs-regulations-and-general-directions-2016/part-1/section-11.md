@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Diagram Colours[^key-d44e8130b95084c6ef1b7d23663dd6e2]
+## 11. Diagram Colours[^c-d44e8130b95084c6ef1b7d23663dd6e2]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d44e8130b95084c6ef1b7d23663dd6e2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
+[^c-d44e8130b95084c6ef1b7d23663dd6e2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/11) in force at 22.4.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/1/regulation/1)
 
 [^f00015]: Footnote: Publication date 30th April 2008 (ISBN 9780580813474): corrigenda May 2008, June 2009, October 2011 and May 2013.

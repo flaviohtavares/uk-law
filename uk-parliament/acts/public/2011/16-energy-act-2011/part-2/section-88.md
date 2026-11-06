@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Enforcement[^key-75be0826d2276b166b1035a5aba4fb2c]
+## 88. Enforcement[^c-75be0826d2276b166b1035a5aba4fb2c]
 
 *Extent: E+W+S*
 
-(1) A person is guilty of an offence if, in circumstances falling within subsection (2), the person provides false information to the OGA[^key-807a424f6326f5ff2d4bd0e1543a3ca8] for the purpose of—
+(1) A person is guilty of an offence if, in circumstances falling within subsection (2), the person provides false information to the OGA[^c-807a424f6326f5ff2d4bd0e1543a3ca8] for the purpose of—
 
 - (a) inducing the OGA to exercise or not to exercise any of the functions conferred on the OGA by sections 82 to 85; or
 - (b) inducing the OGA to exercise any of those functions in a particular way.
@@ -45,7 +45,7 @@ summary: ''
 
 (8) Where a duty is owed by virtue of subsection (7) to any person, the duty may be enforced as if it were contained in a contract between that person and the person who owes the duty.
 
-(9) The duty of a person to comply with a notice under section 87 is enforceable by civil proceedings by the OGA[^key-37b90941025050b18c45f05bf200a1ff] —
+(9) The duty of a person to comply with a notice under section 87 is enforceable by civil proceedings by the OGA[^c-37b90941025050b18c45f05bf200a1ff] —
 
 - (a) for an injunction or interdict;
 - (b) for specific performance of a statutory duty under section 45 of the Court of Session Act 1988; or
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-75be0826d2276b166b1035a5aba4fb2c]: Commencement: S. 88 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
+[^c-75be0826d2276b166b1035a5aba4fb2c]: Commencement: S. 88 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2012/873/article/2/b/i) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/873/article/4))
 
-[^key-807a424f6326f5ff2d4bd0e1543a3ca8]: Textual amendment: Words in s. 88(1) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/70/2); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-807a424f6326f5ff2d4bd0e1543a3ca8]: Textual amendment: Words in s. 88(1) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/70/2); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
-[^key-37b90941025050b18c45f05bf200a1ff]: Textual amendment: Word in s. 88(9) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/70/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-37b90941025050b18c45f05bf200a1ff]: Textual amendment: Word in s. 88(9) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 70(3)](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/70/3); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

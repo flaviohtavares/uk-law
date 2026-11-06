@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8.52. Decision on recognition of a judgment only[^key-01b7174459c6aa56f66a4c72a02166bc]
+## 8.52. Decision on recognition of a judgment only[^c-01b7174459c6aa56f66a4c72a02166bc]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the court orders that the judgment should be recognised, the proper officer or chief clerk will serve a copy of the order on each party as soon as practicable.
 
-(3) A sealed order of the court will constitute notification that the judgment has been recognised under [^key-8db4524ac2e10d3ec617344504a0db44]... Article 24 of the 1996 Hague Convention [^key-1c339ece0505114d7efc91436954d636]....
+(3) A sealed order of the court will constitute notification that the judgment has been recognised under [^c-8db4524ac2e10d3ec617344504a0db44]... Article 24 of the 1996 Hague Convention [^c-1c339ece0505114d7efc91436954d636]....
 
 (4) The sealed order must indicate—
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-01b7174459c6aa56f66a4c72a02166bc]: Textual amendment: [Rules 8.33-8.63](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) substituted for [rules 8.33-8.48](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/64/article/2/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/64/schedule/2)
+[^c-01b7174459c6aa56f66a4c72a02166bc]: Textual amendment: [Rules 8.33-8.63](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) substituted for [rules 8.33-8.48](https://www.legislation.gov.uk/nisr/1996/322/rule/8.33) (25.3.2011 for specified purposes, 1.11.2012 in so far as not already in operation) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2011 (S.R. 2011/64)](https://www.legislation.gov.uk/nisr/2011/64), [rules 1](https://www.legislation.gov.uk/nisr/2011/64/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2011/64/article/2/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2011/64/schedule/2)
 
-[^key-8db4524ac2e10d3ec617344504a0db44]: Textual amendment: Words in [rule 8.52(3)](https://www.legislation.gov.uk/nisr/1996/322/rule/8.52/3) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(29)(a)](https://www.legislation.gov.uk/nisr/2019/235/article/2/29/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8db4524ac2e10d3ec617344504a0db44]: Textual amendment: Words in [rule 8.52(3)](https://www.legislation.gov.uk/nisr/1996/322/rule/8.52/3) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(29)(a)](https://www.legislation.gov.uk/nisr/2019/235/article/2/29/a) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1c339ece0505114d7efc91436954d636]: Textual amendment: Words in [rule 8.52(3)](https://www.legislation.gov.uk/nisr/1996/322/rule/8.52/3) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(29)(b)](https://www.legislation.gov.uk/nisr/2019/235/article/2/29/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c339ece0505114d7efc91436954d636]: Textual amendment: Words in [rule 8.52(3)](https://www.legislation.gov.uk/nisr/1996/322/rule/8.52/3) omitted (31.12.2020) by virtue of [The Family Proceedings (Amendment) Rules (Northern Ireland) 2019 (S.R. 2019/235)](https://www.legislation.gov.uk/nisr/2019/235), [rules 1(1)](https://www.legislation.gov.uk/nisr/2019/235/rule/1/1), [2(29)(b)](https://www.legislation.gov.uk/nisr/2019/235/article/2/29/b) (with [rule 3](https://www.legislation.gov.uk/nisr/2019/235/rule/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

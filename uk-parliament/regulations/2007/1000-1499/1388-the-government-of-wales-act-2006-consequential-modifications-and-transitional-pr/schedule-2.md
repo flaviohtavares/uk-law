@@ -22,13 +22,13 @@ summary: ''
 
 Article 4
 
-### 1. Food Standards Act 1999[^key-7ea1c8d7f0e7fe2e947442d865b44183][^key-7ea1c8d7f0e7fe2e947442d865b44183]
+### 1. Food Standards Act 1999[^c-7ea1c8d7f0e7fe2e947442d865b44183][^c-7ea1c8d7f0e7fe2e947442d865b44183]
 
 The functions of the National Assembly for Wales constituted by the Government of Wales Act 1998 under section 37(5) of the Food Standards Act 1999 (draft Order in Council to be laid before and approved by Assembly)[^f00113], which would, apart from this paragraph, be transferred to the Welsh Ministers immediately after the end of the initial period under paragraph 30(1) of Schedule 11 to the Government of Wales Act 2006, are transferred instead at that time to the National Assembly for Wales constituted by the Government of Wales Act 2006.
 
-**2.**[^key-1cbc035bfba0157f24f1abd9260b09d0] Nothing in paragraph 32 of Schedule 11 to the Government of Wales Act 2006 (modification of references to the Assembly) affects the reference to the National Assembly for Wales in paragraph 3(4) of Schedule 4 to the Food Standards Act 1999 (accounts examined on behalf of Assembly) and accordingly that reference is, after the end of the initial period, a reference to the Assembly constituted by the Government of Wales Act 2006.
+**2.**[^c-1cbc035bfba0157f24f1abd9260b09d0] Nothing in paragraph 32 of Schedule 11 to the Government of Wales Act 2006 (modification of references to the Assembly) affects the reference to the National Assembly for Wales in paragraph 3(4) of Schedule 4 to the Food Standards Act 1999 (accounts examined on behalf of Assembly) and accordingly that reference is, after the end of the initial period, a reference to the Assembly constituted by the Government of Wales Act 2006.
 
-### 3. Government of Wales Act 2006[^key-47177221d39ce69f9fe9fcb368fcd0be][^key-47177221d39ce69f9fe9fcb368fcd0be]
+### 3. Government of Wales Act 2006[^c-47177221d39ce69f9fe9fcb368fcd0be][^c-47177221d39ce69f9fe9fcb368fcd0be]
 
 In paragraph 34 of Schedule 11 to the Government of Wales Act 2006[^f00114] (functions conferred or imposed by pre-commencement enactment: Parliamentary and Assembly procedure)—
 
@@ -39,7 +39,7 @@ In paragraph 34 of Schedule 11 to the Government of Wales Act 2006[^f00114] (fun
   >
   > (4B) Section 268(13) of the Enterprise Act 2002 (parliamentary procedure) applies to an order made by the Welsh Ministers under section 268(1) of that Act (order in relation to disqualification from office) as if the reference to each House of Parliament were a reference to the Assembly.
 
-**4.**[^key-89678f57205061329a3e327012730a4d] In Table 1 in paragraph 35 of Schedule 11 to the Government of Wales Act 2006 insert the following entries in the appropriate places—
+**4.**[^c-89678f57205061329a3e327012730a4d] In Table 1 in paragraph 35 of Schedule 11 to the Government of Wales Act 2006 insert the following entries in the appropriate places—
 
 | Function | Description |
 | --- | --- |
@@ -53,7 +53,7 @@ In paragraph 34 of Schedule 11 to the Government of Wales Act 2006[^f00114] (fun
 | Section 18(10) of that Act. | Power to amend the definition of “permitted person” in section 18(9). |
 | Section 27(2) of that Act. | Power to amend the definition of “family health service provider in Wales” and “independent provider in Wales”. |
 
-**5.**[^key-f8672e390fe0d8e4742e041efbdda1c7] In Table 2 in paragraph 35 of Schedule 11 to the Government of Wales Act 2006 insert the following entries in the appropriate places—
+**5.**[^c-f8672e390fe0d8e4742e041efbdda1c7] In Table 2 in paragraph 35 of Schedule 11 to the Government of Wales Act 2006 insert the following entries in the appropriate places—
 
 | Function | Description |
 | --- | --- |
@@ -74,16 +74,16 @@ In paragraph 34 of Schedule 11 to the Government of Wales Act 2006[^f00114] (fun
 
 ## Annotations
 
-[^key-7ea1c8d7f0e7fe2e947442d865b44183]: Commencement: Sch. 2 para. 1 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
+[^c-7ea1c8d7f0e7fe2e947442d865b44183]: Commencement: Sch. 2 para. 1 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
 
 [^f00113]: Footnote: [1999 c.28](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-1cbc035bfba0157f24f1abd9260b09d0]: Commencement: Sch. 2 para. 2 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
+[^c-1cbc035bfba0157f24f1abd9260b09d0]: Commencement: Sch. 2 para. 2 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
 
-[^key-47177221d39ce69f9fe9fcb368fcd0be]: Commencement: Sch. 2 para. 3 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
+[^c-47177221d39ce69f9fe9fcb368fcd0be]: Commencement: Sch. 2 para. 3 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
 
 [^f00114]: Footnote: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-89678f57205061329a3e327012730a4d]: Commencement: Sch. 2 para. 4 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
+[^c-89678f57205061329a3e327012730a4d]: Commencement: Sch. 2 para. 4 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
 
-[^key-f8672e390fe0d8e4742e041efbdda1c7]: Commencement: Sch. 2 para. 5 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)
+[^c-f8672e390fe0d8e4742e041efbdda1c7]: Commencement: Sch. 2 para. 5 in force at 2.5.2007, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/3)

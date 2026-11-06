@@ -27,7 +27,7 @@ summary: ''
 
 otherwise than in pursuance of a statutory right or in accordance with a permission granted under section 109.
 
-(2) A person committing an offence under this section is liable on summary conviction to a fine not exceeding level 5[^key-995e21a0d1a923fcd65e6df410fa1dbc] on the standard scale.
+(2) A person committing an offence under this section is liable on summary conviction to a fine not exceeding level 5[^c-995e21a0d1a923fcd65e6df410fa1dbc] on the standard scale.
 
 (3) This section does not apply to—
 
@@ -44,4 +44,4 @@ If he fails to comply with the direction, the authority may remove the apparatus
 
 ## Annotations
 
-[^key-995e21a0d1a923fcd65e6df410fa1dbc]: Textual amendment: Words in [s. 110(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/110/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-995e21a0d1a923fcd65e6df410fa1dbc]: Textual amendment: Words in [s. 110(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/110/2) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

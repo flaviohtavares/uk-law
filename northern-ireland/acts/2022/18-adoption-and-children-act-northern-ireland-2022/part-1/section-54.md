@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Revocation of adoptions on legitimation[^key-bac8b1357901f0c49f55af2ac10e4758]
+## 54. Revocation of adoptions on legitimation[^c-bac8b1357901f0c49f55af2ac10e4758]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bac8b1357901f0c49f55af2ac10e4758]: Commencement: S. 54 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-bac8b1357901f0c49f55af2ac10e4758]: Commencement: S. 54 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

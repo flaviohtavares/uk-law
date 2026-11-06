@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Offences by bodies corporate etc.[^key-be224ffe4813c1e7916a4c29aab2b0c0][^key-18460d286fde55826bdcfe4a272a47aa]
+## 82. Offences by bodies corporate etc.[^c-be224ffe4813c1e7916a4c29aab2b0c0][^c-18460d286fde55826bdcfe4a272a47aa]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ the person (as well as the body corporate or as the case may be the local author
 
 ## Annotations
 
-[^key-be224ffe4813c1e7916a4c29aab2b0c0]: Commencement: S. 82 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-be224ffe4813c1e7916a4c29aab2b0c0]: Commencement: S. 82 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-18460d286fde55826bdcfe4a272a47aa]: Commencement: S. 82 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-18460d286fde55826bdcfe4a272a47aa]: Commencement: S. 82 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

@@ -42,8 +42,8 @@ and the requirement in sub-paragraph (b) that a person give a certificate of fut
 
 (5) In Chapter IV (home repair assistance), Article 107(1)(c) (condition that applicant have owner's interest or tenancy) does not apply to an application by an individual in respect of the residence house of a religious denomination.
 
-(6) In this Article “charity” does not include a registered housing association but, subject to that, has the same meaning as in the Charities Act (Northern Ireland) 2008[^key-ac4cf0c200fd093afd61ff0123fb58d5] .
+(6) In this Article “charity” does not include a registered housing association but, subject to that, has the same meaning as in the Charities Act (Northern Ireland) 2008[^c-ac4cf0c200fd093afd61ff0123fb58d5] .
 
 ## Annotations
 
-[^key-ac4cf0c200fd093afd61ff0123fb58d5]: Textual amendment: Words in [art. 119(6)](https://www.legislation.gov.uk/nisi/2003/412/article/119/6) substituted (24.6.2013) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 8 para. 10](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/10); [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)
+[^c-ac4cf0c200fd093afd61ff0123fb58d5]: Textual amendment: Words in [art. 119(6)](https://www.legislation.gov.uk/nisi/2003/412/article/119/6) substituted (24.6.2013) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 8 para. 10](https://www.legislation.gov.uk/nia/2008/12/schedule/8/paragraph/10); [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule)

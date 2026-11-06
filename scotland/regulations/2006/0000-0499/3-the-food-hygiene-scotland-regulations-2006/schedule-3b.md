@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3B — REQUIREMENTS REFERRED TO IN REGULATION 17(6)[^key-e2b1caba94310b26b0be079689c88ad5]
+## SCHEDULE 3B — REQUIREMENTS REFERRED TO IN REGULATION 17(6)[^c-e2b1caba94310b26b0be079689c88ad5]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ The requirements are that—
 
 ## Annotations
 
-[^key-e2b1caba94310b26b0be079689c88ad5]: Textual amendment: Schs. 3A-3D inserted (13.4.2010) by [The Food Hygiene (Scotland) Amendment Regulations 2010 (S.S.I. 2010/69)](https://www.legislation.gov.uk/ssi/2010/69), [regs. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2010/69/regulation/2/5), [sch. 2](https://www.legislation.gov.uk/ssi/2010/69/schedule/2)
+[^c-e2b1caba94310b26b0be079689c88ad5]: Textual amendment: Schs. 3A-3D inserted (13.4.2010) by [The Food Hygiene (Scotland) Amendment Regulations 2010 (S.S.I. 2010/69)](https://www.legislation.gov.uk/ssi/2010/69), [regs. 1](https://www.legislation.gov.uk/ssi/2010/69/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2010/69/regulation/2/5), [sch. 2](https://www.legislation.gov.uk/ssi/2010/69/schedule/2)

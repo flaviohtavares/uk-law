@@ -23,20 +23,20 @@ summary: ''
 (1) This section defines these expressions (here listed alphabetically) for the purposes of this Chapter—
 
 - (a) aerodrome;
-- (aa)[^key-c801e09f150c98bef2f64dbc55a914cc] air transport service;
+- (aa)[^c-c801e09f150c98bef2f64dbc55a914cc] air transport service;
 - (ab) the CMA;
 - (ac) contravention;
 - (ad) contravention notice;
 - (ae) enforcement order;
-- (b)[^key-12549115f8f2c30a4c2f568317302854] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-12549115f8f2c30a4c2f568317302854] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) exemption;
 - (d) licence;
-- (da)[^key-fbb0f83286ea5b8657561abb672a3ba0] licence condition;
+- (da)[^c-fbb0f83286ea5b8657561abb672a3ba0] licence condition;
 - (e) licence holder;
 - (f) managed area;
 - (g) manager of an aerodrome;
 - (h) modification.
-- (i)[^key-1e7a03fdde6a44b40384c56c71a7d579] notice;
+- (i)[^c-1e7a03fdde6a44b40384c56c71a7d579] notice;
 - (j) publication;
 - (k) representation;
 - (l) term of licence;
@@ -53,13 +53,13 @@ summary: ''
 
 (5) A licence is a licence under this Chapter, and references to a licence holder must be construed accordingly.
 
-(6)[^key-480210ce1b6ece637af1b7ca48bda097] A licence condition is a provision of a licence which is expressed as a condition.
+(6)[^c-480210ce1b6ece637af1b7ca48bda097] A licence condition is a provision of a licence which is expressed as a condition.
 
 (6A) A term of a licence is a provision of a licence which is not a licence condition.
 
 (7) “**Modification**” includes addition, alteration and omission, and cognate expressions are to be construed accordingly.
 
-(8)[^key-ac6da72843d6326f7498e6f7145e17e9] “Air transport service” and “**user**”, in relation to such services, have the meaning given in section 69(1) of the Civil Aviation Act 2012 (air transport services).
+(8)[^c-ac6da72843d6326f7498e6f7145e17e9] “Air transport service” and “**user**”, in relation to such services, have the meaning given in section 69(1) of the Civil Aviation Act 2012 (air transport services).
 
 (9) “The CMA” is the Competition and Markets Authority.
 
@@ -81,16 +81,16 @@ summary: ''
 
 [^c14879161]: Commencement: S. 40 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-c801e09f150c98bef2f64dbc55a914cc]: Textual amendment: S. 40(1)(aa)-(ae) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/2); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-c801e09f150c98bef2f64dbc55a914cc]: Textual amendment: S. 40(1)(aa)-(ae) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/2); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
 
-[^key-12549115f8f2c30a4c2f568317302854]: Textual amendment: S. 40(1)(b) omitted (29.6.2021) by virtue of [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(3)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-12549115f8f2c30a4c2f568317302854]: Textual amendment: S. 40(1)(b) omitted (29.6.2021) by virtue of [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(3)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/3); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
 
-[^key-fbb0f83286ea5b8657561abb672a3ba0]: Textual amendment: S. 40(1)(da) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(4)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/4); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-fbb0f83286ea5b8657561abb672a3ba0]: Textual amendment: S. 40(1)(da) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(4)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/4); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
 
-[^key-1e7a03fdde6a44b40384c56c71a7d579]: Textual amendment: S. 40(1)(i)-(m) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(5)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/5); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-1e7a03fdde6a44b40384c56c71a7d579]: Textual amendment: S. 40(1)(i)-(m) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(5)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/5); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
 
 [^c14879171]: Marginal citation: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-480210ce1b6ece637af1b7ca48bda097]: Textual amendment: S. 40(6)(6A) substituted for s. 40(6) (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(6)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/6); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-480210ce1b6ece637af1b7ca48bda097]: Textual amendment: S. 40(6)(6A) substituted for s. 40(6) (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(6)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/6); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
 
-[^key-ac6da72843d6326f7498e6f7145e17e9]: Textual amendment: S. 40(8)-(16) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(7)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/7); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)
+[^c-ac6da72843d6326f7498e6f7145e17e9]: Textual amendment: S. 40(8)-(16) inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [s. 21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 7 para. 7(7)](https://www.legislation.gov.uk/ukpga/2021/12/schedule/7/paragraph/7/7); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/j)

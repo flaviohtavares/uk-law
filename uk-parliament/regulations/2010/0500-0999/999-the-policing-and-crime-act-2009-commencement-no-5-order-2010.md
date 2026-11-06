@@ -37,13 +37,13 @@ Made
 
 The Secretary of State makes the following Order in exercise of the power conferred by section 116(1) of the Policing and Crime Act 2009[^f00001].
 
-## 1. Citation and interpretation[^key-8e0ab96ac9295a09804fa606c2de4d4f]
+## 1. Citation and interpretation[^c-8e0ab96ac9295a09804fa606c2de4d4f]
 
 (1) This Order may be cited as the Policing and Crime Act 2009 (Commencement No. 5) Order 2010.
 
 (2) In this Order “the Act” means the Policing and Crime Act 2009.
 
-## 2. Provisions coming into force on 19th April 2010[^key-4162a10909df63d2433f5940f73e50fb]
+## 2. Provisions coming into force on 19th April 2010[^c-4162a10909df63d2433f5940f73e50fb]
 
 The day appointed for the coming into force of the following provisions of the Act is 19th April 2010:
 
@@ -52,13 +52,13 @@ The day appointed for the coming into force of the following provisions of the A
 - (c) section 112(2) (minor and consequential amendments and repeals and revocations) insofar as it relates to the provisions of Part 1 of Schedule 8 (repeals and revocations);
 - (d) Part 1 of Schedule 8.
 
-## 3. Provision coming into force on 8th May 2010[^key-027bd1161fc872bb5f1aa657151ca5da]
+## 3. Provision coming into force on 8th May 2010[^c-027bd1161fc872bb5f1aa657151ca5da]
 
 The day appointed for the coming into force of section 112(1) of the Act in so far as it relates to paragraph 23 of Schedule 7 (amendments to the Licensing Act 2003[^f00002]) to the Act and in relation to Wales only is 8th May 2010.
 
-## 4. Provision coming into force on 1st September 2010[^key-88dd8077ce683b270e2ad94a16230f86]
+## 4. Provision coming into force on 1st September 2010[^c-88dd8077ce683b270e2ad94a16230f86]
 
-The day appointed for the coming into force of section 2(2) of[^key-1a5c1a7f0822d1071e15bff0c8a2dc16] the Act (removal of chief inspector’s functions relating to approval of appointments, etc) is 1st September 2010.
+The day appointed for the coming into force of section 2(2) of[^c-1a5c1a7f0822d1071e15bff0c8a2dc16] the Act (removal of chief inspector’s functions relating to approval of appointments, etc) is 1st September 2010.
 
 David Hanson
 
@@ -178,14 +178,14 @@ The following provisions of the Policing and Crime Act 2009 have been or are to 
 
 [^f00001]: Footnote: [2009 c. 26](https://www.legislation.gov.uk/ukpga/2009/26).
 
-[^key-8e0ab96ac9295a09804fa606c2de4d4f]: Commencement: Art. 1 in force at made date
+[^c-8e0ab96ac9295a09804fa606c2de4d4f]: Commencement: Art. 1 in force at made date
 
-[^key-4162a10909df63d2433f5940f73e50fb]: Commencement: Art. 2 in force at made date
+[^c-4162a10909df63d2433f5940f73e50fb]: Commencement: Art. 2 in force at made date
 
-[^key-027bd1161fc872bb5f1aa657151ca5da]: Commencement: Art. 3 in force at made date
+[^c-027bd1161fc872bb5f1aa657151ca5da]: Commencement: Art. 3 in force at made date
 
 [^f00002]: Footnote: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17).
 
-[^key-88dd8077ce683b270e2ad94a16230f86]: Commencement: Art. 4 in force at made date
+[^c-88dd8077ce683b270e2ad94a16230f86]: Commencement: Art. 4 in force at made date
 
-[^key-1a5c1a7f0822d1071e15bff0c8a2dc16]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2010/999/article/4) substituted (2.8.2010) by [The Policing and Crime Act 2009 (Commencement No. 6 and Commencement No. 5 (Amendment)) Order 2010 (S.I. 2010/1986)](https://www.legislation.gov.uk/uksi/2010/1986), [art. 3](https://www.legislation.gov.uk/uksi/2010/1986/article/3)
+[^c-1a5c1a7f0822d1071e15bff0c8a2dc16]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2010/999/article/4) substituted (2.8.2010) by [The Policing and Crime Act 2009 (Commencement No. 6 and Commencement No. 5 (Amendment)) Order 2010 (S.I. 2010/1986)](https://www.legislation.gov.uk/uksi/2010/1986), [art. 3](https://www.legislation.gov.uk/uksi/2010/1986/article/3)

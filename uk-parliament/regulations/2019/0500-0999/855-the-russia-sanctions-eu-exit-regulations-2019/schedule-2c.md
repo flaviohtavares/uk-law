@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2C — Aviation and space goods and technology[^key-6702b2f6bd7f61631049dbca0e6090e3]
+## SCHEDULE 2C — Aviation and space goods and technology[^c-6702b2f6bd7f61631049dbca0e6090e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ as applicable.
 
 ## Annotations
 
-[^key-6702b2f6bd7f61631049dbca0e6090e3]: Textual amendment: [Sch. 2C](https://www.legislation.gov.uk/uksi/2019/855/schedule/2C) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/241/schedule)
+[^c-6702b2f6bd7f61631049dbca0e6090e3]: Textual amendment: [Sch. 2C](https://www.legislation.gov.uk/uksi/2019/855/schedule/2C) inserted (8.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 6) Regulations 2022 (S.I. 2022/241)](https://www.legislation.gov.uk/uksi/2022/241), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/241/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/241/schedule)

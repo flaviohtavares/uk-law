@@ -48,11 +48,11 @@ A draft of this instrument has been approved by a resolution of each House of Pa
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-ef848797444270426274aeb90f7b455f]
+### 1. Citation and commencement[^c-ef848797444270426274aeb90f7b455f]
 
 This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) Order 2008 and comes into force on the day after the day on which this Order is made.
 
-### 2. Interpretation[^key-4987f947eeb222be94353a1ca264ea43]
+### 2. Interpretation[^c-4987f947eeb222be94353a1ca264ea43]
 
 (1) In this Order—
 
@@ -63,11 +63,11 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
   - (a) electrical energy;
   - (b) mechanical energy; or
   - (c) both electrical and mechanical energy[^f00006];
-- [^key-d6b5a4c6b8e3ac1329c0eebe27ffe275]...
+- [^c-d6b5a4c6b8e3ac1329c0eebe27ffe275]...
 - “domestic customer” means an owner or occupier of domestic premises in Great Britain who is supplied with electricity or gas at those premises wholly or mainly for domestic purposes;
 - “domestic energy user” means a person who uses energy in domestic premises in Great Britain wholly or mainly for domestic purposes;
 - “energy” means energy from coal, electricity, gas, geothermal sources, liquid petroleum gas, oil, solar power, water, wind or wood;
-- “energy assessor” means a person with any of the following qualifications—[^key-f859b6869fe169eb84b15ff870203152]
+- “energy assessor” means a person with any of the following qualifications—[^c-f859b6869fe169eb84b15ff870203152]
   - (a) City and Guilds (6176) in Energy Awareness;
   - (b) Level 3 of the National Vocational Qualification 6049-03 (Provide Energy Efficiency Services);
   - (c) a qualification based on units one to five of the National Occupational Standards (NOS) for Home and Community Energy Advisers which qualification is awarded by a body which has been approved and quality assured by the Office of the Qualifications and Examinations Regulator; or
@@ -78,14 +78,14 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 - “holding company” has the same meaning as in section 736 of the Companies Act 1985[^f00007];
 - “home energy advice package” has the meaning given in Schedule A1;
 - “householder” has the meaning given by Schedule 1;
-- “insulation obligation” means the amount of a supplier’s carbon emissions reduction obligation which is to be achieved by the promotion of measures in accordance with article 9(1A);[^key-ae072e8f012f7d7e0eea4a950802c088]
+- “insulation obligation” means the amount of a supplier’s carbon emissions reduction obligation which is to be achieved by the promotion of measures in accordance with article 9(1A);[^c-ae072e8f012f7d7e0eea4a950802c088]
 - “lifetime tonnes of carbon dioxide” means the amount of carbon dioxide that is expected to be saved over the lifetime of the measures to be promoted under this Order;
 - “loft insulation plus” means—
   - (a) the provision to a domestic energy user of loft insulation which adds to existing loft insulation which is at least 60mm in depth and where that additional insulation is installed by a person with appropriate experience or qualifications; or
   - (b) the promotion of loft insulation through a retail outlet,
 
   where the provision or promotion, as applicable, takes place between 11th September 2008 and 31st July 2009;
-- [^key-d6b5a4c6b8e3ac1329c0eebe27ffe275]...
+- [^c-d6b5a4c6b8e3ac1329c0eebe27ffe275]...
 - “micro-cogeneration unit” means a cogeneration unit with a maximum capacity below 50 kW<sub>e</sub>;
 - “new supplier” has the meaning given by article 4(5);
 - “notification” means notification in writing and includes notification by electronic mail or facsimile;
@@ -95,7 +95,7 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 - “overall super priority group target” has the meaning given by article 3(1)(b);
 - “priority group” means the group of domestic energy users where each member—
   - (a) is in receipt of at least one of the benefits described in paragraph 2 of Schedule 2;
-  - (b) is in receipt of at least one of the credits described in paragraph 3 of Schedule 2 and has a relevant income of £16,190[^key-847631cc77603a8270680c99f731a62a] or less (where “relevant income” has the same meaning as in Part 1 of the Tax Credits Act 2002[^f00009]); or
+  - (b) is in receipt of at least one of the credits described in paragraph 3 of Schedule 2 and has a relevant income of £16,190[^c-847631cc77603a8270680c99f731a62a] or less (where “relevant income” has the same meaning as in Part 1 of the Tax Credits Act 2002[^f00009]); or
   - (c) is at least 70 years old;
 - “professionally installed” means installed by a person, other than the householder, who has appropriate experience or qualifications;
 - “qualifying component” means—
@@ -142,7 +142,7 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 (3) In this Order—
 
 - (a) a demonstration action is an action which is reasonably expected to achieve a reduction in carbon emissions;
-- (b)[^key-5791c8ef7d9e2a96ce6d151ef285b6a3] a market transformation action means—
+- (b)[^c-5791c8ef7d9e2a96ce6d151ef285b6a3] a market transformation action means—
   - (i) between 1st April 2008 and 31st March 2011 the provision of microgeneration units where such provision will achieve a reduction in carbon emissions;
   - (ii) the provision of solid wall insulation where such provision will achieve a reduction in carbon emissions;
   - (iii) the provision of a real-time display;
@@ -152,7 +152,7 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 - (c) a priority group flexibility action means the provision to a householder within paragraph (a) or (b) of the priority group—
   - (i) between 1st April 2008 and 31st March 2011 of ground source heat pumps in respect of a property which does not have a mains gas supply; or
   - (ii) of solid wall insulation which lowers the U-value of the walls to 0.5 W/m<sup>2</sup>K or less;
-- (d)[^key-e3b79cc8809ab63cbea055d5c3a3d2ca] a standard action means an action which—
+- (d)[^c-e3b79cc8809ab63cbea055d5c3a3d2ca] a standard action means an action which—
   - (i) will achieve a reduction in carbon emissions; or
   - (ii) is the provision of a real-time display or a home energy advice package.
 
@@ -160,7 +160,7 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 
 ## PART 2 — Overall carbon emissions reduction target and carbon emissions reduction obligations
 
-### 3. Overall carbon emissions reduction target[^key-ee3901a7085e862b5dc35716335bdba2]
+### 3. Overall carbon emissions reduction target[^c-ee3901a7085e862b5dc35716335bdba2]
 
 (1) The overall carbon emissions reduction target for the period 1st April 2008 to 31st December 2012 is 293 million lifetime tonnes of carbon dioxide of which—
 
@@ -173,36 +173,36 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 - (b) insulation obligations imposed on suppliers equals the overall insulation target;
 - (c) super priority group obligations imposed on suppliers equals the overall super priority group target.
 
-### 4. Definition of supplier[^key-40c6698a488bb031daa278d2c341688f]
+### 4. Definition of supplier[^c-40c6698a488bb031daa278d2c341688f]
 
 (1) A person is a supplier if that person holds a supply licence—
 
 - (a) under section 6(1)(d) of the Electricity Act 1989 and that person satisfies paragraph (2) or (3) in respect of the supply of electricity; or
 - (b) under section 7A of the Gas Act 1986 and that person satisfies paragraph (2) or (3) in respect of the supply of gas.
 
-(2)[^key-359a141545d4ce027819861b44602cbc] A person must supply—
+(2)[^c-359a141545d4ce027819861b44602cbc] A person must supply—
 
 - (a) at least 50,000 domestic customers on 31st December of the year 2007, 2008, 2009 or 2010; or
 - (b) at least 250,000 domestic customers on 31st December 2011.
 
-(3)[^key-e093722e78c48b4390cb3e54a4170198] A company that belongs to a group of companies must supply domestic customers and—
+(3)[^c-e093722e78c48b4390cb3e54a4170198] A company that belongs to a group of companies must supply domestic customers and—
 
 - (a) on 31st December of the year 2007, 2008, 2009 or 2010 the number of domestic customers of that company and of other companies in the group must be at least 50,000; or
 - (b) on 31st December 2011 the number of domestic customers of that company and of other companies in the group must be at least 250,000.
 
 (4) Where a person satisfies paragraph (1) in respect of electricity and of gas that person is a separate supplier in respect of each supply.
 
-(5)[^key-aa3da3326e1fb7ea3d29e73fe6abf0e5] A new supplier is a supplier to whom paragraph (1) applies for the first time on 31st December 2008, 31st December 2009, 31st December 2010 or 31st December 2011.
+(5)[^c-aa3da3326e1fb7ea3d29e73fe6abf0e5] A new supplier is a supplier to whom paragraph (1) applies for the first time on 31st December 2008, 31st December 2009, 31st December 2010 or 31st December 2011.
 
-### 5. Notification by suppliers[^key-e719493816e3ea71020c63ad92142711]
+### 5. Notification by suppliers[^c-e719493816e3ea71020c63ad92142711]
 
-(1)[^key-d18c5ed98c6512e9bcaf87fffc98269c] A supplier must notify the Authority by 14th February in each year in which any part of the obligation period falls of the number of that supplier’s domestic customers on the previous 31st December.
+(1)[^c-d18c5ed98c6512e9bcaf87fffc98269c] A supplier must notify the Authority by 14th February in each year in which any part of the obligation period falls of the number of that supplier’s domestic customers on the previous 31st December.
 
 (2) Where a supplier fails to do so, the Authority may determine that number.
 
 (3) A number determined under paragraph (2) is to be treated as if it were notified by the supplier.
 
-### 6. Determining carbon emissions reduction obligations and insulation obligations[^key-871857606201c8f89252045aca2899c8]
+### 6. Determining carbon emissions reduction obligations and insulation obligations[^c-871857606201c8f89252045aca2899c8]
 
 (1) The Authority must determine a supplier’s—
 
@@ -230,9 +230,9 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 - (b) insulation obligation by 1st November 2010 or, in respect of a new supplier to whom article 4(1) applies for the first time on or after 31st December 2010, by 28th February 2011 or 28th February 2012 as applicable; and
 - (c) super priority group obligation by 1st November 2010 or, in respect of a new supplier to whom article 4(1) applies for the first time on or after 31st December 2010, by 28th February 2011 or 28th February 2012 as applicable.
 
-### 7. Matters to be considered by the Authority[^key-78f119a237227a5b060b48f582c1112e]
+### 7. Matters to be considered by the Authority[^c-78f119a237227a5b060b48f582c1112e]
 
-(1)[^key-1fcb951155b3d2227bf65db48be65878] The matters referred to in article 6(2) are—
+(1)[^c-1fcb951155b3d2227bf65db48be65878] The matters referred to in article 6(2) are—
 
 - (a) total customer numbers;
 - (b) supplier customer numbers;
@@ -247,7 +247,7 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 
 (3) For a new supplier—
 
-- (a)[^key-2c7da75766c5bc0bd643f6ee654f4435] total customer numbers are the mean of the total number of domestic customers supplied by suppliers on—
+- (a)[^c-2c7da75766c5bc0bd643f6ee654f4435] total customer numbers are the mean of the total number of domestic customers supplied by suppliers on—
   - (i) 31st December 2007;
   - (ii) 31st December 2008;
   - (iii) 31st December 2009;
@@ -257,9 +257,9 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
   - (i) the number of domestic customers supplied by the supplier on 31st December prior to the commencement of the obligation period; and
   - (ii) zero for each 31st December prior to that date until and including 31st December 2007.
 
-### 8. Review of obligations by the Authority[^key-dfd325e889473b74bec9051b24a10e0f]
+### 8. Review of obligations by the Authority[^c-dfd325e889473b74bec9051b24a10e0f]
 
-(1)[^key-7558f4f308a24bba88f491a814c7462a] When the Authority has all suppliers’ customers numbers, notified or determined under article 5, the Authority must—
+(1)[^c-7558f4f308a24bba88f491a814c7462a] When the Authority has all suppliers’ customers numbers, notified or determined under article 5, the Authority must—
 
 - (a) review a supplier’s—
   - (i) carbon emissions reduction obligation;
@@ -282,7 +282,7 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 - (a) 31st December prior to the commencement of the obligation period; and
 - (b) each 31st December subsequent to the commencement of the obligation period.
 
-(4)[^key-fb87e80d62ef247fad542e69347c731f] For a new supplier, supplier customer numbers are the mean of—
+(4)[^c-fb87e80d62ef247fad542e69347c731f] For a new supplier, supplier customer numbers are the mean of—
 
 - (a) the number of domestic customers supplied by that supplier on the date on which article 4(1) applies to that supplier for the first time;
 - (b) zero for each of—
@@ -290,7 +290,7 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
   - (ii) any subsequent 31st December which occurs before the date on which article 4(1) applies to the supplier for the first time; and
 - (c) the number in each case of domestic customers supplied by that supplier on each 31st December occurring during the obligation period but before the notification date.
 
-(5)[^key-8debf0479d73d3da03a1b16a86100a63] The number of domestic customers under paragraph (3)(b) on each 31st December subsequent to the commencement of the obligation period, or under paragraph (4)(c), is deemed to be zero where—
+(5)[^c-8debf0479d73d3da03a1b16a86100a63] The number of domestic customers under paragraph (3)(b) on each 31st December subsequent to the commencement of the obligation period, or under paragraph (4)(c), is deemed to be zero where—
 
 - (a) in respect of any 31st December other than 31st December 2011—
   - (i) a supplier belongs to a group of companies and that group has fewer than 50,000 domestic customers on that date; or
@@ -301,11 +301,11 @@ This Order may be cited as the Electricity and Gas (Carbon Emissions Reduction) 
 
 ## PART 3 — Qualifying actions, notifications and approvals
 
-### 9. Achievement of carbon emissions reduction obligations[^key-2ccb754ad25a1af785b8226e3e5a6a4d]
+### 9. Achievement of carbon emissions reduction obligations[^c-2ccb754ad25a1af785b8226e3e5a6a4d]
 
 (1)  A supplier must achieve its carbon emissions reduction obligation by promoting qualifying actions to domestic energy users.
 
-(1A)[^key-aef01a949701cf0bf2894fe94bf80c03] A supplier must achieve its insulation obligation by promoting on or after 1st August 2010—
+(1A)[^c-aef01a949701cf0bf2894fe94bf80c03] A supplier must achieve its insulation obligation by promoting on or after 1st August 2010—
 
 - (a) cavity wall insulation;
 - (b) flat roof insulation;
@@ -344,9 +344,9 @@ which is professionally installed.
   - (i) article 19(4)(b); or
   - (ii) article 19(4A)(a), (b) or (c).
 
-(6)[^key-d4dd490999931869972b083a8c53fc12] A qualifying action approved by the Authority for the purposes of the Electricity and Gas (Community Energy Saving Programme) Order 2009 is not by that approval a qualifying action under this Order.
+(6)[^c-d4dd490999931869972b083a8c53fc12] A qualifying action approved by the Authority for the purposes of the Electricity and Gas (Community Energy Saving Programme) Order 2009 is not by that approval a qualifying action under this Order.
 
-### 10. Purposes for which a qualifying action must be promoted[^key-52baac2cdc2eeabcac1354d34f1c586c]
+### 10. Purposes for which a qualifying action must be promoted[^c-52baac2cdc2eeabcac1354d34f1c586c]
 
 (1) An action is a qualifying action only if it is promoted for the purpose of—
 
@@ -357,7 +357,7 @@ which is professionally installed.
 
 (2) In this article, “plant” includes any equipment, apparatus or appliance.
 
-### 11. Notifications[^key-b4b6478db7084f552dfd4f791dd468ce]
+### 11. Notifications[^c-b4b6478db7084f552dfd4f791dd468ce]
 
 (1) An action which a supplier intends to be a qualifying action must be notified to the Authority within one month of the action being commenced.
 
@@ -380,11 +380,11 @@ which is professionally installed.
   and
 - (b) whether or not it consents to the publication of information provided to the Authority in relation to the monitoring and assessment of the action.
 
-(3A)[^key-2f3995db55f7270c495c149308bb1afa] A notification in respect of a measure listed in article 9(1A) must contain sufficient information to show whether the supplier intends the action to be promoted in the priority group or super priority group.
+(3A)[^c-2f3995db55f7270c495c149308bb1afa] A notification in respect of a measure listed in article 9(1A) must contain sufficient information to show whether the supplier intends the action to be promoted in the priority group or super priority group.
 
-### 12. Approval of actions by the Authority[^key-0b332313bb9f1f7c459eb082097a455e]
+### 12. Approval of actions by the Authority[^c-0b332313bb9f1f7c459eb082097a455e]
 
-(1)[^key-3eeee4c3f95aa37e089e196385e2f677] The Authority must determine whether or not it approves an action as a qualifying action and whether that approval is in respect of a supplier’s—
+(1)[^c-3eeee4c3f95aa37e089e196385e2f677] The Authority must determine whether or not it approves an action as a qualifying action and whether that approval is in respect of a supplier’s—
 
 - (a) insulation obligation;
 - (b) priority group obligation; or
@@ -397,28 +397,28 @@ which is professionally installed.
 - (a) there exists a similar action to the type of action intended to be promoted; and
 - (b) the action to be promoted does not achieve a significantly greater reduction in carbon emissions than that similar action.
 
-(4) Paragraph (3) does not apply to the promotion of solid wall insulation or microgeneration[^key-0c702f62d361b700fc0d255f86f79747] units.
+(4) Paragraph (3) does not apply to the promotion of solid wall insulation or microgeneration[^c-0c702f62d361b700fc0d255f86f79747] units.
 
 (5) For the purposes of paragraph (3) the Authority must compare the carbon emissions reduced by the particular action with the benchmark action.
 
-(6)[^key-093b6e9f96eeb0bcda289989b7c49757] The benchmark action means an action under the 2001 Order or the 2004 Order, as applicable, which achieved the greatest carbon emission reductions for an action of that type.
+(6)[^c-093b6e9f96eeb0bcda289989b7c49757] The benchmark action means an action under the 2001 Order or the 2004 Order, as applicable, which achieved the greatest carbon emission reductions for an action of that type.
 
 (7) The Authority must not approve an action as a demonstration action unless—
 
 - (a) it is satisfied that the information provided under article 11(3)(a) is reasonable; and
 - (b) the supplier consents to the to the publication of information in relation to the monitoring and assessment of the action.
 
-(7A)[^key-4846a29be355b3316e593c4d384e8e10] The Authority must not approve as a standard action or a market transformation action the provision of a real-time display or a home energy advice package unless it is satisfied in respect of the matters in paragraph (7B).
+(7A)[^c-4846a29be355b3316e593c4d384e8e10] The Authority must not approve as a standard action or a market transformation action the provision of a real-time display or a home energy advice package unless it is satisfied in respect of the matters in paragraph (7B).
 
 (7B) The matters referred to in paragraph (7A) are—
 
-- (a) the promotion of a real-time display or a home energy advice package makes clear that a display or package will only be provided to a domestic energy user who requests , in writing,[^key-3c58dfd9c9c40d3425c8bb599672315a] such a display or package;
-- (b) a supplier agrees to provide a real-time display or a home energy advice package to a domestic energy user who has requested , in writing,[^key-e7d3259613a331b763b96a85c9dc51e8] such a display or package; and
+- (a) the promotion of a real-time display or a home energy advice package makes clear that a display or package will only be provided to a domestic energy user who requests , in writing,[^c-3c58dfd9c9c40d3425c8bb599672315a] such a display or package;
+- (b) a supplier agrees to provide a real-time display or a home energy advice package to a domestic energy user who has requested , in writing,[^c-e7d3259613a331b763b96a85c9dc51e8] such a display or package; and
 - (c) in respect of the provision of a real-time display or a home energy advice package the promotion takes place after 11th September 2008.
 
-(7C)[^key-bac7050c175b40e44610d4ac87025cfb] The Authority must not on or after 1st April 2011 approve as a qualifying action the provision of compact fluorescent lamps or halogen lamps.
+(7C)[^c-bac7050c175b40e44610d4ac87025cfb] The Authority must not on or after 1st April 2011 approve as a qualifying action the provision of compact fluorescent lamps or halogen lamps.
 
-(7D)[^key-6575a2c7eeadc9ede740a3a4c151443b]  The Authority must not on or after 1st August 2010 approve as a qualifying action the provision of a measure which will not be professionally installed unless that measure has been requested, in writing, by a domestic energy user.
+(7D)[^c-6575a2c7eeadc9ede740a3a4c151443b]  The Authority must not on or after 1st August 2010 approve as a qualifying action the provision of a measure which will not be professionally installed unless that measure has been requested, in writing, by a domestic energy user.
 
 (7E) The Authority must not on or after 1st April 2011 approve as a qualifying action the provision of—
 
@@ -437,13 +437,13 @@ unless it is satisfied that the measure will be promoted to a member of the supe
 
 ## PART 4 — Priority group obligations
 
-### 13. Priority group obligations[^key-dd398c317d081612a88e2e8cb583dfb8]
+### 13. Priority group obligations[^c-dd398c317d081612a88e2e8cb583dfb8]
 
 (1) A supplier must achieve the priority group obligation.
 
 (2) The priority group obligation means that at least 40% of the carbon emissions reduction obligation is achieved by action carried out in the priority group.
 
-### 13A. Super priority group obligation[^key-04e30a8539ef1896ede9c4c958804fe6]
+### 13A. Super priority group obligation[^c-04e30a8539ef1896ede9c4c958804fe6]
 
 (1) A supplier must achieve the super priority group obligation by promoting on or after 1st August 2010 measures to members of the super priority group in accordance with the following provisions of this article.
 
@@ -472,7 +472,7 @@ which is professionally installed.
 - (a) “fuel switching” means changing the primary heating fuel used by a domestic energy user from coal, electricity or oil to a mains gas supply;
 - (b) “replacement boiler” means a boiler which replaces a G-rated boiler and which meets the requirements of Part L of Schedule 1 to the Building Regulations 2000; and where “G-rated boiler” means a boiler which has a seasonal efficiency value of less than 70% when that boiler is assessed against the Standard Assessment Procedure for Energy rating of Dwellings (2005 Edition).
 
-### 14. Priority group flexibility action[^key-a9536a9593eb6868aaae3e14cbdc7c40]
+### 14. Priority group flexibility action[^c-a9536a9593eb6868aaae3e14cbdc7c40]
 
 (1) No more than 12.5% of the priority group obligation may be achieved by promoting priority group flexibility action.
 
@@ -480,13 +480,13 @@ which is professionally installed.
 
 ## PART 5 — Estimates, reporting and monitoring
 
-### 15. Estimated reduction in carbon emissions[^key-fefe4275b864b880ea98610cbf80393c]
+### 15. Estimated reduction in carbon emissions[^c-fefe4275b864b880ea98610cbf80393c]
 
 (1) The Authority must estimate the reduction in carbon emissions for an action which it approves as a qualifying action.
 
-(2) To estimate the reduction for a standard action, except a standard action listed in paragraph (2A),[^key-426842495f8db75df4029ebb2b2ab614] the Authority must apply to that action the appropriate carbon co-efficient values set out in Schedule 3.
+(2) To estimate the reduction for a standard action, except a standard action listed in paragraph (2A),[^c-426842495f8db75df4029ebb2b2ab614] the Authority must apply to that action the appropriate carbon co-efficient values set out in Schedule 3.
 
-(2A)[^key-bc77e111e1f412f3b65293632793d8be] To estimate the reduction for a standard action which is—
+(2A)[^c-bc77e111e1f412f3b65293632793d8be] To estimate the reduction for a standard action which is—
 
 - (a) loft insulation plus, the Authority must—
   - (i) apply to that action the appropriate carbon co-efficient values set out in Schedule 3; and
@@ -494,12 +494,12 @@ which is professionally installed.
 - (b) a real-time display, the Authority must do so in accordance with article 19(4A)(a) or (b), as applicable, as if the reduction in carbon emissions expected to be achieved by such action is achieved but must not increase the reduction by 50%;
 - (c) a home energy advice package, the Authority must do so in accordance with article 19(4A)(c) as if the reduction in carbon emissions expected to be achieved by such action is achieved but must not increase the reduction by 50%.
 
-(3) To estimate the reduction for a market transformation action, except a market transformation action which is the provision of a real-time display or a home energy advice package,[^key-9fb56d6f5a2d9696ceff3d7cc7e7593c] the Authority must—
+(3) To estimate the reduction for a market transformation action, except a market transformation action which is the provision of a real-time display or a home energy advice package,[^c-9fb56d6f5a2d9696ceff3d7cc7e7593c] the Authority must—
 
 - (a) apply to that action the appropriate carbon co-efficient values set out in Schedule 3; and
 - (b) increase the reduction in carbon emissions expected to be achieved by that action by 50%.
 
-(3A)[^key-ef00b23d76b805da7ad15b9386fb6cfe] To estimate the reduction for a market transformation action which is the provision of—
+(3A)[^c-ef00b23d76b805da7ad15b9386fb6cfe] To estimate the reduction for a market transformation action which is the provision of—
 
 - (a) a real-time display, the Authority must do so in accordance with article 19(4A)(a) or (b), as applicable, as if the reduction in carbon emissions expected to be achieved by such action is achieved;
 - (b) a home energy advice package, the Authority must do so in accordance with article 19(4A)(c) as if the reduction in carbon emissions expected to be achieved by such action is achieved.
@@ -510,19 +510,19 @@ which is professionally installed.
 
 (6) The Authority must notify a supplier of the estimates it makes under this article.
 
-### 16. Reporting and monitoring[^key-327106e2635bdc757b86bd0c0b52e615]
+### 16. Reporting and monitoring[^c-327106e2635bdc757b86bd0c0b52e615]
 
 (1) A supplier must provide to the Authority—
 
 - (a) information relating to—
-  - (i) its proposals for complying with any aspect of its carbon emissions reduction obligation, insulation obligation, priority group obligation and super priority group obligation;[^key-85869019d17cc82c08b39f7da07b9998] and
-  - (ii)[^key-e152c390cf20306abfefa10967425940] whether the supplier has complied with those obligations, including such information which the Authority has informed the supplier it requires for the purposes of verifying that no qualifying action under the Electricity and Gas (Community Energy Saving Programme) Order 2009 is counted for the purposes of compliance under this Order;
+  - (i) its proposals for complying with any aspect of its carbon emissions reduction obligation, insulation obligation, priority group obligation and super priority group obligation;[^c-85869019d17cc82c08b39f7da07b9998] and
+  - (ii)[^c-e152c390cf20306abfefa10967425940] whether the supplier has complied with those obligations, including such information which the Authority has informed the supplier it requires for the purposes of verifying that no qualifying action under the Electricity and Gas (Community Energy Saving Programme) Order 2009 is counted for the purposes of compliance under this Order;
 - (b) in relation to a demonstration action—
   - (i) the information obtained by the supplier on whether the action is reducing carbon emissions; and
   - (ii) the supplier’s assessment of the effectiveness of the action at promoting a reduction in carbon emissions;
 
   and
-- (c)[^key-1024e6caca8824a25880f49bc9e8516b] from 1st August 2010, in relation to the provision of solid wall insulation, approved as a standard action, market transformation action or a priority group flexibility action, information relating to the main fuel source used to heat the premises where the solid wall insulation is installed.
+- (c)[^c-1024e6caca8824a25880f49bc9e8516b] from 1st August 2010, in relation to the provision of solid wall insulation, approved as a standard action, market transformation action or a priority group flexibility action, information relating to the main fuel source used to heat the premises where the solid wall insulation is installed.
 
 (2) The information must be provided by a supplier in such form and at such time as the Authority may reasonably request.
 
@@ -537,7 +537,7 @@ which is professionally installed.
   and
 - (b) towards achieving the overall carbon emissions reduction target.
 
-(5)[^key-4e9ff02a9c7f2df4552ce0e3de7a669a] By 31st July 2011, 31st July 2012 and 30th April 2013 the Authority must submit to the Secretary of State a report setting out in respect of the year ending on the preceding 31st March the progress made—
+(5)[^c-4e9ff02a9c7f2df4552ce0e3de7a669a] By 31st July 2011, 31st July 2012 and 30th April 2013 the Authority must submit to the Secretary of State a report setting out in respect of the year ending on the preceding 31st March the progress made—
 
 - (a) by each supplier towards complying with the supplier’s—
   - (i) carbon emissions reduction obligation;
@@ -550,7 +550,7 @@ which is professionally installed.
 
 ## PART 6 — Excess actions, transfers, determination and reporting
 
-### 17. Credit of excess actions[^key-8c5a9138098f3cba7418cbcc6718b805]
+### 17. Credit of excess actions[^c-8c5a9138098f3cba7418cbcc6718b805]
 
 (1) Not later than 16th May 2008, a supplier may apply to the Authority to credit towards its carbon emissions reduction obligation the reduction in carbon emissions achieved by excess action.
 
@@ -566,7 +566,7 @@ which is professionally installed.
 - (a) has met its energy efficiency obligation under the 2004 Order; and
 - (b) has excess action.
 
-### 18. Transfers[^key-51ddced10ec62a2ee4074c548d5c6ae8]
+### 18. Transfers[^c-51ddced10ec62a2ee4074c548d5c6ae8]
 
 (1) The carbon emissions reduction obligation of one supplier (“supplier A”) may be treated as achieved in whole or part by qualifying action completed by another supplier (“supplier B”) (“a supplier transfer”).
 
@@ -574,16 +574,16 @@ which is professionally installed.
 
 (3) Suppliers A and B must—
 
-- (a) apply for approval in writing to the Authority by 31st December 2012[^key-298a5bcd9b0afc5133a8ef8ee0a80241]; and
+- (a) apply for approval in writing to the Authority by 31st December 2012[^c-298a5bcd9b0afc5133a8ef8ee0a80241]; and
 - (b) provide to the Authority such information, including the number and type of qualifying actions in question, as the Authority may require.
 
 (4) The Authority must not approve a supplier transfer where it has reasonable grounds to believe that, if the transfer were approved, the carbon emissions reduction obligation placed on supplier B will not be achieved.
 
 (5) The completed qualifying action under a supplier transfer does not count towards the carbon emissions reduction obligation of supplier B.
 
-### 19. Notification of actions and determination of reductions in carbon emissions[^key-3dbf7c917aecd3d7047674cae7d5554b]
+### 19. Notification of actions and determination of reductions in carbon emissions[^c-3dbf7c917aecd3d7047674cae7d5554b]
 
-(1)[^key-b6ef0e6416ffe3b1c381a02e3a6e7c26] A supplier must notify the Authority not later than 31st January 2013 of the number and type of qualifying actions which it has completed in respect of the following—
+(1)[^c-b6ef0e6416ffe3b1c381a02e3a6e7c26] A supplier must notify the Authority not later than 31st January 2013 of the number and type of qualifying actions which it has completed in respect of the following—
 
 - (a) the carbon emissions reduction obligation;
 - (b) the insulation obligation;
@@ -595,9 +595,9 @@ which is professionally installed.
 - (a) verify that the qualifying actions notified under paragraph (1) have not been approved as qualifying actions under the Electricity and Gas (Community Energy Saving Programme) Order 2009; and
 - (b) determine the carbon emissions to be attributed to those actions which the Authority is satisfied should count for the purposes of this Order.
 
-(3) To determine the reduction for a standard action, except a standard action listed in paragraph (3A),[^key-739172613a71f90bfeeec4d4205e67b5] the Authority must apply to that action the appropriate carbon co-efficient values set out in Schedule 3.
+(3) To determine the reduction for a standard action, except a standard action listed in paragraph (3A),[^c-739172613a71f90bfeeec4d4205e67b5] the Authority must apply to that action the appropriate carbon co-efficient values set out in Schedule 3.
 
-(3A)[^key-8860cc3eea9301091f72f09aa07caba7] To determine the reduction for a standard action which is—
+(3A)[^c-8860cc3eea9301091f72f09aa07caba7] To determine the reduction for a standard action which is—
 
 - (a) loft insulation plus, the Authority must—
   - (i) apply to that action the appropriate carbon co-efficient values set out in Schedule 3; and
@@ -608,15 +608,15 @@ which is professionally installed.
 - (b) a real-time display, the Authority must do so in accordance with paragraph (4A)(a) or (b), as applicable, but must not increase the reduction by 50%;
 - (c) a home energy advice package, the Authority must do so in accordance with paragraph (4A)(c) but must not increase the reduction by 50%.
 
-(4) To determine the reduction for a market transformation action, except a market transformation action which is described in paragraph (4A),[^key-01a78c1f406910e537fd211bcb15c941] the Authority must—
+(4) To determine the reduction for a market transformation action, except a market transformation action which is described in paragraph (4A),[^c-01a78c1f406910e537fd211bcb15c941] the Authority must—
 
 - (a) apply to that action the appropriate carbon co-efficient values set out in Schedule 3; and
 - (b) increase the reduction in carbon emissions achieved by that action by 50%.
 
-(4A)[^key-e44be7e39dfc6e5eab971fcfca7a99eb] To determine the reduction for a market transformation action which is the provision of—
+(4A)[^c-e44be7e39dfc6e5eab971fcfca7a99eb] To determine the reduction for a market transformation action which is the provision of—
 
 - (a) a real-time display which does not use a short-life battery, the Authority must attribute a carbon emissions reduction of 0.996 lifetime tonnes of carbon dioxide and increase the carbon emissions reduction by 50%;
-- (b)[^key-11c608c6b5e8e1cdddbf7c01b66d04fb] a real-time display which uses a short-life battery, the Authority must—
+- (b)[^c-11c608c6b5e8e1cdddbf7c01b66d04fb] a real-time display which uses a short-life battery, the Authority must—
   - (i) subject to paragraph (ii), attribute a carbon emissions reduction of 0.498 lifetime tonnes of carbon dioxide and increase the carbon emissions reduction by 50%; or
   - (ii) where the real-time display was provided between 11th September 2008 and 21st July 2009, attribute a carbon emissions reduction of 0.747 lifetime tonnes of carbon dioxide and increase the carbon emissions reduction by 50%;
 - (c) a home energy advice package, the Authority must attribute a carbon emissions reduction of 0.675 lifetime tonnes of carbon dioxide and increase the carbon emissions reduction by 50%.
@@ -625,7 +625,7 @@ which is professionally installed.
 
 (6) To determine the reduction for a demonstration action, the Authority must do so in accordance with article 21.
 
-### 20. Carbon emissions reduction for priority group flexibility action[^key-46e35664a3e2c2a6ce936683f38413f8]
+### 20. Carbon emissions reduction for priority group flexibility action[^c-46e35664a3e2c2a6ce936683f38413f8]
 
 (1) To determine the carbon emissions reduction to be attributed to a priority group flexibility action, the Authority must—
 
@@ -638,7 +638,7 @@ which is professionally installed.
 - (b) the installation of internal solid wall insulation, 95%;
 - (c) the installation of external solid wall insulation, 175%.
 
-### 21. Carbon emissions reduction for demonstration action[^key-fff66a9dc27aa9a51548d0eb387de1f3]
+### 21. Carbon emissions reduction for demonstration action[^c-fff66a9dc27aa9a51548d0eb387de1f3]
 
 (1) The carbon emissions reduction to be attributed to a demonstration action is provided by the formula—
 
@@ -646,7 +646,7 @@ which is professionally installed.
 
 where x is the estimated cost of promoting and monitoring the action, which cost the Authority was satisfied was reasonable under article 12.
 
-### 22. Final determination and reporting[^key-a1ce227e2e37e3e5efbca569f0d44f96]
+### 22. Final determination and reporting[^c-a1ce227e2e37e3e5efbca569f0d44f96]
 
 (1) The Authority must determine whether a supplier has achieved its carbon emissions reduction obligation and notify the supplier of that determination not later than 30th April 2013.
 
@@ -663,7 +663,7 @@ where x is the estimated cost of promoting and monitoring the action, which cost
 
 ## PART 7 — Enforcement
 
-### 23. Enforcement[^key-c2fc8b9667fd18c82429afe27250c609]
+### 23. Enforcement[^c-c2fc8b9667fd18c82429afe27250c609]
 
 A requirement placed on a supplier under this Order is a relevant requirement for the purpose of—
 
@@ -678,7 +678,7 @@ Department for Environment, Food and Rural Affairs
 
 30th January 2008
 
-## SCHEDULE A1 — HOME ENERGY ADVICE PACKAGES[^key-3b83219e5b17d06ee873607fa5d3ab23]
+## SCHEDULE A1 — HOME ENERGY ADVICE PACKAGES[^c-3b83219e5b17d06ee873607fa5d3ab23]
 
 Article 2
 
@@ -717,14 +717,14 @@ and is provided to a domestic energy user within three months of the home energy
 
 Article 2
 
-**1.**[^key-5822f28efc47ace23a35cc83299fa560] In relation to England and Wales, householder means a person who is—
+**1.**[^c-5822f28efc47ace23a35cc83299fa560] In relation to England and Wales, householder means a person who is—
 
 - (a) a freeholder;
-- (b) in the case of England only, a leaseholder with a term of 21 years or more unexpired at the time the specified reduction is promoted; or *(Extent: W)* *(affected by repeal, see note)*[^key-7dbade1b71ddb548082f7064d9258198]
+- (b) in the case of England only, a leaseholder with a term of 21 years or more unexpired at the time the specified reduction is promoted; or *(Extent: W)* *(affected by repeal, see note)*[^c-7dbade1b71ddb548082f7064d9258198]
 
 *Extent: W*
 
-- (bb)[^key-e2534776631eaf9e4dd99535b0283ead] in the case of Wales only, a holder of a secure contract (within the meaning given by section 8 of the Renting Homes (Wales) Act 2016), or an introductory standard contract (within the meaning given by section 16 of the Renting Homes (Wales) Act 2016), except where the landlord is—
+- (bb)[^c-e2534776631eaf9e4dd99535b0283ead] in the case of Wales only, a holder of a secure contract (within the meaning given by section 8 of the Renting Homes (Wales) Act 2016), or an introductory standard contract (within the meaning given by section 16 of the Renting Homes (Wales) Act 2016), except where the landlord is—
   - (i) a private registered provider of social housing (within the meaning given by section 80(3) of the Housing and Regeneration Act 2008);
   - (ii) a registered social landlord (being a person registered in the register maintained under section 1 of the Housing Act 1996); or
   - (iii) a private landlord (within the meaning given by section 10 of the Renting Homes (Wales) Act 2016); or
@@ -735,7 +735,7 @@ Article 2
   - (iv) a licence to occupy which meets the conditions in paragraph 12(a) and (b) Schedule 1 to the Housing Act 1985[^f00014] (almshouse licences); or
   - (v) an assured agricultural occupancy under Part I of the Housing Act 1988[^f00015], at the time the action is promoted to him.
 
-**2.**[^key-994e180465427daf510d2f3f47c5c572] (1) In relation to Scotland, householder means a person who is the owner or tenant of a dwelling.
+**2.**[^c-994e180465427daf510d2f3f47c5c572] (1) In relation to Scotland, householder means a person who is the owner or tenant of a dwelling.
 
 (2) For the purposes of this paragraph—
 
@@ -749,7 +749,7 @@ Article 2
 
 Article 2
 
-**1.**[^key-eabb6f0bf63d0bb9c0c337cb8a03793e] In this Schedule—
+**1.**[^c-eabb6f0bf63d0bb9c0c337cb8a03793e] In this Schedule—
 
 - “the 1983 Order” means the Naval, Military and Air Forces etc. (Disablement and Death) Services Pensions Order 1983[^f00018];
 - “the 1983 Scheme” means the Personal Injuries (Civilians) Scheme 1983[^f00019];
@@ -768,7 +768,7 @@ Article 2
     - (ii) under article 10 of the 1983 Order;
   - (b) without prejudice to paragraph (a) of this definition, any retired pay or pension to which any of paragraphs (a) to (f) of section 64(1) of the Income Tax (Earning and Pensions) Act 2003[^f00026] applies.
 
-**2.**[^key-5d2ed259793ae164e6f5b4514e58031c] The benefits relevant for the purposes of paragraph (a) of the definition of the priority group in article 2 are—
+**2.**[^c-5d2ed259793ae164e6f5b4514e58031c] The benefits relevant for the purposes of paragraph (a) of the definition of the priority group in article 2 are—
 
 - (a) council tax benefit[^f00027];
 - (b) housing benefit;
@@ -779,16 +779,16 @@ Article 2
 - (g) a war disablement pension which includes—
   - (i) a mobility supplement; or
   - (ii) a constant attendance allowance;
-- (h) a disablement pension[^f00030] which includes a constant attendance allowance; [^key-5b9f2e1517243e5fe681933f6f65679b]...
-- (i)[^key-822a67476f661ddb90d1c4e8c3ff1679] state pension credit; and
-- (j)[^key-0e60b570c4b558e6711e7262a4b2c4a8] an income-related employment and support allowance under the Welfare Reform Act 2007.
+- (h) a disablement pension[^f00030] which includes a constant attendance allowance; [^c-5b9f2e1517243e5fe681933f6f65679b]...
+- (i)[^c-822a67476f661ddb90d1c4e8c3ff1679] state pension credit; and
+- (j)[^c-0e60b570c4b558e6711e7262a4b2c4a8] an income-related employment and support allowance under the Welfare Reform Act 2007.
 
-**3.**[^key-709942bfddef98bda3741b115d82c597] The credits relevant for the purposes of paragraph (b) of the definition of priority group in article 2 are—
+**3.**[^c-709942bfddef98bda3741b115d82c597] The credits relevant for the purposes of paragraph (b) of the definition of priority group in article 2 are—
 
 - (a) child tax credit[^f00032]; and
 - (b) working tax credit.
 
-## SCHEDULE 3 — CARBON CO-EFFICIENT VALUES[^key-df80e6dc8372692295845b5dab6a8c06]
+## SCHEDULE 3 — CARBON CO-EFFICIENT VALUES[^c-df80e6dc8372692295845b5dab6a8c06]
 
 Articles 15, 19, and 20
 
@@ -849,9 +849,9 @@ An impact assessment has been prepared in respect of this Order and copies can b
 
 [^f00003]: Footnote: [2000 c.27](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-ef848797444270426274aeb90f7b455f]: Commencement: Art. 1 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-ef848797444270426274aeb90f7b455f]: Commencement: Art. 1 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-4987f947eeb222be94353a1ca264ea43]: Commencement: Art. 2 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-4987f947eeb222be94353a1ca264ea43]: Commencement: Art. 2 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
 [^f00004]: Footnote: [S.I. 2001/4011](https://www.legislation.gov.uk/uksi/2001/4011), as amended by [S.I. 2003/1180](https://www.legislation.gov.uk/uksi/2003/1180).
 
@@ -859,143 +859,143 @@ An impact assessment has been prepared in respect of this Order and copies can b
 
 [^f00006]: Footnote: Cogeneration is also commonly referred to as combined heat and power in the United Kingdom.
 
-[^key-d6b5a4c6b8e3ac1329c0eebe27ffe275]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/188/article/2/1) revoked (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2009/1904/article/3/4)
+[^c-d6b5a4c6b8e3ac1329c0eebe27ffe275]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/188/article/2/1) revoked (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2009/1904/article/3/4)
 
-[^key-f859b6869fe169eb84b15ff870203152]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/188/article/2/1) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/1904/article/3/2)
+[^c-f859b6869fe169eb84b15ff870203152]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/188/article/2/1) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/1904/article/3/2)
 
 [^f00007]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6). Sections 736 and 736A were substituted for the original section by section 144(1) of the Companies Act [1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-ae072e8f012f7d7e0eea4a950802c088]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/188/article/2/1) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/3/2)
+[^c-ae072e8f012f7d7e0eea4a950802c088]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/188/article/2/1) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/3/2)
 
-[^key-847631cc77603a8270680c99f731a62a]: Textual amendment: Sum in [Art. 2](https://www.legislation.gov.uk/uksi/2008/188/article/2) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/3/3)
+[^c-847631cc77603a8270680c99f731a62a]: Textual amendment: Sum in [Art. 2](https://www.legislation.gov.uk/uksi/2008/188/article/2) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/3/3)
 
 [^f00009]: Footnote: [2002 c.21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-5791c8ef7d9e2a96ce6d151ef285b6a3]: Textual amendment: [Art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2008/188/article/2/3/b)[(c)](https://www.legislation.gov.uk/uksi/2008/188/article/2/3/c) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2010/1958/article/3/4)
+[^c-5791c8ef7d9e2a96ce6d151ef285b6a3]: Textual amendment: [Art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2008/188/article/2/3/b)[(c)](https://www.legislation.gov.uk/uksi/2008/188/article/2/3/c) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [3(4)](https://www.legislation.gov.uk/uksi/2010/1958/article/3/4)
 
-[^key-e3b79cc8809ab63cbea055d5c3a3d2ca]: Textual amendment: [Art. 2(3)(d)](https://www.legislation.gov.uk/uksi/2008/188/article/2/3/d) substituted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [3(7)](https://www.legislation.gov.uk/uksi/2009/1904/article/3/7)
+[^c-e3b79cc8809ab63cbea055d5c3a3d2ca]: Textual amendment: [Art. 2(3)(d)](https://www.legislation.gov.uk/uksi/2008/188/article/2/3/d) substituted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [3(7)](https://www.legislation.gov.uk/uksi/2009/1904/article/3/7)
 
-[^key-ee3901a7085e862b5dc35716335bdba2]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2008/188/article/3) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1958/article/4)
+[^c-ee3901a7085e862b5dc35716335bdba2]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2008/188/article/3) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [4](https://www.legislation.gov.uk/uksi/2010/1958/article/4)
 
-[^key-40c6698a488bb031daa278d2c341688f]: Commencement: Art. 4 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-40c6698a488bb031daa278d2c341688f]: Commencement: Art. 4 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-359a141545d4ce027819861b44602cbc]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2008/188/article/4/2) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/3062/article/3/2)
+[^c-359a141545d4ce027819861b44602cbc]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2008/188/article/4/2) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/3062/article/3/2)
 
-[^key-e093722e78c48b4390cb3e54a4170198]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2008/188/article/4/3) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/3062/article/3/3)
+[^c-e093722e78c48b4390cb3e54a4170198]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2008/188/article/4/3) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2011/3062/article/3/3)
 
-[^key-aa3da3326e1fb7ea3d29e73fe6abf0e5]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2008/188/article/4/5) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/5/3)
+[^c-aa3da3326e1fb7ea3d29e73fe6abf0e5]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/uksi/2008/188/article/4/5) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/5/3)
 
-[^key-e719493816e3ea71020c63ad92142711]: Commencement: Art. 5 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-e719493816e3ea71020c63ad92142711]: Commencement: Art. 5 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-d18c5ed98c6512e9bcaf87fffc98269c]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/uksi/2008/188/article/5/1) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/6/2)
+[^c-d18c5ed98c6512e9bcaf87fffc98269c]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/uksi/2008/188/article/5/1) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/6/2)
 
-[^key-871857606201c8f89252045aca2899c8]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2008/188/article/6) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [7](https://www.legislation.gov.uk/uksi/2010/1958/article/7)
+[^c-871857606201c8f89252045aca2899c8]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2008/188/article/6) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [7](https://www.legislation.gov.uk/uksi/2010/1958/article/7)
 
-[^key-78f119a237227a5b060b48f582c1112e]: Commencement: Art. 7 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-78f119a237227a5b060b48f582c1112e]: Commencement: Art. 7 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-1fcb951155b3d2227bf65db48be65878]: Textual amendment: [Art. 7(1)](https://www.legislation.gov.uk/uksi/2008/188/article/7/1) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/8/2)
+[^c-1fcb951155b3d2227bf65db48be65878]: Textual amendment: [Art. 7(1)](https://www.legislation.gov.uk/uksi/2008/188/article/7/1) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/8/2)
 
-[^key-2c7da75766c5bc0bd643f6ee654f4435]: Textual amendment: [Art. 7(3)(a)](https://www.legislation.gov.uk/uksi/2008/188/article/7/3/a) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/8/3)
+[^c-2c7da75766c5bc0bd643f6ee654f4435]: Textual amendment: [Art. 7(3)(a)](https://www.legislation.gov.uk/uksi/2008/188/article/7/3/a) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/8/3)
 
-[^key-dfd325e889473b74bec9051b24a10e0f]: Commencement: Art. 8 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-dfd325e889473b74bec9051b24a10e0f]: Commencement: Art. 8 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-7558f4f308a24bba88f491a814c7462a]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2008/188/article/8/1)[(2)](https://www.legislation.gov.uk/uksi/2008/188/article/8/2) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/9/2)
+[^c-7558f4f308a24bba88f491a814c7462a]: Textual amendment: [Art. 8(1)](https://www.legislation.gov.uk/uksi/2008/188/article/8/1)[(2)](https://www.legislation.gov.uk/uksi/2008/188/article/8/2) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [9(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/9/2)
 
-[^key-fb87e80d62ef247fad542e69347c731f]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2008/188/article/8/4) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/9/3)
+[^c-fb87e80d62ef247fad542e69347c731f]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2008/188/article/8/4) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [9(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/9/3)
 
-[^key-8debf0479d73d3da03a1b16a86100a63]: Textual amendment: [Art. 8(5)](https://www.legislation.gov.uk/uksi/2008/188/article/8/5) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/3062/article/4/2)
+[^c-8debf0479d73d3da03a1b16a86100a63]: Textual amendment: [Art. 8(5)](https://www.legislation.gov.uk/uksi/2008/188/article/8/5) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [4(2)](https://www.legislation.gov.uk/uksi/2011/3062/article/4/2)
 
-[^key-2ccb754ad25a1af785b8226e3e5a6a4d]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2008/188/article/9) substituted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2009/1904/article/5/1)
+[^c-2ccb754ad25a1af785b8226e3e5a6a4d]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/uksi/2008/188/article/9) substituted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [5(1)](https://www.legislation.gov.uk/uksi/2009/1904/article/5/1)
 
-[^key-aef01a949701cf0bf2894fe94bf80c03]: Textual amendment: [Art. 9(1A)](https://www.legislation.gov.uk/uksi/2008/188/article/9/1A) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/10/2)
+[^c-aef01a949701cf0bf2894fe94bf80c03]: Textual amendment: [Art. 9(1A)](https://www.legislation.gov.uk/uksi/2008/188/article/9/1A) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [10(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/10/2)
 
-[^key-d4dd490999931869972b083a8c53fc12]: Textual amendment: [Art. 9(6)](https://www.legislation.gov.uk/uksi/2008/188/article/9/6) inserted (1.9.2009) by [The Electricity and Gas (Community Energy Saving Programme) Order 2009 (S.I. 2009/1905)](https://www.legislation.gov.uk/uksi/2009/1905), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1905/article/1), [28](https://www.legislation.gov.uk/uksi/2009/1905/article/28)
+[^c-d4dd490999931869972b083a8c53fc12]: Textual amendment: [Art. 9(6)](https://www.legislation.gov.uk/uksi/2008/188/article/9/6) inserted (1.9.2009) by [The Electricity and Gas (Community Energy Saving Programme) Order 2009 (S.I. 2009/1905)](https://www.legislation.gov.uk/uksi/2009/1905), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1905/article/1), [28](https://www.legislation.gov.uk/uksi/2009/1905/article/28)
 
-[^key-52baac2cdc2eeabcac1354d34f1c586c]: Commencement: Art. 10 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-52baac2cdc2eeabcac1354d34f1c586c]: Commencement: Art. 10 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-b4b6478db7084f552dfd4f791dd468ce]: Commencement: Art. 11 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-b4b6478db7084f552dfd4f791dd468ce]: Commencement: Art. 11 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-2f3995db55f7270c495c149308bb1afa]: Textual amendment: [Art. 11(3A)](https://www.legislation.gov.uk/uksi/2008/188/article/11/3A) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/11/2)
+[^c-2f3995db55f7270c495c149308bb1afa]: Textual amendment: [Art. 11(3A)](https://www.legislation.gov.uk/uksi/2008/188/article/11/3A) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [11(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/11/2)
 
-[^key-0b332313bb9f1f7c459eb082097a455e]: Commencement: Art. 12 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-0b332313bb9f1f7c459eb082097a455e]: Commencement: Art. 12 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-3eeee4c3f95aa37e089e196385e2f677]: Textual amendment: [Art. 12(1)](https://www.legislation.gov.uk/uksi/2008/188/article/12/1) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/2)
+[^c-3eeee4c3f95aa37e089e196385e2f677]: Textual amendment: [Art. 12(1)](https://www.legislation.gov.uk/uksi/2008/188/article/12/1) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/2)
 
-[^key-0c702f62d361b700fc0d255f86f79747]: Textual amendment: Word in [art. 12(4)](https://www.legislation.gov.uk/uksi/2008/188/article/12/4) substituted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/1904/article/6/2)
+[^c-0c702f62d361b700fc0d255f86f79747]: Textual amendment: Word in [art. 12(4)](https://www.legislation.gov.uk/uksi/2008/188/article/12/4) substituted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/1904/article/6/2)
 
-[^key-093b6e9f96eeb0bcda289989b7c49757]: Textual amendment: [Art. 12(6)](https://www.legislation.gov.uk/uksi/2008/188/article/12/6) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/3)
+[^c-093b6e9f96eeb0bcda289989b7c49757]: Textual amendment: [Art. 12(6)](https://www.legislation.gov.uk/uksi/2008/188/article/12/6) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/3)
 
-[^key-4846a29be355b3316e593c4d384e8e10]: Textual amendment: [Art. 12(7A)-(7C)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/1904/article/6/3)
+[^c-4846a29be355b3316e593c4d384e8e10]: Textual amendment: [Art. 12(7A)-(7C)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2009/1904/article/6/3)
 
-[^key-3c58dfd9c9c40d3425c8bb599672315a]: Textual amendment: Words in [art. 12(7B)(a)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7B/a) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(4)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/4)
+[^c-3c58dfd9c9c40d3425c8bb599672315a]: Textual amendment: Words in [art. 12(7B)(a)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7B/a) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(4)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/4)
 
-[^key-e7d3259613a331b763b96a85c9dc51e8]: Textual amendment: Words in [art. 12(7B)(b)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7B/b) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(5)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/5)
+[^c-e7d3259613a331b763b96a85c9dc51e8]: Textual amendment: Words in [art. 12(7B)(b)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7B/b) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(5)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/5)
 
-[^key-bac7050c175b40e44610d4ac87025cfb]: Textual amendment: [Art. 12(7C)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7C) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(6)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/6)
+[^c-bac7050c175b40e44610d4ac87025cfb]: Textual amendment: [Art. 12(7C)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7C) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(6)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/6)
 
-[^key-6575a2c7eeadc9ede740a3a4c151443b]: Textual amendment: [Art. 12(7D)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7D)[(7E)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7E) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(7)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/7)
+[^c-6575a2c7eeadc9ede740a3a4c151443b]: Textual amendment: [Art. 12(7D)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7D)[(7E)](https://www.legislation.gov.uk/uksi/2008/188/article/12/7E) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [12(7)](https://www.legislation.gov.uk/uksi/2010/1958/article/12/7)
 
-[^key-dd398c317d081612a88e2e8cb583dfb8]: Commencement: Art. 13 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-dd398c317d081612a88e2e8cb583dfb8]: Commencement: Art. 13 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-04e30a8539ef1896ede9c4c958804fe6]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2008/188/article/13A) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [13](https://www.legislation.gov.uk/uksi/2010/1958/article/13)
+[^c-04e30a8539ef1896ede9c4c958804fe6]: Textual amendment: [Art. 13A](https://www.legislation.gov.uk/uksi/2008/188/article/13A) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [13](https://www.legislation.gov.uk/uksi/2010/1958/article/13)
 
-[^key-a9536a9593eb6868aaae3e14cbdc7c40]: Commencement: Art. 14 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-a9536a9593eb6868aaae3e14cbdc7c40]: Commencement: Art. 14 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-fefe4275b864b880ea98610cbf80393c]: Commencement: Art. 15 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-fefe4275b864b880ea98610cbf80393c]: Commencement: Art. 15 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-426842495f8db75df4029ebb2b2ab614]: Textual amendment: Words in [art. 15(2)](https://www.legislation.gov.uk/uksi/2008/188/article/15/2) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/1904/article/7/2)
+[^c-426842495f8db75df4029ebb2b2ab614]: Textual amendment: Words in [art. 15(2)](https://www.legislation.gov.uk/uksi/2008/188/article/15/2) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [7(2)](https://www.legislation.gov.uk/uksi/2009/1904/article/7/2)
 
-[^key-bc77e111e1f412f3b65293632793d8be]: Textual amendment: [Art. 15(2A)](https://www.legislation.gov.uk/uksi/2008/188/article/15/2A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2009/1904/article/7/3)
+[^c-bc77e111e1f412f3b65293632793d8be]: Textual amendment: [Art. 15(2A)](https://www.legislation.gov.uk/uksi/2008/188/article/15/2A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [7(3)](https://www.legislation.gov.uk/uksi/2009/1904/article/7/3)
 
-[^key-9fb56d6f5a2d9696ceff3d7cc7e7593c]: Textual amendment: Words in [art. 15(3)](https://www.legislation.gov.uk/uksi/2008/188/article/15/3) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [7(4)](https://www.legislation.gov.uk/uksi/2009/1904/article/7/4)
+[^c-9fb56d6f5a2d9696ceff3d7cc7e7593c]: Textual amendment: Words in [art. 15(3)](https://www.legislation.gov.uk/uksi/2008/188/article/15/3) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [7(4)](https://www.legislation.gov.uk/uksi/2009/1904/article/7/4)
 
-[^key-ef00b23d76b805da7ad15b9386fb6cfe]: Textual amendment: [Art. 15(3A)](https://www.legislation.gov.uk/uksi/2008/188/article/15/3A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [7(5)](https://www.legislation.gov.uk/uksi/2009/1904/article/7/5)
+[^c-ef00b23d76b805da7ad15b9386fb6cfe]: Textual amendment: [Art. 15(3A)](https://www.legislation.gov.uk/uksi/2008/188/article/15/3A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [7(5)](https://www.legislation.gov.uk/uksi/2009/1904/article/7/5)
 
-[^key-327106e2635bdc757b86bd0c0b52e615]: Commencement: Art. 16 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-327106e2635bdc757b86bd0c0b52e615]: Commencement: Art. 16 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-85869019d17cc82c08b39f7da07b9998]: Textual amendment: Words in [art. 16(1)(a)(i)](https://www.legislation.gov.uk/uksi/2008/188/article/16/1/a/i) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/14/2)
+[^c-85869019d17cc82c08b39f7da07b9998]: Textual amendment: Words in [art. 16(1)(a)(i)](https://www.legislation.gov.uk/uksi/2008/188/article/16/1/a/i) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [14(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/14/2)
 
-[^key-e152c390cf20306abfefa10967425940]: Textual amendment: [Art. 16(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/188/article/16/1/a/ii) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [14(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/14/3)
+[^c-e152c390cf20306abfefa10967425940]: Textual amendment: [Art. 16(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/188/article/16/1/a/ii) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [14(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/14/3)
 
-[^key-1024e6caca8824a25880f49bc9e8516b]: Textual amendment: [Art. 16(1)(c)](https://www.legislation.gov.uk/uksi/2008/188/article/16/1/c) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [14(4)](https://www.legislation.gov.uk/uksi/2010/1958/article/14/4)
+[^c-1024e6caca8824a25880f49bc9e8516b]: Textual amendment: [Art. 16(1)(c)](https://www.legislation.gov.uk/uksi/2008/188/article/16/1/c) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [14(4)](https://www.legislation.gov.uk/uksi/2010/1958/article/14/4)
 
-[^key-4e9ff02a9c7f2df4552ce0e3de7a669a]: Textual amendment: [Art. 16(5)](https://www.legislation.gov.uk/uksi/2008/188/article/16/5) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [14(5)](https://www.legislation.gov.uk/uksi/2010/1958/article/14/5)
+[^c-4e9ff02a9c7f2df4552ce0e3de7a669a]: Textual amendment: [Art. 16(5)](https://www.legislation.gov.uk/uksi/2008/188/article/16/5) inserted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [14(5)](https://www.legislation.gov.uk/uksi/2010/1958/article/14/5)
 
-[^key-8c5a9138098f3cba7418cbcc6718b805]: Commencement: Art. 17 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-8c5a9138098f3cba7418cbcc6718b805]: Commencement: Art. 17 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-51ddced10ec62a2ee4074c548d5c6ae8]: Commencement: Art. 18 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-51ddced10ec62a2ee4074c548d5c6ae8]: Commencement: Art. 18 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-298a5bcd9b0afc5133a8ef8ee0a80241]: Textual amendment: Words in [art. 18(3)(a)](https://www.legislation.gov.uk/uksi/2008/188/article/18/3/a) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3062/article/5)
+[^c-298a5bcd9b0afc5133a8ef8ee0a80241]: Textual amendment: Words in [art. 18(3)(a)](https://www.legislation.gov.uk/uksi/2008/188/article/18/3/a) substituted (22.12.2011) by [The Electricity and Gas (Carbon Emissions and Community Energy Saving) (Amendment) Order 2011 (S.I. 2011/3062)](https://www.legislation.gov.uk/uksi/2011/3062), [arts. 1](https://www.legislation.gov.uk/uksi/2011/3062/article/1), [5](https://www.legislation.gov.uk/uksi/2011/3062/article/5)
 
-[^key-3dbf7c917aecd3d7047674cae7d5554b]: Commencement: Art. 19 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-3dbf7c917aecd3d7047674cae7d5554b]: Commencement: Art. 19 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-b6ef0e6416ffe3b1c381a02e3a6e7c26]: Textual amendment: [Art. 19(1)](https://www.legislation.gov.uk/uksi/2008/188/article/19/1)[(2)](https://www.legislation.gov.uk/uksi/2008/188/article/19/2) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [16(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/16/2)
+[^c-b6ef0e6416ffe3b1c381a02e3a6e7c26]: Textual amendment: [Art. 19(1)](https://www.legislation.gov.uk/uksi/2008/188/article/19/1)[(2)](https://www.legislation.gov.uk/uksi/2008/188/article/19/2) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [16(2)](https://www.legislation.gov.uk/uksi/2010/1958/article/16/2)
 
-[^key-739172613a71f90bfeeec4d4205e67b5]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/uksi/2008/188/article/19/3) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/1904/article/8/2)
+[^c-739172613a71f90bfeeec4d4205e67b5]: Textual amendment: Words in [art. 19(3)](https://www.legislation.gov.uk/uksi/2008/188/article/19/3) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2009/1904/article/8/2)
 
-[^key-8860cc3eea9301091f72f09aa07caba7]: Textual amendment: [Art. 19(3A)](https://www.legislation.gov.uk/uksi/2008/188/article/19/3A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2009/1904/article/8/3)
+[^c-8860cc3eea9301091f72f09aa07caba7]: Textual amendment: [Art. 19(3A)](https://www.legislation.gov.uk/uksi/2008/188/article/19/3A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2009/1904/article/8/3)
 
-[^key-01a78c1f406910e537fd211bcb15c941]: Textual amendment: Words in [art. 19(4)](https://www.legislation.gov.uk/uksi/2008/188/article/19/4) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2009/1904/article/8/4)
+[^c-01a78c1f406910e537fd211bcb15c941]: Textual amendment: Words in [art. 19(4)](https://www.legislation.gov.uk/uksi/2008/188/article/19/4) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [8(4)](https://www.legislation.gov.uk/uksi/2009/1904/article/8/4)
 
-[^key-e44be7e39dfc6e5eab971fcfca7a99eb]: Textual amendment: [Art. 19(4A)](https://www.legislation.gov.uk/uksi/2008/188/article/19/4A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [8(5)](https://www.legislation.gov.uk/uksi/2009/1904/article/8/5)
+[^c-e44be7e39dfc6e5eab971fcfca7a99eb]: Textual amendment: [Art. 19(4A)](https://www.legislation.gov.uk/uksi/2008/188/article/19/4A) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [8(5)](https://www.legislation.gov.uk/uksi/2009/1904/article/8/5)
 
-[^key-11c608c6b5e8e1cdddbf7c01b66d04fb]: Textual amendment: [Art. 19(4A)(b)](https://www.legislation.gov.uk/uksi/2008/188/article/19/4A/b) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [16(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/16/3)
+[^c-11c608c6b5e8e1cdddbf7c01b66d04fb]: Textual amendment: [Art. 19(4A)(b)](https://www.legislation.gov.uk/uksi/2008/188/article/19/4A/b) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [16(3)](https://www.legislation.gov.uk/uksi/2010/1958/article/16/3)
 
-[^key-46e35664a3e2c2a6ce936683f38413f8]: Commencement: Art. 20 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-46e35664a3e2c2a6ce936683f38413f8]: Commencement: Art. 20 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-fff66a9dc27aa9a51548d0eb387de1f3]: Commencement: Art. 21 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-fff66a9dc27aa9a51548d0eb387de1f3]: Commencement: Art. 21 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-a1ce227e2e37e3e5efbca569f0d44f96]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2008/188/article/22) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [17](https://www.legislation.gov.uk/uksi/2010/1958/article/17)
+[^c-a1ce227e2e37e3e5efbca569f0d44f96]: Textual amendment: [Art. 22](https://www.legislation.gov.uk/uksi/2008/188/article/22) substituted (31.7.2010) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2010 (S.I. 2010/1958)](https://www.legislation.gov.uk/uksi/2010/1958), [arts. 1](https://www.legislation.gov.uk/uksi/2010/1958/article/1), [17](https://www.legislation.gov.uk/uksi/2010/1958/article/17)
 
-[^key-c2fc8b9667fd18c82429afe27250c609]: Commencement: Art. 23 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-c2fc8b9667fd18c82429afe27250c609]: Commencement: Art. 23 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-3b83219e5b17d06ee873607fa5d3ab23]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2008/188/schedule/A1) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [9](https://www.legislation.gov.uk/uksi/2009/1904/article/9)
+[^c-3b83219e5b17d06ee873607fa5d3ab23]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2008/188/schedule/A1) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [9](https://www.legislation.gov.uk/uksi/2009/1904/article/9)
 
-[^key-5822f28efc47ace23a35cc83299fa560]: Commencement: Sch. 1 para. 1 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-5822f28efc47ace23a35cc83299fa560]: Commencement: Sch. 1 para. 1 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
-[^key-7dbade1b71ddb548082f7064d9258198]: Textual amendment: Word in [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2008/188/schedule/1/paragraph/1/b) omitted (W.) (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/25/a)
+[^c-7dbade1b71ddb548082f7064d9258198]: Textual amendment: Word in [Sch. 1 para. 1(b)](https://www.legislation.gov.uk/uksi/2008/188/schedule/1/paragraph/1/b) omitted (W.) (1.12.2022) by virtue of [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 25(a)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/25/a)
 
-[^key-e2534776631eaf9e4dd99535b0283ead]: Textual amendment: [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2008/188/schedule/1/paragraph/1/bb) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/25/b)
+[^c-e2534776631eaf9e4dd99535b0283ead]: Textual amendment: [Sch. 1 para. 1(bb)](https://www.legislation.gov.uk/uksi/2008/188/schedule/1/paragraph/1/bb) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2022 (S.I. 2022/907)](https://www.legislation.gov.uk/wsi/2022/907), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/907/regulation/1/2), [Sch. 1 para. 25(b)](https://www.legislation.gov.uk/wsi/2022/907/schedule/1/paragraph/25/b)
 
 [^f00010]: Footnote: [1976 c.80](https://www.legislation.gov.uk/ukpga/1976/80); sections 2 and 3 make provision for protected occupancy and section 4 for statutory tenancy. Section 3 has been amended by section 76(3) of the Housing Act [1980 (c.51)](https://www.legislation.gov.uk/ukpga/1980/51) and section 81 of and Schedule 8 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), section 4 by those provisions and section 155 and paragraph 72 of Schedule 23 to the Rent Act [1977 (c.42)](https://www.legislation.gov.uk/ukpga/1977/42) and sections 39 and 140 of and Schedule 4 (Part II) and Schedule 18 to the Housing Act [1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50). Section 5 was last amended by sections 128 and 137 of and Schedule 6 to the Criminal Justice and Police Act [2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16). There are other amendments to the 1976 Act not relevant to these Regulations.
 
@@ -1009,13 +1009,13 @@ An impact assessment has been prepared in respect of this Order and copies can b
 
 [^f00015]: Footnote: [1988 c.50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-994e180465427daf510d2f3f47c5c572]: Commencement: Sch. 1 para. 2 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-994e180465427daf510d2f3f47c5c572]: Commencement: Sch. 1 para. 2 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
 [^f00016]: Footnote: Defined in Schedule 1 to the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30).
 
 [^f00017]: Footnote: [1993 c.44](https://www.legislation.gov.uk/ukpga/1993/44).
 
-[^key-eabb6f0bf63d0bb9c0c337cb8a03793e]: Commencement: Sch. 2 para. 1 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-eabb6f0bf63d0bb9c0c337cb8a03793e]: Commencement: Sch. 2 para. 1 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
 [^f00018]: Footnote: [S.I. 1983/883](https://www.legislation.gov.uk/uksi/1983/883); relevant amending instruments are [1983/1116](https://www.legislation.gov.uk/uksi/1983/1116), [1983/1521](https://www.legislation.gov.uk/uksi/1983/1521), [1986/592](https://www.legislation.gov.uk/uksi/1986/592), [1990/1308](https://www.legislation.gov.uk/uksi/1990/1308), [1991/766](https://www.legislation.gov.uk/uksi/1991/766), [1992/710](https://www.legislation.gov.uk/uksi/1992/710), [1993/598](https://www.legislation.gov.uk/uksi/1993/598), [1995/766](https://www.legislation.gov.uk/uksi/1995/766), [1996/1638](https://www.legislation.gov.uk/uksi/1996/1638), [1997/286](https://www.legislation.gov.uk/uksi/1997/286) and [2001/409](https://www.legislation.gov.uk/uksi/2001/409).
 
@@ -1035,7 +1035,7 @@ An impact assessment has been prepared in respect of this Order and copies can b
 
 [^f00026]: Footnote: [2003 c.1](https://www.legislation.gov.uk/ukpga/2003/1).
 
-[^key-5d2ed259793ae164e6f5b4514e58031c]: Commencement: Sch. 2 para. 2 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-5d2ed259793ae164e6f5b4514e58031c]: Commencement: Sch. 2 para. 2 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
 [^f00027]: Footnote: Council tax benefit, housing benefit and income support are provided for in Part VII of the 1992 Act.
 
@@ -1045,17 +1045,17 @@ An impact assessment has been prepared in respect of this Order and copies can b
 
 [^f00030]: Footnote: Disablement pensions are provided for in Part V of the 1992 Act; see in particular section 103.
 
-[^key-5b9f2e1517243e5fe681933f6f65679b]: Textual amendment: Word in [Sch. 2 para. 2(h)](https://www.legislation.gov.uk/uksi/2008/188/schedule/2/paragraph/2/h) omitted (21.7.2009) by virtue of [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2009/1904/article/10/a)
+[^c-5b9f2e1517243e5fe681933f6f65679b]: Textual amendment: Word in [Sch. 2 para. 2(h)](https://www.legislation.gov.uk/uksi/2008/188/schedule/2/paragraph/2/h) omitted (21.7.2009) by virtue of [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [10(a)](https://www.legislation.gov.uk/uksi/2009/1904/article/10/a)
 
-[^key-822a67476f661ddb90d1c4e8c3ff1679]: Textual amendment: [Sch. 2 para. 2(i)](https://www.legislation.gov.uk/uksi/2008/188/schedule/2/paragraph/2/i) substituted (21.7.2009) by virtue of [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [10(b)](https://www.legislation.gov.uk/uksi/2009/1904/article/10/b)
+[^c-822a67476f661ddb90d1c4e8c3ff1679]: Textual amendment: [Sch. 2 para. 2(i)](https://www.legislation.gov.uk/uksi/2008/188/schedule/2/paragraph/2/i) substituted (21.7.2009) by virtue of [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [10(b)](https://www.legislation.gov.uk/uksi/2009/1904/article/10/b)
 
-[^key-0e60b570c4b558e6711e7262a4b2c4a8]: Textual amendment: [Sch. 2 para. 2(j)](https://www.legislation.gov.uk/uksi/2008/188/schedule/2/paragraph/2/j) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [10(c)](https://www.legislation.gov.uk/uksi/2009/1904/article/10/c)
+[^c-0e60b570c4b558e6711e7262a4b2c4a8]: Textual amendment: [Sch. 2 para. 2(j)](https://www.legislation.gov.uk/uksi/2008/188/schedule/2/paragraph/2/j) inserted (21.7.2009) by [The Electricity and Gas (Carbon Emissions Reduction) (Amendment) Order 2009 (S.I. 2009/1904)](https://www.legislation.gov.uk/uksi/2009/1904), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1904/article/1), [10(c)](https://www.legislation.gov.uk/uksi/2009/1904/article/10/c)
 
-[^key-709942bfddef98bda3741b115d82c597]: Commencement: Sch. 2 para. 3 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-709942bfddef98bda3741b115d82c597]: Commencement: Sch. 2 para. 3 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
 [^f00032]: Footnote: Child tax credit and working tax credit are provided for in Part I of the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-df80e6dc8372692295845b5dab6a8c06]: Commencement: Sch. 3 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
+[^c-df80e6dc8372692295845b5dab6a8c06]: Commencement: Sch. 3 in force at 31.1.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/188/article/1)
 
 [^f01000]: Footnote: (1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Notice required for certain improvements by landlord[^key-9a927e5a64125538ae49288219943f57]
+## 119. Notice required for certain improvements by landlord[^c-9a927e5a64125538ae49288219943f57]
 
 *Extent: S*
 
@@ -227,4 +227,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a927e5a64125538ae49288219943f57]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2016/18/section/119) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-9a927e5a64125538ae49288219943f57]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2016/18/section/119) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

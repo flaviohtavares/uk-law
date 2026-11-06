@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Interpretation[^key-7bc28fa2b9deb45ef56e9ecd18bf4e58]
+## 35. Interpretation[^c-7bc28fa2b9deb45ef56e9ecd18bf4e58]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-7bc28fa2b9deb45ef56e9ecd18bf4e58]: Commencement: Art. 35 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-7bc28fa2b9deb45ef56e9ecd18bf4e58]: Commencement: Art. 35 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

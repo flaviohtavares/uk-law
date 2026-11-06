@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 78. Application of Chapter 4 etc[^key-4c8aef8d469ed8b99b6aa913498e3dfa]
+## 78. Application of Chapter 4 etc[^c-4c8aef8d469ed8b99b6aa913498e3dfa]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ the managers of the Scheme in relation to a member are the fund authority.
 
 ## Annotations
 
-[^key-4c8aef8d469ed8b99b6aa913498e3dfa]: Commencement: Reg. 78 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-4c8aef8d469ed8b99b6aa913498e3dfa]: Commencement: Reg. 78 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00049]: Footnote: Section 101AA was inserted by section 264 of the Pensions Act 2004.
 

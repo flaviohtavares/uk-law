@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71A. Assistance etc. in relation to functions of the principal regulator[^key-db9786dc849943b2b152611816c53576][^key-a94715b53bb953a0ecf49f4c61116cda]
+## 71A. Assistance etc. in relation to functions of the principal regulator[^c-db9786dc849943b2b152611816c53576][^c-a94715b53bb953a0ecf49f4c61116cda]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db9786dc849943b2b152611816c53576]: Textual amendment: Ss. 60-80 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 66](https://www.legislation.gov.uk/ukpga/2011/21/section/66), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-db9786dc849943b2b152611816c53576]: Textual amendment: Ss. 60-80 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 66](https://www.legislation.gov.uk/ukpga/2011/21/section/66), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
 
-[^key-a94715b53bb953a0ecf49f4c61116cda]: Textual amendment: S. 71A inserted (1.8.2011) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) Regulations 2011 (S.I. 2011/1726)](https://www.legislation.gov.uk/uksi/2011/1726), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2011/1726/regulation/7)
+[^c-a94715b53bb953a0ecf49f4c61116cda]: Textual amendment: S. 71A inserted (1.8.2011) by [The Charities Act 2006 (Principal Regulators of Exempt Charities) Regulations 2011 (S.I. 2011/1726)](https://www.legislation.gov.uk/uksi/2011/1726), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/1726/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2011/1726/regulation/7)

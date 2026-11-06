@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Amendment of section 5A[^key-c9998083c24e49aeb956289de703193b]
+## 92. Amendment of section 5A[^c-c9998083c24e49aeb956289de703193b]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9998083c24e49aeb956289de703193b]: Commencement: Reg. 92 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c9998083c24e49aeb956289de703193b]: Commencement: Reg. 92 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00073]: Footnote: Section 5A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

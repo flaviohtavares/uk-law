@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Education (Individual Pupils' Achievements) (Information) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-207c4f56f3db36766bd5b04e1d744670]
+Education (Individual Pupils' Achievements) (Information) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-207c4f56f3db36766bd5b04e1d744670]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 25th June 1999
 
-[^key-207c4f56f3db36766bd5b04e1d744670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-207c4f56f3db36766bd5b04e1d744670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-207c4f56f3db36766bd5b04e1d744670]
+## 1. Citation and commencement[^c-207c4f56f3db36766bd5b04e1d744670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Individual Pupils' Achievements) (Information) Regulations (Northern Ireland) 1998[^key-207c4f56f3db36766bd5b04e1d744670]
+## 2. Amendment of the Education (Individual Pupils' Achievements) (Information) Regulations (Northern Ireland) 1998[^c-207c4f56f3db36766bd5b04e1d744670]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-207c4f56f3db36766bd5b04e1d744670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-207c4f56f3db36766bd5b04e1d744670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-207c4f56f3db36766bd5b04e1d744670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-207c4f56f3db36766bd5b04e1d744670]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-207c4f56f3db36766bd5b04e1d744670]: Textual amendment: Regulation revoked (1.3.2007) by [The Education (Pupil Records and Reporting) (Transitional) Regulations (Northern Ireland) 2007 (S.R. 2007/43)](https://www.legislation.gov.uk/nisr/2007/43), [regs. 1](https://www.legislation.gov.uk/nisr/2007/43/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/43/regulation/3)
+[^c-207c4f56f3db36766bd5b04e1d744670]: Textual amendment: Regulation revoked (1.3.2007) by [The Education (Pupil Records and Reporting) (Transitional) Regulations (Northern Ireland) 2007 (S.R. 2007/43)](https://www.legislation.gov.uk/nisr/2007/43), [regs. 1](https://www.legislation.gov.uk/nisr/2007/43/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/43/regulation/3)

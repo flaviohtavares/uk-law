@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Nuclear transfer scheme for UKAEA Constabulary[^key-e7073951d7a896371c9c4c455f2a4523]
+## 70. Nuclear transfer scheme for UKAEA Constabulary[^c-e7073951d7a896371c9c4c455f2a4523]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e7073951d7a896371c9c4c455f2a4523]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2004/20/section/70) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)
+[^c-e7073951d7a896371c9c4c455f2a4523]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2004/20/section/70) in force at 1.4.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/877/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/877/schedule/1)

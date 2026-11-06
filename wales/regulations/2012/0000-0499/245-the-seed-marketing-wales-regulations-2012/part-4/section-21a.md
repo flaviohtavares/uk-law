@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21A. Licences for temporary experiments[^key-887ecaa9dbffc99e4af2aebe15396958]
+## 21A. Licences for temporary experiments[^c-887ecaa9dbffc99e4af2aebe15396958]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-887ecaa9dbffc99e4af2aebe15396958]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/wsi/2012/245/regulation/21A) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/368)](https://www.legislation.gov.uk/wsi/2019/368), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/368/regulation/1/2/b), [4(7)](https://www.legislation.gov.uk/wsi/2019/368/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-887ecaa9dbffc99e4af2aebe15396958]: Textual amendment: [Reg. 21A](https://www.legislation.gov.uk/wsi/2012/245/regulation/21A) substituted (31.12.2020) by [The Marketing of Seeds and Plant Propagating Material (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/368)](https://www.legislation.gov.uk/wsi/2019/368), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2019/368/regulation/1/2/b), [4(7)](https://www.legislation.gov.uk/wsi/2019/368/regulation/4/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

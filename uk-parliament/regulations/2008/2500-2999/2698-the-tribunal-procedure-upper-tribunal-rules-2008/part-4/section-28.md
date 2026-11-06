@@ -18,7 +18,7 @@ summary: ''
 
 (1) A person seeking permission to bring judicial review proceedings before the Upper Tribunal under section 16 of the 2007 Act must make a written application to the Upper Tribunal for such permission.
 
-(2) Subject to paragraph (3), an application under paragraph (1) must be made promptly and, unless any other enactment specifies a shorter time limit, must be sent or delivered to the Upper Tribunal so that it is received no later than 3 months after the date of the decision, action or omission[^key-d2a93b7eea867bdfaeac75f9c67b065f] to which the application relates.
+(2) Subject to paragraph (3), an application under paragraph (1) must be made promptly and, unless any other enactment specifies a shorter time limit, must be sent or delivered to the Upper Tribunal so that it is received no later than 3 months after the date of the decision, action or omission[^c-d2a93b7eea867bdfaeac75f9c67b065f] to which the application relates.
 
 (3) An application for permission to bring judicial review proceedings challenging a decision of the First-tier Tribunal may be made later than the time required by paragraph (2) if it is made within 1 month after the date on which the First-tier Tribunal sent—
 
@@ -47,12 +47,12 @@ summary: ''
 - (a) the application must include a request for an extension of time and the reason why the application was not provided in time; and
 - (b) unless the Upper Tribunal extends time for the application under rule 5(3)(a) (power to extend time) the Upper Tribunal must not admit the application.
 
-(8) Except where rule 28A(2)(a) (special provisions for[^key-2e14fe6185d1d9bc15c90b8e551bc135] immigration judicial review[^key-712498f56efbfa9a360afc185c64dbd4] proceedings) applies, when the Upper Tribunal receives the application it must send a copy of the application and any accompanying documents to each person named in the application as a respondent or interested party.
+(8) Except where rule 28A(2)(a) (special provisions for[^c-2e14fe6185d1d9bc15c90b8e551bc135] immigration judicial review[^c-712498f56efbfa9a360afc185c64dbd4] proceedings) applies, when the Upper Tribunal receives the application it must send a copy of the application and any accompanying documents to each person named in the application as a respondent or interested party.
 
 ## Annotations
 
-[^key-d2a93b7eea867bdfaeac75f9c67b065f]: Textual amendment: Words in rule 28(2) inserted (1.4.2009) by [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [17](https://www.legislation.gov.uk/uksi/2009/274/article/17)
+[^c-d2a93b7eea867bdfaeac75f9c67b065f]: Textual amendment: Words in rule 28(2) inserted (1.4.2009) by [Tribunal Procedure (Amendment) Rules 2009 (S.I. 2009/274)](https://www.legislation.gov.uk/uksi/2009/274), [rules 1](https://www.legislation.gov.uk/uksi/2009/274/article/1), [17](https://www.legislation.gov.uk/uksi/2009/274/article/17)
 
-[^key-2e14fe6185d1d9bc15c90b8e551bc135]: Textual amendment: Words in rule 28(8) inserted (17.10.2011) by [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2011 (S.I. 2011/2343)](https://www.legislation.gov.uk/uksi/2011/2343), [rules 1](https://www.legislation.gov.uk/uksi/2011/2343/article/1), [7](https://www.legislation.gov.uk/uksi/2011/2343/rule/7)
+[^c-2e14fe6185d1d9bc15c90b8e551bc135]: Textual amendment: Words in rule 28(8) inserted (17.10.2011) by [The Tribunal Procedure (Upper Tribunal) (Amendment) Rules 2011 (S.I. 2011/2343)](https://www.legislation.gov.uk/uksi/2011/2343), [rules 1](https://www.legislation.gov.uk/uksi/2011/2343/article/1), [7](https://www.legislation.gov.uk/uksi/2011/2343/rule/7)
 
-[^key-712498f56efbfa9a360afc185c64dbd4]: Textual amendment: Words in [rule 28(8)](https://www.legislation.gov.uk/uksi/2008/2698/rule/28/8) substituted (1.11.2013) by [The Tribunal Procedure (Amendment No. 4) Rules 2013 (S.I. 2013/2067)](https://www.legislation.gov.uk/uksi/2013/2067), [rules 1](https://www.legislation.gov.uk/uksi/2013/2067/article/1), [10](https://www.legislation.gov.uk/uksi/2013/2067/rule/10)
+[^c-712498f56efbfa9a360afc185c64dbd4]: Textual amendment: Words in [rule 28(8)](https://www.legislation.gov.uk/uksi/2008/2698/rule/28/8) substituted (1.11.2013) by [The Tribunal Procedure (Amendment No. 4) Rules 2013 (S.I. 2013/2067)](https://www.legislation.gov.uk/uksi/2013/2067), [rules 1](https://www.legislation.gov.uk/uksi/2013/2067/article/1), [10](https://www.legislation.gov.uk/uksi/2013/2067/rule/10)

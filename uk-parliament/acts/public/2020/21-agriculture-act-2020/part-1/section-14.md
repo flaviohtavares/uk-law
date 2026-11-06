@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Secretary of State may by regulations modify the following legislation so far as it operates in relation to England—
 
-- (a) assimilated direct[^key-d25efc0971d5707adca73ea31e3eaa57] legislation relating to the financing, management and monitoring of the common agricultural policy, and
+- (a) assimilated direct[^c-d25efc0971d5707adca73ea31e3eaa57] legislation relating to the financing, management and monitoring of the common agricultural policy, and
 - (b) subordinate legislation relating to that legislation.
 
 (2) Regulations under this section may only be made for or in connection with making changes that the Secretary of State considers would serve any one or more of the following purposes—
@@ -55,4 +55,4 @@ summary: ''
 
 [^c24386081]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2020/21/section/14) in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-d25efc0971d5707adca73ea31e3eaa57]: Textual amendment: Words in s. 14 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/b)
+[^c-d25efc0971d5707adca73ea31e3eaa57]: Textual amendment: Words in s. 14 substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/b)

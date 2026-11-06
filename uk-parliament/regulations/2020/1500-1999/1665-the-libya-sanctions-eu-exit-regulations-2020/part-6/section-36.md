@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Port access or entry for UN designated ships[^key-f8341b909d248d4f03a5f3a9b7b43b3f]
+## 36. Port access or entry for UN designated ships[^c-f8341b909d248d4f03a5f3a9b7b43b3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8341b909d248d4f03a5f3a9b7b43b3f]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-f8341b909d248d4f03a5f3a9b7b43b3f]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

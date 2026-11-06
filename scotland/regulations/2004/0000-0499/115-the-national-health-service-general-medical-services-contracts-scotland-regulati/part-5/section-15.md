@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Essential services[^key-4a605e92488b90fbc1b1d4987cb2ddfd]
+## 15. Essential services[^c-4a605e92488b90fbc1b1d4987cb2ddfd]
 
 *Extent: S*
 
@@ -64,7 +64,7 @@ delivered in the manner determined by the practice in discussion with the patien
 
 ## Annotations
 
-[^key-4a605e92488b90fbc1b1d4987cb2ddfd]: Commencement: Reg. 15 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-4a605e92488b90fbc1b1d4987cb2ddfd]: Commencement: Reg. 15 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00050]: Footnote: Section 17K was inserted by the 2004 Act, section 4.
 

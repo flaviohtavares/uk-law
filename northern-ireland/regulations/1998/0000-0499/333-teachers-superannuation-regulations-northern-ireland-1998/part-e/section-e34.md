@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E34. Benefits not assignable[^key-0ba7be396baa03da8f32e7e2da07b025]
+## E34. Benefits not assignable[^c-0ba7be396baa03da8f32e7e2da07b025]
 
 *Extent: N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0ba7be396baa03da8f32e7e2da07b025]: Commencement: Reg. E34 in operation at 2.11.1998, see reg. A1
+[^c-0ba7be396baa03da8f32e7e2da07b025]: Commencement: Reg. E34 in operation at 2.11.1998, see reg. A1
 
 [^f00026]: Footnote: [S.I. 1978/1045 (N.I. 15)](https://www.legislation.gov.uk/nisi/1978/1045); Articles 27B, 27C and 27D were inserted by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213) Article 162(1)
 

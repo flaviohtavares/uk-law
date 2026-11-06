@@ -36,7 +36,7 @@ Employment
 
 Parental Bereavement
 
-The Parental Bereavement Leave Regulations (Northern Ireland) 2022 (revoked)[^key-01d2661bea7f2aa14e920610b70eed39]
+The Parental Bereavement Leave Regulations (Northern Ireland) 2022 (revoked)[^c-01d2661bea7f2aa14e920610b70eed39]
 
 Made
 
@@ -46,82 +46,82 @@ Coming into operation
 
 6th April 2022
 
-[^key-01d2661bea7f2aa14e920610b70eed39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01d2661bea7f2aa14e920610b70eed39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — GENERAL[^key-01d2661bea7f2aa14e920610b70eed39]
+## PART 1 — GENERAL[^c-01d2661bea7f2aa14e920610b70eed39]
 
-### 1. Citation and commencement[^key-01d2661bea7f2aa14e920610b70eed39]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Application[^key-01d2661bea7f2aa14e920610b70eed39]
+### 1. Citation and commencement[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-01d2661bea7f2aa14e920610b70eed39]
+### 2. Application[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — ENTITLEMENT TO PARENTAL BEREAVEMENT LEAVE[^key-01d2661bea7f2aa14e920610b70eed39]
-
-### 4. Entitlement to parental bereavement leave[^key-01d2661bea7f2aa14e920610b70eed39]
+### 3. Interpretation[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Options in respect of parental bereavement leave[^key-01d2661bea7f2aa14e920610b70eed39]
+## PART 2 — ENTITLEMENT TO PARENTAL BEREAVEMENT LEAVE[^c-01d2661bea7f2aa14e920610b70eed39]
+
+### 4. Entitlement to parental bereavement leave[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Notice requirements for parental bereavement leave[^key-01d2661bea7f2aa14e920610b70eed39]
+### 5. Options in respect of parental bereavement leave[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Commencement of parental bereavement leave[^key-01d2661bea7f2aa14e920610b70eed39]
+### 6. Notice requirements for parental bereavement leave[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Commencement of other statutory leave[^key-01d2661bea7f2aa14e920610b70eed39]
+### 7. Commencement of parental bereavement leave[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — TAKING PARENTAL BEREAVEMENT LEAVE[^key-01d2661bea7f2aa14e920610b70eed39]
-
-### 9. Application of terms and conditions during parental bereavement leave[^key-01d2661bea7f2aa14e920610b70eed39]
+### 8. Commencement of other statutory leave[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Right to return after parental bereavement leave[^key-01d2661bea7f2aa14e920610b70eed39]
+## PART 3 — TAKING PARENTAL BEREAVEMENT LEAVE[^c-01d2661bea7f2aa14e920610b70eed39]
+
+### 9. Application of terms and conditions during parental bereavement leave[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Right to return after parental bereavement leave: supplementary[^key-01d2661bea7f2aa14e920610b70eed39]
+### 10. Right to return after parental bereavement leave[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Protection from detriment[^key-01d2661bea7f2aa14e920610b70eed39]
+### 11. Right to return after parental bereavement leave: supplementary[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Unfair Dismissal[^key-01d2661bea7f2aa14e920610b70eed39]
+### 12. Protection from detriment[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Calculation of a week’s pay for the purposes of Chapter 4 of Part 1 of the 1996 Order[^key-01d2661bea7f2aa14e920610b70eed39]
+### 13. Unfair Dismissal[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — CONTRACTUAL RIGHTS[^key-01d2661bea7f2aa14e920610b70eed39]
-
-### 15. Contractual rights to parental bereavement leave[^key-01d2661bea7f2aa14e920610b70eed39]
+### 14. Calculation of a week’s pay for the purposes of Chapter 4 of Part 1 of the 1996 Order[^c-01d2661bea7f2aa14e920610b70eed39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01d2661bea7f2aa14e920610b70eed39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 4 — CONTRACTUAL RIGHTS[^c-01d2661bea7f2aa14e920610b70eed39]
 
-[^key-01d2661bea7f2aa14e920610b70eed39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 15. Contractual rights to parental bereavement leave[^c-01d2661bea7f2aa14e920610b70eed39]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-01d2661bea7f2aa14e920610b70eed39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-01d2661bea7f2aa14e920610b70eed39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01d2661bea7f2aa14e920610b70eed39]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2022/166) revoked (3.10.2022) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/237)](https://www.legislation.gov.uk/nisr/2022/237), [regs. 1](https://www.legislation.gov.uk/nisr/2022/237/regulation/1), [22](https://www.legislation.gov.uk/nisr/2022/237/regulation/22)
+[^c-01d2661bea7f2aa14e920610b70eed39]: Textual amendment: [Regulation](https://www.legislation.gov.uk/nisr/2022/166) revoked (3.10.2022) by [The Parental Bereavement Leave (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/237)](https://www.legislation.gov.uk/nisr/2022/237), [regs. 1](https://www.legislation.gov.uk/nisr/2022/237/regulation/1), [22](https://www.legislation.gov.uk/nisr/2022/237/regulation/22)

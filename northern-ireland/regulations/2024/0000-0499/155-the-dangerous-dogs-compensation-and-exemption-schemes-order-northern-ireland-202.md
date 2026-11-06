@@ -44,11 +44,11 @@ The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the 
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and Commencement[^key-c67b1c386b5274259d706ab469f67c02]
+### 1. Citation and Commencement[^c-c67b1c386b5274259d706ab469f67c02]
 
 This Order may be cited as the Dangerous Dogs (Compensation and Exemption Schemes) Order (Northern Ireland) 2024 and comes into operation on 9th August 2024.
 
-### 2. Interpretation[^key-75c8b3329957d1d38cb35ac213a1b4e7]
+### 2. Interpretation[^c-75c8b3329957d1d38cb35ac213a1b4e7]
 
 In this Order—
 
@@ -65,7 +65,7 @@ In this Order—
 
 ## PART 2 — COMPENSATION SCHEME
 
-### 3. Application for compensation by the keeper[^key-f4de0a89791da445a0953152c6bae9f8]
+### 3. Application for compensation by the keeper[^c-f4de0a89791da445a0953152c6bae9f8]
 
 (1) The keeper of a dog who has arranged for the dog to be euthanised by a veterinary surgeon before the appointed day may apply to the Department for the payment of the sums specified in paragraph (3).
 
@@ -82,7 +82,7 @@ In this Order—
 - (a) £100 in respect of the dog; and
 - (b) £100 in respect of the cost of euthanising the dog.
 
-### 4. Application for compensation by a rehoming organisation[^key-e79cf02cc923cf5b7d5eb320433b8e69]
+### 4. Application for compensation by a rehoming organisation[^c-e79cf02cc923cf5b7d5eb320433b8e69]
 
 (1) A rehoming organisation who has arranged for the dog to be euthanised by a veterinary surgeon before the appointed day may apply to the Department for the payment of £100 in respect of the cost of euthanising the dog.
 
@@ -96,7 +96,7 @@ In this Order—
 
 ## PART 3 — EXEMPTION SCHEME
 
-### 5. Exemption from the prohibitions in Article 25A(3) of the Order[^key-4db3fb9ea96508f6bc6409b0df1cf7f6]
+### 5. Exemption from the prohibitions in Article 25A(3) of the Order[^c-4db3fb9ea96508f6bc6409b0df1cf7f6]
 
 (1) The prohibition in Article 25A(3) of the Order does not apply to a dog if paragraph 2, 3 or 4 apply.
 
@@ -124,7 +124,7 @@ In this Order—
   - (ii) the date on which an application made under Article 6(7) is refused by the district council; or
   - (iii) the date which is three months after the original keeper’s date of death, where no such application is made at or before the appointed day.
 
-### 6. Application for a certificate of exemption[^key-7fbe25344d7dedddca8fd07ff924cae9]
+### 6. Application for a certificate of exemption[^c-7fbe25344d7dedddca8fd07ff924cae9]
 
 (1) The keeper of a dog may apply to the district council for a certificate of exemption in the respect of that dog.
 
@@ -159,7 +159,7 @@ In this Order—
 - (a) is made and the application fee is paid within three months from the date of death of the keeper; and
 - (b) meets the requirements in paragraphs (3) and (4).
 
-### 7. Certificate of exemption[^key-e6d08a2468a067e60294fee4d8f8c50f]
+### 7. Certificate of exemption[^c-e6d08a2468a067e60294fee4d8f8c50f]
 
 A certificate of exemption must—
 
@@ -176,21 +176,21 @@ A certificate of exemption must—
   - (ii) where, in the event of a fire or other emergency, the dog is relocated from the premises specified in the certificate to other premises, to notify the district council in writing of the change of premises and the address of the premises to which the dog has been relocated;
 - (e) include the conditions listed at sub-paragraphs (i)-(ix)—
   - (i) to notify the district council of the death or export of the dog;
-  - (ii)[^key-c6c1250e4d4d58288c0940dcf2e88603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-c6c1250e4d4d58288c0940dcf2e88603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) to keep the dog muzzled and on a lead when in a public place;
   - (iv) to keep the dog in sufficiently secure conditions to prevent its escape;
-  - (iva)[^key-b65a299ae07cdb300eab44f147da46fb] to ensure that the dog does not come into close contact with a child under the age of 12 in any place, other than a public place, unless the dog or the child is being supervised by a person (whether the holder of the certificate or some other person) who is over the age of 18;
+  - (iva)[^c-b65a299ae07cdb300eab44f147da46fb] to ensure that the dog does not come into close contact with a child under the age of 12 in any place, other than a public place, unless the dog or the child is being supervised by a person (whether the holder of the certificate or some other person) who is over the age of 18;
   - (v) to provide access to the dog for the purposes of reading a microchip on request by an officer;
-  - (vi)[^key-7260a875217b226529bda01f8618917c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi)[^c-7260a875217b226529bda01f8618917c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vii) to produce to an officer the certificate of exemption within five days of being requested to do so by that officer;
   - (viii) to satisfy the district council that the requirement in Article 9 has been met in respect of the dog; and
   - (ix) where applicable, to satisfy the district council that the requirements in Article 10 have been met in respect of the dog.
 
-### 8. Third-party insurance[^key-52163f482867339a9f138f45f7e7923a]
+### 8. Third-party insurance[^c-52163f482867339a9f138f45f7e7923a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Neutering[^key-fd4bb93458354e230db046d0bc90f85f]
+### 9. Neutering[^c-fd4bb93458354e230db046d0bc90f85f]
 
 (1) The holder of a certificate of exemption must, on or before the date specified in paragraph (2)(b), provide the district council with such evidence as the district council may reasonably require that the dog in respect of which the certificate has been issued has been neutered.
 
@@ -208,7 +208,7 @@ A certificate of exemption must—
   - (i) the date on which the certificate of exemption is issued; or
   - (ii) the date on which the dog reaches the age of 18 months; whichever is the later.
 
-### 10. Microchipping[^key-608d18e49552aa1f533817ff0f9f0308]
+### 10. Microchipping[^c-608d18e49552aa1f533817ff0f9f0308]
 
 (1) This Article applies where—
 
@@ -226,7 +226,7 @@ A certificate of exemption must—
 
 (5) For the purposes of this Article, a dog is only unfit to be microchipped if a certificate has been issued in respect of the dog under Article 6(9) of the Order.
 
-### 11. Rehoming organisations – change of premises[^key-60b88925ed57e3e81172b7f6621e570e]
+### 11. Rehoming organisations – change of premises[^c-60b88925ed57e3e81172b7f6621e570e]
 
 (1) This Article applies where a rehoming organisation has obtained a certificate of exemption and relocates the dog to which the certificate relates from the premises referred to in the certificate to other premises occupied by the holder for any reason other than an emergency.
 
@@ -238,7 +238,7 @@ A certificate of exemption must—
 
 (5) When the district council approves the variation of a certificate of exemption, the district council must issue a replacement certificate.
 
-### 12. Further provision about certificates of exemption[^key-24971efe616ba5247adf4189fc1acc98]
+### 12. Further provision about certificates of exemption[^c-24971efe616ba5247adf4189fc1acc98]
 
 The district council may issue a new certificate of exemption to replace an existing certificate of exemption that was issued in respect of a dog where—
 
@@ -287,34 +287,34 @@ Article 12 makes provision for replacement certificates to be issued in certain 
 
 [^f00002]: Footnote: [S.I. 1983/764 (N.I. 8)](https://www.legislation.gov.uk/nisi/1983/764). Article 25A was inserted by [S.I. 1991/2292 (N.I. 21)](https://www.legislation.gov.uk/nisi/1991/2292).
 
-[^key-c67b1c386b5274259d706ab469f67c02]: Commencement: Art. 1 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-c67b1c386b5274259d706ab469f67c02]: Commencement: Art. 1 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
-[^key-75c8b3329957d1d38cb35ac213a1b4e7]: Commencement: Art. 2 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-75c8b3329957d1d38cb35ac213a1b4e7]: Commencement: Art. 2 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
 [^f00003]: Footnote: [1966 c. 36](https://www.legislation.gov.uk/ukpga/1966/36) section 2(2) was amended by paragraph 1 of the Schedule to [S.I. 2003/2919](https://www.legislation.gov.uk/uksi/2003/2919), paragraph 2(a) and (b) of the Schedule to [S.I. 2008/1824](https://www.legislation.gov.uk/uksi/2008/1824) and regulation 2(3) of [S.I. 2019/454](https://www.legislation.gov.uk/uksi/2019/454).
 
-[^key-f4de0a89791da445a0953152c6bae9f8]: Commencement: Art. 3 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-f4de0a89791da445a0953152c6bae9f8]: Commencement: Art. 3 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
-[^key-e79cf02cc923cf5b7d5eb320433b8e69]: Commencement: Art. 4 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-e79cf02cc923cf5b7d5eb320433b8e69]: Commencement: Art. 4 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
-[^key-4db3fb9ea96508f6bc6409b0df1cf7f6]: Commencement: Art. 5 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-4db3fb9ea96508f6bc6409b0df1cf7f6]: Commencement: Art. 5 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
-[^key-7fbe25344d7dedddca8fd07ff924cae9]: Commencement: Art. 6 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-7fbe25344d7dedddca8fd07ff924cae9]: Commencement: Art. 6 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
-[^key-e6d08a2468a067e60294fee4d8f8c50f]: Commencement: Art. 7 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-e6d08a2468a067e60294fee4d8f8c50f]: Commencement: Art. 7 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
-[^key-c6c1250e4d4d58288c0940dcf2e88603]: Textual amendment: [Art. 7(e)(ii)](https://www.legislation.gov.uk/nisr/2024/155/article/7/e/ii) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/a)
+[^c-c6c1250e4d4d58288c0940dcf2e88603]: Textual amendment: [Art. 7(e)(ii)](https://www.legislation.gov.uk/nisr/2024/155/article/7/e/ii) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2), [3(2)(a)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/a)
 
-[^key-b65a299ae07cdb300eab44f147da46fb]: Textual amendment: [Art. 7(e)(iva)](https://www.legislation.gov.uk/nisr/2024/155/article/7/e) inserted (1.11.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2026/124/article/1/3), [3(2)(b)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/b)
+[^c-b65a299ae07cdb300eab44f147da46fb]: Textual amendment: [Art. 7(e)(iva)](https://www.legislation.gov.uk/nisr/2024/155/article/7/e) inserted (1.11.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(3)](https://www.legislation.gov.uk/nisr/2026/124/article/1/3), [3(2)(b)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/b)
 
-[^key-7260a875217b226529bda01f8618917c]: Textual amendment: [Art. 7(e)(vi)](https://www.legislation.gov.uk/nisr/2024/155/article/7/e/vi) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/c)
+[^c-7260a875217b226529bda01f8618917c]: Textual amendment: [Art. 7(e)(vi)](https://www.legislation.gov.uk/nisr/2024/155/article/7/e/vi) omitted (1.7.2026) by virtue of [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/nisr/2026/124/article/3/2/c)
 
-[^key-52163f482867339a9f138f45f7e7923a]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisr/2024/155/article/8) repealed (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2026/124/article/3/3)
+[^c-52163f482867339a9f138f45f7e7923a]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisr/2024/155/article/8) repealed (1.7.2026) by [The Dangerous Dogs (Compensation and Exemption Schemes) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/124)](https://www.legislation.gov.uk/nisr/2026/124), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2026/124/article/1/2), [3(3)](https://www.legislation.gov.uk/nisr/2026/124/article/3/3)
 
-[^key-fd4bb93458354e230db046d0bc90f85f]: Commencement: Art. 9 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-fd4bb93458354e230db046d0bc90f85f]: Commencement: Art. 9 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
-[^key-608d18e49552aa1f533817ff0f9f0308]: Commencement: Art. 10 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-608d18e49552aa1f533817ff0f9f0308]: Commencement: Art. 10 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
-[^key-60b88925ed57e3e81172b7f6621e570e]: Commencement: Art. 11 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-60b88925ed57e3e81172b7f6621e570e]: Commencement: Art. 11 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
 
-[^key-24971efe616ba5247adf4189fc1acc98]: Commencement: Art. 12 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)
+[^c-24971efe616ba5247adf4189fc1acc98]: Commencement: Art. 12 in operation at 9.8.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/155/article/1)

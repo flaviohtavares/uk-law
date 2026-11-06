@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Use of “university” in title of institution[^key-2b3f75c3dcbf8943f1b64168c6ca4db1]
+## 56. Use of “university” in title of institution[^c-2b3f75c3dcbf8943f1b64168c6ca4db1]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b3f75c3dcbf8943f1b64168c6ca4db1]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2017/29/section/56) in force at 1.4.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/3/a) (with transitional and saving provisions in [S.I. 2018/1225](https://www.legislation.gov.uk/uksi/2018/1225), reg. 2)
+[^c-2b3f75c3dcbf8943f1b64168c6ca4db1]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2017/29/section/56) in force at 1.4.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/3/a) (with transitional and saving provisions in [S.I. 2018/1225](https://www.legislation.gov.uk/uksi/2018/1225), reg. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Compulsory acquisition of land[^key-41ce76e6f26a2c4a8e0e90251bad641a]
+## 20. Compulsory acquisition of land[^c-41ce76e6f26a2c4a8e0e90251bad641a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41ce76e6f26a2c4a8e0e90251bad641a]: Commencement: Art. 20 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-41ce76e6f26a2c4a8e0e90251bad641a]: Commencement: Art. 20 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

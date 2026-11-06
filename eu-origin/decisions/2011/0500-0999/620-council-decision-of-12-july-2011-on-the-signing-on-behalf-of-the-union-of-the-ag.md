@@ -35,16 +35,16 @@ on the signing, on behalf of the Union, of the Agreement between the European Un
 
 (2011/620/EU) (revoked)
 
-[^key-65ecf6f220cde24e26e815d288e488bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65ecf6f220cde24e26e815d288e488bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-65ecf6f220cde24e26e815d288e488bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-65ecf6f220cde24e26e815d288e488bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-65ecf6f220cde24e26e815d288e488bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-65ecf6f220cde24e26e815d288e488bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-65ecf6f220cde24e26e815d288e488bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-65ecf6f220cde24e26e815d288e488bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-65ecf6f220cde24e26e815d288e488bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65ecf6f220cde24e26e815d288e488bb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65ecf6f220cde24e26e815d288e488bb]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 29](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65ecf6f220cde24e26e815d288e488bb]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 29](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

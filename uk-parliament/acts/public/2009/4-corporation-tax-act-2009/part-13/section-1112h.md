@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1112H. No credit payable if certain tax matters outstanding[^key-d97014fbc62f1640573c340ed1dea23b]
+## 1112H. No credit payable if certain tax matters outstanding[^c-d97014fbc62f1640573c340ed1dea23b]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ for payment periods ending in the accounting period.
 
 ## Annotations
 
-[^key-d97014fbc62f1640573c340ed1dea23b]: Textual amendment: [Pt. 13 Ch. 8](https://www.legislation.gov.uk/ukpga/2009/4/part/13/chapter/8) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 8](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/8), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-d97014fbc62f1640573c340ed1dea23b]: Textual amendment: [Pt. 13 Ch. 8](https://www.legislation.gov.uk/ukpga/2009/4/part/13/chapter/8) substituted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 8](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/8), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)

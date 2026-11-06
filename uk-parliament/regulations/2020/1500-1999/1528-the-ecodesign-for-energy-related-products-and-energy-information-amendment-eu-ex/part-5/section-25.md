@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Amendment to Commission Delegated Regulation (EU) 2019/2015[^key-f4e4a6af1c0d92b52630d6a10e008883]
+## 25. Amendment to Commission Delegated Regulation (EU) 2019/2015[^c-f4e4a6af1c0d92b52630d6a10e008883]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 10 (entry into force and application) of Commission Delegated Regu
 
 ## Annotations
 
-[^key-f4e4a6af1c0d92b52630d6a10e008883]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)
+[^c-f4e4a6af1c0d92b52630d6a10e008883]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, s 39(1)), see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4)

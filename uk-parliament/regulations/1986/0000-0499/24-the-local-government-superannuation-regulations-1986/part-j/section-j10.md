@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J10. Increase in return of contributions[^key-9e077542a9da29bd6fdd048fce91a46a]
+## J10. Increase in return of contributions[^c-9e077542a9da29bd6fdd048fce91a46a]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ the sum due to him under regulation C12(3) to (5) shall be increased by an amoun
 
 ## Annotations
 
-[^key-9e077542a9da29bd6fdd048fce91a46a]: Commencement: [Reg. J10](https://www.legislation.gov.uk/uksi/1986/24/regulation/J10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-9e077542a9da29bd6fdd048fce91a46a]: Commencement: [Reg. J10](https://www.legislation.gov.uk/uksi/1986/24/regulation/J10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

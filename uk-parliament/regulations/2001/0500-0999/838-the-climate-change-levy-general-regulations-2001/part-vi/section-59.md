@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Transfers of going concerns[^key-00ba3dec8ae5253077e9fd3bbf3cc5c4]
+## 59. Transfers of going concerns[^c-00ba3dec8ae5253077e9fd3bbf3cc5c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ the Commissioners may, with effect from the date of the transfer, cancel the reg
 (2) Should the Commissioners cancel the registration of the transferor and register the transferee in his place under paragraph (1) then, in order to secure continuity in the application of the Act—
 
 - (a) any liability of the transferor existing at the date of the transfer to make a return or account for or pay CCL shall become the liability of the transferee;
-- (b) any entitlement of the transferor, whether or not existing at the date of the transfer, to a tax credit or repayment under the Act, Part II of these Regulations or Schedule 1[^key-0eec785dccda9b8ca6251fa2eb5929cd] to these Regulations shall become the entitlement of the transferee;
+- (b) any entitlement of the transferor, whether or not existing at the date of the transfer, to a tax credit or repayment under the Act, Part II of these Regulations or Schedule 1[^c-0eec785dccda9b8ca6251fa2eb5929cd] to these Regulations shall become the entitlement of the transferee;
 - (c) any other provision by or under the Act relating to CCL that applied to the transferor before his registration was cancelled (or any such provision that continues to apply to the transferor after that cancellation) shall apply to the transferee; and
 - (d) any circumstances relating to the application of the Act (or any provision made under the Act) to the CCL affairs of the transferor before his registration was cancelled (or any such circumstances that continue to apply to the transferor after that cancellation) shall apply to the transferee.
 
@@ -48,6 +48,6 @@ the Commissioners may, with effect from the date of the transfer, cancel the reg
 
 ## Annotations
 
-[^key-00ba3dec8ae5253077e9fd3bbf3cc5c4]: Commencement: Reg. 59 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-00ba3dec8ae5253077e9fd3bbf3cc5c4]: Commencement: Reg. 59 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
 
-[^key-0eec785dccda9b8ca6251fa2eb5929cd]: Textual amendment: Words in [reg. 59(2)(b)](https://www.legislation.gov.uk/uksi/2001/838/regulation/59/2/b) substituted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/604/regulation/4)
+[^c-0eec785dccda9b8ca6251fa2eb5929cd]: Textual amendment: Words in [reg. 59(2)(b)](https://www.legislation.gov.uk/uksi/2001/838/regulation/59/2/b) substituted (1.4.2003) by [The Climate Change Levy (General) (Amendment) Regulations 2003 (S.I. 2003/604)](https://www.legislation.gov.uk/uksi/2003/604), [regs. 1](https://www.legislation.gov.uk/uksi/2003/604/regulation/1), [4](https://www.legislation.gov.uk/uksi/2003/604/regulation/4)

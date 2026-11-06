@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Sums received in exchange for electronic money[^key-5e744c7ca2653c2ff8f8fb938569cfd4]
+## 9A. Sums received in exchange for electronic money[^c-5e744c7ca2653c2ff8f8fb938569cfd4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A sum is not a deposit for the purposes of article 5 if it is immediately exchan
 
 ## Annotations
 
-[^key-5e744c7ca2653c2ff8f8fb938569cfd4]: Textual amendment: Art. 9A inserted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [3(2)](https://www.legislation.gov.uk/uksi/2002/682/article/3/2)
+[^c-5e744c7ca2653c2ff8f8fb938569cfd4]: Textual amendment: Art. 9A inserted (27.4.2002) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2002 (S.I. 2002/682)](https://www.legislation.gov.uk/uksi/2002/682), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2002/682/article/1/2/b), [3(2)](https://www.legislation.gov.uk/uksi/2002/682/article/3/2)

@@ -32,7 +32,7 @@ summary: ''
 
 Animals
 
-The Animals (Scientific Procedures) Act 1986 (Fees) Order 2012 (revoked)[^key-0ba74d0e2a266f684c15d1f9d1447809]
+The Animals (Scientific Procedures) Act 1986 (Fees) Order 2012 (revoked)[^c-0ba74d0e2a266f684c15d1f9d1447809]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st January 2013
 
-[^key-0ba74d0e2a266f684c15d1f9d1447809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ba74d0e2a266f684c15d1f9d1447809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-0ba74d0e2a266f684c15d1f9d1447809]
+## 1. Citation, commencement and extent[^c-0ba74d0e2a266f684c15d1f9d1447809]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees payable under the Animals (Scientific Procedures) Act 1986.[^key-0ba74d0e2a266f684c15d1f9d1447809]
+## 2. Fees payable under the Animals (Scientific Procedures) Act 1986.[^c-0ba74d0e2a266f684c15d1f9d1447809]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0ba74d0e2a266f684c15d1f9d1447809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0ba74d0e2a266f684c15d1f9d1447809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-0ba74d0e2a266f684c15d1f9d1447809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0ba74d0e2a266f684c15d1f9d1447809] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0ba74d0e2a266f684c15d1f9d1447809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ba74d0e2a266f684c15d1f9d1447809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0ba74d0e2a266f684c15d1f9d1447809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0ba74d0e2a266f684c15d1f9d1447809]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0ba74d0e2a266f684c15d1f9d1447809]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3050) revoked (1.4.2013) by [The Animals (Scientific Procedures) Act 1986 (Fees) Order 2013 (S.I. 2013/509)](https://www.legislation.gov.uk/uksi/2013/509), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/509/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/509/article/3)
+[^c-0ba74d0e2a266f684c15d1f9d1447809]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3050) revoked (1.4.2013) by [The Animals (Scientific Procedures) Act 1986 (Fees) Order 2013 (S.I. 2013/509)](https://www.legislation.gov.uk/uksi/2013/509), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/509/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/509/article/3)

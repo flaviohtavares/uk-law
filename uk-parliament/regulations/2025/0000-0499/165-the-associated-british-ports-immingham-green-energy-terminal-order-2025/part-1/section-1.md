@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-0e3507c3208c8a7af3d5d25bb74b2130]
+## 1. Citation and commencement[^c-0e3507c3208c8a7af3d5d25bb74b2130]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Associated British Ports (Immingham Green Energy 
 
 ## Annotations
 
-[^key-0e3507c3208c8a7af3d5d25bb74b2130]: Commencement: Art. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-0e3507c3208c8a7af3d5d25bb74b2130]: Commencement: Art. 1 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Funding and charges[^key-d20b2a226c2c8aaaecf8c5d414de5427][^key-fb8079cc639b8d1ac46b5c7452403821]
+## 74. Funding and charges[^c-d20b2a226c2c8aaaecf8c5d414de5427][^c-fb8079cc639b8d1ac46b5c7452403821]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d20b2a226c2c8aaaecf8c5d414de5427]: Commencement: Art. 74 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-d20b2a226c2c8aaaecf8c5d414de5427]: Commencement: Art. 74 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-fb8079cc639b8d1ac46b5c7452403821]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2018/1253/article/74) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-fb8079cc639b8d1ac46b5c7452403821]: Commencement: [Art. 74](https://www.legislation.gov.uk/uksi/2018/1253/article/74) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

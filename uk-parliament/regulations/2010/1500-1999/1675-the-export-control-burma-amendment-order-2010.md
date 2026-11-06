@@ -32,7 +32,7 @@ summary: ''
 
 Customs
 
-The Export Control (Burma) (Amendment) Order 2010 (revoked)[^key-e167e4a402fc84ef50457b54761dc28a]
+The Export Control (Burma) (Amendment) Order 2010 (revoked)[^c-e167e4a402fc84ef50457b54761dc28a]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 26th June 2010
 
-[^key-e167e4a402fc84ef50457b54761dc28a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e167e4a402fc84ef50457b54761dc28a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-e167e4a402fc84ef50457b54761dc28a]
+## 1.[^c-e167e4a402fc84ef50457b54761dc28a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-e167e4a402fc84ef50457b54761dc28a]
+## 2.[^c-e167e4a402fc84ef50457b54761dc28a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-e167e4a402fc84ef50457b54761dc28a]
+## 3.[^c-e167e4a402fc84ef50457b54761dc28a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e167e4a402fc84ef50457b54761dc28a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e167e4a402fc84ef50457b54761dc28a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e167e4a402fc84ef50457b54761dc28a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e167e4a402fc84ef50457b54761dc28a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e167e4a402fc84ef50457b54761dc28a]: Textual amendment: Order revoked (28.8.2013) by [The Export Control (Burma Sanctions) Order 2013 (S.I. 2013/1964)](https://www.legislation.gov.uk/uksi/2013/1964), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1964/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/1964/schedule)
+[^c-e167e4a402fc84ef50457b54761dc28a]: Textual amendment: Order revoked (28.8.2013) by [The Export Control (Burma Sanctions) Order 2013 (S.I. 2013/1964)](https://www.legislation.gov.uk/uksi/2013/1964), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1964/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/1964/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/1964/schedule)

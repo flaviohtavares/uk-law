@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — Streets and public rights of way to be temporarily stopped up[^key-5bf9db2cf065568964713d06e4812a89]
+## SCHEDULE 6 — Streets and public rights of way to be temporarily stopped up[^c-5bf9db2cf065568964713d06e4812a89]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ Table 7
 
 ## Annotations
 
-[^key-5bf9db2cf065568964713d06e4812a89]: Commencement: Sch. 6 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-5bf9db2cf065568964713d06e4812a89]: Commencement: Sch. 6 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

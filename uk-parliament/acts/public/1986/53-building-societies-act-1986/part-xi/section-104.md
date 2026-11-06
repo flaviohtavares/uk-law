@@ -24,7 +24,7 @@ summary: ''
 
 (2) The “**relevant provisions of this Act**” are the following provisions as for the time being in force, that is to say—
 
-- (za)[^key-c122e29ed688788d388b0b27de44b1e8] the provisions of Part 2 (but see subsection (3A));
+- (za)[^c-c122e29ed688788d388b0b27de44b1e8] the provisions of Part 2 (but see subsection (3A));
 - (a) so much of Part VI as relates to investigations or inspections;
 - (b) the provisions of Part VII (management);
 - (c) the provisions of Part VIII (accounts and audit); [^c15516851] . . .
@@ -37,7 +37,7 @@ summary: ''
 - (b) create criminal offences; or
 - (c) provide for the charging of fees but not any charge in the nature of taxation.
 
-(3A)[^key-d27c551cd50f2a8f96765f704218e903] The power conferred by subsection (1) by virtue of subsection (2)(za) is exercisable only for the purpose of making provision in relation to common seals and the execution of documents.
+(3A)[^c-d27c551cd50f2a8f96765f704218e903] The power conferred by subsection (1) by virtue of subsection (2)(za) is exercisable only for the purpose of making provision in relation to common seals and the execution of documents.
 
 (4) An order under this section may—
 
@@ -57,7 +57,7 @@ summary: ''
 
     S. 104: power exercised (4.12.1991) by [S.I. 1991/2738](https://www.legislation.gov.uk/uksi/1991/2738)
 
-[^key-c122e29ed688788d388b0b27de44b1e8]: Textual amendment: S. 104(2)(za) inserted (24.7.2024) by [Building Societies Act 1986 (Amendment) Act 2024 (c. 18)](https://www.legislation.gov.uk/ukpga/2024/18), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/3/2), [4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/3))
+[^c-c122e29ed688788d388b0b27de44b1e8]: Textual amendment: S. 104(2)(za) inserted (24.7.2024) by [Building Societies Act 1986 (Amendment) Act 2024 (c. 18)](https://www.legislation.gov.uk/ukpga/2024/18), [ss. 3(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/3/2), [4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/3))
 
 [^c15516851]: Textual amendment: Word in s. 104(2) omitted (1.10.1991) by virtue of [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [s. 211(1)](https://www.legislation.gov.uk/ukpga/1989/40/section/211/1); [S.I. 1991/1996](https://www.legislation.gov.uk/uksi/1991/1996), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/1991/1996/article/2/1/b)
 
@@ -65,4 +65,4 @@ summary: ''
 
 [^c15516871]: Textual amendment: Word in s. 104(2) and s. 104(2)(e) added (1.10.1991) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [s. 211(1)](https://www.legislation.gov.uk/ukpga/1989/40/section/211/1); [S.I. 1991/1996](https://www.legislation.gov.uk/uksi/1991/1996), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/1991/1996/article/2/1/b)
 
-[^key-d27c551cd50f2a8f96765f704218e903]: Textual amendment: S. 104(3A) inserted (24.7.2024) by [Building Societies Act 1986 (Amendment) Act 2024 (c. 18)](https://www.legislation.gov.uk/ukpga/2024/18), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2024/18/section/3/3), [4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/3))
+[^c-d27c551cd50f2a8f96765f704218e903]: Textual amendment: S. 104(3A) inserted (24.7.2024) by [Building Societies Act 1986 (Amendment) Act 2024 (c. 18)](https://www.legislation.gov.uk/ukpga/2024/18), [ss. 3(3)](https://www.legislation.gov.uk/ukpga/2024/18/section/3/3), [4(2)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/2) (with [s. 4(3)](https://www.legislation.gov.uk/ukpga/2024/18/section/4/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Restrictions on dealings during an inquiry[^key-5ecb70e7bf619b8b861490c045b8d38b]
+## 79. Restrictions on dealings during an inquiry[^c-5ecb70e7bf619b8b861490c045b8d38b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In paragraph 23 of Schedule 1 to the Housing Act 1996 (powers exercisable on int
 
 ## Annotations
 
-[^key-5ecb70e7bf619b8b861490c045b8d38b]: Commencement: [S. 79](https://www.legislation.gov.uk/mwa/2011/5/section/79) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)
+[^c-5ecb70e7bf619b8b861490c045b8d38b]: Commencement: [S. 79](https://www.legislation.gov.uk/mwa/2011/5/section/79) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(r)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/r)

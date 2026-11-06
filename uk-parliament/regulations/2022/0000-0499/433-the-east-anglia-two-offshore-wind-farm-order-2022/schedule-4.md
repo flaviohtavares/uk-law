@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Footpaths to be stopped up[^key-8f511d3f2b6062ec15529fb1e3378bcc]
+## SCHEDULE 4 — Footpaths to be stopped up[^c-8f511d3f2b6062ec15529fb1e3378bcc]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ Article 10
 
 ## Annotations
 
-[^key-8f511d3f2b6062ec15529fb1e3378bcc]: Commencement: Sch. 4 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)
+[^c-8f511d3f2b6062ec15529fb1e3378bcc]: Commencement: Sch. 4 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/433/article/1/2)

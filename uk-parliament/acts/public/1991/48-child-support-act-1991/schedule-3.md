@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Child Support Appeal Tribunals[^key-f35d965ee40118d6371d2aa0acbab79a]
+## SCHEDULE 3 — Child Support Appeal Tribunals[^c-f35d965ee40118d6371d2aa0acbab79a]
 
 *Extent: E+W+S*
 
@@ -24,36 +24,36 @@ summary: ''
 
 Section 21(4).
 
-### The President[^key-f35d965ee40118d6371d2aa0acbab79a]
+### The President[^c-f35d965ee40118d6371d2aa0acbab79a]
 
-**1.**[^key-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Membership of child support appeal tribunals[^key-f35d965ee40118d6371d2aa0acbab79a]
+### Membership of child support appeal tribunals[^c-f35d965ee40118d6371d2aa0acbab79a]
 
-**2.**[^key-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### The chairmen[^key-f35d965ee40118d6371d2aa0acbab79a]
+### The chairmen[^c-f35d965ee40118d6371d2aa0acbab79a]
 
-**3.**[^key-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Other members of child support appeal tribunals[^key-f35d965ee40118d6371d2aa0acbab79a]
+### Other members of child support appeal tribunals[^c-f35d965ee40118d6371d2aa0acbab79a]
 
-**5.**[^key-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Clerks of tribunals[^key-f35d965ee40118d6371d2aa0acbab79a]
+### Clerks of tribunals[^c-f35d965ee40118d6371d2aa0acbab79a]
 
-**6.**[^key-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Expenses of tribunal members and others[^key-f35d965ee40118d6371d2aa0acbab79a]
+### Expenses of tribunal members and others[^c-f35d965ee40118d6371d2aa0acbab79a]
 
-**7.**[^key-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Consultation with Lord Advocate[^key-f35d965ee40118d6371d2aa0acbab79a]
+### Consultation with Lord Advocate[^c-f35d965ee40118d6371d2aa0acbab79a]
 
-**8.**[^key-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f35d965ee40118d6371d2aa0acbab79a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f35d965ee40118d6371d2aa0acbab79a]: Textual amendment: Sch. 3 repealed (1.6.1999) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/50), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(f)(iii)(g)(v)](https://www.legislation.gov.uk/uksi/1999/1510/article/2)
+[^c-f35d965ee40118d6371d2aa0acbab79a]: Textual amendment: Sch. 3 repealed (1.6.1999) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [s. 87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2), [Sch. 7 para. 50](https://www.legislation.gov.uk/ukpga/1998/14/schedule/7/paragraph/50), [Sch. 8](https://www.legislation.gov.uk/ukpga/1998/14/schedule/8); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(f)(iii)(g)(v)](https://www.legislation.gov.uk/uksi/1999/1510/article/2)

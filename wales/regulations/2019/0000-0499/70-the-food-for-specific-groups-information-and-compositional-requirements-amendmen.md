@@ -53,7 +53,7 @@ The Welsh Ministers have had regard to relevant advice given by the Food Standar
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23517561], during the preparation and evaluation of these Regulations.
 
-## 1. Title, application, commencement and interpretation[^key-2db51f5e5841db45bcf2bccf423fb312]
+## 1. Title, application, commencement and interpretation[^c-2db51f5e5841db45bcf2bccf423fb312]
 
 (1) The title of these Regulations is the Food for Specific Groups (Information and Compositional Requirements) (Amendment) (Wales) Regulations 2019.
 
@@ -66,11 +66,11 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - “**the 2000 Regulations**” (“***Rheoliadau 2000***”) means the Medical Food (Wales) Regulations 2000 [^c23517571];
 - “**the 2016 Regulations**” (“***Rheoliadau 2016***”) means the Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 [^c23517581].
 
-## 2. Amendment of regulation 2 of the 2000 Regulations[^key-13519ff62437fa559d54b079ea4dc516]
+## 2. Amendment of regulation 2 of the 2000 Regulations[^c-13519ff62437fa559d54b079ea4dc516]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 2016 Regulations[^key-6916217f395de794035090b75c435b33]
+## 3. Amendment of the 2016 Regulations[^c-6916217f395de794035090b75c435b33]
 
 (1) The 2016 Regulations are amended as follows.
 
@@ -107,7 +107,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 > - (b) it was placed on the market or labelled before 22 February 2019; and
 > - (c) the requirements of regulation 3(1) and (2) of the Medical Food (Wales) Regulations 2000 are met.
 
-## 4. Amendment of Schedule 1 to the 2016 Regulations[^key-91afba6b57fd634dc781952addab5cf4]
+## 4. Amendment of Schedule 1 to the 2016 Regulations[^c-91afba6b57fd634dc781952addab5cf4]
 
 For the Table in Schedule 1 to the 2016 Regulations substitute—
 
@@ -168,18 +168,18 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23517561]: Marginal citation: OJ No. L 31, 1.2.2002, p. 1, last amended by Commission Regulation (EU) No 2017/228 (OJ No L 35, 10.02.2017, p. 10).
 
-[^key-2db51f5e5841db45bcf2bccf423fb312]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/70/regulation/1) in force at 22.2.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3)
+[^c-2db51f5e5841db45bcf2bccf423fb312]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/70/regulation/1) in force at 22.2.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3)
 
 [^c23517571]: Marginal citation: [S.I. 2000/1866](https://www.legislation.gov.uk/uksi/2000/1866) (W. 125), amended by [S.I. 2016/639](https://www.legislation.gov.uk/uksi/2016/639) (W. 175) and [S.I. 2018/806](https://www.legislation.gov.uk/uksi/2018/806) (W. 162); there are other amending instruments but none is relevant.
 
 [^c23517581]: Marginal citation: [S.I. 2016/639](https://www.legislation.gov.uk/uksi/2016/639) (W. 175).
 
-[^key-13519ff62437fa559d54b079ea4dc516]: Textual amendment: Reg. 2 revoked (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2020/92/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/9/2))
+[^c-13519ff62437fa559d54b079ea4dc516]: Textual amendment: Reg. 2 revoked (22.2.2020) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) (Amendment) Regulations 2020 (S.I. 2020/92)](https://www.legislation.gov.uk/wsi/2020/92), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/1/2), [Sch.](https://www.legislation.gov.uk/wsi/2020/92/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/wsi/2020/92/regulation/9/2))
 
-[^key-6916217f395de794035090b75c435b33]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2019/70/regulation/3) in force at 22.2.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3)
+[^c-6916217f395de794035090b75c435b33]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2019/70/regulation/3) in force at 22.2.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3)
 
 [^c23517591]: Marginal citation: OJ No. L 25, 2.2.2016, p. 30.
 
 [^c23517601]: Marginal citation: [Article 2(2)(g)](https://www.legislation.gov.uk/wsi/2019/70/article/2/2/g) of the EU Regulation states “ ‘food for special medical purposes’ means food specifically processed or formulated and intended for the dietary management of patients, including infants, to be used under medical supervision; it is intended for the exclusive or partial feeding of patients with a limited, impaired or disturbed capacity to take, digest, absorb, metabolise or excrete ordinary food or certain nutrients contained therein, or metabolites, or with other medically-determined nutrient requirements, whose dietary management cannot be achieved by modification of the normal diet alone.”
 
-[^key-91afba6b57fd634dc781952addab5cf4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/70/regulation/4) in force at 22.2.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3)
+[^c-91afba6b57fd634dc781952addab5cf4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2019/70/regulation/4) in force at 22.2.2019, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/70/regulation/1/3)

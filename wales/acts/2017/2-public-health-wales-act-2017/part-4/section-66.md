@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Discretion to grant application for special procedure licence[^key-66d9c925449bf77ff5ad110d4adc6c65]
+## 66. Discretion to grant application for special procedure licence[^c-66d9c925449bf77ff5ad110d4adc6c65]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66d9c925449bf77ff5ad110d4adc6c65]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2017/2/section/66) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(i)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/i) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-66d9c925449bf77ff5ad110d4adc6c65]: Commencement: [S. 66](https://www.legislation.gov.uk/anaw/2017/2/section/66) in force at 29.11.2024 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 2(i)](https://www.legislation.gov.uk/wsi/2024/1248/article/2/i) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

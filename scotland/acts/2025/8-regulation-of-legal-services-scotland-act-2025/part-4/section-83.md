@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Financial sanctions[^key-8b8b1c3e11bfd818c39a9b1b0c81b743]
+## 83. Financial sanctions[^c-8b8b1c3e11bfd818c39a9b1b0c81b743]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In section 19 (financial sanctions) of the 2010 Act, after subsection (3), inser
 
 ## Annotations
 
-[^key-8b8b1c3e11bfd818c39a9b1b0c81b743]: Commencement: S. 83 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-8b8b1c3e11bfd818c39a9b1b0c81b743]: Commencement: S. 83 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

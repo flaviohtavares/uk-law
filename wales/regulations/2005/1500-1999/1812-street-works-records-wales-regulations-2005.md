@@ -41,13 +41,13 @@ Coming into force
 
 The National Assembly for Wales, in exercise of the powers conferred upon the Secretary for State by sections 79 and 104(1) of the New Roads and Street Works Act 1991[^f00001] and which are now exercisable by the National Assembly in relation to Wales[^f00002], hereby makes the following Regulations:
 
-## 1. Title, commencement and application[^key-8f506dfa0a89630d1143a0396869ad2d]
+## 1. Title, commencement and application[^c-8f506dfa0a89630d1143a0396869ad2d]
 
 (1) The title of these Regulations is the Street Works (Records) (Wales) Regulations 2005 and they come into force on 1 December 2005.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-258ce948bb2715390529f3b88ad4be54]
+## 2. Interpretation[^c-258ce948bb2715390529f3b88ad4be54]
 
 In these Regulations:
 
@@ -60,7 +60,7 @@ In these Regulations:
 
   and includes works which cannot reasonably be severed from such works.
 
-## 3. Form and manner of records[^key-2b9d2c81adae0a25ea4af001808acc17]
+## 3. Form and manner of records[^c-2b9d2c81adae0a25ea4af001808acc17]
 
 (1) Subject to regulation 5, a record of every item of apparatus belonging to an undertaker and placed in the street must be kept by that undertaker on paper, or, subject to regulation 4, in the form of an electronic record or a combination of both, and must be prepared in the form of :
 
@@ -73,11 +73,11 @@ In these Regulations:
 
 (3) In preparing the record, the location and route of the apparatus must be recorded so that the measured position is within 300mm of the actual position and the recorded position is within 500mm of the actual position.
 
-## 4. Electronic Records[^key-3bed0326ab6ff237e50c871a3c078986]
+## 4. Electronic Records[^c-3bed0326ab6ff237e50c871a3c078986]
 
 Where an electronic record is kept pursuant to regulation 3 above, it must be capable of being reproduced in a sufficiently legible form to comply with the duty imposed by section 79(3) of the Act (duty to make records available for inspection).
 
-## 5. Exceptions[^key-11c413b65f98018537f3c6383ce8a0f6]
+## 5. Exceptions[^c-11c413b65f98018537f3c6383ce8a0f6]
 
 The duty in section 79(1) of the Act to keep a record of the location of every item of apparatus will not apply:-
 
@@ -108,14 +108,14 @@ These Regulations prescribe the form of records of apparatus placed in streets t
 
 [^f00002]: Footnote: The powers of the Secretary of State, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/ 672)](https://www.legislation.gov.uk/uksi/1999/672).
 
-[^key-8f506dfa0a89630d1143a0396869ad2d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
+[^c-8f506dfa0a89630d1143a0396869ad2d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
 
-[^key-258ce948bb2715390529f3b88ad4be54]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2005/1812/regulation/2) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
+[^c-258ce948bb2715390529f3b88ad4be54]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2005/1812/regulation/2) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
 
-[^key-2b9d2c81adae0a25ea4af001808acc17]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2005/1812/regulation/3) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
+[^c-2b9d2c81adae0a25ea4af001808acc17]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2005/1812/regulation/3) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
 
-[^key-3bed0326ab6ff237e50c871a3c078986]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2005/1812/regulation/4) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
+[^c-3bed0326ab6ff237e50c871a3c078986]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2005/1812/regulation/4) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
 
-[^key-11c413b65f98018537f3c6383ce8a0f6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2005/1812/regulation/5) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
+[^c-11c413b65f98018537f3c6383ce8a0f6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2005/1812/regulation/5) in force at 1.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1812/regulation/1/1)
 
 [^f00003]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38)

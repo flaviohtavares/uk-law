@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Interim administration orders: restrictions on dealing etc. with property[^key-891b8bb27ea9cd53c1c3cb58e18bef9f]
+## 172. Interim administration orders: restrictions on dealing etc. with property[^c-891b8bb27ea9cd53c1c3cb58e18bef9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ and may be made subject to conditions.
 
 ## Annotations
 
-[^key-891b8bb27ea9cd53c1c3cb58e18bef9f]: Commencement: [Art. 172](https://www.legislation.gov.uk/uksi/2005/3181/article/172) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-891b8bb27ea9cd53c1c3cb58e18bef9f]: Commencement: [Art. 172](https://www.legislation.gov.uk/uksi/2005/3181/article/172) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 60. Requirement to take part in a work-focused interview not to apply[^key-f6eb1d8cd37f570cce257fd8a8f52beb]
+## 60. Requirement to take part in a work-focused interview not to apply[^c-f6eb1d8cd37f570cce257fd8a8f52beb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Department may determine that a requirement on a claimant to take part in a 
 
 ## Annotations
 
-[^key-f6eb1d8cd37f570cce257fd8a8f52beb]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2008/280/regulation/60) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-f6eb1d8cd37f570cce257fd8a8f52beb]: Commencement: [Reg. 60](https://www.legislation.gov.uk/nisr/2008/280/regulation/60) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

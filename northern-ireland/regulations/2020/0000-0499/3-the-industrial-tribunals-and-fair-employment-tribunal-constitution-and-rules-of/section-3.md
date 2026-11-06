@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Interpretation[^key-35d4325da149a3696a0418acec30c859]
+## 3. Interpretation[^c-35d4325da149a3696a0418acec30c859]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ Except in the Schedules which are subject to the definitions contained in the Sc
 
 ## Annotations
 
-[^key-35d4325da149a3696a0418acec30c859]: Commencement: Reg. 3 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-35d4325da149a3696a0418acec30c859]: Commencement: Reg. 3 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

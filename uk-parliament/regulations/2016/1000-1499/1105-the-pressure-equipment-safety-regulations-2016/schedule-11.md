@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — EU (Extent: E+W+S) (affected by repeal, see note) Declaration of Conformity[^key-826637cc33e00cdfa1c2e19d3c64a130]
+## SCHEDULE 11 — EU (Extent: E+W+S) (affected by repeal, see note) Declaration of Conformity[^c-826637cc33e00cdfa1c2e19d3c64a130]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 48(c)
 
-### 1. ... Declaration of conformity (No xxxx)[^M_E_cc3e759b-2d68-4ce9-aa39-156871b4ee00][^key-826637cc33e00cdfa1c2e19d3c64a130][^c23178431]
+### 1. ... Declaration of conformity (No xxxx)[^M_E_cc3e759b-2d68-4ce9-aa39-156871b4ee00][^c-826637cc33e00cdfa1c2e19d3c64a130][^c23178431]
 
 *Extent: E+W+S*
 
@@ -46,7 +46,7 @@ Pressure equipment or assembly (product, type, batch or serial number):
 
 *Extent: E+W+S*
 
-**5.**[^M_E_8724791a-d77b-42f9-8830-125859e21d40] The object of the declaration described above is in conformity with the relevant statutory requirements[^key-7b380d6263b23150b17df50fc3f844cc]:
+**5.**[^M_E_8724791a-d77b-42f9-8830-125859e21d40] The object of the declaration described above is in conformity with the relevant statutory requirements[^c-7b380d6263b23150b17df50fc3f844cc]:
 
 *Extent: N.I.*
 
@@ -54,7 +54,7 @@ Pressure equipment or assembly (product, type, batch or serial number):
 
 *Extent: E+W+S*
 
-**6.**[^M_E_68c01e86-9fd2-4946-b59b-fa0cbdad36ce] References to the relevant designated[^key-1f5409f0f8da23b2b7de4d176615aa61] standards used or references to the other technical specifications in relation to which conformity is declared:
+**6.**[^M_E_68c01e86-9fd2-4946-b59b-fa0cbdad36ce] References to the relevant designated[^c-1f5409f0f8da23b2b7de4d176615aa61] standards used or references to the other technical specifications in relation to which conformity is declared:
 
 *Extent: N.I.*
 
@@ -62,7 +62,7 @@ Pressure equipment or assembly (product, type, batch or serial number):
 
 *Extent: E+W+S*
 
-**7.**[^M_E_14cb5900-633b-4799-b2af-cbe5f7b62ba7] Where appropriate, the name, address and number of the approved[^key-6597e2ebd5139f47e5b044b1ba79b839] body which carried out the conformity assessment and the number of the certificate issued, and a reference to the EU-type examination certificate – production type, EU-type examination certificate – design type, [^key-826637cc33e00cdfa1c2e19d3c64a130]... design examination certificate or certificate of conformity.
+**7.**[^M_E_14cb5900-633b-4799-b2af-cbe5f7b62ba7] Where appropriate, the name, address and number of the approved[^c-6597e2ebd5139f47e5b044b1ba79b839] body which carried out the conformity assessment and the number of the certificate issued, and a reference to the EU-type examination certificate – production type, EU-type examination certificate – design type, [^c-826637cc33e00cdfa1c2e19d3c64a130]... design examination certificate or certificate of conformity.
 
 *Extent: N.I.*
 
@@ -77,7 +77,7 @@ Pressure equipment or assembly (product, type, batch or serial number):
 
 ## Annotations
 
-[^key-826637cc33e00cdfa1c2e19d3c64a130]: Textual amendment: Word in [Sch. 11](https://www.legislation.gov.uk/uksi/2016/1105/schedule/11) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/50/a) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-826637cc33e00cdfa1c2e19d3c64a130]: Textual amendment: Word in [Sch. 11](https://www.legislation.gov.uk/uksi/2016/1105/schedule/11) omitted (E.W.S.) (31.12.2020) by virtue of [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/50/a) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_cc3e759b-2d68-4ce9-aa39-156871b4ee00]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
@@ -89,18 +89,18 @@ Pressure equipment or assembly (product, type, batch or serial number):
 
 [^M_E_8724791a-d77b-42f9-8830-125859e21d40]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-7b380d6263b23150b17df50fc3f844cc]: Textual amendment: Words in [Sch. 11 para. 5](https://www.legislation.gov.uk/uksi/2016/1105/schedule/11/paragraph/5) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 50(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/50/b) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b380d6263b23150b17df50fc3f844cc]: Textual amendment: Words in [Sch. 11 para. 5](https://www.legislation.gov.uk/uksi/2016/1105/schedule/11/paragraph/5) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 50(b)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/50/b) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_4382fa02-a463-4654-b01f-1913eb40b44e]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_68c01e86-9fd2-4946-b59b-fa0cbdad36ce]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-1f5409f0f8da23b2b7de4d176615aa61]: Textual amendment: Word in [Sch. 11 para. 6](https://www.legislation.gov.uk/uksi/2016/1105/schedule/11/paragraph/6) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 50(c)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/50/c) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f5409f0f8da23b2b7de4d176615aa61]: Textual amendment: Word in [Sch. 11 para. 6](https://www.legislation.gov.uk/uksi/2016/1105/schedule/11/paragraph/6) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 50(c)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/50/c) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_5323bb60-4d40-41b3-9fb0-549e5f2b9607]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
 [^M_E_14cb5900-633b-4799-b2af-cbe5f7b62ba7]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-6597e2ebd5139f47e5b044b1ba79b839]: Textual amendment: Word in [Sch. 11 para. 7](https://www.legislation.gov.uk/uksi/2016/1105/schedule/11/paragraph/7) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 50(d)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/50/d) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6597e2ebd5139f47e5b044b1ba79b839]: Textual amendment: Word in [Sch. 11 para. 7](https://www.legislation.gov.uk/uksi/2016/1105/schedule/11/paragraph/7) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 50(d)](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/50/d) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_6f42ef3e-94c2-42fd-82ce-f6d6d15d1357]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

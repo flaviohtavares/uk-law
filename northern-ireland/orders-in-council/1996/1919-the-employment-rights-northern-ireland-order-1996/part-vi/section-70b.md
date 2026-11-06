@@ -22,7 +22,7 @@ summary: ''
 
 (1) A worker has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that the worker has made a protected disclosure.
 
-(1A)[^key-4b85fe6c60ddd68e131dfb9a86ac1aff] A worker (“W”) has the right not to be subjected to any detriment by any act, or any deliberate failure to act, done—
+(1A)[^c-4b85fe6c60ddd68e131dfb9a86ac1aff] A worker (“W”) has the right not to be subjected to any detriment by any act, or any deliberate failure to act, done—
 
 - (a) by another worker of W's employer in the course of that other worker's employment, or
 - (b) by an agent of W's employer with the employer's authority,
@@ -56,6 +56,6 @@ But this does not prevent the employer from being liable by reason of paragraph 
 
 [^c22340021]: Textual amendment: [1998 NI 17](https://www.legislation.gov.uk/nisi/1998)
 
-[^key-4b85fe6c60ddd68e131dfb9a86ac1aff]: Textual amendment: [Arts. 70B(1A)-(1E)](https://www.legislation.gov.uk/nisi/1996/1919/article/70B/1A) inserted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 16(1)](https://www.legislation.gov.uk/nia/2016/15/section/16/1), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
+[^c-4b85fe6c60ddd68e131dfb9a86ac1aff]: Textual amendment: [Arts. 70B(1A)-(1E)](https://www.legislation.gov.uk/nisi/1996/1919/article/70B/1A) inserted (1.10.2017) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 16(1)](https://www.legislation.gov.uk/nia/2016/15/section/16/1), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2017/199](https://www.legislation.gov.uk/nisr/2017/199), [art. 2](https://www.legislation.gov.uk/nisr/2017/199/article/2)
 
 [^c17621981]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)

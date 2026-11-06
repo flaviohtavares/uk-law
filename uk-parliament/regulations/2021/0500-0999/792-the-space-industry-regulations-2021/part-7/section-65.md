@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Termination of the training manager’s approval[^key-6b16e8afb4bd8e8f940f4198e8685b4f]
+## 65. Termination of the training manager’s approval[^c-6b16e8afb4bd8e8f940f4198e8685b4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b16e8afb4bd8e8f940f4198e8685b4f]: Commencement: Reg. 65 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6b16e8afb4bd8e8f940f4198e8685b4f]: Commencement: Reg. 65 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -70,7 +70,7 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(
 - [Section 5ZA — Continued failure by landlord to provide rent receipt after conviction or fixed penalty](part-ii/section-5za.md)
 - [Section 5ZB — Controlled tenancies: defence to offences under Articles 5 and 5ZA](part-ii/section-5zb.md)
 
-#### Limit on tenancy deposit amount[^key-d5afebfe141dc8ae307cb9bd76d46c77]
+#### Limit on tenancy deposit amount[^c-d5afebfe141dc8ae307cb9bd76d46c77]
 
 - [Section 5ZC — Tenancy deposit limit of 1 month’s rent](part-ii/section-5zc.md)
 - [Section 5ZD — Breach of tenancy deposit limit: recoverability of excess](part-ii/section-5zd.md)
@@ -80,13 +80,13 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(
 - [Section 5A — Tenancy deposit schemes](part-ii/section-5a.md)
 - [Section 5B — Requirements relating to tenancy deposits](part-ii/section-5b.md)
 
-#### Rent decreases[^key-cba130dfe9ec1e36a6f594b46fa45422]
+#### Rent decreases[^c-cba130dfe9ec1e36a6f594b46fa45422]
 
 *Extent: N.I.*
 
 - [Section 5C — Rent decreases](part-ii/section-5c.md)
 
-#### Rent increases[^key-cba130dfe9ec1e36a6f594b46fa45422]
+#### Rent increases[^c-cba130dfe9ec1e36a6f594b46fa45422]
 
 - [Section 5D — Restriction on frequency of rent increases](part-ii/section-5d.md)
 - [Section 5E — Requirement to give written notice of increase](part-ii/section-5e.md)
@@ -106,12 +106,12 @@ Now, therefore, Her Majesty, in exercise of the powers conferred by paragraph 1(
 - [Section 11E — General qualification on landlord’s duties](part-ii/section-11e.md)
 - [Section 11F — Knowledge of disrepair](part-ii/section-11f.md)
 
-#### Energy efficiency[^key-8716191a9335cc42616d25bc64d02230]
+#### Energy efficiency[^c-8716191a9335cc42616d25bc64d02230]
 
 - [Section 11G — Energy efficiency of dwelling-houses let under a private tenancy](part-ii/section-11g.md)
 - [Section 11H — Private tenancy energy efficiency regulations: power to create offences](part-ii/section-11h.md)
 
-#### Electrical safety standards[^key-7d34ae370256d94e4a820a246b44cc1b]
+#### Electrical safety standards[^c-7d34ae370256d94e4a820a246b44cc1b]
 
 - [Section 11I — Electrical safety standards for dwelling-houses let under a private tenancy](part-ii/section-11i.md)
 - [Section 11J — Electrical safety standards regulations: power to create an offence](part-ii/section-11j.md)
@@ -294,15 +294,15 @@ PART V amends the Rent (Northern Ireland) Order 1978 and Part VI contains provis
 
 ## Annotations
 
-[^key-d5afebfe141dc8ae307cb9bd76d46c77]: Textual amendment: [Arts. 5ZC](https://www.legislation.gov.uk/nisi/2006/1459/article/5ZC), [5ZD](https://www.legislation.gov.uk/nisi/2006/1459/article/5ZD) and cross-heading inserted (1.4.2023 with effect in accordance with s. 4(5)) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 4(2)](https://www.legislation.gov.uk/nia/2022/20/section/4/2), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
+[^c-d5afebfe141dc8ae307cb9bd76d46c77]: Textual amendment: [Arts. 5ZC](https://www.legislation.gov.uk/nisi/2006/1459/article/5ZC), [5ZD](https://www.legislation.gov.uk/nisi/2006/1459/article/5ZD) and cross-heading inserted (1.4.2023 with effect in accordance with s. 4(5)) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 4(2)](https://www.legislation.gov.uk/nia/2022/20/section/4/2), [14(7)](https://www.legislation.gov.uk/nia/2022/20/section/14/7); [S.R. 2023/20](https://www.legislation.gov.uk/nisr/2023/20), [art. 2](https://www.legislation.gov.uk/nisr/2023/20/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2023/20/schedule)
 
 [^c22383681]: Textual amendment: [Arts. 5A](https://www.legislation.gov.uk/nisi/2006/1459/article/5A), [5B](https://www.legislation.gov.uk/nisi/2006/1459/article/5B) and preceding cross-heading inserted (3.5.2011) by [Housing (Amendment) Act (Northern Ireland) 2011 (c. 22)](https://www.legislation.gov.uk/nia/2011/22), [ss. 2](https://www.legislation.gov.uk/nia/2011/22/section/2), [25(2)](https://www.legislation.gov.uk/nia/2011/22/section/25/2)
 
-[^key-cba130dfe9ec1e36a6f594b46fa45422]: Textual amendment: [Art. 5C](https://www.legislation.gov.uk/nisi/2006/1459/article/5C)-5E and cross-heading inserted (28.4.2022 for specified purposes, 1.4.2025 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 7(2)](https://www.legislation.gov.uk/nia/2022/20/section/7/2), [14(2)(c)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/c); [S.R. 2025/39](https://www.legislation.gov.uk/nisr/2025/39), [art. 2](https://www.legislation.gov.uk/nisr/2025/39/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2025/39/schedule)
+[^c-cba130dfe9ec1e36a6f594b46fa45422]: Textual amendment: [Art. 5C](https://www.legislation.gov.uk/nisi/2006/1459/article/5C)-5E and cross-heading inserted (28.4.2022 for specified purposes, 1.4.2025 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [ss. 7(2)](https://www.legislation.gov.uk/nia/2022/20/section/7/2), [14(2)(c)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/c); [S.R. 2025/39](https://www.legislation.gov.uk/nisr/2025/39), [art. 2](https://www.legislation.gov.uk/nisr/2025/39/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2025/39/schedule)
 
-[^key-8716191a9335cc42616d25bc64d02230]: Textual amendment: [Arts. 11G](https://www.legislation.gov.uk/nisi/2006/1459/article/11G), [11H](https://www.legislation.gov.uk/nisi/2006/1459/article/11H) and cross-heading inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/2/paragraph/2)
+[^c-8716191a9335cc42616d25bc64d02230]: Textual amendment: [Arts. 11G](https://www.legislation.gov.uk/nisi/2006/1459/article/11G), [11H](https://www.legislation.gov.uk/nisi/2006/1459/article/11H) and cross-heading inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [s. 14(2)(e)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/e), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/2/paragraph/2)
 
-[^key-7d34ae370256d94e4a820a246b44cc1b]: Textual amendment: [Arts. 11I-11K](https://www.legislation.gov.uk/nisi/2006/1459/article/11I) and cross-heading inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f), [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/3/paragraph/2)
+[^c-7d34ae370256d94e4a820a246b44cc1b]: Textual amendment: [Arts. 11I-11K](https://www.legislation.gov.uk/nisi/2006/1459/article/11I) and cross-heading inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f), [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/3/paragraph/2)
 
 [^c22079751]: Modification: [Pt. IV](https://www.legislation.gov.uk/nisi/2006/1459/part/IV) (arts. 30-55) modified (1.10.2010) by [Registered Rents (Increase) Order (Northern Ireland) 2010 (S.R. 2010/285)](https://www.legislation.gov.uk/nisr/2010/285), [art. 2(1)](https://www.legislation.gov.uk/nisr/2010/285/article/2/1) (subject to [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/285/article/2/2))
 

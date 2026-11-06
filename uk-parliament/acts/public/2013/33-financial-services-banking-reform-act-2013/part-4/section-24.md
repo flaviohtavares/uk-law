@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Changes in responsibilities of senior managers[^key-b7a173544655fb64634d8c5610b78d8e]
+## 24. Changes in responsibilities of senior managers[^c-b7a173544655fb64634d8c5610b78d8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ After section 62 of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-b7a173544655fb64634d8c5610b78d8e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2013/33/section/24) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-b7a173544655fb64634d8c5610b78d8e]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2013/33/section/24) in force at 7.3.2016 by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/c) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))

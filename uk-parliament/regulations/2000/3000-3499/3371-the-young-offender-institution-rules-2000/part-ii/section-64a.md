@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64A. Enforcement of compensation requirements[^key-5fcbdc5252c116cc21930ccaf547d13b]
+## 64A. Enforcement of compensation requirements[^c-5fcbdc5252c116cc21930ccaf547d13b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fcbdc5252c116cc21930ccaf547d13b]: Textual amendment: [Rule 64A](https://www.legislation.gov.uk/uksi/2000/3371/article/64A) inserted (1.11.2013) by [The Prison and Young Offender Institution (Amendment) Rules 2013 (S.I. 2013/2462)](https://www.legislation.gov.uk/uksi/2013/2462), [art. 1](https://www.legislation.gov.uk/uksi/2013/2462/article/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/2462/schedule/2/paragraph/4) (with [rule 4](https://www.legislation.gov.uk/uksi/2013/2462/article/4))
+[^c-5fcbdc5252c116cc21930ccaf547d13b]: Textual amendment: [Rule 64A](https://www.legislation.gov.uk/uksi/2000/3371/article/64A) inserted (1.11.2013) by [The Prison and Young Offender Institution (Amendment) Rules 2013 (S.I. 2013/2462)](https://www.legislation.gov.uk/uksi/2013/2462), [art. 1](https://www.legislation.gov.uk/uksi/2013/2462/article/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2013/2462/schedule/2/paragraph/4) (with [rule 4](https://www.legislation.gov.uk/uksi/2013/2462/article/4))

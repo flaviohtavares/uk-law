@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Power to take samples from animals[^key-3f1ffa3e61aa53b08e714d84ad9d3a8f]
+## 9. Power to take samples from animals[^c-3f1ffa3e61aa53b08e714d84ad9d3a8f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ For the purposes of checking compliance with these Regulations or the licence co
 
 ## Annotations
 
-[^key-3f1ffa3e61aa53b08e714d84ad9d3a8f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/84/regulation/9) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-3f1ffa3e61aa53b08e714d84ad9d3a8f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/84/regulation/9) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)

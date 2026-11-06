@@ -33,11 +33,11 @@ An Act to consolidate enactments relating to employment tribunals[^c19000791] an
 
 \[22nd May 1996\]
 
-[^c19000801][^c19496591]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e3ba9eaea8a3134292a200666f4ca2a0][^key-e9b74e5f37fd1bc6bede9812ac36319c][^key-a0f1772e2773bd2fe645267d0b956c4e]
+[^c19000801][^c19496591]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e3ba9eaea8a3134292a200666f4ca2a0][^c-e9b74e5f37fd1bc6bede9812ac36319c][^c-a0f1772e2773bd2fe645267d0b956c4e]
 
 ## Contents
 
-### PART I — Employment Tribunals[^key-b082fbc7cf19b96123388f9070584eb0][^c19000811]
+### PART I — Employment Tribunals[^c-b082fbc7cf19b96123388f9070584eb0][^c19000811]
 
 *Extent: E+W+S*
 
@@ -78,13 +78,13 @@ An Act to consolidate enactments relating to employment tribunals[^c19000791] an
 - [Section 11 — Restriction of publicity in cases involving sexual misconduct.](part-i/section-11.md)
 - [Section 12 — Restriction of publicity in disability cases.](part-i/section-12.md)
 
-#### Financial penalties[^key-49a51c085ca4bcf2ce622049d8d0a9cf]
+#### Financial penalties[^c-49a51c085ca4bcf2ce622049d8d0a9cf]
 
 *Extent: E+W+S*
 
 - [Section 12A — Financial penalties](part-i/section-12a.md)
 
-#### Costs etc, interest and enforcement[^key-8f9ccb03b6809c75d7f68e3a0949b850]
+#### Costs etc, interest and enforcement[^c-8f9ccb03b6809c75d7f68e3a0949b850]
 
 - [Section 13 — Costs and expenses.](part-i/section-13.md)
 - [Section 13A — Payments in respect of preparation time](part-i/section-13a.md)
@@ -156,7 +156,7 @@ An Act to consolidate enactments relating to employment tribunals[^c19000791] an
 - [Section 37ZB — Appeals to Supreme Court: permission to appeal](part-ii/section-37zb.md)
 - [Section 37ZC — Appeals to Supreme Court: exclusions](part-ii/section-37zc.md)
 
-### PART 2A — Financial penalties for failure to pay sums ordered to be paid or settlement sums[^key-dc47ac277ab531f58e439e91868aaf6c]
+### PART 2A — Financial penalties for failure to pay sums ordered to be paid or settlement sums[^c-dc47ac277ab531f58e439e91868aaf6c]
 
 *Extent: E+W+S*
 
@@ -178,9 +178,9 @@ An Act to consolidate enactments relating to employment tribunals[^c19000791] an
 - [Section 37P — Giving of notices](part-2a/section-37p.md)
 - [Section 37Q — Financial penalties for non-payment: interpretation](part-2a/section-37q.md)
 
-### Part III — General and Supplementary[^key-c3814ed8f162e4adf1ebc38f8abedfc6]
+### Part III — General and Supplementary[^c-c3814ed8f162e4adf1ebc38f8abedfc6]
 
-#### Procedure Rules[^key-8fad43bc152ac194eb886a2911212c3d]
+#### Procedure Rules[^c-8fad43bc152ac194eb886a2911212c3d]
 
 - [Section 37QA — Procedure Rules](part-iii/section-37qa.md)
 - [Section 37QB — Power to amend legislation in connection with Procedure Rules](part-iii/section-37qb.md)
@@ -226,22 +226,22 @@ SCHEDULES
 
     Act excluded (W.) (12.5.2006) by [The Education (Modification of Enactments Relating to Employment) (Wales) Order 2006 (S.I. 2006/1073)](https://www.legislation.gov.uk/uksi/2006/1073), [art. 6(1)](https://www.legislation.gov.uk/uksi/2006/1073/article/6/1)
 
-[^key-e3ba9eaea8a3134292a200666f4ca2a0]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by S.I. 2010/1906, reg. 2)
+[^c-e3ba9eaea8a3134292a200666f4ca2a0]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) Regulations 2010 (S.I. 2010/875)](https://www.legislation.gov.uk/uksi/2010/875), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/875/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2010/875/regulation/16), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/875/schedule/2) (which amending S.I. was revoked (27.8.2010) by S.I. 2010/1906, reg. 2)
 
-[^key-e9b74e5f37fd1bc6bede9812ac36319c]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
+[^c-e9b74e5f37fd1bc6bede9812ac36319c]: Modification: Act applied (with modifications) (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [reg. 16(2)(c)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/16/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1907/schedule/2)
 
-[^key-a0f1772e2773bd2fe645267d0b956c4e]: Modification: Act modified (30.7.2020) by [The Posted Workers (Agency Workers) Regulations 2020 (S.I. 2020/384)](https://www.legislation.gov.uk/uksi/2020/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/384/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/384/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/384/regulation/5))
+[^c-a0f1772e2773bd2fe645267d0b956c4e]: Modification: Act modified (30.7.2020) by [The Posted Workers (Agency Workers) Regulations 2020 (S.I. 2020/384)](https://www.legislation.gov.uk/uksi/2020/384), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/384/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/384/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2020/384/regulation/5))
 
-[^key-b082fbc7cf19b96123388f9070584eb0]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/ukpga/1996/17/section/12A) applied (with modifications) by 1992 c. 52, s. 138(2A) as inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/1) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)
+[^c-b082fbc7cf19b96123388f9070584eb0]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/ukpga/1996/17/section/12A) applied (with modifications) by 1992 c. 52, s. 138(2A) as inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/1) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)
 
 [^c19000811]: Textual amendment: Words in part heading substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(b)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/b) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-49a51c085ca4bcf2ce622049d8d0a9cf]: Textual amendment: S. 12A and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/16/1), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i), [(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/253/article/3/e)
+[^c-49a51c085ca4bcf2ce622049d8d0a9cf]: Textual amendment: S. 12A and cross-heading inserted (25.4.2013 for specified purposes, 6.4.2014 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/16/1), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i), [(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/253/article/3/e)
 
-[^key-8f9ccb03b6809c75d7f68e3a0949b850]: Textual amendment: S. 13 cross-heading inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/3) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)
+[^c-8f9ccb03b6809c75d7f68e3a0949b850]: Textual amendment: S. 13 cross-heading inserted (6.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2013/24/schedule/3/paragraph/3) (with [s. 24(5)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/5)); [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(h)](https://www.legislation.gov.uk/uksi/2014/253/article/3/h)
 
-[^key-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
+[^c-dc47ac277ab531f58e439e91868aaf6c]: Textual amendment: Pt. 2A inserted (6.4.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 150(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 150(8)](https://www.legislation.gov.uk/ukpga/2015/26/section/150/8)); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2016/321/regulation/3/d)
 
-[^key-c3814ed8f162e4adf1ebc38f8abedfc6]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/ukpga/1996/17/part/3) heading inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/23); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/iv)
+[^c-c3814ed8f162e4adf1ebc38f8abedfc6]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/ukpga/1996/17/part/3) heading inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4), [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2022/35/schedule/5/paragraph/23); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/b/iv)
 
-[^key-8fad43bc152ac194eb886a2911212c3d]: Textual amendment: S. 37QA and cross-heading inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 34(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/34/4), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 36](https://www.legislation.gov.uk/ukpga/2022/35/section/36)); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/a)
+[^c-8fad43bc152ac194eb886a2911212c3d]: Textual amendment: S. 37QA and cross-heading inserted (25.4.2024) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 34(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/34/4), [51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4) (with [s. 36](https://www.legislation.gov.uk/ukpga/2022/35/section/36)); [S.I. 2024/568](https://www.legislation.gov.uk/uksi/2024/568), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/568/regulation/2/a)

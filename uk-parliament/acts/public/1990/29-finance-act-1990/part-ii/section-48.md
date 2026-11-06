@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Transfers of long term business.[^key-d6ec44c0fa753e6ed86163b4a4150532]
+## 48. Transfers of long term business.[^c-d6ec44c0fa753e6ed86163b4a4150532]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6ec44c0fa753e6ed86163b4a4150532]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1990/29/section/48) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/iii)
+[^c-d6ec44c0fa753e6ed86163b4a4150532]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1990/29/section/48) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/iii)

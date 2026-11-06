@@ -76,19 +76,19 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 12A — Regional strategic bodies: administration of funds](part-1/section-12a.md)
 - [Section 12B — Funding of assigned colleges](part-1/section-12b.md)
 
-#### Funding for national training programmes[^key-feaa7f723618ebbdab5b7214449aac3d]
+#### Funding for national training programmes[^c-feaa7f723618ebbdab5b7214449aac3d]
 
 - [Section 12C — Grants to the Council for national training programmes](part-1/section-12c.md)
 - [Section 12D — Administration of funds by the Council for national training programmes](part-1/section-12d.md)
 
-#### Scottish apprenticeships[^key-c9abf2b50ace9e4c1841b386e3477dde]
+#### Scottish apprenticeships[^c-c9abf2b50ace9e4c1841b386e3477dde]
 
 - [Section 12E — Definition of Scottish apprenticeship](part-1/section-12e.md)
 - [Section 12F — Scottish apprenticeship frameworks](part-1/section-12f.md)
 - [Section 12G — Requests for apprenticeship frameworks](part-1/section-12g.md)
 - [Section 12H — Scottish apprenticeship certificates](part-1/section-12h.md)
 
-#### Funding for Scottish apprenticeships and work-based learning[^key-a26e080d50f27e5be2f10a1a548b530a]
+#### Funding for Scottish apprenticeships and work-based learning[^c-a26e080d50f27e5be2f10a1a548b530a]
 
 - [Section 12I — Grants to the Council for Scottish apprenticeships and work-based learning](part-1/section-12i.md)
 - [Section 12J — Administration of funds by the Council for Scottish apprenticeships and work-based learning](part-1/section-12j.md)
@@ -121,14 +121,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 22 — Consultation and collaboration](part-1/section-22.md)
 - [Section 23 — General powers](part-1/section-23.md)
 
-#### Regional colleges: functions[^key-8956ca1fc70bd1e4c14fc21070ea9496]
+#### Regional colleges: functions[^c-8956ca1fc70bd1e4c14fc21070ea9496]
 
 - [Section 23A — Regional colleges: general duty](part-1/section-23a.md)
 - [Section 23B — Regional colleges: planning, consultation and collaboration](part-1/section-23b.md)
 - [Section 23C — Regional colleges: improvement of economic and social well-being](part-1/section-23c.md)
 - [Section 23D — Regional college to have regard to particular matters](part-1/section-23d.md)
 
-#### Regional strategic bodies: functions[^key-96d99c74be52b69fa1aa1f120141c78d]
+#### Regional strategic bodies: functions[^c-96d99c74be52b69fa1aa1f120141c78d]
 
 - [Section 23E — Regional strategic bodies: general duty](part-1/section-23e.md)
 - [Section 23F — Regional strategic bodies: planning](part-1/section-23f.md)
@@ -142,7 +142,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 23N — Assigned colleges: information and directions](part-1/section-23n.md)
 - [Section 23O — Transfer of staff and property etc.](part-1/section-23o.md)
 
-#### Regional boards: constitution etc.[^key-b81150abce3d6009012b6b30ea93f423]
+#### Regional boards: constitution etc.[^c-b81150abce3d6009012b6b30ea93f423]
 
 - [Section 23P — Regional boards: constitution](part-1/section-23p.md)
 - [Section 23Q — Mismanagement by regional boards](part-1/section-23q.md)
@@ -184,14 +184,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-feaa7f723618ebbdab5b7214449aac3d]: Textual amendment: [Ss. 12C](https://www.legislation.gov.uk/asp/2005/6/section/12C), [12D](https://www.legislation.gov.uk/asp/2005/6/section/12D) and cross-heading inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 10(3)](https://www.legislation.gov.uk/asp/2026/5/section/10/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-feaa7f723618ebbdab5b7214449aac3d]: Textual amendment: [Ss. 12C](https://www.legislation.gov.uk/asp/2005/6/section/12C), [12D](https://www.legislation.gov.uk/asp/2005/6/section/12D) and cross-heading inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 10(3)](https://www.legislation.gov.uk/asp/2026/5/section/10/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-c9abf2b50ace9e4c1841b386e3477dde]: Textual amendment: Ss. 12E-12H and cross-heading inserted (1.10.2026 for the insertion of ss. 12E, 12F; otherwise prosp.) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 11(2)](https://www.legislation.gov.uk/asp/2026/5/section/11/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-c9abf2b50ace9e4c1841b386e3477dde]: Textual amendment: Ss. 12E-12H and cross-heading inserted (1.10.2026 for the insertion of ss. 12E, 12F; otherwise prosp.) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 11(2)](https://www.legislation.gov.uk/asp/2026/5/section/11/2), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-a26e080d50f27e5be2f10a1a548b530a]: Textual amendment: [Ss. 12I](https://www.legislation.gov.uk/asp/2005/6/section/12I), [12J](https://www.legislation.gov.uk/asp/2005/6/section/12J) and cross-heading inserted (1.10.2026 except for the insertion of s. 12J(5)) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 12(3)](https://www.legislation.gov.uk/asp/2026/5/section/12/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-a26e080d50f27e5be2f10a1a548b530a]: Textual amendment: [Ss. 12I](https://www.legislation.gov.uk/asp/2005/6/section/12I), [12J](https://www.legislation.gov.uk/asp/2005/6/section/12J) and cross-heading inserted (1.10.2026 except for the insertion of s. 12J(5)) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 12(3)](https://www.legislation.gov.uk/asp/2026/5/section/12/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1)[(3)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
 
-[^key-8956ca1fc70bd1e4c14fc21070ea9496]: Textual amendment: Ss. 23A-23D and cross-heading inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 5(2)](https://www.legislation.gov.uk/asp/2013/12/section/5/2), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-8956ca1fc70bd1e4c14fc21070ea9496]: Textual amendment: Ss. 23A-23D and cross-heading inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 5(2)](https://www.legislation.gov.uk/asp/2013/12/section/5/2), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-96d99c74be52b69fa1aa1f120141c78d]: Textual amendment: Ss. 23E-23O and cross-heading inserted (1.8.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 10](https://www.legislation.gov.uk/asp/2013/12/section/10), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
+[^c-96d99c74be52b69fa1aa1f120141c78d]: Textual amendment: Ss. 23E-23O and cross-heading inserted (1.8.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 10](https://www.legislation.gov.uk/asp/2013/12/section/10), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/79/article/2/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2014/79/schedule/2)
 
-[^key-b81150abce3d6009012b6b30ea93f423]: Textual amendment: S. 23P and cross-heading inserted (1.5.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 11(1)](https://www.legislation.gov.uk/asp/2013/12/section/11/1), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)
+[^c-b81150abce3d6009012b6b30ea93f423]: Textual amendment: S. 23P and cross-heading inserted (1.5.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 11(1)](https://www.legislation.gov.uk/asp/2013/12/section/11/1), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/79](https://www.legislation.gov.uk/ssi/2014/79), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/79/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/79/schedule/1)

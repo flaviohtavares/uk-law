@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Prohibition on allowing use of sunbeds by persons under 18[^key-9bec6f663b4e321d3bfb0227283d997d]
+## 95. Prohibition on allowing use of sunbeds by persons under 18[^c-9bec6f663b4e321d3bfb0227283d997d]
 
 *Extent: S*
 
@@ -35,7 +35,7 @@ summary: ''
 (4) The documents referred to in subsection (3)(a) are any document appearing to be—
 
 - (a) a passport;
-- (aa)[^key-18b60f9ef3bd8ecae98c22ac425832f2] a UK driving licence,
+- (aa)[^c-18b60f9ef3bd8ecae98c22ac425832f2] a UK driving licence,
 - (b) a European Union photocard driving licence; or
 - (c) such other document (or description of document) as may be prescribed.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9bec6f663b4e321d3bfb0227283d997d]: Commencement: S. 95 in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-9bec6f663b4e321d3bfb0227283d997d]: Commencement: S. 95 in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
 
-[^key-18b60f9ef3bd8ecae98c22ac425832f2]: Textual amendment: [S. 95(4)(aa)](https://www.legislation.gov.uk/asp/2008/5/section/95/4/aa) inserted (31.12.2020) by [The Public Health and Tobacco (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/142)](https://www.legislation.gov.uk/ssi/2019/142), [regs. 1](https://www.legislation.gov.uk/ssi/2019/142/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/142/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18b60f9ef3bd8ecae98c22ac425832f2]: Textual amendment: [S. 95(4)(aa)](https://www.legislation.gov.uk/asp/2008/5/section/95/4/aa) inserted (31.12.2020) by [The Public Health and Tobacco (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/142)](https://www.legislation.gov.uk/ssi/2019/142), [regs. 1](https://www.legislation.gov.uk/ssi/2019/142/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/142/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

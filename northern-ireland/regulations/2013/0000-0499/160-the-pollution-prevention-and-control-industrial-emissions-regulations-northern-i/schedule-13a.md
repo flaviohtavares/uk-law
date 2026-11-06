@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 13A — ENERGY EFFICIENCY DIRECTIVE[^key-8ce90f17370efa7de2d210ab6f508f37]
+## SCHEDULE 13A — ENERGY EFFICIENCY DIRECTIVE[^c-8ce90f17370efa7de2d210ab6f508f37]
 
 *Extent: N.I.*
 
@@ -115,6 +115,6 @@ expressed in kilometres.
 
 ## Annotations
 
-[^key-8ce90f17370efa7de2d210ab6f508f37]: Textual amendment: [Sch. 13A](https://www.legislation.gov.uk/nisr/2013/160/schedule/13A) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2014/304/schedule)
+[^c-8ce90f17370efa7de2d210ab6f508f37]: Textual amendment: [Sch. 13A](https://www.legislation.gov.uk/nisr/2013/160/schedule/13A) inserted (10.12.2014) by [The Pollution Prevention and Control (Industrial Emissions) (Amendment) Regulations (Northern Ireland) 2014 (S.R. 2014/304)](https://www.legislation.gov.uk/nisr/2014/304), [reg. 1](https://www.legislation.gov.uk/nisr/2014/304/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2014/304/schedule)
 
 [^M_F_6268ffc3-cec4-47cc-d90c-99aa13035fe6]: Textual amendment: Words in [Sch. 13A para. 12(2)](https://www.legislation.gov.uk/nisr/2013/160/schedule/3/paragraph/12) inserted (24.12.2018) by [The Environment (Miscellaneous Amendments) Regulations (Northern Ireland) 2018 (S.R. 2018/200)](https://www.legislation.gov.uk/nisr/2018/200), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2018/200/regulation/1/1), [Sch. 3 para. 14](https://www.legislation.gov.uk/nisr/2018/200/schedule/3/paragraph/14)

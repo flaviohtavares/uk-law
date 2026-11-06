@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Permitted crops for the closed period[^key-27d7f4fa95b05bb8e55e7333bac269c3]
+## SCHEDULE 4 — Permitted crops for the closed period[^c-27d7f4fa95b05bb8e55e7333bac269c3]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ Regulations 20 and 22
 
 ## Annotations
 
-[^key-27d7f4fa95b05bb8e55e7333bac269c3]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2021/77/schedule/4) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-27d7f4fa95b05bb8e55e7333bac269c3]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2021/77/schedule/4) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
 
 [^f01009]: Footnote: (a)
 

@@ -41,7 +41,7 @@ summary: ''
 (2A)[^c17085371] The regulations may—
 
 - (a) authorise the Department to prescribe, or prescribe requirements in relation to, any form which is required by such regulations to be used for the purpose of instituting, or entering an appearance to, proceedings before the Tribunal;
-- (b) authorise the Department to prescribe requirements in relation to documents to be supplied with any such form (including certificates issued under Article 88ZA or 88ZB)[^key-4ac25751d0c431242d4b83fc0889eb1f] , and
+- (b) authorise the Department to prescribe requirements in relation to documents to be supplied with any such form (including certificates issued under Article 88ZA or 88ZB)[^c-4ac25751d0c431242d4b83fc0889eb1f] , and
 - (c) make provision about the publication of anything prescribed under authority conferred by virtue of this paragraph.
 
 (2B) The regulations may authorise the determination of proceedings without any hearing in such circumstances as the regulations may prescribe.
@@ -93,7 +93,7 @@ is guilty of an offence.
 
 [^c17085371]: Textual amendment: [2003 NI 15](https://www.legislation.gov.uk/2003/ni15)
 
-[^key-4ac25751d0c431242d4b83fc0889eb1f]: Textual amendment: Words in [art. 84(2A)(b)](https://www.legislation.gov.uk/nisi/1998/3162/article/84/2A/b) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 5(3)(a)](https://www.legislation.gov.uk/nia/2016/15/section/5/3/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)
+[^c-4ac25751d0c431242d4b83fc0889eb1f]: Textual amendment: Words in [art. 84(2A)(b)](https://www.legislation.gov.uk/nisi/1998/3162/article/84/2A/b) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 5(3)(a)](https://www.legislation.gov.uk/nia/2016/15/section/5/3/a), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)
 
 [^c17085411]: Textual amendment: [2003 NI 15](https://www.legislation.gov.uk/2003/ni15)
 

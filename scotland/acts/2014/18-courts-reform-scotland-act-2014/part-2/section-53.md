@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Temporary provision[^key-5f41288c95b507dcc23d33e83eb53c3d]
+## 53. Temporary provision[^c-5f41288c95b507dcc23d33e83eb53c3d]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 2 (which makes further provision, for a temporary period, in relation t
 
 ## Annotations
 
-[^key-5f41288c95b507dcc23d33e83eb53c3d]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/18/section/53) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-5f41288c95b507dcc23d33e83eb53c3d]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/18/section/53) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

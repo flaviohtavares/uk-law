@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Certification of plans etc.[^key-74fab90bc4160ec147f86d1cd99d20a0]
+## 40. Certification of plans etc.[^c-74fab90bc4160ec147f86d1cd99d20a0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74fab90bc4160ec147f86d1cd99d20a0]: Commencement: Art. 40 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)
+[^c-74fab90bc4160ec147f86d1cd99d20a0]: Commencement: Art. 40 in force at 25.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1315/article/1)

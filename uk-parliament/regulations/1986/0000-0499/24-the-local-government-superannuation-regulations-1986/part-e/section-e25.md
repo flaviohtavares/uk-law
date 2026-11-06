@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E25. Calculation of part-time service[^key-2d9c9a4ca3fc3f71a5a0fd6aa960bfb5]
+## E25. Calculation of part-time service[^c-2d9c9a4ca3fc3f71a5a0fd6aa960bfb5]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d9c9a4ca3fc3f71a5a0fd6aa960bfb5]: Commencement: [Reg. E25](https://www.legislation.gov.uk/uksi/1986/24/regulation/E25) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-2d9c9a4ca3fc3f71a5a0fd6aa960bfb5]: Commencement: [Reg. E25](https://www.legislation.gov.uk/uksi/1986/24/regulation/E25) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

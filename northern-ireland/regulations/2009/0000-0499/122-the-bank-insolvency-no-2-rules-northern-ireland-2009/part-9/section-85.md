@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Authentication of bank liquidator’s appointment[^key-664ea3642403a9ec16c7fd5add9c56b2]
+## 85. Authentication of bank liquidator’s appointment[^c-664ea3642403a9ec16c7fd5add9c56b2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-664ea3642403a9ec16c7fd5add9c56b2]: Commencement: Rule 85 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-664ea3642403a9ec16c7fd5add9c56b2]: Commencement: Rule 85 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

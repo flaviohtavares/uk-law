@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30.4. Appeal against decision of fines officer[^key-552ee49d55945871f2485dfd13131efc]
+## 30.4. Appeal against decision of fines officer[^c-552ee49d55945871f2485dfd13131efc]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-552ee49d55945871f2485dfd13131efc]: Commencement: [Rule 30.4](https://www.legislation.gov.uk/uksi/2025/909/rule/30.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-552ee49d55945871f2485dfd13131efc]: Commencement: [Rule 30.4](https://www.legislation.gov.uk/uksi/2025/909/rule/30.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00731]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); paragraph 31 was amended by articles 2, 4 and 20 of [S.I. 2006/1737](https://www.legislation.gov.uk/uksi/2006/1737).
 

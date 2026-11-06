@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Notification and publicity where designation power used[^key-c75e2ddb513f97a6588206d2f13549e0]
+## 8. Notification and publicity where designation power used[^c-c75e2ddb513f97a6588206d2f13549e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) must without delay take such steps as are reasonably practicable to inform the designated person of the designation, variation or revocation, and
 - (b) must take steps to publicise the designation, variation or revocation.
 
-(3)[^key-418c28b770e047c8768a1b9a6c9c9bdd] The information given under paragraph (2)(a)—
+(3)[^c-418c28b770e047c8768a1b9a6c9c9bdd] The information given under paragraph (2)(a)—
 
 - (a) where the Secretary of State designates a person under the standard procedure, must include a statement of reasons;
 - (b) where the Secretary of State designates a person under the urgent procedure, must include a statement—
@@ -43,7 +43,7 @@ summary: ''
 - (a) in a case where the person ceases to be a designated person, take such steps as are reasonably practicable to inform the person that they have ceased to be a designated person, or
 - (b) in any other case, take such steps as are reasonably practicable to give the person a statement of reasons.
 
-(4)[^key-a5beae6e4f37b5c2fb8729970c34765f] In this regulation, a “**statement of reasons**” means a brief statement of the matters that the Secretary of State knows, or has reasonable grounds to suspect, in relation to the person—
+(4)[^c-a5beae6e4f37b5c2fb8729970c34765f] In this regulation, a “**statement of reasons**” means a brief statement of the matters that the Secretary of State knows, or has reasonable grounds to suspect, in relation to the person—
 
 - (a) in the case of a designation under the standard procedure, which have led the Secretary of State to make the designation, and
 - (b) in the case of a designation under the urgent procedure, as a result of which the person does not cease to be a designated person at the end of the period mentioned in regulation 5A(7) or (8) (as the case may be).
@@ -81,8 +81,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c75e2ddb513f97a6588206d2f13549e0]: Commencement: Reg. 8 in force at 29.4.2021 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/2)
+[^c-c75e2ddb513f97a6588206d2f13549e0]: Commencement: Reg. 8 in force at 29.4.2021 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/496/regulation/1/2)
 
-[^key-418c28b770e047c8768a1b9a6c9c9bdd]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/8/3)[(3A)](https://www.legislation.gov.uk/uksi/2021/496/regulation/8/3A) substituted for [reg. 8(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/8/3) (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(5)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/5/a)
+[^c-418c28b770e047c8768a1b9a6c9c9bdd]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/8/3)[(3A)](https://www.legislation.gov.uk/uksi/2021/496/regulation/8/3A) substituted for [reg. 8(3)](https://www.legislation.gov.uk/uksi/2021/496/regulation/8/3) (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(5)(a)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/5/a)
 
-[^key-a5beae6e4f37b5c2fb8729970c34765f]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2021/496/regulation/8/4) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(5)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/5/b)
+[^c-a5beae6e4f37b5c2fb8729970c34765f]: Textual amendment: [Reg. 8(4)](https://www.legislation.gov.uk/uksi/2021/496/regulation/8/4) substituted (18.4.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/394)](https://www.legislation.gov.uk/uksi/2025/394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/394/regulation/1/2), [28(5)(b)](https://www.legislation.gov.uk/uksi/2025/394/regulation/28/5/b)

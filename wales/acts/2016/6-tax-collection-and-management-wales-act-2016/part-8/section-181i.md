@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 181I. No further appeal or review of tribunal decisions relating to postponement requests[^key-07590d4a8d46069e9d15d065011b324f]
+## 181I. No further appeal or review of tribunal decisions relating to postponement requests[^c-07590d4a8d46069e9d15d065011b324f]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07590d4a8d46069e9d15d065011b324f]: Textual amendment: Pt. 8 Ch. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 63](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/63); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-07590d4a8d46069e9d15d065011b324f]: Textual amendment: Pt. 8 Ch. 3A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 63](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/63); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

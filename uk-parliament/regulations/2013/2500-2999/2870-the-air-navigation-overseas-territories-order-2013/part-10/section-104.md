@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Commercial air transport aircraft registered in the Territory – aerodrome-operating minima[^key-50762d736910d0ef122f7c8c4337589f]
+## 104. Commercial air transport aircraft registered in the Territory – aerodrome-operating minima[^c-50762d736910d0ef122f7c8c4337589f]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ unless in either case from such height the specified visual reference for landin
 
 ## Annotations
 
-[^key-50762d736910d0ef122f7c8c4337589f]: Commencement: [Art. 104](https://www.legislation.gov.uk/uksi/2013/2870/article/104) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-50762d736910d0ef122f7c8c4337589f]: Commencement: [Art. 104](https://www.legislation.gov.uk/uksi/2013/2870/article/104) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

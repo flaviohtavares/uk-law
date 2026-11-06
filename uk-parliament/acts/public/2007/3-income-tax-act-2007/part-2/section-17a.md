@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Meaning of “property income”[^key-fe2eb33d4d94b595dde864fdadf10cc8]
+## 17A. Meaning of “property income”[^c-fe2eb33d4d94b595dde864fdadf10cc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe2eb33d4d94b595dde864fdadf10cc8]: Textual amendment: S. 17A inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/5)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8)
+[^c-fe2eb33d4d94b595dde864fdadf10cc8]: Textual amendment: S. 17A inserted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/5)[(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8)

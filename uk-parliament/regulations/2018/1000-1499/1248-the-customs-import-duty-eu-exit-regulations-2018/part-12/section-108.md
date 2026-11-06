@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Use of Methods of valuation[^key-0561c33b6de00f3aea82fbde2f6c44ba][^key-3b215733b0bd1af66993893b5fdf4612][^key-3b215733b0bd1af66993893b5fdf4612]
+## 108. Use of Methods of valuation[^c-0561c33b6de00f3aea82fbde2f6c44ba][^c-3b215733b0bd1af66993893b5fdf4612][^c-3b215733b0bd1af66993893b5fdf4612]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ that Method is not to be used in the valuation of the goods.
 (7) The specified matters to be included as elements of a transaction value are—
 
 - (a) the value of each item set out in regulations 111 to 113 but taking into account any depreciation for an item which is a re-used item;
-- (b) where applicable, any adjusted amount described in regulations 114, 114A and 114B[^key-ecb9143a78bb2060c248d133995904d2]; and
+- (b) where applicable, any adjusted amount described in regulations 114, 114A and 114B[^c-ecb9143a78bb2060c248d133995904d2]; and
 - (c) any amount which is payable in respect of the goods or their importation at a time other than the time when the goods are sold for export to the United Kingdom.
 
 (8) The specified matters to be excluded as elements from a transaction value are the value of each item set out in regulations in chapter 4.
@@ -62,12 +62,12 @@ that Method is not to be used in the valuation of the goods.
 
 ## Annotations
 
-[^key-0561c33b6de00f3aea82fbde2f6c44ba]: Commencement: Reg. 108 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0561c33b6de00f3aea82fbde2f6c44ba]: Commencement: Reg. 108 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-3b215733b0bd1af66993893b5fdf4612]: Modification: Pt. 12 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3b215733b0bd1af66993893b5fdf4612]: Modification: Pt. 12 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522421]: Marginal citation: See section 34 of the Act on the presentation of goods to Customs on import.
 
 [^c23522431]: Marginal citation: See section 16(3) of the Act for the definition of “transaction value”.
 
-[^key-ecb9143a78bb2060c248d133995904d2]: Textual amendment: Words in [reg. 108(7)(b)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/108/7/b) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/10)
+[^c-ecb9143a78bb2060c248d133995904d2]: Textual amendment: Words in [reg. 108(7)(b)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/108/7/b) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(10)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/10)

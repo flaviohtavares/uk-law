@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Determinations as part of appeal[^key-395460409ced244707981c07534a87db][^key-94539f77f80debf138d1d5115b9d366b]
+## 9. Determinations as part of appeal[^c-395460409ced244707981c07534a87db][^c-94539f77f80debf138d1d5115b9d366b]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-395460409ced244707981c07534a87db]: Commencement: S. 9 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-395460409ced244707981c07534a87db]: Commencement: S. 9 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
 
-[^key-94539f77f80debf138d1d5115b9d366b]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/2/section/9) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/119/regulation/3))
+[^c-94539f77f80debf138d1d5115b9d366b]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2025/2/section/9) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2025/119/regulation/3))

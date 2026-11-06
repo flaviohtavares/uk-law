@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Monetary penalties[^key-6dde7ab5deffecbbe2c4572dde209d04][^key-ea9a8a8d32557625400473b6e81d761c][^key-87a50b25ae592178c7cdb78bb48c642a]
+## 64. Monetary penalties[^c-6dde7ab5deffecbbe2c4572dde209d04][^c-ea9a8a8d32557625400473b6e81d761c][^c-87a50b25ae592178c7cdb78bb48c642a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Each provision in Part 5 (Trade) which contains a prohibition imposed for a purp
 
 ## Annotations
 
-[^key-6dde7ab5deffecbbe2c4572dde209d04]: Commencement: Reg. 64 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-6dde7ab5deffecbbe2c4572dde209d04]: Commencement: Reg. 64 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-ea9a8a8d32557625400473b6e81d761c]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2019/461/regulation/64) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea9a8a8d32557625400473b6e81d761c]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2019/461/regulation/64) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-87a50b25ae592178c7cdb78bb48c642a]: Textual amendment: [Reg. 64](https://www.legislation.gov.uk/uksi/2019/461/regulation/64) substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2026/983/regulation/11/4)
+[^c-87a50b25ae592178c7cdb78bb48c642a]: Textual amendment: [Reg. 64](https://www.legislation.gov.uk/uksi/2019/461/regulation/64) substituted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [11(4)](https://www.legislation.gov.uk/uksi/2026/983/regulation/11/4)

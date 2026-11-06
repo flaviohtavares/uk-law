@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amendment of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^key-34662ad3692982040106a3b5b0f281ab]
+## 59. Amendment of the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001[^c-34662ad3692982040106a3b5b0f281ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,7 +59,7 @@ After regulation 8 (review of directions given by the Secretary of State) of the
 
 ## Annotations
 
-[^key-34662ad3692982040106a3b5b0f281ab]: Commencement: Reg. 59 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-34662ad3692982040106a3b5b0f281ab]: Commencement: Reg. 59 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00025]: Footnote: [S.I. 2001/1754](https://www.legislation.gov.uk/uksi/2001/1754). This instrument was amended by [S.I. 2007/77](https://www.legislation.gov.uk/uksi/2007/77), [S.I. 2007/1842](https://www.legislation.gov.uk/uksi/2007/1842), [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513), [S.I. 2015/1431](https://www.legislation.gov.uk/uksi/2015/1431), S.I. 2016/ 529, [S.I. 2016/912](https://www.legislation.gov.uk/uksi/2016/912) and [S.I. 2016/1042](https://www.legislation.gov.uk/uksi/2016/1042) and should be read with the modifications made by article 3 of [S.I. 2010/1513](https://www.legislation.gov.uk/uksi/2010/1513).
 

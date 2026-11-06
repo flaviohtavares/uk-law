@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80B. Agreements to exclude certain authorities or property[^key-d07cecaa1948c2751bda10578518330e]
+## 80B. Agreements to exclude certain authorities or property[^c-d07cecaa1948c2751bda10578518330e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d07cecaa1948c2751bda10578518330e]: Textual amendment: [S. 80B](https://www.legislation.gov.uk/ukpga/1989/42/section/80B) omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(3)(e)](https://www.legislation.gov.uk/anaw/2014/7/section/131/3/e), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/wsi/2019/553), [art. 2](https://www.legislation.gov.uk/wsi/2019/553/article/2)
+[^c-d07cecaa1948c2751bda10578518330e]: Textual amendment: [S. 80B](https://www.legislation.gov.uk/ukpga/1989/42/section/80B) omitted (20.3.2019) by virtue of [Housing (Wales) Act 2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7), [ss. 131(3)(e)](https://www.legislation.gov.uk/anaw/2014/7/section/131/3/e), [145(3)](https://www.legislation.gov.uk/anaw/2014/7/section/145/3); [S.I. 2019/553](https://www.legislation.gov.uk/wsi/2019/553), [art. 2](https://www.legislation.gov.uk/wsi/2019/553/article/2)

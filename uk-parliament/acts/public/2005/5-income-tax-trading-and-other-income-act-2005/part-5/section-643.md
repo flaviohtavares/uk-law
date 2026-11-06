@@ -36,8 +36,8 @@ is determined in the same way as any question under section 633 whether a capita
 
 being any sum paid, or asset transferred, in the 5 years ending or beginning with the date on which the capital sum is paid to the settlor.
 
-(4) For the purposes of sections 641 and 642 and this section any capital sum paid by a body corporate, and any associated payment made to a body corporate, at a time when it is (within the meaning of section 449 of CTA 2010[^key-27a2bab1f61c604f70d3cc375d758b0a]) associated with another body corporate may be treated as paid by, or made to, the other body corporate.
+(4) For the purposes of sections 641 and 642 and this section any capital sum paid by a body corporate, and any associated payment made to a body corporate, at a time when it is (within the meaning of section 449 of CTA 2010[^c-27a2bab1f61c604f70d3cc375d758b0a]) associated with another body corporate may be treated as paid by, or made to, the other body corporate.
 
 ## Annotations
 
-[^key-27a2bab1f61c604f70d3cc375d758b0a]: Textual amendment: Words in s. 643(4) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 470](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/470) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-27a2bab1f61c604f70d3cc375d758b0a]: Textual amendment: Words in s. 643(4) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 470](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/470) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Death of a permit holder[^key-53f5f31295b8b066bdc7b28345437618]
+## 21. Death of a permit holder[^c-53f5f31295b8b066bdc7b28345437618]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53f5f31295b8b066bdc7b28345437618]: Commencement: Reg. 21 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-53f5f31295b8b066bdc7b28345437618]: Commencement: Reg. 21 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c11524691] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) A man of the Army Reserve[^key-67963aace79d0fea2cbe4c142624c9b5] or the Royal Auxiliary Air Force who is called out for permanent service shall, subject to subsections (3) and (4) below, be liable to serve—
+(2) A man of the Army Reserve[^c-67963aace79d0fea2cbe4c142624c9b5] or the Royal Auxiliary Air Force who is called out for permanent service shall, subject to subsections (3) and (4) below, be liable to serve—
 
 - (a) until Her Majesty no longer requires his services, or
 - (b) until the expiry of his term of service in that reserve or force,
@@ -47,4 +47,4 @@ but the period so ordered (together with the period or aggregate of the periods 
 
 [^c11524691]: Textual amendment: S. 13 repealed (1.4.1997 except so far as it relates to s. 13(2)-(4) the repeal of which is still*prosp.*) by [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14), [ss. 131(2)](https://www.legislation.gov.uk/ukpga/1996/14/section/131/2), [132(4)](https://www.legislation.gov.uk/ukpga/1996/14/section/132/4), [Sch. 11](https://www.legislation.gov.uk/ukpga/1996/14/schedule/11) (with [s. 72(5)](https://www.legislation.gov.uk/ukpga/1996/14/section/72/5)); [S.I. 1997/305](https://www.legislation.gov.uk/uksi/1997/305), [art. 2](https://www.legislation.gov.uk/uksi/1997/305/article/2)
 
-[^key-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)

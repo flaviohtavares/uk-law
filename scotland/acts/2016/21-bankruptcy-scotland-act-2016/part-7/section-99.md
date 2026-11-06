@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Unfair preferences[^key-6cdfdd5abecad92e7308acf83c38820d]
+## 99. Unfair preferences[^c-6cdfdd5abecad92e7308acf83c38820d]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cdfdd5abecad92e7308acf83c38820d]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2016/21/section/99) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-6cdfdd5abecad92e7308acf83c38820d]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2016/21/section/99) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

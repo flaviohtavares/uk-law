@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Disclosure of information concerning public service pension schemes[^key-ce712fecf4a7233e1e3784bed5fa6429]
+## 157. Disclosure of information concerning public service pension schemes[^c-ce712fecf4a7233e1e3784bed5fa6429]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 164 of the Pensions (Northern Ireland) Order 1995 (information in con
 
 ## Annotations
 
-[^key-ce712fecf4a7233e1e3784bed5fa6429]: Commencement: Art. 157 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ce712fecf4a7233e1e3784bed5fa6429]: Commencement: Art. 157 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

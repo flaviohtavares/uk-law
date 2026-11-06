@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Attendance of officer concerned at accelerated misconduct hearing[^key-1c9c96c931b0c812d1f5894aea02fade]
+## 57. Attendance of officer concerned at accelerated misconduct hearing[^c-1c9c96c931b0c812d1f5894aea02fade]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c9c96c931b0c812d1f5894aea02fade]: Commencement: Reg. 57 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-1c9c96c931b0c812d1f5894aea02fade]: Commencement: Reg. 57 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

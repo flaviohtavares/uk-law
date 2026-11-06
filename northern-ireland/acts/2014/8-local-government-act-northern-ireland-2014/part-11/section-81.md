@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81. Limits on charging in exercise of general power[^key-056ed474bf416b8df82d2d1c027bb6e4]
+## 81. Limits on charging in exercise of general power[^c-056ed474bf416b8df82d2d1c027bb6e4]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-056ed474bf416b8df82d2d1c027bb6e4]: Commencement: [S. 81](https://www.legislation.gov.uk/nia/2014/8/section/81) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-056ed474bf416b8df82d2d1c027bb6e4]: Commencement: [S. 81](https://www.legislation.gov.uk/nia/2014/8/section/81) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

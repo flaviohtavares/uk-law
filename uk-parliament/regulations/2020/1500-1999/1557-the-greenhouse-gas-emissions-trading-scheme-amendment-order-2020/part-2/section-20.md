@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Article 36 substituted and article 36A inserted[^key-38812b33251344dfb8b75b952fa1208f]
+## 20. Article 36 substituted and article 36A inserted[^c-38812b33251344dfb8b75b952fa1208f]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ For article 36 substitute—
 
 ## Annotations
 
-[^key-38812b33251344dfb8b75b952fa1208f]: Commencement: Art. 20 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-38812b33251344dfb8b75b952fa1208f]: Commencement: Art. 20 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 239ZA. Relief for disposals by trustees of employee trusts[^key-2484b95d0ee9c451a21e3c8e6b60332e]
+## 239ZA. Relief for disposals by trustees of employee trusts[^c-2484b95d0ee9c451a21e3c8e6b60332e]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ if the conditions in subsection (2) are satisfied.
 
 ## Annotations
 
-[^key-2484b95d0ee9c451a21e3c8e6b60332e]: Textual amendment: S. 239ZA inserted (with effect in accordance with art. 11(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2009/730/article/11/3)
+[^c-2484b95d0ee9c451a21e3c8e6b60332e]: Textual amendment: S. 239ZA inserted (with effect in accordance with art. 11(4) of the amending S.I.) by [The Enactment of Extra-Statutory Concessions Order 2009 (S.I. 2009/730)](https://www.legislation.gov.uk/uksi/2009/730), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/730/article/1/1), [11(3)](https://www.legislation.gov.uk/uksi/2009/730/article/11/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. International healthcare arrangements[^key-6fe69e46ad156a15c7f2798a98d73485][^key-6cf2c803b5daf8cbb56dee94a0744d9a]
+## 162. International healthcare arrangements[^c-6fe69e46ad156a15c7f2798a98d73485][^c-6cf2c803b5daf8cbb56dee94a0744d9a]
 
 *Extent: E+W*
 
@@ -124,6 +124,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6fe69e46ad156a15c7f2798a98d73485]: Commencement: S. 162 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-6fe69e46ad156a15c7f2798a98d73485]: Commencement: S. 162 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6cf2c803b5daf8cbb56dee94a0744d9a]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2022/31/section/162) in force at 18.8.2023 by [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-6cf2c803b5daf8cbb56dee94a0744d9a]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2022/31/section/162) in force at 18.8.2023 by [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))

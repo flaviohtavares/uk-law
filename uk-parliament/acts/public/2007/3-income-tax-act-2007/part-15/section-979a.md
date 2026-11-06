@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 979A. FSCS payments representing interest[^key-252331aecb89f0ca82d26e6710e36406]
+## 979A. FSCS payments representing interest[^c-252331aecb89f0ca82d26e6710e36406]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-252331aecb89f0ca82d26e6710e36406]: Textual amendment: S. 979A inserted (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 33(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/33/4)
+[^c-252331aecb89f0ca82d26e6710e36406]: Textual amendment: S. 979A inserted (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 33(4)](https://www.legislation.gov.uk/ukpga/2009/10/section/33/4)

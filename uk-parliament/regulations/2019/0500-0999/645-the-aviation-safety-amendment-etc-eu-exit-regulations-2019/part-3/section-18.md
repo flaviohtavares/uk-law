@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Amendment of Article 2 of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^key-6e18ebf28bfe46bcf63880d0ed6482fa]
+## 18. Amendment of Article 2 of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^c-6e18ebf28bfe46bcf63880d0ed6482fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e18ebf28bfe46bcf63880d0ed6482fa]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6e18ebf28bfe46bcf63880d0ed6482fa]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2018/634](https://www.legislation.gov.uk/uksi/2018/634).

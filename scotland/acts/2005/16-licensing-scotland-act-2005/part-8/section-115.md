@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Disorderly conduct[^key-ac1554b201caa07b8c4dc3cf0f9c5aa5]
+## 115. Disorderly conduct[^c-ac1554b201caa07b8c4dc3cf0f9c5aa5]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ to take place on the premises commits an offence.
 
 ## Annotations
 
-[^key-ac1554b201caa07b8c4dc3cf0f9c5aa5]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2005/16/section/115) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-ac1554b201caa07b8c4dc3cf0f9c5aa5]: Commencement: [S. 115](https://www.legislation.gov.uk/asp/2005/16/section/115) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

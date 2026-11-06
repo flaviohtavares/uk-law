@@ -24,7 +24,7 @@ Regulation 119
 
 ### PART 1 — PROVISIONS OF THESE REGULATIONS
 
-**1.**[^key-71027ccce72c76fd8c07a5578bbe000d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-71027ccce72c76fd8c07a5578bbe000d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** Where the removal of waste by pipeline from any premises commenced before 16th July 2005 but continues thereafter, regulation 41 shall have effect as if the first day on which the waste was piped was 16th July 2005.
 
@@ -51,4 +51,4 @@ Regulation 119
 
 ## Annotations
 
-[^key-71027ccce72c76fd8c07a5578bbe000d]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2005/894/schedule/12/paragraph/1) omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(12)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/12)
+[^c-71027ccce72c76fd8c07a5578bbe000d]: Textual amendment: [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2005/894/schedule/12/paragraph/1) omitted (1.4.2016) by virtue of [The Hazardous Waste (England and Wales) (Amendment) Regulations 2016 (S.I. 2016/336)](https://www.legislation.gov.uk/uksi/2016/336), [regs. 1](https://www.legislation.gov.uk/uksi/2016/336/regulation/1), [2(12)](https://www.legislation.gov.uk/uksi/2016/336/regulation/2/12)

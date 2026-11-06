@@ -22,9 +22,9 @@ summary: ''
 
 (1) The Bank must give notice of a determination to—
 
-- (a) the institution concerned; and[^key-bb195a4786b5f731e414ee434e57ddc1]
-- (b) the appropriate regulator[^key-378513465d78dd985a56f04051577257]...
-- (c)[^key-989a3bb5dad9f87cd977a63190c32ff5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the institution concerned; and[^c-bb195a4786b5f731e414ee434e57ddc1]
+- (b) the appropriate regulator[^c-378513465d78dd985a56f04051577257]...
+- (c)[^c-989a3bb5dad9f87cd977a63190c32ff5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The notice must—
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bb195a4786b5f731e414ee434e57ddc1]: Textual amendment: Word in [art. 65(1)(a)](https://www.legislation.gov.uk/uksi/2014/3348/article/65/1/a) added (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 39(2)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/39/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bb195a4786b5f731e414ee434e57ddc1]: Textual amendment: Word in [art. 65(1)(a)](https://www.legislation.gov.uk/uksi/2014/3348/article/65/1/a) added (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 39(2)(a)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/39/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-378513465d78dd985a56f04051577257]: Textual amendment: Word in [art. 65(1)(b)](https://www.legislation.gov.uk/uksi/2014/3348/article/65/1/b) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 39(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/39/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-378513465d78dd985a56f04051577257]: Textual amendment: Word in [art. 65(1)(b)](https://www.legislation.gov.uk/uksi/2014/3348/article/65/1/b) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 39(2)(b)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/39/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-989a3bb5dad9f87cd977a63190c32ff5]: Textual amendment: [Art. 65(1)(c)](https://www.legislation.gov.uk/uksi/2014/3348/article/65/1/c) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 39(2)(c)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/39/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-989a3bb5dad9f87cd977a63190c32ff5]: Textual amendment: [Art. 65(1)(c)](https://www.legislation.gov.uk/uksi/2014/3348/article/65/1/c) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 39(2)(c)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/39/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

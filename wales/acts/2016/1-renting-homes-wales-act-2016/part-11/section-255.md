@@ -25,8 +25,8 @@ summary: ''
 - (a) any supplemental, incidental, or consequential provision, and
 - (b) any transitory, transitional or saving provision.
 
-(2) Regulations under subsection (1) may amend, repeal, revoke or modify any enactment (including a provision of this Act) [^key-d207a56be4efc451cdce7ddf6f99306b]....
+(2) Regulations under subsection (1) may amend, repeal, revoke or modify any enactment (including a provision of this Act) [^c-d207a56be4efc451cdce7ddf6f99306b]....
 
 ## Annotations
 
-[^key-d207a56be4efc451cdce7ddf6f99306b]: Textual amendment: Words in [s. 255(2)](https://www.legislation.gov.uk/anaw/2016/1/section/255/2) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 8](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/8)
+[^c-d207a56be4efc451cdce7ddf6f99306b]: Textual amendment: Words in [s. 255(2)](https://www.legislation.gov.uk/anaw/2016/1/section/255/2) omitted (7.6.2021) by virtue of [Renting Homes (Amendment) (Wales) Act 2021 (asc 3)](https://www.legislation.gov.uk/asc/2021/3), [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3), [Sch. 5 para. 8](https://www.legislation.gov.uk/asc/2021/3/schedule/5/paragraph/8)

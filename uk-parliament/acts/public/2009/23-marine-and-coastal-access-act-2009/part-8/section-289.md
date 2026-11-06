@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 289. Duty to provide evidence of authority[^key-2e8d6e18b151f7f1f95e0cd902122108][^key-ac1c3588629693a81c7bcc612d4a3d79]
+## 289. Duty to provide evidence of authority[^c-2e8d6e18b151f7f1f95e0cd902122108][^c-ac1c3588629693a81c7bcc612d4a3d79]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e8d6e18b151f7f1f95e0cd902122108]: Commencement: S. 289 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/23)
+[^c-2e8d6e18b151f7f1f95e0cd902122108]: Commencement: S. 289 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/23)
 
-[^key-ac1c3588629693a81c7bcc612d4a3d79]: Modification: Ss. 289-292 applied (with modifications) (N.I.) (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 38(8)](https://www.legislation.gov.uk/nia/2013/10/section/38/8), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))
+[^c-ac1c3588629693a81c7bcc612d4a3d79]: Modification: Ss. 289-292 applied (with modifications) (N.I.) (18.9.2013) by [Marine Act (Northern Ireland) 2013 (c. 10)](https://www.legislation.gov.uk/nia/2013/10), [ss. 38(8)](https://www.legislation.gov.uk/nia/2013/10/section/38/8), [49](https://www.legislation.gov.uk/nia/2013/10/section/49) (with [ss. 1(1)](https://www.legislation.gov.uk/nia/2013/10/section/1/1), [46(3)](https://www.legislation.gov.uk/nia/2013/10/section/46/3), [47](https://www.legislation.gov.uk/nia/2013/10/section/47))

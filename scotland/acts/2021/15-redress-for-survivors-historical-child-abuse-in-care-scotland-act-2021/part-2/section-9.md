@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Duty with respect to ensuring individuals can make informed choices[^key-9b5580bd24c84a9d0d4fbadb62dd9d53]
+## 9. Duty with respect to ensuring individuals can make informed choices[^c-9b5580bd24c84a9d0d4fbadb62dd9d53]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ have the opportunity to make informed choices.
 
 ## Annotations
 
-[^key-9b5580bd24c84a9d0d4fbadb62dd9d53]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/15/section/9) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-9b5580bd24c84a9d0d4fbadb62dd9d53]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2021/15/section/9) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

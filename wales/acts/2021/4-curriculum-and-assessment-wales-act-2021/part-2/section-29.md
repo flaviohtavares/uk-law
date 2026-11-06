@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Further implementation requirements for pupils aged 3 to 14[^key-8e236245b444f7010907060c05372227][^key-4968d6f8605db171b233a486978a3684][^key-81e2b9b8c0e12d89aa268de73b27c129][^key-93bf5a15ea1450e60bacf8b0fbb1c265][^key-b2bd8facad3e04b1f941a2f6158c53fc]
+## 29. Further implementation requirements for pupils aged 3 to 14[^c-8e236245b444f7010907060c05372227][^c-4968d6f8605db171b233a486978a3684][^c-81e2b9b8c0e12d89aa268de73b27c129][^c-93bf5a15ea1450e60bacf8b0fbb1c265][^c-b2bd8facad3e04b1f941a2f6158c53fc]
 
 *Extent: E+W*
 
@@ -36,12 +36,12 @@ summary: ''
 
 ## Annotations
 
-[^key-8e236245b444f7010907060c05372227]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/b), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
+[^c-8e236245b444f7010907060c05372227]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/b), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
 
-[^key-4968d6f8605db171b233a486978a3684]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/b)
+[^c-4968d6f8605db171b233a486978a3684]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/b)
 
-[^key-81e2b9b8c0e12d89aa268de73b27c129]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(b)](https://www.legislation.gov.uk/wsi/2022/652/article/7/b)
+[^c-81e2b9b8c0e12d89aa268de73b27c129]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(b)](https://www.legislation.gov.uk/wsi/2022/652/article/7/b)
 
-[^key-93bf5a15ea1450e60bacf8b0fbb1c265]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-93bf5a15ea1450e60bacf8b0fbb1c265]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-b2bd8facad3e04b1f941a2f6158c53fc]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-b2bd8facad3e04b1f941a2f6158c53fc]: Commencement: [S. 29](https://www.legislation.gov.uk/asc/2021/4/section/29) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Powers to require information etc[^key-bb7a51767d30b68a6033d7c300c1c815][^key-c5adfd8018eb49e18025ecde145a00b2]
+## 119. Powers to require information etc[^c-bb7a51767d30b68a6033d7c300c1c815][^c-c5adfd8018eb49e18025ecde145a00b2]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bb7a51767d30b68a6033d7c300c1c815]: Commencement: S. 119 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-bb7a51767d30b68a6033d7c300c1c815]: Commencement: S. 119 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-c5adfd8018eb49e18025ecde145a00b2]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2022/31/section/119) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-c5adfd8018eb49e18025ecde145a00b2]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2022/31/section/119) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

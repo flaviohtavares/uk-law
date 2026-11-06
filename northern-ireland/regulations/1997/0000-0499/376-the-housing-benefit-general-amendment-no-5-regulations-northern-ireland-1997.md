@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*d*), 129(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f855959a2c465bf48db54c20efc50442]
+## 1. Citation, commencement and interpretation[^c-f855959a2c465bf48db54c20efc50442]
 
 (1) These Regulations may be cited as the Housing Benefit (General) (Amendment No. 5) Regulations (Northern Ireland) 1997 and shall come into operation on 18th August 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 2. Amendment of Schedule 1 to the Housing Benefit (General) Regulations[^key-4f99962a4a28952afd2e4497a498d700]
+## 2. Amendment of Schedule 1 to the Housing Benefit (General) Regulations[^c-4f99962a4a28952afd2e4497a498d700]
 
 (1) In Schedule 1 to the Housing Benefit (General) Regulations (Northern Ireland) 1987[^f00003] (ineligible service charges)—
 
@@ -94,11 +94,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
-[^key-f855959a2c465bf48db54c20efc50442]: Commencement: Reg. 1 in operation at 18.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/376/regulation/1/1)
+[^c-f855959a2c465bf48db54c20efc50442]: Commencement: Reg. 1 in operation at 18.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/376/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-4f99962a4a28952afd2e4497a498d700]: Commencement: Reg. 2 in operation at 18.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/376/regulation/1/1)
+[^c-4f99962a4a28952afd2e4497a498d700]: Commencement: Reg. 2 in operation at 18.8.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/376/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1987 No. 461](https://www.legislation.gov.uk/nisr/1987/461); relevant amending Regulations are [S.R. 1994 No. 137](https://www.legislation.gov.uk/nisr/1994/137)
 

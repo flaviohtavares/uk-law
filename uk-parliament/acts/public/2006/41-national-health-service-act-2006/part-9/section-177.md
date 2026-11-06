@@ -42,7 +42,7 @@ summary: ''
 
 (4) Subsection (2)(b) does not apply where an appliance is supplied—
 
-- (a)[^key-1e6634df7eed52b49655cafa81a5a2c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-1e6634df7eed52b49655cafa81a5a2c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) under a general dental services contract, or
 - (c) in accordance with section 107 arrangements.
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e6634df7eed52b49655cafa81a5a2c6]: Textual amendment: [S. 177(4)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/177/4/a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 95](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/95); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-1e6634df7eed52b49655cafa81a5a2c6]: Textual amendment: [S. 177(4)(a)](https://www.legislation.gov.uk/ukpga/2006/41/section/177/4/a) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 4 para. 95](https://www.legislation.gov.uk/ukpga/2012/7/schedule/4/paragraph/95); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

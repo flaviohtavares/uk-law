@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Revocation of authorisations and registrations[^key-615574e78df1a777b74d6241fb7e8e34]
+## 19. Revocation of authorisations and registrations[^c-615574e78df1a777b74d6241fb7e8e34]
 
 *Extent: N.I.*
 
@@ -99,4 +99,4 @@ it may grant a period of grace for the disposal, storage, placing on the market 
 
 ## Annotations
 
-[^key-615574e78df1a777b74d6241fb7e8e34]: Commencement: Reg. 19 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-615574e78df1a777b74d6241fb7e8e34]: Commencement: Reg. 19 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

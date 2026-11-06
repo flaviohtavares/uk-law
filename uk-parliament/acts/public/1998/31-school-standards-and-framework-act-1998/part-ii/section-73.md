@@ -30,7 +30,7 @@ in accordance with Schedule 2.
 
 (2) Subject to subsection (3), the staff transfer provisions apply in the circumstances mentioned in subsection (1) to any person who immediately before the appointed day—
 
-- (a) is employed by the local authority[^key-5177265949adaa73e26402711f36dc2e] to work solely at an existing school within subsection (1)(a), or
+- (a) is employed by the local authority[^c-5177265949adaa73e26402711f36dc2e] to work solely at an existing school within subsection (1)(a), or
 - (b) is employed by the local authority to work at such an existing school and is designated for the purposes of this subsection by an order made by the Secretary of State, or
 - (c) is employed by the governing body of an existing school within subsection (1)(b) or (c).
 
@@ -74,6 +74,6 @@ and references to a special agreement, grant-maintained or grant-maintained spec
 
 [^c14009561]: Modification: S. 73 excluded (10.3.1999) by [S.I. 1999/362](https://www.legislation.gov.uk/uksi/1999/362), [reg.56](https://www.legislation.gov.uk/uksi/1999/362/regulation/56).
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
 [^c14009571]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).

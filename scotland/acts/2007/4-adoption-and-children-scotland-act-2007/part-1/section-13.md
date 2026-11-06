@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Regulations[^key-c2b3ad392733739923630dff9ce60123][^key-9978fac2d62494a1d55d61ecf6bf6fe3]
+## 13. Regulations[^c-c2b3ad392733739923630dff9ce60123][^c-9978fac2d62494a1d55d61ecf6bf6fe3]
 
 *Extent: S*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2b3ad392733739923630dff9ce60123]: Commencement: S. 13 in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
+[^c-c2b3ad392733739923630dff9ce60123]: Commencement: S. 13 in force at 20.4.2009 for specified purposes by [S.S.I. 2009/147](https://www.legislation.gov.uk/ssi/2009/147), [art. 2](https://www.legislation.gov.uk/ssi/2009/147/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/147/schedule)
 
-[^key-9978fac2d62494a1d55d61ecf6bf6fe3]: Commencement: S. 13 in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-9978fac2d62494a1d55d61ecf6bf6fe3]: Commencement: S. 13 in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)

@@ -33,8 +33,8 @@ Section 15.
 
 (2) The first condition is that, due to an error on the part of the Commissioners, any of the following occurs at any time—
 
-- (a) a person is refused authorisation for the purposes of section 78[^key-6aa72fa74da0bbf9f026a24a9d00bed3] of the Finance (No. 2) Act 2023 (alcohol duty: authorised use for certain purposes);
-- (b)[^key-832db558abc63f64ac86b37264c18279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person is refused authorisation for the purposes of section 78[^c-6aa72fa74da0bbf9f026a24a9d00bed3] of the Finance (No. 2) Act 2023 (alcohol duty: authorised use for certain purposes);
+- (b)[^c-832db558abc63f64ac86b37264c18279] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a person is refused approval for the purposes of section 9(1) or 14(1) of the Hydrocarbon Oil Duties Act 1979 (c. 5);
 - (d) a person is refused consent for the purposes of section 10(1) of that Act.
 
@@ -141,7 +141,7 @@ No payment may be made to a person under this Part of this Schedule unless—
 - (a) due to an error on the part of the Commissioners a person pays to them an amount by way of excise duty,
 - (b) the person is entitled to obtain repayment of the amount,
 - (c) he makes a claim (at any time) for the repayment and the Commissioners authorise it on or after the commencement day, and
-- (d) he makes a claim for interest under this paragraph before the end of the period of 4 years[^key-89b9fb3665b8205caddd1634feac418a] starting with the day when the Commissioners authorise the repayment.
+- (d) he makes a claim for interest under this paragraph before the end of the period of 4 years[^c-89b9fb3665b8205caddd1634feac418a] starting with the day when the Commissioners authorise the repayment.
 
 (2) The Commissioners must pay interest to the person on the amount concerned for the applicable period.
 
@@ -158,7 +158,7 @@ No payment may be made to a person under this Part of this Schedule unless—
 - (b) he is entitled to obtain an amount by way of repayment, remission, rebate or drawback in respect of the duty,
 - (c) due to an error on the part of the Commissioners he fails to claim the amount when he would (apart from the error) have done so,
 - (d) the person makes a claim (at any time) for the repayment, remission, rebate or drawback and the Commissioners authorise it on or after the commencement day, and
-- (e) he makes a claim for interest under this paragraph before the end of the period of 4 years[^key-63bd38d3228f5726fba8f9975cfa4b17] starting with the day when the Commissioners authorise the repayment, remission, rebate or drawback.
+- (e) he makes a claim for interest under this paragraph before the end of the period of 4 years[^c-63bd38d3228f5726fba8f9975cfa4b17] starting with the day when the Commissioners authorise the repayment, remission, rebate or drawback.
 
 (2) The Commissioners must pay interest to the person on the amount concerned for the applicable period.
 
@@ -177,7 +177,7 @@ No payment may be made to a person under this Part of this Schedule unless—
 - (d) due to an error on the part of the Commissioners their authorisation is delayed,
 - (e) the Commissioners authorise the repayment, remission, rebate or drawback on or after the commencement day,
 - (f) neither paragraph 4 nor paragraph 5 applies in relation to the person, and
-- (g) the person makes a claim for interest under this paragraph before the end of the period of 4 years[^key-49adb3bbab146a34fef025f2fe5f2bac] starting with the day when the Commissioners authorise the repayment, remission, rebate or drawback.
+- (g) the person makes a claim for interest under this paragraph before the end of the period of 4 years[^c-49adb3bbab146a34fef025f2fe5f2bac] starting with the day when the Commissioners authorise the repayment, remission, rebate or drawback.
 
 (2) The Commissioners must pay interest to the person on the amount concerned for the applicable period.
 
@@ -191,7 +191,7 @@ No payment may be made to a person under this Part of this Schedule unless—
 **10.** (1) This paragraph applies if—
 
 - (a) a person makes a claim for a payment under paragraph 1 or 2 of this Schedule and the Commissioners authorise it, and
-- (b) he makes a claim for interest under this paragraph before the end of the period of 4 years[^key-0086bbb096f57ecbe5432938c39895e4] starting with the day when the Commissioners authorise the payment.
+- (b) he makes a claim for interest under this paragraph before the end of the period of 4 years[^c-0086bbb096f57ecbe5432938c39895e4] starting with the day when the Commissioners authorise the payment.
 
 (2) The Commissioners must pay interest to the person on the amount concerned for the applicable period.
 
@@ -247,7 +247,7 @@ In the case of interest under this Part of this Schedule, the rate is that appli
 - (a) starts with the day when the duty is paid or the cash security is given, and
 - (b) ends with the day when the Commissioners authorise the repayment.
 
-(4)[^key-ce07b9af3f42bd180ac411bfdfeb6c84] The rate of interest is the rate applicable under section 197 of the Finance Act 1996.
+(4)[^c-ce07b9af3f42bd180ac411bfdfeb6c84] The rate of interest is the rate applicable under section 197 of the Finance Act 1996.
 
 (5) In this paragraph “**cash security**” means such adequate security as enables the Commissioners to place the amount in question on deposit.
 
@@ -360,18 +360,18 @@ In section 137A of the Customs and Excise Management Act 1979 (c. 2) (recovery o
 
 ## Annotations
 
-[^key-6aa72fa74da0bbf9f026a24a9d00bed3]: Textual amendment: Words in [Sch. 3 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/1/2/a) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 16(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/16/a); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-6aa72fa74da0bbf9f026a24a9d00bed3]: Textual amendment: Words in [Sch. 3 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/1/2/a) substituted (1.8.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 16(a)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/16/a); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-832db558abc63f64ac86b37264c18279]: Textual amendment: [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/1/2/b) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 16(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/16/b); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-832db558abc63f64ac86b37264c18279]: Textual amendment: [Sch. 3 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/1/2/b) omitted (1.8.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2), [Sch. 13 para. 16(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/13/paragraph/16/b); [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/j) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-89b9fb3665b8205caddd1634feac418a]: Textual amendment: Words in [Sch. 3 para. 7(1)(d)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/7/1/d) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 8(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/8/a); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2011/777/article/8))
+[^c-89b9fb3665b8205caddd1634feac418a]: Textual amendment: Words in [Sch. 3 para. 7(1)(d)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/7/1/d) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 8(a)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/8/a); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2011/777/article/8))
 
-[^key-63bd38d3228f5726fba8f9975cfa4b17]: Textual amendment: Words in [Sch. 3 para. 8(1)(e)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/8/1/e) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 8(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/8/b); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2011/777/article/8))
+[^c-63bd38d3228f5726fba8f9975cfa4b17]: Textual amendment: Words in [Sch. 3 para. 8(1)(e)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/8/1/e) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 8(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/8/b); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2011/777/article/8))
 
-[^key-49adb3bbab146a34fef025f2fe5f2bac]: Textual amendment: Words in [Sch. 3 para. 9(1)(g)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/9/1/g) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 8(c)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/8/c); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2011/777/article/8))
+[^c-49adb3bbab146a34fef025f2fe5f2bac]: Textual amendment: Words in [Sch. 3 para. 9(1)(g)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/9/1/g) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 8(c)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/8/c); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2011/777/article/8))
 
-[^key-0086bbb096f57ecbe5432938c39895e4]: Textual amendment: Words in [Sch. 3 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/10/1/b) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 8(d)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/8/d); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2011/777/article/8))
+[^c-0086bbb096f57ecbe5432938c39895e4]: Textual amendment: Words in [Sch. 3 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/10/1/b) substituted (1.4.2011) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 8(d)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/8/d); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2) (with [art. 8](https://www.legislation.gov.uk/uksi/2011/777/article/8))
 
-[^key-ce07b9af3f42bd180ac411bfdfeb6c84]: Textual amendment: [Sch. 3 para. 14(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/14/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 308](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/308) (with [Sch. 3 para. 9(2)(g)](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/9/2/g))
+[^c-ce07b9af3f42bd180ac411bfdfeb6c84]: Textual amendment: [Sch. 3 para. 14(4)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/14/4) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 308](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/308) (with [Sch. 3 para. 9(2)(g)](https://www.legislation.gov.uk/uksi/2009/56/schedule/3/paragraph/9/2/g))
 
 [^c12450511]: Subordinate legislation: [Sch. 3 para. 21(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3/paragraph/21/1) power fully exercised: 1.11.2001 appointed by [S.I. 2001/3300](https://www.legislation.gov.uk/uksi/2001/3300), [art. 2](https://www.legislation.gov.uk/uksi/2001/3300/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/3300/article/3))

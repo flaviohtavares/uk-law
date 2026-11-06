@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Requiring information[^key-73d8b2700e2954947194d4dbee154058]
+## 106. Requiring information[^c-73d8b2700e2954947194d4dbee154058]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Pursuant to section 119A of the Administration Act, where a claim is made to the
 
 ## Annotations
 
-[^key-73d8b2700e2954947194d4dbee154058]: Commencement: [Reg. 106](https://www.legislation.gov.uk/nisr/2006/405/regulation/106) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-73d8b2700e2954947194d4dbee154058]: Commencement: [Reg. 106](https://www.legislation.gov.uk/nisr/2006/405/regulation/106) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Duty to meet assessed needs[^key-7254dca6657580b544667f9a8eec6b38]
+## 103. Duty to meet assessed needs[^c-7254dca6657580b544667f9a8eec6b38]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7254dca6657580b544667f9a8eec6b38]: Commencement: [S. 103](https://www.legislation.gov.uk/anaw/2014/7/section/103) in force at 16.3.2016 by [S.I. 2016/266](https://www.legislation.gov.uk/wsi/2016/266), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/266/article/2/a)
+[^c-7254dca6657580b544667f9a8eec6b38]: Commencement: [S. 103](https://www.legislation.gov.uk/anaw/2014/7/section/103) in force at 16.3.2016 by [S.I. 2016/266](https://www.legislation.gov.uk/wsi/2016/266), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/266/article/2/a)

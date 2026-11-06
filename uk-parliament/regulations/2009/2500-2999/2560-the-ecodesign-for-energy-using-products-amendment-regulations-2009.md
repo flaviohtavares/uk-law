@@ -32,7 +32,7 @@ summary: ''
 
 Energy Conservation
 
-The Ecodesign for Energy-Using Products (Amendment) Regulations 2009 (revoked)[^key-3bb53df766655f25ed7f8f5c460c433a]
+The Ecodesign for Energy-Using Products (Amendment) Regulations 2009 (revoked)[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 Made
 
@@ -46,72 +46,72 @@ Coming into force
 
 15th October 2009
 
-[^key-3bb53df766655f25ed7f8f5c460c433a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bb53df766655f25ed7f8f5c460c433a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 1. Citation and commencement[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Ecodesign for Energy-Using Products Regulations 2007[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 2. Amendment of the Ecodesign for Energy-Using Products Regulations 2007[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Part 1[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 3. Amendment of Part 1[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Part 2[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 4. Amendment of Part 2[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Part 3[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 5. Amendment of Part 3[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Part 4[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 6. Amendment of Part 4[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Part 5[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 7. Amendment of Part 5[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Part 6[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 8. Amendment of Part 6[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of Schedule 1[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 9. Amendment of Schedule 1[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Schedule 2[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 10. Amendment of Schedule 2[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of Schedule 3[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 11. Amendment of Schedule 3[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Schedule 5[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 12. Amendment of Schedule 5[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of Schedule 9[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 13. Amendment of Schedule 9[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. References to enforcing authority[^key-3bb53df766655f25ed7f8f5c460c433a]
+## 14. References to enforcing authority[^c-3bb53df766655f25ed7f8f5c460c433a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3bb53df766655f25ed7f8f5c460c433a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bb53df766655f25ed7f8f5c460c433a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3bb53df766655f25ed7f8f5c460c433a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bb53df766655f25ed7f8f5c460c433a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3bb53df766655f25ed7f8f5c460c433a]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy-Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/b)
+[^c-3bb53df766655f25ed7f8f5c460c433a]: Textual amendment: Regulations revoked (20.11.2010) by [The Ecodesign for Energy-Related Products Regulations 2010 (S.I. 2010/2617)](https://www.legislation.gov.uk/uksi/2010/2617), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2617/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2010/2617/regulation/20/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Expenses of statement of affairs[^key-4f168cd59fb4463d8515f4f01908fcc4]
+## 31. Expenses of statement of affairs[^c-4f168cd59fb4463d8515f4f01908fcc4]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f168cd59fb4463d8515f4f01908fcc4]: Commencement: Rule 31 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-4f168cd59fb4463d8515f4f01908fcc4]: Commencement: Rule 31 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

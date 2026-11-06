@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Amount of extended council tax reduction (qualifying contributory benefits)[^key-28b088ee815054b92fad4543a56d166e]
+## 87. Amount of extended council tax reduction (qualifying contributory benefits)[^c-28b088ee815054b92fad4543a56d166e]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28b088ee815054b92fad4543a56d166e]: Commencement: [Reg. 87](https://www.legislation.gov.uk/ssi/2021/249/regulation/87) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-28b088ee815054b92fad4543a56d166e]: Commencement: [Reg. 87](https://www.legislation.gov.uk/ssi/2021/249/regulation/87) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

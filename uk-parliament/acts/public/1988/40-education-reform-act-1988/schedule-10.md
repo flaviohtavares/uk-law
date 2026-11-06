@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — Supplementary Provisions with respect to Transfers[^c12685401][^key-13df4683887f98bfd50c0ebe7446613c][^key-f61761821b9bc4f81dbb15c82986339b][^key-ba99ed80dc1a0283109daad69a2f6f7e][^key-6c04cf699691a85759ad359c2e931c8e][^key-1938487c413e424ad07814c422445aa5]
+## SCHEDULE 10 — Supplementary Provisions with respect to Transfers[^c12685401][^c-13df4683887f98bfd50c0ebe7446613c][^c-f61761821b9bc4f81dbb15c82986339b][^c-ba99ed80dc1a0283109daad69a2f6f7e][^c-6c04cf699691a85759ad359c2e931c8e][^c-1938487c413e424ad07814c422445aa5]
 
 *Extent: E+W*
 
@@ -59,9 +59,9 @@ subject (in either case) to such arrangements for the protection of the other pe
 - (c) references to a transferor authority are references to a local authority who are the transferor for the purposes of any transfer to which this Schedule applies;
 - (d) references to a transferor body are references to any foundation body who are the transferor for the purposes of any transfer to which this Schedule applies;
 
-[^key-73ec827fc9d3f6cea3b6712218bc55f9]...
+[^c-73ec827fc9d3f6cea3b6712218bc55f9]...
 
-(6)[^key-8a7fab15cc0e81c916af0178f1a93353] For the purposes of sub-paragraph (5)—
+(6)[^c-8a7fab15cc0e81c916af0178f1a93353] For the purposes of sub-paragraph (5)—
 
 - (a) references to a maintained school or a foundation body have the same meanings as in the School Standards and Framework Act 1998;
 - (b) “local authority” includes a non-metropolitan district council for an area for which there is a county council.
@@ -189,15 +189,15 @@ such compensation as may be just shall be paid to that person by the transferor,
 
     Sch. 10 modified (W.) (1.9.2001) by [The Change of Category of Maintained Schools (Wales) Regulations 2001 (S.I. 2001/2678)](https://www.legislation.gov.uk/uksi/2001/2678), [reg. 16](https://www.legislation.gov.uk/uksi/2001/2678/regulation/16), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2001/2678/schedule/4/paragraph/2)
 
-[^key-13df4683887f98bfd50c0ebe7446613c]: Modification: Sch. 10 applied (E.) (25.5.2007) by [The School Governance (Federations) (England) Regulations 2007 (S.I. 2007/960)](https://www.legislation.gov.uk/uksi/2007/960), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/960/regulation/1/1), [41(2)](https://www.legislation.gov.uk/uksi/2007/960/regulation/41/2), [46(2)](https://www.legislation.gov.uk/uksi/2007/960/regulation/46/2)
+[^c-13df4683887f98bfd50c0ebe7446613c]: Modification: Sch. 10 applied (E.) (25.5.2007) by [The School Governance (Federations) (England) Regulations 2007 (S.I. 2007/960)](https://www.legislation.gov.uk/uksi/2007/960), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/960/regulation/1/1), [41(2)](https://www.legislation.gov.uk/uksi/2007/960/regulation/41/2), [46(2)](https://www.legislation.gov.uk/uksi/2007/960/regulation/46/2)
 
-[^key-f61761821b9bc4f81dbb15c82986339b]: Modification: Sch. 10 applied (W.) (12.4.2010) by [The Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010 (S.I. 2010/638)](https://www.legislation.gov.uk/uksi/2010/638), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/638/regulation/1/1), [80(2)](https://www.legislation.gov.uk/uksi/2010/638/regulation/80/2), [86(2)](https://www.legislation.gov.uk/uksi/2010/638/regulation/86/2)
+[^c-f61761821b9bc4f81dbb15c82986339b]: Modification: Sch. 10 applied (W.) (12.4.2010) by [The Federation of Maintained Schools and Miscellaneous Amendments (Wales) Regulations 2010 (S.I. 2010/638)](https://www.legislation.gov.uk/uksi/2010/638), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/638/regulation/1/1), [80(2)](https://www.legislation.gov.uk/uksi/2010/638/regulation/80/2), [86(2)](https://www.legislation.gov.uk/uksi/2010/638/regulation/86/2)
 
-[^key-ba99ed80dc1a0283109daad69a2f6f7e]: Modification: Sch. 10 applied (1.9.2012) by [The School Governance (Federations) (England) Regulations 2012 (S.I. 2012/1035)](https://www.legislation.gov.uk/uksi/2012/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2012/1035/regulation/13/2), 33(2), 39(2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2012/1035/regulation/2))
+[^c-ba99ed80dc1a0283109daad69a2f6f7e]: Modification: Sch. 10 applied (1.9.2012) by [The School Governance (Federations) (England) Regulations 2012 (S.I. 2012/1035)](https://www.legislation.gov.uk/uksi/2012/1035), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2012/1035/regulation/13/2), 33(2), 39(2) (with [reg. 2](https://www.legislation.gov.uk/uksi/2012/1035/regulation/2))
 
-[^key-6c04cf699691a85759ad359c2e931c8e]: Modification: Sch. 10 modified (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 4 para. 9](https://www.legislation.gov.uk/anaw/2013/1/schedule/4/paragraph/9); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(h)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/h)
+[^c-6c04cf699691a85759ad359c2e931c8e]: Modification: Sch. 10 modified (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 4 para. 9](https://www.legislation.gov.uk/anaw/2013/1/schedule/4/paragraph/9); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(h)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/h)
 
-[^key-1938487c413e424ad07814c422445aa5]: Modification: Sch. 10 applied (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [84(2)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/84/2), 91(2)
+[^c-1938487c413e424ad07814c422445aa5]: Modification: Sch. 10 applied (22.5.2014) by [The Federation of Maintained Schools (Wales) Regulations 2014 (S.I. 2014/1132)](https://www.legislation.gov.uk/wsi/2014/1132), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1), [84(2)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/84/2), 91(2)
 
 [^c12685411]: Textual amendment: Crossheading and Sch. 10 para. 1 substituted (1.2.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 137 Sch. 29 para.3](https://www.legislation.gov.uk/ukpga/1998/31/section/137/schedule/29/paragraph/3) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/120](https://www.legislation.gov.uk/uksi/1999/120), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/120/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/120/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/120/article/4))
 
@@ -205,9 +205,9 @@ such compensation as may be just shall be paid to that person by the transferor,
 
 [^c12685491]: Modification: Sch. 10 paras. 1-3 applied (with modifications) (1.1.2001) by [S.I. 2000/3209](https://www.legislation.gov.uk/uksi/2000/3209), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2000/3209/regulation/5/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/3209/schedule/1)
 
-[^key-73ec827fc9d3f6cea3b6712218bc55f9]: Textual amendment: Words in Sch. 10 para. 1(5) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(9)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/9/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
+[^c-73ec827fc9d3f6cea3b6712218bc55f9]: Textual amendment: Words in Sch. 10 para. 1(5) repealed (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(9)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/9/a), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
 
-[^key-8a7fab15cc0e81c916af0178f1a93353]: Textual amendment: Sch. 10 para. 1(6) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(9)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/9/b)
+[^c-8a7fab15cc0e81c916af0178f1a93353]: Textual amendment: Sch. 10 para. 1(6) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 4(9)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/4/9/b)
 
 [^c12685501]: Textual amendment: Crossheading and Sch. 10 para. 2 substituted (1.2.1999) by [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31), [s. 137](https://www.legislation.gov.uk/ukpga/1998/31/section/137), [Sch. 29 para.4](https://www.legislation.gov.uk/ukpga/1998/31/schedule/29/paragraph/4) (with [ss. 138(9)](https://www.legislation.gov.uk/ukpga/1998/31/section/138/9), [144(6)](https://www.legislation.gov.uk/ukpga/1998/31/section/144/6)); [S.I. 1999/120](https://www.legislation.gov.uk/uksi/1999/120), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/120/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/120/schedule/1) (with [art. 4](https://www.legislation.gov.uk/uksi/1999/120/article/4)).
 

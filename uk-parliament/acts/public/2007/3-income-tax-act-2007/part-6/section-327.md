@@ -26,15 +26,15 @@ summary: ''
 - section 289 (the proportion of eligible shares requirement),
 - section 290 (the trading requirement),
 - section 291 (the carrying on of a qualifying activity requirement),
-- section 292A (the maximum amount raised annually through risk finance investments requirement),[^key-821ddbb766a12b7801b73e10ddaf0916]
+- section 292A (the maximum amount raised annually through risk finance investments requirement),[^c-821ddbb766a12b7801b73e10ddaf0916]
 - section 292AA (the maximum amount raised through risk finance investments when relevant holding is issued requirement),
 - section 292AB (the maximum risk finance investments during the 5-year post-investment period requirement),
 - section 293 (the use of the money raised requirement),
 - section 294 (the relevant company to carry on the relevant qualifying activity requirement),
-- section 294A (the permitted company age requirement),[^key-c8d7468ba8357e00c563dfe468fee41a]
-- section 296 (the control and independence requirement), [^key-05e0a7d26f70abaa90fa9e06947b1bad]...
-- section 297 (the gross assets requirement),[^key-9af2052741eb66eec6ee2bd1ae8c7046]...
-- section 297A (the number of employees requirement) , and[^key-95d7d91ae5c87bdc3e63ac9840cb012d]
+- section 294A (the permitted company age requirement),[^c-c8d7468ba8357e00c563dfe468fee41a]
+- section 296 (the control and independence requirement), [^c-05e0a7d26f70abaa90fa9e06947b1bad]...
+- section 297 (the gross assets requirement),[^c-9af2052741eb66eec6ee2bd1ae8c7046]...
+- section 297A (the number of employees requirement) , and[^c-95d7d91ae5c87bdc3e63ac9840cb012d]
 - section 297B (the proportion of skilled employees requirement).
 
 (2) If the requirements of sections 290 and 291 were met in relation to the old company and any old shares immediately before the beginning of the period for giving effect to the arrangements, then (so far as it would not otherwise be the case) those requirements are treated as being met in relation to the new company and the matching new shares at all times which—
@@ -51,11 +51,11 @@ summary: ''
 (4) Subject to subsection (5), if—
 
 - (a) there is an exchange under the arrangements of any new shares for any old shares, and
-- (b) those old shares are shares in relation to which the requirements of sections 292A, 292AA, 292AB[^key-597e117924c3439744c83f2a39c5226d], 293, 294 , 294A[^key-05da8ab5308a5f2ada55d3839fe63feb], 297 , 297A and 297B[^key-1d2da3c910d0b9f224c4cb936527adff] were (or were treated as being) met to any extent immediately before the exchange,
+- (b) those old shares are shares in relation to which the requirements of sections 292A, 292AA, 292AB[^c-597e117924c3439744c83f2a39c5226d], 293, 294 , 294A[^c-05da8ab5308a5f2ada55d3839fe63feb], 297 , 297A and 297B[^c-1d2da3c910d0b9f224c4cb936527adff] were (or were treated as being) met to any extent immediately before the exchange,
 
 those requirements are to be treated, at all times after that time, as met to the same extent in relation to the matching new shares.
 
-(4A)[^key-b9fb1bd28f0efabaaff8e1b56bc66e38] If—
+(4A)[^c-b9fb1bd28f0efabaaff8e1b56bc66e38] If—
 
 - (a) there is an exchange under the arrangements of any new shares for any old shares,
 - (b) that exchange occurs during the period of 5 years beginning with the day after the day on which the old shares were issued, and
@@ -116,20 +116,20 @@ is to be taken to be the same as the value, when last valued in accordance with 
 
 ## Annotations
 
-[^key-821ddbb766a12b7801b73e10ddaf0916]: Textual amendment: Words in s. 327(1) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/2/a)
+[^c-821ddbb766a12b7801b73e10ddaf0916]: Textual amendment: Words in s. 327(1) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/2/a)
 
-[^key-c8d7468ba8357e00c563dfe468fee41a]: Textual amendment: Words in s. 327(1) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/2/b)
+[^c-c8d7468ba8357e00c563dfe468fee41a]: Textual amendment: Words in s. 327(1) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/2/b)
 
-[^key-05e0a7d26f70abaa90fa9e06947b1bad]: Textual amendment: Word in s. 327(1) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(16)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/16)
+[^c-05e0a7d26f70abaa90fa9e06947b1bad]: Textual amendment: Word in s. 327(1) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(16)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/16)
 
-[^key-9af2052741eb66eec6ee2bd1ae8c7046]: Textual amendment: Word in s. 327(1) omitted (18.11.2015) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/2/c)
+[^c-9af2052741eb66eec6ee2bd1ae8c7046]: Textual amendment: Word in s. 327(1) omitted (18.11.2015) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/2/c)
 
-[^key-95d7d91ae5c87bdc3e63ac9840cb012d]: Textual amendment: Words in s. 327(1) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/2/c)
+[^c-95d7d91ae5c87bdc3e63ac9840cb012d]: Textual amendment: Words in s. 327(1) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/2/c)
 
-[^key-597e117924c3439744c83f2a39c5226d]: Textual amendment: Words in s. 327(4) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/3/a)
+[^c-597e117924c3439744c83f2a39c5226d]: Textual amendment: Words in s. 327(4) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/3/a)
 
-[^key-05da8ab5308a5f2ada55d3839fe63feb]: Textual amendment: Words in s. 327(4) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/3/b)
+[^c-05da8ab5308a5f2ada55d3839fe63feb]: Textual amendment: Words in s. 327(4) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/3/b)
 
-[^key-1d2da3c910d0b9f224c4cb936527adff]: Textual amendment: Words in s. 327(4) substituted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(3)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/3/c)
+[^c-1d2da3c910d0b9f224c4cb936527adff]: Textual amendment: Words in s. 327(4) substituted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(3)(c)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/3/c)
 
-[^key-b9fb1bd28f0efabaaff8e1b56bc66e38]: Textual amendment: S. 327(4A)-(4G) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/4)
+[^c-b9fb1bd28f0efabaaff8e1b56bc66e38]: Textual amendment: S. 327(4A)-(4G) inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 18(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/18/4)

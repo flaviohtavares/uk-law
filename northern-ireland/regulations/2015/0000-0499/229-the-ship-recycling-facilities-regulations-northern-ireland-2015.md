@@ -56,11 +56,11 @@ These Regulations may be cited as the Ship Recycling Facilities Regulations (Nor
 - “**the EU Ship Recycling Regulation**” means Regulation (EU) No. 1257/2013 of the European Parliament and of the Council on ship recycling [^c22515101];
 - “**the Department**” means the Department of the Environment;
 - “**the Executive**” means the Health and Safety Executive for Northern Ireland established under Article 12 (Establishment of the Executive) of the 1978 Order;
-- “**the European List**” means the list of ship recycling facilities established and as amended from time to time[^key-4c3f684c0659e2a772adab7bacc397d3] under Article 16 (Establishment and updating of the European List) of the EU Ship Recycling Regulation;
+- “**the European List**” means the list of ship recycling facilities established and as amended from time to time[^c-4c3f684c0659e2a772adab7bacc397d3] under Article 16 (Establishment and updating of the European List) of the EU Ship Recycling Regulation;
 - “**health and safety regulations**” means regulations made under Article 17 (Health and safety regulations) of the 1978 Order;
 - “**permit**” means a waste management licence granted under Article 6 (Waste management licences: general) of the Waste and Contaminated Land (Northern Ireland) Order 1997 or a permit granted under regulation 10 (Permits: general provisions) of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013 [^c22515111];
 - “**suspension notice**” means a notice suspending a licence under Article 12 (Revocation and suspension of licences) or 16 (Supervision of licensed activities) of the Waste and Contaminated Land (Northern Ireland) Order 1997 or a notice stating that a permit ceases to have effect under regulation 28 (Suspension notices) of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013.
-- “[^key-6b7d3c1662b3dbb2394507642d68dfd3]**United Kingdom List**” means the list of ship recycling facilities published by the Secretary of State under Article 16 of the EU Ship Recycling Regulation;
+- “[^c-6b7d3c1662b3dbb2394507642d68dfd3]**United Kingdom List**” means the list of ship recycling facilities published by the Secretary of State under Article 16 of the EU Ship Recycling Regulation;
 - “**United Kingdom ship**” means a ship registered in the United Kingdom under Part 2 of the Merchant Shipping Act 1995.
 
 (2) Terms which are used in these Regulations that are used in the EU Ship Recycling Regulation have the meaning they bear in that Regulation.
@@ -73,17 +73,17 @@ The Department and the Executive acting jointly are designated as the competent 
 
 ## 4. Authorisation of ship recycling facilities
 
-(1) The Department's functions in relation to a permit for a ship recycling facility include ensuring compliance with Articles 13 to 15[^key-a08ddba770dfd21af2a1a022ad91b2b0] of the EU Ship Recycling Regulation, but the Department must only exercise any such functions relating to health and safety with the consent of the Executive.
+(1) The Department's functions in relation to a permit for a ship recycling facility include ensuring compliance with Articles 13 to 15[^c-a08ddba770dfd21af2a1a022ad91b2b0] of the EU Ship Recycling Regulation, but the Department must only exercise any such functions relating to health and safety with the consent of the Executive.
 
-(2) A condition relating to health and safety to ensure compliance with Articles 13 to 15[^key-1cd13f6267f9f3c02ac3c9eb9ff6520a] of the EU Ship Recycling Regulation may be imposed in a permit for a ship recycling facility.
+(2) A condition relating to health and safety to ensure compliance with Articles 13 to 15[^c-1cd13f6267f9f3c02ac3c9eb9ff6520a] of the EU Ship Recycling Regulation may be imposed in a permit for a ship recycling facility.
 
 (3) A power to serve a suspension notice in relation to a permit for a ship recycling facility includes the power to serve a notice where the competent authority considers that the operation of the ship recycling facility involves a serious risk to health and safety.
 
 ## 5. Application of the 1978 Order
 
-Any function of the Executive under any provision of the 1978 Order in respect of health and safety regulations is exercisable as if Articles 13 to 15[^key-a5eab13f9ea88ac9906e83efb3322fc4] of the EU Ship Recycling Regulation were health and safety regulations for the purposes of that Order.
+Any function of the Executive under any provision of the 1978 Order in respect of health and safety regulations is exercisable as if Articles 13 to 15[^c-a5eab13f9ea88ac9906e83efb3322fc4] of the EU Ship Recycling Regulation were health and safety regulations for the purposes of that Order.
 
-## 6. Facilities at which ships may be recycled[^key-882e0340199fd5b7d54789348423d3a3]
+## 6. Facilities at which ships may be recycled[^c-882e0340199fd5b7d54789348423d3a3]
 
 (1) A ship recycling facility in Northern Ireland must not accept any ship flying the flag of a Member State within the scope of the EU Ship Recycling Regulation for ship recycling unless the ship recycling facility is included on the European List.
 
@@ -148,21 +148,21 @@ These Regulations amend the Waste Management Licensing Regulations (Northern Ire
 
 [^c22515101]: Marginal citation: O.J. No. L330, 10.12.2013, p.1
 
-[^key-4c3f684c0659e2a772adab7bacc397d3]: Textual amendment: Words in reg. 2 inserted (29.10.2018) by [The Ship Recycling Facilities (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/171)](https://www.legislation.gov.uk/nisr/2018/171), [regs. 1](https://www.legislation.gov.uk/nisr/2018/171/regulation/1), [2](https://www.legislation.gov.uk/nisr/2018/171/regulation/2)
+[^c-4c3f684c0659e2a772adab7bacc397d3]: Textual amendment: Words in reg. 2 inserted (29.10.2018) by [The Ship Recycling Facilities (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/171)](https://www.legislation.gov.uk/nisr/2018/171), [regs. 1](https://www.legislation.gov.uk/nisr/2018/171/regulation/1), [2](https://www.legislation.gov.uk/nisr/2018/171/regulation/2)
 
 [^c22515111]: Marginal citation: S.R. [2013 No. 160](https://www.legislation.gov.uk/ukcm/2013/160) to which there are amendments not relevant to these Regulations
 
-[^key-6b7d3c1662b3dbb2394507642d68dfd3]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b7d3c1662b3dbb2394507642d68dfd3]: Textual amendment: Words in reg. 2(1) inserted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22515121]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-a08ddba770dfd21af2a1a022ad91b2b0]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a08ddba770dfd21af2a1a022ad91b2b0]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1cd13f6267f9f3c02ac3c9eb9ff6520a]: Textual amendment: Words in reg. 4(2) substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1cd13f6267f9f3c02ac3c9eb9ff6520a]: Textual amendment: Words in reg. 4(2) substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5eab13f9ea88ac9906e83efb3322fc4]: Textual amendment: Words in reg. 5 substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a5eab13f9ea88ac9906e83efb3322fc4]: Textual amendment: Words in reg. 5 substituted (31.12.2020) by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/277)](https://www.legislation.gov.uk/uksi/2019/277), [regs. 1](https://www.legislation.gov.uk/uksi/2019/277/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/277/regulation/4/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-882e0340199fd5b7d54789348423d3a3]: Textual amendment: Regs. 6, 6A substituted for reg. 6 (31.12.2020) by S.I. 2019/277, reg. 4(5) (as substituted by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/3/b))
+[^c-882e0340199fd5b7d54789348423d3a3]: Textual amendment: Regs. 6, 6A substituted for reg. 6 (31.12.2020) by S.I. 2019/277, reg. 4(5) (as substituted by [The Ship Recycling (Facilities and Requirements for Hazardous Materials on Ships) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1429)](https://www.legislation.gov.uk/uksi/2020/1429), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1429/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1429/regulation/3/b))
 
 [^c22515131]: Marginal citation: S.R. [2003 No.493](https://www.legislation.gov.uk/ukcm/2003/493); relevant amending Regulations are S.R. [2006 No. 519](https://www.legislation.gov.uk/ukcm/2006/519), S.R. [2009 No. 159](https://www.legislation.gov.uk/ukcm/2009/159), S.R. [2011 No. 127](https://www.legislation.gov.uk/ukcm/2011/127) and S.R. [2014 No. 253](https://www.legislation.gov.uk/ukcm/2014/253)
 

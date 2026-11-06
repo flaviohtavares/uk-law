@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13 — The Training and Development Agency for Schools[^key-f30fcfd8f0a6ec7c3e2b7c1a160e6e18]
+## SCHEDULE 13 — The Training and Development Agency for Schools[^c-f30fcfd8f0a6ec7c3e2b7c1a160e6e18]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ Section 77
 
 ## Annotations
 
-[^key-f30fcfd8f0a6ec7c3e2b7c1a160e6e18]: Textual amendment: Sch. 13 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 14](https://www.legislation.gov.uk/ukpga/2011/21/section/14), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-f30fcfd8f0a6ec7c3e2b7c1a160e6e18]: Textual amendment: Sch. 13 repealed (1.4.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 14](https://www.legislation.gov.uk/ukpga/2011/21/section/14), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 9B — The Irish Language Commissioner[^key-a6e9c78cfaeeba8d2d798ae3477d9b9e]
+## Schedule 9B — The Irish Language Commissioner[^c-a6e9c78cfaeeba8d2d798ae3477d9b9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,4 +141,4 @@ The Commissioner may do whatever the Commissioner considers appropriate for faci
 
 ## Annotations
 
-[^key-a6e9c78cfaeeba8d2d798ae3477d9b9e]: Textual amendment: Sch. 9B inserted (22.5.2023) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/45/schedule/2); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/d)
+[^c-a6e9c78cfaeeba8d2d798ae3477d9b9e]: Textual amendment: Sch. 9B inserted (22.5.2023) by [Identity and Language (Northern Ireland) Act 2022 (c. 45)](https://www.legislation.gov.uk/ukpga/2022/45), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2022/45/section/10/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2022/45/schedule/2); [S.I. 2023/566](https://www.legislation.gov.uk/uksi/2023/566), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/566/regulation/2/d)

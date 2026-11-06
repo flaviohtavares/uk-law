@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44.2. Court’s discretion as to costs[^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 44.2. Court’s discretion as to costs[^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
@@ -46,9 +46,9 @@ summary: ''
 
 - (a) conduct before, as well as during, the proceedings and in particular the extent to which the parties followed the Practice Direction – Pre-Action Conduct or any relevant pre-action protocol;
 - (b) whether it was reasonable for a party to raise, pursue or contest a particular allegation or issue;
-- (c) the manner in which a party has pursued or defended its case or a particular allegation or issue; [^key-94c949096176144664376e9e13d0db65]...
-- (d) whether a claimant who has succeeded in the claim, in whole or in part, exaggerated its claim ; and[^key-73973abffac871dd07028dd0468fae1d]
-- (e)[^key-054b5146cf9190eff307af1b7cc37bd2] whether a party failed to comply with an order for alternative dispute resolution, or unreasonably failed to engage in alternative dispute resolution.
+- (c) the manner in which a party has pursued or defended its case or a particular allegation or issue; [^c-94c949096176144664376e9e13d0db65]...
+- (d) whether a claimant who has succeeded in the claim, in whole or in part, exaggerated its claim ; and[^c-73973abffac871dd07028dd0468fae1d]
+- (e)[^c-054b5146cf9190eff307af1b7cc37bd2] whether a party failed to comply with an order for alternative dispute resolution, or unreasonably failed to engage in alternative dispute resolution.
 
 (6) The orders which the court may make under this rule include an order that a party must pay—
 
@@ -64,7 +64,7 @@ summary: ''
 
 (8) Where the court orders a party to pay costs subject to detailed assessment, it will order that party to pay a reasonable sum on account of costs, unless there is good reason not to do so.
 
-(9)[^key-3282fe83365644219c502dadfd0bfab5] In respect of a SLAPP claim, a court may not exercise its discretion so as to order a defendant to pay a claimant’s costs except where, in the court’s view, misconduct of the defendant in relation to the claim justifies such an order.
+(9)[^c-3282fe83365644219c502dadfd0bfab5] In respect of a SLAPP claim, a court may not exercise its discretion so as to order a defendant to pay a claimant’s costs except where, in the court’s view, misconduct of the defendant in relation to the claim justifies such an order.
 
 (10) For the purposes of paragraph (9), a SLAPP claim is strategic litigation against public participation being a SLAPP claim within the meaning of section 195 of the Economic Crime and Corporate Transparency Act 2023.
 
@@ -72,12 +72,12 @@ summary: ''
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-94c949096176144664376e9e13d0db65]: Textual amendment: Word in rule 44.2(5)(c) omitted (1.10.2024) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [10(1)(a)](https://www.legislation.gov.uk/uksi/2024/839/rule/10/1/a)
+[^c-94c949096176144664376e9e13d0db65]: Textual amendment: Word in rule 44.2(5)(c) omitted (1.10.2024) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [10(1)(a)](https://www.legislation.gov.uk/uksi/2024/839/rule/10/1/a)
 
-[^key-73973abffac871dd07028dd0468fae1d]: Textual amendment: Word in rule 44.2(5)(d) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [10(1)(b)](https://www.legislation.gov.uk/uksi/2024/839/rule/10/1/b)
+[^c-73973abffac871dd07028dd0468fae1d]: Textual amendment: Word in rule 44.2(5)(d) substituted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [10(1)(b)](https://www.legislation.gov.uk/uksi/2024/839/rule/10/1/b)
 
-[^key-054b5146cf9190eff307af1b7cc37bd2]: Textual amendment: Rule 44.2(5)(e) inserted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [10(1)(c)](https://www.legislation.gov.uk/uksi/2024/839/rule/10/1/c)
+[^c-054b5146cf9190eff307af1b7cc37bd2]: Textual amendment: Rule 44.2(5)(e) inserted (1.10.2024) by [The Civil Procedure (Amendment No. 3) Rules 2024 (S.I. 2024/839)](https://www.legislation.gov.uk/uksi/2024/839), [rules 1(1)](https://www.legislation.gov.uk/uksi/2024/839/rule/1/1), [10(1)(c)](https://www.legislation.gov.uk/uksi/2024/839/rule/10/1/c)
 
-[^key-3282fe83365644219c502dadfd0bfab5]: Textual amendment: [Rule 44.2(9)](https://www.legislation.gov.uk/uksi/1998/3132/rule/44.2/9)[(10)](https://www.legislation.gov.uk/uksi/1998/3132/rule/44.2/10) and words inserted (18.6.2025) by [The Civil Procedure (Amendment) Rules 2025 (S.I. 2025/106)](https://www.legislation.gov.uk/uksi/2025/106), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/106/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2025/106/rule/9); [S.I. 2025/718](https://www.legislation.gov.uk/uksi/2025/718), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/718/regulation/2/a)
+[^c-3282fe83365644219c502dadfd0bfab5]: Textual amendment: [Rule 44.2(9)](https://www.legislation.gov.uk/uksi/1998/3132/rule/44.2/9)[(10)](https://www.legislation.gov.uk/uksi/1998/3132/rule/44.2/10) and words inserted (18.6.2025) by [The Civil Procedure (Amendment) Rules 2025 (S.I. 2025/106)](https://www.legislation.gov.uk/uksi/2025/106), [rules 1(2)](https://www.legislation.gov.uk/uksi/2025/106/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2025/106/rule/9); [S.I. 2025/718](https://www.legislation.gov.uk/uksi/2025/718), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/718/regulation/2/a)

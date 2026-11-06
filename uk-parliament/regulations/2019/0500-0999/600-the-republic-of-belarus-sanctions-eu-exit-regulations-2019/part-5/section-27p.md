@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27P. Preventing provision of internet services to or for the benefit of designated persons[^key-e0e5fcdf409353c6aa367ff238f45d41]
+## 27P. Preventing provision of internet services to or for the benefit of designated persons[^c-e0e5fcdf409353c6aa367ff238f45d41]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0e5fcdf409353c6aa367ff238f45d41]: Textual amendment: [Pt. 5 Ch. 2D](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2D) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/616/regulation/10)
+[^c-e0e5fcdf409353c6aa367ff238f45d41]: Textual amendment: [Pt. 5 Ch. 2D](https://www.legislation.gov.uk/uksi/2019/600/part/5/chapter/2D) inserted (9.6.2023) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/616)](https://www.legislation.gov.uk/uksi/2023/616), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/616/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2023/616/regulation/10)

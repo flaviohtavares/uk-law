@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Practice directions[^key-93a8c73b7378eaa1c552b86abfa3879c]
+## 14. Practice directions[^c-93a8c73b7378eaa1c552b86abfa3879c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93a8c73b7378eaa1c552b86abfa3879c]: Commencement: Reg. 14 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-93a8c73b7378eaa1c552b86abfa3879c]: Commencement: Reg. 14 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Applicable amounts for persons in board and lodging accommodation and hostels[^key-d2b8a653770aa3c6db1ef41bd4a8fda1][^key-2eb49b3cadb6a9dcc46c557f8b7ab166]
+## 20. Applicable amounts for persons in board and lodging accommodation and hostels[^c-d2b8a653770aa3c6db1ef41bd4a8fda1][^c-2eb49b3cadb6a9dcc46c557f8b7ab166]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d2b8a653770aa3c6db1ef41bd4a8fda1]: Textual amendment: Reg. 20 omitted (with effect in accordance with reg. 1(1)(c) of the amending S.I.) by virtue of [The Income Support (General) Amendment Regulations 1989 (S.I. 1989/534)](https://www.legislation.gov.uk/uksi/1989/534), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/534/regulation/1/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1989/534/schedule/1/paragraph/4)
+[^c-d2b8a653770aa3c6db1ef41bd4a8fda1]: Textual amendment: Reg. 20 omitted (with effect in accordance with reg. 1(1)(c) of the amending S.I.) by virtue of [The Income Support (General) Amendment Regulations 1989 (S.I. 1989/534)](https://www.legislation.gov.uk/uksi/1989/534), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/534/regulation/1/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1989/534/schedule/1/paragraph/4)
 
-[^key-2eb49b3cadb6a9dcc46c557f8b7ab166]: Commencement: Reg. 20 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-2eb49b3cadb6a9dcc46c557f8b7ab166]: Commencement: Reg. 20 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Consequential amendments to inspection reports on sixth form education[^key-94ee35acee14fdbe34401c28090b274d]
+## 77. Consequential amendments to inspection reports on sixth form education[^c-94ee35acee14fdbe34401c28090b274d]
 
 *Extent: E+W*
 
@@ -101,4 +101,4 @@ After section 44 of the Education Act 2005 insert—
 
 ## Annotations
 
-[^key-94ee35acee14fdbe34401c28090b274d]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2013/1/section/77) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(d)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/d)
+[^c-94ee35acee14fdbe34401c28090b274d]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2013/1/section/77) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(d)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Calculation of contribution[^key-154f40231f4fa0e5f22f32ae119b16e9]
+## 55. Calculation of contribution[^c-154f40231f4fa0e5f22f32ae119b16e9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-154f40231f4fa0e5f22f32ae119b16e9]: Commencement: Reg. 55 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-154f40231f4fa0e5f22f32ae119b16e9]: Commencement: Reg. 55 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

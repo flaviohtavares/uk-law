@@ -902,7 +902,7 @@ In section 7 of the Local Government (Development and Finance)(Scotland) Act 196
 
 (26) In schedule 8 (excluded enactments), paragraphs 2, 3, 7 to 14, 16 and 17, 18 to 22, 24 and 26 to 30 shall cease to have effect.
 
-#### 31. Agriculture Act 1970 (c.40)[^key-4f84e5884fe2c6ad6f236f98e777bf7a]
+#### 31. Agriculture Act 1970 (c.40)[^c-4f84e5884fe2c6ad6f236f98e777bf7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1180,7 +1180,7 @@ In section 106(2) of the Housing Associations Act 1985 (application of Act in Sc
 
 (2) In section 16 (disposal of land for erection of churches etc.), for the word “feu” substitute “ disposition ”.
 
-(3)[^key-8551fd769ed381189ba645672c68248a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8551fd769ed381189ba645672c68248a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 125(2) (notice to certain persons of time and place at which question of demolishing building will be considered), the words “of the superior of whom such owner holds, and” shall cease to have effect.
 
@@ -1435,11 +1435,11 @@ shall cease to have effect.
 
 [^c21149331]: Textual amendment: [Sch. 12 para. 30(2)(3)(5)(6)(d)(ii)(22)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/30/2/3/5/6/d/ii/22) repealed (4.4.2003) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 128(2)](https://www.legislation.gov.uk/asp/2003/9/section/128/2), [129(5)(b)(c)](https://www.legislation.gov.uk/asp/2003/9/section/129/5/b/c), [sch. 15](https://www.legislation.gov.uk/asp/2003/9/schedule/15) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121))
 
-[^key-4f84e5884fe2c6ad6f236f98e777bf7a]: Textual amendment: Sch. 12 para. 31 repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-4f84e5884fe2c6ad6f236f98e777bf7a]: Textual amendment: Sch. 12 para. 31 repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
 [^c21149391]: Textual amendment: [Sch. 12 para. 39(3)(c)(6)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/39/3/c/6) and word preceding para. 39(3)(c) repealed (4.4.2003) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 128(2)](https://www.legislation.gov.uk/asp/2003/9/section/128/2), [129(5)(b)(c)](https://www.legislation.gov.uk/asp/2003/9/section/129/5/b/c), [sch. 15](https://www.legislation.gov.uk/asp/2003/9/schedule/15) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121))
 
-[^key-8551fd769ed381189ba645672c68248a]: Textual amendment: [Sch. 12 para. 48(3)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/48/3) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 9](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/9); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))
+[^c-8551fd769ed381189ba645672c68248a]: Textual amendment: [Sch. 12 para. 48(3)](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/48/3) repealed (1.8.2016) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 2 para. 9](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/9); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2014/264/article/4))
 
 [^c21150041]: Textual amendment: [Sch. 12 para. 49](https://www.legislation.gov.uk/asp/2000/5/schedule/12/paragraph/49) repealed (26.5.2008) by The Consumer Protection from [Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 30(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/30/3), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Private legislation procedure in Scotland.[^c8595861][^key-4d18ae3fdc81c989177288da1b331b91]
+## 24. Private legislation procedure in Scotland.[^c8595861][^c-4d18ae3fdc81c989177288da1b331b91]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ In section 1 of the [^c8595871]Private Legislation Procedure (Scotland) Act 1936
 
 [^c8595861]: Commencement: Pt. I (ss. 1-25) wholly in force at 1. 1. 1993 see s. 70 and [S.I. 1992/2784](https://www.legislation.gov.uk/uksi/1992/2784), [art. 2](https://www.legislation.gov.uk/uksi/1992/2784/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1992/2784/schedule/1).
 
-[^key-4d18ae3fdc81c989177288da1b331b91]: Modification: S. 24 excluded (14.6.2016) by [The Midland Metro (Birmingham City Centre Extension, etc.) (Land Acquisition and Variation) Order 2016 (S.I. 2016/545)](https://www.legislation.gov.uk/uksi/2016/545), [arts. 1](https://www.legislation.gov.uk/uksi/2016/545/article/1), [5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/545/article/5/1/b/ii) (with [art. 39](https://www.legislation.gov.uk/uksi/2016/545/article/39))
+[^c-4d18ae3fdc81c989177288da1b331b91]: Modification: S. 24 excluded (14.6.2016) by [The Midland Metro (Birmingham City Centre Extension, etc.) (Land Acquisition and Variation) Order 2016 (S.I. 2016/545)](https://www.legislation.gov.uk/uksi/2016/545), [arts. 1](https://www.legislation.gov.uk/uksi/2016/545/article/1), [5(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/545/article/5/1/b/ii) (with [art. 39](https://www.legislation.gov.uk/uksi/2016/545/article/39))
 
 [^c8595871]: Marginal citation: [1936 c. 52](https://www.legislation.gov.uk/ukpga/1936/52).

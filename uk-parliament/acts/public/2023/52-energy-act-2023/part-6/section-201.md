@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 201. Minor and consequential amendments[^key-6f3d074a5a137b7f9efb03efdcc3eb02][^key-da587ba7d9c670241cc91ba74def831a]
+## 201. Minor and consequential amendments[^c-6f3d074a5a137b7f9efb03efdcc3eb02][^c-da587ba7d9c670241cc91ba74def831a]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Schedule 14 contains minor and consequential amendments in connection with this 
 
 ## Annotations
 
-[^key-6f3d074a5a137b7f9efb03efdcc3eb02]: Commencement: S. 201 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-6f3d074a5a137b7f9efb03efdcc3eb02]: Commencement: S. 201 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-da587ba7d9c670241cc91ba74def831a]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2023/52/section/201) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(x)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/x)
+[^c-da587ba7d9c670241cc91ba74def831a]: Commencement: [S. 201](https://www.legislation.gov.uk/ukpga/2023/52/section/201) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(x)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/x)

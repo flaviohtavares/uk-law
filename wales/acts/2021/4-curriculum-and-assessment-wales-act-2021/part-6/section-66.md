@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Welsh Ministers' duty to facilitate the performance of functions[^key-e033a6a60a0b48edee85b403189a01de]
+## 66. Welsh Ministers' duty to facilitate the performance of functions[^c-e033a6a60a0b48edee85b403189a01de]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e033a6a60a0b48edee85b403189a01de]: Commencement: [S. 66](https://www.legislation.gov.uk/asc/2021/4/section/66) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)
+[^c-e033a6a60a0b48edee85b403189a01de]: Commencement: [S. 66](https://www.legislation.gov.uk/asc/2021/4/section/66) in force at 1.9.2022 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 4(d)](https://www.legislation.gov.uk/wsi/2022/652/article/4/d)

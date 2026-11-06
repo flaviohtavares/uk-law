@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Commissioner's duty on an appeal[^key-afd39a7709c2109628bfb42dd397fb05]
+## 98. Commissioner's duty on an appeal[^c-afd39a7709c2109628bfb42dd397fb05]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afd39a7709c2109628bfb42dd397fb05]: Commencement: [S. 98](https://www.legislation.gov.uk/mwa/2011/1/section/98) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-afd39a7709c2109628bfb42dd397fb05]: Commencement: [S. 98](https://www.legislation.gov.uk/mwa/2011/1/section/98) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

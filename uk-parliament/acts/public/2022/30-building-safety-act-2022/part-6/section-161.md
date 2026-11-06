@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161. Liability of officers of body corporate etc[^key-db304795ea29b60ab4ff96d1469be5d9][^key-49201b188ef8d2c4c82ceea3c8fb40ce]
+## 161. Liability of officers of body corporate etc[^c-db304795ea29b60ab4ff96d1469be5d9][^c-49201b188ef8d2c4c82ceea3c8fb40ce]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ this section, so far as relating to Part 4, does not apply in relation to a dire
 
 ## Annotations
 
-[^key-db304795ea29b60ab4ff96d1469be5d9]: Commencement: S. 161 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-db304795ea29b60ab4ff96d1469be5d9]: Commencement: S. 161 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-49201b188ef8d2c4c82ceea3c8fb40ce]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2022/30/section/161) in force at 1.10.2023 by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/y)
+[^c-49201b188ef8d2c4c82ceea3c8fb40ce]: Commencement: [S. 161](https://www.legislation.gov.uk/ukpga/2022/30/section/161) in force at 1.10.2023 by [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/y)

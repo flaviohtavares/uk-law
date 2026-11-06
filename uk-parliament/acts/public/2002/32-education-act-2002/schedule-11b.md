@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11B — OFFENCE UNDER SECTION 141G: SUPPLEMENTARY PROVISIONS[^key-9f3584ef5a98af7ebf62378ddffb7064]
+## SCHEDULE 11B — OFFENCE UNDER SECTION 141G: SUPPLEMENTARY PROVISIONS[^c-9f3584ef5a98af7ebf62378ddffb7064]
 
 *Extent: E+W*
 
@@ -26,15 +26,15 @@ Section 141G
 
 **1.** (1) This Schedule makes supplementary provision relating to an offence under section 141G (breach of reporting restrictions relating to alleged offences committed by teachers).
 
-(2) In this Schedule “the E-Commerce Directive” means[^key-deec5d8fc32aa67d08c15bda4e5b26af] Directive [2000/31/EC](https://www.legislation.gov.uk/eudr/2000/31) of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market[^key-340cc2e101b0def69d061f29a96af230]....
+(2) In this Schedule “the E-Commerce Directive” means[^c-deec5d8fc32aa67d08c15bda4e5b26af] Directive [2000/31/EC](https://www.legislation.gov.uk/eudr/2000/31) of the European Parliament and of the Council of 8 June 2000 on certain legal aspects of information society services, in particular electronic commerce, in the Internal Market[^c-340cc2e101b0def69d061f29a96af230]....
 
 ### Domestic service providers: extension of liability
 
-**2.**[^key-af8f14adfa255dc4d72da76b5d207480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-af8f14adfa255dc4d72da76b5d207480] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Non-UK service providers: restriction on proceedings
 
-**3.**[^key-b9dd49447cabe4008691f5d8bf72ced4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b9dd49447cabe4008691f5d8bf72ced4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Exceptions for mere conduits
 
@@ -104,18 +104,18 @@ the service provider expeditiously removes the information or disables access to
 - “**recipient**”, in relation to a service, means any person who, for professional ends or otherwise, uses an information society service, in particular for the purposes of seeking information or making it accessible;
 - “**service provider**” means a person providing an information society service.
 
-(2)[^key-45e83a9c0e6f9ca9234db4781f7ab877] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-45e83a9c0e6f9ca9234db4781f7ab877] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f3584ef5a98af7ebf62378ddffb7064]: Textual amendment: Sch. 11B inserted (1.10.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/4); [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)
+[^c-9f3584ef5a98af7ebf62378ddffb7064]: Textual amendment: Sch. 11B inserted (1.10.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [s. 82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/4); [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 3](https://www.legislation.gov.uk/uksi/2012/2213/article/3)
 
-[^key-deec5d8fc32aa67d08c15bda4e5b26af]: Textual amendment: Words in [Sch. 11B para. 1(2)](https://www.legislation.gov.uk/ukpga/2002/32/schedule/11B/paragraph/1/2) substituted (3.3.2021) by [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/a/i)
+[^c-deec5d8fc32aa67d08c15bda4e5b26af]: Textual amendment: Words in [Sch. 11B para. 1(2)](https://www.legislation.gov.uk/ukpga/2002/32/schedule/11B/paragraph/1/2) substituted (3.3.2021) by [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/a/i)
 
-[^key-340cc2e101b0def69d061f29a96af230]: Textual amendment: Words in [Sch. 11B para. 1(2)](https://www.legislation.gov.uk/ukpga/2002/32/schedule/11B/paragraph/1/2) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/a/ii)
+[^c-340cc2e101b0def69d061f29a96af230]: Textual amendment: Words in [Sch. 11B para. 1(2)](https://www.legislation.gov.uk/ukpga/2002/32/schedule/11B/paragraph/1/2) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/a/ii)
 
-[^key-af8f14adfa255dc4d72da76b5d207480]: Textual amendment: Sch. 11B para. 2 omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/b)
+[^c-af8f14adfa255dc4d72da76b5d207480]: Textual amendment: Sch. 11B para. 2 omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/b)
 
-[^key-b9dd49447cabe4008691f5d8bf72ced4]: Textual amendment: Sch. 11B para. 3 omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/b)
+[^c-b9dd49447cabe4008691f5d8bf72ced4]: Textual amendment: Sch. 11B para. 3 omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/b)
 
-[^key-45e83a9c0e6f9ca9234db4781f7ab877]: Textual amendment: Sch. 11B para. 7(2) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/c)
+[^c-45e83a9c0e6f9ca9234db4781f7ab877]: Textual amendment: Sch. 11B para. 7(2) omitted (3.3.2021) by virtue of [The Electronic Commerce Directive (Education, Adoption and Children) (Amendment etc.) Regulations 2021 (S.I. 2021/222)](https://www.legislation.gov.uk/uksi/2021/222), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/222/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/222/regulation/2/2/c)

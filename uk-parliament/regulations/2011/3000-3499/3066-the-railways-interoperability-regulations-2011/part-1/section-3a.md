@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Appointment and obligations of an authorised representative[^key-a8759aaa50d36d5792769e71a3308587]
+## 3A. Appointment and obligations of an authorised representative[^c-a8759aaa50d36d5792769e71a3308587]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8759aaa50d36d5792769e71a3308587]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3A) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a8759aaa50d36d5792769e71a3308587]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/uksi/2011/3066/regulation/3A) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

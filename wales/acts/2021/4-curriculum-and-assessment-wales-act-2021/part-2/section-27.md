@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Duty to ensure implementation of adopted curriculum[^key-b202ff8eb0c89bb0299c70d3f677bee7][^key-295959f3500e647ab16dd8251d1fabbe][^key-ef4da9d5a03dfbbf811b96443e75735d][^key-46d9425303292468828ef4381ae1aaa9][^key-3ebb38da97d2dbc8651fb26c20de704f]
+## 27. Duty to ensure implementation of adopted curriculum[^c-b202ff8eb0c89bb0299c70d3f677bee7][^c-295959f3500e647ab16dd8251d1fabbe][^c-ef4da9d5a03dfbbf811b96443e75735d][^c-46d9425303292468828ef4381ae1aaa9][^c-3ebb38da97d2dbc8651fb26c20de704f]
 
 *Extent: E+W*
 
@@ -26,12 +26,12 @@ summary: ''
 
 ## Annotations
 
-[^key-b202ff8eb0c89bb0299c70d3f677bee7]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/b), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
+[^c-b202ff8eb0c89bb0299c70d3f677bee7]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/b), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
 
-[^key-295959f3500e647ab16dd8251d1fabbe]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/b)
+[^c-295959f3500e647ab16dd8251d1fabbe]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(b)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/b)
 
-[^key-ef4da9d5a03dfbbf811b96443e75735d]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(b)](https://www.legislation.gov.uk/wsi/2022/652/article/7/b)
+[^c-ef4da9d5a03dfbbf811b96443e75735d]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(b)](https://www.legislation.gov.uk/wsi/2022/652/article/7/b)
 
-[^key-46d9425303292468828ef4381ae1aaa9]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-46d9425303292468828ef4381ae1aaa9]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-3ebb38da97d2dbc8651fb26c20de704f]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-3ebb38da97d2dbc8651fb26c20de704f]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2021/4/section/27) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

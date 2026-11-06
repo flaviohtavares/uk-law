@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Prohibition on disclosure[^key-45df683d61f46eaff05ea273f5729236]
+## 61. Prohibition on disclosure[^c-45df683d61f46eaff05ea273f5729236]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ except in accordance with this Chapter.
 
 ## Annotations
 
-[^key-45df683d61f46eaff05ea273f5729236]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2016/20/section/61) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-45df683d61f46eaff05ea273f5729236]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2016/20/section/61) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

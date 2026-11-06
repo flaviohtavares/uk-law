@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Determination of the winning 3.6 GHz assignment stage bids where there are one or more valid partial adjacency agreements[^key-f53d8e5cbe4fed93fc78fa2f5adefba5]
+## 97. Determination of the winning 3.6 GHz assignment stage bids where there are one or more valid partial adjacency agreements[^c-f53d8e5cbe4fed93fc78fa2f5adefba5]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f53d8e5cbe4fed93fc78fa2f5adefba5]: Commencement: Reg. 97 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-f53d8e5cbe4fed93fc78fa2f5adefba5]: Commencement: Reg. 97 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

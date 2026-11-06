@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Traffic regulation – local roads[^key-4fa2337dfadcffda51bf450daf0cc779]
+## 17. Traffic regulation – local roads[^c-4fa2337dfadcffda51bf450daf0cc779]
 
 *Extent: E+W*
 
@@ -68,6 +68,6 @@ either at all times or at times, on days or during such periods as may be specif
 
 ## Annotations
 
-[^key-4fa2337dfadcffda51bf450daf0cc779]: Commencement: Art. 17 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-4fa2337dfadcffda51bf450daf0cc779]: Commencement: Art. 17 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
 [^f00070]: Footnote: Section 32 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51), and section 180(1) of, and paragraph 134(4) of Schedule 13 to, the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39).

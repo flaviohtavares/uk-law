@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Temporary registration for visiting chiropractors from relevant European States[^key-3fc26f672c80908f032100de55c688ef]
+## 5A. Temporary registration for visiting chiropractors from relevant European States[^c-3fc26f672c80908f032100de55c688ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc26f672c80908f032100de55c688ef]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/ukpga/1994/17/section/5A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/3) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3fc26f672c80908f032100de55c688ef]: Textual amendment: [S. 5A](https://www.legislation.gov.uk/ukpga/1994/17/section/5A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/paragraph/3) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/7/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [15](https://www.legislation.gov.uk/uksi/2020/1394/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

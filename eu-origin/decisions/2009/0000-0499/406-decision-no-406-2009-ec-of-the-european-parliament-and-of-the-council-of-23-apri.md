@@ -34,88 +34,88 @@ of 23 April 2009
 
 on the effort of Member States to reduce their greenhouse gas emissions to meet the Community’s greenhouse gas emission reduction commitments up to 2020 (revoked)
 
-[^key-3d26f8d2f01da1a259d17305ce9ba9d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3d26f8d2f01da1a259d17305ce9ba9d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 1. Subject matter[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 2. Definitions[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Emission levels for the period from 2013 to 2020[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 3. Emission levels for the period from 2013 to 2020[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Energy efficiency[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 4. Energy efficiency[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Use of credits from project activities[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 5. Use of credits from project activities[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Reporting, evaluation of progress, amendments and review[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 6. Reporting, evaluation of progress, amendments and review[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Corrective action[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 7. Corrective action[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Adjustments applicable upon the approval by the Community of an international agreement on climate change[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 8. Adjustments applicable upon the approval by the Community of an international agreement on climate change[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Procedure in relation to land use, land use change and forestry in the event of no international agreement on climate change[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 9. Procedure in relation to land use, land use change and forestry in the event of no international agreement on climate change[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Changes in the scope of Directive 2003/87/EC and application of Article 24a thereof[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 10. Changes in the scope of Directive 2003/87/EC and application of Article 24a thereof[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Registries and Central Administrator[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 11. Registries and Central Administrator[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Amendments to Regulation (EC) No 994/2008[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 12. Amendments to Regulation (EC) No 994/2008[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Committee procedure[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 13. Committee procedure[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Report[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 14. Report[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Entry into force[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 15. Entry into force[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Addressees[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## Article 16. Addressees[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — CATEGORIES REFERRED TO IN ARTICLE 2(1) OF THIS DECISION AS FURTHER SPECIFIED IN ANNEX I, CATEGORIES 1 to 4 AND 6 OF DECISION 2005/166/EC[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## ANNEX I — CATEGORIES REFERRED TO IN ARTICLE 2(1) OF THIS DECISION AS FURTHER SPECIFIED IN ANNEX I, CATEGORIES 1 to 4 AND 6 OF DECISION 2005/166/EC[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — MEMBER STATE GREENHOUSE GAS EMISSION LIMITS UNDER ARTICLE 3[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## ANNEX II — MEMBER STATE GREENHOUSE GAS EMISSION LIMITS UNDER ARTICLE 3[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — MEMBER STATES REFERRED TO IN ARTICLE 5(5)[^key-3d26f8d2f01da1a259d17305ce9ba9d0]
+## ANNEX III — MEMBER STATES REFERRED TO IN ARTICLE 5(5)[^c-3d26f8d2f01da1a259d17305ce9ba9d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3d26f8d2f01da1a259d17305ce9ba9d0]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)
+[^c-3d26f8d2f01da1a259d17305ce9ba9d0]: Textual amendment: Decision revoked (20.5.2021) by [The Climate and Energy (Revocation) (EU Exit) Regulations 2021 (S.I. 2021/519)](https://www.legislation.gov.uk/uksi/2021/519), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/519/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/519/schedule)

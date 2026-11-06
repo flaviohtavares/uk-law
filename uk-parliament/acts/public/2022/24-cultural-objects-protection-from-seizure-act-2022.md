@@ -36,7 +36,7 @@ An Act to extend the protection from seizure or forfeiture given to cultural obj
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Protection of cultural objects on loan[^key-86095c031a307f584c35b1c7f66b8744]
+## 1. Protection of cultural objects on loan[^c-86095c031a307f584c35b1c7f66b8744]
 
 (1) Section 134 of the Tribunals, Courts and Enforcement Act 2007 (protection of cultural objects on loan: protected objects) is amended as follows.
 
@@ -76,7 +76,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) for ““United Kingdom”” substitute “A reference to the United Kingdom or any part of the United Kingdom”;
 - (b) after “adjacent to the United Kingdom” insert “or that part of the United Kingdom”.
 
-## 2. Extent, commencement and short title[^key-aa941dfe7924648ba698e94f694a5d2f]
+## 2. Extent, commencement and short title[^c-aa941dfe7924648ba698e94f694a5d2f]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -86,6 +86,6 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-86095c031a307f584c35b1c7f66b8744]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/24/section/1) in force at 28.6.2022, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/2/2)
+[^c-86095c031a307f584c35b1c7f66b8744]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/24/section/1) in force at 28.6.2022, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/2/2)
 
-[^key-aa941dfe7924648ba698e94f694a5d2f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/24/section/2) in force at 28.6.2022, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/2/2)
+[^c-aa941dfe7924648ba698e94f694a5d2f]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/24/section/2) in force at 28.6.2022, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/24/section/2/2)

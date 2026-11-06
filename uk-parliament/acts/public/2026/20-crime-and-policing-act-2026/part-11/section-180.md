@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180. Lawful interception of communications[^key-379fe64ada9a00aed10a0326aa714258]
+## 180. Lawful interception of communications[^c-379fe64ada9a00aed10a0326aa714258]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-379fe64ada9a00aed10a0326aa714258]: Commencement: S. 180 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-379fe64ada9a00aed10a0326aa714258]: Commencement: S. 180 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

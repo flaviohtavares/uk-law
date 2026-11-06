@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Private health care[^key-4948751b4871057bb7709b62de1c52c7]
+## 165. Private health care[^c-4948751b4871057bb7709b62de1c52c7]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4948751b4871057bb7709b62de1c52c7]: Commencement: S. 165 in force at 1.10.2012 by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)
+[^c-4948751b4871057bb7709b62de1c52c7]: Commencement: S. 165 in force at 1.10.2012 by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2)

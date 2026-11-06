@@ -35,43 +35,43 @@ adopting the rules of procedure of the permanent cooperation framework establish
 
 (Text with EEA relevance) (revoked)
 
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-be20e49cc85b12d6a57a5ea825e5a0ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-be20e49cc85b12d6a57a5ea825e5a0ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-be20e49cc85b12d6a57a5ea825e5a0ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-be20e49cc85b12d6a57a5ea825e5a0ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — Permanent Cooperation Framework for the Investigation of Accidents in the Maritime Transport Sector[^key-be20e49cc85b12d6a57a5ea825e5a0ab]
+## ANNEX — Permanent Cooperation Framework for the Investigation of Accidents in the Maritime Transport Sector[^c-be20e49cc85b12d6a57a5ea825e5a0ab]
 
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab] RULES OF PROCEDURE AND ORGANISATION ARRANGEMENTS FOR THE PERMANENT COOPERATION FRAMEWORK REFERRED TO IN ARTICLE 10 OF DIRECTIVE 2009/18/EC
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab]Appendix
-
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab] Recommended Form of Document for Meetings Permanent Cooperation Framework for the Investigation of Accidents in the Maritime Transport Sector
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab] RULES OF PROCEDURE AND ORGANISATION ARRANGEMENTS FOR THE PERMANENT COOPERATION FRAMEWORK REFERRED TO IN ARTICLE 10 OF DIRECTIVE 2009/18/EC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Title of the paper[^key-be20e49cc85b12d6a57a5ea825e5a0ab]
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab]Appendix
+
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab] Recommended Form of Document for Meetings Permanent Cooperation Framework for the Investigation of Accidents in the Maritime Transport Sector
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab] Submitted by…
+### Title of the paper[^c-be20e49cc85b12d6a57a5ea825e5a0ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab] Introduction or Background information
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab] Submitted by…
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab] Comment or Analysis
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab] Introduction or Background information
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab] Proposed Action
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab] Comment or Analysis
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab] Proposed Action
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -79,4 +79,4 @@ adopting the rules of procedure of the permanent cooperation framework establish
 
 ## Annotations
 
-[^key-be20e49cc85b12d6a57a5ea825e5a0ab]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [27](https://www.legislation.gov.uk/uksi/2018/1400/regulation/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be20e49cc85b12d6a57a5ea825e5a0ab]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Accident Reporting and Investigation) and the Railways (Accident Investigation and Reporting) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1400)](https://www.legislation.gov.uk/uksi/2018/1400), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1400/regulation/1), [27](https://www.legislation.gov.uk/uksi/2018/1400/regulation/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

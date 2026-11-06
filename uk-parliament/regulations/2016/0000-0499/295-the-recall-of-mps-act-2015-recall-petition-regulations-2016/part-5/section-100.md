@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Persons entitled to be present at proceedings on receipt of postal signing sheet[^key-69ef7c7cb94e55e79dd0c3ff27c67b92]
+## 100. Persons entitled to be present at proceedings on receipt of postal signing sheet[^c-69ef7c7cb94e55e79dd0c3ff27c67b92]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ No person may be present at the proceedings on the receipt of postal signing she
 
 ## Annotations
 
-[^key-69ef7c7cb94e55e79dd0c3ff27c67b92]: Commencement: Reg. 100 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-69ef7c7cb94e55e79dd0c3ff27c67b92]: Commencement: Reg. 100 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by Article 22A(3) of the Housing (Northern Ireland) Order 1981[^f00001] and Article 7A(2) of the Housing (Northern Ireland) Order 1988[^f00002].
 
-## 1. Citation, commencement and extent[^key-7340d06b8275f5daaf07ee369c89c8d2]
+## 1. Citation, commencement and extent[^c-7340d06b8275f5daaf07ee369c89c8d2]
 
 (1) These Regulations may be cited as the Allocation of Housing and Homelessness (Eligibility) (Amendment) (No. 2) Regulations (Northern Ireland) 2023 and come into operation on 27th October 2023.
 
 (2) These Regulations extend to Northern Ireland.
 
-## 2. Amendment of the Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006[^key-a6598941bfba959f45d77b43d0acaf2e]
+## 2. Amendment of the Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006[^c-a6598941bfba959f45d77b43d0acaf2e]
 
 (1) The Allocation of Housing and Homelessness (Eligibility) Regulations (Northern Ireland) 2006[^f00003] are amended as follows.
 
@@ -92,8 +92,8 @@ A full regulatory impact assessment has not been prepared for this instrument be
 
 [^f00002]: Footnote: [S.I. 1988/1990 (N.I. 23)](https://www.legislation.gov.uk/nisi/1988/1990); Article 7A was inserted by Article 137 of [S.I. 2003/412](https://www.legislation.gov.uk/uksi/2003/412).
 
-[^key-7340d06b8275f5daaf07ee369c89c8d2]: Commencement: Reg. 1 in operation at 27.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/182/regulation/1/1)
+[^c-7340d06b8275f5daaf07ee369c89c8d2]: Commencement: Reg. 1 in operation at 27.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/182/regulation/1/1)
 
-[^key-a6598941bfba959f45d77b43d0acaf2e]: Commencement: Reg. 2 in operation at 27.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/182/regulation/1/1)
+[^c-a6598941bfba959f45d77b43d0acaf2e]: Commencement: Reg. 2 in operation at 27.10.2023, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2023/182/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2006 No. 397](https://www.legislation.gov.uk/nisr/2006/397); relevant amending instruments are [S.R. 2009 No. 161](https://www.legislation.gov.uk/nisr/2009/161), [S.R. 2013 No. 189](https://www.legislation.gov.uk/nisr/2013/189), [S.R. 2019 No. 86](https://www.legislation.gov.uk/nisr/2019/86), [S.I. 2020/1309](https://www.legislation.gov.uk/uksi/2020/1309), [S.R. 2021 No. 254](https://www.legislation.gov.uk/nisr/2021/254), [S.R. 2022 No. 128](https://www.legislation.gov.uk/nisr/2022/128), [S.R. 2023 No. 79](https://www.legislation.gov.uk/nisr/2023/79).

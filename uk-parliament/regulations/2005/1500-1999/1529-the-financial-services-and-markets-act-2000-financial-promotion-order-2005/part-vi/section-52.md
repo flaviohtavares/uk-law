@@ -29,7 +29,7 @@ summary: ''
 
 - (a) is a non-real time communication or a solicited real time communication;
 - (b) is made only to persons who are members of a common interest group of a company, or may reasonably be regarded as directed only at such persons; and
-- (c) relates to investments falling within paragraph 14, 15 or 15A[^key-067700488ed8e42a97972a994c9a073e] of Schedule 1 which are issued, or to be issued, by that company.
+- (c) relates to investments falling within paragraph 14, 15 or 15A[^c-067700488ed8e42a97972a994c9a073e] of Schedule 1 which are issued, or to be issued, by that company.
 
 (3) The requirements of this paragraph are that the communication is accompanied by an indication—
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-067700488ed8e42a97972a994c9a073e]: Textual amendment: Words in art. 52(2)(c) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 9(a)(iv)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/9/a/iv)
+[^c-067700488ed8e42a97972a994c9a073e]: Textual amendment: Words in art. 52(2)(c) substituted (24.2.2010) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2010 (S.I. 2010/86)](https://www.legislation.gov.uk/uksi/2010/86), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/86/article/1/2), [Sch. para. 9(a)(iv)](https://www.legislation.gov.uk/uksi/2010/86/schedule/paragraph/9/a/iv)

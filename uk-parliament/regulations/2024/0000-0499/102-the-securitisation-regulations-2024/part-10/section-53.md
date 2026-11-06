@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Further transitional provisions[^key-cda26006285b98e387d6bf161bfd5798]
+## 53. Further transitional provisions[^c-cda26006285b98e387d6bf161bfd5798]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 contains further transitional provisions.
 
 ## Annotations
 
-[^key-cda26006285b98e387d6bf161bfd5798]: Commencement: Reg. 53 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-cda26006285b98e387d6bf161bfd5798]: Commencement: Reg. 53 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

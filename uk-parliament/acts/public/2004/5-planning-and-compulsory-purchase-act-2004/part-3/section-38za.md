@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38ZA. Meaning of “national development management policy”[^key-a30955eea81aa18e1b11780a279fd93c]
+## 38ZA. Meaning of “national development management policy”[^c-a30955eea81aa18e1b11780a279fd93c]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a30955eea81aa18e1b11780a279fd93c]: Textual amendment: S. 38ZA inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 94](https://www.legislation.gov.uk/ukpga/2023/55/section/94), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/c)
+[^c-a30955eea81aa18e1b11780a279fd93c]: Textual amendment: S. 38ZA inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 94](https://www.legislation.gov.uk/ukpga/2023/55/section/94), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/c)

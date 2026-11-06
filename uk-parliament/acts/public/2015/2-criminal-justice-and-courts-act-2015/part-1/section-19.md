@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Alternatives to prosecution: rehabilitation of offenders in Scotland[^key-3be938dc00f685da3ac38ca610880004]
+## 19. Alternatives to prosecution: rehabilitation of offenders in Scotland[^c-3be938dc00f685da3ac38ca610880004]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In Schedule 3 to the Rehabilitation of Offenders Act 1974 (protection for spent 
 
 ## Annotations
 
-[^key-3be938dc00f685da3ac38ca610880004]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2015/2/section/19) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/15)
+[^c-3be938dc00f685da3ac38ca610880004]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2015/2/section/19) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/15)

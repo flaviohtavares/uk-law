@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Surrender of licence to Secretary of State where disqualified[^key-671fed044ebe60847363a3f582406538]
+## 37A. Surrender of licence to Secretary of State where disqualified[^c-671fed044ebe60847363a3f582406538]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ a person’s “proper address” is the person’s latest address as known to t
 
 ## Annotations
 
-[^key-671fed044ebe60847363a3f582406538]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/ukpga/1988/53/section/37A) inserted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 92(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/92/1), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-671fed044ebe60847363a3f582406538]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/ukpga/1988/53/section/37A) inserted (30.11.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 92(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/92/1), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

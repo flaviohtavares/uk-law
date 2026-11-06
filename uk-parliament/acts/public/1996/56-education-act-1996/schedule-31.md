@@ -24,7 +24,7 @@ Section 375.
 
 ### Duty to convene conference to reconsider agreed syllabus
 
-**1.** (1) Where the agreed syllabus for the time being adopted by a local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] was adopted by them on or after 29th September 1988 but before 1st April 1994, they shall, within the period of five years beginning with the date on which they adopted the syllabus, convene a conference for the purpose of reconsidering the syllabus.
+**1.** (1) Where the agreed syllabus for the time being adopted by a local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] was adopted by them on or after 29th September 1988 but before 1st April 1994, they shall, within the period of five years beginning with the date on which they adopted the syllabus, convene a conference for the purpose of reconsidering the syllabus.
 
 (2) Sub-paragraph (1) does not apply where the authority have already convened such a conference on or after 1st April 1994 in pursuance of paragraph 12(3) of Schedule 5 to the [^c15258481]Education Act 1944.
 
@@ -115,7 +115,7 @@ the Secretary of State shall proceed in accordance with paragraph 12.
 
 ## Annotations
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
 [^c15258481]: Marginal citation: [1944 c. 31](https://www.legislation.gov.uk/ukpga/1944/31).
 

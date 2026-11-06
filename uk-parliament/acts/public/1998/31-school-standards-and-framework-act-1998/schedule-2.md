@@ -22,7 +22,7 @@ summary: ''
 
 Section 20.
 
-### Allocation of local authority-maintained schools[^key-5177265949adaa73e26402711f36dc2e]
+### Allocation of local authority-maintained schools[^c-5177265949adaa73e26402711f36dc2e]
 
 **1.** A school which immediately before the appointed day is (within the meaning of the [^c14011181]Education Act 1996)—
 
@@ -168,7 +168,7 @@ did not accord with the school’s indicative allocation, the school shall be al
 
 [^c14011171]: Modification: Sch. 2 excluded (7.9.1998) (*temp.*) by [S.I. 1998/1969](https://www.legislation.gov.uk/uksi/1998/1969), [reg.18](https://www.legislation.gov.uk/uksi/1998/1969/regulation/18)
 
-[^key-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
+[^c-5177265949adaa73e26402711f36dc2e]: Textual amendment: Words in Act substituted (5.5.2010) by The Local Education Authorities and Children’s [Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/2) (with [Sch. 2 para. 10(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/4))
 
 [^c14011181]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 

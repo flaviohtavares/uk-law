@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Tuberculosis (England) (Amendment) Order 2016 (revoked)[^key-ce4d07968f96d8e2a722564e04a5e8b8]
+The Tuberculosis (England) (Amendment) Order 2016 (revoked)[^c-ce4d07968f96d8e2a722564e04a5e8b8]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 6th April 2016
 
-[^key-ce4d07968f96d8e2a722564e04a5e8b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce4d07968f96d8e2a722564e04a5e8b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ce4d07968f96d8e2a722564e04a5e8b8]
+## 1. Citation and commencement[^c-ce4d07968f96d8e2a722564e04a5e8b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Tuberculosis (England) Order 2014[^key-ce4d07968f96d8e2a722564e04a5e8b8]
+## 2. Amendment to the Tuberculosis (England) Order 2014[^c-ce4d07968f96d8e2a722564e04a5e8b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce4d07968f96d8e2a722564e04a5e8b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce4d07968f96d8e2a722564e04a5e8b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ce4d07968f96d8e2a722564e04a5e8b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce4d07968f96d8e2a722564e04a5e8b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce4d07968f96d8e2a722564e04a5e8b8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/347) revoked (1.10.2021) by [The Tuberculosis in Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [26](https://www.legislation.gov.uk/uksi/2021/1001/article/26)
+[^c-ce4d07968f96d8e2a722564e04a5e8b8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/347) revoked (1.10.2021) by [The Tuberculosis in Animals (England) Order 2021 (S.I. 2021/1001)](https://www.legislation.gov.uk/uksi/2021/1001), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1001/article/1/1), [26](https://www.legislation.gov.uk/uksi/2021/1001/article/26)

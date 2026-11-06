@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.J.10A. Interest and administration charges: late paid contributions[^key-689ccd54e2e8ff38354eec737e9bbf37]
+## 3.J.10A. Interest and administration charges: late paid contributions[^c-689ccd54e2e8ff38354eec737e9bbf37]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-689ccd54e2e8ff38354eec737e9bbf37]: Textual amendment: [Reg. 3.J.10A](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.J.10A) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [29](https://www.legislation.gov.uk/ssi/2014/154/regulation/29)
+[^c-689ccd54e2e8ff38354eec737e9bbf37]: Textual amendment: [Reg. 3.J.10A](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.J.10A) inserted (28.6.2014) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) Regulations 2014 (S.S.I. 2014/154)](https://www.legislation.gov.uk/ssi/2014/154), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/154/regulation/1/2), [29](https://www.legislation.gov.uk/ssi/2014/154/regulation/29)

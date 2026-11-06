@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Effect of scheme: different dates for different facilities or standards etc[^key-8bd0764a01c7d6de9e88d476f0d4d6db][^key-bb511d77fd3f3bb20dad995046fb787c]
+## 17. Effect of scheme: different dates for different facilities or standards etc[^c-8bd0764a01c7d6de9e88d476f0d4d6db][^c-bb511d77fd3f3bb20dad995046fb787c]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8bd0764a01c7d6de9e88d476f0d4d6db]: Commencement: S. 17 in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
+[^c-8bd0764a01c7d6de9e88d476f0d4d6db]: Commencement: S. 17 in force at 6.4.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 4(2)](https://www.legislation.gov.uk/uksi/2009/107/article/4/2), [Sch. 5](https://www.legislation.gov.uk/uksi/2009/107/schedule/5)
 
-[^key-bb511d77fd3f3bb20dad995046fb787c]: Commencement: S. 17 in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/b)
+[^c-bb511d77fd3f3bb20dad995046fb787c]: Commencement: S. 17 in force at 31.1.2010 for W. by [S.I. 2009/3294](https://www.legislation.gov.uk/uksi/2009/3294), [art. 2(b)](https://www.legislation.gov.uk/uksi/2009/3294/article/2/b)

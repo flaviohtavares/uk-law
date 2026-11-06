@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Defence of publication in the course of business[^key-331affa4fa1c8d9fe7a8bd740e836868]
+## 12. Defence of publication in the course of business[^c-331affa4fa1c8d9fe7a8bd740e836868]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In proceedings for an offence under these Regulations relating to advertising, i
 
 ## Annotations
 
-[^key-331affa4fa1c8d9fe7a8bd740e836868]: Commencement: Reg. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-331affa4fa1c8d9fe7a8bd740e836868]: Commencement: Reg. 12 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

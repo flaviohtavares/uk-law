@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Publication of details of sanctions[^key-7928aec47355121d9ffc37a403ef3a1d]
+## 121. Publication of details of sanctions[^c-7928aec47355121d9ffc37a403ef3a1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ the OGA must publish details of the cancellation or withdrawal.
 
 ## Annotations
 
-[^key-7928aec47355121d9ffc37a403ef3a1d]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2023/52/section/121) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-7928aec47355121d9ffc37a403ef3a1d]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2023/52/section/121) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

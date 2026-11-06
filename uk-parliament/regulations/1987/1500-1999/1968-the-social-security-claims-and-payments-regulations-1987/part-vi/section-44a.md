@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44A. Recovery of expenses[^key-c33320fb3d5c5eda026cb9a26cfebf0b]
+## 44A. Recovery of expenses[^c-c33320fb3d5c5eda026cb9a26cfebf0b]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c33320fb3d5c5eda026cb9a26cfebf0b]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/uksi/1987/1968/regulation/44A) inserted (21.7.2016) by [The Social Security (Expenses of Paying Sums in Relation to Vehicle Hire) Regulations 2016 (S.I. 2016/674)](https://www.legislation.gov.uk/uksi/2016/674), [regs. 1](https://www.legislation.gov.uk/uksi/2016/674/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/674/regulation/3)
+[^c-c33320fb3d5c5eda026cb9a26cfebf0b]: Textual amendment: [Reg. 44A](https://www.legislation.gov.uk/uksi/1987/1968/regulation/44A) inserted (21.7.2016) by [The Social Security (Expenses of Paying Sums in Relation to Vehicle Hire) Regulations 2016 (S.I. 2016/674)](https://www.legislation.gov.uk/uksi/2016/674), [regs. 1](https://www.legislation.gov.uk/uksi/2016/674/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/674/regulation/3)

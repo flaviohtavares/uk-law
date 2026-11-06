@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Exchanges[^key-04c4e9f1d4e55524aa50c39550b8012d]
+## 13. Exchanges[^c-04c4e9f1d4e55524aa50c39550b8012d]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04c4e9f1d4e55524aa50c39550b8012d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2013/11/section/13) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-04c4e9f1d4e55524aa50c39550b8012d]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2013/11/section/13) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

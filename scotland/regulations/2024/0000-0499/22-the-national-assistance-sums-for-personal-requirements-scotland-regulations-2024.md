@@ -32,7 +32,7 @@ summary: ''
 
 National Assistance Services
 
-The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2024 (revoked)[^key-09cc7cc96752cfc0a97462707ef2a65e]
+The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2024 (revoked)[^c-09cc7cc96752cfc0a97462707ef2a65e]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 8th April 2024
 
-[^key-09cc7cc96752cfc0a97462707ef2a65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09cc7cc96752cfc0a97462707ef2a65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-09cc7cc96752cfc0a97462707ef2a65e]
+## 1. Citation, commencement and extent[^c-09cc7cc96752cfc0a97462707ef2a65e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Sums needed for personal requirements[^key-09cc7cc96752cfc0a97462707ef2a65e]
+## 2. Sums needed for personal requirements[^c-09cc7cc96752cfc0a97462707ef2a65e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-09cc7cc96752cfc0a97462707ef2a65e]
+## 3. Revocations[^c-09cc7cc96752cfc0a97462707ef2a65e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-09cc7cc96752cfc0a97462707ef2a65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09cc7cc96752cfc0a97462707ef2a65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-09cc7cc96752cfc0a97462707ef2a65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09cc7cc96752cfc0a97462707ef2a65e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-09cc7cc96752cfc0a97462707ef2a65e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/22) revoked (7.4.2025) by [The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2025 (S.S.I. 2025/30)](https://www.legislation.gov.uk/ssi/2025/30), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/30/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2025/30/regulation/3)
+[^c-09cc7cc96752cfc0a97462707ef2a65e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/22) revoked (7.4.2025) by [The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2025 (S.S.I. 2025/30)](https://www.legislation.gov.uk/ssi/2025/30), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2025/30/regulation/1/1), [3](https://www.legislation.gov.uk/ssi/2025/30/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Defences to proceedings[^key-7b9b161bb5107309d795bf52cb11b8f5]
+## 33. Defences to proceedings[^c-7b9b161bb5107309d795bf52cb11b8f5]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7b9b161bb5107309d795bf52cb11b8f5]: Commencement: Art. 33 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-7b9b161bb5107309d795bf52cb11b8f5]: Commencement: Art. 33 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
 [^f00027]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

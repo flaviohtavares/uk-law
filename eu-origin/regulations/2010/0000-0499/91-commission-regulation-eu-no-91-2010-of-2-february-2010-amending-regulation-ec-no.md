@@ -113,7 +113,7 @@ HAS ADOPTED THIS REGULATION:
 
 This Regulation shall apply from 1 January 2010.
 
-[^key-712c80826b7ebcd0a72d08d0f00f68e0]...
+[^c-712c80826b7ebcd0a72d08d0f00f68e0]...
 
 Done at Brussels, 2 February 2010.
 
@@ -160,4 +160,4 @@ José Manuel Barroso
 
 [^f00005]: Footnote: [OJ L 264, 15.10.2003, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.264.01.0001.01.ENG).’
 
-[^key-712c80826b7ebcd0a72d08d0f00f68e0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/91/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(c)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-712c80826b7ebcd0a72d08d0f00f68e0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2010/91/signature) omitted (31.12.2020) by virtue of [The Statistics of Trade (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/47)](https://www.legislation.gov.uk/uksi/2019/47), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2019/47/regulation/1/4), [14(c)](https://www.legislation.gov.uk/uksi/2019/47/regulation/14/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

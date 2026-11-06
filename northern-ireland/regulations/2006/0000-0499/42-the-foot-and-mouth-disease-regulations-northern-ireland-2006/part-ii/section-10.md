@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Suspicion of disease in an animal in transit[^key-e885a671cf35cbcec12a6e609e47ed61]
+## 10. Suspicion of disease in an animal in transit[^c-e885a671cf35cbcec12a6e609e47ed61]
 
 *Extent: N.I.*
 
@@ -41,6 +41,6 @@ stating that those premises are under restriction and Schedule 1 shall then appl
 
 ## Annotations
 
-[^key-e885a671cf35cbcec12a6e609e47ed61]: Commencement: Reg. 10 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-e885a671cf35cbcec12a6e609e47ed61]: Commencement: Reg. 10 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00015]: Footnote: [S.R. 2000 No. 293](https://www.legislation.gov.uk/nisr/2000/293)

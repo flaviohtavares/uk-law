@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Detention under section 209: place of detention etc[^key-258dd30171ba8b8c8c122edb8fc0281c][^key-63f112f339dd7cba95bf8a6be4697887][^key-ae4c6da328cb49875e6aa822b1b46579]
+## 210. Detention under section 209: place of detention etc[^c-258dd30171ba8b8c8c122edb8fc0281c][^c-63f112f339dd7cba95bf8a6be4697887][^c-ae4c6da328cb49875e6aa822b1b46579]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-258dd30171ba8b8c8c122edb8fc0281c]: Commencement: S. 210 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-258dd30171ba8b8c8c122edb8fc0281c]: Commencement: S. 210 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-63f112f339dd7cba95bf8a6be4697887]: Commencement: S. 210 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-63f112f339dd7cba95bf8a6be4697887]: Commencement: S. 210 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-ae4c6da328cb49875e6aa822b1b46579]: Modification: S. 210 modified (E.W.) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 245(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/2/d)[(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/4), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [245(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ae4c6da328cb49875e6aa822b1b46579]: Modification: S. 210 modified (E.W.) (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 245(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/1)[(2)(d)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/2/d)[(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/4), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [245(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/245/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

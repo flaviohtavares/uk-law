@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## G4. Actuarial inquiries[^key-ac1d1287e043f7dd29a227ce0d1a65dd]
+## G4. Actuarial inquiries[^c-ac1d1287e043f7dd29a227ce0d1a65dd]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac1d1287e043f7dd29a227ce0d1a65dd]: Commencement: Reg. G4 in operation at 2.11.1998, see reg. A1
+[^c-ac1d1287e043f7dd29a227ce0d1a65dd]: Commencement: Reg. G4 in operation at 2.11.1998, see reg. A1

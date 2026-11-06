@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Consecutive terms[^key-a256016d6568d1cb8604de7a71cdcafd]
+## 5. Consecutive terms[^c-a256016d6568d1cb8604de7a71cdcafd]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,14 +66,14 @@ summary: ''
 
 (5) In section 250 (licence conditions), omit subsection (7).
 
-(6)[^key-39ac85ca03f4a60a5ee313b070e35064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-39ac85ca03f4a60a5ee313b070e35064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-39ac85ca03f4a60a5ee313b070e35064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-39ac85ca03f4a60a5ee313b070e35064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-39ac85ca03f4a60a5ee313b070e35064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-39ac85ca03f4a60a5ee313b070e35064] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a256016d6568d1cb8604de7a71cdcafd]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/11/section/5) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/40/article/2/e)
+[^c-a256016d6568d1cb8604de7a71cdcafd]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2014/11/section/5) in force at 1.2.2015 by [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(e)](https://www.legislation.gov.uk/uksi/2015/40/article/2/e)
 
-[^key-39ac85ca03f4a60a5ee313b070e35064]: Textual amendment: [S. 5(6)-(8)](https://www.legislation.gov.uk/ukpga/2014/11/section/5/6) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 12(4)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/12/4) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)
+[^c-39ac85ca03f4a60a5ee313b070e35064]: Textual amendment: [S. 5(6)-(8)](https://www.legislation.gov.uk/ukpga/2014/11/section/5/6) omitted (11.5.2026) by virtue of [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1), [Sch. 5 para. 12(4)](https://www.legislation.gov.uk/ukpga/2026/2/schedule/5/paragraph/12/4) (with [s. 34(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/2/section/34/5)); [S.I. 2026/402](https://www.legislation.gov.uk/uksi/2026/402), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/402/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Amnesty agreements[^key-67fd43f4d0ee540069646b8c8c097ea0]
+## 117. Amnesty agreements[^c-67fd43f4d0ee540069646b8c8c097ea0]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67fd43f4d0ee540069646b8c8c097ea0]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2016/18/section/117) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)
+[^c-67fd43f4d0ee540069646b8c8c097ea0]: Commencement: [S. 117](https://www.legislation.gov.uk/asp/2016/18/section/117) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule)

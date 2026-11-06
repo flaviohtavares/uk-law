@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Forfeiture: relevant monetary obligations and relevant monetary losses[^key-19baa6db9546d95c20e2ce05134e8fe1]
+## 125. Forfeiture: relevant monetary obligations and relevant monetary losses[^c-19baa6db9546d95c20e2ce05134e8fe1]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19baa6db9546d95c20e2ce05134e8fe1]: Commencement: Reg. 125 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-19baa6db9546d95c20e2ce05134e8fe1]: Commencement: Reg. 125 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

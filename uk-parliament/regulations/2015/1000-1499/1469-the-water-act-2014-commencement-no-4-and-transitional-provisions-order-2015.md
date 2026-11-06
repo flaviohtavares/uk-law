@@ -37,7 +37,7 @@ Made
 
 The Secretary of State and the Welsh Ministers make the following Order in exercise of the powers conferred by sections 91(1) and (4) and 94(3) of the Water Act 2014[^f00001].
 
-## 1. Citation and interpretation[^key-565bfe6d97f10e6b0175969383ee0038]
+## 1. Citation and interpretation[^c-565bfe6d97f10e6b0175969383ee0038]
 
 (1) This Order may be cited as the Water Act 2014 (Commencement No. 4 and Transitional Provisions) Order 2015.
 
@@ -46,7 +46,7 @@ The Secretary of State and the Welsh Ministers make the following Order in exerc
 - “the 1991 Act” means the Water Industry Act 1991[^f00002];
 - “the 2014 Act” means the Water Act 2014.
 
-## 2. Provisions of the 2014 Act coming into force on 15th July 2015[^key-9fc732474ae7f02924bbc7846e7855c0]
+## 2. Provisions of the 2014 Act coming into force on 15th July 2015[^c-9fc732474ae7f02924bbc7846e7855c0]
 
 The following provisions of the 2014 Act come into force on 15th July 2015—
 
@@ -63,7 +63,7 @@ The following provisions of the 2014 Act come into force on 15th July 2015—
     - (bb) sections 42 to 47, 49 and 51 to 53 of the 2014 Act; and
   - (ii) paragraphs 2 and 3(1), (2) and (8)(a) and (c) so far as they relate to those provisions.
 
-## 3. Provisions of the 2014 Act coming into force on 1st September 2015[^key-2870b2777bad37704392b2fbbd6631f6]
+## 3. Provisions of the 2014 Act coming into force on 1st September 2015[^c-2870b2777bad37704392b2fbbd6631f6]
 
 The following provisions of the 2014 Act come into force on 1st September 2015—
 
@@ -78,7 +78,7 @@ The following provisions of the 2014 Act come into force on 1st September 2015�
   - (i) paragraph 3(8)(b) so far as it relates to sections 66DB, 66EB, 117G and 117K of the 1991 Act; and
   - (ii) paragraphs 2 and 3(1), (2) and 8(a) and (c) so far as they relate to those provisions.
 
-## 4. Provisions of the 2014 Act coming into force on 1st November 2015[^key-dcd97ae6972545a84b4463c241bb6d5f]
+## 4. Provisions of the 2014 Act coming into force on 1st November 2015[^c-dcd97ae6972545a84b4463c241bb6d5f]
 
 The following provisions of the 2014 Act come into force on 1st November 2015—
 
@@ -88,11 +88,11 @@ The following provisions of the 2014 Act come into force on 1st November 2015—
   - (i) paragraph 3(8)(b) so far as it relates to sections 143B, 143D and 143E of the 1991 Act; and
   - (ii) paragraphs 2 and 3(1), (2) and 8(a) and (c) so far as they relate to those provisions.
 
-## 5. Transitional provisions[^key-43e869d1b2931c1379e3d2d6edbf61d7]
+## 5. Transitional provisions[^c-43e869d1b2931c1379e3d2d6edbf61d7]
 
-(1)[^key-37b9466c2562f13e5d1a9d335be4a654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-37b9466c2562f13e5d1a9d335be4a654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-37b9466c2562f13e5d1a9d335be4a654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-37b9466c2562f13e5d1a9d335be4a654] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Until Schedule 2 to the 2014 Act comes into force to the extent that it substitutes sections 66D and 66E of the 1991 Act, references in sections 66DB(3) and 66EB of the 1991 Act to those provisions are to be read as if those provisions as substituted were in force.
 
@@ -174,11 +174,11 @@ The following provisions of the 2014 Act have been or will be brought into force
 
 [^f00001]: Footnote: [2014 c.21](https://www.legislation.gov.uk/ukpga/2014/21). The power in section 94(3) to appoint a day on which the remaining provisions of the 2014 Act come into force is vested in the “appropriate authority”. Section 94(6) provides that the appropriate authority is the Secretary of State except as stated in the table in Schedule 12.
 
-[^key-565bfe6d97f10e6b0175969383ee0038]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/1469/article/1) in force at made date
+[^c-565bfe6d97f10e6b0175969383ee0038]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/1469/article/1) in force at made date
 
 [^f00002]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56).
 
-[^key-9fc732474ae7f02924bbc7846e7855c0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/1469/article/2) in force at made date
+[^c-9fc732474ae7f02924bbc7846e7855c0]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/1469/article/2) in force at made date
 
 [^f00003]: Footnote: The Secretary of State is the appropriate authority for the purposes of section 16 in relation to wholly or mainly English undertakers and the Welsh Ministers are the appropriate authority in relation to wholly or mainly Welsh undertakers.
 
@@ -186,15 +186,15 @@ The following provisions of the 2014 Act have been or will be brought into force
 
 [^f00005]: Footnote: The Secretary of State is the appropriate authority for the purposes of section 29 in relation to supplies of water made in accordance with a retail authorisation and the Welsh Ministers are the appropriate authority in relation to supplies of water made in accordance with a restricted retail authorisation.
 
-[^key-2870b2777bad37704392b2fbbd6631f6]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1469/article/3) in force at made date
+[^c-2870b2777bad37704392b2fbbd6631f6]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2015/1469/article/3) in force at made date
 
-[^key-dcd97ae6972545a84b4463c241bb6d5f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1469/article/4) in force at made date
+[^c-dcd97ae6972545a84b4463c241bb6d5f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2015/1469/article/4) in force at made date
 
 [^f00006]: Footnote: By virtue of article 2(a) of this Order.
 
-[^key-43e869d1b2931c1379e3d2d6edbf61d7]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1469/article/5) in force at made date
+[^c-43e869d1b2931c1379e3d2d6edbf61d7]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2015/1469/article/5) in force at made date
 
-[^key-37b9466c2562f13e5d1a9d335be4a654]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/2) revoked (1.4.2016) by [The Water Act 2014 (Commencement No. 6, Transitional Provisions and Savings) Order 2016 (S.I. 2016/465)](https://www.legislation.gov.uk/uksi/2016/465), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/uksi/2016/465/schedule/2/paragraph/6/c)
+[^c-37b9466c2562f13e5d1a9d335be4a654]: Textual amendment: [Art. 5(1)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/1)[(2)](https://www.legislation.gov.uk/uksi/2015/1469/article/5/2) revoked (1.4.2016) by [The Water Act 2014 (Commencement No. 6, Transitional Provisions and Savings) Order 2016 (S.I. 2016/465)](https://www.legislation.gov.uk/uksi/2016/465), [Sch. 2 para. 6(c)](https://www.legislation.gov.uk/uksi/2016/465/schedule/2/paragraph/6/c)
 
 [^f00007]: Footnote: Section 143(1) was amended by section 4(2) of the Water Industry Act [1999 (c.9)](https://www.legislation.gov.uk/ukpga/1999/9).
 

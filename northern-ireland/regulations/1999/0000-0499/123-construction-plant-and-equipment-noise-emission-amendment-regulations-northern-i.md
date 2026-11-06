@@ -30,7 +30,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Construction Plant and Equipment (Noise Emission) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-142399e313cf3961220ab1688ba31c3f]
+Construction Plant and Equipment (Noise Emission) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-142399e313cf3961220ab1688ba31c3f]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into operation
 
 1st April 1999
 
-[^key-142399e313cf3961220ab1688ba31c3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-142399e313cf3961220ab1688ba31c3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-142399e313cf3961220ab1688ba31c3f]
+## 1. Citation and commencement[^c-142399e313cf3961220ab1688ba31c3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-142399e313cf3961220ab1688ba31c3f]
+## 2. Interpretation[^c-142399e313cf3961220ab1688ba31c3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Construction Plant and Equipment (Noise Emission) Regulations (Northern Ireland) 1987[^key-142399e313cf3961220ab1688ba31c3f]
+## 3. Amendment of the Construction Plant and Equipment (Noise Emission) Regulations (Northern Ireland) 1987[^c-142399e313cf3961220ab1688ba31c3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. References in statutory provisions, etc.[^key-142399e313cf3961220ab1688ba31c3f]
+## 4. References in statutory provisions, etc.[^c-142399e313cf3961220ab1688ba31c3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-142399e313cf3961220ab1688ba31c3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-142399e313cf3961220ab1688ba31c3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-142399e313cf3961220ab1688ba31c3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-142399e313cf3961220ab1688ba31c3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-142399e313cf3961220ab1688ba31c3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/123) revoked (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule) Table 2
+[^c-142399e313cf3961220ab1688ba31c3f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/123) revoked (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule) Table 2

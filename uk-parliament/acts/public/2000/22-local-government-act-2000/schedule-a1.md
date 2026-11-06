@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A1 — Executive arrangements in England: further provision[^key-7e766bdea5192a6f5b6a35e6b7b1be36]
+## SCHEDULE A1 — Executive arrangements in England: further provision[^c-7e766bdea5192a6f5b6a35e6b7b1be36]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ the executive must act in the elected mayor's place or must arrange for a member
 
 ### Leader and cabinet executives (England)
 
-**2.**[^key-6d85a6be429803c6ab9cde1a5bc90185][^key-becb05bfb3521612fd488afd60db90a1][^key-e1dbcd197538ff91f85c99cf8053e346] (1) This paragraph applies in relation to executive arrangements by a local authority which provide for a leader and cabinet executive (England).
+**2.**[^c-6d85a6be429803c6ab9cde1a5bc90185][^c-becb05bfb3521612fd488afd60db90a1][^c-e1dbcd197538ff91f85c99cf8053e346] (1) This paragraph applies in relation to executive arrangements by a local authority which provide for a leader and cabinet executive (England).
 
 (2) Subject to section 9C(5), the executive arrangements must include provision which enables the executive leader to determine the number of councillors who may be appointed to the executive under section 9C(3)(b).
 
@@ -59,7 +59,7 @@ the executive must act in the elected mayor's place or must arrange for a member
 
 (6) Where a vacancy occurs in the office of deputy executive leader, the executive leader must appoint another person to be deputy executive leader.
 
-(7)[^key-519098276659da5a45cad2062bbf41f7] If for any reason the executive leader is unable to act or the office of executive leader is vacant, the deputy executive leader must act in the executive leader's place.
+(7)[^c-519098276659da5a45cad2062bbf41f7] If for any reason the executive leader is unable to act or the office of executive leader is vacant, the deputy executive leader must act in the executive leader's place.
 
 (8) If for any reason—
 
@@ -80,7 +80,7 @@ the executive must act in the executive leader's place or must arrange for a mem
 
 **4.** A member of a local authority who is not a member of the authority's executive is entitled to attend, and speak at, a meeting of the executive, or of a committee of the executive, which is held in private only if invited to do so.
 
-### Attendance of police and crime commissioner at meetings[^key-97e9a58f147be65e649a73441d6a1c8d]
+### Attendance of police and crime commissioner at meetings[^c-97e9a58f147be65e649a73441d6a1c8d]
 
 **4A.** (1) A relevant police and crime commissioner may attend, speak at and vote at—
 
@@ -163,7 +163,7 @@ are to apply to the performance of any duty imposed on a local authority by virt
 
 ### Overview and scrutiny committees: voting rights of co-opted members
 
-**11.**[^key-876d3296ba78a4d676e29b18504b1e65] (1) A local authority may permit a co-opted member of an overview and scrutiny committee of the authority to vote at meetings of the committee.
+**11.**[^c-876d3296ba78a4d676e29b18504b1e65] (1) A local authority may permit a co-opted member of an overview and scrutiny committee of the authority to vote at meetings of the committee.
 
 (2) Permission under sub-paragraph (1) may only be given in accordance with a scheme made by the local authority.
 
@@ -176,7 +176,7 @@ are to apply to the performance of any duty imposed on a local authority by virt
 
 (5) In this paragraph, references to a co-opted member, in relation to an overview and scrutiny committee of a local authority, are to a member of the committee who is not a member of the authority.
 
-**12.**[^key-876d3296ba78a4d676e29b18504b1e65][^key-f35d4e19f9221a2449c987eb395fd5f1] (1) The Secretary of State may by regulations make provision about the exercise of the powers under paragraph 11.
+**12.**[^c-876d3296ba78a4d676e29b18504b1e65][^c-f35d4e19f9221a2449c987eb395fd5f1] (1) The Secretary of State may by regulations make provision about the exercise of the powers under paragraph 11.
 
 (2) Regulations under sub-paragraph (1) may, in particular, require schemes for the purposes of paragraph 11 (“voting rights schemes”)—
 
@@ -194,7 +194,7 @@ are to apply to the performance of any duty imposed on a local authority by virt
 
 (4) The Secretary of State may by direction require a local authority to vary a voting rights scheme.
 
-**13.**[^key-876d3296ba78a4d676e29b18504b1e65] (1) A local authority which makes a scheme for the purposes of paragraph 11 must, while the scheme is in force, make copies of it available at its principal office at all reasonable hours for inspection by members of the public.
+**13.**[^c-876d3296ba78a4d676e29b18504b1e65] (1) A local authority which makes a scheme for the purposes of paragraph 11 must, while the scheme is in force, make copies of it available at its principal office at all reasonable hours for inspection by members of the public.
 
 (2) If a local authority makes a scheme for the purposes of paragraph 11, or varies or revokes such a scheme, it must as soon as reasonably practicable after doing so publish in one or more newspapers circulating in its area a notice which complies with this paragraph.
 
@@ -220,18 +220,18 @@ are to apply to the performance of any duty imposed on a local authority by virt
 
 ## Annotations
 
-[^key-7e766bdea5192a6f5b6a35e6b7b1be36]: Textual amendment: Sch. A1 inserted (3.12.2011 for specified purposes, 9.3.2012 for the insertion of Sch. A1 paras. 1, 5 so far as not already in force, 4.5.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
+[^c-7e766bdea5192a6f5b6a35e6b7b1be36]: Textual amendment: Sch. A1 inserted (3.12.2011 for specified purposes, 9.3.2012 for the insertion of Sch. A1 paras. 1, 5 so far as not already in force, 4.5.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
 
-[^key-6d85a6be429803c6ab9cde1a5bc90185]: Modification: [Sch. A1 para. 2](https://www.legislation.gov.uk/ukpga/2000/22/schedule/A1/paragraph/2) excluded in part (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/957/article/6/8)
+[^c-6d85a6be429803c6ab9cde1a5bc90185]: Modification: [Sch. A1 para. 2](https://www.legislation.gov.uk/ukpga/2000/22/schedule/A1/paragraph/2) excluded in part (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [6(8)](https://www.legislation.gov.uk/uksi/2019/957/article/6/8)
 
-[^key-becb05bfb3521612fd488afd60db90a1]: Modification: Sch. A1 para. 2 excluded in part by [S.I. 2019/957](https://www.legislation.gov.uk/uksi/2019/957), [art. 6A(12)](https://www.legislation.gov.uk/uksi/2019/957/article/6A/12) (as inserted (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/426/regulation/5))
+[^c-becb05bfb3521612fd488afd60db90a1]: Modification: Sch. A1 para. 2 excluded in part by [S.I. 2019/957](https://www.legislation.gov.uk/uksi/2019/957), [art. 6A(12)](https://www.legislation.gov.uk/uksi/2019/957/article/6A/12) (as inserted (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/426/regulation/5))
 
-[^key-e1dbcd197538ff91f85c99cf8053e346]: Modification: Sch. A1 para. 2 excluded in part by [S.I. 2020/156](https://www.legislation.gov.uk/uksi/2020/156), [art. 7(22)](https://www.legislation.gov.uk/uksi/2020/156/article/7/22) (as substituted (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/426/regulation/12))
+[^c-e1dbcd197538ff91f85c99cf8053e346]: Modification: Sch. A1 para. 2 excluded in part by [S.I. 2020/156](https://www.legislation.gov.uk/uksi/2020/156), [art. 7(22)](https://www.legislation.gov.uk/uksi/2020/156/article/7/22) (as substituted (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2020/426/regulation/12))
 
-[^key-519098276659da5a45cad2062bbf41f7]: Modification: Sch. A1 para. 2(7) modified by [S.I. 2019/957](https://www.legislation.gov.uk/uksi/2019/957), [art. 6A(13)](https://www.legislation.gov.uk/uksi/2019/957/article/6A/13) (as inserted (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/426/regulation/5))
+[^c-519098276659da5a45cad2062bbf41f7]: Modification: Sch. A1 para. 2(7) modified by [S.I. 2019/957](https://www.legislation.gov.uk/uksi/2019/957), [art. 6A(13)](https://www.legislation.gov.uk/uksi/2019/957/article/6A/13) (as inserted (8.5.2020) by [The Local Government (Coronavirus) (Structural Changes) (Consequential Amendments) (England) Regulations 2020 (S.I. 2020/426)](https://www.legislation.gov.uk/uksi/2020/426), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/426/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2020/426/regulation/5))
 
-[^key-97e9a58f147be65e649a73441d6a1c8d]: Textual amendment: Sch. A1 para. 4A and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(9)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/9), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); S.I. 2017/399, reg. 2, Sch. para. 3
+[^c-97e9a58f147be65e649a73441d6a1c8d]: Textual amendment: Sch. A1 para. 4A and cross-heading inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(9)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/9), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); S.I. 2017/399, reg. 2, Sch. para. 3
 
-[^key-876d3296ba78a4d676e29b18504b1e65]: Modification: Sch. A1 paras. 11-13 applied (with modifications) by 2006 c. 41, s. 247A(3)(d) (as inserted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 78](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/78); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b))
+[^c-876d3296ba78a4d676e29b18504b1e65]: Modification: Sch. A1 paras. 11-13 applied (with modifications) by 2006 c. 41, s. 247A(3)(d) (as inserted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 78](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/78); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b))
 
-[^key-f35d4e19f9221a2449c987eb395fd5f1]: Modification: Sch. A1 para. 12 applied (4.5.2012) by [The Local Authorities (Committee System) (England) Regulations 2012 (S.I. 2012/1020)](https://www.legislation.gov.uk/uksi/2012/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/11/5)
+[^c-f35d4e19f9221a2449c987eb395fd5f1]: Modification: Sch. A1 para. 12 applied (4.5.2012) by [The Local Authorities (Committee System) (England) Regulations 2012 (S.I. 2012/1020)](https://www.legislation.gov.uk/uksi/2012/1020), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1020/regulation/1), [11(5)](https://www.legislation.gov.uk/uksi/2012/1020/regulation/11/5)

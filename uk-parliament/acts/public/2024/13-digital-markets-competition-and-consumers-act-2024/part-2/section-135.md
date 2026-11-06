@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Power to make a reference after previously deciding not to do so[^key-3d7b965d22fc6746c273b547f7019842][^key-0a06d4c0e48b323afd6e54b465cb20dd]
+## 135. Power to make a reference after previously deciding not to do so[^c-3d7b965d22fc6746c273b547f7019842][^c-0a06d4c0e48b323afd6e54b465cb20dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d7b965d22fc6746c273b547f7019842]: Commencement: S. 135 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-3d7b965d22fc6746c273b547f7019842]: Commencement: S. 135 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-0a06d4c0e48b323afd6e54b465cb20dd]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2024/13/section/135) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 7](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/7), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-0a06d4c0e48b323afd6e54b465cb20dd]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2024/13/section/135) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/2) (with [Sch. paras. 7](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/7), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

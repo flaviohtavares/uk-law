@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Absence of member of family of member of Her Majesty’s forces[^key-c0bd018e6dbf4777ee9a92bab8752c65]
+## 92. Absence of member of family of member of Her Majesty’s forces[^c-c0bd018e6dbf4777ee9a92bab8752c65]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0bd018e6dbf4777ee9a92bab8752c65]: Commencement: [Reg. 92](https://www.legislation.gov.uk/nisr/2016/219/regulation/92) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-c0bd018e6dbf4777ee9a92bab8752c65]: Commencement: [Reg. 92](https://www.legislation.gov.uk/nisr/2016/219/regulation/92) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

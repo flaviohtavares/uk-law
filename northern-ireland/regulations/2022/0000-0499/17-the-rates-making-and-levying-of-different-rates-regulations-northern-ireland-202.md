@@ -32,7 +32,7 @@ summary: ''
 
 Rates
 
-The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2022 (revoked)[^key-46840bfe3909ce5311e420fa0564f971]
+The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2022 (revoked)[^c-46840bfe3909ce5311e420fa0564f971]
 
 Made
 
@@ -42,38 +42,38 @@ Coming into operation
 
 1st February 2022
 
-[^key-46840bfe3909ce5311e420fa0564f971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46840bfe3909ce5311e420fa0564f971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-46840bfe3909ce5311e420fa0564f971]
+## 1. Citation and commencement[^c-46840bfe3909ce5311e420fa0564f971]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Making and levying of different rates[^key-46840bfe3909ce5311e420fa0564f971]
+## 2. Making and levying of different rates[^c-46840bfe3909ce5311e420fa0564f971]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-46840bfe3909ce5311e420fa0564f971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-46840bfe3909ce5311e420fa0564f971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation and savings[^key-46840bfe3909ce5311e420fa0564f971]
+## 4. Revocation and savings[^c-46840bfe3909ce5311e420fa0564f971]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46840bfe3909ce5311e420fa0564f971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46840bfe3909ce5311e420fa0564f971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Formula[^key-46840bfe3909ce5311e420fa0564f971]
+## SCHEDULE — Formula[^c-46840bfe3909ce5311e420fa0564f971]
 
 Regulation 3
 
-**1.**[^key-46840bfe3909ce5311e420fa0564f971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-46840bfe3909ce5311e420fa0564f971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-46840bfe3909ce5311e420fa0564f971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-46840bfe3909ce5311e420fa0564f971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-46840bfe3909ce5311e420fa0564f971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-46840bfe3909ce5311e420fa0564f971]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-46840bfe3909ce5311e420fa0564f971]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/17) revoked with savings (1.2.2023) by [The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2023 (S.R. 2023/1)](https://www.legislation.gov.uk/nisr/2023/1), [regs. 1](https://www.legislation.gov.uk/nisr/2023/1/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2023/1/regulation/4/1) (with [reg. 4(2)-(8)](https://www.legislation.gov.uk/nisr/2023/1/regulation/4/2))
+[^c-46840bfe3909ce5311e420fa0564f971]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2022/17) revoked with savings (1.2.2023) by [The Rates (Making and Levying of Different Rates) Regulations (Northern Ireland) 2023 (S.R. 2023/1)](https://www.legislation.gov.uk/nisr/2023/1), [regs. 1](https://www.legislation.gov.uk/nisr/2023/1/regulation/1), [4(1)](https://www.legislation.gov.uk/nisr/2023/1/regulation/4/1) (with [reg. 4(2)-(8)](https://www.legislation.gov.uk/nisr/2023/1/regulation/4/2))

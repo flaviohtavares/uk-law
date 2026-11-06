@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27A. Power of Board to vary premises licence conditions[^key-50065233e1318bcd285c3a552fef7139]
+## 27A. Power of Board to vary premises licence conditions[^c-50065233e1318bcd285c3a552fef7139]
 
 *Extent: S*
 
@@ -53,7 +53,7 @@ summary: ''
 
 - (a) amend the premises licence,
 - (b) within the period of one month, give notice of the variation to—
-  - (i) the chief constable[^key-380e94f0a0bfa09b41490ad6b199788f], and
+  - (i) the chief constable[^c-380e94f0a0bfa09b41490ad6b199788f], and
   - (ii) the holders of premises licences in respect of premises to which the variation applies,
 - (c) send a copy of the variation to the address of the premises to which the variation applies, and
 - (d) publicise the variation in such manner as the Board thinks fit.
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50065233e1318bcd285c3a552fef7139]: Textual amendment: S. 27A inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 10(1)](https://www.legislation.gov.uk/asp/2010/18/section/10/1), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-50065233e1318bcd285c3a552fef7139]: Textual amendment: S. 27A inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 10(1)](https://www.legislation.gov.uk/asp/2010/18/section/10/1), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-380e94f0a0bfa09b41490ad6b199788f]: Textual amendment: Words in s. 27A(9)(b)(i) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-380e94f0a0bfa09b41490ad6b199788f]: Textual amendment: Words in s. 27A(9)(b)(i) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Penalties and forfeiture[^M_I_f1f006d4-5b6b-47a4-8c8d-91e845d056c4][^key-cb5e3467a6f27ae8895b038e9614d009]
+## 93. Penalties and forfeiture[^M_I_f1f006d4-5b6b-47a4-8c8d-91e845d056c4][^c-cb5e3467a6f27ae8895b038e9614d009]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_f1f006d4-5b6b-47a4-8c8d-91e845d056c4]: Commencement: S. 93 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-cb5e3467a6f27ae8895b038e9614d009]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/30/section/93) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-cb5e3467a6f27ae8895b038e9614d009]: Commencement: [S. 93](https://www.legislation.gov.uk/ukpga/2023/30/section/93) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 199. Service on joint office-holders[^key-59f4e940f71682a02328ea10c48e5445]
+## 199. Service on joint office-holders[^c-59f4e940f71682a02328ea10c48e5445]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where there are joint administrators, service of court documents on one of them 
 
 ## Annotations
 
-[^key-59f4e940f71682a02328ea10c48e5445]: Commencement: [Rule 199](https://www.legislation.gov.uk/nisr/2026/11/rule/199) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-59f4e940f71682a02328ea10c48e5445]: Commencement: [Rule 199](https://www.legislation.gov.uk/nisr/2026/11/rule/199) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

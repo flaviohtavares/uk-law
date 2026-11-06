@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Guarantees in respect of payment of compensation[^key-9edac9206f231d32156ddaac62b2b4ae]
+## 37. Guarantees in respect of payment of compensation[^c-9edac9206f231d32156ddaac62b2b4ae]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9edac9206f231d32156ddaac62b2b4ae]: Commencement: Art. 37 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-9edac9206f231d32156ddaac62b2b4ae]: Commencement: Art. 37 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

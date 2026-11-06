@@ -33,7 +33,7 @@ summary: ''
 
 (5) Where the payment service user provides information additional to that specified in regulation 43(2)(a) (information required prior to the conclusion of a single payment service contract) or paragraph 2(b) of Schedule 4 (prior general information for framework contracts), the payment service provider is liable only for the execution of payment transactions in accordance with the unique identifier provided by the payment service user.
 
-(6)[^key-dd776ec377310c9a24fe6ee57c7679d5] Nothing in this regulation affects the liability of a payment service provider under a relevant requirement in a case where the payment order is executed subsequent to fraud or dishonesty (and the requirements imposed by this regulation are subject to any such relevant requirements).
+(6)[^c-dd776ec377310c9a24fe6ee57c7679d5] Nothing in this regulation affects the liability of a payment service provider under a relevant requirement in a case where the payment order is executed subsequent to fraud or dishonesty (and the requirements imposed by this regulation are subject to any such relevant requirements).
 
 (7) In this regulation, a “**relevant requirement**” means a requirement imposed by or under—
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd776ec377310c9a24fe6ee57c7679d5]: Textual amendment: Reg. 90(6)(7) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 72(11)](https://www.legislation.gov.uk/ukpga/2023/29/section/72/11), [86(2)(i)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/i)
+[^c-dd776ec377310c9a24fe6ee57c7679d5]: Textual amendment: Reg. 90(6)(7) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 72(11)](https://www.legislation.gov.uk/ukpga/2023/29/section/72/11), [86(2)(i)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/i)

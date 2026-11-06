@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 264B. Disclosure of information[^key-711132df8f7ac11ede93dbe492becd09]
+## 264B. Disclosure of information[^c-711132df8f7ac11ede93dbe492becd09]
 
 *Extent: E+W+S+N.I.*
 
 (1) Information provided by virtue of section 264A may be disclosed by the Secretary of State to any of the following persons—
 
-- (a) NHS England[^key-c26379f595629655ada8a57e0d3d2bfd];
+- (a) NHS England[^c-c26379f595629655ada8a57e0d3d2bfd];
 - (b) any Special Health Authority;
 - (c)[^M_F_11cc6308-c182-491d-f05e-6200d878dc8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) any government department;
@@ -67,9 +67,9 @@ summary: ''
 
 ## Annotations
 
-[^key-711132df8f7ac11ede93dbe492becd09]: Textual amendment: Ss. 264A-264C inserted (7.8.2017) by [Health Service Medical Supplies (Costs) Act 2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/23/section/8), [12(3)](https://www.legislation.gov.uk/ukpga/2017/23/section/12/3); [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/g)
+[^c-711132df8f7ac11ede93dbe492becd09]: Textual amendment: Ss. 264A-264C inserted (7.8.2017) by [Health Service Medical Supplies (Costs) Act 2017 (c. 23)](https://www.legislation.gov.uk/ukpga/2017/23), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/23/section/8), [12(3)](https://www.legislation.gov.uk/ukpga/2017/23/section/12/3); [S.I. 2017/809](https://www.legislation.gov.uk/uksi/2017/809), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/809/regulation/2/g)
 
-[^key-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-c26379f595629655ada8a57e0d3d2bfd]: Textual amendment: Words in Act substituted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2022/31/schedule/1/paragraph/1/2); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
 [^M_F_11cc6308-c182-491d-f05e-6200d878dc8c]: Textual amendment: S. 264B(1)(c) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 10(8)(a)](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/10/8/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 

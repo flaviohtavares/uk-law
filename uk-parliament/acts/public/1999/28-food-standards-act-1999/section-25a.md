@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Obstruction of food crime officers[^key-a4921bec72c7de360b2b3d27127396d2]
+## 25A. Obstruction of food crime officers[^c-a4921bec72c7de360b2b3d27127396d2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4921bec72c7de360b2b3d27127396d2]: Textual amendment: S. 25A inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/3), [208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f) (with [s. 54(5)-(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/5))
+[^c-a4921bec72c7de360b2b3d27127396d2]: Textual amendment: S. 25A inserted (E.W.) (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 54(3)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/3), [208(5)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/f) (with [s. 54(5)-(10)](https://www.legislation.gov.uk/ukpga/2022/32/section/54/5))

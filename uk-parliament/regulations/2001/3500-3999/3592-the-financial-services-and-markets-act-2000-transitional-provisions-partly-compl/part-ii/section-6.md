@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Notice of intention to refuse application for authorisation under the Banking Act[^key-f1aef171833473b7e0940b00e13864ee]
+## 6. Notice of intention to refuse application for authorisation under the Banking Act[^c-f1aef171833473b7e0940b00e13864ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ the notice ceases to have effect on commencement and the Authority must, as soon
 
 ## Annotations
 
-[^key-f1aef171833473b7e0940b00e13864ee]: Commencement: Art. 6 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-f1aef171833473b7e0940b00e13864ee]: Commencement: Art. 6 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

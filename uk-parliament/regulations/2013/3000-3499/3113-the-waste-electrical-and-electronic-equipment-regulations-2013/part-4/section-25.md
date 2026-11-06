@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Registration of producers[^key-fdaa07e699595475edb6126aaf66fd07]
+## 25. Registration of producers[^c-fdaa07e699595475edb6126aaf66fd07]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraph (2), an operator of a scheme must[^key-084f031323addc87f56c4858fbb0e00d] register each scheme member, with the appropriate authority for each compliance period, or part of a compliance period, during which that producer’s membership of the scheme subsists.
+(1) Subject to paragraph (2), an operator of a scheme must[^c-084f031323addc87f56c4858fbb0e00d] register each scheme member, with the appropriate authority for each compliance period, or part of a compliance period, during which that producer’s membership of the scheme subsists.
 
 (2) Paragraph (1) will not apply where regulation 27 applies.
 
 ## Annotations
 
-[^key-fdaa07e699595475edb6126aaf66fd07]: Commencement: Reg. 25 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-fdaa07e699595475edb6126aaf66fd07]: Commencement: Reg. 25 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
 
-[^key-084f031323addc87f56c4858fbb0e00d]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/25/1) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)
+[^c-084f031323addc87f56c4858fbb0e00d]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/25/1) substituted (25.7.2014) by virtue of [The Waste Electrical and Electronic Equipment and Restriction of the Use of Certain Hazardous Substances in Electrical and Electronic Equipment (Amendment) Regulations 2014 (S.I. 2014/1771)](https://www.legislation.gov.uk/uksi/2014/1771), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/1/b), [3(3)](https://www.legislation.gov.uk/uksi/2014/1771/regulation/3/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1771/schedule/2/part/1)

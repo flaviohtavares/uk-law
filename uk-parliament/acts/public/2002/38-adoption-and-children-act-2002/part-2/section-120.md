@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Meaning of “harm” in the 1989 Act[^key-f8d5e1f5191a3390b55ef147b0f24d02]
+## 120. Meaning of “harm” in the 1989 Act[^c-f8d5e1f5191a3390b55ef147b0f24d02]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 31 of the 1989 Act (care and supervision orders), at the end of the d
 
 ## Annotations
 
-[^key-f8d5e1f5191a3390b55ef147b0f24d02]: Commencement: S. 120 in force at 31.1.2005 by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/2)
+[^c-f8d5e1f5191a3390b55ef147b0f24d02]: Commencement: S. 120 in force at 31.1.2005 by [S.I. 2004/3203](https://www.legislation.gov.uk/uksi/2004/3203), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/3203/article/2/2)

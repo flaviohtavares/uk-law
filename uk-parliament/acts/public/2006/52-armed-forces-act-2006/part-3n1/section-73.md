@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Seizure and retention after search upon arrest[^key-9ae7f1f1c11446b9a49dcf2f92f4482b][^key-39609b57f93a87937f6401b1a42c9e00]
+## 73. Seizure and retention after search upon arrest[^c-9ae7f1f1c11446b9a49dcf2f92f4482b][^c-39609b57f93a87937f6401b1a42c9e00]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ae7f1f1c11446b9a49dcf2f92f4482b]: Commencement: S. 73 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-9ae7f1f1c11446b9a49dcf2f92f4482b]: Commencement: S. 73 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-39609b57f93a87937f6401b1a42c9e00]: Commencement: S. 73 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-39609b57f93a87937f6401b1a42c9e00]: Commencement: S. 73 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

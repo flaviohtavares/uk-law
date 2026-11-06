@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6 — Procedures as to Calling-up and Default[^key-56efdb691cbf728c3a6d8d7d2d543223]
+## SCHEDULE 6 — Procedures as to Calling-up and Default[^c-56efdb691cbf728c3a6d8d7d2d543223]
 
 *Extent: S*
 
@@ -84,7 +84,7 @@ Dated
 
 ## Annotations
 
-[^key-56efdb691cbf728c3a6d8d7d2d543223]: Textual amendment: Sch. 6: in each of forms A and B, the words “registered in the Land Register of Scotland on … over title number … (or recorded in the Register for … on …)” are substituted (8.12.2014) for the words “recorded in the register for … on …” by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 17(24)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/17/24) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-56efdb691cbf728c3a6d8d7d2d543223]: Textual amendment: Sch. 6: in each of forms A and B, the words “registered in the Land Register of Scotland on … over title number … (or recorded in the Register for … on …)” are substituted (8.12.2014) for the words “recorded in the register for … on …” by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [sch. 5 para. 17(24)](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/17/24) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
 [^c21115351]: Editorial: Sch. 6: Forms A-BB were substituted (30.9.2010) by [The Home Owner and Debtor Protection (Scotland) Act 2010 (Consequential Provisions) Order 2010 (S.S.I. 2010/318)](https://www.legislation.gov.uk/ssi/2010/318), [art. 2](https://www.legislation.gov.uk/ssi/2010/318/article/2), [Sch. Pt. 1 para. 2](https://www.legislation.gov.uk/ssi/2010/318/schedule/part/1/paragraph/2); from that date, Forms B and BB are represented as a single 'image' viewable by accessing Form B.
 

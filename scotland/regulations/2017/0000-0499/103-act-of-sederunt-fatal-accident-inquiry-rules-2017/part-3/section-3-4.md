@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.4. Public notice of the inquiry[^key-3602bcaba8375ca9838590bc9c2fca01]
+## 3.4. Public notice of the inquiry[^c-3602bcaba8375ca9838590bc9c2fca01]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3602bcaba8375ca9838590bc9c2fca01]: Commencement: [Rule 3.4](https://www.legislation.gov.uk/ssi/2017/103/rule/3.4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-3602bcaba8375ca9838590bc9c2fca01]: Commencement: [Rule 3.4](https://www.legislation.gov.uk/ssi/2017/103/rule/3.4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

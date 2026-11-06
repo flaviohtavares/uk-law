@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Failure to comply with enforcement notice[^key-fe6ff6647f363406f79fae2bbce8e3fa]
+## 104. Failure to comply with enforcement notice[^c-fe6ff6647f363406f79fae2bbce8e3fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe6ff6647f363406f79fae2bbce8e3fa]: Commencement: Art. 104 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-fe6ff6647f363406f79fae2bbce8e3fa]: Commencement: Art. 104 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

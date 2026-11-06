@@ -36,7 +36,7 @@ summary: ''
 
 (5) Where at any time—
 
-- (a) the holder of a lottery certificate dies or is adjudged bankrupt, or his business becomes vested in the official assignee (whether before or after his death) without his being so adjudged [^key-1d726a001f5c93ed13e0412f15d27d6c]... or a receiver of his property or a committee or guardian is appointed with power to manage the business; or
+- (a) the holder of a lottery certificate dies or is adjudged bankrupt, or his business becomes vested in the official assignee (whether before or after his death) without his being so adjudged [^c-1d726a001f5c93ed13e0412f15d27d6c]... or a receiver of his property or a committee or guardian is appointed with power to manage the business; or
 - (b) in the case of a body corporate, a winding-up is commenced or a receiver is appointed as aforesaid;
 
 except for the purposes of the renewal of the lottery certificate, the personal representative or, as the case requires, the assignees or trustee in bankruptcy, official assignee, [^M_F_36ca7962-a8fb-4991-c5dd-d2d623e717f1]... receiver, committee, guardian or liquidator shall be deemed to be the holder of the lottery certificate and—
@@ -51,7 +51,7 @@ except for the purposes of the renewal of the lottery certificate, the personal 
 
 whichever first occurs.
 
-(7) The authority conferred on any person by virtue of paragraph (5) or (6) to carry on a business under a lottery certificate shall be suspended on the expiration of the period of 2 weeks from the date when he commenced to carry on that business unless during that period he has served notice that he is carrying on the business by virtue of that paragraph (and, if he is carrying it on by virtue of paragraph (5), the capacity in which he is doing so) upon—[^key-44521f1072d83f45030d98a02bca44cb]
+(7) The authority conferred on any person by virtue of paragraph (5) or (6) to carry on a business under a lottery certificate shall be suspended on the expiration of the period of 2 weeks from the date when he commenced to carry on that business unless during that period he has served notice that he is carrying on the business by virtue of that paragraph (and, if he is carrying it on by virtue of paragraph (5), the capacity in which he is doing so) upon—[^c-44521f1072d83f45030d98a02bca44cb]
 
 - (a) the clerk of petty sessions; and
 - (b) the district commander of the police district in which the premises in which the business is carried on are situated;
@@ -60,8 +60,8 @@ but the authority, if so suspended, shall revive upon the service of such a noti
 
 ## Annotations
 
-[^key-1d726a001f5c93ed13e0412f15d27d6c]: Textual amendment: Words in art. 143(5)(a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-1d726a001f5c93ed13e0412f15d27d6c]: Textual amendment: Words in art. 143(5)(a) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^M_F_36ca7962-a8fb-4991-c5dd-d2d623e717f1]: Textual amendment: Words in art. 143(5) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
-[^key-44521f1072d83f45030d98a02bca44cb]: Textual amendment: Words in [art. 143(7)](https://www.legislation.gov.uk/nisi/1985/1204/article/143/7) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-44521f1072d83f45030d98a02bca44cb]: Textual amendment: Words in [art. 143(7)](https://www.legislation.gov.uk/nisi/1985/1204/article/143/7) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 91(5)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/91/5) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

@@ -49,7 +49,7 @@ The title of these Regulations is the Landfill Disposals Tax (Tax Rates) (Wales
 
 ## 2. Application
 
-These Regulations have effect in relation to a taxable disposal made on or after 1 April 2018 but before 1 April 2019[^key-d6bd424fafaba987c4ed9bcfaeafdd6e].
+These Regulations have effect in relation to a taxable disposal made on or after 1 April 2018 but before 1 April 2019[^c-d6bd424fafaba987c4ed9bcfaeafdd6e].
 
 ## 3. Rates of landfill disposals tax
 
@@ -79,4 +79,4 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22974801]: Marginal citation: 2017 anaw 3.
 
-[^key-d6bd424fafaba987c4ed9bcfaeafdd6e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/131/regulation/2) inserted (1.4.2019) by [The Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2018 (S.I. 2018/1209)](https://www.legislation.gov.uk/wsi/2018/1209), [regs. 1](https://www.legislation.gov.uk/wsi/2018/1209/regulation/1), [4](https://www.legislation.gov.uk/wsi/2018/1209/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2018/1209/regulation/2))
+[^c-d6bd424fafaba987c4ed9bcfaeafdd6e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2018/131/regulation/2) inserted (1.4.2019) by [The Landfill Disposals Tax (Tax Rates) (Wales) (Amendment) Regulations 2018 (S.I. 2018/1209)](https://www.legislation.gov.uk/wsi/2018/1209), [regs. 1](https://www.legislation.gov.uk/wsi/2018/1209/regulation/1), [4](https://www.legislation.gov.uk/wsi/2018/1209/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/wsi/2018/1209/regulation/2))

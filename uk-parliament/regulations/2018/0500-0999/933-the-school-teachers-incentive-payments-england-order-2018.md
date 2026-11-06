@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School Teachers' Incentive Payments (England) Order 2018 (revoked)[^key-84783d49af2afdf79502f32eae447853]
+The School Teachers' Incentive Payments (England) Order 2018 (revoked)[^c-84783d49af2afdf79502f32eae447853]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 3rd September 2018
 
-[^key-84783d49af2afdf79502f32eae447853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84783d49af2afdf79502f32eae447853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-84783d49af2afdf79502f32eae447853]
+## 1. Citation, commencement and application[^c-84783d49af2afdf79502f32eae447853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Incentive payments to school teachers[^key-84783d49af2afdf79502f32eae447853]
+## 2. Incentive payments to school teachers[^c-84783d49af2afdf79502f32eae447853]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84783d49af2afdf79502f32eae447853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84783d49af2afdf79502f32eae447853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-84783d49af2afdf79502f32eae447853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84783d49af2afdf79502f32eae447853]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-84783d49af2afdf79502f32eae447853]: Textual amendment: Order revoked (1.9.2019) by [The School Teachers Incentive Payments (England) Order 2019 (S.I. 2019/1133)](https://www.legislation.gov.uk/uksi/2019/1133), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1133/article/1/1), [3](https://www.legislation.gov.uk/uksi/2019/1133/article/3)
+[^c-84783d49af2afdf79502f32eae447853]: Textual amendment: Order revoked (1.9.2019) by [The School Teachers Incentive Payments (England) Order 2019 (S.I. 2019/1133)](https://www.legislation.gov.uk/uksi/2019/1133), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2019/1133/article/1/1), [3](https://www.legislation.gov.uk/uksi/2019/1133/article/3)

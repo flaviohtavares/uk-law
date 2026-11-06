@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 220. Appointment of another person to act[^key-30eb717855f6f75202d25f5711b2a2a6]
+## 220. Appointment of another person to act[^c-30eb717855f6f75202d25f5711b2a2a6]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30eb717855f6f75202d25f5711b2a2a6]: Commencement: Rule 220 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-30eb717855f6f75202d25f5711b2a2a6]: Commencement: Rule 220 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

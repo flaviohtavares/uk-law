@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Powers as to form and content of planning applications[^key-c9e76687c9da663c01bcd5bc98b17381][^key-e41a6a4b7f0663616c1cf5b825971a00]
+## 124. Powers as to form and content of planning applications[^c-c9e76687c9da663c01bcd5bc98b17381][^c-e41a6a4b7f0663616c1cf5b825971a00]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,6 +105,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e76687c9da663c01bcd5bc98b17381]: Commencement: S. 124 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-c9e76687c9da663c01bcd5bc98b17381]: Commencement: S. 124 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-e41a6a4b7f0663616c1cf5b825971a00]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2023/55/section/124) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)
+[^c-e41a6a4b7f0663616c1cf5b825971a00]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2023/55/section/124) in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/i)

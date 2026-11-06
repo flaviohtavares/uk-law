@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Chairperson’s functions[^key-4f586315165466a61204ccedd519b68a]
+## 41. Chairperson’s functions[^c-4f586315165466a61204ccedd519b68a]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f586315165466a61204ccedd519b68a]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2022/8/section/41) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-4f586315165466a61204ccedd519b68a]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2022/8/section/41) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

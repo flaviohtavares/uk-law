@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/eur/2009/1224) establishing a Union control system for ensuring compliance with the rules of the common fisheries policy[^key-b3b6ee2d4fdeb0acd9a2e2b8f1fc21d8]
+## 27. Council Regulation [(EC) No 1224/2009](https://www.legislation.gov.uk/eur/2009/1224) establishing a Union control system for ensuring compliance with the rules of the common fisheries policy[^c-b3b6ee2d4fdeb0acd9a2e2b8f1fc21d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,9 +115,9 @@ summary: ''
 
 .
 
-(14)[^key-e4fe1c3846cbffe31060482a3d060ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-e4fe1c3846cbffe31060482a3d060ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15)[^key-e4fe1c3846cbffe31060482a3d060ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(15)[^c-e4fe1c3846cbffe31060482a3d060ae4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (16) In Article 58—
 
@@ -249,9 +249,9 @@ summary: ''
 
 ## Annotations
 
-[^key-b3b6ee2d4fdeb0acd9a2e2b8f1fc21d8]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-b3b6ee2d4fdeb0acd9a2e2b8f1fc21d8]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-e4fe1c3846cbffe31060482a3d060ae4]: Textual amendment: [Reg. 27(14)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/14)[(15)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/15) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4fe1c3846cbffe31060482a3d060ae4]: Textual amendment: [Reg. 27(14)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/14)[(15)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/15) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy and Animals (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1312)](https://www.legislation.gov.uk/uksi/2019/1312), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/1312/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c24328071]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 

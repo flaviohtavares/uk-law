@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Functions under subordinate legislation and other instruments[^key-c544e9309deb451ef06712ee8f1f3357]
+## 17. Functions under subordinate legislation and other instruments[^c-c544e9309deb451ef06712ee8f1f3357]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c544e9309deb451ef06712ee8f1f3357]: Commencement: Art. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c544e9309deb451ef06712ee8f1f3357]: Commencement: Art. 17 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
 
 [^f00025]: Footnote: [S.R. (N.I.) 2000 No. 318](https://www.legislation.gov.uk/nisr/2000/318).
 

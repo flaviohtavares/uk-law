@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78A. Application of category A in quarters ending on 30th June 2021 and 31st August 2021[^key-7329083459fcdf51f747f9d73d689619]
+## 78A. Application of category A in quarters ending on 30th June 2021 and 31st August 2021[^c-7329083459fcdf51f747f9d73d689619]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7329083459fcdf51f747f9d73d689619]: Textual amendment: [Reg. 78A](https://www.legislation.gov.uk/nisr/2009/373/regulation/78A) inserted (21.9.2021) by [The Education (Student Fees (Amounts), Loan Repayment and Support etc.)(Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/260)](https://www.legislation.gov.uk/nisr/2021/260), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/260/regulation/1/1), [8(b)](https://www.legislation.gov.uk/nisr/2021/260/regulation/8/b)
+[^c-7329083459fcdf51f747f9d73d689619]: Textual amendment: [Reg. 78A](https://www.legislation.gov.uk/nisr/2009/373/regulation/78A) inserted (21.9.2021) by [The Education (Student Fees (Amounts), Loan Repayment and Support etc.)(Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/260)](https://www.legislation.gov.uk/nisr/2021/260), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2021/260/regulation/1/1), [8(b)](https://www.legislation.gov.uk/nisr/2021/260/regulation/8/b)

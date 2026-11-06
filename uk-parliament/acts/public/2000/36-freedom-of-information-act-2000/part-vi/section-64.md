@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Removal of exemptions: historical records in public record offices.[^key-e4bd9be908f32ceccc0c3ae336f02600]
+## 64. Removal of exemptions: historical records in public record offices.[^c-e4bd9be908f32ceccc0c3ae336f02600]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e4bd9be908f32ceccc0c3ae336f02600]: Modification: Pt. VI modified (1.1.2013) by [The Freedom of Information (Definition of Historical Records) (Transitional and Saving Provisions) Order 2012 (S.I. 2012/3029)](https://www.legislation.gov.uk/uksi/2012/3029), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3029/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/3029/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/3029/schedule)
+[^c-e4bd9be908f32ceccc0c3ae336f02600]: Modification: Pt. VI modified (1.1.2013) by [The Freedom of Information (Definition of Historical Records) (Transitional and Saving Provisions) Order 2012 (S.I. 2012/3029)](https://www.legislation.gov.uk/uksi/2012/3029), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3029/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/3029/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/3029/schedule)

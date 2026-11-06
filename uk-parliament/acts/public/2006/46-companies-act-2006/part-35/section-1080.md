@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1080. The register[^c19693001][^c19692741][^c18894101][^key-4eeab4711c02dfd2805239ca57b3f5c0]
+## 1080. The register[^c19693001][^c19692741][^c18894101][^c-4eeab4711c02dfd2805239ca57b3f5c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,9 +25,9 @@ summary: ''
 - (a) the information contained in documents delivered to the registrar under any enactment,, and[^c20614111]
 - (b) certificates issued by the registrar under any enactment.
 
-(2)[^c20618951][^key-d3f6f1342c644b70466dc06a4612d3be] The records relating to companies are referred to collectively in the Companies Acts as “the register”.
+(2)[^c20618951][^c-d3f6f1342c644b70466dc06a4612d3be] The records relating to companies are referred to collectively in the Companies Acts as “the register”.
 
-(3) Information deriving from an enhanced disclosure document (see section 1078) delivered to the registrar,[^key-cc6750a3a0270163a416467d3c2679fc] must be kept by the registrar in electronic form.
+(3) Information deriving from an enhanced disclosure document (see section 1078) delivered to the registrar,[^c-cc6750a3a0270163a416467d3c2679fc] must be kept by the registrar in electronic form.
 
 (4)[^c20604281][^c20618971][^c20618981] Subject to that, information contained in documents delivered to the registrar may be recorded and kept in any form the registrar thinks fit, provided it is possible to inspect it and produce a copy of it.
 
@@ -43,7 +43,7 @@ This is sufficient compliance with any duty of the registrar to keep, file or re
 
 [^c18894101]: Commencement: S. 1080 wholly in force at 1.1.2007, see s. 1300 and [S.I. 2006/3428](https://www.legislation.gov.uk/uksi/2006/3428), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2006/3428/article/2/1/e) (subject to [art. 5](https://www.legislation.gov.uk/uksi/2006/3428/article/5), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/3428/schedule/1) and with [arts. 6](https://www.legislation.gov.uk/uksi/2006/3428/article/6), [8](https://www.legislation.gov.uk/uksi/2006/3428/article/8), [Sch. 5](https://www.legislation.gov.uk/uksi/2006/3428/schedule/5))
 
-[^key-4eeab4711c02dfd2805239ca57b3f5c0]: Modification: [S. 1080](https://www.legislation.gov.uk/ukpga/2006/46/section/1080) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 63A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/63A) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2024/234/regulation/27); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
+[^c-4eeab4711c02dfd2805239ca57b3f5c0]: Modification: [S. 1080](https://www.legislation.gov.uk/ukpga/2006/46/section/1080) applied (with modifications) (4.3.2024) by [S.I. 2009/1804](https://www.legislation.gov.uk/uksi/2009/1804), [reg. 63A](https://www.legislation.gov.uk/uksi/2009/1804/regulation/63A) (as inserted by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2024/234/regulation/27); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a))
 
 [^c20604221]: Modification: S. 1080(1) applied (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [60](https://www.legislation.gov.uk/uksi/2009/1804/regulation/60), [83](https://www.legislation.gov.uk/uksi/2009/1804/regulation/83), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/27)
 
@@ -53,9 +53,9 @@ This is sufficient compliance with any duty of the registrar to keep, file or re
 
 [^c20618951]: Modification: S. 1080(2) applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 20(1)(a)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/20/1/a) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-d3f6f1342c644b70466dc06a4612d3be]: Modification: [S. 1080(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1080/2) applied (with modifications) (18.11.2025) by S.I. 2017/694, reg. 58A (as inserted by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/6/3); S.I. 2025/1118, [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g))
+[^c-d3f6f1342c644b70466dc06a4612d3be]: Modification: [S. 1080(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1080/2) applied (with modifications) (18.11.2025) by S.I. 2017/694, reg. 58A (as inserted by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/6/3); S.I. 2025/1118, [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g))
 
-[^key-cc6750a3a0270163a416467d3c2679fc]: Textual amendment: Words in s. 1080(3) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/348/schedule/1/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc6750a3a0270163a416467d3c2679fc]: Textual amendment: Words in s. 1080(3) substituted (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [reg. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/348/schedule/1/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20604281]: Modification: S. 1080(4)(5) applied (1.10.2009) by [The Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804), [regs. 2](https://www.legislation.gov.uk/uksi/2009/1804/regulation/2), [60](https://www.legislation.gov.uk/uksi/2009/1804/regulation/60), [83](https://www.legislation.gov.uk/uksi/2009/1804/regulation/83), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2009/1804/schedule/1/paragraph/27)
 

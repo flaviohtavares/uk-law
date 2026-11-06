@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Applications by the Crown[^key-1196f3a9d6b71478074d58d162054b3d][^key-102dacdf07754c5a14a13404caf69e74]
+## 132. Applications by the Crown[^c-1196f3a9d6b71478074d58d162054b3d][^c-102dacdf07754c5a14a13404caf69e74]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1196f3a9d6b71478074d58d162054b3d]: Commencement: S. 132 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-1196f3a9d6b71478074d58d162054b3d]: Commencement: S. 132 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-102dacdf07754c5a14a13404caf69e74]: Commencement: [S. 132](https://www.legislation.gov.uk/asc/2024/3/section/132) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)
+[^c-102dacdf07754c5a14a13404caf69e74]: Commencement: [S. 132](https://www.legislation.gov.uk/asc/2024/3/section/132) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(i)](https://www.legislation.gov.uk/wsi/2025/698/article/3/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Feeding of processed animal protein to farmed animals[^key-ecc59272cd32d39f2a51cf2f544cfb64]
+## 14. Feeding of processed animal protein to farmed animals[^c-ecc59272cd32d39f2a51cf2f544cfb64]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecc59272cd32d39f2a51cf2f544cfb64]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)
+[^c-ecc59272cd32d39f2a51cf2f544cfb64]: Textual amendment: Regulations revoked (1.3.2006) by [The Transmissible Spongiform Encephalopathies Regulations 2006 (S.I. 2006/68)](https://www.legislation.gov.uk/uksi/2006/68), [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2006/68/schedule/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Review of access charges by the Office of Rail and Road.[^c14100081][^key-54524fb66aa8959d9b5379f30789b05c]
+## 19A. Review of access charges by the Office of Rail and Road.[^c14100081][^c-54524fb66aa8959d9b5379f30789b05c]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ Schedule 4A to this Act (which contains provision about the review of access cha
 
 [^c14100081]: Textual amendment: S. 19A inserted (30.11.2000) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 231(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/231/1), [275(1)](https://www.legislation.gov.uk/ukpga/2000/38/section/275/1) (with [Sch. 28 paras. 11](https://www.legislation.gov.uk/ukpga/2000/38/schedule/28/paragraph/11), [17](https://www.legislation.gov.uk/ukpga/2000/38/schedule/28/paragraph/17))
 
-[^key-54524fb66aa8959d9b5379f30789b05c]: Textual amendment: Words in s. 19A substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(bb)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1)
+[^c-54524fb66aa8959d9b5379f30789b05c]: Textual amendment: Words in s. 19A substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(bb)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1)

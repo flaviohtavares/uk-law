@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Discharge of water[^key-45af2fabe2727cc3b545f07d410fab6e]
+## 14. Discharge of water[^c-45af2fabe2727cc3b545f07d410fab6e]
 
 *Extent: E+W+S*
 
@@ -35,7 +35,7 @@ summary: ''
 
 (6) The undertaker must take such steps as are reasonably practicable to secure that any water discharged into a watercourse or public sewer or drain pursuant to this article is as free as may be practicable from gravel, soil or other solid substance, oil or matter in suspension.
 
-(7) This article does not authorise the entry or discharge into controlled waters of any substance whose entry or discharge into controlled waters is prohibited by regulation 12 of the Environmental Permitting (England and Wales) Regulations 2016[^key-9386e2f0962dce81f3c066deb9aa8abb].
+(7) This article does not authorise the entry or discharge into controlled waters of any substance whose entry or discharge into controlled waters is prohibited by regulation 12 of the Environmental Permitting (England and Wales) Regulations 2016[^c-9386e2f0962dce81f3c066deb9aa8abb].
 
 (8) In this article—
 
@@ -44,11 +44,11 @@ summary: ''
 
 ## Annotations
 
-[^key-45af2fabe2727cc3b545f07d410fab6e]: Commencement: Art. 14 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-45af2fabe2727cc3b545f07d410fab6e]: Commencement: Art. 14 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
 [^f00014]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 36(2) and 99 of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37), and by section 32 of, and paragraph 16(2) of Schedule 3 to, the Flood and Water Management Act 2010 (date in force to be appointed, see section 49(3)(h)(i)). There are other amendments to this section which are not relevant to this Order.
 
-[^key-9386e2f0962dce81f3c066deb9aa8abb]: Textual amendment: Words in [art. 14(7)](https://www.legislation.gov.uk/uksi/2015/1574/article/14/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 97(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/97/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-9386e2f0962dce81f3c066deb9aa8abb]: Textual amendment: Words in [art. 14(7)](https://www.legislation.gov.uk/uksi/2015/1574/article/14/7) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 97(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/part/2/paragraph/97/3) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00016]: Footnote: [1964 c.40](https://www.legislation.gov.uk/ukpga/1964/40). There are amendments to section 57 that are not relevant to this Order.
 

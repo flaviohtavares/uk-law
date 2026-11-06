@@ -24,7 +24,7 @@ Article 16(6)
 
 ### PART 1 — General
 
-#### 1. Returning officers and polling stations[^key-1f2ca9f5489218373caa4fa11ce4ec07]
+#### 1. Returning officers and polling stations[^c-1f2ca9f5489218373caa4fa11ce4ec07]
 
 (1) Where the polls at a Senedd general election and an ordinary election of police and crime commissioners are taken together under article 16(1)—
 
@@ -38,7 +38,7 @@ Article 16(6)
 
 (3) Where the polls at a Senedd general election and a police and crime commissioner election for related areas, within the meaning of article 16(4), are taken together under article 16(3), sub-paragraph (1) applies.
 
-#### 2. Functions at combined polls[^key-094a8394a46d9d77a3800efc31999e9d]
+#### 2. Functions at combined polls[^c-094a8394a46d9d77a3800efc31999e9d]
 
 (1) The functions referred to in paragraph 1 are the functions conferred—
 
@@ -57,7 +57,7 @@ Article 16(6)
 - (h) rule 42(3)(b) (authorisation to order removal from polling station);
 - (i) paragraphs (2) to (6) of rule 58 (the count: steps) as modified by paragraph 20 of this Schedule.
 
-#### 3. Modification of provisions about expenses in this Order and the 2011 Act[^key-af901865e1415cdf09563241fba0981b]
+#### 3. Modification of provisions about expenses in this Order and the 2011 Act[^c-af901865e1415cdf09563241fba0981b]
 
 (1) Sub-paragraph (2) applies where those functions of a returning officer at an election which are specified in paragraph 2 are discharged by the returning officer at another election under paragraph 1.
 
@@ -79,11 +79,11 @@ are, to the extent that such functions are discharged in accordance with paragra
 
 ### PART 2 — Modifications to Schedule 5 to apply where the poll at a Senedd general election is taken together with a poll at a police and crime commissioner election under article 16(1) or (3)
 
-#### 4. Modifications to Schedule 5: general provisions[^key-a8f4539c2b1e01a796dd50c8c6f278ad]
+#### 4. Modifications to Schedule 5: general provisions[^c-a8f4539c2b1e01a796dd50c8c6f278ad]
 
 Where the poll at a Senedd general election is taken together with the poll at a police and crime commissioner election under article 16(1) or (3), Schedule 5 has effect subject to the modifications set out in the remaining paragraphs of this Part.
 
-#### 5. Rule 27A (colour of ballot papers)[^key-ccb8bf0276f7cc157b50040274aba107]
+#### 5. Rule 27A (colour of ballot papers)[^c-ccb8bf0276f7cc157b50040274aba107]
 
 Schedule 5 is to be read as if after rule 27 (corresponding number list) there were inserted—
 
@@ -91,7 +91,7 @@ Schedule 5 is to be read as if after rule 27 (corresponding number list) there w
 >
 > Where the poll at a Senedd election is taken together with the poll at a police and crime commissioner election, the ballot paper to be used at the Senedd election must be of a different colour from that of any ballot paper to be used at the police and crime commissioner election.
 
-#### 6. Rule 31 (notice of poll)[^key-1ad35898d041d1d1deb8bdedd357e18c]
+#### 6. Rule 31 (notice of poll)[^c-1ad35898d041d1d1deb8bdedd357e18c]
 
 Rule 31 is to be read as if after paragraph (4) there were inserted—
 
@@ -101,13 +101,13 @@ Rule 31 is to be read as if after paragraph (4) there were inserted—
 > - (b) specify the relevant police area for which the election is held, and
 > - (c) where the polls are to be taken together in part of a Senedd constituency only, specify that part.
 
-#### 7. Rule 36 (issue of official poll cards)[^key-47a21d221ea420c1701f3ba95d5280a1]
+#### 7. Rule 36 (issue of official poll cards)[^c-47a21d221ea420c1701f3ba95d5280a1]
 
 Rule 36 is to be read as if after paragraph (6) there were inserted—
 
 > (6A) Where a poll at a Senedd election is taken together with a poll at a police and crime commissioner election, an official poll card issued under this rule may be combined with an official poll card issued at the police and crime commissioner election.
 
-#### 8. Rule 37 (equipment of polling stations)[^key-b2eb609f512ab7d89cb3f41c74233d52]
+#### 8. Rule 37 (equipment of polling stations)[^c-b2eb609f512ab7d89cb3f41c74233d52]
 
 (1) Rule 37 is to be read as if after paragraph (2) there were inserted—
 
@@ -135,25 +135,25 @@ Rule 36 is to be read as if after paragraph (6) there were inserted—
 >   >
 >   > Vote for ONLY ONE CANDIDATE by putting a cross \[x\] in the box next to your choice on the police and crime commissioner ballot paper coloured \[colour of ballot paper\]. Put no other mark on the ballot paper or your vote may not be counted.
 
-#### 9. Rule 38 (appointment of polling and counting agents)[^key-e865f950cf80e3868a05d36019309eee]
+#### 9. Rule 38 (appointment of polling and counting agents)[^c-e865f950cf80e3868a05d36019309eee]
 
 Rule 38 is to be read as if after paragraph (5) there were inserted—
 
 > (6) Where the poll at a Senedd election is taken together with a poll at a police and crime commissioner election, notices of the appointment of polling agents which are required by paragraphs (3) to (5) to be given to the returning officer, must be given to the returning officer who discharges the functions specified in paragraph 2 of Schedule 4.
 
-#### 10. Rule 41 (admission to polling station)[^key-f6a5447da6ce41b5456609072a3d8dfc]
+#### 10. Rule 41 (admission to polling station)[^c-f6a5447da6ce41b5456609072a3d8dfc]
 
 Rule 41 is to be read as if after paragraph (1)(j), there were inserted—
 
 > - (k) persons entitled to be admitted to the polling station at the police and crime commissioner election.
 
-#### 11. Rule 44 (questions to be put to voters)[^key-79055b17489aa2411fedfb17171ae892]
+#### 11. Rule 44 (questions to be put to voters)[^c-79055b17489aa2411fedfb17171ae892]
 
 (1) Questions 1(b), 2(a) and (b), 3(b) and 4 in column (2) of Table 1 in rule 44(4), are to be read as if before the word “election” there is inserted the word “Senedd”.
 
 (2) Questions 1(b), 2(a) and (b), 3(b) and 4 in column (3) of Table 1 in rule 44(4), are to be read as if after the words “yr etholiad hwn” there are inserted the words “i’r Senedd”.
 
-#### 12. Rule 46 (voting procedure)[^key-2ad0d482bd8eef806522e928a90c3c34]
+#### 12. Rule 46 (voting procedure)[^c-2ad0d482bd8eef806522e928a90c3c34]
 
 Rule 46 is to be read as if after paragraph (7) there were inserted—
 
@@ -162,13 +162,13 @@ Rule 46 is to be read as if after paragraph (7) there were inserted—
 > - (a) one mark may be placed in those records under paragraph (2)(d) or in the list of proxies under paragraph (2)(e) to denote that a ballot paper has been received in respect of each election, and
 > - (b) where a ballot paper has not been issued in respect of each election, a different mark must be placed in the registration records or list of proxies so as to identify the election in respect of which the ballot paper was issued.
 
-#### 13. Rule 47 (voters with a disability or unable to read: marking of votes by presiding officer)[^key-07c8ad1d271e9c626a2c004305e41d6a]
+#### 13. Rule 47 (voters with a disability or unable to read: marking of votes by presiding officer)[^c-07c8ad1d271e9c626a2c004305e41d6a]
 
 Rule 47 is to be read as if after paragraph (5) there were inserted—
 
 > (6) Where the poll at a Senedd election is taken together with a poll at a police and crime commissioner election, the same list of votes marked by the presiding officer may be used for each election and, where it is so used, an entry in that list will be taken to mean that the ballot papers were so marked in respect of each election, unless the list identifies the election at which a ballot paper was so marked.
 
-#### 14. Rule 48 (voters with a disability or unable to read: assistance of companions)[^key-0ff282a4592bfb9190e23a97e9bf151c]
+#### 14. Rule 48 (voters with a disability or unable to read: assistance of companions)[^c-0ff282a4592bfb9190e23a97e9bf151c]
 
 In rule 48, paragraph (5) is to be read as if there were substituted for that paragraph—
 
@@ -177,7 +177,7 @@ In rule 48, paragraph (5) is to be read as if there were substituted for that pa
 > - (a) in form 21 set out in Welsh and English in Schedule 10, and
 > - (b) given to the presiding officer who must attest and retain it.
 
-#### 15. Rule 49 (voting with the assistance of a companion: supplemental provision)[^key-b3ec37ae24d18bf5b7d30deeafca3c4d]
+#### 15. Rule 49 (voting with the assistance of a companion: supplemental provision)[^c-b3ec37ae24d18bf5b7d30deeafca3c4d]
 
 Rule 49 is to be read as if after paragraph (5) there were inserted—
 
@@ -185,7 +185,7 @@ Rule 49 is to be read as if after paragraph (5) there were inserted—
 >
 > (7) Where the same list is used under paragraph (6), an entry in that list is to be taken to mean the votes were given in respect of each election, unless the list identifies the election at which a vote was so given.
 
-#### 16. Rule 51 (tendered ballot papers: duties of presiding officer)[^key-ad3582105aea254072f548a8b953d08c]
+#### 16. Rule 51 (tendered ballot papers: duties of presiding officer)[^c-ad3582105aea254072f548a8b953d08c]
 
 Rule 51 is to be read as if after paragraph (6) there were inserted—
 
@@ -193,7 +193,7 @@ Rule 51 is to be read as if after paragraph (6) there were inserted—
 >
 > (8) Where the same list is used under paragraph (7), an entry in that list is to be taken to mean that tendered ballot papers were marked in respect of each election, unless the list identifies the election at which a tendered ballot paper was so marked.
 
-#### 17. Rule 53 (correction of errors on the day of poll)[^key-236b177ff50d63a905b3ca6aef771c0a]
+#### 17. Rule 53 (correction of errors on the day of poll)[^c-236b177ff50d63a905b3ca6aef771c0a]
 
 Rule 53 is to be read as if for that rule there were substituted—
 
@@ -203,7 +203,7 @@ Rule 53 is to be read as if for that rule there were substituted—
 >
 > (2) Where the poll at a Senedd election is taken together with a poll at a police and crime commissioner election, the same list may be used for each election and, where it is so used, an entry in that list is to be taken to mean that ballot papers were issued in respect of each election, unless the list identifies the election for which a ballot paper was issued.
 
-#### 18. Rule 55 (procedure on close of poll)[^key-908457fa3b440e146ab8758815babddf]
+#### 18. Rule 55 (procedure on close of poll)[^c-908457fa3b440e146ab8758815babddf]
 
 (1) In rule 55—
 
@@ -214,7 +214,7 @@ Rule 53 is to be read as if for that rule there were substituted—
 
 > (3A) Where the poll at a Senedd election is taken together with a poll at a police and crime commissioner election, the contents of the packets referred to in paragraph (3)(a), (b), (d) and (e) must not be combined with the contents of packets made under the corresponding rule that applies at a police and crime commissioner election, nor must the statement prepared under paragraph (8) be so combined.
 
-#### 19. Rule 56 (arrangements for the counting of votes)[^key-566d58e9ed8c504b2d0c3544b357cc6e]
+#### 19. Rule 56 (arrangements for the counting of votes)[^c-566d58e9ed8c504b2d0c3544b357cc6e]
 
 Rule 56 is to be read as if after paragraph (2) there were inserted—
 
@@ -225,7 +225,7 @@ Rule 56 is to be read as if after paragraph (2) there were inserted—
 >
 > (4) Where the poll at a Senedd election is taken together with a poll at a police and crime commissioner election and the returning officer for the Senedd election is discharging the functions specified in paragraph 2 of Schedule 4, a reference in this rule and rule 57 to the “counting agents” also includes the counting agents appointed for the purposes of the police and crime commissioner election.
 
-#### 20. Rule 58 (the count: steps)[^key-aeb56579499d03f2eb1b68c6dee4ebe3]
+#### 20. Rule 58 (the count: steps)[^c-aeb56579499d03f2eb1b68c6dee4ebe3]
 
 Rule 58 is to be read as if for that rule there were substituted—
 
@@ -285,19 +285,19 @@ Rule 58 is to be read as if for that rule there were substituted—
 >
 > (13) In this rule, “**appropriate area**” means the area common to the Senedd constituency and voting area in which the polls for the Senedd election and the police and crime commissioner election are being taken together and in respect of which polls the voter has been issued with a ballot paper.
 
-#### 21. Rule 67 (delivery of documents to registration officer at contested elections)[^key-9566f605a8ff8ca7a5fdef41c567a836]
+#### 21. Rule 67 (delivery of documents to registration officer at contested elections)[^c-9566f605a8ff8ca7a5fdef41c567a836]
 
 Rule 67 is to be read as if after paragraph (4) there were inserted—
 
 > (5) Where the poll at a Senedd election is taken together with a poll at a police and crime commissioner election and the Senedd returning officer does not discharge the functions specified in paragraph 2 of Schedule 4, paragraph (2) of this rule has effect as if sub-paragraphs (e), (h) and (i) were omitted.
 
-#### 22. Rule 72 (death of candidate)[^key-8f7f45f2fef058e3ea20e2df61f40893]
+#### 22. Rule 72 (death of candidate)[^c-8f7f45f2fef058e3ea20e2df61f40893]
 
 Rule 72 is to be read as if after paragraph (5) there were inserted—
 
 > (6) Neither the countermand of the notice of poll at the Senedd election nor a direction that the poll be abandoned affects the poll at the police and crime commissioner election.
 
-#### 23. Rule 73 (abandoned poll)[^key-8e94d13b6672dc9a39fd391815fec664]
+#### 23. Rule 73 (abandoned poll)[^c-8e94d13b6672dc9a39fd391815fec664]
 
 Rule 73 is to be read as if after paragraph (5) there were inserted—
 
@@ -308,52 +308,52 @@ Rule 73 is to be read as if after paragraph (5) there were inserted—
 
 ## Annotations
 
-[^key-1f2ca9f5489218373caa4fa11ce4ec07]: Commencement: Sch. 4 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-1f2ca9f5489218373caa4fa11ce4ec07]: Commencement: Sch. 4 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-094a8394a46d9d77a3800efc31999e9d]: Commencement: Sch. 4 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-094a8394a46d9d77a3800efc31999e9d]: Commencement: Sch. 4 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00107]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13). Section 58 was amended by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526); [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310) and [S.I. 2021/1265](https://www.legislation.gov.uk/uksi/2021/1265). Section 154 was amended by [S.I. 2021/1265](https://www.legislation.gov.uk/uksi/2021/1265).
 
-[^key-af901865e1415cdf09563241fba0981b]: Commencement: Sch. 4 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-af901865e1415cdf09563241fba0981b]: Commencement: Sch. 4 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00108]: Footnote: Section 55 was amended by [S.I. 2015/1526](https://www.legislation.gov.uk/uksi/2015/1526) and [S.I. 2021/1265](https://www.legislation.gov.uk/uksi/2021/1265).
 
-[^key-a8f4539c2b1e01a796dd50c8c6f278ad]: Commencement: Sch. 4 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-a8f4539c2b1e01a796dd50c8c6f278ad]: Commencement: Sch. 4 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-ccb8bf0276f7cc157b50040274aba107]: Commencement: Sch. 4 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ccb8bf0276f7cc157b50040274aba107]: Commencement: Sch. 4 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-1ad35898d041d1d1deb8bdedd357e18c]: Commencement: Sch. 4 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-1ad35898d041d1d1deb8bdedd357e18c]: Commencement: Sch. 4 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-47a21d221ea420c1701f3ba95d5280a1]: Commencement: Sch. 4 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-47a21d221ea420c1701f3ba95d5280a1]: Commencement: Sch. 4 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-b2eb609f512ab7d89cb3f41c74233d52]: Commencement: Sch. 4 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-b2eb609f512ab7d89cb3f41c74233d52]: Commencement: Sch. 4 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-e865f950cf80e3868a05d36019309eee]: Commencement: Sch. 4 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e865f950cf80e3868a05d36019309eee]: Commencement: Sch. 4 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-f6a5447da6ce41b5456609072a3d8dfc]: Commencement: Sch. 4 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-f6a5447da6ce41b5456609072a3d8dfc]: Commencement: Sch. 4 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-79055b17489aa2411fedfb17171ae892]: Commencement: Sch. 4 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-79055b17489aa2411fedfb17171ae892]: Commencement: Sch. 4 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-2ad0d482bd8eef806522e928a90c3c34]: Commencement: Sch. 4 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-2ad0d482bd8eef806522e928a90c3c34]: Commencement: Sch. 4 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-07c8ad1d271e9c626a2c004305e41d6a]: Commencement: Sch. 4 para. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-07c8ad1d271e9c626a2c004305e41d6a]: Commencement: Sch. 4 para. 13 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-0ff282a4592bfb9190e23a97e9bf151c]: Commencement: Sch. 4 para. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-0ff282a4592bfb9190e23a97e9bf151c]: Commencement: Sch. 4 para. 14 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-b3ec37ae24d18bf5b7d30deeafca3c4d]: Commencement: Sch. 4 para. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-b3ec37ae24d18bf5b7d30deeafca3c4d]: Commencement: Sch. 4 para. 15 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-ad3582105aea254072f548a8b953d08c]: Commencement: Sch. 4 para. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-ad3582105aea254072f548a8b953d08c]: Commencement: Sch. 4 para. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-236b177ff50d63a905b3ca6aef771c0a]: Commencement: Sch. 4 para. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-236b177ff50d63a905b3ca6aef771c0a]: Commencement: Sch. 4 para. 17 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-908457fa3b440e146ab8758815babddf]: Commencement: Sch. 4 para. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-908457fa3b440e146ab8758815babddf]: Commencement: Sch. 4 para. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-566d58e9ed8c504b2d0c3544b357cc6e]: Commencement: Sch. 4 para. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-566d58e9ed8c504b2d0c3544b357cc6e]: Commencement: Sch. 4 para. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-aeb56579499d03f2eb1b68c6dee4ebe3]: Commencement: Sch. 4 para. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-aeb56579499d03f2eb1b68c6dee4ebe3]: Commencement: Sch. 4 para. 20 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-9566f605a8ff8ca7a5fdef41c567a836]: Commencement: Sch. 4 para. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-9566f605a8ff8ca7a5fdef41c567a836]: Commencement: Sch. 4 para. 21 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-8f7f45f2fef058e3ea20e2df61f40893]: Commencement: Sch. 4 para. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8f7f45f2fef058e3ea20e2df61f40893]: Commencement: Sch. 4 para. 22 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-8e94d13b6672dc9a39fd391815fec664]: Commencement: Sch. 4 para. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8e94d13b6672dc9a39fd391815fec664]: Commencement: Sch. 4 para. 23 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

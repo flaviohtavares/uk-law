@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Power of Minister to give directions to the Council.[^key-9c433fed91dad2efe8840eecd87137b7][^key-9c433fed91dad2efe8840eecd87137b7]
+## 3. Power of Minister to give directions to the Council.[^c-9c433fed91dad2efe8840eecd87137b7][^c-9c433fed91dad2efe8840eecd87137b7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9c433fed91dad2efe8840eecd87137b7]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/part/I) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [8(2)(c)](https://www.legislation.gov.uk/wsi/2013/755/article/8/2/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9c433fed91dad2efe8840eecd87137b7]: Textual amendment: [Pt. I](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/97/part/I) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [8(2)(c)](https://www.legislation.gov.uk/wsi/2013/755/article/8/2/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

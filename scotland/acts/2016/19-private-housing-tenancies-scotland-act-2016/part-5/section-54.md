@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Restriction on applying during the notice period[^key-569c990d7cc89ac7f52b56b7552ddb74]
+## 54. Restriction on applying during the notice period[^c-569c990d7cc89ac7f52b56b7552ddb74]
 
 *Extent: S*
 
@@ -32,7 +32,7 @@ summary: ''
 (3) This subsection applies if—
 
 - (a) on the day the tenant receives the notice to leave, the tenant has been entitled to occupy the let property for not more than six months, or
-- (b)[^key-c2fff9bfb6102b215e6cdb6f3732b767] the only eviction ground, or grounds, stated in the notice to leave is, or are, one or more of the following—
+- (b)[^c-c2fff9bfb6102b215e6cdb6f3732b767] the only eviction ground, or grounds, stated in the notice to leave is, or are, one or more of the following—
   - (i) that the tenant is not occupying the let property as the tenant's home,
   - (ii) that the tenant has failed to comply with an obligation under the tenancy,
   - (iii) that the tenant has been in rent arrears for three or more consecutive months,
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-569c990d7cc89ac7f52b56b7552ddb74]: Commencement: S. 54 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-569c990d7cc89ac7f52b56b7552ddb74]: Commencement: S. 54 in force at 1.12.2017 by [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
 
-[^key-c2fff9bfb6102b215e6cdb6f3732b767]: Modification: [S. 54(3)(b)](https://www.legislation.gov.uk/asp/2016/19/section/54/3/b) modified (temp.) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 2 para. 4(1)(2)](https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/4/2) (with [ss. 6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended: (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2); and (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))
+[^c-c2fff9bfb6102b215e6cdb6f3732b767]: Modification: [S. 54(3)(b)](https://www.legislation.gov.uk/asp/2016/19/section/54/3/b) modified (temp.) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 2 para. 4(1)(2)](https://www.legislation.gov.uk/asp/2022/10/schedule/2/paragraph/4/2) (with [ss. 6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (as amended: (1.4.2023) by [S.S.I. 2023/82](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2); and (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))

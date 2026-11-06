@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Power of members of staff to search students for prohibited items: England[^key-a07ef15187620e7d0e64b7af50b635e1]
+## 244. Power of members of staff to search students for prohibited items: England[^c-a07ef15187620e7d0e64b7af50b635e1]
 
 *Extent: E+W*
 
@@ -158,4 +158,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a07ef15187620e7d0e64b7af50b635e1]: Commencement: S. 244 in force at 1.9.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9)) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))
+[^c-a07ef15187620e7d0e64b7af50b635e1]: Commencement: S. 244 in force at 1.9.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9)) (as amended (26.7.2010) by [S.I. 2010/1891](https://www.legislation.gov.uk/uksi/2010/1891), art. 2(2) (with art. 3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Powers of the Authority when considering an accreditation application[^key-a4e1f3b07ae52059c5aa42e7f1e0213a]
+## 18. Powers of the Authority when considering an accreditation application[^c-a4e1f3b07ae52059c5aa42e7f1e0213a]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4e1f3b07ae52059c5aa42e7f1e0213a]: Commencement: Reg. 18 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-a4e1f3b07ae52059c5aa42e7f1e0213a]: Commencement: Reg. 18 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

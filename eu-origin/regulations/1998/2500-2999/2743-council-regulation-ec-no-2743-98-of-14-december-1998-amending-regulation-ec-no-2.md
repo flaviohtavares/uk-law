@@ -31,10 +31,10 @@ Council Regulation (EC) No 2743/98
 
 of 14 December 1998 amending Regulation (EC) No 297/95 on fees payable to the European Agency for the Evaluation of Medicinal Products (revoked)
 
-[^key-838c910b7c9f2045e83683e05312b9f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-838c910b7c9f2045e83683e05312b9f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-838c910b7c9f2045e83683e05312b9f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-838c910b7c9f2045e83683e05312b9f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-838c910b7c9f2045e83683e05312b9f3]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(e)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/e) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-838c910b7c9f2045e83683e05312b9f3]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(e)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/e) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

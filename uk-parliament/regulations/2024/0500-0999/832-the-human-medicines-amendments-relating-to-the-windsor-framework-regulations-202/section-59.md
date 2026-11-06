@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Amendment to regulation 73[^key-4c66f40feed80b2df88b2006edb8cee9]
+## 59. Amendment to regulation 73[^c-4c66f40feed80b2df88b2006edb8cee9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 73(5C) (obligation to notify placing on the market etc.)[^f00070],
 
 ## Annotations
 
-[^key-4c66f40feed80b2df88b2006edb8cee9]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2024/832/regulation/59) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-4c66f40feed80b2df88b2006edb8cee9]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2024/832/regulation/59) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00070]: Footnote: Paragraph (5C) was inserted by [S.I. 2013/2593](https://www.legislation.gov.uk/uksi/2013/2593) and amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

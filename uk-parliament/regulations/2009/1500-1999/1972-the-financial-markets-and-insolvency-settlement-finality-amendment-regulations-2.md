@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services
 
-The Financial Markets and Insolvency (Settlement Finality) (Amendment) Regulations 2009 (revoked)[^key-a8fc01929445787bf4c86db236ec03a9]
+The Financial Markets and Insolvency (Settlement Finality) (Amendment) Regulations 2009 (revoked)[^c-a8fc01929445787bf4c86db236ec03a9]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 1st October 2009
 
-[^key-a8fc01929445787bf4c86db236ec03a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8fc01929445787bf4c86db236ec03a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a8fc01929445787bf4c86db236ec03a9]
+## 1. Citation, commencement and interpretation[^c-a8fc01929445787bf4c86db236ec03a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Regulations[^key-a8fc01929445787bf4c86db236ec03a9]
+## 2. Amendment of the Regulations[^c-a8fc01929445787bf4c86db236ec03a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a8fc01929445787bf4c86db236ec03a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a8fc01929445787bf4c86db236ec03a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8fc01929445787bf4c86db236ec03a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a8fc01929445787bf4c86db236ec03a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a8fc01929445787bf4c86db236ec03a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a8fc01929445787bf4c86db236ec03a9]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)
+[^c-a8fc01929445787bf4c86db236ec03a9]: Textual amendment: Regulations revoked (1.1.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/5) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/3/e), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1382/schedule/part/4)

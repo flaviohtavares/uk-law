@@ -177,7 +177,7 @@ Regulation 8
 >
 > **1.** A person seeking to have authorised a treatment of natural mineral water and spring water with activated alumina in order to remove fluoride shall—
 >
-> - (a) apply in writing to the food authority[^key-d27e09c799f6a5ef4805f1760b9df77e] within whose area the water is extracted;
+> - (a) apply in writing to the food authority[^c-d27e09c799f6a5ef4805f1760b9df77e] within whose area the water is extracted;
 > - (b) permit representatives of that authority to examine the proposed method of treatment and place of treatment and take samples for analysis in accordance with regulation 17; and
 > - (c) provide such information in support of the application as is requested by the food authority.
 >
@@ -232,7 +232,7 @@ Regulation 9
 > </tbody>
 > </table>
 >
-> [^key-464dc423beac2c6a19e688c6d7c679f7][^key-533007941eabf58615f6480bd2ee7aba][^key-c1779b598ef7fded0f8d745efec165b8][^key-c1779b598ef7fded0f8d745efec165b8][^key-c1779b598ef7fded0f8d745efec165b8]
+> [^c-464dc423beac2c6a19e688c6d7c679f7][^c-533007941eabf58615f6480bd2ee7aba][^c-c1779b598ef7fded0f8d745efec165b8][^c-c1779b598ef7fded0f8d745efec165b8][^c-c1779b598ef7fded0f8d745efec165b8]
 >
 > **SCHEDULE 10 — PARAMETERS , PROPERTIES, ELEMENTS, SUBSTANCES AND ORGANISMS IN RELATION TO WHICH CHECK MONITORING MUST BE CARRIED OUT**
 >
@@ -315,10 +315,10 @@ No Regulatory Impact Assessment has been prepared for this instrument as it has 
 
 [^c20175231]: Marginal citation: O.J. No. L37, 10.2.2010, p.13.
 
-[^key-d27e09c799f6a5ef4805f1760b9df77e]: Textual amendment: Words in sch. 1 substituted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/127)](https://www.legislation.gov.uk/ssi/2010/127), [regs. 1](https://www.legislation.gov.uk/ssi/2010/127/regulation/1), [3](https://www.legislation.gov.uk/ssi/2010/127/regulation/3)
+[^c-d27e09c799f6a5ef4805f1760b9df77e]: Textual amendment: Words in sch. 1 substituted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/127)](https://www.legislation.gov.uk/ssi/2010/127), [regs. 1](https://www.legislation.gov.uk/ssi/2010/127/regulation/1), [3](https://www.legislation.gov.uk/ssi/2010/127/regulation/3)
 
-[^key-464dc423beac2c6a19e688c6d7c679f7]: Textual amendment: Word in sch. 2 substituted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/127)](https://www.legislation.gov.uk/ssi/2010/127), [regs. 1](https://www.legislation.gov.uk/ssi/2010/127/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2010/127/regulation/4/a/i)
+[^c-464dc423beac2c6a19e688c6d7c679f7]: Textual amendment: Word in sch. 2 substituted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/127)](https://www.legislation.gov.uk/ssi/2010/127), [regs. 1](https://www.legislation.gov.uk/ssi/2010/127/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2010/127/regulation/4/a/i)
 
-[^key-533007941eabf58615f6480bd2ee7aba]: Textual amendment: Word in sch. 2 substituted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/127)](https://www.legislation.gov.uk/ssi/2010/127), [regs. 1](https://www.legislation.gov.uk/ssi/2010/127/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2010/127/regulation/4/a/ii)
+[^c-533007941eabf58615f6480bd2ee7aba]: Textual amendment: Word in sch. 2 substituted (9.4.2010) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/127)](https://www.legislation.gov.uk/ssi/2010/127), [regs. 1](https://www.legislation.gov.uk/ssi/2010/127/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2010/127/regulation/4/a/ii)
 
-[^key-c1779b598ef7fded0f8d745efec165b8]: Textual amendment: Word in sch. 2 omitted (9.4.2010) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/127)](https://www.legislation.gov.uk/ssi/2010/127), [regs. 1](https://www.legislation.gov.uk/ssi/2010/127/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2010/127/regulation/4/b)
+[^c-c1779b598ef7fded0f8d745efec165b8]: Textual amendment: Word in sch. 2 omitted (9.4.2010) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) Amendment (No. 2) Regulations 2010 (S.S.I. 2010/127)](https://www.legislation.gov.uk/ssi/2010/127), [regs. 1](https://www.legislation.gov.uk/ssi/2010/127/regulation/1), [4(b)](https://www.legislation.gov.uk/ssi/2010/127/regulation/4/b)

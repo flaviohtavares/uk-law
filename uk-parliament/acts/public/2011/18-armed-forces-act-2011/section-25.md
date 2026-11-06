@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Claims against visiting forces: transfer of liability[^key-47b9a34d0e29fa56c311313cdc60d91f]
+## 25. Claims against visiting forces: transfer of liability[^c-47b9a34d0e29fa56c311313cdc60d91f]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ After section 9 of the Visiting Forces Act 1952 insert—
 
 ## Annotations
 
-[^key-47b9a34d0e29fa56c311313cdc60d91f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2011/18/section/25) in force at 6.4.2013 by [S.I. 2013/784](https://www.legislation.gov.uk/uksi/2013/784), [art. 3](https://www.legislation.gov.uk/uksi/2013/784/article/3)
+[^c-47b9a34d0e29fa56c311313cdc60d91f]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2011/18/section/25) in force at 6.4.2013 by [S.I. 2013/784](https://www.legislation.gov.uk/uksi/2013/784), [art. 3](https://www.legislation.gov.uk/uksi/2013/784/article/3)

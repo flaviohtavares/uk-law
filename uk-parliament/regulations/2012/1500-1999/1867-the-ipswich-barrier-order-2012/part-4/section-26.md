@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. New rights only to be acquired in certain lands[^key-d32543c108ebccaf3634c5c37eb6bb47]
+## 26. New rights only to be acquired in certain lands[^c-d32543c108ebccaf3634c5c37eb6bb47]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In the case of the land specified in columns (1) and (2) of Schedule 4 (acquisit
 
 ## Annotations
 
-[^key-d32543c108ebccaf3634c5c37eb6bb47]: Commencement: Art. 26 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-d32543c108ebccaf3634c5c37eb6bb47]: Commencement: Art. 26 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

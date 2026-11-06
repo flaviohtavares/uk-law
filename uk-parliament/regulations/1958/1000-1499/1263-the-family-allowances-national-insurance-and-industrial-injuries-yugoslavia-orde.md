@@ -52,19 +52,19 @@ And Whereas by section 64 of the National Insurance Act, 1946, as extended by su
 
 Now, therefore, Her Majesty, in pursuance of the said section 64 of the National Insurance Act, 1946, extended as aforesaid by subsection (1) of section 4 of the Family Allowances and National Insurance Act, 1956, and the said section 85 of the National Insurance (Industrial Injuries) Act, 1946, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—
 
-## 1. Citation, commencement and interpretation[^key-2fdcdf75c92d89994954a22ea14b7d7e]
+## 1. Citation, commencement and interpretation[^c-2fdcdf75c92d89994954a22ea14b7d7e]
 
 (1) This Order may be cited as the Family Allowances, National Insurance and Industrial Injuries (Yugoslavia) Order, 1958.
 
 (2) The Interpretation Act, 1889, applies to the interpretation of this Order as it applies to the interpretation of an Act of Parliament.
 
-## 2. Modification of Acts[^key-28c7c703ffde23ae4ddb8d75cdab5014]
+## 2. Modification of Acts[^c-28c7c703ffde23ae4ddb8d75cdab5014]
 
 The provisions contained in the Convention set out in the Schedule to this Order shall have full force and effect, so far as the same relate to England, Wales and Scotland and provide by way of agreement with the Government of the Federal People's Republic of Yugoslavia for reciprocity in any matters specified in either subsection (1) of section 64 of the National Insurance Act, 1946, as extended by subsection (1) of section 4 of the Family Allowances and National Insurance Act, 1956, or subsection (1) of section 85 of the National Insurance (Industrial Injuries) Act, 1946 (which subsections relate to reciprocal agreements with other governments), and the Family Allowances Acts, 1945 to 1956, the National Insurance Acts, 1946 to 1957, and the National Insurance (Industrial Injuries) Acts, 1946 to 1957, shall have effect subject to such modifications as may be required therein for the purpose of giving effect to any such provisions.
 
 W.G. Agnew
 
-## SCHEDULE[^key-56aa7f7c72a26a93838a9f8abdf71910]
+## SCHEDULE[^c-56aa7f7c72a26a93838a9f8abdf71910]
 
 > CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF THE FEDERAL PEOPLES REPUBLIC OF YUGOSLAVIA
 >
@@ -349,8 +349,8 @@ This Order gives effect in England, Wales and Scotland to the Convention (set ou
 
 ## Annotations
 
-[^key-2fdcdf75c92d89994954a22ea14b7d7e]: Commencement: Art. 1 in force at made date
+[^c-2fdcdf75c92d89994954a22ea14b7d7e]: Commencement: Art. 1 in force at made date
 
-[^key-28c7c703ffde23ae4ddb8d75cdab5014]: Commencement: Art. 2 in force at made date
+[^c-28c7c703ffde23ae4ddb8d75cdab5014]: Commencement: Art. 2 in force at made date
 
-[^key-56aa7f7c72a26a93838a9f8abdf71910]: Commencement: Sch. in force at made date
+[^c-56aa7f7c72a26a93838a9f8abdf71910]: Commencement: Sch. in force at made date

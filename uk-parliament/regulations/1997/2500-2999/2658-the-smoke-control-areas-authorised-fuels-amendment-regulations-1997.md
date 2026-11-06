@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State for the Environment, as respects England and Wales, and the Secretary of State for Scotland, as respects Scotland, in exercise of the powers conferred on them by sections 20(6) and 63(1) of the Clean Air Act 1993[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-4cf20864f3546b1db698a6b50003434f]
+## 1. Citation and commencement[^c-4cf20864f3546b1db698a6b50003434f]
 
 These Regulations may be cited as the Smoke Control Areas (Authorised Fuels) (Amendment) Regulations 1997 and shall come into force on 3rd December 1997.
 
-## 2. Authorised fuels for the purposes of the Clean Air Act 1993[^key-eef1b9000e4f440ad5745aeb0c8d78cf]
+## 2. Authorised fuels for the purposes of the Clean Air Act 1993[^c-eef1b9000e4f440ad5745aeb0c8d78cf]
 
 Schedule 1 to the Smoke Control Areas (Authorised Fuels) Regulations 1991[^f00002] shall be amended as follows:
 
@@ -80,7 +80,7 @@ Schedule 1 to the Smoke Control Areas (Authorised Fuels) Regulations 1991[^f0000
 
   .
 
-## 3. Saving[^key-ad69d0f5fb06a0a57ac6619ed3e9a7a7]
+## 3. Saving[^c-ad69d0f5fb06a0a57ac6619ed3e9a7a7]
 
 Notwithstanding the amendment made by regulation 2(b) above, Phurnacite briquettes manufactured before the coming into force of these Regulations which were an authorised fuel by virtue of paragraph 15 of Schedule 1 to the Smoke Control Areas (Authorised Fuels) Regulations 1991 before the amendment of that paragraph by regulation 2(b), shall continue to be an authorised fuel.
 
@@ -120,9 +120,9 @@ The Regulations also amend the entry for Phurnacite briquette in the list of aut
 
 [^f00001]: Footnote: [1993 c. 11](https://www.legislation.gov.uk/ukpga/1993/11).
 
-[^key-4cf20864f3546b1db698a6b50003434f]: Commencement: Reg. 1 in force at 3.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2658/regulation/1)
+[^c-4cf20864f3546b1db698a6b50003434f]: Commencement: Reg. 1 in force at 3.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2658/regulation/1)
 
-[^key-eef1b9000e4f440ad5745aeb0c8d78cf]: Commencement: Reg. 2 in force at 3.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2658/regulation/1)
+[^c-eef1b9000e4f440ad5745aeb0c8d78cf]: Commencement: Reg. 2 in force at 3.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2658/regulation/1)
 
 [^f00002]: Footnote: S.I. [1991/1282](https://www.legislation.gov.uk/uksi/1991/1282), amended by S.I. [1992/72](https://www.legislation.gov.uk/uksi/1992/72), [3148](https://www.legislation.gov.uk/uksi/1992/3148), [1993/2499](https://www.legislation.gov.uk/uksi/1993/2499), and [1996/1145](https://www.legislation.gov.uk/uksi/1996/1145).
 
@@ -132,4 +132,4 @@ The Regulations also amend the entry for Phurnacite briquette in the list of aut
 
 [^f00005]: Footnote: Formerly Humberside: *see* S.I. [1995/600](https://www.legislation.gov.uk/uksi/1995/600).
 
-[^key-ad69d0f5fb06a0a57ac6619ed3e9a7a7]: Commencement: Reg. 3 in force at 3.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2658/regulation/1)
+[^c-ad69d0f5fb06a0a57ac6619ed3e9a7a7]: Commencement: Reg. 3 in force at 3.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2658/regulation/1)

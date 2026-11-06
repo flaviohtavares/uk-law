@@ -32,7 +32,7 @@ summary: ''
 
 3. The originator institution and the sponsor institution shall notify the competent authority of any transaction entered into in relation to the securitisation in accordance with paragraph 2.
 
-4.[^key-20f2d077db3d902e09733b33031494ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-20f2d077db3d902e09733b33031494ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 5. If an originator institution or a sponsor institution fails to comply with paragraph 1 in respect of a securitisation, the institution shall include all of the underlying exposures of that securitisation in its calculation of risk-weighted exposure amounts as if they had not been securitised and disclose:
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-20f2d077db3d902e09733b33031494ec]: Textual amendment: [Art. 250(4)](https://www.legislation.gov.uk/eur/2013/575/article/250/4) omitted (31.12.2020) by virtue of [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2019/660/regulation/46) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-20f2d077db3d902e09733b33031494ec]: Textual amendment: [Art. 250(4)](https://www.legislation.gov.uk/eur/2013/575/article/250/4) omitted (31.12.2020) by virtue of [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2019/660/regulation/46) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

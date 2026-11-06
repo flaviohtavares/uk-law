@@ -46,13 +46,13 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and extent[^key-d9ecec37668382ed34b1fc4ed6d894fc]
+## 1. Citation, commencement and extent[^c-d9ecec37668382ed34b1fc4ed6d894fc]
 
 (1) These Regulations may be cited as the Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008 and come into force on 11th January 2009.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Restriction on the application of existing choice of law rules in delict cases[^key-0b568bc57a4fe10e22a31abefb0ae138]
+## 2. Restriction on the application of existing choice of law rules in delict cases[^c-0b568bc57a4fe10e22a31abefb0ae138]
 
 In the Private International Law (Miscellaneous Provisions) Act 1995[^f00002]–
 
@@ -69,7 +69,7 @@ In the Private International Law (Miscellaneous Provisions) Act 1995[^f00002]–
   ; and
 - (b) at the beginning of section 18(3)(extent) insert “Except where otherwise provided,”.
 
-## 3. Restriction on the application of existing choice of law rules on prescription and limitation[^key-87e78bba4226ba7101bd93e8a174cf7f]
+## 3. Restriction on the application of existing choice of law rules on prescription and limitation[^c-87e78bba4226ba7101bd93e8a174cf7f]
 
 In section 23A (private international law application) of the Prescription and Limitation (Scotland) Act 1973[^f00005] after subsection (3) insert–
 
@@ -79,9 +79,9 @@ In section 23A (private international law application) of the Prescription and L
 
 .
 
-## 4. Application of Regulation [(EC) No 864/2007](https://www.legislation.gov.uk/eur/2007/864)[^key-abb0d5d2b9773f6b4605d1a362a2ab91][^key-87879c66fc8be0189b505e383ee5e014]
+## 4. Application of Regulation [(EC) No 864/2007](https://www.legislation.gov.uk/eur/2007/864)[^c-abb0d5d2b9773f6b4605d1a362a2ab91][^c-87879c66fc8be0189b505e383ee5e014]
 
-[^key-b51f0d588693631f4291520569eda5f0]... Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations (Rome II) as that Regulation has effect as[^key-a05482a63e171a8d18d4e0f61a28f076] assimilated direct[^key-3dcf537f71343295a57f1134ae8182eb] legislation, shall apply in the case of conflicts between–
+[^c-b51f0d588693631f4291520569eda5f0]... Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/european/regulation/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations (Rome II) as that Regulation has effect as[^c-a05482a63e171a8d18d4e0f61a28f076] assimilated direct[^c-3dcf537f71343295a57f1134ae8182eb] legislation, shall apply in the case of conflicts between–
 
 - (a) the laws of different parts of the United Kingdom; or
 - (b) between the laws of one or more parts of the United Kingdom and Gibraltar,
@@ -108,9 +108,9 @@ These Regulations also extend the application of Rome II to conflicts between th
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3) and section 27 of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51). The functions conferred upon the Minister of the Crown under section 2(2) of the 1972 Act, in so far as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-d9ecec37668382ed34b1fc4ed6d894fc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
+[^c-d9ecec37668382ed34b1fc4ed6d894fc]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
 
-[^key-0b568bc57a4fe10e22a31abefb0ae138]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/404/regulation/2) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
+[^c-0b568bc57a4fe10e22a31abefb0ae138]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2008/404/regulation/2) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
 
 [^f00002]: Footnote: [1995 c. 42](https://www.legislation.gov.uk/ukpga/1995/42).
 
@@ -118,16 +118,16 @@ These Regulations also extend the application of Rome II to conflicts between th
 
 [^f00004]: Footnote: O.J. L 199, 31.7.2007, p.40.
 
-[^key-87e78bba4226ba7101bd93e8a174cf7f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2008/404/regulation/3) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
+[^c-87e78bba4226ba7101bd93e8a174cf7f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2008/404/regulation/3) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
 
 [^f00005]: Footnote: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52). Section 23A was inserted by the Prescription and Limitation (Scotland) Act [1984 (c. 45)](https://www.legislation.gov.uk/ukpga/1984/45).
 
-[^key-abb0d5d2b9773f6b4605d1a362a2ab91]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
+[^c-abb0d5d2b9773f6b4605d1a362a2ab91]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) in force at 11.1.2009, see [reg. 1](https://www.legislation.gov.uk/ssi/2008/404/regulation/1)
 
-[^key-87879c66fc8be0189b505e383ee5e014]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) heading substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87879c66fc8be0189b505e383ee5e014]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) heading substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/834/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b51f0d588693631f4291520569eda5f0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/834/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b51f0d588693631f4291520569eda5f0]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) omitted (31.12.2020) by virtue of [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2019/834/regulation/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a05482a63e171a8d18d4e0f61a28f076]: Textual amendment: Words in reg. 4 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/8/c) (as substituted by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a05482a63e171a8d18d4e0f61a28f076]: Textual amendment: Words in reg. 4 substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2019/834/regulation/8/c) (as substituted by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(10)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/10)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3dcf537f71343295a57f1134ae8182eb]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/12)
+[^c-3dcf537f71343295a57f1134ae8182eb]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2008/404/regulation/4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2023/374/schedule/2/paragraph/12)

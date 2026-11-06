@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Interpretation[^key-611f33d5b0d9aa57c1e23f7700d58963]
+## 2. Interpretation[^c-611f33d5b0d9aa57c1e23f7700d58963]
 
 *Extent: S*
 
@@ -200,7 +200,7 @@ and related expressions shall be construed accordingly.
 
 ## Annotations
 
-[^key-611f33d5b0d9aa57c1e23f7700d58963]: Commencement: Reg. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-611f33d5b0d9aa57c1e23f7700d58963]: Commencement: Reg. 2 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
 
 [^f00002]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 

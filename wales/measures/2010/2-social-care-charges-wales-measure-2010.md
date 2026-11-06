@@ -36,86 +36,86 @@ Social Care Charges (Wales) Measure 2010 (repealed)
 
 2010 nawm 2
 
-[^key-8979bf8df06af6dc347a258e252d1995]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8979bf8df06af6dc347a258e252d1995]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. General power to charge for care services[^key-8979bf8df06af6dc347a258e252d1995]
+## 1. General power to charge for care services[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Maximum charges[^key-8979bf8df06af6dc347a258e252d1995]
+## 2. Maximum charges[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons and services in respect of which charges must not be imposed[^key-8979bf8df06af6dc347a258e252d1995]
+## 3. Persons and services in respect of which charges must not be imposed[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Invitation to request means assessment[^key-8979bf8df06af6dc347a258e252d1995]
+## 4. Invitation to request means assessment[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duty to carry out a means assessment[^key-8979bf8df06af6dc347a258e252d1995]
+## 5. Duty to carry out a means assessment[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Conditions giving rise to the duty to carry out a means assessment[^key-8979bf8df06af6dc347a258e252d1995]
+## 6. Conditions giving rise to the duty to carry out a means assessment[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Determinations as to ability to pay[^key-8979bf8df06af6dc347a258e252d1995]
+## 7. Determinations as to ability to pay[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Effect of determinations as to ability to pay[^key-8979bf8df06af6dc347a258e252d1995]
+## 8. Effect of determinations as to ability to pay[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Replacement by authority of determinations as to ability to pay[^key-8979bf8df06af6dc347a258e252d1995]
+## 9. Replacement by authority of determinations as to ability to pay[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Provision of information about charges[^key-8979bf8df06af6dc347a258e252d1995]
+## 10. Provision of information about charges[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Reviews of charging decisions[^key-8979bf8df06af6dc347a258e252d1995]
+## 11. Reviews of charging decisions[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Direct payments[^key-8979bf8df06af6dc347a258e252d1995]
+## 12. Direct payments[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Chargeable services[^key-8979bf8df06af6dc347a258e252d1995]
+## 13. Chargeable services[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendments to the Health and Social Services and Social Security Adjudications Act 1983[^key-8979bf8df06af6dc347a258e252d1995]
+## 14. Amendments to the Health and Social Services and Social Security Adjudications Act 1983[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment to the Local Authority Social Services Act 1970[^key-8979bf8df06af6dc347a258e252d1995]
+## 15. Amendment to the Local Authority Social Services Act 1970[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment to the Health and Social Care Act 2001[^key-8979bf8df06af6dc347a258e252d1995]
+## 16. Amendment to the Health and Social Care Act 2001[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Orders and regulations[^key-8979bf8df06af6dc347a258e252d1995]
+## 17. Orders and regulations[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Commencement and interpretation[^key-8979bf8df06af6dc347a258e252d1995]
+## 18. Commencement and interpretation[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Short title[^key-8979bf8df06af6dc347a258e252d1995]
+## 19. Short title[^c-8979bf8df06af6dc347a258e252d1995]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8979bf8df06af6dc347a258e252d1995]: Textual amendment: Measure repealed (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 278](https://www.legislation.gov.uk/wsi/2016/413/regulation/278)
+[^c-8979bf8df06af6dc347a258e252d1995]: Textual amendment: Measure repealed (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 278](https://www.legislation.gov.uk/wsi/2016/413/regulation/278)

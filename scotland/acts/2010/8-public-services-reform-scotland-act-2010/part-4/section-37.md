@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. General functions of Creative Scotland[^key-5968961fd51035e416ef5ff7fbf79b2e]
+## 37. General functions of Creative Scotland[^c-5968961fd51035e416ef5ff7fbf79b2e]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5968961fd51035e416ef5ff7fbf79b2e]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/8/section/37) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)
+[^c-5968961fd51035e416ef5ff7fbf79b2e]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2010/8/section/37) in force at 1.7.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/221/article/3/1)

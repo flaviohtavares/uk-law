@@ -33,7 +33,7 @@ summary: ''
 
 and the Minister is satisfied that the land acquired will be so connected by rail or so situated in relation to a railway line or, as the case may be, will be so connected by waterway to, or is so situated in relation to, that waterway[^c15317131] that the rail services of the Railways Board [^c15317141]. . . can be directly used or, as the case may be, the waterway can be conveniently used[^c15317151] by the person for the time being occupying the land proposed to be acquired.
 
-(4A)[^key-d9dfd21fe53dfa9963b032a5e7aca138] In the application of this section to the Waterways Board —
+(4A)[^c-d9dfd21fe53dfa9963b032a5e7aca138] In the application of this section to the Waterways Board —
 
 - (a) the references to the Minister are to be read as references to the Scottish Ministers;
 - (b) the powers in subsections (3) and (4) are limited to the acquisition of adjoining land in Scotland.
@@ -84,7 +84,7 @@ and the Minister is satisfied that the land acquired will be so connected by rai
 
 [^c15317151]: Textual amendment: Words in s. 49(4) inserted (16.1.1995) by [1995 c. i](https://www.legislation.gov.uk/ukla/1995/1), [s. 23(d)](https://www.legislation.gov.uk/ukla/1995/1/section/23/d) (with [s. 34](https://www.legislation.gov.uk/ukla/1995/1/section/34))
 
-[^key-d9dfd21fe53dfa9963b032a5e7aca138]: Textual amendment: [S. 49(4A)](https://www.legislation.gov.uk/ukpga/1968/73/section/49/4A) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/36) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-d9dfd21fe53dfa9963b032a5e7aca138]: Textual amendment: [S. 49(4A)](https://www.legislation.gov.uk/ukpga/1968/73/section/49/4A) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/36) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c15317171]: Textual amendment: S. 49(6) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. VI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/VI)
 

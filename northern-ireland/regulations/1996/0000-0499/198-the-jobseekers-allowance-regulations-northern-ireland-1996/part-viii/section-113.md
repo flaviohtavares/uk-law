@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 113. Notional capital[^key-eed8915a3bd658a2652183a94ea22470]
+## 113. Notional capital[^c-eed8915a3bd658a2652183a94ea22470]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ any capital which would become available to the claimant upon application being 
 
 ## Annotations
 
-[^key-eed8915a3bd658a2652183a94ea22470]: Commencement: Reg. 113 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-eed8915a3bd658a2652183a94ea22470]: Commencement: Reg. 113 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

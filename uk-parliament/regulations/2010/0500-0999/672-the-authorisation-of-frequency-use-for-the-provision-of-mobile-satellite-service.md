@@ -55,7 +55,7 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 (2) In these Regulations—
 
 - “**an authorisation**” means an authorisation granted under regulation 3, subject to the conditions contained in regulation 4;
-- “the common conditions” mean the common conditions to which the rights of the selected applicants are subject in accordance with[^key-b77da06b824262d0e77d6627f19164df] regulation 4(1) and (2)[^key-816e495ee7cdec443f5d25e8daed74ff];
+- “the common conditions” mean the common conditions to which the rights of the selected applicants are subject in accordance with[^c-b77da06b824262d0e77d6627f19164df] regulation 4(1) and (2)[^c-816e495ee7cdec443f5d25e8daed74ff];
 - “the 2011 Commission Decision” means Decision 2011/667/EU of the Commission on modalities for coordinated application of the rules on enforcement with regard to mobile satellite services (MSS) pursuant to Article 9(3) of Decision No [626/2008/EC](https://www.legislation.gov.uk/european/decision/19626/2008) of the European Parliament and of the Council;
 - “**the Commission Decision**” means Decision [2009/449/EC](https://www.legislation.gov.uk/european/decision/2009/0449) of the Commission on the selection of operators of pan-European systems providing mobile satellite services (MSS) [^c20178381];
 - “electronic communications network” and “associated facilities” have the meaning given by section 32 of the Communications Act 2003 [^c20178391];
@@ -77,16 +77,16 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 
 ## 3. Granting of authorisations to the selected applicants
 
-(1) OFCOM shall grant an authorisation under these Regulations to each of the selected applicants for use in the United Kingdom of the frequencies specified for that selected applicant in paragraph 2[^key-6719ed6cf1f2f2e0e7f6db71605421fc] subject to the conditions set out in these Regulations.
+(1) OFCOM shall grant an authorisation under these Regulations to each of the selected applicants for use in the United Kingdom of the frequencies specified for that selected applicant in paragraph 2[^c-6719ed6cf1f2f2e0e7f6db71605421fc] subject to the conditions set out in these Regulations.
 
-(2) For the purposes of paragraph (1), the frequencies specified [^key-ccdb322ea71d303ca45ae16fb2edd7e8]... are the following—
+(2) For the purposes of paragraph (1), the frequencies specified [^c-ccdb322ea71d303ca45ae16fb2edd7e8]... are the following—
 
 - (a) Inmarsat Ventures Limited: from 1980 to 1995MHz for earth to space communications and from 2170 to 2185MHz for space to earth communications; and
 - (b) Solaris Mobile Limited: from 1995 to 2010MHz for earth to space communications and from 2185 to 2200MHz for space to earth communications.
 
 ## 4. Conditions of an authorisation
 
-(1) OFCOM shall ensure that the authorisations are subject to these common conditions[^key-d9d5c025646e19212bca52591a5cd876] [^key-c8e3b30b289fa90b142914c286f69a77]..., namely—
+(1) OFCOM shall ensure that the authorisations are subject to these common conditions[^c-d9d5c025646e19212bca52591a5cd876] [^c-c8e3b30b289fa90b142914c286f69a77]..., namely—
 
 - (a) the selected applicants shall use the frequencies which those applicants are authorised to use pursuant to regulation 3(1) for the provision of mobile satellite services;
 - (b) each selected applicant shall meet milestones 6 to 9 set out in the Annex to the EU Decision by 14th May 2011;
@@ -110,19 +110,19 @@ The Secretary of State has been designated for the purposes of section 2(2) of t
 - (a) there has been a contravention by either of the selected applicants of one or more of the conditions specified in their authorisation; or
 - (b) where OFCOM have taken action under these Regulations against either of the selected applicants in respect of such a contravention,
 
-OFCOM may provide the European Commission[^key-8e22b96d83ea70c5f9cd133661cf976d] with information about the contravention or action [^key-88613f47c3858a21fb9afc8490e68d5c]....
+OFCOM may provide the European Commission[^c-8e22b96d83ea70c5f9cd133661cf976d] with information about the contravention or action [^c-88613f47c3858a21fb9afc8490e68d5c]....
 
 (3) OFCOM may require the selected applicants to provide them with all such information as OFCOM consider necessary for the purpose of carrying out their functions under these Regulations, including the verification of compliance by the selected applicants with the conditions of their authorisations.
 
 (4) A selected applicant required to provide information under paragraph (3) must provide it in such a manner and within such reasonable period as may be specified by OFCOM.
 
-## 5A. Enforcement of the common conditions: notification[^key-6210b1ef6820c8c9764945f6889e11bd]
+## 5A. Enforcement of the common conditions: notification[^c-6210b1ef6820c8c9764945f6889e11bd]
 
 (1) OFCOM shall ensure that contraventions of the common conditions are dealt with in accordance with these Regulations.
 
 (2) If OFCOM determine that there are reasonable grounds for believing that a selected applicant is in contravention of the common conditions, they may notify that selected applicant.
 
-(3)[^key-26bf2a3a29969743fa1eed316bc9e1f7] OFCOM may notify the European Commission of a notification made under paragraph (2).
+(3)[^c-26bf2a3a29969743fa1eed316bc9e1f7] OFCOM may notify the European Commission of a notification made under paragraph (2).
 
 (4) The notification given by OFCOM under paragraph (2) shall—
 
@@ -130,22 +130,22 @@ OFCOM may provide the European Commission[^key-8e22b96d83ea70c5f9cd133661cf976d]
 - (b) give the selected applicant the opportunity to make representations about the notified contravention; and
 - (c) set out a time limit for making the representations referred to in paragraph (b).
 
-(5)[^key-f1f7aa70dc3c810ee3f30e6052715454] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f1f7aa70dc3c810ee3f30e6052715454] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5B. Enforcement of the common conditions: penalties
 
-(1) [^key-4d86ccae8fbbb541f4ed962f899e9206]... OFCOM may impose a penalty specified in this regulation on the selected applicant if—
+(1) [^c-4d86ccae8fbbb541f4ed962f899e9206]... OFCOM may impose a penalty specified in this regulation on the selected applicant if—
 
 - (a) OFCOM has notified the selected applicant of a contravention under regulation 5A; and
 - (b) OFCOM determines that one or more of the common conditions has been contravened.
 
 (2) OFCOM shall, within 1 week of adopting a decision to impose a penalty under this regulation—
 
-- (a) notify the selected applicant; and[^key-875738d4d55409900612c446b2b9274f]
-- (b) give reasons for their decision.[^key-4d3c3cff48cd1ae8228252ccd627e9c0]
-- (c)[^key-0ddfa0fb6be77d625ba6717ea75df4ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) notify the selected applicant; and[^c-875738d4d55409900612c446b2b9274f]
+- (b) give reasons for their decision.[^c-4d3c3cff48cd1ae8228252ccd627e9c0]
+- (c)[^c-0ddfa0fb6be77d625ba6717ea75df4ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-e99aae7a3c736b5bcaea59b1b077ccd6] OFCOM may notify the European Commission of a notification made under paragraph (2).
+(2A)[^c-e99aae7a3c736b5bcaea59b1b077ccd6] OFCOM may notify the European Commission of a notification made under paragraph (2).
 
 (3) OFCOM may issue a notice to the selected applicant setting out —
 
@@ -187,17 +187,17 @@ to bring the selected applicant into compliance with the common conditions.
 - (a) inform the European Commission of their intention to revoke an authorisation; and
 - (b) provide a summary to the European Commission of any measures taken by the selected applicant in response to a notification under regulation 5B(3).
 
-(3)[^key-27c7d26f2b94a6bbc3131ea13fa2afa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-27c7d26f2b94a6bbc3131ea13fa2afa2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) OFCOM shall within 1 week of adopting the decision to revoke the authorisation—
 
-- (a) notify the selected applicant; and[^key-e872c992139836b2f16346f7a2988e4b]
-- (b) specify the reasons for their decision to revoke the authorisation.[^key-fd239ced30e3435027891d9d0c4f729c]
-- (c)[^key-ddff3b0b032a5b2ad64cfee25f98ec55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) notify the selected applicant; and[^c-e872c992139836b2f16346f7a2988e4b]
+- (b) specify the reasons for their decision to revoke the authorisation.[^c-fd239ced30e3435027891d9d0c4f729c]
+- (c)[^c-ddff3b0b032a5b2ad64cfee25f98ec55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-adcf92aa50cb710bac852db80c29450a] OFCOM may notify the European Commission of a notification made under paragraph (4).
+(5)[^c-adcf92aa50cb710bac852db80c29450a] OFCOM may notify the European Commission of a notification made under paragraph (4).
 
-## 5D. Enforcement of the common conditions: notification by another member State[^key-27f2b21da8d7058942f929afb131b524]
+## 5D. Enforcement of the common conditions: notification by another member State[^c-27f2b21da8d7058942f929afb131b524]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -222,25 +222,25 @@ to bring the selected applicant into compliance with the common conditions.
 
 Where OFCOM receives an amount in respect of a financial penalty under these Regulations, OFCOM shall pay that amount into the Consolidated Fund.
 
-## 6. Notification of contravention of conditions of authorisations[^key-de40d3e4be92fe38591ac757b9d48680]
+## 6. Notification of contravention of conditions of authorisations[^c-de40d3e4be92fe38591ac757b9d48680]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties for contravention[^key-4120ab426c54b53c0ab85cc3616024df]
+## 7. Penalties for contravention[^c-4120ab426c54b53c0ab85cc3616024df]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amount of penalty under regulation 7[^key-b5319353542f8004e6e1a9cb7d99ff3c]
+## 8. Amount of penalty under regulation 7[^c-b5319353542f8004e6e1a9cb7d99ff3c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Calculation of turnover of notified person's relevant business[^key-88b0e9d0c0a7112dcdf20612c3b6c2c9]
+## 9. Calculation of turnover of notified person's relevant business[^c-88b0e9d0c0a7112dcdf20612c3b6c2c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 10. Appeals against decisions by OFCOM
 
-(1) A selected applicant affected by a decision by OFCOM under regulations 3 to 5E[^key-fdc9567f1e279d2ab9d8c0b0a3bccdbf] may appeal against it to the Tribunal.
+(1) A selected applicant affected by a decision by OFCOM under regulations 3 to 5E[^c-fdc9567f1e279d2ab9d8c0b0a3bccdbf] may appeal against it to the Tribunal.
 
 (2) The means of making an appeal is by sending the Tribunal a notice of appeal in accordance with Tribunal rules.
 
@@ -294,20 +294,20 @@ and references in the following regulations to a decision appealed against are t
 
 ## 13. Complementary ground components
 
-(1)[^key-95d276c18fa149d767f07642ca27a1f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-95d276c18fa149d767f07642ca27a1f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) OFCOM shall [^key-662245aad3a8c96ccfb4c1f19c97af4e]... pursuant to their powers under the Wireless Telegraphy Act 2006[^key-3fc2161fe36acf94a32d913babc6f352] grant a selected applicant, if requested, the authorisation necessary for the provision of complementary ground components of systems providing mobile satellite services subject to the common conditions specified in paragraph (4)[^key-c7c337e3f48beaef045774cc311dcb35].
+(2) OFCOM shall [^c-662245aad3a8c96ccfb4c1f19c97af4e]... pursuant to their powers under the Wireless Telegraphy Act 2006[^c-3fc2161fe36acf94a32d913babc6f352] grant a selected applicant, if requested, the authorisation necessary for the provision of complementary ground components of systems providing mobile satellite services subject to the common conditions specified in paragraph (4)[^c-c7c337e3f48beaef045774cc311dcb35].
 
 (3) In this regulation “**complementary ground components**” means ground-based stations used at fixed locations in order to improve the availability of mobile satellite services in geographical area covered by those services.
 
-(4)[^key-9250206a58d92d61dbe3ee639d3132bf] In this regulation “common conditions” means—
+(4)[^c-9250206a58d92d61dbe3ee639d3132bf] In this regulation “common conditions” means—
 
 - (a) selected applicants must use the assigned radio spectrum for the provision of complementary ground components of mobile satellite systems;
 - (b) complementary ground components must constitute an integral part of a mobile satellite system and must be controlled by the satellite resource and network management mechanism; they must use the same direction of transmission and the same portions of frequency bands as the associated satellite components and must not increase the spectrum requirement of the associated mobile satellite system;
 - (c) independent operation of complementary ground components in case of failure of the satellite component of the associate mobile satellite system must not exceed 18 months;
 - (d) rights of use and authorisations must be granted for a period of time ending no later than the expiry of the authorisation of the associated mobile satellite system.
 
-## 14. Review of the Regulations[^key-a373a53818ff3581e7aaf44e118b1a41]
+## 14. Review of the Regulations[^c-a373a53818ff3581e7aaf44e118b1a41]
 
 (1) The Secretary of State must from time to time—
 
@@ -315,7 +315,7 @@ and references in the following regulations to a decision appealed against are t
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2)[^key-98e4a348761204a6d1dbb2cccbe7035f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-98e4a348761204a6d1dbb2cccbe7035f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -363,9 +363,9 @@ A full Regulatory Impact Assessment and Transposition Note have been produced. C
 
 [^c20178371]: Marginal citation: [S.I.2001/3495](https://www.legislation.gov.uk/uksi/2001/3495) to which there are amendments not relevant to these Regulations.
 
-[^key-b77da06b824262d0e77d6627f19164df]: Textual amendment: Words in reg. 1(2) inserted (22.2.2013) by [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/174/regulation/3)
+[^c-b77da06b824262d0e77d6627f19164df]: Textual amendment: Words in reg. 1(2) inserted (22.2.2013) by [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/174/regulation/3)
 
-[^key-816e495ee7cdec443f5d25e8daed74ff]: Textual amendment: Words in reg. 1 substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-816e495ee7cdec443f5d25e8daed74ff]: Textual amendment: Words in reg. 1 substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20178381]: Marginal citation: OJ No L 149, 12.6.2009, p 65.
 
@@ -381,70 +381,70 @@ A full Regulatory Impact Assessment and Transposition Note have been produced. C
 
 [^c20178441]: Marginal citation: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-6719ed6cf1f2f2e0e7f6db71605421fc]: Textual amendment: Words in reg. 3(1) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6719ed6cf1f2f2e0e7f6db71605421fc]: Textual amendment: Words in reg. 3(1) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ccdb322ea71d303ca45ae16fb2edd7e8]: Textual amendment: Words in reg. 3(2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ccdb322ea71d303ca45ae16fb2edd7e8]: Textual amendment: Words in reg. 3(2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9d5c025646e19212bca52591a5cd876]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d9d5c025646e19212bca52591a5cd876]: Textual amendment: Words in reg. 4(1) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c8e3b30b289fa90b142914c286f69a77]: Textual amendment: Words in reg. 4(1) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/174/regulation/4)
+[^c-c8e3b30b289fa90b142914c286f69a77]: Textual amendment: Words in reg. 4(1) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/174/regulation/4)
 
-[^key-8e22b96d83ea70c5f9cd133661cf976d]: Textual amendment: Words in reg. 5(2) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e22b96d83ea70c5f9cd133661cf976d]: Textual amendment: Words in reg. 5(2) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-88613f47c3858a21fb9afc8490e68d5c]: Textual amendment: Words in reg. 5(2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88613f47c3858a21fb9afc8490e68d5c]: Textual amendment: Words in reg. 5(2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6210b1ef6820c8c9764945f6889e11bd]: Textual amendment: Regs. 5A-5F inserted (22.2.2013) by [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/174/regulation/5)
+[^c-6210b1ef6820c8c9764945f6889e11bd]: Textual amendment: Regs. 5A-5F inserted (22.2.2013) by [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/174/regulation/5)
 
-[^key-26bf2a3a29969743fa1eed316bc9e1f7]: Textual amendment: Reg. 5A(3) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26bf2a3a29969743fa1eed316bc9e1f7]: Textual amendment: Reg. 5A(3) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(6)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f1f7aa70dc3c810ee3f30e6052715454]: Textual amendment: Reg. 5A(5) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1f7aa70dc3c810ee3f30e6052715454]: Textual amendment: Reg. 5A(5) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(6)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d86ccae8fbbb541f4ed962f899e9206]: Textual amendment: Words in reg. 5B(1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d86ccae8fbbb541f4ed962f899e9206]: Textual amendment: Words in reg. 5B(1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-875738d4d55409900612c446b2b9274f]: Textual amendment: Word in reg. 5B(2) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-875738d4d55409900612c446b2b9274f]: Textual amendment: Word in reg. 5B(2) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d3c3cff48cd1ae8228252ccd627e9c0]: Textual amendment: Word in reg. 5B(2)(b) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d3c3cff48cd1ae8228252ccd627e9c0]: Textual amendment: Word in reg. 5B(2)(b) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0ddfa0fb6be77d625ba6717ea75df4ce]: Textual amendment: Reg. 5B(2)(c) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ddfa0fb6be77d625ba6717ea75df4ce]: Textual amendment: Reg. 5B(2)(c) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e99aae7a3c736b5bcaea59b1b077ccd6]: Textual amendment: Reg. 5B(2A) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e99aae7a3c736b5bcaea59b1b077ccd6]: Textual amendment: Reg. 5B(2A) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(7)(c)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/7/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_8aaa0ba8-dc8e-4129-f167-c00e676dedbf]: Textual amendment: Words in reg. 5C(1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_e12044ce-aa66-46fa-9079-caad26d07fad]: Textual amendment: Words in reg. 5C(2) substituted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27c7d26f2b94a6bbc3131ea13fa2afa2]: Textual amendment: Reg. 5C(3) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(c)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27c7d26f2b94a6bbc3131ea13fa2afa2]: Textual amendment: Reg. 5C(3) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(c)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e872c992139836b2f16346f7a2988e4b]: Textual amendment: Word in reg. 5C(4) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e872c992139836b2f16346f7a2988e4b]: Textual amendment: Word in reg. 5C(4) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(d)(i)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/d/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fd239ced30e3435027891d9d0c4f729c]: Textual amendment: Word in reg. 5C(4)(b) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd239ced30e3435027891d9d0c4f729c]: Textual amendment: Word in reg. 5C(4)(b) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(d)(ii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ddff3b0b032a5b2ad64cfee25f98ec55]: Textual amendment: Reg. 5C(4)(c) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(d)(iii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/d/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ddff3b0b032a5b2ad64cfee25f98ec55]: Textual amendment: Reg. 5C(4)(c) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(d)(iii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/d/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-adcf92aa50cb710bac852db80c29450a]: Textual amendment: Reg. 5C(5) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(e)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-adcf92aa50cb710bac852db80c29450a]: Textual amendment: Reg. 5C(5) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(8)(e)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/8/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27f2b21da8d7058942f929afb131b524]: Textual amendment: Reg. 5D omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-27f2b21da8d7058942f929afb131b524]: Textual amendment: Reg. 5D omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(9)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de40d3e4be92fe38591ac757b9d48680]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/672/regulation/6) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/174/regulation/6)
+[^c-de40d3e4be92fe38591ac757b9d48680]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/672/regulation/6) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/174/regulation/6)
 
-[^key-4120ab426c54b53c0ab85cc3616024df]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/672/regulation/7) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/174/regulation/6)
+[^c-4120ab426c54b53c0ab85cc3616024df]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/672/regulation/7) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/174/regulation/6)
 
-[^key-b5319353542f8004e6e1a9cb7d99ff3c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/672/regulation/8) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/174/regulation/6)
+[^c-b5319353542f8004e6e1a9cb7d99ff3c]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/672/regulation/8) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/174/regulation/6)
 
-[^key-88b0e9d0c0a7112dcdf20612c3b6c2c9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/672/regulation/9) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/174/regulation/6)
+[^c-88b0e9d0c0a7112dcdf20612c3b6c2c9]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2010/672/regulation/9) omitted (22.2.2013) by virtue of [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/174/regulation/6)
 
-[^key-fdc9567f1e279d2ab9d8c0b0a3bccdbf]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2010/672/regulation/10/1) substituted (22.2.2013) by [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/174/regulation/7)
+[^c-fdc9567f1e279d2ab9d8c0b0a3bccdbf]: Textual amendment: Word in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2010/672/regulation/10/1) substituted (22.2.2013) by [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/174/regulation/7)
 
-[^key-95d276c18fa149d767f07642ca27a1f9]: Textual amendment: Reg. 13(1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95d276c18fa149d767f07642ca27a1f9]: Textual amendment: Reg. 13(1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-662245aad3a8c96ccfb4c1f19c97af4e]: Textual amendment: Words in reg. 13(2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-662245aad3a8c96ccfb4c1f19c97af4e]: Textual amendment: Words in reg. 13(2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(b)(i)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3fc2161fe36acf94a32d913babc6f352]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3fc2161fe36acf94a32d913babc6f352]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c7c337e3f48beaef045774cc311dcb35]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7c337e3f48beaef045774cc311dcb35]: Textual amendment: Words in reg. 13(2) substituted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9250206a58d92d61dbe3ee639d3132bf]: Textual amendment: Reg. 13(4) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9250206a58d92d61dbe3ee639d3132bf]: Textual amendment: Reg. 13(4) inserted (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(10)(b)(iv)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/10/b/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a373a53818ff3581e7aaf44e118b1a41]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/672/regulation/14) inserted (22.2.2013) by [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/174/regulation/8)
+[^c-a373a53818ff3581e7aaf44e118b1a41]: Textual amendment: [Reg. 14](https://www.legislation.gov.uk/uksi/2010/672/regulation/14) inserted (22.2.2013) by [The Authorisation of Frequency Use for the Provision of Mobile Satellite Services (European Union)(Amendment) Regulations 2013 (S.I. 2013/174)](https://www.legislation.gov.uk/uksi/2013/174), [regs. 1](https://www.legislation.gov.uk/uksi/2013/174/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/174/regulation/8)
 
-[^key-98e4a348761204a6d1dbb2cccbe7035f]: Textual amendment: Reg. 14(2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98e4a348761204a6d1dbb2cccbe7035f]: Textual amendment: Reg. 14(2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [3(11)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

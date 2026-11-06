@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3C — Defence and Security Goods and Defence and Security Technology[^key-76d0311f4b1004dc63c7cb5b7a6a4c15][^key-346620ac88fbf256ab88287dea3b72b2]
+## SCHEDULE 3C — Defence and Security Goods and Defence and Security Technology[^c-76d0311f4b1004dc63c7cb5b7a6a4c15][^c-346620ac88fbf256ab88287dea3b72b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ Firearms, ammunition and related accessories, as follows—
 
 **3.** Bombs and grenades.
 
-#### 3A. Other related goods[^key-855956d9b07af9878307da10e3128e7c]
+#### 3A. Other related goods[^c-855956d9b07af9878307da10e3128e7c]
 
 (1) Any goods within commodity codes 9303 and 9304 not covered by paragraphs 1 to 3 above.
 
@@ -211,7 +211,7 @@ Firearms, ammunition and related accessories, as follows—
 </tbody>
 </table>
 
-[^key-03bbda8df2563d9d6335eb5dc7b10133][^key-03bbda8df2563d9d6335eb5dc7b10133][^key-03bbda8df2563d9d6335eb5dc7b10133][^key-03bbda8df2563d9d6335eb5dc7b10133][^key-b7f52ca83f07d752419e3dd4c282c5c0][^key-03bbda8df2563d9d6335eb5dc7b10133][^key-03bbda8df2563d9d6335eb5dc7b10133]
+[^c-03bbda8df2563d9d6335eb5dc7b10133][^c-03bbda8df2563d9d6335eb5dc7b10133][^c-03bbda8df2563d9d6335eb5dc7b10133][^c-03bbda8df2563d9d6335eb5dc7b10133][^c-b7f52ca83f07d752419e3dd4c282c5c0][^c-03bbda8df2563d9d6335eb5dc7b10133][^c-03bbda8df2563d9d6335eb5dc7b10133]
 
 **16.** Fingerprinting powders, dyes, and inks.
 
@@ -244,7 +244,7 @@ Chemicals
 | Chemical Name | CAS Number | Regulation 53A applies? |
 | --- | --- | --- |
 | Aluminium chloride | (7446-70-0) |  |
-| Ammonia[^key-7d6f63af45b8500c78dca49c5cbe778e] | (7664-41-7) |  |
+| Ammonia[^c-7d6f63af45b8500c78dca49c5cbe778e] | (7664-41-7) |  |
 | Dichloromethane | (75-09-2) |  |
 | N,N-Dimethylaniline | (121-69-7) |  |
 | Isopropyl bromide | (75-26-3) |  |
@@ -397,7 +397,7 @@ Chemicals
 | N,N-Diethylacetamidine hydrobromide | 78053-54-0 |  |
 | N,N-Dimethylpropanamidine dihydrochloride | 79972-73-9 |  |
 | N,N-Dimethylpropanamidine hydrochloride | 56776-15-9 |  |
-| Calcium carbide[^key-9738456616b11d3b6b41b0a2a1a99d10] | 75-20-7 |  |
+| Calcium carbide[^c-9738456616b11d3b6b41b0a2a1a99d10] | 75-20-7 |  |
 | Carbon monoxide | 630-08-0 |  |
 | Monoethyleneglycol | 107-21-1 |  |
 | Sulphur | 7704-34-9 |  |
@@ -405,7 +405,7 @@ Chemicals
 
 | Chemical name | CAS number | Regulation 53A applies? |
 | --- | --- | --- |
-| 2-Chloroacetophenone (CN)\*[^key-3c60f0f60cf54ceaa20732843adc4ac8] | 532-27-4 |  |
+| 2-Chloroacetophenone (CN)\*[^c-3c60f0f60cf54ceaa20732843adc4ac8] | 532-27-4 |  |
 | 2-Chlorobenzylidenemalonitrile (CS)\* | 2698-41-1 |  |
 | Dibenzo\[b,f\]\[1,4\]oxazepine (CR)\*† | 257-07-8 |  |
 | Oleoresin capsicum (OC) | 8023-77-6 |  |
@@ -1145,12 +1145,12 @@ Other related items
 | a. Vaccines containing, or designed for use against, items controlled by 1C351, 1C353 or 1C354 of Annex I of the Dual-Use Regulation; | Yes |
 | b. Immunotoxins containing items controlled by 1C351.d of Annex I of the Dual-Use Regulation; | Yes |
 | c. Medical products that contain any of the following: | Yes |
-| c.1. Toxins controlled by 1C351.d of Annex I of the Dual-Use Regulation (*except for* botulinum toxins controlled by 1C351.d.1[^key-053f98565d52403766ecfc50dad3645c] of Annex I of the Dual-Use Regulation, conotoxins controlled by 1C351.d.3[^key-3b1b7adb4e2f5bdfe2ac279eecae2ab4], of Annex I of the Dual-Use Regulation or items controlled for CW reasons under 1C351.d.11 or .d.12 of Annex I of the Dual-Use Regulation); or | Yes |
-| c.2. Genetically modified organisms or genetic elements controlled by 1C353.a.3 of Annex I of the Dual-Use Regulation (*except for* those that contain, or code for, botulinum toxins controlled by 1C351.d.1[^key-5779d60805603008089a00a9bc3b0767] of Annex I of the Dual-Use Regulation or conotoxins controlled by 1C351.d.3[^key-5895db5db2923cc8c163b54aedf2082b] of Annex I of the Dual-Use Regulation); | Yes |
+| c.1. Toxins controlled by 1C351.d of Annex I of the Dual-Use Regulation (*except for* botulinum toxins controlled by 1C351.d.1[^c-053f98565d52403766ecfc50dad3645c] of Annex I of the Dual-Use Regulation, conotoxins controlled by 1C351.d.3[^c-3b1b7adb4e2f5bdfe2ac279eecae2ab4], of Annex I of the Dual-Use Regulation or items controlled for CW reasons under 1C351.d.11 or .d.12 of Annex I of the Dual-Use Regulation); or | Yes |
+| c.2. Genetically modified organisms or genetic elements controlled by 1C353.a.3 of Annex I of the Dual-Use Regulation (*except for* those that contain, or code for, botulinum toxins controlled by 1C351.d.1[^c-5779d60805603008089a00a9bc3b0767] of Annex I of the Dual-Use Regulation or conotoxins controlled by 1C351.d.3[^c-5895db5db2923cc8c163b54aedf2082b] of Annex I of the Dual-Use Regulation); | Yes |
 | d. Medical products not controlled by 1C991.c that contain any of the following: | Yes |
-| d.1. Botulinum toxins controlled by 1C351.d.1[^key-6d06e30eec49d365c7078760412d4ab0] of Annex I of the Dual-Use Regulation; | Yes |
-| d.2. Conotoxins controlled by 1C351.d.3[^key-29fc7095be8d25f4015c832e426fc3d6] of Annex I of the Dual-Use Regulation; or | Yes |
-| d.3. Genetically modified organisms or genetic elements controlled by 1C353.a.3 of Annex I of the Dual-Use Regulation that contain, or code for, botulinum toxins controlled by 1C351.d.1[^key-bd8f8f6602e921b60be1278600b3949d] of Annex I of the Dual-Use Regulation or conotoxins controlled by 1C351.d.3[^key-74a54d11b88d6b1807bcbe835b5c5204] of Annex I of the Dual-Use Regulation; | Yes |
+| d.1. Botulinum toxins controlled by 1C351.d.1[^c-6d06e30eec49d365c7078760412d4ab0] of Annex I of the Dual-Use Regulation; | Yes |
+| d.2. Conotoxins controlled by 1C351.d.3[^c-29fc7095be8d25f4015c832e426fc3d6] of Annex I of the Dual-Use Regulation; or | Yes |
+| d.3. Genetically modified organisms or genetic elements controlled by 1C353.a.3 of Annex I of the Dual-Use Regulation that contain, or code for, botulinum toxins controlled by 1C351.d.1[^c-bd8f8f6602e921b60be1278600b3949d] of Annex I of the Dual-Use Regulation or conotoxins controlled by 1C351.d.3[^c-74a54d11b88d6b1807bcbe835b5c5204] of Annex I of the Dual-Use Regulation; | Yes |
 | e. Diagnostic and food testing kits containing items controlled by 1C351.d of Annex I of the Dual-Use Regulation. | Yes |
 
 1C995 Mixtures that contain chemicals controlled by 1C350 or 1C450 of Annex 1 of the Dual-Use Regulation and medical, analytical, diagnostic, and food testing kits that contain chemicals controlled by 1C350, as follows:
@@ -1159,7 +1159,7 @@ For the purpose of this entry, “medical, analytical, diagnostic, and food test
 
 a. Mixtures containing the following concentrations of precursor chemicals controlled by 1C350 of Annex I of the Dual-Use Regulation:
 
-a.1. Mixtures containing 30[^key-5a5f4823f41c91bc0c6ff76008443556] per cent. or less, by weight, of any of the following—
+a.1. Mixtures containing 30[^c-5a5f4823f41c91bc0c6ff76008443556] per cent. or less, by weight, of any of the following—
 
 | Chemical Name | CAS Number | Regulation 53A applies? |
 | --- | --- | --- |
@@ -1186,7 +1186,7 @@ a.1. Mixtures containing 30[^key-5a5f4823f41c91bc0c6ff76008443556] per cent. or 
 | 3-Quinuclidinol; | 1619-34-7 |  |
 | Thiodiglycol. | 111-48-8 |  |
 
-a.2. Mixtures containing 30 per cent. or less[^key-0cda040170decab6a396edf1063c86d6], by weight, of:
+a.2. Mixtures containing 30 per cent. or less[^c-0cda040170decab6a396edf1063c86d6], by weight, of:
 
 a.2.a. Any of the following—
 
@@ -1211,7 +1211,7 @@ a.2.b. Any of the following single precursor chemicals—
 
 | Chemical Name | CAS Number | Regulation 53A applies? |
 | --- | --- | --- |
-| Ammonium hydrogen fluoride or ammonium bifluoride[^key-57bdbfad08771bf398e86a23a31727a8]; | 1341-49-7 |  |
+| Ammonium hydrogen fluoride or ammonium bifluoride[^c-57bdbfad08771bf398e86a23a31727a8]; | 1341-49-7 |  |
 | 2-Chloroethanol; | 107-07-3 |  |
 | Diethylamine; | 109-89-7 |  |
 | N,N-Diethylaminoethanol; | 100-37-8 |  |
@@ -1263,20 +1263,20 @@ a.2.b. Any of the following single precursor chemicals—
 
 b. Mixtures containing the following concentrations of toxic or precursor chemicals controlled by 1C450 of Annex I of the Dual-Use Regulation—
 
-b.1. Mixtures containing 30 per cent. or less, by weight, of any single CWC Schedule 2[^key-8dcf20f0111b3d42a26ebd285790a1df] chemicals controlled by 1C450.a.2, 1C450.b1, 1C450.b2, 1C450.b.3, 1C450.b.4, 1C450.b.5 or 1C450.b.6 of Annex I of the Dual-Use Regulation;
+b.1. Mixtures containing 30 per cent. or less, by weight, of any single CWC Schedule 2[^c-8dcf20f0111b3d42a26ebd285790a1df] chemicals controlled by 1C450.a.2, 1C450.b1, 1C450.b2, 1C450.b.3, 1C450.b.4, 1C450.b.5 or 1C450.b.6 of Annex I of the Dual-Use Regulation;
 
-b.1.a. [^key-f774415aec8547b3f4e202f1c542983d]...
+b.1.a. [^c-f774415aec8547b3f4e202f1c542983d]...
 
-b.1.b. [^key-f774415aec8547b3f4e202f1c542983d]...
+b.1.b. [^c-f774415aec8547b3f4e202f1c542983d]...
 
-b.2. Mixtures containing 30 per cent. or less[^key-a0ca74b5772e88107be501ff2b103db8], by weight, of any single CWC Schedule 3 chemical controlled by 1C450.a.4, 1C450.a.5, 1C450.a.6, 1C450.a.7, 1C450.b.8, of Annex I of the Dual-Use Regulation.
+b.2. Mixtures containing 30 per cent. or less[^c-a0ca74b5772e88107be501ff2b103db8], by weight, of any single CWC Schedule 3 chemical controlled by 1C450.a.4, 1C450.a.5, 1C450.a.6, 1C450.a.7, 1C450.b.8, of Annex I of the Dual-Use Regulation.
 
-c. “Medical, analytical, diagnostic, and food testing kits” that contain the following precursor chemicals[^key-c2d18d35fadc5412aac31732b89e610f] in an amount not exceeding 300 grams per chemical.
+c. “Medical, analytical, diagnostic, and food testing kits” that contain the following precursor chemicals[^c-c2d18d35fadc5412aac31732b89e610f] in an amount not exceeding 300 grams per chemical.
 
 | Chemical Name | CAS Number | Regulation 53A applies? |
 | --- | --- | --- |
-| Ammonium hydrogen fluoride or ammonium bifluoride[^key-330d329ac33646bd5c777131a4c02f7e]; | 1341-49-7 | Yes to all items in column 1 of this table |
-| Arsenic trichloride[^key-f5958f09795b2f9437efe46302e50628] | 7784-34-1 |  |
+| Ammonium hydrogen fluoride or ammonium bifluoride[^c-330d329ac33646bd5c777131a4c02f7e]; | 1341-49-7 | Yes to all items in column 1 of this table |
+| Arsenic trichloride[^c-f5958f09795b2f9437efe46302e50628] | 7784-34-1 |  |
 | Benzilic Acid | 76-93-7 |  |
 | 2-Chloroethanol; | 107-07-3 |  |
 | Diethylamine; | 109-89-7 |  |
@@ -1359,7 +1359,7 @@ c. “Medical, analytical, diagnostic, and food testing kits” that contain the
 | Trimethyl phosphite; | 121-45-9 |  |
 | Tri-isopropyl phosphite. | 116-17-6 |  |
 
-### PART 5 — Engineering Biology - ancillary goods[^key-040e38683df4064dcde370b2239363c3]
+### PART 5 — Engineering Biology - ancillary goods[^c-040e38683df4064dcde370b2239363c3]
 
 **1.** Cell cultures, whether or not modified, excluding cell therapy products.
 
@@ -1392,58 +1392,58 @@ c. “Medical, analytical, diagnostic, and food testing kits” that contain the
 
 ## Annotations
 
-[^key-76d0311f4b1004dc63c7cb5b7a6a4c15]: Textual amendment: Sch. 3C inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/792/schedule/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-76d0311f4b1004dc63c7cb5b7a6a4c15]: Textual amendment: Sch. 3C inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/792/schedule/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
 
-[^key-346620ac88fbf256ab88287dea3b72b2]: Textual amendment: [Sch. 3C](https://www.legislation.gov.uk/uksi/2019/855/schedule/3C) heading substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2022/1110/schedule/3/paragraph/8)
+[^c-346620ac88fbf256ab88287dea3b72b2]: Textual amendment: [Sch. 3C](https://www.legislation.gov.uk/uksi/2019/855/schedule/3C) heading substituted (29.10.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/b), [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2022/1110/schedule/3/paragraph/8)
 
-[^key-855956d9b07af9878307da10e3128e7c]: Textual amendment: Sch. 3C Pt. 3 para. 3A inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(13)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/13)
+[^c-855956d9b07af9878307da10e3128e7c]: Textual amendment: Sch. 3C Pt. 3 para. 3A inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(13)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/13)
 
 [^M_F_a86500dc-bc19-4e02-9cbf-9deae4963af9]: Textual amendment: Sch. 3C Pt. 3 para. 15 renumbered as Sch. 3C Pt. 3 para. 15(1) (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(5)(a)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/5/a)
 
 [^M_F_bbe3ffce-9aa2-441d-ae17-556fc29b7197]: Textual amendment: Sch. 3C Pt. 3 para. 15(2) inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(5)(b)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/5/b)
 
-[^key-03bbda8df2563d9d6335eb5dc7b10133]: Textual amendment: Words in Sch. 3C Pt. 3 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/8), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2026/543/schedule/4/paragraph/2)
+[^c-03bbda8df2563d9d6335eb5dc7b10133]: Textual amendment: Words in Sch. 3C Pt. 3 omitted (20.5.2026) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(8)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/8), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2026/543/schedule/4/paragraph/2)
 
-[^key-b7f52ca83f07d752419e3dd4c282c5c0]: Textual amendment: Words in Sch. 3C Pt. 3 para. 15(2) table inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/10) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
+[^c-b7f52ca83f07d752419e3dd4c282c5c0]: Textual amendment: Words in Sch. 3C Pt. 3 para. 15(2) table inserted (24.4.2025) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2025 (S.I. 2025/504)](https://www.legislation.gov.uk/uksi/2025/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/504/regulation/1/2), [16(10)](https://www.legislation.gov.uk/uksi/2025/504/regulation/16/10) (with [reg. 17](https://www.legislation.gov.uk/uksi/2025/504/regulation/17))
 
-[^key-7d6f63af45b8500c78dca49c5cbe778e]: Textual amendment: Words in [Sch. 3C Pt. 4](https://www.legislation.gov.uk/uksi/2019/855/schedule/3C/part/4) Table inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(5)(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/5/c)
+[^c-7d6f63af45b8500c78dca49c5cbe778e]: Textual amendment: Words in [Sch. 3C Pt. 4](https://www.legislation.gov.uk/uksi/2019/855/schedule/3C/part/4) Table inserted (21.4.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/440)](https://www.legislation.gov.uk/uksi/2023/440), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/440/regulation/1/2), [14(5)(c)](https://www.legislation.gov.uk/uksi/2023/440/regulation/14/5/c)
 
-[^key-9738456616b11d3b6b41b0a2a1a99d10]: Textual amendment: Words in [Sch. 3C Pt. 4](https://www.legislation.gov.uk/uksi/2019/855/schedule/3C/part/4) Table inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [20(2)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/20/2)
+[^c-9738456616b11d3b6b41b0a2a1a99d10]: Textual amendment: Words in [Sch. 3C Pt. 4](https://www.legislation.gov.uk/uksi/2019/855/schedule/3C/part/4) Table inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [20(2)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/20/2)
 
-[^key-3c60f0f60cf54ceaa20732843adc4ac8]: Textual amendment: Sch. 3C Pt. 4 Table inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/543/schedule/2)
+[^c-3c60f0f60cf54ceaa20732843adc4ac8]: Textual amendment: Sch. 3C Pt. 4 Table inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(3)(a)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/543/schedule/2)
 
-[^key-053f98565d52403766ecfc50dad3645c]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/a/i)
+[^c-053f98565d52403766ecfc50dad3645c]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/a/i)
 
-[^key-3b1b7adb4e2f5bdfe2ac279eecae2ab4]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/a/ii)
+[^c-3b1b7adb4e2f5bdfe2ac279eecae2ab4]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/a/ii)
 
-[^key-5779d60805603008089a00a9bc3b0767]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/b/i)
+[^c-5779d60805603008089a00a9bc3b0767]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(b)(i)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/b/i)
 
-[^key-5895db5db2923cc8c163b54aedf2082b]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/b/ii)
+[^c-5895db5db2923cc8c163b54aedf2082b]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/b/ii)
 
-[^key-6d06e30eec49d365c7078760412d4ab0]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(c)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/c)
+[^c-6d06e30eec49d365c7078760412d4ab0]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(c)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/c)
 
-[^key-29fc7095be8d25f4015c832e426fc3d6]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(d)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/d)
+[^c-29fc7095be8d25f4015c832e426fc3d6]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(d)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/d)
 
-[^key-bd8f8f6602e921b60be1278600b3949d]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(e)(i)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/e/i)
+[^c-bd8f8f6602e921b60be1278600b3949d]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(e)(i)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/e/i)
 
-[^key-74a54d11b88d6b1807bcbe835b5c5204]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(e)(ii)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/e/ii)
+[^c-74a54d11b88d6b1807bcbe835b5c5204]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(15)(e)(ii)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/15/e/ii)
 
-[^key-5a5f4823f41c91bc0c6ff76008443556]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(a)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/a)
+[^c-5a5f4823f41c91bc0c6ff76008443556]: Textual amendment: Word in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(a)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/a)
 
-[^key-0cda040170decab6a396edf1063c86d6]: Textual amendment: Words in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(b)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/b)
+[^c-0cda040170decab6a396edf1063c86d6]: Textual amendment: Words in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(b)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/b)
 
-[^key-57bdbfad08771bf398e86a23a31727a8]: Textual amendment: Words in Sch. 3C Pt. 4 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(c)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/c)
+[^c-57bdbfad08771bf398e86a23a31727a8]: Textual amendment: Words in Sch. 3C Pt. 4 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(c)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/c)
 
-[^key-8dcf20f0111b3d42a26ebd285790a1df]: Textual amendment: Words in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(d)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/d)
+[^c-8dcf20f0111b3d42a26ebd285790a1df]: Textual amendment: Words in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(d)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/d)
 
-[^key-f774415aec8547b3f4e202f1c542983d]: Textual amendment: Words in Sch. 3C Pt. 4 omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(e)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/e)
+[^c-f774415aec8547b3f4e202f1c542983d]: Textual amendment: Words in Sch. 3C Pt. 4 omitted (15.12.2023) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(e)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/e)
 
-[^key-a0ca74b5772e88107be501ff2b103db8]: Textual amendment: Words in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(f)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/f)
+[^c-a0ca74b5772e88107be501ff2b103db8]: Textual amendment: Words in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(f)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/f)
 
-[^key-c2d18d35fadc5412aac31732b89e610f]: Textual amendment: Words in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(g)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/g)
+[^c-c2d18d35fadc5412aac31732b89e610f]: Textual amendment: Words in Sch. 3C Pt. 4 substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(g)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/g)
 
-[^key-330d329ac33646bd5c777131a4c02f7e]: Textual amendment: Words in Sch. 3C Pt. 4 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(h)(i)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/h/i)
+[^c-330d329ac33646bd5c777131a4c02f7e]: Textual amendment: Words in Sch. 3C Pt. 4 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(16)(h)(i)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/16/h/i)
 
-[^key-f5958f09795b2f9437efe46302e50628]: Textual amendment: Words in Sch. 3C Pt. 4 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1364/schedule/3)
+[^c-f5958f09795b2f9437efe46302e50628]: Textual amendment: Words in Sch. 3C Pt. 4 inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1364/schedule/3)
 
-[^key-040e38683df4064dcde370b2239363c3]: Textual amendment: Sch. 3C Pt. 5 inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(3)(b)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/3/b)
+[^c-040e38683df4064dcde370b2239363c3]: Textual amendment: Sch. 3C Pt. 5 inserted (20.5.2026) by [The Russia (Sanctions) (EU Exit) (Amendment) Regulations 2026 (S.I. 2026/543)](https://www.legislation.gov.uk/uksi/2026/543), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/543/regulation/1/2), [29(3)(b)](https://www.legislation.gov.uk/uksi/2026/543/regulation/29/3/b)

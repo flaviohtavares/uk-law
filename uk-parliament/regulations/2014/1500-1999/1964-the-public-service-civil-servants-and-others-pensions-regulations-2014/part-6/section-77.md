@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Periodical review of entitlement to upper tier top up earned pension[^key-1143850155322088afe25ce502d4b46b]
+## 77. Periodical review of entitlement to upper tier top up earned pension[^c-1143850155322088afe25ce502d4b46b]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1143850155322088afe25ce502d4b46b]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2014/1964/regulation/77) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-1143850155322088afe25ce502d4b46b]: Commencement: [Reg. 77](https://www.legislation.gov.uk/uksi/2014/1964/regulation/77) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

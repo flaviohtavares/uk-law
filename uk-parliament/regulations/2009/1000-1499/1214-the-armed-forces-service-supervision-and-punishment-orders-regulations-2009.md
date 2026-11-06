@@ -48,11 +48,11 @@ Coming into force
 
 The Defence Council make the following Regulations in exercise of the powers conferred by sections 173 and 174 of the Armed Forces Act 2006[^f00001]:
 
-## 1. Citation and Commencement[^key-8575de96c6ea24c3111ac1815d143b99]
+## 1. Citation and Commencement[^c-8575de96c6ea24c3111ac1815d143b99]
 
 These Regulations may be cited as the Armed Forces (Service Supervision and Punishment Orders) Regulations 2009 and shall come into force on 31st October 2009.
 
-## 2. Interpretation[^key-5a0b026490dd085928cd7d22ee5ea456]
+## 2. Interpretation[^c-5a0b026490dd085928cd7d22ee5ea456]
 
 In these Regulations—
 
@@ -69,7 +69,7 @@ In these Regulations—
 - “the secondary period” means the remainder of the duration of an SSPO after the initial period; and
 - “SSPO” means a service supervision and punishment order.
 
-## 3. Requirements contained in an SSPO[^key-4dd7530e631f3af693d90f2745cc8c98]
+## 3. Requirements contained in an SSPO[^c-4dd7530e631f3af693d90f2745cc8c98]
 
 An SSPO shall require the offender who is subject to it not to use any entitlement to leave without the permission of his commanding officer, and may impose on the offender one or more of the following further requirements—
 
@@ -79,7 +79,7 @@ An SSPO shall require the offender who is subject to it not to use any entitleme
 - (b) not to leave a relevant place without the permission of his commanding officer;
 - (c) subject to such conditions as may be specified in the SSPO, not to enter specified places in a relevant place without the permission of his commanding officer.
 
-## 4. Management of an SSPO[^key-829b759fb78c7e26759ec035f40f158a]
+## 4. Management of an SSPO[^c-829b759fb78c7e26759ec035f40f158a]
 
 (1) Subject to paragraph (a) of regulation 3, where an SSPO imposes a requirement under that paragraph, the offender’s commanding officer shall decide, in respect of each day during which the SSPO is in force, what extra duties the offender shall perform pursuant to that requirement, for how long, and when, and he shall inform the offender accordingly.
 
@@ -87,7 +87,7 @@ An SSPO shall require the offender who is subject to it not to use any entitleme
 
 (3) The offender’s commanding officer may delegate his functions under paragraph (1) to a person of or above the rank or rate of chief petty officer, marine colour sergeant, military staff sergeant or flight sergeant.
 
-## 5. Review of an SSPO[^key-308a73ab95e9cba455f5bc1367bf7f9c]
+## 5. Review of an SSPO[^c-308a73ab95e9cba455f5bc1367bf7f9c]
 
 The offender’s commanding officer shall consider whether an SSPO should continue in force—
 
@@ -112,12 +112,12 @@ A service supervision and punishment order (‘SSPO’) may be imposed on an off
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
-[^key-8575de96c6ea24c3111ac1815d143b99]: Commencement: Reg. 1 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)
+[^c-8575de96c6ea24c3111ac1815d143b99]: Commencement: Reg. 1 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)
 
-[^key-5a0b026490dd085928cd7d22ee5ea456]: Commencement: Reg. 2 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)
+[^c-5a0b026490dd085928cd7d22ee5ea456]: Commencement: Reg. 2 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)
 
-[^key-4dd7530e631f3af693d90f2745cc8c98]: Commencement: Reg. 3 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)
+[^c-4dd7530e631f3af693d90f2745cc8c98]: Commencement: Reg. 3 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)
 
-[^key-829b759fb78c7e26759ec035f40f158a]: Commencement: Reg. 4 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)
+[^c-829b759fb78c7e26759ec035f40f158a]: Commencement: Reg. 4 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)
 
-[^key-308a73ab95e9cba455f5bc1367bf7f9c]: Commencement: Reg. 5 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)
+[^c-308a73ab95e9cba455f5bc1367bf7f9c]: Commencement: Reg. 5 in force at 31.10.2009, see [reg. 1](https://www.legislation.gov.uk/uksi/2009/1214/regulation/1)

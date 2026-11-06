@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Ancillary provision[^key-cbeee11e1d08d2321bfe8d0800ad56c1]
+## 119. Ancillary provision[^c-cbeee11e1d08d2321bfe8d0800ad56c1]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbeee11e1d08d2321bfe8d0800ad56c1]: Commencement: S. 119 in force at 14.6.2023, see [s. 121(1)](https://www.legislation.gov.uk/asp/2023/3/section/121/1)
+[^c-cbeee11e1d08d2321bfe8d0800ad56c1]: Commencement: S. 119 in force at 14.6.2023, see [s. 121(1)](https://www.legislation.gov.uk/asp/2023/3/section/121/1)

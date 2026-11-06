@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Revocation of spent transitional adaptations[^key-f18f57611812dcc716800f61e574a629]
+## 6. Revocation of spent transitional adaptations[^c-f18f57611812dcc716800f61e574a629]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f18f57611812dcc716800f61e574a629]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2008/2860/article/6) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-f18f57611812dcc716800f61e574a629]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2008/2860/article/6) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2006/3428 (C. 132)](https://www.legislation.gov.uk/uksi/2006/3428).
 

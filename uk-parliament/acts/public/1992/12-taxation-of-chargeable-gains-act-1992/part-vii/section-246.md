@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Where an interest in land is acquired, otherwise than under a contract, by an authority possessing compulsory purchase powers, the time at which the disposal and acquisition is made is the time at which the compensation for the acquisition is agreed or otherwise determined (variations on appeal being disregarded for this purpose) [^key-3a098e1420107172c0a5cd6362e3bcf5]... .
+Where an interest in land is acquired, otherwise than under a contract, by an authority possessing compulsory purchase powers, the time at which the disposal and acquisition is made is the time at which the compensation for the acquisition is agreed or otherwise determined (variations on appeal being disregarded for this purpose) [^c-3a098e1420107172c0a5cd6362e3bcf5]... .
 
 ## Annotations
 
-[^key-3a098e1420107172c0a5cd6362e3bcf5]: Textual amendment: Words in s. 246 repealed (with effect in accordance with s. 121(8) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 141(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/141/4), [Sch. 41 Pt. V(6)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/6)
+[^c-3a098e1420107172c0a5cd6362e3bcf5]: Textual amendment: Words in s. 246 repealed (with effect in accordance with s. 121(8) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [s. 141(4)](https://www.legislation.gov.uk/ukpga/1996/8/section/141/4), [Sch. 41 Pt. V(6)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/6)

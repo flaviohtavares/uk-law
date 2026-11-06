@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Amendment to offence of loitering etc for purposes of prostitution[^key-c478c9ab36e8c33df2cf770ad932df52]
+## 16. Amendment to offence of loitering etc for purposes of prostitution[^c-c478c9ab36e8c33df2cf770ad932df52]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c478c9ab36e8c33df2cf770ad932df52]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2009/26/section/16) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c)
+[^c-c478c9ab36e8c33df2cf770ad932df52]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2009/26/section/16) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(c)](https://www.legislation.gov.uk/uksi/2010/507/article/5/c)

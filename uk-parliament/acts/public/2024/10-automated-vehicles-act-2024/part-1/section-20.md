@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Offences of non-compliance[^key-f6c6f5a7ca02067ae44649f259349a91]
+## 20. Offences of non-compliance[^c-f6c6f5a7ca02067ae44649f259349a91]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6c6f5a7ca02067ae44649f259349a91]: Commencement: S. 20 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-f6c6f5a7ca02067ae44649f259349a91]: Commencement: S. 20 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

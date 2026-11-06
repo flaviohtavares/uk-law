@@ -31,7 +31,7 @@ Bankruptcy (Scotland) Act 2016
 
 An Act of the Scottish Parliament to consolidate the Bankruptcy (Scotland) Act 1985, the Bankruptcy (Scotland) Act 1993, Part 1 of the Bankruptcy and Diligence etc. (Scotland) Act 2007, Part 2 of the Home Owner and Debtor Protection (Scotland) Act 2010, the Bankruptcy and Debt Advice (Scotland) Act 2014, the Protected Trust Deeds (Scotland) Regulations 2013 and related enactments.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 22nd March 2016 and received Royal Assent on 28th April 2016[^key-8553f139088b732bc80b7e0c6c92411c][^key-e914d3f93ba716f5676716904ba130c1]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 22nd March 2016 and received Royal Assent on 28th April 2016[^c-8553f139088b732bc80b7e0c6c92411c][^c-e914d3f93ba716f5676716904ba130c1]
 
 ## Contents
 
@@ -326,7 +326,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 146 — Discharge under section 140: conditions](part-11/section-146.md)
 - [Section 147 — Section 146: sanctions](part-11/section-147.md)
 
-#### Failure of debtor to co-operate with trustee[^key-53f7b520c3920c336bb8071fc5657ee7]
+#### Failure of debtor to co-operate with trustee[^c-53f7b520c3920c336bb8071fc5657ee7]
 
 - [Section 147A — Debtor fails to co-operate: Accountant in Bankruptcy appointment as new trustee](part-11/section-147a.md)
 - [Section 147B — Accountant in Bankruptcy appointment as new trustee: review and appeal](part-11/section-147b.md)
@@ -387,7 +387,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 171 — Registration for protected status](part-14/section-171.md)
 
-#### Removal of protected status where material error or irregularity[^key-4e25b9722c81862bf5a85231a243ae9e]
+#### Removal of protected status where material error or irregularity[^c-4e25b9722c81862bf5a85231a243ae9e]
 
 - [Section 171A — Removal of protected status where material error or irregularity](part-14/section-171a.md)
 - [Section 171B — Decision under section 171A: application to review](part-14/section-171b.md)
@@ -522,10 +522,10 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-8553f139088b732bc80b7e0c6c92411c]: Modification: [Act](https://www.legislation.gov.uk/asp/2016/21) modified (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 31(2)](https://www.legislation.gov.uk/ssi/2016/397/regulation/31/2)
+[^c-8553f139088b732bc80b7e0c6c92411c]: Modification: [Act](https://www.legislation.gov.uk/asp/2016/21) modified (30.11.2016) by [The Bankruptcy (Scotland) Regulations 2016 (S.S.I. 2016/397)](https://www.legislation.gov.uk/ssi/2016/397), [reg. 31(2)](https://www.legislation.gov.uk/ssi/2016/397/regulation/31/2)
 
-[^key-e914d3f93ba716f5676716904ba130c1]: Modification: [Act](https://www.legislation.gov.uk/asp/2016/21) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-e914d3f93ba716f5676716904ba130c1]: Modification: [Act](https://www.legislation.gov.uk/asp/2016/21) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-53f7b520c3920c336bb8071fc5657ee7]: Textual amendment: [Ss. 147A-147C](https://www.legislation.gov.uk/asp/2016/21/section/147A) and cross-heading inserted (17.4.2025 for specified purposes, 25.6.2025 in so far as not already in force) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 12(2)](https://www.legislation.gov.uk/asp/2024/9/section/12/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2) (with [s. 12(4)](https://www.legislation.gov.uk/asp/2024/9/section/12/4)); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/d)
+[^c-53f7b520c3920c336bb8071fc5657ee7]: Textual amendment: [Ss. 147A-147C](https://www.legislation.gov.uk/asp/2016/21/section/147A) and cross-heading inserted (17.4.2025 for specified purposes, 25.6.2025 in so far as not already in force) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 12(2)](https://www.legislation.gov.uk/asp/2024/9/section/12/2), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2) (with [s. 12(4)](https://www.legislation.gov.uk/asp/2024/9/section/12/4)); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/1)[(2)(d)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/d)
 
-[^key-4e25b9722c81862bf5a85231a243ae9e]: Textual amendment: [Ss. 171A-171C](https://www.legislation.gov.uk/asp/2016/21/section/171A) and cross-heading inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/3/3)
+[^c-4e25b9722c81862bf5a85231a243ae9e]: Textual amendment: [Ss. 171A-171C](https://www.legislation.gov.uk/asp/2016/21/section/171A) and cross-heading inserted (1.7.2024) by [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/3/3)

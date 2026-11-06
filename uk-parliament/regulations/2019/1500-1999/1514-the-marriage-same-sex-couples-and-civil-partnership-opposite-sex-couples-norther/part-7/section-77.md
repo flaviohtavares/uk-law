@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^key-086022f5977f26ad01a2a94241f5ff39]
+## 77. Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^c-086022f5977f26ad01a2a94241f5ff39]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In paragraph 2C of Schedule 2 to the Social Security Benefit (Dependency) Regula
 
 ## Annotations
 
-[^key-086022f5977f26ad01a2a94241f5ff39]: Commencement: Reg. 77 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-086022f5977f26ad01a2a94241f5ff39]: Commencement: Reg. 77 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00136]: Footnote: [S.R. (N.I.) 1977/74](https://www.legislation.gov.uk/nisr/1974/74). Paragraph 2C of Schedule 2 was inserted by [S.R. (N.I.) 1984/382](https://www.legislation.gov.uk/nisr/1984/382), and the definition of “couple” was inserted by paragraph 6 of Schedule 3 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

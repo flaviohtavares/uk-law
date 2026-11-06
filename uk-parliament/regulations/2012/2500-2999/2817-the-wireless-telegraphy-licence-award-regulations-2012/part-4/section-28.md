@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Number of primary bid rounds[^key-227d7183aef4cff7cadeacce1f3120fe]
+## 28. Number of primary bid rounds[^c-227d7183aef4cff7cadeacce1f3120fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-227d7183aef4cff7cadeacce1f3120fe]: Commencement: Reg. 28 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-227d7183aef4cff7cadeacce1f3120fe]: Commencement: Reg. 28 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

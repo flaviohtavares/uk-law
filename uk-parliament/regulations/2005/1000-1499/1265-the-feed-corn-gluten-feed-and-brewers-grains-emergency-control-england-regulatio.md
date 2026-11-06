@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE, ENGLAND
 
-The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (England) Regulations 2005 (revoked)[^key-8fcf68e03c1fe73ab23744ec6db7998c]
+The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (England) Regulations 2005 (revoked)[^c-8fcf68e03c1fe73ab23744ec6db7998c]
 
 Made
 
@@ -44,46 +44,46 @@ Coming into force
 
 30th April 2005
 
-[^key-8fcf68e03c1fe73ab23744ec6db7998c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8fcf68e03c1fe73ab23744ec6db7998c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-8fcf68e03c1fe73ab23744ec6db7998c]
+## 1. Title, commencement and application[^c-8fcf68e03c1fe73ab23744ec6db7998c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8fcf68e03c1fe73ab23744ec6db7998c]
+## 2. Interpretation[^c-8fcf68e03c1fe73ab23744ec6db7998c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on first placing on the market[^key-8fcf68e03c1fe73ab23744ec6db7998c]
+## 3. Prohibition on first placing on the market[^c-8fcf68e03c1fe73ab23744ec6db7998c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-8fcf68e03c1fe73ab23744ec6db7998c]
+## 4. Enforcement[^c-8fcf68e03c1fe73ab23744ec6db7998c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Act[^key-8fcf68e03c1fe73ab23744ec6db7998c]
+## 5. Application of various provisions of the Act[^c-8fcf68e03c1fe73ab23744ec6db7998c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^key-8fcf68e03c1fe73ab23744ec6db7998c]
+## 6. Application of various provisions of the Feeding Stuffs (Sampling and Analysis) Regulations 1999[^c-8fcf68e03c1fe73ab23744ec6db7998c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Inspection, seizure and detention of corn gluten feed or brewers grains illegally first placed on the market[^key-8fcf68e03c1fe73ab23744ec6db7998c]
+## 7. Inspection, seizure and detention of corn gluten feed or brewers grains illegally first placed on the market[^c-8fcf68e03c1fe73ab23744ec6db7998c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to the Genetically Modified Animal Feed (England) Regulations 2004[^key-8fcf68e03c1fe73ab23744ec6db7998c]
+## 8. Amendments to the Genetically Modified Animal Feed (England) Regulations 2004[^c-8fcf68e03c1fe73ab23744ec6db7998c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8fcf68e03c1fe73ab23744ec6db7998c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8fcf68e03c1fe73ab23744ec6db7998c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8fcf68e03c1fe73ab23744ec6db7998c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8fcf68e03c1fe73ab23744ec6db7998c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8fcf68e03c1fe73ab23744ec6db7998c]: Textual amendment: Regulations revoked (30.11.2007) by [The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (England) (Revocation) Regulations 2007 (S.I. 2007/3007)](https://www.legislation.gov.uk/uksi/2007/3007), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3007/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/3007/regulation/2)
+[^c-8fcf68e03c1fe73ab23744ec6db7998c]: Textual amendment: Regulations revoked (30.11.2007) by [The Feed (Corn Gluten Feed and Brewers Grains) (Emergency Control) (England) (Revocation) Regulations 2007 (S.I. 2007/3007)](https://www.legislation.gov.uk/uksi/2007/3007), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3007/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/3007/regulation/2)

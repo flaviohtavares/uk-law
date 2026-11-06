@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 145. The 2007 Act: further provision[^key-416b93a8966b77982a92c7d407ccd9e6]
+## 145. The 2007 Act: further provision[^c-416b93a8966b77982a92c7d407ccd9e6]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-416b93a8966b77982a92c7d407ccd9e6]: Commencement: [S. 145](https://www.legislation.gov.uk/asp/2010/16/section/145) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-416b93a8966b77982a92c7d407ccd9e6]: Commencement: [S. 145](https://www.legislation.gov.uk/asp/2010/16/section/145) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

@@ -33,7 +33,7 @@ An Act to make provision as regards roads in Scotland; and for connected purpose
 
 \[31st October 1984\]
 
-[^c1610583][^c1610584][^c1610585][^c1610586][^c1610587][^c1610588][^c1610589]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-95907af3ce2905e7ab945e26d95e8779]
+[^c1610583][^c1610584][^c1610585][^c1610586][^c1610587][^c1610588][^c1610589]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-95907af3ce2905e7ab945e26d95e8779]
 
 ## Contents
 
@@ -90,7 +90,7 @@ An Act to make provision as regards roads in Scotland; and for connected purpose
 - [Section 17 — Security for private road works relating to housing.](part-ii/section-17.md)
 - [Section 18 — Power of local roads authority to take over footpaths associated with development.](part-ii/section-18.md)
 
-### Part III — New Roads[^key-289c314ec338aa90f9d56ac778767449]
+### Part III — New Roads[^c-289c314ec338aa90f9d56ac778767449]
 
 *Extent: S*
 
@@ -426,7 +426,7 @@ SCHEDULES
 - [SCHEDULE 10](schedule-10.md)
 - [SCHEDULE 11](schedule-11.md)
 
-## Offences by bodies corporate etc.[^key-a8ea0249caca5dce9e49a82fc27b9600]
+## Offences by bodies corporate etc.[^c-a8ea0249caca5dce9e49a82fc27b9600]
 
 *Extent: S*
 
@@ -448,11 +448,11 @@ SCHEDULES
 
 [^c1610589]: Modification: Act definition of "public road" applied (30.11.1991) by [Coal Mining Subsidence Act 1991 (c. 45, SIF 86)](https://www.legislation.gov.uk/ukpga/1991/45), [s. 9(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/1991/45/section/9/2/a/ii) (with saving [s. 37(4)](https://www.legislation.gov.uk/ukpga/1991/45/section/37/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1991/45/schedule/7)); [S.I. 1991/2508](https://www.legislation.gov.uk/uksi/1991/2508), [art. 2](https://www.legislation.gov.uk/uksi/1991/2508/article/2)
 
-[^key-95907af3ce2905e7ab945e26d95e8779]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1984/54) modified (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 11(3)](https://www.legislation.gov.uk/asp/2011/2/section/11/3), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-95907af3ce2905e7ab945e26d95e8779]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1984/54) modified (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 11(3)](https://www.legislation.gov.uk/asp/2011/2/section/11/3), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
 [^c1610627]: Textual amendment: S. 12A-12F added (4.1.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 7(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/7/2), [38(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/38/2) (with [s. 7(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/7/2)); [S.I. 1994/2850](https://www.legislation.gov.uk/uksi/1994/2850) art. 3(a), Sch. 2
 
-[^key-289c314ec338aa90f9d56ac778767449]: Modification: Pt. III excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(2)](https://www.legislation.gov.uk/asp/2011/2/section/20/2), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-289c314ec338aa90f9d56ac778767449]: Modification: Pt. III excluded (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 20(2)](https://www.legislation.gov.uk/asp/2011/2/section/20/2), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
 [^c1610688]: Textual amendment: Heading before ss. 39A-39C inserted (16.5.1992) by [Traffic Calming Act 1992 (c. 30)](https://www.legislation.gov.uk/ukpga/1992/30), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1992/30/section/2/1), [3](https://www.legislation.gov.uk/ukpga/1992/30/section/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/1992/30/schedule/2)
 
@@ -460,4 +460,4 @@ SCHEDULES
 
 [^c1767473]: Textual amendment: S. 49A and preceding cross-heading inserted (1.7.1992) by [Road Traffic Act 1991 (c. 40, SIF 107:1)](https://www.legislation.gov.uk/ukpga/1991/40), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1991/40/section/40/2); [S.I. 1992/1286](https://www.legislation.gov.uk/uksi/1992/1286), [art. 2](https://www.legislation.gov.uk/uksi/1992/1286/article/2), [Sch](https://www.legislation.gov.uk/uksi/1992/1286/schedule)
 
-[^key-a8ea0249caca5dce9e49a82fc27b9600]: Textual amendment: Ss. 22A, 22B inserted (16.5.2017) by [The Roads (Scotland) Act 1984 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/137)](https://www.legislation.gov.uk/ssi/2017/137), [regs. 1](https://www.legislation.gov.uk/ssi/2017/137/regulation/1), [6](https://www.legislation.gov.uk/ssi/2017/137/regulation/6)
+[^c-a8ea0249caca5dce9e49a82fc27b9600]: Textual amendment: Ss. 22A, 22B inserted (16.5.2017) by [The Roads (Scotland) Act 1984 (Environmental Impact Assessment) Regulations 2017 (S.S.I. 2017/137)](https://www.legislation.gov.uk/ssi/2017/137), [regs. 1](https://www.legislation.gov.uk/ssi/2017/137/regulation/1), [6](https://www.legislation.gov.uk/ssi/2017/137/regulation/6)

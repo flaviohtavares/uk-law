@@ -55,7 +55,7 @@ as the case may be.
 
 (8) For the purposes of subsection (7), the withdrawal of an appeal has the same effect as a decision which confirms the notice appealed against.
 
-(9) Any relevant person may appeal to the appropriate tribunal[^key-ca49dc932062d61e0460e0b000d955f8] against a decision of the local housing authority to serve an HMO declaration.
+(9) Any relevant person may appeal to the appropriate tribunal[^c-ca49dc932062d61e0460e0b000d955f8] against a decision of the local housing authority to serve an HMO declaration.
 
 The appeal must be made within the period of 28 days beginning with the date of the authority’s decision.
 
@@ -74,7 +74,7 @@ The appeal must be made within the period of 28 days beginning with the date of 
 - (a) a person having an estate or interest in the building or part of the building concerned (but is not a tenant under a lease with an unexpired term of 3 years of less), or
 - (b) a person managing or having control of that building or part (and not falling within paragraph (a)).
 
-(13)[^key-378b69ff76142f79b0f362bca479616c] For the purposes of this section and section 256, “appropriate tribunal” means—
+(13)[^c-378b69ff76142f79b0f362bca479616c] For the purposes of this section and section 256, “appropriate tribunal” means—
 
 - (a) in relation to a building in England, the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal; and
 - (b) in relation to a building in Wales, a residential property tribunal.
@@ -83,6 +83,6 @@ The appeal must be made within the period of 28 days beginning with the date of 
 
 [^c2057357]: Textual amendment: Words in s. 255(7)(a)(b) substituted (1.6.2009) by [Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 5(1)(2)](https://www.legislation.gov.uk/uksi/2009/1307/article/5/1/2), [Sch. 1 para. 277](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/277) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-ca49dc932062d61e0460e0b000d955f8]: Textual amendment: Words in s. 255(9) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 178(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/178/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-ca49dc932062d61e0460e0b000d955f8]: Textual amendment: Words in s. 255(9) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 178(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/178/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-378b69ff76142f79b0f362bca479616c]: Textual amendment: S. 255(13) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 178(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/178/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-378b69ff76142f79b0f362bca479616c]: Textual amendment: S. 255(13) inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 178(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/178/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

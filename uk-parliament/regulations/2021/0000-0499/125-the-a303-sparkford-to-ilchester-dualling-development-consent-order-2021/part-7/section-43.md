@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Certification of plans etc.[^key-f3e1a45ba6346731e5d164dc700c5d60]
+## 43. Certification of plans etc.[^c-f3e1a45ba6346731e5d164dc700c5d60]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3e1a45ba6346731e5d164dc700c5d60]: Commencement: Art. 43 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)
+[^c-f3e1a45ba6346731e5d164dc700c5d60]: Commencement: Art. 43 in force at 19.2.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/125/article/1)

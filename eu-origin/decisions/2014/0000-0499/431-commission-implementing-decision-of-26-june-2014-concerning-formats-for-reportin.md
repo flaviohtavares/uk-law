@@ -37,20 +37,20 @@ concerning formats for reporting on the national programmes for the implementati
 
 (2014/431/EU) (revoked)
 
-[^key-2b96a64ee0dd0982ae0c1799665beabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b96a64ee0dd0982ae0c1799665beabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-2b96a64ee0dd0982ae0c1799665beabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-2b96a64ee0dd0982ae0c1799665beabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-2b96a64ee0dd0982ae0c1799665beabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-2b96a64ee0dd0982ae0c1799665beabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-2b96a64ee0dd0982ae0c1799665beabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-2b96a64ee0dd0982ae0c1799665beabb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b96a64ee0dd0982ae0c1799665beabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b96a64ee0dd0982ae0c1799665beabb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — PROGRAMME FOR THE IMPLEMENTATION OF THE DIRECTIVE 91/271/EEC[^key-2b96a64ee0dd0982ae0c1799665beabb]
+## ANNEX — PROGRAMME FOR THE IMPLEMENTATION OF THE DIRECTIVE 91/271/EEC[^c-2b96a64ee0dd0982ae0c1799665beabb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b96a64ee0dd0982ae0c1799665beabb]: Textual amendment: Decision revoked (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [27(c)](https://www.legislation.gov.uk/uksi/2019/558/regulation/27/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b96a64ee0dd0982ae0c1799665beabb]: Textual amendment: Decision revoked (31.12.2020) by [The Floods and Water (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/558)](https://www.legislation.gov.uk/uksi/2019/558), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/558/regulation/1/1), [27(c)](https://www.legislation.gov.uk/uksi/2019/558/regulation/27/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

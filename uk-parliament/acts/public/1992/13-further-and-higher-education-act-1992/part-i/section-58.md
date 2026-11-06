@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Reorganisations of schools involving establishment of further education corporation.[^key-8d0150fc576e2f63fa342f8a925836c0]
+## 58. Reorganisations of schools involving establishment of further education corporation.[^c-8d0150fc576e2f63fa342f8a925836c0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d0150fc576e2f63fa342f8a925836c0]: Textual amendment: S. 58 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(5)(e)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/5/e)
+[^c-8d0150fc576e2f63fa342f8a925836c0]: Textual amendment: S. 58 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(5)(e)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/5/e)

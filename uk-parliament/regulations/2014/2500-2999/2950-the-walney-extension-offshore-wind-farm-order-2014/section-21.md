@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Compulsory acquisition of rights[^key-b6131c606d9141494255d1273c6593e5]
+## 21. Compulsory acquisition of rights[^c-b6131c606d9141494255d1273c6593e5]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6131c606d9141494255d1273c6593e5]: Commencement: Art. 21 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-b6131c606d9141494255d1273c6593e5]: Commencement: Art. 21 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
 
 [^f00027]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33). Sections 2 and 3 were repealed by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

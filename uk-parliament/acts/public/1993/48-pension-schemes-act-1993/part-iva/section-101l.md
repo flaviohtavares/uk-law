@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101L. Variation of the amount required to be used.[^key-665a3636dcd1ed2b8438c31258510388]
+## 101L. Variation of the amount required to be used.[^c-665a3636dcd1ed2b8438c31258510388]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-665a3636dcd1ed2b8438c31258510388]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/ukpga/1993/48/part/4A) inserted (11.11.1999 for specified purposes, 1.12.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [ss. 37](https://www.legislation.gov.uk/ukpga/1999/30/section/37), [89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/4)
+[^c-665a3636dcd1ed2b8438c31258510388]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/ukpga/1993/48/part/4A) inserted (11.11.1999 for specified purposes, 1.12.2000 in so far as not already in force) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [ss. 37](https://www.legislation.gov.uk/ukpga/1999/30/section/37), [89(5)(a)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/5/a); [S.I. 2000/1047](https://www.legislation.gov.uk/uksi/2000/1047), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2000/1047/article/2/2/d), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2000/1047/schedule/part/4)

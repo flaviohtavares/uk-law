@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Online pornography (age and consent verification): duty to review and report[^key-3b351b669eebae63031e83ba47369d92]
+## 108. Online pornography (age and consent verification): duty to review and report[^c-3b351b669eebae63031e83ba47369d92]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b351b669eebae63031e83ba47369d92]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2026/20/section/108) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)
+[^c-3b351b669eebae63031e83ba47369d92]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2026/20/section/108) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)

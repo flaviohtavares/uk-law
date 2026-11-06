@@ -32,7 +32,7 @@ summary: ''
 
 Planning
 
-The Planning (General Development) (Amendment) Order (Northern Ireland) 2012 (revoked)[^key-09fc791c38febb666a6f6da49a61333a]
+The Planning (General Development) (Amendment) Order (Northern Ireland) 2012 (revoked)[^c-09fc791c38febb666a6f6da49a61333a]
 
 Made
 
@@ -42,54 +42,54 @@ Coming into operation
 
 19th September 2012
 
-[^key-09fc791c38febb666a6f6da49a61333a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09fc791c38febb666a6f6da49a61333a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-09fc791c38febb666a6f6da49a61333a]
+## 1. Citation and commencement[^c-09fc791c38febb666a6f6da49a61333a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^key-09fc791c38febb666a6f6da49a61333a]
+## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^c-09fc791c38febb666a6f6da49a61333a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-09fc791c38febb666a6f6da49a61333a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09fc791c38febb666a6f6da49a61333a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — SUBSTITUTION OF PART 8 OF SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^key-09fc791c38febb666a6f6da49a61333a]
+## SCHEDULE 1 — SUBSTITUTION OF PART 8 OF SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^c-09fc791c38febb666a6f6da49a61333a]
 
 Article 2(3)(a)
 
-> **PART 8 — INDUSTRIAL AND WAREHOUSE DEVELOPMENT[^key-09fc791c38febb666a6f6da49a61333a]**
+> **PART 8 — INDUSTRIAL AND WAREHOUSE DEVELOPMENT[^c-09fc791c38febb666a6f6da49a61333a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ADDITION OF PARTS 33 TO 36 TO SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^key-09fc791c38febb666a6f6da49a61333a]
+## SCHEDULE 2 — ADDITION OF PARTS 33 TO 36 TO SCHEDULE 1 TO THE PLANNING (GENERAL DEVELOPMENT) ORDER (NORTHERN IRELAND) 1993[^c-09fc791c38febb666a6f6da49a61333a]
 
 Article 2(3)(b)
 
-> **PART 33 — DEMOLITION OF BUILDINGS[^key-09fc791c38febb666a6f6da49a61333a]**
+> **PART 33 — DEMOLITION OF BUILDINGS[^c-09fc791c38febb666a6f6da49a61333a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 34 — SHOPS, FINANCIAL AND PROFESSIONAL SERVICES ESTABLISHMENTS[^key-09fc791c38febb666a6f6da49a61333a]**
+> **PART 34 — SHOPS, FINANCIAL AND PROFESSIONAL SERVICES ESTABLISHMENTS[^c-09fc791c38febb666a6f6da49a61333a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 35 — OFFICE BUILDINGS[^key-09fc791c38febb666a6f6da49a61333a]**
+> **PART 35 — OFFICE BUILDINGS[^c-09fc791c38febb666a6f6da49a61333a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 36 — SCHOOLS, COLLEGES, UNIVERSITIES AND HOSPITALS[^key-09fc791c38febb666a6f6da49a61333a]**
+> **PART 36 — SCHOOLS, COLLEGES, UNIVERSITIES AND HOSPITALS[^c-09fc791c38febb666a6f6da49a61333a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-09fc791c38febb666a6f6da49a61333a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-09fc791c38febb666a6f6da49a61333a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-09fc791c38febb666a6f6da49a61333a]: Textual amendment: Order revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [art. 1(1)](https://www.legislation.gov.uk/nisr/2015/72/article/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)
+[^c-09fc791c38febb666a6f6da49a61333a]: Textual amendment: Order revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [art. 1(1)](https://www.legislation.gov.uk/nisr/2015/72/article/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)

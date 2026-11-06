@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 339. Effect of blight notice where claim in respect of unaffected area withdrawn or rejected[^key-312c3d8fec14fd8c10cbbf74674a64ea]
+## 339. Effect of blight notice where claim in respect of unaffected area withdrawn or rejected[^c-312c3d8fec14fd8c10cbbf74674a64ea]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-312c3d8fec14fd8c10cbbf74674a64ea]: Commencement: S. 339 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-312c3d8fec14fd8c10cbbf74674a64ea]: Commencement: S. 339 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

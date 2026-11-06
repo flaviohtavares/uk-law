@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. Appeals from the Tribunal[^key-ac23d2a313997df67a0e867abe58c1b8][^key-907ad0d96145cabca80cfe5d6d96e812][^key-10c1540594fe42003e3f89d0a567e241]
+## 196. Appeals from the Tribunal[^c-ac23d2a313997df67a0e867abe58c1b8][^c-907ad0d96145cabca80cfe5d6d96e812][^c-10c1540594fe42003e3f89d0a567e241]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ac23d2a313997df67a0e867abe58c1b8]: Commencement: S. 196 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-ac23d2a313997df67a0e867abe58c1b8]: Commencement: S. 196 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-907ad0d96145cabca80cfe5d6d96e812]: Commencement: S. 196 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-907ad0d96145cabca80cfe5d6d96e812]: Commencement: S. 196 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-10c1540594fe42003e3f89d0a567e241]: Modification: [S. 196](https://www.legislation.gov.uk/ukpga/2003/21/section/196) applied (6.4.2023) by [The Trade (Mobile Roaming) Regulations 2023 (S.I. 2023/214)](https://www.legislation.gov.uk/uksi/2023/214), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b), [10(2)](https://www.legislation.gov.uk/uksi/2023/214/regulation/10/2)
+[^c-10c1540594fe42003e3f89d0a567e241]: Modification: [S. 196](https://www.legislation.gov.uk/ukpga/2003/21/section/196) applied (6.4.2023) by [The Trade (Mobile Roaming) Regulations 2023 (S.I. 2023/214)](https://www.legislation.gov.uk/uksi/2023/214), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/214/regulation/1/b), [10(2)](https://www.legislation.gov.uk/uksi/2023/214/regulation/10/2)

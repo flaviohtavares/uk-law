@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — Access to works[^key-95a0a41badce5010b8d7eb4f1cbe93e3]
+## SCHEDULE 6 — Access to works[^c-95a0a41badce5010b8d7eb4f1cbe93e3]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Article 13
 
 ## Annotations
 
-[^key-95a0a41badce5010b8d7eb4f1cbe93e3]: Commencement: Sch. 6 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-95a0a41badce5010b8d7eb4f1cbe93e3]: Commencement: Sch. 6 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

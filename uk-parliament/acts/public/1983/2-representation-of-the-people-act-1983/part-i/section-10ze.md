@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10ZE. Removal of electors in Great Britain from register[^key-2b825e0c240503d2f861fc7d74c8a82c]
+## 10ZE. Removal of electors in Great Britain from register[^c-2b825e0c240503d2f861fc7d74c8a82c]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b825e0c240503d2f861fc7d74c8a82c]: Textual amendment: [Ss. 10ZD](https://www.legislation.gov.uk/ukpga/1983/2/section/10ZD), [10ZE](https://www.legislation.gov.uk/ukpga/1983/2/section/10ZE) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/6/schedule/1/paragraph/1) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/j)
+[^c-2b825e0c240503d2f861fc7d74c8a82c]: Textual amendment: [Ss. 10ZD](https://www.legislation.gov.uk/ukpga/1983/2/section/10ZD), [10ZE](https://www.legislation.gov.uk/ukpga/1983/2/section/10ZE) inserted (10.6.2014 for E.W., 15.9.2014 for N.I., 19.9.2014 for S.) by [Electoral Registration and Administration Act 2013 (c. 6)](https://www.legislation.gov.uk/ukpga/2013/6), [s. 27(1)](https://www.legislation.gov.uk/ukpga/2013/6/section/27/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/6/schedule/1/paragraph/1) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2013/6/schedule/5)); [S.I. 2014/414](https://www.legislation.gov.uk/uksi/2014/414), [art. 5(k)](https://www.legislation.gov.uk/uksi/2014/414/article/5/k); [S.I. 2014/2439](https://www.legislation.gov.uk/uksi/2014/2439), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/2439/article/2/j)

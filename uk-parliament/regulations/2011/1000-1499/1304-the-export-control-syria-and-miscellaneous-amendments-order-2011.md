@@ -48,37 +48,37 @@ The Secretary of State is a Minister designated [^c20878871] for the purposes of
 
 This Order makes provision for a purpose mentioned in section 2(2) of that Act and it appears to the Secretary of State that it is expedient for references to Annex I to Council Regulation (EU) No 442/2011 [^c20878891] to be construed as references to that Annex as amended from time to time.
 
-The Secretary of State, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, by paragraph 1A of Schedule 2 to that Act [^c20878901] and by sections 1, 2, 3, 4, 5 and 7 of the Export Control Act 2002 [^c20878911], makes the following Order.[^key-03df38c701d044663c391f7b2e66ceea]
+The Secretary of State, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, by paragraph 1A of Schedule 2 to that Act [^c20878901] and by sections 1, 2, 3, 4, 5 and 7 of the Export Control Act 2002 [^c20878911], makes the following Order.[^c-03df38c701d044663c391f7b2e66ceea]
 
-## 1. Citation, Commencement and Interpretation[^key-03df38c701d044663c391f7b2e66ceea]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Offences supplementing the Regulation[^key-03df38c701d044663c391f7b2e66ceea]
+## 1. Citation, Commencement and Interpretation[^c-03df38c701d044663c391f7b2e66ceea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences related to EU authorisations[^key-03df38c701d044663c391f7b2e66ceea]
+## 2. Offences supplementing the Regulation[^c-03df38c701d044663c391f7b2e66ceea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Circumvention of prohibitions[^key-03df38c701d044663c391f7b2e66ceea]
+## 3. Offences related to EU authorisations[^c-03df38c701d044663c391f7b2e66ceea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Overlap with the 2008 Order[^key-fe1fa8ce485b4f51df878cc65d92f2e4]
+## 4. Circumvention of prohibitions[^c-03df38c701d044663c391f7b2e66ceea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Penalties[^key-03df38c701d044663c391f7b2e66ceea]
+## 5. Overlap with the 2008 Order[^c-fe1fa8ce485b4f51df878cc65d92f2e4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of the 1979 Act[^key-03df38c701d044663c391f7b2e66ceea]
+## 6. Penalties[^c-03df38c701d044663c391f7b2e66ceea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to the 2008 Order related to Syria arms embargo[^key-b7e1794dccd08994f156883e1059d993]
+## 7. Application of the 1979 Act[^c-03df38c701d044663c391f7b2e66ceea]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 8. Amendments to the 2008 Order related to Syria arms embargo[^c-b7e1794dccd08994f156883e1059d993]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -86,7 +86,7 @@ The Secretary of State, in exercise of the powers conferred by section 2(2) of t
 
 In the definition of “the Regulation” in article 1(2) of the Export Control (Libya) Order 2011 [^c20879081], after “Council Regulation (EU) No 204/2011 of 2 March 2011 [^c20879091]” insert “ as amended by Council Regulation (EU) No 296/2011of 25 March 2011 [^c20879101] ”.
 
-## 10. Review[^key-03df38c701d044663c391f7b2e66ceea]
+## 10. Review[^c-03df38c701d044663c391f7b2e66ceea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,11 +136,11 @@ A regulatory impact assessment has not been produced for this instrument as it h
 
 [^c20878911]: Marginal citation: [2002 c.28](https://www.legislation.gov.uk/ukpga/2002/28).
 
-[^key-03df38c701d044663c391f7b2e66ceea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1304) revoked in part (5.4.2012) by [The Export Control (Syria Sanctions) and (Miscellaneous Amendments) Order 2012 (S.I. 2012/810)](https://www.legislation.gov.uk/uksi/2012/810), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/810/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/810/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/810/schedule)
+[^c-03df38c701d044663c391f7b2e66ceea]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1304) revoked in part (5.4.2012) by [The Export Control (Syria Sanctions) and (Miscellaneous Amendments) Order 2012 (S.I. 2012/810)](https://www.legislation.gov.uk/uksi/2012/810), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/810/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/810/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2012/810/schedule)
 
-[^key-fe1fa8ce485b4f51df878cc65d92f2e4]: Textual amendment: Art. 5 omitted (30.12.2011) by virtue of [The Export Control (Sudan and South Sudan Sanctions) and (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2925)](https://www.legislation.gov.uk/uksi/2011/2925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/10/c)
+[^c-fe1fa8ce485b4f51df878cc65d92f2e4]: Textual amendment: Art. 5 omitted (30.12.2011) by virtue of [The Export Control (Sudan and South Sudan Sanctions) and (Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2925)](https://www.legislation.gov.uk/uksi/2011/2925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/1/1), [10(c)](https://www.legislation.gov.uk/uksi/2011/2925/regulation/10/c)
 
-[^key-b7e1794dccd08994f156883e1059d993]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2011/1304/article/8) revoked (6.9.2013) by [The Export Control (Syria Sanctions) Order 2013 (S.I. 2013/2012)](https://www.legislation.gov.uk/uksi/2013/2012), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2012/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2012/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2012/schedule/1)
+[^c-b7e1794dccd08994f156883e1059d993]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/uksi/2011/1304/article/8) revoked (6.9.2013) by [The Export Control (Syria Sanctions) Order 2013 (S.I. 2013/2012)](https://www.legislation.gov.uk/uksi/2013/2012), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2012/article/1/1), [2](https://www.legislation.gov.uk/uksi/2013/2012/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2012/schedule/1)
 
 [^c20879081]: Marginal citation: [S.I. 2011/825](https://www.legislation.gov.uk/uksi/2011/825).
 

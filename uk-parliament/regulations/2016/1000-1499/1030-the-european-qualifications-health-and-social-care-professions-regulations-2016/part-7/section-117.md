@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Amendment of section 51[^key-f7d7f2feea667ad1a6f1ab93e2989001]
+## 117. Amendment of section 51[^c-f7d7f2feea667ad1a6f1ab93e2989001]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7d7f2feea667ad1a6f1ab93e2989001]: Commencement: Reg. 117 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-f7d7f2feea667ad1a6f1ab93e2989001]: Commencement: Reg. 117 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00096]: Footnote: Section 51 was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). There are other amendments but these are not relevant to these Regulations.

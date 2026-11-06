@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171ZZ8. Liability to make payments[^key-c53a6083814cf42f879ac62e90e99d68]
+## 171ZZ8. Liability to make payments[^c-c53a6083814cf42f879ac62e90e99d68]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c53a6083814cf42f879ac62e90e99d68]: Textual amendment: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZD) inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/5); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)
+[^c-c53a6083814cf42f879ac62e90e99d68]: Textual amendment: [Pt. 12ZD](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZD) inserted (18.1.2020) by [Parental Bereavement (Leave and Pay) Act 2018 (c. 24)](https://www.legislation.gov.uk/ukpga/2018/24), [s. 2(2)](https://www.legislation.gov.uk/ukpga/2018/24/section/2/2), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/24/schedule/paragraph/5); [S.I. 2020/45](https://www.legislation.gov.uk/uksi/2020/45), [reg. 2](https://www.legislation.gov.uk/uksi/2020/45/regulation/2)

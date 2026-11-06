@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Buyer and seller[^key-0619e34ef1c927fc0d58eefdca0b2ba0]
+## 7. Buyer and seller[^c-0619e34ef1c927fc0d58eefdca0b2ba0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0619e34ef1c927fc0d58eefdca0b2ba0]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2013/11/section/7) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-0619e34ef1c927fc0d58eefdca0b2ba0]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2013/11/section/7) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

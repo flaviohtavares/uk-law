@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: S*
 
-The Commissioner[^key-b50a913d35a664059831e6db5a58b6a4] must comply with any direction given by the Parliamentary corporation as to the sharing of premises, staff, services or other resources with any other public body or any officeholder.
+The Commissioner[^c-b50a913d35a664059831e6db5a58b6a4] must comply with any direction given by the Parliamentary corporation as to the sharing of premises, staff, services or other resources with any other public body or any officeholder.
 
 ## Annotations
 
-[^key-b50a913d35a664059831e6db5a58b6a4]: Textual amendment: Word in s. 24 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/26)
+[^c-b50a913d35a664059831e6db5a58b6a4]: Textual amendment: Word in s. 24 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/26)

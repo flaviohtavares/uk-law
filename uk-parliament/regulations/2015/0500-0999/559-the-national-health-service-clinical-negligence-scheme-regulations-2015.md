@@ -50,7 +50,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 ## General
 
-### 1. Citation, commencement and application[^key-e3089c2f72111cb168a889250e453269]
+### 1. Citation, commencement and application[^c-e3089c2f72111cb168a889250e453269]
 
 (1) These Regulations may be cited as the National Health Service (Clinical Negligence Scheme) Regulations 2015.
 
@@ -58,7 +58,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 (3) These Regulations apply to England only.
 
-### 2. Interpretation[^key-a0d7b5015f4370ba27f9e84075f70ca2]
+### 2. Interpretation[^c-a0d7b5015f4370ba27f9e84075f70ca2]
 
 (1) In these Regulations—
 
@@ -66,10 +66,10 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 - “the 2006 Act” means the National Health Service Act 2006;
 - “the 2012 Act” means the Health and Social Care Act 2012[^f00003];
 - “the appointed day” means the date on which these Regulations come into force;
-- [^key-6ccd0b82020cb5ebe6db3285166a1ae1]...
+- [^c-6ccd0b82020cb5ebe6db3285166a1ae1]...
 - “eligible body” means a body specified in sub-paragraphs (a) to (l) of regulation 4(1);
 - “insolvency” has the meaning given in section 247(1) of the Insolvency Act 1986 (meaning of “insolvency” and “go into liquidation”)[^f00004];
-- “[^key-13b1a86e4ab60f8d059d41bddc439265]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the 2006 Act;
+- “[^c-13b1a86e4ab60f8d059d41bddc439265]**integrated care board**” means an integrated care board established under Chapter A3 of Part 2 of the 2006 Act;
 - “membership year”, in respect of any eligible body, means any 12 month period starting on 1st April during which the body is a member of the Scheme;
 - “relevant function” means—
   - (a) arranging for the provision of services for the purposes of the health service[^f00005];
@@ -88,7 +88,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 - (a) section 83(2) (primary medical services)[^f00009];
 - (b) section 84(1) (general medical services contracts)[^f00010];
-- (c) section 92 (arrangements by NHS England[^key-0345be39e72c1f938512338f77ba308f] for the provision primary medical services)[^f00011];
+- (c) section 92 (arrangements by NHS England[^c-0345be39e72c1f938512338f77ba308f] for the provision primary medical services)[^f00011];
 - (d) section 100(1) (general dental services contracts)[^f00012];
 - (e) section 107(1) (arrangements by NHS England for the provision of primary dental services)[^f00013];
 - (f) section 115(4) (primary ophthalmic services)[^f00014];
@@ -100,7 +100,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 ## The Scheme
 
-### 3. Clinical Negligence Scheme for Trusts[^key-b22b4a2960b5cf5e00d4691f381f3c90]
+### 3. Clinical Negligence Scheme for Trusts[^c-b22b4a2960b5cf5e00d4691f381f3c90]
 
 (1) The Scheme is to continue to have effect as if it had been established under these Regulations[^f00020].
 
@@ -110,17 +110,17 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 (4) The Secretary of State will continue to administer the Scheme.
 
-### 4. Eligible bodies[^key-e1f1b5aaef34c9a79e8b053ffaa38d9b]
+### 4. Eligible bodies[^c-e1f1b5aaef34c9a79e8b053ffaa38d9b]
 
 (1) The bodies which are eligible to be members of the Scheme are—
 
 - (a) NHS England;
-- (b) an integrated care board[^key-7581d8a1ce76ffcaa657ed62a3819b07];
+- (b) an integrated care board[^c-7581d8a1ce76ffcaa657ed62a3819b07];
 - (c) a Special Health Authority;
 - (d) the Care Quality Commission;
-- (e)[^key-fe653db0e303f38e34c51c3c4c22305c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-fe653db0e303f38e34c51c3c4c22305c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the Health Research Authority;
-- (g)[^key-87aac8fd69cc9e0d075eb1b833f245dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-87aac8fd69cc9e0d075eb1b833f245dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) NICE;
 - (i) an NHS trust;
 - (j) an NHS foundation trust;
@@ -144,11 +144,11 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
   - (ii) any further arrangement or arrangements which may have been entered into between bodies which are not members of the Scheme; and
   - (iii) an arrangement made between NHS England, an integrated care board or a Special Health Authority and a body falling within paragraph (i) or (ii).
 
-### 5. Membership of the Scheme[^key-b55d9de9aeff72dbe28c283fa3a96d68]
+### 5. Membership of the Scheme[^c-b55d9de9aeff72dbe28c283fa3a96d68]
 
 (1) Any eligible body which is a member of the Scheme immediately before the appointed day is to continue to be a member of the Scheme (subject to any cancellation of the membership under regulation 6 (cancellation by a member) or 7 (cancellation by the Secretary of State)[^f00021]).
 
-(1A)[^key-d9922b8124ecba48544f627ecda674e5] Every integrated care board is a member of the Scheme from the beginning of 1st July 2022 (subject to any cancellation of the membership under regulation 6 (cancellation by a member) or 7 (cancellation by the Secretary of State)).
+(1A)[^c-d9922b8124ecba48544f627ecda674e5] Every integrated care board is a member of the Scheme from the beginning of 1st July 2022 (subject to any cancellation of the membership under regulation 6 (cancellation by a member) or 7 (cancellation by the Secretary of State)).
 
 (2) Any eligible body which is not a member of the Scheme may apply to the Secretary of State to become a member of the Scheme.
 
@@ -181,7 +181,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 (8) Where an eligible body’s application is granted, the body’s membership of the Scheme starts on the date specified in the notice under paragraph (6)(b).
 
-### 6. Cancellation of membership by a member[^key-c808edcc8535493846bfeb07909a7fb5]
+### 6. Cancellation of membership by a member[^c-c808edcc8535493846bfeb07909a7fb5]
 
 (1) This regulation applies only in relation to any member which has been a member of the Scheme for at least 3 consecutive membership years.
 
@@ -192,7 +192,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 - (a) is given before 1st September in a membership year, the notice takes effect at the end of that membership year;
 - (b) is given on or after 1st September in a membership year, the notice takes effect at the end of the following membership year.
 
-### 7. Cancellation of membership by the Secretary of State[^key-f6260b1faf7f04f649a0ecca101fdb03]
+### 7. Cancellation of membership by the Secretary of State[^c-f6260b1faf7f04f649a0ecca101fdb03]
 
 (1) The Secretary of State may cancel a member’s membership of the Scheme in any of the circumstances specified in paragraphs (2) to (5).
 
@@ -219,7 +219,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 ## Liabilities to which the Scheme applies
 
-### 8. Liabilities of members[^key-43d223657ee07a4d9e0b8c6f43e23387]
+### 8. Liabilities of members[^c-43d223657ee07a4d9e0b8c6f43e23387]
 
 (1) Subject to paragraph (4), the Scheme applies to any liability in tort under the law of England and Wales which a member of the Scheme owes to a third party in respect of or consequent upon personal injury or loss as specified in paragraph (2).
 
@@ -235,7 +235,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 (4) Where the member is a body falling within regulation 4(1)(l) (bodies providing relevant health services under certain arrangements to be eligible for membership), the Scheme only applies if the liability is in consequence of the arrangements described in regulation 4(2), (3) or (4) by means of which the body is eligible to be a member.
 
-### 9. Liabilities of insolvent former members for which members are treated as liable[^key-aaf99bb7899247b0248b18ea2734ff05]
+### 9. Liabilities of insolvent former members for which members are treated as liable[^c-aaf99bb7899247b0248b18ea2734ff05]
 
 (1) In this regulation, references to “an insolvent former member” are to a body falling within regulation 4(1)(l) which—
 
@@ -263,7 +263,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 - (b) a person employed or engaged by the insolvent former member; or
 - (c) an employee or agent of a person engaged by the insolvent former member.
 
-### 10. Other liabilities for which members are treated as liable[^key-a7508c33dbac53b9cf7bb5c3d86af373]
+### 10. Other liabilities for which members are treated as liable[^c-a7508c33dbac53b9cf7bb5c3d86af373]
 
 (1) In this regulation, “health services provider” means an NHS trust, NHS foundation trust, local authority or other body which provides relevant health services.
 
@@ -296,7 +296,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 ## Payments into the Scheme
 
-### 11. Determination of amounts payable by members[^key-7b253f0c7c97510ea1f78e02c4822eb7]
+### 11. Determination of amounts payable by members[^c-7b253f0c7c97510ea1f78e02c4822eb7]
 
 (1) The Secretary of State must determine the amount which each member of the Scheme must pay to the Secretary of State in respect of each membership year.
 
@@ -330,7 +330,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 (7) For the purposes of paragraphs (5) and (6), references to “the first membership year” of a body which is a member of the Scheme is to the whole or part of any membership year immediately following any period during which the body was not a member.
 
-### 12. Duty of members to make contributions to the Scheme[^key-6ac8804b276616c1e6c1231f901cdee1]
+### 12. Duty of members to make contributions to the Scheme[^c-6ac8804b276616c1e6c1231f901cdee1]
 
 (1) Each member of the Scheme must, in respect of each membership year, pay to the Secretary of State the amount determined in respect of the member under regulation 11(1) (determination of amounts payable by members).
 
@@ -351,7 +351,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 (5) For the purposes of paragraphs (3) and (4), references to “the first membership year” of a body which is a member of the Scheme are to be construed in accordance with regulation 11(7).
 
-### 13. Revision of determination of payable amount[^key-c365a2dbe65b375db6c8491fab3190c7]
+### 13. Revision of determination of payable amount[^c-c365a2dbe65b375db6c8491fab3190c7]
 
 (1) Paragraph (2) applies where the Secretary of State identifies before the end of a membership year that the amount determined by the Secretary of State under regulation 11(1) as being payable by the member in respect of that year—
 
@@ -373,7 +373,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 ## Payments out of the Scheme
 
-### 14. Payments out of the Scheme: liabilities of members[^key-4b13bd84450d9c1c34c1c14e81773192]
+### 14. Payments out of the Scheme: liabilities of members[^c-4b13bd84450d9c1c34c1c14e81773192]
 
 (1) Where a payment falls to be made by a member of the Scheme in connection with a claim in respect of a liability to which the Scheme applies, the Secretary of State may pay to the member or on the member’s behalf an amount determined by the Secretary of State under regulation 18.
 
@@ -400,7 +400,7 @@ In accordance with section 71(1) of that Act, these Regulations are made with th
 
 (6) In paragraph (3)(b) and (5)(b), the “qualifying period” is the period of 14 days starting with the date on which the member became aware that a claim had been made or, if earlier, the date on which the Secretary of State considers that the member ought to have become aware that a claim had been made.
 
-### 15. Payments out of the Scheme: liabilities of former members[^key-8c909e0ea619938eaf7a6c9616398e66]
+### 15. Payments out of the Scheme: liabilities of former members[^c-8c909e0ea619938eaf7a6c9616398e66]
 
 (1) Where—
 
@@ -417,7 +417,7 @@ the Secretary of State may, if the conditions specified in paragraph (2) are met
 
 (3) No payment may be made under paragraph (1) in respect of any liability of, or payment by, B which is excluded from the Scheme by regulation 16 (exclusions from the Scheme).
 
-### 16. Exclusions[^key-05fc40b415b27ccf0b42d3d0558f9c03]
+### 16. Exclusions[^c-05fc40b415b27ccf0b42d3d0558f9c03]
 
 (1) Except to such extent as the Secretary of State may determine, the following are excluded from the Scheme—
 
@@ -434,7 +434,7 @@ the Secretary of State may, if the conditions specified in paragraph (2) are met
 - (a) in respect of which the requirements of regulation 14(5)(c) and (d) are met (agreement that Scheme to cover existing claim not met before membership ceases); or
 - (b) to which regulation 15 applies (liabilities of former members).
 
-### 17. Payments out of the Scheme: liabilities for which members are treated as liable[^key-76b896d628c44f53c2f7f701262da195]
+### 17. Payments out of the Scheme: liabilities for which members are treated as liable[^c-76b896d628c44f53c2f7f701262da195]
 
 (1) Paragraph (2) applies to any payment in connection with—
 
@@ -447,7 +447,7 @@ where the payment falls to be made by a member of the Scheme which under regulat
 
 (3) In the application of regulation 14, 15 or 16 for the purposes of paragraph (2), references to anything being done by, to or against a member in respect of a liability to which the Scheme applies includes references to it being done in respect of a qualifying liability for which the member is treated as being liable.
 
-### 18. Determining the amount of any payment to be made out of the Scheme[^key-2264dd2b09683a3b15c372011f9586c3]
+### 18. Determining the amount of any payment to be made out of the Scheme[^c-2264dd2b09683a3b15c372011f9586c3]
 
 (1) In respect of each liability to which the Scheme applies, the Secretary of State must determine the amount of any payment which is to be made under regulation 14(1) or 15(1) (payments out of the Scheme in respect of liabilities of members and former members).
 
@@ -488,7 +488,7 @@ where the payment falls to be made by a member of the Scheme which under regulat
 
 (9) In this regulation, references to “member” are to be construed in accordance with regulation 16(2).
 
-### 19. Power to make payments on account[^key-bd0f894710c3ce4fcc2d521b82850dfa]
+### 19. Power to make payments on account[^c-bd0f894710c3ce4fcc2d521b82850dfa]
 
 (1) Where, in any membership year, a payment falls to be made by a member in connection with a claim in respect of which an amount may become payable by the Secretary of State under regulation 18 (determining the amount of any payment to be made out of the Scheme), the Secretary of State may make a payment on account of any amount which may become payable.
 
@@ -498,7 +498,7 @@ where the payment falls to be made by a member of the Scheme which under regulat
 
 ## Miscellaneous
 
-### 20. Duty of members to provide information[^key-902a6eb5d0f710efd943db48de47c172]
+### 20. Duty of members to provide information[^c-902a6eb5d0f710efd943db48de47c172]
 
 (1) In this regulation “specified” means specified by the Secretary of State in a notice under paragraph (2).
 
@@ -517,7 +517,7 @@ where the payment falls to be made by a member of the Scheme which under regulat
 - (b) provide the information in any specified form; and
 - (c) submit the information in any specified manner.
 
-### 21. Directions and guidance[^key-f9f225d9aa840ddef1baef8e4738b3eb]
+### 21. Directions and guidance[^c-f9f225d9aa840ddef1baef8e4738b3eb]
 
 (1) The Secretary of State must make the following information available to eligible bodies in such form and at such times as the Secretary of State considers appropriate[^f00023]—
 
@@ -526,7 +526,7 @@ where the payment falls to be made by a member of the Scheme which under regulat
 
 (2) “Relevant body” means a body directed by the Secretary of State under section 71(6) of the 2006 Act to carry out functions in connection with the administration of the Scheme.
 
-### 22. Revocations and savings[^key-4ff93cc3e6af0db0d95ff444bd79dce4]
+### 22. Revocations and savings[^c-4ff93cc3e6af0db0d95ff444bd79dce4]
 
 (1) Subject to paragraphs (2) to (4), the instruments specified in the first column of the Table set out in the Schedule are, in relation to England only, revoked to the extent stated in the third column of that Table.
 
@@ -544,7 +544,7 @@ is to be made in accordance with the relevant provisions of the 1996 Regulations
 - (a) any determination as to whether the Scheme applies to the liability is to be made in accordance with the relevant provisions of the 1996 Regulations as if those Regulations remained in force; and
 - (b) any determination as to whether to make a payment in respect of the liability (and the amount of any such payment) is to be made in accordance with regulations 14 to 19 of these Regulations.
 
-### 23. Transitional provision[^key-b1608b02354a422001f6bdf4e09202a9]
+### 23. Transitional provision[^c-b1608b02354a422001f6bdf4e09202a9]
 
 (1) Any application for membership of the Scheme which—
 
@@ -562,7 +562,7 @@ is to be dealt with as if the application had been made under regulation 5 of th
 - (a) any thing done, if effective immediately before the appointed day, has effect after the appointed day as if done under or for the purposes of the corresponding provision of these Regulations; and
 - (b) any matter that is ongoing under or for the purposes of the 1996 Regulations immediately before the appointed day is to be treated as ongoing under these Regulations.
 
-### 24. Provision that is consequential on the Health and Care Act 2022: liabilities transferred to integrated care boards and NHS England[^key-b01ebe0663c3034256dd347ffff0781a]
+### 24. Provision that is consequential on the Health and Care Act 2022: liabilities transferred to integrated care boards and NHS England[^c-b01ebe0663c3034256dd347ffff0781a]
 
 (1) A claim for a liability of a CCG that was made and not determined or paid before 1st July 2022 continues as a claim of the relevant integrated care board.
 
@@ -606,7 +606,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 4th March 2015
 
-## SCHEDULE — Revocations[^key-7eababea924dde68c39558dcfafc6939]
+## SCHEDULE — Revocations[^c-7eababea924dde68c39558dcfafc6939]
 
 Regulation 22
 
@@ -650,19 +650,19 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 71 was amended by section 142 of, and paragraph 85 of Schedule 5 and Part 4 of Schedule 15 to, the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14); by paragraph 18 of Schedule 4, paragraphs 17 and 19 of Schedule 7, paragraphs 1 and 28 of Schedule 14, paragraph 10(1) and (3) of Schedule 17 and paragraph 9(1) and (3) of Schedule 19 to the Health and Social Care Act 2012 (“the 2012 Act”); and by paragraph 24(3) of Schedule 5 and paragraph 18(9) of Schedule 7 to the Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23). The powers conferred by the National Health Service Act 2006 which are exercised by the Secretary of State in making these Regulations are exercisable only in relation to England by virtue of section 271(1) of that Act.
 
-[^key-e3089c2f72111cb168a889250e453269]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-e3089c2f72111cb168a889250e453269]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-a0d7b5015f4370ba27f9e84075f70ca2]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-a0d7b5015f4370ba27f9e84075f70ca2]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 1996/251](https://www.legislation.gov.uk/uksi/1996/251). The Regulations were amended by [S.I. 1997/527](https://www.legislation.gov.uk/uksi/1997/527), [1999/1274](https://www.legislation.gov.uk/uksi/1999/1274), [2000/2341](https://www.legislation.gov.uk/uksi/2000/2341), [2002/1073](https://www.legislation.gov.uk/uksi/2002/1073), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2004/696](https://www.legislation.gov.uk/uksi/2004/696), [2005/604](https://www.legislation.gov.uk/uksi/2005/604), [2006/3087](https://www.legislation.gov.uk/uksi/2006/3087), [2012/1641](https://www.legislation.gov.uk/uksi/2012/1641), [2013/497](https://www.legislation.gov.uk/uksi/2013/497), [2014/933](https://www.legislation.gov.uk/uksi/2014/933), [2014/3090](https://www.legislation.gov.uk/uksi/2014/3090) and [2015/137](https://www.legislation.gov.uk/uksi/2015/137).
 
 [^f00003]: Footnote: [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7).
 
-[^key-6ccd0b82020cb5ebe6db3285166a1ae1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/559/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [82(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/82/2/a)
+[^c-6ccd0b82020cb5ebe6db3285166a1ae1]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/559/regulation/2/1) omitted (1.7.2022) by virtue of [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [82(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/82/2/a)
 
 [^f00004]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Section 247(1) was amended by paragraph 33(1) and (2) of Schedule 17 to the Enterprise Act [2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-13b1a86e4ab60f8d059d41bddc439265]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/559/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [82(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/82/2/b)
+[^c-13b1a86e4ab60f8d059d41bddc439265]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/559/regulation/2/1) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [82(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/82/2/b)
 
 [^f00005]: Footnote: “The health service” is defined in section 275 of the National Health Service Act 2006.
 
@@ -676,7 +676,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00010]: Footnote: Section 84(1) was amended by paragraph 31(1) and (2) of Schedule 4 to the 2012 Act.
 
-[^key-0345be39e72c1f938512338f77ba308f]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-0345be39e72c1f938512338f77ba308f]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^f00011]: Footnote: Section 92 was amended by paragraph 36 of Schedule 4 to the 2012 Act.
 
@@ -696,64 +696,64 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00019]: Footnote: Schedule 12 was amended by section 29(1) and (5) to (15) of, and Schedule 6 to, the Health Act 2009; by section 207(12) of, and paragraph 93 of Schedule 4 to, the 2012 Act; and by paragraph 52(1)(b) and (2) of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-b22b4a2960b5cf5e00d4691f381f3c90]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-b22b4a2960b5cf5e00d4691f381f3c90]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
 [^f00020]: Footnote: The Regulations establishing the Scheme ([S.I. 1996/251](https://www.legislation.gov.uk/uksi/1996/251)) were made in exercise of powers conferred by section 126(4) of the National Health Service Act [1977 (c. 49)](https://www.legislation.gov.uk/ukpga/1977/49) and powers conferred by section 21 of the National Health Service and Community Care Act [1990 (c. 19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”). Section 21 of the 1990 Act was consolidated as section 71 of the National Health Service 2006. By virtue of paragraph 1(2) of Schedule 2 to the National Health Service (Consequential Provisions) Act 2006, anything done under a consolidated provision has effect as if it had been done under the corresponding provision of the consolidating Act. These Regulations are made in exercise of the powers conferred by sections 71 and 272(7) and (8) of the National Health Service Act 2006.
 
-[^key-e1f1b5aaef34c9a79e8b053ffaa38d9b]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-e1f1b5aaef34c9a79e8b053ffaa38d9b]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-7581d8a1ce76ffcaa657ed62a3819b07]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/559) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-7581d8a1ce76ffcaa657ed62a3819b07]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/559) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-fe653db0e303f38e34c51c3c4c22305c]: Textual amendment: [Reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2015/559/regulation/4/1/e) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/18) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
+[^c-fe653db0e303f38e34c51c3c4c22305c]: Textual amendment: [Reg. 4(1)(e)](https://www.legislation.gov.uk/uksi/2015/559/regulation/4/1/e) omitted (1.4.2023) by virtue of [The Health Education England (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/368)](https://www.legislation.gov.uk/uksi/2023/368), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/368/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2023/368/schedule/2/paragraph/18) (with [reg. 7](https://www.legislation.gov.uk/uksi/2023/368/regulation/7))
 
-[^key-87aac8fd69cc9e0d075eb1b833f245dc]: Textual amendment: [Reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2015/559/regulation/4/1/g) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 48](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/48) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
+[^c-87aac8fd69cc9e0d075eb1b833f245dc]: Textual amendment: [Reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2015/559/regulation/4/1/g) omitted (1.2.2023) by virtue of [The Health and Social Care Information Centre (Transfer of Functions, Abolition and Transitional Provisions) Regulations 2023 (S.I. 2023/98)](https://www.legislation.gov.uk/uksi/2023/98), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/98/regulation/1/2), [Sch. para. 48](https://www.legislation.gov.uk/uksi/2023/98/schedule/paragraph/48) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/98/regulation/3))
 
-[^key-b55d9de9aeff72dbe28c283fa3a96d68]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-b55d9de9aeff72dbe28c283fa3a96d68]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
 [^f00021]: Footnote: By virtue of regulation 23 of these Regulations, a notice given under the regulation 7 of the National Health Service (Clinical Negligence Scheme) Regulations 1996 (termination of membership) has effect as if given under the corresponding provisions of these Regulations in any case where membership of the Scheme has not ceased by the date on which these Regulations come into force.
 
-[^key-d9922b8124ecba48544f627ecda674e5]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2015/559/regulation/5/1A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [215(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/215/2)
+[^c-d9922b8124ecba48544f627ecda674e5]: Textual amendment: [Reg. 5(1A)](https://www.legislation.gov.uk/uksi/2015/559/regulation/5/1A) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [215(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/215/2)
 
-[^key-c808edcc8535493846bfeb07909a7fb5]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-c808edcc8535493846bfeb07909a7fb5]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-f6260b1faf7f04f649a0ecca101fdb03]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-f6260b1faf7f04f649a0ecca101fdb03]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-43d223657ee07a4d9e0b8c6f43e23387]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-43d223657ee07a4d9e0b8c6f43e23387]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-aaf99bb7899247b0248b18ea2734ff05]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-aaf99bb7899247b0248b18ea2734ff05]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-a7508c33dbac53b9cf7bb5c3d86af373]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-a7508c33dbac53b9cf7bb5c3d86af373]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-7b253f0c7c97510ea1f78e02c4822eb7]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-7b253f0c7c97510ea1f78e02c4822eb7]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-6ac8804b276616c1e6c1231f901cdee1]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-6ac8804b276616c1e6c1231f901cdee1]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-c365a2dbe65b375db6c8491fab3190c7]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-c365a2dbe65b375db6c8491fab3190c7]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-4b13bd84450d9c1c34c1c14e81773192]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-4b13bd84450d9c1c34c1c14e81773192]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-8c909e0ea619938eaf7a6c9616398e66]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-8c909e0ea619938eaf7a6c9616398e66]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-05fc40b415b27ccf0b42d3d0558f9c03]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-05fc40b415b27ccf0b42d3d0558f9c03]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-76b896d628c44f53c2f7f701262da195]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-76b896d628c44f53c2f7f701262da195]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-2264dd2b09683a3b15c372011f9586c3]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-2264dd2b09683a3b15c372011f9586c3]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
 [^f00022]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-bd0f894710c3ce4fcc2d521b82850dfa]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-bd0f894710c3ce4fcc2d521b82850dfa]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-902a6eb5d0f710efd943db48de47c172]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-902a6eb5d0f710efd943db48de47c172]: Commencement: Reg. 20 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-f9f225d9aa840ddef1baef8e4738b3eb]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-f9f225d9aa840ddef1baef8e4738b3eb]: Commencement: Reg. 21 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
 [^f00023]: Footnote: The directions and guidance given by the Secretary of State are available on request by writing to the Department of Health, Professional Standards, Quarry House, Leeds, LS2 7UA.
 
-[^key-4ff93cc3e6af0db0d95ff444bd79dce4]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-4ff93cc3e6af0db0d95ff444bd79dce4]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-b1608b02354a422001f6bdf4e09202a9]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-b1608b02354a422001f6bdf4e09202a9]: Commencement: Reg. 23 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
 
-[^key-b01ebe0663c3034256dd347ffff0781a]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/559/regulation/24) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [215(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/215/3)
+[^c-b01ebe0663c3034256dd347ffff0781a]: Textual amendment: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/559/regulation/24) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [215(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/215/3)
 
-[^key-7eababea924dde68c39558dcfafc6939]: Commencement: Sch. in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)
+[^c-7eababea924dde68c39558dcfafc6939]: Commencement: Sch. in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2)

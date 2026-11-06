@@ -46,14 +46,14 @@ summary: ''
 
 (2) In Article 4 of that Order (meaning of “sexual”) after “except” insert “ Article 22A (sexual communication with a child) or ”.
 
-(3)[^key-af232989a22a151db87da17a342c67e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-af232989a22a151db87da17a342c67e0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-126a5aed96917992bef6bfdb70f0f15e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-126a5aed96917992bef6bfdb70f0f15e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In the Criminal Justice (Northern Ireland) Order 2008 in Part 2 of Schedule 2 (specified sexual offences) in paragraph 14A after the entry relating to Article 22 of the Sexual Offences (Northern Ireland) Order 2008 insert— “ Article 22A (sexual communication with a child), ”.
 
 ## Annotations
 
-[^key-af232989a22a151db87da17a342c67e0]: Textual amendment: [S. 90(3)](https://www.legislation.gov.uk/nia/2015/9/section/90/3) omitted (27.11.2023) by virtue of [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/9); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-af232989a22a151db87da17a342c67e0]: Textual amendment: [S. 90(3)](https://www.legislation.gov.uk/nia/2015/9/section/90/3) omitted (27.11.2023) by virtue of [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/9); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-126a5aed96917992bef6bfdb70f0f15e]: Textual amendment: [S. 90(4)](https://www.legislation.gov.uk/nia/2015/9/section/90/4) omitted (27.11.2023) by virtue of [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/9); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-126a5aed96917992bef6bfdb70f0f15e]: Textual amendment: [S. 90(4)](https://www.legislation.gov.uk/nia/2015/9/section/90/4) omitted (27.11.2023) by virtue of [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/9); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)

@@ -78,7 +78,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 18 — Qualification of duty in respect of services funded by others](part-2/section-18.md)
 
-### Part 3 — Passengers’ Council and Rail Passengers' Committees[^key-5ca6698584ef908c4e000d74cd2cca6a]
+### Part 3 — Passengers’ Council and Rail Passengers' Committees[^c-5ca6698584ef908c4e000d74cd2cca6a]
 
 *Extent: E+W+S*
 
@@ -189,4 +189,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-5ca6698584ef908c4e000d74cd2cca6a]: Textual amendment: Words in Pt. 3 heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(5)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/5)
+[^c-5ca6698584ef908c4e000d74cd2cca6a]: Textual amendment: Words in Pt. 3 heading substituted (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 9(5)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/9/5)

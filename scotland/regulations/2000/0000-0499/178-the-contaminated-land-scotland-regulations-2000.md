@@ -44,7 +44,7 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred upon them by sections 78C(8) to (10), 78E(6), 78G(5) and (6), 78L(4) and (5) and 78R(1), (2) and (8) of the Environmental Protection Act 1990[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation, commencement, extent and interpretation[^key-f7dc73996e59ef69f659a1bd523ae128]
+## 1. Citation, commencement, extent and interpretation[^c-f7dc73996e59ef69f659a1bd523ae128]
 
 (1) These Regulations may be cited as the Contaminated Land (Scotland) Regulations 2000 and shall come into force on 14th July 2000.
 
@@ -54,7 +54,7 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 (4) In these Regulations “SEPA” means the Scottish Environment Protection Agency.
 
-## 2. Land required to be designated as a special site[^key-a65163778166bf3e1f6b57b59c20eb63]
+## 2. Land required to be designated as a special site[^c-a65163778166bf3e1f6b57b59c20eb63]
 
 (1) Land which has been identified as contaminated within the meaning of Part IIA of the Environmental Protection Act 1990 and which is of the following descriptions is prescribed for the purposes of section 78C(8) as land required to be designated as a special site:–
 
@@ -64,7 +64,7 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
   - (i) the purification (including refining) of crude petroleum or of oil extracted from petroleum, shale or any other bituminous substance except coal; or
   - (ii) the manufacture or processing of explosives;
 - (d) land on which a prescribed process designated for central control has been or is being carried on, other than land which is contaminated land solely as a result of things being done which are required by way of remediation;
-- (da)[^key-f07d1087d625546843e241b49dd5c232] land on which an activity has been or is being carried on in a Part A installation [^key-62187245b4145146784005998ac719e3]... under a permit where the activity does not comprise solely things being done which are required by way of remediation;
+- (da)[^c-f07d1087d625546843e241b49dd5c232] land on which an activity has been or is being carried on in a Part A installation [^c-62187245b4145146784005998ac719e3]... under a permit where the activity does not comprise solely things being done which are required by way of remediation;
 - (e) land within a nuclear site;
 - (f) land owned or occupied by or on behalf of–
   - (i) the Secretary of State for Defence;
@@ -81,7 +81,7 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
   has been carried on at any time; and
 - (h) land which–
   - (i) is adjoining or adjacent to land of a description specified in sub paragraphs (b) to (g) above; and
-  - (ii) is contaminated land by virtue of substances which appear to have escaped from land of such a description ; and[^key-af4d13adebd8e6446bc5f04900b99b44]
+  - (ii) is contaminated land by virtue of substances which appear to have escaped from land of such a description ; and[^c-af4d13adebd8e6446bc5f04900b99b44]
 - (i) land which is contaminated wholly or partly by virtue of any radioactivity possessed by any substance in, on or under that land.
 
 (2) For the purposes of paragraph (1)(b) above, “waste acid tars” are tars which–
@@ -92,7 +92,7 @@ The Scottish Ministers, in exercise of the powers conferred upon them by section
 
 (3) In paragraph (1)(d) above, “prescribed process” has the same meaning as in Part I of the Environmental Protection Act 1990 and the reference to designation for central control is a reference to designation under section 2(4) (which provides for the processes to be designated for central or local control).
 
-(3A)[^key-9b6d4f992b5c8897fb843e9ee24b327b] In paragraph (1)(da) above, “**Part A installation**” and “**permit**” have the same meanings as in the Pollution Prevention and Control (Scotland) Regulations 2012.
+(3A)[^c-9b6d4f992b5c8897fb843e9ee24b327b] In paragraph (1)(da) above, “**Part A installation**” and “**permit**” have the same meanings as in the Pollution Prevention and Control (Scotland) Regulations 2012.
 
 (4) In paragraph (1)(e) above, “nuclear site” means–
 
@@ -110,7 +110,7 @@ and “nuclear site licence”, “licensee” and “period of responsibility�
 
 (7) In paragraph (1)(g) above, “chemical weapon” has the same meaning as in sub-section (1) of section 1 of the Chemical Weapons Act 1996[^f00006] disregarding sub-section (2) of that section.
 
-## 3. Pollution of controlled waters[^key-96672176260d046cfe2d44fa97ad8862]
+## 3. Pollution of controlled waters[^c-96672176260d046cfe2d44fa97ad8862]
 
 For the purposes of regulation 2(1)(a), this regulation applies to land where–
 
@@ -120,11 +120,11 @@ For the purposes of regulation 2(1)(a), this regulation applies to land where–
   - (i) any of the substances by reason of which the pollution of the water environment is being or is likely to be caused falls within any of the families or groups of substances listed in Schedule 1 to these Regulations; and
   - (ii) the water environment, or any part of the water environment, is contained within underground strata which comprise wholly or partly Devonian Sandstones or Permo-Triassic Sandstones.
 
-## 4. Content of remediation notices[^key-ae74373aeb8c3a5c55ab51da0803d20d]
+## 4. Content of remediation notices[^c-ae74373aeb8c3a5c55ab51da0803d20d]
 
 A remediation notice[^f00010] shall be in the form set out in Schedule 2 to these Regulations or as near as may be to that form and shall contain the information prescribed therein.
 
-## 5. Service of copies of remediation notices[^key-2fc2382686d67086e30c3eb9cdf9c022]
+## 5. Service of copies of remediation notices[^c-2fc2382686d67086e30c3eb9cdf9c022]
 
 (1) Subject to paragraph (2) below, the enforcing authority shall, at the same time as it serves a remediation notice, send a copy of it to each of the following persons, not being a person on whom the notice is to be served:–
 
@@ -133,9 +133,9 @@ A remediation notice[^f00010] shall be in the form set out in Schedule 2 to thes
 - (c) where the local authority is the enforcing authority, SEPA; and
 - (d) where SEPA is the enforcing authority, the local authority in whose area the contaminated land in question is situated.
 
-(2) Where it appears to the enforcing authority that the contaminated land in question is in such a condition by reason of substances in, on or under it, that there is imminent danger of serious harm, or serious pollution of the water environment[^key-2e55bc612aabe200da91700e8b4290ee], being caused, the enforcing authority shall send any copies of the notice pursuant to paragraph (1) above as soon as practicable after service of the notice.
+(2) Where it appears to the enforcing authority that the contaminated land in question is in such a condition by reason of substances in, on or under it, that there is imminent danger of serious harm, or serious pollution of the water environment[^c-2e55bc612aabe200da91700e8b4290ee], being caused, the enforcing authority shall send any copies of the notice pursuant to paragraph (1) above as soon as practicable after service of the notice.
 
-## 6. Compensation for rights of entry etc.[^key-22a78584ed27792c6c4c40b9f6a47c80]
+## 6. Compensation for rights of entry etc.[^c-22a78584ed27792c6c4c40b9f6a47c80]
 
 Schedule 3 to these Regulations shall have effect–
 
@@ -143,7 +143,7 @@ Schedule 3 to these Regulations shall have effect–
 - (b) for prescribing the manner in which, and the person to whom, such an application may be made; and
 - (c) for prescribing the manner in which the amount of such compensation shall be determined and for making further provisions relating to such compensation.
 
-## 7. Grounds of appeal against a remediation notice[^key-8f1843d55e8c4089c1568a84c12d72f6]
+## 7. Grounds of appeal against a remediation notice[^c-8f1843d55e8c4089c1568a84c12d72f6]
 
 (1) The grounds of appeal against a remediation notice under section 78L(1) are any of the following:–
 
@@ -160,9 +160,9 @@ Schedule 3 to these Regulations shall have effect–
   - (i) failed to determine the proportion of the cost stated in the notice to be the liability of the appellant in accordance with guidance issued by the Scottish Ministers under section 78F(7); or
   - (ii) whether, by reason of such a failure or otherwise, unreasonably determined the proportion of the cost that the appellant is to bear;
 - (g) that service of the notice contravened a provision of sub-section (1) or (3) of section 78H (restrictions and prohibitions on serving remediation notices), other than in circumstances where section 78H(4) applies;
-- (h) that, where the notice was served in reliance on section 78H(4) without compliance with section 78H(1) or (3), the enforcing authority could not reasonably have taken the view that the contaminated land in question was in such a condition by reason of substances in, on or under the land, that there was imminent danger of serious harm or serious pollution of the water environment[^key-735038dd68a9fbc2546157c260877f59] being caused;
+- (h) that, where the notice was served in reliance on section 78H(4) without compliance with section 78H(1) or (3), the enforcing authority could not reasonably have taken the view that the contaminated land in question was in such a condition by reason of substances in, on or under the land, that there was imminent danger of serious harm or serious pollution of the water environment[^c-735038dd68a9fbc2546157c260877f59] being caused;
 - (i) that the enforcing authority has unreasonably failed to be satisfied, in accordance with section 78H(5)(b), that appropriate things are being, or will be, done by way of remediation without service of a notice;
-- (j) that anything required by the notice to be done by way of remediation was required in contravention of a provision of section 78J (restrictions on liability relating to the pollution of the water environment[^key-1e0ef8ea39c8e56e3cc831b0263778d7]);
+- (j) that anything required by the notice to be done by way of remediation was required in contravention of a provision of section 78J (restrictions on liability relating to the pollution of the water environment[^c-1e0ef8ea39c8e56e3cc831b0263778d7]);
 - (k) that anything required by the notice to be done by way of remediation was required in contravention of a provision of section 78K (liability in respect of contaminating substances which escape to other land);
 - (l) that the enforcing authority itself has power, in a case falling within section 78N(3)(b), to do what is appropriate by way of remediation;
 - (m) that the enforcing authority has power, in a case falling within section 78N(3)(e), to do what is appropriate by way of remediation;
@@ -185,7 +185,7 @@ Schedule 3 to these Regulations shall have effect–
 
 (3) If and insofar as an appeal against a remediation notice is based on the ground of some informality, defect or error in, or in connection, with the notice, the appellate authority shall dismiss the appeal if it is satisfied that the informality, defect or error was not a material one.
 
-## 8. Appeals to the Scottish Ministers[^key-7f6b023e0b16ae0194d6407a928c9df6]
+## 8. Appeals to the Scottish Ministers[^c-7f6b023e0b16ae0194d6407a928c9df6]
 
 (1) An appeal to the Scottish Ministers against a remediation notice shall be made to them by a notice (“notice of appeal”) which shall state–
 
@@ -210,7 +210,7 @@ Schedule 3 to these Regulations shall have effect–
 
 (5) Where an appeal is abandoned, the Scottish Ministers shall give notice of the abandonment to any person on whom the appellant was required to serve a copy of the notice of appeal.
 
-## 9. Action by the Scottish Ministers upon receipt of notice of appeal[^key-b243ef8de42d8fcac64bd287d7c87d18]
+## 9. Action by the Scottish Ministers upon receipt of notice of appeal[^c-b243ef8de42d8fcac64bd287d7c87d18]
 
 The Scottish Ministers shall, within 14 days of receipt of a notice of appeal, give notice of the following matters to any person (other than to SEPA) on whom the appellant was required to serve a copy of the notice of appeal–
 
@@ -218,7 +218,7 @@ The Scottish Ministers shall, within 14 days of receipt of a notice of appeal, g
 - (b) that copies of the representations will be sent to the appellant, SEPA and any other person on whom the appellant was required to serve a copy of the notice of appeal; and
 - (c) that any person who makes any such representations will be informed about the hearing of the appeal if there is to be a hearing held wholly or partly in public.
 
-## 10. Hearings and local inquiries[^key-090f0afdd22842cfd7d95fc239633f78]
+## 10. Hearings and local inquiries[^c-090f0afdd22842cfd7d95fc239633f78]
 
 (1) Before determining an appeal, the Scottish Ministers may, if they think fit–
 
@@ -237,13 +237,13 @@ and the Scottish Ministers shall act as mentioned in sub-paragraph (a) or (b) ab
 
 (4) After the conclusion of a hearing, the person appointed to conduct the hearing shall, unless that person has been appointed under section 114(1)(a) of the Environment Act 1995[^f00012] to determine the appeal, make a report in writing (or in electronic form) to the Scottish Ministers which shall include the conclusions and the recommendations of that person or, as appropriate, the reasons for not making any recommendations.
 
-## 11. Notification of the decision of the Scottish Ministers on an appeal[^key-1bab48e59d35838fb23f04fca245a832]
+## 11. Notification of the decision of the Scottish Ministers on an appeal[^c-1bab48e59d35838fb23f04fca245a832]
 
 (1) The Scottish Ministers shall notify the appellant in writing (or in electronic form) of their decision on an appeal and shall provide the appellant with a copy of the report mentioned in regulation 10(4) above.
 
 (2) The Scottish Ministers shall, at the same time as they notify the appellant, send a copy of the documents mentioned in paragraph (1) above to SEPA and to any other person on whom the appellant was required to serve a copy of the notice of appeal.
 
-## 12. Modification of a remediation notice[^key-9b098b12b991783766f6e76f4c285615]
+## 12. Modification of a remediation notice[^c-9b098b12b991783766f6e76f4c285615]
 
 (1) Before modifying a remediation notice under section 78L(2)(b) in any respect which would be less favourable to the appellant than the remediation notice against which the appellant is appealing, the appellate authority shall–
 
@@ -253,7 +253,7 @@ and the Scottish Ministers shall act as mentioned in sub-paragraph (a) or (b) ab
 
 (2) Where, in accordance with paragraph (1) above, the appellant is heard, the enforcing authority shall also be entitled to be heard.
 
-## 13. Interim suspension of a remediation notice[^key-d6add633dd7ea9ecca4ed297e6c2b603]
+## 13. Interim suspension of a remediation notice[^c-d6add633dd7ea9ecca4ed297e6c2b603]
 
 (1) Where an appeal is duly made against a remediation notice, the notice shall be of no effect pending the final determination or abandonment of the appeal.
 
@@ -262,7 +262,7 @@ and the Scottish Ministers shall act as mentioned in sub-paragraph (a) or (b) ab
 - (a) in the case of an appeal to the Scottish Ministers, the requirements of regulation 8 have been fully complied with; or
 - (b) in the case of an appeal to the sheriff, the summary application has been made.
 
-## 14. Registers[^key-87dcd30a59863fafc792fe6e2561d113]
+## 14. Registers[^c-87dcd30a59863fafc792fe6e2561d113]
 
 (1) Schedule 4 to these Regulations shall have effect for prescribing–
 
@@ -291,11 +291,11 @@ Edinburgh
 
 12th June 2000
 
-## SCHEDULE 1 — SPECIAL SITES[^key-f73258e6e2de3bd1d362742646db53de]
+## SCHEDULE 1 — SPECIAL SITES[^c-f73258e6e2de3bd1d362742646db53de]
 
 Regulation 3(c)(i)
 
-[^key-f73258e6e2de3bd1d362742646db53de]
+[^c-f73258e6e2de3bd1d362742646db53de]
 
 The following families and groups of substances are listed for the purposes of regulation 3(c)(i):–
 
@@ -308,7 +308,7 @@ The following families and groups of substances are listed for the purposes of r
 - mineral oil and other hydrocarbons; and
 - cyanides.
 
-## SCHEDULE 2 — REMEDIATION NOTICE[^key-9bce1e7985ebc7de8f515736c3ff94d3][^key-a4f9750b9e16938e588bb706db899eb3]
+## SCHEDULE 2 — REMEDIATION NOTICE[^c-9bce1e7985ebc7de8f515736c3ff94d3][^c-a4f9750b9e16938e588bb706db899eb3]
 
 Regulation 4
 
@@ -318,7 +318,7 @@ Regulation 4
 
 Regulation 6
 
-### 1. Interpretation[^key-270df166208dc2d364dc9212c1cee6d4]
+### 1. Interpretation[^c-270df166208dc2d364dc9212c1cee6d4]
 
 In this Schedule–
 
@@ -326,7 +326,7 @@ In this Schedule–
 - “grantor” means a person who has granted, or joined in the granting of, any rights pursuant to section 78G(2);
 - “relevant interest” means an interest in land in respect of which rights have been granted pursuant to section 78G(2).
 
-### 2. Period for making an application[^key-c8b28faf433fe2422cab602cbec1e8b6]
+### 2. Period for making an application[^c-c8b28faf433fe2422cab602cbec1e8b6]
 
 An application for compensation shall be made within the period beginning with the date of the grant of the rights in respect of which compensation is claimed and ending on whichever is the latest of the following dates:–
 
@@ -334,7 +334,7 @@ An application for compensation shall be made within the period beginning with t
 - (b) where an appeal is made against a remediation notice in respect of which the rights in question have been granted, and the effect of the notice is suspended by virtue of regulation 13 of these Regulations, twelve months after the date of the final determination or abandonment of the appeal; or
 - (c) six months after the date on which the rights were first exercised.
 
-### 3. Manner of making an application[^key-daab69789084dab7d217c9f200845b3b]
+### 3. Manner of making an application[^c-daab69789084dab7d217c9f200845b3b]
 
 (1) An application shall be made in writing (or in electronic form) and shall be delivered at or sent by pre-paid post to the last known address for correspondence of the appropriate person to whom the rights were granted.
 
@@ -344,7 +344,7 @@ An application for compensation shall be made within the period beginning with t
 - (b) a description of the exact nature of any interest in land in respect of which compensation is applied for; and
 - (c) a statement of the amount of compensation applied for, distinguishing the amounts applied for under each of sub-paragraphs (a) to (e) of paragraph 4 below, and showing how the amount applied for under each sub-paragraph has been calculated.
 
-### 4. Loss and damage for which compensation payable[^key-fef3d860ad99d2a8bc993a6c197cca76]
+### 4. Loss and damage for which compensation payable[^c-fef3d860ad99d2a8bc993a6c197cca76]
 
 Subject to paragraph 5(3) and (5)(b) below, compensation is payable under section 78G for loss and damage of the following descriptions:–
 
@@ -357,7 +357,7 @@ Subject to paragraph 5(3) and (5)(b) below, compensation is payable under sectio
 - (d) damage to, or injurious affection of, any interest in land to which the grantor is entitled which is not a relevant interest, and which results from the grant of the rights or the exercise of them; and
 - (e) loss in respect of work carried out by or on behalf of the grantor which is rendered abortive by the grant of the rights or the exercise of them.
 
-### 5. Basis on which compensation assessed[^key-1d68aa6abd3743d605c2469305755e16]
+### 5. Basis on which compensation assessed[^c-1d68aa6abd3743d605c2469305755e16]
 
 (1) The following provisions shall have effect for the purpose of assessing the amount to be paid by way of compensation under section 78G.
 
@@ -374,7 +374,7 @@ Subject to paragraph 5(3) and (5)(b) below, compensation is payable under sectio
 
 (6) Compensation under section 78G shall include an amount equal to the grantor’s reasonable valuation and legal expenses.
 
-### 6. Payment of compensation and determination of disputes[^key-eb51b8b36ca07987f5aa57bccd9730a9]
+### 6. Payment of compensation and determination of disputes[^c-eb51b8b36ca07987f5aa57bccd9730a9]
 
 (1) Compensation payable under section 78G in respect of an interest which is subject to a standard security shall be paid (subject to the maximum sum due thereunder) to the creditor in that security or, if there is more than one such creditor, to the first ranking creditor and shall, in either case, be applied by him as if it were proceeds of sale.
 
@@ -391,7 +391,7 @@ Subject to paragraph 5(3) and (5)(b) below, compensation is payable under sectio
 - (a) the reference in section 9(1) of the Act to section 8 were a reference to sub-paragraph (3) of this paragraph; and
 - (b) references in section 11 of the Act to the acquiring authority were references to the appropriate person.
 
-### 7. Interest on compensation[^key-c498059209a703dcc17b4c8554e0a0b5]
+### 7. Interest on compensation[^c-c498059209a703dcc17b4c8554e0a0b5]
 
 (1) Compensation payable under section 78G shall carry interest at the rate for the time being prescribed under section 40 of the Act from the date of the grant of the rights in respect of which compensation is claimed until payment.
 
@@ -410,53 +410,53 @@ Regulation 14
 
 A register maintained by an enforcing authority under section 78R shall contain full particulars of the following matters:–
 
-### 1. Identification notices[^key-b848268197587886a5d14818ac9f63d3]
+### 1. Identification notices[^c-b848268197587886a5d14818ac9f63d3]
 
 Where the authority identifies any contaminated land in its area under section 78B(3), the notice given under that subsection.
 
-### 2. Remediation notices[^key-fb5ac6a6b3f97b0bfc061d9afee56661]
+### 2. Remediation notices[^c-fb5ac6a6b3f97b0bfc061d9afee56661]
 
 In relation to a remediation notice served by the authority–
 
 - (a) the name and address of the person on whom the notice is served;
 - (b) the location and extent of the contaminated land to which the notice relates (in this paragraph referred to as the “contaminated land in question”), sufficient to enable it to be identified whether by reference to a plan or otherwise;
-- (c)[^key-a7e80f3824eccd5d32ca62ac5687b5c3] the significant harm or significant pollution of the water environment by reason of which the contaminated land in question is contaminated land;
+- (c)[^c-a7e80f3824eccd5d32ca62ac5687b5c3] the significant harm or significant pollution of the water environment by reason of which the contaminated land in question is contaminated land;
 - (d) the substances by reason of which the contaminated land in question is contaminated land and, if any of the substances have escaped from other land, the location of that other land;
 - (e) the current use of the contaminated land in question;
 - (f) what each appropriate person is to do by way of remediation and the periods within which they are required to do each of the things; and
 - (g) the date of the notice.
 
-### 3. Appeals against remediation notices[^key-287b87243f26198a5238ba914fff8c58]
+### 3. Appeals against remediation notices[^c-287b87243f26198a5238ba914fff8c58]
 
 Any appeal against a remediation notice served by the authority, including the name and address of the appellant, and the date of the appeal.
 
-### 4.[^key-e5452df275cb444a9a2682afb0a300ca]
+### 4.[^c-e5452df275cb444a9a2682afb0a300ca]
 
 Any decision on such an appeal.
 
-### 5. Remediation declarations[^key-9120a20a07cf8310cd917cc1d06949f8]
+### 5. Remediation declarations[^c-9120a20a07cf8310cd917cc1d06949f8]
 
 Any remediation declaration prepared and published by the authority under section 78H(6).
 
-### 6.[^key-33799dc8091287655fc77aee58c4e8f7]
+### 6.[^c-33799dc8091287655fc77aee58c4e8f7]
 
 In relation to any such remediation declaration–
 
 - (a) the location and extent of the contaminated land in question, sufficient to enable it to be identified whether by reference to a plan or otherwise; and
 - (b) the matters referred to in sub-paragraphs (c), (d) and (e) of paragraph 2 above.
 
-### 7. Remediation statements[^key-9f67e848a7dd0ee2c10c3dc21927b228]
+### 7. Remediation statements[^c-9f67e848a7dd0ee2c10c3dc21927b228]
 
 Any remediation statement prepared and published by the responsible person under section 78H(7) or by the authority under section 78H(9).
 
-### 8.[^key-b33f100dc2c0dd67b156214f761fc6e7]
+### 8.[^c-b33f100dc2c0dd67b156214f761fc6e7]
 
 In relation to any such remediation statement–
 
 - (a) the location and extent of the contaminated land in question, sufficient to enable it to be identified whether by reference to a plan or otherwise; and
 - (b) the matters referred to in sub-paragraphs (c), (d) and (e) of paragraph 2 above.
 
-### 9. Designation of special sites[^key-ded0ce5c308f9210e3980e03150a5e09]
+### 9. Designation of special sites[^c-ded0ce5c308f9210e3980e03150a5e09]
 
 In the case of SEPA, as respects any land in relation to which it is the enforcing authority, and in the case of a local authority, as respects any land in its area–
 
@@ -465,27 +465,27 @@ In the case of SEPA, as respects any land in relation to which it is the enforci
 - (c) any notice given by SEPA under section 78Q(1)(a) of its decision to adopt a remediation notice; and
 - (d) any notice given by or to the enforcing authority under section 78Q(4) terminating the designation of any land as a special site.
 
-### 10. Notification of claimed remediation[^key-76dea72d7e91c94b1f0e206efeaab558]
+### 10. Notification of claimed remediation[^c-76dea72d7e91c94b1f0e206efeaab558]
 
 Any notification given to the authority for the purposes of section 78R(1)(h) or (j).
 
-### 11. Convictions for offences under section 78M[^key-b5d707ef237cee748918f7a6a6850a15]
+### 11. Convictions for offences under section 78M[^c-b5d707ef237cee748918f7a6a6850a15]
 
 Any conviction of a person for any offence under section 78M in relation to a remediation notice served by the authority, including the name of the offender, the date of conviction, the penalty imposed and the name of the Court.
 
-### 12. Guidance issued under section 78V(1)[^key-b410d73cdb9ed624965f10bfd2d2da77]
+### 12. Guidance issued under section 78V(1)[^c-b410d73cdb9ed624965f10bfd2d2da77]
 
 In the case of SEPA, the date of any guidance issued by it under section 78V(1) and, in the case of a local authority, the date of any guidance issued by SEPA to it under that sub-section.
 
-### 13. Other environmental controls[^key-1ad9b562021431de5934c53eb2e1fbb0]
+### 13. Other environmental controls[^c-1ad9b562021431de5934c53eb2e1fbb0]
 
-Where the authority is precluded by virtue of section 78YB(1) or 78YB(2B)[^key-4e58b15c0ac4251924dfb99ff89774f7] from serving a remediation notice–
+Where the authority is precluded by virtue of section 78YB(1) or 78YB(2B)[^c-4e58b15c0ac4251924dfb99ff89774f7] from serving a remediation notice–
 
 - (a) the location and extent of the contaminated land in question, sufficient to enable it to be identified whether by reference to a plan or otherwise;
 - (b) the matters referred to in sub-paragraphs (c), (d) and (e) of paragraph 2 above; and
-- (c)[^key-595f59315e1ae51514b0142b233e825c] any steps of which the authority has knowledge, carried out under section 27, or by means of enforcement action (within the meaning of section 78YB(2C)) towards remedying any significant harm or significant pollution of the water environment by reason of which the land in question is contaminated land.
+- (c)[^c-595f59315e1ae51514b0142b233e825c] any steps of which the authority has knowledge, carried out under section 27, or by means of enforcement action (within the meaning of section 78YB(2C)) towards remedying any significant harm or significant pollution of the water environment by reason of which the land in question is contaminated land.
 
-### 14.[^key-695f618fcd65e494f06e4c5276169726]
+### 14.[^c-695f618fcd65e494f06e4c5276169726]
 
 Where the authority is precluded by virtue of section 78YB(3) from serving a remediation notice in respect of land which is contaminated land by reason of the deposit of controlled waste or any consequences of its deposit–
 
@@ -493,7 +493,7 @@ Where the authority is precluded by virtue of section 78YB(3) from serving a rem
 - (b) the matters referred to in sub-paragraphs (c), (d) and (e) of paragraph 2 above; and
 - (c) any steps of which the authority has knowledge, carried out under section 59, in relation to that waste or the consequences of its deposit, including in a case where a waste collection authority (within the meaning of section 30(3)) took those steps or required the steps to be taken, the name of that authority.
 
-### 15.[^key-d3198918ec0b0fc6bd3ce58fb1cd44b9]
+### 15.[^c-d3198918ec0b0fc6bd3ce58fb1cd44b9]
 
 Where, as a result of a consent given under Part II of the Control of Pollution Act 1974)[^f00018], the authority is precluded by virtue of section 78YB(4) from specifying in a remediation notice any particular thing by way of remediation which it would otherwise have specified in such a notice–
 
@@ -521,19 +521,19 @@ A regulatory impact assessment of the effect of these Regulations has been prepa
 
 [^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Sections 78A to 78YC were inserted by section 57 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25). See the definition of “prescribed” in section 78A(9). The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-f7dc73996e59ef69f659a1bd523ae128]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2000/178/regulation/1) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-f7dc73996e59ef69f659a1bd523ae128]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2000/178/regulation/1) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-a65163778166bf3e1f6b57b59c20eb63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2000/178/regulation/2) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-a65163778166bf3e1f6b57b59c20eb63]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2000/178/regulation/2) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-f07d1087d625546843e241b49dd5c232]: Textual amendment: Reg. 2(1)(da) inserted (28.9.2000) by [The Pollution Prevention and Control (Scotland) Regulations 2000 (S.S.I. 2000/323)](https://www.legislation.gov.uk/ssi/2000/323), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/323/regulation/1/1), [sch. 10 para. 17(2)(a)](https://www.legislation.gov.uk/ssi/2000/323/schedule/10/paragraph/17/2/a) (with [reg. 34](https://www.legislation.gov.uk/ssi/2000/323/regulation/34))
+[^c-f07d1087d625546843e241b49dd5c232]: Textual amendment: Reg. 2(1)(da) inserted (28.9.2000) by [The Pollution Prevention and Control (Scotland) Regulations 2000 (S.S.I. 2000/323)](https://www.legislation.gov.uk/ssi/2000/323), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/323/regulation/1/1), [sch. 10 para. 17(2)(a)](https://www.legislation.gov.uk/ssi/2000/323/schedule/10/paragraph/17/2/a) (with [reg. 34](https://www.legislation.gov.uk/ssi/2000/323/regulation/34))
 
-[^key-62187245b4145146784005998ac719e3]: Textual amendment: Words in reg. 2(1)(da) omitted (7.1.2013) by virtue of [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1), [sch. 11 para. 10(2)(a)](https://www.legislation.gov.uk/ssi/2012/360/schedule/11/paragraph/10) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-62187245b4145146784005998ac719e3]: Textual amendment: Words in reg. 2(1)(da) omitted (7.1.2013) by virtue of [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1), [sch. 11 para. 10(2)(a)](https://www.legislation.gov.uk/ssi/2012/360/schedule/11/paragraph/10) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
 
 [^f00002]: Footnote: [1974 c. 6](https://www.legislation.gov.uk/ukpga/1974/6).
 
-[^key-af4d13adebd8e6446bc5f04900b99b44]: Textual amendment: Reg. 2(1)(i) and word inserted (30.10.2007) by [The Radioactive Contaminated Land (Scotland) Regulations 2007 (S.S.I. 2007/179)](https://www.legislation.gov.uk/ssi/2007/179), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2007/179/regulation/17)
+[^c-af4d13adebd8e6446bc5f04900b99b44]: Textual amendment: Reg. 2(1)(i) and word inserted (30.10.2007) by [The Radioactive Contaminated Land (Scotland) Regulations 2007 (S.S.I. 2007/179)](https://www.legislation.gov.uk/ssi/2007/179), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/179/regulation/1/1), [17](https://www.legislation.gov.uk/ssi/2007/179/regulation/17)
 
-[^key-9b6d4f992b5c8897fb843e9ee24b327b]: Textual amendment: Reg. 2(3A) substituted (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1), [sch. 11 para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2012/360/schedule/11/paragraph/10) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-9b6d4f992b5c8897fb843e9ee24b327b]: Textual amendment: Reg. 2(3A) substituted (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations 2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1), [sch. 11 para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2012/360/schedule/11/paragraph/10) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
 
 [^f00003]: Footnote: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57). See section 26(1).
 
@@ -543,106 +543,106 @@ A regulatory impact assessment of the effect of these Regulations has been prepa
 
 [^f00006]: Footnote: [1996 c. 6](https://www.legislation.gov.uk/ukpga/1996/6).
 
-[^key-96672176260d046cfe2d44fa97ad8862]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2000/178/regulation/3) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(2)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/2)
+[^c-96672176260d046cfe2d44fa97ad8862]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2000/178/regulation/3) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(2)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/2)
 
-[^key-ae74373aeb8c3a5c55ab51da0803d20d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2000/178/regulation/4) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-ae74373aeb8c3a5c55ab51da0803d20d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2000/178/regulation/4) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
 [^f00010]: Footnote: See section 78E(1) for the meaning of “remediation notice”.
 
-[^key-2fc2382686d67086e30c3eb9cdf9c022]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2000/178/regulation/5) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-2fc2382686d67086e30c3eb9cdf9c022]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2000/178/regulation/5) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-2e55bc612aabe200da91700e8b4290ee]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2000/178/regulation/5/2) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/3)
+[^c-2e55bc612aabe200da91700e8b4290ee]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2000/178/regulation/5/2) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/3)
 
-[^key-22a78584ed27792c6c4c40b9f6a47c80]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2000/178/regulation/6) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-22a78584ed27792c6c4c40b9f6a47c80]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2000/178/regulation/6) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-8f1843d55e8c4089c1568a84c12d72f6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2000/178/regulation/7) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-8f1843d55e8c4089c1568a84c12d72f6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2000/178/regulation/7) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-735038dd68a9fbc2546157c260877f59]: Textual amendment: Words in [reg. 7(1)(h)](https://www.legislation.gov.uk/ssi/2000/178/regulation/7/1/h) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/3)
+[^c-735038dd68a9fbc2546157c260877f59]: Textual amendment: Words in [reg. 7(1)(h)](https://www.legislation.gov.uk/ssi/2000/178/regulation/7/1/h) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/3)
 
-[^key-1e0ef8ea39c8e56e3cc831b0263778d7]: Textual amendment: Words in [reg. 7(1)(j)](https://www.legislation.gov.uk/ssi/2000/178/regulation/7/1/j) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/3)
+[^c-1e0ef8ea39c8e56e3cc831b0263778d7]: Textual amendment: Words in [reg. 7(1)(j)](https://www.legislation.gov.uk/ssi/2000/178/regulation/7/1/j) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/3)
 
 [^f00011]: Footnote: See section 78X(4) for the definition of “person acting in a relevant capacity”.
 
-[^key-7f6b023e0b16ae0194d6407a928c9df6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2000/178/regulation/8) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-7f6b023e0b16ae0194d6407a928c9df6]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2000/178/regulation/8) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-b243ef8de42d8fcac64bd287d7c87d18]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2000/178/regulation/9) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-b243ef8de42d8fcac64bd287d7c87d18]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2000/178/regulation/9) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-090f0afdd22842cfd7d95fc239633f78]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2000/178/regulation/10) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-090f0afdd22842cfd7d95fc239633f78]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2000/178/regulation/10) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
 [^f00012]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-1bab48e59d35838fb23f04fca245a832]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2000/178/regulation/11) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-1bab48e59d35838fb23f04fca245a832]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2000/178/regulation/11) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-9b098b12b991783766f6e76f4c285615]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2000/178/regulation/12) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-9b098b12b991783766f6e76f4c285615]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2000/178/regulation/12) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-d6add633dd7ea9ecca4ed297e6c2b603]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2000/178/regulation/13) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-d6add633dd7ea9ecca4ed297e6c2b603]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2000/178/regulation/13) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
 [^f00013]: Footnote: The period specified in section 78L(1) is the period of twenty-one days beginning with the day on which the notice is served.
 
-[^key-87dcd30a59863fafc792fe6e2561d113]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2000/178/regulation/14) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-87dcd30a59863fafc792fe6e2561d113]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2000/178/regulation/14) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-f73258e6e2de3bd1d362742646db53de]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2000/178/schedule/1) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-f73258e6e2de3bd1d362742646db53de]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2000/178/schedule/1) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-9bce1e7985ebc7de8f515736c3ff94d3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2000/178/schedule/2) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-9bce1e7985ebc7de8f515736c3ff94d3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2000/178/schedule/2) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-a4f9750b9e16938e588bb706db899eb3]: Textual amendment: Sch. 2, in the form of remediation notice, the words “the water environment” substituted for “controlled waters” wherever the expression occurs (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/3)
+[^c-a4f9750b9e16938e588bb706db899eb3]: Textual amendment: Sch. 2, in the form of remediation notice, the words “the water environment” substituted for “controlled waters” wherever the expression occurs (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/3)
 
-[^key-270df166208dc2d364dc9212c1cee6d4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/1) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-270df166208dc2d364dc9212c1cee6d4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/1) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
 [^f00014]: Footnote: [1963 c. 51](https://www.legislation.gov.uk/ukpga/1963/51).
 
-[^key-c8b28faf433fe2422cab602cbec1e8b6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/2) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-c8b28faf433fe2422cab602cbec1e8b6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/2) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-daab69789084dab7d217c9f200845b3b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/3) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-daab69789084dab7d217c9f200845b3b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/3) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-fef3d860ad99d2a8bc993a6c197cca76]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/4) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-fef3d860ad99d2a8bc993a6c197cca76]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/4) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
 [^f00015]: Footnote: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 
-[^key-1d68aa6abd3743d605c2469305755e16]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/5) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-1d68aa6abd3743d605c2469305755e16]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/5) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
 [^f00016]: Footnote: Section 12 was repealed in part by the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), Schedules 17 and 19.
 
 [^f00017]: Footnote: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).
 
-[^key-eb51b8b36ca07987f5aa57bccd9730a9]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/6) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-eb51b8b36ca07987f5aa57bccd9730a9]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/6) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-c498059209a703dcc17b4c8554e0a0b5]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/7) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-c498059209a703dcc17b4c8554e0a0b5]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2000/178/schedule/3/paragraph/7) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-b848268197587886a5d14818ac9f63d3]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/1) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-b848268197587886a5d14818ac9f63d3]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/1) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-fb5ac6a6b3f97b0bfc061d9afee56661]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/2) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-fb5ac6a6b3f97b0bfc061d9afee56661]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/2) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-a7e80f3824eccd5d32ca62ac5687b5c3]: Textual amendment: [Sch. 4 para. 2(c)](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/2/c) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(4)(a)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/4/a)
+[^c-a7e80f3824eccd5d32ca62ac5687b5c3]: Textual amendment: [Sch. 4 para. 2(c)](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/2/c) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(4)(a)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/4/a)
 
-[^key-287b87243f26198a5238ba914fff8c58]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/3) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-287b87243f26198a5238ba914fff8c58]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/3) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-e5452df275cb444a9a2682afb0a300ca]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/4) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-e5452df275cb444a9a2682afb0a300ca]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/4) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-9120a20a07cf8310cd917cc1d06949f8]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/5) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-9120a20a07cf8310cd917cc1d06949f8]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/5) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-33799dc8091287655fc77aee58c4e8f7]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/6) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-33799dc8091287655fc77aee58c4e8f7]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/6) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-9f67e848a7dd0ee2c10c3dc21927b228]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/7) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-9f67e848a7dd0ee2c10c3dc21927b228]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/7) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-b33f100dc2c0dd67b156214f761fc6e7]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/8) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-b33f100dc2c0dd67b156214f761fc6e7]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/8) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-ded0ce5c308f9210e3980e03150a5e09]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/9) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-ded0ce5c308f9210e3980e03150a5e09]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/9) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-76dea72d7e91c94b1f0e206efeaab558]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/10) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-76dea72d7e91c94b1f0e206efeaab558]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/10) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-b5d707ef237cee748918f7a6a6850a15]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/11) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-b5d707ef237cee748918f7a6a6850a15]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/11) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-b410d73cdb9ed624965f10bfd2d2da77]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/12) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-b410d73cdb9ed624965f10bfd2d2da77]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/12) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-1ad9b562021431de5934c53eb2e1fbb0]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/13) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-1ad9b562021431de5934c53eb2e1fbb0]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/13) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-4e58b15c0ac4251924dfb99ff89774f7]: Textual amendment: Words in [sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/13) inserted (28.9.2000) by [The Pollution Prevention and Control (Scotland) Regulations 2000 (S.S.I. 2000/323)](https://www.legislation.gov.uk/ssi/2000/323), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/323/regulation/1/1), [sch. 10 para. 17(3)(a)](https://www.legislation.gov.uk/ssi/2000/323/schedule/10/paragraph/17/3/a) (with [reg. 34](https://www.legislation.gov.uk/ssi/2000/323/regulation/34))
+[^c-4e58b15c0ac4251924dfb99ff89774f7]: Textual amendment: Words in [sch. 4 para. 13](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/13) inserted (28.9.2000) by [The Pollution Prevention and Control (Scotland) Regulations 2000 (S.S.I. 2000/323)](https://www.legislation.gov.uk/ssi/2000/323), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/323/regulation/1/1), [sch. 10 para. 17(3)(a)](https://www.legislation.gov.uk/ssi/2000/323/schedule/10/paragraph/17/3/a) (with [reg. 34](https://www.legislation.gov.uk/ssi/2000/323/regulation/34))
 
-[^key-595f59315e1ae51514b0142b233e825c]: Textual amendment: [Sch. 4 para. 13(c)](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/13/c) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/4/b)
+[^c-595f59315e1ae51514b0142b233e825c]: Textual amendment: [Sch. 4 para. 13(c)](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/13/c) substituted (1.4.2006) by [The Contaminated Land (Scotland) Regulations 2005 (S.S.I. 2005/658)](https://www.legislation.gov.uk/ssi/2005/658), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2005/658/regulation/1/3), [3(4)(b)](https://www.legislation.gov.uk/ssi/2005/658/regulation/3/4/b)
 
-[^key-695f618fcd65e494f06e4c5276169726]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/14) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-695f618fcd65e494f06e4c5276169726]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/14) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
-[^key-d3198918ec0b0fc6bd3ce58fb1cd44b9]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/15) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
+[^c-d3198918ec0b0fc6bd3ce58fb1cd44b9]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ssi/2000/178/schedule/4/paragraph/15) in force at 14.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2000/178/regulation/1/1)
 
 [^f00018]: Footnote: Section 9 was amended by the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65), Schedule 33, paragraph 7(2).

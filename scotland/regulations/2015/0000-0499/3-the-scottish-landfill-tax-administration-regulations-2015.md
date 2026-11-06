@@ -46,13 +46,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-36542fee0a1ab8dd751b648d1af3e016]
+### 1. Citation and commencement[^c-36542fee0a1ab8dd751b648d1af3e016]
 
 (1) These Regulations may be cited as the Scottish Landfill Tax (Administration) Regulations 2015.
 
 (2) These Regulations come into force on 1st April 2015, except this Part and Part 2 which come into force on 16th February 2015.
 
-### 2. Interpretation[^key-fba5169daea64f5d92f7a84c2529fa19]
+### 2. Interpretation[^c-fba5169daea64f5d92f7a84c2529fa19]
 
 (1) In these Regulations—
 
@@ -75,21 +75,21 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 - “return” means a return which is required to be made in accordance with regulation 10;
 - “the RSTP Act” means the Revenue Scotland and Tax Powers Act 2014[^f00002];
 - “taxable business” means a business or part of a business in the course of which taxable activities (which expression has the meaning given in section 21(1) of the Act) are carried out;
-- “transfer note” means a[^key-889fda7292e189e0653a5f39ab127fbd] transfer note within the meaning of the Environmental Protection (Duty of Care) (Scotland) Regulations 2014[^f00003];
-- “transfer station”[^key-d00e4fd37a2d258de014bffff5e1d6c7] is a facility authorised by SEPA for the storage or treatment of waste, or both, and which sends more than 2,500T[^key-fab8ea09c2b82b741f2f10cc281be8d4] of waste per annum offsite for the purpose of landfill, with a destination either inside Scotland or in the rest of the UK;
+- “transfer note” means a[^c-889fda7292e189e0653a5f39ab127fbd] transfer note within the meaning of the Environmental Protection (Duty of Care) (Scotland) Regulations 2014[^f00003];
+- “transfer station”[^c-d00e4fd37a2d258de014bffff5e1d6c7] is a facility authorised by SEPA for the storage or treatment of waste, or both, and which sends more than 2,500T[^c-fab8ea09c2b82b741f2f10cc281be8d4] of waste per annum offsite for the purpose of landfill, with a destination either inside Scotland or in the rest of the UK;
 - “working day” means any day of the week except Saturday, Sunday or a day which is a bank holiday or public holiday for Scotland.
 
 (2) In these Regulations any question whether a person is connected with another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^f00004].
 
 ## PART 2 — Registration and provision for special cases
 
-### 3. Notification of liability to be registered[^key-0f1a883fdab8eb0637439a035c698374]
+### 3. Notification of liability to be registered[^c-0f1a883fdab8eb0637439a035c698374]
 
 (1) A person who is required by section 22(3) of the Act to notify Revenue Scotland of an intention to carry out taxable activities shall do so in accordance with Revenue Scotland administrative arrangements, including the formatting of the notification.
 
 (2) The notification referred to in this regulation shall be made within 30 days of the earliest date after 15th February 2015 on which the person either forms or continues to have the intention to carry out taxable activities.
 
-### 4. Changes in particulars[^key-447b265eb45383e5f4a43def97e63a41]
+### 4. Changes in particulars[^c-447b265eb45383e5f4a43def97e63a41]
 
 (1) A person who has made a notification under regulation 3, whether or not it was made in accordance with paragraph (2) of that regulation, shall, within 30 days of—
 
@@ -122,14 +122,14 @@ any of the information which was contained in or provided with the notification,
 
 (7) For the purposes of paragraph (6) above, it is immaterial whether or not the registered person has notified Revenue Scotland of any change which has occurred in accordance with paragraphs (1) to (3) above.
 
-### 5. Notification of cessation of taxable activities[^key-86d6d452331712c1074d71851133d2e8]
+### 5. Notification of cessation of taxable activities[^c-86d6d452331712c1074d71851133d2e8]
 
 A person who is required by section 22(4) of the Act to notify Revenue Scotland of the person’s having ceased to have the intention to carry out taxable activities shall, within 30 days of the person’s so having ceased, notify Revenue Scotland in writing and shall therein inform it of—
 
 - (a) the date on which the person ceased to have the intention of carrying out taxable activities; and
 - (b) if different, the date on which the person ceased to carry out taxable activities.
 
-### 6. Transfer of a going concern[^key-1a6a4012e87cf6647ab911c7cf4178e1]
+### 6. Transfer of a going concern[^c-1a6a4012e87cf6647ab911c7cf4178e1]
 
 (1) Where—
 
@@ -163,7 +163,7 @@ by either the transferor or the transferee, it shall be treated as having been d
 
 then, whether or not the transferee has been registered under paragraph (1) above with the registration number previously allocated to the transferor, any entitlement to credit arising under Part 5 of these Regulations shall become the entitlement of the transferee.
 
-### 7. Representation of unincorporated body[^key-c5e24c2702a8f1d0a027c9d518028eba]
+### 7. Representation of unincorporated body[^c-c5e24c2702a8f1d0a027c9d518028eba]
 
 (1) Where anything is required to be done by or under the Act (whether by these Regulations or otherwise) by or on behalf of an unincorporated body other than a partnership, it shall be the joint and several responsibility of—
 
@@ -177,7 +177,7 @@ but, subject to paragraph (2) below, if it is done by any of the persons referre
 
 (3) Where anything is required to be done by or under the Act (whether by these Regulations or otherwise) by or on behalf of a partnership, it shall be the joint and several responsibility of every partner; but if it is done by one partner or, in the case of a partnership whose principal place of business is in Scotland, by any other person authorised by the partnership with respect thereto that shall be sufficient compliance with any such requirement.
 
-### 8. Bankruptcy or incapacity of registrable persons[^key-fb4204a61c362b11bbb02acd73863278]
+### 8. Bankruptcy or incapacity of registrable persons[^c-fb4204a61c362b11bbb02acd73863278]
 
 (1) If a registrable person becomes bankrupt or incapacitated, Revenue Scotland may, from the date on which the registrable person became bankrupt or incapacitated, as the case may be, treat as a registrable person any person carrying on any taxable business of the registrable person; and any legislation relating to Scottish landfill tax shall apply to any person so treated as though that person were a registered person.
 
@@ -189,7 +189,7 @@ but, subject to paragraph (2) below, if it is done by any of the persons referre
 - (b) the bankruptcy is discharged or the incapacity ceases; or
 - (c) the person ceases carrying on the business of the registrable person.
 
-(4)[^key-c0e32ce32ef15a9434210bdd7e1c814e] A body corporate becomes bankrupt or incapacitated when it—
+(4)[^c-c0e32ce32ef15a9434210bdd7e1c814e] A body corporate becomes bankrupt or incapacitated when it—
 
 - (a) goes into liquidation;
 - (b) enters administration under Part 2 of the Insolvency Act 1986 or Part 3 of the Insolvency (Northern Ireland) Order 1989; or
@@ -211,11 +211,11 @@ but, subject to paragraph (2) below, if it is done by any of the persons referre
 
 ## PART 3 — Accounting, payment, and non-disposal areas
 
-### 9. Interpretation[^key-59b700621be29d85be099b7fd702f293]
+### 9. Interpretation[^c-59b700621be29d85be099b7fd702f293]
 
 In this Part, the first accounting period of a registrable person shall begin on the effective date of registration.
 
-### 10. Making of returns[^key-60e4e41bf220301e781eab975b2be9b0]
+### 10. Making of returns[^c-60e4e41bf220301e781eab975b2be9b0]
 
 (1) Subject to paragraph (3) below and save as Revenue Scotland may otherwise allow, a registrable person shall, in respect of each accounting period, make a return to Revenue Scotland.
 
@@ -229,7 +229,7 @@ In this Part, the first accounting period of a registrable person shall begin on
 
 and any person to whom Revenue Scotland gives any direction such as is referred to in this regulation shall comply therewith.
 
-### 11. Payment of tax[^key-b90939993fef743150028e10923266b4]
+### 11. Payment of tax[^c-b90939993fef743150028e10923266b4]
 
 (1) Where a return is to be made under regulation 10, the tax or additional tax payable must be paid to Revenue Scotland at the same time as the return is made.
 
@@ -243,9 +243,9 @@ and any person to whom Revenue Scotland gives any direction such as is referred 
 
 (6) Revenue Scotland shall not be obliged to reimburse any tax owed by it to an operator (as defined in section 12(2) of the Act) until any outstanding tax return has been made by the operator and tax in respect of the return has been paid to Revenue Scotland.
 
-(7) See section 83 of the RSTP Act for the taxpayer’s right to amend a return and sections 109 to 112[^key-95f6f3c6932ab1f755111b912c09ed87] of that Act in respect of defences by Revenue Scotland of unjustified enrichment in respect of a claim by the taxpayer for reimbursement in respect of an overpayment of tax.
+(7) See section 83 of the RSTP Act for the taxpayer’s right to amend a return and sections 109 to 112[^c-95f6f3c6932ab1f755111b912c09ed87] of that Act in respect of defences by Revenue Scotland of unjustified enrichment in respect of a claim by the taxpayer for reimbursement in respect of an overpayment of tax.
 
-### 12. Non-disposal areas[^key-c0e1568e8cfbda68133eceb3e2b04ef5]
+### 12. Non-disposal areas[^c-c0e1568e8cfbda68133eceb3e2b04ef5]
 
 (1) An officer of Revenue Scotland is authorised to require a person to designate a part of a landfill site (a “non-disposal area”), and a person must designate a non-disposal area if so required.
 
@@ -264,7 +264,7 @@ and any person to whom Revenue Scotland gives any direction such as is referred 
 
 ## PART 4 — Credit: general
 
-### 13. Interpretation[^key-ef2d9ae64bbff1b6486264e7fa5b88b0]
+### 13. Interpretation[^c-ef2d9ae64bbff1b6486264e7fa5b88b0]
 
 In this Part—
 
@@ -275,13 +275,13 @@ In this Part—
 - “relevant amount” means the amount of the credit as determined in accordance with Part 5, 6 or 7 of these Regulations, as the case may be;
 - “relevant tax” means the tax, if any, that was required to have been paid as a condition of the entitlement to credit.
 
-### 14. Scope[^key-9627a4f9e951df332b0e25c774e949f2]
+### 14. Scope[^c-9627a4f9e951df332b0e25c774e949f2]
 
 (1) This Part applies to entitlements to credit arising under Part 5, 6 or 7 of these Regulations.
 
 (2) No credit arising under any provision of these Regulations may be claimed except in accordance with this Part.
 
-### 15. Claims in returns[^key-59266fe2f21897be4bf40b5cdd54f42d]
+### 15. Claims in returns[^c-59266fe2f21897be4bf40b5cdd54f42d]
 
 (1) Subject to paragraphs (2) and (3) below, a person entitled to credit may claim it by deducting its amount from any tax due from the person for the relevant accounting period or any subsequent accounting period and, where that is done, the person shall make a return for that accounting period accordingly.
 
@@ -289,7 +289,7 @@ In this Part—
 
 (3) Revenue Scotland may make directions generally or with regard to particular cases prescribing rules in accordance with which credit may or shall be held over to be credited in an accounting period subsequent to the relevant accounting period; and where such a direction has been made that credit, subject to any subsequent such direction varying or withdrawing the rules, may only be claimed in accordance with those rules.
 
-### 16. Payments in respect of credit[^key-3f78dba9d0bb6272b4eb25ad319ebc49]
+### 16. Payments in respect of credit[^c-3f78dba9d0bb6272b4eb25ad319ebc49]
 
 (1) Subject to paragraph (5) below, where the total credit claimed by a registrable person in accordance with this Part exceeds the total of the tax due from the person for the accounting period, Revenue Scotland shall pay to the person an amount equal to the excess.
 
@@ -307,7 +307,7 @@ In this Part—
 
 ## PART 5 — Credit: permanent removals etc
 
-### 17. Entitlement to credit[^key-f382e943057f6dcba086d930ab12e685]
+### 17. Entitlement to credit[^c-f382e943057f6dcba086d930ab12e685]
 
 (1) An entitlement to credit arises under this Part where—
 
@@ -318,8 +318,8 @@ In this Part—
 
 (2) The reuse condition is satisfied where—
 
-- (a) the disposal has been made with the intention that the material comprised in it would be[^key-cdb361e87a514f40d94be380a12d3978]—
-  - (i) [^key-81e6a245a0c21c29185cbcf6f9ccc62b]... recycled or incinerated;
+- (a) the disposal has been made with the intention that the material comprised in it would be[^c-cdb361e87a514f40d94be380a12d3978]—
+  - (i) [^c-81e6a245a0c21c29185cbcf6f9ccc62b]... recycled or incinerated;
   - (ii) removed for use (other than by way of a further disposal) at a place other than a relevant site; or
   - (iii) removed for use in restoration of a relevant site and the material involved has previously been used to create or maintain temporary hard standing, to create or maintain a temporary screening bund or to create or maintain a temporary haul road;
 - (b) that material, or some of it, has been recycled, incinerated or permanently removed from the landfill site, as the case may be, in accordance with that intention;
@@ -347,7 +347,7 @@ In this Part—
 
 ## PART 6 — Credit: bad debts
 
-### 18. Interpretation[^key-e670e9e92014d818ec76e7f29256b1b0]
+### 18. Interpretation[^c-e670e9e92014d818ec76e7f29256b1b0]
 
 In this Part—
 
@@ -361,7 +361,7 @@ In this Part—
   - (a) in relation to Scotland, any security (whether heritable or moveable), any floating charge and any right of lien or preference and right of retention (other than a right of compensation or set-off); and
   - (b) in relation to England, Wales and Northern Ireland, any mortgage, charge, lien or other security.
 
-### 19. Scope[^key-f5695c73bace6a01363babf2d1e0b529]
+### 19. Scope[^c-f5695c73bace6a01363babf2d1e0b529]
 
 An entitlement to credit arises under this Part where—
 
@@ -375,11 +375,11 @@ An entitlement to credit arises under this Part where—
 - (f) a period of one year (beginning with the date of the issue of that invoice) has elapsed; and
 - (g) the following provisions of this Part have been complied with.
 
-### 20. Amount of credit[^key-b19732d8ca8e67a1d96e7fc3cab4680c]
+### 20. Amount of credit[^c-b19732d8ca8e67a1d96e7fc3cab4680c]
 
 The credit arising under this Part shall be of an amount equal to such proportion of the tax charged on the relevant disposal as the outstanding amount forms of the total consideration.
 
-### 21. Evidence required in support of claim[^key-8147a6dbb4d836deceea90ff19677ff1]
+### 21. Evidence required in support of claim[^c-8147a6dbb4d836deceea90ff19677ff1]
 
 The claimant, before making a claim, shall hold in respect of each relevant disposal—
 
@@ -387,7 +387,7 @@ The claimant, before making a claim, shall hold in respect of each relevant disp
 - (b) records or any other documents showing that the claimant has accounted for and paid tax on the disposal; and
 - (c) records or any other documents showing that the consideration has been written off in the claimant’s accounts as a bad debt.
 
-### 22. Records required to be kept[^key-f7da49f684c784be423f0a9b0314c120]
+### 22. Records required to be kept[^c-f7da49f684c784be423f0a9b0314c120]
 
 (1) Any person who makes a claim shall make a record of that claim.
 
@@ -405,7 +405,7 @@ The claimant, before making a claim, shall hold in respect of each relevant disp
 
 (3) Any records made in pursuance of this regulation shall be kept in a single account known as “the landfill tax bad debt account”.
 
-### 23. Attribution of payments[^key-3cf09936b8544682203ac949c305f2b6]
+### 23. Attribution of payments[^c-3cf09936b8544682203ac949c305f2b6]
 
 (1) Where—
 
@@ -424,7 +424,7 @@ the payment shall be attributed to the taxable activity and the other matters in
 
 the payment shall be attributed to those debts by multiplying, for each such debt, the payment made by a fraction of which the numerator is the amount remaining unpaid in respect of that debt and the denominator is the amount remaining unpaid in respect of all those debts.
 
-### 24. Repayment of credit[^key-2bd42b0652e011acf24c8660b4357d11]
+### 24. Repayment of credit[^c-2bd42b0652e011acf24c8660b4357d11]
 
 (1) Where—
 
@@ -440,11 +440,11 @@ the claimant shall repay to Revenue Scotland such amount as equals the amount of
 - (a) fails to comply with the requirements of regulation 22; or
 - (b) in relation to the documents mentioned in that regulation, fails to comply with either—
   - (i) section 99(1) of the RSTP Act; or
-  - (ii) any obligation arising under section[^key-f5c8d7fe6732c2b5e7a02efe9fa6d129] 111(4)(a) of that Act,
+  - (ii) any obligation arising under section[^c-f5c8d7fe6732c2b5e7a02efe9fa6d129] 111(4)(a) of that Act,
 
 the claimant shall repay to Revenue Scotland the amount of the claim to which the failure to comply relates.
 
-### 25. Writing off debts[^key-b575cbabc997239771462dd154211d59]
+### 25. Writing off debts[^c-b575cbabc997239771462dd154211d59]
 
 (1) This regulation shall apply for the purpose of determining whether, and to what extent, the consideration is to be taken to have been written off as a bad debt.
 
@@ -463,7 +463,7 @@ the claimant shall repay to Revenue Scotland the amount of the claim to which th
 
 ## PART 7 — Credit: bodies concerned with the environment
 
-### 26. Interpretation and general provisions[^key-9efddf1099aac74494a72f62a745578d]
+### 26. Interpretation and general provisions[^c-9efddf1099aac74494a72f62a745578d]
 
 (1) In this Part—
 
@@ -478,33 +478,33 @@ the claimant shall repay to Revenue Scotland the amount of the claim to which th
     - (ii) any subsequent acquisition and disposal representing the original qualifying contributions,
 
     through any number of transactions;
-- “project” means a body which has enrolled with the approved body to receive qualifying contributions which is furthering the progress of[^key-ff1f7b31bc54dfbcf6d10de0e479bc9f] a project that meets at least one of the objects of the approved body;
+- “project” means a body which has enrolled with the approved body to receive qualifying contributions which is furthering the progress of[^c-ff1f7b31bc54dfbcf6d10de0e479bc9f] a project that meets at least one of the objects of the approved body;
 - “qualifying contribution” has the meaning given in regulation 28;
 - “the independent panel” means an independent panel to be set up by the Scottish Ministers to hear appeals from persons whose applications for approval have been refused under regulation 31(1)(a) and to hear appeals from persons whose approval under regulation 31(1)(a) has subsequently been revoked under regulation 32(1)(i);
 - “the regulatory body” means any body in relation to which an approval of Revenue Scotland under regulation 32 has effect for the time being (or in relation to which an approval of SEPA has effect for the time being, in the event that Revenue Scotland has delegated to SEPA under section 4(1)(b) of the RSTP Act its approving function under regulation 32);
 - “running costs” includes any cost incurred in connection with the management and administration of a body or its assets.
 
-(2) An approved body shall only be taken to transfer[^key-317b125d18b8c9f601ed2a0bdcd63ae8] a qualifying contribution in the course or furtherance of its approved objects—
+(2) An approved body shall only be taken to transfer[^c-317b125d18b8c9f601ed2a0bdcd63ae8] a qualifying contribution in the course or furtherance of its approved objects—
 
-- (a) in a case where the contribution is [^key-ce71c8096f2f646d1dc942b0f35a272e]... invested for the purpose of generating income, where the body so transfers[^key-044ddc984bccde7498b20cbd9a2cd347] all of that income in accordance with regulation 28(1)(a)[^key-33da01fd5512fb2800c3d1c4d345126c];
-- (b) in a case not falling within sub-paragraph (a) above, where the body becomes entitled to income, where it so transfers[^key-ef398a0538f1808420e5b41235b9e90f] both the whole of the qualifying contribution and all of that income in accordance with regulation 28(1)(a)[^key-5b7d4ee7f0803b00e6c7277e4a806fba] ; or[^key-b1bfbb1990b1db6c1e1c2d8791f8cdf9]
-- (c) in a case not falling within either of sub-paragraphs (a) and (b) above, where [^key-f0ddef82ea43e44246a117118185a596]...
-- (d) [^key-f0ddef82ea43e44246a117118185a596]...—
+- (a) in a case where the contribution is [^c-ce71c8096f2f646d1dc942b0f35a272e]... invested for the purpose of generating income, where the body so transfers[^c-044ddc984bccde7498b20cbd9a2cd347] all of that income in accordance with regulation 28(1)(a)[^c-33da01fd5512fb2800c3d1c4d345126c];
+- (b) in a case not falling within sub-paragraph (a) above, where the body becomes entitled to income, where it so transfers[^c-ef398a0538f1808420e5b41235b9e90f] both the whole of the qualifying contribution and all of that income in accordance with regulation 28(1)(a)[^c-5b7d4ee7f0803b00e6c7277e4a806fba] ; or[^c-b1bfbb1990b1db6c1e1c2d8791f8cdf9]
+- (c) in a case not falling within either of sub-paragraphs (a) and (b) above, where [^c-f0ddef82ea43e44246a117118185a596]...
+- (d) [^c-f0ddef82ea43e44246a117118185a596]...—
   - (i) it transfers any qualifying contribution or income derived therefrom to a project; and
   - (ii) that transfer is subject to a condition that the sum transferred shall be spent only in the course or furtherance of the approved body’s approved objects.
 
 (3) Any approval, or revocation of such approval, by Revenue Scotland or the regulatory body shall be given by notice in writing to the body affected and shall take effect from the date the notice is given or such later date as Revenue Scotland or, as the case may be, the regulatory body may specify in it.
 
-### 27. Entitlement to credit[^key-ff57d2176feaa734722cebfd5a56b2d6]
+### 27. Entitlement to credit[^c-ff57d2176feaa734722cebfd5a56b2d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Qualifying contributions[^key-01f624970c956fa77311fd95743b8886]
+### 28. Qualifying contributions[^c-01f624970c956fa77311fd95743b8886]
 
 (1) A payment is a qualifying contribution if—
 
-- (a) it is made by a registered person to an approved body (provided that the body [^key-712869461c3136f7c9b532636fc42fbc]... is approved by the regulatory body (as approved by Revenue Scotland under regulation 32(1)(a)) and within 2 years of the approved body having received it, it has been transferred to a project (otherwise credit is lost but the registered person shall be repaid contributions);
-- (b) it is made subject to a condition that the body shall transfer[^key-493b18c4574213d9c08a9b9d790fadfe] the sum paid or any income derived from it or both only in the course or furtherance of its approved objects;
+- (a) it is made by a registered person to an approved body (provided that the body [^c-712869461c3136f7c9b532636fc42fbc]... is approved by the regulatory body (as approved by Revenue Scotland under regulation 32(1)(a)) and within 2 years of the approved body having received it, it has been transferred to a project (otherwise credit is lost but the registered person shall be repaid contributions);
+- (b) it is made subject to a condition that the body shall transfer[^c-493b18c4574213d9c08a9b9d790fadfe] the sum paid or any income derived from it or both only in the course or furtherance of its approved objects;
 - (c) the requirements of paragraphs (2) to (5) below have been complied with in relation to that payment; and
 - (d) it is not repaid to the registered person, or a contributing third party, in the same accounting period as that in which it was made.
 
@@ -532,14 +532,14 @@ the claimant shall repay to Revenue Scotland the amount of the claim to which th
 - (a) the body to whom the sum is transferred shall be treated as having received qualifying contributions of the amount concerned; and
 - (b) that body shall be treated as having received those qualifying contributions from the registered person or persons who originally paid them (but this shall not give rise to any further entitlement to credit in respect of those contributions).
 
-### 29. Bodies eligible for approval[^key-125954dec5b06b517fc45542a59cdefe]
+### 29. Bodies eligible for approval[^c-125954dec5b06b517fc45542a59cdefe]
 
 (1) A body is eligible to be approved by the regulatory body if—
 
 - (a) it is—
   - (i) a body corporate; or
   - (ii) a trust, partnership or other unincorporated body;
-- (b) its objects are or include all[^key-941f4c3ca1eb4960688f5b134eedca91] of the objects within paragraph (5) below (approved objects);
+- (b) its objects are or include all[^c-941f4c3ca1eb4960688f5b134eedca91] of the objects within paragraph (5) below (approved objects);
 - (c) it is precluded from distributing and does not distribute any profit it makes or other income it receives;
 - (d) it applies any profit or other income to the furtherance of its objects (whether or not approved objects);
 - (e) it is precluded from applying any of its funds for the benefit of any of the persons—
@@ -573,14 +573,14 @@ the claimant shall repay to Revenue Scotland the amount of the claim to which th
 
 but shall cease to be so treated where the judge or court concerned has made a finding that the person is not or is no longer incapable of managing and administering his or her property and affairs.
 
-(5) Subject to paragraph (15) below, the objects of a body are approved objects insofar as they are [^key-8d80ee541aefd959009fc7ab4e21e59d]... the following objects—
+(5) Subject to paragraph (15) below, the objects of a body are approved objects insofar as they are [^c-8d80ee541aefd959009fc7ab4e21e59d]... the following objects—
 
 - (a) in relation to any land in Scotland the use of which for any economic, social or environmental purpose has been prevented or restricted because of the carrying on of an activity on the land which has ceased—
   - (i) reclamation, remediation or restoration; or
   - (ii) any other operation intended to facilitate economic, social or environmental use;
 
   but this is subject to paragraph (7) below;
-- (b) where it is for the protection of the environment, any community based recycling in Scotland or community based re-use and waste prevention projects in Scotland[^key-56794ce71e92d1b1cc7382942535c611], but this is subject to paragraph (8)below;
+- (b) where it is for the protection of the environment, any community based recycling in Scotland or community based re-use and waste prevention projects in Scotland[^c-56794ce71e92d1b1cc7382942535c611], but this is subject to paragraph (8)below;
 - (c) where it is for the protection of the environment, the provision, maintenance or improvement of—
   - (i) a public park in Scotland; or
   - (ii) another public amenity in Scotland,
@@ -619,20 +619,20 @@ but shall cease to be so treated where the judge or court concerned has made a f
 (9) The notices, requirements and orders mentioned in paragraphs (7) and (8) above are—
 
 - (a) a remediation notice served under section 78E of the Environmental Protection Act 1990[^f00011];
-- (b)[^key-101c7160567df4741f538f9635306f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-101c7160567df4741f538f9635306f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-101c7160567df4741f538f9635306f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-101c7160567df4741f538f9635306f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-101c7160567df4741f538f9635306f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-101c7160567df4741f538f9635306f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) a notice served under section 59 of that Act;
-- (f)[^key-d474f2f1e93c2b762f72205aa1ea50d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-d474f2f1e93c2b762f72205aa1ea50d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h)[^key-d474f2f1e93c2b762f72205aa1ea50d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (i)[^key-d912d1ff8467a2b3e4c85a6245b08c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (j)[^key-d912d1ff8467a2b3e4c85a6245b08c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-d912d1ff8467a2b3e4c85a6245b08c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-d912d1ff8467a2b3e4c85a6245b08c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-07fe59cadde2a9a4afc02af96ab29de9] a requirement imposed by the Environmental Authorisations (Scotland) Regulations 2018, or by a notice or order served, given, or made under those Regulations;
-- (n) any other notice, requirement or order by or under statute (whether by a court or other authority or otherwise) requiring the carrying out of measures or refraining from carrying out measures for the conservation or promotion of biological diversity as specified in paragraph (5)(d); [^key-8e92189dec5bb2993dd8e3af8542158a]...
-- (o) any remedial action required to be carried out under the Environmental Liability (Scotland) Regulations 2009[^f00016] ; or[^key-33dcc428d4f2622b6bff0d619940fdec]
+- (f)[^c-d474f2f1e93c2b762f72205aa1ea50d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-d474f2f1e93c2b762f72205aa1ea50d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-d474f2f1e93c2b762f72205aa1ea50d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-d912d1ff8467a2b3e4c85a6245b08c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (j)[^c-d912d1ff8467a2b3e4c85a6245b08c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-d912d1ff8467a2b3e4c85a6245b08c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-d912d1ff8467a2b3e4c85a6245b08c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-07fe59cadde2a9a4afc02af96ab29de9] a requirement imposed by the Environmental Authorisations (Scotland) Regulations 2018, or by a notice or order served, given, or made under those Regulations;
+- (n) any other notice, requirement or order by or under statute (whether by a court or other authority or otherwise) requiring the carrying out of measures or refraining from carrying out measures for the conservation or promotion of biological diversity as specified in paragraph (5)(d); [^c-8e92189dec5bb2993dd8e3af8542158a]...
+- (o) any remedial action required to be carried out under the Environmental Liability (Scotland) Regulations 2009[^f00016] ; or[^c-33dcc428d4f2622b6bff0d619940fdec]
 - (p) any remedial action required to be carried out under section 41 of the Regulatory Reform (Scotland) Act 2014.
 
 (10) The conditions mentioned in sub-paragraphs (c) and (e) of paragraph (5) above are—
@@ -669,7 +669,7 @@ to which such a person is a party.
 
 (15) The objects of a body referred to in paragraph (5) are approved subject to the condition that an approved body must not discriminate in selecting a project on the grounds of geographic location of a project (other than in respect of vicinity rules) or the objective of a project.
 
-### 30. Obligations of approved bodies[^key-652fa3af3db780d2624e07057c70797b]
+### 30. Obligations of approved bodies[^c-652fa3af3db780d2624e07057c70797b]
 
 (1) An approved body shall—
 
@@ -708,7 +708,7 @@ to which such a person is a party.
   - (i) qualifying contributions and any other income or profit whatsoever received by it during the period;
   - (ii) any expenditure made by it during the period; and
   - (iii) any balances held during the period;
-- (l) submit to the regulatory body at its request, not later than the fourteenth day following the day on which the request is made, independently audited financial accounts or financial accounts only, if independently audited financial accounts are not otherwise required by law,[^key-73c345445f5d6789981aa70941e97e93] for the approved body’s last financial year; but such a request may not be made earlier than 10 months following the end of that financial year;
+- (l) submit to the regulatory body at its request, not later than the fourteenth day following the day on which the request is made, independently audited financial accounts or financial accounts only, if independently audited financial accounts are not otherwise required by law,[^c-73c345445f5d6789981aa70941e97e93] for the approved body’s last financial year; but such a request may not be made earlier than 10 months following the end of that financial year;
 - (m) pay to the regulatory body an amount equal to 5 per cent of each qualifying contribution it receives, or such lesser amount as the regulatory body may require, towards its running costs within 14 days of receipt of a demand for payment;
 - (n) on making a transfer to a project of the whole or part of a qualifying contribution or of income derived therefrom, notify the registered person who made the qualifying contribution, and any contributing third party in relation to it, of—
   - (i) the date of the transfer;
@@ -726,7 +726,7 @@ to which such a person is a party.
 
 (4) Where an approved body submits details in accordance with a request made under paragraph (1)(j) or paragraph (1)(k) the requirement in paragraph (1)(i) shall not apply in respect of those details.
 
-### 31. Functions of the regulatory body[^key-70a1e63065a5c0e883e6233f6afce8d0]
+### 31. Functions of the regulatory body[^c-70a1e63065a5c0e883e6233f6afce8d0]
 
 (1) The regulatory body—
 
@@ -753,7 +753,7 @@ to which such a person is a party.
 
 the approval of all such bodies shall be deemed to have been revoked on the day Revenue Scotland revoked their approval of the regulatory body.
 
-### 32. Functions of Revenue Scotland[^key-ef8cf729fed58fd2c2d508c394508755]
+### 32. Functions of Revenue Scotland[^c-ef8cf729fed58fd2c2d508c394508755]
 
 (1) Revenue Scotland—
 
@@ -773,7 +773,7 @@ the approval of all such bodies shall be deemed to have been revoked on the day 
 
 (2) Without prejudice to the generality of paragraph (1)(d) above, Revenue Scotland may revoke their approval of the regulatory body where it appears to them necessary to do so for the proper operation of the credit scheme established by this Part.
 
-### 33. Repayment of credit[^key-7ef07cd52369d10ffa9721db8e843230]
+### 33. Repayment of credit[^c-7ef07cd52369d10ffa9721db8e843230]
 
 (1) Where a person has benefited from an amount of credit to which the person was entitled under this Part and Revenue Scotland serve upon the person a notice in relation to a qualifying contribution paid to an approved body—
 
@@ -839,7 +839,7 @@ the person shall pay to Revenue Scotland an amount equal to 90 per cent of the a
 
 ## PART 8 — Landfill invoices
 
-### 34. Contents of a landfill invoice[^key-39fa38ffad1c671485bced4ba9b4775b]
+### 34. Contents of a landfill invoice[^c-39fa38ffad1c671485bced4ba9b4775b]
 
 (1) An invoice is a landfill invoice if it contains the following information—
 
@@ -858,17 +858,17 @@ the person shall pay to Revenue Scotland an amount equal to 90 per cent of the a
 
 ## PART 9 — Determination of weight of material disposed of
 
-### 35. Scope[^key-1de1567700b110553a66b2cec3de2cab]
+### 35. Scope[^c-1de1567700b110553a66b2cec3de2cab]
 
 This Part applies for the purpose of determining the weight of material comprised in a disposal; and references in this Part to weight shall be construed as references to the weight of such material.
 
-### 36. Basic method[^key-78033bacd9b10cf72760dcff4fbee950]
+### 36. Basic method[^c-78033bacd9b10cf72760dcff4fbee950]
 
 (1) Except where regulation 37 or 38 applies and subject to paragraph (2) below, a registrable person shall determine weight by weighing the material concerned.
 
-(2) The weighing of the material shall be carried out at the time of the disposal [^key-e6652b468afd1054d2d37106646c34c5]...
+(2) The weighing of the material shall be carried out at the time of the disposal [^c-e6652b468afd1054d2d37106646c34c5]...
 
-### 36A. Weigh bridges[^key-bcdb16ed5bf3d8c2952869c51ab68571]
+### 36A. Weigh bridges[^c-bcdb16ed5bf3d8c2952869c51ab68571]
 
 (1) Weighing required by regulation 36 is to be carried out by way of a weigh bridge which complies with applicable weights and measures legislation.
 
@@ -876,7 +876,7 @@ This Part applies for the purpose of determining the weight of material comprise
 
 (3) Where the weigh bridge customarily used by the registrable person has broken down and in the opinion of Revenue Scotland the use of any other weigh bridge would incur unreasonable cost for the registrable person, that person must contact Revenue Scotland in order to make alternative arrangements for weighing disposals.
 
-### 37. Specified methods[^key-cbaaa337201b9627f90da5eb154e7fff]
+### 37. Specified methods[^c-cbaaa337201b9627f90da5eb154e7fff]
 
 (1) Except where regulation 38 applies, this regulation applies where Revenue Scotland has specified rules for determining weight in a notice published by it and not withdrawn by a further notice.
 
@@ -892,11 +892,11 @@ This Part applies for the purpose of determining the weight of material comprise
 
 (4) Where this regulation applies the registrable person shall determine weight in accordance with the rules in the specification (and not in accordance with the rule in regulation 36).
 
-### 38. Agreed methods[^key-e60794262c6b810b5c399c02ce064269]
+### 38. Agreed methods[^c-e60794262c6b810b5c399c02ce064269]
 
 (1) This regulation applies where—
 
-- (a) the registrable person and a designated[^key-5a8b6209fa45c4afdf10f058f8e31ad3] person have agreed in writing that weight shall be determined in accordance with rules other than those described in regulation 36 or specified under regulation 37; and
+- (a) the registrable person and a designated[^c-5a8b6209fa45c4afdf10f058f8e31ad3] person have agreed in writing that weight shall be determined in accordance with rules other than those described in regulation 36 or specified under regulation 37; and
 - (b) a direction under paragraph (3) below has not been made.
 
 (2) Rules may be agreed under this regulation as regards—
@@ -927,7 +927,7 @@ This Part applies for the purpose of determining the weight of material comprise
 
 (9) For the purposes of paragraph (8) above any water which has been extracted prior to disposal shall be deemed to be water that has been added, except that where the water extracted exceeds the quantity of water added that excess shall be deemed to have been present naturally.
 
-### 39. Penalties[^key-a10746a1c9e8f919771f1c03f82189fd]
+### 39. Penalties[^c-a10746a1c9e8f919771f1c03f82189fd]
 
 (1) Where—
 
@@ -969,109 +969,109 @@ These Regulations make provision for the administration and assurance of Scottis
 
 [^f00001]: Footnote: [2014 asp 2](https://www.legislation.gov.uk/asp/2014/2).
 
-[^key-36542fee0a1ab8dd751b648d1af3e016]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/3/regulation/1) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-36542fee0a1ab8dd751b648d1af3e016]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/3/regulation/1) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-fba5169daea64f5d92f7a84c2529fa19]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/3/regulation/2) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-fba5169daea64f5d92f7a84c2529fa19]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/3/regulation/2) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
 [^f00002]: Footnote: [2014 asp 16](https://www.legislation.gov.uk/asp/2014/16).
 
-[^key-889fda7292e189e0653a5f39ab127fbd]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/3/regulation/2/1) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2015/152/regulation/3/a)
+[^c-889fda7292e189e0653a5f39ab127fbd]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/3/regulation/2/1) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [3(a)](https://www.legislation.gov.uk/ssi/2015/152/regulation/3/a)
 
 [^f00003]: Footnote: [S.S.I. 2014/4](https://www.legislation.gov.uk/ssi/2014/4).
 
-[^key-d00e4fd37a2d258de014bffff5e1d6c7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/3/regulation/2/1) substituted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2015/152/regulation/3/b)
+[^c-d00e4fd37a2d258de014bffff5e1d6c7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/3/regulation/2/1) substituted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [3(b)](https://www.legislation.gov.uk/ssi/2015/152/regulation/3/b)
 
-[^key-fab8ea09c2b82b741f2f10cc281be8d4]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/3/regulation/2/1) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2017/139/regulation/3)
+[^c-fab8ea09c2b82b741f2f10cc281be8d4]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2015/3/regulation/2/1) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2017/139/regulation/3)
 
 [^f00004]: Footnote: [2010 c.4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-0f1a883fdab8eb0637439a035c698374]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/3/regulation/3) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-0f1a883fdab8eb0637439a035c698374]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/3/regulation/3) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-447b265eb45383e5f4a43def97e63a41]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/3/regulation/4) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-447b265eb45383e5f4a43def97e63a41]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/3/regulation/4) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-86d6d452331712c1074d71851133d2e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/3/regulation/5) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-86d6d452331712c1074d71851133d2e8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/3/regulation/5) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-1a6a4012e87cf6647ab911c7cf4178e1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/3/regulation/6) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-1a6a4012e87cf6647ab911c7cf4178e1]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/3/regulation/6) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-c5e24c2702a8f1d0a027c9d518028eba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/3/regulation/7) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-c5e24c2702a8f1d0a027c9d518028eba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/3/regulation/7) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-fb4204a61c362b11bbb02acd73863278]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/3/regulation/8) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-fb4204a61c362b11bbb02acd73863278]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/3/regulation/8) in force at 16.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-c0e32ce32ef15a9434210bdd7e1c814e]: Textual amendment: [Reg. 8(4)-(7)](https://www.legislation.gov.uk/ssi/2015/3/regulation/8/4) substituted for [reg. 8(4)](https://www.legislation.gov.uk/ssi/2015/3/regulation/8/4) (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2017/139/regulation/4)
+[^c-c0e32ce32ef15a9434210bdd7e1c814e]: Textual amendment: [Reg. 8(4)-(7)](https://www.legislation.gov.uk/ssi/2015/3/regulation/8/4) substituted for [reg. 8(4)](https://www.legislation.gov.uk/ssi/2015/3/regulation/8/4) (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2017/139/regulation/4)
 
-[^key-59b700621be29d85be099b7fd702f293]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/3/regulation/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-59b700621be29d85be099b7fd702f293]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/3/regulation/9) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-60e4e41bf220301e781eab975b2be9b0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/3/regulation/10) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-60e4e41bf220301e781eab975b2be9b0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/3/regulation/10) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-b90939993fef743150028e10923266b4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/3/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-b90939993fef743150028e10923266b4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/3/regulation/11) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-95f6f3c6932ab1f755111b912c09ed87]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/ssi/2015/3/regulation/11/7) substituted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2015/152/regulation/4)
+[^c-95f6f3c6932ab1f755111b912c09ed87]: Textual amendment: Words in [reg. 11(7)](https://www.legislation.gov.uk/ssi/2015/3/regulation/11/7) substituted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2015/152/regulation/4)
 
-[^key-c0e1568e8cfbda68133eceb3e2b04ef5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/3/regulation/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-c0e1568e8cfbda68133eceb3e2b04ef5]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/3/regulation/12) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-ef2d9ae64bbff1b6486264e7fa5b88b0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/3/regulation/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-ef2d9ae64bbff1b6486264e7fa5b88b0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/3/regulation/13) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-9627a4f9e951df332b0e25c774e949f2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/3/regulation/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-9627a4f9e951df332b0e25c774e949f2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/3/regulation/14) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-59266fe2f21897be4bf40b5cdd54f42d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/3/regulation/15) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-59266fe2f21897be4bf40b5cdd54f42d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/3/regulation/15) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-3f78dba9d0bb6272b4eb25ad319ebc49]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/3/regulation/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-3f78dba9d0bb6272b4eb25ad319ebc49]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/3/regulation/16) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-f382e943057f6dcba086d930ab12e685]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/3/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-f382e943057f6dcba086d930ab12e685]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/3/regulation/17) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-cdb361e87a514f40d94be380a12d3978]: Textual amendment: Words in [reg. 17(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/17/2/a) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/152/regulation/5/a)
+[^c-cdb361e87a514f40d94be380a12d3978]: Textual amendment: Words in [reg. 17(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/17/2/a) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [5(a)](https://www.legislation.gov.uk/ssi/2015/152/regulation/5/a)
 
-[^key-81e6a245a0c21c29185cbcf6f9ccc62b]: Textual amendment: Words in [reg. 17(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/17/2/a) omitted (1.4.2015) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2015/152/regulation/5/b)
+[^c-81e6a245a0c21c29185cbcf6f9ccc62b]: Textual amendment: Words in [reg. 17(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/17/2/a) omitted (1.4.2015) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [5(b)](https://www.legislation.gov.uk/ssi/2015/152/regulation/5/b)
 
-[^key-e670e9e92014d818ec76e7f29256b1b0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/3/regulation/18) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-e670e9e92014d818ec76e7f29256b1b0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/3/regulation/18) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-f5695c73bace6a01363babf2d1e0b529]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/3/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-f5695c73bace6a01363babf2d1e0b529]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/3/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-b19732d8ca8e67a1d96e7fc3cab4680c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/3/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-b19732d8ca8e67a1d96e7fc3cab4680c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/3/regulation/20) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-8147a6dbb4d836deceea90ff19677ff1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/3/regulation/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-8147a6dbb4d836deceea90ff19677ff1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/3/regulation/21) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-f7da49f684c784be423f0a9b0314c120]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/3/regulation/22) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-f7da49f684c784be423f0a9b0314c120]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/3/regulation/22) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-3cf09936b8544682203ac949c305f2b6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/3/regulation/23) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-3cf09936b8544682203ac949c305f2b6]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2015/3/regulation/23) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-2bd42b0652e011acf24c8660b4357d11]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2015/3/regulation/24) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-2bd42b0652e011acf24c8660b4357d11]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2015/3/regulation/24) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-f5c8d7fe6732c2b5e7a02efe9fa6d129]: Textual amendment: Word in [reg. 24(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/3/regulation/24/2/b/ii) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2015/152/regulation/6)
+[^c-f5c8d7fe6732c2b5e7a02efe9fa6d129]: Textual amendment: Word in [reg. 24(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2015/3/regulation/24/2/b/ii) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2015/152/regulation/6)
 
-[^key-b575cbabc997239771462dd154211d59]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2015/3/regulation/25) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-b575cbabc997239771462dd154211d59]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2015/3/regulation/25) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-9efddf1099aac74494a72f62a745578d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2015/3/regulation/26) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-9efddf1099aac74494a72f62a745578d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2015/3/regulation/26) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-ff1f7b31bc54dfbcf6d10de0e479bc9f]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/1) substituted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2015/152/regulation/7/a)
+[^c-ff1f7b31bc54dfbcf6d10de0e479bc9f]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/1) substituted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2015/152/regulation/7/a)
 
-[^key-317b125d18b8c9f601ed2a0bdcd63ae8]: Textual amendment: Word in [reg. 26(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/i)
+[^c-317b125d18b8c9f601ed2a0bdcd63ae8]: Textual amendment: Word in [reg. 26(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/i)
 
-[^key-ce71c8096f2f646d1dc942b0f35a272e]: Textual amendment: Words in [reg. 26(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/a) omitted (29.5.2017) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(aa)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/aa)[(ii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/ii)
+[^c-ce71c8096f2f646d1dc942b0f35a272e]: Textual amendment: Words in [reg. 26(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/a) omitted (29.5.2017) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(aa)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/aa)[(ii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/ii)
 
-[^key-044ddc984bccde7498b20cbd9a2cd347]: Textual amendment: Word in [reg. 26(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/a) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(bb)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/bb)[(ii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/ii)
+[^c-044ddc984bccde7498b20cbd9a2cd347]: Textual amendment: Word in [reg. 26(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/a) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(bb)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/bb)[(ii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/ii)
 
-[^key-33da01fd5512fb2800c3d1c4d345126c]: Textual amendment: Words in [reg. 26(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/a) inserted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(cc)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/cc)[(ii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/ii)
+[^c-33da01fd5512fb2800c3d1c4d345126c]: Textual amendment: Words in [reg. 26(2)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/a) inserted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(cc)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/cc)[(ii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/ii)
 
-[^key-ef398a0538f1808420e5b41235b9e90f]: Textual amendment: Word in [reg. 26(2)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/b) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(aa)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/aa)[(iii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/iii)
+[^c-ef398a0538f1808420e5b41235b9e90f]: Textual amendment: Word in [reg. 26(2)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/b) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(aa)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/aa)[(iii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/iii)
 
-[^key-5b7d4ee7f0803b00e6c7277e4a806fba]: Textual amendment: Words in [reg. 26(2)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/b) inserted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(bb)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/bb)[(iii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/iii)
+[^c-5b7d4ee7f0803b00e6c7277e4a806fba]: Textual amendment: Words in [reg. 26(2)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/b) inserted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [5(a)(bb)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/bb)[(iii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/5/a/iii)
 
-[^key-b1bfbb1990b1db6c1e1c2d8791f8cdf9]: Textual amendment: Word in [reg. 26(2)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/b) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [7(b)](https://www.legislation.gov.uk/ssi/2015/152/regulation/7/b)
+[^c-b1bfbb1990b1db6c1e1c2d8791f8cdf9]: Textual amendment: Word in [reg. 26(2)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2/b) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [7(b)](https://www.legislation.gov.uk/ssi/2015/152/regulation/7/b)
 
-[^key-f0ddef82ea43e44246a117118185a596]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2) omitted (1.4.2015) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [7(c)](https://www.legislation.gov.uk/ssi/2015/152/regulation/7/c)
+[^c-f0ddef82ea43e44246a117118185a596]: Textual amendment: Words in [reg. 26(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/26/2) omitted (1.4.2015) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [7(c)](https://www.legislation.gov.uk/ssi/2015/152/regulation/7/c)
 
-[^key-ff57d2176feaa734722cebfd5a56b2d6]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2015/3/regulation/27) ceases to have effect (1.4.2026) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2026 (S.S.I. 2026/8)](https://www.legislation.gov.uk/ssi/2026/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/8/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2026/8/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/8/regulation/3))
+[^c-ff57d2176feaa734722cebfd5a56b2d6]: Textual amendment: [Reg. 27](https://www.legislation.gov.uk/ssi/2015/3/regulation/27) ceases to have effect (1.4.2026) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2026 (S.S.I. 2026/8)](https://www.legislation.gov.uk/ssi/2026/8), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2026/8/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2026/8/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2026/8/regulation/3))
 
-[^key-01f624970c956fa77311fd95743b8886]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2015/3/regulation/28) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-01f624970c956fa77311fd95743b8886]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2015/3/regulation/28) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-712869461c3136f7c9b532636fc42fbc]: Textual amendment: Words in [reg. 28(1)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/28/1/a) omitted (29.5.2017) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [6(a)](https://www.legislation.gov.uk/ssi/2017/139/regulation/6/a)
+[^c-712869461c3136f7c9b532636fc42fbc]: Textual amendment: Words in [reg. 28(1)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/28/1/a) omitted (29.5.2017) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [6(a)](https://www.legislation.gov.uk/ssi/2017/139/regulation/6/a)
 
-[^key-493b18c4574213d9c08a9b9d790fadfe]: Textual amendment: Word in [reg. 28(1)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/28/1/b) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [6(b)](https://www.legislation.gov.uk/ssi/2017/139/regulation/6/b)
+[^c-493b18c4574213d9c08a9b9d790fadfe]: Textual amendment: Word in [reg. 28(1)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/28/1/b) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [6(b)](https://www.legislation.gov.uk/ssi/2017/139/regulation/6/b)
 
-[^key-125954dec5b06b517fc45542a59cdefe]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2015/3/regulation/29) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-125954dec5b06b517fc45542a59cdefe]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2015/3/regulation/29) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-941f4c3ca1eb4960688f5b134eedca91]: Textual amendment: Word in [reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/1/b) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2017/139/regulation/7/a)
+[^c-941f4c3ca1eb4960688f5b134eedca91]: Textual amendment: Word in [reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/1/b) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [7(a)](https://www.legislation.gov.uk/ssi/2017/139/regulation/7/a)
 
 [^f00005]: Footnote: [2005 asp 10](https://www.legislation.gov.uk/asp/2005/10).
 
@@ -1079,9 +1079,9 @@ These Regulations make provision for the administration and assurance of Scottis
 
 [^f00007]: Footnote: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-8d80ee541aefd959009fc7ab4e21e59d]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/5) omitted (29.5.2017) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [7(b)(i)](https://www.legislation.gov.uk/ssi/2017/139/regulation/7/b/i)
+[^c-8d80ee541aefd959009fc7ab4e21e59d]: Textual amendment: Words in [reg. 29(5)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/5) omitted (29.5.2017) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [7(b)(i)](https://www.legislation.gov.uk/ssi/2017/139/regulation/7/b/i)
 
-[^key-56794ce71e92d1b1cc7382942535c611]: Textual amendment: Words in [reg. 29(5)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/5/b) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [7(b)(ii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/7/b/ii)
+[^c-56794ce71e92d1b1cc7382942535c611]: Textual amendment: Words in [reg. 29(5)(b)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/5/b) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [7(b)(ii)](https://www.legislation.gov.uk/ssi/2017/139/regulation/7/b/ii)
 
 [^f00008]: Footnote: [1949 c.97](https://www.legislation.gov.uk/ukpga/1949/97).
 
@@ -1091,48 +1091,48 @@ These Regulations make provision for the administration and assurance of Scottis
 
 [^f00011]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). Section 78E was inserted by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 57.
 
-[^key-101c7160567df4741f538f9635306f3e]: Textual amendment: [Reg. 29(9)(b)-(d)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/b) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 30](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/30) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-101c7160567df4741f538f9635306f3e]: Textual amendment: [Reg. 29(9)(b)-(d)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/b) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 30](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/30) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-d474f2f1e93c2b762f72205aa1ea50d0]: Textual amendment: [Reg. 29(9)(f)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/f)[(g)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/g)[(h)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/h) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-d474f2f1e93c2b762f72205aa1ea50d0]: Textual amendment: [Reg. 29(9)(f)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/f)[(g)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/g)[(h)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/h) revoked (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 2](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/2) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-d912d1ff8467a2b3e4c85a6245b08c6b]: Textual amendment: [Reg. 29(9)(i)-(l)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/i) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 30](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/30) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-d912d1ff8467a2b3e4c85a6245b08c6b]: Textual amendment: [Reg. 29(9)(i)-(l)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/i) omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 30](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/30) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-07fe59cadde2a9a4afc02af96ab29de9]: Textual amendment: [Reg. 29(9)(m)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/m) substituted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 17](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/17) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-07fe59cadde2a9a4afc02af96ab29de9]: Textual amendment: [Reg. 29(9)(m)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/m) substituted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 17](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/17) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
-[^key-8e92189dec5bb2993dd8e3af8542158a]: Textual amendment: Word in [reg. 29(9)(n)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/n) omitted (1.4.2015) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [8(a)](https://www.legislation.gov.uk/ssi/2015/152/regulation/8/a)
+[^c-8e92189dec5bb2993dd8e3af8542158a]: Textual amendment: Word in [reg. 29(9)(n)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/n) omitted (1.4.2015) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [8(a)](https://www.legislation.gov.uk/ssi/2015/152/regulation/8/a)
 
 [^f00016]: Footnote: [S.S.I. 2009/266](https://www.legislation.gov.uk/ssi/2009/266).
 
-[^key-33dcc428d4f2622b6bff0d619940fdec]: Textual amendment: [Reg. 29(9)(p)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/p) and word inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [8(b)](https://www.legislation.gov.uk/ssi/2015/152/regulation/8/b)
+[^c-33dcc428d4f2622b6bff0d619940fdec]: Textual amendment: [Reg. 29(9)(p)](https://www.legislation.gov.uk/ssi/2015/3/regulation/29/9/p) and word inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [8(b)](https://www.legislation.gov.uk/ssi/2015/152/regulation/8/b)
 
 [^f00017]: Footnote: [1997.c.8](https://www.legislation.gov.uk/ukpga/1997/8).
 
-[^key-652fa3af3db780d2624e07057c70797b]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2015/3/regulation/30) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-652fa3af3db780d2624e07057c70797b]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2015/3/regulation/30) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-73c345445f5d6789981aa70941e97e93]: Textual amendment: Words in [reg. 30(1)(l)](https://www.legislation.gov.uk/ssi/2015/3/regulation/30/1/l) inserted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2017/139/regulation/8)
+[^c-73c345445f5d6789981aa70941e97e93]: Textual amendment: Words in [reg. 30(1)(l)](https://www.legislation.gov.uk/ssi/2015/3/regulation/30/1/l) inserted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [8](https://www.legislation.gov.uk/ssi/2017/139/regulation/8)
 
-[^key-70a1e63065a5c0e883e6233f6afce8d0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2015/3/regulation/31) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-70a1e63065a5c0e883e6233f6afce8d0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2015/3/regulation/31) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-ef8cf729fed58fd2c2d508c394508755]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2015/3/regulation/32) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-ef8cf729fed58fd2c2d508c394508755]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2015/3/regulation/32) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-7ef07cd52369d10ffa9721db8e843230]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2015/3/regulation/33) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-7ef07cd52369d10ffa9721db8e843230]: Commencement: [Reg. 33](https://www.legislation.gov.uk/ssi/2015/3/regulation/33) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-39fa38ffad1c671485bced4ba9b4775b]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2015/3/regulation/34) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-39fa38ffad1c671485bced4ba9b4775b]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2015/3/regulation/34) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
 [^f00018]: Footnote: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-1de1567700b110553a66b2cec3de2cab]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2015/3/regulation/35) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-1de1567700b110553a66b2cec3de2cab]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2015/3/regulation/35) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-78033bacd9b10cf72760dcff4fbee950]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2015/3/regulation/36) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-78033bacd9b10cf72760dcff4fbee950]: Commencement: [Reg. 36](https://www.legislation.gov.uk/ssi/2015/3/regulation/36) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-e6652b468afd1054d2d37106646c34c5]: Textual amendment: Words in [reg. 36(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/36/2) omitted (1.4.2015) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2015/152/regulation/9)
+[^c-e6652b468afd1054d2d37106646c34c5]: Textual amendment: Words in [reg. 36(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/36/2) omitted (1.4.2015) by virtue of [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2015/152/regulation/9)
 
-[^key-bcdb16ed5bf3d8c2952869c51ab68571]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/ssi/2015/3/regulation/36A) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2015/152/regulation/10)
+[^c-bcdb16ed5bf3d8c2952869c51ab68571]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/ssi/2015/3/regulation/36A) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [10](https://www.legislation.gov.uk/ssi/2015/152/regulation/10)
 
-[^key-cbaaa337201b9627f90da5eb154e7fff]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2015/3/regulation/37) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-cbaaa337201b9627f90da5eb154e7fff]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2015/3/regulation/37) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-e60794262c6b810b5c399c02ce064269]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2015/3/regulation/38) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
+[^c-e60794262c6b810b5c399c02ce064269]: Commencement: [Reg. 38](https://www.legislation.gov.uk/ssi/2015/3/regulation/38) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/3/regulation/1/2)
 
-[^key-5a8b6209fa45c4afdf10f058f8e31ad3]: Textual amendment: Words in [reg. 38(1)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/38/1/a) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2017/139/regulation/9)
+[^c-5a8b6209fa45c4afdf10f058f8e31ad3]: Textual amendment: Words in [reg. 38(1)(a)](https://www.legislation.gov.uk/ssi/2015/3/regulation/38/1/a) substituted (29.5.2017) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2017 (S.S.I. 2017/139)](https://www.legislation.gov.uk/ssi/2017/139), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/139/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2017/139/regulation/9)
 
-[^key-a10746a1c9e8f919771f1c03f82189fd]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/ssi/2015/3/regulation/39) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2015/152/regulation/11)
+[^c-a10746a1c9e8f919771f1c03f82189fd]: Textual amendment: [Reg. 39](https://www.legislation.gov.uk/ssi/2015/3/regulation/39) inserted (1.4.2015) by [The Scottish Landfill Tax (Administration) Amendment Regulations 2015 (S.S.I. 2015/152)](https://www.legislation.gov.uk/ssi/2015/152), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/152/regulation/1/2), [11](https://www.legislation.gov.uk/ssi/2015/152/regulation/11)

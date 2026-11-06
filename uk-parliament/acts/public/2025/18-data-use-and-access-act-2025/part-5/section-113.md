@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Emergency alerts: interpretation of time periods[^key-dc8e46ae69b592d1ae9e68fab6963f2f][^key-ff9e1dbdd3b366baf4a350c58c249b40]
+## 113. Emergency alerts: interpretation of time periods[^c-dc8e46ae69b592d1ae9e68fab6963f2f][^c-ff9e1dbdd3b366baf4a350c58c249b40]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 16A of the PEC Regulations (emergency alerts), in paragraph (6), f
 
 ## Annotations
 
-[^key-dc8e46ae69b592d1ae9e68fab6963f2f]: Commencement: S. 113 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-dc8e46ae69b592d1ae9e68fab6963f2f]: Commencement: S. 113 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-ff9e1dbdd3b366baf4a350c58c249b40]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2025/18/section/113) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/q)
+[^c-ff9e1dbdd3b366baf4a350c58c249b40]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2025/18/section/113) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/q)

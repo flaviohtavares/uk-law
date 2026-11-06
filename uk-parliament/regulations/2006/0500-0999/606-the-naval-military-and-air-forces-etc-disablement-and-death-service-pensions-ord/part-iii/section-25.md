@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Rent allowance to surviving spouses, surviving civil partners and dependants who lived as spouses or civil partners, who have children[^key-041dcfca866332d25bcef8eaf8be0e22]
+## 25. Rent allowance to surviving spouses, surviving civil partners and dependants who lived as spouses or civil partners, who have children[^c-041dcfca866332d25bcef8eaf8be0e22]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where a surviving spouse or surviving civil partner of a member of the armed forces is in receipt of a pension under article 11 of a 1919 to 1921 instrument or under article 23 of this Order, or a dependant who lived as a spouse or [^key-09fb30705e14719eb5ef9375ac33165c]... civil partner of a member (“dependant”) is in receipt of a pension under article 24 and—
+(1) Where a surviving spouse or surviving civil partner of a member of the armed forces is in receipt of a pension under article 11 of a 1919 to 1921 instrument or under article 23 of this Order, or a dependant who lived as a spouse or [^c-09fb30705e14719eb5ef9375ac33165c]... civil partner of a member (“dependant”) is in receipt of a pension under article 24 and—
 
 - (a) in the case of a surviving spouse or surviving civil partner, the household of the spouse or civil partner includes a child; or
 - (b) in the case of a dependant, the household includes a child of the member
@@ -39,6 +39,6 @@ the surviving spouse, surviving civil partner or dependant may be awarded a rent
 
 ## Annotations
 
-[^key-041dcfca866332d25bcef8eaf8be0e22]: Textual amendment: Words in [art. 25](https://www.legislation.gov.uk/uksi/2006/606/article/25) heading substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(5)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/5/a)
+[^c-041dcfca866332d25bcef8eaf8be0e22]: Textual amendment: Words in [art. 25](https://www.legislation.gov.uk/uksi/2006/606/article/25) heading substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(5)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/5/a)
 
-[^key-09fb30705e14719eb5ef9375ac33165c]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2006/606/article/25/1) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(5)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/5/b)
+[^c-09fb30705e14719eb5ef9375ac33165c]: Textual amendment: Words in [art. 25(1)](https://www.legislation.gov.uk/uksi/2006/606/article/25/1) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 110(5)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/110/5/b)

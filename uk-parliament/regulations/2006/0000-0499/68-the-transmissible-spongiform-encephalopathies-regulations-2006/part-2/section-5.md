@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. TSE monitoring[^key-bdfeb08ed1d0039b5b834a603143a51a]
+## 5. TSE monitoring[^c-bdfeb08ed1d0039b5b834a603143a51a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 2 (TSE monitoring) has effect.
 
 ## Annotations
 
-[^key-bdfeb08ed1d0039b5b834a603143a51a]: Commencement: Reg. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-bdfeb08ed1d0039b5b834a603143a51a]: Commencement: Reg. 5 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

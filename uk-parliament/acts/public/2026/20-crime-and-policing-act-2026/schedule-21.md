@@ -26,7 +26,7 @@ Section 189(1)
 
 *Extent: E+W*
 
-**1.**[^key-6dbbf276feb08c5d27272940d9ed9ed8][^key-fcddc8d0fca0d64918a05104d819730f] (1) The Proceeds of Crime Act 2002 is amended as follows.
+**1.**[^c-6dbbf276feb08c5d27272940d9ed9ed8][^c-fcddc8d0fca0d64918a05104d819730f] (1) The Proceeds of Crime Act 2002 is amended as follows.
 
 (2) At the beginning of Part 2 insert—
 
@@ -63,7 +63,7 @@ Section 189(1)
 
 *Extent: E+W*
 
-#### 2. Prosecutor’s discretion[^key-e43a05f9132fa35d88cb6762a886bc2b][^key-9fbc4fbe12674f2080804565a6ed5bdc]
+#### 2. Prosecutor’s discretion[^c-e43a05f9132fa35d88cb6762a886bc2b][^c-9fbc4fbe12674f2080804565a6ed5bdc]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -89,7 +89,7 @@ Section 189(1)
 - (b) in paragraph (a), for “the defendant has a criminal lifestyle but” substitute “has decided under section 6(4)(b) that the defendant”;
 - (c) in paragraph (b), for “the defendant does not have a criminal lifestyle and” substitute “has decided under section 6(4)(c) that the defendant”.
 
-#### 3. The serious risk of injustice test[^key-f778e9bc51eb304a640038cb0fa1f354][^key-3e12faeb3d6d2cfd93cd4125097cce84]
+#### 3. The serious risk of injustice test[^c-f778e9bc51eb304a640038cb0fa1f354][^c-3e12faeb3d6d2cfd93cd4125097cce84]
 
 In section 10 of the Proceeds of Crime Act 2002 (assumptions to be made in case of criminal lifestyle), after subsection (6) insert—
 
@@ -98,7 +98,7 @@ In section 10 of the Proceeds of Crime Act 2002 (assumptions to be made in case 
 > - (a) any evidence about the serious risk of injustice that has been made available to it, and
 > - (b) any explanation given by the defendant for being unable to provide evidence that would have shown the assumption to be incorrect.
 
-#### 4. Cases in which defendant has a criminal lifestyle[^key-4a446c7e6bd9ae370f252b44b6cfff4b][^key-0efd79a98730bc7464eb9dbda8371faf]
+#### 4. Cases in which defendant has a criminal lifestyle[^c-4a446c7e6bd9ae370f252b44b6cfff4b][^c-0efd79a98730bc7464eb9dbda8371faf]
 
 (1) Section 75 of the Proceeds of Crime Act 2002 (criminal lifestyle) is amended as follows.
 
@@ -112,7 +112,7 @@ In section 10 of the Proceeds of Crime Act 2002 (assumptions to be made in case 
 
 (3) The amendments made by sub-paragraph (2)(a), (b)(ii) and (c) do not apply in relation to conduct that took place wholly or partly before the date on which those provisions come into force.
 
-#### 5. Criminal lifestyle offences[^key-93cbfeb45a1e7cf9d493d54ffb4bb957][^key-9bf42777c82ea0c0372f9e5b8e815b8b]
+#### 5. Criminal lifestyle offences[^c-93cbfeb45a1e7cf9d493d54ffb4bb957][^c-9bf42777c82ea0c0372f9e5b8e815b8b]
 
 (1) Schedule 2 to the Proceeds of Crime Act 2002 (criminal lifestyle offences) is amended as follows.
 
@@ -132,7 +132,7 @@ In section 10 of the Proceeds of Crime Act 2002 (assumptions to be made in case 
 
 *Extent: E+W*
 
-#### 6. Recoverable amount[^key-0f6c215c3f955dee63819ae9215e8fec]
+#### 6. Recoverable amount[^c-0f6c215c3f955dee63819ae9215e8fec]
 
 **Not yet in force.**
 
@@ -176,7 +176,7 @@ In section 10 of the Proceeds of Crime Act 2002 (assumptions to be made in case 
   >   - (i) but for section 7(4)(g) (seized property), would have been taken into account in calculating the relevant amount, and
   >   - (ii) has been released to the defendant since the relevant time.
 
-#### 7. Hidden property[^key-fdfc28842970c62d8eae28577a724887][^key-19f2ef68bb29d76f36c023ad1218831e]
+#### 7. Hidden property[^c-fdfc28842970c62d8eae28577a724887][^c-19f2ef68bb29d76f36c023ad1218831e]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -213,7 +213,7 @@ In section 10 of the Proceeds of Crime Act 2002 (assumptions to be made in case 
 
 (6) In section 23 (inadequacy of available amount: variation of order), in subsection (2), for “section 9” substitute “sections 9 and 9A”.
 
-#### 8. Tainted gifts[^key-843e29aaf5c9c626cd71a03abf82d72a][^key-8b29aec9fd1fa0a1f387e0c8872d1316]
+#### 8. Tainted gifts[^c-843e29aaf5c9c626cd71a03abf82d72a][^c-8b29aec9fd1fa0a1f387e0c8872d1316]
 
 In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection (5) substitute—
 
@@ -222,7 +222,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 > - (a) at any time after the commission of the offence concerned, or
 > - (b) if the defendant’s particular criminal conduct consists of two or more offences and they were committed at different times, at any time after the commission of the earliest of the offences.
 
-#### 9. Benefit[^key-55d748dd6bc935bd4a564d1df35fc625][^key-d695e32ad1c776330be610a6a309a1b8]
+#### 9. Benefit[^c-55d748dd6bc935bd4a564d1df35fc625][^c-d695e32ad1c776330be610a6a309a1b8]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -245,7 +245,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
   > (3) If, as a result of or in connection with conduct, a person keeps property that the person already has, where the court believes it just to do so the person is to be treated as obtaining the property as a result of or in connection with the conduct.
 
-#### 10. Value of property obtained[^key-352e694ec4e4ca4196d505e21f27f1b3][^key-c38f5215e3bbbe7c5bb758c8262d17df]
+#### 10. Value of property obtained[^c-352e694ec4e4ca4196d505e21f27f1b3][^c-c38f5215e3bbbe7c5bb758c8262d17df]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -288,7 +288,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 >   - (b) the material time;
 > - “**the material time**” is the time the court makes its decision.
 
-#### 11. Value of property sold or destroyed[^key-2ad1990c889c69061362ebe53bd2f6eb][^key-3a03e222491ee0ec559b5b6669e23e08]
+#### 11. Value of property sold or destroyed[^c-2ad1990c889c69061362ebe53bd2f6eb][^c-3a03e222491ee0ec559b5b6669e23e08]
 
 (1) Section 80 of the Proceeds of Crime Act 2002 (value of property obtained from conduct) is amended as follows.
 
@@ -311,7 +311,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 *Extent: E+W*
 
-#### 12. Priority orders[^key-23d0f0ec5150c17869529f7cd6f7bcff][^key-383c6dcf5bcc3dba8af8a9c6fbb90883]
+#### 12. Priority orders[^c-23d0f0ec5150c17869529f7cd6f7bcff][^c-383c6dcf5bcc3dba8af8a9c6fbb90883]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -350,7 +350,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 *Extent: E+W*
 
-#### 13. Compensation directions[^key-bddaddd1b3fbea08199309bcb1483fd8][^key-55da09731666a757d93fcdc89de67bd5]
+#### 13. Compensation directions[^c-bddaddd1b3fbea08199309bcb1483fd8][^c-55da09731666a757d93fcdc89de67bd5]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -406,7 +406,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 *Extent: E+W*
 
-#### 14. Timing of confiscation proceedings and effect on sentencing[^key-14cdd7ac8602f03bca81b223ea5cbd40][^key-d1d53b04b75e0402fea352490d1487c7]
+#### 14. Timing of confiscation proceedings and effect on sentencing[^c-14cdd7ac8602f03bca81b223ea5cbd40][^c-d1d53b04b75e0402fea352490d1487c7]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -453,7 +453,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 (3) Omit sections 14 and 15 (postponement of confiscation proceedings).
 
-#### 15. Early resolution meeting[^key-cf084c40f4ab996e7d5c32bf335668ec][^key-a5560c1a0c729a1a58272f5ed6bf8466]
+#### 15. Early resolution meeting[^c-cf084c40f4ab996e7d5c32bf335668ec][^c-a5560c1a0c729a1a58272f5ed6bf8466]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -504,7 +504,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 *Extent: E+W*
 
-#### 16. Order made: reconsideration[^key-5bae9e76919ba0297d2fadd782ae8a4d][^key-3467baf8c28fd969088df2fa2a7dce6e]
+#### 16. Order made: reconsideration[^c-5bae9e76919ba0297d2fadd782ae8a4d][^c-3467baf8c28fd969088df2fa2a7dce6e]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -586,7 +586,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 (5) In section 39 (reconsideration etc: variation of prison term), in subsection (1)(a), after “21,” insert “21A,”.
 
-#### 17. Provisional discharge of confiscation order[^key-dcf3c28201e3f4d6c06a28468fa923ee]
+#### 17. Provisional discharge of confiscation order[^c-dcf3c28201e3f4d6c06a28468fa923ee]
 
 **Not yet in force.**
 
@@ -686,7 +686,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 **Not yet in force.**
 
-#### 18. Enforcement plans[^key-d3a77d8e0d97351e06625a601c17b27c]
+#### 18. Enforcement plans[^c-d3a77d8e0d97351e06625a601c17b27c]
 
 *Extent: E+W*
 
@@ -732,7 +732,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 (3) In section 13A (compliance orders), in subsection (1) at the end insert “(whether or not the court also prepares an enforcement plan under section 13ZA)”.
 
-#### 19. The default term and the powers of the enforcing court[^key-c639f563e99142570b0b9ad3b823b2ed]
+#### 19. The default term and the powers of the enforcing court[^c-c639f563e99142570b0b9ad3b823b2ed]
 
 *Extent: E+W*
 
@@ -1135,7 +1135,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 - (a) in subsection (4)(a), for “35(2C),” substitute “35A(5),”;
 - (b) in subsection (6)(a), for “35(2C),” substitute “35A(5),”.
 
-#### 20. Extension to Crown Court of powers in relation to money, cryptoassets and personal property[^key-318a9116bb7909922db72b22a9f2b96c]
+#### 20. Extension to Crown Court of powers in relation to money, cryptoassets and personal property[^c-318a9116bb7909922db72b22a9f2b96c]
 
 *Extent: E+W*
 
@@ -1195,7 +1195,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 (8) In section 69(2A) (powers of court and receiver etc), in paragraph (c) for “a magistrates’ court” substitute “the enforcing court”.
 
-#### 21. Extension to Crown Court of powers under Schedule 5 to Courts Act 2003 to make attachment of earnings orders and applications for benefit deductions[^key-190d832237ca05584bf371524ad90536]
+#### 21. Extension to Crown Court of powers under Schedule 5 to Courts Act 2003 to make attachment of earnings orders and applications for benefit deductions[^c-190d832237ca05584bf371524ad90536]
 
 *Extent: E+W*
 
@@ -1263,7 +1263,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 > - (a) the court which is imposing the liability to pay the sum due, or
 > - (b) the magistrates’ court responsible for enforcing payment of the sum due.
 
-#### 22. Application of Attachment of Earnings Act 1971 to attachment of earnings orders made by the Crown Court[^key-7fcc48a60447bf86b0b4ee99d48697e7]
+#### 22. Application of Attachment of Earnings Act 1971 to attachment of earnings orders made by the Crown Court[^c-7fcc48a60447bf86b0b4ee99d48697e7]
 
 *Extent: E+W*
 
@@ -1283,7 +1283,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 > (1A) The powers of the Crown Court under Schedule 5 to the Courts Act 2003 include power to make an attachment of earnings order to secure the discharge of any number of such liabilities as are specified in paragraph 1(1A) of that Schedule.
 
-#### 23. Collection orders in respect of confiscation orders[^key-3dd7a9f81ee4b37f6b5747ae42a84ed7]
+#### 23. Collection orders in respect of confiscation orders[^c-3dd7a9f81ee4b37f6b5747ae42a84ed7]
 
 *Extent: E+W*
 
@@ -1300,7 +1300,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 - (a) in the words before sub-paragraph (i), after “compensation order,” insert “a sum required to be paid by a confiscation order,”;
 - (b) in sub-paragraph (i), after “compensation order,” insert “the amount required to be paid under the confiscation order,”.
 
-#### 24. Taking control of goods to recover a sum due under a confiscation order[^key-41f8b705dc8077b9e7c4342ed9c47339]
+#### 24. Taking control of goods to recover a sum due under a confiscation order[^c-41f8b705dc8077b9e7c4342ed9c47339]
 
 *Extent: E+W*
 
@@ -1328,7 +1328,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 ### Part 9 — Restraint orders
 
-#### 25. Conditions for making of restraint order: risk of dissipation[^key-7be26a41c17bcb6bdf605c36e293a785][^key-3bfd3765db7c56af0cd119bd88b65c00]
+#### 25. Conditions for making of restraint order: risk of dissipation[^c-7be26a41c17bcb6bdf605c36e293a785][^c-3bfd3765db7c56af0cd119bd88b65c00]
 
 *Extent: E+W*
 
@@ -1358,7 +1358,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 (3) In section 41(1) (power to make restraint order), for “If any condition set out in section 40 is satisfied” substitute “In a case where this section applies (see section 40),”.
 
-#### 26. Exception to restraint orders for reasonable legal expenses[^key-c950960ca6c4fdbcb8b81bc0d28372de]
+#### 26. Exception to restraint orders for reasonable legal expenses[^c-c950960ca6c4fdbcb8b81bc0d28372de]
 
 *Extent: E+W*
 
@@ -1382,7 +1382,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 *Extent: E+W*
 
-(3)[^key-c31384cea1b2cd21aaade192ace641bb] After section 41 insert—
+(3)[^c-c31384cea1b2cd21aaade192ace641bb] After section 41 insert—
 
 > **41ZA. Exception for legal expenses in respect of offence with which confiscation proceedings concerned**
 >
@@ -1414,7 +1414,7 @@ In section 77 of the Proceeds of Crime Act 2002 (tainted gifts), for subsection 
 
 (4) In section 459 (orders and regulations), in each of subsections (4)(a) and (6)(a), omit “41(5A),”.
 
-#### 27. Exception to restraint order for reasonable living expenses[^key-0097d9b84daf40c6dc772cafae55a99f][^key-518b430cd4c133ba307c43da48233062]
+#### 27. Exception to restraint order for reasonable living expenses[^c-0097d9b84daf40c6dc772cafae55a99f][^c-518b430cd4c133ba307c43da48233062]
 
 *Extent: E+W*
 
@@ -1440,7 +1440,7 @@ In section 41 of the Proceeds of Crime Act 2002 (restraint orders)—
   >   - (b) in a case where there is reasonable cause to believe that the person enjoys a higher standard of living as a result of criminal activity, the standard of living that the person would enjoy but for that activity;
   > - “**relevant realisable property**” has the same meaning as in section 40.
 
-#### 28. Discharge of restraint order etc: proceedings not started within reasonable time[^key-d1427a65ff97483db19f4cac132c680f][^key-e4595f9c45056589885fb9dadf5684be]
+#### 28. Discharge of restraint order etc: proceedings not started within reasonable time[^c-d1427a65ff97483db19f4cac132c680f][^c-e4595f9c45056589885fb9dadf5684be]
 
 *Extent: E+W*
 
@@ -1473,7 +1473,7 @@ In section 41 of the Proceeds of Crime Act 2002 (restraint orders)—
 > - (f) the nature of the restraint order (for example, the extent of the property to which it relates);
 > - (g) the impact of the restraint order on any person affected by the order.
 
-#### 29. Restraint orders: effect of conviction[^key-28f1de7884f0d3d312b3f9ce11b31d4c][^key-2db71613e19103ad904e3ed1c011c411]
+#### 29. Restraint orders: effect of conviction[^c-28f1de7884f0d3d312b3f9ce11b31d4c][^c-2db71613e19103ad904e3ed1c011c411]
 
 *Extent: E+W*
 
@@ -1503,7 +1503,7 @@ After section 42 of the Proceeds of Crime Act 2002 insert—
 
 *Extent: E+W*
 
-#### 30. Appointment of management receiver[^key-0eb74ab944b491434f6725f000fca09f][^key-618c205cb06254a83d24fd9beed3619b]
+#### 30. Appointment of management receiver[^c-0eb74ab944b491434f6725f000fca09f][^c-618c205cb06254a83d24fd9beed3619b]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -1535,7 +1535,7 @@ After section 42 of the Proceeds of Crime Act 2002 insert—
 
 *Extent: E+W*
 
-#### 31. Appeal rights in relation to confiscation proceedings[^key-69bc56541930fdf3eb4ce1ad92bc0c0f][^key-567708c27544b3bf9e6219bb53c16713]
+#### 31. Appeal rights in relation to confiscation proceedings[^c-69bc56541930fdf3eb4ce1ad92bc0c0f][^c-567708c27544b3bf9e6219bb53c16713]
 
 (1) The Proceeds of Crime Act 2002 is amended in accordance with sub-paragraphs (2) to (9).
 
@@ -1834,19 +1834,19 @@ After section 42 of the Proceeds of Crime Act 2002 insert—
 
 ### Part 12 — Consequential and related amendments
 
-#### 32. Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39)[^key-fb0fda6ebcaa19659e19eb3ced2050cb][^key-78ced145e0b03ee3aee8a7b9f7680966]
+#### 32. Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39)[^c-fb0fda6ebcaa19659e19eb3ced2050cb][^c-78ced145e0b03ee3aee8a7b9f7680966]
 
 *Extent: E+W*
 
 In the Courts Act 2003, in Schedule 8 (minor and consequential amendments), omit paragraph 406.
 
-#### 33. Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4)[^key-820d61230abb4e82102dcab0674e132f][^key-4fb9e35433c0029291e32bfcb35abac7]
+#### 33. Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4)[^c-820d61230abb4e82102dcab0674e132f][^c-4fb9e35433c0029291e32bfcb35abac7]
 
 *Extent: E+W*
 
 In the Constitutional Reform Act 2005, in Schedule 9 (amendments relating to jurisdiction of the Supreme Court), omit paragraph 77(2) and (3).
 
-#### 34. Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27)[^key-66cc2f76152fafff37b32de14f8c2c61][^key-d228ba244e6907e4ffc293752e07436d]
+#### 34. Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27)[^c-66cc2f76152fafff37b32de14f8c2c61][^c-d228ba244e6907e4ffc293752e07436d]
 
 *Extent: E+W*
 
@@ -1857,7 +1857,7 @@ In the Serious Crime Act 2007, in Schedule 8 (abolition of Assets Recovery Agenc
 - (c) omit paragraph 19;
 - (d) omit paragraph 32.
 
-#### 35. Prevention of Social Housing Fraud Act [2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3)[^key-bb01987e731c720b918786474c86410e][^key-8e4616676378dbda22057ee203d7fe6e]
+#### 35. Prevention of Social Housing Fraud Act [2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3)[^c-bb01987e731c720b918786474c86410e][^c-8e4616676378dbda22057ee203d7fe6e]
 
 *Extent: E+W*
 
@@ -1868,36 +1868,36 @@ In the Prevention of Social Housing Fraud Act 2013, in the Schedule (consequenti
 - (c) omit paragraph 18(3);
 - (d) omit paragraphs 19 to 21.
 
-#### 36. Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22)[^key-5467f2e32876192669c8686e3eadbf55][^key-099004c7ffaccb55194db6309ad2f13c]
+#### 36. Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22)[^c-5467f2e32876192669c8686e3eadbf55][^c-099004c7ffaccb55194db6309ad2f13c]
 
 Omit sections 46 and 47 of the Crime and Courts Act 2013 (restraint orders and legal aid).
 
-#### 37. Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9)[^key-9311bd4590635854bdbc832c916b8136][^key-b2dacf703f52cd3f633d0b666bece79b]
+#### 37. Serious Crime Act [2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9)[^c-9311bd4590635854bdbc832c916b8136][^c-b2dacf703f52cd3f633d0b666bece79b]
 
 *Extent: E+W*
 
 The Serious Crime Act 2015 is amended as follows.
 
-**38.**[^key-0dded9a688e9e796f0496b1eb7f01689][^key-6b75ddbfb542659d70f9e28096036066] Omit section 3 (appeals in relation to confiscation orders).
+**38.**[^c-0dded9a688e9e796f0496b1eb7f01689][^c-6b75ddbfb542659d70f9e28096036066] Omit section 3 (appeals in relation to confiscation orders).
 
-**39.**[^key-12fe9e5561bd31741f446e3303adc174][^key-104fb2fe1d66e3735a3dec37c499f656] In section 6 (confiscation and victim surcharge orders), omit subsections (4) and (5).
+**39.**[^c-12fe9e5561bd31741f446e3303adc174][^c-104fb2fe1d66e3735a3dec37c499f656] In section 6 (confiscation and victim surcharge orders), omit subsections (4) and (5).
 
-**40.**[^key-fc5d396c6020342a5b708154454e5399][^key-ba78745b812bf99f2cf258949b649ec8] In section 10 (default sentences), omit subsection (1).
+**40.**[^c-fc5d396c6020342a5b708154454e5399][^c-ba78745b812bf99f2cf258949b649ec8] In section 10 (default sentences), omit subsection (1).
 
-**41.**[^key-ccf3a02170a6f6a926d5ec0f9bbd4e05][^key-6ac6655952690dfe30d3a1c4b82818c7] In Schedule 4 (minor and consequential amendments)—
+**41.**[^c-ccf3a02170a6f6a926d5ec0f9bbd4e05][^c-6ac6655952690dfe30d3a1c4b82818c7] In Schedule 4 (minor and consequential amendments)—
 
 - (a) omit paragraphs 21 and 22;
 - (b) omit paragraph 23(3);
 - (c) omit paragraph 24(3);
 - (d) omit paragraphs 25 to 30.
 
-#### 42. Modern Slavery Act [2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30)[^key-9961dbb559a85d789f42e3668c2bf579][^key-2b3766fcc247cf28be4e1976b3f816f0]
+#### 42. Modern Slavery Act [2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30)[^c-9961dbb559a85d789f42e3668c2bf579][^c-2b3766fcc247cf28be4e1976b3f816f0]
 
 *Extent: E+W*
 
 The Modern Slavery Act 2015 is amended as follows.
 
-**43.**[^key-f4c4c3c498ed63bdff070703cd2dc136][^key-e934e1bb70bd57966d38306f05730271] In section 10 (supplementary provision about slavery and trafficking reparation orders)—
+**43.**[^c-f4c4c3c498ed63bdff070703cd2dc136][^c-e934e1bb70bd57966d38306f05730271] In section 10 (supplementary provision about slavery and trafficking reparation orders)—
 
 - (a) in subsection (6)—
   - (i) for “24” substitute “24A”;
@@ -1905,35 +1905,35 @@ The Modern Slavery Act 2015 is amended as follows.
 - (b) in subsection (8), in the words before paragraph (a), for “31” substitute “67E(1) or (2) or 67G(1)”;
 - (c) in subsection (9), in the words before paragraph (a), for “33” substitute “67E(6) or 67G(5)”.
 
-**44.**[^key-5c451d84e13d77a6f0531cabe68b57d7][^key-6259a1dd6d7b26e1befd6ee9cbdd372f] In Schedule 5 (minor and consequential amendments), omit paragraphs 16 to 19.
+**44.**[^c-5c451d84e13d77a6f0531cabe68b57d7][^c-6259a1dd6d7b26e1befd6ee9cbdd372f] In Schedule 5 (minor and consequential amendments), omit paragraphs 16 to 19.
 
-#### 45. Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22)[^key-4297a80eedf8054315e35d557e772b8f][^key-fb4268f10d64397cba09e14f9d83a346]
+#### 45. Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22)[^c-4297a80eedf8054315e35d557e772b8f][^c-fb4268f10d64397cba09e14f9d83a346]
 
 *Extent: E+W*
 
 In section 32 of the Criminal Finances Act 2017 (reconsideration of discharged orders), omit subsections (2) and (3).
 
-#### 46. Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17)[^key-8e354fe95e21b4381867f842470c14f8][^key-5a16aec88f021d96c5575fbc7ab8f371]
+#### 46. Sentencing Act [2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17)[^c-8e354fe95e21b4381867f842470c14f8][^c-5a16aec88f021d96c5575fbc7ab8f371]
 
 *Extent: E+W*
 
 The Sentencing Act 2020 is amended as follows.
 
-**47.**[^key-76f91cdc11925cc3694b0e47eb756e7a][^key-2aae102f6546e7d6bb926470eec4c061] In section 42 (court’s duty to order payment of surcharge), in subsection (2)(b), for the words from “15” to the end substitute “15A of the Proceeds of Crime Act 2002 (effect on duty in subsection (1) where court sentences before confiscation proceedings)”.
+**47.**[^c-76f91cdc11925cc3694b0e47eb756e7a][^c-2aae102f6546e7d6bb926470eec4c061] In section 42 (court’s duty to order payment of surcharge), in subsection (2)(b), for the words from “15” to the end substitute “15A of the Proceeds of Crime Act 2002 (effect on duty in subsection (1) where court sentences before confiscation proceedings)”.
 
-**48.**[^key-5e419c872b59175332ac7c184d591d75][^key-ef7d0039b0f5fdbd6bda259a55d6f77d] In section 46 (criminal courts charge duty), in subsection (1), omit the words from “But” to the end.
+**48.**[^c-5e419c872b59175332ac7c184d591d75][^c-ef7d0039b0f5fdbd6bda259a55d6f77d] In section 46 (criminal courts charge duty), in subsection (1), omit the words from “But” to the end.
 
-**49.**[^key-c9154d665f6406d511494186719814f9][^key-4dfeb46a51e694af41199a539d4f02fb] In section 125 (exercise of court’s powers to impose fine and fix amount), in subsection (6)(b), for the words from “15” to the end substitute “15A (where court sentences before confiscation proceedings)”.
+**49.**[^c-c9154d665f6406d511494186719814f9][^c-4dfeb46a51e694af41199a539d4f02fb] In section 125 (exercise of court’s powers to impose fine and fix amount), in subsection (6)(b), for the words from “15” to the end substitute “15A (where court sentences before confiscation proceedings)”.
 
-**50.**[^key-b6bd905eb1cd8c76c7bc22e6429223ff][^key-f3a7ddc88be443f50d803ed2e3aabe51] In section 135 (making a compensation order), in subsection (6)(b), for the words from “15” to the end substitute “15A (where court sentences before confiscation proceedings)”.
+**50.**[^c-b6bd905eb1cd8c76c7bc22e6429223ff][^c-f3a7ddc88be443f50d803ed2e3aabe51] In section 135 (making a compensation order), in subsection (6)(b), for the words from “15” to the end substitute “15A (where court sentences before confiscation proceedings)”.
 
-**51.**[^key-8a2e72a9784f42b4633bd99858da9b54][^key-0f773377d3c24301c1e679e2f035ea6d] In section 155 (exercise of power to make a deprivation order), in subsection (3)(b), for the words from “15” to the end substitute “15A (where court sentences before confiscation proceedings)”.
+**51.**[^c-8a2e72a9784f42b4633bd99858da9b54][^c-0f773377d3c24301c1e679e2f035ea6d] In section 155 (exercise of power to make a deprivation order), in subsection (3)(b), for the words from “15” to the end substitute “15A (where court sentences before confiscation proceedings)”.
 
-**52.**[^key-f2d4786380138a86d9048d71de4f6b89][^key-736c70a7b72c12e8e6a85572a2d68b17] In section 161E(5) (making an income reduction order) (as inserted by section 3 of the Sentencing Act 2026), for paragraph (b) substitute—
+**52.**[^c-f2d4786380138a86d9048d71de4f6b89][^c-736c70a7b72c12e8e6a85572a2d68b17] In section 161E(5) (making an income reduction order) (as inserted by section 3 of the Sentencing Act 2026), for paragraph (b) substitute—
 
 > - (b) section 15A (where court sentences before confiscation proceedings).
 
-**53.**[^key-3cf0644ba016b88f47f9e6e1ecca9460][^key-59e6b8b4ef5f632b03b93bf221ead4fe] (1) Schedule 22 (prospective amendments of the Sentencing Code and related legislation) is amended as follows.
+**53.**[^c-3cf0644ba016b88f47f9e6e1ecca9460][^c-59e6b8b4ef5f632b03b93bf221ead4fe] (1) Schedule 22 (prospective amendments of the Sentencing Code and related legislation) is amended as follows.
 
 (2) After Part 7 insert—
 
@@ -1959,7 +1959,7 @@ The Sentencing Act 2020 is amended as follows.
 >
 > In section 35A of the Proceeds of Crime Act 2002 (default term of imprisonment or detention), in subsection (4)(c), omit “, custody for life or detention in a young offender institution”.
 
-**54.**[^key-c1a98268615789fe3ccffe4a891fcdb7][^key-5488deb72d4a809dd632a016108175e9] In Schedule 24 (consequential amendments)—
+**54.**[^c-c1a98268615789fe3ccffe4a891fcdb7][^c-5488deb72d4a809dd632a016108175e9] In Schedule 24 (consequential amendments)—
 
 - (a) omit paragraphs 183 and 184;
 - (b) omit paragraph 185(3);
@@ -1973,7 +1973,7 @@ The Sentencing Act 2020 is amended as follows.
 
 **Not yet in force.**
 
-#### 55. Provisional discharge of confiscation orders made under saved legislation[^key-025c11981cb7194a6219c67d3c6a3ee5]
+#### 55. Provisional discharge of confiscation orders made under saved legislation[^c-025c11981cb7194a6219c67d3c6a3ee5]
 
 (1) This paragraph applies if—
 
@@ -2014,7 +2014,7 @@ The Sentencing Act 2020 is amended as follows.
 - (a) the day on which the confiscation order was made, or
 - (b) in a case where the order has been varied under the Drug Trafficking Offences Act 1986, Part 6 of the Criminal Justice Act 1988 or, as the case may be, Part 1 of the Drug Trafficking Act 1994, the day on which the order was varied.
 
-#### 56. Effect of provisional discharge under paragraph 55 and revocation of discharge[^key-ff0e07274cdb8c1ca561baa020c7d4aa]
+#### 56. Effect of provisional discharge under paragraph 55 and revocation of discharge[^c-ff0e07274cdb8c1ca561baa020c7d4aa]
 
 (1) This paragraph applies where a confiscation order has been discharged under paragraph 55 on a provisional basis.
 
@@ -2049,7 +2049,7 @@ The Sentencing Act 2020 is amended as follows.
 
 (9) There is no right of appeal against a decision of the court under this paragraph to revoke, or not to revoke, the provisional discharge of a confiscation order.
 
-#### 57. Time for payment where provisional discharge of order is revoked[^key-4d31765693ff141f4eedad3ed94d0e95]
+#### 57. Time for payment where provisional discharge of order is revoked[^c-4d31765693ff141f4eedad3ed94d0e95]
 
 (1) This paragraph applies where a court revokes the provisional discharge of a confiscation order—
 
@@ -2105,7 +2105,7 @@ the amount on which interest is payable in respect of the order does not include
 
 (10) The court must not make an order under sub-paragraph (2) or (4) unless it gives the prosecutor an opportunity to make representations.
 
-#### 58. Financial status orders[^key-19e153950613eee8c28529d55f17dd4c]
+#### 58. Financial status orders[^c-19e153950613eee8c28529d55f17dd4c]
 
 (1) This paragraph applies where—
 
@@ -2128,208 +2128,208 @@ the amount on which interest is payable in respect of the order does not include
 
 ## Annotations
 
-[^key-6dbbf276feb08c5d27272940d9ed9ed8]: Commencement: Sch. 21 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6dbbf276feb08c5d27272940d9ed9ed8]: Commencement: Sch. 21 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-fcddc8d0fca0d64918a05104d819730f]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/1) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-fcddc8d0fca0d64918a05104d819730f]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/1) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-e43a05f9132fa35d88cb6762a886bc2b]: Commencement: Sch. 21 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e43a05f9132fa35d88cb6762a886bc2b]: Commencement: Sch. 21 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9fbc4fbe12674f2080804565a6ed5bdc]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/2) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-9fbc4fbe12674f2080804565a6ed5bdc]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/2) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-f778e9bc51eb304a640038cb0fa1f354]: Commencement: Sch. 21 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f778e9bc51eb304a640038cb0fa1f354]: Commencement: Sch. 21 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-3e12faeb3d6d2cfd93cd4125097cce84]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/3) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-3e12faeb3d6d2cfd93cd4125097cce84]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/3) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-4a446c7e6bd9ae370f252b44b6cfff4b]: Commencement: Sch. 21 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4a446c7e6bd9ae370f252b44b6cfff4b]: Commencement: Sch. 21 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0efd79a98730bc7464eb9dbda8371faf]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/4) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-0efd79a98730bc7464eb9dbda8371faf]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/4) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-93cbfeb45a1e7cf9d493d54ffb4bb957]: Commencement: Sch. 21 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-93cbfeb45a1e7cf9d493d54ffb4bb957]: Commencement: Sch. 21 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-9bf42777c82ea0c0372f9e5b8e815b8b]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/5) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-9bf42777c82ea0c0372f9e5b8e815b8b]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/5) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-0f6c215c3f955dee63819ae9215e8fec]: Commencement: Sch. 21 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0f6c215c3f955dee63819ae9215e8fec]: Commencement: Sch. 21 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-fdfc28842970c62d8eae28577a724887]: Commencement: Sch. 21 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fdfc28842970c62d8eae28577a724887]: Commencement: Sch. 21 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-19f2ef68bb29d76f36c023ad1218831e]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/7) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-19f2ef68bb29d76f36c023ad1218831e]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/7) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-843e29aaf5c9c626cd71a03abf82d72a]: Commencement: Sch. 21 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-843e29aaf5c9c626cd71a03abf82d72a]: Commencement: Sch. 21 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-8b29aec9fd1fa0a1f387e0c8872d1316]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/8) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-8b29aec9fd1fa0a1f387e0c8872d1316]: Commencement: [Sch. 21 para. 8](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/8) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-55d748dd6bc935bd4a564d1df35fc625]: Commencement: Sch. 21 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-55d748dd6bc935bd4a564d1df35fc625]: Commencement: Sch. 21 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-d695e32ad1c776330be610a6a309a1b8]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/9) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-d695e32ad1c776330be610a6a309a1b8]: Commencement: [Sch. 21 para. 9](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/9) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-352e694ec4e4ca4196d505e21f27f1b3]: Commencement: Sch. 21 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-352e694ec4e4ca4196d505e21f27f1b3]: Commencement: Sch. 21 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c38f5215e3bbbe7c5bb758c8262d17df]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/10) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-c38f5215e3bbbe7c5bb758c8262d17df]: Commencement: [Sch. 21 para. 10](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/10) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-2ad1990c889c69061362ebe53bd2f6eb]: Commencement: Sch. 21 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-2ad1990c889c69061362ebe53bd2f6eb]: Commencement: Sch. 21 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-3a03e222491ee0ec559b5b6669e23e08]: Commencement: [Sch. 21 para. 11](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/11) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-3a03e222491ee0ec559b5b6669e23e08]: Commencement: [Sch. 21 para. 11](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/11) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-23d0f0ec5150c17869529f7cd6f7bcff]: Commencement: Sch. 21 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-23d0f0ec5150c17869529f7cd6f7bcff]: Commencement: Sch. 21 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-383c6dcf5bcc3dba8af8a9c6fbb90883]: Commencement: [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/12) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-383c6dcf5bcc3dba8af8a9c6fbb90883]: Commencement: [Sch. 21 para. 12](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/12) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-bddaddd1b3fbea08199309bcb1483fd8]: Commencement: Sch. 21 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-bddaddd1b3fbea08199309bcb1483fd8]: Commencement: Sch. 21 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-55da09731666a757d93fcdc89de67bd5]: Commencement: [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/13) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-55da09731666a757d93fcdc89de67bd5]: Commencement: [Sch. 21 para. 13](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/13) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-14cdd7ac8602f03bca81b223ea5cbd40]: Commencement: Sch. 21 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-14cdd7ac8602f03bca81b223ea5cbd40]: Commencement: Sch. 21 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-d1d53b04b75e0402fea352490d1487c7]: Commencement: [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/14) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-d1d53b04b75e0402fea352490d1487c7]: Commencement: [Sch. 21 para. 14](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/14) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-cf084c40f4ab996e7d5c32bf335668ec]: Commencement: Sch. 21 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-cf084c40f4ab996e7d5c32bf335668ec]: Commencement: Sch. 21 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a5560c1a0c729a1a58272f5ed6bf8466]: Commencement: [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/15) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-a5560c1a0c729a1a58272f5ed6bf8466]: Commencement: [Sch. 21 para. 15](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/15) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-5bae9e76919ba0297d2fadd782ae8a4d]: Commencement: Sch. 21 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5bae9e76919ba0297d2fadd782ae8a4d]: Commencement: Sch. 21 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-3467baf8c28fd969088df2fa2a7dce6e]: Commencement: [Sch. 21 para. 16](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/16) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-3467baf8c28fd969088df2fa2a7dce6e]: Commencement: [Sch. 21 para. 16](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/16) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-dcf3c28201e3f4d6c06a28468fa923ee]: Commencement: Sch. 21 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-dcf3c28201e3f4d6c06a28468fa923ee]: Commencement: Sch. 21 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-d3a77d8e0d97351e06625a601c17b27c]: Commencement: Sch. 21 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d3a77d8e0d97351e06625a601c17b27c]: Commencement: Sch. 21 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c639f563e99142570b0b9ad3b823b2ed]: Commencement: Sch. 21 para. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c639f563e99142570b0b9ad3b823b2ed]: Commencement: Sch. 21 para. 19 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-318a9116bb7909922db72b22a9f2b96c]: Commencement: Sch. 21 para. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-318a9116bb7909922db72b22a9f2b96c]: Commencement: Sch. 21 para. 20 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-190d832237ca05584bf371524ad90536]: Commencement: Sch. 21 para. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-190d832237ca05584bf371524ad90536]: Commencement: Sch. 21 para. 21 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-7fcc48a60447bf86b0b4ee99d48697e7]: Commencement: Sch. 21 para. 22 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7fcc48a60447bf86b0b4ee99d48697e7]: Commencement: Sch. 21 para. 22 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-3dd7a9f81ee4b37f6b5747ae42a84ed7]: Commencement: Sch. 21 para. 23 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-3dd7a9f81ee4b37f6b5747ae42a84ed7]: Commencement: Sch. 21 para. 23 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-41f8b705dc8077b9e7c4342ed9c47339]: Commencement: Sch. 21 para. 24 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-41f8b705dc8077b9e7c4342ed9c47339]: Commencement: Sch. 21 para. 24 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-7be26a41c17bcb6bdf605c36e293a785]: Commencement: Sch. 21 para. 25 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7be26a41c17bcb6bdf605c36e293a785]: Commencement: Sch. 21 para. 25 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-3bfd3765db7c56af0cd119bd88b65c00]: Commencement: [Sch. 21 para. 25](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/25) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-3bfd3765db7c56af0cd119bd88b65c00]: Commencement: [Sch. 21 para. 25](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/25) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-c950960ca6c4fdbcb8b81bc0d28372de]: Commencement: Sch. 21 para. 26 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c950960ca6c4fdbcb8b81bc0d28372de]: Commencement: Sch. 21 para. 26 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c31384cea1b2cd21aaade192ace641bb]: Commencement: [Sch. 21 para. 26(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/26/3) in force at 29.6.2026 for specified purposes by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/2)
+[^c-c31384cea1b2cd21aaade192ace641bb]: Commencement: [Sch. 21 para. 26(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/26/3) in force at 29.6.2026 for specified purposes by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/2)
 
-[^key-0097d9b84daf40c6dc772cafae55a99f]: Commencement: Sch. 21 para. 27 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0097d9b84daf40c6dc772cafae55a99f]: Commencement: Sch. 21 para. 27 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-518b430cd4c133ba307c43da48233062]: Commencement: [Sch. 21 para. 27](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/27) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-518b430cd4c133ba307c43da48233062]: Commencement: [Sch. 21 para. 27](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/27) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-d1427a65ff97483db19f4cac132c680f]: Commencement: Sch. 21 para. 28 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d1427a65ff97483db19f4cac132c680f]: Commencement: Sch. 21 para. 28 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e4595f9c45056589885fb9dadf5684be]: Commencement: [Sch. 21 para. 28](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/28) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-e4595f9c45056589885fb9dadf5684be]: Commencement: [Sch. 21 para. 28](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/28) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-28f1de7884f0d3d312b3f9ce11b31d4c]: Commencement: Sch. 21 para. 29 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-28f1de7884f0d3d312b3f9ce11b31d4c]: Commencement: Sch. 21 para. 29 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-2db71613e19103ad904e3ed1c011c411]: Commencement: [Sch. 21 para. 29](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/29) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-2db71613e19103ad904e3ed1c011c411]: Commencement: [Sch. 21 para. 29](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/29) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-0eb74ab944b491434f6725f000fca09f]: Commencement: Sch. 21 para. 30 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0eb74ab944b491434f6725f000fca09f]: Commencement: Sch. 21 para. 30 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-618c205cb06254a83d24fd9beed3619b]: Commencement: [Sch. 21 para. 30](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/30) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-618c205cb06254a83d24fd9beed3619b]: Commencement: [Sch. 21 para. 30](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/30) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-69bc56541930fdf3eb4ce1ad92bc0c0f]: Commencement: Sch. 21 para. 31 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-69bc56541930fdf3eb4ce1ad92bc0c0f]: Commencement: Sch. 21 para. 31 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-567708c27544b3bf9e6219bb53c16713]: Commencement: [Sch. 21 para. 31](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/31) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-567708c27544b3bf9e6219bb53c16713]: Commencement: [Sch. 21 para. 31](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/31) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-fb0fda6ebcaa19659e19eb3ced2050cb]: Commencement: Sch. 21 para. 32 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fb0fda6ebcaa19659e19eb3ced2050cb]: Commencement: Sch. 21 para. 32 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-78ced145e0b03ee3aee8a7b9f7680966]: Commencement: [Sch. 21 para. 32](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/32) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-78ced145e0b03ee3aee8a7b9f7680966]: Commencement: [Sch. 21 para. 32](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/32) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-820d61230abb4e82102dcab0674e132f]: Commencement: Sch. 21 para. 33 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-820d61230abb4e82102dcab0674e132f]: Commencement: Sch. 21 para. 33 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4fb9e35433c0029291e32bfcb35abac7]: Commencement: [Sch. 21 para. 33](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/33) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-4fb9e35433c0029291e32bfcb35abac7]: Commencement: [Sch. 21 para. 33](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/33) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-66cc2f76152fafff37b32de14f8c2c61]: Commencement: Sch. 21 para. 34 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-66cc2f76152fafff37b32de14f8c2c61]: Commencement: Sch. 21 para. 34 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-d228ba244e6907e4ffc293752e07436d]: Commencement: [Sch. 21 para. 34](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/34) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-d228ba244e6907e4ffc293752e07436d]: Commencement: [Sch. 21 para. 34](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/34) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-bb01987e731c720b918786474c86410e]: Commencement: Sch. 21 para. 35 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-bb01987e731c720b918786474c86410e]: Commencement: Sch. 21 para. 35 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-8e4616676378dbda22057ee203d7fe6e]: Commencement: [Sch. 21 para. 35](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/35) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-8e4616676378dbda22057ee203d7fe6e]: Commencement: [Sch. 21 para. 35](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/35) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-5467f2e32876192669c8686e3eadbf55]: Commencement: Sch. 21 para. 36 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5467f2e32876192669c8686e3eadbf55]: Commencement: Sch. 21 para. 36 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-099004c7ffaccb55194db6309ad2f13c]: Commencement: [Sch. 21 para. 36](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/36) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-099004c7ffaccb55194db6309ad2f13c]: Commencement: [Sch. 21 para. 36](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/36) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-9311bd4590635854bdbc832c916b8136]: Commencement: Sch. 21 para. 37 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9311bd4590635854bdbc832c916b8136]: Commencement: Sch. 21 para. 37 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b2dacf703f52cd3f633d0b666bece79b]: Commencement: [Sch. 21 para. 37](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/37) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-b2dacf703f52cd3f633d0b666bece79b]: Commencement: [Sch. 21 para. 37](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/37) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-0dded9a688e9e796f0496b1eb7f01689]: Commencement: Sch. 21 para. 38 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-0dded9a688e9e796f0496b1eb7f01689]: Commencement: Sch. 21 para. 38 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6b75ddbfb542659d70f9e28096036066]: Commencement: [Sch. 21 para. 38](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/38) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-6b75ddbfb542659d70f9e28096036066]: Commencement: [Sch. 21 para. 38](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/38) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-12fe9e5561bd31741f446e3303adc174]: Commencement: Sch. 21 para. 39 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-12fe9e5561bd31741f446e3303adc174]: Commencement: Sch. 21 para. 39 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-104fb2fe1d66e3735a3dec37c499f656]: Commencement: [Sch. 21 para. 39](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/39) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-104fb2fe1d66e3735a3dec37c499f656]: Commencement: [Sch. 21 para. 39](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/39) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-fc5d396c6020342a5b708154454e5399]: Commencement: Sch. 21 para. 40 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fc5d396c6020342a5b708154454e5399]: Commencement: Sch. 21 para. 40 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-ba78745b812bf99f2cf258949b649ec8]: Commencement: [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/40) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-ba78745b812bf99f2cf258949b649ec8]: Commencement: [Sch. 21 para. 40](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/40) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-ccf3a02170a6f6a926d5ec0f9bbd4e05]: Commencement: Sch. 21 para. 41 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ccf3a02170a6f6a926d5ec0f9bbd4e05]: Commencement: Sch. 21 para. 41 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6ac6655952690dfe30d3a1c4b82818c7]: Commencement: [Sch. 21 para. 41](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/41) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-6ac6655952690dfe30d3a1c4b82818c7]: Commencement: [Sch. 21 para. 41](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/41) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-9961dbb559a85d789f42e3668c2bf579]: Commencement: Sch. 21 para. 42 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9961dbb559a85d789f42e3668c2bf579]: Commencement: Sch. 21 para. 42 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-2b3766fcc247cf28be4e1976b3f816f0]: Commencement: [Sch. 21 para. 42](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/42) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-2b3766fcc247cf28be4e1976b3f816f0]: Commencement: [Sch. 21 para. 42](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/42) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-f4c4c3c498ed63bdff070703cd2dc136]: Commencement: Sch. 21 para. 43 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f4c4c3c498ed63bdff070703cd2dc136]: Commencement: Sch. 21 para. 43 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e934e1bb70bd57966d38306f05730271]: Commencement: [Sch. 21 para. 43](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/43) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-e934e1bb70bd57966d38306f05730271]: Commencement: [Sch. 21 para. 43](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/43) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-5c451d84e13d77a6f0531cabe68b57d7]: Commencement: Sch. 21 para. 44 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5c451d84e13d77a6f0531cabe68b57d7]: Commencement: Sch. 21 para. 44 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6259a1dd6d7b26e1befd6ee9cbdd372f]: Commencement: [Sch. 21 para. 44](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/44) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-6259a1dd6d7b26e1befd6ee9cbdd372f]: Commencement: [Sch. 21 para. 44](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/44) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-4297a80eedf8054315e35d557e772b8f]: Commencement: Sch. 21 para. 45 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4297a80eedf8054315e35d557e772b8f]: Commencement: Sch. 21 para. 45 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-fb4268f10d64397cba09e14f9d83a346]: Commencement: [Sch. 21 para. 45](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/45) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-fb4268f10d64397cba09e14f9d83a346]: Commencement: [Sch. 21 para. 45](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/45) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-8e354fe95e21b4381867f842470c14f8]: Commencement: Sch. 21 para. 46 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8e354fe95e21b4381867f842470c14f8]: Commencement: Sch. 21 para. 46 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5a16aec88f021d96c5575fbc7ab8f371]: Commencement: [Sch. 21 para. 46](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/46) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-5a16aec88f021d96c5575fbc7ab8f371]: Commencement: [Sch. 21 para. 46](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/46) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-76f91cdc11925cc3694b0e47eb756e7a]: Commencement: Sch. 21 para. 47 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-76f91cdc11925cc3694b0e47eb756e7a]: Commencement: Sch. 21 para. 47 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-2aae102f6546e7d6bb926470eec4c061]: Commencement: [Sch. 21 para. 47](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/47) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-2aae102f6546e7d6bb926470eec4c061]: Commencement: [Sch. 21 para. 47](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/47) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-5e419c872b59175332ac7c184d591d75]: Commencement: Sch. 21 para. 48 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5e419c872b59175332ac7c184d591d75]: Commencement: Sch. 21 para. 48 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-ef7d0039b0f5fdbd6bda259a55d6f77d]: Commencement: [Sch. 21 para. 48](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/48) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-ef7d0039b0f5fdbd6bda259a55d6f77d]: Commencement: [Sch. 21 para. 48](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/48) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-c9154d665f6406d511494186719814f9]: Commencement: Sch. 21 para. 49 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c9154d665f6406d511494186719814f9]: Commencement: Sch. 21 para. 49 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4dfeb46a51e694af41199a539d4f02fb]: Commencement: [Sch. 21 para. 49](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/49) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-4dfeb46a51e694af41199a539d4f02fb]: Commencement: [Sch. 21 para. 49](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/49) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-b6bd905eb1cd8c76c7bc22e6429223ff]: Commencement: Sch. 21 para. 50 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b6bd905eb1cd8c76c7bc22e6429223ff]: Commencement: Sch. 21 para. 50 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-f3a7ddc88be443f50d803ed2e3aabe51]: Commencement: [Sch. 21 para. 50](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/50) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-f3a7ddc88be443f50d803ed2e3aabe51]: Commencement: [Sch. 21 para. 50](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/50) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-8a2e72a9784f42b4633bd99858da9b54]: Commencement: Sch. 21 para. 51 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8a2e72a9784f42b4633bd99858da9b54]: Commencement: Sch. 21 para. 51 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-0f773377d3c24301c1e679e2f035ea6d]: Commencement: [Sch. 21 para. 51](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/51) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-0f773377d3c24301c1e679e2f035ea6d]: Commencement: [Sch. 21 para. 51](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/51) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-f2d4786380138a86d9048d71de4f6b89]: Commencement: Sch. 21 para. 52 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-f2d4786380138a86d9048d71de4f6b89]: Commencement: Sch. 21 para. 52 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-736c70a7b72c12e8e6a85572a2d68b17]: Commencement: [Sch. 21 para. 52](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/52) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-736c70a7b72c12e8e6a85572a2d68b17]: Commencement: [Sch. 21 para. 52](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/52) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-3cf0644ba016b88f47f9e6e1ecca9460]: Commencement: Sch. 21 para. 53 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-3cf0644ba016b88f47f9e6e1ecca9460]: Commencement: Sch. 21 para. 53 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-59e6b8b4ef5f632b03b93bf221ead4fe]: Commencement: [Sch. 21 para. 53](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/53) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-59e6b8b4ef5f632b03b93bf221ead4fe]: Commencement: [Sch. 21 para. 53](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/53) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-c1a98268615789fe3ccffe4a891fcdb7]: Commencement: Sch. 21 para. 54 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c1a98268615789fe3ccffe4a891fcdb7]: Commencement: Sch. 21 para. 54 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5488deb72d4a809dd632a016108175e9]: Commencement: [Sch. 21 para. 54](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/54) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-5488deb72d4a809dd632a016108175e9]: Commencement: [Sch. 21 para. 54](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/54) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
 
-[^key-025c11981cb7194a6219c67d3c6a3ee5]: Commencement: Sch. 21 para. 55 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-025c11981cb7194a6219c67d3c6a3ee5]: Commencement: Sch. 21 para. 55 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-ff0e07274cdb8c1ca561baa020c7d4aa]: Commencement: Sch. 21 para. 56 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ff0e07274cdb8c1ca561baa020c7d4aa]: Commencement: Sch. 21 para. 56 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4d31765693ff141f4eedad3ed94d0e95]: Commencement: Sch. 21 para. 57 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4d31765693ff141f4eedad3ed94d0e95]: Commencement: Sch. 21 para. 57 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-19e153950613eee8c28529d55f17dd4c]: Commencement: Sch. 21 para. 58 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-19e153950613eee8c28529d55f17dd4c]: Commencement: Sch. 21 para. 58 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

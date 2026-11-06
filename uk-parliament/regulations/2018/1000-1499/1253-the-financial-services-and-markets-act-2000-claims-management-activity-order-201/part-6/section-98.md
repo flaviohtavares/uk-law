@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 98. Financial Services (Banking Reform) Act 2013[^key-0a247a639ba929ff9425eb8c4b63e199][^key-d3968fe8977817df91e0b255f39b4251]
+## 98. Financial Services (Banking Reform) Act 2013[^c-0a247a639ba929ff9425eb8c4b63e199][^c-d3968fe8977817df91e0b255f39b4251]
 
 *Extent: E+W+S*
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0a247a639ba929ff9425eb8c4b63e199]: Commencement: Art. 98 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-0a247a639ba929ff9425eb8c4b63e199]: Commencement: Art. 98 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-d3968fe8977817df91e0b255f39b4251]: Commencement: [Art. 98](https://www.legislation.gov.uk/uksi/2018/1253/article/98) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-d3968fe8977817df91e0b255f39b4251]: Commencement: [Art. 98](https://www.legislation.gov.uk/uksi/2018/1253/article/98) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00137]: Footnote: [2013 c. 33](https://www.legislation.gov.uk/ukpga/2013/33).

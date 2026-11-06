@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Regulations relating to denatured alcohol[^M_I_c4df6106-3f49-413b-e30a-1af17ab0a9c2][^key-ca7e8bd2d54a6a7b5e019d12fc7fcbed]
+## 92. Regulations relating to denatured alcohol[^M_I_c4df6106-3f49-413b-e30a-1af17ab0a9c2][^c-ca7e8bd2d54a6a7b5e019d12fc7fcbed]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^M_I_c4df6106-3f49-413b-e30a-1af17ab0a9c2]: Commencement: S. 92 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-ca7e8bd2d54a6a7b5e019d12fc7fcbed]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/30/section/92) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-ca7e8bd2d54a6a7b5e019d12fc7fcbed]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/30/section/92) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/e) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

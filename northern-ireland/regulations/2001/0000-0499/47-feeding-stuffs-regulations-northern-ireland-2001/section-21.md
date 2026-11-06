@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 21. Further exemption from these Regulations[^key-20daf75bdd1598c66a1ff54e8ed3d589]
+## 21. Further exemption from these Regulations[^c-20daf75bdd1598c66a1ff54e8ed3d589]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The provisions of regulation 11(2) (insofar as they regulate the putting into ci
 
 ## Annotations
 
-[^key-20daf75bdd1598c66a1ff54e8ed3d589]: Commencement: Reg. 21 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-20daf75bdd1598c66a1ff54e8ed3d589]: Commencement: Reg. 21 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

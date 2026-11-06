@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22ZB. Matters to which court is to have regard in deciding how to exercise power under section 22ZA[^key-b1d0aee692876002353ab90b1ebb855c]
+## 22ZB. Matters to which court is to have regard in deciding how to exercise power under section 22ZA[^c-b1d0aee692876002353ab90b1ebb855c]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1d0aee692876002353ab90b1ebb855c]: Textual amendment: [S. 22ZB](https://www.legislation.gov.uk/ukpga/1973/18/section/22ZB) inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 50](https://www.legislation.gov.uk/ukpga/2012/10/section/50), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-b1d0aee692876002353ab90b1ebb855c]: Textual amendment: [S. 22ZB](https://www.legislation.gov.uk/ukpga/1973/18/section/22ZB) inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 50](https://www.legislation.gov.uk/ukpga/2012/10/section/50), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)

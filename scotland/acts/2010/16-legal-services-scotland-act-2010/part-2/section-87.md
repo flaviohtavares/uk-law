@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Appeal procedure[^key-4f9f976beb1a6107ca76bb2090d500ab]
+## 87. Appeal procedure[^c-4f9f976beb1a6107ca76bb2090d500ab]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f9f976beb1a6107ca76bb2090d500ab]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/16/section/87) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-4f9f976beb1a6107ca76bb2090d500ab]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2010/16/section/87) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

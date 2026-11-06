@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126A. Licensing authority list as to herbal substances, preparations and combinations for use in traditional herbal medicinal products[^key-61894fe5078e1bf81579bcff06aede44]
+## 126A. Licensing authority list as to herbal substances, preparations and combinations for use in traditional herbal medicinal products[^c-61894fe5078e1bf81579bcff06aede44]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61894fe5078e1bf81579bcff06aede44]: Textual amendment: Reg. 126A and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [112](https://www.legislation.gov.uk/uksi/2019/775/regulation/112) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 83](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61894fe5078e1bf81579bcff06aede44]: Textual amendment: Reg. 126A and cross-heading inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [112](https://www.legislation.gov.uk/uksi/2019/775/regulation/112) (as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 83](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/83)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

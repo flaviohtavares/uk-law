@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Pre-application consultation report[^key-ef99528af2aba60aa6b1cf0bf0dad3ab]
+## 24. Pre-application consultation report[^c-ef99528af2aba60aa6b1cf0bf0dad3ab]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef99528af2aba60aa6b1cf0bf0dad3ab]: Commencement: S. 24 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-ef99528af2aba60aa6b1cf0bf0dad3ab]: Commencement: S. 24 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

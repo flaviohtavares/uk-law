@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Duty to adopt standing orders with respect to staff.[^c15263781][^key-d12d4abf6bf002796fb73a69a9e7b237][^key-b0be83cb15f26b5a71bee33de960e74c][^key-5f6f1cce943f89380cd502934432040e]
+## 8. Duty to adopt standing orders with respect to staff.[^c15263781][^c-d12d4abf6bf002796fb73a69a9e7b237][^c-b0be83cb15f26b5a71bee33de960e74c][^c-5f6f1cce943f89380cd502934432040e]
 
 *Extent: E+W+S*
 
@@ -65,7 +65,7 @@ summary: ''
 
 *Extent: W*
 
-- (aa)[^key-b2bc20d51840e875074c0141a0f5bba6] in relation to Wales, means a corporate joint committee;
+- (aa)[^c-b2bc20d51840e875074c0141a0f5bba6] in relation to Wales, means a corporate joint committee;
 - (b) in relation to Scotland, means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994[^c15263831].
 
 ## Annotations
@@ -74,11 +74,11 @@ summary: ''
 
     S. 8 applied (8.5.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 67(6)](https://www.legislation.gov.uk/ukpga/1999/29/section/67/6) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/2)
 
-[^key-d12d4abf6bf002796fb73a69a9e7b237]: Modification: S. 8 applied (E.W.) (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1778/article/1), [17(7)(d)](https://www.legislation.gov.uk/uksi/2004/1778/article/17/7/d)
+[^c-d12d4abf6bf002796fb73a69a9e7b237]: Modification: S. 8 applied (E.W.) (22.7.2004) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1778/article/1), [17(7)(d)](https://www.legislation.gov.uk/uksi/2004/1778/article/17/7/d)
 
-[^key-b0be83cb15f26b5a71bee33de960e74c]: Modification: S. 8 applied (E.W.) (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [17(7)](https://www.legislation.gov.uk/uksi/2004/1777/article/17/7)
+[^c-b0be83cb15f26b5a71bee33de960e74c]: Modification: S. 8 applied (E.W.) (22.7.2004) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [17(7)](https://www.legislation.gov.uk/uksi/2004/1777/article/17/7)
 
-[^key-5f6f1cce943f89380cd502934432040e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/part/I) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/5/4)
+[^c-5f6f1cce943f89380cd502934432040e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/part/I) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/5/4)
 
 [^c15263791]: Textual amendment: Words in s. 8(4)(c)(ii) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
@@ -86,6 +86,6 @@ summary: ''
 
     S. 8(4)(d) substituted (W.) (1.4.2002) by [The Local Authorities (Executive Arrangements) (Modification of Enactments and Further Provisions) (Wales) Order 2002 (S.I. 2002/803)](https://www.legislation.gov.uk/uksi/2002/803), [art. 5](https://www.legislation.gov.uk/uksi/2002/803/article/5)
 
-[^key-b2bc20d51840e875074c0141a0f5bba6]: Textual amendment: [S. 8(5)(aa)](https://www.legislation.gov.uk/ukpga/1989/42/section/8/5/aa) inserted (W.) (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2021/1349/regulation/11)
+[^c-b2bc20d51840e875074c0141a0f5bba6]: Textual amendment: [S. 8(5)(aa)](https://www.legislation.gov.uk/ukpga/1989/42/section/8/5/aa) inserted (W.) (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [11](https://www.legislation.gov.uk/wsi/2021/1349/regulation/11)
 
 [^c15263831]: Textual amendment: Words in s. 8(5)(b) substituted (S.) (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 161(1)(5)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/161/1/5); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)

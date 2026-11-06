@@ -43,7 +43,7 @@ Coming into force
 
 1st March 2002
 
-The Secretary of State, in exercise of the powers conferred upon her by sections 92 and 219(2) of the Water Resources Act 1991[^f00001], hereby makes the following Regulations:[^key-08a7a91788449ef8262ccf507406af61]
+The Secretary of State, in exercise of the powers conferred upon her by sections 92 and 219(2) of the Water Resources Act 1991[^f00001], hereby makes the following Regulations:[^c-08a7a91788449ef8262ccf507406af61]
 
 ## 1. Citation, commencement, extent and interpretation
 
@@ -63,7 +63,7 @@ The Secretary of State, in exercise of the powers conferred upon her by sections
 
 (2) These Regulations do not apply to the storage of oil—
 
-- (a) if the oil is waste oil within the meaning of regulation 2(1) of[^key-6801715d1d47c6ba39f99e6c1c1deab6] the Environmental Permitting (England and Wales) Regulations 2016[^key-653936adbc60e6a8517d0558c24e2c33];
+- (a) if the oil is waste oil within the meaning of regulation 2(1) of[^c-6801715d1d47c6ba39f99e6c1c1deab6] the Environmental Permitting (England and Wales) Regulations 2016[^c-653936adbc60e6a8517d0558c24e2c33];
 - (b) in any container which is situated in a building or wholly underground;
 - (c) in any container with a storage capacity of 200 litres or less;
 - (d) on any premises used—
@@ -210,7 +210,7 @@ A person who has custody or control of any oil in circumstances in which there i
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-## 10. Civil sanctions[^key-87d16a414302b9dec4265edcfe17406e]
+## 10. Civil sanctions[^c-87d16a414302b9dec4265edcfe17406e]
 
 (1) The Environment Agency may impose a fixed monetary penalty, variable monetary penalty, restoration notice or stop notice, or accept an enforcement undertaking, in relation to an offence under regulation 9 as if it were an offence under a provision specified in relation to that sanction in Schedule 5 to the Environmental Civil Sanctions (England) Order 2010.
 
@@ -240,12 +240,12 @@ Failure to comply with any of the requirements of regulations 3 to 5 or a notice
 
 [^f00001]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57); there are amendments to sections 92 and 219(2) which are not relevant to these regulations. The relevant powers of the Secretary of State have been devolved in relation to Wales by article 2 of the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)), although there are concurrent powers in relation to those parts of Wales which are within the catchment areas of the rivers, Dee, Wye and Severn (see the entry in Schedule 1 to the Order for the Water Resources Act 1991).
 
-[^key-08a7a91788449ef8262ccf507406af61]: Modification: Regulations applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(h)](https://www.legislation.gov.uk/uksi/2020/214/article/5/h)
+[^c-08a7a91788449ef8262ccf507406af61]: Modification: Regulations applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(h)](https://www.legislation.gov.uk/uksi/2020/214/article/5/h)
 
-[^key-6801715d1d47c6ba39f99e6c1c1deab6]: Textual amendment: Words in reg. 2(2)(a) substituted (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 41](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/41) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
+[^c-6801715d1d47c6ba39f99e6c1c1deab6]: Textual amendment: Words in reg. 2(2)(a) substituted (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 41](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/41) (with [regs. 69-72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/69))
 
-[^key-653936adbc60e6a8517d0558c24e2c33]: Textual amendment: Words in reg. 2(2)(a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/10) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-653936adbc60e6a8517d0558c24e2c33]: Textual amendment: Words in reg. 2(2)(a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 Pt. 2 para. 10](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/10) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^f00003]: Footnote: [1947 c. 48](https://www.legislation.gov.uk/ukpga/1947/48).
 
-[^key-87d16a414302b9dec4265edcfe17406e]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/2954/regulation/10) added (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/1159/regulation/4)
+[^c-87d16a414302b9dec4265edcfe17406e]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2001/2954/regulation/10) added (6.4.2010) by [The Environmental Civil Sanctions (Miscellaneous Amendments) (England) Regulations 2010 (S.I. 2010/1159)](https://www.legislation.gov.uk/uksi/2010/1159), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1159/regulation/1), [4](https://www.legislation.gov.uk/uksi/2010/1159/regulation/4)

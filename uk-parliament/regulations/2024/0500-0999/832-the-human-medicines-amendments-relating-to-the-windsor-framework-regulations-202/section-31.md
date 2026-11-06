@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Amendment to regulation 50G[^key-558b721e468008050f75d15efffc81c9]
+## 31. Amendment to regulation 50G[^c-558b721e468008050f75d15efffc81c9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In regulation 50G (applications relating to orphan medicinal products)[^f00042]â
 
 ## Annotations
 
-[^key-558b721e468008050f75d15efffc81c9]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2024/832/regulation/31) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-558b721e468008050f75d15efffc81c9]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2024/832/regulation/31) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00042]: Footnote: Regulation 50G was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

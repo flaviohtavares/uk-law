@@ -50,28 +50,28 @@ She is a Minister designated [^f00003] for the purposes of section 2(2) of the E
 
 She has consulted the Administrative Justice and Tribunals Council in accordance with section 8 of the Tribunals and Inquiries Act 1992[^f00004]:
 
-## 1. Citation and Commencement[^key-1a46a2605ed2548a8361698b9fa4215a]
+## 1. Citation and Commencement[^c-1a46a2605ed2548a8361698b9fa4215a]
 
 These Regulations may be cited as the Civil Aviation (Allocation of Scarce Capacity) Regulations 2007 and come into force on 31st January 2008.
 
-## 2. Interpretation[^key-4820e66f55c8e523c8812ed8161431b2]
+## 2. Interpretation[^c-4820e66f55c8e523c8812ed8161431b2]
 
 In these Regulations—
 
 - “the Act” means the Civil Aviation Act 1982;
-- “air service agreement” means an agreement between the United Kingdom and another country[^key-a76382aef053d15a3a850d7a12693d32] governing aviation relations [^key-7aa1f7aa66fd31d0f01e235918fb2cd5]... ;
+- “air service agreement” means an agreement between the United Kingdom and another country[^c-a76382aef053d15a3a850d7a12693d32] governing aviation relations [^c-7aa1f7aa66fd31d0f01e235918fb2cd5]... ;
 - “applicant” means a qualifying carrier who has applied for a scarce capacity allocation certificate;
 - “party” means any person who has exercised the right to be heard in accordance with regulation 13(1) and any person the CAA decides to hear pursuant to regulation 13(3);
-- “[^key-2eaddd01857026baf573e4d2f180203d]**qualifying carrier**”, in relation to a capacity constrained route, means—
+- “[^c-2eaddd01857026baf573e4d2f180203d]**qualifying carrier**”, in relation to a capacity constrained route, means—
   - (a) an undertaking which has been granted an air transport licence in accordance with section 65 of the Act,
   - (b) a UK air carrier as defined in section 69A(8) of the Act, or
   - (c) any other air carrier authorised in accordance with an air service agreement to operate services on that route as an airline of the United Kingdom;
 - “relevant traffic rights” means the traffic rights granted to the United Kingdom under or by virtue of an air service agreement;
 - “scarce capacity” means the capacity which exists for providing air services where the relevant traffic rights are insufficient to enable all qualifying carriers who would wish to operate services on a route, to provide all the services they would wish to provide;
 - “scarce capacity allocation certificate” means a certificate issued in accordance with regulation 19;
-- [^key-108d9d058669f96f1de5806af63bb689]...
+- [^c-108d9d058669f96f1de5806af63bb689]...
 
-## 3. Consequential amendments[^key-edac1086286c46896831b2ae53ec6c1d]
+## 3. Consequential amendments[^c-edac1086286c46896831b2ae53ec6c1d]
 
 In the Civil Aviation Regulations 1991[^f00007]—
 
@@ -83,7 +83,7 @@ are omitted.
 
 ## Capacity constrained routes
 
-### 4. Notification of scarce capacity[^key-370d39eb460eb05302c1baf7e9fb5e82]
+### 4. Notification of scarce capacity[^c-370d39eb460eb05302c1baf7e9fb5e82]
 
 (1) Where the Secretary of State believes that within 6 months there will be scarce capacity on a route, she must notify the CAA of that belief.
 
@@ -107,7 +107,7 @@ are omitted.
 
 (6) For the purposes of these Regulations a route becomes a capacity constrained route on the date specified under paragraph (4)(a) and remains as such until the date specified in the notice published under regulation 5(2).
 
-### 5. Route ceasing to be capacity constrained route[^key-53499914422974618ccdab2d69519c27]
+### 5. Route ceasing to be capacity constrained route[^c-53499914422974618ccdab2d69519c27]
 
 (1) Where the Secretary of State considers that there is no longer scarce capacity on a route she must notify the CAA.
 
@@ -115,18 +115,18 @@ are omitted.
 
 ## Allocation of scarce capacity on capacity constrained routes
 
-### 6. Scope of regulations 7 to 24[^key-9272b964843c53680034b4fba36d08f9]
+### 6. Scope of regulations 7 to 24[^c-9272b964843c53680034b4fba36d08f9]
 
 Regulations 7 to 24 apply where a qualifying carrier operates or wishes to operate an air service on a capacity constrained route.
 
-### 7. Restrictions on carriage for reward[^key-c8ece64d306964e2c8c28eba87e080b4]
+### 7. Restrictions on carriage for reward[^c-c8ece64d306964e2c8c28eba87e080b4]
 
 No person shall use an aircraft for the carriage for reward of passengers or cargo on a capacity constrained route unless—
 
 - (a) the qualifying carrier operating the air service holds a scarce capacity allocation certificate authorising him to operate aircraft on the route in question; and
 - (b) the terms of the scarce capacity allocation certificate are complied with insofar as they relate to that route.
 
-### 8. Prescribed function of the CAA[^key-249c427628550f67f0b716ca9307231b]
+### 8. Prescribed function of the CAA[^c-249c427628550f67f0b716ca9307231b]
 
 (1) The function of allocating scarce capacity on a capacity constrained route is prescribed as a function of the CAA for the purposes of section 7(2) of the Act.
 
@@ -139,7 +139,7 @@ No person shall use an aircraft for the carriage for reward of passengers or car
 
 in which case the quorum is one member.
 
-### 9. CAA functions in allocating scarce capacity[^key-ca169c2adacd256ddeeda2f77ab00e83]
+### 9. CAA functions in allocating scarce capacity[^c-ca169c2adacd256ddeeda2f77ab00e83]
 
 (1) The CAA must allocate scarce capacity in accordance with this regulation.
 
@@ -171,7 +171,7 @@ from noise, vibration, atmospheric pollution or any other cause attributable to 
 
 (6) In performing the function of allocating scarce capacity, the CAA must have regard to any advice received from the Secretary of State.
 
-### 10. Application for the grant, revocation or variation of a scarce capacity allocation certificate[^key-c6c22d88fc7137b4a6a56938a1e6c3a7]
+### 10. Application for the grant, revocation or variation of a scarce capacity allocation certificate[^c-c6c22d88fc7137b4a6a56938a1e6c3a7]
 
 (1) A qualifying carrier wishing to operate on a capacity constrained route must apply in writing to the CAA for a scarce capacity allocation certificate.
 
@@ -194,7 +194,7 @@ from noise, vibration, atmospheric pollution or any other cause attributable to 
 
 (6) The CAA may direct that an application be treated as being such number of separate applications as it may specify, and each such application will be treated accordingly.
 
-### 11. Grant, revocation or variation of a scarce capacity allocation certificate without application being made[^key-7b6fe9aebf9f93b78a7479a02d375a7d]
+### 11. Grant, revocation or variation of a scarce capacity allocation certificate without application being made[^c-7b6fe9aebf9f93b78a7479a02d375a7d]
 
 (1) The CAA may grant, vary or revoke a scarce capacity allocation certificate otherwise than in pursuance of an application under regulation 10.
 
@@ -211,7 +211,7 @@ from noise, vibration, atmospheric pollution or any other cause attributable to 
 - (a) the holder of the scarce capacity allocation certificate, and
 - (b) the holders of all other scarce capacity allocation certificates relating to the route to which the proposal relates.
 
-### 12. Objections and representations[^key-a13caa2a18e31f2bd7a542b6e87c58d7]
+### 12. Objections and representations[^c-a13caa2a18e31f2bd7a542b6e87c58d7]
 
 (1) Any person may serve on the CAA an objection to, or a representation about—
 
@@ -232,7 +232,7 @@ from noise, vibration, atmospheric pollution or any other cause attributable to 
 
 (5) If the applicant has had an objection or representation served on him in accordance with paragraph (3), the applicant must, if so required in writing by the person making the objection or representation, serve him with a copy of the application within 3 working days after receiving such a request.
 
-### 13. Hearings[^key-a6f4d4f92d48fa7e66f3dceba41bc2a2]
+### 13. Hearings[^c-a6f4d4f92d48fa7e66f3dceba41bc2a2]
 
 (1) The following persons have a right to be heard—
 
@@ -253,7 +253,7 @@ from noise, vibration, atmospheric pollution or any other cause attributable to 
 
 the CAA may, if it thinks fit, hold a hearing and permit that person to be heard at the hearing.
 
-### 14. Preliminary meetings[^key-b60b6481ba954f31f6f4bc78f70bb93d]
+### 14. Preliminary meetings[^c-b60b6481ba954f31f6f4bc78f70bb93d]
 
 (1) Before the date fixed for the hearing, the CAA may hold a preliminary meeting to discuss the conduct of the hearing.
 
@@ -261,7 +261,7 @@ the CAA may, if it thinks fit, hold a hearing and permit that person to be heard
 
 (3) Any party may attend in person or be represented by any person whom he may have authorised to represent him.
 
-### 15. Notice of hearing and providing of information by the CAA[^key-f24e1d123b9586ec76e4ee7f90605400]
+### 15. Notice of hearing and providing of information by the CAA[^c-f24e1d123b9586ec76e4ee7f90605400]
 
 (1) No hearing may take place unless the CAA has—
 
@@ -280,7 +280,7 @@ the CAA may, if it thinks fit, hold a hearing and permit that person to be heard
   - (i) relates to the commercial or financial affairs of that person; and
   - (ii) it cannot be disclosed to the prospective recipient without unwarranted disadvantage to the person who provided it.
 
-### 16. Procedure at hearings[^key-48e219a5c8b89fc4fb7ea2a335a55d54]
+### 16. Procedure at hearings[^c-48e219a5c8b89fc4fb7ea2a335a55d54]
 
 (1) Hearings will be conducted by the CAA, sitting with such employees of the CAA acting as advisers as it thinks fit.
 
@@ -311,7 +311,7 @@ will not invalidate any decision taken by the CAA.
 
 (10) A copy of the transcript of the proceedings must be made available to any person on the payment of a reasonable fee, except where a decision has been taken to hold the hearing in private pursuant to regulation 16(5), in which case a transcript must only be made available to those present at the hearing.
 
-### 17. Grant, refusal variation or revocation of a scarce capacity allocation certificate[^key-f6699734b4aef92c1166387f613f3557]
+### 17. Grant, refusal variation or revocation of a scarce capacity allocation certificate[^c-f6699734b4aef92c1166387f613f3557]
 
 (1) The CAA must decide whether to grant, refuse to grant, revoke or vary a scarce capacity allocation certificate as soon as reasonably practicable—
 
@@ -325,7 +325,7 @@ will not invalidate any decision taken by the CAA.
 
 (3) A notice under paragraph (2) must state the reasons for its decision and must be published in the Official Record.
 
-### 18. Notices[^key-79a0690e8929c6808a290e3f798afba7]
+### 18. Notices[^c-79a0690e8929c6808a290e3f798afba7]
 
 (1) This regulation has effect in relation to any notice required by any provision of these regulations to be given to any person.
 
@@ -339,7 +339,7 @@ will not invalidate any decision taken by the CAA.
 
 (3) For the purpose of this regulation the proper address of any person is, in the case of a body corporate, the registered or principal office of that body and in any other case shall be the last known address of the person to be served.
 
-### 19. Scarce capacity allocation certificates[^key-da75440a1a9221e35ab4a7d13fb26967]
+### 19. Scarce capacity allocation certificates[^c-da75440a1a9221e35ab4a7d13fb26967]
 
 (1) Where the CAA decides to grant a scarce capacity allocation certificate or (in the case of a variation) to re-issue a scarce capacity allocation certificate, it must send the scarce capacity allocation certificate to the qualifying carrier to whom it relates with the notice in regulation 17(2).
 
@@ -358,11 +358,11 @@ will not invalidate any decision taken by the CAA.
 
 ## Enforcement
 
-### 20. Enforcement by the CAA[^key-cf83380eb4bea96e8e19e6b4e1476085]
+### 20. Enforcement by the CAA[^c-cf83380eb4bea96e8e19e6b4e1476085]
 
 These regulations will be enforced by the CAA.
 
-### 21. Prevention of take-off[^key-9a363af58330db0e843dabe962a0e871]
+### 21. Prevention of take-off[^c-9a363af58330db0e843dabe962a0e871]
 
 (1) Where the CAA has reason to believe that an aircraft is intended to be used on a flight in contravention of regulation 7, the CAA may—
 
@@ -371,7 +371,7 @@ These regulations will be enforced by the CAA.
 
 (2) For the purposes of this regulation, “commander” will have the same meaning as in the Air Navigation Order[^f00009]
 
-### 22. Offences[^key-a565607b1c4800e72ff4788ec47c5b5f]
+### 22. Offences[^c-a565607b1c4800e72ff4788ec47c5b5f]
 
 (1) Any person who without reasonable excuse contravenes regulation 7 is guilty of an offence.
 
@@ -382,7 +382,7 @@ These regulations will be enforced by the CAA.
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; and
 - (b) on conviction on indictment, to a fine, or to imprisonment for a term not exceeding two years.
 
-### 23. Offences by bodies corporate[^key-e488e9a7c053ec846bf15c6abea1551c]
+### 23. Offences by bodies corporate[^c-e488e9a7c053ec846bf15c6abea1551c]
 
 (1) Where a body corporate is guilty of any offence under these Regulations, and that offence is proved to have been committed with the consent or connivance of, or to have been attributable to any neglect on the part of —
 
@@ -393,7 +393,7 @@ he, as well as the body corporate will be guilty of the offence and will be liab
 
 (2) Where the affairs of a body corporate are managed by its members, paragraph (1) applies in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-### 24. Defence of due diligence[^key-13fe59d792e720babf292c9ebed673b2]
+### 24. Defence of due diligence[^c-13fe59d792e720babf292c9ebed673b2]
 
 It is a defence for a person charge with an offence under regulation 22 or 23 to show that he took all reasonable steps to avoid commission of the offence.
 
@@ -439,64 +439,64 @@ A full regulatory impact assessment has not been provided for this instrument as
 
 [^f00004]: Footnote: [1992 c. 53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-1a46a2605ed2548a8361698b9fa4215a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-1a46a2605ed2548a8361698b9fa4215a]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-4820e66f55c8e523c8812ed8161431b2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-4820e66f55c8e523c8812ed8161431b2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-a76382aef053d15a3a850d7a12693d32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a76382aef053d15a3a850d7a12693d32]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7aa1f7aa66fd31d0f01e235918fb2cd5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7aa1f7aa66fd31d0f01e235918fb2cd5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2eaddd01857026baf573e4d2f180203d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2eaddd01857026baf573e4d2f180203d]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) substituted (31.12.2020) by [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/3/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-108d9d058669f96f1de5806af63bb689]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-108d9d058669f96f1de5806af63bb689]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2007/3556/regulation/2) omitted (31.12.2020) by virtue of [The Operation of Air Services (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1392)](https://www.legislation.gov.uk/uksi/2018/1392), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2018/1392/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-edac1086286c46896831b2ae53ec6c1d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3556/regulation/3) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-edac1086286c46896831b2ae53ec6c1d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/3556/regulation/3) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1991/1672](https://www.legislation.gov.uk/uksi/1991/1672). Regulation 3(5) and 20 were amended by [S.I. 1992/2662](https://www.legislation.gov.uk/uksi/1992/2662).
 
-[^key-370d39eb460eb05302c1baf7e9fb5e82]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3556/regulation/4) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-370d39eb460eb05302c1baf7e9fb5e82]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3556/regulation/4) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-53499914422974618ccdab2d69519c27]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/3556/regulation/5) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-53499914422974618ccdab2d69519c27]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/3556/regulation/5) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-9272b964843c53680034b4fba36d08f9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3556/regulation/6) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-9272b964843c53680034b4fba36d08f9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3556/regulation/6) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-c8ece64d306964e2c8c28eba87e080b4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/3556/regulation/7) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-c8ece64d306964e2c8c28eba87e080b4]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2007/3556/regulation/7) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-249c427628550f67f0b716ca9307231b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/3556/regulation/8) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-249c427628550f67f0b716ca9307231b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2007/3556/regulation/8) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-ca169c2adacd256ddeeda2f77ab00e83]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/3556/regulation/9) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-ca169c2adacd256ddeeda2f77ab00e83]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/3556/regulation/9) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-c6c22d88fc7137b4a6a56938a1e6c3a7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/3556/regulation/10) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-c6c22d88fc7137b4a6a56938a1e6c3a7]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/3556/regulation/10) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-7b6fe9aebf9f93b78a7479a02d375a7d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/3556/regulation/11) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-7b6fe9aebf9f93b78a7479a02d375a7d]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/3556/regulation/11) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-a13caa2a18e31f2bd7a542b6e87c58d7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/3556/regulation/12) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-a13caa2a18e31f2bd7a542b6e87c58d7]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2007/3556/regulation/12) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-a6f4d4f92d48fa7e66f3dceba41bc2a2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2007/3556/regulation/13) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-a6f4d4f92d48fa7e66f3dceba41bc2a2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2007/3556/regulation/13) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-b60b6481ba954f31f6f4bc78f70bb93d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2007/3556/regulation/14) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-b60b6481ba954f31f6f4bc78f70bb93d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2007/3556/regulation/14) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-f24e1d123b9586ec76e4ee7f90605400]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2007/3556/regulation/15) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-f24e1d123b9586ec76e4ee7f90605400]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2007/3556/regulation/15) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
 [^f00008]: Footnote: [2000 c.36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-48e219a5c8b89fc4fb7ea2a335a55d54]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2007/3556/regulation/16) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-48e219a5c8b89fc4fb7ea2a335a55d54]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2007/3556/regulation/16) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-f6699734b4aef92c1166387f613f3557]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2007/3556/regulation/17) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-f6699734b4aef92c1166387f613f3557]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2007/3556/regulation/17) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-79a0690e8929c6808a290e3f798afba7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2007/3556/regulation/18) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-79a0690e8929c6808a290e3f798afba7]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2007/3556/regulation/18) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-da75440a1a9221e35ab4a7d13fb26967]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/3556/regulation/19) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-da75440a1a9221e35ab4a7d13fb26967]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2007/3556/regulation/19) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-cf83380eb4bea96e8e19e6b4e1476085]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/3556/regulation/20) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-cf83380eb4bea96e8e19e6b4e1476085]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2007/3556/regulation/20) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-9a363af58330db0e843dabe962a0e871]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/3556/regulation/21) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-9a363af58330db0e843dabe962a0e871]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2007/3556/regulation/21) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2005/1970](https://www.legislation.gov.uk/uksi/2005/1970), to which there are amendments not relevant to these Regulations.
 
-[^key-a565607b1c4800e72ff4788ec47c5b5f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/3556/regulation/22) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-a565607b1c4800e72ff4788ec47c5b5f]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2007/3556/regulation/22) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-e488e9a7c053ec846bf15c6abea1551c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2007/3556/regulation/23) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-e488e9a7c053ec846bf15c6abea1551c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2007/3556/regulation/23) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
 
-[^key-13fe59d792e720babf292c9ebed673b2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2007/3556/regulation/24) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)
+[^c-13fe59d792e720babf292c9ebed673b2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2007/3556/regulation/24) in force at 31.1.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3556/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. National security: certificate[^key-dd0f181b5dd17d7042dc7e38ce07044c]
+## 111. National security: certificate[^c-dd0f181b5dd17d7042dc7e38ce07044c]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd0f181b5dd17d7042dc7e38ce07044c]: Commencement: S. 111 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)
+[^c-dd0f181b5dd17d7042dc7e38ce07044c]: Commencement: S. 111 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/d)

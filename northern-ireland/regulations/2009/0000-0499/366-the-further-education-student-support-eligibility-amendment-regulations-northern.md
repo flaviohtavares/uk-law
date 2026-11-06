@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Further Education (Student Support) (Eligibility) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^key-617b915fd7d028f7cdc0a08f8769d337]
+The Further Education (Student Support) (Eligibility) (Amendment) Regulations (Northern Ireland) 2009 (revoked)[^c-617b915fd7d028f7cdc0a08f8769d337]
 
 Made
 
@@ -42,24 +42,24 @@ Coming into operation-
 
 1st December 2009
 
-[^key-617b915fd7d028f7cdc0a08f8769d337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-617b915fd7d028f7cdc0a08f8769d337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-617b915fd7d028f7cdc0a08f8769d337]
+## 1. Citation and commencement[^c-617b915fd7d028f7cdc0a08f8769d337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2009[^key-617b915fd7d028f7cdc0a08f8769d337]
+## 2. Amendment of the Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2009[^c-617b915fd7d028f7cdc0a08f8769d337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-617b915fd7d028f7cdc0a08f8769d337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-617b915fd7d028f7cdc0a08f8769d337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-617b915fd7d028f7cdc0a08f8769d337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-617b915fd7d028f7cdc0a08f8769d337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-617b915fd7d028f7cdc0a08f8769d337]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/366) revoked (1.9.2010) by [The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2010 (S.R. 2010/234)](https://www.legislation.gov.uk/nisr/2010/234), [regs. 1](https://www.legislation.gov.uk/nisr/2010/234/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2010/234/regulation/8/b)
+[^c-617b915fd7d028f7cdc0a08f8769d337]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/366) revoked (1.9.2010) by [The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2010 (S.R. 2010/234)](https://www.legislation.gov.uk/nisr/2010/234), [regs. 1](https://www.legislation.gov.uk/nisr/2010/234/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2010/234/regulation/8/b)

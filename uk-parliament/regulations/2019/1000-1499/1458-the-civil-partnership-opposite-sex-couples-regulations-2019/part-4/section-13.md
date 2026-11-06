@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**13.**[^key-dea147eb36421c7d4be8d96e8c2a8d7d] (1) The Family Law Reform Act 1987[^f00023] is amended as follows.
+**13.**[^c-dea147eb36421c7d4be8d96e8c2a8d7d] (1) The Family Law Reform Act 1987[^f00023] is amended as follows.
 
 (2) In section 1[^f00024]—
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dea147eb36421c7d4be8d96e8c2a8d7d]: Commencement: Reg. 13 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
+[^c-dea147eb36421c7d4be8d96e8c2a8d7d]: Commencement: Reg. 13 in force at 2.12.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2)
 
 [^f00023]: Footnote: [1987 c. 42](https://www.legislation.gov.uk/ukpga/1987/42).
 

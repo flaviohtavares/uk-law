@@ -43,9 +43,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2) A marriage solemnized after the commencement of this Act between a man and a woman who is the grandmother of a former spouse of his (whether the former spouse is living or not) or is a former spouse of his grandson (whether his grandson is living or not) shall not be void by reason only of that relationship.
 
-(3)[^key-b1c4c0ea0145d37c60194b21e7f4a863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b1c4c0ea0145d37c60194b21e7f4a863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b1c4c0ea0145d37c60194b21e7f4a863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b1c4c0ea0145d37c60194b21e7f4a863] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this section “**child of the family**” in relation to any person, means a child who has lived in the same household as that person and been treated by that person as a child of his family.
 
@@ -96,7 +96,7 @@ In section 3(1) of the [^c939679]Perjury Act 1911 (false statements relating to 
 
 .
 
-## 5. Amendment of Schedule 1 to Senior Courts Act 1981.[^key-cc594b5bfb12872a628b4c1d9a004515]
+## 5. Amendment of Schedule 1 to Senior Courts Act 1981.[^c-cc594b5bfb12872a628b4c1d9a004515]
 
 *Extent: E+W*
 
@@ -318,7 +318,7 @@ Section 2.
 
 ## Annotations
 
-[^key-b1c4c0ea0145d37c60194b21e7f4a863]: Textual amendment: S. 1(3)(4) repealed (1.3.2007) by [Marriage Act 1949 (Remedial) Order 2007 (S.I. 2007/438)](https://www.legislation.gov.uk/uksi/2007/438), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/438/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/438/article/3/b) (with [s. 1(2)](https://www.legislation.gov.uk/uksi/2007/438/section/1/2))
+[^c-b1c4c0ea0145d37c60194b21e7f4a863]: Textual amendment: S. 1(3)(4) repealed (1.3.2007) by [Marriage Act 1949 (Remedial) Order 2007 (S.I. 2007/438)](https://www.legislation.gov.uk/uksi/2007/438), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/438/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2007/438/article/3/b) (with [s. 1(2)](https://www.legislation.gov.uk/uksi/2007/438/section/1/2))
 
 [^c939676]: Marginal citation: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76).
 
@@ -328,7 +328,7 @@ Section 2.
 
 [^c939679]: Marginal citation: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6).
 
-[^key-cc594b5bfb12872a628b4c1d9a004515]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-cc594b5bfb12872a628b4c1d9a004515]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c939680]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Meaning of “relevant business” in this Chapter[^key-099a72a4a9a89c1374748118bba38d96][^key-95bb4896c9c585158babd97107d6c2f9]
+## 55. Meaning of “relevant business” in this Chapter[^c-099a72a4a9a89c1374748118bba38d96][^c-95bb4896c9c585158babd97107d6c2f9]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In this Chapter, “**relevant business**” means a business, or a part of a bu
 
 ## Annotations
 
-[^key-099a72a4a9a89c1374748118bba38d96]: Commencement: S. 55 in force at 19.9.2025 for specified purposes, see [s. 67(1)(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/1/2)
+[^c-099a72a4a9a89c1374748118bba38d96]: Commencement: S. 55 in force at 19.9.2025 for specified purposes, see [s. 67(1)(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/1/2)
 
-[^key-95bb4896c9c585158babd97107d6c2f9]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2025/5/section/55) in force at 1.10.2026 in so far as not already in force by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(o)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/o)
+[^c-95bb4896c9c585158babd97107d6c2f9]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2025/5/section/55) in force at 1.10.2026 in so far as not already in force by [S.I. 2025/1305](https://www.legislation.gov.uk/wsi/2025/1305), [art. 2(o)](https://www.legislation.gov.uk/wsi/2025/1305/article/2/o)

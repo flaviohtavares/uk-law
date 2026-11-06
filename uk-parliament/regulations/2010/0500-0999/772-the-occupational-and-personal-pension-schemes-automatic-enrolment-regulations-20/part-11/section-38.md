@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Appropriate age[^key-7bb9161434eafc625e48cb8550c704b9]
+## 38. Appropriate age[^c-7bb9161434eafc625e48cb8550c704b9]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bb9161434eafc625e48cb8550c704b9]: Textual amendment: Reg. 38 and heading substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/9)
+[^c-7bb9161434eafc625e48cb8550c704b9]: Textual amendment: Reg. 38 and heading substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(9)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/9)

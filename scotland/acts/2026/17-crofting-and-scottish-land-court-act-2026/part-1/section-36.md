@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Rectification of the Crofting Register[^key-52be6be1ec914fcc071d2e3b307512ca]
+## 36. Rectification of the Crofting Register[^c-52be6be1ec914fcc071d2e3b307512ca]
 
 *Extent: S*
 
@@ -118,4 +118,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52be6be1ec914fcc071d2e3b307512ca]: Commencement: S. 36 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-52be6be1ec914fcc071d2e3b307512ca]: Commencement: S. 36 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

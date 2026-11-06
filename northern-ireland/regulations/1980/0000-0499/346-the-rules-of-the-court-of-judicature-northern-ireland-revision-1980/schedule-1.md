@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — The Rules of the Court of Judicature (Northern Ireland) 1980[^key-09d9b3ae40dfabd0d3927d049c75610a][^M_F_24a46547-8821-4d24-b0c2-111160023853]
+## SCHEDULE 1 — The Rules of the Court of Judicature (Northern Ireland) 1980[^c-09d9b3ae40dfabd0d3927d049c75610a][^M_F_24a46547-8821-4d24-b0c2-111160023853]
 
 *Extent: N.I.*
 
@@ -85,7 +85,7 @@ These Rules may be cited as the Rules of the Court of Judicature (Northern Irela
 - “**an action for personal injuries” means an action in which there is a claim for damages in respect of personal injuries to the plaintiff or any other person or in respect of a persons’ death, and “personal injuries**” includes any disease and any impairment of a person’s physical or mental condition;
 - \[[^f00017] “cause book” means the book or other record kept in the Central or other Supreme Court Office in which the number of, and other details relating to, a cause or matter are entered”;\]
 - “**Central Office**” means the Central Office of the Supreme Court;
-- [^key-54cfeb279b49c7eb7883b9e4103b87c0]...
+- [^c-54cfeb279b49c7eb7883b9e4103b87c0]...
 - \[[^f00019] “**FAX**” means the making of a facsimile copy of a document by the transmission of electronic signals;\]
 - \[[^f00020] “**Long Vacation**” means the interval between 30th June and 5th September;\]
 - “**master**” means a master or registrar of the Supreme Court mentioned in the first column of Schedule 3 to the Act other than the Master (Taxing Office);
@@ -167,7 +167,7 @@ There shall be assigned to the Chancery Division—
 - (e) proceedings under Articles 88(3A) or 90(3A) of the Judgments Enforcement (Northern Ireland) Order 1981[^f00028];
 - (f) all causes and matters which under, by virtue of, or in pursuance of any statutory provision were assigned to the Chancery Judge or the Chancery Division immediately before the coming into force of this Order;
 - (g) all causes and matters which under, by virtue of, or in pursuance of any statutory provision are assigned to the Chancery Judge or the Chancery Division.\].
-- [(h) [^f00029] applications under section 28[^key-2680d32f6b6dcbd7aa4ec73f8f83b73a] of the Competition Act 1998;
+- [(h) [^f00029] applications under section 28[^c-2680d32f6b6dcbd7aa4ec73f8f83b73a] of the Competition Act 1998;
 - (i) proceedings under Part III of the Fair Trading Act 1973[^f00030].\].
 - [(j) [^f00031] proceedings under the Presumption of Death Act (Northern Ireland) 2009.\]
 
@@ -189,7 +189,7 @@ There shall be assigned to the Queen’s Bench Division–
 - [(l) [^f00041] proceedings under the Counter-Terrorism Act 2008 \[[^f00042] ...\]
 - [(la) [^f00043] proceedings on an application under section 27 of the Terrorist Asset-Freezing etc. Act 2010, or on a claim arising from any matter to which such an application relates;\]
 
-(lb)[^key-8ba9d7896ccbcbe4b0ed3bb8a00f9540] proceedings on an application under section 38 of the Sanctions and Anti-Money Laundering Act 2018 (court review of decisions), or on a claim arising from any matter to which such an application relates;
+(lb)[^c-8ba9d7896ccbcbe4b0ed3bb8a00f9540] proceedings on an application under section 38 of the Sanctions and Anti-Money Laundering Act 2018 (court review of decisions), or on a claim arising from any matter to which such an application relates;
 
 - [(m) [^f00044] appeals under rule 15 or 17B of the Legal Aid for Crown Court Proceedings (Costs) Rules (Northern Ireland 2005 [^f00045].\]
 - [(n) [^f00046] applications under Part 7 of the Coroners and Justice Act 2009[^f00047]—Exploitation Proceeds Orders.\]
@@ -221,7 +221,7 @@ There shall be assigned to the Family Division—
   - [(xii) [^f00068] the Family Homes and Domestic Violence (Northern Ireland) Order 1998[^f00069].\]
   - [(xiii) [^f00070] sections 6 and 8 of the Gender Recognition Act 2004[^f00071];
   - (xiv) section 181 of, and Schedule 17 to, the Civil Partnership Act 2004[^f00072];
-  - (xv)[^key-3142474105511172236fa9e39cdbdd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (xv)[^c-3142474105511172236fa9e39cdbdd74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - [(xvi) [^f00073] Schedule 1 to the Forced Marriage (Civil Protection) Act 2007;\]
   - [(xvii) [^f00074] Article 32L of the Child Support (Northern Ireland) Order 1991;
   - (xviii) The Hague Convention of 19th October 1996 on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in Respect of Parental Responsibility and Measures for the Protection of Children;\]
@@ -559,14 +559,14 @@ Before a writ is issued it must be indorsed—
 
 (1) Before a writ is issued it must be indorsed—
 
-- (a) where the plaintiff sues by a solicitor, with the plaintiffs address and the solicitor’s name or firm add a business address of his within the jurisdiction \[[^f00097]or another part of the United Kingdom\] [^key-34a9feb8db69dcb48db8bf4d5e466e43]...;
-- (aa)[^key-1ea4309a4b047a0fb8600ff99aa47437] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) where the plaintiff sues in person, with the address of his place of residence and, if his place of residence is not within the jurisdiction \[[^f00097] or another part of the United Kingdom [^key-24196085f5c542abe0478638f7ebcbfc]...\] or if he has no place of residence, the address of a place within the jurisdiction at or to which documents for him may be delivered or sent.
+- (a) where the plaintiff sues by a solicitor, with the plaintiffs address and the solicitor’s name or firm add a business address of his within the jurisdiction \[[^f00097]or another part of the United Kingdom\] [^c-34a9feb8db69dcb48db8bf4d5e466e43]...;
+- (aa)[^c-1ea4309a4b047a0fb8600ff99aa47437] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) where the plaintiff sues in person, with the address of his place of residence and, if his place of residence is not within the jurisdiction \[[^f00097] or another part of the United Kingdom [^c-24196085f5c542abe0478638f7ebcbfc]...\] or if he has no place of residence, the address of a place within the jurisdiction at or to which documents for him may be delivered or sent.
 
 (2) The address for service of a plaintiff shall be—
 
-- (a) where he sues by a solicitor \[[^f00097] [^key-fd6a5c9e4c849b41440f55dfb5522680]... nominated to accept service\], the business address of the solicitor indorsed on the writ;
-- (b) where he sues in person, the address within the jurisdiction \[[^f00097] or another part of the United Kingdom [^key-7a63cd4d5ff9ff612e987be1f3e4d2f0]...\] indorsed on the writ.
+- (a) where he sues by a solicitor \[[^f00097] [^c-fd6a5c9e4c849b41440f55dfb5522680]... nominated to accept service\], the business address of the solicitor indorsed on the writ;
+- (b) where he sues in person, the address within the jurisdiction \[[^f00097] or another part of the United Kingdom [^c-7a63cd4d5ff9ff612e987be1f3e4d2f0]...\] indorsed on the writ.
 
 (3) Where a solicitor’s name is indorsed on a writ, he must, if any defendant who has been served with or who has entered an appearance to the writ requests him in writing so to do, declare in writing whether the writ was issued, by him or with his authority or privity.
 
@@ -591,7 +591,7 @@ Before a writ is issued it must be indorsed—
 - (a) each claim made by the writ is either—
   - (i) one which by virtue of the Civil Jurisdiction and Judgments Act 1982 the Court has power to hear and determine, or
   - (ii) one which by virtue of any other statutory provision the Court has power to hear and determine notwithstanding that the person against whom the claim is made is not within the jurisdiction of the Court or that the wrongful act, neglect or default giving rise to the claim did not take place within its jurisdiction; and
-- (b) where a claim made by the writ is one which the Court has power to hear and determine by virtue of the Civil Jurisdiction and Judgments Act 1982, the writ is indorsed before it is issued with a statement that the Court has power under the Act to hear and determine the claim, and that no proceedings involving the same cause of action are pending between parties in England and Wales or Scotland[^key-c448013741ceb5300a501a7670f7958d] .\]
+- (b) where a claim made by the writ is one which the Court has power to hear and determine by virtue of the Civil Jurisdiction and Judgments Act 1982, the writ is indorsed before it is issued with a statement that the Court has power under the Act to hear and determine the claim, and that no proceedings involving the same cause of action are pending between parties in England and Wales or Scotland[^c-c448013741ceb5300a501a7670f7958d] .\]
 
 (2) A writ by which proceedings assigned to the Chancery Division are begun must be issued out of the Chancery Office.
 
@@ -603,7 +603,7 @@ Before a writ is issued it must be indorsed—
 
 (6) No writ shall be sealed unless at the time of the tender thereof for sealing the person tendering it leaves at the office at which it is tendered a copy thereof signed, where the plaintiff sues in person, by him or, where he does not so sue, by or on behalf of his solicitor.
 
-(7)[^key-f0cb5a68dcf551540b889d80b1c9a95f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-f0cb5a68dcf551540b889d80b1c9a95f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[*E.r. 7*\]
 
@@ -810,9 +810,9 @@ then, if an action in respect of the contract is begun in the High Court and the
 
 \[*E. r. 3*\]
 
-[(3) [^f00112] Where a contract contains an agreement conferring jurisdiction to which [^key-7c3ca53cfb52a4fd46e22b098960b71e]... Schedule 4 to the Civil Jurisdiction and Judgments Act 1982 applies and the writ or notice thereof is served under Order 11, rule 1(2) the writ or notice thereof shall be deemed to have been duly served on the defendant.\]
+[(3) [^f00112] Where a contract contains an agreement conferring jurisdiction to which [^c-7c3ca53cfb52a4fd46e22b098960b71e]... Schedule 4 to the Civil Jurisdiction and Judgments Act 1982 applies and the writ or notice thereof is served under Order 11, rule 1(2) the writ or notice thereof shall be deemed to have been duly served on the defendant.\]
 
-(4)[^key-d9ae9dc3b9e8becfab3cfcc7c6e12e9e] Where a contract is one to which the Convention on Choice of Court Agreements concluded on 30th June 2005 at the Hague applies and the writ or notice thereof is served under Order 11, rule 1(2)(ab) the writ or notice thereof shall be deemed to have been duly served on the defendant.
+(4)[^c-d9ae9dc3b9e8becfab3cfcc7c6e12e9e] Where a contract is one to which the Convention on Choice of Court Agreements concluded on 30th June 2005 at the Hague applies and the writ or notice thereof is served under Order 11, rule 1(2)(ab) the writ or notice thereof shall be deemed to have been duly served on the defendant.
 
 #### 4. Service of writ in actions for possession of land
 
@@ -856,36 +856,36 @@ The foregoing rules of this Order shall apply in relation to an originating summ
 - (m) the claim is brought to enforce any judgment or arbitral award;
 - (n) the claim is brought against a defendant not domiciled in England and Wales or Scotland in respect of a claim by the \[Commissioners for Her Majesty’s Revenue and Customs\] for or in relation to any of the duties or taxes which have been, or are for the time being placed under their care and management;
 - (o) the claim is brought under the Nuclear Installations Act 1965[^f00117] or in respect of contributions under the Social Security (Northern Ireland) Act 1975[^f00118];
-- (p)[^key-254aa7431f7310578741ffd786afe111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (p)[^c-254aa7431f7310578741ffd786afe111] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [(q) [^f00119] the claim is made under the Financial Services Act 1986[^f00120] or the Banking Act 1987[^f00121];
 - (r) the claim is brought for money had and received or for an account or other relief against the defendant as constructive trustee, and the defendant’s alleged liability arises out of acts committed, whether by him or otherwise, within the jurisdiction\].
 
-(2) [^key-8e6531245e4142030d20742398d2bce7]... Service of a writ or notice of a writ out of the jurisdiction is permissible without the leave of the Court provided that each claim made by the writ is either:–
+(2) [^c-8e6531245e4142030d20742398d2bce7]... Service of a writ or notice of a writ out of the jurisdiction is permissible without the leave of the Court provided that each claim made by the writ is either:–
 
 - (a) a claim which by virtue of the Civil Jurisdiction and Judgments Act 1982[^f00123] the Court has power to hear and determine, made in proceedings to which the following conditions apply—
-  - (i) no proceedings between the parties concerning the same cause of action are pending in the courts of any other part of the United Kingdom [^key-bff1c1f79178b8ad12aa2c556f473622]..., and
+  - (i) no proceedings between the parties concerning the same cause of action are pending in the courts of any other part of the United Kingdom [^c-bff1c1f79178b8ad12aa2c556f473622]..., and
   - (ii) either—
-    - the defendant is domiciled in any part of the United Kingdom [^key-3e4c53d57f6788631483e0eb887610a1]..., or
-    - the proceedings begun by the writ are proceedings to which [^key-0868f2d7855c1968a8a1fb53d3b8e562]... Schedule 4 refers, or
-    - the defendant is a party to an agreement conferring jurisdiction to which [^key-705059e7c3ea121edfda9f8703fc05db]... Schedule 4 to that Act applies.
-- (aa)[^key-af61523c3a38fa5de734598fcd97946a] a claim which, by virtue of section 15A to section 15E of the 1982 Act, the Court has power to hear and determine, made in proceedings in which the following conditions apply—
+    - the defendant is domiciled in any part of the United Kingdom [^c-3e4c53d57f6788631483e0eb887610a1]..., or
+    - the proceedings begun by the writ are proceedings to which [^c-0868f2d7855c1968a8a1fb53d3b8e562]... Schedule 4 refers, or
+    - the defendant is a party to an agreement conferring jurisdiction to which [^c-705059e7c3ea121edfda9f8703fc05db]... Schedule 4 to that Act applies.
+- (aa)[^c-af61523c3a38fa5de734598fcd97946a] a claim which, by virtue of section 15A to section 15E of the 1982 Act, the Court has power to hear and determine, made in proceedings in which the following conditions apply—
   - (i) no proceedings between the parties concerning the same cause of action are pending in the courts of any other part of the United Kingdom; and
   - (ii) either—
 
     the defendant is not a consumer but is a party to a consumer contract within section 15B(1) of the 1982 Act; or
 
     the defendant is an employer and a party to a contract of employment within section 15C(1) of the 1982 Act; or
-- (ab)[^key-4a2f05a650e4937419ee2bc6f55cf652] a claim which, by virtue of the Convention on Choice of Court Agreements concluded on 30th June 2005 at the Hague, the Court has power to determine and the defendant is a party to an exclusive choice of court agreement conferring jurisdiction on that Court within the meaning of Article 3 of that Convention;; or
+- (ab)[^c-4a2f05a650e4937419ee2bc6f55cf652] a claim which, by virtue of the Convention on Choice of Court Agreements concluded on 30th June 2005 at the Hague, the Court has power to determine and the defendant is a party to an exclusive choice of court agreement conferring jurisdiction on that Court within the meaning of Article 3 of that Convention;; or
 - (b) a claim which by virtue of any other enactment the High Court has power to hear and determine notwithstanding that the person against whom the claim is made is not within the jurisdiction of the Court or that the wrongful act, neglect or default giving rise to the claim did not take place within its jurisdiction.
 
-(2A)[^key-e9d5ffcf7ec0547bdd8c986a63d2b40e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-e9d5ffcf7ec0547bdd8c986a63d2b40e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-f7266697698cef727612a269d48e3949] Where a writ or notice of a writ is to be served out of the jurisdiction the time to be inserted therein within which the defendant must enter an appearance shall be—
+(3)[^c-f7266697698cef727612a269d48e3949] Where a writ or notice of a writ is to be served out of the jurisdiction the time to be inserted therein within which the defendant must enter an appearance shall be—
 
 - (a) 21 days where the service is to be effected in England and Wales or Scotland; or
 - (b) limited in accordance with the practice adopted under rule 4(4) where the service is to be effected elsewhere.
 
-(4)[^key-9289155846cf7d9ea1dc264e3283cdc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9289155846cf7d9ea1dc264e3283cdc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[[^f00128] ...\]
 
@@ -977,7 +977,7 @@ Provided that this paragraph shall not apply in relation to a copy of a notice w
 
 (7) Every translation under paragraph (6) must be certified by the person making it to be a correct translation; and the certificate must contain a statement of that person’s full name, of his address and of his qualifications for making the translation.
 
-(8) Documents duly lodged under paragraph (5) shall be sent by the Master (Queen’s Bench and Appeals) to the Parliamentary Under-Secretary of State to the Foreign, Commonwealth and Development Office[^key-7d41d7b344dd50c17224ae6c7862aacf] with a request that he arrange for notice of the writ to be served by the method indicated in the request lodged under paragraph (5), or, where alternative methods are so indicated, by such one of those methods as is most convenient.
+(8) Documents duly lodged under paragraph (5) shall be sent by the Master (Queen’s Bench and Appeals) to the Parliamentary Under-Secretary of State to the Foreign, Commonwealth and Development Office[^c-7d41d7b344dd50c17224ae6c7862aacf] with a request that he arrange for notice of the writ to be served by the method indicated in the request lodged under paragraph (5), or, where alternative methods are so indicated, by such one of those methods as is most convenient.
 
 \[*E.r. 6*\]
 
@@ -1054,11 +1054,11 @@ An appearance must be entered in the appropriate office.
 
 [(3) [^f00140] A memorandum of appearance must specify—
 
-- (a) in the case of a defendant appearing in person, the address of his place of residence and, if his place of residence is not within the jurisdiction \[[^f00141] or another part of the United Kingdom [^key-5318766427f46fa4a39d18f8a83fb544]...\] or if he has no \[[^f00141] such\] place of residence, the address of a place \[[^f00142] ...\] at or to which documents for him may be delivered or sent;
-- (b) in the case of a body corporate appearing by an employee, the registered or principal office of the body corporate within the jurisdiction \[[^f00141] or another part of the United Kingdom [^key-5b2437c2ff3158d9ea57e7052f89d6d7]...\] or if it has no \[[^f00141] such\] registered or principal office \[[^f00142] ...\], the address of a place within the jurisdiction at or to which documents may be delivered or sent;
-- (c) in the case of a defendant appearing by a solicitor, a business address of his solicitor’s within the jurisdiction \[[^f00141] or another part of the United Kingdom\] [^key-35528a5fbf13bcb30974e3b07db67e40]...,
+- (a) in the case of a defendant appearing in person, the address of his place of residence and, if his place of residence is not within the jurisdiction \[[^f00141] or another part of the United Kingdom [^c-5318766427f46fa4a39d18f8a83fb544]...\] or if he has no \[[^f00141] such\] place of residence, the address of a place \[[^f00142] ...\] at or to which documents for him may be delivered or sent;
+- (b) in the case of a body corporate appearing by an employee, the registered or principal office of the body corporate within the jurisdiction \[[^f00141] or another part of the United Kingdom [^c-5b2437c2ff3158d9ea57e7052f89d6d7]...\] or if it has no \[[^f00141] such\] registered or principal office \[[^f00142] ...\], the address of a place within the jurisdiction at or to which documents may be delivered or sent;
+- (c) in the case of a defendant appearing by a solicitor, a business address of his solicitor’s within the jurisdiction \[[^f00141] or another part of the United Kingdom\] [^c-35528a5fbf13bcb30974e3b07db67e40]...,
 
-and where the defendant enters an appearance in person or by an employee the address \[[^f00144] ...\] specified under sub-paragraph (a) or (b) shall be the address for service, but otherwise the business address of the defendant’s solicitor [^key-b2ca44720ae57e267897652754eb286f]... shall be the address for service.
+and where the defendant enters an appearance in person or by an employee the address \[[^f00144] ...\] specified under sub-paragraph (a) or (b) shall be the address for service, but otherwise the business address of the defendant’s solicitor [^c-b2ca44720ae57e267897652754eb286f]... shall be the address for service.
 
 (4) If the Court is satisfied on application by the plaintiff that any address specified in the memorandum of appearance is not genuine, the Court may set aside the appearance.
 
@@ -1230,7 +1230,7 @@ Where a writ issued against any defendant is indorsed with two or more of the cl
 
 - (a) stating the grounds of the application,
 - (b) verifying the facts relied on as excepting the State from the immunity conferred by section 1 of the Act, and
-- (c) verifying that the writ has been served by being transmitted through the Foreign, Commonwealth and Development Office[^key-a324351e41e2a2de73140101f611eabf] to the Ministry of Foreign Affairs of the State, or in such other manner as may have been agreed to by the State, and that the time for entering an appearance, as extended by section 12(2) of the Act (by two months) where applicable, has expired.
+- (c) verifying that the writ has been served by being transmitted through the Foreign, Commonwealth and Development Office[^c-a324351e41e2a2de73140101f611eabf] to the Ministry of Foreign Affairs of the State, or in such other manner as may have been agreed to by the State, and that the time for entering an appearance, as extended by section 12(2) of the Act (by two months) where applicable, has expired.
 
 (3) The application may be made ex parte but the Court hearing the application may direct a summons to be issued and served on that State, for which purpose such a direction shall include leave to serve the summons and a copy of the affidavit out of the jurisdiction.
 
@@ -1245,23 +1245,23 @@ Where a writ issued against any defendant is indorsed with two or more of the cl
 
 #### 7B. \[ Judgments under the Civil Jurisdiction and Judgments Act 1982[^f00152]
 
-(1) Where a writ or notice of a writ has been served out of the jurisdiction under Order 11 rule 1(2)(a) or has been served within the jurisdiction on a defendant domiciled in England and Wales or Scotland [^key-d8ee655e7556a4993982350f75dfc71a]... the plaintiff shall not be entitled to enter judgment under this Order except with the leave of the Court.
+(1) Where a writ or notice of a writ has been served out of the jurisdiction under Order 11 rule 1(2)(a) or has been served within the jurisdiction on a defendant domiciled in England and Wales or Scotland [^c-d8ee655e7556a4993982350f75dfc71a]... the plaintiff shall not be entitled to enter judgment under this Order except with the leave of the Court.
 
 (2) An application for leave to enter judgment may be made ex parte and shall be supported by an affidavit stating that in the deponent’s belief—
 
 - (a) each claim made by the writ is one which by virtue of the Civil Jurisdiction and Judgments Act 1982 the Court has power to hear and determine,
-- (b) no other court has exclusive jurisdiction [^key-e361bd05285d9be940e7be69a181af50]... under Schedule 4 to that Act to hear and determine such claim, and
-- (c) where the writ or notice thereof is served out of the jurisdiction under Order 11 rule 1(2)(a), such service satisfied the requirements [^key-56392da7d5348d21f520f88ab267b3af]... of Schedule 4 to that Act,
+- (b) no other court has exclusive jurisdiction [^c-e361bd05285d9be940e7be69a181af50]... under Schedule 4 to that Act to hear and determine such claim, and
+- (c) where the writ or notice thereof is served out of the jurisdiction under Order 11 rule 1(2)(a), such service satisfied the requirements [^c-56392da7d5348d21f520f88ab267b3af]... of Schedule 4 to that Act,
 
 and giving in each case the sources and grounds of such belief.
 
-(3)[^key-9cc12d93ba80351e0b019fe3893686f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9cc12d93ba80351e0b019fe3893686f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 7C. \[ Judgment where application under section 6 of the Justice and Security Act 2013 pending[^f00155]
 
 Judgment shall not be entered against a defendant under this Order if notice has been given under Order 126 of a person’s intention to make an application for a declaration under section 6 of the Justice and Security Act 2013 in relation to the proceedings, and that application has not been disposed of.\]
 
-#### 7D. Judgments where writ or notice of writ served under Order 11, rule 1(2)(ab)[^key-acc372ba726a18520cbb8f2d449d96f1]
+#### 7D. Judgments where writ or notice of writ served under Order 11, rule 1(2)(ab)[^c-acc372ba726a18520cbb8f2d449d96f1]
 
 (1) Where a writ or notice of a writ has been served out of the jurisdiction under Order 11 rule 1(2)(ab) the plaintiff shall not be entitled to enter judgment under this Order except with the leave of the Court.
 
@@ -2632,9 +2632,9 @@ then if, having regard to all the circumstances of the case, the Court thinks it
 
 (2) The Court shall not require a plaintiff to give security by reason only of paragraph (1)(c) if he satisfies the Court that the failure to state his address or the misstatement thereof was made innocently and without intention to deceive.
 
-(3) The references in this rule[^key-f96e99f4641b53cda3efe4be3f95b31d] to a plaintiff and a defendant shall be construed as references to the person (howsoever described on the record) who is in the position of plaintiff or defendant, as the case may be, in the proceeding in question, including a proceeding on a counterclaim.
+(3) The references in this rule[^c-f96e99f4641b53cda3efe4be3f95b31d] to a plaintiff and a defendant shall be construed as references to the person (howsoever described on the record) who is in the position of plaintiff or defendant, as the case may be, in the proceeding in question, including a proceeding on a counterclaim.
 
-(4)[^key-c0ae4bda9eb952cf8cd0ab8e3cbb0d7b] The Court shall not require a plaintiff to give security by reason only of paragraph 1(a) in an application for enforcement to which the Convention on Choice of Court Agreements concluded on 30th June 2005 at the Hague applies.
+(4)[^c-c0ae4bda9eb952cf8cd0ab8e3cbb0d7b] The Court shall not require a plaintiff to give security by reason only of paragraph 1(a) in an application for enforcement to which the Convention on Choice of Court Agreements concluded on 30th June 2005 at the Hague applies.
 
 \[*E.r. 1*\]
 
@@ -3339,7 +3339,7 @@ Where any real or personal property forms the subject-matter of any proceedings,
 
 \[*E.r. 8*\]
 
-##### 10A. The European Intellectual Property Directive[^key-e845e88022f8901339fbce6635863c25]
+##### 10A. The European Intellectual Property Directive[^c-e845e88022f8901339fbce6635863c25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -5497,7 +5497,7 @@ There shall be a procedure, to be known as an application for judicial review, u
 
 #### 4. Delay in applying for relief
 
-(1) [^f00343] An application for leave to apply for judicial review shall be made [^key-a712b148f535a3e7738c077e3c7247d0]... within three months from the date when grounds for the application first arose unless the Court considers that there is good reason for extending the period within which the application shall be made.
+(1) [^f00343] An application for leave to apply for judicial review shall be made [^c-a712b148f535a3e7738c077e3c7247d0]... within three months from the date when grounds for the application first arose unless the Court considers that there is good reason for extending the period within which the application shall be made.
 
 (2) Where the relief sought is an order of certiorari in respect of any judgment, order, conviction or other proceeding, the date when grounds for the application first arose shall be taken to be the date of that judgment, order, conviction or proceeding.
 
@@ -6107,17 +6107,17 @@ Affidavits used on the Crown Side shall be intituled “In the High Court of Jus
 
 (2) The party entering the motion for hearing must lodge in the Crown Office copies of the documents in the proceedings for the use of the Court at least 7 days before the day fixed for the hearing.
 
-### ORDER 58 — APPEALS FROM MASTERS, DISTRICT JUDGES AND JUDGES[^key-0762d0ec29508f07f50b754e1c96c736]
+### ORDER 58 — APPEALS FROM MASTERS, DISTRICT JUDGES AND JUDGES[^c-0762d0ec29508f07f50b754e1c96c736]
 
 #### 1. Appeals from certain decisions of masters, etc., to judge in chambers
 
 (1) \[[^f00371] . . .\]. Except as provided by rules 2 and 3, an appeal shall lie to a judge in chambers from any judgment, order or decision of a master, or of a district judge in the exercise of any probate jurisdiction.
 
-(2)[^key-09d9b3ae40dfabd0d3927d049c75610a] The appeal shall be brought by serving on every other party to the proceedings in which the judgment, order or decision was given or made a notice to attend before the judge on a day specified in the notice.
+(2)[^c-09d9b3ae40dfabd0d3927d049c75610a] The appeal shall be brought by serving on every other party to the proceedings in which the judgment, order or decision was given or made a notice to attend before the judge on a day specified in the notice.
 
-(3)[^key-09d9b3ae40dfabd0d3927d049c75610a] Unless the Court otherwise orders, the notice must be issued within 5 days after the judgment, order or decision appealed against was given or made and served not less than 2 clear days before the day fixed for hearing the appeal.
+(3)[^c-09d9b3ae40dfabd0d3927d049c75610a] Unless the Court otherwise orders, the notice must be issued within 5 days after the judgment, order or decision appealed against was given or made and served not less than 2 clear days before the day fixed for hearing the appeal.
 
-(4)[^key-09d9b3ae40dfabd0d3927d049c75610a] Except so far as the Court may otherwise direct, an appeal under this rule shall not operate as a stay of the proceedings in which the appeal is brought.
+(4)[^c-09d9b3ae40dfabd0d3927d049c75610a] Except so far as the Court may otherwise direct, an appeal under this rule shall not operate as a stay of the proceedings in which the appeal is brought.
 
 \[*E.r. 1*\]
 
@@ -6722,7 +6722,7 @@ and shall at the same time send a copy to any party affected by the application.
 
 (5) The High Court may extend the period of 76 days mentioned in paragraph (3) if it believes it to be in the interests of justice to do so.\]
 
-### ORDER 61B — APPEALS TO THE SUPREME COURT IN CIVIL CASES[^key-0038ccf6a501406c16cce995ae17a2da]
+### ORDER 61B — APPEALS TO THE SUPREME COURT IN CIVIL CASES[^c-0038ccf6a501406c16cce995ae17a2da]
 
 #### Leave to appeal from the Court of Appeal to the Supreme Court in civil cases
 
@@ -7806,7 +7806,7 @@ Where by virtue of these Rules any document is required to be served on any pers
 
 \[*E.O. 75 r. 46(4)*\]
 
-(5)[^key-8286e3d7a355b6471f21244571a024ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8286e3d7a355b6471f21244571a024ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### ORDER 67 — CHANGE OF SOLICITOR
 
@@ -7912,7 +7912,7 @@ In this Order—
 
 This Order applies to the service on a person in Northern Ireland of any process in connection with civil or commercial proceedings in a foreign court or tribunal where the Master receives a written request for service—
 
-- (a) from the Secretary of State for Foreign, Commonwealth and Development Affairs[^key-bd3647e082a4d7e2d8d9d26af362f955], with a recommendation by him that service should be effected, or
+- (a) from the Secretary of State for Foreign, Commonwealth and Development Affairs[^c-bd3647e082a4d7e2d8d9d26af362f955], with a recommendation by him that service should be effected, or
 - (b) where the foreign court or tribunal is in a convention country, from a consular or other authority of that country.
 
 \[*E.r. 2*\]
@@ -7952,7 +7952,7 @@ The Lord Chancellor may appoint a process server for the purposes of this Order.
 
 - “**The Crown Solicitor**” means the Crown Solicitor for Northern Ireland;
 - “**The Master**” means the Master (Queen’s Bench and Appeals);
-- “**The Secretary of State**” means the Secretary of State for Foreign, Commonwealth and Development Affairs[^key-85d110142af0b8dfcd64da2cb6ddb741] .
+- “**The Secretary of State**” means the Secretary of State for Foreign, Commonwealth and Development Affairs[^c-85d110142af0b8dfcd64da2cb6ddb741] .
 
 (2) The power of the High Court to make an Order under section 2 of the Act of 1975 may be exercised by the Master.
 
@@ -8009,7 +8009,7 @@ Unless any order made in pursuance of this Order for the examination of any witn
 
 \[*E.r. 6*\]
 
-### ORDER 71 — \[ RECIPROCAL ENFORCEMENT OF JUDGMENTS ...\][^f00437][^key-f9345fde5e1308b878880e9509c93ba0]
+### ORDER 71 — \[ RECIPROCAL ENFORCEMENT OF JUDGMENTS ...\][^f00437][^c-f9345fde5e1308b878880e9509c93ba0]
 
 #### \[ 1. RECIPROCAL ENFORCEMENT: THE ADMINISTRATION OF JUSTICE ACT 1920 AND THE FOREIGN JUDGEMENTS (RECIPROCAL ENFORCEMENT) ACT 1933\][^f00438]
 
@@ -8148,43 +8148,43 @@ and a certificate (signed and sealed as aforesaid) stating the rate at which the
 
 \[*E.r. 14*\]
 
-#### \[II. ENFORCEMENT OF EUROPEAN COMMUNITY JUDGMENTS\][^key-84035f0d248f63d196fd42e4d959886e][^f00444]
+#### \[II. ENFORCEMENT OF EUROPEAN COMMUNITY JUDGMENTS\][^c-84035f0d248f63d196fd42e4d959886e][^f00444]
 
 **No longer in force.**
 
-##### 13. Interpretation[^key-84035f0d248f63d196fd42e4d959886e]
+##### 13. Interpretation[^c-84035f0d248f63d196fd42e4d959886e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 14. Functions under Order in Council exercisable by judge or master[^key-84035f0d248f63d196fd42e4d959886e]
+##### 14. Functions under Order in Council exercisable by judge or master[^c-84035f0d248f63d196fd42e4d959886e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 15. Application for registration of Community judgments, etc.[^key-84035f0d248f63d196fd42e4d959886e]
+##### 15. Application for registration of Community judgments, etc.[^c-84035f0d248f63d196fd42e4d959886e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 16. Evidence in support of application[^key-84035f0d248f63d196fd42e4d959886e]
+##### 16. Evidence in support of application[^c-84035f0d248f63d196fd42e4d959886e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 17. Register of judgments and orders[^key-84035f0d248f63d196fd42e4d959886e]
+##### 17. Register of judgments and orders[^c-84035f0d248f63d196fd42e4d959886e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 18. Notice of registration[^key-84035f0d248f63d196fd42e4d959886e]
+##### 18. Notice of registration[^c-84035f0d248f63d196fd42e4d959886e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### 19. Application to vary or cancel registration
 
-[^key-84035f0d248f63d196fd42e4d959886e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84035f0d248f63d196fd42e4d959886e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 20. Application for registration of suspension order[^key-84035f0d248f63d196fd42e4d959886e]
+##### 20. Application for registration of suspension order[^c-84035f0d248f63d196fd42e4d959886e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 21. Application for enforcement of Euratom inspection order[^key-84035f0d248f63d196fd42e4d959886e]
+##### 21. Application for enforcement of Euratom inspection order[^c-84035f0d248f63d196fd42e4d959886e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -8195,13 +8195,13 @@ and a certificate (signed and sealed as aforesaid) stating the rate at which the
 (1) In this Part of this Order—
 
 - “**the Act of 1982**” means the Civil Jurisdiction and Judgments Act 1982;
-- [^key-3cd3ed9d554ebd317c277789704c8239]...
+- [^c-3cd3ed9d554ebd317c277789704c8239]...
 - “judgment” is to be construed in accordance with the definition of “judgment” in section 50 of the Act of 1982;
 - “**money provision**” means a provision for the payment of one or more sums of money;
 - “**non-money provision**” means a provision for any relief or remedy not requiring payment of a sum of money;
-- [^key-53515610d743a62a59d71f21d6d6a3fd]...
-- “the 2005 Hague Convention” means the Convention on Choice of Court Agreements concluded on 30th June 2005[^key-2139df00f17bcbeaa4c1c9cc080bde84] at The Hague[^key-6567bde8e2826e0e80c08c425a79b056].
-- “[^key-1909cf80e3987c8722fe982a5e9dc914]**the 2019 Hague Convention**” means the Convention on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters concluded on 2nd July 2019 at The Hague.
+- [^c-53515610d743a62a59d71f21d6d6a3fd]...
+- “the 2005 Hague Convention” means the Convention on Choice of Court Agreements concluded on 30th June 2005[^c-2139df00f17bcbeaa4c1c9cc080bde84] at The Hague[^c-6567bde8e2826e0e80c08c425a79b056].
+- “[^c-1909cf80e3987c8722fe982a5e9dc914]**the 2019 Hague Convention**” means the Convention on the Recognition and Enforcement of Foreign Judgments in Civil or Commercial Matters concluded on 2nd July 2019 at The Hague.
 
 (2) For the purposes of this Part of this Order domicile is to be determined in accordance with the provisions of sections 41 to 46 of the Act of 1982.
 
@@ -8215,21 +8215,21 @@ Any application to the High Court under the Act of 1982 shall be assigned to the
 
 ##### 24. Application for registration
 
-An application for registration of a judgment under section 4B[^key-f95949f05bc8776426d28e1da038635c] or 4C[^key-5b438a28fd08355b980206e26152295a] of the Act of 1982 shall be made ex parte.
+An application for registration of a judgment under section 4B[^c-f95949f05bc8776426d28e1da038635c] or 4C[^c-5b438a28fd08355b980206e26152295a] of the Act of 1982 shall be made ex parte.
 
 \[*E.r. 27*\]
 
 ##### 25. Evidence in support of application
 
-(1) An application for registration under section 4B[^key-f687792570ac331212a9909a16a91e7a] or 4C[^key-b72bb1b23fa4018fab3f81cfbbd6afb4] of the Act of 1982 must be supported by an affidavit—
+(1) An application for registration under section 4B[^c-f687792570ac331212a9909a16a91e7a] or 4C[^c-b72bb1b23fa4018fab3f81cfbbd6afb4] of the Act of 1982 must be supported by an affidavit—
 
 - (a) exhibiting—
   - (i) the judgment or a verified or certified or otherwise duly authenticated copy thereof together with such other document or documents as may be requisite to show that, according to the law of the State in which it has been given, the judgment is enforceable and has been served;
   - (ii) in the case of a judgment given in default, the original or a certified true copy of the document which establishes that the party in default was served with the document instituting the proceedings or with an equivalent document;
   - (iii) where it is the case, a document showing that the party making the application is in receipt of legal aid in the State in which the judgment was given;
-  - (iv) where the judgment or document is not in the English language, a translation thereof into English certified by a notary public or a person qualified for the purpose in one of the Contracting States or authenticated by affidavit; and[^key-4d59c9290e48450b56504a3fe8d9d4bd]
-  - (v)[^key-1e9b9e887ac5e5d182fdb3c72c80d6fb] where the application is made under section 4B of the Act of 1982, the documents specified in paragraph 1A of this rule; and
-  - (vi)[^key-b98fea8cf7bf4bc580b97567d3365316] where the application is made under section 4C of the Act of 1982, the documents specified in paragraph 1B of this rule.
+  - (iv) where the judgment or document is not in the English language, a translation thereof into English certified by a notary public or a person qualified for the purpose in one of the Contracting States or authenticated by affidavit; and[^c-4d59c9290e48450b56504a3fe8d9d4bd]
+  - (v)[^c-1e9b9e887ac5e5d182fdb3c72c80d6fb] where the application is made under section 4B of the Act of 1982, the documents specified in paragraph 1A of this rule; and
+  - (vi)[^c-b98fea8cf7bf4bc580b97567d3365316] where the application is made under section 4C of the Act of 1982, the documents specified in paragraph 1B of this rule.
 - (b) stating—
   - (i) whether the judgment provides for the payment of a sum or sums of money;
   - (ii) whether interest is recoverable on the subject or part thereof in accordance with the law of the State in which the judgment was given, and if such be the case, the rate of interest, the date from which interest is recoverable, and the date on which interest ceases to accrue;
@@ -8238,7 +8238,7 @@ An application for registration of a judgment under section 4B[^key-f95949f05bc8
   - (i) the grounds on which the right to enforce the judgment is vested in the party making the application;
   - (ii) as the case may require, either that at the date of the application the judgment has not been satisfied, or the part or amount in respect of which it remains unsatisfied.
 
-(1A)[^key-7ffc21f76da1e8d69217c4f3493b0dc8] The documents referred to in rule 25(1)(a)(v) are—
+(1A)[^c-7ffc21f76da1e8d69217c4f3493b0dc8] The documents referred to in rule 25(1)(a)(v) are—
 
 - (a) any documents necessary to establish that the judgment—
   - (i) meets the condition in Article 8(3) of the 2005 Hague Convention; and
@@ -8263,21 +8263,21 @@ An application for registration of a judgment under section 4B[^key-f95949f05bc8
 
 ##### 26. Security for costs
 
-Notwithstanding the provisions of Order 23 a party making an application for registration under section 4B[^key-7beb3262e0be9b8650634c1bcb8884eb] or 4C[^key-12842a0084d2154fab9615370854ce4b] of the Act of 1982 shall not be required solely on the ground that he is not domiciled or resident within the jurisdiction, to give security for costs of the application.
+Notwithstanding the provisions of Order 23 a party making an application for registration under section 4B[^c-7beb3262e0be9b8650634c1bcb8884eb] or 4C[^c-12842a0084d2154fab9615370854ce4b] of the Act of 1982 shall not be required solely on the ground that he is not domiciled or resident within the jurisdiction, to give security for costs of the application.
 
 \[*E.r. 29*\]
 
 ##### 27. Order for registration
 
-(1)[^key-5372e6a8da613624678424a5ba436ce9] An order giving leave to register a judgment under section 4B or 4C of the Act of 1982 shall state the period within which an application may be made to set aside the registration and shall contain a notification that no application to enforce the judgment shall be made until after the expiration of that period.
+(1)[^c-5372e6a8da613624678424a5ba436ce9] An order giving leave to register a judgment under section 4B or 4C of the Act of 1982 shall state the period within which an application may be made to set aside the registration and shall contain a notification that no application to enforce the judgment shall be made until after the expiration of that period.
 
-(2) The notification referred to in paragraph (1) shall not prevent any application for orders to preserve the property of the party against whom enforcement is sought[^key-1ecdeeb124a6f8523a47aa3c4217655a] pending final determination of any issue relating to enforcement of the judgment.
+(2) The notification referred to in paragraph (1) shall not prevent any application for orders to preserve the property of the party against whom enforcement is sought[^c-1ecdeeb124a6f8523a47aa3c4217655a] pending final determination of any issue relating to enforcement of the judgment.
 
 \[*E.r. 30*\]
 
-##### 28. Register of judgments registered under s. 4B or s. 4C of the Act of 1982[^key-339918676bb8cf4af93e3d9664c2cca8][^key-3f342a682e7624219ee8f9a770e0b2a3]
+##### 28. Register of judgments registered under s. 4B or s. 4C of the Act of 1982[^c-339918676bb8cf4af93e3d9664c2cca8][^c-3f342a682e7624219ee8f9a770e0b2a3]
 
-There shall be kept in the Central Office under the direction of the Master (Queen’s Bench and Appeals) a register of the judgments ordered to be registered under section 4B[^key-7fb476df3570fc7f3e29153fdd330b0f] or 4C[^key-b280ad705c54d04633124d8ca3ebbe6f] of the Act of 1982.
+There shall be kept in the Central Office under the direction of the Master (Queen’s Bench and Appeals) a register of the judgments ordered to be registered under section 4B[^c-7fb476df3570fc7f3e29153fdd330b0f] or 4C[^c-b280ad705c54d04633124d8ca3ebbe6f] of the Act of 1982.
 
 \[*E.r. 31*\]
 
@@ -8291,12 +8291,12 @@ There shall be kept in the Central Office under the direction of the Master (Que
 
 - (a) full particulars of the judgment registered and the order for registration,
 - (b) the name of the party making the application and his address for service within the jurisdiction,
-- (c)[^key-01344c7193052aeb29c966d1c3f097dc] the right of the person against whom judgment was given to apply to have the registration set aside, and
-- (d)[^key-fc08d406c1ba23efd45d8eb7577cd322] the period within which an application to set aside the registration may be made.
+- (c)[^c-01344c7193052aeb29c966d1c3f097dc] the right of the person against whom judgment was given to apply to have the registration set aside, and
+- (d)[^c-fc08d406c1ba23efd45d8eb7577cd322] the period within which an application to set aside the registration may be made.
 
 \[*E.r. 32*\]
 
-##### 30. Application to set aside registration[^key-87f6a0f0893fa47c8a9057ecdc31dc52]
+##### 30. Application to set aside registration[^c-87f6a0f0893fa47c8a9057ecdc31dc52]
 
 (1) An application under section 6B or 6C of the Act of 1982 to set aside the registration of a judgment shall be made by summons supported by affidavit.
 
@@ -8310,9 +8310,9 @@ There shall be kept in the Central Office under the direction of the Master (Que
 
 ##### 31. Application for recognition
 
-(1) Registration of the judgment under these rules shall serve for the purposes of the 2005 Hague Convention[^key-9a3f05b632b370dfe3df9a794ce18a70] or the 2019 Hague Convention[^key-4bf9dc41259b783fb4420d710f0f65ef] as a decision that the judgment is recognised.
+(1) Registration of the judgment under these rules shall serve for the purposes of the 2005 Hague Convention[^c-9a3f05b632b370dfe3df9a794ce18a70] or the 2019 Hague Convention[^c-4bf9dc41259b783fb4420d710f0f65ef] as a decision that the judgment is recognised.
 
-(2) Where it is sought to apply for recognition of a judgment, the foregoing rules of this Order shall apply to such application as they apply to an application for registration under section 4B[^key-5b1d8b0e87741a6a387b1172795aa580] or 4C of the Act of 1982[^key-156445926b0a9a80c8dd22af6d53c569], with the exception that the applicant shall not be required to produce a document or documents which establish that according to the law of the State in which it has been given the judgment is enforceable and has been served, or the document referred to in rule 25(1)(a)(iii).
+(2) Where it is sought to apply for recognition of a judgment, the foregoing rules of this Order shall apply to such application as they apply to an application for registration under section 4B[^c-5b1d8b0e87741a6a387b1172795aa580] or 4C of the Act of 1982[^c-156445926b0a9a80c8dd22af6d53c569], with the exception that the applicant shall not be required to produce a document or documents which establish that according to the law of the State in which it has been given the judgment is enforceable and has been served, or the document referred to in rule 25(1)(a)(iii).
 
 \[*E.r. 35*\]
 
@@ -8331,11 +8331,11 @@ There shall be kept in the Central Office under the direction of the Master (Que
   - (i) whether the judgment provides for the payment of a sum or sums of money;
   - (ii) whether interest is recoverable on the judgment or part thereof and if such be the case, the rate of interest, the date from which interest is recoverable, and the date on which interest ceases to accrue.
 
-(3) The certified copy of the judgment shall be an office copy sealed with the seal of the Court of Judicature and there shall be issued with the copy of the judgment a certificate in Form 63 , or such other form as the judge or master considers appropriate,[^key-6823dbecf6e37ff9cacc5be1e8256034] signed by one of the persons referred to in Order 1 rule 3(2) and sealed with the seal of the Court of Judicature,, having annexed to it a copy of the writ, originating summons or other process by which the proceedings were begun.
+(3) The certified copy of the judgment shall be an office copy sealed with the seal of the Court of Judicature and there shall be issued with the copy of the judgment a certificate in Form 63 , or such other form as the judge or master considers appropriate,[^c-6823dbecf6e37ff9cacc5be1e8256034] signed by one of the persons referred to in Order 1 rule 3(2) and sealed with the seal of the Court of Judicature,, having annexed to it a copy of the writ, originating summons or other process by which the proceedings were begun.
 
 \[*E.r. 36*\]
 
-##### 32A. Enforcement of court settlements[^key-be183d8a3f6221b4439baf74445da74b]
+##### 32A. Enforcement of court settlements[^c-be183d8a3f6221b4439baf74445da74b]
 
 This Part applies, subject to any necessary modifications, for the enforcement of court settlements which are subject to Article 12 of the 2005 Hague Convention or Article 11 of the 2019 Hague Convention.
 
@@ -8377,103 +8377,103 @@ There shall be kept in the Central Office under the direction of the Master (Que
 
 \[*E.r. 39*\]
 
-#### IIIA RECIPROCAL ENFORCEMENT OF JUDGMENTS: THE JUDGMENTS REGULATION[^key-6f217a8246788e555d2536bbd6f127cc]
+#### IIIA RECIPROCAL ENFORCEMENT OF JUDGMENTS: THE JUDGMENTS REGULATION[^c-6f217a8246788e555d2536bbd6f127cc]
 
 **No longer in force.**
 
-##### 35A. Application and interpretation[^key-6f217a8246788e555d2536bbd6f127cc]
+##### 35A. Application and interpretation[^c-6f217a8246788e555d2536bbd6f127cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 35B. Assignment of business and exercise of powers[^key-6f217a8246788e555d2536bbd6f127cc]
+##### 35B. Assignment of business and exercise of powers[^c-6f217a8246788e555d2536bbd6f127cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 35C. Applications under the Judgments Regulation[^key-6f217a8246788e555d2536bbd6f127cc]
+##### 35C. Applications under the Judgments Regulation[^c-6f217a8246788e555d2536bbd6f127cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 35D. Appeals[^key-6f217a8246788e555d2536bbd6f127cc]
+##### 35D. Appeals[^c-6f217a8246788e555d2536bbd6f127cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 35E. Enforcement of High Court judgments in other Member States[^key-6f217a8246788e555d2536bbd6f127cc]
+##### 35E. Enforcement of High Court judgments in other Member States[^c-6f217a8246788e555d2536bbd6f127cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 35F. Authentic instruments and court settlements[^key-6f217a8246788e555d2536bbd6f127cc]
+##### 35F. Authentic instruments and court settlements[^c-6f217a8246788e555d2536bbd6f127cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 35G. References under the Civil Jurisdiction and Judgments Order 2001[^key-6f217a8246788e555d2536bbd6f127cc]
+##### 35G. References under the Civil Jurisdiction and Judgments Order 2001[^c-6f217a8246788e555d2536bbd6f127cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### IV. EUROPEAN ORDER FOR PAYMENT PROCEDURE[^key-1b46126ba64c74e29167f5f9c73c213d]
+#### IV. EUROPEAN ORDER FOR PAYMENT PROCEDURE[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 **No longer in force.**
 
-##### 36. Application and interpretation[^key-1b46126ba64c74e29167f5f9c73c213d]
+##### 36. Application and interpretation[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 37. Translations[^key-1b46126ba64c74e29167f5f9c73c213d]
+##### 37. Translations[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 38. Assignment of business and exercise of powers[^key-1b46126ba64c74e29167f5f9c73c213d]
+##### 38. Assignment of business and exercise of powers[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 39. Application for a European Order for Payment[^key-1b46126ba64c74e29167f5f9c73c213d]
+##### 39. Application for a European Order for Payment[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 40. Withdrawal of EOP application[^key-1b46126ba64c74e29167f5f9c73c213d]
+##### 40. Withdrawal of EOP application[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 41. Transfer of proceedings where an EOP application has been opposed[^key-1b46126ba64c74e29167f5f9c73c213d]
+##### 41. Transfer of proceedings where an EOP application has been opposed[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 42. Defence[^key-1b46126ba64c74e29167f5f9c73c213d]
+##### 42. Defence[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 43. Review in exceptional cases[^key-1b46126ba64c74e29167f5f9c73c213d]
+##### 43. Review in exceptional cases[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 44. Register of European Orders for Payment[^key-1b46126ba64c74e29167f5f9c73c213d]
+##### 44. Register of European Orders for Payment[^c-1b46126ba64c74e29167f5f9c73c213d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### V. MEDIATION DIRECTIVE[^key-2e048695d17acb3bfa1f77c5e00fd8ef]
+#### V. MEDIATION DIRECTIVE[^c-2e048695d17acb3bfa1f77c5e00fd8ef]
 
 **No longer in force.**
 
-##### 45. Application and interpretation[^key-2e048695d17acb3bfa1f77c5e00fd8ef]
+##### 45. Application and interpretation[^c-2e048695d17acb3bfa1f77c5e00fd8ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 46. Assignment of business and exercise of powers[^key-2e048695d17acb3bfa1f77c5e00fd8ef]
+##### 46. Assignment of business and exercise of powers[^c-2e048695d17acb3bfa1f77c5e00fd8ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 47. Mediation settlement enforcement orders[^key-2e048695d17acb3bfa1f77c5e00fd8ef]
+##### 47. Mediation settlement enforcement orders[^c-2e048695d17acb3bfa1f77c5e00fd8ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 48. Mediation settlement enforcement orders: foreign currency[^key-2e048695d17acb3bfa1f77c5e00fd8ef]
+##### 48. Mediation settlement enforcement orders: foreign currency[^c-2e048695d17acb3bfa1f77c5e00fd8ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 49. Mediation evidence: disclosure or inspection[^key-2e048695d17acb3bfa1f77c5e00fd8ef]
+##### 49. Mediation evidence: disclosure or inspection[^c-2e048695d17acb3bfa1f77c5e00fd8ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### 50. Mediation evidence: witnesses and depositions[^key-2e048695d17acb3bfa1f77c5e00fd8ef]
+##### 50. Mediation evidence: witnesses and depositions[^c-2e048695d17acb3bfa1f77c5e00fd8ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -8683,7 +8683,7 @@ An arbitration application or appeal to the High Court under the Arbitration Act
 - (a) arbitral proceedings are taking place, or an arbitration award has been made, within the jurisdiction; and
 - (b) an arbitration application is being made in connection with those arbitral proceedings or being brought to challenge the award or to appeal on a question of law arising out of the award; and
 - (c) the respondent to the arbitration application (not being an individual residing or carrying on business within the jurisdiction or a body corporate having a registered office or a place of business within the jurisdiction)—
-  - (i) is or was represented in the arbitral proceedings by a solicitor or other agent within the jurisdiction [^key-0024aa1c153c61f5ef633872c3e2a4d0]... who was authorised to receive service of any notice or other document served for the purposes of those proceedings; and
+  - (i) is or was represented in the arbitral proceedings by a solicitor or other agent within the jurisdiction [^c-0024aa1c153c61f5ef633872c3e2a4d0]... who was authorised to receive service of any notice or other document served for the purposes of those proceedings; and
   - (ii) has not (at the time when the arbitration application is made) determined the authority of that solicitor or agent,
 
 the Court may order service of the arbitration application to be effected on the solicitor or agent instead of the respondent.
@@ -10531,7 +10531,7 @@ This paragraph shall not apply to an order for interrogatories or for discovery 
 - “**gilt unit trust scheme**” means an authorised unit trust scheme, or a recognised scheme, the objective of which is—
   - (a) to invest at least 90% of the property of the scheme in loan stock, bonds or other instruments creating indebtedness which—
     - (i) are transferable; and
-    - (ii) are issued or guaranteed by the government of the United Kingdom or of any other country or territory, by a local authority in the United Kingdom [^key-43abe7a3c9eabeb587b93691bb025a51]..., or by an international organisation the members of which include the United Kingdom [^key-43abe7a3c9eabeb587b93691bb025a51]...;
+    - (ii) are issued or guaranteed by the government of the United Kingdom or of any other country or territory, by a local authority in the United Kingdom [^c-43abe7a3c9eabeb587b93691bb025a51]..., or by an international organisation the members of which include the United Kingdom [^c-43abe7a3c9eabeb587b93691bb025a51]...;
   - (b) to invest the remainder of the property of the scheme in shares, debentures or other instruments creating or acknowledging indebtedness, certificates representing securities or units in a collective investment scheme.
 
   Sub-paragraphs (a) and (b) must be read with—
@@ -10545,7 +10545,7 @@ This paragraph shall not apply to an order for interrogatories or for discovery 
 - “**Treasury Bills**” includes bills issued by Her Majesty’s Government in the United Kingdom and Northern Ireland Treasury Bills;
 - “**variable-interest securities**” means securities which under the terms of issue bear variable rate of interest.
 
-(2)[^key-718c765e13d235835851a325a8a48bd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-718c765e13d235835851a325a8a48bd6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### ORDER 81 — PARTNERS
 
@@ -12206,10 +12206,10 @@ Unless otherwise directed, an ex parte application under this paragraph shall be
 - (n) the Friendly Societies Act (Northern Ireland) 1970[^f00627],
 - (o) the Industrial Assurance (Northern Ireland) Order 1979[^f00628],
 - [(p) [^f00629] section 114, 204 or 231 of the Copyright, Designs and Patents Act 1988 [^f00630]\],
-- (q)[^key-dc15e8c0b81d2868d902be5bdde9531b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (q)[^c-dc15e8c0b81d2868d902be5bdde9531b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [(r) [^f00631] regulation 22(6) of the European Cooperative Society (Involvement of Employees) Regulations 2006[^f00633]\]
 - [(s) [^f00634] The Electricity (Single Wholesale Market) (Northern Ireland) Order 2007 and the Electricity Regulations (Northern Ireland) 2007.\]
-- (t)[^key-f26e620a16c55d27c4b639f9abade68b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (t)[^c-f26e620a16c55d27c4b639f9abade68b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - [(u) [^f00637] the Transnational Information and Consultation of Employees Regulations 1999.\]
 
 (3) At any stage of the proceedings on an appeal under the enactments mentioned in paragraph (2)(g) (j) (k) (m) (n) and (o) the Court may direct that notice of the originating motion by which the appeal is brought be served on any person or may direct that notice be given by advertisement or otherwise of the bringing of the appeal, the nature thereof and the time when it will or is likely to be heard or may give such other directions as it thinks proper for enabling any person interested in the trade union, alleged trade union, society or industrial insurance company concerned or in the subject matter of the appeal to appear and be heard on the appeal.
@@ -12734,17 +12734,17 @@ Any proceedings under Article 10 of the 1993 Order shall be assigned to the Quee
 - “**grant**” means a grant of probate or administration;
 - “**the Judge**” means the Judge for the time being to whom the business of the \[[^f00688] Chancery Division\] is assigned under section 17 of the Act and any judge of the High Court exercising jurisdiction in probate causes and matters;
 - “**the Office**” means the \[[^f00688] Chancery Office\] of the \[[^f00688] Chancery Division\];
-- “Master” in rules 3, 4, 5, 7, 8, 9(1) and (2), 10, 11, 12, 13, 14, 15, 17, 18, 20(6), 26(1), 31, 32, 37, 38, 58, and 60 includes a district judge[^key-f7c6dc040b791fb194ff5c1c673a8786] in relation to an applicant for a grant made or proposed to be made at a branch office;
-- “online portal” means the online portal established by the Department of Justice for the making of an online application for a grant;[^key-8007c9178828ed2b25ee8a69008183ce]
+- “Master” in rules 3, 4, 5, 7, 8, 9(1) and (2), 10, 11, 12, 13, 14, 15, 17, 18, 20(6), 26(1), 31, 32, 37, 38, 58, and 60 includes a district judge[^c-f7c6dc040b791fb194ff5c1c673a8786] in relation to an applicant for a grant made or proposed to be made at a branch office;
+- “online portal” means the online portal established by the Department of Justice for the making of an online application for a grant;[^c-8007c9178828ed2b25ee8a69008183ce]
 - “**personal applicant**” means a person other than a trust corporation who seeks to obtain a grant without employing a solicitor, and
 - “personal application” has a corresponding meaning.
-- “statement of truth” means a statement signed by the applicant for a grant confirming the truthfulness of statements made in the application and the true nature of any documents lodged in support of the application.[^key-63a87641747e43abca200cf58a7d5ae7]
+- “statement of truth” means a statement signed by the applicant for a grant confirming the truthfulness of statements made in the application and the true nature of any documents lodged in support of the application.[^c-63a87641747e43abca200cf58a7d5ae7]
 
 (2) A form referred to by number means the form so numbered in Appendix C; and such forms shall be used whenever applicable, with such variations as the Master may in any particular case direct or approve.
 
 \[*E. Non-Contentious Probate Rules: r.2*\]
 
-#### 1A. Application for grant[^key-2140209e41f98c69ad4da518507c2e5c]
+#### 1A. Application for grant[^c-2140209e41f98c69ad4da518507c2e5c]
 
 (1) An application for a grant may be made—
 
@@ -12766,15 +12766,15 @@ Any proceedings under Article 10 of the 1993 Order shall be assigned to the Quee
 
 #### 2. Applications for grants through solicitors
 
-(1)[^key-7d6624a5586d4f64c7102502e45c67c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7d6624a5586d4f64c7102502e45c67c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Every solicitor through whom an application for a grant is made shall give the address of his place of business within the jurisdiction [^key-f9282717106066bcf0d0d9fb92f0b575]....
+(2) Every solicitor through whom an application for a grant is made shall give the address of his place of business within the jurisdiction [^c-f9282717106066bcf0d0d9fb92f0b575]....
 
 \[*E.r. 3*\]
 
 #### 3. Personal Applications
 
-(1)[^key-13ea00e703d126d468748158ee427493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-13ea00e703d126d468748158ee427493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A personal applicant may not apply through an agent, whether paid or unpaid, and may not be attended by any person acting or appearing to act as his adviser.
 
@@ -12788,11 +12788,11 @@ Any proceedings under Article 10 of the 1993 Order shall be assigned to the Quee
 
 (5) A personal applicant shall produce a certificate of the death of the deceased or such other evidence of the death as the Master may approve.
 
-(6)[^key-a3835e43fcb35b0ed79d9265c9d02029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a3835e43fcb35b0ed79d9265c9d02029] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) Unless the Master otherwise directs, every [^key-7bb52ebefcececf100ce97f6b02b48e7]... affidavit or guarantee required on a personal application (other than a guarantee given by a corporation in accordance with rule 38), shall be sworn or executed by all the deponents or sureties before an authorised officer.
+(7) Unless the Master otherwise directs, every [^c-7bb52ebefcececf100ce97f6b02b48e7]... affidavit or guarantee required on a personal application (other than a guarantee given by a corporation in accordance with rule 38), shall be sworn or executed by all the deponents or sureties before an authorised officer.
 
-(8) No legal advice shall be given to a personal applicant by any officer of the Office or branch office [^key-27ecb237f24e37a4490d401aa38b386f]....
+(8) No legal advice shall be given to a personal applicant by any officer of the Office or branch office [^c-27ecb237f24e37a4490d401aa38b386f]....
 
 \[*E.r. 4*\]
 
@@ -12800,7 +12800,7 @@ Any proceedings under Article 10 of the 1993 Order shall be assigned to the Quee
 
 (1) The Master shall not allow any grant to issue until all inquiries which he may see fit to make have been answered to his satisfaction.
 
-(2) The Master may require proof of the identity of the deceased or of the applicant for the grant beyond that contained in the statement of truth[^key-c487f5e1c06536acb64cb746ed6f66db].
+(2) The Master may require proof of the identity of the deceased or of the applicant for the grant beyond that contained in the statement of truth[^c-c487f5e1c06536acb64cb746ed6f66db].
 
 (3) Except with the leave of the Master, no grant of probate or of administration with the will annexed shall issue within seven days of the death of the deceased and no grant of administration shall issue within \[[^f00691] twenty-eight days\] thereof.
 
@@ -12808,7 +12808,7 @@ Any proceedings under Article 10 of the 1993 Order shall be assigned to the Quee
 
 #### 5. Oath in support of grant
 
-(1) Every application for a grant shall be supported by an statement of truth[^key-6d93489e5fc7ff5b043df21f9a2d8f49] in the form applicable to the circumstances of the case [^key-c065f8f45b7b9c22e0cb99cca14349ad]... and by such other papers as the Master may require.
+(1) Every application for a grant shall be supported by an statement of truth[^c-6d93489e5fc7ff5b043df21f9a2d8f49] in the form applicable to the circumstances of the case [^c-c065f8f45b7b9c22e0cb99cca14349ad]... and by such other papers as the Master may require.
 
 (2) On an application for a grant of administration the statement of truth shall state whether, and if so, in what manner, all persons having a prior right to a grant have been cleared off.
 
@@ -12818,13 +12818,13 @@ Any proceedings under Article 10 of the 1993 Order shall be assigned to the Quee
 
 #### 6. Grant in additional name
 
-Where it is necessary to describe the deceased in a grant by some name in addition to his true name, the applicant shall state in the statement of truth[^key-d6c9c69bee4358e81afe592dce688526] the true name of the deceased and shall confirm[^key-f93653c44e0b1d80a637ddbefed0a213] that some part of the estate, specifying it, was held in the other name, or as to any other reason that there may be for the inclusion of the other name in the grant.
+Where it is necessary to describe the deceased in a grant by some name in addition to his true name, the applicant shall state in the statement of truth[^c-d6c9c69bee4358e81afe592dce688526] the true name of the deceased and shall confirm[^c-f93653c44e0b1d80a637ddbefed0a213] that some part of the estate, specifying it, was held in the other name, or as to any other reason that there may be for the inclusion of the other name in the grant.
 
 \[*E.r. 7*\]
 
 #### 7. Marking of wills
 
-Every will in respect of which an application for a grant is made shall be marked by the signature[^key-e6f610376c09f8f17c9859ae091f0673] of the applicant [^key-d1406768f57081e9435b471ee1f6b228]..., and shall be exhibited to any affidavit which may be required under this Order as to the validity, terms, conditions or date of execution of the will;
+Every will in respect of which an application for a grant is made shall be marked by the signature[^c-e6f610376c09f8f17c9859ae091f0673] of the applicant [^c-d1406768f57081e9435b471ee1f6b228]..., and shall be exhibited to any affidavit which may be required under this Order as to the validity, terms, conditions or date of execution of the will;
 
 Provided that where the Master is satisfied that compliance with this rule might result in the loss of the will, he may allow a photographic copy thereof to be marked or exhibited in lieu of the original document.
 
@@ -12887,7 +12887,7 @@ The Master may require an affidavit from any person he may think fit for the pur
 
 #### 14. Wills not proved under section 9 of the Wills Act, 1837
 
-Nothing in rule 9, 10, 11 or 12 shall apply to any will which it is sought to establish otherwise than by reference to Article 5 of the Wills and Administration of Proceedings (Northern Ireland) Order 1994[^key-e7de0cbbb4550c28070becf58fc4de3f], but the terms and validity of any such will shall be established to the Master’s satisfaction.
+Nothing in rule 9, 10, 11 or 12 shall apply to any will which it is sought to establish otherwise than by reference to Article 5 of the Wills and Administration of Proceedings (Northern Ireland) Order 1994[^c-e7de0cbbb4550c28070becf58fc4de3f], but the terms and validity of any such will shall be established to the Master’s satisfaction.
 
 \[*E.r. 15*\]
 
@@ -12931,7 +12931,7 @@ Where the deceased died on or after the 1st January 1956 domiciled in Northern I
 
 #### 19. Grants to attesting witnesses, etc.
 
-Where a gift to any person fails by reason of Article 8 of the Wills and Administration of Proceedings (Northern Ireland) Order 1994[^key-d0f214cc4a3259e3e56320e102f04c6d] , such person shall not have any right to a grant as a beneficiary named in the will, without prejudice to his right to a grant in any other capacity.
+Where a gift to any person fails by reason of Article 8 of the Wills and Administration of Proceedings (Northern Ireland) Order 1994[^c-d0f214cc4a3259e3e56320e102f04c6d] , such person shall not have any right to a grant as a beneficiary named in the will, without prejudice to his right to a grant in any other capacity.
 
 \[*E.r. 20*\]
 
@@ -13089,7 +13089,7 @@ Provided that where the person so entitled is an executor, administration shall 
 
 #### 30. Grants to trust corporations
 
-(1) Where a trust corporation applies for a grant through one of its officers, such officer shall lodge a certified copy of the resolution authorising him to make the application and shall depose in the statement of truth[^key-dc0b9b1aa3d131f43009cb6c1f2f9294] that the corporation is a trust corporation within the meaning of Article 9 of the Order, and that it has power to accept a grant.
+(1) Where a trust corporation applies for a grant through one of its officers, such officer shall lodge a certified copy of the resolution authorising him to make the application and shall depose in the statement of truth[^c-dc0b9b1aa3d131f43009cb6c1f2f9294] that the corporation is a trust corporation within the meaning of Article 9 of the Order, and that it has power to accept a grant.
 
 (2) Subject to the provisions of the succeeding paragraphs, where a trust corporation applies for a grant of administration with or without will annexed (otherwise than as attorney for some person) there shall be lodged with the application for a grant the consents of all persons entitled to a grant and of all persons interested in the residuary or undisposed-of estate of the deceased, unless the Master directs that such consents, or any of them, be dispensed with on such terms (if any) as he may think fit.
 
@@ -13107,7 +13107,7 @@ A grant to a trust corporation given under this paragraph shall be limited until
 
 #### 31. Grants to corporations other than trust corporations
 
-Where a corporation (not being a trust corporation) would, if an individual, be entitled to a grant, administration for its use and benefit, limited until further representation is granted, may be granted to its nominee or, if the corporation has its principal place of business outside Northern Ireland, its nominee or lawfully constituted attorney, and a copy of the resolution appointing the nominee or, as the case may be, the power of attorney, sealed by the corporation or otherwise authenticated to the Master’s satisfaction, shall be lodged with the application for the grant, and the statement of truth[^key-8f53da84e2bfd43e0c53a6c68e14e1b2] shall state that the corporation is not a trust corporation.
+Where a corporation (not being a trust corporation) would, if an individual, be entitled to a grant, administration for its use and benefit, limited until further representation is granted, may be granted to its nominee or, if the corporation has its principal place of business outside Northern Ireland, its nominee or lawfully constituted attorney, and a copy of the resolution appointing the nominee or, as the case may be, the power of attorney, sealed by the corporation or otherwise authenticated to the Master’s satisfaction, shall be lodged with the application for the grant, and the statement of truth[^c-8f53da84e2bfd43e0c53a6c68e14e1b2] shall state that the corporation is not a trust corporation.
 
 \[*E.r. 34*\]
 
@@ -13190,8 +13190,8 @@ or except where the Master considers that there are special circumstances making
 
 (2) On any such application—
 
-- (a) an HM Revenue and Customs[^key-efdacd26d31975e0edf21dcd773e8ba0] affidavit or account shall be lodged as if the application were one for a grant in Northern Ireland;
-- (b) if the Master so requires, the application shall be advertised in such manner as he may direct and shall be supported by an statement of truth[^key-58207694c7c77f2a02b330b7e59e53eb] sworn by the person making the application.
+- (a) an HM Revenue and Customs[^c-efdacd26d31975e0edf21dcd773e8ba0] affidavit or account shall be lodged as if the application were one for a grant in Northern Ireland;
+- (b) if the Master so requires, the application shall be advertised in such manner as he may direct and shall be supported by an statement of truth[^c-58207694c7c77f2a02b330b7e59e53eb] sworn by the person making the application.
 
 (3) On an application for the resealing of a grant of administration—
 
@@ -13225,15 +13225,15 @@ Provided that except in special circumstances no grant shall be amended or revok
 
 \[*E.r. 42*\]
 
-#### 42. Certificate of delivery of HM Revenue and Customs affidavit[^key-4c208f4fb28f6891caa027c02293780a]
+#### 42. Certificate of delivery of HM Revenue and Customs affidavit[^c-4c208f4fb28f6891caa027c02293780a]
 
-Where the deceased died before March 13, 1975, the certificate of delivery of an HM Revenue and Customs[^key-b954f88ff0153f5c6e86701d8d86df80] affidavit required by section 30 of the Customs and Inland Revenue Act 1881[^f00703], to be borne by every grant shall be in Form No. 3.
+Where the deceased died before March 13, 1975, the certificate of delivery of an HM Revenue and Customs[^c-b954f88ff0153f5c6e86701d8d86df80] affidavit required by section 30 of the Customs and Inland Revenue Act 1881[^f00703], to be borne by every grant shall be in Form No. 3.
 
 \[*E.r. 43*\]
 
 #### 43. Caveats
 
-(1)[^key-16e5f78280e4b4ac3ad377e9e66978f8] Any person who wishes to ensure that no grant is sealed without notice to himself may enter a caveat either personally or by his solicitor—
+(1)[^c-16e5f78280e4b4ac3ad377e9e66978f8] Any person who wishes to ensure that no grant is sealed without notice to himself may enter a caveat either personally or by his solicitor—
 
 - (a) through the online portal, in accordance with instructions given through the online portal; or
 - (b) in the Office or where the lodging of caveats is branch office business at the appropriate branch office.
@@ -13242,19 +13242,19 @@ Where the deceased died before March 13, 1975, the certificate of delivery of an
 
 (3) Except as otherwise provided by this rule, a caveat shall remain in force for six months, beginning with the date on which it is entered and shall then cease to have effect, without prejudice to the entry of a further caveat or caveats.
 
-(4) Where a caveator within the last month of a period of six months prescribed by paragraph (3) of this rule or of any additional period of six months prescribed by this paragraph, lodges an[^key-351b2acd729791e2322a456fa1aa0410] application for its extension, the caveat shall (except as otherwise provided by paragraphs (9), (12) and (14) of this rule) remain in force for an additional period of six months.
+(4) Where a caveator within the last month of a period of six months prescribed by paragraph (3) of this rule or of any additional period of six months prescribed by this paragraph, lodges an[^c-351b2acd729791e2322a456fa1aa0410] application for its extension, the caveat shall (except as otherwise provided by paragraphs (9), (12) and (14) of this rule) remain in force for an additional period of six months.
 
-(4A)[^key-2756ac18d43c199ce12e5f12f303e07b] An application for an extension of a caveat shall be made—
+(4A)[^c-2756ac18d43c199ce12e5f12f303e07b] An application for an extension of a caveat shall be made—
 
 - (a) through the online portal, in accordance with instructions given through the online portal; or
 - (b) in person by lodging an application in writing at the Office or branch office where the caveat was entered.
 
 (5)
 
-- (a) The Master shall, as soon as practicable after a caveat is lodged[^key-d5d52b3f38a2d19f7b448ceb8c93f56d] , send notice thereof to the appropriate district judge if it is alleged that the deceased resided at the time of his death, or if he is known to have had a fixed place of abode at the time of his death, within the jurisdiction of the branch office;
-- (b) The district judge shall, as soon as practicable after a caveat is lodged[^key-c0e6f43fe6715e0915dd2d555b980fb1] in a branch office, send a copy thereof to the Master and shall state the day on which the same was lodged.
+- (a) The Master shall, as soon as practicable after a caveat is lodged[^c-d5d52b3f38a2d19f7b448ceb8c93f56d] , send notice thereof to the appropriate district judge if it is alleged that the deceased resided at the time of his death, or if he is known to have had a fixed place of abode at the time of his death, within the jurisdiction of the branch office;
+- (b) The district judge shall, as soon as practicable after a caveat is lodged[^c-c0e6f43fe6715e0915dd2d555b980fb1] in a branch office, send a copy thereof to the Master and shall state the day on which the same was lodged.
 
-(6) The Master shall maintain an index of caveats entered [^key-9979ac8795cce5d50f6f8043a3562397]... and on receiving an application for a grant in the Office, or a notice of an application for a grant made in a branch office he shall cause the index to be searched and shall notify the appropriate district judge in the event of a caveat having been entered against the sealing of a grant for which application has been made in a branch office.
+(6) The Master shall maintain an index of caveats entered [^c-9979ac8795cce5d50f6f8043a3562397]... and on receiving an application for a grant in the Office, or a notice of an application for a grant made in a branch office he shall cause the index to be searched and shall notify the appropriate district judge in the event of a caveat having been entered against the sealing of a grant for which application has been made in a branch office.
 
 (7) The Master or district judge shall not allow any grant to be sealed if he has knowledge of an effective caveat in respect thereof:
 
@@ -16207,31 +16207,31 @@ The judge may, on such terms as he thinks just, set aside or vary any order made
 
 \[*E.r. 8*\]
 
-### ORDER 114 — REFERENCES TO THE EUROPEAN COURT[^key-1869f32b48227b0228503b64d8600581]
+### ORDER 114 — REFERENCES TO THE EUROPEAN COURT[^c-1869f32b48227b0228503b64d8600581]
 
 **No longer in force.**
 
-#### 1. Interpretation[^key-1869f32b48227b0228503b64d8600581]
+#### 1. Interpretation[^c-1869f32b48227b0228503b64d8600581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 2. Making of order[^key-1869f32b48227b0228503b64d8600581]
+#### 2. Making of order[^c-1869f32b48227b0228503b64d8600581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Schedule to order to set out request for ruling[^key-1869f32b48227b0228503b64d8600581]
+#### 3. Schedule to order to set out request for ruling[^c-1869f32b48227b0228503b64d8600581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 4. Stay of proceedings pending ruling[^key-1869f32b48227b0228503b64d8600581]
+#### 4. Stay of proceedings pending ruling[^c-1869f32b48227b0228503b64d8600581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Transmission or order to the European Court[^key-1869f32b48227b0228503b64d8600581]
+#### 5. Transmission or order to the European Court[^c-1869f32b48227b0228503b64d8600581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Appeals from orders made by High Court[^key-1869f32b48227b0228503b64d8600581]
+#### 6. Appeals from orders made by High Court[^c-1869f32b48227b0228503b64d8600581]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -17439,7 +17439,7 @@ would cause information to be disclosed contrary to the public interest.
 
 Unless the Court otherwise directs, Order 66, rules 3 to 5 shall not apply to proceedings under this Order.\]
 
-### \[ ORDER 116B — COUNTER-TERRORISM ACT 2008, PART 1 OF THE TERRORIST ASSET-FREEZING ETC. ACT 2010 AND PART 1 OF THE SANCTIONS AND ANTI-MONEY LAUNDERING ACT 2018[^f00854][^key-68fe39db9cd1e424d038991ed13a12ce]
+### \[ ORDER 116B — COUNTER-TERRORISM ACT 2008, PART 1 OF THE TERRORIST ASSET-FREEZING ETC. ACT 2010 AND PART 1 OF THE SANCTIONS AND ANTI-MONEY LAUNDERING ACT 2018[^f00854][^c-68fe39db9cd1e424d038991ed13a12ce]
 
 #### PART I — PRELIMINARY
 
@@ -17448,8 +17448,8 @@ Unless the Court otherwise directs, Order 66, rules 3 to 5 shall not apply to pr
 (1) [^f00856] This Order applies to—
 
 - (a) financial restrictions proceedings;
-- (aa)[^key-d27c0a7c812f9b2b1f1fa400011b7e9a] sanctions proceedings;
-- (b) appeals to the Court of Appeal against an order of the High Court in financial restrictions proceedings or sanctions proceedings[^key-5ea9cffde5acbe2ac783bbfe980e2960]; \[[^f00857]...\]
+- (aa)[^c-d27c0a7c812f9b2b1f1fa400011b7e9a] sanctions proceedings;
+- (b) appeals to the Court of Appeal against an order of the High Court in financial restrictions proceedings or sanctions proceedings[^c-5ea9cffde5acbe2ac783bbfe980e2960]; \[[^f00857]...\]
 - [(ba) [^f00858] appeals relating to designations under the Terrorist Asset-Freezing etc. Act 2010; and\]
 - (c) applications for a notification order under Schedule 4 to the Counter-Terrorism Act 2008.\]
 
@@ -17457,30 +17457,30 @@ Unless the Court otherwise directs, Order 66, rules 3 to 5 shall not apply to pr
 
 - (a) “the \[[^f00859] 2008\] Act” means the Counter-Terrorism Act 2008[^f00860];
 - [(aa) [^f00855] “**the 2010 Act**” means the Terrorist Asset-Freezing etc. Act 2010;\]
-- (ab)[^key-70b765a1f8abebd1eeb21ad6a6cca231] “the 2018 Act” means the Sanctions and Anti-Money Laundering Act 2018;
+- (ab)[^c-70b765a1f8abebd1eeb21ad6a6cca231] “the 2018 Act” means the Sanctions and Anti-Money Laundering Act 2018;
 - (ac) “appropriate Minister” means—
   - (i) in relation to a challenge to a decision of the Secretary of State, the Secretary of State;
   - (ii) in relation to a challenge to a decision of the Treasury, the Treasury;
 - (b) “**financial restrictions decision**” means a decision to which section 63(1) of the \[(b) 2008 Act or section 27 of the 2010\] Act applies;
-- (ba)[^key-67e493ace5684a2b3376105f2a94dadb] “sanctions decision” means a decision to which section 38 of the 2018 Act applies;
+- (ba)[^c-67e493ace5684a2b3376105f2a94dadb] “sanctions decision” means a decision to which section 38 of the 2018 Act applies;
 - (c) “financial restrictions proceedings” \[(b) means—
   - (i) financial restrictions proceedings” within the meaning of section 65 of the 2008 Act; and
   - (ii) proceedings in the High Court on an application under section 27 of the 2010 Act, or on a claim arising from any matter to which such an application relates\];
-- (cza)[^key-020fffbceefd96e8cdbb9ecf6f9c96c2] “sanctions proceedings” means proceedings—
+- (cza)[^c-020fffbceefd96e8cdbb9ecf6f9c96c2] “sanctions proceedings” means proceedings—
   - (i) on an application under section 38 of the 2018 Act, or
   - (ii) on a claim arising from any matter to which such an application relates;
 - [(ca) [^f00861] “**designation**” means a designation in accordance with Chapter 1 of Part 1 of the 2010 Act;\]
 - (d) “**closed material**” means—
-  - (i) material, evidence or submissions to the Court upon which the appropriate Minister[^key-862a16f9fdd56c4a28695e57005e5b22] wishes to rely in proceedings;
-  - (ii) material which adversely affects the appropriate Minister’s[^key-29693049ac7847bc2f9400d03c64bb11] case or supports another party’s case; or
+  - (i) material, evidence or submissions to the Court upon which the appropriate Minister[^c-862a16f9fdd56c4a28695e57005e5b22] wishes to rely in proceedings;
+  - (ii) material which adversely affects the appropriate Minister’s[^c-29693049ac7847bc2f9400d03c64bb11] case or supports another party’s case; or
   - (iii) information which the appropriate Minister is required to lodge pursuant to an order under rule 10(7),
 
   but which the appropriate Minister objects to disclosing to another party and that party’s legal representative;
-- (e) “**legal representative**” in relation to a party to proceedings other than the appropriate Minister[^key-7b6536490b5be62c76ad7c73adf55541] does not include a special advocate;
+- (e) “**legal representative**” in relation to a party to proceedings other than the appropriate Minister[^c-7b6536490b5be62c76ad7c73adf55541] does not include a special advocate;
 - (f) “**material**” means anything in which information of any description is recorded;
-- (g) “**party**” includes the appropriate Minister[^key-eef345253322b1414c818a576ddd8836] unless otherwise stated or unless the context otherwise requires;
-- (h) “**special advocate**” means a person appointed under section 68 of the \[[^f00862] 2008 Act (including that section as applied by section 28(4) of the 2010 Act and section 40(1) of the 2018 Act[^key-c690d48c2c985400ac0b1cbeadbb5aef])\]; and
-- (i) “**specially represented party**” means a party, other than the appropriate Minister[^key-8b72144d7c60da81d9caba4183a029df], whose interest a special advocate represents.
+- (g) “**party**” includes the appropriate Minister[^c-eef345253322b1414c818a576ddd8836] unless otherwise stated or unless the context otherwise requires;
+- (h) “**special advocate**” means a person appointed under section 68 of the \[[^f00862] 2008 Act (including that section as applied by section 28(4) of the 2010 Act and section 40(1) of the 2018 Act[^c-c690d48c2c985400ac0b1cbeadbb5aef])\]; and
+- (i) “**specially represented party**” means a party, other than the appropriate Minister[^c-8b72144d7c60da81d9caba4183a029df], whose interest a special advocate represents.
 
 ##### 2. Modification to the overriding objective
 
@@ -17490,11 +17490,11 @@ Unless the Court otherwise directs, Order 66, rules 3 to 5 shall not apply to pr
 
 (3) Without prejudice to paragraph (2), the Court will satisfy itself that the material available to it enables it to properly determine the proceedings.
 
-#### PART II — APPLICATION TO SET ASIDE A FINANCIAL RESTRICTIONS DECISION UNDER THE 2008 ACT OR THE 2010 ACT OR A SANCTIONS DECISION UNDER THE 2018 ACT[^key-cb9bdb8154066125ef1ca654cdfe6533]
+#### PART II — APPLICATION TO SET ASIDE A FINANCIAL RESTRICTIONS DECISION UNDER THE 2008 ACT OR THE 2010 ACT OR A SANCTIONS DECISION UNDER THE 2018 ACT[^c-cb9bdb8154066125ef1ca654cdfe6533]
 
 ##### 3. Application of this Part
 
-This Part applies to an application to set aside a financial restrictions decision \[[^f00863] under section 63(2) of the 2008 Act or section 27(2) of the 2010 Act or a sanctions decision under section 38(2) of the 2018 Act[^key-8166746084d2ad6b8e102c7edfc9ee37]\].
+This Part applies to an application to set aside a financial restrictions decision \[[^f00863] under section 63(2) of the 2008 Act or section 27(2) of the 2010 Act or a sanctions decision under section 38(2) of the 2018 Act[^c-8166746084d2ad6b8e102c7edfc9ee37]\].
 
 ##### 4. Application to set aside
 
@@ -17502,20 +17502,20 @@ This Part applies to an application to set aside a financial restrictions decisi
 
 (2) The originating summons must be supported by an affidavit setting out—
 
-- (a) the details of the financial restrictions decision or sanctions decision[^key-f4efacf5db08a4d9b8d390a43cc67622];
+- (a) the details of the financial restrictions decision or sanctions decision[^c-f4efacf5db08a4d9b8d390a43cc67622];
 - (b) details of how the plaintiff is affected by the financial restrictions decision or sanctions decision; and
 - (c) the grounds on which the plaintiff seeks to set aside the decision.
 
 (3) The plaintiff must lodge with the originating summons—
 
 - (a) a copy of —
-  - (i) the written notice of the relevant financial restrictions decision or sanctions decision made by the appropriate Minister[^key-998229bb64d1392ae6ddb0e6aa45ccb8]; or
+  - (i) the written notice of the relevant financial restrictions decision or sanctions decision made by the appropriate Minister[^c-998229bb64d1392ae6ddb0e6aa45ccb8]; or
   - (ii) where relevant, any direction, order or licence made under Schedule 7 to the \[[^f00864] 2008\] Act or any freezing order made under Part 2 of the Anti-Terrorism, Crime and Security Act 2001[^f00865]; and
 - (b) any evidence, including witness statements, on which the plaintiff relies at that stage.
 
 ##### 5. Title and form of proceedings
 
-(1)[^key-08c8d5774e3bb51d20e8d46fae9b2e82] An originating summons under this Part of this Order shall be entitled in the matter of a decision by, as the case may be—
+(1)[^c-08c8d5774e3bb51d20e8d46fae9b2e82] An originating summons under this Part of this Order shall be entitled in the matter of a decision by, as the case may be—
 
 - (a) the Treasury under section 63 of the Counter-Terrorism Act 2008 (application to set aside financial restrictions decision),
 - (b) the Treasury under section 27 of the Terrorist Asset-Freezing etc. Act 2010 (review of other decisions by the court),
@@ -17540,14 +17540,14 @@ and all subsequent documents in the matter shall be so entitled.
 
 The Court will—
 
-- (a) serve on the appropriate Minister[^key-decd676fc4a9b489f22506c1eb2de2d0] and any special advocate (if one has been appointed)—
+- (a) serve on the appropriate Minister[^c-decd676fc4a9b489f22506c1eb2de2d0] and any special advocate (if one has been appointed)—
   - (i) the originating summons; and
   - (ii) the documents specified in rule 4(3); and
 - (b) send to all parties and any special advocate a notice of the directions hearing date (where such date is not endorsed on the originating summons).
 
 ##### 8. Memorandum of appearance
 
-Where a special advocate has been appointed, the appropriate Minister[^key-834599a72fd6243422f1c2f740dceec6] must serve on that special advocate a copy of the memorandum of appearance lodged under Order 12, rule 9.
+Where a special advocate has been appointed, the appropriate Minister[^c-834599a72fd6243422f1c2f740dceec6] must serve on that special advocate a copy of the memorandum of appearance lodged under Order 12, rule 9.
 
 ##### 9. Directions Hearing
 
@@ -17556,7 +17556,7 @@ At the directions hearing, the Court may give such directions as to the further 
 - (a) for the holding of a further hearing to determine the application;
 - (b) fixing a date, time and place for the further hearing at which the parties, their legal representatives (if any) and any special advocate can be present; and
 - (c) as to the order in which, and the time within which, the following are to be lodged and served—
-  - (i) any response to the application to be lodged and served by the appropriate Minister[^key-76b90fda9b959261d93591769a64baaf] under rule 10(1), (2) and (4);
+  - (i) any response to the application to be lodged and served by the appropriate Minister[^c-76b90fda9b959261d93591769a64baaf] under rule 10(1), (2) and (4);
   - (ii) any application to be made under rule 10(5);
   - (iii) any information to be lodged and served by the appropriate Minister pursuant to an order under rule 10(7);
   - (iv) any evidence to be lodged and served by the plaintiff under rule 11(1);
@@ -17564,12 +17564,12 @@ At the directions hearing, the Court may give such directions as to the further 
   - (vi) any application by the appropriate Minister under rule 10(3), (8) or 11(3); and
   - (vii) any further evidence, including witness statements, written submissions or skeleton arguments, to be lodged and served by the parties and any special advocate.
 
-##### 10. Response by the appropriate Minister[^key-589377e9f7e2f961d5edae38ffc27d49]
+##### 10. Response by the appropriate Minister[^c-589377e9f7e2f961d5edae38ffc27d49]
 
-(1) Where the appropriate Minister intends to oppose the application to set aside the financial restrictions decision or sanctions decision[^key-5d46b3cf4d9893ddb49f0ba36f653a37], the appropriate Minister[^key-d6aa487c7975ff57baae223738234ab5] must lodge with the Court —
+(1) Where the appropriate Minister intends to oppose the application to set aside the financial restrictions decision or sanctions decision[^c-5d46b3cf4d9893ddb49f0ba36f653a37], the appropriate Minister[^c-d6aa487c7975ff57baae223738234ab5] must lodge with the Court —
 
 - (a) the grounds for contesting the application; and
-- (b) any relevant evidence of which the appropriate Minister is[^key-09c0b04946db2828e76fa97a00f2eaf6] aware at that stage.
+- (b) any relevant evidence of which the appropriate Minister is[^c-09c0b04946db2828e76fa97a00f2eaf6] aware at that stage.
 
 (2) Unless the appropriate Minister objects to the grounds and evidence in paragraph (1) being disclosed to the plaintiff and the plaintiff’s legal representative, the appropriate Minister must serve a copy of the grounds and evidence on the plaintiff at the same time as lodging the grounds.
 
@@ -17577,7 +17577,7 @@ At the directions hearing, the Court may give such directions as to the further 
 
 (4) Where a special advocate has been appointed, the appropriate Minister must serve on that special advocate a copy of the grounds and evidence lodged under paragraph (1).
 
-(5) The plaintiff and any special advocate may apply to the Court for an order directing the Treasury to lodge and serve further information about the appropriate Minister’s[^key-946527665a3173316f3832a1de20997a] grounds lodged under paragraph (1)(a).
+(5) The plaintiff and any special advocate may apply to the Court for an order directing the Treasury to lodge and serve further information about the appropriate Minister’s[^c-946527665a3173316f3832a1de20997a] grounds lodged under paragraph (1)(a).
 
 (6) The application under paragraph (5) must set out—
 
@@ -17593,14 +17593,14 @@ At the directions hearing, the Court may give such directions as to the further 
 
 ##### 11. Lodging and service of evidence
 
-(1) Where the plaintiff wishes to rely on evidence in support of the application to set aside the financial restrictions decision or sanctions decision[^key-c9618bc2072abb05addd6d0f4448f2c1] and—
+(1) Where the plaintiff wishes to rely on evidence in support of the application to set aside the financial restrictions decision or sanctions decision[^c-c9618bc2072abb05addd6d0f4448f2c1] and—
 
 - (a) such evidence was not lodged with the Court with the originating summons; or
 - (b) such evidence was lodged with the Court with the originating summons but the plaintiff wishes to rely on further evidence,
 
 the plaintiff must lodge and serve that evidence, including any witness statement, on the appropriate Minister and any special advocate.
 
-(2) Where the plaintiff serves evidence in support of the application, the appropriate Minister[^key-742b3e7b52760ede1f403cf11be870f8] must lodge and serve, subject to paragraph (3), any further evidence, including any witness statement, on the plaintiff and any special advocate.
+(2) Where the plaintiff serves evidence in support of the application, the appropriate Minister[^c-742b3e7b52760ede1f403cf11be870f8] must lodge and serve, subject to paragraph (3), any further evidence, including any witness statement, on the plaintiff and any special advocate.
 
 (3) Where the appropriate Minister seeks to withhold disclosure of any closed material from the plaintiff and the plaintiff’s legal representative, the appropriate Minister must make an application in accordance with rule 30.
 
@@ -17643,7 +17643,7 @@ the plaintiff must lodge and serve that evidence, including any witness statemen
 
 ###### 14. Application and Modification of Order 59
 
-(1) Order 59 applies to appeals to the Court of Appeal against orders of the High Court in financial restrictions proceedings and sanctions proceedings[^key-f155130f3c854ee0c5cde39541e57848], and to appeals to the Court of Appeal in relation to designations under the 2010 Act, subject to—
+(1) Order 59 applies to appeals to the Court of Appeal against orders of the High Court in financial restrictions proceedings and sanctions proceedings[^c-f155130f3c854ee0c5cde39541e57848], and to appeals to the Court of Appeal in relation to designations under the 2010 Act, subject to—
 
 - (a) rule 2 of this Order;
 - (b) the rules in Part IV of this Order; and
@@ -17653,7 +17653,7 @@ the plaintiff must lodge and serve that evidence, including any witness statemen
 
 ###### 15. Leave to appeal
 
-(1) A party who wishes to appeal against an order of the High Court in financial restrictions proceedings or sanctions proceedings[^key-cac9a38ee7e6278615fad293cd7f747e] requires leave to appeal to the Court of Appeal.
+(1) A party who wishes to appeal against an order of the High Court in financial restrictions proceedings or sanctions proceedings[^c-cac9a38ee7e6278615fad293cd7f747e] requires leave to appeal to the Court of Appeal.
 
 (2) An application for leave to appeal may be made—
 
@@ -17783,7 +17783,7 @@ Unless the Court orders otherwise, the Court will serve any notice of the date, 
 (1) All \[[^f00869] proceedings to which Parts II, III or this Part of this Order apply\] must be determined at a hearing except where—
 
 - (a) the plaintiff withdraws the claim or application;
-- (b) the appropriate Minister[^key-927e0839b69c949b09ddec65a0e814ef] consents to the claim or application being allowed;
+- (b) the appropriate Minister[^c-927e0839b69c949b09ddec65a0e814ef] consents to the claim or application being allowed;
 - (c) the appellant withdraws the appeal against a decision of \[[^f00868] the appropriate Minister or\] the High Court;
 - (d) the respondent to the appeal consents to the appeal being allowed; or
 - (e) the parties agree to a determination without a hearing.
@@ -17853,9 +17853,9 @@ with whom it is necessary for administrative purposes for the special advocate t
 - (a) that party may only communicate with the special advocate through a legal representative in writing; and
 - (b) the special advocate must not reply to the communication other than in accordance with directions given by the Court, except that the special advocate may without such directions send a written acknowledgment of receipt to the specially represented party’s legal representative.
 
-##### 26. Consideration of the appropriate Minister’s objection[^key-57f3a7ff01fdf117b33d838ddad8fe34]
+##### 26. Consideration of the appropriate Minister’s objection[^c-57f3a7ff01fdf117b33d838ddad8fe34]
 
-(1) Where the appropriate Minister[^key-f82fe0004269b4d0e063ee9f1c23bbfc] objects under rule 25(5)(b) to a proposed communication by the special advocate the Court will fix a hearing for the appropriate Minister and the special advocate to make oral representations, unless—
+(1) Where the appropriate Minister[^c-f82fe0004269b4d0e063ee9f1c23bbfc] objects under rule 25(5)(b) to a proposed communication by the special advocate the Court will fix a hearing for the appropriate Minister and the special advocate to make oral representations, unless—
 
 - (a) the special advocate gives notice to the Court that the special advocate does not challenge the objection;
 - (b) the Court—
@@ -17870,7 +17870,7 @@ with whom it is necessary for administrative purposes for the special advocate t
 
 (3) Where the Court fixes a hearing under paragraph (1)—
 
-- (a) the special advocate may lodge with the Court and serve on the appropriate Minister a reply to the appropriate Minister’s[^key-e843c5f3fb69fac344537f46866b0631] objection;
+- (a) the special advocate may lodge with the Court and serve on the appropriate Minister a reply to the appropriate Minister’s[^c-e843c5f3fb69fac344537f46866b0631] objection;
 - (b) the appropriate Minister may lodge with the Court and serve on the special advocate a response to the special advocate’s reply; and
 - (c) the appropriate Minister and the special advocate must lodge with the Court at least 7 days before the hearing a schedule identifying the issues which cannot be agreed between them and which must—
   - (i) give brief reasons for their contentions on each issue in dispute; and
@@ -17927,14 +17927,14 @@ with whom it is necessary for administrative purposes for the special advocate t
 
 ##### 29. Redacted material
 
-Where the appropriate Minister[^key-a5a8cbd2137aa3f70f25fd933b2a1993] serves on another party any evidence (including a witness statement) or material which has been redacted on grounds other than those of legal professional privilege, the appropriate Minister must—
+Where the appropriate Minister[^c-a5a8cbd2137aa3f70f25fd933b2a1993] serves on another party any evidence (including a witness statement) or material which has been redacted on grounds other than those of legal professional privilege, the appropriate Minister must—
 
 - (a) notify the party that the evidence or material has been redacted and on what grounds it has been redacted;
 - (b) lodge the evidence or material with the Court in an unredacted form together with an explanation of the redaction.
 
 ##### 30. Application to withhold closed material
 
-(1) The appropriate Minister[^key-2bd5c0b4620bd5dd36ddef875d7d855c] —
+(1) The appropriate Minister[^c-2bd5c0b4620bd5dd36ddef875d7d855c] —
 
 - (a) must apply to the Court for leave to withhold closed material from another party and that party’s legal representative in accordance with this rule; and
 - (b) may not rely on closed material at a hearing unless a special advocate has been appointed and attends the hearing to represent the interests of that party.
@@ -17955,9 +17955,9 @@ Where the appropriate Minister[^key-a5a8cbd2137aa3f70f25fd933b2a1993] serves on 
 - (a) the agreement of the special advocate; or
 - (b) the leave of the Court.
 
-##### 31. Consideration of the appropriate Minister’s application[^key-3156473d02737d320cea498c6d9bbe43]
+##### 31. Consideration of the appropriate Minister’s application[^c-3156473d02737d320cea498c6d9bbe43]
 
-(1) Where the appropriate Minister[^key-f974860b7df8c9ecdec0c853d2836618] applies in accordance with rule 30 for leave to withhold closed material the Court will fix a hearing for the appropriate Minister and the special advocate to make oral representations, unless—
+(1) Where the appropriate Minister[^c-f974860b7df8c9ecdec0c853d2836618] applies in accordance with rule 30 for leave to withhold closed material the Court will fix a hearing for the appropriate Minister and the special advocate to make oral representations, unless—
 
 - (a) the special advocate gives notice to the Court that the special advocate does not challenge the application;
 - (b) the Court—
@@ -18008,7 +18008,7 @@ Where the appropriate Minister[^key-a5a8cbd2137aa3f70f25fd933b2a1993] serves on 
 
 (1) When the Court gives judgment in any \[[^f00877] proceedings to which Parts II, III or this Part of this Order apply\], it may withhold all or some of its reasons if and to the extent that it is not possible to give reasons without disclosing information contrary to the public interest.
 
-(2) Where the judgment of the Court does not include the full reasons for its decision, the Court will serve on the appropriate Minister[^key-440ed19db657aa24b09a083d5254a933] and the special advocate a separate written judgment including those reasons.
+(2) Where the judgment of the Court does not include the full reasons for its decision, the Court will serve on the appropriate Minister[^c-440ed19db657aa24b09a083d5254a933] and the special advocate a separate written judgment including those reasons.
 
 (3) Where the Court serves a separate written judgment under paragraph (2), the special advocate may apply to the Court to amend that judgment and the judgment under paragraph (1) on the grounds that the separate written judgment under paragraph (2) contains material not in the judgment under paragraph (1) the disclosure of which would not be contrary to the public interest.
 
@@ -18016,7 +18016,7 @@ Where the appropriate Minister[^key-a5a8cbd2137aa3f70f25fd933b2a1993] serves on 
 
 (5) The Court will give the special advocate and the appropriate Minister an opportunity to lodge written submissions and may determine the application with or without a hearing.
 
-##### 34. Application by appropriate Minister for reconsideration of order, direction or judgment[^key-509024ca3fda6f2528391498f59cd351]
+##### 34. Application by appropriate Minister for reconsideration of order, direction or judgment[^c-509024ca3fda6f2528391498f59cd351]
 
 (1) This rule applies where the Court proposes, in any \[(a) proceedings to which Parts II, III or this Part of this Order apply\], to serve on a party other than the appropriate Minister—
 
@@ -19012,19 +19012,19 @@ In this Order—
 In this Order—
 
 - “**the Act**” means the Competition Act 1998[^f00909];
-- “[^key-71a6a0960ca3ad1c589a6666a1f0c00f]**the CMA”** means the Competition and Markets Authority;
-- [^key-89126ada6d3e97ea4d74df11ab1e4bec]...
+- “[^c-71a6a0960ca3ad1c589a6666a1f0c00f]**the CMA”** means the Competition and Markets Authority;
+- [^c-89126ada6d3e97ea4d74df11ab1e4bec]...
 - “**Respondent**” means the occupier of the premises to which the warrant relates; and
 
 expressions used have the same meaning as in the Act.
 
 #### 2. Exercise of jurisdiction
 
-The jurisdiction of the court under section 28 [^key-dce40f30f0815daa459649b1ecbea9b1]... of the Act may be exercised by a judge in chambers.
+The jurisdiction of the court under section 28 [^c-dce40f30f0815daa459649b1ecbea9b1]... of the Act may be exercised by a judge in chambers.
 
 #### 3. Application for a warrant
 
-(1) An application for a warrant under section 28 [^key-4fcd72af22db63a7a487c64fa2815a96]... of the Act may be made ex-parte by originating summons.
+(1) An application for a warrant under section 28 [^c-4fcd72af22db63a7a487c64fa2815a96]... of the Act may be made ex-parte by originating summons.
 
 (2) An originating summons under paragraph (1) shall be entitled in the matter of the respondent, naming him, and in the matter of the Act.
 
@@ -19033,11 +19033,11 @@ The jurisdiction of the court under section 28 [^key-dce40f30f0815daa459649b1ecb
 - (a) that a warrant is sought and the section of the Act under which it is sought;
 - (b) the address or other identification of the premises to which the warrant relates and the connection between the Respondent and those premises;
 - (c) the details of any other possible occupants of those premises;
-- (d) the subject matter and purpose of the investigation to which the warrant relates, including the nature of the suspected infringement of the Chapter I or II prohibitions [^key-c967e89afb2837d07a6c4c86fd9c0e06]...;
+- (d) the subject matter and purpose of the investigation to which the warrant relates, including the nature of the suspected infringement of the Chapter I or II prohibitions [^c-c967e89afb2837d07a6c4c86fd9c0e06]...;
 - (e) the anticipated date for the execution of the warrant;
-- (f) the name of the officer(s) of the CMA[^key-69d6ca67b14f974a112365e107334966] who will execute the warrant and whose name will appear on the warrant;
-- (g)[^key-abdb265fb56957584e9539be53ac7100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h) the position held by the named officer(s) of the CMA[^key-574f1809e665f6302bd5388fdaf4ddc5]; and
+- (f) the name of the officer(s) of the CMA[^c-69d6ca67b14f974a112365e107334966] who will execute the warrant and whose name will appear on the warrant;
+- (g)[^c-abdb265fb56957584e9539be53ac7100] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h) the position held by the named officer(s) of the CMA[^c-574f1809e665f6302bd5388fdaf4ddc5]; and
 
 shall be accompanied by a draft of the warrant being sought.
 
@@ -19049,9 +19049,9 @@ shall be accompanied by a draft of the warrant being sought.
 
 (7) A warrant issued under section 28 of the Act shall be in Form No. 69.
 
-(8)[^key-d45fba4322f3ad71e3ee2a24ff88fe93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-d45fba4322f3ad71e3ee2a24ff88fe93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-cc54134c982cf73d5bcc3522a96cceb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-cc54134c982cf73d5bcc3522a96cceb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### \[ ORDER 123 — PROCEEDS OF CRIME ACT 2002 – CIVIL RECOVERY[^f00910]
 
@@ -20854,7 +20854,7 @@ ON APPLICATION FOR RESEALING UNDER COLONIAL PROBATES ACTS 1892 AND 1927
 
 [image: see source](https://www.legislation.gov.uk/nisr/1980/346/images/nisr_19800346_en_129.gif)
 
-[^key-bedbb2a525b05cc840f3d43165db95f6]No. 3
+[^c-bedbb2a525b05cc840f3d43165db95f6]No. 3
 
 Certificate of delivery of Inland Revenue affidavit
 
@@ -21046,7 +21046,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 ## Annotations
 
-[^key-09d9b3ae40dfabd0d3927d049c75610a]: Modification: Sch. 1 Order 58 rule 1(2)-(4) applied (with modifications) (11.7.2025) by [The Compensation Orders (Disqualified Directors) Proceedings (No. 2) Rules (Northern Ireland) 2025 (S.R. 2025/121)](https://www.legislation.gov.uk/nisr/2025/121), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1), [11](https://www.legislation.gov.uk/nisr/2025/121/article/11)
+[^c-09d9b3ae40dfabd0d3927d049c75610a]: Modification: Sch. 1 Order 58 rule 1(2)-(4) applied (with modifications) (11.7.2025) by [The Compensation Orders (Disqualified Directors) Proceedings (No. 2) Rules (Northern Ireland) 2025 (S.R. 2025/121)](https://www.legislation.gov.uk/nisr/2025/121), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2025/121/article/1/1), [11](https://www.legislation.gov.uk/nisr/2025/121/article/11)
 
 [^M_F_24a46547-8821-4d24-b0c2-111160023853]: Textual amendment: Sch. 1 heading substituted (1.10.2009) by virtue of [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 3(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/3/3); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -21080,7 +21080,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00017]: Footnote: Definition of “cause book” inserted by [S.R. 1995 No. 462](https://www.legislation.gov.uk/nisr/1995/462) with effect from 9.1.96
 
-[^key-54cfeb279b49c7eb7883b9e4103b87c0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 1 rule 3(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(2)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/2/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-54cfeb279b49c7eb7883b9e4103b87c0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 1 rule 3(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(2)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/2/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00019]: Footnote: Definition of “FAX” inserted by [S.R. 1992 No. 399](https://www.legislation.gov.uk/nisr/1992/399) with effect from 1.11.92
 
@@ -21104,7 +21104,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00029]: Footnote: Paragraphs (h) and (i) inserted by [S.R. 2000 No. 393](https://www.legislation.gov.uk/nisr/2000/393) with effect from 8.1.01
 
-[^key-2680d32f6b6dcbd7aa4ec73f8f83b73a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 1 rule 10(h) inserted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(2)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/2/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2680d32f6b6dcbd7aa4ec73f8f83b73a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 1 rule 10(h) inserted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(2)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/2/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00030]: Footnote: [1973 c. 41](https://www.legislation.gov.uk/ukpga/1973/41)
 
@@ -21134,7 +21134,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00043]: Footnote: Words inserted by [2010 c.38](https://www.legislation.gov.uk/ukpga/2010/38) with effect from 17.12.10
 
-[^key-8ba9d7896ccbcbe4b0ed3bb8a00f9540]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 1 rule 11(lb) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [4](https://www.legislation.gov.uk/nisr/2019/8/rule/4)
+[^c-8ba9d7896ccbcbe4b0ed3bb8a00f9540]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 1 rule 11(lb) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [4](https://www.legislation.gov.uk/nisr/2019/8/rule/4)
 
 [^f00044]: Footnote: Words inserted by [S.R. 2009 No. 345](https://www.legislation.gov.uk/nisr/2009/345) with effect from 09.11.09
 
@@ -21194,7 +21194,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00072]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
-[^key-3142474105511172236fa9e39cdbdd74]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 1 rule 12(b)(xv) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(2)(c)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/2/c) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3142474105511172236fa9e39cdbdd74]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 1 rule 12(b)(xv) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(2)(c)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/2/c) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00073]: Footnote: Sub-paragraph inserted by [S.R. 2008 No. 401](https://www.legislation.gov.uk/nisr/2008/401) with effect from 03.11.08
 
@@ -21246,21 +21246,21 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00097]: Footnote: Words inserted by [S.R. 2013 No. 202](https://www.legislation.gov.uk/nisr/2013/202) with effect from 05.09.13
 
-[^key-34a9feb8db69dcb48db8bf4d5e466e43]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(a)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/a/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34a9feb8db69dcb48db8bf4d5e466e43]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(a)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/a/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ea4309a4b047a0fb8600ff99aa47437]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(1)(aa) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rule 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/a/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ea4309a4b047a0fb8600ff99aa47437]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(1)(aa) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rule 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/a/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24196085f5c542abe0478638f7ebcbfc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(1)(b) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/a/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24196085f5c542abe0478638f7ebcbfc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(1)(b) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(a)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/a/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fd6a5c9e4c849b41440f55dfb5522680]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(2)(a) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/b/i), (with rules 4-8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd6a5c9e4c849b41440f55dfb5522680]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(2)(a) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/b/i), (with rules 4-8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7a63cd4d5ff9ff612e987be1f3e4d2f0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(2)(b) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/b/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a63cd4d5ff9ff612e987be1f3e4d2f0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 4(2)(b) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/b/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00099]: Footnote: Paragraph (1) substituted by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
-[^key-c448013741ceb5300a501a7670f7958d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 6(1)(b) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/c/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c448013741ceb5300a501a7670f7958d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 6(1)(b) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(c)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/c/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0cb5a68dcf551540b889d80b1c9a95f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 6(7) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/c/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0cb5a68dcf551540b889d80b1c9a95f]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 6 rule 6(7) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(3)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/3/c/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00102]: Footnote: Words substituted by [S.R. 2009 No. 345](https://www.legislation.gov.uk/nisr/2009/345) with effect from 09.11.2009
 
@@ -21284,9 +21284,9 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00112]: Footnote: Paragraph (3) added by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
-[^key-7c3ca53cfb52a4fd46e22b098960b71e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 10 rule 3(3) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(4)(a)](https://www.legislation.gov.uk/nisr/2019/237/article/3/4/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c3ca53cfb52a4fd46e22b098960b71e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 10 rule 3(3) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(4)(a)](https://www.legislation.gov.uk/nisr/2019/237/article/3/4/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9ae9dc3b9e8becfab3cfcc7c6e12e9e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 10 rule 3(4) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(4)(b)](https://www.legislation.gov.uk/nisr/2019/237/article/3/4/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-d9ae9dc3b9e8becfab3cfcc7c6e12e9e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 10 rule 3(4) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(4)(b)](https://www.legislation.gov.uk/nisr/2019/237/article/3/4/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
 [^f00114]: Footnote: Words substituted by [S.R. 1982 No. 217](https://www.legislation.gov.uk/nisr/1982/217) with effect from 1.9.82
 
@@ -21298,7 +21298,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00118]: Footnote: [1975 c. 15](https://www.legislation.gov.uk/ukpga/1975/15)
 
-[^key-254aa7431f7310578741ffd786afe111]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(1)(p) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-254aa7431f7310578741ffd786afe111]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(1)(p) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00119]: Footnote: Sub-paragraphs (q) and (r) added by [S.R. 1992 No. 399](https://www.legislation.gov.uk/nisr/1992/399) with effect from 1.11.92
 
@@ -21306,27 +21306,27 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00121]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22)
 
-[^key-8e6531245e4142030d20742398d2bce7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e6531245e4142030d20742398d2bce7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00123]: Footnote: [1982 c. 27](https://www.legislation.gov.uk/ukpga/1982/27)
 
-[^key-bff1c1f79178b8ad12aa2c556f473622]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(a)(i) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(c)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/c) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bff1c1f79178b8ad12aa2c556f473622]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(a)(i) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(c)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/c) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e4c53d57f6788631483e0eb887610a1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(a)(ii) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(d)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/d/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e4c53d57f6788631483e0eb887610a1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(a)(ii) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(d)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/d/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0868f2d7855c1968a8a1fb53d3b8e562]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(a)(ii) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/d/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0868f2d7855c1968a8a1fb53d3b8e562]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(a)(ii) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/d/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-705059e7c3ea121edfda9f8703fc05db]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(a)(ii) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rule 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(d)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/d/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-705059e7c3ea121edfda9f8703fc05db]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(a)(ii) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rule 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(d)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/d/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af61523c3a38fa5de734598fcd97946a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(aa) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(e)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/e) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af61523c3a38fa5de734598fcd97946a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(aa) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(e)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/e) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a2f05a650e4937419ee2bc6f55cf652]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(ab) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(5)(f)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/f) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-4a2f05a650e4937419ee2bc6f55cf652]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2)(ab) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(5)(f)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/f) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-e9d5ffcf7ec0547bdd8c986a63d2b40e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2A) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(g)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/g) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e9d5ffcf7ec0547bdd8c986a63d2b40e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(2A) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(g)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/g) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7266697698cef727612a269d48e3949]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(3) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(h)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/h) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7266697698cef727612a269d48e3949]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 1(3) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(h)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/h) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9289155846cf7d9ea1dc264e3283cdc8]: Textual amendment: Order 11 rule 1(4) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9289155846cf7d9ea1dc264e3283cdc8]: Textual amendment: Order 11 rule 1(4) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(5)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/5/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00128]: Footnote: Rule 2 deleted by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
@@ -21336,7 +21336,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00131]: Footnote: Words deleted by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
-[^key-7d41d7b344dd50c17224ae6c7862aacf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 6(8) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/8/2)
+[^c-7d41d7b344dd50c17224ae6c7862aacf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 11 rule 6(8) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/8/2)
 
 [^f00132]: Footnote: New rule 7 substituted by [S.R. 1982 No. 217](https://www.legislation.gov.uk/nisr/1982/217) with effect from 1.9.82
 
@@ -21358,17 +21358,17 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00141]: Footnote: Words inserted by [S.R. 2013 No. 202](https://www.legislation.gov.uk/nisr/2013/202) with effect from 05.09.13
 
-[^key-5318766427f46fa4a39d18f8a83fb544]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 12 rule 3(3)(a) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(6)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/6/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5318766427f46fa4a39d18f8a83fb544]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 12 rule 3(3)(a) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(6)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/6/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00142]: Footnote: Words omitted by [S.R. 2013 No. 202](https://www.legislation.gov.uk/nisr/2013/202) with effect from 05.09.13
 
-[^key-5b2437c2ff3158d9ea57e7052f89d6d7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 12 rule 3(3)(b) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(6)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/6/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b2437c2ff3158d9ea57e7052f89d6d7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 12 rule 3(3)(b) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(6)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/6/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-35528a5fbf13bcb30974e3b07db67e40]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 12 rule 3(3)(c) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(6)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/6/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35528a5fbf13bcb30974e3b07db67e40]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 12 rule 3(3)(c) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(6)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/6/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00144]: Footnote: Words omitted by [S.R. 2013 No. 202](https://www.legislation.gov.uk/nisr/2013/202) with effect from 05.09.13
 
-[^key-b2ca44720ae57e267897652754eb286f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 12 rule 3(3) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(6)(c)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/6/c) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2ca44720ae57e267897652754eb286f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 12 rule 3(3) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(6)(c)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/6/c) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00146]: Footnote: Words substituted by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.5.84
 
@@ -21382,21 +21382,21 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00151]: Footnote: Rule 7A inserted by [S.R. 1982 No. 217](https://www.legislation.gov.uk/nisr/1982/217) with effect from 1.9.82
 
-[^key-a324351e41e2a2de73140101f611eabf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7A(2)(c) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/8/3)
+[^c-a324351e41e2a2de73140101f611eabf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7A(2)(c) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 8(3)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/8/3)
 
 [^f00152]: Footnote: Rule 7B inserted by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
-[^key-d8ee655e7556a4993982350f75dfc71a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7B(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(7)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/7/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8ee655e7556a4993982350f75dfc71a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7B(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(7)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/7/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e361bd05285d9be940e7be69a181af50]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7B(2)(b) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(7)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/7/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e361bd05285d9be940e7be69a181af50]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7B(2)(b) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(7)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/7/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56392da7d5348d21f520f88ab267b3af]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7B(2)(c) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(7)(c)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/7/c) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56392da7d5348d21f520f88ab267b3af]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7B(2)(c) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(7)(c)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/7/c) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9cc12d93ba80351e0b019fe3893686f8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7B(3) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), a3(7)(d) (with rules 4-8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9cc12d93ba80351e0b019fe3893686f8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7B(3) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), a3(7)(d) (with rules 4-8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00155]: Footnote: Rule 7C inserted by [S.R. 2013 No. 175](https://www.legislation.gov.uk/nisr/2013/175) with effect from 27.06.13
 
-[^key-acc372ba726a18520cbb8f2d449d96f1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7D inserted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(7)(e)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/7/e) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-acc372ba726a18520cbb8f2d449d96f1]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 13 rule 7D inserted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(7)(e)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/7/e) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00156]: Footnote: Rule 1(2)(b) revoked by [S.R. 1999 No. 333](https://www.legislation.gov.uk/nisr/1999/333) with effect from 6.9.99
 
@@ -21522,9 +21522,9 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00217]: Footnote: Paragraph inserted by [S.R. 2015 No. 235](https://www.legislation.gov.uk/nisr/2015/235) with effect from 19.5.15
 
-[^key-f96e99f4641b53cda3efe4be3f95b31d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 23 rule 1(3) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(8)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/8/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f96e99f4641b53cda3efe4be3f95b31d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 23 rule 1(3) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(8)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/8/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0ae4bda9eb952cf8cd0ab8e3cbb0d7b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 23 rule 1(4) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(8)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/8/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0ae4bda9eb952cf8cd0ab8e3cbb0d7b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 23 rule 1(4) substituted (31.12.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(8)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/8/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00218]: Footnote: New Order 24 substituted by [S.R. 1991 No. 330](https://www.legislation.gov.uk/nisr/1991/330) with effect from 2.9.91
 
@@ -21574,7 +21574,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00241]: Footnote: [1970 c. 31](https://www.legislation.gov.uk/ukpga/1970/31)
 
-[^key-e845e88022f8901339fbce6635863c25]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 29 rule 10A omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(9)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/9) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e845e88022f8901339fbce6635863c25]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 29 rule 10A omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(9)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/9) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00244]: Footnote: Order 29 Pts. II and III (rules 11-23) substituted by new Pt. II (rules 11-20) by [S.R. 1982 No. 217](https://www.legislation.gov.uk/nisr/1982/217) with effect from 1.9.82
 
@@ -21776,7 +21776,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00343]: Footnote: New rule 4 substituted by [S.R. 1989 No. 289](https://www.legislation.gov.uk/nisr/1989/289) with effect from 1.9.89
 
-[^key-a712b148f535a3e7738c077e3c7247d0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 53 rule 4(1) omitted (8.1.2018) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2017 (S.R. 2017/213)](https://www.legislation.gov.uk/nisr/2017/213), [rules 1(2)](https://www.legislation.gov.uk/nisr/2017/213/rule/1/2), [2](https://www.legislation.gov.uk/nisr/2017/213/rule/2)
+[^c-a712b148f535a3e7738c077e3c7247d0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 53 rule 4(1) omitted (8.1.2018) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2017 (S.R. 2017/213)](https://www.legislation.gov.uk/nisr/2017/213), [rules 1(2)](https://www.legislation.gov.uk/nisr/2017/213/rule/1/2), [2](https://www.legislation.gov.uk/nisr/2017/213/rule/2)
 
 [^f00345]: Footnote: New paragraph (2) substituted by [S.R. 1993 No. 143](https://www.legislation.gov.uk/nisr/1993/143) with effect from 19.04.93
 
@@ -21830,7 +21830,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00370]: Footnote: New paragraph inserted by [S.R. 2015 No. 235](https://www.legislation.gov.uk/nisr/2015/235) with effect from 19.5.15
 
-[^key-0762d0ec29508f07f50b754e1c96c736]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 58 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/rule/1/2), [3(a)](https://www.legislation.gov.uk/nisr/2021/129/rule/3/a)
+[^c-0762d0ec29508f07f50b754e1c96c736]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 58 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/rule/1/2), [3(a)](https://www.legislation.gov.uk/nisr/2021/129/rule/3/a)
 
 [^f00371]: Footnote: Words deleted by [S.R. 1983 No. 5](https://www.legislation.gov.uk/nisr/1983/5) with effect from 28.2.83
 
@@ -21890,7 +21890,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00399]: Footnote: Rule 3 substituted by [S.R. 2015 No. 368](https://www.legislation.gov.uk/nisr/2015/368) with effect from 7.12.15
 
-[^key-0038ccf6a501406c16cce995ae17a2da]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 61B inserted (2.12.2024) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2024 (S.R. 2024/177)](https://www.legislation.gov.uk/nisr/2024/177), [rules 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/177/rule/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2024/177/schedule)
+[^c-0038ccf6a501406c16cce995ae17a2da]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 61B inserted (2.12.2024) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2024 (S.R. 2024/177)](https://www.legislation.gov.uk/nisr/2024/177), [rules 1](https://www.legislation.gov.uk/nisr/2024/177/rule/1), [2(2)](https://www.legislation.gov.uk/nisr/2024/177/rule/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2024/177/schedule)
 
 [^f00400]: Footnote: New Order 62 substituted by [S.R. 1988 No. 70](https://www.legislation.gov.uk/nisr/1988/70) with effect from 11.4.88
 
@@ -21960,23 +21960,23 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00431]: Footnote: Paragraph (2) deleted by [S.R. 1982 No. 217](https://www.legislation.gov.uk/nisr/1982/217) with effect from 1.9.82
 
-[^key-8286e3d7a355b6471f21244571a024ef]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 66 rule 5(5) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(10)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/10) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8286e3d7a355b6471f21244571a024ef]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 66 rule 5(5) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(10)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/10) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00433]: Footnote: [S.R. & O. (N.I.) 1965 No. 217](https://www.legislation.gov.uk/nisro/1965/217)
 
 [^f00434]: Footnote: New Order 69 substituted by [S.R. 1982 No. 217](https://www.legislation.gov.uk/nisr/1982/217) with effect from 1.9.82
 
-[^key-bd3647e082a4d7e2d8d9d26af362f955]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 69 rule 2(a) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 8(4)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/8/4)
+[^c-bd3647e082a4d7e2d8d9d26af362f955]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 69 rule 2(a) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 8(4)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/8/4)
 
 [^f00435]: Footnote: [1975 c. 34](https://www.legislation.gov.uk/ukpga/1975/34)
 
-[^key-85d110142af0b8dfcd64da2cb6ddb741]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 70 rule 1(1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 8(5)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/8/5)
+[^c-85d110142af0b8dfcd64da2cb6ddb741]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 70 rule 1(1) substituted (30.9.2020) by [The Transfer of Functions (Secretary of State for Foreign, Commonwealth and Development Affairs) Order 2020 (S.I. 2020/942)](https://www.legislation.gov.uk/uksi/2020/942), [art. 1(2)](https://www.legislation.gov.uk/uksi/2020/942/article/1/2), [Sch. para. 8(5)](https://www.legislation.gov.uk/uksi/2020/942/schedule/paragraph/8/5)
 
 [^f00436]: Footnote: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37)
 
 [^f00437]: Footnote: Heading substituted by [S.R. 2011 No. 62](https://www.legislation.gov.uk/nisr/2011/62) with effect from 25.03.11
 
-[^key-f9345fde5e1308b878880e9509c93ba0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 heading omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(a)](https://www.legislation.gov.uk/nisr/2019/237/article/3/11/a), (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9345fde5e1308b878880e9509c93ba0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 heading omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(a)](https://www.legislation.gov.uk/nisr/2019/237/article/3/11/a), (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00438]: Footnote: Title amended by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
@@ -21990,77 +21990,77 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00443]: Footnote: Rule 12 deleted by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
-[^key-84035f0d248f63d196fd42e4d959886e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 Pt. 2 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84035f0d248f63d196fd42e4d959886e]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 Pt. 2 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00444]: Footnote: Title amended by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
 [^f00446]: Footnote: New Part III added by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
-[^key-3cd3ed9d554ebd317c277789704c8239]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(c)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/c/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3cd3ed9d554ebd317c277789704c8239]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(c)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/c/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-53515610d743a62a59d71f21d6d6a3fd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/c/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53515610d743a62a59d71f21d6d6a3fd]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/c/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2139df00f17bcbeaa4c1c9cc080bde84]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(c)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/c/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-2139df00f17bcbeaa4c1c9cc080bde84]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(c)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/c/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-6567bde8e2826e0e80c08c425a79b056]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/1/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-6567bde8e2826e0e80c08c425a79b056]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/1/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-1909cf80e3987c8722fe982a5e9dc914]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/1/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-1909cf80e3987c8722fe982a5e9dc914]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 22(1) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/1/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-f95949f05bc8776426d28e1da038635c]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 24 inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(d)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/d) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-f95949f05bc8776426d28e1da038635c]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 24 inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(d)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/d) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-5b438a28fd08355b980206e26152295a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 24 inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-5b438a28fd08355b980206e26152295a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 24 inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-f687792570ac331212a9909a16a91e7a]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(e)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/e/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-f687792570ac331212a9909a16a91e7a]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(e)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/e/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-b72bb1b23fa4018fab3f81cfbbd6afb4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-b72bb1b23fa4018fab3f81cfbbd6afb4]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-4d59c9290e48450b56504a3fe8d9d4bd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1)(a)(v) and word inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(e)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/e/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-4d59c9290e48450b56504a3fe8d9d4bd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1)(a)(v) and word inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(e)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/e/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-1e9b9e887ac5e5d182fdb3c72c80d6fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1)(a)(v) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/3/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-1e9b9e887ac5e5d182fdb3c72c80d6fb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1)(a)(v) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(3)(a)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/3/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-b98fea8cf7bf4bc580b97567d3365316]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1)(a)(vi) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/3/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-b98fea8cf7bf4bc580b97567d3365316]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1)(a)(vi) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(3)(b)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/3/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-7ffc21f76da1e8d69217c4f3493b0dc8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1A)(1B) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(3)(c)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/3/c) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-7ffc21f76da1e8d69217c4f3493b0dc8]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 25(1A)(1B) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(3)(c)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/3/c) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-7beb3262e0be9b8650634c1bcb8884eb]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 26 inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(f)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/f) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-7beb3262e0be9b8650634c1bcb8884eb]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 26 inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(f)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/f) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-12842a0084d2154fab9615370854ce4b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 26 inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-12842a0084d2154fab9615370854ce4b]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 26 inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-5372e6a8da613624678424a5ba436ce9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 27(1) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/4) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-5372e6a8da613624678424a5ba436ce9]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 27(1) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(4)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/4) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-1ecdeeb124a6f8523a47aa3c4217655a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 27(2) substituted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(g)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/g/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-1ecdeeb124a6f8523a47aa3c4217655a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 27(2) substituted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(g)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/g/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-339918676bb8cf4af93e3d9664c2cca8]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 28 heading inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(h)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/h/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-339918676bb8cf4af93e3d9664c2cca8]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 28 heading inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(h)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/h/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-3f342a682e7624219ee8f9a770e0b2a3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 28 heading inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/5) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-3f342a682e7624219ee8f9a770e0b2a3]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 28 heading inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(5)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/5) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-7fb476df3570fc7f3e29153fdd330b0f]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 28 inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(h)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/h/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-7fb476df3570fc7f3e29153fdd330b0f]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 28 inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(h)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/h/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-b280ad705c54d04633124d8ca3ebbe6f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 28 inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-b280ad705c54d04633124d8ca3ebbe6f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 28 inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/2) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-01344c7193052aeb29c966d1c3f097dc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 29(3)(c) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(6)(a)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/6/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-01344c7193052aeb29c966d1c3f097dc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 29(3)(c) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(6)(a)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/6/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-fc08d406c1ba23efd45d8eb7577cd322]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 29(3)(d) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(6)(b)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/6/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-fc08d406c1ba23efd45d8eb7577cd322]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 29(3)(d) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(6)(b)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/6/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-87f6a0f0893fa47c8a9057ecdc31dc52]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 30 substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/7) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-87f6a0f0893fa47c8a9057ecdc31dc52]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 30 substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/7) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-9a3f05b632b370dfe3df9a794ce18a70]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 31(1) substituted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(j)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/j/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-9a3f05b632b370dfe3df9a794ce18a70]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 31(1) substituted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(j)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/j/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-4bf9dc41259b783fb4420d710f0f65ef]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 31(1) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(8)(a)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/8/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-4bf9dc41259b783fb4420d710f0f65ef]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 31(1) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(8)(a)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/8/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-5b1d8b0e87741a6a387b1172795aa580]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 31(2) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(j)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/j/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-5b1d8b0e87741a6a387b1172795aa580]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 31(2) inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(11)(j)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/j/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-156445926b0a9a80c8dd22af6d53c569]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 31(2) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(8)(b)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/8/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-156445926b0a9a80c8dd22af6d53c569]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 31(2) substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(8)(b)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/8/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-6823dbecf6e37ff9cacc5be1e8256034]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 32(3) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(10)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/10) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-6823dbecf6e37ff9cacc5be1e8256034]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 32(3) inserted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(10)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/10) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-be183d8a3f6221b4439baf74445da74b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 32A substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(9)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/9) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
+[^c-be183d8a3f6221b4439baf74445da74b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 rule 32A substituted (1.7.2025) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2025 (S.R. 2025/4)](https://www.legislation.gov.uk/nisr/2025/4), [rules 1(1)](https://www.legislation.gov.uk/nisr/2025/4/rule/1/1), [4(9)](https://www.legislation.gov.uk/nisr/2025/4/rule/4/9) (with [rule 2](https://www.legislation.gov.uk/nisr/2025/4/rule/2))
 
-[^key-6f217a8246788e555d2536bbd6f127cc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 Pt. 3A omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(l)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/l) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f217a8246788e555d2536bbd6f127cc]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 Pt. 3A omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(l)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/l) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b46126ba64c74e29167f5f9c73c213d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 Pt. 4 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(m)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/m) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b46126ba64c74e29167f5f9c73c213d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 Pt. 4 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(m)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/m) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e048695d17acb3bfa1f77c5e00fd8ef]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 Pt. 5 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(n)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/n) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e048695d17acb3bfa1f77c5e00fd8ef]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 71 Pt. 5 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(11)(n)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/11/n) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00455]: Footnote: Order inserted by [S.R. 1992 No. 313](https://www.legislation.gov.uk/nisr/1992/313) with effect from 01.09.92
 
@@ -22074,7 +22074,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00460]: Footnote: Order 73 substituted by [S.R. 1997 No. 70](https://www.legislation.gov.uk/nisr/1997/70) with effect from 17.03.97
 
-[^key-0024aa1c153c61f5ef633872c3e2a4d0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 73 rule 7(2)(c)(i) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(12)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/12) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0024aa1c153c61f5ef633872c3e2a4d0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 73 rule 7(2)(c)(i) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(12)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/12) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00461]: Footnote: Order 74 revoked by [S.R. 1996 No. 321](https://www.legislation.gov.uk/nisr/1996/321) with effect from 4.11.96
 
@@ -22194,11 +22194,11 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00519]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
 
-[^key-43abe7a3c9eabeb587b93691bb025a51]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 80 rule 16(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(13)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/13/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43abe7a3c9eabeb587b93691bb025a51]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 80 rule 16(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(13)(a)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/13/a) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00520]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-718c765e13d235835851a325a8a48bd6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 80 rule 16(2) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(13)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/13/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-718c765e13d235835851a325a8a48bd6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 80 rule 16(2) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(13)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/13/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00521]: Footnote: Words inserted by [S.R. 1984 No. 110](https://www.legislation.gov.uk/nisr/1984/110) with effect from 1.1.87
 
@@ -22434,7 +22434,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00630]: Footnote: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48)
 
-[^key-dc15e8c0b81d2868d902be5bdde9531b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 93 rule 1(2)(q) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(14)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/14) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc15e8c0b81d2868d902be5bdde9531b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 93 rule 1(2)(q) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(14)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/14) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00631]: Footnote: Sub-paragraphs added by [S.R. 2007 No. 189](https://www.legislation.gov.uk/nisr/2007/189) with effect from 16.04.07
 
@@ -22442,7 +22442,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00634]: Footnote: Sub-paragraph inserted by [S.R. 2008 No. 22](https://www.legislation.gov.uk/nisr/2008/22) with effect from 25.02.08
 
-[^key-f26e620a16c55d27c4b639f9abade68b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 93 rule 1(2)(t) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(14)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/14) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f26e620a16c55d27c4b639f9abade68b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 93 rule 1(2)(t) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(14)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/14) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00637]: Footnote: Sub-paragraph inserted by [S.R. 2011 No. 229](https://www.legislation.gov.uk/nisr/2011/229) with effect from 25.07.11
 
@@ -22584,49 +22584,49 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00688]: Footnote: Words substituted by [S.R. 2007 No. 189](https://www.legislation.gov.uk/nisr/2007/189) with effect from 16.04.07
 
-[^key-f7c6dc040b791fb194ff5c1c673a8786]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/rule/1/2), [3(b)](https://www.legislation.gov.uk/nisr/2021/129/rule/3/b)
+[^c-f7c6dc040b791fb194ff5c1c673a8786]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/rule/1/2), [3(b)](https://www.legislation.gov.uk/nisr/2021/129/rule/3/b)
 
-[^key-8007c9178828ed2b25ee8a69008183ce]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 1(1) inserted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(1)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/1/a)
+[^c-8007c9178828ed2b25ee8a69008183ce]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 1(1) inserted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(1)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/1/a)
 
-[^key-63a87641747e43abca200cf58a7d5ae7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 1(1) inserted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/1/b)
+[^c-63a87641747e43abca200cf58a7d5ae7]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 1(1) inserted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(1)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/1/b)
 
-[^key-2140209e41f98c69ad4da518507c2e5c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 1A inserted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2021/129/article/4/2)
+[^c-2140209e41f98c69ad4da518507c2e5c]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 1A inserted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2021/129/article/4/2)
 
-[^key-7d6624a5586d4f64c7102502e45c67c2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 2(1) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2021/129/article/4/3)
+[^c-7d6624a5586d4f64c7102502e45c67c2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 2(1) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(3)](https://www.legislation.gov.uk/nisr/2021/129/article/4/3)
 
-[^key-f9282717106066bcf0d0d9fb92f0b575]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 2(2) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(15)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/15) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9282717106066bcf0d0d9fb92f0b575]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 2(2) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(15)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/15) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13ea00e703d126d468748158ee427493]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 3(1) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/4/a)
+[^c-13ea00e703d126d468748158ee427493]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 3(1) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/4/a)
 
-[^key-a3835e43fcb35b0ed79d9265c9d02029]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 3(6) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/4/a)
+[^c-a3835e43fcb35b0ed79d9265c9d02029]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 3(6) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(4)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/4/a)
 
-[^key-7bb52ebefcececf100ce97f6b02b48e7]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 3(7) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/4/b)
+[^c-7bb52ebefcececf100ce97f6b02b48e7]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 3(7) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(4)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/4/b)
 
-[^key-27ecb237f24e37a4490d401aa38b386f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 3(8) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(4)(c)](https://www.legislation.gov.uk/nisr/2021/129/article/4/4/c)
+[^c-27ecb237f24e37a4490d401aa38b386f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 3(8) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(4)(c)](https://www.legislation.gov.uk/nisr/2021/129/article/4/4/c)
 
-[^key-c487f5e1c06536acb64cb746ed6f66db]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 4(2) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/a)
+[^c-c487f5e1c06536acb64cb746ed6f66db]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 4(2) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/a)
 
 [^f00691]: Footnote: Words substituted by [S.R. 1999 No. 19](https://www.legislation.gov.uk/nisr/1999/19) with effect from 15.2.99
 
-[^key-6d93489e5fc7ff5b043df21f9a2d8f49]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 5 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/b)
+[^c-6d93489e5fc7ff5b043df21f9a2d8f49]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 5 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/b)
 
-[^key-c065f8f45b7b9c22e0cb99cca14349ad]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 5(1) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(6)](https://www.legislation.gov.uk/nisr/2021/129/article/4/6)
+[^c-c065f8f45b7b9c22e0cb99cca14349ad]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 5(1) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(6)](https://www.legislation.gov.uk/nisr/2021/129/article/4/6)
 
-[^key-d6c9c69bee4358e81afe592dce688526]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 6 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(c)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/c)
+[^c-d6c9c69bee4358e81afe592dce688526]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 6 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(c)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/c)
 
-[^key-f93653c44e0b1d80a637ddbefed0a213]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 6 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(7)](https://www.legislation.gov.uk/nisr/2021/129/article/4/7)
+[^c-f93653c44e0b1d80a637ddbefed0a213]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 6 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(7)](https://www.legislation.gov.uk/nisr/2021/129/article/4/7)
 
-[^key-e6f610376c09f8f17c9859ae091f0673]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 7 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(8)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/8/a)
+[^c-e6f610376c09f8f17c9859ae091f0673]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 7 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(8)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/8/a)
 
-[^key-d1406768f57081e9435b471ee1f6b228]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 7 omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(8)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/8/b)
+[^c-d1406768f57081e9435b471ee1f6b228]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 7 omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(8)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/8/b)
 
 [^f00692]: Footnote: [1837 c. 26](https://www.legislation.gov.uk/nisr/1837/26)
 
-[^key-e7de0cbbb4550c28070becf58fc4de3f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 14 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(9)](https://www.legislation.gov.uk/nisr/2021/129/article/4/9)
+[^c-e7de0cbbb4550c28070becf58fc4de3f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 14 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(9)](https://www.legislation.gov.uk/nisr/2021/129/article/4/9)
 
 [^f00694]: Footnote: [1865 c. 72](https://www.legislation.gov.uk/ukpga/1865/72)
 
-[^key-d0f214cc4a3259e3e56320e102f04c6d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 19 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(10)](https://www.legislation.gov.uk/nisr/2021/129/article/4/10)
+[^c-d0f214cc4a3259e3e56320e102f04c6d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 19 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(10)](https://www.legislation.gov.uk/nisr/2021/129/article/4/10)
 
 [^f00695]: Footnote: Words inserted by [S.R. 2007 No. 189](https://www.legislation.gov.uk/nisr/2007/189) with effect from 16.04.07
 
@@ -22638,37 +22638,37 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00699]: Footnote: [1886 c. 27](https://www.legislation.gov.uk/ukpga/1886/27)
 
-[^key-dc0b9b1aa3d131f43009cb6c1f2f9294]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 30(1) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(d)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/d)
+[^c-dc0b9b1aa3d131f43009cb6c1f2f9294]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 30(1) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(d)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/d)
 
-[^key-8f53da84e2bfd43e0c53a6c68e14e1b2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 31 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(e)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/e)
+[^c-8f53da84e2bfd43e0c53a6c68e14e1b2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 31 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(e)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/e)
 
 [^f00700]: Footnote: [S.I. 1976 No. 582 (N.I. 12)](https://www.legislation.gov.uk/nisi/1976/582)
 
-[^key-efdacd26d31975e0edf21dcd773e8ba0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 39(2)(a) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(11)](https://www.legislation.gov.uk/nisr/2021/129/article/4/11)
+[^c-efdacd26d31975e0edf21dcd773e8ba0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 39(2)(a) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(11)](https://www.legislation.gov.uk/nisr/2021/129/article/4/11)
 
-[^key-58207694c7c77f2a02b330b7e59e53eb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 39(2)(b) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(f)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/f)
+[^c-58207694c7c77f2a02b330b7e59e53eb]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 39(2)(b) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(5)(f)](https://www.legislation.gov.uk/nisr/2021/129/article/4/5/f)
 
 [^f00701]: Footnote: [1971 c. 31 (N.I.)](https://www.legislation.gov.uk/apni/1971/31)
 
 [^f00702]: Footnote: [1892 c. 6](https://www.legislation.gov.uk/ukpga/1892/6)
 
-[^key-4c208f4fb28f6891caa027c02293780a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 42 heading substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(12)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/12/a)
+[^c-4c208f4fb28f6891caa027c02293780a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 42 heading substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(12)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/12/a)
 
-[^key-b954f88ff0153f5c6e86701d8d86df80]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 42 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(12)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/12/b)
+[^c-b954f88ff0153f5c6e86701d8d86df80]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 42 substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(12)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/12/b)
 
 [^f00703]: Footnote: [1881 c. 12](https://www.legislation.gov.uk/ukpga/1881/12)
 
-[^key-16e5f78280e4b4ac3ad377e9e66978f8]: Textual amendment: Sch. 1 Order 97 rule 43(1) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/a)
+[^c-16e5f78280e4b4ac3ad377e9e66978f8]: Textual amendment: Sch. 1 Order 97 rule 43(1) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(a)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/a)
 
-[^key-351b2acd729791e2322a456fa1aa0410]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(4) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/b)
+[^c-351b2acd729791e2322a456fa1aa0410]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(4) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(b)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/b)
 
-[^key-2756ac18d43c199ce12e5f12f303e07b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(4A) inserted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(c)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/c)
+[^c-2756ac18d43c199ce12e5f12f303e07b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(4A) inserted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(c)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/c)
 
-[^key-d5d52b3f38a2d19f7b448ceb8c93f56d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(5)(a) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(d)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/d)
+[^c-d5d52b3f38a2d19f7b448ceb8c93f56d]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(5)(a) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(d)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/d)
 
-[^key-c0e6f43fe6715e0915dd2d555b980fb1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(5)(b) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(e)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/e)
+[^c-c0e6f43fe6715e0915dd2d555b980fb1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(5)(b) substituted (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(e)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/e)
 
-[^key-9979ac8795cce5d50f6f8043a3562397]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(6) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(f)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/f)
+[^c-9979ac8795cce5d50f6f8043a3562397]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 97 rule 43(6) omitted (17.10.2021) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(13)(f)](https://www.legislation.gov.uk/nisr/2021/129/article/4/13/f)
 
 [^f00704]: Footnote: [1955 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1955/24)
 
@@ -22862,7 +22862,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00799]: Footnote: Paragraph (3) of role 6 inserted by [S.R. 1982 No. 217](https://www.legislation.gov.uk/nisr/1982/217) with effect from 1.9.82
 
-[^key-1869f32b48227b0228503b64d8600581]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 114 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(16)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/16) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1869f32b48227b0228503b64d8600581]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 114 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(16)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/16) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00804]: Footnote: New Order inserted by [S.R. 1989 No. 287](https://www.legislation.gov.uk/nisr/1989/287) with effect from 1.9.89
 
@@ -22966,13 +22966,13 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00854]: Footnote: Order 116B inserted by [S.R. 2008 No. 479](https://www.legislation.gov.uk/nisr/2008/479) with effect from 04.12.08
 
-[^key-68fe39db9cd1e424d038991ed13a12ce]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B heading substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(2)](https://www.legislation.gov.uk/nisr/2019/8/article/5/2)
+[^c-68fe39db9cd1e424d038991ed13a12ce]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B heading substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(2)](https://www.legislation.gov.uk/nisr/2019/8/article/5/2)
 
 [^f00856]: Footnote: Rule 1(1) substituted by [S.R. 2009 No. 264](https://www.legislation.gov.uk/nisr/2009/264) with effect from 1.10.09
 
-[^key-d27c0a7c812f9b2b1f1fa400011b7e9a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(1)(aa) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/3/a)
+[^c-d27c0a7c812f9b2b1f1fa400011b7e9a]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(1)(aa) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(3)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/3/a)
 
-[^key-5ea9cffde5acbe2ac783bbfe980e2960]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(1)(b) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(3)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/3/b)
+[^c-5ea9cffde5acbe2ac783bbfe980e2960]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(1)(b) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(3)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/3/b)
 
 [^f00857]: Footnote: Word omitted by [S.R. 2010 No. 430](https://www.legislation.gov.uk/nisr/2010/430) with effect from 24.12.10
 
@@ -22984,71 +22984,71 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00855]: Footnote: Words inserted by [2010 c. 38](https://www.legislation.gov.uk/ukpga/2010/38) with effect from 17.12.10
 
-[^key-70b765a1f8abebd1eeb21ad6a6cca231]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(ab)(ac) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/a)
+[^c-70b765a1f8abebd1eeb21ad6a6cca231]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(ab)(ac) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/a)
 
-[^key-67e493ace5684a2b3376105f2a94dadb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(ba) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/b)
+[^c-67e493ace5684a2b3376105f2a94dadb]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(ba) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/b)
 
-[^key-020fffbceefd96e8cdbb9ecf6f9c96c2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(cza) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(c)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/c)
+[^c-020fffbceefd96e8cdbb9ecf6f9c96c2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(cza) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(c)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/c)
 
 [^f00861]: Footnote: Paragraph (ca) inserted by [S.R. 2010 No. 430](https://www.legislation.gov.uk/nisr/2010/430) with effect from 24.12.10
 
-[^key-862a16f9fdd56c4a28695e57005e5b22]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(d) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(d)(i)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/d/i)
+[^c-862a16f9fdd56c4a28695e57005e5b22]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(d) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(d)(i)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/d/i)
 
-[^key-29693049ac7847bc2f9400d03c64bb11]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(d) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/d/ii)
+[^c-29693049ac7847bc2f9400d03c64bb11]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(d) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(d)(ii)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/d/ii)
 
-[^key-7b6536490b5be62c76ad7c73adf55541]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(e) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(e)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/e)
+[^c-7b6536490b5be62c76ad7c73adf55541]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(e) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(e)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/e)
 
-[^key-eef345253322b1414c818a576ddd8836]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(g) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(e)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/e)
+[^c-eef345253322b1414c818a576ddd8836]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(g) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(e)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/e)
 
 [^f00862]: Footnote: Words inserted by [2010 c. 38](https://www.legislation.gov.uk/ukpga/2010/38) with effect from 17.12.10
 
-[^key-c690d48c2c985400ac0b1cbeadbb5aef]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(f)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/f)
+[^c-c690d48c2c985400ac0b1cbeadbb5aef]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(f)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/f)
 
-[^key-8b72144d7c60da81d9caba4183a029df]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(i) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(e)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/e)
+[^c-8b72144d7c60da81d9caba4183a029df]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 1(2)(i) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(4)(e)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/4/e)
 
-[^key-cb9bdb8154066125ef1ca654cdfe6533]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B Pt. 2 heading substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(5)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/5)
+[^c-cb9bdb8154066125ef1ca654cdfe6533]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B Pt. 2 heading substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(5)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/5)
 
 [^f00863]: Footnote: Words inserted by [2010 No. 430](https://www.legislation.gov.uk/nisr/2010/430) with effect from 24.12.10
 
-[^key-8166746084d2ad6b8e102c7edfc9ee37]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 3 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(6)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/6)
+[^c-8166746084d2ad6b8e102c7edfc9ee37]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 3 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(6)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/6)
 
-[^key-f4efacf5db08a4d9b8d390a43cc67622]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 4 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/7/a)
+[^c-f4efacf5db08a4d9b8d390a43cc67622]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 4 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(7)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/7/a)
 
-[^key-998229bb64d1392ae6ddb0e6aa45ccb8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 4 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/7/b)
+[^c-998229bb64d1392ae6ddb0e6aa45ccb8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 4 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(7)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/7/b)
 
 [^f00864]: Footnote: Year inserted by [2010 c. 38](https://www.legislation.gov.uk/ukpga/2010/38) with effect from 17.12.10
 
 [^f00865]: Footnote: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24)
 
-[^key-08c8d5774e3bb51d20e8d46fae9b2e82]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 5(1) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(8)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/8)
+[^c-08c8d5774e3bb51d20e8d46fae9b2e82]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 5(1) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(8)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/8)
 
-[^key-decd676fc4a9b489f22506c1eb2de2d0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 7 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(9)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/9)
+[^c-decd676fc4a9b489f22506c1eb2de2d0]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 7 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(9)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/9)
 
-[^key-834599a72fd6243422f1c2f740dceec6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 8 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(9)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/9)
+[^c-834599a72fd6243422f1c2f740dceec6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 8 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(9)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/9)
 
-[^key-76b90fda9b959261d93591769a64baaf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 9 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(9)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/9)
+[^c-76b90fda9b959261d93591769a64baaf]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 9 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(9)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/9)
 
-[^key-589377e9f7e2f961d5edae38ffc27d49]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/a)
+[^c-589377e9f7e2f961d5edae38ffc27d49]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/a)
 
-[^key-5d46b3cf4d9893ddb49f0ba36f653a37]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/b)
+[^c-5d46b3cf4d9893ddb49f0ba36f653a37]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/b)
 
-[^key-d6aa487c7975ff57baae223738234ab5]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10(1) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(c)(i)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/c/i)
+[^c-d6aa487c7975ff57baae223738234ab5]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10(1) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(c)(i)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/c/i)
 
-[^key-09c0b04946db2828e76fa97a00f2eaf6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10(1) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/c/ii)
+[^c-09c0b04946db2828e76fa97a00f2eaf6]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10(1) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/c/ii)
 
-[^key-946527665a3173316f3832a1de20997a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10(5) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(d)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/d)
+[^c-946527665a3173316f3832a1de20997a]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 10(5) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(10)(d)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/10/d)
 
-[^key-c9618bc2072abb05addd6d0f4448f2c1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 11 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(11)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/11/a)
+[^c-c9618bc2072abb05addd6d0f4448f2c1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 11 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(11)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/11/a)
 
-[^key-742b3e7b52760ede1f403cf11be870f8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 11 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(11)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/11/b)
+[^c-742b3e7b52760ede1f403cf11be870f8]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 11 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(11)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/11/b)
 
 [^f00866]: Footnote: Part III substituted by [S.R. 2010 No. 430](https://www.legislation.gov.uk/nisr/2010/430) with effect from 24.12.10
 
 [^f00867]: Footnote: Word substituted by [2012 No. 273](https://www.legislation.gov.uk/nisr/2012/273) with effect from 01.08.12
 
-[^key-f155130f3c854ee0c5cde39541e57848]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 14 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(12)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/12)
+[^c-f155130f3c854ee0c5cde39541e57848]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 14 inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(12)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/12)
 
-[^key-cac9a38ee7e6278615fad293cd7f747e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 15(1) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(13)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/13)
+[^c-cac9a38ee7e6278615fad293cd7f747e]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 15(1) inserted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(13)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/13)
 
 [^f00868]: Footnote: Words inserted by [S.R. 2010 No. 430](https://www.legislation.gov.uk/nisr/2010/430) with effect from 24.12.10
 
@@ -23056,15 +23056,15 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00870]: Footnote: Words substituted by [S.R. 2010 No. 430](https://www.legislation.gov.uk/nisr/2010/430) with effect from 24.12.10
 
-[^key-927e0839b69c949b09ddec65a0e814ef]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rules 22-25 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(14)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/14)
+[^c-927e0839b69c949b09ddec65a0e814ef]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rules 22-25 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(14)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/14)
 
 [^f00871]: Footnote: Words substituted by [S.R. 2009 No. 264](https://www.legislation.gov.uk/nisr/2009/264) with effect from 01.10.09
 
-[^key-57f3a7ff01fdf117b33d838ddad8fe34]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 26 heading substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(15)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/15/a)
+[^c-57f3a7ff01fdf117b33d838ddad8fe34]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 26 heading substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(15)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/15/a)
 
-[^key-f82fe0004269b4d0e063ee9f1c23bbfc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 26 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(15)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/15/b)
+[^c-f82fe0004269b4d0e063ee9f1c23bbfc]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 26 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(15)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/15/b)
 
-[^key-e843c5f3fb69fac344537f46866b0631]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 26(3)(a) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(15)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/15/a)
+[^c-e843c5f3fb69fac344537f46866b0631]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 26(3)(a) substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(15)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/15/a)
 
 [^f00872]: Footnote: Words substituted by [S.R. 2009 No. 264](https://www.legislation.gov.uk/nisr/2009/264) with effect from 01.10.09
 
@@ -23076,19 +23076,19 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00876]: Footnote: Paragraph (1A) inserted by [S.R. 2010 No. 430](https://www.legislation.gov.uk/nisr/2010/430) with effect from 24.12.10
 
-[^key-a5a8cbd2137aa3f70f25fd933b2a1993]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 29 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(16)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/16)
+[^c-a5a8cbd2137aa3f70f25fd933b2a1993]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 29 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(16)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/16)
 
-[^key-2bd5c0b4620bd5dd36ddef875d7d855c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 30 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(17)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/17)
+[^c-2bd5c0b4620bd5dd36ddef875d7d855c]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 30 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(17)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/17)
 
-[^key-3156473d02737d320cea498c6d9bbe43]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 31 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(18)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/18/b)
+[^c-3156473d02737d320cea498c6d9bbe43]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 31 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(18)(b)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/18/b)
 
-[^key-f974860b7df8c9ecdec0c853d2836618]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 31 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(18)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/18/a)
+[^c-f974860b7df8c9ecdec0c853d2836618]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 31 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(18)(a)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/18/a)
 
 [^f00877]: Footnote: Words substituted by [S.R. 2009 No. 264](https://www.legislation.gov.uk/nisr/2009/264) with effect from 01.10.09
 
-[^key-440ed19db657aa24b09a083d5254a933]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 33 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(19)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/19)
+[^c-440ed19db657aa24b09a083d5254a933]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 33 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(19)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/19)
 
-[^key-509024ca3fda6f2528391498f59cd351]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 34 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(20)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/20)
+[^c-509024ca3fda6f2528391498f59cd351]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 116B rule 34 substituted (1.3.2019) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) (EU Exit) 2019 (S.R. 2019/8)](https://www.legislation.gov.uk/nisr/2019/8), [rules 1](https://www.legislation.gov.uk/nisr/2019/8/rule/1), [5(20)](https://www.legislation.gov.uk/nisr/2019/8/rule/5/20)
 
 [^f00878]: Footnote: Words substituted by [S.R. 2009 No. 264](https://www.legislation.gov.uk/nisr/2009/264) with effect from 01.10.09
 
@@ -23154,25 +23154,25 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f00909]: Footnote: [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41)
 
-[^key-71a6a0960ca3ad1c589a6666a1f0c00f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 1 inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(17)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/a/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-71a6a0960ca3ad1c589a6666a1f0c00f]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 1 inserted (13.1.2020) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(17)(a)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/a/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-89126ada6d3e97ea4d74df11ab1e4bec]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 1 omitted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(17)(a)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/a/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-89126ada6d3e97ea4d74df11ab1e4bec]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 1 omitted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(17)(a)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/a/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-dce40f30f0815daa459649b1ecbea9b1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 2 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dce40f30f0815daa459649b1ecbea9b1]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 2 omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(b)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/b) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4fcd72af22db63a7a487c64fa2815a96]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4fcd72af22db63a7a487c64fa2815a96]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(1) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(i)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/i) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c967e89afb2837d07a6c4c86fd9c0e06]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(3)(d) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c967e89afb2837d07a6c4c86fd9c0e06]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(3)(d) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(ii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/ii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-69d6ca67b14f974a112365e107334966]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(3)(f) substituted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(17)(c)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-69d6ca67b14f974a112365e107334966]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(3)(f) substituted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(17)(c)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-abdb265fb56957584e9539be53ac7100]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(3)(g) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(iv)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/iv) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-abdb265fb56957584e9539be53ac7100]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(3)(g) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(iv)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/iv) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-574f1809e665f6302bd5388fdaf4ddc5]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(3)(h) substituted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(17)(c)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
+[^c-574f1809e665f6302bd5388fdaf4ddc5]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(3)(h) substituted (13.1.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(3)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/3), [3(17)(c)(iii)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/iii) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4))
 
-[^key-d45fba4322f3ad71e3ee2a24ff88fe93]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(8) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(v)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/v) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d45fba4322f3ad71e3ee2a24ff88fe93]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(8) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(v)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/v) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cc54134c982cf73d5bcc3522a96cceb6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(9) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(v)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/v) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc54134c982cf73d5bcc3522a96cceb6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Order 122 rule 3(9) omitted (31.12.2020) by virtue of [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2019 (S.R. 2019/237)](https://www.legislation.gov.uk/nisr/2019/237), [rules 1(2)](https://www.legislation.gov.uk/nisr/2019/237/rule/1/2), [3(17)(c)(v)](https://www.legislation.gov.uk/nisr/2019/237/rule/3/17/c/v) (with [rules 4-8](https://www.legislation.gov.uk/nisr/2019/237/rule/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00910]: Footnote: Order 123 inserted by [S.R. 2003 No. 54](https://www.legislation.gov.uk/nisr/2003/54) with effect from 28.02.03
 
@@ -23314,7 +23314,7 @@ Application, in Respect of Removal of, or for Return of, Child
 
 [^f01008]: Footnote: Forms No. 76, 77, 78, 79, 80, 81 and 82 inserted by [S.R. 2009 No. 345](https://www.legislation.gov.uk/nisr/2009/345) with effect from 09.11.09
 
-[^key-bedbb2a525b05cc840f3d43165db95f6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Appendix C Form 3: the words “HM Revenue and Customs” are substituted for “Inland Revenue” in each place they occur (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(14)](https://www.legislation.gov.uk/nisr/2021/129/article/4/14)
+[^c-bedbb2a525b05cc840f3d43165db95f6]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/1980/346/schedule/1) Appendix C Form 3: the words “HM Revenue and Customs” are substituted for “Inland Revenue” in each place they occur (17.10.2021) by [The Rules of the Court of Judicature (Northern Ireland) (Amendment) 2021 (S.R. 2021/129)](https://www.legislation.gov.uk/nisr/2021/129), [rules 1(2)](https://www.legislation.gov.uk/nisr/2021/129/article/1/2), [4(14)](https://www.legislation.gov.uk/nisr/2021/129/article/4/14)
 
 [^f01009]: Footnote: Appendix D inserted by [S.R. 1986 No. 184](https://www.legislation.gov.uk/nisr/1986/184) with effect from 31.07.86
 

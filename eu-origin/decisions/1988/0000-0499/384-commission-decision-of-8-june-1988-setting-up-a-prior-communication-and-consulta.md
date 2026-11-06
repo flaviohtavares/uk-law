@@ -35,20 +35,20 @@ setting up a prior communication and consultation procedure on migration policie
 
 (88/384/EEC) (revoked)
 
-[^key-dec33ec39755b443f83a82f9ca112f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dec33ec39755b443f83a82f9ca112f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-dec33ec39755b443f83a82f9ca112f65] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dec33ec39755b443f83a82f9ca112f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dec33ec39755b443f83a82f9ca112f65]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dec33ec39755b443f83a82f9ca112f65]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dec33ec39755b443f83a82f9ca112f65]: Textual amendment: Decision revoked (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2019/745/schedule/1/part/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

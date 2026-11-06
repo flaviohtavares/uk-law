@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Application of Firearms Act 1968 to the police: special constables and volunteers[^c22718721][^key-b855b996d547589816e22d191b9df299]
+## 39. Application of Firearms Act 1968 to the police: special constables and volunteers[^c22718721][^c-b855b996d547589816e22d191b9df299]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c22718721]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/3/section/39) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-b855b996d547589816e22d191b9df299]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/3/section/39) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/e) (as amended by S.I 2017/1162, reg. 2)
+[^c-b855b996d547589816e22d191b9df299]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2017/3/section/39) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/e) (as amended by S.I 2017/1162, reg. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Abstraction and discharge[^key-ecc73a779d126aeae65c3254d24e88e1]
+## 41. Abstraction and discharge[^c-ecc73a779d126aeae65c3254d24e88e1]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ecc73a779d126aeae65c3254d24e88e1]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2013/5/section/41) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-ecc73a779d126aeae65c3254d24e88e1]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2013/5/section/41) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

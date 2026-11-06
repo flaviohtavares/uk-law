@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Amendments of the Audit Commission Act 1998[^key-107788dbbd5569452c1dd8b55e58373d]
+## SCHEDULE 8 — Amendments of the Audit Commission Act 1998[^c-107788dbbd5569452c1dd8b55e58373d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,52 +24,52 @@ summary: ''
 
 Section 133.
 
-### Preliminary[^key-107788dbbd5569452c1dd8b55e58373d]
+### Preliminary[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**1.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transmission and consideration of section 8 reports[^key-107788dbbd5569452c1dd8b55e58373d]
+### Transmission and consideration of section 8 reports[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**2.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Consideration of reports or recommendations[^key-107788dbbd5569452c1dd8b55e58373d]
+### Consideration of reports or recommendations[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**3.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Publicity for meetings[^key-107788dbbd5569452c1dd8b55e58373d]
+### Publicity for meetings[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**5.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Declaration that item of account is unlawful[^key-107788dbbd5569452c1dd8b55e58373d]
+### Declaration that item of account is unlawful[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**6.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Recovery of amount not accounted for et ceteralaetc.[^key-107788dbbd5569452c1dd8b55e58373d]
+### Recovery of amount not accounted for et ceteralaetc.[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**7.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Documents relating to police authorities Et ceteralaetc[^key-107788dbbd5569452c1dd8b55e58373d]
+### Documents relating to police authorities Et ceteralaetc[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**8.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Studies of Authority by Commission at request of Mayor[^key-107788dbbd5569452c1dd8b55e58373d]
+### Studies of Authority by Commission at request of Mayor[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**9.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Studies of functional bodies by Commission at request of Mayor[^key-107788dbbd5569452c1dd8b55e58373d]
+### Studies of functional bodies by Commission at request of Mayor[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**10.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Restriction on disclosure of information: exceptions[^key-107788dbbd5569452c1dd8b55e58373d]
+### Restriction on disclosure of information: exceptions[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**11.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Interpretation and exercise of Authority functions by Mayor et ceteralaetc.[^key-107788dbbd5569452c1dd8b55e58373d]
+### Interpretation and exercise of Authority functions by Mayor et ceteralaetc.[^c-107788dbbd5569452c1dd8b55e58373d]
 
-**12.**[^key-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-107788dbbd5569452c1dd8b55e58373d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-107788dbbd5569452c1dd8b55e58373d]: Textual amendment: Sch. 8 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-107788dbbd5569452c1dd8b55e58373d]: Textual amendment: Sch. 8 repealed (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2014/2/schedule/1/part/2); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/841/article/3/a) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2015/841/article/5), [Sch.](https://www.legislation.gov.uk/uksi/2015/841/schedule)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

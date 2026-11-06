@@ -55,18 +55,18 @@ These Regulations may be cited as the Business Protection from Misleading Market
 (1) In these Regulations—
 
 - “**advertising**” means any form of representation which is made in connection with a trade, business, craft or profession in order to promote the supply or transfer of a product and “**advertiser**” shall be construed accordingly;
-- “[^key-0bcdb20389fb8ae4ae91e540c2d39fcd]CMA” means the Competition and Markets Authority;
+- “[^c-0bcdb20389fb8ae4ae91e540c2d39fcd]CMA” means the Competition and Markets Authority;
 - “**code owner**” means a trader or a body responsible for—
   - (a) the formulation and revision of a code of conduct; or
   - (b) monitoring compliance with the code by those who have undertaken to be bound by it;
 - “**comparative advertising**” means advertising which in any way, either explicitly or by implication, identifies a competitor or a product offered by a competitor;
 - “**court**”, in relation to England and Wales and Northern Ireland, means a county court or the High Court, and, in relation to Scotland, the sheriff or the Court of Session;
-- “[^key-2782b4ab747d174503f8a5b94396ec3e]DETINI” means the Department of Enterprise, Trade and Investment in Northern Ireland;
-- “enforcement authority” means the[^key-616972921d52898159df72cd4791b256] CMA[^key-0c279f1db728e57c9ed6838460a9fdcd], every local weights and measures authority, DETINI and GEMA;
-- “[^key-8113d3237330f72be6f662e4e9a0eed4]GEMA” means the Gas and Electricity Markets Authority;
+- “[^c-2782b4ab747d174503f8a5b94396ec3e]DETINI” means the Department of Enterprise, Trade and Investment in Northern Ireland;
+- “enforcement authority” means the[^c-616972921d52898159df72cd4791b256] CMA[^c-0c279f1db728e57c9ed6838460a9fdcd], every local weights and measures authority, DETINI and GEMA;
+- “[^c-8113d3237330f72be6f662e4e9a0eed4]GEMA” means the Gas and Electricity Markets Authority;
 - “**goods**” includes ships, aircraft, animals, things attached to land and growing crops;
-- “local weights and measures authority” means a local weights and measures authority in Great Britain (within the meaning of section 69 of the Weights and Measures Act 1985);[^key-679d42682190dbf0b33b29fdc8369241]
-- [^key-13674290594b922be6d0bcfb9dbfbb43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- “local weights and measures authority” means a local weights and measures authority in Great Britain (within the meaning of section 69 of the Weights and Measures Act 1985);[^c-679d42682190dbf0b33b29fdc8369241]
+- [^c-13674290594b922be6d0bcfb9dbfbb43]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**premises**” includes any place and any stall, vehicle, ship or aircraft;
 - “**product**” means any goods or services and includes immovable property, rights and obligations;
 - “**ship**” includes any boat and any other description of vessel used in navigation; and
@@ -119,7 +119,7 @@ These Regulations may be cited as the Business Protection from Misleading Market
 Comparative advertising shall, as far as the comparison is concerned, be permitted only when the following conditions are met—
 
 - (a) it is not misleading under regulation 3;
-- (b) it is not a misleading action under section 225(4)(a) and section 226 of the Digital Markets, Competition and Consumers Act 2024 or a misleading omission under section 225(4)(a) and section 227 of that Act[^key-9c0da17d7b16dbaca697cfdb7c6af7d3];
+- (b) it is not a misleading action under section 225(4)(a) and section 226 of the Digital Markets, Competition and Consumers Act 2024 or a misleading omission under section 225(4)(a) and section 227 of that Act[^c-9c0da17d7b16dbaca697cfdb7c6af7d3];
 - (c) it compares products meeting the same needs or intended for the same purpose;
 - (d) it objectively compares one or more material, relevant, verifiable and representative features of those products, which may include price;
 - (e) it does not create confusion among traders—
@@ -235,33 +235,33 @@ In any proceedings against a person for an offence under regulation 6 committed 
 
 ## PART 3 — ENFORCEMENT
 
-### 13. Duty and power to enforce[^key-c01deb97a9cfe5e7fbca5f7fbf69bcb4]
+### 13. Duty and power to enforce[^c-c01deb97a9cfe5e7fbca5f7fbf69bcb4]
 
 (1)[^M_F_5bcab82b-7563-4c5b-ac27-114c055e5e4e] It shall be the duty of every local weights and measures authority and DETINI to enforce these Regulations.
 
-(1A)[^key-91d4fe76e0c4e508624f161fea1cc1e8] Each of the following may also enforce these Regulations—
+(1A)[^c-91d4fe76e0c4e508624f161fea1cc1e8] Each of the following may also enforce these Regulations—
 
-- (a) the CMA[^key-e1e5f8b616fb151e61e09a2a98bdf2dd];
+- (a) the CMA[^c-e1e5f8b616fb151e61e09a2a98bdf2dd];
 - (b) GEMA.
 
 (2) Where an enforcement authority is a local weights and measures authority the duty referred to in paragraph (1) shall apply to the enforcement of these Regulations within the authority's area.
 
 (3) Where the enforcement authority is the Department of Enterprise, Trade and Investment in Northern Ireland the duty referred to in paragraph (1) shall apply to the enforcement of these Regulations within Northern Ireland.
 
-(4) In determining how to comply with paragraph (1), or as the case may be, paragraph (1A)[^key-0d233f59bb934e4656223cfccae2dc28] every enforcement authority shall have regard to the desirability of encouraging control of advertising which is misleading under regulation 3 and comparative advertising which is not permitted under regulation 4 by such established means as it considers appropriate having regard to all the circumstances of the particular case.
+(4) In determining how to comply with paragraph (1), or as the case may be, paragraph (1A)[^c-0d233f59bb934e4656223cfccae2dc28] every enforcement authority shall have regard to the desirability of encouraging control of advertising which is misleading under regulation 3 and comparative advertising which is not permitted under regulation 4 by such established means as it considers appropriate having regard to all the circumstances of the particular case.
 
-(4A)[^key-03c82cf21af8211ded468ae1cb4ef447] Nothing in this regulation shall authorise GEMA to bring proceedings for an offence.
+(4A)[^c-03c82cf21af8211ded468ae1cb4ef447] Nothing in this regulation shall authorise GEMA to bring proceedings for an offence.
 
 (5) Nothing in this regulation shall authorise any enforcement authority to bring proceedings in Scotland for an offence.
 
-### 14. Notice to CMA of intended prosecution[^key-01c1cf038a59894b0a7dbaaa46b38411]
+### 14. Notice to CMA of intended prosecution[^c-01c1cf038a59894b0a7dbaaa46b38411]
 
 (1) Where an enforcement authority is a local weights and measures authority in England and Wales it may bring proceedings for an offence under regulation 6 only if—
 
-- (a) it has notified the CMA[^key-09a826ae4dd1d6b181db828448fc83bc] of its intention to bring proceedings at least fourteen days before the date on which proceedings are brought; or
+- (a) it has notified the CMA[^c-09a826ae4dd1d6b181db828448fc83bc] of its intention to bring proceedings at least fourteen days before the date on which proceedings are brought; or
 - (b) theCMA consents to proceedings being brought in a shorter period.
 
-(2) The enforcement authority must also notify the CMA[^key-68cd9bd5cf6df12ca54d63d3e89f8d1d] of the outcome of the proceedings after they are finally determined.
+(2) The enforcement authority must also notify the CMA[^c-68cd9bd5cf6df12ca54d63d3e89f8d1d] of the outcome of the proceedings after they are finally determined.
 
 (3) Such proceedings are not invalid by reason only of the failure to comply with this regulation.
 
@@ -271,9 +271,9 @@ In any proceedings against a person for an offence under regulation 6 committed 
 
 (2) Where this regulation applies an enforcement authority may, subject to paragraph (3), if it thinks it appropriate to do so, bring proceedings for an injunction (in which proceedings it may also apply for an interim injunction) against any person appearing to it to be concerned or likely to be concerned with the breach.
 
-(3) Where the enforcement authority is a local weights and measures authority in Great Britain or[^key-6687eb1b154ba19ab2827fe5460be053] GEMA it may apply for an injunction only if—
+(3) Where the enforcement authority is a local weights and measures authority in Great Britain or[^c-6687eb1b154ba19ab2827fe5460be053] GEMA it may apply for an injunction only if—
 
-- (a) it has notified the CMA[^key-b8561b8ea9ad51577bfb7d496044b047] of its intention to apply for an injunction at least fourteen days before the date on which the application is made; or
+- (a) it has notified the CMA[^c-b8561b8ea9ad51577bfb7d496044b047] of its intention to apply for an injunction at least fourteen days before the date on which the application is made; or
 - (b) the CMA consents to the application for an injunction being made within a shorter period.
 
 (4) Proceedings referred to in paragraph (2) are not invalid by reason only of the failure to comply with paragraph (3).
@@ -284,7 +284,7 @@ Where an enforcement authority considers that there has been or is likely to be 
 
 ### 17. Co-ordination
 
-(1)[^key-56ebb94df3a5443f425d2baf08dabce2] If more than one enforcement authority in Great Britain is contemplating bringing proceedings under regulation 15 in any particular case, the CMA[^key-aefd21d96557c653c24f899d67fd78f3] may direct which enforcement authority is to bring the proceedings or decide that only it may do so.
+(1)[^c-56ebb94df3a5443f425d2baf08dabce2] If more than one enforcement authority in Great Britain is contemplating bringing proceedings under regulation 15 in any particular case, the CMA[^c-aefd21d96557c653c24f899d67fd78f3] may direct which enforcement authority is to bring the proceedings or decide that only it may do so.
 
 (2) Where the CMA directs that only it may bring such proceedings it may take into account whether compliance with regulation 3, 4 or 5 could be achieved by other means in deciding whether to bring proceedings.
 
@@ -312,9 +312,9 @@ the court may consider that the factual claim is inaccurate.
 
 (7) The court may grant an injunction even where there is no evidence of proof of actual loss or damage or of intention or negligence on the part of the advertiser.
 
-### 19. Notifications of undertakings and orders to the CMA[^key-68e3164b5ba4758ee60bfc8d1393fdc0]
+### 19. Notifications of undertakings and orders to the CMA[^c-68e3164b5ba4758ee60bfc8d1393fdc0]
 
-An enforcement authority, other than the CMA[^key-9e4f963bff3bda85ca295a6b19171053], shall notify the CMA—
+An enforcement authority, other than the CMA[^c-9e4f963bff3bda85ca295a6b19171053], shall notify the CMA—
 
 - (a) of any undertaking given to it under regulation 16;
 - (b) of the outcome of any application made by it under regulation 15 and the terms of any order made by the court; and
@@ -322,54 +322,54 @@ An enforcement authority, other than the CMA[^key-9e4f963bff3bda85ca295a6b191710
 
 ### 20. Publication, information and advice
 
-(1) The CMA[^key-6c7fd8f848e1b17ecb8e318259afa49c] must arrange for the publication, in such form and manner as it considers appropriate, of—
+(1) The CMA[^c-6c7fd8f848e1b17ecb8e318259afa49c] must arrange for the publication, in such form and manner as it considers appropriate, of—
 
 - (a) details of any undertaking or order notified to it under regulation 19;
 - (b) details of any undertaking given to it under regulation 16;
 - (c) details of any application made by it under regulation 15 and of the terms of any undertaking given to, or order made by, the court;
 - (d) details of any application made by it to enforce a previous order of the court.
 
-(2) An enforcement authority[^key-04983ba05a52379742c5fa94e037f2ec] may arrange for the dissemination, in such form and manner as it considers appropriate, of such information and advice concerning the operation of these Regulations as appear to it to be expedient to give to the public and to all persons likely to be affected by these Regulations.
+(2) An enforcement authority[^c-04983ba05a52379742c5fa94e037f2ec] may arrange for the dissemination, in such form and manner as it considers appropriate, of such information and advice concerning the operation of these Regulations as appear to it to be expedient to give to the public and to all persons likely to be affected by these Regulations.
 
 ## PART 4 — INVESTIGATION POWERS
 
-### 21. Powers of Enforcement Authorities to obtain information[^key-a4dc770677307c9e4a88b32d089995e2]
+### 21. Powers of Enforcement Authorities to obtain information[^c-a4dc770677307c9e4a88b32d089995e2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Power to make test purchases[^key-a4dc770677307c9e4a88b32d089995e2]
+### 22. Power to make test purchases[^c-a4dc770677307c9e4a88b32d089995e2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Power of entry and investigation, etc.[^key-a4dc770677307c9e4a88b32d089995e2]
+### 23. Power of entry and investigation, etc.[^c-a4dc770677307c9e4a88b32d089995e2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Power to enter premises with a warrant[^key-a4dc770677307c9e4a88b32d089995e2]
+### 24. Power to enter premises with a warrant[^c-a4dc770677307c9e4a88b32d089995e2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Obstruction of authorised officers[^key-a4dc770677307c9e4a88b32d089995e2]
+### 25. Obstruction of authorised officers[^c-a4dc770677307c9e4a88b32d089995e2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Notice of test and intended proceedings[^key-a4dc770677307c9e4a88b32d089995e2]
+### 26. Notice of test and intended proceedings[^c-a4dc770677307c9e4a88b32d089995e2]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Compensation[^key-a4dc770677307c9e4a88b32d089995e2]
+### 27. Compensation[^c-a4dc770677307c9e4a88b32d089995e2]
 
 **No longer in force.**
 
@@ -377,7 +377,7 @@ An enforcement authority, other than the CMA[^key-9e4f963bff3bda85ca295a6b191710
 
 ### 28. Crown
 
-(1)[^key-d822bbd04a34891342b267867ccfd8cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-d822bbd04a34891342b267867ccfd8cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The Crown is not criminally liable as a result of any provision of these Regulations.
 
@@ -415,21 +415,21 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c19257131]: Marginal citation: [Paragraph 2(2)](https://www.legislation.gov.uk/uksi/2008/1276/paragraph/2/2) of Schedule 2 was amended by section 27(2)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51).
 
-[^key-0bcdb20389fb8ae4ae91e540c2d39fcd]: Textual amendment: Words in reg. 2(1) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(2)(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-0bcdb20389fb8ae4ae91e540c2d39fcd]: Textual amendment: Words in reg. 2(1) inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(2)(c)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-2782b4ab747d174503f8a5b94396ec3e]: Textual amendment: Words in reg. 2 inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2013/783/article/12/2/a)
+[^c-2782b4ab747d174503f8a5b94396ec3e]: Textual amendment: Words in reg. 2 inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(2)(a)](https://www.legislation.gov.uk/uksi/2013/783/article/12/2/a)
 
-[^key-616972921d52898159df72cd4791b256]: Textual amendment: Words in reg. 2 substituted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2701/regulation/3/a)
+[^c-616972921d52898159df72cd4791b256]: Textual amendment: Words in reg. 2 substituted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2701/regulation/3/a)
 
-[^key-0c279f1db728e57c9ed6838460a9fdcd]: Textual amendment: Word in reg. 2(1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-0c279f1db728e57c9ed6838460a9fdcd]: Textual amendment: Word in reg. 2(1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(2)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/2/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-8113d3237330f72be6f662e4e9a0eed4]: Textual amendment: Words in reg. 2 inserted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2701/regulation/3/b)
+[^c-8113d3237330f72be6f662e4e9a0eed4]: Textual amendment: Words in reg. 2 inserted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2701/regulation/3/b)
 
-[^key-679d42682190dbf0b33b29fdc8369241]: Textual amendment: Words in reg. 2 inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(2)(c)](https://www.legislation.gov.uk/uksi/2013/783/article/12/2/c)
+[^c-679d42682190dbf0b33b29fdc8369241]: Textual amendment: Words in reg. 2 inserted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(2)(c)](https://www.legislation.gov.uk/uksi/2013/783/article/12/2/c)
 
-[^key-13674290594b922be6d0bcfb9dbfbb43]: Textual amendment: Words in reg. 2(1) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-13674290594b922be6d0bcfb9dbfbb43]: Textual amendment: Words in reg. 2(1) omitted (1.4.2014) by virtue of [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(2)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-9c0da17d7b16dbaca697cfdb7c6af7d3]: Textual amendment: [Reg. 4(b)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/4/b) substituted (6.4.2025) by [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/31)
+[^c-9c0da17d7b16dbaca697cfdb7c6af7d3]: Textual amendment: [Reg. 4(b)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/4/b) substituted (6.4.2025) by [The Digital Markets, Competition and Consumers Act 2024 (Consequential Amendments) Regulations 2025 (S.I. 2025/381)](https://www.legislation.gov.uk/uksi/2025/381), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/381/regulation/1/2), [Sch. para. 31](https://www.legislation.gov.uk/uksi/2025/381/schedule/paragraph/31)
 
 [^c19257161]: Marginal citation: [1980 c.43](https://www.legislation.gov.uk/ukpga/1980/43).
 
@@ -437,40 +437,40 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c19257181]: Marginal citation: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-c01deb97a9cfe5e7fbca5f7fbf69bcb4]: Textual amendment: Reg. 13 heading substituted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2013/783/article/12/3)
+[^c-c01deb97a9cfe5e7fbca5f7fbf69bcb4]: Textual amendment: Reg. 13 heading substituted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(3)](https://www.legislation.gov.uk/uksi/2013/783/article/12/3)
 
 [^M_F_5bcab82b-7563-4c5b-ac27-114c055e5e4e]: Textual amendment: Reg. 13(1)(1A) substituted for reg. 13(1) (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(4)](https://www.legislation.gov.uk/uksi/2013/783/article/12/2/c)
 
-[^key-91d4fe76e0c4e508624f161fea1cc1e8]: Textual amendment: Reg. 13(1A) substituted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2013/2701/regulation/4/a)
+[^c-91d4fe76e0c4e508624f161fea1cc1e8]: Textual amendment: Reg. 13(1A) substituted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2013/2701/regulation/4/a)
 
-[^key-e1e5f8b616fb151e61e09a2a98bdf2dd]: Textual amendment: Word in [reg. 13(1A)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/13/1A) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-e1e5f8b616fb151e61e09a2a98bdf2dd]: Textual amendment: Word in [reg. 13(1A)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/13/1A) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(3)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-0d233f59bb934e4656223cfccae2dc28]: Textual amendment: Words in reg. 13(4) substituted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(5)](https://www.legislation.gov.uk/uksi/2013/783/article/12/5)
+[^c-0d233f59bb934e4656223cfccae2dc28]: Textual amendment: Words in reg. 13(4) substituted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(5)](https://www.legislation.gov.uk/uksi/2013/783/article/12/5)
 
-[^key-03c82cf21af8211ded468ae1cb4ef447]: Textual amendment: Reg. 13(4A) inserted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2013/2701/regulation/4/b)
+[^c-03c82cf21af8211ded468ae1cb4ef447]: Textual amendment: Reg. 13(4A) inserted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2013/2701/regulation/4/b)
 
-[^key-01c1cf038a59894b0a7dbaaa46b38411]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/uksi/2008/1276/regulation/14) heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(4)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-01c1cf038a59894b0a7dbaaa46b38411]: Textual amendment: Word in [reg. 14](https://www.legislation.gov.uk/uksi/2008/1276/regulation/14) heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(4)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/4/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-09a826ae4dd1d6b181db828448fc83bc]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/14/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(4)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-09a826ae4dd1d6b181db828448fc83bc]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/14/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(4)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-68cd9bd5cf6df12ca54d63d3e89f8d1d]: Textual amendment: Word in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/14/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(4)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-68cd9bd5cf6df12ca54d63d3e89f8d1d]: Textual amendment: Word in [reg. 14(2)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/14/2) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(4)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/4/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-6687eb1b154ba19ab2827fe5460be053]: Textual amendment: Words in reg. 15(3) inserted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/2701/regulation/5)
+[^c-6687eb1b154ba19ab2827fe5460be053]: Textual amendment: Words in reg. 15(3) inserted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/2701/regulation/5)
 
-[^key-b8561b8ea9ad51577bfb7d496044b047]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/15/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(5)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-b8561b8ea9ad51577bfb7d496044b047]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/15/3) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(5)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-56ebb94df3a5443f425d2baf08dabce2]: Textual amendment: Reg. 17(1) substituted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/2701/regulation/6)
+[^c-56ebb94df3a5443f425d2baf08dabce2]: Textual amendment: Reg. 17(1) substituted (14.11.2013) by [The Business Protection from Misleading Marketing (Amendment) Regulations 2013 (S.I. 2013/2701)](https://www.legislation.gov.uk/uksi/2013/2701), [regs. 1](https://www.legislation.gov.uk/uksi/2013/2701/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/2701/regulation/6)
 
-[^key-aefd21d96557c653c24f899d67fd78f3]: Textual amendment: Word in reg. 17 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(6)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-aefd21d96557c653c24f899d67fd78f3]: Textual amendment: Word in reg. 17 substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(6)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-68e3164b5ba4758ee60bfc8d1393fdc0]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2008/1276/regulation/19) heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(7)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-68e3164b5ba4758ee60bfc8d1393fdc0]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2008/1276/regulation/19) heading substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(7)(b)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/7/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-9e4f963bff3bda85ca295a6b19171053]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2008/1276/regulation/19) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(7)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-9e4f963bff3bda85ca295a6b19171053]: Textual amendment: Word in [reg. 19](https://www.legislation.gov.uk/uksi/2008/1276/regulation/19) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(7)(a)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/7/a) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-6c7fd8f848e1b17ecb8e318259afa49c]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/20/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(8)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-6c7fd8f848e1b17ecb8e318259afa49c]: Textual amendment: Word in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/20/1) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 34(8)](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/34/8) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-04983ba05a52379742c5fa94e037f2ec]: Textual amendment: Words in reg. 20(2) substituted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(6)](https://www.legislation.gov.uk/uksi/2013/783/article/12/6)
+[^c-04983ba05a52379742c5fa94e037f2ec]: Textual amendment: Words in reg. 20(2) substituted (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [12(6)](https://www.legislation.gov.uk/uksi/2013/783/article/12/6)
 
-[^key-a4dc770677307c9e4a88b32d089995e2]: Textual amendment: [Regs. 21-27](https://www.legislation.gov.uk/uksi/2008/1276/regulation/21) revoked (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 112](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/112) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-a4dc770677307c9e4a88b32d089995e2]: Textual amendment: [Regs. 21-27](https://www.legislation.gov.uk/uksi/2008/1276/regulation/21) revoked (1.10.2015) by [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 112](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/112) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-d822bbd04a34891342b267867ccfd8cb]: Textual amendment: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/28/1) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 113](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/113) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-d822bbd04a34891342b267867ccfd8cb]: Textual amendment: [Reg. 28(1)](https://www.legislation.gov.uk/uksi/2008/1276/regulation/28/1) omitted (1.10.2015) by virtue of [The Consumer Rights Act 2015 (Commencement No. 3, Transitional Provisions, Savings and Consequential Amendments) Order 2015 (S.I. 2015/1630)](https://www.legislation.gov.uk/uksi/2015/1630), [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1), [Sch. 2 para. 113](https://www.legislation.gov.uk/uksi/2015/1630/schedule/2/paragraph/113) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))

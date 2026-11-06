@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Failure to prevent fraud: minor definitions[^key-581309a0473e3a50846dde74fe1d7222][^key-a8948b3154356f48588090995acbb1e9]
+## 205. Failure to prevent fraud: minor definitions[^c-581309a0473e3a50846dde74fe1d7222][^c-a8948b3154356f48588090995acbb1e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-581309a0473e3a50846dde74fe1d7222]: Commencement: S. 205 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-581309a0473e3a50846dde74fe1d7222]: Commencement: S. 205 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-a8948b3154356f48588090995acbb1e9]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/56/section/205) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)
+[^c-a8948b3154356f48588090995acbb1e9]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2023/56/section/205) in force at 1.9.2025 in so far as not already in force by [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 3](https://www.legislation.gov.uk/uksi/2025/349/regulation/3)

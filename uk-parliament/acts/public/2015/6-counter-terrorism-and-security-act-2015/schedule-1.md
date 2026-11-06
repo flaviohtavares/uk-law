@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Seizure of passports etc from persons suspected of involvement in terrorism[^key-8733b806417ca1d799b9d0ad80ade8b0]
+## SCHEDULE 1 — Seizure of passports etc from persons suspected of involvement in terrorism[^c-8733b806417ca1d799b9d0ad80ade8b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -429,4 +429,4 @@ or to both.
 
 ## Annotations
 
-[^key-8733b806417ca1d799b9d0ad80ade8b0]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/2015/6/schedule/1) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/982/article/2/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/982/schedule/3)
+[^c-8733b806417ca1d799b9d0ad80ade8b0]: Modification: [Sch. 1](https://www.legislation.gov.uk/ukpga/2015/6/schedule/1) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(c)](https://www.legislation.gov.uk/uksi/2017/982/article/2/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/982/schedule/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 206. Application of the IA 1986 and the Company Directors Disqualification Act 1986[^key-16c044eda4cfa6124686ab4eeeaf222f][^key-4b48659d6962a4a2ef9163b65d8b3b62]
+## 206. Application of the IA 1986 and the Company Directors Disqualification Act 1986[^c-16c044eda4cfa6124686ab4eeeaf222f][^c-4b48659d6962a4a2ef9163b65d8b3b62]
 
 *Extent: S*
 
@@ -24,8 +24,8 @@ For the purposes of these Rules, any reference in IA 1986 or the Company Directo
 
 ## Annotations
 
-[^key-16c044eda4cfa6124686ab4eeeaf222f]: Commencement: Rule 206 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-16c044eda4cfa6124686ab4eeeaf222f]: Commencement: Rule 206 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
 
-[^key-4b48659d6962a4a2ef9163b65d8b3b62]: Textual amendment: Word in [rule 206](https://www.legislation.gov.uk/uksi/2022/1239/rule/206) heading inserted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(16)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/16)
+[^c-4b48659d6962a4a2ef9163b65d8b3b62]: Textual amendment: Word in [rule 206](https://www.legislation.gov.uk/uksi/2022/1239/rule/206) heading inserted (26.2.2025) by [The Payment and Electronic Money Institution Insolvency (Scotland) (Amendment) Rules 2025 (S.I. 2025/110)](https://www.legislation.gov.uk/uksi/2025/110), [rules 2](https://www.legislation.gov.uk/uksi/2025/110/rule/2), [4(16)](https://www.legislation.gov.uk/uksi/2025/110/rule/4/16)
 
 [^f00023]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).

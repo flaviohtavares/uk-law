@@ -35,7 +35,7 @@ summary: ''
 
 (3) But subsection (2)(b) does not apply in relation to a car to which section 137 (different CO<sub>2</sub> emissions figure for bi-fuel cars) applies.
 
-(3A)[^key-47de8b6241e1a606a94d39b7ad4a0c24] Subsection (2) needs to be read with section 125A (security features not to be regarded as accessories).
+(3A)[^c-47de8b6241e1a606a94d39b7ad4a0c24] Subsection (2) needs to be read with section 125A (security features not to be regarded as accessories).
 
 (4) In this Chapter—
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47de8b6241e1a606a94d39b7ad4a0c24]: Textual amendment: S. 125(3A) inserted (with effect in accordance with s. 14(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/14/2)
+[^c-47de8b6241e1a606a94d39b7ad4a0c24]: Textual amendment: S. 125(3A) inserted (with effect in accordance with s. 14(5) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/14/2)

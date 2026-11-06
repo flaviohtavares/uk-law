@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Level 1 disclosure: application for review[^key-61ca8ac262ae106072379d967ff224f3][^key-4b5e997864ffbec319db36f1f9e3d9d1]
+## 5. Level 1 disclosure: application for review[^c-61ca8ac262ae106072379d967ff224f3][^c-4b5e997864ffbec319db36f1f9e3d9d1]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-61ca8ac262ae106072379d967ff224f3]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/13/section/5) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-61ca8ac262ae106072379d967ff224f3]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/13/section/5) in force at 30.9.2024 for specified purposes by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
 
-[^key-4b5e997864ffbec319db36f1f9e3d9d1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/13/section/5) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-4b5e997864ffbec319db36f1f9e3d9d1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2020/13/section/5) in force at 1.4.2025 in so far as not already in force by [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3(1)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/1)[(2)](https://www.legislation.gov.uk/ssi/2025/27/regulation/3/2), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)

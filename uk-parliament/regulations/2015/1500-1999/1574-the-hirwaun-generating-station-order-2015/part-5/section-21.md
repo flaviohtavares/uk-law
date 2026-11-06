@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 21. Private rights[^key-d1ff3f2b0f6b5358ca1e37b1a5fd6484]
+## 21. Private rights[^c-d1ff3f2b0f6b5358ca1e37b1a5fd6484]
 
 *Extent: E+W+S*
 
@@ -78,6 +78,6 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-d1ff3f2b0f6b5358ca1e37b1a5fd6484]: Commencement: Art. 21 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-d1ff3f2b0f6b5358ca1e37b1a5fd6484]: Commencement: Art. 21 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
 
 [^f00020]: Footnote: Section 11 was amended by section 34 of, and Schedule 4 to, the Acquisition of Land Act [1981 (c.67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of Schedule 1 to the Housing (Consequential Provisions) Act [1985 (c.71)](https://www.legislation.gov.uk/ukpga/1985/71) and paragraph 64 of Schedule 1 to the Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 ([S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307)).

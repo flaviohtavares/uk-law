@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Exercise of enforcement powers[^key-aa9b2c41a44ea1a724fb3b2b10f84b22]
+## 27. Exercise of enforcement powers[^c-aa9b2c41a44ea1a724fb3b2b10f84b22]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ so as to secure compliance with and enforce the provisions of these Regulations.
 
 ## Annotations
 
-[^key-aa9b2c41a44ea1a724fb3b2b10f84b22]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2017/282/regulation/27) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-aa9b2c41a44ea1a724fb3b2b10f84b22]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2017/282/regulation/27) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

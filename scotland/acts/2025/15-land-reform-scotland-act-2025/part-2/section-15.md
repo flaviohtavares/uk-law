@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Registration of interest and right to buy[^key-2f2c91dab82f966352224b9a2eb4011b]
+## 15. Registration of interest and right to buy[^c-2f2c91dab82f966352224b9a2eb4011b]
 
 *Extent: S*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f2c91dab82f966352224b9a2eb4011b]: Commencement: S. 15 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-2f2c91dab82f966352224b9a2eb4011b]: Commencement: S. 15 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809Z9. Taking proceeds etc offshore or investing them[^key-c60af6b599be0bd2a6efac987ac9b9ee]
+## 809Z9. Taking proceeds etc offshore or investing them[^c-c60af6b599be0bd2a6efac987ac9b9ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,15 +64,15 @@ the provision is satisfied only if the money actually taken offshore or invested
 
 (10) References in this section to something being “invested” are to something being used by a relevant person to make a qualifying investment.
 
-(11) The provisions to which this section applies include sections 809UA(2) and 809VB(2), but in those cases[^key-88c9280db25dce66e87766537416eb4e]—
+(11) The provisions to which this section applies include sections 809UA(2) and 809VB(2), but in those cases[^c-88c9280db25dce66e87766537416eb4e]—
 
 - (a) disregard references in this section to investment, and
-- (b) in the case of section 809VB(2),[^key-42c449beee2b826fe78e6234decb65b3] the assessment date for the purposes of subsection (5) is the date of the relevant event (see section 809VA(3)(b)).
+- (b) in the case of section 809VB(2),[^c-42c449beee2b826fe78e6234decb65b3] the assessment date for the purposes of subsection (5) is the date of the relevant event (see section 809VA(3)(b)).
 
 ## Annotations
 
-[^key-c60af6b599be0bd2a6efac987ac9b9ee]: Textual amendment: Ss. 809Z8-809Z10 inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/16)
+[^c-c60af6b599be0bd2a6efac987ac9b9ee]: Textual amendment: Ss. 809Z8-809Z10 inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/16)
 
-[^key-88c9280db25dce66e87766537416eb4e]: Textual amendment: Words in s. 809Z9(11) substituted (with effect in accordance with s. 21(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 21(4)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/21/4/a)
+[^c-88c9280db25dce66e87766537416eb4e]: Textual amendment: Words in s. 809Z9(11) substituted (with effect in accordance with s. 21(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 21(4)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/21/4/a)
 
-[^key-42c449beee2b826fe78e6234decb65b3]: Textual amendment: Words in s. 809Z9(11)(b) inserted (with effect in accordance with s. 21(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 21(4)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/21/4/b)
+[^c-42c449beee2b826fe78e6234decb65b3]: Textual amendment: Words in s. 809Z9(11)(b) inserted (with effect in accordance with s. 21(5) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 21(4)(b)](https://www.legislation.gov.uk/ukpga/2013/29/section/21/4/b)

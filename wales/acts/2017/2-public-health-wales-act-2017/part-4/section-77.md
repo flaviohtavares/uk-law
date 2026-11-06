@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Stop notices[^key-5bbfd2b3a219409df06520ea8c30d099]
+## 77. Stop notices[^c-5bbfd2b3a219409df06520ea8c30d099]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bbfd2b3a219409df06520ea8c30d099]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2017/2/section/77) in force at 29.8.2025 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/1248/article/3/b) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-5bbfd2b3a219409df06520ea8c30d099]: Commencement: [S. 77](https://www.legislation.gov.uk/anaw/2017/2/section/77) in force at 29.8.2025 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/1248/article/3/b) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Limits on rights of landlords to claim litigation costs from tenants[^key-16c4d5fa7ad7f99ac95885c1ebed1331]
+## 62. Limits on rights of landlords to claim litigation costs from tenants[^c-16c4d5fa7ad7f99ac95885c1ebed1331]
 
 *Extent: E+W*
 
@@ -235,4 +235,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16c4d5fa7ad7f99ac95885c1ebed1331]: Commencement: S. 62 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-16c4d5fa7ad7f99ac95885c1ebed1331]: Commencement: S. 62 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

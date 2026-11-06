@@ -33,16 +33,16 @@ of 14 November 2011
 
 on the allocation of the fishing opportunities under the Protocol agreed between the European Union and the Republic of Guinea-Bissau setting out fishing opportunities and the financial contribution provided for in the Fisheries Partnership Agreement between the two parties currently in force (revoked)
 
-[^key-7221dd228f2831f7192ce5fb4cf8aa55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7221dd228f2831f7192ce5fb4cf8aa55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-7221dd228f2831f7192ce5fb4cf8aa55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7221dd228f2831f7192ce5fb4cf8aa55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7221dd228f2831f7192ce5fb4cf8aa55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7221dd228f2831f7192ce5fb4cf8aa55] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7221dd228f2831f7192ce5fb4cf8aa55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7221dd228f2831f7192ce5fb4cf8aa55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7221dd228f2831f7192ce5fb4cf8aa55]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-7221dd228f2831f7192ce5fb4cf8aa55]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

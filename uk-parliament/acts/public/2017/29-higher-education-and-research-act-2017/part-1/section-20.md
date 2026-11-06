@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. De-registration: appeals[^key-58cae770c69d7891de7009a1ea60fb8e]
+## 20. De-registration: appeals[^c-58cae770c69d7891de7009a1ea60fb8e]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58cae770c69d7891de7009a1ea60fb8e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/29/section/20) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)
+[^c-58cae770c69d7891de7009a1ea60fb8e]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2017/29/section/20) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/b)

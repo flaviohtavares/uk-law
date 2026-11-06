@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Trees subject to tree preservation orders[^key-1adab3720f075c527f3b4f9b6cf64c6a]
+## 37. Trees subject to tree preservation orders[^c-1adab3720f075c527f3b4f9b6cf64c6a]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1adab3720f075c527f3b4f9b6cf64c6a]: Commencement: Art. 37 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-1adab3720f075c527f3b4f9b6cf64c6a]: Commencement: Art. 37 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
 [^f00075]: Footnote: Section 206(1) was amended by section 192(8) of, and paragraphs 7 and 11 of Schedule 8 to the 2008 Act.

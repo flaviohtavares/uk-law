@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Publication and review of the Framework[^key-973b20ca86f76226ec3ba9a60c4213af]
+## 193. Publication and review of the Framework[^c-973b20ca86f76226ec3ba9a60c4213af]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-973b20ca86f76226ec3ba9a60c4213af]: Commencement: S. 193 in force at 23.7.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/j)
+[^c-973b20ca86f76226ec3ba9a60c4213af]: Commencement: S. 193 in force at 23.7.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2018/625/regulation/3/j)

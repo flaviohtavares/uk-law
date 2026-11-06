@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Notice of appeal[^key-4af0843be9bde96194fadc87e57509bf]
+## 6. Notice of appeal[^c-4af0843be9bde96194fadc87e57509bf]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4af0843be9bde96194fadc87e57509bf]: Commencement: Reg. 6 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
+[^c-4af0843be9bde96194fadc87e57509bf]: Commencement: Reg. 6 in operation at 19.12.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1)
 
 [^f00052]: Footnote: S.I. [1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)

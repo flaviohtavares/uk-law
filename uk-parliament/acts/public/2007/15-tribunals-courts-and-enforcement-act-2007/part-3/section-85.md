@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Contracts for similar rights to be void[^key-0fd0646d63101c3a5fe67c888e030901]
+## 85. Contracts for similar rights to be void[^c-0fd0646d63101c3a5fe67c888e030901]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fd0646d63101c3a5fe67c888e030901]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2007/15/section/85) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a) (with [art. 2(2)-(6)](https://www.legislation.gov.uk/uksi/2014/768/article/2/2))
+[^c-0fd0646d63101c3a5fe67c888e030901]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2007/15/section/85) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a) (with [art. 2(2)-(6)](https://www.legislation.gov.uk/uksi/2014/768/article/2/2))

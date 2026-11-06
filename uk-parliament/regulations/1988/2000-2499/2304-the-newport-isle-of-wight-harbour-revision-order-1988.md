@@ -51,13 +51,13 @@ And whereas this Order shall come into force 28 days after the giving of such no
 
 Now therefore, the Secretary of State in exercise of the powers conferred by section 14 of the Harbours Act 1964 and now vested in him[^f00003] and of all other powers enabling him in that behalf, and on the application of the Medina Borough Council, hereby makes the following order:
 
-## 1. Citation[^key-7198569f8477256e9cd3f7aa94b5bda5]
+## 1. Citation[^c-7198569f8477256e9cd3f7aa94b5bda5]
 
 (1) This Order may be cited as the Newport (Isle of Wight) Harbour Revision Order 1988.
 
 (2) The River Medina Navigation Act 1852[^f00004] , the River Medina Navigation Order 1898[^f00005], the Newport (Isle of Wight) Harbour Revision Order 1968[^f00006] and this Order may be cited together as the Newport (Isle of Wight) Harbour Act and Orders 1852 to 1988.
 
-## 2. Interpretation[^key-369db09b1f319dc2738098db0d2c3063]
+## 2. Interpretation[^c-369db09b1f319dc2738098db0d2c3063]
 
 In this Order, except where the context otherwise requires:—
 
@@ -74,7 +74,7 @@ In this Order, except where the context otherwise requires:—
 - “Trinity House” means the Corporation of Trinity House of Deptford Strond;
 - “vessel” includes any vessel, ship, lighter, keel, barge, boat, raft, pontoon, hovercraft (as defined in the Hovercraft Act 1968[^f00009] and craft of any kind howsoever navigated, propelled or moved and any seaplane on the surface of the water and in article 11 (Powers with respect to disposal of wrecks) and article 12 (Protection of Crown interests in wrecks) of this Order any aircraft.
 
-## 3. Power to construct, maintain and improve works[^key-f2dcfaee1f65c2c16d7dbe8c4a9ac2ac]
+## 3. Power to construct, maintain and improve works[^c-f2dcfaee1f65c2c16d7dbe8c4a9ac2ac]
 
 (1) Subject to the provisions of this Order the Council may take such steps from time to time as they may consider necessary for the improvement, regulation, maintenance, management, marking or lighting of the harbour and the facilities afforded therein or in connection therewith.
 
@@ -95,19 +95,19 @@ In this Order, except where the context otherwise requires:—
 - (d) Any difference which may arise between the Council and the Authority under this paragraph shall be determined by an arbitrator to be agreed upon between the parties or failing agreement, appointed on the application of either party, after notice in writing to the other of them, by the President of the Institution of Civil Engineers.
 - (e) In this paragraph— “apparatus” means works, mains, pipes and other apparatus belonging to or maintained by the Authority for the purposes of any of their functions including apparatus maintained by the Council on behalf of the Authority under Section 15 of the Water Act 1973[^f00010]; “the Authority” means the Southern Water Authority; and “plans” includes sections and particulars.
 
-## 4. Permanent lights on tidal works[^key-e010cb318b447a2d058442e4d34a3153]
+## 4. Permanent lights on tidal works[^c-e010cb318b447a2d058442e4d34a3153]
 
 (1) After the completion of a tidal work the Council shall at the outer extremity thereof exhibit every night from sunset to sunrise such lights, if any, and take such other steps for preventing danger to navigation as Trinity House shall from time to time direct.
 
 (2) If the Council fail to comply in any respect with a direction given under this article they shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-## 5. Provision against danger to navigation[^key-161c8d40059fae14f895be4ef565e3a4]
+## 5. Provision against danger to navigation[^c-161c8d40059fae14f895be4ef565e3a4]
 
 (1) In the case of injury to or destruction or decay of a tidal work or any part thereof the Council shall forthwith notify Trinity House and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as Trinity House shall from time to time direct.
 
 (2) If the Council fail to notify Trinity House as required by this article or to comply in any respect with a direction given under this article they shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-## 6. Abatement of works abandoned or decayed[^key-550720f398348221fa7cef0fb68f73e8]
+## 6. Abatement of works abandoned or decayed[^c-550720f398348221fa7cef0fb68f73e8]
 
 (1) Where a tidal work is abandoned, or suffered to fall into decay, the Secretary of State may by notice in writing require the Council at their own expense either to repair and restore the work or any part thereof, or to remove the work and restore the site thereof to its former condition, to such an extent and within such limits as the Secretary of State thinks proper.
 
@@ -115,11 +115,11 @@ In this Order, except where the context otherwise requires:—
 
 (3) If, on the expiration of 30 days from the date when a notice under this article is served upon the Council, they have failed to comply with the requirements of the notice, the Secretary of State may execute the works specified in the notice and any expenditure incurred by him in so doing shall be recoverable from the Council.
 
-## 7. Survey of tidal works[^key-935c6e3cd22afded5f7180d07bc56433]
+## 7. Survey of tidal works[^c-935c6e3cd22afded5f7180d07bc56433]
 
 The Secretary of State may at any time if he deems it expedient order a survey and examination of a tidal work and any expenditure incurred by the Secretary of State in any such survey and examination shall be recoverable from the Council.
 
-## 8. As to houseboats[^key-93012e20ce8511e4b8491cc8139b2127]
+## 8. As to houseboats[^c-93012e20ce8511e4b8491cc8139b2127]
 
 (1) As from the first day of the third month after the expiry of the month in which this Order comes into force it shall not be lawful:—
 
@@ -157,7 +157,7 @@ and the Council shall on the refusal of any consent under this article specify i
 
 (7) Nothing in this article shall be deemed to confer on the Council any right, title or interest in or to any land (not for the time being belonging to the Council) forming part of the foreshore of the harbour.
 
-## 9. Appeals under last preceding article[^key-81f6840e3cc4b5b97cbc5dfc37e5bd6c]
+## 9. Appeals under last preceding article[^c-81f6840e3cc4b5b97cbc5dfc37e5bd6c]
 
 (1) Any person aggrieved by the terms and conditions attached to any consent, any refusal of consent or any requirement of the Council under article 8 (As to houseboats) of this Order may appeal to the Secretary of State.
 
@@ -175,13 +175,13 @@ and the Council shall on the refusal of any consent under this article specify i
 
 (8) The Secretary of State may cause to be held such inquiries as he may consider necessary in regard to the performance of his functions under this article and section 47 of the Harbours Act 1964 shall apply to any such inquiry as if it were an inquiry held under a provision of that Act in England.
 
-## 10. Public notice of articles 8 and 9[^key-ca06b1fb42a7d1b84ddf553eba939377]
+## 10. Public notice of articles 8 and 9[^c-ca06b1fb42a7d1b84ddf553eba939377]
 
 (1) The Council shall forthwith after the coming into force of this Order cause public notice to be given of the effect of articles 8 (As to houseboats) and 9 (Appeals under last preceding article) of this Order by advertisement in one or more local newspapers published or circulating in the borough and otherwise in such manner as the Council think fit.
 
 (2) In any proceedings it shall be presumed until the contrary is proved that the provisions of the foregoing paragraph have been complied with.
 
-## 11. Powers with respect to disposal of wrecks[^key-8420be7f328611089106056ff5f165da]
+## 11. Powers with respect to disposal of wrecks[^c-8420be7f328611089106056ff5f165da]
 
 (1) In relation to any vessel sunk, stranded or abandoned (whether before or after the commencement of this Order) in such manner as to be an obstruction or danger to navigation in the harbour or in or near any approach thereto:—
 
@@ -190,7 +190,7 @@ and the Council shall on the refusal of any consent under this article specify i
 
 (2) In this article the expression“owner” in relation to any vessel means the person who was the owner of the vessel at the time of the sinking, stranding or abandoning thereof.
 
-## 12. Protection of Crown interests in wrecks[^key-af38824e8ab0d22b615beff12813c04f]
+## 12. Protection of Crown interests in wrecks[^c-af38824e8ab0d22b615beff12813c04f]
 
 Without prejudice to section 741 of the Act of 1894 (which relates to the exemption from the provisions of that Act of vessels belonging to Her Majesty, as modified by any Order in Council made under section 80 of the Merchant Shipping Act 1906[^f00011]) the powers conferred on the Council by sections 530 and 532 of the Act of 1894 shall not be exercisable—
 
@@ -215,7 +215,7 @@ Provided that—i
 
 (4) Any limitation on the powers of the Council in relation to any vessel arising by virtue of paragraph (1) or paragraph (2) of this article shall not operate to authorise the exercise in relation to that vessel of the powers conferred on Trinity House by section 531 of the Act of 1894.
 
-## 13. Power to deal with unserviceable vessels[^key-5cf7d8aac3cb1b213429892b8f8a49c1]
+## 13. Power to deal with unserviceable vessels[^c-5cf7d8aac3cb1b213429892b8f8a49c1]
 
 (1) In addition to the powers conferred on the harbour master by section 57 of the Act of 1847 and on the Council by the Act of 1894 the Council may sell, break up or otherwise dispose of any vessel which is unserviceable and has been laid by or neglected in the harbour or on land immediately adjoining the harbour.
 
@@ -227,11 +227,11 @@ Provided that—i
 
 Provided that, if the registered owner or his place of business or abode is not known to the Council or is outside the United Kingdom, the notice may be given by displaying it at the principal office of the Council for two successive weeks.
 
-## 14. Charges for services not otherwise provided for[^key-fc3a5e3fb8851024bdbad4dbc28abfc0]
+## 14. Charges for services not otherwise provided for[^c-fc3a5e3fb8851024bdbad4dbc28abfc0]
 
 Subject to the provisions of this Order the Council may demand and recover such reasonable charges or other consideration as they may determine in respect of any services rendered by them in connection with the harbour.
 
-## 15. Additional byelaw making powers[^key-4a71de00619a39fc489e8a4ebb6d50c7]
+## 15. Additional byelaw making powers[^c-4a71de00619a39fc489e8a4ebb6d50c7]
 
 (1) In addition to the byelaws which may be made by the Council under section 83 of the Act of 1847 the Council may from time to time make such byelaws as to them seem meet for all or any of the following purposes:—
 
@@ -262,7 +262,7 @@ Subject to the provisions of this Order the Council may demand and recover such 
 
 (4) If and so far as a byelaw made under sub-paragraph (d)(ii) of paragraph (1) of this article is inconsistent with a byelaw made by the Southern Water Authority under section 33 of the Control of Pollution Act 1974[^f00014] the latter shall prevail.
 
-## 16. As to harbour master’s powers[^key-ddf526bd4206820384d633e7d5c85502]
+## 16. As to harbour master’s powers[^c-ddf526bd4206820384d633e7d5c85502]
 
 (1) The harbour master may remove or have removed any vessel which is sunk, stranded or abandoned within the harbour and the expense of removing any such vessel shall be repaid by the owner of the same, and the harbour master may detain such vessel for securing the expenses, and on non-payment of such expenses, on demand, may sell such vessel, and out of the proceeds of such sale pay such expenses, rendering the surplus, if any, to the owner on demand.
 
@@ -270,21 +270,21 @@ Subject to the provisions of this Order the Council may demand and recover such 
 
 Provided that nothing in this article shall authorise the harbour master to do or cause to be done any act in any way repugnant to or inconsistent with any law relating to the Customs or any regulations of the Commissioners of Customs and Excise.
 
-## 17. Penalty for not complying with the directions of the harbour master[^key-85b7042cb4519b46be1a7ef7e0966e45]
+## 17. Penalty for not complying with the directions of the harbour master[^c-85b7042cb4519b46be1a7ef7e0966e45]
 
 Any person who without reasonable excuse fails to comply with any direction lawfully given by the harbour master under this Order shall be liable on summary conviction to a fine not exceeding £400.
 
-## 18. Saving for Trinity House[^key-61b45bd63ce895f3beac941786423c40]
+## 18. Saving for Trinity House[^c-61b45bd63ce895f3beac941786423c40]
 
 Nothing in this Order shall prejudice or derogate from any of the rights or privileges or the jurisdiction or authority of Trinity House.
 
-## 19. Crown Rights[^key-6b4d802a3d7c827e27edef8c8d548c1b]
+## 19. Crown Rights[^c-6b4d802a3d7c827e27edef8c8d548c1b]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and, in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the Council to take, use, enter upon or in any manner interfere with, any land or hereditaments or any rights of whatsoever description (including any portion of the shore or bed of any river, channel, creek, bay or estuary) belonging to Her Majesty in right of Her Crown and under the management of the Crown Estate Commissioners, without the consent of those Commissioners.
 
 (2) A consent under paragraph (1) of this article may be given unconditionally or subject to such conditions and upon such terms as shall be considered necessary or appropriate.
 
-## 20. Amendment and repeal[^key-d385138663d65fefb78ba0674f8e3651]
+## 20. Amendment and repeal[^c-d385138663d65fefb78ba0674f8e3651]
 
 (1) The Newport (Isle of Wight) Harbour Revision Order 1968 shall have effect as if:—
 
@@ -309,7 +309,7 @@ Department of Transport
 
 27th June 1988
 
-## SCHEDULE — REPEALS[^key-a2d51a52172b5883263e97a4d11238be]
+## SCHEDULE — REPEALS[^c-a2d51a52172b5883263e97a4d11238be]
 
 <table>
 <thead>
@@ -344,7 +344,7 @@ The applicants for the Order are the Medina Borough Council.
 
 [^f00003]: Footnote: S.I. [1981/238](https://www.legislation.gov.uk/uksi/1981/238).
 
-[^key-7198569f8477256e9cd3f7aa94b5bda5]: Commencement: Art. 1 in force at 12.12.1988
+[^c-7198569f8477256e9cd3f7aa94b5bda5]: Commencement: Art. 1 in force at 12.12.1988
 
 [^f00004]: Footnote: [1852 c.xxi](https://www.legislation.gov.uk/ukla/1852/21).
 
@@ -352,7 +352,7 @@ The applicants for the Order are the Medina Borough Council.
 
 [^f00006]: Footnote: S.I. [1968/1084](https://www.legislation.gov.uk/uksi/1968/1084).
 
-[^key-369db09b1f319dc2738098db0d2c3063]: Commencement: Art. 2 in force at 12.12.1988
+[^c-369db09b1f319dc2738098db0d2c3063]: Commencement: Art. 2 in force at 12.12.1988
 
 [^f00007]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
@@ -360,35 +360,35 @@ The applicants for the Order are the Medina Borough Council.
 
 [^f00009]: Footnote: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
-[^key-f2dcfaee1f65c2c16d7dbe8c4a9ac2ac]: Commencement: Art. 3 in force at 12.12.1988
+[^c-f2dcfaee1f65c2c16d7dbe8c4a9ac2ac]: Commencement: Art. 3 in force at 12.12.1988
 
 [^f00010]: Footnote: [1973 c. 37](https://www.legislation.gov.uk/ukpga/1973/37).
 
-[^key-e010cb318b447a2d058442e4d34a3153]: Commencement: Art. 4 in force at 12.12.1988
+[^c-e010cb318b447a2d058442e4d34a3153]: Commencement: Art. 4 in force at 12.12.1988
 
-[^key-161c8d40059fae14f895be4ef565e3a4]: Commencement: Art. 5 in force at 12.12.1988
+[^c-161c8d40059fae14f895be4ef565e3a4]: Commencement: Art. 5 in force at 12.12.1988
 
-[^key-550720f398348221fa7cef0fb68f73e8]: Commencement: Art. 6 in force at 12.12.1988
+[^c-550720f398348221fa7cef0fb68f73e8]: Commencement: Art. 6 in force at 12.12.1988
 
-[^key-935c6e3cd22afded5f7180d07bc56433]: Commencement: Art. 7 in force at 12.12.1988
+[^c-935c6e3cd22afded5f7180d07bc56433]: Commencement: Art. 7 in force at 12.12.1988
 
-[^key-93012e20ce8511e4b8491cc8139b2127]: Commencement: Art. 8 in force at 12.12.1988
+[^c-93012e20ce8511e4b8491cc8139b2127]: Commencement: Art. 8 in force at 12.12.1988
 
-[^key-81f6840e3cc4b5b97cbc5dfc37e5bd6c]: Commencement: Art. 9 in force at 12.12.1988
+[^c-81f6840e3cc4b5b97cbc5dfc37e5bd6c]: Commencement: Art. 9 in force at 12.12.1988
 
-[^key-ca06b1fb42a7d1b84ddf553eba939377]: Commencement: Art. 10 in force at 12.12.1988
+[^c-ca06b1fb42a7d1b84ddf553eba939377]: Commencement: Art. 10 in force at 12.12.1988
 
-[^key-8420be7f328611089106056ff5f165da]: Commencement: Art. 11 in force at 12.12.1988
+[^c-8420be7f328611089106056ff5f165da]: Commencement: Art. 11 in force at 12.12.1988
 
-[^key-af38824e8ab0d22b615beff12813c04f]: Commencement: Art. 12 in force at 12.12.1988
+[^c-af38824e8ab0d22b615beff12813c04f]: Commencement: Art. 12 in force at 12.12.1988
 
 [^f00011]: Footnote: [1906 c. 48](https://www.legislation.gov.uk/ukpga/1906/48).
 
-[^key-5cf7d8aac3cb1b213429892b8f8a49c1]: Commencement: Art. 13 in force at 12.12.1988
+[^c-5cf7d8aac3cb1b213429892b8f8a49c1]: Commencement: Art. 13 in force at 12.12.1988
 
-[^key-fc3a5e3fb8851024bdbad4dbc28abfc0]: Commencement: Art. 14 in force at 12.12.1988
+[^c-fc3a5e3fb8851024bdbad4dbc28abfc0]: Commencement: Art. 14 in force at 12.12.1988
 
-[^key-4a71de00619a39fc489e8a4ebb6d50c7]: Commencement: Art. 15 in force at 12.12.1988
+[^c-4a71de00619a39fc489e8a4ebb6d50c7]: Commencement: Art. 15 in force at 12.12.1988
 
 [^f00012]: Footnote: [1971 c. 60](https://www.legislation.gov.uk/ukpga/1971/60).
 
@@ -396,16 +396,16 @@ The applicants for the Order are the Medina Borough Council.
 
 [^f00014]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-ddf526bd4206820384d633e7d5c85502]: Commencement: Art. 16 in force at 12.12.1988
+[^c-ddf526bd4206820384d633e7d5c85502]: Commencement: Art. 16 in force at 12.12.1988
 
-[^key-85b7042cb4519b46be1a7ef7e0966e45]: Commencement: Art. 17 in force at 12.12.1988
+[^c-85b7042cb4519b46be1a7ef7e0966e45]: Commencement: Art. 17 in force at 12.12.1988
 
-[^key-61b45bd63ce895f3beac941786423c40]: Commencement: Art. 18 in force at 12.12.1988
+[^c-61b45bd63ce895f3beac941786423c40]: Commencement: Art. 18 in force at 12.12.1988
 
-[^key-6b4d802a3d7c827e27edef8c8d548c1b]: Commencement: Art. 19 in force at 12.12.1988
+[^c-6b4d802a3d7c827e27edef8c8d548c1b]: Commencement: Art. 19 in force at 12.12.1988
 
-[^key-d385138663d65fefb78ba0674f8e3651]: Commencement: Art. 20 in force at 12.12.1988
+[^c-d385138663d65fefb78ba0674f8e3651]: Commencement: Art. 20 in force at 12.12.1988
 
 [^f00015]: Footnote: [1954 c.xxxvi](https://www.legislation.gov.uk/ukla/1954/36).
 
-[^key-a2d51a52172b5883263e97a4d11238be]: Commencement: Sch. in force at 12.12.1988
+[^c-a2d51a52172b5883263e97a4d11238be]: Commencement: Sch. in force at 12.12.1988

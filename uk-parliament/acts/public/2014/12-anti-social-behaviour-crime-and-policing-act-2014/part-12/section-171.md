@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Discount on sentence for time spent in custody awaiting extradition: England and Wales[^key-32636f6b2f257a526dd8dc6fc41c661f]
+## 171. Discount on sentence for time spent in custody awaiting extradition: England and Wales[^c-32636f6b2f257a526dd8dc6fc41c661f]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ In section 49 of the Prison Act 1952 (persons unlawfully at large), after subsec
 
 ## Annotations
 
-[^key-32636f6b2f257a526dd8dc6fc41c661f]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2014/12/section/171) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(p)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/p)
+[^c-32636f6b2f257a526dd8dc6fc41c661f]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2014/12/section/171) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(p)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/p)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Trust property held by sixth form college corporations[^key-2833363c656744cfc1087ebe854c831e]
+## 36. Trust property held by sixth form college corporations[^c-2833363c656744cfc1087ebe854c831e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a sixth form college corporation to which section 33J of the Further and High
 
 ## Annotations
 
-[^key-2833363c656744cfc1087ebe854c831e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/19/section/36) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-2833363c656744cfc1087ebe854c831e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/19/section/36) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

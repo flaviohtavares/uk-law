@@ -54,7 +54,7 @@ the archbishop may by written instrument in the prescribed form substitute for t
 
 (3) Any instrument made under this section shall be filed in the provincial registry.
 
-### 3. Retirement of bishop in case of disability.[^key-eeea1a0c6a5b3bd2e7b723a3213452cf]
+### 3. Retirement of bishop in case of disability.[^c-eeea1a0c6a5b3bd2e7b723a3213452cf]
 
 (1) Where it appears to the archbishop that a person holding the office of diocesan bishop or suffragan bishop is incapacitated by physical or mental disability from the due performance of his episcopal duties, the archbishop may, with the concurrence of the two senior diocesan bishops of the province, and subject to subsection (2) below, request the bishop to tender his resignation to the archbishop in a written instrument in the prescribed form.
 
@@ -78,17 +78,17 @@ Where an archbishop wishes to resign his archbishopric he shall tender his resig
 
 Not less than six months before the date on which an archbishop is required to vacate his office in accordance with section 1 of the [^c9225701] Ecclesiastical Offices (Age Limit) Measure 1975, the archbishop shall tender his resignation to Her Majesty in a written instrument in the prescribed form and Her Majesty may by Order in Council declare the archbishopric vacant as from that date or, if Her Majesty decides to exercise Her discretion under section 2 thereof, as from such later date as Her Majesty may determine under that section.
 
-### 6. Retirement of archbishop in case of disability.[^key-fe1fca651d92d653ed3561ed246a50cc]
+### 6. Retirement of archbishop in case of disability.[^c-fe1fca651d92d653ed3561ed246a50cc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Part III — General provisions
 
-### 7. Provisions as to pensions.[^key-d4cfe340e3192273843f05345d20669a]
+### 7. Provisions as to pensions.[^c-d4cfe340e3192273843f05345d20669a]
 
-Where a bishopric is declared vacant under section 3 [^key-ea93c0627a6a95d11b2379ad28a1ba70]..., the bishop [^key-ea93c0627a6a95d11b2379ad28a1ba70]... shall be treated for the purposes of sections 1 of the [^c9225711] Clergy Pensions Measure 1961 as having retired on the ground of infirmity on the date from which the bishopric [^key-ea93c0627a6a95d11b2379ad28a1ba70]... is declared vacant.
+Where a bishopric is declared vacant under section 3 [^c-ea93c0627a6a95d11b2379ad28a1ba70]..., the bishop [^c-ea93c0627a6a95d11b2379ad28a1ba70]... shall be treated for the purposes of sections 1 of the [^c9225711] Clergy Pensions Measure 1961 as having retired on the ground of infirmity on the date from which the bishopric [^c-ea93c0627a6a95d11b2379ad28a1ba70]... is declared vacant.
 
-### 8. Effect of declaration of vacancy.[^key-0a96a042183da4899f660a8b5bf2d47c]
+### 8. Effect of declaration of vacancy.[^c-0a96a042183da4899f660a8b5bf2d47c]
 
 (1) Where a bishopric or archbishopric has been declared vacant under this Measure, any other preferment held by the bishop or archbishop shall also be vacated unless in the case of a bishopric the archbishop, or in the case of an archbishopric Her Majesty, declares that it shall not be vacated.
 
@@ -112,7 +112,7 @@ No fee shall be prescribed under the [^c9225721] Ecclesiastical Fees Measure 196
 
 (1) In section 3(1) of the [^c9225731]Ecclesiastical Offices (Age Limit) Measure 1975 there shall be added at the end the words “except that a diocesan bishop may exercise his powers under this subsection in relation to a suffragan bishop only after consultation with the archbishop of the province.”
 
-(2)[^key-4c37c515ebea713060f0ff5ab8733b2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4c37c515ebea713060f0ff5ab8733b2d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12. Repeals.
 
@@ -153,24 +153,24 @@ S. 12(2)
 
 [^M_F_c03d48c8-fbae-4ece-d21e-e6147e0cb9a8]: Textual amendment: Words in s. 2(2)(a) inserted (retrospectively) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(3)(c)(12)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/3/c/12), [17(2)(b)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/2/b)
 
-[^key-eeea1a0c6a5b3bd2e7b723a3213452cf]: Modification: [S. 3](https://www.legislation.gov.uk/ukcm/1986/1/section/3) excluded (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(8)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/8), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-eeea1a0c6a5b3bd2e7b723a3213452cf]: Modification: [S. 3](https://www.legislation.gov.uk/ukcm/1986/1/section/3) excluded (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(8)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/8), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
 [^c9225701]: Marginal citation: [1975 No. 2](https://www.legislation.gov.uk/ukcm/1975/2).
 
-[^key-fe1fca651d92d653ed3561ed246a50cc]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukcm/1986/1/section/6) repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(7)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/7), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-fe1fca651d92d653ed3561ed246a50cc]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukcm/1986/1/section/6) repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(7)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/7), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-d4cfe340e3192273843f05345d20669a]: Modification: S. 7 restricted (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(8)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/8), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-d4cfe340e3192273843f05345d20669a]: Modification: S. 7 restricted (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(8)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/8), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
-[^key-ea93c0627a6a95d11b2379ad28a1ba70]: Textual amendment: Words in s. 7 repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(7)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/7), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-ea93c0627a6a95d11b2379ad28a1ba70]: Textual amendment: Words in s. 7 repealed (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(7)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/7), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2009/1/schedule/3) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
 [^c9225711]: Marginal citation: [1961 No. 3](https://www.legislation.gov.uk/ukcm/1961/3).
 
-[^key-0a96a042183da4899f660a8b5bf2d47c]: Modification: [S. 8](https://www.legislation.gov.uk/ukcm/1986/1/section/8) extended (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(9)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/9), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
+[^c-0a96a042183da4899f660a8b5bf2d47c]: Modification: [S. 8](https://www.legislation.gov.uk/ukcm/1986/1/section/8) extended (31.1.2011) by [Ecclesiastical Offices (Terms of Service) Measure 2009 (No. 1)](https://www.legislation.gov.uk/ukcm/2009/1), [ss. 3(9)](https://www.legislation.gov.uk/ukcm/2009/1/section/3/9), [13(2)](https://www.legislation.gov.uk/ukcm/2009/1/section/13/2) (with [s. 9](https://www.legislation.gov.uk/ukcm/2009/1/section/9)); [2010 No. 8](https://www.legislation.gov.uk/ukci/2010/8), [art. 2](https://www.legislation.gov.uk/ukci/2010/8/article/2)
 
 [^c9225721]: Marginal citation: [1962 No. 1](https://www.legislation.gov.uk/ukcm/1962/1).
 
 [^c9225731]: Marginal citation: [1975 No. 2](https://www.legislation.gov.uk/ukcm/1975/2).
 
-[^key-4c37c515ebea713060f0ff5ab8733b2d]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukcm/1986/1/section/11/2) repealed (1.5.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-4c37c515ebea713060f0ff5ab8733b2d]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukcm/1986/1/section/11/2) repealed (1.5.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
 [^c9225751]: Modification: Power of appointment conferred by s. 13(3) fully exercised: 1.6.1986 appointed by Instrument dated 30.5.1986

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Status of decisions of the Sheriff Appeal Court in precedent[^key-0f683891537b06ba101a4447247f7256][^key-9b605a552cfb1869f6b34e249d9f385c]
+## 48. Status of decisions of the Sheriff Appeal Court in precedent[^c-0f683891537b06ba101a4447247f7256][^c-9b605a552cfb1869f6b34e249d9f385c]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f683891537b06ba101a4447247f7256]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/18/section/48) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-0f683891537b06ba101a4447247f7256]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/18/section/48) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
 
-[^key-9b605a552cfb1869f6b34e249d9f385c]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/18/section/48) in force at 1.1.2016 in so far as not already in force by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)
+[^c-9b605a552cfb1869f6b34e249d9f385c]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2014/18/section/48) in force at 1.1.2016 in so far as not already in force by [S.S.I. 2015/378](https://www.legislation.gov.uk/ssi/2015/378), [art. 2](https://www.legislation.gov.uk/ssi/2015/378/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/378/schedule)

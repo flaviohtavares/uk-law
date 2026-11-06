@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2A. Modification of the interim targets[^key-d81f621d70557a3d984942e458a8f6a9]
+## 2A. Modification of the interim targets[^c-d81f621d70557a3d984942e458a8f6a9]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d81f621d70557a3d984942e458a8f6a9]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/asp/2009/12/section/2A) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(3)](https://www.legislation.gov.uk/asp/2024/15/section/2/3), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)
+[^c-d81f621d70557a3d984942e458a8f6a9]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/asp/2009/12/section/2A) repealed (23.11.2024) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2024 (asp 15)](https://www.legislation.gov.uk/asp/2024/15), [ss. 2(3)](https://www.legislation.gov.uk/asp/2024/15/section/2/3), [15](https://www.legislation.gov.uk/asp/2024/15/section/15)

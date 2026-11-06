@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Power to publish information[^key-fd7e845b81e8ac27895616f74ae90230]
+## 251. Power to publish information[^c-fd7e845b81e8ac27895616f74ae90230]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd7e845b81e8ac27895616f74ae90230]: Commencement: [S. 251](https://www.legislation.gov.uk/ukpga/2026/11/section/251) in force at 1.4.2026, see [s. 253(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/253/2)
+[^c-fd7e845b81e8ac27895616f74ae90230]: Commencement: [S. 251](https://www.legislation.gov.uk/ukpga/2026/11/section/251) in force at 1.4.2026, see [s. 253(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/253/2)

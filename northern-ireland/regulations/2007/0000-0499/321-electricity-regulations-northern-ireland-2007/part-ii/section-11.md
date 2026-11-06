@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Consequential Amendments[^key-d6354d1445a2d188edafbfff81311d5e]
+## 11. Consequential Amendments[^c-d6354d1445a2d188edafbfff81311d5e]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ in relation to any period after this regulation comes into effect any reference 
 
 ## Annotations
 
-[^key-d6354d1445a2d188edafbfff81311d5e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/321/regulation/11) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
+[^c-d6354d1445a2d188edafbfff81311d5e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/321/regulation/11) in operation at 1.11.2007, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/2)
 
 [^f00006]: Footnote: [S.R. 1994 No. 132](https://www.legislation.gov.uk/nisr/1994/132)
 

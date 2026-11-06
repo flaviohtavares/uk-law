@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. Holder of licence or certificated under Licensing Acts[^key-2998fda91b1b2dacc4d169d48efa69e4]
+## 116. Holder of licence or certificated under Licensing Acts[^c-2998fda91b1b2dacc4d169d48efa69e4]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2998fda91b1b2dacc4d169d48efa69e4]: Commencement: Art. 116 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-2998fda91b1b2dacc4d169d48efa69e4]: Commencement: Art. 116 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

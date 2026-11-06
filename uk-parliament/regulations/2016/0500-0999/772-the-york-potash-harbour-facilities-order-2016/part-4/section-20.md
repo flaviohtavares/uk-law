@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Provision against danger to navigation[^key-d143f49c04d5fb68f666a8dabb815d73]
+## 20. Provision against danger to navigation[^c-d143f49c04d5fb68f666a8dabb815d73]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d143f49c04d5fb68f666a8dabb815d73]: Commencement: Art. 20 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-d143f49c04d5fb68f666a8dabb815d73]: Commencement: Art. 20 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

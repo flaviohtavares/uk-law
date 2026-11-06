@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Directions[^key-3b3321afd74ccd4e641e2e68fcb3c424][^key-c70fc0eb2d3cbec5aafc1048af582103]
+## 18. Directions[^c-3b3321afd74ccd4e641e2e68fcb3c424][^c-c70fc0eb2d3cbec5aafc1048af582103]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b3321afd74ccd4e641e2e68fcb3c424]: Commencement: S. 18 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-3b3321afd74ccd4e641e2e68fcb3c424]: Commencement: S. 18 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-c70fc0eb2d3cbec5aafc1048af582103]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/32/section/18) in force at 31.1.2023 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/j)
+[^c-c70fc0eb2d3cbec5aafc1048af582103]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2022/32/section/18) in force at 31.1.2023 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(j)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/j)

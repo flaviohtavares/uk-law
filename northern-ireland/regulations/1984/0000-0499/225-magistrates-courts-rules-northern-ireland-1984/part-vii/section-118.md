@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where a court of summary jurisdiction has power to make an attachment of earnings order in respect of a defendant who is already subject to such an order (whether or not it is itself a consolidated attachment order) made by any such court, the court may, subject to the provisions of this Rule, discharge the existing order and make a consolidated attachment order in respect of that defendant.
 
-(3)[^key-fe68c015daff84dc6b3b50404b2fb77b] Where two or more attachment of earnings orders have been made (whether or not they are themselves consolidated attachment orders) a court of summary jurisdiction may, subject to the provisions of this Rule, discharge the existing order and make a consolidated attachment order in respect of that defendant.
+(3)[^c-fe68c015daff84dc6b3b50404b2fb77b] Where two or more attachment of earnings orders have been made (whether or not they are themselves consolidated attachment orders) a court of summary jurisdiction may, subject to the provisions of this Rule, discharge the existing order and make a consolidated attachment order in respect of that defendant.
 
 (4) A court of summary jurisdiction may exercise the powers conferred under paragraphs (1) to (3) of this Rule either of its own motion or on the application of the defendant.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe68c015daff84dc6b3b50404b2fb77b]: Textual amendment: [Rule 118(3)](https://www.legislation.gov.uk/nisr/1984/225/rule/118/3) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(20)](https://www.legislation.gov.uk/nisr/2016/304/article/3/20); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-fe68c015daff84dc6b3b50404b2fb77b]: Textual amendment: [Rule 118(3)](https://www.legislation.gov.uk/nisr/1984/225/rule/118/3) substituted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(20)](https://www.legislation.gov.uk/nisr/2016/304/article/3/20); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69ZE. Court action etc.[^key-9439ca51c286199609a721f17b2b3738]
+## 69ZE. Court action etc.[^c-9439ca51c286199609a721f17b2b3738]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9439ca51c286199609a721f17b2b3738]: Textual amendment: Ss. 69ZB-69ZH inserted and cross-heading (4.4.2016 for specified purposes, 2.5.2016 for specified purposes, 22.6.2016 otherwise except in relation to universal credit, 27.9.2017 in so far as not already in force) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [109(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/109/1); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 4(a)](https://www.legislation.gov.uk/nisr/2016/46/article/4/a); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [arts. 2(6)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/b), [3(3)](https://www.legislation.gov.uk/nisr/2016/215/article/3/3); S.R. 2017/190, art. 3(1)(2)(e)
+[^c-9439ca51c286199609a721f17b2b3738]: Textual amendment: Ss. 69ZB-69ZH inserted and cross-heading (4.4.2016 for specified purposes, 2.5.2016 for specified purposes, 22.6.2016 otherwise except in relation to universal credit, 27.9.2017 in so far as not already in force) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [109(1)](https://www.legislation.gov.uk/nisi/2015/2006/article/109/1); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 4(a)](https://www.legislation.gov.uk/nisr/2016/46/article/4/a); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [arts. 2(6)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/b), [3(3)](https://www.legislation.gov.uk/nisr/2016/215/article/3/3); S.R. 2017/190, art. 3(1)(2)(e)

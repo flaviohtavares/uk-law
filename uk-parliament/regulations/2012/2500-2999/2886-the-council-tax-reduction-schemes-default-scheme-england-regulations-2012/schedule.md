@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE — Council Tax Reduction Scheme (Default Scheme) 2013[^key-b24206df7905e96c49fe49d53d41d01e]
+## SCHEDULE — Council Tax Reduction Scheme (Default Scheme) 2013[^c-b24206df7905e96c49fe49d53d41d01e]
 
 *Extent: E+W+S*
 
@@ -60,7 +60,7 @@ This scheme relates to the financial year beginning with 1st April 2013 and may 
   - (d) any payment based on need for attendance which is paid as part of a war disablement pension;
 - “the authority” means a billing authority in relation to whose area this scheme has effect by virtue of paragraph 4(6) of Schedule 1A to the 1992 Act;
 - “basic rate” has the meaning given by the Income Tax Act 2007[^f00006];
-- “the benefit Acts” means the SSCBA, the Jobseekers Act 1995[^f00007], the State Pension Credit Act 2002[^f00008] , the Welfare Reform Act 2007 and the Pensions Act 2014[^key-19d4370b1d81cb763fce2169109db66b];
+- “the benefit Acts” means the SSCBA, the Jobseekers Act 1995[^f00007], the State Pension Credit Act 2002[^f00008] , the Welfare Reform Act 2007 and the Pensions Act 2014[^c-19d4370b1d81cb763fce2169109db66b];
 - “board and lodging accommodation” means accommodation provided to a person or, if he is a member of a family, to him or any other member of his family, for a charge which is inclusive of the provision of that accommodation and at least some cooked or prepared meals which both are cooked or prepared (by a person other than the person to whom the accommodation is provided or a member of his family) and are consumed in that accommodation or associated premises;
 - “care home” has the meaning given by section 3 of the Care Standards Act 2000[^f00010] and in Scotland means a care home service within the meaning given by section 2(3) of the Regulation of Care (Scotland) Act 2001[^f00011] and in Northern Ireland means a nursing home within the meaning of Article 11 of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003[^f00012] or a residential care home within the meaning of Article 10 of that Order;
 - “the Caxton Foundation” means the charitable trust of that name established on 28th March 2011 out of funds provided by the Secretary of State for the benefit of certain persons suffering from hepatitis C and other persons eligible for payment in accordance with its provisions;
@@ -81,7 +81,7 @@ This scheme relates to the financial year beginning with 1st April 2013 and may 
 - “the Eileen Trust” means the charitable trust of that name established on 29th March 1993 out of funds provided by the Secretary of State for the benefit of persons eligible for payment in accordance with its provisions;
 - “electronic communication” has the same meaning as in section 15(1) of the Electronic Communications Act 2000[^f00018];
 - “employed earner” is to be construed in accordance with section 2(1)(a) of the SSCBA[^f00019] and also includes a person who is in receipt of a payment which is payable under any enactment having effect in Northern Ireland and which corresponds to statutory sick pay or statutory maternity pay;
-- [^key-48c8282969f3aab323d3b3ddeff60225]...
+- [^c-48c8282969f3aab323d3b3ddeff60225]...
 - “employment zone” means an area within Great Britain designated for the purposes of section 60 of the Welfare Reform and Pensions Act 1999[^f00021] and an “employment zone programme” means a programme established for such an area or areas designed to assist claimants for a jobseeker’s allowance to obtain sustainable employment;
 - “enactment” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament;
 - “extended reduction” means a reduction under this scheme for which a person is eligible under Part 12 (extended reductions);
@@ -172,7 +172,7 @@ This scheme relates to the financial year beginning with 1st April 2013 and may 
 - “self-employment route” means assistance in pursuing self-employed earner’s employment whilst participating in—
   - (a) an employment zone programme;
   - (b) a programme provided by or under arrangements made pursuant to section 2 of the Employment and Training Act 1973[^f00041] (functions of the Secretary of State) or section 2 of the Enterprise and New Towns (Scotland) Act 1990[^f00042] (functions in relation to training for employment, etc.); or
-  - (c) a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013;[^key-be6454215a6b6babd7aac2d9c8123b35]
+  - (c) a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013;[^c-be6454215a6b6babd7aac2d9c8123b35]
 - “service user group” means a group of individuals that is consulted by or on behalf of—
   - (a) a Health Board, Special Health Board or the Agency in consequence of a function under section 2B of the National Health Service (Scotland) Act 1978[^f00043];
   - (b) a landlord authority in consequence of a function under section 105 of the Housing Act 1985[^f00044];
@@ -195,7 +195,7 @@ This scheme relates to the financial year beginning with 1st April 2013 and may 
 - “student” has the meaning given by paragraph 73;
 - “tax year” means a period beginning with 6th April in one year and ending with 5th April in the next;
 - “training allowance” means an allowance (whether by way of periodical grants or otherwise) payable—
-  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise or Highlands and Islands Enterprise [^key-e4e2155a6c5295be1edd8e40152ead21]... or the Welsh Ministers;
+  - (a) out of public funds by a Government department or by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise or Highlands and Islands Enterprise [^c-e4e2155a6c5295be1edd8e40152ead21]... or the Welsh Ministers;
   - (b) to a person for his maintenance or in respect of a member of his family; and
   - (c) for the period, or part of the period, during which he is following a course of training or instruction provided by, or in pursuance of arrangements made with, that department or approved by that department in relation to him or so provided or approved by or on behalf of the Secretary of State, Skills Development Scotland, Scottish Enterprise or Highlands and Islands Enterprise or the Welsh Ministers,
 
@@ -256,10 +256,10 @@ This scheme relates to the financial year beginning with 1st April 2013 and may 
 
 (1) In this scheme “couple” means—
 
-- (a)[^key-833ff5541b2321736d4e56f3ef6f004a] two people who are married to, or civil partners of, each other and who are members of the same household; or
+- (a)[^c-833ff5541b2321736d4e56f3ef6f004a] two people who are married to, or civil partners of, each other and who are members of the same household; or
 - (b) two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners.
 
-(2)[^key-9cbb3eef68fe1bc8854b8ece2f7c98f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9cbb3eef68fe1bc8854b8ece2f7c98f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 5. Polygamous marriages
 
@@ -713,14 +713,14 @@ less any deductions in respect of non-dependants which fall to be made under par
 
 (1) Subject to the following provisions of this paragraph, the non-dependant deductions in respect of a day referred to in paragraph 29 are—
 
-- (a) in respect of a non-dependant aged 18 or over in remunerative work, £10.95[^key-51375a44cb483428f1bfa28f28e614f5] x 1/7;
-- (b) in respect of a non-dependant aged 18 or over to whom paragraph (a) does not apply, £3.65[^key-d8a91dff37306d0440083b0d07c0a87f] x 1/7.
+- (a) in respect of a non-dependant aged 18 or over in remunerative work, £10.95[^c-51375a44cb483428f1bfa28f28e614f5] x 1/7;
+- (b) in respect of a non-dependant aged 18 or over to whom paragraph (a) does not apply, £3.65[^c-d8a91dff37306d0440083b0d07c0a87f] x 1/7.
 
 (2) In the case of a non-dependant aged 18 or over to whom sub-paragraph (1)(a) applies, where it is shown to the appropriate authority that his normal gross weekly income is—
 
-- (a) less than £186.00[^key-419c3acc2f57063ecedf0356981fcb0f], the deduction to be made under this paragraph is that specified in sub-paragraph (1)(b);
-- (b) not less than £186.00[^key-3302de2b18d40baddf8c30c01146932e] but less than £322.00, the deduction to be made under this paragraph is £7.25;
-- (c) not less than £322.00[^key-bba86690f24b99f71ef7bc9524d79dec] but less than £401.00, the deduction to be made under this paragraph is £9.15.
+- (a) less than £186.00[^c-419c3acc2f57063ecedf0356981fcb0f], the deduction to be made under this paragraph is that specified in sub-paragraph (1)(b);
+- (b) not less than £186.00[^c-3302de2b18d40baddf8c30c01146932e] but less than £322.00, the deduction to be made under this paragraph is £7.25;
+- (c) not less than £322.00[^c-bba86690f24b99f71ef7bc9524d79dec] but less than £401.00, the deduction to be made under this paragraph is £9.15.
 
 (3) Only one deduction is to be made under this paragraph in respect of a couple or, as the case may be, members of a polygamous marriage (other than where there is an award of universal credit) and, where, but for this paragraph, the amount that would fall to be deducted in respect of one member of a couple or polygamous marriage is higher than the amount (if any) that would fall to be deducted in respect of the other, or any other, member, the higher amount is to be deducted.
 
@@ -933,7 +933,7 @@ Where neither paragraph 35 (applicant in receipt of guarantee credit: pensioners
   - (x) Christmas bonus payable under Part 10 of that Act (Christmas bonus for pensioners);
   - (xi) housing benefit;
   - (xii) council tax benefit;
-  - (xiii)[^key-ad543fba0e8df6590086a992cbdde3dd] bereavement support payment under section 30 of the Pensions Act 2014;
+  - (xiii)[^c-ad543fba0e8df6590086a992cbdde3dd] bereavement support payment under section 30 of the Pensions Act 2014;
   - (xiv) statutory sick pay;
   - (xv) statutory maternity pay;
   - (xvi) ordinary statutory paternity pay payable under Part 12ZA of the SSCBA[^f00117];
@@ -1126,9 +1126,9 @@ Where neither paragraph 35 (applicant in receipt of guarantee credit: pensioners
   - (i) a local authority but excluding payments of housing benefit made in respect of the person concerned;
   - (ii) a voluntary organisation;
   - (iii) the person concerned pursuant to section 26(3A) of the National Assistance Act 1948[^f00133];
-  - (iv) NHS England[^key-0a3b3969b1bb4cb8affafcf4a1e30d24] or an integrated care board[^key-3a08b138214dc105bc612a3795718155] established under section 14D of the National Health Service Act 2006[^f00134]; or
+  - (iv) NHS England[^c-0a3b3969b1bb4cb8affafcf4a1e30d24] or an integrated care board[^c-3a08b138214dc105bc612a3795718155] established under section 14D of the National Health Service Act 2006[^f00134]; or
   - (v) a Local Health Board established under section 11 of the National Health Service (Wales) Act 2006[^f00135];
-  - (vi)[^key-8fb13c9abb100f652548b1063e3c0c87] the person concerned where the payment is for the provision of accommodation to meet that person’s needs for care and support arranged pursuant to section 35 or 36 of the Social Services and Well-being (Wales) Act 2014;
+  - (vi)[^c-8fb13c9abb100f652548b1063e3c0c87] the person concerned where the payment is for the provision of accommodation to meet that person’s needs for care and support arranged pursuant to section 35 or 36 of the Social Services and Well-being (Wales) Act 2014;
 - (e) any sports award.
 
 ##### 45. Notional income: pensioners
@@ -1143,16 +1143,16 @@ Where neither paragraph 35 (applicant in receipt of guarantee credit: pensioners
 (2) Sub-paragraph (1)(a) does not apply to the following where entitlement has been deferred—
 
 - (a) a Category A or Category B retirement pension payable under sections 43 to 55 of the SSCBA;
-- (b) a shared additional pension payable under section 55A or 55AA[^key-4d1223ca1683d2b42b8aab13210a77d2] of the SSCBA;
+- (b) a shared additional pension payable under section 55A or 55AA[^c-4d1223ca1683d2b42b8aab13210a77d2] of the SSCBA;
 - (c) graduated retirement benefit payable under sections 36 and 37 of the National Insurance Act 1965[^f00136];
-- (d)[^key-1db5004d92fe1c085137581ee6a26f6a] a state pension under Part 1 of the Pensions Act 2014.
+- (d)[^c-1db5004d92fe1c085137581ee6a26f6a] a state pension under Part 1 of the Pensions Act 2014.
 
 (3) For the purposes of sub-paragraph (2), entitlement has been deferred—
 
 - (a) in the case of a Category A or Category B pension, in the circumstances specified in section 55(3) of the SSCBA;
-- (b) in the case of a shared additional pension, in the circumstances specified in section 55C(3) of the SSCBA; [^key-7f5734b8bc3666144dc9ba40180e90ca]...
+- (b) in the case of a shared additional pension, in the circumstances specified in section 55C(3) of the SSCBA; [^c-7f5734b8bc3666144dc9ba40180e90ca]...
 - (c) in the case of graduated retirement benefit, in the circumstances specified in section 36(4) and (4A) of the National Insurance Act 1965;
-- (d)[^key-13cc5859fcc3bec38d0897b2e7855a23] in the case of a state pension under Part 1 of the Pensions Act 2014, in the circumstances specified in section 17(7) and (8) of that Act.
+- (d)[^c-13cc5859fcc3bec38d0897b2e7855a23] in the case of a state pension under Part 1 of the Pensions Act 2014, in the circumstances specified in section 17(7) and (8) of that Act.
 
 (4) This sub-paragraph applies where a person who has attained the qualifying age for state pension credit—
 
@@ -1171,13 +1171,13 @@ Where neither paragraph 35 (applicant in receipt of guarantee credit: pensioners
 
 (8) In sub-paragraph (4), “money purchase benefits” has the same meaning as in the Pension Schemes Act 1993.
 
-(9) Subject to sub-paragraphs (10) , (11A), (11B)[^key-7b0ef728507d5185a97da1993db436eb] and (12), a person is to be treated as possessing income of which he has deprived himself for the purpose of securing entitlement to a reduction under this scheme or increasing the amount of the reduction.
+(9) Subject to sub-paragraphs (10) , (11A), (11B)[^c-7b0ef728507d5185a97da1993db436eb] and (12), a person is to be treated as possessing income of which he has deprived himself for the purpose of securing entitlement to a reduction under this scheme or increasing the amount of the reduction.
 
 (10) Sub-paragraph (9) does not apply in respect of the amount of an increase of pension or benefit where a person, having made an election in favour of that increase of pension or benefit under Schedule 5 or 5A to the SSCBA or under Schedule 1 to the Social Security (Graduated Retirement Benefit) Regulations 2005[^f00137], changes that election in accordance with regulations made under Schedule 5 or 5A to that Act in favour of a lump sum.
 
 (11) In sub-paragraph (10), “lump sum” means a lump sum under Schedule 5 or 5A to the SSCBA or under Schedule 1 to the Social Security (Graduated Retirement Benefit) Regulations 2005.
 
-(11A)[^key-3ab1d7ef8cbae7a9b2b41af131280ce4] Sub-paragraph (9) does not apply in respect of the amount of an increase of pension where a person, having made a choice in favour of that increase of pension under section 8(2) of the Pensions Act 2014, alters that choice in accordance with Regulations made under section 8(7) of that Act in favour of a lump sum.
+(11A)[^c-3ab1d7ef8cbae7a9b2b41af131280ce4] Sub-paragraph (9) does not apply in respect of the amount of an increase of pension where a person, having made a choice in favour of that increase of pension under section 8(2) of the Pensions Act 2014, alters that choice in accordance with Regulations made under section 8(7) of that Act in favour of a lump sum.
 
 (11B) Sub-paragraph (9) does not apply in respect of the amount of an increase of pension where a person, having made a choice in favour of that increase of pension in accordance with Regulations made under section 10 of the Pensions Act 2014, which include provision corresponding or similar to section 8(2) of that Act, alters that choice in favour of a lump sum, in accordance with Regulations made under section 10 of that Act, which include provision corresponding or similar to Regulations made under section 8(7) of that Act.
 
@@ -1436,7 +1436,7 @@ any income which would become available to the applicant upon application being 
   - (v) in the Flexible New Deal specified in regulation 75(1)(a)(v) of those Regulations;
 - (d) in respect of a person’s participation in the Work for Your Benefit Pilot Scheme;
 - (e) in respect of a person’s participation in the Mandatory Work Activity Scheme;
-- (f) in respect of an applicant’s participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013[^key-49a939640cfc05cc165a061aae4dd9e2];
+- (f) in respect of an applicant’s participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013[^c-49a939640cfc05cc165a061aae4dd9e2];
 - (g) under an occupational pension scheme, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund where—
   - (i) a bankruptcy order has been made in respect of the person in respect of whom the payment has been made or, in Scotland, the estate of that person is subject to sequestration or a judicial factor has been appointed on that person’s estate under section 41 of the Solicitors (Scotland) Act 1980[^f00145];
   - (ii) the payment is made to the trustee in bankruptcy or any other person acting on behalf of the creditors; and
@@ -1600,7 +1600,7 @@ as the case may be.
   - (i) a suspension of benefit in accordance with regulations under section 113(2) of the SSCBA; or
   - (ii) an abatement as a consequence of hospitalisation;
 - (b) to whom the daily living component of personal independence payment is payable or would be payable but for a suspension of benefit in accordance with regulations under section 86 of the Welfare Reform Act 2012 (hospital in-patients);
-- (c) who is registered as blind in a register compiled under section 29 of the National Assistance Act 1948 (welfare services) [^key-9262730d2e5d4679cd003aeb1c840bfd]..., in Scotland, has been certified as blind and in consequence he is registered as blind in a register maintained by or on behalf of a council constituted under section 2 of the Local Government (Scotland) Act 1994 or is registered as severely sight-impaired in a register kept by a local authority in Wales under section 18(1) of the Social Services and Well-being (Wales) Act 2014;[^key-c871e24603888d1abc4f546ac6f17629] or
+- (c) who is registered as blind in a register compiled under section 29 of the National Assistance Act 1948 (welfare services) [^c-9262730d2e5d4679cd003aeb1c840bfd]..., in Scotland, has been certified as blind and in consequence he is registered as blind in a register maintained by or on behalf of a council constituted under section 2 of the Local Government (Scotland) Act 1994 or is registered as severely sight-impaired in a register kept by a local authority in Wales under section 18(1) of the Social Services and Well-being (Wales) Act 2014;[^c-c871e24603888d1abc4f546ac6f17629] or
 - (d) who ceased to be registered as blind in such a register within the period beginning 28 weeks before the first Monday in September following that person’s fifteenth birthday and ending on the day preceding that person’s sixteenth birthday.
 
 (15) For the purposes of sub-paragraph (1) a person on maternity leave, paternity leave or adoption leave is to be treated as if he is engaged in remunerative work for the period specified in sub-paragraph (16) (“the relevant period”) provided that—
@@ -1651,7 +1651,7 @@ In calculating the applicant’s income the authority may disregard any legislat
 - (a) in the basic or other rates of income tax;
 - (b) in the amount of any personal tax relief;
 - (c) in the rates of social security contributions payable under the SSCBA or in the lower earnings limit or upper earnings limit for Class 1 contributions under that Act, the lower or upper limits applicable to Class 4 contributions under that Act or the amount specified in section 11(4) of that Act (small earnings exception in relation to Class 2 contributions);
-- (d) in the amount of tax payable as a result of an increase in the weekly rate of Category A, B, C or D retirement pension or any addition thereto or any graduated pension payable under the SSCBA or a state pension under Part 1 of the Pensions Act 2014[^key-a5f2563bc742b0605a236c2f9e26e6e1];
+- (d) in the amount of tax payable as a result of an increase in the weekly rate of Category A, B, C or D retirement pension or any addition thereto or any graduated pension payable under the SSCBA or a state pension under Part 1 of the Pensions Act 2014[^c-a5f2563bc742b0605a236c2f9e26e6e1];
 - (e) in the maximum rate of child tax credit or working tax credit,
 
 for a period not exceeding 30 reduction weeks beginning with the reduction week immediately following the date from which the change is effective.
@@ -1846,7 +1846,7 @@ any capital which would become available to the applicant upon application being
   - (v) in the Flexible New Deal specified in regulation 75(1)(a)(v) of those Regulations;
 - (c) in respect of a person’s participation in the Work for Your Benefit Pilot Scheme;
 - (d) in respect of a person’s participation in the Mandatory Work Activity Scheme;
-- (e) in respect of an applicant’s participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013[^key-86c6a0d03f1640639b4ee499cc69f4ca];
+- (e) in respect of an applicant’s participation in a scheme prescribed in regulation 3 of the Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013[^c-86c6a0d03f1640639b4ee499cc69f4ca];
 - (f) under an occupational pension scheme, in respect of a pension or other periodical payment made under a personal pension scheme or a payment made by the Board of the Pension Protection Fund where—
   - (i) a bankruptcy order has been made in respect of the person in respect of whom the payment has been made or, in Scotland, the estate of that person is subject to sequestration or a judicial factor has been appointed on that person’s estate under section 41 of the Solicitors (Scotland) Act 1980;
   - (ii) the payment is made to the trustee in bankruptcy or any other person acting on behalf of the creditors; and
@@ -2043,10 +2043,10 @@ The capital of an applicant who is not a pensioner, calculated in accordance wit
 
 - “academic year” means the period of twelve months beginning on 1st January, 1st April, 1st July or 1st September according to whether the course in question begins in the winter, the spring, the summer or the autumn respectively but if students are required to begin attending the course during August or September and to continue attending through the autumn, the academic year of the course is to be considered to begin in the autumn rather than the summer;
 - “access funds” means—
-  - (a) grants made under section 68 of the Further and Higher Education Act 1992[^f00170] or section 74 of the Higher Education and Research Act 2017[^key-f5a3fd79e4450db6d7e009a1b215e48b] for the purpose of providing funds on a discretionary basis to be paid to students;
+  - (a) grants made under section 68 of the Further and Higher Education Act 1992[^f00170] or section 74 of the Higher Education and Research Act 2017[^c-f5a3fd79e4450db6d7e009a1b215e48b] for the purpose of providing funds on a discretionary basis to be paid to students;
   - (b) grants made under sections 73(a) and (c) and 74(1) of the Education (Scotland) Act 1980[^f00171];
   - (c) grants made under Article 30 of the Education and Libraries (Northern Ireland) Order 1993 or grants, loans or other payments made under Article 5 of the Further Education (Northern Ireland) Order 1997 in each case being grants, or grants, loans or other payments as the case may be, for the purpose of assisting students in financial difficulties;
-  - (d) discretionary payments, known as “learner support funds”, which are made available to students in further education by institutions out of funds provided by the Secretary of State under section 14 of the Education Act 2002 [^key-9b0a3be09044d6a4ef9c7017322922b9]... under sections 100 and 101 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00172]; or
+  - (d) discretionary payments, known as “learner support funds”, which are made available to students in further education by institutions out of funds provided by the Secretary of State under section 14 of the Education Act 2002 [^c-9b0a3be09044d6a4ef9c7017322922b9]... under sections 100 and 101 of the Apprenticeships, Skills, Children and Learning Act 2009[^f00172]; or
   - (e) Financial Contingency Funds made available by the Welsh Ministers;
 - “college of further education” means a college of further education within the meaning of Part 1 of the Further and Higher Education (Scotland) Act 1992;
 - “contribution” means—
@@ -2060,9 +2060,9 @@ The capital of an applicant who is not a pensioner, calculated in accordance wit
 - “covenant income” means the gross income payable to a full-time student under a Deed of Covenant by his parent;
 - “education authority” means a government department, a local authority as defined in section 579 of the Education Act 1996 (interpretation), a local education authority as defined in section 123 of the Local Government (Scotland) Act 1973, an education and library board established under Article 3 of the Education and Libraries (Northern Ireland) Order 1986, any body which is a research council for the purposes of the Science and Technology Act 1965 or any analogous government department, authority, board or body, of the Channel Islands, Isle of Man or any other country outside Great Britain;
 - “full-time course of study” means a full-time course of study which—
-  - (a) is not funded in whole or in part by the Secretary of State under section 14 of the Education Act 2002 or under section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^key-4e6723d661656a8541be25ffc0267c26] or by the Welsh Ministers or a full-time course of study which is not funded in whole or in part by the Scottish Ministers at a college of further education or a full-time course of study which is a course of higher education and is funded in whole or in part by the Scottish Ministers;
-  - (b) is funded in whole or in part by the Secretary of State under section 14 of the Education Act 2002 or under section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^key-7ff0ddce8ef904694a52d961dfee6b78] or by the Welsh Ministers if it involves more than 16 guided learning hours per week for the student in question, according to the number of guided learning hours per week for that student set out—
-    - (i) in the case of a course funded by the Secretary of State [^key-c1bd0feb39c166c6f2055c8084348ec7]..., in the student’s learning agreement signed on behalf of the establishment which is funded by the Secretary of State[^key-8a176a4b62cfce75da7c9fac4cc5ed23] for the delivery of that course; or
+  - (a) is not funded in whole or in part by the Secretary of State under section 14 of the Education Act 2002 or under section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^c-4e6723d661656a8541be25ffc0267c26] or by the Welsh Ministers or a full-time course of study which is not funded in whole or in part by the Scottish Ministers at a college of further education or a full-time course of study which is a course of higher education and is funded in whole or in part by the Scottish Ministers;
+  - (b) is funded in whole or in part by the Secretary of State under section 14 of the Education Act 2002 or under section 100 of the Apprenticeships, Skills, Children and Learning Act 2009[^c-7ff0ddce8ef904694a52d961dfee6b78] or by the Welsh Ministers if it involves more than 16 guided learning hours per week for the student in question, according to the number of guided learning hours per week for that student set out—
+    - (i) in the case of a course funded by the Secretary of State [^c-c1bd0feb39c166c6f2055c8084348ec7]..., in the student’s learning agreement signed on behalf of the establishment which is funded by the Secretary of State[^c-8a176a4b62cfce75da7c9fac4cc5ed23] for the delivery of that course; or
     - (ii) in the case of a course funded by the Welsh Ministers, in a document signed on behalf of the establishment which is funded by that Council for the delivery of that course; or
   - (c) is not higher education and is funded in whole or in part by the Scottish Ministers at a college of further education and involves—
     - (i) more than 16 hours per week of classroom-based or workshop-based programmed learning under the direct guidance of teaching staff according to the number of hours set out in a document signed on behalf of the college; or
@@ -2185,7 +2185,7 @@ whichever first occurs.
 - (g) intended to meet travel expenses incurred as a result of his attendance on the course;
 - (h) intended for the child care costs of a child dependant;
 - (i) of higher education bursary for care leavers made under Part 3 of the Children Act 1989;
-- (j)[^key-6bfd1914928a5984b30bca16c188c5b1] in Wales, of higher education bursary for category 3 and category 4 young persons made under section 110 or 112 of the Social Services and Well-being (Wales) Act 2014, in accordance with regulations made under section 116 of that Act.
+- (j)[^c-6bfd1914928a5984b30bca16c188c5b1] in Wales, of higher education bursary for category 3 and category 4 young persons made under section 110 or 112 of the Social Services and Well-being (Wales) Act 2014, in accordance with regulations made under section 116 of that Act.
 
 (2A) In sub-paragraph (2) “category 3 and category 4 young persons” have the meaning given in section 104(2) of the Social Services and Well-being (Wales) Act 2014.
 
@@ -2616,16 +2616,16 @@ the current authority must reduce any reduction to which the applicant is entitl
 
 (9) Without prejudice to sub-paragraph (8), where the change of circumstances is the payment of income, or arrears of income, in respect of a past period, the change of circumstances takes effect from the first day on which such income, had it been timeously paid in that period at intervals appropriate to that income, would have fallen to be taken into account for the purposes of this scheme.
 
-(10)[^key-187fc49ef8d8004d553e2acf9491e903] Sub-paragraph (11) applies if—
+(10)[^c-187fc49ef8d8004d553e2acf9491e903] Sub-paragraph (11) applies if—
 
 - (a) the applicant or his partner has attained the age of 65; and
 - (b) either—
   - (i) a non-dependant took up residence in the applicant’s dwelling; or
   - (ii) there has been a change of circumstances in respect of a non-dependant so that the amount of the deduction which falls to be made under paragraph 30 increased.
 
-(11)[^key-187fc49ef8d8004d553e2acf9491e903] Where this sub-paragraph applies, the change of circumstances referred to in sub-paragraph (10)(b) takes effect from the effective date.
+(11)[^c-187fc49ef8d8004d553e2acf9491e903] Where this sub-paragraph applies, the change of circumstances referred to in sub-paragraph (10)(b) takes effect from the effective date.
 
-(12)[^key-187fc49ef8d8004d553e2acf9491e903] In sub-paragraph (11), but subject to sub-paragraph (13), “the effective date” means—
+(12)[^c-187fc49ef8d8004d553e2acf9491e903] In sub-paragraph (11), but subject to sub-paragraph (13), “the effective date” means—
 
 - (a) where more than one change of a kind referred to in sub-paragraph (10)(b) relating to the same non-dependant has occurred since—
   - (i) the date on which the applicant’s entitlement to a reduction under this scheme first began; or
@@ -2634,7 +2634,7 @@ the current authority must reduce any reduction to which the applicant is entitl
   whichever is the later, the date which falls 26 weeks after the date on which the first such change occurred;
 - (b) where paragraph (a) does not apply, the date which falls 26 weeks after the date on which the change referred to in sub-paragraph (10)(b) occurred.
 
-(13)[^key-187fc49ef8d8004d553e2acf9491e903] If in any particular case the date determined under sub-paragraph (12) is not the first day of a reduction week, the effective date in that case is to be the first day of the next reduction week to commence after the date determined under that sub-paragraph.
+(13)[^c-187fc49ef8d8004d553e2acf9491e903] If in any particular case the date determined under sub-paragraph (12) is not the first day of a reduction week, the effective date in that case is to be the first day of the next reduction week to commence after the date determined under that sub-paragraph.
 
 #### 108. Change of circumstances where state pension credit in payment
 
@@ -2727,7 +2727,7 @@ that deputy, judicial factor, guardian or attorney, as the case may be, may make
 
 (6) Anything required by this scheme to be done by or to any person who is for the time being unable to act may be done by or to the persons mentioned in sub-paragraph (2) above or by or to the person appointed or treated as appointed under this paragraph and the receipt of any such person so appointed shall be a good discharge to the authority for any sum paid.
 
-(7)[^key-7ac943c66bc3a1469f6054be59150385] The authority must—
+(7)[^c-7ac943c66bc3a1469f6054be59150385] The authority must—
 
 - (a) inform any person making an application of the duty imposed by paragraph 115(1)(a);
 - (b) explain the possible consequences (including prosecution) of failing to comply with that duty; and
@@ -2991,7 +2991,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 ## Annotations
 
-[^key-b24206df7905e96c49fe49d53d41d01e]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/2886/schedule) in force at 18.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2886/regulation/1/1)
+[^c-b24206df7905e96c49fe49d53d41d01e]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2012/2886/schedule) in force at 18.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2886/regulation/1/1)
 
 [^f00002]: Footnote: [1996 c.18](https://www.legislation.gov.uk/ukpga/1996/18). Sections 75A and 75B were inserted by section 3 of the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22) and amended by the Work and Families Act [2006 (c.18)](https://www.legislation.gov.uk/ukpga/2006/18), Schedule 1, paragraphs 33 and 34.
 
@@ -3007,7 +3007,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00008]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-19d4370b1d81cb763fce2169109db66b]: Textual amendment: Words in [Sch. Scheme para. 2(1)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/2/1) substituted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/a)
+[^c-19d4370b1d81cb763fce2169109db66b]: Textual amendment: Words in [Sch. Scheme para. 2(1)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/2/1) substituted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/a)
 
 [^f00010]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14). Section 3 was amended by paragraphs 1 and 4 of Schedule 5 to the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14).
 
@@ -3029,7 +3029,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00019]: Footnote: Section 2(1)(a) was amended by the Income Tax (Earnings and Pensions) Act 2003, Schedule 6, paragraphs 169 and 171 (c.1).
 
-[^key-48c8282969f3aab323d3b3ddeff60225]: Textual amendment: Words in [Sch. Scheme para. 2](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/2) omitted (12.2.2013) by virtue of [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(a)(i)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/a/i)
+[^c-48c8282969f3aab323d3b3ddeff60225]: Textual amendment: Words in [Sch. Scheme para. 2](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/2) omitted (12.2.2013) by virtue of [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(a)(i)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/a/i)
 
 [^f00021]: Footnote: [1999 c.30](https://www.legislation.gov.uk/ukpga/1999/30).
 
@@ -3075,7 +3075,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00042]: Footnote: [1990 c.35](https://www.legislation.gov.uk/ukpga/1990/35).
 
-[^key-be6454215a6b6babd7aac2d9c8123b35]: Textual amendment: Words in [Sch. Scheme para. 2](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/2) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(a)(ii)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/a/ii)
+[^c-be6454215a6b6babd7aac2d9c8123b35]: Textual amendment: Words in [Sch. Scheme para. 2](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/2) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(a)(ii)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/a/ii)
 
 [^f00043]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -3103,7 +3103,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00055]: Footnote: [2002 c.16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-e4e2155a6c5295be1edd8e40152ead21]: Textual amendment: Words in [Sch. Scheme para. 2(1)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/2/1) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/2)
+[^c-e4e2155a6c5295be1edd8e40152ead21]: Textual amendment: Words in [Sch. Scheme para. 2(1)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/2/1) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(2)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/2)
 
 [^f00056]: Footnote: [1973 c.50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by the Employment Act [1988 (c.19)](https://www.legislation.gov.uk/ukpga/1988/19), section 25 and amended by the Employment Act [1989 (c.38)](https://www.legislation.gov.uk/ukpga/1989/38), Schedule 7, Part 1.
 
@@ -3131,9 +3131,9 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00068]: Footnote: See paragraphs 16 to 18 of this scheme.
 
-[^key-833ff5541b2321736d4e56f3ef6f004a]: Textual amendment: [Sch. Scheme para. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/4/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/4/1/b) substituted for [Sch. Scheme](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme) para. 4(1)(a)-(d) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 96(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/96/a)
+[^c-833ff5541b2321736d4e56f3ef6f004a]: Textual amendment: [Sch. Scheme para. 4(1)(a)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/4/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/4/1/b) substituted for [Sch. Scheme](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme) para. 4(1)(a)-(d) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 96(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/96/a)
 
-[^key-9cbb3eef68fe1bc8854b8ece2f7c98f4]: Textual amendment: [Sch. Scheme para. 4(2)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/4/2) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 96(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/96/b)
+[^c-9cbb3eef68fe1bc8854b8ece2f7c98f4]: Textual amendment: [Sch. Scheme para. 4(2)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/4/2) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 96(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/96/b)
 
 [^f00069]: Footnote: Section 145A inserted by the Tax Credits Act [2002 (c.21)](https://www.legislation.gov.uk/ukpga/2002/21), section 55(1).
 
@@ -3217,15 +3217,15 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00109]: Footnote: [2012 c.5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-51375a44cb483428f1bfa28f28e614f5]: Textual amendment: Sum in [Sch. Scheme para. 30(1)(a)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/1/a) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/a)
+[^c-51375a44cb483428f1bfa28f28e614f5]: Textual amendment: Sum in [Sch. Scheme para. 30(1)(a)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/1/a) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/a)
 
-[^key-d8a91dff37306d0440083b0d07c0a87f]: Textual amendment: Sum in [Sch. Scheme para. 30(1)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/1/b) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/b)
+[^c-d8a91dff37306d0440083b0d07c0a87f]: Textual amendment: Sum in [Sch. Scheme para. 30(1)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/1/b) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/b)
 
-[^key-419c3acc2f57063ecedf0356981fcb0f]: Textual amendment: Sum in [Sch. Scheme para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/2/a) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/c)
+[^c-419c3acc2f57063ecedf0356981fcb0f]: Textual amendment: Sum in [Sch. Scheme para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/2/a) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/c)
 
-[^key-3302de2b18d40baddf8c30c01146932e]: Textual amendment: Sums in [Sch. Scheme para. 30(2)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/2/b) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/d)
+[^c-3302de2b18d40baddf8c30c01146932e]: Textual amendment: Sums in [Sch. Scheme para. 30(2)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/2/b) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/d)
 
-[^key-bba86690f24b99f71ef7bc9524d79dec]: Textual amendment: Sums in [Sch. Scheme para. 30(2)(c)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/2/c) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/e)
+[^c-bba86690f24b99f71ef7bc9524d79dec]: Textual amendment: Sums in [Sch. Scheme para. 30(2)(c)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/30/2/c) substituted (10.1.2013) by [The Council Tax Reduction Schemes (Prescribed Requirements and Default Scheme) (England) (Amendment) Regulations 2012 (S.I. 2012/3085)](https://www.legislation.gov.uk/uksi/2012/3085), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3085/regulation/1), [8(e)](https://www.legislation.gov.uk/uksi/2012/3085/regulation/8/e)
 
 [^f00110]: Footnote: As to which, see paragraphs 13 and 16 respectively.
 
@@ -3241,7 +3241,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00116]: Footnote: See paragraph 71 for the calculation of income from capital so far as relating to pensioners.
 
-[^key-ad543fba0e8df6590086a992cbdde3dd]: Textual amendment: [Sch. Scheme para. 39(1)(j)(xiii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/39/1/j/xiii) substituted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [42](https://www.legislation.gov.uk/uksi/2017/422/article/42) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
+[^c-ad543fba0e8df6590086a992cbdde3dd]: Textual amendment: [Sch. Scheme para. 39(1)(j)(xiii)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/39/1/j/xiii) substituted (6.4.2017) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017 (S.I. 2017/422)](https://www.legislation.gov.uk/uksi/2017/422), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [42](https://www.legislation.gov.uk/uksi/2017/422/article/42) (with [arts. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2), [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)); [S.I. 2017/297](https://www.legislation.gov.uk/uksi/2017/297), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2017/297/article/3/1/b)
 
 [^f00117]: Footnote: Part 12ZA was inserted by section 2 and Part 12ZB was inserted by section 4 of the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22).
 
@@ -3277,31 +3277,31 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00133]: Footnote: [1948 c.29](https://www.legislation.gov.uk/ukpga/1948/29); section 26(3A) was inserted by section 42(4) of the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19).
 
-[^key-0a3b3969b1bb4cb8affafcf4a1e30d24]: Textual amendment: Words in [Sch. Scheme para. 44(2)(d)(iv)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/44/2/d/iv) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [55(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/55/2)
+[^c-0a3b3969b1bb4cb8affafcf4a1e30d24]: Textual amendment: Words in [Sch. Scheme para. 44(2)(d)(iv)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/44/2/d/iv) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [55(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/55/2)
 
-[^key-3a08b138214dc105bc612a3795718155]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2886) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-3a08b138214dc105bc612a3795718155]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2886) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^f00134]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). The Commissioning Board is established under section 1H of that Act (inserted by section 9 of the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7)); section 14D was inserted by section 25 of the 2012 Act.
 
 [^f00135]: Footnote: [2006 c.42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-8fb13c9abb100f652548b1063e3c0c87]: Textual amendment: [Sch. Scheme para. 44(2)(d)(vi)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/44/2/d/vi) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 139(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/139/2)
+[^c-8fb13c9abb100f652548b1063e3c0c87]: Textual amendment: [Sch. Scheme para. 44(2)(d)(vi)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/44/2/d/vi) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 139(2)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/139/2)
 
-[^key-4d1223ca1683d2b42b8aab13210a77d2]: Textual amendment: Words in [Sch. Scheme para. 45(2)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/2/b) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/i)
+[^c-4d1223ca1683d2b42b8aab13210a77d2]: Textual amendment: Words in [Sch. Scheme para. 45(2)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/2/b) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(i)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/i)
 
 [^f00136]: Footnote: [1965 c.51](https://www.legislation.gov.uk/ukpga/1965/51).
 
-[^key-1db5004d92fe1c085137581ee6a26f6a]: Textual amendment: [Sch. Scheme para. 45(2)(d)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/2/d) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/ii)
+[^c-1db5004d92fe1c085137581ee6a26f6a]: Textual amendment: [Sch. Scheme para. 45(2)(d)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/2/d) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/ii)
 
-[^key-7f5734b8bc3666144dc9ba40180e90ca]: Textual amendment: Word in [Sch. Scheme para. 45(3)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/3/b) omitted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/iii)
+[^c-7f5734b8bc3666144dc9ba40180e90ca]: Textual amendment: Word in [Sch. Scheme para. 45(3)(b)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/3/b) omitted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by virtue of [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/iii)
 
-[^key-13cc5859fcc3bec38d0897b2e7855a23]: Textual amendment: [Sch. Scheme para. 45(3)(d)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/3/d) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/iv)
+[^c-13cc5859fcc3bec38d0897b2e7855a23]: Textual amendment: [Sch. Scheme para. 45(3)(d)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/3/d) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/iv)
 
-[^key-7b0ef728507d5185a97da1993db436eb]: Textual amendment: Words in [Sch. Scheme para. 45(9)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/9) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(v)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/v)
+[^c-7b0ef728507d5185a97da1993db436eb]: Textual amendment: Words in [Sch. Scheme para. 45(9)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/9) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(v)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/v)
 
 [^f00137]: Footnote: [S.I. 2005/454](https://www.legislation.gov.uk/uksi/2005/454).
 
-[^key-3ab1d7ef8cbae7a9b2b41af131280ce4]: Textual amendment: [Sch. Scheme para. 45(11A)-(11D)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/11A) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/vi)
+[^c-3ab1d7ef8cbae7a9b2b41af131280ce4]: Textual amendment: [Sch. Scheme para. 45(11A)-(11D)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/45/11A) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/b/vi)
 
 [^f00138]: Footnote: [2004 c.12](https://www.legislation.gov.uk/ukpga/2004/12).
 
@@ -3317,7 +3317,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00144]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
-[^key-49a939640cfc05cc165a061aae4dd9e2]: Textual amendment: Words in [Sch. Scheme para. 56(4)(f)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/56/4/f) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/b)
+[^c-49a939640cfc05cc165a061aae4dd9e2]: Textual amendment: Words in [Sch. Scheme para. 56(4)(f)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/56/4/f) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/b)
 
 [^f00145]: Footnote: [1980 c.46](https://www.legislation.gov.uk/ukpga/1980/46).
 
@@ -3351,15 +3351,15 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00160]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265).
 
-[^key-9262730d2e5d4679cd003aeb1c840bfd]: Textual amendment: Word in [Sch. Scheme para. 58(14)(c)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/58/14/c) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 139(3)(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/139/3/a)
+[^c-9262730d2e5d4679cd003aeb1c840bfd]: Textual amendment: Word in [Sch. Scheme para. 58(14)(c)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/58/14/c) omitted (6.4.2016) by virtue of [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 139(3)(a)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/139/3/a)
 
-[^key-c871e24603888d1abc4f546ac6f17629]: Textual amendment: Words in [Sch. Scheme para. 58(14)(c)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/58/14/c) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 139(3)(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/139/3/b)
+[^c-c871e24603888d1abc4f546ac6f17629]: Textual amendment: Words in [Sch. Scheme para. 58(14)(c)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/58/14/c) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 139(3)(b)](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/139/3/b)
 
 [^f00161]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); section 164 was amended by paragraph 12 of the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2) and section 20 of, and paragraph 6 of Schedule 7 and paragraph 1 of Schedule 8 to, the Employment Act [2002 (c.22)](https://www.legislation.gov.uk/ukpga/2002/22).
 
 [^f00162]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); Schedule 1B was inserted by [S.I. 1996/206](https://www.legislation.gov.uk/uksi/1996/206).
 
-[^key-a5f2563bc742b0605a236c2f9e26e6e1]: Textual amendment: Words in [Sch. Scheme para. 60(d)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/60/d) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(c)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/c)
+[^c-a5f2563bc742b0605a236c2f9e26e6e1]: Textual amendment: Words in [Sch. Scheme para. 60(d)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/60/d) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [40(2)(c)](https://www.legislation.gov.uk/uksi/2015/1985/article/40/2/c)
 
 [^f00163]: Footnote: [S.I. 1975/529](https://www.legislation.gov.uk/uksi/1975/529).
 
@@ -3367,7 +3367,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00165]: Footnote: See paragraph 22A for the capital limit for eligibility of £16,000.
 
-[^key-86c6a0d03f1640639b4ee499cc69f4ca]: Textual amendment: Words in [Sch. Scheme para. 67(6)(e)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/67/6/e) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/b)
+[^c-86c6a0d03f1640639b4ee499cc69f4ca]: Textual amendment: Words in [Sch. Scheme para. 67(6)(e)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/67/6/e) substituted (12.2.2013) by [The Jobseeker's Allowance (Schemes for Assisting Persons to Obtain Employment) Regulations 2013 (S.I. 2013/276)](https://www.legislation.gov.uk/uksi/2013/276), [regs. 1](https://www.legislation.gov.uk/uksi/2013/276/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2013/276/regulation/16/b)
 
 [^f00166]: Footnote: See Chapters 1 and 7 of Part 10 in particular, and the capital to be disregarded in accordance with Schedule 9.
 
@@ -3379,21 +3379,21 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00170]: Footnote: [1992 c.13](https://www.legislation.gov.uk/ukpga/1992/13).
 
-[^key-f5a3fd79e4450db6d7e009a1b215e48b]: Textual amendment: Words in [Sch. Scheme para. 73(1)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73/1) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [35(2)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/35/2)
+[^c-f5a3fd79e4450db6d7e009a1b215e48b]: Textual amendment: Words in [Sch. Scheme para. 73(1)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73/1) inserted (1.8.2019) by [The Higher Education and Research Act 2017 (Further Implementation etc.) Regulations 2019 (S.I. 2019/1027)](https://www.legislation.gov.uk/uksi/2019/1027), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1027/regulation/1), [35(2)](https://www.legislation.gov.uk/uksi/2019/1027/regulation/35/2)
 
 [^f00171]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44).
 
-[^key-9b0a3be09044d6a4ef9c7017322922b9]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/a)
+[^c-9b0a3be09044d6a4ef9c7017322922b9]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(a)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/a)
 
 [^f00172]: Footnote: [2009 c.22](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-4e6723d661656a8541be25ffc0267c26]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/b/i)
+[^c-4e6723d661656a8541be25ffc0267c26]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(b)(i)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/b/i)
 
-[^key-7ff0ddce8ef904694a52d961dfee6b78]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/b/ii)
+[^c-7ff0ddce8ef904694a52d961dfee6b78]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/b/ii)
 
-[^key-c1bd0feb39c166c6f2055c8084348ec7]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/b/iii/aa)
+[^c-c1bd0feb39c166c6f2055c8084348ec7]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) omitted (26.5.2015) by virtue of [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/b/iii/aa)
 
-[^key-8a176a4b62cfce75da7c9fac4cc5ed23]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/b/iii/bb)
+[^c-8a176a4b62cfce75da7c9fac4cc5ed23]: Textual amendment: Words in [Sch. Scheme para. 73](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/73) substituted (26.5.2015) by [The Deregulation Act 2015 (Consequential Amendments) Order 2015 (S.I. 2015/971)](https://www.legislation.gov.uk/uksi/2015/971), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2015/971/article/1/2/a), [Sch. 3 para. 24(3)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2015/971/schedule/3/paragraph/24/3/b/iii/bb)
 
 [^f00173]: Footnote: [S.I. 2003/1994](https://www.legislation.gov.uk/uksi/2003/1994); relevant amending instrument is [S.I. 2008/1477](https://www.legislation.gov.uk/uksi/2008/1477).
 
@@ -3403,7 +3403,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00176]: Footnote: [1988 c.40](https://www.legislation.gov.uk/ukpga/1988/40).
 
-[^key-6bfd1914928a5984b30bca16c188c5b1]: Textual amendment: [Sch. Sch](https://www.legislation.gov.uk/uksi/2012/2886/schedule/schedule)eme para. 76(2)(j)(2A) inserted (6.4.2016) by The Social Services and Well-being (Wales) [Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/uksi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/211/regulation/1/2), [Sch. 3 para. 139(4)](https://www.legislation.gov.uk/uksi/2016/211/schedule/3/paragraph/139/4)
+[^c-6bfd1914928a5984b30bca16c188c5b1]: Textual amendment: [Sch. Sch](https://www.legislation.gov.uk/uksi/2012/2886/schedule/schedule)eme para. 76(2)(j)(2A) inserted (6.4.2016) by The Social Services and Well-being (Wales) [Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/uksi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/211/regulation/1/2), [Sch. 3 para. 139(4)](https://www.legislation.gov.uk/uksi/2016/211/schedule/3/paragraph/139/4)
 
 [^f00177]: Footnote: [1998 c.30](https://www.legislation.gov.uk/ukpga/1998/30).
 
@@ -3413,7 +3413,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00180]: Footnote: Section 11A was inserted by section 75(1) of the Local Government Act [2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26).
 
-[^key-187fc49ef8d8004d553e2acf9491e903]: Modification: [Sch. Scheme para. 107(10)-(13)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/107/10) modified (6.3.2013 with application for the purposes of the commencement of schemes on 1.4.2013) by [The Council Tax Reduction Schemes (Transitional Provision) (England) Regulations 2013 (S.I. 2013/215)](https://www.legislation.gov.uk/uksi/2013/215), [regs. 1](https://www.legislation.gov.uk/uksi/2013/215/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/215/regulation/4/2/a)
+[^c-187fc49ef8d8004d553e2acf9491e903]: Modification: [Sch. Scheme para. 107(10)-(13)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/107/10) modified (6.3.2013 with application for the purposes of the commencement of schemes on 1.4.2013) by [The Council Tax Reduction Schemes (Transitional Provision) (England) Regulations 2013 (S.I. 2013/215)](https://www.legislation.gov.uk/uksi/2013/215), [regs. 1](https://www.legislation.gov.uk/uksi/2013/215/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/215/regulation/4/2/a)
 
 [^f00181]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
@@ -3421,7 +3421,7 @@ it may make a payment to him of the amount of reduction to which he is entitled,
 
 [^f00183]: Footnote: [1985 c.29](https://www.legislation.gov.uk/ukpga/1985/29).
 
-[^key-7ac943c66bc3a1469f6054be59150385]: Modification: [Sch. Scheme para. 109(7)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/109/7) excluded (6.3.2013 with application for the purposes of the commencement of schemes on 1.4.2013) by [The Council Tax Reduction Schemes (Transitional Provision) (England) Regulations 2013 (S.I. 2013/215)](https://www.legislation.gov.uk/uksi/2013/215), [regs. 1](https://www.legislation.gov.uk/uksi/2013/215/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/215/regulation/4/2/b)
+[^c-7ac943c66bc3a1469f6054be59150385]: Modification: [Sch. Scheme para. 109(7)](https://www.legislation.gov.uk/uksi/2012/2886/schedule/Scheme/paragraph/109/7) excluded (6.3.2013 with application for the purposes of the commencement of schemes on 1.4.2013) by [The Council Tax Reduction Schemes (Transitional Provision) (England) Regulations 2013 (S.I. 2013/215)](https://www.legislation.gov.uk/uksi/2013/215), [regs. 1](https://www.legislation.gov.uk/uksi/2013/215/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/215/regulation/4/2/b)
 
 [^f00184]: Footnote: As to which, see paragraph 21.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Commission decision making and delegation[^key-478f351e026efcd950287d40f92e4497]
+## 57. Commission decision making and delegation[^c-478f351e026efcd950287d40f92e4497]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-478f351e026efcd950287d40f92e4497]: Commencement: S. 57 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-478f351e026efcd950287d40f92e4497]: Commencement: S. 57 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

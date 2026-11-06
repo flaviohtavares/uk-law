@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12D. Administration of funds by the Council for national training programmes[^key-feaa7f723618ebbdab5b7214449aac3d]
+## 12D. Administration of funds by the Council for national training programmes[^c-feaa7f723618ebbdab5b7214449aac3d]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feaa7f723618ebbdab5b7214449aac3d]: Textual amendment: [Ss. 12C](https://www.legislation.gov.uk/asp/2005/6/section/12C), [12D](https://www.legislation.gov.uk/asp/2005/6/section/12D) and cross-heading inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 10(3)](https://www.legislation.gov.uk/asp/2026/5/section/10/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)
+[^c-feaa7f723618ebbdab5b7214449aac3d]: Textual amendment: [Ss. 12C](https://www.legislation.gov.uk/asp/2005/6/section/12C), [12D](https://www.legislation.gov.uk/asp/2005/6/section/12D) and cross-heading inserted (1.10.2026) by [Tertiary Education and Training (Funding and Governance) (Scotland) Act 2026 (asp 5)](https://www.legislation.gov.uk/asp/2026/5), [ss. 10(3)](https://www.legislation.gov.uk/asp/2026/5/section/10/3), [39(2)](https://www.legislation.gov.uk/asp/2026/5/section/39/2); [S.S.I. 2026/261](https://www.legislation.gov.uk/ssi/2026/261), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/261/regulation/2/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/261/schedule/part/1)

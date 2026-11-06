@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Use of exclusion grounds and selection criteria provided for under the Public Contracts (Scotland) Regulations[^key-da5f56f331c65d679428bb2fa2bfe8d2][^key-e2ffb03c545c0abf4a852f7889360dad]
+## 78. Use of exclusion grounds and selection criteria provided for under the Public Contracts (Scotland) Regulations[^c-da5f56f331c65d679428bb2fa2bfe8d2][^c-e2ffb03c545c0abf4a852f7889360dad]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da5f56f331c65d679428bb2fa2bfe8d2]: Commencement: [Reg. 78](https://www.legislation.gov.uk/ssi/2016/49/regulation/78) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-da5f56f331c65d679428bb2fa2bfe8d2]: Commencement: [Reg. 78](https://www.legislation.gov.uk/ssi/2016/49/regulation/78) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
-[^key-e2ffb03c545c0abf4a852f7889360dad]: Modification: Reg. 78 modified (18.4.2016) by [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50), [Sch. 3 para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2013/50/schedule/3/paragraph/10/2/b) (as substituted by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/b))
+[^c-e2ffb03c545c0abf4a852f7889360dad]: Modification: Reg. 78 modified (18.4.2016) by [S.S.I. 2013/50](https://www.legislation.gov.uk/ssi/2013/50), [Sch. 3 para. 10(2)(b)](https://www.legislation.gov.uk/ssi/2013/50/schedule/3/paragraph/10/2/b) (as substituted by [The Utilities Contracts (Scotland) Regulations 2016 (S.S.I. 2016/49)](https://www.legislation.gov.uk/ssi/2016/49), [reg. 1](https://www.legislation.gov.uk/ssi/2016/49/regulation/1), [sch. 3 para. 3(2)(b)](https://www.legislation.gov.uk/ssi/2016/49/schedule/3/paragraph/3/2/b))

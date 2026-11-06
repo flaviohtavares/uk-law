@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 288. “Insolvent estate”[^key-a0b7083207540fd2205418c1955dde93]
+## 288. “Insolvent estate”[^c-a0b7083207540fd2205418c1955dde93]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ References to “the insolvent estate” are to the assets of the bank.
 
 ## Annotations
 
-[^key-a0b7083207540fd2205418c1955dde93]: Commencement: Rule 288 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-a0b7083207540fd2205418c1955dde93]: Commencement: Rule 288 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

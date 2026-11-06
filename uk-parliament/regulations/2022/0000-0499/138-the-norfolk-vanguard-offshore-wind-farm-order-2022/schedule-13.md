@@ -22,7 +22,7 @@ summary: ''
 
 Article 35
 
-### PART 1 — Removal of Potentially Important Hedgerows[^key-b6bbbd274aeabd449dab5733ebd52793]
+### PART 1 — Removal of Potentially Important Hedgerows[^c-b6bbbd274aeabd449dab5733ebd52793]
 
 <table>
 <thead>
@@ -211,7 +211,7 @@ Article 35
 </tbody>
 </table>
 
-### PART 2 — Removal of Important Hedgerows[^key-8dce37df2bb4e95af686e3250099ee8e]
+### PART 2 — Removal of Important Hedgerows[^c-8dce37df2bb4e95af686e3250099ee8e]
 
 <table>
 <thead>
@@ -320,7 +320,7 @@ Article 35
 </tbody>
 </table>
 
-### PART 3 — Removal of Hedgerows[^key-1c13686d422d555a7971761c66bda260]
+### PART 3 — Removal of Hedgerows[^c-1c13686d422d555a7971761c66bda260]
 
 <table>
 <thead>
@@ -373,8 +373,8 @@ Article 35
 
 ## Annotations
 
-[^key-b6bbbd274aeabd449dab5733ebd52793]: Commencement: Sch. 13 Pt. 1 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-b6bbbd274aeabd449dab5733ebd52793]: Commencement: Sch. 13 Pt. 1 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
-[^key-8dce37df2bb4e95af686e3250099ee8e]: Commencement: Sch. 13 Pt. 2 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-8dce37df2bb4e95af686e3250099ee8e]: Commencement: Sch. 13 Pt. 2 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
 
-[^key-1c13686d422d555a7971761c66bda260]: Commencement: Sch. 13 Pt. 3 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-1c13686d422d555a7971761c66bda260]: Commencement: Sch. 13 Pt. 3 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)

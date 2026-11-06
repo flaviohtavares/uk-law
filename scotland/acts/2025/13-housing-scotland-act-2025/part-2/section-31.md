@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Protected tenancies and statutory tenancies: duty to consider delay to eviction[^key-e816d32d9fc18d0861aac5e17a10537e]
+## 31. Protected tenancies and statutory tenancies: duty to consider delay to eviction[^c-e816d32d9fc18d0861aac5e17a10537e]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e816d32d9fc18d0861aac5e17a10537e]: Commencement: S. 31 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-e816d32d9fc18d0861aac5e17a10537e]: Commencement: S. 31 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)

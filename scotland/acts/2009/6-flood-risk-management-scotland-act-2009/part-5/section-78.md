@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. SEPA's power to obtain information about land[^key-1eabfd1e408c7ef8a8fa6064676fcb19][^key-963cc113b830c5b401621286b88daaa6]
+## 78. SEPA's power to obtain information about land[^c-1eabfd1e408c7ef8a8fa6064676fcb19][^c-963cc113b830c5b401621286b88daaa6]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1eabfd1e408c7ef8a8fa6064676fcb19]: Textual amendment: [S. 78](https://www.legislation.gov.uk/asp/2009/6/section/78) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 44](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/44); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-1eabfd1e408c7ef8a8fa6064676fcb19]: Textual amendment: [S. 78](https://www.legislation.gov.uk/asp/2009/6/section/78) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 44](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/44); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-963cc113b830c5b401621286b88daaa6]: Commencement: S. 78 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-963cc113b830c5b401621286b88daaa6]: Commencement: S. 78 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

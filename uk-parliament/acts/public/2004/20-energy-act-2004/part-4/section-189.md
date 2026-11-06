@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Power to modify Petroleum Act 1998[^key-2508f1a4a1a852a52211a9e6ea648a39][^key-e3fbf9874d0e06ac672993772902d700]
+## 189. Power to modify Petroleum Act 1998[^c-2508f1a4a1a852a52211a9e6ea648a39][^c-e3fbf9874d0e06ac672993772902d700]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2508f1a4a1a852a52211a9e6ea648a39]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2004/20/section/189) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-2508f1a4a1a852a52211a9e6ea648a39]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2004/20/section/189) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)
+[^c-e3fbf9874d0e06ac672993772902d700]: Modification: Ss. 171-196: power to apply (with modifications) conferred (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l), [Sch. 18 para. 50](https://www.legislation.gov.uk/ukpga/2023/52/schedule/18/paragraph/50)

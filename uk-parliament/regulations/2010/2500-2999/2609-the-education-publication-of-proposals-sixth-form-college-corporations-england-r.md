@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The Education (Publication of Proposals) (Sixth Form College Corporations) (England) Regulations 2010 (revoked)[^key-78da8b93f52919f2b5b387353325a5be]
+The Education (Publication of Proposals) (Sixth Form College Corporations) (England) Regulations 2010 (revoked)[^c-78da8b93f52919f2b5b387353325a5be]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 24th November 2010
 
-[^key-78da8b93f52919f2b5b387353325a5be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78da8b93f52919f2b5b387353325a5be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and application[^key-78da8b93f52919f2b5b387353325a5be]
+## 1. Citation, commencement, interpretation and application[^c-78da8b93f52919f2b5b387353325a5be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Information to be contained in proposals to establish sixth form college corporations[^key-78da8b93f52919f2b5b387353325a5be]
+## 2. Information to be contained in proposals to establish sixth form college corporations[^c-78da8b93f52919f2b5b387353325a5be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Information to be contained in proposals to dissolve sixth form college corporations[^key-78da8b93f52919f2b5b387353325a5be]
+## 3. Information to be contained in proposals to dissolve sixth form college corporations[^c-78da8b93f52919f2b5b387353325a5be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Time and manner of publication of proposals to establish or dissolve sixth form college corporations[^key-78da8b93f52919f2b5b387353325a5be]
+## 4. Time and manner of publication of proposals to establish or dissolve sixth form college corporations[^c-78da8b93f52919f2b5b387353325a5be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Period for making representations[^key-78da8b93f52919f2b5b387353325a5be]
+## 5. Period for making representations[^c-78da8b93f52919f2b5b387353325a5be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-78da8b93f52919f2b5b387353325a5be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78da8b93f52919f2b5b387353325a5be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Information to be contained in proposals to establish or dissolve sixth form college corporations[^key-78da8b93f52919f2b5b387353325a5be]
+## SCHEDULE — Information to be contained in proposals to establish or dissolve sixth form college corporations[^c-78da8b93f52919f2b5b387353325a5be]
 
 Regulations 2 and 3
 
-### PART 1[^key-78da8b93f52919f2b5b387353325a5be]
+### PART 1[^c-78da8b93f52919f2b5b387353325a5be]
 
-**1.**[^key-78da8b93f52919f2b5b387353325a5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-78da8b93f52919f2b5b387353325a5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-78da8b93f52919f2b5b387353325a5be]
+### PART 2[^c-78da8b93f52919f2b5b387353325a5be]
 
-**1.**[^key-78da8b93f52919f2b5b387353325a5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-78da8b93f52919f2b5b387353325a5be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-78da8b93f52919f2b5b387353325a5be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-78da8b93f52919f2b5b387353325a5be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-78da8b93f52919f2b5b387353325a5be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2609) revoked (22.5.2012) by [The Sixth Form College Corporations (Publication of Proposals) (England) Regulations 2012 (S.I. 2012/1158)](https://www.legislation.gov.uk/uksi/2012/1158), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/2/2))
+[^c-78da8b93f52919f2b5b387353325a5be]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/2609) revoked (22.5.2012) by [The Sixth Form College Corporations (Publication of Proposals) (England) Regulations 2012 (S.I. 2012/1158)](https://www.legislation.gov.uk/uksi/2012/1158), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/1/1), [2(1)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/2/1) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2012/1158/regulation/2/2))

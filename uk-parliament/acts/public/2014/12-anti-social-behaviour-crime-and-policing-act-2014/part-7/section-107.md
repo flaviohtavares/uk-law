@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Whether a dog is a danger to public safety[^key-13426720e85df8551df2705789ecfe96]
+## 107. Whether a dog is a danger to public safety[^c-13426720e85df8551df2705789ecfe96]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13426720e85df8551df2705789ecfe96]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2014/12/section/107) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/7)
+[^c-13426720e85df8551df2705789ecfe96]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2014/12/section/107) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/7)

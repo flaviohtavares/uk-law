@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Duty to provide information or intelligence[^key-eb6c5bca6da0593a453294ff27fc59fa]
+## 54. Duty to provide information or intelligence[^c-eb6c5bca6da0593a453294ff27fc59fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb6c5bca6da0593a453294ff27fc59fa]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2014/3141/part/5) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [43](https://www.legislation.gov.uk/uksi/2019/742/regulation/43) (with [regs. 42(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/42/2), [44-47](https://www.legislation.gov.uk/uksi/2019/742/regulation/44)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [15-18](https://www.legislation.gov.uk/uksi/2020/1408/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb6c5bca6da0593a453294ff27fc59fa]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2014/3141/part/5) revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [43](https://www.legislation.gov.uk/uksi/2019/742/regulation/43) (with [regs. 42(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/42/2), [44-47](https://www.legislation.gov.uk/uksi/2019/742/regulation/44)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [15-18](https://www.legislation.gov.uk/uksi/2020/1408/regulation/15)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

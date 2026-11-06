@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Recommendation following transition review[^key-dc68a8dc60108bd892ea7da55f232855]
+## 100. Recommendation following transition review[^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
 (1) The TRA must make a recommendation to the Secretary of State following a transition review to vary or revoke the application of the anti-dumping amount or the countervailing amount to the relevant goods.
 
-(1A)[^key-35c4c2c9037dfd1fd21f33f02cbc7b89] Where the TRA makes a recommendation to vary under paragraph (1) and considers that there are two or more options which it could recommend, it may give the Secretary of State each of those options as part of its recommendation.
+(1A)[^c-35c4c2c9037dfd1fd21f33f02cbc7b89] Where the TRA makes a recommendation to vary under paragraph (1) and considers that there are two or more options which it could recommend, it may give the Secretary of State each of those options as part of its recommendation.
 
 (1B) The TRA must consider whether it could give the Secretary of State two or more options as part of its recommendation to vary under paragraph (1)—
 
@@ -49,12 +49,12 @@ summary: ''
   - (iii) a summary of the review;
   - (iv) the reasons for the recommendation.
 
-(3)[^key-cd5ad7ce5faf5c85b7e7e83e94670aa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-cd5ad7ce5faf5c85b7e7e83e94670aa1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
+[^c-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
 
-[^key-35c4c2c9037dfd1fd21f33f02cbc7b89]: Textual amendment: Reg. 100(1A)-(1E) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [31(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/31/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-35c4c2c9037dfd1fd21f33f02cbc7b89]: Textual amendment: Reg. 100(1A)-(1E) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [31(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/31/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-cd5ad7ce5faf5c85b7e7e83e94670aa1]: Textual amendment: Reg. 100(3) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/31/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-cd5ad7ce5faf5c85b7e7e83e94670aa1]: Textual amendment: Reg. 100(3) omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/31/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Amendment of regulation 331 (findings and reports of inspections)[^key-0c16fd57223632c0354e2a534cadd7f9]
+## 222. Amendment of regulation 331 (findings and reports of inspections)[^c-0c16fd57223632c0354e2a534cadd7f9]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation 331 is amended as follows.
 
-(2)[^key-d341c41e978df774d9276a5ec5f9e392] In paragraph (1)—
+(2)[^c-d341c41e978df774d9276a5ec5f9e392] In paragraph (1)—
 
 - (a) for “marketing authorisation” substitute “UK marketing authorisation, EU marketing authorisation”;
 - (b) in sub-paragraph (c), at the beginning, insert “in the case of a product authorised under a UKMA(NI) or UKMA(UK),”.
 
-(3)[^key-63f2eec705d4551ad16341b409ee4778] In paragraph (4)—
+(3)[^c-63f2eec705d4551ad16341b409ee4778] In paragraph (4)—
 
 - (a) for sub-paragraph (b) substitute—
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0c16fd57223632c0354e2a534cadd7f9]: Commencement: Reg. 222 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0c16fd57223632c0354e2a534cadd7f9]: Commencement: Reg. 222 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d341c41e978df774d9276a5ec5f9e392]: Textual amendment: Reg. 222(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 181(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/181/a)
+[^c-d341c41e978df774d9276a5ec5f9e392]: Textual amendment: Reg. 222(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 181(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/181/a)
 
-[^key-63f2eec705d4551ad16341b409ee4778]: Textual amendment: Reg. 222(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 181(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/181/b)
+[^c-63f2eec705d4551ad16341b409ee4778]: Textual amendment: Reg. 222(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 181(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/181/b)

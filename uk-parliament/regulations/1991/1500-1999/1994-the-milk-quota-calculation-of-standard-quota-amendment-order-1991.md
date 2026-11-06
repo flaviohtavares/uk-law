@@ -30,7 +30,7 @@ summary: ''
 
 AGRICULTURE
 
-The Milk Quota (Calculation of Standard Quota) (Amendment) Order 1991 (revoked)[^key-8f5ed68e1ea431d765d8fdc2eedc737e]
+The Milk Quota (Calculation of Standard Quota) (Amendment) Order 1991 (revoked)[^c-8f5ed68e1ea431d765d8fdc2eedc737e]
 
 Made
 
@@ -44,23 +44,23 @@ Coming into force
 
 27th September 1991
 
-[^key-8f5ed68e1ea431d765d8fdc2eedc737e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f5ed68e1ea431d765d8fdc2eedc737e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-8f5ed68e1ea431d765d8fdc2eedc737e]
+## 1. Title and commencement[^c-8f5ed68e1ea431d765d8fdc2eedc737e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of principal Order[^key-8f5ed68e1ea431d765d8fdc2eedc737e]
+## 2. Amendment of principal Order[^c-8f5ed68e1ea431d765d8fdc2eedc737e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8f5ed68e1ea431d765d8fdc2eedc737e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f5ed68e1ea431d765d8fdc2eedc737e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8f5ed68e1ea431d765d8fdc2eedc737e]
+## SCHEDULE[^c-8f5ed68e1ea431d765d8fdc2eedc737e]
 
 Article 2
 
@@ -68,8 +68,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-8f5ed68e1ea431d765d8fdc2eedc737e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f5ed68e1ea431d765d8fdc2eedc737e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f5ed68e1ea431d765d8fdc2eedc737e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1991/1994) revoked (11.7.2018) by [The Environment and Rural Affairs (Miscellaneous Revocations) Order 2018 (S.I. 2018/739)](https://www.legislation.gov.uk/uksi/2018/739), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/739/article/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2018/739/article/2/e)
+[^c-8f5ed68e1ea431d765d8fdc2eedc737e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1991/1994) revoked (11.7.2018) by [The Environment and Rural Affairs (Miscellaneous Revocations) Order 2018 (S.I. 2018/739)](https://www.legislation.gov.uk/uksi/2018/739), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/739/article/1/1), [2(e)](https://www.legislation.gov.uk/uksi/2018/739/article/2/e)

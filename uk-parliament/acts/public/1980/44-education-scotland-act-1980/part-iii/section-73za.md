@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73ZA. Administration of certain sums[^key-fc469e1d5f66cb59f8023449facb1e67]
+## 73ZA. Administration of certain sums[^c-fc469e1d5f66cb59f8023449facb1e67]
 
 *Extent: S*
 
@@ -39,14 +39,14 @@ as the Scottish Ministers may in the direction specify.
 - (a) undertaking; or
 - (b) who have undertaken,
 
-courses of education provided by post-16 education[^key-5b264fbe4d48031da9ad86ce913c1145] bodies.
+courses of education provided by post-16 education[^c-5b264fbe4d48031da9ad86ce913c1145] bodies.
 
-(4) In subsection (3) above, “**post-16 education[^key-1b6d6ec33b9e399244cb0e33b43079d6] bodies**” shall be construed in accordance with the Further and Higher Education (Scotland) Act 2005 (asp 6).
+(4) In subsection (3) above, “**post-16 education[^c-1b6d6ec33b9e399244cb0e33b43079d6] bodies**” shall be construed in accordance with the Further and Higher Education (Scotland) Act 2005 (asp 6).
 
 ## Annotations
 
-[^key-fc469e1d5f66cb59f8023449facb1e67]: Textual amendment: S. 73ZA inserted (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [ss. 19(1)](https://www.legislation.gov.uk/asp/2005/6/section/19/1), [36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
+[^c-fc469e1d5f66cb59f8023449facb1e67]: Textual amendment: S. 73ZA inserted (3.10.2005) by [Further and Higher Education (Scotland) Act 2005 (asp 6)](https://www.legislation.gov.uk/asp/2005/6), [ss. 19(1)](https://www.legislation.gov.uk/asp/2005/6/section/19/1), [36(2)](https://www.legislation.gov.uk/asp/2005/6/section/36/2); [S.S.I. 2005/419](https://www.legislation.gov.uk/ssi/2005/419), [art. 2(1)](https://www.legislation.gov.uk/ssi/2005/419/article/2/1)
 
-[^key-5b264fbe4d48031da9ad86ce913c1145]: Textual amendment: Words in s. 73ZA(3) substituted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 1(2)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1/2/a); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-5b264fbe4d48031da9ad86ce913c1145]: Textual amendment: Words in s. 73ZA(3) substituted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 1(2)(a)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1/2/a); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
 
-[^key-1b6d6ec33b9e399244cb0e33b43079d6]: Textual amendment: Words in s. 73ZA(4) substituted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 1(2)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1/2/b); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-1b6d6ec33b9e399244cb0e33b43079d6]: Textual amendment: Words in s. 73ZA(4) substituted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [s. 23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2), [sch. para. 1(2)(b)](https://www.legislation.gov.uk/asp/2013/12/schedule/paragraph/1/2/b); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. The Crown[^key-127a2c67d96f8dca673b07355bead8af]
+## 116. The Crown[^c-127a2c67d96f8dca673b07355bead8af]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The amendments made by this Act bind the Crown to the extent that the provisions
 
 ## Annotations
 
-[^key-127a2c67d96f8dca673b07355bead8af]: Commencement: S. 116 in force at Royal Assent, see [s. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/b)
+[^c-127a2c67d96f8dca673b07355bead8af]: Commencement: S. 116 in force at Royal Assent, see [s. 118(6)(b)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/6/b)

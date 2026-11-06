@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 204. Goods which benefited from measures laid down under the common agricultural policy[^key-822c3fbe288dcf495c199d5dd190d444][^key-d5b6ab9cef700eb9b0fa86e2a9078c45]
+## Article 204. Goods which benefited from measures laid down under the common agricultural policy[^c-822c3fbe288dcf495c199d5dd190d444][^c-d5b6ab9cef700eb9b0fa86e2a9078c45]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Relief from import duty provided for in Article 203 shall not be granted to good
 
 ## Annotations
 
-[^key-822c3fbe288dcf495c199d5dd190d444]: Modification: Arts. 203-207 modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AJ(2)-(5)(9)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AJ/2) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-822c3fbe288dcf495c199d5dd190d444]: Modification: Arts. 203-207 modified (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AJ(2)-(5)(9)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AJ/2) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
 
-[^key-d5b6ab9cef700eb9b0fa86e2a9078c45]: Modification: Arts. 203-207 excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AJ(6)-(8)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AJ/6) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))
+[^c-d5b6ab9cef700eb9b0fa86e2a9078c45]: Modification: Arts. 203-207 excluded (1.8.2021) by [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518), [reg. 133AJ(6)-(8)](https://www.legislation.gov.uk/uksi/1995/2518/regulation/133AJ/6) (as inserted by [The Value Added Tax (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/715)](https://www.legislation.gov.uk/uksi/2021/715), [regs. 1](https://www.legislation.gov.uk/uksi/2021/715/regulation/1), [43](https://www.legislation.gov.uk/uksi/2021/715/regulation/43))

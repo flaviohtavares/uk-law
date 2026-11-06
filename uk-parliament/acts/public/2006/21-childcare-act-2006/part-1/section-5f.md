@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5F. Children's centres: transitional provision[^key-818f519d5a2122e962d56a0e1ac06762]
+## 5F. Children's centres: transitional provision[^c-818f519d5a2122e962d56a0e1ac06762]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-818f519d5a2122e962d56a0e1ac06762]: Textual amendment: Ss. 5A-5G and cross-heading inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 198](https://www.legislation.gov.uk/ukpga/2009/22/section/198), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)
+[^c-818f519d5a2122e962d56a0e1ac06762]: Textual amendment: Ss. 5A-5G and cross-heading inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 198](https://www.legislation.gov.uk/ukpga/2009/22/section/198), [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)

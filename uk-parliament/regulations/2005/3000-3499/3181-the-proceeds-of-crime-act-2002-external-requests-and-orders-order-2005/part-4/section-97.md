@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Appeal to Court of Appeal about restraint orders[^key-28306af537ea8261ca7a36e5018473e4]
+## 97. Appeal to Court of Appeal about restraint orders[^c-28306af537ea8261ca7a36e5018473e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28306af537ea8261ca7a36e5018473e4]: Commencement: [Art. 97](https://www.legislation.gov.uk/uksi/2005/3181/article/97) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-28306af537ea8261ca7a36e5018473e4]: Commencement: [Art. 97](https://www.legislation.gov.uk/uksi/2005/3181/article/97) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

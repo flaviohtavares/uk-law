@@ -47,7 +47,7 @@ he shall be guilty of an offence against this Act.
 
 (3) The reference in subsection (1) of this section to agricultural land shall include a reference to land the use of which for agriculture has been discontinued in consequence of the intention to remove surface soil from that land.
 
-(4)[^key-e687922bf68e34414218965ed2c9b82a] The reference in subsection (1) of this section to agricultural land does not include agricultural land in Wales.
+(4)[^c-e687922bf68e34414218965ed2c9b82a] The reference in subsection (1) of this section to agricultural land does not include agricultural land in Wales.
 
 ## 2. Punishment of offences against this Act.
 
@@ -109,7 +109,7 @@ In the application of this Act to Scotland, for the references to the Town and C
 
 [^c602989]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 3(1)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/3/1)
 
-[^key-e687922bf68e34414218965ed2c9b82a]: Textual amendment: S. 1(4) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 25](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/25)
+[^c-e687922bf68e34414218965ed2c9b82a]: Textual amendment: S. 1(4) inserted (W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 25](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/25)
 
 [^c602993]: Modification: [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 35](https://www.legislation.gov.uk/ukpga/1982/48/section/35) (in relation to liability on first and subsequent convictions), 38 (increase of fines) and 46 (substitution of references to levels on the standard scale) apply (E.W.)
 

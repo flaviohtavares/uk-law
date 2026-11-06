@@ -104,7 +104,7 @@ and the Commissioner of Police shall be appointed in like manner as Assistant Co
 
 (6) In the application of this section to Northern Ireland, subsection (3) shall be omitted.
 
-### 9. Judicial salaries etc.[^key-a747a8ffca21529572124cb2e4b72830]
+### 9. Judicial salaries etc.[^c-a747a8ffca21529572124cb2e4b72830]
 
 (1)[^c8937931] Subject to the following subsections, there shall be paid to—
 
@@ -120,11 +120,11 @@ such salaries as may be determined, with the consent of the Minister for the Civ
 
 (3) Any salary payable under this section may be increased, but not reduced, by a determination or further determination under this section.
 
-(3A)[^key-553ab87b6b3ffd9e4dd9cf5be9bdccbb] There may be paid to judges of the Court of Session such allowances as may be determined, with the consent of Treasury, by the Lord Chancellor.
+(3A)[^c-553ab87b6b3ffd9e4dd9cf5be9bdccbb] There may be paid to judges of the Court of Session such allowances as may be determined, with the consent of Treasury, by the Lord Chancellor.
 
 (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c8938001]
 
-(5) Salaries payable *(Extent: S)* *(affected by repeal, see note)*[^key-fb0e76701be80a83d3b57da2db31bfec] under subsection (1)(d) shall be charged on and paid out of the Consolidated Fund of Northern Ireland and other salaries payable[^c8938011] *(Extent: S)* *(affected by repeal, see note)*[^key-fb0e76701be80a83d3b57da2db31bfec] under this section shall be charged on and paid out of the Consolidated Fund of the United Kingdom. *(Extent: S)* *(affected by repeal, see note)*[^key-fb0e76701be80a83d3b57da2db31bfec]
+(5) Salaries payable *(Extent: S)* *(affected by repeal, see note)*[^c-fb0e76701be80a83d3b57da2db31bfec] under subsection (1)(d) shall be charged on and paid out of the Consolidated Fund of Northern Ireland and other salaries payable[^c8938011] *(Extent: S)* *(affected by repeal, see note)*[^c-fb0e76701be80a83d3b57da2db31bfec] under this section shall be charged on and paid out of the Consolidated Fund of the United Kingdom. *(Extent: S)* *(affected by repeal, see note)*[^c-fb0e76701be80a83d3b57da2db31bfec]
 
 ### 10. Judicial pensions (increase of widow’s and children’s pensions).
 
@@ -398,7 +398,7 @@ Section 10.
 
 [^c20840901]: Textual amendment: S. 8(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
 
-[^key-a747a8ffca21529572124cb2e4b72830]: Textual amendment: Word in [s. 9](https://www.legislation.gov.uk/ukpga/1973/15/section/9) heading inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/8/2)
+[^c-a747a8ffca21529572124cb2e4b72830]: Textual amendment: Word in [s. 9](https://www.legislation.gov.uk/ukpga/1973/15/section/9) heading inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/8/2)
 
 [^c8937931]: Modification: By virtue of [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670), [arts. 2](https://www.legislation.gov.uk/uksi/1981/1670/article/2), [3(5)](https://www.legislation.gov.uk/uksi/1981/1670/article/3/5), [s. 9(1)](https://www.legislation.gov.uk/uksi/1981/1670/section/9/1) has effect as if the reference to the Minister for the Civil Service were a reference to the Treasury
 
@@ -416,11 +416,11 @@ Section 10.
 
 [^c8937991]: Textual amendment: S. 9(1)(e) substituted for s. 9(1)(e)(f) (31.8.2000) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 78](https://www.legislation.gov.uk/ukpga/1999/22/section/78), [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/1999/22/schedule/11/paragraph/21) (with [Sch. 14 para. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2)); [S.I. 2000/1920](https://www.legislation.gov.uk/uksi/2000/1920), [art. 3](https://www.legislation.gov.uk/uksi/2000/1920/article/3)
 
-[^key-553ab87b6b3ffd9e4dd9cf5be9bdccbb]: Textual amendment: [S. 9(3A)](https://www.legislation.gov.uk/ukpga/1973/15/section/9/3A) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/8/3)
+[^c-553ab87b6b3ffd9e4dd9cf5be9bdccbb]: Textual amendment: [S. 9(3A)](https://www.legislation.gov.uk/ukpga/1973/15/section/9/3A) inserted (10.3.2022 for specified purposes, 10.5.2022 in so far as not already in force) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/b/ii), [Sch. 2 para. 8(3)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/2/paragraph/8/3)
 
 [^c8938001]: Textual amendment: S. 9(4) repealed by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [ss. 84(e)](https://www.legislation.gov.uk/ukpga/1990/41/section/84/e), [125(6)(7)](https://www.legislation.gov.uk/ukpga/1990/41/section/125/6/7), [Sch. 19 para. 10(4)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/19/paragraph/10/4), [Sch. 20](https://www.legislation.gov.uk/ukpga/1990/41/schedule/20)
 
-[^key-fb0e76701be80a83d3b57da2db31bfec]: Textual amendment: [S. 9(5)](https://www.legislation.gov.uk/ukpga/1973/15/section/9/5) repealed (S.) (1.4.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 35](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/35); [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
+[^c-fb0e76701be80a83d3b57da2db31bfec]: Textual amendment: [S. 9(5)](https://www.legislation.gov.uk/ukpga/1973/15/section/9/5) repealed (S.) (1.4.2016) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 35](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/35); [S.S.I. 2016/13](https://www.legislation.gov.uk/ssi/2016/13), [art. 2](https://www.legislation.gov.uk/ssi/2016/13/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/13/schedule)
 
 [^c8938011]: Textual amendment: Words in s. 9(5) inserted (12.4.2010) by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 85](https://www.legislation.gov.uk/ukpga/2002/26/section/85), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87), [Sch. 12 para. 11](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/11); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/20/a)
 

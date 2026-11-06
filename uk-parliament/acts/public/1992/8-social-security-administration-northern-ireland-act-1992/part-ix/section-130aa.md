@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130AA. Revaluation of flat rate accrual amount[^key-8e6e0f0460891639deea27a5f52753d3]
+## 130AA. Revaluation of flat rate accrual amount[^c-8e6e0f0460891639deea27a5f52753d3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Whenever the Secretary of State makes an order under section 148AA of the Great 
 
 ## Annotations
 
-[^key-8e6e0f0460891639deea27a5f52753d3]: Textual amendment: S. 130AA inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/2/paragraph/2)
+[^c-8e6e0f0460891639deea27a5f52753d3]: Textual amendment: S. 130AA inserted (11.2.2008) by [Pensions Act (Northern Ireland) 2008 (c. 1)](https://www.legislation.gov.uk/nia/2008/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/nia/2008/1/schedule/2/paragraph/2)

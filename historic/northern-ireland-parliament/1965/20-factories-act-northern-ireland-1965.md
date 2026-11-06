@@ -118,7 +118,7 @@ the Ministry may make special regulations requiring such reasonable arrangements
 
 (1) Every gasholder shall be of sound construction and shall be properly maintained.
 
-(2)[^key-d14e52c50f14695a786ed0a7a5ad01b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d14e52c50f14695a786ed0a7a5ad01b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the case of a gasholder of which any lift has been in use for more than twenty years, the internal state of the sheeting shall, at least once in every period of ten years, be examined by a competent person by cutting samples from the crown and sides of the holder or by other sufficient means, and all samples so cut and a report on every such examination signed by the person making it shall be kept available for inspection.
 
@@ -741,7 +741,7 @@ being premises in which, or within the close or curtilage or precincts of which,
 - “bakehouse” means any place in which bread, biscuits or confectionery is or are baked by way of trade or for purposes of gain;
 - “bodily injury” includes injury to health;
 - *Definition rep. by SR 1996/510*
-- “building operation” and “work of engineering construction” mean “[^c20890051]**construction work**” within the meaning assigned to that phrase by regulation 2(1) of the Construction (Design and Management) Regulations (Northern Ireland) 2016[^key-869436b7257416f23a79f279f89fc94f];
+- “building operation” and “work of engineering construction” mean “[^c20890051]**construction work**” within the meaning assigned to that phrase by regulation 2(1) of the Construction (Design and Management) Regulations (Northern Ireland) 2016[^c-869436b7257416f23a79f279f89fc94f];
 - “calendar year” means the period of twelve months beginning with the first day of January in any year;
 - *Definition rep. by SR 1979/246*
 - “child” has the meaning assigned to it by section 84(2);
@@ -754,7 +754,7 @@ being premises in which, or within the close or curtilage or precincts of which,
 - [^c22358941]...
 - “government chemist” means the officer appointed by the Minister of Finance under the Administrative Provisions Act (Northern Ireland) 1928 [^m00007] to be the government chemist for Northern Ireland;
 - *Definition rep. by SRO (NI) 1973/211*
-- [^key-4ab7b199a199992032c924d71f5303fc]...
+- [^c-4ab7b199a199992032c924d71f5303fc]...
 - “humid factory” means a factory in which atmospheric humidity is artificially produced by steaming or other means in connection with any textile process;
 - “inspector” means an inspector appointed by[^c16993091] he Health and Safety Executive for Northern Ireland[^c16993101] under Article 21 of the Health and Safety at Work (Northern Ireland) Order 1978 [^m00009] and references in any provision of this Act to the chief inspector are references to an inspector so appointed who is authorised for the purposes of that provision;
 - “machinery” includes any driving-belt;
@@ -922,7 +922,7 @@ the council or fire authority by whom the certificate was issued shall, at his r
 
 [^c16991621]: Textual amendment: SR 1979/246
 
-[^key-d14e52c50f14695a786ed0a7a5ad01b9]: Textual amendment: [S. 40(2)](https://www.legislation.gov.uk/apni/1965/20/section/40/2) repealed (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule) Table 1
+[^c-d14e52c50f14695a786ed0a7a5ad01b9]: Textual amendment: [S. 40(2)](https://www.legislation.gov.uk/apni/1965/20/section/40/2) repealed (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule) Table 1
 
 [^c16991631]: Textual amendment: SR 1984/283
 
@@ -1064,7 +1064,7 @@ the council or fire authority by whom the certificate was issued shall, at his r
 
 [^c20890051]: Textual amendment: S. 176(1): definition of “building operation” and “work of engineering construction” substituted (9.7.2007) by virtue of [The Construction (Design and Management) Regulations (Northern Ireland) 2007 (S.R. 2007/291)](https://www.legislation.gov.uk/nisr/2007/291), [reg. 47(2)](https://www.legislation.gov.uk/nisr/2007/291/regulation/47/2), [Sch. 6 para. 1](https://www.legislation.gov.uk/nisr/2007/291/schedule/6/paragraph/1) (with [reg. 3](https://www.legislation.gov.uk/nisr/2007/291/regulation/3))
 
-[^key-869436b7257416f23a79f279f89fc94f]: Textual amendment: Words in [s. 176(1)](https://www.legislation.gov.uk/apni/1965/20/section/176/1) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
+[^c-869436b7257416f23a79f279f89fc94f]: Textual amendment: Words in [s. 176(1)](https://www.legislation.gov.uk/apni/1965/20/section/176/1) substituted (1.8.2016) by [The Construction (Design and Management) Regulations (Northern Ireland) 2016 (S.R. 2016/146)](https://www.legislation.gov.uk/nisr/2016/146), [reg. 1](https://www.legislation.gov.uk/nisr/2016/146/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2016/146/schedule/6)
 
 [^c16993071]: Textual amendment: SRO (NI) 1973/211
 
@@ -1074,7 +1074,7 @@ the council or fire authority by whom the certificate was issued shall, at his r
 
 [^m00007]: Marginal citation: 1928 c.14
 
-[^key-4ab7b199a199992032c924d71f5303fc]: Textual amendment: Words in [s. 176(1)](https://www.legislation.gov.uk/apni/1965/20/section/176/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/1); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-4ab7b199a199992032c924d71f5303fc]: Textual amendment: Words in [s. 176(1)](https://www.legislation.gov.uk/apni/1965/20/section/176/1) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 1](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/1); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c16993091]: Textual amendment: SR 1979/246
 

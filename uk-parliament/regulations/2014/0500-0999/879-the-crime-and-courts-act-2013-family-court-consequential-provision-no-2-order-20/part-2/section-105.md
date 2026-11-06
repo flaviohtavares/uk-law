@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**105.**[^key-1cf61f2a8abbed0e644fbdcaa038ba73] Schedule 1 is amended as follows.
+**105.**[^c-1cf61f2a8abbed0e644fbdcaa038ba73] Schedule 1 is amended as follows.
 
 ## Annotations
 
-[^key-1cf61f2a8abbed0e644fbdcaa038ba73]: Commencement: Art. 105 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-1cf61f2a8abbed0e644fbdcaa038ba73]: Commencement: Art. 105 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

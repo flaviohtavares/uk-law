@@ -46,10 +46,10 @@ In this Part—
     - (ii) specified in a statement of accrued rights provided by the scheme manager of that scheme;
 - “**transfer value payment**” means—
   - (a) the payment of a transfer value or club transfer value under this Part; or
-  - (b) the payment of a transfer value under Chapter 1 of Part 4ZA[^key-f71c89e553dfa3f29a4dfcb6672c57b8] of the 1993 Act.
+  - (b) the payment of a transfer value under Chapter 1 of Part 4ZA[^c-f71c89e553dfa3f29a4dfcb6672c57b8] of the 1993 Act.
 
 ## Annotations
 
 [^c22414811]: Marginal citation: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1).      .
 
-[^key-f71c89e553dfa3f29a4dfcb6672c57b8]: Textual amendment: Words in [reg. 131](https://www.legislation.gov.uk/ssi/2015/94/regulation/131) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [20](https://www.legislation.gov.uk/ssi/2017/28/regulation/20)
+[^c-f71c89e553dfa3f29a4dfcb6672c57b8]: Textual amendment: Words in [reg. 131](https://www.legislation.gov.uk/ssi/2015/94/regulation/131) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) (Miscellaneous Amendments) Regulations 2017 (S.S.I. 2017/28)](https://www.legislation.gov.uk/ssi/2017/28), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/28/regulation/1/2), [20](https://www.legislation.gov.uk/ssi/2017/28/regulation/20)

@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) Regulations 1982 (revoked)[^key-dcbabc9437cfbab72a1b598363124216]
+The Motor Vehicles (Type Approval for Goods Vehicles) (Great Britain) Regulations 1982 (revoked)[^c-dcbabc9437cfbab72a1b598363124216]
 
 Made
 
@@ -45,161 +45,161 @@ Coming into Operation
 
 1st October 1982
 
-[^key-dcbabc9437cfbab72a1b598363124216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcbabc9437cfbab72a1b598363124216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dcbabc9437cfbab72a1b598363124216]
+## 1. Citation and commencement[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dcbabc9437cfbab72a1b598363124216]
+## 2. Interpretation[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of Regulations[^key-dcbabc9437cfbab72a1b598363124216]
+## 3. Application of Regulations[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of type approval requirements[^key-dcbabc9437cfbab72a1b598363124216]
+## 4. Application of type approval requirements[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Plated weights being design weights[^key-dcbabc9437cfbab72a1b598363124216]
+## 5. Plated weights being design weights[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Plated weights being weights not to be exceeded in Great Britain[^key-dcbabc9437cfbab72a1b598363124216]
+## 6. Plated weights being weights not to be exceeded in Great Britain[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application for type approval[^key-dcbabc9437cfbab72a1b598363124216]
+## 7. Application for type approval[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Application for Minister's approval certificates[^key-dcbabc9437cfbab72a1b598363124216]
+## 8. Application for Minister's approval certificates[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application for further type approval certificate[^key-dcbabc9437cfbab72a1b598363124216]
+## 9. Application for further type approval certificate[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Prescribed alterations[^key-dcbabc9437cfbab72a1b598363124216]
+## 10. Prescribed alterations[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Suspension or amendment of certificates[^key-dcbabc9437cfbab72a1b598363124216]
+## 11. Suspension or amendment of certificates[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Notice of suspension or amendment of certificates[^key-dcbabc9437cfbab72a1b598363124216]
+## 12. Notice of suspension or amendment of certificates[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Appeals[^key-dcbabc9437cfbab72a1b598363124216]
+## 13. Appeals[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Forms of certificate[^key-dcbabc9437cfbab72a1b598363124216]
+## 14. Forms of certificate[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Duplicate certificates[^key-dcbabc9437cfbab72a1b598363124216]
+## 15. Duplicate certificates[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Keeping and inspection of records relating to certificates of conformity[^key-dcbabc9437cfbab72a1b598363124216]
+## 16. Keeping and inspection of records relating to certificates of conformity[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Authorisations to carry out examinations for type approval[^key-dcbabc9437cfbab72a1b598363124216]
+## 17. Authorisations to carry out examinations for type approval[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Notices[^key-dcbabc9437cfbab72a1b598363124216]
+## 18. Notices[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Licences not to be issued for vehicles unless appropriate certificates are in force[^key-dcbabc9437cfbab72a1b598363124216]
+## 19. Licences not to be issued for vehicles unless appropriate certificates are in force[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Revocation[^key-dcbabc9437cfbab72a1b598363124216]
+## 20. Revocation[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcbabc9437cfbab72a1b598363124216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcbabc9437cfbab72a1b598363124216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TYPE APPROVAL REQUIREMENTS[^key-dcbabc9437cfbab72a1b598363124216]
+## SCHEDULE 1 — TYPE APPROVAL REQUIREMENTS[^c-dcbabc9437cfbab72a1b598363124216]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-dcbabc9437cfbab72a1b598363124216]
+## SCHEDULE 2[^c-dcbabc9437cfbab72a1b598363124216]
 
-### PART I[^key-dcbabc9437cfbab72a1b598363124216]
+### PART I[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of information document for a goods vehicle)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1982/1271/images/fo0000001)
 
-### PART II[^key-dcbabc9437cfbab72a1b598363124216]
+### PART II[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of information document for a vehicle part)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1982/1271/images/fo0000006)
 
-## SCHEDULE 3[^key-dcbabc9437cfbab72a1b598363124216]
+## SCHEDULE 3[^c-dcbabc9437cfbab72a1b598363124216]
 
-### PART I[^key-dcbabc9437cfbab72a1b598363124216]
+### PART I[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of type approval certificate for a goods vehicle)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1982/1271/images/fo0000007)
 
-### PART II[^key-dcbabc9437cfbab72a1b598363124216]
+### PART II[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of type approval certificate for a vehicle part)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1982/1271/images/fo0000009)
 
-## SCHEDULE 4[^key-dcbabc9437cfbab72a1b598363124216]
+## SCHEDULE 4[^c-dcbabc9437cfbab72a1b598363124216]
 
-### PART I[^key-dcbabc9437cfbab72a1b598363124216]
+### PART I[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of Minister's approval certificate for a goods vehicle)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1982/1271/images/fo0000011)
 
-### PART II[^key-dcbabc9437cfbab72a1b598363124216]
+### PART II[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of Minister's approval certificate for a vehicle part)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1982/1271/images/fo0000013)
 
-### PART III[^key-dcbabc9437cfbab72a1b598363124216]
+### PART III[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of Minister's approval certificate for a goods vehicle of a type covered by a previous certificate)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1982/1271/images/fo0000014)
 
-### PART IV[^key-dcbabc9437cfbab72a1b598363124216]
+### PART IV[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of Minister's approval certificate for a vehicle part of a type covered by a previous certificate)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1982/1271/images/fo0000015)
 
-## SCHEDULE 5[^key-dcbabc9437cfbab72a1b598363124216]
+## SCHEDULE 5[^c-dcbabc9437cfbab72a1b598363124216]
 
-### PART I[^key-dcbabc9437cfbab72a1b598363124216]
+### PART I[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of certificate of conformity for a goods vehicle)
 
 [image: see source](https://www.legislation.gov.uk/uksi/1982/1271/images/fo0000016)
 
-### PART II[^key-dcbabc9437cfbab72a1b598363124216]
+### PART II[^c-dcbabc9437cfbab72a1b598363124216]
 
 (Form of certificate of conformity for a vehicle part)
 
@@ -207,10 +207,10 @@ Coming into Operation
 
 **May not be in force at this date. Check the source.**
 
-[^key-dcbabc9437cfbab72a1b598363124216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcbabc9437cfbab72a1b598363124216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dcbabc9437cfbab72a1b598363124216]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1982/1271) revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-dcbabc9437cfbab72a1b598363124216]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1982/1271) revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

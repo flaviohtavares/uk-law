@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Employment and Learning[^f00001] in exercise of the powers conferred on it by Article 112G(1), (2) and (3) of the Employment Rights (Northern Ireland) Order 1996[^f00002], and now vested in it[^f00003], and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-bd8deb05a20f9ef6de42468924a0edbd]
+## 1. Citation and commencement[^c-bd8deb05a20f9ef6de42468924a0edbd]
 
 These Regulations may be cited as the Flexible Working (Procedural Requirements) Regulations (Northern Ireland) 2003 and shall come into operation on 6th April 2003.
 
-## 2. Interpretation[^key-9ce9568f6dd6a6d8477f4aa43bae18f7]
+## 2. Interpretation[^c-9ce9568f6dd6a6d8477f4aa43bae18f7]
 
 (1) In these Regulations –
 
@@ -67,7 +67,7 @@ These Regulations may be cited as the Flexible Working (Procedural Requirements)
 - (a) in relation to a notice transmitted by electronic communication, on the day on which it is transmitted;
 - (b) in relation to a notice sent by post, on the day on which the notice would be delivered in the ordinary course of post.
 
-## 3. The meeting to discuss an application with an employee[^key-2e799cbfd5ffb257e83331ac518ecb89]
+## 3. The meeting to discuss an application with an employee[^c-2e799cbfd5ffb257e83331ac518ecb89]
 
 (1) Subject to paragraph (2) and regulation 13, an employer to whom an application for a contract variation is made shall hold a meeting to discuss the application with the employee within 28 days after the date on which the application is made.
 
@@ -78,9 +78,9 @@ These Regulations may be cited as the Flexible Working (Procedural Requirements)
 - (a) the contract variation agreed to; and
 - (b) the date from which the variation is to take effect.
 
-**4.**[^key-b978a87c4f0ec8b525f3ede49b3f8ffe] Where a meeting is held to discuss an application the employer shall give the employee notice of his decision on the application within 14 days after the date of the meeting.
+**4.**[^c-b978a87c4f0ec8b525f3ede49b3f8ffe] Where a meeting is held to discuss an application the employer shall give the employee notice of his decision on the application within 14 days after the date of the meeting.
 
-**5.**[^key-26d28c2b74213818f301e185f5600d58] A notice under regulation 4 shall –
+**5.**[^c-26d28c2b74213818f301e185f5600d58] A notice under regulation 4 shall –
 
 - (a) be in writing;
 - (b)
@@ -88,26 +88,26 @@ These Regulations may be cited as the Flexible Working (Procedural Requirements)
   - (ii) where the decision is to refuse the application, state which of the grounds for refusal specified in Article 112G(1)(b) of the 1996 Order are considered by the employer to apply, contain a sufficient explanation as to why those grounds apply in relation to the application, and set out the appeal procedure; and
 - (c) be dated.
 
-## 6. Appeals[^key-c9bd096a8814a97439c26c7dbd6da2a8]
+## 6. Appeals[^c-c9bd096a8814a97439c26c7dbd6da2a8]
 
 An employee is entitled to appeal against his employer’s decision to refuse an application by giving notice in accordance with regulation 7 within 14 days after the date on which notice of the decision is given.
 
-**7.**[^key-12d516b558b148891c92d066790bb070] A notice of appeal under regulation 6 shall –
+**7.**[^c-12d516b558b148891c92d066790bb070] A notice of appeal under regulation 6 shall –
 
 - (a) be in writing;
 - (b) set out the grounds of appeal; and
 - (c) be dated.
 
-**8.**[^key-d29ab452921fac25ab96b7804a4e4304] (1) Subject to paragraph (2), the employer shall hold a meeting with the employee to discuss the appeal within 14 days after the employee’s notice under regulation 6 is given.
+**8.**[^c-d29ab452921fac25ab96b7804a4e4304] (1) Subject to paragraph (2), the employer shall hold a meeting with the employee to discuss the appeal within 14 days after the employee’s notice under regulation 6 is given.
 
 (2) Paragraph (1) does not apply where, within 14 days after the date on which notice under regulation 6 is given, the employer –
 
 - (a) upholds the appeal; and
 - (b) notifies the employee in writing of his decision, specifying the contract variation agreed to and stating the date on which the variation is to take effect.
 
-**9.**[^key-b5129e7f83d80d21b7742b8bea6c45a0] Where a meeting is held to discuss the appeal, the employer shall notify the employee of his decision on the appeal within 14 days after the date of the meeting.
+**9.**[^c-b5129e7f83d80d21b7742b8bea6c45a0] Where a meeting is held to discuss the appeal, the employer shall notify the employee of his decision on the appeal within 14 days after the date of the meeting.
 
-**10.**[^key-2031fc749ffc575155ee317ad4f989d2] Notice under regulation 9 shall –
+**10.**[^c-2031fc749ffc575155ee317ad4f989d2] Notice under regulation 9 shall –
 
 - (a) be in writing;
 - (b)
@@ -115,9 +115,9 @@ An employee is entitled to appeal against his employer’s decision to refuse an
   - (ii) where the employer dismisses the appeal, state the grounds for the decision and contain a sufficient explanation as to why those grounds apply; and
 - (c) be dated.
 
-**11.**[^key-3f8c4a09496bd265f64bd434695fe021] The time and place of a meeting under regulation 3(1) or 8(1) shall be convenient to the employer and the employee.
+**11.**[^c-3f8c4a09496bd265f64bd434695fe021] The time and place of a meeting under regulation 3(1) or 8(1) shall be convenient to the employer and the employee.
 
-## 12. Extension of periods[^key-99acd47126639029990bc4e3cb33fcfc]
+## 12. Extension of periods[^c-99acd47126639029990bc4e3cb33fcfc]
 
 (1) An employer and an employee may agree to an extension of any of the periods referred to in regulations 3, 4, 6, 8, 9 and 13.
 
@@ -130,9 +130,9 @@ An employee is entitled to appeal against his employer’s decision to refuse an
 - (c) be dated; and
 - (d) be sent to the employee.
 
-**13.**[^key-9dbbb2e4c60025881fe71805cad8a861] Where the individual who would ordinarily consider an application is absent from work on annual leave or on sick leave on the day on which the application is made, the period referred to in regulation 3(1) commences on the day the individual returns to work or 28 days after the application is made, whichever is the sooner.
+**13.**[^c-9dbbb2e4c60025881fe71805cad8a861] Where the individual who would ordinarily consider an application is absent from work on annual leave or on sick leave on the day on which the application is made, the period referred to in regulation 3(1) commences on the day the individual returns to work or 28 days after the application is made, whichever is the sooner.
 
-## 14. Right to be accompanied[^key-d85e858cca6cd75ccb8cf3a73a11d2f7]
+## 14. Right to be accompanied[^c-d85e858cca6cd75ccb8cf3a73a11d2f7]
 
 (1) This regulation applies where –
 
@@ -165,7 +165,7 @@ the meeting shall be held at the time proposed by the employee.
 - (a) to address the meeting (but not to answer questions on behalf of the employee); and
 - (b) to confer with the employee during the meeting.
 
-## 15. Complaint to industrial tribunal[^key-aeeb6499561d68ad1dd15eeafcccd54d]
+## 15. Complaint to industrial tribunal[^c-aeeb6499561d68ad1dd15eeafcccd54d]
 
 (1) An employee may present a complaint to an industrial tribunal that his employer has failed, or threatened to fail, to comply with regulation 14(2) or (4).
 
@@ -174,7 +174,7 @@ the meeting shall be held at the time proposed by the employee.
 - (a) before the end of the period of three months beginning with the date of the failure or threat; or
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-7908effa0e13c607cfd5f1bd93526fb0] Regulation 15A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
+(2A)[^c-7908effa0e13c607cfd5f1bd93526fb0] Regulation 15A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2)(a).
 
 (3) Where a tribunal finds that a complaint under this regulation is well-founded it shall order the employer to pay compensation to the employee of an amount not exceeding two weeks' pay.
 
@@ -182,7 +182,7 @@ the meeting shall be held at the time proposed by the employee.
 
 (5) The limit in Article 23(1) of the 1996 Order (maximum amount of week’s pay) shall apply for the purposes of paragraph (3).
 
-## 15A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-ab34c067558e467e54a5910a758787ce]
+## 15A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-ab34c067558e467e54a5910a758787ce]
 
 (1) In this regulation—
 
@@ -195,7 +195,7 @@ the meeting shall be held at the time proposed by the employee.
 
 (4) The power conferred on the industrial tribunal by regulation 15(2)(b) to extend the three month time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
 
-## 16. Detriment and dismissal[^key-ad0b39769638cb72258304dac832e189]
+## 16. Detriment and dismissal[^c-ad0b39769638cb72258304dac832e189]
 
 (1) A person has the right not to be subjected to any detriment by any act, or any deliberate failure to act, by his employer done on the ground that he –
 
@@ -215,7 +215,7 @@ the meeting shall be held at the time proposed by the employee.
 
 (6) In the application of Chapter II of Part XI of the 1996 Order in relation to paragraph (3), a reference to an employee shall be taken as a reference to a worker.
 
-## 17. Withdrawal of application by the employee[^key-9ca8264f17dfc28bd341c9efc51b0abe]
+## 17. Withdrawal of application by the employee[^c-9ca8264f17dfc28bd341c9efc51b0abe]
 
 (1) An employer shall treat an application as withdrawn where the employee has –
 
@@ -259,44 +259,44 @@ Regulation 17 sets out when an employer should treat an application as withdrawn
 
 [^f00003]: Footnote: *See* [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999
 
-[^key-bd8deb05a20f9ef6de42468924a0edbd]: Commencement: Reg. 1 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-bd8deb05a20f9ef6de42468924a0edbd]: Commencement: Reg. 1 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-9ce9568f6dd6a6d8477f4aa43bae18f7]: Commencement: Reg. 2 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-9ce9568f6dd6a6d8477f4aa43bae18f7]: Commencement: Reg. 2 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
 [^f00004]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7)
 
-[^key-2e799cbfd5ffb257e83331ac518ecb89]: Commencement: Reg. 3 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-2e799cbfd5ffb257e83331ac518ecb89]: Commencement: Reg. 3 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-b978a87c4f0ec8b525f3ede49b3f8ffe]: Commencement: Reg. 4 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-b978a87c4f0ec8b525f3ede49b3f8ffe]: Commencement: Reg. 4 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-26d28c2b74213818f301e185f5600d58]: Commencement: Reg. 5 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-26d28c2b74213818f301e185f5600d58]: Commencement: Reg. 5 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-c9bd096a8814a97439c26c7dbd6da2a8]: Commencement: Reg. 6 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-c9bd096a8814a97439c26c7dbd6da2a8]: Commencement: Reg. 6 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-12d516b558b148891c92d066790bb070]: Commencement: Reg. 7 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-12d516b558b148891c92d066790bb070]: Commencement: Reg. 7 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-d29ab452921fac25ab96b7804a4e4304]: Commencement: Reg. 8 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-d29ab452921fac25ab96b7804a4e4304]: Commencement: Reg. 8 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-b5129e7f83d80d21b7742b8bea6c45a0]: Commencement: Reg. 9 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-b5129e7f83d80d21b7742b8bea6c45a0]: Commencement: Reg. 9 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-2031fc749ffc575155ee317ad4f989d2]: Commencement: Reg. 10 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-2031fc749ffc575155ee317ad4f989d2]: Commencement: Reg. 10 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-3f8c4a09496bd265f64bd434695fe021]: Commencement: Reg. 11 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-3f8c4a09496bd265f64bd434695fe021]: Commencement: Reg. 11 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-99acd47126639029990bc4e3cb33fcfc]: Commencement: Reg. 12 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-99acd47126639029990bc4e3cb33fcfc]: Commencement: Reg. 12 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-9dbbb2e4c60025881fe71805cad8a861]: Commencement: Reg. 13 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-9dbbb2e4c60025881fe71805cad8a861]: Commencement: Reg. 13 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-d85e858cca6cd75ccb8cf3a73a11d2f7]: Commencement: Reg. 14 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-d85e858cca6cd75ccb8cf3a73a11d2f7]: Commencement: Reg. 14 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
 [^f00005]: Footnote: S.I. [1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 92(1)(c) of the Employment Rights (Northern Ireland) Order 1996 was inserted by regulation 6 of the Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations (Northern Ireland) 1999 ([S.R. 1999 No. 432](https://www.legislation.gov.uk/nisr/1999/432))
 
-[^key-aeeb6499561d68ad1dd15eeafcccd54d]: Commencement: Reg. 15 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-aeeb6499561d68ad1dd15eeafcccd54d]: Commencement: Reg. 15 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-7908effa0e13c607cfd5f1bd93526fb0]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/nisr/2003/173/regulation/15/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 22](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/22)
+[^c-7908effa0e13c607cfd5f1bd93526fb0]: Textual amendment: [Reg. 15(2A)](https://www.legislation.gov.uk/nisr/2003/173/regulation/15/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 22](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/22)
 
-[^key-ab34c067558e467e54a5910a758787ce]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/nisr/2003/173/regulation/15A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 23](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/23)
+[^c-ab34c067558e467e54a5910a758787ce]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/nisr/2003/173/regulation/15A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 23](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/23)
 
-[^key-ad0b39769638cb72258304dac832e189]: Commencement: Reg. 16 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-ad0b39769638cb72258304dac832e189]: Commencement: Reg. 16 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
 
-[^key-9ca8264f17dfc28bd341c9efc51b0abe]: Commencement: Reg. 17 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)
+[^c-9ca8264f17dfc28bd341c9efc51b0abe]: Commencement: Reg. 17 in operation at 6.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/173/regulation/1)

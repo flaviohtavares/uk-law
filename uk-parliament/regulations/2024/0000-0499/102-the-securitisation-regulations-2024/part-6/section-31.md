@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Withdrawal of registration to provide third party verification service on initiative of FCA[^key-78a2f5deb89863535ae58abe71cbc841]
+## 31. Withdrawal of registration to provide third party verification service on initiative of FCA[^c-78a2f5deb89863535ae58abe71cbc841]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78a2f5deb89863535ae58abe71cbc841]: Commencement: Reg. 31 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-78a2f5deb89863535ae58abe71cbc841]: Commencement: Reg. 31 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

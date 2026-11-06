@@ -46,7 +46,7 @@ Coming into force
 
 The Scottish Ministers make the following Order in exercise of the powers conferred by section 107(1) and (2) of the Courts Reform (Scotland) Act 2014[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement, effect and interpretation[^key-2fd31509a6efd055f54aad01f42676bb]
+## 1. Citation, commencement, effect and interpretation[^c-2fd31509a6efd055f54aad01f42676bb]
 
 (1) This Order may be cited as the Sheriff Appeal Court Fees Order 2026 and, subject to paragraph (2), comes into force on 1 April 2026.
 
@@ -54,7 +54,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (3) In this Order, unless otherwise specified, reference to a rule is a reference to the rule in the Act of Sederunt (Sheriff Appeal Court Rules) 2021[^f00002] bearing that number.
 
-## 2. Fees payable in the Sheriff Appeal Court[^key-7897e236035801881a39f680f0af264e]
+## 2. Fees payable in the Sheriff Appeal Court[^c-7897e236035801881a39f680f0af264e]
 
 (1) Subject to paragraph (3) and articles 3 to 6—
 
@@ -70,7 +70,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - (a) the payment of that fee, or
 - (b) an arrangement being entered into for payment of that fee.
 
-## 3. Exemptions of certain persons from fees: legal aid[^key-243d0ae2a1b29cda064b9b3cb60693c8]
+## 3. Exemptions of certain persons from fees: legal aid[^c-243d0ae2a1b29cda064b9b3cb60693c8]
 
 (1) A fee specified by this Order is not payable by a person if—
 
@@ -80,7 +80,7 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 
 (2) In this article, “**the 1986 Act**” means the Legal Aid (Scotland) Act 1986[^f00004].
 
-## 4. Exemption of certain persons from fees: social security[^key-f2b157b51dea3ff8c9b329b3f9fd4ba0]
+## 4. Exemption of certain persons from fees: social security[^c-f2b157b51dea3ff8c9b329b3f9fd4ba0]
 
 (1) A fee specified by this Order is not payable by a person if—
 
@@ -101,17 +101,17 @@ The Scottish Ministers make the following Order in exercise of the powers confer
 - “**the 2012 Act**” means the Welfare Reform Act 2012[^f00013],
 - “**partner**” means a person to whom a person is married or with whom the person is in a civil partnership.
 
-## 5. Exemptions relating to particular proceedings[^key-918c7d517943ec654cc260cf7cf5944c]
+## 5. Exemptions relating to particular proceedings[^c-918c7d517943ec654cc260cf7cf5944c]
 
 (1) The fees provided for by this Order do not apply to any appeal to the Sheriff Appeal Court under or by virtue of the Children’s Hearings (Scotland) Act 2011[^f00014].
 
 (2) The fees provided for by this Order do not apply to a debtor or creditor in any appeal to the Sheriff Appeal Court under the Debtors (Scotland) Act 1987[^f00015] or the Debt Arrangement and Attachment (Scotland) Act 2002[^f00016].
 
-## 6. Exemptions for applicants for certain interdicts and orders[^key-eb838705ac36eb90d0def3d2abcb3915]
+## 6. Exemptions for applicants for certain interdicts and orders[^c-eb838705ac36eb90d0def3d2abcb3915]
 
 The fees provided for by this Order are not payable by the applicant in any appeal in connection with proceedings in respect of which the applicant would not be required to pay fees in the sheriff court by virtue of article 13(1) of the Sheriff Court Fees Order 2026[^f00017] (exemptions for applicants for certain interdicts and orders).
 
-## 7. Revocation[^key-e06a92bd73edc31ff2e3b348e3a16a24]
+## 7. Revocation[^c-e06a92bd73edc31ff2e3b348e3a16a24]
 
 The following instruments are revoked—
 
@@ -128,7 +128,7 @@ Edinburgh
 
 11th February 2026
 
-## Schedule 1 — Table of Fees[^key-b21707063623874ea9fc2f92996323dc]
+## Schedule 1 — Table of Fees[^c-b21707063623874ea9fc2f92996323dc]
 
 Article 2(1)(a)
 
@@ -178,7 +178,7 @@ Payable from 1 April 2026
 | (i) where written notice of cancellation received from receiving party after 4.00 pm on the fourth working day before the day of diet of taxation, | 50% of fee that would have been payable under sub-paragraph (b) of this paragraph | 50% of fee that would have been payable under sub-paragraph (b) of this paragraph |
 | (ii) where written notice of cancellation received from receiving party after 4.00 pm on the second working day before the day of the diet of taxation. | 75% of fee that would have been payable under sub-paragraph (b) of this paragraph | 75% of fee that would have been payable under sub-paragraph (b) of this paragraph |
 
-## Schedule 2 — Table of Fees[^key-f4fe5ecad9d6ab4b31ebc55be7e33c86]
+## Schedule 2 — Table of Fees[^c-f4fe5ecad9d6ab4b31ebc55be7e33c86]
 
 Article 2(1)(b)
 
@@ -255,19 +255,19 @@ Article 7 revokes the Sheriff Appeal Court Fees Order 2024, and an instrument wh
 
 [^f00001]: Footnote: [2014 asp 18](https://www.legislation.gov.uk/asp/2014/18). The definition of “relevant officer” in section 107(3) was relevantly amended by [S.S.I. 2016/387](https://www.legislation.gov.uk/ssi/2016/387).
 
-[^key-2fd31509a6efd055f54aad01f42676bb]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/79/article/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
+[^c-2fd31509a6efd055f54aad01f42676bb]: Commencement: [Art. 1](https://www.legislation.gov.uk/ssi/2026/79/article/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2021/468](https://www.legislation.gov.uk/ssi/2021/468), as last amended by [S.S.I. 2024/353](https://www.legislation.gov.uk/ssi/2024/353).
 
-[^key-7897e236035801881a39f680f0af264e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/79/article/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
+[^c-7897e236035801881a39f680f0af264e]: Commencement: [Art. 2](https://www.legislation.gov.uk/ssi/2026/79/article/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
 
-[^key-243d0ae2a1b29cda064b9b3cb60693c8]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/79/article/3) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
+[^c-243d0ae2a1b29cda064b9b3cb60693c8]: Commencement: [Art. 3](https://www.legislation.gov.uk/ssi/2026/79/article/3) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
 
 [^f00003]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47). Section 13(2) was amended by paragraph 36 of schedule 8 and schedule 9 of the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c. 40)](https://www.legislation.gov.uk/ukpga/1990/40).
 
 [^f00004]: Footnote: [1986 c. 47](https://www.legislation.gov.uk/ukpga/1986/47).
 
-[^key-f2b157b51dea3ff8c9b329b3f9fd4ba0]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/79/article/4) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
+[^c-f2b157b51dea3ff8c9b329b3f9fd4ba0]: Commencement: [Art. 4](https://www.legislation.gov.uk/ssi/2026/79/article/4) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
 
 [^f00005]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4). Section 124, which provides for income support, was amended by paragraph 30 of schedule 2 and schedule 3 of the Jobseekers Act [1995 (c. 18)](https://www.legislation.gov.uk/ukpga/1995/18), paragraph 28 of schedule 8 of the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), paragraph 2 of schedule 2 and schedule 3 of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 42 of schedule 24 of the Civil Partnership Act [2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), paragraph 9 of schedule 3 and schedule 8 of the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), section 3 of the Welfare Reform Act [2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), and section 58 and schedule 14 of the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
@@ -287,7 +287,7 @@ Article 7 revokes the Sheriff Appeal Court Fees Order 2024, and an instrument wh
 
 [^f00013]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-918c7d517943ec654cc260cf7cf5944c]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2026/79/article/5) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
+[^c-918c7d517943ec654cc260cf7cf5944c]: Commencement: [Art. 5](https://www.legislation.gov.uk/ssi/2026/79/article/5) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
 
 [^f00014]: Footnote: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1).
 
@@ -295,22 +295,22 @@ Article 7 revokes the Sheriff Appeal Court Fees Order 2024, and an instrument wh
 
 [^f00016]: Footnote: [2002 asp 17](https://www.legislation.gov.uk/asp/2002/17).
 
-[^key-eb838705ac36eb90d0def3d2abcb3915]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2026/79/article/6) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
+[^c-eb838705ac36eb90d0def3d2abcb3915]: Commencement: [Art. 6](https://www.legislation.gov.uk/ssi/2026/79/article/6) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
 
 [^f00017]: Footnote: [S.S.I. 2026/74](https://www.legislation.gov.uk/ssi/2026/74).
 
-[^key-e06a92bd73edc31ff2e3b348e3a16a24]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2026/79/article/7) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
+[^c-e06a92bd73edc31ff2e3b348e3a16a24]: Commencement: [Art. 7](https://www.legislation.gov.uk/ssi/2026/79/article/7) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
 
 [^f00018]: Footnote: [S.S.I. 2024/236](https://www.legislation.gov.uk/ssi/2024/236).
 
 [^f00019]: Footnote: [S.S.I. 2025/9](https://www.legislation.gov.uk/ssi/2025/9).
 
-[^key-b21707063623874ea9fc2f92996323dc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/79/schedule/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
+[^c-b21707063623874ea9fc2f92996323dc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2026/79/schedule/1) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
 
 [^f00021]: Footnote: The Simple Procedure Rules are in schedule 1 of [S.S.I. 2016/200](https://www.legislation.gov.uk/ssi/2016/200), as last amended by [S.S.I. 2024/353](https://www.legislation.gov.uk/ssi/2024/353).
 
 [^f00020]: Footnote: Column 3 shows the fees payable by virtue of the schedule of [S.S.I. 2024/236](https://www.legislation.gov.uk/ssi/2024/236) immediately before the coming into force of this schedule.
 
-[^key-f4fe5ecad9d6ab4b31ebc55be7e33c86]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/79/schedule/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
+[^c-f4fe5ecad9d6ab4b31ebc55be7e33c86]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2026/79/schedule/2) in force at 1.4.2026, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2026/79/article/1/1)
 
 [^f00022]: Footnote: Column 3 shows the fees which were payable by virtue of schedule 1 of this Order immediately before the coming into force of this schedule.

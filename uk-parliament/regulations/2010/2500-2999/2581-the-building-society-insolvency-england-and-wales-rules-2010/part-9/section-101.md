@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Building society liquidator’s remuneration where he realises assets on behalf of chargeholder[^key-e13bbc0cb622bdbdf7485ca8203f036d]
+## 101. Building society liquidator’s remuneration where he realises assets on behalf of chargeholder[^c-e13bbc0cb622bdbdf7485ca8203f036d]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e13bbc0cb622bdbdf7485ca8203f036d]: Commencement: Rule 101 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-e13bbc0cb622bdbdf7485ca8203f036d]: Commencement: Rule 101 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00043]: Footnote: Rule 4.127B was inserted by [S.I. 2004/584](https://www.legislation.gov.uk/uksi/2004/584).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Definition of “institution” and “deposit”[^key-7ca1439d2aee5326dc835b107ea88cb1]
+## 198. Definition of “institution” and “deposit”[^c-7ca1439d2aee5326dc835b107ea88cb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7ca1439d2aee5326dc835b107ea88cb1]: Commencement: Art. 198 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7ca1439d2aee5326dc835b107ea88cb1]: Commencement: Art. 198 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00140]: Footnote: Section 107 was amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Approval of major modifications by Judicial Commissioners[^key-d79c19520ca3fb9c3f839182f16433f0]
+## 165. Approval of major modifications by Judicial Commissioners[^c-d79c19520ca3fb9c3f839182f16433f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d79c19520ca3fb9c3f839182f16433f0]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2016/25/section/165) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)
+[^c-d79c19520ca3fb9c3f839182f16433f0]: Commencement: [S. 165](https://www.legislation.gov.uk/ukpga/2016/25/section/165) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/b)

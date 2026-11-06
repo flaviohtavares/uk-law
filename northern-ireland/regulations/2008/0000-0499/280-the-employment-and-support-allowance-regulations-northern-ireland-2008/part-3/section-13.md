@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Modification of the relevant benefit year[^key-de501c886d3eff1e9a1c12e783ffd415]
+## 13. Modification of the relevant benefit year[^c-de501c886d3eff1e9a1c12e783ffd415]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ but would satisfy those conditions if the modified definition of “relevant ben
 
 ## Annotations
 
-[^key-de501c886d3eff1e9a1c12e783ffd415]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/280/regulation/13) heading substituted (28.6.2010) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010 (S.R. 2010/200)](https://www.legislation.gov.uk/nisr/2010/200), [regs. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1), [9(7)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/7)
+[^c-de501c886d3eff1e9a1c12e783ffd415]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/280/regulation/13) heading substituted (28.6.2010) by [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2010 (S.R. 2010/200)](https://www.legislation.gov.uk/nisr/2010/200), [regs. 1](https://www.legislation.gov.uk/nisr/2010/200/regulation/1), [9(7)](https://www.legislation.gov.uk/nisr/2010/200/regulation/9/7)

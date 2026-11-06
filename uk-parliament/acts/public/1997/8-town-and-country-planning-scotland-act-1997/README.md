@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 
 \[27th February 1997\]
 
-[^c950062]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-d6dac9101459d0279492d474ad0b6329][^key-eee245270d8dc02e7d80823d043a39f1][^key-8f84f8e8fc13a36fc97f0c6eca98bd92][^key-49d67a684b80ec138bd033fd3d6a67ec][^key-8b230b760651956f466680738498d7b3][^key-a5bcfa816e943668dd9431a4fcfe86cf][^key-91ab4a9152be442114ac6725f403b61a][^key-4e642b83e218c5fd4f8bd0dfcebd8a0b][^key-414a52dc8e063dda30d4b0c5b266aa34][^key-2f75cd5caab2b8a03cdf126c9b77ad4c][^key-47f0e9c1109a67e7511a9e441de3dcf4][^key-7c9ac623ab0b57f0d109b3281a7fc5ba][^key-d516c0eed3fccfc4e85ed29b8e9d21d1][^key-c996a358e5e435e7bcee31f86ca44807][^key-f370febde6ae984264b3cb0d7ff007bd][^key-ceda2e8eba857b8850afdcec7c036692]
+[^c950062]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-d6dac9101459d0279492d474ad0b6329][^c-eee245270d8dc02e7d80823d043a39f1][^c-8f84f8e8fc13a36fc97f0c6eca98bd92][^c-49d67a684b80ec138bd033fd3d6a67ec][^c-8b230b760651956f466680738498d7b3][^c-a5bcfa816e943668dd9431a4fcfe86cf][^c-91ab4a9152be442114ac6725f403b61a][^c-4e642b83e218c5fd4f8bd0dfcebd8a0b][^c-414a52dc8e063dda30d4b0c5b266aa34][^c-2f75cd5caab2b8a03cdf126c9b77ad4c][^c-47f0e9c1109a67e7511a9e441de3dcf4][^c-7c9ac623ab0b57f0d109b3281a7fc5ba][^c-d516c0eed3fccfc4e85ed29b8e9d21d1][^c-c996a358e5e435e7bcee31f86ca44807][^c-f370febde6ae984264b3cb0d7ff007bd][^c-ceda2e8eba857b8850afdcec7c036692]
 
 ## Contents
 
@@ -46,11 +46,11 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 2 — Enterprise zones.](part-i/section-2.md)
 - [Section 3 — Urban development areas.](part-i/section-3.md)
 
-### PART 1ZA — Purpose of planning[^key-e51f81b09105a627c07ed2fb252d6930]
+### PART 1ZA — Purpose of planning[^c-e51f81b09105a627c07ed2fb252d6930]
 
 - [Section 3ZA — Purpose of planning](part-1za/section-3za.md)
 
-### Part 1A — National Planning Framework[^key-62500c5d6522b23f8c30631f53e6ac84]
+### Part 1A — National Planning Framework[^c-62500c5d6522b23f8c30631f53e6ac84]
 
 *Extent: S*
 
@@ -62,17 +62,17 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 3C — National Planning Framework to be laid before Parliament](part-1a/section-3c.md)
 - [Section 3CA — National Planning Framework: procedure](part-1a/section-3ca.md)
 
-#### Duties to assist in shaping the National Planning Framework[^key-49d3b9575d94c7202425c3684884eca9][^key-62500c5d6522b23f8c30631f53e6ac84]
+#### Duties to assist in shaping the National Planning Framework[^c-49d3b9575d94c7202425c3684884eca9][^c-62500c5d6522b23f8c30631f53e6ac84]
 
 - [Section 3CB — Key agencies to co-operate](part-1a/section-3cb.md)
 - [Section 3CC — Amendment of National Planning Framework](part-1a/section-3cc.md)
 - [Section 3D — Sustainable development: exercise of functions by Scottish Ministers](part-1a/section-3d.md)
 
-### Part 2 — Development Plans[^key-a9a88db2b397a4914f8e8d771f762037]
+### Part 2 — Development Plans[^c-a9a88db2b397a4914f8e8d771f762037]
 
 *Extent: S*
 
-#### Sustainable development[^key-a9a88db2b397a4914f8e8d771f762037]
+#### Sustainable development[^c-a9a88db2b397a4914f8e8d771f762037]
 
 *Extent: S*
 
@@ -80,7 +80,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 3F — Greenhouse gas emissions policies](part-ii/section-3f.md)
 - [Section 3G — Open space strategy](part-ii/section-3g.md)
 
-#### Strategic development planning[^key-a9a88db2b397a4914f8e8d771f762037]
+#### Strategic development planning[^c-a9a88db2b397a4914f8e8d771f762037]
 
 *Extent: S*
 
@@ -102,7 +102,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 13 — Proposed strategic development plan: approval or rejection](part-ii/section-13.md)
 - [Section 14 — Publication of and publicity for strategic development plan](part-ii/section-14.md)
 
-#### Local development plans[^key-a9a88db2b397a4914f8e8d771f762037]
+#### Local development plans[^c-a9a88db2b397a4914f8e8d771f762037]
 
 *Extent: S*
 
@@ -124,18 +124,18 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 20A — Publication of and publicity for local development plan](part-ii/section-20a.md)
 - [Section 20AA — Amendment of local development plan](part-ii/section-20aa.md)
 
-#### Development plan schemes and delivery programmes[^key-dacff8672db8078a7606c26ddac0aa8f][^key-a9a88db2b397a4914f8e8d771f762037]
+#### Development plan schemes and delivery programmes[^c-dacff8672db8078a7606c26ddac0aa8f][^c-a9a88db2b397a4914f8e8d771f762037]
 
 *Extent: S*
 
 - [Section 20B — Development plan schemes](part-ii/section-20b.md)
 - [Section 21 — Delivery programmes](part-ii/section-21.md)
 
-#### ...[^key-6494ba2d0d8d3a04057a93b439dfefdb][^key-a9a88db2b397a4914f8e8d771f762037]
+#### ...[^c-6494ba2d0d8d3a04057a93b439dfefdb][^c-a9a88db2b397a4914f8e8d771f762037]
 
 - [Section 22 — Supplementary guidance](part-ii/section-22.md)
 
-#### Supplementary provisions[^key-a9a88db2b397a4914f8e8d771f762037]
+#### Supplementary provisions[^c-a9a88db2b397a4914f8e8d771f762037]
 
 - [Section 23 — Disregarding of representations with respect to development authorised by or under other enactments](part-ii/section-23.md)
 - [Section 23A — Regulations under this Part](part-ii/section-23a.md)
@@ -144,7 +144,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 23D — Meaning of “key agency”](part-ii/section-23d.md)
 - [Section 24 — Meaning of “development plan”](part-ii/section-24.md)
 
-#### General[^key-a9a88db2b397a4914f8e8d771f762037]
+#### General[^c-a9a88db2b397a4914f8e8d771f762037]
 
 - [Section 25 — Status of development plan](part-ii/section-25.md)
 
@@ -163,14 +163,14 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 26B — Material change of use: short-term lets](part-iii/section-26b.md)
 - [Section 27 — Time when development begun.](part-iii/section-27.md)
 
-#### Initiation and completion of development[^key-90ba054c2b090d0db841c0713740467b]
+#### Initiation and completion of development[^c-90ba054c2b090d0db841c0713740467b]
 
 *Extent: S*
 
 - [Section 27A — Notification of initiation of development](part-iii/section-27a.md)
 - [Section 27B — Notification of completion of development](part-iii/section-27b.md)
 
-#### Display of notice while development is carried out[^key-90ba054c2b090d0db841c0713740467b]
+#### Display of notice while development is carried out[^c-90ba054c2b090d0db841c0713740467b]
 
 - [Section 27C — Display of notice while development is carried out](part-iii/section-27c.md)
 
@@ -188,7 +188,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 30 — Development orders: general.](part-iii/section-30.md)
 - [Section 31 — Permission granted by development order.](part-iii/section-31.md)
 
-#### Planning permission in respect of operation of marine fish farm[^key-df058b895d0ba48f4d58fed9637cea43]
+#### Planning permission in respect of operation of marine fish farm[^c-df058b895d0ba48f4d58fed9637cea43]
 
 - [Section 31A — Planning permission in respect of operation of marine fish farm](part-iii/section-31a.md)
 
@@ -198,7 +198,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 
 - [Section 32 — Applications for planning permission](part-iii/section-32.md)
 
-#### Variation of application[^key-97742a1f19e6b17c9526c4f188e1b81f]
+#### Variation of application[^c-97742a1f19e6b17c9526c4f188e1b81f]
 
 - [Section 32A — Variation of application other than one referred to the Scottish Ministers](part-iii/section-32a.md)
 - [Section 32B — Variation of application referred to the Scottish Ministers](part-iii/section-32b.md)
@@ -258,7 +258,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 53 — Alteration of simplified planning zone scheme.](part-iii/section-53.md)
 - [Section 54 — Exclusion of certain descriptions of land or development.](part-iii/section-54.md)
 
-#### Masterplan consent areas[^key-3f525e4a6701fb9d3bbf93e49d5c9010]
+#### Masterplan consent areas[^c-3f525e4a6701fb9d3bbf93e49d5c9010]
 
 - [Section 54A — Making and alteration of schemes](part-iii/section-54a.md)
 - [Section 54B — Scheme grants planning permission, etc.](part-iii/section-54b.md)
@@ -324,7 +324,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 75F — Good neighbour agreements: appeals](part-iii/section-75f.md)
 - [Section 75G — Good neighbour agreements: continuing liability of former owner etc.](part-iii/section-75g.md)
 
-### Part IV — Compensation for Effects of Certain Orders, Notices etc.[^key-4af900ed0c325a8939c8ae2addf3c954][^key-a2be7758258ba20db0e41d559641f0df][^key-bd1d696420215e3f0af9db6c2b920432][^key-7981dc23c9f4f6e925d898280815196d]
+### Part IV — Compensation for Effects of Certain Orders, Notices etc.[^c-4af900ed0c325a8939c8ae2addf3c954][^c-a2be7758258ba20db0e41d559641f0df][^c-bd1d696420215e3f0af9db6c2b920432][^c-7981dc23c9f4f6e925d898280815196d]
 
 *Extent: S*
 
@@ -346,7 +346,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 
 - [Section 87 — General provisions as to compensation for depreciation under this Part.](part-iv/section-87.md)
 
-### Part V — Rights of Owners etc. to Require Purchase of Interests[^key-47e43d9c00b9fda742337f61d6c55b29]
+### Part V — Rights of Owners etc. to Require Purchase of Interests[^c-47e43d9c00b9fda742337f61d6c55b29]
 
 *Extent: S*
 
@@ -382,7 +382,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 
 - [Section 99 — Interpretation of Chapter I.](part-v/section-99.md)
 
-#### Chapter II — Interests Affected by Planning Proposals: Blight[^key-91fbb78891d0345a2f4c7b06b333391d][^key-77f516aac4ed02878e80ef3ed72aadee][^key-5ff4ba18cef09e47655181a65881ac1f][^key-b2ec9dd4e74f1cc499f7d9d13693a8ab][^key-4a8a5aaabc343f90b6fb630c3481fe1d][^key-009adbea36e9a37a07d6cbaaaac6fd0c]
+#### Chapter II — Interests Affected by Planning Proposals: Blight[^c-91fbb78891d0345a2f4c7b06b333391d][^c-77f516aac4ed02878e80ef3ed72aadee][^c-5ff4ba18cef09e47655181a65881ac1f][^c-b2ec9dd4e74f1cc499f7d9d13693a8ab][^c-4a8a5aaabc343f90b6fb630c3481fe1d][^c-009adbea36e9a37a07d6cbaaaac6fd0c]
 
 ##### Preliminary
 
@@ -428,7 +428,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 121 — “Appropriate enactment” for purposes of Chapter II.](part-v/section-121.md)
 - [Section 122 — General interpretation of Chapter II.](part-v/section-122.md)
 
-### Part VI — Enforcement[^key-3b4acec64419eb2538379d4631a1dfab][^key-d2a144ceddebebb1e8e7155c5eafa2ad][^key-3c98da7d91ce83bb52ebb8b9ee3787d4]
+### Part VI — Enforcement[^c-3b4acec64419eb2538379d4631a1dfab][^c-d2a144ceddebebb1e8e7155c5eafa2ad][^c-3c98da7d91ce83bb52ebb8b9ee3787d4]
 
 *Extent: S*
 
@@ -467,7 +467,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 143 — Compensation for loss due to stop notice.](part-vi/section-143.md)
 - [Section 144 — Penalties for contravention of stop notice.](part-vi/section-144.md)
 
-#### Temporary stop notices[^key-4ef06b335df9170b00f395d744540aa9]
+#### Temporary stop notices[^c-4ef06b335df9170b00f395d744540aa9]
 
 - [Section 144A — Temporary stop notices](part-vi/section-144a.md)
 - [Section 144B — Temporary stop notices: restrictions](part-vi/section-144b.md)
@@ -507,13 +507,13 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 157 — Right to enter under warrant.](part-vi/section-157.md)
 - [Section 158 — Rights of entry: supplementary provisions.](part-vi/section-158.md)
 
-#### Enforcement charters[^key-fecfeca9b6a1ced1b5d01cef2ab78c67]
+#### Enforcement charters[^c-fecfeca9b6a1ced1b5d01cef2ab78c67]
 
 *Extent: S*
 
 - [Section 158A — Enforcement charters](part-vi/section-158a.md)
 
-### Part VII — Special Controls[^key-1c12b5c9483541df97ed96101d55b48b]
+### Part VII — Special Controls[^c-1c12b5c9483541df97ed96101d55b48b]
 
 *Extent: S*
 
@@ -588,7 +588,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 186 — Enforcement of control as to advertisements.](part-vii/section-186.md)
 - [Section 187 — Power to remove or obliterate placards and posters.](part-vii/section-187.md)
 
-### Part VIII — Acquisition and Appropriation of Land for Planning Purposes etc.[^key-1e5249a4e6c639d0b22dae2f940d9768][^key-bdf8bb453f7e329bb9773fdaac8f6216]
+### Part VIII — Acquisition and Appropriation of Land for Planning Purposes etc.[^c-1e5249a4e6c639d0b22dae2f940d9768][^c-bdf8bb453f7e329bb9773fdaac8f6216]
 
 *Extent: S*
 
@@ -649,7 +649,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 
 - [Section 213 — Temporary stopping up of roads, footpaths and bridleways for mineral workings.](part-ix/section-213.md)
 
-### Part X — Statutory Undertakers[^key-a4513cedcba0fc818dd6360480d2a195]
+### Part X — Statutory Undertakers[^c-a4513cedcba0fc818dd6360480d2a195]
 
 *Extent: S*
 
@@ -696,7 +696,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 
 - [Section 236 — Special provisions as to display of advertisements on operational land.](part-x/section-236.md)
 
-### Part XI — Validity[^key-d1ef4cbf240683fbf1a001cb92132906]
+### Part XI — Validity[^c-d1ef4cbf240683fbf1a001cb92132906]
 
 *Extent: S*
 
@@ -743,7 +743,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 
 - [Section 251 — Enforcement in respect of war-time breaches of planning control by the Crown.](part-xii/section-251.md)
 
-#### National performance monitoring[^key-b9da95e230dbe0fa3aa2d48fc1cb5c14]
+#### National performance monitoring[^c-b9da95e230dbe0fa3aa2d48fc1cb5c14]
 
 *Extent: S*
 
@@ -777,7 +777,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 262 — Power to modify Act in relation to minerals.](part-xiv/section-262.md)
 - [Section 263 — Application of certain provisions to planning authorities.](part-xiv/section-263.md)
 
-#### National Scenic Areas[^key-68b387e59b495eca76612e526e71721e]
+#### National Scenic Areas[^c-68b387e59b495eca76612e526e71721e]
 
 - [Section 263A — National Scenic Areas](part-xiv/section-263a.md)
 - [Section 263B — National Scenic Areas: report on consultation](part-xiv/section-263b.md)
@@ -800,7 +800,7 @@ An Act to consolidate certain enactments relating to town and country planning i
 - [Section 267 — Appeals and applications under this Act: procedure etc.](part-xiv/section-267.md)
 - [Section 268 — Inquiries under Private Legislation Procedure (Scotland) Act 1936.](part-xiv/section-268.md)
 
-#### Promotion and use of mediation etc.[^key-4c2fef0b681e26b41012c6588b5d0d65]
+#### Promotion and use of mediation etc.[^c-4c2fef0b681e26b41012c6588b5d0d65]
 
 - [Section 268A — Promotion and use of mediation etc.](part-xiv/section-268a.md)
 
@@ -867,104 +867,104 @@ SCHEDULES
 
     Act applied (5.9.2002) by [S.S.I. 2002/410](https://www.legislation.gov.uk/ssi/2002/410), [art. 57(3)](https://www.legislation.gov.uk/ssi/2002/410/article/57/3) (with [arts. 59](https://www.legislation.gov.uk/ssi/2002/410/article/59), [61](https://www.legislation.gov.uk/ssi/2002/410/article/61))
 
-[^key-d6dac9101459d0279492d474ad0b6329]: Modification: Act applied (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 74(1)](https://www.legislation.gov.uk/asp/2006/7/section/74/1) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
+[^c-d6dac9101459d0279492d474ad0b6329]: Modification: Act applied (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 74(1)](https://www.legislation.gov.uk/asp/2006/7/section/74/1) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
 
-[^key-eee245270d8dc02e7d80823d043a39f1]: Modification: Act applied (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [art. 3(9)](https://www.legislation.gov.uk/ssi/2006/269/article/3/9)
+[^c-eee245270d8dc02e7d80823d043a39f1]: Modification: Act applied (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (Transitional Provisions) (Scotland) Order 2006 (S.S.I. 2006/269)](https://www.legislation.gov.uk/ssi/2006/269), [art. 3(9)](https://www.legislation.gov.uk/ssi/2006/269/article/3/9)
 
-[^key-8f84f8e8fc13a36fc97f0c6eca98bd92]: Modification: Act applied (24.7.2006) by [Waverley Railway (Scotland) Act 2006 (asp 13)](https://www.legislation.gov.uk/asp/2006/13), [s. 37(1)](https://www.legislation.gov.uk/asp/2006/13/section/37/1) (with [ss. 50(2)](https://www.legislation.gov.uk/asp/2006/13/section/50/2), [51](https://www.legislation.gov.uk/asp/2006/13/section/51))
+[^c-8f84f8e8fc13a36fc97f0c6eca98bd92]: Modification: Act applied (24.7.2006) by [Waverley Railway (Scotland) Act 2006 (asp 13)](https://www.legislation.gov.uk/asp/2006/13), [s. 37(1)](https://www.legislation.gov.uk/asp/2006/13/section/37/1) (with [ss. 50(2)](https://www.legislation.gov.uk/asp/2006/13/section/50/2), [51](https://www.legislation.gov.uk/asp/2006/13/section/51))
 
-[^key-49d67a684b80ec138bd033fd3d6a67ec]: Modification: Act applied (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [art. 14(5)](https://www.legislation.gov.uk/ssi/2007/268/article/14/5) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
+[^c-49d67a684b80ec138bd033fd3d6a67ec]: Modification: Act applied (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [art. 14(5)](https://www.legislation.gov.uk/ssi/2007/268/article/14/5) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
 
-[^key-8b230b760651956f466680738498d7b3]: Modification: Act applied (23.5.2008) by [Dumfries and Galloway Council (Port William) Harbour Empowerment Order 2008 (S.S.I. 2008/188)](https://www.legislation.gov.uk/ssi/2008/188), [art. 53(3)](https://www.legislation.gov.uk/ssi/2008/188/article/53/3) (with [arts. 53-56](https://www.legislation.gov.uk/ssi/2008/188/article/53))
+[^c-8b230b760651956f466680738498d7b3]: Modification: Act applied (23.5.2008) by [Dumfries and Galloway Council (Port William) Harbour Empowerment Order 2008 (S.S.I. 2008/188)](https://www.legislation.gov.uk/ssi/2008/188), [art. 53(3)](https://www.legislation.gov.uk/ssi/2008/188/article/53/3) (with [arts. 53-56](https://www.legislation.gov.uk/ssi/2008/188/article/53))
 
-[^key-a5bcfa816e943668dd9431a4fcfe86cf]: Modification: Act applied (23.5.2008) by [Dumfries and Galloway Council (Garlieston) Harbour Empowerment Order 2008 (S.S.I. 2008/190)](https://www.legislation.gov.uk/ssi/2008/190), [art. 53(3)](https://www.legislation.gov.uk/ssi/2008/190/article/53/3) (with [arts. 53(1)](https://www.legislation.gov.uk/ssi/2008/190/article/53/1), [54-56](https://www.legislation.gov.uk/ssi/2008/190/article/54))
+[^c-a5bcfa816e943668dd9431a4fcfe86cf]: Modification: Act applied (23.5.2008) by [Dumfries and Galloway Council (Garlieston) Harbour Empowerment Order 2008 (S.S.I. 2008/190)](https://www.legislation.gov.uk/ssi/2008/190), [art. 53(3)](https://www.legislation.gov.uk/ssi/2008/190/article/53/3) (with [arts. 53(1)](https://www.legislation.gov.uk/ssi/2008/190/article/53/1), [54-56](https://www.legislation.gov.uk/ssi/2008/190/article/54))
 
-[^key-91ab4a9152be442114ac6725f403b61a]: Modification: Act construed as one with S.I. 1994/2716, regs. 54-67 by virtue of S.I. 1994/2716, reg. 68(b) (as substituted (1.10.2009) by [Conservation (Natural Habitats, &c.) (Amendment) (No.2) Regulations 2009 (S.I. 2009/2438)](https://www.legislation.gov.uk/uksi/2009/2438), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2438/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/2438/regulation/6/2))
+[^c-91ab4a9152be442114ac6725f403b61a]: Modification: Act construed as one with S.I. 1994/2716, regs. 54-67 by virtue of S.I. 1994/2716, reg. 68(b) (as substituted (1.10.2009) by [Conservation (Natural Habitats, &c.) (Amendment) (No.2) Regulations 2009 (S.I. 2009/2438)](https://www.legislation.gov.uk/uksi/2009/2438), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2438/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2009/2438/regulation/6/2))
 
-[^key-4e642b83e218c5fd4f8bd0dfcebd8a0b]: Modification: Act continued (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [reg. 10(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/10/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
+[^c-4e642b83e218c5fd4f8bd0dfcebd8a0b]: Modification: Act continued (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [reg. 10(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/10/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
 
-[^key-414a52dc8e063dda30d4b0c5b266aa34]: Modification: Act applied in part (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 62(3)](https://www.legislation.gov.uk/asp/2011/2/section/62/3), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-414a52dc8e063dda30d4b0c5b266aa34]: Modification: Act applied in part (18.3.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 62(3)](https://www.legislation.gov.uk/asp/2011/2/section/62/3), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-2f75cd5caab2b8a03cdf126c9b77ad4c]: Modification: Act modified (27.9.2011) by [The Caledonian Maritime Assets (Kennacraig) Harbour Revision Order 2011 (S.S.I. 2011/347)](https://www.legislation.gov.uk/ssi/2011/347), [art. 15(a)](https://www.legislation.gov.uk/ssi/2011/347/article/15/a)
+[^c-2f75cd5caab2b8a03cdf126c9b77ad4c]: Modification: Act modified (27.9.2011) by [The Caledonian Maritime Assets (Kennacraig) Harbour Revision Order 2011 (S.S.I. 2011/347)](https://www.legislation.gov.uk/ssi/2011/347), [art. 15(a)](https://www.legislation.gov.uk/ssi/2011/347/article/15/a)
 
-[^key-47f0e9c1109a67e7511a9e441de3dcf4]: Modification: Act applied in part (with modifications) (S.) (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [Sch. 7 para. 1(2)-(5)](https://www.legislation.gov.uk/ssi/2017/100/schedule/7/paragraph/1/2) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37), [sch. 7 paras. 1(6)](https://www.legislation.gov.uk/ssi/2017/100/schedule/7/paragraph/1/6), [2](https://www.legislation.gov.uk/ssi/2017/100/schedule/7/paragraph/2))
+[^c-47f0e9c1109a67e7511a9e441de3dcf4]: Modification: Act applied in part (with modifications) (S.) (11.4.2017) by [The Network Rail (Glasgow Queen Street Station) Order 2017 (S.S.I. 2017/100)](https://www.legislation.gov.uk/ssi/2017/100), [Sch. 7 para. 1(2)-(5)](https://www.legislation.gov.uk/ssi/2017/100/schedule/7/paragraph/1/2) (with [art. 37](https://www.legislation.gov.uk/ssi/2017/100/article/37), [sch. 7 paras. 1(6)](https://www.legislation.gov.uk/ssi/2017/100/schedule/7/paragraph/1/6), [2](https://www.legislation.gov.uk/ssi/2017/100/schedule/7/paragraph/2))
 
-[^key-7c9ac623ab0b57f0d109b3281a7fc5ba]: Modification: Act modified (4.3.2021) by [The Eyemouth Harbour Revision Order 2021 (S.S.I. 2021/118)](https://www.legislation.gov.uk/ssi/2021/118), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/118/article/1/1), [12(3)](https://www.legislation.gov.uk/ssi/2021/118/article/12/3) (with [arts. 36](https://www.legislation.gov.uk/ssi/2021/118/article/36), [37](https://www.legislation.gov.uk/ssi/2021/118/article/37))
+[^c-7c9ac623ab0b57f0d109b3281a7fc5ba]: Modification: Act modified (4.3.2021) by [The Eyemouth Harbour Revision Order 2021 (S.S.I. 2021/118)](https://www.legislation.gov.uk/ssi/2021/118), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/118/article/1/1), [12(3)](https://www.legislation.gov.uk/ssi/2021/118/article/12/3) (with [arts. 36](https://www.legislation.gov.uk/ssi/2021/118/article/36), [37](https://www.legislation.gov.uk/ssi/2021/118/article/37))
 
-[^key-d516c0eed3fccfc4e85ed29b8e9d21d1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/8) modified (7.11.2024) by [The Dumfries and Galloway Council (Stranraer) Harbour Revision Order 2024 (S.S.I. 2024/325)](https://www.legislation.gov.uk/ssi/2024/325), [arts. 1](https://www.legislation.gov.uk/ssi/2024/325/article/1), [4(2)](https://www.legislation.gov.uk/ssi/2024/325/article/4/2) (with [arts. 42-44](https://www.legislation.gov.uk/ssi/2024/325/article/42))
+[^c-d516c0eed3fccfc4e85ed29b8e9d21d1]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/8) modified (7.11.2024) by [The Dumfries and Galloway Council (Stranraer) Harbour Revision Order 2024 (S.S.I. 2024/325)](https://www.legislation.gov.uk/ssi/2024/325), [arts. 1](https://www.legislation.gov.uk/ssi/2024/325/article/1), [4(2)](https://www.legislation.gov.uk/ssi/2024/325/article/4/2) (with [arts. 42-44](https://www.legislation.gov.uk/ssi/2024/325/article/42))
 
-[^key-c996a358e5e435e7bcee31f86ca44807]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/8) modified (12.3.2025) by [The St. Andrews Harbour Revision Order 2025 (S.S.I. 2025/64)](https://www.legislation.gov.uk/ssi/2025/64), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/64/article/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/64/article/3/3) (with [arts. 28](https://www.legislation.gov.uk/ssi/2025/64/article/28), [29](https://www.legislation.gov.uk/ssi/2025/64/article/29))
+[^c-c996a358e5e435e7bcee31f86ca44807]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/8) modified (12.3.2025) by [The St. Andrews Harbour Revision Order 2025 (S.S.I. 2025/64)](https://www.legislation.gov.uk/ssi/2025/64), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/64/article/1/1), [3(3)](https://www.legislation.gov.uk/ssi/2025/64/article/3/3) (with [arts. 28](https://www.legislation.gov.uk/ssi/2025/64/article/28), [29](https://www.legislation.gov.uk/ssi/2025/64/article/29))
 
-[^key-f370febde6ae984264b3cb0d7ff007bd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/8) modified (2.4.2026) by [The Peterhead Port Authority Harbour Revision Order 2026 (S.S.I. 2026/179)](https://www.legislation.gov.uk/ssi/2026/179), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/179/article/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2026/179/article/4/2) (with [arts. 23](https://www.legislation.gov.uk/ssi/2026/179/article/23), [24](https://www.legislation.gov.uk/ssi/2026/179/article/24))
+[^c-f370febde6ae984264b3cb0d7ff007bd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/8) modified (2.4.2026) by [The Peterhead Port Authority Harbour Revision Order 2026 (S.S.I. 2026/179)](https://www.legislation.gov.uk/ssi/2026/179), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/179/article/1/1), [4(2)](https://www.legislation.gov.uk/ssi/2026/179/article/4/2) (with [arts. 23](https://www.legislation.gov.uk/ssi/2026/179/article/23), [24](https://www.legislation.gov.uk/ssi/2026/179/article/24))
 
-[^key-ceda2e8eba857b8850afdcec7c036692]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/8) modified (24.9.2026) by [The Montrose Harbour Revision Order 2026 (S.S.I. 2026/273)](https://www.legislation.gov.uk/ssi/2026/273), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/273/article/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2026/273/article/5/2) (with [arts. 33](https://www.legislation.gov.uk/ssi/2026/273/article/33), [48](https://www.legislation.gov.uk/ssi/2026/273/article/48), [49](https://www.legislation.gov.uk/ssi/2026/273/article/49))
+[^c-ceda2e8eba857b8850afdcec7c036692]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1997/8) modified (24.9.2026) by [The Montrose Harbour Revision Order 2026 (S.S.I. 2026/273)](https://www.legislation.gov.uk/ssi/2026/273), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/273/article/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2026/273/article/5/2) (with [arts. 33](https://www.legislation.gov.uk/ssi/2026/273/article/33), [48](https://www.legislation.gov.uk/ssi/2026/273/article/48), [49](https://www.legislation.gov.uk/ssi/2026/273/article/49))
 
-[^key-e51f81b09105a627c07ed2fb252d6930]: Textual amendment: [Pt. 1ZA](https://www.legislation.gov.uk/ukpga/1997/8/part/1ZA) inserted (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/13/section/1/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-e51f81b09105a627c07ed2fb252d6930]: Textual amendment: [Pt. 1ZA](https://www.legislation.gov.uk/ukpga/1997/8/part/1ZA) inserted (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 1(2)](https://www.legislation.gov.uk/asp/2019/13/section/1/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
 
-[^key-62500c5d6522b23f8c30631f53e6ac84]: Textual amendment: Pt. 1A inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 1](https://www.legislation.gov.uk/asp/2006/17/section/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-62500c5d6522b23f8c30631f53e6ac84]: Textual amendment: Pt. 1A inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 1](https://www.legislation.gov.uk/asp/2006/17/section/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-49d3b9575d94c7202425c3684884eca9]: Textual amendment: Ss. 3CA, 3CB and cross-heading inserted (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 2(13)](https://www.legislation.gov.uk/asp/2019/13/section/2/13), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
+[^c-49d3b9575d94c7202425c3684884eca9]: Textual amendment: Ss. 3CA, 3CB and cross-heading inserted (8.11.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 2(13)](https://www.legislation.gov.uk/asp/2019/13/section/2/13), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/314/schedule)
 
-[^key-a9a88db2b397a4914f8e8d771f762037]: Textual amendment: Pt. 2 substituted (19.5.2008 for specified purposes, 25.6.2008 for specified purposes, 28.2.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 2](https://www.legislation.gov.uk/asp/2006/17/section/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with savings and transitional provisions in [S.S.I. 2008/165](https://www.legislation.gov.uk/ssi/2008/165), [arts. 1](https://www.legislation.gov.uk/ssi/2008/165/article/1), [2](https://www.legislation.gov.uk/ssi/2008/165/article/2) and [S.S.I. 2008/427](https://www.legislation.gov.uk/ssi/2008/427), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1), [2-5](https://www.legislation.gov.uk/ssi/2008/427/article/2)); [S.S.I. 2008/164](https://www.legislation.gov.uk/ssi/2008/164), [art. 2(1)(2)](https://www.legislation.gov.uk/ssi/2008/164/article/2/1/2), [sch.](https://www.legislation.gov.uk/ssi/2008/164/schedule); [S.S.I. 2009/70](https://www.legislation.gov.uk/ssi/2009/70), [art. 2](https://www.legislation.gov.uk/ssi/2009/70/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/70/schedule)
+[^c-a9a88db2b397a4914f8e8d771f762037]: Textual amendment: Pt. 2 substituted (19.5.2008 for specified purposes, 25.6.2008 for specified purposes, 28.2.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 2](https://www.legislation.gov.uk/asp/2006/17/section/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with savings and transitional provisions in [S.S.I. 2008/165](https://www.legislation.gov.uk/ssi/2008/165), [arts. 1](https://www.legislation.gov.uk/ssi/2008/165/article/1), [2](https://www.legislation.gov.uk/ssi/2008/165/article/2) and [S.S.I. 2008/427](https://www.legislation.gov.uk/ssi/2008/427), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/427/article/1/1), [2-5](https://www.legislation.gov.uk/ssi/2008/427/article/2)); [S.S.I. 2008/164](https://www.legislation.gov.uk/ssi/2008/164), [art. 2(1)(2)](https://www.legislation.gov.uk/ssi/2008/164/article/2/1/2), [sch.](https://www.legislation.gov.uk/ssi/2008/164/schedule); [S.S.I. 2009/70](https://www.legislation.gov.uk/ssi/2009/70), [art. 2](https://www.legislation.gov.uk/ssi/2009/70/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/70/schedule)
 
-[^key-dacff8672db8078a7606c26ddac0aa8f]: Textual amendment: [S. 20B cross-heading](https://www.legislation.gov.uk/ukpga/1997/8/part/2/crossheading/development-plan-schemes-and-action-programmes) substituted (8.11.2019 for specified purposes, 19.5.2023 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 11(4)](https://www.legislation.gov.uk/asp/2019/13/section/11/4), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2); [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2023/100/regulation/5))
+[^c-dacff8672db8078a7606c26ddac0aa8f]: Textual amendment: [S. 20B cross-heading](https://www.legislation.gov.uk/ukpga/1997/8/part/2/crossheading/development-plan-schemes-and-action-programmes) substituted (8.11.2019 for specified purposes, 19.5.2023 in so far as not already in force) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 11(4)](https://www.legislation.gov.uk/asp/2019/13/section/11/4), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/314](https://www.legislation.gov.uk/ssi/2019/314), [reg. 2](https://www.legislation.gov.uk/ssi/2019/314/regulation/2); [S.S.I. 2023/100](https://www.legislation.gov.uk/ssi/2023/100), [reg. 2(2)(c)](https://www.legislation.gov.uk/ssi/2023/100/regulation/2/2/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2023/100/regulation/5))
 
-[^key-6494ba2d0d8d3a04057a93b439dfefdb]: Textual amendment: [S. 22 and cross-heading](https://www.legislation.gov.uk/ukpga/1997/8/part/2/crossheading/supplementary-guidance) repealed (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 9](https://www.legislation.gov.uk/asp/2019/13/section/9), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/10/regulation/4))
+[^c-6494ba2d0d8d3a04057a93b439dfefdb]: Textual amendment: [S. 22 and cross-heading](https://www.legislation.gov.uk/ukpga/1997/8/part/2/crossheading/supplementary-guidance) repealed (12.2.2023) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 9](https://www.legislation.gov.uk/asp/2019/13/section/9), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2023/10](https://www.legislation.gov.uk/ssi/2023/10), [reg. 3(2)(b)](https://www.legislation.gov.uk/ssi/2023/10/regulation/3/2/b) (with [reg. 4](https://www.legislation.gov.uk/ssi/2023/10/regulation/4))
 
-[^key-90ba054c2b090d0db841c0713740467b]: Textual amendment: Ss. 27A-27C and cross-headings inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 6(1)](https://www.legislation.gov.uk/asp/2006/17/section/6/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 2](https://www.legislation.gov.uk/ssi/2009/222/article/2)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-90ba054c2b090d0db841c0713740467b]: Textual amendment: Ss. 27A-27C and cross-headings inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 6(1)](https://www.legislation.gov.uk/asp/2006/17/section/6/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 2](https://www.legislation.gov.uk/ssi/2009/222/article/2)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-df058b895d0ba48f4d58fed9637cea43]: Textual amendment: S. 31A and cross-heading inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 4(2)](https://www.legislation.gov.uk/asp/2006/17/section/4/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-df058b895d0ba48f4d58fed9637cea43]: Textual amendment: S. 31A and cross-heading inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 4(2)](https://www.legislation.gov.uk/asp/2006/17/section/4/2), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-97742a1f19e6b17c9526c4f188e1b81f]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 8](https://www.legislation.gov.uk/asp/2006/17/section/8), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 3](https://www.legislation.gov.uk/ssi/2009/222/article/3)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-97742a1f19e6b17c9526c4f188e1b81f]: Textual amendment: Ss. 32A, 32B and cross-heading inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 8](https://www.legislation.gov.uk/asp/2006/17/section/8), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2) (with [S.S.I. 2009/222](https://www.legislation.gov.uk/ssi/2009/222), [art. 3](https://www.legislation.gov.uk/ssi/2009/222/article/3)); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-3f525e4a6701fb9d3bbf93e49d5c9010]: Textual amendment: [Ss. 54A-54F](https://www.legislation.gov.uk/ukpga/1997/8/section/54A) and cross-heading inserted (5.12.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 15(2)](https://www.legislation.gov.uk/asp/2019/13/section/15/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/b)
+[^c-3f525e4a6701fb9d3bbf93e49d5c9010]: Textual amendment: [Ss. 54A-54F](https://www.legislation.gov.uk/ukpga/1997/8/section/54A) and cross-heading inserted (5.12.2024) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 15(2)](https://www.legislation.gov.uk/asp/2019/13/section/15/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2024/252](https://www.legislation.gov.uk/ssi/2024/252), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2024/252/regulation/2/2/b)
 
-[^key-4af900ed0c325a8939c8ae2addf3c954]: Modification: Pt. IV applied (with modifications) by S.I. 1994/2716, reg. 82D(2) (as inserted (28.12.2007) by [Transport and Works (Scotland) Act 2007 (Consequential and Transitional Provisions) Order 2007 (S.S.I. 2007/517)](https://www.legislation.gov.uk/ssi/2007/517), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/517/article/1/1), [3(4)](https://www.legislation.gov.uk/ssi/2007/517/article/3/4))
+[^c-4af900ed0c325a8939c8ae2addf3c954]: Modification: Pt. IV applied (with modifications) by S.I. 1994/2716, reg. 82D(2) (as inserted (28.12.2007) by [Transport and Works (Scotland) Act 2007 (Consequential and Transitional Provisions) Order 2007 (S.S.I. 2007/517)](https://www.legislation.gov.uk/ssi/2007/517), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/517/article/1/1), [3(4)](https://www.legislation.gov.uk/ssi/2007/517/article/3/4))
 
-[^key-a2be7758258ba20db0e41d559641f0df]: Modification: Pt. IV applied (with modifications) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [89(1)-(3)](https://www.legislation.gov.uk/uksi/2010/490/regulation/89/1), 93(1)-(3)(with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
+[^c-a2be7758258ba20db0e41d559641f0df]: Modification: Pt. IV applied (with modifications) (1.4.2010) by [The Conservation of Habitats and Species Regulations 2010 (S.I. 2010/490)](https://www.legislation.gov.uk/uksi/2010/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/490/regulation/1/2), [89(1)-(3)](https://www.legislation.gov.uk/uksi/2010/490/regulation/89/1), 93(1)-(3)(with [reg. 125](https://www.legislation.gov.uk/uksi/2010/490/regulation/125))
 
-[^key-bd1d696420215e3f0af9db6c2b920432]: Modification: Pt. IV applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [31(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/31/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
+[^c-bd1d696420215e3f0af9db6c2b920432]: Modification: Pt. IV applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [31(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/31/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
 
-[^key-7981dc23c9f4f6e925d898280815196d]: Modification: Pt. IV modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [92(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/92/1), 96(1)-(3)
+[^c-7981dc23c9f4f6e925d898280815196d]: Modification: Pt. IV modified (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [92(1)-(3)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/92/1), 96(1)-(3)
 
-[^key-47e43d9c00b9fda742337f61d6c55b29]: Modification: Pt. V excluded (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2007/268/article/3/2/b) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
+[^c-47e43d9c00b9fda742337f61d6c55b29]: Modification: Pt. V excluded (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/ssi/2007/268/article/3/2/b) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
 
-[^key-91fbb78891d0345a2f4c7b06b333391d]: Modification: Pt. V Ch. II applied (11.8.2004) by [Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)](https://www.legislation.gov.uk/asp/2004/10), [s. 34(2)](https://www.legislation.gov.uk/asp/2004/10/section/34/2) (with [s. 33](https://www.legislation.gov.uk/asp/2004/10/section/33))
+[^c-91fbb78891d0345a2f4c7b06b333391d]: Modification: Pt. V Ch. II applied (11.8.2004) by [Stirling-Alloa-Kincardine Railway and Linked Improvements Act 2004 (asp 10)](https://www.legislation.gov.uk/asp/2004/10), [s. 34(2)](https://www.legislation.gov.uk/asp/2004/10/section/34/2) (with [s. 33](https://www.legislation.gov.uk/asp/2004/10/section/33))
 
-[^key-77f516aac4ed02878e80ef3ed72aadee]: Modification: Pt. V Ch. II applied (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 74(2)](https://www.legislation.gov.uk/asp/2006/6/section/74/2) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
+[^c-77f516aac4ed02878e80ef3ed72aadee]: Modification: Pt. V Ch. II applied (27.4.2006) by [Edinburgh Tram (Line Two) Act 2006 (asp 6)](https://www.legislation.gov.uk/asp/2006/6), [s. 74(2)](https://www.legislation.gov.uk/asp/2006/6/section/74/2) (with [s. 75](https://www.legislation.gov.uk/asp/2006/6/section/75))
 
-[^key-5ff4ba18cef09e47655181a65881ac1f]: Modification: Pt. V Ch. II applied (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 75(2)](https://www.legislation.gov.uk/asp/2006/7/section/75/2) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
+[^c-5ff4ba18cef09e47655181a65881ac1f]: Modification: Pt. V Ch. II applied (8.5.2006) by [Edinburgh Tram (Line One) Act 2006 (asp 7)](https://www.legislation.gov.uk/asp/2006/7), [s. 75(2)](https://www.legislation.gov.uk/asp/2006/7/section/75/2) (with [ss. 76](https://www.legislation.gov.uk/asp/2006/7/section/76), [84](https://www.legislation.gov.uk/asp/2006/7/section/84))
 
-[^key-b2ec9dd4e74f1cc499f7d9d13693a8ab]: Modification: Pt. V Ch. II applied (24.7.2006) by [Waverley Railway (Scotland) Act 2006 (asp 13)](https://www.legislation.gov.uk/asp/2006/13), [s. 41(2)](https://www.legislation.gov.uk/asp/2006/13/section/41/2) (with [ss. 50(2)](https://www.legislation.gov.uk/asp/2006/13/section/50/2), [51](https://www.legislation.gov.uk/asp/2006/13/section/51))
+[^c-b2ec9dd4e74f1cc499f7d9d13693a8ab]: Modification: Pt. V Ch. II applied (24.7.2006) by [Waverley Railway (Scotland) Act 2006 (asp 13)](https://www.legislation.gov.uk/asp/2006/13), [s. 41(2)](https://www.legislation.gov.uk/asp/2006/13/section/41/2) (with [ss. 50(2)](https://www.legislation.gov.uk/asp/2006/13/section/50/2), [51](https://www.legislation.gov.uk/asp/2006/13/section/51))
 
-[^key-4a8a5aaabc343f90b6fb630c3481fe1d]: Modification: Pt. V Ch. II applied (8.5.2007) by [Airdrie-Bathgate Railway and Linked Improvements Act 2007 (asp 19)](https://www.legislation.gov.uk/asp/2007/19), [s. 50(2)](https://www.legislation.gov.uk/asp/2007/19/section/50/2) (with [ss. 48](https://www.legislation.gov.uk/asp/2007/19/section/48), [59](https://www.legislation.gov.uk/asp/2007/19/section/59))
+[^c-4a8a5aaabc343f90b6fb630c3481fe1d]: Modification: Pt. V Ch. II applied (8.5.2007) by [Airdrie-Bathgate Railway and Linked Improvements Act 2007 (asp 19)](https://www.legislation.gov.uk/asp/2007/19), [s. 50(2)](https://www.legislation.gov.uk/asp/2007/19/section/50/2) (with [ss. 48](https://www.legislation.gov.uk/asp/2007/19/section/48), [59](https://www.legislation.gov.uk/asp/2007/19/section/59))
 
-[^key-009adbea36e9a37a07d6cbaaaac6fd0c]: Modification: [Pt. V Ch. II](https://www.legislation.gov.uk/ukpga/1997/8/part/V/chapter/II) modified (3.2.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 72](https://www.legislation.gov.uk/asp/2011/2/section/72), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
+[^c-009adbea36e9a37a07d6cbaaaac6fd0c]: Modification: [Pt. V Ch. II](https://www.legislation.gov.uk/ukpga/1997/8/part/V/chapter/II) modified (3.2.2011) by [Forth Crossing Act 2011 (asp 2)](https://www.legislation.gov.uk/asp/2011/2), [ss. 72](https://www.legislation.gov.uk/asp/2011/2/section/72), [80(2)](https://www.legislation.gov.uk/asp/2011/2/section/80/2) (with [ss. 69](https://www.legislation.gov.uk/asp/2011/2/section/69), [78](https://www.legislation.gov.uk/asp/2011/2/section/78)); [S.S.I. 2011/38](https://www.legislation.gov.uk/ssi/2011/38), [art. 2](https://www.legislation.gov.uk/ssi/2011/38/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/38/schedule)
 
-[^key-3b4acec64419eb2538379d4631a1dfab]: Modification: Pt. 6 applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [30](https://www.legislation.gov.uk/ssi/2010/60/regulation/30) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
+[^c-3b4acec64419eb2538379d4631a1dfab]: Modification: Pt. 6 applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [30](https://www.legislation.gov.uk/ssi/2010/60/regulation/30) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
 
-[^key-d2a144ceddebebb1e8e7155c5eafa2ad]: Modification: Pt. 6 modified (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2011/2305/regulation/19/2)
+[^c-d2a144ceddebebb1e8e7155c5eafa2ad]: Modification: Pt. 6 modified (16.9.2011) by [The Storage of Carbon Dioxide (Access to Infrastructure) Regulations 2011 (S.I. 2011/2305)](https://www.legislation.gov.uk/uksi/2011/2305), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2305/regulation/1), [19(2)](https://www.legislation.gov.uk/uksi/2011/2305/regulation/19/2)
 
-[^key-3c98da7d91ce83bb52ebb8b9ee3787d4]: Modification: Pt. 6: power to modify conferred (6.1.2025) by [Housing (Cladding Remediation) (Scotland) Act 2024 (asp 7)](https://www.legislation.gov.uk/asp/2024/7), [ss. 29(5)](https://www.legislation.gov.uk/asp/2024/7/section/29/5), [39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2); [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
+[^c-3c98da7d91ce83bb52ebb8b9ee3787d4]: Modification: Pt. 6: power to modify conferred (6.1.2025) by [Housing (Cladding Remediation) (Scotland) Act 2024 (asp 7)](https://www.legislation.gov.uk/asp/2024/7), [ss. 29(5)](https://www.legislation.gov.uk/asp/2024/7/section/29/5), [39(2)](https://www.legislation.gov.uk/asp/2024/7/section/39/2); [S.S.I. 2024/370](https://www.legislation.gov.uk/ssi/2024/370), [reg. 2](https://www.legislation.gov.uk/ssi/2024/370/regulation/2)
 
-[^key-4ef06b335df9170b00f395d744540aa9]: Textual amendment: Ss. 144A-144D and cross-heading inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 26(1)](https://www.legislation.gov.uk/asp/2006/17/section/26/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-4ef06b335df9170b00f395d744540aa9]: Textual amendment: Ss. 144A-144D and cross-heading inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 26(1)](https://www.legislation.gov.uk/asp/2006/17/section/26/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/b); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
 
-[^key-fecfeca9b6a1ced1b5d01cef2ab78c67]: Textual amendment: S. 158A and cross-heading inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 27](https://www.legislation.gov.uk/asp/2006/17/section/27), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-fecfeca9b6a1ced1b5d01cef2ab78c67]: Textual amendment: S. 158A and cross-heading inserted (1.4.2007) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 27](https://www.legislation.gov.uk/asp/2006/17/section/27), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-1c12b5c9483541df97ed96101d55b48b]: Modification: Pt. VII functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
+[^c-1c12b5c9483541df97ed96101d55b48b]: Modification: Pt. VII functions made exercisable concurrently (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [7(1)(b)](https://www.legislation.gov.uk/ssi/2003/1/article/7/1/b)
 
-[^key-1e5249a4e6c639d0b22dae2f940d9768]: Modification: Pt. VIII excluded (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2007/268/article/3/2/d) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
+[^c-1e5249a4e6c639d0b22dae2f940d9768]: Modification: Pt. VIII excluded (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/ssi/2007/268/article/3/2/d) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
 
-[^key-bdf8bb453f7e329bb9773fdaac8f6216]: Modification: [Pt. VIII](https://www.legislation.gov.uk/ukpga/1997/8/part/VIII) modified (20.6.2008) by [Glasgow Commonwealth Games Act 2008 (asp 4)](https://www.legislation.gov.uk/asp/2008/4), [ss. 42](https://www.legislation.gov.uk/asp/2008/4/section/42), [49](https://www.legislation.gov.uk/asp/2008/4/section/49); [S.S.I. 2008/245](https://www.legislation.gov.uk/ssi/2008/245), [art. 2](https://www.legislation.gov.uk/ssi/2008/245/article/2)
+[^c-bdf8bb453f7e329bb9773fdaac8f6216]: Modification: [Pt. VIII](https://www.legislation.gov.uk/ukpga/1997/8/part/VIII) modified (20.6.2008) by [Glasgow Commonwealth Games Act 2008 (asp 4)](https://www.legislation.gov.uk/asp/2008/4), [ss. 42](https://www.legislation.gov.uk/asp/2008/4/section/42), [49](https://www.legislation.gov.uk/asp/2008/4/section/49); [S.S.I. 2008/245](https://www.legislation.gov.uk/ssi/2008/245), [art. 2](https://www.legislation.gov.uk/ssi/2008/245/article/2)
 
-[^key-a4513cedcba0fc818dd6360480d2a195]: Modification: [Pt. X](https://www.legislation.gov.uk/ukpga/1997/8/part/X) applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [31(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/31/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
+[^c-a4513cedcba0fc818dd6360480d2a195]: Modification: [Pt. X](https://www.legislation.gov.uk/ukpga/1997/8/part/X) applied (with modifications) (1.4.2010) by [The Management of Extractive Waste (Scotland) Regulations 2010 (S.S.I. 2010/60)](https://www.legislation.gov.uk/ssi/2010/60), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/60/regulation/1/1), [31(3)](https://www.legislation.gov.uk/ssi/2010/60/regulation/31/3) (with [arts. 4](https://www.legislation.gov.uk/ssi/2010/60/article/4), [5](https://www.legislation.gov.uk/ssi/2010/60/article/5))
 
-[^key-d1ef4cbf240683fbf1a001cb92132906]: Modification: [Pt. XI](https://www.legislation.gov.uk/ukpga/1997/8/part/XI) modified (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(11)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/11), [42](https://www.legislation.gov.uk/ssi/2011/139/regulation/42)
+[^c-d1ef4cbf240683fbf1a001cb92132906]: Modification: [Pt. XI](https://www.legislation.gov.uk/ukpga/1997/8/part/XI) modified (1.6.2011) by [The Town and Country Planning (Environmental Impact Assessment) (Scotland) Regulations 2011 (S.S.I. 2011/139)](https://www.legislation.gov.uk/ssi/2011/139), [regs. 1](https://www.legislation.gov.uk/ssi/2011/139/regulation/1), [33(11)](https://www.legislation.gov.uk/ssi/2011/139/regulation/33/11), [42](https://www.legislation.gov.uk/ssi/2011/139/regulation/42)
 
-[^key-b9da95e230dbe0fa3aa2d48fc1cb5c14]: Textual amendment: S. 251B and cross-heading inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 47(2)](https://www.legislation.gov.uk/asp/2019/13/section/47/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)
+[^c-b9da95e230dbe0fa3aa2d48fc1cb5c14]: Textual amendment: S. 251B and cross-heading inserted (1.12.2019) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 47(2)](https://www.legislation.gov.uk/asp/2019/13/section/47/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2019/385](https://www.legislation.gov.uk/ssi/2019/385), [reg. 2](https://www.legislation.gov.uk/ssi/2019/385/regulation/2)
 
-[^key-68b387e59b495eca76612e526e71721e]: Textual amendment: S. 263A and cross-heading inserted (1.4.2007 for specified purposes, 26.11.2010 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 50](https://www.legislation.gov.uk/asp/2006/17/section/50), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/400/article/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2010/400/article/2/2/b)
+[^c-68b387e59b495eca76612e526e71721e]: Textual amendment: S. 263A and cross-heading inserted (1.4.2007 for specified purposes, 26.11.2010 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 50](https://www.legislation.gov.uk/asp/2006/17/section/50), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule); [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/400/article/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2010/400/article/2/2/b)
 
 [^c950378]: Textual amendment: S. 264A and cross heading inserted (8.9.2001) by [2000 asp 10](https://www.legislation.gov.uk/asp/2000/10), [s. 36](https://www.legislation.gov.uk/asp/2000/10/section/36), [Sch. 5 para. 18](https://www.legislation.gov.uk/asp/2000/10/schedule/5/paragraph/18) (with [s. 32](https://www.legislation.gov.uk/asp/2000/10/section/32)); [S.I. 2000/312](https://www.legislation.gov.uk/uksi/2000/312), [art. 2](https://www.legislation.gov.uk/uksi/2000/312/article/2)
 
-[^key-4c2fef0b681e26b41012c6588b5d0d65]: Textual amendment: [S. 268A](https://www.legislation.gov.uk/ukpga/1997/8/section/268A) and cross-heading inserted (17.7.2021) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 40(2)](https://www.legislation.gov.uk/asp/2019/13/section/40/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2021/244](https://www.legislation.gov.uk/ssi/2021/244), [reg. 2](https://www.legislation.gov.uk/ssi/2021/244/regulation/2)
+[^c-4c2fef0b681e26b41012c6588b5d0d65]: Textual amendment: [S. 268A](https://www.legislation.gov.uk/ukpga/1997/8/section/268A) and cross-heading inserted (17.7.2021) by [Planning (Scotland) Act 2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), [ss. 40(2)](https://www.legislation.gov.uk/asp/2019/13/section/40/2), [63(2)](https://www.legislation.gov.uk/asp/2019/13/section/63/2); [S.S.I. 2021/244](https://www.legislation.gov.uk/ssi/2021/244), [reg. 2](https://www.legislation.gov.uk/ssi/2021/244/regulation/2)

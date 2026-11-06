@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Curriculum requirement: Religion, Values and Ethics[^key-55d38fd766c58acf98ff1d3a25987bab]
+## 61. Curriculum requirement: Religion, Values and Ethics[^c-55d38fd766c58acf98ff1d3a25987bab]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55d38fd766c58acf98ff1d3a25987bab]: Commencement: [S. 61](https://www.legislation.gov.uk/asc/2021/4/section/61) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)
+[^c-55d38fd766c58acf98ff1d3a25987bab]: Commencement: [S. 61](https://www.legislation.gov.uk/asc/2021/4/section/61) in force at 1.9.2026 by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(c)](https://www.legislation.gov.uk/wsi/2022/652/article/9/c)

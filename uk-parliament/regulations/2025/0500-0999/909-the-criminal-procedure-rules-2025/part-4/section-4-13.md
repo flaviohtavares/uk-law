@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.13. Court’s power to give directions about service[^key-477201a830c32348c4c2bde562810259]
+## 4.13. Court’s power to give directions about service[^c-477201a830c32348c4c2bde562810259]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-477201a830c32348c4c2bde562810259]: Commencement: [Rule 4.13](https://www.legislation.gov.uk/uksi/2025/909/rule/4.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-477201a830c32348c4c2bde562810259]: Commencement: [Rule 4.13](https://www.legislation.gov.uk/uksi/2025/909/rule/4.13) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

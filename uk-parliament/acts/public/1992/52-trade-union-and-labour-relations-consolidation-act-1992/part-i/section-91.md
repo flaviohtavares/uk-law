@@ -28,11 +28,11 @@ In any other case the rules cease to have effect when the resolution ceases to h
 
 (3) Nothing in this section affects the operation of section 82(2) (complaint to Certification Officer in respect of breach of rules) in relation to a breach of a rule occurring before the rule in question ceased to have effect.
 
-(4) A member of a trade union who has at any time not been a contributor to its political fund shall not for that reason—[^key-17ed77f7a41ff2638136bf07267dbe72]
+(4) A member of a trade union who has at any time not been a contributor to its political fund shall not for that reason—[^c-17ed77f7a41ff2638136bf07267dbe72]
 
 - (a) be excluded from any benefits of the union, or
 - (b) be placed in any respect either directly or indirectly under a disability or at a disadvantage as compared with other members (except in relation to the control or management of the political fund).
 
 ## Annotations
 
-[^key-17ed77f7a41ff2638136bf07267dbe72]: Textual amendment: Words in [s. 91(4)](https://www.legislation.gov.uk/ukpga/1992/52/section/91/4) substituted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/8); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/139/regulation/4))
+[^c-17ed77f7a41ff2638136bf07267dbe72]: Textual amendment: Words in [s. 91(4)](https://www.legislation.gov.uk/ukpga/1992/52/section/91/4) substituted (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/8); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/139/regulation/4))

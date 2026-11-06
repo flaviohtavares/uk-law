@@ -210,7 +210,7 @@ there shall be substituted “ a legal representative" ”.
 
 there shall be substituted “ legal representative" ”.
 
-(5)[^key-d4438bbbf8af12d26eac5a85fc762db5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d4438bbbf8af12d26eac5a85fc762db5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) For the words—
 
@@ -219,7 +219,7 @@ there shall be substituted “ legal representative" ”.
 
 there shall be substituted “ legal representatives" ”.
 
-(7)[^key-c3525400c8416bd61e318016d1e911f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c3525400c8416bd61e318016d1e911f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Judicial Pensions Act 1981 (c. 20)
 
@@ -283,7 +283,7 @@ after the word “widow’s" there shall in each case be inserted “ widower’
 
   > (4) Before appointing a person under paragraph (f) or (g) of subsection (1), the Lord Chancellor shall consult any authorised body with members who are eligible for appointment under that paragraph.
 
-(2)[^key-543ab165b25dea601914b9f81434fa40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-543ab165b25dea601914b9f81434fa40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
@@ -393,7 +393,7 @@ and
 
 (2) For the word “**solicitor**” in sections 13(1) and (4), 61(2) and 126 of that Act there shall be substituted “ legal representative" ”.
 
-(3) For the word “**solicitors**” in sections 18, 24(1),[^key-99d7bd8b8ac31068caf2685614509867]... 75(3)(f) and 79 of that Act there shall be substituted “ legal representatives" ”.
+(3) For the word “**solicitors**” in sections 18, 24(1),[^c-99d7bd8b8ac31068caf2685614509867]... 75(3)(f) and 79 of that Act there shall be substituted “ legal representatives" ”.
 
 ### The Matrimonial and Family Proceedings Act 1984 (c. 42)
 
@@ -401,7 +401,7 @@ and
 
 **Not yet in force.**
 
-**50.**[^key-83120e2060362ff144adda776397aac9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-83120e2060362ff144adda776397aac9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Prosecution of Offences Act 1985 (c. 23)
 
@@ -513,9 +513,9 @@ and
 
 [^c12484121]: Textual amendment: Sch. 18 para. 25(4)(c) repealed (1.4.1995) by [1994 c. 29](https://www.legislation.gov.uk/ukpga/1994/29), [s. 93](https://www.legislation.gov.uk/ukpga/1994/29/section/93), [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1994/29/schedule/9/part/II); [S.I. 1995/685](https://www.legislation.gov.uk/uksi/1995/685), [art. 1(2)](https://www.legislation.gov.uk/uksi/1995/685/article/1/2)
 
-[^key-d4438bbbf8af12d26eac5a85fc762db5]: Textual amendment: Sch. 18 para. 25(5) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 in so far as not already in force) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 2(1)(d)
+[^c-d4438bbbf8af12d26eac5a85fc762db5]: Textual amendment: Sch. 18 para. 25(5) repealed (18.6.2012 for specified purposes, 5.11.2012 for specified purposes, 28.5.2013 in so far as not already in force) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 4](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/4); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1320/article/4/3) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1320/article/5)) (see S.I. 2012/2574, art. 4(2) and [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2012/2574](https://www.legislation.gov.uk/uksi/2012/2574), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/3)[(d)](https://www.legislation.gov.uk/uksi/2012/2574/article/2/d), [Sch.](https://www.legislation.gov.uk/uksi/2012/2574/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2012/2574/article/3), [4](https://www.legislation.gov.uk/uksi/2012/2574/article/4)) (as amended (4.11.2012) by [S.I. 2012/2761](https://www.legislation.gov.uk/uksi/2012/2761), art. 2) (with [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 4); [S.I. 2013/1103](https://www.legislation.gov.uk/uksi/2013/1103), art. 2(1)(d)
 
-[^key-c3525400c8416bd61e318016d1e911f3]: Textual amendment: Sch. 18 para. 25(7) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/2)
+[^c-c3525400c8416bd61e318016d1e911f3]: Textual amendment: Sch. 18 para. 25(7) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/2)
 
 [^c12484131]: Commencement: [Sch. 18 para. 26](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/26) wholly in force at 1.1.1992 see [s. 124(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/124/3) and [S.I. 1991/2730](https://www.legislation.gov.uk/uksi/1991/2730), [art. 2](https://www.legislation.gov.uk/uksi/1991/2730/article/2),Sch.
 
@@ -537,7 +537,7 @@ and
 
 [^c20512431]: Textual amendment: Sch. 18 para. 36: for the words "Supreme Court Act 1981" wherever they occur there is substituted (1.10.2009) the words "Senior Courts Act 1981" by virtue of [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-543ab165b25dea601914b9f81434fa40]: Textual amendment: [Sch. 18 para. 36(2)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/36/2) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/7)
+[^c-543ab165b25dea601914b9f81434fa40]: Textual amendment: [Sch. 18 para. 36(2)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/36/2) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates' Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2012/2398/schedule/1/paragraph/7)
 
 [^c12484211]: Commencement: [Sch. 18 para. 41](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/41) wholly in force at 1. 4.1991 see [s. 124(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/124/3) and [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule)
 
@@ -555,9 +555,9 @@ and
 
 [^c12484281]: Commencement: Sch. 18 para. 49 wholly in force at 1. 4.1991 see s. 124(3) and [S.I. 1991/608](https://www.legislation.gov.uk/uksi/1991/608), [art. 2](https://www.legislation.gov.uk/uksi/1991/608/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1991/608/schedule)
 
-[^key-99d7bd8b8ac31068caf2685614509867]: Textual amendment: Word in [Sch. 18 para. 49(3)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/49/3) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-99d7bd8b8ac31068caf2685614509867]: Textual amendment: Word in [Sch. 18 para. 49(3)](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/49/3) repealed (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 141](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/141); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-83120e2060362ff144adda776397aac9]: Textual amendment: Sch. 18 para. 50 repealed (6.4.2011) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/c)
+[^c-83120e2060362ff144adda776397aac9]: Textual amendment: Sch. 18 para. 50 repealed (6.4.2011) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2010/2921](https://www.legislation.gov.uk/uksi/2010/2921), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/2921/article/3/c)
 
 [^c12484301]: Textual amendment: [Sch. 18 para. 51](https://www.legislation.gov.uk/ukpga/1990/41/schedule/18/paragraph/51) repealed (31.7.2000) by [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22), [s. 106](https://www.legislation.gov.uk/ukpga/1999/22/section/106), [Sch. 15 Pt. II](https://www.legislation.gov.uk/ukpga/1999/22/schedule/15/part/II) (with [Sch. 14 paras. 7(2)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/7/2), [36(9)](https://www.legislation.gov.uk/ukpga/1999/22/schedule/14/paragraph/36/9)); [S.I. 2000/1920](https://www.legislation.gov.uk/uksi/2000/1920), [art. 2(c)](https://www.legislation.gov.uk/uksi/2000/1920/article/2/c)
 

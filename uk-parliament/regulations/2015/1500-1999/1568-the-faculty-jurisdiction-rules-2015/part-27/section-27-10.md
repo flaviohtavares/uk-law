@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27.10. Registrar’s power to refer to court[^key-3cd5a41d130c03b866708aff4d15fd4c]
+## 27.10. Registrar’s power to refer to court[^c-3cd5a41d130c03b866708aff4d15fd4c]
 
 *Extent: E*
 
@@ -27,4 +27,4 @@ Where a step is to be taken by the registrar of the appeal court—
 
 ## Annotations
 
-[^key-3cd5a41d130c03b866708aff4d15fd4c]: Commencement: [Rule 27.10](https://www.legislation.gov.uk/uksi/2015/1568/article/27.10) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-3cd5a41d130c03b866708aff4d15fd4c]: Commencement: [Rule 27.10](https://www.legislation.gov.uk/uksi/2015/1568/article/27.10) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 173. Litigation expenses and property subject to a floating charge–request for approval or authorisation[^key-982e1e123f7741daf6c6d5ad9f565aa3]
+## 173. Litigation expenses and property subject to a floating charge–request for approval or authorisation[^c-982e1e123f7741daf6c6d5ad9f565aa3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.218C of the 1986 Rules.
 
 ## Annotations
 
-[^key-982e1e123f7741daf6c6d5ad9f565aa3]: Commencement: Rule 173 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-982e1e123f7741daf6c6d5ad9f565aa3]: Commencement: Rule 173 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

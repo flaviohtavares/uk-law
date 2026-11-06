@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Intervention orders[^key-997b07a8a3e693d907a6caddb6f14c1d]
+## 66. Intervention orders[^c-997b07a8a3e693d907a6caddb6f14c1d]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ he may make an order under this section in respect of the body (an “interventi
 
 ## Annotations
 
-[^key-997b07a8a3e693d907a6caddb6f14c1d]: Modification: S. 66 modified (temp.) (11.7.2012) by [The Health and Social Care Act 2012 (Commencement No.2 and Transitional, Savings and Transitory Provisions) Order 2012 (S.I. 2012/1831)](https://www.legislation.gov.uk/uksi/2012/1831), [art. 13(3)-(5)](https://www.legislation.gov.uk/uksi/2012/1831/article/13/3)
+[^c-997b07a8a3e693d907a6caddb6f14c1d]: Modification: S. 66 modified (temp.) (11.7.2012) by [The Health and Social Care Act 2012 (Commencement No.2 and Transitional, Savings and Transitory Provisions) Order 2012 (S.I. 2012/1831)](https://www.legislation.gov.uk/uksi/2012/1831), [art. 13(3)-(5)](https://www.legislation.gov.uk/uksi/2012/1831/article/13/3)

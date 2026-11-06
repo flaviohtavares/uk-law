@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Recovery of expenses demanded under section 19 or 22[^key-b2cca250d5a0354324be0e0be7b644f7]
+## 25. Recovery of expenses demanded under section 19 or 22[^c-b2cca250d5a0354324be0e0be7b644f7]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2cca250d5a0354324be0e0be7b644f7]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2013/6/section/25) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-b2cca250d5a0354324be0e0be7b644f7]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2013/6/section/25) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

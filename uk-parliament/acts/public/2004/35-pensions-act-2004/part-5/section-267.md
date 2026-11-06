@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 267. Voluntary contributions[^key-a160e502246fec97fc1fb8a36a687fb2]
+## 267. Voluntary contributions[^c-a160e502246fec97fc1fb8a36a687fb2]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a160e502246fec97fc1fb8a36a687fb2]: Commencement: [S. 267](https://www.legislation.gov.uk/ukpga/2004/35/section/267) in force at 6.4.2006 by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
+[^c-a160e502246fec97fc1fb8a36a687fb2]: Commencement: [S. 267](https://www.legislation.gov.uk/ukpga/2004/35/section/267) in force at 6.4.2006 by [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/560/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)

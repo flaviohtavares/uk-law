@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Circumstances in which a person is to be treated as being or not being a member of the household[^key-7a7333119af13c6e08d2f605452d6411]
+## 7. Circumstances in which a person is to be treated as being or not being a member of the household[^c-7a7333119af13c6e08d2f605452d6411]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7a7333119af13c6e08d2f605452d6411]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/1814/regulation/7) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-7a7333119af13c6e08d2f605452d6411]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1992/1814/regulation/7) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
 [^f00014]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41).
 

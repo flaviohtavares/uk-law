@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Power to obtain information as to income from securities.[^key-b832ebcafe76e72a0444fa9ae9949310]
+## 24. Power to obtain information as to income from securities.[^c-b832ebcafe76e72a0444fa9ae9949310]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b832ebcafe76e72a0444fa9ae9949310]: Textual amendment: S. 24 omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(m)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/m), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))
+[^c-b832ebcafe76e72a0444fa9ae9949310]: Textual amendment: S. 24 omitted (1.4.2012) by virtue of [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 23 paras. 51(2)(m)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/51/2/m), [65(1)(a)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/a) (with [Sch. 23 paras. 50](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/50), [65(1)(b)(2)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/23/paragraph/65/1/b))

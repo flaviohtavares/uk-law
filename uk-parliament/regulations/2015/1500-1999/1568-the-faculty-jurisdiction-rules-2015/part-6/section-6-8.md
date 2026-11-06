@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 6.8. Interim faculties[^key-85a85aaaf1c340587337141c51eee22d]
+## 6.8. Interim faculties[^c-85a85aaaf1c340587337141c51eee22d]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ This Part is without prejudice to the court’s power at any time to grant an in
 
 ## Annotations
 
-[^key-85a85aaaf1c340587337141c51eee22d]: Commencement: [Rule 6.8](https://www.legislation.gov.uk/uksi/2015/1568/article/6.8) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-85a85aaaf1c340587337141c51eee22d]: Commencement: [Rule 6.8](https://www.legislation.gov.uk/uksi/2015/1568/article/6.8) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

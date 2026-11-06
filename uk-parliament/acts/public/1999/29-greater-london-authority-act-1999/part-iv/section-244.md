@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Exercise of functions by a joint committee.[^key-d4030af8c6e4e4be7ab3a2494bccb5e1]
+## 244. Exercise of functions by a joint committee.[^c-d4030af8c6e4e4be7ab3a2494bccb5e1]
 
 *Extent: E+W+S*
 
 (1) If all the London authorities enter into arrangements under section 101(5) of the [^c12805661] Local Government Act 1972 for the joint discharge of their functions under—
 
 - (a) subsection (1) of section 240 above, or
-- (b) subsection (2) of that section, or *(Extent: E+W)*[^key-2577414189e090bef387384fcab8aca6]
+- (b) subsection (2) of that section, or *(Extent: E+W)*[^c-2577414189e090bef387384fcab8aca6]
 
 *Extent: E+W*
 
@@ -55,11 +55,11 @@ may be made by such majority of those present and voting as may be specified in 
 
 ## Annotations
 
-[^key-d4030af8c6e4e4be7ab3a2494bccb5e1]: Modification: Pt. IV Ch. VIII: power to amend conferred (E.W.) (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/8/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-d4030af8c6e4e4be7ab3a2494bccb5e1]: Modification: Pt. IV Ch. VIII: power to amend conferred (E.W.) (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/8/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
 [^c12805661]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-2577414189e090bef387384fcab8aca6]: Textual amendment: S. 244(1)(c) and word inserted (E.W.) (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/8); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-2577414189e090bef387384fcab8aca6]: Textual amendment: S. 244(1)(c) and word inserted (E.W.) (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2007/13/schedule/2/paragraph/8); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
 
 [^c12805671]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

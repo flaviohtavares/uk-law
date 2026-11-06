@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13C. Turning circle—heavy motor car[^key-6ccde80a2c69b06a3aa1b768a9172e31]
+## 13C. Turning circle—heavy motor car[^c-6ccde80a2c69b06a3aa1b768a9172e31]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ccde80a2c69b06a3aa1b768a9172e31]: Textual amendment: [Reg. 13C](https://www.legislation.gov.uk/uksi/1986/1078/regulation/13C) inserted (1.6.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1998 (S.I. 1998/1188)](https://www.legislation.gov.uk/uksi/1998/1188), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1188/regulation/1), [10](https://www.legislation.gov.uk/uksi/1998/1188/regulation/10)
+[^c-6ccde80a2c69b06a3aa1b768a9172e31]: Textual amendment: [Reg. 13C](https://www.legislation.gov.uk/uksi/1986/1078/regulation/13C) inserted (1.6.1998) by [The Road Vehicles (Construction and Use) (Amendment) (No. 3) Regulations 1998 (S.I. 1998/1188)](https://www.legislation.gov.uk/uksi/1998/1188), [regs. 1](https://www.legislation.gov.uk/uksi/1998/1188/regulation/1), [10](https://www.legislation.gov.uk/uksi/1998/1188/regulation/10)

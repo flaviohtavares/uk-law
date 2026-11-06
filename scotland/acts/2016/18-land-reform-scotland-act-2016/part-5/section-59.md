@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Consent conditions[^key-905bdb44a5f6843e9e736f05824b3ea7]
+## 59. Consent conditions[^c-905bdb44a5f6843e9e736f05824b3ea7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may make their consent to an application made under secti
 
 ## Annotations
 
-[^key-905bdb44a5f6843e9e736f05824b3ea7]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2016/18/section/59) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-905bdb44a5f6843e9e736f05824b3ea7]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2016/18/section/59) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

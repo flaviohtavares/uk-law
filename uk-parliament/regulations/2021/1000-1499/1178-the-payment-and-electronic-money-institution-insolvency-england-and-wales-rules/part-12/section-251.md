@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 251. Postal delivery of documents[^key-4916dbe1adfb8a00f2fcfad71512d80a]
+## 251. Postal delivery of documents[^c-4916dbe1adfb8a00f2fcfad71512d80a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4916dbe1adfb8a00f2fcfad71512d80a]: Commencement: Rule 251 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-4916dbe1adfb8a00f2fcfad71512d80a]: Commencement: Rule 251 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

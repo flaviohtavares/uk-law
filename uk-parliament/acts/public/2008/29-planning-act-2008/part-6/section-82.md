@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Appointment of replacement single appointed person[^key-16aae0fccf92952c93e55879144e0d31][^key-bec5b659225736dba374f0ffc15b956a]
+## 82. Appointment of replacement single appointed person[^c-16aae0fccf92952c93e55879144e0d31][^c-bec5b659225736dba374f0ffc15b956a]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-16aae0fccf92952c93e55879144e0d31]: Commencement: S. 82 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-16aae0fccf92952c93e55879144e0d31]: Commencement: S. 82 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-bec5b659225736dba374f0ffc15b956a]: Textual amendment: Words in s. 82 substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-bec5b659225736dba374f0ffc15b956a]: Textual amendment: Words in s. 82 substituted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

@@ -28,7 +28,7 @@ Section 26
 
 (2) In sub-paragraph (2), for “13” substitute “ 13J ”.
 
-(2A)[^key-a1c3a358487070c94e295028002d29bb] In sub-paragraph (4), in the definition of “filing date”, at the end insert “ (or, in the case of a return mentioned in item 7AA or 7AB of the Table, to the tax authorities to whom the return is required to be delivered) ”.
+(2A)[^c-a1c3a358487070c94e295028002d29bb] In sub-paragraph (4), in the definition of “filing date”, at the end insert “ (or, in the case of a return mentioned in item 7AA or 7AB of the Table, to the tax authorities to whom the return is required to be delivered) ”.
 
 (3) The Table is amended as follows.
 
@@ -41,7 +41,7 @@ Section 26
 >
 > |  |  |  |
 > | --- | --- | --- |
-> | 7AA[^key-568fed5086b4010a93d6414e57d3d0bc] | Value added tax | Relevant non-UK return (as defined in paragraph 20(3) of Schedule 3BA to VATA 1994) |
+> | 7AA[^c-568fed5086b4010a93d6414e57d3d0bc] | Value added tax | Relevant non-UK return (as defined in paragraph 20(3) of Schedule 3BA to VATA 1994) |
 > | 7AB | Value added tax | Relevant special scheme return (as defined in paragraph 16(3) of Schedule 3B to VATA 1994) |
 
 .
@@ -103,7 +103,7 @@ Section 26
 
 > **Amount of penalty: returns for periods of between 2 and 6 months**
 >
-> **13A.** (1) Paragraphs 13B to 13E apply in the case of a return falling within any of items 7A to 7B[^key-46ca2b9862147a620dfa85605a496a9e] , 13A[^key-306d836528277130fd1d10c75ae1cbe3] , 13B[^M_F_f7993815-0854-4410-8391-e59e0f381588] and 14 to 28 in the Table which relates to a period of less than 6 months but more than 2 months.
+> **13A.** (1) Paragraphs 13B to 13E apply in the case of a return falling within any of items 7A to 7B[^c-46ca2b9862147a620dfa85605a496a9e] , 13A[^c-306d836528277130fd1d10c75ae1cbe3] , 13B[^M_F_f7993815-0854-4410-8391-e59e0f381588] and 14 to 28 in the Table which relates to a period of less than 6 months but more than 2 months.
 >
 > (2) But those paragraphs do not apply in the case of a return mentioned in paragraph 2(1)(c).
 >
@@ -234,7 +234,7 @@ Section 26
 - (a) for “paragraph 11(3) or (4)” substitute “ sub-paragraph (3) or (4) of any of paragraphs 11, 13E and 13J ”, and
 - (b) for “paragraph 11(3)(b) or (4)(b) (as the case may be)” substitute “ paragraph (b) of that sub-paragraph ”.
 
-**10.**[^key-edcdfbf9f3ddd425441be31839e20044] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-edcdfbf9f3ddd425441be31839e20044] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.**[^M_I_97ad4e59-a5c5-4ddf-d5ab-0eb05ed8494a][^M_I_0d7ccc7a-f6b7-4671-86d4-16a2801c8299] For paragraph 23(1) (no liability where there is reasonable excuse for failure) substitute—
 
@@ -253,9 +253,9 @@ Section 26
 
 [^M_I_4697e134-e721-4821-ebd5-7eafecb22a2c]: Commencement: Amendments made by Sch. 10 para. 2 in force at 1.4.2022 for specified purposes by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 15 para. 3(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/3/2)
 
-[^key-a1c3a358487070c94e295028002d29bb]: Textual amendment: Sch. 10 para. 2(2A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/21/2/a)
+[^c-a1c3a358487070c94e295028002d29bb]: Textual amendment: Sch. 10 para. 2(2A) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 21(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/21/2/a)
 
-[^key-568fed5086b4010a93d6414e57d3d0bc]: Textual amendment: Words in Sch. 10 para. 2(4) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/21/2/b)
+[^c-568fed5086b4010a93d6414e57d3d0bc]: Textual amendment: Words in Sch. 10 para. 2(4) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/21/2/b)
 
 [^M_I_f7155e3a-0562-461e-f0f9-cd59b2ddb844]: Commencement: Amendments made by Sch. 10 para. 3 in force at 12.2.2019 for specified purposes by [2019 c. 1](https://www.legislation.gov.uk/ukpga/2019/1), [s. 67(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/67/2)
 
@@ -283,9 +283,9 @@ Section 26
 
 [^M_I_cd4cecbd-e049-42a1-d478-d9e95a24f546]: Commencement: Amendments made by Sch. 10 para. 7 in force at 1.4.2022 for specified purposes by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 15 para. 3(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/3/2)
 
-[^key-46ca2b9862147a620dfa85605a496a9e]: Textual amendment: Words in Sch. 10 para. 7 substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 21(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/21/3)
+[^c-46ca2b9862147a620dfa85605a496a9e]: Textual amendment: Words in Sch. 10 para. 7 substituted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 22 para. 21(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/22/paragraph/21/3)
 
-[^key-306d836528277130fd1d10c75ae1cbe3]: Textual amendment: Word in Sch. 10 para. 7 inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/67/1) (with [s. 67(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/67/2))
+[^c-306d836528277130fd1d10c75ae1cbe3]: Textual amendment: Word in Sch. 10 para. 7 inserted (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2019/1/section/67/1) (with [s. 67(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/67/2))
 
 [^M_F_f7993815-0854-4410-8391-e59e0f381588]: Textual amendment: Word in [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2010/33/schedule/10/paragraph/7) inserted (1.4.2022 and with effect in accordance with [s. 85(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/b) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 85(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/a), [Sch. 15 para. 3(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/3/1); [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
@@ -297,7 +297,7 @@ Section 26
 
 [^M_I_6548c302-2e5f-4c13-a65a-98b248e24278]: Commencement: Amendments made by Sch. 10 para. 9 in force at 1.4.2022 for specified purposes by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 15 para. 3(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/3/2)
 
-[^key-edcdfbf9f3ddd425441be31839e20044]: Textual amendment: Sch. 10 para. 10 repealed (with effect in accordance with Sch. 50 para. 16(2) of the repealing Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 50 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/50/paragraph/15)
+[^c-edcdfbf9f3ddd425441be31839e20044]: Textual amendment: Sch. 10 para. 10 repealed (with effect in accordance with Sch. 50 para. 16(2) of the repealing Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 50 para. 15](https://www.legislation.gov.uk/ukpga/2013/29/schedule/50/paragraph/15)
 
 [^M_I_97ad4e59-a5c5-4ddf-d5ab-0eb05ed8494a]: Commencement: Amendments made by Sch. 10 para.11 in force at 12.2.2019 for specified purposes by [2019 c. 1](https://www.legislation.gov.uk/ukpga/2019/1), [s. 67(2)](https://www.legislation.gov.uk/ukpga/2019/1/section/67/2)
 

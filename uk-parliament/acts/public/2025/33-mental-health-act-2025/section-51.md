@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Human Rights Act 1998: extension to certain private care providers[^key-b6aa184803beacd331f52061d4c729b1][^key-a45b9bacb06d1e4a341ed2456581ec3d]
+## 51. Human Rights Act 1998: extension to certain private care providers[^c-b6aa184803beacd331f52061d4c729b1][^c-a45b9bacb06d1e4a341ed2456581ec3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ In the Mental Health Act 1983, after section 142B insert—
 
 ## Annotations
 
-[^key-b6aa184803beacd331f52061d4c729b1]: Commencement: S. 51 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-b6aa184803beacd331f52061d4c729b1]: Commencement: S. 51 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-a45b9bacb06d1e4a341ed2456581ec3d]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/33/section/51) in force at 6.4.2026 by [S.I. 2026/385](https://www.legislation.gov.uk/uksi/2026/385), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/385/regulation/2/a)
+[^c-a45b9bacb06d1e4a341ed2456581ec3d]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2025/33/section/51) in force at 6.4.2026 by [S.I. 2026/385](https://www.legislation.gov.uk/uksi/2026/385), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/385/regulation/2/a)

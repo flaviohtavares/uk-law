@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Power to enter land and take steps required by enforcement notice[^key-cf38ccc759c30aa7a53250efb265d08d][^key-f3baccede75345d10128f751f73b3dad]
+## 131. Power to enter land and take steps required by enforcement notice[^c-cf38ccc759c30aa7a53250efb265d08d][^c-f3baccede75345d10128f751f73b3dad]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf38ccc759c30aa7a53250efb265d08d]: Commencement: S. 131 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-cf38ccc759c30aa7a53250efb265d08d]: Commencement: S. 131 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f3baccede75345d10128f751f73b3dad]: Commencement: [S. 131](https://www.legislation.gov.uk/asc/2023/3/section/131) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-f3baccede75345d10128f751f73b3dad]: Commencement: [S. 131](https://www.legislation.gov.uk/asc/2023/3/section/131) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

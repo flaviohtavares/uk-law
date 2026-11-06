@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Retention of samples etc. from children referred to children's hearings[^key-96ac3cc8dca4c1dd4613b51ea6bef769][^key-700c591ae8c057c8b43e4294755d4816]
+## 80. Retention of samples etc. from children referred to children's hearings[^c-96ac3cc8dca4c1dd4613b51ea6bef769][^c-700c591ae8c057c8b43e4294755d4816]
 
 *Extent: S*
 
@@ -123,6 +123,6 @@ After section 18D of the 1995 Act insert—
 
 ## Annotations
 
-[^key-96ac3cc8dca4c1dd4613b51ea6bef769]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2010/13/section/80) in force at 13.12.2010 for specified purposes by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-96ac3cc8dca4c1dd4613b51ea6bef769]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2010/13/section/80) in force at 13.12.2010 for specified purposes by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-700c591ae8c057c8b43e4294755d4816]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2010/13/section/80) in force at 15.4.2011 in so far as not already in force by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2011/178/article/7))
+[^c-700c591ae8c057c8b43e4294755d4816]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2010/13/section/80) in force at 15.4.2011 in so far as not already in force by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2011/178/article/7))

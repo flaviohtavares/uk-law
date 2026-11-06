@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 888A. Qualifying private placements[^key-04f8ea04b84ca82d934bbdfa13bcf355]
+## 888A. Qualifying private placements[^c-04f8ea04b84ca82d934bbdfa13bcf355]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04f8ea04b84ca82d934bbdfa13bcf355]: Textual amendment: S. 888A inserted (26.3.2015 for specified purposes, 1.1.2016 in so far as not already in force) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/23/1)[(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/23/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/23/3); [S.I. 2015/2035](https://www.legislation.gov.uk/uksi/2015/2035), [reg. 2](https://www.legislation.gov.uk/uksi/2015/2035/regulation/2)
+[^c-04f8ea04b84ca82d934bbdfa13bcf355]: Textual amendment: S. 888A inserted (26.3.2015 for specified purposes, 1.1.2016 in so far as not already in force) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 23(1)](https://www.legislation.gov.uk/ukpga/2015/11/section/23/1)[(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/23/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/11/section/23/3); [S.I. 2015/2035](https://www.legislation.gov.uk/uksi/2015/2035), [reg. 2](https://www.legislation.gov.uk/uksi/2015/2035/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Default power of appropriate Minister[^key-ba5f769b72f5bdb7a912980942aafac7][^key-4cca63171ec38b9087b6fd40257d8cea]
+## 14. Default power of appropriate Minister[^c-ba5f769b72f5bdb7a912980942aafac7][^c-4cca63171ec38b9087b6fd40257d8cea]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba5f769b72f5bdb7a912980942aafac7]: Commencement: S. 14 in force at 30.12.2005 for E. by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 3(h)](https://www.legislation.gov.uk/uksi/2005/2213/article/3/h) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-ba5f769b72f5bdb7a912980942aafac7]: Commencement: S. 14 in force at 30.12.2005 for E. by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 3(h)](https://www.legislation.gov.uk/uksi/2005/2213/article/3/h) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-4cca63171ec38b9087b6fd40257d8cea]: Commencement: S. 14 in force at 30.12.2005 for W. by [S.I. 2005/3112](https://www.legislation.gov.uk/uksi/2005/3112), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/3112/article/2/d)
+[^c-4cca63171ec38b9087b6fd40257d8cea]: Commencement: S. 14 in force at 30.12.2005 for W. by [S.I. 2005/3112](https://www.legislation.gov.uk/uksi/2005/3112), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/3112/article/2/d)

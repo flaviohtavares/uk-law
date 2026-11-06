@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where a child is provided with accommodation in England[^key-9e46f519b710754a130a42d46a5f22b7] in any care home or independent hospital[^c15169901]—
+(1) Where a child is provided with accommodation in England[^c-9e46f519b710754a130a42d46a5f22b7] in any care home or independent hospital[^c15169901]—
 
 - (a) for a consecutive period of at least three months; or
 - (b) with the intention, on the part of the person taking the decision to accommodate him, of accommodating him for such period,
@@ -36,7 +36,7 @@ the person carrying on the establishment in question[^c19948141] shall notify th
 
 (4) If the person carrying on any care home or independent hospital[^c19948351] fails, without reasonable excuse, to comply with this section he shall be guilty of an offence.
 
-(5) A person authorised by a local authority in England[^key-be25155252ce78ad9e5aada38bf5aac1] may enter any care home or independent hospital within the authority’s area for the purpose of establishing whether the requirements of this section have been complied with.
+(5) A person authorised by a local authority in England[^c-be25155252ce78ad9e5aada38bf5aac1] may enter any care home or independent hospital within the authority’s area for the purpose of establishing whether the requirements of this section have been complied with.
 
 (6) Any person who intentionally obstructs another in the exercise of the power of entry shall be guilty of an offence.
 
@@ -50,7 +50,7 @@ the person carrying on the establishment in question[^c19948141] shall notify th
 
 [^c15169881]: Textual amendment: S. 86: sidenote substituted (1.4.2002) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [s. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [Sch. 4 para. 14(20)(a)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/14/20/a); [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/3/a) (subject to transitional provision in [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) of the commencing [S.I](https://www.legislation.gov.uk/uksi/2001/4150/section/I). and to the amendment of [art. 3](https://www.legislation.gov.uk/uksi/2001/4150/article/3) by [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 6](https://www.legislation.gov.uk/uksi/2002/1493/article/6)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3/d) (with [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4) and transitional provisions in [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1))
 
-[^key-9e46f519b710754a130a42d46a5f22b7]: Textual amendment: Words in [s. 86(1)](https://www.legislation.gov.uk/ukpga/1989/41/section/86/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [103(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/103/a)
+[^c-9e46f519b710754a130a42d46a5f22b7]: Textual amendment: Words in [s. 86(1)](https://www.legislation.gov.uk/ukpga/1989/41/section/86/1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [103(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/103/a)
 
 [^c15169901]: Textual amendment: Words in s. 86(1)(5) substituted (1.4.2002) by [2000 c. 14](https://www.legislation.gov.uk/ukpga/2000/14), [s. 116](https://www.legislation.gov.uk/ukpga/2000/14/section/116), [Sch. 4 para. 14(20)(b)](https://www.legislation.gov.uk/ukpga/2000/14/schedule/4/paragraph/14/20/b); [S.I. 2001/4150](https://www.legislation.gov.uk/uksi/2001/4150), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2001/4150/article/3/3/a) (subject to transitional provision in [art. 4](https://www.legislation.gov.uk/uksi/2001/4150/article/4) of the commencing [S.I](https://www.legislation.gov.uk/uksi/2001/4150/section/I). and to the amendment of [art. 3](https://www.legislation.gov.uk/uksi/2001/4150/article/3) by [S.I. 2002/1493](https://www.legislation.gov.uk/uksi/2002/1493), [art. 6](https://www.legislation.gov.uk/uksi/2002/1493/article/6)); [S.I. 2002/920](https://www.legislation.gov.uk/uksi/2002/920), [art. 3(3)(d)](https://www.legislation.gov.uk/uksi/2002/920/article/3/3/d) (with [art. 3(4)-(10)](https://www.legislation.gov.uk/uksi/2002/920/article/3/4) and transitional provisions in [Schs. 1-3](https://www.legislation.gov.uk/uksi/2002/920/schedule/1))
 
@@ -72,4 +72,4 @@ the person carrying on the establishment in question[^c19948141] shall notify th
 
 [^c19948351]: Textual amendment: Words in s. 86(4) substituted (1.4.2011) by [Children and Young Persons Act 2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), [ss. 17(10)](https://www.legislation.gov.uk/ukpga/2008/23/section/17/10), [44](https://www.legislation.gov.uk/ukpga/2008/23/section/44); [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), {art. (2(a)}
 
-[^key-be25155252ce78ad9e5aada38bf5aac1]: Textual amendment: Words in [s. 86(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/86/5) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [103(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/103/b)
+[^c-be25155252ce78ad9e5aada38bf5aac1]: Textual amendment: Words in [s. 86(5)](https://www.legislation.gov.uk/ukpga/1989/41/section/86/5) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [103(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/103/b)

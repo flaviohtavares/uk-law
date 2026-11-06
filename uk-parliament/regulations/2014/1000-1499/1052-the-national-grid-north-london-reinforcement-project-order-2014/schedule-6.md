@@ -22,7 +22,7 @@ summary: ''
 
 Article 14
 
-### PART 1 — STREETS TO BE TEMPORARILY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-670258469906cf9a3b205a8466117062]
+### PART 1 — STREETS TO BE TEMPORARILY STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-670258469906cf9a3b205a8466117062]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be temporarily stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*Temporary diversion* |
 | --- | --- | --- | --- |
@@ -65,7 +65,7 @@ Article 14
 |  | Footpath Z on the Tottenham Marshes | From FP90 to FP91 shown on Sheet 10 of the Access/Rights of Way Plans | A footpath between FP92 and FP94 via FP83 and FP93 shown on Sheet 10 of the Access/Rights of Way Plans |
 |  |  |  |  |
 
-### PART 2 — STREETS TO BE TEMPORARILY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-2ff02d94196494ba7fe2aa4085c563eb]
+### PART 2 — STREETS TO BE TEMPORARILY STOPPED UP FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-2ff02d94196494ba7fe2aa4085c563eb]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be temporarily stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -96,6 +96,6 @@ Article 14
 
 ## Annotations
 
-[^key-670258469906cf9a3b205a8466117062]: Commencement: Sch. 6 Pt. 1 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-670258469906cf9a3b205a8466117062]: Commencement: Sch. 6 Pt. 1 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
 
-[^key-2ff02d94196494ba7fe2aa4085c563eb]: Commencement: Sch. 6 Pt. 2 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-2ff02d94196494ba7fe2aa4085c563eb]: Commencement: Sch. 6 Pt. 2 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

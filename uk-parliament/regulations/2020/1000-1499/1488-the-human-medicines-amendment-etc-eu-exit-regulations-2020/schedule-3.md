@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 5
 
-### 1. Amendment of the Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019[^key-670e1c1f8ba88ced502812047b06fc52]
+### 1. Amendment of the Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019[^c-670e1c1f8ba88ced502812047b06fc52]
 
 In Schedule 1—
 
@@ -32,4 +32,4 @@ In Schedule 1—
 
 ## Annotations
 
-[^key-670e1c1f8ba88ced502812047b06fc52]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)
+[^c-670e1c1f8ba88ced502812047b06fc52]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1)

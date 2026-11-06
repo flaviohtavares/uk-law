@@ -26,7 +26,7 @@ Section 51
 
 The Social Security Administration Act 1992 has effect subject to the following amendments.
 
-**2.**[^key-11a98033df03095572fe12cad764e225] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-11a98033df03095572fe12cad764e225] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.**[^c22566221] In section 189(8) (powers to make orders exercisable only with Treasury consent), after “made” insert “ by the Secretary of State ”.
 
@@ -42,7 +42,7 @@ The Social Security Contributions and Benefits (Northern Ireland) Act 1992 has e
 
 The Social Security Administration (Northern Ireland) Act 1992 has effect subject to the following amendments.
 
-**8.**[^key-83d9f2a2f6c68561d42a65a0bd0d22f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-83d9f2a2f6c68561d42a65a0bd0d22f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.**[^c22566291] In sections 132(1) and 133 (orders for uprating of benefits corresponding to those made for Great Britain by Secretary of State), after “Secretary of State” insert “ or the Treasury ”.
 
@@ -108,13 +108,13 @@ The Immigration and Asylum Act 1999 has effect subject to the following amendmen
 
 **21.**[^c22566421] In section 115(5) and (6) (exclusion of persons subject to immigration control from certain benefits), for “the benefits mentioned in subsection (1)(f) or (g)” substitute “ child benefit ”.
 
-**22.**[^key-e096cbd5463aea209b8dbabc33aeb02c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-e096cbd5463aea209b8dbabc33aeb02c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c22566201]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) wholly in force at 7.4.2003; [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) in force for certain purposes at 26.2.2003 and 1.4.2003 and otherwise in force at 7.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
-[^key-11a98033df03095572fe12cad764e225]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4/paragraph/2) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/107/3), [150(2)(d)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/d)
+[^c-11a98033df03095572fe12cad764e225]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4/paragraph/2) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/107/3), [150(2)(d)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/d)
 
 [^c22566221]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) wholly in force at 7.4.2003; [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) in force for certain purposes at 26.2.2003 and 1.4.2003 and otherwise in force at 7.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
@@ -126,7 +126,7 @@ The Immigration and Asylum Act 1999 has effect subject to the following amendmen
 
 [^c22566261]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) wholly in force at 7.4.2003; [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) in force for certain purposes at 26.2.2003 and 1.4.2003 and otherwise in force at 7.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
-[^key-83d9f2a2f6c68561d42a65a0bd0d22f6]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4/paragraph/8) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/107/3), [150(2)(d)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/d)
+[^c-83d9f2a2f6c68561d42a65a0bd0d22f6]: Textual amendment: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4/paragraph/8) repealed (8.5.2012) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 107(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/107/3), [150(2)(d)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/2/d)
 
 [^c22566291]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) wholly in force at 7.4.2003; [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) in force for certain purposes at 26.2.2003 and 1.4.2003 and otherwise in force at 7.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
@@ -154,4 +154,4 @@ The Immigration and Asylum Act 1999 has effect subject to the following amendmen
 
 [^c22566421]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) wholly in force at 7.4.2003; [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) not in force at Royal Assent, see [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61); [Sch. 4](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4) in force for certain purposes at 26.2.2003 and 1.4.2003 and otherwise in force at 7.4.2003 by [S.I. 2003/392](https://www.legislation.gov.uk/uksi/2003/392), [art. 2](https://www.legislation.gov.uk/uksi/2003/392/article/2)
 
-[^key-e096cbd5463aea209b8dbabc33aeb02c]: Textual amendment: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4/paragraph/22) repealed (14.6.2007) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/4))
+[^c-e096cbd5463aea209b8dbabc33aeb02c]: Textual amendment: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2002/21/schedule/4/paragraph/22) repealed (14.6.2007) by [Asylum and Immigration (Treatment of Claimants, etc.) Act 2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2004/19/section/48/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/19/schedule/4); [S.I. 2007/1602](https://www.legislation.gov.uk/uksi/2007/1602), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/3)[(4)](https://www.legislation.gov.uk/uksi/2007/1602/article/2/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Prohibition of retail sales of tobacco products etc without a licence[^key-ed0d0ad56fcbaa24c88adbeaeb6d5161]
+## 88. Prohibition of retail sales of tobacco products etc without a licence[^c-ed0d0ad56fcbaa24c88adbeaeb6d5161]
 
 *Extent: N.I.*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed0d0ad56fcbaa24c88adbeaeb6d5161]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 175(2)(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/8)
+[^c-ed0d0ad56fcbaa24c88adbeaeb6d5161]: Commencement: S. 88 in force at Royal Assent for specified purposes, see [s. 175(2)(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/8)

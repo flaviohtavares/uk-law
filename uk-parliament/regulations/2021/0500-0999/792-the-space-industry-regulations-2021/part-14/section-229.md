@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Obligation to provide information to regulator[^key-d2bf0ac2433409c5d4d6e252f8cd9002]
+## 229. Obligation to provide information to regulator[^c-d2bf0ac2433409c5d4d6e252f8cd9002]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person who receives an information notice must, before the end of the period s
 
 ## Annotations
 
-[^key-d2bf0ac2433409c5d4d6e252f8cd9002]: Commencement: Reg. 229 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-d2bf0ac2433409c5d4d6e252f8cd9002]: Commencement: Reg. 229 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -45,11 +45,11 @@ Coming into Operation
 
 The Secretary of State, in exercise of the powers conferred on him by sections 64(4) and 189(1) of the Consumer Credit Act 1974 and of all other powers enabling him in that behalf, hereby makes the following Regulations:—
 
-**1.**[^key-6f05a464c6572861116765d99d545ba7] (1) These Regulations may be cited as the Consumer Credit (Notice of Cancellation Rights) (Exemptions) Regulations 1983 and shall come into operation on 19th May 1985.
+**1.**[^c-6f05a464c6572861116765d99d545ba7] (1) These Regulations may be cited as the Consumer Credit (Notice of Cancellation Rights) (Exemptions) Regulations 1983 and shall come into operation on 19th May 1985.
 
 (2) In these Regulations, “**the Act**” means the Consumer Credit Act 1974.
 
-**2.**[^key-255f4ba47d69de6c043751b47c381e6a] Section 64(1)(b) of the Act (which provides for the sending to debtors or hirers of a notice of their right to cancel a cancellable agreement) shall not apply in the case of agreements of the description specified in the Schedule to these Regulations, being agreements made by a particular person, if:—
+**2.**[^c-255f4ba47d69de6c043751b47c381e6a] Section 64(1)(b) of the Act (which provides for the sending to debtors or hirers of a notice of their right to cancel a cancellable agreement) shall not apply in the case of agreements of the description specified in the Schedule to these Regulations, being agreements made by a particular person, if:—
 
 - (a) on an application by that person to the Director, the Director has determined that, having regard to—
   - (i) the manner in which antecedent negotiations for agreements with the applicant of that description are conducted, and
@@ -72,16 +72,16 @@ Regulation 2
 
 Regulated consumer credit agreements which satisfy all the following conditions, namely they are agreements:—
 
-**1.**[^key-98e2b87760ade79bb961ea4a79ce3c1c] which finance the supply of goods by the creditor to the debtor;
+**1.**[^c-98e2b87760ade79bb961ea4a79ce3c1c] which finance the supply of goods by the creditor to the debtor;
 
-**2.**[^key-1f944114d8cd8d675937992b1a2b9fb5] in relation to the making of which antecedent negotiations have been conducted that include the circulation of circulars, catalogues, brochures, price lists or audio-visual materials which—
+**2.**[^c-1f944114d8cd8d675937992b1a2b9fb5] in relation to the making of which antecedent negotiations have been conducted that include the circulation of circulars, catalogues, brochures, price lists or audio-visual materials which—
 
 - (a) contain the information specified in Schedules 1 and 2 to the Consumer Credit (Advertisements) Regulations 1980[^f00001]; and
 - (b) contain or are accompanied by a prominent notice indicating that the relevant printed or audio-visual material is available to the debtor to study in the absence of the negotiator before signing the unexecuted agreement;
 
-**3.**[^key-9e4bdacd6ff77d9633caa27c2b2b1555] under which goods supplied may be returned to the creditor within 14 days of their receipt by the debtor without the debtor incurring any liability, other than any liability which may arise from the failure of the debtor to take reasonable care of the goods while they are in his possession; and
+**3.**[^c-9e4bdacd6ff77d9633caa27c2b2b1555] under which goods supplied may be returned to the creditor within 14 days of their receipt by the debtor without the debtor incurring any liability, other than any liability which may arise from the failure of the debtor to take reasonable care of the goods while they are in his possession; and
 
-**4.**[^key-5078056438b9fd1c41c8872a3e9bec4c] on the making of which it is in the contemplation of the parties to the agreement that the creditor, or an agent of the creditor, or the negotiator may visit the debtor from time to time, and will maintain continuity of contact with him, during the duration of the agreement in relation to the collection of payments due under the agreement.
+**4.**[^c-5078056438b9fd1c41c8872a3e9bec4c] on the making of which it is in the contemplation of the parties to the agreement that the creditor, or an agent of the creditor, or the negotiator may visit the debtor from time to time, and will maintain continuity of contact with him, during the duration of the agreement in relation to the collection of payments due under the agreement.
 
 EXPLANATORY NOTE
 
@@ -99,16 +99,16 @@ These Regulations give effect to this provision, and describe, in the Schedule, 
 
 ## Annotations
 
-[^key-6f05a464c6572861116765d99d545ba7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
+[^c-6f05a464c6572861116765d99d545ba7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
 
-[^key-255f4ba47d69de6c043751b47c381e6a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1558/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
+[^c-255f4ba47d69de6c043751b47c381e6a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1983/1558/regulation/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
 
-[^key-98e2b87760ade79bb961ea4a79ce3c1c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1983/1558/schedule/paragraph/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
+[^c-98e2b87760ade79bb961ea4a79ce3c1c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/1983/1558/schedule/paragraph/1) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
 
-[^key-1f944114d8cd8d675937992b1a2b9fb5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1983/1558/schedule/paragraph/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
+[^c-1f944114d8cd8d675937992b1a2b9fb5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/1983/1558/schedule/paragraph/2) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
 
 [^f00001]: Footnote: amended by S.I. 1980/1360, 1983/110.
 
-[^key-9e4bdacd6ff77d9633caa27c2b2b1555]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1983/1558/schedule/paragraph/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
+[^c-9e4bdacd6ff77d9633caa27c2b2b1555]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1983/1558/schedule/paragraph/3) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
 
-[^key-5078056438b9fd1c41c8872a3e9bec4c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1983/1558/schedule/paragraph/4) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)
+[^c-5078056438b9fd1c41c8872a3e9bec4c]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/1983/1558/schedule/paragraph/4) in force at 19.5.1985, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1983/1558/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.20. Provisions in relation to intimation and entering appearance[^key-18ce622e385dcfd4cccea233584eebc4]
+## 5.20. Provisions in relation to intimation and entering appearance[^c-18ce622e385dcfd4cccea233584eebc4]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18ce622e385dcfd4cccea233584eebc4]: Commencement: Rule 5.20 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-18ce622e385dcfd4cccea233584eebc4]: Commencement: Rule 5.20 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

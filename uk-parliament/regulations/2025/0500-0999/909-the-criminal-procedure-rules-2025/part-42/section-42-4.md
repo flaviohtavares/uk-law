@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42.4. Supply of documentary and other exhibits[^key-1d5bec2e3b4e5de396ffb7005fe1e80f]
+## 42.4. Supply of documentary and other exhibits[^c-1d5bec2e3b4e5de396ffb7005fe1e80f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rule 36.11 (Registrar’s duty to provide copy documents for appeal or reference
 
 ## Annotations
 
-[^key-1d5bec2e3b4e5de396ffb7005fe1e80f]: Commencement: [Rule 42.4](https://www.legislation.gov.uk/uksi/2025/909/rule/42.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1d5bec2e3b4e5de396ffb7005fe1e80f]: Commencement: [Rule 42.4](https://www.legislation.gov.uk/uksi/2025/909/rule/42.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

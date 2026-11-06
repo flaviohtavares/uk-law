@@ -24,7 +24,7 @@ Section 219
 
 ### Part 1 — Interpretation
 
-**1.**[^key-d8021df68f5cfd34d3b44fd6764c946d] In this Schedule—
+**1.**[^c-d8021df68f5cfd34d3b44fd6764c946d] In this Schedule—
 
 - “**code manager licence**” has the meaning given by paragraph 25;
 - “**consumer redress order**” has the meaning given by paragraph 37;
@@ -44,7 +44,7 @@ Section 219
 
 ### Part 2 — General provision as to the Regulator
 
-#### 2. Objectives[^key-a6ee830b1dd332dcb1ed69c011b5ba12]
+#### 2. Objectives[^c-a6ee830b1dd332dcb1ed69c011b5ba12]
 
 (1) The regulations may make provision about the objectives of the Regulator in carrying out its functions under the regulations.
 
@@ -59,7 +59,7 @@ Section 219
 - (c) their interests in charges for the supply of heating, cooling or hot water by means of relevant heat networks being proportionate;
 - (d) their interests in information about services and charges being communicated plainly.
 
-#### 3. General duties[^key-1417d4e1f8fa462411cfabeff8767a48]
+#### 3. General duties[^c-1417d4e1f8fa462411cfabeff8767a48]
 
 (1) The regulations may make provision about the duties of the Regulator in carrying out its functions under the regulations.
 
@@ -71,7 +71,7 @@ Section 219
 
 (3) Regulations made by virtue of sub-paragraph (2)(a) may require that the Regulator promote effective competition between persons engaged in, or in commercial activities connected with, the supply of heating, cooling or hot water by means of relevant heat networks.
 
-**4.**[^key-15b3d15ed81a6ce6e42bfade2d14e73a] (1) The regulations may provide for the Regulator to have regard, in carrying out a function under the regulations, to—
+**4.**[^c-15b3d15ed81a6ce6e42bfade2d14e73a] (1) The regulations may provide for the Regulator to have regard, in carrying out a function under the regulations, to—
 
 - (a) the interests of existing and future consumers in relation to electricity conveyed by distribution systems or transmission systems (within the meaning of the Electricity Act 1989);
 - (b) the interests of existing and future consumers in relation to gas conveyed through pipes (within the meaning of the Gas Act 1986);
@@ -83,13 +83,13 @@ Section 219
 
 (2) The regulations may provide for persons or bodies exercising regulatory functions in those fields to have regard, in carrying out a regulatory function, to the interests of existing or future consumers in relation to the supply of heating, cooling or hot water by means of relevant heat networks.
 
-#### 5. Delegation of functions[^key-248c64aa02a9da37cf28a06a40222ab1]
+#### 5. Delegation of functions[^c-248c64aa02a9da37cf28a06a40222ab1]
 
 (1) The regulations may provide for the Regulator to delegate functions conferred on the Regulator by the regulations.
 
 (2) The regulations may specify functions which may be delegated only with the consent of the Secretary of State or, as the case may be, the Department.
 
-#### 6. Monitoring, records and information[^key-9a3572b2dc6e2534478b5a8bacdeccaa]
+#### 6. Monitoring, records and information[^c-9a3572b2dc6e2534478b5a8bacdeccaa]
 
 (1) The regulations may require the Regulator to keep under review the carrying on of activities connected with heat networks in the part or parts of the United Kingdom in relation to which the Regulator has functions under the regulations.
 
@@ -97,7 +97,7 @@ Section 219
 
 (3) The regulations may, for the purposes of enabling the Regulator to perform a duty imposed by regulations made by virtue of sub-paragraph (2), make provision enabling the Regulator to require information to be supplied.
 
-**7.**[^key-b30f293fbc91b2f7d6932e5a87116266] (1) The regulations may require the Regulator to collect information with respect to activities connected with heat networks and the persons who carry on those activities for such purposes as are specified in the regulations.
+**7.**[^c-b30f293fbc91b2f7d6932e5a87116266] (1) The regulations may require the Regulator to collect information with respect to activities connected with heat networks and the persons who carry on those activities for such purposes as are specified in the regulations.
 
 (2) The regulations may, in particular, require the Regulator to collect information relating to standards of performance achieved by—
 
@@ -105,7 +105,7 @@ Section 219
 - (b) licensed code managers;
 - (c) persons who hold an installation and maintenance licence.
 
-**8.**[^key-82d3ddf75ef8aa3b87d698a844f3792b] (1) The regulations may make provision requiring the Regulator to maintain records.
+**8.**[^c-82d3ddf75ef8aa3b87d698a844f3792b] (1) The regulations may make provision requiring the Regulator to maintain records.
 
 (2) Regulations made by virtue of sub-paragraph (1) may, in particular, make provision requiring the Regulator to maintain records relating to—
 
@@ -118,15 +118,15 @@ Section 219
 - (b) the Department or a person specified by the Department, or
 - (c) the Scottish Ministers or a person specified by the Scottish Ministers.
 
-**9.**[^key-ef2ee05465f2a386db9ca132fd413ab6] (1) The regulations may make provision restricting the disclosure of information obtained by the Regulator under or by virtue of the regulations, subject to exceptions specified in the regulations.
+**9.**[^c-ef2ee05465f2a386db9ca132fd413ab6] (1) The regulations may make provision restricting the disclosure of information obtained by the Regulator under or by virtue of the regulations, subject to exceptions specified in the regulations.
 
 (2) The regulations may make provision about the disclosure to the Regulator of information held by other persons or bodies.
 
-**10.**[^key-e99aed2141780769ba7b78da18604acf] (1) The regulations may make provision for the purpose of securing that a disclosure of information which is authorised or required by the regulations does not contravene the data protection legislation.
+**10.**[^c-e99aed2141780769ba7b78da18604acf] (1) The regulations may make provision for the purpose of securing that a disclosure of information which is authorised or required by the regulations does not contravene the data protection legislation.
 
 (2) In this paragraph, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3(9) of that Act).
 
-#### 11. Other general provision[^key-3de61bc3b79aa8843152296756f7a502]
+#### 11. Other general provision[^c-3de61bc3b79aa8843152296756f7a502]
 
 (1) The regulations may make other general provision about the Regulator.
 
@@ -145,13 +145,13 @@ Section 219
 
 ### Part 3 — Heat network authorisations
 
-#### 12. Prohibition from carrying on regulated activity[^key-b8792daa3dea0bf27cb498e94528e120]
+#### 12. Prohibition from carrying on regulated activity[^c-b8792daa3dea0bf27cb498e94528e120]
 
 (1) The regulations may prohibit a person from carrying on a regulated activity, except as permitted by virtue of an authorisation conferred under regulations made by virtue of paragraph 13.
 
 (2) In this paragraph, “**regulated activity**” means an activity relating to a relevant heat network of such description as may be specified in the regulations.
 
-#### 13. Heat network authorisations[^key-f0907ac3992e2933ce1be1f5502e9171]
+#### 13. Heat network authorisations[^c-f0907ac3992e2933ce1be1f5502e9171]
 
 (1) The regulations may provide for the Regulator to confer authorisations (“heat network authorisations”) to carry on one or more regulated activities specified in the authorisation in relation to a particular relevant heat network.
 
@@ -178,7 +178,7 @@ Section 219
 
 (7) The regulations may make provision as to the period for which an authorisation may be in force.
 
-**14.**[^key-544e2d0b452087f9eace2d3308340f2c] (1) The regulations may make provision about the conditions to be included in heat network authorisations.
+**14.**[^c-544e2d0b452087f9eace2d3308340f2c] (1) The regulations may make provision about the conditions to be included in heat network authorisations.
 
 (2) The regulations may, in particular—
 
@@ -229,7 +229,7 @@ Section 219
 - (a) in relation to England and Wales or Scotland, impose on the person who holds the authorisation a requirement of a kind that may be imposed under section 7(3) of the Electricity Act 1989 on the holder of a licence under section 6(1) of that Act;
 - (b) in relation to Northern Ireland, impose on the person who holds the authorisation a requirement of a kind that may be imposed under Article 11(3) of the Electricity (Northern Ireland) Order 1992 ([S.I. 1992/231 (N.I. 1))](https://www.legislation.gov.uk/nisi/1992/231) on the holder of a licence under Article 10(1) of that Order.
 
-#### 15. Conditions about technical standards: further provision[^key-906d100b4be6d4889fd97ed258a25691]
+#### 15. Conditions about technical standards: further provision[^c-906d100b4be6d4889fd97ed258a25691]
 
 The technical standards for which regulations made by virtue of paragraph 14(4)(e) may make provision include technical standards relating to—
 
@@ -238,13 +238,13 @@ The technical standards for which regulations made by virtue of paragraph 14(4)(
 - (c) equipment or materials used in the construction, operation or maintenance of a heat network;
 - (d) the competence of persons engaged in the design, construction, commissioning, operation or maintenance of a heat network.
 
-#### 16. Conditions about continuity of supply: further provision[^key-3db183cfca27327a021d2f0b01a2dddd]
+#### 16. Conditions about continuity of supply: further provision[^c-3db183cfca27327a021d2f0b01a2dddd]
 
 Conditions of the sort referred to in paragraph 14(4)(f) may, in particular, require the holder of a heat network authorisation to enter into and maintain contractual arrangements under which, in circumstances of a description specified in the conditions, one or more other persons are under an obligation to secure the continuity of the supply of heating, cooling or hot water.
 
-**17.**[^key-d7290eceb1dabe7715c0323b76f546ed] Conditions of the sort referred to in paragraph 14(4)(f) may, in particular, require the holder of a heat network authorisation, when directed to do so by the Regulator in circumstances of a description specified in the conditions, to carry on a regulated activity in relation to a relevant heat network in the place of another person (see paragraph 44).
+**17.**[^c-d7290eceb1dabe7715c0323b76f546ed] Conditions of the sort referred to in paragraph 14(4)(f) may, in particular, require the holder of a heat network authorisation, when directed to do so by the Regulator in circumstances of a description specified in the conditions, to carry on a regulated activity in relation to a relevant heat network in the place of another person (see paragraph 44).
 
-#### 18. Modification of heat network authorisations[^key-c4b2b97d9e3c9c713664e1403dc42bd4]
+#### 18. Modification of heat network authorisations[^c-c4b2b97d9e3c9c713664e1403dc42bd4]
 
 (1) The regulations may provide for the modification by the Regulator of—
 
@@ -265,18 +265,18 @@ Conditions of the sort referred to in paragraph 14(4)(f) may, in particular, req
 - (a) to have effect or cease to have effect at such times and in such circumstances as may be determined by or under the conditions;
 - (b) to be modified in such manner as may be specified in the conditions at such times and in such circumstances as may be so determined.
 
-#### 19. Review and revocation of heat network authorisations[^key-3bdb21f138339d84890c964edcea27e0]
+#### 19. Review and revocation of heat network authorisations[^c-3bdb21f138339d84890c964edcea27e0]
 
 The regulations may provide for the conditions of, or the activities carried out by virtue of, a heat network authorisation to be reviewed by the Regulator at any time while it is in force.
 
-**20.**[^key-034416341fd9fae750ae0c43599c5fb4] (1) The regulations may provide—
+**20.**[^c-034416341fd9fae750ae0c43599c5fb4] (1) The regulations may provide—
 
 - (a) for the revocation of a heat network authorisation by the Regulator;
 - (b) for a heat network authorisation to cease to have effect in circumstances specified in or determined under the authorisation.
 
 (2) Regulations made by virtue of sub-paragraph (1)(a) may, in particular, provide for the procedure to be followed by the Regulator when it proposes to revoke the authorisation.
 
-#### 21. Initial period[^key-1cdc5bc7b6623a13117123ed95c4db9e]
+#### 21. Initial period[^c-1cdc5bc7b6623a13117123ed95c4db9e]
 
 (1) The regulations may make provision with respect to persons carrying on a regulated activity in relation to a relevant heat network during a period that—
 
@@ -298,7 +298,7 @@ The regulations may provide for the conditions of, or the activities carried out
 
 ### Part 4 — Code governance
 
-#### 22. Designated documents[^key-ff031757f942f0a4853e44f3f8b80352]
+#### 22. Designated documents[^c-ff031757f942f0a4853e44f3f8b80352]
 
 (1) In this Part, “**designated document**” means a document that—
 
@@ -317,7 +317,7 @@ The regulations may provide for the conditions of, or the activities carried out
 
 (4) The regulations may, in particular, make provision about the cases in which the designated document may be modified by the Regulator.
 
-#### 23. Prohibition on performing the function of a code manager[^key-0667ae959d0876811bdff7841a99dc27]
+#### 23. Prohibition on performing the function of a code manager[^c-0667ae959d0876811bdff7841a99dc27]
 
 (1) The regulations may, in relation to England and Wales and Scotland, prohibit a person from performing the function of code manager in relation to a designated document, except as permitted by virtue of a code manager licence (see paragraph 25).
 
@@ -325,7 +325,7 @@ The regulations may provide for the conditions of, or the activities carried out
 
 (3) This sub-paragraph applies to the person who holds a heat network authorisation where a condition of the authorisation requires the person to comply with the designated document in question.
 
-#### 24. Licensed code managers[^key-98ee30cc0d9d8af56d07c02ee3422952]
+#### 24. Licensed code managers[^c-98ee30cc0d9d8af56d07c02ee3422952]
 
 (1) The regulations may, in relation to England and Wales and Scotland, make provision about selecting a person to be a code manager in relation to a designated document.
 
@@ -337,13 +337,13 @@ The regulations may provide for the conditions of, or the activities carried out
 
 (5) Regulations made by the Regulator by virtue of sub-paragraph (4) are to be made by statutory instrument.
 
-**25.**[^key-c4a69564177b93e44e2cbdc1733905be] (1) The regulations may, in relation to England and Wales and Scotland, provide for the Regulator, where a person is selected to be the code manager in relation to a designated document, to issue a licence (a “code manager licence”) to the person which authorises the person to perform the function of code manager in relation to the designated document.
+**25.**[^c-c4a69564177b93e44e2cbdc1733905be] (1) The regulations may, in relation to England and Wales and Scotland, provide for the Regulator, where a person is selected to be the code manager in relation to a designated document, to issue a licence (a “code manager licence”) to the person which authorises the person to perform the function of code manager in relation to the designated document.
 
 (2) The regulations may make provision as to the period for which a licence may be in force.
 
 (3) In this Part, references to the licensed code manager, in relation to a designated document, are references to the person who is authorised by a code manager licence to perform the function of code manager in relation to the designated document.
 
-**26.**[^key-c08440210c66d3fca340a7276a971cf4] (1) The regulations may make provision about the contents of a code manager licence.
+**26.**[^c-c08440210c66d3fca340a7276a971cf4] (1) The regulations may make provision about the contents of a code manager licence.
 
 (2) Regulations made by virtue of sub-paragraph (1) may, in particular—
 
@@ -372,9 +372,9 @@ The regulations may provide for the conditions of, or the activities carried out
 - (a) in relation to England and Wales or Scotland, impose on the person who holds the licence a requirement of a kind that may be imposed under section 7(3) of the Electricity Act 1989 on the holder of a licence under section 6(1) of that Act;
 - (b) in relation to Northern Ireland, impose on the person who holds the licence a requirement of a kind that may be imposed under Article 11(3) of the Electricity (Northern Ireland) Order 1992 ([S.I. 1992/231 (N.I. 1))](https://www.legislation.gov.uk/nisi/1992/231) on the holder of a licence under Article 10(1) of that Order.
 
-**27.**[^key-0914e381af18cae3addec32e4bf74305] The regulations may provide for the Regulator to make payments to licensed code managers in respect of their costs.
+**27.**[^c-0914e381af18cae3addec32e4bf74305] The regulations may provide for the Regulator to make payments to licensed code managers in respect of their costs.
 
-**28.**[^key-dd3aec3c3eb81df4b22c89b9be981b2f] (1) The regulations may provide for the modification by the Regulator of—
+**28.**[^c-dd3aec3c3eb81df4b22c89b9be981b2f] (1) The regulations may provide for the modification by the Regulator of—
 
 - (a) the conditions of a particular code manager licence;
 - (b) conditions that are included in two or more code manager licences.
@@ -393,11 +393,11 @@ The regulations may provide for the conditions of, or the activities carried out
 - (a) to have effect or cease to have effect at such times and in such circumstances as may be determined by or under the conditions;
 - (b) to be modified in such manner as may be specified in the conditions at such times and in such circumstances as may be so determined.
 
-#### 29. Review and revocation of code manager licences[^key-a41c605764eab12c7cdcf880f117950e]
+#### 29. Review and revocation of code manager licences[^c-a41c605764eab12c7cdcf880f117950e]
 
 The regulations may provide for a code manager licence, or the activities carried out by virtue of a code manager licence, to be reviewed by the Regulator at any time while it is in force.
 
-**30.**[^key-e214f783697b5e0cd686d4636c8e4ca1] (1) The regulations may provide—
+**30.**[^c-e214f783697b5e0cd686d4636c8e4ca1] (1) The regulations may provide—
 
 - (a) for the revocation of a code manager licence by the Regulator;
 - (b) for a code manager licence to cease to have effect in circumstances specified in or determined under the licence.
@@ -406,7 +406,7 @@ The regulations may provide for a code manager licence, or the activities carrie
 
 ### Part 5 — Installation and maintenance licences
 
-#### 31. Installation and maintenance licences[^key-76f41cb72e0c43b362c024e70cb06429]
+#### 31. Installation and maintenance licences[^c-76f41cb72e0c43b362c024e70cb06429]
 
 (1) The regulations may provide for the issuing of licences (“installation and maintenance licences”) which authorise the holder of a licence to exercise the rights specified in the licence for purposes relating to the installation or maintenance of relevant heat networks—
 
@@ -435,7 +435,7 @@ The regulations may provide for a code manager licence, or the activities carrie
 
 (10) The regulations may make provision about the transfer of a licence.
 
-#### 32. Rights that may be conferred[^key-415b6f23b028d0497419135aeaef74fb]
+#### 32. Rights that may be conferred[^c-415b6f23b028d0497419135aeaef74fb]
 
 (1) The regulations must set out the rights relating to land that are capable of being conferred on a person by an installation and maintenance licence.
 
@@ -468,7 +468,7 @@ The regulations may provide for a code manager licence, or the activities carrie
   - (a) as a railway, tramway or waterway, or
   - (b) in connection with a railway, tramway or waterway on the land.
 
-#### 33. Further provision about installation and maintenance licences[^key-e9aca1e30416e57268537864e3b20d75]
+#### 33. Further provision about installation and maintenance licences[^c-e9aca1e30416e57268537864e3b20d75]
 
 (1) The regulations may make provision about the contents of installation and maintenance licences.
 
@@ -492,7 +492,7 @@ The regulations may provide for a code manager licence, or the activities carrie
 - (a) in relation to England and Wales, impose on the person who holds the licence a requirement of a kind that may be imposed under section 7(3) of the Electricity Act 1989 on the holder of a licence under section 6(1) of that Act;
 - (b) in relation to Northern Ireland, impose on the person who holds the licence a requirement of a kind that may be imposed under Article 11(3) of the Electricity (Northern Ireland) Order 1992 ([S.I. 1992/231 (N.I. 1))](https://www.legislation.gov.uk/nisi/1992/231) on the holder of a licence under Article 10(1) of that Order.
 
-**34.**[^key-747b7ff4749fed3cb52198ffbda4fc1d] (1) The regulations may provide for the modification by the Regulator of—
+**34.**[^c-747b7ff4749fed3cb52198ffbda4fc1d] (1) The regulations may provide for the modification by the Regulator of—
 
 - (a) the conditions of a particular installation and maintenance licence;
 - (b) conditions that are included in two or more installation and maintenance licences.
@@ -511,11 +511,11 @@ The regulations may provide for a code manager licence, or the activities carrie
 - (a) to have effect or cease to have effect at such times and in such circumstances as may be determined by or under the conditions;
 - (b) to be modified in such manner as may be specified in the conditions at such times and in such circumstances as may be so determined.
 
-#### 35. Review and revocation of installation and maintenance licences[^key-29d2b9044dc86e7174baec9eb821b3ad]
+#### 35. Review and revocation of installation and maintenance licences[^c-29d2b9044dc86e7174baec9eb821b3ad]
 
 The regulations may provide for the conditions of, or the activities carried out by virtue of, an installation and maintenance licence to be reviewed by the Regulator at any time while it is in force.
 
-**36.**[^key-2126b4966e7cdf97f060b3fefa2ee7ed] (1) The regulations may provide—
+**36.**[^c-2126b4966e7cdf97f060b3fefa2ee7ed] (1) The regulations may provide—
 
 - (a) for the revocation of an installation and maintenance licence by the Regulator;
 - (b) for an installation and maintenance licence to cease to have effect in circumstances specified in or determined under the licence.
@@ -524,7 +524,7 @@ The regulations may provide for the conditions of, or the activities carried out
 
 ### Part 6 — Enforcement of conditions and requirements
 
-#### 37. Methods of enforcement[^key-6ce5ac3af4a35fa0daa85f0f5f57df67]
+#### 37. Methods of enforcement[^c-6ce5ac3af4a35fa0daa85f0f5f57df67]
 
 (1) The regulations may make provision about the enforcement of relevant conditions or relevant requirements.
 
@@ -561,7 +561,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
   - (c) a person who holds an installation and maintenance licence;
 - “**relevant requirement**”, in relation to a relevant person, means a requirement imposed on the person by or under the regulations or by regulations made by the Regulator by virtue of any provision of this Schedule.
 
-#### 38. Final and provisional orders[^key-73bb0d482e86e8132ddd3c258e164b26]
+#### 38. Final and provisional orders[^c-73bb0d482e86e8132ddd3c258e164b26]
 
 (1) Regulations made by virtue of paragraph 37(2) may, in particular—
 
@@ -575,7 +575,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 (3) Except as provided by the regulations, the validity of an order made by virtue of paragraph 37(2)(a) or (b) is not to be questioned in any legal proceedings.
 
-#### 39. Penalties[^key-75e855594b7cb1c538abc207ad28d3fa]
+#### 39. Penalties[^c-75e855594b7cb1c538abc207ad28d3fa]
 
 (1) Regulations made by virtue of paragraph 37(2)(c) may, in particular—
 
@@ -601,7 +601,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 (4) Except as provided by the regulations, the validity of a penalty imposed by virtue of paragraph 37 is not to be questioned in any legal proceedings.
 
-#### 40. Consumer redress orders[^key-61252e507fb2a416165691025152b1f3]
+#### 40. Consumer redress orders[^c-61252e507fb2a416165691025152b1f3]
 
 (1) Regulations made by virtue of paragraph 37(2)(d) may, in particular—
 
@@ -624,7 +624,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 (3) Except as provided by the regulations, the validity of a consumer redress order is not to be questioned in any legal proceedings.
 
-#### 41. Functions under Part 1 of the Competition Act 1998 and Part 4 of the Enterprise Act 2002[^key-25ecaceaa0c6221ac4295945aa20bd88]
+#### 41. Functions under Part 1 of the Competition Act 1998 and Part 4 of the Enterprise Act 2002[^c-25ecaceaa0c6221ac4295945aa20bd88]
 
 (1) The regulations may make provision for the purpose of enabling the Regulator to exercise such functions of the Competition and Markets Authority under Part 1 of the Competition Act 1998, or such descriptions of those functions, as are specified in the regulations.
 
@@ -640,13 +640,13 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 ### Part 7 — Investigation
 
-#### 42. Investigation of charges[^key-8112f80a4de638c7784986d928177330]
+#### 42. Investigation of charges[^c-8112f80a4de638c7784986d928177330]
 
 (1) The regulations may make provision about how the Regulator is to determine whether charges payable by heat network consumers for, or in relation to, heating, cooling or hot water supplied by means of a relevant heat network contravene a condition of a heat network authorisation by reason of being disproportionate (see paragraph 14(5)(b)).
 
 (2) The regulations may, in particular, make provision enabling the Regulator to specify from time to time the methods that are to be used by the Regulator to determine whether charges are disproportionate.
 
-#### 43. Powers to require information etc[^key-3e9d6f651661f4cbbac7ecb4b862109e]
+#### 43. Powers to require information etc[^c-3e9d6f651661f4cbbac7ecb4b862109e]
 
 (1) The regulations may make provision conferring powers on the Regulator or imposing requirements on any person, for the purposes of or in connection with enabling the Regulator—
 
@@ -681,9 +681,9 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 ### Part 8 — Step-in arrangements
 
-**44.**[^key-417add52c02d3e17df6099b4755d1a77] The regulations may make provision for, or in connection with, securing that the holder of a heat network authorisation (“the new entity”) is able effectively to carry on a regulated activity in relation to a relevant heat network in the place of another person (“the old entity”) when directed to do so by the Regulator under a power conferred by a condition in its heat network authorisation (see paragraph 17).
+**44.**[^c-417add52c02d3e17df6099b4755d1a77] The regulations may make provision for, or in connection with, securing that the holder of a heat network authorisation (“the new entity”) is able effectively to carry on a regulated activity in relation to a relevant heat network in the place of another person (“the old entity”) when directed to do so by the Regulator under a power conferred by a condition in its heat network authorisation (see paragraph 17).
 
-**45.**[^key-d0fab571c0319141fe949ebba34fa56e] (1) The regulations may provide for the Regulator to make one or more schemes making such provision as to property, rights and liabilities as is necessary or expedient for the purpose of enabling the new entity to carry on the regulated activity in relation to the relevant heat network in an effective manner.
+**45.**[^c-d0fab571c0319141fe949ebba34fa56e] (1) The regulations may provide for the Regulator to make one or more schemes making such provision as to property, rights and liabilities as is necessary or expedient for the purpose of enabling the new entity to carry on the regulated activity in relation to the relevant heat network in an effective manner.
 
 (2) Regulations made by virtue of sub-paragraph (1) may, in particular, authorise a scheme to provide for—
 
@@ -703,7 +703,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 (4) The regulations may provide for the modification of a scheme.
 
-**46.**[^key-465fb76b36f7b561c6e7fbd05e7636b1] (1) The regulations may—
+**46.**[^c-465fb76b36f7b561c6e7fbd05e7636b1] (1) The regulations may—
 
 - (a) provide for the old entity to give the Regulator such information and assistance as the Regulator may require for the purposes of, or in connection with, the making or implementation of a scheme;
 - (b) provide for the Regulator, for the purposes of, or in connection with, the making or implementation of a scheme, to direct the old entity to take, or to refrain from taking, such steps as are specified in the direction.
@@ -715,9 +715,9 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 ### Part 9 — Special administration regime
 
-**47.**[^key-d225d061f5763fe30f000c13b05f28c0] The regulations may make provision for, or in connection with, a special administration regime for companies that are holders of heat network authorisations.
+**47.**[^c-d225d061f5763fe30f000c13b05f28c0] The regulations may make provision for, or in connection with, a special administration regime for companies that are holders of heat network authorisations.
 
-**48.**[^key-9ccc4a2cc2dc1ef533e0f14d320cb1a1] (1) The regulations may make provision for a court to make an order (a “heat network administration order”) in relation to a company that is the holder of a heat network authorisation directing that the affairs, business and property of the company are to be managed by a person appointed by the court (referred to in this Part as the heat network administrator of the company).
+**48.**[^c-9ccc4a2cc2dc1ef533e0f14d320cb1a1] (1) The regulations may make provision for a court to make an order (a “heat network administration order”) in relation to a company that is the holder of a heat network authorisation directing that the affairs, business and property of the company are to be managed by a person appointed by the court (referred to in this Part as the heat network administrator of the company).
 
 (2) The regulations may make provision about the court that has jurisdiction in a particular case.
 
@@ -726,7 +726,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 - (a) its affairs and business so far as carried on in Great Britain or Northern Ireland (as the case may be), and
 - (b) its property in Great Britain or Northern Ireland (as the case may be).
 
-**49.**[^key-249f5c4e9014957fd32d22ca77dffd44] (1) The regulations may make provision about the objectives of a heat network administration order and the means by which the objectives may be secured.
+**49.**[^c-249f5c4e9014957fd32d22ca77dffd44] (1) The regulations may make provision about the objectives of a heat network administration order and the means by which the objectives may be secured.
 
 (2) The regulations may, in particular, require the heat network administrator to exercise functions so as to achieve the objectives set out in sub-paragraph (3) so far as possible.
 
@@ -750,7 +750,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 (7) In this paragraph, “**the company’s relevant heat network**”, in relation to a company that is the holder of a heat network authorisation, means the relevant heat network to which the authorisation relates.
 
-**50.**[^key-be58b6424e9c5042ae4b472956c055cb] (1) The regulations may make provision for applying, with such modifications as appear to the appropriate authority to be appropriate, the provisions mentioned in sub-paragraph (2).
+**50.**[^c-be58b6424e9c5042ae4b472956c055cb] (1) The regulations may make provision for applying, with such modifications as appear to the appropriate authority to be appropriate, the provisions mentioned in sub-paragraph (2).
 
 (2) The provisions referred to in sub-paragraph (1) are—
 
@@ -764,7 +764,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 - (a) in relation to England and Wales and Scotland, the Secretary of State;
 - (b) in relation to Northern Ireland, the Department.
 
-**51.**[^key-69a989e034cc54a85ea7dd31c14218e5] In this Part—
+**51.**[^c-69a989e034cc54a85ea7dd31c14218e5] In this Part—
 
 - “**company**” means—
   - (a) a company registered under the Companies Act 2006, or
@@ -777,7 +777,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 ### Part 10 — Supply to premises
 
-**52.**[^key-f2b8af03a8fa693a8d084ede0fe9d510] (1) The regulations may make provision about—
+**52.**[^c-f2b8af03a8fa693a8d084ede0fe9d510] (1) The regulations may make provision about—
 
 - (a) offers to connect premises to a relevant heat network, the terms of such offers and acceptance of such an offer;
 - (b) the conduct of holders of heat network authorisations towards heat network consumers or in relation to premises connected or proposed to be connected to a relevant heat network.
@@ -789,7 +789,7 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 
 (3) The following paragraphs of this Part make further provision about regulations that may be made by virtue of this paragraph.
 
-**53.**[^key-144249f16d8dfada977440380633bf77] The regulations may—
+**53.**[^c-144249f16d8dfada977440380633bf77] The regulations may—
 
 - (a) impose duties, in circumstances specified by the regulations, to make and maintain a connection between a relevant heat network and any premises;
 - (b) impose duties as to providing such equipment as may be needed to make the connection function;
@@ -798,12 +798,12 @@ to be excluded if the Regulator considers that it would be more appropriate to p
 - (e) provide for the giving of security for the payment of such an amount in respect of the cost of equipment provided;
 - (f) make provision about the terms upon which a connection is made (including provision for deeming a contract to have been made and for making schemes for determining the terms and conditions to be incorporated in such a contract).
 
-**54.**[^key-58a06f9f15d7259311dc179bc179fc6f] The regulations may—
+**54.**[^c-58a06f9f15d7259311dc179bc179fc6f] The regulations may—
 
 - (a) make provision as to the meters and other equipment that may be installed for the purposes of making and maintaining a connection between a relevant heat network and any premises;
 - (b) impose requirements as to the operation of such meters and other equipment.
 
-**55.**[^key-f5ebd13424b0cd86d6601faca90c4cc2] The regulations may—
+**55.**[^c-f5ebd13424b0cd86d6601faca90c4cc2] The regulations may—
 
 - (a) prohibit the making of a charge where, for the purpose of meeting the needs of a disabled person, a meter or other equipment is moved or replaced;
 - (b) make provision as to the steps that may be taken if payments relating to the supply of heating, cooling or hot water are not made (including provision for removing a connection to a relevant heat network or otherwise preventing the further supply of heating, cooling or hot water);
@@ -812,18 +812,18 @@ to be excluded if the Regulator considers that it would be more appropriate to p
   - (ii) a connection is made to a relevant heat network, or restored, without authority;
 - (d) make provision in connection with securing the rights of a holder of a heat network authorisation as owner of equipment provided by it.
 
-**56.**[^key-4306eb696669d94f1d49952535b34433] The regulations may—
+**56.**[^c-4306eb696669d94f1d49952535b34433] The regulations may—
 
 - (a) confer powers to enter premises for the purposes of installing, inspecting, repairing, replacing, altering or removing meters or other equipment;
 - (b) confer powers to enter premises for the purposes of reading a register on a meter or other equipment;
 - (c) make provision for the issuing of warrants to enter premises for the purposes of exercising powers conferred by regulations made by virtue of this paragraph where conditions specified in the regulations are satisfied;
 - (d) make provision as to the persons who may exercise powers conferred by regulations under this paragraph.
 
-**57.**[^key-7d933cde35ba8e66c5514fab2432a368] The regulations may revoke or amend the Heat Network (Metering and Billing) Regulations 2014 ([S.I. 2014/3120](https://www.legislation.gov.uk/uksi/2014/3120)).
+**57.**[^c-7d933cde35ba8e66c5514fab2432a368] The regulations may revoke or amend the Heat Network (Metering and Billing) Regulations 2014 ([S.I. 2014/3120](https://www.legislation.gov.uk/uksi/2014/3120)).
 
 ### Part 11 — Consumer protection
 
-#### 58. Standards of performance[^key-f731a1f8bd76c1c42214a475007e57fc]
+#### 58. Standards of performance[^c-f731a1f8bd76c1c42214a475007e57fc]
 
 (1) The regulations may prescribe such standards of performance in connection with the regulated activities of holders of heat network authorisations, so far as affecting—
 
@@ -851,7 +851,7 @@ as in the Regulator’s opinion ought to be achieved as regards those persons.
 
 (7) Regulations made by the Regulator by virtue of sub-paragraph (5) are to be made by statutory instrument.
 
-**59.**[^key-eabed21879ec306e530f81b052b46302] (1) The regulations may provide for the Regulator, from time to time—
+**59.**[^c-eabed21879ec306e530f81b052b46302] (1) The regulations may provide for the Regulator, from time to time—
 
 - (a) to determine such standards of overall performance in connection with regulated activities as, in the Regulator’s opinion, ought to be achieved by holders of heat network authorisations;
 - (b) to publish those standards.
@@ -860,7 +860,7 @@ as in the Regulator’s opinion ought to be achieved as regards those persons.
 
 (3) The regulations may require holders of heat network authorisations to conduct their regulated activities in such a way as can reasonably be expected to lead to compliance with standards set under regulations made by virtue of this paragraph.
 
-**60.**[^key-1395be8a6b376a725ee3c137fe9e5211] (1) The regulations may make provision about the steps to be taken in connection with prescribing or determining standards of performance under paragraph 58 or 59.
+**60.**[^c-1395be8a6b376a725ee3c137fe9e5211] (1) The regulations may make provision about the steps to be taken in connection with prescribing or determining standards of performance under paragraph 58 or 59.
 
 (2) The regulations may, in particular, make provision about—
 
@@ -869,7 +869,7 @@ as in the Regulator’s opinion ought to be achieved as regards those persons.
 - (c) considering representations about proposals;
 - (d) consulting such persons or descriptions of person as are specified in the regulations.
 
-#### 61. Consumer advocacy bodies[^key-63bd9f9e8dc7542a5f03d902360c2b1b]
+#### 61. Consumer advocacy bodies[^c-63bd9f9e8dc7542a5f03d902360c2b1b]
 
 (1) The regulations may provide for Part 1 of the Consumers, Estate Agents and Redress Act 2007 (consumer advocacy bodies) to apply in relation to heat network consumers as it applies in relation to gas or electricity consumers, with such modifications as appear to the appropriate authority to be appropriate.
 
@@ -882,22 +882,22 @@ as in the Regulator’s opinion ought to be achieved as regards those persons.
 - (a) in relation to England and Wales and Scotland, the Secretary of State;
 - (b) in relation to Northern Ireland, the Department.
 
-#### 62. Complaints handling and redress schemes[^key-9f680e42d8d20e53b5763707945fbeb8]
+#### 62. Complaints handling and redress schemes[^c-9f680e42d8d20e53b5763707945fbeb8]
 
 The regulations may provide for Part 2 of the Consumers, Estate Agents and Redress Act 2007 (complaints handling and redress schemes)—
 
 - (a) to apply in relation to heat network consumers in England, Wales or Scotland as it applies in relation to gas or electricity consumers, with such modifications as appear to the Secretary of State to be appropriate;
 - (b) to apply in relation to relevant persons in England, Wales or Scotland as it applies in relation to regulated providers within the meaning of that Part, with such modifications as appear to the Secretary of State to be appropriate.
 
-#### 63. Consumer complaints and dispute resolution arrangements: Northern Ireland[^key-d65c402d91d0fcebcd5ba50bedce00f1]
+#### 63. Consumer complaints and dispute resolution arrangements: Northern Ireland[^c-d65c402d91d0fcebcd5ba50bedce00f1]
 
 (1) The regulations may, in relation to Northern Ireland, provide for consumer complaints legislation to apply in relation to a heat network consumer or potential heat network consumer as it applies in relation to a customer or potential customer of, or user of electricity or gas supplied by, an authorised supplier, with such modifications as appear to the Department to be appropriate.
 
 (2) In this paragraph, “**consumer complaints legislation**” means Article 22 of the Energy (Northern Ireland) Order 2003 ([S.I. 2003/419 (N.I. 6))](https://www.legislation.gov.uk/nisi/2003/419) and such other provisions of that Order as relate to it.
 
-**64.**[^key-f090ab67a59d64cf3e74a3951a2f4592] The regulations may, in relation to Northern Ireland, make provision about the resolution of disputes involving a heat network consumer or potential heat network consumer (including by providing for a scheme under which complaints may be made to, and investigated and determined by, an independent person or may be referred to arbitration).
+**64.**[^c-f090ab67a59d64cf3e74a3951a2f4592] The regulations may, in relation to Northern Ireland, make provision about the resolution of disputes involving a heat network consumer or potential heat network consumer (including by providing for a scheme under which complaints may be made to, and investigated and determined by, an independent person or may be referred to arbitration).
 
-#### 65. Documents for Citizens Advice, Consumer Scotland and the General Consumer Council for Northern Ireland[^key-d486ae29999c4c51c172847d1ccc34e3]
+#### 65. Documents for Citizens Advice, Consumer Scotland and the General Consumer Council for Northern Ireland[^c-d486ae29999c4c51c172847d1ccc34e3]
 
 The regulations may make provision requiring the Regulator, where the Regulator publishes a document of a description specified in the regulations, to send a copy of the document to—
 
@@ -906,7 +906,7 @@ The regulations may make provision requiring the Regulator, where the Regulator 
 
 ### Part 12 — Financial arrangements
 
-**66.**[^key-ba48b5ecd61acba651b52a5a14f2b346] (1) The regulations may provide for the Regulator to include in the conditions of heat network authorisations provision requiring the payment of sums relating to the costs incurred by the Secretary of State or the Department in giving financial assistance under regulations made by virtue of paragraph 50 that apply—
+**66.**[^c-ba48b5ecd61acba651b52a5a14f2b346] (1) The regulations may provide for the Regulator to include in the conditions of heat network authorisations provision requiring the payment of sums relating to the costs incurred by the Secretary of State or the Department in giving financial assistance under regulations made by virtue of paragraph 50 that apply—
 
 - (a) any provision of sections 165 to 167 of the Energy Act 2004 (grants, loans, indemnities and guarantees given by the Secretary of State), or
 - (b) any provision of sections 28 to 30 of the Energy Act (Northern Ireland) 2011 (grants, loans, indemnities and guarantees given by the Department).
@@ -916,7 +916,7 @@ The regulations may make provision requiring the Regulator, where the Regulator 
 - (a) provide for the Secretary of State or the Department to give directions to the Regulator for the purpose of securing that sums relating to those costs are included in the sums payable by virtue of conditions in heat network authorisations;
 - (b) provide for the Regulator to comply with any such direction.
 
-**67.**[^key-62071c9ba3aa309c4d7c2723efd459f0] (1) The regulations may provide for the Regulator to include in—
+**67.**[^c-62071c9ba3aa309c4d7c2723efd459f0] (1) The regulations may provide for the Regulator to include in—
 
 - (a) the conditions of a heat network authorisation, or
 - (b) the conditions of an installation and maintenance licence,
@@ -928,23 +928,23 @@ provision requiring the payment of sums relating to the costs incurred by a pers
 - (a) provide for the Secretary of State or the Department to give directions to the Regulator for the purpose of securing that sums relating to those costs are included in the sums payable by virtue of conditions in heat network authorisations or installation and maintenance licences;
 - (b) provide for the Regulator to comply with any such direction.
 
-**68.**[^key-9e6d8a0c13bfa98767449aac855e5692] The regulations may make provision for the Regulator to pay into the Consolidated Fund or the Consolidated Fund of Northern Ireland sums received in consequence of—
+**68.**[^c-9e6d8a0c13bfa98767449aac855e5692] The regulations may make provision for the Regulator to pay into the Consolidated Fund or the Consolidated Fund of Northern Ireland sums received in consequence of—
 
 - (a) provision made by or under the regulations, or
 - (b) a condition of a heat network authorisation, code manager licence or installation and maintenance licence.
 
 ### Part 13 — Miscellaneous and general
 
-#### 69. Consultation and cooperation[^key-dc2365a5adaa8bf2205d953a31009cd6]
+#### 69. Consultation and cooperation[^c-dc2365a5adaa8bf2205d953a31009cd6]
 
 The regulations may—
 
 - (a) make provision about consultation and cooperation with such persons or descriptions of person as are specified in the regulations;
 - (b) make provision as to the purposes of such cooperation.
 
-**70.**[^key-eb86a0b48956d21a27072bd09ab643f8] The regulations may require the Regulator to assist a public authority that carries out, in relation to Wales or Scotland, functions as regards limiting targeted greenhouse gases in relation to heat networks (including by providing information).
+**70.**[^c-eb86a0b48956d21a27072bd09ab643f8] The regulations may require the Regulator to assist a public authority that carries out, in relation to Wales or Scotland, functions as regards limiting targeted greenhouse gases in relation to heat networks (including by providing information).
 
-#### 71. Objectives of the Secretary of State and the Department[^key-c175ac958f02c2d9e08f33cb5263e15d]
+#### 71. Objectives of the Secretary of State and the Department[^c-c175ac958f02c2d9e08f33cb5263e15d]
 
 (1) The regulations may make provision about the objectives of the Secretary of State and the Department in carrying out functions under the regulations.
 
@@ -952,13 +952,13 @@ The regulations may—
 
 (3) The regulations may specify particular interests of existing and future heat network consumers that are to be protected.
 
-#### 72. Offences[^key-b12c8a88bd538ab28987b9309a4b7b1b]
+#### 72. Offences[^c-b12c8a88bd538ab28987b9309a4b7b1b]
 
 (1) The regulations may provide for the creation of offences.
 
 (2) The regulations may deal with matters relating to such offences, including the provision of defences and evidentiary matters.
 
-**73.**[^key-429531efd59a6bed55d1357b934344b9] (1) The regulations may provide for an offence created by virtue of regulations made under paragraph 72 to be triable—
+**73.**[^c-429531efd59a6bed55d1357b934344b9] (1) The regulations may provide for an offence created by virtue of regulations made under paragraph 72 to be triable—
 
 - (a) only summarily, or
 - (b) either summarily or on indictment.
@@ -969,7 +969,7 @@ The regulations may—
 
 (4) The regulations must provide for such an offence to be punishable on summary conviction in Scotland or Northern Ireland with a fine not exceeding an amount specified in the regulations.
 
-#### 74. Crown application[^key-1b7f164d4b1bf6f1a33b68cdc4f1a39c]
+#### 74. Crown application[^c-1b7f164d4b1bf6f1a33b68cdc4f1a39c]
 
 (1) The regulations may make provision about application to the Crown.
 
@@ -992,150 +992,150 @@ The regulations may—
 
 ## Annotations
 
-[^key-d8021df68f5cfd34d3b44fd6764c946d]: Commencement: Sch. 18 para. 1 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-d8021df68f5cfd34d3b44fd6764c946d]: Commencement: Sch. 18 para. 1 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-a6ee830b1dd332dcb1ed69c011b5ba12]: Commencement: Sch. 18 para. 2 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-a6ee830b1dd332dcb1ed69c011b5ba12]: Commencement: Sch. 18 para. 2 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-1417d4e1f8fa462411cfabeff8767a48]: Commencement: Sch. 18 para. 3 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-1417d4e1f8fa462411cfabeff8767a48]: Commencement: Sch. 18 para. 3 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-15b3d15ed81a6ce6e42bfade2d14e73a]: Commencement: Sch. 18 para. 4 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-15b3d15ed81a6ce6e42bfade2d14e73a]: Commencement: Sch. 18 para. 4 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-248c64aa02a9da37cf28a06a40222ab1]: Commencement: Sch. 18 para. 5 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-248c64aa02a9da37cf28a06a40222ab1]: Commencement: Sch. 18 para. 5 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-9a3572b2dc6e2534478b5a8bacdeccaa]: Commencement: Sch. 18 para. 6 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-9a3572b2dc6e2534478b5a8bacdeccaa]: Commencement: Sch. 18 para. 6 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-b30f293fbc91b2f7d6932e5a87116266]: Commencement: Sch. 18 para. 7 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-b30f293fbc91b2f7d6932e5a87116266]: Commencement: Sch. 18 para. 7 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-82d3ddf75ef8aa3b87d698a844f3792b]: Commencement: Sch. 18 para. 8 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-82d3ddf75ef8aa3b87d698a844f3792b]: Commencement: Sch. 18 para. 8 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-ef2ee05465f2a386db9ca132fd413ab6]: Commencement: Sch. 18 para. 9 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-ef2ee05465f2a386db9ca132fd413ab6]: Commencement: Sch. 18 para. 9 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-e99aed2141780769ba7b78da18604acf]: Commencement: Sch. 18 para. 10 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-e99aed2141780769ba7b78da18604acf]: Commencement: Sch. 18 para. 10 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-3de61bc3b79aa8843152296756f7a502]: Commencement: Sch. 18 para. 11 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-3de61bc3b79aa8843152296756f7a502]: Commencement: Sch. 18 para. 11 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-b8792daa3dea0bf27cb498e94528e120]: Commencement: Sch. 18 para. 12 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-b8792daa3dea0bf27cb498e94528e120]: Commencement: Sch. 18 para. 12 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-f0907ac3992e2933ce1be1f5502e9171]: Commencement: Sch. 18 para. 13 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-f0907ac3992e2933ce1be1f5502e9171]: Commencement: Sch. 18 para. 13 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-544e2d0b452087f9eace2d3308340f2c]: Commencement: Sch. 18 para. 14 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-544e2d0b452087f9eace2d3308340f2c]: Commencement: Sch. 18 para. 14 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-906d100b4be6d4889fd97ed258a25691]: Commencement: Sch. 18 para. 15 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-906d100b4be6d4889fd97ed258a25691]: Commencement: Sch. 18 para. 15 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-3db183cfca27327a021d2f0b01a2dddd]: Commencement: Sch. 18 para. 16 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-3db183cfca27327a021d2f0b01a2dddd]: Commencement: Sch. 18 para. 16 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-d7290eceb1dabe7715c0323b76f546ed]: Commencement: Sch. 18 para. 17 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-d7290eceb1dabe7715c0323b76f546ed]: Commencement: Sch. 18 para. 17 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-c4b2b97d9e3c9c713664e1403dc42bd4]: Commencement: Sch. 18 para. 18 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c4b2b97d9e3c9c713664e1403dc42bd4]: Commencement: Sch. 18 para. 18 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-3bdb21f138339d84890c964edcea27e0]: Commencement: Sch. 18 para. 19 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-3bdb21f138339d84890c964edcea27e0]: Commencement: Sch. 18 para. 19 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-034416341fd9fae750ae0c43599c5fb4]: Commencement: Sch. 18 para. 20 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-034416341fd9fae750ae0c43599c5fb4]: Commencement: Sch. 18 para. 20 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-1cdc5bc7b6623a13117123ed95c4db9e]: Commencement: Sch. 18 para. 21 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-1cdc5bc7b6623a13117123ed95c4db9e]: Commencement: Sch. 18 para. 21 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-ff031757f942f0a4853e44f3f8b80352]: Commencement: Sch. 18 para. 22 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-ff031757f942f0a4853e44f3f8b80352]: Commencement: Sch. 18 para. 22 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-0667ae959d0876811bdff7841a99dc27]: Commencement: Sch. 18 para. 23 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-0667ae959d0876811bdff7841a99dc27]: Commencement: Sch. 18 para. 23 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-98ee30cc0d9d8af56d07c02ee3422952]: Commencement: Sch. 18 para. 24 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-98ee30cc0d9d8af56d07c02ee3422952]: Commencement: Sch. 18 para. 24 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-c4a69564177b93e44e2cbdc1733905be]: Commencement: Sch. 18 para. 25 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c4a69564177b93e44e2cbdc1733905be]: Commencement: Sch. 18 para. 25 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-c08440210c66d3fca340a7276a971cf4]: Commencement: Sch. 18 para. 26 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c08440210c66d3fca340a7276a971cf4]: Commencement: Sch. 18 para. 26 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-0914e381af18cae3addec32e4bf74305]: Commencement: Sch. 18 para. 27 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-0914e381af18cae3addec32e4bf74305]: Commencement: Sch. 18 para. 27 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-dd3aec3c3eb81df4b22c89b9be981b2f]: Commencement: Sch. 18 para. 28 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-dd3aec3c3eb81df4b22c89b9be981b2f]: Commencement: Sch. 18 para. 28 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-a41c605764eab12c7cdcf880f117950e]: Commencement: Sch. 18 para. 29 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-a41c605764eab12c7cdcf880f117950e]: Commencement: Sch. 18 para. 29 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-e214f783697b5e0cd686d4636c8e4ca1]: Commencement: Sch. 18 para. 30 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-e214f783697b5e0cd686d4636c8e4ca1]: Commencement: Sch. 18 para. 30 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-76f41cb72e0c43b362c024e70cb06429]: Commencement: Sch. 18 para. 31 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-76f41cb72e0c43b362c024e70cb06429]: Commencement: Sch. 18 para. 31 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-415b6f23b028d0497419135aeaef74fb]: Commencement: Sch. 18 para. 32 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-415b6f23b028d0497419135aeaef74fb]: Commencement: Sch. 18 para. 32 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-e9aca1e30416e57268537864e3b20d75]: Commencement: Sch. 18 para. 33 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-e9aca1e30416e57268537864e3b20d75]: Commencement: Sch. 18 para. 33 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-747b7ff4749fed3cb52198ffbda4fc1d]: Commencement: Sch. 18 para. 34 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-747b7ff4749fed3cb52198ffbda4fc1d]: Commencement: Sch. 18 para. 34 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-29d2b9044dc86e7174baec9eb821b3ad]: Commencement: Sch. 18 para. 35 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-29d2b9044dc86e7174baec9eb821b3ad]: Commencement: Sch. 18 para. 35 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-2126b4966e7cdf97f060b3fefa2ee7ed]: Commencement: Sch. 18 para. 36 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-2126b4966e7cdf97f060b3fefa2ee7ed]: Commencement: Sch. 18 para. 36 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-6ce5ac3af4a35fa0daa85f0f5f57df67]: Commencement: Sch. 18 para. 37 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-6ce5ac3af4a35fa0daa85f0f5f57df67]: Commencement: Sch. 18 para. 37 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-73bb0d482e86e8132ddd3c258e164b26]: Commencement: Sch. 18 para. 38 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-73bb0d482e86e8132ddd3c258e164b26]: Commencement: Sch. 18 para. 38 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-75e855594b7cb1c538abc207ad28d3fa]: Commencement: Sch. 18 para. 39 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-75e855594b7cb1c538abc207ad28d3fa]: Commencement: Sch. 18 para. 39 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-61252e507fb2a416165691025152b1f3]: Commencement: Sch. 18 para. 40 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-61252e507fb2a416165691025152b1f3]: Commencement: Sch. 18 para. 40 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-25ecaceaa0c6221ac4295945aa20bd88]: Commencement: Sch. 18 para. 41 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-25ecaceaa0c6221ac4295945aa20bd88]: Commencement: Sch. 18 para. 41 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-8112f80a4de638c7784986d928177330]: Commencement: Sch. 18 para. 42 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-8112f80a4de638c7784986d928177330]: Commencement: Sch. 18 para. 42 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-3e9d6f651661f4cbbac7ecb4b862109e]: Commencement: Sch. 18 para. 43 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-3e9d6f651661f4cbbac7ecb4b862109e]: Commencement: Sch. 18 para. 43 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-417add52c02d3e17df6099b4755d1a77]: Commencement: Sch. 18 para. 44 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-417add52c02d3e17df6099b4755d1a77]: Commencement: Sch. 18 para. 44 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-d0fab571c0319141fe949ebba34fa56e]: Commencement: Sch. 18 para. 45 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-d0fab571c0319141fe949ebba34fa56e]: Commencement: Sch. 18 para. 45 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-465fb76b36f7b561c6e7fbd05e7636b1]: Commencement: Sch. 18 para. 46 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-465fb76b36f7b561c6e7fbd05e7636b1]: Commencement: Sch. 18 para. 46 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-d225d061f5763fe30f000c13b05f28c0]: Commencement: Sch. 18 para. 47 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-d225d061f5763fe30f000c13b05f28c0]: Commencement: Sch. 18 para. 47 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-9ccc4a2cc2dc1ef533e0f14d320cb1a1]: Commencement: Sch. 18 para. 48 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-9ccc4a2cc2dc1ef533e0f14d320cb1a1]: Commencement: Sch. 18 para. 48 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-249f5c4e9014957fd32d22ca77dffd44]: Commencement: Sch. 18 para. 49 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-249f5c4e9014957fd32d22ca77dffd44]: Commencement: Sch. 18 para. 49 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-be58b6424e9c5042ae4b472956c055cb]: Commencement: Sch. 18 para. 50 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-be58b6424e9c5042ae4b472956c055cb]: Commencement: Sch. 18 para. 50 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-69a989e034cc54a85ea7dd31c14218e5]: Commencement: Sch. 18 para. 51 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-69a989e034cc54a85ea7dd31c14218e5]: Commencement: Sch. 18 para. 51 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-f2b8af03a8fa693a8d084ede0fe9d510]: Commencement: Sch. 18 para. 52 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-f2b8af03a8fa693a8d084ede0fe9d510]: Commencement: Sch. 18 para. 52 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-144249f16d8dfada977440380633bf77]: Commencement: Sch. 18 para. 53 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-144249f16d8dfada977440380633bf77]: Commencement: Sch. 18 para. 53 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-58a06f9f15d7259311dc179bc179fc6f]: Commencement: Sch. 18 para. 54 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-58a06f9f15d7259311dc179bc179fc6f]: Commencement: Sch. 18 para. 54 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-f5ebd13424b0cd86d6601faca90c4cc2]: Commencement: Sch. 18 para. 55 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-f5ebd13424b0cd86d6601faca90c4cc2]: Commencement: Sch. 18 para. 55 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-4306eb696669d94f1d49952535b34433]: Commencement: Sch. 18 para. 56 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-4306eb696669d94f1d49952535b34433]: Commencement: Sch. 18 para. 56 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-7d933cde35ba8e66c5514fab2432a368]: Commencement: Sch. 18 para. 57 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-7d933cde35ba8e66c5514fab2432a368]: Commencement: Sch. 18 para. 57 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-f731a1f8bd76c1c42214a475007e57fc]: Commencement: Sch. 18 para. 58 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-f731a1f8bd76c1c42214a475007e57fc]: Commencement: Sch. 18 para. 58 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-eabed21879ec306e530f81b052b46302]: Commencement: Sch. 18 para. 59 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-eabed21879ec306e530f81b052b46302]: Commencement: Sch. 18 para. 59 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-1395be8a6b376a725ee3c137fe9e5211]: Commencement: Sch. 18 para. 60 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-1395be8a6b376a725ee3c137fe9e5211]: Commencement: Sch. 18 para. 60 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-63bd9f9e8dc7542a5f03d902360c2b1b]: Commencement: Sch. 18 para. 61 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-63bd9f9e8dc7542a5f03d902360c2b1b]: Commencement: Sch. 18 para. 61 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-9f680e42d8d20e53b5763707945fbeb8]: Commencement: Sch. 18 para. 62 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-9f680e42d8d20e53b5763707945fbeb8]: Commencement: Sch. 18 para. 62 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-d65c402d91d0fcebcd5ba50bedce00f1]: Commencement: Sch. 18 para. 63 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-d65c402d91d0fcebcd5ba50bedce00f1]: Commencement: Sch. 18 para. 63 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-f090ab67a59d64cf3e74a3951a2f4592]: Commencement: Sch. 18 para. 64 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-f090ab67a59d64cf3e74a3951a2f4592]: Commencement: Sch. 18 para. 64 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-d486ae29999c4c51c172847d1ccc34e3]: Commencement: Sch. 18 para. 65 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-d486ae29999c4c51c172847d1ccc34e3]: Commencement: Sch. 18 para. 65 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-ba48b5ecd61acba651b52a5a14f2b346]: Commencement: Sch. 18 para. 66 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-ba48b5ecd61acba651b52a5a14f2b346]: Commencement: Sch. 18 para. 66 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-62071c9ba3aa309c4d7c2723efd459f0]: Commencement: Sch. 18 para. 67 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-62071c9ba3aa309c4d7c2723efd459f0]: Commencement: Sch. 18 para. 67 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-9e6d8a0c13bfa98767449aac855e5692]: Commencement: Sch. 18 para. 68 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-9e6d8a0c13bfa98767449aac855e5692]: Commencement: Sch. 18 para. 68 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-dc2365a5adaa8bf2205d953a31009cd6]: Commencement: Sch. 18 para. 69 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-dc2365a5adaa8bf2205d953a31009cd6]: Commencement: Sch. 18 para. 69 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-eb86a0b48956d21a27072bd09ab643f8]: Commencement: Sch. 18 para. 70 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-eb86a0b48956d21a27072bd09ab643f8]: Commencement: Sch. 18 para. 70 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-c175ac958f02c2d9e08f33cb5263e15d]: Commencement: Sch. 18 para. 71 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-c175ac958f02c2d9e08f33cb5263e15d]: Commencement: Sch. 18 para. 71 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-b12c8a88bd538ab28987b9309a4b7b1b]: Commencement: Sch. 18 para. 72 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-b12c8a88bd538ab28987b9309a4b7b1b]: Commencement: Sch. 18 para. 72 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-429531efd59a6bed55d1357b934344b9]: Commencement: Sch. 18 para. 73 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-429531efd59a6bed55d1357b934344b9]: Commencement: Sch. 18 para. 73 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
 
-[^key-1b7f164d4b1bf6f1a33b68cdc4f1a39c]: Commencement: Sch. 18 para. 74 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-1b7f164d4b1bf6f1a33b68cdc4f1a39c]: Commencement: Sch. 18 para. 74 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

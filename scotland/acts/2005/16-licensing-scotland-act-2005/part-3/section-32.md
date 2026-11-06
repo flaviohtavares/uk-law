@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Further application after refusal of application for variation[^key-369bc64019b08bf3cbee073ce18827b1]
+## 32. Further application after refusal of application for variation[^c-369bc64019b08bf3cbee073ce18827b1]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ made before the expiry of the period of one year beginning with the date of the 
 
 ## Annotations
 
-[^key-369bc64019b08bf3cbee073ce18827b1]: Commencement: S. 32 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-369bc64019b08bf3cbee073ce18827b1]: Commencement: S. 32 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

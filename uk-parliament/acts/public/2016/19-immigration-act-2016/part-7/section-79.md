@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Power to expand meaning of person working for public authority[^key-09b737d9bbb3337a3453c5ce42aca4ad]
+## 79. Power to expand meaning of person working for public authority[^c-09b737d9bbb3337a3453c5ce42aca4ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09b737d9bbb3337a3453c5ce42aca4ad]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2016/19/section/79) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)
+[^c-09b737d9bbb3337a3453c5ce42aca4ad]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2016/19/section/79) in force at 21.11.2016 by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1037/regulation/3)

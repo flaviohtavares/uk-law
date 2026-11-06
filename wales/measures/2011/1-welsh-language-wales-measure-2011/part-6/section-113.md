@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Interference with freedom to use Welsh[^key-272476b4181a1a38f4dd814fe8019837]
+## 113. Interference with freedom to use Welsh[^c-272476b4181a1a38f4dd814fe8019837]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-272476b4181a1a38f4dd814fe8019837]: Commencement: [S. 113](https://www.legislation.gov.uk/mwa/2011/1/section/113) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)
+[^c-272476b4181a1a38f4dd814fe8019837]: Commencement: [S. 113](https://www.legislation.gov.uk/mwa/2011/1/section/113) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(k)](https://www.legislation.gov.uk/wsi/2012/969/article/2/k)

@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-The Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
+The Animals and Animal Products (Import and Export) (Amendment) Regulations (Northern Ireland) 2006 (revoked)[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
 
 Made
 
@@ -43,110 +43,110 @@ Coming into operation
 
 1st April 2006
 
-[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
+## 1. Citation and commencement[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
+## 2. Interpretation[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2005[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
+## 3. Amendment of the Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2005[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
+## SCHEDULE[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]
 
-> **SCHEDULE 6 — THE NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
+> **SCHEDULE 6 — THE NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
 >
 > Regulations 5(7), 23 and 25(1)
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART I — MEMBERSHIP[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
+> **PART I — MEMBERSHIP[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
 >
-> **1.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **8.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **8.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **9.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II — REGISTRATION FEE[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
+> **PART II — REGISTRATION FEE[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
 >
-> **1.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART III — ANNUAL MEMBERSHIP FEE[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
+> **PART III — ANNUAL MEMBERSHIP FEE[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
 >
-> **1.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART IV — RE-INSPECTION FEE[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
+> **PART IV — RE-INSPECTION FEE[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART V — SUPPLEMENTARY AUDIT INSPECTION FEE[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
+> **PART V — SUPPLEMENTARY AUDIT INSPECTION FEE[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
 >
-> **1.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 7 — APPROVAL OF LABORATORIES UNDER THE NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
+> **SCHEDULE 7 — APPROVAL OF LABORATORIES UNDER THE NORTHERN IRELAND POULTRY HEALTH ASSURANCE SCHEME[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
 >
 > Regulations 9(5) and 25(1)
 >
-> **PART I — APPROVAL[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
+> **PART I — APPROVAL[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
 >
-> **1.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART II — ANNUAL APPROVAL FEE[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
+> **PART II — ANNUAL APPROVAL FEE[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]**
 >
-> **1.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/105) revoked (1.11.2006) by [The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (S.R. 2006/401)](https://www.legislation.gov.uk/nisr/2006/401), [regs. 1](https://www.legislation.gov.uk/nisr/2006/401/regulation/1), [34](https://www.legislation.gov.uk/nisr/2006/401/regulation/34), [Sch. 9](https://www.legislation.gov.uk/nisr/2006/401/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/401/regulation/3))
+[^c-7fa85e1bffcc1d3d6c9c7bd2e6c49d7e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/105) revoked (1.11.2006) by [The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (S.R. 2006/401)](https://www.legislation.gov.uk/nisr/2006/401), [regs. 1](https://www.legislation.gov.uk/nisr/2006/401/regulation/1), [34](https://www.legislation.gov.uk/nisr/2006/401/regulation/34), [Sch. 9](https://www.legislation.gov.uk/nisr/2006/401/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/2006/401/regulation/3))

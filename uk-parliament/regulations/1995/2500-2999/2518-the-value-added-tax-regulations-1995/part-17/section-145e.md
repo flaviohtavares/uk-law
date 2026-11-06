@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145E. Fiscal warehousing regimes[^key-6f448ec98873fbec9dfeb11664bd92a7]
+## 145E. Fiscal warehousing regimes[^c-6f448ec98873fbec9dfeb11664bd92a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f448ec98873fbec9dfeb11664bd92a7]: Textual amendment: Pt. 16(A) and heading inserted (28.4.1996) by [The Value Added Tax (Amendment) (No. 3) Regulations 1996 (S.I. 1996/1250)](https://www.legislation.gov.uk/uksi/1996/1250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/1996/1250/regulation/12), [13](https://www.legislation.gov.uk/uksi/1996/1250/regulation/13)
+[^c-6f448ec98873fbec9dfeb11664bd92a7]: Textual amendment: Pt. 16(A) and heading inserted (28.4.1996) by [The Value Added Tax (Amendment) (No. 3) Regulations 1996 (S.I. 1996/1250)](https://www.legislation.gov.uk/uksi/1996/1250), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/1)[(2)](https://www.legislation.gov.uk/uksi/1996/1250/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/1996/1250/regulation/12), [13](https://www.legislation.gov.uk/uksi/1996/1250/regulation/13)

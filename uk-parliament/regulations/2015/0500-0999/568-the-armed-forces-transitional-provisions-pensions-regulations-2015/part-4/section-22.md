@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Amendment of article 16 (lump sum awards: incapacity for armed forces service) of the EDP Order 2005[^key-a7a80943da24a4bbf62e1af64b5d6a52]
+## 22. Amendment of article 16 (lump sum awards: incapacity for armed forces service) of the EDP Order 2005[^c-a7a80943da24a4bbf62e1af64b5d6a52]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ Article 16 of the EDP Order 2005 is amended by—
 
 ## Annotations
 
-[^key-a7a80943da24a4bbf62e1af64b5d6a52]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-a7a80943da24a4bbf62e1af64b5d6a52]: Commencement: Reg. 22 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

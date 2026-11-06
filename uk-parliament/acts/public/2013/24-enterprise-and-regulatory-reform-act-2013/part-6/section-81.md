@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Payments to directors: minor and consequential amendments[^key-8f869d50c215e1e5b22103ab8a6f2792]
+## 81. Payments to directors: minor and consequential amendments[^c-8f869d50c215e1e5b22103ab8a6f2792]
 
 *Extent: E+W+S+N.I.*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f869d50c215e1e5b22103ab8a6f2792]: Commencement: S. 81 in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
+[^c-8f869d50c215e1e5b22103ab8a6f2792]: Commencement: S. 81 in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 319. Great British Nuclear’s objects[^key-df3fa031600f803ac6fa72f4fa1eaf18]
+## 319. Great British Nuclear’s objects[^c-df3fa031600f803ac6fa72f4fa1eaf18]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Great British Nuclear’s objects are to facilitate the design, construction, co
 
 ## Annotations
 
-[^key-df3fa031600f803ac6fa72f4fa1eaf18]: Commencement: S. 319 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)
+[^c-df3fa031600f803ac6fa72f4fa1eaf18]: Commencement: S. 319 in force at Royal Assent, see [s. 334(2)(o)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/o)

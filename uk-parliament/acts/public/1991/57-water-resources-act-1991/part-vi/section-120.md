@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 120. Contributions between the appropriate agency and certain other authorities.[^key-f2d875af0e510d83a83f038c737accc4][^key-21423ce0d47eaa650fb851bfceea3f8e]
+## 120. Contributions between the appropriate agency and certain other authorities.[^c-f2d875af0e510d83a83f038c737accc4][^c-21423ce0d47eaa650fb851bfceea3f8e]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ and where any decision has been made by the Secretary of State or an arbitrator 
 
 ## Annotations
 
-[^key-f2d875af0e510d83a83f038c737accc4]: Modification: S. 120 applied (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2003/37/section/33/3/a), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
+[^c-f2d875af0e510d83a83f038c737accc4]: Modification: S. 120 applied (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 33(3)(a)](https://www.legislation.gov.uk/ukpga/2003/37/section/33/3/a), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(p)](https://www.legislation.gov.uk/uksi/2006/984/article/2/p)
 
-[^key-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

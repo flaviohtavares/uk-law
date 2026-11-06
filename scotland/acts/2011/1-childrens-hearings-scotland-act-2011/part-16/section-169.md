@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 169. Child absconding from place[^key-3535ef04c80500b77071cb6a2e6c4759][^key-28a186f9935355d6487b114f78eade9d][^key-8837e5340cd59b17b6ae6b1c40027c42]
+## 169. Child absconding from place[^c-3535ef04c80500b77071cb6a2e6c4759][^c-28a186f9935355d6487b114f78eade9d][^c-8837e5340cd59b17b6ae6b1c40027c42]
 
 *Extent: S*
 
-(1)[^key-76061e94f880fd3a1a8783de18d44cae] This section applies where—
+(1)[^c-76061e94f880fd3a1a8783de18d44cae] This section applies where—
 
 - (a) a child requires to be kept in a particular place by virtue of—
   - (i) a child assessment order,
@@ -35,14 +35,14 @@ summary: ''
   - (x) section 143, and
 - (b) the child absconds from that place or, at the end of a period of leave, fails to return to that place.
 
-(2)[^key-76061e94f880fd3a1a8783de18d44cae] The child may be [^key-d2b7864c5253b4a79337387f4857a858]... taken to that place.
+(2)[^c-76061e94f880fd3a1a8783de18d44cae] The child may be [^c-d2b7864c5253b4a79337387f4857a858]... taken to that place.
 
-(3)[^key-76061e94f880fd3a1a8783de18d44cae] If a court is satisfied that there are reasonable grounds for believing that the child is within premises, the court may grant a warrant authorising an officer of law to—
+(3)[^c-76061e94f880fd3a1a8783de18d44cae] If a court is satisfied that there are reasonable grounds for believing that the child is within premises, the court may grant a warrant authorising an officer of law to—
 
 - (a) enter premises, and
 - (b) search for the child.
 
-(4)[^key-76061e94f880fd3a1a8783de18d44cae] The court may authorise the officer of law to use reasonable force for those purposes.
+(4)[^c-76061e94f880fd3a1a8783de18d44cae] The court may authorise the officer of law to use reasonable force for those purposes.
 
 (5) Where the child is returned to the place mentioned in subsection (1), but the occupier of that place is unwilling or unable to receive the child—
 
@@ -72,12 +72,12 @@ summary: ''
 
 ## Annotations
 
-[^key-3535ef04c80500b77071cb6a2e6c4759]: Commencement: S. 169 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-3535ef04c80500b77071cb6a2e6c4759]: Commencement: S. 169 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-28a186f9935355d6487b114f78eade9d]: Modification: [S. 169](https://www.legislation.gov.uk/asp/2011/1/section/169) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(8)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/8)
+[^c-28a186f9935355d6487b114f78eade9d]: Modification: [S. 169](https://www.legislation.gov.uk/asp/2011/1/section/169) modified (24.6.2022) by [The Cross-border Placements (Effect of Deprivation of Liberty Orders) (Scotland) Regulations 2022 (S.S.I. 2022/225)](https://www.legislation.gov.uk/ssi/2022/225), [regs. 1](https://www.legislation.gov.uk/ssi/2022/225/regulation/1), [13(8)](https://www.legislation.gov.uk/ssi/2022/225/regulation/13/8)
 
-[^key-8837e5340cd59b17b6ae6b1c40027c42]: Modification: [Ss. 168-171](https://www.legislation.gov.uk/asp/2011/1/section/168) applied (with modifications) (9.2.2026) by [The Cross-border Placement of Children (Requirements, Effect and Enforcement) (Scotland) Regulations 2026 (S.S.I. 2026/31)](https://www.legislation.gov.uk/ssi/2026/31), [regs. 1](https://www.legislation.gov.uk/ssi/2026/31/regulation/1), [36](https://www.legislation.gov.uk/ssi/2026/31/regulation/36)
+[^c-8837e5340cd59b17b6ae6b1c40027c42]: Modification: [Ss. 168-171](https://www.legislation.gov.uk/asp/2011/1/section/168) applied (with modifications) (9.2.2026) by [The Cross-border Placement of Children (Requirements, Effect and Enforcement) (Scotland) Regulations 2026 (S.S.I. 2026/31)](https://www.legislation.gov.uk/ssi/2026/31), [regs. 1](https://www.legislation.gov.uk/ssi/2026/31/regulation/1), [36](https://www.legislation.gov.uk/ssi/2026/31/regulation/36)
 
-[^key-76061e94f880fd3a1a8783de18d44cae]: Modification: S. 169(1)-(4) applied by 1989 c. 41, s. 25(8A) (as inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/2/6))
+[^c-76061e94f880fd3a1a8783de18d44cae]: Modification: S. 169(1)-(4) applied by 1989 c. 41, s. 25(8A) (as inserted (27.4.2017) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(1)(a)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/1/a), [Sch. 1 para. 2(6)](https://www.legislation.gov.uk/ukpga/2017/16/schedule/1/paragraph/2/6))
 
-[^key-d2b7864c5253b4a79337387f4857a858]: Textual amendment: Words in s. 169(2) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 24](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/24); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-d2b7864c5253b4a79337387f4857a858]: Textual amendment: Words in s. 169(2) repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 24](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/24); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

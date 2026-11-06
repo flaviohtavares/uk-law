@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 96. Final meeting[^key-25bc7c1d6fd8734db32524c1ee484196]
+## 96. Final meeting[^c-25bc7c1d6fd8734db32524c1ee484196]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25bc7c1d6fd8734db32524c1ee484196]: Commencement: Rule 96 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-25bc7c1d6fd8734db32524c1ee484196]: Commencement: Rule 96 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
 
 [^f00015]: Footnote: Article 150A was inserted by the (Insolvency (Northern Ireland) Order 1989 (Prescribed Part) Order [S.R. 2006 No. 25](https://www.legislation.gov.uk/nisr/2006/25).

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Section 29 notices: supplementary provisions.[^key-28bc5944108b762883855a3bd6b5024f]
+## 31. Section 29 notices: supplementary provisions.[^c-28bc5944108b762883855a3bd6b5024f]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-ec47d8150f8752f2b8791198681b1142] The Secretary of State may not give a notice under section 29(1) in relation to an offshore installation to a person (“P”) who, in relation to the installation, falls within paragraph (b) or (c) of section 30(1), if—
+(A1)[^c-ec47d8150f8752f2b8791198681b1142] The Secretary of State may not give a notice under section 29(1) in relation to an offshore installation to a person (“P”) who, in relation to the installation, falls within paragraph (b) or (c) of section 30(1), if—
 
 - (a) P is not entitled to derive, and never has been entitled to derive, any financial or other benefit from any activity within section 30(6)—
   - (i) which has been or is carried on (or is intended to be carried on) from, by means of or on the installation, and
@@ -47,7 +47,7 @@ summary: ''
 - (a) the body corporate falls within paragraph (e) of section 30(1) (and no other paragraph of that section), and
 - (b) the body corporate falls within that paragraph by reason only that it is associated (within the meaning given by section 30(8)) with a person to whom the Secretary of State may not give a notice in relation to the installation by virtue of subsection (A1).
 
-(1) Subject to subsection (3), the Secretary of State shall not give a notice under section 29(1) in relation to an offshore installation to a person within paragraph [^key-cdd7f56cfc16c666de5e42b9a958178f]... (e) of section 30(1) if the Secretary of State has been and continues to be satisfied that adequate arrangements (including financial arrangements) have been made by a person or persons within paragraph (a), (b) or (c) to ensure that a satisfactory abandonment programme will be carried out.
+(1) Subject to subsection (3), the Secretary of State shall not give a notice under section 29(1) in relation to an offshore installation to a person within paragraph [^c-cdd7f56cfc16c666de5e42b9a958178f]... (e) of section 30(1) if the Secretary of State has been and continues to be satisfied that adequate arrangements (including financial arrangements) have been made by a person or persons within paragraph (a), (b) or (c) to ensure that a satisfactory abandonment programme will be carried out.
 
 (2) Subject to subsection (3), the Secretary of State shall not give a notice under section 29(1) in relation to a submarine pipeline to a person within paragraph (b) or (c) of section 30(2) if the Secretary of State has been and continues to be satisfied that adequate arrangements (including financial arrangements) have been made by a person or persons within paragraph (a) to ensure that a satisfactory abandonment programme will be carried out.
 
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
+[^c-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
 
-[^key-ec47d8150f8752f2b8791198681b1142]: Textual amendment: Ss. 31(A1)-(D1) inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 72(7)](https://www.legislation.gov.uk/ukpga/2008/32/section/72/7), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)
+[^c-ec47d8150f8752f2b8791198681b1142]: Textual amendment: Ss. 31(A1)-(D1) inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 72(7)](https://www.legislation.gov.uk/ukpga/2008/32/section/72/7), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)
 
-[^key-cdd7f56cfc16c666de5e42b9a958178f]: Textual amendment: Words in s. 31(1) repealed (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/32/schedule/5/paragraph/9), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(cc)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/cc)[(iv)(vi)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/iv/vi)
+[^c-cdd7f56cfc16c666de5e42b9a958178f]: Textual amendment: Words in s. 31(1) repealed (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2008/32/schedule/5/paragraph/9), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(e)(cc)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/cc)[(iv)(vi)](https://www.legislation.gov.uk/uksi/2009/45/article/2/e/iv/vi)

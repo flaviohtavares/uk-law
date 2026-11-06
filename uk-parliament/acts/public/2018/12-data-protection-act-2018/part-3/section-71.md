@@ -24,7 +24,7 @@ summary: ''
 
 - (a) informing and advising the controller, any processor engaged by the controller, and any employee of the controller who carries out processing of personal data, of that person's obligations under this Part,
 - (b) providing advice on the carrying out of a data protection impact assessment under section 64 and monitoring compliance with that section,
-- (c) co-operating with the Commission[^key-406f2975456dd4a9cacebafe6580156d] ,
+- (c) co-operating with the Commission[^c-406f2975456dd4a9cacebafe6580156d] ,
 - (d) acting as the contact point for the Commission on issues relating to processing, including in relation to the consultation mentioned in section 65, and consulting with the Commission, where appropriate, in relation to any other matter,
 - (e) monitoring compliance with policies of the controller in relation to the protection of personal data, and
 - (f) monitoring compliance by the controller with this Part.
@@ -42,4 +42,4 @@ summary: ''
 
 [^M_I_39340472-b308-446c-f416-de36a113b1c3]: Commencement: S. 71 in force at 25.5.2018 by [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/c)
 
-[^key-406f2975456dd4a9cacebafe6580156d]: Textual amendment: Word in s. 71(1)(c)(d) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-406f2975456dd4a9cacebafe6580156d]: Textual amendment: Word in s. 71(1)(c)(d) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

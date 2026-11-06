@@ -22,11 +22,11 @@ summary: ''
 
 Article 28
 
-### 1. Compensation enactments[^key-1bcaa5fc6710abc10877c8e5b8fbe5ae]
+### 1. Compensation enactments[^c-1bcaa5fc6710abc10877c8e5b8fbe5ae]
 
 The enactments for the time being in force with respect to compensation for the compulsory purchase of land apply in the case of a compulsory acquisition under this Order of a right by the creation of a new right or the imposition of a restrictive covenant as they apply in respect of compensation on the compulsory purchase of land and interests in land, subject to the modifications set out in this Schedule.
 
-### 2.[^key-ddc86b759c3bf7ae73c51aa6a3db9a6f]
+### 2.[^c-ddc86b759c3bf7ae73c51aa6a3db9a6f]
 
 (1) Without limiting paragraph (1), the Land Compensation Act 1973[^f00109] has effect subject to the modifications set out in sub-paragraphs (2).
 
@@ -35,7 +35,7 @@ The enactments for the time being in force with respect to compensation for the 
 - (a) for “land is acquired or taken from” substitute “a right or restrictive covenant over land is purchased from or imposed on”; and
 - (b) for “acquired or taken from him” substitute “over which the right is exercisable or the restrictive covenant enforceable”.
 
-### 3.[^key-ec6b39341a21b0d4e3b86259f9475cf9]
+### 3.[^c-ec6b39341a21b0d4e3b86259f9475cf9]
 
 (1) Without limiting paragraph 1, the 1961 Act has effect subject to the modification set out in sub-paragraph (2).
 
@@ -51,20 +51,20 @@ The enactments for the time being in force with respect to compensation for the 
 
 .
 
-### 4. Application of Part 1 of the 1965 Act[^key-a8b305a1630a1c7718a424deeb927bae]
+### 4. Application of Part 1 of the 1965 Act[^c-a8b305a1630a1c7718a424deeb927bae]
 
 Part 1 of the 1965 Act, as applied by section 125 (application of compulsory acquisition provisions) of the 2008 Act (and modified by article 32 (modification of Part 1 of the 1965 Act)) to the acquisition of land under article 27 (compulsory acquisition of land), applies to the compulsory acquisition of a right by the creation of a new right, or to the imposition of a restrictive covenant under article 28 (compulsory acquisition of rights and the imposition of restrictive covenants)—
 
 - (a) with the modifications specified in paragraph 5; or
 - (b) with such other modifications as may be necessary.
 
-### 5.[^key-3a8f7444f81629cf2958fef7042f4d63]
+### 5.[^c-3a8f7444f81629cf2958fef7042f4d63]
 
 (1) The modifications referred to in paragraph 4(a) are as follows.
 
 (2) References in the 1965 Act to land are, in the appropriate contexts, to be read (according to the requirements of the particular context) as referring to, or as including references to—
 
-- (a) the right acquired or to be acquired, or the restrictive covenant imposed[^key-49acf77b750d9e8e7aec799283144cb6] or to be imposed; or
+- (a) the right acquired or to be acquired, or the restrictive covenant imposed[^c-49acf77b750d9e8e7aec799283144cb6] or to be imposed; or
 - (b) the land over which the right is or is to be exercisable, or the restrictive covenant is or is to be enforceable.
 
 (3) For section 7 (measure of compensation in case of severance) of the 1965 Act substitute—
@@ -147,19 +147,19 @@ are modified so as to secure that, as against persons with interests in the land
 
 ## Annotations
 
-[^key-1bcaa5fc6710abc10877c8e5b8fbe5ae]: Commencement: Sch. 8 para. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-1bcaa5fc6710abc10877c8e5b8fbe5ae]: Commencement: Sch. 8 para. 1 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-ddc86b759c3bf7ae73c51aa6a3db9a6f]: Commencement: Sch. 8 para. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-ddc86b759c3bf7ae73c51aa6a3db9a6f]: Commencement: Sch. 8 para. 2 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
 [^f00109]: Footnote: [1973 c. 26](https://www.legislation.gov.uk/ukpga/1973/26).
 
-[^key-ec6b39341a21b0d4e3b86259f9475cf9]: Commencement: Sch. 8 para. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-ec6b39341a21b0d4e3b86259f9475cf9]: Commencement: Sch. 8 para. 3 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-a8b305a1630a1c7718a424deeb927bae]: Commencement: Sch. 8 para. 4 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-a8b305a1630a1c7718a424deeb927bae]: Commencement: Sch. 8 para. 4 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-3a8f7444f81629cf2958fef7042f4d63]: Commencement: Sch. 8 para. 5 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-3a8f7444f81629cf2958fef7042f4d63]: Commencement: Sch. 8 para. 5 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
 
-[^key-49acf77b750d9e8e7aec799283144cb6]: Textual amendment: Word in [Sch. 8 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2025/1054/schedule/8/paragraph/5/2/a) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
+[^c-49acf77b750d9e8e7aec799283144cb6]: Textual amendment: Word in [Sch. 8 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2025/1054/schedule/8/paragraph/5/2/a) substituted (21.1.2026) by [The Gatwick Airport (Northern Runway Project) Development Consent (Correction) Order 2026 (S.I. 2026/43)](https://www.legislation.gov.uk/uksi/2026/43), [art. 1](https://www.legislation.gov.uk/uksi/2026/43/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/43/schedule) (which affecting local non-print S.I. is replaced by printed local S.I. 2026/1055)
 
 [^f00110]: Footnote: Section 11 was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), section 3 of, and Part 1 of Schedule 1 to, the Housing (Consequential Provisions) Act [1985 (c. 71)](https://www.legislation.gov.uk/ukpga/1985/71), section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and sections 186 to 188 of, and Schedule 14 and Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22) and [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

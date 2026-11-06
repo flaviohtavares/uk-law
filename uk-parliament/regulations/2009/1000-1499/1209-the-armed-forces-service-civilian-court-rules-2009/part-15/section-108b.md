@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108B. Information to be supplied on order for disqualification, etc.[^key-c1961b47b91acd69cfd574ca66ff6ca4]
+## 108B. Information to be supplied on order for disqualification, etc.[^c-c1961b47b91acd69cfd574ca66ff6ca4]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1961b47b91acd69cfd574ca66ff6ca4]: Textual amendment: Pt. 15 Ch. 3 inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/209/regulation/14)
+[^c-c1961b47b91acd69cfd574ca66ff6ca4]: Textual amendment: Pt. 15 Ch. 3 inserted (1.4.2023) by [The Armed Forces (Driving Disqualification Orders) Regulations 2023 (S.I. 2023/209)](https://www.legislation.gov.uk/uksi/2023/209), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/209/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/209/regulation/14)

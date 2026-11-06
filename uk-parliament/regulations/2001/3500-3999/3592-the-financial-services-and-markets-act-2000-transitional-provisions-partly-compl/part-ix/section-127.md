@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Application of original Building Societies Act to transitional appeals[^key-4dd429f42ed2c6529b02b5fb2b3f8ea9]
+## 127. Application of original Building Societies Act to transitional appeals[^c-4dd429f42ed2c6529b02b5fb2b3f8ea9]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4dd429f42ed2c6529b02b5fb2b3f8ea9]: Commencement: Art. 127 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-4dd429f42ed2c6529b02b5fb2b3f8ea9]: Commencement: Art. 127 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

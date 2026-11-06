@@ -56,15 +56,15 @@ And Whereas the Convention has been ratified or acceded to by the States specifi
 
 And Whereas by section 64 of the National Insurance Act, 1946, as extended by subsection (1) of section 4 of the Family Allowances and National Insurance Act, 1956, and section 85 of the National Insurance (Industrial Injuries) Act, 1946, it is provided that Her Majesty may, by Order in Council, make provision for modifying or adapting the Family Allowances Act, 1945, and the said Acts of 1946 in their application to cases affected by agreements with other Governments providing for reciprocity in the matters specified in those sections:
 
-Now, therefore, Her Majesty, in pursuance of the said section 64 of the National Insurance Act, 1946, extended as aforesaid by subsection (1) of section 4 of the Family Allowances and National Insurance Act, 1956, and the said section 85 of the National Insurance (Industrial Injuries) Act, 1946, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^key-8975f8d114fefd93a109f0b53de0d896]
+Now, therefore, Her Majesty, in pursuance of the said section 64 of the National Insurance Act, 1946, extended as aforesaid by subsection (1) of section 4 of the Family Allowances and National Insurance Act, 1956, and the said section 85 of the National Insurance (Industrial Injuries) Act, 1946, and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^c-8975f8d114fefd93a109f0b53de0d896]
 
-## 1. Citation, commencement and interpretation[^key-0d1b668c323cbb97e673cd4990b9e87a]
+## 1. Citation, commencement and interpretation[^c-0d1b668c323cbb97e673cd4990b9e87a]
 
 (1) This Order may be cited as the Family Allowances, National Insurance and Industrial Injuries (Refugees) Order, 1956, and shall come into operation on the seventh day of November, 1956.
 
 (2) The Interpretation Act, 1889, applies to the interpretation of this Order as it applies to the interpretation of an Act of Parliament.
 
-## 2. Modification of Acts[^key-3adf253909e1baa2a6e694e3b7c7c75a]
+## 2. Modification of Acts[^c-3adf253909e1baa2a6e694e3b7c7c75a]
 
 Those provisions contained in the Convention which are set out in the First Schedule hereto shall have full force and effect, so far as the same relate to England, Wales and Scotland and provide by way of agreement with the governments of the States specified in the Second Schedule hereto for reciprocity in any matters specified in either subsection (1) of section 64 of the National Insurance Act, 1946, as extended by subsection (1) of section 4 of the Family Allowances and National Insurance Act, 1956, or subsection (1) of section 85 of the National Insurance (Industrial Injuries) Act, 1946 (which subsections relate to reciprocal agreements with other governments), and the Family Allowances Acts, 1945 to 1956, the National Insurance Acts, 1946 to 1956, and the National Insurance (Industrial Injuries) Acts, 1946 to 1956, shall have effect subject to such modifications as may be required therein for the purpose of giving effect to any such provisions.
 
@@ -74,7 +74,7 @@ W. G. Agnew
 
 ### ARTICLE 1 — Definition of the Term “Refugee”
 
-**A.**[^key-ca3fade82ac05c29aecbda2d4815d2ef] For the purposes of the present Convention, the term “**refugee**” shall apply to any person who—
+**A.**[^c-ca3fade82ac05c29aecbda2d4815d2ef] For the purposes of the present Convention, the term “**refugee**” shall apply to any person who—
 
 - (1) Has been considered a refugee under the Arrangements of May 12, 1926, and June 30, 1928, or under the Conventions of October 28, 1933,[^f00001] and February 10, 1938,[^f00002] the Protocol of September 14, 1939,[^f00003] or the Constitution of the International Refugee Organisation;[^f00004]
 - (2) Decisions of non-eligibility taken by the International Refugee Organisation during the period of its activities shall not prevent the status of refugee being accorded to persons who fulfil the conditions of paragraph (2) of this section;
@@ -82,7 +82,7 @@ W. G. Agnew
 
 In the case of a person who has more than one nationality, the term “**the country of his nationality**” shall mean each of the countries of which he is a national, and a person shall not be deemed to be lacking the protection of the country of his nationality if, without any valid reason based on well-founded fear, he has not availed himself of the protection of one of the countries of which he is a national.
 
-**B.**[^key-15c56432aba4c133bcc48842f62c8e11] (1) For the purposes of this Convention, the word “events occurring before January 1, 1951,” in article 1, section A, shall be understood to mean either
+**B.**[^c-15c56432aba4c133bcc48842f62c8e11] (1) For the purposes of this Convention, the word “events occurring before January 1, 1951,” in article 1, section A, shall be understood to mean either
 
 - (a) “events occurring in Europe before January 1, 1951”; or
 - (b) “events occurring in Europe or elsewhere before January 1, 1951”;
@@ -91,7 +91,7 @@ and each Contracting State shall make a declaration at the time of signature, ra
 
 (2) Any Contracting State which has adopted alternative (*a*) may at any time extend its obligations by adopting alternative (*b*) by means of a notification addressed to the Secretary-General of the United Nations.
 
-**C.**[^key-cbe18f76135d212d34a93174e6bfab13] This Convention shall cease to apply to any person falling under the terms of section A if:
+**C.**[^c-cbe18f76135d212d34a93174e6bfab13] This Convention shall cease to apply to any person falling under the terms of section A if:
 
 (1) He has voluntarily re-availed himself of the protection of the country of his nationality; or
 
@@ -109,13 +109,13 @@ Provided that this paragraph shall not apply to a refugee falling under section 
 
 Provided that this paragraph shall not apply to a refugee falling under section A (1) of this article who is able to invoke compelling reasons arising out of previous persecution for refusing to return to the country of his former habitual residence.
 
-**D.**[^key-650f39e2f9e0081bf8db26f0a952b059] This Convention shall not apply to persons who are at present receiving from organs or agencies of the United Nations other than the United Nations High Commissioner for Refugees protection or assistance.
+**D.**[^c-650f39e2f9e0081bf8db26f0a952b059] This Convention shall not apply to persons who are at present receiving from organs or agencies of the United Nations other than the United Nations High Commissioner for Refugees protection or assistance.
 
 When such protection or assistance has ceased for any reason, without the position of such persons being definitively settled in accordance with the relevant resolutions adopted by the General Assembly of the United Nations, these persons shall ipso facto be entitled to the benefits of this Convention.
 
-**E.**[^key-04a29c5da1e623676bbb2b41be2ff13b] This Convention shall not apply to a person who is recognised by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country.
+**E.**[^c-04a29c5da1e623676bbb2b41be2ff13b] This Convention shall not apply to a person who is recognised by the competent authorities of the country in which he has taken residence as having the rights and obligations which are attached to the possession of the nationality of that country.
 
-**F.**[^key-a04520288718532487f3dcfc0c4d7e80] The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
+**F.**[^c-a04520288718532487f3dcfc0c4d7e80] The provisions of this Convention shall not apply to any person with respect to whom there are serious reasons for considering that:
 
 (a) he has committed a crime against peace, a war crime, or a crime against humanity, as defined in the international instruments drawn up to make provision in respect of such crimes;
 
@@ -125,9 +125,9 @@ When such protection or assistance has ceased for any reason, without the positi
 
 ### ARTICLE 24 — Labour Legislation and Social Security
 
-**3.**[^key-eafda36f48597b4809b000aec4faa69b] The Contracting States shall extend to refugees the benefits of agreements concluded between them, or which may be concluded between them in the future, concerning the maintenance of acquired rights and rights in the process of acquisition in regard to social security, subject only to the conditions which apply to nationals of the States signatory to the agreements in question.
+**3.**[^c-eafda36f48597b4809b000aec4faa69b] The Contracting States shall extend to refugees the benefits of agreements concluded between them, or which may be concluded between them in the future, concerning the maintenance of acquired rights and rights in the process of acquisition in regard to social security, subject only to the conditions which apply to nationals of the States signatory to the agreements in question.
 
-### ARTICLE 39 — Signature, Ratification and Accession[^key-3a1ea280e2e990db6b867bd9ef9195b9]
+### ARTICLE 39 — Signature, Ratification and Accession[^c-3a1ea280e2e990db6b867bd9ef9195b9]
 
 **1.** This Convention shall be opened for signature at Geneva on July 28, 1951, and shall thereafter be deposited with the Secretary-General of the United Nations. It shall be open for signature at the European Office of the United Nations from July 28 to August 31, 1951, and shall be re-opened for signature at the Headquarters of the United Nations from September 17, 1951, to December 31, 1952.
 
@@ -135,7 +135,7 @@ When such protection or assistance has ceased for any reason, without the positi
 
 **3.** This Convention shall be open from July 28, 1951, for accession by the States referred to in paragraph 2 of this article. Accession shall be effected by the deposit of an instrument of accession with the Secretary-General of the United Nations.
 
-### ARTICLE 40 — Territorial Application Clause[^key-364d870b4e76aae173d914bb99c2e24a]
+### ARTICLE 40 — Territorial Application Clause[^c-364d870b4e76aae173d914bb99c2e24a]
 
 **1.** Any State may, at the time of signature, ratification or accession, declare that this Convention shall extend to all or any of the territories for the international relations of which it is responsible. Such a declaration shall take effect when the Convention enters into force for the State concerned.
 
@@ -143,19 +143,19 @@ When such protection or assistance has ceased for any reason, without the positi
 
 **3.** With respect to those territories to which this Convention is not extended at the time of signature, ratification or accession, each State concerned shall consider the possibility of taking the necessary steps in order to extend the application of this Convention to such territories, subject, where necessary for constitutional reasons, to the consent of the Governments of such territories.
 
-### ARTICLE 42 — Reservations[^key-86f0e6f61e4d50776f285540fa3b2d12]
+### ARTICLE 42 — Reservations[^c-86f0e6f61e4d50776f285540fa3b2d12]
 
 **1.** At the time of signature, ratification or accession, any State may make reservations to articles of the Convention other than to articles 1, 3, 4, 16 (1), 33, 36–46 inclusive.
 
 **2.** Any State making a reservation in accordance with paragraph 1 of this article may at any time withdraw the reservation by a communication to that effect addressed to the Secretary-General of the United Nations.
 
-### ARTICLE 43 — Entry into force[^key-6584795b02145a691a84529256c17b9e]
+### ARTICLE 43 — Entry into force[^c-6584795b02145a691a84529256c17b9e]
 
 **1.** This Convention shall come into force on the ninetieth day following the day of deposit of the sixth instrument of ratification or accession.[^f00005]
 
 **2.** For each State ratifying or acceding to the Convention after the deposit of the sixth instrument of ratification or accession, the Convention shall enter into force on the ninetieth day following the date of deposit by such State of its instrument of ratification or accession.
 
-### ARTICLE 44 — Denunciation[^key-cf813aed584d989e34def5581d7159cc]
+### ARTICLE 44 — Denunciation[^c-cf813aed584d989e34def5581d7159cc]
 
 **1.** Any Contracting State may denounce this Convention at any time by a notification addressed to the Secretary-General of the United Nations.
 
@@ -163,7 +163,7 @@ When such protection or assistance has ceased for any reason, without the positi
 
 **3.** Any State which has made a declaration or notification under article 40 may, at any time thereafter, by a notification to the Secretary-General of the United Nations, declare that the Convention shall cease to extend to such territory one year after the date of receipt of the notification by the Secretary-General.
 
-## SECOND SCHEDULE — STATES RATIFYING OR ACCEDING TO THE CONVENTION WITH DATES OF DEPOSIT OF THEIR INSTRUMENTS OF RATIFICATION OR ACCESSION AND DATES ON WHICH THE CONVENTION COMES INTO FORCE AS REGARDS THOSE GOVERNMENTS[^key-da65e79b98580f4d7c5ccc715829856c]
+## SECOND SCHEDULE — STATES RATIFYING OR ACCEDING TO THE CONVENTION WITH DATES OF DEPOSIT OF THEIR INSTRUMENTS OF RATIFICATION OR ACCESSION AND DATES ON WHICH THE CONVENTION COMES INTO FORCE AS REGARDS THOSE GOVERNMENTS[^c-da65e79b98580f4d7c5ccc715829856c]
 
 <table>
 <thead>
@@ -220,7 +220,7 @@ When such protection or assistance has ceased for any reason, without the positi
 </tbody>
 </table>
 
-[^key-ce51c18425abe251d98a7868a9340831]
+[^c-ce51c18425abe251d98a7868a9340831]
 
 EXPLANATORY NOTE
 
@@ -228,13 +228,13 @@ This Order gives effect in England, Wales and Scotland to certain provisions of 
 
 ## Annotations
 
-[^key-8975f8d114fefd93a109f0b53de0d896]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1956/1698) modified (4.4.1977) by [The Social Security and Child Benefit (Reciprocal Agreements) Order 1977 (S.I. 1977/425)](https://www.legislation.gov.uk/uksi/1977/425), [arts. 2](https://www.legislation.gov.uk/uksi/1977/425/article/2), [3](https://www.legislation.gov.uk/uksi/1977/425/article/3), [4](https://www.legislation.gov.uk/uksi/1977/425/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1977/425/schedule)
+[^c-8975f8d114fefd93a109f0b53de0d896]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1956/1698) modified (4.4.1977) by [The Social Security and Child Benefit (Reciprocal Agreements) Order 1977 (S.I. 1977/425)](https://www.legislation.gov.uk/uksi/1977/425), [arts. 2](https://www.legislation.gov.uk/uksi/1977/425/article/2), [3](https://www.legislation.gov.uk/uksi/1977/425/article/3), [4](https://www.legislation.gov.uk/uksi/1977/425/article/4), [Sch.](https://www.legislation.gov.uk/uksi/1977/425/schedule)
 
-[^key-0d1b668c323cbb97e673cd4990b9e87a]: Commencement: Art. 1 in force at 7.11.1956, see art. 1(1)
+[^c-0d1b668c323cbb97e673cd4990b9e87a]: Commencement: Art. 1 in force at 7.11.1956, see art. 1(1)
 
-[^key-3adf253909e1baa2a6e694e3b7c7c75a]: Commencement: Art. 2 in force at 7.11.1956, see art. 1(1)
+[^c-3adf253909e1baa2a6e694e3b7c7c75a]: Commencement: Art. 2 in force at 7.11.1956, see art. 1(1)
 
-[^key-ca3fade82ac05c29aecbda2d4815d2ef]: Commencement: Sch. FIRST Pt. 01 para. A in force at 7.11.1956, see art. 1(1)
+[^c-ca3fade82ac05c29aecbda2d4815d2ef]: Commencement: Sch. FIRST Pt. 01 para. A in force at 7.11.1956, see art. 1(1)
 
 [^f00001]: Footnote: “Treaty Series No. 4 (1937),” Cmd. 5347.
 
@@ -244,30 +244,30 @@ This Order gives effect in England, Wales and Scotland to certain provisions of 
 
 [^f00004]: Footnote: “Treaty Series No. 25 (1950),” Cmd. 7934.
 
-[^key-15c56432aba4c133bcc48842f62c8e11]: Commencement: Sch. FIRST Pt. 01 para. B in force at 7.11.1956, see art. 1(1)
+[^c-15c56432aba4c133bcc48842f62c8e11]: Commencement: Sch. FIRST Pt. 01 para. B in force at 7.11.1956, see art. 1(1)
 
-[^key-cbe18f76135d212d34a93174e6bfab13]: Commencement: Sch. FIRST Pt. 01 para. C in force at 7.11.1956, see art. 1(1)
+[^c-cbe18f76135d212d34a93174e6bfab13]: Commencement: Sch. FIRST Pt. 01 para. C in force at 7.11.1956, see art. 1(1)
 
-[^key-650f39e2f9e0081bf8db26f0a952b059]: Commencement: Sch. FIRST Pt. 01 para. D in force at 7.11.1956, see art. 1(1)
+[^c-650f39e2f9e0081bf8db26f0a952b059]: Commencement: Sch. FIRST Pt. 01 para. D in force at 7.11.1956, see art. 1(1)
 
-[^key-04a29c5da1e623676bbb2b41be2ff13b]: Commencement: Sch. FIRST Pt. 01 para. E in force at 7.11.1956, see art. 1(1)
+[^c-04a29c5da1e623676bbb2b41be2ff13b]: Commencement: Sch. FIRST Pt. 01 para. E in force at 7.11.1956, see art. 1(1)
 
-[^key-a04520288718532487f3dcfc0c4d7e80]: Commencement: Sch. FIRST Pt. 01 para. F in force at 7.11.1956, see art. 1(1)
+[^c-a04520288718532487f3dcfc0c4d7e80]: Commencement: Sch. FIRST Pt. 01 para. F in force at 7.11.1956, see art. 1(1)
 
-[^key-eafda36f48597b4809b000aec4faa69b]: Commencement: Sch. FIRST Pt. 02 para. 3 in force at 7.11.1956, see art. 1(1)
+[^c-eafda36f48597b4809b000aec4faa69b]: Commencement: Sch. FIRST Pt. 02 para. 3 in force at 7.11.1956, see art. 1(1)
 
-[^key-3a1ea280e2e990db6b867bd9ef9195b9]: Commencement: Sch. FIRST Pt. 03 art. 39 in force at 7.11.1956, see art. 1(1)
+[^c-3a1ea280e2e990db6b867bd9ef9195b9]: Commencement: Sch. FIRST Pt. 03 art. 39 in force at 7.11.1956, see art. 1(1)
 
-[^key-364d870b4e76aae173d914bb99c2e24a]: Commencement: Sch. FIRST Pt. 04 art. 40 in force at 7.11.1956, see art. 1(1)
+[^c-364d870b4e76aae173d914bb99c2e24a]: Commencement: Sch. FIRST Pt. 04 art. 40 in force at 7.11.1956, see art. 1(1)
 
-[^key-86f0e6f61e4d50776f285540fa3b2d12]: Commencement: Sch. FIRST Pt. 05 art. 42 in force at 7.11.1956, see art. 1(1)
+[^c-86f0e6f61e4d50776f285540fa3b2d12]: Commencement: Sch. FIRST Pt. 05 art. 42 in force at 7.11.1956, see art. 1(1)
 
-[^key-6584795b02145a691a84529256c17b9e]: Commencement: Sch. FIRST Pt. 06 art. 43 in force at 7.11.1956, see art. 1(1)
+[^c-6584795b02145a691a84529256c17b9e]: Commencement: Sch. FIRST Pt. 06 art. 43 in force at 7.11.1956, see art. 1(1)
 
 [^f00005]: Footnote: April 22, 1954.
 
-[^key-cf813aed584d989e34def5581d7159cc]: Commencement: Sch. FIRST Pt. 07 art. 44 in force at 7.11.1956, see art. 1(1)
+[^c-cf813aed584d989e34def5581d7159cc]: Commencement: Sch. FIRST Pt. 07 art. 44 in force at 7.11.1956, see art. 1(1)
 
-[^key-da65e79b98580f4d7c5ccc715829856c]: Commencement: Sch. SECOND in force at 7.11.1956, see art. 1(1)
+[^c-da65e79b98580f4d7c5ccc715829856c]: Commencement: Sch. SECOND in force at 7.11.1956, see art. 1(1)
 
-[^key-ce51c18425abe251d98a7868a9340831]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1956/1698/schedule) added (3.8.1965) by [The Family Allowances, National Insurance and Industrial Injuries (Refugees) Amendment Order 1965 (S.I. 1965/1539)](https://www.legislation.gov.uk/uksi/1965/1539), [art. 2](https://www.legislation.gov.uk/uksi/1965/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1965/1539/schedule)
+[^c-ce51c18425abe251d98a7868a9340831]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/1956/1698/schedule) added (3.8.1965) by [The Family Allowances, National Insurance and Industrial Injuries (Refugees) Amendment Order 1965 (S.I. 1965/1539)](https://www.legislation.gov.uk/uksi/1965/1539), [art. 2](https://www.legislation.gov.uk/uksi/1965/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1965/1539/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.8. Order about restriction or trial in private[^key-060e5620f0beba14d06a188a84747de3]
+## 6.8. Order about restriction or trial in private[^c-060e5620f0beba14d06a188a84747de3]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-060e5620f0beba14d06a188a84747de3]: Commencement: [Rule 6.8](https://www.legislation.gov.uk/uksi/2025/909/rule/6.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-060e5620f0beba14d06a188a84747de3]: Commencement: [Rule 6.8](https://www.legislation.gov.uk/uksi/2025/909/rule/6.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

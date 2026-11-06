@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Bereavement pension: surviving partner[^key-88e8749d424220cf1ec9c3d60988b05f]
+## 90. Bereavement pension: surviving partner[^c-88e8749d424220cf1ec9c3d60988b05f]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88e8749d424220cf1ec9c3d60988b05f]: Commencement: Reg. 90 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-88e8749d424220cf1ec9c3d60988b05f]: Commencement: Reg. 90 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

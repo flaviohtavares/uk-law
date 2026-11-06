@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation, commencement and extent[^key-9156eac5d049737243b2c8147d8ea002]
+## 1. Citation, commencement and extent[^c-9156eac5d049737243b2c8147d8ea002]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9156eac5d049737243b2c8147d8ea002]: Commencement: Reg. 1 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-9156eac5d049737243b2c8147d8ea002]: Commencement: Reg. 1 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 10 — INDEX OF WORDS AND EXPRESSIONS USED IN THESE REGULATIONS[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+## SCHEDULE 10 — INDEX OF WORDS AND EXPRESSIONS USED IN THESE REGULATIONS[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 *Extent: E+W+S+NI*
 
@@ -28,4 +28,4 @@ Regulation 31
 
 ## Annotations
 
-[^key-5c5e79b2f4dd3659471b4a847bebe4bc]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), [regs. 1](https://www.legislation.gov.uk/uksi/2011/463/regulation/1), [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)
+[^c-5c5e79b2f4dd3659471b4a847bebe4bc]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), [regs. 1](https://www.legislation.gov.uk/uksi/2011/463/regulation/1), [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)

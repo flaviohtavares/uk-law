@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Liberation by police.[^key-47acae57021a8aef7f212534fca49f7a]
+## 22. Liberation by police.[^c-47acae57021a8aef7f212534fca49f7a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47acae57021a8aef7f212534fca49f7a]: Textual amendment: Ss. 22-22ZB repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 27(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/27/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4), [5](https://www.legislation.gov.uk/ssi/2017/345/article/5))
+[^c-47acae57021a8aef7f212534fca49f7a]: Textual amendment: Ss. 22-22ZB repealed (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 27(b)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/27/b); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4), [5](https://www.legislation.gov.uk/ssi/2017/345/article/5))

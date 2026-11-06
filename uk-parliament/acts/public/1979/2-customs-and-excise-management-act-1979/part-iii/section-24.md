@@ -24,7 +24,7 @@ summary: ''
 
 (2) Uncleared goods, that is to say—
 
-- (a) imported goods, whether or not chargeable with duty, which are subject to the control of any officer of Revenue and Customs as a result of Part 1 of the Taxation (Cross-border Trade) Act 2018[^key-a550fc2145ff9a55565ed4639cbd6ec1], and in particular goods which are, or are to be, moved under section 30 below; or
+- (a) imported goods, whether or not chargeable with duty, which are subject to the control of any officer of Revenue and Customs as a result of Part 1 of the Taxation (Cross-border Trade) Act 2018[^c-a550fc2145ff9a55565ed4639cbd6ec1], and in particular goods which are, or are to be, moved under section 30 below; or
 - (b)[^c14770911][^c14770921] dutiable goods moved from warehouse without payment of duty,
 
 shall not be moved by means of a pipe-line that is not for the time being approved by the Commissioners for the purposes of this section.
@@ -45,14 +45,14 @@ shall be guilty of an offence under this section and may be detained; and any go
 
 (6) A person guilty of an offence under this section shall be liable—
 
-- (a) on summary conviction, to a penalty of the prescribed sum *(affected by repeal, see note)*[^key-bf69c26bd49039b3ce6721cc8e63c83e]£20,000, or to imprisonment for a term not exceeding 6 months, or to both; or
+- (a) on summary conviction, to a penalty of the prescribed sum *(affected by repeal, see note)*[^c-bf69c26bd49039b3ce6721cc8e63c83e]£20,000, or to imprisonment for a term not exceeding 6 months, or to both; or
 - (b) on conviction on indictment, to a penalty of any amount, or to imprisonment for a term not exceeding 2 years, or to both.
 
 (7) In the application of subsection (4) above to Northern Ireland, the reference to the [^c14770941]Pipe-lines Act 1962 shall have effect as if that Act extended to Northern Ireland.
 
 ## Annotations
 
-[^key-a550fc2145ff9a55565ed4639cbd6ec1]: Textual amendment: Words in [s. 24(2)(a)](https://www.legislation.gov.uk/ukpga/1979/2/section/24/2/a) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/15) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-a550fc2145ff9a55565ed4639cbd6ec1]: Textual amendment: Words in [s. 24(2)(a)](https://www.legislation.gov.uk/ukpga/1979/2/section/24/2/a) substituted (13.9.2018 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a), [Sch. 7 para. 15](https://www.legislation.gov.uk/ukpga/2018/22/schedule/7/paragraph/15) (with savings and transitional provisions in [S.I. 2020/1449](https://www.legislation.gov.uk/uksi/2020/1449), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1449/regulation/3) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c14770911]: Modification: S. 24(2)(*b*) modified by [S.I. 1983/947](https://www.legislation.gov.uk/uksi/1983/947), [regs. 12](https://www.legislation.gov.uk/uksi/1983/947/regulation/12), [13](https://www.legislation.gov.uk/uksi/1983/947/regulation/13) (which S.I. is revoked 1.1.1993 by [S.I. 1992/3152](https://www.legislation.gov.uk/uksi/1992/3152), [reg. 1(2)](https://www.legislation.gov.uk/uksi/1992/3152/regulation/1/2)).
 
@@ -62,6 +62,6 @@ shall be guilty of an offence under this section and may be detained; and any go
 
 [^c14770931]: Marginal citation: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58).
 
-[^key-bf69c26bd49039b3ce6721cc8e63c83e]: Textual amendment: S. 24(6)(a): sum substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-bf69c26bd49039b3ce6721cc8e63c83e]: Textual amendment: S. 24(6)(a): sum substituted for words (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/1/2) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
 [^c14770941]: Marginal citation: [1962 c. 58](https://www.legislation.gov.uk/ukpga/1962/58).

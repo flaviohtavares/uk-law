@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Application[^key-32eab927a613287217597e4355e9632d]
+## 3. Application[^c-32eab927a613287217597e4355e9632d]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32eab927a613287217597e4355e9632d]: Commencement: Art. 3 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-32eab927a613287217597e4355e9632d]: Commencement: Art. 3 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

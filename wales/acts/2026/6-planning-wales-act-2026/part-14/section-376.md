@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 376. Application for statutory review of decision or order[^key-7bb70a9ce7b69c6fd93b93eb177aa7c6]
+## 376. Application for statutory review of decision or order[^c-7bb70a9ce7b69c6fd93b93eb177aa7c6]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bb70a9ce7b69c6fd93b93eb177aa7c6]: Commencement: S. 376 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7bb70a9ce7b69c6fd93b93eb177aa7c6]: Commencement: S. 376 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

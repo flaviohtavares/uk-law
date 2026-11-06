@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Duty to maintain and publish list of buildings[^key-fc49539c9a499dee4e45543400a8dbaf][^key-6df8775cfee0c70992bc808a18139ead]
+## 76. Duty to maintain and publish list of buildings[^c-fc49539c9a499dee4e45543400a8dbaf][^c-6df8775cfee0c70992bc808a18139ead]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fc49539c9a499dee4e45543400a8dbaf]: Commencement: S. 76 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-fc49539c9a499dee4e45543400a8dbaf]: Commencement: S. 76 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-6df8775cfee0c70992bc808a18139ead]: Commencement: [S. 76](https://www.legislation.gov.uk/asc/2023/3/section/76) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-6df8775cfee0c70992bc808a18139ead]: Commencement: [S. 76](https://www.legislation.gov.uk/asc/2023/3/section/76) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

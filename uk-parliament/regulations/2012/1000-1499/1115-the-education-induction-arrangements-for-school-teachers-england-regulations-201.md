@@ -70,11 +70,11 @@ The Secretary of State for Education makes the following Regulations in exercise
 - “**appropriate body**” means the appropriate body under regulation 4;
 - “**authority**” means a local authority;
 - “**institution**” means a school or institution in which an induction period may be served under these Regulations;
-- “teaching school hub” means a school which has been designated as such by the Secretary of State[^key-b3c9804bfb91e5c38473294bfdced970]
+- “teaching school hub” means a school which has been designated as such by the Secretary of State[^c-b3c9804bfb91e5c38473294bfdced970]
 - “**the 1998 Act**” means the School Standards and Framework Act 1998 [^c21244951];
 - “**the 2003 Qualifications Regulations**” means the Education (School Teachers' Qualifications) (England) Regulations 2003 [^c21244961];
 - “**the 2008 Induction Regulations**” means the Education (Induction Arrangements for School Teachers) (England) Regulations 2008 [^c21244971];
-- “**the Welsh Induction Regulations**” means the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015[^key-6708688e56da2c3fe1b6b064a68bebba].
+- “**the Welsh Induction Regulations**” means the Education (Induction Arrangements for School Teachers) (Wales) Regulations 2015[^c-6708688e56da2c3fe1b6b064a68bebba].
 
 (2) For the purposes of these Regulations, “**head teacher**” includes the principal of an institution.
 
@@ -84,15 +84,15 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 - (a) in relation to a relevant school [^c21244991] is a body mentioned in paragraph (2) which has agreed to act as the appropriate body in relation to the school;
 - (b) in relation to an independent school, a 16 to 19 Academy F2, an alternative provision Academy F3 or a non-maintained nursery school is a body mentioned in paragraph (2) which has agreed to act as the appropriate body in relation to the school or Academy (as the case may be);
-- (c) in relation to a further education institution is a body mentioned in paragraph (2) [^key-f608b13d4607cad1ea5f21ebba23978b]...(c) which has agreed to act as the appropriate body in relation to the institution.
+- (c) in relation to a further education institution is a body mentioned in paragraph (2) [^c-f608b13d4607cad1ea5f21ebba23978b]...(c) which has agreed to act as the appropriate body in relation to the institution.
 
 (2) A body referred to in paragraph (1) is —
 
-- (a) any body of persons (corporate or unincorporate) whom the Secretary of State has determined may act as the appropriate body in relation to such institutions; or[^key-23d74193329ad04ebef40993ea3d4a13]
-- (b)[^key-8689e11a11eea1e3bd08010b658999e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) subject to paragraph (3), a teaching school hub[^key-602456da505196617267e4bb92ce15a9].
+- (a) any body of persons (corporate or unincorporate) whom the Secretary of State has determined may act as the appropriate body in relation to such institutions; or[^c-23d74193329ad04ebef40993ea3d4a13]
+- (b)[^c-8689e11a11eea1e3bd08010b658999e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) subject to paragraph (3), a teaching school hub[^c-602456da505196617267e4bb92ce15a9].
 
-(3) A teaching school hub[^key-6bfae97d52170b3b4dd8fa12b4040d08] may not act as the appropriate body in relation to an institution in respect of any teacher—
+(3) A teaching school hub[^c-6bfae97d52170b3b4dd8fa12b4040d08] may not act as the appropriate body in relation to an institution in respect of any teacher—
 
 - (a) who has been assessed by that teaching school hub as meeting the specified standards for the purposes of the award of qualified teacher status; or
 - (b) who is serving any part of their induction period at that school.
@@ -139,9 +139,9 @@ Subject to the exceptions in Schedule 1, no qualified teacher [^c21245031] is to
 
 ## 7. Length of an induction period
 
-(1) Subject to the following provisions of this regulation, the length of the induction period is a period equivalent to six school terms, divided into two parts each consisting of three school terms of the institution in which induction is begun[^key-74bcceaf433923f30f0c45cc31257469], based on a school year of three terms.
+(1) Subject to the following provisions of this regulation, the length of the induction period is a period equivalent to six school terms, divided into two parts each consisting of three school terms of the institution in which induction is begun[^c-74bcceaf433923f30f0c45cc31257469], based on a school year of three terms.
 
-(2)[^key-42e92e054abff34c721d0837329d8ea8] Where an induction period started before 1st September 2021 and is completed by 1st September 2023, it must be served for a period equivalent to no less than three school terms of the institution in which induction is begun, based on a school year of three terms.
+(2)[^c-42e92e054abff34c721d0837329d8ea8] Where an induction period started before 1st September 2021 and is completed by 1st September 2023, it must be served for a period equivalent to no less than three school terms of the institution in which induction is begun, based on a school year of three terms.
 
 (2) A period of continuous employment as a qualified teacher of at least the equivalent of one school term, based on a school year of three terms, counts towards an induction period.
 
@@ -151,19 +151,19 @@ Subject to the exceptions in Schedule 1, no qualified teacher [^c21245031] is to
 
 ## 8. Extension of an induction period before completion
 
-(1)[^key-a5ed149abeb4e7b73d42236b4914531c] Subject to paragraph (2), where a person serving an induction period is absent from work on 30 or more days in either the first or the second part of an induction period, then the relevant part is to be extended by the aggregate period of that person’s absence within that part.
+(1)[^c-a5ed149abeb4e7b73d42236b4914531c] Subject to paragraph (2), where a person serving an induction period is absent from work on 30 or more days in either the first or the second part of an induction period, then the relevant part is to be extended by the aggregate period of that person’s absence within that part.
 
-(1A)[^key-ed27123e9019580230cbc5020918c51b] For the purposes of paragraph 1, no account is to be taken of any absence before 1st September 2022[^key-bbff924fbf6c539268435b5ce6b18531] which is for a reason relating to the incidence or transmission of coronavirus.
+(1A)[^c-ed27123e9019580230cbc5020918c51b] For the purposes of paragraph 1, no account is to be taken of any absence before 1st September 2022[^c-bbff924fbf6c539268435b5ce6b18531] which is for a reason relating to the incidence or transmission of coronavirus.
 
-(2)[^key-0b185c63f93ef0398d4b117bfd8cf797] Paragraph (1) does not apply where a person is absent from work for more than 30 days for one of, or a combination of, the following reasons—
+(2)[^c-0b185c63f93ef0398d4b117bfd8cf797] Paragraph (1) does not apply where a person is absent from work for more than 30 days for one of, or a combination of, the following reasons—
 
 - (a) the maternity leave period specified in regulation 7(1) of the Maternity and Parental Leave etc Regulations 1999;
 - (b) taking parental bereavement leave within the meaning given in regulation 3 of the Parental Bereavement Leave Regulations 2020;
-- (c)[^key-3e08b60ae4b68ab9004b11f05963b448] the exercise of the right to parental leave conferred by or under section 76 of the Employment Rights Act 1996;
+- (c)[^c-3e08b60ae4b68ab9004b11f05963b448] the exercise of the right to parental leave conferred by or under section 76 of the Employment Rights Act 1996;
 - (d) the exercise of the right to paternity leave conferred by or under section 80A or 80B of the Employment Rights Act 1996;
-- (e) the exercise of the right to adoption leave conferred by or under section 75A or 75B of the Employment Rights Act 1996;[^key-d70c97605c0098ab4e202d4520f7e2b6]
-- (f)[^key-0a9a11ede58d878bbd13be3a02d00161] the exercise of the right to carer’s leave conferred by or under section 80J of the Employment Rights Act 1996 ;[^key-844403e768a4d7abcdf1ece4dc2fa07b]
-- (g)[^key-f80a6b80cafe639e1c928a74b5100005] the exercise of the right to neonatal care leave conferred by or under section 80EF of the Employment Rights Act 1996;
+- (e) the exercise of the right to adoption leave conferred by or under section 75A or 75B of the Employment Rights Act 1996;[^c-d70c97605c0098ab4e202d4520f7e2b6]
+- (f)[^c-0a9a11ede58d878bbd13be3a02d00161] the exercise of the right to carer’s leave conferred by or under section 80J of the Employment Rights Act 1996 ;[^c-844403e768a4d7abcdf1ece4dc2fa07b]
+- (g)[^c-f80a6b80cafe639e1c928a74b5100005] the exercise of the right to neonatal care leave conferred by or under section 80EF of the Employment Rights Act 1996;
 
 unless that person requests that the induction period is extended in accordance with paragraph (1).
 
@@ -171,7 +171,7 @@ unless that person requests that the induction period is extended in accordance 
 
 (4) Except as provided for in this regulation an induction period may not be extended before its completion.
 
-(5)[^key-39b8740c55da3b24dd483c076a2d4f79] In paragraph (1A) “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
+(5)[^c-39b8740c55da3b24dd483c076a2d4f79] In paragraph (1A) “coronavirus” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).
 
 ## 9. Service of more than one induction period
 
@@ -185,7 +185,7 @@ No person may serve more than one induction period.
 
 (3) The duties assigned to a person serving an induction period, that person's supervision and the conditions under which that person works are to be such as to facilitate a fair and effective assessment of that person's conduct and efficiency as a teacher.
 
-(4)[^key-32e967130c731d90e30e2027c75f87ab] A person serving an induction period in a relevant school must not—
+(4)[^c-32e967130c731d90e30e2027c75f87ab] A person serving an induction period in a relevant school must not—
 
 - (a) during the first three school terms of that induction period, teach for more than 90 per cent of the time that a teacher at the school would be expected to teach; and
 - (b) during the second three school terms of that induction period, teach for more than 95 per cent of the time that a teacher at the school would be expected to teach.
@@ -196,7 +196,7 @@ No person may serve more than one induction period.
 
 (1) A person (“P”) has completed an induction period for the purposes of this regulation where that person has served an induction period of the length specified in regulation 7 and any extension to that period provided for by these Regulations.
 
-(2) This regulation is subject to Schedule 1A[^key-6df377cf62d5f8e0907de183180df350].
+(2) This regulation is subject to Schedule 1A[^c-6df377cf62d5f8e0907de183180df350].
 
 (3) The head teacher of the institution at which P is employed at the completion of the induction period must within 10 working days beginning with the date on which the induction period was completed make a written recommendation to the appropriate body as to whether P— 
 
@@ -207,13 +207,13 @@ and at the same time send a copy of the recommendation to P.
 
 (4) P may make written representations to the appropriate body with regard to the head teacher's recommendation under paragraph (3) within 10 working days beginning with the date on which the recommendation is received.
 
-(5) The appropriate body must within 20 working days beginning with the date on which they received the head teacher's recommendation under paragraph (3), or a written request under paragraph 2 of Schedule 1A,[^key-2d851c1a683aaeca5d009ec1559f9584] decide whether P—
+(5) The appropriate body must within 20 working days beginning with the date on which they received the head teacher's recommendation under paragraph (3), or a written request under paragraph 2 of Schedule 1A,[^c-2d851c1a683aaeca5d009ec1559f9584] decide whether P—
 
 - (a) has achieved the standards mentioned in regulation 10(5) and has accordingly satisfactorily completed the induction period;
 - (b) should have the induction period extended by such period as they determine; or
 - (c) has failed satisfactorily to complete the induction period.
 
-(6) Before making a decision under paragraph (5) the appropriate body must have regard to any written representations made in accordance with paragraph (4) or Schedule 1A[^key-b5d0d377027b55e87a2227a21c6c34be].
+(6) Before making a decision under paragraph (5) the appropriate body must have regard to any written representations made in accordance with paragraph (4) or Schedule 1A[^c-b5d0d377027b55e87a2227a21c6c34be].
 
 (7) The appropriate body must, within 3 working days (or as soon as practicable in the case of the Secretary of State) beginning with the date on which the decision was made under paragraph (5), give written notice of the decision to—
 
@@ -232,17 +232,17 @@ and at the same time send a copy of the recommendation to P.
 
 ## 12. Termination of employment following failure satisfactorily to complete an induction period
 
-(1) This paragraph applies to a person employed as a teacher at a relevant school in England when the decision is made under regulation 11(5)(c) of these Regulations, or regulation 13(3)(c)[^key-5086216b59d1382d7d6ebcc702652316] of the Welsh Induction Regulations, that the person has failed satisfactorily to complete their induction period.
+(1) This paragraph applies to a person employed as a teacher at a relevant school in England when the decision is made under regulation 11(5)(c) of these Regulations, or regulation 13(3)(c)[^c-5086216b59d1382d7d6ebcc702652316] of the Welsh Induction Regulations, that the person has failed satisfactorily to complete their induction period.
 
 (2) The employer of a person to whom paragraph (1) applies must secure the termination of the person's employment as a teacher if—
 
-- (a) no appeal is made to the Secretary of State or the Education Workforce Council[^key-862df44e0b9c39c716c08ea0bff9211e] against the decision of the appropriate body; or
+- (a) no appeal is made to the Secretary of State or the Education Workforce Council[^c-862df44e0b9c39c716c08ea0bff9211e] against the decision of the appropriate body; or
 - (b) such an appeal is dismissed.
 
 (3) An employer must take the steps necessary to secure the termination of the person's employment in the circumstances mentioned in paragraph (2)(a) so that the termination takes effect within 10 working days beginning with the date on which—
 
 - (a) the employer received written notification from the person that they did not intend to appeal to the Secretary of State; or
-- (b) the time limit for appeal imposed by paragraph 2 of Schedule 3 or by paragraph 2(1) of Schedule 3[^key-996196c40656cad3431d4bdd4bea8acc] to the Welsh Induction Regulations expired, as the case may be.
+- (b) the time limit for appeal imposed by paragraph 2 of Schedule 3 or by paragraph 2(1) of Schedule 3[^c-996196c40656cad3431d4bdd4bea8acc] to the Welsh Induction Regulations expired, as the case may be.
 
 (4) The employer must take the steps necessary to secure the termination of the person's employment in the circumstances mentioned in paragraph (2)(b) so that the termination takes effect within 10 working days beginning with the date on which the employer received written notice of the outcome of the appeal hearing.
 
@@ -317,7 +317,7 @@ Regulation 5
 **2.** A person who—
 
 - (a) is serving an induction period (including an extended induction period); or
-- (b) has completed such an induction period and is being employed to work as a teacher pending a decision of the appropriate body pursuant to regulation 11(5) of these Regulations or regulation 13(2)[^key-7c8e515881018900ab5f5f877251ff2e] of the Welsh Induction Regulations.
+- (b) has completed such an induction period and is being employed to work as a teacher pending a decision of the appropriate body pursuant to regulation 11(5) of these Regulations or regulation 13(2)[^c-7c8e515881018900ab5f5f877251ff2e] of the Welsh Induction Regulations.
 
 **3.** A person who has failed satisfactorily to complete an induction period who continues to be employed pending the outcome of that person's appeal.
 
@@ -325,7 +325,7 @@ Regulation 5
 
 **5.** A person who can no longer be employed under paragraph 4 of this Schedule but who is employed for a period as a supply teacher while serving an induction period in part-time service.
 
-**6.** A person who has satisfactorily completed an induction period under regulations made from time to time under or under section 17 of the Education (Wales) Act 2014[^key-56f92188b439c71c09ead0654ad6d124] in relation to teachers in Wales.
+**6.** A person who has satisfactorily completed an induction period under regulations made from time to time under or under section 17 of the Education (Wales) Act 2014[^c-56f92188b439c71c09ead0654ad6d124] in relation to teachers in Wales.
 
 **7.** A person—
 
@@ -333,7 +333,7 @@ Regulation 5
 - (b) whose first post as a teacher (including as a supply teacher) following that person's qualification was in a school in Wales; and
 - (c) who on or before 1st April 2003 has completed not less than two school terms' service in such a post.
 
-**8.**[^key-658a9b8ef049cbebcb604fe5ca3230d0] A person who—
+**8.**[^c-658a9b8ef049cbebcb604fe5ca3230d0] A person who—
 
 - (a) has, or is eligible for, full registration as a teacher of primary or secondary education with the General Teaching Council for Scotland; and
 - (b) unless the person had, or was eligible for, such registration immediately before 1st February 2023, has successfully completed a probationary period in Scotland.
@@ -343,14 +343,14 @@ Regulation 5
 - (a) has successfully completed the induction stage of teacher education in Northern Ireland; or
 - (b) was employed as a teacher in Northern Ireland at any time prior to the introduction of the induction stage of teacher training in Northern Ireland.
 
-**10.**[^key-9d96d9ec56dc0c01706786ec7ac1f61f] (1)[^key-1a6db13882eb3e661a406dc3c5fc7548] A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 8 or paragraph 8A of Schedule 2 to, the 2003 Qualifications Regulations —[^key-a607df75418afd053be64f4fdc7db970]
+**10.**[^c-9d96d9ec56dc0c01706786ec7ac1f61f] (1)[^c-1a6db13882eb3e661a406dc3c5fc7548] A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 8 or paragraph 8A of Schedule 2 to, the 2003 Qualifications Regulations —[^c-a607df75418afd053be64f4fdc7db970]
 
 - (a) before 1st February 2023 and remains so qualified; or
 - (b) pursuant to—
   - (i) a decision taken or determination made under the 2007 Regulations in accordance with paragraph 50 or paragraph 51 of Schedule 1 to the 2019 Regulations in respect of a transitional application; or
-  - (ii) a decision taken or determination made under the 2015 Regulations in accordance with paragraph 44 of Schedule 1 to the 2019 Regulations or paragraphs 1, 2(2) and (3) of Schedule 1 to the Professional Qualifications Act 2022 (Commencement No. 3) Regulations 2023[^key-a3cad99aa47b85b7317427bd59c8abdf] in respect of a transitional application
+  - (ii) a decision taken or determination made under the 2015 Regulations in accordance with paragraph 44 of Schedule 1 to the 2019 Regulations or paragraphs 1, 2(2) and (3) of Schedule 1 to the Professional Qualifications Act 2022 (Commencement No. 3) Regulations 2023[^c-a3cad99aa47b85b7317427bd59c8abdf] in respect of a transitional application
 
-(2)[^key-195132be71294766c291a7498c74bf8d] In this paragraph “**transitional application**” means an application made, but not finally determined, before the transition end date—
+(2)[^c-195132be71294766c291a7498c74bf8d] In this paragraph “**transitional application**” means an application made, but not finally determined, before the transition end date—
 
 - (a) under, or relying on an entitlement under, Chapters 1 and 2 of Part 3 of the 2007 Regulations;
 - (b) for recognition of a relevant qualification (within the meaning of paragraph 51 of Schedule 1 to the 2019 Regulations); or
@@ -405,7 +405,7 @@ Regulation 5
 
 **19.** A person who is a qualified teacher who became so qualified by virtue of regulation 5 of, and paragraph 13 of Schedule 2 to, the 2003 Qualifications Regulations.
 
-**20.**[^key-db03dee5c575d966cfc624af5b178c71] A person who has successfully completed an induction programme for teachers in a school which is administered or maintained by, or on behalf of, the Secretary of State for Defence and outside the United Kingdom.
+**20.**[^c-db03dee5c575d966cfc624af5b178c71] A person who has successfully completed an induction programme for teachers in a school which is administered or maintained by, or on behalf of, the Secretary of State for Defence and outside the United Kingdom.
 
 **21.** A person who on or before 1st September 2003 has successfully completed a course of initial teacher training in an educational institution in Wales.
 
@@ -424,14 +424,14 @@ and in relation to whom the appropriate body are satisfied, on the basis of the 
 
 (3) For the purposes of this paragraph, an appraisal report means a report of an appraisal or its equivalent carried out under the School Teacher Appraisal (Wales) Regulations 2002 [^c21245111], the Education (School Teacher Performance Management) (England) Regulations 2006 [^c21245121] or the Education (School Teachers' Appraisal) (England) Regulations 2012 [^c21245131].
 
-**25.**[^key-75ad4c9d2af7343ada2fd4f0f2e45fd5] (1) A person who—
+**25.**[^c-75ad4c9d2af7343ada2fd4f0f2e45fd5] (1) A person who—
 
 - (a) is a qualified teacher and became so qualified on or after 1st February 2023 by virtue of—
   - (i) regulation 5 of, and paragraph 8 or 8A of Schedule 2 to, the 2003 Qualifications Regulations, otherwise than following a transitional application (within the meaning given in paragraph 10 of this Schedule); or
-  - (ii) regulation 5 of, and paragraph 13E or 13F[^key-dc363af794bca3e7929a873d2d9a8754] of Schedule 2 to, the 2003 Qualifications Regulations, and
+  - (ii) regulation 5 of, and paragraph 13E or 13F[^c-dc363af794bca3e7929a873d2d9a8754] of Schedule 2 to, the 2003 Qualifications Regulations, and
 - (b) has not less than two years’ full-time teaching experience, or its equivalent, in the United Kingdom or elsewhere.
 
-## SCHEDULE 1A — Special provisions applying to qualified teachers for whom the requirement to pass a numeracy skills test has been abolished[^key-65bfb7e178a81da3de48d1c3c06b8183]
+## SCHEDULE 1A — Special provisions applying to qualified teachers for whom the requirement to pass a numeracy skills test has been abolished[^c-65bfb7e178a81da3de48d1c3c06b8183]
 
 Regulation 11
 
@@ -455,7 +455,7 @@ This Schedule applies to a person (in this Schedule, “P”) who—
 
 ### 3. Decision of appropriate body
 
-When making a decision pursuant to paragraph 2 [^key-c1df6a309416cd3770447dc9532928d9]..., the appropriate body must disregard the fact that P had not passed a numeracy skills test before 25th June 2020.
+When making a decision pursuant to paragraph 2 [^c-c1df6a309416cd3770447dc9532928d9]..., the appropriate body must disregard the fact that P had not passed a numeracy skills test before 25th June 2020.
 
 ### 4. Interpretation
 
@@ -464,23 +464,23 @@ In this Schedule—
 - “appropriate body” has the meaning given in regulation 11(9);
 - “numeracy skills test” means any numeracy test determined by the Secretary of State, before 25th June 2020, as an induction standard under regulation 10(5) in relation to a person who qualified as a teacher between 1st May 2000 and 30th April 2001.
 
-## SCHEDULE 2 — Special provisions applying to a qualified teacher who has not passed the numeracy skills test on completion of the induction period[^key-8d09f0a836d58c152512a72721bac6f0]
+## SCHEDULE 2 — Special provisions applying to a qualified teacher who has not passed the numeracy skills test on completion of the induction period[^c-8d09f0a836d58c152512a72721bac6f0]
 
 **No longer in force.**
 
 Regulation 11
 
-**1.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8d09f0a836d58c152512a72721bac6f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Procedure for appeal against a decision of the appropriate body
 
@@ -681,7 +681,7 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c21244941]: Marginal citation: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). Sections 135A, 135B and 135C were inserted by section 9 of the [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21) (“**the 2011 Act**”). Section 141C(1)(b) was inserted by section 8. See section 212(1) of the Education Act 2002 for the definitions of “prescribed” and “regulations”.
 
-[^key-b3c9804bfb91e5c38473294bfdced970]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/1115/regulation/3) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(2)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/2/a)
+[^c-b3c9804bfb91e5c38473294bfdced970]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/1115/regulation/3) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(2)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/2/a)
 
 [^c21244951]: Marginal citation: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).
 
@@ -689,19 +689,19 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c21244971]: Marginal citation: [S.I. 2008/657](https://www.legislation.gov.uk/uksi/2008/657), as amended by [S.I. 2010/1172](https://www.legislation.gov.uk/uksi/2010/1172) and [S.I. 2012/513](https://www.legislation.gov.uk/uksi/2012/513).
 
-[^key-6708688e56da2c3fe1b6b064a68bebba]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/1115/regulation/3) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/2/b)
+[^c-6708688e56da2c3fe1b6b064a68bebba]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2012/1115/regulation/3) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(2)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/2/b)
 
 [^c21244991]: Marginal citation: See section 135A(4) of the Education Act 2002 for the definition of a relevant school.
 
-[^key-f608b13d4607cad1ea5f21ebba23978b]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/1/c) omitted (1.9.2023) by virtue of [The Education (Induction Arrangements for School Teachers) (England) (Amendment) Regulations 2023 (S.I. 2023/448)](https://www.legislation.gov.uk/uksi/2023/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/448/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/448/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/448/regulation/3))
+[^c-f608b13d4607cad1ea5f21ebba23978b]: Textual amendment: Words in [reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/1/c) omitted (1.9.2023) by virtue of [The Education (Induction Arrangements for School Teachers) (England) (Amendment) Regulations 2023 (S.I. 2023/448)](https://www.legislation.gov.uk/uksi/2023/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/448/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/448/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/448/regulation/3))
 
-[^key-23d74193329ad04ebef40993ea3d4a13]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/2/a) inserted (1.9.2023) by [The Education (Induction Arrangements for School Teachers) (England) (Amendment) Regulations 2023 (S.I. 2023/448)](https://www.legislation.gov.uk/uksi/2023/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/448/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/448/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/448/regulation/3))
+[^c-23d74193329ad04ebef40993ea3d4a13]: Textual amendment: Word in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/2/a) inserted (1.9.2023) by [The Education (Induction Arrangements for School Teachers) (England) (Amendment) Regulations 2023 (S.I. 2023/448)](https://www.legislation.gov.uk/uksi/2023/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/448/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/448/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/448/regulation/3))
 
-[^key-8689e11a11eea1e3bd08010b658999e8]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/2/b) omitted (1.9.2023) by virtue of [The Education (Induction Arrangements for School Teachers) (England) (Amendment) Regulations 2023 (S.I. 2023/448)](https://www.legislation.gov.uk/uksi/2023/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/448/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/448/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/448/regulation/3))
+[^c-8689e11a11eea1e3bd08010b658999e8]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/2/b) omitted (1.9.2023) by virtue of [The Education (Induction Arrangements for School Teachers) (England) (Amendment) Regulations 2023 (S.I. 2023/448)](https://www.legislation.gov.uk/uksi/2023/448), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/448/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2023/448/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/448/regulation/3))
 
-[^key-602456da505196617267e4bb92ce15a9]: Textual amendment: Word in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/2/c) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/3)
+[^c-602456da505196617267e4bb92ce15a9]: Textual amendment: Word in [reg. 4(2)(c)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/2/c) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/3)
 
-[^key-6bfae97d52170b3b4dd8fa12b4040d08]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/3) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/3)
+[^c-6bfae97d52170b3b4dd8fa12b4040d08]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/4/3) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(3)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/3)
 
 [^c21245021]: Marginal citation: The Teachers' Standards can be found at https://www.gov.uk/government/publications/teachers-standards.
 
@@ -713,63 +713,63 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c21245061]: Marginal citation: By paragraph 5 of Schedule 1 to [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662), the employment-based teacher training programme established under paragraph 19 of Schedule 2 to [S.I. 1999/2166](https://www.legislation.gov.uk/uksi/1999/2166) as amended has effect as if established under paragraph 10 of Schedule 2 to [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662).
 
-[^key-74bcceaf433923f30f0c45cc31257469]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/7/1) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/4/a)
+[^c-74bcceaf433923f30f0c45cc31257469]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/7/1) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(4)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/4/a)
 
-[^key-42e92e054abff34c721d0837329d8ea8]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/7/2) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/4/b)
+[^c-42e92e054abff34c721d0837329d8ea8]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/7/2) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(4)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/4/b)
 
-[^key-a5ed149abeb4e7b73d42236b4914531c]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/1) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(5)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/5/a)
+[^c-a5ed149abeb4e7b73d42236b4914531c]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/1) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(5)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/5/a)
 
-[^key-ed27123e9019580230cbc5020918c51b]: Textual amendment: Reg. 8(1A) inserted (21.5.2020) by [The Education (School Teachers Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/464/regulation/3/2/a)
+[^c-ed27123e9019580230cbc5020918c51b]: Textual amendment: Reg. 8(1A) inserted (21.5.2020) by [The Education (School Teachers Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/464/regulation/3/2/a)
 
-[^key-bbff924fbf6c539268435b5ce6b18531]: Textual amendment: Words in [reg. 8(1A)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/1A) substituted (18.4.2022) by [The Education (Induction Arrangements for School Teachers) (England) (Coronavirus) (Amendment) Regulations 2022 (S.I. 2022/369)](https://www.legislation.gov.uk/uksi/2022/369), [regs. 1](https://www.legislation.gov.uk/uksi/2022/369/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/369/regulation/2/2)
+[^c-bbff924fbf6c539268435b5ce6b18531]: Textual amendment: Words in [reg. 8(1A)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/1A) substituted (18.4.2022) by [The Education (Induction Arrangements for School Teachers) (England) (Coronavirus) (Amendment) Regulations 2022 (S.I. 2022/369)](https://www.legislation.gov.uk/uksi/2022/369), [regs. 1](https://www.legislation.gov.uk/uksi/2022/369/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2022/369/regulation/2/2)
 
-[^key-0b185c63f93ef0398d4b117bfd8cf797]: Textual amendment: Reg. 8(2) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/27/2)
+[^c-0b185c63f93ef0398d4b117bfd8cf797]: Textual amendment: Reg. 8(2) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [27(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/27/2)
 
-[^key-3e08b60ae4b68ab9004b11f05963b448]: Textual amendment: [Reg. 8(2)(c)-(e)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/c) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(5)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/5/b)
+[^c-3e08b60ae4b68ab9004b11f05963b448]: Textual amendment: [Reg. 8(2)(c)-(e)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/c) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(5)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/5/b)
 
-[^key-d70c97605c0098ab4e202d4520f7e2b6]: Textual amendment: [Reg. 8(2)(e)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/e): semicolon substituted for full stop (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/5/2)
+[^c-d70c97605c0098ab4e202d4520f7e2b6]: Textual amendment: [Reg. 8(2)(e)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/e): semicolon substituted for full stop (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/5/2)
 
-[^key-0a9a11ede58d878bbd13be3a02d00161]: Textual amendment: [Reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/f) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/5/2)
+[^c-0a9a11ede58d878bbd13be3a02d00161]: Textual amendment: [Reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/f) inserted (6.4.2024) by [The Carer's Leave (Consequential Amendments to Subordinate Legislation) Regulations 2024 (S.I. 2024/266)](https://www.legislation.gov.uk/uksi/2024/266), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2024/266/regulation/5/2)
 
-[^key-844403e768a4d7abcdf1ece4dc2fa07b]: Textual amendment: [Reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/f): semicolon substituted for full stop (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/17/2/a)
+[^c-844403e768a4d7abcdf1ece4dc2fa07b]: Textual amendment: [Reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/f): semicolon substituted for full stop (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [17(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/17/2/a)
 
-[^key-f80a6b80cafe639e1c928a74b5100005]: Textual amendment: [Reg. 8(2)(g)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/g) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/17/2/b)
+[^c-f80a6b80cafe639e1c928a74b5100005]: Textual amendment: [Reg. 8(2)(g)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/8/2/g) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [17(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/17/2/b)
 
-[^key-39b8740c55da3b24dd483c076a2d4f79]: Textual amendment: Reg. 8(5) inserted (21.5.2020) by [The Education (School Teachers Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/464/regulation/3/2/b)
+[^c-39b8740c55da3b24dd483c076a2d4f79]: Textual amendment: Reg. 8(5) inserted (21.5.2020) by [The Education (School Teachers Qualifications and Induction Arrangements) (England) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/464)](https://www.legislation.gov.uk/uksi/2020/464), [regs. 1](https://www.legislation.gov.uk/uksi/2020/464/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/464/regulation/3/2/b)
 
-[^key-32e967130c731d90e30e2027c75f87ab]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/10/4) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(6)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/6)
+[^c-32e967130c731d90e30e2027c75f87ab]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/10/4) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(6)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/6)
 
-[^key-6df377cf62d5f8e0907de183180df350]: Textual amendment: Words in reg. 11(2) substituted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/a/i)
+[^c-6df377cf62d5f8e0907de183180df350]: Textual amendment: Words in reg. 11(2) substituted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(a)(i)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/a/i)
 
-[^key-2d851c1a683aaeca5d009ec1559f9584]: Textual amendment: Words in reg. 11(5) inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/a/ii)
+[^c-2d851c1a683aaeca5d009ec1559f9584]: Textual amendment: Words in reg. 11(5) inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/a/ii)
 
-[^key-b5d0d377027b55e87a2227a21c6c34be]: Textual amendment: Words in reg. 11(6) inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/a/iii)
+[^c-b5d0d377027b55e87a2227a21c6c34be]: Textual amendment: Words in reg. 11(6) inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/a/iii)
 
-[^key-5086216b59d1382d7d6ebcc702652316]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/12/1) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(7)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/7/a)
+[^c-5086216b59d1382d7d6ebcc702652316]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/12/1) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(7)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/7/a)
 
-[^key-862df44e0b9c39c716c08ea0bff9211e]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/12/2/a) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(7)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/7/b)
+[^c-862df44e0b9c39c716c08ea0bff9211e]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/12/2/a) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(7)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/7/b)
 
-[^key-996196c40656cad3431d4bdd4bea8acc]: Textual amendment: Words in [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/12/3/b) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(7)(c)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/7/c)
+[^c-996196c40656cad3431d4bdd4bea8acc]: Textual amendment: Words in [reg. 12(3)(b)](https://www.legislation.gov.uk/uksi/2012/1115/regulation/12/3/b) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(7)(c)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/7/c)
 
 [^c21245081]: Marginal citation: Section 141C(1)(b) of the Education Act 2002 provides for the Secretary of State to maintain a list including the names of persons who have begun, but have failed satisfactorily to complete, an induction period in prescribed circumstances. Section 141C(1)(b) was inserted by section 8 of the 2011 Act.
 
-[^key-7c8e515881018900ab5f5f877251ff2e]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/2/b) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(8)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/8/a)
+[^c-7c8e515881018900ab5f5f877251ff2e]: Textual amendment: Words in [Sch. 1 para. 2(b)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/2/b) substituted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(8)(a)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/8/a)
 
-[^key-56f92188b439c71c09ead0654ad6d124]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/6) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(8)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/8/b)
+[^c-56f92188b439c71c09ead0654ad6d124]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/6) inserted (1.9.2021) by [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(8)(b)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/8/b)
 
-[^key-658a9b8ef049cbebcb604fe5ca3230d0]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/8) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/2)
+[^c-658a9b8ef049cbebcb604fe5ca3230d0]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/8) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/2)
 
-[^key-9d96d9ec56dc0c01706786ec7ac1f61f]: Textual amendment: Sch. 1 para. 10 substituted (31.12.2020) by [The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/312)](https://www.legislation.gov.uk/uksi/2019/312), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/312/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/312/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d96d9ec56dc0c01706786ec7ac1f61f]: Textual amendment: Sch. 1 para. 10 substituted (31.12.2020) by [The Recognition of Professional Qualifications (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/312)](https://www.legislation.gov.uk/uksi/2019/312), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/312/regulation/1/3), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2019/312/schedule/2/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1a6db13882eb3e661a406dc3c5fc7548]: Textual amendment: Sch. 1 para. 10 renumbered as Sch. 1 para. 10(1) (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/3/a)
+[^c-1a6db13882eb3e661a406dc3c5fc7548]: Textual amendment: Sch. 1 para. 10 renumbered as Sch. 1 para. 10(1) (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/3/a)
 
-[^key-a607df75418afd053be64f4fdc7db970]: Textual amendment: [Sch. 1 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/1/b) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/3/b)
+[^c-a607df75418afd053be64f4fdc7db970]: Textual amendment: [Sch. 1 para. 10(1)(a)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/1/b) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/3/b)
 
-[^key-a3cad99aa47b85b7317427bd59c8abdf]: Textual amendment: Words in [Sch. 1 para. 10(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/1/b/ii) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/2/2)
+[^c-a3cad99aa47b85b7317427bd59c8abdf]: Textual amendment: Words in [Sch. 1 para. 10(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/1/b/ii) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 4 para. 2(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/4/paragraph/2/2)
 
-[^key-195132be71294766c291a7498c74bf8d]: Textual amendment: [Sch. 1 para. 10(2)-(4)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/2) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/3/c)
+[^c-195132be71294766c291a7498c74bf8d]: Textual amendment: [Sch. 1 para. 10(2)-(4)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/10/2) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/3/c)
 
-[^key-db03dee5c575d966cfc624af5b178c71]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/20) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/4)
+[^c-db03dee5c575d966cfc624af5b178c71]: Textual amendment: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/20) substituted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/4)
 
 [^c21245111]: Marginal citation: [S.I. 2002/1394](https://www.legislation.gov.uk/uksi/2002/1394), as amended by [S.I. 2007/944](https://www.legislation.gov.uk/uksi/2007/944) and further amended by [S.I. 2009/2159](https://www.legislation.gov.uk/uksi/2009/2159), [2009/2864](https://www.legislation.gov.uk/uksi/2009/2864) and [2010/1142](https://www.legislation.gov.uk/uksi/2010/1142).
 
@@ -777,12 +777,12 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^c21245131]: Marginal citation: [S.I. 2012/115](https://www.legislation.gov.uk/uksi/2012/115).
 
-[^key-75ad4c9d2af7343ada2fd4f0f2e45fd5]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/25) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/5)
+[^c-75ad4c9d2af7343ada2fd4f0f2e45fd5]: Textual amendment: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/25) inserted (1.2.2023) by [The Education (School Teachers’ Qualifications and Induction Arrangements) (Amendment) (England) Regulations 2022 (S.I. 2022/1256)](https://www.legislation.gov.uk/uksi/2022/1256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2022/1256/regulation/4/5)
 
-[^key-dc363af794bca3e7929a873d2d9a8754]: Textual amendment: Words in [Sch. 1 para. 25(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/25/1/a/ii) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/5/2)
+[^c-dc363af794bca3e7929a873d2d9a8754]: Textual amendment: Words in [Sch. 1 para. 25(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1/paragraph/25/1/a/ii) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/5/2)
 
-[^key-65bfb7e178a81da3de48d1c3c06b8183]: Textual amendment: Sch. 1A inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/b)
+[^c-65bfb7e178a81da3de48d1c3c06b8183]: Textual amendment: Sch. 1A inserted (25.6.2020) by [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/b)
 
-[^key-c1df6a309416cd3770447dc9532928d9]: Textual amendment: Words in [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1A/paragraph/3) omitted (1.9.2021) by virtue of [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(9)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/9)
+[^c-c1df6a309416cd3770447dc9532928d9]: Textual amendment: Words in [Sch. 1A para. 3](https://www.legislation.gov.uk/uksi/2012/1115/schedule/1A/paragraph/3) omitted (1.9.2021) by virtue of [The Education (Coronavirus) (School Teachers’ Qualifications, Induction, Inspection Arrangements, Etc) (Amendment) Regulations 2021 (S.I. 2021/385)](https://www.legislation.gov.uk/uksi/2021/385), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2021/385/regulation/1/4), [5(9)](https://www.legislation.gov.uk/uksi/2021/385/regulation/5/9)
 
-[^key-8d09f0a836d58c152512a72721bac6f0]: Textual amendment: Sch. 2 omitted (25.6.2020) by virtue of [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/c)
+[^c-8d09f0a836d58c152512a72721bac6f0]: Textual amendment: Sch. 2 omitted (25.6.2020) by virtue of [The Teachers Skills Test (England) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/476)](https://www.legislation.gov.uk/uksi/2020/476), [regs. 1](https://www.legislation.gov.uk/uksi/2020/476/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2020/476/regulation/5/c)

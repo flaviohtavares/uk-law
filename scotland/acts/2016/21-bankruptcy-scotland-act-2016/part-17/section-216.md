@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 216. Arbitration and compromise[^key-916a47d22446f54e4160dcc537e577ce]
+## 216. Arbitration and compromise[^c-916a47d22446f54e4160dcc537e577ce]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-916a47d22446f54e4160dcc537e577ce]: Commencement: S. 216 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-916a47d22446f54e4160dcc537e577ce]: Commencement: S. 216 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

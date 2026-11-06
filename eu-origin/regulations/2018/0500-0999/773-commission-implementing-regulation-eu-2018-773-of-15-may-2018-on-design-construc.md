@@ -35,121 +35,121 @@ on design, construction and performance requirements and testing standards for m
 
 (Text with EEA relevance) (repealed) (revoked)
 
-[^key-57eab727bca02e2386b3ed677b6bf136]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57eab727bca02e2386b3ed677b6bf136]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-57eab727bca02e2386b3ed677b6bf136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-57eab727bca02e2386b3ed677b6bf136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-57eab727bca02e2386b3ed677b6bf136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-57eab727bca02e2386b3ed677b6bf136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-57eab727bca02e2386b3ed677b6bf136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-57eab727bca02e2386b3ed677b6bf136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-57eab727bca02e2386b3ed677b6bf136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-57eab727bca02e2386b3ed677b6bf136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57eab727bca02e2386b3ed677b6bf136]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-57eab727bca02e2386b3ed677b6bf136]
+## ANNEX[^c-57eab727bca02e2386b3ed677b6bf136]
 
-[^key-57eab727bca02e2386b3ed677b6bf136] List of acronyms used
+[^c-57eab727bca02e2386b3ed677b6bf136] List of acronyms used
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 1.
+[^c-57eab727bca02e2386b3ed677b6bf136] 1.
 
 **Life-saving appliances**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 2.
+[^c-57eab727bca02e2386b3ed677b6bf136] 2.
 
 **Marine pollution prevention**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 3.
+[^c-57eab727bca02e2386b3ed677b6bf136] 3.
 
 **Fire protection equipment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 4.
+[^c-57eab727bca02e2386b3ed677b6bf136] 4.
 
 **Navigation equipment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 5.
+[^c-57eab727bca02e2386b3ed677b6bf136] 5.
 
 **Radio-communication equipment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 6.
+[^c-57eab727bca02e2386b3ed677b6bf136] 6.
 
 **Equipment required under COLREG 72**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 7.
+[^c-57eab727bca02e2386b3ed677b6bf136] 7.
 
 **Other safety equipment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 8.
+[^c-57eab727bca02e2386b3ed677b6bf136] 8.
 
 **Equipment under SOLAS Chapter II-1**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 9.
+[^c-57eab727bca02e2386b3ed677b6bf136] 9.
 
 **Equipment for which the set of standards for MED certification is not complete**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 1.
+[^c-57eab727bca02e2386b3ed677b6bf136] 1.
 
 **Life-saving appliances**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 2.
+[^c-57eab727bca02e2386b3ed677b6bf136] 2.
 
 **Marine pollution prevention**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 3.
+[^c-57eab727bca02e2386b3ed677b6bf136] 3.
 
 **Fire protection equipment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 4.
+[^c-57eab727bca02e2386b3ed677b6bf136] 4.
 
 **Navigation equipment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 5.
+[^c-57eab727bca02e2386b3ed677b6bf136] 5.
 
 **Radiocommunication equipment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 6.
+[^c-57eab727bca02e2386b3ed677b6bf136] 6.
 
 **Equipment required under COLREG 72**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 7.
+[^c-57eab727bca02e2386b3ed677b6bf136] 7.
 
 **Other safety equipment**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57eab727bca02e2386b3ed677b6bf136] 8.
+[^c-57eab727bca02e2386b3ed677b6bf136] 8.
 
 **SOLAS Chapter II-1 equipment**
 
@@ -157,4 +157,4 @@ on design, construction and performance requirements and testing standards for m
 
 ## Annotations
 
-[^key-57eab727bca02e2386b3ed677b6bf136]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Marine Equipment) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/470)](https://www.legislation.gov.uk/uksi/2019/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/470/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/470/regulation/4) (with [regs. 5](https://www.legislation.gov.uk/uksi/2019/470/regulation/5), [6](https://www.legislation.gov.uk/uksi/2019/470/regulation/6)) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2020/1000/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57eab727bca02e2386b3ed677b6bf136]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Marine Equipment) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/470)](https://www.legislation.gov.uk/uksi/2019/470), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/470/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2019/470/regulation/4) (with [regs. 5](https://www.legislation.gov.uk/uksi/2019/470/regulation/5), [6](https://www.legislation.gov.uk/uksi/2019/470/regulation/6)) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2020/1000/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

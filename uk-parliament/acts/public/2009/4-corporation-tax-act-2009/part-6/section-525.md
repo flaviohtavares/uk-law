@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 525. Meaning of “interest-like investment”[^key-a303ecfae7c5a36acdd0134340b92887]
+## 525. Meaning of “interest-like investment”[^c-a303ecfae7c5a36acdd0134340b92887]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a303ecfae7c5a36acdd0134340b92887]: Textual amendment: Pt. 6 Ch. 7 omitted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 8(c)(i)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/8/c/i), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)
+[^c-a303ecfae7c5a36acdd0134340b92887]: Textual amendment: Pt. 6 Ch. 7 omitted (retrospective and with effect in accordance with Sch. 24 paras. 12, 13-16 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 24 paras. 8(c)(i)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/8/c/i), [12](https://www.legislation.gov.uk/ukpga/2009/10/schedule/24/paragraph/12)

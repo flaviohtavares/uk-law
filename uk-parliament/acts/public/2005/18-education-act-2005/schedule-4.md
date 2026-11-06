@@ -27,7 +27,7 @@ Section 28
 **1.** In this Schedule—
 
 - “**appropriate authority**” means—
-  - (a) in relation to a community, foundation or voluntary school, a community [^key-b658dbaa7bc6b461ec0d25203a0a0a86]... special school or a maintained nursery school, the school's governing body or, if the school does not have a delegated budget, the local authority[^key-94ed0295e29907765ea29be5dd3e5cb4], and
+  - (a) in relation to a community, foundation or voluntary school, a community [^c-b658dbaa7bc6b461ec0d25203a0a0a86]... special school or a maintained nursery school, the school's governing body or, if the school does not have a delegated budget, the local authority[^c-94ed0295e29907765ea29be5dd3e5cb4], and
   - (b) in relation to a school falling within section 28(2)(d), the proprietor of the school;
 - “**inspection**” means an inspection under section 28.
 
@@ -174,6 +174,6 @@ the inspector conducting the inspection becomes (for any reason) unable to conti
 
 ## Annotations
 
-[^key-b658dbaa7bc6b461ec0d25203a0a0a86]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/4/paragraph/1) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(8)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/8); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-b658dbaa7bc6b461ec0d25203a0a0a86]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2005/18/schedule/4/paragraph/1) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(8)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/8); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

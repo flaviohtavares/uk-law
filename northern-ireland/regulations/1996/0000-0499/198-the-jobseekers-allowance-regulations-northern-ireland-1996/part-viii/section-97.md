@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 97. Calculation of weekly amount of income[^key-a0013fac382917be92ee5259f9455ae1]
+## 97. Calculation of weekly amount of income[^c-a0013fac382917be92ee5259f9455ae1]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0013fac382917be92ee5259f9455ae1]: Commencement: Reg. 97 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-a0013fac382917be92ee5259f9455ae1]: Commencement: Reg. 97 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

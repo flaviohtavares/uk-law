@@ -67,7 +67,7 @@ These Regulations may be cited as the Pension Protection Fund (Tax) Regulations 
 - “**FA 2004**” means the Finance Act 2004 [^c1543367];
 - “**ICTA**” means the Income and Corporation Taxes Act 1988 [^c1543368];
 - “**ITEPA 2003**” means the Income Tax (Earnings and Pensions) Act 2003 [^c1543369];
-- “[^key-3f6e1329db290c39c1266b565a9992a0]P(No.2)A (NI) 2008 ” means the Pensions ( No. 2) Act (Northern Ireland) 2008;
+- “[^c-3f6e1329db290c39c1266b565a9992a0]P(No.2)A (NI) 2008 ” means the Pensions ( No. 2) Act (Northern Ireland) 2008;
 - “PA 2008” means the Pensions Act 2008;
 - “**the Pensions Act**” (without more) means the Pensions Act 2004 [^c1543370];
 - “**the Pensions Order**” means the Pensions (Northern Ireland) Order 2005 [^c1543371];
@@ -84,15 +84,15 @@ These Regulations may be cited as the Pension Protection Fund (Tax) Regulations 
   - (b) in Northern Ireland means a fraud compensation payment within the meaning of Part 3 of the Pensions Order (see Article 165(1) of that Order);
 - “**Part 4**” means Part 4 of FA 2004 (pension schemes);
 - “**the pension compensation provisions**”—
-  - (a) in England, Wales and Scotland is to be construed in accordance with section 108 of[^key-55f93dd023c9bfc5214e259c57b3c327] PA 2008 (interpretation), and
+  - (a) in England, Wales and Scotland is to be construed in accordance with section 108 of[^c-55f93dd023c9bfc5214e259c57b3c327] PA 2008 (interpretation), and
   - (b) in Northern Ireland is to be construed in accordance with section 87 of P(No.2)A(NI ) 2008 (interpretation);
 - “**the Pension Protection Fund**” has the meaning given by regulation 3(1);
 - “**the Pensions Act Funds**” has the meaning given by regulation 3(1);
 - “**the Pensions Act levies**” means the levies specified in paragraph (2) or (3) of regulation 3, as the case may require;
 - “**periodic compensation**”—
-  - (a) in England, Wales and Scotland is to be construed in accordance with Schedule 7 to the Pensions Act (pension compensation provisions) or, as the case may be, Schedule 5 to[^key-4744741ad22ecb9cb24aa40f8c0fddc2] PA 2008 (pension compensation payable on discharge of pension compensation credit), and
+  - (a) in England, Wales and Scotland is to be construed in accordance with Schedule 7 to the Pensions Act (pension compensation provisions) or, as the case may be, Schedule 5 to[^c-4744741ad22ecb9cb24aa40f8c0fddc2] PA 2008 (pension compensation payable on discharge of pension compensation credit), and
   - (b) in Northern Ireland is to be construed in accordance with Schedule 6 to the Pensions Order (pension compensation provisions)or, as the case may be, Schedule 4 to P(No.2)A(NI) 2008 (pension compensation payable on discharge of pension compensation credit);
-- “[^key-cae033e4a31abfab27dcc466654d09fe] PPF money purchase lump sum”—
+- “[^c-cae033e4a31abfab27dcc466654d09fe] PPF money purchase lump sum”—
   - (a) in England, Wales and Scotland has the meaning given by regulation 1(2) of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations 2006 (citation, commencement and interpretation), and
   - (b) in Northern Ireland has the meaning given by regulation 1(2) of the Pension Protection Fund (General and Miscellaneous Amendments) Regulations (Northern Ireland) 2006 (citation, commencement and interpretation).
 - “**registered pension scheme**” has the meaning given by section 832(1) of ICTA [^c1543375];
@@ -133,8 +133,8 @@ These Regulations may be cited as the Pension Protection Fund (Tax) Regulations 
 
 Section 151 of FA 2004 (meaning of “**member**”) applies as if, in Part 4, “**member**” in relation to the Pension Protection Fund, meant—
 
-- (a) an individual in receipt of compensation from the Pension Protection Fund, [^key-9a8e562eae454b6aa7d4ae9ec61344de]...
-- (b) an individual who expects to receive such compensation following the assumption of responsibility, by the Board of the Pension Protection Fund, for a scheme of which that individual was a member, or[^key-2b7dc961f0fe6e99cfbde5ff09a4436d]
+- (a) an individual in receipt of compensation from the Pension Protection Fund, [^c-9a8e562eae454b6aa7d4ae9ec61344de]...
+- (b) an individual who expects to receive such compensation following the assumption of responsibility, by the Board of the Pension Protection Fund, for a scheme of which that individual was a member, or[^c-2b7dc961f0fe6e99cfbde5ff09a4436d]
 - (c) an individual who receives a PPF money purchase lump sum.
 
 ## 6.
@@ -143,11 +143,11 @@ Section 151 of FA 2004 (meaning of “**member**”) applies as if, in Part 4, �
 
 (2) An individual is specified for the purposes of this paragraph if the individual—
 
-- (a) is in receipt of compensation from the Pension Protection Fund, [^key-b128d69fe3d1a049422468cfca3d0a4e]...
-- (b) expects to receive such compensation following the assumption of responsibility, by the Board of the Pension Protection Fund, for a scheme of which that individual was a member, or[^key-268ad0706cad9b11fd732d02322ff584]
+- (a) is in receipt of compensation from the Pension Protection Fund, [^c-b128d69fe3d1a049422468cfca3d0a4e]...
+- (b) expects to receive such compensation following the assumption of responsibility, by the Board of the Pension Protection Fund, for a scheme of which that individual was a member, or[^c-268ad0706cad9b11fd732d02322ff584]
 - (c) receives a PPF money purchase lump sum.
 
-(3)[^key-ee0f720c59831b03ca7f2bd564016643] An arrangement is specified for the purposes of this paragraph if—
+(3)[^c-ee0f720c59831b03ca7f2bd564016643] An arrangement is specified for the purposes of this paragraph if—
 
 - (a) in relation to an individual falling within paragraph (2)(a) or (b), it is an arrangement under which the individual receives (or, as the case may be, expects to receive)—
   - (i) compensation paid under Schedule 7 to the Pensions Act or, as the case may be, Schedule 5 to PA 2008 (pension compensation provisions), or
@@ -163,7 +163,7 @@ Chapter 2 of Part 4 (registration of pension schemes) does not apply in relation
 Section 164 of FA 2004 (authorised member payments) applies as if it also provided that the Board of the Pension Protection Fund was authorised to make the following payments to or in respect of a member—
 
 - (a) payments of an amount falling within section 166(2) of the Pensions Act (duty to pay scheme benefits unpaid at assessment date);
-- (b) payments of an amount falling within Article 150(2) of the Pensions Order (duty to pay scheme benefits unpaid at assessment date);[^key-c17dca9d8b47eaf3e4d540e7b3a0160f]
+- (b) payments of an amount falling within Article 150(2) of the Pensions Order (duty to pay scheme benefits unpaid at assessment date);[^c-c17dca9d8b47eaf3e4d540e7b3a0160f]
 - (c) a payment of a PPF money purchase lump sum.
 
 ## 9.
@@ -240,7 +240,7 @@ by the entry into an annuity contract or a number of such contracts.
 
 (1) Section 168 of FA 2004 (lump sum death benefit rule) and Part 2 of Schedule 29 to that Act (authorised lump sums: lump sum death benefit rule) apply to the payment of lump sums by the Pension Protection Fund to a dependant of a qualifying individual.
 
-(2)[^key-f993d46729882b37a2567c6cdf6d7e77] In paragraph (1) a “qualifying individual” means—
+(2)[^c-f993d46729882b37a2567c6cdf6d7e77] In paragraph (1) a “qualifying individual” means—
 
 - (a) an individual who was a member of a scheme for which the Board of the Pension Protection Fund has assumed responsibility, or
 - (b) an individual who was a transferee entitled to a pension compensation credit referred to in section 111(1) of PA 2008 or section 89(1) of P ( No. 2)A( NI ) 2008 (creation of pension compensation debits and credits).
@@ -284,17 +284,17 @@ Section 199 of FA 2004 (deemed contributions) applies in relation to any sum pai
 
 Section 213 of FA 2004 (surchargeable unauthorised employer payments) does not apply in relation to the Pension Protection Fund.
 
-## 23.[^key-cdf5592a4f6982d848d01f639aac1a33]
+## 23.[^c-cdf5592a4f6982d848d01f639aac1a33]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23A.[^key-ed0ff732c66cd68c0cab4c3af3c4d7c1]
+## 23A.[^c-ed0ff732c66cd68c0cab4c3af3c4d7c1]
 
-Paragraph 20A of Schedule 36 to[^key-9ead176d1a9e5b7698edff811505fed2] FA 2004 (pension credits from previously crystallised rights) applies as if, in relation to the Pension Protection Fund—
+Paragraph 20A of Schedule 36 to[^c-9ead176d1a9e5b7698edff811505fed2] FA 2004 (pension credits from previously crystallised rights) applies as if, in relation to the Pension Protection Fund—
 
-- (a) in sub-paragraph (5)[^key-e8ea79589d0ba644d8aef25d782bcedf] for “or Article 26(1) of WRP(NI)O 1999” there were substituted “, Article 26(1) of WRP(NI)O 1999, section 111(1) of the Pensions Act 2008 or section 89(1) of the Pensions (No. 2) Act (Northern Ireland) 2008”,
-- (b) in sub-paragraph (6)(a)[^key-37bdd7ae59ca21a51ed11e664d914976] for “or Article 26(2) or (3)(b) of WRP(NI)O 1999” there were substituted “, Article 26(2) or (3)(b) of WRP(NI)O 1999, section 111(2)(a) or (b)(ii) of the Pensions Act 2008 or section 89(2)(a) or (b)(ii) of the Pensions (No. 2) Act (Northern Ireland) 2008”, and
-- (c) in sub-paragraph (6)(b)[^key-4c9c320e6b976b9ec8aa78f766986312] for “or Article 26(3)(a) of WRP(NI)O 1999” there were substituted “, Article 26(3)(a) of WRP(NI)O 1999, section 111(2)(b)(i) of the Pensions Act 2008 or section 89(2)(b)(i) of the Pensions (No. 2) Act (Northern Ireland) 2008”.
+- (a) in sub-paragraph (5)[^c-e8ea79589d0ba644d8aef25d782bcedf] for “or Article 26(1) of WRP(NI)O 1999” there were substituted “, Article 26(1) of WRP(NI)O 1999, section 111(1) of the Pensions Act 2008 or section 89(1) of the Pensions (No. 2) Act (Northern Ireland) 2008”,
+- (b) in sub-paragraph (6)(a)[^c-37bdd7ae59ca21a51ed11e664d914976] for “or Article 26(2) or (3)(b) of WRP(NI)O 1999” there were substituted “, Article 26(2) or (3)(b) of WRP(NI)O 1999, section 111(2)(a) or (b)(ii) of the Pensions Act 2008 or section 89(2)(a) or (b)(ii) of the Pensions (No. 2) Act (Northern Ireland) 2008”, and
+- (c) in sub-paragraph (6)(b)[^c-4c9c320e6b976b9ec8aa78f766986312] for “or Article 26(3)(a) of WRP(NI)O 1999” there were substituted “, Article 26(3)(a) of WRP(NI)O 1999, section 111(2)(b)(i) of the Pensions Act 2008 or section 89(2)(b)(i) of the Pensions (No. 2) Act (Northern Ireland) 2008”.
 
 ## 24.
 
@@ -320,7 +320,7 @@ Chapter 6 of Part 4 (schemes that are not registered pension schemes) does not a
 
 Section 273 of FA 2004 (members liable as scheme administrator) does not apply in relation to the Pension Protection Fund.
 
-## 28A.[^key-a4ea2a1046d811f90226f5cd5f547c32]
+## 28A.[^c-a4ea2a1046d811f90226f5cd5f547c32]
 
 Section 279(1) of FA 2004 (other definitions) applies as if, in relation to the Pension Protection Fund—
 
@@ -328,7 +328,7 @@ Section 279(1) of FA 2004 (other definitions) applies as if, in relation to the 
 - (b) “pension debit” included any pension compensation debit mentioned in section 111(1)(a) of PA 2008 or section 89(1)(a) of P ( No. 2)A( NI ) 2008 (creation of pension compensation debits and credits), and
 - (c) “pension sharing order or provision” included any pension compensation sharing order or provision mentioned in section 109 of PA 2008 or section 88 of P ( No. 2)A( NI ) 2008 (activation of pension compensation sharing).
 
-## 29.[^key-96ad570b72e97fbbdbdb5168d7d93646]
+## 29.[^c-96ad570b72e97fbbdbdb5168d7d93646]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -356,7 +356,7 @@ Section 279(1) of FA 2004 (other definitions) applies as if, in relation to the 
 
 ## 32.
 
-Paragraph 36[^key-9e037c8630f228ee7aff52cb18b6ca50] of Schedule 36 ([^key-63b96d8061cebd82158e254c454a4fd8]... right to payment of lump sum death benefit) does[^key-2034087482a89f783f862cf3a3203289] not apply in relation to the Pension Protection Fund.
+Paragraph 36[^c-9e037c8630f228ee7aff52cb18b6ca50] of Schedule 36 ([^c-63b96d8061cebd82158e254c454a4fd8]... right to payment of lump sum death benefit) does[^c-2034087482a89f783f862cf3a3203289] not apply in relation to the Pension Protection Fund.
 
 ## 33. Application of the Inheritance Tax Act 1984: further provisions
 
@@ -411,7 +411,7 @@ Section 307 of ITEPA 2003 (exemption from employment income for death or retirem
 
 Section 579A of ITEPA 2003 [^c1543383] (pensions) applies in relation to periodic compensation from the Pension Protection Fund as it applies to any pension under a registered pension scheme.
 
-## 42B.[^key-3e1e009be6e950074cc1aa5be3d173e0]
+## 42B.[^c-3e1e009be6e950074cc1aa5be3d173e0]
 
 (1) This regulation modifies Chapter 15A of Part 9 of ITEPA 2003 (pension income: lump sums under registered pension schemes) in relation to certain lump sums paid by the PPF.
 
@@ -566,7 +566,7 @@ A regulatory impact assessment in respect of the provisions of Part 4 of the Fin
 
 [^c1543369]: Marginal citation: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1) .
 
-[^key-3f6e1329db290c39c1266b565a9992a0]: Textual amendment: Words in reg. 2(2) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117) , [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1) , [3(1)](https://www.legislation.gov.uk/uksi/2013/1117/regulation/3/1)
+[^c-3f6e1329db290c39c1266b565a9992a0]: Textual amendment: Words in reg. 2(2) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117) , [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1) , [3(1)](https://www.legislation.gov.uk/uksi/2013/1117/regulation/3/1)
 
 [^c1543370]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35) .
 
@@ -578,55 +578,55 @@ A regulatory impact assessment in respect of the provisions of Part 4 of the Fin
 
 [^c1543374]: Marginal citation: Paragraph 16 of Schedule 28 was amended by paragraph 27 of Schedule 10 to the Finance Act 2005.
 
-[^key-55f93dd023c9bfc5214e259c57b3c327]: Textual amendment: Words in reg. 2(3) substituted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/1117/regulation/3/2)
+[^c-55f93dd023c9bfc5214e259c57b3c327]: Textual amendment: Words in reg. 2(3) substituted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/1117/regulation/3/2)
 
-[^key-4744741ad22ecb9cb24aa40f8c0fddc2]: Textual amendment: Words in reg. 2(3) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/1117/regulation/3/3)
+[^c-4744741ad22ecb9cb24aa40f8c0fddc2]: Textual amendment: Words in reg. 2(3) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/1117/regulation/3/3)
 
-[^key-cae033e4a31abfab27dcc466654d09fe]: Textual amendment: Words in reg. 2(3) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/1117/regulation/3/4)
+[^c-cae033e4a31abfab27dcc466654d09fe]: Textual amendment: Words in reg. 2(3) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/1117/regulation/3/4)
 
 [^c1543375]: Marginal citation: The definition of “registered pension scheme” was inserted by paragraph 35(2) of Schedule 35 to the Finance Act 2004.
 
 [^c1543376]: Marginal citation: Paragraph 2 of Schedule 28 was amended by paragraph 11(3) of Schedule 10 to the Finance Act 2005.
 
-[^key-9a8e562eae454b6aa7d4ae9ec61344de]: Textual amendment: Word in reg. 5(a) omitted (31.5.2013) by virtue of [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1117/regulation/4)
+[^c-9a8e562eae454b6aa7d4ae9ec61344de]: Textual amendment: Word in reg. 5(a) omitted (31.5.2013) by virtue of [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1117/regulation/4)
 
-[^key-2b7dc961f0fe6e99cfbde5ff09a4436d]: Textual amendment: Reg. 5(c) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1117/regulation/4)
+[^c-2b7dc961f0fe6e99cfbde5ff09a4436d]: Textual amendment: Reg. 5(c) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/1117/regulation/4)
 
-[^key-b128d69fe3d1a049422468cfca3d0a4e]: Textual amendment: Word in reg. 6(2)(a) omitted (31.5.2013) by virtue of [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/1117/regulation/5)
+[^c-b128d69fe3d1a049422468cfca3d0a4e]: Textual amendment: Word in reg. 6(2)(a) omitted (31.5.2013) by virtue of [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/1117/regulation/5)
 
-[^key-268ad0706cad9b11fd732d02322ff584]: Textual amendment: Reg. 6(2)(c) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/1117/regulation/5)
+[^c-268ad0706cad9b11fd732d02322ff584]: Textual amendment: Reg. 6(2)(c) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [5](https://www.legislation.gov.uk/uksi/2013/1117/regulation/5)
 
-[^key-ee0f720c59831b03ca7f2bd564016643]: Textual amendment: Reg. 6(3) substituted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/1117/regulation/6)
+[^c-ee0f720c59831b03ca7f2bd564016643]: Textual amendment: Reg. 6(3) substituted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/1117/regulation/6)
 
-[^key-c17dca9d8b47eaf3e4d540e7b3a0160f]: Textual amendment: Reg. 8(c) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/1117/regulation/7)
+[^c-c17dca9d8b47eaf3e4d540e7b3a0160f]: Textual amendment: Reg. 8(c) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/1117/regulation/7)
 
 [^c1543377]: Marginal citation: Paragraph 16(2) of Schedule 28 was amended by paragraph 27(3) of Schedule 10 to the Finance Act 2005.
 
-[^key-f993d46729882b37a2567c6cdf6d7e77]: Textual amendment: Reg. 14(2) substituted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/1117/regulation/8)
+[^c-f993d46729882b37a2567c6cdf6d7e77]: Textual amendment: Reg. 14(2) substituted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/1117/regulation/8)
 
 [^c1543378]: Marginal citation: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-cdf5592a4f6982d848d01f639aac1a33]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2006/575/regulation/23) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/2)
+[^c-cdf5592a4f6982d848d01f639aac1a33]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2006/575/regulation/23) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/2)
 
-[^key-ed0ff732c66cd68c0cab4c3af3c4d7c1]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/1117/regulation/9)
+[^c-ed0ff732c66cd68c0cab4c3af3c4d7c1]: Textual amendment: [Reg. 23A](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A) inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/1117/regulation/9)
 
-[^key-9ead176d1a9e5b7698edff811505fed2]: Textual amendment: Words in [reg. 23A](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(3)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/3/a)
+[^c-9ead176d1a9e5b7698edff811505fed2]: Textual amendment: Words in [reg. 23A](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(3)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/3/a)
 
-[^key-e8ea79589d0ba644d8aef25d782bcedf]: Textual amendment: Words in [reg. 23A(a)](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A/a) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(3)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/3/b)
+[^c-e8ea79589d0ba644d8aef25d782bcedf]: Textual amendment: Words in [reg. 23A(a)](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A/a) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(3)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/3/b)
 
-[^key-37bdd7ae59ca21a51ed11e664d914976]: Textual amendment: Words in [reg. 23A(b)](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A/b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(3)(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/3/c)
+[^c-37bdd7ae59ca21a51ed11e664d914976]: Textual amendment: Words in [reg. 23A(b)](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A/b) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(3)(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/3/c)
 
-[^key-4c9c320e6b976b9ec8aa78f766986312]: Textual amendment: Words in [reg. 23A(c)](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A/c) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(3)(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/3/d)
+[^c-4c9c320e6b976b9ec8aa78f766986312]: Textual amendment: Words in [reg. 23A(c)](https://www.legislation.gov.uk/uksi/2006/575/regulation/23A/c) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(3)(d)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/3/d)
 
-[^key-a4ea2a1046d811f90226f5cd5f547c32]: Textual amendment: Reg. 28A inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/1117/regulation/10)
+[^c-a4ea2a1046d811f90226f5cd5f547c32]: Textual amendment: Reg. 28A inserted (31.5.2013) by [The Pension Protection Fund (Tax) (Amendment) Regulations 2013 (S.I. 2013/1117)](https://www.legislation.gov.uk/uksi/2013/1117), [regs. 1](https://www.legislation.gov.uk/uksi/2013/1117/regulation/1), [10](https://www.legislation.gov.uk/uksi/2013/1117/regulation/10)
 
-[^key-96ad570b72e97fbbdbdb5168d7d93646]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2006/575/regulation/29) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(4)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/4)
+[^c-96ad570b72e97fbbdbdb5168d7d93646]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2006/575/regulation/29) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(4)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/4)
 
-[^key-9e037c8630f228ee7aff52cb18b6ca50]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2006/575/regulation/32) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(5)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/5/a)
+[^c-9e037c8630f228ee7aff52cb18b6ca50]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2006/575/regulation/32) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(5)(a)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/5/a)
 
-[^key-63b96d8061cebd82158e254c454a4fd8]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2006/575/regulation/32) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(5)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/5/b)
+[^c-63b96d8061cebd82158e254c454a4fd8]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/uksi/2006/575/regulation/32) omitted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by virtue of [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(5)(b)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/5/b)
 
-[^key-2034087482a89f783f862cf3a3203289]: Textual amendment: Word in [reg. 32](https://www.legislation.gov.uk/uksi/2006/575/regulation/32) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(5)(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/5/c)
+[^c-2034087482a89f783f862cf3a3203289]: Textual amendment: Word in [reg. 32](https://www.legislation.gov.uk/uksi/2006/575/regulation/32) substituted (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(5)(c)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/5/c)
 
 [^c1543379]: Marginal citation: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51). By virtue of section 100(1) and (2) of the [Finance Act 1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), on and after 25th July 1986 the Capital Transfer Tax Act 1984 may be cited as the Inheritance Tax Act 1984, and any reference in that Act to capital transfer tax is to have effect as a reference to inheritance tax, except where the reference relates to a liability arising before 25th July 1986. Section 58 of the Inheritance Tax Act 1984 was amended by section 203(3) of the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12).
 
@@ -638,7 +638,7 @@ A regulatory impact assessment in respect of the provisions of Part 4 of the Fin
 
 [^c1543383]: Marginal citation: Section 579A was inserted by paragraph 6 of Schedule 31 to the Finance Act 2004.
 
-[^key-3e1e009be6e950074cc1aa5be3d173e0]: Textual amendment: Reg. 42B substituted for regs. 42 and 42A (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(6)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/6)
+[^c-3e1e009be6e950074cc1aa5be3d173e0]: Textual amendment: Reg. 42B substituted for regs. 42 and 42A (18.11.2024 for the tax year 2024-25 and subsequent tax years) by [The Pensions (Abolition of Lifetime Allowance Charge etc) (No. 2) Regulations 2024 (S.I. 2024/1012)](https://www.legislation.gov.uk/uksi/2024/1012), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/1/3), [26(6)](https://www.legislation.gov.uk/uksi/2024/1012/regulation/26/6)
 
 [^c1543385]: Marginal citation: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14).
 

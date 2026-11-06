@@ -44,7 +44,7 @@ Coming into force in accordance with article 1
 
 The Lord Chancellor makes the following Order in exercise of the powers conferred by sections 157(3), 208(2) and (4) and 211(2) of the Legal Services Act 2007[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-d38c8bd8b406fbe5c1d7bcfe35c2b249]
+## 1. Citation, commencement and interpretation[^c-d38c8bd8b406fbe5c1d7bcfe35c2b249]
 
 (1) This Order may be cited as the Legal Services Act 2007 (Commencement No. 8, Transitory and Transitional Provisions) Order 2010.
 
@@ -63,7 +63,7 @@ The Lord Chancellor makes the following Order in exercise of the powers conferre
 - (d) reference to proceedings not having been determined includes proceedings which have not been withdrawn, discontinued or closed in accordance with the rules of the approved regulator or the Legal Services Ombudsman, as the case may be; and
 - (e) a reference to a Part, section, Schedule or paragraph of a Schedule by number alone is a reference to that Part, section, Schedule or paragraph in the 2007 Act.
 
-## 2. Commencement of provisions on 6th October 2010[^key-8c9a9c9c03492e1044a30cbbab011a63]
+## 2. Commencement of provisions on 6th October 2010[^c-8c9a9c9c03492e1044a30cbbab011a63]
 
 The following provisions, to the extent that they are not already in force, come into force on 6th October 2010—
 
@@ -81,14 +81,14 @@ The following provisions, to the extent that they are not already in force, come
   - (vii) sections 49 to 52 of, and Schedule 8 to, the Access to Justice Act 1999[^f00008];
   - (viii) the reference to “The Legal Services Complaints Commissioner” and “The Legal Services Consultative Panel” in Part 6 of Schedule 1 to the Freedom of Information Act 2000[^f00009].
 
-## 3. Commencement of provisions on 1st January 2011[^key-1a21328bedda3883389c22d4a260f0f2]
+## 3. Commencement of provisions on 1st January 2011[^c-1a21328bedda3883389c22d4a260f0f2]
 
 The following provisions come into force on 1st January 2011—
 
 - (a) section 159(2)(b) in so far as it relates to section 23(2)(a) of the 1990 Act; and
 - (b) in Schedule 23, the entry relating to section 23(2)(a) of the 1990 Act.
 
-## 4. Commencement of provisions on 31st December 2011[^key-0b3b5e4d5ee661459a41898541847c78]
+## 4. Commencement of provisions on 31st December 2011[^c-0b3b5e4d5ee661459a41898541847c78]
 
 The following provisions, to the extent that they are not already in force, come into force on 31st December 2011—
 
@@ -104,9 +104,9 @@ The following provisions, to the extent that they are not already in force, come
   - (vi) section 86(4)(b) of the Immigration and Asylum Act 1999[^f00012]; and
   - (vii) the reference to “The Legal Services Ombudsman” in Part 6 of Schedule 1 to the Freedom of Information Act 2000.
 
-## 5. Transitory provisions[^key-a9870b879d82e875f4d347242ce0e3a6]
+## 5. Transitory provisions[^c-a9870b879d82e875f4d347242ce0e3a6]
 
-Until section 73(1)(a)[^key-7c284be9d5842b07f64d267a96c2dbca] comes into force—
+Until section 73(1)(a)[^c-7c284be9d5842b07f64d267a96c2dbca] comes into force—
 
 - (a) section 113(3) is to be read as if the words “, or licensing rules made by the Board in its capacity as a licensing authority” were omitted;
 - (b) section 113(4) is to be read as if the words “, or the Board in its capacity as a licensing authority,” were omitted;
@@ -118,16 +118,16 @@ Until section 73(1)(a)[^key-7c284be9d5842b07f64d267a96c2dbca] comes into force�
 - (f) section 157 is to be read as if subsection (7) were omitted; and
 - (g) section 158 is to be read as if subsection (4) were omitted.
 
-## 6. Transitional provisions[^key-8f9d6a4a5dbc01a605397421b3178664]
+## 6. Transitional provisions[^c-8f9d6a4a5dbc01a605397421b3178664]
 
 Section 157(1) and (2) does not apply in relation to proceedings which immediately before 6th October 2010 have not been determined under any provision relating to redress made by an approved regulator, and such proceedings will continue to be determined under the regulatory arrangements, including any provision relating to redress, in force immediately before 6th October 2010.
 
-**7.**[^key-fa275b5a13f231ffddab8e29987a073a] Proceedings described in article 6 which have not been determined by an approved regulator under any provision relating to redress by 1st April 2011 are to be—
+**7.**[^c-fa275b5a13f231ffddab8e29987a073a] Proceedings described in article 6 which have not been determined by an approved regulator under any provision relating to redress by 1st April 2011 are to be—
 
 - (a) treated as allegations properly made under section 22(1) of the 1990 Act notwithstanding the fact that they do not relate to the manner in which a complaint made to an approved regulator has been dealt with by that regulator, and
 - (b) investigated by the Legal Services Ombudsman under section 22(2) of the 1990 Act.
 
-**8.**[^key-ffa49610a6e6bd754fde6599b0ca6e09] (1) From 31st December 2011 proceedings described in paragraph (2) will be—
+**8.**[^c-ffa49610a6e6bd754fde6599b0ca6e09] (1) From 31st December 2011 proceedings described in paragraph (2) will be—
 
 - (a) treated as a complaint which falls within the jurisdiction of the ombudsman scheme as established by section 125; and
 - (b) considered in accordance with the ombudsman scheme rules and with Part 6 of the 2007 Act.
@@ -266,13 +266,13 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [2007 c. 29](https://www.legislation.gov.uk/ukpga/2007/29).
 
-[^key-d38c8bd8b406fbe5c1d7bcfe35c2b249]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2089/article/1) in force at 6.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
+[^c-d38c8bd8b406fbe5c1d7bcfe35c2b249]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/2089/article/1) in force at 6.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
 
 [^f00002]: Footnote: [1974 c. 47](https://www.legislation.gov.uk/ukpga/1974/47).
 
 [^f00003]: Footnote: [1990 c. 41](https://www.legislation.gov.uk/ukpga/1990/41).
 
-[^key-8c9a9c9c03492e1044a30cbbab011a63]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2089/article/2) in force at 6.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
+[^c-8c9a9c9c03492e1044a30cbbab011a63]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/2089/article/2) in force at 6.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
 
 [^f00004]: Footnote: [1967 c. 13](https://www.legislation.gov.uk/ukpga/1967/13).
 
@@ -286,9 +286,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00009]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-1a21328bedda3883389c22d4a260f0f2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2089/article/3) in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
+[^c-1a21328bedda3883389c22d4a260f0f2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2010/2089/article/3) in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
 
-[^key-0b3b5e4d5ee661459a41898541847c78]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2089/article/4) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
+[^c-0b3b5e4d5ee661459a41898541847c78]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/2089/article/4) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
 
 [^f00010]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
 
@@ -296,12 +296,12 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00012]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33).
 
-[^key-a9870b879d82e875f4d347242ce0e3a6]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2089/article/5) in force at 6.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
+[^c-a9870b879d82e875f4d347242ce0e3a6]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/2089/article/5) in force at 6.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
 
-[^key-7c284be9d5842b07f64d267a96c2dbca]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2010/2089/article/5) substituted (30.9.2011) by [The Legal Services Act 2007 (Commencement No. 11, Transitory and Transitional Provisions and Related Amendments) Order 2011 (S.I. 2011/2196)](https://www.legislation.gov.uk/uksi/2011/2196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2196/article/1/2), [6](https://www.legislation.gov.uk/uksi/2011/2196/article/6)
+[^c-7c284be9d5842b07f64d267a96c2dbca]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2010/2089/article/5) substituted (30.9.2011) by [The Legal Services Act 2007 (Commencement No. 11, Transitory and Transitional Provisions and Related Amendments) Order 2011 (S.I. 2011/2196)](https://www.legislation.gov.uk/uksi/2011/2196), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2196/article/1/2), [6](https://www.legislation.gov.uk/uksi/2011/2196/article/6)
 
-[^key-8f9d6a4a5dbc01a605397421b3178664]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6) in force at 6.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
+[^c-8f9d6a4a5dbc01a605397421b3178664]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/2089/article/6) in force at 6.10.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
 
-[^key-fa275b5a13f231ffddab8e29987a073a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/2089/article/7) in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
+[^c-fa275b5a13f231ffddab8e29987a073a]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/2089/article/7) in force at 1.4.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
 
-[^key-ffa49610a6e6bd754fde6599b0ca6e09]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/2089/article/8) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)
+[^c-ffa49610a6e6bd754fde6599b0ca6e09]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/2089/article/8) in force at 31.12.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2089/article/1/2)

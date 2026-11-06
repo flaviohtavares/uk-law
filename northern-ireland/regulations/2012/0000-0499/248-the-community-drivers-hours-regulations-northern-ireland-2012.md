@@ -56,7 +56,7 @@ These Regulations may be cited as the Community Drivers' Hours Regulations (Nort
 
 (1) In these Regulations “the Community Drivers' Hours Regulation” means Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) of the European Parliament and of the Council as amended from time to time.
 
-(1A)[^key-a249a5b9520a06783eded6dde958c873] The Department for Infrastructure is the competent authority for the purpose of these Regulations.
+(1A)[^c-a249a5b9520a06783eded6dde958c873] The Department for Infrastructure is the competent authority for the purpose of these Regulations.
 
 (2) The Interpretation Act (Northern Ireland) 1954 [^c21298521] shall apply to these Regulations as it applies to an Act of the Assembly.
 
@@ -119,7 +119,7 @@ These Regulations give effect to European Commission Decision 2008/7472 of 22 De
 
 [^c21298511]: Marginal citation: O.J. No.L102, 11.04.06. p.1
 
-[^key-a249a5b9520a06783eded6dde958c873]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/nisr/2012/248/regulation/2/1A) inserted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2019/6/regulation/14)
+[^c-a249a5b9520a06783eded6dde958c873]: Textual amendment: [Reg. 2(1A)](https://www.legislation.gov.uk/nisr/2012/248/regulation/2/1A) inserted (18.2.2019) by [The Road Traffic and Vehicles and Waterways (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/6)](https://www.legislation.gov.uk/nisr/2019/6), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/6/regulation/1/1), [14](https://www.legislation.gov.uk/nisr/2019/6/regulation/14)
 
 [^c21298521]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 

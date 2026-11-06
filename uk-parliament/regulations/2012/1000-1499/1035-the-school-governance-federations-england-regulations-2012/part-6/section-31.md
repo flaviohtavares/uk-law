@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Decision to permit federated school to leave a federation[^key-fabe5a03184093c96ddce098912f5ed9]
+## 31. Decision to permit federated school to leave a federation[^c-fabe5a03184093c96ddce098912f5ed9]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fabe5a03184093c96ddce098912f5ed9]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2012/1035/regulation/31) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-fabe5a03184093c96ddce098912f5ed9]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2012/1035/regulation/31) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

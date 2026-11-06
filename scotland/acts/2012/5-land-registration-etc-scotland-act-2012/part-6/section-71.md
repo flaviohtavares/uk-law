@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Recall of caveat[^key-3e514032d04da6f433c5cd4c57d1b359]
+## 71. Recall of caveat[^c-3e514032d04da6f433c5cd4c57d1b359]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e514032d04da6f433c5cd4c57d1b359]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2012/5/section/71) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-3e514032d04da6f433c5cd4c57d1b359]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2012/5/section/71) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

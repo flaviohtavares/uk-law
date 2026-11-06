@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Interpretation[^key-85f659b690fd831b6e00c478c38d58b3]
+## 85. Interpretation[^c-85f659b690fd831b6e00c478c38d58b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 230 (interpretation) for the definition of “premiums trust fund” 
 
 ## Annotations
 
-[^key-85f659b690fd831b6e00c478c38d58b3]: Commencement: Art. 85 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-85f659b690fd831b6e00c478c38d58b3]: Commencement: Art. 85 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

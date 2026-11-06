@@ -24,7 +24,7 @@ summary: ''
 
 (2) For the purposes of this Part, the cases in which provision made or imposed as between any two persons is to be taken to differ from the provision that would have been made as between independent enterprises include the case in which provision is made or imposed as between two persons but no provision would have been made as between independent enterprises; and references in this Part to the arm's length provision are to be read accordingly.
 
-(3)[^key-78dc29ce402bab83989e95ce735590d6] For the purposes of determining the arm’s length provision in relation to the actual provision involving—
+(3)[^c-78dc29ce402bab83989e95ce735590d6] For the purposes of determining the arm’s length provision in relation to the actual provision involving—
 
 - (a) the transfer of intangible fixed assets for consideration other than money, or
 - (b) the grant of a licence or any other right in respect of intangible fixed assets for consideration other than money,
@@ -35,4 +35,4 @@ assume that the transfer or grant at arm’s length would be for consideration o
 
 ## Annotations
 
-[^key-78dc29ce402bab83989e95ce735590d6]: Textual amendment: [S. 151(3)](https://www.legislation.gov.uk/ukpga/2010/8/section/151/3)[(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/151/4) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/3), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
+[^c-78dc29ce402bab83989e95ce735590d6]: Textual amendment: [S. 151(3)](https://www.legislation.gov.uk/ukpga/2010/8/section/151/3)[(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/151/4) inserted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 3](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/3), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)

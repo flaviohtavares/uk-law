@@ -44,15 +44,15 @@ The Lord President of the Council has consulted the Electoral Commission, the In
 
 In accordance with section 11(2) of the Electoral Registration and Administration Act 2013, a draft of this Order has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement, extent and interpretation[^key-1a1d8989a9d0e5f9f56d43ac62338598]
+## 1. Citation, commencement, extent and interpretation[^c-1a1d8989a9d0e5f9f56d43ac62338598]
 
 *Extent: E+W+S*
 
-This Order may be cited as the Electoral Registration and Administration Act 2013 (Transitional Provisions) Order 2013 and comes into force on the date on which Schedule 5 to the 2013 Act comes fully into force, except for article 4A, which comes into force on 2nd June 2014, and[^key-7fd112b2cbf1d4146bc4695fd31979a2] article 5, which comes into force on 11th September 2014.
+This Order may be cited as the Electoral Registration and Administration Act 2013 (Transitional Provisions) Order 2013 and comes into force on the date on which Schedule 5 to the 2013 Act comes fully into force, except for article 4A, which comes into force on 2nd June 2014, and[^c-7fd112b2cbf1d4146bc4695fd31979a2] article 5, which comes into force on 11th September 2014.
 
-**2.**[^key-00f873805182ecc701f167b5d0a5966d] This Order does not extend to Northern Ireland, except for article 25.
+**2.**[^c-00f873805182ecc701f167b5d0a5966d] This Order does not extend to Northern Ireland, except for article 25.
 
-**3.**[^key-eaee0c350edd3ecac317ca166fd634db] In this Order—
+**3.**[^c-eaee0c350edd3ecac317ca166fd634db] In this Order—
 
 - “the 1983 Act” means the Representation of the People Act 1983;
 - “the 2013 Act” means the Electoral Registration and Administration Act 2013;
@@ -60,7 +60,7 @@ This Order may be cited as the Electoral Registration and Administration Act 201
 - “Lord President” means the Lord President of the Council;
 - “registration officer” means a registration officer in Great Britain, unless otherwise stated.
 
-## 4. Time[^key-a7160d84b3105a1f4a3e42402141eabb]
+## 4. Time[^c-a7160d84b3105a1f4a3e42402141eabb]
 
 *Extent: E+W+S*
 
@@ -70,17 +70,17 @@ This Order may be cited as the Electoral Registration and Administration Act 201
 
 (3) The days are a Saturday, Sunday, Christmas Eve, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00005] in England and Wales or, as the case may be, in Scotland.
 
-## 4A. Applications for registration in England and Wales made between 2nd and 9th June 2014[^M_I_b4da2aed-cc9c-42a6-8d8f-2a3e9d0236f7][^key-6c362f7fe5c54fcf8bccbf51bb831667]
+## 4A. Applications for registration in England and Wales made between 2nd and 9th June 2014[^M_I_b4da2aed-cc9c-42a6-8d8f-2a3e9d0236f7][^c-6c362f7fe5c54fcf8bccbf51bb831667]
 
 Where a registration officer in England and Wales determines an application for registration made in the period starting with 2nd June 2014 and ending with 9th June 2014, the proviso in regulation 29(4) of the Representation of the People (England and Wales) Regulations 2001[^f00003] does not apply.
 
-## 5. Applications for registration in Scotland made between 11th and 18th September 2014[^key-076ef50be4563d1083414c55280b0835]
+## 5. Applications for registration in Scotland made between 11th and 18th September 2014[^c-076ef50be4563d1083414c55280b0835]
 
 *Extent: E+W+S*
 
 Where a registration officer in Scotland determines an application for registration made in the period starting with 11th September 2014 and ending with 18th September 2014, the proviso in regulation 29(4) of the Representation of the People (Scotland) Regulations 2001 does not apply.
 
-## 6. Confirmation of entitlement to remain registered[^key-0d257904296b6073c8d866eaf069db07]
+## 6. Confirmation of entitlement to remain registered[^c-0d257904296b6073c8d866eaf069db07]
 
 *Extent: E+W+S*
 
@@ -93,10 +93,10 @@ is entitled to remain registered.
 
 (2) The specified period—
 
-- (a) in England and Wales is the period starting with 10th June[^key-4040fabdeddbca3b52ef0efe890e343a] 2014 and ending with 30th November 2014; and
+- (a) in England and Wales is the period starting with 10th June[^c-4040fabdeddbca3b52ef0efe890e343a] 2014 and ending with 30th November 2014; and
 - (b) in Scotland is the period starting with 19th September 2014 and ending with 27th February 2015.
 
-## 7. Verification of information in order to confirm entitlement to remain registered[^key-3f33fe708b5cd13fb9e662f7976dab83]
+## 7. Verification of information in order to confirm entitlement to remain registered[^c-3f33fe708b5cd13fb9e662f7976dab83]
 
 *Extent: E+W+S*
 
@@ -135,9 +135,9 @@ is entitled to remain registered.
 - (a) “conduit system” has the same meaning as in paragraph 1 of Schedule 2 to the Telecommunications Act 1984[^f00006];
 - (b) “Secretary of State” means the Secretary of State for Work and Pensions.
 
-**8.**[^key-c6740706b446f598d1bd1be9eed14bde] Articles 6 and 7 do not apply to persons who are entered in the register with an anonymous entry.
+**8.**[^c-c6740706b446f598d1bd1be9eed14bde] Articles 6 and 7 do not apply to persons who are entered in the register with an anonymous entry.
 
-## 9. Processing of information to confirm entitlement to remain registered[^key-78b0a3e96bc22743fe6f6bf0174eb9ce]
+## 9. Processing of information to confirm entitlement to remain registered[^c-78b0a3e96bc22743fe6f6bf0174eb9ce]
 
 *Extent: E+W+S*
 
@@ -151,11 +151,11 @@ is entitled to remain registered.
 - (a) on conviction on indictment, to imprisonment for a term not exceeding two years, or to a fine, or to both;
 - (b) on summary conviction, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both.
 
-**10.**[^key-e732196c88ff50feae4901c93947295f] (1) Any person who discloses information under this Order must process it in accordance with any requirements as to the processing of information that may have been imposed by the Lord President in writing, including requirements as to the transfer, storage, destruction and security of that information.
+**10.**[^c-e732196c88ff50feae4901c93947295f] (1) Any person who discloses information under this Order must process it in accordance with any requirements as to the processing of information that may have been imposed by the Lord President in writing, including requirements as to the transfer, storage, destruction and security of that information.
 
 (2) Any requirements, in accordance with which a person must process information, must be imposed by the Lord President before a registration officer is required to disclose that information under article 7(2).
 
-## 11. Notification of confirmed entries on register[^key-e9a27304e8d423690b1429f0aafb518a]
+## 11. Notification of confirmed entries on register[^c-e9a27304e8d423690b1429f0aafb518a]
 
 *Extent: E+W+S*
 
@@ -182,7 +182,7 @@ is entitled to remain registered.
 
 (4) In this article, “edited register” has the same meaning as in regulation 93 of each of the two 2001 Regulations.
 
-## 12. Entries carried forward[^key-a7ec08994c53c3f0805bf92393e9fb6d]
+## 12. Entries carried forward[^c-a7ec08994c53c3f0805bf92393e9fb6d]
 
 *Extent: E+W+S*
 
@@ -198,7 +198,7 @@ is entitled to remain registered.
 
 (4) Where a registration officer has confirmed a person’s entitlement to remain registered under this article, article 11 applies as it applies to confirmation under article 6.
 
-## 13. Period within which invitations to register must be given to existing electors in 2014[^key-61a3ce245a07d705633c71d0e01cc68e]
+## 13. Period within which invitations to register must be given to existing electors in 2014[^c-61a3ce245a07d705633c71d0e01cc68e]
 
 *Extent: E+W+S*
 
@@ -207,7 +207,7 @@ Each registration officer must give invitations under paragraph 8 of Schedule 5 
 - (a) in England and Wales, within the period starting with 1st July 2014 and ending with 30th September 2014, and
 - (b) in Scotland, within the period starting with 1st October 2014 and ending with 31st December 2014.
 
-## 14. First new canvass in Scotland[^key-6112a773623bca3047e069b2f2bfa4f5]
+## 14. First new canvass in Scotland[^c-6112a773623bca3047e069b2f2bfa4f5]
 
 *Extent: E+W+S*
 
@@ -218,19 +218,19 @@ Each registration officer must give invitations under paragraph 8 of Schedule 5 
 - (a) section 13(1) and (1A) of the 1983 Act[^f00009] does not apply to registration officers in Scotland for 2014;
 - (b) any other provision of that Act which refers to a register published under section 13(1)(a) of that Act applies in the same way to a register published in Scotland under article 15.
 
-## 15. Publication of revised version of the register in Scotland following first new canvass[^key-bf382cc3172d7f0a5e22b07d72aebbf9]
+## 15. Publication of revised version of the register in Scotland following first new canvass[^c-bf382cc3172d7f0a5e22b07d72aebbf9]
 
 *Extent: E+W+S*
 
 Each registration officer in Scotland must publish a revised version of their registers by 28th February 2015.
 
-## 16. Period within which canvass forms must be given for second new canvass[^key-47835634a28cf3625308602991d39a91]
+## 16. Period within which canvass forms must be given for second new canvass[^c-47835634a28cf3625308602991d39a91]
 
 *Extent: E+W+S*
 
 Any canvass forms to be used for the purpose of the second new canvass are to be given within the period starting with 1st July 2015 and ending with 30th November 2015.
 
-## 17. Invitations to register given to existing electors[^key-31ec0a3c69ad2bb43e620bf81006886a][^key-1230b0c9061b3de0fbb4fd9af18d101e]
+## 17. Invitations to register given to existing electors[^c-31ec0a3c69ad2bb43e620bf81006886a][^c-1230b0c9061b3de0fbb4fd9af18d101e]
 
 *Extent: E+W+S*
 
@@ -245,7 +245,7 @@ Any canvass forms to be used for the purpose of the second new canvass are to be
 - (a) meets the requirements of paragraph (1) of this article; and
 - (b) includes an explanation that if the person does not make a new application for registration which is successful before the registration officer publishes a revised version of the register following the first new canvass, the person will cease to be entitled to vote by post or (as the case may be) by proxy.
 
-(3) The Electoral Commission must obtain the approval of the Chancellor of the Duchy of Lancaster[^key-4b67e6e70cf62dab85c4101733aace1c] to an invitation under this article which it has designed and must then make the invitation available to registration officers.
+(3) The Electoral Commission must obtain the approval of the Chancellor of the Duchy of Lancaster[^c-4b67e6e70cf62dab85c4101733aace1c] to an invitation under this article which it has designed and must then make the invitation available to registration officers.
 
 (4) Where a registration officer is required by paragraph 8 or 11 of Schedule 5 to the 2013 Act to give a person an invitation to make a new application for registration—
 
@@ -257,7 +257,7 @@ Any canvass forms to be used for the purpose of the second new canvass are to be
   - (ii) a direction requesting that any other person who receives the envelope who is resident at the address to which the invitation is addressed inform the registration officer if the addressee is not resident at that address; and
   - (iii) the registration officer’s contact details.
 
-## 18. Steps to be taken by a registration officer to encourage a person to make a new application for registration in response to an invitation to do so[^key-cca83546fcd098246ccf7d06f4e3d150]
+## 18. Steps to be taken by a registration officer to encourage a person to make a new application for registration in response to an invitation to do so[^c-cca83546fcd098246ccf7d06f4e3d150]
 
 *Extent: E+W+S*
 
@@ -274,7 +274,7 @@ Any canvass forms to be used for the purpose of the second new canvass are to be
 - (a) the person is not entitled to be registered at the address at which the invitation or invitations to make a new application for registration was or were given; or
 - (b) the person is registered at a different address.
 
-## 19. Requiring a person to make a new application for registration[^key-7bd8818bfcf25cac0d38d3057994b45e]
+## 19. Requiring a person to make a new application for registration[^c-7bd8818bfcf25cac0d38d3057994b45e]
 
 *Extent: E+W+S*
 
@@ -308,7 +308,7 @@ Any canvass forms to be used for the purpose of the second new canvass are to be
 
 (6) A registration officer may cancel a requirement to make a new application for registration if the registration officer considers it appropriate to do so and must give the person concerned notice in writing of the cancellation.
 
-## 20. Notice of civil penalty[^key-da991be4b218217eb9b4d471a5563441]
+## 20. Notice of civil penalty[^c-da991be4b218217eb9b4d471a5563441]
 
 *Extent: E+W+S*
 
@@ -329,7 +329,7 @@ Any canvass forms to be used for the purpose of the second new canvass are to be
 - (c) the rate of interest payable if the penalty is not paid on time; and
 - (d) that making an application to register within 28 days will prevent the person being liable to pay the civil penalty.
 
-## 21. Payment, enforcement and cancellation of civil penalty[^key-2d15634ef98e43350ebcf99a3bdc0628]
+## 21. Payment, enforcement and cancellation of civil penalty[^c-2d15634ef98e43350ebcf99a3bdc0628]
 
 *Extent: E+W+S*
 
@@ -356,7 +356,7 @@ Any canvass forms to be used for the purpose of the second new canvass are to be
 
 (7) A registration officer may cancel the civil penalty if the registration officer considers it appropriate to do so and must give the person concerned notice in writing of the cancellation.
 
-## 22. Review of registration officer’s decision to impose a civil penalty[^key-bfe735ecb87c0c2ea00b656a652b41a3]
+## 22. Review of registration officer’s decision to impose a civil penalty[^c-bfe735ecb87c0c2ea00b656a652b41a3]
 
 *Extent: E+W+S*
 
@@ -389,7 +389,7 @@ Any canvass forms to be used for the purpose of the second new canvass are to be
 - (a) may appeal against that decision to the First-tier Tribunal, and how to make such an appeal; and
 - (b) must pay the penalty by a specified date, which shall be the date on which the period of 28 days referred to in article 21(1) or (2) expires.
 
-## 23. Appeals to the First-tier Tribunal against a notice of civil penalty[^key-692d697ec57cfcedc0e993271ee0ee63]
+## 23. Appeals to the First-tier Tribunal against a notice of civil penalty[^c-692d697ec57cfcedc0e993271ee0ee63]
 
 *Extent: E+W+S*
 
@@ -400,7 +400,7 @@ Any canvass forms to be used for the purpose of the second new canvass are to be
 - (a) uphold the registration officer’s decision to impose the civil penalty; or
 - (b) cancel the civil penalty.
 
-## 24. Notification that an elector has lost their absent vote[^key-eb8cbb66b9354f1c34d5f90d2efc1bdf]
+## 24. Notification that an elector has lost their absent vote[^c-eb8cbb66b9354f1c34d5f90d2efc1bdf]
 
 *Extent: E+W+S*
 
@@ -414,7 +414,7 @@ A registration officer who is required by paragraph 17(7) of Schedule 5 to the 2
   - (i) an application form in the form designed by the Electoral Commission under regulation 26(3) of each of the two 2001 Regulations, on which the registration officer has, if practicable, printed the person’s full name and address; and
   - (ii) an application form for an application to vote by post or (as the case may be) by proxy.
 
-## 25. Steps which may be taken by a registration officer in relation to proxies[^key-77bba40432c82adf8e3094a0e7e64714]
+## 25. Steps which may be taken by a registration officer in relation to proxies[^c-77bba40432c82adf8e3094a0e7e64714]
 
 A registration officer may require a registration officer in Great Britain or Northern Ireland to provide information as soon as reasonably practicable about whether a proxy for an existing absent voter has or will have an entry in the relevant register maintained by that officer.
 
@@ -462,80 +462,80 @@ An overall impact assessment in relation to the individual electoral registratio
 
 [^f00002]: Footnote: [1983 c.2](https://www.legislation.gov.uk/ukpga/1983/2); section 53(5) was inserted by paragraph 5 of Schedule 2 to the Electoral Registration and Administration Act 2013.
 
-[^key-1a1d8989a9d0e5f9f56d43ac62338598]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-1a1d8989a9d0e5f9f56d43ac62338598]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-7fd112b2cbf1d4146bc4695fd31979a2]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1) inserted (28.2.2014) by [The Electoral Registration and Administration Act 2013 (Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/449)](https://www.legislation.gov.uk/uksi/2014/449), [arts. 1](https://www.legislation.gov.uk/uksi/2014/449/article/1), [3](https://www.legislation.gov.uk/uksi/2014/449/article/3)
+[^c-7fd112b2cbf1d4146bc4695fd31979a2]: Textual amendment: Words in [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1) inserted (28.2.2014) by [The Electoral Registration and Administration Act 2013 (Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/449)](https://www.legislation.gov.uk/uksi/2014/449), [arts. 1](https://www.legislation.gov.uk/uksi/2014/449/article/1), [3](https://www.legislation.gov.uk/uksi/2014/449/article/3)
 
-[^key-00f873805182ecc701f167b5d0a5966d]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/3197/article/2) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-00f873805182ecc701f167b5d0a5966d]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/3197/article/2) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-eaee0c350edd3ecac317ca166fd634db]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/3197/article/3) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-eaee0c350edd3ecac317ca166fd634db]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/3197/article/3) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
 [^f00003]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341); relevant amending instruments are [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871), [2006/2910](https://www.legislation.gov.uk/uksi/2006/2910) and [2013/3198](https://www.legislation.gov.uk/uksi/2013/3198).
 
 [^f00004]: Footnote: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497); relevant amending instruments are [S.I. 2002/1872](https://www.legislation.gov.uk/uksi/2002/1872), [2007/925](https://www.legislation.gov.uk/uksi/2007/925) and [2013/3206](https://www.legislation.gov.uk/uksi/2013/3206).
 
-[^key-a7160d84b3105a1f4a3e42402141eabb]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/3197/article/4) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-a7160d84b3105a1f4a3e42402141eabb]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/3197/article/4) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
 [^f00005]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). Schedule 1 was amended by section 1 of the St Andrew’s Day Bank Holiday (Scotland) Act [2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2).
 
 [^M_I_b4da2aed-cc9c-42a6-8d8f-2a3e9d0236f7]: Commencement: [Art. 4A](https://www.legislation.gov.uk/uksi/2013/3197/article/4A) in force at 2.6.2014 in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-6c362f7fe5c54fcf8bccbf51bb831667]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/uksi/2013/3197/article/4A) inserted (28.2.2014) by [The Electoral Registration and Administration Act 2013 (Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/449)](https://www.legislation.gov.uk/uksi/2014/449), [arts. 1](https://www.legislation.gov.uk/uksi/2014/449/article/1), [4](https://www.legislation.gov.uk/uksi/2014/449/article/4)
+[^c-6c362f7fe5c54fcf8bccbf51bb831667]: Textual amendment: [Art. 4A](https://www.legislation.gov.uk/uksi/2013/3197/article/4A) inserted (28.2.2014) by [The Electoral Registration and Administration Act 2013 (Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/449)](https://www.legislation.gov.uk/uksi/2014/449), [arts. 1](https://www.legislation.gov.uk/uksi/2014/449/article/1), [4](https://www.legislation.gov.uk/uksi/2014/449/article/4)
 
-[^key-076ef50be4563d1083414c55280b0835]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/3197/article/5) in force at 11.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-076ef50be4563d1083414c55280b0835]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/3197/article/5) in force at 11.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-0d257904296b6073c8d866eaf069db07]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/3197/article/6) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-0d257904296b6073c8d866eaf069db07]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/3197/article/6) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-4040fabdeddbca3b52ef0efe890e343a]: Textual amendment: Words in [art. 6(2)(a)](https://www.legislation.gov.uk/uksi/2013/3197/article/6/2/a) substituted (28.2.2014) by [The Electoral Registration and Administration Act 2013 (Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/449)](https://www.legislation.gov.uk/uksi/2014/449), [arts. 1](https://www.legislation.gov.uk/uksi/2014/449/article/1), [5](https://www.legislation.gov.uk/uksi/2014/449/article/5)
+[^c-4040fabdeddbca3b52ef0efe890e343a]: Textual amendment: Words in [art. 6(2)(a)](https://www.legislation.gov.uk/uksi/2013/3197/article/6/2/a) substituted (28.2.2014) by [The Electoral Registration and Administration Act 2013 (Transitional Provisions) (Amendment) Order 2014 (S.I. 2014/449)](https://www.legislation.gov.uk/uksi/2014/449), [arts. 1](https://www.legislation.gov.uk/uksi/2014/449/article/1), [5](https://www.legislation.gov.uk/uksi/2014/449/article/5)
 
-[^key-3f33fe708b5cd13fb9e662f7976dab83]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/3197/article/7) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-3f33fe708b5cd13fb9e662f7976dab83]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/3197/article/7) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
 [^f00006]: Footnote: [1984 c.12](https://www.legislation.gov.uk/ukpga/1984/12); paragraph 1 has been amended but no amendments are relevant to this Order.
 
-[^key-c6740706b446f598d1bd1be9eed14bde]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/3197/article/8) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-c6740706b446f598d1bd1be9eed14bde]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/3197/article/8) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-78b0a3e96bc22743fe6f6bf0174eb9ce]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/3197/article/9) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-78b0a3e96bc22743fe6f6bf0174eb9ce]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/3197/article/9) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-e732196c88ff50feae4901c93947295f]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/3197/article/10) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-e732196c88ff50feae4901c93947295f]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/3197/article/10) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-e9a27304e8d423690b1429f0aafb518a]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/3197/article/11) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-e9a27304e8d423690b1429f0aafb518a]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/3197/article/11) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
 [^f00007]: Footnote: [S.I. 2013/3198](https://www.legislation.gov.uk/uksi/2013/3198).
 
 [^f00008]: Footnote: [S.I. 2013/3206](https://www.legislation.gov.uk/uksi/2013/3206).
 
-[^key-a7ec08994c53c3f0805bf92393e9fb6d]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/3197/article/12) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-a7ec08994c53c3f0805bf92393e9fb6d]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/3197/article/12) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-61a3ce245a07d705633c71d0e01cc68e]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/3197/article/13) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-61a3ce245a07d705633c71d0e01cc68e]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/3197/article/13) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-6112a773623bca3047e069b2f2bfa4f5]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/3197/article/14) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-6112a773623bca3047e069b2f2bfa4f5]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/3197/article/14) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
 [^f00009]: Footnote: Section 13 was substituted by section 8 of, and paragraphs 1 and 6 of Schedule 1 to, the Representation of the People Act [2000 c.2](https://www.legislation.gov.uk/ukpga/2000/2). Section 13(1) was later substituted by section 5(1) of the Northern Ireland (Miscellaneous Provisions) Act [2006 c.33](https://www.legislation.gov.uk/ukpga/2006/33). Section 13(1A) was inserted by section 23(2) of the Political Parties and Elections Act [2009 c.12](https://www.legislation.gov.uk/ukpga/2009/12).
 
-[^key-bf382cc3172d7f0a5e22b07d72aebbf9]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2013/3197/article/15) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-bf382cc3172d7f0a5e22b07d72aebbf9]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2013/3197/article/15) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-47835634a28cf3625308602991d39a91]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/3197/article/16) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-47835634a28cf3625308602991d39a91]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/3197/article/16) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-31ec0a3c69ad2bb43e620bf81006886a]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/3197/article/17) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-31ec0a3c69ad2bb43e620bf81006886a]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/3197/article/17) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-1230b0c9061b3de0fbb4fd9af18d101e]: Modification: [Art. 17](https://www.legislation.gov.uk/uksi/2013/3197/article/17): functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2015/1376/article/5/2/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
+[^c-1230b0c9061b3de0fbb4fd9af18d101e]: Modification: [Art. 17](https://www.legislation.gov.uk/uksi/2013/3197/article/17): functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [5(2)(c)](https://www.legislation.gov.uk/uksi/2015/1376/article/5/2/c) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
 
 [^f00010]: Footnote: [2000 c.2](https://www.legislation.gov.uk/ukpga/2000/2). Paragraph 3 was amended by section 261 of, and paragraph 164 of Schedule 27 to, the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33), sections 10, 14 and 74 of, and paragraphs 19, 20 and 137 to, Schedule 1 to the Electoral Administration Act [2006 (c.22)](https://www.legislation.gov.uk/ukpga/2006/22) and sections 20 and 34 of the Local Electoral Administration and Registration Services (Scotland) Act [2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14). Paragraph 5 was amended by sections 10 and 74 of, and paragraphs 19, 22 and 137 of Schedule 1 to, the Electoral Administration Act 2006 and section 20 of the Local Electoral Administration and Registration Services (Scotland) Act 2006.
 
-[^key-4b67e6e70cf62dab85c4101733aace1c]: Textual amendment: Words in [art. 17(3)](https://www.legislation.gov.uk/uksi/2013/3197/article/17/3) substituted (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2015/1376/schedule/2/paragraph/23) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
+[^c-4b67e6e70cf62dab85c4101733aace1c]: Textual amendment: Words in [art. 17(3)](https://www.legislation.gov.uk/uksi/2013/3197/article/17/3) substituted (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2015/1376/schedule/2/paragraph/23) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
 
-[^key-cca83546fcd098246ccf7d06f4e3d150]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2013/3197/article/18) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-cca83546fcd098246ccf7d06f4e3d150]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2013/3197/article/18) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-7bd8818bfcf25cac0d38d3057994b45e]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2013/3197/article/19) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-7bd8818bfcf25cac0d38d3057994b45e]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2013/3197/article/19) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-da991be4b218217eb9b4d471a5563441]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/3197/article/20) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-da991be4b218217eb9b4d471a5563441]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/3197/article/20) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-2d15634ef98e43350ebcf99a3bdc0628]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2013/3197/article/21) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-2d15634ef98e43350ebcf99a3bdc0628]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2013/3197/article/21) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-bfe735ecb87c0c2ea00b656a652b41a3]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2013/3197/article/22) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-bfe735ecb87c0c2ea00b656a652b41a3]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2013/3197/article/22) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-692d697ec57cfcedc0e993271ee0ee63]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/3197/article/23) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-692d697ec57cfcedc0e993271ee0ee63]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/3197/article/23) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-eb8cbb66b9354f1c34d5f90d2efc1bdf]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2013/3197/article/24) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-eb8cbb66b9354f1c34d5f90d2efc1bdf]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2013/3197/article/24) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
 
-[^key-77bba40432c82adf8e3094a0e7e64714]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2013/3197/article/25) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)
+[^c-77bba40432c82adf8e3094a0e7e64714]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2013/3197/article/25) in force at 19.9.2014 in accordance with, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3197/article/1)

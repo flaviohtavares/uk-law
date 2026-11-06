@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Anonymous registration: amendment to additional requirements for applications for proxy vote in respect of a particular election[^key-44775d3d77283ec0e9fcc318eee1b8cd]
+## 20. Anonymous registration: amendment to additional requirements for applications for proxy vote in respect of a particular election[^c-44775d3d77283ec0e9fcc318eee1b8cd]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ After regulation 55(1)[^f00040] insert—
 
 ## Annotations
 
-[^key-44775d3d77283ec0e9fcc318eee1b8cd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2006/2910/regulation/20) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-44775d3d77283ec0e9fcc318eee1b8cd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2006/2910/regulation/20) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00040]: Footnote: Regulation 55 was substituted by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).

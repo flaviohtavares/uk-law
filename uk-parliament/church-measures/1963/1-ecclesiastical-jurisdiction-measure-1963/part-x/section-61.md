@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 61. Recovery of costs.[^key-5c2f29a5e3f90feb219a3f78e1bdb8ff][^key-593de69501fb778233d61e96ea1e126e][^c1021374]
+## 61. Recovery of costs.[^c-5c2f29a5e3f90feb219a3f78e1bdb8ff][^c-593de69501fb778233d61e96ea1e126e][^c1021374]
 
 *Extent: E*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5c2f29a5e3f90feb219a3f78e1bdb8ff]: Modification: [S. 61](https://www.legislation.gov.uk/ukcm/1963/1/section/61) applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-5c2f29a5e3f90feb219a3f78e1bdb8ff]: Modification: [S. 61](https://www.legislation.gov.uk/ukcm/1963/1/section/61) applied (with modifications) (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [ss. 35(1)](https://www.legislation.gov.uk/ukcm/2003/3/section/35/1), [48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
 
-[^key-593de69501fb778233d61e96ea1e126e]: Modification: [S. 61](https://www.legislation.gov.uk/ukcm/1963/1/section/61) applied (1.1.2008) by [The Care of Cathedrals Rules 2006 (S.I. 2006/1941)](https://www.legislation.gov.uk/uksi/2006/1941), [rules 1(2)](https://www.legislation.gov.uk/uksi/2006/1941/rule/1/2), [26(5)](https://www.legislation.gov.uk/uksi/2006/1941/rule/26/5)
+[^c-593de69501fb778233d61e96ea1e126e]: Modification: [S. 61](https://www.legislation.gov.uk/ukcm/1963/1/section/61) applied (1.1.2008) by [The Care of Cathedrals Rules 2006 (S.I. 2006/1941)](https://www.legislation.gov.uk/uksi/2006/1941), [rules 1(2)](https://www.legislation.gov.uk/uksi/2006/1941/rule/1/2), [26(5)](https://www.legislation.gov.uk/uksi/2006/1941/rule/26/5)
 
 [^c1021374]: Modification: [S. 61](https://www.legislation.gov.uk/ukcm/1963/1/section/61) applied by [S.I. 1990/2335](https://www.legislation.gov.uk/uksi/1990/2335), [rule 9(4)](https://www.legislation.gov.uk/uksi/1990/2335/rule/9/4)

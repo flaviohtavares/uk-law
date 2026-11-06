@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.12. Electronic monitoring requirements[^key-261055f9b8716d9f131acd092402001d]
+## 14.12. Electronic monitoring requirements[^c-261055f9b8716d9f131acd092402001d]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-261055f9b8716d9f131acd092402001d]: Commencement: [Rule 14.12](https://www.legislation.gov.uk/uksi/2025/909/rule/14.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-261055f9b8716d9f131acd092402001d]: Commencement: [Rule 14.12](https://www.legislation.gov.uk/uksi/2025/909/rule/14.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00369]: Footnote: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63); section 3(6ZAA) was substituted, with sub-section (6ZAB), for sub-section (6ZAA) as inserted by section 131 of the Criminal Justice and Police Act [2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16) by section 51 of, and paragraphs 1 and 2 of Schedule 11 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) and amended by paragraphs 1 and 3 of Schedule 11 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Monitoring and evaluation of waste prevention programmes[^key-a8ad1536c30b32e2cc9778d5ac5afcf8]
+## 6. Monitoring and evaluation of waste prevention programmes[^c-a8ad1536c30b32e2cc9778d5ac5afcf8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8ad1536c30b32e2cc9778d5ac5afcf8]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/988/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/6/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/5)
+[^c-a8ad1536c30b32e2cc9778d5ac5afcf8]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2011/988/regulation/6/1)[(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/6/2) substituted (1.10.2020) by [The Waste (Circular Economy) (Amendment) Regulations 2020 (S.I. 2020/904)](https://www.legislation.gov.uk/uksi/2020/904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/904/regulation/1/1), [15(5)](https://www.legislation.gov.uk/uksi/2020/904/regulation/15/5)

@@ -50,8 +50,8 @@ summary: ''
   - (b) the free movement of persons agreement,
 
   so far as the Agreement operates for the purposes of the case where “**specified date**” for the purposes of that Agreement has the meaning given in Article 2(b)(ii) of that Agreement;
-- “[^key-18f0789c3464299109b8a58d01edacee]**Windsor Framework**” means the part of the withdrawal agreement known as the Windsor Framework by virtue of Joint Declaration No. 1/2023 of 24 March 2023 made between the EU and the United Kingdom in the Joint Committee established by the withdrawal agreement;
-- “**withdrawal agreement**” means the agreement between the United Kingdom and the EU under Article 50(2) of the Treaty on European Union which sets out the arrangements for the United Kingdom's withdrawal from the EU as modified in relation to the Windsor Framework (and as otherwise modified from time to time in accordance with any provision of that agreement)[^key-fad8b3e47349db2d090a5395541f1f4f].
+- “[^c-18f0789c3464299109b8a58d01edacee]**Windsor Framework**” means the part of the withdrawal agreement known as the Windsor Framework by virtue of Joint Declaration No. 1/2023 of 24 March 2023 made between the EU and the United Kingdom in the Joint Committee established by the withdrawal agreement;
+- “**withdrawal agreement**” means the agreement between the United Kingdom and the EU under Article 50(2) of the Treaty on European Union which sets out the arrangements for the United Kingdom's withdrawal from the EU as modified in relation to the Windsor Framework (and as otherwise modified from time to time in accordance with any provision of that agreement)[^c-fad8b3e47349db2d090a5395541f1f4f].
 
 (2) In this Act references to before, after or on IP completion day, or to beginning with IP completion day, are to be read as references to before, after or at 11.00 p.m. on 31 December 2020 or (as the case may be) to beginning with 11.00 p.m. on that day.
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18f0789c3464299109b8a58d01edacee]: Textual amendment: Words in s. 39(1) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/164/regulation/2/4/b)
+[^c-18f0789c3464299109b8a58d01edacee]: Textual amendment: Words in s. 39(1) inserted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/164/regulation/2/4/b)
 
-[^key-fad8b3e47349db2d090a5395541f1f4f]: Textual amendment: Words in s. 39(1) substituted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/164/regulation/2/4/a)
+[^c-fad8b3e47349db2d090a5395541f1f4f]: Textual amendment: Words in s. 39(1) substituted (20.2.2024) by [The Windsor Framework (Constitutional Status of Northern Ireland) Regulations 2024 (S.I. 2024/164)](https://www.legislation.gov.uk/uksi/2024/164), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/164/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/164/regulation/2/4/a)

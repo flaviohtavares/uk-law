@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**27.**[^key-5b9c71cdd1e608e8bac7f26f15e0e924] (1) The functions of a Local Medical Committee which are prescribed for the purposes of Article 55B(7) (Local Medical Committees) of the Order[^f00046] are –
+**27.**[^c-5b9c71cdd1e608e8bac7f26f15e0e924] (1) The functions of a Local Medical Committee which are prescribed for the purposes of Article 55B(7) (Local Medical Committees) of the Order[^f00046] are –
 
 - (a) the consideration of any complaint made to it by any medical practitioner against a medical practitioner specified in paragraph (2) providing services under a contract in the relevant area involving any question of the efficiency of those services;
 - (b) the reporting of the outcome of the consideration of such complaint to the Board with whom the contract is held in cases where that consideration gives rise to any concerns relating to the efficiency of services provided under a contract;
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5b9c71cdd1e608e8bac7f26f15e0e924]: Commencement: Reg. 27 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-5b9c71cdd1e608e8bac7f26f15e0e924]: Commencement: Reg. 27 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00046]: Footnote: Article 55B was inserted into the Order by paragraph 9 of Schedule 1 to the 2004 Order

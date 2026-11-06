@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Service of documents[^key-a98600a35fb6b958fcceeec028fa75be]
+## 66. Service of documents[^c-a98600a35fb6b958fcceeec028fa75be]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a98600a35fb6b958fcceeec028fa75be]: Commencement: Reg. 66 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-a98600a35fb6b958fcceeec028fa75be]: Commencement: Reg. 66 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

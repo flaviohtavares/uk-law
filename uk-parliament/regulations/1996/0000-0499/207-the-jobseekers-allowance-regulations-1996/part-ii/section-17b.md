@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 17B. Further circumstances in which a person is to be treated as available: lone parents with children aged 5 not in full-time education[^key-542726ba98a3898c7b5e407310bf915d]
+## 17B. Further circumstances in which a person is to be treated as available: lone parents with children aged 5 not in full-time education[^c-542726ba98a3898c7b5e407310bf915d]
 
 A lone parent shall be treated as available for employment in any week where—
 
@@ -26,4 +26,4 @@ A lone parent shall be treated as available for employment in any week where—
 
 ## Annotations
 
-[^key-542726ba98a3898c7b5e407310bf915d]: Textual amendment: Reg. 17B inserted (21.5.2012) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/874)](https://www.legislation.gov.uk/uksi/2012/874), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/874/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/874/regulation/3/2)
+[^c-542726ba98a3898c7b5e407310bf915d]: Textual amendment: Reg. 17B inserted (21.5.2012) by [The Social Security (Lone Parents and Miscellaneous Amendments) Regulations 2012 (S.I. 2012/874)](https://www.legislation.gov.uk/uksi/2012/874), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/874/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2012/874/regulation/3/2)

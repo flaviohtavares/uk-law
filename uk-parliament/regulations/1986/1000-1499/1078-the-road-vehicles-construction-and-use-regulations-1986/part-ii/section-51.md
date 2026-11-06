@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Sideguards[^key-2c8412db51b33bfe8b20051dec4bcdff]
+## 51. Sideguards[^c-2c8412db51b33bfe8b20051dec4bcdff]
 
 *Extent: E+W+S*
 
@@ -50,7 +50,7 @@ summary: ''
 - (o) a trailer having a base or centre in a country outside Great Britain from which it normally starts its journeys, provided that a period of not more than 12 months has elapsed since the vehicle was last brought into Great Britain; or
 - (p) an agricultural trailed appliance.
 
-(2A)[^key-e92759c25750d5d128adb1a5743f2ac0] This regulation also applies to a wheeled goods vehicle, whether of a description falling within paragraph (2) or not, which is—
+(2A)[^c-e92759c25750d5d128adb1a5743f2ac0] This regulation also applies to a wheeled goods vehicle, whether of a description falling within paragraph (2) or not, which is—
 
 - (a) a semi-trailer some or all of the wheels of which are driven by the drawing vehicle; or
 - (b) a vehicle first used on or after 1 April 2025 and which is of a type required to be fitted with lateral protection in accordance with [Regulation (EU) 2018/858](https://www.legislation.gov.uk/european/regulation/2018/0858) of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles.
@@ -78,7 +78,7 @@ summary: ''
 - (i) no sideguard shall be more than 30 mm inboard from the tangential plane;
 - (j) no sideguard shall project beyond the longitudinal plane from which, in the absence of a sideguard, the vehicle's overall width would fall to be measured;
 - (k) every sideguard shall cover an area extending to at least 100 mm upwards from its lowest edge 100 mm downwards from its highest edge, and 100 mm rearwards and inwards from its foremost edge, and no sideguard shall have a vertical gap measuring more than 300 mm nor any vertical surface measuring less than 100 mm; and
-- (l) except in the case of a vehicle described in paragraph (1) *(c)* every sideguard shall be capable of withstanding a force of 2 kilonewtons (or 1 kilonewton in the case of a vehicle described in paragraph (2A)(b))[^key-81ea127df6ba18b75a93bba256e8bac0] applied perpendicularly to any part of its surface by the centre of a ram the face of which is circular and not more than 220 mm in diameter, and during such application—
+- (l) except in the case of a vehicle described in paragraph (1) *(c)* every sideguard shall be capable of withstanding a force of 2 kilonewtons (or 1 kilonewton in the case of a vehicle described in paragraph (2A)(b))[^c-81ea127df6ba18b75a93bba256e8bac0] applied perpendicularly to any part of its surface by the centre of a ram the face of which is circular and not more than 220 mm in diameter, and during such application—
   - (i) no part of the sideguard shall be deflected by more than 150 mm, and
   - (ii) no part of the sideguard which is less than 250 mm from its rearmost part shall be deflected by more than 30 mm.
 
@@ -122,14 +122,14 @@ TABLE
 - “**relevant train weight**” means the train weight shown in column 2 of the Ministry plate, where fitted, and in other cases the maximum train weight shown at item 8 of the plate fitted in accordance with regulation 66; and
 - “**tangential plane**”, in relation to a sideguard, means the vertical plane tangential to the external face of the outermost part of the tyre (excluding any distortion caused by the weight of the vehicle) fitted to the outermost wheel at the rear and on the same side of the vehicle.
 
-(9)[^key-10b94b67f7f84303ed51f4a0acb1a89f] Instead of complying with the foregoing provisions of this regulation a vehicle may comply with Community Directive 89/297.
+(9)[^c-10b94b67f7f84303ed51f4a0acb1a89f] Instead of complying with the foregoing provisions of this regulation a vehicle may comply with Community Directive 89/297.
 
 ## Annotations
 
-[^key-2c8412db51b33bfe8b20051dec4bcdff]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1986/1078/regulation/51) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-2c8412db51b33bfe8b20051dec4bcdff]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/1986/1078/regulation/51) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-e92759c25750d5d128adb1a5743f2ac0]: Textual amendment: [Reg. 51(2A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/51/2A) substituted (1.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1312)](https://www.legislation.gov.uk/uksi/2024/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/5/a)
+[^c-e92759c25750d5d128adb1a5743f2ac0]: Textual amendment: [Reg. 51(2A)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/51/2A) substituted (1.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1312)](https://www.legislation.gov.uk/uksi/2024/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/5/a)
 
-[^key-81ea127df6ba18b75a93bba256e8bac0]: Textual amendment: Words in [reg. 51(5)(l)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/51/5/l) inserted (1.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1312)](https://www.legislation.gov.uk/uksi/2024/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/5/b)
+[^c-81ea127df6ba18b75a93bba256e8bac0]: Textual amendment: Words in [reg. 51(5)(l)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/51/5/l) inserted (1.4.2025) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/1312)](https://www.legislation.gov.uk/uksi/2024/1312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2024/1312/regulation/5/b)
 
-[^key-10b94b67f7f84303ed51f4a0acb1a89f]: Textual amendment: [Reg. 51(9)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/51/9) inserted (30.10.1989) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1989 (S.I. 1989/1695)](https://www.legislation.gov.uk/uksi/1989/1695), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1695/regulation/1), [3](https://www.legislation.gov.uk/uksi/1989/1695/regulation/3) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/1989/1695/regulation/2/2))
+[^c-10b94b67f7f84303ed51f4a0acb1a89f]: Textual amendment: [Reg. 51(9)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/51/9) inserted (30.10.1989) by [The Road Vehicles (Construction and Use) (Amendment) (No. 2) Regulations 1989 (S.I. 1989/1695)](https://www.legislation.gov.uk/uksi/1989/1695), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1695/regulation/1), [3](https://www.legislation.gov.uk/uksi/1989/1695/regulation/3) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/1989/1695/regulation/2/2))

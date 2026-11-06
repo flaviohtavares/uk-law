@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Disregard of certain interests and improvements[^key-578884368d194a58b2a75cdfa02118d1]
+## 37. Disregard of certain interests and improvements[^c-578884368d194a58b2a75cdfa02118d1]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ if the Upper Tribunal is satisfied that the creation of the interest, the erecti
 
 ## Annotations
 
-[^key-578884368d194a58b2a75cdfa02118d1]: Commencement: Art. 37 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-578884368d194a58b2a75cdfa02118d1]: Commencement: Art. 37 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

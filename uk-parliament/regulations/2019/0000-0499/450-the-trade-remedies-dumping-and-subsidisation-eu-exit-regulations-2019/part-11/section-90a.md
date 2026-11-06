@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90A. Secretary of State’s power to apply an alternative remedy[^key-6329db338ff424aacd20cfad042b4153]
+## 90A. Secretary of State’s power to apply an alternative remedy[^c-6329db338ff424aacd20cfad042b4153]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6329db338ff424aacd20cfad042b4153]: Textual amendment: [Reg. 90A](https://www.legislation.gov.uk/uksi/2019/450/regulation/90A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2024/545/regulation/30) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-6329db338ff424aacd20cfad042b4153]: Textual amendment: [Reg. 90A](https://www.legislation.gov.uk/uksi/2019/450/regulation/90A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2024/545/regulation/30) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

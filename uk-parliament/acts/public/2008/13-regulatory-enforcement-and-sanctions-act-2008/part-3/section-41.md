@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Fixed monetary penalties: criminal proceedings and conviction[^key-ec7d9953099fb93e1230b181a9700244]
+## 41. Fixed monetary penalties: criminal proceedings and conviction[^c-ec7d9953099fb93e1230b181a9700244]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ Provision under section 39 must secure that—
 
 ## Annotations
 
-[^key-ec7d9953099fb93e1230b181a9700244]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2008/13/part/3) modified (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(1)](https://www.legislation.gov.uk/anaw/2016/3/section/68/1), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)
+[^c-ec7d9953099fb93e1230b181a9700244]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2008/13/part/3) modified (18.10.2023) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 68(1)](https://www.legislation.gov.uk/anaw/2016/3/section/68/1), [88(3)(b)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/b); [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(c)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/c)

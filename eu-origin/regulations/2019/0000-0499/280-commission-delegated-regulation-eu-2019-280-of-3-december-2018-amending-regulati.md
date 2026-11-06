@@ -35,26 +35,26 @@ amending Regulation (EC) No 138/2004 of the European Parliament and of the Counc
 
 (Text with EEA relevance) (revoked)
 
-[^key-a6c536927ef5ada3e0b61ee68b2332ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6c536927ef5ada3e0b61ee68b2332ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a6c536927ef5ada3e0b61ee68b2332ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a6c536927ef5ada3e0b61ee68b2332ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a6c536927ef5ada3e0b61ee68b2332ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a6c536927ef5ada3e0b61ee68b2332ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a6c536927ef5ada3e0b61ee68b2332ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6c536927ef5ada3e0b61ee68b2332ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-a6c536927ef5ada3e0b61ee68b2332ec]
+## ANNEX I[^c-a6c536927ef5ada3e0b61ee68b2332ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-a6c536927ef5ada3e0b61ee68b2332ec]
+## ANNEX II[^c-a6c536927ef5ada3e0b61ee68b2332ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6c536927ef5ada3e0b61ee68b2332ec]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/101)
+[^c-a6c536927ef5ada3e0b61ee68b2332ec]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 101](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/101)

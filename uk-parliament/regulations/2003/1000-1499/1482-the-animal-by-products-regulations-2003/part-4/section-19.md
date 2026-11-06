@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Sampling at biogas and composting plants[^key-36ce52ac1085340c298f3353a5d46034]
+## 19. Sampling at biogas and composting plants[^c-36ce52ac1085340c298f3353a5d46034]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36ce52ac1085340c298f3353a5d46034]: Textual amendment: Regulations revoked (28.9.2005) by [The Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(2)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/2)
+[^c-36ce52ac1085340c298f3353a5d46034]: Textual amendment: Regulations revoked (28.9.2005) by [The Animal By-Products Regulations 2005 (S.I. 2005/2347)](https://www.legislation.gov.uk/uksi/2005/2347), [regs. 1](https://www.legislation.gov.uk/uksi/2005/2347/regulation/1), [54(2)](https://www.legislation.gov.uk/uksi/2005/2347/regulation/54/2)

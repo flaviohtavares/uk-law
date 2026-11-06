@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Recovery in a court of competent jurisdiction[^key-56b91482e9f9a3a01b7d8d57daa67fa9]
+## 106. Recovery in a court of competent jurisdiction[^c-56b91482e9f9a3a01b7d8d57daa67fa9]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ may (as an alternative to recovery under a liability order) be recovered in a co
 
 ## Annotations
 
-[^key-56b91482e9f9a3a01b7d8d57daa67fa9]: Commencement: Reg. 106 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-56b91482e9f9a3a01b7d8d57daa67fa9]: Commencement: Reg. 106 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

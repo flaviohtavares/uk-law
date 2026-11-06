@@ -22,7 +22,7 @@ summary: ''
 
 Article 38
 
-### 1. Applications made for certain approvals[^key-5efaabac717d9318e0f5a8d900e4c327]
+### 1. Applications made for certain approvals[^c-5efaabac717d9318e0f5a8d900e4c327]
 
 (1) Where an application has been made to a discharging authority for any consent, agreement or approval required or contemplated by any of the requirements within Part 3 of Schedule 1 (requirements) to this Order—
 
@@ -37,7 +37,7 @@ Article 38
 - (b) where further information is requested under paragraph 2 (further information) 42 days from the day immediately following that on which the further information has been supplied by the undertaker under paragraph 2; or
 - (c) such longer period as may be agreed by the undertaker and the discharging authority in writing before the end of the period in sub-paragraph (a) or (b).
 
-### 2. Further information[^key-df624dab5685e4199c634fb3be94b7f5]
+### 2. Further information[^c-df624dab5685e4199c634fb3be94b7f5]
 
 (1) In relation to any application to which this Schedule applies, the discharging authority has the right to request such further information from the undertaker as is reasonably necessary to enable it to consider the application.
 
@@ -47,7 +47,7 @@ Article 38
 
 (4) A discharging authority may request further information under sub-paragraph (1) on more than one occasion provided that all such requests are made within the period specified by sub-paragraph (2).
 
-### 3. Appeals[^key-23a7bd811e5b38f94168ceaae6730e06]
+### 3. Appeals[^c-23a7bd811e5b38f94168ceaae6730e06]
 
 (1) The undertaker may appeal to the Secretary of State in the event that—
 
@@ -90,7 +90,7 @@ whichever is later.
 
 (11) On application by the discharging authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to Planning Practice Guidance on the award of costs or any circular or guidance which may from time to time replace it.
 
-### 4. Interpretation of Schedule 16[^key-e317638cca0146bbfb4732992bf820e5]
+### 4. Interpretation of Schedule 16[^c-e317638cca0146bbfb4732992bf820e5]
 
 In this Schedule—
 
@@ -101,10 +101,10 @@ In this Schedule—
 
 ## Annotations
 
-[^key-5efaabac717d9318e0f5a8d900e4c327]: Commencement: Sch. 16 para. 1 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-5efaabac717d9318e0f5a8d900e4c327]: Commencement: Sch. 16 para. 1 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
-[^key-df624dab5685e4199c634fb3be94b7f5]: Commencement: Sch. 16 para. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-df624dab5685e4199c634fb3be94b7f5]: Commencement: Sch. 16 para. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
-[^key-23a7bd811e5b38f94168ceaae6730e06]: Commencement: Sch. 16 para. 3 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-23a7bd811e5b38f94168ceaae6730e06]: Commencement: Sch. 16 para. 3 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
-[^key-e317638cca0146bbfb4732992bf820e5]: Commencement: Sch. 16 para. 4 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-e317638cca0146bbfb4732992bf820e5]: Commencement: Sch. 16 para. 4 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)

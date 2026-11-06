@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Fees to meet Treasury expenditure relating to international organisations[^key-f2ce6a8e9b3fea23340d3fe41ce4e048]
+## 135. Fees to meet Treasury expenditure relating to international organisations[^c-f2ce6a8e9b3fea23340d3fe41ce4e048]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,4 +93,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2ce6a8e9b3fea23340d3fe41ce4e048]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2013/33/section/135) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-f2ce6a8e9b3fea23340d3fe41ce4e048]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2013/33/section/135) in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

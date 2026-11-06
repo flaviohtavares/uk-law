@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.14. Service of petition[^key-28a2ab52dc1b79b2d92471b19438607d]
+## 6.14. Service of petition[^c-28a2ab52dc1b79b2d92471b19438607d]
 
 *Extent: E+W*
 
@@ -26,16 +26,16 @@ summary: ''
 
 (3) [^m00130] Where an order for substituted service has been carried out, the petition is deemed duly served on the debtor.
 
-(4)[^key-c4972cd8c68e46faf9e5c3a8350d233a] If to the petitioner’s knowledge there is in force for the debtor a voluntary arrangement under Part VIII of the Act, and the petitioner is not himself the supervisor of the arrangement, a copy of the petition shall be sent by him to the supervisor.
+(4)[^c-c4972cd8c68e46faf9e5c3a8350d233a] If to the petitioner’s knowledge there is in force for the debtor a voluntary arrangement under Part VIII of the Act, and the petitioner is not himself the supervisor of the arrangement, a copy of the petition shall be sent by him to the supervisor.
 
-(5)[^key-19fe107c7f3b995e09d14fbb88212679] If to the petitioner’s knowledge, there is a member State liquidator appointed in main proceedings in relation to the bankrupt, a copy of the petition shall be sent by him to the member State liquidator.
+(5)[^c-19fe107c7f3b995e09d14fbb88212679] If to the petitioner’s knowledge, there is a member State liquidator appointed in main proceedings in relation to the bankrupt, a copy of the petition shall be sent by him to the member State liquidator.
 
 ## Annotations
 
-[^key-28a2ab52dc1b79b2d92471b19438607d]: Commencement: [Rule 6.14](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.14) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-28a2ab52dc1b79b2d92471b19438607d]: Commencement: [Rule 6.14](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.14) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00130]: Marginal citation: \[FORM 6.15\] \[\[FORM 6.16\]
 
-[^key-c4972cd8c68e46faf9e5c3a8350d233a]: Textual amendment: [Rule 6.14(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.14/4) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 95](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/95)
+[^c-c4972cd8c68e46faf9e5c3a8350d233a]: Textual amendment: [Rule 6.14(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.14/4) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 95](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/95)
 
-[^key-19fe107c7f3b995e09d14fbb88212679]: Textual amendment: Rule 6.14(5) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/2) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))
+[^c-19fe107c7f3b995e09d14fbb88212679]: Textual amendment: Rule 6.14(5) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/2) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/article/3))

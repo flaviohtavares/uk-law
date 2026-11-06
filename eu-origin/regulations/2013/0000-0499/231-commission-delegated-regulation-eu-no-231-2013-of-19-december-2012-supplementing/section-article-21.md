@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In order to establish whether an AIFM conducts its activities honestly, fairly and with due skills, the FCA[^key-a9677730671cb5beaeaa26dbaa28e4de] shall assess, at least, whether the following conditions are met:
+In order to establish whether an AIFM conducts its activities honestly, fairly and with due skills, the FCA[^c-a9677730671cb5beaeaa26dbaa28e4de] shall assess, at least, whether the following conditions are met:
 
 - ((a)) the governing body of the AIFM possesses adequate collective knowledge, skills and experience to be able to understand the AIFM’s activities, in particular the main risks involved in those activities and the assets in which the AIF is invested;
 - ((b)) the members of the governing body commit sufficient time to properly perform their functions in the AIFM;
@@ -29,4 +29,4 @@ In order to establish whether an AIFM conducts its activities honestly, fairly a
 
 ## Annotations
 
-[^key-a9677730671cb5beaeaa26dbaa28e4de]: Textual amendment: Words in Art. 21 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9677730671cb5beaeaa26dbaa28e4de]: Textual amendment: Words in Art. 21 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

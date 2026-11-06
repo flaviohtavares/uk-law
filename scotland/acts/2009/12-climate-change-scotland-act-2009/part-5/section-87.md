@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Finance of scheme administrator[^key-c4a896124aecbfa19fa0d597ff03b53b]
+## 87. Finance of scheme administrator[^c-c4a896124aecbfa19fa0d597ff03b53b]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ to the administrator of such amounts as Ministers may determine.
 
 ## Annotations
 
-[^key-c4a896124aecbfa19fa0d597ff03b53b]: Commencement: S. 87 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-c4a896124aecbfa19fa0d597ff03b53b]: Commencement: S. 87 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

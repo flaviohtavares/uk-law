@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Attendance at meetings of bank’s personnel[^key-4cd5d6d93cc49171150951026a97e3c9]
+## 46. Attendance at meetings of bank’s personnel[^c-4cd5d6d93cc49171150951026a97e3c9]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.065 of the 1991 Rules.
 
 ## Annotations
 
-[^key-4cd5d6d93cc49171150951026a97e3c9]: Commencement: Rule 46 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-4cd5d6d93cc49171150951026a97e3c9]: Commencement: Rule 46 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

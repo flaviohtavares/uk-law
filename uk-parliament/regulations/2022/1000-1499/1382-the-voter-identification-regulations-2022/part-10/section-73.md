@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Amendment of regulation 19 (equipment at petition signing place)[^key-39b4f6c65f23b3b4fb3dfe0be96d60d4]
+## 73. Amendment of regulation 19 (equipment at petition signing place)[^c-39b4f6c65f23b3b4fb3dfe0be96d60d4]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ In regulation 19 (equipment at petition signing place)—
 
 ## Annotations
 
-[^key-39b4f6c65f23b3b4fb3dfe0be96d60d4]: Commencement: Reg. 73 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-39b4f6c65f23b3b4fb3dfe0be96d60d4]: Commencement: Reg. 73 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

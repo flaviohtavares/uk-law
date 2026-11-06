@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — CIRCUMSTANCES IN WHICH FUNCTIONS ARE NOT TO BE THE RESPONSIBILITY OF AN AUTHORITY'S EXECUTIVE[^key-5547e5173a7d56e20365299e1eb31a4a]
+## SCHEDULE 4 — CIRCUMSTANCES IN WHICH FUNCTIONS ARE NOT TO BE THE RESPONSIBILITY OF AN AUTHORITY'S EXECUTIVE[^c-5547e5173a7d56e20365299e1eb31a4a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ Regulation 5(1)
 
 ## Annotations
 
-[^key-5547e5173a7d56e20365299e1eb31a4a]: Commencement: Sch. 4 in force at 16.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/1/1)
+[^c-5547e5173a7d56e20365299e1eb31a4a]: Commencement: Sch. 4 in force at 16.11.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/1/1)

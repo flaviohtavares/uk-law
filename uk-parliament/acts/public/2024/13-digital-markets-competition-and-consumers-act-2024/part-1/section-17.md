@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Existing obligations[^key-75d8b1452eb37e8e1b81417445d6b3f0][^key-4bd3e75cdff6087b9a8b8e794856efcd]
+## 17. Existing obligations[^c-75d8b1452eb37e8e1b81417445d6b3f0][^c-4bd3e75cdff6087b9a8b8e794856efcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ that is in force in relation to a designated undertaking in respect of the relev
 
 ## Annotations
 
-[^key-75d8b1452eb37e8e1b81417445d6b3f0]: Commencement: S. 17 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-75d8b1452eb37e8e1b81417445d6b3f0]: Commencement: S. 17 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4bd3e75cdff6087b9a8b8e794856efcd]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2024/13/section/17) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-4bd3e75cdff6087b9a8b8e794856efcd]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2024/13/section/17) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Pension credit member’s pension[^key-53c7f024c26552fb3874ee75db389752]
+## 47. Pension credit member’s pension[^c-53c7f024c26552fb3874ee75db389752]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53c7f024c26552fb3874ee75db389752]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/2336/regulation/47) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-53c7f024c26552fb3874ee75db389752]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2014/2336/regulation/47) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Hydrocarbon oil as ingredient of imported goods.[^c11241351][^key-36190453a289a0b9182bcb25859dcbe7]
+## 3. Hydrocarbon oil as ingredient of imported goods.[^c11241351][^c-36190453a289a0b9182bcb25859dcbe7]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Where imported goods contain hydrocarbon oil as a part or ingredient thereof, th
 
 [^c11241351]: Modification: S. 3 modified (26.7.2002) by [S.I. 2002/1928](https://www.legislation.gov.uk/uksi/2002/1928), [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2002/1928/regulation/3/2/a)
 
-[^key-36190453a289a0b9182bcb25859dcbe7]: Modification: S. 3 modified (1.9.2004) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) Regulations 2004 (S.I. 2004/2065)](https://www.legislation.gov.uk/uksi/2004/2065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/3/2/a)
+[^c-36190453a289a0b9182bcb25859dcbe7]: Modification: S. 3 modified (1.9.2004) by [The Biofuels and Other Fuel Substitutes (Payment of Excise Duties etc.) Regulations 2004 (S.I. 2004/2065)](https://www.legislation.gov.uk/uksi/2004/2065), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2004/2065/regulation/3/2/a)

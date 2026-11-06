@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-276f3c71a901cd3777b2d46e42fd7929] The Regulator must make arrangements to enable and assist tenants of social landlords to provide it with information on significant performance failures by social landlords.
+(1)[^c-276f3c71a901cd3777b2d46e42fd7929] The Regulator must make arrangements to enable and assist tenants of social landlords to provide it with information on significant performance failures by social landlords.
 
-(2)[^key-b1983696320210165950757ac124b69d] The Regulator must publish a statement setting out—
+(2)[^c-b1983696320210165950757ac124b69d] The Regulator must publish a statement setting out—
 
 - (a) what it considers to be a significant performance failure (with reference to standards and outcomes in the Scottish Social Housing Charter, performance improvement targets, financial management and governance targets and the code of conduct issued under section 36), and
 - (b) details of its arrangements (including details of how it will deal with information provided and how it will respond to tenants).
 
 ## Annotations
 
-[^key-276f3c71a901cd3777b2d46e42fd7929]: Commencement: S. 47(1) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-276f3c71a901cd3777b2d46e42fd7929]: Commencement: S. 47(1) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
-[^key-b1983696320210165950757ac124b69d]: Commencement: S. 47(2) in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-b1983696320210165950757ac124b69d]: Commencement: S. 47(2) in force at 1.4.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

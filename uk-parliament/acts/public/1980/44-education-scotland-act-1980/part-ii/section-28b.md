@@ -34,7 +34,7 @@ summary: ''
 
 In paragraph (d) above, “**prescribed or determined information**” means information prescribed or determined under subsection (3)(c) below.
 
-(1A)[^key-ef00a342badcacff01b97a494b647e07] In the application of subsection (1)(b)(ii) above in relation to a child who has additional support needs—
+(1A)[^c-ef00a342badcacff01b97a494b647e07] In the application of subsection (1)(b)(ii) above in relation to a child who has additional support needs—
 
 - (a) for the reference to section 28A(1) and (2) of this Act there shall be substituted a reference to paragraph 2 of schedule 2 to the Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4), and
 - (b) “ **placing request** ” means a placing request within the meaning of that Act.
@@ -51,4 +51,4 @@ In paragraph (d) above, “**prescribed or determined information**” means inf
 
 ## Annotations
 
-[^key-ef00a342badcacff01b97a494b647e07]: Textual amendment: S. 28B(1A) inserted (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(6)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/6); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-ef00a342badcacff01b97a494b647e07]: Textual amendment: S. 28B(1A) inserted (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(6)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/6); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)

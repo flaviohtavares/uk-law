@@ -32,7 +32,7 @@ summary: ''
 
 Electromagnetic Compatibility
 
-The Wireless Telegraphy (Control of Interference from Apparatus) (The London Olympic Games and Paralympic Games) Regulations 2012 (revoked)[^key-e4dd411dc046a82d714e68620c65e6f7]
+The Wireless Telegraphy (Control of Interference from Apparatus) (The London Olympic Games and Paralympic Games) Regulations 2012 (revoked)[^c-e4dd411dc046a82d714e68620c65e6f7]
 
 Made
 
@@ -46,37 +46,37 @@ Coming into force
 
 23rd July 2012
 
-[^key-e4dd411dc046a82d714e68620c65e6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4dd411dc046a82d714e68620c65e6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-e4dd411dc046a82d714e68620c65e6f7]
+## 1. Citation, commencement and extent[^c-e4dd411dc046a82d714e68620c65e6f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e4dd411dc046a82d714e68620c65e6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e4dd411dc046a82d714e68620c65e6f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-e4dd411dc046a82d714e68620c65e6f7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 4. Requirement[^key-e4dd411dc046a82d714e68620c65e6f7]
+## 3. Interpretation[^c-e4dd411dc046a82d714e68620c65e6f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Use of Apparatus during the London Olympic Games and Paralympic Games[^key-e4dd411dc046a82d714e68620c65e6f7]
+## 4. Requirement[^c-e4dd411dc046a82d714e68620c65e6f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Radio Equipment and Telecommunications Terminal Equipment[^key-e4dd411dc046a82d714e68620c65e6f7]
+## 5. Use of Apparatus during the London Olympic Games and Paralympic Games[^c-e4dd411dc046a82d714e68620c65e6f7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e4dd411dc046a82d714e68620c65e6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 6. Radio Equipment and Telecommunications Terminal Equipment[^c-e4dd411dc046a82d714e68620c65e6f7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-e4dd411dc046a82d714e68620c65e6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-e4dd411dc046a82d714e68620c65e6f7]
+## SCHEDULE[^c-e4dd411dc046a82d714e68620c65e6f7]
 
 Regulation 3
 
@@ -84,8 +84,8 @@ Regulation 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-e4dd411dc046a82d714e68620c65e6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e4dd411dc046a82d714e68620c65e6f7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e4dd411dc046a82d714e68620c65e6f7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1519) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-e4dd411dc046a82d714e68620c65e6f7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/1519) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

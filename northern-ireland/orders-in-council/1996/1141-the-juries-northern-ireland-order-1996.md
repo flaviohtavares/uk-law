@@ -42,14 +42,14 @@ This Order may be cited as the Juries (Northern Ireland) Order 1996 and shall co
 
 (2) In this Order—
 
-- “anonymous entry” has the same meaning as in the Representation of the People Act 1983 (see section 202(1) of that Act);[^key-cde349a6286db27d44f83c78093ea559]
+- “anonymous entry” has the same meaning as in the Representation of the People Act 1983 (see section 202(1) of that Act);[^c-cde349a6286db27d44f83c78093ea559]
 
 - “Chief Electoral Officer” has the meaning assigned to it by section 130(1) of the [^m00002] Electoral Law Act (Northern Ireland) 1962;
-- “[^key-698e012b93804a6b01b4baf2e6171ee5]**division**” means an administrative court division specified under section 2(2)(a) of the Justice Act (Northern Ireland) Act 2015 for all purposes of a county court or, if different administrative court divisions are specified for different purposes of a county court, an administrative court division specified under section 2(2)(c) of that Act for the residual purposes of the court;
+- “[^c-698e012b93804a6b01b4baf2e6171ee5]**division**” means an administrative court division specified under section 2(2)(a) of the Justice Act (Northern Ireland) Act 2015 for all purposes of a county court or, if different administrative court divisions are specified for different purposes of a county court, an administrative court division specified under section 2(2)(c) of that Act for the residual purposes of the court;
 - “the Divisional Jurors List” has the meaning given by Article 4(6) ;
 - “elector” means a local elector as defined in the Electoral Law Act (Northern Ireland) 1962;
 - “fixed”, in relation to a fee, means fixed in accordance with section 116(1) of the [^m00004] Judicature (Northern Ireland) Act 1978;
-- “[^key-421e35121c303c06a9f9c5e9b7b00f91]**Juries Officer**”, in relation to a division, means such officer of the Department as may be designated by the Department in relation to that division;
+- “[^c-421e35121c303c06a9f9c5e9b7b00f91]**Juries Officer**”, in relation to a division, means such officer of the Department as may be designated by the Department in relation to that division;
 - “the Jurors List” has the meaning given by Article 4(9);
 - “jury service” means service on any jury for the trial of any issue, civil or criminal, joined in and triable by any court in Northern Ireland in which such issues are required to be tried by a jury and on any inquiry to be taken or made by or before any master in the Court of Judicature[^c21415181] and references to “juror” and “jury” shall be construed accordingly;
 - “officer of the court” means a person designated as a chief clerk under Article 2(2) of the County Courts (Northern Ireland) Order 1980 or another civil servant in the Department of Justice whose work relates to the administration of the courts[^c21947051];
@@ -66,7 +66,7 @@ This Order may be cited as the Juries (Northern Ireland) Order 1996 and shall co
 
 ### 3. Qualification for jury service
 
-(1) Subject to paragraphs (2) to (4), every person who is aged over 18 years[^key-b14fdae163981633f2ff1ac62cecb945] and is registered as an elector is qualified and liable for jury service.
+(1) Subject to paragraphs (2) to (4), every person who is aged over 18 years[^c-b14fdae163981633f2ff1ac62cecb945] and is registered as an elector is qualified and liable for jury service.
 
 (2) The persons described in Schedule 1 are disqualified for jury service.
 
@@ -91,7 +91,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 
 - (a) to select every xth elector (where x is a number fixed by the Chief Electoral Officer having regard to the required number of jurors); and
 - (b) not to select those electors—
-  - (i)[^key-dc138e62c5aa3f6cdf0148ffcf701d73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-dc138e62c5aa3f6cdf0148ffcf701d73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) who have been selected in the preceding y years (where y is a number fixed by the Chief Electoral Officer, having regard to the required number of jurors).
 
 (3) The Chief Electoral Officer shall arrange to be sent to the Juries Officer for each division a list of those persons selected who reside in the division and the Juries Officer shall serve the prescribed notice and the prescribed form of return on every person [^c20474351]. . . included in the list.
@@ -103,7 +103,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 - (c) the person's date of birth; and
 - (d) the person's national insurance number or a statement that he does not have one.
 
-(3B)[^key-9fa9c75fea589964f82f2239541bdf26] The list referred to in paragraph (3) shall identify any person who has an anonymous entry in the register of electors.
+(3B)[^c-9fa9c75fea589964f82f2239541bdf26] The list referred to in paragraph (3) shall identify any person who has an anonymous entry in the register of electors.
 
 (4) The notice served under paragraph (3) shall—
 
@@ -122,9 +122,9 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 - (d) the person's national insurance number or a statement that he does not have one; and
 - (e) subject to paragraph (10)(b), the person's occupation.
 
-(7A)[^key-372ad67941351e5ecf0a86bd54680df6] The Divisional Jurors list shall identify any person who has an anonymous entry in the register of electors.
+(7A)[^c-372ad67941351e5ecf0a86bd54680df6] The Divisional Jurors list shall identify any person who has an anonymous entry in the register of electors.
 
-(8) The Divisional Jurors List shall contain such other particulars and be arranged in such form (including division into Parts [^key-e93023a520a6b0f532b456d05fde6469]...) as may be prescribed.
+(8) The Divisional Jurors List shall contain such other particulars and be arranged in such form (including division into Parts [^c-e93023a520a6b0f532b456d05fde6469]...) as may be prescribed.
 
 (9) The several Divisional Jurors Lists shall collectively form the Jurors List for Northern Ireland (to be known as “the Jurors List”).
 
@@ -133,7 +133,7 @@ shall be guilty of an offence and shall be liable on summary conviction to a fin
 - (a)[^c20474691] the day and period mentioned in paragraph (1), and
 - (b) the requirement in paragraph (7) for the Divisional Jurors List to contain the occupation of each juror,
 
-and may prescribe any other particulars which the Divisional Jurors List shall contain and the form of that List (including its division into Parts [^key-282f5f5fa6c0d428f9907d94568ad61d]...).
+and may prescribe any other particulars which the Divisional Jurors List shall contain and the form of that List (including its division into Parts [^c-282f5f5fa6c0d428f9907d94568ad61d]...).
 
 (11) In this Article—
 
@@ -159,7 +159,7 @@ and may prescribe any other particulars which the Divisional Jurors List shall c
 
 (6) In paragraph (5) “relevant division” means—
 
-- (a)[^key-945f76ab6b84c88b06cdbd145366bc17] a division in which the relevant magistrates' court sat;
+- (a)[^c-945f76ab6b84c88b06cdbd145366bc17] a division in which the relevant magistrates' court sat;
 - (b) in a case where the indictment falls within paragraph (c), (d), (c) or (f) of section 2(2) of the [^m00007] Grand Jury (Abolition) Act (Northern Ireland) 1969, a division in which an offence charged in the indictment was committed.
 
 (7) In paragraph (6)(a) “relevant magistrates' court” means a magistrates' court—
@@ -178,7 +178,7 @@ and may prescribe any other particulars which the Divisional Jurors List shall c
 - (c) the person's national insurance number or a statement that he does not have one; and
 - (d) (subject to Article 4(10)(b)) the person's occupation.
 
-(1B)[^key-1bfdf837e8044d53cadedfa31a1a5782] The panel shall identify any person who has an anonymous entry in the register of electors.
+(1B)[^c-1bfdf837e8044d53cadedfa31a1a5782] The panel shall identify any person who has an anonymous entry in the register of electors.
 
 (2) When the Juries Officer selects names in accordance with Article 5 he shall inscribe the date of selection and the court for which the names are selected opposite each of those names in the proper column of the Jurors List and shall initial in that list the names selected by him.
 
@@ -392,9 +392,9 @@ the court may impose on him a fine not exceeding £1,000.
 
 (2) Section 35 of the [^m00010] Criminal Justice Act (Northern Ireland) 1945 (powers of Crown Court in relation to fines, etc.) shall apply to fines imposed under this Article by any court as it applies to fines imposed by the Crown Court.
 
-### 26A. Restriction on disclosure of juror information or anonymous elector information[^c20475301][^key-b38caec33a4c0df869b959f571b89f06]
+### 26A. Restriction on disclosure of juror information or anonymous elector information[^c20475301][^c-b38caec33a4c0df869b959f571b89f06]
 
-(1) A person to whom any of paragraphs (2) to (7) applies must not disclose juror information or anonymous elector information[^key-03581759920e82b3a5bf2144247fcf67] (see Article 26C) except with lawful authority (see Article 26B).
+(1) A person to whom any of paragraphs (2) to (7) applies must not disclose juror information or anonymous elector information[^c-03581759920e82b3a5bf2144247fcf67] (see Article 26C) except with lawful authority (see Article 26B).
 
 (2) This paragraph applies to a person—
 
@@ -429,9 +429,9 @@ but this paragraph does not apply to a person in so far as the juror information
 
 (9) It shall be a defence for a person charged with an offence under this Article to prove that he reasonably believed that the disclosure by him was lawful.
 
-### 26B. Disclosure of juror information or anonymous elector information: lawful authority[^key-f3c029488cf02804ee9638c8127a7d14]
+### 26B. Disclosure of juror information or anonymous elector information: lawful authority[^c-f3c029488cf02804ee9638c8127a7d14]
 
-(1) For the purposes of Article 26A, juror information or anonymous elector information[^key-44a6ab8f58ea018e40bb1434b1f49a5b] is disclosed with lawful authority if any of paragraphs (2) to (9) applies to the disclosure.
+(1) For the purposes of Article 26A, juror information or anonymous elector information[^c-44a6ab8f58ea018e40bb1434b1f49a5b] is disclosed with lawful authority if any of paragraphs (2) to (9) applies to the disclosure.
 
 (2) This paragraph applies to a disclosure by an electoral officer—
 
@@ -464,7 +464,7 @@ if the disclosure is required or authorised to be made by an officer of the cour
 - (b) by a member of the police service to another member of the police service; or
 - (c) by a member of the police service to an officer of the court,
 
-for or in connection with the making of checks, in accordance with jury check guidelines, on the person to whom the juror information or anonymous elector information[^key-6b059445df83f813bbf408f8b3c43f07] relates.
+for or in connection with the making of checks, in accordance with jury check guidelines, on the person to whom the juror information or anonymous elector information[^c-6b059445df83f813bbf408f8b3c43f07] relates.
 
 (7) This paragraph applies to a disclosure to a person other than a member of the police service or an officer of the court if the juror information or anonymous elector information is disclosed in accordance with jury check guidelines.
 
@@ -476,7 +476,7 @@ for or in connection with the making of checks, in accordance with jury check gu
 
 (1) This Article applies for the purposes of Articles 26A and 26B.
 
-(1A)[^key-50f5c39fb2f0fc945ddf68a2a8c8d588] “Anonymous elector information” means the name, address, date of birth or national insurance number of a person who is identified as having an anonymous entry in the register of electors on the Divisional Jurors List or on any panel prepared under Article 5, where such information was obtained as a result of its inclusion in the Divisional Jurors List or the panel prepared under Article 5.
+(1A)[^c-50f5c39fb2f0fc945ddf68a2a8c8d588] “Anonymous elector information” means the name, address, date of birth or national insurance number of a person who is identified as having an anonymous entry in the register of electors on the Divisional Jurors List or on any panel prepared under Article 5, where such information was obtained as a result of its inclusion in the Divisional Jurors List or the panel prepared under Article 5.
 
 (2) “ **Court official** ” means—
 
@@ -587,7 +587,7 @@ Article 3(2).
 - (a) to imprisonment for life or for a term of five years or more; or
 - (b) to be detained during Her Majesty's pleasure or during the pleasure of the Secretary of State or during the pleasure of the Governor of Northern Ireland.
 
-**1A.**[^key-c6c648ae47566b510d4159b848c30ae5] Any person who has at any time been convicted of an offence and had imposed on him an indeterminate custodial sentence under Article 13 of the Criminal Justice (Northern Ireland) Order 2008
+**1A.**[^c-c6c648ae47566b510d4159b848c30ae5] Any person who has at any time been convicted of an offence and had imposed on him an indeterminate custodial sentence under Article 13 of the Criminal Justice (Northern Ireland) Order 2008
 
 **2.** Any person who at any time in the last ten years has in the United Kingdom or the Channel Islands or the Isle of Man—
 
@@ -625,10 +625,10 @@ Article 3(3).
 - The warden or a member of the staff of a bail hostel as defined in Article 2(2) of the [^m00017] Probation Board (Northern Ireland) Order 1982.
 - Members of the Probation Board for Northern Ireland.
 - Probation officers and persons appointed to assist them.
-- [^key-20a07d2663bb69b6eb31bda329f1096a]...
+- [^c-20a07d2663bb69b6eb31bda329f1096a]...
 - Police officers and any other person employed in any capacity by virtue of which he has the powers and privileges of a constable.[^c20950691]
 - Members and staff of the Policing Board.[^c20950711]
-- Members of the National Crime Agency and National Crime Agency officers.[^key-c787de3272df67c02913685ea4944949]
+- Members of the National Crime Agency and National Crime Agency officers.[^c-c787de3272df67c02913685ea4944949]
 - [^c20096501]. . .
 - The Police Ombudsman for Northern Ireland and persons employed by him.[^c17254201].
 - Persons in charge of, or employed in, a forensic science laboratory.
@@ -639,7 +639,7 @@ Article 3(3).
 ### The Forces
 
 - Persons serving on full pay as members of any of the naval, military or air forces of the Crown raised in the United Kingdom.
-- [^key-20a07d2663bb69b6eb31bda329f1096a]...
+- [^c-20a07d2663bb69b6eb31bda329f1096a]...
 
 ### Other persons
 
@@ -668,16 +668,16 @@ Article 10(2).
 
 #### European Parliament
 
-- Members of the European Parliament[^key-d17d84ba8a72f0074b28706f2b92bc6b].
+- Members of the European Parliament[^c-d17d84ba8a72f0074b28706f2b92bc6b].
 
 #### Public officials
 
-- The Northern Ireland Public Services Ombudsman.[^key-559fd859b2784cf713828e0bc9f14094]
+- The Northern Ireland Public Services Ombudsman.[^c-559fd859b2784cf713828e0bc9f14094]
 - Persons in the Northern Ireland Civil Service receiving a salary on a scale the maximum of which is not lower than the maximum of the Grade 5 scale.
 - The Chief Electoral Officer and persons appointed to assist him.
 - The Comptroller and Auditor General for Northern Ireland.
 - The Auditor General for Scotland[^M_F_8cfdb37a-8a57-46ad-d1ba-c4a82e2c21f4]
-- The Deputy Comptroller and Auditor General for Northern Ireland and any Assistant Auditor General for Northern Ireland[^key-2c75e729289d212adfa8339b8a87c4c1].
+- The Deputy Comptroller and Auditor General for Northern Ireland and any Assistant Auditor General for Northern Ireland[^c-2c75e729289d212adfa8339b8a87c4c1].
 - Officers employed in any capacity by the Commissioners of Customs and Excise, or Commissioners of Inland Revenue.
 - Officers in charge of a head office in Northern Ireland of a department of the Government of the United Kingdom.
 - Inspectors of schools.
@@ -701,7 +701,7 @@ Article 10(2).
   - veterinary surgeons and veterinary practitioners;
   - pharmaceutical chemists.
 
-#### Persons aged over 70 years[^key-b73d908754c5e74fc2fda521c3ab841e]
+#### Persons aged over 70 years[^c-b73d908754c5e74fc2fda521c3ab841e]
 
 - Persons aged over 70 years.
 
@@ -748,15 +748,15 @@ Article 31(2), (3).
 
 [^m00001]: Marginal citation: 1954 c. 33 (N.I.)
 
-[^key-cde349a6286db27d44f83c78093ea559]: Textual amendment: Words in art. 2(2) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/2)
+[^c-cde349a6286db27d44f83c78093ea559]: Textual amendment: Words in art. 2(2) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/2)
 
 [^m00002]: Marginal citation: 1962 c. 14 (N.I.)
 
-[^key-698e012b93804a6b01b4baf2e6171ee5]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1996/1141/article/2/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/1/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-698e012b93804a6b01b4baf2e6171ee5]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1996/1141/article/2/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(1)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/1/a) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00004]: Marginal citation: 1978 c. 23
 
-[^key-421e35121c303c06a9f9c5e9b7b00f91]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1996/1141/article/2/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/1/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-421e35121c303c06a9f9c5e9b7b00f91]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1996/1141/article/2/2) substituted (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(1)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/1/b) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c21415181]: Textual amendment: Art. 2(2): words in definition of "jury service" substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -766,17 +766,17 @@ Article 31(2), (3).
 
 [^m00006]: Marginal citation: 1954 c. 33 (N.I.)
 
-[^key-b14fdae163981633f2ff1ac62cecb945]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/1141/article/3/1) substituted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 77](https://www.legislation.gov.uk/nia/2015/9/section/77), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/247/article/2/a)
+[^c-b14fdae163981633f2ff1ac62cecb945]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/nisi/1996/1141/article/3/1) substituted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 77](https://www.legislation.gov.uk/nia/2015/9/section/77), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/247/article/2/a)
 
 [^c17254021]: Textual amendment: SR 2003/474
 
-[^key-dc138e62c5aa3f6cdf0148ffcf701d73]: Textual amendment: Art. 4(2)(b)(i) repealed (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 78](https://www.legislation.gov.uk/nia/2015/9/section/78), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 5](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/5); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/247/article/2/b)
+[^c-dc138e62c5aa3f6cdf0148ffcf701d73]: Textual amendment: Art. 4(2)(b)(i) repealed (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 78](https://www.legislation.gov.uk/nia/2015/9/section/78), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 5](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/5); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/247/article/2/b)
 
 [^c20474351]: Textual amendment: Words in art. 4(3) repealed (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2007/6/section/11/2), [50](https://www.legislation.gov.uk/ukpga/2007/6/section/50), [53(4)(5)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4/5), [Sch. 7](https://www.legislation.gov.uk/ukpga/2007/6/schedule/7); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2)
 
 [^c20474371]: Textual amendment: Art. 4(3A) inserted (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2007/6/section/11/3), [53(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2)
 
-[^key-9fa9c75fea589964f82f2239541bdf26]: Textual amendment: Art. 4(3B) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/3/a)
+[^c-9fa9c75fea589964f82f2239541bdf26]: Textual amendment: Art. 4(3B) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(3)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/3/a)
 
 [^c20474461]: Textual amendment: Words in art. 4(6) repealed (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2007/6/section/10/2), [50](https://www.legislation.gov.uk/ukpga/2007/6/section/50), [53(4)(5)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4/5), [Sch. 2 para. 2(1)(a)](https://www.legislation.gov.uk/ukpga/2007/6/schedule/2/paragraph/2/1/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2007/6/schedule/7); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2)
 
@@ -784,15 +784,15 @@ Article 31(2), (3).
 
 [^c20474651]: Textual amendment: Art. 4(7)(a)-(e) inserted (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 11(4)(b)](https://www.legislation.gov.uk/ukpga/2007/6/section/11/4/b), [53(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2)
 
-[^key-372ad67941351e5ecf0a86bd54680df6]: Textual amendment: Art. 4(7A) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/3/b)
+[^c-372ad67941351e5ecf0a86bd54680df6]: Textual amendment: Art. 4(7A) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(3)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/3/b)
 
-[^key-e93023a520a6b0f532b456d05fde6469]: Textual amendment: Words in [art. 4(8)](https://www.legislation.gov.uk/nisi/1996/1141/article/4/8) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-e93023a520a6b0f532b456d05fde6469]: Textual amendment: Words in [art. 4(8)](https://www.legislation.gov.uk/nisi/1996/1141/article/4/8) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c20474691]: Textual amendment: Art. 4(10)(a) substituted (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2007/6/section/10/2), [53(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4), [Sch. 2 para. 2(1)(b)](https://www.legislation.gov.uk/ukpga/2007/6/schedule/2/paragraph/2/1/b); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2)
 
-[^key-282f5f5fa6c0d428f9907d94568ad61d]: Textual amendment: Words in [art. 4(10)](https://www.legislation.gov.uk/nisi/1996/1141/article/4/10) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-282f5f5fa6c0d428f9907d94568ad61d]: Textual amendment: Words in [art. 4(10)](https://www.legislation.gov.uk/nisi/1996/1141/article/4/10) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-945f76ab6b84c88b06cdbd145366bc17]: Textual amendment: [Art. 5(6)(a)](https://www.legislation.gov.uk/nisi/1996/1141/article/5/5/a) substituted (31.10.2016) by virtue of [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/3) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-945f76ab6b84c88b06cdbd145366bc17]: Textual amendment: [Art. 5(6)(a)](https://www.legislation.gov.uk/nisi/1996/1141/article/5/5/a) substituted (31.10.2016) by virtue of [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 108(3)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/108/3) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^m00007]: Marginal citation: 1969 c. 15 (N.I.)
 
@@ -806,7 +806,7 @@ Article 31(2), (3).
 
 [^c20474971]: Textual amendment: Art. 6(1A) inserted (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 11(6)](https://www.legislation.gov.uk/ukpga/2007/6/section/11/6), [53(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2)
 
-[^key-1bfdf837e8044d53cadedfa31a1a5782]: Textual amendment: [Art. 6(1B)](https://www.legislation.gov.uk/nisi/1996/1141/article/6/1B) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/4)
+[^c-1bfdf837e8044d53cadedfa31a1a5782]: Textual amendment: [Art. 6(1B)](https://www.legislation.gov.uk/nisi/1996/1141/article/6/1B) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(4)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/4)
 
 [^c20474991]: Textual amendment: [Art. 7](https://www.legislation.gov.uk/nisi/1996/1141/article/7) repealed (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2007/6/section/10/2), [50](https://www.legislation.gov.uk/ukpga/2007/6/section/50), [53(4)(5)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4/5), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/2007/6/schedule/2/paragraph/2/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2007/6/schedule/7); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2)
 
@@ -834,9 +834,9 @@ Article 31(2), (3).
 
 [^c20475301]: Textual amendment: Arts. 26A- 26C inserted (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 10(1)](https://www.legislation.gov.uk/ukpga/2007/6/section/10/1), [53(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4) (with [s. 10(3)](https://www.legislation.gov.uk/ukpga/2007/6/section/10/3)); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2)
 
-[^key-b38caec33a4c0df869b959f571b89f06]: Textual amendment: Words in art. 26A heading inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/5/a)
+[^c-b38caec33a4c0df869b959f571b89f06]: Textual amendment: Words in art. 26A heading inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(5)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/5/a)
 
-[^key-03581759920e82b3a5bf2144247fcf67]: Textual amendment: Words in art. 26A(1)-(7) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/5/b)
+[^c-03581759920e82b3a5bf2144247fcf67]: Textual amendment: Words in art. 26A(1)-(7) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(5)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/5/b)
 
 [^c21947091]: Textual amendment: Words in art. 26A(3)(a) substituted (12.4.2010) by [Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 4](https://www.legislation.gov.uk/nisr/2010/133/article/4), [Sch. para.16(3)(a)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/16/3/a) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
@@ -844,9 +844,9 @@ Article 31(2), (3).
 
 [^c21947131]: Textual amendment: Words in art. 26A(3)(b) omitted (12.4.2010) by virtue of [Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 4](https://www.legislation.gov.uk/nisr/2010/133/article/4), [Sch. para.16(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/16/3/b/ii) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
-[^key-f3c029488cf02804ee9638c8127a7d14]: Textual amendment: Words in art. 26B heading inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(6)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/6/a)
+[^c-f3c029488cf02804ee9638c8127a7d14]: Textual amendment: Words in art. 26B heading inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(6)(a)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/6/a)
 
-[^key-44a6ab8f58ea018e40bb1434b1f49a5b]: Textual amendment: Words in art. 26B(1) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(6)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/6/b)
+[^c-44a6ab8f58ea018e40bb1434b1f49a5b]: Textual amendment: Words in art. 26B(1) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(6)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/6/b)
 
 [^c21947151]: Textual amendment: Words in art. 26B(4)(a) substituted (12.4.2010) by [Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 4](https://www.legislation.gov.uk/nisr/2010/133/article/4), [Sch. para.16(4)(a)(i)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/16/4/a/i) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
@@ -860,9 +860,9 @@ Article 31(2), (3).
 
 [^c21947641]: Textual amendment: Words in art. 26B(5) omitted (12.4.2010) by virtue of [Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 4](https://www.legislation.gov.uk/nisr/2010/133/article/4), [Sch. para.16(4)(b)(iii)](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/16/4/b/iii) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
-[^key-6b059445df83f813bbf408f8b3c43f07]: Textual amendment: Words in art. 26B(6)-(8) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(6)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/6/b)
+[^c-6b059445df83f813bbf408f8b3c43f07]: Textual amendment: Words in art. 26B(6)-(8) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(6)(b)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/6/b)
 
-[^key-50f5c39fb2f0fc945ddf68a2a8c8d588]: Textual amendment: [Art. 26C(1A)](https://www.legislation.gov.uk/nisi/1996/1141/article/26C/1A) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(7)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/7)
+[^c-50f5c39fb2f0fc945ddf68a2a8c8d588]: Textual amendment: [Art. 26C(1A)](https://www.legislation.gov.uk/nisi/1996/1141/article/26C/1A) inserted (15.9.2014) by [The Anonymous Registration (Northern Ireland) Order 2014 (S.I. 2014/1116)](https://www.legislation.gov.uk/uksi/2014/1116), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1116/article/1/1), [11(7)](https://www.legislation.gov.uk/uksi/2014/1116/article/11/7)
 
 [^c21415191]: Textual amendment: Words in art. 26C(5) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 3(1)(a)](https://www.legislation.gov.uk/ukpga/2009/3/section/3/1/a), [5(7)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
@@ -884,7 +884,7 @@ Article 31(2), (3).
 
 [^m00014]: Marginal citation: 1984 NI 3
 
-[^key-c6c648ae47566b510d4159b848c30ae5]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/nisi/1996/1141/schedule/1A) inserted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 79](https://www.legislation.gov.uk/nia/2015/9/section/79), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/247/article/2/c)
+[^c-c6c648ae47566b510d4159b848c30ae5]: Textual amendment: [Sch. 1 para. 1A](https://www.legislation.gov.uk/nisi/1996/1141/schedule/1A) inserted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 79](https://www.legislation.gov.uk/nia/2015/9/section/79), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(c)](https://www.legislation.gov.uk/nisr/2016/247/article/2/c)
 
 [^c22525531]: Textual amendment: Words in Sch. 1 para. 2(d) inserted (16.9.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298)](https://www.legislation.gov.uk/uksi/2011/2298), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2), [3](https://www.legislation.gov.uk/uksi/2011/2298/article/3), [Sch. para. 15(2)](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/15/2) (with [art. 4(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/4/3))
 
@@ -916,13 +916,13 @@ Article 31(2), (3).
 
 [^m00017]: Marginal citation: 1982 NI 10
 
-[^key-20a07d2663bb69b6eb31bda329f1096a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/1996/1141/schedule/2) repealed (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 80(3)](https://www.legislation.gov.uk/nia/2015/9/section/80/3), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 5](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/5); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(d)](https://www.legislation.gov.uk/nisr/2016/247/article/2/d)
+[^c-20a07d2663bb69b6eb31bda329f1096a]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/1996/1141/schedule/2) repealed (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 80(3)](https://www.legislation.gov.uk/nia/2015/9/section/80/3), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 9 Pt. 5](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/5); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(d)](https://www.legislation.gov.uk/nisr/2016/247/article/2/d)
 
 [^c20950691]: Textual amendment: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
 [^c20950711]: Textual amendment: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-c787de3272df67c02913685ea4944949]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/1996/1141/schedule/2) inserted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 80(2)](https://www.legislation.gov.uk/nia/2015/9/section/80/2), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(d)](https://www.legislation.gov.uk/nisr/2016/247/article/2/d)
+[^c-c787de3272df67c02913685ea4944949]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisi/1996/1141/schedule/2) inserted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 80(2)](https://www.legislation.gov.uk/nia/2015/9/section/80/2), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(d)](https://www.legislation.gov.uk/nisr/2016/247/article/2/d)
 
 [^c20096501]: Textual amendment: Sch. 2: entry repealed (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/15/section/59), [174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 88](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/88), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. paras. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10), [12](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/12), [13(aa)](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/13/aa) (with [art. 4(2)-(7)](https://www.legislation.gov.uk/uksi/2006/378/article/4/2))
 
@@ -934,16 +934,16 @@ Article 31(2), (3).
 
 [^M_F_872462a6-8cf0-451f-c6ff-4f50604e1866]: Textual amendment: Words in Sch. 3 inserted (6.5.1999) by [The Scotland Act 1998 (Consequential Modifications) (No.1) Order 1999 (S.I. 1999/1042)](https://www.legislation.gov.uk/uksi/1999/1042), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/1042/article/1/2/a), [3](https://www.legislation.gov.uk/uksi/1999/1042/article/3), [Sch. 1 para. 23(a)](https://www.legislation.gov.uk/uksi/1999/1042/schedule/1/paragraph/23/a)
 
-[^key-d17d84ba8a72f0074b28706f2b92bc6b]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisi/1996/1141/schedule/3) substituted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 81(2)](https://www.legislation.gov.uk/nia/2015/9/section/81/2), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/247/article/2/e)
+[^c-d17d84ba8a72f0074b28706f2b92bc6b]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisi/1996/1141/schedule/3) substituted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 81(2)](https://www.legislation.gov.uk/nia/2015/9/section/81/2), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/247/article/2/e)
 
-[^key-559fd859b2784cf713828e0bc9f14094]: Textual amendment: Words in Sch. 3 substituted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/4) (with s. 23, 50(3))
+[^c-559fd859b2784cf713828e0bc9f14094]: Textual amendment: Words in Sch. 3 substituted (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 4](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/4) (with s. 23, 50(3))
 
 [^M_F_8cfdb37a-8a57-46ad-d1ba-c4a82e2c21f4]: Textual amendment: Words in Sch. 3 inserted (6.5.1999) by [The Scotland Act 1998 (Consequential Modifications) (No.1) Order 1999 (S.I. 1999/1042)](https://www.legislation.gov.uk/uksi/1999/1042), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/1999/1042/article/1/2/a), [3](https://www.legislation.gov.uk/uksi/1999/1042/article/3), [Sch. 1 para. 23(b)](https://www.legislation.gov.uk/uksi/1999/1042/schedule/1/paragraph/23/b)
 
-[^key-2c75e729289d212adfa8339b8a87c4c1]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisi/1996/1141/schedule/3) substituted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 81(3)](https://www.legislation.gov.uk/nia/2015/9/section/81/3), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/247/article/2/e)
+[^c-2c75e729289d212adfa8339b8a87c4c1]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisi/1996/1141/schedule/3) substituted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 81(3)](https://www.legislation.gov.uk/nia/2015/9/section/81/3), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/247/article/2/e)
 
 [^m00021]: Marginal citation: 1969 c. 6 (N.I.)
 
-[^key-b73d908754c5e74fc2fda521c3ab841e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisi/1996/1141/schedule/3) substituted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 81(4)](https://www.legislation.gov.uk/nia/2015/9/section/81/4), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/247/article/2/e)
+[^c-b73d908754c5e74fc2fda521c3ab841e]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/nisi/1996/1141/schedule/3) substituted (1.7.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [ss. 81(4)](https://www.legislation.gov.uk/nia/2015/9/section/81/4), [106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2); [S.R. 2016/247](https://www.legislation.gov.uk/nisr/2016/247), [art. 2(e)](https://www.legislation.gov.uk/nisr/2016/247/article/2/e)
 
 [^m00022]: Marginal citation: 1959 c. 15 (N.I.)

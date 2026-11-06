@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Capital jointly held[^key-0f55ceb748a20e0f0e65b9ef62b70321]
+## 47. Capital jointly held[^c-0f55ceb748a20e0f0e65b9ef62b70321]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f55ceb748a20e0f0e65b9ef62b70321]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2006/406/regulation/47) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-0f55ceb748a20e0f0e65b9ef62b70321]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2006/406/regulation/47) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

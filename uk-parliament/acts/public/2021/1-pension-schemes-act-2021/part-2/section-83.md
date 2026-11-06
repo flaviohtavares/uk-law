@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Triggering event periods[^c24481081][^key-62f067a0b41664517615cc5ead6c96ac]
+## 83. Triggering event periods[^c24481081][^c-62f067a0b41664517615cc5ead6c96ac]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c24481081]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2021/1/section/83) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-62f067a0b41664517615cc5ead6c96ac]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2021/1/section/83) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-62f067a0b41664517615cc5ead6c96ac]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2021/1/section/83) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

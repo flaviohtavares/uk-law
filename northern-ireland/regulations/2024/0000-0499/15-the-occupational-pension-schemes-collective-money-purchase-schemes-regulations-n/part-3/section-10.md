@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Viability report[^key-6c064d432f56d4e92bef813e33348b7f]
+## 10. Viability report[^c-6c064d432f56d4e92bef813e33348b7f]
 
 *Extent: N.I.*
 
@@ -37,7 +37,7 @@ summary: ''
 (4) The document described at paragraph (3)(b) must include an explanation of—
 
 - (a) the assumptions used by the scheme actuary in carrying out the tests in regulation 11(2)(c) or (d) (as the case may be) and how the use of those assumptions is justified;
-- (b)[^key-bceb93813c8f4047d2aa0c0eb5e2155c] the conclusions reached by the scheme actuary on—
+- (b)[^c-bceb93813c8f4047d2aa0c0eb5e2155c] the conclusions reached by the scheme actuary on—
   - (i) the matters contained in regulation 11(2);
   - (ii) whether the rules of the scheme meet the requirements of section 69 of the 2021 Act (calculation of benefits) and the requirements of regulation 17; and
 - (c) the testing or modelling being considered by the trustees including the results of such testing or modelling.
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6c064d432f56d4e92bef813e33348b7f]: Commencement: Reg. 10 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
+[^c-6c064d432f56d4e92bef813e33348b7f]: Commencement: Reg. 10 in operation at 26.1.2024, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/15/regulation/1)
 
-[^key-bceb93813c8f4047d2aa0c0eb5e2155c]: Textual amendment: [Reg. 10(4)(b)](https://www.legislation.gov.uk/nisr/2024/15/regulation/10/4/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(9)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/9)
+[^c-bceb93813c8f4047d2aa0c0eb5e2155c]: Textual amendment: [Reg. 10(4)(b)](https://www.legislation.gov.uk/nisr/2024/15/regulation/10/4/b) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations (Northern Ireland) 2026 (S.R. 2026/151)](https://www.legislation.gov.uk/nisr/2026/151), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1), [58(9)](https://www.legislation.gov.uk/nisr/2026/151/regulation/58/9)

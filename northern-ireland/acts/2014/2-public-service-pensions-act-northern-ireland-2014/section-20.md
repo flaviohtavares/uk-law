@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Final salary link[^key-05a85e5d8128454930e86f070646faa7]
+## 20. Final salary link[^c-05a85e5d8128454930e86f070646faa7]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 contains provision for a “**final salary link**” in relation to s
 
 ## Annotations
 
-[^key-05a85e5d8128454930e86f070646faa7]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2014/2/section/20) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/k)
+[^c-05a85e5d8128454930e86f070646faa7]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2014/2/section/20) in operation at 28.4.2014 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(k)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/k)

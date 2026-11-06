@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14C. Timetables for confirmation of CPOs by Welsh Ministers[^key-0977ab692a0fddd212443bab66194cbf]
+## 14C. Timetables for confirmation of CPOs by Welsh Ministers[^c-0977ab692a0fddd212443bab66194cbf]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0977ab692a0fddd212443bab66194cbf]: Textual amendment: Ss. 14B, 14C inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 180](https://www.legislation.gov.uk/ukpga/2016/22/section/180), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/251/regulation/5))
+[^c-0977ab692a0fddd212443bab66194cbf]: Textual amendment: Ss. 14B, 14C inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 180](https://www.legislation.gov.uk/ukpga/2016/22/section/180), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/251/regulation/5))

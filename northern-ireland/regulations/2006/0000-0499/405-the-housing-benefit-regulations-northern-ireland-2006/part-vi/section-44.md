@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Calculation of capital in the United Kingdom[^key-79c414dedf5cf76413f681b8262dee83]
+## 44. Calculation of capital in the United Kingdom[^c-79c414dedf5cf76413f681b8262dee83]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Capital which a claimant possesses in the United Kingdom shall be calculated at 
 
 ## Annotations
 
-[^key-79c414dedf5cf76413f681b8262dee83]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/405/regulation/44) substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 (S.R. 2007/396)](https://www.legislation.gov.uk/nisr/2007/396), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1), [9(8)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/8)
+[^c-79c414dedf5cf76413f681b8262dee83]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/nisr/2006/405/regulation/44) substituted (1.10.2007) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2007 (S.R. 2007/396)](https://www.legislation.gov.uk/nisr/2007/396), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/396/regulation/1/1), [9(8)](https://www.legislation.gov.uk/nisr/2007/396/regulation/9/8)

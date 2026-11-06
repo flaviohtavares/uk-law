@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Authority to survey and investigate the land[^key-381dd1218e261f557053abc228c4c39d]
+## 20. Authority to survey and investigate the land[^c-381dd1218e261f557053abc228c4c39d]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ which authority may attach reasonable conditions to any consent, but such consen
 
 ## Annotations
 
-[^key-381dd1218e261f557053abc228c4c39d]: Commencement: Art. 20 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-381dd1218e261f557053abc228c4c39d]: Commencement: Art. 20 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

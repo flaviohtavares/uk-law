@@ -27,7 +27,7 @@ summary: ''
 
 (2) Paragraph (1) does not apply—
 
-- (a) to an agreement settling a complaint to which Article 38(1) applies where the Agency has taken action in accordance with any of Articles 88ZA to 88ZC[^key-c41f9819d3e15a7ae61dc649ebb6ee97] ; or
+- (a) to an agreement settling a complaint to which Article 38(1) applies where the Agency has taken action in accordance with any of Articles 88ZA to 88ZC[^c-c41f9819d3e15a7ae61dc649ebb6ee97] ; or
 - (b) to an agreement settling a complaint to which Article 38(1) applies if the conditions regulating compromise agreements under this Order are satisfied in relation to the agreement; or
 - (c) to an agreement settling a claim to which Article 40 applies.
 
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c41f9819d3e15a7ae61dc649ebb6ee97]: Textual amendment: Words in [art. 100(2)(a)](https://www.legislation.gov.uk/nisi/1998/3162/article/100/2/a) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 5(3)(d)](https://www.legislation.gov.uk/nia/2016/15/section/5/3/d), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)
+[^c-c41f9819d3e15a7ae61dc649ebb6ee97]: Textual amendment: Words in [art. 100(2)(a)](https://www.legislation.gov.uk/nisi/1998/3162/article/100/2/a) substituted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [ss. 5(3)(d)](https://www.legislation.gov.uk/nia/2016/15/section/5/3/d), [29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(d)](https://www.legislation.gov.uk/nisr/2020/1/article/2/d)
 
 [^m00031]: Marginal citation: 1992 NI 5.

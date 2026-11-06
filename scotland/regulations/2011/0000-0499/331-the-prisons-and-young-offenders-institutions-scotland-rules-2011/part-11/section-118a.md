@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118A. Disciplinary appeals – coronavirus[^key-056691689b93c352f7bb811aa122a72c]
+## 118A. Disciplinary appeals – coronavirus[^c-056691689b93c352f7bb811aa122a72c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-056691689b93c352f7bb811aa122a72c]: Textual amendment: [Rule 118A](https://www.legislation.gov.uk/ssi/2011/331/rule/118A) omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(i)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/i)
+[^c-056691689b93c352f7bb811aa122a72c]: Textual amendment: [Rule 118A](https://www.legislation.gov.uk/ssi/2011/331/rule/118A) omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(i)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/i)

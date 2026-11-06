@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.F.18. Right to transfer a deferred pension to the 2015 Scheme[^key-a996b748eb4f374375afc2b7bdd15bf0]
+## 3.F.18. Right to transfer a deferred pension to the 2015 Scheme[^c-a996b748eb4f374375afc2b7bdd15bf0]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (5) For the purposes of paragraphs (3) and (4), any break in active membership of this Section of the scheme where the member was in pensionable public service as defined in paragraph 3(2) of Schedule 7 to the 2013 Act is to be disregarded.
 
-(5A)[^key-9e7d93bdcefcdb883d33a3509b498a97] The Scottish Ministers must provide a member to whom this regulation applies with a notice in writing stating that the member has the right to request a statement of the amount of the cash equivalent of the member’s benefits accrued in accordance with these Regulations (“a statement of entitlement”).
+(5A)[^c-9e7d93bdcefcdb883d33a3509b498a97] The Scottish Ministers must provide a member to whom this regulation applies with a notice in writing stating that the member has the right to request a statement of the amount of the cash equivalent of the member’s benefits accrued in accordance with these Regulations (“a statement of entitlement”).
 
 (5B) The Scottish Ministers must provide the member with the notice referred to in paragraph (5A) within the period of three months beginning with the date on which the Scottish Ministers receive notification from the member’s employing authority that the member has joined the 2015 Scheme.
 
@@ -47,7 +47,7 @@ summary: ''
 - (a) be made by the member in writing on the form provided by the Scottish Ministers for that purpose;
 - (b) be received by the Scottish Ministers before the end of the three month period beginning with the date of the notice under paragraph (5A).
 
-(6)[^key-3d57b9d509bfde91e4256323383015e0] The Scottish Ministers must provide a member who has requested a statement of entitlement in accordance with paragraph (5D) with a statement of entitlement at the guarantee date.
+(6)[^c-3d57b9d509bfde91e4256323383015e0] The Scottish Ministers must provide a member who has requested a statement of entitlement in accordance with paragraph (5D) with a statement of entitlement at the guarantee date.
 
 (7) In this regulation, “the guarantee date” means any date that falls within the required period and is—
 
@@ -59,7 +59,7 @@ summary: ''
 
 (9) In paragraph (7), “the required period” means—
 
-- (a)[^key-3ce29090dfea7b802796d62cd3318d41] the period of three months beginning with the date on which the Scottish Ministers receive the member’s request for a statement of entitlement made in accordance with paragraph (5D); or
+- (a)[^c-3ce29090dfea7b802796d62cd3318d41] the period of three months beginning with the date on which the Scottish Ministers receive the member’s request for a statement of entitlement made in accordance with paragraph (5D); or
 - (b) such longer period beginning with that date (but not exceeding six months) as may be reasonably required if, for reasons beyond the control of the Scottish Ministers, the requisite information cannot be obtained to calculate the amount of the cash equivalent.
 
 (10) Subject to paragraphs (11) to (13), the member’s guaranteed cash equivalent shall be equal to the capitalised value of all of the member’s rights to benefits accrued under these Regulations and any associated rights under Part I of the Pensions (Increase) Act 1971.
@@ -88,10 +88,10 @@ summary: ''
 
 ## Annotations
 
-[^key-a996b748eb4f374375afc2b7bdd15bf0]: Textual amendment: Reg. 3.F.18 inserted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [45](https://www.legislation.gov.uk/ssi/2015/96/regulation/45)
+[^c-a996b748eb4f374375afc2b7bdd15bf0]: Textual amendment: Reg. 3.F.18 inserted (1.4.2015) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1](https://www.legislation.gov.uk/ssi/2015/96/regulation/1), [45](https://www.legislation.gov.uk/ssi/2015/96/regulation/45)
 
-[^key-9e7d93bdcefcdb883d33a3509b498a97]: Textual amendment: [Regs. 3.F.18(5A)-(5D)](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.F.18/5A) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [18(2)](https://www.legislation.gov.uk/ssi/2017/434/regulation/18/2) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-9e7d93bdcefcdb883d33a3509b498a97]: Textual amendment: [Regs. 3.F.18(5A)-(5D)](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.F.18/5A) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [18(2)](https://www.legislation.gov.uk/ssi/2017/434/regulation/18/2) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-3d57b9d509bfde91e4256323383015e0]: Textual amendment: [Reg. 3.F.18(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.F.18/6) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [18(3)](https://www.legislation.gov.uk/ssi/2017/434/regulation/18/3) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-3d57b9d509bfde91e4256323383015e0]: Textual amendment: [Reg. 3.F.18(6)](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.F.18/6) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [18(3)](https://www.legislation.gov.uk/ssi/2017/434/regulation/18/3) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
 
-[^key-3ce29090dfea7b802796d62cd3318d41]: Textual amendment: [Reg. 3.F.18(9)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.F.18/9/a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [18(4)](https://www.legislation.gov.uk/ssi/2017/434/regulation/18/4) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))
+[^c-3ce29090dfea7b802796d62cd3318d41]: Textual amendment: [Reg. 3.F.18(9)(a)](https://www.legislation.gov.uk/ssi/2013/174/regulation/3.F.18/9/a) substituted (with effect in accordance with reg. 1(2)(a) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Scotland) (Miscellaneous Amendments) (No. 2) Regulations 2017 (S.S.I. 2017/434)](https://www.legislation.gov.uk/ssi/2017/434), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/434/regulation/1/1), [18(4)](https://www.legislation.gov.uk/ssi/2017/434/regulation/18/4) (with [reg. 19](https://www.legislation.gov.uk/ssi/2017/434/regulation/19))

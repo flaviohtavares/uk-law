@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. For the protection of operators of electronic communications code networks[^key-dd2b84704b93a3b1c4a834632e1f6ace]
+## 45. For the protection of operators of electronic communications code networks[^c-dd2b84704b93a3b1c4a834632e1f6ace]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 14 (for the protection of operators of electronic com
 
 ## Annotations
 
-[^key-dd2b84704b93a3b1c4a834632e1f6ace]: Commencement: Art. 45 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-dd2b84704b93a3b1c4a834632e1f6ace]: Commencement: Art. 45 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

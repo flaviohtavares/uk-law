@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Food (Control of Irradiation) Amendment (Scotland) Regulations 2002 (revoked)[^key-7fa7fc80ad4cb573b738c7d18a61d784]
+The Food (Control of Irradiation) Amendment (Scotland) Regulations 2002 (revoked)[^c-7fa7fc80ad4cb573b738c7d18a61d784]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 1st July 2002
 
-[^key-7fa7fc80ad4cb573b738c7d18a61d784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fa7fc80ad4cb573b738c7d18a61d784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7fa7fc80ad4cb573b738c7d18a61d784]
+## 1. Citation, commencement and extent[^c-7fa7fc80ad4cb573b738c7d18a61d784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Food (Control of Irradiation) Regulations 1990[^key-7fa7fc80ad4cb573b738c7d18a61d784]
+## 2. Amendments to the Food (Control of Irradiation) Regulations 1990[^c-7fa7fc80ad4cb573b738c7d18a61d784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-7fa7fc80ad4cb573b738c7d18a61d784]
+## 3.[^c-7fa7fc80ad4cb573b738c7d18a61d784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-7fa7fc80ad4cb573b738c7d18a61d784]
+## 4.[^c-7fa7fc80ad4cb573b738c7d18a61d784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-7fa7fc80ad4cb573b738c7d18a61d784]
+## 5.[^c-7fa7fc80ad4cb573b738c7d18a61d784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-7fa7fc80ad4cb573b738c7d18a61d784]
+## 6.[^c-7fa7fc80ad4cb573b738c7d18a61d784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-7fa7fc80ad4cb573b738c7d18a61d784]
+## 7.[^c-7fa7fc80ad4cb573b738c7d18a61d784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fa7fc80ad4cb573b738c7d18a61d784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fa7fc80ad4cb573b738c7d18a61d784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7fa7fc80ad4cb573b738c7d18a61d784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fa7fc80ad4cb573b738c7d18a61d784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fa7fc80ad4cb573b738c7d18a61d784]: Textual amendment: Regulations revoked (31.7.2009) by [The Food Irradiation (Scotland) Regulations 2009 (S.S.I. 2009/261)](https://www.legislation.gov.uk/ssi/2009/261), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2009/261/regulation/1/b), [12(c)](https://www.legislation.gov.uk/ssi/2009/261/regulation/12/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2009/261/regulation/2))
+[^c-7fa7fc80ad4cb573b738c7d18a61d784]: Textual amendment: Regulations revoked (31.7.2009) by [The Food Irradiation (Scotland) Regulations 2009 (S.S.I. 2009/261)](https://www.legislation.gov.uk/ssi/2009/261), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2009/261/regulation/1/b), [12(c)](https://www.legislation.gov.uk/ssi/2009/261/regulation/12/c) (with [reg. 2](https://www.legislation.gov.uk/ssi/2009/261/regulation/2))

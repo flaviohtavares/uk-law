@@ -28,7 +28,7 @@ summary: ''
 
 (4) [^c19141741]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) [^key-6284fd44ee48d08b702bb72e98e18e4e]... the applicable amount for a severely disabled person shall include an amount in respect of his being a severely disabled person.
+(5) [^c-6284fd44ee48d08b702bb72e98e18e4e]... the applicable amount for a severely disabled person shall include an amount in respect of his being a severely disabled person.
 
 (6) Regulations may specify circumstances in which persons are to be treated as being or as not being severely disabled.
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c19141741]: Textual amendment: S. 131(3)(4) repealed (8.4.2002) by [Personal Social Services (Preserved Rights) Act (Northern Ireland) 2002 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2002/5), [ss. 4](https://www.legislation.gov.uk/nia/2002/5/section/4), [7](https://www.legislation.gov.uk/nia/2002/5/section/7), [Sch.](https://www.legislation.gov.uk/nia/2002/5/schedule); [S.R. 2002/131](https://www.legislation.gov.uk/nisr/2002/131), [art. 3](https://www.legislation.gov.uk/nisr/2002/131/article/3)
 
-[^key-6284fd44ee48d08b702bb72e98e18e4e]: Textual amendment: Words in [s. 131(5)](https://www.legislation.gov.uk/ukpga/1992/7/section/131/5) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/962/article/3))
+[^c-6284fd44ee48d08b702bb72e98e18e4e]: Textual amendment: Words in [s. 131(5)](https://www.legislation.gov.uk/ukpga/1992/7/section/131/5) repealed (8.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(4)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/4/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/962/schedule/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/962/article/3))

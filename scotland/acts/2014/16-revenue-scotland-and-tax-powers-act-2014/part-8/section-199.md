@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 199. Concealing, destroying etc. documents following information notification[^key-09e84c629b5b8cc9d1940672cc610ee4]
+## 199. Concealing, destroying etc. documents following information notification[^c-09e84c629b5b8cc9d1940672cc610ee4]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09e84c629b5b8cc9d1940672cc610ee4]: Commencement: [S. 199](https://www.legislation.gov.uk/asp/2014/16/section/199) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-09e84c629b5b8cc9d1940672cc610ee4]: Commencement: [S. 199](https://www.legislation.gov.uk/asp/2014/16/section/199) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

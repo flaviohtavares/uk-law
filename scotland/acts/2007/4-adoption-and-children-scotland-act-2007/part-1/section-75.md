@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Restriction on arranging adoptions and placing children[^key-0b2f0909bc1d68be5a8535309c11f8d0]
+## 75. Restriction on arranging adoptions and placing children[^c-0b2f0909bc1d68be5a8535309c11f8d0]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ by any person taking part in the management or control of the body of persons, o
 
 ## Annotations
 
-[^key-0b2f0909bc1d68be5a8535309c11f8d0]: Commencement: S. 75 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-0b2f0909bc1d68be5a8535309c11f8d0]: Commencement: S. 75 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)

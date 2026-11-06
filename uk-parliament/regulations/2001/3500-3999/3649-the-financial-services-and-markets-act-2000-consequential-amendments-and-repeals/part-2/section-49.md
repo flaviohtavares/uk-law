@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Disclosure of interests in shares: interests to be disregarded[^key-d5ab28987f097b778a815274652a4c7e]
+## 49. Disclosure of interests in shares: interests to be disregarded[^c-d5ab28987f097b778a815274652a4c7e]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ For paragraph (2) of Article 217[^f00054] of the 1986 Order (interests in shares
 
 ## Annotations
 
-[^key-d5ab28987f097b778a815274652a4c7e]: Commencement: Art. 49 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d5ab28987f097b778a815274652a4c7e]: Commencement: Art. 49 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00054]: Footnote: Substituted by [SR (NI) 1994/2](https://www.legislation.gov.uk/nisr/1994/2).

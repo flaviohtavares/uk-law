@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-8ddb23f0e8dd57f4a9834466a10a68b9]
+## 1. Citation and commencement[^c-8ddb23f0e8dd57f4a9834466a10a68b9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A428 Black Cat to Caxton Gibbet Development Conse
 
 ## Annotations
 
-[^key-8ddb23f0e8dd57f4a9834466a10a68b9]: Commencement: Art. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-8ddb23f0e8dd57f4a9834466a10a68b9]: Commencement: Art. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

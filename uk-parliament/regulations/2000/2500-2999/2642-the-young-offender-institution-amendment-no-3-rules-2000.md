@@ -31,7 +31,7 @@ summary: ''
 
 YOUNG OFFENDER INSTITUTIONS, ENGLAND AND WALES
 
-The Young Offender Institution (Amendment) (No. 3) Rules 2000 (revoked)[^key-761a3ecabf251a60337bded17568a0c3]
+The Young Offender Institution (Amendment) (No. 3) Rules 2000 (revoked)[^c-761a3ecabf251a60337bded17568a0c3]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 24th October 2000
 
-[^key-761a3ecabf251a60337bded17568a0c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-761a3ecabf251a60337bded17568a0c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-761a3ecabf251a60337bded17568a0c3]
+## 1. Citation and commencement[^c-761a3ecabf251a60337bded17568a0c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Rules[^key-761a3ecabf251a60337bded17568a0c3]
+## 2. Amendment of Rules[^c-761a3ecabf251a60337bded17568a0c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-761a3ecabf251a60337bded17568a0c3]
+## 3.[^c-761a3ecabf251a60337bded17568a0c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-761a3ecabf251a60337bded17568a0c3]
+## 4.[^c-761a3ecabf251a60337bded17568a0c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-761a3ecabf251a60337bded17568a0c3]
+## 5.[^c-761a3ecabf251a60337bded17568a0c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-761a3ecabf251a60337bded17568a0c3]
+## 6.[^c-761a3ecabf251a60337bded17568a0c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-761a3ecabf251a60337bded17568a0c3]
+## 7.[^c-761a3ecabf251a60337bded17568a0c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-761a3ecabf251a60337bded17568a0c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-761a3ecabf251a60337bded17568a0c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-761a3ecabf251a60337bded17568a0c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-761a3ecabf251a60337bded17568a0c3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-761a3ecabf251a60337bded17568a0c3]: Textual amendment: Rules revoked (1.4.2001) by [The Young Offender Institution Rules 2000 (S.I. 2000/3371)](https://www.legislation.gov.uk/uksi/2000/3371), [rule 1(a)](https://www.legislation.gov.uk/uksi/2000/3371/rule/1/a), [Sch.](https://www.legislation.gov.uk/uksi/2000/3371/schedule)
+[^c-761a3ecabf251a60337bded17568a0c3]: Textual amendment: Rules revoked (1.4.2001) by [The Young Offender Institution Rules 2000 (S.I. 2000/3371)](https://www.legislation.gov.uk/uksi/2000/3371), [rule 1(a)](https://www.legislation.gov.uk/uksi/2000/3371/rule/1/a), [Sch.](https://www.legislation.gov.uk/uksi/2000/3371/schedule)

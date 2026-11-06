@@ -33,7 +33,7 @@ summary: ''
 - (c) altering, enlarging, repairing or improving a house;
 - (d) facilitating the repayment of an amount outstanding on a previous loan made for any of the purposes specified in sub‐paragraphs (a) to (c).
 
-(3)[^key-59c8379ade4698af1886078dce1458d1] So long as any part of the principal of, or any interest on, a loan under paragraph (1)(a) remains outstanding, the loan is to be a charge on the house or building or buildings in question.
+(3)[^c-59c8379ade4698af1886078dce1458d1] So long as any part of the principal of, or any interest on, a loan under paragraph (1)(a) remains outstanding, the loan is to be a charge on the house or building or buildings in question.
 
 (4) Where paragraph (3) applies—
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c17550681]: Textual amendment: [1983 NI 15](https://www.legislation.gov.uk/nisi/1983)
 
-[^key-59c8379ade4698af1886078dce1458d1]: Textual amendment: [Art. 9(3)](https://www.legislation.gov.uk/nisi/1981/156/article/9/3)[(4)](https://www.legislation.gov.uk/nisi/1981/156/article/9/4) inserted (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(1)](https://www.legislation.gov.uk/nia/2016/17/section/3/1), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)
+[^c-59c8379ade4698af1886078dce1458d1]: Textual amendment: [Art. 9(3)](https://www.legislation.gov.uk/nisi/1981/156/article/9/3)[(4)](https://www.legislation.gov.uk/nisi/1981/156/article/9/4) inserted (9.7.2016) by [Housing (Amendment) Act (NorthernIreland) 2016 (c. 17)](https://www.legislation.gov.uk/nia/2016/17), [ss. 3(1)](https://www.legislation.gov.uk/nia/2016/17/section/3/1), [4](https://www.legislation.gov.uk/nia/2016/17/section/4)

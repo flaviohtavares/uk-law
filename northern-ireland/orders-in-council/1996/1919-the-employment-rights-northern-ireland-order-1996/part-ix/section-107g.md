@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 107G. Entitlement to shared parental leave: adoption[^key-019bdd4d354c7f618394706a04670153][^key-0330de95f8545146ae53a85dcfaa45dd][^key-19972f31637f696df1d9548fa61c1b9b][^c22340171][^key-ab4f7fffc19b36fae6e09920fb4d5242]
+## 107G. Entitlement to shared parental leave: adoption[^c-019bdd4d354c7f618394706a04670153][^c-0330de95f8545146ae53a85dcfaa45dd][^c-19972f31637f696df1d9548fa61c1b9b][^c22340171][^c-ab4f7fffc19b36fae6e09920fb4d5242]
 
 *Extent: N.I.*
 
@@ -71,12 +71,12 @@ to be absent from work on leave under this paragraph for the purpose of caring f
 
 ## Annotations
 
-[^key-019bdd4d354c7f618394706a04670153]: Modification: Art. 107G applied (with modifications) (15.3.2015) by [The Employment Rights (Northern Ireland) Order 1996 (Application of Articles 107A, 107B, 107G, 107I, 112A and 112B to Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/100)](https://www.legislation.gov.uk/nisr/2015/100), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/100/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/100/schedule/1)
+[^c-019bdd4d354c7f618394706a04670153]: Modification: Art. 107G applied (with modifications) (15.3.2015) by [The Employment Rights (Northern Ireland) Order 1996 (Application of Articles 107A, 107B, 107G, 107I, 112A and 112B to Parental Order Cases) Regulations (Northern Ireland) 2015 (S.R. 2015/100)](https://www.legislation.gov.uk/nisr/2015/100), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/100/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/100/schedule/1)
 
-[^key-0330de95f8545146ae53a85dcfaa45dd]: Modification: [Art. 107G](https://www.legislation.gov.uk/nisi/1996/1919/article/107G) amendment to earlier affecting provision S.R. 2015/100, reg. 3, Sch. 1 (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/12)
+[^c-0330de95f8545146ae53a85dcfaa45dd]: Modification: [Art. 107G](https://www.legislation.gov.uk/nisi/1996/1919/article/107G) amendment to earlier affecting provision S.R. 2015/100, reg. 3, Sch. 1 (3.1.2019) by [The Human Fertilisation and Embryology Act 2008 (Remedial) Order 2018 (S.I. 2018/1413)](https://www.legislation.gov.uk/uksi/2018/1413), [art. 1(1)](https://www.legislation.gov.uk/uksi/2018/1413/article/1/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2018/1413/schedule/2/paragraph/12)
 
-[^key-19972f31637f696df1d9548fa61c1b9b]: Textual amendment: Pt. 9 Ch. 1B inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2015/1/section/2/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
+[^c-19972f31637f696df1d9548fa61c1b9b]: Textual amendment: Pt. 9 Ch. 1B inserted (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [ss. 2(2)](https://www.legislation.gov.uk/nia/2015/1/section/2/2), [23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(1)(b)](https://www.legislation.gov.uk/nisr/2015/86/article/3/1/b)
 
 [^c22340171]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-ab4f7fffc19b36fae6e09920fb4d5242]: Modification: Art. 107G applied (with modifications) (15.3.2015) by [The Employment Rights (Northern Ireland) Order 1996 (Application of Articles 107G and 107I to Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/97)](https://www.legislation.gov.uk/nisr/2015/97), [reg. 1](https://www.legislation.gov.uk/nisr/2015/97/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/97/schedule)
+[^c-ab4f7fffc19b36fae6e09920fb4d5242]: Modification: Art. 107G applied (with modifications) (15.3.2015) by [The Employment Rights (Northern Ireland) Order 1996 (Application of Articles 107G and 107I to Adoptions from Overseas) Regulations (Northern Ireland) 2015 (S.R. 2015/97)](https://www.legislation.gov.uk/nisr/2015/97), [reg. 1](https://www.legislation.gov.uk/nisr/2015/97/regulation/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/97/schedule)

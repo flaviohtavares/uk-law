@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Appeals and reviews of energy administration orders[^key-166f4b76528095ba6d47261c3fb0c587]
+## 127. Appeals and reviews of energy administration orders[^c-166f4b76528095ba6d47261c3fb0c587]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-166f4b76528095ba6d47261c3fb0c587]: Commencement: Rule 127 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-166f4b76528095ba6d47261c3fb0c587]: Commencement: Rule 127 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

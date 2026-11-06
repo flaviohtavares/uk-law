@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a), 123(1)(e), 131(1), 132(4)(b), 133(2)(d) and 171(1) and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 1(1), 13A(2)(a) and 165(4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 6(5), 23, 28 and 36(2) of, and paragraph 1(2)(a) of Schedule 1 to, the Jobseeker’s (Northern Ireland) Order 1995[^f00003] and now vested in it[^f00004], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-9e983a6fbb757b3d236d4d4bb3394d53]
+## 1. Citation, commencement and interpretation[^c-9e983a6fbb757b3d236d4d4bb3394d53]
 
 (1) These Regulations may be cited as the Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2001 and shall come into operation on 9th April 2001.
 
@@ -49,7 +49,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of regulation 2 of the Income Support Regulations[^key-ec3758f2940752900da0568f7a13275b]
+## 2. Amendment of regulation 2 of the Income Support Regulations[^c-ec3758f2940752900da0568f7a13275b]
 
 In regulation 2(1) of the Income Support Regulations (interpretation) after the definition of “net-profit” there shall be inserted the following definition—
 
@@ -57,11 +57,11 @@ In regulation 2(1) of the Income Support Regulations (interpretation) after the 
 
 .
 
-## 3. Amendment of regulation 5 of the Income Support Regulations[^key-4d45437c85d06efa8cacaa63b7c4084b]
+## 3. Amendment of regulation 5 of the Income Support Regulations[^c-4d45437c85d06efa8cacaa63b7c4084b]
 
 In regulation 5 of the Income Support Regulations (persons treated as engaged in remunerative work) paragraphs (8) to (10)[^f00008] shall be omitted.
 
-## 4. Amendment of regulation 6 of the Income Support Regulations[^key-1ddbc8338caa5af6253381bab6aad59b]
+## 4. Amendment of regulation 6 of the Income Support Regulations[^c-1ddbc8338caa5af6253381bab6aad59b]
 
 In regulation 6 of the Income Support Regulations (persons not treated as engaged in remunerative work) after paragraph (4)[^f00009] there shall be added the following paragraphs—
 
@@ -87,7 +87,7 @@ In regulation 6 of the Income Support Regulations (persons not treated as engage
 
 .
 
-## 5. Amendment of Schedule 1B to the Income Support Regulations[^key-e2270163fb19ca170377ccef4b62a44c]
+## 5. Amendment of Schedule 1B to the Income Support Regulations[^c-e2270163fb19ca170377ccef4b62a44c]
 
 In Schedule 1B to the Income Support Regulations[^f00010] (prescribed categories of person) after paragraph 9[^f00011] (persons in employment living in residential care homes, nursing homes or residential accommodation) there shall be inserted the following paragraph—
 
@@ -97,7 +97,7 @@ In Schedule 1B to the Income Support Regulations[^f00010] (prescribed categories
 
 .
 
-## 6. Amendment of Schedule 3 to the Income Support Regulations[^key-4a0f1676d18ad203e241b39120041412]
+## 6. Amendment of Schedule 3 to the Income Support Regulations[^c-4a0f1676d18ad203e241b39120041412]
 
 In Schedule 3 to the Income Support Regulations[^f00013] (housing costs)—
 
@@ -128,7 +128,7 @@ In Schedule 3 to the Income Support Regulations[^f00013] (housing costs)—
 
   .
 
-## 7. Amendment of Schedule 7 to the Income Support Regulations[^key-1fcc1ccb689dab9fd8a317659c1ee058]
+## 7. Amendment of Schedule 7 to the Income Support Regulations[^c-1fcc1ccb689dab9fd8a317659c1ee058]
 
 In Schedule 7 to the Income Support Regulations (applicable amounts in special cases) after paragraph 17[^f00016] (claimants entitled to the disability premium for a past period)—
 
@@ -162,7 +162,7 @@ In Schedule 7 to the Income Support Regulations (applicable amounts in special c
 
   .
 
-## 8. Amendment of Schedule 8 to the Income Support Regulations[^key-f56afcd23808be0effd9b435c46b9eeb]
+## 8. Amendment of Schedule 8 to the Income Support Regulations[^c-f56afcd23808be0effd9b435c46b9eeb]
 
 In Schedule 8 to the Income Support Regulations (sums to be disregarded in the calculation of earnings) after paragraph 15B[^f00018] there shall be inserted the following paragraph—
 
@@ -170,7 +170,7 @@ In Schedule 8 to the Income Support Regulations (sums to be disregarded in the c
 
 .
 
-## 9. Amendment of Schedule 9 to the Income Support Regulations[^key-bd0cbc7eb473b7deffe10d0ca18ea609]
+## 9. Amendment of Schedule 9 to the Income Support Regulations[^c-bd0cbc7eb473b7deffe10d0ca18ea609]
 
 In Schedule 9 to the Income Support Regulations (sums to be disregarded in the calculation of income other than earnings) after paragraph 69[^f00019] there shall be added the following paragraph—
 
@@ -178,7 +178,7 @@ In Schedule 9 to the Income Support Regulations (sums to be disregarded in the c
 
 .
 
-## 10. Amendment of Schedule 10 to the Income Support Regulations[^key-a458fa6a354856c38426e31fa245954c]
+## 10. Amendment of Schedule 10 to the Income Support Regulations[^c-a458fa6a354856c38426e31fa245954c]
 
 In Schedule 10 to the Income Support Regulations (capital to be disregarded) after paragraph 57[^f00020] there shall be added the following paragraph—
 
@@ -186,7 +186,7 @@ In Schedule 10 to the Income Support Regulations (capital to be disregarded) aft
 
 .
 
-## 11. Amendment of the Social Security (Claims and Payments) Regulations[^key-805cbe7b0473ea6f3802282491ca9788][^key-ed85868df3a777f42eb6b8bfde62b2d9]
+## 11. Amendment of the Social Security (Claims and Payments) Regulations[^c-805cbe7b0473ea6f3802282491ca9788][^c-ed85868df3a777f42eb6b8bfde62b2d9]
 
 (1) The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00021] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -205,7 +205,7 @@ In Schedule 10 to the Income Support Regulations (capital to be disregarded) aft
 
   .
 
-## 12. Amendment of the Jobseeker’s Allowance Regulations[^key-dc2039723d97993fc4ba963b7b2b9547]
+## 12. Amendment of the Jobseeker’s Allowance Regulations[^c-dc2039723d97993fc4ba963b7b2b9547]
 
 In the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00025]—
 
@@ -238,7 +238,7 @@ In the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00025]—
 
     .
 
-## 13. Amendment of the Social Security (Back to Work Bonus) (No. 2) Regulations[^key-e4ccf2449e95087436b83a02ae56f440]
+## 13. Amendment of the Social Security (Back to Work Bonus) (No. 2) Regulations[^c-e4ccf2449e95087436b83a02ae56f440]
 
 In the Social Security (Back to Work Bonus) (No. 2) Regulations (Northern Ireland) 1996[^f00030]—
 
@@ -292,25 +292,25 @@ These Regulations do not impose any charge on business.
 
 [^f00004]: Footnote: *See* Article 8(*b*) of, and Part II of Schedule 6 to, the Departments (Transfer and Assignment of Functions) Order (Northern Ireland) 1999 ([S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481))
 
-[^key-9e983a6fbb757b3d236d4d4bb3394d53]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/78/regulation/1) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-9e983a6fbb757b3d236d4d4bb3394d53]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/78/regulation/1) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Regulations are [S.R. 1995 Nos. 86](https://www.legislation.gov.uk/nisr/1995/86) and [301](https://www.legislation.gov.uk/nisr/1995/301), [S.R. 1996 Nos. 199](https://www.legislation.gov.uk/nisr/1996/199) and [405](https://www.legislation.gov.uk/nisr/1996/405), [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324), [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381) and [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74) and [S.R. 2001 Nos. 4](https://www.legislation.gov.uk/nisr/2001/4) and [25](https://www.legislation.gov.uk/nisr/2001/25)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-ec3758f2940752900da0568f7a13275b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/78/regulation/2) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-ec3758f2940752900da0568f7a13275b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/78/regulation/2) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 75(1)(*a*) was amended by regulation 2(4) of [S.R. 2000 No. 197](https://www.legislation.gov.uk/nisr/2000/197)
 
-[^key-4d45437c85d06efa8cacaa63b7c4084b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/78/regulation/3) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-4d45437c85d06efa8cacaa63b7c4084b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/78/regulation/3) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00008]: Footnote: Paragraphs (8) to (10) were added by regulation 2(2) of [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381)
 
-[^key-1ddbc8338caa5af6253381bab6aad59b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/78/regulation/4) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-1ddbc8338caa5af6253381bab6aad59b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/78/regulation/4) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00009]: Footnote: Paragraph (4) was added by regulation 2(*b*)(iii) of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74)
 
-[^key-e2270163fb19ca170377ccef4b62a44c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/78/regulation/5) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-e2270163fb19ca170377ccef4b62a44c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/78/regulation/5) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00010]: Footnote: Schedule 1B was inserted by regulation 22 of and Schedule 1 to [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)
 
@@ -318,7 +318,7 @@ These Regulations do not impose any charge on business.
 
 [^f00012]: Footnote: Regulation 6(5) is inserted by regulation 4 of these Regulations
 
-[^key-4a0f1676d18ad203e241b39120041412]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/78/regulation/6) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-4a0f1676d18ad203e241b39120041412]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2001/78/regulation/6) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00013]: Footnote: Schedule 3 was substituted by regulation 2 of and Schedule 1 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301)
 
@@ -326,27 +326,27 @@ These Regulations do not impose any charge on business.
 
 [^f00015]: Footnote: Sub-paragraph (10) was added by regulation 8(4)(*b*) of [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324)
 
-[^key-1fcc1ccb689dab9fd8a317659c1ee058]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/78/regulation/7) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-1fcc1ccb689dab9fd8a317659c1ee058]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2001/78/regulation/7) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00016]: Footnote: Paragraph 17 was amended by regulation 2(11) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86) and regulation 6 of [S.R. 2000 No. 74](https://www.legislation.gov.uk/nisr/2000/74)
 
 [^f00017]: Footnote: Regulation 6(6) is inserted by regulation 4 of these Regulations
 
-[^key-f56afcd23808be0effd9b435c46b9eeb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/78/regulation/8) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-f56afcd23808be0effd9b435c46b9eeb]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/78/regulation/8) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00018]: Footnote: Paragraph 15B was inserted by regulation 2(9) of [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381)
 
-[^key-bd0cbc7eb473b7deffe10d0ca18ea609]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2001/78/regulation/9) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-bd0cbc7eb473b7deffe10d0ca18ea609]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2001/78/regulation/9) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00019]: Footnote: Paragraph 69 was added by regulation 2(1)(*b*) of [S.R. 2001 No. 25](https://www.legislation.gov.uk/nisr/2001/25)
 
-[^key-a458fa6a354856c38426e31fa245954c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2001/78/regulation/10) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-a458fa6a354856c38426e31fa245954c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2001/78/regulation/10) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00020]: Footnote: Paragraph 57 was added by regulation 2(*a*) of [S.R. 2001 No. 4](https://www.legislation.gov.uk/nisr/2001/4)
 
-[^key-805cbe7b0473ea6f3802282491ca9788]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2001/78/regulation/11) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-805cbe7b0473ea6f3802282491ca9788]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2001/78/regulation/11) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
-[^key-ed85868df3a777f42eb6b8bfde62b2d9]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2001/78/regulation/11) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
+[^c-ed85868df3a777f42eb6b8bfde62b2d9]: Modification: [Reg. 11](https://www.legislation.gov.uk/nisr/2001/78/regulation/11) modified (7.4.2003 for specified purposes) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1](https://www.legislation.gov.uk/uksi/2003/492/regulation/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
 [^f00021]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); relevant amending Regulations are [S.R. 1992 No. 271](https://www.legislation.gov.uk/nisr/1992/271), [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301), [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and [S.R. 1999 Nos. 381](https://www.legislation.gov.uk/nisr/1999/381) and [472](https://www.legislation.gov.uk/nisr/1999/472)
 
@@ -356,7 +356,7 @@ These Regulations do not impose any charge on business.
 
 [^f00024]: Footnote: Sub-paragraph (1) was amended by paragraph 3(3)(*a*) of Schedule 2 to [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301), regulation 2(27)(*c*) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and Article 9(14) of [S.R. 1999 No. 472](https://www.legislation.gov.uk/nisr/1999/472)
 
-[^key-dc2039723d97993fc4ba963b7b2b9547]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2001/78/regulation/12) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-dc2039723d97993fc4ba963b7b2b9547]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2001/78/regulation/12) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00025]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); relevant amending Regulations are [S.R. 1996 No. 358](https://www.legislation.gov.uk/nisr/1996/358), [S.R. 1998 No. 324](https://www.legislation.gov.uk/nisr/1998/324) and [S.R. 1999 No. 381](https://www.legislation.gov.uk/nisr/1999/381)
 
@@ -368,6 +368,6 @@ These Regulations do not impose any charge on business.
 
 [^f00029]: Footnote: Article 5A was inserted by Article 56 of and Schedule 7 to the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. [1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147))
 
-[^key-e4ccf2449e95087436b83a02ae56f440]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2001/78/regulation/13) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
+[^c-e4ccf2449e95087436b83a02ae56f440]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2001/78/regulation/13) in operation at 9.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/78/regulation/1/1)
 
 [^f00030]: Footnote: [S.R. 1996 No. 519](https://www.legislation.gov.uk/nisr/1996/519); to which there are amendments not relevant to these Regulations

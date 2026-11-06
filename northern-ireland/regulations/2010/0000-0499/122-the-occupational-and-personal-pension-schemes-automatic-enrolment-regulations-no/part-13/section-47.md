@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Prescribed requirements for non-UK qualifying schemes[^key-b7de494b9bd870bc576efc65d735ae8e]
+## 47. Prescribed requirements for non-UK qualifying schemes[^c-b7de494b9bd870bc576efc65d735ae8e]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the requirements set out in paragraphs (2) and (3) are satisfied, and
 - (b) the requirement set out in one of paragraphs (4), (5), (6) and (7) is satisfied,
 
-section 16(1)(b) (qualifying schemes) does not apply in relation to an occupational pension scheme[^key-12a8c9bb5f94a6ebe1feb4e964d773fe] or a personal pension scheme to which section 25 or 27 (quality requirement: non-UK occupational pension schemes or other personal pension schemes) applies.
+section 16(1)(b) (qualifying schemes) does not apply in relation to an occupational pension scheme[^c-12a8c9bb5f94a6ebe1feb4e964d773fe] or a personal pension scheme to which section 25 or 27 (quality requirement: non-UK occupational pension schemes or other personal pension schemes) applies.
 
 (2) The requirements to be satisfied are that—
 
@@ -36,7 +36,7 @@ section 16(1)(b) (qualifying schemes) does not apply in relation to an occupatio
   - (i) which regulates personal pension schemes, and
   - (ii) which regulates the personal pension scheme provider in relation to that scheme.
 
-(3) The requirement to be satisfied is that the regulatory requirements applicable to the occupational pension scheme[^key-a9915042c5e85ec3b17183545c2ad97e] or the personal pension scheme provide that some of the benefits applicable to the jobholder may be designated for the purpose of providing that jobholder with an income for life.
+(3) The requirement to be satisfied is that the regulatory requirements applicable to the occupational pension scheme[^c-a9915042c5e85ec3b17183545c2ad97e] or the personal pension scheme provide that some of the benefits applicable to the jobholder may be designated for the purpose of providing that jobholder with an income for life.
 
 (4) The requirement to be satisfied is that the scheme is a qualifying overseas pension scheme.
 
@@ -44,7 +44,7 @@ section 16(1)(b) (qualifying schemes) does not apply in relation to an occupatio
 
 (6) The requirement to be satisfied is that relief from tax is given in respect of contributions made by an individual under an arrangement entered into by the individual for which a deduction of tax is given under Chapter 2 of Part 5 of the Income Tax (Earnings and Pensions) Act 2003[^f00018] (employment income: deductions allowed from earnings) for that tax year in accordance with paragraph 51 of Schedule 36 to the Finance Act 2004[^f00019] (pension schemes etc).
 
-(7) This paragraph applies in relation to any money purchase benefits applicable to the jobholder[^key-9ca89cdbf415556b0187b871c6bf034b] and the requirement to be satisfied is that the employer’s contribution, however calculated, includes an additional amount, the value of which represents the value of any relief from tax which would have been applicable in relation to the jobholder’s contributions if the scheme had been registered under Chapter 2 of Part 4 of the Finance Act 2004.
+(7) This paragraph applies in relation to any money purchase benefits applicable to the jobholder[^c-9ca89cdbf415556b0187b871c6bf034b] and the requirement to be satisfied is that the employer’s contribution, however calculated, includes an additional amount, the value of which represents the value of any relief from tax which would have been applicable in relation to the jobholder’s contributions if the scheme had been registered under Chapter 2 of Part 4 of the Finance Act 2004.
 
 (8) For the purposes of this regulation—
 
@@ -53,11 +53,11 @@ section 16(1)(b) (qualifying schemes) does not apply in relation to an occupatio
 
 ## Annotations
 
-[^key-b7de494b9bd870bc576efc65d735ae8e]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2010/122/regulation/47) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-b7de494b9bd870bc576efc65d735ae8e]: Commencement: [Reg. 47](https://www.legislation.gov.uk/nisr/2010/122/regulation/47) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
-[^key-12a8c9bb5f94a6ebe1feb4e964d773fe]: Textual amendment: Words in [reg. 47(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/47/1) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(21)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/21/a)
+[^c-12a8c9bb5f94a6ebe1feb4e964d773fe]: Textual amendment: Words in [reg. 47(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/47/1) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(21)(a)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/21/a)
 
-[^key-a9915042c5e85ec3b17183545c2ad97e]: Textual amendment: Words in [reg. 47(3)](https://www.legislation.gov.uk/nisr/2010/122/regulation/47/3) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(21)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/21/b)
+[^c-a9915042c5e85ec3b17183545c2ad97e]: Textual amendment: Words in [reg. 47(3)](https://www.legislation.gov.uk/nisr/2010/122/regulation/47/3) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(21)(b)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/21/b)
 
 [^f00017]: Footnote: [1988 c.1](https://www.legislation.gov.uk/ukpga/1988/1)
 
@@ -65,4 +65,4 @@ section 16(1)(b) (qualifying schemes) does not apply in relation to an occupatio
 
 [^f00019]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
 
-[^key-9ca89cdbf415556b0187b871c6bf034b]: Textual amendment: Words in [reg. 47(7)](https://www.legislation.gov.uk/nisr/2010/122/regulation/47/7) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(21)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/21/c)
+[^c-9ca89cdbf415556b0187b871c6bf034b]: Textual amendment: Words in [reg. 47(7)](https://www.legislation.gov.uk/nisr/2010/122/regulation/47/7) substituted (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/232)](https://www.legislation.gov.uk/nisr/2012/232), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/1/1/c), [2(21)(c)](https://www.legislation.gov.uk/nisr/2012/232/regulation/2/21/c)

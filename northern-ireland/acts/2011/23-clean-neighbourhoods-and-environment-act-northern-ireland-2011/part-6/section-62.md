@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Extension of Noise Act 1996 to licensed premises etc.[^key-9a1d98594a82a3d01a206898bbc93b47]
+## 62. Extension of Noise Act 1996 to licensed premises etc.[^c-9a1d98594a82a3d01a206898bbc93b47]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 (which makes provision amending the Noise Act 1996 so that it applies
 
 ## Annotations
 
-[^key-9a1d98594a82a3d01a206898bbc93b47]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2011/23/section/62) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-9a1d98594a82a3d01a206898bbc93b47]: Commencement: [S. 62](https://www.legislation.gov.uk/nia/2011/23/section/62) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

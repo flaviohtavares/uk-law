@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Appealing a decision made by the Welsh Ministers[^key-6350cd850501ac47ba179b4982b57365]
+## 36. Appealing a decision made by the Welsh Ministers[^c-6350cd850501ac47ba179b4982b57365]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6350cd850501ac47ba179b4982b57365]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2024/1268/regulation/36) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-6350cd850501ac47ba179b4982b57365]: Commencement: [Reg. 36](https://www.legislation.gov.uk/wsi/2024/1268/regulation/36) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
 
 [^f00045]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

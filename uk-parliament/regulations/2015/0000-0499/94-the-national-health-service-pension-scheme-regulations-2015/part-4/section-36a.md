@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36A. Scheme Administration Charge[^key-94a433233e8fa6c7a7a0de7ffcb201f5]
+## 36A. Scheme Administration Charge[^c-94a433233e8fa6c7a7a0de7ffcb201f5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94a433233e8fa6c7a7a0de7ffcb201f5]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2015/94/regulation/36A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [31](https://www.legislation.gov.uk/uksi/2017/275/regulation/31)
+[^c-94a433233e8fa6c7a7a0de7ffcb201f5]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2015/94/regulation/36A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [31](https://www.legislation.gov.uk/uksi/2017/275/regulation/31)

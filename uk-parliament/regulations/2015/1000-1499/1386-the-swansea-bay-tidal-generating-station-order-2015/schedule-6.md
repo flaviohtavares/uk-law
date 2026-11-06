@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — Land of which temporary possession may be taken[^key-f28516a79b16e21e271c3999344b1352]
+## SCHEDULE 6 — Land of which temporary possession may be taken[^c-f28516a79b16e21e271c3999344b1352]
 
 *Extent: E+W*
 
@@ -80,4 +80,4 @@ Article 33
 
 ## Annotations
 
-[^key-f28516a79b16e21e271c3999344b1352]: Commencement: Sch. 6 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-f28516a79b16e21e271c3999344b1352]: Commencement: Sch. 6 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

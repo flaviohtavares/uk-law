@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. Assistance, etc.[^key-014e9c7b1254dd4ab97d50f5cc5e6d4c]
+## 148. Assistance, etc.[^c-014e9c7b1254dd4ab97d50f5cc5e6d4c]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-014e9c7b1254dd4ab97d50f5cc5e6d4c]: Commencement: [S. 148](https://www.legislation.gov.uk/asp/2010/5/section/148) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-014e9c7b1254dd4ab97d50f5cc5e6d4c]: Commencement: [S. 148](https://www.legislation.gov.uk/asp/2010/5/section/148) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

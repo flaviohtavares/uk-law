@@ -85,7 +85,7 @@ Regulation 62(4)
 
 (7) An enforcing authority may not vary a withdrawal notice so as to make it more restrictive for the economic operator or more onerous for the economic operator to comply.
 
-(8) A withdrawal notice has effect throughout Northern Ireland[^key-71828e6f6199be2a2ae3c31a9cb53238].
+(8) A withdrawal notice has effect throughout Northern Ireland[^c-71828e6f6199be2a2ae3c31a9cb53238].
 
 ### 3. Recall notice[^M_E_3a4a1ac5-e70b-4522-d95c-15318c56b423]
 
@@ -181,7 +181,7 @@ Regulation 62(4)
 
 (12) An enforcing authority may not vary a recall notice so as to make it more restrictive for the economic operator or more onerous for the economic operator to comply.
 
-(13) A recall notice has effect throughout Northern Ireland[^key-154e0a7906a77d2e8e3f274611dbba44].
+(13) A recall notice has effect throughout Northern Ireland[^c-154e0a7906a77d2e8e3f274611dbba44].
 
 ### 4. Interpretation
 
@@ -196,10 +196,10 @@ In this Schedule, “**non-compliance**” means that the lift or safety compone
 
 [^M_E_6083c970-7b91-4956-96ce-a2335ef04f49]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-71828e6f6199be2a2ae3c31a9cb53238]: Textual amendment: Words in [Sch. 10 para. 2(8)](https://www.legislation.gov.uk/uksi/2016/1093/schedule/10/paragraph/2/8) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/10/paragraph/7/2)
+[^c-71828e6f6199be2a2ae3c31a9cb53238]: Textual amendment: Words in [Sch. 10 para. 2(8)](https://www.legislation.gov.uk/uksi/2016/1093/schedule/10/paragraph/2/8) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/10/paragraph/7/2)
 
 [^M_E_3a4a1ac5-e70b-4522-d95c-15318c56b423]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
 [^M_E_2d9f3ffe-1225-4c15-bbd0-d7c696f857b5]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-154e0a7906a77d2e8e3f274611dbba44]: Textual amendment: Words in [Sch. 10 para. 3(13)](https://www.legislation.gov.uk/uksi/2016/1093/schedule/10/paragraph/3/13) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/10/paragraph/7/2)
+[^c-154e0a7906a77d2e8e3f274611dbba44]: Textual amendment: Words in [Sch. 10 para. 3(13)](https://www.legislation.gov.uk/uksi/2016/1093/schedule/10/paragraph/3/13) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 10 para. 7(2)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/10/paragraph/7/2)

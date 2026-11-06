@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Procedural rights[^key-d390308f0ba55bcf8437efca43bcc50d][^key-be526366d4916af945b59abe11616185]
+## 55. Procedural rights[^c-d390308f0ba55bcf8437efca43bcc50d][^c-be526366d4916af945b59abe11616185]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 147 of the Policing and Crime Act 2017 (monetary penalties: procedura
 
 ## Annotations
 
-[^key-d390308f0ba55bcf8437efca43bcc50d]: Commencement: S. 55 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-d390308f0ba55bcf8437efca43bcc50d]: Commencement: S. 55 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-be526366d4916af945b59abe11616185]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2022/10/section/55) in force at 15.6.2022 by [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2)
+[^c-be526366d4916af945b59abe11616185]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2022/10/section/55) in force at 15.6.2022 by [S.I. 2022/638](https://www.legislation.gov.uk/uksi/2022/638), [reg. 2](https://www.legislation.gov.uk/uksi/2022/638/regulation/2)

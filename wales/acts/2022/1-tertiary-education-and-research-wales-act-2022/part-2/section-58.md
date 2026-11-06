@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Power of the Chief Inspector to inspect and report[^key-fb820adb6c0fa31b25516c0b2d6f5a29][^key-ce913e689a0d3c11470f588ef32ab290]
+## 58. Power of the Chief Inspector to inspect and report[^c-fb820adb6c0fa31b25516c0b2d6f5a29][^c-ce913e689a0d3c11470f588ef32ab290]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ if the provider of the education or training asks the Chief Inspector to do so.
 
 ## Annotations
 
-[^key-fb820adb6c0fa31b25516c0b2d6f5a29]: Commencement: S. 58 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-fb820adb6c0fa31b25516c0b2d6f5a29]: Commencement: S. 58 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-ce913e689a0d3c11470f588ef32ab290]: Commencement: [S. 58](https://www.legislation.gov.uk/asc/2022/1/section/58) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/62/article/2/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))
+[^c-ce913e689a0d3c11470f588ef32ab290]: Commencement: [S. 58](https://www.legislation.gov.uk/asc/2022/1/section/58) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(b)](https://www.legislation.gov.uk/wsi/2026/62/article/2/b) (with [art. 13](https://www.legislation.gov.uk/wsi/2026/62/article/13), [Sch.](https://www.legislation.gov.uk/wsi/2026/62/schedule))

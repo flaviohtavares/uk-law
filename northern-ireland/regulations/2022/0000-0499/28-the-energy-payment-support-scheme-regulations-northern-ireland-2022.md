@@ -46,11 +46,11 @@ Accordingly, the Department for Communities, makes the following Regulations in 
 
 In accordance with section 1(4) of that Act, the Executive Office[^f00003] approves the making of these Regulations.
 
-## 1. Citation and commencement[^key-1967bd0a48b897edab30f4b7a9423921]
+## 1. Citation and commencement[^c-1967bd0a48b897edab30f4b7a9423921]
 
 These Regulations may be cited as the Energy Payment Support Scheme Regulations (Northern Ireland) 2022 and shall come into operation on 10th March 2022.
 
-## 2. Energy Payment Support Scheme (Northern Ireland)[^key-e35fa6524ad2fabdeef034cd38232fd2]
+## 2. Energy Payment Support Scheme (Northern Ireland)[^c-e35fa6524ad2fabdeef034cd38232fd2]
 
 The Department for Communities makes the Scheme set out in the Schedule.
 
@@ -76,7 +76,7 @@ A senior officer of the Executive Office
 
 Regulation 2
 
-### 1. Citation and interpretation[^key-d9255a9a0a40d223dc3812361e760a6c]
+### 1. Citation and interpretation[^c-d9255a9a0a40d223dc3812361e760a6c]
 
 (1) This Scheme may be cited as the Energy Payment Support Scheme (Northern Ireland) 2022.
 
@@ -98,7 +98,7 @@ Regulation 2
 - “**state pension credit**” means state pension credit under the State Pension Credit Act (Northern Ireland) 2002[^f00008];
 - “**universal credit**” means universal credit under Part 2 of the 2015 Order.
 
-### 2. Eligibility[^key-9deae06b425abdad08b5aae2db28758e]
+### 2. Eligibility[^c-9deae06b425abdad08b5aae2db28758e]
 
 (1) A person is not eligible for an Energy Payment at the standard rate unless they were in receipt of—
 
@@ -114,11 +114,11 @@ on any one day during the qualifying week, and on that day were ordinarily resid
 
 (3) A person who is resident in a care home shall not be eligible for a payment under this scheme.
 
-### 3. Recovery[^key-6d872ba0656c365ece58e3139374a99d]
+### 3. Recovery[^c-6d872ba0656c365ece58e3139374a99d]
 
 The Department may recover any payment made in error.
 
-### 4. Delayed payment[^key-641322a83439b1f997ecb1f52c2082d5]
+### 4. Delayed payment[^c-641322a83439b1f997ecb1f52c2082d5]
 
 (1) A person who is eligible for an Energy Payment, and has not received it by 28th<sup></sup>March 2022, may apply for a payment.
 
@@ -132,11 +132,11 @@ The Department may recover any payment made in error.
 
 (3) If the Department is satisfied that a person making an application under sub-paragraph (1) is eligible for an Energy Support payment and has not already received such a payment, the Department shall make that payment.
 
-### 5. Appeals[^key-d8a224ef84d6e5a087cdc5eb52328848]
+### 5. Appeals[^c-d8a224ef84d6e5a087cdc5eb52328848]
 
 There will be no right of appeal.
 
-### 5A. Payment to be disregarded for social security[^key-eae09827cc2b2f63985a4c2fdc5b0159]
+### 5A. Payment to be disregarded for social security[^c-eae09827cc2b2f63985a4c2fdc5b0159]
 
 No account shall be taken of eligibility for an Energy Payment in considering a person’s entitlement to a payment under any of the following social security benefits:
 
@@ -146,11 +146,11 @@ No account shall be taken of eligibility for an Energy Payment in considering a 
 - (d) universal credit; or
 - (e) state pension credit.
 
-### 6. Information[^key-fe5900f79ebf660c1c8559a9eb27d993]
+### 6. Information[^c-fe5900f79ebf660c1c8559a9eb27d993]
 
 The Department may use social security information for the purpose of determining whether a person is eligible for an Energy Payment.
 
-### 7. Provision of Energy Support payment[^key-7397353ef29254cc60a13b2dcba70254]
+### 7. Provision of Energy Support payment[^c-7397353ef29254cc60a13b2dcba70254]
 
 The Department shall make Energy Payments under the Scheme.
 
@@ -188,11 +188,11 @@ A regulatory impact assessment has not been produced for the Regulations as they
 
 [^f00003]: Footnote: Formerly the Office of the First Minister and deputy First Minister; see section 1(1) and (11) of, and Schedule 1 to, the Departments Act (Northern Ireland) 2016 ([2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-1967bd0a48b897edab30f4b7a9423921]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
+[^c-1967bd0a48b897edab30f4b7a9423921]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
 
-[^key-e35fa6524ad2fabdeef034cd38232fd2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/28/regulation/2) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
+[^c-e35fa6524ad2fabdeef034cd38232fd2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2022/28/regulation/2) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
 
-[^key-d9255a9a0a40d223dc3812361e760a6c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/1) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
+[^c-d9255a9a0a40d223dc3812361e760a6c]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/1) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
 
 [^f00004]: Footnote: [1992 c. 7 (N.I.)](https://www.legislation.gov.uk/apni/1992/7)
 
@@ -204,16 +204,16 @@ A regulatory impact assessment has not been produced for the Regulations as they
 
 [^f00008]: Footnote: [2002 c. 14 (N.I.)](https://www.legislation.gov.uk/nia/2002/14)
 
-[^key-9deae06b425abdad08b5aae2db28758e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/2) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
+[^c-9deae06b425abdad08b5aae2db28758e]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/2) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
 
-[^key-6d872ba0656c365ece58e3139374a99d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/3) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
+[^c-6d872ba0656c365ece58e3139374a99d]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/3) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
 
-[^key-641322a83439b1f997ecb1f52c2082d5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/4) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
+[^c-641322a83439b1f997ecb1f52c2082d5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/4) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
 
-[^key-d8a224ef84d6e5a087cdc5eb52328848]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/5) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
+[^c-d8a224ef84d6e5a087cdc5eb52328848]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/5) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
 
-[^key-eae09827cc2b2f63985a4c2fdc5b0159]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/5A) inserted (10.3.2022) by [The Energy Payment Support Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/88)](https://www.legislation.gov.uk/nisr/2022/88), [regs. 1](https://www.legislation.gov.uk/nisr/2022/88/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/88/regulation/2/2)
+[^c-eae09827cc2b2f63985a4c2fdc5b0159]: Textual amendment: [Sch. para. 5A](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/5A) inserted (10.3.2022) by [The Energy Payment Support Scheme (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/88)](https://www.legislation.gov.uk/nisr/2022/88), [regs. 1](https://www.legislation.gov.uk/nisr/2022/88/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2022/88/regulation/2/2)
 
-[^key-fe5900f79ebf660c1c8559a9eb27d993]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/6) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
+[^c-fe5900f79ebf660c1c8559a9eb27d993]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/6) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
 
-[^key-7397353ef29254cc60a13b2dcba70254]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/7) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)
+[^c-7397353ef29254cc60a13b2dcba70254]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2022/28/schedule/paragraph/7) in operation at 10.3.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/28/regulation/1)

@@ -24,7 +24,7 @@ Section 33(2)
 
 ### PART 1 — Amendments
 
-#### 1. Conveyancing (Scotland) Act 1924[^key-3fc9ef408c742ff2aa46bede6eed9feb][^key-901652ada7d5971399ddfea0d099ebaf]
+#### 1. Conveyancing (Scotland) Act 1924[^c-3fc9ef408c742ff2aa46bede6eed9feb][^c-901652ada7d5971399ddfea0d099ebaf]
 
 (1) Section 4A of the Conveyancing (Scotland) Act 1924 (completion of title by registration of notice of title in Land Register of Scotland) is amended as follows.
 
@@ -34,29 +34,29 @@ Section 33(2)
 
 > (2) Subsection (1) is subject to paragraphs 3 and 4 of schedule 1A to the Land Registration etc. (Scotland) Act 2012.
 
-#### 2. Land Registration etc. (Scotland) Act [2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5)[^key-895ad3e7a46e605c9267ac06f677584f][^key-682fe7699d3e03cd28d88c0c1ec035c5]
+#### 2. Land Registration etc. (Scotland) Act [2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5)[^c-895ad3e7a46e605c9267ac06f677584f][^c-682fe7699d3e03cd28d88c0c1ec035c5]
 
 The Land Registration etc. (Scotland) Act 2012 is amended as follows.
 
-**3.**[^key-83c4baa636ee6afdf2bbd5e3c4032fb1][^key-cbebae67b3135d0eba02da4f3f077f5a] In section 21 (application for registration of deed)—
+**3.**[^c-83c4baa636ee6afdf2bbd5e3c4032fb1][^c-cbebae67b3135d0eba02da4f3f077f5a] In section 21 (application for registration of deed)—
 
 - (a) in subsection (4), after “45(5)” insert “and paragraphs 1 to 5 of schedule 1A”, and
 - (b) after that subsection insert—
 
   > (5) Schedule 1A makes provision about certain land transactions involving overseas entities.
 
-**4.**[^key-aa94aa087b08079841350449255d41d2][^key-84f84a5b234ce7a01714c5b8c7d86cba] In section 27 (application for voluntary registration), after subsection (4) insert—
+**4.**[^c-aa94aa087b08079841350449255d41d2][^c-84f84a5b234ce7a01714c5b8c7d86cba] In section 27 (application for voluntary registration), after subsection (4) insert—
 
 > (4A) Subsection (3) is subject to paragraph 6 of schedule 1A.
 
-**5.**[^key-337f2e0455ef57f0ab6834366cfd5b8a][^key-b07a8fa85c71c371bc66aa3b4439029e] In section 46 (the title of which becomes “Meaning of “disposition” in certain provisions”)—
+**5.**[^c-337f2e0455ef57f0ab6834366cfd5b8a][^c-b07a8fa85c71c371bc66aa3b4439029e] In section 46 (the title of which becomes “Meaning of “disposition” in certain provisions”)—
 
 - (a) after “48” insert “and schedule 1A”, and
 - (b) after “sections” insert “or that schedule”.
 
-**6.**[^key-c43df5387485ac1dea8a021d8d4642e2][^key-e0c4df43ff10bcc1034edc652a8ba7d5] The italic heading before section 112 becomes “Offences”.
+**6.**[^c-c43df5387485ac1dea8a021d8d4642e2][^c-e0c4df43ff10bcc1034edc652a8ba7d5] The italic heading before section 112 becomes “Offences”.
 
-**7.**[^key-7b9d2417ee828b685635995f110b9db8][^key-9812b5b7f74858e837b9e29e66adb092] After section 112 insert—
+**7.**[^c-7b9d2417ee828b685635995f110b9db8][^c-9812b5b7f74858e837b9e29e66adb092] After section 112 insert—
 
 > **112A. Offence by overseas entity**
 >
@@ -91,14 +91,14 @@ The Land Registration etc. (Scotland) Act 2012 is amended as follows.
 >   - (c) a lease;
 >   - (d) an assignation of a lease.
 
-**8.**[^key-2a354fee8d3a3a74f71f11b2f42a6ec5][^key-d8d5c455ece17fc0ea9cc75cd8f84133] In section 116(2) (orders and regulations subject to the negative procedure)—
+**8.**[^c-2a354fee8d3a3a74f71f11b2f42a6ec5][^c-d8d5c455ece17fc0ea9cc75cd8f84133] In section 116(2) (orders and regulations subject to the negative procedure)—
 
 - (a) for “sections”, in the first place it occurs, substitute “provisions”, and
 - (b) after paragraph (h) insert—
 
   > - (i) paragraph 2(5) or 7(5) of schedule 1A.
 
-**9.**[^key-cfa4e657f27494f77e872a307eeacd66][^key-7d67f95ebc2c2870023cde5c082fcd09] After schedule 1 insert—
+**9.**[^c-cfa4e657f27494f77e872a307eeacd66][^c-7d67f95ebc2c2870023cde5c082fcd09] After schedule 1 insert—
 
 > **SCHEDULE 1A — Land transactions: overseas entities**
 >
@@ -273,7 +273,7 @@ The Land Registration etc. (Scotland) Act 2012 is amended as follows.
 
 ### PART 2 — Transition: deeds registered pre-commencement
 
-#### 10. Duty to register as an overseas entity within transitional period[^key-faa8263c147d1040b5b934b195e42efa][^key-bbc6b044ee1dd6ad86d787ea3f4b0a75]
+#### 10. Duty to register as an overseas entity within transitional period[^c-faa8263c147d1040b5b934b195e42efa][^c-bbc6b044ee1dd6ad86d787ea3f4b0a75]
 
 (1) This paragraph applies where—
 
@@ -293,7 +293,7 @@ The Land Registration etc. (Scotland) Act 2012 is amended as follows.
 
 (4) Nothing in this paragraph limits the power to give a notice under section 34 at any time.
 
-#### 11. Disapplication of certain provisions during transitional period[^key-a03451432d3fada6ff4576647f547b26][^key-8890b84166b806df496daafcdfb49d07]
+#### 11. Disapplication of certain provisions during transitional period[^c-a03451432d3fada6ff4576647f547b26][^c-8890b84166b806df496daafcdfb49d07]
 
 (1) This paragraph applies where—
 
@@ -307,7 +307,7 @@ The Land Registration etc. (Scotland) Act 2012 is amended as follows.
 
 (4) Paragraphs 2 and 4 of schedule 1A to the 2012 Act do not apply in relation to the entity as regards the plot of land or, as the case may be, lease.
 
-#### 12. Interpretation[^key-9a910143d34a22e2ea9b9bbfaa295759][^key-2b47cfc2c537781c5d173f054e46c5bc]
+#### 12. Interpretation[^c-9a910143d34a22e2ea9b9bbfaa295759][^c-2b47cfc2c537781c5d173f054e46c5bc]
 
 In this Part of this Schedule—
 
@@ -319,14 +319,14 @@ In this Part of this Schedule—
 - “**proprietor**” has the meaning given by section 113(1) of the Land Registration etc. (Scotland) Act 2012;
 - “**transitional period**” has the meaning given by section 41(10).
 
-**13.**[^key-f1d7bb50833bbddf25410df751ecfde1][^key-447d12e4781acd3476a1c0cc781f28a1] For the purposes of paragraphs 10(1)(a) and 11(1)(a)—
+**13.**[^c-f1d7bb50833bbddf25410df751ecfde1][^c-447d12e4781acd3476a1c0cc781f28a1] For the purposes of paragraphs 10(1)(a) and 11(1)(a)—
 
 - (a) references to an overseas entity’s being entered as proprietor in the proprietorship section of a title sheet are references to the name of the entity being so entered, and
 - (b) the date on which an overseas entity was entered as proprietor in the proprietorship section of a title sheet is, where the entry was made by virtue of an application for registration, the date of registration as determined under section 37 of the Land Registration etc. (Scotland) Act 2012 (date and time of registration).
 
 ### PART 3 — Power to make further provision
 
-**14.**[^key-65a46cbc12d8c22d28b5b649eeddc161][^key-25fc347587fa9a25942d3bd9386ba44d] (1) The Secretary of State may by regulations make further or alternative provision for the purpose of requiring or encouraging an overseas entity that owns or holds a right or interest in or over land in Scotland, or enters into land transactions in Scotland, to register as an overseas entity.
+**14.**[^c-65a46cbc12d8c22d28b5b649eeddc161][^c-25fc347587fa9a25942d3bd9386ba44d] (1) The Secretary of State may by regulations make further or alternative provision for the purpose of requiring or encouraging an overseas entity that owns or holds a right or interest in or over land in Scotland, or enters into land transactions in Scotland, to register as an overseas entity.
 
 (2) No regulations may be made under this paragraph after the end of the transitional period (within the meaning given by section 41(10)).
 
@@ -343,58 +343,58 @@ In this Part of this Schedule—
 
 ## Annotations
 
-[^key-3fc9ef408c742ff2aa46bede6eed9feb]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-3fc9ef408c742ff2aa46bede6eed9feb]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-901652ada7d5971399ddfea0d099ebaf]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/1) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-901652ada7d5971399ddfea0d099ebaf]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/1) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-895ad3e7a46e605c9267ac06f677584f]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-895ad3e7a46e605c9267ac06f677584f]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-682fe7699d3e03cd28d88c0c1ec035c5]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/2) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-682fe7699d3e03cd28d88c0c1ec035c5]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/2) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-83c4baa636ee6afdf2bbd5e3c4032fb1]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-83c4baa636ee6afdf2bbd5e3c4032fb1]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-cbebae67b3135d0eba02da4f3f077f5a]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/3) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-cbebae67b3135d0eba02da4f3f077f5a]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/3) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-aa94aa087b08079841350449255d41d2]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-aa94aa087b08079841350449255d41d2]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-84f84a5b234ce7a01714c5b8c7d86cba]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/4) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-84f84a5b234ce7a01714c5b8c7d86cba]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/4) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-337f2e0455ef57f0ab6834366cfd5b8a]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-337f2e0455ef57f0ab6834366cfd5b8a]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-b07a8fa85c71c371bc66aa3b4439029e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/5) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-b07a8fa85c71c371bc66aa3b4439029e]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/5) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-c43df5387485ac1dea8a021d8d4642e2]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-c43df5387485ac1dea8a021d8d4642e2]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-e0c4df43ff10bcc1034edc652a8ba7d5]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/6) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-e0c4df43ff10bcc1034edc652a8ba7d5]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/6) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-7b9d2417ee828b685635995f110b9db8]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-7b9d2417ee828b685635995f110b9db8]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-9812b5b7f74858e837b9e29e66adb092]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/7) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-9812b5b7f74858e837b9e29e66adb092]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/7) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-2a354fee8d3a3a74f71f11b2f42a6ec5]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-2a354fee8d3a3a74f71f11b2f42a6ec5]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-d8d5c455ece17fc0ea9cc75cd8f84133]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/8) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-d8d5c455ece17fc0ea9cc75cd8f84133]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/8) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-cfa4e657f27494f77e872a307eeacd66]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-cfa4e657f27494f77e872a307eeacd66]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-7d67f95ebc2c2870023cde5c082fcd09]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/9) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-7d67f95ebc2c2870023cde5c082fcd09]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/9) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-faa8263c147d1040b5b934b195e42efa]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-faa8263c147d1040b5b934b195e42efa]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-bbc6b044ee1dd6ad86d787ea3f4b0a75]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/10) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-bbc6b044ee1dd6ad86d787ea3f4b0a75]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/10) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-a03451432d3fada6ff4576647f547b26]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-a03451432d3fada6ff4576647f547b26]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-8890b84166b806df496daafcdfb49d07]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/11) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-8890b84166b806df496daafcdfb49d07]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/11) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-9a910143d34a22e2ea9b9bbfaa295759]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-9a910143d34a22e2ea9b9bbfaa295759]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-2b47cfc2c537781c5d173f054e46c5bc]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/12) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-2b47cfc2c537781c5d173f054e46c5bc]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/12) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-f1d7bb50833bbddf25410df751ecfde1]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-f1d7bb50833bbddf25410df751ecfde1]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-447d12e4781acd3476a1c0cc781f28a1]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/13) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-447d12e4781acd3476a1c0cc781f28a1]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/13) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-65a46cbc12d8c22d28b5b649eeddc161]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-65a46cbc12d8c22d28b5b649eeddc161]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-25fc347587fa9a25942d3bd9386ba44d]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/14) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-25fc347587fa9a25942d3bd9386ba44d]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/14) in force at 5.9.2022 by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)

@@ -34,11 +34,11 @@ An Act to make provision in place of section 15 of the Copyright Act 1911 relati
 
 \[30th October 2003\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-3bfbf61f04ad1ad67926ca458dc849f2]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-3bfbf61f04ad1ad67926ca458dc849f2]
 
 ## Duty to deposit
 
-### 1. Deposit of publications[^c522211][^key-8bb76f1f482f8ff1ffb90764c3c385f8]
+### 1. Deposit of publications[^c522211][^c-8bb76f1f482f8ff1ffb90764c3c385f8]
 
 (1) A person who publishes in the United Kingdom a work to which this Act applies must at his own expense deliver a copy of it to an address specified (generally or in a particular case) by any deposit library entitled to delivery under this section.
 
@@ -64,7 +64,7 @@ but that is subject to any prescribed exception.
 
 (7) In this section, “**address**” means an address in the United Kingdom or an electronic address.
 
-### 2. New and alternative editions[^c522212][^key-10d4a05239e3fbf40a432e00547910de]
+### 2. New and alternative editions[^c522212][^c-10d4a05239e3fbf40a432e00547910de]
 
 (1) This Act does not apply to a work which is substantially the same as one already published in the same medium in the United Kingdom.
 
@@ -75,7 +75,7 @@ but that is subject to any prescribed exception.
 
 (3) The Secretary of State may by regulations make provision as to circumstances in which works are or are not to be regarded for the purposes of this section as substantially the same.
 
-### 3. Enforcement[^key-ca59307549de0bcabb95a8a332733378]
+### 3. Enforcement[^c-ca59307549de0bcabb95a8a332733378]
 
 (1) This section applies where a person (in this section, “the publisher”) who is required by or under this Act to deliver anything to an address specified by a deposit library, or to a deposit library, has failed to comply with that obligation.
 
@@ -90,7 +90,7 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 
 ## Printed publications
 
-### 4. Printed publications: the British Library[^key-0478470479c383a13a930befe7d74dc0]
+### 4. Printed publications: the British Library[^c-0478470479c383a13a930befe7d74dc0]
 
 (1) The British Library Board is entitled to delivery under section 1 of a copy of every work published in print.
 
@@ -100,7 +100,7 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 
 (4) The Board must give a receipt in writing (whether sent by electronic or other means).
 
-### 5. Printed publications: other libraries[^key-b438c2eef46f59459a44f29d8a49ed0f]
+### 5. Printed publications: other libraries[^c-b438c2eef46f59459a44f29d8a49ed0f]
 
 (1) Each deposit library other than the British Library Board is entitled to delivery under section 1 of a copy of any work published in print which it requests.
 
@@ -122,7 +122,7 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 
 ## Non-print publications
 
-### 6. Regulations: deposit of non-print publications[^c522213][^key-32e7cda1b0db107a58be0c41ae0fd91e]
+### 6. Regulations: deposit of non-print publications[^c522213][^c-32e7cda1b0db107a58be0c41ae0fd91e]
 
 (1) The Secretary of State may make regulations supplementing sections 1 and 2 as they apply to works published in media other than print.
 
@@ -137,7 +137,7 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 - (g) make provision as to the circumstances in which works published on line are or are not to be treated as published in the United Kingdom;
 - (h) specify the medium in which a copy of a work published on line is to be delivered.
 
-### 7. Restrictions on activities in relation to non-print publications[^c522215][^key-3c74b9d3cab2777f8fea005084f39417]
+### 7. Restrictions on activities in relation to non-print publications[^c522215][^c-3c74b9d3cab2777f8fea005084f39417]
 
 (1) Subject to subsection (3), a relevant person may not do any of the activities listed in subsection (2) in relation to relevant material.
 
@@ -174,7 +174,7 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 
 (6) A contravention of this section is actionable at the suit of a person who suffers loss as a result of the contravention, subject to the defences and other incidents applying to actions for breach of statutory duty.
 
-### 8. Activities in relation to non-print publications: copyright etc.[^c522216][^key-a16889923a02416270ff18618402f132]
+### 8. Activities in relation to non-print publications: copyright etc.[^c522216][^c-a16889923a02416270ff18618402f132]
 
 (1) In Chapter 3 of Part 1 of the 1988 Act (acts permitted in relation to copyright works), after section 44 insert—
 
@@ -228,7 +228,7 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 
 ## Exemption from liability
 
-### 9. Exemption from liability: deposit of publications etc.[^key-c6f6d51b6909651ac500e658defeadfe]
+### 9. Exemption from liability: deposit of publications etc.[^c-c6f6d51b6909651ac500e658defeadfe]
 
 (1) The delivery by a person, pursuant to section 1, of a copy of a work is to be taken—
 
@@ -237,20 +237,20 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 
 (2) Subsection (1) applies to the delivery, pursuant to regulations under section 6, of a copy of a computer program or material within section 6(2)(b) as it applies to the delivery of a copy of a work pursuant to section 1.
 
-### 10. Exemption from liability: activities in relation to publications[^c522217][^key-d095cf3c36637e8c2d5bc88f5b74fc88]
+### 10. Exemption from liability: activities in relation to publications[^c522217][^c-d095cf3c36637e8c2d5bc88f5b74fc88]
 
-(1) A deposit library, or a person acting on its behalf, is not liable in damages[^key-21fe0274acaf24dc26e06a008fd80a29]... for defamation arising out of the doing by a relevant person of an activity listed in section 7(2) in relation to a copy of a work delivered under section 1.
+(1) A deposit library, or a person acting on its behalf, is not liable in damages[^c-21fe0274acaf24dc26e06a008fd80a29]... for defamation arising out of the doing by a relevant person of an activity listed in section 7(2) in relation to a copy of a work delivered under section 1.
 
 (2) Subsection (1) does not apply to the liability of a deposit library where—
 
-- (a) it knows, or [^key-dd43301eba797ce56950664f9f4b8588]... it knows of facts or circumstances from which it ought to know, that the copy contains a defamatory statement, and
+- (a) it knows, or [^c-dd43301eba797ce56950664f9f4b8588]... it knows of facts or circumstances from which it ought to know, that the copy contains a defamatory statement, and
 - (b) it has had a reasonable opportunity since obtaining that knowledge to prevent the doing of the activity in relation to the copy.
 
-(3) Where, pursuant to section 1, a person (in this section, “the publisher”) has delivered a copy of a work to an address specified by a deposit library, the publisher is not liable in damages[^key-53f44d2853fe6705a98729b4c677c7ec]... for defamation arising out of the doing by a relevant person of an activity listed in section 7(2) in relation to the copy.
+(3) Where, pursuant to section 1, a person (in this section, “the publisher”) has delivered a copy of a work to an address specified by a deposit library, the publisher is not liable in damages[^c-53f44d2853fe6705a98729b4c677c7ec]... for defamation arising out of the doing by a relevant person of an activity listed in section 7(2) in relation to the copy.
 
 (4) Subsection (3) does not apply where—
 
-- (a) the publisher knows, or [^key-68189dbb6c35f1fb935deba170357ebe]... the publisher knows of facts or circumstances from which it ought to know, that the copy contains a defamatory statement, and
+- (a) the publisher knows, or [^c-68189dbb6c35f1fb935deba170357ebe]... the publisher knows of facts or circumstances from which it ought to know, that the copy contains a defamatory statement, and
 - (b) it has had a reasonable opportunity since obtaining that knowledge to inform the library of the matter, facts or circumstances known to it and has not done so.
 
 (5) Where a work is published on the internet, subsection (6) applies to a copy of the work if—
@@ -261,7 +261,7 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 
 (6) Where this subsection applies to a copy of a work—
 
-- (a) no person other than the library is liable in damages[^key-7445669684f0f743c65f7e6286160cc4]... for defamation arising out of the doing by a relevant person of an activity listed in section 7(2) in relation to the copy, and
+- (a) no person other than the library is liable in damages[^c-7445669684f0f743c65f7e6286160cc4]... for defamation arising out of the doing by a relevant person of an activity listed in section 7(2) in relation to the copy, and
 - (b) subsections (1) and (2) apply in relation to the doing of an activity in relation to the copy as they apply in relation to the doing of the activity in relation to a copy of a work delivered under section 1.
 
 (7) In this section—
@@ -270,7 +270,7 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 - (b) references to activities listed in section 7(2) are references to those activities whether or not done in relation to relevant material (as defined in section 7);
 - (c) references to a deposit library include references to the Faculty of Advocates.
 
-(8) The Secretary of State may by regulations provide for this section, as it applies in relation to liability in damages [^key-3a0356a3f17dfa103d46c8fb1477114f]... for defamation, to apply in relation to liability (including criminal liability) of any description prescribed in the regulations, subject to such modifications as may be prescribed.
+(8) The Secretary of State may by regulations provide for this section, as it applies in relation to liability in damages [^c-3a0356a3f17dfa103d46c8fb1477114f]... for defamation, to apply in relation to liability (including criminal liability) of any description prescribed in the regulations, subject to such modifications as may be prescribed.
 
 (9) Where this section applies to the doing of an activity in relation to a copy of a work it also applies to the doing of the activity in relation to a copy (at any remove) of that copy.
 
@@ -278,7 +278,7 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 
 ## Regulations
 
-### 11. Regulations: general[^c522218][^key-a738653004b475aad9c90f4934da4b9f]
+### 11. Regulations: general[^c522218][^c-a738653004b475aad9c90f4934da4b9f]
 
 (1) Any power under this Act to make regulations—
 
@@ -298,21 +298,21 @@ the court or sheriff may instead make an order requiring the publisher to pay to
 
 (6) Any power to make regulations under this Act is exercisable by statutory instrument, and no such regulations may be made unless a draft of the instrument containing them has been laid before and approved by a resolution of each House of Parliament.
 
-### 12. Regulations: Scotland and Wales[^c522219][^key-981698d4bc78d690a815b55ea6f86a84]
+### 12. Regulations: Scotland and Wales[^c522219][^c-981698d4bc78d690a815b55ea6f86a84]
 
 (1) Regulations under this Act may not be made without the consent of the Scottish Ministers if they would—
 
-- (a) remove an entitlement conferred by or under this Act on the authority controlling *(Extent: S)* *(affected by repeal, see note)*[^key-67c2b38066894139a67988ab50e22d5d] the National Library of Scotland, or
-- (b) confer an entitlement that is not conferred on that authority *(Extent: S)* *(affected by repeal, see note)*[^key-e9a900e9249f155e5be14f907cb109c3]the National Library of Scotland on any other deposit library.
+- (a) remove an entitlement conferred by or under this Act on the authority controlling *(Extent: S)* *(affected by repeal, see note)*[^c-67c2b38066894139a67988ab50e22d5d] the National Library of Scotland, or
+- (b) confer an entitlement that is not conferred on that authority *(Extent: S)* *(affected by repeal, see note)*[^c-e9a900e9249f155e5be14f907cb109c3]the National Library of Scotland on any other deposit library.
 
 (2) Subsection (1) does not apply where the entitlement is to delivery of copies of electronic publications and—
 
 - (a) in the case of legal publications, the Faculty of Advocates, or
-- (b) in any other case, the authority controlling *(Extent: S)* *(affected by repeal, see note)*[^key-95fa26e2d20904ecd3cf8623923ef2e7] the National Library of Scotland,
+- (b) in any other case, the authority controlling *(Extent: S)* *(affected by repeal, see note)*[^c-95fa26e2d20904ecd3cf8623923ef2e7] the National Library of Scotland,
 
 is provided with a means of accessing those publications electronically.
 
-(3) Where subsection (1) does not apply, regulations under this Act that would affect the authority controlling *(Extent: S)* *(affected by repeal, see note)*[^key-48b69da6948e553fb7d8aca116e0fcb2] the National Library of Scotland may not be made unless the Secretary of State has consulted the Scottish Ministers.
+(3) Where subsection (1) does not apply, regulations under this Act that would affect the authority controlling *(Extent: S)* *(affected by repeal, see note)*[^c-48b69da6948e553fb7d8aca116e0fcb2] the National Library of Scotland may not be made unless the Secretary of State has consulted the Scottish Ministers.
 
 (4) Regulations under this Act may not be made without the consent of the National Assembly for Wales if they would—
 
@@ -323,7 +323,7 @@ but this does not apply where the entitlement is to delivery of copies of electr
 
 (5) Where subsection (4) does not apply, regulations under this Act that would affect the authority controlling the National Library of Wales may not be made unless the Secretary of State has consulted the National Assembly for Wales.
 
-### 13. Regulations: Trinity College, Dublin[^c522220][^key-4bfbec0ac038c29b499d3b270cc8d97d]
+### 13. Regulations: Trinity College, Dublin[^c522220][^c-4bfbec0ac038c29b499d3b270cc8d97d]
 
 (1) Regulations under this Act which confer an entitlement on the authority controlling the Library of Trinity College, Dublin may not be made unless the Secretary of State is satisfied, in relation to relevant material delivered pursuant to such an entitlement—
 
@@ -335,14 +335,14 @@ but this does not apply where the entitlement is to delivery of copies of electr
 
 ## General
 
-### 14. Interpretation[^c522221][^key-33a05a0b1d27a8a256f4d3d74da87342]
+### 14. Interpretation[^c522221][^c-33a05a0b1d27a8a256f4d3d74da87342]
 
 In this Act—
 
 - “**the 1988 Act**” means the Copyright, Designs and Patents Act 1988 (c. 48);
 - “**database right**” has the meaning given by regulation 13(1) of the Copyright and Rights in Databases Regulations 1997 (S.I. 1997/3032);
-- “**deposit library**” means any of the British Library Board, the National Library of Scotland *(Extent: S)*[^key-da4f817fcb173a0d8ca9515eeaf89df6] and the authorities controlling—
-  - (a) the National Library of Scotland, *(Extent: S)* *(affected by repeal, see note)*[^key-d69639699403ed6f622c931bf5675d61]
+- “**deposit library**” means any of the British Library Board, the National Library of Scotland *(Extent: S)*[^c-da4f817fcb173a0d8ca9515eeaf89df6] and the authorities controlling—
+  - (a) the National Library of Scotland, *(Extent: S)* *(affected by repeal, see note)*[^c-d69639699403ed6f622c931bf5675d61]
   - (b) the National Library of Wales,
   - (c) the Bodleian Library, Oxford,
   - (d) the University Library, Cambridge,
@@ -359,19 +359,19 @@ In this Act—
 - “**publication right**” has the meaning given by regulation 16(1) of the Copyright and Related Rights Regulations 1996 (S.I. 1996/2967);
 - “**sound recording**” has the meaning given by section 5A of the 1988 Act.
 
-### 15. Consequential amendments, repeals and revocation[^key-548f559c42375ada53ab940983452764]
+### 15. Consequential amendments, repeals and revocation[^c-548f559c42375ada53ab940983452764]
 
 (1) The provisions listed in the Schedule are repealed or revoked to the extent specified.
 
-(2) Section 5 of the National Library of Scotland Act 1925 (c. 73) (transfer of privilege under section 15 of the Copyright Act 1911) is amended as follows. *(Extent: S)* *(affected by repeal, see note)*[^key-e62f335d1d273f74bdd2e75023472d8c]
+(2) Section 5 of the National Library of Scotland Act 1925 (c. 73) (transfer of privilege under section 15 of the Copyright Act 1911) is amended as follows. *(Extent: S)* *(affected by repeal, see note)*[^c-e62f335d1d273f74bdd2e75023472d8c]
 
-(3) For subsections (1) to (3) substitute— "(1)Copies of legal publications delivered for the Board as the authority for the Library under section 1 of the Legal Deposit Libraries Act 2003 shall be transmitted by the Board to the Faculty. (2)The Board shall cause to be inserted in the requests made for them under section 5 of that Act such legal publications as may be named in writing to them by the Faculty.” *(Extent: S)* *(affected by repeal, see note)*[^key-e62f335d1d273f74bdd2e75023472d8c]
+(3) For subsections (1) to (3) substitute— "(1)Copies of legal publications delivered for the Board as the authority for the Library under section 1 of the Legal Deposit Libraries Act 2003 shall be transmitted by the Board to the Faculty. (2)The Board shall cause to be inserted in the requests made for them under section 5 of that Act such legal publications as may be named in writing to them by the Faculty.” *(Extent: S)* *(affected by repeal, see note)*[^c-e62f335d1d273f74bdd2e75023472d8c]
 
-(4) In subsections (4) and (5), for “law books” substitute *(Extent: S)* *(affected by repeal, see note)*[^key-e62f335d1d273f74bdd2e75023472d8c] “ legal publications ” *(Extent: S)* *(affected by repeal, see note)*[^key-e62f335d1d273f74bdd2e75023472d8c] . *(Extent: S)* *(affected by repeal, see note)*[^key-e62f335d1d273f74bdd2e75023472d8c]
+(4) In subsections (4) and (5), for “law books” substitute *(Extent: S)* *(affected by repeal, see note)*[^c-e62f335d1d273f74bdd2e75023472d8c] “ legal publications ” *(Extent: S)* *(affected by repeal, see note)*[^c-e62f335d1d273f74bdd2e75023472d8c] . *(Extent: S)* *(affected by repeal, see note)*[^c-e62f335d1d273f74bdd2e75023472d8c]
 
-(5) After subsection (5) add— *(Extent: S)* *(affected by repeal, see note)*[^key-e62f335d1d273f74bdd2e75023472d8c]
+(5) After subsection (5) add— *(Extent: S)* *(affected by repeal, see note)*[^c-e62f335d1d273f74bdd2e75023472d8c]
 
-> (6 (Extent: S) (affected by repeal, see note))[^key-e62f335d1d273f74bdd2e75023472d8c] In this section, “ *(Extent: S)* *(affected by repeal, see note)*[^key-e62f335d1d273f74bdd2e75023472d8c] **publication *(Extent: S)* *(affected by repeal, see note)*[^key-e62f335d1d273f74bdd2e75023472d8c]** ” includes a publication made available to the public by means of an electronic retrieval system. *(Extent: S)* *(affected by repeal, see note)*[^key-e62f335d1d273f74bdd2e75023472d8c]
+> (6 (Extent: S) (affected by repeal, see note))[^c-e62f335d1d273f74bdd2e75023472d8c] In this section, “ *(Extent: S)* *(affected by repeal, see note)*[^c-e62f335d1d273f74bdd2e75023472d8c] **publication *(Extent: S)* *(affected by repeal, see note)*[^c-e62f335d1d273f74bdd2e75023472d8c]** ” includes a publication made available to the public by means of an electronic retrieval system. *(Extent: S)* *(affected by repeal, see note)*[^c-e62f335d1d273f74bdd2e75023472d8c]
 
 ### 16. Commencement and extent
 
@@ -389,7 +389,7 @@ In this Act—
 
 This Act may be cited as the Legal Deposit Libraries Act 2003.
 
-## SCHEDULE — Repeals and revocation[^key-701223d6d49673c41cf07a69378d139e]
+## SCHEDULE — Repeals and revocation[^c-701223d6d49673c41cf07a69378d139e]
 
 Section 15(1)
 
@@ -402,82 +402,82 @@ Section 15(1)
 
 ## Annotations
 
-[^key-3bfbf61f04ad1ad67926ca458dc849f2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/28) applied (6.4.2013) by [The Legal Deposit Libraries (Non-Print Works) Regulations 2013 (S.I. 2013/777)](https://www.legislation.gov.uk/uksi/2013/777), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/777/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2013/777/regulation/13/1)
+[^c-3bfbf61f04ad1ad67926ca458dc849f2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/28) applied (6.4.2013) by [The Legal Deposit Libraries (Non-Print Works) Regulations 2013 (S.I. 2013/777)](https://www.legislation.gov.uk/uksi/2013/777), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/777/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2013/777/regulation/13/1)
 
 [^c522211]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2003/28/section/1) partly in force; [s. 1](https://www.legislation.gov.uk/ukpga/2003/28/section/1) in force at Royal Assent so far as confers power to make regulations, see [s. 16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1)
 
-[^key-8bb76f1f482f8ff1ffb90764c3c385f8]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2003/28/section/1) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-8bb76f1f482f8ff1ffb90764c3c385f8]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2003/28/section/1) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
 [^c522212]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2003/28/section/2) partly in force; [s. 2](https://www.legislation.gov.uk/ukpga/2003/28/section/2) in force at Royal Assent so far as confers power to make regulations, see [s.16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1)
 
-[^key-10d4a05239e3fbf40a432e00547910de]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2003/28/section/2) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-10d4a05239e3fbf40a432e00547910de]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2003/28/section/2) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
-[^key-ca59307549de0bcabb95a8a332733378]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2003/28/section/3) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-ca59307549de0bcabb95a8a332733378]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2003/28/section/3) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
-[^key-0478470479c383a13a930befe7d74dc0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2003/28/section/4) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-0478470479c383a13a930befe7d74dc0]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2003/28/section/4) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
-[^key-b438c2eef46f59459a44f29d8a49ed0f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2003/28/section/5) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-b438c2eef46f59459a44f29d8a49ed0f]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2003/28/section/5) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
 [^c522213]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2003/28/section/6) partly in force; [s. 6](https://www.legislation.gov.uk/ukpga/2003/28/section/6) in force at Royal Assent so far as confers power to make regulations, see [s.16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1)
 
-[^key-32e7cda1b0db107a58be0c41ae0fd91e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2003/28/section/6) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-32e7cda1b0db107a58be0c41ae0fd91e]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2003/28/section/6) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
 [^c522215]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2003/28/section/7) partly in force; [s. 7](https://www.legislation.gov.uk/ukpga/2003/28/section/7) in force at Royal Assent so far as confers power to make regulations, see [s.16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1)
 
-[^key-3c74b9d3cab2777f8fea005084f39417]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2003/28/section/7) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-3c74b9d3cab2777f8fea005084f39417]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2003/28/section/7) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
 [^c522216]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2003/28/section/8) partly in force; [s. 8](https://www.legislation.gov.uk/ukpga/2003/28/section/8) in force at Royal Assent so far as confers power to make regulations, see [s. 16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1)
 
-[^key-a16889923a02416270ff18618402f132]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2003/28/section/8) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-a16889923a02416270ff18618402f132]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2003/28/section/8) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
-[^key-c6f6d51b6909651ac500e658defeadfe]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2003/28/section/9) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-c6f6d51b6909651ac500e658defeadfe]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2003/28/section/9) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
 [^c522217]: Commencement: S. 10 partly in force; s. 10 in force at Royal Assent so far as confers power to make regulations, see s. 16(1)
 
-[^key-d095cf3c36637e8c2d5bc88f5b74fc88]: Commencement: S. 10 in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130) , [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-d095cf3c36637e8c2d5bc88f5b74fc88]: Commencement: S. 10 in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130) , [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
-[^key-21fe0274acaf24dc26e06a008fd80a29]: Textual amendment: Words in s. 10(1) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(1) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [Sch. 7 para. 72(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/a) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-21fe0274acaf24dc26e06a008fd80a29]: Textual amendment: Words in s. 10(1) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(1) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [Sch. 7 para. 72(a)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/a) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-dd43301eba797ce56950664f9f4b8588]: Textual amendment: Words in s. 10(2)(a) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(2)(a) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [Sch. 7 para. 72(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/b) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-dd43301eba797ce56950664f9f4b8588]: Textual amendment: Words in s. 10(2)(a) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(2)(a) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [Sch. 7 para. 72(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/b) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-53f44d2853fe6705a98729b4c677c7ec]: Textual amendment: Words in s. 10(3) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(3) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [Sch. 7 para. 72(c)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/c) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-53f44d2853fe6705a98729b4c677c7ec]: Textual amendment: Words in s. 10(3) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(3) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [Sch. 7 para. 72(c)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/c) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-68189dbb6c35f1fb935deba170357ebe]: Textual amendment: Words in s. 10(4)(a) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(4)(a) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [Sch. 7 para. 72(d)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/d) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-68189dbb6c35f1fb935deba170357ebe]: Textual amendment: Words in s. 10(4)(a) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(4)(a) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) , [Sch. 7 para. 72(d)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/d) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-7445669684f0f743c65f7e6286160cc4]: Textual amendment: Words in s. 10(6)(a) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(6)(a) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 72(e)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/e); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-7445669684f0f743c65f7e6286160cc4]: Textual amendment: Words in s. 10(6)(a) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(6)(a) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 72(e)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/e); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
-[^key-3a0356a3f17dfa103d46c8fb1477114f]: Textual amendment: Words in s. 10(8) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(8) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 72(f)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/f); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-3a0356a3f17dfa103d46c8fb1477114f]: Textual amendment: Words in s. 10(8) repealed (E.W.N.I) (12.1.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25) , [s. 182(2)(e)(xi)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/2/e/xi) , [Sch. 23 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/2) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180) ); and said words in s. 10(8) repealed (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 72(f)](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/72/f); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c522218]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2003/28/section/11) partly in force; [s. 11](https://www.legislation.gov.uk/ukpga/2003/28/section/11) in force at Royal Assent so far as confers power to make regulations, see [s. 16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1)
 
-[^key-a738653004b475aad9c90f4934da4b9f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2003/28/section/11) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-a738653004b475aad9c90f4934da4b9f]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2003/28/section/11) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
 [^c522219]: Commencement: S. 12 partly in force; s. 12 in force at Royal Assent so far as confers power to make regulations, see s. 16(1)
 
-[^key-981698d4bc78d690a815b55ea6f86a84]: Commencement: S. 12 in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130) , [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-981698d4bc78d690a815b55ea6f86a84]: Commencement: S. 12 in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130) , [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
-[^key-67c2b38066894139a67988ab50e22d5d]: Textual amendment: Words in s. 12(1)(a) repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 2 para. 7(a)(i)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/a/i) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-67c2b38066894139a67988ab50e22d5d]: Textual amendment: Words in s. 12(1)(a) repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 2 para. 7(a)(i)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/a/i) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-e9a900e9249f155e5be14f907cb109c3]: Textual amendment: Words in s. 12(1)(b) substituted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 2 para. 7(a)(ii)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/a/ii) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-e9a900e9249f155e5be14f907cb109c3]: Textual amendment: Words in s. 12(1)(b) substituted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 2 para. 7(a)(ii)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/a/ii) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-95fa26e2d20904ecd3cf8623923ef2e7]: Textual amendment: Words in s. 12(2)(b) repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 2 para. 7(a)(iii)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/a/iii) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-95fa26e2d20904ecd3cf8623923ef2e7]: Textual amendment: Words in s. 12(2)(b) repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 2 para. 7(a)(iii)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/a/iii) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-48b69da6948e553fb7d8aca116e0fcb2]: Textual amendment: Words in s. 12(3) repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 2 para. 7(a)(iv)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/a/iv) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-48b69da6948e553fb7d8aca116e0fcb2]: Textual amendment: Words in s. 12(3) repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 2 para. 7(a)(iv)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/a/iv) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
 [^c522220]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2003/28/section/13) partly in force; [s. 13](https://www.legislation.gov.uk/ukpga/2003/28/section/13) in force at Royal Assent so far as confers power to make regulations, see [s. 16(1)](https://www.legislation.gov.uk/ukpga/2003/28/section/16/1)
 
-[^key-4bfbec0ac038c29b499d3b270cc8d97d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2003/28/section/13) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-4bfbec0ac038c29b499d3b270cc8d97d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2003/28/section/13) in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
 [^c522221]: Commencement: S. 14 partly in force; s. 14 in force at Royal Assent so far as confers power to make regulations, see s. 16(1)
 
-[^key-33a05a0b1d27a8a256f4d3d74da87342]: Commencement: S. 14 in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-33a05a0b1d27a8a256f4d3d74da87342]: Commencement: S. 14 in force at 1.2.2004 in so far as not already in force by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
-[^key-da4f817fcb173a0d8ca9515eeaf89df6]: Textual amendment: Words in s. 14 inserted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 7(b)(i)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/b/i); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-da4f817fcb173a0d8ca9515eeaf89df6]: Textual amendment: Words in s. 14 inserted (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 7(b)(i)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/b/i); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-d69639699403ed6f622c931bf5675d61]: Textual amendment: Words in s. 14 repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 7(b)(ii)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/b/ii); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-d69639699403ed6f622c931bf5675d61]: Textual amendment: Words in s. 14 repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3), [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3), [Sch. 2 para. 7(b)(ii)](https://www.legislation.gov.uk/asp/2012/3/schedule/2/paragraph/7/b/ii); [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1), [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-548f559c42375ada53ab940983452764]: Commencement: S. 15 in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130) , [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-548f559c42375ada53ab940983452764]: Commencement: S. 15 in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130) , [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
 
-[^key-e62f335d1d273f74bdd2e75023472d8c]: Textual amendment: S. 15(2)-(5) repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/3) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
+[^c-e62f335d1d273f74bdd2e75023472d8c]: Textual amendment: S. 15(2)-(5) repealed (S.) (1.2.2013) by [National Library of Scotland Act 2012 (asp 3)](https://www.legislation.gov.uk/asp/2012/3) , [s. 12(3)](https://www.legislation.gov.uk/asp/2012/3/section/12/3) , [Sch. 3](https://www.legislation.gov.uk/asp/2012/3/schedule/3) ; [S.S.I. 2013/1](https://www.legislation.gov.uk/ssi/2013/1) , [art. 2](https://www.legislation.gov.uk/ssi/2013/1/article/2)
 
-[^key-701223d6d49673c41cf07a69378d139e]: Commencement: [Sch.](https://www.legislation.gov.uk/ukpga/2003/28/schedule) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)
+[^c-701223d6d49673c41cf07a69378d139e]: Commencement: [Sch.](https://www.legislation.gov.uk/ukpga/2003/28/schedule) in force at 1.2.2004 by [S.I. 2004/130](https://www.legislation.gov.uk/uksi/2004/130), [art. 2](https://www.legislation.gov.uk/uksi/2004/130/article/2)

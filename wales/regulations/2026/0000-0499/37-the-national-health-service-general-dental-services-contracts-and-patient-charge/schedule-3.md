@@ -24,7 +24,7 @@ Regulations 2, 9(5),9(7), 13(3)(a), 17(6), 19(1), 19(3), 23, 26, 29, 33(1)
 
 ### PART 1 — PATIENTS
 
-#### 1. Persons to whom mandatory services are to be provided[^key-3e77586a17a00652d7437a43bfdf6744]
+#### 1. Persons to whom mandatory services are to be provided[^c-3e77586a17a00652d7437a43bfdf6744]
 
 (1) Subject to sub-paragraphs (3) and (5), the contractor may agree to provide mandatory services under the contract to any new patient or active patient if a request is made for such services by—
 
@@ -51,7 +51,7 @@ Regulations 2, 9(5),9(7), 13(3)(a), 17(6), 19(1), 19(3), 23, 26, 29, 33(1)
 - (a) where the contractor is providing mandatory services in a prison, or
 - (b) in any event to dental public health functions.
 
-#### 2. Patient preference of dental practitioner[^key-beb3fa4bb358c5752d04e088cfca57fb]
+#### 2. Patient preference of dental practitioner[^c-beb3fa4bb358c5752d04e088cfca57fb]
 
 (1) Where the contractor has agreed to provide services to a patient it must—
 
@@ -68,7 +68,7 @@ Regulations 2, 9(5),9(7), 13(3)(a), 17(6), 19(1), 19(3), 23, 26, 29, 33(1)
 - (a) where the contractor is providing mandatory services in a prison, or
 - (b) in any event to dental public health functions.
 
-#### 3. Violent patients[^key-19ee0e13c5018b841c43e4e740649862]
+#### 3. Violent patients[^c-19ee0e13c5018b841c43e4e740649862]
 
 (1) Where a patient of the contractor has—
 
@@ -101,7 +101,7 @@ the contractor may refuse to provide services to the patient or may terminate th
 - (b) ensure the effect of the notice is recorded on the Dental Access Portal so as to prevent re-allocation of that patient to that contractor, and
 - (c) take all reasonable steps to inform the patient concerned as soon as is reasonably practicable.
 
-#### 4. Patients who refuse to pay NHS charges before the start of, or during, treatment[^key-bd359778f4e5b42d224baeb0c075434f]
+#### 4. Patients who refuse to pay NHS charges before the start of, or during, treatment[^c-bd359778f4e5b42d224baeb0c075434f]
 
 (1) If the contractor has, in accordance with Schedule 5, requested that the patient pay a charge in respect of that course of treatment and that patient has failed to pay that charge, the contractor may—
 
@@ -120,7 +120,7 @@ where it has ended a course of treatment in accordance with sub-paragraph (a) or
 - (b) ensure the effect of the notice is recorded on the Dental Access Portal so as to prevent re-allocation of that patient to that contractor, and
 - (c) take all reasonable steps to inform the patient concerned as soon as is reasonably practicable.
 
-#### 5. Irrevocable breakdown in relationship between contractor and patient[^key-b614aa03c3439aa078a4825fc5549088]
+#### 5. Irrevocable breakdown in relationship between contractor and patient[^c-b614aa03c3439aa078a4825fc5549088]
 
 (1) The contractor must notify the Local Health Board within 7 days of making the decision that it is no longer willing to provide services to a patient under the contract where—
 
@@ -139,7 +139,7 @@ where it has ended a course of treatment in accordance with sub-paragraph (a) or
 
 ### PART 2 — PROVISION OF SERVICES
 
-#### 6. Course of treatment[^key-a683505cc5049368e00d8c3ee742df73]
+#### 6. Course of treatment[^c-a683505cc5049368e00d8c3ee742df73]
 
 (1) Except in the case of dental public health functions, the contractor must provide mandatory services to a patient by providing a course of treatment to that patient.
 
@@ -166,7 +166,7 @@ where it has ended a course of treatment in accordance with sub-paragraph (a) or
 
 (6) If the contractor is unable to complete the course of the treatment which has been started for reasons beyond its control, the contractor must give notice to the Local Health Board within 14 clear days of the extent of the treatment so provided and the reason for the inability to complete the remainder.
 
-#### 7. Treatment plans[^key-e510aeb57a4e9726546f724c7895b351]
+#### 7. Treatment plans[^c-e510aeb57a4e9726546f724c7895b351]
 
 (1) Where the contractor agrees to provide a course of treatment as part of a care package to a patient, it must, at the time of the initial examination and assessment of that patient, ensure that the patient is provided with a treatment plan on a form supplied for that purpose by the Local Health Board which must specify—
 
@@ -188,7 +188,7 @@ where it has ended a course of treatment in accordance with sub-paragraph (a) or
 
 (6) The summary referred to in sub-paragraph (5) must be supplied to the patient on a form supplied for that purpose by the Local Health Board within 28 clear days of that request.
 
-#### 8. Completion of courses of treatment[^key-1a6c7959686af9ac1b917167a142578c]
+#### 8. Completion of courses of treatment[^c-1a6c7959686af9ac1b917167a142578c]
 
 (1) The contractor must indicate on the form supplied to the Local Health Board pursuant to paragraph 38(3) whether the course of treatment was completed, and if the course of treatment was not completed, provide the reason for the failure to complete the course of treatment.
 
@@ -199,7 +199,7 @@ where it has ended a course of treatment in accordance with sub-paragraph (a) or
 
 it is entitled to exercise its powers under paragraph 57(2) on the grounds that the contractor is not, pursuant to paragraph 6(2), using its best endeavours to ensure courses of treatment are completed.
 
-#### 9. Referral to another contractor, a hospital or other relevant service provider for advanced mandatory, domiciliary or sedation services[^key-ed6fba4128133fd318e230172f71e3da]
+#### 9. Referral to another contractor, a hospital or other relevant service provider for advanced mandatory, domiciliary or sedation services[^c-ed6fba4128133fd318e230172f71e3da]
 
 (1) Where a patient requires advanced mandatory services, domiciliary services or sedation services that are not provided under the contract by the contractor, the contractor must, if the patient agrees, refer that patient in accordance with sub-paragraph (2) for the provision of a referral service by an alternative contractor, a hospital or other relevant service provider under Part 1 of the 2006 Act.
 
@@ -213,7 +213,7 @@ it is entitled to exercise its powers under paragraph 57(2) on the grounds that 
 
 (3) Where the patient notifies the contractor, whether verbally or in writing, that they do not wish to be referred to the alternative contractor, hospital or other relevant service provider selected by the contractor, the contractor must, if requested to do so by the patient, use its best endeavours to refer the patient to another suitable contractor, hospital or other relevant service provider under Part 1 of the 2006 Act for the provision of the referral service.
 
-#### 10. Mixing of services provided under the contract with private dental services[^key-1bad959a0990fe93884efc6096744f34]
+#### 10. Mixing of services provided under the contract with private dental services[^c-1bad959a0990fe93884efc6096744f34]
 
 (1) Subject to sub-paragraph 2, a contractor may, with the consent of the patient, provide privately any part of a course of treatment for that patient, including in circumstances where that patient has been referred to the contractor for a referral service.
 
@@ -226,7 +226,7 @@ it is entitled to exercise its powers under paragraph 57(2) on the grounds that 
 
 (4) In sub-paragraph (2), “**provision of sedation**” means the provision of one or more drugs to a patient in order to produce a state of depression of the central nervous system to enable treatment to be carried out.
 
-#### 11. Repair or replacement of restorations[^key-ce7becd6b3f25ed8bf9d020f5ba425ab]
+#### 11. Repair or replacement of restorations[^c-ce7becd6b3f25ed8bf9d020f5ba425ab]
 
 (1) Subject to sub-paragraph (4), where a restoration specified in sub-paragraph (2) needs to be repaired or replaced the contractor must repair or replace the restoration at no charge to the patient.
 
@@ -248,7 +248,7 @@ it is entitled to exercise its powers under paragraph 57(2) on the grounds that 
 
 (6) In this paragraph “**repair**” or “**replace**” means the substitution of the same or a similar form of restoration.
 
-#### 12. Premises, facilities and equipment[^key-9aafc607a05e1016f1467ef5c9d1e1dc]
+#### 12. Premises, facilities and equipment[^c-9aafc607a05e1016f1467ef5c9d1e1dc]
 
 (1) The contractor must ensure that the practice premises used for the provision of services under the contract are—
 
@@ -261,7 +261,7 @@ it is entitled to exercise its powers under paragraph 57(2) on the grounds that 
 
 (4) In this paragraph, “**practice premises**” includes a mobile surgery.
 
-#### 13. Telephone services[^key-ed354b8d402f27319b6feffa6b1e1684]
+#### 13. Telephone services[^c-ed354b8d402f27319b6feffa6b1e1684]
 
 (1) The contractor must not be a party to any contract or other arrangement under which the number for their telephone services is a mobile telephone number or a premium rate number or charges the person calling more than the basic rate applicable to calls to geographic numbers if that number is used for—
 
@@ -270,19 +270,19 @@ it is entitled to exercise its powers under paragraph 57(2) on the grounds that 
 
 (2) In this paragraph, “**mobile telephone number**” means a telephone number which starts with the number 07 followed by a further 9 digits.
 
-#### 14. National Institute for Health and Care Excellence guidance[^key-bf06961cad8897a585d6cbfaf961ec5e]
+#### 14. National Institute for Health and Care Excellence guidance[^c-bf06961cad8897a585d6cbfaf961ec5e]
 
 The contractor must provide services under the contract in accordance with any relevant guidance that is issued by the National Institute for Health and Care Excellence[^f00030], in particular the guidance entitled “Dental recall— Recall interval between routine dental examinations”[^f00031].
 
-#### 15. Infection control[^key-f4ced0fafb047bebfc85fbe3c421bec6]
+#### 15. Infection control[^c-f4ced0fafb047bebfc85fbe3c421bec6]
 
 The contractor must ensure that it has appropriate arrangements for infection control and decontamination in accordance with guidance given by the Welsh Ministers.
 
-#### 16. Treatment under general anaesthesia: prohibition[^key-400445554e00841a89790867231d64ad]
+#### 16. Treatment under general anaesthesia: prohibition[^c-400445554e00841a89790867231d64ad]
 
 The contractor must not provide any services under the contract that involve the provision of general anaesthesia.
 
-#### 17. Welsh Language[^key-170614a3d0ea87294aa5a3e0fcdc7821]
+#### 17. Welsh Language[^c-170614a3d0ea87294aa5a3e0fcdc7821]
 
 (1) Where the contractor provides dental services under the contract through the medium of Welsh, it must notify the Local Health Board in writing.
 
@@ -301,17 +301,17 @@ The contractor must not provide any services under the contract that involve the
 
 ### PART 3 — SUPPLY OF DRUGS AND PRESCRIBING
 
-#### 18. General[^key-ecf442ffbb83189b86d06484bb827528]
+#### 18. General[^c-ecf442ffbb83189b86d06484bb827528]
 
 The contractor must ensure that any prescription form for listed drugs, medicines or dental appliances issued by a prescriber complies as appropriate with the requirements in this Part.
 
-#### 19. Supply of drugs[^key-f68a38321c0de139e63776a19c2a4ab4]
+#### 19. Supply of drugs[^c-f68a38321c0de139e63776a19c2a4ab4]
 
 (1) A prescriber may supply to a patient such listed drugs, medicines or dental appliances as are required for immediate use before the issue of a prescription for such drugs, medicines or dental appliances in accordance with paragraph 20.
 
 (2) A prescriber may personally administer to a patient any listed drug or medicine required for the treatment of that patient.
 
-#### 20. Issue of prescription forms[^key-9467e4a90f890327669ee2f33c56fa50]
+#### 20. Issue of prescription forms[^c-9467e4a90f890327669ee2f33c56fa50]
 
 (1) A prescriber must order such listed drugs, medicines or dental appliances (except for those supplied under paragraph 19) as are required for the treatment of any patient to whom it is providing services under the contract by issuing to the patient a prescription form.
 
@@ -322,20 +322,20 @@ The contractor must ensure that any prescription form for listed drugs, medicine
 
 (3) For the purposes of this paragraph, “**prescription form**” means a form that is supplied for the purposes of this paragraph by the Local Health Board.
 
-#### 21. Excessive prescribing[^key-c224f99092e0f648b81cecfe538613e0]
+#### 21. Excessive prescribing[^c-c224f99092e0f648b81cecfe538613e0]
 
 A prescriber must not prescribe listed drugs, medicines or dental appliances whose cost or quantity, in relation to any patient, is, by reason of the character of that drug, medicine or dental appliance, in excess of that which was reasonably necessary for the proper treatment of that patient.
 
 ### PART 4 — PERSONS WHO PERFORM SERVICES
 
-#### 22. Dental practitioners[^key-04e561ed3d510157dcff9b3cabb0768b]
+#### 22. Dental practitioners[^c-04e561ed3d510157dcff9b3cabb0768b]
 
 A dental practitioner may perform dental services under the contract provided—
 
 - (a) they are named in a dental performers list for a Local Health Board in Wales, and
 - (b) their naming in that list is not subject to a suspension.
 
-#### 23. Dental care professionals[^key-e065e346cc9ce2c2d95ae15e62d8768e]
+#### 23. Dental care professionals[^c-e065e346cc9ce2c2d95ae15e62d8768e]
 
 A person may perform dental services under the contract provided they are—
 
@@ -345,7 +345,7 @@ A person may perform dental services under the contract provided they are—
   - (i) they are a dental care professional, and
   - (ii) their registration in the dental care professionals register established under section 36B of the 1984 Act is not subject to a suspension.
 
-#### 24. Performers: further requirements[^key-376f6a51f1a72c8532d4f95bfb399970]
+#### 24. Performers: further requirements[^c-376f6a51f1a72c8532d4f95bfb399970]
 
 (1) No dental care professional or other person other than one to whom paragraph 23 applies can perform clinical services under the contract unless they are appropriately registered with their relevant professional body and the registration is not subject to a suspension.
 
@@ -358,7 +358,7 @@ is subject to conditions, the contractor must ensure compliance with those condi
 
 (3) No health care professional or other person may perform any clinical services under the contract unless they have such clinical experience and clinical training as are necessary to enable them to properly perform such services.
 
-#### 25. Conditions for employment and engagement: dental practitioners performing dental services[^key-823cb999794ccf439c79650250121a33]
+#### 25. Conditions for employment and engagement: dental practitioners performing dental services[^c-823cb999794ccf439c79650250121a33]
 
 (1) A contractor must not employ or engage a dental practitioner to perform dental services under the contract unless—
 
@@ -367,7 +367,7 @@ is subject to conditions, the contractor must ensure compliance with those condi
 
 (2) Where the employment or engagement of a dental practitioner is urgently needed and it is not possible to check the matters referred to in paragraph 22 in accordance with sub-paragraph (1)(b) before employing or engaging them, they may be employed or engaged on a temporary basis for a single period of up to 7 clear days whilst such checks are made.
 
-#### 26. Conditions for employment and engagement: persons performing dental services other than dental practitioners[^key-53ebfd47549b01a10bfc1f112c12b81e]
+#### 26. Conditions for employment and engagement: persons performing dental services other than dental practitioners[^c-53ebfd47549b01a10bfc1f112c12b81e]
 
 (1) The contractor must not employ or engage a dental care professional to perform dental services unless the contractor has taken reasonable steps to satisfy itself that the dental care professional has the clinical experience and clinical training necessary to enable them to properly perform dental services and the contractor has checked that—
 
@@ -381,7 +381,7 @@ is subject to conditions, the contractor must ensure compliance with those condi
 - (a) any post-graduate or post-registration qualification held by that person, and
 - (b) any relevant training and any relevant clinical experience gained by them.
 
-#### 27. Conditions for employment and engagement: all persons performing dental services[^key-ab407cb8aa78a9103ae986476f6c4563]
+#### 27. Conditions for employment and engagement: all persons performing dental services[^c-ab407cb8aa78a9103ae986476f6c4563]
 
 (1) The contractor must not employ or engage a person to perform dental services under the contract unless—
 
@@ -392,7 +392,7 @@ is subject to conditions, the contractor must ensure compliance with those condi
 
 (3) Where the contractor employs or engages the same person on more than one occasion within a period of 3 months starting from the first employment or engagement, the contractor may rely on the references provided on the first occasion, provided that those references are not more than 12 months old.
 
-#### 28. Conditions for employment and engagement: persons assisting in the provision of services under the contract[^key-810e570cd788232a2e6ba0a3ad3c6f0f]
+#### 28. Conditions for employment and engagement: persons assisting in the provision of services under the contract[^c-810e570cd788232a2e6ba0a3ad3c6f0f]
 
 (1) Before employing or engaging any person to assist it in the provision of services under the contract, the contractor must take reasonable care to satisfy itself that the person in question is both suitably qualified and competent to discharge the duties for which they are to be employed or engaged.
 
@@ -404,7 +404,7 @@ is subject to conditions, the contractor must ensure compliance with those condi
 - (b) their education and training, and
 - (c) their previous employment or work experience.
 
-#### 29. Training[^key-d18aaef6ffcb9d0b19fff46ce2f11799]
+#### 29. Training[^c-d18aaef6ffcb9d0b19fff46ce2f11799]
 
 (1) The contractor must ensure that arrangements are in place for the purpose of maintaining and updating the skills and knowledge in relation to the services which they are performing or assisting in performing for any dental practitioner or dental care professional who is—
 
@@ -413,18 +413,18 @@ is subject to conditions, the contractor must ensure compliance with those condi
 
 (2) The contractor must give each employee reasonable opportunities to carry out appropriate training with a view to maintaining that employee’s competence.
 
-#### 30. Level of skill[^key-28fbd1ef7589940853f73dee5f92fe54]
+#### 30. Level of skill[^c-28fbd1ef7589940853f73dee5f92fe54]
 
 The contractor must carry out its obligations under the contract with reasonable care and skill.
 
-#### 31. Appraisal and assessment[^key-87e229f07470f71238048c1c543c54b8]
+#### 31. Appraisal and assessment[^c-87e229f07470f71238048c1c543c54b8]
 
 The contractor must ensure that any dental practitioner performing services under the contract—
 
 - (a) participates in the appraisal system (if any) provided by the Local Health Board unless they participate in the appraisal system provided by another health service body, and
 - (b) co-operates with an assessment by the NHS Wales Shared Services Partnership, Health Education and Improvement Wales, the Public Services Ombudsman for Wales, NHS Resolution or an equivalent body when requested to do so by the Local Health Board.
 
-#### 32. Sub-contracting of clinical services[^key-bff10814639a608bd194115db2e25b94]
+#### 32. Sub-contracting of clinical services[^c-bff10814639a608bd194115db2e25b94]
 
 (1) The contractor must not sub-contract any of its rights or duties under the contract to any person in relation to clinical services unless—
 
@@ -444,7 +444,7 @@ The contractor must ensure that any dental practitioner performing services unde
 
 ### PART 5 — RECORDS, INFORMATION, NOTIFICATIONS AND RIGHTS OF ENTRY
 
-#### 33. Patient records[^key-0f0add4f2361f2abc908eacd9a7489eb]
+#### 33. Patient records[^c-0f0add4f2361f2abc908eacd9a7489eb]
 
 (1) The contractor must ensure that a full, accurate and contemporaneous record is kept in the patient record in respect of the care and treatment given to each patient under the contract, including treatment given to a patient who is referred to the contractor.
 
@@ -470,11 +470,11 @@ The contractor must ensure that any dental practitioner performing services unde
 
 (6) Nothing in this paragraph affects any property right which the contractor may have in relation to the records, radiographs, photographs and study models referred to in this paragraph.
 
-#### 34. Confidentiality of personal data[^key-61a06da7151ac67d8d054935c287aab9]
+#### 34. Confidentiality of personal data[^c-61a06da7151ac67d8d054935c287aab9]
 
 The contractor must nominate a person with responsibility for practices and procedures relating to the confidentiality of personal data held by it and produce an internal privacy policy.
 
-#### 35. Information to patients[^key-44697fdb228c250f568009ab28ff61de]
+#### 35. Information to patients[^c-44697fdb228c250f568009ab28ff61de]
 
 (1) The contractor must ensure that there is displayed in a prominent position in its practice premises, in a part to which patients have access, and on its website (if it has one)—
 
@@ -491,7 +491,7 @@ The contractor must nominate a person with responsibility for practices and proc
 
 (3) The requirements in sub-paragraph (2) do not apply to any contractor to the extent that it provides services to persons detained in prison.
 
-#### 36. Provision of and access to information: Local Health Board[^key-7f71b04686f8e6981eb90e020e7e4bf1]
+#### 36. Provision of and access to information: Local Health Board[^c-7f71b04686f8e6981eb90e020e7e4bf1]
 
 The contractor must, at the request of the Local Health Board—
 
@@ -501,7 +501,7 @@ The contractor must, at the request of the Local Health Board—
   - (ii) workforce information, and
   - (iii) any other information which is reasonably required in connection with the Local Health Board’s functions, including the contractor’s patient records.
 
-#### 37. Inquiries about prescriptions and referrals[^key-d9f34f0152adf1545b6ed0ecf405d739]
+#### 37. Inquiries about prescriptions and referrals[^c-d9f34f0152adf1545b6ed0ecf405d739]
 
 (1) The contractor must, subject to sub-paragraphs (2) and (3), sufficiently answer any inquiries whether oral or in writing from the Local Health Board concerning—
 
@@ -519,7 +519,7 @@ The contractor must, at the request of the Local Health Board—
 
 appointed in either case by the Local Health Board to assist it in the exercise of its functions under this paragraph and that person produces, on request, written evidence that they are authorised by the Local Health Board to make such inquiry on its behalf.
 
-#### 38. Notification of a course of treatment etc.[^key-400993d44c526e2d1032c46e492d2399]
+#### 38. Notification of a course of treatment etc.[^c-400993d44c526e2d1032c46e492d2399]
 
 (1) The contractor must, within 2 months of the date upon which—
 
@@ -542,7 +542,7 @@ send to the Local Health Board the information specified in sub-paragraph (2).
 
 (5) In this paragraph, “**electronic submission**” means information submitted electronically via a computer system approved by the Local Health Board.
 
-#### 39. Annual report and review[^key-886a1ffcfe03208cd13c60aa62b70b74]
+#### 39. Annual report and review[^c-886a1ffcfe03208cd13c60aa62b70b74]
 
 (1) The Local Health Board must provide to the contractor an annual report in accordance with regulation 24.
 
@@ -552,7 +552,7 @@ send to the Local Health Board the information specified in sub-paragraph (2).
 
 (4) A copy of the final record referred to in sub-paragraph (3) must be sent to the contractor.
 
-#### 40. Notifications to the Local Health Board[^key-270cdc543f69b40ad9f8b8aecb467cf1]
+#### 40. Notifications to the Local Health Board[^c-270cdc543f69b40ad9f8b8aecb467cf1]
 
 (1) In addition to any requirements of notification elsewhere in the Regulations, the contractor must notify the Local Health Board in writing, as soon as reasonably practicable, of—
 
@@ -568,7 +568,7 @@ send to the Local Health Board the information specified in sub-paragraph (2).
 
 which includes the name of the dental practitioner who has left, or who has been employed or engaged, together with that person’s professional registration number.
 
-#### 41. Notice provisions specific to a contract with a dental corporation[^key-0788e27bb428f83cab8abaea79ec662d]
+#### 41. Notice provisions specific to a contract with a dental corporation[^c-0788e27bb428f83cab8abaea79ec662d]
 
 A contractor, which is a dental corporation, must give notice in writing to the Local Health Board immediately when—
 
@@ -577,7 +577,7 @@ A contractor, which is a dental corporation, must give notice in writing to the 
 - (c) circumstances arise which would enable the court to make a winding up order in respect of the contractor, or
 - (d) the contractor is unable to pay its debts within the meaning of section 123 of the 1986 Act (definition of inability to pay debts).
 
-#### 42. Notice provisions specific to a contract with two or more individuals practising in partnership[^key-f8ed14b49d4daee10adb3bc89b7f75af]
+#### 42. Notice provisions specific to a contract with two or more individuals practising in partnership[^c-f8ed14b49d4daee10adb3bc89b7f75af]
 
 (1) A contractor which is a partnership must give notice in writing to the Local Health Board immediately when—
 
@@ -591,11 +591,11 @@ A contractor, which is a dental corporation, must give notice in writing to the 
 - (c) confirm that the new partner meets the conditions imposed by regulation 4 (general conditions relating to all contracts), and
 - (d) state whether the new partner is a general or a limited partner.
 
-#### 43. Notifications to patients following a variation of the contract[^key-5cc8d9c2c550b38848132dd47020bd3a]
+#### 43. Notifications to patients following a variation of the contract[^c-5cc8d9c2c550b38848132dd47020bd3a]
 
 Where the contract is varied in accordance with Part 8 of this Schedule and, as a result of that variation there are changes in the range of services provided by the contractor, the contractor must ensure that, at least 28 clear days before that change is due to take effect, there is displayed in a prominent position in its practice premises, in a part to which patients have access, written details of that change.
 
-#### 44. Entry and inspection by the Local Health Board[^key-f2182405196a057e15a2f46ae81192b9]
+#### 44. Entry and inspection by the Local Health Board[^c-f2182405196a057e15a2f46ae81192b9]
 
 (1) Subject to the conditions in sub-paragraph (2) the contractor must allow persons authorised in writing by the Local Health Board to enter and inspect the practice premises at any reasonable time.
 
@@ -607,13 +607,13 @@ Where the contract is varied in accordance with Part 8 of this Schedule and, as 
 
 (3) In this paragraph “**premises**” includes a mobile surgery.
 
-#### 45. Entry and inspection by the Welsh Ministers[^key-8663c4807262501db65b2ceee2d2de36]
+#### 45. Entry and inspection by the Welsh Ministers[^c-8663c4807262501db65b2ceee2d2de36]
 
 The contractor must allow persons authorised by the Welsh Ministers to enter and inspect premises in accordance with section 72 of the Health and Social Care (Community Health and Standards) Act 2003[^f00033] (right of entry).
 
 ### PART 6 — CONCERNS
 
-#### 46. Concerns[^key-0525abb09c21aa3089dd3301a502973d]
+#### 46. Concerns[^c-0525abb09c21aa3089dd3301a502973d]
 
 (1) The contractor must establish and operate arrangements which meet the requirements of the 2011 Regulations[^f00034] to deal with any concerns notified about any matter reasonably connected with the provision of services under the contract.
 
@@ -627,7 +627,7 @@ The contractor must allow persons authorised by the Welsh Ministers to enter and
 
 (3) Where the contractor decides that a concern is excluded, it must as soon as reasonably practicable notify in writing the person who notified the concern of its decision and the reason for its decision (except in relation to matters resolved by the next working day).
 
-#### 47. Notification of concerns[^key-114021116360e83df00919ac9d6be5dd]
+#### 47. Notification of concerns[^c-114021116360e83df00919ac9d6be5dd]
 
 (1) A concern may be notified by—
 
@@ -647,7 +647,7 @@ The contractor must allow persons authorised by the Welsh Ministers to enter and
 
 (3) Where a patient has died, a concern may be notified by a relative or other adult person who had an interest in their welfare or, where the patient falls within sub-paragraph (2)(a)(ii) or (iii) by the local authority or voluntary organisation respectively.
 
-#### 48. Period for notifying concerns[^key-cdb2f5dba63575ac86035ebc643cd422]
+#### 48. Period for notifying concerns[^c-cdb2f5dba63575ac86035ebc643cd422]
 
 (1) A concern must be notified within 12 months after—
 
@@ -664,7 +664,7 @@ The contractor must allow persons authorised by the Welsh Ministers to enter and
 - (a) the date the matter occurred, or
 - (b) if later, 3 or more years from the date it came to the notice of the person notifying the concern.
 
-#### 49. Further requirements for concerns procedures[^key-22cfa381e474f1a75876a52a2b846fa3]
+#### 49. Further requirements for concerns procedures[^c-22cfa381e474f1a75876a52a2b846fa3]
 
 (1) A concerns procedure arranged in accordance with paragraph 46 must also comply with the requirements set out in sub-paragraphs (2) to (6).
 
@@ -702,7 +702,7 @@ The contractor must allow persons authorised by the Welsh Ministers to enter and
 
 (11) The contractor must keep a record of all concerns and copies of all correspondence relating to concerns for a period of at least 7 years from the date on which such concerns were notified, but such records must be kept separate from the patients’ dental records.
 
-#### 50. Co-operation with investigations[^key-a92d9f18e5343ff5ed08d1664d2eb493]
+#### 50. Co-operation with investigations[^c-a92d9f18e5343ff5ed08d1664d2eb493]
 
 (1) The contractor must co-operate with—
 
@@ -730,7 +730,7 @@ The contractor must allow persons authorised by the Welsh Ministers to enter and
   - (d) a council constituted under section 2 of the Local Government etc, (Scotland) Act 1994[^f00038] (constitution of councils);
 - “**NHS body**” means a Local Health Board, an NHS trust, an NHS foundation trust, an integrated care board, NHS England or an equivalent body constituted in Scotland or Northern Ireland.
 
-#### 51. Withdrawal of concerns[^key-b972d26835751031720e4babbd1e32c8]
+#### 51. Withdrawal of concerns[^c-b972d26835751031720e4babbd1e32c8]
 
 (1) A concern may be withdrawn at any time by the person who notified it.
 
@@ -746,11 +746,11 @@ The contractor must allow persons authorised by the Welsh Ministers to enter and
 
 ### PART 7 — DISPUTE RESOLUTION
 
-#### 52. Local resolution of contract disputes[^key-a74008a25516704c0055e28298fad752]
+#### 52. Local resolution of contract disputes[^c-a74008a25516704c0055e28298fad752]
 
 In the case of any dispute arising out of or in connection with the contract, the contractor and the Local Health Board must make every reasonable effort to communicate and co-operate with each other with a view to resolving the dispute, before referring the dispute for determination in accordance with the NHS dispute resolution procedure set out in paragraph 53 or 54 (or, where applicable, before commencing court proceedings).
 
-#### 53. Dispute resolution: non-NHS contracts[^key-f15e4560db475e5a8b776f881ce6da37]
+#### 53. Dispute resolution: non-NHS contracts[^c-f15e4560db475e5a8b776f881ce6da37]
 
 (1) In the case of a contract that is not an NHS contract, any dispute arising out of or in connection with the contract, except matters dealt with under the procedures for notifying concerns pursuant to Parts 6 of this Schedule, may be referred for consideration and determination to the Welsh Ministers—
 
@@ -762,7 +762,7 @@ In the case of any dispute arising out of or in connection with the contract, th
 - (a) the procedure to be followed is the NHS dispute resolution procedure, and
 - (b) the parties agree to be bound by any determination made by the adjudicator.
 
-#### 54. NHS dispute resolution procedure[^key-bb26946800f974d41629af33de61593f]
+#### 54. NHS dispute resolution procedure[^c-bb26946800f974d41629af33de61593f]
 
 (1) The procedure specified in the following sub-paragraphs and paragraph 53 applies in the case of any dispute arising out of or in connection with the contract which is referred to the Welsh Ministers—
 
@@ -809,13 +809,13 @@ In the case of any dispute arising out of or in connection with the contract, th
 
 (13) Subject to the other provisions of this paragraph and paragraph 57, the adjudicator has wide discretion in determining the procedure of the dispute resolution to ensure the just, expeditious, economical and final determination of the dispute.
 
-#### 55. Determination of dispute[^key-97e6a8666c132609ba4bf5437cdd467d]
+#### 55. Determination of dispute[^c-97e6a8666c132609ba4bf5437cdd467d]
 
 (1) The adjudicator must record the determination and the reasons for it, in writing and give notice of the determination (including the record of the reasons) to the parties.
 
 (2) In the case of a contract referred for determination in accordance with paragraph 54(1), section 7(12) of the 2006 Act applies as that subsection applies in the case of a contract referred for determination in accordance with section 7(6) of the 2006 Act.
 
-#### 56. Interpretation of Part 7[^key-33c1180070a40a75d3dd07211d50f044]
+#### 56. Interpretation of Part 7[^c-33c1180070a40a75d3dd07211d50f044]
 
 (1) In this Part, reference to any dispute arising out of or in connection with the contract includes any dispute arising out of or in connection with the termination of the contract.
 
@@ -823,7 +823,7 @@ In the case of any dispute arising out of or in connection with the contract, th
 
 ### PART 8 — VARIATION AND TERMINATION OF CONTRACTS
 
-#### 57. Variation of a contract: general[^key-e5e5c6b54f5fa108ba015386f0c62e0a]
+#### 57. Variation of a contract: general[^c-e5e5c6b54f5fa108ba015386f0c62e0a]
 
 (1) Subject to sub-paragraph (2) and paragraphs 58(6), 59(6) and 71, no amendment or variation has effect unless it is in writing and signed by or on behalf of the Local Health Board and the contractor.
 
@@ -834,7 +834,7 @@ In the case of any dispute arising out of or in connection with the contract, th
 
 (3) Where it is reasonably practicable to do so, the date that the proposed variation takes effect must be not less than 14 clear days after the date on which the notice under sub-paragraph (2)(b) is served on the contractor.
 
-#### 58. Variation provisions specific to a contract with an individual dental practitioner[^key-64ef8dcdd4751057ca7d7750b23a38a4]
+#### 58. Variation provisions specific to a contract with an individual dental practitioner[^c-64ef8dcdd4751057ca7d7750b23a38a4]
 
 (1) If a contractor which is an individual dental practitioner proposes to practise in partnership with one or more persons during the existence of the contract, the contractor must notify the Local Health Board in writing of—
 
@@ -862,7 +862,7 @@ and the notice must be signed by the individual dental practitioner and by the p
 - (a) may vary the contract but only to the extent that it is satisfied is necessary to reflect the change in status of the contractor from an individual dental practitioner to a partnership, and
 - (b) if it does propose to so vary the contract, it must include in the notice served on the contractor pursuant to sub-paragraph (4) the wording of the proposed variation and the date upon which that variation takes effect.
 
-#### 59. Variation provisions specific to a contract with two or more individuals practising in partnership[^key-cab517e9fc72445e07844b9df1659ab2]
+#### 59. Variation provisions specific to a contract with two or more individuals practising in partnership[^c-cab517e9fc72445e07844b9df1659ab2]
 
 (1) Subject to sub-paragraph (4) and in accordance with sub-paragraph (2), where a contractor consists of two or more individuals practising in partnership in the event that the partnership is ended or dissolved, the contract may only continue with one of the former partners if that partner is—
 
@@ -888,11 +888,11 @@ and the notice must be signed by the individual dental practitioner and by the p
 
 (7) If the Local Health Board varies the contract pursuant to sub-paragraph (6), it must notify the contractor in writing of the wording of the proposed variation and the date upon which that variation takes effect.
 
-#### 60. Termination by agreement[^key-a105a7ccb2c918eead42d9165008fc7d]
+#### 60. Termination by agreement[^c-a105a7ccb2c918eead42d9165008fc7d]
 
 The Local Health Board and the contractor may agree in writing to terminate the contract, and if the parties so agree, they must agree the date upon which that termination should take effect and any further terms upon which the contract should be terminated.
 
-#### 61. Termination on the death of an individual dental practitioner[^key-00d3ea2580818a8486130953acbcca7e]
+#### 61. Termination on the death of an individual dental practitioner[^c-00d3ea2580818a8486130953acbcca7e]
 
 (1) Where the contract is with an individual dental practitioner and that dental practitioner dies, the contract terminates at the end of the period of 28 days after the date of their death unless, before the end of that period—
 
@@ -903,7 +903,7 @@ The Local Health Board and the contractor may agree in writing to terminate the 
 
 (3) Sub-paragraph (1) does not affect any other rights to terminate the contract which the Local Health Board may have under paragraph 60 and paragraphs 62 to 70.
 
-#### 62. Termination by the contractor[^key-17db03d23efc8f4326496d1828b139fd]
+#### 62. Termination by the contractor[^c-17db03d23efc8f4326496d1828b139fd]
 
 (1) A contractor may terminate the contract by serving notice in writing on the Local Health Board at any time.
 
@@ -911,7 +911,7 @@ The Local Health Board and the contractor may agree in writing to terminate the 
 
 (3) This paragraph and paragraph 63 are without prejudice to any other rights to terminate the contract that the contractor may have.
 
-#### 63. Late payment notices[^key-c70a1f6b78e5fba64e6610ba565369d5]
+#### 63. Late payment notices[^c-c70a1f6b78e5fba64e6610ba565369d5]
 
 (1) The contractor may give notice in writing (a “**late payment notice**”) to the Local Health Board if the Local Health Board has failed to make any payments due to the contractor in accordance with a term of the contract that has the effect specified in regulation 30 (finance), and the contractor must specify in the late payment notice the payments that the Local Health Board has failed to make in accordance with that regulation.
 
@@ -924,11 +924,11 @@ The Local Health Board and the contractor may agree in writing to terminate the 
 
 whichever is the sooner.
 
-#### 64. Termination by the Local Health Board: general[^key-dc62592f142b3047ae70ded375e2c51b]
+#### 64. Termination by the Local Health Board: general[^c-dc62592f142b3047ae70ded375e2c51b]
 
 The Local Health Board may only terminate the contract in accordance with the provisions in this Part.
 
-#### 65. Termination by the Local Health Board: no longer eligible to enter into and breach of conditions of the contract[^key-0053f356a725c8ab2cc47100008ce8f7]
+#### 65. Termination by the Local Health Board: no longer eligible to enter into and breach of conditions of the contract[^c-0053f356a725c8ab2cc47100008ce8f7]
 
 (1) Subject to sub-paragraph (2), the Local Health Board must serve notice in writing on the contractor terminating the contract immediately if—
 
@@ -965,7 +965,7 @@ The Local Health Board may only terminate the contract in accordance with the pr
 - (a) section 27(2)(b) of the 1984 Act (deficient professional performance), or
 - (b) section 27(2)(c) of the 1984 Act (adverse physical or mental health).
 
-#### 66. Termination by the Local Health Board for the provision of untrue etc. information[^key-2b2fb62c763bc9dc125fbc16e10c907b]
+#### 66. Termination by the Local Health Board for the provision of untrue etc. information[^c-2b2fb62c763bc9dc125fbc16e10c907b]
 
 The Local Health Board may serve notice in writing on the contractor terminating the contract immediately, or from such date as may be specified in the notice if, after the contract has been entered into, it comes to the attention of the Local Health Board that written information provided to the Local Health Board by the contractor—
 
@@ -974,7 +974,7 @@ The Local Health Board may serve notice in writing on the contractor terminating
 
 in relation to the conditions set out in regulation 4 (and compliance with those conditions) was, when given, untrue or inaccurate in a material respect.
 
-#### 67. Termination by the Local Health Board on grounds of suitability etc.[^key-b5aac0284c0ff724c366fde5564fd5fa]
+#### 67. Termination by the Local Health Board on grounds of suitability etc.[^c-b5aac0284c0ff724c366fde5564fd5fa]
 
 (1) The Local Health Board may serve notice in writing on the contractor terminating the contract immediately, or from such date as may be specified in the notice if —
 
@@ -1039,14 +1039,14 @@ as the case may be.
 
 (6) In this paragraph “**health service body**” includes the bodies known at the relevant time as a Strategic Health Authority, a Primary Care Trust, a Clinical Commissioning Group and an Integrated Care System.
 
-#### 68. Termination by the Local Health Board: patient safety and material financial loss[^key-66dfd9f8505011e010f1dd0c323cb65a]
+#### 68. Termination by the Local Health Board: patient safety and material financial loss[^c-66dfd9f8505011e010f1dd0c323cb65a]
 
 The Local Health Board may serve notice in writing on the contractor terminating the contract immediately or with effect from such date as may be specified in the notice if—
 
 - (a) the contractor has breached the contract and as a result of that breach, the safety of the contractor’s patients is at risk if the contract is not terminated, or
 - (b) the contractor’s financial situation is such that the Local Health Board considers that the Local Health Board is at risk of material financial loss.
 
-#### 69. Termination by the Local Health Board: remedial notices and breach of contract notices[^key-668c9e41bdd3f1c53f4100931f8763e8]
+#### 69. Termination by the Local Health Board: remedial notices and breach of contract notices[^c-668c9e41bdd3f1c53f4100931f8763e8]
 
 (1) Where a contractor has breached the contract other than as specified in paragraphs 66 to 68 and the breach is capable of remedy, the Local Health Board must, before taking any action it is otherwise entitled to take by virtue of the contract, serve a notice on the contractor requiring it to remedy the breach (“**remedial notice**”).
 
@@ -1074,7 +1074,7 @@ The Local Health Board may serve notice in writing on the contractor terminating
 
 (8) If the contractor is in breach of any obligation and a breach of contract notice or a remedial notice in respect of that default has been given to the contractor, the Local Health Board may withhold or deduct monies which would otherwise be payable under the contract in respect of that obligation which is the subject of the breach.
 
-#### 70. Termination by the Local Health Board: additional provisions specific to contracts with two or more individuals practising in partnership and dental corporations[^key-fd3a3f26dc2c41e01a1967ac459081f5]
+#### 70. Termination by the Local Health Board: additional provisions specific to contracts with two or more individuals practising in partnership and dental corporations[^c-fd3a3f26dc2c41e01a1967ac459081f5]
 
 (1) Where the contractor is a dental corporation, if the Local Health Board becomes aware that the contractor is carrying on any business which the Local Health Board considers to be detrimental to the contractor’s performance of its obligations under the contract—
 
@@ -1096,7 +1096,7 @@ the Local Health Board may, by written notice, terminate the contract if it cons
 - (a) the date upon which the contract terminates, and
 - (b) the Local Health Board’s reasons for considering that the change in the membership of the partnership is likely to have a serious adverse impact on the ability of the contractor or the Local Health Board to perform its obligations under the contract.
 
-#### 71. Contract sanctions[^key-b07ec6c8ee3db43d3e58b362e7009559]
+#### 71. Contract sanctions[^c-b07ec6c8ee3db43d3e58b362e7009559]
 
 (1) In this paragraph and paragraph 72, “**contract sanction**” means—
 
@@ -1117,7 +1117,7 @@ the Local Health Board may, by written notice, terminate the contract if it cons
 
 (6) Where the Local Health Board imposes a contract sanction, the Local Health Board is entitled to charge the contractor the reasonable costs of additional administration that the Local Health Board has incurred in order to impose, or as a result of imposing, the contract sanction.
 
-#### 72. Contract sanctions and the NHS dispute resolution procedure[^key-693246428f97782b4d299a155cb037b1]
+#### 72. Contract sanctions and the NHS dispute resolution procedure[^c-693246428f97782b4d299a155cb037b1]
 
 (1) If there is a dispute between the Local Health Board and the contractor in relation to a contract sanction that the Local Health Board is proposing to impose, the Local Health Board must not, subject to sub-paragraph (4), impose the proposed contract sanction except in the circumstances specified in sub-paragraph (2).
 
@@ -1135,7 +1135,7 @@ whichever is the sooner.
 - (a) protect the safety of the contractor’s patients, or
 - (b) protect itself from material financial loss.
 
-#### 73. Termination and the NHS dispute resolution procedure[^key-bf59767f1041d01415d445b7803288ff]
+#### 73. Termination and the NHS dispute resolution procedure[^c-bf59767f1041d01415d445b7803288ff]
 
 (1) Where the Local Health Board is entitled to serve written notice on the contractor terminating the contract pursuant to paragraph 66, 67, 68, 69(4), 69(6) or 70, the Local Health Board must, in the notice served on the contractor pursuant to those provisions, specify a date on which the contract terminates that is not less than 28 clear days after the date on which the Local Health Board has served that notice on the contractor unless sub-paragraph (2) applies.
 
@@ -1162,7 +1162,7 @@ sub-paragraphs (3) and (4) do not apply and the Local Health Board is entitled t
 
 ### PART 9 — MISCELLANEOUS
 
-#### 74. Evidence of exemption under the 2006 Act[^key-d281d449e5ff1474478e1af34673ea8f]
+#### 74. Evidence of exemption under the 2006 Act[^c-d281d449e5ff1474478e1af34673ea8f]
 
 (1) Subject to sub-paragraph (2), the contractor must ensure that it requests, in respect of a person who makes a declaration relating to exemption under section 126 of the 2006 Act, evidence in support of that declaration.
 
@@ -1173,7 +1173,7 @@ sub-paragraphs (3) and (4) do not apply and the Local Health Board is entitled t
 
 (3) Sub-paragraphs (1) and (2) do not apply where the contractor is satisfied that the person in respect of whom the declaration is made is under the age of 18 years.
 
-#### 75. Clinical governance arrangements[^key-875bd3b5d94f7fe3553ea8bec28332b9]
+#### 75. Clinical governance arrangements[^c-875bd3b5d94f7fe3553ea8bec28332b9]
 
 (1) The contractor must comply with such clinical governance arrangements as the Local Health Board may establish in respect of contractors providing services under a contract.
 
@@ -1181,7 +1181,7 @@ sub-paragraphs (3) and (4) do not apply and the Local Health Board is entitled t
 
 (3) In this paragraph, “**clinical governance arrangements**” means arrangements through which the contractor endeavours to continuously improve the quality of its services and safeguard high standards of care by creating an environment in which clinical excellence can flourish.
 
-#### 76. Quality assurance system[^key-42bd937b15414c40e58af5fe5c130029]
+#### 76. Quality assurance system[^c-42bd937b15414c40e58af5fe5c130029]
 
 (1) The contractor must establish and operate a practice-based quality assurance system which is applicable to all the persons specified in sub-paragraph (2).
 
@@ -1200,7 +1200,7 @@ sub-paragraphs (3) and (4) do not apply and the Local Health Board is entitled t
 - (d) any requirements of the General Dental Council in respect of the continuing professional development of dental practitioners are satisfied, and
 - (e) an annual quality assurance self assessment is carried out as co-ordinated by the Dental Public Health Team of Public Health Wales.
 
-#### 77. Insurance: negligent performance[^key-cc14b08e682f0668de7c790220a36fa8]
+#### 77. Insurance: negligent performance[^c-cc14b08e682f0668de7c790220a36fa8]
 
 (1) The contractor must at all times have in force in relation to it an indemnity arrangement which provides appropriate cover.
 
@@ -1213,13 +1213,13 @@ sub-paragraphs (3) and (4) do not apply and the Local Health Board is entitled t
 - “**appropriate cover**” means cover against liabilities that may be incurred by the contractor in the performance of clinical services under the contract, which is appropriate, having regard to the nature and extent of the risks in the performance of such services;
 - “**indemnity arrangement**” means a contract of insurance or other arrangement made for the purpose of indemnifying the contractor.
 
-#### 78. Public liability insurance[^key-1ce414752fecaee7cb82e9b1d068afef]
+#### 78. Public liability insurance[^c-1ce414752fecaee7cb82e9b1d068afef]
 
 (1) The contractor must at all times hold adequate public liability insurance in relation to liabilities to third parties arising under or in connection with the contract which are not covered by an indemnity arrangement referred to in paragraph 77(1).
 
 (2) In this paragraph, “**indemnity arrangement**” has the same meaning as in paragraph 77.
 
-#### 79. Gifts[^key-0b2e5ee6c6e80257ffe89a273ad478d1]
+#### 79. Gifts[^c-0b2e5ee6c6e80257ffe89a273ad478d1]
 
 (1) The contractor must keep a register of gifts which are given to any of the persons specified in sub-paragraph (2) by or on behalf of—
 
@@ -1258,18 +1258,18 @@ and have, in its reasonable opinion, an individual value of more than £100.00.
 
 (6) The contractor must make the register available to the Local Health Board on request.
 
-#### 80. Compliance with legislation and guidance[^key-d1f89e6e921b61dd2027c959596c9f46]
+#### 80. Compliance with legislation and guidance[^c-d1f89e6e921b61dd2027c959596c9f46]
 
 The contractor must—
 
 - (a) comply with all relevant legislation, and
 - (b) have regard to all relevant guidance issued by the Local Health Board, or the Welsh Ministers.
 
-#### 81. Third party rights[^key-f68e58409e6d8e8809e4fa388843f664]
+#### 81. Third party rights[^c-f68e58409e6d8e8809e4fa388843f664]
 
 The contract must not create any right enforceable by any person not a party to it.
 
-#### 82. Signing of documents[^key-e85d436fb2abc2ff38adc57e1fb222ec]
+#### 82. Signing of documents[^c-e85d436fb2abc2ff38adc57e1fb222ec]
 
 (1) In addition to any other requirement that may relate to the documents specified in sub-paragraph (2), whether in these Regulations or otherwise, the contractor must ensure such documents include—
 
@@ -1282,7 +1282,7 @@ The contract must not create any right enforceable by any person not a party to 
 - (b) prescription forms, and
 - (c) any other clinical document.
 
-#### 83. Duty of co-operation: cluster working[^key-a5cfa1ea102741e1337b235bd0685288]
+#### 83. Duty of co-operation: cluster working[^c-a5cfa1ea102741e1337b235bd0685288]
 
 (1) A contractor must comply with the requirements in sub-paragraph (2) where primary dental services are provided by the contractor’s cluster.
 
@@ -1298,192 +1298,192 @@ The contract must not create any right enforceable by any person not a party to 
 
 ## Annotations
 
-[^key-3e77586a17a00652d7437a43bfdf6744]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/1) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-3e77586a17a00652d7437a43bfdf6744]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/1) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00029]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-beb3fa4bb358c5752d04e088cfca57fb]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-beb3fa4bb358c5752d04e088cfca57fb]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-19ee0e13c5018b841c43e4e740649862]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/3) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-19ee0e13c5018b841c43e4e740649862]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/3) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-bd359778f4e5b42d224baeb0c075434f]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-bd359778f4e5b42d224baeb0c075434f]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/4) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-b614aa03c3439aa078a4825fc5549088]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/5) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-b614aa03c3439aa078a4825fc5549088]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/5) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-a683505cc5049368e00d8c3ee742df73]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/6) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-a683505cc5049368e00d8c3ee742df73]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/6) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-e510aeb57a4e9726546f724c7895b351]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/7) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e510aeb57a4e9726546f724c7895b351]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/7) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-1a6c7959686af9ac1b917167a142578c]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/8) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-1a6c7959686af9ac1b917167a142578c]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/8) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-ed6fba4128133fd318e230172f71e3da]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/9) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ed6fba4128133fd318e230172f71e3da]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/9) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-1bad959a0990fe93884efc6096744f34]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/10) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-1bad959a0990fe93884efc6096744f34]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/10) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-ce7becd6b3f25ed8bf9d020f5ba425ab]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/11) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ce7becd6b3f25ed8bf9d020f5ba425ab]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/11) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-9aafc607a05e1016f1467ef5c9d1e1dc]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/12) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-9aafc607a05e1016f1467ef5c9d1e1dc]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/12) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-ed354b8d402f27319b6feffa6b1e1684]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/13) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ed354b8d402f27319b6feffa6b1e1684]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/13) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-bf06961cad8897a585d6cbfaf961ec5e]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/14) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-bf06961cad8897a585d6cbfaf961ec5e]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/14) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00030]: Footnote: The National Institute for Health and Care Excellence is established under sections 232 to 247 of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/uksi/2012/7).
 
 [^f00031]: Footnote: This guidance is available from NICE’s website, www.nice.org.uk.
 
-[^key-f4ced0fafb047bebfc85fbe3c421bec6]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/15) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-f4ced0fafb047bebfc85fbe3c421bec6]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/15) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-400445554e00841a89790867231d64ad]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/16) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-400445554e00841a89790867231d64ad]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/16) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-170614a3d0ea87294aa5a3e0fcdc7821]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/17) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-170614a3d0ea87294aa5a3e0fcdc7821]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/17) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-ecf442ffbb83189b86d06484bb827528]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/18) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ecf442ffbb83189b86d06484bb827528]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/18) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-f68a38321c0de139e63776a19c2a4ab4]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/19) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-f68a38321c0de139e63776a19c2a4ab4]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/19) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-9467e4a90f890327669ee2f33c56fa50]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/20) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-9467e4a90f890327669ee2f33c56fa50]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/20) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-c224f99092e0f648b81cecfe538613e0]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/21) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-c224f99092e0f648b81cecfe538613e0]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/21) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-04e561ed3d510157dcff9b3cabb0768b]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/22) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-04e561ed3d510157dcff9b3cabb0768b]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/22) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-e065e346cc9ce2c2d95ae15e62d8768e]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/23) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e065e346cc9ce2c2d95ae15e62d8768e]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/23) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-376f6a51f1a72c8532d4f95bfb399970]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/24) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-376f6a51f1a72c8532d4f95bfb399970]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/24) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-823cb999794ccf439c79650250121a33]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/25) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-823cb999794ccf439c79650250121a33]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/25) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-53ebfd47549b01a10bfc1f112c12b81e]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/26) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-53ebfd47549b01a10bfc1f112c12b81e]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/26) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-ab407cb8aa78a9103ae986476f6c4563]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/27) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-ab407cb8aa78a9103ae986476f6c4563]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/27) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-810e570cd788232a2e6ba0a3ad3c6f0f]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/28) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-810e570cd788232a2e6ba0a3ad3c6f0f]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/28) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-d18aaef6ffcb9d0b19fff46ce2f11799]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/29) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-d18aaef6ffcb9d0b19fff46ce2f11799]: Commencement: [Sch. 3 para. 29](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/29) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-28fbd1ef7589940853f73dee5f92fe54]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/30) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-28fbd1ef7589940853f73dee5f92fe54]: Commencement: [Sch. 3 para. 30](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/30) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-87e229f07470f71238048c1c543c54b8]: Commencement: [Sch. 3 para. 31](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/31) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-87e229f07470f71238048c1c543c54b8]: Commencement: [Sch. 3 para. 31](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/31) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-bff10814639a608bd194115db2e25b94]: Commencement: [Sch. 3 para. 32](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/32) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-bff10814639a608bd194115db2e25b94]: Commencement: [Sch. 3 para. 32](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/32) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-0f0add4f2361f2abc908eacd9a7489eb]: Commencement: [Sch. 3 para. 33](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/33) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-0f0add4f2361f2abc908eacd9a7489eb]: Commencement: [Sch. 3 para. 33](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/33) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00032]: Footnote: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618) as amended by [S.I.2008/2986](https://www.legislation.gov.uk/uksi/2008/2986), [S.I. 2013/2327](https://www.legislation.gov.uk/uksi/2013/2327) and [S.I.2020/1478](https://www.legislation.gov.uk/uksi/2020/1478).
 
-[^key-61a06da7151ac67d8d054935c287aab9]: Commencement: [Sch. 3 para. 34](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/34) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-61a06da7151ac67d8d054935c287aab9]: Commencement: [Sch. 3 para. 34](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/34) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-44697fdb228c250f568009ab28ff61de]: Commencement: [Sch. 3 para. 35](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/35) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-44697fdb228c250f568009ab28ff61de]: Commencement: [Sch. 3 para. 35](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/35) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-7f71b04686f8e6981eb90e020e7e4bf1]: Commencement: [Sch. 3 para. 36](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/36) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-7f71b04686f8e6981eb90e020e7e4bf1]: Commencement: [Sch. 3 para. 36](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/36) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-d9f34f0152adf1545b6ed0ecf405d739]: Commencement: [Sch. 3 para. 37](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/37) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-d9f34f0152adf1545b6ed0ecf405d739]: Commencement: [Sch. 3 para. 37](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/37) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-400993d44c526e2d1032c46e492d2399]: Commencement: [Sch. 3 para. 38](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/38) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-400993d44c526e2d1032c46e492d2399]: Commencement: [Sch. 3 para. 38](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/38) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-886a1ffcfe03208cd13c60aa62b70b74]: Commencement: [Sch. 3 para. 39](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/39) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-886a1ffcfe03208cd13c60aa62b70b74]: Commencement: [Sch. 3 para. 39](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/39) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-270cdc543f69b40ad9f8b8aecb467cf1]: Commencement: [Sch. 3 para. 40](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/40) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-270cdc543f69b40ad9f8b8aecb467cf1]: Commencement: [Sch. 3 para. 40](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/40) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-0788e27bb428f83cab8abaea79ec662d]: Commencement: [Sch. 3 para. 41](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/41) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-0788e27bb428f83cab8abaea79ec662d]: Commencement: [Sch. 3 para. 41](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/41) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-f8ed14b49d4daee10adb3bc89b7f75af]: Commencement: [Sch. 3 para. 42](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/42) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-f8ed14b49d4daee10adb3bc89b7f75af]: Commencement: [Sch. 3 para. 42](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/42) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-5cc8d9c2c550b38848132dd47020bd3a]: Commencement: [Sch. 3 para. 43](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/43) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-5cc8d9c2c550b38848132dd47020bd3a]: Commencement: [Sch. 3 para. 43](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/43) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-f2182405196a057e15a2f46ae81192b9]: Commencement: [Sch. 3 para. 44](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/44) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-f2182405196a057e15a2f46ae81192b9]: Commencement: [Sch. 3 para. 44](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/44) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-8663c4807262501db65b2ceee2d2de36]: Commencement: [Sch. 3 para. 45](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/45) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-8663c4807262501db65b2ceee2d2de36]: Commencement: [Sch. 3 para. 45](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/45) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00033]: Footnote: [2003 c. 43](https://www.legislation.gov.uk/ukpga/2003/43). The functions of the National Assembly for Wales under section 72 were transferred to the Welsh Ministers by virtue of the Government of Wales Act 2006.
 
-[^key-0525abb09c21aa3089dd3301a502973d]: Commencement: [Sch. 3 para. 46](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/46) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-0525abb09c21aa3089dd3301a502973d]: Commencement: [Sch. 3 para. 46](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/46) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00034]: Footnote: [S.I. 2011/704](https://www.legislation.gov.uk/uksi/2011/704).
 
 [^f00035]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-114021116360e83df00919ac9d6be5dd]: Commencement: [Sch. 3 para. 47](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/47) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-114021116360e83df00919ac9d6be5dd]: Commencement: [Sch. 3 para. 47](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/47) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00036]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-cdb2f5dba63575ac86035ebc643cd422]: Commencement: [Sch. 3 para. 48](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/48) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-cdb2f5dba63575ac86035ebc643cd422]: Commencement: [Sch. 3 para. 48](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/48) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-22cfa381e474f1a75876a52a2b846fa3]: Commencement: [Sch. 3 para. 49](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/49) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-22cfa381e474f1a75876a52a2b846fa3]: Commencement: [Sch. 3 para. 49](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/49) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-a92d9f18e5343ff5ed08d1664d2eb493]: Commencement: [Sch. 3 para. 50](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/50) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-a92d9f18e5343ff5ed08d1664d2eb493]: Commencement: [Sch. 3 para. 50](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/50) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00037]: Footnote: [1970 c. 42](https://www.legislation.gov.uk/ukpga/1970/42); section 1 was amended by the Local Government Act [1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), section 195 and by the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), Schedule 10, paragraph 7.
 
 [^f00038]: Footnote: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-b972d26835751031720e4babbd1e32c8]: Commencement: [Sch. 3 para. 51](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/51) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-b972d26835751031720e4babbd1e32c8]: Commencement: [Sch. 3 para. 51](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/51) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-a74008a25516704c0055e28298fad752]: Commencement: [Sch. 3 para. 52](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/52) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-a74008a25516704c0055e28298fad752]: Commencement: [Sch. 3 para. 52](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/52) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-f15e4560db475e5a8b776f881ce6da37]: Commencement: [Sch. 3 para. 53](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/53) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-f15e4560db475e5a8b776f881ce6da37]: Commencement: [Sch. 3 para. 53](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/53) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-bb26946800f974d41629af33de61593f]: Commencement: [Sch. 3 para. 54](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/54) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-bb26946800f974d41629af33de61593f]: Commencement: [Sch. 3 para. 54](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/54) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-97e6a8666c132609ba4bf5437cdd467d]: Commencement: [Sch. 3 para. 55](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/55) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-97e6a8666c132609ba4bf5437cdd467d]: Commencement: [Sch. 3 para. 55](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/55) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-33c1180070a40a75d3dd07211d50f044]: Commencement: [Sch. 3 para. 56](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/56) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-33c1180070a40a75d3dd07211d50f044]: Commencement: [Sch. 3 para. 56](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/56) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-e5e5c6b54f5fa108ba015386f0c62e0a]: Commencement: [Sch. 3 para. 57](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/57) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e5e5c6b54f5fa108ba015386f0c62e0a]: Commencement: [Sch. 3 para. 57](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/57) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-64ef8dcdd4751057ca7d7750b23a38a4]: Commencement: [Sch. 3 para. 58](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/58) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-64ef8dcdd4751057ca7d7750b23a38a4]: Commencement: [Sch. 3 para. 58](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/58) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-cab517e9fc72445e07844b9df1659ab2]: Commencement: [Sch. 3 para. 59](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/59) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-cab517e9fc72445e07844b9df1659ab2]: Commencement: [Sch. 3 para. 59](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/59) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-a105a7ccb2c918eead42d9165008fc7d]: Commencement: [Sch. 3 para. 60](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/60) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-a105a7ccb2c918eead42d9165008fc7d]: Commencement: [Sch. 3 para. 60](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/60) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-00d3ea2580818a8486130953acbcca7e]: Commencement: [Sch. 3 para. 61](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/61) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-00d3ea2580818a8486130953acbcca7e]: Commencement: [Sch. 3 para. 61](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/61) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-17db03d23efc8f4326496d1828b139fd]: Commencement: [Sch. 3 para. 62](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/62) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-17db03d23efc8f4326496d1828b139fd]: Commencement: [Sch. 3 para. 62](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/62) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-c70a1f6b78e5fba64e6610ba565369d5]: Commencement: [Sch. 3 para. 63](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/63) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-c70a1f6b78e5fba64e6610ba565369d5]: Commencement: [Sch. 3 para. 63](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/63) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-dc62592f142b3047ae70ded375e2c51b]: Commencement: [Sch. 3 para. 64](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/64) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-dc62592f142b3047ae70ded375e2c51b]: Commencement: [Sch. 3 para. 64](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/64) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-0053f356a725c8ab2cc47100008ce8f7]: Commencement: [Sch. 3 para. 65](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/65) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-0053f356a725c8ab2cc47100008ce8f7]: Commencement: [Sch. 3 para. 65](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/65) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-2b2fb62c763bc9dc125fbc16e10c907b]: Commencement: [Sch. 3 para. 66](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/66) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-2b2fb62c763bc9dc125fbc16e10c907b]: Commencement: [Sch. 3 para. 66](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/66) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-b5aac0284c0ff724c366fde5564fd5fa]: Commencement: [Sch. 3 para. 67](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/67) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-b5aac0284c0ff724c366fde5564fd5fa]: Commencement: [Sch. 3 para. 67](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/67) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00039]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
 
 [^f00040]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-66dfd9f8505011e010f1dd0c323cb65a]: Commencement: [Sch. 3 para. 68](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/68) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-66dfd9f8505011e010f1dd0c323cb65a]: Commencement: [Sch. 3 para. 68](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/68) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-668c9e41bdd3f1c53f4100931f8763e8]: Commencement: [Sch. 3 para. 69](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/69) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-668c9e41bdd3f1c53f4100931f8763e8]: Commencement: [Sch. 3 para. 69](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/69) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-fd3a3f26dc2c41e01a1967ac459081f5]: Commencement: [Sch. 3 para. 70](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/70) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-fd3a3f26dc2c41e01a1967ac459081f5]: Commencement: [Sch. 3 para. 70](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/70) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-b07ec6c8ee3db43d3e58b362e7009559]: Commencement: [Sch. 3 para. 71](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/71) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-b07ec6c8ee3db43d3e58b362e7009559]: Commencement: [Sch. 3 para. 71](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/71) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-693246428f97782b4d299a155cb037b1]: Commencement: [Sch. 3 para. 72](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/72) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-693246428f97782b4d299a155cb037b1]: Commencement: [Sch. 3 para. 72](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/72) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-bf59767f1041d01415d445b7803288ff]: Commencement: [Sch. 3 para. 73](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/73) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-bf59767f1041d01415d445b7803288ff]: Commencement: [Sch. 3 para. 73](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/73) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-d281d449e5ff1474478e1af34673ea8f]: Commencement: [Sch. 3 para. 74](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/74) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-d281d449e5ff1474478e1af34673ea8f]: Commencement: [Sch. 3 para. 74](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/74) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-875bd3b5d94f7fe3553ea8bec28332b9]: Commencement: [Sch. 3 para. 75](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/75) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-875bd3b5d94f7fe3553ea8bec28332b9]: Commencement: [Sch. 3 para. 75](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/75) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-42bd937b15414c40e58af5fe5c130029]: Commencement: [Sch. 3 para. 76](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/76) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-42bd937b15414c40e58af5fe5c130029]: Commencement: [Sch. 3 para. 76](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/76) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-cc14b08e682f0668de7c790220a36fa8]: Commencement: [Sch. 3 para. 77](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/77) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-cc14b08e682f0668de7c790220a36fa8]: Commencement: [Sch. 3 para. 77](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/77) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-1ce414752fecaee7cb82e9b1d068afef]: Commencement: [Sch. 3 para. 78](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/78) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-1ce414752fecaee7cb82e9b1d068afef]: Commencement: [Sch. 3 para. 78](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/78) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-0b2e5ee6c6e80257ffe89a273ad478d1]: Commencement: [Sch. 3 para. 79](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/79) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-0b2e5ee6c6e80257ffe89a273ad478d1]: Commencement: [Sch. 3 para. 79](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/79) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-d1f89e6e921b61dd2027c959596c9f46]: Commencement: [Sch. 3 para. 80](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/80) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-d1f89e6e921b61dd2027c959596c9f46]: Commencement: [Sch. 3 para. 80](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/80) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-f68e58409e6d8e8809e4fa388843f664]: Commencement: [Sch. 3 para. 81](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/81) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-f68e58409e6d8e8809e4fa388843f664]: Commencement: [Sch. 3 para. 81](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/81) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-e85d436fb2abc2ff38adc57e1fb222ec]: Commencement: [Sch. 3 para. 82](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/82) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-e85d436fb2abc2ff38adc57e1fb222ec]: Commencement: [Sch. 3 para. 82](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/82) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
-[^key-a5cfa1ea102741e1337b235bd0685288]: Commencement: [Sch. 3 para. 83](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/83) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-a5cfa1ea102741e1337b235bd0685288]: Commencement: [Sch. 3 para. 83](https://www.legislation.gov.uk/wsi/2026/37/schedule/3/paragraph/83) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

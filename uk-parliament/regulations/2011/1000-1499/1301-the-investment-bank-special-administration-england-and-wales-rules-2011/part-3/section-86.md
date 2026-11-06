@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. FSCS and voting rights[^key-34a8f9f624d6a48f5344d8bc79bfc003]
+## 86. FSCS and voting rights[^c-34a8f9f624d6a48f5344d8bc79bfc003]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34a8f9f624d6a48f5344d8bc79bfc003]: Commencement: [Rule 86](https://www.legislation.gov.uk/uksi/2011/1301/rule/86) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-34a8f9f624d6a48f5344d8bc79bfc003]: Commencement: [Rule 86](https://www.legislation.gov.uk/uksi/2011/1301/rule/86) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

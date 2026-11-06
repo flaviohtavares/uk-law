@@ -180,7 +180,7 @@ In exercise of the powers conferred upon me by section 47 of the Prison Act 1952
 - [Section 72 — Viewing of prisons](part-iv/section-72.md)
 - [Section 73 — Visitors](part-iv/section-73.md)
 
-### PART V — INDEPENDENT MONITORING BOARD[^key-4cd5485d1604e661b66fd8588578b08c]
+### PART V — INDEPENDENT MONITORING BOARD[^c-4cd5485d1604e661b66fd8588578b08c]
 
 - [Section 74 — Disqualification for membership](part-v/section-74.md)
 - [Section 75 — Independent monitoring board](part-v/section-75.md)
@@ -237,4 +237,4 @@ In addition to these and other minor changes, certain provisions from the Prison
 
 [^c16513641]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52); [section 47](https://www.legislation.gov.uk/uksi/1999/728/section/47) was affected by an amendment to section 52(2) of that Act by section 66(4) of the [Criminal Justice Act 1967 (c. 80)](https://www.legislation.gov.uk/ukpga/1967/80) and was extended by section 85(2) and (4) of the [Criminal Justice Act 1991 (c. 53)](https://www.legislation.gov.uk/ukpga/1991/53).
 
-[^key-4cd5485d1604e661b66fd8588578b08c]: Textual amendment: Pt. V Title substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(b)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/b)
+[^c-4cd5485d1604e661b66fd8588578b08c]: Textual amendment: Pt. V Title substituted (1.4.2008) by [The Prison (Amendment) Rules 2008 (S.I. 2008/597)](https://www.legislation.gov.uk/uksi/2008/597), [rules 1](https://www.legislation.gov.uk/uksi/2008/597/rule/1), [4(b)](https://www.legislation.gov.uk/uksi/2008/597/rule/4/b)

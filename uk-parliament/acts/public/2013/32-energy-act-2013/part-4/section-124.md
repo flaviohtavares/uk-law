@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Compensation[^key-befc990472a776b207227192284a74c7]
+## 124. Compensation[^c-befc990472a776b207227192284a74c7]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-befc990472a776b207227192284a74c7]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2013/32/section/124) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)
+[^c-befc990472a776b207227192284a74c7]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2013/32/section/124) in force at 30.4.2015 by [S.I. 2015/817](https://www.legislation.gov.uk/uksi/2015/817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/817/article/2/a)

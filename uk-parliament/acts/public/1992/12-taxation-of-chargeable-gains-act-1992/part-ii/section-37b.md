@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37B. Consideration on certain disposals: structures and buildings allowances[^key-2fd6a4e913f4f9afc9b31721cf597eb9]
+## 37B. Consideration on certain disposals: structures and buildings allowances[^c-2fd6a4e913f4f9afc9b31721cf597eb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ the person who acquires the asset (the “transferee”) is treated, for the pur
 
 ## Annotations
 
-[^key-2fd6a4e913f4f9afc9b31721cf597eb9]: Textual amendment: [S. 37B](https://www.legislation.gov.uk/ukpga/1992/12/section/37B) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/4/4)
+[^c-2fd6a4e913f4f9afc9b31721cf597eb9]: Textual amendment: [S. 37B](https://www.legislation.gov.uk/ukpga/1992/12/section/37B) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/4/4)

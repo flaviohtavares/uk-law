@@ -55,9 +55,9 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (1) In these Regulations–
 
-- “the Council Regulation” means Regulation[^key-6a25baec62772f11933dfe2121bbddcb] [(EC) No 1830/2003](https://www.legislation.gov.uk/eur/2003/1830) of the European Parliament and of the Council concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms and amending [Directive 2001/18/EC](https://www.legislation.gov.uk/eudr/2001/0018),
+- “the Council Regulation” means Regulation[^c-6a25baec62772f11933dfe2121bbddcb] [(EC) No 1830/2003](https://www.legislation.gov.uk/eur/2003/1830) of the European Parliament and of the Council concerning the traceability and labelling of genetically modified organisms and the traceability of food and feed products produced from genetically modified organisms and amending [Directive 2001/18/EC](https://www.legislation.gov.uk/eudr/2001/0018),
 - “**electronic communications**” has the same meaning as in the Electronic Communications Act 2000 [^c5350771];
-- “feed” has the same meaning as in the Council Regulation;[^key-0c2f9932b3dfc923480c5dd288e1dc7a]
+- “feed” has the same meaning as in the Council Regulation;[^c-0c2f9932b3dfc923480c5dd288e1dc7a]
 - “**food**” has the same meaning as in section 1 of the Food Safety Act 1990 [^c5350781];
 - “**inspector**” means a person appointed as such under regulation 3 of these Regulations;
 - “**local authority**” means a council constituted under section 2 of the Local Government etc. (Scotland) Act 1994 [^c5350791];
@@ -67,12 +67,12 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 ## 3. Enforcement
 
-(1)[^key-2ecb57e5a8c41e9970ab239c109810cd] Subject to paragraph (2)—
+(1)[^c-2ecb57e5a8c41e9970ab239c109810cd] Subject to paragraph (2)—
 
 - (a) each local authority must, in its area, enforce and execute these Regulations and the Council Regulation, in so far as it relates to food, and
 - (b) Food Standards Scotland must enforce and execute these Regulations and the Council Regulation, in so far as it relates to feed.
 
-(2)[^key-085e4ec7ffe577614ee64bcd009b274b] The Scottish Ministers may, in relation to any case of a particular description, direct that the duty of a local authority or Food Standards Scotland under paragraph (1) be discharged—
+(2)[^c-085e4ec7ffe577614ee64bcd009b274b] The Scottish Ministers may, in relation to any case of a particular description, direct that the duty of a local authority or Food Standards Scotland under paragraph (1) be discharged—
 
 - (a) in so far as it relates to food, by the Scottish Ministers instead of the local authority or by the Scottish Ministers and the local authority acting jointly,
 - (b) in so far as it relates to feed by the Scottish Ministers instead of Food Standards Scotland or by the Scottish Ministers and Food Standards Scotland acting jointly.
@@ -81,7 +81,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (4) Any appointment of–
 
-- (a)[^key-946653c5f1dd39d6effee41832704a28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-946653c5f1dd39d6effee41832704a28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) an authorised officer under section 5(6) of the Food Safety Act 1990 [^c5350811]; or
 - (c) an inspector under Part VI of the Environmental Protection Act 1990 [^c5350821],
 
@@ -95,7 +95,7 @@ which has effect at the date of coming into force of these Regulations has effec
 
 ## 5. Obtaining Information from Persons
 
-(1)[^key-f5d5c7b659d02331e85f4fc6797e2dc1] Subject to regulation 3(1), for the purpose of the enforcement and execution of these Regulations and the Council Regulation, the local authority, Food Standards Scotland or the Scottish Ministers (as the case may be) may by notice in writing served on any person who falls within paragraph (1A), require that person to furnish such relevant information available to the person as is specified in the notice, in such form and within such period as is specified.
+(1)[^c-f5d5c7b659d02331e85f4fc6797e2dc1] Subject to regulation 3(1), for the purpose of the enforcement and execution of these Regulations and the Council Regulation, the local authority, Food Standards Scotland or the Scottish Ministers (as the case may be) may by notice in writing served on any person who falls within paragraph (1A), require that person to furnish such relevant information available to the person as is specified in the notice, in such form and within such period as is specified.
 
 (1A) A person falls within this paragraph if the person appears to the local authority, Food Standards Scotland or the Scottish Ministers (as the case may be)—
 
@@ -106,7 +106,7 @@ which has effect at the date of coming into force of these Regulations has effec
 
 (2) For the purposes of this regulation “**relevant information**” means information concerning any aspects of the activities in question.
 
-(3) Nothing in paragraph (1) authorises the local authority , Food Standards Scotland[^key-f479361be50e5707cc176a6f6b97afdb] or the Scottish Ministers to require disclosure of anything which a person would be entitled to refuse to disclose on grounds of confidentiality in proceedings in the Court of Session.
+(3) Nothing in paragraph (1) authorises the local authority , Food Standards Scotland[^c-f479361be50e5707cc176a6f6b97afdb] or the Scottish Ministers to require disclosure of anything which a person would be entitled to refuse to disclose on grounds of confidentiality in proceedings in the Court of Session.
 
 ## 6. Incorrectly Labelled Products
 
@@ -121,7 +121,7 @@ which has effect at the date of coming into force of these Regulations has effec
 
 (3) A notice under this regulation shall be complied with at the expense of the person on whom the notice is served.
 
-(4) If a notice under this regulation, or an action required to be taken by the notice, is not complied with within the period specified in the notice, an inspector may arrange for it to be complied with and all reasonable costs of taking such action shall be recoverable by the local authority , Food Standards Scotland[^key-e506e9b982f5425e7d5336bc711e78ec] or the Scottish Ministers (as the case may be) as a debt due by the person on whom the notice was served.
+(4) If a notice under this regulation, or an action required to be taken by the notice, is not complied with within the period specified in the notice, an inspector may arrange for it to be complied with and all reasonable costs of taking such action shall be recoverable by the local authority , Food Standards Scotland[^c-e506e9b982f5425e7d5336bc711e78ec] or the Scottish Ministers (as the case may be) as a debt due by the person on whom the notice was served.
 
 ## 7. Offences
 
@@ -179,7 +179,7 @@ A person guilty of an offence under these Regulations shall be liable on summary
 
 (3) Where a notice is served using electronic communications, the service is deemed to have been effected by properly addressing and transmitting the notice.
 
-## 13. Delegation by Food Standards Scotland[^key-601ba58bae031e4707d7555d61167518]
+## 13. Delegation by Food Standards Scotland[^c-601ba58bae031e4707d7555d61167518]
 
 (1) Where Food Standards Scotland may delegate any function under these Regulations, it may delegate the function to any person.
 
@@ -230,7 +230,7 @@ Regulation 4(1)
 
 **1.** At any reasonable time–
 
-- (a) to enter premises which the inspector has reason to believe it is necessary to enter and to take with the inspector any person duly authorised by a local authority , Food Standards Scotland[^key-80febb9ee0c87d8be9ea9e34077e7fac] or the Scottish Ministers and, if the inspector has reasonable cause to apprehend the risk of obstruction, a constable; and
+- (a) to enter premises which the inspector has reason to believe it is necessary to enter and to take with the inspector any person duly authorised by a local authority , Food Standards Scotland[^c-80febb9ee0c87d8be9ea9e34077e7fac] or the Scottish Ministers and, if the inspector has reasonable cause to apprehend the risk of obstruction, a constable; and
 - (b) to take any equipment or materials required for any purpose for which the power of entry is being exercised.
 
 **2.** To carry out such tests and inspections (and to make such recordings), as may in any circumstances be necessary.
@@ -289,32 +289,32 @@ A Regulatory Impact Assessment has been prepared and placed in the Scottish Parl
 
 [^c5350741]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The function conferred upon the Minister of the Crown under section 2(2) of the 1972 Act, insofar as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-6a25baec62772f11933dfe2121bbddcb]: Textual amendment: Words in reg. 2(1) substituted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [23](https://www.legislation.gov.uk/ssi/2019/86/regulation/23)
+[^c-6a25baec62772f11933dfe2121bbddcb]: Textual amendment: Words in reg. 2(1) substituted (15.3.2019) by [The Genetically Modified Organisms (Deliberate Release etc.) (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/86)](https://www.legislation.gov.uk/ssi/2019/86), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/86/regulation/1/1), [23](https://www.legislation.gov.uk/ssi/2019/86/regulation/23)
 
 [^c5350771]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
-[^key-0c2f9932b3dfc923480c5dd288e1dc7a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2004/438/regulation/2/1) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/2)
+[^c-0c2f9932b3dfc923480c5dd288e1dc7a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2004/438/regulation/2/1) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/2)
 
 [^c5350781]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
 [^c5350791]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
-[^key-2ecb57e5a8c41e9970ab239c109810cd]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2004/438/regulation/3/1) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/3/a)
+[^c-2ecb57e5a8c41e9970ab239c109810cd]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/ssi/2004/438/regulation/3/1) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/3/a)
 
-[^key-085e4ec7ffe577614ee64bcd009b274b]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2004/438/regulation/3/2) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/3/b)
+[^c-085e4ec7ffe577614ee64bcd009b274b]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/ssi/2004/438/regulation/3/2) substituted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/3/b)
 
-[^key-946653c5f1dd39d6effee41832704a28]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/ssi/2004/438/regulation/3/4/a) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/3/c)
+[^c-946653c5f1dd39d6effee41832704a28]: Textual amendment: [Reg. 3(4)(a)](https://www.legislation.gov.uk/ssi/2004/438/regulation/3/4/a) omitted (1.4.2021) by virtue of [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(3)(c)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/3/c)
 
 [^c5350811]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16).
 
 [^c5350821]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-f5d5c7b659d02331e85f4fc6797e2dc1]: Textual amendment: Reg. 5(1)(1A) substituted for reg. 5(1) (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/4/a)
+[^c-f5d5c7b659d02331e85f4fc6797e2dc1]: Textual amendment: Reg. 5(1)(1A) substituted for reg. 5(1) (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(4)(a)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/4/a)
 
-[^key-f479361be50e5707cc176a6f6b97afdb]: Textual amendment: Words in reg. 5(3) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/4/b)
+[^c-f479361be50e5707cc176a6f6b97afdb]: Textual amendment: Words in reg. 5(3) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/4/b)
 
-[^key-e506e9b982f5425e7d5336bc711e78ec]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2004/438/regulation/6/4) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(5)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/5)
+[^c-e506e9b982f5425e7d5336bc711e78ec]: Textual amendment: Words in [reg. 6(4)](https://www.legislation.gov.uk/ssi/2004/438/regulation/6/4) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(5)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/5)
 
-[^key-601ba58bae031e4707d7555d61167518]: Textual amendment: [Regs. 13](https://www.legislation.gov.uk/ssi/2004/438/regulation/13), [14](https://www.legislation.gov.uk/ssi/2004/438/regulation/14) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(6)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/6)
+[^c-601ba58bae031e4707d7555d61167518]: Textual amendment: [Regs. 13](https://www.legislation.gov.uk/ssi/2004/438/regulation/13), [14](https://www.legislation.gov.uk/ssi/2004/438/regulation/14) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(6)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/6)
 
-[^key-80febb9ee0c87d8be9ea9e34077e7fac]: Textual amendment: Words in [sch. 2 para. 1(a)](https://www.legislation.gov.uk/ssi/2004/438/schedule/2/paragraph/1/a) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(7)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/7)
+[^c-80febb9ee0c87d8be9ea9e34077e7fac]: Textual amendment: Words in [sch. 2 para. 1(a)](https://www.legislation.gov.uk/ssi/2004/438/schedule/2/paragraph/1/a) inserted (1.4.2021) by [The Feed (Transfer of Functions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/467)](https://www.legislation.gov.uk/ssi/2020/467), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/467/regulation/1/2), [4(7)](https://www.legislation.gov.uk/ssi/2020/467/regulation/4/7)

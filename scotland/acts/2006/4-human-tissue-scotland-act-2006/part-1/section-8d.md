@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8D. Authorisation by person with parental rights and responsibilities: child 12 years of age or over[^key-5d36b3dce2835348c8fb4f3e6687da65]
+## 8D. Authorisation by person with parental rights and responsibilities: child 12 years of age or over[^c-5d36b3dce2835348c8fb4f3e6687da65]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d36b3dce2835348c8fb4f3e6687da65]: Textual amendment: S. 8D inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 15(2)](https://www.legislation.gov.uk/asp/2019/11/section/15/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-5d36b3dce2835348c8fb4f3e6687da65]: Textual amendment: S. 8D inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 15(2)](https://www.legislation.gov.uk/asp/2019/11/section/15/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

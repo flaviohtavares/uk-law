@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Trade: licensing offences[^key-f7384404c3ecacf9e0a14ab397298905][^key-5488dde9e25e133b6643c5afcd4786b9]
+## 37. Trade: licensing offences[^c-f7384404c3ecacf9e0a14ab397298905][^c-5488dde9e25e133b6643c5afcd4786b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ for the purpose of obtaining a trade licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-f7384404c3ecacf9e0a14ab397298905]: Commencement: Reg. 37 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-f7384404c3ecacf9e0a14ab397298905]: Commencement: Reg. 37 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-5488dde9e25e133b6643c5afcd4786b9]: Commencement: Reg. 37 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5488dde9e25e133b6643c5afcd4786b9]: Commencement: Reg. 37 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

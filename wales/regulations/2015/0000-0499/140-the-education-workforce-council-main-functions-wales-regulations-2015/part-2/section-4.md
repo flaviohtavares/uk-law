@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Eligibility for registration: induction period[^key-f0d94f1361e5292df7f81cd3f278f004]
+## 4. Eligibility for registration: induction period[^c-f0d94f1361e5292df7f81cd3f278f004]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0d94f1361e5292df7f81cd3f278f004]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/140/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-f0d94f1361e5292df7f81cd3f278f004]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/140/regulation/4) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) Subject to paragraphs (3) to (6), these Regulations come into force on 18th April 2016.
 
-(3)[^key-646161f44190fd8b342538ca58251067] Regulation 23(1) to (7) (rules applicable to communication) comes into force—
+(3)[^c-646161f44190fd8b342538ca58251067] Regulation 23(1) to (7) (rules applicable to communication) comes into force—
 
 - (a) for the purposes of regulations 35 (dynamic purchasing systems), 36 (electronic auctions), 37 (electronic catalogues), 52(1) (form and manner of sending notices for publication at EU level) and 54 (electronic availability of procurement documents) on 18th April 2016;
 - (b) for the purpose of regulation 38(6) (centralised purchasing activities and central purchasing bodies) on 18th April 2017; and
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-646161f44190fd8b342538ca58251067]: Textual amendment: Reg. 1(3) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/2)
+[^c-646161f44190fd8b342538ca58251067]: Textual amendment: Reg. 1(3) substituted (18.4.2016) by [The Public Contracts (Scotland) Amendment Regulations 2016 (S.S.I. 2016/47)](https://www.legislation.gov.uk/ssi/2016/47), [regs. 1](https://www.legislation.gov.uk/ssi/2016/47/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/47/regulation/2/2)

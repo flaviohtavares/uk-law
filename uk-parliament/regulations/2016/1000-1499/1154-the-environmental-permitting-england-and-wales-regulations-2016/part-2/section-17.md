@@ -30,7 +30,7 @@ summary: ''
 - (d) of more than one standard facility on more than one site,
 - (e) of more than one flood risk activity on more than one site, or
 - (f) of more than one radioactive substances activity described in paragraph 11(6) of Part 2 of Schedule 23 on more than one site, where all such activities are in respect of the use or potential use of the same premises for underground disposal (within the meaning of paragraph 11(7) of that Schedule).
-- (g)[^key-7797f5d8d0da47be5d64c7354fb11558] of more than one medium combustion plant on more than one site,
+- (g)[^c-7797f5d8d0da47be5d64c7354fb11558] of more than one medium combustion plant on more than one site,
 - (h) of more than one specified generator on more than one site,
 - (i) of more than one Part B installation that contains at least one medium combustion plant on more than one site
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7797f5d8d0da47be5d64c7354fb11558]: Textual amendment: [Reg. 17(2)(g)-(i)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/17/2/g) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/110/regulation/8)
+[^c-7797f5d8d0da47be5d64c7354fb11558]: Textual amendment: [Reg. 17(2)(g)-(i)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/17/2/g) inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/110/regulation/8)

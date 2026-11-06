@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151C. Monetary penalties: appeals[^key-5710120e22d0331aa9ac7bfae2cffcc7]
+## 151C. Monetary penalties: appeals[^c-5710120e22d0331aa9ac7bfae2cffcc7]
 
 *Extent: E+W+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5710120e22d0331aa9ac7bfae2cffcc7]: Textual amendment: Ss. 151A-151D inserted (1.5.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/23/3), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)
+[^c-5710120e22d0331aa9ac7bfae2cffcc7]: Textual amendment: Ss. 151A-151D inserted (1.5.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 23(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/23/3), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)

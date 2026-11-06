@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Revocation of licence[^key-0fb3c277f498847058142f628fa700c4]
+## 25. Revocation of licence[^c-0fb3c277f498847058142f628fa700c4]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0fb3c277f498847058142f628fa700c4]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2014/7/section/25) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(o)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/o)
+[^c-0fb3c277f498847058142f628fa700c4]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2014/7/section/25) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(o)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/o)

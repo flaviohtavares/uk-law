@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The EC Competition Law (Articles 84 and 85) Enforcement (Amendment) Regulations 2002 (revoked)[^key-48663a554a56111d97510164dec3db20]
+The EC Competition Law (Articles 84 and 85) Enforcement (Amendment) Regulations 2002 (revoked)[^c-48663a554a56111d97510164dec3db20]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 4th February 2002
 
-[^key-48663a554a56111d97510164dec3db20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48663a554a56111d97510164dec3db20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-48663a554a56111d97510164dec3db20]
+## 1. Citation, commencement, interpretation and extent[^c-48663a554a56111d97510164dec3db20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the EC Competition Law (Articles 84 and 85) Enforcement Regulations 2001[^key-48663a554a56111d97510164dec3db20]
+## 2. Amendment of the EC Competition Law (Articles 84 and 85) Enforcement Regulations 2001[^c-48663a554a56111d97510164dec3db20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-48663a554a56111d97510164dec3db20]
+## 3.[^c-48663a554a56111d97510164dec3db20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-48663a554a56111d97510164dec3db20]
+## 4.[^c-48663a554a56111d97510164dec3db20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-48663a554a56111d97510164dec3db20]
+## 5.[^c-48663a554a56111d97510164dec3db20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-48663a554a56111d97510164dec3db20]
+## 6.[^c-48663a554a56111d97510164dec3db20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48663a554a56111d97510164dec3db20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48663a554a56111d97510164dec3db20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-48663a554a56111d97510164dec3db20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48663a554a56111d97510164dec3db20]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48663a554a56111d97510164dec3db20]: Textual amendment: Regulations revoked (20.7.2007) by [The EC Competition Law (Articles 84 and 85) Enforcement (Revocation) Regulations 2007 (S.I. 2007/1846)](https://www.legislation.gov.uk/uksi/2007/1846), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1846/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/1846/schedule)
+[^c-48663a554a56111d97510164dec3db20]: Textual amendment: Regulations revoked (20.7.2007) by [The EC Competition Law (Articles 84 and 85) Enforcement (Revocation) Regulations 2007 (S.I. 2007/1846)](https://www.legislation.gov.uk/uksi/2007/1846), [reg. 1](https://www.legislation.gov.uk/uksi/2007/1846/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2007/1846/schedule)

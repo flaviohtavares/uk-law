@@ -24,7 +24,7 @@ Article 4
 
 ### PART 1 — Authorised development
 
-**1.**[^key-822cb1702fcefc2deb55e6d3e3704c59] A nationally significant infrastructure project as defined in sections 14 and 20 of the 2008 Act and associated development within the meaning of section 115 of the 2008 Act comprising the works described below.
+**1.**[^c-822cb1702fcefc2deb55e6d3e3704c59] A nationally significant infrastructure project as defined in sections 14 and 20 of the 2008 Act and associated development within the meaning of section 115 of the 2008 Act comprising the works described below.
 
 **In North Lincolnshire and the East Riding of Yorkshire—**
 
@@ -214,7 +214,7 @@ together with any works required in connection with the above.
 
 ### PART 2 — Further associated development and ancillary works
 
-**2.**[^key-d79461a734fd8540d1445ef545e6e798] Such associated development and ancillary works within the Order limits as may be necessary or expedient for the purposes of or in connection with the construction of the Works in Part 1of this Schedule or any of them (which fall within the scope of the works assessed by the environmental statement) consisting of—
+**2.**[^c-d79461a734fd8540d1445ef545e6e798] Such associated development and ancillary works within the Order limits as may be necessary or expedient for the purposes of or in connection with the construction of the Works in Part 1of this Schedule or any of them (which fall within the scope of the works assessed by the environmental statement) consisting of—
 
 - (a) site preparation works, site clearance (including fencing and vegetation removal), earthworks (including soil stripping and storage) and site levelling, pre-construction drainage;
 - (b) in relation to Work Nos. 1, 2, 3, 4, 5 and 10 pipeline construction works including:
@@ -248,6 +248,6 @@ together with any works required in connection with the above.
 
 ## Annotations
 
-[^key-822cb1702fcefc2deb55e6d3e3704c59]: Commencement: Sch. 1 para. 1 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-822cb1702fcefc2deb55e6d3e3704c59]: Commencement: Sch. 1 para. 1 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
 
-[^key-d79461a734fd8540d1445ef545e6e798]: Commencement: Sch. 1 para. 2 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-d79461a734fd8540d1445ef545e6e798]: Commencement: Sch. 1 para. 2 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

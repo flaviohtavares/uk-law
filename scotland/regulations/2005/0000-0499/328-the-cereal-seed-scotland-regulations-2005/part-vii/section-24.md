@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24. Civil liabilities of sellers of seed[^key-7d323adf121450af9b8961e6a41b9d07]
+## 24. Civil liabilities of sellers of seed[^c-7d323adf121450af9b8961e6a41b9d07]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d323adf121450af9b8961e6a41b9d07]: Commencement: Reg. 24 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)
+[^c-7d323adf121450af9b8961e6a41b9d07]: Commencement: Reg. 24 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 321. Appeal to Court of Session against decisions of sheriff principal[^key-c3a8ebab8aaa05d8e08f3143e9919c51][^key-52e64fee16b543eec36ea7b7188d1d2f][^key-22866aafc5a786354d2290854d1042f0]
+## 321. Appeal to Court of Session against decisions of sheriff principal[^c-c3a8ebab8aaa05d8e08f3143e9919c51][^c-52e64fee16b543eec36ea7b7188d1d2f][^c-22866aafc5a786354d2290854d1042f0]
 
 *Extent: S*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c3a8ebab8aaa05d8e08f3143e9919c51]: Commencement: [S. 321](https://www.legislation.gov.uk/asp/2003/13/section/321) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-c3a8ebab8aaa05d8e08f3143e9919c51]: Commencement: [S. 321](https://www.legislation.gov.uk/asp/2003/13/section/321) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
 
-[^key-52e64fee16b543eec36ea7b7188d1d2f]: Modification: [S. 321](https://www.legislation.gov.uk/asp/2003/13/section/321) applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2005/467/regulation/14) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
+[^c-52e64fee16b543eec36ea7b7188d1d2f]: Modification: [S. 321](https://www.legislation.gov.uk/asp/2003/13/section/321) applied (with modifications) (5.10.2005) by [Mental Health (Cross-border transfer; patients subject to detention requirement or otherwise in hospital) (Scotland) Regulations 2005 (S.S.I. 2005/467)](https://www.legislation.gov.uk/ssi/2005/467), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2005/467/regulation/1/1), [14](https://www.legislation.gov.uk/ssi/2005/467/regulation/14) (with [reg. 2](https://www.legislation.gov.uk/ssi/2005/467/regulation/2))
 
-[^key-22866aafc5a786354d2290854d1042f0]: Modification: [S. 321](https://www.legislation.gov.uk/asp/2003/13/section/321) applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2008/356/regulation/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
+[^c-22866aafc5a786354d2290854d1042f0]: Modification: [S. 321](https://www.legislation.gov.uk/asp/2003/13/section/321) applied (with modifications) (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [9](https://www.legislation.gov.uk/ssi/2008/356/regulation/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))

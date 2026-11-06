@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**94.**[^key-cf35392c89c08bef76660ca591077014] In rule 2(1)—
+**94.**[^c-cf35392c89c08bef76660ca591077014] In rule 2(1)—
 
 - (a) in the definition of “approved court chairman”, omit “family proceedings courts,”;
 - (b) for the definition of “approved family court chairman” substitute—
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cf35392c89c08bef76660ca591077014]: Commencement: Art. 94 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-cf35392c89c08bef76660ca591077014]: Commencement: Art. 94 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00030]: Footnote: [S.I. 2014/842](https://www.legislation.gov.uk/uksi/2014/842).

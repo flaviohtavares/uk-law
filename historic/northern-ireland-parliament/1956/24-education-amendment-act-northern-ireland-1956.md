@@ -30,7 +30,7 @@ Education (Amendment) Act (Northern Ireland) 1956 [^c11541221]
 
 An Act to amend the law with respect to certain educational and other functions relating to children and to make further provision with respect to certain educational endowments; and for purposes connected with the matters aforesaid.
 
-\[20th December 1956\][^key-98b326a31c30b029c3d888a30bbd39bc]
+\[20th December 1956\][^c-98b326a31c30b029c3d888a30bbd39bc]
 
 *S. 1 rep. by 1961 c. 15 (NI); 1962 c. 11 (NI); 1972 NI 12*
 
@@ -71,7 +71,7 @@ An Act to amend the law with respect to certain educational and other functions 
 
 [^c11541221]: Textual amendment: Functions transf., SR 1999/481
 
-[^key-98b326a31c30b029c3d888a30bbd39bc]: Modification: Act: transfer of functions (1.6.2015 for specified purposes) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 4(c)](https://www.legislation.gov.uk/nia/2013/3/section/4/c), [10(2)](https://www.legislation.gov.uk/nia/2013/3/section/10/2) (with [s. 6](https://www.legislation.gov.uk/nia/2013/3/section/6)); [S.R. 2015/256](https://www.legislation.gov.uk/nisr/2015/256), [art. 2](https://www.legislation.gov.uk/nisr/2015/256/article/2)
+[^c-98b326a31c30b029c3d888a30bbd39bc]: Modification: Act: transfer of functions (1.6.2015 for specified purposes) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [ss. 4(c)](https://www.legislation.gov.uk/nia/2013/3/section/4/c), [10(2)](https://www.legislation.gov.uk/nia/2013/3/section/10/2) (with [s. 6](https://www.legislation.gov.uk/nia/2013/3/section/6)); [S.R. 2015/256](https://www.legislation.gov.uk/nisr/2015/256), [art. 2](https://www.legislation.gov.uk/nisr/2015/256/article/2)
 
 [^c11541231]: Textual amendment: Functions transf., SR 1993/493
 

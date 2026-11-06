@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Part 6: amendments to other Acts[^key-317ea4153bcb9c622128bb9a47402e24]
+## 110. Part 6: amendments to other Acts[^c-317ea4153bcb9c622128bb9a47402e24]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 13 makes amendments to other Acts in connection with this Part.
 
 ## Annotations
 
-[^key-317ea4153bcb9c622128bb9a47402e24]: Commencement: S. 110 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-317ea4153bcb9c622128bb9a47402e24]: Commencement: S. 110 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

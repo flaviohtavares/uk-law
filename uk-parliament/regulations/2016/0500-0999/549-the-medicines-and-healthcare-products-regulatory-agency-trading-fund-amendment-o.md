@@ -32,7 +32,7 @@ summary: ''
 
 Government Trading Funds
 
-The Medicines and Healthcare Products Regulatory Agency Trading Fund (Amendment) Order 2016 (revoked)[^key-9af39a526f7b7c579267e0c7bff6091e]
+The Medicines and Healthcare Products Regulatory Agency Trading Fund (Amendment) Order 2016 (revoked)[^c-9af39a526f7b7c579267e0c7bff6091e]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 29th April 2016
 
-[^key-9af39a526f7b7c579267e0c7bff6091e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9af39a526f7b7c579267e0c7bff6091e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-9af39a526f7b7c579267e0c7bff6091e]
+## 1. Citation, commencement and interpretation[^c-9af39a526f7b7c579267e0c7bff6091e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of article 1 of the MHRA Trading Fund Order[^key-9af39a526f7b7c579267e0c7bff6091e]
+## 2. Amendment of article 1 of the MHRA Trading Fund Order[^c-9af39a526f7b7c579267e0c7bff6091e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Schedule 1 to the MHRA Trading Fund Order[^key-9af39a526f7b7c579267e0c7bff6091e]
+## 3. Amendment of Schedule 1 to the MHRA Trading Fund Order[^c-9af39a526f7b7c579267e0c7bff6091e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9af39a526f7b7c579267e0c7bff6091e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9af39a526f7b7c579267e0c7bff6091e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9af39a526f7b7c579267e0c7bff6091e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9af39a526f7b7c579267e0c7bff6091e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9af39a526f7b7c579267e0c7bff6091e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/549) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)
+[^c-9af39a526f7b7c579267e0c7bff6091e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/549) revoked (1.4.2022) by [The Medicines and Healthcare Products Regulatory Agency Trading Fund (Revocation) Order 2022 (S.I. 2022/90)](https://www.legislation.gov.uk/uksi/2022/90), [art. 1](https://www.legislation.gov.uk/uksi/2022/90/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2022/90/schedule)

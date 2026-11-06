@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Work-focused health-related assessment[^key-26806abf88c34eaa59b087ff0acec440]
+## 48. Work-focused health-related assessment[^c-26806abf88c34eaa59b087ff0acec440]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26806abf88c34eaa59b087ff0acec440]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/nisr/2008/280/regulation/48) omitted (12.7.2011) by virtue of [The Employment and Support Allowance (Work-related Activity) Regulations (Northern Ireland) 2011 (S.R. 2011/265)](https://www.legislation.gov.uk/nisr/2011/265), [regs. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/nisr/2011/265/regulation/10/3/b)
+[^c-26806abf88c34eaa59b087ff0acec440]: Textual amendment: [Reg. 48](https://www.legislation.gov.uk/nisr/2008/280/regulation/48) omitted (12.7.2011) by virtue of [The Employment and Support Allowance (Work-related Activity) Regulations (Northern Ireland) 2011 (S.R. 2011/265)](https://www.legislation.gov.uk/nisr/2011/265), [regs. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1), [10(3)(b)](https://www.legislation.gov.uk/nisr/2011/265/regulation/10/3/b)

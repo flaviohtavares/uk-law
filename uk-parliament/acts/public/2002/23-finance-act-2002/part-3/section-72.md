@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Convertible securities etc: loan relationships[^key-3410efddec40865593b3a0bc051f3882]
+## 72. Convertible securities etc: loan relationships[^c-3410efddec40865593b3a0bc051f3882]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3410efddec40865593b3a0bc051f3882]: Textual amendment: S. 72 repealed (with effect in accordance with s. 52(3), Sch. 10 para. 9(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)
+[^c-3410efddec40865593b3a0bc051f3882]: Textual amendment: S. 72 repealed (with effect in accordance with s. 52(3), Sch. 10 para. 9(2)(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(6)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/6)

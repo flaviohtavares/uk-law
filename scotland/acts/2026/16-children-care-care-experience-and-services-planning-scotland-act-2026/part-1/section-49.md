@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Reports on timescales in children’s hearing system[^key-6c2ca256255457f49abb58db0cf8bc74]
+## 49. Reports on timescales in children’s hearing system[^c-6c2ca256255457f49abb58db0cf8bc74]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c2ca256255457f49abb58db0cf8bc74]: Commencement: S. 49 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-6c2ca256255457f49abb58db0cf8bc74]: Commencement: S. 49 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

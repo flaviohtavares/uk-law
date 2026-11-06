@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15A. Loss of assured tenancy status[^key-5b71a4b7922b71549d513841e17dffcc]
+## 15A. Loss of assured tenancy status[^c-5b71a4b7922b71549d513841e17dffcc]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b71a4b7922b71549d513841e17dffcc]: Textual amendment: S. 15A inserted (15.10.2013 for E., 5.11.2013 for W.) by [Prevention of Social Housing Fraud Act 2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3), [ss. 6](https://www.legislation.gov.uk/ukpga/2013/3/section/6), [12](https://www.legislation.gov.uk/ukpga/2013/3/section/12); [S.I. 2013/2622](https://www.legislation.gov.uk/uksi/2013/2622), [art. 2](https://www.legislation.gov.uk/uksi/2013/2622/article/2); [S.I. 2013/2861](https://www.legislation.gov.uk/wsi/2013/2861), [art. 2](https://www.legislation.gov.uk/wsi/2013/2861/article/2)
+[^c-5b71a4b7922b71549d513841e17dffcc]: Textual amendment: S. 15A inserted (15.10.2013 for E., 5.11.2013 for W.) by [Prevention of Social Housing Fraud Act 2013 (c. 3)](https://www.legislation.gov.uk/ukpga/2013/3), [ss. 6](https://www.legislation.gov.uk/ukpga/2013/3/section/6), [12](https://www.legislation.gov.uk/ukpga/2013/3/section/12); [S.I. 2013/2622](https://www.legislation.gov.uk/uksi/2013/2622), [art. 2](https://www.legislation.gov.uk/uksi/2013/2622/article/2); [S.I. 2013/2861](https://www.legislation.gov.uk/wsi/2013/2861), [art. 2](https://www.legislation.gov.uk/wsi/2013/2861/article/2)

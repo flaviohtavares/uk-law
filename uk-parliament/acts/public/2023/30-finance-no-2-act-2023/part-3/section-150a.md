@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150A. Instruments held intragroup: issuer’s accounting treatment to prevail[^key-48bf7a83a45e5b9c7dc99794f7bc41a7]
+## 150A. Instruments held intragroup: issuer’s accounting treatment to prevail[^c-48bf7a83a45e5b9c7dc99794f7bc41a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ the underlying profits of the holder are to be adjusted to what they would be if
 
 ## Annotations
 
-[^key-48bf7a83a45e5b9c7dc99794f7bc41a7]: Textual amendment: S. 150A inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/10), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-48bf7a83a45e5b9c7dc99794f7bc41a7]: Textual amendment: S. 150A inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 10](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/10), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

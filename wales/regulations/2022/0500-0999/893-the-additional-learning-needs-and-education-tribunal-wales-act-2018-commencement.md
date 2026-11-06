@@ -37,7 +37,7 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (4) of the Additional Learning Needs and Education Tribunal (Wales) Act 2018[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-bd49946a7189c2293e8c027a22a06b10]
+## 1. Title and interpretation[^c-bd49946a7189c2293e8c027a22a06b10]
 
 (1) The title of this Order is the Additional Learning Needs and Education Tribunal (Wales) Act 2018 (Commencement No. 10) Order 2022.
 
@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred by section 100(3) and (
 - “**compulsory school age**” (“***oedran ysgol gorfodol***”) has the same meaning as in section 8[^f00002] of the Education Act 1996[^f00003];
 - “**young person**” (“***person ifanc***”) means a person who is over compulsory school age on 1 September 2022.
 
-## 2. Commencement[^key-89dd3a69c3ed50e1286bf35d0830c8a2]
+## 2. Commencement[^c-89dd3a69c3ed50e1286bf35d0830c8a2]
 
 The following provisions of the Act come into force on 1 September 2025 in relation to a young person—
 
@@ -93,9 +93,9 @@ The following provisions of the Act come into force on 1 September 2025 in relat
   - (xxv) paragraph 24(1) for the purposes of the provisions in sub-paragraph (xxvi);
   - (xxvi) paragraph 24(3) and (6) (a).
 
-**3.**[^key-32af3ff35a84048f6fbfc0ebc0e455e5] Sections 40 to 44 of the Act come into force on 1 September 2022 in relation to a young person.
+**3.**[^c-32af3ff35a84048f6fbfc0ebc0e455e5] Sections 40 to 44 of the Act come into force on 1 September 2022 in relation to a young person.
 
-**4.**[^key-c028bcf984c5c0caee91c4f21a74ba15] The provisions of the Act listed in paragraphs (a) to (o) of article 2 come into force on 1 September 2022 in relation to a young person for whom an individual development plan—
+**4.**[^c-c028bcf984c5c0caee91c4f21a74ba15] The provisions of the Act listed in paragraphs (a) to (o) of article 2 come into force on 1 September 2022 in relation to a young person for whom an individual development plan—
 
 - (a) is being prepared under section 40 or kept under section 42 of the Act; or
 - (b) is being prepared or maintained under section 14 of the Act as a result of regulation 23 of the Additional Learning Needs (Wales) Regulations 2021[^f00005].
@@ -217,19 +217,19 @@ The following provisions of the Act have been brought into force by Commencement
 
 [^f00001]: Footnote: [2018 anaw 2](https://www.legislation.gov.uk/anaw/2018/2).
 
-[^key-bd49946a7189c2293e8c027a22a06b10]: Commencement: Art. 1 in force at made date
+[^c-bd49946a7189c2293e8c027a22a06b10]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: Section 8 was amended by section 52 of the Education Act [1997 (c. 44)](https://www.legislation.gov.uk/ukpga/1997/44).
 
 [^f00003]: Footnote: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-89dd3a69c3ed50e1286bf35d0830c8a2]: Commencement: Art. 2 in force at made date
+[^c-89dd3a69c3ed50e1286bf35d0830c8a2]: Commencement: Art. 2 in force at made date
 
 [^f00004]: Footnote: Paragraph 4(7) (“the provision”) has been repealed by paragraph 75 of Schedule 2 to the Curriculum and Assessment (Wales) Act [2021 (asc 4)](https://www.legislation.gov.uk/asc/2021/4) (“**the 2021 Act**”). However, the provision has been saved by the Curriculum and Assessment (Wales) Act 2021 (Transitional and Saving Provision) Regulations 2022 ([S.I. 2022/111 (W. 39)](https://www.legislation.gov.uk/wsi/2022/111)) in relation to a child or pupil provided with education under the old curriculum (i.e. in relation to whom the 2021 Act has not been commenced). The effect of that saving provision is that paragraph 4(7) of the Schedule to the Act remains in force until such time as the child or pupil is provided with education under the 2021 Act.
 
-[^key-32af3ff35a84048f6fbfc0ebc0e455e5]: Commencement: Art. 3 in force at made date
+[^c-32af3ff35a84048f6fbfc0ebc0e455e5]: Commencement: Art. 3 in force at made date
 
-[^key-c028bcf984c5c0caee91c4f21a74ba15]: Commencement: Art. 4 in force at made date
+[^c-c028bcf984c5c0caee91c4f21a74ba15]: Commencement: Art. 4 in force at made date
 
 [^f00005]: Footnote: [S.I. 2021/401 (W. 130)](https://www.legislation.gov.uk/wsi/2021/401).
 

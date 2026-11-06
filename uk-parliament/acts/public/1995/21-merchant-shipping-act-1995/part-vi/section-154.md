@@ -16,24 +16,24 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Liability for oil pollution in other cases.[^c14527101][^key-a6e1bec66a550315097e7209a2e299de]
+## 154. Liability for oil pollution in other cases.[^c14527101][^c-a6e1bec66a550315097e7209a2e299de]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to subsection (2A),[^key-2e9545a93ebc93edc314d90960a8c49d] where, as a result of any occurrence, any oil is discharged or escapes from a ship [^key-bc66ecf991aa1db577259ae17dbcee2d]..., then (except as otherwise provided by this Chapter) the registered owner[^key-db3fbfb65961241d1b1759c6ae624b54] of the ship shall be liable—
+(1) Subject to subsection (2A),[^c-2e9545a93ebc93edc314d90960a8c49d] where, as a result of any occurrence, any oil is discharged or escapes from a ship [^c-bc66ecf991aa1db577259ae17dbcee2d]..., then (except as otherwise provided by this Chapter) the registered owner[^c-db3fbfb65961241d1b1759c6ae624b54] of the ship shall be liable—
 
 - (a) for any damage caused outside the ship in the territory of the United Kingdom by contamination resulting from the discharge or escape; and
 - (b) for the cost of any measures reasonably taken after the discharge or escape for the purpose of preventing or minimising any damage so caused in the territory of the United Kingdom by contamination resulting from the discharge or escape; and
 - (c) for any damage so caused in the territory of the United Kingdom by any measures so taken.
 
-(2) Subject to subsection (2A), where, as a result of any occurrence, there arises a grave and imminent threat of damage being caused outside a ship [^key-bc66ecf991aa1db577259ae17dbcee2d]... by the contamination which might result if there were a discharge or escape of oil from the ship, then (except as otherwise provided by this Chapter) the registered owner of the ship shall be liable—
+(2) Subject to subsection (2A), where, as a result of any occurrence, there arises a grave and imminent threat of damage being caused outside a ship [^c-bc66ecf991aa1db577259ae17dbcee2d]... by the contamination which might result if there were a discharge or escape of oil from the ship, then (except as otherwise provided by this Chapter) the registered owner of the ship shall be liable—
 
 - (a) for the cost of any measures reasonably taken for the purpose of preventing or minimising any such damage in the territory of the United Kingdom; and
 - (b) for any damage caused outside the ship in the territory of the United Kingdom by any measures so taken;
 
-[^key-6ecca9bbe4e455b4aa0e04e39889a3a3]...
+[^c-6ecca9bbe4e455b4aa0e04e39889a3a3]...
 
-(2A)[^key-234b3fba1af39daa31de399a767f2cbb] No liability shall be incurred under this section by reason of—
+(2A)[^c-234b3fba1af39daa31de399a767f2cbb] No liability shall be incurred under this section by reason of—
 
 - (a) a discharge or escape of oil from a ship to which section 153 applies or a relevant threat of contamination falling within subsection (2) of that section;
 - (b) a discharge or escape of bunker oil falling within section 153A(1) or a relevant threat of contamination falling within section 153A(2).
@@ -52,7 +52,7 @@ each of the registered owners shall be liable, jointly with the other or others,
 
 (4) The [^c14527111]Law Reform (Contributory Negligence) Act 1945 and, in Northern Ireland, the [^c14527121]Law Reform (Miscellaneous Provisions) Act (Northern Ireland) 1948 shall apply in relation to any damage or cost for which a person is liable under this section, but which is not due to his fault, as if it were due to his fault.
 
-(5) In this section (apart from subsection (2A))[^key-2e3104c8880e0a6d900d5eb6816fd547] “**ship**” includes a vessel which is not seagoing.
+(5) In this section (apart from subsection (2A))[^c-2e3104c8880e0a6d900d5eb6816fd547] “**ship**” includes a vessel which is not seagoing.
 
 ## Annotations
 
@@ -86,20 +86,20 @@ each of the registered owners shall be liable, jointly with the other or others,
 
     S. 154 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-a6e1bec66a550315097e7209a2e299de]: Textual amendment: Words in [s. 154 heading](https://www.legislation.gov.uk/ukpga/1995/21/part/VI/chapter/III/crossheading/liability) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-a6e1bec66a550315097e7209a2e299de]: Textual amendment: Words in [s. 154 heading](https://www.legislation.gov.uk/ukpga/1995/21/part/VI/chapter/III/crossheading/liability) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-2e9545a93ebc93edc314d90960a8c49d]: Textual amendment: Words in [s. 154(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/1)[(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-2e9545a93ebc93edc314d90960a8c49d]: Textual amendment: Words in [s. 154(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/1)[(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-bc66ecf991aa1db577259ae17dbcee2d]: Textual amendment: Words in [s. 154(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/1)[(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2) omitted (21.11.2008) by virtue of [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-bc66ecf991aa1db577259ae17dbcee2d]: Textual amendment: Words in [s. 154(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/1)[(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2) omitted (21.11.2008) by virtue of [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/4) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-db3fbfb65961241d1b1759c6ae624b54]: Textual amendment: Words in [s. 154](https://www.legislation.gov.uk/ukpga/1995/21/section/154) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-db3fbfb65961241d1b1759c6ae624b54]: Textual amendment: Words in [s. 154](https://www.legislation.gov.uk/ukpga/1995/21/section/154) substituted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/3) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-6ecca9bbe4e455b4aa0e04e39889a3a3]: Textual amendment: Words in [s. 154(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2) omitted (21.11.2008) by virtue of [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/5) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-6ecca9bbe4e455b4aa0e04e39889a3a3]: Textual amendment: Words in [s. 154(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2) omitted (21.11.2008) by virtue of [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/5) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-234b3fba1af39daa31de399a767f2cbb]: Textual amendment: [S. 154(2A)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2B) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/6) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-234b3fba1af39daa31de399a767f2cbb]: Textual amendment: [S. 154(2A)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/2B) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/6) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
 [^c14527111]: Marginal citation: [1945 c. 28](https://www.legislation.gov.uk/ukpga/1945/28).
 
 [^c14527121]: Marginal citation: [1948 c. 23 (N.I.)](https://www.legislation.gov.uk/apni/1948/23).
 
-[^key-2e3104c8880e0a6d900d5eb6816fd547]: Textual amendment: Words in [s. 154(5)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/5) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(7)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/7) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-2e3104c8880e0a6d900d5eb6816fd547]: Textual amendment: Words in [s. 154(5)](https://www.legislation.gov.uk/ukpga/1995/21/section/154/5) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [6(7)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/6/7) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))

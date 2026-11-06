@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Other permitted disclosures[^key-e5882489d85e1824db6bb4ee5e9816f8]
+## 87. Other permitted disclosures[^c-e5882489d85e1824db6bb4ee5e9816f8]
 
 *Extent: E+W+S*
 
@@ -44,7 +44,7 @@ if the disclosure appears to the Regulator to be desirable or expedient in the i
   or any corresponding enactment in force in Northern Ireland, or any proceedings for breach of trust in relation to an occupational pension scheme,
 - (c) with a view to the institution of, or otherwise for the purposes of, proceedings under—
   - (i) section 7 or 8 of the Company Directors Disqualification Act 1986 (c. 46), or
-  - (ii) Article 10 or 11 [^key-76d881ba0896799a6c55b0568f73b9a3]... of the Company Directors Disqualification (Northern Ireland) Order 2002 (S.I. 2002/3150 (N.I. 4)),
+  - (ii) Article 10 or 11 [^c-76d881ba0896799a6c55b0568f73b9a3]... of the Company Directors Disqualification (Northern Ireland) Order 2002 (S.I. 2002/3150 (N.I. 4)),
 - (d) in connection with any proceedings under—
   - (i) the Insolvency Act 1986 (c. 45), or
   - (ii) the Insolvency (Northern Ireland) Order 1989 (S.I. 1989/2405 (N.I. 19)),
@@ -53,7 +53,7 @@ if the disclosure appears to the Regulator to be desirable or expedient in the i
 - (e) with a view to the institution of, or otherwise for the purposes of, any disciplinary proceedings relating to the exercise of his professional duties by a solicitor, an actuary, an accountant or an insolvency practitioner,
 - (f) with a view to the institution of, or otherwise for the purposes of, any disciplinary proceedings relating to the exercise by a public servant of his functions,
 - (g) for the purpose of enabling or assisting an authority in a country outside the United Kingdom to exercise functions corresponding to those of the Regulator under this Act, the Welfare Reform and Pensions Act 1999 (c. 30), the Pensions Act 1995 (c. 26) or the Pension Schemes Act 1993 (c. 48), or
-- (h) in pursuance of assimilated[^key-ff4a60266f32287777f9343661ba8ac3] law.
+- (h) in pursuance of assimilated[^c-ff4a60266f32287777f9343661ba8ac3] law.
 
 (3) In subsection (2)(f), “**public servant**” means an officer or servant of the Crown or of any prescribed authority.
 
@@ -84,8 +84,8 @@ if the disclosure appears to the Regulator to be desirable or expedient in the i
 
 ## Annotations
 
-[^key-e5882489d85e1824db6bb4ee5e9816f8]: Commencement: S. 87 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-e5882489d85e1824db6bb4ee5e9816f8]: Commencement: S. 87 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-76d881ba0896799a6c55b0568f73b9a3]: Textual amendment: Words in s. 87(2)(c)(ii) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 243(6)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/243/6) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-76d881ba0896799a6c55b0568f73b9a3]: Textual amendment: Words in s. 87(2)(c)(ii) omitted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 243(6)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/243/6) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-ff4a60266f32287777f9343661ba8ac3]: Textual amendment: Word in [s. 87(2)(h)](https://www.legislation.gov.uk/ukpga/2004/35/section/87/2/h) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 56(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/56/2/a)
+[^c-ff4a60266f32287777f9343661ba8ac3]: Textual amendment: Word in [s. 87(2)(h)](https://www.legislation.gov.uk/ukpga/2004/35/section/87/2/h) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 56(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/56/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Breach of terms of arrangements: notices and penalties[^key-56b8d8182b7ffcc3dbed6c62ae1591b7]
+## 28. Breach of terms of arrangements: notices and penalties[^c-56b8d8182b7ffcc3dbed6c62ae1591b7]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ In Part 7 of the National Health Service Act 2006, before Chapter 6 (disqualific
 
 ## Annotations
 
-[^key-56b8d8182b7ffcc3dbed6c62ae1591b7]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2009/21/section/28) in force at 1.9.2012 by [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/c)
+[^c-56b8d8182b7ffcc3dbed6c62ae1591b7]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2009/21/section/28) in force at 1.9.2012 by [S.I. 2012/1902](https://www.legislation.gov.uk/uksi/2012/1902), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/1902/article/2/c)

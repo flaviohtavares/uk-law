@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Theft, loss etc. of personal licence[^key-71d19f7cf835c3bf2a2bc51b87922c49]
+## 92. Theft, loss etc. of personal licence[^c-71d19f7cf835c3bf2a2bc51b87922c49]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ the Licensing Board must issue to the applicant a replacement personal licence.
 - (a) in the form in which it existed immediately before it was lost, stolen, damaged or destroyed, and
 - (b) certified by the Board to be a true copy.
 
-(3A)[^key-f2ea4b5a563c36c2bf61f9d363763467] A replacement personal licence is void if at the time it is issued the personal licence in respect of which it was issued is not lost, stolen, damaged or destroyed.
+(3A)[^c-f2ea4b5a563c36c2bf61f9d363763467] A replacement personal licence is void if at the time it is issued the personal licence in respect of which it was issued is not lost, stolen, damaged or destroyed.
 
 (3B) Where a replacement personal licence is issued in respect of a personal licence which has been lost or stolen, the replacement personal licence becomes void if the personal licence is subsequently found or recovered.
 
@@ -50,6 +50,6 @@ the Licensing Board must issue to the applicant a replacement personal licence.
 
 ## Annotations
 
-[^key-71d19f7cf835c3bf2a2bc51b87922c49]: Commencement: S. 92 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-71d19f7cf835c3bf2a2bc51b87922c49]: Commencement: S. 92 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-f2ea4b5a563c36c2bf61f9d363763467]: Textual amendment: S. 92(3A)-(3F) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 192(4)](https://www.legislation.gov.uk/asp/2010/13/section/192/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-f2ea4b5a563c36c2bf61f9d363763467]: Textual amendment: S. 92(3A)-(3F) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 192(4)](https://www.legislation.gov.uk/asp/2010/13/section/192/4), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

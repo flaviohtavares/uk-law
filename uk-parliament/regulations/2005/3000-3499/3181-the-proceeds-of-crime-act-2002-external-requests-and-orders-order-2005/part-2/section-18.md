@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Action on receipt of external order in connection with criminal convictions[^key-2e141136915dd84bde115f9fc1b0a7c2]
+## 18. Action on receipt of external order in connection with criminal convictions[^c-2e141136915dd84bde115f9fc1b0a7c2]
 
 *Extent: E+W+S+N.I.*
 
-(1) Except where paragraph (2) applies, the Secretary of State may refer an external order arising from a criminal conviction in the country from which the order was sent and concerning relevant property in England or Wales to the Director of Public Prosecutions to process it.[^key-2b2b1af756da4f14b36584b5bc605b20]
+(1) Except where paragraph (2) applies, the Secretary of State may refer an external order arising from a criminal conviction in the country from which the order was sent and concerning relevant property in England or Wales to the Director of Public Prosecutions to process it.[^c-2b2b1af756da4f14b36584b5bc605b20]
 
 (2) This paragraph applies where it appears to the Secretary of State that—
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e141136915dd84bde115f9fc1b0a7c2]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2005/3181/article/18) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-2e141136915dd84bde115f9fc1b0a7c2]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2005/3181/article/18) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-2b2b1af756da4f14b36584b5bc605b20]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/18/1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/16)
+[^c-2b2b1af756da4f14b36584b5bc605b20]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/18/1) substituted (27.3.2014) by [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2014/834/schedule/3/paragraph/16)

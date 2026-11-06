@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 218B. Performance improvement plans[^key-7b756bb637ae79ccc9f245ffa189b8d7]
+## 218B. Performance improvement plans[^c-7b756bb637ae79ccc9f245ffa189b8d7]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b756bb637ae79ccc9f245ffa189b8d7]: Textual amendment: [Ss. 218A-218D](https://www.legislation.gov.uk/ukpga/2008/17/section/218A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/31/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/r)
+[^c-7b756bb637ae79ccc9f245ffa189b8d7]: Textual amendment: [Ss. 218A-218D](https://www.legislation.gov.uk/ukpga/2008/17/section/218A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/31/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/r)

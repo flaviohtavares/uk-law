@@ -84,7 +84,7 @@ Psittacidae
 
 *Psephotus dissimilis*
 
-*Reptilia[^key-2d336b0ffa567e754d17110dd1795889]*
+*Reptilia[^c-2d336b0ffa567e754d17110dd1795889]*
 
 TESTUDINES
 
@@ -102,4 +102,4 @@ Testudinidae
 
 [^c000002]: Textual amendment: Substituted by [Commission Regulation (EU) 2015/870 of 5 June 2015 amending, as regards the trade in species of wild fauna and flora, Regulation (EC) No 865/2006 laying down detailed rules concerning the implementation of Council Regulation (EC) No 338/97](https://www.legislation.gov.uk/eur/2015/870).
 
-[^key-2d336b0ffa567e754d17110dd1795889]: Textual amendment: Words in Annex 10 inserted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(16)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/16)
+[^c-2d336b0ffa567e754d17110dd1795889]: Textual amendment: Words in Annex 10 inserted (23.6.2026) by [The Control of Trade in Endangered Species (Amendment and Revocation) Regulations 2026 (S.I. 2026/627)](https://www.legislation.gov.uk/uksi/2026/627), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/627/regulation/1/2), [3(16)](https://www.legislation.gov.uk/uksi/2026/627/regulation/3/16)

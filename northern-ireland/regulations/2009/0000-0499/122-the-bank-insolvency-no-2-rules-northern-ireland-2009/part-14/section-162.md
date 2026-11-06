@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 162. Control by bank liquidation committee[^key-ebadaf589f0acb83a0825160f991b5f2]
+## 162. Control by bank liquidation committee[^c-ebadaf589f0acb83a0825160f991b5f2]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.213 of the 1991 Rules.
 
 ## Annotations
 
-[^key-ebadaf589f0acb83a0825160f991b5f2]: Commencement: Rule 162 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-ebadaf589f0acb83a0825160f991b5f2]: Commencement: Rule 162 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

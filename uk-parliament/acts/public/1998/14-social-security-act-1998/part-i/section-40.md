@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 40. Child support: revision of decisions[^key-554e5bd6a140aae9e49156229bcd0c7c]
+## 40. Child support: revision of decisions[^c-554e5bd6a140aae9e49156229bcd0c7c]
 
 For section 16 of the Child Support Act there shall be substituted the following section—
 
@@ -39,4 +39,4 @@ For section 16 of the Child Support Act there shall be substituted the following
 
 ## Annotations
 
-[^key-554e5bd6a140aae9e49156229bcd0c7c]: Commencement: S. 40 in force at 16.11.1998 for specified purposes and 7.12.1998 in so far as not already in force by [S.I. 1998/2780](https://www.legislation.gov.uk/uksi/1998/2780), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2780/article/2/a)[(c)](https://www.legislation.gov.uk/uksi/1998/2780/article/2/c) (with [art. 3(1)-(4)](https://www.legislation.gov.uk/uksi/1998/2780/article/3) (as amended (2.4.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/I)))
+[^c-554e5bd6a140aae9e49156229bcd0c7c]: Commencement: S. 40 in force at 16.11.1998 for specified purposes and 7.12.1998 in so far as not already in force by [S.I. 1998/2780](https://www.legislation.gov.uk/uksi/1998/2780), [art. 2(a)](https://www.legislation.gov.uk/uksi/1998/2780/article/2/a)[(c)](https://www.legislation.gov.uk/uksi/1998/2780/article/2/c) (with [art. 3(1)-(4)](https://www.legislation.gov.uk/uksi/1998/2780/article/3) (as amended (2.4.2001) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/I)))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Provision of services and facilities by the Board[^key-013c6da754c210287b8ac17229e4bac7]
+## 59. Provision of services and facilities by the Board[^c-013c6da754c210287b8ac17229e4bac7]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-013c6da754c210287b8ac17229e4bac7]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2007/18/section/59) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
+[^c-013c6da754c210287b8ac17229e4bac7]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2007/18/section/59) in force at 1.4.2008 by [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)

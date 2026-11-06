@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Notice to officers charged with execution of writs or other process, etc[^key-ce45008bc3e5f24f5a5e393217eaa388]
+## 9. Notice to officers charged with execution of writs or other process, etc[^c-ce45008bc3e5f24f5a5e393217eaa388]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The applicant shall as soon as reasonably practicable after filing the applicati
 
 ## Annotations
 
-[^key-ce45008bc3e5f24f5a5e393217eaa388]: Commencement: Rule 9 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-ce45008bc3e5f24f5a5e393217eaa388]: Commencement: Rule 9 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

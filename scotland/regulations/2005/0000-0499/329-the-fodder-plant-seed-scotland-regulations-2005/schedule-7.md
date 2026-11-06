@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 7 — LIMITS OF VARIATION[^key-2cb588ee6c21c00d4d8f48d7ead6cde9]
+## SCHEDULE 7 — LIMITS OF VARIATION[^c-2cb588ee6c21c00d4d8f48d7ead6cde9]
 
 *Extent: S*
 
 Regulation 24(2)
 
-### GERMINATION[^key-2cb588ee6c21c00d4d8f48d7ead6cde9]
+### GERMINATION[^c-2cb588ee6c21c00d4d8f48d7ead6cde9]
 
 | *Minimum percentage of germination (expressed as an integer)* | *Limit of variation Per cent* |
 | --- | --- |
@@ -36,7 +36,7 @@ Regulation 24(2)
 | 69–75 | 9 |
 | 65–68 | 10 |
 
-### ANALYTICAL PURITY – (a) grasses[^key-2cb588ee6c21c00d4d8f48d7ead6cde9]
+### ANALYTICAL PURITY – (a) grasses[^c-2cb588ee6c21c00d4d8f48d7ead6cde9]
 
 | *Minimum percentage of analytical purity (expressed to one decimal point)* | *Limit of variation Per cent* |
 | --- | --- |
@@ -64,7 +64,7 @@ Regulation 24(2)
 | 82.0–83.9 | 2.6 |
 | 80.0–81.9 | 2.8 |
 
-### ANALYTICAL PURITY – (b) legumes and crucifers[^key-2cb588ee6c21c00d4d8f48d7ead6cde9]
+### ANALYTICAL PURITY – (b) legumes and crucifers[^c-2cb588ee6c21c00d4d8f48d7ead6cde9]
 
 | *Minimum percentage of analytical purity (expressed to one decimal point)* | *Limit of variation Per cent* |
 | --- | --- |
@@ -86,7 +86,7 @@ Regulation 24(2)
 | 91.0–91.9 | 1.7 |
 | 90.0–90.9 | 1.8 |
 
-### CONTENT OF SEEDS OF OTHER SPECIES IN GRASSES[^key-2cb588ee6c21c00d4d8f48d7ead6cde9]
+### CONTENT OF SEEDS OF OTHER SPECIES IN GRASSES[^c-2cb588ee6c21c00d4d8f48d7ead6cde9]
 
 | *Maximum percentage of seeds of other species (expressed to one decimal point)* | *Limit of variation Per cent* |
 | --- | --- |
@@ -106,7 +106,7 @@ Regulation 24(2)
 | 4.0–4.9 | 1.5 |
 | 5.0 | 1.6 |
 
-### CONTENT OF SEEDS OF OTHER SPECIES OR VARIETIES IN LEGUMES AND CRUCIFERS[^key-2cb588ee6c21c00d4d8f48d7ead6cde9]
+### CONTENT OF SEEDS OF OTHER SPECIES OR VARIETIES IN LEGUMES AND CRUCIFERS[^c-2cb588ee6c21c00d4d8f48d7ead6cde9]
 
 | *Maximum percentage of seeds of other species (expressed to one decimal point)* | *Limit of variation Per cent* |
 | --- | --- |
@@ -130,7 +130,7 @@ Regulation 24(2)
 | 9.0–9.9 | 1.8 |
 | 10.0 | 1.9 |
 
-### NUMBER OF SEEDS OF OTHER SPECIES[^key-2cb588ee6c21c00d4d8f48d7ead6cde9]
+### NUMBER OF SEEDS OF OTHER SPECIES[^c-2cb588ee6c21c00d4d8f48d7ead6cde9]
 
 | *Maximum number of seeds of other species* | *Limit of variation Number* |
 | --- | --- |
@@ -161,4 +161,4 @@ Regulation 24(2)
 
 ## Annotations
 
-[^key-2cb588ee6c21c00d4d8f48d7ead6cde9]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2005/329/schedule/7) in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-2cb588ee6c21c00d4d8f48d7ead6cde9]: Commencement: [Sch. 7](https://www.legislation.gov.uk/ssi/2005/329/schedule/7) in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)

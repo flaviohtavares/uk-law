@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Chief Constable[^key-e9ab6c875bfec0b93b2c91117d588bf0]
+## 21. Chief Constable[^c-e9ab6c875bfec0b93b2c91117d588bf0]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9ab6c875bfec0b93b2c91117d588bf0]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2003/20/section/21) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(d)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/d)
+[^c-e9ab6c875bfec0b93b2c91117d588bf0]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2003/20/section/21) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(d)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/d)

@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 191(1)(b) to (e) and 287(2) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-9e11d1d89aee2652ba247e5448b71800]
+## 1. Citation, commencement and interpretation[^c-9e11d1d89aee2652ba247e5448b71800]
 
 (1) This Order may be cited as the Pension Protection Fund (PPF Ombudsman) Order (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
@@ -53,11 +53,11 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (3) In this Order any reference to a numbered Article is a reference to the Article of the Pensions Order bearing that number.
 
-## 2. Staff and facilities of the PPF Ombudsman[^key-25c8bff6fe094121a154c375569422f8]
+## 2. Staff and facilities of the PPF Ombudsman[^c-25c8bff6fe094121a154c375569422f8]
 
 For the purposes of the Pensions Order, the PPF Ombudsman shall have the staff appointed, and facilities (including additional staff) made available to him, under Articles 3 and 4 respectively of the 2005 Order.
 
-## 3. Delegation of functions[^key-c7788c1a7af9dc756e0cb98f88da46d1]
+## 3. Delegation of functions[^c-c7788c1a7af9dc756e0cb98f88da46d1]
 
 (1) Except as provided by paragraph (2), any function of the PPF Ombudsman may be delegated to and performed by –
 
@@ -72,11 +72,11 @@ For the purposes of the Pensions Order, the PPF Ombudsman shall have the staff a
 - (d) the decision to publish a report under Article 195 (publishing reports etc.);
 - (e) the certification of an offence under Article 197(2) (obstruction etc. of the PPF Ombudsman).
 
-## 4. Power to obtain information[^key-6c99550260016de87e1d248acfaa2e2d]
+## 4. Power to obtain information[^c-6c99550260016de87e1d248acfaa2e2d]
 
 In conducting an investigation in accordance with regulations made under Article 192 or 193 the PPF Ombudsman may require any person who in his opinion is able to furnish information or produce documents necessary for the purposes of the investigation to furnish any such information or produce any such documents.
 
-## 5. Restrictions on the disclosure of information[^key-e18071569ecd1496d8b598c6934a57f8]
+## 5. Restrictions on the disclosure of information[^c-e18071569ecd1496d8b598c6934a57f8]
 
 (1) The PPF Ombudsman must not disclose any information which he obtains for the purposes of an investigation under Article 192 or 193 unless –
 
@@ -89,7 +89,7 @@ In conducting an investigation in accordance with regulations made under Article
 - (b) the Regulator;
 - (c) the Pensions Compensation Board[^f00004];
 - (d) the Pensions Ombudsman[^f00005];
-- (e)[^key-b34023e27c1976cc2ba602b09e9233b2] the Financial Conduct Authority;
+- (e)[^c-b34023e27c1976cc2ba602b09e9233b2] the Financial Conduct Authority;
 - (ea) the Prudential Regulation Authority;
 - (f) any government department;
 - (g) a person appointed under –
@@ -100,7 +100,7 @@ In conducting an investigation in accordance with regulations made under Article
   to conduct an investigation;
 - (h) an inspector appointed under Part XV of the Companies Order or under Part XIV of the Companies Act 1985[^f00007];
 - (i) a body designated under section 326(1) of the Financial Services Act (designation of professional bodies), and
-- (j)[^key-ef08eb2ab5d5b672efb8dbb449c70ed5] a recognised investment exchange, a recognised clearing house, [^key-76adfb362833994e0cbee050c428de0d]... [^key-76adfb362833994e0cbee050c428de0d]...[^key-21114a394223411a3230bcfe44808a58]third country central counterparty, recognised CSD[^key-76adfb362833994e0cbee050c428de0d]... or third country CSD (as defined by section 285 of that Act); and
+- (j)[^c-ef08eb2ab5d5b672efb8dbb449c70ed5] a recognised investment exchange, a recognised clearing house, [^c-76adfb362833994e0cbee050c428de0d]... [^c-76adfb362833994e0cbee050c428de0d]...[^c-21114a394223411a3230bcfe44808a58]third country central counterparty, recognised CSD[^c-76adfb362833994e0cbee050c428de0d]... or third country CSD (as defined by section 285 of that Act); and
 
 Sealed with the Official Seal of the Department for Social Development on 18th March 2005.
 
@@ -130,30 +130,30 @@ The Pensions (2005 Order) (Commencement No. 1 and Consequential and Transitional
 
 [^f00001]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-9e11d1d89aee2652ba247e5448b71800]: Commencement: Art. 1 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
+[^c-9e11d1d89aee2652ba247e5448b71800]: Commencement: Art. 1 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
 
 [^f00002]: Footnote: S.I. [2005/824](https://www.legislation.gov.uk/uksi/2005/824)
 
 [^f00003]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8)
 
-[^key-25c8bff6fe094121a154c375569422f8]: Commencement: Art. 2 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
+[^c-25c8bff6fe094121a154c375569422f8]: Commencement: Art. 2 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
 
-[^key-c7788c1a7af9dc756e0cb98f88da46d1]: Commencement: Art. 3 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
+[^c-c7788c1a7af9dc756e0cb98f88da46d1]: Commencement: Art. 3 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
 
-[^key-6c99550260016de87e1d248acfaa2e2d]: Commencement: Art. 4 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
+[^c-6c99550260016de87e1d248acfaa2e2d]: Commencement: Art. 4 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
 
-[^key-e18071569ecd1496d8b598c6934a57f8]: Commencement: Art. 5 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
+[^c-e18071569ecd1496d8b598c6934a57f8]: Commencement: Art. 5 in operation at 6.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/135/article/1/1)
 
 [^f00004]: Footnote: *See* section 78(1) of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26) which establishes the Pensions Compensation Board
 
 [^f00005]: Footnote: *See* section 145 of the Pension Schemes Act [1993 (c. 48)](https://www.legislation.gov.uk/ukpga/1993/48) which establishes the Pensions Ombudsman
 
-[^key-b34023e27c1976cc2ba602b09e9233b2]: Textual amendment: [Art. 5(2)(e)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/e)[(ea)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/ea) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 99](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/99)
+[^c-b34023e27c1976cc2ba602b09e9233b2]: Textual amendment: [Art. 5(2)(e)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/e)[(ea)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/ea) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 99](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/99)
 
 [^f00007]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6)
 
-[^key-ef08eb2ab5d5b672efb8dbb449c70ed5]: Textual amendment: [Art. 5(2)(j)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/j) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [37(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/37/2) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
+[^c-ef08eb2ab5d5b672efb8dbb449c70ed5]: Textual amendment: [Art. 5(2)(j)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/j) substituted (1.4.2013) by [The Financial Services and Markets Act 2000 (Over the Counter Derivatives, Central Counterparties and Trade Repositories) Regulations 2013 (S.I. 2013/504)](https://www.legislation.gov.uk/uksi/2013/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/1/2), [37(2)](https://www.legislation.gov.uk/uksi/2013/504/regulation/37/2) (with [regs. 52-58](https://www.legislation.gov.uk/uksi/2013/504/regulation/52))
 
-[^key-76adfb362833994e0cbee050c428de0d]: Textual amendment: Words in [art. 5(2)(j)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/j) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76adfb362833994e0cbee050c428de0d]: Textual amendment: Words in [art. 5(2)(j)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/j) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [18(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/18/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-21114a394223411a3230bcfe44808a58]: Textual amendment: Words in [art. 5(2)(j)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/j) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/27) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-21114a394223411a3230bcfe44808a58]: Textual amendment: Words in [art. 5(2)(j)](https://www.legislation.gov.uk/nisr/2005/135/article/5/2/j) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 27](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/27) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))

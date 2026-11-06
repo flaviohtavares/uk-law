@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Zone coordinators[^key-e0a2a8fdb63199389a79edfb75f045d2]
+## 228. Zone coordinators[^c-e0a2a8fdb63199389a79edfb75f045d2]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0a2a8fdb63199389a79edfb75f045d2]: Commencement: S. 228 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-e0a2a8fdb63199389a79edfb75f045d2]: Commencement: S. 228 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

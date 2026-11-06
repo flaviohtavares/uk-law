@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Assisting a prisoner to escape[^key-c027c67e6edcf72cbfa3d209558e848f]
+## 21. Assisting a prisoner to escape[^c-c027c67e6edcf72cbfa3d209558e848f]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ For section 39 of the Prison Act 1952 (c. 52) there is substituted—
 
 ## Annotations
 
-[^key-c027c67e6edcf72cbfa3d209558e848f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2007/21/section/21) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(g)](https://www.legislation.gov.uk/uksi/2008/504/article/3/g)
+[^c-c027c67e6edcf72cbfa3d209558e848f]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2007/21/section/21) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(g)](https://www.legislation.gov.uk/uksi/2008/504/article/3/g)

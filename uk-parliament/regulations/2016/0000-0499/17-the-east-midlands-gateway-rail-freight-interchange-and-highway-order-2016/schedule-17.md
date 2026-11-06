@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 17 — FOR THE PROTECTION OF SEVERN TRENT WATER LIMITED[^key-f431f4175e8d2cf9a4fadaceeed5a4de]
+## SCHEDULE 17 — FOR THE PROTECTION OF SEVERN TRENT WATER LIMITED[^c-f431f4175e8d2cf9a4fadaceeed5a4de]
 
 *Extent: E+W+S*
 
 Article 38
 
-[^key-f431f4175e8d2cf9a4fadaceeed5a4de]
+[^c-f431f4175e8d2cf9a4fadaceeed5a4de]
 
 The undertaker must carry out the authorised development in accordance with the Construction Management Strategy for Safeguarding the Derwent Valley Aqueduct (Document 6.14).
 
 ## Annotations
 
-[^key-f431f4175e8d2cf9a4fadaceeed5a4de]: Commencement: Sch. 17 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-f431f4175e8d2cf9a4fadaceeed5a4de]: Commencement: Sch. 17 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

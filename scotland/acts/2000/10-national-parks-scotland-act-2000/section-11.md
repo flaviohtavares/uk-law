@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. National Park Plans[^key-47c94976c7da2636554146ae67a4572a]
+## 11. National Park Plans[^c-47c94976c7da2636554146ae67a4572a]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ A National Park authority must, by such time as the Scottish Ministers may direc
 
 ## Annotations
 
-[^key-47c94976c7da2636554146ae67a4572a]: Modification: [S. 11](https://www.legislation.gov.uk/asp/2000/10/section/11) modified (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [4(1)(a)](https://www.legislation.gov.uk/ssi/2007/268/article/4/1/a) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))
+[^c-47c94976c7da2636554146ae67a4572a]: Modification: [S. 11](https://www.legislation.gov.uk/asp/2000/10/section/11) modified (1.4.2007) by [Town and Country Planning (Marine Fish Farming) (Scotland) Order 2007 (S.S.I. 2007/268)](https://www.legislation.gov.uk/ssi/2007/268), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2007/268/article/1/1), [4(1)(a)](https://www.legislation.gov.uk/ssi/2007/268/article/4/1/a) (with [art. 14(3)](https://www.legislation.gov.uk/ssi/2007/268/article/14/3))

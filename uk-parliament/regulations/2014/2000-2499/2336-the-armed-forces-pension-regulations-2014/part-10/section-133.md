@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Provision of benefit information statements to members[^key-82fe4993fd93c3d0834dc2136c9f05b8]
+## 133. Provision of benefit information statements to members[^c-82fe4993fd93c3d0834dc2136c9f05b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The scheme manager must provide an annual benefit information statement to each 
 
 ## Annotations
 
-[^key-82fe4993fd93c3d0834dc2136c9f05b8]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2014/2336/regulation/133) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-82fe4993fd93c3d0834dc2136c9f05b8]: Commencement: [Reg. 133](https://www.legislation.gov.uk/uksi/2014/2336/regulation/133) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

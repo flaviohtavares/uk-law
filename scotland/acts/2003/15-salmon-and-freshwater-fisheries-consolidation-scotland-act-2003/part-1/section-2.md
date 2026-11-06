@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Methods of fishing: freshwater fish[^key-61c999ed46aae74a00a08164ce6e1179]
+## 2. Methods of fishing: freshwater fish[^c-61c999ed46aae74a00a08164ce6e1179]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61c999ed46aae74a00a08164ce6e1179]: Commencement: S. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-61c999ed46aae74a00a08164ce6e1179]: Commencement: S. 2 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

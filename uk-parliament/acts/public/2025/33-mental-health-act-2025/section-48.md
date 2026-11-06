@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Removal of police stations and prisons as places of safety[^key-8b93a9d939e75abdf4ce81cb8e4c2f59]
+## 48. Removal of police stations and prisons as places of safety[^c-8b93a9d939e75abdf4ce81cb8e4c2f59]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b93a9d939e75abdf4ce81cb8e4c2f59]: Commencement: S. 48 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-8b93a9d939e75abdf4ce81cb8e4c2f59]: Commencement: S. 48 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

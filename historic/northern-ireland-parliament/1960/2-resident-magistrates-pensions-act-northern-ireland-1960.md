@@ -36,7 +36,7 @@ An Act to amend the law relating to pension and superannuation benefits payable 
 
 #### 1. Retiring age of resident magistrates.[^c16988751]
 
-Every resident magistrate (whether appointed before or after the passing of this Act) shall vacate his office on the day on which he attains the age of 75[^key-e40ec8d081ce0086b85088b27fff9dc0]
+Every resident magistrate (whether appointed before or after the passing of this Act) shall vacate his office on the day on which he attains the age of 75[^c-e40ec8d081ce0086b85088b27fff9dc0]
 
 #### 2. Pensions of resident magistrates.
 
@@ -44,7 +44,7 @@ Every resident magistrate (whether appointed before or after the passing of this
 
 (1A)[^c16988831] This Act shall not have effect in relation to a person to whom Part I of the Judicial Pensions and Retirement Act 1993 applies, except to the extent provided by or under that Act.
 
-(1B)[^key-f8f86d31160c32265c48516e30cfd023] This Act is subject to section 18 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
+(1B)[^c-f8f86d31160c32265c48516e30cfd023] This Act is subject to section 18 of the Public Service Pensions Act 2013 (restrictions on benefits provided under existing schemes).
 
 (2) A pension granted under sub-section (1)—
 
@@ -162,7 +162,7 @@ and in paragraph (b) “children of the family” is to be construed in accordan
 
 #### 4A.[^c16989131]
 
-For the purpose of the calculation of any widow's , widower’s[^key-6beb67ffb873b7f9e40458fbd751f102] , surviving civil partner's[^c16989311] or children's pension under this Act, in respect of a person who is eligible for a pension for service in any judicial office, there shall be left out of account any period of service during which an election under section 2A was in force in respect of that person.
+For the purpose of the calculation of any widow's , widower’s[^c-6beb67ffb873b7f9e40458fbd751f102] , surviving civil partner's[^c16989311] or children's pension under this Act, in respect of a person who is eligible for a pension for service in any judicial office, there shall be left out of account any period of service during which an election under section 2A was in force in respect of that person.
 
 #### 4A. Widowers' and surviving civil partners' pensions.[^c16989151][^c16989331]
 
@@ -180,7 +180,7 @@ For the purpose of the calculation of any widow's , widower’s[^key-6beb67ffb87
 
 (1) No widow's, widower's or surviving civil partner's pension may be granted if the marriage or formation of the civil partnership with the deceased took place after he or she retired from relevant service.
 
-(1A)[^key-e47b27860786b7af5bd6cfe09305ca4e] A surviving civil partner’s pension may not be granted in respect of a person’s service if—
+(1A)[^c-e47b27860786b7af5bd6cfe09305ca4e] A surviving civil partner’s pension may not be granted in respect of a person’s service if—
 
 - (a) the person retired from relevant service before 13th January 2020, and
 - (b) power to grant the pension relies on the Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019.
@@ -206,7 +206,7 @@ direct that it shall cease to be payable.
 
 (3) [^c16989611] A children's pension cannot enure for the benefit of any person conceived or adopted by the deceased after the end of his service as a resident magistrate.
 
-(4) A children's pension cannot enure for the benefit of a [^key-27a9b6d4e455d74d6a4b4de385abb161]... person who at the time of the death of the deceased was married or a person who at the time of the death of the deceased was a civil partner[^c16989621] and if, after the death of the deceased, a [^key-27a9b6d4e455d74d6a4b4de385abb161]... person marries or a person forms a civil partnership, she or he shall thereupon cease to be a person for whose benefit a children's pension can enure.
+(4) A children's pension cannot enure for the benefit of a [^c-27a9b6d4e455d74d6a4b4de385abb161]... person who at the time of the death of the deceased was married or a person who at the time of the death of the deceased was a civil partner[^c16989621] and if, after the death of the deceased, a [^c-27a9b6d4e455d74d6a4b4de385abb161]... person marries or a person forms a civil partnership, she or he shall thereupon cease to be a person for whose benefit a children's pension can enure.
 
 (5) A children's pension cannot enure for the benefit of any children of a resident magistrate who, by virtue of paragraph (c) of sub-section (5) of section nine, is not required to make any contribution towards the cost of the liabilities assumed under this Act for the benefit of his widow and children.
 
@@ -406,7 +406,7 @@ but paragraphs (c) and (d) have effect only in relation to a voluntary contribut
   - (c) an EEA firm of a kind mentioned in paragraph 5(d) of Schedule 3 to that Act, which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to invest such sums or, as the case may be, to provide that benefit.
 - “employment” has the same meaning as it has in the Pension Schemes (Northern Ireland) Act 1993[^c16990771] (and accordingly includes employment as a self‐employed earner, within the meaning of section 2 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - “insurer” means—
-  - (a) a person who has permission under Part 4A[^key-e3a1547788106197edb6f65683949efd] of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance;
+  - (a) a person who has permission under Part 4A[^c-e3a1547788106197edb6f65683949efd] of the Financial Services and Markets Act 2000 to effect or carry out contracts of long-term insurance;
   - (b) an EEA firm of the kind mentioned in paragraph 5(d) of Schedule 3 to that Act, which has permission under paragraph 15 of that Schedule (as a result of qualifying for authorisation under paragraph 12 of that Schedule) to effect or carry out contracts of long-term insurance;
 - “judicial pension scheme” means a scheme constituted by this Act;
 - “member” means member of a judicial pension scheme;
@@ -470,28 +470,28 @@ Where any person after retirement from service as a resident magistrate resumes[
 
 #### 12. Allocation of part of pension to dependants.
 
-(1) The Treasury[^c16991101] may make rules for securing that, in such circumstances and subject to such conditions as to proof of good health and other matters as may be specified in the rules, a retiring resident magistrate who retires from office otherwise than on the ground of ill-health, after the passing of this Act, shall be allowed to surrender, as from the date of his retirement, in return for the benefits allowed under the rules such part, not exceeding one-third of his personal pension, as may be specified in the rules, and for enabling the Treasury to grant to the spouse or civil partner[^key-9cd02b495b797595478656e14253e63a] or to a dependant of the retiring resident magistrate a pension of such value as, according to tables to be prepared from time to time by the Treasury, is actuarially equivalent, at that date, to the value of that part of the personal pension which is surrendered.
+(1) The Treasury[^c16991101] may make rules for securing that, in such circumstances and subject to such conditions as to proof of good health and other matters as may be specified in the rules, a retiring resident magistrate who retires from office otherwise than on the ground of ill-health, after the passing of this Act, shall be allowed to surrender, as from the date of his retirement, in return for the benefits allowed under the rules such part, not exceeding one-third of his personal pension, as may be specified in the rules, and for enabling the Treasury to grant to the spouse or civil partner[^c-9cd02b495b797595478656e14253e63a] or to a dependant of the retiring resident magistrate a pension of such value as, according to tables to be prepared from time to time by the Treasury, is actuarially equivalent, at that date, to the value of that part of the personal pension which is surrendered.
 
-(2) Any such pension as aforesaid for the benefit of a dependant (not being a spouse or civil partner[^key-0d431f097511c5b692d4d4c60e72319b] ) of a retiring resident magistrate shall be payable in respect of the period, if any, for which the dependant survives the resident magistrate, and any such pension as aforesaid for the benefit of the spouse or civil partner of a resident magistrate shall, according as the resident magistrate may, in conformity with the rules under this section, elect, be payable—
+(2) Any such pension as aforesaid for the benefit of a dependant (not being a spouse or civil partner[^c-0d431f097511c5b692d4d4c60e72319b] ) of a retiring resident magistrate shall be payable in respect of the period, if any, for which the dependant survives the resident magistrate, and any such pension as aforesaid for the benefit of the spouse or civil partner of a resident magistrate shall, according as the resident magistrate may, in conformity with the rules under this section, elect, be payable—
 
 - (a) in respect of the period, if any, for which the spouse or civil partner survives the resident magistrate; or
 - (b) in respect both of the period of their joint lives subsequent to the retirement and of the period, if any, for which the spouse or civil partner survives the resident magistrate;
 
 and the rules may provide that a pension payable thereunder in respect of the periods mentioned in paragraph (b) shall be paid at one rate in respect of the first of those periods and at a higher rate in respect of the second.
 
-(3) If a resident magistrate has, in accordance with rules made under this section, surrendered part of his pension, any lump sum or widow's , widower’s, surviving civil partner’s[^key-cd78b18091b26e1fc6a965df8fc5db3b] or children's pension payable under this Act apart from this section shall be calculated as if that surrender had not been made.
+(3) If a resident magistrate has, in accordance with rules made under this section, surrendered part of his pension, any lump sum or widow's , widower’s, surviving civil partner’s[^c-cd78b18091b26e1fc6a965df8fc5db3b] or children's pension payable under this Act apart from this section shall be calculated as if that surrender had not been made.
 
-(3A)[^key-f8cd78b8777fe43707650bedfe766f05] Rules under this section, or section 13, may make different provision for different purposes.
+(3A)[^c-f8cd78b8777fe43707650bedfe766f05] Rules under this section, or section 13, may make different provision for different purposes.
 
 (4) Rules made under this section shall be subject to negative resolution.
 
 #### 13. Allocation by certain retired resident magistrates of part of their pensions to their wives.
 
-(1) The Treasury[^c16991161] may make rules for securing that, in such circumstances and subject to such conditions as to proof of good health and other matters as may be specified in the rules, a retired resident magistrate under the age of seventy who has retired from office (otherwise than on the ground of ill-health) after the passing of this Act, and who has married or formed a civil partnership[^key-cdb45645913a5865c6c5a1311c057e81] since his retirement shall, subject to sub-section (2), be allowed to surrender, as from the date of his marriage or of the formation of the civil partnership[^key-90d665cc854fc80babb5e0b23b102b56] , in return for the benefits allowed under the rules such part of his personal pension as may be specified in the rules, and for enabling the Treasury to grant to his spouse or civil partner[^key-2fdcf11752b534d4f3efcfc18015367a] a pension of such value as, according to tables prepared from time to time by the Treasury, is actuarially equivalent, at that date, to the value of that part of the personal pension which is surrendered.
+(1) The Treasury[^c16991161] may make rules for securing that, in such circumstances and subject to such conditions as to proof of good health and other matters as may be specified in the rules, a retired resident magistrate under the age of seventy who has retired from office (otherwise than on the ground of ill-health) after the passing of this Act, and who has married or formed a civil partnership[^c-cdb45645913a5865c6c5a1311c057e81] since his retirement shall, subject to sub-section (2), be allowed to surrender, as from the date of his marriage or of the formation of the civil partnership[^c-90d665cc854fc80babb5e0b23b102b56] , in return for the benefits allowed under the rules such part of his personal pension as may be specified in the rules, and for enabling the Treasury to grant to his spouse or civil partner[^c-2fdcf11752b534d4f3efcfc18015367a] a pension of such value as, according to tables prepared from time to time by the Treasury, is actuarially equivalent, at that date, to the value of that part of the personal pension which is surrendered.
 
 (2) The part of a personal pension surrendered by a person under this section, together with any part thereof surrendered under section twelve, shall not exceed one-third of that pension.
 
-(3) Sub-sections (2) and (3) of section twelve, so far as they apply to surrenders made for the benefit of spouses and civil partners[^key-7c16929cd0ede0dc601c9f058e519932] and pensions granted to spouses and civil partners , shall apply also to surrenders under this section and pensions granted by virtue thereof, but as if any reference to the date of retirement was a reference to the date of the marriage or of the formation of the civil partnership[^key-9573fe2594e8c9ad81868fc80f974250] .
+(3) Sub-sections (2) and (3) of section twelve, so far as they apply to surrenders made for the benefit of spouses and civil partners[^c-7c16929cd0ede0dc601c9f058e519932] and pensions granted to spouses and civil partners , shall apply also to surrenders under this section and pensions granted by virtue thereof, but as if any reference to the date of retirement was a reference to the date of the marriage or of the formation of the civil partnership[^c-9573fe2594e8c9ad81868fc80f974250] .
 
 (4) Rules made under this section shall be subject to negative resolution.
 
@@ -749,7 +749,7 @@ where—
 
 **5.** In this Part of this Schedule—
 
-- “the relevant date” means 4th December 2005 , but means 12th January 2020 in relation to a civil partnership formed between two people not of the same sex[^key-9050196e25686b49e723e2e20ecf6389] ; and
+- “the relevant date” means 4th December 2005 , but means 12th January 2020 in relation to a civil partnership formed between two people not of the same sex[^c-9050196e25686b49e723e2e20ecf6389] ; and
 - “member” means a person who holds judicial office and to or in respect of whom benefits are payable under this Act on his or her retirement.
 
 #### Service wholly on or before the relevant date
@@ -792,7 +792,7 @@ where—
 
 [^c16988751]: Textual amendment: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)
 
-[^key-e40ec8d081ce0086b85088b27fff9dc0]: Textual amendment: Word in [s. 1](https://www.legislation.gov.uk/apni/1960/2/section/1) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/8) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-e40ec8d081ce0086b85088b27fff9dc0]: Textual amendment: Word in [s. 1](https://www.legislation.gov.uk/apni/1960/2/section/1) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/8) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c16988801]: Textual amendment: [1991 NI 24](https://www.legislation.gov.uk/nisi/1991)
 
@@ -800,7 +800,7 @@ where—
 
 [^c16988831]: Textual amendment: [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8)
 
-[^key-f8f86d31160c32265c48516e30cfd023]: Textual amendment: [S. 2(1B)](https://www.legislation.gov.uk/apni/1960/2/section/2/1B) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/2) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/b)
+[^c-f8f86d31160c32265c48516e30cfd023]: Textual amendment: [S. 2(1B)](https://www.legislation.gov.uk/apni/1960/2/section/2/1B) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/2) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(b)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/b)
 
 [^c16988921]: Textual amendment: To be construed as a ref. to Lord Chancellor, SI 1973/2163
 
@@ -826,7 +826,7 @@ where—
 
 [^c16989131]: Textual amendment: SR 1989/100
 
-[^key-6beb67ffb873b7f9e40458fbd751f102]: Textual amendment: Word in [s. 4A](https://www.legislation.gov.uk/apni/1960/2/section/4A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-6beb67ffb873b7f9e40458fbd751f102]: Textual amendment: Word in [s. 4A](https://www.legislation.gov.uk/apni/1960/2/section/4A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16989311]: Textual amendment: SI 2005/3325
 
@@ -838,11 +838,11 @@ where—
 
 [^c16989451]: Textual amendment: SI 2005/3325
 
-[^key-e47b27860786b7af5bd6cfe09305ca4e]: Textual amendment: [S. 5(1A)](https://www.legislation.gov.uk/apni/1960/2/section/5/1A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-e47b27860786b7af5bd6cfe09305ca4e]: Textual amendment: [S. 5(1A)](https://www.legislation.gov.uk/apni/1960/2/section/5/1A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16989611]: Textual amendment: Mod., [1966 c. 27 (NI)](https://www.legislation.gov.uk/apni/1966/27)
 
-[^key-27a9b6d4e455d74d6a4b4de385abb161]: Textual amendment: Word in [s. 6(4)](https://www.legislation.gov.uk/apni/1960/2/section/6/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [56(5)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/5))
+[^c-27a9b6d4e455d74d6a4b4de385abb161]: Textual amendment: Word in [s. 6(4)](https://www.legislation.gov.uk/apni/1960/2/section/6/4) omitted (13.1.2020) by virtue of [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6), [56(5)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/5))
 
 [^c16989621]: Textual amendment: SI 2005/3325
 
@@ -882,7 +882,7 @@ where—
 
 [^c16990771]: Textual amendment: [1993 c. 49](https://www.legislation.gov.uk/ukpga/1993/49)
 
-[^key-e3a1547788106197edb6f65683949efd]: Textual amendment: Words in [s. 9A(7)](https://www.legislation.gov.uk/apni/1960/2/section/9A/7) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 142](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/142) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e3a1547788106197edb6f65683949efd]: Textual amendment: Words in [s. 9A(7)](https://www.legislation.gov.uk/apni/1960/2/section/9A/7) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 142](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/142) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c19037801]: Textual amendment: Definition of "relevant benefits" in s. 9A(7) omitted (6.4.2006) by virtue of the [Taxation of Judicial Pensions (Consequential Provisions) Order 2006 (S.I. 2006/497)](https://www.legislation.gov.uk/uksi/2006/497), [art. 7](https://www.legislation.gov.uk/uksi/2006/497/article/7), [Sch. para. 4(b)(i)](https://www.legislation.gov.uk/uksi/2006/497/schedule/paragraph/4/b/i)
 
@@ -904,25 +904,25 @@ where—
 
 [^c16991101]: Textual amendment: [1991 NI 24](https://www.legislation.gov.uk/nisi/1991)
 
-[^key-9cd02b495b797595478656e14253e63a]: Textual amendment: Words in s. 12(1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(6)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/6/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-9cd02b495b797595478656e14253e63a]: Textual amendment: Words in s. 12(1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(6)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/6/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-0d431f097511c5b692d4d4c60e72319b]: Textual amendment: Words in s. 12(2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(6)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/6/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-0d431f097511c5b692d4d4c60e72319b]: Textual amendment: Words in s. 12(2) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(6)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/6/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-cd78b18091b26e1fc6a965df8fc5db3b]: Textual amendment: Words in s. 12(3) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(6)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/6/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-cd78b18091b26e1fc6a965df8fc5db3b]: Textual amendment: Words in s. 12(3) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(6)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/6/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-f8cd78b8777fe43707650bedfe766f05]: Textual amendment: S. 12(3A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(6)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/6/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-f8cd78b8777fe43707650bedfe766f05]: Textual amendment: S. 12(3A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(6)(c)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/6/c) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16991161]: Textual amendment: [1991 NI 24](https://www.legislation.gov.uk/nisi/1991)
 
-[^key-cdb45645913a5865c6c5a1311c057e81]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/apni/1960/2/section/13/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/a/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-cdb45645913a5865c6c5a1311c057e81]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/apni/1960/2/section/13/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(a)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/a/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-90d665cc854fc80babb5e0b23b102b56]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/apni/1960/2/section/13/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/a/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-90d665cc854fc80babb5e0b23b102b56]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/apni/1960/2/section/13/1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/a/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-2fdcf11752b534d4f3efcfc18015367a]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/apni/1960/2/section/13/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/a/iii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-2fdcf11752b534d4f3efcfc18015367a]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/apni/1960/2/section/13/1) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/a/iii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-7c16929cd0ede0dc601c9f058e519932]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/apni/1960/2/section/13/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/b/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-7c16929cd0ede0dc601c9f058e519932]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/apni/1960/2/section/13/3) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(b)(i)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/b/i) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-9573fe2594e8c9ad81868fc80f974250]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/apni/1960/2/section/13/3) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/b/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-9573fe2594e8c9ad81868fc80f974250]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/apni/1960/2/section/13/3) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/7/b/ii) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c16991061]: Textual amendment: SI 2005/3325
 
@@ -962,4 +962,4 @@ where—
 
 [^c16991481]: Textual amendment: SI 2005/3325
 
-[^key-9050196e25686b49e723e2e20ecf6389]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/apni/1960/2/schedule/2/paragraph/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(8)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/8) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-9050196e25686b49e723e2e20ecf6389]: Textual amendment: Words in [Sch. 2 para. 5](https://www.legislation.gov.uk/apni/1960/2/schedule/2/paragraph/5) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [56(8)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/56/8) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

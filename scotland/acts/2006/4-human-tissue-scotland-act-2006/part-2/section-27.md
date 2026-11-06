@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Requirements for carrying out post-mortem examination[^key-159ed08ed659baf08918bb70a4e919e0]
+## 27. Requirements for carrying out post-mortem examination[^c-159ed08ed659baf08918bb70a4e919e0]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ A post-mortem examination may be carried out only if—
 
 ## Annotations
 
-[^key-159ed08ed659baf08918bb70a4e919e0]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2006/4/section/27) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-159ed08ed659baf08918bb70a4e919e0]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2006/4/section/27) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

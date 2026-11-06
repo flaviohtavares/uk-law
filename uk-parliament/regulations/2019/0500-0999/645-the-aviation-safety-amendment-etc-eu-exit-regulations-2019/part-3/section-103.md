@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Amendment of Article 24 of Regulation (EU) No 2018/1139[^key-177fa1d6ce6c5b9d218ec14fd9fd0167]
+## 103. Amendment of Article 24 of Regulation (EU) No 2018/1139[^c-177fa1d6ce6c5b9d218ec14fd9fd0167]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-177fa1d6ce6c5b9d218ec14fd9fd0167]: Commencement: Reg. 103 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-177fa1d6ce6c5b9d218ec14fd9fd0167]: Commencement: Reg. 103 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

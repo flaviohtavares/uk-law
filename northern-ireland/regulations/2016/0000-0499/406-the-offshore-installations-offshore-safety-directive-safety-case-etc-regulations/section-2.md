@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-73b163d0f77d9efec598d20e711ea95b]
+## 2. Interpretation[^c-73b163d0f77d9efec598d20e711ea95b]
 
 *Extent: N.I.*
 
@@ -155,7 +155,7 @@ and the expression “combined operation” is to be construed accordingly.
 
 ## Annotations
 
-[^key-73b163d0f77d9efec598d20e711ea95b]: Commencement: Reg. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-73b163d0f77d9efec598d20e711ea95b]: Commencement: Reg. 2 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
 [^f00012]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 

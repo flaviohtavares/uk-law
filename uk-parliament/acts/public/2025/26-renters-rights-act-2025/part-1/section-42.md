@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Interpretation of Chapter 3[^key-4e35698d2574eb1f2b99e51fb967b4e8][^key-572e14e5783818e4e0b162d9347100a1]
+## 42. Interpretation of Chapter 3[^c-4e35698d2574eb1f2b99e51fb967b4e8][^c-572e14e5783818e4e0b162d9347100a1]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4e35698d2574eb1f2b99e51fb967b4e8]: Commencement: S. 42 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-4e35698d2574eb1f2b99e51fb967b4e8]: Commencement: S. 42 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-572e14e5783818e4e0b162d9347100a1]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2025/26/section/42) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)
+[^c-572e14e5783818e4e0b162d9347100a1]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2025/26/section/42) in force at 1.5.2026 by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/b)

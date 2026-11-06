@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Annual parents’ meetings: Wales[^key-d66cab47c96ed8861663b4d48bbf4f5b][^key-5b110f637220007626fbf15ad57b5c42]
+## 33. Annual parents’ meetings: Wales[^c-d66cab47c96ed8861663b4d48bbf4f5b][^c-5b110f637220007626fbf15ad57b5c42]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d66cab47c96ed8861663b4d48bbf4f5b]: Textual amendment: S. 33 repealed (4.5.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [ss. 95](https://www.legislation.gov.uk/anaw/2013/1/section/95), [100(3)](https://www.legislation.gov.uk/anaw/2013/1/section/100/3)
+[^c-d66cab47c96ed8861663b4d48bbf4f5b]: Textual amendment: S. 33 repealed (4.5.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [ss. 95](https://www.legislation.gov.uk/anaw/2013/1/section/95), [100(3)](https://www.legislation.gov.uk/anaw/2013/1/section/100/3)
 
-[^key-5b110f637220007626fbf15ad57b5c42]: Textual amendment: Word in s. 33 heading inserted (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 103(2)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/103/2/b), [125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 5](https://www.legislation.gov.uk/uksi/2005/2034/article/5)
+[^c-5b110f637220007626fbf15ad57b5c42]: Textual amendment: Word in s. 33 heading inserted (1.9.2005) by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 103(2)(b)](https://www.legislation.gov.uk/ukpga/2005/18/section/103/2/b), [125(4)](https://www.legislation.gov.uk/ukpga/2005/18/section/125/4); [S.I. 2005/2034](https://www.legislation.gov.uk/uksi/2005/2034), [art. 5](https://www.legislation.gov.uk/uksi/2005/2034/article/5)

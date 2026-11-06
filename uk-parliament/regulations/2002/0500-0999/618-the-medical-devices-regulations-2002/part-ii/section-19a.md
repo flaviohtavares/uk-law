@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19A. Additional requirements relating to use of animal tissues[^key-a173b3b629eaedd93161ba8c5024552e]
+## 19A. Additional requirements relating to use of animal tissues[^c-a173b3b629eaedd93161ba8c5024552e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a173b3b629eaedd93161ba8c5024552e]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2002/618/regulation/19A) omitted (21.10.2013) by virtue of [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2013/2327/regulation/9)
+[^c-a173b3b629eaedd93161ba8c5024552e]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/uksi/2002/618/regulation/19A) omitted (21.10.2013) by virtue of [The Medical Devices (Amendment) Regulations 2013 (S.I. 2013/2327)](https://www.legislation.gov.uk/uksi/2013/2327), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2327/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2013/2327/regulation/9)

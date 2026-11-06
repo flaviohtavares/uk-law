@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Claim for early payment[^key-cfdde1fae7874efafed145cf4e9ea484]
+## 84. Claim for early payment[^c-cfdde1fae7874efafed145cf4e9ea484]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cfdde1fae7874efafed145cf4e9ea484]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2015/182/regulation/84) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-cfdde1fae7874efafed145cf4e9ea484]: Commencement: [Reg. 84](https://www.legislation.gov.uk/uksi/2015/182/regulation/84) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
 
 [^f00038]: Footnote: [S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054).

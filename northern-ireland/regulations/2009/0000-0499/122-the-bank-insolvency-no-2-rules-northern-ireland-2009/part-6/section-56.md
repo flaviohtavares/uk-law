@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Record of proceedings[^key-dc341fd6739d275919314ab0149bb22b]
+## 56. Record of proceedings[^c-dc341fd6739d275919314ab0149bb22b]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Apply rule 4.077 of the 1991 Rules. For paragraph (6) substitute—
 
 ## Annotations
 
-[^key-dc341fd6739d275919314ab0149bb22b]: Commencement: Rule 56 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-dc341fd6739d275919314ab0149bb22b]: Commencement: Rule 56 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

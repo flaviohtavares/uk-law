@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-Education (Pupil Records) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-fed62329f52a95931652654ab2810315]
+Education (Pupil Records) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-fed62329f52a95931652654ab2810315]
 
 Made
 
@@ -41,42 +41,42 @@ Coming into operation
 
 6th July 2001
 
-[^key-fed62329f52a95931652654ab2810315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed62329f52a95931652654ab2810315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fed62329f52a95931652654ab2810315]
+## 1. Citation and commencement[^c-fed62329f52a95931652654ab2810315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Pupil Records) Regulations (Northern Ireland) 1998[^key-fed62329f52a95931652654ab2810315]
+## 2. Amendment of the Education (Pupil Records) Regulations (Northern Ireland) 1998[^c-fed62329f52a95931652654ab2810315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-fed62329f52a95931652654ab2810315]
+## 3. Interpretation[^c-fed62329f52a95931652654ab2810315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocations[^key-fed62329f52a95931652654ab2810315]
+## 4. Revocations[^c-fed62329f52a95931652654ab2810315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duties of Boards of Governors[^key-fed62329f52a95931652654ab2810315]
+## 5. Duties of Boards of Governors[^c-fed62329f52a95931652654ab2810315]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-fed62329f52a95931652654ab2810315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-fed62329f52a95931652654ab2810315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-fed62329f52a95931652654ab2810315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-fed62329f52a95931652654ab2810315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-fed62329f52a95931652654ab2810315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-fed62329f52a95931652654ab2810315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fed62329f52a95931652654ab2810315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed62329f52a95931652654ab2810315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fed62329f52a95931652654ab2810315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fed62329f52a95931652654ab2810315]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fed62329f52a95931652654ab2810315]: Textual amendment: Regulation revoked (1.3.2007) by [The Education (Pupil Records and Reporting) (Transitional) Regulations (Northern Ireland) 2007 (S.R. 2007/43)](https://www.legislation.gov.uk/nisr/2007/43), [regs. 1](https://www.legislation.gov.uk/nisr/2007/43/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/43/regulation/3)
+[^c-fed62329f52a95931652654ab2810315]: Textual amendment: Regulation revoked (1.3.2007) by [The Education (Pupil Records and Reporting) (Transitional) Regulations (Northern Ireland) 2007 (S.R. 2007/43)](https://www.legislation.gov.uk/nisr/2007/43), [regs. 1](https://www.legislation.gov.uk/nisr/2007/43/regulation/1), [3](https://www.legislation.gov.uk/nisr/2007/43/regulation/3)

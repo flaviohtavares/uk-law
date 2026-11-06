@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Amendments to the 2022 Regulations[^key-5d054af3c286f52292513524429878d7]
+## 40. Amendments to the 2022 Regulations[^c-5d054af3c286f52292513524429878d7]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d054af3c286f52292513524429878d7]: Commencement: Reg. 40 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-5d054af3c286f52292513524429878d7]: Commencement: Reg. 40 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

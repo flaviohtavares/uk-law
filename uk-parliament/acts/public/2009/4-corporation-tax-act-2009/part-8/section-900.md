@@ -26,7 +26,7 @@ summary: ''
 - (b) condition A or condition B is met in relation to the company, and
 - (c) double tax relief is not available to the company at that time.
 
-(2) Condition A is that at that time the company is UK resident [^key-77f761c062fee901330e58fbb31cae09]....
+(2) Condition A is that at that time the company is UK resident [^c-77f761c062fee901330e58fbb31cae09]....
 
 (3) Condition B is that the gain would form part of the company's chargeable profits for corporation tax purposes as a result of section 10B of TCGA 1992 (non-resident company with United Kingdom permanent establishment).
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77f761c062fee901330e58fbb31cae09]: Textual amendment: Words in s. 900(2) omitted (with application in accordance with Sch. 46 para. 138(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 138(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/138/1)
+[^c-77f761c062fee901330e58fbb31cae09]: Textual amendment: Words in s. 900(2) omitted (with application in accordance with Sch. 46 para. 138(2) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 46 para. 138(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/46/paragraph/138/1)

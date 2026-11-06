@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Appointment of medical adviser[^key-5d3e3d7f95503dd179ac38b17c40db30]
+## 42. Appointment of medical adviser[^c-5d3e3d7f95503dd179ac38b17c40db30]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ A Board shall appoint a doctor to assist it in the exercise of its functions pur
 
 ## Annotations
 
-[^key-5d3e3d7f95503dd179ac38b17c40db30]: Commencement: Reg. 42 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-5d3e3d7f95503dd179ac38b17c40db30]: Commencement: Reg. 42 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

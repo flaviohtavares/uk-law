@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257EA. Time for making claims for SEIS relief[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33][^key-d7d80aab660edda97fcaf587b4319380]
+## 257EA. Time for making claims for SEIS relief[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33][^c-d7d80aab660edda97fcaf587b4319380]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
+[^c-86ceadf9ebe4ce15f761ac0cdcdbfb33]: Textual amendment: Pt. 5A inserted (17.7.2012) (with effect in accordance with Sch. 6 para. 24(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/6/paragraph/1)
 
-[^key-d7d80aab660edda97fcaf587b4319380]: Modification: S. 257EA applied by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5BB para. 3(1)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/5BB/paragraph/3/1) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), Sch. 6 para. 5)
+[^c-d7d80aab660edda97fcaf587b4319380]: Modification: S. 257EA applied by [Taxation of Chargeable Gains Act 1992 (c. 12)](https://www.legislation.gov.uk/ukpga/1992/12), [Sch. 5BB para. 3(1)](https://www.legislation.gov.uk/ukpga/2003/1/schedule/5BB/paragraph/3/1) (as inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), Sch. 6 para. 5)

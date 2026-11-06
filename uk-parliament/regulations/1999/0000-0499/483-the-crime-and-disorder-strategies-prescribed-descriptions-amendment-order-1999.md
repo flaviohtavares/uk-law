@@ -29,30 +29,30 @@ summary: ''
 
 CRIMINAL LAW, ENGLAND AND WALES
 
-The Crime and Disorder Strategies (Prescribed Descriptions) (Amendment) Order 1999 *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+The Crime and Disorder Strategies (Prescribed Descriptions) (Amendment) Order 1999 *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-Made *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+Made *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-26th February 1999 *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+26th February 1999 *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-Laid before Parliament *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+Laid before Parliament *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-8th March 1999 *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+8th March 1999 *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-Coming into force *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+Coming into force *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-1st April 1999 *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+1st April 1999 *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-In exercise of the powers conferred upon him by section 5(3) of the Crime and Disorder Act 1998 *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644][^f00001], the Secretary of State hereby makes the following Order: *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+In exercise of the powers conferred upon him by section 5(3) of the Crime and Disorder Act 1998 *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644][^f00001], the Secretary of State hereby makes the following Order: *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-**1 (Extent: E) (affected by repeal, see note).**[^key-f573e77d10bfe6f337f0b6cd92d6777c][^key-dc24bf5dadadbaefa5cfd352bcbf4644] This Order may be cited as the Crime and Disorder Strategies (Prescribed Descriptions) (Amendment) Order 1999 and shall come into force on 1st April 1999. *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+**1 (Extent: E) (affected by repeal, see note).**[^c-f573e77d10bfe6f337f0b6cd92d6777c][^c-dc24bf5dadadbaefa5cfd352bcbf4644] This Order may be cited as the Crime and Disorder Strategies (Prescribed Descriptions) (Amendment) Order 1999 and shall come into force on 1st April 1999. *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-**2 (Extent: E) (affected by repeal, see note).**[^key-d207fbe94bb8db2b31031f02ae4ffb5c][^key-dc24bf5dadadbaefa5cfd352bcbf4644] In article 3(2) of the Crime and Disorder Strategies (Prescribed Descriptions) Order 1998 *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644][^f00002], at the end there shall be added: *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+**2 (Extent: E) (affected by repeal, see note).**[^c-d207fbe94bb8db2b31031f02ae4ffb5c][^c-dc24bf5dadadbaefa5cfd352bcbf4644] In article 3(2) of the Crime and Disorder Strategies (Prescribed Descriptions) Order 1998 *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644][^f00002], at the end there shall be added: *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-> - (v (Extent: E) (affected by repeal, see note))[^key-dc24bf5dadadbaefa5cfd352bcbf4644] the chief officer of the fire brigade for an area any part of which lies within that area; *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
-> - (w (Extent: E) (affected by repeal, see note))[^key-dc24bf5dadadbaefa5cfd352bcbf4644] the British Transport Police. *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+> - (v (Extent: E) (affected by repeal, see note))[^c-dc24bf5dadadbaefa5cfd352bcbf4644] the chief officer of the fire brigade for an area any part of which lies within that area; *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
+> - (w (Extent: E) (affected by repeal, see note))[^c-dc24bf5dadadbaefa5cfd352bcbf4644] the British Transport Police. *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-dc24bf5dadadbaefa5cfd352bcbf4644]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-dc24bf5dadadbaefa5cfd352bcbf4644]
 
 Paul Boateng
 
@@ -68,12 +68,12 @@ This Order amends the Crime and Disorder Strategies (Prescribed Descriptions) Or
 
 ## Annotations
 
-[^key-dc24bf5dadadbaefa5cfd352bcbf4644]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/483) revoked (E.) (23.2.2004) by [The Crime and Disorder Strategies (Prescribed Descriptions) (England) Order 2004 (S.I. 2004/118)](https://www.legislation.gov.uk/uksi/2004/118), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/118/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2004/118/article/4/c)
+[^c-dc24bf5dadadbaefa5cfd352bcbf4644]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/483) revoked (E.) (23.2.2004) by [The Crime and Disorder Strategies (Prescribed Descriptions) (England) Order 2004 (S.I. 2004/118)](https://www.legislation.gov.uk/uksi/2004/118), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2004/118/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2004/118/article/4/c)
 
 [^f00001]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-f573e77d10bfe6f337f0b6cd92d6777c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1999/483/article/1) in force at 1.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/483/article/1)
+[^c-f573e77d10bfe6f337f0b6cd92d6777c]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/1999/483/article/1) in force at 1.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/483/article/1)
 
-[^key-d207fbe94bb8db2b31031f02ae4ffb5c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1999/483/article/2) in force at 1.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/483/article/1)
+[^c-d207fbe94bb8db2b31031f02ae4ffb5c]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1999/483/article/2) in force at 1.4.1999, see [art. 1](https://www.legislation.gov.uk/uksi/1999/483/article/1)
 
 [^f00002]: Footnote: S.I. [1998/2452](https://www.legislation.gov.uk/uksi/1998/2452), amended by S.I. [1998/2513](https://www.legislation.gov.uk/uksi/1998/2513).

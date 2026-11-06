@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Entitlement to partial retirement pension or full retirement pension[^key-d116b9fc15ea1dc67a353cc6492ee816]
+## 63. Entitlement to partial retirement pension or full retirement pension[^c-d116b9fc15ea1dc67a353cc6492ee816]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ An active member of this scheme (P) who exercises the partial retirement option 
 
 ## Annotations
 
-[^key-d116b9fc15ea1dc67a353cc6492ee816]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2015/182/regulation/63) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-d116b9fc15ea1dc67a353cc6492ee816]: Commencement: [Reg. 63](https://www.legislation.gov.uk/uksi/2015/182/regulation/63) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

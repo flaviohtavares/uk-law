@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Entitlement to vote in the referendum[^key-52262941502c72d5af82288fbd9d53be]
+## 2. Entitlement to vote in the referendum[^c-52262941502c72d5af82288fbd9d53be]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52262941502c72d5af82288fbd9d53be]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/36/section/2) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-52262941502c72d5af82288fbd9d53be]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2015/36/section/2) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

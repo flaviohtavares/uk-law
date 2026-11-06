@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Treatment[^key-e5a73c4acf6f88f172c16be25806b794]
+## 7. Treatment[^c-e5a73c4acf6f88f172c16be25806b794]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5a73c4acf6f88f172c16be25806b794]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2006/11/section/7) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-e5a73c4acf6f88f172c16be25806b794]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2006/11/section/7) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

@@ -24,7 +24,7 @@ Regulation 49
 
 ### PART 1 — The Marketing of Vegetable Plant Material Regulations 1995
 
-**1.**[^key-ff7568325d3ea71e105c45a1d74fff9e] (1) The Marketing of Vegetable Plant Material Regulations 1995 [^c23956591] are amended as follows.
+**1.**[^c-ff7568325d3ea71e105c45a1d74fff9e] (1) The Marketing of Vegetable Plant Material Regulations 1995 [^c23956591] are amended as follows.
 
 (2) In regulation 8—
 
@@ -37,7 +37,7 @@ Regulation 49
 
 ### PART 2 — The Marketing of Ornamental Plant Propagating Material Regulations 1999
 
-**2.**[^key-4af27f6f9e9c12a0da3f963540df8b17] (1) The Marketing of Ornamental Plant Propagating Material Regulations 1999 [^c23956601] are amended as follows.
+**2.**[^c-4af27f6f9e9c12a0da3f963540df8b17] (1) The Marketing of Ornamental Plant Propagating Material Regulations 1999 [^c23956601] are amended as follows.
 
 (2) In regulation 2(1)—
 
@@ -67,13 +67,13 @@ Regulation 49
 
 ### PART 3 — The Forest Reproductive Material (Great Britain) Regulations 2002
 
-**3.**[^key-50fe407e548636651e51792af54a5580] (1) The Forest Reproductive Material (Great Britain) Regulations 2002 [^c23956611] are amended as follows.
+**3.**[^c-50fe407e548636651e51792af54a5580] (1) The Forest Reproductive Material (Great Britain) Regulations 2002 [^c23956611] are amended as follows.
 
 (2) In regulation 2(2), in the definition of “plant passport”, for “Plant Health (Forestry) Order 2005” substitute “ Regulation (EU) 2016/2031 of the European Parliament and of the Council on protective measures against pests of plants ”.
 
 ### PART 4 — The Seed Potatoes (England) Regulations 2015
 
-**4.**[^key-d3f4ea9c3a07409db05746e0cb0aa790] (1) The Seed Potatoes (England) Regulations 2015 [^c23956621] are amended as follows.
+**4.**[^c-d3f4ea9c3a07409db05746e0cb0aa790] (1) The Seed Potatoes (England) Regulations 2015 [^c23956621] are amended as follows.
 
 (2) In regulation 2(1), after the definition of “National Lists Regulations” insert—
 
@@ -101,7 +101,7 @@ Regulation 49
 
 ### PART 5 — The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015
 
-**5.**[^key-cb3523a96970df2e376e5669c766a233] (1) The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 [^c23956631] are amended as follows.
+**5.**[^c-cb3523a96970df2e376e5669c766a233] (1) The Plant Health (Fees) (Forestry) (England and Scotland) Regulations 2015 [^c23956631] are amended as follows.
 
 (2) In regulation 1A(1)—
 
@@ -151,7 +151,7 @@ Regulation 49
 
 ### PART 6 — The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017
 
-**6.**[^key-bd0584fdbfc3b22a00c2dce6c02f946e] (1) The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 [^c23956641] are amended as follows.
+**6.**[^c-bd0584fdbfc3b22a00c2dce6c02f946e] (1) The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 [^c23956641] are amended as follows.
 
 (2) In regulation 3(1), omit the definition of “Directive [2000/29/EC](https://www.legislation.gov.uk/eudr/2000/29)”.
 
@@ -167,26 +167,26 @@ Regulation 49
 
 ## Annotations
 
-[^key-ff7568325d3ea71e105c45a1d74fff9e]: Commencement: Sch. 5 para. 1 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-ff7568325d3ea71e105c45a1d74fff9e]: Commencement: Sch. 5 para. 1 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956591]: Marginal citation: [S.I. 1995/2652](https://www.legislation.gov.uk/uksi/1995/2652), amended by [S.I. 2007/1449](https://www.legislation.gov.uk/uksi/2007/1449); there are other amending instruments but none is relevant.
 
-[^key-4af27f6f9e9c12a0da3f963540df8b17]: Commencement: Sch. 5 para. 2 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-4af27f6f9e9c12a0da3f963540df8b17]: Commencement: Sch. 5 para. 2 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956601]: Marginal citation: [S.I. 1999/1801](https://www.legislation.gov.uk/uksi/1999/1801); relevant amending instruments are [S.I. 2018/575](https://www.legislation.gov.uk/uksi/2018/575), 974.
 
-[^key-50fe407e548636651e51792af54a5580]: Commencement: Sch. 5 para. 3 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-50fe407e548636651e51792af54a5580]: Commencement: Sch. 5 para. 3 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956611]: Marginal citation: [S.I. 2002/3026](https://www.legislation.gov.uk/uksi/2002/3026), amended by [S.I. 2014/1833](https://www.legislation.gov.uk/uksi/2014/1833); there are other amending instruments but none is relevant.
 
-[^key-d3f4ea9c3a07409db05746e0cb0aa790]: Commencement: Sch. 5 para. 4 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-d3f4ea9c3a07409db05746e0cb0aa790]: Commencement: Sch. 5 para. 4 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956621]: Marginal citation: [S.I. 2015/1953](https://www.legislation.gov.uk/uksi/2015/1953).
 
-[^key-cb3523a96970df2e376e5669c766a233]: Commencement: Sch. 5 para. 5 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-cb3523a96970df2e376e5669c766a233]: Commencement: Sch. 5 para. 5 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956631]: Marginal citation: [S.I. 2015/350](https://www.legislation.gov.uk/uksi/2015/350), amended by [S.I. 2019/734](https://www.legislation.gov.uk/uksi/2019/734), 1488.
 
-[^key-bd0584fdbfc3b22a00c2dce6c02f946e]: Commencement: Sch. 5 para. 6 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-bd0584fdbfc3b22a00c2dce6c02f946e]: Commencement: Sch. 5 para. 6 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
 [^c23956641]: Marginal citation: [S.I. 2017/595](https://www.legislation.gov.uk/uksi/2017/595).

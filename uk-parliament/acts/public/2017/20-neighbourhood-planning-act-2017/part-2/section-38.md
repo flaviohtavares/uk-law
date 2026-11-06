@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Timing of advance payments of compensation[^key-eed629c5347acfabedf7c7c51b80774d]
+## 38. Timing of advance payments of compensation[^c-eed629c5347acfabedf7c7c51b80774d]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eed629c5347acfabedf7c7c51b80774d]: Commencement: S. 38 in force at 6.4.2018 by [S.I. 2018/252](https://www.legislation.gov.uk/uksi/2018/252), [reg. 3](https://www.legislation.gov.uk/uksi/2018/252/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/252/regulation/4))
+[^c-eed629c5347acfabedf7c7c51b80774d]: Commencement: S. 38 in force at 6.4.2018 by [S.I. 2018/252](https://www.legislation.gov.uk/uksi/2018/252), [reg. 3](https://www.legislation.gov.uk/uksi/2018/252/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/252/regulation/4))

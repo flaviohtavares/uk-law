@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Registration periods[^key-a42b7a4b7ea1b0be302138a8a35ca59f]
+## 33. Registration periods[^c-a42b7a4b7ea1b0be302138a8a35ca59f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a42b7a4b7ea1b0be302138a8a35ca59f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2024/1268/regulation/33) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-a42b7a4b7ea1b0be302138a8a35ca59f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/wsi/2024/1268/regulation/33) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Processing in reliance on relevant international law[^key-59c00d0f4b9012edb2a6a3564ca2644d]
+## 9A. Processing in reliance on relevant international law[^c-59c00d0f4b9012edb2a6a3564ca2644d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59c00d0f4b9012edb2a6a3564ca2644d]: Textual amendment: [S. 9A and cross-heading](https://www.legislation.gov.uk/ukpga/2018/12/chapter/2/crossheading/relevant-international-law) inserted (19.6.2025 for specified purposes, 20.8.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 72(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/e)
+[^c-59c00d0f4b9012edb2a6a3564ca2644d]: Textual amendment: [S. 9A and cross-heading](https://www.legislation.gov.uk/ukpga/2018/12/chapter/2/crossheading/relevant-international-law) inserted (19.6.2025 for specified purposes, 20.8.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 72(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/e)

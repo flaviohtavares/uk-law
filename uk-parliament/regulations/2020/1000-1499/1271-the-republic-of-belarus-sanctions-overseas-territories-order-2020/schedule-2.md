@@ -22,12 +22,12 @@ summary: ''
 
 Article 2
 
-**1.**[^key-0ed32c2f04bf35042371c7fe0c69ef1e] In regulation 1 (citation and commencement)—
+**1.**[^c-0ed32c2f04bf35042371c7fe0c69ef1e] In regulation 1 (citation and commencement)—
 
 - (a) in the heading, omit “and commencement”;
 - (b) omit paragraph (2).
 
-**2.**[^key-8d293ce7eab62b0a9bfad0e4814b711f] In regulation 2 (interpretation)—
+**2.**[^c-8d293ce7eab62b0a9bfad0e4814b711f] In regulation 2 (interpretation)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) in that paragraph—
@@ -41,12 +41,12 @@ Article 2
     >   - (a) a member of Her Majesty’s forces in the Territory,
     >   - (b) a police or customs officer of the Territory,
     >   - (c) a person authorised by the Governor for the purposes of exercising, whether generally or in a particular case, any power conferred by—
-    >     - (ai) regulation 29I (detention of ships),[^key-71e3e558d9d06d8ba2be5f48919782b3]
+    >     - (ai) regulation 29I (detention of ships),[^c-71e3e558d9d06d8ba2be5f48919782b3]
     >     - (i) regulation 40 (finance: powers to request information),
     >     - (ii) regulation 41 (finance: production of documents),
     >     - (iii) regulation 45 (general trade licences: inspection of records),
     >     - (iv) regulation 46 (disclosure of information),
-    >     - (iva) regulation 46A (finance: disclosure to the Governor),[^key-7765a8c383d23ab2802abfe93b677378]
+    >     - (iva) regulation 46A (finance: disclosure to the Governor),[^c-7765a8c383d23ab2802abfe93b677378]
     >     - (v) regulation 47A (suspected ships, aircraft or vehicles), or
     >     - (vi) regulation 47B (search warrants), or
     >   - (d) any person acting under the authority of a person falling within any of paragraphs (a) to (c);
@@ -99,22 +99,22 @@ Article 2
     - (aa) “the Commissioners”,
     - (bb) “Treasury licence”, and
     - (cc) “United Kingdom person”;
-- (c)[^key-28846e9b8bdd50a082daa5cf2e6b6116] at the end insert—
+- (c)[^c-28846e9b8bdd50a082daa5cf2e6b6116] at the end insert—
 
   > (3) In the application of these Regulations to a particular British overseas territory, the expression “**the Territory**” means that territory.
 
-**3.**[^key-ffed32363e1022a9a7de1f3c0d561812] In regulation 3 (application of prohibitions and requirements outside the United Kingdom)—
+**3.**[^c-ffed32363e1022a9a7de1f3c0d561812] In regulation 3 (application of prohibitions and requirements outside the United Kingdom)—
 
 - (a) in the heading, for “United Kingdom” substitute “Territory”;
 - (b) in paragraphs (1) and (4), for “United Kingdom person” substitute “Territory person”;
 - (c) in paragraphs (1), (4) and (7), for “United Kingdom” substitute “Territory”;
 - (d) in paragraphs (2) and (5), after “in the territorial sea” insert “of the Territory”;
-- (e) in paragraphs (3) and (6), for “Treasury licence” substitute “financial sanctions licence”;[^key-99b141215c7bb6663465e5ea2922f0ea]
-- (f)[^key-0ad2c71dcf198dbe20830722c83b4013] at the beginning of paragraph (3)(a), insert “by”.
+- (e) in paragraphs (3) and (6), for “Treasury licence” substitute “financial sanctions licence”;[^c-99b141215c7bb6663465e5ea2922f0ea]
+- (f)[^c-0ad2c71dcf198dbe20830722c83b4013] at the beginning of paragraph (3)(a), insert “by”.
 
-**4.**[^key-066a175c4619a08f6f3a4b74753bd5fb] In regulation 4 (purposes), for “the regulations contained in this instrument that are made under section 1 of the Act” substitute “these Regulations”.
+**4.**[^c-066a175c4619a08f6f3a4b74753bd5fb] In regulation 4 (purposes), for “the regulations contained in this instrument that are made under section 1 of the Act” substitute “these Regulations”.
 
-**5.**[^key-a4527680c4ff73900df74eebf213c527] At the end of Part 1 (General), insert—
+**5.**[^c-a4527680c4ff73900df74eebf213c527] At the end of Part 1 (General), insert—
 
 > **4A. Functions of the Governor**
 >
@@ -124,17 +124,17 @@ Article 2
 >
 > (3) In the exercise of any power conferred on the Governor by these Regulations, the Governor is to act in their discretion.
 
-**6.**[^key-310f83bc3c72ada28184b43f457db250] Omit regulation 5 (power to designate persons) (including the heading).
+**6.**[^c-310f83bc3c72ada28184b43f457db250] Omit regulation 5 (power to designate persons) (including the heading).
 
-**6A.**[^key-d25e4fbea2e7ec4e1c3821c4bcc57fca] Omit regulation 5A (conditions for the designation of persons by name) (including the heading).
+**6A.**[^c-d25e4fbea2e7ec4e1c3821c4bcc57fca] Omit regulation 5A (conditions for the designation of persons by name) (including the heading).
 
 **6B.** Omit regulation 5B (conditions for the designation of persons by description) (including the heading).
 
-**7.**[^key-1a28c1978711abcf769c0ee6c772bfc2] Omit regulation 6 (designation criteria) (including the heading).
+**7.**[^c-1a28c1978711abcf769c0ee6c772bfc2] Omit regulation 6 (designation criteria) (including the heading).
 
-**8.**[^key-fe4176d6403199d84eedd04383b6f090] For regulation 8 (notification and publicity where designation power used), substitute—
+**8.**[^c-fe4176d6403199d84eedd04383b6f090] For regulation 8 (notification and publicity where designation power used), substitute—
 
-> **8. Requirement to publish a list of persons designated by name[^key-00f1e774a9c78021be5632b50c7e780b]**
+> **8. Requirement to publish a list of persons designated by name[^c-00f1e774a9c78021be5632b50c7e780b]**
 >
 > (1) Subject to paragraph (2), the Governor must—
 >
@@ -145,9 +145,9 @@ Article 2
 >
 > (3) The Governor may publish the list under paragraph (1) in any form the Governor considers appropriate, including by means of a website.
 >
-> (4) For the purpose of this regulation, “designated person” means any person for the time being designated by name[^key-e4656f2a15ae7ef1e990fb7fdf713e6f] by the Secretary of State under regulation 5(1) (power to designate persons by name)[^key-a4ba221bda838313abffa982f9b61516] (as it has effect in the United Kingdom).
+> (4) For the purpose of this regulation, “designated person” means any person for the time being designated by name[^c-e4656f2a15ae7ef1e990fb7fdf713e6f] by the Secretary of State under regulation 5(1) (power to designate persons by name)[^c-a4ba221bda838313abffa982f9b61516] (as it has effect in the United Kingdom).
 
-**9.**[^key-e95136e6b6591761d57099f1599a5656] In regulation 9 (confidential information in certain cases where designation power used)—
+**9.**[^c-e95136e6b6591761d57099f1599a5656] In regulation 9 (confidential information in certain cases where designation power used)—
 
 - (a) in the heading, omit “where designation power used”;
 - (b) omit paragraph (1);
@@ -164,7 +164,7 @@ Article 2
   > - (c) in relation to the British Antarctic Territory, the British Indian Ocean Territory, the Falkland Islands, Pitcairn, Henderson, Ducie and Oeno Islands, St Helena, Ascension and Tristan da Cunha, South Georgia and the South Sandwich Islands and the Turks and Caicos Islands, the Supreme Court of that territory;
   > - (d) in relation to the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus, the Senior Judges’ Court of those Areas.
 
-**9A.**[^key-91e78ecfa73e9aba5e7afacd88ab07d9] For regulation 9A (notification and publicity where power to designate by description is used), substitute—
+**9A.**[^c-91e78ecfa73e9aba5e7afacd88ab07d9] For regulation 9A (notification and publicity where power to designate by description is used), substitute—
 
 > **9A. Requirement to publish a list of designations by description**
 >
@@ -179,11 +179,11 @@ Article 2
 >
 > (4) For the purposes of this regulation, “**designations by description**” means designations where the Secretary of State has for the time being provided that persons of a specified description are designated persons under regulation 5(1A) (power to designate persons by description) (as it has effect in the United Kingdom).
 
-**10.**[^key-b568f352fd5ee23ea4f49bf1f6236ede] For regulation 10 (meaning of “designated person” in Part 3) substitute—
+**10.**[^c-b568f352fd5ee23ea4f49bf1f6236ede] For regulation 10 (meaning of “designated person” in Part 3) substitute—
 
 > **10.** In this Part, a “designated person” means a person who is designated from time to time by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulations 11 to 15 (asset-freeze etc.) (as they have effect in the United Kingdom).
 
-**10A.**[^key-f9831dd2c6bf8926c737eadd11443bc2] In regulation 15D (interpretation of terms relating to other financial restrictions)—
+**10A.**[^c-f9831dd2c6bf8926c737eadd11443bc2] In regulation 15D (interpretation of terms relating to other financial restrictions)—
 
 - (a) in paragraph (1)—
   - (i) for the definition of “non-UK country”, substitute—
@@ -191,7 +191,7 @@ Article 2
     > - “**non-Territory country**” means a country that is not the Territory;
   - (ii) in the definition of “relevant person”, for “non-UK country” substitute “non-Territory country”.
 
-**11.**[^key-b49607a79960c3ad4d5ab7bee7efc64d] For regulation 17 (immigration) substitute—
+**11.**[^c-b49607a79960c3ad4d5ab7bee7efc64d] For regulation 17 (immigration) substitute—
 
 > **17.** (1) A person who is designated from time to time by the Secretary of State under regulation 5 (power to designate persons) (as it has effect in the United Kingdom) for the purposes of regulation 17 (immigration) (as it has effect in the United Kingdom) must not enter, transit or remain in the Territory.
 >
@@ -226,7 +226,7 @@ Article 2
 > - “Pitcairn” means Pitcairn, Henderson, Ducie and Oeno Islands;
 > - “the Sovereign Base Areas” means the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus.
 
-**12.**[^key-2a817b8c33ee5d908608b8ec97b09486] In regulation 20 (interpretation of other expressions used in this Part)—
+**12.**[^c-2a817b8c33ee5d908608b8ec97b09486] In regulation 20 (interpretation of other expressions used in this Part)—
 
 - (a) for paragraph (1) substitute—
 
@@ -241,13 +241,13 @@ Article 2
 
   > (2) In this Part, any reference to the Territory includes a reference to the territorial sea of the Territory.
 
-**13.**[^key-a6ad9ad0dee2f37e0486dddfaeae32a4] In regulation 21 (export of goods to, or for use in, Belarus)[^key-d441e2c9daaa40babd5b832b17aa9790], at the end insert—
+**13.**[^c-a6ad9ad0dee2f37e0486dddfaeae32a4] In regulation 21 (export of goods to, or for use in, Belarus)[^c-d441e2c9daaa40babd5b832b17aa9790], at the end insert—
 
 > (3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the export was to, or the goods were for use in, Belarus (as the case may be).
 
-**14.**[^key-4443164555c7dc53e0c567668d3b8227] In regulation 22 (supply and delivery of goods from a third country to Belarus)[^key-c3138acb7b45e9be623f620ee26cb0fa], in paragraph (4) for “United Kingdom, the Isle of Man” substitute “Territory”.
+**14.**[^c-4443164555c7dc53e0c567668d3b8227] In regulation 22 (supply and delivery of goods from a third country to Belarus)[^c-c3138acb7b45e9be623f620ee26cb0fa], in paragraph (4) for “United Kingdom, the Isle of Man” substitute “Territory”.
 
-**15.**[^key-590cb42c8224a31bbfa32d663e630f3b] In regulation 27 (brokering services: certain arrangements relating to non-UK activities)[^key-0076289dde84ea95fde865b39aca562e]—
+**15.**[^c-590cb42c8224a31bbfa32d663e630f3b] In regulation 27 (brokering services: certain arrangements relating to non-UK activities)[^c-0076289dde84ea95fde865b39aca562e]—
 
 - (a) in the heading, for “non-UK” substitute “non-Territory”;
 - (b) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country”;
@@ -258,13 +258,13 @@ Article 2
   > - “non-Territory country” means a country that is not the Territory;
   > - “third country” means a country that is not the Territory or Belarus.
 
-**15A.**[^key-431acbdebc038837752e8bdd77e8582b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15A.**[^c-431acbdebc038837752e8bdd77e8582b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15B.**[^key-9e9695f392655e0547303704463172b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15B.**[^c-9e9695f392655e0547303704463172b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15C.**[^key-23189d2606e4cc9a98aa8fed5aa42f68] In regulation 27K (supply and delivery of goods to places outside the UK)[^key-b68932fa8f6c157a63f17406389a0612]—
+**15C.**[^c-23189d2606e4cc9a98aa8fed5aa42f68] In regulation 27K (supply and delivery of goods to places outside the UK)[^c-b68932fa8f6c157a63f17406389a0612]—
 
-- (za)[^key-f171121b62ef37a43b44c973d6ee3e4d] in the heading, for “UK” substitute “Territory;”
+- (za)[^c-f171121b62ef37a43b44c973d6ee3e4d] in the heading, for “UK” substitute “Territory;”
 - (a) in paragraph (2), for “non-UK country”, in each place it occurs, substitute “non-Territory country”;
 - (b) for paragraph (6) substitute—
 
@@ -273,7 +273,7 @@ Article 2
   > - “**non-Territory country**” means a country that is not the Territory;
   > - “**third country**” means a country that is not the Territory or Belarus.
 
-**15D.** In regulation 27L (technical assistance relating to certain activities)[^key-d4bf7f7c407abae1bc3319a52a9e3841]—
+**15D.** In regulation 27L (technical assistance relating to certain activities)[^c-d4bf7f7c407abae1bc3319a52a9e3841]—
 
 - (a) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country”;
 - (b) for paragraph (4) substitute—
@@ -283,7 +283,7 @@ Article 2
   > - “**non-Territory country**” means a country that is not the Territory;
   > - “**third country**” means a country that is not the Territory or Belarus.
 
-**15E.** In regulation 27M (financial services, funds and brokering services relating to certain arrangements)[^key-1ad16040427d8ca59cfb366cc85a6b04]—
+**15E.** In regulation 27M (financial services, funds and brokering services relating to certain arrangements)[^c-1ad16040427d8ca59cfb366cc85a6b04]—
 
 - (a) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country”;
 - (b) for paragraph (6) substitute—
@@ -293,7 +293,7 @@ Article 2
   > - “**non-Territory country**” means a country that is not the Territory;
   > - “**third country**” means a country that is not the Territory or Belarus.
 
-**15EA.**[^key-0e5fda6e28009ea025def848bc8120d5] In regulation 27N(5) (technical assistance relating to aircraft and ships), for the definition of “designated person” substitute—
+**15EA.**[^c-0e5fda6e28009ea025def848bc8120d5] In regulation 27N(5) (technical assistance relating to aircraft and ships), for the definition of “designated person” substitute—
 
 > - “**designated person**” means a person for the time being designated by the Secretary of State under regulation 5 (power to designated persons) (as it has effect in the United Kingdom) for the purposes of this regulation (as it has effect in the United Kingdom);
 
@@ -306,18 +306,18 @@ Article 2
 
 **15F.** In regulation 29A (movement of aircraft)—
 
-- (za)[^key-26d4ca036cc5481858e4d5da31a5b8dd] in paragraph (A1), in both places it occurs, for “United Kingdom” substitute “Territory”;
+- (za)[^c-26d4ca036cc5481858e4d5da31a5b8dd] in paragraph (A1), in both places it occurs, for “United Kingdom” substitute “Territory”;
 - (a) for paragraph (1) substitute—
 
   > (1) The Secretary of State, or the Governor (as the case may be), may—
   >
   > - (a) refuse permission under article 135 of the ANO in respect of Belarusian aircraft;
   > - (b) refuse permission under article 137 of the ANO in respect of Belarusian aircraft;
-  > - (c) suspend or[^key-082249b9be18c0ba35bec96b6cbaf12a] revoke any permission granted under article 135 of the ANO in respect of Belarusian aircraft;
+  > - (c) suspend or[^c-082249b9be18c0ba35bec96b6cbaf12a] revoke any permission granted under article 135 of the ANO in respect of Belarusian aircraft;
   > - (d) suspend or revoke any permission granted under article 137 of the ANO in respect of Belarusian aircraft.
 
   ;
-- (b)[^key-6b95b201ba4a82af5feaceb0508787da] in paragraph (2)—
+- (b)[^c-6b95b201ba4a82af5feaceb0508787da] in paragraph (2)—
   - (i) for “United Kingdom”, in both places it occurs, substitute “Territory”;
   - (ii) in sub-paragraph (b), for “.” substitute “;”;
   - (iii) after sub-paragraph (b) insert—
@@ -328,13 +328,13 @@ Article 2
 
     ;
 - (c) in paragraph (3), for “Secretary of State” substitute “Governor”;
-- (d)[^key-ad97640a67571acba234883e8876de94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-d2b30c14eacd67446b2ef192c20a1c1e] in paragraph (5), for “Secretary of State” substitute “Governor”;
+- (d)[^c-ad97640a67571acba234883e8876de94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-d2b30c14eacd67446b2ef192c20a1c1e] in paragraph (5), for “Secretary of State” substitute “Governor”;
 - (f) at the end insert—
 
   > (9) The Secretary of State may direct the Governor to exercise any of the Governor’s powers under paragraphs (3) and (5).
 
-**15FA.**[^key-af01b13633bffa0f5368b6dd2a9616af] In regulation 29(B) (directions under regulation 29A), in paragraph (6), after “Secretary of State” insert “or Governor (as the case may be)”.
+**15FA.**[^c-af01b13633bffa0f5368b6dd2a9616af] In regulation 29(B) (directions under regulation 29A), in paragraph (6), after “Secretary of State” insert “or Governor (as the case may be)”.
 
 **15G.** For regulation 29C (directions under regulation 29A: supplementary) substitute—
 
@@ -354,7 +354,7 @@ Article 2
 >
 > (8) For the purposes of this regulation, a “direction” under regulation 29A includes the refusal or revocation of permission under regulation 29A(1).
 
-**15GA.**[^key-e235fcd18cc65e6228be02606d93590d] In regulation 29CA (registration of aircraft in the United Kingdom)—
+**15GA.**[^c-e235fcd18cc65e6228be02606d93590d] In regulation 29CA (registration of aircraft in the United Kingdom)—
 
 - (a) in the heading, for “United Kingdom” substitute “”Territory”;
 - (b) in each place where it appears in paragraphs (1), (2) and (5), for “CAA” substitute “Governor”;
@@ -390,7 +390,7 @@ Article 2
     ;
 - (b) in paragraph (3), after “in that section” insert “, unless otherwise provided in this regulation”.
 
-**15J.**[^key-062079eae678dbfea62fc5adcb70a109] In regulation 29F (prohibition on port entry)—
+**15J.**[^c-062079eae678dbfea62fc5adcb70a109] In regulation 29F (prohibition on port entry)—
 
 - (a) in paragraphs (1) and (2), for “United Kingdom”, in both places it occurs, substitute “Territory”;
 - (b) for paragraph (6) substitute—
@@ -478,7 +478,7 @@ Article 2
 - (a) in paragraph (5), in the definition of “specified ship”, after “under regulation 29K (specification of ships)” insert “(as it has effect in the United Kingdom)”;
 - (b) in paragraph (6), after “in that section”, insert “, unless otherwise provided in this Part”.
 
-**16.**[^key-e2fa891a631807b0a6308af0d75a8629] In regulation 30 (finance: exceptions from prohibitions)—
+**16.**[^c-e2fa891a631807b0a6308af0d75a8629] In regulation 30 (finance: exceptions from prohibitions)—
 
 - (a) omit paragraph (6);
 - (b) in paragraph (7), for the definition of “relevant institution” substitute—
@@ -486,7 +486,7 @@ Article 2
   > - “relevant institution”, in relation to the Territory, means a person domiciled in the Territory who would satisfy the threshold conditions for permission under Part 4A of the Financial Services and Markets Act 2000[^f00008] if it had its registered office (or if it does not have one, its head office) in the United Kingdom.
 - (c) omit paragraph (8).
 
-**16A.**[^key-530e73949a5e1502c38c290f46b52eda] For regulation 30ZA (asset-freeze etc.: exception from prohibitions for required payments) substitute—
+**16A.**[^c-530e73949a5e1502c38c290f46b52eda] For regulation 30ZA (asset-freeze etc.: exception from prohibitions for required payments) substitute—
 
 > **30ZA. Asset-freeze etc.: exception from prohibitions for required payments**
 >
@@ -517,11 +517,11 @@ Article 2
 
 .
 
-**17.**[^key-b37227534ddc9807dadee0a89d0ce4b9][^key-b7a34ced52bc149eee43520c8f9ae814] For regulation 30A (exceptions for authorised conduct outside the Territory) substitute—
+**17.**[^c-b37227534ddc9807dadee0a89d0ce4b9][^c-b7a34ced52bc149eee43520c8f9ae814] For regulation 30A (exceptions for authorised conduct outside the Territory) substitute—
 
 > **30A. Exceptions for authorised conduct outside the Territory**
 >
-> (1) Where a person’s conduct outside the Territory would, in the absence of this paragraph, contravene a prohibition in any of regulations 11 to 15 (asset-freeze etc.), 15B (loans and credit arrangements) , 15C (insurance and reinsurance services), 15CA (provision of financial services relating to foreign reserve and asset management)[^key-0f2f52e470738507eda71d89af00fa9f] or Chapters 2, [^key-790c1164c2acb87c119ccd9c9d76734b]... 2B or 2C (Trade), the prohibition is not contravened if the conduct is authorised by a licence issued under regulation 32 (Treasury licences) (as it has effect in the United Kingdom) or regulation 33 (trade licences) (as it has effect in the United Kingdom).
+> (1) Where a person’s conduct outside the Territory would, in the absence of this paragraph, contravene a prohibition in any of regulations 11 to 15 (asset-freeze etc.), 15B (loans and credit arrangements) , 15C (insurance and reinsurance services), 15CA (provision of financial services relating to foreign reserve and asset management)[^c-0f2f52e470738507eda71d89af00fa9f] or Chapters 2, [^c-790c1164c2acb87c119ccd9c9d76734b]... 2B or 2C (Trade), the prohibition is not contravened if the conduct is authorised by a licence issued under regulation 32 (Treasury licences) (as it has effect in the United Kingdom) or regulation 33 (trade licences) (as it has effect in the United Kingdom).
 >
 > (2) Where a person’s conduct in a relevant country would, in the absence of this paragraph, contravene a prohibition in any of regulations 11 to 15 or Chapter 2 or 3 of Part 5 (“the relevant prohibition”), the relevant prohibition is not contravened if the conduct is authorised by a licence or other authorisation which is issued—
 >
@@ -535,9 +535,9 @@ Article 2
 >   - (b) the Isle of Man, or
 >   - (c) any British overseas territory other than the Territory.
 
-**18.**[^key-d6f0d112ca6609095d72a1dfe2e1e784][^key-0767907d9a2f8e413040d94d135d2ffa] For regulation 31 (exception for acts done for purposes of national security or prevention of serious crime) substitute—
+**18.**[^c-d6f0d112ca6609095d72a1dfe2e1e784][^c-0767907d9a2f8e413040d94d135d2ffa] For regulation 31 (exception for acts done for purposes of national security or prevention of serious crime) substitute—
 
-> **31.** (1) Where an act would, in the absence of this paragraph, be prohibited by regulation 9(2) (confidential information in certain cases) or any prohibition in Part 3 (Finance), Part 5 (Trade) , Part 5A (Aircraft) or Part 5B (Ships)[^key-a308bbc9adf4c06895dce45ce69be4d6], that prohibition does not apply to the act if the act is one which—
+> **31.** (1) Where an act would, in the absence of this paragraph, be prohibited by regulation 9(2) (confidential information in certain cases) or any prohibition in Part 3 (Finance), Part 5 (Trade) , Part 5A (Aircraft) or Part 5B (Ships)[^c-a308bbc9adf4c06895dce45ce69be4d6], that prohibition does not apply to the act if the act is one which—
 >
 > - (a) a responsible officer has determined would be in the interests of—
 >   - (i) national security, or
@@ -553,35 +553,35 @@ Article 2
 >
 > (3) In this regulation, “**responsible officer**” means a person in the service of the Crown or holding office under the Crown in the United Kingdom, acting in the course of that person’s duty.
 
-**18A.**[^key-a2dd1c61497e71b262c74e4660d5d06e] In regulation 31A (exceptions relating to loans and credit arrangements)[^key-f5e67e1fae6f51a9e9b0a3cc8ea39766]...—
+**18A.**[^c-a2dd1c61497e71b262c74e4660d5d06e] In regulation 31A (exceptions relating to loans and credit arrangements)[^c-f5e67e1fae6f51a9e9b0a3cc8ea39766]...—
 
-- (a)[^key-ec56f5b24db41c219b2a10cd6a977c3e] in paragraph (2), for “paragraph 1(c)” substitute “paragraph 1(b)”;
+- (a)[^c-ec56f5b24db41c219b2a10cd6a977c3e] in paragraph (2), for “paragraph 1(c)” substitute “paragraph 1(b)”;
 - (b) in paragraph (3)(b)(i), for “United Kingdom” substitute “Territory”.
 
-**18B.** In regulation 31B (exceptions relating to insurance and reinsurance services)—[^key-7ff38f44e0df974c7f528621e48bc28e]
+**18B.** In regulation 31B (exceptions relating to insurance and reinsurance services)—[^c-7ff38f44e0df974c7f528621e48bc28e]
 
-- (a)[^key-86c59af2d3d61cc3879e1a38dcea1c1b] in paragraph (1), for “United Kingdom”, in each place it occurs, substitute “Territory”;
-- (b)[^key-e110abb6a09b868ffbdd575f9f74ef91] in paragraph (1)(b) omit “diplomatic mission or”.
+- (a)[^c-86c59af2d3d61cc3879e1a38dcea1c1b] in paragraph (1), for “United Kingdom”, in each place it occurs, substitute “Territory”;
+- (b)[^c-e110abb6a09b868ffbdd575f9f74ef91] in paragraph (1)(b) omit “diplomatic mission or”.
 
-**18C.**[^key-67d56235ec9f3c8e00193310a9875b6d] In regulation 31C(2) (trade: exceptions relating to mineral products for personal or humanitarian use), for “27K (supply and delivery of goods to places outside the UK)” substitute “27K (supply and delivery of goods to places outside the Territory)”.
+**18C.**[^c-67d56235ec9f3c8e00193310a9875b6d] In regulation 31C(2) (trade: exceptions relating to mineral products for personal or humanitarian use), for “27K (supply and delivery of goods to places outside the UK)” substitute “27K (supply and delivery of goods to places outside the Territory)”.
 
 **18D.** In regulation 31F(1) (trade: exceptions for emergencies in certain cases), for “Secretary of State” substitute “Governor”.
 
 **18E.** In regulation 31H (aircraft: exceptions relating to the safety of persons or aircraft), in paragraphs (1) and (2), in both places where it occurs, for “United Kingdom” substitute “Territory”.
 
-**19.**[^key-ee6023c1c4970237eeb5df9a0cf3c9f6][^key-017055a666345950c0a22b77e7d2b4bf] For regulation 32 (Treasury licences) substitute—
+**19.**[^c-ee6023c1c4970237eeb5df9a0cf3c9f6][^c-017055a666345950c0a22b77e7d2b4bf] For regulation 32 (Treasury licences) substitute—
 
 > **32. Financial sanctions licences**
 >
 > (1) The prohibitions in regulations 11 to 15 (asset-freeze etc.) do not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
 >
-> (1A)[^key-b1d6cdb488ae3e9f7241553adc23ac57] The prohibitions in regulation 15A (dealing with transferable securities and money market instruments) do not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
+> (1A)[^c-b1d6cdb488ae3e9f7241553adc23ac57] The prohibitions in regulation 15A (dealing with transferable securities and money market instruments) do not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
 >
 > (2) The prohibitions in regulation 15B (loans and credit arrangements) do not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
 >
 > (3) The prohibition in regulation 15C (insurance and reinsurance services) does not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
 >
-> (3A)[^key-02d5737445cbd9fd47e1f74c0568d75e] The prohibition in regulation 15CA (provision of financial services relating to foreign exchange reserve and asset management) does not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
+> (3A)[^c-02d5737445cbd9fd47e1f74c0568d75e] The prohibition in regulation 15CA (provision of financial services relating to foreign exchange reserve and asset management) does not apply to anything done under the authority of a licence issued by the Governor under this paragraph.
 >
 > (3B) Without prejudice to the generality of the powers conferred by paragraphs (1) to (3A), a licence issued by the Governor under those paragraphs may, in particular, authorise acts which would otherwise be prohibited by any of regulations 11 to 15CA (financial restrictions) for a particular period beginning with—
 >
@@ -596,17 +596,9 @@ Article 2
 >
 > (7) The Governor may issue a financial sanctions licence under paragraph (3) which authorises acts by a particular person only where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 3 of Schedule 3.
 >
-> (8)[^key-17e0df66b7cca37d509bb5f385830b87] The Governor may issue a licence under regulation 32(3A) which authorises acts by a particular person only where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 4 of Schedule 3.
+> (8)[^c-17e0df66b7cca37d509bb5f385830b87] The Governor may issue a licence under regulation 32(3A) which authorises acts by a particular person only where the Governor considers that it is appropriate to issue the licence for a purpose set out in Part 4 of Schedule 3.
 
-**20.**[^key-0d9beacb67091ff4e3e8273e5dc32011] In regulation 33 (trade licences)—
-
-- (a) the existing text becomes paragraph (1);
-- (b) in that paragraph, for “Secretary of State” substitute “Governor”;
-- (c) at the end insert—
-
-  > (2) The Governor may issue a licence under paragraph (1) only with the consent of the Secretary of State.
-
-**20A.**[^key-fa5a8eee88720ef331581900f527c99a] In regulation 33A (aircraft licences)—
+**20.**[^c-0d9beacb67091ff4e3e8273e5dc32011] In regulation 33 (trade licences)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) in that paragraph, for “Secretary of State” substitute “Governor”;
@@ -614,14 +606,22 @@ Article 2
 
   > (2) The Governor may issue a licence under paragraph (1) only with the consent of the Secretary of State.
 
-**21.**[^key-d30e774858d47175d4269df0205264c2] In regulation 34 (licences: general provisions)—
+**20A.**[^c-fa5a8eee88720ef331581900f527c99a] In regulation 33A (aircraft licences)—
+
+- (a) the existing text becomes paragraph (1);
+- (b) in that paragraph, for “Secretary of State” substitute “Governor”;
+- (c) at the end insert—
+
+  > (2) The Governor may issue a licence under paragraph (1) only with the consent of the Secretary of State.
+
+**21.**[^c-d30e774858d47175d4269df0205264c2] In regulation 34 (licences: general provisions)—
 
 - (a) in paragraph (1), for “Treasury licences” substitute “financial sanctions licences”;
 - (b) in paragraph (5), after “a licence may” insert “, with the consent of the Secretary of State,”.
 
-**22.**[^key-897d54b7846ebf2747bba91b6a0e7f43] In regulation 35 (finance: licensing offences), for “Treasury licence”, in both places it occurs, substitute “financial sanctions licence”.
+**22.**[^c-897d54b7846ebf2747bba91b6a0e7f43] In regulation 35 (finance: licensing offences), for “Treasury licence”, in both places it occurs, substitute “financial sanctions licence”.
 
-**23.**[^key-0d23f3710570b3aa417c3c96aaaff036] For regulation 37 (section 8B(1) to (3) of Immigration Act 1971: directions) substitute—
+**23.**[^c-0d23f3710570b3aa417c3c96aaaff036] For regulation 37 (section 8B(1) to (3) of Immigration Act 1971: directions) substitute—
 
 > **37. Immigration directions**
 >
@@ -638,21 +638,21 @@ Article 2
 >
 > (5) In this regulation, “specified” means specified in a direction under this regulation.
 
-**24.**[^key-5d469518c4eec1a6e8ae9dd89e0d49c6] In regulation 38 (finance: reporting obligations)—
+**24.**[^c-5d469518c4eec1a6e8ae9dd89e0d49c6] In regulation 38 (finance: reporting obligations)—
 
 - (a) for “Treasury”, in each place it occurs, substitute “Governor”;
 - (b) for paragraph (5) substitute—
 
   > (5) A relevant institution must inform the Governor without delay if that institution credits a frozen account in accordance with regulation 30(4) (finance: exceptions from prohibitions).
 
-**24A.**[^key-078b0bd314c0a3ebef92f46a95fb35e2] In regulation 38ZA (finance: reporting obligations for required payments)—
+**24A.**[^c-078b0bd314c0a3ebef92f46a95fb35e2] In regulation 38ZA (finance: reporting obligations for required payments)—
 
 - (a) in paragraphs (1), (2) and (3), for “Treasury” substitute “Governor”;
 - (b) in paragraph (5), for “30ZA(8)”, in both places it occurs, substitute “30ZA(7)”.
 
-**24B.**[^key-f7f0a63880b3a806db85b2eb8d85926f] In paragraphs (1), (2), (3), (4) and (5) of regulation 38A, for “Treasury” substitute “Governor”.
+**24B.**[^c-f7f0a63880b3a806db85b2eb8d85926f] In paragraphs (1), (2), (3), (4) and (5) of regulation 38A, for “Treasury” substitute “Governor”.
 
-**25.**[^key-bd679cd2bcc393abaac6ce5741dd536f] For regulation 39 (“relevant firm”) substitute—
+**25.**[^c-bd679cd2bcc393abaac6ce5741dd536f] For regulation 39 (“relevant firm”) substitute—
 
 > **39.** (1) The following are relevant firms for the purposes of regulation 38—
 >
@@ -672,7 +672,7 @@ Article 2
 > - (f) a person engaged in the business of making, supplying, selling (including selling by auction) or exchanging—
 >   - (i) articles made from gold, silver, platinum or palladium, or
 >   - (ii) precious stones or pearls.
-> - (g)[^key-2eea5cf1724766f411e536c4839715ba] a cryptoasset exchange provider;
+> - (g)[^c-2eea5cf1724766f411e536c4839715ba] a cryptoasset exchange provider;
 > - (h) a custodian wallet provider;
 > - (i) a high value dealer;
 > - (j) an art market participant;
@@ -695,7 +695,7 @@ Article 2
 >     - (i) a trustee of an express trust or similar legal arrangement, or
 >     - (ii) a nominee shareholder for a person.
 >
-> (2A)[^key-c5304ab29f8ea94ca9f81487cc858051] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
+> (2A)[^c-c5304ab29f8ea94ca9f81487cc858051] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
 >
 > - (a) exchanging, or arranging or making arrangements with a view to the exchange of, cryptoassets for money or money for cryptoassets,
 > - (b) exchanging, or arranging or making arrangements with a view to the exchange of, one cryptoasset for another, or
@@ -772,13 +772,13 @@ Article 2
 >
 > (3) For the purposes of regulation 38(1), information or another matter comes to a relevant firm “in the course of carrying on its business” if the information or other matter comes to the firm—
 >
-> - (a) in the case of a relevant firm within paragraph (1)(a), in the course of carrying on an activity in respect of which permission under Part 4A of the Financial Services and Markets Act 2000 would be required if it had its registered office (or if it does not have one, its head office) in the United Kingdom, [^key-8bbf0f464f25613329dbf3892844d0cc]...
-> - (aa)[^key-e00b3883bdaebb1d4143392dd6bd9bb7] in the case of a relevant firm within paragraph (1)(j)—
+> - (a) in the case of a relevant firm within paragraph (1)(a), in the course of carrying on an activity in respect of which permission under Part 4A of the Financial Services and Markets Act 2000 would be required if it had its registered office (or if it does not have one, its head office) in the United Kingdom, [^c-8bbf0f464f25613329dbf3892844d0cc]...
+> - (aa)[^c-e00b3883bdaebb1d4143392dd6bd9bb7] in the case of a relevant firm within paragraph (1)(j)—
 >   - (i) in the course of trading, or acting as an intermediary in the sale or purchase of, works of art when the value of the transaction, or a series of linked transactions, amounts to 10,000 euros or more, or
 >   - (ii) in the course of storing works of art where the value of the works of art so stored for a person amounts to 10,000 euros or more, and
 > - (b) in the case of a relevant firm within any other provision of paragraph (1), in the course of carrying on an activity mentioned in that provision.
 
-**26.**[^key-0bab3aa8ef62af3af435c7f93490aacb] In regulation 40 (finance: powers to request information)—
+**26.**[^c-0bab3aa8ef62af3af435c7f93490aacb] In regulation 40 (finance: powers to request information)—
 
 - (a) in paragraph (1), for “The Treasury” substitute “An authorised officer”;
 - (b) in paragraph (2)—
@@ -797,7 +797,7 @@ Article 2
 - (g) in paragraph (8), for “The Treasury” substitute “The authorised officer”;
 - (h) in paragraph (10), for “the Treasury”, in both places it occurs, substitute “the authorised officer”.
 
-**27.**[^key-52914fa402a5266e270292867ed03526] In regulation 41 (finance: production of documents)—
+**27.**[^c-52914fa402a5266e270292867ed03526] In regulation 41 (finance: production of documents)—
 
 - (a) in paragraph (2), for “the Treasury request that documents be produced, the Treasury” substitute “an authorised officer requests that documents be produced, the authorised officer”;
 - (b) for paragraph (3), substitute—
@@ -807,9 +807,9 @@ Article 2
   > - (a) take reasonable steps to obtain the documents (if they are not already in the person’s possession or control);
   > - (b) keep the documents under the person’s possession or control (except for the purpose of providing them to the authorised officer or as the authorised officer may otherwise permit).
 
-**28.**[^key-8e0467fc42bb8dd15561e49439fd9256] In regulation 42 (finance: information offences), in paragraph (1)(d), for “the Treasury” substitute “an authorised officer”.
+**28.**[^c-8e0467fc42bb8dd15561e49439fd9256] In regulation 42 (finance: information offences), in paragraph (1)(d), for “the Treasury” substitute “an authorised officer”.
 
-**29.**[^key-82f29671dc4ab89237d463bbd7d75779][^key-d5c8d2f7db3dc085a95b37e29a0a9c16] For regulation 43 (trade: application of information powers in CEMA) substitute—
+**29.**[^c-82f29671dc4ab89237d463bbd7d75779][^c-d5c8d2f7db3dc085a95b37e29a0a9c16] For regulation 43 (trade: application of information powers in CEMA) substitute—
 
 > **43. Trade: information powers**
 >
@@ -841,10 +841,10 @@ Article 2
 >
 > (8) For the purposes of paragraph (1), a “**relevant activity**” means an activity—
 >
-> - (a) which would, unless done under the authority of a trade licence, constitute a contravention of any prohibition in Chapters 2, [^key-045e8ba6c1a7b41e86d04c54f724d5aa]... 2B or 2C of Part 5 (Trade) except the prohibitions in regulation 21 (export of goods to, or for use in, Belarus) or 27I (import of goods originating from, or consigned from, Belarus), or[^key-bb2286d340804fc9d3aa9d0f59a1033e]
+> - (a) which would, unless done under the authority of a trade licence, constitute a contravention of any prohibition in Chapters 2, [^c-045e8ba6c1a7b41e86d04c54f724d5aa]... 2B or 2C of Part 5 (Trade) except the prohibitions in regulation 21 (export of goods to, or for use in, Belarus) or 27I (import of goods originating from, or consigned from, Belarus), or[^c-bb2286d340804fc9d3aa9d0f59a1033e]
 > - (b) which would constitute a contravention of the prohibition in regulation 28 (circumventing etc prohibitions).
 
-**30.**[^key-59a4e610819b9c5d6ea22d0bb0964859] After regulation 43 (trade: information powers) insert—
+**30.**[^c-59a4e610819b9c5d6ea22d0bb0964859] After regulation 43 (trade: information powers) insert—
 
 > **43A. Trade: information offences**
 >
@@ -857,15 +857,15 @@ Article 2
 >
 > (2) Where a person is convicted of an offence under this regulation, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
 
-**31.**[^key-a53adcc5b136ec32f868c34729510794] In regulation 44(4) (general trade licences: records), for “Secretary of State” substitute “Governor”.
+**31.**[^c-a53adcc5b136ec32f868c34729510794] In regulation 44(4) (general trade licences: records), for “Secretary of State” substitute “Governor”.
 
-**32.**[^key-16ecefdb94126e0af427bdcc334e5046] In regulation 45 (general trade licences: inspection of records)—
+**32.**[^c-16ecefdb94126e0af427bdcc334e5046] In regulation 45 (general trade licences: inspection of records)—
 
 - (a) in paragraph (1), for “A person authorised by the Secretary of State or the Commissioners (an “official”)” substitute “An authorised officer”;
 - (b) in paragraphs (2) to (5), for “official”, in each place it occurs, substitute “authorised officer”;
 - (c) in paragraph (5)(a), for “official’s functions” substitute “authorised officer’s functions”.
 
-**33.**[^key-4a06c5db567591079fab6ad1e3e3aa2e][^key-1628618258e203bf7e11b2fc1c0cfb57] In regulation 46 (disclosure of information)—
+**33.**[^c-4a06c5db567591079fab6ad1e3e3aa2e][^c-1628618258e203bf7e11b2fc1c0cfb57] In regulation 46 (disclosure of information)—
 
 - (a) in paragraph (1), for “Secretary of State, the Treasury or the Commissioners” substitute “Governor or an authorised officer”;
 - (b) in paragraph (2)—
@@ -876,12 +876,12 @@ Article 2
     ;
   - (ii) in sub-paragraph (d)—
     - (aa) in paragraph (i), after “Regulations” insert “(as they have effect in the United Kingdom)”;
-    - (bb) in paragraph (ii), after regulation 21 (export of goods to, or for use in, Belarus) or 27I (import of goods originating from, or consigned from, Belarus)” insert[^key-c32e82696af620950c681ef9a62818a2] “(as they have effect in the United Kingdom)”;
+    - (bb) in paragraph (ii), after regulation 21 (export of goods to, or for use in, Belarus) or 27I (import of goods originating from, or consigned from, Belarus)” insert[^c-c32e82696af620950c681ef9a62818a2] “(as they have effect in the United Kingdom)”;
   - (iii) in sub-paragraph (e), after “any British overseas territory” insert “other than the Territory”;
   - (iv) in sub-paragraph (g), for “United Kingdom” substitute “Territory”;
 - (c) in paragraph (3)(j), for “Secretary of State, the Treasury or the Commissioners (as the case may be)” substitute “Governor”.
 
-**33A.**[^key-49b1b27f299fbea99a927455eec68829] For regulation 46A (finance: disclosure to the Treasury) substitute—
+**33A.**[^c-49b1b27f299fbea99a927455eec68829] For regulation 46A (finance: disclosure to the Treasury) substitute—
 
 > **46A. Finance: disclosure to the Governor**
 >
@@ -896,7 +896,7 @@ Article 2
 
 .
 
-**34.**[^key-5904a9150d8f4f1520bb554c7dd5c117] In regulation 47 (Part 7: supplementary)—
+**34.**[^c-5904a9150d8f4f1520bb554c7dd5c117] In regulation 47 (Part 7: supplementary)—
 
 - (a) for paragraph (2) substitute—
 
@@ -907,7 +907,7 @@ Article 2
   > (5A) An authorised officer must, if requested to do so, produce evidence of their authority before exercising any power conferred by this Part.
 - (d) in paragraph (6), in the definition of “privileged information”, omit “(in Scotland, to confidentiality of communications)”.
 
-**35.**[^key-fe6f987a193ad962401901b387177a60] In Part 8 (Enforcement), at the beginning insert—
+**35.**[^c-fe6f987a193ad962401901b387177a60] In Part 8 (Enforcement), at the beginning insert—
 
 > **47A. Suspected ships, aircraft or vehicles**
 >
@@ -997,7 +997,7 @@ Article 2
 > - “restricted goods” has the meaning given in regulation 18 (definition of “restricted goods” and “restricted technology”);
 > - “relevant offence” means an offence which is punishable with a term of imprisonment of more than 6 months.
 
-**36.**[^key-cb4c4c9bc546ecbd0a9db1bb7f027da7][^key-67dd1a94070f609f3cd56da07025427e] For regulation 48 (penalties for offences) substitute—
+**36.**[^c-cb4c4c9bc546ecbd0a9db1bb7f027da7][^c-67dd1a94070f609f3cd56da07025427e] For regulation 48 (penalties for offences) substitute—
 
 > **48.** (1) Paragraphs (3) to (7) apply to—
 >
@@ -1017,7 +1017,7 @@ Article 2
 > - (c) South Georgia and the South Sandwich Islands;
 > - (d) the Sovereign Base Areas of Akrotiri and Dhekelia in the Island of Cyprus.
 >
-> (3) A person who commits an offence under any provision of Part 3 (Finance), regulation 29D(A1) to (3) (aircraft offences), 29F (prohibition on port entry), 29G(4) (directions prohibiting port entry), 29H(3) (movement of ships)[^key-4e526704dc3f8a6770dd641855595a9b] or regulation 35 (finance: licensing offences) is liable—
+> (3) A person who commits an offence under any provision of Part 3 (Finance), regulation 29D(A1) to (3) (aircraft offences), 29F (prohibition on port entry), 29G(4) (directions prohibiting port entry), 29H(3) (movement of ships)[^c-4e526704dc3f8a6770dd641855595a9b] or regulation 35 (finance: licensing offences) is liable—
 >
 > - (a) on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both;
 > - (b) on conviction on indictment, to imprisonment for a term not exceeding 7 years, or a fine, or both.
@@ -1027,12 +1027,12 @@ Article 2
 > - (a) on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both;
 > - (b) on conviction on indictment, to imprisonment for a term not exceeding 10 years, or a fine, or both.
 >
-> (5) A person who commits an offence under regulation 9(6) (confidentiality), 36 (trade: licensing offences), 36A (aircraft: licensing offences)[^key-b062a516b7e89cc79e823f7026796d1b], 44(6) or 45(5) (offences in connection with trade licences) is liable—
+> (5) A person who commits an offence under regulation 9(6) (confidentiality), 36 (trade: licensing offences), 36A (aircraft: licensing offences)[^c-b062a516b7e89cc79e823f7026796d1b], 44(6) or 45(5) (offences in connection with trade licences) is liable—
 >
 > - (a) on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both;
 > - (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years, or a fine, or both.
 >
-> (6) A person who commits an offence under regulation 29D(4) (confidentiality), 29G(6) (directions prohibiting entry: confidentiality), 29H(5) (movement of ships: confidentiality),[^key-7ab7812af1937e9f99f8db6764d00d1a] 38(6) or 42 (information offences in connection with Part 3) is liable, on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both.
+> (6) A person who commits an offence under regulation 29D(4) (confidentiality), 29G(6) (directions prohibiting entry: confidentiality), 29H(5) (movement of ships: confidentiality),[^c-7ab7812af1937e9f99f8db6764d00d1a] 38(6) or 42 (information offences in connection with Part 3) is liable, on summary conviction, to imprisonment for a term not exceeding 6 months, or a fine not exceeding £5,000 or its equivalent in the currency of the Territory, or both.
 >
 > (7) A person who commits an offence under regulation 43A (trade: information offences) is liable, on summary conviction, to a fine not exceeding £1,000 or its equivalent in the currency of the Territory.
 >
@@ -1048,14 +1048,14 @@ Article 2
 >
 > (13) Where a fine in this regulation is expressed to be a sum in sterling or its equivalent in the currency of the Territory, the Governor may issue guidance specifying how to calculate the amount in the currency of the Territory which is to be considered equivalent to that sum in sterling.
 
-**37.**[^key-842d536fccff0612a9b31f8a7291f5e9] In regulation 49 (liability of officers of bodies corporate etc), omit paragraph (4).
+**37.**[^c-842d536fccff0612a9b31f8a7291f5e9] In regulation 49 (liability of officers of bodies corporate etc), omit paragraph (4).
 
-**38.**[^key-327259d2285f2d83d0871d2ec7637756] In regulation 50 (jurisdiction to try offences)—
+**38.**[^c-327259d2285f2d83d0871d2ec7637756] In regulation 50 (jurisdiction to try offences)—
 
 - (a) in paragraphs (1) and (2), for “United Kingdom”, in each place it occurs, substitute “Territory”;
 - (b) omit paragraphs (3) and (4).
 
-**39.**[^key-f6f55fde458357da746daecda887cd7e] After regulation 50 (jurisdiction to try offences), insert—
+**39.**[^c-f6f55fde458357da746daecda887cd7e] After regulation 50 (jurisdiction to try offences), insert—
 
 > **50A. Consent to prosecutions**
 >
@@ -1066,25 +1066,25 @@ Article 2
 > - (a) the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of an offence under these Regulations, or
 > - (b) the remand in custody or on bail of any person charged with such an offence.
 
-**40.**[^key-0a97090342bf9ab35b9ff022037132e7] For regulation 51 (procedure for offences by unincorporated bodies) substitute—
+**40.**[^c-0a97090342bf9ab35b9ff022037132e7] For regulation 51 (procedure for offences by unincorporated bodies) substitute—
 
 > **51.** Any provision in an enactment which applies in the Territory in relation to criminal proceedings brought against a body corporate applies also for the purposes of proceedings in the Territory for an offence under these Regulations brought against an unincorporated body.
 
-**41.**[^key-9335c789b3c887364d9b21eb4db92d3a] In regulation 52 (time limit for proceedings for summary offences), omit paragraph (4).
+**41.**[^c-9335c789b3c887364d9b21eb4db92d3a] In regulation 52 (time limit for proceedings for summary offences), omit paragraph (4).
 
-**42.**[^key-4f85045a1c4d0d7f78b801028f2f1dfa] Omit regulation 53 (trade enforcement: application of CEMA) (including the heading).
+**42.**[^c-4f85045a1c4d0d7f78b801028f2f1dfa] Omit regulation 53 (trade enforcement: application of CEMA) (including the heading).
 
-**43.**[^key-0f61c23cf387d62bc72655eac9832a7a] Omit regulation 54 (trade offences in CEMA: modification of penalty) (including the heading).
+**43.**[^c-0f61c23cf387d62bc72655eac9832a7a] Omit regulation 54 (trade offences in CEMA: modification of penalty) (including the heading).
 
-**44.**[^key-965eb9f18cb0cc14942e9b63ee401406] Omit regulation 55 (application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^f00010]) (including the heading).
+**44.**[^c-965eb9f18cb0cc14942e9b63ee401406] Omit regulation 55 (application of Chapter 1 of Part 2 of Serious Organised Crime and Police Act 2005[^f00010]) (including the heading).
 
-**45.**[^key-e9de0ce89c61f69e58b86d572b3d077a] Omit regulation 56 (monetary penalties) (including the heading).
+**45.**[^c-e9de0ce89c61f69e58b86d572b3d077a] Omit regulation 56 (monetary penalties) (including the heading).
 
-**45A.**[^key-2471ea20d2c257d40625987a1cfbf78f] (1) Omit regulation 56A (OFCOM: power to impose monetary penalties) (including the heading).
+**45A.**[^c-2471ea20d2c257d40625987a1cfbf78f] (1) Omit regulation 56A (OFCOM: power to impose monetary penalties) (including the heading).
 
 (2) Omit regulation 56B (OFCOM: monetary penalties: procedural rights) (including the heading).
 
-**45B.**[^key-9d41c88ae15bbb825f6cdc823d5a3407] In regulation 56C (Treasury: power to impose monetary penalties)—
+**45B.**[^c-9d41c88ae15bbb825f6cdc823d5a3407] In regulation 56C (Treasury: power to impose monetary penalties)—
 
 - (a) in the heading, for “Treasury: power to impose monetary penalties” substitute “Power to impose monetary penalties”;
 - (b) in paragraphs (1) and (8), for “Treasury” substitute “Governor or an authorised person”;
@@ -1106,7 +1106,7 @@ Article 2
 
   .
 
-**45C.**[^key-6f3091616c96a5f80780f9d7531e1509] For regulation 56D (Treasury monetary penalties: procedural rights) substitute—
+**45C.**[^c-6f3091616c96a5f80780f9d7531e1509] For regulation 56D (Treasury monetary penalties: procedural rights) substitute—
 
 > **56D. Monetary penalties: procedural rights**
 >
@@ -1136,7 +1136,7 @@ Article 2
 
 .
 
-**46.**[^key-da5bdedfe60a79dd43f50ff1060b1325] In regulation 57 (exercise of maritime enforcement powers)—
+**46.**[^c-da5bdedfe60a79dd43f50ff1060b1325] In regulation 57 (exercise of maritime enforcement powers)—
 
 - (a) for paragraph (1) substitute—
 
@@ -1146,7 +1146,7 @@ Article 2
 
   > (6) In this Part, “a relevant ship” means, in relation to the Territory, a Territory ship.
 
-**47.**[^key-9c1209f6f56151925009dd21e5067993] In regulation 58 (maritime enforcement officers)—
+**47.**[^c-9c1209f6f56151925009dd21e5067993] In regulation 58 (maritime enforcement officers)—
 
 - (a) in paragraph (1)—
   - (i) omit sub-paragraphs (b), (d), (e), (f) and (h);
@@ -1162,21 +1162,21 @@ Article 2
     ;
 - (b) omit paragraph (2).
 
-**48.**[^key-a39a8a03992fa7468aae129eaa58018f] In regulation 59(2)(c) (power to stop, board, search etc), for “United Kingdom” substitute “Territory”.
+**48.**[^c-a39a8a03992fa7468aae129eaa58018f] In regulation 59(2)(c) (power to stop, board, search etc), for “United Kingdom” substitute “Territory”.
 
-**49.**[^key-10f17610f173f5fc14427948dde29ed6] Omit regulation 61 (restrictions on exercise of maritime enforcement powers) (including the heading).
+**49.**[^c-10f17610f173f5fc14427948dde29ed6] Omit regulation 61 (restrictions on exercise of maritime enforcement powers) (including the heading).
 
-**50.**[^key-7dc635272926435a71e910e27c3b12cc] In regulation 63 (notices), for “United Kingdom”, in each place it occurs, substitute “Territory”.
+**50.**[^c-7dc635272926435a71e910e27c3b12cc] In regulation 63 (notices), for “United Kingdom”, in each place it occurs, substitute “Territory”.
 
-**51.**[^key-402a47f5603aa877d7da04bef9a389c9] Omit regulation 64 (article 20 of the Export Control Order 2008) (including the heading).
+**51.**[^c-402a47f5603aa877d7da04bef9a389c9] Omit regulation 64 (article 20 of the Export Control Order 2008) (including the heading).
 
-**52.**[^key-afbcaed24453f66998b52c8efc265252] Omit regulation 65 (trade: overlapping offences) (including the heading).
+**52.**[^c-afbcaed24453f66998b52c8efc265252] Omit regulation 65 (trade: overlapping offences) (including the heading).
 
-**53.**[^key-7f6a649b3104e303cb706ddd03d748ee] Omit regulation 66 (revocation of the Belarus Council Regulation) (including the heading).
+**53.**[^c-7f6a649b3104e303cb706ddd03d748ee] Omit regulation 66 (revocation of the Belarus Council Regulation) (including the heading).
 
-**54.**[^key-f1dfe7335f4a1081c7f059fe4a48d023] Omit regulation 67 (other revocations and amendments) (including the heading).
+**54.**[^c-f1dfe7335f4a1081c7f059fe4a48d023] Omit regulation 67 (other revocations and amendments) (including the heading).
 
-**55.**[^key-eeb5e0aede59833a8893aa7703cd0f83] In regulation 68 (transitional provision: Treasury licences)—
+**55.**[^c-eeb5e0aede59833a8893aa7703cd0f83] In regulation 68 (transitional provision: Treasury licences)—
 
 - (a) in the heading, for “Treasury licences” substitute “financial sanctions licences”;
 - (b) in paragraph (1)(a), for “, or deemed to be granted, by the Treasury under regulation 9 of the 2013 Regulations” substitute “by the Governor under article 8 of the 2011 Order”;
@@ -1199,7 +1199,7 @@ Article 2
 
     > - “the relevant date” means the date on which Part 3 comes into force.
 
-**56.**[^key-5038a4c19f4084806d42291941fe5403] For regulation 69 (transitional provision: trade licences) substitute—
+**56.**[^c-5038a4c19f4084806d42291941fe5403] For regulation 69 (transitional provision: trade licences) substitute—
 
 > **69.** (1) Paragraphs (2) and (3) apply to a licence which—
 >
@@ -1218,7 +1218,7 @@ Article 2
 > - “the 2011 Order” has the meaning it has in regulation 68 (transitional provision: financial sanctions licences);
 > - “the relevant date” means the date on which Part 5 comes into force.
 
-**57.**[^key-ef3495a67dbd7fbd5530e4d3e5ae7f77] For regulation 70 (transitional provision: pending applications for trade licences) substitute—
+**57.**[^c-ef3495a67dbd7fbd5530e4d3e5ae7f77] For regulation 70 (transitional provision: pending applications for trade licences) substitute—
 
 > **70.** (1) Paragraph (2) applies where—
 >
@@ -1233,20 +1233,20 @@ Article 2
 > - “the 2011 Order” has the meaning it has in regulation 68 (transitional provision: financial sanctions licences);
 > - “the relevant date” means the date on which Part 5 comes into force.
 
-**58.**[^key-f0dcd2a542a4fc6dc87b21de85c1b728] In regulation 71 (transitional provisions: prior obligations)—
+**58.**[^c-f0dcd2a542a4fc6dc87b21de85c1b728] In regulation 71 (transitional provisions: prior obligations)—
 
 - (a) in paragraph (2)(b), for “(Treasury licences: purposes)” substitute “(financial sanctions licences: purposes)”;
 - (b) in paragraph (3), for the definition of “the relevant date” substitute—
 
   > - “the relevant date” means the date on which Part 3 comes into force.
 
-**59.**[^key-52f91cd17579e9b2f6ec1d76be53d0dd] In Schedule 3 (Treasury licences: purposes)—
+**59.**[^c-52f91cd17579e9b2f6ec1d76be53d0dd] In Schedule 3 (Treasury licences: purposes)—
 
 - (a) in the heading, for “Treasury licences” substitute “Financial sanctions licences”;
-- (b) in the definition of “frozen funds or economic resources” in paragraph 1(1)[^key-ae000d8c3f24ddd8524b3e31a64f716f], for “the designation of that person for the purpose of that regulation” substitute “that person being a designated person for the purposes of Part 3 (Finance) as defined in regulation 10 (meaning of “designated person” in Part 3)”;
-- (c)[^key-8bbba191602cc819043b6b70a6c18553] in paragraph 6 (judicial decisions etc.), for “United Kingdom” substitute “Territory”;
-- (ca)[^key-06e075b81152af7da8fa36592d3a7cef] in paragraph 7(2) (diplomatic missions etc.), for “diplomatic mission or consular post of Belarus in the United Kingdom” substitute “consular post of Belarus in the Territory”;
-- (cb)[^key-4dd1f44c043ba3024fad62c16237027c] for paragraph 10C (insolvency) substitute—
+- (b) in the definition of “frozen funds or economic resources” in paragraph 1(1)[^c-ae000d8c3f24ddd8524b3e31a64f716f], for “the designation of that person for the purpose of that regulation” substitute “that person being a designated person for the purposes of Part 3 (Finance) as defined in regulation 10 (meaning of “designated person” in Part 3)”;
+- (c)[^c-8bbba191602cc819043b6b70a6c18553] in paragraph 6 (judicial decisions etc.), for “United Kingdom” substitute “Territory”;
+- (ca)[^c-06e075b81152af7da8fa36592d3a7cef] in paragraph 7(2) (diplomatic missions etc.), for “diplomatic mission or consular post of Belarus in the United Kingdom” substitute “consular post of Belarus in the Territory”;
+- (cb)[^c-4dd1f44c043ba3024fad62c16237027c] for paragraph 10C (insolvency) substitute—
 
   > **10C. Insolvency**
   >
@@ -1273,8 +1273,8 @@ Article 2
   >   - (b) the value of P’s assets is less than the amount of its liabilities, taking into account its contingent and prospective liabilities.
 
   ;
-- (d)[^key-94d63db9190948b7a12ed6659e65d9cf] in paragraph 14 (diplomatic missions etc.), for “diplomatic mission or consular post of Belarus in the United Kingdom” substitute “consular mission of Belarus in the Territory;
-- (da)[^key-abddcec8fd53e0600894a9e947d524b6] for paragraph 14C substitute—
+- (d)[^c-94d63db9190948b7a12ed6659e65d9cf] in paragraph 14 (diplomatic missions etc.), for “diplomatic mission or consular post of Belarus in the United Kingdom” substitute “consular mission of Belarus in the Territory;
+- (da)[^c-abddcec8fd53e0600894a9e947d524b6] for paragraph 14C substitute—
 
   > **14C. Insolvency**
   >
@@ -1301,10 +1301,10 @@ Article 2
   >   - (b) the value of P’s assets is less than the amount of its liabilities, taking into account its contingent and prospective liabilities.
 
   ;
-- (e)[^key-8ce327525ab3292c1b2db17c554fab95] in paragraph 21(2) (financial regulation), for “United Kingdom, including the Financial Conduct Authority, the Prudential Regulation Authority and the Bank of England” substitute “Territory”;
+- (e)[^c-8ce327525ab3292c1b2db17c554fab95] in paragraph 21(2) (financial regulation), for “United Kingdom, including the Financial Conduct Authority, the Prudential Regulation Authority and the Bank of England” substitute “Territory”;
 - (f) in paragraph 22(2) (financial stability), for “Bank of England, that is necessary or expedient in order to protect or enhance the stability of the financial system of the United Kingdom” substitute “central monetary authority of the Territory, that is necessary or expedient in order to protect or enhance the stability of the financial system of the Territory”;
 - (g) in paragraph 23 (safety and soundness of a firm), for “the relevant supervising authority or authorities, that is necessary or expedient in order to promote the safety and soundness of a firm which is supervised by the Bank of England, the Prudential Regulation Authority or the Financial Conduct Authority” substitute “the authority responsible for the regulation of financial services in the Territory that is necessary or expedient in order to promote the safety and soundness of a firm which is supervised by that authority”.
-- (h)[^key-7787ec2b47beba23bfac51e6526a16e9] for paragraph 25 substitute—
+- (h)[^c-7787ec2b47beba23bfac51e6526a16e9] for paragraph 25 substitute—
 
   > **25. Insolvency**
   >
@@ -1334,284 +1334,284 @@ Article 2
 
 ## Annotations
 
-[^key-0ed32c2f04bf35042371c7fe0c69ef1e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/1) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-0ed32c2f04bf35042371c7fe0c69ef1e]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/1) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-8d293ce7eab62b0a9bfad0e4814b711f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/2) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-8d293ce7eab62b0a9bfad0e4814b711f]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/2) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-71e3e558d9d06d8ba2be5f48919782b3]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/2/b/i) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1339/article/3)
+[^c-71e3e558d9d06d8ba2be5f48919782b3]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/2/b/i) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [3](https://www.legislation.gov.uk/uksi/2022/1339/article/3)
 
-[^key-7765a8c383d23ab2802abfe93b677378]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/2/b/i) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/1)
+[^c-7765a8c383d23ab2802abfe93b677378]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/2/b/i) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/1)
 
 [^f00005]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61). Part IV has been amended by the British Overseas Territories Act [2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), section 1(1)(b); and the Nationality, Immigration and Asylum Act [2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41), Schedule 2, paragraph 1(i).
 
-[^key-28846e9b8bdd50a082daa5cf2e6b6116]: Textual amendment: [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/2/c) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/a)
+[^c-28846e9b8bdd50a082daa5cf2e6b6116]: Textual amendment: [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/2/c) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/a)
 
-[^key-ffed32363e1022a9a7de1f3c0d561812]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/3) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-ffed32363e1022a9a7de1f3c0d561812]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/3) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-99b141215c7bb6663465e5ea2922f0ea]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/3): semicolon substituted for full stop (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/4/a)
+[^c-99b141215c7bb6663465e5ea2922f0ea]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/3): semicolon substituted for full stop (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/4/a)
 
-[^key-0ad2c71dcf198dbe20830722c83b4013]: Textual amendment: [Sch. 2 para. 3(f)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/3/f) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/4/b)
+[^c-0ad2c71dcf198dbe20830722c83b4013]: Textual amendment: [Sch. 2 para. 3(f)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/3/f) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/4/b)
 
-[^key-066a175c4619a08f6f3a4b74753bd5fb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/4) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-066a175c4619a08f6f3a4b74753bd5fb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/4) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-a4527680c4ff73900df74eebf213c527]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/5) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-a4527680c4ff73900df74eebf213c527]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/5) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-310f83bc3c72ada28184b43f457db250]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/6) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-310f83bc3c72ada28184b43f457db250]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/6) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-d25e4fbea2e7ec4e1c3821c4bcc57fca]: Textual amendment: [Sch. 2 paras. 6A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/6A), [6B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/6B) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [5](https://www.legislation.gov.uk/uksi/2022/1339/article/5)
+[^c-d25e4fbea2e7ec4e1c3821c4bcc57fca]: Textual amendment: [Sch. 2 paras. 6A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/6A), [6B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/6B) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [5](https://www.legislation.gov.uk/uksi/2022/1339/article/5)
 
-[^key-1a28c1978711abcf769c0ee6c772bfc2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/7) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-1a28c1978711abcf769c0ee6c772bfc2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/7) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-fe4176d6403199d84eedd04383b6f090]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/8) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-fe4176d6403199d84eedd04383b6f090]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/8) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-00f1e774a9c78021be5632b50c7e780b]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/8) heading substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/6/a)
+[^c-00f1e774a9c78021be5632b50c7e780b]: Textual amendment: Words in [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/8) heading substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/6/a)
 
-[^key-e4656f2a15ae7ef1e990fb7fdf713e6f]: Textual amendment: Words in [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/8/4) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2022/1339/article/6/b/i)
+[^c-e4656f2a15ae7ef1e990fb7fdf713e6f]: Textual amendment: Words in [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/8/4) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [6(b)(i)](https://www.legislation.gov.uk/uksi/2022/1339/article/6/b/i)
 
-[^key-a4ba221bda838313abffa982f9b61516]: Textual amendment: Words in [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/8/4) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1339/article/6/b/ii)
+[^c-a4ba221bda838313abffa982f9b61516]: Textual amendment: Words in [Sch. 2 para. 8(4)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/8/4) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [6(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1339/article/6/b/ii)
 
-[^key-e95136e6b6591761d57099f1599a5656]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/9) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-e95136e6b6591761d57099f1599a5656]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/9) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-91e78ecfa73e9aba5e7afacd88ab07d9]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/9A) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [7](https://www.legislation.gov.uk/uksi/2022/1339/article/7)
+[^c-91e78ecfa73e9aba5e7afacd88ab07d9]: Textual amendment: [Sch. 2 para. 9A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/9A) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [7](https://www.legislation.gov.uk/uksi/2022/1339/article/7)
 
-[^key-b568f352fd5ee23ea4f49bf1f6236ede]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/10) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-b568f352fd5ee23ea4f49bf1f6236ede]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/10) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-f9831dd2c6bf8926c737eadd11443bc2]: Textual amendment: [Sch. 2 para. 10A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/10A) inserted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/b)
+[^c-f9831dd2c6bf8926c737eadd11443bc2]: Textual amendment: [Sch. 2 para. 10A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/10A) inserted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/b)
 
-[^key-b49607a79960c3ad4d5ab7bee7efc64d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/11) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-b49607a79960c3ad4d5ab7bee7efc64d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/11) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
 [^f00006]: Footnote: ETS Numbers 005, 009, 046, 114, 117, 177, 187 and CETS Numbers 194, 213 and 214.
 
 [^f00007]: Footnote: United Nations Treaty Series, vol. 189, p. 137 and vol. 606, p. 267.
 
-[^key-2a817b8c33ee5d908608b8ec97b09486]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/12) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-2a817b8c33ee5d908608b8ec97b09486]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/12) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-a6ad9ad0dee2f37e0486dddfaeae32a4]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/13) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-a6ad9ad0dee2f37e0486dddfaeae32a4]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/13) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-d441e2c9daaa40babd5b832b17aa9790]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/13) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [8](https://www.legislation.gov.uk/uksi/2022/1339/article/8)
+[^c-d441e2c9daaa40babd5b832b17aa9790]: Textual amendment: Words in [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/13) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [8](https://www.legislation.gov.uk/uksi/2022/1339/article/8)
 
-[^key-4443164555c7dc53e0c567668d3b8227]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/14) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-4443164555c7dc53e0c567668d3b8227]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/14) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-c3138acb7b45e9be623f620ee26cb0fa]: Textual amendment: Words in [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/14) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [9](https://www.legislation.gov.uk/uksi/2022/1339/article/9)
+[^c-c3138acb7b45e9be623f620ee26cb0fa]: Textual amendment: Words in [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/14) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [9](https://www.legislation.gov.uk/uksi/2022/1339/article/9)
 
-[^key-590cb42c8224a31bbfa32d663e630f3b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-590cb42c8224a31bbfa32d663e630f3b]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-0076289dde84ea95fde865b39aca562e]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [10](https://www.legislation.gov.uk/uksi/2022/1339/article/10)
+[^c-0076289dde84ea95fde865b39aca562e]: Textual amendment: Words in [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [10](https://www.legislation.gov.uk/uksi/2022/1339/article/10)
 
-[^key-431acbdebc038837752e8bdd77e8582b]: Textual amendment: [Sch. 2 para. 15A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15A) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [11](https://www.legislation.gov.uk/uksi/2022/1339/article/11)
+[^c-431acbdebc038837752e8bdd77e8582b]: Textual amendment: [Sch. 2 para. 15A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15A) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [11](https://www.legislation.gov.uk/uksi/2022/1339/article/11)
 
-[^key-9e9695f392655e0547303704463172b8]: Textual amendment: [Sch. 2 para. 15B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15B) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [12](https://www.legislation.gov.uk/uksi/2022/1339/article/12)
+[^c-9e9695f392655e0547303704463172b8]: Textual amendment: [Sch. 2 para. 15B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15B) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [12](https://www.legislation.gov.uk/uksi/2022/1339/article/12)
 
-[^key-23189d2606e4cc9a98aa8fed5aa42f68]: Textual amendment: [Sch. 2 paras. 15A-15I](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15A) inserted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/c)
+[^c-23189d2606e4cc9a98aa8fed5aa42f68]: Textual amendment: [Sch. 2 paras. 15A-15I](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15A) inserted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/c)
 
-[^key-b68932fa8f6c157a63f17406389a0612]: Textual amendment: Words in [Sch. 2 para. 15C](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15C) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/13/a)
+[^c-b68932fa8f6c157a63f17406389a0612]: Textual amendment: Words in [Sch. 2 para. 15C](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15C) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [13(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/13/a)
 
-[^key-f171121b62ef37a43b44c973d6ee3e4d]: Textual amendment: [Sch. 2 para. 15C(za)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15C/za) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/13/b)
+[^c-f171121b62ef37a43b44c973d6ee3e4d]: Textual amendment: [Sch. 2 para. 15C(za)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15C/za) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [13(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/13/b)
 
-[^key-d4bf7f7c407abae1bc3319a52a9e3841]: Textual amendment: Words in [Sch. 2 para. 15D](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15D) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [14](https://www.legislation.gov.uk/uksi/2022/1339/article/14)
+[^c-d4bf7f7c407abae1bc3319a52a9e3841]: Textual amendment: Words in [Sch. 2 para. 15D](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15D) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [14](https://www.legislation.gov.uk/uksi/2022/1339/article/14)
 
-[^key-1ad16040427d8ca59cfb366cc85a6b04]: Textual amendment: Words in [Sch. 2 para. 15E](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15E) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [15](https://www.legislation.gov.uk/uksi/2022/1339/article/15)
+[^c-1ad16040427d8ca59cfb366cc85a6b04]: Textual amendment: Words in [Sch. 2 para. 15E](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15E) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [15](https://www.legislation.gov.uk/uksi/2022/1339/article/15)
 
-[^key-0e5fda6e28009ea025def848bc8120d5]: Textual amendment: [Sch. 2 paras. 15EA](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15EA), [15EB](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15EB) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [16](https://www.legislation.gov.uk/uksi/2022/1339/article/16)
+[^c-0e5fda6e28009ea025def848bc8120d5]: Textual amendment: [Sch. 2 paras. 15EA](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15EA), [15EB](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15EB) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [16](https://www.legislation.gov.uk/uksi/2022/1339/article/16)
 
-[^key-26d4ca036cc5481858e4d5da31a5b8dd]: Textual amendment: [Sch. 2 para. 15F(za)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/za) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/a)
+[^c-26d4ca036cc5481858e4d5da31a5b8dd]: Textual amendment: [Sch. 2 para. 15F(za)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/za) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/a)
 
-[^key-082249b9be18c0ba35bec96b6cbaf12a]: Textual amendment: Words in [Sch. 2 para. 15F(a)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/a) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/b)
+[^c-082249b9be18c0ba35bec96b6cbaf12a]: Textual amendment: Words in [Sch. 2 para. 15F(a)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/a) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/b)
 
-[^key-6b95b201ba4a82af5feaceb0508787da]: Textual amendment: [Sch. 2 para. 15F(b)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/b) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/c)
+[^c-6b95b201ba4a82af5feaceb0508787da]: Textual amendment: [Sch. 2 para. 15F(b)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/b) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/c)
 
-[^key-ad97640a67571acba234883e8876de94]: Textual amendment: [Sch. 2 para. 15F(d)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/d) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(d)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/d)
+[^c-ad97640a67571acba234883e8876de94]: Textual amendment: [Sch. 2 para. 15F(d)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/d) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(d)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/d)
 
-[^key-d2b30c14eacd67446b2ef192c20a1c1e]: Textual amendment: [Sch. 2 para. 15F(e)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/e)[(f)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/f) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2) [para. 15F(e)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/e) (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(e)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/e)
+[^c-d2b30c14eacd67446b2ef192c20a1c1e]: Textual amendment: [Sch. 2 para. 15F(e)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/e)[(f)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/f) substituted for [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2) [para. 15F(e)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15F/e) (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [17(e)](https://www.legislation.gov.uk/uksi/2022/1339/article/17/e)
 
-[^key-af01b13633bffa0f5368b6dd2a9616af]: Textual amendment: [Sch. 2 para. 15FA](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15FA) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [18](https://www.legislation.gov.uk/uksi/2022/1339/article/18)
+[^c-af01b13633bffa0f5368b6dd2a9616af]: Textual amendment: [Sch. 2 para. 15FA](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15FA) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [18](https://www.legislation.gov.uk/uksi/2022/1339/article/18)
 
-[^key-e235fcd18cc65e6228be02606d93590d]: Textual amendment: [Sch. 2 para. 15GA](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15GA) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [19](https://www.legislation.gov.uk/uksi/2022/1339/article/19)
+[^c-e235fcd18cc65e6228be02606d93590d]: Textual amendment: [Sch. 2 para. 15GA](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15GA) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [19](https://www.legislation.gov.uk/uksi/2022/1339/article/19)
 
-[^key-062079eae678dbfea62fc5adcb70a109]: Textual amendment: [Sch. 2 paras. 15J-15Q](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15J) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [20](https://www.legislation.gov.uk/uksi/2022/1339/article/20)
+[^c-062079eae678dbfea62fc5adcb70a109]: Textual amendment: [Sch. 2 paras. 15J-15Q](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/15J) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [20](https://www.legislation.gov.uk/uksi/2022/1339/article/20)
 
-[^key-e2fa891a631807b0a6308af0d75a8629]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/16) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-e2fa891a631807b0a6308af0d75a8629]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/16) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
 [^f00008]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Part 4A was inserted by the Financial Services Act [2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), section 11(2) ) and most recently amended by [S.I. 2018/1149](https://www.legislation.gov.uk/uksi/2018/1149); it is prospectively amended by [S.I. 2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-530e73949a5e1502c38c290f46b52eda]: Textual amendment: [Sch. 2 para. 16A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/16A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 2](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/2)
+[^c-530e73949a5e1502c38c290f46b52eda]: Textual amendment: [Sch. 2 para. 16A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/16A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 2](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/2)
 
-[^key-b37227534ddc9807dadee0a89d0ce4b9]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/17) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-b37227534ddc9807dadee0a89d0ce4b9]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/17) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-b7a34ced52bc149eee43520c8f9ae814]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/17) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/d)
+[^c-b7a34ced52bc149eee43520c8f9ae814]: Textual amendment: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/17) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/d)
 
-[^key-0f2f52e470738507eda71d89af00fa9f]: Textual amendment: Words in [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/17) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/21/a)
+[^c-0f2f52e470738507eda71d89af00fa9f]: Textual amendment: Words in [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/17) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/21/a)
 
-[^key-790c1164c2acb87c119ccd9c9d76734b]: Textual amendment: Word in [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/17) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/21/b)
+[^c-790c1164c2acb87c119ccd9c9d76734b]: Textual amendment: Word in [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/17) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [21(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/21/b)
 
-[^key-d6f0d112ca6609095d72a1dfe2e1e784]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-d6f0d112ca6609095d72a1dfe2e1e784]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-0767907d9a2f8e413040d94d135d2ffa]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/e)
+[^c-0767907d9a2f8e413040d94d135d2ffa]: Textual amendment: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/e)
 
-[^key-a308bbc9adf4c06895dce45ce69be4d6]: Textual amendment: Words in [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [22](https://www.legislation.gov.uk/uksi/2022/1339/article/22)
+[^c-a308bbc9adf4c06895dce45ce69be4d6]: Textual amendment: Words in [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [22](https://www.legislation.gov.uk/uksi/2022/1339/article/22)
 
-[^key-a2dd1c61497e71b262c74e4660d5d06e]: Textual amendment: [Sch. 2 paras. 18A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18A), [18B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18B) inserted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/f)
+[^c-a2dd1c61497e71b262c74e4660d5d06e]: Textual amendment: [Sch. 2 paras. 18A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18A), [18B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18B) inserted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/f)
 
-[^key-f5e67e1fae6f51a9e9b0a3cc8ea39766]: Textual amendment: Words in [Sch. 2 para. 18A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18A) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/23/a)
+[^c-f5e67e1fae6f51a9e9b0a3cc8ea39766]: Textual amendment: Words in [Sch. 2 para. 18A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18A) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [23(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/23/a)
 
-[^key-ec56f5b24db41c219b2a10cd6a977c3e]: Textual amendment: [Sch. 2 para. 18A(a)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18A/a)[(b)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18A/b) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/23/b)
+[^c-ec56f5b24db41c219b2a10cd6a977c3e]: Textual amendment: [Sch. 2 para. 18A(a)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18A/a)[(b)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18A/b) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [23(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/23/b)
 
-[^key-7ff38f44e0df974c7f528621e48bc28e]: Textual amendment: [Sch. 2 para. 18B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18B): dash substituted for comma (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/24/a)
+[^c-7ff38f44e0df974c7f528621e48bc28e]: Textual amendment: [Sch. 2 para. 18B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18B): dash substituted for comma (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [24(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/24/a)
 
-[^key-86c59af2d3d61cc3879e1a38dcea1c1b]: Textual amendment: Words in Sch. 2 para. 18B renumbered as Sch. 2 para. 18B(a) (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/24/b)
+[^c-86c59af2d3d61cc3879e1a38dcea1c1b]: Textual amendment: Words in Sch. 2 para. 18B renumbered as Sch. 2 para. 18B(a) (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [24(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/24/b)
 
-[^key-e110abb6a09b868ffbdd575f9f74ef91]: Textual amendment: [Sch. 2 para. 18B(b)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18B/b) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [24(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/24/c)
+[^c-e110abb6a09b868ffbdd575f9f74ef91]: Textual amendment: [Sch. 2 para. 18B(b)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18B/b) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [24(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/24/c)
 
-[^key-67d56235ec9f3c8e00193310a9875b6d]: Textual amendment: [Sch. 2 paras. 18C-18E](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18C) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [25](https://www.legislation.gov.uk/uksi/2022/1339/article/25)
+[^c-67d56235ec9f3c8e00193310a9875b6d]: Textual amendment: [Sch. 2 paras. 18C-18E](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/18C) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [25](https://www.legislation.gov.uk/uksi/2022/1339/article/25)
 
-[^key-ee6023c1c4970237eeb5df9a0cf3c9f6]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-ee6023c1c4970237eeb5df9a0cf3c9f6]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-017055a666345950c0a22b77e7d2b4bf]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/g)
+[^c-017055a666345950c0a22b77e7d2b4bf]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/g)
 
-[^key-b1d6cdb488ae3e9f7241553adc23ac57]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/26/a)
+[^c-b1d6cdb488ae3e9f7241553adc23ac57]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [26(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/26/a)
 
-[^key-02d5737445cbd9fd47e1f74c0568d75e]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/26/b)
+[^c-02d5737445cbd9fd47e1f74c0568d75e]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [26(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/26/b)
 
-[^key-17e0df66b7cca37d509bb5f385830b87]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [26(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/26/c)
+[^c-17e0df66b7cca37d509bb5f385830b87]: Textual amendment: Words in [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/19) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [26(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/26/c)
 
-[^key-0d9beacb67091ff4e3e8273e5dc32011]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/20) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-0d9beacb67091ff4e3e8273e5dc32011]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/20) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-fa5a8eee88720ef331581900f527c99a]: Textual amendment: [Sch. 2 para. 20A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/20A) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [27](https://www.legislation.gov.uk/uksi/2022/1339/article/27)
+[^c-fa5a8eee88720ef331581900f527c99a]: Textual amendment: [Sch. 2 para. 20A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/20A) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [27](https://www.legislation.gov.uk/uksi/2022/1339/article/27)
 
-[^key-d30e774858d47175d4269df0205264c2]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/21) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-d30e774858d47175d4269df0205264c2]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/21) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-897d54b7846ebf2747bba91b6a0e7f43]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/22) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-897d54b7846ebf2747bba91b6a0e7f43]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/22) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-0d23f3710570b3aa417c3c96aaaff036]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/23) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-0d23f3710570b3aa417c3c96aaaff036]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/23) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-5d469518c4eec1a6e8ae9dd89e0d49c6]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/24) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-5d469518c4eec1a6e8ae9dd89e0d49c6]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/24) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-078b0bd314c0a3ebef92f46a95fb35e2]: Textual amendment: [Sch. 2 para. 24A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/24A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 3](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/3)
+[^c-078b0bd314c0a3ebef92f46a95fb35e2]: Textual amendment: [Sch. 2 para. 24A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/24A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 3](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/3)
 
-[^key-f7f0a63880b3a806db85b2eb8d85926f]: Textual amendment: [Sch. 2 para. 24B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/24B) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/4)
+[^c-f7f0a63880b3a806db85b2eb8d85926f]: Textual amendment: [Sch. 2 para. 24B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/24B) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/4)
 
-[^key-bd679cd2bcc393abaac6ce5741dd536f]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-bd679cd2bcc393abaac6ce5741dd536f]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-2eea5cf1724766f411e536c4839715ba]: Textual amendment: Words in [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 5(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/5/a)
+[^c-2eea5cf1724766f411e536c4839715ba]: Textual amendment: Words in [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 5(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/5/a)
 
 [^f00009]: Footnote: [1979 c. 38](https://www.legislation.gov.uk/ukpga/1979/38). Section 1 was amended by the Law Reform (Miscellaneous Provisions) (Scotland) Act [1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73), Schedule 1, paragraph 40; the Planning (Consequential Provisions) Act [1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11), Schedule 2, paragraph 42; the Planning (Consequential Provisions) (Scotland) Act [1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11), Schedule 2, paragraph 28; the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), section 70; [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684); [S.I. 2000/121](https://www.legislation.gov.uk/uksi/2000/121); and [S.I. 2001/1283](https://www.legislation.gov.uk/uksi/2001/1283).
 
-[^key-c5304ab29f8ea94ca9f81487cc858051]: Textual amendment: Words in [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 5(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/5/b)
+[^c-c5304ab29f8ea94ca9f81487cc858051]: Textual amendment: Words in [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 5(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/5/b)
 
-[^key-8bbf0f464f25613329dbf3892844d0cc]: Textual amendment: Word in [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) omitted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 5(c)(i)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/5/c/i)
+[^c-8bbf0f464f25613329dbf3892844d0cc]: Textual amendment: Word in [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) omitted (11.12.2025) by virtue of [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 5(c)(i)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/5/c/i)
 
-[^key-e00b3883bdaebb1d4143392dd6bd9bb7]: Textual amendment: Words in [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/5/c/ii)
+[^c-e00b3883bdaebb1d4143392dd6bd9bb7]: Textual amendment: Words in [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/25) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 5(c)(ii)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/5/c/ii)
 
-[^key-0bab3aa8ef62af3af435c7f93490aacb]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/26) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-0bab3aa8ef62af3af435c7f93490aacb]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/26) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-52914fa402a5266e270292867ed03526]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/27) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-52914fa402a5266e270292867ed03526]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/27) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-8e0467fc42bb8dd15561e49439fd9256]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/28) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-8e0467fc42bb8dd15561e49439fd9256]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/28) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-82f29671dc4ab89237d463bbd7d75779]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/29) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-82f29671dc4ab89237d463bbd7d75779]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/29) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-d5c8d2f7db3dc085a95b37e29a0a9c16]: Textual amendment: Sch. 2 para. 29 substituted (11.11.2021) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(h)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/h)
+[^c-d5c8d2f7db3dc085a95b37e29a0a9c16]: Textual amendment: Sch. 2 para. 29 substituted (11.11.2021) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(h)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/h)
 
-[^key-045e8ba6c1a7b41e86d04c54f724d5aa]: Textual amendment: Word in [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/29) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/28/a)
+[^c-045e8ba6c1a7b41e86d04c54f724d5aa]: Textual amendment: Word in [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/29) omitted (15.12.2022) by virtue of [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [28(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/28/a)
 
-[^key-bb2286d340804fc9d3aa9d0f59a1033e]: Textual amendment: Words in [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/29) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/28/b)
+[^c-bb2286d340804fc9d3aa9d0f59a1033e]: Textual amendment: Words in [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/29) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [28(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/28/b)
 
-[^key-59a4e610819b9c5d6ea22d0bb0964859]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/30) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-59a4e610819b9c5d6ea22d0bb0964859]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/30) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-a53adcc5b136ec32f868c34729510794]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/31) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-a53adcc5b136ec32f868c34729510794]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/31) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-16ecefdb94126e0af427bdcc334e5046]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/32) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-16ecefdb94126e0af427bdcc334e5046]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/32) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-4a06c5db567591079fab6ad1e3e3aa2e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/33) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-4a06c5db567591079fab6ad1e3e3aa2e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/33) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-1628618258e203bf7e11b2fc1c0cfb57]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/33) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(i)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/i)
+[^c-1628618258e203bf7e11b2fc1c0cfb57]: Textual amendment: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/33) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(i)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/i)
 
-[^key-c32e82696af620950c681ef9a62818a2]: Textual amendment: Words in [Sch. 2 para. 33(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/33/b/ii/bb) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [29](https://www.legislation.gov.uk/uksi/2022/1339/article/29)
+[^c-c32e82696af620950c681ef9a62818a2]: Textual amendment: Words in [Sch. 2 para. 33(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/33/b/ii/bb) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [29](https://www.legislation.gov.uk/uksi/2022/1339/article/29)
 
-[^key-49b1b27f299fbea99a927455eec68829]: Textual amendment: [Sch. 2 para. 33A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/33A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/6)
+[^c-49b1b27f299fbea99a927455eec68829]: Textual amendment: [Sch. 2 para. 33A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/33A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/6)
 
-[^key-5904a9150d8f4f1520bb554c7dd5c117]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/34) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-5904a9150d8f4f1520bb554c7dd5c117]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/34) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-fe6f987a193ad962401901b387177a60]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/35) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-fe6f987a193ad962401901b387177a60]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/35) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-cb4c4c9bc546ecbd0a9db1bb7f027da7]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-cb4c4c9bc546ecbd0a9db1bb7f027da7]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-67dd1a94070f609f3cd56da07025427e]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(j)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/j)
+[^c-67dd1a94070f609f3cd56da07025427e]: Textual amendment: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) substituted (11.11.2021) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2021 (S.I. 2021/1256)](https://www.legislation.gov.uk/uksi/2021/1256), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1256/article/1/1), [3(j)](https://www.legislation.gov.uk/uksi/2021/1256/article/3/j)
 
-[^key-4e526704dc3f8a6770dd641855595a9b]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [30(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/30/a)
+[^c-4e526704dc3f8a6770dd641855595a9b]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [30(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/30/a)
 
-[^key-b062a516b7e89cc79e823f7026796d1b]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [30(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/30/b)
+[^c-b062a516b7e89cc79e823f7026796d1b]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [30(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/30/b)
 
-[^key-7ab7812af1937e9f99f8db6764d00d1a]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [30(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/30/c)
+[^c-7ab7812af1937e9f99f8db6764d00d1a]: Textual amendment: Words in [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/36) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [30(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/30/c)
 
-[^key-842d536fccff0612a9b31f8a7291f5e9]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/37) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-842d536fccff0612a9b31f8a7291f5e9]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/37) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-327259d2285f2d83d0871d2ec7637756]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/38) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-327259d2285f2d83d0871d2ec7637756]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/38) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-f6f55fde458357da746daecda887cd7e]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/39) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-f6f55fde458357da746daecda887cd7e]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/39) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-0a97090342bf9ab35b9ff022037132e7]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/40) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-0a97090342bf9ab35b9ff022037132e7]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/40) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-9335c789b3c887364d9b21eb4db92d3a]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/41) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-9335c789b3c887364d9b21eb4db92d3a]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/41) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-4f85045a1c4d0d7f78b801028f2f1dfa]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/42) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-4f85045a1c4d0d7f78b801028f2f1dfa]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/42) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-0f61c23cf387d62bc72655eac9832a7a]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/43) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-0f61c23cf387d62bc72655eac9832a7a]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/43) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-965eb9f18cb0cc14942e9b63ee401406]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/44) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-965eb9f18cb0cc14942e9b63ee401406]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/44) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
 [^f00010]: Footnote: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15). Chapter 1 of Part 2 has been amended by the Terrorism Act [2006 (c.11)](https://www.legislation.gov.uk/ukpga/2006/11), section 33(2) to (4); the Northern Ireland (Miscellaneous Provisions) Act [2006 (c.33)](https://www.legislation.gov.uk/ukpga/2006/33), sections 26(2) and 30(2) and Schedules 3 and 5; the Bribery Act [2010 (c.23)](https://www.legislation.gov.uk/ukpga/2010/23), section 17(2) and Schedule 1; the [Criminal Justice and Licensing (Scotland) Act 2010 (asp.13)](https://www.legislation.gov.uk/asp/2010/13), section 203 and Schedule 7, paragraph 77; the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 15 and Schedule 8, paragraphs 157 and 159; the Criminal Finances Act [2017 (c.22)](https://www.legislation.gov.uk/ukpga/2017/22), section 51(1); the Sanctions and Anti-Money Laundering Act 2018, section 59(4) and Schedule 3, paragraph 4; and [S.I. 2014/834](https://www.legislation.gov.uk/uksi/2014/834).
 
-[^key-e9de0ce89c61f69e58b86d572b3d077a]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/45) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-e9de0ce89c61f69e58b86d572b3d077a]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/45) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-2471ea20d2c257d40625987a1cfbf78f]: Textual amendment: [Sch. 2 para. 45A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/45A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/7)
+[^c-2471ea20d2c257d40625987a1cfbf78f]: Textual amendment: [Sch. 2 para. 45A](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/45A) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 7](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/7)
 
-[^key-9d41c88ae15bbb825f6cdc823d5a3407]: Textual amendment: [Sch. 2 para. 45B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/45B) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 8](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/8)
+[^c-9d41c88ae15bbb825f6cdc823d5a3407]: Textual amendment: [Sch. 2 para. 45B](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/45B) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 8](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/8)
 
-[^key-6f3091616c96a5f80780f9d7531e1509]: Textual amendment: [Sch. 2 para. 45C](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/45C) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 9](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/9)
+[^c-6f3091616c96a5f80780f9d7531e1509]: Textual amendment: [Sch. 2 para. 45C](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/45C) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 9](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/9)
 
-[^key-da5bdedfe60a79dd43f50ff1060b1325]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/46) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-da5bdedfe60a79dd43f50ff1060b1325]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/46) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-9c1209f6f56151925009dd21e5067993]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/47) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-9c1209f6f56151925009dd21e5067993]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/47) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-a39a8a03992fa7468aae129eaa58018f]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/48) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-a39a8a03992fa7468aae129eaa58018f]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/48) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-10f17610f173f5fc14427948dde29ed6]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/49) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-10f17610f173f5fc14427948dde29ed6]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/49) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-7dc635272926435a71e910e27c3b12cc]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/50) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-7dc635272926435a71e910e27c3b12cc]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/50) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-402a47f5603aa877d7da04bef9a389c9]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/51) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-402a47f5603aa877d7da04bef9a389c9]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/51) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-afbcaed24453f66998b52c8efc265252]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/52) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-afbcaed24453f66998b52c8efc265252]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/52) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-7f6a649b3104e303cb706ddd03d748ee]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/53) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-7f6a649b3104e303cb706ddd03d748ee]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/53) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-f1dfe7335f4a1081c7f059fe4a48d023]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/54) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-f1dfe7335f4a1081c7f059fe4a48d023]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/54) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-eeb5e0aede59833a8893aa7703cd0f83]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/55) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-eeb5e0aede59833a8893aa7703cd0f83]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/55) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
 [^f00011]: Footnote: [S.I. 2011/2440](https://www.legislation.gov.uk/uksi/2011/2440), which has been amended by [S.I. 2011/2988](https://www.legislation.gov.uk/uksi/2011/2988); [S.I. 2012/362](https://www.legislation.gov.uk/uksi/2012/362); [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472); and [S.I. 2018/1076](https://www.legislation.gov.uk/uksi/2018/1076).
 
-[^key-5038a4c19f4084806d42291941fe5403]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/56) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-5038a4c19f4084806d42291941fe5403]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/56) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-ef3495a67dbd7fbd5530e4d3e5ae7f77]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/57) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-ef3495a67dbd7fbd5530e4d3e5ae7f77]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/57) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-f0dcd2a542a4fc6dc87b21de85c1b728]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/58) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-f0dcd2a542a4fc6dc87b21de85c1b728]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/58) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-52f91cd17579e9b2f6ec1d76be53d0dd]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
+[^c-52f91cd17579e9b2f6ec1d76be53d0dd]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59) in force at 31.12.2020, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1271/article/1/1)
 
-[^key-ae000d8c3f24ddd8524b3e31a64f716f]: Textual amendment: Words in [Sch. 2 para. 59(b)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/b) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/a)
+[^c-ae000d8c3f24ddd8524b3e31a64f716f]: Textual amendment: Words in [Sch. 2 para. 59(b)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/b) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(a)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/a)
 
-[^key-8bbba191602cc819043b6b70a6c18553]: Textual amendment: [Sch. 2 para. 59(c)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/c) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/b)
+[^c-8bbba191602cc819043b6b70a6c18553]: Textual amendment: [Sch. 2 para. 59(c)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/c) substituted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(b)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/b)
 
-[^key-06e075b81152af7da8fa36592d3a7cef]: Textual amendment: [Sch. 2 para. 59(ca)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/ca) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [31(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/31/a)
+[^c-06e075b81152af7da8fa36592d3a7cef]: Textual amendment: [Sch. 2 para. 59(ca)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/ca) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [31(a)](https://www.legislation.gov.uk/uksi/2022/1339/article/31/a)
 
-[^key-4dd1f44c043ba3024fad62c16237027c]: Textual amendment: [Sch. 2 para. 59(cb)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/cb) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(c)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/c)
+[^c-4dd1f44c043ba3024fad62c16237027c]: Textual amendment: [Sch. 2 para. 59(cb)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/cb) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(c)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/c)
 
-[^key-94d63db9190948b7a12ed6659e65d9cf]: Textual amendment: [Sch. 2 para. 59(d)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/d) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/31/b)
+[^c-94d63db9190948b7a12ed6659e65d9cf]: Textual amendment: [Sch. 2 para. 59(d)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/d) substituted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [31(b)](https://www.legislation.gov.uk/uksi/2022/1339/article/31/b)
 
-[^key-abddcec8fd53e0600894a9e947d524b6]: Textual amendment: [Sch. 2 para. 59(da)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/da) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(d)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/d)
+[^c-abddcec8fd53e0600894a9e947d524b6]: Textual amendment: [Sch. 2 para. 59(da)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/da) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(d)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/d)
 
-[^key-8ce327525ab3292c1b2db17c554fab95]: Textual amendment: [Sch. 2 paras. 59(e)-(g)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/e) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [31(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/31/c)
+[^c-8ce327525ab3292c1b2db17c554fab95]: Textual amendment: [Sch. 2 paras. 59(e)-(g)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/e) inserted (15.12.2022) by [The Republic of Belarus (Sanctions) (Overseas Territories) (Amendment) Order 2022 (S.I. 2022/1339)](https://www.legislation.gov.uk/uksi/2022/1339), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/1339/article/1/1), [31(c)](https://www.legislation.gov.uk/uksi/2022/1339/article/31/c)
 
-[^key-7787ec2b47beba23bfac51e6526a16e9]: Textual amendment: [Sch. 2 para. 59(h)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/h) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(e)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/e)
+[^c-7787ec2b47beba23bfac51e6526a16e9]: Textual amendment: [Sch. 2 para. 59(h)](https://www.legislation.gov.uk/uksi/2020/1271/schedule/2/paragraph/59/h) inserted (11.12.2025) by [The Sanctions (Miscellaneous Amendments) (Overseas Territories) Order 2025 (S.I. 2025/1307)](https://www.legislation.gov.uk/uksi/2025/1307), [art. 1(1)](https://www.legislation.gov.uk/uksi/2025/1307/article/1/1), [Sch. 11 para. 10(e)](https://www.legislation.gov.uk/uksi/2025/1307/schedule/11/paragraph/10/e)

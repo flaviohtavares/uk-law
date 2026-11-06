@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Interpretation of the CIO communications provisions[^key-e31fbbeb2b227ac07c3f558cdcf13f3c]
+## 59. Interpretation of the CIO communications provisions[^c-e31fbbeb2b227ac07c3f558cdcf13f3c]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e31fbbeb2b227ac07c3f558cdcf13f3c]: Commencement: Reg. 59 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-e31fbbeb2b227ac07c3f558cdcf13f3c]: Commencement: Reg. 59 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
 [^f00011]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).
 

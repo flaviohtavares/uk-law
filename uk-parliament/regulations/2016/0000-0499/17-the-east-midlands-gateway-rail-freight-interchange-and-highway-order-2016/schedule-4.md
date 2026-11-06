@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^key-6ddc45a509280e233e9f8d7d561a8348]
+### PART 1 — STREETS FOR WHICH A SUBSTITUTE IS TO BE PROVIDED[^c-6ddc45a509280e233e9f8d7d561a8348]
 
 <table>
 <thead>
@@ -41,7 +41,7 @@ Article 11
 </tbody>
 </table>
 
-### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^key-048f1173f1abff1a7422509805520f59]
+### PART 2 — STREETS FOR WHICH NO SUBSTITUTE IS TO BE PROVIDED[^c-048f1173f1abff1a7422509805520f59]
 
 <table>
 <thead>
@@ -55,6 +55,6 @@ Article 11
 
 ## Annotations
 
-[^key-6ddc45a509280e233e9f8d7d561a8348]: Commencement: Sch. 4 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-6ddc45a509280e233e9f8d7d561a8348]: Commencement: Sch. 4 Pt. 1 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
 
-[^key-048f1173f1abff1a7422509805520f59]: Commencement: Sch. 4 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-048f1173f1abff1a7422509805520f59]: Commencement: Sch. 4 Pt. 2 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 348. Power of mortgagee to serve blight notice[^key-5d59e326ef84b4916c815c0c197ffbc6]
+## 348. Power of mortgagee to serve blight notice[^c-5d59e326ef84b4916c815c0c197ffbc6]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d59e326ef84b4916c815c0c197ffbc6]: Commencement: S. 348 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-5d59e326ef84b4916c815c0c197ffbc6]: Commencement: S. 348 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

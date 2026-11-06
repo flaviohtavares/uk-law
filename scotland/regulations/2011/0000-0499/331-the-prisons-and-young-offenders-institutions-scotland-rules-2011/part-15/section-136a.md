@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 136A. Extension of certain periods of temporary release[^key-ec99fcb84fbf5f6b46d6ab6be0e7a4cb]
+## 136A. Extension of certain periods of temporary release[^c-ec99fcb84fbf5f6b46d6ab6be0e7a4cb]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ allow the period of relevant temporary release to be extended by a period of no 
 
 ## Annotations
 
-[^key-ec99fcb84fbf5f6b46d6ab6be0e7a4cb]: Textual amendment: Rule 136A inserted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(19)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/19)
+[^c-ec99fcb84fbf5f6b46d6ab6be0e7a4cb]: Textual amendment: Rule 136A inserted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(19)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/19)

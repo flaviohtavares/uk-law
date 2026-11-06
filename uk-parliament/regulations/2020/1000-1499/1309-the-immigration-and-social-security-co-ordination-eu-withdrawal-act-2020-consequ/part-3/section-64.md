@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Amendment of the Housing Benefit Regulations 2006[^key-242386a52d96683cabbc4fe32357f74a][^M_I_c7381bb1-d14f-4137-f8fc-8ba4d86fc614]
+## 64. Amendment of the Housing Benefit Regulations 2006[^c-242386a52d96683cabbc4fe32357f74a][^M_I_c7381bb1-d14f-4137-f8fc-8ba4d86fc614]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-242386a52d96683cabbc4fe32357f74a]: Commencement: Reg. 64 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-242386a52d96683cabbc4fe32357f74a]: Commencement: Reg. 64 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_c7381bb1-d14f-4137-f8fc-8ba4d86fc614]: Commencement: Reg. 64 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person (P) proposing to become a party to an LPS scheme with NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] must supply to NHS England, with their proposal, the information listed in paragraph (2) about the following relevant persons—
+(1) A person (P) proposing to become a party to an LPS scheme with NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] must supply to NHS England, with their proposal, the information listed in paragraph (2) about the following relevant persons—
 
 - (a) if P is an individual, about P;
 - (b) if P a partnership, about each partner;
@@ -41,7 +41,7 @@ summary: ''
 - (i) is, to R's knowledge, the subject of an investigation into R's professional conduct by a licensing or regulatory body;
 - (j) is, to R's knowledge, or where the outcome was adverse has been, the subject of an investigation into R's professional conduct in respect of any current or previous employment;
 - (k) is, to R's knowledge, the subject of an investigation by another primary care organisation, which might lead to removal from a relevant list;
-- (l) is, to R's knowledge, or where the outcome was adverse has been, the subject of an investigation by the NHS CFA[^key-a371b18e4e409a2b7031cb5d36af72a1] in relation to fraud;
+- (l) is, to R's knowledge, or where the outcome was adverse has been, the subject of an investigation by the NHS CFA[^c-a371b18e4e409a2b7031cb5d36af72a1] in relation to fraud;
 - (m) on fitness grounds—
   - (i) has had an application for inclusion in a relevant list refused,
   - (ii) has been conditionally included in a relevant list,
@@ -66,7 +66,7 @@ and if so, P must give details of the relevant investigation or proceedings, inc
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
 [^c21647301]: Marginal citation: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46); section 246(2) and (3) have been amended by the [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [Schedule 2](https://www.legislation.gov.uk/asp/2010/13/schedule/2), [paragraph 26](https://www.legislation.gov.uk/asp/2010/13/paragraph/26).
 
@@ -74,4 +74,4 @@ and if so, P must give details of the relevant investigation or proceedings, inc
 
 [^c21647321]: Marginal citation: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5). Section 115A was inserted by the [Social Security Administration (Fraud) Act 1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47), [section 15](https://www.legislation.gov.uk/ukpga/1997/47/section/15), and amended by the [Social Security Fraud Act 2001 (c. 11)](https://www.legislation.gov.uk/ukpga/2001/11) (“**the 2001 Act**”), section 14. The amendments made by the 2001 Act are to be repealed by, and other amendments to section 115A are to be made by, the [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [sections 113 to 115](https://www.legislation.gov.uk/ukpga/2012/5/section/113), and Schedule 14, Part 1.
 
-[^key-a371b18e4e409a2b7031cb5d36af72a1]: Textual amendment: Words in [reg. 106(2)(l)](https://www.legislation.gov.uk/uksi/2013/349/regulation/106/2/l) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/989/regulation/7)
+[^c-a371b18e4e409a2b7031cb5d36af72a1]: Textual amendment: Words in [reg. 106(2)(l)](https://www.legislation.gov.uk/uksi/2013/349/regulation/106/2/l) substituted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2025/989/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Supplementary provision[^key-f904dc961f65ca9e9b64c780c561d4cc]
+## 4. Supplementary provision[^c-f904dc961f65ca9e9b64c780c561d4cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f904dc961f65ca9e9b64c780c561d4cc]: Commencement: Art. 4 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)
+[^c-f904dc961f65ca9e9b64c780c561d4cc]: Commencement: Art. 4 in force at 2.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2)

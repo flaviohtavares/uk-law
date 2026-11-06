@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Definition of “internal repression goods” and “internal repression technology”[^key-aa049da76fc5030905c71151487c0514]
+## 24. Definition of “internal repression goods” and “internal repression technology”[^c-aa049da76fc5030905c71151487c0514]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ For the purposes of regulation 23—
 
 ## Annotations
 
-[^key-aa049da76fc5030905c71151487c0514]: Commencement: Reg. 24 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-aa049da76fc5030905c71151487c0514]: Commencement: Reg. 24 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Section 418 (carrying on regulated activities in the United Kingdom)[^key-23988ae91839604a88ad007eee1652fb]
+## 86. Section 418 (carrying on regulated activities in the United Kingdom)[^c-23988ae91839604a88ad007eee1652fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-23988ae91839604a88ad007eee1652fb]: Commencement: Reg. 86 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-23988ae91839604a88ad007eee1652fb]: Commencement: Reg. 86 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658491]: Marginal citation: Amendments of section 418 are made by [S.I. 2013/1797](https://www.legislation.gov.uk/uksi/2013/1797) but these are not in force.
 

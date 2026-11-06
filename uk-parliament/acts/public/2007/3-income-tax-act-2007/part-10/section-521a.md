@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 521A. Gifts under payroll deduction schemes: income tax liability and exemption[^key-ee7890b7c592fe7486c0ebd167bac8cb]
+## 521A. Gifts under payroll deduction schemes: income tax liability and exemption[^c-ee7890b7c592fe7486c0ebd167bac8cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee7890b7c592fe7486c0ebd167bac8cb]: Textual amendment: S. 521A inserted (8.4.2010 with effect in accordance with Sch. 8 para. 8(1) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/1/1)
+[^c-ee7890b7c592fe7486c0ebd167bac8cb]: Textual amendment: S. 521A inserted (8.4.2010 with effect in accordance with Sch. 8 para. 8(1) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 1(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/1/1)

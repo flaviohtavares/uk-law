@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Consultation[^key-1ddec461178888e57d077d807747b45e]
+## 24. Consultation[^c-1ddec461178888e57d077d807747b45e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ddec461178888e57d077d807747b45e]: Commencement: [S. 24](https://www.legislation.gov.uk/mwa/2011/1/section/24) in force at 17.4.2012 by [S.I. 2012/1096](https://www.legislation.gov.uk/wsi/2012/1096), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/1096/article/2/b)
+[^c-1ddec461178888e57d077d807747b45e]: Commencement: [S. 24](https://www.legislation.gov.uk/mwa/2011/1/section/24) in force at 17.4.2012 by [S.I. 2012/1096](https://www.legislation.gov.uk/wsi/2012/1096), [art. 2(b)](https://www.legislation.gov.uk/wsi/2012/1096/article/2/b)

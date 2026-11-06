@@ -35,14 +35,14 @@ implementing Regulation (EU) No 1024/2013 conferring specific tasks on the Europ
 
 (2014/77/EU) (revoked)
 
-[^key-c733ab5dfb7f014884c1c6a65bc5819a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c733ab5dfb7f014884c1c6a65bc5819a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c733ab5dfb7f014884c1c6a65bc5819a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c733ab5dfb7f014884c1c6a65bc5819a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c733ab5dfb7f014884c1c6a65bc5819a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c733ab5dfb7f014884c1c6a65bc5819a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c733ab5dfb7f014884c1c6a65bc5819a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c733ab5dfb7f014884c1c6a65bc5819a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c733ab5dfb7f014884c1c6a65bc5819a]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c733ab5dfb7f014884c1c6a65bc5819a]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

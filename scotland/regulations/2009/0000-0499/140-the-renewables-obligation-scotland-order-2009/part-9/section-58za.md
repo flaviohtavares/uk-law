@@ -14,12 +14,12 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## 58ZA. Registration as a grace period generating station[^key-4ae5ffd3f3313e4291219646986c6a1e]
+## 58ZA. Registration as a grace period generating station[^c-4ae5ffd3f3313e4291219646986c6a1e]
 
 (1) This article applies to a generating station—
 
 - (a) which is first commissioned on or after 1st April 2013; and
-- (b) in respect of which an application for accreditation is made [^key-4c488d54ddd882e4f247ca4ffd57f1e1]...on or before 30th September 2013.
+- (b) in respect of which an application for accreditation is made [^c-4c488d54ddd882e4f247ca4ffd57f1e1]...on or before 30th September 2013.
 
 (2) The operator of a generating station to which this article applies may submit a request to the Authority for the generating station to be registered under this article as a grace period generating station.
 
@@ -59,7 +59,7 @@ summary: ''
 - (a) its decision on a request to register the station as a grace period generating station;
 - (b) any withdrawal of registration of the station as a grace period generating station.
 
-(8) The written notification under paragraph (7)(a) must be provided by the Authority at the same time as the written notification [^key-5ba79320408d240494d7b34c826770d5]... of its decision on the application for accreditation of the generating station.
+(8) The written notification under paragraph (7)(a) must be provided by the Authority at the same time as the written notification [^c-5ba79320408d240494d7b34c826770d5]... of its decision on the application for accreditation of the generating station.
 
 (9) In this article—
 
@@ -87,8 +87,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4ae5ffd3f3313e4291219646986c6a1e]: Textual amendment: Art. 58ZA inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [24](https://www.legislation.gov.uk/ssi/2013/116/article/24) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-4ae5ffd3f3313e4291219646986c6a1e]: Textual amendment: Art. 58ZA inserted (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [24](https://www.legislation.gov.uk/ssi/2013/116/article/24) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
 
-[^key-4c488d54ddd882e4f247ca4ffd57f1e1]: Textual amendment: Words in art. 58ZA(1)(b) omitted (1.4.2014) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [21(2)](https://www.legislation.gov.uk/ssi/2014/94/article/21/2) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-4c488d54ddd882e4f247ca4ffd57f1e1]: Textual amendment: Words in art. 58ZA(1)(b) omitted (1.4.2014) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [21(2)](https://www.legislation.gov.uk/ssi/2014/94/article/21/2) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
 
-[^key-5ba79320408d240494d7b34c826770d5]: Textual amendment: Words in art. 58ZA(8) omitted (1.4.2014) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [21(3)](https://www.legislation.gov.uk/ssi/2014/94/article/21/3) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))
+[^c-5ba79320408d240494d7b34c826770d5]: Textual amendment: Words in art. 58ZA(8) omitted (1.4.2014) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2014 (S.S.I. 2014/94)](https://www.legislation.gov.uk/ssi/2014/94), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2014/94/article/1/1), [21(3)](https://www.legislation.gov.uk/ssi/2014/94/article/21/3) (with [art. 27](https://www.legislation.gov.uk/ssi/2014/94/article/27))

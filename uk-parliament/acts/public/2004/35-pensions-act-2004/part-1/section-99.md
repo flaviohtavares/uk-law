@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Compulsory review[^key-c1452963386ecd5c70e035e3848360dd]
+## 99. Compulsory review[^c-c1452963386ecd5c70e035e3848360dd]
 
 *Extent: E+W+S*
 
@@ -44,14 +44,14 @@ summary: ''
 - (a) the interests of members under an occupational or personal pension scheme, or
 - (b) the assets of such a scheme.
 
-(7) The determination which is the subject-matter of a final notice may be referred to the Tribunal [^key-156beb30e7eaf354fe359467df942e87]... by—
+(7) The determination which is the subject-matter of a final notice may be referred to the Tribunal [^c-156beb30e7eaf354fe359467df942e87]... by—
 
 - (a) any person to whom the final notice is given as required under subsection (4), and
 - (b) any other person who appears to the Tribunal to be directly affected by the determination.
 
 (8) Where that determination is a determination to exercise a different regulatory function to the function which was the subject-matter of the determination notice, the Regulator must not exercise the regulatory function—
 
-- (a) during the period within which the determination may be referred to the Tribunal [^key-b31b6c9bfcfd767234fdaf794285df6c]..., and
+- (a) during the period within which the determination may be referred to the Tribunal [^c-b31b6c9bfcfd767234fdaf794285df6c]..., and
 - (b) if the determination is so referred, until the reference, and any appeal against the Tribunal’s determination, has been finally disposed of.
 
 (9) Subsection (8) does not apply where—
@@ -65,17 +65,17 @@ summary: ''
 
 (12) Section 94 (publication of Regulator’s procedure) applies in relation to the procedure determined under subsection (11) as it applies to the procedure determined under section 93 (procedure in relation to the regulatory functions).
 
-(13)[^key-6d4b8b9fa934f9e5669ae07500645623] In this section “the Tribunal”, in relation to any reference under subsection (7), means—
+(13)[^c-6d4b8b9fa934f9e5669ae07500645623] In this section “the Tribunal”, in relation to any reference under subsection (7), means—
 
 - (a) the First-tier Tribunal, in any case where it is determined by or under Tribunal Procedure Rules that the First-tier Tribunal is to hear the reference;
 - (b) the Upper Tribunal, in any other case.
 
 ## Annotations
 
-[^key-c1452963386ecd5c70e035e3848360dd]: Commencement: S. 99 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-c1452963386ecd5c70e035e3848360dd]: Commencement: S. 99 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
 
-[^key-156beb30e7eaf354fe359467df942e87]: Textual amendment: Words in s. 99(7) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 76(a)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/76/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-156beb30e7eaf354fe359467df942e87]: Textual amendment: Words in s. 99(7) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 76(a)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/76/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
-[^key-b31b6c9bfcfd767234fdaf794285df6c]: Textual amendment: Words in s. 99(8)(a) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 76(b)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/76/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-b31b6c9bfcfd767234fdaf794285df6c]: Textual amendment: Words in s. 99(8)(a) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 76(b)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/76/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
-[^key-6d4b8b9fa934f9e5669ae07500645623]: Textual amendment: S. 99(13) inserted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 76(c)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/76/c) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-6d4b8b9fa934f9e5669ae07500645623]: Textual amendment: S. 99(13) inserted (6.4.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 76(c)](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/76/c) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))

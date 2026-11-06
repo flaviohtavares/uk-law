@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Application of Chapter[^key-19a0837ff8169c43756d9f538dc2f62a]
+## 45. Application of Chapter[^c-19a0837ff8169c43756d9f538dc2f62a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Chapter applies in relation to a continuous period of pensionable service u
 
 ## Annotations
 
-[^key-19a0837ff8169c43756d9f538dc2f62a]: Commencement: Reg. 45 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-19a0837ff8169c43756d9f538dc2f62a]: Commencement: Reg. 45 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

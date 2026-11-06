@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Provision of services by the Keeper[^key-461c4414c61e1ab814ca559279576666]
+## 108. Provision of services by the Keeper[^c-461c4414c61e1ab814ca559279576666]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-461c4414c61e1ab814ca559279576666]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2012/5/section/108) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)
+[^c-461c4414c61e1ab814ca559279576666]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2012/5/section/108) in force at 1.11.2012 by [S.S.I. 2012/265](https://www.legislation.gov.uk/ssi/2012/265), [art. 2](https://www.legislation.gov.uk/ssi/2012/265/article/2)

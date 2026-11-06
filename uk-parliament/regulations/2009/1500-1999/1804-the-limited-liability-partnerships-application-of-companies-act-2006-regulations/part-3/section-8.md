@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Sections 53 to 56A[^key-d441a149890c0a6103db3d8cd33c39fe] apply to LLPs, modified so that they read as follows—
+Sections 53 to 56A[^c-d441a149890c0a6103db3d8cd33c39fe] apply to LLPs, modified so that they read as follows—
 
 > **53. Prohibited names**
 >
@@ -29,7 +29,7 @@ Sections 53 to 56A[^key-d441a149890c0a6103db3d8cd33c39fe] apply to LLPs, modifie
 > - (a) its use by the LLP would constitute an offence, or
 > - (b) it is offensive.
 >
-> **53A. Names for criminal purposes[^key-07c8d28cb26af57d5f20364f2462518a]**
+> **53A. Names for criminal purposes[^c-07c8d28cb26af57d5f20364f2462518a]**
 >
 > An LLP must not be registered under the Limited Liability Partnerships Act 2000 by a name if, in the opinion of the Secretary of State, the registration of the LLP by that name is intended to facilitate—
 >
@@ -40,7 +40,7 @@ Sections 53 to 56A[^key-d441a149890c0a6103db3d8cd33c39fe] apply to LLPs, modifie
 >
 > (1) The approval of the Secretary of State is required for an LLP to be registered under the Limited Liability Partnerships Act 2000 (c. 12) by a name that would be likely to give the impression that the LLP is connected with—
 >
-> - (a) Her Majesty's Government, any part of the Scottish Administration , the Welsh Assembly Government[^key-3895debdd5fe0d09d7133177a70c5404] or Her Majesty's Government in Northern Ireland,
+> - (a) Her Majesty's Government, any part of the Scottish Administration , the Welsh Assembly Government[^c-3895debdd5fe0d09d7133177a70c5404] or Her Majesty's Government in Northern Ireland,
 > - (b) a local authority, or
 > - (c) any public authority specified for the purposes of this section by regulations made by the Secretary of State.
 >
@@ -83,7 +83,7 @@ Sections 53 to 56A[^key-d441a149890c0a6103db3d8cd33c39fe] apply to LLPs, modifie
 >
 > (5) In this section “**specified**” means specified in the regulations.
 >
-> **56A. Names suggesting connection with foreign governments etc[^key-204288edc61375b54b3f095d22915c4b]**
+> **56A. Names suggesting connection with foreign governments etc[^c-204288edc61375b54b3f095d22915c4b]**
 >
 > An LLP must not be registered under the Limited Liability Partnerships Act 2000 by a name that, in the opinion of the Secretary of State, would be likely to give the false impression that the LLP is connected with—
 >
@@ -94,10 +94,10 @@ Sections 53 to 56A[^key-d441a149890c0a6103db3d8cd33c39fe] apply to LLPs, modifie
 
 ## Annotations
 
-[^key-d441a149890c0a6103db3d8cd33c39fe]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2009/1804/regulation/8) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/6/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-d441a149890c0a6103db3d8cd33c39fe]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2009/1804/regulation/8) substituted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/6/2); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-07c8d28cb26af57d5f20364f2462518a]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2009/1804/regulation/8) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/6/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-07c8d28cb26af57d5f20364f2462518a]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2009/1804/regulation/8) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2024/234/regulation/6/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
 
-[^key-3895debdd5fe0d09d7133177a70c5404]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2009/1804/regulation/8) inserted (14.12.2009) by [The Limited Liability Partnerships (Amendment) (No. 2) Regulations 2009 (S.I. 2009/2995)](https://www.legislation.gov.uk/uksi/2009/2995), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2995/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2995/regulation/2/2)
+[^c-3895debdd5fe0d09d7133177a70c5404]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2009/1804/regulation/8) inserted (14.12.2009) by [The Limited Liability Partnerships (Amendment) (No. 2) Regulations 2009 (S.I. 2009/2995)](https://www.legislation.gov.uk/uksi/2009/2995), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2995/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/2995/regulation/2/2)
 
-[^key-204288edc61375b54b3f095d22915c4b]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2009/1804/regulation/8) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/6/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)
+[^c-204288edc61375b54b3f095d22915c4b]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2009/1804/regulation/8) inserted (4.3.2024) by [The Limited Liability Partnerships (Application of Company Law) Regulations 2024 (S.I. 2024/234)](https://www.legislation.gov.uk/uksi/2024/234), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/234/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2024/234/regulation/6/4); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/a)

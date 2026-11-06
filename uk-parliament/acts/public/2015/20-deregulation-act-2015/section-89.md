@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. The Council for Licensed Conveyancers: other amendments[^key-67f40d34431fd3e6e808b0405c8b6fe5]
+## 89. The Council for Licensed Conveyancers: other amendments[^c-67f40d34431fd3e6e808b0405c8b6fe5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 20 contains other amendments relating to the Council for Licensed Conve
 
 ## Annotations
 
-[^key-67f40d34431fd3e6e808b0405c8b6fe5]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2015/20/section/89) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/c)
+[^c-67f40d34431fd3e6e808b0405c8b6fe5]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2015/20/section/89) in force at 29.6.2015 by [S.I. 2015/1402](https://www.legislation.gov.uk/uksi/2015/1402), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/1402/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 76. Information notices[^key-32272faea5c400f9542cf23469eeeb02]
+## 76. Information notices[^c-32272faea5c400f9542cf23469eeeb02]
 
 *Extent: E+W+S*
 
@@ -102,4 +102,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32272faea5c400f9542cf23469eeeb02]: Commencement: S. 76 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-32272faea5c400f9542cf23469eeeb02]: Commencement: S. 76 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Fee for renewal of photocard licence and issue of certain alternative licences[^key-e0d66fc9e8780db55f414701c6f43384]
+## 40. Fee for renewal of photocard licence and issue of certain alternative licences[^c-e0d66fc9e8780db55f414701c6f43384]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0d66fc9e8780db55f414701c6f43384]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/49/section/40) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/237/article/2/c)
+[^c-e0d66fc9e8780db55f414701c6f43384]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/49/section/40) in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/237/article/2/c)

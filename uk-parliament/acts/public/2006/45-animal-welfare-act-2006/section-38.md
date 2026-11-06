@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Destruction of animals involved in fighting offences[^key-b26806d43ff30174961d582e433cc7ad][^key-fd0a412f0846a0dd7fe7efcb483f34df]
+## 38. Destruction of animals involved in fighting offences[^c-b26806d43ff30174961d582e433cc7ad][^c-fd0a412f0846a0dd7fe7efcb483f34df]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b26806d43ff30174961d582e433cc7ad]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2006/45/section/38) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-b26806d43ff30174961d582e433cc7ad]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2006/45/section/38) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-fd0a412f0846a0dd7fe7efcb483f34df]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2006/45/section/38) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-fd0a412f0846a0dd7fe7efcb483f34df]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2006/45/section/38) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

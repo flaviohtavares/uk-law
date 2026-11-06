@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Hire-purchase, conditional sale and chattel leasing agreements[^key-81676c464873151958099e8bf8743376]
+## 28. Hire-purchase, conditional sale and chattel leasing agreements[^c-81676c464873151958099e8bf8743376]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81676c464873151958099e8bf8743376]: Commencement: Rule 28 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-81676c464873151958099e8bf8743376]: Commencement: Rule 28 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Foreign offenders’ conditions[^key-12fcb19953ce654c0766b7c167dc8fa2]
+## 103. Foreign offenders’ conditions[^c-12fcb19953ce654c0766b7c167dc8fa2]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12fcb19953ce654c0766b7c167dc8fa2]: Commencement: S. 103 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-12fcb19953ce654c0766b7c167dc8fa2]: Commencement: S. 103 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
 [^M_F_8130dcd9-c22e-49c2-aac8-e07e3d05419b]: Textual amendment: S. 103(4)(za) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 188(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/188/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/v)

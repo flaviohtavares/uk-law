@@ -35,14 +35,14 @@ amending Regulation (EC) No 271/2009 as regards the minimum content of the prepa
 
 (Text with EEA relevance) (revoked)
 
-[^key-176717350a9f29b7750445c6ca294c26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-176717350a9f29b7750445c6ca294c26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-176717350a9f29b7750445c6ca294c26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-176717350a9f29b7750445c6ca294c26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-176717350a9f29b7750445c6ca294c26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-176717350a9f29b7750445c6ca294c26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-176717350a9f29b7750445c6ca294c26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-176717350a9f29b7750445c6ca294c26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-176717350a9f29b7750445c6ca294c26]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/23)
+[^c-176717350a9f29b7750445c6ca294c26]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 8 Pt. 1 para. 23](https://www.legislation.gov.uk/uksi/2025/361/schedule/8/part/1/paragraph/23)

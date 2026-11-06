@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Applications for the grant of a licence[^key-3b153eafe9eb3cf86324980e13e62df7]
+## 3. Applications for the grant of a licence[^c-3b153eafe9eb3cf86324980e13e62df7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Applications for the grant of a licence shall only be made in accordance with th
 
 ## Annotations
 
-[^key-3b153eafe9eb3cf86324980e13e62df7]: Commencement: Reg. 3 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-3b153eafe9eb3cf86324980e13e62df7]: Commencement: Reg. 3 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

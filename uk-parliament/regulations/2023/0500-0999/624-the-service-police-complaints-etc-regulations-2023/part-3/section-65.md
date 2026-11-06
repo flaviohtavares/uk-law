@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Application for reviews under regulations 18 and 64[^key-65e8e201910d200f3d963d67c06134b2]
+## 65. Application for reviews under regulations 18 and 64[^c-65e8e201910d200f3d963d67c06134b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65e8e201910d200f3d963d67c06134b2]: Commencement: Reg. 65 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-65e8e201910d200f3d963d67c06134b2]: Commencement: Reg. 65 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

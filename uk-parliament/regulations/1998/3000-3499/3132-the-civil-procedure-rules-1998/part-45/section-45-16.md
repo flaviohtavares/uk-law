@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.16. Scope and application[^key-8ed78e3eff468fc080a342c5659897de]
+## 45.16. Scope and application[^c-8ed78e3eff468fc080a342c5659897de]
 
 *Extent: E+W*
 
@@ -26,8 +26,8 @@ summary: ''
 
 - (a) the only claim is a claim for a specified sum of money where the value of the claim exceeds £25 and—
   - (i) judgment in default is obtained under rule 12.4(1);
-  - (ii) judgment on admission is obtained under rule 14.2(5)[^key-37b1b80441867ece43bf9f9c1d385522];
-  - (iii)[^key-64c6f4f8b7e0c9e0e7483df2ed481632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) judgment on admission is obtained under rule 14.2(5)[^c-37b1b80441867ece43bf9f9c1d385522];
+  - (iii)[^c-64c6f4f8b7e0c9e0e7483df2ed481632] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) summary judgment is given under Part 24;
   - (v) the court has made an order to strike out a defence under rule 3.4(2)(a) as disclosing no reasonable grounds for defending the claim; or
   - (vi) rule 45.19 applies;
@@ -51,8 +51,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-8ed78e3eff468fc080a342c5659897de]: Textual amendment: Pt. 45 substituted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rule 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/572/schedule/3) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-37b1b80441867ece43bf9f9c1d385522]: Textual amendment: Word in rule 45.16(2)(a)(ii) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [23(2)(a)](https://www.legislation.gov.uk/uksi/2023/788/rule/23/2/a)
+[^c-37b1b80441867ece43bf9f9c1d385522]: Textual amendment: Word in rule 45.16(2)(a)(ii) substituted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [23(2)(a)](https://www.legislation.gov.uk/uksi/2023/788/rule/23/2/a)
 
-[^key-64c6f4f8b7e0c9e0e7483df2ed481632]: Textual amendment: Rule 45.16(2)(a)(iii) omitted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [23(2)(b)](https://www.legislation.gov.uk/uksi/2023/788/rule/23/2/b)
+[^c-64c6f4f8b7e0c9e0e7483df2ed481632]: Textual amendment: Rule 45.16(2)(a)(iii) omitted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by virtue of [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [23(2)(b)](https://www.legislation.gov.uk/uksi/2023/788/rule/23/2/b)

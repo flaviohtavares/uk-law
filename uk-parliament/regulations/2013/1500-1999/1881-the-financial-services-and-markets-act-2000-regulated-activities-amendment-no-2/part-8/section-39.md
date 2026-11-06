@@ -23,8 +23,8 @@ summary: ''
 (1) Paragraphs (2) to (4) apply if, before 1st April 2014—
 
 - (a) the OFT had given a notice to a person (“A”) under section 32A(2) of the 1974 Act (suspension of a standard licence) [^c23374241] that it is suspending A's licence,
-- (b) the OFT had not, under section 34ZA of the 1974 Act (representations to OFT: suspension under section 32A) determined whether or not to confirm such a decision, and[^key-324cdae4915d7f5600acf934f99fea2a]
-- (c)[^key-893743cc2e83343f7dbd1e06d81d65a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the OFT had not, under section 34ZA of the 1974 Act (representations to OFT: suspension under section 32A) determined whether or not to confirm such a decision, and[^c-324cdae4915d7f5600acf934f99fea2a]
+- (c)[^c-893743cc2e83343f7dbd1e06d81d65a4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 A is a relevant person.
 
@@ -32,7 +32,7 @@ A is a relevant person.
 
 - (a) if A has Part 4A permission only by virtue of this Order—
   - (i) a written notice under section 55Y(4) of the Act of the decision of the FCA to vary A's Part 4A permission (except for subsections (5) and (6) of section 55Y which do not apply), and
-  - (ii) a warning notice given under section 55Z(1) of the Act by the FCA to A of the proposal by the FCA to cancel A's Part 4A permission (except for the purposes of sections 387 (warning notices), 392(a) (application of sections 393 and 394), in so far as it applies to section 393 (third party rights), and 393 of the Act, which do not apply[^key-a4bc5601c5dc76518c821b5a79da0c40]);
+  - (ii) a warning notice given under section 55Z(1) of the Act by the FCA to A of the proposal by the FCA to cancel A's Part 4A permission (except for the purposes of sections 387 (warning notices), 392(a) (application of sections 393 and 394), in so far as it applies to section 393 (third party rights), and 393 of the Act, which do not apply[^c-a4bc5601c5dc76518c821b5a79da0c40]);
 - (b) in any other case, a written notice under section 55Y(4) of the Act of the decision of the FCA to vary A's Part 4A permission (except for subsections (5) and (6) of section 55Y which do not apply).
 
 (3) The notice has effect subject to any necessary modifications.
@@ -48,8 +48,8 @@ A is a relevant person.
 
 [^c23374241]: Marginal citation: Sections 32A and 34Z were inserted by the Financial Services Act 2012, section 108.
 
-[^key-324cdae4915d7f5600acf934f99fea2a]: Textual amendment: Word in [art. 39(1)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/39/1/b) inserted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2014/376/article/6/2/a)
+[^c-324cdae4915d7f5600acf934f99fea2a]: Textual amendment: Word in [art. 39(1)(b)](https://www.legislation.gov.uk/uksi/2013/1881/article/39/1/b) inserted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2014/376/article/6/2/a)
 
-[^key-893743cc2e83343f7dbd1e06d81d65a4]: Textual amendment: [Art. 39(1)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/39/1/c) omitted (1.4.2014) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2014/376/article/6/2/b)
+[^c-893743cc2e83343f7dbd1e06d81d65a4]: Textual amendment: [Art. 39(1)(c)](https://www.legislation.gov.uk/uksi/2013/1881/article/39/1/c) omitted (1.4.2014) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2014/376/article/6/2/b)
 
-[^key-a4bc5601c5dc76518c821b5a79da0c40]: Textual amendment: Words in [art. 39(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1881/article/39/2/a/ii) substituted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2014/376/article/6/3)
+[^c-a4bc5601c5dc76518c821b5a79da0c40]: Textual amendment: Words in [art. 39(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1881/article/39/2/a/ii) substituted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) Order 2014 (S.I. 2014/376)](https://www.legislation.gov.uk/uksi/2014/376), [arts. 1](https://www.legislation.gov.uk/uksi/2014/376/article/1), [6(3)](https://www.legislation.gov.uk/uksi/2014/376/article/6/3)

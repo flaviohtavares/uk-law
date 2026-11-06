@@ -57,14 +57,14 @@ to obtain an amount or total amount of money that is, or is likely to be, simila
 - (b) a greater amount, or
 - (c) an amount that is less than that amount but not substantially so.
 
-(5A)[^key-fa8e8e313427012d3585fd522af079fb] An asset consisting in securities which is not a readily convertible asset apart from this subsection is to be treated as a readily convertible asset unless the securities are shares that are corporation tax deductible.
+(5A)[^c-fa8e8e313427012d3585fd522af079fb] An asset consisting in securities which is not a readily convertible asset apart from this subsection is to be treated as a readily convertible asset unless the securities are shares that are corporation tax deductible.
 
 (5B) For the purposes of subsection (5A) shares are corporation tax deductible if they are acquired by a person—
 
 - (a) by reason of that, or another person's, employment with a company, or
 - (b) pursuant to an option granted by reason of that, or another person's, employment with a company,
 
-and the company is entitled to corporation tax relief in respect of the shares under Part 12 of CTA 2009[^key-a32108269420352b2482419d910ac29e] (corporation tax relief for employee share acquisition).
+and the company is entitled to corporation tax relief in respect of the shares under Part 12 of CTA 2009[^c-a32108269420352b2482419d910ac29e] (corporation tax relief for employee share acquisition).
 
 (5C) If a person acquires additional shares by virtue of holding shares that are corporation tax deductible, the additional shares are to be treated for the purposes of subsection (5A) as if they were corporation tax deductible.
 
@@ -81,7 +81,7 @@ the shares that constitute the new holding are to be treated for the purposes of
 - “**money debt**” means any obligation which falls to be, or may be, settled—
   - (a) by the payment of money, or
   - (b) by the transfer of a right to settlement under an obligation which is itself a money debt;
-- **"securities"[^key-6bf33ed477b6b7e87ee2ad2796552d1d]** has the same meaning as in Chapters 1 to 5 of Part 7 (employment income from securities) (see section 420),
+- **"securities"[^c-6bf33ed477b6b7e87ee2ad2796552d1d]** has the same meaning as in Chapters 1 to 5 of Part 7 (employment income from securities) (see section 420),
 - “**shares**” includes—
   - (a) an interest in shares, and
   - (b) stock or an interest in stock,
@@ -91,8 +91,8 @@ the shares that constitute the new holding are to be treated for the purposes of
 
 ## Annotations
 
-[^key-fa8e8e313427012d3585fd522af079fb]: Textual amendment: S. 702(5A)-(5D) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 15(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/15/2)
+[^c-fa8e8e313427012d3585fd522af079fb]: Textual amendment: S. 702(5A)-(5D) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 15(2)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/15/2)
 
-[^key-a32108269420352b2482419d910ac29e]: Textual amendment: Words in s. 702(5B) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 555](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/555) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), 2)
+[^c-a32108269420352b2482419d910ac29e]: Textual amendment: Words in s. 702(5B) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 555](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/555) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), 2)
 
-[^key-6bf33ed477b6b7e87ee2ad2796552d1d]: Textual amendment: Words in s. 702(6) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 15(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/15/3)
+[^c-6bf33ed477b6b7e87ee2ad2796552d1d]: Textual amendment: Words in s. 702(6) inserted (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 15(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/15/3)

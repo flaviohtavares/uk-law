@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Power of members of staff at further education institutions to search students[^key-a65e8503f4641ed9baddeba8b29e7713]
+## 3. Power of members of staff at further education institutions to search students[^c-a65e8503f4641ed9baddeba8b29e7713]
 
 *Extent: E+W*
 
@@ -103,4 +103,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a65e8503f4641ed9baddeba8b29e7713]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/21/section/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-a65e8503f4641ed9baddeba8b29e7713]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/21/section/3) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

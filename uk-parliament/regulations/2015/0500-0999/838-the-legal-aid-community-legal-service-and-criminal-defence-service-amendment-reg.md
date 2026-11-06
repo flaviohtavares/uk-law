@@ -44,13 +44,13 @@ Coming into force in accordance with regulation 1
 
 The Lord Chancellor makes these Regulations in exercise of the powers conferred by sections 7, 10, 17A, 25(8) and 26 of, and paragraphs 3B and 8(2) of Schedule 3 to, the Access to Justice Act 1999[^f00001] and sections 14(h), 21(2) and (3), 22(3)(f), 23(1) and (6) and 41(1) and (2) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00002].
 
-## 1. Citation and commencement[^key-bd10724238afd93638c81d5f3fe75f7c]
+## 1. Citation and commencement[^c-bd10724238afd93638c81d5f3fe75f7c]
 
 (1) These Regulations may be cited as the Legal Aid, Community Legal Service and Criminal Defence Service (Amendment) Regulations 2015.
 
 (2) These Regulations come into force for the purposes of Regulation 7 on 24th March 2015 and for all other purposes on 13th April 2015.
 
-## 2. Amendment to the Community Legal Service (Financial) Regulations 2000[^key-a8ca3e625b9b73775f3df7e2cfba34af]
+## 2. Amendment to the Community Legal Service (Financial) Regulations 2000[^c-a8ca3e625b9b73775f3df7e2cfba34af]
 
 In the Community Legal Service (Financial) Regulations 2000[^f00003]—
 
@@ -61,11 +61,11 @@ In the Community Legal Service (Financial) Regulations 2000[^f00003]—
   ;
 - (b) in regulation 33(b), after “regulations made under” insert “section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments) or”.
 
-## 3. Amendment to the Criminal Defence Service (General) (No. 2) Regulations 2001[^key-0048ab326e9540bf99dc45d8a9cb0edd]
+## 3. Amendment to the Criminal Defence Service (General) (No. 2) Regulations 2001[^c-0048ab326e9540bf99dc45d8a9cb0edd]
 
 In paragraph 8(1)(d) of Schedule 1 to the Criminal Defence Service (General) (No. 2) Regulations 2001[^f00008], after “regulations made under” insert “section 17A of the Children Act 1989 (direct payments), section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments) or”.
 
-## 4. Amendment to the Criminal Defence Service (Financial Eligibility) Regulations 2006[^key-d5039e61f24de940a14291239c73e042]
+## 4. Amendment to the Criminal Defence Service (Financial Eligibility) Regulations 2006[^c-d5039e61f24de940a14291239c73e042]
 
 In the definition of “gross annual income” in regulation 2(1) of the Criminal Defence Service (Financial Eligibility) Regulations 2006[^f00009], for paragraph (b) substitute—
 
@@ -73,7 +73,7 @@ In the definition of “gross annual income” in regulation 2(1) of the Crimina
 
 .
 
-## 5. Amendment to the Criminal Defence Service (Information Requests) (Prescribed Benefits) Regulations 2009[^key-cfd4be6b63840f6b334a4c5cea6b12bf]
+## 5. Amendment to the Criminal Defence Service (Information Requests) (Prescribed Benefits) Regulations 2009[^c-cfd4be6b63840f6b334a4c5cea6b12bf]
 
 In the table in regulation 2 of the Criminal Defence Service (Information Requests) (Prescribed Benefits) Regulations 2009[^f00010], for the entry—
 
@@ -91,7 +91,7 @@ substitute, in the first, second and third columns respectively—
 
 .
 
-## 6. Amendment to the Criminal Defence Service (Contribution Orders) Regulations 2009[^key-b5013cc136736e75943a9ce9dc0e5f64]
+## 6. Amendment to the Criminal Defence Service (Contribution Orders) Regulations 2009[^c-b5013cc136736e75943a9ce9dc0e5f64]
 
 In the definition of “gross annual income” in regulation 2(1) of the Criminal Defence Service (Contribution Orders) Regulations 2009[^f00012], for paragraph (b) substitute—
 
@@ -99,7 +99,7 @@ In the definition of “gross annual income” in regulation 2(1) of the Crimina
 
 .
 
-## 7. Amendment to the Criminal Legal Aid (General) Regulations 2013[^key-abc1f90ba5f563f7c3e51e85822d4e59][^key-abc1f90ba5f563f7c3e51e85822d4e59]
+## 7. Amendment to the Criminal Legal Aid (General) Regulations 2013[^c-abc1f90ba5f563f7c3e51e85822d4e59][^c-abc1f90ba5f563f7c3e51e85822d4e59]
 
 In regulation 9 of the Criminal Legal Aid (General) Regulations 2013[^f00013], after paragraph (j) insert—
 
@@ -107,22 +107,22 @@ In regulation 9 of the Criminal Legal Aid (General) Regulations 2013[^f00013], a
 
 .
 
-## 8. Amendment to the Criminal Legal Aid (Financial Resources) Regulations 2013[^key-9f15317b806df6be244c7de47772c0c7]
+## 8. Amendment to the Criminal Legal Aid (Financial Resources) Regulations 2013[^c-9f15317b806df6be244c7de47772c0c7]
 
 In regulations 11(3)(f), 20(2)(e) and 33(2)(e) of the Criminal Legal Aid (Financial Resources) Regulations 2013[^f00015], after “regulations made under” insert “section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments),”.
 
-## 9. Amendment to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^key-b92454cfa1cc312548de47c7e9565dee]
+## 9. Amendment to the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^c-b92454cfa1cc312548de47c7e9565dee]
 
 In the Civil Legal Aid (Financial Resources and Payment for Services) Regulations 2013[^f00016]—
 
 - (a) in regulation 24(1)(g), after “regulations made under” insert “section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments),”;
 - (b) in regulation 40(b)(ii), after “regulations made under” insert “section 17A of the Children Act 1989 (direct payments), section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments) or”.
 
-## 10. Amendment to the Criminal Legal Aid (Contribution Orders) Regulations 2013[^key-8acac73f48f8daa144fe7ae98d542d89]
+## 10. Amendment to the Criminal Legal Aid (Contribution Orders) Regulations 2013[^c-8acac73f48f8daa144fe7ae98d542d89]
 
 In regulation 10(2)(e) of the Criminal Legal Aid (Contribution Orders) Regulations 2013[^f00017], after “regulations made under” insert “section 49(3) of the Children and Families Act 2014 (personal budgets and direct payments),”.
 
-## 11. Amendment to the Legal Aid (Information about Financial Resources) Regulations 2013[^key-b42b6369b877b59e4c5c65754ac15597]
+## 11. Amendment to the Legal Aid (Information about Financial Resources) Regulations 2013[^c-b42b6369b877b59e4c5c65754ac15597]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -154,9 +154,9 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10). Section 42(1) provides that in Part 1 of that Act “regulations” means regulations made by the Lord Chancellor and “prescribed” means prescribed by regulations (except in Schedule 6).
 
-[^key-bd10724238afd93638c81d5f3fe75f7c]: Commencement: Reg. 1 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-bd10724238afd93638c81d5f3fe75f7c]: Commencement: Reg. 1 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
-[^key-a8ca3e625b9b73775f3df7e2cfba34af]: Commencement: Reg. 2 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-a8ca3e625b9b73775f3df7e2cfba34af]: Commencement: Reg. 2 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2000/516](https://www.legislation.gov.uk/uksi/2000/516), amended by [S.I. 2003/762](https://www.legislation.gov.uk/uksi/2003/762), [2004/1748](https://www.legislation.gov.uk/uksi/2004/1748), [2007/906](https://www.legislation.gov.uk/uksi/2007/906) and [2009/1887](https://www.legislation.gov.uk/uksi/2009/1887); there are other amending instruments but none is relevant.
 
@@ -168,40 +168,40 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00007]: Footnote: [2014 c. 6](https://www.legislation.gov.uk/ukpga/2014/6).
 
-[^key-0048ab326e9540bf99dc45d8a9cb0edd]: Commencement: Reg. 3 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-0048ab326e9540bf99dc45d8a9cb0edd]: Commencement: Reg. 3 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2001/1437](https://www.legislation.gov.uk/uksi/2001/1437), amended by [S.I. 2003/762](https://www.legislation.gov.uk/uksi/2003/762) and [2004/1748](https://www.legislation.gov.uk/uksi/2004/1748); there are other amending instruments but none is relevant.
 
-[^key-d5039e61f24de940a14291239c73e042]: Commencement: Reg. 4 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-d5039e61f24de940a14291239c73e042]: Commencement: Reg. 4 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2006/2492](https://www.legislation.gov.uk/uksi/2006/2492), amended by [S.I. 2009/1887](https://www.legislation.gov.uk/uksi/2009/1887); there are other amending instruments but none is relevant.
 
-[^key-cfd4be6b63840f6b334a4c5cea6b12bf]: Commencement: Reg. 5 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-cfd4be6b63840f6b334a4c5cea6b12bf]: Commencement: Reg. 5 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2009/212](https://www.legislation.gov.uk/uksi/2009/212), to which there are amendments not relevant to these Regulations.
 
 [^f00011]: Footnote: [S.I. 2004/1798](https://www.legislation.gov.uk/uksi/2004/1798), revoked by [S.I. 2011/831](https://www.legislation.gov.uk/uksi/2011/831).
 
-[^key-b5013cc136736e75943a9ce9dc0e5f64]: Commencement: Reg. 6 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-b5013cc136736e75943a9ce9dc0e5f64]: Commencement: Reg. 6 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2009/3328](https://www.legislation.gov.uk/uksi/2009/3328), to which there are amendments not relevant to these Regulations.
 
-[^key-abc1f90ba5f563f7c3e51e85822d4e59]: Commencement: Reg. 7 in force at 24.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-abc1f90ba5f563f7c3e51e85822d4e59]: Commencement: Reg. 7 in force at 24.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2013/9](https://www.legislation.gov.uk/uksi/2013/9), amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472) and [2015/326](https://www.legislation.gov.uk/uksi/2015/326).
 
 [^f00014]: Footnote: [2014 c. 12](https://www.legislation.gov.uk/ukpga/2014/12).
 
-[^key-9f15317b806df6be244c7de47772c0c7]: Commencement: Reg. 8 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-9f15317b806df6be244c7de47772c0c7]: Commencement: Reg. 8 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2013/471](https://www.legislation.gov.uk/uksi/2013/471), amended by [S.I. 2013/2791](https://www.legislation.gov.uk/uksi/2013/2791); there are other amending instruments but none is relevant.
 
-[^key-b92454cfa1cc312548de47c7e9565dee]: Commencement: Reg. 9 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-b92454cfa1cc312548de47c7e9565dee]: Commencement: Reg. 9 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480), to which there are amendments not relevant to these Regulations.
 
-[^key-8acac73f48f8daa144fe7ae98d542d89]: Commencement: Reg. 10 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
+[^c-8acac73f48f8daa144fe7ae98d542d89]: Commencement: Reg. 10 in force at 13.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/838/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2013/483](https://www.legislation.gov.uk/uksi/2013/483), to which there are amendments not relevant to these Regulations.
 
-[^key-b42b6369b877b59e4c5c65754ac15597]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/838/regulation/11) revoked (26.6.2015) by [The Legal Aid (Information about Financial Resources) (Amendment) Regulations 2015 (S.I. 2015/1408)](https://www.legislation.gov.uk/uksi/2015/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1408/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/1408/regulation/3)
+[^c-b42b6369b877b59e4c5c65754ac15597]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/838/regulation/11) revoked (26.6.2015) by [The Legal Aid (Information about Financial Resources) (Amendment) Regulations 2015 (S.I. 2015/1408)](https://www.legislation.gov.uk/uksi/2015/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1408/regulation/1), [3](https://www.legislation.gov.uk/uksi/2015/1408/regulation/3)

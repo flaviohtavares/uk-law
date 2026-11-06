@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The[^key-135ee33e095559fda85899fd72ffb02f] Welsh Ministers may by order make any provision in relation to Wales which the authority for an IFC district may make for that district by a byelaw made under section 155.
+(1) The[^c-135ee33e095559fda85899fd72ffb02f] Welsh Ministers may by order make any provision in relation to Wales which the authority for an IFC district may make for that district by a byelaw made under section 155.
 
-(2)[^key-3707a6e05f2b76bed4ed58c567855cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3707a6e05f2b76bed4ed58c567855cf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this section—
 
@@ -33,6 +33,6 @@ summary: ''
 
 [^c2007932]: Commencement: S. 189 partly in force; s. 189 in force for specified purposes at Royal Assent see s. 324(1)(c)
 
-[^key-135ee33e095559fda85899fd72ffb02f]: Textual amendment: Word in [s. 189(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/189/1) substituted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 28(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/28/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-135ee33e095559fda85899fd72ffb02f]: Textual amendment: Word in [s. 189(1)](https://www.legislation.gov.uk/ukpga/2009/23/section/189/1) substituted (23.1.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 28(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/28/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-3707a6e05f2b76bed4ed58c567855cf0]: Textual amendment: [S. 189(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/189/2) omitted (23.1.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 28(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/28/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-3707a6e05f2b76bed4ed58c567855cf0]: Textual amendment: [S. 189(2)](https://www.legislation.gov.uk/ukpga/2009/23/section/189/2) omitted (23.1.2021) by virtue of [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(4)(d)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/4/d), [Sch. 10 para. 28(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/28/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

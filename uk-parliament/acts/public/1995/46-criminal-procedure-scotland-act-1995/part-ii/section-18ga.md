@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18GA. Retention of further fingerprints[^key-404175842f893521a20ef2ba9d4b99b3]
+## 18GA. Retention of further fingerprints[^c-404175842f893521a20ef2ba9d4b99b3]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-404175842f893521a20ef2ba9d4b99b3]: Textual amendment: [S. 18GA](https://www.legislation.gov.uk/ukpga/1995/46/section/18GA) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/8); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)
+[^c-404175842f893521a20ef2ba9d4b99b3]: Textual amendment: [S. 18GA](https://www.legislation.gov.uk/ukpga/1995/46/section/18GA) inserted (13.8.2020) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [s. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/2/b), [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2019/3/schedule/2/paragraph/8); [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/e)

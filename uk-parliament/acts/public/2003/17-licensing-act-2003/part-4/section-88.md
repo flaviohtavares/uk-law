@@ -28,7 +28,7 @@ summary: ''
 
 (2) Before determining the application, the authority must hold a hearing to consider it and any relevant representations.
 
-(3) The authority must, having regard to the application and any relevant representations, take such of the steps mentioned in subsection (4) (if any) as it considers appropriate[^key-e883bd05181b5fbc276dd9e068edb6e4] for the promotion of the licensing objectives.
+(3) The authority must, having regard to the application and any relevant representations, take such of the steps mentioned in subsection (4) (if any) as it considers appropriate[^c-e883bd05181b5fbc276dd9e068edb6e4] for the promotion of the licensing objectives.
 
 (4) The steps are—
 
@@ -50,9 +50,9 @@ and for this purpose the conditions of the certificate are modified if any of th
 
 (8) The requirements are—
 
-- (a) that the representations are made by the club, a responsible authority or any other person[^key-5d3bc8ea6b50519fd5dafc1008cbe680] within the period prescribed under section 87(3)(c),
+- (a) that the representations are made by the club, a responsible authority or any other person[^c-5d3bc8ea6b50519fd5dafc1008cbe680] within the period prescribed under section 87(3)(c),
 - (b) that they have not been withdrawn, and
-- (c) if they are made by a person who is not a responsible authority[^key-793f6765eb17bc7f3721ff19cce0446d], that they are not, in the opinion of the relevant licensing authority, frivolous or vexatious.
+- (c) if they are made by a person who is not a responsible authority[^c-793f6765eb17bc7f3721ff19cce0446d], that they are not, in the opinion of the relevant licensing authority, frivolous or vexatious.
 
 (9) Where the relevant licensing authority determines that any representations are frivolous or vexatious, it must give the person who made them its reasons for that determination.
 
@@ -70,12 +70,12 @@ and for this purpose the conditions of the certificate are modified if any of th
 
 ## Annotations
 
-[^key-e883bd05181b5fbc276dd9e068edb6e4]: Textual amendment: Word in s. 88(3) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 110(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/110/5), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 110(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/110/6)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-e883bd05181b5fbc276dd9e068edb6e4]: Textual amendment: Word in s. 88(3) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 110(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/110/5), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 110(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/110/6)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
 [^c21006721]: Textual amendment: Words in s. 88(5) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 112](https://www.legislation.gov.uk/ukpga/2009/26/section/112), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116), [Sch. 7 para. 41(a)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/41/a); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
 
 [^c21006741]: Textual amendment: Words in s. 88(5) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 112](https://www.legislation.gov.uk/ukpga/2009/26/section/112), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116), [Sch. 7 para. 41(b)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/41/b); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
 
-[^key-5d3bc8ea6b50519fd5dafc1008cbe680]: Textual amendment: Words in s. 88(8)(a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(4)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/4/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-5d3bc8ea6b50519fd5dafc1008cbe680]: Textual amendment: Words in s. 88(8)(a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(4)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/4/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-793f6765eb17bc7f3721ff19cce0446d]: Textual amendment: Words in s. 88(8)(c) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(4)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/4/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-793f6765eb17bc7f3721ff19cce0446d]: Textual amendment: Words in s. 88(8)(c) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 108(4)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/4/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 108(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/108/5)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

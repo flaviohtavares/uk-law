@@ -28,7 +28,7 @@ summary: ''
 
 Social Security
 
-The Universal Credit (Housing Costs Element for claimants aged 18 to 21) (Amendment) Regulations 2017 (revoked)[^key-9b022a251849ff5a3629b8f7f70e3ecd]
+The Universal Credit (Housing Costs Element for claimants aged 18 to 21) (Amendment) Regulations 2017 (revoked)[^c-9b022a251849ff5a3629b8f7f70e3ecd]
 
 Made
 
@@ -42,19 +42,19 @@ Coming into force
 
 1st April 2017
 
-[^key-9b022a251849ff5a3629b8f7f70e3ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b022a251849ff5a3629b8f7f70e3ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9b022a251849ff5a3629b8f7f70e3ecd]
+## 1. Citation and commencement[^c-9b022a251849ff5a3629b8f7f70e3ecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Entitlement to housing costs element[^key-9b022a251849ff5a3629b8f7f70e3ecd]
+## 2. Entitlement to housing costs element[^c-9b022a251849ff5a3629b8f7f70e3ecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Saving for claimants not living in a digital service area[^key-9b022a251849ff5a3629b8f7f70e3ecd]
+## 3. Saving for claimants not living in a digital service area[^c-9b022a251849ff5a3629b8f7f70e3ecd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -62,11 +62,11 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9b022a251849ff5a3629b8f7f70e3ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b022a251849ff5a3629b8f7f70e3ecd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-9b022a251849ff5a3629b8f7f70e3ecd]EXPLANATORY NOTE
+[^c-9b022a251849ff5a3629b8f7f70e3ecd]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -94,4 +94,4 @@ An impact assessment has not been produced as this instrument has no impact on b
 
 ## Annotations
 
-[^key-9b022a251849ff5a3629b8f7f70e3ecd]: Textual amendment: Instrument revoked (31.12.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1129)](https://www.legislation.gov.uk/uksi/2018/1129), [reg. 4](https://www.legislation.gov.uk/uksi/2018/1129/regulation/4)
+[^c-9b022a251849ff5a3629b8f7f70e3ecd]: Textual amendment: Instrument revoked (31.12.2018) by [The Universal Credit and Jobseekers Allowance (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1129)](https://www.legislation.gov.uk/uksi/2018/1129), [reg. 4](https://www.legislation.gov.uk/uksi/2018/1129/regulation/4)

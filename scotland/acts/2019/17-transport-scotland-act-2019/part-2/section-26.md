@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Financial powers etc.[^key-aeda7118a53def5dd73dd1b1e2eaef09]
+## 26. Financial powers etc.[^c-aeda7118a53def5dd73dd1b1e2eaef09]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ A local authority may—
 
 ## Annotations
 
-[^key-aeda7118a53def5dd73dd1b1e2eaef09]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/17/section/26) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-aeda7118a53def5dd73dd1b1e2eaef09]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2019/17/section/26) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

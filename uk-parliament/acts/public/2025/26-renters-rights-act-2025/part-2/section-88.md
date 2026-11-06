@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Use of information from the database[^key-65245ad1334ff8da056bdf21783a0b05]
+## 88. Use of information from the database[^c-65245ad1334ff8da056bdf21783a0b05]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65245ad1334ff8da056bdf21783a0b05]: Commencement: S. 88 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-65245ad1334ff8da056bdf21783a0b05]: Commencement: S. 88 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

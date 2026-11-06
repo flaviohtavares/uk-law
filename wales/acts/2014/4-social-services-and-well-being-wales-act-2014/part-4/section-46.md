@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Exception for persons subject to immigration control[^key-afb2e50442b4030d831e7f3a8d33770a][^key-875892a3eaf37d1ab536a32411d3abdf]
+## 46. Exception for persons subject to immigration control[^c-afb2e50442b4030d831e7f3a8d33770a][^c-875892a3eaf37d1ab536a32411d3abdf]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-afb2e50442b4030d831e7f3a8d33770a]: Commencement: S. 46 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-afb2e50442b4030d831e7f3a8d33770a]: Commencement: S. 46 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-875892a3eaf37d1ab536a32411d3abdf]: Modification: Ss. 46-49 applied (1.4.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 52(8)](https://www.legislation.gov.uk/ukpga/2014/23/section/52/8), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1) (with [s. 52(13)](https://www.legislation.gov.uk/ukpga/2014/23/section/52/13)[(14)](https://www.legislation.gov.uk/ukpga/2014/23/section/52/14)); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(p)](https://www.legislation.gov.uk/uksi/2015/993/article/2/p) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995)); [S.I. 2016/464](https://www.legislation.gov.uk/uksi/2016/464), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/464/article/2/b)
+[^c-875892a3eaf37d1ab536a32411d3abdf]: Modification: Ss. 46-49 applied (1.4.2015 for specified purposes, 6.4.2016 in so far as not already in force) by [Care Act 2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23), [ss. 52(8)](https://www.legislation.gov.uk/ukpga/2014/23/section/52/8), [127(1)](https://www.legislation.gov.uk/ukpga/2014/23/section/127/1) (with [s. 52(13)](https://www.legislation.gov.uk/ukpga/2014/23/section/52/13)[(14)](https://www.legislation.gov.uk/ukpga/2014/23/section/52/14)); [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(p)](https://www.legislation.gov.uk/uksi/2015/993/article/2/p) (with transitional provisions in [S.I. 2015/995](https://www.legislation.gov.uk/uksi/2015/995)); [S.I. 2016/464](https://www.legislation.gov.uk/uksi/2016/464), [art. 2(b)](https://www.legislation.gov.uk/uksi/2016/464/article/2/b)

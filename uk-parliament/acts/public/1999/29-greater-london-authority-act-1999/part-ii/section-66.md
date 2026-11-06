@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. The Secretary of State’s guidance on ethical standards.[^key-7a5fe98831854080a2635ad4ffd7d211]
+## 66. The Secretary of State’s guidance on ethical standards.[^c-7a5fe98831854080a2635ad4ffd7d211]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a5fe98831854080a2635ad4ffd7d211]: Textual amendment: S. 66 repealed (E.W.) (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2](https://www.legislation.gov.uk/uksi/2012/1358/article/2)
+[^c-7a5fe98831854080a2635ad4ffd7d211]: Textual amendment: S. 66 repealed (E.W.) (22.5.2012) by [Local Government Act 2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), [s. 108(3)(b)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/b)[(c)](https://www.legislation.gov.uk/ukpga/2000/22/section/108/3/c), [Sch. 5 para. 34](https://www.legislation.gov.uk/ukpga/2000/22/schedule/5/paragraph/34), [Sch. 6](https://www.legislation.gov.uk/ukpga/2000/22/schedule/6); [S.I. 2012/1358](https://www.legislation.gov.uk/uksi/2012/1358), [art. 2](https://www.legislation.gov.uk/uksi/2012/1358/article/2)

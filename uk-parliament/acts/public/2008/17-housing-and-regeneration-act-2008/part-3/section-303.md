@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303. Service charges: provision of information and designated accounts[^key-f7519ad2a1d3374ec52fdb97fd5a2515]
+## 303. Service charges: provision of information and designated accounts[^c-f7519ad2a1d3374ec52fdb97fd5a2515]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 12 (which relates to the provision of information about service charges
 
 ## Annotations
 
-[^key-f7519ad2a1d3374ec52fdb97fd5a2515]: Commencement: S. 303 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6)[(7)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/7) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-f7519ad2a1d3374ec52fdb97fd5a2515]: Commencement: S. 303 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(6)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/6)[(7)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/7) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

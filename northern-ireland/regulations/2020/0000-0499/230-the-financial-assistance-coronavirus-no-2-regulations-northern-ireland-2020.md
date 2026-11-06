@@ -80,15 +80,15 @@ Regulation 2
 
 (2) In this Scheme:—
 
-- “**bed and breakfast**” means a bed and breakfast establishment for the purposes of paragraph 1(12) of Schedule 1 to the Coronavirus Regulations[^key-634ab9865fb41f38c0164477771aba25];
+- “**bed and breakfast**” means a bed and breakfast establishment for the purposes of paragraph 1(12) of Schedule 1 to the Coronavirus Regulations[^c-634ab9865fb41f38c0164477771aba25];
 - “**capital value list**” means a “**capital value list**” as defined by Article 2(2) of the Rates Order;
 - “**Coronavirus Financial Assistance**” means financial assistance provided under this Scheme;
-- “the Coronavirus Regulations” means the Health Protection (Coronavirus, Restrictions) Regulations (Northern Ireland) 2021;[^key-6e9b3b0f0c0fcdf46fa77f04fc980e5d]
+- “the Coronavirus Regulations” means the Health Protection (Coronavirus, Restrictions) Regulations (Northern Ireland) 2021;[^c-6e9b3b0f0c0fcdf46fa77f04fc980e5d]
 - “**the Department**” means the Department of Finance;
-- “**guest house**” means a guest house for the purposes of paragraph 1(12) of Schedule 1 to the Coronavirus Regulations[^key-66ea66bf82a682759771993dfa5d19ad];
+- “**guest house**” means a guest house for the purposes of paragraph 1(12) of Schedule 1 to the Coronavirus Regulations[^c-66ea66bf82a682759771993dfa5d19ad];
 - “**hereditament**” means a hereditament as defined by Article 2(2) of the Rates Order;
-- “higher rate” will be a payment of £1,600 for any 7 day period within a qualifying period, and a single payment of £229 for each day, within any period of less than 7 days, that may follow such a 7 day period.[^key-8b43d3954dde8adc01651738889e1cf8]
-- “lower rate” will be a payment of £800 for any 7 day period within a qualifying period, and a single payment of £114 for each day, within any period of less than 7 days, that may follow such a 7 day period.[^key-5c2cd2bce7e609fe78e7ff4d4978e009]
+- “higher rate” will be a payment of £1,600 for any 7 day period within a qualifying period, and a single payment of £229 for each day, within any period of less than 7 days, that may follow such a 7 day period.[^c-8b43d3954dde8adc01651738889e1cf8]
+- “lower rate” will be a payment of £800 for any 7 day period within a qualifying period, and a single payment of £114 for each day, within any period of less than 7 days, that may follow such a 7 day period.[^c-5c2cd2bce7e609fe78e7ff4d4978e009]
 - “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975 [^c24316841];
 - “**net annual value**” means a net annual value as defined by Article 2(2) of the Rates Order;
 - “**occupier**” means a person who carries on a relevant business in a restricted hereditament where-
@@ -96,11 +96,11 @@ Regulation 2
   - (b) they are not the employee or agent of any other occupier of the restricted hereditament;
   - (c) their occupation of the whole or a part of the restricted hereditament to conduct their relevant business is exclusive of the activity of any other occupier during their business hours; and
   - (d) their occupation is not transient;
-- “**qualifying period**” means an “active period” for the purposes of regulation 1(2) to the Coronavirus Regulations[^key-1c41bf1db9387918d682ec0c9b8bdf21];
+- “**qualifying period**” means an “active period” for the purposes of regulation 1(2) to the Coronavirus Regulations[^c-1c41bf1db9387918d682ec0c9b8bdf21];
 - “**the Rates Order**” means the Rates (Northern Ireland) Order 1977 [^c24316851];
-- “relevant business” subject to paragraph 2(3)(b), means a business or service which was restricted or subject to closure as a result of regulations 4, 5, 8 or 16 of, or paragraphs 1(4) to (10) and paragraph 1(12) of Schedule 1 to, the Coronavirus Regulations;[^key-7d8cef5bb2929df51859053f38d29b4a]
+- “relevant business” subject to paragraph 2(3)(b), means a business or service which was restricted or subject to closure as a result of regulations 4, 5, 8 or 16 of, or paragraphs 1(4) to (10) and paragraph 1(12) of Schedule 1 to, the Coronavirus Regulations;[^c-7d8cef5bb2929df51859053f38d29b4a]
 - “**restricted hereditament**” means a hereditament within which an occupier carries on a relevant business;
-- “standard rate” will be a payment of £1,200 for any 7 day period within a qualifying period, and a single payment of £171 for each day, within any period of less than 7 days, that may follow such a 7 day period.[^key-82f064354e12c2ab58c8aaba02350310]
+- “standard rate” will be a payment of £1,200 for any 7 day period within a qualifying period, and a single payment of £171 for each day, within any period of less than 7 days, that may follow such a 7 day period.[^c-82f064354e12c2ab58c8aaba02350310]
 - “**statutory undertaker**” means persons authorised by any statutory provision to carry on any railway, road transport, water transport, inland navigation or dock undertaking, or a gas undertaker, an electricity undertaker, a water undertaker or a sewerage undertaker or the airport operator (within the meaning of the Airports (Northern Ireland) Order 1994 [^c24316861]) of any airport to which Article 25 of that Order applies.
 
 ### 2. Eligibility
@@ -118,8 +118,8 @@ Regulation 2
 
 **3.** A person is eligible upon application under paragraph 2 for Coronavirus Financial Assistance at the lower rate if, at the commencement of the qualifying period, they were -
 
-- (a) the occupier of a restricted hereditament [^key-395d598258b365c94922f503fc08ad63]... whose net annual value does not exceed £15,000;
-- (b) the occupier of a part of a restricted hereditament [^key-395d598258b365c94922f503fc08ad63]...; or
+- (a) the occupier of a restricted hereditament [^c-395d598258b365c94922f503fc08ad63]... whose net annual value does not exceed £15,000;
+- (b) the occupier of a part of a restricted hereditament [^c-395d598258b365c94922f503fc08ad63]...; or
 - (c) the occupier of a restricted hereditament which is a bed and breakfast or guest house within the capital value list.
 
 **4.** A person is eligible upon application under paragraph 2 for Coronavirus Financial Assistance at the standard rate if, at the commencement of the qualifying period, they were the occupier of a restricted hereditament [^M_F_1c0d0fa0-3c5d-4600-a424-fe9cffd3f5c1]... whose net annual value exceeds £15,000 but does not exceed £51,000.
@@ -198,29 +198,29 @@ Paragraph 12 and 13 provides for a statutory requirement for a periodic review o
 
 [^c24316821]: Marginal citation: [2009 c. 2](https://www.legislation.gov.uk/ukpga/2009/2)
 
-[^key-634ab9865fb41f38c0164477771aba25]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/a)
+[^c-634ab9865fb41f38c0164477771aba25]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(a)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/a)
 
-[^key-6e9b3b0f0c0fcdf46fa77f04fc980e5d]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2020/230/schedule/paragraph/1/2) substituted (9.4.2021) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/94)](https://www.legislation.gov.uk/nisr/2021/94), [regs. 1](https://www.legislation.gov.uk/nisr/2021/94/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/nisr/2021/94/regulation/2/a/i)
+[^c-6e9b3b0f0c0fcdf46fa77f04fc980e5d]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2020/230/schedule/paragraph/1/2) substituted (9.4.2021) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/94)](https://www.legislation.gov.uk/nisr/2021/94), [regs. 1](https://www.legislation.gov.uk/nisr/2021/94/regulation/1), [2(a)(i)](https://www.legislation.gov.uk/nisr/2021/94/regulation/2/a/i)
 
-[^key-66ea66bf82a682759771993dfa5d19ad]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/b)
+[^c-66ea66bf82a682759771993dfa5d19ad]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/b)
 
-[^key-8b43d3954dde8adc01651738889e1cf8]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(c)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/c)
+[^c-8b43d3954dde8adc01651738889e1cf8]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(c)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/c)
 
-[^key-5c2cd2bce7e609fe78e7ff4d4978e009]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/d)
+[^c-5c2cd2bce7e609fe78e7ff4d4978e009]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(d)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/d)
 
 [^c24316841]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
 
-[^key-1c41bf1db9387918d682ec0c9b8bdf21]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(g)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/g)
+[^c-1c41bf1db9387918d682ec0c9b8bdf21]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(g)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/g)
 
 [^c24316851]: Marginal citation: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157)
 
-[^key-7d8cef5bb2929df51859053f38d29b4a]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2020/230/schedule/paragraph/1/2) substituted (9.4.2021) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/94)](https://www.legislation.gov.uk/nisr/2021/94), [regs. 1](https://www.legislation.gov.uk/nisr/2021/94/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/nisr/2021/94/regulation/2/a/ii)
+[^c-7d8cef5bb2929df51859053f38d29b4a]: Textual amendment: Words in [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2020/230/schedule/paragraph/1/2) substituted (9.4.2021) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/94)](https://www.legislation.gov.uk/nisr/2021/94), [regs. 1](https://www.legislation.gov.uk/nisr/2021/94/regulation/1), [2(a)(ii)](https://www.legislation.gov.uk/nisr/2021/94/regulation/2/a/ii)
 
-[^key-82f064354e12c2ab58c8aaba02350310]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(f)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/f)
+[^c-82f064354e12c2ab58c8aaba02350310]: Textual amendment: Words in Sch. substituted (26.12.2020) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/354)](https://www.legislation.gov.uk/nisr/2020/354), [regs. 1](https://www.legislation.gov.uk/nisr/2020/354/regulation/1), [2(f)](https://www.legislation.gov.uk/nisr/2020/354/regulation/2/f)
 
 [^c24316861]: Marginal citation: [S.I. 1994/426 (N.I.1)](https://www.legislation.gov.uk/nisi/1994/426)
 
-[^key-395d598258b365c94922f503fc08ad63]: Textual amendment: Words in Sch. para. 3 removed (9.4.2021) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/94)](https://www.legislation.gov.uk/nisr/2021/94), [regs. 1](https://www.legislation.gov.uk/nisr/2021/94/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/94/regulation/2/b)
+[^c-395d598258b365c94922f503fc08ad63]: Textual amendment: Words in Sch. para. 3 removed (9.4.2021) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/94)](https://www.legislation.gov.uk/nisr/2021/94), [regs. 1](https://www.legislation.gov.uk/nisr/2021/94/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/94/regulation/2/b)
 
 [^M_F_1c0d0fa0-3c5d-4600-a424-fe9cffd3f5c1]: Textual amendment: Words in Sch. para. 4 removed (9.4.2021) by [The Financial Assistance (Coronavirus) (No. 2) (Amendment) Regulations (Northern Ireland) 2021 (S.R. 2021/94)](https://www.legislation.gov.uk/nisr/2021/94), [regs. 1](https://www.legislation.gov.uk/nisr/2021/94/regulation/1), [2(b)](https://www.legislation.gov.uk/nisr/2021/94/regulation/2/b)
 

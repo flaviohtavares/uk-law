@@ -35,54 +35,54 @@ amending Implementing Regulation (EU) No 680/2014 as regards prudent valuation f
 
 (Text with EEA relevance) (revoked)
 
-[^key-005fca004fe483821746b9ec350eee4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-005fca004fe483821746b9ec350eee4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-005fca004fe483821746b9ec350eee4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-005fca004fe483821746b9ec350eee4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-005fca004fe483821746b9ec350eee4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-005fca004fe483821746b9ec350eee4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-005fca004fe483821746b9ec350eee4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-005fca004fe483821746b9ec350eee4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-005fca004fe483821746b9ec350eee4c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-005fca004fe483821746b9ec350eee4c]
+## ANNEX I[^c-005fca004fe483821746b9ec350eee4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-005fca004fe483821746b9ec350eee4c]
+## ANNEX II[^c-005fca004fe483821746b9ec350eee4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-005fca004fe483821746b9ec350eee4c]
+## ANNEX III[^c-005fca004fe483821746b9ec350eee4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-005fca004fe483821746b9ec350eee4c]
+## ANNEX IV[^c-005fca004fe483821746b9ec350eee4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI[^key-005fca004fe483821746b9ec350eee4c]
+## ANNEX V[^c-005fca004fe483821746b9ec350eee4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII[^key-005fca004fe483821746b9ec350eee4c]
+## ANNEX VI[^c-005fca004fe483821746b9ec350eee4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VIII[^key-005fca004fe483821746b9ec350eee4c]
+## ANNEX VII[^c-005fca004fe483821746b9ec350eee4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IX[^key-005fca004fe483821746b9ec350eee4c]
+## ANNEX VIII[^c-005fca004fe483821746b9ec350eee4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX X[^key-005fca004fe483821746b9ec350eee4c]
+## ANNEX IX[^c-005fca004fe483821746b9ec350eee4c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX X[^c-005fca004fe483821746b9ec350eee4c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-005fca004fe483821746b9ec350eee4c]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [34(e)](https://www.legislation.gov.uk/uksi/2019/710/regulation/34/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-005fca004fe483821746b9ec350eee4c]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [34(e)](https://www.legislation.gov.uk/uksi/2019/710/regulation/34/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

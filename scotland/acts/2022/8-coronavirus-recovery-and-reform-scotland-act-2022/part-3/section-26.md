@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Funeral director giving information of particulars of death[^key-79dc008e79de66fcffa4cb28a6f4a99a]
+## 26. Funeral director giving information of particulars of death[^c-79dc008e79de66fcffa4cb28a6f4a99a]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79dc008e79de66fcffa4cb28a6f4a99a]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2022/8/section/26) in force at 24.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-79dc008e79de66fcffa4cb28a6f4a99a]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2022/8/section/26) in force at 24.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

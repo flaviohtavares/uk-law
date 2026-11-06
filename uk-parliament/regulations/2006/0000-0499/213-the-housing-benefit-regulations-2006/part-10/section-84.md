@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Date of claim where claim sent or delivered to a gateway office[^key-02af64458032876babf429844efa3b14]
+## 84. Date of claim where claim sent or delivered to a gateway office[^c-02af64458032876babf429844efa3b14]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02af64458032876babf429844efa3b14]: Textual amendment: Reg. 84 omitted (1.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/2/5)
+[^c-02af64458032876babf429844efa3b14]: Textual amendment: Reg. 84 omitted (1.10.2008) by virtue of [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/2/5)

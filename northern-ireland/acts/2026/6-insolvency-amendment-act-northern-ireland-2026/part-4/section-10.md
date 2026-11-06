@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Ability for creditors to opt not to receive certain notices: individual insolvency[^key-796a8d86ee7c9cba6dc6bec1e278ec16]
+## 10. Ability for creditors to opt not to receive certain notices: individual insolvency[^c-796a8d86ee7c9cba6dc6bec1e278ec16]
 
 *Extent: N.I.*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-796a8d86ee7c9cba6dc6bec1e278ec16]: Commencement: S. 10 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-796a8d86ee7c9cba6dc6bec1e278ec16]: Commencement: S. 10 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Reporting obligations: general provisions[^key-7d569fd35ec2f7874269794496479270]
+## 39. Reporting obligations: general provisions[^c-7d569fd35ec2f7874269794496479270]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d569fd35ec2f7874269794496479270]: Commencement: Reg. 39 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-7d569fd35ec2f7874269794496479270]: Commencement: Reg. 39 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

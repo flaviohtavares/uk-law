@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. For protection of railway interests[^key-6f280c1a4398377a3eedcecf65176c5b]
+## 74. For protection of railway interests[^c-6f280c1a4398377a3eedcecf65176c5b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 14 (for protection of railway interests) shall have e
 
 ## Annotations
 
-[^key-6f280c1a4398377a3eedcecf65176c5b]: Commencement: Art. 74 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-6f280c1a4398377a3eedcecf65176c5b]: Commencement: Art. 74 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

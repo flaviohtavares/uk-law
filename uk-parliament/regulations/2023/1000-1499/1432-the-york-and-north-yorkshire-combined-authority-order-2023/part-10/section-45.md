@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Fire and rescue functions excluded from the power to make arrangements[^key-96b18074bf7e2e32440d1f2b19bc3f43]
+## 45. Fire and rescue functions excluded from the power to make arrangements[^c-96b18074bf7e2e32440d1f2b19bc3f43]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-96b18074bf7e2e32440d1f2b19bc3f43]: Commencement: Art. 45 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-96b18074bf7e2e32440d1f2b19bc3f43]: Commencement: Art. 45 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00104]: Footnote: There are amendments to section 1 not relevant to this instrument.
 

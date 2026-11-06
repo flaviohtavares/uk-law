@@ -31,7 +31,7 @@ HEALTH CARE AND ASSOCIATED PROFESSIONS
 
 HEALTH PROFESSIONS
 
-Health Professions Order 2001[^key-32ae284aade24869f7e1134a4287ad1e]
+Health Professions Order 2001[^c-32ae284aade24869f7e1134a4287ad1e]
 
 Made
 
@@ -190,7 +190,7 @@ Schedule 1 provides for the constitution of the elected Council; provisions rela
 
 ## Annotations
 
-[^key-32ae284aade24869f7e1134a4287ad1e]: Textual amendment: [Title](https://www.legislation.gov.uk/uksi/2002/254/title) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/45); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
+[^c-32ae284aade24869f7e1134a4287ad1e]: Textual amendment: [Title](https://www.legislation.gov.uk/uksi/2002/254/title) substituted (2.12.2019) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [s. 70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2), [Sch. 5 para. 45](https://www.legislation.gov.uk/ukpga/2017/16/schedule/5/paragraph/45); [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/s)
 
 [^f00001]: Footnote: [1999 c. 8](https://www.legislation.gov.uk/ukpga/1999/8). An earlier draft of this Order was published for consultation in accordance with paragraph 9(1) of Schedule 3 to the Health Act.
 

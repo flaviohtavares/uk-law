@@ -24,7 +24,7 @@ summary: ''
 
 - (a) the special guardian (or any of them, if there are more than one);
 - (b) any parent or guardian of the child concerned;
-- (c) any individual who is named in a child arrangements order as a person with whom the child is to live;[^key-f1a5d21cbac548206d4db42fb4a25bd3]
+- (c) any individual who is named in a child arrangements order as a person with whom the child is to live;[^c-f1a5d21cbac548206d4db42fb4a25bd3]
 - (d) any individual not falling within any of paragraphs (a) to (c) who has, or immediately before the making of the special guardianship order had, parental responsibility for the child;
 - (e) the child himself; or
 - (f) a local authority designated in a care order with respect to the child.
@@ -46,4 +46,4 @@ summary: ''
 
 [^c15160091]: Textual amendment: Ss. 14A-14G inserted (30.12.2005) by [2002 c. 38](https://www.legislation.gov.uk/ukpga/2002/38), [ss. 115(1)](https://www.legislation.gov.uk/ukpga/2002/38/section/115/1), [148](https://www.legislation.gov.uk/ukpga/2002/38/section/148) (with [Sch. 4 paras. 6-8](https://www.legislation.gov.uk/ukpga/2002/38/schedule/4/paragraph/6)); [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(k)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/k)
 
-[^key-f1a5d21cbac548206d4db42fb4a25bd3]: Textual amendment: Words in s. 14D(1)(c) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/26); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-f1a5d21cbac548206d4db42fb4a25bd3]: Textual amendment: Words in s. 14D(1)(c) substituted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/26); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

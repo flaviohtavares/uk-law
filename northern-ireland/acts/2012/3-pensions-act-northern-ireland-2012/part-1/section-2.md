@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Duty to report on the impact of socio-economic background (including health indicators) in relation to retirement pension[^key-4274ac2fce65d94a1e0f6c2e3205b556]
+## 2. Duty to report on the impact of socio-economic background (including health indicators) in relation to retirement pension[^c-4274ac2fce65d94a1e0f6c2e3205b556]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Department for Social Development shall, within two years of the date on whi
 
 ## Annotations
 
-[^key-4274ac2fce65d94a1e0f6c2e3205b556]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2012/3/section/2) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/a)
+[^c-4274ac2fce65d94a1e0f6c2e3205b556]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2012/3/section/2) in operation at 7.6.2012 by [S.R. 2012/233](https://www.legislation.gov.uk/nisr/2012/233), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2012/233/article/2/2/a)

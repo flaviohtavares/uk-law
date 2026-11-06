@@ -28,7 +28,7 @@ summary: ''
 
 (4) The remuneration of any such adviser shall be determined by the Lord Chancellor with the concurrence of the Minister for the Civil Service and shall be defrayed out of money provided by Parliament.
 
-(5)[^key-ebea189b0e6a0956811a2bbb25966f95] Subsections (1) and (2) apply in relation to the family court as they apply in relation to the High Court.
+(5)[^c-ebea189b0e6a0956811a2bbb25966f95] Subsections (1) and (2) apply in relation to the family court as they apply in relation to the High Court.
 
 ## Annotations
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c12334141]: Marginal citation: [1977 c. 37](https://www.legislation.gov.uk/ukpga/1977/37).
 
-[^key-ebea189b0e6a0956811a2bbb25966f95]: Textual amendment: [S. 70(5)](https://www.legislation.gov.uk/ukpga/1981/54/section/70/5) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/62); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ebea189b0e6a0956811a2bbb25966f95]: Textual amendment: [S. 70(5)](https://www.legislation.gov.uk/ukpga/1981/54/section/70/5) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 62](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/62); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

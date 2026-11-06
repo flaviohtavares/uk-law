@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Resource implications of guidelines[^key-7d57ec0d62e1cb1973d46f3f50c335ff]
+## 127. Resource implications of guidelines[^c-7d57ec0d62e1cb1973d46f3f50c335ff]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d57ec0d62e1cb1973d46f3f50c335ff]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2009/25/section/127) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)
+[^c-7d57ec0d62e1cb1973d46f3f50c335ff]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2009/25/section/127) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/8)

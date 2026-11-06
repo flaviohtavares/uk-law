@@ -98,7 +98,7 @@ for a reference to a sentence of Borstal training there shall be substituted a r
 **9.** In section 5 of the [^c12798501] Rehabilitation of Offenders Act 1974 (rehabilitation periods) the words “detention in a young offender institution" shall be inserted—
 
 - (a) in subsection (1)(b), after the words “youth custody"; and
-- (b)[^key-0789e08d77f05682bf28d46d28836085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0789e08d77f05682bf28d46d28836085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Justice Act 1982 (c. 48)
 
@@ -162,7 +162,7 @@ for a reference to a sentence of Borstal training there shall be substituted a r
 
 [^c12798501]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
-[^key-0789e08d77f05682bf28d46d28836085]: Textual amendment: [Sch. 8 para. 9(b)](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/9/b) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-0789e08d77f05682bf28d46d28836085]: Textual amendment: [Sch. 8 para. 9(b)](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/9/b) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c20670391]: Textual amendment: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/part/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2008/12/section/1/1), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
 

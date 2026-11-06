@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.205. Making and enforcement of the call[^key-7fe06b1bd7985cf44bde716f33c63cd9]
+## 4.205. Making and enforcement of the call[^c-7fe06b1bd7985cf44bde716f33c63cd9]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7fe06b1bd7985cf44bde716f33c63cd9]: Commencement: [Rule 4.205](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.205) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-7fe06b1bd7985cf44bde716f33c63cd9]: Commencement: [Rule 4.205](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.205) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00109]: Marginal citation: \[FORM 4.58\]
 

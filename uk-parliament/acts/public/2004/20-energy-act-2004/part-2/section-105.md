@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Requirement to prepare decommissioning programmes[^key-2d5ccaf31fca0ec317ab8a62ef2b37f4]
+## 105. Requirement to prepare decommissioning programmes[^c-2d5ccaf31fca0ec317ab8a62ef2b37f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) there is a proposal by a person to operate or to use a relevant object in such waters on the completion of its construction, or of any extension of it in such waters; or
 - (c) a person is constructing, extending, operating or using a relevant object in such waters or has begun in such waters to decommission such an object.
 
-(1A)[^key-8b2190313fbe3603dabae0f574091028] In this Chapter “appropriate Minister”—
+(1A)[^c-8b2190313fbe3603dabae0f574091028] In this Chapter “appropriate Minister”—
 
 - (a) in relation to a renewable energy installation, means the Scottish Ministers—
   - (i) if the installation is to be or is wholly in an area of Scottish waters or an area of waters in a Scottish part of a Renewable Energy Zone, and is not being or proposed to be extended outside those areas,
@@ -42,14 +42,14 @@ summary: ''
 
 (1C) Where subsection (1B) applies, the Scottish Ministers must consult the Secretary of State about the exercise of their functions as the appropriate Minister.
 
-(2) The appropriate Minister[^key-f446ceb88a2c8efd41e9e5af847191b4] may by notice require—[^key-a23ccfc177ff679e274857965200bcac]
+(2) The appropriate Minister[^c-f446ceb88a2c8efd41e9e5af847191b4] may by notice require—[^c-a23ccfc177ff679e274857965200bcac]
 
 - (a) a person falling within subsection (1)(a), (b) or (c), or
 - (b) if a person to whom paragraph (a) applies is a body corporate, a body corporate associated with that person (subject to section 105A),
 
 to submit to him a programme for decommissioning the relevant object (a “**decommissioning programme**”).
 
-(3) Before requiring a person to submit a decommissioning programme in respect of proposals made by a person within paragraph (a) or (b) of subsection (1), the[^key-0b8ef67d849bc8812b72804c4768a548] appropriate Minister must be satisfied that at least one of the statutory consents required for giving effect to those proposals—
+(3) Before requiring a person to submit a decommissioning programme in respect of proposals made by a person within paragraph (a) or (b) of subsection (1), the[^c-0b8ef67d849bc8812b72804c4768a548] appropriate Minister must be satisfied that at least one of the statutory consents required for giving effect to those proposals—
 
 - (a) has been given; or
 - (b) has been applied for and is likely to be given;
@@ -61,7 +61,7 @@ but for this purpose it is immaterial that a statutory consent that has been or 
 - (a) it may be given to any one or more of them; and
 - (b) where it is given to more than one of them, the requirement to submit a programme must be satisfied by all those persons acting jointly.
 
-(5) Before giving a notice under this section in relation to a relevant object which is to be or is, [^key-4fcb8ff8dcb388943ab62b4f0bdc6f9d]... partly—
+(5) Before giving a notice under this section in relation to a relevant object which is to be or is, [^c-4fcb8ff8dcb388943ab62b4f0bdc6f9d]... partly—
 
 - (a) in an area of Scottish waters; or
 - (b) in an area of waters in a Scottish part of a Renewable Energy Zone,
@@ -83,7 +83,7 @@ the Secretary of State must consult the Scottish Ministers.
 - (d) if it proposes that the relevant object will be wholly or partly removed from a place in waters regulated under this Chapter, must include provision about restoring that place to the condition that it was in prior to the construction of the object; and
 - (e) if it proposes that the relevant object will be left in position at a place in waters regulated under this Chapter or will not be wholly removed from a place in such waters, must include provision about whatever continuing monitoring and maintenance of the object will be necessary.
 
-(9)[^key-8b9ef5b385385d4f05f5defaa966bb25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-8b9ef5b385385d4f05f5defaa966bb25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) In this Chapter—
 
@@ -101,16 +101,16 @@ the Secretary of State must consult the Scottish Ministers.
 
 ## Annotations
 
-[^key-2d5ccaf31fca0ec317ab8a62ef2b37f4]: Commencement: S. 105 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
+[^c-2d5ccaf31fca0ec317ab8a62ef2b37f4]: Commencement: S. 105 in force at 1.10.2005 by [S.I. 2005/877](https://www.legislation.gov.uk/uksi/2005/877), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/877/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/877/schedule/2)
 
-[^key-8b2190313fbe3603dabae0f574091028]: Textual amendment: S. 105(1A)-(1C) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/9), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-8b2190313fbe3603dabae0f574091028]: Textual amendment: S. 105(1A)-(1C) inserted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/9), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
 
-[^key-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-f446ceb88a2c8efd41e9e5af847191b4]: Textual amendment: Words in Pt. 2 Ch. 3 substituted (1.4.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(10)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/10)[(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
 
-[^key-a23ccfc177ff679e274857965200bcac]: Textual amendment: Words in s. 105(2) substituted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/69/2), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
+[^c-a23ccfc177ff679e274857965200bcac]: Textual amendment: Words in s. 105(2) substituted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 69(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/69/2), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
 
-[^key-0b8ef67d849bc8812b72804c4768a548]: Textual amendment: Words in s. 105(3) substituted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 69(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/69/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
+[^c-0b8ef67d849bc8812b72804c4768a548]: Textual amendment: Words in s. 105(3) substituted (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 69(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/69/3), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/ii)
 
-[^key-4fcb8ff8dcb388943ab62b4f0bdc6f9d]: Textual amendment: Words in s. 105(5) omitted (1.4.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11)[(12)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/12), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-4fcb8ff8dcb388943ab62b4f0bdc6f9d]: Textual amendment: Words in s. 105(5) omitted (1.4.2017) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 62(11)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/11)[(12)](https://www.legislation.gov.uk/ukpga/2016/11/section/62/12), [72(4)(e)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/e); [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
 
-[^key-8b9ef5b385385d4f05f5defaa966bb25]: Textual amendment: S. 105(9) repealed (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2008/32/schedule/5/paragraph/17), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(d)(i)(ii)(ee)](https://www.legislation.gov.uk/uksi/2009/45/article/4/d/ee)
+[^c-8b9ef5b385385d4f05f5defaa966bb25]: Textual amendment: S. 105(9) repealed (6.4.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2), [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2008/32/schedule/5/paragraph/17), [Sch. 6](https://www.legislation.gov.uk/ukpga/2008/32/schedule/6); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(d)(i)(ii)(ee)](https://www.legislation.gov.uk/uksi/2009/45/article/4/d/ee)

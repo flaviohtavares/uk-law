@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Improvement objectives[^key-4ed9069bc25c658a97a1d9b7b896f505][^key-8b502a92748f75860f67474092639741]
+## 85. Improvement objectives[^c-4ed9069bc25c658a97a1d9b7b896f505][^c-8b502a92748f75860f67474092639741]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ed9069bc25c658a97a1d9b7b896f505]: Commencement: S. 85 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-4ed9069bc25c658a97a1d9b7b896f505]: Commencement: S. 85 in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-8b502a92748f75860f67474092639741]: Modification: S. 85 excluded (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 3(1)](https://www.legislation.gov.uk/nia/2021/8/section/3/1)[(2)(a)](https://www.legislation.gov.uk/nia/2021/8/section/3/2/a), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)
+[^c-8b502a92748f75860f67474092639741]: Modification: S. 85 excluded (27.8.2021) by [Local Government (Meetings and Performance) Act (Northern Ireland) 2021 (c. 8)](https://www.legislation.gov.uk/nia/2021/8), [ss. 3(1)](https://www.legislation.gov.uk/nia/2021/8/section/3/1)[(2)(a)](https://www.legislation.gov.uk/nia/2021/8/section/3/2/a), [6(1)](https://www.legislation.gov.uk/nia/2021/8/section/6/1)

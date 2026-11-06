@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Events and Notifications[^key-dafb74180102a1cf3d4debe5d2b0ef9e]
+## SCHEDULE 5 — Events and Notifications[^c-dafb74180102a1cf3d4debe5d2b0ef9e]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ Regulation 26
 
 ## Annotations
 
-[^key-dafb74180102a1cf3d4debe5d2b0ef9e]: Commencement: Sch. 5 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-dafb74180102a1cf3d4debe5d2b0ef9e]: Commencement: Sch. 5 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
 
 [^f00022]: Footnote: Section 35 of the 2006 Act was amended by section 115 of, and Schedule 9 to, the 2012 Act and by [S.I. 2012/3006](https://www.legislation.gov.uk/uksi/2012/3006).

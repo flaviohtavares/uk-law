@@ -22,7 +22,7 @@ summary: ''
 
 (1) There shall be no charge to tax under section 93 or 96 above where securities are transferred between a depositary receipt system and a clearance system.
 
-(1A)[^key-c02d45d3f3433fe23f4fe475645b9cb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-c02d45d3f3433fe23f4fe475645b9cb2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) A transfer between a depositary receipt system and a clearance system means a transfer—
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c22576661]: Textual amendment: S. 97B inserted (with effect in as mentioned in [s. 134(5)(b)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/5/b) of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [s. 134(2)](https://www.legislation.gov.uk/ukpga/2000/17/section/134/2)
 
-[^key-c02d45d3f3433fe23f4fe475645b9cb2]: Textual amendment: S. 97B(1A) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/16)
+[^c-c02d45d3f3433fe23f4fe475645b9cb2]: Textual amendment: S. 97B(1A) omitted (with effect in accordance with Sch. 11 para. 25 of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/11/paragraph/16)

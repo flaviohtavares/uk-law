@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Duty to publish model lease for environmental purposes[^key-5c8c21436d3199b9774bba851c36b38e]
+## 11. Duty to publish model lease for environmental purposes[^c-5c8c21436d3199b9774bba851c36b38e]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c8c21436d3199b9774bba851c36b38e]: Commencement: S. 11 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)
+[^c-5c8c21436d3199b9774bba851c36b38e]: Commencement: S. 11 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)

@@ -49,7 +49,7 @@ Section 157.
 
 (2) The [^c11529961]Royal Marine Forces Volunteer Reserve shall continue to be known [^c11529961]as [^c11529961]the Royal Marines Reserve, and references to that [^c11529961]marine volunteer reserve in any enactment or instrument shall continue to be construed accordingly.
 
-(3) In section 210(2)(b) of the *(affected by repeal, see note)*[^key-42dc45c9c36f73ea843f85fd423611fe] [^c11530001]Army Act 1955 the reference to actual service shall continue to be construed as including a reference to permanent service in the marine forces in pursuance of section 11(1) above. *(affected by repeal, see note)*[^key-42dc45c9c36f73ea843f85fd423611fe]
+(3) In section 210(2)(b) of the *(affected by repeal, see note)*[^c-42dc45c9c36f73ea843f85fd423611fe] [^c11530001]Army Act 1955 the reference to actual service shall continue to be construed as including a reference to permanent service in the marine forces in pursuance of section 11(1) above. *(affected by repeal, see note)*[^c-42dc45c9c36f73ea843f85fd423611fe]
 
 ### Permanent service in naval and marine reserves
 
@@ -68,7 +68,7 @@ In this sub-paragraph “**militia storehouses**” means any building or premis
 
 may be applied to any of the purposes to which money raised on the security of the county rate or stock is applicable or it may be invested in any security in which trustees may by law invest trust moneys, and the interest applied in aid of the county rate or stock, as shall be directed by the county council.
 
-### Enlistment in the Army Reserve or Royal Auxiliary Air Force prior to order or regulation under Auxiliary Forces Act 1953[^c11530041][^key-67963aace79d0fea2cbe4c142624c9b5]
+### Enlistment in the Army Reserve or Royal Auxiliary Air Force prior to order or regulation under Auxiliary Forces Act 1953[^c11530041][^c-67963aace79d0fea2cbe4c142624c9b5]
 
 **8.** Where a man—
 
@@ -85,17 +85,17 @@ nothing in any order or regulation made under any provision of that Act or made 
 
 In relation to the [^c11530061]Reserve Forces Act 1966—
 
-- (a) the provisions of section 3(2) of that Act (which abolished reserve divisions of the Territorial Regular Reserve[^key-a4a6117152a70855c16dfaf06fa247f5] ), and
+- (a) the provisions of section 3(2) of that Act (which abolished reserve divisions of the Territorial Regular Reserve[^c-a4a6117152a70855c16dfaf06fa247f5] ), and
 - (b) the repeal by that Act of section 11(7) of the Auxiliary Forces Act 1953,
 
 do not affect any reserve of officers maintained in pursuance of that section 11(7) immediately before 9th August 1966, but any such reserve may be abolished by order of Her Majesty signified under the hand of the Secretary of State.
 
 ### Transfers to reserve under Army Act and Air Force Act
 
-**10.** In this Act— *(affected by repeal, see note)*[^key-aa1452f4eb09c3643fb09b6e79733011]
+**10.** In this Act— *(affected by repeal, see note)*[^c-aa1452f4eb09c3643fb09b6e79733011]
 
-- (a) references to the *(affected by repeal, see note)*[^key-aa1452f4eb09c3643fb09b6e79733011] [^c11530071]Army Act 1955 in connection with transfers to the reserve include such transfers under the Army Act; *(affected by repeal, see note)*[^key-aa1452f4eb09c3643fb09b6e79733011]
-- (b) references to the *(affected by repeal, see note)*[^key-aa1452f4eb09c3643fb09b6e79733011] [^c11530081]Air Force Act 1955 in connection with transfers to the reserve include such transfers under the Air Force Act. *(affected by repeal, see note)*[^key-aa1452f4eb09c3643fb09b6e79733011]
+- (a) references to the *(affected by repeal, see note)*[^c-aa1452f4eb09c3643fb09b6e79733011] [^c11530071]Army Act 1955 in connection with transfers to the reserve include such transfers under the Army Act; *(affected by repeal, see note)*[^c-aa1452f4eb09c3643fb09b6e79733011]
+- (b) references to the *(affected by repeal, see note)*[^c-aa1452f4eb09c3643fb09b6e79733011] [^c11530081]Air Force Act 1955 in connection with transfers to the reserve include such transfers under the Air Force Act. *(affected by repeal, see note)*[^c-aa1452f4eb09c3643fb09b6e79733011]
 
 ### Modifications of other enactments
 
@@ -143,16 +143,16 @@ are liable to be called out for permanent service.
 
 **16.**[^c11530241] (1)[^c11530241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Where section 11 does not apply to a man— *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189]
+(2) Where section 11 does not apply to a man— *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189]
 
-- (a) who enlisted in the regular forces within the meaning of the Army Act 1955 after 26th February 1964, and *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189]
-- (b) who was transferred to the *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189] Regular Reserve *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189] in pursuance of— *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189]
-  - (i) the *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189] [^c11530261]Army Act 1955, or *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189]
-  - (ii (affected by repeal, see note))[^key-0ae5ebb3e4e06a4993a0c231f1268189] the *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189] [^c11530271]Army and Air Force Act 1961, or *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189]
-  - (iii (affected by repeal, see note))[^key-0ae5ebb3e4e06a4993a0c231f1268189] regulations under section 2 of the *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189] [^c11530281]Armed Forces Act 1966, and *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189]
-- (c) who on his transfer was designated by the competent military authority as subject to this provision for a specified period not exceeding 3 years beginning with the beginning of his service in the *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189] Regular Reserve *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189] ,
+- (a) who enlisted in the regular forces within the meaning of the Army Act 1955 after 26th February 1964, and *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189]
+- (b) who was transferred to the *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189] Regular Reserve *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189] in pursuance of— *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189]
+  - (i) the *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189] [^c11530261]Army Act 1955, or *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189]
+  - (ii (affected by repeal, see note))[^c-0ae5ebb3e4e06a4993a0c231f1268189] the *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189] [^c11530271]Army and Air Force Act 1961, or *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189]
+  - (iii (affected by repeal, see note))[^c-0ae5ebb3e4e06a4993a0c231f1268189] regulations under section 2 of the *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189] [^c11530281]Armed Forces Act 1966, and *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189]
+- (c) who on his transfer was designated by the competent military authority as subject to this provision for a specified period not exceeding 3 years beginning with the beginning of his service in the *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189] Regular Reserve *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189] ,
 
-he is liable to be called out for permanent service on overseas service at any time during that period. *(affected by repeal, see note)*[^key-0ae5ebb3e4e06a4993a0c231f1268189]
+he is liable to be called out for permanent service on overseas service at any time during that period. *(affected by repeal, see note)*[^c-0ae5ebb3e4e06a4993a0c231f1268189]
 
 (3) Where section 11 does not apply to a man of the Regular Reserve , that man, whether he entered the reserve—
 
@@ -166,16 +166,16 @@ This sub-paragraph is without prejudice to sub-paragraphs (1) and (2) above.
 
 (4)[^c11530241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Where section 11 does not apply to a man— *(affected by repeal, see note)*[^key-36d3a9795da78769ea5e4140b87819fb]
+(5) Where section 11 does not apply to a man— *(affected by repeal, see note)*[^c-36d3a9795da78769ea5e4140b87819fb]
 
-- (a) who enlisted in the regular air force within the meaning of the Air Force Act 1955 after 26th February 1964, and *(affected by repeal, see note)*[^key-36d3a9795da78769ea5e4140b87819fb]
-- (b) who was transferred to the Air Force Reserve in pursuance of— *(affected by repeal, see note)*[^key-36d3a9795da78769ea5e4140b87819fb]
-  - (i) the Air Force Act 1955, or *(affected by repeal, see note)*[^key-36d3a9795da78769ea5e4140b87819fb]
-  - (ii (affected by repeal, see note))[^key-36d3a9795da78769ea5e4140b87819fb] the Army and Air Force Act 1961, or *(affected by repeal, see note)*[^key-36d3a9795da78769ea5e4140b87819fb]
-  - (iii (affected by repeal, see note))[^key-36d3a9795da78769ea5e4140b87819fb] regulations under section 2 of the *(affected by repeal, see note)*[^key-36d3a9795da78769ea5e4140b87819fb] [^c11530301]Armed Forces Act 1966, and *(affected by repeal, see note)*[^key-36d3a9795da78769ea5e4140b87819fb]
-- (c) who on his transfer was designated by the competent air force authority as subject to this provision for a specified period not exceeding 3 years beginning with the beginning of his service in the Air Force Reserve, *(affected by repeal, see note)*[^key-36d3a9795da78769ea5e4140b87819fb]
+- (a) who enlisted in the regular air force within the meaning of the Air Force Act 1955 after 26th February 1964, and *(affected by repeal, see note)*[^c-36d3a9795da78769ea5e4140b87819fb]
+- (b) who was transferred to the Air Force Reserve in pursuance of— *(affected by repeal, see note)*[^c-36d3a9795da78769ea5e4140b87819fb]
+  - (i) the Air Force Act 1955, or *(affected by repeal, see note)*[^c-36d3a9795da78769ea5e4140b87819fb]
+  - (ii (affected by repeal, see note))[^c-36d3a9795da78769ea5e4140b87819fb] the Army and Air Force Act 1961, or *(affected by repeal, see note)*[^c-36d3a9795da78769ea5e4140b87819fb]
+  - (iii (affected by repeal, see note))[^c-36d3a9795da78769ea5e4140b87819fb] regulations under section 2 of the *(affected by repeal, see note)*[^c-36d3a9795da78769ea5e4140b87819fb] [^c11530301]Armed Forces Act 1966, and *(affected by repeal, see note)*[^c-36d3a9795da78769ea5e4140b87819fb]
+- (c) who on his transfer was designated by the competent air force authority as subject to this provision for a specified period not exceeding 3 years beginning with the beginning of his service in the Air Force Reserve, *(affected by repeal, see note)*[^c-36d3a9795da78769ea5e4140b87819fb]
 
-he is liable to be called out for permanent service on overseas service at any time during that period. *(affected by repeal, see note)*[^key-36d3a9795da78769ea5e4140b87819fb]
+he is liable to be called out for permanent service on overseas service at any time during that period. *(affected by repeal, see note)*[^c-36d3a9795da78769ea5e4140b87819fb]
 
 (6) Where section 11 does not apply to a man of the Air Force Reserve, that man, whether he entered the reserve—
 
@@ -191,7 +191,7 @@ This sub-paragraph is without prejudice to sub-paragraph[^c11530311] (2) above.
 
 (8) Any exercise of the power of calling out men under this paragraph shall be reported to Parliament forthwith.
 
-(9) The number of men for the time being called out under any of the provisions of this paragraph shall not be reckoned in the numbers for the time being authorised by Parliament for the regular forces or for the regular air force *(affected by repeal, see note)*[^key-60e824f8cd8506f71585ae5e65fb92e1] regular army or for the Royal Air Force .
+(9) The number of men for the time being called out under any of the provisions of this paragraph shall not be reckoned in the numbers for the time being authorised by Parliament for the regular forces or for the regular air force *(affected by repeal, see note)*[^c-60e824f8cd8506f71585ae5e65fb92e1] regular army or for the Royal Air Force .
 
 (10) In this paragraph “**overseas service**” means service when the men in question are required for service outside the United Kingdom when warlike operations are in preparation or progress; and the reference to the United Kingdom in this sub-paragraph shall be construed as if that expression included the Channel Islands and the Isle of Man.
 
@@ -255,7 +255,7 @@ In this sub-paragraph “**navigator**” includes “**observer**”, and “**
 
 ### Election for section 38 to apply
 
-**19.** A person who immediately before 1st January 1967 was a man of the regular army or the regular air force may elect irrevocably in the prescribed manner that, on his becoming a member of the *(affected by repeal, see note)*[^key-7a380c5f428a91e2f36c1d16d5cefdfa] Regular Reserve *(affected by repeal, see note)*[^key-7a380c5f428a91e2f36c1d16d5cefdfa] or the Air Force Reserve, he shall be a person to whom section 38 above applies. *(affected by repeal, see note)*[^key-7a380c5f428a91e2f36c1d16d5cefdfa]
+**19.** A person who immediately before 1st January 1967 was a man of the regular army or the regular air force may elect irrevocably in the prescribed manner that, on his becoming a member of the *(affected by repeal, see note)*[^c-7a380c5f428a91e2f36c1d16d5cefdfa] Regular Reserve *(affected by repeal, see note)*[^c-7a380c5f428a91e2f36c1d16d5cefdfa] or the Air Force Reserve, he shall be a person to whom section 38 above applies. *(affected by repeal, see note)*[^c-7a380c5f428a91e2f36c1d16d5cefdfa]
 
 ### Section 12 of Social Security (Miscellaneous Provisions) Act 1977
 
@@ -281,7 +281,7 @@ In this sub-paragraph “**navigator**” includes “**observer**”, and “**
 
 [^c11529961]: Textual amendment: Words repealed by [Reserve Forces Act 1982 (c. 14, SIF 7:2)](https://www.legislation.gov.uk/ukpga/1982/14), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1982/14/section/1/3)
 
-[^key-42dc45c9c36f73ea843f85fd423611fe]: Textual amendment: Sch. 8 para. 5(3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(2)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-42dc45c9c36f73ea843f85fd423611fe]: Textual amendment: Sch. 8 para. 5(3) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(2)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c11530001]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
 
@@ -293,15 +293,15 @@ In this sub-paragraph “**navigator**” includes “**observer**”, and “**
 
 [^c11530041]: Marginal citation: [1953 c. 50](https://www.legislation.gov.uk/ukpga/1953/50).
 
-[^key-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-67963aace79d0fea2cbe4c142624c9b5]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/1980/9) substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(b)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/b)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
 [^c11530051]: Marginal citation: [1953 c. 50](https://www.legislation.gov.uk/ukpga/1953/50).
 
 [^c11530061]: Marginal citation: [1966 c. 30](https://www.legislation.gov.uk/ukpga/1966/30).
 
-[^key-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
+[^c-a4a6117152a70855c16dfaf06fa247f5]: Textual amendment: Words in Act substituted (1.10.2014) by [Defence Reform Act 2014 (c. 20)](https://www.legislation.gov.uk/ukpga/2014/20), [s. 44(3)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/3/a)[(4)](https://www.legislation.gov.uk/ukpga/2014/20/section/44/4)[50(1)](https://www.legislation.gov.uk/ukpga/2014/20/section/50/1) (with [s. 49(3)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/3)[(5)](https://www.legislation.gov.uk/ukpga/2014/20/section/49/5)); [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(a)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/a)
 
-[^key-aa1452f4eb09c3643fb09b6e79733011]: Textual amendment: Sch. 8 para. 10 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(3)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/3), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-aa1452f4eb09c3643fb09b6e79733011]: Textual amendment: Sch. 8 para. 10 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(3)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/3), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c11530071]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
 
@@ -319,7 +319,7 @@ In this sub-paragraph “**navigator**” includes “**observer**”, and “**
 
 [^c11530241]: Textual amendment: Sch. 8 para. 16 repealed (1.4.1997 except so far as relating to para. 16(2)(3)(5)-(10) the repeal of which is still*prosp*.) by [1996 c. 14](https://www.legislation.gov.uk/ukpga/1996/14) ss. 131(2), 132(4), Sch. 11 (with s. 72(5)); [S.I. 1997/305](https://www.legislation.gov.uk/uksi/1997/305), [art. 2](https://www.legislation.gov.uk/uksi/1997/305/article/2)
 
-[^key-0ae5ebb3e4e06a4993a0c231f1268189]: Textual amendment: Sch. 8 para. 16(2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(4)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/4/a), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0ae5ebb3e4e06a4993a0c231f1268189]: Textual amendment: Sch. 8 para. 16(2) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(4)(a)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/4/a), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c11530261]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18).
 
@@ -327,14 +327,14 @@ In this sub-paragraph “**navigator**” includes “**observer**”, and “**
 
 [^c11530281]: Marginal citation: [1966 c. 45](https://www.legislation.gov.uk/ukpga/1966/45).
 
-[^key-36d3a9795da78769ea5e4140b87819fb]: Textual amendment: Sch. 8 para. 16(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(4)(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/4/b), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-36d3a9795da78769ea5e4140b87819fb]: Textual amendment: Sch. 8 para. 16(5) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(4)(b)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/4/b), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c11530301]: Marginal citation: [1966 c. 45](https://www.legislation.gov.uk/ukpga/1966/45).
 
 [^c11530311]: Textual amendment: Words in Sch. 8 para. 16(6) substituted (1.4.1997) by [S.I. 1997/306](https://www.legislation.gov.uk/uksi/1997/306), [reg. 28](https://www.legislation.gov.uk/uksi/1997/306/regulation/28).
 
-[^key-60e824f8cd8506f71585ae5e65fb92e1]: Textual amendment: Words in Sch. 8 para. 16(9) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(4)(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/4/c); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-60e824f8cd8506f71585ae5e65fb92e1]: Textual amendment: Words in Sch. 8 para. 16(9) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(4)(c)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/4/c); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-7a380c5f428a91e2f36c1d16d5cefdfa]: Textual amendment: Sch. 8 para. 19 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(5)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/5), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-7a380c5f428a91e2f36c1d16d5cefdfa]: Textual amendment: Sch. 8 para. 19 repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 14 para. 24(5)](https://www.legislation.gov.uk/ukpga/2006/52/schedule/14/paragraph/24/5), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c11530321]: Marginal citation: [1977 c. 5](https://www.legislation.gov.uk/ukpga/1977/5).

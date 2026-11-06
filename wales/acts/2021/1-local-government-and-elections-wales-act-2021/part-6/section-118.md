@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Proceedings etc.[^key-3ade9fba4194e8b12b3e1deb745221c5]
+## 118. Proceedings etc.[^c-3ade9fba4194e8b12b3e1deb745221c5]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ade9fba4194e8b12b3e1deb745221c5]: Commencement: [S. 118](https://www.legislation.gov.uk/asc/2021/1/section/118) in force at 5.5.2022 by [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [art. 3(b)](https://www.legislation.gov.uk/wsi/2021/297/article/3/b)
+[^c-3ade9fba4194e8b12b3e1deb745221c5]: Commencement: [S. 118](https://www.legislation.gov.uk/asc/2021/1/section/118) in force at 5.5.2022 by [S.I. 2021/297](https://www.legislation.gov.uk/wsi/2021/297), [art. 3(b)](https://www.legislation.gov.uk/wsi/2021/297/article/3/b)

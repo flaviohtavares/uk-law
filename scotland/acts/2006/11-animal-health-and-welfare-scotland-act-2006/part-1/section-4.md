@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Biosecurity codes[^key-87fd0b932efeff7d3e6acf877171d9dd]
+## 4. Biosecurity codes[^c-87fd0b932efeff7d3e6acf877171d9dd]
 
 *Extent: S*
 
@@ -97,4 +97,4 @@ After section 6B of the 1981 Act there is inserted—
 
 ## Annotations
 
-[^key-87fd0b932efeff7d3e6acf877171d9dd]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2006/11/section/4) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-87fd0b932efeff7d3e6acf877171d9dd]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2006/11/section/4) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

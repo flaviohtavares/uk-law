@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 291. Administrative expenses of garnishees and others[^key-a907dab5ddc4fdeee87af9fb1dff8f76]
+## 291. Administrative expenses of garnishees and others[^c-a907dab5ddc4fdeee87af9fb1dff8f76]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a907dab5ddc4fdeee87af9fb1dff8f76]: Commencement: Art. 291 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a907dab5ddc4fdeee87af9fb1dff8f76]: Commencement: Art. 291 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00213]: Footnote: Section 40A was inserted by the Administration of Justice Act [1982 (c. 53)](https://www.legislation.gov.uk/ukpga/1982/53), Schedule 4, Pt I. Subsections (1) and (1A) were substituted for the original subsection (1) by the Administration of Justice Act [1985 (c. 61)](https://www.legislation.gov.uk/ukpga/1985/61), s. 52.
 

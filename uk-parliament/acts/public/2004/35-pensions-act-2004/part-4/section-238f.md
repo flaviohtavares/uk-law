@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238F. Sections 238D and 238E: interpretation[^key-f7b0c36206ab5ea4917b00f768cc0c18]
+## 238F. Sections 238D and 238E: interpretation[^c-f7b0c36206ab5ea4917b00f768cc0c18]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7b0c36206ab5ea4917b00f768cc0c18]: Textual amendment: [Ss. 238D-238G](https://www.legislation.gov.uk/ukpga/2004/35/section/238D) inserted (11.2.2021 for specified purposes, 14.10.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 119(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/119/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a); [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/b)
+[^c-f7b0c36206ab5ea4917b00f768cc0c18]: Textual amendment: [Ss. 238D-238G](https://www.legislation.gov.uk/ukpga/2004/35/section/238D) inserted (11.2.2021 for specified purposes, 14.10.2022 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 119(2)](https://www.legislation.gov.uk/ukpga/2021/1/section/119/2), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a); [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/b)

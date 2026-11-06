@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Statutory undertakers[^key-7dbdf05da2f3ed4ca879fb1f3257a2d8]
+## 42. Statutory undertakers[^c-7dbdf05da2f3ed4ca879fb1f3257a2d8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dbdf05da2f3ed4ca879fb1f3257a2d8]: Commencement: Art. 42 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-7dbdf05da2f3ed4ca879fb1f3257a2d8]: Commencement: Art. 42 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

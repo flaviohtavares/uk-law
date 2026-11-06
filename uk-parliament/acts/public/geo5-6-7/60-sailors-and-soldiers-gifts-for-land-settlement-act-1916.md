@@ -31,20 +31,20 @@ Sailors and Soldiers (Gifts for Land Settlement) Act 1916 (repealed)
 
 1916 c.60
 
-[^key-03119fa1f86649aec017c0ef905b06b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-03119fa1f86649aec017c0ef905b06b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[22nd December 1916\]
 
 **No longer in force.**
 
-## 1. Power to accept and administer gifts for settlement of ex-sailors and soldiers on land.[^key-03119fa1f86649aec017c0ef905b06b7][^key-03119fa1f86649aec017c0ef905b06b7]
+## 1. Power to accept and administer gifts for settlement of ex-sailors and soldiers on land.[^c-03119fa1f86649aec017c0ef905b06b7][^c-03119fa1f86649aec017c0ef905b06b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and saving.[^key-03119fa1f86649aec017c0ef905b06b7][^key-03119fa1f86649aec017c0ef905b06b7]
+## 2. Short title and saving.[^c-03119fa1f86649aec017c0ef905b06b7][^c-03119fa1f86649aec017c0ef905b06b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-03119fa1f86649aec017c0ef905b06b7]: Textual amendment: Act repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1 Group 4](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) (with [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/4))
+[^c-03119fa1f86649aec017c0ef905b06b7]: Textual amendment: Act repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1 Group 4](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) (with [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2008/12/schedule/2/paragraph/4))

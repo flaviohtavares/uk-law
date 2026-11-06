@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30A. Community support officers[^key-9e898924933b545dff7bc387282c6307]
+## 30A. Community support officers[^c-9e898924933b545dff7bc387282c6307]
 
 *Extent: N.I.*
 
@@ -44,10 +44,10 @@ summary: ''
 - (a) determined or approved for the purposes of this section by the Chief Constable; and
 - (b) identified or described in the designation.
 
-(8) The Department of Justice[^key-fcf601886e2af3208da0d4dda2adc283] may by order amend Schedule 2A.
+(8) The Department of Justice[^c-fcf601886e2af3208da0d4dda2adc283] may by order amend Schedule 2A.
 
 ## Annotations
 
-[^key-9e898924933b545dff7bc387282c6307]: Textual amendment: S. 30A inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [7(2)](https://www.legislation.gov.uk/nisi/2007/912/article/7/2)
+[^c-9e898924933b545dff7bc387282c6307]: Textual amendment: S. 30A inserted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [7(2)](https://www.legislation.gov.uk/nisi/2007/912/article/7/2)
 
-[^key-fcf601886e2af3208da0d4dda2adc283]: Textual amendment: Words in [s. 30A(8)](https://www.legislation.gov.uk/ukpga/2003/6/section/30A/8) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/11/2) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-fcf601886e2af3208da0d4dda2adc283]: Textual amendment: Words in [s. 30A(8)](https://www.legislation.gov.uk/ukpga/2003/6/section/30A/8) substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/11/2) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))

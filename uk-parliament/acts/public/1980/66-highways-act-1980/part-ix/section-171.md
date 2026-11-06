@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Control of deposit of building materials and making of excavations in streets.[^c13427451][^key-190ef4303b0a6375404909ce36f39c35]
+## 171. Control of deposit of building materials and making of excavations in streets.[^c13427451][^c-190ef4303b0a6375404909ce36f39c35]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ The liability of any person to a fine under this subsection by virtue of paragra
 
 [^c13427451]: Modification: S. 171: functions of local authority not to be responsibility of an executive of the authority (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-190ef4303b0a6375404909ce36f39c35]: Modification: [S. 171](https://www.legislation.gov.uk/ukpga/1980/66/section/171) excluded (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [53(1)](https://www.legislation.gov.uk/uksi/2025/462/article/53/1) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))
+[^c-190ef4303b0a6375404909ce36f39c35]: Modification: [S. 171](https://www.legislation.gov.uk/ukpga/1980/66/section/171) excluded (15.4.2025) by [The A122 (Lower Thames Crossing) Development Consent Order 2025 (S.I. 2025/462)](https://www.legislation.gov.uk/uksi/2025/462), [arts. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1), [53(1)](https://www.legislation.gov.uk/uksi/2025/462/article/53/1) (with [arts. 5](https://www.legislation.gov.uk/uksi/2025/462/article/5), [43](https://www.legislation.gov.uk/uksi/2025/462/article/43), [53(7)](https://www.legislation.gov.uk/uksi/2025/462/article/53/7), [Sch. 14](https://www.legislation.gov.uk/uksi/2025/462/schedule/14))

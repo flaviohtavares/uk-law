@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Meaning of judicial review[^key-033bf2be85ed9f4958e0c013b9fef307]
+## 60. Meaning of judicial review[^c-033bf2be85ed9f4958e0c013b9fef307]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-033bf2be85ed9f4958e0c013b9fef307]: Commencement: S. 60 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-033bf2be85ed9f4958e0c013b9fef307]: Commencement: S. 60 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

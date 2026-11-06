@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Disclosure of information for calculating fees of courts, tribunals etc[^key-10d939e9a0f8686a6c186f7d753b9c0f]
+## 28. Disclosure of information for calculating fees of courts, tribunals etc[^c-10d939e9a0f8686a6c186f7d753b9c0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,11 +53,11 @@ summary: ''
   - (ii) to a fine not exceeding the statutory maximum, or
   - (iii) to both.
 
-(7A)[^key-0580d5846919b87225768662bccaabaa] In the application of this section in England and Wales, the reference in subsection (7)(b)(i) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+(7A)[^c-0580d5846919b87225768662bccaabaa] In the application of this section in England and Wales, the reference in subsection (7)(b)(i) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
 (8) Subsection (7)(b) applies—
 
-- (a)[^key-f7048b2050abee9e007057bf1ba665d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f7048b2050abee9e007057bf1ba665d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in Northern Ireland,
 
 as if the reference to 12 months were a reference to 6 months.
@@ -100,8 +100,8 @@ as if the reference to 12 months were a reference to 6 months.
 
 ## Annotations
 
-[^key-10d939e9a0f8686a6c186f7d753b9c0f]: Commencement: S. 28 in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/954/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-10d939e9a0f8686a6c186f7d753b9c0f]: Commencement: S. 28 in force at 22.4.2014 by [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/954/article/2/b) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-0580d5846919b87225768662bccaabaa]: Textual amendment: [S. 28(7A)](https://www.legislation.gov.uk/ukpga/2013/22/section/28/7A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/27/2)
+[^c-0580d5846919b87225768662bccaabaa]: Textual amendment: [S. 28(7A)](https://www.legislation.gov.uk/ukpga/2013/22/section/28/7A) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [27(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/27/2)
 
-[^key-f7048b2050abee9e007057bf1ba665d2]: Textual amendment: [S. 28(8)(a)](https://www.legislation.gov.uk/ukpga/2013/22/section/28/8/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/27/3)
+[^c-f7048b2050abee9e007057bf1ba665d2]: Textual amendment: [S. 28(8)(a)](https://www.legislation.gov.uk/ukpga/2013/22/section/28/8/a) omitted (7.2.2023 at 12.00 p.m.) by virtue of [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [27(3)](https://www.legislation.gov.uk/uksi/2023/149/regulation/27/3)

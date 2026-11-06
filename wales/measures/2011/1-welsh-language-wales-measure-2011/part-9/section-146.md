@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Other provision[^key-ca7d2082b0117de18dcf05d4112b5054][^key-936c2b5ab93678bb3ef12b19af7e99fb]
+## 146. Other provision[^c-ca7d2082b0117de18dcf05d4112b5054][^c-936c2b5ab93678bb3ef12b19af7e99fb]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 12 contains other provision relating to the abolition of the Board.
 
 ## Annotations
 
-[^key-ca7d2082b0117de18dcf05d4112b5054]: Commencement: [S. 146](https://www.legislation.gov.uk/mwa/2011/1/section/146) in force at 28.6.2011 for specified purposes by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/d)
+[^c-ca7d2082b0117de18dcf05d4112b5054]: Commencement: [S. 146](https://www.legislation.gov.uk/mwa/2011/1/section/146) in force at 28.6.2011 for specified purposes by [S.I. 2011/1586](https://www.legislation.gov.uk/wsi/2011/1586), [art. 2(d)](https://www.legislation.gov.uk/wsi/2011/1586/article/2/d)
 
-[^key-936c2b5ab93678bb3ef12b19af7e99fb]: Commencement: [S. 146](https://www.legislation.gov.uk/mwa/2011/1/section/146) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)
+[^c-936c2b5ab93678bb3ef12b19af7e99fb]: Commencement: [S. 146](https://www.legislation.gov.uk/mwa/2011/1/section/146) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(a)](https://www.legislation.gov.uk/wsi/2012/969/article/2/a)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 11
 
-### PART 1 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^key-a44a813a2164524a45b8afe9b1352043]
+### PART 1 — TEMPORARY PROHIBITION OR RESTRICTION OF THE USE OF STREETS[^c-a44a813a2164524a45b8afe9b1352043]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -114,7 +114,7 @@ Article 11
 | District of Bassetlaw | Approximately 64 metres of Rampton Road, Woodbeck as shown between points 19i and 19j and coloured green on sheet 19 of the streets plan | Temporarily closed to all traffic save for traffic under the direction of the undertaker |
 | District of Bassetlaw | Approximately 561 metres of private track north of Torksey Ferry Road, West of Cottam Power Station, as shown between points 19k and 19l and coloured green and outlined in yellow on sheet 19 of the streets plan | Temporarily closed to all traffic save for traffic under the direction of the undertaker |
 
-### PART 2 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY WITH DIVERSION[^key-c9a71ed52140b3cab7be21bfc67158aa]
+### PART 2 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY WITH DIVERSION[^c-c9a71ed52140b3cab7be21bfc67158aa]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measure* |
 | --- | --- | --- |
@@ -126,7 +126,7 @@ Article 11
 | District of Bassetlaw | Approximately 83 metres of Footpath reference 19v NT“Rampton”FP20 between points marked 19v/a and 19v/b on sheet 19 of the public rights of way plan | Temporarily closed along the route shown in yellow and diverted along a route contained within the diversion area shown hatched olive green on sheet 19 of the public rights of way plan to facilitate the construction of the development |
 | District of Bassetlaw | Approximately 84 metres of Byway Open to All Traffic reference 19vi NT“Rampton”BOAT12 between points marked 19vi/a and 19vi/b on sheet 19 of the public rights of way plan | Temporarily closed along the route shown in blue and diverted along a route contained within the diversion area shown hatched olive green on sheet 20 of the public rights of way plan to facilitate the construction of the development |
 
-### PART 3 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY[^key-3e7e8f016d75dd0b0a4996ff6b3372c5]
+### PART 3 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY[^c-3e7e8f016d75dd0b0a4996ff6b3372c5]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -144,7 +144,7 @@ Article 11
 | District of Bassetlaw | Approximately 80 metres of Footpath reference 19ii NT“Treswell”FP5 between points marked 19ii/a and 19ii/b on sheet 19 of the public rights of way plan | Temporarily closed along the route shown in yellow and labelled 19ii – NT“Treswell”FP5 to facilitate the construction of the authorised development |
 | District of Bassetlaw | Approximately 500 metres of Footpath reference 19iii NT“Rampton”FP6 between points marked 19iii/a and 19iii/b on sheet 19 of the public rights of way plan | Temporarily closed along the route shown in yellow and labelled 19iii – NT“Rampton”FP6 to facilitate the construction of the authorised development |
 
-### PART 4 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY WITH OR WITHOUT DIVERSION[^key-a1716b41f9ff085cdf2da37ae949ffa3]
+### PART 4 — TEMPORARY PROHIBITION OR RESTRICTION OF PUBLIC RIGHTS OF WAY WITH OR WITHOUT DIVERSION[^c-a1716b41f9ff085cdf2da37ae949ffa3]
 
 | *(1)*<br>*Area* | *(2)*<br>*Public right of way* | *(3)*<br>*Measures* |
 | --- | --- | --- |
@@ -162,10 +162,10 @@ Article 11
 
 ## Annotations
 
-[^key-a44a813a2164524a45b8afe9b1352043]: Commencement: Sch. 6 Pt. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-a44a813a2164524a45b8afe9b1352043]: Commencement: Sch. 6 Pt. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-c9a71ed52140b3cab7be21bfc67158aa]: Commencement: Sch. 6 Pt. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-c9a71ed52140b3cab7be21bfc67158aa]: Commencement: Sch. 6 Pt. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-3e7e8f016d75dd0b0a4996ff6b3372c5]: Commencement: Sch. 6 Pt. 3 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-3e7e8f016d75dd0b0a4996ff6b3372c5]: Commencement: Sch. 6 Pt. 3 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-a1716b41f9ff085cdf2da37ae949ffa3]: Commencement: Sch. 6 Pt. 4 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-a1716b41f9ff085cdf2da37ae949ffa3]: Commencement: Sch. 6 Pt. 4 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

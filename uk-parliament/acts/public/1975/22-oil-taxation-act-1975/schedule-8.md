@@ -30,11 +30,11 @@ Section 6.
 
 (2) The responsible person shall, within one month of his receiving a notice under sub-paragraph (1) above informing him of the Board’s decision, furnish a copy of that notice to every person who was at any time a participator in the field in question.
 
-**3.** (1) The responsible person may appeal [^key-94fd9c5a8812a1f451f7f8500c781cb8]... against the Board’s decision by notice in writing given to the Board within three months of his receiving the notice under paragraph 2(1) above informing him thereof.
+**3.** (1) The responsible person may appeal [^c-94fd9c5a8812a1f451f7f8500c781cb8]... against the Board’s decision by notice in writing given to the Board within three months of his receiving the notice under paragraph 2(1) above informing him thereof.
 
-(2) An appeal under sub-paragraph (1) above may at any time before it is notified to the tribunal[^key-9aa08342ad4dc052182600409d8d989e] be abandoned by notice in writing given to the Board by the responsible person.
+(2) An appeal under sub-paragraph (1) above may at any time before it is notified to the tribunal[^c-9aa08342ad4dc052182600409d8d989e] be abandoned by notice in writing given to the Board by the responsible person.
 
-(3)[^key-35bdfb9729fa1e9bd60028d6533a4634] The provisions of paragraphs 14A to 14I of Schedule 2 shall apply to appeals under this paragraph subject to any necessary modifications.
+(3)[^c-35bdfb9729fa1e9bd60028d6533a4634] The provisions of paragraphs 14A to 14I of Schedule 2 shall apply to appeals under this paragraph subject to any necessary modifications.
 
 ### Claims by participators for allowance of unrelievable field losses
 
@@ -48,11 +48,11 @@ Section 6.
 
 [^c10749411]: Modification: See also [Finance Act 1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), [s. 139(6)](https://www.legislation.gov.uk/ukpga/1982/39/section/139/6) and Sch. 19 para. 17 as regards repayment of APRT
 
-[^key-94fd9c5a8812a1f451f7f8500c781cb8]: Textual amendment: Words in Sch. 8 para. 3(1) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 85(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/85/2)
+[^c-94fd9c5a8812a1f451f7f8500c781cb8]: Textual amendment: Words in Sch. 8 para. 3(1) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 85(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/85/2)
 
-[^key-9aa08342ad4dc052182600409d8d989e]: Textual amendment: Words in Sch. 8 para. 3(2) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 85(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/85/3)
+[^c-9aa08342ad4dc052182600409d8d989e]: Textual amendment: Words in Sch. 8 para. 3(2) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 85(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/85/3)
 
-[^key-35bdfb9729fa1e9bd60028d6533a4634]: Textual amendment: Sch. 8 para. 3(3) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 85(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/85/4)
+[^c-35bdfb9729fa1e9bd60028d6533a4634]: Textual amendment: Sch. 8 para. 3(3) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 85(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/85/4)
 
 [^c10749421]: Textual amendment: Words in [Sch. 8 para. 4(1)](https://www.legislation.gov.uk/ukpga/1975/22/schedule/8/paragraph/4/1) substituted (1.5.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 147(1)(a)](https://www.legislation.gov.uk/ukpga/1995/4/section/147/1/a)
 

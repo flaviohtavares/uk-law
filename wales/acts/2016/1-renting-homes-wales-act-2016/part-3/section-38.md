@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Incorrect statement: landlord's application to court for declaration that contract is a standard contract[^key-a8f279314259d1b969b88e0c81a17e93]
+## 38. Incorrect statement: landlord's application to court for declaration that contract is a standard contract[^c-a8f279314259d1b969b88e0c81a17e93]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8f279314259d1b969b88e0c81a17e93]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2016/1/section/38) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-a8f279314259d1b969b88e0c81a17e93]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2016/1/section/38) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

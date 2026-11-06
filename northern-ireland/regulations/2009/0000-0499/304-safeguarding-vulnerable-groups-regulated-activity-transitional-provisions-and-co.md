@@ -45,29 +45,29 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-62fa8db0fdff241e3bf9cd354a48decb]
+### 1. Citation and commencement[^c-62fa8db0fdff241e3bf9cd354a48decb]
 
 This Order may be cited as the Safeguarding Vulnerable Groups (Regulated Activity, Transitional Provisions and Commencement No. 4) Order (Northern Ireland) 2009 and comes into operation on 12th October 2009.
 
-### 2. Interpretation[^key-a30d2acb0242ee89046be5236f36cb5c]
+### 2. Interpretation[^c-a30d2acb0242ee89046be5236f36cb5c]
 
 (1) In this Order—
 
-- [^key-0dcaa009563e7b13ee24a298077aa182]...
-- [^key-0dcaa009563e7b13ee24a298077aa182]...
-- [^key-0dcaa009563e7b13ee24a298077aa182]...
+- [^c-0dcaa009563e7b13ee24a298077aa182]...
+- [^c-0dcaa009563e7b13ee24a298077aa182]...
+- [^c-0dcaa009563e7b13ee24a298077aa182]...
 - “the 2003 Act” means the Protection of Children (Scotland) Act 2003[^f00005];
 - “the 2003 Order” means the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^f00006];
 - “the 2006 Act” means the Safeguarding Vulnerable Groups Act 2006[^f00007];
 - “the 2007 Order” means the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007;
 - “the 2007 Regulations” means the Education (Prohibition from Teaching or Working with Children) Regulations (Northern Ireland) 2007[^f00008];
-- [^key-0dcaa009563e7b13ee24a298077aa182]...
-- [^key-0dcaa009563e7b13ee24a298077aa182]...
-- [^key-0dcaa009563e7b13ee24a298077aa182]...
-- [^key-0dcaa009563e7b13ee24a298077aa182]...
-- [^key-0dcaa009563e7b13ee24a298077aa182]...
+- [^c-0dcaa009563e7b13ee24a298077aa182]...
+- [^c-0dcaa009563e7b13ee24a298077aa182]...
+- [^c-0dcaa009563e7b13ee24a298077aa182]...
+- [^c-0dcaa009563e7b13ee24a298077aa182]...
+- [^c-0dcaa009563e7b13ee24a298077aa182]...
 
-### 3. Provisions coming into operation on 12th October 2009[^key-b5bc19c952c9a47eebf4f2aad7f2985b]
+### 3. Provisions coming into operation on 12th October 2009[^c-b5bc19c952c9a47eebf4f2aad7f2985b]
 
 12th October 2009 is the day appointed for the coming into operation of the following provisions of the 2007 Order—
 
@@ -75,91 +75,91 @@ This Order may be cited as the Safeguarding Vulnerable Groups (Regulated Activit
 - (b) Schedule 8 in so far as it relates to the repeal of sections 113C, D and F of the Police Act 1997[^f00011];
 - (c) Article 60 in so far as it relates to the provisions specified in paragraphs (a) and (b).
 
-### 4. Revocations[^key-22eafc8b96966151700ceae26e791e50]
+### 4. Revocations[^c-22eafc8b96966151700ceae26e791e50]
 
 The Safeguarding Vulnerable Groups (Transitory Provisions) Order (Northern Ireland) 2009[^f00012] is revoked.
 
 ## PART 2 — Provisions applying during the first transitional period
 
-### 5. Transitional modifications applying during the first transitional period[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 5. Transitional modifications applying during the first transitional period[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Modification to section 113BA of the Police Act 1997[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 6. Modification to section 113BA of the Police Act 1997[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Modification to section 113BB of the Police Act 1997[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 7. Modification to section 113BB of the Police Act 1997[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Modification to section 119 of the Police Act 1997[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 8. Modification to section 119 of the Police Act 1997[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Modification to section 120A of the Police Act 1997[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 9. Modification to section 120A of the Police Act 1997[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Modifications to Schedule 1 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^key-a84ac3f9548698b8eae046a90912a6ca][^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 10. Modifications to Schedule 1 to the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^c-a84ac3f9548698b8eae046a90912a6ca][^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Provisions applying during the second transitional period
 
-### 11. Transitional modifications applying during the second transitional period[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 11. Transitional modifications applying during the second transitional period[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Modification to section 113BA of the Police Act 1997[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 12. Modification to section 113BA of the Police Act 1997[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Modification to section 113BB of the Police Act 1997[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 13. Modification to section 113BB of the Police Act 1997[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Provisions applying during the first and second transitional periods
 
-### 14. Transitional modifications and provisions applying during the first and second transitional periods[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 14. Transitional modifications and provisions applying during the first and second transitional periods[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Modification to section 116 of the Police Act 1997[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 15. Modification to section 116 of the Police Act 1997[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Teachers’ pensions – entitlement to payment of retirement benefits[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 16. Teachers’ pensions – entitlement to payment of retirement benefits[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Further Transitional Provisions
 
-### 17. Transitional provisions relating to the provision of information[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 17. Transitional provisions relating to the provision of information[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Information provided to IBB[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 18. Information provided to IBB[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Information provided by IBB[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 19. Information provided by IBB[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Information provided by the Department of Health, Social Services and Public Safety[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 20. Information provided by the Department of Health, Social Services and Public Safety[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Information provided by the Department of Education[^key-c1f6f1cecd56cd339a9f453f13cd02dd]
+### 21. Information provided by the Department of Education[^c-c1f6f1cecd56cd339a9f453f13cd02dd]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Relevant conduct engaged in before the repeal of Article 23 and 24 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^key-c879dd5e53f1fa4f9f1f5a16cdd831f1]
+### 22. Relevant conduct engaged in before the repeal of Article 23 and 24 of the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^c-c879dd5e53f1fa4f9f1f5a16cdd831f1]
 
 (1) In relation to conduct engaged in during the relevant period, paragraph 3(4) of Schedule 1 to the 2007 Order has effect as if the words “before the commencement of Article 6” were omitted.
 
@@ -172,7 +172,7 @@ The Safeguarding Vulnerable Groups (Transitory Provisions) Order (Northern Irela
 
 ### Regulated activity relating to Children
 
-#### 23. Definition of relevant child care premises[^key-b399d0965439adad12742987a6e6375d]
+#### 23. Definition of relevant child care premises[^c-b399d0965439adad12742987a6e6375d]
 
 (1) Paragraph 3 of Schedule 2 to the 2007 Order is amended in accordance with paragraph (2).
 
@@ -186,7 +186,7 @@ The Safeguarding Vulnerable Groups (Transitory Provisions) Order (Northern Irela
 
 .
 
-#### 24. Office holders and other amendments to paragraph 4 of Schedule 2 to the 2007 Order[^key-cc7b0e8e92ba359084ed654689df13e5]
+#### 24. Office holders and other amendments to paragraph 4 of Schedule 2 to the 2007 Order[^c-cc7b0e8e92ba359084ed654689df13e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -194,7 +194,7 @@ The Safeguarding Vulnerable Groups (Transitory Provisions) Order (Northern Irela
 
 ### Regulated activity relating to vulnerable adults
 
-#### 25. Office holders and other amendments to paragraph 8 of Schedule 2 to the Order[^key-cc7b0e8e92ba359084ed654689df13e5]
+#### 25. Office holders and other amendments to paragraph 8 of Schedule 2 to the Order[^c-cc7b0e8e92ba359084ed654689df13e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -340,11 +340,11 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-62fa8db0fdff241e3bf9cd354a48decb]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
+[^c-62fa8db0fdff241e3bf9cd354a48decb]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
 
-[^key-a30d2acb0242ee89046be5236f36cb5c]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2009/304/article/2) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
+[^c-a30d2acb0242ee89046be5236f36cb5c]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2009/304/article/2) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
 
-[^key-0dcaa009563e7b13ee24a298077aa182]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/304/article/2/1) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2012/320/article/4/2)
+[^c-0dcaa009563e7b13ee24a298077aa182]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/nisr/2009/304/article/2/1) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [4(2)](https://www.legislation.gov.uk/nisr/2012/320/article/4/2)
 
 [^f00005]: Footnote: [2003 asp 5](https://www.legislation.gov.uk/asp/2003/5).
 
@@ -354,22 +354,22 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00008]: Footnote: [S.R. 2007 No. 288](https://www.legislation.gov.uk/nisr/2007/288).
 
-[^key-b5bc19c952c9a47eebf4f2aad7f2985b]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2009/304/article/3) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
+[^c-b5bc19c952c9a47eebf4f2aad7f2985b]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2009/304/article/3) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
 
 [^f00011]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-22eafc8b96966151700ceae26e791e50]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2009/304/article/4) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
+[^c-22eafc8b96966151700ceae26e791e50]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2009/304/article/4) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
 
 [^f00012]: Footnote: [S.R. 2009 No. 38](https://www.legislation.gov.uk/nisr/2009/38).
 
-[^key-c1f6f1cecd56cd339a9f453f13cd02dd]: Textual amendment: [Arts. 5-21](https://www.legislation.gov.uk/nisr/2009/304/article/5) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [4(3)](https://www.legislation.gov.uk/nisr/2012/320/article/4/3)
+[^c-c1f6f1cecd56cd339a9f453f13cd02dd]: Textual amendment: [Arts. 5-21](https://www.legislation.gov.uk/nisr/2009/304/article/5) revoked (10.9.2012) by [The Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order (Northern Ireland) 2012 (S.R. 2012/320)](https://www.legislation.gov.uk/nisr/2012/320), [arts. 1](https://www.legislation.gov.uk/nisr/2012/320/article/1), [4(3)](https://www.legislation.gov.uk/nisr/2012/320/article/4/3)
 
-[^key-a84ac3f9548698b8eae046a90912a6ca]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/nisr/2009/304/article/10) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-a84ac3f9548698b8eae046a90912a6ca]: Textual amendment: [Art. 10](https://www.legislation.gov.uk/nisr/2009/304/article/10) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
 
-[^key-c879dd5e53f1fa4f9f1f5a16cdd831f1]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2009/304/article/22) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
+[^c-c879dd5e53f1fa4f9f1f5a16cdd831f1]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisr/2009/304/article/22) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
 
-[^key-b399d0965439adad12742987a6e6375d]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2009/304/article/23) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
+[^c-b399d0965439adad12742987a6e6375d]: Commencement: [Art. 23](https://www.legislation.gov.uk/nisr/2009/304/article/23) in operation at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/304/article/1)
 
 [^f00024]: Footnote: [S.I. 1995 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
-[^key-cc7b0e8e92ba359084ed654689df13e5]: Textual amendment: [Art. 25](https://www.legislation.gov.uk/nisr/2009/304/article/25) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)
+[^c-cc7b0e8e92ba359084ed654689df13e5]: Textual amendment: [Art. 25](https://www.legislation.gov.uk/nisr/2009/304/article/25) revoked (10.9.2012 immediately after the coming into force of the Safeguarding Vulnerable Groups (Miscellaneous Amendments) Order 2012 (S.I. 2012/2157)) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/bb)

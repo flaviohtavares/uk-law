@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-b2e7c391bf2852d4c7676a6b2c2118ed]
+## 1. Citation and commencement[^c-b2e7c391bf2852d4c7676a6b2c2118ed]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Chiltern Railways (Bicester to Oxford Improvement
 
 ## Annotations
 
-[^key-b2e7c391bf2852d4c7676a6b2c2118ed]: Commencement: Art. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-b2e7c391bf2852d4c7676a6b2c2118ed]: Commencement: Art. 1 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

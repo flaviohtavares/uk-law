@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Status of education administrator[^key-c254421864d5af887b8d73496194f5be]
+## 23. Status of education administrator[^c-c254421864d5af887b8d73496194f5be]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c254421864d5af887b8d73496194f5be]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/19/section/23) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-c254421864d5af887b8d73496194f5be]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2017/19/section/23) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

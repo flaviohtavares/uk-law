@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 194. Other hearings without notice[^key-014893479edb6f1d1e59322149cc9cf1]
+## 194. Other hearings without notice[^c-014893479edb6f1d1e59322149cc9cf1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.09 of the 1991 Rules.
 
 ## Annotations
 
-[^key-014893479edb6f1d1e59322149cc9cf1]: Commencement: Rule 194 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-014893479edb6f1d1e59322149cc9cf1]: Commencement: Rule 194 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Displays of products or prices in Wales[^key-772fd31e436a0c97c1417b78b27efa7e][^key-915f1a6c9ac0887302b0a2642b772315]
+## 14. Displays of products or prices in Wales[^c-772fd31e436a0c97c1417b78b27efa7e][^c-915f1a6c9ac0887302b0a2642b772315]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-772fd31e436a0c97c1417b78b27efa7e]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-772fd31e436a0c97c1417b78b27efa7e]: Commencement: S. 14 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-915f1a6c9ac0887302b0a2642b772315]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2026/18/section/14) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-915f1a6c9ac0887302b0a2642b772315]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2026/18/section/14) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

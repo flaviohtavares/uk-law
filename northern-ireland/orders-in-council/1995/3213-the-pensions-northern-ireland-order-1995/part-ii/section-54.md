@@ -27,7 +27,7 @@ summary: ''
 (3) In Articles 51 to 53 and this Article—
 
 - “annual rate”, in relation to a pension, means the annual rate of the pension, as previously increased under the rules of the scheme or under Article 51,
-- [^key-7d7fde9816b855dda5ac93dddbc417cd]...
+- [^c-7d7fde9816b855dda5ac93dddbc417cd]...
 - *Definition rep. by 2005 NI 1*
 - “the commencement day” means the day appointed for the coming into operation of Article 255 of the Pensions (Northern Ireland) Order 2005 (amendments to Article 51);[^c17250931]
 - “higher revaluation percentage” and “lower revaluation percentage” mean the higher revaluation percentage and the lower revaluation percentage specified for a revaluation period by a revaluation order;[^c21234371]
@@ -39,7 +39,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7d7fde9816b855dda5ac93dddbc417cd]: Textual amendment: Words in [art. 54(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/54/3) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 59](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/59)
+[^c-7d7fde9816b855dda5ac93dddbc417cd]: Textual amendment: Words in [art. 54(3)](https://www.legislation.gov.uk/nisi/1995/3213/article/54/3) omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 59](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/59)
 
 [^c17250931]: Textual amendment: [2005 NI 1](https://www.legislation.gov.uk/nisi/2005)
 

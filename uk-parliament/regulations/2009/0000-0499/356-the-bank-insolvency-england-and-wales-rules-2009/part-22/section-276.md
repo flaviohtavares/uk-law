@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 276. Non–receipt of notice of meeting[^key-dfdbeba078b8ba849be5694b304b0ed0]
+## 276. Non–receipt of notice of meeting[^c-dfdbeba078b8ba849be5694b304b0ed0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.16 of the 1986 Rules.
 
 ## Annotations
 
-[^key-dfdbeba078b8ba849be5694b304b0ed0]: Commencement: Rule 276 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-dfdbeba078b8ba849be5694b304b0ed0]: Commencement: Rule 276 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

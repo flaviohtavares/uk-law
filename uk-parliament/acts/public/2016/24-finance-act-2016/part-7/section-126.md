@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. VAT: women's sanitary products[^key-233709bc8bd068f0b6fc0bd7312918e9]
+## 126. VAT: women's sanitary products[^c-233709bc8bd068f0b6fc0bd7312918e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-233709bc8bd068f0b6fc0bd7312918e9]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2016/24/section/126) has effect as specified (31.12.2020) by [The Finance Act 2016, Section 126 (Appointed Day), the Taxation (Cross-border Trade) Act 2018 (Appointed Day No. 8, Transition and Saving Provisions) and the Taxation (Post-transition Period) Act 2020 (Appointed Day No. 1) (EU Exit) Regulations 2020 (S.I. 2020/1642)](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1642/regulation/3)
+[^c-233709bc8bd068f0b6fc0bd7312918e9]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2016/24/section/126) has effect as specified (31.12.2020) by [The Finance Act 2016, Section 126 (Appointed Day), the Taxation (Cross-border Trade) Act 2018 (Appointed Day No. 8, Transition and Saving Provisions) and the Taxation (Post-transition Period) Act 2020 (Appointed Day No. 1) (EU Exit) Regulations 2020 (S.I. 2020/1642)](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1642/regulation/3)

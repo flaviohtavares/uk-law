@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-883426bef491df6eb95128e85a274188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-883426bef491df6eb95128e85a274188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In the Schedule to the Landlord and Tenant Act 1985, for paragraph 8 (right to challenge landlord’s choice of insurers) substitute—
 
@@ -50,7 +50,7 @@ summary: ''
 
 .
 
-(3)[^key-ed1b9769a8578b37f687ae05f15f4c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ed1b9769a8578b37f687ae05f15f4c6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) For section 20C of the [^c13151001]Landlord and Tenant Act 1985 (limitation of service charges: costs of court proceedings) substitute—
 
@@ -85,9 +85,9 @@ summary: ''
 
 [^c13150951]: Commencement: S. 83 wholly in force 11.8.1998; s. 83 not in force at Royal Assent see s. 232(1)-(3); s. 83(3) in force for certain purposes at 23.8.1996 by [S.I. 1996/2212](https://www.legislation.gov.uk/uksi/1996/2212), [art. 2(1)](https://www.legislation.gov.uk/uksi/1996/2212/article/2/1); s. 83 in force at 1.9.1997 to the extent not already in force by [S.I. 1997/1851](https://www.legislation.gov.uk/uksi/1997/1851), [art. 2](https://www.legislation.gov.uk/uksi/1997/1851/article/2) (subject to the saving in [Sch. para. 1](https://www.legislation.gov.uk/uksi/1997/1851/schedule/paragraph/1)); s. 83 in force at 11.8.1998 to the extent that it does not, because of Sch. para. 1, already have effect by [S.I. 1998/1768](https://www.legislation.gov.uk/uksi/1998/1768), [art. 2](https://www.legislation.gov.uk/uksi/1998/1768/article/2) (subject to [art. 3](https://www.legislation.gov.uk/uksi/1998/1768/article/3)).
 
-[^key-883426bef491df6eb95128e85a274188]: Textual amendment: S. 83(1) repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
+[^c-883426bef491df6eb95128e85a274188]: Textual amendment: S. 83(1) repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
-[^key-ed1b9769a8578b37f687ae05f15f4c6b]: Textual amendment: S. 83(3) repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
+[^c-ed1b9769a8578b37f687ae05f15f4c6b]: Textual amendment: S. 83(3) repealed (30.9.2003 for E., 30.3.2004 for W.) by [Commonhold and Leasehold Reform Act 2002 (c. 15)](https://www.legislation.gov.uk/ukpga/2002/15), [s. 181(1)](https://www.legislation.gov.uk/ukpga/2002/15/section/181/1), [Sch. 14](https://www.legislation.gov.uk/ukpga/2002/15/schedule/14); [S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2003/1986/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/1986/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2003/1986/schedule/2)); [S.I. 2004/669](https://www.legislation.gov.uk/uksi/2004/669), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2004/669/article/2/c/iv), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/669/schedule/1/part/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2004/669/schedule/2))
 
 [^c13151001]: Marginal citation: [1985 c. 70](https://www.legislation.gov.uk/ukpga/1985/70).
 

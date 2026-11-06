@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 172ZA. Enforcement warning notice: England[^key-c1fff3a38928d72cd92f20543eec019c]
+## 172ZA. Enforcement warning notice: England[^c-c1fff3a38928d72cd92f20543eec019c]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1fff3a38928d72cd92f20543eec019c]: Textual amendment: S. 172ZA inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 117(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/117/3), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/d)
+[^c-c1fff3a38928d72cd92f20543eec019c]: Textual amendment: S. 172ZA inserted (25.4.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 117(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/117/3), [255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/d)

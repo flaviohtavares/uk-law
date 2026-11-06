@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Health protection regulations: Scotland[^key-405845568d9530d75885190b7d18a979]
+## 49. Health protection regulations: Scotland[^c-405845568d9530d75885190b7d18a979]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-405845568d9530d75885190b7d18a979]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/2020/7/section/49) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-405845568d9530d75885190b7d18a979]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/2020/7/section/49) expires (25.9.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))

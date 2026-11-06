@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Contamination of water sources.[^c13218461][^key-4ca5f0937922819ee65adaae5a1530b2][^key-1f0e510161ce6b5cdfef5c9c51723629]
+## 72. Contamination of water sources.[^c13218461][^c-4ca5f0937922819ee65adaae5a1530b2][^c-1f0e510161ce6b5cdfef5c9c51723629]
 
 *Extent: E+W*
 
@@ -45,14 +45,14 @@ from polluting the water in any waterworks.
 
 - (a) any spring, well, adit, borehole, service reservoir or tank; and
 - (b) any main or other pipe or conduit of a water undertaker; and
-- (c) any pipe or conduit of a water supply licensee[^key-2f44565dcb51786022cf1c32e6442505].
+- (c) any pipe or conduit of a water supply licensee[^c-2f44565dcb51786022cf1c32e6442505].
 
 ## Annotations
 
 [^c13218461]: Modification: S. 72 amended (27.8.1993) by [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12), [ss. 40](https://www.legislation.gov.uk/ukpga/1993/12/section/40), [51(2)](https://www.legislation.gov.uk/ukpga/1993/12/section/51/2), [Sch. 3 Pt. I para. 8](https://www.legislation.gov.uk/ukpga/1993/12/schedule/3/part/I/paragraph/8) (with [ss. 42](https://www.legislation.gov.uk/ukpga/1993/12/section/42), [46](https://www.legislation.gov.uk/ukpga/1993/12/section/46)).
 
-[^key-4ca5f0937922819ee65adaae5a1530b2]: Modification: S. 72 modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
+[^c-4ca5f0937922819ee65adaae5a1530b2]: Modification: S. 72 modified by S.I. 2010/675, Sch. 23 Pt. 8 para. 3 Table 9 (as substituted (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/1/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2043/schedule/1))
 
-[^key-1f0e510161ce6b5cdfef5c9c51723629]: Modification: [S. 72](https://www.legislation.gov.uk/ukpga/1991/56/section/72) modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-1f0e510161ce6b5cdfef5c9c51723629]: Modification: [S. 72](https://www.legislation.gov.uk/ukpga/1991/56/section/72) modified (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 23 paras. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/1/3), [2](https://www.legislation.gov.uk/uksi/2016/1154/schedule/23/paragraph/2) Table 9 (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-2f44565dcb51786022cf1c32e6442505]: Textual amendment: Words in s. 72(5)(c) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 69](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/69); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)
+[^c-2f44565dcb51786022cf1c32e6442505]: Textual amendment: Words in s. 72(5)(c) substituted (1.4.2016) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 69](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/69); [S.I. 2016/465](https://www.legislation.gov.uk/uksi/2016/465), [art. 2(m)](https://www.legislation.gov.uk/uksi/2016/465/article/2/m), [Sch. 1 para. 1(m)](https://www.legislation.gov.uk/uksi/2016/465/schedule/1/paragraph/1/m) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2016/465/schedule/2)) (as amended (22.3.2017) by [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), art. 16)

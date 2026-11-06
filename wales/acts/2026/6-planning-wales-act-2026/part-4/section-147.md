@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Service and display of stop notice[^key-f2b23257c7b3ee9876f66717fa0c1a6c]
+## 147. Service and display of stop notice[^c-f2b23257c7b3ee9876f66717fa0c1a6c]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2b23257c7b3ee9876f66717fa0c1a6c]: Commencement: S. 147 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f2b23257c7b3ee9876f66717fa0c1a6c]: Commencement: S. 147 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

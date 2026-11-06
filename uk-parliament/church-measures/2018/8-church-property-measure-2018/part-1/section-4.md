@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 4. Vacancy in benefice: division, improvement etc. of parsonage house[^key-81724eb1749775472d2a63576ddc1659]
+## 4. Vacancy in benefice: division, improvement etc. of parsonage house[^c-81724eb1749775472d2a63576ddc1659]
 
 *Extent: E*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81724eb1749775472d2a63576ddc1659]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2018/8/section/4) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-81724eb1749775472d2a63576ddc1659]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2018/8/section/4) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

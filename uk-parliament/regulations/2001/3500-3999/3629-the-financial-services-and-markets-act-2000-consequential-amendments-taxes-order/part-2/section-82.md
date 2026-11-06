@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Miscellaneous amendments[^key-16c1dfbce315721adf8daeb4bb09f265]
+## 82. Miscellaneous amendments[^c-16c1dfbce315721adf8daeb4bb09f265]
 
 *Extent: E+W+S+N.I.*
 
 In the following places for “premiums” substitute “premium”—
 
-- (a)[^key-d6740e556f33ca65e55058a1435a3786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d6740e556f33ca65e55058a1435a3786] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 172(1)(b)[^f00094];
 - (c) the sidenote to section 174 and subsections (1)(a), (2) and (3) of that section[^f00095];
 - (d) section 182(1)(ca)[^f00096];
@@ -34,9 +34,9 @@ In the following places for “premiums” substitute “premium”—
 
 ## Annotations
 
-[^key-16c1dfbce315721adf8daeb4bb09f265]: Commencement: Art. 82 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-16c1dfbce315721adf8daeb4bb09f265]: Commencement: Art. 82 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
-[^key-d6740e556f33ca65e55058a1435a3786]: Textual amendment: [Art. 82(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/82/a) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 60(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/60/a)
+[^c-d6740e556f33ca65e55058a1435a3786]: Textual amendment: [Art. 82(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/82/a) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 60(a)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/60/a)
 
 [^f00094]: Footnote: Section 172(1)(b) was substituted by paragraph 2 of Schedule 21 to the Finance Act 1994.
 

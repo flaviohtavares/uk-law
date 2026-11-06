@@ -20,32 +20,32 @@ summary: ''
 
 *Extent: E+W*
 
-(1) For the purposes of this Part “**the court**” means the High Court or the family court[^key-d1467a027f4e106ab228bc2b21cfd7db].
+(1) For the purposes of this Part “**the court**” means the High Court or the family court[^c-d1467a027f4e106ab228bc2b21cfd7db].
 
-(2)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-ca292da5bbfec26111415561e8b52137] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1467a027f4e106ab228bc2b21cfd7db]: Textual amendment: Words in s. 57(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 135(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/135/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-d1467a027f4e106ab228bc2b21cfd7db]: Textual amendment: Words in s. 57(1) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 135(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/135/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-ca292da5bbfec26111415561e8b52137]: Textual amendment: S. 57(2)-(12) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 135(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/135/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-ca292da5bbfec26111415561e8b52137]: Textual amendment: S. 57(2)-(12) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 135(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/135/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

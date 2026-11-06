@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 2 — STREETS TO BE TEMPORARILY STOPPED UP[^key-7ea96bdc2efe7c67207ca97a3a5eb686]
+## SCHEDULE 2 — STREETS TO BE TEMPORARILY STOPPED UP[^c-7ea96bdc2efe7c67207ca97a3a5eb686]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ Article 10
 
 ## Annotations
 
-[^key-7ea96bdc2efe7c67207ca97a3a5eb686]: Commencement: Sch. 2 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-7ea96bdc2efe7c67207ca97a3a5eb686]: Commencement: Sch. 2 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Interpretation of Chapter 1[^key-5e8c046e9a258ff69d94ded8c3862647]
+## 225. Interpretation of Chapter 1[^c-5e8c046e9a258ff69d94ded8c3862647]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-5e8c046e9a258ff69d94ded8c3862647]: Commencement: S. 225 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-5e8c046e9a258ff69d94ded8c3862647]: Commencement: S. 225 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

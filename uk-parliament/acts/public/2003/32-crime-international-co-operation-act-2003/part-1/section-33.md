@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Making, varying or discharging customer information orders[^key-2f88c44a46b77962023a507ea00a0f5e]
+## 33. Making, varying or discharging customer information orders[^c-2f88c44a46b77962023a507ea00a0f5e]
 
 *Extent: E+W+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f88c44a46b77962023a507ea00a0f5e]: Commencement: S. 33 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)
+[^c-2f88c44a46b77962023a507ea00a0f5e]: Commencement: S. 33 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)

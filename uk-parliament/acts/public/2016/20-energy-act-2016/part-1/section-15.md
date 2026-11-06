@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Payments and financial assistance[^key-966a398e471aa8a6fe7f3ba6e5ec458d]
+## 15. Payments and financial assistance[^c-966a398e471aa8a6fe7f3ba6e5ec458d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-966a398e471aa8a6fe7f3ba6e5ec458d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/20/section/15) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-966a398e471aa8a6fe7f3ba6e5ec458d]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2016/20/section/15) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

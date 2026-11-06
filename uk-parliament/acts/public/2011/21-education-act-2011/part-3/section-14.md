@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Abolition of the Training and Development Agency for Schools[^key-8c2447b1ea9975c458927b2607c23299]
+## 14. Abolition of the Training and Development Agency for Schools[^c-8c2447b1ea9975c458927b2607c23299]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Sections 74 to 84 of, and Schedule 13 to, EA 2005 (the Training and Development 
 
 ## Annotations
 
-[^key-8c2447b1ea9975c458927b2607c23299]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/21/section/14) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)
+[^c-8c2447b1ea9975c458927b2607c23299]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/21/section/14) in force at 1.4.2012 by [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 2](https://www.legislation.gov.uk/uksi/2012/924/article/2)

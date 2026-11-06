@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**207.**[^key-eb94a2de1dfb9898de9136c3089fffd0] Omit section 116(2) and (3) (insertion of section 26ZB into Children Act 1989).
+**207.**[^c-eb94a2de1dfb9898de9136c3089fffd0] Omit section 116(2) and (3) (insertion of section 26ZB into Children Act 1989).
 
 ## Annotations
 
-[^key-eb94a2de1dfb9898de9136c3089fffd0]: Commencement: Reg. 207 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-eb94a2de1dfb9898de9136c3089fffd0]: Commencement: Reg. 207 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

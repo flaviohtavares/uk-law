@@ -22,7 +22,7 @@ summary: ''
 
 (1) Before making an order under section 32 by virtue of subsection (3)(b) of that section, the Secretary of State shall give notice of his proposal to—
 
-- (a) the local policing body[^key-ff6cb2fa39f6ca0d72017609ab684673] for every area [^c16427661]... that he proposes to alter,
+- (a) the local policing body[^c-ff6cb2fa39f6ca0d72017609ab684673] for every area [^c16427661]... that he proposes to alter,
 - (b) the council of every county, district, county borough or London borough wholly or partly within any area (other than the metropolitan police district) that he proposes to alter,
 - (bb)[^c16427671] the Greater London Authority, if he proposes to alter the metropolitan police district,
 - (c) the council of every London borough, county or district all or part of which would under the proposal be brought into or left out of the metropolitan police district, and
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ff6cb2fa39f6ca0d72017609ab684673]: Textual amendment: Words in s. 33(1)(a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10/paragraph/6); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/g)
+[^c-ff6cb2fa39f6ca0d72017609ab684673]: Textual amendment: Words in s. 33(1)(a) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10/paragraph/6); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(g)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/g)
 
 [^c16427661]: Textual amendment: Words in s. 33(1)(a) repealed (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [ss. 325](https://www.legislation.gov.uk/ukpga/1999/29/section/325), [423](https://www.legislation.gov.uk/ukpga/1999/29/section/423), [Sch. 27 para. 85(2)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/27/paragraph/85/2), [Sch. 34 Pt. VII](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/VII) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/1648](https://www.legislation.gov.uk/uksi/2000/1648), [art. 2](https://www.legislation.gov.uk/uksi/2000/1648/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1648/schedule)
 

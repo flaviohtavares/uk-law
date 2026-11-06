@@ -42,11 +42,11 @@ Laid before Parliament
 
 Coming into force in accordance with Article 1
 
-In exercise of the powers conferred by sections 39(6)(c)[^f00001] and 41(5)(c)[^f00002] of the Police (Scotland) Act 1967[^f00003], sections 88(7)(c)[^f00004] and 89(5)(c)[^f00005] of the Police Act 1996[^f00006], sections 29(7)(c)[^f00007] and 66(6)(c)[^f00008] of the Police (Northern Ireland) Act 1998[^f00009] and sections 30(5)(c) and 57(6)(c) of the Serious Organised Crime and Police Act 2005[^f00010], and with the consent of the Scottish Ministers, the Secretary of State makes the following Order:[^key-921557354d47ff091ce41d3a50d16705]
+In exercise of the powers conferred by sections 39(6)(c)[^f00001] and 41(5)(c)[^f00002] of the Police (Scotland) Act 1967[^f00003], sections 88(7)(c)[^f00004] and 89(5)(c)[^f00005] of the Police Act 1996[^f00006], sections 29(7)(c)[^f00007] and 66(6)(c)[^f00008] of the Police (Northern Ireland) Act 1998[^f00009] and sections 30(5)(c) and 57(6)(c) of the Serious Organised Crime and Police Act 2005[^f00010], and with the consent of the Scottish Ministers, the Secretary of State makes the following Order:[^c-921557354d47ff091ce41d3a50d16705]
 
-**1.**[^key-d2e9e3aae8335f2de7736c18ca687e0f] This Order may be cited as the International Joint Investigation Teams (International Agreement) Order 2009 and shall come into force on the first day of the month following the expiry of three months from the date on which the United Kingdom deposits an instrument of ratification in respect of the Second Additional Protocol to the European Convention on Mutual Legal Assistance in Criminal Matters[^f00011] with the Secretary General of the Council of Europe[^f00012].
+**1.**[^c-d2e9e3aae8335f2de7736c18ca687e0f] This Order may be cited as the International Joint Investigation Teams (International Agreement) Order 2009 and shall come into force on the first day of the month following the expiry of three months from the date on which the United Kingdom deposits an instrument of ratification in respect of the Second Additional Protocol to the European Convention on Mutual Legal Assistance in Criminal Matters[^f00011] with the Secretary General of the Council of Europe[^f00012].
 
-**2.**[^key-9c7ee849b362d1ad86afd813e7d6d7bc] The Second Additional Protocol to the European Convention on Mutual Legal Assistance in Criminal Matters is specified for the purposes of–
+**2.**[^c-9c7ee849b362d1ad86afd813e7d6d7bc] The Second Additional Protocol to the European Convention on Mutual Legal Assistance in Criminal Matters is specified for the purposes of–
 
 - (a) sections 39(6)(c) and 41(5)(c) of the Police (Scotland) Act 1967;
 - (b) sections 88(7)(c) and 89(5)(c) of the Police Act 1996;
@@ -95,12 +95,12 @@ By specifying the Second Additional Protocol for the purpose of sections 39(6)(c
 
 [^f00010]: Footnote: [2005 c.15](https://www.legislation.gov.uk/ukpga/2005/15).
 
-[^key-921557354d47ff091ce41d3a50d16705]: Modification: [Order](https://www.legislation.gov.uk/uksi/2009/3269) modified (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/7); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-921557354d47ff091ce41d3a50d16705]: Modification: [Order](https://www.legislation.gov.uk/uksi/2009/3269) modified (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/7); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-d2e9e3aae8335f2de7736c18ca687e0f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/3269/article/1) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3269/article/1)
+[^c-d2e9e3aae8335f2de7736c18ca687e0f]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/3269/article/1) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3269/article/1)
 
 [^f00011]: Footnote: Cmnd 5603 of 2002.
 
 [^f00012]: Footnote: The Council of Europe provides notification as to the ratification of Council of Europe instruments on the following page of its website: http://conventions.coe.int/Treaty/Commun/ChercheSig.asp?NT=182&CM=8&DF=1/28/2009&CL=ENG.
 
-[^key-9c7ee849b362d1ad86afd813e7d6d7bc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/3269/article/2) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3269/article/1)
+[^c-9c7ee849b362d1ad86afd813e7d6d7bc]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/3269/article/2) in force at 1.10.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2009/3269/article/1)

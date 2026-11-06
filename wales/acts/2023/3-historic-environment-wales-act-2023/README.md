@@ -281,7 +281,7 @@ An Act of Senedd Cymru to consolidate certain enactments relating to the conserv
 - [Section 74 — Crown land](part-2/section-74.md)
 - [Section 75 — Interpretation of this Part](part-2/section-75.md)
 
-### PART 3 — BUILDINGS OF SPECIAL ARCHITECTURAL OR HISTORIC INTEREST[^key-ca96bdcd6659c02ddabbfc99f36f9fb3]
+### PART 3 — BUILDINGS OF SPECIAL ARCHITECTURAL OR HISTORIC INTEREST[^c-ca96bdcd6659c02ddabbfc99f36f9fb3]
 
 *Extent: E+W*
 
@@ -534,7 +534,7 @@ An Act of Senedd Cymru to consolidate certain enactments relating to the conserv
 - [Section 156 — Exempt religious buildings](part-3/section-156.md)
 - [Section 157 — Interpretation of this Part](part-3/section-157.md)
 
-### PART 4 — CONSERVATION AREAS[^key-ca96bdcd6659c02ddabbfc99f36f9fb3]
+### PART 4 — CONSERVATION AREAS[^c-ca96bdcd6659c02ddabbfc99f36f9fb3]
 
 *Extent: E+W*
 
@@ -572,7 +572,7 @@ An Act of Senedd Cymru to consolidate certain enactments relating to the conserv
 - [Section 165 — Grant by Welsh Ministers for preservation or enhancement of conservation areas](part-4/section-165.md)
 - [Section 166 — Conservation area agreements](part-4/section-166.md)
 
-### PART 5 — SUPPLEMENTARY PROVISION ABOUT BUILDINGS OF SPECIAL INTEREST AND CONSERVATION AREAS[^key-ca96bdcd6659c02ddabbfc99f36f9fb3]
+### PART 5 — SUPPLEMENTARY PROVISION ABOUT BUILDINGS OF SPECIAL INTEREST AND CONSERVATION AREAS[^c-ca96bdcd6659c02ddabbfc99f36f9fb3]
 
 *Extent: E+W*
 
@@ -750,4 +750,4 @@ An Act of Senedd Cymru to consolidate certain enactments relating to the conserv
 
 ## Annotations
 
-[^key-ca96bdcd6659c02ddabbfc99f36f9fb3]: Modification: [Pts. 3-5](https://www.legislation.gov.uk/asc/2023/3/part/3) applied (4.11.2024) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 11(1)](https://www.legislation.gov.uk/uksi/1999/1736/article/11/1) (as amended by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/uksi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/924/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2024/924/regulation/23/a))
+[^c-ca96bdcd6659c02ddabbfc99f36f9fb3]: Modification: [Pts. 3-5](https://www.legislation.gov.uk/asc/2023/3/part/3) applied (4.11.2024) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 11(1)](https://www.legislation.gov.uk/uksi/1999/1736/article/11/1) (as amended by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Secondary Legislation) Regulations 2024 (S.I. 2024/924)](https://www.legislation.gov.uk/uksi/2024/924), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/924/regulation/1/2), [23(a)](https://www.legislation.gov.uk/uksi/2024/924/regulation/23/a))

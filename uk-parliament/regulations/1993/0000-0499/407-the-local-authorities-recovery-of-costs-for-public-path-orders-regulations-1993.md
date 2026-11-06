@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for the Environment as respects England, and the Secretary of State for Wales as respects Wales, in exercise of the powers conferred on them by sections 150 and 152(5)[^f00001] of the Local Government and Housing Act 1989[^f00002], and of all other powers enabling them in that behalf, after consultation with such representatives of local government as appear to them to be appropriate[^f00003], hereby make the following Regulations, a draft of which has been laid before, and has been approved by resolution of, each House of Parliament:
 
-## 1. Citation and commencement[^key-f5952aa281e23a0a484a0ca3bb126f62]
+## 1. Citation and commencement[^c-f5952aa281e23a0a484a0ca3bb126f62]
 
 These Regulations may be cited as the Local Authorities (Recovery of Costs for Public Path Orders) Regulations 1993 and shall come into force on 15th March 1993.
 
-## 2. Interpretation and application[^key-eb6265ca43b830f11fb6831b29ae7f38]
+## 2. Interpretation and application[^c-eb6265ca43b830f11fb6831b29ae7f38]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -66,7 +66,7 @@ These Regulations may be cited as the Local Authorities (Recovery of Costs for P
 
 (2) These Regulations apply in relation to any request falling within regulation 3(1) of these Regulations made on or after the date when the Regulations come into force.
 
-## 3. Power to charge in respect of the making and confirmation of public path orders[^key-59f544d5010e5ea2b3770093cba030e8]
+## 3. Power to charge in respect of the making and confirmation of public path orders[^c-59f544d5010e5ea2b3770093cba030e8]
 
 (1) Where—
 
@@ -80,7 +80,7 @@ and the authority comply with that request, they may impose on the person making
 - (a) a charge in respect of the costs incurred in the making of the order; and
 - (b) a charge in respect of each of the following local advertisements, namely the local advertisements on the making, on the confirmation, and on the coming into operation or force, of the order.
 
-## 4. Amount of charge[^key-7bd1acc7ed5dc343fb68812e354bd9f9]
+## 4. Amount of charge[^c-7bd1acc7ed5dc343fb68812e354bd9f9]
 
 (1) Subject to paragraphs (2) and (3) below, the amount of a charge shall be at the authority’s discretion.
 
@@ -91,7 +91,7 @@ and the authority comply with that request, they may impose on the person making
 
 (3) The amount of a charge in respect of any one of the local advertisements referred to in regulation 3(2)(b) shall not exceed the cost of placing one advertisement in one newspaper.
 
-## 5. Refund of charges[^key-f196f7021b4350bc7556ae7deeed1504]
+## 5. Refund of charges[^c-f196f7021b4350bc7556ae7deeed1504]
 
 The authority shall, on application by the person who requested them to make the public path order, refund a charge where—
 
@@ -133,9 +133,9 @@ The amount which may be charged may not exceed the costs actually incurred, and 
 
 [^f00003]: Footnote: See section 152(6) of the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-f5952aa281e23a0a484a0ca3bb126f62]: Commencement: Reg. 1 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)
+[^c-f5952aa281e23a0a484a0ca3bb126f62]: Commencement: Reg. 1 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)
 
-[^key-eb6265ca43b830f11fb6831b29ae7f38]: Commencement: Reg. 2 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)
+[^c-eb6265ca43b830f11fb6831b29ae7f38]: Commencement: Reg. 2 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)
 
 [^f00004]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
@@ -145,8 +145,8 @@ The amount which may be charged may not exceed the costs actually incurred, and 
 
 [^f00007]: Footnote: Sections 118A and 119A were inserted by section 47 of, and paragraphs 3 and 4 of Schedule 2 to, the Transport and Works Act [1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42).
 
-[^key-59f544d5010e5ea2b3770093cba030e8]: Commencement: Reg. 3 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)
+[^c-59f544d5010e5ea2b3770093cba030e8]: Commencement: Reg. 3 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)
 
-[^key-7bd1acc7ed5dc343fb68812e354bd9f9]: Commencement: Reg. 4 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)
+[^c-7bd1acc7ed5dc343fb68812e354bd9f9]: Commencement: Reg. 4 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)
 
-[^key-f196f7021b4350bc7556ae7deeed1504]: Commencement: Reg. 5 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)
+[^c-f196f7021b4350bc7556ae7deeed1504]: Commencement: Reg. 5 in force at 15.3.1993, see [reg. 1](https://www.legislation.gov.uk/uksi/1993/407/regulation/1)

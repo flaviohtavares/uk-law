@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Status of the Scottish Road Works Commissioner[^key-615d1d7d3fef4983f2ba909a9a6556fb]
+## 109. Status of the Scottish Road Works Commissioner[^c-615d1d7d3fef4983f2ba909a9a6556fb]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-615d1d7d3fef4983f2ba909a9a6556fb]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2019/17/section/109) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/f)
+[^c-615d1d7d3fef4983f2ba909a9a6556fb]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2019/17/section/109) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/f)

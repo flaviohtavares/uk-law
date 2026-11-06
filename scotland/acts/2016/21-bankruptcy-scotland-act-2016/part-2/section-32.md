@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Application under section 31: further procedure where Accountant in Bankruptcy is not trustee[^key-8d96cc45ba9103d9a7e90d068d521f9a][^key-5700d3423d41fb3907bbdad79f420847]
+## 32. Application under section 31: further procedure where Accountant in Bankruptcy is not trustee[^c-8d96cc45ba9103d9a7e90d068d521f9a][^c-5700d3423d41fb3907bbdad79f420847]
 
 *Extent: S*
 
-(1)[^key-0ae86112d1f03b14659ad3b8b99ee4ff] This section applies where—
+(1)[^c-0ae86112d1f03b14659ad3b8b99ee4ff] This section applies where—
 
 - (a) an application is made under section 31, and
 - (b) AiB is not the trustee.
@@ -37,12 +37,12 @@ summary: ''
 - (a) indicate whether the debtor has agreed to—
   - (i) the interim trustee's claim for outlays reasonably incurred and for remuneration for work reasonably undertaken by the interim trustee (including any outlays and remuneration which are yet to be incurred), and
   - (ii) the trustee's claim for outlays reasonably incurred and for remuneration for work reasonably undertaken by the trustee (including any outlays and remuneration which are yet to be incurred),
-- (b) state whether or not the debtor's debts have been paid in full , including the payment in full of—[^key-cfac7e1141be50aa41d9f5e407b33fcc]
+- (b) state whether or not the debtor's debts have been paid in full , including the payment in full of—[^c-cfac7e1141be50aa41d9f5e407b33fcc]
   - (i) any interest payable on the debtor’s debts (see section 37A),
   - (ii) the outlays and remuneration of the interim trustee and of the trustee,
 - (c) where the debtor's debts have not been so paid—
   - (i) provide details of any debt which has not been paid, and
-  - (ii) indicate whether, in the opinion of the trustee, the debtor's assets are likely to be sufficient to pay the debts in full (including the payment of any interest payable on the debtor’s debts and payment of[^key-7bf449e0a69ea8ddacd37d0f3882e373] the outlays and remuneration of the interim trustee and of the trustee) within 8 weeks beginning with the day on which the statement is submitted, and
+  - (ii) indicate whether, in the opinion of the trustee, the debtor's assets are likely to be sufficient to pay the debts in full (including the payment of any interest payable on the debtor’s debts and payment of[^c-7bf449e0a69ea8ddacd37d0f3882e373] the outlays and remuneration of the interim trustee and of the trustee) within 8 weeks beginning with the day on which the statement is submitted, and
 - (d) provide details of any distribution of the debtor's estate.
 
 (5) The trustee must notify every creditor known to the trustee that the application has been made—
@@ -66,12 +66,12 @@ summary: ''
 
 ## Annotations
 
-[^key-8d96cc45ba9103d9a7e90d068d521f9a]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/21/section/32) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-8d96cc45ba9103d9a7e90d068d521f9a]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2016/21/section/32) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-5700d3423d41fb3907bbdad79f420847]: Textual amendment: [S. 32 heading](https://www.legislation.gov.uk/asp/2016/21/part/2/crossheading/recall-of-sequestration) substituted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(4)(b)](https://www.legislation.gov.uk/asp/2024/9/section/4/4/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
+[^c-5700d3423d41fb3907bbdad79f420847]: Textual amendment: [S. 32 heading](https://www.legislation.gov.uk/asp/2016/21/part/2/crossheading/recall-of-sequestration) substituted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(4)(b)](https://www.legislation.gov.uk/asp/2024/9/section/4/4/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
 
-[^key-0ae86112d1f03b14659ad3b8b99ee4ff]: Textual amendment: [S. 32(1)](https://www.legislation.gov.uk/asp/2016/21/section/32/1) substituted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(4)(a)](https://www.legislation.gov.uk/asp/2024/9/section/4/4/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
+[^c-0ae86112d1f03b14659ad3b8b99ee4ff]: Textual amendment: [S. 32(1)](https://www.legislation.gov.uk/asp/2016/21/section/32/1) substituted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 4(4)(a)](https://www.legislation.gov.uk/asp/2024/9/section/4/4/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/a) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/107/regulation/4))
 
-[^key-cfac7e1141be50aa41d9f5e407b33fcc]: Textual amendment: [S. 32(4)(b)(i)](https://www.legislation.gov.uk/asp/2016/21/section/32/4/b/i)[(ii)](https://www.legislation.gov.uk/asp/2016/21/section/32/4/b/ii) substituted for words (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 5(3)(a)](https://www.legislation.gov.uk/asp/2024/9/section/5/3/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/b)
+[^c-cfac7e1141be50aa41d9f5e407b33fcc]: Textual amendment: [S. 32(4)(b)(i)](https://www.legislation.gov.uk/asp/2016/21/section/32/4/b/i)[(ii)](https://www.legislation.gov.uk/asp/2016/21/section/32/4/b/ii) substituted for words (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 5(3)(a)](https://www.legislation.gov.uk/asp/2024/9/section/5/3/a), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/b)
 
-[^key-7bf449e0a69ea8ddacd37d0f3882e373]: Textual amendment: Words in [s. 32(4)(c)(ii)](https://www.legislation.gov.uk/asp/2016/21/section/32/4/c/ii) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 5(3)(b)](https://www.legislation.gov.uk/asp/2024/9/section/5/3/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/b)
+[^c-7bf449e0a69ea8ddacd37d0f3882e373]: Textual amendment: Words in [s. 32(4)(c)(ii)](https://www.legislation.gov.uk/asp/2016/21/section/32/4/c/ii) inserted (25.6.2025) by [Bankruptcy and Diligence (Scotland) Act 2024 (asp 9)](https://www.legislation.gov.uk/asp/2024/9), [ss. 5(3)(b)](https://www.legislation.gov.uk/asp/2024/9/section/5/3/b), [22(2)](https://www.legislation.gov.uk/asp/2024/9/section/22/2); [S.S.I. 2025/107](https://www.legislation.gov.uk/ssi/2025/107), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/107/regulation/2/2/b)

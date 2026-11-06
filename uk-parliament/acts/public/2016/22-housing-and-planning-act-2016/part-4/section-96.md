@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Objectives of housing administration[^key-2ba361bc8d2e9f8014685fbabc3c6906]
+## 96. Objectives of housing administration[^c-2ba361bc8d2e9f8014685fbabc3c6906]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ba361bc8d2e9f8014685fbabc3c6906]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2016/22/section/96) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-2ba361bc8d2e9f8014685fbabc3c6906]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2016/22/section/96) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

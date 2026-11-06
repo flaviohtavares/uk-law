@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Special provision for public service pension schemes.[^key-b62366f2e927da1795814f432b98500d]
+## 13. Special provision for public service pension schemes.[^c-b62366f2e927da1795814f432b98500d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b62366f2e927da1795814f432b98500d]: Textual amendment: [Regs. 12-14](https://www.legislation.gov.uk/uksi/1996/1172/regulation/12) revoked (6.4.2019) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/c), [33(a)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/33/a)
+[^c-b62366f2e927da1795814f432b98500d]: Textual amendment: [Regs. 12-14](https://www.legislation.gov.uk/uksi/1996/1172/regulation/12) revoked (6.4.2019) by [The Occupational Pension Schemes (Schemes that were Contracted-out) (No.2) Regulations 2015 (S.I. 2015/1677)](https://www.legislation.gov.uk/uksi/2015/1677), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/1/2/c), [33(a)](https://www.legislation.gov.uk/uksi/2015/1677/regulation/33/a)

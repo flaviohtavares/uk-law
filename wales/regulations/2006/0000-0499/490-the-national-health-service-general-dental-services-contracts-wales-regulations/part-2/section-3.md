@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Conditions: introductory[^key-4c607526bc0bf5f2140cc728109a1c30]
+## 3. Conditions: introductory[^c-4c607526bc0bf5f2140cc728109a1c30]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c607526bc0bf5f2140cc728109a1c30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2006/490) revoked (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [42](https://www.legislation.gov.uk/wsi/2026/37/regulation/42) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))
+[^c-4c607526bc0bf5f2140cc728109a1c30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2006/490) revoked (1.4.2026) by [The National Health Service (General Dental Services Contracts and Patient Charges) (Wales) Regulations 2026 (W.S.I. 2026/37)](https://www.legislation.gov.uk/wsi/2026/37), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2), [42](https://www.legislation.gov.uk/wsi/2026/37/regulation/42) (with [regs. 34-41](https://www.legislation.gov.uk/wsi/2026/37/regulation/34))

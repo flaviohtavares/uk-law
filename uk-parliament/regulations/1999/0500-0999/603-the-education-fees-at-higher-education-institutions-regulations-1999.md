@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION, ENGLAND AND WALES
 
-The Education (Fees at Higher Education Institutions) Regulations 1999 (revoked)[^key-393940af102a032d362e860ce24a421a]
+The Education (Fees at Higher Education Institutions) Regulations 1999 (revoked)[^c-393940af102a032d362e860ce24a421a]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 31st March 1999
 
-[^key-393940af102a032d362e860ce24a421a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-393940af102a032d362e860ce24a421a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-393940af102a032d362e860ce24a421a]
+## 1. Citation, commencement and interpretation[^c-393940af102a032d362e860ce24a421a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Prescribed class of persons[^key-393940af102a032d362e860ce24a421a]
+## 2. Prescribed class of persons[^c-393940af102a032d362e860ce24a421a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed description of courses[^key-393940af102a032d362e860ce24a421a]
+## 3. Prescribed description of courses[^c-393940af102a032d362e860ce24a421a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-393940af102a032d362e860ce24a421a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-393940af102a032d362e860ce24a421a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-393940af102a032d362e860ce24a421a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-393940af102a032d362e860ce24a421a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-393940af102a032d362e860ce24a421a]: Textual amendment: Regulations revoked (W.) (8.7.2005) by [The Fees in Higher Education Institutions (Wales) Regulations 2005 (S.I. 2005/1860)](https://www.legislation.gov.uk/uksi/2005/1860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1860/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/1860/regulation/6); and revoked (E.) (31.3.2006) by [The Student Fees (Qualifying Courses and Persons) Regulations 2006 (S.I. 2006/482)](https://www.legislation.gov.uk/uksi/2006/482), [regs. 1](https://www.legislation.gov.uk/uksi/2006/482/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/482/regulation/3)
+[^c-393940af102a032d362e860ce24a421a]: Textual amendment: Regulations revoked (W.) (8.7.2005) by [The Fees in Higher Education Institutions (Wales) Regulations 2005 (S.I. 2005/1860)](https://www.legislation.gov.uk/uksi/2005/1860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1860/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/1860/regulation/6); and revoked (E.) (31.3.2006) by [The Student Fees (Qualifying Courses and Persons) Regulations 2006 (S.I. 2006/482)](https://www.legislation.gov.uk/uksi/2006/482), [regs. 1](https://www.legislation.gov.uk/uksi/2006/482/regulation/1), [3](https://www.legislation.gov.uk/uksi/2006/482/regulation/3)

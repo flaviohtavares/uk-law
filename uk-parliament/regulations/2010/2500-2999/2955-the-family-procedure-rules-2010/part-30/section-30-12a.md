@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30.12A. Appeal court’s power to order that hearing of appeal be held in public[^key-329153d2aef1e23eca63baa6e26da449]
+## 30.12A. Appeal court’s power to order that hearing of appeal be held in public[^c-329153d2aef1e23eca63baa6e26da449]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-329153d2aef1e23eca63baa6e26da449]: Textual amendment: [Rule 30.12A](https://www.legislation.gov.uk/uksi/2010/2955/rule/30.12A) inserted (10.12.2018) by [The Family Procedure (Amendment No. 2) Rules 2018 (S.I. 2018/1172)](https://www.legislation.gov.uk/uksi/2018/1172), [rules 1](https://www.legislation.gov.uk/uksi/2018/1172/rule/1), [6](https://www.legislation.gov.uk/uksi/2018/1172/rule/6)
+[^c-329153d2aef1e23eca63baa6e26da449]: Textual amendment: [Rule 30.12A](https://www.legislation.gov.uk/uksi/2010/2955/rule/30.12A) inserted (10.12.2018) by [The Family Procedure (Amendment No. 2) Rules 2018 (S.I. 2018/1172)](https://www.legislation.gov.uk/uksi/2018/1172), [rules 1](https://www.legislation.gov.uk/uksi/2018/1172/rule/1), [6](https://www.legislation.gov.uk/uksi/2018/1172/rule/6)

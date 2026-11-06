@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Supply of copies of valuations, certificates etc[^key-b35352f76472cc7ed5d7db222b2a8389]
+## 37. Supply of copies of valuations, certificates etc[^c-b35352f76472cc7ed5d7db222b2a8389]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b35352f76472cc7ed5d7db222b2a8389]: Commencement: Reg. 37 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-b35352f76472cc7ed5d7db222b2a8389]: Commencement: Reg. 37 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

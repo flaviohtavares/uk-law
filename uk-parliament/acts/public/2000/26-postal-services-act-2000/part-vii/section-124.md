@@ -22,7 +22,7 @@ summary: ''
 
 (1) There shall be paid out of money provided by Parliament—
 
-- (a)[^key-891aee07a94b79c99f954bb07a051bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-891aee07a94b79c99f954bb07a051bb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any expenditure incurred by the Treasury or the Secretary of State in consequence of this Act (apart from any expenditure to be met from the National Loans Fund), and
 - (c) any increase attributable to this Act in the sums payable out of money so provided under any other enactment.
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-891aee07a94b79c99f954bb07a051bb9]: Textual amendment: [S. 124(1)(a)](https://www.legislation.gov.uk/ukpga/2000/26/section/124/1/a) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 48](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/48); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-891aee07a94b79c99f954bb07a051bb9]: Textual amendment: [S. 124(1)(a)](https://www.legislation.gov.uk/ukpga/2000/26/section/124/1/a) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 48](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/48); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Repeal of offence of enabling unauthorised access to computer material[^key-548145e7bc4a2f4a555feedc9a77e628][^key-8fac712985455041598b9ce15117ddd2][^key-8fac712985455041598b9ce15117ddd2]
+## 61. Repeal of offence of enabling unauthorised access to computer material[^c-548145e7bc4a2f4a555feedc9a77e628][^c-8fac712985455041598b9ce15117ddd2][^c-8fac712985455041598b9ce15117ddd2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-548145e7bc4a2f4a555feedc9a77e628]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2007/27/section/61) in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-548145e7bc4a2f4a555feedc9a77e628]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2007/27/section/61) in force at 1.10.2008 by [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))
+[^c-8fac712985455041598b9ce15117ddd2]: Modification: Pt. 2 restricted by 2007 c. 19, s. 18(1A) (as inserted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 62](https://www.legislation.gov.uk/ukpga/2007/27/section/62), [94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a))

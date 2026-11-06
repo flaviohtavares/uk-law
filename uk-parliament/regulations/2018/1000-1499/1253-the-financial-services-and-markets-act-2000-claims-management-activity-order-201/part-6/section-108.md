@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 108. Compensation Act 2006[^key-8e5790e35ababb672517e1981f5a8bfd][^key-7bfbedfd8493350ea3d689c1db15e8bd]
+## 108. Compensation Act 2006[^c-8e5790e35ababb672517e1981f5a8bfd][^c-7bfbedfd8493350ea3d689c1db15e8bd]
 
 *Extent: E+W+S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e5790e35ababb672517e1981f5a8bfd]: Commencement: Art. 108 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-8e5790e35ababb672517e1981f5a8bfd]: Commencement: Art. 108 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-7bfbedfd8493350ea3d689c1db15e8bd]: Commencement: Art. 108 in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-7bfbedfd8493350ea3d689c1db15e8bd]: Commencement: Art. 108 in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

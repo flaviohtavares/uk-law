@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Time limits for lodging certain appeals[^key-cada4413bf7e8340f91c4e62a7e6ed55]
+## 72. Time limits for lodging certain appeals[^c-cada4413bf7e8340f91c4e62a7e6ed55]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cada4413bf7e8340f91c4e62a7e6ed55]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2010/13/section/72) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-cada4413bf7e8340f91c4e62a7e6ed55]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2010/13/section/72) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

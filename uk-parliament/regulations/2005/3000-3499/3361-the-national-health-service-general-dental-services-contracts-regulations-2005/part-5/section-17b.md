@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17B. Complex care pathways[^key-dc23703bd7344fcb10da4996bc76e1a1]
+## 17B. Complex care pathways[^c-dc23703bd7344fcb10da4996bc76e1a1]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc23703bd7344fcb10da4996bc76e1a1]: Textual amendment: [Reg. 17B](https://www.legislation.gov.uk/uksi/2005/3361/regulation/17B) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/554/regulation/7)
+[^c-dc23703bd7344fcb10da4996bc76e1a1]: Textual amendment: [Reg. 17B](https://www.legislation.gov.uk/uksi/2005/3361/regulation/17B) inserted (23.6.2026) by [The National Health Service (Primary Dental Services and Dental Charges) (Amendment) (No. 2) Regulations 2026 (S.I. 2026/554)](https://www.legislation.gov.uk/uksi/2026/554), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/554/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2026/554/regulation/7)

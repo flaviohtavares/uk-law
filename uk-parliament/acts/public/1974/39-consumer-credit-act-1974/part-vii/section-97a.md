@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Duty to give information on partial repayment[^key-ba5dbbfc08f426407c5d65fc0bf5d675][^c20969651]
+## 97A. Duty to give information on partial repayment[^c-ba5dbbfc08f426407c5d65fc0bf5d675][^c20969651]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ the creditor must give the statement to the debtor before the end of the period 
 
 - (a) a description of the agreement sufficient to identify it,
 - (b) the name, postal address and, where appropriate, any other address of the creditor and the debtor,
-- (c) where the creditor is claiming an amount under section 95A(2)or section 95B(2) *(Extent: E+W+S)*[^key-c0dbd087b169434735b6f8661affa018], that amount and the method used to determine it,
+- (c) where the creditor is claiming an amount under section 95A(2)or section 95B(2) *(Extent: E+W+S)*[^c-c0dbd087b169434735b6f8661affa018], that amount and the method used to determine it,
 - (d) the amount of any rebate to which the debtor is entitled—
   - (i) under the agreement, or
   - (ii) by virtue of section 95 where that is higher,
@@ -44,14 +44,14 @@ the creditor must give the statement to the debtor before the end of the period 
   which results from the partial discharge of the indebtedness of the debtor, and
 - (h) the amount of the debtor's indebtedness remaining under the agreement at the date the creditor gives the statement.
 
-(3)[^key-ab66b3bcceb4d468621c072f7726a966] This section does not apply to a regulated deferred payment credit agreement.
+(3)[^c-ab66b3bcceb4d468621c072f7726a966] This section does not apply to a regulated deferred payment credit agreement.
 
 ## Annotations
 
-[^key-ba5dbbfc08f426407c5d65fc0bf5d675]: Modification: Ss. 94-97A excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
+[^c-ba5dbbfc08f426407c5d65fc0bf5d675]: Modification: Ss. 94-97A excluded (E.W.S.) (15.7.2014) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Green Deal) (Amendment) Order 2014 (S.I. 2014/1850)](https://www.legislation.gov.uk/uksi/2014/1850), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2014/1850/article/12/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/1850/article/1/3))
 
 [^c20969651]: Textual amendment: S. 97A inserted (1.2.2011) by [The Consumer Credit (EU Directive) Regulations 2010 (S.I. 2010/1010)](https://www.legislation.gov.uk/uksi/2010/1010), [regs. 34](https://www.legislation.gov.uk/uksi/2010/1010/regulation/34), [99(1)](https://www.legislation.gov.uk/uksi/2010/1010/regulation/99/1) (with [regs. 100](https://www.legislation.gov.uk/uksi/2010/1010/regulation/100), [101](https://www.legislation.gov.uk/uksi/2010/1010/regulation/101))
 
-[^key-c0dbd087b169434735b6f8661affa018]: Textual amendment: Words in s. 97A(2)(c) inserted (E.W.S.) (21.3.2012 for specified purposes, 28.1.2013 in so far as not already in force) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 29(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/29/4), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/125/article/2/d)
+[^c-c0dbd087b169434735b6f8661affa018]: Textual amendment: Words in s. 97A(2)(c) inserted (E.W.S.) (21.3.2012 for specified purposes, 28.1.2013 in so far as not already in force) by [Energy Act 2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), [ss. 29(4)](https://www.legislation.gov.uk/ukpga/2011/16/section/29/4), [121(1)](https://www.legislation.gov.uk/ukpga/2011/16/section/121/1); [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 3(1)(d)](https://www.legislation.gov.uk/uksi/2012/873/article/3/1/d)[(2)](https://www.legislation.gov.uk/uksi/2012/873/article/3/2); [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/125/article/2/d)
 
-[^key-ab66b3bcceb4d468621c072f7726a966]: Textual amendment: S. 97A(3) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(17)](https://www.legislation.gov.uk/uksi/2025/859/article/2/17)
+[^c-ab66b3bcceb4d468621c072f7726a966]: Textual amendment: S. 97A(3) inserted (15.7.2025 for specified purposes, 15.7.2026 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities etc.) (Amendment) Order 2025 (S.I. 2025/859)](https://www.legislation.gov.uk/uksi/2025/859), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/859/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/859/article/1/3), [2(17)](https://www.legislation.gov.uk/uksi/2025/859/article/2/17)

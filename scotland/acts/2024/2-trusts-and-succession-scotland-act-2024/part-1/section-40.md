@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Bringing of action for damages for loss resulting from trustee’s act or omission in ordinary course of administration[^key-74a927b8b29e332e9a563d4aa6ef09c5]
+## 40. Bringing of action for damages for loss resulting from trustee’s act or omission in ordinary course of administration[^c-74a927b8b29e332e9a563d4aa6ef09c5]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74a927b8b29e332e9a563d4aa6ef09c5]: Commencement: S. 40 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-74a927b8b29e332e9a563d4aa6ef09c5]: Commencement: S. 40 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

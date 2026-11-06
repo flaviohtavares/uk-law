@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-09c3b7aa79cc7775695a77638c5c2dd8][^key-fa1a321f79e36b40f1b17e60a768f5b8][^key-6f141dc81175c943f91fab6c427452b4] The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
+(1)[^c-09c3b7aa79cc7775695a77638c5c2dd8][^c-fa1a321f79e36b40f1b17e60a768f5b8][^c-6f141dc81175c943f91fab6c427452b4] The Proceeds of Crime Act 2002 (c. 29) is amended as follows.
 
-(2)[^key-09c3b7aa79cc7775695a77638c5c2dd8][^key-6f141dc81175c943f91fab6c427452b4] After section 195 insert—
+(2)[^c-09c3b7aa79cc7775695a77638c5c2dd8][^c-6f141dc81175c943f91fab6c427452b4] After section 195 insert—
 
 > **Search and seizure powers**
 >
@@ -211,11 +211,11 @@ summary: ''
 > - (a) the powers were exercisable, and
 > - (b) it was not practicable to obtain the approval of a lay magistrate.
 >
-> (4) The appointed person means a person appointed for the purposes of this subsection by the Department of Justice[^key-4ba3ee8a95ff5344960bfaffe4a0a8c8].
+> (4) The appointed person means a person appointed for the purposes of this subsection by the Department of Justice[^c-4ba3ee8a95ff5344960bfaffe4a0a8c8].
 >
-> (5) The appointed person must not be a person employed under or for the purposes of a government department; and the terms and conditions of appointment, including any remuneration or expenses to be paid, are to be determined by the Department of Justice[^key-7018143b54e1d5fc954443cc3efc8cd5].
+> (5) The appointed person must not be a person employed under or for the purposes of a government department; and the terms and conditions of appointment, including any remuneration or expenses to be paid, are to be determined by the Department of Justice[^c-7018143b54e1d5fc954443cc3efc8cd5].
 >
-> (5A)[^key-9f5257690bd71800ed4104a67cf02976] “Government department” includes a Northern Ireland department.
+> (5A)[^c-9f5257690bd71800ed4104a67cf02976] “Government department” includes a Northern Ireland department.
 >
 > (6) The period of 48 hours mentioned in subsection (1)(b) is to be calculated in accordance with subsection (7).
 >
@@ -239,16 +239,16 @@ summary: ''
 >
 > (4) The report may make any recommendations the appointed person considers appropriate.
 >
-> (5) The appointed person must send a copy of the report to the Department of Justice[^key-2ddada80399d66dab871d75ed5c52923].
+> (5) The appointed person must send a copy of the report to the Department of Justice[^c-2ddada80399d66dab871d75ed5c52923].
 >
-> (6) The Department of Justice[^key-5b3daa776556d5b054b730a2f23eabf2] must—
+> (6) The Department of Justice[^c-5b3daa776556d5b054b730a2f23eabf2] must—
 >
 > - (a) publish any report received under subsection (5), and
-> - (b) lay a copy before the Northern Ireland Assembly[^key-9f839aa5da4582de3df8e0a09ff7333f].
+> - (b) lay a copy before the Northern Ireland Assembly[^c-9f839aa5da4582de3df8e0a09ff7333f].
 >
-> (6A)[^key-194a206e11e613a868eadf7d16c8f871] Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (6)(b) in relation to the laying of a copy of a report as it applies in relation to the laying of a statutory document under an enactment.
+> (6A)[^c-194a206e11e613a868eadf7d16c8f871] Section 41(3) of the Interpretation Act (Northern Ireland) 1954 applies for the purposes of subsection (6)(b) in relation to the laying of a copy of a report as it applies in relation to the laying of a statutory document under an enactment.
 >
-> (7) Before acting under subsection (6) the Department of Justice[^key-047f9bf589642e674e90d93fe11d9aa3] must exclude from the report any matter which the Department of Justice thinks is likely to prejudice any criminal investigation or criminal proceedings.
+> (7) Before acting under subsection (6) the Department of Justice[^c-047f9bf589642e674e90d93fe11d9aa3] must exclude from the report any matter which the Department of Justice thinks is likely to prejudice any criminal investigation or criminal proceedings.
 >
 > (8) If the Department of Justice excludes any matter from the report the Department of Justice must comply with subsection (6) in relation to the whole of the report as soon as the Department of Justice thinks that the excluded matter is no longer likely to prejudice any criminal investigation or criminal proceedings.
 >
@@ -394,17 +394,17 @@ summary: ''
 >
 > (5) Nothing in this section affects the operation of any power or duty to release property that arises apart from this section.
 >
-> **Code of practice about search and seizure and detention of property: Secretary of State[^key-f360f97e70ef8454c9b70ef5f95aad4f]**
+> **Code of practice about search and seizure and detention of property: Secretary of State[^c-f360f97e70ef8454c9b70ef5f95aad4f]**
 >
 > **195S. Codes of practice**
 >
 > (1) The Secretary of State must make a code of practice in connection with—
 >
-> - (a) the carrying out by officers of Revenue and Customs[^key-24c4621a3a4d63f01c038fe0624e9947] of the functions conferred by section 195C to 195H,
+> - (a) the carrying out by officers of Revenue and Customs[^c-24c4621a3a4d63f01c038fe0624e9947] of the functions conferred by section 195C to 195H,
 > - (b) the carrying out by senior officers of their functions under section 195G, and
-> - (c) the detention of property by officers of Revenue and Customs and members of staff of[^key-2ee52e4fe8d7fffd80f58714f2a3b188] SOCAunder or by virtue of sections 190A, 193A and 195J to 195P.
+> - (c) the detention of property by officers of Revenue and Customs and members of staff of[^c-2ee52e4fe8d7fffd80f58714f2a3b188] SOCAunder or by virtue of sections 190A, 193A and 195J to 195P.
 >
-> (1A)[^key-c22ea205c59b3f4ad528b2381a637d23] In subsection (1) senior officers means officers of Revenue and Customs of a rank designated by the Commissioners for Her Majesty’s Revenue and Customs as equivalent to that of a police officer of at least the rank of inspector.
+> (1A)[^c-c22ea205c59b3f4ad528b2381a637d23] In subsection (1) senior officers means officers of Revenue and Customs of a rank designated by the Commissioners for Her Majesty’s Revenue and Customs as equivalent to that of a police officer of at least the rank of inspector.
 >
 > (2) Where the Secretary of State proposes to issue a code of practice the Secretary of State must—
 >
@@ -422,7 +422,7 @@ summary: ''
 >
 > (7) The code is admissible in evidence in criminal or civil proceedings and is to be taken into account by a court or tribunal in any case in which it appears to the court or tribunal to be relevant.
 >
-> **195T.**[^key-a489a6f5a3fea790371664eebf7beac7] **Codes of practice: Department of Justice**
+> **195T.**[^c-a489a6f5a3fea790371664eebf7beac7] **Codes of practice: Department of Justice**
 >
 > (1) The Department of Justice must make a code of practice in connection with—
 >
@@ -458,9 +458,9 @@ summary: ''
 >
 > (9) The code is admissible in evidence in criminal or civil proceedings and is to be taken into account by a court or tribunal in any case in which it appears to the court or tribunal to be relevant.
 
-(3)[^key-844616506ebecbedc5988790d3aa6a2f] Omit section 194 (seizure).
+(3)[^c-844616506ebecbedc5988790d3aa6a2f] Omit section 194 (seizure).
 
-(4)[^key-844616506ebecbedc5988790d3aa6a2f] In section 217 (powers of court and receiver)—
+(4)[^c-844616506ebecbedc5988790d3aa6a2f] In section 217 (powers of court and receiver)—
 
 - (a) in subsection (1) after paragraph (b) insert—
 
@@ -468,47 +468,47 @@ summary: ''
   > - (d) the powers conferred on senior officers by section 195G.
 - (b) at the end of the heading insert “ etc ”.
 
-(5)[^key-14b02ddea40068bfc6649b1c0ed2ce7c][^key-9b4c58da379a3172458463bc0ee8e950] In section 459 (orders and regulations)—
+(5)[^c-14b02ddea40068bfc6649b1c0ed2ce7c][^c-9b4c58da379a3172458463bc0ee8e950] In section 459 (orders and regulations)—
 
 - (a) in subsection (7A) after “section” (the second time it appears) insert “195T(5),”,
 - (b) in subsection (7B) after “section” insert “195T(5),
 
 ## Annotations
 
-[^key-09c3b7aa79cc7775695a77638c5c2dd8]: Commencement: [S. 57(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/2) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
+[^c-09c3b7aa79cc7775695a77638c5c2dd8]: Commencement: [S. 57(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/2) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 3](https://www.legislation.gov.uk/uksi/2014/3101/article/3)
 
-[^key-fa1a321f79e36b40f1b17e60a768f5b8]: Commencement: [S. 57(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/1) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/3101/article/2/a)
+[^c-fa1a321f79e36b40f1b17e60a768f5b8]: Commencement: [S. 57(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/1) in force at 22.11.2014 for specified purposes by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/3101/article/2/a)
 
-[^key-6f141dc81175c943f91fab6c427452b4]: Commencement: [S. 57(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/2) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/147/article/3/b)
+[^c-6f141dc81175c943f91fab6c427452b4]: Commencement: [S. 57(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/1)[(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/2) in force at 1.3.2016 in so far as not already in force by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/147/article/3/b)
 
-[^key-4ba3ee8a95ff5344960bfaffe4a0a8c8]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-4ba3ee8a95ff5344960bfaffe4a0a8c8]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/a) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-7018143b54e1d5fc954443cc3efc8cd5]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-7018143b54e1d5fc954443cc3efc8cd5]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/b) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-9f5257690bd71800ed4104a67cf02976]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(c)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/c) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-9f5257690bd71800ed4104a67cf02976]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(c)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/c) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-2ddada80399d66dab871d75ed5c52923]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(d)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/d) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-2ddada80399d66dab871d75ed5c52923]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(d)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/d) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-5b3daa776556d5b054b730a2f23eabf2]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(e)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/e) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-5b3daa776556d5b054b730a2f23eabf2]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(e)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/e) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-9f839aa5da4582de3df8e0a09ff7333f]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(f)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/f) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-9f839aa5da4582de3df8e0a09ff7333f]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(f)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/f) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-194a206e11e613a868eadf7d16c8f871]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(g)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/g) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-194a206e11e613a868eadf7d16c8f871]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(g)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/g) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-047f9bf589642e674e90d93fe11d9aa3]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(h)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/h) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-047f9bf589642e674e90d93fe11d9aa3]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(h)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/h) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-f360f97e70ef8454c9b70ef5f95aad4f]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(i)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/i) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-f360f97e70ef8454c9b70ef5f95aad4f]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(i)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/i) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-24c4621a3a4d63f01c038fe0624e9947]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(j)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/j) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-24c4621a3a4d63f01c038fe0624e9947]: Textual amendment: Words in s. 57 substituted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(j)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/j) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-2ee52e4fe8d7fffd80f58714f2a3b188]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(k)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/k) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-2ee52e4fe8d7fffd80f58714f2a3b188]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(k)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/k) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-c22ea205c59b3f4ad528b2381a637d23]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(l)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/l) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-c22ea205c59b3f4ad528b2381a637d23]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(l)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/l) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-a489a6f5a3fea790371664eebf7beac7]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(m)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/m) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-a489a6f5a3fea790371664eebf7beac7]: Textual amendment: Words in s. 57 inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(m)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/m) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
 
-[^key-844616506ebecbedc5988790d3aa6a2f]: Commencement: [S. 57(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/4) in force at 1.3.2016 by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/147/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/147/article/4))
+[^c-844616506ebecbedc5988790d3aa6a2f]: Commencement: [S. 57(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/4) in force at 1.3.2016 by [S.I. 2016/147](https://www.legislation.gov.uk/uksi/2016/147), [art. 3(b)](https://www.legislation.gov.uk/uksi/2016/147/article/3/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/147/article/4))
 
-[^key-14b02ddea40068bfc6649b1c0ed2ce7c]: Commencement: [S. 57(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/5) in force at 22.11.2014 by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3101/article/2/b)
+[^c-14b02ddea40068bfc6649b1c0ed2ce7c]: Commencement: [S. 57(5)](https://www.legislation.gov.uk/ukpga/2009/26/section/57/5) in force at 22.11.2014 by [S.I. 2014/3101](https://www.legislation.gov.uk/uksi/2014/3101), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/3101/article/2/b)
 
-[^key-9b4c58da379a3172458463bc0ee8e950]: Textual amendment: S. 57(5) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(n)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/n) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))
+[^c-9b4c58da379a3172458463bc0ee8e950]: Textual amendment: S. 57(5) inserted (18.10.2012) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2012 (S.I. 2012/2595)](https://www.legislation.gov.uk/uksi/2012/2595), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/2595/article/1/2), [18(2)(n)](https://www.legislation.gov.uk/uksi/2012/2595/article/18/2/n) (with [arts. 24-28](https://www.legislation.gov.uk/uksi/2012/2595/article/24))

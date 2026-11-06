@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Provision of information to Secretary of State[^key-3e3e61a7b63b182b8a092ffee03ea68c]
+## 87. Provision of information to Secretary of State[^c-3e3e61a7b63b182b8a092ffee03ea68c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rent regulations may give the Secretary of State a power to require a local hous
 
 ## Annotations
 
-[^key-3e3e61a7b63b182b8a092ffee03ea68c]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2016/22/section/87) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-3e3e61a7b63b182b8a092ffee03ea68c]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2016/22/section/87) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)

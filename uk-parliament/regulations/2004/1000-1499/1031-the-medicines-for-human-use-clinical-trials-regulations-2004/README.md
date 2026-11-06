@@ -136,11 +136,11 @@ The Secretary of State, being a Minister designated [^c5389061] for the purposes
 - [Section 44B — Variation of POC (IMP) master file](part-6/section-44b.md)
 - [Section 45 — Suspension and revocation of manufacturing authorisation](part-6/section-45.md)
 
-### Part 6A — NON-INVESTIGATIONAL MEDICINAL AND NON-MEDICINAL PRODUCTS[^key-1d5dacc21fa7faa48547470d855edd13]
+### Part 6A — NON-INVESTIGATIONAL MEDICINAL AND NON-MEDICINAL PRODUCTS[^c-1d5dacc21fa7faa48547470d855edd13]
 
 - [Section 45A — Non-investigational medicinal and non-medicinal products](part-6a/section-45a.md)
 
-### PART 7 — LABELLING[^key-04348250e8a50fb39db69e7d4ef41919]
+### PART 7 — LABELLING[^c-04348250e8a50fb39db69e7d4ef41919]
 
 - [Section 46 — Labelling of investigational medicinal products](part-7/section-46.md)
 - [Section 46A — Labelling of non-investigational medicinal products](part-7/section-46a.md)
@@ -221,6 +221,6 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c5389071]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-1d5dacc21fa7faa48547470d855edd13]: Textual amendment: Pt. 6A inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/538/regulation/31)
+[^c-1d5dacc21fa7faa48547470d855edd13]: Textual amendment: Pt. 6A inserted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2025/538/regulation/31)
 
-[^key-04348250e8a50fb39db69e7d4ef41919]: Textual amendment: Pt. 7 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2025/538/regulation/32)
+[^c-04348250e8a50fb39db69e7d4ef41919]: Textual amendment: Pt. 7 substituted (28.4.2026) by [The Medicines for Human Use (Clinical Trials) (Amendment) Regulations 2025 (S.I. 2025/538)](https://www.legislation.gov.uk/uksi/2025/538), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/538/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2025/538/regulation/32)

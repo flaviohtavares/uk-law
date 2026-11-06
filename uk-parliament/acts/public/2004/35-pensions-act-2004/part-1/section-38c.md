@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38C. Section 38 contribution notice: meaning of “employer insolvency test”[^key-376b9d523467ea06ac1b9fc28087194e]
+## 38C. Section 38 contribution notice: meaning of “employer insolvency test”[^c-376b9d523467ea06ac1b9fc28087194e]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ and, in the case of acts or failures to act forming part of a series, any refere
 
 ## Annotations
 
-[^key-376b9d523467ea06ac1b9fc28087194e]: Textual amendment: [Ss. 38C](https://www.legislation.gov.uk/ukpga/2004/35/section/38C), [38D](https://www.legislation.gov.uk/ukpga/2004/35/section/38D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/3), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))
+[^c-376b9d523467ea06ac1b9fc28087194e]: Textual amendment: [Ss. 38C](https://www.legislation.gov.uk/ukpga/2004/35/section/38C), [38D](https://www.legislation.gov.uk/ukpga/2004/35/section/38D) inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 103(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/3), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29C. Criminal conduct authorisations: safeguards for juveniles[^key-90a540ea842c57432f693f3efc1f0ad3]
+## 29C. Criminal conduct authorisations: safeguards for juveniles[^c-90a540ea842c57432f693f3efc1f0ad3]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ and in this subsection, “**guardian**”, in relation to a juvenile source, ha
 
 ## Annotations
 
-[^key-90a540ea842c57432f693f3efc1f0ad3]: Textual amendment: S. 29C inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2021/4/section/2/1), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)
+[^c-90a540ea842c57432f693f3efc1f0ad3]: Textual amendment: S. 29C inserted (10.8.2021 for specified purposes, 15.9.2021 for specified purposes, 30.9.2021 in so far as not already in force) by [Covert Human Intelligence Sources (Criminal Conduct) Act 2021 (c. 4)](https://www.legislation.gov.uk/ukpga/2021/4), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/2021/4/section/2/1), [9(2)](https://www.legislation.gov.uk/ukpga/2021/4/section/9/2); [S.I. 2021/605](https://www.legislation.gov.uk/uksi/2021/605), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/a)[(b)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/b)[(c)](https://www.legislation.gov.uk/uksi/2021/605/regulation/2/c)

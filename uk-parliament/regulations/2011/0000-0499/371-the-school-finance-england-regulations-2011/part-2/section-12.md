@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Redetermination of schools budgets and individual schools budgets[^key-262eb9bab6ae615b90a763a4bde5569a]
+## 12. Redetermination of schools budgets and individual schools budgets[^c-262eb9bab6ae615b90a763a4bde5569a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-262eb9bab6ae615b90a763a4bde5569a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2011/371/regulation/12) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-262eb9bab6ae615b90a763a4bde5569a]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2011/371/regulation/12) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

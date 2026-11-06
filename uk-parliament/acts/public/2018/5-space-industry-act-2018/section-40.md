@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Orders under section 39: offences[^key-5043294b9040b891609712c50f41b959]
+## 40. Orders under section 39: offences[^c-5043294b9040b891609712c50f41b959]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ A reference to interfering with works is to be read accordingly.
 
 ## Annotations
 
-[^key-5043294b9040b891609712c50f41b959]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2018/5/section/40) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 74](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/74) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-5043294b9040b891609712c50f41b959]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2018/5/section/40) in force at 29.7.2021 by [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 74](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/74) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

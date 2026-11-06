@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Part-time students[^key-8973bf8ccef5be4e6c2ad291a7403576]
+## 11. Part-time students[^c-8973bf8ccef5be4e6c2ad291a7403576]
 
 *Extent: N.I.*
 
@@ -43,6 +43,6 @@ in determining whether he is available for employment no matter relating to his 
 
 ## Annotations
 
-[^key-8973bf8ccef5be4e6c2ad291a7403576]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-8973bf8ccef5be4e6c2ad291a7403576]: Commencement: Reg. 11 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00037]: Footnote: Schedule 1B was inserted by regulation 22 of, and Schedule 1 to, [S.R. 1996 No. 199](https://www.legislation.gov.uk/nisr/1996/199)

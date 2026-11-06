@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. General provisions about transfers under Chapter II.[^key-46bf3dbfbba6b0f64a31a91637b8c793]
+## 36. General provisions about transfers under Chapter II.[^c-46bf3dbfbba6b0f64a31a91637b8c793]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46bf3dbfbba6b0f64a31a91637b8c793]: Textual amendment: S. 36 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(5)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/5/c)
+[^c-46bf3dbfbba6b0f64a31a91637b8c793]: Textual amendment: S. 36 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 4(5)(c)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/4/5/c)

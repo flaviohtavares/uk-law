@@ -46,17 +46,17 @@ Coming into force
 
 The Secretary of State, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to access to the labour market of the United Kingdom, in exercise of the powers conferred upon him by that section, makes the following Regulations:
 
-## 1. Citation and commencement[^key-faf7d01c43c4ac322553ab21f388f5f7]
+## 1. Citation and commencement[^c-faf7d01c43c4ac322553ab21f388f5f7]
 
 (1) These Regulations may be cited as the Accession (Immigration and Worker Registration) (Amendment) Regulations 2007 and shall come into force on 2nd April 2007.
 
 (2) Regulations 2 and 3 shall not have effect in relation to an application for a registration certificate under regulation 8 of the Accession (Immigration and Worker Registration) Regulations 2004[^f00003] made before 2nd April 2007.
 
-## 2. Amendment of the Accession (Immigration and Worker Registration) Regulations 2004[^key-115bdba6ea6525abff2bf44a84d88d22]
+## 2. Amendment of the Accession (Immigration and Worker Registration) Regulations 2004[^c-115bdba6ea6525abff2bf44a84d88d22]
 
 In regulation 8(4)(a) of the Accession (Immigration and Worker Registration) Regulations 2004, for “£70”[^f00004] substitute “£90”.
 
-## 3. Revocation[^key-61f9e887d84c3712b3f82369bfd67742]
+## 3. Revocation[^c-61f9e887d84c3712b3f82369bfd67742]
 
 The Accession (Immigration and Worker Registration) (Amendment) Regulations 2005[^f00005] are revoked.
 
@@ -84,14 +84,14 @@ Under regulation 8(4) of the 2004 Regulations, as amended by the Accession (Immi
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-faf7d01c43c4ac322553ab21f388f5f7]: Commencement: Reg. 1 in force at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/928/regulation/1/1)
+[^c-faf7d01c43c4ac322553ab21f388f5f7]: Commencement: Reg. 1 in force at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/928/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2004/1219](https://www.legislation.gov.uk/uksi/2004/1219).
 
-[^key-115bdba6ea6525abff2bf44a84d88d22]: Commencement: Reg. 2 in force at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/928/regulation/1/1)
+[^c-115bdba6ea6525abff2bf44a84d88d22]: Commencement: Reg. 2 in force at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/928/regulation/1/1)
 
 [^f00004]: Footnote: The fee of £70 was substituted for the original fee by [S.I. 2005/2400](https://www.legislation.gov.uk/uksi/2005/2400).
 
-[^key-61f9e887d84c3712b3f82369bfd67742]: Commencement: Reg. 3 in force at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/928/regulation/1/1)
+[^c-61f9e887d84c3712b3f82369bfd67742]: Commencement: Reg. 3 in force at 2.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/928/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2005/2400](https://www.legislation.gov.uk/uksi/2005/2400).

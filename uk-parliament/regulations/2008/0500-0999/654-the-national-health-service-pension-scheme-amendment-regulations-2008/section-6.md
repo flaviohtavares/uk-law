@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Amendment of regulation C2[^key-138ee21e19748817a974eb4eab4c4025]
+## 6. Amendment of regulation C2[^c-138ee21e19748817a974eb4eab4c4025]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-138ee21e19748817a974eb4eab4c4025]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-138ee21e19748817a974eb4eab4c4025]: Commencement: Reg. 6 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

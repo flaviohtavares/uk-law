@@ -31,7 +31,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Dangerous Goods) (Amendment) Regulations 2011 (revoked)[^key-19558cf50ed07d882013571e772e79bc]
+The Air Navigation (Dangerous Goods) (Amendment) Regulations 2011 (revoked)[^c-19558cf50ed07d882013571e772e79bc]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 4th March 2011
 
-[^key-19558cf50ed07d882013571e772e79bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19558cf50ed07d882013571e772e79bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-19558cf50ed07d882013571e772e79bc]
+## 1. Citation and commencement[^c-19558cf50ed07d882013571e772e79bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-19558cf50ed07d882013571e772e79bc]
+## 2. Amendment of Regulations[^c-19558cf50ed07d882013571e772e79bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-19558cf50ed07d882013571e772e79bc]
+## 3. Revocation[^c-19558cf50ed07d882013571e772e79bc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19558cf50ed07d882013571e772e79bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19558cf50ed07d882013571e772e79bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-19558cf50ed07d882013571e772e79bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19558cf50ed07d882013571e772e79bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19558cf50ed07d882013571e772e79bc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/650) revoked (10.6.2011) by [The Air Navigation (Dangerous Goods) (Amendment) (No. 2) Regulations 2011 (S.I. 2011/1454)](https://www.legislation.gov.uk/uksi/2011/1454), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1454/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/1454/regulation/3)
+[^c-19558cf50ed07d882013571e772e79bc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/650) revoked (10.6.2011) by [The Air Navigation (Dangerous Goods) (Amendment) (No. 2) Regulations 2011 (S.I. 2011/1454)](https://www.legislation.gov.uk/uksi/2011/1454), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1454/regulation/1), [3](https://www.legislation.gov.uk/uksi/2011/1454/regulation/3)

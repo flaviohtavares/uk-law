@@ -34,7 +34,7 @@ Exiting The European Union
 
 Merchant Shipping
 
-The Merchant Shipping (Marine Equipment) (Amendment) (UK and US Mutual Recognition Agreement) (EU Exit) Regulations 2019 (revoked)[^key-e21a2f1404ad5d6ff07985da5d328762]
+The Merchant Shipping (Marine Equipment) (Amendment) (UK and US Mutual Recognition Agreement) (EU Exit) Regulations 2019 (revoked)[^c-e21a2f1404ad5d6ff07985da5d328762]
 
 Made
 
@@ -46,24 +46,24 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-e21a2f1404ad5d6ff07985da5d328762]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e21a2f1404ad5d6ff07985da5d328762]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e21a2f1404ad5d6ff07985da5d328762]
+## 1. Citation and commencement[^c-e21a2f1404ad5d6ff07985da5d328762]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-e21a2f1404ad5d6ff07985da5d328762]
+## 2. Amendment of Regulations[^c-e21a2f1404ad5d6ff07985da5d328762]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e21a2f1404ad5d6ff07985da5d328762]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e21a2f1404ad5d6ff07985da5d328762]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e21a2f1404ad5d6ff07985da5d328762]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e21a2f1404ad5d6ff07985da5d328762]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e21a2f1404ad5d6ff07985da5d328762]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1304) revoked (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 27(c)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/27/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-e21a2f1404ad5d6ff07985da5d328762]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/1304) revoked (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 27(c)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/27/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))

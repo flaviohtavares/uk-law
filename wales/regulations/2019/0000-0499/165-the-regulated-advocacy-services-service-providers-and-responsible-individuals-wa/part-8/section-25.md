@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Supporting and developing staff[^key-fa8456bb6dbbc08a6848a6e085334572]
+## 25. Supporting and developing staff[^c-fa8456bb6dbbc08a6848a6e085334572]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa8456bb6dbbc08a6848a6e085334572]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/165/regulation/25) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-fa8456bb6dbbc08a6848a6e085334572]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2019/165/regulation/25) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

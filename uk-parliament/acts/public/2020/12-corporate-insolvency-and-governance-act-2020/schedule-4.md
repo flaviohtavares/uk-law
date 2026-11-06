@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Moratoriums in Great Britain: temporary provision[^key-8d56c25b010b1825dca5e9f1930f7d0c][^key-180c7613ad738e5114e60f94f5d32c63][^key-0684f2a06991c159818157381f6320f3]
+## SCHEDULE 4 — Moratoriums in Great Britain: temporary provision[^c-8d56c25b010b1825dca5e9f1930f7d0c][^c-180c7613ad738e5114e60f94f5d32c63][^c-0684f2a06991c159818157381f6320f3]
 
 *Extent: E+W+S+N.I.*
 
 Section 3
 
-### PART 1 — “Relevant period” and powers to turn off temporary provision[^key-e22a0fd0c97e24c033bea191abf630c8][^key-5454d700cc3c20932fe67d27d924625a]
+### PART 1 — “Relevant period” and powers to turn off temporary provision[^c-e22a0fd0c97e24c033bea191abf630c8][^c-5454d700cc3c20932fe67d27d924625a]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ Section 3
 **1.** In this Schedule “**relevant period**” means the period which—
 
 - (a) begins with the day on which this Schedule comes into force, and
-- (b) ends with 30 September 2021[^key-166ab8fb0ab7f3af5940e567b9b61dc7].
+- (b) ends with 30 September 2021[^c-166ab8fb0ab7f3af5940e567b9b61dc7].
 
 #### Power to turn off particular provisions of Part 2 of this Schedule early
 
@@ -47,64 +47,64 @@ Section 3
 
 **4.** Rules under section 411 of the Insolvency Act 1986 may make transitional provision or savings in connection with any provision made by paragraphs 13 to 51 or 53 to 90 ceasing to have effect (whether by virtue of paragraph 3 or 12).
 
-### PART 2 — Modifications to primary legislation[^key-e22a0fd0c97e24c033bea191abf630c8][^key-5454d700cc3c20932fe67d27d924625a]
+### PART 2 — Modifications to primary legislation[^c-e22a0fd0c97e24c033bea191abf630c8][^c-5454d700cc3c20932fe67d27d924625a]
 
 *Extent: E+W+S*
 
 #### “Eligible” company: additional exclusion
 
-**5.**[^key-2c6f30cf4d0490bfb01577475c1884bb] During the relevant period, a company is not eligible for the purposes of section A3, A4 or A5 of the Insolvency Act 1986 if the company— *(affected by repeal, see note)*[^key-2c6f30cf4d0490bfb01577475c1884bb]
+**5.**[^c-2c6f30cf4d0490bfb01577475c1884bb] During the relevant period, a company is not eligible for the purposes of section A3, A4 or A5 of the Insolvency Act 1986 if the company— *(affected by repeal, see note)*[^c-2c6f30cf4d0490bfb01577475c1884bb]
 
-- (a) has permission under Part 4A of the Financial Services and Markets Act 2000 to carry on a regulated activity within the meaning of that Act, and *(affected by repeal, see note)*[^key-2c6f30cf4d0490bfb01577475c1884bb]
-- (b) is not subject to a requirement imposed under that Act to refrain from holding money for clients. *(affected by repeal, see note)*[^key-2c6f30cf4d0490bfb01577475c1884bb]
+- (a) has permission under Part 4A of the Financial Services and Markets Act 2000 to carry on a regulated activity within the meaning of that Act, and *(affected by repeal, see note)*[^c-2c6f30cf4d0490bfb01577475c1884bb]
+- (b) is not subject to a requirement imposed under that Act to refrain from holding money for clients. *(affected by repeal, see note)*[^c-2c6f30cf4d0490bfb01577475c1884bb]
 
 #### Relaxation of conditions for obtaining moratorium etc
 
 **6.** (1) For the purposes of obtaining a moratorium under section A3 of the Insolvency Act 1986 during the relevant period—
 
 - (a) section A3 of that Act has effect as if subsection (1)(a) were omitted;
-- (b)[^key-25a4a4f18ebd3f5639e0fc30e9d51ccd] section A6(1)(e) of that Act has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”; *(affected by repeal, see note)*[^key-25a4a4f18ebd3f5639e0fc30e9d51ccd]
+- (b)[^c-25a4a4f18ebd3f5639e0fc30e9d51ccd] section A6(1)(e) of that Act has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”; *(affected by repeal, see note)*[^c-25a4a4f18ebd3f5639e0fc30e9d51ccd]
 - (c) Schedule ZA1 to that Act has effect as if paragraph 2(1)(b) and (2)(b) were omitted.
 
 (2) During the relevant period, only an overseas company may obtain a moratorium under section A4 of the Insolvency Act 1986.
 
 **7.** In relation to an application for a moratorium made under section A4 or A5 of the Insolvency Act 1986 during the relevant period—
 
-- (a)[^key-448d094603bf44d42ee51377b9b937ab] section A6(1)(e) of that Act has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”; *(affected by repeal, see note)*[^key-448d094603bf44d42ee51377b9b937ab]
+- (a)[^c-448d094603bf44d42ee51377b9b937ab] section A6(1)(e) of that Act has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”; *(affected by repeal, see note)*[^c-448d094603bf44d42ee51377b9b937ab]
 - (b) Schedule ZA1 to that Act has effect as if paragraph 2(1)(b) and (2)(b) were omitted.
 
 #### Relaxation of conditions for extending moratorium obtained during relevant period
 
-**8.**[^key-2cdc02547ff6f33621fd915de6e8f642] (1) This paragraph applies in relation to a moratorium that comes into force during the relevant period. *(affected by repeal, see note)*[^key-2cdc02547ff6f33621fd915de6e8f642]
+**8.**[^c-2cdc02547ff6f33621fd915de6e8f642] (1) This paragraph applies in relation to a moratorium that comes into force during the relevant period. *(affected by repeal, see note)*[^c-2cdc02547ff6f33621fd915de6e8f642]
 
-(2) For the purposes of extending the moratorium under section A10 or A11 of the Insolvency Act 1986, subsection (1)(d) of that section has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”. *(affected by repeal, see note)*[^key-2cdc02547ff6f33621fd915de6e8f642]
+(2) For the purposes of extending the moratorium under section A10 or A11 of the Insolvency Act 1986, subsection (1)(d) of that section has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”. *(affected by repeal, see note)*[^c-2cdc02547ff6f33621fd915de6e8f642]
 
-(3) In relation to an application under section A13 of the Insolvency Act 1986 that the moratorium be extended, subsection (2)(d) of that section has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”. *(affected by repeal, see note)*[^key-2cdc02547ff6f33621fd915de6e8f642]
+(3) In relation to an application under section A13 of the Insolvency Act 1986 that the moratorium be extended, subsection (2)(d) of that section has effect as if at the end there were inserted “or would do so if it were not for any worsening of the financial position of the company for reasons relating to coronavirus”. *(affected by repeal, see note)*[^c-2cdc02547ff6f33621fd915de6e8f642]
 
 #### Monitoring of moratorium obtained during relevant period
 
-**9.**[^key-9d1836f1416f2fe404328714b9f3da15] In relation to a moratorium that comes into force during the relevant period, section A35(1) of the Insolvency Act 1986 has effect as if for the words from “it remains likely” to the end there were substituted *(affected by repeal, see note)*[^key-9d1836f1416f2fe404328714b9f3da15]
+**9.**[^c-9d1836f1416f2fe404328714b9f3da15] In relation to a moratorium that comes into force during the relevant period, section A35(1) of the Insolvency Act 1986 has effect as if for the words from “it remains likely” to the end there were substituted *(affected by repeal, see note)*[^c-9d1836f1416f2fe404328714b9f3da15]
 
 > —
 >
-> - (a) it is likely that the moratorium will result in the rescue of the company as a going concern, or *(affected by repeal, see note)*[^key-9d1836f1416f2fe404328714b9f3da15]
-> - (b) that, if one were to disregard any worsening of the financial position of the company for reasons relating to coronavirus, it is likely that the moratorium would result in the rescue of the company as a going concern. *(affected by repeal, see note)*[^key-9d1836f1416f2fe404328714b9f3da15]
+> - (a) it is likely that the moratorium will result in the rescue of the company as a going concern, or *(affected by repeal, see note)*[^c-9d1836f1416f2fe404328714b9f3da15]
+> - (b) that, if one were to disregard any worsening of the financial position of the company for reasons relating to coronavirus, it is likely that the moratorium would result in the rescue of the company as a going concern. *(affected by repeal, see note)*[^c-9d1836f1416f2fe404328714b9f3da15]
 
 #### Termination of moratorium obtained during relevant period
 
-**10.**[^key-f6c53cbc69b6049c35b46637c5971681] In relation to a moratorium that comes into force during the relevant period, section A38(1) of the Insolvency Act 1986 has effect as if for paragraph (a) there were substituted— *(affected by repeal, see note)*[^key-f6c53cbc69b6049c35b46637c5971681]
+**10.**[^c-f6c53cbc69b6049c35b46637c5971681] In relation to a moratorium that comes into force during the relevant period, section A38(1) of the Insolvency Act 1986 has effect as if for paragraph (a) there were substituted— *(affected by repeal, see note)*[^c-f6c53cbc69b6049c35b46637c5971681]
 
-> - (a) the monitor thinks— *(affected by repeal, see note)*[^key-f6c53cbc69b6049c35b46637c5971681]
->   - (i) that the moratorium is not likely to result in the rescue of the company as a going concern, and *(affected by repeal, see note)*[^key-f6c53cbc69b6049c35b46637c5971681]
->   - (ii (affected by repeal, see note))[^key-f6c53cbc69b6049c35b46637c5971681] that, even if one were to disregard any worsening of the financial position of the company for reasons relating to coronavirus, the moratorium would not be likely to result in the rescue of the company as a going concern, *(affected by repeal, see note)*[^key-f6c53cbc69b6049c35b46637c5971681]
+> - (a) the monitor thinks— *(affected by repeal, see note)*[^c-f6c53cbc69b6049c35b46637c5971681]
+>   - (i) that the moratorium is not likely to result in the rescue of the company as a going concern, and *(affected by repeal, see note)*[^c-f6c53cbc69b6049c35b46637c5971681]
+>   - (ii (affected by repeal, see note))[^c-f6c53cbc69b6049c35b46637c5971681] that, even if one were to disregard any worsening of the financial position of the company for reasons relating to coronavirus, the moratorium would not be likely to result in the rescue of the company as a going concern, *(affected by repeal, see note)*[^c-f6c53cbc69b6049c35b46637c5971681]
 
 .
 
 #### “Coronavirus”
 
-**11.**[^key-202ef672fda7003be99f74e2b6d490e9] In the modifications made by this Part of this Schedule “ *(affected by repeal, see note)*[^key-202ef672fda7003be99f74e2b6d490e9]**coronavirus *(affected by repeal, see note)*[^key-202ef672fda7003be99f74e2b6d490e9]**” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). *(affected by repeal, see note)*[^key-202ef672fda7003be99f74e2b6d490e9]
+**11.**[^c-202ef672fda7003be99f74e2b6d490e9] In the modifications made by this Part of this Schedule “ *(affected by repeal, see note)*[^c-202ef672fda7003be99f74e2b6d490e9]**coronavirus *(affected by repeal, see note)*[^c-202ef672fda7003be99f74e2b6d490e9]**” means severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). *(affected by repeal, see note)*[^c-202ef672fda7003be99f74e2b6d490e9]
 
-### PART 3 — Temporary rules: England and Wales[^key-e22a0fd0c97e24c033bea191abf630c8][^key-5454d700cc3c20932fe67d27d924625a]
+### PART 3 — Temporary rules: England and Wales[^c-e22a0fd0c97e24c033bea191abf630c8][^c-5454d700cc3c20932fe67d27d924625a]
 
 *Extent: E+W*
 
@@ -854,28 +854,28 @@ Section 3
 
 ## Annotations
 
-[^key-8d56c25b010b1825dca5e9f1930f7d0c]: Modification: Sch. 4 applied (with modifications) (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/643/regulation/5)
+[^c-8d56c25b010b1825dca5e9f1930f7d0c]: Modification: Sch. 4 applied (with modifications) (26.6.2020) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2020 (S.I. 2020/643)](https://www.legislation.gov.uk/uksi/2020/643), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/643/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2020/643/regulation/5)
 
-[^key-180c7613ad738e5114e60f94f5d32c63]: Modification: Sch. 4 applied (with modifications) (E.W.S.) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [arts. 2(5)](https://www.legislation.gov.uk/uksi/2014/229/article/2/5), [11(6)](https://www.legislation.gov.uk/uksi/2014/229/article/11/6), [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2014/229/schedule/4/part/4) (as inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/744/article/7/c), [10](https://www.legislation.gov.uk/uksi/2020/744/article/10), [13(g)](https://www.legislation.gov.uk/uksi/2020/744/article/13/g))
+[^c-180c7613ad738e5114e60f94f5d32c63]: Modification: Sch. 4 applied (with modifications) (E.W.S.) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [arts. 2(5)](https://www.legislation.gov.uk/uksi/2014/229/article/2/5), [11(6)](https://www.legislation.gov.uk/uksi/2014/229/article/11/6), [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2014/229/schedule/4/part/4) (as inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/744/article/7/c), [10](https://www.legislation.gov.uk/uksi/2020/744/article/10), [13(g)](https://www.legislation.gov.uk/uksi/2020/744/article/13/g))
 
-[^key-0684f2a06991c159818157381f6320f3]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4) applied (with modifications) (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2021/60/regulation/6)
+[^c-0684f2a06991c159818157381f6320f3]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4) applied (with modifications) (16.2.2021) by [The Limited Liability Partnerships (Amendment etc.) Regulations 2021 (S.I. 2021/60)](https://www.legislation.gov.uk/uksi/2021/60), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/60/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2021/60/regulation/6)
 
-[^key-e22a0fd0c97e24c033bea191abf630c8]: Modification: Sch. 4 Pts. 1-3 applied in part (with modifications) (E.W.) by [S.I. 2012/3013](https://www.legislation.gov.uk/uksi/2012/3013), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/3013/schedule/1/paragraph/1) (as modified (7.7.2020) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) (Amendment) Regulations 2020 (S.I. 2020/710)](https://www.legislation.gov.uk/uksi/2020/710), [regs. 1](https://www.legislation.gov.uk/uksi/2020/710/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/710/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/710/regulation/6))); \[Editorial note: The affecting legislation is revoked and this amendment is reversed (13.8.2020) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/856)](https://www.legislation.gov.uk/uksi/2020/856), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/856/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/856/regulation/2)\]
+[^c-e22a0fd0c97e24c033bea191abf630c8]: Modification: Sch. 4 Pts. 1-3 applied in part (with modifications) (E.W.) by [S.I. 2012/3013](https://www.legislation.gov.uk/uksi/2012/3013), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/3013/schedule/1/paragraph/1) (as modified (7.7.2020) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) (Amendment) Regulations 2020 (S.I. 2020/710)](https://www.legislation.gov.uk/uksi/2020/710), [regs. 1](https://www.legislation.gov.uk/uksi/2020/710/regulation/1), [5](https://www.legislation.gov.uk/uksi/2020/710/regulation/5) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/710/regulation/6))); \[Editorial note: The affecting legislation is revoked and this amendment is reversed (13.8.2020) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/856)](https://www.legislation.gov.uk/uksi/2020/856), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/856/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/856/regulation/2)\]
 
-[^key-5454d700cc3c20932fe67d27d924625a]: Modification: Sch. 4 Pts. 1-3 applied in part (with modifications) (E.W.) by [S.I. 2012/3013](https://www.legislation.gov.uk/uksi/2012/3013), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/3013/schedule/1/paragraph/1) (as modified (13.8.2020 immediately after the coming into force of [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [reg. 2](https://www.legislation.gov.uk/uksi/2020/856/regulation/2)) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/856)](https://www.legislation.gov.uk/uksi/2020/856), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/856/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/856/regulation/6) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/856/regulation/7)))
+[^c-5454d700cc3c20932fe67d27d924625a]: Modification: Sch. 4 Pts. 1-3 applied in part (with modifications) (E.W.) by [S.I. 2012/3013](https://www.legislation.gov.uk/uksi/2012/3013), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2012/3013/schedule/1/paragraph/1) (as modified (13.8.2020 immediately after the coming into force of [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [reg. 2](https://www.legislation.gov.uk/uksi/2020/856/regulation/2)) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/856)](https://www.legislation.gov.uk/uksi/2020/856), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/856/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2020/856/regulation/6) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/856/regulation/7)))
 
-[^key-166ab8fb0ab7f3af5940e567b9b61dc7]: Textual amendment: Words in [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/1/b) substituted (26.3.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Extension of the Relevant Period) Regulations 2021 (S.I. 2021/375)](https://www.legislation.gov.uk/uksi/2021/375), [regs. 1](https://www.legislation.gov.uk/uksi/2021/375/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/375/regulation/3/3)
+[^c-166ab8fb0ab7f3af5940e567b9b61dc7]: Textual amendment: Words in [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/4/paragraph/1/b) substituted (26.3.2021) by [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Extension of the Relevant Period) Regulations 2021 (S.I. 2021/375)](https://www.legislation.gov.uk/uksi/2021/375), [regs. 1](https://www.legislation.gov.uk/uksi/2021/375/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2021/375/regulation/3/3)
 
-[^key-2c6f30cf4d0490bfb01577475c1884bb]: Textual amendment: Sch. 4 para. 5 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
+[^c-2c6f30cf4d0490bfb01577475c1884bb]: Textual amendment: Sch. 4 para. 5 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
 
-[^key-25a4a4f18ebd3f5639e0fc30e9d51ccd]: Textual amendment: Sch. 4 para. 6(1)(b) ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
+[^c-25a4a4f18ebd3f5639e0fc30e9d51ccd]: Textual amendment: Sch. 4 para. 6(1)(b) ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
 
-[^key-448d094603bf44d42ee51377b9b937ab]: Textual amendment: Sch. 4 para. 7(a) ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
+[^c-448d094603bf44d42ee51377b9b937ab]: Textual amendment: Sch. 4 para. 7(a) ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
 
-[^key-2cdc02547ff6f33621fd915de6e8f642]: Textual amendment: Sch. 4 para. 8 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
+[^c-2cdc02547ff6f33621fd915de6e8f642]: Textual amendment: Sch. 4 para. 8 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
 
-[^key-9d1836f1416f2fe404328714b9f3da15]: Textual amendment: Sch. 4 para. 9 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
+[^c-9d1836f1416f2fe404328714b9f3da15]: Textual amendment: Sch. 4 para. 9 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
 
-[^key-f6c53cbc69b6049c35b46637c5971681]: Textual amendment: Sch. 4 para. 10 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
+[^c-f6c53cbc69b6049c35b46637c5971681]: Textual amendment: Sch. 4 para. 10 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
 
-[^key-202ef672fda7003be99f74e2b6d490e9]: Textual amendment: Sch. 4 para. 11 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))
+[^c-202ef672fda7003be99f74e2b6d490e9]: Textual amendment: Sch. 4 para. 11 ceases to have effect (1.10.2020) by virtue of [The Corporate Insolvency and Governance Act 2020 (Coronavirus) (Early Termination of Certain Temporary Provisions) Regulations 2020 (S.I. 2020/1033)](https://www.legislation.gov.uk/uksi/2020/1033), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1033/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1033/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2020/1033/regulation/3))

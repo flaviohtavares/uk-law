@@ -22,7 +22,7 @@ summary: ''
 
 Article 6
 
-### 1. General[^key-759eea79ad40610f93fca1bce0f3cc95]
+### 1. General[^c-759eea79ad40610f93fca1bce0f3cc95]
 
 (1) No amendment or repeal made by this Order affects the validity of anything done (or having effect as if done) by or in relation to an English registered social landlord before the commencement date.
 
@@ -39,7 +39,7 @@ Article 6
 - (a) is a registered social landlord within the meaning of Part 1 of the 1996 Act as it then has effect and does not fall within section 56(2) of that Act as it then has effect, or
 - (b) has a corresponding registration under an earlier enactment.
 
-### 2. Saving for certain effects of the 2008 Order[^key-cddd67ba34ce2f9fb75ef3ef0f552239]
+### 2. Saving for certain effects of the 2008 Order[^c-cddd67ba34ce2f9fb75ef3ef0f552239]
 
 (1) Article 6(2) of the 2008 Order continues to apply on and after the commencement date in relation to any instrument or other document (other than an Act, devolved legislation or subordinate legislation) so far as required for the purposes of any substitution made by this Order of the HCA or the TSA for the Housing Corporation.
 
@@ -57,15 +57,15 @@ Article 6
 - “Northern Ireland legislation” has the same meaning as in section 24 of the Interpretation Act 1978[^f00047], and
 - “subordinate legislation” has the same meaning as in the Interpretation Act 1978 and also includes an instrument made under an Act of the Scottish Parliament, a Measure of the National Assembly for Wales or Northern Ireland legislation.
 
-### 3. Savings in relation to Part 1 of the 1996 Act[^key-88980f623d7869c458d2b17404834ed2]
+### 3. Savings in relation to Part 1 of the 1996 Act[^c-88980f623d7869c458d2b17404834ed2]
 
 Any amendment or repeal made by this Order of an enactment in Part 1 of the 1996 Act (other than section 10(1)(a)) does not apply to that enactment so far as it is saved by an order under section 322 of the 2008 Act.
 
-### 4. New references to registered social landlords[^key-05ac41e6f7d273e1992fd17be6e728e3]
+### 4. New references to registered social landlords[^c-05ac41e6f7d273e1992fd17be6e728e3]
 
 Any saving or transitional provision, or any provision about the continuity of the law, which was made by or under the 1996 Act and is in force or effective immediately before the commencement date in relation to a reference (express or implied) to a registered social landlord is to continue to apply, on and after that date, in relation to any corresponding reference to a registered social landlord in an amendment made by this Order so far as the provision concerned remains capable of having effect in relation to that reference.
 
-### 5. Housing Associations Act 1985[^key-962c3aae7b7796f732d6d5d09b1de2c7]
+### 5. Housing Associations Act 1985[^c-962c3aae7b7796f732d6d5d09b1de2c7]
 
 (1) Nothing in the amendments or repeals made by this Order to Part 3 of the Housing Associations Act 1985 confers a function on the Welsh Ministers which they did not have before the commencement date by virtue of—
 
@@ -75,7 +75,7 @@ Any saving or transitional provision, or any provision about the continuity of t
 
 (2) Nothing in the amendments or repeals which relate to functions of the Welsh Ministers and are made by this Order to Part 3 of the Housing Associations Act 1985 affect the operation of any savings or transitional provisions which arise by virtue of the enactments mentioned in sub-paragraph (1) so far as they are capable of continuing to have effect on and after the commencement date.
 
-**6.**[^key-a9c215531a0e544afa86c1d76a709216] (1) Part 3 of the Housing Associations Act 1985 continues to apply on and after the commencement date in relation to—
+**6.**[^c-a9c215531a0e544afa86c1d76a709216] (1) Part 3 of the Housing Associations Act 1985 continues to apply on and after the commencement date in relation to—
 
 - (a) any activities which, immediately before the commencement date, the TSA is in the process of carrying out (or is treated as being in the process of carrying out) in pursuance of its functions under section 75(1)(a) and (1A) or 77 of that Act,
 - (b) any loans made (or treated as made) before that date by the HCA or the TSA under section 79 of that Act,
@@ -102,17 +102,17 @@ Any saving or transitional provision, or any provision about the continuity of t
 
 ## Annotations
 
-[^key-759eea79ad40610f93fca1bce0f3cc95]: Commencement: Sch. 3 para. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-759eea79ad40610f93fca1bce0f3cc95]: Commencement: Sch. 3 para. 1 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
 
-[^key-cddd67ba34ce2f9fb75ef3ef0f552239]: Commencement: Sch. 3 para. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-cddd67ba34ce2f9fb75ef3ef0f552239]: Commencement: Sch. 3 para. 2 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
 
 [^f00047]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-88980f623d7869c458d2b17404834ed2]: Commencement: Sch. 3 para. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-88980f623d7869c458d2b17404834ed2]: Commencement: Sch. 3 para. 3 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
 
-[^key-05ac41e6f7d273e1992fd17be6e728e3]: Commencement: Sch. 3 para. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-05ac41e6f7d273e1992fd17be6e728e3]: Commencement: Sch. 3 para. 4 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
 
-[^key-962c3aae7b7796f732d6d5d09b1de2c7]: Commencement: Sch. 3 para. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-962c3aae7b7796f732d6d5d09b1de2c7]: Commencement: Sch. 3 para. 5 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
 
 [^f00048]: Footnote: [1998 c.38](https://www.legislation.gov.uk/ukpga/1998/38).
 
@@ -120,4 +120,4 @@ Any saving or transitional provision, or any provision about the continuity of t
 
 [^f00050]: Footnote: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-a9c215531a0e544afa86c1d76a709216]: Commencement: Sch. 3 para. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)
+[^c-a9c215531a0e544afa86c1d76a709216]: Commencement: Sch. 3 para. 6 in force at 1.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/866/article/1/2)

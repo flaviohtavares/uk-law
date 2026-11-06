@@ -24,8 +24,8 @@ summary: ''
 
 - (a) immediately before the incorporation date in relation to a grant‐maintained integrated school which is then a voluntary school is employed by the Board of Governors of the school; or
 - (b) immediately before the incorporation date in relation to a grant‐maintained integrated school—
-  - (i) is employed by the Authority[^key-599f32b389a99484603da12afb79ab85] or the Council for Catholic Maintained Schools to work solely at the school; or
-  - (ii) is employed by the Authority[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a] to work at the school and is designated for the purposes of this Article by an order made by the Department.
+  - (i) is employed by the Authority[^c-599f32b389a99484603da12afb79ab85] or the Council for Catholic Maintained Schools to work solely at the school; or
+  - (ii) is employed by the Authority[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a] to work at the school and is designated for the purposes of this Article by an order made by the Department.
 
 (2) A person employed by the Authority in connection with the provision of meals shall not be regarded for the purposes of paragraph (1)(b) as employed to work solely at a school unless the meals are provided solely for consumption by persons at the school.
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-599f32b389a99484603da12afb79ab85]: Textual amendment: Word in art. 76 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-599f32b389a99484603da12afb79ab85]: Textual amendment: Word in art. 76 substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 11(5)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/11/5) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
 
-[^key-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-c9eaa1f9dd0129b0080c4bcc4e3ac22a]: Textual amendment: Words in Order substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/1/a) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/1/2)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Compliance with orders: authorised monitors[^key-585020f77bcc20dd645f7b8ede5c109e]
+## 39. Compliance with orders: authorised monitors[^c-585020f77bcc20dd645f7b8ede5c109e]
 
 *Extent: E+W+N.I.*
 
@@ -54,12 +54,12 @@ to perform specified monitoring services or monitoring services of a specified d
 (10) In this section—
 
 - “**law enforcement agency**” means—
-  - (za) the chief constable of a police force maintained under section 2 of the Police Act 1996;[^key-b0ebdd48da62884185e03353af3adbf0]
+  - (za) the chief constable of a police force maintained under section 2 of the Police Act 1996;[^c-b0ebdd48da62884185e03353af3adbf0]
   - (zb) the Commissioner of Police of the Metropolis;
   - (zc) the Common Council of the City of London in its capacity as police authority;
-  - (zd) the chief constable of the Police Service of Scotland;[^key-faf9c86b41059b4ab2a45bc8a6b462b7]
-  - (a) [^key-7b688b769fc5464a472c60e664c76a00]... the Northern Ireland Policing Board;
-  - (b) the National Crime Agency;[^key-146a6da38ff948e62d5cda4e15a36ac4]
+  - (zd) the chief constable of the Police Service of Scotland;[^c-faf9c86b41059b4ab2a45bc8a6b462b7]
+  - (a) [^c-7b688b769fc5464a472c60e664c76a00]... the Northern Ireland Policing Board;
+  - (b) the National Crime Agency;[^c-146a6da38ff948e62d5cda4e15a36ac4]
   - (c) the Commissioners for Her Majesty's Revenue and Customs; or
   - (d) the Director of the Serious Fraud Office;
 - “**monitoring services**” means—
@@ -70,12 +70,12 @@ to perform specified monitoring services or monitoring services of a specified d
 
 ## Annotations
 
-[^key-585020f77bcc20dd645f7b8ede5c109e]: Commencement: S. 39 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(i)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/i)
+[^c-585020f77bcc20dd645f7b8ede5c109e]: Commencement: S. 39 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(i)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/i)
 
-[^key-b0ebdd48da62884185e03353af3adbf0]: Textual amendment: S. 39(10)(za)-(zc) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 370(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/370/a); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/79))
+[^c-b0ebdd48da62884185e03353af3adbf0]: Textual amendment: S. 39(10)(za)-(zc) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 370(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/370/a); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/79))
 
-[^key-faf9c86b41059b4ab2a45bc8a6b462b7]: Textual amendment: Words in [s. 39(10)](https://www.legislation.gov.uk/ukpga/2007/27/section/39/10) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/26); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-faf9c86b41059b4ab2a45bc8a6b462b7]: Textual amendment: Words in [s. 39(10)](https://www.legislation.gov.uk/ukpga/2007/27/section/39/10) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/26); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
 
-[^key-7b688b769fc5464a472c60e664c76a00]: Textual amendment: Words in s. 39(10)(a) omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 370(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/370/b); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/79))
+[^c-7b688b769fc5464a472c60e664c76a00]: Textual amendment: Words in s. 39(10)(a) omitted (16.1.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 370(b)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/370/b); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/79))
 
-[^key-146a6da38ff948e62d5cda4e15a36ac4]: Textual amendment: Words in s. 39(10) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 178](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/178); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-146a6da38ff948e62d5cda4e15a36ac4]: Textual amendment: Words in s. 39(10) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 178](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/178); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

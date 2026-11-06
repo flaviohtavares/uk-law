@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Document to be issued in connection with penalty fare requirement[^key-6b0407b630d508e24bdf4313f2382645]
+## 52. Document to be issued in connection with penalty fare requirement[^c-6b0407b630d508e24bdf4313f2382645]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b0407b630d508e24bdf4313f2382645]: Commencement: Art. 52 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-6b0407b630d508e24bdf4313f2382645]: Commencement: Art. 52 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

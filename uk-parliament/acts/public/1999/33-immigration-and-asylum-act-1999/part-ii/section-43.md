@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Interpretation of Part II.[^c11432861][^key-53ce4dd33a60c56e3e193d91c0af6db1]
+## 43. Interpretation of Part II.[^c11432861][^c-53ce4dd33a60c56e3e193d91c0af6db1]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 - “**freight train**” means any train other than—
   - (a) a train engaged on a service for the carriage of passengers, or
   - (b) a shuttle-train;
-- “[^key-124057292deb10ac71085dd976f5a6c9]**goods vehicle**” means—
+- “[^c-124057292deb10ac71085dd976f5a6c9]**goods vehicle**” means—
   - (a) a mechanically propelled vehicle which—
     - (i) is designed or adapted solely or principally to be used for the carriage or haulage of goods, and
     - (ii) at the time in question, is being used for a commercial purpose, or
@@ -68,31 +68,31 @@ summary: ''
   - (a) is engaged on an international service as defined by section 13(6) of the [^c11432871]Channel Tunnel Act 1987; but
   - (b) is not a shuttle train as defined by section 1(9) of that Act;
 - “**train operator**”, in relation to a person arriving in the United Kingdom on a train, means the operator of trains who embarked that person on that train for the journey to the United Kingdom;
-- “**transporter**” means a vehicle (including a goods vehicle)[^key-ee7b8e4e4a4b0c4436c2e86c1c2e4dd9], ship , aircraft or rail freight wagon[^c17715141] together with—
+- “**transporter**” means a vehicle (including a goods vehicle)[^c-ee7b8e4e4a4b0c4436c2e86c1c2e4dd9], ship , aircraft or rail freight wagon[^c17715141] together with—
   - (a) its equipment; and
   - (b) any stores for use in connection with its operation;
 - “**vehicle**” includes a trailer, semi-trailer, caravan or other thing which is designed or adapted to be towed by another vehicle.
 
-(1A)[^key-d693dc6bbcdbb9d8b740710a339e9fcc] References in this Part to the securing of a goods vehicle against unauthorised access include references to the securing of any container which is being carried by a goods vehicle against unauthorised access.
+(1A)[^c-d693dc6bbcdbb9d8b740710a339e9fcc] References in this Part to the securing of a goods vehicle against unauthorised access include references to the securing of any container which is being carried by a goods vehicle against unauthorised access.
 
 (1B) In subsection (1A) “**container**” means any container or other thing which is designed or adapted to be carried by a goods vehicle.
 
 (2)[^c17715161] A reference in this Part to “**the court**” is a reference—
 
-- (a) in England and Wales, to the county court[^key-4e1de88527ed4e25ae2d755d34eb6d3c],
+- (a) in England and Wales, to the county court[^c-4e1de88527ed4e25ae2d755d34eb6d3c],
 - (b) in Scotland, to the sheriff, and
 - (c) in Northern Ireland, to a county court.
 
 (3) But—
 
-- (a) a county court in Northern Ireland, or the county court in England and Wales,[^key-40956df7a3a31a3105e3a39660931464] may transfer proceedings under this Part to the High Court, and
+- (a) a county court in Northern Ireland, or the county court in England and Wales,[^c-40956df7a3a31a3105e3a39660931464] may transfer proceedings under this Part to the High Court, and
 - (b) the sheriff may transfer proceedings under this Part to the Court of Session.
 
 ## Annotations
 
 [^c11432861]: Modification: S. 43 applied (with modifications) (7.2.2001 for certain purposes and otherwise 1.3.2001) by [S.I. 2001/280](https://www.legislation.gov.uk/uksi/2001/280), [arts. 1-4](https://www.legislation.gov.uk/uksi/2001/280/article/1) (with [art. 5](https://www.legislation.gov.uk/uksi/2001/280/article/5))
 
-[^key-53ce4dd33a60c56e3e193d91c0af6db1]: Modification: Ss. 40-43 power to apply (with modifications) or amend conferred (18.7.2012) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 124(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/124/6), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2012/1887](https://www.legislation.gov.uk/uksi/2012/1887), [art. 2](https://www.legislation.gov.uk/uksi/2012/1887/article/2)
+[^c-53ce4dd33a60c56e3e193d91c0af6db1]: Modification: Ss. 40-43 power to apply (with modifications) or amend conferred (18.7.2012) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 124(6)](https://www.legislation.gov.uk/ukpga/2002/41/section/124/6), [162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2012/1887](https://www.legislation.gov.uk/uksi/2012/1887), [art. 2](https://www.legislation.gov.uk/uksi/2012/1887/article/2)
 
 [^c17714971]: Textual amendment: S. 43 renumbered (8.12.2002) as s. 43(1) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 125](https://www.legislation.gov.uk/ukpga/2002/41/section/125), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/15) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
@@ -102,7 +102,7 @@ summary: ''
 
 [^c17715011]: Textual amendment: S. 43(1): definitions of "freight shuttle wagon" and "freight train" inserted (8.12.2002) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 125](https://www.legislation.gov.uk/ukpga/2002/41/section/125), [Sch. 8 para. 15(c)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/15/c) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-124057292deb10ac71085dd976f5a6c9]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/1) inserted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c), [Sch. 5 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/12/2/a); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-124057292deb10ac71085dd976f5a6c9]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/1) inserted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c), [Sch. 5 para. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/12/2/a); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
 [^c17715031]: Textual amendment: S. 43(1): in definition of "owner" paragraph (b) and preceding word repealed (8.12.2002) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [ss. 125](https://www.legislation.gov.uk/ukpga/2002/41/section/125), [161](https://www.legislation.gov.uk/ukpga/2002/41/section/161), [Sch. 8 para. 15(d)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/15/d), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
@@ -112,14 +112,14 @@ summary: ''
 
 [^c11432871]: Marginal citation: [1987 c. 53](https://www.legislation.gov.uk/ukpga/1987/53).
 
-[^key-ee7b8e4e4a4b0c4436c2e86c1c2e4dd9]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/1) inserted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c), [Sch. 5 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/12/2/b); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-ee7b8e4e4a4b0c4436c2e86c1c2e4dd9]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/1) inserted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c), [Sch. 5 para. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/12/2/b); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
 [^c17715141]: Textual amendment: S. 43(1): words in definition of "transporter" substituted (8.12.2002) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 125](https://www.legislation.gov.uk/ukpga/2002/41/section/125), [Sch. 8 para. 15(g)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/15/g) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-d693dc6bbcdbb9d8b740710a339e9fcc]: Textual amendment: [S. 43(1A)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/1B) inserted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c), [Sch. 5 para. 12(3)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/12/3); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
+[^c-d693dc6bbcdbb9d8b740710a339e9fcc]: Textual amendment: [S. 43(1A)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/1A)[(1B)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/1B) inserted (28.4.2022 for specified purposes, 13.2.2023 in so far as not already in force) by [Nationality and Borders Act 2022 (c. 36)](https://www.legislation.gov.uk/ukpga/2022/36), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)[(4)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/4/c), [Sch. 5 para. 12(3)](https://www.legislation.gov.uk/ukpga/2022/36/schedule/5/paragraph/12/3); [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/33/regulation/2/1/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2023/33/regulation/4))
 
 [^c17715161]: Textual amendment: S. 43(2)(3) inserted (8.12.2002) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 125](https://www.legislation.gov.uk/ukpga/2002/41/section/125), [Sch. 8 para. 15(h)](https://www.legislation.gov.uk/ukpga/2002/41/schedule/8/paragraph/15/h) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2002/2811](https://www.legislation.gov.uk/uksi/2002/2811), [art. 2](https://www.legislation.gov.uk/uksi/2002/2811/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2811/schedule)
 
-[^key-4e1de88527ed4e25ae2d755d34eb6d3c]: Textual amendment: Words in [s. 43(2)(a)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/2/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-4e1de88527ed4e25ae2d755d34eb6d3c]: Textual amendment: Words in [s. 43(2)(a)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/2/a) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-40956df7a3a31a3105e3a39660931464]: Textual amendment: Words in [s. 43(3)(a)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/3/a) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 90(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/90/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-40956df7a3a31a3105e3a39660931464]: Textual amendment: Words in [s. 43(3)(a)](https://www.legislation.gov.uk/ukpga/1999/33/section/43/3/a) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 90(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/90/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

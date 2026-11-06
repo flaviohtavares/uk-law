@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Change of name of passenger transport areas and PTAs[^c1952760][^key-893e64b5c8cf70b1de2d2edf51736eee]
+## 77. Change of name of passenger transport areas and PTAs[^c1952760][^c-893e64b5c8cf70b1de2d2edf51736eee]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ includes a reference to an ITA established under this Part.
 
 [^c1952760]: Commencement: S. 77 partly in force; s. 77(10) in force at Royal Assent see s. 134
 
-[^key-893e64b5c8cf70b1de2d2edf51736eee]: Commencement: S. 77 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-893e64b5c8cf70b1de2d2edf51736eee]: Commencement: S. 77 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

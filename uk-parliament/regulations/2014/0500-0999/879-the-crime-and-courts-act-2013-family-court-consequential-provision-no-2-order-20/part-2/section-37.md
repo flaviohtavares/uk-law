@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**37.**[^key-dd7fbe222582b6fb5c1cd94dff80a2a0] Omit section 5(3).
+**37.**[^c-dd7fbe222582b6fb5c1cd94dff80a2a0] Omit section 5(3).
 
 ## Annotations
 
-[^key-dd7fbe222582b6fb5c1cd94dff80a2a0]: Commencement: Art. 37 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-dd7fbe222582b6fb5c1cd94dff80a2a0]: Commencement: Art. 37 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

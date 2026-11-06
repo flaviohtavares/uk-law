@@ -48,15 +48,15 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 8(1A)(a)[^f00002] of the Marriage (Scotland) Act 1977 the bodies prescribed in regulation 2 have requested the Scottish Ministers to prescribe them.
 
-## 1. Citation, commencement and revocation[^key-06d327ebb6702b068c603206a550f4c7]
+## 1. Citation, commencement and revocation[^c-06d327ebb6702b068c603206a550f4c7]
 
 (1) These Regulations may be cited as the Marriage Between Persons of Different Sexes (Prescribed Bodies) (Scotland) Regulations 2014 and come into force on 16th December 2014.
 
 (2) The Marriage (Prescription of Religious Bodies) (Scotland) Regulations 1977[^f00003] are revoked.
 
-## 2. Prescribed bodies[^key-969e08405156319762656a75a485715c]
+## 2. Prescribed bodies[^c-969e08405156319762656a75a485715c]
 
-The bodies prescribed for the purposes of section[^key-db5a1b0035ea3306174dfb8cbdc3b706] 8(1)(a)(ii) of the Marriage (Scotland) Act 1977 are listed in the Schedule to these Regulations.
+The bodies prescribed for the purposes of section[^c-db5a1b0035ea3306174dfb8cbdc3b706] 8(1)(a)(ii) of the Marriage (Scotland) Act 1977 are listed in the Schedule to these Regulations.
 
 ALEX NEIL
 
@@ -68,17 +68,17 @@ Edinburgh
 
 11th November 2014
 
-## SCHEDULE[^key-2786d90bbb24a5c2e12b0957f83b7003]
+## SCHEDULE[^c-2786d90bbb24a5c2e12b0957f83b7003]
 
 Regulation 2
 
-[^key-2786d90bbb24a5c2e12b0957f83b7003]
+[^c-2786d90bbb24a5c2e12b0957f83b7003]
 
 - The Baptist Union of Scotland
 - The Free Church of Scotland
-- The Free Church of Scotland (Continuing)[^key-bd3da134089a5837ce2e16ea43b9d113]
+- The Free Church of Scotland (Continuing)[^c-bd3da134089a5837ce2e16ea43b9d113]
 - The Free Presbyterian Church of Scotland
-- Humanist Society Scotland[^key-da3485dd480e0c4e7328568f2cae311b]
+- Humanist Society Scotland[^c-da3485dd480e0c4e7328568f2cae311b]
 - The Liberal Jewish Community in Scotland
 - The Methodist Church
 - The Orthodox Jewish Community in Scotland
@@ -111,16 +111,16 @@ Article 4(2) of the 2014 Order is subject to Article 4(3). Article 4(3) ensures 
 
 [^f00002]: Footnote: Section 8(1A)(a) was inserted by section 12 of the 2014 Act.
 
-[^key-06d327ebb6702b068c603206a550f4c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/304/regulation/1) in force at 16.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/304/regulation/1/1)
+[^c-06d327ebb6702b068c603206a550f4c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/304/regulation/1) in force at 16.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/304/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1977/1670](https://www.legislation.gov.uk/uksi/1977/1670). Under article 4(1) of the Marriage and Civil Partnership (Scotland) Act 2014 (Commencement No. 3, Saving, Transitional Provision and Revocation) Order 2014 ([S.S.I. 2014/287 (C.28))](https://www.legislation.gov.uk/ssi/2014/287), the Marriage (Prescription of Religious Bodies) (Scotland) Regulations 1977 continue to have effect where a notice of intention to marry has been submitted to a district registrar before 16th December 2014.
 
-[^key-969e08405156319762656a75a485715c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/304/regulation/2) in force at 16.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/304/regulation/1/1)
+[^c-969e08405156319762656a75a485715c]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/304/regulation/2) in force at 16.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/304/regulation/1/1)
 
-[^key-db5a1b0035ea3306174dfb8cbdc3b706]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2014/304/regulation/2) inserted (14.2.2017) by [The Civil Partnership, Marriage Between Persons of Different Sexes and Same Sex Marriage (Prescribed Bodies) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/427)](https://www.legislation.gov.uk/ssi/2016/427), [regs. 1](https://www.legislation.gov.uk/ssi/2016/427/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2016/427/regulation/3/2)
+[^c-db5a1b0035ea3306174dfb8cbdc3b706]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/ssi/2014/304/regulation/2) inserted (14.2.2017) by [The Civil Partnership, Marriage Between Persons of Different Sexes and Same Sex Marriage (Prescribed Bodies) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/427)](https://www.legislation.gov.uk/ssi/2016/427), [regs. 1](https://www.legislation.gov.uk/ssi/2016/427/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2016/427/regulation/3/2)
 
-[^key-2786d90bbb24a5c2e12b0957f83b7003]: Commencement: Sch. in force at 16.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/304/regulation/1/1)
+[^c-2786d90bbb24a5c2e12b0957f83b7003]: Commencement: Sch. in force at 16.12.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/304/regulation/1/1)
 
-[^key-bd3da134089a5837ce2e16ea43b9d113]: Textual amendment: Words in sch. inserted (1.12.2023) by [The Marriage Between Persons of Different Sexes (Prescribed Bodies) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/266)](https://www.legislation.gov.uk/ssi/2023/266), [regs. 1](https://www.legislation.gov.uk/ssi/2023/266/regulation/1), [2](https://www.legislation.gov.uk/ssi/2023/266/regulation/2)
+[^c-bd3da134089a5837ce2e16ea43b9d113]: Textual amendment: Words in sch. inserted (1.12.2023) by [The Marriage Between Persons of Different Sexes (Prescribed Bodies) (Scotland) Amendment Regulations 2023 (S.S.I. 2023/266)](https://www.legislation.gov.uk/ssi/2023/266), [regs. 1](https://www.legislation.gov.uk/ssi/2023/266/regulation/1), [2](https://www.legislation.gov.uk/ssi/2023/266/regulation/2)
 
-[^key-da3485dd480e0c4e7328568f2cae311b]: Textual amendment: Words in sch. inserted (14.2.2017) by [The Civil Partnership, Marriage Between Persons of Different Sexes and Same Sex Marriage (Prescribed Bodies) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/427)](https://www.legislation.gov.uk/ssi/2016/427), [regs. 1](https://www.legislation.gov.uk/ssi/2016/427/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2016/427/regulation/3/3)
+[^c-da3485dd480e0c4e7328568f2cae311b]: Textual amendment: Words in sch. inserted (14.2.2017) by [The Civil Partnership, Marriage Between Persons of Different Sexes and Same Sex Marriage (Prescribed Bodies) (Scotland) Amendment Regulations 2016 (S.S.I. 2016/427)](https://www.legislation.gov.uk/ssi/2016/427), [regs. 1](https://www.legislation.gov.uk/ssi/2016/427/regulation/1), [3(3)](https://www.legislation.gov.uk/ssi/2016/427/regulation/3/3)

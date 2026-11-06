@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Animal gatherings[^key-bf7d358cdcadbcb1f6fffd3caa2630f2]
+## 6. Animal gatherings[^c-bf7d358cdcadbcb1f6fffd3caa2630f2]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ After section 8 of the 1981 Act there is inserted—
 
 ## Annotations
 
-[^key-bf7d358cdcadbcb1f6fffd3caa2630f2]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2006/11/section/6) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-bf7d358cdcadbcb1f6fffd3caa2630f2]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2006/11/section/6) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

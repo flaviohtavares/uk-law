@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148. Non-annual accounts: tax returns prepared on an annual basis[^key-c118e721e29bf24d352da2377e8ee186]
+## 148. Non-annual accounts: tax returns prepared on an annual basis[^c-c118e721e29bf24d352da2377e8ee186]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c118e721e29bf24d352da2377e8ee186]: Commencement: Art. 148 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-c118e721e29bf24d352da2377e8ee186]: Commencement: Art. 148 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

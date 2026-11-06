@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29.6. Appeal against recognition of foreign driving disqualification[^key-33c1d41574199657d13f137fcca380ae]
+## 29.6. Appeal against recognition of foreign driving disqualification[^c-33c1d41574199657d13f137fcca380ae]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ summary: ''
 
 ## Annotations
 
-[^key-33c1d41574199657d13f137fcca380ae]: Commencement: [Rule 29.6](https://www.legislation.gov.uk/uksi/2025/909/rule/29.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-33c1d41574199657d13f137fcca380ae]: Commencement: [Rule 29.6](https://www.legislation.gov.uk/uksi/2025/909/rule/29.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00716]: Footnote: [2003 c. 32](https://www.legislation.gov.uk/ukpga/2003/32); section 57 is in force in relation only to an offence of which an offender has been convicted in Ireland. For remaining purposes, it will come into force on a date to be appointed.
 

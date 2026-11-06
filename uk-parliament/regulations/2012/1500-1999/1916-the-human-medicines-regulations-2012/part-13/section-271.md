@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-A person who is guilty of an offence under regulation 268, 268A, 269, 269A[^key-e020a13d8467d2df23c405c485f18663] or 270 is liable—
+A person who is guilty of an offence under regulation 268, 268A, 269, 269A[^c-e020a13d8467d2df23c405c485f18663] or 270 is liable—
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine, to imprisonment for a term not exceeding two years, or to both.
 
 ## Annotations
 
-[^key-e020a13d8467d2df23c405c485f18663]: Textual amendment: Words in reg. 271 substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 209A](https://www.legislation.gov.uk/uksi/2019/775/regulation/209A) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 166](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/166))
+[^c-e020a13d8467d2df23c405c485f18663]: Textual amendment: Words in reg. 271 substituted (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 209A](https://www.legislation.gov.uk/uksi/2019/775/regulation/209A) (as inserted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 166](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/166))

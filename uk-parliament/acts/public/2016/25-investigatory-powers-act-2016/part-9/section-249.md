@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Payments towards certain compliance costs[^key-74d61c94dfc34252b871178723ac8f3b][^key-24041c7828bff9b4344c6fe66be250c9][^key-2760fd2772abc6fe0d7e0978f6dd3d42]
+## 249. Payments towards certain compliance costs[^c-74d61c94dfc34252b871178723ac8f3b][^c-24041c7828bff9b4344c6fe66be250c9][^c-2760fd2772abc6fe0d7e0978f6dd3d42]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-74d61c94dfc34252b871178723ac8f3b]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2016/25/section/249) in force at 30.12.2016 for specified purposes by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/o)
+[^c-74d61c94dfc34252b871178723ac8f3b]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2016/25/section/249) in force at 30.12.2016 for specified purposes by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/o)
 
-[^key-24041c7828bff9b4344c6fe66be250c9]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2016/25/section/249) in force at 12.3.2018 for specified purposes by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/e)
+[^c-24041c7828bff9b4344c6fe66be250c9]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2016/25/section/249) in force at 12.3.2018 for specified purposes by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/e)
 
-[^key-2760fd2772abc6fe0d7e0978f6dd3d42]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2016/25/section/249) in force at 27.6.2018 in so far as not already in force by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/a)
+[^c-2760fd2772abc6fe0d7e0978f6dd3d42]: Commencement: [S. 249](https://www.legislation.gov.uk/ukpga/2016/25/section/249) in force at 27.6.2018 in so far as not already in force by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 12(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/12/a)

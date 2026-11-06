@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — LAND AT SURFACE LEVEL OF WHICH TEMPORARY POSSESSION MAY NOT BE TAKEN[^key-9a35e33ce495646213499249be1d08d1]
+## SCHEDULE 6 — LAND AT SURFACE LEVEL OF WHICH TEMPORARY POSSESSION MAY NOT BE TAKEN[^c-9a35e33ce495646213499249be1d08d1]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Articles 30 and 31
 
 ## Annotations
 
-[^key-9a35e33ce495646213499249be1d08d1]: Commencement: Sch. 6 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-9a35e33ce495646213499249be1d08d1]: Commencement: Sch. 6 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)

@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 5
 
-### Part I — Additives[^key-2c4ba46f5c907d96091ba99979e685b8]
+### Part I — Additives[^c-2c4ba46f5c907d96091ba99979e685b8]
 
 <table>
 <thead>
@@ -330,22 +330,22 @@ Regulation 5
 
 ### Part II — Supplementry
 
-**1.**[^key-b1826df659ccafbc8d2eb64f6f9b2b01] In regulation 5 and Part I—
+**1.**[^c-b1826df659ccafbc8d2eb64f6f9b2b01] In regulation 5 and Part I—
 
 - (a) the PM/REF No. of any additive is its EEC packaging material reference number,
 - (b) the CAS No. of any additive is its CAS (Chemical Abstracts Service) Registry Number, and
 - (c) the name of any additive is its chemical name, and to the extent that there is any inconsistency between the CAS No. and the name, the name shall take precedence over the CAS No.
 
-**2.**[^key-a9cd2c47b65e32363532de4f1fa53fb9] If a substance identified in Part I is an acid, a phenol or an alcohol and has salts (including double salts) of one or more of the following names (that is to say salts (including double salts) of aluminium, ammonium, calcium, iron, magnesium, potassium, sodium or zinc), then any such salts (including double salts) shall be treated as included in the specification of that substance.
+**2.**[^c-a9cd2c47b65e32363532de4f1fa53fb9] If a substance identified in Part I is an acid, a phenol or an alcohol and has salts (including double salts) of one or more of the following names (that is to say salts (including double salts) of aluminium, ammonium, calcium, iron, magnesium, potassium, sodium or zinc), then any such salts (including double salts) shall be treated as included in the specification of that substance.
 
-**3.**[^key-8415d60ec07e5e4ea3b0b99f600afa4e] If, as indicated in paragraph 2 of Annex III of the Directive, a substance is identified in Part I as an “. . . acid, salt” and has salts of one or more of the following names (that is to say, salts of aluminium, ammonium, calcium, iron, magnesium, potassium, sodium or zinc), then the free acid corresponding to that substance is not treated as included in the specification of that substance.
+**3.**[^c-8415d60ec07e5e4ea3b0b99f600afa4e] If, as indicated in paragraph 2 of Annex III of the Directive, a substance is identified in Part I as an “. . . acid, salt” and has salts of one or more of the following names (that is to say, salts of aluminium, ammonium, calcium, iron, magnesium, potassium, sodium or zinc), then the free acid corresponding to that substance is not treated as included in the specification of that substance.
 
 ## Annotations
 
-[^key-2c4ba46f5c907d96091ba99979e685b8]: Commencement: Sch. 2 Pt. I in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-2c4ba46f5c907d96091ba99979e685b8]: Commencement: Sch. 2 Pt. I in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-b1826df659ccafbc8d2eb64f6f9b2b01]: Commencement: Sch. 2 para. 1 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-b1826df659ccafbc8d2eb64f6f9b2b01]: Commencement: Sch. 2 para. 1 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-a9cd2c47b65e32363532de4f1fa53fb9]: Commencement: Sch. 2 para. 2 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-a9cd2c47b65e32363532de4f1fa53fb9]: Commencement: Sch. 2 para. 2 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
 
-[^key-8415d60ec07e5e4ea3b0b99f600afa4e]: Commencement: Sch. 2 para. 3 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)
+[^c-8415d60ec07e5e4ea3b0b99f600afa4e]: Commencement: Sch. 2 para. 3 in operation at 14.9.1998, see [reg. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1)

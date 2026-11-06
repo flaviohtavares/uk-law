@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65A. Failure to comply with deficit notice[^key-31d24ec4dfa3ca64381c20cb269dce95]
+## 65A. Failure to comply with deficit notice[^c-31d24ec4dfa3ca64381c20cb269dce95]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31d24ec4dfa3ca64381c20cb269dce95]: Textual amendment: Art. 65A inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [25](https://www.legislation.gov.uk/uksi/2024/1366/article/25)
+[^c-31d24ec4dfa3ca64381c20cb269dce95]: Textual amendment: Art. 65A inserted (1.1.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2024 (S.I. 2024/1366)](https://www.legislation.gov.uk/uksi/2024/1366), [arts. 2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1366/article/2/2/b), [25](https://www.legislation.gov.uk/uksi/2024/1366/article/25)

@@ -54,7 +54,7 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdrawal) Act 2018 (relating to the appropriate Parliamentary procedure for these Regulations) have been satisfied.
 
-## 1. Citation and commencement[^key-06a16bd8aa29df333d8ef0f8d8950e2b]
+## 1. Citation and commencement[^c-06a16bd8aa29df333d8ef0f8d8950e2b]
 
 (1) These Regulations may be cited as the Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2018.
 
@@ -62,13 +62,13 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (3) Regulation 3 comes into force on exit day.
 
-## 2. Amendment of the Energy Savings Opportunity Scheme Regulations 2014: European Communities Act 1972[^key-9a1052823512587cf253bc96dd0dcdf3]
+## 2. Amendment of the Energy Savings Opportunity Scheme Regulations 2014: European Communities Act 1972[^c-9a1052823512587cf253bc96dd0dcdf3]
 
 (1) The Energy Savings Opportunity Scheme Regulations 2014 [^c23526431] are amended as follows.
 
 (2) In regulation 33(4)(c), after “use””, insert “ or the international standard “*50001:2018 Energy management systems – Requirements with guidance for use*”[^c23526441] ”.
 
-## 3. Amendment of the Energy Savings Opportunity Scheme Regulations 2014: European Union (Withdrawal) Act 2018[^key-e75e53aa8bf10afd57b9f116b38929ed]
+## 3. Amendment of the Energy Savings Opportunity Scheme Regulations 2014: European Union (Withdrawal) Act 2018[^c-e75e53aa8bf10afd57b9f116b38929ed]
 
 (1) The Energy Savings Opportunity Scheme Regulations 2014 are amended as follows.
 
@@ -97,14 +97,14 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
   > In paragraph 1—
   >
   > - “**amount A**” means—
-  >   - (a) where the qualification date is before IP completion day[^key-2638ecae9f2a748085c3b86d357a69eb], 50 million euro;
+  >   - (a) where the qualification date is before IP completion day[^c-2638ecae9f2a748085c3b86d357a69eb], 50 million euro;
   >   - (b) where the qualification date is on or after IP completion day, £44 million;
   > - “**amount B**” means—
   >   - (a) where the qualification date is before IP completion day, 43 million euro;
   >   - (b) where the qualification date is on or after IP completion day, £38 million.
 
   ;
-- (c)[^key-b03ed814744e4a589d14857ccbd6a581] after paragraph 3 insert—
+- (c)[^c-b03ed814744e4a589d14857ccbd6a581] after paragraph 3 insert—
 
   > **3A.** Paragraph 3 does not apply in respect of a qualification date on or after IP completion day.
 
@@ -138,18 +138,18 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23526421]: Marginal citation: [S.I. 2010/761](https://www.legislation.gov.uk/uksi/2010/761).
 
-[^key-06a16bd8aa29df333d8ef0f8d8950e2b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1) in force at 3.1.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/2)
+[^c-06a16bd8aa29df333d8ef0f8d8950e2b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1) in force at 3.1.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/2)
 
-[^key-9a1052823512587cf253bc96dd0dcdf3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1342/regulation/2) in force at 3.1.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/2)
+[^c-9a1052823512587cf253bc96dd0dcdf3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/1342/regulation/2) in force at 3.1.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/1/2)
 
 [^c23526431]: Marginal citation: [S.I. 2014/1643](https://www.legislation.gov.uk/uksi/2014/1643), as amended by [S.I. 2015/102](https://www.legislation.gov.uk/uksi/2015/102), [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446), [S.I](https://www.legislation.gov.uk/ssi/2015/446/section/I). 2015/1731 and [S.I. 2016/992](https://www.legislation.gov.uk/uksi/2016/992).
 
 [^c23526441]: Marginal citation: ISO 50001:2018 “Energy management systems – Requirements with guidance for use” was published in August 2018 by the International Organization for Standardization. Under reference BS EN ISO 50001:2018, it is published as a UK standard by the British Standards Institution (ISBN 978 0 580 93443 8).
 
-[^key-e75e53aa8bf10afd57b9f116b38929ed]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
+[^c-e75e53aa8bf10afd57b9f116b38929ed]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
 
 [^c23526451]: Marginal citation: Regulation 3 of the [Accreditation Regulations 2009 (S.I. 2009/3155)](https://www.legislation.gov.uk/uksi/2009/3155) appoints the United Kingdom Accreditation Service for the purposes of Article 4(1) of Regulation (EC) No 765/2008.
 
-[^key-2638ecae9f2a748085c3b86d357a69eb]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/b) substituted (31.12.2020 immediately before IP completion day) by [The Climate Change Agreements, CRC Energy Efficiency Scheme and Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/711)](https://www.legislation.gov.uk/uksi/2020/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/711/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/711/regulation/4/2/a)
+[^c-2638ecae9f2a748085c3b86d357a69eb]: Textual amendment: Words in [reg. 3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/b) substituted (31.12.2020 immediately before IP completion day) by [The Climate Change Agreements, CRC Energy Efficiency Scheme and Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/711)](https://www.legislation.gov.uk/uksi/2020/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/711/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2020/711/regulation/4/2/a)
 
-[^key-b03ed814744e4a589d14857ccbd6a581]: Textual amendment: [Reg. 3(3)(c)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/c) substituted (31.12.2020 immediately before IP completion day) by [The Climate Change Agreements, CRC Energy Efficiency Scheme and Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/711)](https://www.legislation.gov.uk/uksi/2020/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/711/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/711/regulation/4/2/b)
+[^c-b03ed814744e4a589d14857ccbd6a581]: Textual amendment: [Reg. 3(3)(c)](https://www.legislation.gov.uk/uksi/2018/1342/regulation/3/3/c) substituted (31.12.2020 immediately before IP completion day) by [The Climate Change Agreements, CRC Energy Efficiency Scheme and Energy Savings Opportunity Scheme (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/711)](https://www.legislation.gov.uk/uksi/2020/711), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/711/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/711/regulation/4/2/b)

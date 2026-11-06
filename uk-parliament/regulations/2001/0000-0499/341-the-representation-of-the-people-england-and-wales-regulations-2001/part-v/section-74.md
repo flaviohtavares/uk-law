@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Envelopes[^key-06c322ca6a268739220b8cbada9903ea][^key-f6dd778c61db67c04acb6bdc4f8d4200][^key-bc9dfbfe7e1697af8f750db9d9b23b39][^key-034e88b6fcd7724a8b3da122304e8560][^key-16143711fdef9fb0c09462fe8626bbb9]
+## 74. Envelopes[^c-06c322ca6a268739220b8cbada9903ea][^c-f6dd778c61db67c04acb6bdc4f8d4200][^c-bc9dfbfe7e1697af8f750db9d9b23b39][^c-034e88b6fcd7724a8b3da122304e8560][^c-16143711fdef9fb0c09462fe8626bbb9]
 
 *Extent: E+W*
 
-(1) Paragraphs (2) and (3) below prescribe the envelopes which are to be issued to a postal voter in addition to the ballot paper and postal voting statement[^key-cb746b1a3f128a4ef4bf091c331a829e] (which are issued under rule 24 of the elections rules[^f00046]).
+(1) Paragraphs (2) and (3) below prescribe the envelopes which are to be issued to a postal voter in addition to the ballot paper and postal voting statement[^c-cb746b1a3f128a4ef4bf091c331a829e] (which are issued under rule 24 of the elections rules[^f00046]).
 
 (2) There shall be issued an envelope for the return of the postal ballot paper or, as the case may be, ballot papers and the postal voting statement (referred to as a “covering envelope”) which shall be marked with the letter “B”.
 
@@ -28,7 +28,7 @@ summary: ''
 
 - (a) the letter “A”;
 - (b) the words “ballot paper envelope”, and
-- (c) unless the envelope has a window through which the number on the ballot paper (or ballot papers) can be displayed,[^key-12f3869e11cb5a418fde727dd0565e04] the number of the ballot paper or, as the case may be, ballot papers.
+- (c) unless the envelope has a window through which the number on the ballot paper (or ballot papers) can be displayed,[^c-12f3869e11cb5a418fde727dd0565e04] the number of the ballot paper or, as the case may be, ballot papers.
 
 (4) Where polls are taken together (under the provisions referred to in regulation 65 above) but not the proceedings on the issue and receipt of postal ballot papers—
 
@@ -37,18 +37,18 @@ summary: ''
 
 ## Annotations
 
-[^key-06c322ca6a268739220b8cbada9903ea]: Commencement: Reg. 74 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-06c322ca6a268739220b8cbada9903ea]: Commencement: Reg. 74 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
 
-[^key-f6dd778c61db67c04acb6bdc4f8d4200]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/2001/341/regulation/74) applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 6
+[^c-f6dd778c61db67c04acb6bdc4f8d4200]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/2001/341/regulation/74) applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums)(England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 6
 
-[^key-bc9dfbfe7e1697af8f750db9d9b23b39]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/2001/341/regulation/74) applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 6 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
+[^c-bc9dfbfe7e1697af8f750db9d9b23b39]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/2001/341/regulation/74) applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 6 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
 
-[^key-034e88b6fcd7724a8b3da122304e8560]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/2001/341/regulation/74) applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 6
+[^c-034e88b6fcd7724a8b3da122304e8560]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/2001/341/regulation/74) applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 6
 
-[^key-16143711fdef9fb0c09462fe8626bbb9]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/2001/341/regulation/74) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/28)
+[^c-16143711fdef9fb0c09462fe8626bbb9]: Modification: [Reg. 74](https://www.legislation.gov.uk/uksi/2001/341/regulation/74) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 28](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/28)
 
-[^key-cb746b1a3f128a4ef4bf091c331a829e]: Textual amendment: Words in [Regulation](https://www.legislation.gov.uk/uksi/2001/341) substituted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [65(a)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/65/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/e))
+[^c-cb746b1a3f128a4ef4bf091c331a829e]: Textual amendment: Words in [Regulation](https://www.legislation.gov.uk/uksi/2001/341) substituted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [65(a)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/65/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/e))
 
 [^f00046]: Footnote: Rule 24 was substituted by paragraph 10(3) of Schedule 6 to the 2000 Act.
 
-[^key-12f3869e11cb5a418fde727dd0565e04]: Textual amendment: Words in [reg. 74(3)(c)](https://www.legislation.gov.uk/uksi/2001/341/regulation/74/3/c) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2006/2910/regulation/64) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/e))
+[^c-12f3869e11cb5a418fde727dd0565e04]: Textual amendment: Words in [reg. 74(3)(c)](https://www.legislation.gov.uk/uksi/2001/341/regulation/74/3/c) inserted (1.1.2007) by [The Representation of the People (England and Wales) (Amendment) (No. 2) Regulations 2006 (S.I. 2006/2910)](https://www.legislation.gov.uk/uksi/2006/2910), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1), [64](https://www.legislation.gov.uk/uksi/2006/2910/regulation/64) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/2)[(3)(e)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/3/e))

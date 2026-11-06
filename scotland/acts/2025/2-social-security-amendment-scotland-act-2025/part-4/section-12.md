@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Liability of individual’s estate[^key-7df338b3c5d5a8be7ae1ef4053ff3144]
+## 12. Liability of individual’s estate[^c-7df338b3c5d5a8be7ae1ef4053ff3144]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7df338b3c5d5a8be7ae1ef4053ff3144]: Commencement: S. 12 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-7df338b3c5d5a8be7ae1ef4053ff3144]: Commencement: S. 12 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

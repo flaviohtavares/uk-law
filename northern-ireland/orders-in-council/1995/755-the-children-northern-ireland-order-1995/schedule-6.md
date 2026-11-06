@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — PROPERTY RIGHTS WHERE PARENTS NOT MARRIED TO OR CIVIL PARTNERS OF EACH OTHER[^key-4d3f926c0b7b4bb1fd5412223c415d10]
+## SCHEDULE 6 — PROPERTY RIGHTS WHERE PARENTS NOT MARRIED TO OR CIVIL PARTNERS OF EACH OTHER[^c-4d3f926c0b7b4bb1fd5412223c415d10]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ Article 157.
 
 **1.** (1) In Part II of the Administration of Estates Act (Northern Ireland) 1955[^c17272041] (which deals with the distribution of the estate of an intestate), references (however expressed) to any relationship between two persons shall be construed in accordance with Article 155.
 
-(2) For the purposes of sub-paragraph (1) and that Part of that Act, a person whose father and mother were not married to , or civil partners of,[^key-6387645a7a820b8bba10cf7d1fd08c2b] each other at the time of his birth shall be presumed not to have been survived by his father, or by any person related to him only through his father, unless the contrary is shown.
+(2) For the purposes of sub-paragraph (1) and that Part of that Act, a person whose father and mother were not married to , or civil partners of,[^c-6387645a7a820b8bba10cf7d1fd08c2b] each other at the time of his birth shall be presumed not to have been survived by his father, or by any person related to him only through his father, unless the contrary is shown.
 
 (2A)[^c21146621] In the case of a person who has a parent by virtue of section 43 of the Human Fertilisation and Embryology Act 2008 (treatment provided to woman who agrees that second woman to be parent), the second and third references in paragraph (2) to the person's father are to be read as references to the woman who is a parent of the person by virtue of that section.
 
@@ -68,18 +68,18 @@ nothing in this paragraph shall operate to sever the property or any interest in
 
 **4.** (1) For the purpose of determining the person or persons who would in accordance with rules of court be entitled to a grant of probate or administration in respect of the estate of a deceased person, the deceased shall be presumed, unless the contrary is shown, not to have been survived—
 
-- (a) by any person related to him whose father and mother were not married to , or civil partners of,[^key-bf5fbcc22487bb20c425feba7074ad18] each other at the time of his birth; or
+- (a) by any person related to him whose father and mother were not married to , or civil partners of,[^c-bf5fbcc22487bb20c425feba7074ad18] each other at the time of his birth; or
 - (b) by any person whose relationship with him is deduced through such a person as is mentioned in head (a).
 
 (2) This paragraph does not apply in relation to the estate of a person dying before the commencement of this paragraph.
 
 ## Annotations
 
-[^key-4d3f926c0b7b4bb1fd5412223c415d10]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/nisi/1995/755/schedule/6) heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [39(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/39/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-4d3f926c0b7b4bb1fd5412223c415d10]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/nisi/1995/755/schedule/6) heading inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [39(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/39/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17272041]: Textual amendment: [1955 c. 24 (NI)](https://www.legislation.gov.uk/apni/1955/24)
 
-[^key-6387645a7a820b8bba10cf7d1fd08c2b]: Textual amendment: Words in Sch. 6 para. 1(2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [39(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/39/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-6387645a7a820b8bba10cf7d1fd08c2b]: Textual amendment: Words in Sch. 6 para. 1(2) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [39(3)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/39/3) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c21146621]: Textual amendment: Sch. 6 para. 1(2A) inserted (6.4.2009 for certain purposes otherwise 1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/22/section/56), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 78(2)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/78/2); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)(f)(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e/f/2) (with transitional provisions in [art.7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/479/schedule/1))
 
@@ -89,4 +89,4 @@ nothing in this paragraph shall operate to sever the property or any interest in
 
 [^c17272061]: Textual amendment: [1977 NI 17](https://www.legislation.gov.uk/nisi/1977)
 
-[^key-bf5fbcc22487bb20c425feba7074ad18]: Textual amendment: Words in Sch. 6 para. 4(1)(a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [39(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/39/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-bf5fbcc22487bb20c425feba7074ad18]: Textual amendment: Words in Sch. 6 para. 4(1)(a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [39(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/39/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

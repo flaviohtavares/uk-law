@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Amount of pension payable to survivor member[^key-749628dd7a5c8c3a2b0002c59873b0e2]
+## 53. Amount of pension payable to survivor member[^c-749628dd7a5c8c3a2b0002c59873b0e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The survivor member’s account must be credited with an amount equal to the ann
 
 ## Annotations
 
-[^key-749628dd7a5c8c3a2b0002c59873b0e2]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/2848/regulation/53) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-749628dd7a5c8c3a2b0002c59873b0e2]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2014/2848/regulation/53) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

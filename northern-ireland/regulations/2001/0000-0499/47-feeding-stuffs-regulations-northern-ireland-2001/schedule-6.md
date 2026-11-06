@@ -24,7 +24,7 @@ summary: ''
 
 Regulation 7
 
-### Part A — — Compound Feeding Stuffs except those for pets[^key-1cdd80b22fb6da1df9d62f9975da833e]
+### Part A — — Compound Feeding Stuffs except those for pets[^c-1cdd80b22fb6da1df9d62f9975da833e]
 
 | Analytical constituents | Limits of variation (absolute value in percentage by weight, except where otherwise specified) |
 | --- | --- |
@@ -48,7 +48,7 @@ Regulation 7
 | Total sugar | - If present in excess—<br>- 4 for declarations of 20% or more<br>- 20% of the amount stated for declarations of 10% or more but less than 20%<br>- 2 for declarations less than 10%<br>- In case of deficiency—<br>- 2 for declarations of 20% or more<br>- 10% of the amount stated for declarations of 10% or more but less than 20%<br>- 1 for declarations less than 10% |
 | Tryptophan<br>- In case of deficiency—<br>- 30% of the amount stated |  |
 
-### Part B — — Compound Pet Foods[^key-8f8b42b14e46920b17e385d4b78114fb]
+### Part B — — Compound Pet Foods[^c-8f8b42b14e46920b17e385d4b78114fb]
 
 |  |  |
 | --- | --- |
@@ -71,7 +71,7 @@ Regulation 7
 | Threonine | - In case of deficiency—<br>- 30% of the amount stated |
 | Tryptophan | - In case of deficiency—<br>- 30% of the amount stated |
 
-### Part C— — Feed Materials[^key-f90c71200b2eba48ae71fe96803a4399]
+### Part C— — Feed Materials[^c-f90c71200b2eba48ae71fe96803a4399]
 
 |  |  |
 | --- | --- |
@@ -99,7 +99,7 @@ Regulation 7
 | Volatile nitrogenous bases | - In case of deficiency—<br>- 20% of the amount stated |
 | Xanthophyll | - In case of deficiency—<br>- 30% of the amount stated |
 
-### Part D— — Vitamins and Trace Elements[^key-d7cbbadbf45cebeddb4b54c0c45389a5]
+### Part D— — Vitamins and Trace Elements[^c-d7cbbadbf45cebeddb4b54c0c45389a5]
 
 | Vitamin/Trace Element | Limits of variation |
 | --- | --- |
@@ -114,7 +114,7 @@ Regulation 7
 | Vitamins other than D<sub>2</sub> and D<sub>3</sub> | In case of deficiency— 30% of the amount stated |
 | Zinc | ±50% of the amount stated |
 
-### Part E — — Energy Value of Compound Feeding Stuffs[^key-a4b4958dcf66815b49ea600362abd88b]
+### Part E — — Energy Value of Compound Feeding Stuffs[^c-a4b4958dcf66815b49ea600362abd88b]
 
 | Feeding stuff | Limits of variation |
 | --- | --- |
@@ -125,12 +125,12 @@ Regulation 7
 
 ## Annotations
 
-[^key-1cdd80b22fb6da1df9d62f9975da833e]: Commencement: Sch. 6 Pt. A in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-1cdd80b22fb6da1df9d62f9975da833e]: Commencement: Sch. 6 Pt. A in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-8f8b42b14e46920b17e385d4b78114fb]: Commencement: Sch. 6 Pt. B in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-8f8b42b14e46920b17e385d4b78114fb]: Commencement: Sch. 6 Pt. B in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-f90c71200b2eba48ae71fe96803a4399]: Commencement: Sch. 6 Pt. C in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-f90c71200b2eba48ae71fe96803a4399]: Commencement: Sch. 6 Pt. C in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-d7cbbadbf45cebeddb4b54c0c45389a5]: Commencement: Sch. 6 Pt. D in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-d7cbbadbf45cebeddb4b54c0c45389a5]: Commencement: Sch. 6 Pt. D in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-a4b4958dcf66815b49ea600362abd88b]: Commencement: Sch. 6 Pt. E in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-a4b4958dcf66815b49ea600362abd88b]: Commencement: Sch. 6 Pt. E in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

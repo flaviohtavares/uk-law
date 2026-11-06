@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Building regulations[^key-44cbdf91198dbe8da77c8891f5943472]
+## 1. Building regulations[^c-44cbdf91198dbe8da77c8891f5943472]
 
 *Extent: S*
 
@@ -30,8 +30,8 @@ make regulations (“**building regulations**”) with respect to the design, co
 
 (2) Before making regulations under subsection (1) (except regulations consolidating other regulations) or an order under subsection (4) the Scottish Ministers must consult—
 
-- (a)[^key-6c3609fe56792b770181baf3f001c6b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) such [^key-fa4f127c08a93f76cd90f8e8e6cb9e31]... persons as appear to them to be representative of the interests concerned.
+- (a)[^c-6c3609fe56792b770181baf3f001c6b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) such [^c-fa4f127c08a93f76cd90f8e8e6cb9e31]... persons as appear to them to be representative of the interests concerned.
 
 (3) Schedule 1 makes further provision about the matters as to which building regulations may provide.
 
@@ -41,8 +41,8 @@ make regulations (“**building regulations**”) with respect to the design, co
 
 ## Annotations
 
-[^key-44cbdf91198dbe8da77c8891f5943472]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2003/8/section/1) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)
+[^c-44cbdf91198dbe8da77c8891f5943472]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2003/8/section/1) in force at 22.9.2004 for specified purposes and 1.5.2005 in so far as not already in force by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2004/404/article/2/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2004/404/schedule/1)
 
-[^key-6c3609fe56792b770181baf3f001c6b5]: Textual amendment: S. 1(2)(a) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(a)(i)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/a/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-6c3609fe56792b770181baf3f001c6b5]: Textual amendment: S. 1(2)(a) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(a)(i)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/a/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-fa4f127c08a93f76cd90f8e8e6cb9e31]: Textual amendment: Word in s. 1(2)(b) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(a)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/a/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-fa4f127c08a93f76cd90f8e8e6cb9e31]: Textual amendment: Word in s. 1(2)(b) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(a)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/a/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

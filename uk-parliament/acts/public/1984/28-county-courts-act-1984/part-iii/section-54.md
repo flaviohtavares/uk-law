@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The county court[^key-d33bf7b8d17db2356c2fbbe5454e1738] shall not make an order under section 52 or 53 if it considers that compliance with the order, if made, would be likely to be injurious to the public interest.
+(1) The county court[^c-d33bf7b8d17db2356c2fbbe5454e1738] shall not make an order under section 52 or 53 if it considers that compliance with the order, if made, would be likely to be injurious to the public interest.
 
 (2) Rules of court[^c4404281] may make provision as to the circumstances in which an order under section 52 or 53 can be made; and any rules making such provision may include such incidental, supplementary and consequential provisions as the Civil Procedure Rule Committee[^c4404291] may consider necessary or expedient.
 
@@ -39,7 +39,7 @@ In this subsection references to the Crown do not include references to Her Maje
 
 ## Annotations
 
-[^key-d33bf7b8d17db2356c2fbbe5454e1738]: Textual amendment: Words in ss. 36-147 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-d33bf7b8d17db2356c2fbbe5454e1738]: Textual amendment: Words in ss. 36-147 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/a); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c4404281]: Textual amendment: Words in s. 54(2)(3) substituted (27.4.1997) by [1997 c. 12](https://www.legislation.gov.uk/ukpga/1997/12), [s. 10](https://www.legislation.gov.uk/ukpga/1997/12/section/10), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/ukpga/1997/12/schedule/2/paragraph/2/2); [S.I. 1997/841](https://www.legislation.gov.uk/uksi/1997/841), [art. 3](https://www.legislation.gov.uk/uksi/1997/841/article/3).
 

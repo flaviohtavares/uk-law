@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.33. Right to copy documents[^key-363e02384543034eaf93dac2e22ebecb]
+## 7.33. Right to copy documents[^c-363e02384543034eaf93dac2e22ebecb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the Act or these Rules give a person the right to inspect documents, that 
 
 ## Annotations
 
-[^key-363e02384543034eaf93dac2e22ebecb]: Commencement: Rule 7.33 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-363e02384543034eaf93dac2e22ebecb]: Commencement: Rule 7.33 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

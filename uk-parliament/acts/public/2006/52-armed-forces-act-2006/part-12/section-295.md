@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 295. Effect of sentence of dismissal[^key-b7f0a7153184bfec3bcefa6a15563757][^key-37368b362baf31d5f9741bb9626732a7][^key-7f47db0936ef69baf1f6b362421969fb]
+## 295. Effect of sentence of dismissal[^c-b7f0a7153184bfec3bcefa6a15563757][^c-37368b362baf31d5f9741bb9626732a7][^c-7f47db0936ef69baf1f6b362421969fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b7f0a7153184bfec3bcefa6a15563757]: Commencement: S. 295 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-b7f0a7153184bfec3bcefa6a15563757]: Commencement: S. 295 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-37368b362baf31d5f9741bb9626732a7]: Commencement: S. 295 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-37368b362baf31d5f9741bb9626732a7]: Commencement: S. 295 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-7f47db0936ef69baf1f6b362421969fb]: Modification: S. 295 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/826/regulation/3/2) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))
+[^c-7f47db0936ef69baf1f6b362421969fb]: Modification: S. 295 modified (31.10.2009) by [The Armed Forces (Naval Chaplains) Regulations 2009 (S.I. 2009/826)](https://www.legislation.gov.uk/uksi/2009/826), [regs. 1](https://www.legislation.gov.uk/uksi/2009/826/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2009/826/regulation/3/2) (with [reg. 2(c)](https://www.legislation.gov.uk/uksi/2009/826/regulation/2/c))

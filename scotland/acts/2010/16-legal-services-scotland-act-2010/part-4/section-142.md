@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Information about legal services[^key-c8b3c9f60dbf82f395875a74f57f77fc]
+## 142. Information about legal services[^c-c8b3c9f60dbf82f395875a74f57f77fc]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ After section 35A of the 1986 Act insert—
 
 ## Annotations
 
-[^key-c8b3c9f60dbf82f395875a74f57f77fc]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2010/16/section/142) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-c8b3c9f60dbf82f395875a74f57f77fc]: Commencement: [S. 142](https://www.legislation.gov.uk/asp/2010/16/section/142) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

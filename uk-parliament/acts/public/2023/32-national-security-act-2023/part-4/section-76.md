@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Confidential material[^key-6797a4a61bb00e964c4677a4b602e7be][^key-6dd37bd6015d1dbe8a5a3b4fd84f92dc]
+## 76. Confidential material[^c-6797a4a61bb00e964c4677a4b602e7be][^c-6dd37bd6015d1dbe8a5a3b4fd84f92dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6797a4a61bb00e964c4677a4b602e7be]: Commencement: S. 76 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-6797a4a61bb00e964c4677a4b602e7be]: Commencement: S. 76 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-6dd37bd6015d1dbe8a5a3b4fd84f92dc]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/32/section/76) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-6dd37bd6015d1dbe8a5a3b4fd84f92dc]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2023/32/section/76) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

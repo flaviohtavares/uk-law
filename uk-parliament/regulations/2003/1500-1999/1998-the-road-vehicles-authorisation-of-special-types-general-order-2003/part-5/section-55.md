@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Highway testing vehicles[^key-fc94c749bfc721185022ea619893e3dd]
+## 55. Highway testing vehicles[^c-fc94c749bfc721185022ea619893e3dd]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc94c749bfc721185022ea619893e3dd]: Commencement: Art. 55 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-fc94c749bfc721185022ea619893e3dd]: Commencement: Art. 55 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

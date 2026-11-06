@@ -26,7 +26,7 @@ summary: ''
 
 SOCIAL SECURITY
 
-The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1994 (revoked)[^key-d1de2747bd8d0e35ed52c876c432c14d]
+The Income-related Benefits Schemes (Miscellaneous Amendments) (No. 3) Regulations 1994 (revoked)[^c-d1de2747bd8d0e35ed52c876c432c14d]
 
 Made
 
@@ -40,32 +40,32 @@ Coming into force
 
 1st August 1994
 
-[^key-d1de2747bd8d0e35ed52c876c432c14d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1de2747bd8d0e35ed52c876c432c14d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d1de2747bd8d0e35ed52c876c432c14d]
+## 1. Citation and commencement[^c-d1de2747bd8d0e35ed52c876c432c14d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Council Tax Benefit (General) Regulations 1992[^key-d1de2747bd8d0e35ed52c876c432c14d]
+## 2. Amendment of the Council Tax Benefit (General) Regulations 1992[^c-d1de2747bd8d0e35ed52c876c432c14d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Housing Benefit (General) Regulations 1987[^key-d1de2747bd8d0e35ed52c876c432c14d]
+## 3. Amendment of the Housing Benefit (General) Regulations 1987[^c-d1de2747bd8d0e35ed52c876c432c14d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Income Support (General) Regulations 1987[^key-d1de2747bd8d0e35ed52c876c432c14d]
+## 4. Amendment of the Income Support (General) Regulations 1987[^c-d1de2747bd8d0e35ed52c876c432c14d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d1de2747bd8d0e35ed52c876c432c14d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1de2747bd8d0e35ed52c876c432c14d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d1de2747bd8d0e35ed52c876c432c14d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d1de2747bd8d0e35ed52c876c432c14d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d1de2747bd8d0e35ed52c876c432c14d]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1994/1807) revoked (30.4.2006) by [The Social Security (Persons from Abroad) Amendment Regulations 2006 (S.I. 2006/1026)](https://www.legislation.gov.uk/uksi/2006/1026), [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2006/1026/regulation/11/1/a) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2006/1026/regulation/11/2))
+[^c-d1de2747bd8d0e35ed52c876c432c14d]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/1994/1807) revoked (30.4.2006) by [The Social Security (Persons from Abroad) Amendment Regulations 2006 (S.I. 2006/1026)](https://www.legislation.gov.uk/uksi/2006/1026), [reg. 11(1)(a)](https://www.legislation.gov.uk/uksi/2006/1026/regulation/11/1/a) (with [reg. 11(2)](https://www.legislation.gov.uk/uksi/2006/1026/regulation/11/2))

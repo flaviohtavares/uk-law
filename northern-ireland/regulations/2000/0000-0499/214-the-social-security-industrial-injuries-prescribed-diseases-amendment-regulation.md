@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 108(2) and (4), 109(2) and (3) and 171(1) to (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-2c030189f549256327b78b0a907a2105]
+## 1. Citation, commencement and interpretation[^c-2c030189f549256327b78b0a907a2105]
 
 (1) These Regulations may be cited as the Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2000 and shall come into operation on 10th July 2000.
 
 (2) In these Regulations “the principal Regulations” means the Social Security (Industrial Injuries) (Prescribed Diseases) Regulations (Northern Ireland) 1986[^f00003].
 
-## 2. Amendment of the principal Regulations[^key-c39e93a01f0f45a796c7bc32a9f6876a]
+## 2. Amendment of the principal Regulations[^c-c39e93a01f0f45a796c7bc32a9f6876a]
 
 (1) The principal Regulations shall be amended in accordance with paragraphs (2) to (6) of this regulation.
 
@@ -63,7 +63,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 (3) In regulation 23 (time for claiming benefit in respect of occupational deafness)—
 
 - (a) in paragraph (2)[^f00005] after “worked” there shall be inserted “in employed earner’s employment”; and
-- (b)[^key-9182e69f33df4a6c8e0897127f9e1b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9182e69f33df4a6c8e0897127f9e1b5a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 25(1)(*c*)[^f00006] (further claims in respect of occupational deafness) after “worked” there shall be inserted “in employed earner’s employment”.
 
@@ -76,7 +76,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (6) In Part I of Schedule 1 (list of prescribed diseases and the occupations for which they are prescribed)—
 
-- (a)[^key-6a8bf3518b02ea0e493afe090518636f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6a8bf3518b02ea0e493afe090518636f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the entry relating to the disease numbered A2 (heat cataract)—
   - (i) in the first column “Heat” shall be omitted; and
   - (ii) in the second column, against the disease numbered A2, there shall be substituted the following entry—
@@ -92,7 +92,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
   .
 
-## 3. Transitional provision[^key-d653c3562ecef1a95da98087452e03e5]
+## 3. Transitional provision[^c-d653c3562ecef1a95da98087452e03e5]
 
 (1) The amendments made by regulation 2(3) and (4) of these Regulations shall not apply in relation to a claim made within 3 months after the commencement date and the amendments made by regulation 2(2)(*b*), (5) and (6) of these Regulations shall not apply where the date of onset of the relevant disease is prior to the commencement date and the claim is made within 3 months after that date.
 
@@ -144,25 +144,25 @@ These Regulations do not impose a charge on business.
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-2c030189f549256327b78b0a907a2105]: Commencement: Reg. 1 in operation at 10.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/214/regulation/1/1)
+[^c-2c030189f549256327b78b0a907a2105]: Commencement: Reg. 1 in operation at 10.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/214/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 1986 No. 179](https://www.legislation.gov.uk/nisr/1986/179); relevant amending rules are [S.R. 1989 No. 319](https://www.legislation.gov.uk/nisr/1989/319), [S.R. 1993 Nos. 148](https://www.legislation.gov.uk/nisr/1993/148) and [350](https://www.legislation.gov.uk/nisr/1993/350), [S.R.1997 No. 158](https://www.legislation.gov.uk/nisr/1997/158) and [S.R. 1999 No. 310 (C. 23)](https://www.legislation.gov.uk/nisr/1999/310)
 
-[^key-c39e93a01f0f45a796c7bc32a9f6876a]: Commencement: Reg. 2 in operation at 10.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/214/regulation/1/1)
+[^c-c39e93a01f0f45a796c7bc32a9f6876a]: Commencement: Reg. 2 in operation at 10.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/214/regulation/1/1)
 
 [^f00004]: Footnote: Paragraph (*d*) was added by regulation 2 of [S.R. 1993 No. 350](https://www.legislation.gov.uk/nisr/1993/350)
 
 [^f00005]: Footnote: Paragraph (2) was amended by Article 9(10) of [S.R. 1999 No. 310 (C. 23)](https://www.legislation.gov.uk/nisr/1999/310)
 
-[^key-9182e69f33df4a6c8e0897127f9e1b5a]: Textual amendment: [Reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2000/214/regulation/2/3/b) revoked (14.3.2005) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/37)](https://www.legislation.gov.uk/nisr/2005/37), [regs. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1), [4](https://www.legislation.gov.uk/nisr/2005/37/regulation/4)
+[^c-9182e69f33df4a6c8e0897127f9e1b5a]: Textual amendment: [Reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2000/214/regulation/2/3/b) revoked (14.3.2005) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/37)](https://www.legislation.gov.uk/nisr/2005/37), [regs. 1](https://www.legislation.gov.uk/nisr/2005/37/regulation/1), [4](https://www.legislation.gov.uk/nisr/2005/37/regulation/4)
 
 [^f00006]: Footnote: Paragraph (1) was amended, and paragraph (2) was substituted, by Article 9(11) of [S.R. 1999 No. 310 (C. 23)](https://www.legislation.gov.uk/nisr/1999/310)
 
-[^key-6a8bf3518b02ea0e493afe090518636f]: Textual amendment: [Reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2000/214/regulation/2/6/a) revoked (30.3.2017) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/45)](https://www.legislation.gov.uk/nisr/2017/45), [regs. 1](https://www.legislation.gov.uk/nisr/2017/45/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/45/regulation/3)
+[^c-6a8bf3518b02ea0e493afe090518636f]: Textual amendment: [Reg. 2(6)(a)](https://www.legislation.gov.uk/nisr/2000/214/regulation/2/6/a) revoked (30.3.2017) by [The Social Security (Industrial Injuries) (Prescribed Diseases) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/45)](https://www.legislation.gov.uk/nisr/2017/45), [regs. 1](https://www.legislation.gov.uk/nisr/2017/45/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/45/regulation/3)
 
 [^f00007]: Footnote: Prescribed disease D12 was inserted by regulation 7 of [S.R. 1993 No. 350](https://www.legislation.gov.uk/nisr/1993/350) and substituted by regulation 2(4)(*d*) of [S.R. 1997 No. 158](https://www.legislation.gov.uk/nisr/1997/158)
 
-[^key-d653c3562ecef1a95da98087452e03e5]: Commencement: Reg. 3 in operation at 10.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/214/regulation/1/1)
+[^c-d653c3562ecef1a95da98087452e03e5]: Commencement: Reg. 3 in operation at 10.7.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/214/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); Article 11 was amended by paragraph 17 of Schedule 6 to the Social Security Contributions (Transfer of Functions, etc.) (Northern Ireland) Order 1999
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Recovery of sums payable under penalty notices[^key-c3e17c05f7f0023460788a17052af172]
+## 45. Recovery of sums payable under penalty notices[^c-c3e17c05f7f0023460788a17052af172]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In section 18 of the Immigration, Asylum and Nationality Act 2006 (enforcement),
 
 ## Annotations
 
-[^key-c3e17c05f7f0023460788a17052af172]: Commencement: S. 45 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(q)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2014/1820/article/6))
+[^c-c3e17c05f7f0023460788a17052af172]: Commencement: S. 45 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(q)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/q) (with [art. 6](https://www.legislation.gov.uk/uksi/2014/1820/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 161. Member declaration[^key-9944724b4a6cd4c14e94ebae3e948f33]
+## 161. Member declaration[^c-9944724b4a6cd4c14e94ebae3e948f33]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9944724b4a6cd4c14e94ebae3e948f33]: Commencement: [Reg. 161](https://www.legislation.gov.uk/ssi/2014/292/regulation/161) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-9944724b4a6cd4c14e94ebae3e948f33]: Commencement: [Reg. 161](https://www.legislation.gov.uk/ssi/2014/292/regulation/161) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00025]: Footnote: Paragraph 3A of Schedule 29 was inserted by section 159 of the Finance Act [2006 (c.25)](https://www.legislation.gov.uk/ukpga/2006/25).

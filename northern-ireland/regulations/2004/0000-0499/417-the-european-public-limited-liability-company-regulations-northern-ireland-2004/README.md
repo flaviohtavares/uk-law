@@ -31,7 +31,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Public Limited-Liability Company Regulations (Northern Ireland) 2004 (revoked)[^key-7a266a0c4405e7956cd89498f2989d77]
+The European Public Limited-Liability Company Regulations (Northern Ireland) 2004 (revoked)[^c-7a266a0c4405e7956cd89498f2989d77]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 8th October 2004
 
-[^key-7a266a0c4405e7956cd89498f2989d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a266a0c4405e7956cd89498f2989d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-7a266a0c4405e7956cd89498f2989d77]
+### PART I — GENERAL[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ Coming into operation
 - [Section 2 — EC Directive and EC Regulation](part-i/section-2.md)
 - [Section 3 — Interpretation](part-i/section-3.md)
 
-### PART II — REGISTRATION OF SEs AND THE REGISTRAR ETC.[^key-7a266a0c4405e7956cd89498f2989d77]
+### PART II — REGISTRATION OF SEs AND THE REGISTRAR ETC.[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -74,13 +74,13 @@ Coming into operation
 - [Section 14 — Application of the 1986 Order to the registration of SEs](part-ii/section-14.md)
 - [Section 15 — False statements in documents sent to the registrar or the Department](part-ii/section-15.md)
 
-### PART III — EMPLOYEE INVOLVEMENT[^key-7a266a0c4405e7956cd89498f2989d77]
+### PART III — EMPLOYEE INVOLVEMENT[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — interpretation of part iii[^key-7a266a0c4405e7956cd89498f2989d77]
+#### CHAPTER 1 — interpretation of part iii[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -88,7 +88,7 @@ Coming into operation
 
 - [Section 16 — Interpretation of Part III](part-iii/section-16.md)
 
-#### CHAPTER 2 — participating companies and the special negotiating body[^key-7a266a0c4405e7956cd89498f2989d77]
+#### CHAPTER 2 — participating companies and the special negotiating body[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -101,7 +101,7 @@ Coming into operation
 - [Section 21 — Composition of the special negotiating body](part-iii/section-21.md)
 - [Section 22 — Complaint about establishment of the special negotiating body](part-iii/section-22.md)
 
-#### CHAPTER 3 — election or appointment of uk members of the special negotiating body[^key-7a266a0c4405e7956cd89498f2989d77]
+#### CHAPTER 3 — election or appointment of uk members of the special negotiating body[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -112,7 +112,7 @@ Coming into operation
 - [Section 25 — Appointment of UK members by a consultative committee](part-iii/section-25.md)
 - [Section 26 — Representation of employees](part-iii/section-26.md)
 
-#### CHAPTER 4 — negotiation of the employee involvement agreement[^key-7a266a0c4405e7956cd89498f2989d77]
+#### CHAPTER 4 — negotiation of the employee involvement agreement[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -124,7 +124,7 @@ Coming into operation
 - [Section 30 — Decision not to open or to terminate negotiations](part-iii/section-30.md)
 - [Section 31 — Complaint about decisions of the special negotiating body](part-iii/section-31.md)
 
-#### CHAPTER 5 — standard rules on employee involvement[^key-7a266a0c4405e7956cd89498f2989d77]
+#### CHAPTER 5 — standard rules on employee involvement[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -132,7 +132,7 @@ Coming into operation
 
 - [Section 32 — Standard rules on employee involvement](part-iii/section-32.md)
 
-#### CHAPTER 6 — compliance and enforcement[^key-7a266a0c4405e7956cd89498f2989d77]
+#### CHAPTER 6 — compliance and enforcement[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -143,7 +143,7 @@ Coming into operation
 - [Section 35 — Misuse of procedures](part-iii/section-35.md)
 - [Section 36 — Exclusivity of remedy](part-iii/section-36.md)
 
-#### CHAPTER 7 — confidential information[^key-7a266a0c4405e7956cd89498f2989d77]
+#### CHAPTER 7 — confidential information[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -152,7 +152,7 @@ Coming into operation
 - [Section 37 — Breach of statutory duty](part-iii/section-37.md)
 - [Section 38 — Withholding of information](part-iii/section-38.md)
 
-#### CHAPTER 8 — protection for members of the special negotiating body, etc.[^key-7a266a0c4405e7956cd89498f2989d77]
+#### CHAPTER 8 — protection for members of the special negotiating body, etc.[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -167,7 +167,7 @@ Coming into operation
 - [Section 45 — Detriment: enforcement and subsidiary provisions](part-iii/section-45.md)
 - [Section 46 — Conciliation](part-iii/section-46.md)
 
-#### CHAPTER 9 — miscellaneous[^key-7a266a0c4405e7956cd89498f2989d77]
+#### CHAPTER 9 — miscellaneous[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -180,7 +180,7 @@ Coming into operation
 - [Section 51 — Amendment of the Transnational Information and Consultation of Employees Regulations 1999](part-iii/section-51.md)
 - [Section 52 — Existing employee involvement rights](part-iii/section-52.md)
 
-### PART IV — EXERCISE OF MEMBER STATE'S OPTIONS UNDER THE EC REGULATION[^key-7a266a0c4405e7956cd89498f2989d77]
+### PART IV — EXERCISE OF MEMBER STATE'S OPTIONS UNDER THE EC REGULATION[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -200,7 +200,7 @@ Coming into operation
 - [Section 64 — Proportion of shareholders of an SE who may require one or more additional items to be put on the agenda of any general meeting (Article 56)](part-iv/section-64.md)
 - [Section 65 — SEs subject to law on public limited liability companies as regards the expression of their capital (Article 67(1))](part-iv/section-65.md)
 
-### PART V — PROVISIONS REQUIRED BY THE EC REGULATION[^key-7a266a0c4405e7956cd89498f2989d77]
+### PART V — PROVISIONS REQUIRED BY THE EC REGULATION[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -214,7 +214,7 @@ Coming into operation
 - [Section 71 — Power of the Department where an SE no longer complies with the requirements of Article 7](part-v/section-71.md)
 - [Section 72 — Review of decisions of a competent authority (Articles 8(14) and 19)](part-v/section-72.md)
 
-### PART VI — PROVISIONS RELATING TO THE EFFECTIVE APPLICATION OF THE EC REGULATION[^key-7a266a0c4405e7956cd89498f2989d77][^key-7a266a0c4405e7956cd89498f2989d77]
+### PART VI — PROVISIONS RELATING TO THE EFFECTIVE APPLICATION OF THE EC REGULATION[^c-7a266a0c4405e7956cd89498f2989d77][^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -231,7 +231,7 @@ Coming into operation
 - [Section 81 — Accounting reference period and financial year of transferring SE](part-6/section-81.md)
 - [Section 82 — Penalties for breach of Article 11 (use of SE in name)](part-6/section-82.md)
 
-### PART VII — PROVISIONS RELATING TO THE CONVERSION OF AN SE TO A PUBLIC COMPANY IN ACCORDANCE WITH ARTICLE 66 OF THE EC REGULATION[^key-7a266a0c4405e7956cd89498f2989d77]
+### PART VII — PROVISIONS RELATING TO THE CONVERSION OF AN SE TO A PUBLIC COMPANY IN ACCORDANCE WITH ARTICLE 66 OF THE EC REGULATION[^c-7a266a0c4405e7956cd89498f2989d77]
 
 *Extent: N.I.*
 
@@ -252,14 +252,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-7a266a0c4405e7956cd89498f2989d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a266a0c4405e7956cd89498f2989d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-7a266a0c4405e7956cd89498f2989d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7a266a0c4405e7956cd89498f2989d77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7a266a0c4405e7956cd89498f2989d77]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/417) ceases to have effect (1.10.2009) by virtue of [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1285(2)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1285/2/a), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(z)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/z) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))
+[^c-7a266a0c4405e7956cd89498f2989d77]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/417) ceases to have effect (1.10.2009) by virtue of [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [ss. 1285(2)(a)](https://www.legislation.gov.uk/ukpga/2006/46/section/1285/2/a), [1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2); [S.I. 2008/2860](https://www.legislation.gov.uk/uksi/2008/2860), [art. 3(z)](https://www.legislation.gov.uk/uksi/2008/2860/article/3/z) (with [arts. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7), [8](https://www.legislation.gov.uk/uksi/2008/2860/article/8), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/2860/schedule/2/paragraph/1))

@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c16934161] A society may appeal to the High Court from any decision of the registrar—
 
-- (a) to refuse registration of the society (including a refusal by reason only of anything contained in or omitted from the society's rules) on any ground other than that the registrar[^key-9fcd006f85fbc4fa254dc18bd9ed22cb] is not satisfied that either of the conditions specified in section 1(2) is fulfilled; or
+- (a) to refuse registration of the society (including a refusal by reason only of anything contained in or omitted from the society's rules) on any ground other than that the registrar[^c-9fcd006f85fbc4fa254dc18bd9ed22cb] is not satisfied that either of the conditions specified in section 1(2) is fulfilled; or
 - (b) to refuse registration of any amendment of the society's rules; or
 - (c) to cancel the society's registration (being a cancellation of which notice is required under section 15(3), and not being a cancellation by virtue of section 15(1)(c)(ii)) if the appeal is lodged before the expiration of the period of notice of the proposed cancellation given under section 15(3); or
 - (d) to renew under section 16(1)(b) a suspension of the society's registration so far as that renewal provides for the suspension to continue more than three months from the original date of suspension.
@@ -33,4 +33,4 @@ summary: ''
 
 [^c16934161]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 
-[^key-9fcd006f85fbc4fa254dc18bd9ed22cb]: Textual amendment: Words in [s. 17(1)(a)](https://www.legislation.gov.uk/apni/1969/24/section/17/1/a) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2018/323/schedule/2/paragraph/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-9fcd006f85fbc4fa254dc18bd9ed22cb]: Textual amendment: Words in [s. 17(1)(a)](https://www.legislation.gov.uk/apni/1969/24/section/17/1/a) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 2 para. 2(c)](https://www.legislation.gov.uk/uksi/2018/323/schedule/2/paragraph/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Assignation of claims: insolvency[^key-e9e21d278377fc0fb821c9816e5b46d4][^key-3fd515ca707e92468cc29cf2eeda3c41][^key-d70f3958abcd6e5960edc40090b4f363]
+## 4. Assignation of claims: insolvency[^c-e9e21d278377fc0fb821c9816e5b46d4][^c-3fd515ca707e92468cc29cf2eeda3c41][^c-d70f3958abcd6e5960edc40090b4f363]
 
 *Extent: S*
 
-[^key-d70f3958abcd6e5960edc40090b4f363]
+[^c-d70f3958abcd6e5960edc40090b4f363]
 
 (1) This section applies where—
 
@@ -49,9 +49,9 @@ summary: ''
   - (i) the assignor’s estate is sequestrated,
   - (ii) the assignor grants a trust deed for creditors or makes a composition or arrangement with creditors,
   - (iii) the assignor is adjudged bankrupt,
-  - (iv) a voluntary arrangement proposed by the assignor is approved, or[^key-95e1191ad23a84c3b97fa1b805c06ff1]
-  - (v)[^key-33c434313deeea46cd52603a6c4ea035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (vi) the assignor becomes subject to any other order or arrangement analogous to any of those mentioned in sub-paragraphs (i) to (iv)[^key-fbdda80300b671d8d3b8ba660f79920e] anywhere in the world, and
+  - (iv) a voluntary arrangement proposed by the assignor is approved, or[^c-95e1191ad23a84c3b97fa1b805c06ff1]
+  - (v)[^c-33c434313deeea46cd52603a6c4ea035] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (vi) the assignor becomes subject to any other order or arrangement analogous to any of those mentioned in sub-paragraphs (i) to (iv)[^c-fbdda80300b671d8d3b8ba660f79920e] anywhere in the world, and
 - (b) an assignor other than is mentioned in paragraph (a) becomes insolvent when—
   - (i) a decision approving a voluntary arrangement entered into by the assignor has effect under section 4A of the Insolvency Act 1986 (the “**1986 Act**”),
   - (ii) the assignor is wound up under Part 4 or 5 of the 1986 Act or under section 367 of the Financial Services and Markets Act 2000,
@@ -68,14 +68,14 @@ summary: ''
 
 ## Annotations
 
-[^key-e9e21d278377fc0fb821c9816e5b46d4]: Commencement: S. 4 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
+[^c-e9e21d278377fc0fb821c9816e5b46d4]: Commencement: S. 4 not in force at Royal Assent, see [s. 121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2)
 
-[^key-3fd515ca707e92468cc29cf2eeda3c41]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/3/section/4) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-3fd515ca707e92468cc29cf2eeda3c41]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2023/3/section/4) in force at 1.4.2025 by [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
-[^key-d70f3958abcd6e5960edc40090b4f363]: Modification: Pt. 1 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/275/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/275/article/4), [20](https://www.legislation.gov.uk/uksi/2025/275/article/20))
+[^c-d70f3958abcd6e5960edc40090b4f363]: Modification: Pt. 1 extended (with modifications) (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 (Financial Collateral Arrangements and Financial Instruments) (Consequential Provisions and Modifications) Order 2025 (S.I. 2025/275)](https://www.legislation.gov.uk/uksi/2025/275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/275/article/1/2), [3](https://www.legislation.gov.uk/uksi/2025/275/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2025/275/article/4), [20](https://www.legislation.gov.uk/uksi/2025/275/article/20))
 
-[^key-95e1191ad23a84c3b97fa1b805c06ff1]: Textual amendment: Word in s. 4(6)(a) inserted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 Amendment Regulations 2025 (S.S.I. 2025/104)](https://www.legislation.gov.uk/ssi/2025/104), [regs. 1](https://www.legislation.gov.uk/ssi/2025/104/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/104/regulation/2/2/a)
+[^c-95e1191ad23a84c3b97fa1b805c06ff1]: Textual amendment: Word in s. 4(6)(a) inserted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 Amendment Regulations 2025 (S.S.I. 2025/104)](https://www.legislation.gov.uk/ssi/2025/104), [regs. 1](https://www.legislation.gov.uk/ssi/2025/104/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2025/104/regulation/2/2/a)
 
-[^key-33c434313deeea46cd52603a6c4ea035]: Textual amendment: S. 4(6)(a)(v) repealed (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 Amendment Regulations 2025 (S.S.I. 2025/104)](https://www.legislation.gov.uk/ssi/2025/104), [regs. 1](https://www.legislation.gov.uk/ssi/2025/104/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/104/regulation/2/2/b)
+[^c-33c434313deeea46cd52603a6c4ea035]: Textual amendment: S. 4(6)(a)(v) repealed (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 Amendment Regulations 2025 (S.S.I. 2025/104)](https://www.legislation.gov.uk/ssi/2025/104), [regs. 1](https://www.legislation.gov.uk/ssi/2025/104/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2025/104/regulation/2/2/b)
 
-[^key-fbdda80300b671d8d3b8ba660f79920e]: Textual amendment: Word in s. 4(6)(a)(vi) substituted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 Amendment Regulations 2025 (S.S.I. 2025/104)](https://www.legislation.gov.uk/ssi/2025/104), [regs. 1](https://www.legislation.gov.uk/ssi/2025/104/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2025/104/regulation/2/2/c)
+[^c-fbdda80300b671d8d3b8ba660f79920e]: Textual amendment: Word in s. 4(6)(a)(vi) substituted (1.4.2025) by [The Moveable Transactions (Scotland) Act 2023 Amendment Regulations 2025 (S.S.I. 2025/104)](https://www.legislation.gov.uk/ssi/2025/104), [regs. 1](https://www.legislation.gov.uk/ssi/2025/104/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/ssi/2025/104/regulation/2/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Bribery[^key-2ea116ef388f31478ae4f018f20676db]
+## 75. Bribery[^c-2ea116ef388f31478ae4f018f20676db]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ or if upon or in consequence of any such gift or procurement as mentioned above 
 
 ## Annotations
 
-[^key-2ea116ef388f31478ae4f018f20676db]: Commencement: Art. 75 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-2ea116ef388f31478ae4f018f20676db]: Commencement: Art. 75 in force at 16.12.2015 in accordance with art. 1(1)

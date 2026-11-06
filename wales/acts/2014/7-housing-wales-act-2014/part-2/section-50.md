@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Duty to carry out a homelessness review and formulate a homelessness strategy[^key-2ee9f86173efea04d552f9fbed54f8eb][^key-ac2979bdadba3828d16859b31327c9b1]
+## 50. Duty to carry out a homelessness review and formulate a homelessness strategy[^c-2ee9f86173efea04d552f9fbed54f8eb][^c-ac2979bdadba3828d16859b31327c9b1]
 
 *Extent: E+W*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2ee9f86173efea04d552f9fbed54f8eb]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2014/7/section/50) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-2ee9f86173efea04d552f9fbed54f8eb]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2014/7/section/50) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-ac2979bdadba3828d16859b31327c9b1]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2014/7/section/50) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 1](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/1)
+[^c-ac2979bdadba3828d16859b31327c9b1]: Commencement: [S. 50](https://www.legislation.gov.uk/anaw/2014/7/section/50) in force at 27.4.2015 in so far as not already in force by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 1](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/1)

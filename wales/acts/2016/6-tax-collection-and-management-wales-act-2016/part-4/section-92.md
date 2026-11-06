@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Power to obtain information to enable a person's identity to be ascertained[^key-07bd06b19ebb5370e7ee83a4f1cbe717]
+## 92. Power to obtain information to enable a person's identity to be ascertained[^c-07bd06b19ebb5370e7ee83a4f1cbe717]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-07bd06b19ebb5370e7ee83a4f1cbe717]: Commencement: S. 92 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-07bd06b19ebb5370e7ee83a4f1cbe717]: Commencement: S. 92 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

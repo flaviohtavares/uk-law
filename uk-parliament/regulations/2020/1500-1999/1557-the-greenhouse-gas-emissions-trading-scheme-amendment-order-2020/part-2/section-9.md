@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Article 14 amended (meaning of UK ETS authority, etc.)[^key-8ddfccc4fcb473aa2f034cb1ca2eb885]
+## 9. Article 14 amended (meaning of UK ETS authority, etc.)[^c-8ddfccc4fcb473aa2f034cb1ca2eb885]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ddfccc4fcb473aa2f034cb1ca2eb885]: Commencement: Art. 9 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-8ddfccc4fcb473aa2f034cb1ca2eb885]: Commencement: Art. 9 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

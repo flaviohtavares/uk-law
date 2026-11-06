@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Supplying imitation firearms to minors[^key-6b8236a1fb792c77b22043011adc63c9]
+## 40. Supplying imitation firearms to minors[^c-6b8236a1fb792c77b22043011adc63c9]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b8236a1fb792c77b22043011adc63c9]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/38/section/40) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/i)
+[^c-6b8236a1fb792c77b22043011adc63c9]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2006/38/section/40) in force at 1.10.2007 by [S.I. 2007/2180](https://www.legislation.gov.uk/uksi/2007/2180), [art. 3(i)](https://www.legislation.gov.uk/uksi/2007/2180/article/3/i)

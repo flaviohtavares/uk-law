@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Separations[^key-51a9df6e14423dcd0892dcb3812e15d2]
+## 170. Separations[^c-51a9df6e14423dcd0892dcb3812e15d2]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ After section 56A of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-51a9df6e14423dcd0892dcb3812e15d2]: Commencement: S. 170 in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-51a9df6e14423dcd0892dcb3812e15d2]: Commencement: S. 170 in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Meaning of “school care accommodation service”[^key-455b6d90535adf106a51ba6b0b70e23d]
+## 82. Meaning of “school care accommodation service”[^c-455b6d90535adf106a51ba6b0b70e23d]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-455b6d90535adf106a51ba6b0b70e23d]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2007/14/section/82) in force at 1.9.2007 by [S.S.I. 2007/385](https://www.legislation.gov.uk/ssi/2007/385), [art. 2](https://www.legislation.gov.uk/ssi/2007/385/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/385/schedule)
+[^c-455b6d90535adf106a51ba6b0b70e23d]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2007/14/section/82) in force at 1.9.2007 by [S.S.I. 2007/385](https://www.legislation.gov.uk/ssi/2007/385), [art. 2](https://www.legislation.gov.uk/ssi/2007/385/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/385/schedule)

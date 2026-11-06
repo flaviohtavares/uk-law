@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46A. Provision of communication equipment[^key-0edd8288e31fdce48b36b137a14ef342]
+## 46A. Provision of communication equipment[^c-0edd8288e31fdce48b36b137a14ef342]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ to any person who has lost their voice or has difficulty speaking.
 
 ## Annotations
 
-[^key-0edd8288e31fdce48b36b137a14ef342]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1978/29/section/46A) inserted (19.3.2018) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 33](https://www.legislation.gov.uk/asp/2016/14/section/33), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2018/26](https://www.legislation.gov.uk/ssi/2018/26), [reg. 2](https://www.legislation.gov.uk/ssi/2018/26/regulation/2)
+[^c-0edd8288e31fdce48b36b137a14ef342]: Textual amendment: [S. 46A](https://www.legislation.gov.uk/ukpga/1978/29/section/46A) inserted (19.3.2018) by [Health (Tobacco, Nicotine etc. and Care) (Scotland) Act 2016 (asp 14)](https://www.legislation.gov.uk/asp/2016/14), [ss. 33](https://www.legislation.gov.uk/asp/2016/14/section/33), [36(2)](https://www.legislation.gov.uk/asp/2016/14/section/36/2); [S.S.I. 2018/26](https://www.legislation.gov.uk/ssi/2018/26), [reg. 2](https://www.legislation.gov.uk/ssi/2018/26/regulation/2)

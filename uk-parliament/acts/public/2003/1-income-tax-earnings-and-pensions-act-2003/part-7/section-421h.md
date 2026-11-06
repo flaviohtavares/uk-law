@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 421H. Meaning of “employee-controlled” etc[^key-aa5abf133d2e4ea34ba8c7177f26f095]
+## 421H. Meaning of “employee-controlled” etc[^c-aa5abf133d2e4ea34ba8c7177f26f095]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,10 +27,10 @@ summary: ''
 
 In this subsection “**employee**” includes a person who is to be or has been an employee.
 
-(2) In this section and Chapters 2 to 4 “**associated company**” has the meaning given by section 449 of CTA 2010[^key-b783f117e59e296df5f2e4d26c2e8120].
+(2) In this section and Chapters 2 to 4 “**associated company**” has the meaning given by section 449 of CTA 2010[^c-b783f117e59e296df5f2e4d26c2e8120].
 
 ## Annotations
 
-[^key-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
+[^c-aa5abf133d2e4ea34ba8c7177f26f095]: Textual amendment: Pt. 7 Ch. 1 substituted (with effect in accordance with Sch. 22 para. 2(2) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 2(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/2/1)
 
-[^key-b783f117e59e296df5f2e4d26c2e8120]: Textual amendment: Words in s. 421H(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 386](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/386) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-b783f117e59e296df5f2e4d26c2e8120]: Textual amendment: Words in s. 421H(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 386](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/386) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

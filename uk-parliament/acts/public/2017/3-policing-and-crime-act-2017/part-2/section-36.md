@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Powers of inspectors to obtain information, access to police premises etc[^c22718691][^key-bcfdad0fad12f7aa51b0e686c3b5da3b]
+## 36. Powers of inspectors to obtain information, access to police premises etc[^c22718691][^c-bcfdad0fad12f7aa51b0e686c3b5da3b]
 
 *Extent: E+W*
 
@@ -192,4 +192,4 @@ summary: ''
 
 [^c22718691]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/3/section/36) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-bcfdad0fad12f7aa51b0e686c3b5da3b]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/3/section/36) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/a)
+[^c-bcfdad0fad12f7aa51b0e686c3b5da3b]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2017/3/section/36) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/a)

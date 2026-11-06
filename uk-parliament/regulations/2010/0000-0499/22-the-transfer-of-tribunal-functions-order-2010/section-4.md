@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Persons becoming judges and other members of the First-tier Tribunal and the Upper Tribunal[^key-2ed44af8c65047fdd088d5b20e9af59d]
+## 4. Persons becoming judges and other members of the First-tier Tribunal and the Upper Tribunal[^c-2ed44af8c65047fdd088d5b20e9af59d]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ A person who, immediately before this Order comes into force, holds an office li
 
 ## Annotations
 
-[^key-2ed44af8c65047fdd088d5b20e9af59d]: Commencement: Art. 4 in force at 18.1.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1)
+[^c-2ed44af8c65047fdd088d5b20e9af59d]: Commencement: Art. 4 in force at 18.1.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1)

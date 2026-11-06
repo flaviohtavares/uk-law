@@ -67,23 +67,23 @@ These Regulations may be cited as the Dangerous Substances and Explosive Atmosph
 
 In these Regulations—
 
-- [^key-55a580f491aa1bd2ae2a4a38aabb8bd0]...
-- [^key-817d146a0d7d6dfc11ea23a6b2cfc612]...
-- “the CLP Regulation” means Regulation of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives and[^key-cbb84f4ca0b251f97a60ee323414df9a] [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and amending Regulation EC (No) 1907/2006, of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
-- “dangerous substance” means—[^key-4bfb478c8e33ba49688a0dd6841a5529]
-  - (a) a substance or mixture which meets the criteria for classification as hazardous within any physical hazard class as provided for[^key-5c3a98146e0e17688e571e2dff57eb17] in the CLP Regulation, whether or not the substance is classified under that Regulation;
+- [^c-55a580f491aa1bd2ae2a4a38aabb8bd0]...
+- [^c-817d146a0d7d6dfc11ea23a6b2cfc612]...
+- “the CLP Regulation” means Regulation of the European Parliament and of the Council of 16 December 2008 on classification, labelling and packaging of substances and mixtures, amending and repealing Directives and[^c-cbb84f4ca0b251f97a60ee323414df9a] [1999/45/EC](https://www.legislation.gov.uk/eudr/1999/45) and amending Regulation EC (No) 1907/2006, of which Articles 6(5), 11(3), 12, 14, 18(3)(b), 23, 25 to 29, 35(2) second and third sub-paragraphs and Annexes I to VII are to be read as amended from time to time;
+- “dangerous substance” means—[^c-4bfb478c8e33ba49688a0dd6841a5529]
+  - (a) a substance or mixture which meets the criteria for classification as hazardous within any physical hazard class as provided for[^c-5c3a98146e0e17688e571e2dff57eb17] in the CLP Regulation, whether or not the substance is classified under that Regulation;
   - (b) a substance or mixture which because of its physico-chemical or chemical properties and the way it is used or is present in the workplace creates a risk, not being a substance or mixture falling within subparagraph (a) above; or
   - (c) any dust, whether in the form of solid particles of fibrous materials or otherwise, which can form an explosive mixture with air or an explosive atmosphere, not being a substance or mixture falling within subparagraphs (a) or (b) above;
 - “explosive atmosphere” means a mixture, under atmospheric conditions, of air and one or more dangerous substances in the form of gases, vapours, mists or dusts in which, after ignition has occurred, combustion spreads to the entire unburned mixture;
-- “hazard” means the physico-chemical or chemical property of a dangerous substance which has the potential to—[^key-59170960e6f1b7c1501450546bbb833f]
+- “hazard” means the physico-chemical or chemical property of a dangerous substance which has the potential to—[^c-59170960e6f1b7c1501450546bbb833f]
   - (a) give rise to a fire, explosion or other events which can result in harmful physical effects of a kind similar to those which can be caused by fire or explosion; or
   - (b) be corrosive to metals,
 
   affecting the safety of a person, and references in these Regulations to “hazardous” is to be construed accordingly;;
-- “mixture” means a mixture or solution composed of two or more substances;[^key-04d2eb233e8167a9638a971fc7cc56cc]
+- “mixture” means a mixture or solution composed of two or more substances;[^c-04d2eb233e8167a9638a971fc7cc56cc]
 - “offshore installation” has the same meaning as it is given by regulation 3 of the Offshore Installations and Pipeline Works (Management and Administration) Regulations 1995 [^c9630731] insofar as that regulation extends to mineral extracting industries within the scope of Article 2(a) of Council Directive [92/91/EEC](https://www.legislation.gov.uk/eudr/1992/91) concerning the minimum requirements for improving the safety and health protection of workers in the mineral-extracting industries through drilling [^c9630741];
 - “personal protective equipment” means all equipment which is intended to be worn or held by a person at work and which protects that person against one or more risks to his safety, and any addition or accessory designed to meet that objective;
-- [^key-98c2ca48054c5097267e717cb2e7bf80]...
+- [^c-98c2ca48054c5097267e717cb2e7bf80]...
 - “public road” means (in England and Wales) a highway maintainable at public expense within the meaning of section 329 of the Highways Act 1980 [^c9630751] and (in Scotland) a public road within the meaning assigned to that term by section 151 of the Roads (Scotland) Act 1984 [^c9630761];
 - “risk” means the likelihood of a person’s safety being affected by harmful physical effects being caused to him from fire, explosion or other events arising from the hazardous properties of a dangerous substance in connection with work and also the extent of that harm;
 - “risk assessment” means the assessment of risks required by regulation 5(1);
@@ -127,7 +127,7 @@ In these Regulations—
   including forced draught burners and heating bodies to be equipped with such burners but not including an appliance specifically designed for use in an industrial process carried out on industrial premises;
 - (c) gas fittings within the meaning of the Gas Safety (Installation and Use) Regulations 1998 [^c9630771] located in domestic premises, not being gas appliances falling within subparagraph (b);
 - (d) the manufacture, handling, use, storage and transport of explosives or chemically unstable substances;
-- (e)[^key-b52e723778b2e26d75b515c1fdabed2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-b52e723778b2e26d75b515c1fdabed2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) any activity at a quarry within the meaning of regulation 3 of the Quarries Regulations 1999 [^c9630791] carried out for the purposes of the quarry;
 - (g) any activity at a borehole site within the meaning of regulation 2(1) of the Borehole Sites and Operations Regulations 1995 [^c9630801] carried out for the purposes of the borehole site;
 - (h) any activity at an offshore installation carried out for the purposes of the offshore installation; and
@@ -358,9 +358,9 @@ from all or any of the requirements or prohibitions imposed by these Regulations
 
 (3) If, after 30th June 2003, any modification, extension or restructuring is undertaken in workplaces containing places where explosive atmospheres may occur, the employer shall take the necessary steps to ensure that the modification, extension or restructuring complies with the requirements of regulations 7 and 11 and the employer’s duties under those regulations and in respect of such a modification, extension or restructuring shall apply accordingly.
 
-(4)[^key-acf044623bb31c5b96535d239be13d3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-acf044623bb31c5b96535d239be13d3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-d97f884bf3b539389f51e27fe962f09a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d97f884bf3b539389f51e27fe962f09a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by order of the Secretary of State
 
@@ -450,7 +450,7 @@ Layers, deposits and heaps of combustible dust must be considered as any other s
 
 Regulation 7(2)
 
-**1.** Equipment and protective systems for all places in which explosive atmospheres may occur must be selected on the basis of the requirements set out in the Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016[^key-135ef969e4033a14f3dcb209ae6b101e] unless the risk assessment finds otherwise.
+**1.** Equipment and protective systems for all places in which explosive atmospheres may occur must be selected on the basis of the requirements set out in the Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016[^c-135ef969e4033a14f3dcb209ae6b101e] unless the risk assessment finds otherwise.
 
 **2.** In particular, the following categories of equipment must be used in the zones indicated, provided they are suitable for gases, vapours, mists, dusts or mists and dusts, as appropriate:
 
@@ -483,12 +483,12 @@ Distinctive features:
 
 Regulation 10
 
-- [^key-d8f7c5403a994e18ee648e12216de634]...[^key-19a6d29400c0d9b2f9cb716860d8aa64]
+- [^c-d8f7c5403a994e18ee648e12216de634]...[^c-19a6d29400c0d9b2f9cb716860d8aa64]
 - The Health and Safety (Safety Signs and Signals) Regulations 1996 ([S.I. 1996/341](https://www.legislation.gov.uk/uksi/1996/341));
 - The Good Laboratory Practice Regulations 1999 ([S.I. 1999/3106](https://www.legislation.gov.uk/uksi/1999/3106));
-- [^key-d909b30174cc2696b2c4ee642670dbe1]...
-- the CLP Regulation[^key-0999046a77bb9c5382728e9b4136d9d1]; and
-- The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 ([^key-bb56ac9ed00ccd8174523fa06052fea1][S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348)).
+- [^c-d909b30174cc2696b2c4ee642670dbe1]...
+- the CLP Regulation[^c-0999046a77bb9c5382728e9b4136d9d1]; and
+- The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 ([^c-bb56ac9ed00ccd8174523fa06052fea1][S.I. 2009/1348](https://www.legislation.gov.uk/uksi/2009/1348)).
 
 ## SCHEDULE 6 — AMENDMENTS
 
@@ -504,15 +504,15 @@ Regulation 15
 
 .
 
-**2.**[^key-0e5ae368a7f832cf122ed3ac67e1f564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0e5ae368a7f832cf122ed3ac67e1f564] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2b5764c4fab080613ea8333911445d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2b5764c4fab080613ea8333911445d7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1b71b4f3aa31b811bd41d5bfca782ccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1b71b4f3aa31b811bd41d5bfca782ccf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8d2d9d6982855bf74b57e609052b75a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8d2d9d6982855bf74b57e609052b75a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-9b453b86c6fc78be10725f458ad3274c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9b453b86c6fc78be10725f458ad3274c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** The Dangerous Substances in Harbour Areas Regulations 1987 [^c9631071] are amended by the omission of “the Petroleum (Carbide of Calcium) Order 1929” in regulation 29 (application of Part VIII—storage of dangerous substances).
 
@@ -566,7 +566,7 @@ Regulation 15
 | *Column 1* | *Column 2* | *Column 3* |
 | --- | --- | --- |
 | *Title* | *Reference* | *Extent of repeal or revocation* |
-| [^key-46ff65687e010cb0a86dd66060d377db]. . . | [^key-46ff65687e010cb0a86dd66060d377db]. . . | [^key-46ff65687e010cb0a86dd66060d377db]. . . |
+| [^c-46ff65687e010cb0a86dd66060d377db]. . . | [^c-46ff65687e010cb0a86dd66060d377db]. . . | [^c-46ff65687e010cb0a86dd66060d377db]. . . |
 | The Celluloid, etc. Factories, and Workshops Regulations 1921 | S.R. & O. 1921/1825 | The whole Regulations. |
 | The Manufacture of Cinematograph Film Regulations 1928 | S.R. & O. 1928/82 | The whole Regulations. |
 | The Petroleum (Carbide of Calcium) Order 1929 | S.R. & O. 1929/992 | The whole Order. |
@@ -627,25 +627,25 @@ Regulation 15
 
 [^c9630701]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); [section 15(1)](https://www.legislation.gov.uk/uksi/2002/2776/section/15/1), [50(3)](https://www.legislation.gov.uk/uksi/2002/2776/section/50/3) and 52 were amended by the [Employment Protection Act 1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71), [Schedule 15](https://www.legislation.gov.uk/ukpga/1975/71/schedule/15), [paragraphs 6](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/6), [16(3)](https://www.legislation.gov.uk/ukpga/1975/71/paragraph/16/3) and 17 respectively; [section 51A](https://www.legislation.gov.uk/uksi/2002/2776/section/51A) was added and section 52 was amended by the [Police (Health and Safety) Act 1997 (c. 42)](https://www.legislation.gov.uk/ukpga/1997/42), [sections 1](https://www.legislation.gov.uk/ukpga/1997/42/section/1) and 2 respectively; the general purposes of Part 1 of the 1974 Act were extended by the [Offshore Safety Act 1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15), [section 1(1)](https://www.legislation.gov.uk/ukpga/1992/15/section/1/1).
 
-[^key-55a580f491aa1bd2ae2a4a38aabb8bd0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/a)
+[^c-55a580f491aa1bd2ae2a4a38aabb8bd0]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/a)
 
-[^key-817d146a0d7d6dfc11ea23a6b2cfc612]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/b)
+[^c-817d146a0d7d6dfc11ea23a6b2cfc612]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/b)
 
-[^key-cbb84f4ca0b251f97a60ee323414df9a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/c)
+[^c-cbb84f4ca0b251f97a60ee323414df9a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(c)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/c)
 
-[^key-4bfb478c8e33ba49688a0dd6841a5529]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(d)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/d)
+[^c-4bfb478c8e33ba49688a0dd6841a5529]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(d)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/d)
 
-[^key-5c3a98146e0e17688e571e2dff57eb17]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/720/schedule/1/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c3a98146e0e17688e571e2dff57eb17]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) substituted (31.12.2020) by [The Chemicals (Health and Safety) and Genetically Modified Organisms (Contained Use) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/720)](https://www.legislation.gov.uk/uksi/2019/720), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/720/regulation/1/2), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/uksi/2019/720/schedule/1/paragraph/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59170960e6f1b7c1501450546bbb833f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(e)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/e)
+[^c-59170960e6f1b7c1501450546bbb833f]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(e)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/e)
 
-[^key-04d2eb233e8167a9638a971fc7cc56cc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(f)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/f)
+[^c-04d2eb233e8167a9638a971fc7cc56cc]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) inserted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(f)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/f)
 
 [^c9630731]: Marginal citation: [S.I. 1995/738](https://www.legislation.gov.uk/uksi/1995/738).
 
 [^c9630741]: Marginal citation: OJ No. L348, 28.11.92, p. 9.
 
-[^key-98c2ca48054c5097267e717cb2e7bf80]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(g)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/g)
+[^c-98c2ca48054c5097267e717cb2e7bf80]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2002/2776/regulation/2) omitted (1.6.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(2)(g)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/2/g)
 
 [^c9630751]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 
@@ -655,7 +655,7 @@ Regulation 15
 
 [^c9630771]: Marginal citation: [S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
 
-[^key-b52e723778b2e26d75b515c1fdabed2f]: Textual amendment: [Reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2002/2776/regulation/3/2/e) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-b52e723778b2e26d75b515c1fdabed2f]: Textual amendment: [Reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2002/2776/regulation/3/2/e) revoked (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3248/schedule/4/part/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c9630791]: Marginal citation: [S.I. 1999/2024](https://www.legislation.gov.uk/uksi/1999/2024).
 
@@ -675,37 +675,37 @@ Regulation 15
 
 [^c9630871]: Marginal citation: [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736).
 
-[^key-acf044623bb31c5b96535d239be13d3b]: Textual amendment: [Reg. 17(4)](https://www.legislation.gov.uk/uksi/2002/2776/regulation/17/4) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-acf044623bb31c5b96535d239be13d3b]: Textual amendment: [Reg. 17(4)](https://www.legislation.gov.uk/uksi/2002/2776/regulation/17/4) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
-[^key-d97f884bf3b539389f51e27fe962f09a]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/uksi/2002/2776/regulation/17/5) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [regs. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1), [24](https://www.legislation.gov.uk/uksi/2014/1637/regulation/24))
+[^c-d97f884bf3b539389f51e27fe962f09a]: Textual amendment: [Reg. 17(5)](https://www.legislation.gov.uk/uksi/2002/2776/regulation/17/5) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [regs. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1), [24](https://www.legislation.gov.uk/uksi/2014/1637/regulation/24))
 
 [^c9630891]: Marginal citation: OJ No. L 23, 28.1.00, p. 57.
 
-[^key-135ef969e4033a14f3dcb209ae6b101e]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2002/2776/schedule/3/paragraph/1) substituted (8.12.2016) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016 (S.I. 2016/1107)](https://www.legislation.gov.uk/uksi/2016/1107), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1), [74(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/74/1) (with [reg. 74(2)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/74/2))
+[^c-135ef969e4033a14f3dcb209ae6b101e]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2002/2776/schedule/3/paragraph/1) substituted (8.12.2016) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres Regulations 2016 (S.I. 2016/1107)](https://www.legislation.gov.uk/uksi/2016/1107), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1), [74(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/74/1) (with [reg. 74(2)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/74/2))
 
-[^key-d8f7c5403a994e18ee648e12216de634]: Textual amendment: Words in Sch. 5 omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/6)
+[^c-d8f7c5403a994e18ee648e12216de634]: Textual amendment: Words in Sch. 5 omitted (24.10.2011) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment (Amendment) Regulations 2011 (S.I. 2011/1885)](https://www.legislation.gov.uk/uksi/2011/1885), [reg. 1](https://www.legislation.gov.uk/uksi/2011/1885/regulation/1), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2011/1885/schedule/paragraph/6)
 
-[^key-19a6d29400c0d9b2f9cb716860d8aa64]: Textual amendment: Words in Sch. 5 substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 15](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/15)
+[^c-19a6d29400c0d9b2f9cb716860d8aa64]: Textual amendment: Words in Sch. 5 substituted (10.5.2004) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2004 (S.I. 2004/568)](https://www.legislation.gov.uk/uksi/2004/568), [reg. 1](https://www.legislation.gov.uk/uksi/2004/568/regulation/1), [Sch. 13 para. 15](https://www.legislation.gov.uk/uksi/2004/568/schedule/13/paragraph/15)
 
-[^key-d909b30174cc2696b2c4ee642670dbe1]: Textual amendment: Words in Sch. 5 omitted (1.7.2007) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [94](https://www.legislation.gov.uk/uksi/2007/1573/regulation/94), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
+[^c-d909b30174cc2696b2c4ee642670dbe1]: Textual amendment: Words in Sch. 5 omitted (1.7.2007) by virtue of [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2007 (S.I. 2007/1573)](https://www.legislation.gov.uk/uksi/2007/1573), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1573/regulation/1), [94](https://www.legislation.gov.uk/uksi/2007/1573/regulation/94), [Sch. 8](https://www.legislation.gov.uk/uksi/2007/1573/schedule/8)
 
-[^key-0999046a77bb9c5382728e9b4136d9d1]: Textual amendment: Words in Sch. 5 substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(3)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/3/a)
+[^c-0999046a77bb9c5382728e9b4136d9d1]: Textual amendment: Words in Sch. 5 substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(3)(a)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/3/a)
 
-[^key-bb56ac9ed00ccd8174523fa06052fea1]: Textual amendment: Words in Sch. 5 substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(3)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/3/b)
+[^c-bb56ac9ed00ccd8174523fa06052fea1]: Textual amendment: Words in Sch. 5 substituted (1.6.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendments to Secondary Legislation) Regulations 2015 (S.I. 2015/21)](https://www.legislation.gov.uk/uksi/2015/21), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2015/21/regulation/1/3), [13(3)(b)](https://www.legislation.gov.uk/uksi/2015/21/regulation/13/3/b)
 
 [^c9630921]: Marginal citation: [1922 c. 35](https://www.legislation.gov.uk/ukpga/1922/35). Section 2 is amended by the [Cinemas Act 1985 (c. 13)](https://www.legislation.gov.uk/ukpga/1985/13), [section 24(1)](https://www.legislation.gov.uk/ukpga/1985/13/section/24/1) and Schedule 2, paragraph 1 and [S.I. 1992/1811](https://www.legislation.gov.uk/uksi/1992/1811).
 
 [^c9630931]: Marginal citation: [S.I. 1997/1840](https://www.legislation.gov.uk/uksi/1997/1840), amended by [S.I. 1999/1877](https://www.legislation.gov.uk/uksi/1999/1877) and 1999/3242.
 
-[^key-0e5ae368a7f832cf122ed3ac67e1f564]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/2) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-0e5ae368a7f832cf122ed3ac67e1f564]: Textual amendment: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/2) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
-[^key-2b5764c4fab080613ea8333911445d7e]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/3) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-2b5764c4fab080613ea8333911445d7e]: Textual amendment: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/3) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
-[^key-1b71b4f3aa31b811bd41d5bfca782ccf]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/4) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-1b71b4f3aa31b811bd41d5bfca782ccf]: Textual amendment: [Sch. 6 para. 4](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/4) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
-[^key-8d2d9d6982855bf74b57e609052b75a0]: Textual amendment: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/5) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-8d2d9d6982855bf74b57e609052b75a0]: Textual amendment: [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/5) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
-[^key-9b453b86c6fc78be10725f458ad3274c]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/6) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-9b453b86c6fc78be10725f458ad3274c]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/uksi/2002/2776/schedule/6/paragraph/6) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
 [^c9631071]: Marginal citation: [S.I. 1987/37](https://www.legislation.gov.uk/uksi/1987/37), amended by [S.I. 1993/1746](https://www.legislation.gov.uk/uksi/1993/1746), 1994/669, 1994/3247, 1996/2092, 1996/2095, 1997/2367, 1998/2885 and 1999/2029.
 
@@ -723,6 +723,6 @@ Regulation 15
 
 [^c9631141]: Marginal citation: [1928 c. 32](https://www.legislation.gov.uk/ukpga/1928/32).
 
-[^key-46ff65687e010cb0a86dd66060d377db]: Textual amendment: Words in [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2776/schedule/7/part/1) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-46ff65687e010cb0a86dd66060d377db]: Textual amendment: Words in [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2776/schedule/7/part/1) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
 [^c9631151]: Marginal citation: [Regulations 48 to 52](https://www.legislation.gov.uk/uksi/2002/2776/regulation/48) and 54 were revoked by [S.I. 1997/1713](https://www.legislation.gov.uk/uksi/1997/1713), [regulation 9(2)](https://www.legislation.gov.uk/uksi/1997/1713/regulation/9/2) and the Schedule, save insofar as they applied to the matters referred to in regulation 2(a) to (c) of [S.I. 1997/1713](https://www.legislation.gov.uk/uksi/1997/1713).

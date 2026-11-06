@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Breach of planning control[^key-b2e3b3607a2ece0d02fe77df35bb81b0]
+## 9. Breach of planning control[^c-b2e3b3607a2ece0d02fe77df35bb81b0]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2e3b3607a2ece0d02fe77df35bb81b0]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/22/section/9) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-b2e3b3607a2ece0d02fe77df35bb81b0]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2016/22/section/9) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

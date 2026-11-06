@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Prohibition on providing other energy-related services[^key-5a125cfbafb0d0b438ba939653743bcb]
+## 46. Prohibition on providing other energy-related services[^c-5a125cfbafb0d0b438ba939653743bcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ summary: ''
 
 (4) In this regulation—
 
-- “[^key-dc366b5732fbb46c24f7d30036edf76f]**relevant energy services**” means specified services necessary for an oil or gas exploration or production project in Russia;
-- [^key-843cc22e58898d7fe5f3ac221486831d]...
+- “[^c-dc366b5732fbb46c24f7d30036edf76f]**relevant energy services**” means specified services necessary for an oil or gas exploration or production project in Russia;
+- [^c-843cc22e58898d7fe5f3ac221486831d]...
 - “**specified services**” means any of the following—
   - (a) drilling;
   - (b) well testing;
@@ -38,8 +38,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5a125cfbafb0d0b438ba939653743bcb]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-5a125cfbafb0d0b438ba939653743bcb]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-dc366b5732fbb46c24f7d30036edf76f]: Textual amendment: Words in [reg. 46(4)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46/4) substituted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2022/850/regulation/10/a)
+[^c-dc366b5732fbb46c24f7d30036edf76f]: Textual amendment: Words in [reg. 46(4)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46/4) substituted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2022/850/regulation/10/a)
 
-[^key-843cc22e58898d7fe5f3ac221486831d]: Textual amendment: Words in [reg. 46(4)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46/4) omitted (21.7.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2022/850/regulation/10/b)
+[^c-843cc22e58898d7fe5f3ac221486831d]: Textual amendment: Words in [reg. 46(4)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46/4) omitted (21.7.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2022/850/regulation/10/b)

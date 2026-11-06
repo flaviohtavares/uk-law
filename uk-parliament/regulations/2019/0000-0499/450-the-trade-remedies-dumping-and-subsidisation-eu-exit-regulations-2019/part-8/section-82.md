@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Undertakings ceasing to apply[^key-bcde9eef845818dfd13e03d07fdde9f3]
+## 82. Undertakings ceasing to apply[^c-bcde9eef845818dfd13e03d07fdde9f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcde9eef845818dfd13e03d07fdde9f3]: Commencement: Reg. 82 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-bcde9eef845818dfd13e03d07fdde9f3]: Commencement: Reg. 82 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

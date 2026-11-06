@@ -26,7 +26,7 @@ summary: ''
 - (b) work for which the total earnings in any week does not exceed 16 multiplied by the National Minimum Wage, subject to paragraph (4), and which—
   - (i) is part of the claimant's treatment programme and is done under medical supervision while the claimant is an in-patient, or is regularly attending as an out-patient, of a hospital or similar institution; or
   - (ii) is supervised by a person employed by a public or local authority or by a voluntary organisation or community interest company engaged in the provision or procurement of work for persons who have disabilities;
-- (c) work which is done for less than 16 hours a week, for which total earnings in any week does not exceed 16 multiplied by the National Minimum Wage, subject to paragraph (4)[^key-d6c1058396b095e55b0afc45b452256b]...;
+- (c) work which is done for less than 16 hours a week, for which total earnings in any week does not exceed 16 multiplied by the National Minimum Wage, subject to paragraph (4)[^c-d6c1058396b095e55b0afc45b452256b]...;
 - (d) work done in the course of receiving assistance in pursuing self-employed earner's employment whilst participating in a programme provided, or in other arrangements made, under section 2 of the Employment and Training Act 1973 (functions of the Secretary of State) or section 2 of the Enterprise and New Towns (Scotland) Act 1990 (functions in relation to training for employment etc);
 - (e) work done where the claimant receives no payment of earnings and where the claimant is—
   - (i) engaged by a charity or voluntary organisation; or
@@ -53,19 +53,19 @@ summary: ''
 
 (6) In this regulation—
 
-- [^key-79a56bc82902c78910314ac5af8fdb23]...
+- [^c-79a56bc82902c78910314ac5af8fdb23]...
 - “**volunteer**” means a person who is engaged in voluntary work otherwise than for a relative, where the only payment received or due to be paid to the person by virtue of being so engaged is in respect of any expenses reasonably incurred by the person in connection with that work;
-- [^key-79a56bc82902c78910314ac5af8fdb23]...
+- [^c-79a56bc82902c78910314ac5af8fdb23]...
 - “**work placement**” means practical work experience with an employer, which is neither paid nor undertaken in expectation of payment.
 
-(7)[^key-358745fad75e10567963b6a0368ebf00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-358745fad75e10567963b6a0368ebf00] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d6c1058396b095e55b0afc45b452256b]: Textual amendment: Words in reg. 39(1)(c) omitted (3.4.2017) by virtue of [The Employment and Support Allowance (Exempt Work Hardship Amounts) (Amendment) Regulations 2017 (S.I. 2017/205)](https://www.legislation.gov.uk/uksi/2017/205), [regs. 1](https://www.legislation.gov.uk/uksi/2017/205/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/205/regulation/4/a)
+[^c-d6c1058396b095e55b0afc45b452256b]: Textual amendment: Words in reg. 39(1)(c) omitted (3.4.2017) by virtue of [The Employment and Support Allowance (Exempt Work Hardship Amounts) (Amendment) Regulations 2017 (S.I. 2017/205)](https://www.legislation.gov.uk/uksi/2017/205), [regs. 1](https://www.legislation.gov.uk/uksi/2017/205/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2017/205/regulation/4/a)
 
 [^c21661251]: Marginal citation: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14). Section 10 was amended by paragraph 23 of Schedule 7 to the [Social Security Contributions (Transfer of Functions, etc) Act 1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2) and paragraph 4 of Schedule 12, and Schedule 14, to the Welfare Reform Act 2012 and [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
-[^key-79a56bc82902c78910314ac5af8fdb23]: Textual amendment: Words in reg. 39(6) omitted (3.4.2017) by virtue of [The Employment and Support Allowance (Exempt Work Hardship Amounts) (Amendment) Regulations 2017 (S.I. 2017/205)](https://www.legislation.gov.uk/uksi/2017/205), [regs. 1](https://www.legislation.gov.uk/uksi/2017/205/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/205/regulation/4/b)
+[^c-79a56bc82902c78910314ac5af8fdb23]: Textual amendment: Words in reg. 39(6) omitted (3.4.2017) by virtue of [The Employment and Support Allowance (Exempt Work Hardship Amounts) (Amendment) Regulations 2017 (S.I. 2017/205)](https://www.legislation.gov.uk/uksi/2017/205), [regs. 1](https://www.legislation.gov.uk/uksi/2017/205/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2017/205/regulation/4/b)
 
-[^key-358745fad75e10567963b6a0368ebf00]: Textual amendment: Reg. 39(7) omitted (3.4.2017) by virtue of [The Employment and Support Allowance (Exempt Work Hardship Amounts) (Amendment) Regulations 2017 (S.I. 2017/205)](https://www.legislation.gov.uk/uksi/2017/205), [regs. 1](https://www.legislation.gov.uk/uksi/2017/205/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/205/regulation/4/c)
+[^c-358745fad75e10567963b6a0368ebf00]: Textual amendment: Reg. 39(7) omitted (3.4.2017) by virtue of [The Employment and Support Allowance (Exempt Work Hardship Amounts) (Amendment) Regulations 2017 (S.I. 2017/205)](https://www.legislation.gov.uk/uksi/2017/205), [regs. 1](https://www.legislation.gov.uk/uksi/2017/205/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2017/205/regulation/4/c)

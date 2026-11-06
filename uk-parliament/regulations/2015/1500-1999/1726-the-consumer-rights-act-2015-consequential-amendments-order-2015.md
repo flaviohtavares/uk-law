@@ -44,19 +44,19 @@ The Secretary of State, in exercise of the powers conferred by section 96(1) and
 
 A draft of this Order was laid before Parliament in accordance with section 96(3) of and paragraph 12(6) of Schedule 5 to the Consumer Rights Act 2015 and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-87c545d9a017b3e6cd39dc9d04f97f73]
+## 1. Citation and commencement[^c-87c545d9a017b3e6cd39dc9d04f97f73]
 
 This Order may be cited as the Consumer Rights Act 2015 (Consequential Amendments) Order 2015 and comes into force on 1st October 2015.
 
-## 2. Consequential amendments[^key-3920dc5d186e59318953755a2ded9430]
+## 2. Consequential amendments[^c-3920dc5d186e59318953755a2ded9430]
 
 The Schedule has effect.
 
-## 3. Transitional provision[^key-9c35a29e7a8685fd9fe8e7d6487fa538]
+## 3. Transitional provision[^c-9c35a29e7a8685fd9fe8e7d6487fa538]
 
 Paragraph 1 of the Schedule applies in relation to contracts entered into on or after 1st October 2015.
 
-**4.**[^key-57884abef904d16c8f0275286a6e5ab4] (1) This article applies where—
+**4.**[^c-57884abef904d16c8f0275286a6e5ab4] (1) This article applies where—
 
 - (a) a provision (“the old provision”) is revoked by Part 2 of the Schedule, and
 - (b) a provision of Schedule 5 to the Consumer Rights Act 2015 (investigatory powers etc.) (“the new provision”) re-enacts, with or without modification, the old provision.
@@ -79,28 +79,28 @@ Article 2
 
 ### PART 1 — Amendments to Acts
 
-#### 1. Uniform Laws on International Sales Act 1967[^key-5812dc08c2cd7a522752870e0342c944]
+#### 1. Uniform Laws on International Sales Act 1967[^c-5812dc08c2cd7a522752870e0342c944]
 
 In section 1 of the Uniform Laws on International Sales Act 1967[^f00002] (application of Uniform Law on the International Sale of Goods), in subsection (4)(c) at the end insert “and sections 9 to 17, 19 to 24 and 28 to 32 of the Consumer Rights Act 2015”.
 
-#### 2. Enterprise Act 2002[^key-928a262da1b9e52e2ba24a1a301c7396]
+#### 2. Enterprise Act 2002[^c-928a262da1b9e52e2ba24a1a301c7396]
 
 The Enterprise Act 2002[^f00003] is amended as follows.
 
-**3.**[^key-4f8a5d47556005c514c7a60680e35099] In Schedule 14 (specified functions)[^f00004], at the appropriate place insert—
+**3.**[^c-4f8a5d47556005c514c7a60680e35099] In Schedule 14 (specified functions)[^f00004], at the appropriate place insert—
 
 > - Chapter 5 of Part 3 of the Consumer Rights Act 2015.
 > - Schedule 3 to the Consumer Rights Act 2015.
 
-**4.**[^key-3ea0a497f27c9708eed3215d8fbfd0cf] In Schedule 15 (enactments conferring functions)[^f00005], at the appropriate place insert—
+**4.**[^c-3ea0a497f27c9708eed3215d8fbfd0cf] In Schedule 15 (enactments conferring functions)[^f00005], at the appropriate place insert—
 
 > - Chapter 5 of Part 3 of the Consumer Rights Act 2015.
 
-#### 5. Regulatory Enforcement and Sanctions Act 2008[^key-5011e428c76e9c7b3f9a5661981d70c0]
+#### 5. Regulatory Enforcement and Sanctions Act 2008[^c-5011e428c76e9c7b3f9a5661981d70c0]
 
 In Schedule 3 to the Regulatory Enforcement and Sanctions Act 2008[^f00006] (enactments specified for the purposes of Part 1), for “Consumer Rights Act 2015, Part 1” substitute “Consumer Rights Act 2015, Parts 1 and 2 and Chapter 5 of Part 3”.
 
-#### 6. Consumer Rights Act 2015[^key-7581736968711828ac7b8f685cde3cf4]
+#### 6. Consumer Rights Act 2015[^c-7581736968711828ac7b8f685cde3cf4]
 
 In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (enforcer’s legislation: duties and powers mentioned in paragraph 9(1)(a)), at the appropriate place insert—
 
@@ -110,7 +110,7 @@ In paragraph 10 of Schedule 5 to the Consumer Rights Act 2015 (enforcer’s legi
 
 ### PART 2 — Amendments to secondary legislation
 
-#### 7. The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^key-74bbafeb70529f0790f48185950f9411]
+#### 7. The Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^c-74bbafeb70529f0790f48185950f9411]
 
 Regulations 24, 25 and 26 of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013[^f00007] are revoked.
 
@@ -134,36 +134,36 @@ An impact assessment has not been prepared for this instrument as no significant
 
 [^f00001]: Footnote: [2015 c.15](https://www.legislation.gov.uk/ukpga/2015/15).
 
-[^key-87c545d9a017b3e6cd39dc9d04f97f73]: Commencement: Art. 1 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-87c545d9a017b3e6cd39dc9d04f97f73]: Commencement: Art. 1 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
-[^key-3920dc5d186e59318953755a2ded9430]: Commencement: Art. 2 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-3920dc5d186e59318953755a2ded9430]: Commencement: Art. 2 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
-[^key-9c35a29e7a8685fd9fe8e7d6487fa538]: Commencement: Art. 3 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-9c35a29e7a8685fd9fe8e7d6487fa538]: Commencement: Art. 3 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
-[^key-57884abef904d16c8f0275286a6e5ab4]: Commencement: Art. 4 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-57884abef904d16c8f0275286a6e5ab4]: Commencement: Art. 4 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
-[^key-5812dc08c2cd7a522752870e0342c944]: Commencement: Sch. para. 1 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-5812dc08c2cd7a522752870e0342c944]: Commencement: Sch. para. 1 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
 [^f00002]: Footnote: [1967 c.45](https://www.legislation.gov.uk/ukpga/1967/45); section 1(4) was amended by the Sale of Goods Act [1979 (c.54)](https://www.legislation.gov.uk/ukpga/1979/54), section 63(1) and Schedule 2, paragraph 15 and by the Sale and Supply of Goods Act [1994 (c.35)](https://www.legislation.gov.uk/ukpga/1994/35), Schedule 2, paragraph 3.
 
-[^key-928a262da1b9e52e2ba24a1a301c7396]: Commencement: Sch. para. 2 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-928a262da1b9e52e2ba24a1a301c7396]: Commencement: Sch. para. 2 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
 [^f00003]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-4f8a5d47556005c514c7a60680e35099]: Commencement: Sch. para. 3 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-4f8a5d47556005c514c7a60680e35099]: Commencement: Sch. para. 3 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
 [^f00004]: Footnote: There are amendments to Schedule 14 but none is relevant to this Order.
 
-[^key-3ea0a497f27c9708eed3215d8fbfd0cf]: Commencement: Sch. para. 4 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-3ea0a497f27c9708eed3215d8fbfd0cf]: Commencement: Sch. para. 4 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
 [^f00005]: Footnote: There are amendments to Schedule 15 but none is relevant to this Order.
 
-[^key-5011e428c76e9c7b3f9a5661981d70c0]: Commencement: Sch. para. 5 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-5011e428c76e9c7b3f9a5661981d70c0]: Commencement: Sch. para. 5 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
 [^f00006]: Footnote: [2008 c.13](https://www.legislation.gov.uk/ukpga/2008/13); Schedule 3 was amended by the Consumer Rights Act [2015 (c.15)](https://www.legislation.gov.uk/ukpga/2015/15), Schedule 1, paragraph 54; there are other amendments but none is relevant to this Order.
 
-[^key-7581736968711828ac7b8f685cde3cf4]: Commencement: Sch. para. 6 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-7581736968711828ac7b8f685cde3cf4]: Commencement: Sch. para. 6 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
-[^key-74bbafeb70529f0790f48185950f9411]: Commencement: Sch. para. 7 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
+[^c-74bbafeb70529f0790f48185950f9411]: Commencement: Sch. para. 7 in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1726/article/1)
 
 [^f00007]: Footnote: [S.I. 2013/3134](https://www.legislation.gov.uk/uksi/2013/3134), to which there are amendments not relevant to this Order.

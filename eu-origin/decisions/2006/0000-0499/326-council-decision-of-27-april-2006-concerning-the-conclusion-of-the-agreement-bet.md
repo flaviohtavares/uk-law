@@ -36,16 +36,16 @@ concerning the conclusion of the Agreement between the European Community and th
 
 (2006/326/EC) (revoked)
 
-[^key-b1419c1848486e809c926cb8b51364b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1419c1848486e809c926cb8b51364b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-b1419c1848486e809c926cb8b51364b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b1419c1848486e809c926cb8b51364b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1a.**[^key-b1419c1848486e809c926cb8b51364b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1a.**[^c-b1419c1848486e809c926cb8b51364b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1b.**[^key-b1419c1848486e809c926cb8b51364b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1b.**[^c-b1419c1848486e809c926cb8b51364b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b1419c1848486e809c926cb8b51364b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b1419c1848486e809c926cb8b51364b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b1419c1848486e809c926cb8b51364b8]: Textual amendment: Decision revoked (31.12.2020) by The Service of Documents and Taking of Evidence in [Civil and Commercial Matters (Revocation and Saving Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1257)](https://www.legislation.gov.uk/uksi/2018/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1257/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/1257/regulation/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2018/1257/regulation/8)) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b1419c1848486e809c926cb8b51364b8]: Textual amendment: Decision revoked (31.12.2020) by The Service of Documents and Taking of Evidence in [Civil and Commercial Matters (Revocation and Saving Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1257)](https://www.legislation.gov.uk/uksi/2018/1257), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1257/regulation/1), [6](https://www.legislation.gov.uk/uksi/2018/1257/regulation/6) (with [reg. 8](https://www.legislation.gov.uk/uksi/2018/1257/regulation/8)) (as substituted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/2/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Declaration of presumed death
 
-### 1. Applying for declaration[^key-80ee8c7b1e52fc0587edccfd7acde6d6]
+### 1. Applying for declaration[^c-80ee8c7b1e52fc0587edccfd7acde6d6]
 
 (1) This section applies where a person who is missing—
 
@@ -65,7 +65,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (6) This section has effect subject to section 21(2).
 
-### 2. Making declaration[^key-5291b70bbc5bcfc78453b1f0e66a9a88]
+### 2. Making declaration[^c-5291b70bbc5bcfc78453b1f0e66a9a88]
 
 (1) On an application under section 1, the court must make the declaration if it is satisfied that the missing person—
 
@@ -88,7 +88,7 @@ the finding must be that the missing person is presumed to have died at the end 
 
 the finding must be that the missing person is presumed to have died at the end of the period of 7 years beginning with the day after the day on which he or she was last known to be alive.
 
-### 3. Effect of declaration[^key-0a08d213150dcde7157c1ecc5d079f61]
+### 3. Effect of declaration[^c-0a08d213150dcde7157c1ecc5d079f61]
 
 (1) A declaration under this Act is conclusive of—
 
@@ -110,7 +110,7 @@ the finding must be that the missing person is presumed to have died at the end 
 - (a) it has been dismissed or withdrawn, and
 - (b) any period for bringing a further appeal has ended.
 
-### 4. Other powers of court making declaration[^key-c4b1ae711da94dd68937d4cda18e7d17]
+### 4. Other powers of court making declaration[^c-c4b1ae711da94dd68937d4cda18e7d17]
 
 (1) When making a declaration under this Act, the court may—
 
@@ -128,13 +128,13 @@ the finding must be that the missing person is presumed to have died at the end 
 
 ## Variation order
 
-### 5. Varying and revoking declaration[^key-a39b89dbbcb15ccade7e877114cd7943]
+### 5. Varying and revoking declaration[^c-a39b89dbbcb15ccade7e877114cd7943]
 
 (1) On an application by any person, a declaration under this Act may be varied or revoked by an order of the High Court (a “variation order”).
 
 (2) The court must refuse to hear an application for a variation order if it considers that the applicant does not have a sufficient interest in the determination of the application.
 
-### 6. Effect of variation order[^key-8fe191ec56f680910fd352e73e50a29b]
+### 6. Effect of variation order[^c-8fe191ec56f680910fd352e73e50a29b]
 
 (1) A variation order does not affect an interest in property acquired as a result of a declaration under this Act (but see section 7).
 
@@ -155,7 +155,7 @@ the finding must be that the missing person is presumed to have died at the end 
 - (a) it has been dismissed or withdrawn, and
 - (b) any period for bringing a further appeal has ended.
 
-### 7. Other functions of court making variation order[^key-2bb34941d4d61055c92a39c2fb7a19d5]
+### 7. Other functions of court making variation order[^c-2bb34941d4d61055c92a39c2fb7a19d5]
 
 (1) When making a variation order, the court may—
 
@@ -192,7 +192,7 @@ the finding must be that the missing person is presumed to have died at the end 
 - (a) an instrument made under an Act, or
 - (b) an Act or Measure of the National Assembly for Wales or an instrument made under such an Act or Measure.
 
-### 8. Principles[^key-6924b90022f0cd5d998efc6098e7e9f7]
+### 8. Principles[^c-6924b90022f0cd5d998efc6098e7e9f7]
 
 (1) These are the principles referred to in section 7(4).
 
@@ -218,7 +218,7 @@ should be entitled to have made over to him or her by the trustee in full satisf
 
 ## Further provision about declarations and orders
 
-### 9. Giving notice of application[^c2175036][^key-9f33d94b4933f71b1dc1efbb2917eabb]
+### 9. Giving notice of application[^c2175036][^c-9f33d94b4933f71b1dc1efbb2917eabb]
 
 (1) A person who makes an application under this Act for a declaration or a variation order must send to the persons specified by rules of court—
 
@@ -229,7 +229,7 @@ should be entitled to have made over to him or her by the trustee in full satisf
 
 (3) The court must refuse to hear an application under this Act for a declaration or a variation order if the requirements in this section have not been met.
 
-### 10. Attorney General[^key-7e66ef55b0b3c03ecb6513bd52a3ec9a]
+### 10. Attorney General[^c-7e66ef55b0b3c03ecb6513bd52a3ec9a]
 
 (1) In proceedings on an application under this Act for a declaration or a variation order, the court may at any stage direct that papers relating to the matter be sent to the Attorney General.
 
@@ -239,7 +239,7 @@ should be entitled to have made over to him or her by the trustee in full satisf
 
 (4) Subsection (3) applies whether the costs are incurred by virtue of a direction under subsection (1), an intervention under section 11(2) or otherwise.
 
-### 11. Right to intervene[^key-7cdae00bcae37a4799bdde2dde47523b]
+### 11. Right to intervene[^c-7cdae00bcae37a4799bdde2dde47523b]
 
 (1) The missing person's spouse, civil partner, parent, child or sibling may intervene in proceedings on an application under this Act for a declaration or a variation order.
 
@@ -253,7 +253,7 @@ should be entitled to have made over to him or her by the trustee in full satisf
 - (b) in proceedings on an application for a declaration under this Act, seeking a determination or order under section 4, and
 - (c) in proceedings on an application for a variation order, seeking a determination or order under section 7.
 
-### 12. Information[^key-cca9bde9208ff9e41fcdab836c4df01e]
+### 12. Information[^c-cca9bde9208ff9e41fcdab836c4df01e]
 
 (1) In proceedings on an application under this Act for a declaration or a variation order, the court may by order at any stage require a person who is not a party to the proceedings to provide it with specified information that it considers relevant to the question of whether the missing person is alive or dead.
 
@@ -273,7 +273,7 @@ should be entitled to have made over to him or her by the trustee in full satisf
 
 (7) In this section “**specified**” means specified in an order under this section.
 
-### 13. Insurance against claims: trustees[^key-1abe789dde489fb16aa5363a7a912e0d]
+### 13. Insurance against claims: trustees[^c-1abe789dde489fb16aa5363a7a912e0d]
 
 (1) If the court so directs, the trustee of a trust affected by a declaration under this Act must as soon as reasonably practicable take out an insurance policy in respect of any claim which may arise by virtue of an order under section 7(2).
 
@@ -284,7 +284,7 @@ should be entitled to have made over to him or her by the trustee in full satisf
 
 (3) A premium payable by the trustee in accordance with a direction under this section may be paid out of money or other property held under the trust.
 
-### 14. Insurance against claims: insurers paying capital sums[^key-c5afb4c89acae0a6017a2c35961f308a]
+### 14. Insurance against claims: insurers paying capital sums[^c-c5afb4c89acae0a6017a2c35961f308a]
 
 (1) Before paying a capital sum to a person as a result of a declaration under this Act, an insurer may require the person to take out an insurance policy in respect of any claim which the insurer may make in the event of a variation order being made.
 
@@ -301,17 +301,17 @@ should be entitled to have made over to him or her by the trustee in full satisf
 
 ### 15. Register of Presumed Deaths[^c2175037]
 
-(1)[^key-4b17dbc84bd7f078bfe4c3bec22ab945] The Registrar General must maintain a register which is to be called the Register of Presumed Deaths.
+(1)[^c-4b17dbc84bd7f078bfe4c3bec22ab945] The Registrar General must maintain a register which is to be called the Register of Presumed Deaths.
 
-(2)[^key-4b17dbc84bd7f078bfe4c3bec22ab945] The register must be maintained in the General Register Office.
+(2)[^c-4b17dbc84bd7f078bfe4c3bec22ab945] The register must be maintained in the General Register Office.
 
-(3)[^key-4b17dbc84bd7f078bfe4c3bec22ab945] The register may be maintained in any form the Registrar General considers appropriate.
+(3)[^c-4b17dbc84bd7f078bfe4c3bec22ab945] The register may be maintained in any form the Registrar General considers appropriate.
 
-(4)[^key-b0324451da95784aa78af507f287cd17] Schedule 1 (further provision about Register of Presumed Deaths) has effect.
+(4)[^c-b0324451da95784aa78af507f287cd17] Schedule 1 (further provision about Register of Presumed Deaths) has effect.
 
 ## Other determinations
 
-### 16. Other determinations about death of missing person[^key-323dcc2e6566c379b2e7df0a431bb150]
+### 16. Other determinations about death of missing person[^c-323dcc2e6566c379b2e7df0a431bb150]
 
 (1) No declaration which may be applied for under section 1 may be made otherwise than under this Act.
 
@@ -408,7 +408,7 @@ Section 15
 
 ### Entries in Register of Presumed Deaths
 
-**1.**[^c2175038][^key-1f21f920df0743be8527139d669a2eb0] (1) When a declaration under this Act satisfies section 3(3)(a) or (b), the court must send to the Registrar General—
+**1.**[^c2175038][^c-1f21f920df0743be8527139d669a2eb0] (1) When a declaration under this Act satisfies section 3(3)(a) or (b), the court must send to the Registrar General—
 
 - (a) a copy of the declaration, and
 - (b) any prescribed information.
@@ -423,7 +423,7 @@ Section 15
 
 ### Amendment and cancellation of entries in Register
 
-**2.**[^c2175039][^key-10740bb738b3003fc79926afa5417fd7] (1) When a variation order satisfies section 6(4)(a) or (b), the court must send to the Registrar General—
+**2.**[^c2175039][^c-10740bb738b3003fc79926afa5417fd7] (1) When a variation order satisfies section 6(4)(a) or (b), the court must send to the Registrar General—
 
 - (a) a copy of the order, and
 - (b) any prescribed information.
@@ -442,7 +442,7 @@ Section 15
 
 ### Searches and certified copies
 
-**3.**[^key-42bcc42430309262cd400d1efb7f0ed6] (1) Any right to search the index of the registers of deaths includes the right to search entries included in it in accordance with paragraph 1(2)(b).
+**3.**[^c-42bcc42430309262cd400d1efb7f0ed6] (1) Any right to search the index of the registers of deaths includes the right to search entries included in it in accordance with paragraph 1(2)(b).
 
 (2) Any person is entitled to have a certified copy of an entry in the Register of Presumed Deaths (but see paragraph 6).
 
@@ -454,11 +454,11 @@ Section 15
 
 ### Proof of death
 
-**4.**[^key-4aba575bc004066fd9cb1df4c035a1ae] A certified copy of an entry in the Register of Presumed Deaths in relation to a person is to be received as evidence of the person's death, without further or other proof, if it purports to be sealed or stamped in accordance with paragraph 3(3).
+**4.**[^c-4aba575bc004066fd9cb1df4c035a1ae] A certified copy of an entry in the Register of Presumed Deaths in relation to a person is to be received as evidence of the person's death, without further or other proof, if it purports to be sealed or stamped in accordance with paragraph 3(3).
 
 ### Correction and annotation of Register
 
-**5.**[^key-655ca16a40e477fcf49a05d63cc7ed00] (1) Where it appears to the Registrar General that there is a clerical error in the Register of Presumed Deaths, the Registrar General may authorise a person to correct the error.
+**5.**[^c-655ca16a40e477fcf49a05d63cc7ed00] (1) Where it appears to the Registrar General that there is a clerical error in the Register of Presumed Deaths, the Registrar General may authorise a person to correct the error.
 
 (2) Where it appears to the court that there is an error in the Register of Presumed Deaths, the court may direct the Registrar General to secure that the error is corrected.
 
@@ -473,7 +473,7 @@ Section 15
 
 ### Fees
 
-**6.**[^c2175040][^key-737b5d1d1c059b5b676da4911f7e6246] (1) A fee of a prescribed amount is payable to the Registrar General for a certified copy of an entry in the Register of Presumed Deaths.
+**6.**[^c2175040][^c-737b5d1d1c059b5b676da4911f7e6246] (1) A fee of a prescribed amount is payable to the Registrar General for a certified copy of an entry in the Register of Presumed Deaths.
 
 (2) The Registrar General may refuse to provide such a copy until the prescribed fee is paid, except as otherwise prescribed.
 
@@ -481,7 +481,7 @@ Section 15
 
 ### Interpretation
 
-**7.**[^key-0ea4dfa76fbf0e600cf6a0b9918d0fbe] In this Schedule “**the index of registers of deaths**” means the index kept in the General Register Office of certified copies of entries in the registers of deaths made under the Births and Deaths Registration Act 1953.
+**7.**[^c-0ea4dfa76fbf0e600cf6a0b9918d0fbe] In this Schedule “**the index of registers of deaths**” means the index kept in the General Register Office of certified copies of entries in the registers of deaths made under the Births and Deaths Registration Act 1953.
 
 ## SCHEDULE 2 — Amendment of provisions about presumption of death
 
@@ -489,18 +489,18 @@ Section 16
 
 ### Matrimonial Causes Act 1973 (c. 18)
 
-**1.**[^key-eaf6a4c90a8e1c660dcf50befadb6bbc] Omit section 19 of the Matrimonial Causes Act 1973 (presumption of death and dissolution of marriage).
+**1.**[^c-eaf6a4c90a8e1c660dcf50befadb6bbc] Omit section 19 of the Matrimonial Causes Act 1973 (presumption of death and dissolution of marriage).
 
 ### Domicile and Matrimonial Proceedings Act 1973 (c. 45)
 
-**2.**[^key-72e6ecfaf62d0b69cc5bd3f9a00a8d7c] In section 5 of the Domicile and Matrimonial Proceedings Act 1973 (jurisdiction of High Court and county courts), omit—
+**2.**[^c-72e6ecfaf62d0b69cc5bd3f9a00a8d7c] In section 5 of the Domicile and Matrimonial Proceedings Act 1973 (jurisdiction of High Court and county courts), omit—
 
 - (a) subsection (1)(b) (and the “and” before it);
 - (b) subsection (4).
 
 ### Civil Partnership Act 2004 (c. 33)
 
-**3.**[^key-4c3d8d2516c364edabc5b783e88fbfda] (1) Section 222 of the Civil Partnership Act 2004 (proceedings for presumption of death order) is amended as follows.
+**3.**[^c-4c3d8d2516c364edabc5b783e88fbfda] (1) Section 222 of the Civil Partnership Act 2004 (proceedings for presumption of death order) is amended as follows.
 
 (2) After “presumption of death order” insert “ on an application made by a civil partner ”.
 
@@ -514,72 +514,72 @@ Section 16
 
 ### Consequential repeal
 
-**4.**[^key-8f81529512db7fd31f1d7b4a58c3e7f2] In consequence of the repeal in paragraph 1, omit paragraph 7 of Schedule 8 to the Family Law Act 1996.
+**4.**[^c-8f81529512db7fd31f1d7b4a58c3e7f2] In consequence of the repeal in paragraph 1, omit paragraph 7 of Schedule 8 to the Family Law Act 1996.
 
 ## Annotations
 
-[^key-80ee8c7b1e52fc0587edccfd7acde6d6]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/13/section/1) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-80ee8c7b1e52fc0587edccfd7acde6d6]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/13/section/1) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-5291b70bbc5bcfc78453b1f0e66a9a88]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/13/section/2) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-5291b70bbc5bcfc78453b1f0e66a9a88]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/13/section/2) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-0a08d213150dcde7157c1ecc5d079f61]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/13/section/3) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-0a08d213150dcde7157c1ecc5d079f61]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/13/section/3) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-c4b1ae711da94dd68937d4cda18e7d17]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/13/section/4) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-c4b1ae711da94dd68937d4cda18e7d17]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/13/section/4) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-a39b89dbbcb15ccade7e877114cd7943]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/13/section/5) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-a39b89dbbcb15ccade7e877114cd7943]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/13/section/5) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-8fe191ec56f680910fd352e73e50a29b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/13/section/6) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-8fe191ec56f680910fd352e73e50a29b]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/13/section/6) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-2bb34941d4d61055c92a39c2fb7a19d5]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/13/section/7) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-2bb34941d4d61055c92a39c2fb7a19d5]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/13/section/7) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-6924b90022f0cd5d998efc6098e7e9f7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/13/section/8) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-6924b90022f0cd5d998efc6098e7e9f7]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2013/13/section/8) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
 [^c2175036]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/13/section/9) partly in force; [s. 9](https://www.legislation.gov.uk/ukpga/2013/13/section/9) in force for specified purposes at Royal Assent, see [s. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2013/13/section/22/1/a)
 
-[^key-9f33d94b4933f71b1dc1efbb2917eabb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/13/section/9) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-9f33d94b4933f71b1dc1efbb2917eabb]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/13/section/9) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-7e66ef55b0b3c03ecb6513bd52a3ec9a]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/13/section/10) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-7e66ef55b0b3c03ecb6513bd52a3ec9a]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2013/13/section/10) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-7cdae00bcae37a4799bdde2dde47523b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/13/section/11) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-7cdae00bcae37a4799bdde2dde47523b]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2013/13/section/11) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-cca9bde9208ff9e41fcdab836c4df01e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/13/section/12) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-cca9bde9208ff9e41fcdab836c4df01e]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2013/13/section/12) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-1abe789dde489fb16aa5363a7a912e0d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/13/section/13) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-1abe789dde489fb16aa5363a7a912e0d]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2013/13/section/13) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-c5afb4c89acae0a6017a2c35961f308a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/13/section/14) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-c5afb4c89acae0a6017a2c35961f308a]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2013/13/section/14) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
 [^c2175037]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2013/13/section/15) partly in force; [s. 15](https://www.legislation.gov.uk/ukpga/2013/13/section/15) in force for specified purposes at Royal Assent, see [s. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2013/13/section/22/1/b)
 
-[^key-4b17dbc84bd7f078bfe4c3bec22ab945]: Commencement: [S. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/13/section/15/1) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-4b17dbc84bd7f078bfe4c3bec22ab945]: Commencement: [S. 15(1)-(3)](https://www.legislation.gov.uk/ukpga/2013/13/section/15/1) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-b0324451da95784aa78af507f287cd17]: Commencement: [S. 15(4)](https://www.legislation.gov.uk/ukpga/2013/13/section/15/4) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-b0324451da95784aa78af507f287cd17]: Commencement: [S. 15(4)](https://www.legislation.gov.uk/ukpga/2013/13/section/15/4) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-323dcc2e6566c379b2e7df0a431bb150]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/13/section/16) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-323dcc2e6566c379b2e7df0a431bb150]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2013/13/section/16) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
 [^c2175038]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/1) partly in force; [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/1) in force for specified purposes at Royal Assent, see [s. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2013/13/section/22/1/b)
 
-[^key-1f21f920df0743be8527139d669a2eb0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/1) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-1f21f920df0743be8527139d669a2eb0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/1) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
 [^c2175039]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/2) partly in force; [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/2) in force for specified purposes at Royal Assent, see [s. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2013/13/section/22/1/b)
 
-[^key-10740bb738b3003fc79926afa5417fd7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/2) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-10740bb738b3003fc79926afa5417fd7]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/2) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-42bcc42430309262cd400d1efb7f0ed6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/3) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-42bcc42430309262cd400d1efb7f0ed6]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/3) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-4aba575bc004066fd9cb1df4c035a1ae]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/4) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-4aba575bc004066fd9cb1df4c035a1ae]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/4) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-655ca16a40e477fcf49a05d63cc7ed00]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/5) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-655ca16a40e477fcf49a05d63cc7ed00]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/5) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
 [^c2175040]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/6) partly in force; [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/6) in force for specified purposes at Royal Assent, see [s. 22(1)(b)](https://www.legislation.gov.uk/ukpga/2013/13/section/22/1/b)
 
-[^key-737b5d1d1c059b5b676da4911f7e6246]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/6) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-737b5d1d1c059b5b676da4911f7e6246]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/6) in force in so far as not already in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-0ea4dfa76fbf0e600cf6a0b9918d0fbe]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/7) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-0ea4dfa76fbf0e600cf6a0b9918d0fbe]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/2013/13/schedule/1/paragraph/7) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-eaf6a4c90a8e1c660dcf50befadb6bbc]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/1) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/2))
+[^c-eaf6a4c90a8e1c660dcf50befadb6bbc]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/1) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/2))
 
-[^key-72e6ecfaf62d0b69cc5bd3f9a00a8d7c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/2) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-72e6ecfaf62d0b69cc5bd3f9a00a8d7c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/2) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
 
-[^key-4c3d8d2516c364edabc5b783e88fbfda]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/3) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/1)[(3)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/3))
+[^c-4c3d8d2516c364edabc5b783e88fbfda]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/3) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/1)[(3)](https://www.legislation.gov.uk/uksi/2014/1810/article/3/3))
 
-[^key-8f81529512db7fd31f1d7b4a58c3e7f2]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/4) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)
+[^c-8f81529512db7fd31f1d7b4a58c3e7f2]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/13/schedule/2/paragraph/4) in force at 1.10.2014 by [S.I. 2014/1810](https://www.legislation.gov.uk/uksi/2014/1810), [art. 2](https://www.legislation.gov.uk/uksi/2014/1810/article/2)

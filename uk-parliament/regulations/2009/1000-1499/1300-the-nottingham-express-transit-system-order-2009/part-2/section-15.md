@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Construction of bridges and tunnels[^key-63b6846d9e07c0a516c7bacd3b6dd0f8]
+## 15. Construction of bridges and tunnels[^c-63b6846d9e07c0a516c7bacd3b6dd0f8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any bridge or tunnel to be constructed under this Order for carrying a highway o
 
 ## Annotations
 
-[^key-63b6846d9e07c0a516c7bacd3b6dd0f8]: Commencement: Art. 15 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-63b6846d9e07c0a516c7bacd3b6dd0f8]: Commencement: Art. 15 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

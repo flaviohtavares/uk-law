@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.229. Second excepted case[^key-1f3b50a47692a51b6a0834018b4eafd6][^key-c5f9421db85e975c73a0e20eef38852c]
+## 4.229. Second excepted case[^c-1f3b50a47692a51b6a0834018b4eafd6][^c-c5f9421db85e975c73a0e20eef38852c]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f3b50a47692a51b6a0834018b4eafd6]: Commencement: [Rule 4.229](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.229) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1f3b50a47692a51b6a0834018b4eafd6]: Commencement: [Rule 4.229](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.229) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-c5f9421db85e975c73a0e20eef38852c]: Textual amendment: [Rule 4.229](https://www.legislation.gov.uk/uksi/1986/1925/article/4.229) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 82](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/82)
+[^c-c5f9421db85e975c73a0e20eef38852c]: Textual amendment: [Rule 4.229](https://www.legislation.gov.uk/uksi/1986/1925/article/4.229) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 82](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/82)

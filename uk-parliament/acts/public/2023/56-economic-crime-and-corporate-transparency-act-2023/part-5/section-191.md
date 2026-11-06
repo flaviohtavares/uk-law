@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Meaning of “relevant actions”[^key-5be8291cbe0c98a37350512368e9aeb3][^key-80fa802ab39fc6d852e00af3e8b562ed]
+## 191. Meaning of “relevant actions”[^c-5be8291cbe0c98a37350512368e9aeb3][^c-80fa802ab39fc6d852e00af3e8b562ed]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ In sections 188 and 189, “relevant actions”, of a person, means the actions 
 
 ## Annotations
 
-[^key-5be8291cbe0c98a37350512368e9aeb3]: Commencement: S. 191 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5be8291cbe0c98a37350512368e9aeb3]: Commencement: S. 191 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-80fa802ab39fc6d852e00af3e8b562ed]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2023/56/section/191) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)
+[^c-80fa802ab39fc6d852e00af3e8b562ed]: Commencement: [S. 191](https://www.legislation.gov.uk/ukpga/2023/56/section/191) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)

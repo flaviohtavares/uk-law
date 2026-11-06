@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 
-## SCHEDULE 1 — SPECIAL NATURE CONSERVATION ORDERS: PROCEDURE[^key-673da72460577702f1b60ed1a3c84b41]
+## SCHEDULE 1 — SPECIAL NATURE CONSERVATION ORDERS: PROCEDURE[^c-673da72460577702f1b60ed1a3c84b41]
 
 **No longer in force.**
 
@@ -54,4 +54,4 @@ Regulation 25(3)
 
 ## Annotations
 
-[^key-673da72460577702f1b60ed1a3c84b41]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/1) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-673da72460577702f1b60ed1a3c84b41]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/490/schedule/1) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)

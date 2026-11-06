@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7ZB — Investors' relief: disqualification of shares[^key-f7d7883da2414551142e931984f192b5]
+## SCHEDULE 7ZB — Investors' relief: disqualification of shares[^c-f7d7883da2414551142e931984f192b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -220,4 +220,4 @@ But nothing in paragraph 4 or this paragraph requires the replacement value to b
 
 ## Annotations
 
-[^key-f7d7883da2414551142e931984f192b5]: Textual amendment: [Sch. 7ZB](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7ZB) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2016/24/schedule/14/paragraph/3)
+[^c-f7d7883da2414551142e931984f192b5]: Textual amendment: [Sch. 7ZB](https://www.legislation.gov.uk/ukpga/1992/12/schedule/7ZB) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2016/24/schedule/14/paragraph/3)

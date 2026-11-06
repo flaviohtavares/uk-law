@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Payable amounts[^key-92839dd1d2d582ab493e74ba2bb82df9][^key-b3af3797a4f655d3845ace3f6a05713a]
+## 15. Payable amounts[^c-92839dd1d2d582ab493e74ba2bb82df9][^c-b3af3797a4f655d3845ace3f6a05713a]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In this Part, references to a “payable amount” are to—
 
 ## Annotations
 
-[^key-92839dd1d2d582ab493e74ba2bb82df9]: Commencement: S. 15 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-92839dd1d2d582ab493e74ba2bb82df9]: Commencement: S. 15 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-b3af3797a4f655d3845ace3f6a05713a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/28/section/15) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-b3af3797a4f655d3845ace3f6a05713a]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2025/28/section/15) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

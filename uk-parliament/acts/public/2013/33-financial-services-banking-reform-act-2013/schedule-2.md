@@ -24,11 +24,11 @@ Section 17
 
 ### PART 1 — Amendments of Banking Act 2009
 
-**1.**[^key-be2085f25bea331fa95574ae75432683] The Banking Act 2009 is amended as follows.
+**1.**[^c-be2085f25bea331fa95574ae75432683] The Banking Act 2009 is amended as follows.
 
 #### New stabilisation option: bail-in
 
-**2.**[^key-6857011d9d4bf40e3435ecca047dbbd6] After section 12 insert—
+**2.**[^c-6857011d9d4bf40e3435ecca047dbbd6] After section 12 insert—
 
 > **12A. Bail-in option**
 >
@@ -83,7 +83,7 @@ Section 17
 >
 > (8) See sections 48I to 48K for further provision about bail-in administrators.
 
-**3.**[^key-cd0a86ce264077490659db46000a5688] After section 8 insert—
+**3.**[^c-cd0a86ce264077490659db46000a5688] After section 8 insert—
 
 > **8A. Specific condition: bail-in**
 >
@@ -106,7 +106,7 @@ Section 17
 
 #### Further provision about the bail-in option
 
-**4.**[^key-4373e3f0a8d38b67527c3a7320d359f5][^key-5e0619bc16df450ba7348b73036517f0] After section 48A insert—
+**4.**[^c-4373e3f0a8d38b67527c3a7320d359f5][^c-5e0619bc16df450ba7348b73036517f0] After section 48A insert—
 
 > **Bail-in option**
 >
@@ -577,7 +577,7 @@ Section 17
 
 #### Transfers of property
 
-**5.**[^key-208088659216326f5136bd06369acff4] (1) After section 41 insert—
+**5.**[^c-208088659216326f5136bd06369acff4] (1) After section 41 insert—
 
 > **41A. Transfer of property subsequent to resolution instrument**
 >
@@ -657,16 +657,16 @@ Section 17
 
 #### Compensation
 
-**6.** (1)[^key-d187fe6d7cebed5f2f68e835c7893618] In section 49 (orders)—
+**6.** (1)[^c-d187fe6d7cebed5f2f68e835c7893618] In section 49 (orders)—
 
 - (a) in subsection (1), for “three” substitute “ four ” and for “and property transfer instruments” substitute “ , property transfer instruments and orders and resolution instruments ”;
 - (b) after subsection (2) insert—
 
   > (2A) A “bail-in compensation order” is an order establishing a scheme for determining, in accordance with section 52A, whether any transferors or others should be paid compensation.
 
-(2)[^key-d187fe6d7cebed5f2f68e835c7893618] In section 52 (transfer to bridge bank), in subsection (3)(b), for “specified classes of creditor,” substitute “ persons of a specified description, ”.
+(2)[^c-d187fe6d7cebed5f2f68e835c7893618] In section 52 (transfer to bridge bank), in subsection (3)(b), for “specified classes of creditor,” substitute “ persons of a specified description, ”.
 
-(3)[^key-d187fe6d7cebed5f2f68e835c7893618] After section 52 insert—
+(3)[^c-d187fe6d7cebed5f2f68e835c7893618] After section 52 insert—
 
 > **52A. Bail-in option**
 >
@@ -682,7 +682,7 @@ Section 17
 > - (a) an independent valuer (in which case sections 54 to 56 are to apply);
 > - (b) valuation principles (in which case section 57(2) to (5) is to apply).
 
-(4)[^key-d187fe6d7cebed5f2f68e835c7893618] In section 53 (onward and reverse transfers), in subsection (1)—
+(4)[^c-d187fe6d7cebed5f2f68e835c7893618] In section 53 (onward and reverse transfers), in subsection (1)—
 
 - (a) before paragraph (za) insert—
 
@@ -714,16 +714,16 @@ Section 17
   ;
 - (g) in the heading, after “**transfers**” insert “ **etc** ”.
 
-(5)[^key-d187fe6d7cebed5f2f68e835c7893618] In section 54 (independent valuer)—
+(5)[^c-d187fe6d7cebed5f2f68e835c7893618] In section 54 (independent valuer)—
 
 - (a) in subsection (1), after “compensation scheme order” insert “ or bail-in compensation order ”;
 - (b) in subsection (4)(b), after “order” insert “ or bail-in compensation order ”.
 
-(6)[^key-d187fe6d7cebed5f2f68e835c7893618] In section 56 (independent valuer: money), in subsection (2)(b) for “or third party compensation order” substitute “ , third party compensation order or bail-in compensation order ”.
+(6)[^c-d187fe6d7cebed5f2f68e835c7893618] In section 56 (independent valuer: money), in subsection (2)(b) for “or third party compensation order” substitute “ , third party compensation order or bail-in compensation order ”.
 
-(7)[^key-d187fe6d7cebed5f2f68e835c7893618] In section 57 (valuation principles), in subsection (1), after “order” insert “ or bail-in compensation order ”.
+(7)[^c-d187fe6d7cebed5f2f68e835c7893618] In section 57 (valuation principles), in subsection (1), after “order” insert “ or bail-in compensation order ”.
 
-(8)[^key-734cae7ecba6918491efdc273d0c3aa7][^key-f3283902fcc650a1e6b75b4d626f0893] After section 60 insert—
+(8)[^c-734cae7ecba6918491efdc273d0c3aa7][^c-f3283902fcc650a1e6b75b4d626f0893] After section 60 insert—
 
 > **60A. Further mandatory provision: bail-in provision**
 >
@@ -766,7 +766,7 @@ Section 17
 >
 > (4) References in this section to insolvency include a reference to (i) liquidation, (ii) bank insolvency, (iii) administration, (iv) bank administration, (v) receivership, (vi) composition with creditors, and (vii) a scheme of arrangement.
 
-(9)[^key-d187fe6d7cebed5f2f68e835c7893618] In section 61(1) (sources of compensation),—
+(9)[^c-d187fe6d7cebed5f2f68e835c7893618] In section 61(1) (sources of compensation),—
 
 - (a) omit the “and” at the end of paragraph (c);
 - (b) after paragraph (c) insert—
@@ -778,7 +778,7 @@ Section 17
 
   > - (e) regulations under section 60A.
 
-(10)[^key-d187fe6d7cebed5f2f68e835c7893618] In section 62(1) (procedure), omit the “and” at the end of paragraph (b), and after that paragraph insert—
+(10)[^c-d187fe6d7cebed5f2f68e835c7893618] In section 62(1) (procedure), omit the “and” at the end of paragraph (b), and after that paragraph insert—
 
 > - (ba) bail-in compensation orders, and
 
@@ -786,7 +786,7 @@ Section 17
 
 #### Groups
 
-**7.**[^key-9126a14f22993ee75887777c226cdda4] (1) After section 81B insert—
+**7.**[^c-9126a14f22993ee75887777c226cdda4] (1) After section 81B insert—
 
 > **81BA. Bail-in option**
 >
@@ -853,7 +853,7 @@ Section 17
 
 #### Banks regulated by the Financial Conduct Authority
 
-**8.**[^key-2fa18073a5043cdfbd4a00d14c32299a] In section 83A (modifications of Part 1 as it applies to banks not regulated by the Prudential Regulation Authority), in the table in subsection (2) insert the following entries at the appropriate places—
+**8.**[^c-2fa18073a5043cdfbd4a00d14c32299a] In section 83A (modifications of Part 1 as it applies to banks not regulated by the Prudential Regulation Authority), in the table in subsection (2) insert the following entries at the appropriate places—
 
 > |  |  |
 > | --- | --- |
@@ -880,11 +880,11 @@ Section 17
 
 #### Recognised central counterparties
 
-**9.**[^key-1ae2b182a6b3fff3e2dd051310b09bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1ae2b182a6b3fff3e2dd051310b09bab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Insolvency proceedings
 
-**10.**[^key-32d103a326698a3fa7b164c18db8ddd6] In section 120 (notice to Prudential Regulation Authority of preliminary steps to certain insolvency proceedings)—
+**10.**[^c-32d103a326698a3fa7b164c18db8ddd6] In section 120 (notice to Prudential Regulation Authority of preliminary steps to certain insolvency proceedings)—
 
 - (a) in subsection (7)(b)(ii), after “Part 1” insert “ (and Condition 5 has been met, if applicable) ”;
 - (b) after subsection (8) insert—
@@ -908,11 +908,11 @@ Section 17
 
 #### State aid
 
-**11.**[^key-1388f7f47d63b0c81dc5424d5f05473b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1388f7f47d63b0c81dc5424d5f05473b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Other amendments of the Act
 
-**12.**[^key-701ac0076de2b86216e5689fb83317ae] (1) Section 1 (overview) is amended as follows.
+**12.**[^c-701ac0076de2b86216e5689fb83317ae] (1) Section 1 (overview) is amended as follows.
 
 (2) In subsection (2)(a), for “three” substitute “ four ”.
 
@@ -935,19 +935,19 @@ Section 17
   ;
 - (c) in paragraph (b), after “33” insert “ , 41A ”.
 
-**13.**[^key-5212323fb08c2edabfdf9f95f400d083] In section 13 (temporary public ownership), in subsection (1), for “third” substitute “ fourth ”.
+**13.**[^c-5212323fb08c2edabfdf9f95f400d083] In section 13 (temporary public ownership), in subsection (1), for “third” substitute “ fourth ”.
 
-**14.**[^key-0b27e70f95936921096a7980259e91a7] In section 17 (share transfers: effect)—
+**14.**[^c-0b27e70f95936921096a7980259e91a7] In section 17 (share transfers: effect)—
 
 - (a) in subsection (1), after “order” insert, “ or by a resolution instrument ”;
 - (b) in subsection (5), after “order” insert “ or a resolution instrument ”;
 - (c) in subsection (6), after “order” insert “ or a resolution instrument ”.
 
-**15.**[^key-836a729136b156ebb8fd68e1bda76e81] In section 18 (share transfers: continuity), after subsection (5) insert—
+**15.**[^c-836a729136b156ebb8fd68e1bda76e81] In section 18 (share transfers: continuity), after subsection (5) insert—
 
 > (6) This section applies to a resolution instrument as it applies to a share transfer instrument; and in relation to a resolution instrument references in this section to a “transfer” are to a transfer of securities (whether made by that or another resolution instrument) and “**transferor**” and “**transferee**” are to be read accordingly.
 
-**16.**[^key-7c89b7ffd83502ccde149515e8f7819e] In section 44 (reverse property transfer)—
+**16.**[^c-7c89b7ffd83502ccde149515e8f7819e] In section 44 (reverse property transfer)—
 
 - (a) in subsection (2), after “more” insert “ bridge bank ”;
 - (b) in subsection (3), after “more” insert “ bridge bank ”;
@@ -960,9 +960,9 @@ Section 17
 - (g) in subsection (7), for “a reverse” substitute “ a bridge bank reverse ”;
 - (h) in the heading, for “**Reverse**” substitute “ **Bridge bank: reverse** ”.
 
-**17.**[^key-1704c9d195413ccce08e9a501912a704] In section 63 (general continuity obligation: property transfers), in subsection (1)(a), for “or 12(2)” substitute “ , 12(2) or 41A(2) ”.
+**17.**[^c-1704c9d195413ccce08e9a501912a704] In section 63 (general continuity obligation: property transfers), in subsection (1)(a), for “or 12(2)” substitute “ , 12(2) or 41A(2) ”.
 
-**18.**[^key-a429fa4e0e350d2cb4c0ec10cf177ab0] In section 66 (general continuity obligation: share transfers)—
+**18.**[^c-a429fa4e0e350d2cb4c0ec10cf177ab0] In section 66 (general continuity obligation: share transfers)—
 
 - (a) in subsection (1)(a), after “13(2)” insert “ , or which falls within subsection (1A) ”;
 - (b) in subsection (1)(d)(i), after “11(2)(a)” insert “ , or in a case falling within subsection (1A) ”;
@@ -970,11 +970,11 @@ Section 17
 
   > (1A) A bank falls within this subsection if a resolution instrument (or supplemental resolution instrument) has changed the ownership of the bank (wholly or partly) by providing for the transfer, cancellation or conversion from one form or class to another of securities issued by the bank (and the reference in subsection (1)(b) to “**the transfer**” includes such a cancellation or conversion).
 
-**19.**[^key-27b3ccb06c9b27a67bc4fe6e2e61719a] In section 67 (special continuity obligation: share transfers), in subsection (4)(c), after “order” insert “ or resolution instrument ”.
+**19.**[^c-27b3ccb06c9b27a67bc4fe6e2e61719a] In section 67 (special continuity obligation: share transfers), in subsection (4)(c), after “order” insert “ or resolution instrument ”.
 
-**20.**[^key-d0aa4196d90480e9d6389bcc00acc53a] In section 68 (continuity obligations: onward share transfers), in subsection (1)(a), after “transferred by” insert “ a resolution instrument under section 12A(2) or supplemental resolution instrument under section 48U(2) or a ”.
+**20.**[^c-d0aa4196d90480e9d6389bcc00acc53a] In section 68 (continuity obligations: onward share transfers), in subsection (1)(a), after “transferred by” insert “ a resolution instrument under section 12A(2) or supplemental resolution instrument under section 48U(2) or a ”.
 
-**21.**[^key-c306b123e573077cd0fab218e76192a4] In section 71 (pensions), in subsection (1)—
+**21.**[^c-c306b123e573077cd0fab218e76192a4] In section 71 (pensions), in subsection (1)—
 
 - (a) omit the “and” at the end of paragraph (b);
 - (b) after paragraph (c) insert
@@ -983,7 +983,7 @@ Section 17
   >
   > - (d) resolution instruments.
 
-**22.**[^key-e32e601bf56437179ae92c76eb9611d0] In section 72 (enforcement), in subsection (1)—
+**22.**[^c-e32e601bf56437179ae92c76eb9611d0] In section 72 (enforcement), in subsection (1)—
 
 - (a) omit the “or” at the end of paragraph (b);
 - (b) after paragraph (c) insert
@@ -992,7 +992,7 @@ Section 17
   >
   > - (d) a resolution instrument.
 
-**23.**[^key-03c7880ca27f19d76d415475d8fde818] In section 73 (disputes), in subsection (1)—
+**23.**[^c-03c7880ca27f19d76d415475d8fde818] In section 73 (disputes), in subsection (1)—
 
 - (a) omit the “and” at the end of paragraph (b);
 - (b) after paragraph (c) insert
@@ -1001,9 +1001,9 @@ Section 17
   >
   > - (d) resolution instruments.
 
-**24.**[^key-0b1c17810d7262aec03ef3fd4b41dcda] In section 74 (tax), in subsection (6), for “or 45” substitute “ , 45, 48U or 48V ”.
+**24.**[^c-0b1c17810d7262aec03ef3fd4b41dcda] In section 74 (tax), in subsection (6), for “or 45” substitute “ , 45, 48U or 48V ”.
 
-**25.**[^key-b497a8c806a93bdf73ffcb568ed6427f] After section 80 insert—
+**25.**[^c-b497a8c806a93bdf73ffcb568ed6427f] After section 80 insert—
 
 > **80A. Transfer for bail-in purposes: report**
 >
@@ -1019,16 +1019,16 @@ Section 17
 >
 > (4) The Chancellor of the Exchequer must lay a copy of each report under subsection (2) before Parliament.
 
-**26.**[^key-fdb4d989ba2ad7723039fd6973a1a175] In section 81A (accounting information to be included in reports under sections 80 and 81)—
+**26.**[^c-fdb4d989ba2ad7723039fd6973a1a175] In section 81A (accounting information to be included in reports under sections 80 and 81)—
 
 - (a) in subsection (1), for “or 81” substitute “ , 80A(2)(b) or 81 ”;
 - (b) in the heading, for “**and 81**” substitute “ **, 80A(2)(b) and 81** ”.
 
-**27.**[^key-181f9ec59427b51048c96a148f0db310] In section 85 (temporary public ownership), in subsection (1), for “third” substitute “ fourth ”.
+**27.**[^c-181f9ec59427b51048c96a148f0db310] In section 85 (temporary public ownership), in subsection (1), for “third” substitute “ fourth ”.
 
-**28.**[^key-438c23047265e611e4b5c8d3496a06df] In section 136 (overview), in the Table in subsection (3), for “152” substitute “ 152A ”.
+**28.**[^c-438c23047265e611e4b5c8d3496a06df] In section 136 (overview), in the Table in subsection (3), for “152” substitute “ 152A ”.
 
-**29.**[^key-0dc59b68a396b555b156f7cc93fc04b6] After section 152 insert—
+**29.**[^c-0dc59b68a396b555b156f7cc93fc04b6] After section 152 insert—
 
 > **152A. Property transfer from transferred institution**
 >
@@ -1044,11 +1044,11 @@ Section 17
 > - (a) are to be made by statutory instrument, and
 > - (b) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
 
-**30.**[^key-811874dcecf63fc2bf9bad8e28e15183] In section 220 (insolvency etc), after subsection (4) insert—
+**30.**[^c-811874dcecf63fc2bf9bad8e28e15183] In section 220 (insolvency etc), after subsection (4) insert—
 
 > (4A) The fact that ownership of an authorised bank is transferred or otherwise changed as a result of a resolution instrument (or an instrument treated as a resolution instrument) does not itself prevent the bank from relying on section 213.
 
-**31.**[^key-5103b54a90fb2fe9fe2d335df743436c] In section 259 (statutory instruments)—
+**31.**[^c-5103b54a90fb2fe9fe2d335df743436c] In section 259 (statutory instruments)—
 
 - (a) in the Table in subsection (3), in Part 1, in the entry relating to section 60 for “Third party compensation” substitute “ Third party compensation: partial property transfers ”;
 - (b) in the Table in subsection (3), in Part 1, at the appropriate places insert—
@@ -1083,7 +1083,7 @@ Section 17
 
   .
 
-**32.**[^key-31acd47c7cbcf399966c1cc03cb26f7f] In section 261 (index of defined terms), in the Table, at the appropriate places insert—
+**32.**[^c-31acd47c7cbcf399966c1cc03cb26f7f] In section 261 (index of defined terms), in the Table, at the appropriate places insert—
 
 > |  |  |
 > | --- | --- |
@@ -1101,7 +1101,7 @@ Section 17
 
 ### PART 2 — Modification of Investment Bank Special Administration Regulations 2011
 
-**33.**[^key-6578ac1e0e11bb6924e72a59465350ea] (1) This paragraph modifies the application of the Investment Bank Special Administration Regulations 2011 (S.I. 2011/245) (“**the regulations**”) in cases where a resolution instrument has been made under section 12A of the Banking Act 2009 with respect to the investment bank in the relevant 3-month period.
+**33.**[^c-6578ac1e0e11bb6924e72a59465350ea] (1) This paragraph modifies the application of the Investment Bank Special Administration Regulations 2011 (S.I. 2011/245) (“**the regulations**”) in cases where a resolution instrument has been made under section 12A of the Banking Act 2009 with respect to the investment bank in the relevant 3-month period.
 
 (2) In sub-paragraph (1) “**the relevant 3-month period**” means the 3 months ending with the date on which the FCA receives the notification under Condition 1 in regulation 8 of the regulations.
 
@@ -1119,74 +1119,74 @@ Section 17
 
 ## Annotations
 
-[^key-be2085f25bea331fa95574ae75432683]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/1) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-be2085f25bea331fa95574ae75432683]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/1) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-6857011d9d4bf40e3435ecca047dbbd6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/2) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-6857011d9d4bf40e3435ecca047dbbd6]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/2) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-cd0a86ce264077490659db46000a5688]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/3) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-cd0a86ce264077490659db46000a5688]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/3) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-4373e3f0a8d38b67527c3a7320d359f5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4) in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
+[^c-4373e3f0a8d38b67527c3a7320d359f5]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4) in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
 
-[^key-5e0619bc16df450ba7348b73036517f0]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4) in force at 31.12.2014 in so far as not already in force by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-5e0619bc16df450ba7348b73036517f0]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4) in force at 31.12.2014 in so far as not already in force by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-208088659216326f5136bd06369acff4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/5) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-208088659216326f5136bd06369acff4]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/5) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-d187fe6d7cebed5f2f68e835c7893618]: Commencement: [Sch. 2 para. 6(1)-(7)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/1) [(9)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/9) [(10)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/10) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-d187fe6d7cebed5f2f68e835c7893618]: Commencement: [Sch. 2 para. 6(1)-(7)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/1) [(9)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/9) [(10)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/10) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-734cae7ecba6918491efdc273d0c3aa7]: Commencement: [Sch. 2 para. 6(8)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/8) in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
+[^c-734cae7ecba6918491efdc273d0c3aa7]: Commencement: [Sch. 2 para. 6(8)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/8) in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
 
-[^key-f3283902fcc650a1e6b75b4d626f0893]: Commencement: [Sch. 2 para. 6(8)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/8) in force at 31.12.2014 in so far as not already in force by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-f3283902fcc650a1e6b75b4d626f0893]: Commencement: [Sch. 2 para. 6(8)](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/6/8) in force at 31.12.2014 in so far as not already in force by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-9126a14f22993ee75887777c226cdda4]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/7) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-9126a14f22993ee75887777c226cdda4]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/7) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-2fa18073a5043cdfbd4a00d14c32299a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/8) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-2fa18073a5043cdfbd4a00d14c32299a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/8) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-1ae2b182a6b3fff3e2dd051310b09bab]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/9) omitted (31.12.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 164(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/164/2); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
+[^c-1ae2b182a6b3fff3e2dd051310b09bab]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/9) omitted (31.12.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 164(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/164/2); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b)
 
-[^key-32d103a326698a3fa7b164c18db8ddd6]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/10) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-32d103a326698a3fa7b164c18db8ddd6]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/10) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-1388f7f47d63b0c81dc5424d5f05473b]: Textual amendment: Sch. 2 para. 11 omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-1388f7f47d63b0c81dc5424d5f05473b]: Textual amendment: Sch. 2 para. 11 omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
 
-[^key-701ac0076de2b86216e5689fb83317ae]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/12) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-701ac0076de2b86216e5689fb83317ae]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/12) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-5212323fb08c2edabfdf9f95f400d083]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/13) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-5212323fb08c2edabfdf9f95f400d083]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/13) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-0b27e70f95936921096a7980259e91a7]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/14) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-0b27e70f95936921096a7980259e91a7]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/14) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-836a729136b156ebb8fd68e1bda76e81]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/15) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-836a729136b156ebb8fd68e1bda76e81]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/15) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-7c89b7ffd83502ccde149515e8f7819e]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/16) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-7c89b7ffd83502ccde149515e8f7819e]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/16) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-1704c9d195413ccce08e9a501912a704]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/17) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-1704c9d195413ccce08e9a501912a704]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/17) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-a429fa4e0e350d2cb4c0ec10cf177ab0]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/18) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-a429fa4e0e350d2cb4c0ec10cf177ab0]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/18) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-27b3ccb06c9b27a67bc4fe6e2e61719a]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/19) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-27b3ccb06c9b27a67bc4fe6e2e61719a]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/19) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-d0aa4196d90480e9d6389bcc00acc53a]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/20) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-d0aa4196d90480e9d6389bcc00acc53a]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/20) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-c306b123e573077cd0fab218e76192a4]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/21) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-c306b123e573077cd0fab218e76192a4]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/21) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-e32e601bf56437179ae92c76eb9611d0]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/22) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-e32e601bf56437179ae92c76eb9611d0]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/22) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-03c7880ca27f19d76d415475d8fde818]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/23) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-03c7880ca27f19d76d415475d8fde818]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/23) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-0b1c17810d7262aec03ef3fd4b41dcda]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/24) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-0b1c17810d7262aec03ef3fd4b41dcda]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/24) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-b497a8c806a93bdf73ffcb568ed6427f]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/25) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-b497a8c806a93bdf73ffcb568ed6427f]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/25) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-fdb4d989ba2ad7723039fd6973a1a175]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/26) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-fdb4d989ba2ad7723039fd6973a1a175]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/26) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-181f9ec59427b51048c96a148f0db310]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/27) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-181f9ec59427b51048c96a148f0db310]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/27) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-438c23047265e611e4b5c8d3496a06df]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/28) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-438c23047265e611e4b5c8d3496a06df]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/28) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-0dc59b68a396b555b156f7cc93fc04b6]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/29) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-0dc59b68a396b555b156f7cc93fc04b6]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/29) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-811874dcecf63fc2bf9bad8e28e15183]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/30) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-811874dcecf63fc2bf9bad8e28e15183]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/30) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-5103b54a90fb2fe9fe2d335df743436c]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/31) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-5103b54a90fb2fe9fe2d335df743436c]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/31) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-31acd47c7cbcf399966c1cc03cb26f7f]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/32) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-31acd47c7cbcf399966c1cc03cb26f7f]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/32) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-6578ac1e0e11bb6924e72a59465350ea]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/33) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-6578ac1e0e11bb6924e72a59465350ea]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/33) in force at 31.12.2014 by [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)

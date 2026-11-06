@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) A member may elect to allocate a part of the annual amount of the member's pension under this Section of[^key-e9e5559443b7415042b47fbbef447bc1] the Scheme for the provision of a pension after the member's death for an individual who is the member's spouse or civil partner or another person who is the member's dependant within the meaning of paragraph 15 of Schedule 28 to the Finance Act 2004 if conditions A and B are met.
+(1) A member may elect to allocate a part of the annual amount of the member's pension under this Section of[^c-e9e5559443b7415042b47fbbef447bc1] the Scheme for the provision of a pension after the member's death for an individual who is the member's spouse or civil partner or another person who is the member's dependant within the meaning of paragraph 15 of Schedule 28 to the Finance Act 2004 if conditions A and B are met.
 
 (2) Condition A is that the member has not become entitled to the payment of any pension under this Section of the Scheme other than a pension payable under regulation 180 (partial retirement: members aged at least 55).
 
@@ -37,7 +37,7 @@ summary: ''
 
 - (a) the allocated annual pension exceeding the member's unallocated relevant annual pension,
 - (b) the allocated pension exceeding such amount as the Department may determine for the purposes of this paragraph, after consultation with the Scheme actuary, having regard to any restrictions imposed under Part 4 of the Finance Act 2004, or
-- (c) the value of the allocated annual pension being such that a lump sum could be paid under regulation 252 (commutation of small pensions) by way of commutation of a pension of that amount if the person entitled to the pension was not entitled to any other benefits under this Section of[^key-aa8f2566105a3b87214ae0f23b670439] the Scheme.
+- (c) the value of the allocated annual pension being such that a lump sum could be paid under regulation 252 (commutation of small pensions) by way of commutation of a pension of that amount if the person entitled to the pension was not entitled to any other benefits under this Section of[^c-aa8f2566105a3b87214ae0f23b670439] the Scheme.
 
 (7) The annual pension that is allocated must be an exact number of pounds.
 
@@ -52,6 +52,6 @@ for the purposes of paragraphs (5) to (7) the member is treated as entitled to t
 
 ## Annotations
 
-[^key-e9e5559443b7415042b47fbbef447bc1]: Textual amendment: Words in [reg. 189(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/189/1)[(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/189/2) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-e9e5559443b7415042b47fbbef447bc1]: Textual amendment: Words in [reg. 189(1)](https://www.legislation.gov.uk/nisr/2008/256/regulation/189/1)[(2)](https://www.legislation.gov.uk/nisr/2008/256/regulation/189/2) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-aa8f2566105a3b87214ae0f23b670439]: Textual amendment: Words in [reg. 189(6)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/189/6/c) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-aa8f2566105a3b87214ae0f23b670439]: Textual amendment: Words in [reg. 189(6)(c)](https://www.legislation.gov.uk/nisr/2008/256/regulation/189/6/c) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214. Power to give directions to critical police undertakings[^key-18b30399bf18e02b5c87c9c63529fef5][^key-a9e75ef59c50de7f0db8e313054de78a]
+## 214. Power to give directions to critical police undertakings[^c-18b30399bf18e02b5c87c9c63529fef5][^c-a9e75ef59c50de7f0db8e313054de78a]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ In the Police Act 1996, after section 40C insert—
 
 ## Annotations
 
-[^key-18b30399bf18e02b5c87c9c63529fef5]: Commencement: S. 214 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-18b30399bf18e02b5c87c9c63529fef5]: Commencement: S. 214 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a9e75ef59c50de7f0db8e313054de78a]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2026/20/section/214) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z)
+[^c-a9e75ef59c50de7f0db8e313054de78a]: Commencement: [S. 214](https://www.legislation.gov.uk/ukpga/2026/20/section/214) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z)

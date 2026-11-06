@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Statutory undertakers[^key-86fc3bd13d325d6df1d82ed3b96b1950]
+## 41. Statutory undertakers[^c-86fc3bd13d325d6df1d82ed3b96b1950]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86fc3bd13d325d6df1d82ed3b96b1950]: Commencement: Art. 41 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-86fc3bd13d325d6df1d82ed3b96b1950]: Commencement: Art. 41 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

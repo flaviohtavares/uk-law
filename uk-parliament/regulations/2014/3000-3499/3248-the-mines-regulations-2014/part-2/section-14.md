@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Inspection of the mine[^key-1bb651d704e5e60a43f3d65c7e3d4d87]
+## 14. Inspection of the mine[^c-1bb651d704e5e60a43f3d65c7e3d4d87]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1bb651d704e5e60a43f3d65c7e3d4d87]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/3248/regulation/14) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-1bb651d704e5e60a43f3d65c7e3d4d87]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2014/3248/regulation/14) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

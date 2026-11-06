@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Meaning of “connected” in sections 159 and 161[^key-e8e5c535ce8ed156bfc9fb8c3817ce3a][^key-5931e34632e0d675279e733b1aca29b3]
+## 163. Meaning of “connected” in sections 159 and 161[^c-e8e5c535ce8ed156bfc9fb8c3817ce3a][^c-5931e34632e0d675279e733b1aca29b3]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subsections (2) and (3) apply for the purposes of sections 159 and 161[^key-cdedd7cfe83fdad3c65d5ff6a7ae8f20] and this section.
+(1) Subsections (2) and (3) apply for the purposes of sections 159 and 161[^c-cdedd7cfe83fdad3c65d5ff6a7ae8f20] and this section.
 
 (2) Two persons are connected with each other if one of them is an individual and the other is—
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e8e5c535ce8ed156bfc9fb8c3817ce3a]: Modification: Ss. 158-163 applied (with modifications) (with effect in accordance with s. 116(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 106(7)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/106/7/b)
+[^c-e8e5c535ce8ed156bfc9fb8c3817ce3a]: Modification: Ss. 158-163 applied (with modifications) (with effect in accordance with s. 116(1) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 106(7)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/106/7/b)
 
-[^key-5931e34632e0d675279e733b1aca29b3]: Textual amendment: Words in [s. 163 heading](https://www.legislation.gov.uk/ukpga/2010/8/part/4/chapter/2/crossheading/indirect-participation-in-management-control-or-capital-of-a-person) substituted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/13/4/a), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
+[^c-5931e34632e0d675279e733b1aca29b3]: Textual amendment: Words in [s. 163 heading](https://www.legislation.gov.uk/ukpga/2010/8/part/4/chapter/2/crossheading/indirect-participation-in-management-control-or-capital-of-a-person) substituted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 13(4)(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/13/4/a), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
 
-[^key-cdedd7cfe83fdad3c65d5ff6a7ae8f20]: Textual amendment: Words in [s. 163(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/163/1) substituted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/13/4/b), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)
+[^c-cdedd7cfe83fdad3c65d5ff6a7ae8f20]: Textual amendment: Words in [s. 163(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/163/1) substituted (for chargeable periods commencing on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 13(4)(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/13/4/b), [32(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/32/1)

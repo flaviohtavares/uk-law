@@ -60,7 +60,7 @@ So far as relating to the requirement to pay pension levy, the 2005 Order, and r
 
 (6) Where any anniversary of the interest start date falls after 30th November 2015, the interest rate to be applied during the year from that anniversary date is the EU recovery interest rate.
 
-(7) For the purposes of paragraph (6), “EU recovery interest rate” means the rate referred to in Article 9 of [Commission Regulation (EC) No. 794/2004](https://www.legislation.gov.uk/eur/2004/0794)[^f00002](as it had effect in the United Kingdom immediately prior to IP completion day)[^key-2a15c1cdacc144eab94e56ba5d72e92d].
+(7) For the purposes of paragraph (6), “EU recovery interest rate” means the rate referred to in Article 9 of [Commission Regulation (EC) No. 794/2004](https://www.legislation.gov.uk/eur/2004/0794)[^f00002](as it had effect in the United Kingdom immediately prior to IP completion day)[^c-2a15c1cdacc144eab94e56ba5d72e92d].
 
 Table
 
@@ -118,4 +118,4 @@ The Pensions (2015 Act) (Commencement No. 1) Order (Northern Ireland) 2015 ([S.R
 
 [^f00002]: Footnote: O.J. No. L140, 30.4.04, p.1. Article 9 was amended by Commission Regulation [(EC) 271/2008](https://www.legislation.gov.uk/european/regulation/2008/0271) (O.J. No. L82, 25.3.08, p.1). In accordance with Article 10 of [Commission Regulation (EC) No. 794/2004](https://www.legislation.gov.uk/european/regulation/2004/0794) the rates are published by the European Commission and the rates are calculated in accordance with the Communication from the European Commission dated 19th January 2008 (O.J. No. C14, 19.1.08, p.6)
 
-[^key-2a15c1cdacc144eab94e56ba5d72e92d]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/nisr/2015/402/regulation/3/7) inserted (31.12.2020) by [The Pension Protection Fund (State Aid) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/318)](https://www.legislation.gov.uk/nisr/2020/318), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/318/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2020/318/regulation/4)
+[^c-2a15c1cdacc144eab94e56ba5d72e92d]: Textual amendment: Words in [reg. 3(7)](https://www.legislation.gov.uk/nisr/2015/402/regulation/3/7) inserted (31.12.2020) by [The Pension Protection Fund (State Aid) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/318)](https://www.legislation.gov.uk/nisr/2020/318), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/318/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2020/318/regulation/4)

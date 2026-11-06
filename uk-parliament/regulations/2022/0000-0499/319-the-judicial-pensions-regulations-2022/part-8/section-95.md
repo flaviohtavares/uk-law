@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Nominations for lump sum death benefits[^key-67bb7c82b08f15383193bf15aa31e351]
+## 95. Nominations for lump sum death benefits[^c-67bb7c82b08f15383193bf15aa31e351]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67bb7c82b08f15383193bf15aa31e351]: Commencement: Reg. 95 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-67bb7c82b08f15383193bf15aa31e351]: Commencement: Reg. 95 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

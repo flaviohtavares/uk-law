@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22B. Incorrect benefit adjustments in collective money purchase schemes[^key-102454c661a650d0c54a09a7cc1f2870]
+## 22B. Incorrect benefit adjustments in collective money purchase schemes[^c-102454c661a650d0c54a09a7cc1f2870]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-102454c661a650d0c54a09a7cc1f2870]: Textual amendment: [Regs. 22A](https://www.legislation.gov.uk/nisr/2014/79/regulation/22A), [22B](https://www.legislation.gov.uk/nisr/2014/79/regulation/22B) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(9)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/9)
+[^c-102454c661a650d0c54a09a7cc1f2870]: Textual amendment: [Regs. 22A](https://www.legislation.gov.uk/nisr/2014/79/regulation/22A), [22B](https://www.legislation.gov.uk/nisr/2014/79/regulation/22B) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(9)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/9)

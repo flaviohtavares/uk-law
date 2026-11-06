@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Warrant to enter dwelling[^key-6059a077b98cd342500a4301e6a25812]
+## 85. Warrant to enter dwelling[^c-6059a077b98cd342500a4301e6a25812]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6059a077b98cd342500a4301e6a25812]: Commencement: [S. 85](https://www.legislation.gov.uk/anaw/2017/2/section/85) in force at 29.8.2025 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/1248/article/3/d) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))
+[^c-6059a077b98cd342500a4301e6a25812]: Commencement: [S. 85](https://www.legislation.gov.uk/anaw/2017/2/section/85) in force at 29.8.2025 by [S.I. 2024/1248](https://www.legislation.gov.uk/wsi/2024/1248), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/1248/article/3/d) (with [arts. 4](https://www.legislation.gov.uk/wsi/2024/1248/article/4), [5](https://www.legislation.gov.uk/wsi/2024/1248/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Exemptions from section 5(1) of the Act[^key-1953e9a3c1c436d9b11f4d17992a0d58]
+## 17. Exemptions from section 5(1) of the Act[^c-1953e9a3c1c436d9b11f4d17992a0d58]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Section 5(1) of the Act does not apply to:—
 
 ## Annotations
 
-[^key-1953e9a3c1c436d9b11f4d17992a0d58]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/3138/regulation/17) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-1953e9a3c1c436d9b11f4d17992a0d58]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1993/3138/regulation/17) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

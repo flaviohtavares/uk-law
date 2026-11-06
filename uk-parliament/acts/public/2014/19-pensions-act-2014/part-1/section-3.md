@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Full and reduced rates of state pension[^M_I_257a2fe7-dfa5-4c35-daa2-7eab2fa03648][^key-844b94742e54b277b9e9e79c22f23f6f]
+## 3. Full and reduced rates of state pension[^M_I_257a2fe7-dfa5-4c35-daa2-7eab2fa03648][^c-844b94742e54b277b9e9e79c22f23f6f]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^M_I_257a2fe7-dfa5-4c35-daa2-7eab2fa03648]: Commencement: S. 3(1) in force at 23.2.2016 for specified purposes by [S.I. 2016/203](https://www.legislation.gov.uk/uksi/2016/203), [art. 2(a)](https://www.legislation.gov.uk/uksi/2016/203/article/2/a)
 
-[^key-844b94742e54b277b9e9e79c22f23f6f]: Commencement: S. 3 in force at 6.4.2016 in so far as not already in force, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-844b94742e54b277b9e9e79c22f23f6f]: Commencement: S. 3 in force at 6.4.2016 in so far as not already in force, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)

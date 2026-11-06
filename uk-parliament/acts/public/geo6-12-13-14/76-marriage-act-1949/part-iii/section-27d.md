@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27D. Additional information required for certain marriages of same sex couples[^key-1aed3668da72474910bc1f6308b2a533][^key-e0a2cad7bf7d66d6ca8f94c649806c6b]
+## 27D. Additional information required for certain marriages of same sex couples[^c-1aed3668da72474910bc1f6308b2a533][^c-e0a2cad7bf7d66d6ca8f94c649806c6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1aed3668da72474910bc1f6308b2a533]: Textual amendment: S. 27D inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/6); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(k)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/k/i)
+[^c-1aed3668da72474910bc1f6308b2a533]: Textual amendment: S. 27D inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/6); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(k)(i)](https://www.legislation.gov.uk/uksi/2014/93/article/3/k/i)
 
-[^key-e0a2cad7bf7d66d6ca8f94c649806c6b]: Modification: S. 27D applied (with modifications) by 1970 c. 34, s. 2(4) (as inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/24); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(k)(ii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/k/ii))
+[^c-e0a2cad7bf7d66d6ca8f94c649806c6b]: Modification: S. 27D applied (with modifications) by 1970 c. 34, s. 2(4) (as inserted (13.3.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 7 para. 24](https://www.legislation.gov.uk/ukpga/2013/30/schedule/7/paragraph/24); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [art. 3(k)(ii)](https://www.legislation.gov.uk/uksi/2014/93/article/3/k/ii))

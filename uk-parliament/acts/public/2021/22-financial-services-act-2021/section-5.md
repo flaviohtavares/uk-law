@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Prudential regulation of credit institutions etc by PRA rules[^key-aaefff9fbda7ef6f50db35854a8a859c]
+## 5. Prudential regulation of credit institutions etc by PRA rules[^c-aaefff9fbda7ef6f50db35854a8a859c]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) Part 3 contains minor and consequential amendments, and
 - (d) Part 4 contains transitional provision.
 
-(2) Subsections (3) to (5) apply where a provision of the Capital Requirements Regulation, or of an instrument made under that Regulation, has been revoked by regulations under section 3 or has been revoked by section 1 of the Financial Services and Markets Act 2023[^key-514876de85ab3c21a36969079928c3be].
+(2) Subsections (3) to (5) apply where a provision of the Capital Requirements Regulation, or of an instrument made under that Regulation, has been revoked by regulations under section 3 or has been revoked by section 1 of the Financial Services and Markets Act 2023[^c-514876de85ab3c21a36969079928c3be].
 
 (3) In the Capital Requirements Regulation and in other enactments, except as otherwise provided—
 
@@ -42,7 +42,7 @@ summary: ''
 
 (5) For the purposes of subsection (3), whether a CRR rule corresponds to a revoked provision is to be determined by reference to the document published under subsection (4), as updated from time to time.
 
-(6) In this section, references to instruments made under the Capital Requirements Regulation include EU tertiary legislation made under that Regulation which forms part of assimilated[^key-79f5bde746c2c1efd3228ec3e5250cde] law.
+(6) In this section, references to instruments made under the Capital Requirements Regulation include EU tertiary legislation made under that Regulation which forms part of assimilated[^c-79f5bde746c2c1efd3228ec3e5250cde] law.
 
 (7) In this section—
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aaefff9fbda7ef6f50db35854a8a859c]: Commencement: S. 5 in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/c)
+[^c-aaefff9fbda7ef6f50db35854a8a859c]: Commencement: S. 5 in force at 9.6.2021 by [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2021/671/regulation/2/c)
 
-[^key-514876de85ab3c21a36969079928c3be]: Textual amendment: Words in s. 5(2) inserted (22.11.2024) by [The Prudential Regulation of Credit Institutions (Meaning of CRR Rules and Recognised Exchange) (Amendment) Regulations 2024 (S.I. 2024/1200)](https://www.legislation.gov.uk/uksi/2024/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/1200/regulation/3)
+[^c-514876de85ab3c21a36969079928c3be]: Textual amendment: Words in s. 5(2) inserted (22.11.2024) by [The Prudential Regulation of Credit Institutions (Meaning of CRR Rules and Recognised Exchange) (Amendment) Regulations 2024 (S.I. 2024/1200)](https://www.legislation.gov.uk/uksi/2024/1200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1200/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2024/1200/regulation/3)
 
-[^key-79f5bde746c2c1efd3228ec3e5250cde]: Textual amendment: Word in s. 5(6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 100(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/100/2)
+[^c-79f5bde746c2c1efd3228ec3e5250cde]: Textual amendment: Word in s. 5(6) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 100(2)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/100/2)

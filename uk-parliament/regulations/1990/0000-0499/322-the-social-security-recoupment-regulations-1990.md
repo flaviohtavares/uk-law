@@ -83,7 +83,7 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 - (a) attendance allowance,
 - (b) disablement benefit (including disablement pensions) payable in accordance with sections 57 to 63 of the principal Act,
 - (c) family credit,
-- (ca)[^key-6122689b341ef62b5a774a955b9e1fa6] incapacity benefit;
+- (ca)[^c-6122689b341ef62b5a774a955b9e1fa6] incapacity benefit;
 - (d) income support, under Part II of the Social Security Act 1986 [^c2181133], including personal expenses addition, special transitional additions and transitional addition as defined in the Income Support (Transitional) Regulations 1987 [^c2181134],
 - (e) invalidity pension and allowance,
 - (f) mobility allowance,
@@ -94,12 +94,12 @@ Now, therefore, the Secretary of State for Social Security, in exercise of the p
 - (k) sickness benefit,
 - (l)[^M_F_af2f0f2b-6ed9-4eb2-e92e-07b9c1eaaefb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (m) unemployment benefit,
-- (ma (Extent: E+W))[^key-c73295f4fb25496756bac8181bbbe9d7] disability living allowance, *(Extent: E+W)*
+- (ma (Extent: E+W))[^c-c73295f4fb25496756bac8181bbbe9d7] disability living allowance, *(Extent: E+W)*
 - (mb (Extent: E+W)) disability working allowance. *(Extent: E+W)*
 - (n) any increase in any of the benefits mentioned above payable in accordance with the Social Security Acts 1975 to 1989 or the Old Cases Act or with any regulations, Order in Council, order or scheme made thereunder.
-- (o)[^key-a97f14656760e89f0b31eee8e8f4e0b3] jobseeker’s allowance.
+- (o)[^c-a97f14656760e89f0b31eee8e8f4e0b3] jobseeker’s allowance.
 
-(2) In paragraph (1) references to, respectively, invalidity pension and allowance, severe disablement allowance, sickness benefit and unemployment benefit include also a reference to any income support paid with each of those benefits on the same instrument of payment or paid concurrently with each of those benefits by means of an instrument for benefit payment[^key-c9592cd77a840c2b0b2fa96f346dd609], and for this purpose, income support includes personal expenses addition, special transitional additions and transitional addition as defined in the Income Support (Transitional) Regulations 1987.
+(2) In paragraph (1) references to, respectively, invalidity pension and allowance, severe disablement allowance, sickness benefit and unemployment benefit include also a reference to any income support paid with each of those benefits on the same instrument of payment or paid concurrently with each of those benefits by means of an instrument for benefit payment[^c-c9592cd77a840c2b0b2fa96f346dd609], and for this purpose, income support includes personal expenses addition, special transitional additions and transitional addition as defined in the Income Support (Transitional) Regulations 1987.
 
 (3)[^M_F_a5e7192e-7ed1-4205-d5f7-242b85149b23] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -297,7 +297,7 @@ Regulation 16(1) relates to notifications of claims in respect of compensation p
 
 [^c2181132]: Marginal citation: See section 29(5) of the [Social Security Act 1989 (c. 24)](https://www.legislation.gov.uk/ukpga/1989/24)
 
-[^key-6122689b341ef62b5a774a955b9e1fa6]: Textual amendment: [Reg. 2(1)(ca)](https://www.legislation.gov.uk/uksi/1990/322/regulation/2/1/ca) inserted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/1995/829/regulation/22) (with [Pt. 3](https://www.legislation.gov.uk/uksi/1995/829/part/3))
+[^c-6122689b341ef62b5a774a955b9e1fa6]: Textual amendment: [Reg. 2(1)(ca)](https://www.legislation.gov.uk/uksi/1990/322/regulation/2/1/ca) inserted (13.4.1995) by [The Social Security (Incapacity Benefit) (Consequential and Transitional Amendments and Savings) Regulations 1995 (S.I. 1995/829)](https://www.legislation.gov.uk/uksi/1995/829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/829/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/1995/829/regulation/22) (with [Pt. 3](https://www.legislation.gov.uk/uksi/1995/829/part/3))
 
 [^c2181133]: Marginal citation: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50)
 
@@ -305,11 +305,11 @@ Regulation 16(1) relates to notifications of claims in respect of compensation p
 
 [^M_F_af2f0f2b-6ed9-4eb2-e92e-07b9c1eaaefb]: Textual amendment: [Reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/1990/322/regulation/2/1/l) revoked (6.4.1994) by [The Statutory Sick Pay Act 1994 (Consequential) Regulations 1994 (S.I. 1994/730)](https://www.legislation.gov.uk/uksi/1994/730), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/730/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1994/730/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/1994/730/regulation/5))
 
-[^key-c73295f4fb25496756bac8181bbbe9d7]: Textual amendment: [Reg. 2(1)(ma)(mb)](https://www.legislation.gov.uk/uksi/1990/322/regulation/2/1/ma/mb) inserted (6.4.1992) by [The Disability Living Allowance and Disability Working Allowance (Consequential Provisions) Regulations 1991 (S.I. 1991/2742)](https://www.legislation.gov.uk/uksi/1991/2742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/1991/2742/regulation/17)
+[^c-c73295f4fb25496756bac8181bbbe9d7]: Textual amendment: [Reg. 2(1)(ma)(mb)](https://www.legislation.gov.uk/uksi/1990/322/regulation/2/1/ma/mb) inserted (6.4.1992) by [The Disability Living Allowance and Disability Working Allowance (Consequential Provisions) Regulations 1991 (S.I. 1991/2742)](https://www.legislation.gov.uk/uksi/1991/2742), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1991/2742/regulation/1/1), [17](https://www.legislation.gov.uk/uksi/1991/2742/regulation/17)
 
-[^key-a97f14656760e89f0b31eee8e8f4e0b3]: Textual amendment: [Reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/1990/322/regulation/2/1/o) added (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [24](https://www.legislation.gov.uk/uksi/1996/1345/regulation/24)
+[^c-a97f14656760e89f0b31eee8e8f4e0b3]: Textual amendment: [Reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/1990/322/regulation/2/1/o) added (7.10.1996) by [The Social Security and Child Support (Jobseeker’s Allowance) (Consequential Amendments) Regulations 1996 (S.I. 1996/1345)](https://www.legislation.gov.uk/uksi/1996/1345), [regs. 1](https://www.legislation.gov.uk/uksi/1996/1345/regulation/1), [24](https://www.legislation.gov.uk/uksi/1996/1345/regulation/24)
 
-[^key-c9592cd77a840c2b0b2fa96f346dd609]: Textual amendment: Words in reg. 2(2) inserted (4.4.1996) by [The Social Security (Claims and Payments Etc.) Amendment Regulations 1996 (S.I. 1996/672)](https://www.legislation.gov.uk/uksi/1996/672), [regs. 1](https://www.legislation.gov.uk/uksi/1996/672/regulation/1), [5](https://www.legislation.gov.uk/uksi/1996/672/regulation/5)
+[^c-c9592cd77a840c2b0b2fa96f346dd609]: Textual amendment: Words in reg. 2(2) inserted (4.4.1996) by [The Social Security (Claims and Payments Etc.) Amendment Regulations 1996 (S.I. 1996/672)](https://www.legislation.gov.uk/uksi/1996/672), [regs. 1](https://www.legislation.gov.uk/uksi/1996/672/regulation/1), [5](https://www.legislation.gov.uk/uksi/1996/672/regulation/5)
 
 [^M_F_a5e7192e-7ed1-4205-d5f7-242b85149b23]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/1990/322/regulation/2/3) revoked (6.4.1994) by [The Statutory Sick Pay Act 1994 (Consequential) Regulations 1994 (S.I. 1994/730)](https://www.legislation.gov.uk/uksi/1994/730), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1994/730/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/1994/730/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/1994/730/regulation/5))
 

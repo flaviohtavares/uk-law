@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## FOURTH SCHEDULE — Retrospective Amendments of the Settled Land Acts, 1882 to 1890[^key-da763438459512ae97f29b0b61728bcf]
+## FOURTH SCHEDULE — Retrospective Amendments of the Settled Land Acts, 1882 to 1890[^c-da763438459512ae97f29b0b61728bcf]
 
 *Extent: E+W*
 
@@ -24,15 +24,15 @@ summary: ''
 
 Section 118.
 
-### ...[^key-da763438459512ae97f29b0b61728bcf][^key-da763438459512ae97f29b0b61728bcf]
+### ...[^c-da763438459512ae97f29b0b61728bcf][^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da763438459512ae97f29b0b61728bcf]
+[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da763438459512ae97f29b0b61728bcf]
+[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -40,54 +40,54 @@ Section 118.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Powers on sale, &c.[^key-da763438459512ae97f29b0b61728bcf]
+### 5. Powers on sale, &c.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Sale of timber and fixtures at a valuation.[^key-da763438459512ae97f29b0b61728bcf]
+### 6. Sale of timber and fixtures at a valuation.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Raising of money.[^key-da763438459512ae97f29b0b61728bcf]
+### 7. Raising of money.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Provision where interest in settled land is restored.[^key-da763438459512ae97f29b0b61728bcf]
+### 8. Provision where interest in settled land is restored.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Referential settlements.[^key-da763438459512ae97f29b0b61728bcf]
+### 9. Referential settlements.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Application of capital money.[^key-da763438459512ae97f29b0b61728bcf]
+### 10. Application of capital money.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. As to capital arising otherwise than under the Settled Land Acts.[^key-da763438459512ae97f29b0b61728bcf]
+### 11. As to capital arising otherwise than under the Settled Land Acts.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. power for Public Trustee to give receipts and accept notices.[^key-da763438459512ae97f29b0b61728bcf]
+### 12. power for Public Trustee to give receipts and accept notices.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Assignments of tenant for life’s interest.[^key-da763438459512ae97f29b0b61728bcf]
+### 13. Assignments of tenant for life’s interest.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. As to base fees.[^key-da763438459512ae97f29b0b61728bcf]
+### 14. As to base fees.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendment of s. 58(1)(ix) of the Act of 1882.[^key-da763438459512ae97f29b0b61728bcf]
+### 15. Amendment of s. 58(1)(ix) of the Act of 1882.[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. ...[^key-da763438459512ae97f29b0b61728bcf]
+### 16. ...[^c-da763438459512ae97f29b0b61728bcf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da763438459512ae97f29b0b61728bcf]: Textual amendment: Sch. FOURTH repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)
+[^c-da763438459512ae97f29b0b61728bcf]: Textual amendment: Sch. FOURTH repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 12](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/12)

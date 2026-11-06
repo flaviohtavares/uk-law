@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1(2) and (3)
 
 The Scottish Minsters make the following Regulations in exercise of the powers conferred by sections 6(1)(a) and 8(1) of the Cost of Living (Tenant Protection) (Scotland) Act 2022[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation and commencement[^key-dcd2fc6fa06dacbe61791253aa995476]
+## 1. Citation and commencement[^c-dcd2fc6fa06dacbe61791253aa995476]
 
 (1) These Regulations may be cited as the Cost of Living (Tenant Protection) (Scotland) Act 2022 (Early Expiry and Suspension of Provisions) Regulations 2023.
 
@@ -52,11 +52,11 @@ The Scottish Minsters make the following Regulations in exercise of the powers c
 
 (3) Regulation 3 comes into force on 30<sup></sup>March 2023.
 
-## 2. Expiry of provision of the Cost of Living (Tenant Protection) (Scotland) Act 2022[^key-1fb3f64b15de19d6d907f4ea8b6488c5]
+## 2. Expiry of provision of the Cost of Living (Tenant Protection) (Scotland) Act 2022[^c-1fb3f64b15de19d6d907f4ea8b6488c5]
 
 26 February 2023 is specified as the day on which paragraph 3 of schedule 1 (rent cap for Scottish secure tenancies and short Scottish secure tenancies) of the Cost of Living (Tenant Protection) (Scotland) Act 2022 expires.
 
-## 3. Suspension of provision of the Cost of Living (Tenant Protections) (Scotland) Act 2022[^key-61234b161908d5f10f74efd27fc8eace]
+## 3. Suspension of provision of the Cost of Living (Tenant Protections) (Scotland) Act 2022[^c-61234b161908d5f10f74efd27fc8eace]
 
 The operation of paragraph 4 of schedule 1 (rent cap for student residential tenancies) of the Cost of Living (Tenant Protection) (Scotland) Act 2022 is suspended.
 
@@ -86,8 +86,8 @@ An impact assessment has not been produced for this instrument.
 
 [^f00001]: Footnote: [2022 asp 10](https://www.legislation.gov.uk/asp/2022/10).
 
-[^key-dcd2fc6fa06dacbe61791253aa995476]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/8/regulation/1) in force at 26.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/8/regulation/1/2)
+[^c-dcd2fc6fa06dacbe61791253aa995476]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2023/8/regulation/1) in force at 26.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/8/regulation/1/2)
 
-[^key-1fb3f64b15de19d6d907f4ea8b6488c5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/8/regulation/2) in force at 26.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/8/regulation/1/2)
+[^c-1fb3f64b15de19d6d907f4ea8b6488c5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2023/8/regulation/2) in force at 26.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/8/regulation/1/2)
 
-[^key-61234b161908d5f10f74efd27fc8eace]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/8/regulation/3) in force at 30.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2023/8/regulation/1/3)
+[^c-61234b161908d5f10f74efd27fc8eace]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2023/8/regulation/3) in force at 30.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2023/8/regulation/1/3)

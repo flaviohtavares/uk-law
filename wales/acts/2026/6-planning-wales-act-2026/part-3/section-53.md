@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Pre-application services provided by planning authority or the Welsh Ministers[^key-1eec6317592e2f02bcadc0bdf331c85f]
+## 53. Pre-application services provided by planning authority or the Welsh Ministers[^c-1eec6317592e2f02bcadc0bdf331c85f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1eec6317592e2f02bcadc0bdf331c85f]: Commencement: S. 53 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1eec6317592e2f02bcadc0bdf331c85f]: Commencement: S. 53 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

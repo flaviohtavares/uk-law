@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Requirement for HMO fire risk assessment to be made by competent person[^key-754a8ae3fe2cd98b595077a6577584a3]
+## 82. Requirement for HMO fire risk assessment to be made by competent person[^c-754a8ae3fe2cd98b595077a6577584a3]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-754a8ae3fe2cd98b595077a6577584a3]: Commencement: S. 82 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-754a8ae3fe2cd98b595077a6577584a3]: Commencement: S. 82 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

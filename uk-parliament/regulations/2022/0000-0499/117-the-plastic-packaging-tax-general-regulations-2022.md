@@ -48,11 +48,11 @@ The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the po
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-33252af7848a4522ef313f90941dad0d]
+### 1. Citation and commencement[^c-33252af7848a4522ef313f90941dad0d]
 
 These Regulations may be cited as the Plastic Packaging Tax (General) Regulations 2022 and come into force on 1st April 2022.
 
-### 2. Interpretation[^key-b11a53e3afff2e912ad7733a8bf0f198]
+### 2. Interpretation[^c-b11a53e3afff2e912ad7733a8bf0f198]
 
 (1) In these Regulations—
 
@@ -80,13 +80,13 @@ These Regulations may be cited as the Plastic Packaging Tax (General) Regulation
 - “**production run**” means a single phase of production of a product line, including a phase of production that has commenced but has not been completed at the time of the chargeable event;
 - “**return**” means a return made under regulation 33.
 
-### 3. Prescribed by the Commissioners[^key-18cd2d59494876e623b0c2d1f9e110cb]
+### 3. Prescribed by the Commissioners[^c-18cd2d59494876e623b0c2d1f9e110cb]
 
 In these Regulations, “**prescribed**” means prescribed in a public notice[^f00005] published by the Commissioners and not withdrawn by a further notice and “**prescribe**” is to be construed accordingly.
 
 ## PART 2 — Determination of plastic and recycled content, meaning of “substantial modification” etc.
 
-### 4. Plastic packaging component: substances other than plastic[^key-0fcf1c617c85c27a1f25a638581d954d]
+### 4. Plastic packaging component: substances other than plastic[^c-0fcf1c617c85c27a1f25a638581d954d]
 
 For the purposes of section 48(3) of the Act (meaning of “**plastic packaging component**”)[^f00006], the single substances other than plastic[^f00007] are—
 
@@ -98,7 +98,7 @@ For the purposes of section 48(3) of the Act (meaning of “**plastic packaging 
 - (f) wood; or
 - (g) any non-metal not within paragraphs (d) to (f).
 
-### 5. Plastic packaging component: methodology of determination of plastic content[^key-192b4257e3202bcc164f3cf38bd15fa5]
+### 5. Plastic packaging component: methodology of determination of plastic content[^c-192b4257e3202bcc164f3cf38bd15fa5]
 
 (1) To satisfy the Commissioners that a relevant packaging component[^f00008] is not a plastic packaging component, a producer or importer of relevant packaging components must—
 
@@ -154,13 +154,13 @@ the producer or importer must undertake or obtain a further determination and ke
 
 (11) In this regulation, “**relevant packaging component**” means a packaging component that contains plastic.
 
-### 6. Provision of evidence that plastic is recycled plastic[^key-7b217a7dc78dac9066b3443426db6bdb]
+### 6. Provision of evidence that plastic is recycled plastic[^c-7b217a7dc78dac9066b3443426db6bdb]
 
 (1) To satisfy the Commissioners that plastic is recycled plastic[^f00009], a person must have sufficient evidence of that fact and keep a record of that evidence.
 
 (2) The Commissioners must prescribe what constitutes sufficient evidence for the purposes of paragraph (1).
 
-### 7. Chargeable plastic packaging component: method of calculation of recycled plastic content[^key-c4d5916dc9a19524bb4d200d00c15ebd]
+### 7. Chargeable plastic packaging component: method of calculation of recycled plastic content[^c-c4d5916dc9a19524bb4d200d00c15ebd]
 
 (1) To satisfy the Commissioners that a plastic packaging component does not fall within section 47(1)(a) of the Act (chargeable plastic packaging components), a person liable to be registered must—
 
@@ -207,7 +207,7 @@ a person liable to register must undertake or obtain a further calculation and k
 
 (9) In this regulation, “**liable to be registered**” means liable to be registered under section 55(1) of the Act.
 
-### 8. Meaning of substantial modification[^key-cbe588d49b0463d41e597361ca94a2ba]
+### 8. Meaning of substantial modification[^c-cbe588d49b0463d41e597361ca94a2ba]
 
 (1) For the purposes of section 47(3) of the Act, “**substantial modification**” means a chargeable modification to a component made by a relevant manufacturing process.
 
@@ -234,7 +234,7 @@ a person liable to register must undertake or obtain a further calculation and k
 
 ### CHAPTER 1 — Plastic packaging components intended for export
 
-#### 9. Cancellation of liability[^key-d638a4cec40324b207ea7a45f41cc2f2]
+#### 9. Cancellation of liability[^c-d638a4cec40324b207ea7a45f41cc2f2]
 
 For the purposes of section 51(1)(b) of the Act, a person must have sufficient evidence of—
 
@@ -244,20 +244,20 @@ For the purposes of section 51(1)(b) of the Act, a person must have sufficient e
 
 keep a record in writing of that evidence.
 
-#### 10. Direct export condition: further conditions[^key-b96e55691a07bd0b1b0aeb2dfa14dcc2]
+#### 10. Direct export condition: further conditions[^c-b96e55691a07bd0b1b0aeb2dfa14dcc2]
 
 The further conditions specified for the purposes of section 51(2)(c) of the Act are that the person—
 
 - (a) before or at the time of production or importation, holds sufficient evidence that they intend to export a chargeable plastic packaging component; and
 - (b) keeps a record in writing of that evidence.
 
-#### 11. Meaning of sufficient evidence[^key-863be7efe278158ad83e0d5a3ec89af2]
+#### 11. Meaning of sufficient evidence[^c-863be7efe278158ad83e0d5a3ec89af2]
 
 The Commissioners must prescribe what constitutes “**sufficient evidence**” for the purposes of this Chapter.
 
 ### CHAPTER 2 — Tax credits
 
-#### 12. Interpretation[^key-b1f8f2eb2d117f057871fc4b3f586661]
+#### 12. Interpretation[^c-b1f8f2eb2d117f057871fc4b3f586661]
 
 In this Chapter—
 
@@ -267,11 +267,11 @@ In this Chapter—
   - (a) a person who is registered under section 56 of the Act (notification of liability and registration) at the time that case 1 or case 2 applies to a chargeable plastic packaging component; or
   - (b) any other person, where the Commissioners are satisfied that that person is entitled to a tax credit under section 53 of the Act.
 
-#### 13. Tax credits: meaning of sufficient evidence[^key-640eb5288917830a35d2b73272490468]
+#### 13. Tax credits: meaning of sufficient evidence[^c-640eb5288917830a35d2b73272490468]
 
 The Commissioners must prescribe what constitutes “**sufficient evidence**” for the purposes of this Chapter.
 
-#### 14. Entitlement to tax credit[^key-ea2d4b519d6bc8be284c6888d9cdf8d6]
+#### 14. Entitlement to tax credit[^c-ea2d4b519d6bc8be284c6888d9cdf8d6]
 
 Where case 1 or 2 applies in respect of a chargeable plastic packaging component and the direct export condition[^f00012] is not met in respect of that component, a liable person is entitled to a tax credit if that person—
 
@@ -280,7 +280,7 @@ Where case 1 or 2 applies in respect of a chargeable plastic packaging component
 - (c) makes a claim for a tax credit in accordance with regulation 15; and
 - (d) where case 2 applies, a person is liable to pay plastic packaging tax in respect of the different packaging component.
 
-#### 15. Claim for a tax credit: conditions, form etc.[^key-d874b135fec63a534a57ebf25eb84d61]
+#### 15. Claim for a tax credit: conditions, form etc.[^c-d874b135fec63a534a57ebf25eb84d61]
 
 (1) A claim for tax credit must—
 
@@ -292,7 +292,7 @@ Where case 1 or 2 applies in respect of a chargeable plastic packaging component
 
 (3) No claim may be made for a tax credit in respect of a chargeable plastic packaging component after the end of the period of 2 years beginning with the day on which the charge to tax arose in respect of that component.
 
-#### 16. Records for tax credit claims[^key-5a0b40047cf5e63315797c7229300515]
+#### 16. Records for tax credit claims[^c-5a0b40047cf5e63315797c7229300515]
 
 (1) A liable person who makes a claim for a tax credit must keep evidence of the following matters in respect of the claim—
 
@@ -305,7 +305,7 @@ Where case 1 or 2 applies in respect of a chargeable plastic packaging component
 
 (2) A liable person must keep such records for a period of 6 years beginning with the day that the tax credit claim is made.
 
-#### 17. Payment of tax credit claims[^key-c09946d1b96eba3474e11b2c84861e60]
+#### 17. Payment of tax credit claims[^c-c09946d1b96eba3474e11b2c84861e60]
 
 (1) Where the tax credit claimed by a liable person exceeds the amount of plastic packaging tax due from them for an accounting period, the Commissioners must repay the excess to the liable person.
 
@@ -314,13 +314,13 @@ Where case 1 or 2 applies in respect of a chargeable plastic packaging component
 - (a) if any return the liable person is required to make has not been made;
 - (b) to the extent that a tax credit has previously been claimed in respect of the chargeable plastic packaging component to which the repayment relates.
 
-#### 18. Repayment of tax credits[^key-10c515a187d6a7406e37ded7a82254f5]
+#### 18. Repayment of tax credits[^c-10c515a187d6a7406e37ded7a82254f5]
 
 (1) Where a person has benefitted from a tax credit (whether or not payment has been made under regulation 17) to which they were not entitled, or to which they have ceased to be entitled, that person must repay the amount to the Commissioners.
 
 (2) The amount due to be repaid by a person under paragraph (1) is to be recoverable on the basis that is an amount of plastic packaging tax due from them, payable on the day on which the person first benefitted from the tax credit.
 
-#### 19. Cessation of business etc.[^key-8f37668a94b1aae9296527dbec36766f]
+#### 19. Cessation of business etc.[^c-8f37668a94b1aae9296527dbec36766f]
 
 (1) Where a liable person is no longer liable to pay plastic packaging tax as a result of becoming a member of a group[^f00013] under section 71 of the Act (groups of companies)—
 
@@ -338,7 +338,7 @@ where they have ceased to be registered.
 
 ### CHAPTER 1 — Registration
 
-#### 20. Notification of liability to be registered: form, manner and content[^key-34f5c5918ce042d91f0afe6e1509f650]
+#### 20. Notification of liability to be registered: form, manner and content[^c-34f5c5918ce042d91f0afe6e1509f650]
 
 (1) The Commissioners must prescribe the form and manner in which a person is to give a notification under section 56 of the Act (notification of liability and registration).
 
@@ -361,7 +361,7 @@ where they have ceased to be registered.
 
 (5) Once notification is given under section 56 of the Act, the Commissioners may request such further information as the Commissioners may require in connection with the registration of that person.
 
-#### 21. Preservation of records[^key-6fa3d5bc9d5f75cf810b3ef28c7f8b3a]
+#### 21. Preservation of records[^c-6fa3d5bc9d5f75cf810b3ef28c7f8b3a]
 
 (1) P must—
 
@@ -372,7 +372,7 @@ a record in writing of any evidence used by P to establish whether, on any day, 
 
 (2) In this regulation, “**P**” has the meaning given by section 55(1) of the Act[^f00016].
 
-#### 22. Correction of the register[^key-4482e3864e7a83ecba5d7785446488d0]
+#### 22. Correction of the register[^c-4482e3864e7a83ecba5d7785446488d0]
 
 (1) Paragraph (2) applies to a person—
 
@@ -397,7 +397,7 @@ which may require a correction to be made to an entry made, or to be made, on th
 
 ### CHAPTER 2 — Measurement of Weight
 
-#### 23. Application and interpretation[^key-3b92b6dfaf274df117d4eab7038ab0c1]
+#### 23. Application and interpretation[^c-3b92b6dfaf274df117d4eab7038ab0c1]
 
 (1) This Chapter applies for the purposes of the measurement of the weight of any thing for the purposes of any provision in or under the Act.
 
@@ -412,7 +412,7 @@ which may require a correction to be made to an entry made, or to be made, on th
 
 (5) Where, in this Chapter, the weight of any thing is measured for the purposes of the procedure in regulations 5(5) or 7(5), reference to a product line may be construed as if it were to a production run.
 
-#### 24. Measurement of weight: timing[^key-bc5d081a3a29b96cc36d0acb97afb17f]
+#### 24. Measurement of weight: timing[^c-bc5d081a3a29b96cc36d0acb97afb17f]
 
 For the purposes of this Chapter (apart from in regulation 27), the measurement of weight must be carried out—
 
@@ -421,7 +421,7 @@ For the purposes of this Chapter (apart from in regulation 27), the measurement 
 - (c) under Chapter 3 of this Part, on or before the last day of the accounting period to which the return or account relates;
 - (d) in any other case, on or before the time of the chargeable event.
 
-#### 25. Agreed method of measurement of weight[^key-5a9f16574a39f5754e33b72dc4860adc]
+#### 25. Agreed method of measurement of weight[^c-5a9f16574a39f5754e33b72dc4860adc]
 
 (1) The Commissioners may agree rules for measuring weight with any person in writing (an “agreed method”).
 
@@ -448,7 +448,7 @@ but they may be applied in relation to measurements of weight obtained by the pe
 
 they may decide that the rules no longer apply, in whole or in part, and notify the person with whom the rules were agreed of that fact.
 
-#### 26. Specified rules for the of measurement of weight[^key-375e1bd71911401dae63c66372d6f784]
+#### 26. Specified rules for the of measurement of weight[^c-375e1bd71911401dae63c66372d6f784]
 
 The Commissioners must prescribe specified rules for measuring weight where—
 
@@ -457,7 +457,7 @@ The Commissioners must prescribe specified rules for measuring weight where—
 - (c) an agreed method is not used by any person when that method would apply to the measurement of any thing; or
 - (d) a decision has been made by the Commissioners under regulation 25(4).
 
-#### 27. Requirement to re-weigh[^key-d58bf9633b7a5dc6c27ea504e2beee38]
+#### 27. Requirement to re-weigh[^c-d58bf9633b7a5dc6c27ea504e2beee38]
 
 A person who measures the weight of any thing must re-weigh that thing or obtain a further measurement of the weight of that thing when—
 
@@ -467,7 +467,7 @@ A person who measures the weight of any thing must re-weigh that thing or obtain
 
 the provisions of this Chapter apply to the re-weighing of that thing.
 
-#### 28. Records of measurement[^key-c8e632b74036132fd1ee1757466b29e3]
+#### 28. Records of measurement[^c-c8e632b74036132fd1ee1757466b29e3]
 
 Where the weight of any thing is measured for purposes in or under the Act, a record in writing must be kept of—
 
@@ -475,7 +475,7 @@ Where the weight of any thing is measured for purposes in or under the Act, a re
 - (b) the methodology used to carry out the measurement; and
 - (c) if the result of the process is expressed in a unit of measurement other than metric units, the calculations showing the conversion of that result into metric units.
 
-#### 29. Determination of weight by the Commissioners[^key-b899d335f2056abd809b1359c948be92]
+#### 29. Determination of weight by the Commissioners[^c-b899d335f2056abd809b1359c948be92]
 
 (1) Paragraph (2) applies where it appears to the Commissioners that a person has—
 
@@ -501,15 +501,15 @@ Where the weight of any thing is measured for purposes in or under the Act, a re
 
 ### CHAPTER 3 — Accounting periods, payment, returns etc.
 
-#### 30. Interpretation[^key-d1c9251c2ac2472296524ad3ab7c6689]
+#### 30. Interpretation[^c-d1c9251c2ac2472296524ad3ab7c6689]
 
 In this Chapter, “**P**” refers to a person who is liable to be registered at any time in an accounting period to which any provision in this Chapter relates, whether or not P is so registered.
 
-#### 31. Accounting periods[^key-8c26f2747701f3919e6c992d498030cc]
+#### 31. Accounting periods[^c-8c26f2747701f3919e6c992d498030cc]
 
 The accounting periods for plastic packaging tax are the three-month periods ending with 31st March, 30th June, 30th September and 31st December.
 
-#### 32. Payment[^key-d823b0e9ca277eff77f7053b8b786f04]
+#### 32. Payment[^c-d823b0e9ca277eff77f7053b8b786f04]
 
 (1) P must make payments of plastic packaging tax in respect of each accounting period.
 
@@ -521,13 +521,13 @@ The accounting periods for plastic packaging tax are the three-month periods end
 
 (5) Payment must be made by the method prescribed by the Commissioners.
 
-#### 33. Requirement to make returns[^key-348f0b1fc79b13cffe29d4b554a9505f]
+#### 33. Requirement to make returns[^c-348f0b1fc79b13cffe29d4b554a9505f]
 
 (1) For each accounting period, P must make a return to the Commissioners no later than the last working day of the month immediately following the end of the accounting period to which it relates.
 
 (2) The Commissioners may extend the period in paragraph (1) by notice in writing to P for such additional period as they see fit.
 
-#### 34. Form, manner and content of returns etc.[^key-3206428efc7b3770bb75d9da25660e46]
+#### 34. Form, manner and content of returns etc.[^c-3206428efc7b3770bb75d9da25660e46]
 
 (1) A return must be dated and made in the form and manner prescribed by the Commissioners.
 
@@ -542,7 +542,7 @@ The accounting periods for plastic packaging tax are the three-month periods end
 - (c) the total weight of plastic packaging components produced or imported in respect of which it is shown that the components do not fall within section 47(1)(a) of the Act[^f00019];
 - (d) the total weight of chargeable plastic packaging components produced or imported in respect of which the direct export condition is met by and under section 51(2) of the Act;
 - (e) the total weight of plastic packaging components produced or imported that are exempt under section 52(4) of the Act;
-- (f)[^key-ea83896a900f67f2bf41cd67f06bfd1d] for tax credits claimed by and under section 53 of the Act—
+- (f)[^c-ea83896a900f67f2bf41cd67f06bfd1d] for tax credits claimed by and under section 53 of the Act—
   - (i) the total value of tax credits claimed in respect of plastic packaging tax which arose during the same accounting period; and
   - (ii) the total value of tax credits claimed in respect of plastic packaging tax which arose in a previous accounting period;
 - (g) such further information as the Commissioners may prescribe in connection with the return; and
@@ -552,14 +552,14 @@ The accounting periods for plastic packaging tax are the three-month periods end
 
 (4) P must keep records in writing in support of the matters to be included in a return in such manner as the Commissioners may prescribe.
 
-#### 35. Correction of returns[^key-50ba9d07d0c8066d8ab522223945c941]
+#### 35. Correction of returns[^c-50ba9d07d0c8066d8ab522223945c941]
 
 P must correct any error made in a return for an accounting period—
 
 - (a) in such manner as the Commissioners may prescribe; and
 - (b) within a period of 4 years, beginning with the last day on which the return must be made.
 
-#### 36. Requirement to keep accounts[^key-cbe313e3f36c7a631150dcc79bf19bc3]
+#### 36. Requirement to keep accounts[^c-cbe313e3f36c7a631150dcc79bf19bc3]
 
 (1) For each accounting period, P must keep—
 
@@ -589,7 +589,7 @@ P must correct any error made in a return for an accounting period—
 
 ## PART 5 — Keeping and preservation of records
 
-### 37. Further requirements to keep records[^key-aba8fb8540b9e5577e2f8f4c4f7dcca4]
+### 37. Further requirements to keep records[^c-aba8fb8540b9e5577e2f8f4c4f7dcca4]
 
 A producer of a plastic packaging component, or a person on whose behalf such a component is imported, must—
 
@@ -598,7 +598,7 @@ A producer of a plastic packaging component, or a person on whose behalf such a 
 
 a record in writing of any evidence (including any measurement of weight) which they rely upon relating to waste or surplus material remaining attached to that component at the time of the event giving rise to a charge to plastic packaging tax [^f00020].
 
-### 38. Preservation of records[^key-48fb462318ce10f96aabd53edfbe8113]
+### 38. Preservation of records[^c-48fb462318ce10f96aabd53edfbe8113]
 
 (1) This regulation applies to records kept—
 
@@ -618,7 +618,7 @@ a record in writing of any evidence (including any measurement of weight) which 
 
 ## PART 6 — Repayments
 
-### 39. Interpretation[^key-b5225ac6aa223bb972fdb3d03be7c368]
+### 39. Interpretation[^c-b5225ac6aa223bb972fdb3d03be7c368]
 
 In this Part—
 
@@ -626,7 +626,7 @@ In this Part—
 - “**claim**” means a claim made under paragraph 7 of Schedule 10 to the Act (plastic packaging tax: recovery and overpayments) and “**claimed**” is to be construed accordingly;
 - “**relevant amount**” means that part (which may be the whole) of the amount of the claim which C has reimbursed or intends to reimburse to other persons.
 
-### 40. Form, manner and content of claims for repayment[^key-81aa5bc6d3a1341c18ccde41de9643ce]
+### 40. Form, manner and content of claims for repayment[^c-81aa5bc6d3a1341c18ccde41de9643ce]
 
 (1) A claim must be made—
 
@@ -635,14 +635,14 @@ In this Part—
 
 (2) The Commissioners may require C to provide such additional information in support of a claim, as they may prescribe.
 
-### 41. Reimbursement arrangements: general[^key-c5f4b22502754ffe6bcf03e1721e7b17]
+### 41. Reimbursement arrangements: general[^c-c5f4b22502754ffe6bcf03e1721e7b17]
 
 For the purposes of paragraph 8(2) of Schedule 10 to the Act[^f00022] reimbursement arrangements[^f00023] made by C are to be disregarded except where they—
 
 - (a) include the provisions described in regulation 42; and
 - (b) are supported by the undertakings described in regulation 45.
 
-### 42. Reimbursement arrangements: provisions to be included[^key-06b54c00a391a905b6d5d03fd67c2b9b]
+### 42. Reimbursement arrangements: provisions to be included[^c-06b54c00a391a905b6d5d03fd67c2b9b]
 
 The provisions referred to in regulation 41(a) are that—
 
@@ -653,11 +653,11 @@ The provisions referred to in regulation 41(a) are that—
 - (e) any interest paid by the Commissioners on any relevant amount repaid by them will also be treated by C in the same way as the relevant amount falls to be treated under paragraphs (a) to (d); and
 - (f) the records described in regulation 44(1) will be kept by C and produced by them to the Commissioners in accordance with that regulation.
 
-### 43. Reimbursement arrangements: repayments[^key-d8e04aa1f1840a3b754f33fb53d013d3]
+### 43. Reimbursement arrangements: repayments[^c-d8e04aa1f1840a3b754f33fb53d013d3]
 
 C must, without prior demand, make any repayment to the Commissioners that C is required to make by virtue of regulation 42(d) or (e) before the end of the period of 14 days beginning with the day after the expiry of the period referred to in regulation 42(a).
 
-### 44. Records relating to reimbursement arrangements: keeping and production[^key-f00c1398d0d4dbb04441ac5659cc78a1]
+### 44. Records relating to reimbursement arrangements: keeping and production[^c-f00c1398d0d4dbb04441ac5659cc78a1]
 
 (1) C must keep records in writing of the following matters—
 
@@ -683,7 +683,7 @@ whichever is the later.
 
 may be given before or after, or both before and after, the Commissioners have paid the relevant amount to C.
 
-### 45. Undertakings[^key-222775740bf405af3cbc5b980e56bcf8]
+### 45. Undertakings[^c-222775740bf405af3cbc5b980e56bcf8]
 
 (1) The undertakings referred to in regulation 41(b) must be given to the Commissioners by C no later than the time at which C makes the claim for which the reimbursement arrangements have been made.
 
@@ -700,11 +700,11 @@ may be given before or after, or both before and after, the Commissioners have p
 
 ### CHAPTER 1 — Secondary liability and assessment notices
 
-#### 46. Interpretation[^key-716c956aab064df532cca638a75c4f89]
+#### 46. Interpretation[^c-716c956aab064df532cca638a75c4f89]
 
 In this Part, “**Schedule 9**” means Schedule 9 to the Act (plastic packaging tax: secondary liability and assessment notices and joint and several liability notices).
 
-#### 47. Secondary liability and assessment notices: factors that may be taken into account[^key-47f90c265c4e7ad21c2837809a097d64]
+#### 47. Secondary liability and assessment notices: factors that may be taken into account[^c-47f90c265c4e7ad21c2837809a097d64]
 
 (1) This regulation applies for the purposes of determining the factors the Commissioners may take into account in considering whether to give a secondary liability and assessment notice to R[^f00024] under paragraph 2(1) of Schedule 9.
 
@@ -733,7 +733,7 @@ In this Part, “**Schedule 9**” means Schedule 9 to the Act (plastic packagin
 
 (3) The Commissioners may prescribe for the purposes of paragraph (2)(b) the factors they may take into account in considering whether due diligence checks carried out by R are sufficient.
 
-#### 48. Secondary liability and assessment notices: applications to revoke or reduce amount[^key-289787b0cb376e14e65ab8c7a366326c]
+#### 48. Secondary liability and assessment notices: applications to revoke or reduce amount[^c-289787b0cb376e14e65ab8c7a366326c]
 
 (1) An application under paragraph 5(1) of Schedule 9 by R must be made in writing in the form and manner prescribed by the Commissioners and contain the information in paragraph (2).
 
@@ -756,7 +756,7 @@ if the information or document is reasonably required by the Commissioners for t
 
 ### CHAPTER 2 — Joint and several liability notices
 
-#### 49. Joint and several liability notices: factors that may be taken into account[^key-41edb30cd82b91ce4b7e719d7e6d39ca]
+#### 49. Joint and several liability notices: factors that may be taken into account[^c-41edb30cd82b91ce4b7e719d7e6d39ca]
 
 (1) This regulation applies for the purposes of determining the factors the Commissioners may take into account in considering whether to give a joint and several liability notice to R[^f00026] under paragraph 10(1) of Schedule 9.
 
@@ -789,7 +789,7 @@ if the information or document is reasonably required by the Commissioners for t
 
 (4) The Commissioners may prescribe for the purposes of paragraph (3) the factors they may take into account in considering whether due diligence checks carried out by R are sufficient.
 
-#### 50. Joint and several liability notices: notifications and applications to revoke[^key-d37d11fbc289cf505e5bbe2469313bb0]
+#### 50. Joint and several liability notices: notifications and applications to revoke[^c-d37d11fbc289cf505e5bbe2469313bb0]
 
 (1) A notification made by R under paragraph 13(1) of Schedule 9 must—
 
@@ -814,11 +814,11 @@ if the information or document is reasonably required by the Commissioners for t
 
 ## PART 8 — Groups
 
-### 51. Interpretation[^key-985161d717cbe02651890bd0e192d43d]
+### 51. Interpretation[^c-985161d717cbe02651890bd0e192d43d]
 
 In this Part, “**Schedule 13**” means Schedule 13 to the Act (plastic packaging tax: groups of companies).
 
-### 52. Applications for group treatment[^key-7f44e7809a9cd429a32ddc1c699b9ccf]
+### 52. Applications for group treatment[^c-7f44e7809a9cd429a32ddc1c699b9ccf]
 
 (1) An application for group treatment under paragraph 3 of Schedule 13 must be made in the form and manner prescribed by the Commissioners.
 
@@ -832,7 +832,7 @@ In this Part, “**Schedule 13**” means Schedule 13 to the Act (plastic packag
 
 (4) Applications under paragraph (1) are to be given electronically, subject to such exceptions as the Commissioners may prescribe.
 
-### 53. Other applications and notifications[^key-9f5fc89c2c30025958c0b62f726405a9]
+### 53. Other applications and notifications[^c-9f5fc89c2c30025958c0b62f726405a9]
 
 (1) Applications under paragraph 5(1) of Schedule 13[^f00027] must be made in writing to the Commissioners and include such information and particulars as they may prescribe.
 
@@ -843,7 +843,7 @@ In this Part, “**Schedule 13**” means Schedule 13 to the Act (plastic packag
 - (a) any member becomes aware that it ceases to be eligible under paragraph 11(1) of Schedule 13; or
 - (b) the representative member ceases to have an established place of business in the United Kingdom.
 
-### 54. Corrections to applications and notifications[^key-80fb184fa6126d37dc58d68e2b032d43]
+### 54. Corrections to applications and notifications[^c-80fb184fa6126d37dc58d68e2b032d43]
 
 (1) A person who has made an application or notification to the Commissioners under this Part must notify them of any information they have given which is, or becomes, inaccurate.
 
@@ -856,11 +856,11 @@ In this Part, “**Schedule 13**” means Schedule 13 to the Act (plastic packag
 
 ### CHAPTER 1 — Partnerships and other unincorporated bodies
 
-#### 55. Unincorporated bodies: general[^key-6ed8b30b39fc9c8b12cfbd1149df8d00]
+#### 55. Unincorporated bodies: general[^c-6ed8b30b39fc9c8b12cfbd1149df8d00]
 
 Anything done or required to be done by or under the Act in respect of a business which is carried on by a partnership or another unincorporated body may be done in the name of that firm or body.
 
-#### 56. Partnerships: compliance with requirements[^key-9bdd2e4d90739071691dfda8e1ab2729]
+#### 56. Partnerships: compliance with requirements[^c-9bdd2e4d90739071691dfda8e1ab2729]
 
 (1) This regulation applies for determining by what person anything required to be done by or under the Act is to be done where that requirement would fall on persons carrying on business in partnership.
 
@@ -868,7 +868,7 @@ Anything done or required to be done by or under the Act in respect of a busines
 
 (3) In the case of a partnership whose principal place of business is in Scotland, compliance by a person duly authorised by the partnership shall suffice as compliance by the partners.
 
-#### 57. Partnerships: changes of partners etc.[^key-00597bf2758c11bc81cd3fb5374e17bf]
+#### 57. Partnerships: changes of partners etc.[^c-00597bf2758c11bc81cd3fb5374e17bf]
 
 (1) Without prejudice to section 36 of the Partnership Act (rights of persons dealing with firm against apparent members of firm), where—
 
@@ -893,7 +893,7 @@ shall be treated as also served on that person.
 
 (4) In this regulation, “**the Partnership Act**” means the Partnership Act 1890[^f00029].
 
-#### 58. Other unincorporated bodies[^key-22e48c4d7b2d2c0a0baa0c4205f1d9f2]
+#### 58. Other unincorporated bodies[^c-22e48c4d7b2d2c0a0baa0c4205f1d9f2]
 
 (1) This regulation applies for determining by what persons anything required to be done by or under the Act is to be done where that requirement would fall on persons carrying on business together as an unincorporated body other than a partnership.
 
@@ -907,7 +907,7 @@ shall be treated as also served on that person.
 
 ### CHAPTER 2 — Death, incapacity etc.
 
-#### 59. Death, incapacity or insolvency[^key-e00433d836ee2a7f2c578bad1a503b8e]
+#### 59. Death, incapacity or insolvency[^c-e00433d836ee2a7f2c578bad1a503b8e]
 
 (1) In paragraph (2), “**T**” means a person registered under section 56(3) of the Act where the business of T is the business of producing or importing finished plastic packaging components.
 
@@ -992,9 +992,9 @@ A Tax Information and Impact Note covering this instrument was published on 20 J
 
 [^f00001]: Footnote: [2021 c. 26](https://www.legislation.gov.uk/ukpga/2021/26). Part 2 was commenced (with the exception of section 68(3)) by the Finance Act 2021, Part 2 etc. (Plastic Packaging Tax) (Appointed Day) Regulations ([S.I. 2021/1409 (C. 79)](https://www.legislation.gov.uk/uksi/2021/1409)), for the purpose of making any regulations under that Part with effect from 10th December 2021 and is modified by the Plastic Packaging Tax (Descriptions of Products) Regulations 2021 ([S.I. 2021/1417](https://www.legislation.gov.uk/uksi/2021/1417)).
 
-[^key-33252af7848a4522ef313f90941dad0d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-33252af7848a4522ef313f90941dad0d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-b11a53e3afff2e912ad7733a8bf0f198]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/117/regulation/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-b11a53e3afff2e912ad7733a8bf0f198]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/117/regulation/2) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00002]: Footnote: “**Chargeable plastic packaging component**” is to be construed in accordance with section 47 of the Act.
 
@@ -1002,170 +1002,170 @@ A Tax Information and Impact Note covering this instrument was published on 20 J
 
 [^f00004]: Footnote: Section 55(2) is to be construed subject to section 55(3).
 
-[^key-18cd2d59494876e623b0c2d1f9e110cb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/117/regulation/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-18cd2d59494876e623b0c2d1f9e110cb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2022/117/regulation/3) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00005]: Footnote: Public notices made in respect of plastic packaging tax are available at https://www.gov.uk/government/collections/plastic-packaging-tax. A hard copy is available on request from HM Revenue and Customs, Excise and Environmental Taxes Policy, 3rd Floor West, Ralli Quays, 3 Stanley Street, Salford, M60 9LA.
 
-[^key-0fcf1c617c85c27a1f25a638581d954d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/117/regulation/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-0fcf1c617c85c27a1f25a638581d954d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2022/117/regulation/4) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00006]: Footnote: Section 48(3) of the Act provides that a “plastic packaging component” is a packaging component that contains more plastic, when measured by weight, than any other single substance listed in regulation 4.
 
 [^f00007]: Footnote: “**Plastic**” is to be construed in accordance with section 49 of the Act. The term “**plastic**” includes “recycled plastic”.
 
-[^key-192b4257e3202bcc164f3cf38bd15fa5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/117/regulation/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-192b4257e3202bcc164f3cf38bd15fa5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2022/117/regulation/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00008]: Footnote: “**Packaging component**” is to be construed in accordance with section 48 of the Act and [S.I. 2021/1417](https://www.legislation.gov.uk/uksi/2021/1417).
 
-[^key-7b217a7dc78dac9066b3443426db6bdb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/117/regulation/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-7b217a7dc78dac9066b3443426db6bdb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2022/117/regulation/6) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00009]: Footnote: “**Recycled plastic**” is to be construed in accordance with section 49 of the Act. Section 49(7) provides that plastic is not to be taken as recycled plastic unless it is shown that it is recycled plastic.
 
-[^key-c4d5916dc9a19524bb4d200d00c15ebd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/117/regulation/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-c4d5916dc9a19524bb4d200d00c15ebd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2022/117/regulation/7) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-cbe588d49b0463d41e597361ca94a2ba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/117/regulation/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-cbe588d49b0463d41e597361ca94a2ba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2022/117/regulation/8) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-d638a4cec40324b207ea7a45f41cc2f2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/117/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-d638a4cec40324b207ea7a45f41cc2f2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/117/regulation/9) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-b96e55691a07bd0b1b0aeb2dfa14dcc2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/117/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-b96e55691a07bd0b1b0aeb2dfa14dcc2]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2022/117/regulation/10) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-863be7efe278158ad83e0d5a3ec89af2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/117/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-863be7efe278158ad83e0d5a3ec89af2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2022/117/regulation/11) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-b1f8f2eb2d117f057871fc4b3f586661]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/117/regulation/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-b1f8f2eb2d117f057871fc4b3f586661]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2022/117/regulation/12) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00010]: Footnote: Section 53(1)(a) of the Act relates to a component that is exported from the United Kingdom.
 
 [^f00011]: Footnote: Section 53(1)(b) of the Act relates to a component that is converted into a different packaging component.
 
-[^key-640eb5288917830a35d2b73272490468]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/117/regulation/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-640eb5288917830a35d2b73272490468]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/117/regulation/13) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-ea2d4b519d6bc8be284c6888d9cdf8d6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/117/regulation/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-ea2d4b519d6bc8be284c6888d9cdf8d6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2022/117/regulation/14) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00012]: Footnote: The “**direct export condition**” has the meaning given by section 51(2) of the Act. Regulation 10 of these regulations sets out the further conditions specified under section 51(2)(c) of the Act.
 
-[^key-d874b135fec63a534a57ebf25eb84d61]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/117/regulation/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-d874b135fec63a534a57ebf25eb84d61]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/117/regulation/15) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-5a0b40047cf5e63315797c7229300515]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/117/regulation/16) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-5a0b40047cf5e63315797c7229300515]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2022/117/regulation/16) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-c09946d1b96eba3474e11b2c84861e60]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2022/117/regulation/17) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-c09946d1b96eba3474e11b2c84861e60]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2022/117/regulation/17) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-10c515a187d6a7406e37ded7a82254f5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/117/regulation/18) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-10c515a187d6a7406e37ded7a82254f5]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2022/117/regulation/18) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-8f37668a94b1aae9296527dbec36766f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/117/regulation/19) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-8f37668a94b1aae9296527dbec36766f]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2022/117/regulation/19) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00013]: Footnote: “Group” and “representative member of a group” have the meaning given by section 71 of, and Schedule 13 to, the Act.
 
-[^key-34f5c5918ce042d91f0afe6e1509f650]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/117/regulation/20) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-34f5c5918ce042d91f0afe6e1509f650]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2022/117/regulation/20) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00014]: Footnote: “**Business**” has the meaning given by section 43(2) of the Act.
 
 [^f00015]: Footnote: “**Representative member**” has the meaning given by section 71(4)(b) of, and Schedule 13 to, the Act.
 
-[^key-6fa3d5bc9d5f75cf810b3ef28c7f8b3a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2022/117/regulation/21) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-6fa3d5bc9d5f75cf810b3ef28c7f8b3a]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2022/117/regulation/21) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00016]: Footnote: Section 55(1) refers to a person who produces finished plastic packaging components or on whose behalf they are imported.
 
-[^key-4482e3864e7a83ecba5d7785446488d0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2022/117/regulation/22) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-4482e3864e7a83ecba5d7785446488d0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2022/117/regulation/22) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-3b92b6dfaf274df117d4eab7038ab0c1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2022/117/regulation/23) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-3b92b6dfaf274df117d4eab7038ab0c1]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2022/117/regulation/23) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-bc5d081a3a29b96cc36d0acb97afb17f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2022/117/regulation/24) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-bc5d081a3a29b96cc36d0acb97afb17f]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2022/117/regulation/24) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00017]: Footnote: Section 55(2)(b) must be read subject to section 55(4) for the year beginning with 1st April 2022.
 
-[^key-5a9f16574a39f5754e33b72dc4860adc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2022/117/regulation/25) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-5a9f16574a39f5754e33b72dc4860adc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2022/117/regulation/25) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-375e1bd71911401dae63c66372d6f784]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2022/117/regulation/26) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-375e1bd71911401dae63c66372d6f784]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2022/117/regulation/26) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-d58bf9633b7a5dc6c27ea504e2beee38]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2022/117/regulation/27) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-d58bf9633b7a5dc6c27ea504e2beee38]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2022/117/regulation/27) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-c8e632b74036132fd1ee1757466b29e3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2022/117/regulation/28) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-c8e632b74036132fd1ee1757466b29e3]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2022/117/regulation/28) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-b899d335f2056abd809b1359c948be92]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2022/117/regulation/29) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-b899d335f2056abd809b1359c948be92]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2022/117/regulation/29) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-d1c9251c2ac2472296524ad3ab7c6689]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2022/117/regulation/30) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-d1c9251c2ac2472296524ad3ab7c6689]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2022/117/regulation/30) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-8c26f2747701f3919e6c992d498030cc]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2022/117/regulation/31) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-8c26f2747701f3919e6c992d498030cc]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2022/117/regulation/31) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-d823b0e9ca277eff77f7053b8b786f04]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2022/117/regulation/32) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-d823b0e9ca277eff77f7053b8b786f04]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/2022/117/regulation/32) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-348f0b1fc79b13cffe29d4b554a9505f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2022/117/regulation/33) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-348f0b1fc79b13cffe29d4b554a9505f]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2022/117/regulation/33) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-3206428efc7b3770bb75d9da25660e46]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2022/117/regulation/34) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-3206428efc7b3770bb75d9da25660e46]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2022/117/regulation/34) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00018]: Footnote: Section 43 of the Act (read in conjunction with section 52, apart from section 52(4), for these purposes) determines when a plastic packaging component is chargeable.
 
 [^f00019]: Footnote: Section 47(2) states that a plastic packaging component is taken to fall within section 47(1)(a) unless it is shown that it does not. Regulation 7 above sets out the methodology by which this may be established.
 
-[^key-ea83896a900f67f2bf41cd67f06bfd1d]: Textual amendment: [Reg. 34(2)(f)](https://www.legislation.gov.uk/uksi/2022/117/regulation/34/2/f) substituted (1.7.2023) by [The Plastic Packaging Tax (General) (Amendment) Regulations 2023 (S.I. 2023/622)](https://www.legislation.gov.uk/uksi/2023/622), [regs. 1](https://www.legislation.gov.uk/uksi/2023/622/regulation/1), [2](https://www.legislation.gov.uk/uksi/2023/622/regulation/2)
+[^c-ea83896a900f67f2bf41cd67f06bfd1d]: Textual amendment: [Reg. 34(2)(f)](https://www.legislation.gov.uk/uksi/2022/117/regulation/34/2/f) substituted (1.7.2023) by [The Plastic Packaging Tax (General) (Amendment) Regulations 2023 (S.I. 2023/622)](https://www.legislation.gov.uk/uksi/2023/622), [regs. 1](https://www.legislation.gov.uk/uksi/2023/622/regulation/1), [2](https://www.legislation.gov.uk/uksi/2023/622/regulation/2)
 
-[^key-50ba9d07d0c8066d8ab522223945c941]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2022/117/regulation/35) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-50ba9d07d0c8066d8ab522223945c941]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/2022/117/regulation/35) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-cbe313e3f36c7a631150dcc79bf19bc3]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2022/117/regulation/36) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-cbe313e3f36c7a631150dcc79bf19bc3]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2022/117/regulation/36) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-aba8fb8540b9e5577e2f8f4c4f7dcca4]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2022/117/regulation/37) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-aba8fb8540b9e5577e2f8f4c4f7dcca4]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2022/117/regulation/37) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00020]: Footnote: Section 47(4) of the Act has the effect that attached waste or surplus material are not part of a plastic packaging component when it is “finished”.
 
-[^key-48fb462318ce10f96aabd53edfbe8113]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2022/117/regulation/38) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-48fb462318ce10f96aabd53edfbe8113]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2022/117/regulation/38) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00021]: Footnote: [S.I. 2021/1417](https://www.legislation.gov.uk/uksi/2021/1417).
 
-[^key-b5225ac6aa223bb972fdb3d03be7c368]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2022/117/regulation/39) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-b5225ac6aa223bb972fdb3d03be7c368]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2022/117/regulation/39) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-81aa5bc6d3a1341c18ccde41de9643ce]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2022/117/regulation/40) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-81aa5bc6d3a1341c18ccde41de9643ce]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2022/117/regulation/40) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-c5f4b22502754ffe6bcf03e1721e7b17]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2022/117/regulation/41) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-c5f4b22502754ffe6bcf03e1721e7b17]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2022/117/regulation/41) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00022]: Footnote: Paragraph 8(2) of Schedule 10 to the Act provides that it is a defence to a repayment claim that the repayment would unjustly enrich a claimant.
 
 [^f00023]: Footnote: The term “**reimbursement arrangement**” has the meaning given by paragraph 10(2) of Schedule 10 to the Act.
 
-[^key-06b54c00a391a905b6d5d03fd67c2b9b]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2022/117/regulation/42) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-06b54c00a391a905b6d5d03fd67c2b9b]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/2022/117/regulation/42) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-d8e04aa1f1840a3b754f33fb53d013d3]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2022/117/regulation/43) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-d8e04aa1f1840a3b754f33fb53d013d3]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2022/117/regulation/43) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-f00c1398d0d4dbb04441ac5659cc78a1]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2022/117/regulation/44) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-f00c1398d0d4dbb04441ac5659cc78a1]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/2022/117/regulation/44) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-222775740bf405af3cbc5b980e56bcf8]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2022/117/regulation/45) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-222775740bf405af3cbc5b980e56bcf8]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2022/117/regulation/45) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-716c956aab064df532cca638a75c4f89]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2022/117/regulation/46) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-716c956aab064df532cca638a75c4f89]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2022/117/regulation/46) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-47f90c265c4e7ad21c2837809a097d64]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2022/117/regulation/47) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-47f90c265c4e7ad21c2837809a097d64]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/2022/117/regulation/47) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00024]: Footnote: In this Chapter, “P” and “R” have the meaning given in paragraph 1 of Schedule 9 to the Act.
 
 [^f00025]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-289787b0cb376e14e65ab8c7a366326c]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2022/117/regulation/48) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-289787b0cb376e14e65ab8c7a366326c]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/2022/117/regulation/48) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-41edb30cd82b91ce4b7e719d7e6d39ca]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2022/117/regulation/49) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-41edb30cd82b91ce4b7e719d7e6d39ca]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2022/117/regulation/49) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00026]: Footnote: In this Chapter, “P” and “R” have the meaning given in paragraph 9 of Schedule 9.
 
-[^key-d37d11fbc289cf505e5bbe2469313bb0]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2022/117/regulation/50) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-d37d11fbc289cf505e5bbe2469313bb0]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2022/117/regulation/50) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-985161d717cbe02651890bd0e192d43d]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2022/117/regulation/51) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-985161d717cbe02651890bd0e192d43d]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2022/117/regulation/51) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-7f44e7809a9cd429a32ddc1c699b9ccf]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2022/117/regulation/52) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-7f44e7809a9cd429a32ddc1c699b9ccf]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2022/117/regulation/52) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-9f5fc89c2c30025958c0b62f726405a9]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2022/117/regulation/53) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-9f5fc89c2c30025958c0b62f726405a9]: Commencement: [Reg. 53](https://www.legislation.gov.uk/uksi/2022/117/regulation/53) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00027]: Footnote: Paragraph 5(1) of Schedule 13 relates to applications to modify an existing group treatment.
 
 [^f00028]: Footnote: Paragraph 11 of Schedule 13 concerns notifications where a body treated as a member of a group ceases to be eligible to be a member of a group.
 
-[^key-80fb184fa6126d37dc58d68e2b032d43]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2022/117/regulation/54) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-80fb184fa6126d37dc58d68e2b032d43]: Commencement: [Reg. 54](https://www.legislation.gov.uk/uksi/2022/117/regulation/54) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-6ed8b30b39fc9c8b12cfbd1149df8d00]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2022/117/regulation/55) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-6ed8b30b39fc9c8b12cfbd1149df8d00]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2022/117/regulation/55) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-9bdd2e4d90739071691dfda8e1ab2729]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2022/117/regulation/56) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-9bdd2e4d90739071691dfda8e1ab2729]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2022/117/regulation/56) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-00597bf2758c11bc81cd3fb5374e17bf]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2022/117/regulation/57) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-00597bf2758c11bc81cd3fb5374e17bf]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2022/117/regulation/57) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00029]: Footnote: [1890 c. 39](https://www.legislation.gov.uk/ukpga/1890/39).
 
-[^key-22e48c4d7b2d2c0a0baa0c4205f1d9f2]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2022/117/regulation/58) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-22e48c4d7b2d2c0a0baa0c4205f1d9f2]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/2022/117/regulation/58) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
-[^key-e00433d836ee2a7f2c578bad1a503b8e]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2022/117/regulation/59) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
+[^c-e00433d836ee2a7f2c578bad1a503b8e]: Commencement: [Reg. 59](https://www.legislation.gov.uk/uksi/2022/117/regulation/59) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/117/regulation/1)
 
 [^f00030]: Footnote: [2016 asp 21](https://www.legislation.gov.uk/asp/2016/21).

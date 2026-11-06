@@ -30,12 +30,12 @@ summary: ''
 - (d) a record of any finding;
 - (e) a record of any sentence passed, order made or direction given by the court;
 - (f) a record of any order made, and any direction or ruling given, by the court;
-- (g) a sound recording of the proceedings, and any transcript of it (signed by the transcriber);[^key-a56107cec7db6594173c8126492c272b]
-- (h)[^key-ba7002270ca587e133dc5bb5cc7c8536] a record of the identity of any interpreter;
+- (g) a sound recording of the proceedings, and any transcript of it (signed by the transcriber);[^c-a56107cec7db6594173c8126492c272b]
+- (h)[^c-ba7002270ca587e133dc5bb5cc7c8536] a record of the identity of any interpreter;
 - (i) a record of any decision on an application under rule 21(5);
-- (j) a record of any agreement under rule 21(5)(b) to do without a written translation of a document or part of a document; [^key-f42be89fcc0fd5c4d3141520215ad94a]...
-- (k) a record of any direction given under rule 21(6) ; and[^key-e7946f58d885d488a9d72c85e5ae82a9]
-- (l)[^key-c62f68860596607408f122203c63cb31] a record of any decision on an application under rule 21A(6).
+- (j) a record of any agreement under rule 21(5)(b) to do without a written translation of a document or part of a document; [^c-f42be89fcc0fd5c4d3141520215ad94a]...
+- (k) a record of any direction given under rule 21(6) ; and[^c-e7946f58d885d488a9d72c85e5ae82a9]
+- (l)[^c-c62f68860596607408f122203c63cb31] a record of any decision on an application under rule 21A(6).
 
 (3) The court administration officer shall send a copy of the record of any preliminary proceedings to—
 
@@ -67,12 +67,12 @@ but this is subject to paragraphs (7) and (8).
 
 ## Annotations
 
-[^key-a56107cec7db6594173c8126492c272b]: Textual amendment: Art. 22(2) semi-colon substituted for full stop (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2527/article/21/a)
+[^c-a56107cec7db6594173c8126492c272b]: Textual amendment: Art. 22(2) semi-colon substituted for full stop (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2013/2527/article/21/a)
 
-[^key-ba7002270ca587e133dc5bb5cc7c8536]: Textual amendment: Art. 22(2)(h)-(k) inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2013/2527/article/21/b)
+[^c-ba7002270ca587e133dc5bb5cc7c8536]: Textual amendment: Art. 22(2)(h)-(k) inserted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2013/2527/article/21/b)
 
-[^key-f42be89fcc0fd5c4d3141520215ad94a]: Textual amendment: Word in rule 22(2)(j) deleted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [16(a)](https://www.legislation.gov.uk/uksi/2015/1812/rule/16/a)
+[^c-f42be89fcc0fd5c4d3141520215ad94a]: Textual amendment: Word in rule 22(2)(j) deleted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [16(a)](https://www.legislation.gov.uk/uksi/2015/1812/rule/16/a)
 
-[^key-e7946f58d885d488a9d72c85e5ae82a9]: Textual amendment: Word in rule 22(2)(k) substituted (16.11.2015) by virtue of [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [16(b)](https://www.legislation.gov.uk/uksi/2015/1812/rule/16/b)
+[^c-e7946f58d885d488a9d72c85e5ae82a9]: Textual amendment: Word in rule 22(2)(k) substituted (16.11.2015) by virtue of [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [16(b)](https://www.legislation.gov.uk/uksi/2015/1812/rule/16/b)
 
-[^key-c62f68860596607408f122203c63cb31]: Textual amendment: Rule 22(2)(l) inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [16(c)](https://www.legislation.gov.uk/uksi/2015/1812/rule/16/c)
+[^c-c62f68860596607408f122203c63cb31]: Textual amendment: Rule 22(2)(l) inserted (16.11.2015) by [The Armed Forces (Service Courts Rules) (Amendment) Rules 2015 (S.I. 2015/1812)](https://www.legislation.gov.uk/uksi/2015/1812), [rules 1](https://www.legislation.gov.uk/uksi/2015/1812/rule/1), [16(c)](https://www.legislation.gov.uk/uksi/2015/1812/rule/16/c)

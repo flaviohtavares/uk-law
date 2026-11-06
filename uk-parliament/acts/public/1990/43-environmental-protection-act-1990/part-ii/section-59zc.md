@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59ZC. Section 59ZB: supplementary power in relation to owner of land[^key-bc65007e51aa76b772e7f299e2ea5257]
+## 59ZC. Section 59ZB: supplementary power in relation to owner of land[^c-bc65007e51aa76b772e7f299e2ea5257]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc65007e51aa76b772e7f299e2ea5257]: Textual amendment: Ss. 59ZB, 59ZC inserted (E.W.) (9.5.2018) by [The Waste Enforcement (England and Wales) Regulations 2018 (S.I. 2018/369)](https://www.legislation.gov.uk/uksi/2018/369), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/369/regulation/1/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/369/schedule/1/paragraph/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/369/regulation/4/2))
+[^c-bc65007e51aa76b772e7f299e2ea5257]: Textual amendment: Ss. 59ZB, 59ZC inserted (E.W.) (9.5.2018) by [The Waste Enforcement (England and Wales) Regulations 2018 (S.I. 2018/369)](https://www.legislation.gov.uk/uksi/2018/369), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/369/regulation/1/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2018/369/schedule/1/paragraph/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2018/369/regulation/4/2))

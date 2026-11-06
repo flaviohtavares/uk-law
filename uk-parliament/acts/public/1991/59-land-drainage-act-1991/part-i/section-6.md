@@ -22,7 +22,7 @@ summary: ''
 
 (1) The appropriate Minister shall by regulations provide for the payment, subject to such exceptions or conditions as may be specified in the regulations, of compensation—
 
-- (a) if it is specified for the purpose in the regulations, by the appropriate supervisory body[^key-f4590d0facec0d06f4e1de31a65b53ab]; or
+- (a) if it is specified for the purpose in the regulations, by the appropriate supervisory body[^c-f4590d0facec0d06f4e1de31a65b53ab]; or
 - (b) by such internal drainage board or boards as may be so specified,
 
 to any officer or other employee of a drainage body who suffers loss of employment or loss or diminution of emoluments which is attributable to a scheme under section 3 above or anything done in pursuance of such a scheme.
@@ -49,4 +49,4 @@ but in relation to employees of the appropriate supervisory body, the powers and
 
 ## Annotations
 
-[^key-f4590d0facec0d06f4e1de31a65b53ab]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/1991/59/section/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-f4590d0facec0d06f4e1de31a65b53ab]: Textual amendment: Words in [s. 6](https://www.legislation.gov.uk/ukpga/1991/59/section/6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

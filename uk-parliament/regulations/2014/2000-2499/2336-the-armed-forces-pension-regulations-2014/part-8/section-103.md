@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Ways in which a transfer value payment may be used[^key-1a8a53c419aaced674d10c6dcb35a920]
+## 103. Ways in which a transfer value payment may be used[^c-1a8a53c419aaced674d10c6dcb35a920]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a8a53c419aaced674d10c6dcb35a920]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2014/2336/regulation/103) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-1a8a53c419aaced674d10c6dcb35a920]: Commencement: [Reg. 103](https://www.legislation.gov.uk/uksi/2014/2336/regulation/103) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

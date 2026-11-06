@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Determination of amount or value of budgeting loan[^key-4547961eaab83a45f414fb7f29193b26]
+## 78. Determination of amount or value of budgeting loan[^c-4547961eaab83a45f414fb7f29193b26]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4547961eaab83a45f414fb7f29193b26]: Commencement: [Art. 78](https://www.legislation.gov.uk/nisi/2015/2006/article/78) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/46/article/3/3)
+[^c-4547961eaab83a45f414fb7f29193b26]: Commencement: [Art. 78](https://www.legislation.gov.uk/nisi/2015/2006/article/78) in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(3)](https://www.legislation.gov.uk/nisr/2016/46/article/3/3)

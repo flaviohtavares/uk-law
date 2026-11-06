@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6CC. Competitive tenders: supplementary[^key-1277d4a51c96a6a58cf14a2d7e7b6a5c]
+## 6CC. Competitive tenders: supplementary[^c-1277d4a51c96a6a58cf14a2d7e7b6a5c]
 
 *Extent: E+W+S*
 
@@ -63,6 +63,6 @@ and must consider any representations or objections that are duly made and not w
 
 ## Annotations
 
-[^key-1277d4a51c96a6a58cf14a2d7e7b6a5c]: Textual amendment: Ss. 6C-6CD substituted for ss. 6C, 6D (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/3)
+[^c-1277d4a51c96a6a58cf14a2d7e7b6a5c]: Textual amendment: Ss. 6C-6CD substituted for ss. 6C, 6D (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(i)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/i), [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2023/52/schedule/15/paragraph/3)
 
 [^M_F_d2ee267e-787c-4a37-d521-92b61ff51817]: Textual amendment: Words in s. 6CCA(8) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2024/706/regulation/3/5); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

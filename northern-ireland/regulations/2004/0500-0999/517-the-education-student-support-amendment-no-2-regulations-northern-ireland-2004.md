@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2004 (revoked)[^key-8b0443d9ad42bb237f45e210813147d4]
+The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2004 (revoked)[^c-8b0443d9ad42bb237f45e210813147d4]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 15th January 2005
 
-[^key-8b0443d9ad42bb237f45e210813147d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b0443d9ad42bb237f45e210813147d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8b0443d9ad42bb237f45e210813147d4]
+## 1. Citation, commencement and interpretation[^c-8b0443d9ad42bb237f45e210813147d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the 2003 Regulations[^key-8b0443d9ad42bb237f45e210813147d4]
+## 4. Amendment of the 2003 Regulations[^c-8b0443d9ad42bb237f45e210813147d4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-8b0443d9ad42bb237f45e210813147d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b0443d9ad42bb237f45e210813147d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b0443d9ad42bb237f45e210813147d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b0443d9ad42bb237f45e210813147d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b0443d9ad42bb237f45e210813147d4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b0443d9ad42bb237f45e210813147d4]: Textual amendment: Regulations revoked (1.9.2005) by [The Education (Student Support) Regulations (Northern Ireland) 2005 (S.R. 2005/340)](https://www.legislation.gov.uk/nisr/2005/340), [regs. 1](https://www.legislation.gov.uk/nisr/2005/340/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/340/schedule/1) (with [reg. 3(2)-(9)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/2))
+[^c-8b0443d9ad42bb237f45e210813147d4]: Textual amendment: Regulations revoked (1.9.2005) by [The Education (Student Support) Regulations (Northern Ireland) 2005 (S.R. 2005/340)](https://www.legislation.gov.uk/nisr/2005/340), [regs. 1](https://www.legislation.gov.uk/nisr/2005/340/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2005/340/schedule/1) (with [reg. 3(2)-(9)](https://www.legislation.gov.uk/nisr/2005/340/regulation/3/2))

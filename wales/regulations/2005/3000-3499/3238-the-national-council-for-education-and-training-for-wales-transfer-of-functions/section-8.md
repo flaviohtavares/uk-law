@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Accounts[^key-8c64f6d8930491835439b1ecf15988d2]
+## 8. Accounts[^c-8c64f6d8930491835439b1ecf15988d2]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c64f6d8930491835439b1ecf15988d2]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2005/3238/article/8) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
+[^c-8c64f6d8930491835439b1ecf15988d2]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2005/3238/article/8) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)

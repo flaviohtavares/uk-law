@@ -24,7 +24,7 @@ summary: ''
 
 *Extent: N.I.*
 
-Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-36e79490ff2a05e899b002077030eb13] [^c16933861]
+Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^c-36e79490ff2a05e899b002077030eb13] [^c16933861]
 
 1969 Chapter 24
 
@@ -226,7 +226,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-36e79490ff2a05e899b002077030eb13]: Textual amendment: Act: "The Industrial and Provident Societies (N.I.) Act 1969 may be cited as The Co-operative and Community Benefit Societies Act (N.I.) 1969" (6.4.2018) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 8(2)](https://www.legislation.gov.uk/nia/2016/16/section/8/1), [17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2) (with [Sch. 2 paras. 2](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/2), [3](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/3)); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/217/article/2/b)
+[^c-36e79490ff2a05e899b002077030eb13]: Textual amendment: Act: "The Industrial and Provident Societies (N.I.) Act 1969 may be cited as The Co-operative and Community Benefit Societies Act (N.I.) 1969" (6.4.2018) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 8(2)](https://www.legislation.gov.uk/nia/2016/16/section/8/1), [17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2) (with [Sch. 2 paras. 2](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/2), [3](https://www.legislation.gov.uk/nia/2016/16/schedule/2/paragraph/3)); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(b)](https://www.legislation.gov.uk/nisr/2017/217/article/2/b)
 
 [^c16933861]: Textual amendment: [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 

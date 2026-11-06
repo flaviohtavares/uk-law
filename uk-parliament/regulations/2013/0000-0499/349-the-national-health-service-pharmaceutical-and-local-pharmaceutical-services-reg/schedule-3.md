@@ -29,7 +29,7 @@ Regs 10(8), 45(3), 63(6), 77(4), 98(9)
 (1) If the Secretary of State has received a notification under paragraph 30(6) of Schedule 2 from a person (P1), the Secretary of State must determine (prior to a notification under Part 2 or a determination under paragraph 2) whether P1 is to have third party appeal rights on the basis that—
 
 - (a) P1 is a person to whom paragraph 30(3)(a) and (b) of Schedule 2 applies; and
-- (b) in relation to P1, NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] should have been satisfied as mentioned in paragraph 30(3)(c) of Schedule 2.
+- (b) in relation to P1, NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] should have been satisfied as mentioned in paragraph 30(3)(c) of Schedule 2.
 
 (2) If the Secretary of State has received a notification under regulation 63(5) from a person (P2), the Secretary of State must determine (prior to a notification under Part 2 or a determination under paragraph 2) whether P2 is to have third party appeal rights on the basis that—
 
@@ -83,7 +83,7 @@ unless they are the person bringing the appeal.
 
 (2) The Secretary of State must send a valid notice of appeal against—
 
-- (a) a decision mentioned in regulation 63(1)(b) to the persons, other than the appellant, given notice of the decision under regulation 50(7)[^key-212eefc90cc96a45945a8ce5d3b80166]; or
+- (a) a decision mentioned in regulation 63(1)(b) to the persons, other than the appellant, given notice of the decision under regulation 50(7)[^c-212eefc90cc96a45945a8ce5d3b80166]; or
 - (b) a decision or determination mentioned in regulation 63(1)(c) to (f) to—
   - (i) the person who made the original application for outline consent or premises approval,
   - (ii) any person who was notified in relation to that application under regulation 52(1) to (3) who made representations in writing about the application under regulation 52(4), and
@@ -111,7 +111,7 @@ A valid notice of appeal under regulation 77 or 98 does not need to be notified 
 - (b) the appellants; and
 - (c) any other person notified in relation to the appeals under Part 2.
 
-(4)[^key-071f9e2f8734eedb768678bd08eaa4d9] Where an application for inclusion in a pharmaceutical list has been updated in accordance with paragraph 5A of Schedule 2, the Secretary of State may, on an application from NHS England, defer the Secretary of State’s decision in relation to the application on any ground that NHS England could have relied on for deferring the application pursuant to regulation 34 until—
+(4)[^c-071f9e2f8734eedb768678bd08eaa4d9] Where an application for inclusion in a pharmaceutical list has been updated in accordance with paragraph 5A of Schedule 2, the Secretary of State may, on an application from NHS England, defer the Secretary of State’s decision in relation to the application on any ground that NHS England could have relied on for deferring the application pursuant to regulation 34 until—
 
 - (a) the reason for the deferral no longer exists; or
 - (b) the outcome of the cause of the deferral is known and NHS England has—
@@ -135,7 +135,7 @@ and they (or their duly authorised representatives) are to be the only persons e
 
 (2) For these purposes, a person (P) is an “additional presenter” if—
 
-- (a) P was notified of the appeal under Part 2 and has made written representations in accordance with paragraph 3(2), 4(3) or 5(3) [^key-a9037216ee6a39ad519c106f023c5e54]...; and
+- (a) P was notified of the appeal under Part 2 and has made written representations in accordance with paragraph 3(2), 4(3) or 5(3) [^c-a9037216ee6a39ad519c106f023c5e54]...; and
 - (b) the Secretary of State is satisfied that P made a reasonable attempt to express P's views on the appeal adequately in P's written representations.
 
 #### 9. Decisions of the Secretary of State
@@ -193,7 +193,7 @@ and they (or their duly authorised representatives) are to be the only persons e
 
 and must include with that notification a statement of the reasons for the Secretary of State's decision and the Secretary of State's findings of fact.
 
-(1A)[^key-bfe1329240bc8b520367db2ec9eb4f21] If the Secretary of State has—
+(1A)[^c-bfe1329240bc8b520367db2ec9eb4f21] If the Secretary of State has—
 
 - (a) granted or confirmed the grant of a consolidation application; or
 - (b) allowed or refused an appeal against a decision as mentioned in paragraph 36(1)(b) in respect of an extension period under paragraph 34A(4)(b)(i),
@@ -202,8 +202,8 @@ the Secretary of State must notify the relevant HWB (under this sub-paragraph or
 
 (2) If the Secretary of State has granted or confirmed the grant of a routine or excepted application—
 
-- (a) NHS England must send to the applicant a template of the notice of commencement referred to in paragraph 29 or a notice of consolidation referred to in paragraph 29A[^key-b0ed607594ddb8b0f154be7895f5150c]; and
-- (b) the time periods in paragraphs 31, 32, 34 and 34A[^key-2a08b47e13c1d1cfa1b85ea2e9017c28] thereafter apply as if the references to the applicant being sent notices of NHS England’s decision were reference to the applicant being notified by the Secretary of State under sub-paragraph (1).
+- (a) NHS England must send to the applicant a template of the notice of commencement referred to in paragraph 29 or a notice of consolidation referred to in paragraph 29A[^c-b0ed607594ddb8b0f154be7895f5150c]; and
+- (b) the time periods in paragraphs 31, 32, 34 and 34A[^c-2a08b47e13c1d1cfa1b85ea2e9017c28] thereafter apply as if the references to the applicant being sent notices of NHS England’s decision were reference to the applicant being notified by the Secretary of State under sub-paragraph (1).
 
 (3) If the Secretary of State has granted or confirmed the grant of—
 
@@ -217,16 +217,16 @@ For the purposes of these Regulations, the Secretary of State's decision becomes
 
 ## Annotations
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-212eefc90cc96a45945a8ce5d3b80166]: Textual amendment: Words in [Sch. 3 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/3/paragraph/5/2/a) substituted (1.3.2015) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/58/regulation/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))
+[^c-212eefc90cc96a45945a8ce5d3b80166]: Textual amendment: Words in [Sch. 3 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2013/349/schedule/3/paragraph/5/2/a) substituted (1.3.2015) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2015 (S.I. 2015/58)](https://www.legislation.gov.uk/uksi/2015/58), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/58/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2015/58/regulation/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2015/58/regulation/10))
 
-[^key-071f9e2f8734eedb768678bd08eaa4d9]: Textual amendment: [Sch. 3 para. 7(4)](https://www.legislation.gov.uk/uksi/2013/349/schedule/3/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2013/349/schedule/3/paragraph/7/5) inserted (1.10.2022) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2022 (S.I. 2022/930)](https://www.legislation.gov.uk/uksi/2022/930), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/930/regulation/7)
+[^c-071f9e2f8734eedb768678bd08eaa4d9]: Textual amendment: [Sch. 3 para. 7(4)](https://www.legislation.gov.uk/uksi/2013/349/schedule/3/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2013/349/schedule/3/paragraph/7/5) inserted (1.10.2022) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment) Regulations 2022 (S.I. 2022/930)](https://www.legislation.gov.uk/uksi/2022/930), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/930/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/930/regulation/7)
 
-[^key-a9037216ee6a39ad519c106f023c5e54]: Textual amendment: Words in Sch. 3 para. 8(2)(a) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/6/2)
+[^c-a9037216ee6a39ad519c106f023c5e54]: Textual amendment: Words in Sch. 3 para. 8(2)(a) omitted (26.11.2018) by virtue of [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2018 (S.I. 2018/1114)](https://www.legislation.gov.uk/uksi/2018/1114), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2018/1114/regulation/6/2)
 
-[^key-bfe1329240bc8b520367db2ec9eb4f21]: Textual amendment: Sch. 3 para. 10(1A) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/20/a)
+[^c-bfe1329240bc8b520367db2ec9eb4f21]: Textual amendment: Sch. 3 para. 10(1A) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [20(a)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/20/a)
 
-[^key-b0ed607594ddb8b0f154be7895f5150c]: Textual amendment: Words in Sch. 3 para. 10(2)(a) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [20(b)(i)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/20/b/i)
+[^c-b0ed607594ddb8b0f154be7895f5150c]: Textual amendment: Words in Sch. 3 para. 10(2)(a) inserted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [20(b)(i)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/20/b/i)
 
-[^key-2a08b47e13c1d1cfa1b85ea2e9017c28]: Textual amendment: Words in Sch. 3 para. 10(2)(b) substituted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/20/b/ii)
+[^c-2a08b47e13c1d1cfa1b85ea2e9017c28]: Textual amendment: Words in Sch. 3 para. 10(2)(b) substituted (5.12.2016) by [The National Health Service (Pharmaceutical Services, Charges and Prescribing) (Amendment) Regulations 2016 (S.I. 2016/1077)](https://www.legislation.gov.uk/uksi/2016/1077), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/1/1), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1077/regulation/20/b/ii)

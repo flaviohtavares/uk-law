@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Reminders to persons who have an anonymous entry[^key-99542153cafce9d32b44706bf3ee9886]
+## 5. Reminders to persons who have an anonymous entry[^c-99542153cafce9d32b44706bf3ee9886]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ After regulation 25 insert—
 
 ## Annotations
 
-[^key-99542153cafce9d32b44706bf3ee9886]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/2910/regulation/5) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-99542153cafce9d32b44706bf3ee9886]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2006/2910/regulation/5) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00008]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); section 10A was substituted together with section 10 for section 10 as originally enacted by paragraph 4 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2).
 

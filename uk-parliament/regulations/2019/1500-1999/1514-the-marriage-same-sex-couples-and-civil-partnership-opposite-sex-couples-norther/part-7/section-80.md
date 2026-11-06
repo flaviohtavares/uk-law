@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Income Support (General) Regulations (Northern Ireland) 1987[^key-09b56902c8b6dc22c0cb7cd50adf0c7b]
+## 80. Income Support (General) Regulations (Northern Ireland) 1987[^c-09b56902c8b6dc22c0cb7cd50adf0c7b]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2(1) of the Income Support (General) Regulations (Northern Ireland
 
 ## Annotations
 
-[^key-09b56902c8b6dc22c0cb7cd50adf0c7b]: Commencement: Reg. 80 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-09b56902c8b6dc22c0cb7cd50adf0c7b]: Commencement: Reg. 80 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00140]: Footnote: [S.R. (N.I.) 1987/459](https://www.legislation.gov.uk/nisr/1987/459). In regulation 2(1), the definition of “couple” was substituted by paragraph 12 of Schedule 3 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

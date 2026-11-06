@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Procedural powers where no application made[^key-7992193f065de49cd24c9978792b07f6]
+## 55. Procedural powers where no application made[^c-7992193f065de49cd24c9978792b07f6]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7992193f065de49cd24c9978792b07f6]: Commencement: S. 55 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7992193f065de49cd24c9978792b07f6]: Commencement: S. 55 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

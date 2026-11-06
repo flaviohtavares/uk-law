@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Sale and supply of starting materials[^key-4a70f2b9fb1c19ea5252c845db12e9b8]
+## 32. Sale and supply of starting materials[^c-4a70f2b9fb1c19ea5252c845db12e9b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a70f2b9fb1c19ea5252c845db12e9b8]: Textual amendment: Reg. 32 revoked (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2013/1855/regulation/35)
+[^c-4a70f2b9fb1c19ea5252c845db12e9b8]: Textual amendment: Reg. 32 revoked (20.8.2013) by [The Human Medicines (Amendment) Regulations 2013 (S.I. 2013/1855)](https://www.legislation.gov.uk/uksi/2013/1855), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1855/regulation/1/1), [35](https://www.legislation.gov.uk/uksi/2013/1855/regulation/35)

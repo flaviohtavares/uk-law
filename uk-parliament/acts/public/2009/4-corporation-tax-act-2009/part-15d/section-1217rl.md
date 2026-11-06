@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217RL. Tax avoidance arrangements[^key-ae72997d7de0e438453f66dfd6fd5589]
+## 1217RL. Tax avoidance arrangements[^c-ae72997d7de0e438453f66dfd6fd5589]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
+[^c-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)

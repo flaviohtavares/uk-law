@@ -40,7 +40,7 @@ the amount received by the person entitled to payments under the order in respec
 - (a) the variation or discharge of the order to which this Article applies, or
 - (b) leave to enforce, or the enforcement of, the payment of arrears under that order;
 
-but when not so made shall be made to a county court, [^key-2b218bd9dd68abd51339cc98ec5dc9d8]....
+but when not so made shall be made to a county court, [^c-2b218bd9dd68abd51339cc98ec5dc9d8]....
 
 (5) The jurisdiction conferred on a county court by this Article shall be exercisable notwithstanding that by reason of the amount claimed in the application the jurisdiction would not but for this paragraph be exercisable by a county court.
 
@@ -48,4 +48,4 @@ but when not so made shall be made to a county court, [^key-2b218bd9dd68abd51339
 
 ## Annotations
 
-[^key-2b218bd9dd68abd51339cc98ec5dc9d8]: Textual amendment: Words in [art. 35(4)](https://www.legislation.gov.uk/nisi/1978/1045/article/35/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 76(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/76/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-2b218bd9dd68abd51339cc98ec5dc9d8]: Textual amendment: Words in [art. 35(4)](https://www.legislation.gov.uk/nisi/1978/1045/article/35/4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 76(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/76/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

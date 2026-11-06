@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The forms of restriction set out in Schedule 4 (varied, where appropriate, as permitted by rule 91A)[^key-a548c9851bf925768fbb3e7c970b5e3b] are standard forms of restriction prescribed under section 43(2)(d) of the Act.
+(1) The forms of restriction set out in Schedule 4 (varied, where appropriate, as permitted by rule 91A)[^c-a548c9851bf925768fbb3e7c970b5e3b] are standard forms of restriction prescribed under section 43(2)(d) of the Act.
 
 (2) The word “conveyancer”, where it appears in any of the standard forms of restriction, has the same meaning as in these rules.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a548c9851bf925768fbb3e7c970b5e3b]: Textual amendment: Words in rule 91(1) inserted (24.10.2005) by [The Land Registration (Amendment) Rules 2005 (S.I. 2005/1766)](https://www.legislation.gov.uk/uksi/2005/1766), [rules 1](https://www.legislation.gov.uk/uksi/2005/1766/rule/1), [3](https://www.legislation.gov.uk/uksi/2005/1766/rule/3)
+[^c-a548c9851bf925768fbb3e7c970b5e3b]: Textual amendment: Words in rule 91(1) inserted (24.10.2005) by [The Land Registration (Amendment) Rules 2005 (S.I. 2005/1766)](https://www.legislation.gov.uk/uksi/2005/1766), [rules 1](https://www.legislation.gov.uk/uksi/2005/1766/rule/1), [3](https://www.legislation.gov.uk/uksi/2005/1766/rule/3)

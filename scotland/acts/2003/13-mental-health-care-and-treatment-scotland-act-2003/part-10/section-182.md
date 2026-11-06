@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 182. Review of compulsion order and restriction order[^key-56d76bd599c115d0e3d06145230570bb]
+## 182. Review of compulsion order and restriction order[^c-56d76bd599c115d0e3d06145230570bb]
 
 *Extent: S*
 
@@ -48,13 +48,13 @@ summary: ''
   - (i) to the health, safety or welfare of the patient; or
   - (ii) to the safety of any other person.
 
-(5)[^key-26290977b79d151491babdc3c9c868fb] In subsection (2) above, the “**relevant day**” means—
+(5)[^c-26290977b79d151491babdc3c9c868fb] In subsection (2) above, the “**relevant day**” means—
 
 - (a) the day which falls 12 months after the day on which the compulsion order is made; or
 - (b) where that relevant day has passed, the day falling on the same day in every year thereafter.
 
 ## Annotations
 
-[^key-56d76bd599c115d0e3d06145230570bb]: Commencement: [S. 182](https://www.legislation.gov.uk/asp/2003/13/section/182) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-56d76bd599c115d0e3d06145230570bb]: Commencement: [S. 182](https://www.legislation.gov.uk/asp/2003/13/section/182) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
 
-[^key-26290977b79d151491babdc3c9c868fb]: Modification: [S. 182(5)](https://www.legislation.gov.uk/asp/2003/13/section/182/5) modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [20(2)](https://www.legislation.gov.uk/ssi/2005/452/article/20/2)
+[^c-26290977b79d151491babdc3c9c868fb]: Modification: [S. 182(5)](https://www.legislation.gov.uk/asp/2003/13/section/182/5) modified (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (Transitional and Savings Provisions) Order 2005 (S.S.I. 2005/452)](https://www.legislation.gov.uk/ssi/2005/452), [arts. 1](https://www.legislation.gov.uk/ssi/2005/452/article/1), [20(2)](https://www.legislation.gov.uk/ssi/2005/452/article/20/2)

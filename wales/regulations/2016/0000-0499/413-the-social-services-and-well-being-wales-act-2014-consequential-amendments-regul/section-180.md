@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**180.**[^key-d4954e94e3e8bfaabc79abe26495cbc5] Omit section 49 (exclusion of nursing care from community care services).
+**180.**[^c-d4954e94e3e8bfaabc79abe26495cbc5] Omit section 49 (exclusion of nursing care from community care services).
 
 ## Annotations
 
-[^key-d4954e94e3e8bfaabc79abe26495cbc5]: Commencement: Reg. 180 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d4954e94e3e8bfaabc79abe26495cbc5]: Commencement: Reg. 180 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

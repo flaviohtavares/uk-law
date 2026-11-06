@@ -31,7 +31,7 @@ Transport Act 1968
 
 An Act to make further provision with respect to transport and related matters.
 
-\[25th October 1968\][^c15307001][^c15307011][^c15307021][^c15307031][^c15307041][^key-92859adc881b23961feb20fce66b20e8][^key-a68eaa2109a30accd9de1f41d9824835][^key-38ba62ef1755e542cdcf6827d6114ca6]
+\[25th October 1968\][^c15307001][^c15307011][^c15307021][^c15307031][^c15307041][^c-92859adc881b23961feb20fce66b20e8][^c-a68eaa2109a30accd9de1f41d9824835][^c-38ba62ef1755e542cdcf6827d6114ca6]
 
 ## Contents
 
@@ -45,11 +45,11 @@ An Act to make further provision with respect to transport and related matters.
 - [Section 7 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-7.md)
 - [Section 8 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-i/section-8.md)
 
-### Part II — Integrated Transport Areas and Passenger Transport Areas[^c15307341][^c15307351][^c15307361][^key-2c60cb638bcff2664f8f2274aed6ac7e][^key-52689d404410e1d99603d5cd222403af]
+### Part II — Integrated Transport Areas and Passenger Transport Areas[^c15307341][^c15307351][^c15307361][^c-2c60cb638bcff2664f8f2274aed6ac7e][^c-52689d404410e1d99603d5cd222403af]
 
 *Extent: E+W+S+N.I.*
 
-#### Designation of Integrated Transport Areas or Passenger Transport Areas and establishment and functions of Authorities and Executives[^key-721c601f4ccca8bd69c2c0595d2bfc6b]
+#### Designation of Integrated Transport Areas or Passenger Transport Areas and establishment and functions of Authorities and Executives[^c-721c601f4ccca8bd69c2c0595d2bfc6b]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ An Act to make further provision with respect to transport and related matters.
 - [Section 15A — Additional provisions as to control of Executive by Authority.](part-ii/section-15a.md)
 - [Section 16 — Publication of annual report by Authority and Executive and prevention of improper conduct of subsidiary activities.](part-ii/section-16.md)
 
-#### Reorganisation of passenger transport in Integrated Transport Areas or Passenger Transport Areas[^key-48aff525df8ad19d983f80f6d6fc05e9]
+#### Reorganisation of passenger transport in Integrated Transport Areas or Passenger Transport Areas[^c-48aff525df8ad19d983f80f6d6fc05e9]
 
 *Extent: E+W*
 
@@ -284,7 +284,7 @@ An Act to make further provision with respect to transport and related matters.
 
 - [Section 94 — Transitional provisions and amendments.](part-v/section-94.md)
 
-### Part VI — Drivers’ Hours[^c15325691][^c15325701][^key-530f7bd5e38881c05276e2e4257c4b21]
+### Part VI — Drivers’ Hours[^c15325691][^c15325701][^c-530f7bd5e38881c05276e2e4257c4b21]
 
 *Extent: E+W+S+N.I.*
 
@@ -386,7 +386,7 @@ An Act to make further provision with respect to transport and related matters.
 - [Section 126 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ix/section-126.md)
 - [Section 133 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-ix/section-133.md)
 
-### Part X — Miscellaneous and General[^key-ec94b34e11609a2cdc29518fe01cc4a9]
+### Part X — Miscellaneous and General[^c-ec94b34e11609a2cdc29518fe01cc4a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -466,11 +466,11 @@ SCHEDULES
 
     Act amended (1.4.1996) by [S.I. 1996/593](https://www.legislation.gov.uk/uksi/1996/593), [reg. 2](https://www.legislation.gov.uk/uksi/1996/593/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/593/schedule/1)
 
-[^key-92859adc881b23961feb20fce66b20e8]: Modification: Act modified (E.W.S.) (11.8.2007) by [The Drivers Hours (Goods Vehicles) (Milk Collection) (Temporary Exemption) Regulations 2007 (S.I. 2007/2370)](https://www.legislation.gov.uk/uksi/2007/2370), [regs. 2](https://www.legislation.gov.uk/uksi/2007/2370/regulation/2), [3](https://www.legislation.gov.uk/uksi/2007/2370/regulation/3)
+[^c-92859adc881b23961feb20fce66b20e8]: Modification: Act modified (E.W.S.) (11.8.2007) by [The Drivers Hours (Goods Vehicles) (Milk Collection) (Temporary Exemption) Regulations 2007 (S.I. 2007/2370)](https://www.legislation.gov.uk/uksi/2007/2370), [regs. 2](https://www.legislation.gov.uk/uksi/2007/2370/regulation/2), [3](https://www.legislation.gov.uk/uksi/2007/2370/regulation/3)
 
-[^key-a68eaa2109a30accd9de1f41d9824835]: Modification: Act: transfer of functions in part (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-a68eaa2109a30accd9de1f41d9824835]: Modification: Act: transfer of functions in part (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 2](https://www.legislation.gov.uk/uksi/2012/1659/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/1659/schedule/1) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-38ba62ef1755e542cdcf6827d6114ca6]: Modification: Act modified (E.) (1.4.2023) by [The South Yorkshire Passenger Transport Executive (Transfer of Functions) Order 2023 (S.I. 2023/176)](https://www.legislation.gov.uk/uksi/2023/176), [arts. 1](https://www.legislation.gov.uk/uksi/2023/176/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/176/article/5/3)
+[^c-38ba62ef1755e542cdcf6827d6114ca6]: Modification: Act modified (E.) (1.4.2023) by [The South Yorkshire Passenger Transport Executive (Transfer of Functions) Order 2023 (S.I. 2023/176)](https://www.legislation.gov.uk/uksi/2023/176), [arts. 1](https://www.legislation.gov.uk/uksi/2023/176/article/1), [5(3)](https://www.legislation.gov.uk/uksi/2023/176/article/5/3)
 
 [^c15307341]: Modification: Pt. 2 amended (S.) by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [s. 150(2)](https://www.legislation.gov.uk/ukpga/1973/65/section/150/2); modified (E.W.) by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [s. 202(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/202/3), [Sch. 24 Pt. II](https://www.legislation.gov.uk/ukpga/1972/70/schedule/24/part/II) and [Transport Act 1983 (c. 10, SIF 126)](https://www.legislation.gov.uk/ukpga/1983/10), [s. 10(1)(a)(c)](https://www.legislation.gov.uk/ukpga/1983/10/section/10/1/a/c)
 
@@ -478,13 +478,13 @@ SCHEDULES
 
 [^c15307361]: Modification: Pt.2 amended (S.) (4.1.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 40(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/40/1) (with [s. 7(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/7/2)); [S.I. 1994/2850](https://www.legislation.gov.uk/uksi/1994/2850), [art. 3(a)](https://www.legislation.gov.uk/uksi/1994/2850/article/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2850/schedule/2)
 
-[^key-2c60cb638bcff2664f8f2274aed6ac7e]: Modification: Pt. 2: functions made exercisable (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [9](https://www.legislation.gov.uk/uksi/2018/1133/article/9) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
+[^c-2c60cb638bcff2664f8f2274aed6ac7e]: Modification: Pt. 2: functions made exercisable (2.11.2018) by [The Newcastle Upon Tyne, North Tyneside and Northumberland Combined Authority (Establishment and Functions) Order 2018 (S.I. 2018/1133)](https://www.legislation.gov.uk/uksi/2018/1133), [arts. 1](https://www.legislation.gov.uk/uksi/2018/1133/article/1), [9](https://www.legislation.gov.uk/uksi/2018/1133/article/9) (with [art. 28](https://www.legislation.gov.uk/uksi/2018/1133/article/28))
 
-[^key-52689d404410e1d99603d5cd222403af]: Textual amendment: Pt. 2 heading substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 11(a)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/11/a); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-52689d404410e1d99603d5cd222403af]: Textual amendment: Pt. 2 heading substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 11(a)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/11/a); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-721c601f4ccca8bd69c2c0595d2bfc6b]: Textual amendment: Words in s. 9 cross-heading inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/11/b); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-721c601f4ccca8bd69c2c0595d2bfc6b]: Textual amendment: Words in s. 9 cross-heading inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/11/b); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-48aff525df8ad19d983f80f6d6fc05e9]: Textual amendment: Words in s. 20 cross-heading inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/11/b); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-48aff525df8ad19d983f80f6d6fc05e9]: Textual amendment: Words in s. 20 cross-heading inserted (E.W.) (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/11/b); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c15320261]: Textual amendment: Pt. V (ss. 59-94) repealed (1.1.1996) by [1995 c. 23](https://www.legislation.gov.uk/ukpga/1995/23), [s. 60(2)](https://www.legislation.gov.uk/ukpga/1995/23/section/60/2), [Sch. 8 Pt. I](https://www.legislation.gov.uk/ukpga/1995/23/schedule/8/part/I) (with [ss. 54](https://www.legislation.gov.uk/ukpga/1995/23/section/54), [55](https://www.legislation.gov.uk/ukpga/1995/23/section/55)); [S.I. 1995/2181](https://www.legislation.gov.uk/uksi/1995/2181), [art. 2](https://www.legislation.gov.uk/uksi/1995/2181/article/2)
 
@@ -496,6 +496,6 @@ SCHEDULES
 
 [^c15325701]: Modification: Pt. VI (ss. 95-103) excluded (23.6.1999) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 8(1)(a)(6)(7)](https://www.legislation.gov.uk/uksi/1999/1736/article/8/1/a/6/7)
 
-[^key-530f7bd5e38881c05276e2e4257c4b21]: Modification: Pt. VI modified (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
+[^c-530f7bd5e38881c05276e2e4257c4b21]: Modification: Pt. VI modified (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
 
-[^key-ec94b34e11609a2cdc29518fe01cc4a9]: Modification: Pt. X modified (E.W.S.) (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)
+[^c-ec94b34e11609a2cdc29518fe01cc4a9]: Modification: Pt. X modified (E.W.S.) (16.8.2006) by [The Dover Harbour Revision Order 2006 (S.I. 2006/2167)](https://www.legislation.gov.uk/uksi/2006/2167), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/2167/article/1/1), [27](https://www.legislation.gov.uk/uksi/2006/2167/article/27)

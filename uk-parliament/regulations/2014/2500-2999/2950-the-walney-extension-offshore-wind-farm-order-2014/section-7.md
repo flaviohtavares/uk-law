@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Application of the Hedgerows Regulations 1997[^key-c8a95a913cc88ec4d766519a5b40b058]
+## 7. Application of the Hedgerows Regulations 1997[^c-c8a95a913cc88ec4d766519a5b40b058]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ Regulation 6 of the Hedgerows Regulations 1997[^f00019] shall be modified so as 
 
 ## Annotations
 
-[^key-c8a95a913cc88ec4d766519a5b40b058]: Commencement: Art. 7 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
+[^c-c8a95a913cc88ec4d766519a5b40b058]: Commencement: Art. 7 in force at 28.11.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2950/article/1)
 
 [^f00019]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160). There are amendments to this Statutory Instrument which are not relevant to this Order.

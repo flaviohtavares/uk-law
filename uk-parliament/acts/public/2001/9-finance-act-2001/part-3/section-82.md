@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Controlled foreign companies: acceptable distribution policy[^key-cbcef1543e84147957cd1a9485a80bed]
+## 82. Controlled foreign companies: acceptable distribution policy[^c-cbcef1543e84147957cd1a9485a80bed]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbcef1543e84147957cd1a9485a80bed]: Textual amendment: S. 82 omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(g)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/g) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))
+[^c-cbcef1543e84147957cd1a9485a80bed]: Textual amendment: S. 82 omitted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 16 para. 5(g)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/5/g) (with [Sch. 16 paras. 7](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2009/10/schedule/16/paragraph/8))

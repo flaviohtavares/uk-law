@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 178. Use of proceeds[^key-bf8fed9644a6295c4a48d9621fb18877]
+## 178. Use of proceeds[^c-bf8fed9644a6295c4a48d9621fb18877]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf8fed9644a6295c4a48d9621fb18877]: Textual amendment: Ss. 177, 178 omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 33(a)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/33/a); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/75/regulation/7))
+[^c-bf8fed9644a6295c4a48d9621fb18877]: Textual amendment: Ss. 177, 178 omitted (6.4.2017) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 4 para. 33(a)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/4/paragraph/33/a); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 4](https://www.legislation.gov.uk/uksi/2017/75/regulation/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/75/regulation/7))

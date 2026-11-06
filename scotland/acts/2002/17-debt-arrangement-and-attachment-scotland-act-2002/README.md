@@ -32,11 +32,11 @@ Debt Arrangement and Attachment (Scotland) Act 2002
 
 An Act of the Scottish Parliament to provide a scheme under which individuals may arrange for their debts to be paid under payment programmes; to create a new diligence in relation to corporeal moveable property owned by a debtor; to make special provision for the use of that diligence in relation to property kept in dwellinghouses; to abolish poindings and warrant sales; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 13th November 2002 and received Royal Assent on 17th December 2002[^key-e48824d764a51fb168f3312173aea394][^key-d2c05ca6d7a2c27d4acfed339df06894][^key-a50524280fe9d0942a27ed235621ca64][^key-4354b1321512aa0a199a90cc5fa6b6ac]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 13th November 2002 and received Royal Assent on 17th December 2002[^c-e48824d764a51fb168f3312173aea394][^c-d2c05ca6d7a2c27d4acfed339df06894][^c-a50524280fe9d0942a27ed235621ca64][^c-4354b1321512aa0a199a90cc5fa6b6ac]
 
 ## Contents
 
-### Part 1 — The debt arrangement scheme[^key-c560863d82d474f4f3161475f6d09fd5]
+### Part 1 — The debt arrangement scheme[^c-c560863d82d474f4f3161475f6d09fd5]
 
 *Extent: S*
 
@@ -51,42 +51,42 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 8 — Functions of the Scottish Ministers](part-1/section-8.md)
 - [Section 9 — Interpretation of Part](part-1/section-9.md)
 
-### Part 1A — Interim attachment[^key-f533edabd47adb0f974a7e91bcbc7cda]
+### Part 1A — Interim attachment[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 *Extent: S*
 
-#### Interim attachment[^key-f533edabd47adb0f974a7e91bcbc7cda]
+#### Interim attachment[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 - [Section 9A — Interim attachment](part-1a/section-9a.md)
 - [Section 9B — Articles exempt from interim attachment](part-1a/section-9b.md)
 
-#### Application for interim attachment[^key-f533edabd47adb0f974a7e91bcbc7cda]
+#### Application for interim attachment[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 - [Section 9C — Application for warrant for interim attachment](part-1a/section-9c.md)
 - [Section 9D — Grant of warrant without a hearing](part-1a/section-9d.md)
 - [Section 9E — Hearing on application](part-1a/section-9e.md)
 
-#### Execution of interim attachment[^key-f533edabd47adb0f974a7e91bcbc7cda]
+#### Execution of interim attachment[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 - [Section 9F — Execution of interim attachment](part-1a/section-9f.md)
 - [Section 9G — Execution of interim attachment before service](part-1a/section-9g.md)
 
-#### Interim attachment: further procedure[^key-f533edabd47adb0f974a7e91bcbc7cda]
+#### Interim attachment: further procedure[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 - [Section 9H — Order for security of attached articles](part-1a/section-9h.md)
 
-#### Interim attachment: effects[^key-f533edabd47adb0f974a7e91bcbc7cda]
+#### Interim attachment: effects[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 - [Section 9J — Unlawful acts after interim attachment](part-1a/section-9j.md)
 - [Section 9K — Articles belonging to or owned in common by a third party](part-1a/section-9k.md)
 - [Section 9L — Duration of interim attachment](part-1a/section-9l.md)
 
-#### Recall etc. of interim attachment[^key-f533edabd47adb0f974a7e91bcbc7cda]
+#### Recall etc. of interim attachment[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 - [Section 9M — Recall or restriction of interim attachment](part-1a/section-9m.md)
 - [Section 9N — Variation of orders and variation or recall of conditions](part-1a/section-9n.md)
 
-#### General and miscellaneous provisions[^key-f533edabd47adb0f974a7e91bcbc7cda]
+#### General and miscellaneous provisions[^c-f533edabd47adb0f974a7e91bcbc7cda]
 
 - [Section 9P — Expenses of interim attachment](part-1a/section-9p.md)
 - [Section 9Q — Recovery of expenses of interim attachment](part-1a/section-9q.md)
@@ -193,14 +193,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-e48824d764a51fb168f3312173aea394]: Modification: [Act](https://www.legislation.gov.uk/asp/2002/17) modified (21.2.2009) by [Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
+[^c-e48824d764a51fb168f3312173aea394]: Modification: [Act](https://www.legislation.gov.uk/asp/2002/17) modified (21.2.2009) by [Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [arts. 1](https://www.legislation.gov.uk/uksi/2009/317/article/1), [3](https://www.legislation.gov.uk/uksi/2009/317/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/317/schedule)
 
-[^key-d2c05ca6d7a2c27d4acfed339df06894]: Modification: [Act](https://www.legislation.gov.uk/asp/2002/17) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
+[^c-d2c05ca6d7a2c27d4acfed339df06894]: Modification: [Act](https://www.legislation.gov.uk/asp/2002/17) applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2011/245/schedule/6/part/1) (with [reg. 27(a)](https://www.legislation.gov.uk/uksi/2011/245/regulation/27/a))
 
-[^key-a50524280fe9d0942a27ed235621ca64]: Modification: [Act](https://www.legislation.gov.uk/asp/2002/17) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a50524280fe9d0942a27ed235621ca64]: Modification: [Act](https://www.legislation.gov.uk/asp/2002/17) applied (with modifications) (31.12.2020) by [The International Recovery of Maintenance (Hague Convention on the International Recovery of Child Support and Other Forms of Family Maintenance 2007) (EU Exit) Regulations 2018 (S.I. 2018/1125)](https://www.legislation.gov.uk/uksi/2018/1125), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1125/regulation/1), [8](https://www.legislation.gov.uk/uksi/2018/1125/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4354b1321512aa0a199a90cc5fa6b6ac]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2))
+[^c-4354b1321512aa0a199a90cc5fa6b6ac]: Modification: Act applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/2))
 
-[^key-c560863d82d474f4f3161475f6d09fd5]: Modification: Pt. 1 modified (30.11.2004) by [Debt Arrangement and Attachment (Scotland) Act 2002 (Transfer of Functions to the Accountant in Bankruptcy) Order 2004 (S.S.I. 2004/448)](https://www.legislation.gov.uk/ssi/2004/448), [arts. 1](https://www.legislation.gov.uk/ssi/2004/448/article/1), [3](https://www.legislation.gov.uk/ssi/2004/448/article/3)
+[^c-c560863d82d474f4f3161475f6d09fd5]: Modification: Pt. 1 modified (30.11.2004) by [Debt Arrangement and Attachment (Scotland) Act 2002 (Transfer of Functions to the Accountant in Bankruptcy) Order 2004 (S.S.I. 2004/448)](https://www.legislation.gov.uk/ssi/2004/448), [arts. 1](https://www.legislation.gov.uk/ssi/2004/448/article/1), [3](https://www.legislation.gov.uk/ssi/2004/448/article/3)
 
-[^key-f533edabd47adb0f974a7e91bcbc7cda]: Textual amendment: Pt. 1A inserted (1.4.2008) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 173](https://www.legislation.gov.uk/asp/2007/3/section/173), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3)
+[^c-f533edabd47adb0f974a7e91bcbc7cda]: Textual amendment: Pt. 1A inserted (1.4.2008) by [Bankruptcy and Diligence etc. (Scotland) Act 2007 (asp 3)](https://www.legislation.gov.uk/asp/2007/3), [ss. 173](https://www.legislation.gov.uk/asp/2007/3/section/173), [227(3)](https://www.legislation.gov.uk/asp/2007/3/section/227/3) (with [s. 223](https://www.legislation.gov.uk/asp/2007/3/section/223)); [S.S.I. 2008/115](https://www.legislation.gov.uk/ssi/2008/115), [art. 3(1)(c)](https://www.legislation.gov.uk/ssi/2008/115/article/3/1/c) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2008/115/article/4), [10](https://www.legislation.gov.uk/ssi/2008/115/article/10), [15](https://www.legislation.gov.uk/ssi/2008/115/article/15)) (as amended: (23.2.2009) by [S.S.I. 2009/67](https://www.legislation.gov.uk/ssi/2009/67), art. 7; (31.1.2011) by [S.S.I. 2011/31](https://www.legislation.gov.uk/ssi/2011/31), art. 5(a); and (4.10.2014) by [S.S.I. 2014/173](https://www.legislation.gov.uk/ssi/2014/173), arts. 1(2), 3)

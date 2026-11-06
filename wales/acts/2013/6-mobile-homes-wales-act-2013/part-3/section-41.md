@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Minimum length of notice[^key-cbe85ab008a8d98eb7ce9192b27575ed]
+## 41. Minimum length of notice[^c-cbe85ab008a8d98eb7ce9192b27575ed]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In any case where a residential contract is determinable by notice given by eith
 
 ## Annotations
 
-[^key-cbe85ab008a8d98eb7ce9192b27575ed]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2013/6/section/41) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-cbe85ab008a8d98eb7ce9192b27575ed]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2013/6/section/41) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

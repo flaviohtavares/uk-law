@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Crown rights[^key-dad22010f97ecba68ef3f9710b7b36e4]
+## 57. Crown rights[^c-dad22010f97ecba68ef3f9710b7b36e4]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dad22010f97ecba68ef3f9710b7b36e4]: Commencement: Art. 57 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-dad22010f97ecba68ef3f9710b7b36e4]: Commencement: Art. 57 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

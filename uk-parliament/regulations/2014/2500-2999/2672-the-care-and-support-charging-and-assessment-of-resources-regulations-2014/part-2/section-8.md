@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Power of the local authority to financially assess and charge a short-term resident as if the resident is receiving care and support or support other than the provision of accommodation in a care home[^key-4e0a80bb3f81e0b762eccc1702e1cd1b]
+## 8. Power of the local authority to financially assess and charge a short-term resident as if the resident is receiving care and support or support other than the provision of accommodation in a care home[^c-4e0a80bb3f81e0b762eccc1702e1cd1b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A local authority may, if it thinks fit, financially assess and charge a short-t
 
 ## Annotations
 
-[^key-4e0a80bb3f81e0b762eccc1702e1cd1b]: Commencement: Reg. 8 in force at 1.4.2015 in accordance with reg. 1
+[^c-4e0a80bb3f81e0b762eccc1702e1cd1b]: Commencement: Reg. 8 in force at 1.4.2015 in accordance with reg. 1

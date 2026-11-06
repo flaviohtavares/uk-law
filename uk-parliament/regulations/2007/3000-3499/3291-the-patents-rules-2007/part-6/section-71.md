@@ -29,7 +29,7 @@ summary: ''
 - (a) a statement of the reasons for the request; and
 - (b) the fee prescribed for the purposes of section 89A(3).
 
-(4) The relevant period is two months beginning immediately after[^key-d18b0044ab066d12bded5aeb5a96806f] the date on which—
+(4) The relevant period is two months beginning immediately after[^c-d18b0044ab066d12bded5aeb5a96806f] the date on which—
 
 - (a) the International Bureau; or
 - (b) the receiving Office,
@@ -49,4 +49,4 @@ subject to such conditions as the comptroller may direct.
 
 ## Annotations
 
-[^key-d18b0044ab066d12bded5aeb5a96806f]: Textual amendment: Words in [rule 71(4)](https://www.legislation.gov.uk/uksi/2007/3291/rule/71/4) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))
+[^c-d18b0044ab066d12bded5aeb5a96806f]: Textual amendment: Words in [rule 71(4)](https://www.legislation.gov.uk/uksi/2007/3291/rule/71/4) substituted (1.10.2011) by [The Patents (Amendment) Rules 2011 (S.I. 2011/2052)](https://www.legislation.gov.uk/uksi/2011/2052), [rules 1](https://www.legislation.gov.uk/uksi/2011/2052/rule/1), [3](https://www.legislation.gov.uk/uksi/2011/2052/rule/3), [Sch.](https://www.legislation.gov.uk/uksi/2011/2052/schedule) (with [rule 4](https://www.legislation.gov.uk/uksi/2011/2052/rule/4))

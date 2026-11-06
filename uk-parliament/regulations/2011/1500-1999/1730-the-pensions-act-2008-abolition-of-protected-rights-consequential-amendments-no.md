@@ -44,7 +44,7 @@ A draft of this Order has been laid before Parliament in accordance with section
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-e232ff3e3a230a7926a8cf9ddf5f1213]
+### 1. Citation and commencement[^c-e232ff3e3a230a7926a8cf9ddf5f1213]
 
 (1) This Order may be cited as the Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No. 2) Order 2011.
 
@@ -56,14 +56,14 @@ A draft of this Order has been laid before Parliament in accordance with section
 
 ## PART 2 — Amendments coming into force immediately before, or on, 6th April 2012
 
-### 2. Amendments to the Bankruptcy (Scotland) Act 1985[^key-a00eddd43ac3a412bd78cfb383b4e424]
+### 2. Amendments to the Bankruptcy (Scotland) Act 1985[^c-a00eddd43ac3a412bd78cfb383b4e424]
 
 In section 32(2A) of the Bankruptcy (Scotland) Act 1985[^f00002] (vesting of estate, and dealings of debtor, after sequestration)—
 
 - (a) omit paragraph (b) and the word “and” immediately preceding it, and
 - (b) for “and “protected rights” having the same meanings” substitute “having the same meaning”.
 
-### 3. Amendments to the Insolvency Act 1986[^key-a69eb10be4eae7f97225d7b56cdef77f][^key-06237786acca0431683b8292dd360cf1]
+### 3. Amendments to the Insolvency Act 1986[^c-a69eb10be4eae7f97225d7b56cdef77f][^c-06237786acca0431683b8292dd360cf1]
 
 (1) Section 310 of the Insolvency Act 1986[^f00003] (income payments orders) is amended as follows.
 
@@ -71,7 +71,7 @@ In section 32(2A) of the Bankruptcy (Scotland) Act 1985[^f00002] (vesting of est
 
 (3) In subsection (9), for “and “protected rights” have” substitute “has”.
 
-### 4. Amendments to the Judicial Pensions and Retirement Act 1993[^key-9026d3e5ea3e563c5825df163abdaa74]
+### 4. Amendments to the Judicial Pensions and Retirement Act 1993[^c-9026d3e5ea3e563c5825df163abdaa74]
 
 In Schedule 2 to the Judicial Pensions and Retirement Act 1993[^f00004] (transfer of accrued benefits), in paragraph 1(1) (interpretation), for the definition of “protected rights”[^f00005], substitute—
 
@@ -79,7 +79,7 @@ In Schedule 2 to the Judicial Pensions and Retirement Act 1993[^f00004] (transfe
 
 .
 
-### 5. Amendments to the Pension Schemes Act 1993[^key-faa7b87993aea5e4ea00f9ee1afc6d11]
+### 5. Amendments to the Pension Schemes Act 1993[^c-faa7b87993aea5e4ea00f9ee1afc6d11]
 
 (1) The Pension Schemes Act 1993[^f00006] is amended as follows.
 
@@ -167,11 +167,11 @@ In Schedule 2 to the Judicial Pensions and Retirement Act 1993[^f00004] (transfe
 
 (15) In section 99(1) (trustees’ duties after exercise of option), omit “or give effect to such protected rights”.
 
-(15A)[^key-c6dca14a5f7ad707e424d4ad49251b8c] In section 155 (requirement to give information to the Secretary of State or the Board for the purposes of certain provisions), for “, section 117 and section 159 (so far as it relates to protected rights payments)” substitute “and section 117”.
+(15A)[^c-c6dca14a5f7ad707e424d4ad49251b8c] In section 155 (requirement to give information to the Secretary of State or the Board for the purposes of certain provisions), for “, section 117 and section 159 (so far as it relates to protected rights payments)” substitute “and section 117”.
 
 (16) In section 156(1) (information for purposes of contracting-out)[^f00016], for “or appropriate scheme”, substitute “or a personal pension scheme which was an appropriate scheme before the abolition date”.
 
-(17)[^key-de84850244a88d1962f4d7e05c30aa2f] In section 159 (inalienability of guaranteed minimum pension and protected rights payments)—
+(17)[^c-de84850244a88d1962f4d7e05c30aa2f] In section 159 (inalienability of guaranteed minimum pension and protected rights payments)—
 
 - (a) in the sidenote, omit “and protected rights payments”,
 - (b) in subsection (1)(a), omit “or to payments giving effect to protected rights under such a scheme”,
@@ -183,7 +183,7 @@ In Schedule 2 to the Judicial Pensions and Retirement Act 1993[^f00004] (transfe
 
   .
 
-(18)[^key-5a0089d3d3e87ef901ba0bf12c8bf06b] In section 164 (Crown employment), for subsection (2), substitute—
+(18)[^c-5a0089d3d3e87ef901ba0bf12c8bf06b] In section 164 (Crown employment), for subsection (2), substitute—
 
 > (2) A person who is employed by or under the Crown shall be treated as an employed earner for the purposes of—
 >
@@ -195,13 +195,13 @@ In Schedule 2 to the Judicial Pensions and Retirement Act 1993[^f00004] (transfe
 
 .
 
-(18A)[^key-40d96ea5f1dd5d3eb096018687379485] In section 165 (application of certain provisions to cases with foreign element), in subsection (2)(a)[^f00006], omit “and section 159 (so far as it relates to protected rights payments).”.
+(18A)[^c-40d96ea5f1dd5d3eb096018687379485] In section 165 (application of certain provisions to cases with foreign element), in subsection (2)(a)[^f00006], omit “and section 159 (so far as it relates to protected rights payments).”.
 
 (19) In section 170 (decisions and appeals), as substituted by paragraph 131 of Schedule 7 to the Social Security Act 1998[^f00018], in subsection (3), omit “or 54”.
 
 (20) In section 170 (determination of questions by Secretary of State), as remaining in force for purposes other than those specified in article 2(1)(b) of the Social Security Act 1998 (Commencement No. 8, and Savings and Consequential and Transitional Provisions) Order 1999[^f00019], in subsection (7)(a)[^f00020], omit “or appropriate scheme certificates”.
 
-(21)[^key-597c72eeb220a88d5945bb3435fedd09] In section 177 (general financial arrangements), in subsection (3)(b), for sub-paragraph (ii), substitute—
+(21)[^c-597c72eeb220a88d5945bb3435fedd09] In section 177 (general financial arrangements), in subsection (3)(b), for sub-paragraph (ii), substitute—
 
 > - (ii) sections 31, 33, 117, 154 and 155; and
 > - (iii) sections 160 and 166.
@@ -217,7 +217,7 @@ In Schedule 2 to the Judicial Pensions and Retirement Act 1993[^f00004] (transfe
 
 (24) In Schedule 2 (certification regulations), omit Part 2 (personal pension schemes).
 
-### 6. Amendments to the Pensions Act 1995[^key-cfd0d8b2241d9f466e638e6e4808e0f8]
+### 6. Amendments to the Pensions Act 1995[^c-cfd0d8b2241d9f466e638e6e4808e0f8]
 
 (1) The Pensions Act 1995[^f00023] is amended as follows.
 
@@ -226,20 +226,20 @@ In Schedule 2 to the Judicial Pensions and Retirement Act 1993[^f00004] (transfe
 - (a) at the end of paragraph (a), add “and”, and
 - (b) omit paragraph (b).
 
-(2A)[^key-0bf9c09789e3dd102c06910e69bb12bc] In section 91(7) (inalienability of occupational pension), omit “and protected rights payments”.
+(2A)[^c-0bf9c09789e3dd102c06910e69bb12bc] In section 91(7) (inalienability of occupational pension), omit “and protected rights payments”.
 
 (3) Omit section 149 (hybrid occupational pension schemes), section 162 (annual increase in rate of personal pension**)** and section 163 (section 162: supplementary).
 
 (4) In section 175 (Parliamentary control of orders and regulations), in subsection (2), omit paragraph (d) and the word “or” immediately preceding it.
 
-### 7. Amendments to the Pensions Act 2004[^key-87307ab952250c0a263c9f7d9741a080]
+### 7. Amendments to the Pensions Act 2004[^c-87307ab952250c0a263c9f7d9741a080]
 
 In section 170 (discharge of liabilities in respect of money purchase benefits) of the Pensions Act 2004[^f00025]—
 
 - (a) omit subsection (3), and
 - (b) in subsection (4), omit the definition of “protected rights”.
 
-### 8. Repeal and amendment of certain amending provisions of the Pensions Act 2007 before their commencement[^key-cf60fa85f42866e889605b2fc5d568da]
+### 8. Repeal and amendment of certain amending provisions of the Pensions Act 2007 before their commencement[^c-cf60fa85f42866e889605b2fc5d568da]
 
 (1) Paragraphs 7, 16, 24, 25, 30, 32, 33 and 36 of Schedule 4 to the Pensions Act 2007 (abolition of contracting-out for defined contribution pension schemes) are omitted, and are not to have any effect from the contracting-out abolition date (within the meaning of section 106(4) of the Pensions Act 2008) (in spite of section 15(4) of the Pensions Act 2007).
 
@@ -251,7 +251,7 @@ In section 170 (discharge of liabilities in respect of money purchase benefits) 
 
 ## PART 3 — Amendments coming into force on 6th April 2015
 
-### 9. Amendments to the Pension Schemes Act 1993[^key-3a90e08862b19dd1de879f0ec4cdba42]
+### 9. Amendments to the Pension Schemes Act 1993[^c-3a90e08862b19dd1de879f0ec4cdba42]
 
 (1) The Pension Schemes Act 1993 is amended as follows.
 
@@ -313,25 +313,25 @@ This legislation reduces the costs of administrative burdens on the private sect
 
 [^f00001]: Footnote: [2008 c.30](https://www.legislation.gov.uk/ukpga/2008/30).
 
-[^key-e232ff3e3a230a7926a8cf9ddf5f1213]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/1730/article/1) in force at 5.4.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/a)
+[^c-e232ff3e3a230a7926a8cf9ddf5f1213]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/1730/article/1) in force at 5.4.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/a)
 
-[^key-a00eddd43ac3a412bd78cfb383b4e424]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/1730/article/2) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
+[^c-a00eddd43ac3a412bd78cfb383b4e424]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/1730/article/2) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
 
 [^f00002]: Footnote: [1985 c.66](https://www.legislation.gov.uk/ukpga/1985/66). Section 32(2A) was inserted by section 122 of, and paragraph 14 of Schedule 3 to, the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-a69eb10be4eae7f97225d7b56cdef77f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/1730/article/3) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
+[^c-a69eb10be4eae7f97225d7b56cdef77f]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/1730/article/3) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
 
-[^key-06237786acca0431683b8292dd360cf1]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2011/1730/article/3) substituted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/709/article/2/2)
+[^c-06237786acca0431683b8292dd360cf1]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/uksi/2011/1730/article/3) substituted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2012/709/article/2/2)
 
 [^f00003]: Footnote: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45). Subsections (8) and (9) were inserted by section 122 of, and paragraph 15(b) of Schedule 3 to, the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-9026d3e5ea3e563c5825df163abdaa74]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/1730/article/4) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
+[^c-9026d3e5ea3e563c5825df163abdaa74]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/1730/article/4) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
 
 [^f00004]: Footnote: [1993 c.8](https://www.legislation.gov.uk/ukpga/1993/8).
 
 [^f00005]: Footnote: The definition of “protected rights” was amended by section 190 of, and paragraph 46(5) of Schedule 8 to, the Pension Schemes Act [1993 (c.48)](https://www.legislation.gov.uk/ukpga/1993/48), and by section 184 of, and paragraph 43(5) of Schedule 7 to, the Pension Schemes (Northern Ireland) Act [1993 (c.49)](https://www.legislation.gov.uk/ukpga/1993/49).
 
-[^key-faa7b87993aea5e4ea00f9ee1afc6d11]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2011/1730/article/5) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
+[^c-faa7b87993aea5e4ea00f9ee1afc6d11]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2011/1730/article/5) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
 
 [^f00006]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
@@ -353,15 +353,15 @@ This legislation reduces the costs of administrative burdens on the private sect
 
 [^f00015]: Footnote: Subsection (3) was amended by section 151 of, and paragraph 63 of Schedule 5 to, the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), and by [S.I. 2005/2053](https://www.legislation.gov.uk/uksi/2005/2053).
 
-[^key-c6dca14a5f7ad707e424d4ad49251b8c]: Textual amendment: [Art. 5(15A)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/15A) inserted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/709/article/2/3)
+[^c-c6dca14a5f7ad707e424d4ad49251b8c]: Textual amendment: [Art. 5(15A)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/15A) inserted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2012/709/article/2/3)
 
 [^f00016]: Footnote: Section 156 was substituted by section 56 of, and paragraph 9 of Schedule 5 to, the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-de84850244a88d1962f4d7e05c30aa2f]: Textual amendment: [Art. 5(17)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/17) substituted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/709/article/2/4)
+[^c-de84850244a88d1962f4d7e05c30aa2f]: Textual amendment: [Art. 5(17)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/17) substituted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2012/709/article/2/4)
 
-[^key-5a0089d3d3e87ef901ba0bf12c8bf06b]: Textual amendment: [Art. 5(18)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/18) substituted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2012/709/article/2/5)
+[^c-5a0089d3d3e87ef901ba0bf12c8bf06b]: Textual amendment: [Art. 5(18)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/18) substituted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2012/709/article/2/5)
 
-[^key-40d96ea5f1dd5d3eb096018687379485]: Textual amendment: [Art. 5(18A)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/18A) inserted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2012/709/article/2/6)
+[^c-40d96ea5f1dd5d3eb096018687379485]: Textual amendment: [Art. 5(18A)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/18A) inserted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2012/709/article/2/6)
 
 [^f00018]: Footnote: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14). This substitution was brought into force for certain purposes only by [S.I. 1999/1958](https://www.legislation.gov.uk/uksi/1999/1958). Subsections (2) to (4) were subsequently substituted by section 16 of the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2).
 
@@ -369,27 +369,27 @@ This legislation reduces the costs of administrative burdens on the private sect
 
 [^f00020]: Footnote: Subsection (7) was inserted by section 151 of, and paragraph 70(c) of Schedule 5 to, the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26).
 
-[^key-597c72eeb220a88d5945bb3435fedd09]: Textual amendment: [Art. 5(21)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/21) substituted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2012/709/article/2/7)
+[^c-597c72eeb220a88d5945bb3435fedd09]: Textual amendment: [Art. 5(21)](https://www.legislation.gov.uk/uksi/2011/1730/article/5/21) substituted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2012/709/article/2/7)
 
 [^f00021]: Footnote: Subsection (4) was amended by section 320 of, and Part 1 of Schedule 13 to, the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35).
 
 [^f00022]: Footnote: Subsection (3) was amended by sections 122 and 173 of, and paragraph 45 of Schedule 3 to, and paragraph 15(b) of Schedule 6 to, the Pensions Act [1995 (c.26)](https://www.legislation.gov.uk/ukpga/1995/26), by section 84 of, and paragraphs 28 and 42 of Schedule 12 to, the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30), and by section 319 of, and paragraphs 9 and 32 of Schedule 12 to, the Pensions Act [2004 (c.35)](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-cfd0d8b2241d9f466e638e6e4808e0f8]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2011/1730/article/6) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
+[^c-cfd0d8b2241d9f466e638e6e4808e0f8]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2011/1730/article/6) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
 
 [^f00023]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 
 [^f00024]: Footnote: Section 51A was inserted by section 51(2) of the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-0bf9c09789e3dd102c06910e69bb12bc]: Textual amendment: [Art. 6(2A)](https://www.legislation.gov.uk/uksi/2011/1730/article/6/2A) inserted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2012/709/article/2/8)
+[^c-0bf9c09789e3dd102c06910e69bb12bc]: Textual amendment: [Art. 6(2A)](https://www.legislation.gov.uk/uksi/2011/1730/article/6/2A) inserted (5.4.2012) by [The Pensions Act 2008 (Abolition of Protected Rights) (Consequential Amendments) (No.2) (Amendment) Order 2012 (S.I. 2012/709)](https://www.legislation.gov.uk/uksi/2012/709), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/709/article/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2012/709/article/2/8)
 
-[^key-87307ab952250c0a263c9f7d9741a080]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2011/1730/article/7) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
+[^c-87307ab952250c0a263c9f7d9741a080]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2011/1730/article/7) in force at 6.4.2012, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/b)
 
 [^f00025]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-cf60fa85f42866e889605b2fc5d568da]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/1730/article/8) in force at 5.4.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/a)
+[^c-cf60fa85f42866e889605b2fc5d568da]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/1730/article/8) in force at 5.4.2012, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/a)
 
-[^key-3a90e08862b19dd1de879f0ec4cdba42]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2011/1730/article/9) in force at 6.4.2015, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/c)
+[^c-3a90e08862b19dd1de879f0ec4cdba42]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2011/1730/article/9) in force at 6.4.2015, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2011/1730/article/1/2/c)
 
 [^f00026]: Footnote: Section 20(3) was amended by article 5(2) of this instrument.
 

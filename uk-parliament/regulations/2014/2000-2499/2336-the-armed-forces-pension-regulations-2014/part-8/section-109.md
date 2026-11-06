@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Amount of transferred pension[^key-1247eee8288251be9c17328edbd15360]
+## 109. Amount of transferred pension[^c-1247eee8288251be9c17328edbd15360]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1247eee8288251be9c17328edbd15360]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/2014/2336/regulation/109) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-1247eee8288251be9c17328edbd15360]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/2014/2336/regulation/109) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

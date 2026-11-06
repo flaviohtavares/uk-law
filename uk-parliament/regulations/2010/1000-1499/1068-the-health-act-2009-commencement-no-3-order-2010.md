@@ -39,14 +39,14 @@ Made
 
 The Secretary of State, in exercise of the powers conferred by section 40(1) and (4) of the Health Act 2009[^f00001], makes the following Order:—
 
-## 1. Citation, application, extent and interpretation[^key-4c23228ead9c00003c3d7147d4d3d490]
+## 1. Citation, application, extent and interpretation[^c-4c23228ead9c00003c3d7147d4d3d490]
 
 (1) This Order may be cited as the Health Act 2009 (Commencement No.3) Order 2010.
 
 (2)
 
 - (a) Except as provided in this paragraph, this Order applies to England.
-- (b)[^key-41794d03cb0ba3b9c7b4d8755d74ef94] paragraphs (1)(b) and (1A)(c) of article 2 have the same extent as the enactments repealed under the specified provisions of Schedule 6 to the Act.
+- (b)[^c-41794d03cb0ba3b9c7b4d8755d74ef94] paragraphs (1)(b) and (1A)(c) of article 2 have the same extent as the enactments repealed under the specified provisions of Schedule 6 to the Act.
 
 (3) In this Order—
 
@@ -65,9 +65,9 @@ The Secretary of State, in exercise of the powers conferred by section 40(1) and
 - (a) during the most recent period of twelve months for which accounts are available; or
 - (b) during the period for which the shop has been established, if it has not been established long enough for twelve months’ accounts to be available.
 
-## 2. Appointed days[^key-d00f26fd25b6ac5365cce338f8b17fb4]
+## 2. Appointed days[^c-d00f26fd25b6ac5365cce338f8b17fb4]
 
-(1)[^key-4e18cd400a56307050fbd113a845e868] 1st October 2011 is the day appointed for the coming into force of the following provisions of the Act—
+(1)[^c-4e18cd400a56307050fbd113a845e868] 1st October 2011 is the day appointed for the coming into force of the following provisions of the Act—
 
 - (a) section 22 (power to prohibit sales from vending machines) to the extent that it is not already in force;
 - (b) Schedule 6 (repeals and revocations) in so far as it gives effect to the repeal relating to the Children and Young Persons Act 1933[^f00003] and section 38 in so far as it gives effect to that provision.
@@ -83,7 +83,7 @@ The Secretary of State, in exercise of the powers conferred by section 40(1) and
   - (v) paragraph 2 in so far as it relates to the paragraphs listed in (i) to (iv);
 - (c) Schedule 6 (repeals and revocations) in so far as it gives effect to the repeal relating to section 14(12) of the Tobacco Advertising and Promotion Act 2002, and section 38 in so far as it gives effect to that provision.
 
-(2) 6th April 2015[^key-acfce4122ace0459138408646600fd8b] is the day appointed for the coming into force of the following provisions of the Act—
+(2) 6th April 2015[^c-acfce4122ace0459138408646600fd8b] is the day appointed for the coming into force of the following provisions of the Act—
 
 - (a) section 20 (prohibition of advertising: exclusion for specialist tobacconists) to the extent that it is not already in force;
 - (b) section 21 (prohibition of tobacco displays etc) in so far as it inserts sections 7A, 7B and 7C of the Tobacco Advertising and Promotion Act 2002, to the extent that it is not already in force;
@@ -144,18 +144,18 @@ The following provisions of the Health Act 2009 have been or will be brought int
 
 [^f00001]: Footnote: [2009 c.21](https://www.legislation.gov.uk/ukpga/2009/21).
 
-[^key-4c23228ead9c00003c3d7147d4d3d490]: Commencement: Art. 1 in force at made date
+[^c-4c23228ead9c00003c3d7147d4d3d490]: Commencement: Art. 1 in force at made date
 
-[^key-41794d03cb0ba3b9c7b4d8755d74ef94]: Textual amendment: [Art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/1068/article/1/2/b) substituted (9.5.2011) by [The Health Act 2009 (Commencement No.3) (Amendment) Order 2011 (S.I. 2011/1255)](https://www.legislation.gov.uk/uksi/2011/1255), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1255/article/2/a)
+[^c-41794d03cb0ba3b9c7b4d8755d74ef94]: Textual amendment: [Art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2010/1068/article/1/2/b) substituted (9.5.2011) by [The Health Act 2009 (Commencement No.3) (Amendment) Order 2011 (S.I. 2011/1255)](https://www.legislation.gov.uk/uksi/2011/1255), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/1255/article/2/a)
 
 [^f00002]: Footnote: [2002 c.36](https://www.legislation.gov.uk/ukpga/2002/36).
 
-[^key-d00f26fd25b6ac5365cce338f8b17fb4]: Commencement: Art. 2 in force at made date
+[^c-d00f26fd25b6ac5365cce338f8b17fb4]: Commencement: Art. 2 in force at made date
 
-[^key-4e18cd400a56307050fbd113a845e868]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1)[(1A)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A) substituted for [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1) (9.5.2011) by [The Health Act 2009 (Commencement No.3) (Amendment) Order 2011 (S.I. 2011/1255)](https://www.legislation.gov.uk/uksi/2011/1255), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1255/article/2/b)
+[^c-4e18cd400a56307050fbd113a845e868]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1)[(1A)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1A) substituted for [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/1) (9.5.2011) by [The Health Act 2009 (Commencement No.3) (Amendment) Order 2011 (S.I. 2011/1255)](https://www.legislation.gov.uk/uksi/2011/1255), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/1255/article/2/b)
 
 [^f00003]: Footnote: [1933 c.12](https://www.legislation.gov.uk/ukpga/1933/12). Section 12D was inserted by the Criminal Justice and Immigration Act [2008 (c.4)](https://www.legislation.gov.uk/ukpga/2008/4), section 143.
 
 [^f00004]: Footnote: Paragraph 8(3) of Schedule 4 to the Act, which includes the corresponding amendment to section 14(12) of the Tobacco Advertising and Promotion Act 2002, is commenced under section 40(2) of the Act by the Welsh Ministers.
 
-[^key-acfce4122ace0459138408646600fd8b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2) substituted (9.5.2011) by [The Health Act 2009 (Commencement No.3) (Amendment) Order 2011 (S.I. 2011/1255)](https://www.legislation.gov.uk/uksi/2011/1255), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1255/article/2/c)
+[^c-acfce4122ace0459138408646600fd8b]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/1068/article/2/2) substituted (9.5.2011) by [The Health Act 2009 (Commencement No.3) (Amendment) Order 2011 (S.I. 2011/1255)](https://www.legislation.gov.uk/uksi/2011/1255), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1255/article/2/c)

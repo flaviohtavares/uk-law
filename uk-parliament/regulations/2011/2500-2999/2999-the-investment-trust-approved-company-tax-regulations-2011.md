@@ -253,13 +253,13 @@ A company must comply with the provisions of this Chapter in relation to each ac
 
 #### 19. The income distribution requirement
 
-(1)[^key-4eb9b31bfa02a5a71cb39c17211cd61a] The maximum amount an investment trust is permitted to retain in respect of an accounting period is the highest of the following amounts—
+(1)[^c-4eb9b31bfa02a5a71cb39c17211cd61a] The maximum amount an investment trust is permitted to retain in respect of an accounting period is the highest of the following amounts—
 
 - (a) 15% of its income for the accounting period,
 - (b) where paragraph (1A) applies, the accumulated revenue losses brought forward from previous accounting periods, and
 - (c) any amount of income that the investment trust is required to retain in respect of the accounting period by virtue of a restriction imposed by law.
 
-(1A)[^key-b105b3156919fab5ff58a2c566d9f15d] This paragraph applies if in the accounting period the amount of income the investment trust is permitted to retain under this regulation and regulation 21 (taken together and ignoring this paragraph and paragraph (1)(b)) does not exceed the amount of any accumulated revenue losses brought forward from previous accounting periods.
+(1A)[^c-b105b3156919fab5ff58a2c566d9f15d] This paragraph applies if in the accounting period the amount of income the investment trust is permitted to retain under this regulation and regulation 21 (taken together and ignoring this paragraph and paragraph (1)(b)) does not exceed the amount of any accumulated revenue losses brought forward from previous accounting periods.
 
 (2) The investment trust must distribute as a dividend the amount required to comply with paragraph (1) before the filing date for the investment trust's company tax return for the accounting period.
 
@@ -271,7 +271,7 @@ A company must comply with the provisions of this Chapter in relation to each ac
 
 #### 20. Calculation of income
 
-(1) Paragraphs (2) and (3) apply for the purposes of regulation 19(1)(a)[^key-95763bc0315931154bbe2686a8c7c6c7] in determining the income of the investment trust for an accounting period.
+(1) Paragraphs (2) and (3) apply for the purposes of regulation 19(1)(a)[^c-95763bc0315931154bbe2686a8c7c6c7] in determining the income of the investment trust for an accounting period.
 
 (2) The amounts to be brought into account under Part 5 of CTA 2009 in respect of the investment trust's loan relationships are to be determined without reference to any debtor relationships of the investment trust.
 
@@ -306,9 +306,9 @@ A company must comply with the provisions of this Chapter in relation to each ac
 
 (1) Regulations 19 and 21 do not apply in relation to an accounting period if the amount that the investment trust would be required to distribute in accordance with those regulations, taken together, would be less than £30,000.
 
-(2)[^key-2083e4b69c50280c3478602c2d980aee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2083e4b69c50280c3478602c2d980aee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) If the accounting period mentioned in paragraph (1)[^key-4c1b0f0183d81405bc9ab8929d867bbc] is shorter than 12 months, the amount of £30,000 mentioned in that paragraph[^key-d6ee7303f5df2416f882787b80de0c76] is proportionately reduced.
+(3) If the accounting period mentioned in paragraph (1)[^c-4c1b0f0183d81405bc9ab8929d867bbc] is shorter than 12 months, the amount of £30,000 mentioned in that paragraph[^c-d6ee7303f5df2416f882787b80de0c76] is proportionately reduced.
 
 #### 23. Requirement to notify Commissioners of revised investment policy
 
@@ -455,41 +455,41 @@ the fourth breach is a serious breach.
 
 (2) The investment transaction is treated as a transaction entered into otherwise than in the course of a trade for the purposes of the Corporation Tax Acts.
 
-(3)[^key-57d3727d8da1c9c36e95bb67dcd3b914] For the purposes of this Part an “investment transaction” is an investment transaction specified by regulation 2 of the Investment Transactions (Tax) Regulations 2014.
+(3)[^c-57d3727d8da1c9c36e95bb67dcd3b914] For the purposes of this Part an “investment transaction” is an investment transaction specified by regulation 2 of the Investment Transactions (Tax) Regulations 2014.
 
-### 33. Meaning of “investment transaction”[^key-3bc5014622b1f4434228f60936db02ab]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 34. Meaning of “relevant contract”[^key-3bc5014622b1f4434228f60936db02ab]
+### 33. Meaning of “investment transaction”[^c-3bc5014622b1f4434228f60936db02ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Meaning of “relevant contract”: options[^key-3bc5014622b1f4434228f60936db02ab]
+### 34. Meaning of “relevant contract”[^c-3bc5014622b1f4434228f60936db02ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Meaning of “relevant contract”: futures[^key-3bc5014622b1f4434228f60936db02ab]
+### 35. Meaning of “relevant contract”: options[^c-3bc5014622b1f4434228f60936db02ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 37. Options and futures: further provisions[^key-3bc5014622b1f4434228f60936db02ab]
+### 36. Meaning of “relevant contract”: futures[^c-3bc5014622b1f4434228f60936db02ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Meaning of “relevant contract”: contracts for difference[^key-3bc5014622b1f4434228f60936db02ab]
+### 37. Options and futures: further provisions[^c-3bc5014622b1f4434228f60936db02ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Interpretation of regulation 33(c)[^key-3bc5014622b1f4434228f60936db02ab]
+### 38. Meaning of “relevant contract”: contracts for difference[^c-3bc5014622b1f4434228f60936db02ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Meaning of “units in a collective investment scheme”[^key-3bc5014622b1f4434228f60936db02ab]
+### 39. Interpretation of regulation 33(c)[^c-3bc5014622b1f4434228f60936db02ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 41. Meaning of “transaction in a carbon emission trading product”[^key-3bc5014622b1f4434228f60936db02ab]
+### 40. Meaning of “units in a collective investment scheme”[^c-3bc5014622b1f4434228f60936db02ab]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 41. Meaning of “transaction in a carbon emission trading product”[^c-3bc5014622b1f4434228f60936db02ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -550,7 +550,7 @@ No tax shall be charged on the investment trust under regulation 17 (the charge 
 (3) For the purposes of paragraph (2) an index is a “qualifying index” if—
 
 - (a) it is based solely on the value of securities listed on a recognised stock exchange or admitted to trading on a regulated market,
-- (b) either the Financial Conduct Authority[^key-75ad8caf8b8f7cc0a6fb8a5a48b13b07] or an authority responsible for regulating offshore funds recognises the index on the basis that—
+- (b) either the Financial Conduct Authority[^c-75ad8caf8b8f7cc0a6fb8a5a48b13b07] or an authority responsible for regulating offshore funds recognises the index on the basis that—
   - (i) its composition is sufficiently diverse,
   - (ii) it represents an adequate benchmark for the market to which it refers, and
   - (iii) it is published in such a way that it is widely available, and
@@ -565,11 +565,11 @@ No tax shall be charged on the investment trust under regulation 17 (the charge 
 
 (6) In this regulation—
 
-- (a)[^key-3b4f717acce35a540a9088c52e8825e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-f801b02ca112219c8fbbe7e6b62c5ee7] “regulated market” means—
+- (a)[^c-3b4f717acce35a540a9088c52e8825e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f801b02ca112219c8fbbe7e6b62c5ee7] “regulated market” means—
   - (i) a UK regulated market within the meaning given by Article 2.1(13A) of Regulation (EU) No 600/2014 of the European Parliament and of the Council of 15 May 2014 on markets in financial instruments,
   - (ii) an EU regulated market within the meaning given by Article 2.1(13B) of that Regulation, and
-  - (iii) a Gibraltar regulated market within the meaning given by Article 26(11)(b)(i) of that Regulation.[^key-096da4c2721a54eea83ee4e0330a1acf]
+  - (iii) a Gibraltar regulated market within the meaning given by Article 26(11)(b)(i) of that Regulation.[^c-096da4c2721a54eea83ee4e0330a1acf]
 
 ### 46. Consequential amendment
 
@@ -632,13 +632,13 @@ A Tax Information and Impact Note covering this instrument was published on 9 De
 
 [^c21125881]: Marginal citation: [Section 1158](https://www.legislation.gov.uk/uksi/2011/2999/section/1158) defines “regulated market”.
 
-[^key-4eb9b31bfa02a5a71cb39c17211cd61a]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/19/1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/2/a)
+[^c-4eb9b31bfa02a5a71cb39c17211cd61a]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/19/1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/2/a)
 
-[^key-b105b3156919fab5ff58a2c566d9f15d]: Textual amendment: [Reg. 19(1A)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/19/1A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/2/b)
+[^c-b105b3156919fab5ff58a2c566d9f15d]: Textual amendment: [Reg. 19(1A)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/19/1A) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/2/b)
 
 [^c21125891]: Marginal citation: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36). Paragraph 15 was amended by paragraph 68(a) of Schedule 4 to the [Commissioners of Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11). Paragraph 34 was amended by section 119(3) and (6) to (8) of the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9).
 
-[^key-95763bc0315931154bbe2686a8c7c6c7]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/20/1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/3)
+[^c-95763bc0315931154bbe2686a8c7c6c7]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/20/1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/3)
 
 [^c21125901]: Marginal citation: [Regulation 92(1)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/92/1) was amended by [S.I. 2011/1211](https://www.legislation.gov.uk/uksi/2011/1211).
 
@@ -646,24 +646,24 @@ A Tax Information and Impact Note covering this instrument was published on 9 De
 
 [^c21125921]: Marginal citation: The AIC Statement of Practice can be found at: http://www.theaic.co.uk/Documents/Technical/AICSORPJan09.pdf.
 
-[^key-2083e4b69c50280c3478602c2d980aee]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/22/2) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/4/a)
+[^c-2083e4b69c50280c3478602c2d980aee]: Textual amendment: [Reg. 22(2)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/22/2) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/4/a)
 
-[^key-4c1b0f0183d81405bc9ab8929d867bbc]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/22/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/4/b/i)
+[^c-4c1b0f0183d81405bc9ab8929d867bbc]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/22/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/4/b/i)
 
-[^key-d6ee7303f5df2416f882787b80de0c76]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/22/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/4/b/ii)
+[^c-d6ee7303f5df2416f882787b80de0c76]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/22/3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Trust (Approved Company) (Tax) (Amendment) Regulations 2013 (S.I. 2013/1406)](https://www.legislation.gov.uk/uksi/2013/1406), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/1406/regulation/2/4/b/ii)
 
-[^key-57d3727d8da1c9c36e95bb67dcd3b914]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/32/3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2014/685/regulation/9/2)
+[^c-57d3727d8da1c9c36e95bb67dcd3b914]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/32/3) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2014/685/regulation/9/2)
 
-[^key-3bc5014622b1f4434228f60936db02ab]: Textual amendment: [Regs. 33-41](https://www.legislation.gov.uk/uksi/2011/2999/regulation/33) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2014/685/regulation/9/3)
+[^c-3bc5014622b1f4434228f60936db02ab]: Textual amendment: [Regs. 33-41](https://www.legislation.gov.uk/uksi/2011/2999/regulation/33) omitted (with effect in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Investment Transactions (Tax) Regulations 2014 (S.I. 2014/685)](https://www.legislation.gov.uk/uksi/2014/685), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/685/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2014/685/regulation/9/3)
 
 [^c21125951]: Marginal citation: [Regulation 12](https://www.legislation.gov.uk/uksi/2011/2999/regulation/12) was amended by [S.I. 2011/1121](https://www.legislation.gov.uk/uksi/2011/1121).
 
-[^key-75ad8caf8b8f7cc0a6fb8a5a48b13b07]: Textual amendment: Words in [reg. 45(3)(b)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/3/b) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [32(2)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/32/2/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75ad8caf8b8f7cc0a6fb8a5a48b13b07]: Textual amendment: Words in [reg. 45(3)(b)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/3/b) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [32(2)(a)](https://www.legislation.gov.uk/uksi/2019/689/regulation/32/2/a) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3b4f717acce35a540a9088c52e8825e1]: Textual amendment: [Reg. 45(6)(a)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/6/a) and word omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [32(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/689/regulation/32/2/b/i) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3b4f717acce35a540a9088c52e8825e1]: Textual amendment: [Reg. 45(6)(a)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/6/a) and word omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [32(2)(b)(i)](https://www.legislation.gov.uk/uksi/2019/689/regulation/32/2/b/i) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f801b02ca112219c8fbbe7e6b62c5ee7]: Textual amendment: [Reg. 45(6)(b)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/6/b) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [32(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/689/regulation/32/2/b/ii) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f801b02ca112219c8fbbe7e6b62c5ee7]: Textual amendment: [Reg. 45(6)(b)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/6/b) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [32(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/689/regulation/32/2/b/ii) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-096da4c2721a54eea83ee4e0330a1acf]: Textual amendment: [Reg. 45(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/6/b/iii) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-096da4c2721a54eea83ee4e0330a1acf]: Textual amendment: [Reg. 45(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/2999/regulation/45/6/b/iii) substituted (31.12.2020) by [The Taxes (Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/818)](https://www.legislation.gov.uk/uksi/2019/818), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/818/regulation/1/3), [11(2)](https://www.legislation.gov.uk/uksi/2019/818/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21125981]: Marginal citation: [Regulation 18](https://www.legislation.gov.uk/uksi/2011/2999/regulation/18) was amended by [S.I. 2010/294](https://www.legislation.gov.uk/uksi/2010/294), 2011/244 and 2011/2192.

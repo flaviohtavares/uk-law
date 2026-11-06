@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-b840fda52b4f170024e6b6e372a22739] The 1982 Act is amended as follows.
+(1)[^c-b840fda52b4f170024e6b6e372a22739] The 1982 Act is amended as follows.
 
-(2)[^key-b840fda52b4f170024e6b6e372a22739] In section 3(4) (automatic grant or renewal of licence where application not determined within specified period), the word “unconditionally” is repealed.
+(2)[^c-b840fda52b4f170024e6b6e372a22739] In section 3(4) (automatic grant or renewal of licence where application not determined within specified period), the word “unconditionally” is repealed.
 
-(3)[^key-b840fda52b4f170024e6b6e372a22739] After section 3 insert—
+(3)[^c-b840fda52b4f170024e6b6e372a22739] After section 3 insert—
 
 > **3A. Mandatory licence conditions**
 >
@@ -77,14 +77,14 @@ summary: ''
 
 (4) In section 27C (conditions in respect of knife dealers' licences)—
 
-- (a)[^key-b840fda52b4f170024e6b6e372a22739] in subsection (1)—
+- (a)[^c-b840fda52b4f170024e6b6e372a22739] in subsection (1)—
   - (i) in paragraph (b), after “prejudice to” insert “ section 3B and ”, and
   - (ii) in paragraph (c), after “that” insert “ section and ”, and
 - (b) subsection (2) is repealed.
 
-(5)[^key-b840fda52b4f170024e6b6e372a22739] In section 41(3) (power to attach conditions to public entertainment licences), after “prejudice to” insert “ section 3B of and ”.
+(5)[^c-b840fda52b4f170024e6b6e372a22739] In section 41(3) (power to attach conditions to public entertainment licences), after “prejudice to” insert “ section 3B of and ”.
 
-(6)[^key-b840fda52b4f170024e6b6e372a22739] In Schedule 1 (further provisions as to the general licensing system), in paragraph 5—
+(6)[^c-b840fda52b4f170024e6b6e372a22739] In Schedule 1 (further provisions as to the general licensing system), in paragraph 5—
 
 - (a) in sub-paragraph (1)—
   - (i) in paragraph (a), the word “unconditionally” is repealed, and
@@ -106,4 +106,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b840fda52b4f170024e6b6e372a22739]: Commencement: S. 172(1)-(3)(4)(a)(5)(6) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))
+[^c-b840fda52b4f170024e6b6e372a22739]: Commencement: S. 172(1)-(3)(4)(a)(5)(6) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule))

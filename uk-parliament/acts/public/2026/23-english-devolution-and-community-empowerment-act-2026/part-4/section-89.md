@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Establishment of Local Audit Office[^key-13c8a43abd13e8db7709937cc4f4f2c2][^key-3dc5741c21b5271d931f139a91f9e08b]
+## 89. Establishment of Local Audit Office[^c-13c8a43abd13e8db7709937cc4f4f2c2][^c-3dc5741c21b5271d931f139a91f9e08b]
 
 *Extent: E+W*
 
@@ -92,6 +92,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13c8a43abd13e8db7709937cc4f4f2c2]: Commencement: S. 89 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-13c8a43abd13e8db7709937cc4f4f2c2]: Commencement: S. 89 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-3dc5741c21b5271d931f139a91f9e08b]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2026/23/section/89) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/b)
+[^c-3dc5741c21b5271d931f139a91f9e08b]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2026/23/section/89) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/b)

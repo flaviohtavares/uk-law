@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 54. Death of the respondent[^key-cf68d1cbb04e58f7d1f5a0345537d24d]
+## 54. Death of the respondent[^c-cf68d1cbb04e58f7d1f5a0345537d24d]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Any disciplinary proceedings are automatically terminated on the death of the re
 
 ## Annotations
 
-[^key-cf68d1cbb04e58f7d1f5a0345537d24d]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2005/2022/rule/54) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-cf68d1cbb04e58f7d1f5a0345537d24d]: Commencement: [Rule 54](https://www.legislation.gov.uk/uksi/2005/2022/rule/54) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

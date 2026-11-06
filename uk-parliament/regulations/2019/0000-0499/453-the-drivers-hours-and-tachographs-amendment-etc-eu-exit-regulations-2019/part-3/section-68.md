@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68.[^key-a85f011ceee1d9d138fb7a817f44b5c2]
+## 68.[^c-a85f011ceee1d9d138fb7a817f44b5c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ In Article 20—
 
 ## Annotations
 
-[^key-a85f011ceee1d9d138fb7a817f44b5c2]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a85f011ceee1d9d138fb7a817f44b5c2]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23621171]: Marginal citation: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154), amended by the [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11 (N.I.))](https://www.legislation.gov.uk/nia/2016/11), [S.I](https://www.legislation.gov.uk/nia/2016/11/section/I). 2007/916 (N.I. 10), S.R. [2009 No. 91](https://www.legislation.gov.uk/ukcm/2009/91), [2010 No. 23](https://www.legislation.gov.uk/ukcm/2010/23), [S.I](https://www.legislation.gov.uk/ukcm/2010/23/section/I). 2015/583. There are other amendments which are not relevant to these Regulations.
 

@@ -54,7 +54,7 @@ summary: ''
   - (x) the threshold quota to be applied by the infrastructure manager in requiring a train path to be surrendered under regulation 29(1); and
   - (xi) the conditions relating to previous levels of utilisation of capacity to be taken into account by the infrastructure manager in determining priorities in accordance with regulation 29(3);
 - (i) details of any section of railway infrastructure which has been designated for use by specified types of rail services in accordance with regulation 25;
-- (ia)[^key-9b502681a72fa7ab63d221cefe352805] where an infrastructure manager does not propose framework agreements and does not have such agreements in operation, a statement to that effect;
+- (ia)[^c-9b502681a72fa7ab63d221cefe352805] where an infrastructure manager does not propose framework agreements and does not have such agreements in operation, a statement to that effect;
 - (j) the measures taken by the infrastructure manager to ensure fair treatment of rail freight services and international services, and in responding to *ad hoc* requests for infrastructure capacity;
 - (k) a template form for requests for capacity and detailed information about the allocation procedures for international train paths;
 - (l) information relating to applications for —
@@ -67,7 +67,7 @@ or, as an alternative to the information described in (i) to (iii), a reference 
 - (m) a model agreement for the conclusion of a framework agreement between an infrastructure manager and an applicant in accordance with regulation 21; and
 - (n) the criteria to determine failure to use capacity published under regulation 17(3)(a).
 
-(5) The information provided under paragraph (4)(a) must be made consistent, on an annual basis with, or must refer to, the register of infrastructure published in accordance with regulation 35 of the Railways (Interoperability) Regulations 2011[^key-ad2175909142d9cba9966ba918e5b5b8].
+(5) The information provided under paragraph (4)(a) must be made consistent, on an annual basis with, or must refer to, the register of infrastructure published in accordance with regulation 35 of the Railways (Interoperability) Regulations 2011[^c-ad2175909142d9cba9966ba918e5b5b8].
 
 (6) The information provided under paragraph (4)(b) and (c) must include—
 
@@ -84,7 +84,7 @@ or, as an alternative to the information described in (i) to (iii), a reference 
 
 (11) The content of the network statement must be made available free of charge in electronic format on the web portal of the infrastructure manager and must be accessible through a common web portal.
 
-(12) The common web portal referred to in paragraph (11) must be set up by the infrastructure manager in the framework of its cooperation with other[^key-a4a6615080d041407ba7a35b163ff387] infrastructure managers [^key-50de778d883c2a446717228679cfa287]..., in accordance with regulations 18 and 20.
+(12) The common web portal referred to in paragraph (11) must be set up by the infrastructure manager in the framework of its cooperation with other[^c-a4a6615080d041407ba7a35b163ff387] infrastructure managers [^c-50de778d883c2a446717228679cfa287]..., in accordance with regulations 18 and 20.
 
 (13) If the information required under paragraph (2) or (3) is not provided to the satisfaction of the infrastructure manager, the infrastructure manager may refer the matter to the Office of Rail and Road for a determination as to whether additional information must be supplied.
 
@@ -92,7 +92,7 @@ or, as an alternative to the information described in (i) to (iii), a reference 
 
 ## Annotations
 
-[^key-9b502681a72fa7ab63d221cefe352805]: Textual amendment: [Reg. 13(4)(ia)](https://www.legislation.gov.uk/uksi/2016/645/regulation/13/4/ia) inserted (29.3.2019) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/a), [9(a)](https://www.legislation.gov.uk/uksi/2019/518/regulation/9/a)
+[^c-9b502681a72fa7ab63d221cefe352805]: Textual amendment: [Reg. 13(4)(ia)](https://www.legislation.gov.uk/uksi/2016/645/regulation/13/4/ia) inserted (29.3.2019) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(a)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/a), [9(a)](https://www.legislation.gov.uk/uksi/2019/518/regulation/9/a)
 
 [^c23154161]: Marginal citation: [S.I. 2005/3050](https://www.legislation.gov.uk/uksi/2005/3050), amended by Part 7 of these Regulations. There are other amendments not relevant to these Regulations.
 
@@ -100,8 +100,8 @@ or, as an alternative to the information described in (i) to (iii), a reference 
 
 [^c23154181]: Marginal citation: [S.I. 2007/3531](https://www.legislation.gov.uk/uksi/2007/3531), substituted by [S.I. 2013/407](https://www.legislation.gov.uk/uksi/2013/407), [article 2(1)](https://www.legislation.gov.uk/uksi/2013/407/article/2/1) and (8) and the Schedule. There have been other amendments to this provision which are not relevant to these Regulations.
 
-[^key-ad2175909142d9cba9966ba918e5b5b8]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2016/645/regulation/13/5) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [9(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ad2175909142d9cba9966ba918e5b5b8]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2016/645/regulation/13/5) substituted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [9(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a4a6615080d041407ba7a35b163ff387]: Textual amendment: Word in [reg. 13(12)](https://www.legislation.gov.uk/uksi/2016/645/regulation/13/12) inserted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [9(c)](https://www.legislation.gov.uk/uksi/2019/518/regulation/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4a6615080d041407ba7a35b163ff387]: Textual amendment: Word in [reg. 13(12)](https://www.legislation.gov.uk/uksi/2016/645/regulation/13/12) inserted (31.12.2020) by [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [9(c)](https://www.legislation.gov.uk/uksi/2019/518/regulation/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-50de778d883c2a446717228679cfa287]: Textual amendment: Words in [reg. 13(12)](https://www.legislation.gov.uk/uksi/2016/645/regulation/13/12) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [9(c)](https://www.legislation.gov.uk/uksi/2019/518/regulation/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-50de778d883c2a446717228679cfa287]: Textual amendment: Words in [reg. 13(12)](https://www.legislation.gov.uk/uksi/2016/645/regulation/13/12) omitted (31.12.2020) by virtue of [The Railways (Access, Management and Licensing of Railway Undertakings) (Amendments etc.) (EU Exit) Regulations 2019 (S.I. 2019/518)](https://www.legislation.gov.uk/uksi/2019/518), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2019/518/regulation/1/3/b), [9(c)](https://www.legislation.gov.uk/uksi/2019/518/regulation/9/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

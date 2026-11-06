@@ -29,13 +29,13 @@ summary: ''
 
 (3) For the purposes of subsection (2)(a) a person is a member of the same family as another person if—
 
-- (a) those persons are married to , or civil partners of, each other or live together as if they were a married couple or civil partners[^key-1e844d0d244d00bab465518c77777c3c];
+- (a) those persons are married to , or civil partners of, each other or live together as if they were a married couple or civil partners[^c-1e844d0d244d00bab465518c77777c3c];
 - (b) one of them is a relative of the other; or
 - (c) one of them is, or is a relative of, one member of a couple and the other is a relative of the other member of the couple.
 
 (4) For those purposes—
 
-- (a) a “**couple**” means two persons who [^key-d3d79957b983e038b54a8e2812256e83]... fall within subsection (3)(a);
+- (a) a “**couple**” means two persons who [^c-d3d79957b983e038b54a8e2812256e83]... fall within subsection (3)(a);
 - (b) “**relative**” means parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew, niece or cousin;
 - (c) a relationship of the half-blood shall be treated as a relationship of the whole blood; and
 - (d) the stepchild of a person shall be treated as his child.
@@ -48,6 +48,6 @@ summary: ''
 
 [^c693773]: Commencement: S. 258 wholly in force at 18.1.2005; s. 258 in force for certain purposes at Royal Assent and in force otherwise at 18.1.2005, see s. 270(2)(b)(3)(a)
 
-[^key-1e844d0d244d00bab465518c77777c3c]: Textual amendment: Words in s. 258(3)(a) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 26(4)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/26/4/a)
+[^c-1e844d0d244d00bab465518c77777c3c]: Textual amendment: Words in s. 258(3)(a) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 26(4)(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/26/4/a)
 
-[^key-d3d79957b983e038b54a8e2812256e83]: Textual amendment: Words in s. 258(4)(a) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 26(4)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/26/4/b)
+[^c-d3d79957b983e038b54a8e2812256e83]: Textual amendment: Words in s. 258(4)(a) omitted (2.12.2019) by virtue of [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 26(4)(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/26/4/b)

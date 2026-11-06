@@ -76,7 +76,7 @@ The Secretary of State, being a Minister designated [^c23050591] for the purpose
 - [Section 17 — Required particulars](part-4/section-17.md)
 - [Section 18 — Nature of control over an eligible Scottish partnership](part-4/section-18.md)
 
-### PART 5 — Duties to deliver information to the registrar[^key-36a7120298acb08f11dfb10a10f01e2b]
+### PART 5 — Duties to deliver information to the registrar[^c-36a7120298acb08f11dfb10a10f01e2b]
 
 - [Section 19 — Duty to deliver information to the registrar](part-5/section-19.md)
 - [Section 20 — Duty to deliver information about a relevant change](part-5/section-20.md)
@@ -224,4 +224,4 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c23050601]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2017/694/section/2/2) was amended by section 27(1) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). The enabling powers in section 2(2) were extended by virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51).
 
-[^key-36a7120298acb08f11dfb10a10f01e2b]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/2017/694/part/5): power to modify conferred (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 39(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/39/1), [40(f)](https://www.legislation.gov.uk/ukpga/2020/12/section/40/f), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [39(8)](https://www.legislation.gov.uk/ukpga/2020/12/section/39/8)[(9)](https://www.legislation.gov.uk/ukpga/2020/12/section/39/9))
+[^c-36a7120298acb08f11dfb10a10f01e2b]: Modification: [Pt. 5](https://www.legislation.gov.uk/uksi/2017/694/part/5): power to modify conferred (temp.) (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 39(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/39/1), [40(f)](https://www.legislation.gov.uk/ukpga/2020/12/section/40/f), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [39(8)](https://www.legislation.gov.uk/ukpga/2020/12/section/39/8)[(9)](https://www.legislation.gov.uk/ukpga/2020/12/section/39/9))

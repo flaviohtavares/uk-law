@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112A. Detention pending conclusion of appeal under section 110: Scotland[^key-44e9c835616970e12a66f0a0bfb4b195]
+## 112A. Detention pending conclusion of appeal under section 110: Scotland[^c-44e9c835616970e12a66f0a0bfb4b195]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ then, subject to subsection (6), the remand order continues to remain in force w
 
 ## Annotations
 
-[^key-44e9c835616970e12a66f0a0bfb4b195]: Textual amendment: S. 112A inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 24(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/24/2) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(6)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/6))
+[^c-44e9c835616970e12a66f0a0bfb4b195]: Textual amendment: S. 112A inserted (29.7.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 20 para. 24(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/24/2) (with [Sch. 20 para. 29](https://www.legislation.gov.uk/ukpga/2013/22/schedule/20/paragraph/29)); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/1682/article/2/1/b) (with [art. 4(6)](https://www.legislation.gov.uk/uksi/2013/1682/article/4/6))

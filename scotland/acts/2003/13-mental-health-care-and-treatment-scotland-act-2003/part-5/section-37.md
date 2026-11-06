@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Notification by medical practitioner[^key-b8a6a3659399afbf0a3df36864ef6dd0]
+## 37. Notification by medical practitioner[^c-b8a6a3659399afbf0a3df36864ef6dd0]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8a6a3659399afbf0a3df36864ef6dd0]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2003/13/section/37) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-b8a6a3659399afbf0a3df36864ef6dd0]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2003/13/section/37) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

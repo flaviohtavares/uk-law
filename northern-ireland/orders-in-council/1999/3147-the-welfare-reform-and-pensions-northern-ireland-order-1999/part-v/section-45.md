@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Article 46 or 46A applies where any of the following has taken effect in relation to a person's shareable state scheme rights[^key-27fa36616d5bd31ba6b915a3b5eae100] —
+(1) Article 46 or 46A applies where any of the following has taken effect in relation to a person's shareable state scheme rights[^c-27fa36616d5bd31ba6b915a3b5eae100] —
 
 - (a) a pension sharing order under the Matrimonial Causes Order;
 - (aa)[^c17090701] a pension sharing order under Schedule 15 to the Civil Partnership Act 2004,
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-27fa36616d5bd31ba6b915a3b5eae100]: Textual amendment: Words in art. 45(1) substituted (16.7.2015 for specified purposes, 6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 10](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/10); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(2)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/2/k)
+[^c-27fa36616d5bd31ba6b915a3b5eae100]: Textual amendment: Words in art. 45(1) substituted (16.7.2015 for specified purposes, 6.4.2016 unless brought into operation earlier by an order under s. 53(1) of the amending Act) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 11 para. 10](https://www.legislation.gov.uk/nia/2015/5/schedule/11/paragraph/10); [S.R. 2015/307](https://www.legislation.gov.uk/nisr/2015/307), [art. 2(2)(k)](https://www.legislation.gov.uk/nisr/2015/307/article/2/2/k)
 
 [^c17090701]: Textual amendment: [2004 c.33](https://www.legislation.gov.uk/ukpga/2004/33)
 

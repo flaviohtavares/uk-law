@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 849C. Restrictions in a case within section 849B(4) or (5)[^key-2961712803f8cd3a00bd03ef98864eed]
+## 849C. Restrictions in a case within section 849B(4) or (5)[^c-2961712803f8cd3a00bd03ef98864eed]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2961712803f8cd3a00bd03ef98864eed]: Textual amendment: Ss. 849B-849D and cross-heading omitted (with effect in accordance with s. 33(9)(10) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 33(7)](https://www.legislation.gov.uk/ukpga/2015/33/section/33/7)
+[^c-2961712803f8cd3a00bd03ef98864eed]: Textual amendment: Ss. 849B-849D and cross-heading omitted (with effect in accordance with s. 33(9)(10) of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 33(7)](https://www.legislation.gov.uk/ukpga/2015/33/section/33/7)

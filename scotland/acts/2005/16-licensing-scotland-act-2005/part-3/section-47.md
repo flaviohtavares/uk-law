@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Temporary premises licence[^key-608fbb5f08c2d1d22c87240cd85c259b]
+## 47. Temporary premises licence[^c-608fbb5f08c2d1d22c87240cd85c259b]
 
 *Extent: S*
 
@@ -36,7 +36,7 @@ issue to the applicant a premises licence in respect of such other premises with
 
 (4) A premises licence issued under subsection (2) is referred to in this Act as a “**temporary premises licence**”.
 
-(4A)[^key-ce3ab4e716413826f175406968d8e5e0] Where a Licensing Board issues a temporary premises licence, the Board must send a copy of the temporary premises licence to the chief constable[^key-9e2f2501761d62393fee114c5407f821].
+(4A)[^c-ce3ab4e716413826f175406968d8e5e0] Where a Licensing Board issues a temporary premises licence, the Board must send a copy of the temporary premises licence to the chief constable[^c-9e2f2501761d62393fee114c5407f821].
 
 (5) A temporary premises licence—
 
@@ -52,8 +52,8 @@ issue to the applicant a premises licence in respect of such other premises with
 
 ## Annotations
 
-[^key-608fbb5f08c2d1d22c87240cd85c259b]: Commencement: S. 47 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-608fbb5f08c2d1d22c87240cd85c259b]: Commencement: S. 47 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-ce3ab4e716413826f175406968d8e5e0]: Textual amendment: S. 47(4A) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 187(3)](https://www.legislation.gov.uk/asp/2010/13/section/187/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-ce3ab4e716413826f175406968d8e5e0]: Textual amendment: S. 47(4A) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 187(3)](https://www.legislation.gov.uk/asp/2010/13/section/187/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-9e2f2501761d62393fee114c5407f821]: Textual amendment: Words in s. 47(4A) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-9e2f2501761d62393fee114c5407f821]: Textual amendment: Words in s. 47(4A) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

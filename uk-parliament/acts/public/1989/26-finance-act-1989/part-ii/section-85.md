@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Charge of certain receipts of basic life assurance business.[^key-e8d58d2b79e347c83cf8f2abb11b6878]
+## 85. Charge of certain receipts of basic life assurance business.[^c-e8d58d2b79e347c83cf8f2abb11b6878]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d58d2b79e347c83cf8f2abb11b6878]: Textual amendment: S. 85 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 59](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/59)
+[^c-e8d58d2b79e347c83cf8f2abb11b6878]: Textual amendment: S. 85 omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 59](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/59)

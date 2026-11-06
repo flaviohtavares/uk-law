@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Amendment of oversight provisions[^key-be40769d8964514060fd2b30836056dd]
+## 46. Amendment of oversight provisions[^c-be40769d8964514060fd2b30836056dd]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be40769d8964514060fd2b30836056dd]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2019/14/section/46) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/k)
+[^c-be40769d8964514060fd2b30836056dd]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2019/14/section/46) in force at 1.10.2020 by [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/k)

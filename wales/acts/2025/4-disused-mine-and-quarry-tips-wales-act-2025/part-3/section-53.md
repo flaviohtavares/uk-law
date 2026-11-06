@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Authority’s right to recover certain expenses[^key-70400e2029acb4c77aabe0113913a4b8]
+## 53. Authority’s right to recover certain expenses[^c-70400e2029acb4c77aabe0113913a4b8]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70400e2029acb4c77aabe0113913a4b8]: Commencement: S. 53 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-70400e2029acb4c77aabe0113913a4b8]: Commencement: S. 53 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

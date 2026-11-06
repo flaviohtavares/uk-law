@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Members dealing with the institution[^key-d24e585f878146afc3a7fb4e48985278]
+## 85. Members dealing with the institution[^c-d24e585f878146afc3a7fb4e48985278]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d24e585f878146afc3a7fb4e48985278]: Commencement: Rule 85 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-d24e585f878146afc3a7fb4e48985278]: Commencement: Rule 85 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150.[^key-c4e8ae757aa662100eb40d93870c3d19]
+## 150.[^c-c4e8ae757aa662100eb40d93870c3d19]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 396 (certain lump sums not taxed), in subsection (1)(b)(iv), after â€
 
 ## Annotations
 
-[^key-c4e8ae757aa662100eb40d93870c3d19]: Commencement: Reg. 150 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-c4e8ae757aa662100eb40d93870c3d19]: Commencement: Reg. 150 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

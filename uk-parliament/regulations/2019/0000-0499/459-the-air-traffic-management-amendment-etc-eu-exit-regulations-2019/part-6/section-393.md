@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 393. The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2018[^key-d8863dac5554c56771ab88e1a37a4f40]
+## 393. The Air Navigation (Single European Sky) (Penalties) (Amendment) Order 2018[^c-d8863dac5554c56771ab88e1a37a4f40]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit articles 3(a) and 4 to 6 of the Air Navigation (Single European Sky) (Penal
 
 ## Annotations
 
-[^key-d8863dac5554c56771ab88e1a37a4f40]: Commencement: Reg. 393 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d8863dac5554c56771ab88e1a37a4f40]: Commencement: Reg. 393 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24460841]: Marginal citation: [S.I. 2018/1354](https://www.legislation.gov.uk/uksi/2018/1354).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Failure to comply with directions[^key-32f36eaebeac50ff4d235362fe805bbc]
+## 35. Failure to comply with directions[^c-32f36eaebeac50ff4d235362fe805bbc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32f36eaebeac50ff4d235362fe805bbc]: Commencement: Art. 35 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-32f36eaebeac50ff4d235362fe805bbc]: Commencement: Art. 35 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

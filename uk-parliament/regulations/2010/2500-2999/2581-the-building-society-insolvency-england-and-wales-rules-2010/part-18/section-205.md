@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 205. Requirement to assess costs by the detailed procedure[^key-394c0f7b63a526519fc582ed0ca2ab46]
+## 205. Requirement to assess costs by the detailed procedure[^c-394c0f7b63a526519fc582ed0ca2ab46]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-394c0f7b63a526519fc582ed0ca2ab46]: Commencement: Rule 205 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-394c0f7b63a526519fc582ed0ca2ab46]: Commencement: Rule 205 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00072]: Footnote: Paragraph (1) was amended by [S.I. 2008/737](https://www.legislation.gov.uk/uksi/2008/737).

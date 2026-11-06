@@ -24,16 +24,16 @@ summary: ''
 
 ### The relief
 
-**1.**[^key-291f888842788eec86dd712c77faa4ab] A land transaction entered into on, in consequence of or in connection with a reorganisation effected by or under an enactment is exempt from charge if the buyer and seller are both public bodies.
+**1.**[^c-291f888842788eec86dd712c77faa4ab] A land transaction entered into on, in consequence of or in connection with a reorganisation effected by or under an enactment is exempt from charge if the buyer and seller are both public bodies.
 
-**2.**[^key-3675ee03040a8e42a68eb42fd3fc789b] The Scottish Ministers may, by order, provide that a land transaction that is not entered into as mentioned in paragraph 1 is exempt from charge if—
+**2.**[^c-3675ee03040a8e42a68eb42fd3fc789b] The Scottish Ministers may, by order, provide that a land transaction that is not entered into as mentioned in paragraph 1 is exempt from charge if—
 
 - (a) the transaction is effected by or under an enactment specified in the order, and
 - (b) either the buyer or the seller is a public body.
 
 ### Meaning of “reorganisation”
 
-**3.**[^key-a96770fffda81421ae12459e7bbcae35] A “**reorganisation**” means changes involving—
+**3.**[^c-a96770fffda81421ae12459e7bbcae35] A “**reorganisation**” means changes involving—
 
 - (a) the establishment, reform or abolition of one or more public bodies,
 - (b) the creation, alteration or abolition of functions to be discharged or discharged by one or more public bodies, or
@@ -41,7 +41,7 @@ summary: ''
 
 ### Public bodies
 
-**4.**[^key-d344c88e508902461dcbf6e37e0831f8] The following are public bodies for the purposes of this schedule—
+**4.**[^c-d344c88e508902461dcbf6e37e0831f8] The following are public bodies for the purposes of this schedule—
 
 - the Scottish Ministers,
 - a Minister of the Crown,
@@ -55,23 +55,23 @@ summary: ''
 - a body (other than a company) that is established by or under an enactment for the purpose of carrying out functions conferred on it by or under an enactment,
 - a person prescribed for the purposes of this paragraph by the Scottish Ministers by order.
 
-**5.**[^key-8658c9c0e35204f62e776a87f1b3010b] In this schedule, references to a public body include—
+**5.**[^c-8658c9c0e35204f62e776a87f1b3010b] In this schedule, references to a public body include—
 
 - (a) a company in which all the shares are owned by such a body, and
 - (b) a wholly-owned subsidiary of such a company.
 
-**6.**[^key-8b43d5e0af3c57aeaeb277d0ac08178f] In paragraphs 4 and 5, “**company**” means a company as defined by section 1 of the Companies Act 2006.
+**6.**[^c-8b43d5e0af3c57aeaeb277d0ac08178f] In paragraphs 4 and 5, “**company**” means a company as defined by section 1 of the Companies Act 2006.
 
 ## Annotations
 
-[^key-291f888842788eec86dd712c77faa4ab]: Commencement: Sch. 16 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-291f888842788eec86dd712c77faa4ab]: Commencement: Sch. 16 para. 1 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-3675ee03040a8e42a68eb42fd3fc789b]: Commencement: Sch. 16 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-3675ee03040a8e42a68eb42fd3fc789b]: Commencement: Sch. 16 para. 2 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-a96770fffda81421ae12459e7bbcae35]: Commencement: Sch. 16 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-a96770fffda81421ae12459e7bbcae35]: Commencement: Sch. 16 para. 3 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-d344c88e508902461dcbf6e37e0831f8]: Commencement: Sch. 16 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-d344c88e508902461dcbf6e37e0831f8]: Commencement: Sch. 16 para. 4 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-8658c9c0e35204f62e776a87f1b3010b]: Commencement: Sch. 16 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8658c9c0e35204f62e776a87f1b3010b]: Commencement: Sch. 16 para. 5 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-8b43d5e0af3c57aeaeb277d0ac08178f]: Commencement: Sch. 16 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-8b43d5e0af3c57aeaeb277d0ac08178f]: Commencement: Sch. 16 para. 6 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108) , [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

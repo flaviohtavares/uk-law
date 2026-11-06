@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 11 — Common Safety Targets[^key-59c72af0240a50edbd3d10e5343f3412]
+## SCHEDULE 11 — Common Safety Targets[^c-59c72af0240a50edbd3d10e5343f3412]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,7 +141,7 @@ The following table sets out the measurement units for NRVs and CSTs.
 </tbody>
 </table>
 
-[^key-cb6e2cddd1e332361ab7639696125e4a][^key-21ac3611ad0f38b5a507fca40ecba180]
+[^c-cb6e2cddd1e332361ab7639696125e4a][^c-21ac3611ad0f38b5a507fca40ecba180]
 
 ### 15. Decision flowchart
 
@@ -187,12 +187,12 @@ The following table sets out the values for the CSTs.
 
 ## Annotations
 
-[^key-59c72af0240a50edbd3d10e5343f3412]: Textual amendment: Schs. 8-11 inserted (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [reg. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/837/schedule/paragraph/1) (as amended in Sch. 11 paras. 14, 16, 17 by S.I. 2019/1310, [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 1 paras. 2, 3, 4](https://www.legislation.gov.uk/uksi/2019/1310/schedule/1/paragraph/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59c72af0240a50edbd3d10e5343f3412]: Textual amendment: Schs. 8-11 inserted (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [reg. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/837/schedule/paragraph/1) (as amended in Sch. 11 paras. 14, 16, 17 by S.I. 2019/1310, [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 1 paras. 2, 3, 4](https://www.legislation.gov.uk/uksi/2019/1310/schedule/1/paragraph/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23831731]: Marginal citation: This Schedule substantially reproduces the provisions of Commission Decision 2009/460/EC on the adoption of a common safety method for assessment of achievement of safety targets, Commission Decision 2012/226/EU on the second set of common safety targets as regards the rail system, and Commission Implementing Decision 2013/753/EU amending Decision 2012/226/EU on the second set of common safety targets for the rail system, insofar as they continue to have effect in Great Britain following the withdrawal of the United Kingdom from the European Union and with amendments to address deficiencies arising out of this.
 
 [^c23831741]: Marginal citation: Asterisks in this paragraph have been used to indicate multiplication signs.
 
-[^key-cb6e2cddd1e332361ab7639696125e4a]: Textual amendment: Word in [Sch. 11 para. 14](https://www.legislation.gov.uk/uksi/2006/599/schedule/11/paragraph/14) substituted (30.6.2023) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2023 (S.I. 2023/540)](https://www.legislation.gov.uk/uksi/2023/540), [regs. 1](https://www.legislation.gov.uk/uksi/2023/540/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2023/540/regulation/3/5/a)
+[^c-cb6e2cddd1e332361ab7639696125e4a]: Textual amendment: Word in [Sch. 11 para. 14](https://www.legislation.gov.uk/uksi/2006/599/schedule/11/paragraph/14) substituted (30.6.2023) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2023 (S.I. 2023/540)](https://www.legislation.gov.uk/uksi/2023/540), [regs. 1](https://www.legislation.gov.uk/uksi/2023/540/regulation/1), [3(5)(a)](https://www.legislation.gov.uk/uksi/2023/540/regulation/3/5/a)
 
-[^key-21ac3611ad0f38b5a507fca40ecba180]: Textual amendment: Word in [Sch. 11 para. 14](https://www.legislation.gov.uk/uksi/2006/599/schedule/11/paragraph/14) substituted (30.6.2023) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2023 (S.I. 2023/540)](https://www.legislation.gov.uk/uksi/2023/540), [regs. 1](https://www.legislation.gov.uk/uksi/2023/540/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2023/540/regulation/3/5/b)
+[^c-21ac3611ad0f38b5a507fca40ecba180]: Textual amendment: Word in [Sch. 11 para. 14](https://www.legislation.gov.uk/uksi/2006/599/schedule/11/paragraph/14) substituted (30.6.2023) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2023 (S.I. 2023/540)](https://www.legislation.gov.uk/uksi/2023/540), [regs. 1](https://www.legislation.gov.uk/uksi/2023/540/regulation/1), [3(5)(b)](https://www.legislation.gov.uk/uksi/2023/540/regulation/3/5/b)

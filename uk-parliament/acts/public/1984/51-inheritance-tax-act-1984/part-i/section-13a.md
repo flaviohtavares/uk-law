@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13A. Dispositions by close companies to employee-ownership trusts[^key-3714d44118f50722f05ac527d4e1941b]
+## 13A. Dispositions by close companies to employee-ownership trusts[^c-3714d44118f50722f05ac527d4e1941b]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,10 +37,10 @@ with references in those sections to “C” being read accordingly.
 (3) In this section—
 
 - “**close company**” has the same meaning as in Part 4 of this Act;
-- [^key-bf3b888f3b776ba3013ca967e3e1ee4e]...
+- [^c-bf3b888f3b776ba3013ca967e3e1ee4e]...
 
 ## Annotations
 
-[^key-3714d44118f50722f05ac527d4e1941b]: Textual amendment: S. 13A inserted (with effect in accordance with Sch. 37 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/10/1)
+[^c-3714d44118f50722f05ac527d4e1941b]: Textual amendment: S. 13A inserted (with effect in accordance with Sch. 37 para. 10(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 10(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/10/1)
 
-[^key-bf3b888f3b776ba3013ca967e3e1ee4e]: Textual amendment: Words in [s. 13A(3)](https://www.legislation.gov.uk/ukpga/1984/51/section/13A/3) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/5), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-bf3b888f3b776ba3013ca967e3e1ee4e]: Textual amendment: Words in [s. 13A(3)](https://www.legislation.gov.uk/ukpga/1984/51/section/13A/3) omitted (6.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/5), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)

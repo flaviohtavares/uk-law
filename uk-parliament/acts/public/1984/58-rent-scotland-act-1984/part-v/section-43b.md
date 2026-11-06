@@ -41,10 +41,10 @@ summary: ''
 (4) Where a change of responsibility takes place—
 
 - (a) any decision taken, and anything else done or omitted to be done in the performance of the functions mentioned in section 43A(2) above by or in relation to the person previously responsible for the performance of those functions shall have effect as if taken or, as the case may be, done or omitted to be done by or in relation to the person currently so responsible; and
-- (b) any court or tribunal[^key-272143ce6799568085443e9ecde11c10] proceedings by or against the person previously so responsible and relating to the performance by him of those functions shall continue by or against the person currently so responsible.
+- (b) any court or tribunal[^c-272143ce6799568085443e9ecde11c10] proceedings by or against the person previously so responsible and relating to the performance by him of those functions shall continue by or against the person currently so responsible.
 
 ## Annotations
 
 [^c16939911]: Textual amendment: S. 43B inserted (3.1.1995) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [ss. 76](https://www.legislation.gov.uk/ukpga/1994/40/section/76), [82(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/82/2), [Sch. 16 para. 7](https://www.legislation.gov.uk/ukpga/1994/40/schedule/16/paragraph/7)
 
-[^key-272143ce6799568085443e9ecde11c10]: Textual amendment: Words in [s. 43B(4)(b)](https://www.legislation.gov.uk/ukpga/1984/58/section/43B/4/b) inserted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 16](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/16); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-272143ce6799568085443e9ecde11c10]: Textual amendment: Words in [s. 43B(4)(b)](https://www.legislation.gov.uk/ukpga/1984/58/section/43B/4/b) inserted (1.12.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [sch. 1 para. 16](https://www.legislation.gov.uk/asp/2014/14/schedule/1/paragraph/16); [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

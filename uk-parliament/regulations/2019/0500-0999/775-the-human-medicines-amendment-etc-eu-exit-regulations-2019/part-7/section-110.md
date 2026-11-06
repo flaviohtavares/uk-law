@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Amendment of regulation 125 (traditional herbal medicinal products)[^key-d34cab9d5f5229aa797688b01f098910]
+## 110. Amendment of regulation 125 (traditional herbal medicinal products)[^c-d34cab9d5f5229aa797688b01f098910]
 
 *Extent: E+W+S+N.I.*
 
-In regulation 125(5) for sub-paragraph (b) substitute—[^key-8a4711da6f90510d6a18197dbb97da8e]
+In regulation 125(5) for sub-paragraph (b) substitute—[^c-8a4711da6f90510d6a18197dbb97da8e]
 
 - (b) in relation to—
   - (i) a THR(NI) or THR(UK), the product has been in medicinal use in the European Union for a continuous period of at least 15 years;
@@ -28,6 +28,6 @@ In regulation 125(5) for sub-paragraph (b) substitute—[^key-8a4711da6f90510d6a
 
 ## Annotations
 
-[^key-d34cab9d5f5229aa797688b01f098910]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d34cab9d5f5229aa797688b01f098910]: Commencement: Reg. 110 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-8a4711da6f90510d6a18197dbb97da8e]: Textual amendment: Words in reg. 110 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/82)
+[^c-8a4711da6f90510d6a18197dbb97da8e]: Textual amendment: Words in reg. 110 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/82)

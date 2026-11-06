@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Disclosure of information to Compensation Board[^key-44ae811f89c8d65ab9f1bec63f91ea30]
+## 156. Disclosure of information to Compensation Board[^c-44ae811f89c8d65ab9f1bec63f91ea30]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In Article 112(7) of the Pensions (Northern Ireland) Order 1995 (bodies which ma
 
 ## Annotations
 
-[^key-44ae811f89c8d65ab9f1bec63f91ea30]: Commencement: Art. 156 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-44ae811f89c8d65ab9f1bec63f91ea30]: Commencement: Art. 156 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

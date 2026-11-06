@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Additional matters[^key-1d0bdc27b4f6b221427e99b7ce20fb8f]
+## 59. Additional matters[^c-1d0bdc27b4f6b221427e99b7ce20fb8f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d0bdc27b4f6b221427e99b7ce20fb8f]: Commencement: S. 59 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-1d0bdc27b4f6b221427e99b7ce20fb8f]: Commencement: S. 59 in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

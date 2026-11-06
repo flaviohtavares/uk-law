@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Requirements where abbreviated accounts delivered[^key-73e361e36169e0a64576bca8a1febe01]
+## 20. Requirements where abbreviated accounts delivered[^c-73e361e36169e0a64576bca8a1febe01]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73e361e36169e0a64576bca8a1febe01]: Textual amendment: Reg. 20 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [16(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/16/1)
+[^c-73e361e36169e0a64576bca8a1febe01]: Textual amendment: Reg. 20 omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [16(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/16/1)

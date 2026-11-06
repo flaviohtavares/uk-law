@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Member States to remain category 1 territories[^key-3442ba76b80f36b00a0a94661b48c158]
+## 11. Member States to remain category 1 territories[^c-3442ba76b80f36b00a0a94661b48c158]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3442ba76b80f36b00a0a94661b48c158]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2020/29/section/11) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/j)
+[^c-3442ba76b80f36b00a0a94661b48c158]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2020/29/section/11) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/j)

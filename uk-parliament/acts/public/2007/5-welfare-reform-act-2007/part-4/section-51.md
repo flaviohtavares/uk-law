@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Widowed parent's allowance[^key-ce0dc7b3d7d238c62064dbb23e37de54]
+## 51. Widowed parent's allowance[^c-ce0dc7b3d7d238c62064dbb23e37de54]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 39A(3) of the Contributions and Benefits Act (which links entitlement
 
 ## Annotations
 
-[^key-ce0dc7b3d7d238c62064dbb23e37de54]: Commencement: S. 51 in force at 7.10.2008 by [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/b) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/3))
+[^c-ce0dc7b3d7d238c62064dbb23e37de54]: Commencement: S. 51 in force at 7.10.2008 by [S.I. 2008/2101](https://www.legislation.gov.uk/uksi/2008/2101), [art. 2(3)(b)](https://www.legislation.gov.uk/uksi/2008/2101/article/2/3/b) (with [art. 3(3)](https://www.legislation.gov.uk/uksi/2008/2101/article/3/3))

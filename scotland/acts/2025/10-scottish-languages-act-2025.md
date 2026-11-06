@@ -40,7 +40,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Status of the Gaelic language
 
-##### 1. Status of the Gaelic language[^key-50398e713644c2750f3c41d35f95d041][^key-c7b7dcc31e5f9e822da336fc85c997d1]
+##### 1. Status of the Gaelic language[^c-50398e713644c2750f3c41d35f95d041][^c-c7b7dcc31e5f9e822da336fc85c997d1]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -68,7 +68,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Bòrd na Gàidhlig
 
-##### 2. Functions of Bòrd na Gàidhlig[^key-2f7e1d5464e522dcdee3e877e38cdc01][^key-204c3ae9124deed5da94a7092a152678]
+##### 2. Functions of Bòrd na Gàidhlig[^c-2f7e1d5464e522dcdee3e877e38cdc01][^c-204c3ae9124deed5da94a7092a152678]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -102,7 +102,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In schedule 1 paragraph 11(2) (general powers), for “8(9)” substitute “1(3A)”.
 
-##### 3. Bòrd na Gàidhlig corporate plan[^key-8dba1931b14bd376eac08dbac96e409c]
+##### 3. Bòrd na Gàidhlig corporate plan[^c-8dba1931b14bd376eac08dbac96e409c]
 
 **Not yet in force.**
 
@@ -149,7 +149,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Areas of linguistic significance
 
-##### 4. Areas of linguistic significance[^key-813fe00a01c4a0fdbff2db7d676b569c][^key-7e43711b646f00267d6f9f54dc9a9d36][^key-8d6634799d90043a515c7bcdc3338ba9]
+##### 4. Areas of linguistic significance[^c-813fe00a01c4a0fdbff2db7d676b569c][^c-7e43711b646f00267d6f9f54dc9a9d36][^c-8d6634799d90043a515c7bcdc3338ba9]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -294,7 +294,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-##### 5. National Gaelic language strategy[^key-4f1e192f19ea400677fd469953bcd9af]
+##### 5. National Gaelic language strategy[^c-4f1e192f19ea400677fd469953bcd9af]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -359,7 +359,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Section 2 is repealed.
 
-##### 6. Gaelic language standards[^key-28502ecb90fb64942d075382307a9941]
+##### 6. Gaelic language standards[^c-28502ecb90fb64942d075382307a9941]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -410,7 +410,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Functions of relevant public authorities
 
-##### 7. Functions of relevant public authorities[^key-ca8efe13fdfecefb96e79d8b23dd3c51][^key-b722241f84850e4dddb34593135c25a5]
+##### 7. Functions of relevant public authorities[^c-ca8efe13fdfecefb96e79d8b23dd3c51][^c-b722241f84850e4dddb34593135c25a5]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -461,7 +461,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-##### 8. Reporting on national Gaelic language strategy, standards and duties[^key-7a546a32bd654b6c6a30b4a5c95da640]
+##### 8. Reporting on national Gaelic language strategy, standards and duties[^c-7a546a32bd654b6c6a30b4a5c95da640]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -496,13 +496,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Gaelic language plans
 
-##### 9. Gaelic language plans[^key-976404d4685d5c7a56c0a60d4fe87443]
+##### 9. Gaelic language plans[^c-976404d4685d5c7a56c0a60d4fe87443]
 
-(1)[^key-b9009deeedf8a8f8214fcecfd7f49050] The Gaelic Language (Scotland) Act 2005 is modified as follows.
+(1)[^c-b9009deeedf8a8f8214fcecfd7f49050] The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
 (2) In section 3 (Gaelic language plans)—
 
-- (a)[^key-eeb2deb35685286a77c4b43a2b5d66c6] in subsection (3)—
+- (a)[^c-eeb2deb35685286a77c4b43a2b5d66c6] in subsection (3)—
   - (i) for paragraph (a) substitute—
 
     > - (a) any national Gaelic language plan published under section 2 which is for the time being in effect,
@@ -513,7 +513,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
     > - (aa) the most recent national Gaelic language strategy published under section 2A,
 
     ,
-- (b)[^key-eeb2deb35685286a77c4b43a2b5d66c6] in subsection (5)—
+- (b)[^c-eeb2deb35685286a77c4b43a2b5d66c6] in subsection (5)—
   - (i) for paragraph (a) substitute—
 
     > - (a) any national Gaelic language plan published under section 2 which is for the time being in effect,
@@ -526,7 +526,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
     ,
   - (iii) in paragraph (e), the words “or the Bòrd” are repealed,
-- (c)[^key-b9009deeedf8a8f8214fcecfd7f49050] in subsection (6), for “consult persons appearing to it to have an interest” substitute “consult—
+- (c)[^c-b9009deeedf8a8f8214fcecfd7f49050] in subsection (6), for “consult persons appearing to it to have an interest” substitute “consult—
 
   > - (a) people with Gaelic language skills in relation to whom the authority exercises functions,
   > - (b) persons with an interest in the promotion of the Gaelic language, and
@@ -600,7 +600,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   ,
 - (g) in subsection (6), for “(5)(b)” substitute “(5)”.
 
-(6)[^key-b9009deeedf8a8f8214fcecfd7f49050] After section 7 insert—
+(6)[^c-b9009deeedf8a8f8214fcecfd7f49050] After section 7 insert—
 
 > **7A. Guidance and directions by Scottish Ministers**
 >
@@ -614,7 +614,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Financial assistance for the promotion etc. of the Gaelic language
 
-##### 10. Financial assistance for the promotion etc. of the Gaelic language[^key-395a1159062820acfc3a25523b23f4e1][^key-f4d295a0f1eda67fe9bd50581096d237]
+##### 10. Financial assistance for the promotion etc. of the Gaelic language[^c-395a1159062820acfc3a25523b23f4e1][^c-f4d295a0f1eda67fe9bd50581096d237]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -634,7 +634,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Scottish Ministers’ powers relating to research etc.
 
-##### 11. Scottish Ministers’ powers relating to research etc.[^key-b542c1e580cdbb668e34297df0ccdd07][^key-b2fab08ee67e0da7054a89d9b3c056b7]
+##### 11. Scottish Ministers’ powers relating to research etc.[^c-b542c1e580cdbb668e34297df0ccdd07][^c-b2fab08ee67e0da7054a89d9b3c056b7]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -655,7 +655,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Enforcement of duties
 
-##### 12. Power to enforce duties of relevant public authorities[^key-98b5a3279dac46a3b4fd4d930b035f52][^key-df69fc377902912e34bf28f8d98fa32f]
+##### 12. Power to enforce duties of relevant public authorities[^c-98b5a3279dac46a3b4fd4d930b035f52][^c-df69fc377902912e34bf28f8d98fa32f]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -679,7 +679,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Interpretation
 
-##### 13. Interpretation: meaning of relevant public authority[^key-47dba27bbdd72731b256a74dc9c98b97][^key-461678f86fe4cf2c5e44c645ee480910]
+##### 13. Interpretation: meaning of relevant public authority[^c-47dba27bbdd72731b256a74dc9c98b97][^c-461678f86fe4cf2c5e44c645ee480910]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -696,7 +696,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Land rights and responsibilities statement
 
-##### 14. Land rights and responsibilities statement: regard to be had to supporting Gaelic[^key-78812787d8cd9aa474fb82ff49c571da][^key-d78641e97f1f8a422e6b02badcf0c5f7]
+##### 14. Land rights and responsibilities statement: regard to be had to supporting Gaelic[^c-78812787d8cd9aa474fb82ff49c571da][^c-d78641e97f1f8a422e6b02badcf0c5f7]
 
 (1) The Land Reform (Scotland) Act 2016 is modified as follows.
 
@@ -710,7 +710,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Functions of Scottish Ministers
 
-##### 15. Duty of Scottish Ministers to promote Gaelic education[^key-e1b5ec074441a2151b448ae68ca29d39][^key-dc55c640e7ecd4626b5dd7ba0d144cad]
+##### 15. Duty of Scottish Ministers to promote Gaelic education[^c-e1b5ec074441a2151b448ae68ca29d39][^c-dc55c640e7ecd4626b5dd7ba0d144cad]
 
 (1) The Education (Scotland) Act 2016 is modified as follows.
 
@@ -735,7 +735,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) In section 18(2) (interpretation of Part 2), in the definition of “Gaelic language”, for “spoken” substitute “used”.
 
-##### 16. Power for Scottish Ministers to set standards relating to Gaelic education[^key-400b07b33c3403717ddf3acabbcfc1ec][^key-ff3291ae6e7fa783a2c8aaaaa78dc0fd]
+##### 16. Power for Scottish Ministers to set standards relating to Gaelic education[^c-400b07b33c3403717ddf3acabbcfc1ec][^c-ff3291ae6e7fa783a2c8aaaaa78dc0fd]
 
 (1) The Education (Scotland) Act 2016 is modified in accordance with subsections (2) and (3).
 
@@ -783,7 +783,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 17. Guidance to public authorities relating to Gaelic education[^key-10e543357242a3a14680df5a4ef8baff][^key-c01151779fd4e6098bdf94d91ac679a9]
+##### 17. Guidance to public authorities relating to Gaelic education[^c-10e543357242a3a14680df5a4ef8baff][^c-c01151779fd4e6098bdf94d91ac679a9]
 
 (1) The Education (Scotland) Act 2016 is modified in accordance with subsections (2) to (6).
 
@@ -822,7 +822,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (8) Section 9 and the italic heading immediately preceding it are repealed.
 
-##### 18. Production of school education resources in Gaelic[^key-94938cfc9e6347cebc94d9c2ebe1d247][^key-f4581ca83315c4ab1a1a6cbe7e286802]
+##### 18. Production of school education resources in Gaelic[^c-94938cfc9e6347cebc94d9c2ebe1d247][^c-f4581ca83315c4ab1a1a6cbe7e286802]
 
 (1) The Education (Scotland) Act 2016 is modified as follows.
 
@@ -849,7 +849,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### General duties of education authorities relating to Gaelic education
 
-##### 19. General duty to provide education includes Gaelic education[^key-70ae53de2867c8de1db67733c331cee3][^key-2c9b1ac9a8ed6d4308d63f6b59d77e0b]
+##### 19. General duty to provide education includes Gaelic education[^c-70ae53de2867c8de1db67733c331cee3][^c-2c9b1ac9a8ed6d4308d63f6b59d77e0b]
 
 (1) The Education (Scotland) Act 1980 is modified as follows.
 
@@ -877,7 +877,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 20. Duty to promote Gaelic education in exercising functions under the Education (Scotland) Act 1980[^key-205f8b4f74148dfe7a20527436e141f4][^key-949450146a673c4e3e5673f982cb040c]
+##### 20. Duty to promote Gaelic education in exercising functions under the Education (Scotland) Act 1980[^c-205f8b4f74148dfe7a20527436e141f4][^c-949450146a673c4e3e5673f982cb040c]
 
 (1) The Education (Scotland) Act 2016 is modified as follows.
 
@@ -897,7 +897,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 21. Information-sharing about Gaelic education[^key-3809feffe1faae4b2a88470d71bd4971]
+##### 21. Information-sharing about Gaelic education[^c-3809feffe1faae4b2a88470d71bd4971]
 
 **Not yet in force.**
 
@@ -924,7 +924,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-##### 22. Gaelic education delivery planning[^key-6eb2e55e3b32c26998f292eff58119e1]
+##### 22. Gaelic education delivery planning[^c-6eb2e55e3b32c26998f292eff58119e1]
 
 (1) The Gaelic Language (Scotland) Act 2005 is modified as follows.
 
@@ -978,7 +978,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Gaelic education qualifications
 
-##### 23. Production of material relating to Gaelic education qualifications[^key-dbca424acadaa0f565e806619f85dfdf][^key-5919ec4135f193e87deac0083d70df09]
+##### 23. Production of material relating to Gaelic education qualifications[^c-dbca424acadaa0f565e806619f85dfdf][^c-5919ec4135f193e87deac0083d70df09]
 
 (1) The Education (Scotland) Act 2016 is modified as follows.
 
@@ -1010,7 +1010,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Access to Gaelic education
 
-##### 24. Duty to support access to Gaelic medium education[^key-ca978decc8dd6afa3de79021811cbeb5]
+##### 24. Duty to support access to Gaelic medium education[^c-ca978decc8dd6afa3de79021811cbeb5]
 
 **Not yet in force.**
 
@@ -1027,7 +1027,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 25. Duty to establish a catchment area for schools providing Gaelic medium education[^key-8113b8ea2c8c1937c0d723049403d03f]
+##### 25. Duty to establish a catchment area for schools providing Gaelic medium education[^c-8113b8ea2c8c1937c0d723049403d03f]
 
 **Not yet in force.**
 
@@ -1051,7 +1051,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 26. Transport to Gaelic medium education: application of Schools (Consultation) (Scotland) Act 2010[^key-e4441173ae790174a771b0ddcdb58745][^key-2774bf6129e4db87581881162c2e5e7b]
+##### 26. Transport to Gaelic medium education: application of Schools (Consultation) (Scotland) Act 2010[^c-e4441173ae790174a771b0ddcdb58745][^c-2774bf6129e4db87581881162c2e5e7b]
 
 (1) The Schools (Consultation) (Scotland) Act 2010 is modified as follows.
 
@@ -1092,7 +1092,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Assessments: Gaelic medium primary education
 
-##### 27. Assessments: power to make different provision for different areas[^key-67e978a2462c7d534ed18a4bbafc217c][^key-1d6caef6e3232d288fe08f88b9fe8112]
+##### 27. Assessments: power to make different provision for different areas[^c-67e978a2462c7d534ed18a4bbafc217c][^c-1d6caef6e3232d288fe08f88b9fe8112]
 
 (1) The Education (Scotland) Act 2016 is modified as follows.
 
@@ -1105,7 +1105,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-##### 28. Assessments of requests for Gaelic medium education[^key-6436c194ac2dfb3b63bf17680f03c663]
+##### 28. Assessments of requests for Gaelic medium education[^c-6436c194ac2dfb3b63bf17680f03c663]
 
 **Not yet in force.**
 
@@ -1295,7 +1295,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-##### 29. All-Gaelic schools: viability of establishment[^key-5e744d914c80fcab690f889e543e68b5]
+##### 29. All-Gaelic schools: viability of establishment[^c-5e744d914c80fcab690f889e543e68b5]
 
 (1) The Education (Scotland) Act 2016 is modified as follows.
 
@@ -1434,7 +1434,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-##### 30. Duty to consult and plan on delivery of early learning and childcare[^key-b9e9ccc6685cb7e44d0268bcd9d7a80c]
+##### 30. Duty to consult and plan on delivery of early learning and childcare[^c-b9e9ccc6685cb7e44d0268bcd9d7a80c]
 
 (1) The Children and Young People (Scotland) Act 2014 is modified as follows.
 
@@ -1452,7 +1452,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Further and higher education
 
-##### 31. Conditions of grants to the Scottish Further and Higher Education Funding Council[^key-5bb4f775f3f7d19e73ff89489578b9cf][^key-eb3bd731c0911e1c79e01de7945cf1f5]
+##### 31. Conditions of grants to the Scottish Further and Higher Education Funding Council[^c-5bb4f775f3f7d19e73ff89489578b9cf][^c-eb3bd731c0911e1c79e01de7945cf1f5]
 
 (1) The Further and Higher Education (Scotland) Act 2005 is modified as follows.
 
@@ -1475,30 +1475,30 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-##### 32. Review of status of Sabhal Mòr Ostaig[^key-b1041616af421fba61aee93b80e04bd1]
+##### 32. Review of status of Sabhal Mòr Ostaig[^c-b1041616af421fba61aee93b80e04bd1]
 
-(1)[^key-68fad7ed51e45bf57a4bcbbfeaa81afc] The Scottish Ministers must take such action as they consider appropriate to support the development of Sabhal Mòr Ostaig as the national centre for Gaelic language, education and culture in Scotland.
+(1)[^c-68fad7ed51e45bf57a4bcbbfeaa81afc] The Scottish Ministers must take such action as they consider appropriate to support the development of Sabhal Mòr Ostaig as the national centre for Gaelic language, education and culture in Scotland.
 
-(2)[^key-e9708699ee518d803b4dd36934696b39] In exercising their duty under subsection (1), the Scottish Ministers must conduct a review of the status of Sabhal Mòr Ostaig.
+(2)[^c-e9708699ee518d803b4dd36934696b39] In exercising their duty under subsection (1), the Scottish Ministers must conduct a review of the status of Sabhal Mòr Ostaig.
 
-(3)[^key-e9708699ee518d803b4dd36934696b39] The review must in particular consider—
+(3)[^c-e9708699ee518d803b4dd36934696b39] The review must in particular consider—
 
 - (a) the funding of Sabhal Mòr Ostaig,
 - (b) whether Sabhal Mòr Ostaig should be designated under section 44(1) of the Further and Higher Education (Scotland) Act 1992, and
 - (c) any other action that may be taken to support the development of Sabhal Mòr Ostaig.
 
-(4)[^key-e9708699ee518d803b4dd36934696b39] The review must be completed within the period of 1 year beginning with the day on which this subsection comes into force.
+(4)[^c-e9708699ee518d803b4dd36934696b39] The review must be completed within the period of 1 year beginning with the day on which this subsection comes into force.
 
-(5)[^key-68fad7ed51e45bf57a4bcbbfeaa81afc] For the avoidance of doubt, the Scottish Ministers may, before the completion of the review, take any action they consider appropriate to support the development of Sabhal Mòr Ostaig.
+(5)[^c-68fad7ed51e45bf57a4bcbbfeaa81afc] For the avoidance of doubt, the Scottish Ministers may, before the completion of the review, take any action they consider appropriate to support the development of Sabhal Mòr Ostaig.
 
-(6)[^key-e9708699ee518d803b4dd36934696b39] On completing the review, the Scottish Ministers must—
+(6)[^c-e9708699ee518d803b4dd36934696b39] On completing the review, the Scottish Ministers must—
 
 - (a) publish a report on the review in such manner as they consider appropriate, and
 - (b) lay a copy of the report before the Scottish Parliament.
 
-(7)[^key-e9708699ee518d803b4dd36934696b39] Following the publication of the report on the review, the duty imposed by subsection (1) is discharged by the Scottish Ministers taking the actions to support the development of Sabhal Mòr Ostaig which are set out in the report.
+(7)[^c-e9708699ee518d803b4dd36934696b39] Following the publication of the report on the review, the duty imposed by subsection (1) is discharged by the Scottish Ministers taking the actions to support the development of Sabhal Mòr Ostaig which are set out in the report.
 
-(8)[^key-68fad7ed51e45bf57a4bcbbfeaa81afc] In this section, “**Sabhal Mòr Ostaig**” means the body with that name and with the company number SC361752.
+(8)[^c-68fad7ed51e45bf57a4bcbbfeaa81afc] In this section, “**Sabhal Mòr Ostaig**” means the body with that name and with the company number SC361752.
 
 ## Part 2 — Scots
 
@@ -1506,7 +1506,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Status of the Scots language
 
-##### 33. Status of the Scots language[^key-660415faeff0f8353abf688be4e73b1b][^key-9e73ec851e3f12745eedd797206d0443]
+##### 33. Status of the Scots language[^c-660415faeff0f8353abf688be4e73b1b][^c-9e73ec851e3f12745eedd797206d0443]
 
 (1) The Scots language has official status within Scotland.
 
@@ -1523,7 +1523,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 **Not yet in force.**
 
-##### 34. Scots language strategy[^key-b6c9feaaf6ec7c5a6d1add61a0ccf6c0]
+##### 34. Scots language strategy[^c-b6c9feaaf6ec7c5a6d1add61a0ccf6c0]
 
 (1) The Scottish Ministers must prepare a Scots language strategy.
 
@@ -1558,7 +1558,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (9) Subsections (2) to (6) and (8) apply in relation to any revised Scots language strategy as they apply in relation to the first Scots language strategy.
 
-##### 35. Reporting on Scots language strategy[^key-1a7d829879cd800b97383041cd7f64be]
+##### 35. Reporting on Scots language strategy[^c-1a7d829879cd800b97383041cd7f64be]
 
 (1) The Scottish Ministers must, as soon as reasonably practicable after the end of each reporting period, prepare a report setting out—
 
@@ -1572,7 +1572,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In this section “**reporting period**” means the period of 5 years beginning with the day on which the Scots language strategy was last published.
 
-##### 36. Effect of Scots language strategy[^key-9c7c94c19ee601d95936b9a936457630]
+##### 36. Effect of Scots language strategy[^c-9c7c94c19ee601d95936b9a936457630]
 
 (1) The Scottish Ministers must have regard to the Scots language strategy in—
 
@@ -1592,7 +1592,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Power for Scottish Ministers to give guidance
 
-##### 37. Power for Scottish Ministers to give guidance[^key-f8abab966df0a55fc0215d01e7bdb101][^key-1d541f7baaa3bf4c61356f804f5ded60]
+##### 37. Power for Scottish Ministers to give guidance[^c-f8abab966df0a55fc0215d01e7bdb101][^c-1d541f7baaa3bf4c61356f804f5ded60]
 
 (1) The Scottish Ministers may give guidance to relevant public authorities relating to—
 
@@ -1615,7 +1615,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Financial assistance for the promotion etc. of the Scots language
 
-##### 38. Financial assistance for the promotion etc. of the Scots language[^key-3829ffc1bdb9949a59d20cbf1208ba72][^key-a74d3f6e67ec48b23646c6aeacb0f0bb]
+##### 38. Financial assistance for the promotion etc. of the Scots language[^c-3829ffc1bdb9949a59d20cbf1208ba72][^c-a74d3f6e67ec48b23646c6aeacb0f0bb]
 
 (1) The Scottish Ministers may give financial assistance to any person for the purposes of promoting, facilitating and supporting the use of the Scots language.
 
@@ -1625,7 +1625,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### Scottish Ministers’ powers relating to research etc.
 
-##### 39. Scottish Ministers’ powers relating to research etc.[^key-7d170b2ebf1eae0b94dfa3b12568523e][^key-8a6a1e20acbbb9b04abbe5aaa1c53edc]
+##### 39. Scottish Ministers’ powers relating to research etc.[^c-7d170b2ebf1eae0b94dfa3b12568523e][^c-8a6a1e20acbbb9b04abbe5aaa1c53edc]
 
 The Scottish Ministers may, for the purposes of or in connection with the exercise of their functions under this Chapter—
 
@@ -1636,7 +1636,7 @@ The Scottish Ministers may, for the purposes of or in connection with the exerci
 
 ### Chapter 2 — School education
 
-#### 40. Scots language education in schools[^key-943972a9632b55ad3306614698c5d6c0]
+#### 40. Scots language education in schools[^c-943972a9632b55ad3306614698c5d6c0]
 
 **Not yet in force.**
 
@@ -1650,7 +1650,7 @@ The Scottish Ministers may, for the purposes of or in connection with the exerci
 
 (5) In this Chapter “**Scots language education**” means education consisting of teaching and learning in the use and understanding of the Scots language.
 
-#### 41. Guidance to education authorities relating to Scots language education[^key-86f3e32e0dee4f40002ab03d55507d98][^key-7aa211702f0030894c3a4337a2d24c93]
+#### 41. Guidance to education authorities relating to Scots language education[^c-86f3e32e0dee4f40002ab03d55507d98][^c-7aa211702f0030894c3a4337a2d24c93]
 
 (1) The Scottish Ministers may give guidance to education authorities relating to Scots language education in schools.
 
@@ -1664,7 +1664,7 @@ The Scottish Ministers may, for the purposes of or in connection with the exerci
 
 (4) The Scottish Ministers must publish any guidance given under subsection (1).
 
-#### 42. Standards relating to Scots language education[^key-db4116736a57223ba8678c7ad7a73f84]
+#### 42. Standards relating to Scots language education[^c-db4116736a57223ba8678c7ad7a73f84]
 
 **Not yet in force.**
 
@@ -1681,7 +1681,7 @@ The Scottish Ministers may, for the purposes of or in connection with the exerci
 - (c) persons with an interest in the publication of books and other resources in the Scots language, and
 - (d) such other persons as they consider appropriate.
 
-#### 43. Production of school education resources in Scots[^key-43c5f4d1bc7f4eb6a6bd00290daa4ab8]
+#### 43. Production of school education resources in Scots[^c-43c5f4d1bc7f4eb6a6bd00290daa4ab8]
 
 **Not yet in force.**
 
@@ -1694,7 +1694,7 @@ The Scottish Ministers may, for the purposes of or in connection with the exerci
 - (a) that material being produced, commissioned, procured or funded for or by the Scottish Ministers,
 - (b) that material being updated.
 
-#### 44. Review of adequacy of school education resources in Scots[^key-111f5246d9421aa85add66bd8da596a3]
+#### 44. Review of adequacy of school education resources in Scots[^c-111f5246d9421aa85add66bd8da596a3]
 
 **Not yet in force.**
 
@@ -1702,13 +1702,13 @@ The Scottish Ministers may, for the purposes of or in connection with the exerci
 
 (2) The Scottish Ministers must from time to time prepare and publish a report setting out the steps they consider necessary to address any issues identified by the review.
 
-#### 45. Reporting on Scots language education[^key-7596e146561d001b7c2f2205b02b0d92]
+#### 45. Reporting on Scots language education[^c-7596e146561d001b7c2f2205b02b0d92]
 
 **Not yet in force.**
 
 The Scottish Ministers must secure the provision of reports setting out progress made in the delivery of Scots language education in schools.
 
-#### 46. Interpretation of Chapter 2[^key-4fb54736fbfcb11af1747441bbfc889f][^key-215951804949fa7b7744a77b2be38913]
+#### 46. Interpretation of Chapter 2[^c-4fb54736fbfcb11af1747441bbfc889f][^c-215951804949fa7b7744a77b2be38913]
 
 In this Chapter the following expressions have the meanings given by section 135(1) of the Education (Scotland) Act 1980—
 
@@ -1719,7 +1719,7 @@ In this Chapter the following expressions have the meanings given by section 135
 
 ## Part 3 — Final provisions
 
-### 47. Ancillary provision[^key-eaf52968b072c98791af6fabfec78c0d]
+### 47. Ancillary provision[^c-eaf52968b072c98791af6fabfec78c0d]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act or any provision made under it.
 
@@ -1738,7 +1738,7 @@ In this Chapter the following expressions have the meanings given by section 135
 - “**area,**” in relation to an education authority,
 - “**education authority**”.
 
-### 48. Commencement[^key-408741129990de7bfaf5a02c1a376bb9]
+### 48. Commencement[^c-408741129990de7bfaf5a02c1a376bb9]
 
 (1) This Part comes into force on the day after Royal Assent.
 
@@ -1749,166 +1749,166 @@ In this Chapter the following expressions have the meanings given by section 135
 - (a) include transitional, transitory or saving provision,
 - (b) make different provision for different purposes and different areas (including different parts of the area of an education authority).
 
-### 49. Short title[^key-b1a99cea3a7059c1062f71916be5a1e2]
+### 49. Short title[^c-b1a99cea3a7059c1062f71916be5a1e2]
 
 The short title of this Act is the Scottish Languages Act 2025.
 
 ## Annotations
 
-[^key-50398e713644c2750f3c41d35f95d041]: Commencement: S. 1 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-50398e713644c2750f3c41d35f95d041]: Commencement: S. 1 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-c7b7dcc31e5f9e822da336fc85c997d1]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/10/section/1) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-c7b7dcc31e5f9e822da336fc85c997d1]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2025/10/section/1) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-2f7e1d5464e522dcdee3e877e38cdc01]: Commencement: S. 2 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-2f7e1d5464e522dcdee3e877e38cdc01]: Commencement: S. 2 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-204c3ae9124deed5da94a7092a152678]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/10/section/2) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-204c3ae9124deed5da94a7092a152678]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/10/section/2) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-8dba1931b14bd376eac08dbac96e409c]: Commencement: S. 3 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-8dba1931b14bd376eac08dbac96e409c]: Commencement: S. 3 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-813fe00a01c4a0fdbff2db7d676b569c]: Commencement: S. 4 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-813fe00a01c4a0fdbff2db7d676b569c]: Commencement: S. 4 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-7e43711b646f00267d6f9f54dc9a9d36]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/10/section/4) in force at 21.3.2026 for specified purposes by [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/1)
+[^c-7e43711b646f00267d6f9f54dc9a9d36]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/10/section/4) in force at 21.3.2026 for specified purposes by [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/1)
 
-[^key-8d6634799d90043a515c7bcdc3338ba9]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/10/section/4) in force at 1.9.2026 for specified purposes by [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/2)
+[^c-8d6634799d90043a515c7bcdc3338ba9]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2025/10/section/4) in force at 1.9.2026 for specified purposes by [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/128/regulation/2/2)
 
-[^key-4f1e192f19ea400677fd469953bcd9af]: Commencement: S. 5 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-4f1e192f19ea400677fd469953bcd9af]: Commencement: S. 5 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-28502ecb90fb64942d075382307a9941]: Commencement: S. 6 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-28502ecb90fb64942d075382307a9941]: Commencement: S. 6 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-ca8efe13fdfecefb96e79d8b23dd3c51]: Commencement: S. 7 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-ca8efe13fdfecefb96e79d8b23dd3c51]: Commencement: S. 7 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-b722241f84850e4dddb34593135c25a5]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/10/section/7) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-b722241f84850e4dddb34593135c25a5]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/10/section/7) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-7a546a32bd654b6c6a30b4a5c95da640]: Commencement: S. 8 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-7a546a32bd654b6c6a30b4a5c95da640]: Commencement: S. 8 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-976404d4685d5c7a56c0a60d4fe87443]: Commencement: S. 9 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-976404d4685d5c7a56c0a60d4fe87443]: Commencement: S. 9 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-b9009deeedf8a8f8214fcecfd7f49050]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/asp/2025/10/section/9/1)[(2)(c)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/c)[(6)](https://www.legislation.gov.uk/asp/2025/10/section/9/6) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-b9009deeedf8a8f8214fcecfd7f49050]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/asp/2025/10/section/9/1)[(2)(c)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/c)[(6)](https://www.legislation.gov.uk/asp/2025/10/section/9/6) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-eeb2deb35685286a77c4b43a2b5d66c6]: Commencement: [S. 9(2)(a)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/a)[(b)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/b) in force at 30.11.2025 for specified purposes by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-eeb2deb35685286a77c4b43a2b5d66c6]: Commencement: [S. 9(2)(a)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/a)[(b)](https://www.legislation.gov.uk/asp/2025/10/section/9/2/b) in force at 30.11.2025 for specified purposes by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-395a1159062820acfc3a25523b23f4e1]: Commencement: S. 10 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-395a1159062820acfc3a25523b23f4e1]: Commencement: S. 10 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-f4d295a0f1eda67fe9bd50581096d237]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2025/10/section/10) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-f4d295a0f1eda67fe9bd50581096d237]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2025/10/section/10) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-b542c1e580cdbb668e34297df0ccdd07]: Commencement: S. 11 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-b542c1e580cdbb668e34297df0ccdd07]: Commencement: S. 11 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-b2fab08ee67e0da7054a89d9b3c056b7]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/10/section/11) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-b2fab08ee67e0da7054a89d9b3c056b7]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2025/10/section/11) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-98b5a3279dac46a3b4fd4d930b035f52]: Commencement: S. 12 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-98b5a3279dac46a3b4fd4d930b035f52]: Commencement: S. 12 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-df69fc377902912e34bf28f8d98fa32f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/10/section/12) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-df69fc377902912e34bf28f8d98fa32f]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2025/10/section/12) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-47dba27bbdd72731b256a74dc9c98b97]: Commencement: S. 13 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-47dba27bbdd72731b256a74dc9c98b97]: Commencement: S. 13 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-461678f86fe4cf2c5e44c645ee480910]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/10/section/13) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-461678f86fe4cf2c5e44c645ee480910]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2025/10/section/13) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-78812787d8cd9aa474fb82ff49c571da]: Commencement: S. 14 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-78812787d8cd9aa474fb82ff49c571da]: Commencement: S. 14 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-d78641e97f1f8a422e6b02badcf0c5f7]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2025/10/section/14) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-d78641e97f1f8a422e6b02badcf0c5f7]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2025/10/section/14) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-e1b5ec074441a2151b448ae68ca29d39]: Commencement: S. 15 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-e1b5ec074441a2151b448ae68ca29d39]: Commencement: S. 15 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-dc55c640e7ecd4626b5dd7ba0d144cad]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2025/10/section/15) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-dc55c640e7ecd4626b5dd7ba0d144cad]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2025/10/section/15) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-400b07b33c3403717ddf3acabbcfc1ec]: Commencement: S. 16 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-400b07b33c3403717ddf3acabbcfc1ec]: Commencement: S. 16 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-ff3291ae6e7fa783a2c8aaaaa78dc0fd]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/10/section/16) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-ff3291ae6e7fa783a2c8aaaaa78dc0fd]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/10/section/16) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-10e543357242a3a14680df5a4ef8baff]: Commencement: S. 17 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-10e543357242a3a14680df5a4ef8baff]: Commencement: S. 17 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-c01151779fd4e6098bdf94d91ac679a9]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/10/section/17) in force at 30.11.2025 for specified purposes by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-c01151779fd4e6098bdf94d91ac679a9]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2025/10/section/17) in force at 30.11.2025 for specified purposes by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-94938cfc9e6347cebc94d9c2ebe1d247]: Commencement: S. 18 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-94938cfc9e6347cebc94d9c2ebe1d247]: Commencement: S. 18 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-f4581ca83315c4ab1a1a6cbe7e286802]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/10/section/18) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-f4581ca83315c4ab1a1a6cbe7e286802]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2025/10/section/18) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-70ae53de2867c8de1db67733c331cee3]: Commencement: S. 19 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-70ae53de2867c8de1db67733c331cee3]: Commencement: S. 19 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-2c9b1ac9a8ed6d4308d63f6b59d77e0b]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/10/section/19) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-2c9b1ac9a8ed6d4308d63f6b59d77e0b]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2025/10/section/19) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-205f8b4f74148dfe7a20527436e141f4]: Commencement: S. 20 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-205f8b4f74148dfe7a20527436e141f4]: Commencement: S. 20 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-949450146a673c4e3e5673f982cb040c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/10/section/20) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-949450146a673c4e3e5673f982cb040c]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2025/10/section/20) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-3809feffe1faae4b2a88470d71bd4971]: Commencement: S. 21 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-3809feffe1faae4b2a88470d71bd4971]: Commencement: S. 21 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-6eb2e55e3b32c26998f292eff58119e1]: Commencement: S. 22 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-6eb2e55e3b32c26998f292eff58119e1]: Commencement: S. 22 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-dbca424acadaa0f565e806619f85dfdf]: Commencement: S. 23 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-dbca424acadaa0f565e806619f85dfdf]: Commencement: S. 23 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-5919ec4135f193e87deac0083d70df09]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2025/10/section/23) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-5919ec4135f193e87deac0083d70df09]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2025/10/section/23) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-ca978decc8dd6afa3de79021811cbeb5]: Commencement: S. 24 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-ca978decc8dd6afa3de79021811cbeb5]: Commencement: S. 24 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-8113b8ea2c8c1937c0d723049403d03f]: Commencement: S. 25 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-8113b8ea2c8c1937c0d723049403d03f]: Commencement: S. 25 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-e4441173ae790174a771b0ddcdb58745]: Commencement: S. 26 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-e4441173ae790174a771b0ddcdb58745]: Commencement: S. 26 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-2774bf6129e4db87581881162c2e5e7b]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2025/10/section/26) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-2774bf6129e4db87581881162c2e5e7b]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2025/10/section/26) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-67e978a2462c7d534ed18a4bbafc217c]: Commencement: S. 27 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-67e978a2462c7d534ed18a4bbafc217c]: Commencement: S. 27 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-1d6caef6e3232d288fe08f88b9fe8112]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2025/10/section/27) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-1d6caef6e3232d288fe08f88b9fe8112]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2025/10/section/27) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-6436c194ac2dfb3b63bf17680f03c663]: Commencement: S. 28 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-6436c194ac2dfb3b63bf17680f03c663]: Commencement: S. 28 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-5e744d914c80fcab690f889e543e68b5]: Commencement: S. 29 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-5e744d914c80fcab690f889e543e68b5]: Commencement: S. 29 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-b9e9ccc6685cb7e44d0268bcd9d7a80c]: Commencement: S. 30 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-b9e9ccc6685cb7e44d0268bcd9d7a80c]: Commencement: S. 30 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-5bb4f775f3f7d19e73ff89489578b9cf]: Commencement: S. 31 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-5bb4f775f3f7d19e73ff89489578b9cf]: Commencement: S. 31 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-eb3bd731c0911e1c79e01de7945cf1f5]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2025/10/section/31) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-eb3bd731c0911e1c79e01de7945cf1f5]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2025/10/section/31) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-b1041616af421fba61aee93b80e04bd1]: Commencement: S. 32 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-b1041616af421fba61aee93b80e04bd1]: Commencement: S. 32 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-68fad7ed51e45bf57a4bcbbfeaa81afc]: Commencement: S. 32(1)(5)(8) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-68fad7ed51e45bf57a4bcbbfeaa81afc]: Commencement: S. 32(1)(5)(8) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-e9708699ee518d803b4dd36934696b39]: Commencement: S. 32(2)-(4)(6)(7) in force at 15.9.2026 by [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 3](https://www.legislation.gov.uk/ssi/2026/128/regulation/3)
+[^c-e9708699ee518d803b4dd36934696b39]: Commencement: S. 32(2)-(4)(6)(7) in force at 15.9.2026 by [S.S.I. 2026/128](https://www.legislation.gov.uk/ssi/2026/128), [reg. 3](https://www.legislation.gov.uk/ssi/2026/128/regulation/3)
 
-[^key-660415faeff0f8353abf688be4e73b1b]: Commencement: S. 33 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-660415faeff0f8353abf688be4e73b1b]: Commencement: S. 33 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-9e73ec851e3f12745eedd797206d0443]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/10/section/33) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-9e73ec851e3f12745eedd797206d0443]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2025/10/section/33) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-b6c9feaaf6ec7c5a6d1add61a0ccf6c0]: Commencement: S. 34 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-b6c9feaaf6ec7c5a6d1add61a0ccf6c0]: Commencement: S. 34 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-1a7d829879cd800b97383041cd7f64be]: Commencement: S. 35 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-1a7d829879cd800b97383041cd7f64be]: Commencement: S. 35 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-9c7c94c19ee601d95936b9a936457630]: Commencement: S. 36 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-9c7c94c19ee601d95936b9a936457630]: Commencement: S. 36 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-f8abab966df0a55fc0215d01e7bdb101]: Commencement: S. 37 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-f8abab966df0a55fc0215d01e7bdb101]: Commencement: S. 37 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-1d541f7baaa3bf4c61356f804f5ded60]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2025/10/section/37) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-1d541f7baaa3bf4c61356f804f5ded60]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2025/10/section/37) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-3829ffc1bdb9949a59d20cbf1208ba72]: Commencement: S. 38 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-3829ffc1bdb9949a59d20cbf1208ba72]: Commencement: S. 38 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-a74d3f6e67ec48b23646c6aeacb0f0bb]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/10/section/38) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-a74d3f6e67ec48b23646c6aeacb0f0bb]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2025/10/section/38) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-7d170b2ebf1eae0b94dfa3b12568523e]: Commencement: S. 39 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-7d170b2ebf1eae0b94dfa3b12568523e]: Commencement: S. 39 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-8a6a1e20acbbb9b04abbe5aaa1c53edc]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/10/section/39) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-8a6a1e20acbbb9b04abbe5aaa1c53edc]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2025/10/section/39) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-943972a9632b55ad3306614698c5d6c0]: Commencement: S. 40 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-943972a9632b55ad3306614698c5d6c0]: Commencement: S. 40 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-86f3e32e0dee4f40002ab03d55507d98]: Commencement: S. 41 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-86f3e32e0dee4f40002ab03d55507d98]: Commencement: S. 41 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-7aa211702f0030894c3a4337a2d24c93]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2025/10/section/41) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-7aa211702f0030894c3a4337a2d24c93]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2025/10/section/41) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-db4116736a57223ba8678c7ad7a73f84]: Commencement: S. 42 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-db4116736a57223ba8678c7ad7a73f84]: Commencement: S. 42 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-43c5f4d1bc7f4eb6a6bd00290daa4ab8]: Commencement: S. 43 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-43c5f4d1bc7f4eb6a6bd00290daa4ab8]: Commencement: S. 43 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-111f5246d9421aa85add66bd8da596a3]: Commencement: S. 44 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-111f5246d9421aa85add66bd8da596a3]: Commencement: S. 44 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-7596e146561d001b7c2f2205b02b0d92]: Commencement: S. 45 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-7596e146561d001b7c2f2205b02b0d92]: Commencement: S. 45 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-4fb54736fbfcb11af1747441bbfc889f]: Commencement: S. 46 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
+[^c-4fb54736fbfcb11af1747441bbfc889f]: Commencement: S. 46 not in force at Royal Assent, see [s. 48(2)](https://www.legislation.gov.uk/asp/2025/10/section/48/2)
 
-[^key-215951804949fa7b7744a77b2be38913]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/10/section/46) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
+[^c-215951804949fa7b7744a77b2be38913]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2025/10/section/46) in force at 30.11.2025 by [S.S.I. 2025/348](https://www.legislation.gov.uk/ssi/2025/348), [reg. 2](https://www.legislation.gov.uk/ssi/2025/348/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/348/schedule)
 
-[^key-eaf52968b072c98791af6fabfec78c0d]: Commencement: S. 47 in force at 1.8.2025, see [s. 48(1)](https://www.legislation.gov.uk/asp/2025/10/section/48/1)
+[^c-eaf52968b072c98791af6fabfec78c0d]: Commencement: S. 47 in force at 1.8.2025, see [s. 48(1)](https://www.legislation.gov.uk/asp/2025/10/section/48/1)
 
-[^key-408741129990de7bfaf5a02c1a376bb9]: Commencement: S. 48 in force at 1.8.2025, see [s. 48(1)](https://www.legislation.gov.uk/asp/2025/10/section/48/1)
+[^c-408741129990de7bfaf5a02c1a376bb9]: Commencement: S. 48 in force at 1.8.2025, see [s. 48(1)](https://www.legislation.gov.uk/asp/2025/10/section/48/1)
 
-[^key-b1a99cea3a7059c1062f71916be5a1e2]: Commencement: S. 49 in force at 1.8.2025, see [s. 48(1)](https://www.legislation.gov.uk/asp/2025/10/section/48/1)
+[^c-b1a99cea3a7059c1062f71916be5a1e2]: Commencement: S. 49 in force at 1.8.2025, see [s. 48(1)](https://www.legislation.gov.uk/asp/2025/10/section/48/1)

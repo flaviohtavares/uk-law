@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153.[^key-b39539f0aed5ce2a783e474c503636ef]
+## 153.[^c-b39539f0aed5ce2a783e474c503636ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In section 551 (meaning of “qualifying disposals”), in subsection (2) —
 
 ## Annotations
 
-[^key-b39539f0aed5ce2a783e474c503636ef]: Commencement: Reg. 153 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-b39539f0aed5ce2a783e474c503636ef]: Commencement: Reg. 153 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

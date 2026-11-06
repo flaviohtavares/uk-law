@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health, England
 
-The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) Regulations 2020 (revoked)[^key-7bf29d128633051b67baa870cbb3a956]
+The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) Regulations 2020 (revoked)[^c-7bf29d128633051b67baa870cbb3a956]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 21st April 2020
 
-[^key-7bf29d128633051b67baa870cbb3a956]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bf29d128633051b67baa870cbb3a956]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7bf29d128633051b67baa870cbb3a956]
+## 1. Citation and commencement[^c-7bf29d128633051b67baa870cbb3a956]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019[^key-7bf29d128633051b67baa870cbb3a956]
+## 2. Amendment of the Official Controls (Plant Health and Genetically Modified Organisms) (England) Regulations 2019[^c-7bf29d128633051b67baa870cbb3a956]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7bf29d128633051b67baa870cbb3a956]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bf29d128633051b67baa870cbb3a956]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7bf29d128633051b67baa870cbb3a956]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7bf29d128633051b67baa870cbb3a956]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7bf29d128633051b67baa870cbb3a956]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/381) revoked (29.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 5) Regulations 2020 (S.I. 2020/1466)](https://www.legislation.gov.uk/uksi/2020/1466), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1466/regulation/3)
+[^c-7bf29d128633051b67baa870cbb3a956]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/381) revoked (29.12.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 5) Regulations 2020 (S.I. 2020/1466)](https://www.legislation.gov.uk/uksi/2020/1466), [reg. 3](https://www.legislation.gov.uk/uksi/2020/1466/regulation/3)

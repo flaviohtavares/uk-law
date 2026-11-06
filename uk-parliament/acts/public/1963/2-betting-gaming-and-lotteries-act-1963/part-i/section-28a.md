@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28A. Prohibition on disclosure of information[^key-7dc6797380cbf0b34fccebed12ea02fe]
+## 28A. Prohibition on disclosure of information[^c-7dc6797380cbf0b34fccebed12ea02fe]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dc6797380cbf0b34fccebed12ea02fe]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/ukpga/1963/2/section/28A) inserted (25.4.2017) by [The Horserace Betting Levy Regulations 2017 (S.I. 2017/589)](https://www.legislation.gov.uk/uksi/2017/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/589/schedule/paragraph/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/589/regulation/2))
+[^c-7dc6797380cbf0b34fccebed12ea02fe]: Textual amendment: [S. 28A](https://www.legislation.gov.uk/ukpga/1963/2/section/28A) inserted (25.4.2017) by [The Horserace Betting Levy Regulations 2017 (S.I. 2017/589)](https://www.legislation.gov.uk/uksi/2017/589), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/589/regulation/1/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/589/schedule/paragraph/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2017/589/regulation/2))

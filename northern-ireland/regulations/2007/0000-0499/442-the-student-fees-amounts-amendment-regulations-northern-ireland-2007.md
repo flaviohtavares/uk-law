@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-48558f6d814629694cc33c8d1e39e37d]
+The Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-48558f6d814629694cc33c8d1e39e37d]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 1st September 2008
 
-[^key-48558f6d814629694cc33c8d1e39e37d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48558f6d814629694cc33c8d1e39e37d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-48558f6d814629694cc33c8d1e39e37d]
+## 1. Citation and commencement[^c-48558f6d814629694cc33c8d1e39e37d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increases to the prescribed basic and higher amounts[^key-48558f6d814629694cc33c8d1e39e37d]
+## 2. Increases to the prescribed basic and higher amounts[^c-48558f6d814629694cc33c8d1e39e37d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-48558f6d814629694cc33c8d1e39e37d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-48558f6d814629694cc33c8d1e39e37d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-48558f6d814629694cc33c8d1e39e37d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-48558f6d814629694cc33c8d1e39e37d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation of the Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2006[^key-48558f6d814629694cc33c8d1e39e37d]
+## 5. Revocation of the Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2006[^c-48558f6d814629694cc33c8d1e39e37d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-48558f6d814629694cc33c8d1e39e37d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48558f6d814629694cc33c8d1e39e37d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-48558f6d814629694cc33c8d1e39e37d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-48558f6d814629694cc33c8d1e39e37d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-48558f6d814629694cc33c8d1e39e37d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/442) revoked (1.9.2009) by [The Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/455)](https://www.legislation.gov.uk/nisr/2008/455), [regs. 1](https://www.legislation.gov.uk/nisr/2008/455/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/455/regulation/5)
+[^c-48558f6d814629694cc33c8d1e39e37d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/442) revoked (1.9.2009) by [The Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/455)](https://www.legislation.gov.uk/nisr/2008/455), [regs. 1](https://www.legislation.gov.uk/nisr/2008/455/regulation/1), [5](https://www.legislation.gov.uk/nisr/2008/455/regulation/5)

@@ -42,15 +42,15 @@ Coming into operation-
 
 The Department of Justice makes the following Order in exercise of the powers conferred by Article 5(4) of the Rehabilitation of Offenders (Northern Ireland) Order 1978[^f00001].
 
-## 1. Citation and commencement[^key-7a4eb723c5988fdc67d44a6981c5be9a]
+## 1. Citation and commencement[^c-7a4eb723c5988fdc67d44a6981c5be9a]
 
 This Order may be cited as The Rehabilitation of Offenders (Exceptions) (Amendment) Order (Northern Ireland) 2022 and shall come into operation on 3rd October 2022.
 
-## 2. Interpretation[^key-48e3095ae6f6d93ea8e9d4dc6b2a9e6d]
+## 2. Interpretation[^c-48e3095ae6f6d93ea8e9d4dc6b2a9e6d]
 
 In this Order “**the 1979 Order**” means the Rehabilitation of Offenders (Exceptions) Order (Northern Ireland) 1979[^f00002].
 
-## 3. Amendment of the 1979 Order[^key-5af4e9c8e713a0578d90ae69525aeaa8]
+## 3. Amendment of the 1979 Order[^c-5af4e9c8e713a0578d90ae69525aeaa8]
 
 (1) The 1979 Order is amended as follows:-
 
@@ -84,13 +84,13 @@ The Order comes into operation on 3rd October 2022.
 
 [^f00001]: Footnote: [S.I. 1978/1908 (N.I. 27)](https://www.legislation.gov.uk/nisi/1978/1908); Article 4(1) of and paragraph 6 of Schedule 1 to [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976) transferred the Order making powers of the Secretary of State to the Department of Justice.
 
-[^key-7a4eb723c5988fdc67d44a6981c5be9a]: Commencement: Art. 1 in operation at 3.10.2022, see [Art. 1](https://www.legislation.gov.uk/nisr/2022/213/Art./1)
+[^c-7a4eb723c5988fdc67d44a6981c5be9a]: Commencement: Art. 1 in operation at 3.10.2022, see [Art. 1](https://www.legislation.gov.uk/nisr/2022/213/Art./1)
 
-[^key-48e3095ae6f6d93ea8e9d4dc6b2a9e6d]: Commencement: Art. 2 in operation at 3.10.2022, see [Art. 1](https://www.legislation.gov.uk/nisr/2022/213/Art./1)
+[^c-48e3095ae6f6d93ea8e9d4dc6b2a9e6d]: Commencement: Art. 2 in operation at 3.10.2022, see [Art. 1](https://www.legislation.gov.uk/nisr/2022/213/Art./1)
 
 [^f00002]: Footnote: [S.R. 1979 No. 195](https://www.legislation.gov.uk/nisr/1979/195); relevant amending Orders are [S.R. 1987 No. 393](https://www.legislation.gov.uk/nisr/1987/393), [S.R. 2001 No. 248](https://www.legislation.gov.uk/nisr/2001/248), [S.R. 2001 No. 400](https://www.legislation.gov.uk/nisr/2001/400), [S.R. 2003 No. 355](https://www.legislation.gov.uk/nisr/2003/355), [S.R. 2006 No. 425](https://www.legislation.gov.uk/nisr/2006/425), [S.R. 2009 No. 173](https://www.legislation.gov.uk/nisr/2009/173), [S.R. 2009 No. 303](https://www.legislation.gov.uk/nisr/2009/303), [S.R. 2012 No. 318](https://www.legislation.gov.uk/nisr/2012/318), [S.R. 2014 No. 27](https://www.legislation.gov.uk/nisr/2014/27), [S.R. 2014 No. 174](https://www.legislation.gov.uk/nisr/2014/174) and [S.R. 2019 No. 214](https://www.legislation.gov.uk/nisr/2019/214).
 
-[^key-5af4e9c8e713a0578d90ae69525aeaa8]: Commencement: Art. 3 in operation at 3.10.2022, see [Art. 1](https://www.legislation.gov.uk/nisr/2022/213/Art./1)
+[^c-5af4e9c8e713a0578d90ae69525aeaa8]: Commencement: Art. 3 in operation at 3.10.2022, see [Art. 1](https://www.legislation.gov.uk/nisr/2022/213/Art./1)
 
 [^f00003]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 

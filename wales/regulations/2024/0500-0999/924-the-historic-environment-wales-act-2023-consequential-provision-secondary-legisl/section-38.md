@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**38.**[^key-4a859ead36e023c2976547effa3547c9] In Schedule 5—
+**38.**[^c-4a859ead36e023c2976547effa3547c9] In Schedule 5—
 
 - (a) in the first column of paragraph 14 of the table—
   - (i) in paragraph (i), after “1990” insert “or Part 3 of the Historic Environment (Wales) Act 2023”;
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a859ead36e023c2976547effa3547c9]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2024/924/regulation/38) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-4a859ead36e023c2976547effa3547c9]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2024/924/regulation/38) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

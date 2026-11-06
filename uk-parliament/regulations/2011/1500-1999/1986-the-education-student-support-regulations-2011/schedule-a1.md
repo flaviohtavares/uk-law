@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## Schedule A1 — Subjects for lower-fee foundation year with associated CAH3 codes[^key-7bb60fbb8dec6d3882d80cc759557d0b]
+## Schedule A1 — Subjects for lower-fee foundation year with associated CAH3 codes[^c-7bb60fbb8dec6d3882d80cc759557d0b]
 
 *Extent: E+W*
 
@@ -72,4 +72,4 @@ Regulation 2(16)
 
 ## Annotations
 
-[^key-7bb60fbb8dec6d3882d80cc759557d0b]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2011/1986/schedule/A1) inserted (6.3.2025) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2025 (S.I. 2025/162)](https://www.legislation.gov.uk/uksi/2025/162), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/162/regulation/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2025/162/regulation/4/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/162/schedule/1) (with [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/162/regulation/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2025/162/regulation/2/4))
+[^c-7bb60fbb8dec6d3882d80cc759557d0b]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/uksi/2011/1986/schedule/A1) inserted (6.3.2025) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2025 (S.I. 2025/162)](https://www.legislation.gov.uk/uksi/2025/162), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/162/regulation/1/b), [4(4)](https://www.legislation.gov.uk/uksi/2025/162/regulation/4/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2025/162/schedule/1) (with [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2025/162/regulation/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2025/162/regulation/2/4))

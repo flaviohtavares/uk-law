@@ -28,7 +28,7 @@ summary: ''
 
 (4) Condition C is that the prescription only medicine is sold or supplied in accordance with the directions of the relevant prescriber.
 
-(5) Condition D is that the prescription only medicine is not a product subject to special medical prescription[^key-747b6cab49eb14a2dbf25ffbb783ca0e], other than a prescription only medicine that—
+(5) Condition D is that the prescription only medicine is not a product subject to special medical prescription[^c-747b6cab49eb14a2dbf25ffbb783ca0e], other than a prescription only medicine that—
 
 - (a) consists of or contains phenobarbital or phenobarbital sodium; and
 - (b) is sold or supplied for use in the treatment of epilepsy.
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-747b6cab49eb14a2dbf25ffbb783ca0e]: Textual amendment: Words in reg. 224(5) substituted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [5(2)(d)](https://www.legislation.gov.uk/uksi/2014/490/regulation/5/2/d) and words in reg. 224(5) substituted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [5(2)(d)](https://www.legislation.gov.uk/nisr/2014/323/regulation/5/2/d)
+[^c-747b6cab49eb14a2dbf25ffbb783ca0e]: Textual amendment: Words in reg. 224(5) substituted (E.W.S.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.I. 2014/490)](https://www.legislation.gov.uk/uksi/2014/490), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/490/regulation/1/2), [5(2)(d)](https://www.legislation.gov.uk/uksi/2014/490/regulation/5/2/d) and words in reg. 224(5) substituted (N.I.) (31.3.2014) by [The Human Medicines (Amendment) Regulations 2014 (S.R. 2014/323)](https://www.legislation.gov.uk/nisr/2014/323), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/323/regulation/1/2), [5(2)(d)](https://www.legislation.gov.uk/nisr/2014/323/regulation/5/2/d)

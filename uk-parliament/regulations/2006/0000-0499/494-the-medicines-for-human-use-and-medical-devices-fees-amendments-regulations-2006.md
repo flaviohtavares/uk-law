@@ -64,7 +64,7 @@ In accordance with section 129(6) of the Medicines Act 1968 [^c15427801], the Se
 - “**the General Fees Regulations**” means the Medicines (Products for Human Use—Fees) Regulations 1995 [^c15427821]; and
 - “**the Homoeopathic Products Regulations**” means the Medicines (Homoeopathic Medicinal Products for Human Use) Regulations 1994 [^c15427831].
 
-## 2. Amendment of the General Fees Regulations[^key-c35130caa423170505438385e80cdb07]
+## 2. Amendment of the General Fees Regulations[^c-c35130caa423170505438385e80cdb07]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -136,7 +136,7 @@ Gillian Merron and Tom Watson
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE[^key-167e3074417195a425c7a45ad249ebdf]
+## SCHEDULE[^c-167e3074417195a425c7a45ad249ebdf]
 
 **No longer in force.**
 
@@ -178,11 +178,11 @@ A full Regulatory Impact Assessment of the effect that this instrument will have
 
 [^c15427831]: Marginal citation: [S.I. 1994/105](https://www.legislation.gov.uk/uksi/1994/105) as amended by [S.I. 1994/899](https://www.legislation.gov.uk/uksi/1994/899), 1995/541, 1996/482, 1998/574, 1999/566, 2000/592, 2001/795, 2003/236 and 2321, 2004/666 and 2005/2753.
 
-[^key-c35130caa423170505438385e80cdb07]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/494/regulation/2) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-c35130caa423170505438385e80cdb07]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2006/494/regulation/2) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
 
 [^c15427881]: Marginal citation: As amended by [S.I.1996/482](https://www.legislation.gov.uk/uksi/1996/482) and [S.I. 2005/2753](https://www.legislation.gov.uk/uksi/2005/2753).
 
-[^key-167e3074417195a425c7a45ad249ebdf]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2006/494/schedule) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
+[^c-167e3074417195a425c7a45ad249ebdf]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2006/494/schedule) revoked (1.4.2008) by [The Medicines (Products for Human Use-Fees) Regulations 2008 (S.I. 2008/552)](https://www.legislation.gov.uk/uksi/2008/552), [regs. 1](https://www.legislation.gov.uk/uksi/2008/552/regulation/1), [48(1)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/1), [Sch. 7](https://www.legislation.gov.uk/uksi/2008/552/schedule/7) (with [reg. 48(2)](https://www.legislation.gov.uk/uksi/2008/552/regulation/48/2))
 
 [^c15428051]: Marginal citation: OJ No. L 297, 13.10.1992, p.8.
 

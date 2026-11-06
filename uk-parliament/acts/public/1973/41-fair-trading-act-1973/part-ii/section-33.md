@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ed6a77a8ae75869139bbe98f0df9495e] It shall be the duty of *(affected by repeal, see note)*[^key-ed6a77a8ae75869139bbe98f0df9495e] the Department of Commerce for Northern Ireland[^c10698561] *(affected by repeal, see note)*[^key-ed6a77a8ae75869139bbe98f0df9495e] to enforce in Northern Ireland the provisions of any order under section 22 of this Act. *(affected by repeal, see note)*[^key-ed6a77a8ae75869139bbe98f0df9495e]
+(1)[^c-ed6a77a8ae75869139bbe98f0df9495e] It shall be the duty of *(affected by repeal, see note)*[^c-ed6a77a8ae75869139bbe98f0df9495e] the Department of Commerce for Northern Ireland[^c10698561] *(affected by repeal, see note)*[^c-ed6a77a8ae75869139bbe98f0df9495e] to enforce in Northern Ireland the provisions of any order under section 22 of this Act. *(affected by repeal, see note)*[^c-ed6a77a8ae75869139bbe98f0df9495e]
 
-(2) In the application of this Part of this Act to Northern Ireland— *(affected by repeal, see note)*[^key-ed6a77a8ae75869139bbe98f0df9495e]
+(2) In the application of this Part of this Act to Northern Ireland— *(affected by repeal, see note)*[^c-ed6a77a8ae75869139bbe98f0df9495e]
 
-- (a) section 27 shall not apply; *(affected by repeal, see note)*[^key-ed6a77a8ae75869139bbe98f0df9495e]
-- (b) in sections 28 and 29, any reference to a local weights and measures authority shall be construed as a reference to *(affected by repeal, see note)*[^key-ed6a77a8ae75869139bbe98f0df9495e] the Department of Commerce for Northern Ireland *(affected by repeal, see note)*[^key-ed6a77a8ae75869139bbe98f0df9495e], and the provisions of sections 30 to 32 shall be construed accordingly; *(affected by repeal, see note)*[^key-ed6a77a8ae75869139bbe98f0df9495e]
-- (c) in section 29(3), any reference to a justice of the peace shall be construed as a reference to a resident magistrate; and *(affected by repeal, see note)*[^key-ed6a77a8ae75869139bbe98f0df9495e]
+- (a) section 27 shall not apply; *(affected by repeal, see note)*[^c-ed6a77a8ae75869139bbe98f0df9495e]
+- (b) in sections 28 and 29, any reference to a local weights and measures authority shall be construed as a reference to *(affected by repeal, see note)*[^c-ed6a77a8ae75869139bbe98f0df9495e] the Department of Commerce for Northern Ireland *(affected by repeal, see note)*[^c-ed6a77a8ae75869139bbe98f0df9495e], and the provisions of sections 30 to 32 shall be construed accordingly; *(affected by repeal, see note)*[^c-ed6a77a8ae75869139bbe98f0df9495e]
+- (c) in section 29(3), any reference to a justice of the peace shall be construed as a reference to a resident magistrate; and *(affected by repeal, see note)*[^c-ed6a77a8ae75869139bbe98f0df9495e]
 - (d)[^c10698581] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ed6a77a8ae75869139bbe98f0df9495e]: Textual amendment: Ss. 29-33 repealed in part (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/15), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) Note (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-ed6a77a8ae75869139bbe98f0df9495e]: Textual amendment: Ss. 29-33 repealed in part (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/15), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) Note (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
 
 [^c10698561]: Textual amendment: Words substituted by virtue of [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 5 para. 8(1)](https://www.legislation.gov.uk/ukpga/1973/36/schedule/5/paragraph/8/1)
 

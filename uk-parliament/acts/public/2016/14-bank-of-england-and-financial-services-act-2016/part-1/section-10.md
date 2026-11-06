@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Activities indemnified by Treasury[^key-4418fc96d755f8ddaf34913d339afa77]
+## 10. Activities indemnified by Treasury[^c-4418fc96d755f8ddaf34913d339afa77]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,4 +84,4 @@ In the Bank of England Act 1998, after section 7A insert—
 
 ## Annotations
 
-[^key-4418fc96d755f8ddaf34913d339afa77]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/14/section/10) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/k)
+[^c-4418fc96d755f8ddaf34913d339afa77]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2016/14/section/10) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/k)

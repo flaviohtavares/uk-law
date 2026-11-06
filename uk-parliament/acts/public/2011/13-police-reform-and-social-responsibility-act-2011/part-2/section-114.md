@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-bbc9dd71373d233db2903cb0e6993265][^key-1b9f96519ca6fcee4f20da63d91ed50d] The Licensing Act 2003 is amended as set out in subsections (2) to (12).
+(1)[^c-bbc9dd71373d233db2903cb0e6993265][^c-1b9f96519ca6fcee4f20da63d91ed50d] The Licensing Act 2003 is amended as set out in subsections (2) to (12).
 
-(2)[^key-2933b858c97cb8fbd5a14f07104a7656] In section 98(2) (meaning of “permitted temporary activity”), for “sections 102 (acknowledgement of notice) and 104(1) (notification of police)” substitute “ section 102 (acknowledgement of notice) ”.
+(2)[^c-2933b858c97cb8fbd5a14f07104a7656] In section 98(2) (meaning of “permitted temporary activity”), for “sections 102 (acknowledgement of notice) and 104(1) (notification of police)” substitute “ section 102 (acknowledgement of notice) ”.
 
-(3)[^key-2933b858c97cb8fbd5a14f07104a7656] In section 100 (temporary event notice)—
+(3)[^c-2933b858c97cb8fbd5a14f07104a7656] In section 100 (temporary event notice)—
 
 - (a) in subsection (7), for paragraph (a) substitute—
 
   > - (a) must be given in accordance with section 100A, and”, and
 - (b) in subsection (7)(b), after “fee” insert “ when it is given by the premises user to the relevant licensing authority. ”.
 
-(4)[^key-2933b858c97cb8fbd5a14f07104a7656] After section 100 insert—
+(4)[^c-2933b858c97cb8fbd5a14f07104a7656] After section 100 insert—
 
 > **100A. Standard and late temporary event notices**
 >
@@ -61,7 +61,7 @@ summary: ''
 
 .
 
-(5)[^key-2933b858c97cb8fbd5a14f07104a7656] In section 102 (acknowledgement of notice), for subsection (3) substitute—
+(5)[^c-2933b858c97cb8fbd5a14f07104a7656] In section 102 (acknowledgement of notice), for subsection (3) substitute—
 
 > (3) Subsection (1) does not apply where, before the time by which acknowledgement of the receipt of the notice must be given in accordance with that subsection, a counter notice has been given to the premises user under—
 >
@@ -70,12 +70,12 @@ summary: ''
 
 .
 
-(6)[^key-2933b858c97cb8fbd5a14f07104a7656] In section 104 (objection to notice)—
+(6)[^c-2933b858c97cb8fbd5a14f07104a7656] In section 104 (objection to notice)—
 
 - (a) omit subsections (1) and (1A), and
 - (b) in subsection (3), for “a copy of the temporary event notice under subsection (1) or (1A)” substitute “ the temporary event notice ”.
 
-(7)[^key-bbc9dd71373d233db2903cb0e6993265][^key-1b9f96519ca6fcee4f20da63d91ed50d] After section 104 insert—
+(7)[^c-bbc9dd71373d233db2903cb0e6993265][^c-1b9f96519ca6fcee4f20da63d91ed50d] After section 104 insert—
 
 > **104A. Counter notice following objection to late notice**
 >
@@ -93,19 +93,19 @@ summary: ''
 
 .
 
-(8)[^key-2933b858c97cb8fbd5a14f07104a7656] In section 105 (counter notice following objection)—
+(8)[^c-2933b858c97cb8fbd5a14f07104a7656] In section 105 (counter notice following objection)—
 
 - (a) in the title, after “objection” insert “ to standard temporary event notice ”,
 - (b) in subsection (1), for “in respect of a” substitute “ under section 104(2) in respect of a standard ”, and
 - (c) omit subsection (7).
 
-(9)[^key-2933b858c97cb8fbd5a14f07104a7656] In section 106(1) (modification of notice following objection)—
+(9)[^c-2933b858c97cb8fbd5a14f07104a7656] In section 106(1) (modification of notice following objection)—
 
 - (a) in the title, for “notice” substitute “ standard temporary event notice ”,
 - (b) in subsection (1), for “in respect of a” substitute “ under section 104(2) in respect of a standard ”, and
 - (c) in subsection (2), for “the notice returned to the premises user under section 102” substitute “ it ”.
 
-(10)[^key-2933b858c97cb8fbd5a14f07104a7656] In section 107 (counter notice where permitted limits exceeded)—
+(10)[^c-2933b858c97cb8fbd5a14f07104a7656] In section 107 (counter notice where permitted limits exceeded)—
 
 - (a) in subsection (2), for paragraph (b) substitute—
 
@@ -124,7 +124,7 @@ summary: ''
 
   .
 
-(11)[^key-2933b858c97cb8fbd5a14f07104a7656] In section 194 (index of defined expressions)—
+(11)[^c-2933b858c97cb8fbd5a14f07104a7656] In section 194 (index of defined expressions)—
 
 - (a) after the entry for the expression “late night refreshment” insert—
 
@@ -141,14 +141,14 @@ summary: ''
 
   .
 
-(12)[^key-2933b858c97cb8fbd5a14f07104a7656] In paragraph 16(1)(a) of Schedule 5 (appeals), after “a” insert “ standard ”.
+(12)[^c-2933b858c97cb8fbd5a14f07104a7656] In paragraph 16(1)(a) of Schedule 5 (appeals), after “a” insert “ standard ”.
 
-(13)[^key-2933b858c97cb8fbd5a14f07104a7656] The amendments made by this section apply in relation to temporary event notices that are given on or after the commencement of this section.
+(13)[^c-2933b858c97cb8fbd5a14f07104a7656] The amendments made by this section apply in relation to temporary event notices that are given on or after the commencement of this section.
 
 ## Annotations
 
-[^key-bbc9dd71373d233db2903cb0e6993265]: Commencement: [S. 114(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/1)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/7) in force at 22.3.2012 for specified purposes by [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/896/article/2/f)
+[^c-bbc9dd71373d233db2903cb0e6993265]: Commencement: [S. 114(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/1)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/7) in force at 22.3.2012 for specified purposes by [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/896/article/2/f)
 
-[^key-1b9f96519ca6fcee4f20da63d91ed50d]: Commencement: [S. 114(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/1)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/7) in force at 25.4.2012 in so far as not already in force by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-1b9f96519ca6fcee4f20da63d91ed50d]: Commencement: [S. 114(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/1)[(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/7) in force at 25.4.2012 in so far as not already in force by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-2933b858c97cb8fbd5a14f07104a7656]: Commencement: [S. 114(2)-(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/2) [(8)-(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/8) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-2933b858c97cb8fbd5a14f07104a7656]: Commencement: [S. 114(2)-(6)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/2) [(8)-(13)](https://www.legislation.gov.uk/ukpga/2011/13/section/114/8) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Operator’s obligations[^key-5825cd7f7079db9e7a5571e7987d6e54]
+## 112. Operator’s obligations[^c-5825cd7f7079db9e7a5571e7987d6e54]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The operator of an aircraft that is either an air transport undertaking, or an o
 
 ## Annotations
 
-[^key-5825cd7f7079db9e7a5571e7987d6e54]: Commencement: [Art. 112](https://www.legislation.gov.uk/uksi/2013/2870/article/112) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-5825cd7f7079db9e7a5571e7987d6e54]: Commencement: [Art. 112](https://www.legislation.gov.uk/uksi/2013/2870/article/112) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Decision-makers[^key-d048ba5e52485b0d805eccf323ca670d][^key-9c9d5c35b3f4cd9d80044b80e83963d7]
+## 6. Decision-makers[^c-d048ba5e52485b0d805eccf323ca670d][^c-9c9d5c35b3f4cd9d80044b80e83963d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d048ba5e52485b0d805eccf323ca670d]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-d048ba5e52485b0d805eccf323ca670d]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-9c9d5c35b3f4cd9d80044b80e83963d7]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/18/section/6) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-9c9d5c35b3f4cd9d80044b80e83963d7]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2025/18/section/6) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

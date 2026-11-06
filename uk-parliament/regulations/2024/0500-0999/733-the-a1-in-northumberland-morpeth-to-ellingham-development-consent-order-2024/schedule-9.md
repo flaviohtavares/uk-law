@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — TREES AND HEDGEROWS[^key-e814a3de629527b371581567688fbb9d]
+## SCHEDULE 9 — TREES AND HEDGEROWS[^c-e814a3de629527b371581567688fbb9d]
 
 *Extent: E+W*
 
@@ -24,18 +24,18 @@ summary: ''
 
 Article 41 and 42
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-e814a3de629527b371581567688fbb9d]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^key-e814a3de629527b371581567688fbb9d]
+### PART 2 — REMOVAL OF IMPORTANT HEDGEROWS[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-e814a3de629527b371581567688fbb9d]
+### PART 3 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-e814a3de629527b371581567688fbb9d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)
+[^c-e814a3de629527b371581567688fbb9d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2024/733) revoked (14.11.2025) by [The A1 in Northumberland: Morpeth to Ellingham Development Consent (Revocation) Order 2025 (S.I. 2025/1186)](https://www.legislation.gov.uk/uksi/2025/1186), [arts. 1](https://www.legislation.gov.uk/uksi/2025/1186/article/1), [2](https://www.legislation.gov.uk/uksi/2025/1186/article/2)

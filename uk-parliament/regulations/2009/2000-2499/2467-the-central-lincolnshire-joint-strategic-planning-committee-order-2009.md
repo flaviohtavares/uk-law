@@ -28,7 +28,7 @@ summary: ''
 
 2009 No. 2467
 
-[^key-ffe9667e6f78085db33fa70a775be873]Town And Country Planning, England
+[^c-ffe9667e6f78085db33fa70a775be873]Town And Country Planning, England
 
 The Central Lincolnshire Joint Strategic Planning Committee Order 2009
 
@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 29 of the Planning and Compulsory Purchase Act 2004[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-9ad890b79ea9ce43e238dde09eabb845]
+## 1. Citation and commencement[^c-9ad890b79ea9ce43e238dde09eabb845]
 
 This Order may be cited as the Central Lincolnshire Joint Strategic Planning Committee Order 2009 and shall come into force on 12th October 2009.
 
-## 2. Interpretation[^key-20b37beaa78b8da54a0238251be53390]
+## 2. Interpretation[^c-20b37beaa78b8da54a0238251be53390]
 
 In this Order—
 
@@ -64,7 +64,7 @@ In this Order—
 - “sub-committee” means a sub-committee appointed under article 8(1); and
 - “voting member” means a person appointed under article 5(1) and entitled to vote in accordance with article 5(2).
 
-## 3. Establishment of the joint committee[^key-fa0647031b72dc0c67f3ed1c475bfcb6]
+## 3. Establishment of the joint committee[^c-fa0647031b72dc0c67f3ed1c475bfcb6]
 
 (1) A joint committee, to be known as the Central Lincolnshire Joint Strategic Planning Committee, is constituted as the local planning authority for the purposes of Part 2 (local development) of the 2004 Act for the areas of the City of Lincoln Council, North Kesteven District Council and West Lindsey District Council and in respect of the matters specified in article 4(1) (being matters specified in the Agreement).
 
@@ -75,7 +75,7 @@ In this Order—
 - (c) North Kesteven District Council; and
 - (d) West Lindsey District Council.
 
-## 4. Functions of the joint committee[^key-89bbb5361a9b70153d2a15134264a6f6]
+## 4. Functions of the joint committee[^c-89bbb5361a9b70153d2a15134264a6f6]
 
 (1) The matters referred to in article 3(1) are the preparation, submission and revision of—
 
@@ -88,7 +88,7 @@ In this Order—
 
 .
 
-## 5. Membership of the joint committee and voting rights[^key-3a190caa8647d4ec55b7316494e32a71]
+## 5. Membership of the joint committee and voting rights[^c-3a190caa8647d4ec55b7316494e32a71]
 
 (1) The joint committee shall consist of—
 
@@ -112,13 +112,13 @@ In this Order—
 
 (8) Voting members and substitutes shall be entitled to recover from the constituent authority by which they are appointed or nominated (as the case may be) any expenses incurred in connection with the discharge of the joint committee’s functions.
 
-## 6. Disqualification for membership of the joint committee[^key-ef5f60c52e0d8a5d403deec696e4de32]
+## 6. Disqualification for membership of the joint committee[^c-ef5f60c52e0d8a5d403deec696e4de32]
 
 (1) A person who is disqualified under Part 5 (general provisions as to members and proceedings of local authorities) of the 1972 Act for being elected or being a member of a local authority shall be disqualified for being a member of the joint committee.
 
 (2) Section 92 of the 1972 Act, (proceedings for disqualification)[^f00003], with the exception of subsections (7), (7A), (7B) and (8), shall apply with respect to membership of, or claims to be entitled to act as a member of, the joint committee as it applies to membership of, or claims to be entitled to act as a member of, a local authority.
 
-## 7. Tenure of office[^key-d811c0daf06ca12343f13710faee90d4]
+## 7. Tenure of office[^c-d811c0daf06ca12343f13710faee90d4]
 
 (1) A voting member shall hold office for a period of four years from the date of appointment or such lesser period, being not less than one year, as may be decided by the authority which makes the appointment, but shall cease to be a voting member if that person—
 
@@ -141,7 +141,7 @@ In this Order—
 
 (5) Any casual vacancy shall be filled as soon as practicable by the authority or body which appointed or nominated the member of the joint committee whose membership has ceased.
 
-## 8. Sub-committees[^key-2855115178d62d78a645deced9c21fe7]
+## 8. Sub-committees[^c-2855115178d62d78a645deced9c21fe7]
 
 (1) The joint committee may, in accordance with paragraphs (2) and (3), appoint one or more sub-committees.
 
@@ -149,13 +149,13 @@ In this Order—
 
 (3) Subject to paragraph (2), the persons appointed to a sub-committee and the sub-committee’s terms of reference shall be determined by the joint committee.
 
-## 9. Meetings and proceedings[^key-ad14a25d47a6301f29429417b3b8f055]
+## 9. Meetings and proceedings[^c-ad14a25d47a6301f29429417b3b8f055]
 
 (1) The meetings and proceedings of the joint committee shall be conducted in accordance with the rules set out in the Schedule to this Order, which shall have effect.
 
 (2) Sub-paragraphs (3) to (5) of paragraph 5 of the Schedule (calling of meetings) and sub-paragraph (2) of paragraph 6 of the Schedule (proceedings of meetings) shall apply with respect to meetings of any sub-committee as if references to the joint committee were references to the sub-committee, unless the joint committee agrees otherwise.
 
-## 10. Secondments[^key-f39a1cafdf13bc8ec8c63f60ee008dfe]
+## 10. Secondments[^c-f39a1cafdf13bc8ec8c63f60ee008dfe]
 
 (1) The constituent authorities shall make secondments, in accordance with the Agreement, of such officers as they think necessary to enable the joint committee and any sub-committee to discharge their functions.
 
@@ -163,7 +163,7 @@ In this Order—
 
 (3) The joint committee may make arrangements for the services of any person employed by a body which has nominated a co-opted member to be placed at the disposal of the joint committee or a sub-committee for such period as may be agreed between the joint committee and the body.
 
-## 11. Expenses of joint committee[^key-0c4979a0db3f2e9c9be488b9be927c7d]
+## 11. Expenses of joint committee[^c-0c4979a0db3f2e9c9be488b9be927c7d]
 
 (1) The expenses incurred by the joint committee and any sub-committee, in relation to accommodating meetings of the joint committee or sub-committee, shall be defrayed by the constituent authority at whose office the meeting is held, or who arranges the venue for the meeting, except so far as may be otherwise agreed by the joint committee.
 
@@ -185,7 +185,7 @@ Department for Communities and Local Government
 
 Article 9
 
-### 1. Meetings[^key-d2add33f2558ded9ea2f0eda41f568a2]
+### 1. Meetings[^c-d2add33f2558ded9ea2f0eda41f568a2]
 
 (1) The joint committee shall in every year hold an annual meeting.
 
@@ -193,7 +193,7 @@ Article 9
 
 (3) The joint committee may in every year hold, in addition to the annual meeting, such other meetings as it may determine.
 
-### 2. Appointment of chair and vice-chair[^key-866ee433592254f4eab967dde41e98db]
+### 2. Appointment of chair and vice-chair[^c-866ee433592254f4eab967dde41e98db]
 
 (1) Subject to sub-paragraphs (3) and (4), the joint committee shall at their annual meeting appoint a chair and a vice-chair from among the voting members of the joint committee.
 
@@ -203,7 +203,7 @@ Article 9
 
 (4) A member of a constituent authority may not be appointed as chair if any other member of that authority has held that office (otherwise than to fill a casual vacancy) in the previous 12 months.
 
-### 3. Casual vacancies[^key-3c1bbebbffc34e9c54ffa7b769038338]
+### 3. Casual vacancies[^c-3c1bbebbffc34e9c54ffa7b769038338]
 
 (1) This paragraph applies if a casual vacancy occurs in the office of chair or vice-chair of the joint committee.
 
@@ -213,7 +213,7 @@ Article 9
 
 (4) The person so appointed shall, so far as practicable, be a member of the same constituent authority as the person in whose place that person is appointed.
 
-### 4. Conduct of meetings[^key-9395c0e42fd815218d3348cae32baf99]
+### 4. Conduct of meetings[^c-9395c0e42fd815218d3348cae32baf99]
 
 (1) At a meeting of the joint committee the chair if present shall preside.
 
@@ -223,7 +223,7 @@ Article 9
 
 (4) In the case of an equality of votes, the chair shall give a casting vote in addition to any other vote that person may have.
 
-### 5. Calling of meetings[^key-261a802d6b34b56931cf50fec104911b]
+### 5. Calling of meetings[^c-261a802d6b34b56931cf50fec104911b]
 
 (1) The chair of the joint committee may call a meeting of the joint committee at any time.
 
@@ -251,7 +251,7 @@ any three members of the joint committee may, on that refusal or on the expirati
 
 (7) Where the office of chair is vacant, sub-paragraphs (1) to (6) shall apply as if references to the chair of the joint committee were references to the vice-chair of the joint committee.
 
-### 6. Proceedings of meetings[^key-4b8329c429efee6fdb23daa2ff6e0669]
+### 6. Proceedings of meetings[^c-4b8329c429efee6fdb23daa2ff6e0669]
 
 (1) No business shall be transacted at a meeting of the joint committee unless at least five voting members are present.
 
@@ -261,7 +261,7 @@ any three members of the joint committee may, on that refusal or on the expirati
 
 (4) The names of the voting and co-opted members and of any substitute present at each meeting of the joint committee shall be recorded in the minutes of the proceedings of that meeting.
 
-### 7. Admission to meetings[^key-e21f933b347ec581508da77ad3d5e9a0]
+### 7. Admission to meetings[^c-e21f933b347ec581508da77ad3d5e9a0]
 
 (1) The following provisions of the 1972 Act shall apply with respect to meetings of the joint committee as if references to a principal council were references to the joint committee—
 
@@ -271,7 +271,7 @@ any three members of the joint committee may, on that refusal or on the expirati
 
 (2) Where the public have been excluded from the whole or part of a meeting of the joint committee in accordance with any provision referred to in sub-paragraph (1), the joint committee may exclude co-opted members and observers from that meeting or (as the case may be) the relevant part of that meeting.
 
-### 8. Standing orders[^key-25179d1f5bfb9a83ae84c9682873250d]
+### 8. Standing orders[^c-25179d1f5bfb9a83ae84c9682873250d]
 
 Subject to the provisions of this Order the joint committee may make standing orders for the regulation of their proceedings and may vary or revoke any such orders.
 
@@ -291,50 +291,50 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 ## Annotations
 
-[^key-ffe9667e6f78085db33fa70a775be873]: Textual amendment: Regulations continued despite the substitution of enabling power [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5), [s. 29](https://www.legislation.gov.uk/ukpga/2004/5/section/29) by [2023 c.55](https://www.legislation.gov.uk/ukpga/2023/55), [s.255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b), [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/7) (25.3.2026) by [The Levelling Up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/2/paragraph/1) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2026/169/schedule/2/paragraph/2))
+[^c-ffe9667e6f78085db33fa70a775be873]: Textual amendment: Regulations continued despite the substitution of enabling power [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5), [s. 29](https://www.legislation.gov.uk/ukpga/2004/5/section/29) by [2023 c.55](https://www.legislation.gov.uk/ukpga/2023/55), [s.255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b), [Sch. 7](https://www.legislation.gov.uk/ukpga/2023/55/schedule/7) (25.3.2026) by [The Levelling Up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 (S.I. 2026/169)](https://www.legislation.gov.uk/uksi/2026/169), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2026/169/schedule/2/paragraph/1) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2026/169/schedule/2/paragraph/2))
 
 [^f00001]: Footnote: [2004 c.5](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-9ad890b79ea9ce43e238dde09eabb845]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-9ad890b79ea9ce43e238dde09eabb845]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-20b37beaa78b8da54a0238251be53390]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/2467/article/2) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-20b37beaa78b8da54a0238251be53390]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/2467/article/2) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
 [^f00002]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-fa0647031b72dc0c67f3ed1c475bfcb6]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/2467/article/3) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-fa0647031b72dc0c67f3ed1c475bfcb6]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/2467/article/3) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-89bbb5361a9b70153d2a15134264a6f6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/2467/article/4) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-89bbb5361a9b70153d2a15134264a6f6]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/2467/article/4) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-3a190caa8647d4ec55b7316494e32a71]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/2467/article/5) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-3a190caa8647d4ec55b7316494e32a71]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/2467/article/5) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-ef5f60c52e0d8a5d403deec696e4de32]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/2467/article/6) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-ef5f60c52e0d8a5d403deec696e4de32]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/2467/article/6) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
 [^f00003]: Footnote: Section 92 was amended by sections 37, 38 and 46 of the Criminal Justice Act [1982 (c.48)](https://www.legislation.gov.uk/ukpga/1982/48).
 
-[^key-d811c0daf06ca12343f13710faee90d4]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/2467/article/7) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-d811c0daf06ca12343f13710faee90d4]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/2467/article/7) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-2855115178d62d78a645deced9c21fe7]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/2467/article/8) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-2855115178d62d78a645deced9c21fe7]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/2467/article/8) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-ad14a25d47a6301f29429417b3b8f055]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/2467/article/9) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-ad14a25d47a6301f29429417b3b8f055]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/2467/article/9) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-f39a1cafdf13bc8ec8c63f60ee008dfe]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/2467/article/10) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-f39a1cafdf13bc8ec8c63f60ee008dfe]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2009/2467/article/10) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-0c4979a0db3f2e9c9be488b9be927c7d]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/2467/article/11) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-0c4979a0db3f2e9c9be488b9be927c7d]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2009/2467/article/11) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-d2add33f2558ded9ea2f0eda41f568a2]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/1) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-d2add33f2558ded9ea2f0eda41f568a2]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/1) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-866ee433592254f4eab967dde41e98db]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/2) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-866ee433592254f4eab967dde41e98db]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/2) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-3c1bbebbffc34e9c54ffa7b769038338]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/3) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-3c1bbebbffc34e9c54ffa7b769038338]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/3) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-9395c0e42fd815218d3348cae32baf99]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/4) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-9395c0e42fd815218d3348cae32baf99]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/4) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-261a802d6b34b56931cf50fec104911b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/5) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-261a802d6b34b56931cf50fec104911b]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/5) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-4b8329c429efee6fdb23daa2ff6e0669]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/6) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-4b8329c429efee6fdb23daa2ff6e0669]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/6) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
-[^key-e21f933b347ec581508da77ad3d5e9a0]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/7) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-e21f933b347ec581508da77ad3d5e9a0]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/7) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
 
 [^f00004]: Footnote: Relevant amendments were made by section 46 of the Local Government Act [2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22), sections 1 and 94 of, and Schedule 12 to, the Local Government and Housing Act [1989 (c.42)](https://www.legislation.gov.uk/ukpga/1989/42), section 84 of, and Schedule 14 to, the Local Government Act [1985 (c.51)](https://www.legislation.gov.uk/ukpga/1985/51), section 1(1) of the Local Government (Access to Information) Act 1985, section 267 of the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), section 206 of, and Schedule 8 to, the Representation of the People Act [1983 (c.2)](https://www.legislation.gov.uk/ukpga/1983/2), section 54 of, and Schedule 3 to, the Audit Commission Act [1998 (c.18)](https://www.legislation.gov.uk/ukpga/1998/18), section 69 of the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29), section 78 of, and Schedule 10 to, the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 139(3) of the Transport Act [1985 (c.67)](https://www.legislation.gov.uk/ukpga/1985/67), section 38 of the Local Government Finance Act [1982 (c.32)](https://www.legislation.gov.uk/ukpga/1982/32), section 237 of, and Schedule 13 to, the Education Reform Act [1988 (c.40)](https://www.legislation.gov.uk/ukpga/1988/40), sections 17(4) and 18(6) of, and Schedule 1 to, the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and sections 74(1), 209(2), 216(2) and 241 of, and Schedules 3, 13, 14 and 18 to, the Local Government and Public Improvement in Health Act [2007 (c.28)](https://www.legislation.gov.uk/ukpga/2007/28). Relevant amending instruments are [S.I. 1995/1948](https://www.legislation.gov.uk/uksi/1995/1948), [2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), [2002/715](https://www.legislation.gov.uk/uksi/2002/715) and [2006/88](https://www.legislation.gov.uk/uksi/2006/88).
 
-[^key-25179d1f5bfb9a83ae84c9682873250d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/8) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)
+[^c-25179d1f5bfb9a83ae84c9682873250d]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/2467/schedule/paragraph/8) in force at 12.10.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/2467/article/1)

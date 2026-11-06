@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Provision of financial services relating to foreign exchange reserve and asset management[^key-babd931b864e035ee11507fbaed04237]
+## 18A. Provision of financial services relating to foreign exchange reserve and asset management[^c-babd931b864e035ee11507fbaed04237]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-babd931b864e035ee11507fbaed04237]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2019/855/regulation/18A) inserted (1.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/205)](https://www.legislation.gov.uk/uksi/2022/205), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/205/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2022/205/regulation/3/1)
+[^c-babd931b864e035ee11507fbaed04237]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2019/855/regulation/18A) inserted (1.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/205)](https://www.legislation.gov.uk/uksi/2022/205), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/205/regulation/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2022/205/regulation/3/1)

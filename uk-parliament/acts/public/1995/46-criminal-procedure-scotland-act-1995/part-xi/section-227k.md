@@ -25,7 +25,7 @@ summary: ''
 - (a) unpaid work, and
 - (b) any other activity to be undertaken.
 
-(2)[^key-c02e4cbf285270fc286725142b42fa60] The number of hours allocated to undertaking an activity other than unpaid work must not exceed whichever is the lower of—
+(2)[^c-c02e4cbf285270fc286725142b42fa60] The number of hours allocated to undertaking an activity other than unpaid work must not exceed whichever is the lower of—
 
 - (a) 30% of the number of hours specified in the requirement, and
 - (b) 30 hours.
@@ -41,4 +41,4 @@ summary: ''
 
 [^c20919581]: Textual amendment: Ss. 227A-227ZN and cross-headings inserted (1.2.2011 except for the insertion of s. 227ZM, 1.4.2011 in so far as not already in force) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 14(1)](https://www.legislation.gov.uk/asp/2010/13/section/14/1), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
-[^key-c02e4cbf285270fc286725142b42fa60]: Modification: [S. 227K(2)](https://www.legislation.gov.uk/ukpga/1995/46/section/227K/2) excluded (15.3.2021 immediately after 5.00 p.m.) by [The Community Orders (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/144)](https://www.legislation.gov.uk/ssi/2021/144), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/144/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2021/144/regulation/3/3/a)
+[^c-c02e4cbf285270fc286725142b42fa60]: Modification: [S. 227K(2)](https://www.legislation.gov.uk/ukpga/1995/46/section/227K/2) excluded (15.3.2021 immediately after 5.00 p.m.) by [The Community Orders (Coronavirus) (Scotland) Regulations 2021 (S.S.I. 2021/144)](https://www.legislation.gov.uk/ssi/2021/144), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/144/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2021/144/regulation/3/3/a)

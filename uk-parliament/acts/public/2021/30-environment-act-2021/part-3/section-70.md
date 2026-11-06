@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Regulation of polluting activities[^key-b7526191c362d827739d390d1f42481b]
+## 70. Regulation of polluting activities[^c-b7526191c362d827739d390d1f42481b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ In Schedule 1 to the Pollution Prevention and Control Act 1999, in paragraph 4 (
 
 ## Annotations
 
-[^key-b7526191c362d827739d390d1f42481b]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2021/30/section/70) in force at 9.1.2022, see [s. 147(2)(i)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/i)
+[^c-b7526191c362d827739d390d1f42481b]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2021/30/section/70) in force at 9.1.2022, see [s. 147(2)(i)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/i)

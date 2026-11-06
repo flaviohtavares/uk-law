@@ -26,12 +26,12 @@ summary: ''
 
 (3) Any power to make regulations under this Act includes power—
 
-- (a) to modify assimilated direct[^key-002c002466a561f7f9aa6d9752b60c2e] legislation;
+- (a) to modify assimilated direct[^c-002c002466a561f7f9aa6d9752b60c2e] legislation;
 - (b) to make provision binding the Crown;
 - (c) to make different provision for different purposes;
 - (d) to make supplementary, incidental, consequential, transitional, transitory or saving provision.
 
-(4) The provision which may be made by virtue of subsection (3)(d) includes provision modifying primary legislation, assimilated direct[^key-f03cb71f9fc1a98027c8a0e2abf7c7b5] legislation or subordinate legislation.
+(4) The provision which may be made by virtue of subsection (3)(d) includes provision modifying primary legislation, assimilated direct[^c-f03cb71f9fc1a98027c8a0e2abf7c7b5] legislation or subordinate legislation.
 
 (5) Regulations which—
 
@@ -62,6 +62,6 @@ are subject to affirmative resolution procedure.
 
 ## Annotations
 
-[^key-002c002466a561f7f9aa6d9752b60c2e]: Textual amendment: Words in s. 50(3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(k)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/k)
+[^c-002c002466a561f7f9aa6d9752b60c2e]: Textual amendment: Words in s. 50(3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(k)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/k)
 
-[^key-f03cb71f9fc1a98027c8a0e2abf7c7b5]: Textual amendment: Words in s. 50(4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(k)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/k)
+[^c-f03cb71f9fc1a98027c8a0e2abf7c7b5]: Textual amendment: Words in s. 50(4) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(k)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/k)

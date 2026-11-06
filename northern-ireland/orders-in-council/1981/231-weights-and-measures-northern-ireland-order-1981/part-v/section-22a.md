@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22A. Non-compliance with certain requirements of the FIC Regulation[^key-c5a3809523f4fd7b1fdda7598ecfbbd9]
+## 22A. Non-compliance with certain requirements of the FIC Regulation[^c-c5a3809523f4fd7b1fdda7598ecfbbd9]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5a3809523f4fd7b1fdda7598ecfbbd9]: Textual amendment: [Art. 22A](https://www.legislation.gov.uk/nisi/1981/231/article/22A) inserted (18.4.2016) by [The Weights and Measures (Food) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/187)](https://www.legislation.gov.uk/nisr/2016/187), [regs. 1](https://www.legislation.gov.uk/nisr/2016/187/regulation/1), [7](https://www.legislation.gov.uk/nisr/2016/187/regulation/7)
+[^c-c5a3809523f4fd7b1fdda7598ecfbbd9]: Textual amendment: [Art. 22A](https://www.legislation.gov.uk/nisi/1981/231/article/22A) inserted (18.4.2016) by [The Weights and Measures (Food) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/187)](https://www.legislation.gov.uk/nisr/2016/187), [regs. 1](https://www.legislation.gov.uk/nisr/2016/187/regulation/1), [7](https://www.legislation.gov.uk/nisr/2016/187/regulation/7)

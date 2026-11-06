@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35D. Timetable for deciding request for direction under section 35B[^key-dc603feaada09e5eeeb40a417dde475b]
+## 35D. Timetable for deciding request for direction under section 35B[^c-dc603feaada09e5eeeb40a417dde475b]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc603feaada09e5eeeb40a417dde475b]: Textual amendment: Ss. 35B-35D inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/4/4), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/a)
+[^c-dc603feaada09e5eeeb40a417dde475b]: Textual amendment: Ss. 35B-35D inserted (24.7.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/4/4), [118(1)(c)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/c) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/641/regulation/3/a)

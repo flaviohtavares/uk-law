@@ -31,48 +31,48 @@ Compensation Of Displaced Officers (War Service) Act 1945 (repealed)
 
 1945 c.10
 
-[^key-da71cd68d866765b2b29ec329b5d9ce6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-da71cd68d866765b2b29ec329b5d9ce6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[7th March 1945\]
 
 **No longer in force.**
 
-## 1. Application of Act to changes in the functions of local authorities.[^key-da71cd68d866765b2b29ec329b5d9ce6][^key-da71cd68d866765b2b29ec329b5d9ce6]
+## 1. Application of Act to changes in the functions of local authorities.[^c-da71cd68d866765b2b29ec329b5d9ce6][^c-da71cd68d866765b2b29ec329b5d9ce6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2—5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-da71cd68d866765b2b29ec329b5d9ce6][^key-da71cd68d866765b2b29ec329b5d9ce6]
+## 2—5 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-da71cd68d866765b2b29ec329b5d9ce6][^c-da71cd68d866765b2b29ec329b5d9ce6]
 
-## 6. Amendment of Fourth Schedule to Local Government Act, 1933, and section sixteen of Electricity (Supply) Act, 1919.[^key-da71cd68d866765b2b29ec329b5d9ce6][^key-da71cd68d866765b2b29ec329b5d9ce6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 7. Increase of grants to be defrayed out of moneys provided by Parliament.[^key-da71cd68d866765b2b29ec329b5d9ce6][^key-da71cd68d866765b2b29ec329b5d9ce6]
+## 6. Amendment of Fourth Schedule to Local Government Act, 1933, and section sixteen of Electricity (Supply) Act, 1919.[^c-da71cd68d866765b2b29ec329b5d9ce6][^c-da71cd68d866765b2b29ec329b5d9ce6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Interpretation.[^key-da71cd68d866765b2b29ec329b5d9ce6][^key-da71cd68d866765b2b29ec329b5d9ce6]
+## 7. Increase of grants to be defrayed out of moneys provided by Parliament.[^c-da71cd68d866765b2b29ec329b5d9ce6][^c-da71cd68d866765b2b29ec329b5d9ce6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Application to Scotland.[^key-da71cd68d866765b2b29ec329b5d9ce6][^key-da71cd68d866765b2b29ec329b5d9ce6]
+## 8. Interpretation.[^c-da71cd68d866765b2b29ec329b5d9ce6][^c-da71cd68d866765b2b29ec329b5d9ce6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Provisions as to Northern Ireland.[^key-da71cd68d866765b2b29ec329b5d9ce6][^key-da71cd68d866765b2b29ec329b5d9ce6]
+## 9. Application to Scotland.[^c-da71cd68d866765b2b29ec329b5d9ce6][^c-da71cd68d866765b2b29ec329b5d9ce6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Citation.[^key-da71cd68d866765b2b29ec329b5d9ce6][^key-da71cd68d866765b2b29ec329b5d9ce6]
+## 10. Provisions as to Northern Ireland.[^c-da71cd68d866765b2b29ec329b5d9ce6][^c-da71cd68d866765b2b29ec329b5d9ce6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Citation.[^c-da71cd68d866765b2b29ec329b5d9ce6][^c-da71cd68d866765b2b29ec329b5d9ce6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-da71cd68d866765b2b29ec329b5d9ce6]
+## SCHEDULE[^c-da71cd68d866765b2b29ec329b5d9ce6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-da71cd68d866765b2b29ec329b5d9ce6]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/8-9/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-da71cd68d866765b2b29ec329b5d9ce6]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/8-9/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

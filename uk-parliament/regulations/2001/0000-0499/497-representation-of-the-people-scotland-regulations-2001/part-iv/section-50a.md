@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50A. Disapplication of Part IV[^key-866ab468e009c3279be97d0578dea0e8]
+## 50A. Disapplication of Part IV[^c-866ab468e009c3279be97d0578dea0e8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Part does not apply where a postal or proxy vote is being or has been sough
 
 ## Annotations
 
-[^key-866ab468e009c3279be97d0578dea0e8]: Textual amendment: [Reg. 50A](https://www.legislation.gov.uk/uksi/2001/497/regulation/50A) inserted (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [3](https://www.legislation.gov.uk/ssi/2009/35/regulation/3)
+[^c-866ab468e009c3279be97d0578dea0e8]: Textual amendment: [Reg. 50A](https://www.legislation.gov.uk/uksi/2001/497/regulation/50A) inserted (31.3.2009) by [The Absent Voting at Scottish Local Government Elections (Provision of Personal Identifiers) Regulations 2009 (S.S.I. 2009/35)](https://www.legislation.gov.uk/ssi/2009/35), [regs. 1](https://www.legislation.gov.uk/ssi/2009/35/regulation/1), [3](https://www.legislation.gov.uk/ssi/2009/35/regulation/3)

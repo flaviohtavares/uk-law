@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Revocation[^key-bbc6b9053fabb43e2a9fcff27710eaba]
+## 49. Revocation[^c-bbc6b9053fabb43e2a9fcff27710eaba]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The instruments listed in column 1 of the table in schedule 6 are revoked to the
 
 ## Annotations
 
-[^key-bbc6b9053fabb43e2a9fcff27710eaba]: Commencement: Reg. 49 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-bbc6b9053fabb43e2a9fcff27710eaba]: Commencement: Reg. 49 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

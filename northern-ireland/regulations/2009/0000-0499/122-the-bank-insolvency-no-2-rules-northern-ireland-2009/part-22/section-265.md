@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 265. Insolvency practitioner’s security[^key-faa2f4dad4ac6b59207302e5cc699335]
+## 265. Insolvency practitioner’s security[^c-faa2f4dad4ac6b59207302e5cc699335]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-faa2f4dad4ac6b59207302e5cc699335]: Commencement: Rule 265 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-faa2f4dad4ac6b59207302e5cc699335]: Commencement: Rule 265 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

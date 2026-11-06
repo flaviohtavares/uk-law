@@ -22,34 +22,34 @@ summary: ''
 
 Section 23
 
-**1.**[^key-7eeaf51e65e28ee74f4f9945f1adc69c] The Northern Ireland Act 1998 is amended as follows.
+**1.**[^c-7eeaf51e65e28ee74f4f9945f1adc69c] The Northern Ireland Act 1998 is amended as follows.
 
-**2.**[^key-de38476aa6c771c4f431c8a419fdccd6] In section 6(2) (legislative competence), after paragraph (c), insert—
+**2.**[^c-de38476aa6c771c4f431c8a419fdccd6] In section 6(2) (legislative competence), after paragraph (c), insert—
 
 > - (ca) it is incompatible with Article 2(1) of the Protocol on Ireland/ Northern Ireland in the EU withdrawal agreement (rights of individuals);
 
 .
 
-**3.**[^key-4ae271d1ff6b5cab56825f2eddd654bc] In section 24(1) (restrictions on powers of Northern Ireland Ministers and departments), after paragraph (a), insert—
+**3.**[^c-4ae271d1ff6b5cab56825f2eddd654bc] In section 24(1) (restrictions on powers of Northern Ireland Ministers and departments), after paragraph (a), insert—
 
 > - (aa) is incompatible with Article 2(1) of the Protocol on Ireland/ Northern Ireland in the EU withdrawal agreement (rights of individuals);
 
 .
 
-**4.**[^key-9e5ff6136778b79d8296faa8bf062b47] In section 69 (functions of the Northern Ireland Human Rights Commission), after subsection (10), insert—
+**4.**[^c-9e5ff6136778b79d8296faa8bf062b47] In section 69 (functions of the Northern Ireland Human Rights Commission), after subsection (10), insert—
 
 > (10A) For functions of the Commission in relation to Article 2(1) of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement (rights of individuals), see sections 78A to 78E.
 
-**5.**[^key-67026632cf0d0f1392cbe52e2eeec9f0][^key-f6762c4c2a72b4ca030300d31e8be0f7] In section 71 of the Northern Ireland Act 1998 (restrictions on proceedings)—
+**5.**[^c-67026632cf0d0f1392cbe52e2eeec9f0][^c-f6762c4c2a72b4ca030300d31e8be0f7] In section 71 of the Northern Ireland Act 1998 (restrictions on proceedings)—
 
 - (a) in subsection (2B), for “human rights proceedings” substitute “ proceedings which rely on section 7(1)(b) of the Human Rights Act 1998 ”, and
 - (b) in subsection (2C), omit paragraph (a) (including the “and” at the end).
 
-**6.**[^key-2fd5e6daf163a4f4f8b2a5261b399e4e] In section 74 (principal functions of the Equality Commission for Northern Ireland), after subsection (6), insert—
+**6.**[^c-2fd5e6daf163a4f4f8b2a5261b399e4e] In section 74 (principal functions of the Equality Commission for Northern Ireland), after subsection (6), insert—
 
 > (7) For functions of the Commission in relation to Article 2(1) of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement (rights of individuals), see sections 78A to 78E.
 
-**7.**[^key-387946c2426a3c1717af40720ef224fb] After section 78 insert—
+**7.**[^c-387946c2426a3c1717af40720ef224fb] After section 78 insert—
 
 > **Protections deriving from EU withdrawal agreement**
 >
@@ -154,7 +154,7 @@ Section 23
 >
 > The Northern Ireland Human Rights Commission and the Equality Commission for Northern Ireland may arrange for any of their functions under sections 78A to 78D to be carried out by one of them acting on behalf of the other (or by them acting jointly).
 
-**8.**[^key-7b020379447512241bfff43ea14c6338] In Schedule 3 (reserved matters), in paragraph 42, after paragraph (b), insert—
+**8.**[^c-7b020379447512241bfff43ea14c6338] In Schedule 3 (reserved matters), in paragraph 42, after paragraph (b), insert—
 
 > - (ba) in Part VII, sections 78A to 78E;
 
@@ -162,20 +162,20 @@ Section 23
 
 ## Annotations
 
-[^key-7eeaf51e65e28ee74f4f9945f1adc69c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-7eeaf51e65e28ee74f4f9945f1adc69c]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/1) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
 
-[^key-de38476aa6c771c4f431c8a419fdccd6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-de38476aa6c771c4f431c8a419fdccd6]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/2) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
 
-[^key-4ae271d1ff6b5cab56825f2eddd654bc]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-4ae271d1ff6b5cab56825f2eddd654bc]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/3) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
 
-[^key-9e5ff6136778b79d8296faa8bf062b47]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-9e5ff6136778b79d8296faa8bf062b47]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/4) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
 
-[^key-67026632cf0d0f1392cbe52e2eeec9f0]: Commencement: Sch. 3 para. 5 in force at 23.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 4](https://www.legislation.gov.uk/uksi/2020/317/regulation/4)
+[^c-67026632cf0d0f1392cbe52e2eeec9f0]: Commencement: Sch. 3 para. 5 in force at 23.3.2020 by [S.I. 2020/317](https://www.legislation.gov.uk/uksi/2020/317), [reg. 4](https://www.legislation.gov.uk/uksi/2020/317/regulation/4)
 
-[^key-f6762c4c2a72b4ca030300d31e8be0f7]: Commencement: Sch. 3 para. 5 in force at 19.5.2020 in so far as not already in force by virtue of the commencement of s. 23 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/k)
+[^c-f6762c4c2a72b4ca030300d31e8be0f7]: Commencement: Sch. 3 para. 5 in force at 19.5.2020 in so far as not already in force by virtue of the commencement of s. 23 by [S.I. 2020/518](https://www.legislation.gov.uk/uksi/2020/518), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2020/518/regulation/2/k)
 
-[^key-2fd5e6daf163a4f4f8b2a5261b399e4e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-2fd5e6daf163a4f4f8b2a5261b399e4e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/6) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
 
-[^key-387946c2426a3c1717af40720ef224fb]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-387946c2426a3c1717af40720ef224fb]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/7) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
 
-[^key-7b020379447512241bfff43ea14c6338]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/8) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)
+[^c-7b020379447512241bfff43ea14c6338]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2020/1/schedule/3/paragraph/8) in force at 31.12.2020 by [S.I. 2020/1622](https://www.legislation.gov.uk/uksi/2020/1622), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2020/1622/regulation/5/i)

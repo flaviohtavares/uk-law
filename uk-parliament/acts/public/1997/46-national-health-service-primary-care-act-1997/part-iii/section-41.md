@@ -38,13 +38,13 @@ summary: ''
 
 (9) Orders under subsections (3), (8) and (13) must be made by statutory instrument.
 
-(10)[^key-09a5e381c62c934ffd25632122be1277] Part I of Schedule 2 makes minor and consequential amendments.
+(10)[^c-09a5e381c62c934ffd25632122be1277] Part I of Schedule 2 makes minor and consequential amendments.
 
 (11) Part II of Schedule 2 makes amendments to facilitate, or which are otherwise desirable in connection with, the consolidation of certain enactments relating to the health service.
 
 (12) The repeals and revocations set out in Schedule 3 are to have effect.
 
-(13)[^key-db3ef45b3a788061f4c755e0bd68fb36] The Secretary of State may by order make such amendments or repeals of any enactment passed before, or in the same Session as, this Act as appear to him necessary or expedient in consequence of any provision of this Act.
+(13)[^c-db3ef45b3a788061f4c755e0bd68fb36] The Secretary of State may by order make such amendments or repeals of any enactment passed before, or in the same Session as, this Act as appear to him necessary or expedient in consequence of any provision of this Act.
 
 (14) An order under subsection (13)—
 
@@ -71,6 +71,6 @@ summary: ''
 
     S. 41(3)(4) power partly exercised (17.11.1998): different dates appointed for specified provisions by [S.I. 1998/2840](https://www.legislation.gov.uk/uksi/1998/2840), [art. 2](https://www.legislation.gov.uk/uksi/1998/2840/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/2840/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/1998/2840/article/3))
 
-[^key-09a5e381c62c934ffd25632122be1277]: Commencement: S. 41(10) in force at 1.4.2004 for specified purposes for W. by [S.I. 2004/287](https://www.legislation.gov.uk/uksi/2004/287), [art. 3](https://www.legislation.gov.uk/uksi/2004/287/article/3)
+[^c-09a5e381c62c934ffd25632122be1277]: Commencement: S. 41(10) in force at 1.4.2004 for specified purposes for W. by [S.I. 2004/287](https://www.legislation.gov.uk/uksi/2004/287), [art. 3](https://www.legislation.gov.uk/uksi/2004/287/article/3)
 
-[^key-db3ef45b3a788061f4c755e0bd68fb36]: Modification: S. 41(13) modified (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 2 para. 1(6)(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/1/6/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))
+[^c-db3ef45b3a788061f4c755e0bd68fb36]: Modification: S. 41(13) modified (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 2 para. 1(6)(a)](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/paragraph/1/6/a) (with [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/3/part/1))

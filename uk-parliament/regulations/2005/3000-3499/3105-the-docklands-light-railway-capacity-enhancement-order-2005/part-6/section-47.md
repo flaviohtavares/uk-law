@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Application of landlord and tenant law[^key-abde581609358c51e932ba54817f5a6e]
+## 47. Application of landlord and tenant law[^c-abde581609358c51e932ba54817f5a6e]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abde581609358c51e932ba54817f5a6e]: Commencement: Art. 47 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-abde581609358c51e932ba54817f5a6e]: Commencement: Art. 47 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

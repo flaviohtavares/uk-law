@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 189. Interest and penalties[^key-7e32204fec7da810ea35ed6cc9939b69]
+## 189. Interest and penalties[^c-7e32204fec7da810ea35ed6cc9939b69]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e32204fec7da810ea35ed6cc9939b69]: Commencement: S. 189 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-7e32204fec7da810ea35ed6cc9939b69]: Commencement: S. 189 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

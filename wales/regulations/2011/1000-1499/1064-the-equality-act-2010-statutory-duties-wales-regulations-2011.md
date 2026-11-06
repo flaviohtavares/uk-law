@@ -45,13 +45,13 @@ A draft of these Regulations was laid before and approved by a resolution of the
 
 The Welsh Ministers, in exercise of these powers, make the following Regulations:
 
-## 1. Title, commencement and application[^key-e550955eb5036966708212f3ff9772a9]
+## 1. Title, commencement and application[^c-e550955eb5036966708212f3ff9772a9]
 
 (1) The title of these Regulations is the Equality Act 2010 (Statutory Duties) (Wales) Regulations 2011.
 
 (2) These Regulations come into force on 6 April 2011.
 
-## 2. Interpretation[^key-c1bf440e3fd79c0a92092da2c5bcc23c]
+## 2. Interpretation[^c-c1bf440e3fd79c0a92092da2c5bcc23c]
 
 In these Regulations—
 
@@ -72,7 +72,7 @@ In these Regulations—
 - “relevant information” (“*gwybodaeth berthnasol*”) means information that relates to compliance (or otherwise) by the authority with the general duty; and
 - “reporting period” (“*cyfnod adrodd*”) means the period 1 April to 31 March except in relation to the reporting period ending 31 March 2012 in which case “reporting period” means the period 6 April 2011 to 31 March 2012.
 
-## 3. Equality objectives[^key-b6177e0440983bd45e690e5f084461ca]
+## 3. Equality objectives[^c-b6177e0440983bd45e690e5f084461ca]
 
 (1) An authority must publish objectives that are designed to enable it to better perform the general duty.
 
@@ -89,7 +89,7 @@ In these Regulations such objectives are referred to as “equality objectives�
 
 (4) Paragraph (3) applies even if an authority publishes an equality objective for the purpose referred to in regulation 11(1) (and for that reason such an objective is to be ignored for the purpose of paragraph (3)).
 
-## 4. Preparation and review etc. of equality objectives[^key-a673eb2fdc4ac16d01a379784ab7a2f8]
+## 4. Preparation and review etc. of equality objectives[^c-a673eb2fdc4ac16d01a379784ab7a2f8]
 
 (1) When considering what its equality objectives should be and when designing any equality objective (or any revision to such an objective) the authority must—
 
@@ -114,7 +114,7 @@ In these Regulations such objectives are referred to as “equality objectives�
 
 (7) If an authority does any of the things referred to in paragraph (5) it must either amend the statement published by it under regulation 3(2) or publish a new statement.
 
-## 5. Engagement provisions[^key-2b85aa00f340e6968568211fcda6ec30]
+## 5. Engagement provisions[^c-2b85aa00f340e6968568211fcda6ec30]
 
 (1) The provisions in paragraph (2) are referred to in these Regulations as “the engagement provisions”.
 
@@ -131,13 +131,13 @@ In these Regulations such objectives are referred to as “equality objectives�
 - (a) share one or more of the protected characteristics; and
 - (b) have an interest in the way that the authority carries out its functions.
 
-## 6. Accessibility of published information[^key-a4f91165c2f2bc1856acb39d8a4c9236]
+## 6. Accessibility of published information[^c-a4f91165c2f2bc1856acb39d8a4c9236]
 
 (1) This regulation applies to any document or information that an authority is required by these Regulations to publish.
 
 (2) The authority must take all reasonable steps to ensure that the document or information is accessible by persons who share one or more protected characteristics.
 
-## 7. Arrangements for collection etc. of information about compliance with the general duty[^key-0c24839784a9eaa3e90edf2ca52071f7]
+## 7. Arrangements for collection etc. of information about compliance with the general duty[^c-0c24839784a9eaa3e90edf2ca52071f7]
 
 (1) An authority must make such arrangements as it considers appropriate to ensure that, from time to time, it—
 
@@ -175,7 +175,7 @@ For further provision about what the arrangements must contain see also regulati
 - (a) carries out an assessment referred to in paragraph (4); and
 - (b) publishes relevant information that it holds and which it considers appropriate to publish.
 
-## 8. Impact and monitoring of policies and practices[^key-e875bc182f4c6c564a6faf2bd03af23d]
+## 8. Impact and monitoring of policies and practices[^c-e875bc182f4c6c564a6faf2bd03af23d]
 
 (1) An authority must make such arrangements as it considers appropriate for—
 
@@ -208,7 +208,7 @@ For further provision about what the arrangements must contain see also regulati
 - (a) comply with the engagement provisions; and
 - (b) have due regard to relevant information that it holds.
 
-## 9. Training and collection of employment information[^key-ca281af9ae993e80c5baa69f2ac905ed]
+## 9. Training and collection of employment information[^c-ca281af9ae993e80c5baa69f2ac905ed]
 
 (1) An authority must, in each year, collect the following information—
 
@@ -241,12 +241,12 @@ For further provision about what the arrangements must contain see also regulati
 - (a) any employee of the authority; and
 - (b) any person who applies for employment with the authority.
 
-**10.**[^key-0fb958470f32250a7376f35b7e2a38fc] An authority must make such arrangements as it considers appropriate for—
+**10.**[^c-0fb958470f32250a7376f35b7e2a38fc] An authority must make such arrangements as it considers appropriate for—
 
 - (a) promoting amongst its employees knowledge and understanding of the general duty and the duties in these Regulations; and
 - (b) for using its performance assessment procedures (if any) to identify and address the training needs of its employees in relation to those duties.
 
-## 11. Pay and action plans[^key-cc857a7fd4e65577d89d784230fa4508]
+## 11. Pay and action plans[^c-cc857a7fd4e65577d89d784230fa4508]
 
 (1) An authority must, when considering what its equality objectives should be, have due regard to the need to have equality objectives that address the causes of any differences between the pay of any person or persons employed by the authority (“P”) who (as the case may be)—
 
@@ -271,7 +271,7 @@ The second condition is that it appears to the authority to be reasonably likely
 
 the authority must publish reasons for its decision not to publish such an objective.
 
-**12.**[^key-bcfa58f364c58255e183e3a4133a8a42] (1) An authority must publish an action plan setting out—
+**12.**[^c-bcfa58f364c58255e183e3a4133a8a42] (1) An authority must publish an action plan setting out—
 
 - (a) any policy of the authority that relates to the need to address the causes of any gender pay difference;
 - (b) any gender pay equality objective published by it;
@@ -281,7 +281,7 @@ the authority must publish reasons for its decision not to publish such an objec
 
 (2) If, in respect of a gender pay equality objective, an authority does any of the things referred to in regulation 4(5) it must either amend the action plan published by it or publish a new action plan.
 
-## 13. Review etc. of arrangements[^key-cfe45ec5de2a3568261d670f917cb5e3]
+## 13. Review etc. of arrangements[^c-cfe45ec5de2a3568261d670f917cb5e3]
 
 (1) An authority must keep the arrangements to which this regulation applies under review.
 
@@ -294,7 +294,7 @@ the authority must publish reasons for its decision not to publish such an objec
 - (iii) regulation 8(1); and
 - (iv) regulation 10.
 
-## 14. Strategic Equality Plans[^key-0e442f1f34ba764aa825a60fbe80c9a0]
+## 14. Strategic Equality Plans[^c-0e442f1f34ba764aa825a60fbe80c9a0]
 
 (1) Not later than 2 April 2012, an authority must make a Strategic Equality Plan (SEP).
 
@@ -316,7 +316,7 @@ the authority must publish reasons for its decision not to publish such an objec
 
 (4) The authority may revise or remake its SEP at any time.
 
-## 15. Preparation, publication and review of SEPs[^key-46135cda27dd16612e3f5c1ab328d473]
+## 15. Preparation, publication and review of SEPs[^c-46135cda27dd16612e3f5c1ab328d473]
 
 (1) In making, remaking or revising a SEP the authority must—
 
@@ -341,7 +341,7 @@ the authority must publish reasons for its decision not to publish such an objec
 - (i) relevant information that it holds; and
 - (ii) any other information that the authority considers would be likely to assist it in the review.
 
-## 16. Reports by authorities on compliance with the general duty[^key-0271a7e2507af34f114dcacf165849fc]
+## 16. Reports by authorities on compliance with the general duty[^c-0271a7e2507af34f114dcacf165849fc]
 
 (1) An authority must, in respect of each reporting period, publish a report not later than the relevant date in the year following the year in which that reporting period ends.
 
@@ -360,7 +360,7 @@ the authority must publish reasons for its decision not to publish such an objec
 
 (4) The authority may comply with the duty to publish a report under paragraph (1) by setting out its report (including any matter referred to in paragraph (3)) as part of another published document or within a number of other published documents.
 
-## 17. Reports by Welsh Ministers on compliance with the general duty etc. by authorities[^key-9fbf74ef642a52c658d598a6d6e32093]
+## 17. Reports by Welsh Ministers on compliance with the general duty etc. by authorities[^c-9fbf74ef642a52c658d598a6d6e32093]
 
 (1) The Welsh Ministers must, in accordance with paragraph (2), publish reports that set out an overview of the progress made by authorities towards compliance by those authorities with the general duty.
 
@@ -382,19 +382,19 @@ the authority must publish reasons for its decision not to publish such an objec
 
 (5) Reports under this regulation must also set out the Welsh Ministers' proposals for the coordination of action by authorities so as to bring about further progress towards compliance by those authorities with the general duty.
 
-## 18. Public procurement[^key-68da297b7662c3a22ce55ae28e4d48cd]
+## 18. Public procurement[^c-68da297b7662c3a22ce55ae28e4d48cd]
 
-(1) Where an authority that is a contracting authority proposes to award a public contract following a competitive tendering procedure[^key-f1edfd607573ceb1e86f548467f74b99] it must have due regard to whether the award criteria should include considerations relevant to its performance of the general duty.
+(1) Where an authority that is a contracting authority proposes to award a public contract following a competitive tendering procedure[^c-f1edfd607573ceb1e86f548467f74b99] it must have due regard to whether the award criteria should include considerations relevant to its performance of the general duty.
 
-(2) Where an authority that is a contracting authority proposes to stipulate conditions relating to the performance of a public contract[^key-cd623f36429fc13595cf48f236d90d05] it must have due regard to whether the conditions should include considerations relevant to its performance of the general duty.
+(2) Where an authority that is a contracting authority proposes to stipulate conditions relating to the performance of a public contract[^c-cd623f36429fc13595cf48f236d90d05] it must have due regard to whether the conditions should include considerations relevant to its performance of the general duty.
 
-(3)[^key-cd1e86cad7044299a8f4da2420e14c14] In this regulation, “**award criteria**” (“***meini prawf***”), “**competitive tendering procedure**” (“***gweithdrefn dendro gystadleuol***”), “**contracting authority**” (“*awdurdod* *contractio*”), and “**public contract**” (“***contract cyhoeddus***”) have the same meaning as in the Procurement Act 2023.
+(3)[^c-cd1e86cad7044299a8f4da2420e14c14] In this regulation, “**award criteria**” (“***meini prawf***”), “**competitive tendering procedure**” (“***gweithdrefn dendro gystadleuol***”), “**contracting authority**” (“*awdurdod* *contractio*”), and “**public contract**” (“***contract cyhoeddus***”) have the same meaning as in the Procurement Act 2023.
 
-## 19. Compliance with duties by Welsh Ministers etc.[^key-674966c758d55d2f0dfc756bf89ab4c2]
+## 19. Compliance with duties by Welsh Ministers etc.[^c-674966c758d55d2f0dfc756bf89ab4c2]
 
 Where the Welsh Ministers, the First Minister for Wales and the Counsel General to the Welsh Assembly Government are required by these Regulations to prepare a SEP, publish a report or do any other thing, they may comply with the duty by acting jointly.
 
-## 20. Disclosure of information[^key-7ee0a98d0181d22cb991d2f16be04d66]
+## 20. Disclosure of information[^c-7ee0a98d0181d22cb991d2f16be04d66]
 
 Nothing in these Regulations is to be taken to require an authority to publish information if—
 
@@ -467,52 +467,52 @@ Regulation 20 states that nothing in these Regulations should be taken as to req
 
 [^f00001]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-e550955eb5036966708212f3ff9772a9]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-e550955eb5036966708212f3ff9772a9]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-c1bf440e3fd79c0a92092da2c5bcc23c]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-c1bf440e3fd79c0a92092da2c5bcc23c]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-b6177e0440983bd45e690e5f084461ca]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-b6177e0440983bd45e690e5f084461ca]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-a673eb2fdc4ac16d01a379784ab7a2f8]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-a673eb2fdc4ac16d01a379784ab7a2f8]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-2b85aa00f340e6968568211fcda6ec30]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-2b85aa00f340e6968568211fcda6ec30]: Commencement: Reg. 5 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-a4f91165c2f2bc1856acb39d8a4c9236]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-a4f91165c2f2bc1856acb39d8a4c9236]: Commencement: Reg. 6 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-0c24839784a9eaa3e90edf2ca52071f7]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-0c24839784a9eaa3e90edf2ca52071f7]: Commencement: Reg. 7 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-e875bc182f4c6c564a6faf2bd03af23d]: Commencement: Reg. 8 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-e875bc182f4c6c564a6faf2bd03af23d]: Commencement: Reg. 8 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-ca281af9ae993e80c5baa69f2ac905ed]: Commencement: Reg. 9 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-ca281af9ae993e80c5baa69f2ac905ed]: Commencement: Reg. 9 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-0fb958470f32250a7376f35b7e2a38fc]: Commencement: Reg. 10 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-0fb958470f32250a7376f35b7e2a38fc]: Commencement: Reg. 10 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-cc857a7fd4e65577d89d784230fa4508]: Commencement: Reg. 11 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-cc857a7fd4e65577d89d784230fa4508]: Commencement: Reg. 11 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-bcfa58f364c58255e183e3a4133a8a42]: Commencement: Reg. 12 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-bcfa58f364c58255e183e3a4133a8a42]: Commencement: Reg. 12 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-cfe45ec5de2a3568261d670f917cb5e3]: Commencement: Reg. 13 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-cfe45ec5de2a3568261d670f917cb5e3]: Commencement: Reg. 13 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-0e442f1f34ba764aa825a60fbe80c9a0]: Commencement: Reg. 14 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-0e442f1f34ba764aa825a60fbe80c9a0]: Commencement: Reg. 14 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-46135cda27dd16612e3f5c1ab328d473]: Commencement: Reg. 15 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-46135cda27dd16612e3f5c1ab328d473]: Commencement: Reg. 15 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-0271a7e2507af34f114dcacf165849fc]: Commencement: Reg. 16 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-0271a7e2507af34f114dcacf165849fc]: Commencement: Reg. 16 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-9fbf74ef642a52c658d598a6d6e32093]: Commencement: Reg. 17 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-9fbf74ef642a52c658d598a6d6e32093]: Commencement: Reg. 17 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
 [^f00002]: Footnote: S.I. [2005/2966](https://www.legislation.gov.uk/uksi/2005/2966). By virtue of regulation 5(1) and (3) of and Schedule 2 to those Regulations the National Assembly for Wales constituted by the Government of Wales Act [1998 (c. 38)](https://www.legislation.gov.uk/ukpga/1998/38) was a reporting authority for the purposes of regulation 5. That function was transferred, immediately after the end of the initial period, to the Welsh Ministers by virtue of the operation of paragraph 30(1) of Schedule 11 to the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32). The “initial period” is defined in section 161(5) of the 2006 Act and “function” is defined in section 158(1) of that Act.
 
-[^key-68da297b7662c3a22ce55ae28e4d48cd]: Commencement: Reg. 18 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-68da297b7662c3a22ce55ae28e4d48cd]: Commencement: Reg. 18 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-f1edfd607573ceb1e86f548467f74b99]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/18/1) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [50(2)(a)](https://www.legislation.gov.uk/wsi/2024/782/regulation/50/2/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-f1edfd607573ceb1e86f548467f74b99]: Textual amendment: Words in [reg. 18(1)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/18/1) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [50(2)(a)](https://www.legislation.gov.uk/wsi/2024/782/regulation/50/2/a) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-cd623f36429fc13595cf48f236d90d05]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/18/2) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [50(2)(b)](https://www.legislation.gov.uk/wsi/2024/782/regulation/50/2/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-cd623f36429fc13595cf48f236d90d05]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/18/2) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [50(2)(b)](https://www.legislation.gov.uk/wsi/2024/782/regulation/50/2/b) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-cd1e86cad7044299a8f4da2420e14c14]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/18/3) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [50(2)(c)](https://www.legislation.gov.uk/wsi/2024/782/regulation/50/2/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-cd1e86cad7044299a8f4da2420e14c14]: Textual amendment: [Reg. 18(3)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/18/3) substituted (24.2.2025) by [The Procurement (Wales) Regulations 2024 (S.I. 2024/782)](https://www.legislation.gov.uk/wsi/2024/782), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/782/regulation/1/2), [50(2)(c)](https://www.legislation.gov.uk/wsi/2024/782/regulation/50/2/c) (with [reg. 2](https://www.legislation.gov.uk/wsi/2024/782/regulation/2)) ([S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
 
-[^key-674966c758d55d2f0dfc756bf89ab4c2]: Commencement: Reg. 19 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-674966c758d55d2f0dfc756bf89ab4c2]: Commencement: Reg. 19 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
-[^key-7ee0a98d0181d22cb991d2f16be04d66]: Commencement: Reg. 20 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
+[^c-7ee0a98d0181d22cb991d2f16be04d66]: Commencement: Reg. 20 in force at 6.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1064/regulation/1/2)
 
 [^f00004]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).

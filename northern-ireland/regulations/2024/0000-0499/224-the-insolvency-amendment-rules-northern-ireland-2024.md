@@ -46,15 +46,15 @@ The Department of Justice makes the following Rules in exercise of the power con
 
 In accordance with Article 360 of the Insolvency (Northern Ireland) Order 1989, the Department of Justice has consulted the Committee appointed for the purposes of Article 360 of that Article.
 
-## 1. Citation and commencement[^key-d6f23b16d025861c4dd24e4d89885aee]
+## 1. Citation and commencement[^c-d6f23b16d025861c4dd24e4d89885aee]
 
 These Rules may be cited as the Insolvency (Amendment) Rules (Northern Ireland) 2024 and come into operation on 10th January 2025.
 
-## 2. Transitional provision[^key-39a473570b378cc28360f9351fea812c]
+## 2. Transitional provision[^c-39a473570b378cc28360f9351fea812c]
 
 The amendment made by rule 3 applies only in relation to applications for a debt relief order made under Article 208B(1)[^f00003] of the Insolvency (Northern Ireland) Order 1989 on or after the 10th January 2025.
 
-## 3. Amendments to the Insolvency Rules (Northern Ireland) 1991[^key-cfcc397c08751ae497afe5235854f1d8]
+## 3. Amendments to the Insolvency Rules (Northern Ireland) 1991[^c-cfcc397c08751ae497afe5235854f1d8]
 
 (1) The Insolvency Rules (Northern Ireland) 1991[^f00004] are amended as follows.
 
@@ -96,12 +96,12 @@ An Explanatory Memorandum has been prepared and is available alongside these Rul
 
 [^f00002]: Footnote: Formerly the Department of Enterprise, Trade, and Investment, see the Departments Act (Northern Ireland) 2016 ([2016 c.5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5) section 1(3) and Schedule 1).
 
-[^key-d6f23b16d025861c4dd24e4d89885aee]: Commencement: Rule 1 in operation at 10.1.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2024/224/rule/1)
+[^c-d6f23b16d025861c4dd24e4d89885aee]: Commencement: Rule 1 in operation at 10.1.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2024/224/rule/1)
 
-[^key-39a473570b378cc28360f9351fea812c]: Commencement: Rule 2 in operation at 10.1.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2024/224/rule/1)
+[^c-39a473570b378cc28360f9351fea812c]: Commencement: Rule 2 in operation at 10.1.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2024/224/rule/1)
 
 [^f00003]: Footnote: Article 208B was inserted by s. 1(b) of the Debt Relief Act (Northern Ireland) [2010 (c. 16)](https://www.legislation.gov.uk/ukpga/2010/16).
 
-[^key-cfcc397c08751ae497afe5235854f1d8]: Commencement: Rule 3 in operation at 10.1.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2024/224/rule/1)
+[^c-cfcc397c08751ae497afe5235854f1d8]: Commencement: Rule 3 in operation at 10.1.2025, see [rule 1](https://www.legislation.gov.uk/nisr/2024/224/rule/1)
 
 [^f00004]: Footnote: The Insolvency Rules (Northern Ireland) 1991 ([S.R 1991 No. 364](https://www.legislation.gov.uk/nisr/1991/364)) to which relevant amendments are made by the Insolvency (Amendment) Rules (Northern Ireland) 2011 ([S.R. 2011 No. 151](https://www.legislation.gov.uk/nisr/2011/151)), and the Insolvency (Amendment) Rules (Northern Ireland) 2013 ([S.R. 2013 No. 278](https://www.legislation.gov.uk/nisr/2013/278)).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Minor and consequential amendments[^key-7c6c74dd10749b09a6dfefbfb8bdf93f][^key-915ef77bcf2b071d1163fbe1526c0fb9]
+## 98. Minor and consequential amendments[^c-7c6c74dd10749b09a6dfefbfb8bdf93f][^c-915ef77bcf2b071d1163fbe1526c0fb9]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c6c74dd10749b09a6dfefbfb8bdf93f]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/21/section/98) in force at Royal Assent for specified purposes, see [s. 100(2)(e)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e/g)
+[^c-7c6c74dd10749b09a6dfefbfb8bdf93f]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/21/section/98) in force at Royal Assent for specified purposes, see [s. 100(2)(e)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/e/g)
 
-[^key-915ef77bcf2b071d1163fbe1526c0fb9]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/21/section/98) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(v)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/v)
+[^c-915ef77bcf2b071d1163fbe1526c0fb9]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/21/section/98) in force at 12.12.2025 in so far as not already in force by [S.I. 2025/1286](https://www.legislation.gov.uk/uksi/2025/1286), [reg. 2(1)(e)(v)](https://www.legislation.gov.uk/uksi/2025/1286/regulation/2/1/e/v)

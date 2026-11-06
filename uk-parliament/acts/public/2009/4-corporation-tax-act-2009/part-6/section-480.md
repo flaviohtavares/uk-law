@@ -41,7 +41,7 @@ summary: ''
 
 (4) Condition B is that, assuming that the money debt will be paid in full, it does not fall to be brought into account for corporation tax purposes as a trading receipt of the company.
 
-(5)[^key-034e838a60d68a8a0f0dbd2f22e4cbd2] For the purposes of this section, a discount is, in particular, taken to arise from a money debt if—
+(5)[^c-034e838a60d68a8a0f0dbd2f22e4cbd2] For the purposes of this section, a discount is, in particular, taken to arise from a money debt if—
 
 - (a) there is a sale of property for consideration some or all of which is money which falls to be paid after the sale,
 - (b) the amount or value of the whole consideration exceeds what the purchaser would have paid for the property if payment in full had been required at the time of the sale, and
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-034e838a60d68a8a0f0dbd2f22e4cbd2]: Modification: S. 480(5) applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [Mutual Societies (Transfers of Business) (Tax) Regulations 2009 (S.I. 2009/2971)](https://www.legislation.gov.uk/uksi/2009/2971), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2971/regulation/1/1), [19(10)](https://www.legislation.gov.uk/uksi/2009/2971/regulation/19/10), [22(9)](https://www.legislation.gov.uk/uksi/2009/2971/regulation/22/9), [24(5)](https://www.legislation.gov.uk/uksi/2009/2971/regulation/24/5)
+[^c-034e838a60d68a8a0f0dbd2f22e4cbd2]: Modification: S. 480(5) applied (with effect in accordance with reg. 1(2) of the amending S.I.) by [Mutual Societies (Transfers of Business) (Tax) Regulations 2009 (S.I. 2009/2971)](https://www.legislation.gov.uk/uksi/2009/2971), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/2971/regulation/1/1), [19(10)](https://www.legislation.gov.uk/uksi/2009/2971/regulation/19/10), [22(9)](https://www.legislation.gov.uk/uksi/2009/2971/regulation/22/9), [24(5)](https://www.legislation.gov.uk/uksi/2009/2971/regulation/24/5)

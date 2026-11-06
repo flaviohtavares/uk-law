@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Application of the 1991 Act[^key-89436c79cc4541e45d522d3a8eb268de]
+## 11. Application of the 1991 Act[^c-89436c79cc4541e45d522d3a8eb268de]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-89436c79cc4541e45d522d3a8eb268de]: Commencement: Art. 11 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-89436c79cc4541e45d522d3a8eb268de]: Commencement: Art. 11 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

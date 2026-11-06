@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Disapplication of section 49(2) of the Act[^key-386d460ab7e8edc226efbef7859ba174]
+## 97. Disapplication of section 49(2) of the Act[^c-386d460ab7e8edc226efbef7859ba174]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 49 of the Act (persons connected with an applicant for Part 4 permiss
 
 ## Annotations
 
-[^key-386d460ab7e8edc226efbef7859ba174]: Textual amendment: Pt. 6 and heading inserted (15.7.2004) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2004 (S.I. 2004/1610)](https://www.legislation.gov.uk/uksi/2004/1610), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1610/article/1/2), [3](https://www.legislation.gov.uk/uksi/2004/1610/article/3)
+[^c-386d460ab7e8edc226efbef7859ba174]: Textual amendment: Pt. 6 and heading inserted (15.7.2004) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2004 (S.I. 2004/1610)](https://www.legislation.gov.uk/uksi/2004/1610), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/1610/article/1/2), [3](https://www.legislation.gov.uk/uksi/2004/1610/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Temporary stopping up and prohibition or restriction of use of streets and public rights of way[^key-f51a791981bbd0c0610361a90c563ce4]
+## 13. Temporary stopping up and prohibition or restriction of use of streets and public rights of way[^c-f51a791981bbd0c0610361a90c563ce4]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f51a791981bbd0c0610361a90c563ce4]: Commencement: Art. 13 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-f51a791981bbd0c0610361a90c563ce4]: Commencement: Art. 13 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)

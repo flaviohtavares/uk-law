@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Deprivation and driving disqualification orders: minor and consequential amendments[^key-142dcf13369f514fc83c6db280ef8c0a][^key-d36f55c4377e78739bd01f4a55cc50f6][^key-3e4aec88f95434e92f8867f7436f5d76]
+## 16. Deprivation and driving disqualification orders: minor and consequential amendments[^c-142dcf13369f514fc83c6db280ef8c0a][^c-d36f55c4377e78739bd01f4a55cc50f6][^c-3e4aec88f95434e92f8867f7436f5d76]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Schedule 6 to this Act contains amendments that are consequential on, or otherwi
 
 ## Annotations
 
-[^key-142dcf13369f514fc83c6db280ef8c0a]: Commencement: S. 16 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-142dcf13369f514fc83c6db280ef8c0a]: Commencement: S. 16 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-d36f55c4377e78739bd01f4a55cc50f6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/35/section/16) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f)
+[^c-d36f55c4377e78739bd01f4a55cc50f6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/35/section/16) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/f)
 
-[^key-3e4aec88f95434e92f8867f7436f5d76]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/35/section/16) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)
+[^c-3e4aec88f95434e92f8867f7436f5d76]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2021/35/section/16) in force at 1.4.2023 in so far as not already in force by [S.I. 2023/158](https://www.legislation.gov.uk/uksi/2023/158), [reg. 3](https://www.legislation.gov.uk/uksi/2023/158/regulation/3)

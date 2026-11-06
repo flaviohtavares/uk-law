@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Introductory[^key-e04c20554ed06630ebe7880d61c43391]
+## 7. Introductory[^c-e04c20554ed06630ebe7880d61c43391]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - “**children's service**” means any service provided in the area of a local authority by a person mentioned in subsection (2) which is provided wholly or mainly to, or for the benefit of—
   - (a) children generally, or
   - (b) children with needs of a particular type (such as looked after children or children with a disability or a need for additional support in learning),
-- “[^key-315fa3cd7a5448f88ee173f562f97450]**lead children’s services planning bodies**” means, in relation to the area of a local authority—
+- “[^c-315fa3cd7a5448f88ee173f562f97450]**lead children’s services planning bodies**” means, in relation to the area of a local authority—
   - (a) where there is a relevant integration joint board—
     - (i) the local authority,
     - (ii) the relevant health board, and
@@ -39,7 +39,7 @@ summary: ''
   - (c) the Principal Reporter,
   - (d) the National Convener of Children's Hearings Scotland,
   - (e) the Scottish Court Service,
-  - (f) an integration joint board established by order under section 9 of the Public Bodies (Joint Working) (Scotland) Act 2014.[^key-583d3a70dc41ca513c6df5f9f9c931b2] *(affected by repeal, see note)*[^key-1b427f51a0fb7792f3f30c187c7f5d18]
+  - (f) an integration joint board established by order under section 9 of the Public Bodies (Joint Working) (Scotland) Act 2014.[^c-583d3a70dc41ca513c6df5f9f9c931b2] *(affected by repeal, see note)*[^c-1b427f51a0fb7792f3f30c187c7f5d18]
 - “**related service**” means any service provided in the area of a local authority by a person mentioned in subsection (2) which though not a children's service is capable of having a significant effect on the wellbeing of children,
 - “**relevant health board**” means––
   - (a) if the area of the local authority is the same as that of a health board, that health board,
@@ -76,10 +76,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e04c20554ed06630ebe7880d61c43391]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/8/section/7) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
+[^c-e04c20554ed06630ebe7880d61c43391]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/8/section/7) in force at 7.10.2016 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2016/254/article/3/1/a)
 
-[^key-315fa3cd7a5448f88ee173f562f97450]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2014/8/section/7/1) inserted (30.9.2026 for specified purposes) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 60(2)(a)(i)](https://www.legislation.gov.uk/asp/2026/16/section/60/2/a/i), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-315fa3cd7a5448f88ee173f562f97450]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2014/8/section/7/1) inserted (30.9.2026 for specified purposes) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 60(2)(a)(i)](https://www.legislation.gov.uk/asp/2026/16/section/60/2/a/i), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
 
-[^key-583d3a70dc41ca513c6df5f9f9c931b2]: Textual amendment: Words in s. 7(1) inserted (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 58](https://www.legislation.gov.uk/asp/2014/9/section/58), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
+[^c-583d3a70dc41ca513c6df5f9f9c931b2]: Textual amendment: Words in s. 7(1) inserted (22.9.2014) by [Public Bodies (Joint Working) (Scotland) Act 2014 (asp 9)](https://www.legislation.gov.uk/asp/2014/9), [ss. 58](https://www.legislation.gov.uk/asp/2014/9/section/58), [72(2)](https://www.legislation.gov.uk/asp/2014/9/section/72/2); [S.S.I. 2014/231](https://www.legislation.gov.uk/ssi/2014/231), [art. 2](https://www.legislation.gov.uk/ssi/2014/231/article/2)
 
-[^key-1b427f51a0fb7792f3f30c187c7f5d18]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2014/8/section/7/1) repealed (30.9.2026 for specified purposes) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 60(2)(a)(ii)](https://www.legislation.gov.uk/asp/2026/16/section/60/2/a/ii), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-1b427f51a0fb7792f3f30c187c7f5d18]: Textual amendment: Words in [s. 7(1)](https://www.legislation.gov.uk/asp/2014/8/section/7/1) repealed (30.9.2026 for specified purposes) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 60(2)(a)(ii)](https://www.legislation.gov.uk/asp/2026/16/section/60/2/a/ii), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

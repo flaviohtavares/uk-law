@@ -29,7 +29,7 @@ summary: ''
   - (ii) Velindre;
 - (d) a National Park authority for a National Park in Wales;
 - (e) a Welsh fire and rescue authority;
-- (f) the Commission for Tertiary Education and Research[^key-05fa60200c67c6e954912150978b50dc];
+- (f) the Commission for Tertiary Education and Research[^c-05fa60200c67c6e954912150978b50dc];
 - (g) the Arts Council of Wales;
 - (h) the Sports Council for Wales;
 - (i) the National Library of Wales;
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05fa60200c67c6e954912150978b50dc]: Textual amendment: Words in [s. 10(1)(f)](https://www.legislation.gov.uk/anaw/2016/3/section/10/1/f) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 36](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/36) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xix)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xix) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))
+[^c-05fa60200c67c6e954912150978b50dc]: Textual amendment: Words in [s. 10(1)(f)](https://www.legislation.gov.uk/anaw/2016/3/section/10/1/f) substituted (1.8.2024) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 36](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/36) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2024/806](https://www.legislation.gov.uk/wsi/2024/806), [art. 2(k)(xix)](https://www.legislation.gov.uk/wsi/2024/806/article/2/k/xix) (with [art. 28](https://www.legislation.gov.uk/wsi/2024/806/article/28))

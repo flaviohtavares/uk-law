@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Practice Committee[^key-2efee91cba469e0ca7bc25dab2aedc98][^key-e13f375934f35849cdfa89cfecf57907]
+## 53. Practice Committee[^c-2efee91cba469e0ca7bc25dab2aedc98][^c-e13f375934f35849cdfa89cfecf57907]
 
 *Extent: S*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2efee91cba469e0ca7bc25dab2aedc98]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2010/16/section/53) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-2efee91cba469e0ca7bc25dab2aedc98]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2010/16/section/53) in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-e13f375934f35849cdfa89cfecf57907]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2010/16/section/53) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-e13f375934f35849cdfa89cfecf57907]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2010/16/section/53) in force at 2.7.2012 in so far as not already in force by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

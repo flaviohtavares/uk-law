@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Publication of results of principal stage[^key-20d12ac44cafc2beb88cd444686aa288]
+## 71. Publication of results of principal stage[^c-20d12ac44cafc2beb88cd444686aa288]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20d12ac44cafc2beb88cd444686aa288]: Commencement: Reg. 71 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-20d12ac44cafc2beb88cd444686aa288]: Commencement: Reg. 71 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

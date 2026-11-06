@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Transitory modification of the Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1998[^key-83aa80315df5fe2dc363819069490d3a]
+## 93. Transitory modification of the Medical Practitioners (Vocational Training) Regulations (Northern Ireland) 1998[^c-83aa80315df5fe2dc363819069490d3a]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83aa80315df5fe2dc363819069490d3a]: Commencement: Art. 93 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-83aa80315df5fe2dc363819069490d3a]: Commencement: Art. 93 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

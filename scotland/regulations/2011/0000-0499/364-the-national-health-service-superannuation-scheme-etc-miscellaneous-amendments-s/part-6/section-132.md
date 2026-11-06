@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132. Amendment of regulation 14[^key-fbffbf50180896538a11105a7a515346]
+## 132. Amendment of regulation 14[^c-fbffbf50180896538a11105a7a515346]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 14 (miscellaneous provisions relating to payment of compensation),
 
 ## Annotations
 
-[^key-fbffbf50180896538a11105a7a515346]: Commencement: [Reg. 132](https://www.legislation.gov.uk/ssi/2011/364/regulation/132) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-fbffbf50180896538a11105a7a515346]: Commencement: [Reg. 132](https://www.legislation.gov.uk/ssi/2011/364/regulation/132) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

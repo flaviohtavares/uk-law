@@ -30,15 +30,15 @@ European Communities (Finance) Act 2008 (repealed)
 
 2008 c. 1
 
-[^key-44e354630621dc9fbaadac3dea50ff99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44e354630621dc9fbaadac3dea50ff99]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Extended meaning of “the Treaties” and “the Community Treaties”[^key-44e354630621dc9fbaadac3dea50ff99]
+## 1. Extended meaning of “the Treaties” and “the Community Treaties”[^c-44e354630621dc9fbaadac3dea50ff99]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title and repeal[^key-44e354630621dc9fbaadac3dea50ff99]
+## 2. Short title and repeal[^c-44e354630621dc9fbaadac3dea50ff99]
 
 **No longer in force.**
 
@@ -46,4 +46,4 @@ European Communities (Finance) Act 2008 (repealed)
 
 ## Annotations
 
-[^key-44e354630621dc9fbaadac3dea50ff99]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2008/1) repealed (21.9.2015) by [European Union (Finance) Act 2015 (c. 32)](https://www.legislation.gov.uk/ukpga/2015/32), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2015/32/section/2/1)
+[^c-44e354630621dc9fbaadac3dea50ff99]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2008/1) repealed (21.9.2015) by [European Union (Finance) Act 2015 (c. 32)](https://www.legislation.gov.uk/ukpga/2015/32), [s. 2(1)](https://www.legislation.gov.uk/ukpga/2015/32/section/2/1)

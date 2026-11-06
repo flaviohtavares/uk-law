@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116A. Exemption for residential annexes: appeal[^key-9030901023128e6233c651ae9ba4a83a]
+## 116A. Exemption for residential annexes: appeal[^c-9030901023128e6233c651ae9ba4a83a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9030901023128e6233c651ae9ba4a83a]: Textual amendment: [Regs. 116A](https://www.legislation.gov.uk/uksi/2010/948/regulation/116A), [116B](https://www.legislation.gov.uk/uksi/2010/948/regulation/116B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2014/385/regulation/11/4)
+[^c-9030901023128e6233c651ae9ba4a83a]: Textual amendment: [Regs. 116A](https://www.legislation.gov.uk/uksi/2010/948/regulation/116A), [116B](https://www.legislation.gov.uk/uksi/2010/948/regulation/116B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [11(4)](https://www.legislation.gov.uk/uksi/2014/385/regulation/11/4)

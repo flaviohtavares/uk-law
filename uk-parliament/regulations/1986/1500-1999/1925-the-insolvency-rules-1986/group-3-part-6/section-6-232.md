@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.232. Proof of bankruptcy debts and notice of order[^key-259ea75717a931a85a7867c0e39114ce]
+## 6.232. Proof of bankruptcy debts and notice of order[^c-259ea75717a931a85a7867c0e39114ce]
 
 *Extent: E+W*
 
@@ -26,12 +26,12 @@ summary: ''
 
 (3) The requirements of the Rules with respect to the proof of debts do not apply to the Official Petitioner.
 
-(4)[^key-b3d22edff16758c3d7934b087f80da60] In criminal bankruptcy, forms of proof shall be sent out by the official receiver within 12 weeks from the making of the bankruptcy order, to every creditor who is known to him, or is identified in the bankrupt’s statement of affairs.
+(4)[^c-b3d22edff16758c3d7934b087f80da60] In criminal bankruptcy, forms of proof shall be sent out by the official receiver within 12 weeks from the making of the bankruptcy order, to every creditor who is known to him, or is identified in the bankrupt’s statement of affairs.
 
 (5) The official receiver shall, within those 12 weeks, send to every such creditor notice of the making of the bankruptcy order.
 
 ## Annotations
 
-[^key-259ea75717a931a85a7867c0e39114ce]: Commencement: [Rule 6.232](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.232) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-259ea75717a931a85a7867c0e39114ce]: Commencement: [Rule 6.232](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.232) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-b3d22edff16758c3d7934b087f80da60]: Textual amendment: [Rule 6.232(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.232/4) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 128](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/128)
+[^c-b3d22edff16758c3d7934b087f80da60]: Textual amendment: [Rule 6.232(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.232/4) substituted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 128](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/128)

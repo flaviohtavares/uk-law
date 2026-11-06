@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Investigation in Scotland[^key-9038af95f06c28b7fec7b7029342ea3f]
+## 12. Investigation in Scotland[^c-9038af95f06c28b7fec7b7029342ea3f]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 (4) If—
 
 - (a) the person's body is within Scotland or is expected to be brought to the United Kingdom, and
-- (b) the Secretary of State thinks that it may be appropriate for the circumstances of the death to be investigated under the Inquiries into Fatal Accidents and Sudden Deaths[^key-a65b3455ad85948b961a617a54c17bb4] etc. (Scotland) Act 2016,
+- (b) the Secretary of State thinks that it may be appropriate for the circumstances of the death to be investigated under the Inquiries into Fatal Accidents and Sudden Deaths[^c-a65b3455ad85948b961a617a54c17bb4] etc. (Scotland) Act 2016,
 
 the Secretary of State may notify the Lord Advocate accordingly.
 
@@ -49,6 +49,6 @@ the Chief Coroner may notify the Lord Advocate accordingly.
 
 ## Annotations
 
-[^key-9038af95f06c28b7fec7b7029342ea3f]: Commencement: S. 12 in force at 24.9.2012 by [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2374/article/2/a)
+[^c-9038af95f06c28b7fec7b7029342ea3f]: Commencement: S. 12 in force at 24.9.2012 by [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2374/article/2/a)
 
-[^key-a65b3455ad85948b961a617a54c17bb4]: Textual amendment: Words in s. 12(4)(b) substituted (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 13(2)](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/13/2) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2
+[^c-a65b3455ad85948b961a617a54c17bb4]: Textual amendment: Words in s. 12(4)(b) substituted (15.6.2017) by [The Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 (S.I. 2016/1142)](https://www.legislation.gov.uk/uksi/2016/1142), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/1/2), [Sch. para. 13(2)](https://www.legislation.gov.uk/uksi/2016/1142/schedule/paragraph/13/2) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2016/1142/article/7/2)); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), reg. 2

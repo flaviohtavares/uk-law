@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Application of fixed penalty regime to old age of sale offences[^key-e2a800a9fa2bf37beac0bb032932826b]
+## 46. Application of fixed penalty regime to old age of sale offences[^c-e2a800a9fa2bf37beac0bb032932826b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2a800a9fa2bf37beac0bb032932826b]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2026/18/section/46) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-e2a800a9fa2bf37beac0bb032932826b]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2026/18/section/46) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

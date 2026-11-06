@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Provision of other services[^key-ff89667a4c0938d2fdec3e8b05cb87f9]
+## 108. Provision of other services[^c-ff89667a4c0938d2fdec3e8b05cb87f9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In section 14 of the 2005 Act (provision of other services)—
 
 ## Annotations
 
-[^key-ff89667a4c0938d2fdec3e8b05cb87f9]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2012/8/section/108) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-ff89667a4c0938d2fdec3e8b05cb87f9]: Commencement: [S. 108](https://www.legislation.gov.uk/asp/2012/8/section/108) in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)

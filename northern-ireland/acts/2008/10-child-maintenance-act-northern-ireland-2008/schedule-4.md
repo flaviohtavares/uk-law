@@ -24,7 +24,7 @@ Section 38.
 
 ### The Child Support (Northern Ireland) Order 1991 (NI 23)
 
-**1.**[^c21205601] (1)[^key-d21b23a8d230ba7c2ccde125507c5d80][^key-ae42d44fce74fb8bc5f641a9332a7a69][^key-077b35449fe54ccfe008045539250520][^key-a37f395d51a0f504dc9253bf51e25e6b] The Child Support Order is amended as follows.
+**1.**[^c21205601] (1)[^c-d21b23a8d230ba7c2ccde125507c5d80][^c-ae42d44fce74fb8bc5f641a9332a7a69][^c-077b35449fe54ccfe008045539250520][^c-a37f395d51a0f504dc9253bf51e25e6b] The Child Support Order is amended as follows.
 
 (2) In Article 2(2) (interpretation)—
 
@@ -47,7 +47,7 @@ Section 38.
 
 .
 
-(4)[^key-ca3a6da3c04f155587d43ab6e68bf3fc][^key-077b35449fe54ccfe008045539250520][^key-5c52b2c08508b8eac1580919169f3585] In Article 10 (role of the courts with respect to maintenance for children), in paragraph (6)(b) (which refers to the non-resident parent's net weekly income), for “net” substitute “ gross ”.
+(4)[^c-ca3a6da3c04f155587d43ab6e68bf3fc][^c-077b35449fe54ccfe008045539250520][^c-5c52b2c08508b8eac1580919169f3585] In Article 10 (role of the courts with respect to maintenance for children), in paragraph (6)(b) (which refers to the non-resident parent's net weekly income), for “net” substitute “ gross ”.
 
 (5) In Article 22 (appeals to appeal tribunals), in paragraph (1), after sub-paragraph (b) insert—
 
@@ -152,9 +152,9 @@ Section 38.
 (20) In Article 48 (regulations and orders), in paragraph (2)(a) (regulations subject to confirmatory procedure)—
 
 - (a) after “30(4A),” insert “ 32A to 32C, 32E to 32J, ”;
-- (b)[^key-b7a5dd229e6fcada68630557edd571be] after “38B(6),” insert “ 38E(1)(a) ”.
+- (b)[^c-b7a5dd229e6fcada68630557edd571be] after “38B(6),” insert “ 38E(1)(a) ”.
 
-(21)[^key-b7a5dd229e6fcada68630557edd571be] In that Article, for paragraph (2A) substitute—
+(21)[^c-b7a5dd229e6fcada68630557edd571be] In that Article, for paragraph (2A) substitute—
 
 > (2A) A statutory rule containing (whether alone or with other provisions)—
 >
@@ -168,7 +168,7 @@ Section 38.
 
 .
 
-(22)[^key-b7a5dd229e6fcada68630557edd571be] After that paragraph insert—
+(22)[^c-b7a5dd229e6fcada68630557edd571be] After that paragraph insert—
 
 > (2B) A statutory rule containing (whether alone or with other provisions) regulations which by virtue of Article 47A are to have effect for a limited period shall be laid before the Assembly after being made and shall take effect on such date as may be specified in the regulations, but shall (without prejudice to the validity of anything done thereunder or to the making of new regulations) cease to have effect upon the expiration of a period of 6 months from that date unless at some time before the expiration of that period the regulations have been approved by a resolution of the Assembly.
 
@@ -176,20 +176,20 @@ Section 38.
 
 (23) In Article 50(4) (application to Crown), for “a liable person is in the employment” substitute “ any sums which are defined as earnings for the purposes of Articles 31 and 32 are paid to a liable person by or on behalf ”.
 
-(24)[^key-0d2ceed7ed02b61fdbed3151f2cf8ab9] In Schedule 1 (maintenance calculations), in paragraph 5(b) (weekly rate of child support maintenance to be nil if the non-resident parent has a weekly income below £5), for “£5” substitute “ £7 ”.
+(24)[^c-0d2ceed7ed02b61fdbed3151f2cf8ab9] In Schedule 1 (maintenance calculations), in paragraph 5(b) (weekly rate of child support maintenance to be nil if the non-resident parent has a weekly income below £5), for “£5” substitute “ £7 ”.
 
-(25)[^key-a6aafe1384b9c537a9005cdcf23711b6][^key-077b35449fe54ccfe008045539250520][^key-311d541644eb473c1a49fce42ad6e07f] In that Schedule, in paragraph 7 (reduction of basic and reduced rates for shared care), for sub-paragraph (1) substitute—
+(25)[^c-a6aafe1384b9c537a9005cdcf23711b6][^c-077b35449fe54ccfe008045539250520][^c-311d541644eb473c1a49fce42ad6e07f] In that Schedule, in paragraph 7 (reduction of basic and reduced rates for shared care), for sub-paragraph (1) substitute—
 
 > (1) This paragraph applies where the rate of child support maintenance payable is the basic rate or a reduced rate or is determined under paragraph 5A.
 
 .
 
-(26)[^key-b7a5dd229e6fcada68630557edd571be] In that Schedule, in paragraph 10A(1)(b) (regulations about amounts set out in Schedule 1)—
+(26)[^c-b7a5dd229e6fcada68630557edd571be] In that Schedule, in paragraph 10A(1)(b) (regulations about amounts set out in Schedule 1)—
 
 - (a) after “paragraph” insert “ 2(2), ”;
 - (b) after “5,” insert “ 5A(2), ”.
 
-(27)[^key-b7a5dd229e6fcada68630557edd571be] In that Schedule, in paragraph 10C(1) (references to “qualifying children” to be read as references to those qualifying children with respect to whom the maintenance calculation falls to be made), at end insert “ or with respect to whom a maintenance calculation in respect of the non-resident parent has effect ”.
+(27)[^c-b7a5dd229e6fcada68630557edd571be] In that Schedule, in paragraph 10C(1) (references to “qualifying children” to be read as references to those qualifying children with respect to whom the maintenance calculation falls to be made), at end insert “ or with respect to whom a maintenance calculation in respect of the non-resident parent has effect ”.
 
 (28) In that Schedule for paragraph 14 substitute—
 
@@ -235,7 +235,7 @@ Section 38.
 
 .
 
-(4)[^key-3ff802dc857b91897b31921e4be5b5c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3ff802dc857b91897b31921e4be5b5c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 115E (supply to Revenue and Customs of information held by Department or Secretary of State, including information held for the purposes of functions relating to child support), for subsection (1) substitute
 
@@ -251,7 +251,7 @@ Section 38.
 
 .
 
-(6)[^key-3c4627f2122a05e166fa06c061236ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3c4627f2122a05e166fa06c061236ade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Deregulation and Contracting Out (Northern Ireland) Order 1996 (NI 11)
 
@@ -263,28 +263,28 @@ Section 38.
 
 [^c21205601]: Commencement: Sch. 4 para. 1 partly in operation; Sch. 4 para. 1 not in operation at Royal Assent see s. 41(1); Sch. 4 para. 1(29) in operation for certain purposes at 14.7.2008 by [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2008/291/article/2/2/b) (with [art. 2(3)(4)](https://www.legislation.gov.uk/nisr/2008/291/article/2/3/4)) and wholly in operation at 27.10.2008 by [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 2](https://www.legislation.gov.uk/nisr/2008/419/article/2); Sch. 4 para. 1(18)(19) in operation at 1.11.2008 by [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 3(c)](https://www.legislation.gov.uk/nisr/2008/419/article/3/c); Sch. 4 para. 1(20)(a) in operation for certain purposes at 1.6.2009 and wholly in operation at 3.8.2009 by [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2009/216/article/2/1/d); Sch. 4 para. 1(3)(9)(11)(28) in operation at 1.6.2009 by [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/nisr/2009/216/article/2/2/b/i); Sch. 4 para. 1(2)(a) in operation for certain purposes at 1.6.2009 by [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2009/216/article/2/2/b/ii)
 
-[^key-d21b23a8d230ba7c2ccde125507c5d80]: Commencement: Sch. 4 para. 1(1) in operation at 3.12.2012 for specified purposes by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/c)
+[^c-d21b23a8d230ba7c2ccde125507c5d80]: Commencement: Sch. 4 para. 1(1) in operation at 3.12.2012 for specified purposes by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/c)
 
-[^key-ae42d44fce74fb8bc5f641a9332a7a69]: Commencement: Sch. 4 para. 1(1) in operation at 10.12.2012 for specified purposes by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/c), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 4)
+[^c-ae42d44fce74fb8bc5f641a9332a7a69]: Commencement: Sch. 4 para. 1(1) in operation at 10.12.2012 for specified purposes by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/c), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 4)
 
-[^key-077b35449fe54ccfe008045539250520]: Commencement: Sch. 4 para. 1(1)(4)(25) in operation at 29.7.2013 for specified purposes by [S.R. 2013/201](https://www.legislation.gov.uk/nisr/2013/201), [arts. 2(1)(c)](https://www.legislation.gov.uk/nisr/2013/201/article/2/1/c), [3](https://www.legislation.gov.uk/nisr/2013/201/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2013/201/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 5)
+[^c-077b35449fe54ccfe008045539250520]: Commencement: Sch. 4 para. 1(1)(4)(25) in operation at 29.7.2013 for specified purposes by [S.R. 2013/201](https://www.legislation.gov.uk/nisr/2013/201), [arts. 2(1)(c)](https://www.legislation.gov.uk/nisr/2013/201/article/2/1/c), [3](https://www.legislation.gov.uk/nisr/2013/201/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2013/201/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 5)
 
-[^key-a37f395d51a0f504dc9253bf51e25e6b]: Commencement: Sch. 4 para. 1(1) in operation at 25.11.2013 for specified purposes by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(b)](https://www.legislation.gov.uk/nisr/2013/276/article/2/b) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))
+[^c-a37f395d51a0f504dc9253bf51e25e6b]: Commencement: Sch. 4 para. 1(1) in operation at 25.11.2013 for specified purposes by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(b)](https://www.legislation.gov.uk/nisr/2013/276/article/2/b) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))
 
-[^key-ca3a6da3c04f155587d43ab6e68bf3fc]: Commencement: Sch. 4 para. 1(4) in operation at 10.12.2012 for specified purposes by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/c), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 4)
+[^c-ca3a6da3c04f155587d43ab6e68bf3fc]: Commencement: Sch. 4 para. 1(4) in operation at 10.12.2012 for specified purposes by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/c), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 4)
 
-[^key-5c52b2c08508b8eac1580919169f3585]: Commencement: Sch. 4 para. 1(4) in operation at 25.11.2013 in so far as not already in operation by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/276/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))
+[^c-5c52b2c08508b8eac1580919169f3585]: Commencement: Sch. 4 para. 1(4) in operation at 25.11.2013 in so far as not already in operation by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/276/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))
 
-[^key-b7a5dd229e6fcada68630557edd571be]: Commencement: Sch. 4 para. 1(20)(b)(21)(22)(26)(27) in operation at 3.12.2012 by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/c)
+[^c-b7a5dd229e6fcada68630557edd571be]: Commencement: Sch. 4 para. 1(20)(b)(21)(22)(26)(27) in operation at 3.12.2012 by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/c)
 
-[^key-0d2ceed7ed02b61fdbed3151f2cf8ab9]: Commencement: Sch. 4 para. 1(24) in operation at 25.11.2013 in so far as not already in operation by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/276/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))
+[^c-0d2ceed7ed02b61fdbed3151f2cf8ab9]: Commencement: Sch. 4 para. 1(24) in operation at 25.11.2013 in so far as not already in operation by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/276/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))
 
-[^key-a6aafe1384b9c537a9005cdcf23711b6]: Commencement: Sch. 4 para. 1(25) in operation at 10.12.2012 for specified purposes by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/c), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 4)
+[^c-a6aafe1384b9c537a9005cdcf23711b6]: Commencement: Sch. 4 para. 1(25) in operation at 10.12.2012 for specified purposes by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [arts. 2(1)(c)](https://www.legislation.gov.uk/nisr/2012/440/article/2/1/c), [3](https://www.legislation.gov.uk/nisr/2012/440/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4)) (as modified (30.6.2014) by [S.R. 2014/194](https://www.legislation.gov.uk/nisr/2014/194), art. 4)
 
-[^key-311d541644eb473c1a49fce42ad6e07f]: Commencement: Sch. 4 para. 1(25) in operation at 25.11.2013 in so far as not already in operation by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/276/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))
+[^c-311d541644eb473c1a49fce42ad6e07f]: Commencement: Sch. 4 para. 1(25) in operation at 25.11.2013 in so far as not already in operation by [S.R. 2013/276](https://www.legislation.gov.uk/nisr/2013/276), [art. 2(c)](https://www.legislation.gov.uk/nisr/2013/276/article/2/c) (with [arts. 3-5](https://www.legislation.gov.uk/nisr/2013/276/article/3))
 
 [^c21205621]: Commencement: Sch. 4 para. 2 wholly in operation at 1.6.2009; Sch. 4 para. 2 not in operation at Royal Assent see s. 41(1); Sch. 4 para. 2(1)(2) in operation at 27.10.2008 by [S.R. 2008/399](https://www.legislation.gov.uk/nisr/2008/399), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2008/399/article/2/2/c); Sch. 4 para. 2(3)-(6) in operation at 1.6.2009 by [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/nisr/2009/216/article/2/2/b/i)
 
-[^key-3ff802dc857b91897b31921e4be5b5c8]: Textual amendment: [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/2/4) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
+[^c-3ff802dc857b91897b31921e4be5b5c8]: Textual amendment: [Sch. 4 para. 2(4)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/2/4) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
 
-[^key-3c4627f2122a05e166fa06c061236ade]: Textual amendment: [Sch. 4 para. 2(6)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/2/6) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)
+[^c-3c4627f2122a05e166fa06c061236ade]: Textual amendment: [Sch. 4 para. 2(6)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/2/6) repealed (17.2.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 12 Pt. 12](https://www.legislation.gov.uk/nisi/2015/2006/schedule/12/part/12); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(6)(c)](https://www.legislation.gov.uk/nisr/2016/46/article/3/6/c)

@@ -35,35 +35,35 @@ adopting the programme of ad-hoc modules, covering the years 2013 to 2015, for t
 
 (Text with EEA relevance) (revoked)
 
-[^key-5bd76039af16560f26990b44f16ff934]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bd76039af16560f26990b44f16ff934]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-5bd76039af16560f26990b44f16ff934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5bd76039af16560f26990b44f16ff934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5bd76039af16560f26990b44f16ff934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5bd76039af16560f26990b44f16ff934] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5bd76039af16560f26990b44f16ff934]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bd76039af16560f26990b44f16ff934]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-5bd76039af16560f26990b44f16ff934]
+## ANNEX[^c-5bd76039af16560f26990b44f16ff934]
 
-[^key-5bd76039af16560f26990b44f16ff934] LABOUR FORCE SURVEY
+[^c-5bd76039af16560f26990b44f16ff934] LABOUR FORCE SURVEY
 
 **Multiannual programme of ad-hoc modules**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5bd76039af16560f26990b44f16ff934]1.
+[^c-5bd76039af16560f26990b44f16ff934]1.
 
 ACCIDENTS AT WORK AND OTHER WORK-RELATED HEALTH PROBLEMS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5bd76039af16560f26990b44f16ff934]2.
+[^c-5bd76039af16560f26990b44f16ff934]2.
 
 LABOUR MARKET SITUATION OF MIGRANTS AND THEIR IMMEDIATE DESCENDANTS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5bd76039af16560f26990b44f16ff934]3.
+[^c-5bd76039af16560f26990b44f16ff934]3.
 
 WORK ORGANISATION AND WORKING TIME ARRANGEMENTS
 
@@ -71,4 +71,4 @@ WORK ORGANISATION AND WORKING TIME ARRANGEMENTS
 
 ## Annotations
 
-[^key-5bd76039af16560f26990b44f16ff934]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 168](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/168); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5bd76039af16560f26990b44f16ff934]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 168](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/168); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

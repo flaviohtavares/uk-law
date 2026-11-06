@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Kinship care needs assessment[^key-55fd49775d2881ae60b5fce68967ac6b]
+## 17. Kinship care needs assessment[^c-55fd49775d2881ae60b5fce68967ac6b]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55fd49775d2881ae60b5fce68967ac6b]: Commencement: S. 17 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-55fd49775d2881ae60b5fce68967ac6b]: Commencement: S. 17 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

@@ -22,17 +22,17 @@ summary: ''
 
 Section 315
 
-**1.**[^key-91e9f05d82770c91016f34261c8f1c6d] The Harbours Act 1964 (c. 40) is amended as follows.
+**1.**[^c-91e9f05d82770c91016f34261c8f1c6d] The Harbours Act 1964 (c. 40) is amended as follows.
 
 ### Provision that may be made by harbour empowerment order
 
-**2.**[^key-6198c904d893a661ec9688c4931ecd10] (1) Section 16 (power to make harbour empowerment orders) is amended as follows.
+**2.**[^c-6198c904d893a661ec9688c4931ecd10] (1) Section 16 (power to make harbour empowerment orders) is amended as follows.
 
 (2) In subsection (6) after “any Act (including this Act)” insert “ and for repealing any statutory provision of local application affecting the area in relation to which the powers are intended to be exercised ”.
 
 ### Delegation of certain functions under the Act
 
-**3.**[^c2008176][^key-8a7108229a27431a87b4a4013bf34fdc] (1) After section 42 (accounts and reports) insert—
+**3.**[^c2008176][^c-8a7108229a27431a87b4a4013bf34fdc] (1) After section 42 (accounts and reports) insert—
 
 > **Delegation of certain functions**
 >
@@ -109,7 +109,7 @@ Section 315
 
 ### Consent of Welsh Ministers or Secretary of State required for making of certain harbour orders
 
-**4.**[^c2008175][^key-8bba76cba6a1edea19839419a4c05e8e] After section 42B (inserted by paragraph 3(1)) insert—
+**4.**[^c2008175][^c-8bba76cba6a1edea19839419a4c05e8e] After section 42B (inserted by paragraph 3(1)) insert—
 
 > **42C. Consent of Welsh Ministers required for certain orders and schemes**
 >
@@ -147,7 +147,7 @@ Section 315
 
 ### Procedure for dealing with applications for harbour orders
 
-**5.**[^key-86fb35345874914d61e806a6a37a11d3] (1) In Schedule 3 (procedure for making harbour revision and empowerment orders), paragraph 18 (which provides for the holding of an inquiry or public hearing when an objection is made) is amended as follows.
+**5.**[^c-86fb35345874914d61e806a6a37a11d3] (1) In Schedule 3 (procedure for making harbour revision and empowerment orders), paragraph 18 (which provides for the holding of an inquiry or public hearing when an objection is made) is amended as follows.
 
 (2) For sub-paragraph (1) substitute—
 
@@ -218,7 +218,7 @@ Section 315
 
 ### Procedure where harbour revision orders are made otherwise than on application
 
-**6.**[^key-4ed5c2c52bb62f2f7ed37fb65fd9bc53] (1) For paragraph 28 of Schedule 3 (inquiry to be held in most cases where an objection is made) substitute—
+**6.**[^c-4ed5c2c52bb62f2f7ed37fb65fd9bc53] (1) For paragraph 28 of Schedule 3 (inquiry to be held in most cases where an objection is made) substitute—
 
 > **28.** (1) This paragraph applies if an objection to the proposal was made to the proposing authority and has not been withdrawn.
 >
@@ -264,24 +264,24 @@ Section 315
 
 ### Application of paragraphs 5 and 6
 
-**7.**[^key-ca8cdc33727d626590c512da091f7b21] The amendments made by paragraphs 5 and 6 apply to objections made on or after the date on which those amendments come into force.
+**7.**[^c-ca8cdc33727d626590c512da091f7b21] The amendments made by paragraphs 5 and 6 apply to objections made on or after the date on which those amendments come into force.
 
 ## Annotations
 
-[^key-91e9f05d82770c91016f34261c8f1c6d]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/1) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-91e9f05d82770c91016f34261c8f1c6d]: Commencement: [Sch. 21 para. 1](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/1) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
 
-[^key-6198c904d893a661ec9688c4931ecd10]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/2) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-6198c904d893a661ec9688c4931ecd10]: Commencement: [Sch. 21 para. 2](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/2) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
 
 [^c2008176]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3) partly in force; [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-8a7108229a27431a87b4a4013bf34fdc]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-8a7108229a27431a87b4a4013bf34fdc]: Commencement: [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/3) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
 
 [^c2008175]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/4) partly in force; [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/4) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-8bba76cba6a1edea19839419a4c05e8e]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/4) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-8bba76cba6a1edea19839419a4c05e8e]: Commencement: [Sch. 21 para. 4](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/4) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
 
-[^key-86fb35345874914d61e806a6a37a11d3]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/5) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-86fb35345874914d61e806a6a37a11d3]: Commencement: [Sch. 21 para. 5](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/5) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
 
-[^key-4ed5c2c52bb62f2f7ed37fb65fd9bc53]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/6) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-4ed5c2c52bb62f2f7ed37fb65fd9bc53]: Commencement: [Sch. 21 para. 6](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/6) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
 
-[^key-ca8cdc33727d626590c512da091f7b21]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/7) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)
+[^c-ca8cdc33727d626590c512da091f7b21]: Commencement: [Sch. 21 para. 7](https://www.legislation.gov.uk/ukpga/2009/23/schedule/21/paragraph/7) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/26)

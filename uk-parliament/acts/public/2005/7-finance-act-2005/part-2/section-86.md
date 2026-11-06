@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-12e974dcd5c0d4a8f32468778267e3bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-12e974dcd5c0d4a8f32468778267e3bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 803 of ICTA (underlying tax reflecting interest on loans)—
 
-- (a)[^key-12e974dcd5c0d4a8f32468778267e3bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-12e974dcd5c0d4a8f32468778267e3bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) subsections (4) to (9) shall cease to have effect.
 
 (3) Subsections (1) and (2) shall have effect—
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12e974dcd5c0d4a8f32468778267e3bc]: Textual amendment: S. 86(1)(2)(a) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-12e974dcd5c0d4a8f32468778267e3bc]: Textual amendment: S. 86(1)(2)(a) repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/1) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 243. Costs, expenses etc[^key-16c34d3d841fc645d417e8f8f949a28c]
+## 243. Costs, expenses etc[^c-16c34d3d841fc645d417e8f8f949a28c]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16c34d3d841fc645d417e8f8f949a28c]: Commencement: [Rule 243](https://www.legislation.gov.uk/nisr/2026/11/rule/243) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-16c34d3d841fc645d417e8f8f949a28c]: Commencement: [Rule 243](https://www.legislation.gov.uk/nisr/2026/11/rule/243) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

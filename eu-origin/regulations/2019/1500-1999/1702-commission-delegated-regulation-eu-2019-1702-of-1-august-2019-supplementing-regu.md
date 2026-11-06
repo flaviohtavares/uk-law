@@ -75,7 +75,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. List of priority pests
 
-The list of priority pests, as referred to in Article 6(1)(c)[^key-2e4a2bc0d6ff7785ccced9366bc5531e] of Regulation (EU) 2016/2031, is set out in the Annex to this Regulation.
+The list of priority pests, as referred to in Article 6(1)(c)[^c-2e4a2bc0d6ff7785ccced9366bc5531e] of Regulation (EU) 2016/2031, is set out in the Annex to this Regulation.
 
 ## Article 2. Entry into force and application
 
@@ -83,7 +83,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 14 December 2019.
 
-[^key-f677a37955a2de8edd49647d617cff80]...
+[^c-f677a37955a2de8edd49647d617cff80]...
 
 Done at Brussels, 1 August 2019.
 
@@ -93,7 +93,7 @@ Done at Brussels, 1 August 2019.
 
 Jean-Claude Juncker
 
-## Annex — List of priority pests[^key-ea113f82646bdb58bfd31c454cea092c][^key-2041054e2083652f19c527544420bcdf]
+## Annex — List of priority pests[^c-ea113f82646bdb58bfd31c454cea092c][^c-2041054e2083652f19c527544420bcdf]
 
 *Agrilus anxius* Gory
 
@@ -143,10 +143,10 @@ Rose Rosette virus and *Phyllocoptes fructiphilus* Keifer
 
 [^f00001]: Footnote: [OJ L 317, 23.11.2016, p. 4](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.317.01.0004.01.ENG).
 
-[^key-2e4a2bc0d6ff7785ccced9366bc5531e]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2019/1702/article/1) substituted (E.W.S) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [48(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/48/2)
+[^c-2e4a2bc0d6ff7785ccced9366bc5531e]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2019/1702/article/1) substituted (E.W.S) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [48(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/48/2)
 
-[^key-f677a37955a2de8edd49647d617cff80]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1702/signature) omitted (E.W.S.) (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [48(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/48/3)
+[^c-f677a37955a2de8edd49647d617cff80]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2019/1702/signature) omitted (E.W.S.) (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [48(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/48/3)
 
-[^key-ea113f82646bdb58bfd31c454cea092c]: Modification: Annex: power to amend conferred (31.12.2020) by Regulation (EU) No. 2016/2031, Art. 6(2) (as substituted by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [27(5)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/5/b))
+[^c-ea113f82646bdb58bfd31c454cea092c]: Modification: Annex: power to amend conferred (31.12.2020) by Regulation (EU) No. 2016/2031, Art. 6(2) (as substituted by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [27(5)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/27/5/b))
 
-[^key-2041054e2083652f19c527544420bcdf]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2019/1702/annex) substituted (E.W.S.) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1482/schedule/1)
+[^c-2041054e2083652f19c527544420bcdf]: Textual amendment: [Annex](https://www.legislation.gov.uk/eur/2019/1702/annex) substituted (E.W.S.) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/2/2/b), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1482/schedule/1)

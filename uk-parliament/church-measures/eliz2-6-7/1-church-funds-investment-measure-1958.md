@@ -41,10 +41,10 @@ The Scheduled Scheme shall have effect for the purpose of enabling the funds to 
 
 The funds to which this Measure applies are:—
 
-- (a)[^key-d99ff8fd024a1de928a7fd835a0fcff6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d99ff8fd024a1de928a7fd835a0fcff6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) The corporate funds of any Diocesan Authority;
 - (c) The funds of any Church Educational Endowment; and
-- (d) Any funds held for the time being by [^key-da7fe16503e7f92d78674dba9b587c86]... a Diocesan Authority or any other person or body upon any trust for objects which are connected with the work of the Church of England and which are exclusively charitable objects, other than a trust coming into operation after the date of this Measure which by its terms expressly provides that this Measure shall not apply to it.
+- (d) Any funds held for the time being by [^c-da7fe16503e7f92d78674dba9b587c86]... a Diocesan Authority or any other person or body upon any trust for objects which are connected with the work of the Church of England and which are exclusively charitable objects, other than a trust coming into operation after the date of this Measure which by its terms expressly provides that this Measure shall not apply to it.
 
 ## 3. Contributions to Investment Funds and deposits in Deposit Funds to be authorised investments.
 
@@ -346,9 +346,9 @@ Sub-paragraph (3) of paragraph 3 and paragraphs 15, 16 and 17 of this Scheme sha
 
 [^M_C_e89f1051-b119-467c-a3f2-1d822859c086]: Modification: S. 2 modified (retrospective) by Church of England (Miscellaneous Provisions) Measure 2006 (gsm1), ss. 4, 16(2); Instrument made by Archbishops
 
-[^key-d99ff8fd024a1de928a7fd835a0fcff6]: Textual amendment: S. 2(a) repealed (1.7.2010) by [Church of England (Miscellaneous Provisions) Measure 2010 (No. 1)](https://www.legislation.gov.uk/ukcm/2010/1), [ss. 3](https://www.legislation.gov.uk/ukcm/2010/1/section/3), [13(2)](https://www.legislation.gov.uk/ukcm/2010/1/section/13/2); [2010 No. 2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
+[^c-d99ff8fd024a1de928a7fd835a0fcff6]: Textual amendment: S. 2(a) repealed (1.7.2010) by [Church of England (Miscellaneous Provisions) Measure 2010 (No. 1)](https://www.legislation.gov.uk/ukcm/2010/1), [ss. 3](https://www.legislation.gov.uk/ukcm/2010/1/section/3), [13(2)](https://www.legislation.gov.uk/ukcm/2010/1/section/13/2); [2010 No. 2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
 
-[^key-da7fe16503e7f92d78674dba9b587c86]: Textual amendment: Words in s. 2(d) repealed (1.7.2010) by [Church of England (Miscellaneous Provisions) Measure 2010 (No. 1)](https://www.legislation.gov.uk/ukcm/2010/1), [ss. 3](https://www.legislation.gov.uk/ukcm/2010/1/section/3), [13(2)](https://www.legislation.gov.uk/ukcm/2010/1/section/13/2); [2010 No. 2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
+[^c-da7fe16503e7f92d78674dba9b587c86]: Textual amendment: Words in s. 2(d) repealed (1.7.2010) by [Church of England (Miscellaneous Provisions) Measure 2010 (No. 1)](https://www.legislation.gov.uk/ukcm/2010/1), [ss. 3](https://www.legislation.gov.uk/ukcm/2010/1/section/3), [13(2)](https://www.legislation.gov.uk/ukcm/2010/1/section/13/2); [2010 No. 2](https://www.legislation.gov.uk/ukci/2010/2), [art. 2](https://www.legislation.gov.uk/ukci/2010/2/article/2), [Sch. 1](https://www.legislation.gov.uk/ukci/2010/2/schedule/1)
 
 [^c10209131]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1978 (c. 45)](https://www.legislation.gov.uk/ukpga/1978/45), [s. 1](https://www.legislation.gov.uk/ukpga/1978/45/section/1), [Sch. 1 Pt. II](https://www.legislation.gov.uk/ukpga/1978/45/schedule/1/part/II)
 

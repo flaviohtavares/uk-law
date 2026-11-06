@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 59. Activity reports[^key-8ef3b946abe31f6061180d29d5c0f38a]
+## Article 59. Activity reports[^c-8ef3b946abe31f6061180d29d5c0f38a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ef3b946abe31f6061180d29d5c0f38a]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/eur/2016/679/article/59) omitted (20.8.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/12); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/y)
+[^c-8ef3b946abe31f6061180d29d5c0f38a]: Textual amendment: [Art. 59](https://www.legislation.gov.uk/eur/2016/679/article/59) omitted (20.8.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2025/18/schedule/11/paragraph/12); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(y)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/y)

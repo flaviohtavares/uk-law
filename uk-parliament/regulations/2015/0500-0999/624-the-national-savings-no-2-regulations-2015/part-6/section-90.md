@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Death duties or inheritance tax chargeable on death of holders of stock or certificates[^key-cdedeb2e186bf466e06cdbdc195a6981]
+## 90. Death duties or inheritance tax chargeable on death of holders of stock or certificates[^c-cdedeb2e186bf466e06cdbdc195a6981]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdedeb2e186bf466e06cdbdc195a6981]: Textual amendment: [Reg. 90](https://www.legislation.gov.uk/uksi/2015/624/regulation/90) omitted (20.3.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 62(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/62/2)
+[^c-cdedeb2e186bf466e06cdbdc195a6981]: Textual amendment: [Reg. 90](https://www.legislation.gov.uk/uksi/2015/624/regulation/90) omitted (20.3.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 62(2)](https://www.legislation.gov.uk/ukpga/2025/8/section/62/2)

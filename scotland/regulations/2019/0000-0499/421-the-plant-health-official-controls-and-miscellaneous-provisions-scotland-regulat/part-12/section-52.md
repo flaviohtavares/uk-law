@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Transitional provisions: notices[^key-8b74922b2a17e3aef0a1928d13dc0f0e]
+## 52. Transitional provisions: notices[^c-8b74922b2a17e3aef0a1928d13dc0f0e]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8b74922b2a17e3aef0a1928d13dc0f0e]: Commencement: Reg. 52 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-8b74922b2a17e3aef0a1928d13dc0f0e]: Commencement: Reg. 52 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
 [^c23946161]: Marginal citation: [S.I. 2006/2695](https://www.legislation.gov.uk/uksi/2006/2695), amended by [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755) (W. 90) and [S.I. 2019/734](https://www.legislation.gov.uk/uksi/2019/734).

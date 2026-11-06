@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Competence of witnesses to give evidence.[^key-79fdf23103783866be1b165adfdc0ee8]
+## 53. Competence of witnesses to give evidence.[^c-79fdf23103783866be1b165adfdc0ee8]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79fdf23103783866be1b165adfdc0ee8]: Modification: S. 53 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [9](https://www.legislation.gov.uk/uksi/2009/2083/article/9), [10](https://www.legislation.gov.uk/uksi/2009/2083/article/10)
+[^c-79fdf23103783866be1b165adfdc0ee8]: Modification: S. 53 applied (with modifications) (31.10.2009) by [The Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 (S.I. 2009/2083)](https://www.legislation.gov.uk/uksi/2009/2083), [arts. 1](https://www.legislation.gov.uk/uksi/2009/2083/article/1), [9](https://www.legislation.gov.uk/uksi/2009/2083/article/9), [10](https://www.legislation.gov.uk/uksi/2009/2083/article/10)

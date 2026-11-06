@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Payments in respect of transferred property and deemed borrowing[^key-5a907509d9da52830a8068db11c89d4a]
+## 68. Payments in respect of transferred property and deemed borrowing[^c-5a907509d9da52830a8068db11c89d4a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ The reserved part shall be 100 per cent. in the case of a sum which is a capital
 
 ## Annotations
 
-[^key-5a907509d9da52830a8068db11c89d4a]: Commencement: Reg. 68 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-5a907509d9da52830a8068db11c89d4a]: Commencement: Reg. 68 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

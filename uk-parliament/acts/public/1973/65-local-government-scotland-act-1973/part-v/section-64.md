@@ -41,7 +41,7 @@ summary: ''
 
 (6) Nothing in this section affects the operation of section 7 of the [^c9672511]Registration of Births, Deaths and Marriages (Scotland) Act 1965 (registrars) or the operation of the [^c9672521]Local Authorities (Goods and Services) Act 1970.
 
-(7)[^key-7123bf3927c3306027f969d006e60f53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-7123bf3927c3306027f969d006e60f53] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^c9672521]: Marginal citation: [1970 c. 39](https://www.legislation.gov.uk/ukpga/1970/39).
 
-[^key-7123bf3927c3306027f969d006e60f53]: Textual amendment: [S. 64(7)](https://www.legislation.gov.uk/ukpga/1973/65/section/64/7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-7123bf3927c3306027f969d006e60f53]: Textual amendment: [S. 64(7)](https://www.legislation.gov.uk/ukpga/1973/65/section/64/7) repealed (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 8 Pt. 1](https://www.legislation.gov.uk/asp/2012/8/schedule/8/part/1); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Pension sharing[^key-4200e3ebb716eba047a76310db5b107f]
+## 220. Pension sharing[^c-4200e3ebb716eba047a76310db5b107f]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4200e3ebb716eba047a76310db5b107f]: Commencement: S. 220 in force at 1.1.2006 by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/3)
+[^c-4200e3ebb716eba047a76310db5b107f]: Commencement: S. 220 in force at 1.1.2006 by [S.I. 2005/3331](https://www.legislation.gov.uk/uksi/2005/3331), [art. 2(3)](https://www.legislation.gov.uk/uksi/2005/3331/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/3331/schedule/part/3)

@@ -32,7 +32,7 @@ Regulation 7
 
 (3) There must be stated with respect to each subsidiary undertaking—
 
-- (a)[^key-bad7b075cd03c3d8762ced84679a40a7] the address of the undertaking's registered office (whether in or outside the United Kingdom),
+- (a)[^c-bad7b075cd03c3d8762ced84679a40a7] the address of the undertaking's registered office (whether in or outside the United Kingdom),
 - (b) if it is unincorporated, the address of its principal place of business.
 
 #### 2. Financial information about subsidiary undertakings
@@ -81,7 +81,7 @@ Regulation 7
 
 (2) There must be stated—
 
-- (a)[^key-1c4684296a528041b1140490bafb060b] the address of the undertaking's registered office (whether in or outside the United Kingdom),
+- (a)[^c-1c4684296a528041b1140490bafb060b] the address of the undertaking's registered office (whether in or outside the United Kingdom),
 - (b) if it is unincorporated, the address of its principal place of business.
 
 (3) There must also be stated—
@@ -108,7 +108,7 @@ Regulation 7
 
 #### 7. Membership of certain undertakings
 
-(1) The information required by this paragraph must be given where at the end of the financial year the company is a member of an undertaking having unlimited liability[^key-d96b7bf478326472a898056a8b051ebe].
+(1) The information required by this paragraph must be given where at the end of the financial year the company is a member of an undertaking having unlimited liability[^c-d96b7bf478326472a898056a8b051ebe].
 
 (2) There must be stated—
 
@@ -122,20 +122,20 @@ Regulation 7
 
 (4) Information otherwise required by sub-paragraph (2) need not be given if it is not material.
 
-(5) Information otherwise required by sub-paragraph (3)(b) need not be given if the notes to the company's accounts disclose that advantage has been taken of the exemption conferred by regulation 7 of the Partnerships (Accounts) Regulations 2008[^key-388a63102a33c355af02f47993cdc8d8].
+(5) Information otherwise required by sub-paragraph (3)(b) need not be given if the notes to the company's accounts disclose that advantage has been taken of the exemption conferred by regulation 7 of the Partnerships (Accounts) Regulations 2008[^c-388a63102a33c355af02f47993cdc8d8].
 
-(6)[^key-2f2cf05b02e04bf002b521fab80d4928] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-2f2cf05b02e04bf002b521fab80d4928] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7) In this paragraph—[^key-ef49a15946e6b91f3fd9b3b71ece8982]
+(7) In this paragraph—[^c-ef49a15946e6b91f3fd9b3b71ece8982]
 
 - “dealt with on a consolidated basis” and “qualifying partnership” have the same meanings as in the Partnerships (Accounts) Regulations 2008;
-- [^key-4103f1fa515d8da226d61a3456e3e403]...
+- [^c-4103f1fa515d8da226d61a3456e3e403]...
 
-(8)[^key-5c6d8dfcd156cb19024ed85b6ed69315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5c6d8dfcd156cb19024ed85b6ed69315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-b5af94918882ef19b40aeb0a22cb9612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-b5af94918882ef19b40aeb0a22cb9612] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-588c688537293fa8e57bb1729ea57e59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-588c688537293fa8e57bb1729ea57e59] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 8. Parent undertaking drawing up accounts for larger group
 
@@ -148,7 +148,7 @@ Regulation 7
 
 (3) There must be stated—
 
-- (a)[^key-c538bbee47786f813d1731e3b1927483] the address of the undertaking's registered office (whether in or outside the United Kingdom),
+- (a)[^c-c538bbee47786f813d1731e3b1927483] the address of the undertaking's registered office (whether in or outside the United Kingdom),
 - (b) if it is unincorporated, the address of its principal place of business.
 
 (4) If copies of the group accounts referred to in sub-paragraph (1) are available to the public, there must also be stated the addresses from which copies of the accounts can be obtained.
@@ -247,7 +247,7 @@ and the information under paragraphs (a) and (b) must (if different) be shown se
 
 (1) The following information must be given where an undertaking is dealt with in the consolidated accounts by the method of proportional consolidation in accordance with paragraph 18 of Schedule 6 to these Regulations (joint ventures)—
 
-- (a)[^key-7a6a4b0c4b209475d3aca30d52ffb75f] the name of the undertaking,
+- (a)[^c-7a6a4b0c4b209475d3aca30d52ffb75f] the name of the undertaking,
 - (b) the address of the undertaking’s registered office (whether in or outside the United Kingdom),
 - (c) the factors on which joint management of the undertaking is based, and
 - (d) the proportion of the capital of the undertaking held by undertakings included in the consolidation.
@@ -263,7 +263,7 @@ and the information under paragraphs (a) and (b) must (if different) be shown se
 (3) There must be stated—
 
 - (a) if the undertaking is incorporated outside the United Kingdom, the country in which it is incorporated,
-- (b)[^key-9f9acab01caf21e23d7ffccff74d7773] the address of the undertaking's registered office (whether in or outside the United Kingdom).
+- (b)[^c-9f9acab01caf21e23d7ffccff74d7773] the address of the undertaking's registered office (whether in or outside the United Kingdom).
 
 (4) The following information must be given with respect to the shares of the undertaking held—
 
@@ -295,7 +295,7 @@ and the information under paragraphs (a) and (b) must be shown separately.
 
 #### 21. Group's membership of certain undertakings
 
-The information required by paragraph 7 must also be given where at the end of the financial year the group is a member of an undertaking having unlimited liability[^key-d8e4c339b493e48876f2938617fc07b3].
+The information required by paragraph 7 must also be given where at the end of the financial year the group is a member of an undertaking having unlimited liability[^c-d8e4c339b493e48876f2938617fc07b3].
 
 #### 22. Construction of references to shares held by parent company or group
 
@@ -368,33 +368,33 @@ Where an undertaking is a trustee, there must be disregarded any rights which th
 
 ## Annotations
 
-[^key-bad7b075cd03c3d8762ced84679a40a7]: Textual amendment: Sch. 4 para. 1(3)(a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(2)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-bad7b075cd03c3d8762ced84679a40a7]: Textual amendment: Sch. 4 para. 1(3)(a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(2)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-1c4684296a528041b1140490bafb060b]: Textual amendment: Sch. 4 para. 5(2)(a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-1c4684296a528041b1140490bafb060b]: Textual amendment: Sch. 4 para. 5(2)(a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-d96b7bf478326472a898056a8b051ebe]: Textual amendment: Words in Sch. 4 para. 7(1) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-d96b7bf478326472a898056a8b051ebe]: Textual amendment: Words in Sch. 4 para. 7(1) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(a)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-388a63102a33c355af02f47993cdc8d8]: Textual amendment: Words in Sch. 4 para. 7(5)(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Partnerships (Accounts) Regulations 2008 (S.I. 2008/569)](https://www.legislation.gov.uk/uksi/2008/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/569/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2008/569/regulation/17/2)
+[^c-388a63102a33c355af02f47993cdc8d8]: Textual amendment: Words in Sch. 4 para. 7(5)(6) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Partnerships (Accounts) Regulations 2008 (S.I. 2008/569)](https://www.legislation.gov.uk/uksi/2008/569), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/569/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2008/569/regulation/17/2)
 
-[^key-2f2cf05b02e04bf002b521fab80d4928]: Textual amendment: Sch. 4 para. 7(6) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-2f2cf05b02e04bf002b521fab80d4928]: Textual amendment: Sch. 4 para. 7(6) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(b)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-ef49a15946e6b91f3fd9b3b71ece8982]: Textual amendment: Sch. 4 para. 7(6)-(10) substituted for Sch. 4 para. 7(6) (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/6/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
+[^c-ef49a15946e6b91f3fd9b3b71ece8982]: Textual amendment: Sch. 4 para. 7(6)-(10) substituted for Sch. 4 para. 7(6) (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies and Partnerships (Accounts and Audit) Regulations 2013 (S.I. 2013/2005)](https://www.legislation.gov.uk/uksi/2013/2005), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/6/2) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/5)[(6)](https://www.legislation.gov.uk/uksi/2013/2005/regulation/1/6))
 
-[^key-4103f1fa515d8da226d61a3456e3e403]: Textual amendment: Words in Sch. 4 para. 7(7) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-4103f1fa515d8da226d61a3456e3e403]: Textual amendment: Words in Sch. 4 para. 7(7) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(c)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/c) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-5c6d8dfcd156cb19024ed85b6ed69315]: Textual amendment: Sch. 4 para. 7(8) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(d)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-5c6d8dfcd156cb19024ed85b6ed69315]: Textual amendment: Sch. 4 para. 7(8) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(d)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-b5af94918882ef19b40aeb0a22cb9612]: Textual amendment: Sch. 4 para. 7(9) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(e)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-b5af94918882ef19b40aeb0a22cb9612]: Textual amendment: Sch. 4 para. 7(9) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(e)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/e) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-588c688537293fa8e57bb1729ea57e59]: Textual amendment: Sch. 4 para. 7(10) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(f)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-588c688537293fa8e57bb1729ea57e59]: Textual amendment: Sch. 4 para. 7(10) omitted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(4)(f)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/4/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-c538bbee47786f813d1731e3b1927483]: Textual amendment: Sch. 4 para. 8(3)(a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(5)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-c538bbee47786f813d1731e3b1927483]: Textual amendment: Sch. 4 para. 8(3)(a) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [37(5)](https://www.legislation.gov.uk/uksi/2015/980/regulation/37/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-7a6a4b0c4b209475d3aca30d52ffb75f]: Textual amendment: Sch. 4 para. 18(1)(a)(b) substituted (with effect in accordance with reg. 2(7) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [66](https://www.legislation.gov.uk/uksi/2016/575/regulation/66)
+[^c-7a6a4b0c4b209475d3aca30d52ffb75f]: Textual amendment: Sch. 4 para. 18(1)(a)(b) substituted (with effect in accordance with reg. 2(7) of the amending S.I.) by [The Limited Liability Partnerships, Partnerships and Groups (Accounts and Audit) Regulations 2016 (S.I. 2016/575)](https://www.legislation.gov.uk/uksi/2016/575), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1), [66](https://www.legislation.gov.uk/uksi/2016/575/regulation/66)
 
-[^key-9f9acab01caf21e23d7ffccff74d7773]: Textual amendment: Sch. 4 para. 19(3)(b) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [38(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/38/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-9f9acab01caf21e23d7ffccff74d7773]: Textual amendment: Sch. 4 para. 19(3)(b) substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [38(3)](https://www.legislation.gov.uk/uksi/2015/980/regulation/38/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
-[^key-d8e4c339b493e48876f2938617fc07b3]: Textual amendment: Words in Sch. 4 para. 21 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [38(4)](https://www.legislation.gov.uk/uksi/2015/980/regulation/38/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
+[^c-d8e4c339b493e48876f2938617fc07b3]: Textual amendment: Words in Sch. 4 para. 21 substituted (with effect in accordance with reg. 2(2)-(5) of the amending S.I.) by [The Companies, Partnerships and Groups (Accounts and Reports) Regulations 2015 (S.I. 2015/980)](https://www.legislation.gov.uk/uksi/2015/980), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2015/980/regulation/2/1), [38(4)](https://www.legislation.gov.uk/uksi/2015/980/regulation/38/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/980/regulation/3))
 
 [^c19250011]: Marginal citation: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 

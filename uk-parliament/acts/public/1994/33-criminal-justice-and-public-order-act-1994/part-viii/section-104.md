@@ -35,7 +35,7 @@ summary: ''
 - (d) to attend to their wellbeing; and
 - (e) to give effect to any directions as to their treatment which are given by a court.
 
-(4) Where a prisoner custody officer acting in pursuance of prisoner escort arrangements is —[^key-2fe6bc730129136a8fa7c6101dde71e4]
+(4) Where a prisoner custody officer acting in pursuance of prisoner escort arrangements is —[^c-2fe6bc730129136a8fa7c6101dde71e4]
 
 - (a) on any premises in which a court of summary jurisdiction is sitting; or
 - (b) in a police station and has the custody of a prisoner who is, from the station, before a court of summary jurisdiction by electronic means,
@@ -53,6 +53,6 @@ the officer shall have the duty to give effect to any order of the court under s
 
 [^c13104181]: Extent: [S. 104](https://www.legislation.gov.uk/ukpga/1994/33/section/104) extends to Scotland and the British Islands see [s. 172(12)](https://www.legislation.gov.uk/ukpga/1994/33/section/172/12)
 
-[^key-2fe6bc730129136a8fa7c6101dde71e4]: Textual amendment: Words in [s. 104(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/104/4) substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 40(2)(b)](https://www.legislation.gov.uk/asp/2022/8/section/40/2/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-2fe6bc730129136a8fa7c6101dde71e4]: Textual amendment: Words in [s. 104(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/104/4) substituted (1.10.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 40(2)(b)](https://www.legislation.gov.uk/asp/2022/8/section/40/2/b), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
 
 [^c13104191]: Textual amendment: Words in [s. 104(4)](https://www.legislation.gov.uk/ukpga/1994/33/section/104/4) substituted (1.4.1996) by [1995 c. 40](https://www.legislation.gov.uk/ukpga/1995/40), [ss. 5](https://www.legislation.gov.uk/ukpga/1995/40/section/5), [7(2)](https://www.legislation.gov.uk/ukpga/1995/40/section/7/2), [Sch. 4 para. 93(4)](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/paragraph/93/4) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/40/schedule/3))

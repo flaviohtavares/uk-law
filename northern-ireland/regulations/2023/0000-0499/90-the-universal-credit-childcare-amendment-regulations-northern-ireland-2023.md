@@ -44,11 +44,11 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation and commencement[^key-d0dbbad8eca652d4b78bab9a35e07c59]
+## 1. Citation and commencement[^c-d0dbbad8eca652d4b78bab9a35e07c59]
 
 These Regulations may be cited as the Universal Credit (Childcare) (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 28th June 2023.
 
-## 2. Amendment of the Universal Credit Regulations[^key-841ddf6641547bfe293302da005ce036]
+## 2. Amendment of the Universal Credit Regulations[^c-841ddf6641547bfe293302da005ce036]
 
 (1) The Universal Credit Regulations (Northern Ireland) 2016[^f00004] are amended as follows.
 
@@ -85,8 +85,8 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927).
 
-[^key-d0dbbad8eca652d4b78bab9a35e07c59]: Commencement: Reg. 1 in operation at 28.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/90/regulation/1)
+[^c-d0dbbad8eca652d4b78bab9a35e07c59]: Commencement: Reg. 1 in operation at 28.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/90/regulation/1)
 
-[^key-841ddf6641547bfe293302da005ce036]: Commencement: Reg. 2 in operation at 28.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/90/regulation/1)
+[^c-841ddf6641547bfe293302da005ce036]: Commencement: Reg. 2 in operation at 28.6.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/90/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216). Regulation 80A was inserted by [S.R. 2016 No. 375](https://www.legislation.gov.uk/nisr/2016/375).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Provision of sensitive information to the Commissioner and certain investigators[^key-e00b02bea42342daaddbddd7c53042f9]
+## 82. Provision of sensitive information to the Commissioner and certain investigators[^c-e00b02bea42342daaddbddd7c53042f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e00b02bea42342daaddbddd7c53042f9]: Commencement: Reg. 82 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-e00b02bea42342daaddbddd7c53042f9]: Commencement: Reg. 82 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

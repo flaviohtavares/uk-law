@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Other case management powers[^key-9b0eb419601ba2ca923766ae1c7a8927]
+## 26. Other case management powers[^c-9b0eb419601ba2ca923766ae1c7a8927]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b0eb419601ba2ca923766ae1c7a8927]: Commencement: Reg. 26 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-9b0eb419601ba2ca923766ae1c7a8927]: Commencement: Reg. 26 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

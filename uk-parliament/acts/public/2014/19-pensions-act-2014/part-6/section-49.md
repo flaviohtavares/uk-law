@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Maximum period between scheme returns to be 5 years for micro schemes[^key-e42547bd2f49445af53ab0a64b6b0ab5]
+## 49. Maximum period between scheme returns to be 5 years for micro schemes[^c-e42547bd2f49445af53ab0a64b6b0ab5]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e42547bd2f49445af53ab0a64b6b0ab5]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2014/19/section/49) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/i)
+[^c-e42547bd2f49445af53ab0a64b6b0ab5]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2014/19/section/49) in force at 11.9.2014 by [S.I. 2014/2377](https://www.legislation.gov.uk/uksi/2014/2377), [art. 2(1)(a)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/1/a/i)[(2)(i)](https://www.legislation.gov.uk/uksi/2014/2377/article/2/2/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42B. Borrowing: Budget Acts[^key-48f85351e9967ff3198140a8aed7b2fe]
+## 42B. Borrowing: Budget Acts[^c-48f85351e9967ff3198140a8aed7b2fe]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48f85351e9967ff3198140a8aed7b2fe]: Textual amendment: Ss. 42A, 42B inserted (21.12.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 27(1)](https://www.legislation.gov.uk/asp/2013/5/section/27/1), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-48f85351e9967ff3198140a8aed7b2fe]: Textual amendment: Ss. 42A, 42B inserted (21.12.2013) by [Water Resources (Scotland) Act 2013 (asp 5)](https://www.legislation.gov.uk/asp/2013/5), [ss. 27(1)](https://www.legislation.gov.uk/asp/2013/5/section/27/1), [56(1)](https://www.legislation.gov.uk/asp/2013/5/section/56/1)[(2)](https://www.legislation.gov.uk/asp/2013/5/section/56/2); [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)

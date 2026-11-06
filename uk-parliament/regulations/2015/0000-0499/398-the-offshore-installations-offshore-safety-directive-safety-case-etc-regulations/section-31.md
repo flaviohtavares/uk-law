@@ -22,13 +22,13 @@ summary: ''
 
 (1) A duty holder must communicate to the persons specified in paragraph (2) the details of arrangements made by the competent authority for—
 
-- (a) the confidential reporting of safety and environmental concerns from any source relating to offshore oil and gas operations , CCUS operations and offshore hydrogen operations[^key-9e8919cffde1bee3e472e17024f0d107]; and
+- (a) the confidential reporting of safety and environmental concerns from any source relating to offshore oil and gas operations , CCUS operations and offshore hydrogen operations[^c-9e8919cffde1bee3e472e17024f0d107]; and
 - (b) the investigation of such concerns while maintaining the anonymity of individuals in connection with the confidential reporting of those concerns.
 
 (2) The persons are—
 
 - (a) employees of the duty holder;
-- (b) persons contracted by the duty holder to carry out offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^key-a2ff808c7943c3036e7f4d74306309f8]; and
+- (b) persons contracted by the duty holder to carry out offshore oil and gas operations , CCUS operations or offshore hydrogen operations[^c-a2ff808c7943c3036e7f4d74306309f8]; and
 - (c) employees of the persons referred to in sub-paragraph (b).
 
 (3) A duty holder must make reference to the confidential reporting mentioned in paragraph (1)(a) in relevant training and notices.
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e8919cffde1bee3e472e17024f0d107]: Textual amendment: Words in reg. 31(1)(a) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(8)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/8/a)
+[^c-9e8919cffde1bee3e472e17024f0d107]: Textual amendment: Words in reg. 31(1)(a) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(8)(a)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/8/a)
 
-[^key-a2ff808c7943c3036e7f4d74306309f8]: Textual amendment: Words in reg. 31(2)(b) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(8)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/8/b)
+[^c-a2ff808c7943c3036e7f4d74306309f8]: Textual amendment: Words in reg. 31(2)(b) inserted (6.4.2026) by [The Carbon Capture Utilisation and Storage and Offshore Hydrogen Production (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/185)](https://www.legislation.gov.uk/uksi/2026/185), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/185/regulation/1/1), [7(8)(b)](https://www.legislation.gov.uk/uksi/2026/185/regulation/7/8/b)

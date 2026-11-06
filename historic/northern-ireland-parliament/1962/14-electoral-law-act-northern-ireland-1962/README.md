@@ -30,7 +30,7 @@ Electoral Law Act (Northern Ireland) 1962 [^c18656461]
 
 An Act to consolidate with amendments certain enactments relating to parliamentary and local government elections, corrupt and illegal practices and election petitions.
 
-\[29th March 1962\][^key-cb88b70a0d7103d0dd31699870b6c6fb][^key-a0bd37f96b46d90b659e3808f358f3dc][^key-5ed5fa957eb153915d9365ecec3174ce]
+\[29th March 1962\][^c-cb88b70a0d7103d0dd31699870b6c6fb][^c-a0bd37f96b46d90b659e3808f358f3dc][^c-5ed5fa957eb153915d9365ecec3174ce]
 
 ## Contents
 
@@ -260,8 +260,8 @@ SCHEDULES
 
 [^c18656461]: Textual amendment: Refs. to registration officer, returning officer or electoral officer are to be construed as refs. to Chief Electoral Officer, [1972 NI 13](https://www.legislation.gov.uk/1972/ni13)
 
-[^key-cb88b70a0d7103d0dd31699870b6c6fb]: Modification: [Act](https://www.legislation.gov.uk/apni/1962/14) applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [4](https://www.legislation.gov.uk/uksi/2013/3156/article/4)
+[^c-cb88b70a0d7103d0dd31699870b6c6fb]: Modification: [Act](https://www.legislation.gov.uk/apni/1962/14) applied (with modifications) (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [4](https://www.legislation.gov.uk/uksi/2013/3156/article/4)
 
-[^key-a0bd37f96b46d90b659e3808f358f3dc]: Modification: [Act](https://www.legislation.gov.uk/apni/1962/14) modified (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [8](https://www.legislation.gov.uk/uksi/2013/3156/article/8)
+[^c-a0bd37f96b46d90b659e3808f358f3dc]: Modification: [Act](https://www.legislation.gov.uk/apni/1962/14) modified (12.12.2013) by [The Local Elections (Northern Ireland) Order 2013 (S.I. 2013/3156)](https://www.legislation.gov.uk/uksi/2013/3156), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/3156/article/1/1), [8](https://www.legislation.gov.uk/uksi/2013/3156/article/8)
 
-[^key-5ed5fa957eb153915d9365ecec3174ce]: Modification: [Act](https://www.legislation.gov.uk/apni/1962/14) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/11/paragraph/5/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/l)
+[^c-5ed5fa957eb153915d9365ecec3174ce]: Modification: [Act](https://www.legislation.gov.uk/apni/1962/14) applied (1.11.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 11 para. 5(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/11/paragraph/5/3); [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/l)

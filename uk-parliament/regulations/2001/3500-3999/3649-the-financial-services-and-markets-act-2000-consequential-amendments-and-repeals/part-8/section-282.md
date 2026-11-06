@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282. Insurance by local authorities against accidents to members[^key-a429b0b95472060a8a9c4fb10149c33b]
+## 282. Insurance by local authorities against accidents to members[^c-a429b0b95472060a8a9c4fb10149c33b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a429b0b95472060a8a9c4fb10149c33b]: Commencement: Art. 282 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-a429b0b95472060a8a9c4fb10149c33b]: Commencement: Art. 282 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00203]: Footnote: Section 140(1) was substituted by the Local Government (Miscellaneous Provisions) Act [1982 (c. 30)](https://www.legislation.gov.uk/ukpga/1982/30) s. 39(1) and has been amended by the Insurance Companies Act [1982 (c. 50)](https://www.legislation.gov.uk/ukpga/1982/50) Schedule 5, paragraph 13.

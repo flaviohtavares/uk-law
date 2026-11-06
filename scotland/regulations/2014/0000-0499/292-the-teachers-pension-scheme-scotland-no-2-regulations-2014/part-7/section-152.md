@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 152. Entitlement to pension credit retirement pension[^key-254c3a17e72cdd7ddf9a56ef41503daf]
+## 152. Entitlement to pension credit retirement pension[^c-254c3a17e72cdd7ddf9a56ef41503daf]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-254c3a17e72cdd7ddf9a56ef41503daf]: Commencement: [Reg. 152](https://www.legislation.gov.uk/ssi/2014/292/regulation/152) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-254c3a17e72cdd7ddf9a56ef41503daf]: Commencement: [Reg. 152](https://www.legislation.gov.uk/ssi/2014/292/regulation/152) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

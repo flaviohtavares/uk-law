@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Authority to survey and investigate the land[^key-26343c67cf72ca0bf72d55190f9fe8e3]
+## 22. Authority to survey and investigate the land[^c-26343c67cf72ca0bf72d55190f9fe8e3]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26343c67cf72ca0bf72d55190f9fe8e3]: Commencement: Art. 22 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-26343c67cf72ca0bf72d55190f9fe8e3]: Commencement: Art. 22 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

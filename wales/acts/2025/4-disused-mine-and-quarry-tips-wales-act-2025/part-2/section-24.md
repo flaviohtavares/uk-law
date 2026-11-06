@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Categories of disused tip[^key-995f164a4e2220b179c17ac3a3390676]
+## 24. Categories of disused tip[^c-995f164a4e2220b179c17ac3a3390676]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ on the basis of one or more of the matters in subsection (3).
 
 ## Annotations
 
-[^key-995f164a4e2220b179c17ac3a3390676]: Commencement: S. 24 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-995f164a4e2220b179c17ac3a3390676]: Commencement: S. 24 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

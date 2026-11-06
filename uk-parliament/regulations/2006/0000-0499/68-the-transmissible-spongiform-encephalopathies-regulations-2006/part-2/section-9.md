@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Specified risk material, mechanically recovered meat and slaughtering techniques[^key-8f9efbfe6e499efe4b91ea5840b7ecf6]
+## 9. Specified risk material, mechanically recovered meat and slaughtering techniques[^c-8f9efbfe6e499efe4b91ea5840b7ecf6]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 6 (specified risk material, mechanically recovered meat and slaughterin
 
 ## Annotations
 
-[^key-8f9efbfe6e499efe4b91ea5840b7ecf6]: Commencement: Reg. 9 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-8f9efbfe6e499efe4b91ea5840b7ecf6]: Commencement: Reg. 9 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Application to police officers[^key-ae49c0ddfc82df10b2a35f9bff817c06]
+## 67. Application to police officers[^c-ae49c0ddfc82df10b2a35f9bff817c06]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae49c0ddfc82df10b2a35f9bff817c06]: Commencement: S. 67 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-ae49c0ddfc82df10b2a35f9bff817c06]: Commencement: S. 67 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

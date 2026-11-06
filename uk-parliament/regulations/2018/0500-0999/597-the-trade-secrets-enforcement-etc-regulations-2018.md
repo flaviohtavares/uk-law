@@ -48,18 +48,18 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 The Secretary of State, in exercise of the powers conferred by section 2(2) of that Act, makes the following Regulations.
 
-## 1. Citation, commencement and extent[^key-448366b51df6e4e680e603fe3948f45b]
+## 1. Citation, commencement and extent[^c-448366b51df6e4e680e603fe3948f45b]
 
 (1) These Regulations may be cited as the Trade Secrets (Enforcement, etc.) Regulations 2018 and come into force on 9th June 2018.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-## 2. Interpretation[^key-b073febb5b8f211afd8b23910df45cd6]
+## 2. Interpretation[^c-b073febb5b8f211afd8b23910df45cd6]
 
 For the purposes of these Regulations—
 
 - “court” means—
-  - (a) in England and Wales, a County Court hearing centre specified in rule 63.13 of the Civil Procedure Rules 1998,[^key-af132e7c6ed7ceeb2365752aac5b18e7]
+  - (a) in England and Wales, a County Court hearing centre specified in rule 63.13 of the Civil Procedure Rules 1998,[^c-af132e7c6ed7ceeb2365752aac5b18e7]
   - (b) in Scotland, the sheriff or the Court of Session, and
   - (c) in Northern Ireland, a county court or the High Court;
 - “infringer” means a person who has unlawfully acquired, used or disclosed a trade secret;
@@ -70,7 +70,7 @@ For the purposes of these Regulations—
   - (c) has been subject to reasonable steps under the circumstances, by the person lawfully in control of the information, to keep it secret;
 - “trade secret holder” means any person lawfully controlling a trade secret.
 
-## 3. Wider protection[^key-7d3b106c34367c74013bc2a520eafae4]
+## 3. Wider protection[^c-7d3b106c34367c74013bc2a520eafae4]
 
 (1) The acquisition, use or disclosure of a trade secret is unlawful where the acquisition, use or disclosure constitutes a breach of confidence in confidential information.
 
@@ -81,7 +81,7 @@ For the purposes of these Regulations—
 
 (3) A trade secret holder may apply for and a court may grant the measures, procedures and remedies referred to in paragraph (2) in addition, or as an alternative, to the measures procedures and remedies provided for in these Regulations in respect of the unlawful acquisition, use or disclosure of a trade secret.
 
-## 4. Time limits for bringing proceedings[^key-e4e1e684f96fb1ca457285b49ce2e688]
+## 4. Time limits for bringing proceedings[^c-e4e1e684f96fb1ca457285b49ce2e688]
 
 (1) Proceedings may not be brought before a court in respect of a claim for the unlawful acquisition, use or disclosure of a trade secret and for the application of measures, procedures and remedies provided for under these Regulations—
 
@@ -102,7 +102,7 @@ For the purposes of these Regulations—
 - (b) section 13 (prohibition of contracting out);
 - (c) section 14(1)(c) and (d) (computation of prescriptive periods).
 
-## 5. Length of limitation or prescriptive period[^key-576a15047d67da84d06aea15acaf55e5]
+## 5. Length of limitation or prescriptive period[^c-576a15047d67da84d06aea15acaf55e5]
 
 (1) The limitation period is six years.
 
@@ -110,7 +110,7 @@ For the purposes of these Regulations—
 
 (3) The limitation or prescriptive period begins with the day specified in regulation 6.
 
-## 6. Beginning of limitation or prescriptive period[^key-12e89e315fcc7e0a359fd519417a8159]
+## 6. Beginning of limitation or prescriptive period[^c-12e89e315fcc7e0a359fd519417a8159]
 
 (1) The limitation or prescriptive period for a claim for the unlawful acquisition, use or disclosure of a trade secret against an infringer begins with the later of—
 
@@ -135,7 +135,7 @@ For the purposes of these Regulations—
 - (a) regulation 7 in relation to the limitation period, and
 - (b) regulation 8 in relation to the prescriptive period.
 
-## 7. Effect of disability on limitation period[^key-66901594b0f2eeb3d17bfd44a0d08f5c]
+## 7. Effect of disability on limitation period[^c-66901594b0f2eeb3d17bfd44a0d08f5c]
 
 (1) If, in relation to a claim in England and Wales and Northern Ireland for the unlawful acquisition, use or disclosure of a trade secret, the trade secret holder is under a disability during the whole or any part of the limitation period, the limitation period for the claim begins with the earlier of—
 
@@ -146,7 +146,7 @@ For the purposes of these Regulations—
 
 (3) In Northern Ireland, references in paragraph (1) to a person being “under a disability” have the same meaning as in article 47 of the Limitation (Northern Ireland) Order 1989[^f00007] (persons under a disability).
 
-## 8. Suspension of prescriptive period during period of disability[^key-58fe0c4aac70b1808591779d496d4909]
+## 8. Suspension of prescriptive period during period of disability[^c-58fe0c4aac70b1808591779d496d4909]
 
 (1) If, in relation to a claim in Scotland for the unlawful acquisition, use or disclosure of a trade secret, the trade secret holder is under legal disability for a period at any time, the period during which the trade secret holder is under legal disability—
 
@@ -155,14 +155,14 @@ For the purposes of these Regulations—
 
 (2) In paragraph (1), “legal disability” has the same meaning as in section 15(1) of the Prescription and Limitation (Scotland) Act 1973 (interpretation).
 
-## 9. New claims in pending actions: England and Wales and Northern Ireland[^key-113d055295d2fb4217b1947704d0e5bc]
+## 9. New claims in pending actions: England and Wales and Northern Ireland[^c-113d055295d2fb4217b1947704d0e5bc]
 
 For the purposes of regulations 4 to 7—
 
 - (a) section 35 of the Limitation Act 1980 (new claims in pending action) applies in relation to a claim for the unlawful acquisition, use or disclosure of a trade secret that is a new claim and to proceedings for the unlawful acquisition, use or disclosure of a trade secret as it applies in relation to new claims and proceedings for the purposes of that Act; and
 - (b) Article 73 of the Limitation (Northern Ireland) Order 1989 (new claims in pending actions) applies in relation to a claim for the unlawful acquisition, use or disclosure of a trade secret that is a new claim and to proceedings for the unlawful acquisition, use or disclosure of a trade secret as it applies in relation to new claims and proceedings for the purposes of that Order.
 
-## 10. Preservation of confidentiality of trade secrets in the course of proceedings[^key-5be0d3a4c79bdc96f1868ec5ed68a6e6]
+## 10. Preservation of confidentiality of trade secrets in the course of proceedings[^c-5be0d3a4c79bdc96f1868ec5ed68a6e6]
 
 (1) A participant, or a participant who has access to documents which form part of the proceedings, must not use or disclose any trade secret or alleged trade secret—
 
@@ -198,7 +198,7 @@ For the purposes of regulations 4 to 7—
 - “parties”, in paragraph (7), includes, where appropriate, third parties;
 - “proceedings” means legal proceedings relating to the unlawful acquisition, use or disclosure of a trade secret.
 
-## 11. Interim measures[^key-cdebd25764427bd4cd63e3f3202db709]
+## 11. Interim measures[^c-cdebd25764427bd4cd63e3f3202db709]
 
 (1) On the application of a trade secret holder, a court may order any of the following measures against the alleged infringer—
 
@@ -223,7 +223,7 @@ For the purposes of regulations 4 to 7—
 
 (8) A court may make an order under paragraph (1) or (6) conditional upon the lodging by the trade secret holder of adequate security or an equivalent assurance intended to ensure compensation for any prejudice suffered by the alleged infringer and, where appropriate, by any other person affected by the order.
 
-## 12. Matters to be considered before making an order under regulation 11(1)[^key-44350cbcf2a627512b8b5b808d231a34]
+## 12. Matters to be considered before making an order under regulation 11(1)[^c-44350cbcf2a627512b8b5b808d231a34]
 
 (1) Before making an order under regulation 11(1), a court may require the trade secret holder to provide evidence that may reasonably be considered available to satisfy the court with a sufficient degree of certainty that—
 
@@ -245,7 +245,7 @@ For the purposes of regulations 4 to 7—
 - (g) the public interest, and
 - (h) the safeguard of fundamental rights.
 
-## 13. Revocation of order under regulation 11(1)[^key-bbf36092bc1de33c818ae745fc990caf]
+## 13. Revocation of order under regulation 11(1)[^c-bbf36092bc1de33c818ae745fc990caf]
 
 (1) Where a court makes an order under regulation 11(1), the court may, on the application of the alleged infringer, revoke the order—
 
@@ -258,7 +258,7 @@ For the purposes of regulations 4 to 7—
 - (b) where the measure lapses due to any act or omission by the trade secret holder, or
 - (c) where it is subsequently found that there has been no unlawful acquisition, use or disclosure of a trade secret or threat of such conduct.
 
-## 14. Injunctions or interdicts and corrective measures[^key-9b975ba04e4db95fd5ef92d7bfa34486]
+## 14. Injunctions or interdicts and corrective measures[^c-9b975ba04e4db95fd5ef92d7bfa34486]
 
 (1) Where a court finds on the merits of the case that there has been an unlawful acquisition, use or disclosure of a trade secret, the court may, on application by the trade secret holder, order one or more of the following measures against the infringer—
 
@@ -277,7 +277,7 @@ For the purposes of regulations 4 to 7—
 - (a) order that the measure be carried out at the expense of the infringer, unless there are particular reasons for not doing so, and
 - (b) ensure the measure is without prejudice to any damages that may be due to the trade secret holder by reason of the unlawful acquisition, use or disclosure of the trade secret.
 
-## 15. Matters to be considered when making an order under regulation 14[^key-70a61c9cb5551e575cbe27dc2bbaf9cb]
+## 15. Matters to be considered when making an order under regulation 14[^c-70a61c9cb5551e575cbe27dc2bbaf9cb]
 
 (1) In considering an application for an order under regulation 14 and assessing the proportionality of such an order, the court must take into account the specific circumstances of the case, including where appropriate—
 
@@ -296,7 +296,7 @@ For the purposes of regulations 4 to 7—
 
 (4) In the application of paragraph (3) to Scotland, “defendant” means defender.
 
-## 16. Compensation instead of order under regulation 14[^key-aac0e810b9cfcedbfe0124d70876cac6]
+## 16. Compensation instead of order under regulation 14[^c-aac0e810b9cfcedbfe0124d70876cac6]
 
 (1) A person liable to the imposition of an order under regulation 14 may apply for, and a court may make, an order for compensation to be paid to the injured party instead of an order under regulation 14—
 
@@ -306,7 +306,7 @@ For the purposes of regulations 4 to 7—
 
 (2) Where a court makes an order for the payment of compensation instead of an order under regulation 14(1)(a) or (b), the compensation must not exceed the amount of royalties or fees which would have been due, had that person obtained a licence to use the trade secret in question, for the period for which use of the trade secret could have been prohibited.
 
-## 17. Assessment of damages[^key-258885d14587ba34d2814cb5b8d44e4c]
+## 17. Assessment of damages[^c-258885d14587ba34d2814cb5b8d44e4c]
 
 (1) On the application of an injured party, a court must order an infringer, who knew or ought to have known that unlawful acquisition, use or disclosure of a trade secret was being engaged in, to pay the trade secret holder damages appropriate to the actual prejudice suffered as a result of the unlawful acquisition, use or disclosure of the trade secret.
 
@@ -319,7 +319,7 @@ For the purposes of regulations 4 to 7—
 
 (4) When awarding damages under paragraph (1) on the basis of this paragraph, a court may, where appropriate, award damages on the basis of the royalties or fees which would have been due had the infringer obtained a licence to use the trade secret in question.
 
-## 18. Publication of judicial decisions[^key-ca3eb1edf0ffd1e2c15f8b75f3cf6666]
+## 18. Publication of judicial decisions[^c-ca3eb1edf0ffd1e2c15f8b75f3cf6666]
 
 (1) In proceedings for the unlawful acquisition, use or disclosure of a trade secret, a court may order, on the application of the trade secret holder and at the expense of the infringer, appropriate measures for the dissemination of information concerning the judgment, including its publication in whole or in part.
 
@@ -333,7 +333,7 @@ For the purposes of regulations 4 to 7—
 - (d) the likelihood of further unlawful use, or disclosure of the trade secret by the infringer, and
 - (e) whether the information on the infringer would be such as to allow an individual to be identified and, if so, whether publication of that information would be justified, in particular in the light of the possible harm that such measure may cause to the privacy and reputation of the infringer.
 
-## 19. Proceedings to which these Regulations apply[^key-eebb190be24102946db8f6d9f26aa0b9]
+## 19. Proceedings to which these Regulations apply[^c-eebb190be24102946db8f6d9f26aa0b9]
 
 These Regulations apply only to proceedings—
 
@@ -389,52 +389,52 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: [S.I. 2006/608](https://www.legislation.gov.uk/uksi/2006/608).
 
-[^key-448366b51df6e4e680e603fe3948f45b]: Commencement: Reg. 1 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-448366b51df6e4e680e603fe3948f45b]: Commencement: Reg. 1 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-b073febb5b8f211afd8b23910df45cd6]: Commencement: Reg. 2 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-b073febb5b8f211afd8b23910df45cd6]: Commencement: Reg. 2 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-af132e7c6ed7ceeb2365752aac5b18e7]: Textual amendment: Words in reg. 2 substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/20)
+[^c-af132e7c6ed7ceeb2365752aac5b18e7]: Textual amendment: Words in reg. 2 substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/20)
 
-[^key-7d3b106c34367c74013bc2a520eafae4]: Commencement: Reg. 3 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-7d3b106c34367c74013bc2a520eafae4]: Commencement: Reg. 3 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
 [^f00004]: Footnote: OJ L157, 15.6.2016, p1.
 
-[^key-e4e1e684f96fb1ca457285b49ce2e688]: Commencement: Reg. 4 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-e4e1e684f96fb1ca457285b49ce2e688]: Commencement: Reg. 4 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
 [^f00005]: Footnote: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58).
 
 [^f00006]: Footnote: [1973 c. 52](https://www.legislation.gov.uk/ukpga/1973/52).
 
-[^key-576a15047d67da84d06aea15acaf55e5]: Commencement: Reg. 5 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-576a15047d67da84d06aea15acaf55e5]: Commencement: Reg. 5 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-12e89e315fcc7e0a359fd519417a8159]: Commencement: Reg. 6 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-12e89e315fcc7e0a359fd519417a8159]: Commencement: Reg. 6 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-66901594b0f2eeb3d17bfd44a0d08f5c]: Commencement: Reg. 7 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-66901594b0f2eeb3d17bfd44a0d08f5c]: Commencement: Reg. 7 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1989/1339 (N.I. 11)](https://www.legislation.gov.uk/nisi/1989/1339).
 
-[^key-58fe0c4aac70b1808591779d496d4909]: Commencement: Reg. 8 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-58fe0c4aac70b1808591779d496d4909]: Commencement: Reg. 8 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-113d055295d2fb4217b1947704d0e5bc]: Commencement: Reg. 9 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-113d055295d2fb4217b1947704d0e5bc]: Commencement: Reg. 9 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-5be0d3a4c79bdc96f1868ec5ed68a6e6]: Commencement: Reg. 10 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-5be0d3a4c79bdc96f1868ec5ed68a6e6]: Commencement: Reg. 10 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-cdebd25764427bd4cd63e3f3202db709]: Commencement: Reg. 11 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-cdebd25764427bd4cd63e3f3202db709]: Commencement: Reg. 11 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
 [^f00008]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-44350cbcf2a627512b8b5b808d231a34]: Commencement: Reg. 12 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-44350cbcf2a627512b8b5b808d231a34]: Commencement: Reg. 12 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-bbf36092bc1de33c818ae745fc990caf]: Commencement: Reg. 13 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-bbf36092bc1de33c818ae745fc990caf]: Commencement: Reg. 13 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-9b975ba04e4db95fd5ef92d7bfa34486]: Commencement: Reg. 14 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-9b975ba04e4db95fd5ef92d7bfa34486]: Commencement: Reg. 14 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-70a61c9cb5551e575cbe27dc2bbaf9cb]: Commencement: Reg. 15 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-70a61c9cb5551e575cbe27dc2bbaf9cb]: Commencement: Reg. 15 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-aac0e810b9cfcedbfe0124d70876cac6]: Commencement: Reg. 16 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-aac0e810b9cfcedbfe0124d70876cac6]: Commencement: Reg. 16 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-258885d14587ba34d2814cb5b8d44e4c]: Commencement: Reg. 17 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-258885d14587ba34d2814cb5b8d44e4c]: Commencement: Reg. 17 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-ca3eb1edf0ffd1e2c15f8b75f3cf6666]: Commencement: Reg. 18 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-ca3eb1edf0ffd1e2c15f8b75f3cf6666]: Commencement: Reg. 18 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
 
-[^key-eebb190be24102946db8f6d9f26aa0b9]: Commencement: Reg. 19 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)
+[^c-eebb190be24102946db8f6d9f26aa0b9]: Commencement: Reg. 19 in force at 9.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/597/regulation/1/1)

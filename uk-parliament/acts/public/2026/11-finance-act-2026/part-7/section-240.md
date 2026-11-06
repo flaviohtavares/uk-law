@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Extension of period for making representations[^M_I_aab471fd-50c7-42e4-a0f0-72802803153b][^key-e62eab2130d2927f3cde4178fc7fda74][^key-0423c67fffbfd3b549a06e1e21ea4e6a]
+## 240. Extension of period for making representations[^M_I_aab471fd-50c7-42e4-a0f0-72802803153b][^c-e62eab2130d2927f3cde4178fc7fda74][^c-0423c67fffbfd3b549a06e1e21ea4e6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ Where a provision of this Chapter requires an authorised officer of Revenue and 
 
 [^M_I_aab471fd-50c7-42e4-a0f0-72802803153b]: Commencement: S. 240 not in force at Royal Assent, see [s. 249(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/249/2)
 
-[^key-e62eab2130d2927f3cde4178fc7fda74]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2026/11/section/240) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
+[^c-e62eab2130d2927f3cde4178fc7fda74]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2026/11/section/240) in force at 14.7.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 3](https://www.legislation.gov.uk/uksi/2026/807/regulation/3)
 
-[^key-0423c67fffbfd3b549a06e1e21ea4e6a]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2026/11/section/240) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))
+[^c-0423c67fffbfd3b549a06e1e21ea4e6a]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2026/11/section/240) in force at 18.8.2026 for specified purposes by [S.I. 2026/807](https://www.legislation.gov.uk/uksi/2026/807), [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2026/807/regulation/4/1/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2026/807/regulation/5))

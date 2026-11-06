@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Registration of warrant or determination of debtor application[^key-c289e8a020f8a12afb021bd61635101d]
+## 26. Registration of warrant or determination of debtor application[^c-c289e8a020f8a12afb021bd61635101d]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c289e8a020f8a12afb021bd61635101d]: Commencement: S. 26 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-c289e8a020f8a12afb021bd61635101d]: Commencement: S. 26 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Receipt of a transfer value payment[^key-2806a297017a84b11c67e90fc97aa33f]
+## 41. Receipt of a transfer value payment[^c-2806a297017a84b11c67e90fc97aa33f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2806a297017a84b11c67e90fc97aa33f]: Commencement: Reg. 41 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-2806a297017a84b11c67e90fc97aa33f]: Commencement: Reg. 41 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

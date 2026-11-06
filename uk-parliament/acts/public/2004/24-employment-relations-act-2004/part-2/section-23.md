@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Entitlement to vote in ballot on industrial action[^key-8a8e7f185bf084a576bf576addfddd87]
+## 23. Entitlement to vote in ballot on industrial action[^c-8a8e7f185bf084a576bf576addfddd87]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 227(1) of the 1992 Act (entitlement to vote in ballot on industrial a
 
 ## Annotations
 
-[^key-8a8e7f185bf084a576bf576addfddd87]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2004/24/section/23) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-8a8e7f185bf084a576bf576addfddd87]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2004/24/section/23) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)

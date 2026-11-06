@@ -65,10 +65,10 @@ summary: ''
 
 .
 
-(9)[^key-07f1dfc38fc3a041b8892243935d3331] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-07f1dfc38fc3a041b8892243935d3331] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c18912011]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2006/22/section/12) wholly in force at 14.5.2008; [s. 12](https://www.legislation.gov.uk/ukpga/2006/22/section/12) not in force at Royal Assent see [s. 77](https://www.legislation.gov.uk/ukpga/2006/22/section/77); [s. 12](https://www.legislation.gov.uk/ukpga/2006/22/section/12) in force for E.W.S. at 1.1.2007 by [S.I. 2006/3412](https://www.legislation.gov.uk/uksi/2006/3412), [art. 3](https://www.legislation.gov.uk/uksi/2006/3412/article/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2006/3412/schedule/1/paragraph/14) (a) (subject to transitional provisions in Sch. 2); [s. 12](https://www.legislation.gov.uk/ukpga/2006/22/section/12) in force for N.I. at 14.5.2008 by [S.I. 2008/1316](https://www.legislation.gov.uk/uksi/2008/1316), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2008/1316/article/2/1), [3(a)](https://www.legislation.gov.uk/uksi/2008/1316/article/3/a)
 
-[^key-07f1dfc38fc3a041b8892243935d3331]: Textual amendment: [S. 12(9)](https://www.legislation.gov.uk/ukpga/2006/22/section/12/9) repealed (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 11(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/11/c) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)
+[^c-07f1dfc38fc3a041b8892243935d3331]: Textual amendment: [S. 12(9)](https://www.legislation.gov.uk/ukpga/2006/22/section/12/9) repealed (16.1.2024) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 7 para. 11(c)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/11/c) (with [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2022/37/schedule/7/paragraph/13)); [S.I. 2023/1405](https://www.legislation.gov.uk/uksi/2023/1405), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1405/regulation/2)

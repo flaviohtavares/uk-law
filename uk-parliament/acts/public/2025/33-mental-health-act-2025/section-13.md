@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Medicine etc: treatment conflicting with a decision by or on behalf of a patient[^key-d23f98b810d34e5aaff783e70db7d57b]
+## 13. Medicine etc: treatment conflicting with a decision by or on behalf of a patient[^c-d23f98b810d34e5aaff783e70db7d57b]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d23f98b810d34e5aaff783e70db7d57b]: Commencement: S. 13 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-d23f98b810d34e5aaff783e70db7d57b]: Commencement: S. 13 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)

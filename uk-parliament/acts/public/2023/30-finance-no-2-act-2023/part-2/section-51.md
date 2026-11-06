@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Alcoholic products qualifying for draught relief[^M_I_377cd07f-f163-4151-b270-125d345161b4][^key-65e4fff0b75c536c98a7ecbb20458dad]
+## 51. Alcoholic products qualifying for draught relief[^M_I_377cd07f-f163-4151-b270-125d345161b4][^c-65e4fff0b75c536c98a7ecbb20458dad]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) are of an alcoholic strength of less than 8.5%, and
 - (b) at the excise duty point are contained in, or are being transported to a place in the United Kingdom for the purpose of being transferred to, a large draught container.
 
-(2)[^key-54c079cf9018d0b3a8420558b416e761] But alcoholic products that are produced in the United Kingdom by a person otherwise than in accordance with an approval under section 82 are not qualifying draught products.
+(2)[^c-54c079cf9018d0b3a8420558b416e761] But alcoholic products that are produced in the United Kingdom by a person otherwise than in accordance with an approval under section 82 are not qualifying draught products.
 
 (3) A “**large draught container**” means a container which—
 
@@ -46,6 +46,6 @@ summary: ''
 
 [^M_I_377cd07f-f163-4151-b270-125d345161b4]: Commencement: S. 51 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-65e4fff0b75c536c98a7ecbb20458dad]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/30/section/51) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-65e4fff0b75c536c98a7ecbb20458dad]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/30/section/51) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
 
-[^key-54c079cf9018d0b3a8420558b416e761]: Modification: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/51/2) modified (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6)
+[^c-54c079cf9018d0b3a8420558b416e761]: Modification: [S. 51(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/51/2) modified (31.7.2023) by [The Finance (No. 2) Act 2023, Part 2 (Alcohol Duty) (Appointed Day, Savings, Consequential Amendments and Transitional Provisions) Regulations 2023 (S.I. 2023/884)](https://www.legislation.gov.uk/uksi/2023/884), [reg. 6](https://www.legislation.gov.uk/uksi/2023/884/regulation/6)

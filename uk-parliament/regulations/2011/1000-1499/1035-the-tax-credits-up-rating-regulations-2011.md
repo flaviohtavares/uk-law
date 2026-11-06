@@ -46,17 +46,17 @@ A draft of these Regulations was laid before Parliament in accordance with secti
 
 The Treasury make the following Regulations in the exercise of the powers conferred by sections 7(1)(a), 9, 11, 12, 13, 65(1) and 67 of that Act[^f00002].
 
-## 1. Citation, commencement, and effect[^key-0ecabf7af9c9af5a27e946aa70d3d635]
+## 1. Citation, commencement, and effect[^c-0ecabf7af9c9af5a27e946aa70d3d635]
 
 (1) These Regulations may be cited as the Tax Credits Up-rating Regulations 2011 and come into force on 6th April 2011.
 
 (2) These Regulations have effect in relation to awards of tax credits for the year beginning on 6th April 2011.
 
-## 2. Amendment of the Child Tax Credit Regulations[^key-5245a5f3f33e19a212a9425ece9c7ffa]
+## 2. Amendment of the Child Tax Credit Regulations[^c-5245a5f3f33e19a212a9425ece9c7ffa]
 
 (1) Regulation 7 of the Child Tax Credit Regulations 2002[^f00003] (determination of the maximum rate) is amended as follows.
 
-(2)[^key-19cb47352f03dd0276e248f294ef4a99] For paragraph (3) substitute—
+(2)[^c-19cb47352f03dd0276e248f294ef4a99] For paragraph (3) substitute—
 
 > (3) The family element of child tax credit is £545.
 
@@ -71,28 +71,28 @@ The Treasury make the following Regulations in the exercise of the powers confer
 - (e) in sub-paragraph (e) for £6,110” substitute “£6,485”;
 - (f) in sub-paragraph (f) for £2,300” substitute “£2,555”.
 
-## 3. Amendment of the Working Tax Credit (Entitlement and Maximum Rate) Regulations[^key-f70714f5cca09fd0144c9931a3132e89]
+## 3. Amendment of the Working Tax Credit (Entitlement and Maximum Rate) Regulations[^c-f70714f5cca09fd0144c9931a3132e89]
 
 (1) The Working Tax Credit (Entitlement and Maximum Rate) Regulations 2002[^f00004] are amended as follows.
 
-(2)[^key-eb579a1cac1ac8bc04d52d2a0b0924b4] In regulation 20(2) (the childcare percentage) for “80 per cent” substitute “70 per cent”.
+(2)[^c-eb579a1cac1ac8bc04d52d2a0b0924b4] In regulation 20(2) (the childcare percentage) for “80 per cent” substitute “70 per cent”.
 
 (3) For the Table in Schedule 2 (maximum rates of the elements of a working tax credit) substitute the Table set out in the Schedule to these Regulations.
 
-## 4. Amendment of the Tax Credits (Income Thresholds and Determination of Rates) Regulations 2002[^key-f6ec7887acf96b9419d23949c59bcd15]
+## 4. Amendment of the Tax Credits (Income Thresholds and Determination of Rates) Regulations 2002[^c-f6ec7887acf96b9419d23949c59bcd15]
 
 (1) The Tax Credits (Income Thresholds and Determinations of Rates) Regulations 2002[^f00005] are amended as follows.
 
-(2)[^key-a7e6e9dd0cc04feca8d6dced45620ba6] In regulation 3(3) (manner in which amounts to be determined for the purposes of section 7(1)(a) of the Act) for “£16,190” substitute “£15,860”.
+(2)[^c-a7e6e9dd0cc04feca8d6dced45620ba6] In regulation 3(3) (manner in which amounts to be determined for the purposes of section 7(1)(a) of the Act) for “£16,190” substitute “£15,860”.
 
 (3) In regulation 5 (amounts prescribed for section 7(3)(a) and (b) of the Act) for “£25,000” substitute “£10,000”.
 
-(4)[^key-a7e6e9dd0cc04feca8d6dced45620ba6] In regulation 7(3) (determination of rate of working tax credit), in Step 10, for “80%” substitute “70%”.
+(4)[^c-a7e6e9dd0cc04feca8d6dced45620ba6] In regulation 7(3) (determination of rate of working tax credit), in Step 10, for “80%” substitute “70%”.
 
 (5) In regulation 8(3) (determination of child tax credit)—
 
-- (a)[^key-a7e6e9dd0cc04feca8d6dced45620ba6] in Step 4, for “£16,190” substitute “£15,860”;
-- (b)[^key-a7e6e9dd0cc04feca8d6dced45620ba6] in Step 5, for “39%” substitute “41%”;
+- (a)[^c-a7e6e9dd0cc04feca8d6dced45620ba6] in Step 4, for “£16,190” substitute “£15,860”;
+- (b)[^c-a7e6e9dd0cc04feca8d6dced45620ba6] in Step 5, for “39%” substitute “41%”;
 - (c) in Step 8—
   - (i) for “6.67%” substitute “41%”;
   - (ii) for “£50,000” substitute “£40,000”;
@@ -106,7 +106,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 30th March 2011
 
-## SCHEDULE[^key-926fea9b1876bb551d01ef4a16685982]
+## SCHEDULE[^c-926fea9b1876bb551d01ef4a16685982]
 
 Regulation 3
 
@@ -152,24 +152,24 @@ A full Impact Assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: Section 67 is cited for the meaning given to the word “prescribed”.
 
-[^key-0ecabf7af9c9af5a27e946aa70d3d635]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)
+[^c-0ecabf7af9c9af5a27e946aa70d3d635]: Commencement: Reg. 1 in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)
 
-[^key-5245a5f3f33e19a212a9425ece9c7ffa]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)
+[^c-5245a5f3f33e19a212a9425ece9c7ffa]: Commencement: Reg. 2 in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2002/2007](https://www.legislation.gov.uk/uksi/2002/2007); the last relevant amending instrument is [S.I.2010/981](https://www.legislation.gov.uk/uksi/2010/981).
 
-[^key-19cb47352f03dd0276e248f294ef4a99]: Modification: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/2/2) continued (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/849/regulation/5/a)
+[^c-19cb47352f03dd0276e248f294ef4a99]: Modification: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/2/2) continued (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [5(a)](https://www.legislation.gov.uk/uksi/2012/849/regulation/5/a)
 
-[^key-f70714f5cca09fd0144c9931a3132e89]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)
+[^c-f70714f5cca09fd0144c9931a3132e89]: Commencement: Reg. 3 in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2002/2005](https://www.legislation.gov.uk/uksi/2002/2005); relevant amending instruments are [S.I. 2006/963](https://www.legislation.gov.uk/uksi/2006/963) and [S.I. 2010/981](https://www.legislation.gov.uk/uksi/2010/981).
 
-[^key-eb579a1cac1ac8bc04d52d2a0b0924b4]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/3/2) continued (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2012/849/regulation/5/b)
+[^c-eb579a1cac1ac8bc04d52d2a0b0924b4]: Modification: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/3/2) continued (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [5(b)](https://www.legislation.gov.uk/uksi/2012/849/regulation/5/b)
 
-[^key-f6ec7887acf96b9419d23949c59bcd15]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)
+[^c-f6ec7887acf96b9419d23949c59bcd15]: Commencement: Reg. 4 in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 2002/2008](https://www.legislation.gov.uk/uksi/2002/2008); relevant amending instruments are [S.I. 2006/963](https://www.legislation.gov.uk/uksi/2006/963), [S.I. 2008/796](https://www.legislation.gov.uk/uksi/2008/796), [S.I. 2010/751](https://www.legislation.gov.uk/uksi/2010/751) and [S.I. 2010/981](https://www.legislation.gov.uk/uksi/2010/981).
 
-[^key-a7e6e9dd0cc04feca8d6dced45620ba6]: Modification: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/2)[(4)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/4)[(5)(a)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/5/a)[(b)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/5/b) continued (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2012/849/regulation/5/c)
+[^c-a7e6e9dd0cc04feca8d6dced45620ba6]: Modification: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/2)[(4)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/4)[(5)(a)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/5/a)[(b)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/4/5/b) continued (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Tax Credits Up-rating Regulations 2012 (S.I. 2012/849)](https://www.legislation.gov.uk/uksi/2012/849), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/849/regulation/1/1), [5(c)](https://www.legislation.gov.uk/uksi/2012/849/regulation/5/c)
 
-[^key-926fea9b1876bb551d01ef4a16685982]: Commencement: Sch. in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)
+[^c-926fea9b1876bb551d01ef4a16685982]: Commencement: Sch. in force at 6.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/1035/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Temporary increase in amount of first-year allowances for small enterprises[^key-a6a7a6bc5879de4c24b8ffd4b1510a5f]
+## 30. Temporary increase in amount of first-year allowances for small enterprises[^c-a6a7a6bc5879de4c24b8ffd4b1510a5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6a7a6bc5879de4c24b8ffd4b1510a5f]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2006/25/section/30) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 75(4)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/75/4/b)
+[^c-a6a7a6bc5879de4c24b8ffd4b1510a5f]: Textual amendment: [S. 30](https://www.legislation.gov.uk/ukpga/2006/25/section/30) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 75(4)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/75/4/b)

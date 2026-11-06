@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Prohibition on opening current accounts for disqualified persons[^key-dd94146e04678b11743efddde29f0ca8]
+## 40. Prohibition on opening current accounts for disqualified persons[^c-dd94146e04678b11743efddde29f0ca8]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,10 +52,10 @@ summary: ''
 
 (6) A bank or building society that refuses to open a current account for someone on the ground that he or she is a disqualified person must tell the person, if it may lawfully do so, that that is the reason for its refusal.
 
-(7)[^key-002baf5da2fd711926a855b64fcc3acd] The prohibition in subsection (1) does not apply in the case of an account to be operated (or an account that is operated) by or for a person or body of a description specified in an order made by the Treasury.
+(7)[^c-002baf5da2fd711926a855b64fcc3acd] The prohibition in subsection (1) does not apply in the case of an account to be operated (or an account that is operated) by or for a person or body of a description specified in an order made by the Treasury.
 
 ## Annotations
 
-[^key-dd94146e04678b11743efddde29f0ca8]: Commencement: S. 40 in force at 12.12.2014 by [S.I. 2014/1943](https://www.legislation.gov.uk/uksi/2014/1943), [art. 2](https://www.legislation.gov.uk/uksi/2014/1943/article/2)
+[^c-dd94146e04678b11743efddde29f0ca8]: Commencement: S. 40 in force at 12.12.2014 by [S.I. 2014/1943](https://www.legislation.gov.uk/uksi/2014/1943), [art. 2](https://www.legislation.gov.uk/uksi/2014/1943/article/2)
 
-[^key-002baf5da2fd711926a855b64fcc3acd]: Textual amendment: S. 40(7) inserted (12.12.2014) by [The Immigration Act 2014 (Bank Accounts) (Amendment) Order 2014 (S.I. 2014/3074)](https://www.legislation.gov.uk/uksi/2014/3074), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3074/article/1), [2](https://www.legislation.gov.uk/uksi/2014/3074/article/2)
+[^c-002baf5da2fd711926a855b64fcc3acd]: Textual amendment: S. 40(7) inserted (12.12.2014) by [The Immigration Act 2014 (Bank Accounts) (Amendment) Order 2014 (S.I. 2014/3074)](https://www.legislation.gov.uk/uksi/2014/3074), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3074/article/1), [2](https://www.legislation.gov.uk/uksi/2014/3074/article/2)

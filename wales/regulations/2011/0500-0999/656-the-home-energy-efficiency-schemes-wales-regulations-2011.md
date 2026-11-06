@@ -60,24 +60,24 @@ In these Regulations—
 - “**advice**” (“***cyngor***”) means advice on reducing or preventing the wastage of energy in dwellings in respect of which any works are carried out or contemplated;
 - “**advice application**” (“***cais am gyngor***”) means an application which is for a grant in relation to advice and in which the applicant proposes that an area agency will arrange for the giving of advice;
 - “**area agency**” (“***asiantaeth ardal***”) means, except in paragraph (1) of regulation 4, the person or body of persons for the time being appointed and responsible for the area in question under that Regulation;
-- “**asset rating**” (“***dosbarthiad ased***”) has the meaning given in regulation 2(1) of the Energy Performance of Buildings (England and Wales) Regulations 2012[^key-7c6643740f59ea2d62e1c8d3295dc777];
+- “**asset rating**” (“***dosbarthiad ased***”) has the meaning given in regulation 2(1) of the Energy Performance of Buildings (England and Wales) Regulations 2012[^c-7c6643740f59ea2d62e1c8d3295dc777];
 - “**dwelling**” (“***annedd***”) includes any building in multiple occupation; and for this purpose “**building in multiple occupation**” means a building which is occupied by persons who do not form a single household, exclusive of any part of the building which is occupied as a separate dwelling by persons who form a single household;
 - “**eligibility criteria**” (“***meini prawf cymhwystra***”) means the criteria determined for the time being by or (as the case may be) in accordance with Regulation 5;
-- “[^key-bd4ab5137a675c090fca0a2b8ae341f1]**health eligibility criteria**” (“***meini prawf cymhwystra iechyd***”) means a person living with a chronic respiratory, circulatory or mental health condition;”
+- “[^c-bd4ab5137a675c090fca0a2b8ae341f1]**health eligibility criteria**” (“***meini prawf cymhwystra iechyd***”) means a person living with a chronic respiratory, circulatory or mental health condition;”
 - “**households below average income report**” (“***adroddiad aelwydydd islaw’r incwm cyfartalog***”) means the data published from time to time by the Secretary of State on household and individual incomes under section 4 of the Welfare Reform and Work Act 2016.
 - “**income threshold**” (“***trothwy incwm***”) means the income threshold as determined from time to time pursuant to Section 7(1)(a) of the Tax Credits Act 2002 [^c20789041];
 - “**lower income household**” (“***aelwyd incwm is***”) means a household with a net income, excluding any income from disability related benefits or payments, that is less than 60% of the median equivalised net household income before housing costs based on the most recent published data in the households below average income report;
-- “Means-tested benefit” (“[^key-7cb993932cf62cfe4e22c4e4b2683094]*budd-daliad sy’n dibynnu ar brawf modd*”) means—
+- “Means-tested benefit” (“[^c-7cb993932cf62cfe4e22c4e4b2683094]*budd-daliad sy’n dibynnu ar brawf modd*”) means—
   - (a) income support and housing benefit (each as defined in Part VII of the Social Security Contributions and Benefits Act 1992);
   - (b) council tax reduction scheme (as defined in Local Government Finance Act 1992);
   - (c) state pension credit (as defined in the State Pension Credit Act 2002);
   - (d) working tax credit and child tax credit (each as defined in the Tax Credits Act 2002) provided that in each case the income of the applicant does not exceed the relevant income threshold;
-  - (e) income-related employment and support allowance (as defined in the Welfare Reform Act 2007); [^key-6945a3dabf2ae3452af7dd7ac161e82c]...
-  - (f) universal credit (as defined in the Welfare Reform Act 2012); and[^key-56c93378d22622480a674c595414020d]
-  - (g) income-based jobseeker’s allowance (as defined in section 1(4) of the Jobseekers Act 1995[^key-fd46cd3e0b7d41462282732c8a9ede2e]
+  - (e) income-related employment and support allowance (as defined in the Welfare Reform Act 2007); [^c-6945a3dabf2ae3452af7dd7ac161e82c]...
+  - (f) universal credit (as defined in the Welfare Reform Act 2012); and[^c-56c93378d22622480a674c595414020d]
+  - (g) income-based jobseeker’s allowance (as defined in section 1(4) of the Jobseekers Act 1995[^c-fd46cd3e0b7d41462282732c8a9ede2e]
 - “**occupant**” (“***meddiannydd***”) means a person who lawfully occupies a dwelling as his or her only or main residence and who intends to continue in occupation of the dwelling in the long term;
-- [^key-b1acd38d25f0b551ef7690a2ff19899a]...
-- “**private occupancy**” (“***meddiannaeth breifat***”) means occupancy of a dwelling such that none of the occupants occupies that dwelling as a tenant or licensee of a county council, county borough council or registered social landlord [^key-6792c25a3745ffdd80287a2e5c548c59]...;
+- [^c-b1acd38d25f0b551ef7690a2ff19899a]...
+- “**private occupancy**” (“***meddiannaeth breifat***”) means occupancy of a dwelling such that none of the occupants occupies that dwelling as a tenant or licensee of a county council, county borough council or registered social landlord [^c-6792c25a3745ffdd80287a2e5c548c59]...;
 - “**works**” (“***gweithfeydd***”) means works falling within the types of work specified by or (as the case may be) pursuant to Regulation 6;
 - “**works application**” (“***cais gweithfeydd***”) means an application in which the applicant proposes that an area agency will arrange for the carrying out of the works in respect of which a grant is sought.
 
@@ -109,16 +109,16 @@ are revoked.
 (2) A works application may be entertained in respect of a dwelling if—
 
 - (a) the dwelling is in private occupancy;
-- (b)[^key-ae65b74b20996fa576ce9483466269ae] the applicant is an occupant of the dwelling and is—
+- (b)[^c-ae65b74b20996fa576ce9483466269ae] the applicant is an occupant of the dwelling and is—
   - (i) in receipt of a means-tested benefit, or
   - (ii) from a lower income household; and
-- (c)[^key-7e0b6887e6323a8aca44ee6f1dc9f16b] the area agency is satisfied that the asset rating of the dwelling is—
+- (c)[^c-7e0b6887e6323a8aca44ee6f1dc9f16b] the area agency is satisfied that the asset rating of the dwelling is—
   - (i) 54 or less, or
   - (ii) 68 or less where the applicant or an occupant of the dwelling fulfils the health eligibility criteria.
 
-(3)[^key-3f988f8c47d78de06eec68657703699b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3f988f8c47d78de06eec68657703699b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-6863581e6ff07202092e54b9d77e830a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-6863581e6ff07202092e54b9d77e830a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The eligibility criteria may be modified, replaced or supplemented by the area agency with the consent of the Welsh Ministers.
 
@@ -144,7 +144,7 @@ are revoked.
   >
   > “**fossil fuel**” (“***tanwydd ffosil***”) means coal, substances produced directly or indirectly from coal, lignite, natural gas, crude liquid petroleum, or petroleum products (and “**natural gas**” and “**petroleum products**” have the same meanings as in the Energy Act 1976 [^c20789101];
 - (n) the provision of water-saving measures;
-- (na)[^key-abda24d584d8249ff07fc40b258c2b01] the provision of low energy light bulbs;
+- (na)[^c-abda24d584d8249ff07fc40b258c2b01] the provision of low energy light bulbs;
 - (o) the provision of any works similar to those listed in this Regulation 6(1), or which are necessary or ancillary to or associated with the carrying out of such works; and
 - (p) the provision of such additional works as may be specified by the area agency with the consent of the Welsh Ministers.
 
@@ -166,10 +166,10 @@ are revoked.
 (2) The Welsh Ministers may determine different maximum amounts under paragraph (1)—
 
 - (a) for grants in respect of dwellings in multiple occupation;
-- (b) by reference to any category or combination of categories of works specified by or (as the case may be) pursuant to Regulation 6; [^key-b755969c0104a580e3c39ee87049dd84]...
-- (ba)[^key-6154deed6b910c54e185ba2575750f44] by reference to the asset rating of a dwelling; and
+- (b) by reference to any category or combination of categories of works specified by or (as the case may be) pursuant to Regulation 6; [^c-b755969c0104a580e3c39ee87049dd84]...
+- (ba)[^c-6154deed6b910c54e185ba2575750f44] by reference to the asset rating of a dwelling; and
 - (bb) by reference to whether a dwelling is or is not connected to the gas network.
-- (c)[^key-a48d1d1387c6e190e63d90f7658187cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-a48d1d1387c6e190e63d90f7658187cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Subject to paragraphs (1) and (2) of this Regulation, an area agency may, with the consent of the Welsh Ministers, specify—
 
@@ -196,9 +196,9 @@ for any category or combination of categories of works specified by or (as the c
 
 (1) On making any grant, the area agency—
 
-- (a) must impose conditions relating to such of the following matters (subject to any modification made pursuant to sub-paragraph[^key-8750a10e5ac5131a90a564fab61b771f] (b) of this Regulation) as the area agency considers relevant to the circumstances of the grant–
+- (a) must impose conditions relating to such of the following matters (subject to any modification made pursuant to sub-paragraph[^c-8750a10e5ac5131a90a564fab61b771f] (b) of this Regulation) as the area agency considers relevant to the circumstances of the grant–
   - (i) the circumstances in which any grant or part of a grant made under these Regulations may become repayable by the person in respect of whose application it was made;
-  - (ii) the means for securing repayment of such sums as become repayable under paragraph[^key-a8eff0150ee7d283aab7ac4ae123bc20][^M_F_317e6db5-9d3f-414b-bbab-00d3c76ea7e8] (i), including (but not limited to) requiring an applicant or owner of a dwelling to enter into a charge or other security over the dwelling;
+  - (ii) the means for securing repayment of such sums as become repayable under paragraph[^c-a8eff0150ee7d283aab7ac4ae123bc20][^M_F_317e6db5-9d3f-414b-bbab-00d3c76ea7e8] (i), including (but not limited to) requiring an applicant or owner of a dwelling to enter into a charge or other security over the dwelling;
   - (iii) (where the applicant is a tenant) obtaining agreement of a landlord not to increase rent for a specified period (save in line with inflation), or not to take into account the work carried out pursuant to a grant made under these Regulations when conducting any rent review; and
 - (b) may impose such conditions relating to such further, additional or modified matters as may be specified by the area agency with the consent of the Welsh Ministers.
 
@@ -252,45 +252,45 @@ Regulation 9 requires the area agency to impose such conditions on the giving of
 
 [^c20789021]: Marginal citation: [S.I. 2010/453](https://www.legislation.gov.uk/uksi/2010/453) (W.49).
 
-[^key-7c6643740f59ea2d62e1c8d3295dc777]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) substituted (1.4.2018) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2018/319/regulation/3/a) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
+[^c-7c6643740f59ea2d62e1c8d3295dc777]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) substituted (1.4.2018) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [3(a)](https://www.legislation.gov.uk/wsi/2018/319/regulation/3/a) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
 
-[^key-bd4ab5137a675c090fca0a2b8ae341f1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) inserted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2024/339/regulation/4/a) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
+[^c-bd4ab5137a675c090fca0a2b8ae341f1]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) inserted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [4(a)](https://www.legislation.gov.uk/wsi/2024/339/regulation/4/a) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
 
 [^c20789041]: Marginal citation: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21). The levels of income threshold for Child Tax Credit and Working Tax Credit are currently provided for in the [Tax Credits (Income Thresholds and Determination of Rates) Regulations 2002 (S.I.2002/2008)](https://www.legislation.gov.uk/uksi/2002/2008) as amended, the latest relevant amending instrument being [S.I.2009/2008](https://www.legislation.gov.uk/uksi/2009/2008).
 
-[^key-7cb993932cf62cfe4e22c4e4b2683094]: Textual amendment: Words in reg. 2 substituted (30.11.2013) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2013 (S.I. 2013/2843)](https://www.legislation.gov.uk/wsi/2013/2843), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2843/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2013/2843/regulation/3/1)
+[^c-7cb993932cf62cfe4e22c4e4b2683094]: Textual amendment: Words in reg. 2 substituted (30.11.2013) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2013 (S.I. 2013/2843)](https://www.legislation.gov.uk/wsi/2013/2843), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2843/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2013/2843/regulation/3/1)
 
-[^key-6945a3dabf2ae3452af7dd7ac161e82c]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) omitted (1.4.2024) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [4(b)(i)](https://www.legislation.gov.uk/wsi/2024/339/regulation/4/b/i) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
+[^c-6945a3dabf2ae3452af7dd7ac161e82c]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) omitted (1.4.2024) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [4(b)(i)](https://www.legislation.gov.uk/wsi/2024/339/regulation/4/b/i) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
 
-[^key-56c93378d22622480a674c595414020d]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) inserted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/wsi/2024/339/regulation/4/b/ii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
+[^c-56c93378d22622480a674c595414020d]: Textual amendment: Word in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) inserted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [4(b)(ii)](https://www.legislation.gov.uk/wsi/2024/339/regulation/4/b/ii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
 
-[^key-fd46cd3e0b7d41462282732c8a9ede2e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) inserted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [4(b)(iii)](https://www.legislation.gov.uk/wsi/2024/339/regulation/4/b/iii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
+[^c-fd46cd3e0b7d41462282732c8a9ede2e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) inserted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [4(b)(iii)](https://www.legislation.gov.uk/wsi/2024/339/regulation/4/b/iii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
 
-[^key-b1acd38d25f0b551ef7690a2ff19899a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) omitted (1.4.2018) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2018/319/regulation/3/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
+[^c-b1acd38d25f0b551ef7690a2ff19899a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2011/656/regulation/2) omitted (1.4.2018) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [3(b)](https://www.legislation.gov.uk/wsi/2018/319/regulation/3/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
 
-[^key-6792c25a3745ffdd80287a2e5c548c59]: Textual amendment: Words in reg. 2 omitted (30.11.2013) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2013 (S.I. 2013/2843)](https://www.legislation.gov.uk/wsi/2013/2843), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2843/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2013/2843/regulation/3/2)
+[^c-6792c25a3745ffdd80287a2e5c548c59]: Textual amendment: Words in reg. 2 omitted (30.11.2013) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2013 (S.I. 2013/2843)](https://www.legislation.gov.uk/wsi/2013/2843), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2013/2843/regulation/1/2), [3(2)](https://www.legislation.gov.uk/wsi/2013/2843/regulation/3/2)
 
-[^key-ae65b74b20996fa576ce9483466269ae]: Textual amendment: Reg. 5(2)(b) substituted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/wsi/2024/339/regulation/5/a/i) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
+[^c-ae65b74b20996fa576ce9483466269ae]: Textual amendment: Reg. 5(2)(b) substituted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [5(a)(i)](https://www.legislation.gov.uk/wsi/2024/339/regulation/5/a/i) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
 
-[^key-7e0b6887e6323a8aca44ee6f1dc9f16b]: Textual amendment: Reg. 5(2)(c) substituted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/wsi/2024/339/regulation/5/a/ii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
+[^c-7e0b6887e6323a8aca44ee6f1dc9f16b]: Textual amendment: Reg. 5(2)(c) substituted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [5(a)(ii)](https://www.legislation.gov.uk/wsi/2024/339/regulation/5/a/ii) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
 
-[^key-3f988f8c47d78de06eec68657703699b]: Textual amendment: Reg. 5(3) omitted (1.4.2018) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2018/319/regulation/4/c) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
+[^c-3f988f8c47d78de06eec68657703699b]: Textual amendment: Reg. 5(3) omitted (1.4.2018) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [4(c)](https://www.legislation.gov.uk/wsi/2018/319/regulation/4/c) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
 
-[^key-6863581e6ff07202092e54b9d77e830a]: Textual amendment: Reg. 5(3A) omitted (1.4.2024) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2024/339/regulation/5/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
+[^c-6863581e6ff07202092e54b9d77e830a]: Textual amendment: Reg. 5(3A) omitted (1.4.2024) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/wsi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/339/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2024/339/regulation/5/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2024/339/regulation/7))
 
 [^c20789101]: Marginal citation: [1976 c. 76](https://www.legislation.gov.uk/ukpga/1976/76).
 
-[^key-abda24d584d8249ff07fc40b258c2b01]: Textual amendment: [Reg. 6(1)(na)](https://www.legislation.gov.uk/wsi/2011/656/regulation/6/1/na) inserted (1.4.2018) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2018/319/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
+[^c-abda24d584d8249ff07fc40b258c2b01]: Textual amendment: [Reg. 6(1)(na)](https://www.legislation.gov.uk/wsi/2011/656/regulation/6/1/na) inserted (1.4.2018) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [5](https://www.legislation.gov.uk/wsi/2018/319/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
 
-[^key-b755969c0104a580e3c39ee87049dd84]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2011/656/regulation/7/2) omitted (1.4.2018) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2018/319/regulation/6/a) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
+[^c-b755969c0104a580e3c39ee87049dd84]: Textual amendment: Word in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2011/656/regulation/7/2) omitted (1.4.2018) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [6(a)](https://www.legislation.gov.uk/wsi/2018/319/regulation/6/a) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
 
-[^key-6154deed6b910c54e185ba2575750f44]: Textual amendment: [Reg. 7(2)(ba)](https://www.legislation.gov.uk/wsi/2011/656/regulation/7/2/ba)[(bb)](https://www.legislation.gov.uk/wsi/2011/656/regulation/7/2/bb) inserted (1.4.2018) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2018/319/regulation/6/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
+[^c-6154deed6b910c54e185ba2575750f44]: Textual amendment: [Reg. 7(2)(ba)](https://www.legislation.gov.uk/wsi/2011/656/regulation/7/2/ba)[(bb)](https://www.legislation.gov.uk/wsi/2011/656/regulation/7/2/bb) inserted (1.4.2018) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [6(b)](https://www.legislation.gov.uk/wsi/2018/319/regulation/6/b) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
 
-[^key-a48d1d1387c6e190e63d90f7658187cd]: Textual amendment: [Reg. 7(2)(c)](https://www.legislation.gov.uk/wsi/2011/656/regulation/7/2/c) omitted (1.4.2018) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [6(c)](https://www.legislation.gov.uk/wsi/2018/319/regulation/6/c) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
+[^c-a48d1d1387c6e190e63d90f7658187cd]: Textual amendment: [Reg. 7(2)(c)](https://www.legislation.gov.uk/wsi/2011/656/regulation/7/2/c) omitted (1.4.2018) by virtue of [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2018 (S.I. 2018/319)](https://www.legislation.gov.uk/wsi/2018/319), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/319/regulation/1/2), [6(c)](https://www.legislation.gov.uk/wsi/2018/319/regulation/6/c) (with [reg. 7](https://www.legislation.gov.uk/wsi/2018/319/regulation/7))
 
-[^key-8750a10e5ac5131a90a564fab61b771f]: Textual amendment: Word in reg. 9(1)(a) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Miscellaneous Corrections) (Wales) Regulations 2025 (S.I. 2025/805)](https://www.legislation.gov.uk/wsi/2025/805), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/805/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2025/805/regulation/5/a)
+[^c-8750a10e5ac5131a90a564fab61b771f]: Textual amendment: Word in reg. 9(1)(a) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Miscellaneous Corrections) (Wales) Regulations 2025 (S.I. 2025/805)](https://www.legislation.gov.uk/wsi/2025/805), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/805/regulation/1/2), [5(a)](https://www.legislation.gov.uk/wsi/2025/805/regulation/5/a)
 
-[^key-a8eff0150ee7d283aab7ac4ae123bc20]: Textual amendment: Word in reg. 9(1)(a)(ii) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Miscellaneous Corrections) (Wales) Regulations 2025 (S.I. 2025/805)](https://www.legislation.gov.uk/wsi/2025/805), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/805/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2025/805/regulation/5/b)
+[^c-a8eff0150ee7d283aab7ac4ae123bc20]: Textual amendment: Word in reg. 9(1)(a)(ii) substituted (1.8.2025) by [The Amendments to Subordinate Legislation (Miscellaneous Corrections) (Wales) Regulations 2025 (S.I. 2025/805)](https://www.legislation.gov.uk/wsi/2025/805), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/805/regulation/1/2), [5(b)](https://www.legislation.gov.uk/wsi/2025/805/regulation/5/b)
 
 [^M_F_317e6db5-9d3f-414b-bbab-00d3c76ea7e8]: Textual amendment: Words in reg. 9(1)(a)(ii) substituted (1.4.2024) by [The Home Energy Efficiency Schemes (Wales) (Amendment) Regulations 2024 (S.I. 2024/339)](https://www.legislation.gov.uk/uksi/2024/339), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/339/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/339/regulation/6) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/339/regulation/7))
 

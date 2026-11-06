@@ -41,13 +41,13 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 **Not yet in force.**
 
-## 1. Citation, commencement and interpretation[^key-e047c4051e2c7c899157f682dc8856c1]
+## 1. Citation, commencement and interpretation[^c-e047c4051e2c7c899157f682dc8856c1]
 
 (1) This Order may be cited as the Social Security (Contributions) (Republic of India) Order (Northern Ireland) 2026 and shall come into operation on the day after the date on which the States exchange written notifications that they have complied with all statutory and constitutional requirements in accordance with Article 26 of the Agreement set out in the Schedule to this Order[^f00002].
 
 (2) In this Order “**the Agreement**” means the Agreement on Social Security relating to Social Security Contributions between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the Republic of India[^f00003], which was signed on behalf of those Governments at New Delhi on 10th February 2026.
 
-## 2. Modification of Acts[^key-aef1be6575bf97bf8e603a51973f9a2d]
+## 2. Modification of Acts[^c-aef1be6575bf97bf8e603a51973f9a2d]
 
 The Social Security Administration (Northern Ireland) Act 1992 and the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00004] are modified to such extent as may be required to give effect to the provisions contained in the Agreement set out in the Schedule to this Order, so far as those provisions relate to Northern Ireland.
 
@@ -59,7 +59,7 @@ Secretary of State for Work and Pensions
 
 **Not yet in force.**
 
-## SCHEDULE[^key-24c825d0ee2708d9a6f0a23a1f70442b]
+## SCHEDULE[^c-24c825d0ee2708d9a6f0a23a1f70442b]
 
 Articles 1 and 2
 
@@ -173,7 +173,7 @@ This Agreement shall not apply to a person whose situation is confined in all re
 | --- |
 | ARTICLE 8<br>Detached Workers |
 
-(11) A person who pursues an activity as an employed person in one State on behalf of an employer which normally carries out its activities there, and who is sent by that employer to the other State to perform work on that employer’s behalf, shall continue to be subject to the legislation of the State in which the activities are normally carried out, provided that the anticipated duration of such work does not exceed 60 months[^key-1ea7bc9b78ef32269c99932d55737b24].
+(11) A person who pursues an activity as an employed person in one State on behalf of an employer which normally carries out its activities there, and who is sent by that employer to the other State to perform work on that employer’s behalf, shall continue to be subject to the legislation of the State in which the activities are normally carried out, provided that the anticipated duration of such work does not exceed 60 months[^c-1ea7bc9b78ef32269c99932d55737b24].
 
 (12) For the purposes of the application of paragraph (1), a person whose ‘anticipated duration of such work does not exceed 60 months’ shall include a person whose anticipated period of employment in the other State was 60 months or less at the point they started working in that State, but which subsequently increased up to or beyond 60 months. Such a person shall remain included until their period of employed activity in that State (i) ends, or (ii) reaches 60 months from the time they started working in that State, whichever is sooner.
 
@@ -631,16 +631,16 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8).
 
-[^key-e047c4051e2c7c899157f682dc8856c1]: Commencement: Art. 1 not in operation at made date, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/50/article/1/1)
+[^c-e047c4051e2c7c899157f682dc8856c1]: Commencement: Art. 1 not in operation at made date, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/50/article/1/1)
 
 [^f00002]: Footnote: The date on which the Agreement comes into operation will be published on the relevant page on UK Treaties Online which can be found at https://www.gov.uk/guidance/uk-treaties.
 
 [^f00003]: Footnote: 2026 CP 1513.
 
-[^key-aef1be6575bf97bf8e603a51973f9a2d]: Commencement: Art. 2 not in operation at made date, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/50/article/1/1)
+[^c-aef1be6575bf97bf8e603a51973f9a2d]: Commencement: Art. 2 not in operation at made date, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/50/article/1/1)
 
 [^f00004]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-24c825d0ee2708d9a6f0a23a1f70442b]: Commencement: Sch. not in operation at made date, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/50/article/1/1)
+[^c-24c825d0ee2708d9a6f0a23a1f70442b]: Commencement: Sch. not in operation at made date, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2026/50/article/1/1)
 
-[^key-1ea7bc9b78ef32269c99932d55737b24]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2026/50/schedule) substituted (coming into operation in accordance with art. 1 of the amending Rule) by [The Social Security (Contributions) (Republic of India) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/148)](https://www.legislation.gov.uk/nisr/2026/148), [arts. 1](https://www.legislation.gov.uk/nisr/2026/148/article/1), [2](https://www.legislation.gov.uk/nisr/2026/148/article/2)
+[^c-1ea7bc9b78ef32269c99932d55737b24]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/nisr/2026/50/schedule) substituted (coming into operation in accordance with art. 1 of the amending Rule) by [The Social Security (Contributions) (Republic of India) (Amendment) Order (Northern Ireland) 2026 (S.R. 2026/148)](https://www.legislation.gov.uk/nisr/2026/148), [arts. 1](https://www.legislation.gov.uk/nisr/2026/148/article/1), [2](https://www.legislation.gov.uk/nisr/2026/148/article/2)

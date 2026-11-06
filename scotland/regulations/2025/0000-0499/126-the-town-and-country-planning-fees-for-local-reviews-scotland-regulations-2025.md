@@ -48,13 +48,13 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and application[^key-0fedb06abc1be751766ca3a780ca2b72]
+### 1. Citation, commencement and application[^c-0fedb06abc1be751766ca3a780ca2b72]
 
 (1) These Regulations may be cited as the Town and Country Planning (Fees for Local Reviews) (Scotland) Regulations 2025 and come into force on 9 June 2025.
 
 (2) These Regulations apply to reviews conducted by virtue of section 43A(8)(a) or (b) of the Act where notice of review is given on or after 9 June 2025.
 
-### 2. Interpretation[^key-d15f2f6c5a8694415788560eccc3da80]
+### 2. Interpretation[^c-d15f2f6c5a8694415788560eccc3da80]
 
 In these Regulations—
 
@@ -72,20 +72,20 @@ In these Regulations—
 
 ## PART 2 — Payment of fees
 
-### 3. Payment of fees[^key-38fbeaeed13fdbc1778a2ff324264c57]
+### 3. Payment of fees[^c-38fbeaeed13fdbc1778a2ff324264c57]
 
 (1) Subject to Part 3 (applications where no fee is payable), where a notice of review is given under regulation 9 of the 2013 Regulations a fee is payable to the planning authority in accordance with the provisions of this regulation.
 
 (2) Subject to paragraph (3), the fee payable is the fee calculated in accordance with the schedule of these Regulations.
 
-(3) The fee payable for a review in respect of an application for planning permission made under section 42 (applications to develop land without complying with previous conditions) of the Act is £149[^key-6b29cbdd62750976bd3332935922aa7b].
+(3) The fee payable for a review in respect of an application for planning permission made under section 42 (applications to develop land without complying with previous conditions) of the Act is £149[^c-6b29cbdd62750976bd3332935922aa7b].
 
 (4) Any fee payable under this regulation must—
 
 - (a) accompany the notice of review, and
 - (b) be refunded if the notice of review is rejected as invalidly made.
 
-### 4. Waiving or reducing of fees[^key-cfa954a7cdc9cd3fefc2355099bd60e4]
+### 4. Waiving or reducing of fees[^c-cfa954a7cdc9cd3fefc2355099bd60e4]
 
 (1) The planning authority may waive or reduce any review fee payable under regulation 3 in accordance with the provisions of this regulation.
 
@@ -104,7 +104,7 @@ In these Regulations—
 
 ## PART 3 — Applications where no fee is payable
 
-### 5. Means of access etc. for disabled persons[^key-58c4260b7dcbb4fbca73fe7aad77c240]
+### 5. Means of access etc. for disabled persons[^c-58c4260b7dcbb4fbca73fe7aad77c240]
 
 (1) No fee is payable under regulation 3 where the local review body is satisfied as to the matters specified in paragraphs (2)(a) or (b).
 
@@ -117,7 +117,7 @@ In these Regulations—
 
 (3) In this regulation, “**disabled person**” has the meaning given by section 6 of the Equality Act 2010[^f00008].
 
-### 6. Restrictions on permitted development rights[^key-4a62a5f8b062f9269b1d4b690d72ed97]
+### 6. Restrictions on permitted development rights[^c-4a62a5f8b062f9269b1d4b690d72ed97]
 
 (1) No fee is payable under regulation 3 where the local review body is satisfied as to the matters specified in paragraph (2).
 
@@ -130,7 +130,7 @@ In these Regulations—
 
 (3) The reference in paragraph (2)(a) to a review which relates to development which is within one or more of the classes specified in schedule 1 of the General Permitted Development Order includes a review in respect of an application for planning permission for the continuance of a use of land, or the retention of buildings or works, without compliance with a condition subject to which a previous planning permission has been granted, and which prohibits or limits the carrying out of any development which is within one or more of those classes.
 
-### 7. Use specified in the Town and Country Planning (Use Classes) (Scotland) Order 1997[^key-4f43006ba42490cb0b9a5f74f827058e]
+### 7. Use specified in the Town and Country Planning (Use Classes) (Scotland) Order 1997[^c-4f43006ba42490cb0b9a5f74f827058e]
 
 No fee is payable under regulation 3 for a review in respect of an application for planning permission where the local review body is satisfied that—
 
@@ -138,7 +138,7 @@ No fee is payable under regulation 3 for a review in respect of an application f
 - (b) the existing use of that building or other land is for another purpose of the same class, and
 - (c) the review is in respect of an application for planning permission for the use to which it relates which is necessary because of a condition imposed on a permission granted under Part 3 of the Act.
 
-### 8. Winning and working of minerals[^key-3c5870b723c0851cc25b2d3ce84d4899]
+### 8. Winning and working of minerals[^c-3c5870b723c0851cc25b2d3ce84d4899]
 
 No fee is payable under regulation 3 in relation to a review in respect of an application for permission to carry out development consisting of the winning and working of minerals where the application—
 
@@ -161,7 +161,7 @@ Regulation 3(2)
 
 ### PART 1 — General provisions
 
-#### 1. Tables of fees[^key-ce5ce575e9b0d8da00ee785e5544af87]
+#### 1. Tables of fees[^c-ce5ce575e9b0d8da00ee785e5544af87]
 
 (1) The fee payable under regulation 3 for a review in respect of an application relating to a category of development in column 1 of the relevant table contained in Part 3 of this schedule is the fee calculated in accordance with the appropriate entry in column 2 of that table and paragraphs 10 to 13 of Part 2.
 
@@ -172,14 +172,14 @@ Regulation 3(2)
   - (ii) approval, consent or agreement required by a condition imposed on a grant of planning permission in principle,
 - (b) table 2 in relation to a review in respect of an application for planning permission in principle.
 
-#### 2. Categories of development[^key-bd9940b03cf34e9250d7c4d70c1c4e53]
+#### 2. Categories of development[^c-bd9940b03cf34e9250d7c4d70c1c4e53]
 
 In this schedule—
 
 - (a) any reference to a category of development is a reference to one of the categories of development specified in column 1 of the relevant table, and
 - (b) in the case of a review in respect of an application for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle, references to the category of development to which the application relates are to be construed as references to the category of development authorised by the relevant planning permission in principle.
 
-#### 3. Calculation of area or floor space[^key-6f347eb8008d4204284c7c5c28720da9]
+#### 3. Calculation of area or floor space[^c-6f347eb8008d4204284c7c5c28720da9]
 
 Where, in respect of any category of development the fee must be calculated by reference to—
 
@@ -190,14 +190,14 @@ Where, in respect of any category of development the fee must be calculated by r
   - (i) the area of gross floor space is to be ascertained by external measurement of the floor space, whether or not it is to be bounded wholly or partly by external walls of a building, and
   - (ii) where the floor is to be measured by units of 100 square metres any floor space remaining after division of the gross floor space by 100 square metres is to be treated as 100 square metres.
 
-#### 4. Alternative applications[^key-3d7d008030c3963a164efc37e8e36be9]
+#### 4. Alternative applications[^c-3d7d008030c3963a164efc37e8e36be9]
 
 Where a review is in respect of an application which relates to development which is within more than one of the categories of development—
 
 - (a) an amount is to be calculated in respect of each category of development, and
 - (b) the highest amount so calculated is the fee payable in respect of the review.
 
-#### 5. Mixed use[^key-ef76d33f8b2d72d5b8953a651ebbe6b4]
+#### 5. Mixed use[^c-ef76d33f8b2d72d5b8953a651ebbe6b4]
 
 (1) Where this paragraph applies the fee payable for a review is calculated and payable in accordance with sub-paragraphs (3) to (6).
 
@@ -214,7 +214,7 @@ Where a review is in respect of an application which relates to development whic
 
 (6) Where a review to which this paragraph applies relates to development which is also within one or more of any other category of table 1, an amount is to be calculated in accordance with each such category and if any of the amounts so calculated exceeds the amount calculated in accordance with sub-paragraph (3) that higher amount is the fee payable in respect of all of the development to which the review relates.
 
-#### 6. Glasshouses and polytunnels[^key-4c163b81aeb7d26ff63c44e83c1d2c22]
+#### 6. Glasshouses and polytunnels[^c-4c163b81aeb7d26ff63c44e83c1d2c22]
 
 In table 1 “**glasshouse and polytunnel**” means a building which—
 
@@ -222,34 +222,34 @@ In table 1 “**glasshouse and polytunnel**” means a building which—
 - (b) is designed for the production of flowers, fruit, vegetables, herb or other horticultural produce, and
 - (c) is used, or is to be used, solely for the purposes of agriculture.
 
-#### 7. Planning permission in principle granted before 1 April 2022[^key-9e26ae7be618da874a7260878b84db21]
+#### 7. Planning permission in principle granted before 1 April 2022[^c-9e26ae7be618da874a7260878b84db21]
 
 Where the review is carried out in respect of an application for the approval, consent, or agreement required by a condition imposed on a grant of permission in principle and—
 
 - (a) the planning permission in principle was granted before 1 April 2022, and
-- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^key-9dc5c04585391c719786b576acfc2e19] of table 1,
+- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^c-9dc5c04585391c719786b576acfc2e19] of table 1,
 
 the fee payable under regulation 3 is subject to a maximum of £50,000.
 
-#### 8. Planning permission in principle granted on or after 1 April 2022 and before 12 December 2024[^key-3419327d387a29a52a97d9beb540b0ab]
+#### 8. Planning permission in principle granted on or after 1 April 2022 and before 12 December 2024[^c-3419327d387a29a52a97d9beb540b0ab]
 
 Where the review is carried out in respect of an application for the approval, consent, or agreement required by a condition imposed on a grant of permission in principle and—
 
 - (a) the planning permission in principle was granted on or after 1 April 2022 and before 12 December 2024, and
-- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^key-31cc5a2e99096c38377b235df09136e8] of table 1,
+- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^c-31cc5a2e99096c38377b235df09136e8] of table 1,
 
 the fee payable under regulation 3 is subject to a maximum of £60,000.
 
-#### 9. Planning permission in principle granted on or after 12 December 2024 and before 9 June 2025[^key-8ebbb0aab41ece30db1241fd9c73c0f2]
+#### 9. Planning permission in principle granted on or after 12 December 2024 and before 9 June 2025[^c-8ebbb0aab41ece30db1241fd9c73c0f2]
 
 Where the review is carried out in respect of an application for the approval, consent, or agreement required by a condition imposed on a grant of permission in principle and—
 
 - (a) the planning permission in principle was granted on or after 12 December 2024 and before 9 June 2025, and
-- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^key-4d130aa6a370e732db91a45542797b59] of table 1,
+- (b) the application relates to development within categories 1, 4, 7, 13 or 17[^c-4d130aa6a370e732db91a45542797b59] of table 1,
 
 the fee payable under regulation 3 is subject to a maximum of £69,142.
 
-#### 9A. Planning permission in principle granted on or after 9 June 2025 and before 1 April 2026[^key-094ed171ad9d0438593421c558d926e6]
+#### 9A. Planning permission in principle granted on or after 9 June 2025 and before 1 April 2026[^c-094ed171ad9d0438593421c558d926e6]
 
 Where the review is carried out in respect of an application for the approval, consent or agreement required by a condition imposed on a grant of permission in principle and—
 
@@ -260,11 +260,11 @@ the fee payable under regulation 3 is subject to a maximum of £71,424.
 
 ### PART 2 — Modified fees
 
-#### 10. Reviews required by community councils[^key-a9a3b80c69dd50ff0031f18f49e7b918]
+#### 10. Reviews required by community councils[^c-a9a3b80c69dd50ff0031f18f49e7b918]
 
 Where the notice of review is given by a community council established under section 51 of the Local Government (Scotland) Act 1973[^f00010], the amount of the fee payable in respect of the review is reduced by one half.
 
-#### 11. Reviews in respect of applications in conservation areas[^key-e67b8b17bd495f6c10e356f70c12c518]
+#### 11. Reviews in respect of applications in conservation areas[^c-e67b8b17bd495f6c10e356f70c12c518]
 
 (1) Where all the conditions in sub-paragraph (2) are satisfied, the amount of fee payable in respect of a review is reduced by one quarter.
 
@@ -277,9 +277,9 @@ Where the notice of review is given by a community council established under sec
 - (c) the application in respect of which the review is made relates solely to development within one or more of the classes specified in schedule 1 of the General Permitted Development Order, and
 - (d) the only reason planning permission is not granted by article 3(1) of the General Permitted Development Order is that the development would be in a conservation area.
 
-#### 12. Reviews in respect of applications for the provision of facilities for sport or recreation[^key-918aab671c523495d40245ed481a287c]
+#### 12. Reviews in respect of applications for the provision of facilities for sport or recreation[^c-918aab671c523495d40245ed481a287c]
 
-(1) Where notice of review is given by or for a club, society, trust or other organisation which is not established or conducted for profit and whose objects or purposes, as the case may be, are the provision of facilities for sport or recreation, and the conditions specified in sub-paragraph (2) are satisfied, the fee payable is £297[^key-85bf3f3d493f7e77acb48f4aab37f09d].
+(1) Where notice of review is given by or for a club, society, trust or other organisation which is not established or conducted for profit and whose objects or purposes, as the case may be, are the provision of facilities for sport or recreation, and the conditions specified in sub-paragraph (2) are satisfied, the fee payable is £297[^c-85bf3f3d493f7e77acb48f4aab37f09d].
 
 (2) The conditions are—
 
@@ -290,16 +290,16 @@ Where the notice of review is given by a community council established under sec
   and to no other development, and
 - (b) that the local review body are satisfied that the development is to be carried out on land which is, or is intended to be, used wholly or mainly for the carrying out of the objects or purposes, as the case may be, of the club, society, trust or organisation.
 
-#### 13. Reviews in respect of applications for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle[^key-fe6a203ab5873b74ba460fdafffb815d]
+#### 13. Reviews in respect of applications for approval, consent or agreement required by a condition imposed on a grant of planning permission in principle[^c-fe6a203ab5873b74ba460fdafffb815d]
 
 Where—
 
 - (a) a request for a review is made in respect of an application for approval, consent or agreement in respect of one or more matters requiring such approval, consent or agreement in terms of a condition imposed on a grant of planning permission in principle (“**the current application**”), and
 - (b) the fee payable to the planning authority in respect of the current application was the fee payable in terms of paragraph 10(3) of schedule 1 of the Town and Country Planning (Fees for Applications) (Scotland) Regulations 2022[^f00011],
 
-the fee payable for the review in respect of the current application is £247[^key-ca1a76bde8c45cddc83f7c3ac7020e9a].
+the fee payable for the review in respect of the current application is £247[^c-ca1a76bde8c45cddc83f7c3ac7020e9a].
 
-### Part 3 — Tables of Fees[^key-2375104ae5fa4849906f307c00c08733]
+### Part 3 — Tables of Fees[^c-2375104ae5fa4849906f307c00c08733]
 
 Table 1
 
@@ -376,9 +376,9 @@ Part 3 of the Regulations sets out where no fee is payable.
 
 [^f00001]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 252 was amended by the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), section 31, the Regulatory Reform (Scotland) Act [2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), section 55, and the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), section 41. The functions of the Secretary of State in so far as they are within devolved competence were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-0fedb06abc1be751766ca3a780ca2b72]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/126/regulation/1) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-0fedb06abc1be751766ca3a780ca2b72]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2025/126/regulation/1) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-d15f2f6c5a8694415788560eccc3da80]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/126/regulation/2) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-d15f2f6c5a8694415788560eccc3da80]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2025/126/regulation/2) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2013/157](https://www.legislation.gov.uk/ssi/2013/157).
 
@@ -390,66 +390,66 @@ Part 3 of the Regulations sets out where no fee is payable.
 
 [^f00006]: Footnote: Section 59 was amended by the Planning etc. (Scotland) Act [2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), section 21, and the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), section 32(4).
 
-[^key-38fbeaeed13fdbc1778a2ff324264c57]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/126/regulation/3) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-38fbeaeed13fdbc1778a2ff324264c57]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2025/126/regulation/3) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-6b29cbdd62750976bd3332935922aa7b]: Textual amendment: Sum in reg. 3(3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [3](https://www.legislation.gov.uk/ssi/2026/48/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+[^c-6b29cbdd62750976bd3332935922aa7b]: Textual amendment: Sum in reg. 3(3) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [3](https://www.legislation.gov.uk/ssi/2026/48/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
 
-[^key-cfa954a7cdc9cd3fefc2355099bd60e4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/126/regulation/4) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-cfa954a7cdc9cd3fefc2355099bd60e4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2025/126/regulation/4) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
 [^f00007]: Footnote: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 252 (1F) was inserted by the Planning (Scotland) Act [2019 (asp 13)](https://www.legislation.gov.uk/asp/2019/13), section 41(10).
 
-[^key-58c4260b7dcbb4fbca73fe7aad77c240]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/126/regulation/5) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-58c4260b7dcbb4fbca73fe7aad77c240]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2025/126/regulation/5) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
 [^f00008]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-4a62a5f8b062f9269b1d4b690d72ed97]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/126/regulation/6) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-4a62a5f8b062f9269b1d4b690d72ed97]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/126/regulation/6) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-4f43006ba42490cb0b9a5f74f827058e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/126/regulation/7) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-4f43006ba42490cb0b9a5f74f827058e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2025/126/regulation/7) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
 [^f00009]: Footnote: [S.I. 1997/3061](https://www.legislation.gov.uk/uksi/1997/3061) to which there are amendments not relevant to these Regulations.
 
-[^key-3c5870b723c0851cc25b2d3ce84d4899]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2025/126/regulation/8) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-3c5870b723c0851cc25b2d3ce84d4899]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2025/126/regulation/8) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-ce5ce575e9b0d8da00ee785e5544af87]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/1) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-ce5ce575e9b0d8da00ee785e5544af87]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/1) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-bd9940b03cf34e9250d7c4d70c1c4e53]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/2) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-bd9940b03cf34e9250d7c4d70c1c4e53]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/2) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-6f347eb8008d4204284c7c5c28720da9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/3) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-6f347eb8008d4204284c7c5c28720da9]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/3) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-3d7d008030c3963a164efc37e8e36be9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/4) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-3d7d008030c3963a164efc37e8e36be9]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/4) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-ef76d33f8b2d72d5b8953a651ebbe6b4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/5) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-ef76d33f8b2d72d5b8953a651ebbe6b4]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/5) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-4c163b81aeb7d26ff63c44e83c1d2c22]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/6) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-4c163b81aeb7d26ff63c44e83c1d2c22]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/6) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-9e26ae7be618da874a7260878b84db21]: Commencement: Sch. para. 7 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-9e26ae7be618da874a7260878b84db21]: Commencement: Sch. para. 7 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-9dc5c04585391c719786b576acfc2e19]: Textual amendment: Words in sch. para. 7(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+[^c-9dc5c04585391c719786b576acfc2e19]: Textual amendment: Words in sch. para. 7(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(i)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
 
-[^key-3419327d387a29a52a97d9beb540b0ab]: Commencement: Sch. para. 8 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-3419327d387a29a52a97d9beb540b0ab]: Commencement: Sch. para. 8 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-31cc5a2e99096c38377b235df09136e8]: Textual amendment: Words in sch. para. 8(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+[^c-31cc5a2e99096c38377b235df09136e8]: Textual amendment: Words in sch. para. 8(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(ii)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
 
-[^key-8ebbb0aab41ece30db1241fd9c73c0f2]: Commencement: Sch. para. 9 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-8ebbb0aab41ece30db1241fd9c73c0f2]: Commencement: Sch. para. 9 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-4d130aa6a370e732db91a45542797b59]: Textual amendment: Words in sch. para. 9(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/iii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+[^c-4d130aa6a370e732db91a45542797b59]: Textual amendment: Words in sch. para. 9(b) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(iii)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/iii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
 
-[^key-094ed171ad9d0438593421c558d926e6]: Textual amendment: Sch. para. 9A inserted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(iv)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/iv) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+[^c-094ed171ad9d0438593421c558d926e6]: Textual amendment: Sch. para. 9A inserted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(a)(iv)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/a/iv) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
 
-[^key-a9a3b80c69dd50ff0031f18f49e7b918]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/10) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-a9a3b80c69dd50ff0031f18f49e7b918]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/10) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
 [^f00010]: Footnote: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65). Section 51 was amended by the Local Government etc. (Scotland) Act [1994 (c. 39)](https://www.legislation.gov.uk/ukpga/1994/39), section 180 and schedule 14.
 
-[^key-e67b8b17bd495f6c10e356f70c12c518]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/11) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-e67b8b17bd495f6c10e356f70c12c518]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ssi/2025/126/schedule/paragraph/11) in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-918aab671c523495d40245ed481a287c]: Commencement: Sch. para. 12 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-918aab671c523495d40245ed481a287c]: Commencement: Sch. para. 12 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
-[^key-85bf3f3d493f7e77acb48f4aab37f09d]: Textual amendment: Sum in sch. para. 12(1) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/b/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+[^c-85bf3f3d493f7e77acb48f4aab37f09d]: Textual amendment: Sum in sch. para. 12(1) substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(b)(i)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/b/i) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
 
-[^key-fe6a203ab5873b74ba460fdafffb815d]: Commencement: Sch. para. 13 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
+[^c-fe6a203ab5873b74ba460fdafffb815d]: Commencement: Sch. para. 13 in force at 9.6.2025, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/126/regulation/1/1)
 
 [^f00011]: Footnote: [S.S.I. 2022/50](https://www.legislation.gov.uk/ssi/2022/50).
 
-[^key-ca1a76bde8c45cddc83f7c3ac7020e9a]: Textual amendment: Sum in sch. para. 13 substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/b/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+[^c-ca1a76bde8c45cddc83f7c3ac7020e9a]: Textual amendment: Sum in sch. para. 13 substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(b)(ii)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/b/ii) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
 
-[^key-2375104ae5fa4849906f307c00c08733]: Textual amendment: Sch. Pt. 3 substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(c)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))
+[^c-2375104ae5fa4849906f307c00c08733]: Textual amendment: Sch. Pt. 3 substituted (1.4.2026) by [The Town and Country Planning (Fees for Local Reviews) (Scotland) Amendment Regulations 2026 (S.S.I. 2026/48)](https://www.legislation.gov.uk/ssi/2026/48), [regs. 1](https://www.legislation.gov.uk/ssi/2026/48/regulation/1), [4(c)](https://www.legislation.gov.uk/ssi/2026/48/regulation/4/c) (with [reg. 5](https://www.legislation.gov.uk/ssi/2026/48/regulation/5))

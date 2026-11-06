@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Notifiable acquisitions[^key-2fd18ccd2b81cdd9638bd82bcb5de565]
+## 2. Notifiable acquisitions[^c-2fd18ccd2b81cdd9638bd82bcb5de565]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fd18ccd2b81cdd9638bd82bcb5de565]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1264/regulation/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)
+[^c-2fd18ccd2b81cdd9638bd82bcb5de565]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2021/1264/regulation/2) in force at 4.1.2022, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/1264/regulation/1/2)

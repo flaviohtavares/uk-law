@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Establishment of a Board[^key-202e7fcc4a5430d110534da757db37e9]
+## 6. Establishment of a Board[^c-202e7fcc4a5430d110534da757db37e9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-202e7fcc4a5430d110534da757db37e9]: Commencement: Art. 6 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-202e7fcc4a5430d110534da757db37e9]: Commencement: Art. 6 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

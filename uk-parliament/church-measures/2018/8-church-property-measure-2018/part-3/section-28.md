@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 28. Acquisition of land[^key-fa052fb88938791b68614a8b71ae3ba6]
+## 28. Acquisition of land[^c-fa052fb88938791b68614a8b71ae3ba6]
 
 *Extent: E*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (4) The second condition is that the person in whom the building or other land is to be vested—
 
-- (a) has obtained a written report on the proposed transaction from a designated adviser[^key-365886fc8bec758789aaae7c15bf41f0] instructed by and acting exclusively for that person, and
+- (a) has obtained a written report on the proposed transaction from a designated adviser[^c-365886fc8bec758789aaae7c15bf41f0] instructed by and acting exclusively for that person, and
 - (b) having considered the report, is satisfied that the terms of the proposed transaction are the best that can be reasonably obtained for that person.
 
 (5) A DBF may accept a gift or bequest of money to be used for or put towards the purchase of land for a purpose specified in subsection (1).
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa052fb88938791b68614a8b71ae3ba6]: Commencement: [S. 28](https://www.legislation.gov.uk/ukcm/2018/8/section/28) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-fa052fb88938791b68614a8b71ae3ba6]: Commencement: [S. 28](https://www.legislation.gov.uk/ukcm/2018/8/section/28) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-365886fc8bec758789aaae7c15bf41f0]: Textual amendment: Words in [s. 28(4)(a)](https://www.legislation.gov.uk/ukcm/2018/8/section/28/4/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-365886fc8bec758789aaae7c15bf41f0]: Textual amendment: Words in [s. 28(4)(a)](https://www.legislation.gov.uk/ukcm/2018/8/section/28/4/a) substituted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/4), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

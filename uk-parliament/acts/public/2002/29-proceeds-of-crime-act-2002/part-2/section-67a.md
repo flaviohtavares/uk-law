@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Seized personal property[^key-69486128bcd298081e6f1707dab9157d]
+## 67A. Seized personal property[^c-69486128bcd298081e6f1707dab9157d]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ a magistrates' court may by order authorise an appropriate officer to realise th
 
 ## Annotations
 
-[^key-69486128bcd298081e6f1707dab9157d]: Textual amendment: Ss. 67A-67D inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/58/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
+[^c-69486128bcd298081e6f1707dab9157d]: Textual amendment: Ss. 67A-67D inserted (1.6.2015) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2009/26/section/58/2), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2015/983](https://www.legislation.gov.uk/uksi/2015/983), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2015/983/article/2/2/a)
 
 [^M_F_103d6f14-c67f-4131-b6ab-56123ac29e99]: Textual amendment: S. 67A(3) substituted for s. 67A(2)(3) (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 14(4)](https://www.legislation.gov.uk/ukpga/2015/9/section/14/4), 88(1); S.I. 2015/820, reg. 3(j)

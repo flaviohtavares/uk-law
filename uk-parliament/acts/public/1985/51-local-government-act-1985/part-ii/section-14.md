@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Local valuation panels.[^key-512525b95a69e07649ffba0ceffe95a3]
+## 14. Local valuation panels.[^c-512525b95a69e07649ffba0ceffe95a3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-512525b95a69e07649ffba0ceffe95a3]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1985/51/section/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-512525b95a69e07649ffba0ceffe95a3]: Textual amendment: [S. 14](https://www.legislation.gov.uk/ukpga/1985/51/section/14) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3

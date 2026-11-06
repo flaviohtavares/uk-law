@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Laying of water mains and communication pipes by persons other than Scottish Water[^key-40af2ae29b8cb1a63ab8cec29f0ee842]
+## 31. Laying of water mains and communication pipes by persons other than Scottish Water[^c-40af2ae29b8cb1a63ab8cec29f0ee842]
 
 *Extent: S*
 
@@ -97,4 +97,4 @@ After section 23 of the 1980 Act insert—
 
 ## Annotations
 
-[^key-40af2ae29b8cb1a63ab8cec29f0ee842]: Commencement: S. 31 in force at 10.7.2008 by [S.S.I. 2008/269](https://www.legislation.gov.uk/ssi/2008/269), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/269/article/2/b)
+[^c-40af2ae29b8cb1a63ab8cec29f0ee842]: Commencement: S. 31 in force at 10.7.2008 by [S.S.I. 2008/269](https://www.legislation.gov.uk/ssi/2008/269), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/269/article/2/b)

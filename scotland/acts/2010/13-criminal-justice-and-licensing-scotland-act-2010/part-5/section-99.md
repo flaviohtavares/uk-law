@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Closure of premises associated with human exploitation etc.[^key-62fe84add63a1bc4ebc3aece306e3c77]
+## 99. Closure of premises associated with human exploitation etc.[^c-62fe84add63a1bc4ebc3aece306e3c77]
 
 *Extent: S*
 
@@ -145,4 +145,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62fe84add63a1bc4ebc3aece306e3c77]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2010/13/section/99) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2010/413/article/6))
+[^c-62fe84add63a1bc4ebc3aece306e3c77]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2010/13/section/99) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2010/413/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Public health protection measures[^key-e9dba52460a616846f0f2f65a95d6c75]
+## 1. Public health protection measures[^c-e9dba52460a616846f0f2f65a95d6c75]
 
 *Extent: S*
 
@@ -259,4 +259,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9dba52460a616846f0f2f65a95d6c75]: Commencement: S. 1 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-e9dba52460a616846f0f2f65a95d6c75]: Commencement: S. 1 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

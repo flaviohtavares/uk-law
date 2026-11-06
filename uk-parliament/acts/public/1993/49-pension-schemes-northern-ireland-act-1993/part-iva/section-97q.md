@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97Q. Power to modify Chapter II in relation to hybrid schemes.[^key-76eeff414ddec9734b2374ba92b8781c]
+## 97Q. Power to modify Chapter II in relation to hybrid schemes.[^c-76eeff414ddec9734b2374ba92b8781c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76eeff414ddec9734b2374ba92b8781c]: Textual amendment: [S. 97Q](https://www.legislation.gov.uk/ukpga/1993/49/section/97Q) omitted (6.4.2015) by virtue of [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 68](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/68) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-76eeff414ddec9734b2374ba92b8781c]: Textual amendment: [S. 97Q](https://www.legislation.gov.uk/ukpga/1993/49/section/97Q) omitted (6.4.2015) by virtue of [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 68](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/68) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

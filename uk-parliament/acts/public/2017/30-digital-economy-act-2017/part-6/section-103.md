@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Code of practice for providers of online social media platforms[^key-fd1091355f5c08994dedf201cba89d90]
+## 103. Code of practice for providers of online social media platforms[^c-fd1091355f5c08994dedf201cba89d90]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd1091355f5c08994dedf201cba89d90]: Textual amendment: [S. 103](https://www.legislation.gov.uk/ukpga/2017/30/section/103) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 212(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/212/3), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-fd1091355f5c08994dedf201cba89d90]: Textual amendment: [S. 103](https://www.legislation.gov.uk/ukpga/2017/30/section/103) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 212(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/212/3), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)

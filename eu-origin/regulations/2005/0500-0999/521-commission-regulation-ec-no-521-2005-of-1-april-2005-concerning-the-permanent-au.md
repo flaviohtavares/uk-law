@@ -38,30 +38,30 @@ concerning the permanent authorisation of an additive and the provisional author
 
 (Text with EEA relevance) (revoked)
 
-[^key-0bb2c01c9a3f13196f136b86650df77f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bb2c01c9a3f13196f136b86650df77f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-0bb2c01c9a3f13196f136b86650df77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-0bb2c01c9a3f13196f136b86650df77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-0bb2c01c9a3f13196f136b86650df77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-0bb2c01c9a3f13196f136b86650df77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-0bb2c01c9a3f13196f136b86650df77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-0bb2c01c9a3f13196f136b86650df77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-0bb2c01c9a3f13196f136b86650df77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-0bb2c01c9a3f13196f136b86650df77f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0bb2c01c9a3f13196f136b86650df77f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0bb2c01c9a3f13196f136b86650df77f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-0bb2c01c9a3f13196f136b86650df77f]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-0bb2c01c9a3f13196f136b86650df77f]
+## ANNEX I[^c-0bb2c01c9a3f13196f136b86650df77f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-0bb2c01c9a3f13196f136b86650df77f]
+## ANNEX II[^c-0bb2c01c9a3f13196f136b86650df77f]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-0bb2c01c9a3f13196f136b86650df77f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0bb2c01c9a3f13196f136b86650df77f]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-0bb2c01c9a3f13196f136b86650df77f]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

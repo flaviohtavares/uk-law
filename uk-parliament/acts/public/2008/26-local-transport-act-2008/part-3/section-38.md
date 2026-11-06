@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Appeals where proposed variation considered exempt[^c2199628][^key-71e1cb061fec97fa56bd36f2915d862d]
+## 38. Appeals where proposed variation considered exempt[^c2199628][^c-71e1cb061fec97fa56bd36f2915d862d]
 
 *Extent: E+W*
 
@@ -93,4 +93,4 @@ After section 132 of the TA 2000 insert—
 
 [^c2199628]: Commencement: S. 38 partly in force; s. 38 in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-71e1cb061fec97fa56bd36f2915d862d]: Commencement: S. 38 in force at 11.1.2010 for E. in so far as not already in force by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-71e1cb061fec97fa56bd36f2915d862d]: Commencement: S. 38 in force at 11.1.2010 for E. in so far as not already in force by [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

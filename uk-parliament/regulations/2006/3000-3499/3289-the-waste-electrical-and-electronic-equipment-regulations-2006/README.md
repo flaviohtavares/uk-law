@@ -32,7 +32,7 @@ summary: ''
 
 Environmental protection
 
-The Waste Electrical and Electronic Equipment Regulations 2006 (revoked)[^key-759e6c7dade91ff82ef25667c9c4802b]
+The Waste Electrical and Electronic Equipment Regulations 2006 (revoked)[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 Made
 
@@ -44,11 +44,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) to (4)
 
-[^key-759e6c7dade91ff82ef25667c9c4802b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-759e6c7dade91ff82ef25667c9c4802b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 1 — GENERAL[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -57,7 +57,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 3 — Service of documents](part-1/section-3.md)
 - [Section 4 — Amendments to the Environment Act 1995](part-1/section-4.md)
 
-### PART 2 — APPLICATION[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 2 — APPLICATION[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -65,7 +65,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 6 — First compliance period](part-2/section-6.md)
 - [Section 7 — Existing Community legislation](part-2/section-7.md)
 
-### PART 3 — PRODUCER OBLIGATIONS[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 3 — PRODUCER OBLIGATIONS[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -81,7 +81,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 17 — Information on new types of EEE](part-3/section-17.md)
 - [Section 18 — Producers supplying EEE by means of distance communication](part-3/section-18.md)
 
-### PART 4 — SCHEME OBLIGATIONS[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 4 — SCHEME OBLIGATIONS[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -98,7 +98,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 29 — Declaration of compliance](part-4/section-29.md)
 - [Section 30 — Record keeping](part-4/section-30.md)
 
-### PART 5 — DISTRIBUTOR OBLIGATIONS AND RIGHTS: WEEE FROM PRIVATE HOUSEHOLDS[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 5 — DISTRIBUTOR OBLIGATIONS AND RIGHTS: WEEE FROM PRIVATE HOUSEHOLDS[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -108,7 +108,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 34 — Record keeping](part-5/section-34.md)
 - [Section 35 — Exemption for members of a distributor take back scheme](part-5/section-35.md)
 
-### PART 6 — MISCELLANEOUS[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 6 — MISCELLANEOUS[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 *Extent: E+W+S+N.I.*
 
@@ -121,7 +121,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 40 — Prohibition on showing the costs of financing the collection, treatment and environmentally sound disposal of WEEE from private households](part-6/section-40.md)
 - [Section 40A — Final holder right of return: WEEE from private households](part-6/section-40a.md)
 
-### PART 7 — APPROVAL OF PROPOSED SCHEMES AND WITHDRAWAL OF APPROVAL OF SCHEMES[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 7 — APPROVAL OF PROPOSED SCHEMES AND WITHDRAWAL OF APPROVAL OF SCHEMES[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -131,7 +131,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 44 — Withdrawal of approval of a scheme](part-7/section-44.md)
 - [Section 45 — Charges](part-7/section-45.md)
 
-### PART 8 — APPROVAL OF AUTHORISED TREATMENT FACILITIES AND EXPORTERS[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 8 — APPROVAL OF AUTHORISED TREATMENT FACILITIES AND EXPORTERS[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -144,7 +144,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 52 — Reporting](part-8/section-52.md)
 - [Section 53 — Record keeping](part-8/section-53.md)
 
-### PART 9 — POWERS AND DUTIES OF THE SECRETARY OF STATE[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 9 — POWERS AND DUTIES OF THE SECRETARY OF STATE[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 *Extent: E+W+S+N.I.*
 
@@ -158,7 +158,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 59 — Product design](part-9/section-59.md)
 - [Section 59A — Record keeping](part-9/section-59a.md)
 
-### PART 10 — DUTIES OF THE APPROPRIATE AUTHORITIES[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 10 — DUTIES OF THE APPROPRIATE AUTHORITIES[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -168,13 +168,13 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 63 — Information](part-10/section-63.md)
 - [Section 64 — Approval of authorised treatment facilities and exporters](part-10/section-64.md)
 
-### PART 11 — DISCLOSURE OF INFORMATION[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 11 — DISCLOSURE OF INFORMATION[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
 - [Section 65 — Disclosure of information](part-11/section-65.md)
 
-### PART 12 — APPEALS[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 12 — APPEALS[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -183,7 +183,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 68 — Determination of appeals](part-12/section-68.md)
 - [Section 69 — Status of a decision pending appeal](part-12/section-69.md)
 
-### PART 13 — ENFORCEMENT[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 13 — ENFORCEMENT[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -191,7 +191,7 @@ Coming into force in accordance with regulation 1(2) to (4)
 - [Section 71 — Enforcement notice](part-13/section-71.md)
 - [Section 72 — Entry and inspection](part-13/section-72.md)
 
-### PART 14 — OFFENCES AND PENALTIES[^key-759e6c7dade91ff82ef25667c9c4802b]
+### PART 14 — OFFENCES AND PENALTIES[^c-759e6c7dade91ff82ef25667c9c4802b]
 
 **No longer in force.**
 
@@ -215,14 +215,14 @@ Coming into force in accordance with regulation 1(2) to (4)
 
 **No longer in force.**
 
-[^key-759e6c7dade91ff82ef25667c9c4802b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-759e6c7dade91ff82ef25667c9c4802b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-759e6c7dade91ff82ef25667c9c4802b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-759e6c7dade91ff82ef25667c9c4802b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-759e6c7dade91ff82ef25667c9c4802b]: Textual amendment: Regulations revoked (subject to a saving for reg. 4) (1.1.2014) by [The Waste Electrical and Electronic Equipment Regulations 2013 (S.I. 2013/3113)](https://www.legislation.gov.uk/uksi/2013/3113), [reg. 96(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/2) (with [reg. 96(3)-(5)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/3))
+[^c-759e6c7dade91ff82ef25667c9c4802b]: Textual amendment: Regulations revoked (subject to a saving for reg. 4) (1.1.2014) by [The Waste Electrical and Electronic Equipment Regulations 2013 (S.I. 2013/3113)](https://www.legislation.gov.uk/uksi/2013/3113), [reg. 96(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/2) (with [reg. 96(3)-(5)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/96/3))

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**108.**[^key-3a2bb1d7efd2ca131f516d7b37d3f521] In Schedule 2, in paragraph 4 (prevention of neglect and abuse)—
+**108.**[^c-3a2bb1d7efd2ca131f516d7b37d3f521] In Schedule 2, in paragraph 4 (prevention of neglect and abuse)—
 
 - (a) in sub-paragraph (2)(b) after “another local authority” insert “or in the area of a local authority in Wales”;
 - (b) in sub-paragraph (2) after “that other local authority” insert “or the local authority in Wales, as the case may be”;
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a2bb1d7efd2ca131f516d7b37d3f521]: Commencement: Reg. 108 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-3a2bb1d7efd2ca131f516d7b37d3f521]: Commencement: Reg. 108 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5A. Exemption of European employers[^key-f864c850e9716424973651047b831c64]
+## 5A. Exemption of European employers[^c-f864c850e9716424973651047b831c64]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Sections 2(1), 3(2), 5(2), 7(3), 9(2) and 54 of the Act (employer’s obligation
 
 ## Annotations
 
-[^key-f864c850e9716424973651047b831c64]: Textual amendment: Pt. 1A inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1477)](https://www.legislation.gov.uk/uksi/2012/1477), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1477/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1477/regulation/2)
+[^c-f864c850e9716424973651047b831c64]: Textual amendment: Pt. 1A inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) (No. 2) Regulations 2012 (S.I. 2012/1477)](https://www.legislation.gov.uk/uksi/2012/1477), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1477/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/1477/regulation/2)

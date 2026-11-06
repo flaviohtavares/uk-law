@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.44. Application to extend retention period[^key-a2c172fa227910ed043764f3b478be8f]
+## 47.44. Application to extend retention period[^c-a2c172fa227910ed043764f3b478be8f]
 
 *Extent: E+W*
 
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a2c172fa227910ed043764f3b478be8f]: Commencement: Rule 47.44 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a2c172fa227910ed043764f3b478be8f]: Commencement: Rule 47.44 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01237]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 

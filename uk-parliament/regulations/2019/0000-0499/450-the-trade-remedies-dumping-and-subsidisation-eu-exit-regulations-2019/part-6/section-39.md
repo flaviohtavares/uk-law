@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Purpose of Part 6[^key-8bc7946b765ab67b92de48b59a563596]
+## 39. Purpose of Part 6[^c-8bc7946b765ab67b92de48b59a563596]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Pursuant to paragraphs 9, 10, 29 and 31 of Schedule 4 to the Act, the initiation
 
 ## Annotations
 
-[^key-8bc7946b765ab67b92de48b59a563596]: Commencement: Reg. 39 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-8bc7946b765ab67b92de48b59a563596]: Commencement: Reg. 39 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

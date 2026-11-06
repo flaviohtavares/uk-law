@@ -22,20 +22,20 @@ summary: ''
 
 Regulation 7
 
-### 1. Application[^key-837fe81ea970adc33e0c3cf84ac26d91]
+### 1. Application[^c-837fe81ea970adc33e0c3cf84ac26d91]
 
 This Schedule applies in relation to every combustion plant referred to in Article 30(3) of the IED.
 
-**2.**[^key-c49b6f538c06d3f7da3ddfd09fe0720c] This Schedule applies, from 1<sup>st</sup> January 2016, in relation to every combustion plant referred to in Article 30(2) of the IED.
+**2.**[^c-c49b6f538c06d3f7da3ddfd09fe0720c] This Schedule applies, from 1<sup>st</sup> January 2016, in relation to every combustion plant referred to in Article 30(2) of the IED.
 
-### 3. Interpretation[^key-c996115f1fa0d00ee27df9bd4b210684]
+### 3. Interpretation[^c-c996115f1fa0d00ee27df9bd4b210684]
 
 When interpreting Chapter III of the IED, for the purposes of this Schedule, the competent authority is—
 
 - (a) for the purposes of exercising a judgment as to whether there is an overriding need to maintain energy supplies under Article 30(6) or 37(2) of the IED, the Department; or
 - (b) otherwise, the chief inspector.
 
-### 4. Exercise of relevant functions[^key-46b671d2bc4354c2551e105f6cdd78bf]
+### 4. Exercise of relevant functions[^c-46b671d2bc4354c2551e105f6cdd78bf]
 
 (1) The chief inspector must exercise his functions under regulation 7 so as to ensure compliance with the following provisions of Chapter III of the IED—
 
@@ -60,10 +60,10 @@ When interpreting Chapter III of the IED, for the purposes of this Schedule, the
 
 ## Annotations
 
-[^key-837fe81ea970adc33e0c3cf84ac26d91]: Commencement: Sch. 9 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-837fe81ea970adc33e0c3cf84ac26d91]: Commencement: Sch. 9 para. 1 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-c49b6f538c06d3f7da3ddfd09fe0720c]: Commencement: Sch. 9 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-c49b6f538c06d3f7da3ddfd09fe0720c]: Commencement: Sch. 9 para. 2 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-c996115f1fa0d00ee27df9bd4b210684]: Commencement: Sch. 9 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-c996115f1fa0d00ee27df9bd4b210684]: Commencement: Sch. 9 para. 3 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
 
-[^key-46b671d2bc4354c2551e105f6cdd78bf]: Commencement: Sch. 9 para. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-46b671d2bc4354c2551e105f6cdd78bf]: Commencement: Sch. 9 para. 4 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

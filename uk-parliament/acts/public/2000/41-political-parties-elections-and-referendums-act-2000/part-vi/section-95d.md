@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95D. Forfeiture[^key-659db08d2e1d8991daa8fa2200f6da0a]
+## 95D. Forfeiture[^c-659db08d2e1d8991daa8fa2200f6da0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,10 +43,10 @@ was attributable to an intention on the part of any person to conceal the existe
 
 (7) In this section “**relevant donation**” has the same meaning as in Schedule 11.
 
-(8)[^key-43797796003ee18bf74e2a3ddfc46877] This section does not apply in relation to a recognised third party that is subject to the lower-tier expenditure limits.
+(8)[^c-43797796003ee18bf74e2a3ddfc46877] This section does not apply in relation to a recognised third party that is subject to the lower-tier expenditure limits.
 
 ## Annotations
 
-[^key-659db08d2e1d8991daa8fa2200f6da0a]: Textual amendment: Ss. 95A-95F and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
+[^c-659db08d2e1d8991daa8fa2200f6da0a]: Textual amendment: Ss. 95A-95F and cross-heading inserted (30.1.2014) by [Transparency of Lobbying, Non-Party Campaigning and Trade Union Administration Act 2014 (c. 4)](https://www.legislation.gov.uk/ukpga/2014/4), [ss. 33(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/33/2), [45(3)(b)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/b) (with [s. 46(1)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/4/section/46/2))
 
-[^key-43797796003ee18bf74e2a3ddfc46877]: Textual amendment: [S. 95D(8)](https://www.legislation.gov.uk/ukpga/2000/41/section/95D/8) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 28(12)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/12), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1) (with [s. 28(13)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/13)[(14)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/14)); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-43797796003ee18bf74e2a3ddfc46877]: Textual amendment: [S. 95D(8)](https://www.legislation.gov.uk/ukpga/2000/41/section/95D/8) inserted (24.11.2022) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 28(12)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/12), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1) (with [s. 28(13)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/13)[(14)](https://www.legislation.gov.uk/ukpga/2022/37/section/28/14)); [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Meaning of “alcohol”: inclusion of angostura bitters[^key-e32d6a89cc6e139659aa6b4d7bca58ab]
+## 54. Meaning of “alcohol”: inclusion of angostura bitters[^c-e32d6a89cc6e139659aa6b4d7bca58ab]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 2 of the 2005 Act (meaning of “alcohol”), in subsection (1)(b), p
 
 ## Annotations
 
-[^key-e32d6a89cc6e139659aa6b4d7bca58ab]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/10/section/54) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-e32d6a89cc6e139659aa6b4d7bca58ab]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/10/section/54) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)

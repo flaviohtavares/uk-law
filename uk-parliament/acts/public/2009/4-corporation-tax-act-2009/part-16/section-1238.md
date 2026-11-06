@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1238. Retraining courses[^key-c23e952e2561e1c44d1f376f01fd5338]
+## 1238. Retraining courses[^c-c23e952e2561e1c44d1f376f01fd5338]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b93e5ca193e37a8b63b676f7f947e90a] This section applies if—
+(1)[^c-b93e5ca193e37a8b63b676f7f947e90a] This section applies if—
 
 - (a) a company with investment business (“**the employer**”) incurs retraining course expenses,
 - (b) they are incurred in relation to a person (“**the employee**”) who holds or has held an office or employment under the employer, and
 - (c) the relevant conditions are met.
 
-(2)[^key-b93e5ca193e37a8b63b676f7f947e90a] The expenses are treated for the purposes of Chapter 2 as expenses of management.
+(2)[^c-b93e5ca193e37a8b63b676f7f947e90a] The expenses are treated for the purposes of Chapter 2 as expenses of management.
 
-(3)[^key-b93e5ca193e37a8b63b676f7f947e90a] In this section—
+(3)[^c-b93e5ca193e37a8b63b676f7f947e90a] In this section—
 
 - “**retraining course expenses**” means expenses incurred in the payment or reimbursement of retraining course expenses within the meaning given by section 311(2) of ITEPA 2003, and
 - “**the relevant conditions**” means—
@@ -44,6 +44,6 @@ subsections (2) to (6) of section 75 (retraining courses: recovery of tax) apply
 
 ## Annotations
 
-[^key-c23e952e2561e1c44d1f376f01fd5338]: Modification: Ss. 1238-1242 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-c23e952e2561e1c44d1f376f01fd5338]: Modification: Ss. 1238-1242 applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
 
-[^key-b93e5ca193e37a8b63b676f7f947e90a]: Modification: S. 1238(1)-(3) applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-b93e5ca193e37a8b63b676f7f947e90a]: Modification: S. 1238(1)-(3) applied (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 81(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/2)[(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/3)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/81/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))

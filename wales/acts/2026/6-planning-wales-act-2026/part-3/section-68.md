@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Determining applications to develop without compliance with previous conditions[^key-d4dd6b11a1875601cc527c97c9d96a65]
+## 68. Determining applications to develop without compliance with previous conditions[^c-d4dd6b11a1875601cc527c97c9d96a65]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4dd6b11a1875601cc527c97c9d96a65]: Commencement: S. 68 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d4dd6b11a1875601cc527c97c9d96a65]: Commencement: S. 68 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Application to Scotland[^key-1699ad744cfdc2b982c8dde458f3725e]
+## 97. Application to Scotland[^c-1699ad744cfdc2b982c8dde458f3725e]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ In the application of these Regulations to Scotland—
 
 ## Annotations
 
-[^key-1699ad744cfdc2b982c8dde458f3725e]: Commencement: Reg. 97 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-1699ad744cfdc2b982c8dde458f3725e]: Commencement: Reg. 97 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00040]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).

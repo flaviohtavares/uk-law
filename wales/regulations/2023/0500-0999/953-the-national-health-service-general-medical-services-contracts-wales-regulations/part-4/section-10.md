@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Health service body status: election[^key-868c7c40c30564b83100744d073cfd3a]
+## 10. Health service body status: election[^c-868c7c40c30564b83100744d073cfd3a]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-868c7c40c30564b83100744d073cfd3a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2023/953/regulation/10) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-868c7c40c30564b83100744d073cfd3a]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2023/953/regulation/10) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

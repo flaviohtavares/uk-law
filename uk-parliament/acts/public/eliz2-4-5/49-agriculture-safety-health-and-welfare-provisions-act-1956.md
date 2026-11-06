@@ -98,7 +98,7 @@ Provided that, in any proceedings under this subsection for an offence consistin
 
 ## Measures for Avoiding Accidents to Children
 
-### 7. Power to prohibit children from riding on or driving vehicles, machinery or implements used in agriculture.[^key-4ac2938f00c10050eefe9d07d3edb95a]
+### 7. Power to prohibit children from riding on or driving vehicles, machinery or implements used in agriculture.[^c-4ac2938f00c10050eefe9d07d3edb95a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -212,7 +212,7 @@ Sections one, two and six of this Act and regulations under any of those section
 (10) In this Act the following expressions have the meanings hereby assigned to them respectively, that is to say—
 
 - “**agricultural holding**”, “**fixing equipment**” and “**landlord**” have the like meanings as in the Agricultural Holdings (Scotland) Act 1991 ;
-- “**owner**” has the like meanings as in the *(Extent: S)* *(affected by repeal, see note)*[^key-6822997da4e8e492bed04c1dfde04a48] [^c612538]Public Health (Scotland) Act, 1897, and *(Extent: S)* *(affected by repeal, see note)*[^key-6822997da4e8e492bed04c1dfde04a48] in the case of an agricultural unit occupied by a landholder within the meaning of the Small Landholders (Scotland) Acts, 1886 to 1931, or a crofter within the meaning of the [^c612539]Crofters (Scotland) Act, 1955, means that landholder or crofter;
+- “**owner**” has the like meanings as in the *(Extent: S)* *(affected by repeal, see note)*[^c-6822997da4e8e492bed04c1dfde04a48] [^c612538]Public Health (Scotland) Act, 1897, and *(Extent: S)* *(affected by repeal, see note)*[^c-6822997da4e8e492bed04c1dfde04a48] in the case of an agricultural unit occupied by a landholder within the meaning of the Small Landholders (Scotland) Acts, 1886 to 1931, or a crofter within the meaning of the [^c612539]Crofters (Scotland) Act, 1955, means that landholder or crofter;
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c612540]
 - “**tort**” means delict or quasi-delict;
 - “**worker**” means a person employed under a contract of service or apprenticeship or a person employed in accordance with the provisions of Part III of the [^c612541]Children and Young Persons (Scotland) Act, 1937, and the [^c612542]Education (Exemptions) (Scotland) Act, 1947, and “**employer**” and “**employed**” have corresponding meanings;
@@ -276,7 +276,7 @@ and subsection (1) of section twenty-four shall have effect as if the definition
 
 [^c612449]: Textual amendment: [S. 6(4)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/49/section/6/4) repealed by [S.I. 1981/917](https://www.legislation.gov.uk/uksi/1981/917), [Sch. 1](https://www.legislation.gov.uk/uksi/1981/917/schedule/1)
 
-[^key-4ac2938f00c10050eefe9d07d3edb95a]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/49/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
+[^c-4ac2938f00c10050eefe9d07d3edb95a]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/49/section/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 2
 
 [^c612451]: Textual amendment: [Ss. 7(1)(2)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/49/section/7/1/2), [8](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/49/section/8), [10](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/49/section/10) repealed with saving by [S.I. 1975/46](https://www.legislation.gov.uk/uksi/1975/46), [reg. 5](https://www.legislation.gov.uk/uksi/1975/46/regulation/5), [Sch. 1](https://www.legislation.gov.uk/uksi/1975/46/schedule/1)
 
@@ -330,7 +330,7 @@ and subsection (1) of section twenty-four shall have effect as if the definition
 
 [^c612536]: Textual amendment: S. 25(8)(9) repealed by [S.I. 1977/746](https://www.legislation.gov.uk/uksi/1977/746), [Sch. 2](https://www.legislation.gov.uk/uksi/1977/746/schedule/2)
 
-[^key-6822997da4e8e492bed04c1dfde04a48]: Textual amendment: Words in [s. 25(10)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/49/section/25/10) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (No. 319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
+[^c-6822997da4e8e492bed04c1dfde04a48]: Textual amendment: Words in [s. 25(10)](https://www.legislation.gov.uk/ukpga/Eliz2/4-5/49/section/25/10) repealed (S.) (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (Commencement No. 2, Savings and Consequential Provisions) Order 2009 (No. 319)](https://www.legislation.gov.uk/ssi/2009/319), [art. 2](https://www.legislation.gov.uk/ssi/2009/319/article/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/3/part/1)
 
 [^c612538]: Marginal citation: [1897 c. 38](https://www.legislation.gov.uk/ukpga/1897/38) (**100:2**).
 

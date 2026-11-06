@@ -26,7 +26,7 @@ Regulation 4
 
 ### Part I
 
-**1.**[^key-eb3e600f68b2f3374a81e17d493725b1] (1) In the case of any feeding stuff, the name or trade name and address or registered office of the person responsible for the accuracy of the particulars referred to in this Schedule shall be contained in the statutory statement.
+**1.**[^c-eb3e600f68b2f3374a81e17d493725b1] (1) In the case of any feeding stuff, the name or trade name and address or registered office of the person responsible for the accuracy of the particulars referred to in this Schedule shall be contained in the statutory statement.
 
 (2) The following particulars may be contained in the statutory statement—
 
@@ -35,7 +35,7 @@ Regulation 4
 - (c) the price of the material; and
 - (d) the country of origin or manufacture of the material.
 
-**2.**[^key-3b849def571b3f9277991ca0e150943d] Where any person sells, or otherwise puts into circulation, any feeding stuff to which there has been added in the course of manufacture or preparation for putting into circulation, an authorised additive of any of the kinds specified below (other than as an authorised intermediate product or an authorised medicated premix) and which is not excluded from application of the Additives Directive by Article 22 of that Directive, the following particulars shall be contained in the statutory statement—
+**2.**[^c-3b849def571b3f9277991ca0e150943d] Where any person sells, or otherwise puts into circulation, any feeding stuff to which there has been added in the course of manufacture or preparation for putting into circulation, an authorised additive of any of the kinds specified below (other than as an authorised intermediate product or an authorised medicated premix) and which is not excluded from application of the Additives Directive by Article 22 of that Directive, the following particulars shall be contained in the statutory statement—
 
 - (a) for antioxidants, colourants or preservatives—
   - (i) if the feeding stuff is a compound feeding stuff other than a pet food, the name of the additive;
@@ -60,21 +60,21 @@ Regulation 4
   - (v) an indication of the period during which the colony-forming units will remain present; and
   - (vi) an indication of any significant characteristics of the micro-organisms arising during manufacture, as specified in the authorisation concerned;
 
-**3.**[^key-3d19a4619ab81a35544cc4a0e7834ceb] In relation to the additives specified below, the following particulars may be contained in the statutory statement in addition to those required by paragraph 2—
+**3.**[^c-3d19a4619ab81a35544cc4a0e7834ceb] In relation to the additives specified below, the following particulars may be contained in the statutory statement in addition to those required by paragraph 2—
 
 - (a) for trace elements other than copper (if the amount present can be determined by the method of analysis specified in Point 3 of the Annex to Directive [78/633/EEC](https://www.legislation.gov.uk/european/directive/1978/0633)[^f00052] or by some other valid scientific method), the name of the additive and the total level of the element, whether naturally present or added; and
 - (b) for vitamins other than vitamins A, D and E, provitamins and substances having a similar chemical effect (if the amount present can be determined by any valid scientific method), the name of the additive, the active substance level, whether naturally present or added, and an indication of the period during which that level will remain present.
 
-**4.**[^key-ffbf0fd1001685bbc3e8e9aa0abbd016] Any amount referred to—
+**4.**[^c-ffbf0fd1001685bbc3e8e9aa0abbd016] Any amount referred to—
 
 - (a) in paragraph 2(*c*), (3)(*a*) or 3(*b*) shall be expressed in milligrams per kilogram; and
 - (b) in paragraph 2(*b*) shall be expressed in million international units per kilogram, international units per kilogram, milligrams per kilogram or micrograms per kilogram, as appropriate.
 
-**5.**[^key-0632ea613a4607660fa80dc81dd9827b] By way of exception to paragraph 4(*a*), any amount referred to in paragraph 2(*c*), 3(*a*) or 3(*b*) may be expressed as a percentage by weight, unless the amount is less than 0.1% by weight, in which case it shall be expressed in milligrams per kilogram or micrograms per kilogram as appropriate.
+**5.**[^c-0632ea613a4607660fa80dc81dd9827b] By way of exception to paragraph 4(*a*), any amount referred to in paragraph 2(*c*), 3(*a*) or 3(*b*) may be expressed as a percentage by weight, unless the amount is less than 0.1% by weight, in which case it shall be expressed in milligrams per kilogram or micrograms per kilogram as appropriate.
 
-**6.**[^key-0dcfe77679d44db00128e4346e66ad21] The particulars required or permitted by paragraphs 2 or 3 to be included in the statutory statement may be accompanied (in the case of any additive not being an enzyme or a micro-organism) by the trade name or the EC registration number of any additive named therein.
+**6.**[^c-0dcfe77679d44db00128e4346e66ad21] The particulars required or permitted by paragraphs 2 or 3 to be included in the statutory statement may be accompanied (in the case of any additive not being an enzyme or a micro-organism) by the trade name or the EC registration number of any additive named therein.
 
-**7.**[^key-de1768a592d8e70f6848fa1cf1482aa7] Subject to paragraphs 8 to 11, in the case of any feed material which is sold, or otherwise put into circulation, by any person, the following particulars shall be contained in the statutory statement—
+**7.**[^c-de1768a592d8e70f6848fa1cf1482aa7] Subject to paragraphs 8 to 11, in the case of any feed material which is sold, or otherwise put into circulation, by any person, the following particulars shall be contained in the statutory statement—
 
 - (a) in the case of any feed material of a kind specified in column (3) of Part II to Schedule 2—
   - (i) the corresponding name specified in column (2) of that Part (the inclusion of any word appearing in brackets in that column being optional); and
@@ -93,12 +93,12 @@ Regulation 4
   - (viii) where the feed material is part of a divided batch of feed materials, reference to the original batch; and
   - (ix) the name or business name, and the address or registered business address, of the person within the European Community responsible for the particulars specified in this sub-paragraph.
 
-**8.**[^key-604a0ca87db45d8c29521b194b8caa16] The particulars specified in paragraph 7(*a*)(ii) and (*b*)(ii) and (*c*)(ii) to (iv) shall not be required where—
+**8.**[^c-604a0ca87db45d8c29521b194b8caa16] The particulars specified in paragraph 7(*a*)(ii) and (*b*)(ii) and (*c*)(ii) to (iv) shall not be required where—
 
 - (a) before the feed material concerned is supplied, the person to whom it is supplied notifies the supplier in writing that those particulars need not be supplied, or
 - (b) any feed material of animal or vegetable origin, fresh or preserved, and intended for pet animals, is supplied (in a quantity not exceeding 10 kg) directly to the final user thereof, by a person established in the United Kingdom.
 
-**9.**[^key-91b3e27108e00f4aced477eab2462186] (1) In the case of any feed material which—
+**9.**[^c-91b3e27108e00f4aced477eab2462186] (1) In the case of any feed material which—
 
 - (a) originated in a country other than a member State or the United Kingdom, and
 - (b) is, for the first time, put into circulation in Northern Ireland and the European Community,
@@ -117,15 +117,15 @@ in the circumstances specified in the introductory paragraph of Article 6.2 of t
 
 (3) Where the requirements of sub-paragraph (2) are observed, it shall be the duty of the inspector concerned to notify the European Commission that, in relation to the feed material concerned, the provisional particulars concerned have been provided, and to inform the Commission of the nature of those particulars.
 
-**10.**[^key-639bbf1744b4bce36ca9b27aca72d0b8] (1) The particulars specified in paragraph 7 shall not be required in the case of any feed material of animal or vegetable origin, in its natural state, fresh or preserved, and which is not treated with an additive other than any preservative, if the feed material is provided by a farmer-producer to a breeder-user, both of whom carry on business in the United Kingdom.
+**10.**[^c-639bbf1744b4bce36ca9b27aca72d0b8] (1) The particulars specified in paragraph 7 shall not be required in the case of any feed material of animal or vegetable origin, in its natural state, fresh or preserved, and which is not treated with an additive other than any preservative, if the feed material is provided by a farmer-producer to a breeder-user, both of whom carry on business in the United Kingdom.
 
 (2) For the purposes of this paragraph, “farmer-producer” and “breeder-user” shall have the same meanings as in the Feed Materials Directive.
 
-**11.**[^key-5de90f1f8aa210719fdb694e8a4b0791] (1) The particulars specified in paragraph 7(*a*)(ii), (*b*)(ii), and (*c*)(ii) to (vii) shall not be required in the case of any feed material which is a by-product of vegetable or animal origin derived from agro-industrial processing, and which has a moisture content greater than 50%.
+**11.**[^c-5de90f1f8aa210719fdb694e8a4b0791] (1) The particulars specified in paragraph 7(*a*)(ii), (*b*)(ii), and (*c*)(ii) to (vii) shall not be required in the case of any feed material which is a by-product of vegetable or animal origin derived from agro-industrial processing, and which has a moisture content greater than 50%.
 
 (2) For the purposes of this paragraph, “agro-industrial processing” shall have the same meaning as in the Feed Materials Directive.
 
-**12.**[^key-b7067912ab6de23c1e6e85cbe816846d] (1) Where any person sells, or otherwise puts into circulation, any feed material comprising protein derived from mammalian tissue but containing no mammalian meat and bone meal, and intended for animals other than pet animals, the statutory statement shall contain the declaration specified in sub-paragraph (2).
+**12.**[^c-b7067912ab6de23c1e6e85cbe816846d] (1) Where any person sells, or otherwise puts into circulation, any feed material comprising protein derived from mammalian tissue but containing no mammalian meat and bone meal, and intended for animals other than pet animals, the statutory statement shall contain the declaration specified in sub-paragraph (2).
 
 (2) The declaration referred to in sub-paragraph (1) is—
 
@@ -133,13 +133,13 @@ in the circumstances specified in the introductory paragraph of Article 6.2 of t
 
 .
 
-**13.**[^key-9f492f5d62dd497680a2bf3122300d2a] Where any person sells, or otherwise puts into circulation, any feed material comprising or containing mammalian meat and bone meal, and intended for animals other than pet animals, the statutory statement shall contain the following declaration—
+**13.**[^c-9f492f5d62dd497680a2bf3122300d2a] Where any person sells, or otherwise puts into circulation, any feed material comprising or containing mammalian meat and bone meal, and intended for animals other than pet animals, the statutory statement shall contain the following declaration—
 
 > - This feed material comprises protein derived from mammalian tissue the feeding of which to ruminants, all other categories of farmed creatures and equine animals is prohibited
 
 .
 
-**14.**[^key-1660c32aa37722c858e48220d06bac5b] (1) Subject to sub-paragraph (2), in the case of any compound feeding stuff, the following particulars shall be contained in the statutory statement—
+**14.**[^c-1660c32aa37722c858e48220d06bac5b] (1) Subject to sub-paragraph (2), in the case of any compound feeding stuff, the following particulars shall be contained in the statutory statement—
 
 - (a) the description “complete feeding stuff”, “complementary feeding stuff”, “mineral feeding stuff”, “molassed feeding stuff”, “complete milk replacer feed” or “complementary milk replacer feed” as appropriate;
 - (b) save where the feeding stuff is constituted from no more than three feed materials, and is clearly described by reference to its feed materials, either in the statutory statement or elsewhere on its package, label or container, the species or category of animal for which the feeding stuff is intended, and directions for the proper use of the feeding stuff, indicating the purpose for which it is intended; and
@@ -150,7 +150,7 @@ in the circumstances specified in the introductory paragraph of Article 6.2 of t
 - (a) any pet food, the descriptions “complete pet food” and “complementary pet food” may be used instead of “complete feeding stuff” and “complementary feeding stuff” respectively; and
 - (b) any feeding stuff for pet animals other than dogs or cats, each of the descriptions “complete feeding stuff” and “complementary feeding stuff” may be replaced by either of the descriptions “compound feeding stuff” or “compound pet food”, but in such a case the statutory statement shall comply with paragraph 16 and the provisions relating to complete feeding stuffs in Part II of this Schedule even if it would not otherwise be required to do so.
 
-**15.**[^key-b89b1367133355e20741b54a55a4c013] In the case of any compound feeding stuff, the following particulars shall be declared either in the statutory statement, or elsewhere on the package, label or container (in which case the statutory statement shall indicate where they are to be found)—
+**15.**[^c-b89b1367133355e20741b54a55a4c013] In the case of any compound feeding stuff, the following particulars shall be declared either in the statutory statement, or elsewhere on the package, label or container (in which case the statutory statement shall indicate where they are to be found)—
 
 - (a) the net quantity, expressed in the case of solid products in units of mass, and in the case of liquid products in units of mass or volume;
 - (b) the minimum storage life, which shall be expressed—
@@ -160,7 +160,7 @@ in the circumstances specified in the introductory paragraph of Article 6.2 of t
   except that, where an expiry date for a period is required to be declared by paragraph 2(*b*) or 3(*b*), and is earlier than the appropriate date otherwise required by this paragraph, that expiry date shall be used as the appropriate date; and
 - (c) the batch number if the date of manufacture is not declared.
 
-**16.**[^key-7634387891ae49a68395cd9bcd271895] (1) In the case of any compound feeding stuff other than a whole grain mix, the statutory statement—
+**16.**[^c-7634387891ae49a68395cd9bcd271895] (1) In the case of any compound feeding stuff other than a whole grain mix, the statutory statement—
 
 - (a) shall include such declarations of the matters provided for in the columns of Part II of this Schedule, as must be included; and
 - (b) may include such declarations provided for in the columns of Part II of this Schedule, as may be included,
@@ -169,7 +169,7 @@ for consistency with Article 5 of the Compound Feeding Stuffs Directive.
 
 (2) In the case of a whole grain mix, the statutory statement may include such of the declarations provided for in the columns of Part II of this Schedule, as may be included for consistency with Article 5 of the Compound Feeding Stuffs Directive.
 
-**17.**[^key-798460eadc9a9c786e7e27b885bb2341] (1) In the case of any compound feeding stuff other than a whole grain mix, the moisture content shall be declared in the statutory statement if it exceeds the following levels—
+**17.**[^c-798460eadc9a9c786e7e27b885bb2341] (1) In the case of any compound feeding stuff other than a whole grain mix, the moisture content shall be declared in the statutory statement if it exceeds the following levels—
 
 |  |  |
 | --- | --- |
@@ -180,7 +180,7 @@ for consistency with Article 5 of the Compound Feeding Stuffs Directive.
 
 (2) In the case of a whole grain mix, or a compound feeding stuff with a moisture content not exceeding the limits stated in sub-paragraph (1), the moisture content may be declared in the statutory statement.
 
-**18.**[^key-eeebcc103db21c089f21672db938deae] (1) In the case of any compound feeding stuff for dogs or cats, all the feed materials shall be declared in the statutory statement.
+**18.**[^c-eeebcc103db21c089f21672db938deae] (1) In the case of any compound feeding stuff for dogs or cats, all the feed materials shall be declared in the statutory statement.
 
 (2) In the case of any compound feeding stuff for pet animals other than dogs and cats, the feed materials may be declared in the statutory statement, and in such case all the feed materials shall be declared.
 
@@ -195,18 +195,18 @@ and the use of one of those forms of declaration shall preclude the use of eithe
 - (i) where the declaration is by categories and any feed material belongs to none of the categories described in Part I of Schedule 10, in which case that feed material, designated by its specific name, shall be listed in order by weight in relation to the categories; or
 - (ii) where, in the case of any feeding stuff intended for a particular nutritional purpose, paragraph 26(2) and paragraph 3 of Chapter B of Schedule 9 require the declaration of any feed material by its specific name, in which case any feed material to which those provisions do not apply may be declared by reference to the category to which it belongs.
 
-**19.**[^key-18bbe3391ad775d96718c039339b64b1] (1) Subject to paragraph 26(2) and paragraph 3 of Chapter B of Schedule 9, in the case of any compound feeding stuff for animals other than pet animals, all the feed materials shall be declared in the statutory statement in descending order of weight, either by their specific names or by the names of the categories in Part II of Schedule 10 to which they belong.
+**19.**[^c-18bbe3391ad775d96718c039339b64b1] (1) Subject to paragraph 26(2) and paragraph 3 of Chapter B of Schedule 9, in the case of any compound feeding stuff for animals other than pet animals, all the feed materials shall be declared in the statutory statement in descending order of weight, either by their specific names or by the names of the categories in Part II of Schedule 10 to which they belong.
 
 (2) The use of either of these forms of declaration shall preclude the use of the other, save—
 
 - (i) where the declaration is by categories and any feed material belongs to none of the categories described in Part II of Schedule 10, in which case that feed material, designated by its specific name, shall be listed in order by weight in relation to the categories; or
 - (ii) where, in the case of any feeding stuff intended for a particular nutritional purpose, paragraph 26(2) and paragraph 3 of Chapter B of Schedule 9 require the declaration of any feed material by its specific name, in which case any feed material to which those provisions do not apply may be declared by reference to the category to which it belongs.
 
-**20.**[^key-123274355ae60689992acded738d2d53] Where any declaration under paragraphs 18 or 19 is by specific names, any feed material described in column 3 of Part II of Schedule 2 shall be declared by the corresponding name specified in column 2 of that Part (the inclusion of any word appearing in brackets in that column being optional).
+**20.**[^c-123274355ae60689992acded738d2d53] Where any declaration under paragraphs 18 or 19 is by specific names, any feed material described in column 3 of Part II of Schedule 2 shall be declared by the corresponding name specified in column 2 of that Part (the inclusion of any word appearing in brackets in that column being optional).
 
-**21.**[^key-a533f22f34d1f887cb2fd539622fa81c] In the case of any compound feeding stuff having a level of ash insoluble in hydrochloric acid not exceeding the relevant level specified in regulation 16(1)(*a*) or, as the case may be, (*b*), that level may be declared in the statutory statement as a percentage of the feeding stuff as such.
+**21.**[^c-a533f22f34d1f887cb2fd539622fa81c] In the case of any compound feeding stuff having a level of ash insoluble in hydrochloric acid not exceeding the relevant level specified in regulation 16(1)(*a*) or, as the case may be, (*b*), that level may be declared in the statutory statement as a percentage of the feeding stuff as such.
 
-**22.**[^key-74e45f46da66709c3b25fd10f1f3b564] In the case of any compound feeding stuff, the following particulars may be included in the statutory statement—
+**22.**[^c-74e45f46da66709c3b25fd10f1f3b564] In the case of any compound feeding stuff, the following particulars may be included in the statutory statement—
 
 - (a) if the manufacturer is not the person responsible for the labelling particulars, the name or business name and the address or registered business address of the manufacturer;
 - (b) an indication of the physical condition of the feeding stuff or the specific processing it has undergone; and
@@ -216,18 +216,18 @@ and the use of one of those forms of declaration shall preclude the use of eithe
 
   .
 
-**23.**[^key-0524f47fd1d693af94a99fee0392b719] (1) In the case of any complementary feeding stuff which contains any additive in excess of the maximum content in relation to complete feeding stuffs specified for that additive in the relevant Part of Parts I to VIII of the Table to Schedule 3 or, as the case may be, in the relevant European Community Regulation specified in Part IX of that Table, and which is not covered by Article 22 of the Additives Directive, the instructions for use in the statutory statement shall state, according to the species and age of the animal, the maximum quantity in grams or kilograms of the feeding stuff which, under these Regulations, may be given per animal per day, and shall be so formulated that, when they are correctly followed, the final content of the additive in relation to complete feeding stuffs does not exceed the maximum so specified in relation to them.
+**23.**[^c-0524f47fd1d693af94a99fee0392b719] (1) In the case of any complementary feeding stuff which contains any additive in excess of the maximum content in relation to complete feeding stuffs specified for that additive in the relevant Part of Parts I to VIII of the Table to Schedule 3 or, as the case may be, in the relevant European Community Regulation specified in Part IX of that Table, and which is not covered by Article 22 of the Additives Directive, the instructions for use in the statutory statement shall state, according to the species and age of the animal, the maximum quantity in grams or kilograms of the feeding stuff which, under these Regulations, may be given per animal per day, and shall be so formulated that, when they are correctly followed, the final content of the additive in relation to complete feeding stuffs does not exceed the maximum so specified in relation to them.
 
 (2) Sub-paragraph (1) shall not apply to any products delivered to manufacturers of compound feeding stuffs or to their suppliers.
 
-**24.**[^key-122b08da5560898f3f65e3f411ee1c45] (1) In the particulars required or permitted by paragraphs 15 to 19 and 21 to be set out in the statutory statement—
+**24.**[^c-122b08da5560898f3f65e3f411ee1c45] (1) In the particulars required or permitted by paragraphs 15 to 19 and 21 to be set out in the statutory statement—
 
 - (a) unless the paragraph in question specifies some other method of expression, the amounts shown shall be expressed in each case as a percentage of the weight of the feeding stuff; and
 - (b) phosphorus shall be expressed as “phosphorus P”.
 
 (2) An expression of an amount as being within a range of percentages set out in the statutory statement shall not be regarded as compliance with sub-paragraph (1).
 
-**25.**[^key-620ac39755256b7748034a32dbf15468] (1) Subject to sub-paragraph (2), in the case of any compound pet food, or of any feeding stuff intended for a particular nutritional purpose for animals other than pet animals, particular attention may be drawn in the statutory statement, or elsewhere on the package, label or container, to the presence or low content of one or more feed materials which are essential aspects of the characteristics of the feeding stuff.
+**25.**[^c-620ac39755256b7748034a32dbf15468] (1) Subject to sub-paragraph (2), in the case of any compound pet food, or of any feeding stuff intended for a particular nutritional purpose for animals other than pet animals, particular attention may be drawn in the statutory statement, or elsewhere on the package, label or container, to the presence or low content of one or more feed materials which are essential aspects of the characteristics of the feeding stuff.
 
 (2) Where particular attention is drawn to the presence or low content of any feed material, as permitted by sub-paragraph (1), the minimum or maximum content, expressed in terms of the percentage by weight of that feed material shall be clearly indicated—
 
@@ -235,7 +235,7 @@ and the use of one of those forms of declaration shall preclude the use of eithe
 - (b) in the list of feed materials; or
 - (c) by mentioning that presence or low content and the percentage thereof (by weight) opposite the corresponding category of feed materials.
 
-**26.**[^key-51932693b0e0e99727b8ef58aaf0431a] (1) Subject to sub-paragraph (2), in the case of any feeding stuff intended for a particular nutritional purpose, the following particulars shall be contained in the statutory statement—
+**26.**[^c-51932693b0e0e99727b8ef58aaf0431a] (1) Subject to sub-paragraph (2), in the case of any feeding stuff intended for a particular nutritional purpose, the following particulars shall be contained in the statutory statement—
 
 - (a) the term “dietetic”;
 - (b) a description of the feeding stuff;
@@ -248,11 +248,11 @@ and the use of one of those forms of declaration shall preclude the use of eithe
 
 (2) The particulars required by sub-paragraph (1) to be contained in the statutory statement shall be declared in accordance with the requirements of paragraphs 3–7 and 9 of Chapter B of Schedule 9.
 
-**27.**[^key-7ce6b78bfba2a0d85d1b08a1e4d0276a] (1) Subject to sub-paragraph (2), in the case of any feeding stuff intended for a particular nutritional purpose, particular attention may be drawn in the statutory statement, or elsewhere on the package, label or container, to the presence or low content of one or more analytical constituents which are essential aspects of the characteristics of the feeding stuff.
+**27.**[^c-7ce6b78bfba2a0d85d1b08a1e4d0276a] (1) Subject to sub-paragraph (2), in the case of any feeding stuff intended for a particular nutritional purpose, particular attention may be drawn in the statutory statement, or elsewhere on the package, label or container, to the presence or low content of one or more analytical constituents which are essential aspects of the characteristics of the feeding stuff.
 
 (2) Where particular attention is drawn to the presence or low content of any analytical constituent, as permitted by sub-paragraph (1), the maximum or minimum content, expressed in terms of the percentage by weight of that analytical constituent, shall be clearly indicated in the list of analytical constituents.
 
-**28.**[^key-c3139033b2380cbbccf651ef128e9726] (1) In the case of any compound feeding stuff containing protein derived from mammalian tissue but containing no mammalian meat and bone meal, and intended for animals other than pet animals, the statutory statement shall contain the declaration specified in sub-paragraph (2).
+**28.**[^c-c3139033b2380cbbccf651ef128e9726] (1) In the case of any compound feeding stuff containing protein derived from mammalian tissue but containing no mammalian meat and bone meal, and intended for animals other than pet animals, the statutory statement shall contain the declaration specified in sub-paragraph (2).
 
 (2) The declaration referred to in sub-paragraph (1) is—
 
@@ -260,17 +260,17 @@ and the use of one of those forms of declaration shall preclude the use of eithe
 
 .
 
-**29.**[^key-a3758e8bedfc35296b9d13aa5ae8b989] In the case of any compound feeding stuff containing mammalian meat and bone meal, and intended for animals other than pet animals, the statutory statement shall contain the following declaration—
+**29.**[^c-a3758e8bedfc35296b9d13aa5ae8b989] In the case of any compound feeding stuff containing mammalian meat and bone meal, and intended for animals other than pet animals, the statutory statement shall contain the following declaration—
 
 > - This compound feeding stuff contains protein derived from mammalian tissue the feeding of which to ruminants, all other categories of farmed creatures and equine animals is prohibited
 
 .
 
-**30.**[^key-73b78c07f6226a02db5db02669bfca01] (1) In the case of any product named as a permitted product in column 2 of Schedule 8, the statutory statement shall contain, in addition to any other particulars required by these Regulations, the name specified for that product in column 7 of that Schedule, together with such further particulars as may be specified in that column in relation to it.
+**30.**[^c-73b78c07f6226a02db5db02669bfca01] (1) In the case of any product named as a permitted product in column 2 of Schedule 8, the statutory statement shall contain, in addition to any other particulars required by these Regulations, the name specified for that product in column 7 of that Schedule, together with such further particulars as may be specified in that column in relation to it.
 
 (2) In the case of any compound feeding stuff containing, for use as a protein source, any product named as a permitted product in column 2 of Schedule 8, the statutory statement shall contain, in addition to any other particulars required by these Regulations, the name specified for that product in column 7 of that Schedule, together with such further particulars as may be specified in that column in relation to compound feeding stuffs containing that product.
 
-**31.**[^key-b2fe3bb32a1f767fb82b3eb300bb2952] (1) Subject to sub-paragraph (2), in the case of any compound feeding stuff, information may be provided in addition to the particulars required or permitted to be contained in the statutory statement or otherwise declared.
+**31.**[^c-b2fe3bb32a1f767fb82b3eb300bb2952] (1) Subject to sub-paragraph (2), in the case of any compound feeding stuff, information may be provided in addition to the particulars required or permitted to be contained in the statutory statement or otherwise declared.
 
 (2) Any information provided pursuant to sub-paragraph (1)—
 
@@ -285,7 +285,7 @@ and the use of one of those forms of declaration shall preclude the use of eithe
   - (i) the feeding stuff is intended for a particular nutritional purpose, and
   - (ii) the particular nutritional purpose is specified in respect of that feeding stuff in column 1 of Chapter A of Schedule 9 and relates to that condition.
 
-**32.**[^key-538bbde392be1164718cfe682a15d1b0] (1) Subject to sub-paragraph (2), in the case of any feed material which is sold, or otherwise put into circulation, by any person, information may be provided in addition to the particulars required or permitted to be contained in the statutory statement or otherwise declared.
+**32.**[^c-538bbde392be1164718cfe682a15d1b0] (1) Subject to sub-paragraph (2), in the case of any feed material which is sold, or otherwise put into circulation, by any person, information may be provided in addition to the particulars required or permitted to be contained in the statutory statement or otherwise declared.
 
 (2) Any such information provided in addition to the particulars required or permitted to be contained in the statutory statement or otherwise declared—
 
@@ -293,7 +293,7 @@ and the use of one of those forms of declaration shall preclude the use of eithe
 - (b) shall relate to objective or quantifiable factors which can be substantiated; and
 - (c) shall not be misleading.
 
-### Part II — Declaration of analytical constitutents[^key-226883dfecb1ab95485db7772408bfff]
+### Part II — Declaration of analytical constitutents[^c-226883dfecb1ab95485db7772408bfff]
 
 <table>
 <thead>
@@ -337,70 +337,70 @@ and the use of one of those forms of declaration shall preclude the use of eithe
 
 ## Annotations
 
-[^key-eb3e600f68b2f3374a81e17d493725b1]: Commencement: Sch. 4 para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-eb3e600f68b2f3374a81e17d493725b1]: Commencement: Sch. 4 para. 1 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-3b849def571b3f9277991ca0e150943d]: Commencement: Sch. 4 para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-3b849def571b3f9277991ca0e150943d]: Commencement: Sch. 4 para. 2 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-3d19a4619ab81a35544cc4a0e7834ceb]: Commencement: Sch. 4 para. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-3d19a4619ab81a35544cc4a0e7834ceb]: Commencement: Sch. 4 para. 3 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
 [^f00052]: Footnote: O.J. No. L206, 29.7.78, p. 63
 
-[^key-ffbf0fd1001685bbc3e8e9aa0abbd016]: Commencement: Sch. 4 para. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-ffbf0fd1001685bbc3e8e9aa0abbd016]: Commencement: Sch. 4 para. 4 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-0632ea613a4607660fa80dc81dd9827b]: Commencement: Sch. 4 para. 5 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-0632ea613a4607660fa80dc81dd9827b]: Commencement: Sch. 4 para. 5 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-0dcfe77679d44db00128e4346e66ad21]: Commencement: Sch. 4 para. 6 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-0dcfe77679d44db00128e4346e66ad21]: Commencement: Sch. 4 para. 6 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-de1768a592d8e70f6848fa1cf1482aa7]: Commencement: Sch. 4 para. 7 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-de1768a592d8e70f6848fa1cf1482aa7]: Commencement: Sch. 4 para. 7 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-604a0ca87db45d8c29521b194b8caa16]: Commencement: Sch. 4 para. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-604a0ca87db45d8c29521b194b8caa16]: Commencement: Sch. 4 para. 8 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-91b3e27108e00f4aced477eab2462186]: Commencement: Sch. 4 para. 9 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-91b3e27108e00f4aced477eab2462186]: Commencement: Sch. 4 para. 9 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-639bbf1744b4bce36ca9b27aca72d0b8]: Commencement: Sch. 4 para. 10 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-639bbf1744b4bce36ca9b27aca72d0b8]: Commencement: Sch. 4 para. 10 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-5de90f1f8aa210719fdb694e8a4b0791]: Commencement: Sch. 4 para. 11 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-5de90f1f8aa210719fdb694e8a4b0791]: Commencement: Sch. 4 para. 11 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-b7067912ab6de23c1e6e85cbe816846d]: Commencement: Sch. 4 para. 12 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-b7067912ab6de23c1e6e85cbe816846d]: Commencement: Sch. 4 para. 12 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-9f492f5d62dd497680a2bf3122300d2a]: Commencement: Sch. 4 para. 13 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-9f492f5d62dd497680a2bf3122300d2a]: Commencement: Sch. 4 para. 13 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-1660c32aa37722c858e48220d06bac5b]: Commencement: Sch. 4 para. 14 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-1660c32aa37722c858e48220d06bac5b]: Commencement: Sch. 4 para. 14 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-b89b1367133355e20741b54a55a4c013]: Commencement: Sch. 4 para. 15 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-b89b1367133355e20741b54a55a4c013]: Commencement: Sch. 4 para. 15 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-7634387891ae49a68395cd9bcd271895]: Commencement: Sch. 4 para. 16 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-7634387891ae49a68395cd9bcd271895]: Commencement: Sch. 4 para. 16 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-798460eadc9a9c786e7e27b885bb2341]: Commencement: Sch. 4 para. 17 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-798460eadc9a9c786e7e27b885bb2341]: Commencement: Sch. 4 para. 17 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-eeebcc103db21c089f21672db938deae]: Commencement: Sch. 4 para. 18 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-eeebcc103db21c089f21672db938deae]: Commencement: Sch. 4 para. 18 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-18bbe3391ad775d96718c039339b64b1]: Commencement: Sch. 4 para. 19 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-18bbe3391ad775d96718c039339b64b1]: Commencement: Sch. 4 para. 19 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-123274355ae60689992acded738d2d53]: Commencement: Sch. 4 para. 20 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-123274355ae60689992acded738d2d53]: Commencement: Sch. 4 para. 20 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-a533f22f34d1f887cb2fd539622fa81c]: Commencement: Sch. 4 para. 21 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-a533f22f34d1f887cb2fd539622fa81c]: Commencement: Sch. 4 para. 21 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-74e45f46da66709c3b25fd10f1f3b564]: Commencement: Sch. 4 para. 22 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-74e45f46da66709c3b25fd10f1f3b564]: Commencement: Sch. 4 para. 22 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-0524f47fd1d693af94a99fee0392b719]: Commencement: Sch. 4 para. 23 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-0524f47fd1d693af94a99fee0392b719]: Commencement: Sch. 4 para. 23 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-122b08da5560898f3f65e3f411ee1c45]: Commencement: Sch. 4 para. 24 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-122b08da5560898f3f65e3f411ee1c45]: Commencement: Sch. 4 para. 24 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-620ac39755256b7748034a32dbf15468]: Commencement: Sch. 4 para. 25 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-620ac39755256b7748034a32dbf15468]: Commencement: Sch. 4 para. 25 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-51932693b0e0e99727b8ef58aaf0431a]: Commencement: Sch. 4 para. 26 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-51932693b0e0e99727b8ef58aaf0431a]: Commencement: Sch. 4 para. 26 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-7ce6b78bfba2a0d85d1b08a1e4d0276a]: Commencement: Sch. 4 para. 27 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-7ce6b78bfba2a0d85d1b08a1e4d0276a]: Commencement: Sch. 4 para. 27 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-c3139033b2380cbbccf651ef128e9726]: Commencement: Sch. 4 para. 28 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-c3139033b2380cbbccf651ef128e9726]: Commencement: Sch. 4 para. 28 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-a3758e8bedfc35296b9d13aa5ae8b989]: Commencement: Sch. 4 para. 29 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-a3758e8bedfc35296b9d13aa5ae8b989]: Commencement: Sch. 4 para. 29 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-73b78c07f6226a02db5db02669bfca01]: Commencement: Sch. 4 para. 30 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-73b78c07f6226a02db5db02669bfca01]: Commencement: Sch. 4 para. 30 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-b2fe3bb32a1f767fb82b3eb300bb2952]: Commencement: Sch. 4 para. 31 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-b2fe3bb32a1f767fb82b3eb300bb2952]: Commencement: Sch. 4 para. 31 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-538bbde392be1164718cfe682a15d1b0]: Commencement: Sch. 4 para. 32 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-538bbde392be1164718cfe682a15d1b0]: Commencement: Sch. 4 para. 32 in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
 
-[^key-226883dfecb1ab95485db7772408bfff]: Commencement: Sch. 4 Pt. II in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)
+[^c-226883dfecb1ab95485db7772408bfff]: Commencement: Sch. 4 Pt. II in operation at 2.4.2001, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/47/regulation/1)

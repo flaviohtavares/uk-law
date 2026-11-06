@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Publication of decision on proposal[^key-4ab743f225a71e268dbe1bc1a0a86576][^key-49bdc5615af2cb2bdc5f5383f12b86f6]
+## 29. Publication of decision on proposal[^c-4ab743f225a71e268dbe1bc1a0a86576][^c-49bdc5615af2cb2bdc5f5383f12b86f6]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ab743f225a71e268dbe1bc1a0a86576]: Commencement: S. 29 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-4ab743f225a71e268dbe1bc1a0a86576]: Commencement: S. 29 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-49bdc5615af2cb2bdc5f5383f12b86f6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2022/9/section/29) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)
+[^c-49bdc5615af2cb2bdc5f5383f12b86f6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2022/9/section/29) in force at 22.6.2023 by [S.S.I. 2023/176](https://www.legislation.gov.uk/ssi/2023/176), [reg. 2](https://www.legislation.gov.uk/ssi/2023/176/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/176/schedule)

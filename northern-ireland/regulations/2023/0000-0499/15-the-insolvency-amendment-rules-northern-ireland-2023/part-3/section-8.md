@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Amendment to the heading before Parts 1 to 4[^key-e636f1d7c8ecff325ef04c1370eef12c]
+## 8. Amendment to the heading before Parts 1 to 4[^c-e636f1d7c8ecff325ef04c1370eef12c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In the heading before Parts 1 to 4, for “1 to 4” substitute “A1 to 4”.
 
 ## Annotations
 
-[^key-e636f1d7c8ecff325ef04c1370eef12c]: Commencement: Rule 8 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-e636f1d7c8ecff325ef04c1370eef12c]: Commencement: Rule 8 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)

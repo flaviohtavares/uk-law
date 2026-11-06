@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Obstruction and contempt[^key-c74d3dede6f104402d41d4685e76cbdf]
+## 72. Obstruction and contempt[^c-c74d3dede6f104402d41d4685e76cbdf]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the court is satisfied that P would have been in contempt of court if the inquir
 
 ## Annotations
 
-[^key-c74d3dede6f104402d41d4685e76cbdf]: Commencement: S. 72 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c74d3dede6f104402d41d4685e76cbdf]: Commencement: S. 72 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

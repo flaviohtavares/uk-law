@@ -41,7 +41,7 @@ he shall file an affidavit stating the facts on which he relies and a copy shall
 
 (8) The judge may either give directions for the trial of the intervention or, if he is satisfied that there is no question to be tried, dismiss the intervention.
 
-(9) If the judge gives such directions in a cause pending in \[[^f00174] the[^key-34f58ecd1dea7c29989b08e82fe7e343] county court\], he shall thereupon order the cause to be transferred to the High Court.
+(9) If the judge gives such directions in a cause pending in \[[^f00174] the[^c-34f58ecd1dea7c29989b08e82fe7e343] county court\], he shall thereupon order the cause to be transferred to the High Court.
 
 (10) When directions have been given under paragraph (8) and, if necessary, the cause has been transferred to the High Court, the intervention shall proceed as nearly as may be in the manner prescribed by paragraphs (6) to (9) of rule 2.49, substituting for references to the Crown Solicitor references to the person showing cause, but no plea or answer need be filed unless the judge so directs.
 
@@ -53,4 +53,4 @@ he shall file an affidavit stating the facts on which he relies and a copy shall
 
 [^f00174]: Footnote: Words substituted by [S.R. 2005 No. 497](https://www.legislation.gov.uk/nisr/2005/497) with effect from 05.12.05
 
-[^key-34f58ecd1dea7c29989b08e82fe7e343]: Textual amendment: Word in [rule 2.50(9)](https://www.legislation.gov.uk/nisr/1996/322/article/2.50/9) substituted (31.10.2016) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(14)](https://www.legislation.gov.uk/nisr/2016/301/article/2/14); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-34f58ecd1dea7c29989b08e82fe7e343]: Textual amendment: Word in [rule 2.50(9)](https://www.legislation.gov.uk/nisr/1996/322/article/2.50/9) substituted (31.10.2016) by [The Family Proceedings (Amendment) Rules (Northern Ireland) 2016 (S.R. 2016/301)](https://www.legislation.gov.uk/nisr/2016/301), [rules 1(1)](https://www.legislation.gov.uk/nisr/2016/301/rule/1/1), [2(14)](https://www.legislation.gov.uk/nisr/2016/301/article/2/14); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

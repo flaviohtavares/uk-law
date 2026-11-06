@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Procedure where detailed assessment required[^key-edac1aec283998c05c855b0d6504bfb7]
+## 60. Procedure where detailed assessment required[^c-edac1aec283998c05c855b0d6504bfb7]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edac1aec283998c05c855b0d6504bfb7]: Commencement: [Rule 60](https://www.legislation.gov.uk/uksi/2007/3141/rule/60) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-edac1aec283998c05c855b0d6504bfb7]: Commencement: [Rule 60](https://www.legislation.gov.uk/uksi/2007/3141/rule/60) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Amendment to regulation 194[^key-083a0ced68194823cdc6590bd4c682e8]
+## 85. Amendment to regulation 194[^c-083a0ced68194823cdc6590bd4c682e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 194(1) (responding to a single assessment of PSUR under Article 10
 
 ## Annotations
 
-[^key-083a0ced68194823cdc6590bd4c682e8]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2024/832/regulation/85) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-083a0ced68194823cdc6590bd4c682e8]: Commencement: [Reg. 85](https://www.legislation.gov.uk/uksi/2024/832/regulation/85) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00095]: Footnote: Paragraph (1) was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

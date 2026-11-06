@@ -53,28 +53,28 @@ summary: ''
 >
 > Schedule 2B makes provision about the carrying on of activities corresponding to regulated activities in Gibraltar by UK-based persons.
 
-(5)[^key-6f26b102a0c28156cba9312781fe6fdf] Schedule 6 inserts Schedule 2A to the Financial Services and Markets Act 2000 (Gibraltar-based persons carrying on activities in the UK).
+(5)[^c-6f26b102a0c28156cba9312781fe6fdf] Schedule 6 inserts Schedule 2A to the Financial Services and Markets Act 2000 (Gibraltar-based persons carrying on activities in the UK).
 
 (6) Schedule 7 inserts Schedule 2B to the Financial Services and Markets Act 2000 (UK-based persons carrying on activities in Gibraltar).
 
-(7)[^key-7abd90266095d330801a4fc63b0a3de7] Schedule 8 contains minor and consequential amendments.
+(7)[^c-7abd90266095d330801a4fc63b0a3de7] Schedule 8 contains minor and consequential amendments.
 
-(8)[^key-98cb3ce0b6a10a48dd520f6c2ed71096] The Treasury may by regulations—
+(8)[^c-98cb3ce0b6a10a48dd520f6c2ed71096] The Treasury may by regulations—
 
 - (a) amend Part 7 of the Financial Services and Markets Act 2000 (control of business transfers) to make provision about the operation of that Part in relation to cases involving a Gibraltar-based person;
 - (b) amend Part 18A of the Financial Services and Markets Act 2000 (suspension and removal of financial instruments from trading) to make provision about the operation of that Part in relation to cases involving a Gibraltar-based person;
 - (c) make provision relating to a Gibraltar-based person equivalent to provision in an enactment in force immediately before IP completion day relating to an EEA firm of a kind mentioned in Schedule 3 to the Financial Services and Markets Act 2000, with such modifications as the Treasury consider appropriate.
 
-(9)[^key-98cb3ce0b6a10a48dd520f6c2ed71096] The powers to make regulations under subsection (8) do not restrict the Treasury's power to make consequential provision under section 45.
+(9)[^c-98cb3ce0b6a10a48dd520f6c2ed71096] The powers to make regulations under subsection (8) do not restrict the Treasury's power to make consequential provision under section 45.
 
-(10)[^key-98cb3ce0b6a10a48dd520f6c2ed71096] Section 45(3) to (5) apply in relation to regulations under subsection (8) as they apply to regulations under that section.
+(10)[^c-98cb3ce0b6a10a48dd520f6c2ed71096] Section 45(3) to (5) apply in relation to regulations under subsection (8) as they apply to regulations under that section.
 
-(11)[^key-98cb3ce0b6a10a48dd520f6c2ed71096] In this section, “**Gibraltar-based person**” has the same meaning as in Schedule 2A to the Financial Services and Markets Act 2000 (inserted by Schedule 6 to this Act) (see paragraph 1 of that Schedule).
+(11)[^c-98cb3ce0b6a10a48dd520f6c2ed71096] In this section, “**Gibraltar-based person**” has the same meaning as in Schedule 2A to the Financial Services and Markets Act 2000 (inserted by Schedule 6 to this Act) (see paragraph 1 of that Schedule).
 
 ## Annotations
 
-[^key-6f26b102a0c28156cba9312781fe6fdf]: Commencement: [S. 22(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/5) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/a)
+[^c-6f26b102a0c28156cba9312781fe6fdf]: Commencement: [S. 22(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/5) in force at 1.9.2023 for specified purposes by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/a)
 
-[^key-7abd90266095d330801a4fc63b0a3de7]: Commencement: [S. 22(7)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/7) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b)
+[^c-7abd90266095d330801a4fc63b0a3de7]: Commencement: [S. 22(7)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/7) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/b)
 
-[^key-98cb3ce0b6a10a48dd520f6c2ed71096]: Commencement: [S. 22(8)-(11)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/8) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/c)
+[^c-98cb3ce0b6a10a48dd520f6c2ed71096]: Commencement: [S. 22(8)-(11)](https://www.legislation.gov.uk/ukpga/2021/22/section/22/8) in force at 1.9.2023 by [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/c)

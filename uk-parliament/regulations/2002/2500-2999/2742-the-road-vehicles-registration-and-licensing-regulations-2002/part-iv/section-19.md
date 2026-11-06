@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Trade licences: notification of change of holder’s name or address[^key-54119fe495198a7bb6d52f8b7884948e]
+## 19. Trade licences: notification of change of holder’s name or address[^c-54119fe495198a7bb6d52f8b7884948e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54119fe495198a7bb6d52f8b7884948e]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2002/2742/regulation/19) substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/7)
+[^c-54119fe495198a7bb6d52f8b7884948e]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2002/2742/regulation/19) substituted (1.10.2014) by [The Vehicle Excise and Registration (Consequential Amendments) Regulations 2014 (S.I. 2014/2358)](https://www.legislation.gov.uk/uksi/2014/2358), [reg. 1](https://www.legislation.gov.uk/uksi/2014/2358/regulation/1), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2014/2358/schedule/1/paragraph/7)

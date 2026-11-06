@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Participation in an inquiry[^key-43785d3ba9d627a1fe8555e542b8255e]
+## 38. Participation in an inquiry[^c-43785d3ba9d627a1fe8555e542b8255e]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43785d3ba9d627a1fe8555e542b8255e]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2017/544/regulation/38) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-43785d3ba9d627a1fe8555e542b8255e]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2017/544/regulation/38) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

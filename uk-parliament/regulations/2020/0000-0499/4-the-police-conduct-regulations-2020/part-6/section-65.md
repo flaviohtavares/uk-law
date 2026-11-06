@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Interpretation and application[^key-7253ec74c6002bc90dbad89fa5f8c849]
+## 65. Interpretation and application[^c-7253ec74c6002bc90dbad89fa5f8c849]
 
 *Extent: E+W*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7253ec74c6002bc90dbad89fa5f8c849]: Commencement: Reg. 65 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-7253ec74c6002bc90dbad89fa5f8c849]: Commencement: Reg. 65 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
 [^c23960851]: Marginal citation: [Paragraph 6(2A) to (2E)](https://www.legislation.gov.uk/uksi/2020/4/paragraph/6/2A) of Schedule 3 to the 2002 Act was inserted by paragraphs 5 and 6(1) and (3) of Schedule 5 to the Policing and Crime Act 2017.
 

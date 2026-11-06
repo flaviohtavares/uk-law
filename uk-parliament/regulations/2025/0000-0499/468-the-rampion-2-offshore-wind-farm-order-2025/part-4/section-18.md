@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Protective work to buildings[^key-d67d227515f476bba547c13e144dfe84]
+## 18. Protective work to buildings[^c-d67d227515f476bba547c13e144dfe84]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-d67d227515f476bba547c13e144dfe84]: Commencement: Art. 18 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-d67d227515f476bba547c13e144dfe84]: Commencement: Art. 18 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Urgent cancellation or variation: notification and appeals[^key-0e65ea4471d51172997d382ef325aad6]
+## 24. Urgent cancellation or variation: notification and appeals[^c-0e65ea4471d51172997d382ef325aad6]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e65ea4471d51172997d382ef325aad6]: Commencement: S. 24 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-0e65ea4471d51172997d382ef325aad6]: Commencement: S. 24 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)

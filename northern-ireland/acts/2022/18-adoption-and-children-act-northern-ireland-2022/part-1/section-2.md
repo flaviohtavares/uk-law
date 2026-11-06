@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Basic definitions[^key-2cc84b8c75fe52d22a10bd9591dcc528]
+## 2. Basic definitions[^c-2cc84b8c75fe52d22a10bd9591dcc528]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ in relation to adoption.
 
 ## Annotations
 
-[^key-2cc84b8c75fe52d22a10bd9591dcc528]: Commencement: S. 2 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-2cc84b8c75fe52d22a10bd9591dcc528]: Commencement: S. 2 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

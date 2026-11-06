@@ -27,7 +27,7 @@ Section 475 applies to LLPs, modified so that it reads as follows—
 > (1) An LLP's annual accounts for a financial year must be audited in accordance with this Part unless the LLP is exempt from audit under—
 >
 > - (a) section 477 (small LLPs),
-> - (aa)[^key-5d96771f0f8038809e21632266abcc97] section 479A (subsidiary LLPs), or
+> - (aa)[^c-5d96771f0f8038809e21632266abcc97] section 479A (subsidiary LLPs), or
 > - (b) section 480 (dormant LLPs).
 >
 > (2) An LLP is not entitled to any such exemption unless its balance sheet contains a statement by the members to that effect.
@@ -38,4 +38,4 @@ Section 475 applies to LLPs, modified so that it reads as follows—
 
 ## Annotations
 
-[^key-5d96771f0f8038809e21632266abcc97]: Textual amendment: Words in reg. 33 inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2012/2301/regulation/20/2)
+[^c-5d96771f0f8038809e21632266abcc97]: Textual amendment: Words in reg. 33 inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [20(2)](https://www.legislation.gov.uk/uksi/2012/2301/regulation/20/2)

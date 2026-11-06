@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 151. Disclaimer presumed valid and effective[^key-077ed7dc499f19f3674ee5763d00923d]
+## 151. Disclaimer presumed valid and effective[^c-077ed7dc499f19f3674ee5763d00923d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.203 of the 1991 Rules.
 
 ## Annotations
 
-[^key-077ed7dc499f19f3674ee5763d00923d]: Commencement: Rule 151 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-077ed7dc499f19f3674ee5763d00923d]: Commencement: Rule 151 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

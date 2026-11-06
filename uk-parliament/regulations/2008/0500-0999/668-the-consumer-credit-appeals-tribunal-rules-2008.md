@@ -48,11 +48,11 @@ The Lord Chancellor makes the following Rules in exercise of the powers conferre
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-a802e3f6e40c82ed8eaf4e669d998a7f]
+### 1. Citation and commencement[^c-a802e3f6e40c82ed8eaf4e669d998a7f]
 
 These Rules may be cited as the Consumer Credit Appeals Tribunal Rules 2008 and come into force on 6th April 2008.
 
-### 2. Interpretation[^key-8e3082597cdf2e6f068891da73f0e72f]
+### 2. Interpretation[^c-8e3082597cdf2e6f068891da73f0e72f]
 
 (1) A reference in these Rules to a rule by number alone means the rule so numbered in these Rules.
 
@@ -82,7 +82,7 @@ These Rules may be cited as the Consumer Credit Appeals Tribunal Rules 2008 and 
 
 ## PART 2 — General matters in appeals
 
-### 3. Directions[^key-118ec86b163f685da89ec90dadb2568b]
+### 3. Directions[^c-118ec86b163f685da89ec90dadb2568b]
 
 (1) The Tribunal may at any time give a direction to—
 
@@ -121,11 +121,11 @@ These Rules may be cited as the Consumer Credit Appeals Tribunal Rules 2008 and 
 
 (11) The Tribunal must not vary or set aside a direction without first giving any party who requested the direction an opportunity to oppose that decision.
 
-### 4. Consolidation of appeals[^key-08893c56f60efa3e4e5be2fc45624d90]
+### 4. Consolidation of appeals[^c-08893c56f60efa3e4e5be2fc45624d90]
 
 The Tribunal may direct that two or more appeals or any particular issue raised in the appeals, be consolidated or heard together.
 
-### 5. Disclosure and inspection of documents[^key-0ce51f984fe08a64bc3fd30be3f723ba]
+### 5. Disclosure and inspection of documents[^c-0ce51f984fe08a64bc3fd30be3f723ba]
 
 (1) In this rule “**relevant document**” means a document which is or has been in a party’s possession or control and—
 
@@ -165,7 +165,7 @@ The Tribunal may direct that two or more appeals or any particular issue raised 
 
 (10) No person may be compelled to produce any document that they could not be compelled to produce on a trial of an action in a court of law in the part of the United Kingdom where the proceedings are due to be determined.
 
-### 6. Powers of Tribunal to strike out[^key-3f5ff7f6b76f8920eb8dcb8b58677be0]
+### 6. Powers of Tribunal to strike out[^c-3f5ff7f6b76f8920eb8dcb8b58677be0]
 
 (1) The Tribunal may, if it thinks fit order any appeal notice, statement of case or written representation to be struck out at any stage of the proceedings on the ground that it—
 
@@ -176,7 +176,7 @@ The Tribunal may direct that two or more appeals or any particular issue raised 
 
 (2) Before making any order under paragraph (1), the Tribunal must provide an opportunity for the party against whom it is proposed that the order should be made to make representations.
 
-### 7. Failure to comply[^key-8d7d820a14184bde3574eccafd4cd61d]
+### 7. Failure to comply[^c-8d7d820a14184bde3574eccafd4cd61d]
 
 (1) In addition to any direction that the Tribunal thinks it is reasonable to make, the Tribunal may take one of the steps in paragraph (2) in respect of a party, where that party has, without reasonable excuse, failed to comply—
 
@@ -190,21 +190,21 @@ The Tribunal may direct that two or more appeals or any particular issue raised 
 
 (3) The Tribunal must not take any of the steps under this rule in respect of a party unless it has given that party an opportunity to make representations against the taking of any such steps.
 
-### 8. Notification of witnesses[^key-f6ef9efca927b537f2a5b3269f95b02a]
+### 8. Notification of witnesses[^c-f6ef9efca927b537f2a5b3269f95b02a]
 
 (1) Unless the Tribunal directs otherwise, if a party intends to call any witness, that party must file a written notice stating the names of the witnesses that party intends to call not less than 14 days before the day fixed for the hearing of the appeal.
 
 (2) A party calling an expert witness under rule 23(2)(c) must provide full details about that witness when making the request under that rule, including the nature of the expertise that witness is intended to provide.
 
-### 9. Signature of documents[^key-c4fcd89756e41b6108a6a6f9aaa91a29]
+### 9. Signature of documents[^c-c4fcd89756e41b6108a6a6f9aaa91a29]
 
 Any requirement in these Rules or in a direction of the Tribunal for a document to be signed by a person is satisfied, in the case of a document which is sent electronically in accordance with these Rules or in accordance with a direction of the Tribunal, by the individual who is required to sign the document producing their name by means of a computer or by other electronic means.
 
-### 10. Calculation of time[^key-eccb0e590e6090ff18e088bc343f16e1]
+### 10. Calculation of time[^c-eccb0e590e6090ff18e088bc343f16e1]
 
 Where the time prescribed for doing any act under these Rules expires on a day that is not a working day, the act is done in time if done on the next working day.
 
-### 11. Sending of notices[^key-2a67dca1426bd47f6d5dc908ec2a4e5b]
+### 11. Sending of notices[^c-2a67dca1426bd47f6d5dc908ec2a4e5b]
 
 (1) Any documents to be served by a party under these Rules must be served—
 
@@ -239,7 +239,7 @@ Where the time prescribed for doing any act under these Rules expires on a day t
 
 (7) Any document that is served or filed under the Rules must specify the date on which it is being served or filed.
 
-### 12. Absence of a tribunal member[^key-5ff90cc9b977cff673f4a96d5fa52470]
+### 12. Absence of a tribunal member[^c-5ff90cc9b977cff673f4a96d5fa52470]
 
 (1) This rule applies when a member who is selected to hear an appeal becomes unable to act.
 
@@ -255,11 +255,11 @@ Where the time prescribed for doing any act under these Rules expires on a day t
 - (a) one of the remaining members selected to hear the appeal is a member selected from the panel of chairmen; and
 - (b) it is in the interests of justice to continue to hear the appeal.
 
-### 13. Member of the panel of chairmen acting alone[^key-35643a10a0a780d2d72566ced27a67b1]
+### 13. Member of the panel of chairmen acting alone[^c-35643a10a0a780d2d72566ced27a67b1]
 
 Any request, application or hearing under these Rules, except for the substantive hearing of the appeal, may be decided or heard by a member of the panel of chairmen acting alone.
 
-### 14. The register[^key-4b6c7c15e20eee25fa9a8ba1d98483d4]
+### 14. The register[^c-4b6c7c15e20eee25fa9a8ba1d98483d4]
 
 (1) Subject to rule 20 and 25 the Tribunal must maintain a register containing details of —
 
@@ -270,7 +270,7 @@ Any request, application or hearing under these Rules, except for the substantiv
 
 ## PART 3 — Initiating an appeal
 
-### 15. Notice of appeal[^key-4a008e15d389bb7381a5958e31b4c1b1]
+### 15. Notice of appeal[^c-4a008e15d389bb7381a5958e31b4c1b1]
 
 (1) An appeal must be made by way of a notice of appeal signed, dated and filed by the appellant.
 
@@ -313,7 +313,7 @@ Any request, application or hearing under these Rules, except for the substantiv
 - (b) inform the parties in writing that a notice of appeal has been received; and
 - (c) inform the parties in writing of any determination made in relation to a request for a direction.
 
-### 16. Regulator’s statement of case[^key-84b115cfd52edb5dc112043465667bfb]
+### 16. Regulator’s statement of case[^c-84b115cfd52edb5dc112043465667bfb]
 
 (1) The Regulator must file a statement of case in accordance with this rule.
 
@@ -342,7 +342,7 @@ Any request, application or hearing under these Rules, except for the substantiv
 
 ## PART 4 — Hearings of appeals
 
-### 17. Fixing the time and place of the hearing of the appeal[^key-a612438d4d6e27956ead61e596b15ba3]
+### 17. Fixing the time and place of the hearing of the appeal[^c-a612438d4d6e27956ead61e596b15ba3]
 
 (1) Unless the Tribunal otherwise directs, the Tribunal must give the parties not less than 28 days notice of the time and place of the hearing of the appeal.
 
@@ -351,14 +351,14 @@ Any request, application or hearing under these Rules, except for the substantiv
 - (a) whether the appeal should be dealt with as a matter of urgency; and
 - (b) the ability of the appellant, and any witness, to prepare for and attend a hearing which is to take place at short notice.
 
-### 18. Determination without oral hearing[^key-05c1706dc03db52a53bfef9149f41f13]
+### 18. Determination without oral hearing[^c-05c1706dc03db52a53bfef9149f41f13]
 
 The Tribunal may determine an appeal or any particular issue without an oral hearing if—
 
 - (a) the parties agree in writing; or
 - (b) the issue concerns a request for directions.
 
-### 19. Withdrawal of appeal[^key-d0ddbddb7239abd444f46056a22be7fc]
+### 19. Withdrawal of appeal[^c-d0ddbddb7239abd444f46056a22be7fc]
 
 (1) The appellant may withdraw the appeal—
 
@@ -376,7 +376,7 @@ The Tribunal may determine an appeal or any particular issue without an oral hea
 
 (5) An appellant who withdraws an appeal must obtain the permission of the Tribunal to make another appeal against the same decision of the Regulator.
 
-### 20. Public hearings and directions for private hearings[^key-5f2e79bb8bf3bdc08faa8182feac8192]
+### 20. Public hearings and directions for private hearings[^c-5f2e79bb8bf3bdc08faa8182feac8192]
 
 (1) In this rule, “**hearing**” means any oral hearing under these Rules except for a directions hearing that takes place without notice to the other party under rule 5(4) (disclosure).
 
@@ -405,17 +405,17 @@ The Tribunal may determine an appeal or any particular issue without an oral hea
 
 (9) Where a direction is given under paragraph (8), the Tribunal must state what information is to be withheld or removed from the register.
 
-### 21. Representation at hearings[^key-82358af2951a498272bb5741019695aa]
+### 21. Representation at hearings[^c-82358af2951a498272bb5741019695aa]
 
 (1) Subject to paragraph (2), the parties may appear at a hearing and may be assisted or represented by any person, whether or not that person is a legal representative.
 
 (2) If the Tribunal is satisfied that there are good and sufficient reasons for doing so, it may refuse to permit a person to assist or represent a party at a hearing.
 
-### 22. Adjournment of hearing[^key-5ec2c444dafc0e490924819061285fea]
+### 22. Adjournment of hearing[^c-5ec2c444dafc0e490924819061285fea]
 
 Where a hearing of an appeal is adjourned, the Tribunal must fix a new hearing date as soon as is practicable to do so.
 
-### 23. Procedure at hearings[^key-d62ab0d8cc22634b2db34e756a606f79]
+### 23. Procedure at hearings[^c-d62ab0d8cc22634b2db34e756a606f79]
 
 (1) Subject to these Rules, the Tribunal may regulate its own procedure.
 
@@ -436,7 +436,7 @@ Where a hearing of an appeal is adjourned, the Tribunal must fix a new hearing d
 
 (5) The Tribunal may exclude from the whole or part of any hearing any person whose conduct, in the opinion of the Tribunal, is likely to disrupt the hearing.
 
-### 24. Failure to attend an appeal hearing[^key-c925a64df8d949b27f8e97867ce00a4d]
+### 24. Failure to attend an appeal hearing[^c-c925a64df8d949b27f8e97867ce00a4d]
 
 (1) If a party fails to attend or be represented at any hearing the Tribunal must adjourn the hearing unless paragraph (2) applies.
 
@@ -444,7 +444,7 @@ Where a hearing of an appeal is adjourned, the Tribunal must fix a new hearing d
 
 (3) Where a party can subsequently show sufficient reason for not attending or being represented at a hearing which the Tribunal proceeded in the party’s absence, that party may request the Tribunal’s permission to have the hearing re-opened.
 
-### 25. Restrictions on publication of decisions of the Tribunal[^key-0a1654c7929b71c39db4540fb62d1ab6]
+### 25. Restrictions on publication of decisions of the Tribunal[^c-0a1654c7929b71c39db4540fb62d1ab6]
 
 (1) The Tribunal must publish its decisions except where the Tribunal is satisfied, on the application of a party or of its own initiative, that it is necessary to impose restrictions on publication.
 
@@ -460,7 +460,7 @@ Where a hearing of an appeal is adjourned, the Tribunal must fix a new hearing d
 - (b) editing the text of the decision; and
 - (c) declining to publish the whole or part of the decision.
 
-### 26. Notification of the Tribunal’s decision[^key-f27838e0c2580a28475e8db16de57a36]
+### 26. Notification of the Tribunal’s decision[^c-f27838e0c2580a28475e8db16de57a36]
 
 (1) The Tribunal must as soon as practicable—
 
@@ -472,7 +472,7 @@ Where a hearing of an appeal is adjourned, the Tribunal must fix a new hearing d
 - (a) any relevant provision of the 1974 Act or the 2007 Regulations relating to appeals from the Tribunal; and
 - (b) the time and the manner in which an application for permission to appeal may be made.
 
-### 27. Review of the Tribunal’s decision[^key-79bc5bf03cbbd69e3f51f874d66e203f]
+### 27. Review of the Tribunal’s decision[^c-79bc5bf03cbbd69e3f51f874d66e203f]
 
 (1) If the Tribunal is satisfied that a decision disposing of the appeal was wrongly made because of an administrative error by Tribunal staff, the Tribunal may at the request of a party or of the Tribunal’s own initiative, review the decision.
 
@@ -496,7 +496,7 @@ Where a hearing of an appeal is adjourned, the Tribunal must fix a new hearing d
 
 ## PART 5 — Appeals from the Tribunal
 
-### 28. Permission to appeal to the Court of Appeal or Court of Session[^key-e10cf12457216ad859cae900dea2a3da]
+### 28. Permission to appeal to the Court of Appeal or Court of Session[^c-e10cf12457216ad859cae900dea2a3da]
 
 (1) A request to the Tribunal for permission to appeal to the Court of Appeal or to the Court of Session may be made by the applicant—
 
@@ -510,7 +510,7 @@ Where a hearing of an appeal is adjourned, the Tribunal must fix a new hearing d
 - (b) identify the decision of the Tribunal to which the request relates; and
 - (c) state the grounds on which the applicant intends to rely before the Court of Appeal or the Court of Session.
 
-### 29. Decision as to permission to appeal to the Court of Appeal or the Court of Session[^key-dcea2d1a04b1a3c468f54a2a652295d1]
+### 29. Decision as to permission to appeal to the Court of Appeal or the Court of Session[^c-dcea2d1a04b1a3c468f54a2a652295d1]
 
 (1) A request for permission to appeal to the Court of Appeal or to the Court of Session under rule 28(1)(b) or (c) (permission to appeal) must be decided without an oral hearing unless the Tribunal considers that special circumstances make a hearing desirable.
 
@@ -520,7 +520,7 @@ Where a hearing of an appeal is adjourned, the Tribunal must fix a new hearing d
 
 (4) If the Tribunal refuses the request, the notification under paragraph (3) must include notification of the time within which a request may be made to the Court of Appeal or the Court of Session for permission to appeal to that court.
 
-### 30. Appeal remitted by the Court of Appeal or the Court of Session for rehearing[^key-8318a48a169d3e47e85960cc8e3f4096]
+### 30. Appeal remitted by the Court of Appeal or the Court of Session for rehearing[^c-8318a48a169d3e47e85960cc8e3f4096]
 
 Where the Court of Appeal or the Court of Session remits an appeal to the Tribunal—
 
@@ -561,9 +561,9 @@ An initial assessment was completed and did not indicate that the proposals were
 
 [^f00002]: Footnote: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53) as amended by paragraph 30 of Schedule 8 to the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-a802e3f6e40c82ed8eaf4e669d998a7f]: Commencement: Rule 1 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-a802e3f6e40c82ed8eaf4e669d998a7f]: Commencement: Rule 1 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-8e3082597cdf2e6f068891da73f0e72f]: Commencement: Rule 2 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-8e3082597cdf2e6f068891da73f0e72f]: Commencement: Rule 2 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
 [^f00003]: Footnote: [2006 c.14](https://www.legislation.gov.uk/ukpga/2006/14).
 
@@ -575,58 +575,58 @@ An initial assessment was completed and did not indicate that the proposals were
 
 [^f00007]: Footnote: [1971 (c.80)](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-118ec86b163f685da89ec90dadb2568b]: Commencement: Rule 3 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-118ec86b163f685da89ec90dadb2568b]: Commencement: Rule 3 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-08893c56f60efa3e4e5be2fc45624d90]: Commencement: Rule 4 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-08893c56f60efa3e4e5be2fc45624d90]: Commencement: Rule 4 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-0ce51f984fe08a64bc3fd30be3f723ba]: Commencement: Rule 5 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-0ce51f984fe08a64bc3fd30be3f723ba]: Commencement: Rule 5 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-3f5ff7f6b76f8920eb8dcb8b58677be0]: Commencement: Rule 6 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-3f5ff7f6b76f8920eb8dcb8b58677be0]: Commencement: Rule 6 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-8d7d820a14184bde3574eccafd4cd61d]: Commencement: Rule 7 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-8d7d820a14184bde3574eccafd4cd61d]: Commencement: Rule 7 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-f6ef9efca927b537f2a5b3269f95b02a]: Commencement: Rule 8 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-f6ef9efca927b537f2a5b3269f95b02a]: Commencement: Rule 8 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-c4fcd89756e41b6108a6a6f9aaa91a29]: Commencement: Rule 9 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-c4fcd89756e41b6108a6a6f9aaa91a29]: Commencement: Rule 9 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-eccb0e590e6090ff18e088bc343f16e1]: Commencement: Rule 10 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-eccb0e590e6090ff18e088bc343f16e1]: Commencement: Rule 10 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-2a67dca1426bd47f6d5dc908ec2a4e5b]: Commencement: Rule 11 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-2a67dca1426bd47f6d5dc908ec2a4e5b]: Commencement: Rule 11 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-5ff90cc9b977cff673f4a96d5fa52470]: Commencement: Rule 12 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-5ff90cc9b977cff673f4a96d5fa52470]: Commencement: Rule 12 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-35643a10a0a780d2d72566ced27a67b1]: Commencement: Rule 13 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-35643a10a0a780d2d72566ced27a67b1]: Commencement: Rule 13 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-4b6c7c15e20eee25fa9a8ba1d98483d4]: Commencement: Rule 14 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-4b6c7c15e20eee25fa9a8ba1d98483d4]: Commencement: Rule 14 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-4a008e15d389bb7381a5958e31b4c1b1]: Commencement: Rule 15 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-4a008e15d389bb7381a5958e31b4c1b1]: Commencement: Rule 15 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-84b115cfd52edb5dc112043465667bfb]: Commencement: Rule 16 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-84b115cfd52edb5dc112043465667bfb]: Commencement: Rule 16 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-a612438d4d6e27956ead61e596b15ba3]: Commencement: Rule 17 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-a612438d4d6e27956ead61e596b15ba3]: Commencement: Rule 17 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-05c1706dc03db52a53bfef9149f41f13]: Commencement: Rule 18 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-05c1706dc03db52a53bfef9149f41f13]: Commencement: Rule 18 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-d0ddbddb7239abd444f46056a22be7fc]: Commencement: Rule 19 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-d0ddbddb7239abd444f46056a22be7fc]: Commencement: Rule 19 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-5f2e79bb8bf3bdc08faa8182feac8192]: Commencement: Rule 20 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-5f2e79bb8bf3bdc08faa8182feac8192]: Commencement: Rule 20 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-82358af2951a498272bb5741019695aa]: Commencement: Rule 21 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-82358af2951a498272bb5741019695aa]: Commencement: Rule 21 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-5ec2c444dafc0e490924819061285fea]: Commencement: Rule 22 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-5ec2c444dafc0e490924819061285fea]: Commencement: Rule 22 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-d62ab0d8cc22634b2db34e756a606f79]: Commencement: Rule 23 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-d62ab0d8cc22634b2db34e756a606f79]: Commencement: Rule 23 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-c925a64df8d949b27f8e97867ce00a4d]: Commencement: Rule 24 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-c925a64df8d949b27f8e97867ce00a4d]: Commencement: Rule 24 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-0a1654c7929b71c39db4540fb62d1ab6]: Commencement: Rule 25 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-0a1654c7929b71c39db4540fb62d1ab6]: Commencement: Rule 25 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-f27838e0c2580a28475e8db16de57a36]: Commencement: Rule 26 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-f27838e0c2580a28475e8db16de57a36]: Commencement: Rule 26 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-79bc5bf03cbbd69e3f51f874d66e203f]: Commencement: Rule 27 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-79bc5bf03cbbd69e3f51f874d66e203f]: Commencement: Rule 27 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-e10cf12457216ad859cae900dea2a3da]: Commencement: Rule 28 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-e10cf12457216ad859cae900dea2a3da]: Commencement: Rule 28 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-dcea2d1a04b1a3c468f54a2a652295d1]: Commencement: Rule 29 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-dcea2d1a04b1a3c468f54a2a652295d1]: Commencement: Rule 29 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
 
-[^key-8318a48a169d3e47e85960cc8e3f4096]: Commencement: Rule 30 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)
+[^c-8318a48a169d3e47e85960cc8e3f4096]: Commencement: Rule 30 in force at 6.4.2008, see [rule 1](https://www.legislation.gov.uk/uksi/2008/668/rule/1)

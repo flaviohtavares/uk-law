@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. The Health Adviser and the Deputy Health Advisers[^key-52fb18198f15b17d884164313b2acca6]
+## 21. The Health Adviser and the Deputy Health Advisers[^c-52fb18198f15b17d884164313b2acca6]
 
 *Extent: E+W*
 
@@ -127,4 +127,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52fb18198f15b17d884164313b2acca6]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2007/24/section/21) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)
+[^c-52fb18198f15b17d884164313b2acca6]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2007/24/section/21) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(d)](https://www.legislation.gov.uk/uksi/2008/113/article/2/d)

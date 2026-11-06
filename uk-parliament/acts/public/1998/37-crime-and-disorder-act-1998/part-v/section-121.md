@@ -40,8 +40,8 @@ summary: ''
 
 - (a) Chapter III of Part I;
 - (b) section 36(3) to (5);
-- (bb)[^key-d4dceb366c10890f2ca96ec0e63c3096] sections 52A and 52B;
-- (c)[^key-f45ef42799305f3218288ddcbf17ade3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bb)[^c-d4dceb366c10890f2ca96ec0e63c3096] sections 52A and 52B;
+- (c)[^c-f45ef42799305f3218288ddcbf17ade3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) section 115;
 - (e) paragraph 3 of Schedule 3 to this Act and section 52(6) above so far as relating to that paragraph;
 - (f)[^c9527241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -83,9 +83,9 @@ apply to the amendments of that Schedule made by paragraph 135 of Schedule 8 to 
 
     S. 121 power partly exercised (15.12.2000): 15.1.2001 appointed for specified provisions by [S.I. 2000/3283](https://www.legislation.gov.uk/uksi/2000/3283), [art. 2](https://www.legislation.gov.uk/uksi/2000/3283/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2000/3283/article/3))
 
-[^key-d4dceb366c10890f2ca96ec0e63c3096]: Textual amendment: S. 121(6)(bb) inserted (18.6.2012) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/19/2/a); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(d)(iii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/iii)
+[^c-d4dceb366c10890f2ca96ec0e63c3096]: Textual amendment: S. 121(6)(bb) inserted (18.6.2012) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 3 para. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/3/paragraph/19/2/a); [S.I. 2012/1320](https://www.legislation.gov.uk/uksi/2012/1320), [art. 3(d)(iii)](https://www.legislation.gov.uk/uksi/2012/1320/article/3/d/iii)
 
-[^key-f45ef42799305f3218288ddcbf17ade3]: Textual amendment: [S. 121(6)(c)](https://www.legislation.gov.uk/ukpga/1998/37/section/121/6/c) omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/17) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
+[^c-f45ef42799305f3218288ddcbf17ade3]: Textual amendment: [S. 121(6)(c)](https://www.legislation.gov.uk/ukpga/1998/37/section/121/6/c) omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 24 para. 17](https://www.legislation.gov.uk/ukpga/2012/10/schedule/24/paragraph/17) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2012/10/section/135/4)); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(f)](https://www.legislation.gov.uk/uksi/2013/453/article/4/f)
 
 [^c9527241]: Textual amendment: S. 121(6)(f) repealed (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165](https://www.legislation.gov.uk/ukpga/2000/6/section/165), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 12 Pt. I](https://www.legislation.gov.uk/ukpga/2000/6/schedule/12/part/I) (with [Sch. 11 paras. 1](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/2000/6/schedule/11/paragraph/2))
 

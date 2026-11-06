@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Meaning of “nicotine product”[^key-dd0d65d6c621a8e12c68b7fda8a747de]
+## 51. Meaning of “nicotine product”[^c-dd0d65d6c621a8e12c68b7fda8a747de]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd0d65d6c621a8e12c68b7fda8a747de]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2026/18/section/51) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-dd0d65d6c621a8e12c68b7fda8a747de]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2026/18/section/51) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

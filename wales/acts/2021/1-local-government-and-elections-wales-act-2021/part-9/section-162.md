@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Abolition of polls consequent on a community meeting[^key-6f8091d7f3b7203542fe2a4ab4ab78ac]
+## 162. Abolition of polls consequent on a community meeting[^c-6f8091d7f3b7203542fe2a4ab4ab78ac]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 13 makes provision abolishing polls consequent on community meetings un
 
 ## Annotations
 
-[^key-6f8091d7f3b7203542fe2a4ab4ab78ac]: Commencement: [S. 162](https://www.legislation.gov.uk/asc/2021/1/section/162) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(q)](https://www.legislation.gov.uk/wsi/2021/231/article/6/q)
+[^c-6f8091d7f3b7203542fe2a4ab4ab78ac]: Commencement: [S. 162](https://www.legislation.gov.uk/asc/2021/1/section/162) in force at 5.5.2022 by [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(q)](https://www.legislation.gov.uk/wsi/2021/231/article/6/q)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Local Government[^key-6cdebd60519c8a3e52113e130cfac77a]
+## 121. Local Government[^c-6cdebd60519c8a3e52113e130cfac77a]
 
 *Extent: N.I.*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6cdebd60519c8a3e52113e130cfac77a]: Commencement: Reg. 121 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-6cdebd60519c8a3e52113e130cfac77a]: Commencement: Reg. 121 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00204]: Footnote: [S.R. (N.I.) 2014/189](https://www.legislation.gov.uk/nisr/2014/189). Regulation 17 was amended by [S.R. (N.I.) 2016/128](https://www.legislation.gov.uk/nisr/2016/128) and [S.R. (N.I.) 2019/206](https://www.legislation.gov.uk/nisr/2019/206).

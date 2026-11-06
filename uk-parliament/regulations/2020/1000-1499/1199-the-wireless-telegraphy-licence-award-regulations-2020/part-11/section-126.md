@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Notification to OFCOM[^key-f80af552617e52d73919f5dc559739e4]
+## 126. Notification to OFCOM[^c-f80af552617e52d73919f5dc559739e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If, in accordance with any provision of these Regulations, an applicant or bidde
 
 ## Annotations
 
-[^key-f80af552617e52d73919f5dc559739e4]: Commencement: Reg. 126 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-f80af552617e52d73919f5dc559739e4]: Commencement: Reg. 126 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

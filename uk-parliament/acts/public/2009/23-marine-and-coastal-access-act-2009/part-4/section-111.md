@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Application to the Crown[^key-8adf21dfa691ff0e8e0d60a3f8a73085]
+## 111. Application to the Crown[^c-8adf21dfa691ff0e8e0d60a3f8a73085]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ it is necessary or expedient that, in the interests of national security, the po
 
 ## Annotations
 
-[^key-8adf21dfa691ff0e8e0d60a3f8a73085]: Commencement: S. 111 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-8adf21dfa691ff0e8e0d60a3f8a73085]: Commencement: S. 111 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

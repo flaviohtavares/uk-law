@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Termination of responsibility for temporary residents[^key-b0401464852dfde3e55f81ba16d7a78d]
+## 12. Termination of responsibility for temporary residents[^c-b0401464852dfde3e55f81ba16d7a78d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where, on or before 31st March 2004, a relevant medical practitioner had informe
 
 ## Annotations
 
-[^key-b0401464852dfde3e55f81ba16d7a78d]: Commencement: Art. 12 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-b0401464852dfde3e55f81ba16d7a78d]: Commencement: Art. 12 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

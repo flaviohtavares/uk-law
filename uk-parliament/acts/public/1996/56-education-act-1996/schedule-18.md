@@ -38,7 +38,7 @@ Section 162.
 
 - (a) to consider any resolution which is duly passed at an annual parents’ meeting and which they consider is a matter for them;
 - (b) to send to the head teacher a copy of any resolution which is so passed and which they consider is a matter for him; and
-- (c) to send to the local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] a copy of any resolution which is so passed and which they consider is a matter for the authority.
+- (c) to send to the local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] a copy of any resolution which is so passed and which they consider is a matter for the authority.
 
 (2) The articles of government shall in addition—
 
@@ -53,4 +53,4 @@ Section 162.
 
 ## Annotations
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

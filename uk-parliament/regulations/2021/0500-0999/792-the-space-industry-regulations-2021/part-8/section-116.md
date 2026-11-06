@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Pilot in command, flight crew or remote pilot to remain at stations[^key-36ff6ba9c7528c77ff43dfbec48a08d6]
+## 116. Pilot in command, flight crew or remote pilot to remain at stations[^c-36ff6ba9c7528c77ff43dfbec48a08d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36ff6ba9c7528c77ff43dfbec48a08d6]: Commencement: Reg. 116 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-36ff6ba9c7528c77ff43dfbec48a08d6]: Commencement: Reg. 116 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -24,9 +24,9 @@ Section 72
 
 ### Petroleum Act 1998
 
-**1.**[^key-5e12051aefb9dfb12832a7d1947cde8d] Part 4 of the Petroleum Act 1998 (abandonment of offshore installations) is amended as follows.
+**1.**[^c-5e12051aefb9dfb12832a7d1947cde8d] Part 4 of the Petroleum Act 1998 (abandonment of offshore installations) is amended as follows.
 
-**2.**[^key-58d6ced89bd38dfed7f7c62104f337f5] Before section 29 insert—
+**2.**[^c-58d6ced89bd38dfed7f7c62104f337f5] Before section 29 insert—
 
 > **28A. Restriction on abandonment**
 >
@@ -34,7 +34,7 @@ Section 72
 >
 > (2) A person who without reasonable excuse contravenes subsection (1) is guilty of an offence.
 
-**3.**[^key-9fc2c8314e3ebf0d4ea18c77c60a8129] (1) Section 29 (preparation of programmes) is amended as follows.
+**3.**[^c-9fc2c8314e3ebf0d4ea18c77c60a8129] (1) Section 29 (preparation of programmes) is amended as follows.
 
 (2) After subsection (1) insert—
 
@@ -57,7 +57,7 @@ Section 72
 
 (4) In subsection (3), after “such” insert “ other ”.
 
-**4.**[^key-443705a009ae9dab9a3ac369976a708c] (1) Section 32 (approval of programmes) is amended as follows.
+**4.**[^c-443705a009ae9dab9a3ac369976a708c] (1) Section 32 (approval of programmes) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -78,7 +78,7 @@ Section 72
 > - (a) alternatives to abandoning or decommissioning the installation or pipeline, such as re-using or preserving it, and
 > - (b) whether section 29(2A)(b) has been complied with and, if it has not been, modifications or conditions that would enable it to be complied with.
 
-**5.**[^key-75803a713097ce9f1ebf37e23fc723ae] In section 33 (failure to submit programme), after subsection (3) insert—
+**5.**[^c-75803a713097ce9f1ebf37e23fc723ae] In section 33 (failure to submit programme), after subsection (3) insert—
 
 > (3A) When preparing an abandonment programme under this section the Secretary of State must—
 >
@@ -90,7 +90,7 @@ Section 72
 > - (a) alternatives to abandoning or decommissioning the installation or pipeline, such as re-using or preserving it, and
 > - (b) how to comply with the requirement in paragraph (b) of that subsection.
 
-**6.**[^key-e8dfa74032131569bb5ff53f642cce33] (1) Section 34 (revision of programmes) is amended as follows.
+**6.**[^c-e8dfa74032131569bb5ff53f642cce33] (1) Section 34 (revision of programmes) is amended as follows.
 
 (2) After subsection (4) insert—
 
@@ -110,7 +110,7 @@ Section 72
 > - (a) alternatives to abandoning or decommissioning the installation or pipeline, such as re-using or preserving it, and
 > - (b) whether subsection (4A) applies and, if so, whether it has been complied with.
 
-**7.**[^key-bcfd77e41393689efaf85329cbb82f30] After section 34 insert—
+**7.**[^c-bcfd77e41393689efaf85329cbb82f30] After section 34 insert—
 
 > **34A. Amendment of programmes**
 >
@@ -127,7 +127,7 @@ Section 72
 >
 > (5) Any person who has the function of approving amendments made under a provision mentioned in subsection (1) must, when exercising the function, take into account the effect of the proposed amendment on the cost of carrying out the programme.
 
-**8.**[^key-d24d8e25b77c753477989b863381915d] After section 36 insert—
+**8.**[^c-d24d8e25b77c753477989b863381915d] After section 36 insert—
 
 > **36A. Reduction of costs of carrying out programmes**
 >
@@ -157,7 +157,7 @@ Section 72
 >
 > (10) The rate of interest payable in accordance with subsection (9) is a rate determined by the Secretary of State as comparable with commercial rates.
 
-**9.**[^key-da6ffc1ba1107d3b68498f2fe7528eab] In section 37 (default in carrying out programmes), after subsection (1) insert—
+**9.**[^c-da6ffc1ba1107d3b68498f2fe7528eab] In section 37 (default in carrying out programmes), after subsection (1) insert—
 
 > (1A) If it appears to the Secretary of State that the proposed remedial action is likely to have an effect on the cost of carrying out the programme, the Secretary of State must—
 >
@@ -166,12 +166,12 @@ Section 72
 >
 > (1B) When consulted under subsection (1A)(a), the OGA must consider and advise on the likely effect of the proposed remedial action on the cost of carrying out the programme.
 
-**10.**[^key-f6f09ccfb9ea18ad6068894cef02e948] In section 40 (offences: penalties)—
+**10.**[^c-f6f09ccfb9ea18ad6068894cef02e948] In section 40 (offences: penalties)—
 
 - (a) after “section” insert “ 28A, ”, and
 - (b) after “33,” insert “ 36A, ”.
 
-**11.**[^key-3c469eecb47f794f302aae5b537078f7] (1) Section 41 (offences: general) is amended as follows.
+**11.**[^c-3c469eecb47f794f302aae5b537078f7] (1) Section 41 (offences: general) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -190,7 +190,7 @@ Section 72
 
 (5) In subsection (5), after “section” insert “ 28A, 36A or ”.
 
-**12.**[^key-c34bb5c640000c9fd68d8621591c5202] (1) Section 42 (validity of Secretary of State's acts) is amended as follows.
+**12.**[^c-c34bb5c640000c9fd68d8621591c5202] (1) Section 42 (validity of Secretary of State's acts) is amended as follows.
 
 (2) In subsection (2), after paragraph (e) insert—
 
@@ -206,7 +206,7 @@ Section 72
 
 ### Energy Act 2008
 
-**13.**[^key-ddf2c601a4d3a98272a169b75e457046] (1) Section 30 of the Energy Act 2008 (abandonment of carbon storage installations) is amended as follows.
+**13.**[^c-ddf2c601a4d3a98272a169b75e457046] (1) Section 30 of the Energy Act 2008 (abandonment of carbon storage installations) is amended as follows.
 
 (2) In subsection (1), after “subsections” insert “ (1A), ”.
 
@@ -223,28 +223,28 @@ Section 72
 
 ## Annotations
 
-[^key-5e12051aefb9dfb12832a7d1947cde8d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/1) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-5e12051aefb9dfb12832a7d1947cde8d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/1) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-58d6ced89bd38dfed7f7c62104f337f5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/2) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-58d6ced89bd38dfed7f7c62104f337f5]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/2) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-9fc2c8314e3ebf0d4ea18c77c60a8129]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/3) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-9fc2c8314e3ebf0d4ea18c77c60a8129]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/3) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-443705a009ae9dab9a3ac369976a708c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/4) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-443705a009ae9dab9a3ac369976a708c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/4) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-75803a713097ce9f1ebf37e23fc723ae]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/5) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-75803a713097ce9f1ebf37e23fc723ae]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/5) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-e8dfa74032131569bb5ff53f642cce33]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/6) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-e8dfa74032131569bb5ff53f642cce33]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/6) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-bcfd77e41393689efaf85329cbb82f30]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/7) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-bcfd77e41393689efaf85329cbb82f30]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/7) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-d24d8e25b77c753477989b863381915d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/8) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-d24d8e25b77c753477989b863381915d]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/8) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-da6ffc1ba1107d3b68498f2fe7528eab]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/9) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-da6ffc1ba1107d3b68498f2fe7528eab]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/9) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-f6f09ccfb9ea18ad6068894cef02e948]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/10) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-f6f09ccfb9ea18ad6068894cef02e948]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/10) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-3c469eecb47f794f302aae5b537078f7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/11) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-3c469eecb47f794f302aae5b537078f7]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/11) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-c34bb5c640000c9fd68d8621591c5202]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/12) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-c34bb5c640000c9fd68d8621591c5202]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/12) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
 
-[^key-ddf2c601a4d3a98272a169b75e457046]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/13) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)
+[^c-ddf2c601a4d3a98272a169b75e457046]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2016/20/schedule/2/paragraph/13) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/c)

@@ -51,13 +51,13 @@ These Regulations may be cited as the Processed Cereal-based Foods and Baby Food
 
 - “**the Act**” (“***y Ddeddf***”) means the Food Safety Act 1990;
 - “**baby foods**” (“***bwyd babanod***”) means foods for particular nutritional use fulfilling the particular requirements of infants and young children in good health and intended for use by infants while they are being weaned, and by young children as a supplement to their diet or for their progressive adaptation to ordinary food, but excludes processed cereal-based foods;
-- “[^key-15ef5de39b5112807eaaebfb2c24d7af]**the Directive**” (“***y Gyfarwyddeb***”) means Commission Directive [2006/125/EC](https://www.legislation.gov.uk/eudr/2006/125) on processed cereal-based foods and baby foods for infants and young children;
-- [^key-190114a529088c3030f494d25cfa4d0c]...
+- “[^c-15ef5de39b5112807eaaebfb2c24d7af]**the Directive**” (“***y Gyfarwyddeb***”) means Commission Directive [2006/125/EC](https://www.legislation.gov.uk/eudr/2006/125) on processed cereal-based foods and baby foods for infants and young children;
+- [^c-190114a529088c3030f494d25cfa4d0c]...
 - “**food authority**” (“***awdurdod bwyd***”) has the same meaning as in section 5(1A) and (3) of the Act sofar as subsection 3 can apply to Wales;
 - “**infants**” (“***babanod***”) means children under the age of twelve months;
-- “**pesticide residue**” (“***gweddill plaleiddiad***”) means the residue in processed cereal-based foods or baby foods of a plant protection product which has the same meaning as in Article 2(1) of Regulation[^key-86ce6760ef3dbe962294689594241e2f] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414), and “residue” shall be read in accordance with Article 3(1) of that Regulation, including its metabolites and products resulting from its degradation or reaction;
+- “**pesticide residue**” (“***gweddill plaleiddiad***”) means the residue in processed cereal-based foods or baby foods of a plant protection product which has the same meaning as in Article 2(1) of Regulation[^c-86ce6760ef3dbe962294689594241e2f] [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council concerning the placing of plant protection products on the market and repealing Council Directives [79/117/EEC](https://www.legislation.gov.uk/eudr/1979/117) and [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414), and “residue” shall be read in accordance with Article 3(1) of that Regulation, including its metabolites and products resulting from its degradation or reaction;
 - “**processed cereal-based foods**” (“***bwydydd proses sydd wedi'u seilio ar rawn***”) means foods for particular nutritional use within the categories specified in Part I of Schedule 1 fulfilling the particular requirements of infants and young children in good health and intended for use by infants while they are being weaned, and by young children as a supplement to their diet or for their progressive adaptation to ordinary food;
-- “**sell**” (“***gwerthu***”) includes possess for sale and offer, expose or advertise for sale , and “[^key-588dc28ccb02d9b249280d1495aaff0b]**sold**” (“***cael ei werthu***”) is to be construed accordingly; and
+- “**sell**” (“***gwerthu***”) includes possess for sale and offer, expose or advertise for sale , and “[^c-588dc28ccb02d9b249280d1495aaff0b]**sold**” (“***cael ei werthu***”) is to be construed accordingly; and
 - “**young children**” (“***plant ifanc***”) means children aged between one and three years.
 
 (2) Other expressions used in these Regulations and in the Directive have the same meaning in these Regulations as they have in the Directive.
@@ -115,7 +115,7 @@ at a level exceeding 0.003 mg/kg.
 
 ## 8. Labelling
 
-(1) Without prejudice to the generality of Regulation ([^key-50fee979fba68a7293feb8735b430ace]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, processed cereal-based foods and baby foods shall be labelled with the following particulars —
+(1) Without prejudice to the generality of Regulation ([^c-50fee979fba68a7293feb8735b430ace]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, processed cereal-based foods and baby foods shall be labelled with the following particulars —
 
 - (a) a statement as to the appropriate age (which shall be not less than four months) from which the food may be used, regard being had to its composition, texture or other particular properties;
 - (b) information as to the presence or absence of gluten if the age stated pursuant to sub-paragraph (a) is less than six months;
@@ -142,7 +142,7 @@ at a level exceeding 0.003 mg/kg.
 
 If any person contravenes regulation 4 he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 10A. Application of the improvement notice provisions of the Act[^key-be4021aebc4d83acc773ea34e8501f78]
+## 10A. Application of the improvement notice provisions of the Act[^c-be4021aebc4d83acc773ea34e8501f78]
 
 (1) Section 10(1) and (2) of the Act (improvement notices) applies, with the modification (in the case of section 10(1)) specified in Part 1 of Schedule 9, for the purposes of—
 
@@ -160,7 +160,7 @@ If any person contravenes regulation 4 he shall be guilty of an offence and liab
 
 (5) Section 39 of the Act (appeals against improvement notices) applies, with the modification (in the case of section 39(3)) specified in Part 5 of Schedule 9, for the purpose of dealing with appeals against a decision to serve a notice referred to in paragraph (1)(a).
 
-## 11. Defence in relation to exports[^key-4b52f7a6fa781d7fb80044dbba8ffc0a]
+## 11. Defence in relation to exports[^c-4b52f7a6fa781d7fb80044dbba8ffc0a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -187,7 +187,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 
 (2) The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Amendment) (Wales) Regulations 2001 [^c9256421] are revoked.
 
-## 14. Amendment[^key-7df3a5bbeadd56d11fa429723fc1d6b2]
+## 14. Amendment[^c-7df3a5bbeadd56d11fa429723fc1d6b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -469,7 +469,7 @@ Regulations 6(1) and 8(2)
 
 - Folic acid
 
-- Calcium-L-methylfolate[^key-ae70efee9db420931b58c7c3067adfc9]
+- Calcium-L-methylfolate[^c-ae70efee9db420931b58c7c3067adfc9]
 
 - *Vitamin B<sub>12</sub>*
 
@@ -631,7 +631,7 @@ Regulations 6(1) and 8(2)
 
 - Ferrous carbonate
 
-- Ferrous bisglycinate[^key-d49e41dc0e16d16c623189c99f45ab66]
+- Ferrous bisglycinate[^c-d49e41dc0e16d16c623189c99f45ab66]
 
 - *Copper*
 
@@ -649,7 +649,7 @@ Regulations 6(1) and 8(2)
 
 - Zinc acetate
 
-- Zinc chloride[^key-e3e78e85697eb791166c343d39355aaa]
+- Zinc chloride[^c-e3e78e85697eb791166c343d39355aaa]
 
 - Zinc citrate
 
@@ -804,7 +804,7 @@ Regulation 8(3)
 | Selenium | (μg) 10 |
 | Copper | (mg) 0.4 |
 
-## SCHEDULE 9 — MODIFICATION OF THE IMPROVEMENT NOTICE PROVISIONS OF THE ACT[^key-c227c0182ef07d821e2cd6c091d919f2]
+## SCHEDULE 9 — MODIFICATION OF THE IMPROVEMENT NOTICE PROVISIONS OF THE ACT[^c-c227c0182ef07d821e2cd6c091d919f2]
 
 Regulation 10A
 
@@ -886,19 +886,19 @@ Regulation 10A
 
 [^c9256301]: Marginal citation: OJ No. L31, 1.2.2002, p.1.
 
-[^key-15ef5de39b5112807eaaebfb2c24d7af]: Textual amendment: Words in reg. 2(1) substituted (15.10.2007) by [The Food for Particular Nutritional Uses (Miscellaneous Amendments) (Wales) Regulations 2007 (S.I. 2007/2753)](https://www.legislation.gov.uk/uksi/2007/2753), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2753/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2007/2753/regulation/6/2)
+[^c-15ef5de39b5112807eaaebfb2c24d7af]: Textual amendment: Words in reg. 2(1) substituted (15.10.2007) by [The Food for Particular Nutritional Uses (Miscellaneous Amendments) (Wales) Regulations 2007 (S.I. 2007/2753)](https://www.legislation.gov.uk/uksi/2007/2753), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2753/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2007/2753/regulation/6/2)
 
-[^key-190114a529088c3030f494d25cfa4d0c]: Textual amendment: Words in reg. 2(1) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [9](https://www.legislation.gov.uk/wsi/2018/806/regulation/9)
+[^c-190114a529088c3030f494d25cfa4d0c]: Textual amendment: Words in reg. 2(1) omitted (26.7.2018) by virtue of [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [9](https://www.legislation.gov.uk/wsi/2018/806/regulation/9)
 
-[^key-86ce6760ef3dbe962294689594241e2f]: Textual amendment: Words in reg. 2 substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
+[^c-86ce6760ef3dbe962294689594241e2f]: Textual amendment: Words in reg. 2 substituted (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2131/schedule/4) (with [reg. 29](https://www.legislation.gov.uk/uksi/2011/2131/regulation/29))
 
-[^key-588dc28ccb02d9b249280d1495aaff0b]: Textual amendment: Words in reg. 2(1) inserted (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/wsi/2016/639), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/wsi/2016/639/schedule/3/paragraph/3/a)
+[^c-588dc28ccb02d9b249280d1495aaff0b]: Textual amendment: Words in reg. 2(1) inserted (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/wsi/2016/639), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3), [Sch. 3 para. 3(a)](https://www.legislation.gov.uk/wsi/2016/639/schedule/3/paragraph/3/a)
 
-[^key-50fee979fba68a7293feb8735b430ace]: Textual amendment: Words in reg. 8(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 39](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/39)
+[^c-50fee979fba68a7293feb8735b430ace]: Textual amendment: Words in reg. 8(1) substituted (13.12.2014) by [The Food Information (Wales) Regulations 2014 (S.I. 2014/2303)](https://www.legislation.gov.uk/wsi/2014/2303), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/1/3), [Sch. 7 para. 39](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/39)
 
-[^key-be4021aebc4d83acc773ea34e8501f78]: Textual amendment: Reg. 10A inserted (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/wsi/2016/639), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/wsi/2016/639/schedule/3/paragraph/3/b)
+[^c-be4021aebc4d83acc773ea34e8501f78]: Textual amendment: Reg. 10A inserted (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/wsi/2016/639), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3), [Sch. 3 para. 3(b)](https://www.legislation.gov.uk/wsi/2016/639/schedule/3/paragraph/3/b)
 
-[^key-4b52f7a6fa781d7fb80044dbba8ffc0a]: Textual amendment: Reg. 11 revoked (1.1.2006) by [The Official Feed and Food Controls (Wales) Regulations 2005 (S.I. 2005/3254)](https://www.legislation.gov.uk/uksi/2005/3254), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3254/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/3254/schedule/6/part/2)
+[^c-4b52f7a6fa781d7fb80044dbba8ffc0a]: Textual amendment: Reg. 11 revoked (1.1.2006) by [The Official Feed and Food Controls (Wales) Regulations 2005 (S.I. 2005/3254)](https://www.legislation.gov.uk/uksi/2005/3254), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3254/regulation/1), [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2005/3254/schedule/6/part/2)
 
 [^c9256401]: Marginal citation: [S.I. 1997/2042](https://www.legislation.gov.uk/uksi/1997/2042).
 
@@ -906,14 +906,14 @@ Regulation 10A
 
 [^c9256421]: Marginal citation: [S.I. 2001/1691](https://www.legislation.gov.uk/uksi/2001/1691) (W.121).
 
-[^key-7df3a5bbeadd56d11fa429723fc1d6b2]: Textual amendment: Reg. 14 revoked (11.11.2005) by [The Tryptophan in Food (Wales) Regulations 2005 (S.I. 2005/3111)](https://www.legislation.gov.uk/uksi/2005/3111), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3111/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2005/3111/regulation/10/2)
+[^c-7df3a5bbeadd56d11fa429723fc1d6b2]: Textual amendment: Reg. 14 revoked (11.11.2005) by [The Tryptophan in Food (Wales) Regulations 2005 (S.I. 2005/3111)](https://www.legislation.gov.uk/uksi/2005/3111), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3111/regulation/1), [10(2)](https://www.legislation.gov.uk/uksi/2005/3111/regulation/10/2)
 
 [^c9256441]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-ae70efee9db420931b58c7c3067adfc9]: Textual amendment: Word in [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2004/314/schedule/4/paragraph/1) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) (Amendment) Regulations 2022 (S.I. 2022/1327)](https://www.legislation.gov.uk/wsi/2022/1327), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/2/2/a)
+[^c-ae70efee9db420931b58c7c3067adfc9]: Textual amendment: Word in [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2004/314/schedule/4/paragraph/1) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) (Amendment) Regulations 2022 (S.I. 2022/1327)](https://www.legislation.gov.uk/wsi/2022/1327), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/2/2/a)
 
-[^key-d49e41dc0e16d16c623189c99f45ab66]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/wsi/2004/314/schedule/4/paragraph/4) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) (Amendment) Regulations 2022 (S.I. 2022/1327)](https://www.legislation.gov.uk/wsi/2022/1327), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/2/2/b/i)
+[^c-d49e41dc0e16d16c623189c99f45ab66]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/wsi/2004/314/schedule/4/paragraph/4) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) (Amendment) Regulations 2022 (S.I. 2022/1327)](https://www.legislation.gov.uk/wsi/2022/1327), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/1/2), [2(2)(b)(i)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/2/2/b/i)
 
-[^key-e3e78e85697eb791166c343d39355aaa]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/wsi/2004/314/schedule/4/paragraph/4) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) (Amendment) Regulations 2022 (S.I. 2022/1327)](https://www.legislation.gov.uk/wsi/2022/1327), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/2/2/b/ii)
+[^c-e3e78e85697eb791166c343d39355aaa]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/wsi/2004/314/schedule/4/paragraph/4) inserted (18.1.2023) by [The Processed Cereal-based Foods and Baby Foods for Infants and Young Children (Wales) (Amendment) Regulations 2022 (S.I. 2022/1327)](https://www.legislation.gov.uk/wsi/2022/1327), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/1/2), [2(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/1327/regulation/2/2/b/ii)
 
-[^key-c227c0182ef07d821e2cd6c091d919f2]: Textual amendment: Sch. 9 inserted (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/wsi/2016/639), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/wsi/2016/639/schedule/3/paragraph/3/c)
+[^c-c227c0182ef07d821e2cd6c091d919f2]: Textual amendment: Sch. 9 inserted (2.8.2016) by [The Food for Specific Groups (Information and Compositional Requirements) (Wales) Regulations 2016 (S.I. 2016/639)](https://www.legislation.gov.uk/wsi/2016/639), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/639/regulation/1/3), [Sch. 3 para. 3(c)](https://www.legislation.gov.uk/wsi/2016/639/schedule/3/paragraph/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Power to vary accounting period or filing date[^key-127196bff893760802908d82e88f5815]
+## 40. Power to vary accounting period or filing date[^c-127196bff893760802908d82e88f5815]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-127196bff893760802908d82e88f5815]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2017/3/section/40) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(n)](https://www.legislation.gov.uk/wsi/2018/35/article/2/n)
+[^c-127196bff893760802908d82e88f5815]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2017/3/section/40) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(n)](https://www.legislation.gov.uk/wsi/2018/35/article/2/n)

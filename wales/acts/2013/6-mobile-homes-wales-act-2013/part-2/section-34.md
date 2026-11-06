@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. False or misleading statements or information[^key-b93f5b67658da3a34cd7bafdb9478cc5]
+## 34. False or misleading statements or information[^c-b93f5b67658da3a34cd7bafdb9478cc5]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-b93f5b67658da3a34cd7bafdb9478cc5]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2013/6/section/34) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-b93f5b67658da3a34cd7bafdb9478cc5]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2013/6/section/34) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

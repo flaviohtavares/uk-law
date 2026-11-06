@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Provisions supplementary to ss. 47 and 48.[^key-4cb0a4342eba0f68639297663f6b8444][^key-417a92380e9ee38ab5022a89f43c7e40]
+## 49. Provisions supplementary to ss. 47 and 48.[^c-4cb0a4342eba0f68639297663f6b8444][^c-417a92380e9ee38ab5022a89f43c7e40]
 
 *Extent: E+W*
 
@@ -39,9 +39,9 @@ is shown in any definitive map and statement as a byway open to all traffic, a b
 
 ## Annotations
 
-[^key-4cb0a4342eba0f68639297663f6b8444]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2000/37/section/49) in force at 2.5.2006 for E. by [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/c)
+[^c-4cb0a4342eba0f68639297663f6b8444]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2000/37/section/49) in force at 2.5.2006 for E. by [S.I. 2006/1172](https://www.legislation.gov.uk/uksi/2006/1172), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/1172/article/2/c)
 
-[^key-417a92380e9ee38ab5022a89f43c7e40]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2000/37/section/49) in force at 11.5.2006 for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/c)
+[^c-417a92380e9ee38ab5022a89f43c7e40]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2000/37/section/49) in force at 11.5.2006 for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(c)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/c)
 
 [^c1057051]: Marginal citation: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Prevention of pollution from ships etc.[^key-ad6935eac8d122444effc5d6f1328973]
+## 128. Prevention of pollution from ships etc.[^c-ad6935eac8d122444effc5d6f1328973]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,8 +26,8 @@ summary: ''
 - (b) the Protocol relating to Intervention on the High Seas in Cases of Marine Pollution by Substances other than Oil which constitutes attachment 2 to the final act aforesaid;
 - (c) the Protocol relating to the said Convention which constitutes attachment 2 to the final act of the International Conference on Tanker Safety and Pollution Prevention signed in London on 17th February 1978;
 - (d) the International Convention on Oil Pollution Preparedness, Response and Co-operation, 1990 (including the Final Act of the Conference and the attached resolutions) signed in London on 30th November 1990;
-- (da)[^key-16f255d1c64cea801e0e4341bc44590e] the Protocol to amend the Convention for the Prevention of Pollution from Ships signed in London on 26 September 1997 (which added to it Annex VI containing regulations for the prevention of air pollution from ships);
-- (e)[^key-4c5b6c6d8f9e7ddd1db387a3701374c2] any international agreement not mentioned in paragraphs (a) to (da)[^key-3fa11e7253a8657293d8df8c945afb96] above which relates to the prevention, reduction or control of pollution of the sea or other waters by matter from ships;
+- (da)[^c-16f255d1c64cea801e0e4341bc44590e] the Protocol to amend the Convention for the Prevention of Pollution from Ships signed in London on 26 September 1997 (which added to it Annex VI containing regulations for the prevention of air pollution from ships);
+- (e)[^c-4c5b6c6d8f9e7ddd1db387a3701374c2] any international agreement not mentioned in paragraphs (a) to (da)[^c-3fa11e7253a8657293d8df8c945afb96] above which relates to the prevention, reduction or control of pollution of the sea or other waters by matter from ships;
 
 and in paragraph (e) above the reference to an agreement includes an agreement which provides for the modification of another agreement, including the modification of an agreement mentioned in paragraphs (a) to (c) above.
 
@@ -59,7 +59,7 @@ and nothing in any of the preceding provisions of this subsection shall be const
 - (f) authorise the making of regulations and other instruments for any of the purposes of this section (except the purposes of subsection (3)(a) and (c) above) [^c14526561]. . .; and
 - (g) provide that any enactment or instrument applied by the Order shall have effect as so applied subject to such modifications as may be specified in the Order.
 
-(5) Where an Order in Council under subsection (1) above authorises the making of regulations for the purpose of giving effect to an agreement mentioned in paragraphs (a) to (da)[^key-93d6ffc3b7e0767db6b8433952f98a78] or falling within paragraph (e) of that subsection the Order also authorises the making of regulations for the purpose of giving effect to an agreement which provides for the modification of such an agreement.
+(5) Where an Order in Council under subsection (1) above authorises the making of regulations for the purpose of giving effect to an agreement mentioned in paragraphs (a) to (da)[^c-93d6ffc3b7e0767db6b8433952f98a78] or falling within paragraph (e) of that subsection the Order also authorises the making of regulations for the purpose of giving effect to an agreement which provides for the modification of such an agreement.
 
 This subsection applies in relation to Orders in Council and international agreements whenever made.
 
@@ -75,20 +75,20 @@ This subsection applies in relation to Orders in Council and international agree
 
 (9) The purposes referred to in subsection (8)(b) above are—
 
-- (a) giving effect to an agreement mentioned in subsection (1)(a) to (da)[^key-1fa9264e8a093fa1d5feb55cb26ca939] above;
+- (a) giving effect to an agreement mentioned in subsection (1)(a) to (da)[^c-1fa9264e8a093fa1d5feb55cb26ca939] above;
 - (b) providing as authorised by subsection (2) above in relation to such an agreement and the purposes of subsection (5) above;
 
 and a statutory instrument containing an Order which contains a statement that it is made only for any of those purposes shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ## Annotations
 
-[^key-ad6935eac8d122444effc5d6f1328973]: Modification: S. 128 applied (with modifications) (21.7.2022) by [S.I.1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) and Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Amendment Order 2022 (S.I. 2022/844)](https://www.legislation.gov.uk/uksi/2022/844), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/844/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2022/844/article/2/2))
+[^c-ad6935eac8d122444effc5d6f1328973]: Modification: S. 128 applied (with modifications) (21.7.2022) by [S.I.1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 3](https://www.legislation.gov.uk/uksi/1989/1350/article/3) (as amended by [The Hovercraft (Application of Enactments) and Merchant Shipping (Prevention of Pollution) (Law of the Sea Convention) Amendment Order 2022 (S.I. 2022/844)](https://www.legislation.gov.uk/uksi/2022/844), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/844/article/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2022/844/article/2/2))
 
-[^key-16f255d1c64cea801e0e4341bc44590e]: Textual amendment: [S. 128(1)(da)](https://www.legislation.gov.uk/ukpga/1995/21/section/128/1/da) inserted (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2006/8/section/2/2), [4](https://www.legislation.gov.uk/ukpga/2006/8/section/4)
+[^c-16f255d1c64cea801e0e4341bc44590e]: Textual amendment: [S. 128(1)(da)](https://www.legislation.gov.uk/ukpga/1995/21/section/128/1/da) inserted (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2006/8/section/2/2), [4](https://www.legislation.gov.uk/ukpga/2006/8/section/4)
 
-[^key-4c5b6c6d8f9e7ddd1db387a3701374c2]: Modification: S. 128(1)(e) applied (1.3.2005) by [The Merchant Shipping (Prevention of Pollution) (Drilling Rigs and Other Platforms) Order 2005 (S.I. 2005/74)](https://www.legislation.gov.uk/uksi/2005/74), [arts. 1](https://www.legislation.gov.uk/uksi/2005/74/article/1), [2](https://www.legislation.gov.uk/uksi/2005/74/article/2)
+[^c-4c5b6c6d8f9e7ddd1db387a3701374c2]: Modification: S. 128(1)(e) applied (1.3.2005) by [The Merchant Shipping (Prevention of Pollution) (Drilling Rigs and Other Platforms) Order 2005 (S.I. 2005/74)](https://www.legislation.gov.uk/uksi/2005/74), [arts. 1](https://www.legislation.gov.uk/uksi/2005/74/article/1), [2](https://www.legislation.gov.uk/uksi/2005/74/article/2)
 
-[^key-3fa11e7253a8657293d8df8c945afb96]: Textual amendment: Word in [s. 128(1)(e)](https://www.legislation.gov.uk/ukpga/1995/21/section/128/1/e) substituted (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2006/8/section/2/3), [4](https://www.legislation.gov.uk/ukpga/2006/8/section/4)
+[^c-3fa11e7253a8657293d8df8c945afb96]: Textual amendment: Word in [s. 128(1)(e)](https://www.legislation.gov.uk/ukpga/1995/21/section/128/1/e) substituted (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2006/8/section/2/3), [4](https://www.legislation.gov.uk/ukpga/2006/8/section/4)
 
 [^c14526541]: Textual amendment: Words in s. 128(3)(h) substituted (17.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 29(1)](https://www.legislation.gov.uk/ukpga/1997/28/section/29/1), [Sch. 6 para. 3(2)](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6/paragraph/3/2); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)
 
@@ -96,6 +96,6 @@ and a statutory instrument containing an Order which contains a statement that i
 
 [^c14526561]: Textual amendment: Words in s. 128(4)(f) repealed (17.7.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 29(1)(2)](https://www.legislation.gov.uk/ukpga/1997/28/section/29/1/2), [Sch. 6 para. 3(3)](https://www.legislation.gov.uk/ukpga/1997/28/schedule/6/paragraph/3/3), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1997/28/schedule/7/part/I); [S.I. 1997/1539](https://www.legislation.gov.uk/uksi/1997/1539), [art. 2](https://www.legislation.gov.uk/uksi/1997/1539/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1539/schedule)
 
-[^key-93d6ffc3b7e0767db6b8433952f98a78]: Textual amendment: Word in [s. 128(5)](https://www.legislation.gov.uk/ukpga/1995/21/section/128/5) substituted (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2006/8/section/2/3), [4](https://www.legislation.gov.uk/ukpga/2006/8/section/4)
+[^c-93d6ffc3b7e0767db6b8433952f98a78]: Textual amendment: Word in [s. 128(5)](https://www.legislation.gov.uk/ukpga/1995/21/section/128/5) substituted (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2006/8/section/2/3), [4](https://www.legislation.gov.uk/ukpga/2006/8/section/4)
 
-[^key-1fa9264e8a093fa1d5feb55cb26ca939]: Textual amendment: Word in [s. 128(9)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/128/9/a) substituted (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2006/8/section/2/3), [4](https://www.legislation.gov.uk/ukpga/2006/8/section/4)
+[^c-1fa9264e8a093fa1d5feb55cb26ca939]: Textual amendment: Word in [s. 128(9)(a)](https://www.legislation.gov.uk/ukpga/1995/21/section/128/9/a) substituted (30.3.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2006/8/section/2/3), [4](https://www.legislation.gov.uk/ukpga/2006/8/section/4)

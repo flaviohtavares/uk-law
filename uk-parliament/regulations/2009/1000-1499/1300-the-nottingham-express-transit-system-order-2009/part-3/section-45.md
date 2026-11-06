@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Time limit for exercise of powers of acquisition[^key-879befe63fe4b10d0b55926605a3b42e]
+## 45. Time limit for exercise of powers of acquisition[^c-879befe63fe4b10d0b55926605a3b42e]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-879befe63fe4b10d0b55926605a3b42e]: Commencement: Art. 45 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-879befe63fe4b10d0b55926605a3b42e]: Commencement: Art. 45 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

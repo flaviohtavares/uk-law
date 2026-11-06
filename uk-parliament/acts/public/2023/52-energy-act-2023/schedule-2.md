@@ -22,7 +22,7 @@ summary: ''
 
 Section 21
 
-### 1. Application for permission to bring appeal[^key-5d4d385192f64742e8b7250d6cd7a41c]
+### 1. Application for permission to bring appeal[^c-5d4d385192f64742e8b7250d6cd7a41c]
 
 **May not be in force at this date. Check the source.**
 
@@ -68,7 +68,7 @@ Section 21
 
 (13) Section 25(2) applies to the publication of a decision under sub-paragraph (12) as it does to the publication of a decision under section 25.
 
-### 2. Suspension of decision[^key-9b3f00dfbd7026146f99e542b3230ab7]
+### 2. Suspension of decision[^c-9b3f00dfbd7026146f99e542b3230ab7]
 
 (1) The CMA may direct that, pending the determination of an appeal against a decision of the economic regulator—
 
@@ -98,7 +98,7 @@ Section 21
 
 (7) Section 25(2) applies to the publication of a direction under sub-paragraph (6) as it does to the publication of a decision under section 25.
 
-### 3. Time limit for representations and observations by the economic regulator[^key-dd8fa81dc40969c07ca948716398a15a]
+### 3. Time limit for representations and observations by the economic regulator[^c-dd8fa81dc40969c07ca948716398a15a]
 
 (1) Sub-paragraph (2) applies where the economic regulator wishes to make representations or observations to the CMA in relation to—
 
@@ -116,7 +116,7 @@ Section 21
 
 (5) The economic regulator must send a copy of the representations and observations it makes under this paragraph to the appellant.
 
-### 4. Determination of matter on appeal[^key-117c637c1c56411dbc51ca113a4e8a7a]
+### 4. Determination of matter on appeal[^c-117c637c1c56411dbc51ca113a4e8a7a]
 
 (1) A group constituted by the chair of the CMA under Schedule 4 to the Enterprise and Regulatory Reform Act 2013 for the purpose of carrying out functions of the CMA with respect to an appeal under section 20 must consist of three members of the CMA panel.
 
@@ -125,7 +125,7 @@ Section 21
 - (a) all the members of the group are present when it is made, and
 - (b) at least two members of the group are in favour of the decision.
 
-### 5. Matters to be considered on appeal[^key-65a5c9cea13969e0a450230e2984b1e7]
+### 5. Matters to be considered on appeal[^c-65a5c9cea13969e0a450230e2984b1e7]
 
 (1) The CMA, if it thinks it necessary to do so for the purpose of securing the determination of an appeal within the period provided for by section 24, may disregard—
 
@@ -134,7 +134,7 @@ Section 21
 
 (2) In this paragraph “**relevant application**” means an application under paragraph 1 or 2.
 
-### 6. Production of documents[^key-b371cf15806146cfa2c8236cc3184b3c]
+### 6. Production of documents[^c-b371cf15806146cfa2c8236cc3184b3c]
 
 (1) For the purposes of this Schedule, the CMA may by notice require—
 
@@ -155,7 +155,7 @@ Section 21
 - (a) may be issued on the CMA’s behalf by an authorised member of the CMA;
 - (b) must include information about the possible consequences of not complying with the notice (as set out in paragraph 10).
 
-### 7. Oral hearings[^key-28dd1b0e854741a95d20f45953f53f9e]
+### 7. Oral hearings[^c-28dd1b0e854741a95d20f45953f53f9e]
 
 (1) For the purposes of this Schedule an oral hearing may be held, and evidence may be taken on oath—
 
@@ -188,7 +188,7 @@ and, for that purpose, such a person or group may administer oaths.
 
 (8) A notice for the purposes of this paragraph may be issued on the CMA’s behalf by an authorised member of the CMA.
 
-### 8. Written statements[^key-e56c6688aa41915e3a198f29626f5f61]
+### 8. Written statements[^c-e56c6688aa41915e3a198f29626f5f61]
 
 (1) The CMA may by notice require a person to produce a written statement with respect to a matter specified in the notice to—
 
@@ -204,11 +204,11 @@ and, for that purpose, such a person or group may administer oaths.
 
 (4) A notice for the purposes of this paragraph may be issued on the CMA’s behalf by an authorised member of the CMA.
 
-### 9. Expert advice[^key-eedb009a5cf69296da844ce5268ba418]
+### 9. Expert advice[^c-eedb009a5cf69296da844ce5268ba418]
 
 Where permission to bring an appeal is granted under paragraph 1 the CMA may commission expert advice with respect to any matter raised by a party to that appeal.
 
-### 10. Defaults in relation to evidence[^key-f92aeaa284455534e021713068d363e3]
+### 10. Defaults in relation to evidence[^c-f92aeaa284455534e021713068d363e3]
 
 (1) If a person (“**the defaulter**”)—
 
@@ -234,7 +234,7 @@ it is satisfied that the defaulter did, without reasonable excuse, fail to compl
 - (c) on summary conviction in Northern Ireland, to imprisonment for a term not exceeding 6 months or a fine not exceeding the statutory maximum (or both);
 - (d) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine (or both).
 
-### 11. Costs or expenses[^key-4abd18d7e86645a0fbb54c2324a88aa0]
+### 11. Costs or expenses[^c-4abd18d7e86645a0fbb54c2324a88aa0]
 
 (1) A group that determines an appeal must make an order requiring the payment to the CMA of the costs or expenses incurred by the CMA in connection with the appeal.
 
@@ -252,7 +252,7 @@ it is satisfied that the defaulter did, without reasonable excuse, fail to compl
 
 (6) Any costs or expenses payable by virtue of an order under this paragraph and any interest that has not been paid may be recovered as a civil debt by the person in whose favour that order is made.
 
-### 12. Appeal rules[^key-17204e2b9971c3782c9f08dc57088614]
+### 12. Appeal rules[^c-17204e2b9971c3782c9f08dc57088614]
 
 (1) The CMA Board may make rules of procedure regulating the conduct and disposal of appeals under section 20.
 
@@ -267,7 +267,7 @@ it is satisfied that the defaulter did, without reasonable excuse, fail to compl
 
 (5) Rules under this paragraph may make different provision for different cases.
 
-### 13. Interpretation of Schedule[^key-15a50fb80f65c9be19f9d0d7b6883ea3]
+### 13. Interpretation of Schedule[^c-15a50fb80f65c9be19f9d0d7b6883ea3]
 
 (1) In this Schedule—
 
@@ -292,28 +292,28 @@ it is satisfied that the defaulter did, without reasonable excuse, fail to compl
 
 ## Annotations
 
-[^key-5d4d385192f64742e8b7250d6cd7a41c]: Commencement: Sch. 2 para. 1 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-5d4d385192f64742e8b7250d6cd7a41c]: Commencement: Sch. 2 para. 1 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-9b3f00dfbd7026146f99e542b3230ab7]: Commencement: Sch. 2 para. 2 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-9b3f00dfbd7026146f99e542b3230ab7]: Commencement: Sch. 2 para. 2 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-dd8fa81dc40969c07ca948716398a15a]: Commencement: Sch. 2 para. 3 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-dd8fa81dc40969c07ca948716398a15a]: Commencement: Sch. 2 para. 3 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-117c637c1c56411dbc51ca113a4e8a7a]: Commencement: Sch. 2 para. 4 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-117c637c1c56411dbc51ca113a4e8a7a]: Commencement: Sch. 2 para. 4 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-65a5c9cea13969e0a450230e2984b1e7]: Commencement: Sch. 2 para. 5 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-65a5c9cea13969e0a450230e2984b1e7]: Commencement: Sch. 2 para. 5 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-b371cf15806146cfa2c8236cc3184b3c]: Commencement: Sch. 2 para. 6 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-b371cf15806146cfa2c8236cc3184b3c]: Commencement: Sch. 2 para. 6 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-28dd1b0e854741a95d20f45953f53f9e]: Commencement: Sch. 2 para. 7 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-28dd1b0e854741a95d20f45953f53f9e]: Commencement: Sch. 2 para. 7 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-e56c6688aa41915e3a198f29626f5f61]: Commencement: Sch. 2 para. 8 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e56c6688aa41915e3a198f29626f5f61]: Commencement: Sch. 2 para. 8 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-eedb009a5cf69296da844ce5268ba418]: Commencement: Sch. 2 para. 9 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-eedb009a5cf69296da844ce5268ba418]: Commencement: Sch. 2 para. 9 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-f92aeaa284455534e021713068d363e3]: Commencement: Sch. 2 para. 10 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-f92aeaa284455534e021713068d363e3]: Commencement: Sch. 2 para. 10 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-4abd18d7e86645a0fbb54c2324a88aa0]: Commencement: Sch. 2 para. 11 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-4abd18d7e86645a0fbb54c2324a88aa0]: Commencement: Sch. 2 para. 11 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-17204e2b9971c3782c9f08dc57088614]: Commencement: Sch. 2 para. 12 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-17204e2b9971c3782c9f08dc57088614]: Commencement: Sch. 2 para. 12 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-15a50fb80f65c9be19f9d0d7b6883ea3]: Commencement: Sch. 2 para. 13 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-15a50fb80f65c9be19f9d0d7b6883ea3]: Commencement: Sch. 2 para. 13 in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

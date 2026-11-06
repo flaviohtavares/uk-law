@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Interpretation of Part 4[^key-0eb57f65c764dcb3b39a7b7fb1287ce9][^key-7ec43ba45a09049baa5d00f805521290]
+## 62. Interpretation of Part 4[^c-0eb57f65c764dcb3b39a7b7fb1287ce9][^c-7ec43ba45a09049baa5d00f805521290]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ In this Part—
 
 ## Annotations
 
-[^key-0eb57f65c764dcb3b39a7b7fb1287ce9]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/14/section/62) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-0eb57f65c764dcb3b39a7b7fb1287ce9]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/14/section/62) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-7ec43ba45a09049baa5d00f805521290]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/14/section/62) in force at 31.1.2018 in so far as not already in force by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-7ec43ba45a09049baa5d00f805521290]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2014/14/section/62) in force at 31.1.2018 in so far as not already in force by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

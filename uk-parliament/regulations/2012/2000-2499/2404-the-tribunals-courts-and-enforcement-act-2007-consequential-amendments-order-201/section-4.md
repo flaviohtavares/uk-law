@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Extent[^key-480209c737a6e682a73a01d4bfd6de91]
+## 4. Extent[^c-480209c737a6e682a73a01d4bfd6de91]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-480209c737a6e682a73a01d4bfd6de91]: Commencement: Art. 4 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1)
+[^c-480209c737a6e682a73a01d4bfd6de91]: Commencement: Art. 4 in force at 1.10.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1)

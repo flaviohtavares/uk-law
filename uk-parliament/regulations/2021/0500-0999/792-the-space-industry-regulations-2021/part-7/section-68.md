@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Changes to the training manual[^key-7dddcdbbc2cd50fd7bc5c74f466bca75]
+## 68. Changes to the training manual[^c-7dddcdbbc2cd50fd7bc5c74f466bca75]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dddcdbbc2cd50fd7bc5c74f466bca75]: Commencement: Reg. 68 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-7dddcdbbc2cd50fd7bc5c74f466bca75]: Commencement: Reg. 68 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Island communities impact assessment[^key-8fce199265f86875cab311cbf192b592]
+## 8. Island communities impact assessment[^c-8fce199265f86875cab311cbf192b592]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ which has an effect on an island community, it must publish, as soon as reasonab
 
 ## Annotations
 
-[^key-8fce199265f86875cab311cbf192b592]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/12/section/8) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)
+[^c-8fce199265f86875cab311cbf192b592]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/12/section/8) in force at 23.12.2020 by [S.S.I. 2020/346](https://www.legislation.gov.uk/ssi/2020/346), [reg. 2](https://www.legislation.gov.uk/ssi/2020/346/regulation/2)

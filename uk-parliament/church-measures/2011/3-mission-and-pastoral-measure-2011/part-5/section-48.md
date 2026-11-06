@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 48. Sinecure rectories and chapelries[^key-2ab85baf6d6bd027caf30287255783b0]
+## 48. Sinecure rectories and chapelries[^c-2ab85baf6d6bd027caf30287255783b0]
 
 *Extent: E*
 
@@ -27,4 +27,4 @@ A pastoral scheme may provide for merging with a benefice any sinecure rectory, 
 
 ## Annotations
 
-[^key-2ab85baf6d6bd027caf30287255783b0]: Commencement: S. 48 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-2ab85baf6d6bd027caf30287255783b0]: Commencement: S. 48 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

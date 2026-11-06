@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Environmental risk assessment[^key-6d4427c5b26460d0fc2ffd8ad665edd8]
+## 6. Environmental risk assessment[^c-6d4427c5b26460d0fc2ffd8ad665edd8]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d4427c5b26460d0fc2ffd8ad665edd8]: Commencement: Reg. 6 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-6d4427c5b26460d0fc2ffd8ad665edd8]: Commencement: Reg. 6 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

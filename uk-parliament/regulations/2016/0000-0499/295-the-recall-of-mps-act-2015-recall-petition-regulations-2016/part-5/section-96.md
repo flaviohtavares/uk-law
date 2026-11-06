@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Lost postal signing sheets: England and Wales and Scotland[^key-762be1e16210ae122712fc203ce691a7]
+## 96. Lost postal signing sheets: England and Wales and Scotland[^c-762be1e16210ae122712fc203ce691a7]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ instead of delivering it in accordance with regulation 93.
 
 ## Annotations
 
-[^key-762be1e16210ae122712fc203ce691a7]: Commencement: Reg. 96 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-762be1e16210ae122712fc203ce691a7]: Commencement: Reg. 96 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

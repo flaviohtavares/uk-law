@@ -22,14 +22,14 @@ summary: ''
 
 Article 14
 
-### PART 1 — STREETS, CYCLE TRACKS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH A DIVERSION IS TO BE PROVIDED[^key-d4ee49bf9d1b5c78aac1ae4a2a06edb3]
+### PART 1 — STREETS, CYCLE TRACKS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH A DIVERSION IS TO BE PROVIDED[^c-d4ee49bf9d1b5c78aac1ae4a2a06edb3]
 
 | (1) Area | (2) Street, cycle track or public right of way to be temporarily closed | (3) Extent of temporary closure as shown on the access, rights of wat and public rights of navigation plan | (4) Temporary diversion as shown on the access, rights of way and public rights of navigation plan |
 | --- | --- | --- | --- |
 | City of York Council and North Yorkshire Council | U1720 (ORPA) | Between points RWS01 and RWS02 as shown on Section B, Sheet 1 | Between points RWD01 and RWD02 as shown on Section B, Sheet 1. |
 | North Yorkshire Council | 35.55/5/1 | Between points RWS03 and RWS04 as shown on Section E, Sheet 3 | Between points RWD03 and RWD04 as shown on Section E, Sheet 3. |
 
-### PART 2 — STREETS, CYCLE TRACKS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH NO DIVERSION IS TO BE PROVIDED[^key-23dc2a919f316c2650bdea094b777af8]
+### PART 2 — STREETS, CYCLE TRACKS OR PUBLIC RIGHTS OF WAY TO BE TEMPORARILY CLOSED FOR WHICH NO DIVERSION IS TO BE PROVIDED[^c-23dc2a919f316c2650bdea094b777af8]
 
 | (1) Area | (2) Street, cycle track or public right of way to be temporarily closed | (3) Extent of temporary closure as shown on the access, rights of way and public rights of navigation plan |
 | --- | --- | --- |
@@ -57,6 +57,6 @@ Article 14
 
 ## Annotations
 
-[^key-d4ee49bf9d1b5c78aac1ae4a2a06edb3]: Commencement: Sch. 8 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-d4ee49bf9d1b5c78aac1ae4a2a06edb3]: Commencement: Sch. 8 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-23dc2a919f316c2650bdea094b777af8]: Commencement: Sch. 8 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-23dc2a919f316c2650bdea094b777af8]: Commencement: Sch. 8 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

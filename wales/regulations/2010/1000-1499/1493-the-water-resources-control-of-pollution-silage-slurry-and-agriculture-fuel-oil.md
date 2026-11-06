@@ -29,7 +29,7 @@ summary: ''
 
 WATER, WALES
 
-[^key-5226736f0a3a7c0ff3fcd84a0e89289b]The Water Resources (Control of Pollution) (Silage, Slurry and Agriculture Fuel Oil) (Wales) Regulations 2010 (revoked)
+[^c-5226736f0a3a7c0ff3fcd84a0e89289b]The Water Resources (Control of Pollution) (Silage, Slurry and Agriculture Fuel Oil) (Wales) Regulations 2010 (revoked)
 
 Made
 
@@ -43,128 +43,128 @@ Coming into force
 
 18 June 2010
 
-[^key-5226736f0a3a7c0ff3fcd84a0e89289b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5226736f0a3a7c0ff3fcd84a0e89289b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 1. Title, application and commencement[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 2. Interpretation[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Making or storage of silage[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 3. Making or storage of silage[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Storage of slurry[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 4. Storage of slurry[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Storage of fuel oil on farms[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 5. Storage of fuel oil on farms[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 6. Exemptions[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Notice requiring works etc.[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 7. Notice requiring works etc.[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Appeals against regulation 7 notices[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 8. Appeals against regulation 7 notices[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Notice of construction etc.[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 9. Notice of construction etc.[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Offences and penalties[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 10. Offences and penalties[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocations[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## 11. Revocations[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5226736f0a3a7c0ff3fcd84a0e89289b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5226736f0a3a7c0ff3fcd84a0e89289b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REQUIREMENTS FOR SILOS[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## SCHEDULE 1 — REQUIREMENTS FOR SILOS[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 Regulation 3(1)(a)
 
-**1.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — REQUIREMENTS FOR SLURRY STORAGE SYSTEMS[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## SCHEDULE 2 — REQUIREMENTS FOR SLURRY STORAGE SYSTEMS[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 Regulation 4(1)
 
-**1.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — REQUIREMENTS FOR FUEL OIL STORAGE AREAS[^key-5226736f0a3a7c0ff3fcd84a0e89289b]
+## SCHEDULE 3 — REQUIREMENTS FOR FUEL OIL STORAGE AREAS[^c-5226736f0a3a7c0ff3fcd84a0e89289b]
 
 Regulation 5(1)
 
-**1.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5226736f0a3a7c0ff3fcd84a0e89289b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5226736f0a3a7c0ff3fcd84a0e89289b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5226736f0a3a7c0ff3fcd84a0e89289b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5226736f0a3a7c0ff3fcd84a0e89289b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/1493) revoked (1.8.2024 in so far as not already in force) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/wsi/2021/77), [reg. 48(1)](https://www.legislation.gov.uk/wsi/2021/77/regulation/48/1)
+[^c-5226736f0a3a7c0ff3fcd84a0e89289b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/1493) revoked (1.8.2024 in so far as not already in force) by [The Water Resources (Control of Agricultural Pollution) (Wales) Regulations 2021 (S.I. 2021/77)](https://www.legislation.gov.uk/wsi/2021/77), [reg. 48(1)](https://www.legislation.gov.uk/wsi/2021/77/regulation/48/1)

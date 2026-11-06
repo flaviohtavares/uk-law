@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809BZQ. Accounts[^key-0c83ca665ee56878a07c9c410167e2ff]
+## 809BZQ. Accounts[^c-0c83ca665ee56878a07c9c410167e2ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c83ca665ee56878a07c9c410167e2ff]: Textual amendment: Ss. 809BZQ-809BZS and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/6) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-0c83ca665ee56878a07c9c410167e2ff]: Textual amendment: Ss. 809BZQ-809BZS and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2010/8/schedule/5/paragraph/6) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

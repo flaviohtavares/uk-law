@@ -37,8 +37,8 @@ summary: ''
 
 (4) If at any time the value of any shares or securities held by the investing company is less than the consideration given by the investing company for those shares or securities, it is to be assumed for the purposes of this section that the value of the shares or securities at that time is equal to the amount of that consideration.
 
-(5) In this section “**eligible shares**” has the same meaning as in Chapter 3 (see section 285(3A) and (3B)[^key-01e259d03d8809666ff2f0be51f20356]).
+(5) In this section “**eligible shares**” has the same meaning as in Chapter 3 (see section 285(3A) and (3B)[^c-01e259d03d8809666ff2f0be51f20356]).
 
 ## Annotations
 
-[^key-01e259d03d8809666ff2f0be51f20356]: Textual amendment: Words in s. 289(5) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(4), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(9)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/9); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)
+[^c-01e259d03d8809666ff2f0be51f20356]: Textual amendment: Words in s. 289(5) substituted (6.4.2011) (with effect in accordance with Sch. 2 paras. 7(4), 8 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 2 para. 2(9)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/2/paragraph/2/9); [S.I. 2011/662](https://www.legislation.gov.uk/uksi/2011/662), [art. 2](https://www.legislation.gov.uk/uksi/2011/662/article/2)

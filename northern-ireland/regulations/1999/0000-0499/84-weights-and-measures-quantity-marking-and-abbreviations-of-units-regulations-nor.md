@@ -42,7 +42,7 @@ The Department of Economic Development, in exercise of the powers conferred by A
 
 ## Part I — General
 
-### 1. Citation, commencement, interpretation and revocation[^key-5582ee29948ce196ebaaa4f22a35906b]
+### 1. Citation, commencement, interpretation and revocation[^c-5582ee29948ce196ebaaa4f22a35906b]
 
 (1) These Regulations may be cited as the Weights and Measures (Quantity Marking and Abbreviations of Units) Regulations (Northern Ireland) 1999 and shall come into operation on 31st March 1999.
 
@@ -52,18 +52,18 @@ The Department of Economic Development, in exercise of the powers conferred by A
 
 ## Part II — Quantity Marking of Containers and Units of Measurement to be Used in Marking
 
-### 2. Application of Part II[^key-7db70226ab27b2552699562078c0991f]
+### 2. Application of Part II[^c-7db70226ab27b2552699562078c0991f]
 
 (1) Subject to paragraph (2), this Part shall apply in respect of—
 
-- (a) the manner of the marking of any container required by or under Part V of the Order (other than Article 22A)[^key-7f1b66ba95f8dd6359bee7ef88621d60] [^key-7715a06abc8800759dee39fd666aabed]... to be marked with information as to quantity; and
+- (a) the manner of the marking of any container required by or under Part V of the Order (other than Article 22A)[^c-7f1b66ba95f8dd6359bee7ef88621d60] [^c-7715a06abc8800759dee39fd666aabed]... to be marked with information as to quantity; and
 - (b) the units of measurement to be used in marking any container required by or under Part V of the Order (other than Article 22A) to be marked with information as to quantity by measurement.
 
 (2) Regulation 5 shall not apply in relation to any catchweight product.
 
 (3) In this regulation “catchweight product” means any product which is not pre-packed according to a pre-determined fixed weight pattern, but is pre-packed in varying quantities.
 
-### 3. Marking with quantity by measurement[^key-5d2937439ffee54d31622cc8b8453e80]
+### 3. Marking with quantity by measurement[^c-5d2937439ffee54d31622cc8b8453e80]
 
 (1) Subject to paragraph (2), the marking of any container with information as to quantity by measurement shall comprise the numerical value of the unit of measurement expressed in words or figures and a reference to that unit expressed either in words or by means of the relevant symbol or abbreviation which may lawfully be used for trade in relation to that unit under Part III.
 
@@ -75,7 +75,7 @@ The Department of Economic Development, in exercise of the powers conferred by A
 
 (5) A metric quantity used in the marking shall not be expressed as a vulgar fraction.
 
-### 4. Legibility and position of marking[^key-07f377dc6a9a707e3b62eac40b6e6657]
+### 4. Legibility and position of marking[^c-07f377dc6a9a707e3b62eac40b6e6657]
 
 Any marking of a container with information as to quantity—
 
@@ -84,7 +84,7 @@ Any marking of a container with information as to quantity—
 - (c) shall not in any way be hidden, obscured or interrupted by any other written or pictorial matter; and
 - (d) if it is not on the actual container or on a label securely attached to the container, shall be so placed that it cannot be removed without opening the container.
 
-### 5. Size of marking[^key-db47b0a26ef0bbb9b8eaa57a917f8e59]
+### 5. Size of marking[^c-db47b0a26ef0bbb9b8eaa57a917f8e59]
 
 (1) Subject to regulation 2(2), where in any marking of any container the quantity by number or the numerical value of a unit of measurement is expressed in figures, all the relevant figures shall be at least the height specified in the second column of the Table set out in Schedule 1 in relation to—
 
@@ -93,7 +93,7 @@ Any marking of a container with information as to quantity—
 
 (2) The numerator and denominator together indicating a vulgar fraction of a unit of measurement shall appear one on top of the other and for the purposes of paragraph (1) shall be treated as a single figure.
 
-### 6. Metric and imperial units of measurement[^key-02dcd0972a453d7904eaae75d5948bfe]
+### 6. Metric and imperial units of measurement[^c-02dcd0972a453d7904eaae75d5948bfe]
 
 (1) Subject to paragraphs (2), (3) and (4), the marking of any container with information as to quantity by measurement shall be in metric units of measurement.
 
@@ -105,11 +105,11 @@ Any marking of a container with information as to quantity—
 
 (5) Paragraph (3) shall be omitted with effect from 1st January 2000.
 
-### 7. Units of measurement to be used in marking[^key-6176a151c11de6525b0103f9110b1e5c]
+### 7. Units of measurement to be used in marking[^c-6176a151c11de6525b0103f9110b1e5c]
 
 Subject to paragraphs (2), (3) and (4) of regulation 6, the units of measurement to be used in marking any container with information as to quantity by measurement are those set out in Column 2 of Schedule 2 appropriate to the measurement being marked set out in Column 1 of that Schedule.
 
-### 8. Amendment of the Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 1990[^key-3584e3aa6b220f8772bc847cdee8b390]
+### 8. Amendment of the Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 1990[^c-3584e3aa6b220f8772bc847cdee8b390]
 
 (1) Regulation 10 of the Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 1990 shall be amended as follows:
 
@@ -134,11 +134,11 @@ Subject to paragraphs (2), (3) and (4) of regulation 6, the units of measurement
 
 ## Part III — Use for Trade of Abbreviations of, or Symbols for, Units of Measurement
 
-### 9. Application of Part III[^key-0bc2b161461644a5f0a314fe25d38c29]
+### 9. Application of Part III[^c-0bc2b161461644a5f0a314fe25d38c29]
 
 This Part shall apply as respects the use for trade (other than for the purpose of marking weighing or measuring equipment) of abbreviations of, or symbols for, units of measurement.
 
-### 10. Restriction on the use for trade of abbreviations and symbols[^key-68923de7c8c81d846a6d79f28861f147]
+### 10. Restriction on the use for trade of abbreviations and symbols[^c-68923de7c8c81d846a6d79f28861f147]
 
 (1) Only those symbols set out in Column 2 of Schedule 3 may be used for trade to indicate the relevant unit of measurement set out in Column 1 of that Schedule.
 
@@ -158,7 +158,7 @@ Assistant Secretary
 
 25th February 1999.
 
-## Schedule 1 — Table of Size of Figures in Quantity Marking of Containers[^key-cfb6323de297aa8d7b38b250fefe6828]
+## Schedule 1 — Table of Size of Figures in Quantity Marking of Containers[^c-cfb6323de297aa8d7b38b250fefe6828]
 
 regulation 5
 
@@ -198,7 +198,7 @@ regulation 5
 </tbody>
 </table>
 
-## Schedule 2 — Units of Measurement to be used in Quantity Marking[^key-91eedf95babad2aa89a2a5c183f5a534]
+## Schedule 2 — Units of Measurement to be used in Quantity Marking[^c-91eedf95babad2aa89a2a5c183f5a534]
 
 regulation 7
 
@@ -227,7 +227,7 @@ regulation 7
 </tbody>
 </table>
 
-## Schedule 3 — Symbols for Units of Measurement which may be used for Trade[^key-6a632c7683b9cd53d6902bdfa6087360]
+## Schedule 3 — Symbols for Units of Measurement which may be used for Trade[^c-6a632c7683b9cd53d6902bdfa6087360]
 
 regulation 10
 
@@ -284,36 +284,36 @@ These Regulations have been notified to the European Commission pursuant to Coun
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
-[^key-5582ee29948ce196ebaaa4f22a35906b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/84/regulation/1) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-5582ee29948ce196ebaaa4f22a35906b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1999/84/regulation/1) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1991 No. 320](https://www.legislation.gov.uk/nisr/1991/320)
 
-[^key-7db70226ab27b2552699562078c0991f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/84/regulation/2) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-7db70226ab27b2552699562078c0991f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1999/84/regulation/2) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-7f1b66ba95f8dd6359bee7ef88621d60]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/2/1) inserted (18.4.2016) by [The Weights and Measures (Food) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/187)](https://www.legislation.gov.uk/nisr/2016/187), [art. 34](https://www.legislation.gov.uk/nisr/2016/187/article/34), [reg. 1](https://www.legislation.gov.uk/nisr/2016/187/regulation/1)
+[^c-7f1b66ba95f8dd6359bee7ef88621d60]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/2/1) inserted (18.4.2016) by [The Weights and Measures (Food) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/187)](https://www.legislation.gov.uk/nisr/2016/187), [art. 34](https://www.legislation.gov.uk/nisr/2016/187/article/34), [reg. 1](https://www.legislation.gov.uk/nisr/2016/187/regulation/1)
 
-[^key-7715a06abc8800759dee39fd666aabed]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/1999/84/regulation/2/1/a) omitted (1.11.2011) by virtue of [The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011/331)](https://www.legislation.gov.uk/nisr/2011/331), [reg. 1](https://www.legislation.gov.uk/nisr/2011/331/regulation/1), [Sch. 1 Pt. 2 para. 14](https://www.legislation.gov.uk/nisr/2011/331/schedule/1/paragraph/14) (with [regs. 3](https://www.legislation.gov.uk/nisr/2011/331/regulation/3), [21](https://www.legislation.gov.uk/nisr/2011/331/regulation/21))
+[^c-7715a06abc8800759dee39fd666aabed]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/1999/84/regulation/2/1/a) omitted (1.11.2011) by virtue of [The Weights and Measures (Packaged Goods) Regulations (Northern Ireland) 2011 (S.R. 2011/331)](https://www.legislation.gov.uk/nisr/2011/331), [reg. 1](https://www.legislation.gov.uk/nisr/2011/331/regulation/1), [Sch. 1 Pt. 2 para. 14](https://www.legislation.gov.uk/nisr/2011/331/schedule/1/paragraph/14) (with [regs. 3](https://www.legislation.gov.uk/nisr/2011/331/regulation/3), [21](https://www.legislation.gov.uk/nisr/2011/331/regulation/21))
 
-[^key-5d2937439ffee54d31622cc8b8453e80]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/84/regulation/3) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-5d2937439ffee54d31622cc8b8453e80]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1999/84/regulation/3) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-07f377dc6a9a707e3b62eac40b6e6657]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/84/regulation/4) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-07f377dc6a9a707e3b62eac40b6e6657]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1999/84/regulation/4) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-db47b0a26ef0bbb9b8eaa57a917f8e59]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/84/regulation/5) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-db47b0a26ef0bbb9b8eaa57a917f8e59]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1999/84/regulation/5) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-02dcd0972a453d7904eaae75d5948bfe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/84/regulation/6) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-02dcd0972a453d7904eaae75d5948bfe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1999/84/regulation/6) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
 [^f00005]: Footnote: Article 6(7A) of the Order was inserted by regulation 4(2) of [S.R. 1995 No. 226](https://www.legislation.gov.uk/nisr/1995/226)
 
-[^key-6176a151c11de6525b0103f9110b1e5c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1999/84/regulation/7) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-6176a151c11de6525b0103f9110b1e5c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1999/84/regulation/7) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-3584e3aa6b220f8772bc847cdee8b390]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1999/84/regulation/8) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-3584e3aa6b220f8772bc847cdee8b390]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1999/84/regulation/8) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-0bc2b161461644a5f0a314fe25d38c29]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1999/84/regulation/9) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-0bc2b161461644a5f0a314fe25d38c29]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1999/84/regulation/9) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-68923de7c8c81d846a6d79f28861f147]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1999/84/regulation/10) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-68923de7c8c81d846a6d79f28861f147]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1999/84/regulation/10) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-cfb6323de297aa8d7b38b250fefe6828]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1999/84/schedule/1) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-cfb6323de297aa8d7b38b250fefe6828]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/1999/84/schedule/1) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-91eedf95babad2aa89a2a5c183f5a534]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1999/84/schedule/2) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-91eedf95babad2aa89a2a5c183f5a534]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/1999/84/schedule/2) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
 
-[^key-6a632c7683b9cd53d6902bdfa6087360]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/1999/84/schedule/3) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)
+[^c-6a632c7683b9cd53d6902bdfa6087360]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/1999/84/schedule/3) in operation at 31.3.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/84/regulation/1/1)

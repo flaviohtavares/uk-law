@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Publication of proposals – governing body proposed[^key-678cb107c8d9f4df4468701850f2f05b]
+## 6. Publication of proposals – governing body proposed[^c-678cb107c8d9f4df4468701850f2f05b]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-678cb107c8d9f4df4468701850f2f05b]: Commencement: Reg. 6 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-678cb107c8d9f4df4468701850f2f05b]: Commencement: Reg. 6 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where a person—
 
-- (a) is aggrieved by an order, determination or other decision of a magistrates’ court under, or under an instrument made under, this Part or Part 4 as it applies in relation to this Part,[^key-0e3b1d96953b55292ea373d9dd974a53] and
+- (a) is aggrieved by an order, determination or other decision of a magistrates’ court under, or under an instrument made under, this Part or Part 4 as it applies in relation to this Part,[^c-0e3b1d96953b55292ea373d9dd974a53] and
 - (b) is not by any other enactment authorised to appeal to the Crown Court.
 
 he may appeal to the Crown Court.
@@ -31,4 +31,4 @@ he may appeal to the Crown Court.
 
 ## Annotations
 
-[^key-0e3b1d96953b55292ea373d9dd974a53]: Textual amendment: Words in [s. 41(1)(a)](https://www.legislation.gov.uk/ukpga/1984/55/section/41/1/a) substituted (1.10.2023 except in relation to W., 6.4.2024 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/36); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xi)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xi); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(xi)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/xi), [Sch.](https://www.legislation.gov.uk/wsi/2024/207/schedule) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))
+[^c-0e3b1d96953b55292ea373d9dd974a53]: Textual amendment: Words in [s. 41(1)(a)](https://www.legislation.gov.uk/ukpga/1984/55/section/41/1/a) substituted (1.10.2023 except in relation to W., 6.4.2024 for W.) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)[(c)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/c), [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2022/30/schedule/5/paragraph/36); [S.I. 2023/993](https://www.legislation.gov.uk/uksi/2023/993), [reg. 2(n)(xi)](https://www.legislation.gov.uk/uksi/2023/993/regulation/2/n/xi); [S.I. 2024/207](https://www.legislation.gov.uk/wsi/2024/207), [reg. 2(d)(xi)](https://www.legislation.gov.uk/wsi/2024/207/regulation/2/d/xi), [Sch.](https://www.legislation.gov.uk/wsi/2024/207/schedule) (with [regs. 3](https://www.legislation.gov.uk/wsi/2024/207/regulation/3), [4](https://www.legislation.gov.uk/wsi/2024/207/regulation/4), [8-12](https://www.legislation.gov.uk/wsi/2024/207/regulation/8))

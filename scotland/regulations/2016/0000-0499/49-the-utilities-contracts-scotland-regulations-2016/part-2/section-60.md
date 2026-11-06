@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Test reports, certificates and other means of proof[^key-a06577789b3632ed58dd7a7c60b7b505]
+## 60. Test reports, certificates and other means of proof[^c-a06577789b3632ed58dd7a7c60b7b505]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a06577789b3632ed58dd7a7c60b7b505]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2016/49/regulation/60) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-a06577789b3632ed58dd7a7c60b7b505]: Commencement: [Reg. 60](https://www.legislation.gov.uk/ssi/2016/49/regulation/60) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
 
 [^f00042]: Footnote: OJ L 218, 13.8.2008, p.30.

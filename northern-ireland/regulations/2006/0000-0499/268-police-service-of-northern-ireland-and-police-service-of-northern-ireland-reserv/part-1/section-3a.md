@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3A. Members with 2015 scheme service[^key-b74434fd2c77656c716b2420efc2bb78]
+## 3A. Members with 2015 scheme service[^c-b74434fd2c77656c716b2420efc2bb78]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ This regulation applies in relation to a police officer who is a member of the 2
 - (a) for a transition member with continuity of service, as if that person had remained in the 1988 scheme or the 2006 scheme, as the case may be (see regulation 3);
 - (b) for a member of the 2015 scheme who is not a transition member with continuity of service, according to the formula—
 
-  **P x AP[^key-b308d10846ee181d52efbd58fec38c9c]**
+  **P x AP[^c-b308d10846ee181d52efbd58fec38c9c]**
 
 where—
 
@@ -90,6 +90,6 @@ where—
 
 ## Annotations
 
-[^key-b74434fd2c77656c716b2420efc2bb78]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2006/268/regulation/3A) inserted (1.4.2021) by [The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2021 (S.R. 2021/43)](https://www.legislation.gov.uk/nisr/2021/43), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/43/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2021/43/regulation/4/2)
+[^c-b74434fd2c77656c716b2420efc2bb78]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2006/268/regulation/3A) inserted (1.4.2021) by [The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) Regulations 2021 (S.R. 2021/43)](https://www.legislation.gov.uk/nisr/2021/43), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/43/regulation/1/2), [4(2)](https://www.legislation.gov.uk/nisr/2021/43/regulation/4/2)
 
-[^key-b308d10846ee181d52efbd58fec38c9c]: Textual amendment: Words in [reg. 3A(5)(b)](https://www.legislation.gov.uk/nisr/2006/268/regulation/3A/5/b) substituted (with effect in accordance with reg. 2 of the amending Rule) by [The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) (No. 2) Regulations 2024 (S.R. 2024/147)](https://www.legislation.gov.uk/nisr/2024/147), [regs. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2), [6](https://www.legislation.gov.uk/nisr/2024/147/regulation/6)
+[^c-b308d10846ee181d52efbd58fec38c9c]: Textual amendment: Words in [reg. 3A(5)(b)](https://www.legislation.gov.uk/nisr/2006/268/regulation/3A/5/b) substituted (with effect in accordance with reg. 2 of the amending Rule) by [The Police Service of Northern Ireland and Police Service of Northern Ireland Reserve (Injury Benefit) (Amendment) (No. 2) Regulations 2024 (S.R. 2024/147)](https://www.legislation.gov.uk/nisr/2024/147), [regs. 2](https://www.legislation.gov.uk/nisr/2024/147/regulation/2), [6](https://www.legislation.gov.uk/nisr/2024/147/regulation/6)

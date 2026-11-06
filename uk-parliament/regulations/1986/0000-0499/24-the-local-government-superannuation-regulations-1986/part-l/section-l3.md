@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L3. Loss of employment through permanent incapacity[^key-0cd917b090a37a98a5fbd5a9d6b24f2c]
+## L3. Loss of employment through permanent incapacity[^c-0cd917b090a37a98a5fbd5a9d6b24f2c]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cd917b090a37a98a5fbd5a9d6b24f2c]: Commencement: [Reg. L3](https://www.legislation.gov.uk/uksi/1986/24/regulation/L3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-0cd917b090a37a98a5fbd5a9d6b24f2c]: Commencement: [Reg. L3](https://www.legislation.gov.uk/uksi/1986/24/regulation/L3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

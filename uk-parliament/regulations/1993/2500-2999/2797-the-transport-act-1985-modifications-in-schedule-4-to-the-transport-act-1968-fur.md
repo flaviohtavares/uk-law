@@ -44,14 +44,14 @@ Coming into force
 
 The Secretary of State for Transport in exercise of the power conferred by section 129(5) of the Transport Act 1985[^f00001] and of all other powers enabling him in that behalf hereby makes the following Order:—
 
-**1.**[^key-432de643e646e61c22258e095921a8b1] This Order may be cited as the Transport Act 1985 (Modifications in Schedule 4 to the Transport Act 1968) (Further Modification) Order 1993 and shall come into force on 9th December 1993.
+**1.**[^c-432de643e646e61c22258e095921a8b1] This Order may be cited as the Transport Act 1985 (Modifications in Schedule 4 to the Transport Act 1968) (Further Modification) Order 1993 and shall come into force on 9th December 1993.
 
-**2.**[^key-733bdd6607c37613e173a9c143fa2359] In this Order—
+**2.**[^c-733bdd6607c37613e173a9c143fa2359] In this Order—
 
 - “the Act” means the Transport Act 1985; and
 - “Schedule 4 as modified” means Schedule 4 to the Transport Act 1968[^f00002] as modified for the purposes of its application to transfers under section 50(4), 59(7), 61(11) or 68(7) of the Act by the Transport Act 1985 (Modifications in Schedule 4 to the Transport Act 1968) Order 1985[^f00003].
 
-**3.**[^key-436de5ab4b83e72a1a8a46103972f324] Schedule 4 as modified is further modified for the purposes of its application to transfers under section 61(11) of the Act by the insertion after paragraph 10 of that Schedule of paragraph 10A as set out in the Schedule to this Order.
+**3.**[^c-436de5ab4b83e72a1a8a46103972f324] Schedule 4 as modified is further modified for the purposes of its application to transfers under section 61(11) of the Act by the insertion after paragraph 10 of that Schedule of paragraph 10A as set out in the Schedule to this Order.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -63,7 +63,7 @@ Department of Transport
 
 11th November 1993
 
-## SCHEDULE — PARAGRAPH TO BE INSERTED IN SCHEDULE 4 AS MODIFIED[^key-eaff3a551325c408b90c5cfa80c824e6]
+## SCHEDULE — PARAGRAPH TO BE INSERTED IN SCHEDULE 4 AS MODIFIED[^c-eaff3a551325c408b90c5cfa80c824e6]
 
 Article 3
 
@@ -147,14 +147,14 @@ This Order makes a further modification to Schedule 4 to the Transport Act 1968,
 
 [^f00001]: Footnote: [1985 c. 67](https://www.legislation.gov.uk/ukpga/1985/67).
 
-[^key-432de643e646e61c22258e095921a8b1]: Commencement: Art. 1 in force at 6.12.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/2797/article/1)
+[^c-432de643e646e61c22258e095921a8b1]: Commencement: Art. 1 in force at 6.12.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/2797/article/1)
 
-[^key-733bdd6607c37613e173a9c143fa2359]: Commencement: Art. 2 in force at 6.12.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/2797/article/1)
+[^c-733bdd6607c37613e173a9c143fa2359]: Commencement: Art. 2 in force at 6.12.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/2797/article/1)
 
 [^f00002]: Footnote: [1968 c. 73](https://www.legislation.gov.uk/ukpga/1968/73).
 
 [^f00003]: Footnote: S.I.[1985/1903](https://www.legislation.gov.uk/uksi/1985/1903), to which there is an amendment not relevant to this Order.
 
-[^key-436de5ab4b83e72a1a8a46103972f324]: Commencement: Art. 3 in force at 6.12.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/2797/article/1)
+[^c-436de5ab4b83e72a1a8a46103972f324]: Commencement: Art. 3 in force at 6.12.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/2797/article/1)
 
-[^key-eaff3a551325c408b90c5cfa80c824e6]: Commencement: Sch. in force at 6.12.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/2797/article/1)
+[^c-eaff3a551325c408b90c5cfa80c824e6]: Commencement: Sch. in force at 6.12.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1993/2797/article/1)

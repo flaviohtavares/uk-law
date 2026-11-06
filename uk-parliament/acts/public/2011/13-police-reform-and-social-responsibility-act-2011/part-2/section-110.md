@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Reducing the burden: club premises certificates[^key-045c1f26cfe708200fc5711286a15511]
+## 110. Reducing the burden: club premises certificates[^c-045c1f26cfe708200fc5711286a15511]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-045c1f26cfe708200fc5711286a15511]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2011/13/section/110) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-045c1f26cfe708200fc5711286a15511]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2011/13/section/110) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

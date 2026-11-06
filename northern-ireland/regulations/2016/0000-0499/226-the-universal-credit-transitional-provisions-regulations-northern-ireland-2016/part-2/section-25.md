@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Transition from other incapacity benefits: claimants approaching pensionable age[^key-13b247a47d1c19dce6de40a53abf6b24]
+## 25. Transition from other incapacity benefits: claimants approaching pensionable age[^c-13b247a47d1c19dce6de40a53abf6b24]
 
 *Extent: N.I.*
 
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-13b247a47d1c19dce6de40a53abf6b24]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/226/regulation/25) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
+[^c-13b247a47d1c19dce6de40a53abf6b24]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2016/226/regulation/25) coming into operation in accordance with [reg. 1](https://www.legislation.gov.uk/nisr/2016/226/regulation/1)
 
 [^f00040]: Footnote: *See* Articles 83-85 of the Order.
 

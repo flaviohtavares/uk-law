@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Offence of displaying on access land notices deterring public use.[^key-f8c892029e11a4a436627bf7b808ec40][^key-9c24604f08b1de628d99e4376879767e]
+## 14. Offence of displaying on access land notices deterring public use.[^c-f8c892029e11a4a436627bf7b808ec40][^c-9c24604f08b1de628d99e4376879767e]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ a notice containing any false or misleading information likely to deter the publ
 
 ## Annotations
 
-[^key-f8c892029e11a4a436627bf7b808ec40]: Commencement: S. 14 in force at 19.9.2004 for E. by [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/d)
+[^c-f8c892029e11a4a436627bf7b808ec40]: Commencement: S. 14 in force at 19.9.2004 for E. by [S.I. 2004/2173](https://www.legislation.gov.uk/uksi/2004/2173), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2004/2173/article/2/1/d)
 
-[^key-9c24604f08b1de628d99e4376879767e]: Commencement: S. 14 in force at 28.5.2005 for W. by [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/423/article/2/d)
+[^c-9c24604f08b1de628d99e4376879767e]: Commencement: S. 14 in force at 28.5.2005 for W. by [S.I. 2005/423](https://www.legislation.gov.uk/uksi/2005/423), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/423/article/2/d)

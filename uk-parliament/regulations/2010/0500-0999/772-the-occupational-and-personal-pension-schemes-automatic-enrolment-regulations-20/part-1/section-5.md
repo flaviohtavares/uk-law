@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Pay reference periods for the purposes of section 20(1)(b) and (c) and section 26(4)(b) and (5)(b) of the Act[^key-6d43fae92dc53fefd60b7af356c885df]
+## 5. Pay reference periods for the purposes of section 20(1)(b) and (c) and section 26(4)(b) and (5)(b) of the Act[^c-6d43fae92dc53fefd60b7af356c885df]
 
 *Extent: E+W+S*
 
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d43fae92dc53fefd60b7af356c885df]: Textual amendment: Reg. 5 substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/3)
+[^c-6d43fae92dc53fefd60b7af356c885df]: Textual amendment: Reg. 5 substituted (1.11.2013) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/2556)](https://www.legislation.gov.uk/uksi/2013/2556), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2013/2556/regulation/5/3)

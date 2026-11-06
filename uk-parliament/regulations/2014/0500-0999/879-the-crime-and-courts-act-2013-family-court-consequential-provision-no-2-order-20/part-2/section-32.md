@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**32.**[^key-d5fffe4c8575105be48fb5327d429ac8] Omit paragraphs 8(4) and 9(2A).
+**32.**[^c-d5fffe4c8575105be48fb5327d429ac8] Omit paragraphs 8(4) and 9(2A).
 
 ## Annotations
 
-[^key-d5fffe4c8575105be48fb5327d429ac8]: Commencement: Art. 32 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-d5fffe4c8575105be48fb5327d429ac8]: Commencement: Art. 32 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Part 7: interpretation[^key-288cd45fd01268cefca37dd1ea2eb305]
+## 226. Part 7: interpretation[^c-288cd45fd01268cefca37dd1ea2eb305]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-288cd45fd01268cefca37dd1ea2eb305]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2016/25/section/226) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/v)
+[^c-288cd45fd01268cefca37dd1ea2eb305]: Commencement: [S. 226](https://www.legislation.gov.uk/ukpga/2016/25/section/226) in force at 25.7.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(v)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/v)

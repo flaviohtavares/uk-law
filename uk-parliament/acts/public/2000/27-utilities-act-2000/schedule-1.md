@@ -38,12 +38,12 @@ Section 1(4).
 
 (2) The terms of appointment of the chairman and other members shall be determined by the Secretary of State.
 
-**2A.**[^key-60ad9fda11c809b82ef060879818b4d5] A person holding office as chairman or other member must not—
+**2A.**[^c-60ad9fda11c809b82ef060879818b4d5] A person holding office as chairman or other member must not—
 
-- (a) seek or take any instructions that might compromise, or might reasonably be seen to compromise, the independence of the Authority in relation to its designated regulatory functions[^key-a42cd60760ae0b2d672afab202602860]; or
+- (a) seek or take any instructions that might compromise, or might reasonably be seen to compromise, the independence of the Authority in relation to its designated regulatory functions[^c-a42cd60760ae0b2d672afab202602860]; or
 - (b) carry out any other activity, or have any financial or other interest, that might compromise, or might reasonably be seen to compromise, that person’s impartiality.
 
-**3.**[^key-eff7047c96776b74aaa6bb350436de13] (1) An appointment of a person to hold office as chairman or other member must be for a term of not less than 5 years and not more than 7 years.
+**3.**[^c-eff7047c96776b74aaa6bb350436de13] (1) An appointment of a person to hold office as chairman or other member must be for a term of not less than 5 years and not more than 7 years.
 
 (2) But in appointing as chairman or other member a person who is on the Authority’s staff, the Secretary of State may make the appointment subject to a condition that the appointment will end if that person ceases to be on the Authority’s staff.
 
@@ -108,7 +108,7 @@ Section 1(4).
 
 (2) Sub-paragraph (1) does not apply to any power to make statutory instruments.
 
-(2A)[^key-1ca0cc1e358bb01e9c302bb6b353b863] Sub-paragraph (1) is subject to provision in rules made under section 51 of the Competition Act 1998 by virtue of paragraph 1A of Schedule 9 to that Act in respect of the exercise of a function under Part 1 of that Act.
+(2A)[^c-1ca0cc1e358bb01e9c302bb6b353b863] Sub-paragraph (1) is subject to provision in rules made under section 51 of the Competition Act 1998 by virtue of paragraph 1A of Schedule 9 to that Act in respect of the exercise of a function under Part 1 of that Act.
 
 (3) In sub-paragraph (1)(b) “committee of the Authority” does not include a committee whose members include any person who is not a member or employee of the Authority.
 
@@ -126,12 +126,12 @@ Section 1(4).
 
 ## Annotations
 
-[^key-60ad9fda11c809b82ef060879818b4d5]: Textual amendment: Sch. 1 para. 2A inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/24/2)
+[^c-60ad9fda11c809b82ef060879818b4d5]: Textual amendment: Sch. 1 para. 2A inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [24(2)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/24/2)
 
-[^key-a42cd60760ae0b2d672afab202602860]: Textual amendment: Words in Sch. 1 para. 2A substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [71](https://www.legislation.gov.uk/uksi/2019/530/regulation/71); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a42cd60760ae0b2d672afab202602860]: Textual amendment: Words in Sch. 1 para. 2A substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [71](https://www.legislation.gov.uk/uksi/2019/530/regulation/71); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eff7047c96776b74aaa6bb350436de13]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2000/27/schedule/1/paragraph/3) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/24/3)
+[^c-eff7047c96776b74aaa6bb350436de13]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2000/27/schedule/1/paragraph/3) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [24(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/24/3)
 
-[^key-1ca0cc1e358bb01e9c302bb6b353b863]: Textual amendment: [Sch. 1 para. 9(2A)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/1/paragraph/9/2A) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/13); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-1ca0cc1e358bb01e9c302bb6b353b863]: Textual amendment: [Sch. 1 para. 9(2A)](https://www.legislation.gov.uk/ukpga/2000/27/schedule/1/paragraph/9/2A) inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2013/24/schedule/15/paragraph/13); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/f) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c1259250]: Marginal citation: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).

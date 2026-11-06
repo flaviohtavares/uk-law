@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14A. Delegation of archbishop’s functions[^key-d94a57ccfba1acef4c02ad0482317f10]
+## 14A. Delegation of archbishop’s functions[^c-d94a57ccfba1acef4c02ad0482317f10]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d94a57ccfba1acef4c02ad0482317f10]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukcm/2007/1/section/14A) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 6(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/6/1), [22(2)(e)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/e)
+[^c-d94a57ccfba1acef4c02ad0482317f10]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukcm/2007/1/section/14A) inserted (25.1.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 6(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/6/1), [22(2)(e)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/e)

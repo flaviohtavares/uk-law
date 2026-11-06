@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Payment of pension instead of lump sum for members who have reached 75[^key-7a30265bd425e6a03990edd17ae3c491]
+## 127. Payment of pension instead of lump sum for members who have reached 75[^c-7a30265bd425e6a03990edd17ae3c491]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a30265bd425e6a03990edd17ae3c491]: Commencement: [Reg. 127](https://www.legislation.gov.uk/uksi/2014/1964/regulation/127) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-7a30265bd425e6a03990edd17ae3c491]: Commencement: [Reg. 127](https://www.legislation.gov.uk/uksi/2014/1964/regulation/127) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

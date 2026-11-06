@@ -42,11 +42,11 @@ Coming into force
 
 The Department of Justice, in exercise of the powers conferred by Article 40(3) of the Criminal Justice (Northern Ireland) Order 2008[^f00001], makes the following Order.
 
-## 1. Citation and commencement[^key-326803c9e9ad151c7ddad9bf0b3a98b4]
+## 1. Citation and commencement[^c-326803c9e9ad151c7ddad9bf0b3a98b4]
 
 This Order may be cited as the Electronic Monitoring Requirements (Responsible Officer) (Amendment) Order (Northern Ireland) 2025 and shall come into operation on 1 July 2025.
 
-## 2. Amendment of the Electronic Monitoring Requirement (Responsible Officer) Order (Northern Ireland) 2009[^key-b6bbb1d249f1484a62ff0c19eb238b79]
+## 2. Amendment of the Electronic Monitoring Requirement (Responsible Officer) Order (Northern Ireland) 2009[^c-b6bbb1d249f1484a62ff0c19eb238b79]
 
 (1) The Electronic Monitoring Requirements (Responsible Officer) Order (Northern Ireland) 2009[^f00002] is amended as follows;
 
@@ -70,8 +70,8 @@ Article 2 of this Order adds a further person that shall be made responsible for
 
 [^f00001]: Footnote: [S.I. 2008 / 1216 (N.I. 1)](https://www.legislation.gov.uk/nisi/2008/1216)
 
-[^key-326803c9e9ad151c7ddad9bf0b3a98b4]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/80/article/1) in operation at 1.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/80/article/1)
+[^c-326803c9e9ad151c7ddad9bf0b3a98b4]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2025/80/article/1) in operation at 1.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/80/article/1)
 
-[^key-b6bbb1d249f1484a62ff0c19eb238b79]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/80/article/2) in operation at 1.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/80/article/1)
+[^c-b6bbb1d249f1484a62ff0c19eb238b79]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2025/80/article/2) in operation at 1.7.2025, see [art. 1](https://www.legislation.gov.uk/nisr/2025/80/article/1)
 
 [^f00002]: Footnote: [SR (NI) 2009/83](https://www.legislation.gov.uk/nisr/2009/83)

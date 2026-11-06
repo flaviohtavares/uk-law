@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. General defence of due diligence[^key-8d324bfcd5270b918a7da0cd9368ee7a]
+## 109. General defence of due diligence[^c-8d324bfcd5270b918a7da0cd9368ee7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ the defendant has served on the prosecutor a notice giving such information iden
 
 ## Annotations
 
-[^key-8d324bfcd5270b918a7da0cd9368ee7a]: Commencement: S. 109 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-8d324bfcd5270b918a7da0cd9368ee7a]: Commencement: S. 109 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

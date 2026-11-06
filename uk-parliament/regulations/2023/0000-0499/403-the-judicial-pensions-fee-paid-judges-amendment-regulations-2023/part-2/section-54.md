@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendment of regulation 112[^key-40c8e0660c47cd19777713c17b783ecf]
+## 54. Amendment of regulation 112[^c-40c8e0660c47cd19777713c17b783ecf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 112, in the regulation heading and in the opening words of paragra
 
 ## Annotations
 
-[^key-40c8e0660c47cd19777713c17b783ecf]: Commencement: Reg. 54 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-40c8e0660c47cd19777713c17b783ecf]: Commencement: Reg. 54 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

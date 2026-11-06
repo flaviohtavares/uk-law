@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 589. Interpretation of the 2000 Regulations[^key-7699723fe305822875864dbf08a2d259]
+## 589. Interpretation of the 2000 Regulations[^c-7699723fe305822875864dbf08a2d259]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7699723fe305822875864dbf08a2d259]: Commencement: Art. 589 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-7699723fe305822875864dbf08a2d259]: Commencement: Art. 589 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Provision of primary ophthalmic services[^key-64d9519ed561b75d2c88c94344fb8006][^key-edc97a4e8d2b98185ad68adea5e8891a]
+## 37. Provision of primary ophthalmic services[^c-64d9519ed561b75d2c88c94344fb8006][^c-edc97a4e8d2b98185ad68adea5e8891a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64d9519ed561b75d2c88c94344fb8006]: Textual amendment: Ss. 37-42 repealed (1.3.2007 coming into force in accordance with s. 8(4)-(6)) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-64d9519ed561b75d2c88c94344fb8006]: Textual amendment: Ss. 37-42 repealed (1.3.2007 coming into force in accordance with s. 8(4)-(6)) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
-[^key-edc97a4e8d2b98185ad68adea5e8891a]: Commencement: S. 37 in force at 1.8.2008 by [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1972/article/2/a)
+[^c-edc97a4e8d2b98185ad68adea5e8891a]: Commencement: S. 37 in force at 1.8.2008 by [S.I. 2008/1972](https://www.legislation.gov.uk/uksi/2008/1972), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/1972/article/2/a)

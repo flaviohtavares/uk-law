@@ -34,7 +34,7 @@ Proceeds Of Crime, England And Wales
 
 Proceeds Of Crime, Northern Ireland
 
-The Proceeds of Crime Act 2002 (Investigative Powers of Prosecutors: Code of Practice) Order 2021 (revoked)[^key-4963b47740296ad6504baf4d420fe8b2]
+The Proceeds of Crime Act 2002 (Investigative Powers of Prosecutors: Code of Practice) Order 2021 (revoked)[^c-4963b47740296ad6504baf4d420fe8b2]
 
 Made
 
@@ -44,26 +44,26 @@ Coming into force
 
 28th June 2021
 
-[^key-4963b47740296ad6504baf4d420fe8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4963b47740296ad6504baf4d420fe8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4963b47740296ad6504baf4d420fe8b2]
+## 1. Citation and commencement[^c-4963b47740296ad6504baf4d420fe8b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised code of practice[^key-4963b47740296ad6504baf4d420fe8b2]
+## 2. Revised code of practice[^c-4963b47740296ad6504baf4d420fe8b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-4963b47740296ad6504baf4d420fe8b2]
+## 3. Revocation[^c-4963b47740296ad6504baf4d420fe8b2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4963b47740296ad6504baf4d420fe8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4963b47740296ad6504baf4d420fe8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4963b47740296ad6504baf4d420fe8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4963b47740296ad6504baf4d420fe8b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4963b47740296ad6504baf4d420fe8b2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/747) revoked (26.4.2024) by [The Proceeds of Crime Act 2002 (Investigative Powers of Prosecutors: Code of Practice) Order 2024 (S.I. 2024/542)](https://www.legislation.gov.uk/uksi/2024/542), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/542/article/1/2), [3](https://www.legislation.gov.uk/uksi/2024/542/article/3)
+[^c-4963b47740296ad6504baf4d420fe8b2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/747) revoked (26.4.2024) by [The Proceeds of Crime Act 2002 (Investigative Powers of Prosecutors: Code of Practice) Order 2024 (S.I. 2024/542)](https://www.legislation.gov.uk/uksi/2024/542), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/542/article/1/2), [3](https://www.legislation.gov.uk/uksi/2024/542/article/3)

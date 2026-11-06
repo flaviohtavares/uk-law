@@ -46,13 +46,13 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 of the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation, commencement and extent[^key-87087df4da78716bda1d3df13e176268]
+## 1. Citation, commencement and extent[^c-87087df4da78716bda1d3df13e176268]
 
 (1) These Regulations may be cited as the Universal Credit (Administrative Earnings Threshold) (Amendment) Regulations (Northern Ireland) 2022 and come into operation on 26th September 2022.
 
 (2) Any amendment made by these Regulations has the same extent as the provision amended.
 
-## 2. Amendment of the Universal Credit Regulations (Northern Ireland)[^key-35330f942f87d2041ffc65151dab4b05]
+## 2. Amendment of the Universal Credit Regulations (Northern Ireland)[^c-35330f942f87d2041ffc65151dab4b05]
 
 For regulation 97(14) of the Universal Credit Regulations (Northern Ireland) 2016[^f00004] (circumstances in which requirements must not be imposed) substitute—
 
@@ -91,8 +91,8 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-87087df4da78716bda1d3df13e176268]: Commencement: Reg. 1 in operation at 26.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/223/regulation/1/1)
+[^c-87087df4da78716bda1d3df13e176268]: Commencement: Reg. 1 in operation at 26.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/223/regulation/1/1)
 
-[^key-35330f942f87d2041ffc65151dab4b05]: Commencement: Reg. 2 in operation at 26.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/223/regulation/1/1)
+[^c-35330f942f87d2041ffc65151dab4b05]: Commencement: Reg. 2 in operation at 26.9.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/223/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216)

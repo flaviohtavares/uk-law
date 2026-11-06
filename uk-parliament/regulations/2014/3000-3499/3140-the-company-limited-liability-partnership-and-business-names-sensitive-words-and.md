@@ -278,7 +278,7 @@ Regulations 5 and 6
 | *Column (1)* | *Column (2)* |
 | --- | --- |
 | *Word or expression specified under regulation 3* | *Specified Government department or other body whose view must be sought* |
-| Accredit | Department for Business and Trade[^key-92ae40c2ec1a5938a4a8f934bc6bcb03] |
+| Accredit | Department for Business and Trade[^c-92ae40c2ec1a5938a4a8f934bc6bcb03] |
 | Accreditation | Department for Business and Trade |
 | Accredited | Department for Business and Trade |
 | Accrediting | Department for Business and Trade |
@@ -312,7 +312,7 @@ Regulations 5 and 6
 | Midwifery | Nursing & Midwifery Council |
 | Mòrachd | The Scottish Government |
 | Mutual | Financial Conduct Authority |
-| NHS | Department of Health and Social Care[^key-d5a099c5eea56e1b1f692e7faaf3f9c3] |
+| NHS | Department of Health and Social Care[^c-d5a099c5eea56e1b1f692e7faaf3f9c3] |
 | Nurse | Nursing & Midwifery Council |
 | Nursing | Nursing & Midwifery Council |
 | Oifis sgrùdaidh | Audit Scotland |
@@ -323,7 +323,7 @@ Regulations 5 and 6
 | Parliamentary | The Corporate Officer of the House of Lords and The Corporate Officer of the House of Commons |
 | Patent | The Patent Office |
 | Patentee | The Patent Office |
-| Polytechnic | Department for Education[^key-f4f8348836481038b934a66addba6aec] |
+| Polytechnic | Department for Education[^c-f4f8348836481038b934a66addba6aec] |
 | Prifysgol | The Welsh Assembly Government |
 | Prionnsa | The Scottish Government |
 | Reassurance | Financial Conduct Authority |
@@ -366,7 +366,7 @@ Regulations 5 and 6
 </tbody>
 </table>
 
-[^key-dec9d0f2918917c9c133d05c977980b1][^key-a0f55d742175b780e7d9fa811d9219ef]
+[^c-dec9d0f2918917c9c133d05c977980b1][^c-a0f55d742175b780e7d9fa811d9219ef]
 
 *(This note is not part of the Regulations)*
 
@@ -388,12 +388,12 @@ An Impact Assessment in respect of these Regulations has been produced and copie
 
 [^c2226764]: Marginal citation: [S.I. 2009/2615](https://www.legislation.gov.uk/uksi/2009/2615).
 
-[^key-92ae40c2ec1a5938a4a8f934bc6bcb03]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3140/schedule/2/part/1) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 59](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/59) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-92ae40c2ec1a5938a4a8f934bc6bcb03]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3140/schedule/2/part/1) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 59](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/59) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-d5a099c5eea56e1b1f692e7faaf3f9c3]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3140/schedule/2/part/1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(bb)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/bb) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-d5a099c5eea56e1b1f692e7faaf3f9c3]: Textual amendment: Words in [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2014/3140/schedule/2/part/1) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(bb)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/bb) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-f4f8348836481038b934a66addba6aec]: Textual amendment: Words in Sch. 2 Pt. 1 substituted (9.11.2016) by [The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992)](https://www.legislation.gov.uk/uksi/2016/992), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2), [Sch. para. 51(2)(b)](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/51/2/b) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/992/article/13))
+[^c-f4f8348836481038b934a66addba6aec]: Textual amendment: Words in Sch. 2 Pt. 1 substituted (9.11.2016) by [The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992)](https://www.legislation.gov.uk/uksi/2016/992), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2), [Sch. para. 51(2)(b)](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/51/2/b) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/992/article/13))
 
-[^key-dec9d0f2918917c9c133d05c977980b1]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3140/schedule/2/part/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(bb)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/bb) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-dec9d0f2918917c9c133d05c977980b1]: Textual amendment: Words in [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2014/3140/schedule/2/part/2) inserted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 20(bb)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/20/bb) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
 
-[^key-a0f55d742175b780e7d9fa811d9219ef]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (9.11.2016) by [The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992)](https://www.legislation.gov.uk/uksi/2016/992), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2), [Sch. para. 51(3)](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/51/3) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/992/article/13))
+[^c-a0f55d742175b780e7d9fa811d9219ef]: Textual amendment: Words in Sch. 2 Pt. 2 substituted (9.11.2016) by [The Secretaries of State for Business, Energy and Industrial Strategy, for International Trade and for Exiting the European Union and the Transfer of Functions (Education and Skills) Order 2016 (S.I. 2016/992)](https://www.legislation.gov.uk/uksi/2016/992), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/992/article/1/2), [Sch. para. 51(3)](https://www.legislation.gov.uk/uksi/2016/992/schedule/paragraph/51/3) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/992/article/13))

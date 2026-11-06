@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Power of entry[^key-de97fc02af1f42b1ba942d674a877578][^key-0f7f77bf7473803999984ff1644798b1]
+## 77. Power of entry[^c-de97fc02af1f42b1ba942d674a877578][^c-0f7f77bf7473803999984ff1644798b1]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-de97fc02af1f42b1ba942d674a877578]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2005/16/section/77) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
+[^c-de97fc02af1f42b1ba942d674a877578]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2005/16/section/77) in force at 6.4.2006 for E. by [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2)
 
-[^key-0f7f77bf7473803999984ff1644798b1]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2005/16/section/77) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(gg)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/gg)
+[^c-0f7f77bf7473803999984ff1644798b1]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2005/16/section/77) in force at 15.3.2007 (being the date on which S.I. 2007/739 came into force) for W. by [S.I. 2006/2797](https://www.legislation.gov.uk/wsi/2006/2797), [art. 4(gg)](https://www.legislation.gov.uk/wsi/2006/2797/article/4/gg)

@@ -142,7 +142,7 @@ Forwarding of documents
 
 ### PART 1 — Interpretation
 
-#### 1. Interpretation[^key-47684449e7c9b5a8b81dac73c6d1338b]
+#### 1. Interpretation[^c-47684449e7c9b5a8b81dac73c6d1338b]
 
 For the purposes of this Schedule, unless the context requires otherwise—
 
@@ -156,11 +156,11 @@ For the purposes of this Schedule, unless the context requires otherwise—
 
 ### PART 2 — Issue of postal ballot papers
 
-#### 2. Persons entitled to be present at proceedings on issue of postal ballot papers[^key-12a541f1c881a1ac7aec901b879d727a]
+#### 2. Persons entitled to be present at proceedings on issue of postal ballot papers[^c-12a541f1c881a1ac7aec901b879d727a]
 
 Without prejudice to the provisions of sections 6A, 6B, 6C, 6D or 6E of the 2000 Act, no person may be present at the proceedings on the issue of postal ballot papers other than the counting officer and the counting officer’s staff.
 
-#### 3. Persons entitled to be present at proceedings on receipt of postal ballot papers[^key-2a86ea365b475f3342fdd3b9e94e510b]
+#### 3. Persons entitled to be present at proceedings on receipt of postal ballot papers[^c-2a86ea365b475f3342fdd3b9e94e510b]
 
 (1) Without prejudice to the provisions of sections 6A, 6B, 6C, 6D or 6E of the 2000 Act, no person may be present at the proceedings on the receipt of postal ballot papers other than—
 
@@ -180,11 +180,11 @@ Without prejudice to the provisions of sections 6A, 6B, 6C, 6D or 6E of the 2000
 
 (7) In this Schedule references to agents are to be taken as references to agents whose appointments have been duly made and notified and, in the case of agents appointed under sub-paragraph (2), who are within the number authorised by the constituency returning officer.
 
-#### 4. Notification of requirement of secrecy[^key-e365a4b453b93d70c83c9840df86e647]
+#### 4. Notification of requirement of secrecy[^c-e365a4b453b93d70c83c9840df86e647]
 
 The counting officer must make such arrangements as the counting officer thinks fit to ensure that every person attending the proceedings in connection with the issue or receipt of postal ballot papers has been given a copy in writing of the provisions of paragraph 6(4) and (6) of Schedule 4.
 
-#### 5. Time when postal ballot papers are to be issued[^key-e797b83fd9c89dca766acb3a7a00e7c5]
+#### 5. Time when postal ballot papers are to be issued[^c-e797b83fd9c89dca766acb3a7a00e7c5]
 
 (1) In the case of—
 
@@ -195,7 +195,7 @@ no postal ballot paper and postal voting statement may be issued until after 5p.
 
 (2) In the case of any other person, the postal ballot paper and postal voting statement must be issued by the counting officer as soon as practicable after the registration officer has granted the application to vote by post.
 
-#### 6. Procedure on issue of postal ballot paper[^key-bb9c30694a4eef4cb44b3cc4633a8939]
+#### 6. Procedure on issue of postal ballot paper[^c-bb9c30694a4eef4cb44b3cc4633a8939]
 
 (1) The number of the elector as stated in the register must be marked on the corresponding number list[^f00042], next to the number and unique identifying mark of the ballot paper issued to that elector.
 
@@ -214,11 +214,11 @@ no postal ballot paper and postal voting statement may be issued until after 5p.
 - (b) as shown in the record mentioned in paragraph 6(4) of that Schedule; or
 - (c) as given in pursuance of an application made under paragraph 3(1) or (5) or paragraph 6(6) or (7) of that Schedule.
 
-#### 7. Refusal to issue postal ballot papers[^key-45755275fa3a7dbf9da508c437a8fe0f]
+#### 7. Refusal to issue postal ballot papers[^c-45755275fa3a7dbf9da508c437a8fe0f]
 
 Where a counting officer is satisfied that two or more entries in either the postal voters list, or the proxy postal voters list or in each of those lists relate to the same elector the counting officer must not issue more than one ballot paper in respect of that elector for the referendum.
 
-#### 8. Envelopes[^key-37bc973384f03de5a2614572e8d4a4c9]
+#### 8. Envelopes[^c-37bc973384f03de5a2614572e8d4a4c9]
 
 (1) The envelope which the counting officer is required by rule 12 of the Referendum Rules to send to a postal voter for the return of the postal ballot paper and the postal voting statement (referred to as a “covering envelope”) must be marked with the letter “B”.
 
@@ -230,13 +230,13 @@ Where a counting officer is satisfied that two or more entries in either the pos
   - (ii) “Amlen papur pleidleisio”; and
 - (c) the number of the ballot paper.
 
-#### 9. Sealing up of completed corresponding number lists and security of lists[^key-93d3b46ba0c0f70ff39439e97125b724]
+#### 9. Sealing up of completed corresponding number lists and security of lists[^c-93d3b46ba0c0f70ff39439e97125b724]
 
 (1) As soon as practicable after the issue of each batch of postal ballot papers, the counting officer must make up into a packet the completed corresponding number lists of those ballot papers which have been issued and must seal such a packet.
 
 (2) Until the time referred to in paragraph 17(11), the counting officer must take reasonable precautions for the security of the marked copy of the postal voters list and the proxy postal voters list.
 
-#### 10. Delivery of postal ballot papers[^key-f1fe7ce9cad7bec37a3b6d425d6de0fd]
+#### 10. Delivery of postal ballot papers[^c-f1fe7ce9cad7bec37a3b6d425d6de0fd]
 
 (1) For the purposes of delivering postal ballot papers, the counting officer may use—
 
@@ -250,7 +250,7 @@ Where a counting officer is satisfied that two or more entries in either the pos
 
 (4) Return postage must be prepaid on all covering envelopes where the address provided by the postal voter for the receipt of the postal ballot paper is within the United Kingdom.
 
-#### 11. Spoilt postal ballot paper[^key-a251d30801e35b7dfe49d89d65c9741f]
+#### 11. Spoilt postal ballot paper[^c-a251d30801e35b7dfe49d89d65c9741f]
 
 (1) If a postal voter has inadvertently dealt with the ballot paper or postal voting statement in such a manner that it cannot be conveniently used as a ballot paper (referred to as “a spoilt ballot paper”) or, as the case may be, a postal voting statement (referred to as “a spoilt postal voting statement”) that person may return (either by hand or by post) to the counting officer the spoilt ballot paper or, as the case may be, the spoilt postal voting statement.
 
@@ -282,7 +282,7 @@ instead of delivering it in accordance with paragraph 10.
 - (b) the number of the postal ballot paper issued under this paragraph; and
 - (c) where the postal voter whose ballot paper is spoilt is a proxy, the proxy’s name and address.
 
-#### 12. Lost postal ballot papers[^key-204bb5dcc41072c4875d24b9180e7e19]
+#### 12. Lost postal ballot papers[^c-204bb5dcc41072c4875d24b9180e7e19]
 
 (1) Where a postal voter claims either to have lost or not to have received —
 
@@ -328,7 +328,7 @@ instead of delivering it in accordance with paragraph 10.
 
 ### PART 3 — Receipt of Postal Ballot Papers
 
-#### 13. Notice of opening of postal ballot paper envelopes[^key-b69998730954a63a74d4f32f2ab675a3]
+#### 13. Notice of opening of postal ballot paper envelopes[^c-b69998730954a63a74d4f32f2ab675a3]
 
 (1) The counting officer must give to each referendum agent not less than 48 hours’ notice in writing of each occasion on which a postal voters’ ballot box and the envelopes contained in it are to be opened.
 
@@ -337,7 +337,7 @@ instead of delivering it in accordance with paragraph 10.
 - (a) the time and place at which such an opening is to take place; and
 - (b) the number of agents a referendum agent may appoint under paragraph 3 to attend each opening.
 
-#### 14. Postal ballot boxes and receptacles[^key-cefe057aaa799e6a518ee56d4d1cc836]
+#### 14. Postal ballot boxes and receptacles[^c-cefe057aaa799e6a518ee56d4d1cc836]
 
 (1) The counting officer must provide a separate ballot box for the reception of—
 
@@ -361,7 +361,7 @@ instead of delivering it in accordance with paragraph 10.
 
 (6) The counting officer must take reasonable precautions for the safe custody of every ballot box and receptacle referred to in this paragraph.
 
-#### 15. Receipt of covering envelope[^key-5b6f0731bdff10edb038a19447d0f6c7]
+#### 15. Receipt of covering envelope[^c-5b6f0731bdff10edb038a19447d0f6c7]
 
 (1) The counting officer must, immediately on receipt (whether by hand or by post) of a covering envelope (or an envelope which is stated to include a postal vote) before the close of the poll, place it unopened in a postal voters’ ballot box.
 
@@ -372,7 +372,7 @@ instead of delivering it in accordance with paragraph 10.
 
 the first-mentioned envelope together with its contents, must be placed in a postal voters’ ballot box.
 
-#### 16. Opening of postal voters’ ballot box[^key-eb7944844984a83ae23ef07412fbe4bb]
+#### 16. Opening of postal voters’ ballot box[^c-eb7944844984a83ae23ef07412fbe4bb]
 
 (1) Each postal voters’ ballot box must be opened by the counting officer in the presence of the agents.
 
@@ -380,7 +380,7 @@ the first-mentioned envelope together with its contents, must be placed in a pos
 
 (3) The last postal voters’ ballot box and the postal ballot box are to be opened at the counting of the votes under rule 34 of the Referendum Rules.
 
-#### 17. Opening of covering envelopes[^key-108a6554dffcd53afcb13178e59b4fbe]
+#### 17. Opening of covering envelopes[^c-108a6554dffcd53afcb13178e59b4fbe]
 
 (1) When a postal voters’ ballot box is opened, the counting officer must count and record the number of covering envelopes (including any envelope which is stated to include a postal vote and any envelope described in paragraph 15(2)).
 
@@ -420,7 +420,7 @@ the counting officer must set aside that envelope and its contents for personal 
 
 (11) As soon as practicable after the last covering envelope has been opened, the counting officer must make up into a packet the copies of the marked postal voters list and proxy postal voters list that have been marked in accordance with sub-paragraph (9) and must seal such a packet.
 
-#### 18. Confirming receipt of postal voting statements[^key-43146068fbdb5532077bc596299e61c6]
+#### 18. Confirming receipt of postal voting statements[^c-43146068fbdb5532077bc596299e61c6]
 
 (1) An elector or a proxy voter who is shown in the postal voters list or, as the case may be, proxy postal voters list may make a request, at any time between the first issue of postal ballots under paragraph 5 and the close of the poll, that the counting officer confirm—
 
@@ -434,7 +434,7 @@ the counting officer must set aside that envelope and its contents for personal 
 
 (3) Where a request is received in accordance with sub-paragraph (2) the counting officer must be satisfied that the request has been made by the elector or the elector’s proxy and where the counting officer is so satisfied provide confirmation of the matters under sub-paragraph (1).
 
-#### 19. Procedure in relation to postal voting statements[^key-11fdd8b924a26d1ad966eb8e51a6af39]
+#### 19. Procedure in relation to postal voting statements[^c-11fdd8b924a26d1ad966eb8e51a6af39]
 
 (1) This paragraph applies to any postal voting statement contained in an envelope that has not been set aside for personal identifier verification in accordance with paragraph 17(2) or (7).
 
@@ -465,7 +465,7 @@ the counting officer must open the envelope.
 - (c) in the receptacle for rejected votes any valid postal voting statement marked “provisionally rejected” where there is no ballot paper; or
 - (d) in the receptacle for postal voting statements, any valid statement not disposed of under sub-paragraph (b) or (c).
 
-#### 20. Procedure in relation to postal voting statements: personal identifier verification[^key-2fb326183d092c2d4cf31d90804caacf]
+#### 20. Procedure in relation to postal voting statements: personal identifier verification[^c-2fb326183d092c2d4cf31d90804caacf]
 
 (1) This paragraph applies to any postal voting statement contained in an envelope that is set aside for personal identifier verification in accordance with paragraph 17(2) or (7).
 
@@ -498,7 +498,7 @@ the counting officer must open the envelope.
 
 (9) In this paragraph and in paragraph 21,”the relevant personal identifier records” means the records referred to in Schedule 1 paragraph 14.
 
-#### 21. Postal voting statements: additional personal identifier verification[^key-74909505a3ca91978a0063a6e78b42e0]
+#### 21. Postal voting statements: additional personal identifier verification[^c-74909505a3ca91978a0063a6e78b42e0]
 
 (1) The counting officer may on any occasion at which a postal voters’ ballot box is opened in accordance with paragraph 16 undertake verification of the personal identifiers on any postal voting statement that has on a prior occasion been placed in the receptacle for postal voting statements.
 
@@ -516,7 +516,7 @@ the counting officer must open the envelope.
 
 (4) Following the removal of a postal ballot paper from a postal ballot box the counting officer must reseal the postal ballot box in the presence of the agents.
 
-#### 22. Opening of ballot paper envelopes[^key-6272a1dea390a7e62714abc41fab9d4d]
+#### 22. Opening of ballot paper envelopes[^c-6272a1dea390a7e62714abc41fab9d4d]
 
 (1) The counting officer must open separately each ballot paper envelope placed in the receptacle for ballot paper envelopes.
 
@@ -526,7 +526,7 @@ the counting officer must open the envelope.
 - (b) in the receptacle for rejected votes, any other ballot paper which must be marked “provisionally rejected” and to which must be attached the ballot paper envelope; and
 - (c) in the receptacle for rejected ballot paper envelopes, any ballot paper envelope which must be marked “provisionally rejected” because it does not contain a ballot paper.
 
-#### 23. Retrieval of cancelled postal ballot papers[^key-28dc5a50878dc6f081dafff89ede5486]
+#### 23. Retrieval of cancelled postal ballot papers[^c-28dc5a50878dc6f081dafff89ede5486]
 
 (1) Where it appears to the counting officer that a cancelled postal ballot paper has been placed —
 
@@ -545,7 +545,7 @@ the counting officer must proceed as follows.
 - (e) place the cancelled documents in a separate packet and deal with that packet in the manner provided for by paragraph 11(7); and
 - (f) unless the postal ballot box has been opened for the purposes of counting the votes under rule 34 of the Referendum Rules, reseal the postal ballot box in the presence of the agents.
 
-#### 24. Lists of rejected postal ballot papers[^key-7a0447d88ebac5b2041193894c85ebf6]
+#### 24. Lists of rejected postal ballot papers[^c-7a0447d88ebac5b2041193894c85ebf6]
 
 (1) In respect of the referendum, the counting officer must keep two separate lists of rejected postal ballot papers.
 
@@ -553,7 +553,7 @@ the counting officer must proceed as follows.
 
 (3) In the second list, the counting officer must record the ballot paper number of any postal ballot paper which is entered on a valid postal voting statement where that ballot paper is not received with the postal voting statement.
 
-#### 25. Checking of lists kept under paragraph 24[^key-ddd43e69b969034e7a9510d7fc898e36]
+#### 25. Checking of lists kept under paragraph 24[^c-ddd43e69b969034e7a9510d7fc898e36]
 
 (1) Where the counting officer receives a valid postal voting statement without the postal ballot paper to which it relates, the counting officer may, at any time prior to the close of the poll, check the list referred to in paragraph 24(2) to see whether the number of a postal ballot paper to which the statement relates is entered in that list.
 
@@ -565,7 +565,7 @@ the counting officer must proceed as follows.
 
 (5) The counting officer must then take the appropriate steps under this Schedule as though any document earlier marked “provisionally rejected” had not been so marked and must amend the document accordingly.
 
-#### 26. Sealing of receptacles[^key-ff2414aea53fd07b46028d1f7688765e]
+#### 26. Sealing of receptacles[^c-ff2414aea53fd07b46028d1f7688765e]
 
 (1) As soon as practicable after the completion of the procedure under paragraph 25(3) and (4), the counting officer must make up into separate packets the contents of—
 
@@ -580,7 +580,7 @@ and must seal up such packets.
 
 (2) Any document in those packets marked “provisionally rejected” is to be deemed to be marked “rejected”.
 
-#### 27. Forwarding of documents[^key-632656a98aa749fcf519134133d0a36b]
+#### 27. Forwarding of documents[^c-632656a98aa749fcf519134133d0a36b]
 
 (1) The counting officer must forward to the relevant registration officer at the same time as the counting officer forwards to that officer the documents mentioned in rule 42 of the Referendum Rules—
 
@@ -601,58 +601,58 @@ the counting officer must put them unopened in a separate packet, seal up such p
 
 ## Annotations
 
-[^key-47684449e7c9b5a8b81dac73c6d1338b]: Commencement: Sch. 2 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-47684449e7c9b5a8b81dac73c6d1338b]: Commencement: Sch. 2 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-12a541f1c881a1ac7aec901b879d727a]: Commencement: Sch. 2 para. 2 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-12a541f1c881a1ac7aec901b879d727a]: Commencement: Sch. 2 para. 2 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-2a86ea365b475f3342fdd3b9e94e510b]: Commencement: Sch. 2 para. 3 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-2a86ea365b475f3342fdd3b9e94e510b]: Commencement: Sch. 2 para. 3 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-e365a4b453b93d70c83c9840df86e647]: Commencement: Sch. 2 para. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-e365a4b453b93d70c83c9840df86e647]: Commencement: Sch. 2 para. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-e797b83fd9c89dca766acb3a7a00e7c5]: Commencement: Sch. 2 para. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-e797b83fd9c89dca766acb3a7a00e7c5]: Commencement: Sch. 2 para. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-bb9c30694a4eef4cb44b3cc4633a8939]: Commencement: Sch. 2 para. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-bb9c30694a4eef4cb44b3cc4633a8939]: Commencement: Sch. 2 para. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00042]: Footnote: For the meaning of “corresponding number list” *see* rule 7(1) of the Referendum Rules.
 
-[^key-45755275fa3a7dbf9da508c437a8fe0f]: Commencement: Sch. 2 para. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-45755275fa3a7dbf9da508c437a8fe0f]: Commencement: Sch. 2 para. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-37bc973384f03de5a2614572e8d4a4c9]: Commencement: Sch. 2 para. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-37bc973384f03de5a2614572e8d4a4c9]: Commencement: Sch. 2 para. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-93d3b46ba0c0f70ff39439e97125b724]: Commencement: Sch. 2 para. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-93d3b46ba0c0f70ff39439e97125b724]: Commencement: Sch. 2 para. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-f1fe7ce9cad7bec37a3b6d425d6de0fd]: Commencement: Sch. 2 para. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-f1fe7ce9cad7bec37a3b6d425d6de0fd]: Commencement: Sch. 2 para. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-a251d30801e35b7dfe49d89d65c9741f]: Commencement: Sch. 2 para. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-a251d30801e35b7dfe49d89d65c9741f]: Commencement: Sch. 2 para. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-204bb5dcc41072c4875d24b9180e7e19]: Commencement: Sch. 2 para. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-204bb5dcc41072c4875d24b9180e7e19]: Commencement: Sch. 2 para. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-b69998730954a63a74d4f32f2ab675a3]: Commencement: Sch. 2 para. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-b69998730954a63a74d4f32f2ab675a3]: Commencement: Sch. 2 para. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-cefe057aaa799e6a518ee56d4d1cc836]: Commencement: Sch. 2 para. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-cefe057aaa799e6a518ee56d4d1cc836]: Commencement: Sch. 2 para. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-5b6f0731bdff10edb038a19447d0f6c7]: Commencement: Sch. 2 para. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-5b6f0731bdff10edb038a19447d0f6c7]: Commencement: Sch. 2 para. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-eb7944844984a83ae23ef07412fbe4bb]: Commencement: Sch. 2 para. 16 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-eb7944844984a83ae23ef07412fbe4bb]: Commencement: Sch. 2 para. 16 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-108a6554dffcd53afcb13178e59b4fbe]: Commencement: Sch. 2 para. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-108a6554dffcd53afcb13178e59b4fbe]: Commencement: Sch. 2 para. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-43146068fbdb5532077bc596299e61c6]: Commencement: Sch. 2 para. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-43146068fbdb5532077bc596299e61c6]: Commencement: Sch. 2 para. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-11fdd8b924a26d1ad966eb8e51a6af39]: Commencement: Sch. 2 para. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-11fdd8b924a26d1ad966eb8e51a6af39]: Commencement: Sch. 2 para. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-2fb326183d092c2d4cf31d90804caacf]: Commencement: Sch. 2 para. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-2fb326183d092c2d4cf31d90804caacf]: Commencement: Sch. 2 para. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-74909505a3ca91978a0063a6e78b42e0]: Commencement: Sch. 2 para. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-74909505a3ca91978a0063a6e78b42e0]: Commencement: Sch. 2 para. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-6272a1dea390a7e62714abc41fab9d4d]: Commencement: Sch. 2 para. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-6272a1dea390a7e62714abc41fab9d4d]: Commencement: Sch. 2 para. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-28dc5a50878dc6f081dafff89ede5486]: Commencement: Sch. 2 para. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-28dc5a50878dc6f081dafff89ede5486]: Commencement: Sch. 2 para. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-7a0447d88ebac5b2041193894c85ebf6]: Commencement: Sch. 2 para. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-7a0447d88ebac5b2041193894c85ebf6]: Commencement: Sch. 2 para. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-ddd43e69b969034e7a9510d7fc898e36]: Commencement: Sch. 2 para. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-ddd43e69b969034e7a9510d7fc898e36]: Commencement: Sch. 2 para. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-ff2414aea53fd07b46028d1f7688765e]: Commencement: Sch. 2 para. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-ff2414aea53fd07b46028d1f7688765e]: Commencement: Sch. 2 para. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-632656a98aa749fcf519134133d0a36b]: Commencement: Sch. 2 para. 27 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-632656a98aa749fcf519134133d0a36b]: Commencement: Sch. 2 para. 27 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

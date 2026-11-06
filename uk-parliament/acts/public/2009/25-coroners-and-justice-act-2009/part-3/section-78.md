@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Conditions for making order[^key-2721ce606bc00639990f293867c3b2fe][^key-7d9f9525ef9aa8b3169b9e1713ef711a]
+## 78. Conditions for making order[^c-2721ce606bc00639990f293867c3b2fe][^c-7d9f9525ef9aa8b3169b9e1713ef711a]
 
 *Extent: E+W+N.I.*
 
@@ -44,18 +44,18 @@ summary: ''
 
 (9) If it is suspected that the qualifying offence was committed by 2 or more persons, it is sufficient for the purposes of subsection (2) that the justice is satisfied that there are reasonable grounds for believing that the conditions in subsections (3) to (8) are satisfied in relation to one person.
 
-(10) The appropriate authority[^key-a4fd9b4fda2050223445442d7a4238b9] may by order modify or repeal any of subsections (4) to (6) and (9).
+(10) The appropriate authority[^c-a4fd9b4fda2050223445442d7a4238b9] may by order modify or repeal any of subsections (4) to (6) and (9).
 
 (11) The provision which may be included in an order under subsection (10) by virtue of section 176 (power to make consequential provision etc) includes provision modifying any provision of this Chapter.
 
-(12)[^key-516a92e511fef6b4b20678e79273e366] In subsection (10) “the appropriate authority” means, in relation to England and Wales, the Secretary of State and, in relation to Northern Ireland, the Department of Justice in Northern Ireland.
+(12)[^c-516a92e511fef6b4b20678e79273e366] In subsection (10) “the appropriate authority” means, in relation to England and Wales, the Secretary of State and, in relation to Northern Ireland, the Department of Justice in Northern Ireland.
 
 ## Annotations
 
-[^key-2721ce606bc00639990f293867c3b2fe]: Commencement: S. 78 in force at 6.4.2010 for E.W. by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 3](https://www.legislation.gov.uk/uksi/2010/816/article/3)
+[^c-2721ce606bc00639990f293867c3b2fe]: Commencement: S. 78 in force at 6.4.2010 for E.W. by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 3](https://www.legislation.gov.uk/uksi/2010/816/article/3)
 
-[^key-7d9f9525ef9aa8b3169b9e1713ef711a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2009/25/section/78) in force at 18.4.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 2(a)(v)](https://www.legislation.gov.uk/nisr/2011/182/article/2/a/v)
+[^c-7d9f9525ef9aa8b3169b9e1713ef711a]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2009/25/section/78) in force at 18.4.2011 for N.I. by [S.R. 2011/182](https://www.legislation.gov.uk/nisr/2011/182), [art. 2(a)(v)](https://www.legislation.gov.uk/nisr/2011/182/article/2/a/v)
 
-[^key-a4fd9b4fda2050223445442d7a4238b9]: Textual amendment: Words in [s. 78(10)](https://www.legislation.gov.uk/ukpga/2009/25/section/78/10) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 97(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/97/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-a4fd9b4fda2050223445442d7a4238b9]: Textual amendment: Words in [s. 78(10)](https://www.legislation.gov.uk/ukpga/2009/25/section/78/10) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 97(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/97/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-516a92e511fef6b4b20678e79273e366]: Textual amendment: [S. 78(12)](https://www.legislation.gov.uk/ukpga/2009/25/section/78/12) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 97(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/97/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-516a92e511fef6b4b20678e79273e366]: Textual amendment: [S. 78(12)](https://www.legislation.gov.uk/ukpga/2009/25/section/78/12) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 97(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/97/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Promotion and use of mediation etc.[^key-185cbc10d25be4db68f00e93bae58824]
+## 40. Promotion and use of mediation etc.[^c-185cbc10d25be4db68f00e93bae58824]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-185cbc10d25be4db68f00e93bae58824]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2019/13/section/40) in force at 17.7.2021 by [S.S.I. 2021/244](https://www.legislation.gov.uk/ssi/2021/244), [reg. 2](https://www.legislation.gov.uk/ssi/2021/244/regulation/2)
+[^c-185cbc10d25be4db68f00e93bae58824]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2019/13/section/40) in force at 17.7.2021 by [S.S.I. 2021/244](https://www.legislation.gov.uk/ssi/2021/244), [reg. 2](https://www.legislation.gov.uk/ssi/2021/244/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Compensation where planning permission is modified or revoked[^key-c85e3e3f79687a58cfaced4350e289f6]
+## 106. Compensation where planning permission is modified or revoked[^c-c85e3e3f79687a58cfaced4350e289f6]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c85e3e3f79687a58cfaced4350e289f6]: Commencement: S. 106 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-c85e3e3f79687a58cfaced4350e289f6]: Commencement: S. 106 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

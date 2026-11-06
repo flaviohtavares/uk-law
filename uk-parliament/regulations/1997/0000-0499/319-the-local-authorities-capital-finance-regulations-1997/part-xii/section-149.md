@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 149. Determining the non-housing increase[^key-a4cfe0e640190bee34def95cb6054bc8]
+## 149. Determining the non-housing increase[^c-a4cfe0e640190bee34def95cb6054bc8]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ where—
 
 ## Annotations
 
-[^key-a4cfe0e640190bee34def95cb6054bc8]: Commencement: Reg. 149 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a4cfe0e640190bee34def95cb6054bc8]: Commencement: Reg. 149 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -38,7 +38,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## 1. EU finance decision: approval, and addition to list of Treaties
 
-(1)[^key-4899f1c698f1574947d9aadfa5f90c9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4899f1c698f1574947d9aadfa5f90c9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 1(2) of the European Communities Act 1972, in the definition of “the Treaties” and “the EU Treaties”, for paragraph (e) (Council decisions on EU's system of own resources) substitute—
 
@@ -58,4 +58,4 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-4899f1c698f1574947d9aadfa5f90c9e]: Textual amendment: Act repealed (4.7.2018 for the repeal of s. 1(1)) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i)
+[^c-4899f1c698f1574947d9aadfa5f90c9e]: Textual amendment: Act repealed (4.7.2018 for the repeal of s. 1(1)) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i)

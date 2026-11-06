@@ -30,7 +30,7 @@ summary: ''
 
 and “**special road scheme**” means a scheme under section 16 of that Act authorising the provision of a special road.
 
-(1A)[^key-06001341cb2c61ff6b3de829c50a2aba] In this Part, “**strategic highways company**” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015.
+(1A)[^c-06001341cb2c61ff6b3de829c50a2aba] In this Part, “**strategic highways company**” means a company for the time being appointed under Part 1 of the Infrastructure Act 2015.
 
 (2) Where a concession agreement is entered into jointly by two or more local highway authorities, references in this Part to the highway authority shall be construed—
 
@@ -50,7 +50,7 @@ and “**special road scheme**” means a scheme under section 16 of that Act au
 | special road | section 26(1) |
 | special road authority | section 26(1) |
 | special road scheme | section 26(1) |
-| strategic highways company[^key-46b557fc116d139d5f3ca0d43a9f091b] | section 26(1)[^key-cc09dac8a6a0a7a2e1ca83b6164fa8a1] |
+| strategic highways company[^c-46b557fc116d139d5f3ca0d43a9f091b] | section 26(1)[^c-cc09dac8a6a0a7a2e1ca83b6164fa8a1] |
 | toll order | section 6 |
 | toll period | section 7 |
 | traffic | section 26(1). |
@@ -59,8 +59,8 @@ and “**special road scheme**” means a scheme under section 16 of that Act au
 
 [^c14148551]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/1991/22/section/26) wholly in force at 01.11.1991, see [s. 170](https://www.legislation.gov.uk/ukpga/1991/22/section/170) and [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art.3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule)
 
-[^key-06001341cb2c61ff6b3de829c50a2aba]: Textual amendment: [S. 26(1A)](https://www.legislation.gov.uk/ukpga/1991/22/section/26/1A) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 116(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/116/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-06001341cb2c61ff6b3de829c50a2aba]: Textual amendment: [S. 26(1A)](https://www.legislation.gov.uk/ukpga/1991/22/section/26/1A) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 116(2)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/116/2); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-46b557fc116d139d5f3ca0d43a9f091b]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/ukpga/1991/22/section/26/3) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 116(3)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/116/3/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-46b557fc116d139d5f3ca0d43a9f091b]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/ukpga/1991/22/section/26/3) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 116(3)(a)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/116/3/a); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
-[^key-cc09dac8a6a0a7a2e1ca83b6164fa8a1]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/ukpga/1991/22/section/26/3) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 116(3)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/116/3/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-cc09dac8a6a0a7a2e1ca83b6164fa8a1]: Textual amendment: Words in [s. 26(3)](https://www.legislation.gov.uk/ukpga/1991/22/section/26/3) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 116(3)(b)](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/116/3/b); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

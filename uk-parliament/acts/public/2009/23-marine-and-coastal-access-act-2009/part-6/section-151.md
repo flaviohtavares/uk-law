@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Membership and proceedings of IFC authorities[^c2007925][^key-cd859c6d9f975bd4ff7a3afb6df8dd59]
+## 151. Membership and proceedings of IFC authorities[^c2007925][^c-cd859c6d9f975bd4ff7a3afb6df8dd59]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ Any person appointed by the Secretary of State as a member of an IFC authority i
 
 [^c2007925]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2009/23/section/151) partly in force; [s. 151](https://www.legislation.gov.uk/ukpga/2009/23/section/151) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-cd859c6d9f975bd4ff7a3afb6df8dd59]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2009/23/section/151) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/b)
+[^c-cd859c6d9f975bd4ff7a3afb6df8dd59]: Commencement: [S. 151](https://www.legislation.gov.uk/ukpga/2009/23/section/151) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2195](https://www.legislation.gov.uk/uksi/2010/2195), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2010/2195/article/3/2/b)

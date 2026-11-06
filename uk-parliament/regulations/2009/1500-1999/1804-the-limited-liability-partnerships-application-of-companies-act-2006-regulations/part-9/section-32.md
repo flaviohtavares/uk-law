@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Registration of charges[^key-6dad3a04c1d9c06325942e863fe85c99]
+## 32. Registration of charges[^c-6dad3a04c1d9c06325942e863fe85c99]
 
 *Extent: E+W+S+N.I.*
 
@@ -424,4 +424,4 @@ Sections 859A to 859Q apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-6dad3a04c1d9c06325942e863fe85c99]: Textual amendment: Reg. 32 substituted for Pt. 9 (regs. 32-44) (6.4.2013) by [The Limited Liability Partnerships (Application of Companies Act 2006) (Amendment) Regulations 2013 (S.I. 2013/618)](https://www.legislation.gov.uk/uksi/2013/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/618/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2013/618/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/618/schedule) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/618/regulation/8))
+[^c-6dad3a04c1d9c06325942e863fe85c99]: Textual amendment: Reg. 32 substituted for Pt. 9 (regs. 32-44) (6.4.2013) by [The Limited Liability Partnerships (Application of Companies Act 2006) (Amendment) Regulations 2013 (S.I. 2013/618)](https://www.legislation.gov.uk/uksi/2013/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/618/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2013/618/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/618/schedule) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/618/regulation/8))

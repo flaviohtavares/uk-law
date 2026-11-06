@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1289. Unpaid remuneration: supplementary[^key-37697687884245a5f1693bf90d48e654]
+## 1289. Unpaid remuneration: supplementary[^c-37697687884245a5f1693bf90d48e654]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37697687884245a5f1693bf90d48e654]: Modification: S. 1289 applied by [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8), [s. 424A(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/424A/4) (as inserted (with effect in accordance with Sch. 11 para. 22 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/9))
+[^c-37697687884245a5f1693bf90d48e654]: Modification: S. 1289 applied by [2010 c. 8](https://www.legislation.gov.uk/ukpga/2010/8), [s. 424A(4)](https://www.legislation.gov.uk/ukpga/2010/8/section/424A/4) (as inserted (with effect in accordance with Sch. 11 para. 22 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2019/1/schedule/11/paragraph/9))

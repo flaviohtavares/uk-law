@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 93. Information[^key-23614f379b2d9f6f55151d1ffd292801]
+## 93. Information[^c-23614f379b2d9f6f55151d1ffd292801]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ for the purpose of enabling the licensing authority to ascertain whether the ter
 
 ## Annotations
 
-[^key-23614f379b2d9f6f55151d1ffd292801]: Commencement: S. 93 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-23614f379b2d9f6f55151d1ffd292801]: Commencement: S. 93 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

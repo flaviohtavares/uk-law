@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Appointment of manager of internet domain registry[^key-8607ed652f16e944ef056efef5a45a96]
+## 20. Appointment of manager of internet domain registry[^c-8607ed652f16e944ef056efef5a45a96]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8607ed652f16e944ef056efef5a45a96]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2010/24/section/20) in force at 6.4.2024 by [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(b)](https://www.legislation.gov.uk/uksi/2023/792/article/3/b)
+[^c-8607ed652f16e944ef056efef5a45a96]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2010/24/section/20) in force at 6.4.2024 by [S.I. 2023/792](https://www.legislation.gov.uk/uksi/2023/792), [art. 3(b)](https://www.legislation.gov.uk/uksi/2023/792/article/3/b)

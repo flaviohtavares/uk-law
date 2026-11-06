@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Sixth form admissions etc: appeals[^key-a383e19c1f57a1ce2aca350d31d57d2d][^key-9152be1cdf501be010de01c7ef226b71]
+## 152. Sixth form admissions etc: appeals[^c-a383e19c1f57a1ce2aca350d31d57d2d][^c-9152be1cdf501be010de01c7ef226b71]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) for “the parent of a child” substitute “ the appropriate person ”;
 - (b) before paragraph (a) insert—
 
-  > - (za) in a case where the local authority[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6] are the admissions authority, any decision made by or on behalf of the authority refusing a child admission to a school,
+  > - (za) in a case where the local authority[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6] are the admissions authority, any decision made by or on behalf of the authority refusing a child admission to a school,
 
   ;
 - (c) in paragraph (a)—
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a383e19c1f57a1ce2aca350d31d57d2d]: Commencement: S. 152 in force at 26.1.2009 for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/3077/article/6))
+[^c-a383e19c1f57a1ce2aca350d31d57d2d]: Commencement: S. 152 in force at 26.1.2009 for E. by [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 5(a)](https://www.legislation.gov.uk/uksi/2008/3077/article/5/a) (with [art. 6](https://www.legislation.gov.uk/uksi/2008/3077/article/6))
 
-[^key-9152be1cdf501be010de01c7ef226b71]: Commencement: S. 152 in force at 31.3.2009 for W. by [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/784/article/4))
+[^c-9152be1cdf501be010de01c7ef226b71]: Commencement: S. 152 in force at 31.3.2009 for W. by [S.I. 2009/784](https://www.legislation.gov.uk/uksi/2009/784), [art. 3(a)](https://www.legislation.gov.uk/uksi/2009/784/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/784/article/4))
 
-[^key-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)
+[^c-a3ed5f043e1b57c6ebf3ecae0a50cdd6]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/15/2)

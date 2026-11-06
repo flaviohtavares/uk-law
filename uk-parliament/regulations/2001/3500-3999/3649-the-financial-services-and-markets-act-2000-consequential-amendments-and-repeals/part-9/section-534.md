@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 534. Revocation of the 1996 Order[^key-8bf1afc7fc816b4250d8b27bf947a2c2]
+## 534. Revocation of the 1996 Order[^c-8bf1afc7fc816b4250d8b27bf947a2c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Deregulation (Insurance Companies Act 1982) Order 1996 is revoked.
 
 ## Annotations
 
-[^key-8bf1afc7fc816b4250d8b27bf947a2c2]: Commencement: Art. 534 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-8bf1afc7fc816b4250d8b27bf947a2c2]: Commencement: Art. 534 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

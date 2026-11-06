@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 235. Continuity of the law[^key-32e95d7298e6143fcc7e22db0d6ae52f]
+## 235. Continuity of the law[^c-32e95d7298e6143fcc7e22db0d6ae52f]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32e95d7298e6143fcc7e22db0d6ae52f]: Commencement: [S. 235](https://www.legislation.gov.uk/asp/2016/21/section/235) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-32e95d7298e6143fcc7e22db0d6ae52f]: Commencement: [S. 235](https://www.legislation.gov.uk/asp/2016/21/section/235) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

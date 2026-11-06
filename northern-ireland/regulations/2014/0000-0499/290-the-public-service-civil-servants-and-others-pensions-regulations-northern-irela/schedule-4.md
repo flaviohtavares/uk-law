@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 4 — The Partnership Death Benefits Arrangements[^key-0c6cfe0012bea2750daa02e48f55f8db]
+## SCHEDULE 4 — The Partnership Death Benefits Arrangements[^c-0c6cfe0012bea2750daa02e48f55f8db]
 
 *Extent: N.I.*
 
@@ -153,4 +153,4 @@ A lump sum death benefit is payable if a person to whom this Schedule applies di
 
 ## Annotations
 
-[^key-0c6cfe0012bea2750daa02e48f55f8db]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2014/290/schedule/4) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [reg. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/181/schedule/2)
+[^c-0c6cfe0012bea2750daa02e48f55f8db]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/nisr/2014/290/schedule/4) inserted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [reg. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/181/schedule/2)

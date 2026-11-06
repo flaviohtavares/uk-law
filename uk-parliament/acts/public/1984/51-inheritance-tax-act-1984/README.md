@@ -31,7 +31,7 @@ Inheritance Tax Act 1984
 
 An Act to consolidate provisions of Part III of the Finance Act 1975 and other enactments relating to inheritance tax[^c13606481].
 
-\[31st July 1984\][^c19462771][^c19461811][^c13606491][^c13606501][^c13606511][^c13606521][^c21424341][^key-9a57e615097d18470e669c5b501ebf76]
+\[31st July 1984\][^c19462771][^c19461811][^c13606491][^c13606501][^c13606511][^c13606521][^c21424341][^c-9a57e615097d18470e669c5b501ebf76]
 
 ## Contents
 
@@ -78,7 +78,7 @@ An Act to consolidate provisions of Part III of the Finance Act 1975 and other e
 - [Section 8M — Residence nil-rate amount: cases involving conditional exemption](part-i/section-8m.md)
 - [Section 9 — Transitional provisions on reduction of tax.](part-i/section-9.md)
 
-#### Dispositions that are not transfers of value (and omissions that do not give rise to deemed dispositions)[^key-1509c6dd52cc725d9d70f546faa20fa1]
+#### Dispositions that are not transfers of value (and omissions that do not give rise to deemed dispositions)[^c-1509c6dd52cc725d9d70f546faa20fa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -345,7 +345,7 @@ An Act to consolidate provisions of Part III of the Finance Act 1975 and other e
 - [Section 124B — Application of section 124A to replacement property.](part-v/section-124b.md)
 - [Section 124C — Environmental management agreements](part-v/section-124c.md)
 
-#### Chapter 2A — 100% Relief allowance and 100% trust relief allowance[^key-175f597edc5a844161ab2434d3b51df4]
+#### Chapter 2A — 100% Relief allowance and 100% trust relief allowance[^c-175f597edc5a844161ab2434d3b51df4]
 
 - [Section 124D — 100% relief allowance](part-v/section-124d.md)
 - [Section 124E — Transfer of unused 100% relief allowance](part-v/section-124e.md)
@@ -416,11 +416,11 @@ An Act to consolidate provisions of Part III of the Finance Act 1975 and other e
 - [Section 152 — Cash options.](part-v/section-152.md)
 - [Section 153 — Overseas pensions.](part-v/section-153.md)
 
-##### Payments to victims of persecution during Second World War era[^key-eef8a2e39bff7cb018975dc441991078]
+##### Payments to victims of persecution during Second World War era[^c-eef8a2e39bff7cb018975dc441991078]
 
 - [Section 153ZA — Qualifying payments](part-v/section-153za.md)
 
-##### Emergency services[^key-8c64332567af7f163a43074cc5c81a68]
+##### Emergency services[^c-8c64332567af7f163a43074cc5c81a68]
 
 - [Section 153A — Death of emergency service personnel etc](part-v/section-153a.md)
 
@@ -433,7 +433,7 @@ An Act to consolidate provisions of Part III of the Finance Act 1975 and other e
 
 - [Section 155ZA — Foreign diplomats etc](part-v/section-155za.md)
 
-##### Constables and service personnel[^key-067821d3a7f2113acb6a881719b7edc8]
+##### Constables and service personnel[^c-067821d3a7f2113acb6a881719b7edc8]
 
 - [Section 155A — Death of constables and service personnel targeted because of their status](part-v/section-155a.md)
 
@@ -450,7 +450,7 @@ An Act to consolidate provisions of Part III of the Finance Act 1975 and other e
 - [Section 158 — Double taxation conventions.](part-v/section-158.md)
 - [Section 159 — Unilateral relief.](part-v/section-159.md)
 
-##### Dormant assets[^key-eac2c8b29e19a0690036aafd70ac4c44]
+##### Dormant assets[^c-eac2c8b29e19a0690036aafd70ac4c44]
 
 - [Section 159A — Treatment of dormant assets](part-v/section-159a.md)
 
@@ -736,9 +736,9 @@ An Act to consolidate provisions of Part III of the Finance Act 1975 and other e
 
 [^c21424341]: Modification: Act modified (16.6.2011) by [The Taxation of Equitable Life (Payments) Order 2011 (S.I. 2011/1502)](https://www.legislation.gov.uk/uksi/2011/1502), [arts. 1(1)(2)](https://www.legislation.gov.uk/uksi/2011/1502/article/1/1/2), [5](https://www.legislation.gov.uk/uksi/2011/1502/article/5)
 
-[^key-9a57e615097d18470e669c5b501ebf76]: Modification: Act applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [ss. 223(8)(9)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/223/8/9/c)
+[^c-9a57e615097d18470e669c5b501ebf76]: Modification: Act applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [ss. 223(8)(9)(c)](https://www.legislation.gov.uk/ukpga/2014/26/section/223/8/9/c)
 
-[^key-1509c6dd52cc725d9d70f546faa20fa1]: Textual amendment: Words in s. 10 cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 94(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/94/2)
+[^c-1509c6dd52cc725d9d70f546faa20fa1]: Textual amendment: Words in s. 10 cross-heading inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 94(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/94/2)
 
 [^c13608551]: Textual amendment: Words in the title of Chapter II substituted (24.7.2002 with effect in relation to transfers of value on or after 17.4.2002) by virtue of [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), [s. 119(5)(6)](https://www.legislation.gov.uk/ukpga/2002/23/section/119/5/6)
 
@@ -762,16 +762,16 @@ An Act to consolidate provisions of Part III of the Finance Act 1975 and other e
 
 [^M_C_9206688f-652b-4f0a-d705-6d5003be6016]: Modification: Pt. 5 Ch. 2 modified (temp.) (retrospective to 30.10.2024) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 para. 15](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/15)
 
-[^key-175f597edc5a844161ab2434d3b51df4]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/ukpga/1984/51/part/5/chapter/2A) inserted (with effect in accordance with [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/4), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-175f597edc5a844161ab2434d3b51df4]: Textual amendment: [Pt. 5 Ch. 2A](https://www.legislation.gov.uk/ukpga/1984/51/part/5/chapter/2A) inserted (with effect in accordance with [Sch. 12 para. 17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/4), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
 
-[^key-eef8a2e39bff7cb018975dc441991078]: Textual amendment: S. 153ZA and cross-heading inserted (with effect in accordance with s. 95(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/95/1)
+[^c-eef8a2e39bff7cb018975dc441991078]: Textual amendment: S. 153ZA and cross-heading inserted (with effect in accordance with s. 95(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/95/1)
 
-[^key-8c64332567af7f163a43074cc5c81a68]: Textual amendment: S. 153A and cross-heading inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 75(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/75/2)
+[^c-8c64332567af7f163a43074cc5c81a68]: Textual amendment: S. 153A and cross-heading inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 75(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/75/2)
 
 [^M_F_4183007c-5881-4492-fff3-ddf4c0ee4519]: Textual amendment: [S. 155ZA](https://www.legislation.gov.uk/ukpga/1984/51/section/155ZA) and cross-heading inserted (retrospective to 6.4.2025) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 75](https://www.legislation.gov.uk/ukpga/2026/11/section/75)
 
-[^key-067821d3a7f2113acb6a881719b7edc8]: Textual amendment: S. 155A and cross-heading inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 75(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/75/4)
+[^c-067821d3a7f2113acb6a881719b7edc8]: Textual amendment: S. 155A and cross-heading inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 75(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/75/4)
 
-[^key-eac2c8b29e19a0690036aafd70ac4c44]: Textual amendment: [S. 159A](https://www.legislation.gov.uk/ukpga/1984/51/section/159A) and cross-heading inserted (retrospective to 6.6.2022) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 348(2)(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/348/2)
+[^c-eac2c8b29e19a0690036aafd70ac4c44]: Textual amendment: [S. 159A](https://www.legislation.gov.uk/ukpga/1984/51/section/159A) and cross-heading inserted (retrospective to 6.6.2022) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 348(2)(4)](https://www.legislation.gov.uk/ukpga/2023/30/section/348/2)
 
 [^c21428931]: Textual amendment: [S. 221](https://www.legislation.gov.uk/ukpga/1984/51/section/221): words in preceding cross-heading inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/56/article/3/1), [Sch. 1 para. 114](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/114)

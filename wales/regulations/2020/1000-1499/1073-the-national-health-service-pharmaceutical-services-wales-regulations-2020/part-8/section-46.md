@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Core opening hours conditions[^key-5bb98d187b77692892371994abcf7baa]
+## 46. Core opening hours conditions[^c-5bb98d187b77692892371994abcf7baa]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ the Local Health Board must direct that the person listed in relation to the pre
 
 ## Annotations
 
-[^key-5bb98d187b77692892371994abcf7baa]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2020/1073/regulation/46) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-5bb98d187b77692892371994abcf7baa]: Commencement: [Reg. 46](https://www.legislation.gov.uk/wsi/2020/1073/regulation/46) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

@@ -35,34 +35,34 @@ renewing the approval of the active substance 1-methylcyclopropene, in accordanc
 
 (Text with EEA relevance) (revoked)
 
-[^key-f187a94b23ca68b2d1250e069e21cec7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f187a94b23ca68b2d1250e069e21cec7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Renewal of the approval of active substance[^key-f187a94b23ca68b2d1250e069e21cec7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-f187a94b23ca68b2d1250e069e21cec7]
+## Article 1. Renewal of the approval of active substance[^c-f187a94b23ca68b2d1250e069e21cec7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Implementing Regulation (EU) 2015/408[^key-f187a94b23ca68b2d1250e069e21cec7]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-f187a94b23ca68b2d1250e069e21cec7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into force and date of application[^key-f187a94b23ca68b2d1250e069e21cec7]
+## Article 3. Amendment to Implementing Regulation (EU) 2015/408[^c-f187a94b23ca68b2d1250e069e21cec7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f187a94b23ca68b2d1250e069e21cec7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-f187a94b23ca68b2d1250e069e21cec7]
+## Article 4. Entry into force and date of application[^c-f187a94b23ca68b2d1250e069e21cec7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-f187a94b23ca68b2d1250e069e21cec7]
+[^c-f187a94b23ca68b2d1250e069e21cec7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-f187a94b23ca68b2d1250e069e21cec7]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-f187a94b23ca68b2d1250e069e21cec7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f187a94b23ca68b2d1250e069e21cec7]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/5)
+[^c-f187a94b23ca68b2d1250e069e21cec7]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2020/1376/schedule/paragraph/5)

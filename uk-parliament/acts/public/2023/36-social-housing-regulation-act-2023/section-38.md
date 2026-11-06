@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Meaning of “subsidiary”[^key-3d2ed8f3b1669c945c55eef7438e9aaa][^key-68d633407dcf6bd53019d2d4a7262187]
+## 38. Meaning of “subsidiary”[^c-3d2ed8f3b1669c945c55eef7438e9aaa][^c-68d633407dcf6bd53019d2d4a7262187]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d2ed8f3b1669c945c55eef7438e9aaa]: Commencement: S. 38 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-3d2ed8f3b1669c945c55eef7438e9aaa]: Commencement: S. 38 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-68d633407dcf6bd53019d2d4a7262187]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/36/section/38) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/u)
+[^c-68d633407dcf6bd53019d2d4a7262187]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2023/36/section/38) in force at 1.4.2024 by [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/u)

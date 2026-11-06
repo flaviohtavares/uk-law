@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^key-5293d04ddd3c6cdbce9a67985da2a859]
+## SCHEDULE 8 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^c-5293d04ddd3c6cdbce9a67985da2a859]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ Articles 7 and 24
 
 ## Annotations
 
-[^key-5293d04ddd3c6cdbce9a67985da2a859]: Commencement: Sch. 8 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-5293d04ddd3c6cdbce9a67985da2a859]: Commencement: Sch. 8 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

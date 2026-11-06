@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 689. Person liable[^key-c84463eb2d556cda74ff95f8139012fa]
+## 689. Person liable[^c-c84463eb2d556cda74ff95f8139012fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The person liable for any tax charged under this Chapter is the person receiving
 
 ## Annotations
 
-[^key-c84463eb2d556cda74ff95f8139012fa]: Modification: S. 689 excluded (1.12.2009) (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/18/3)
+[^c-c84463eb2d556cda74ff95f8139012fa]: Modification: S. 689 excluded (1.12.2009) (with effect in accordance with art. 1(2)(3) Sch. 1 of the amending S.I.) by [The Offshore Funds (Tax) Regulations 2009 (S.I. 2009/3001)](https://www.legislation.gov.uk/uksi/2009/3001), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/1/1), [18(3)](https://www.legislation.gov.uk/uksi/2009/3001/regulation/18/3)

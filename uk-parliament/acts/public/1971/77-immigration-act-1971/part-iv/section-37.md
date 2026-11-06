@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Short title and extent.[^c9593201][^key-ad2ee42c84f759f70006cbfe12f822d6][^key-65a895f1a2cada0245f82d27ec25750d]
+## 37. Short title and extent.[^c9593201][^c-ad2ee42c84f759f70006cbfe12f822d6][^c-65a895f1a2cada0245f82d27ec25750d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 [^c9593201]: Modification: S. 37 extended (with modifications) (1.8.1993) by [S.I. 1993/1796](https://www.legislation.gov.uk/uksi/1993/1796), art. 3(1), Sch. 1 Pt. I (Guernsey), S.I. 1993/1797, art. 3(1), Sch. 1 Pt. I (Jersey) (as amended (17.10.2012) by [S.I. 2012/2593](https://www.legislation.gov.uk/uksi/2012/2593), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2593/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/2/2))
 
-[^key-ad2ee42c84f759f70006cbfe12f822d6]: Modification: S. 37: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (17.10.2012 coming into force in accordance with art. 1) by [The Immigration and Asylum (Jersey) Order 2012 (S.I. 2012/2593)](https://www.legislation.gov.uk/uksi/2012/2593), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2593/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/2/2)
+[^c-ad2ee42c84f759f70006cbfe12f822d6]: Modification: S. 37: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (17.10.2012 coming into force in accordance with art. 1) by [The Immigration and Asylum (Jersey) Order 2012 (S.I. 2012/2593)](https://www.legislation.gov.uk/uksi/2012/2593), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2593/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/2593/article/2/2)
 
-[^key-65a895f1a2cada0245f82d27ec25750d]: Modification: S. 37: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))
+[^c-65a895f1a2cada0245f82d27ec25750d]: Modification: S. 37: amendment to earlier affecting S.I. 1993/1797, Sch. 1 Pt. 1 (11.10.2017 coming into force in accordance with art. 1) by [The Immigration (Jersey) (Amendment) Order 2017 (S.I. 2017/981)](https://www.legislation.gov.uk/uksi/2017/981), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/981/schedule/part/1/paragraph/1) (with [art. 6](https://www.legislation.gov.uk/uksi/2017/981/article/6))

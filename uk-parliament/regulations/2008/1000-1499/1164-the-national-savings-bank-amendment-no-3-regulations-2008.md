@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred upon them by section 2(1) of the National Savings Bank Act 1971[^f00001], as extended by sections 3(2), 4(4), 6(1), 7(2) and 8(1)(l) of that Act, make the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-d9c8aff975817f041844cd1421392330]
+## 1. Citation, commencement and interpretation[^c-d9c8aff975817f041844cd1421392330]
 
 (1) These Regulations may be cited as the National Savings Bank (Amendment) (No.3) Regulations 2008.
 
@@ -54,7 +54,7 @@ The Treasury, in exercise of the powers conferred upon them by section 2(1) of t
 
 (3) In these Regulations “the 1972 Regulations” means the National Savings Bank Regulations 1972[^f00002].
 
-## 2. Withdrawal by electronic transfer[^key-d46dfa22554976b738b599712e470a28]
+## 2. Withdrawal by electronic transfer[^c-d46dfa22554976b738b599712e470a28]
 
 (1) Regulation 21 of the 1972 Regulations is amended as follows.
 
@@ -99,7 +99,7 @@ The Treasury, in exercise of the powers conferred upon them by section 2(1) of t
 
 .
 
-## 3. Calculation of interest on investment deposits[^key-3d4bc94b5d4790f638bef76881c3aeb4]
+## 3. Calculation of interest on investment deposits[^c-3d4bc94b5d4790f638bef76881c3aeb4]
 
 (1) Regulation 42 of the 1972 Regulations is amended as follows.
 
@@ -109,7 +109,7 @@ The Treasury, in exercise of the powers conferred upon them by section 2(1) of t
 
 (4) In paragraph (3)(b)[^f00006] of the 1972 Regulations for “regulation” substitute “regulations 21,”.
 
-## 4. Conditions for making investment deposits pursuant to telephone instructions[^key-d5111f235b299be1df48091a9adf9f23]
+## 4. Conditions for making investment deposits pursuant to telephone instructions[^c-d5111f235b299be1df48091a9adf9f23]
 
 (1) The 1972 Regulations are amended as follows.
 
@@ -130,7 +130,7 @@ The Treasury, in exercise of the powers conferred upon them by section 2(1) of t
 
 .
 
-## 5. Increase in maximum holding limit[^key-5bf27cdb8a8a6e7bf61b9c4f202c50af]
+## 5. Increase in maximum holding limit[^c-5bf27cdb8a8a6e7bf61b9c4f202c50af]
 
 Article 3 of the National Savings Bank (Investment Deposits) (Limits) Order 1977[^f00008] is amended by substituting the figure “£1,000,000” for the figure “£100,000”.
 
@@ -164,26 +164,26 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1971 c.29](https://www.legislation.gov.uk/ukpga/1971/29).
 
-[^key-d9c8aff975817f041844cd1421392330]: Commencement: Reg. 1 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
+[^c-d9c8aff975817f041844cd1421392330]: Commencement: Reg. 1 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 1972/764](https://www.legislation.gov.uk/uksi/1972/764); relevant amending instruments are [S.I. 1996/1724](https://www.legislation.gov.uk/uksi/1996/1724), [1999/588](https://www.legislation.gov.uk/uksi/1999/588), [1999/1611](https://www.legislation.gov.uk/uksi/1999/1611), [2006/1066](https://www.legislation.gov.uk/uksi/2006/1066).
 
-[^key-d46dfa22554976b738b599712e470a28]: Commencement: Reg. 2 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
+[^c-d46dfa22554976b738b599712e470a28]: Commencement: Reg. 2 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
 
 [^f00003]: Footnote: Regulation 21(1) was amended by [S.I. 2006/1066](https://www.legislation.gov.uk/uksi/2006/1066).
 
 [^f00004]: Footnote: Regulation 21(4) was amended by [S.I. 2006/1066](https://www.legislation.gov.uk/uksi/2006/1066).
 
-[^key-3d4bc94b5d4790f638bef76881c3aeb4]: Commencement: Reg. 3 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
+[^c-3d4bc94b5d4790f638bef76881c3aeb4]: Commencement: Reg. 3 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
 
 [^f00005]: Footnote: Regulation 42(2) was substituted by [S.I. 1999/588](https://www.legislation.gov.uk/uksi/1999/588) and amended by [1999/1611](https://www.legislation.gov.uk/uksi/1999/1611).
 
 [^f00006]: Footnote: Regulation 42(3) was amended by [S.I. 1996/1724](https://www.legislation.gov.uk/uksi/1996/1724) and [1999/588](https://www.legislation.gov.uk/uksi/1999/588).
 
-[^key-d5111f235b299be1df48091a9adf9f23]: Commencement: Reg. 4 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
+[^c-d5111f235b299be1df48091a9adf9f23]: Commencement: Reg. 4 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
 
 [^f00007]: Footnote: Regulation 42(2B) was inserted by [S.I. 1999/588](https://www.legislation.gov.uk/uksi/1999/588).
 
-[^key-5bf27cdb8a8a6e7bf61b9c4f202c50af]: Commencement: Reg. 5 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
+[^c-5bf27cdb8a8a6e7bf61b9c4f202c50af]: Commencement: Reg. 5 in force at 19.5.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/1164/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 1977/1210](https://www.legislation.gov.uk/uksi/1977/1210); relevant amending instruments are [S.I 1989/2444](https://www.legislation.gov.uk/uksi/1989/2444); [1993/1239](https://www.legislation.gov.uk/uksi/1993/1239).

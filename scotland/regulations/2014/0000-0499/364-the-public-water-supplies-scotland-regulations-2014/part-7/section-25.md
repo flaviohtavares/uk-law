@@ -55,14 +55,14 @@ the particulars to be specified in the authorisation are those required by parag
 
 (6) Paragraphs (1) to (4) and (9) apply to a second departure as they apply to a first departure.
 
-(7)[^key-3ce30e7b6a99c8e60c4d7c00666aac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3ce30e7b6a99c8e60c4d7c00666aac8f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-8cff3bad03db0afffd40004902ece3ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-8cff3bad03db0afffd40004902ece3ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Paragraph (4) does not apply if the failure to comply with a prescribed concentration or value has occurred on more than 30 days on aggregate during the previous 12 months.
 
 ## Annotations
 
-[^key-3ce30e7b6a99c8e60c4d7c00666aac8f]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/ssi/2014/364/regulation/25/7) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2022/387/regulation/10)
+[^c-3ce30e7b6a99c8e60c4d7c00666aac8f]: Textual amendment: [Reg. 25(7)](https://www.legislation.gov.uk/ssi/2014/364/regulation/25/7) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2022/387/regulation/10)
 
-[^key-8cff3bad03db0afffd40004902ece3ef]: Textual amendment: [Reg. 25(8)](https://www.legislation.gov.uk/ssi/2014/364/regulation/25/8) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2022/387/regulation/10)
+[^c-8cff3bad03db0afffd40004902ece3ef]: Textual amendment: [Reg. 25(8)](https://www.legislation.gov.uk/ssi/2014/364/regulation/25/8) omitted (1.1.2023) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [10](https://www.legislation.gov.uk/ssi/2022/387/regulation/10)

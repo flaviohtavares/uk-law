@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Annual benefit statements[^key-af4c24b7317b3b0b69cd3d728bc5a3c1]
+## 84. Annual benefit statements[^c-af4c24b7317b3b0b69cd3d728bc5a3c1]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af4c24b7317b3b0b69cd3d728bc5a3c1]: Modification: [Reg. 84](https://www.legislation.gov.uk/ssi/2018/141/regulation/84) modified (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2024/374/regulation/6)
+[^c-af4c24b7317b3b0b69cd3d728bc5a3c1]: Modification: [Reg. 84](https://www.legislation.gov.uk/ssi/2018/141/regulation/84) modified (6.2.2025 with effect from 1.10.2023) by [The Local Government Pension Scheme (Remediable Service) (Scotland) (Miscellaneous Amendment) Regulations 2024 (S.S.I. 2024/374)](https://www.legislation.gov.uk/ssi/2024/374), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/1)[(2)](https://www.legislation.gov.uk/ssi/2024/374/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2024/374/regulation/6)
 
 [^c22971011]: Marginal citation: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).

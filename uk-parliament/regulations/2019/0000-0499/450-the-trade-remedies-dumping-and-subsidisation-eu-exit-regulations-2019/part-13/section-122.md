@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122.[^key-1ae93da9754f78f8e16b22a6ef117956]
+## 122.[^c-1ae93da9754f78f8e16b22a6ef117956]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ Regulation 76 (acceptance or rejection of the TRA's recommendation by the Secret
 
 ## Annotations
 
-[^key-1ae93da9754f78f8e16b22a6ef117956]: Commencement: Reg. 122 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-1ae93da9754f78f8e16b22a6ef117956]: Commencement: Reg. 122 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

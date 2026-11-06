@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Operation of an accountancy and control plan[^key-7b2d2d7bee357ff54f54e9394ea57c52]
+## 9. Operation of an accountancy and control plan[^c-7b2d2d7bee357ff54f54e9394ea57c52]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b2d2d7bee357ff54f54e9394ea57c52]: Commencement: Reg. 9 in force at 1.1.2021, see reg. 1(3)
+[^c-7b2d2d7bee357ff54f54e9394ea57c52]: Commencement: Reg. 9 in force at 1.1.2021, see reg. 1(3)

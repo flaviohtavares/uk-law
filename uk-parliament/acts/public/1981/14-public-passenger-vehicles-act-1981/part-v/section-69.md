@@ -24,7 +24,7 @@ summary: ''
 
 (2) Subsection (1) above shall not apply to proceedings for the breach of regulations having effect by virtue of section 25 or 26 of this Act.
 
-(3)[^key-63d0db3e12ad93a269fb884a91708b3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-63d0db3e12ad93a269fb884a91708b3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c2522361]: Textual amendment: Words substituted by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 3(5)](https://www.legislation.gov.uk/ukpga/1985/67/section/3/5), [Sch. 2 Pt. II para. 4(19)](https://www.legislation.gov.uk/ukpga/1985/67/schedule/2/part/II/paragraph/4/19)
 
-[^key-63d0db3e12ad93a269fb884a91708b3b]: Textual amendment: [S. 69(3)](https://www.legislation.gov.uk/ukpga/1981/14/section/69/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-63d0db3e12ad93a269fb884a91708b3b]: Textual amendment: [S. 69(3)](https://www.legislation.gov.uk/ukpga/1981/14/section/69/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

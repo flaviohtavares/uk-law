@@ -25,16 +25,16 @@ summary: ''
 - (a) the first day of the first period of account mentioned in regulation 53(1)(a), or
 - (b) the day on which the fund is established.
 
-This paragraph and paragraphs (2) and (3) are subject to paragraph (4).[^key-132dcfcd093687aedf702cbe67d83d16]
+This paragraph and paragraphs (2) and (3) are subject to paragraph (4).[^c-132dcfcd093687aedf702cbe67d83d16]
 
 (2) This Part applies to the fund and to its participants on and after the date specified in paragraph (1).
 
 (3) Once this Part has begun to apply to a fund, it shall continue to apply unless and until it ceases to apply in accordance with Chapter 11 of this Part.
 
-(4)[^key-059c70d3f2bd8b21c8648081627d7206] Where an application has been withdrawn under regulation 54(3)(b), the fund and its participants shall be treated as if the fund had never been a reporting fund.
+(4)[^c-059c70d3f2bd8b21c8648081627d7206] Where an application has been withdrawn under regulation 54(3)(b), the fund and its participants shall be treated as if the fund had never been a reporting fund.
 
 ## Annotations
 
-[^key-132dcfcd093687aedf702cbe67d83d16]: Textual amendment: Words in reg. 57(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/32/2)
+[^c-132dcfcd093687aedf702cbe67d83d16]: Textual amendment: Words in reg. 57(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [32(2)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/32/2)
 
-[^key-059c70d3f2bd8b21c8648081627d7206]: Textual amendment: Reg. 57(4) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [32(3)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/32/3)
+[^c-059c70d3f2bd8b21c8648081627d7206]: Textual amendment: Reg. 57(4) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [32(3)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/32/3)

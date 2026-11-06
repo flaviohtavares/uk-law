@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15ZA. Accession to the Hague Agreement[^key-76e6c6fa6dee963cc74a62d0e8bfacca]
+## 15ZA. Accession to the Hague Agreement[^c-76e6c6fa6dee963cc74a62d0e8bfacca]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76e6c6fa6dee963cc74a62d0e8bfacca]: Textual amendment: S. 15ZA inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/8/1), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)
+[^c-76e6c6fa6dee963cc74a62d0e8bfacca]: Textual amendment: S. 15ZA inserted (1.10.2014) by [Intellectual Property Act 2014 (c. 18)](https://www.legislation.gov.uk/ukpga/2014/18), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/8/1), [24(1)](https://www.legislation.gov.uk/ukpga/2014/18/section/24/1); [S.I. 2014/2330](https://www.legislation.gov.uk/uksi/2014/2330), [art. 3](https://www.legislation.gov.uk/uksi/2014/2330/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2330/schedule)

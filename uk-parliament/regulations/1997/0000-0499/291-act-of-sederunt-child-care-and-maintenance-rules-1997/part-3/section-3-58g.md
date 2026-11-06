@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.58G. Decision of sheriff in appeals[^key-2b6e59d348895334c299bd0669dfa968]
+## 3.58G. Decision of sheriff in appeals[^c-2b6e59d348895334c299bd0669dfa968]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b6e59d348895334c299bd0669dfa968]: Textual amendment: Ch. 3 Pt. 8B inserted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(7)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/7)
+[^c-2b6e59d348895334c299bd0669dfa968]: Textual amendment: Ch. 3 Pt. 8B inserted (1.2.2016) by [Act of Sederunt (Sheriff Court Rules Amendment) (Miscellaneous) 2015 (S.S.I. 2015/424)](https://www.legislation.gov.uk/ssi/2015/424), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/1/2), [3(7)](https://www.legislation.gov.uk/ssi/2015/424/paragraph/3/7)

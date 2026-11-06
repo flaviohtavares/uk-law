@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119A. Payment of distance learning fee loan[^key-8098314d00e4a2046f0064e6f98cfb8a]
+## 119A. Payment of distance learning fee loan[^c-8098314d00e4a2046f0064e6f98cfb8a]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8098314d00e4a2046f0064e6f98cfb8a]: Textual amendment: [Reg. 119A](https://www.legislation.gov.uk/nisr/2009/373/regulation/119A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2017/7/regulation/20)
+[^c-8098314d00e4a2046f0064e6f98cfb8a]: Textual amendment: [Reg. 119A](https://www.legislation.gov.uk/nisr/2009/373/regulation/119A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [20](https://www.legislation.gov.uk/nisr/2017/7/regulation/20)

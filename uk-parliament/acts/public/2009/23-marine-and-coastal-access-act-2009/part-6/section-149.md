@@ -35,7 +35,7 @@ summary: ''
 - (d) the MMO,
 - (e) the authority for any existing IFC district that would, if the order were made, adjoin the IFC district established by the order,
 - (f) the Welsh Ministers, in a case where, if the order were made, the IFC district established by the order would adjoin the Welsh inshore region,
-- (g)[^key-c9afa8d5c3dae7e60443f726c45d0cdb] the Natural Resources Body for Wales, in a case where, if the order were made, the IFC district established by the order would adjoin the Welsh inshore region,
+- (g)[^c-c9afa8d5c3dae7e60443f726c45d0cdb] the Natural Resources Body for Wales, in a case where, if the order were made, the IFC district established by the order would adjoin the Welsh inshore region,
 
 and any other person likely to be affected by the making of the order.
 
@@ -43,4 +43,4 @@ and any other person likely to be affected by the making of the order.
 
 [^c2007924]: Commencement: S. 149 partly in force; s. 149 in force for specified purposes at Royal Assent see s. 324(1)(c)
 
-[^key-c9afa8d5c3dae7e60443f726c45d0cdb]: Textual amendment: [S. 149(3)(g)](https://www.legislation.gov.uk/ukpga/2009/23/section/149/3/g) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 444](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/444) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-c9afa8d5c3dae7e60443f726c45d0cdb]: Textual amendment: [S. 149(3)(g)](https://www.legislation.gov.uk/ukpga/2009/23/section/149/3/g) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 444](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/444) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

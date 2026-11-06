@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 8 — Inspectors[^key-d02b087d33d819be9fa6a63efc817a98]
+## SCHEDULE 8 — Inspectors[^c-d02b087d33d819be9fa6a63efc817a98]
 
 *Extent: E+W+S+N.I.*
 
 Section 83
 
-### PART 1 — Appointment and powers of inspectors[^key-d02b087d33d819be9fa6a63efc817a98]
+### PART 1 — Appointment and powers of inspectors[^c-d02b087d33d819be9fa6a63efc817a98]
 
 #### Appointment of inspectors
 
-**1.**[^key-d8921498a554f94b9bc8dae2533d0089][^key-d02b087d33d819be9fa6a63efc817a98] (1) The ONR may appoint persons (referred to in this Part of this Act as “**inspectors**”) to carry into effect the relevant statutory provisions.
+**1.**[^c-d8921498a554f94b9bc8dae2533d0089][^c-d02b087d33d819be9fa6a63efc817a98] (1) The ONR may appoint persons (referred to in this Part of this Act as “**inspectors**”) to carry into effect the relevant statutory provisions.
 
 (2) A person appointed as an inspector must be someone who appears to the ONR to be suitably qualified to carry out the functions that the ONR authorises the person to carry out.
 
@@ -38,7 +38,7 @@ Section 83
 
 #### Powers of inspectors
 
-**2.**[^key-33263ee49e25688cec1cdc984029ce65][^key-d02b087d33d819be9fa6a63efc817a98] (1) An inspector's instrument of appointment may authorise the inspector to exercise any relevant power.
+**2.**[^c-33263ee49e25688cec1cdc984029ce65][^c-d02b087d33d819be9fa6a63efc817a98] (1) An inspector's instrument of appointment may authorise the inspector to exercise any relevant power.
 
 (2) Authority to exercise a relevant power may be given—
 
@@ -53,13 +53,13 @@ Section 83
 
 (6) When exercising or seeking to exercise any relevant power, an inspector must, if asked, produce the instrument of appointment (including any instrument varying it) or a duly authenticated copy.
 
-### PART 2 — Powers exercisable by inspectors authorised by instrument of appointment: improvement notices and prohibition notices[^key-d02b087d33d819be9fa6a63efc817a98]
+### PART 2 — Powers exercisable by inspectors authorised by instrument of appointment: improvement notices and prohibition notices[^c-d02b087d33d819be9fa6a63efc817a98]
 
 *Extent: E+W+S*
 
 #### Improvement notices
 
-**3.**[^key-93d39ed512ae11dd44f8d84d3a9e0541][^key-d02b087d33d819be9fa6a63efc817a98] (1) This paragraph applies where an inspector is of the opinion that a person—
+**3.**[^c-93d39ed512ae11dd44f8d84d3a9e0541][^c-d02b087d33d819be9fa6a63efc817a98] (1) This paragraph applies where an inspector is of the opinion that a person—
 
 - (a) is contravening one or more applicable provisions, or
 - (b) has contravened one or more of those provisions in circumstances that make it likely that the contravention will continue or be repeated.
@@ -80,12 +80,12 @@ within the period specified in the notice.
 
 (5) In this paragraph “**applicable provision**” means—
 
-- (a) any of the relevant statutory provisions other than any provision of nuclear regulations which is identified in accordance with section 74(9) (provision made for nuclear security purposes),[^key-4645b29c9f2f461fb3799797eff2947c] or
+- (a) any of the relevant statutory provisions other than any provision of nuclear regulations which is identified in accordance with section 74(9) (provision made for nuclear security purposes),[^c-4645b29c9f2f461fb3799797eff2947c] or
 - (b) any condition attached to a nuclear site licence under section 4 of the Nuclear Installations Act 1965 relating to a site in England, Wales or Scotland.
 
 #### Prohibition notices
 
-**4.**[^key-3e962162e01af9fca190262563a3ce5a][^key-d02b087d33d819be9fa6a63efc817a98] (1) This paragraph applies where an inspector is of the opinion that—
+**4.**[^c-3e962162e01af9fca190262563a3ce5a][^c-d02b087d33d819be9fa6a63efc817a98] (1) This paragraph applies where an inspector is of the opinion that—
 
 - (a) relevant activities, as they are being carried on by or under the control of a person, involve a risk of serious personal injury, or
 - (b) relevant activities which are likely to be carried on by or under the control of a person will, as so carried on, involve a risk of serious personal injury.
@@ -110,12 +110,12 @@ within the period specified in the notice.
 
 (5) In this paragraph—
 
-- “**applicable provision**” has the same meaning as in paragraph 3 but does not include nuclear safeguards regulations or a provision of the Nuclear Safeguards Act 2000[^key-50694a65e40dc7e00767248102503294];
+- “**applicable provision**” has the same meaning as in paragraph 3 but does not include nuclear safeguards regulations or a provision of the Nuclear Safeguards Act 2000[^c-50694a65e40dc7e00767248102503294];
 - “**relevant activities**” means any activities in relation to which any applicable provision applies (or would apply if they were being carried on).
 
 #### Improvement and prohibition notices: supplementary
 
-**5.**[^key-740ba3175612c05428a2d572d629f8ea][^key-d02b087d33d819be9fa6a63efc817a98] (1) In this paragraph “**a notice**” means an improvement notice or a prohibition notice.
+**5.**[^c-740ba3175612c05428a2d572d629f8ea][^c-d02b087d33d819be9fa6a63efc817a98] (1) In this paragraph “**a notice**” means an improvement notice or a prohibition notice.
 
 (2) A notice may (but need not) include directions as to the measures to be taken to remedy any contravention or matter to which the notice relates.
 
@@ -147,7 +147,7 @@ For this purpose “**applicable provision**” has the same meaning as in parag
 
 #### Appeal against improvement or prohibition notice
 
-**6.**[^key-171e78d5afa3f439effb77f099129e42][^key-d02b087d33d819be9fa6a63efc817a98] (1) In this paragraph “**a notice**” means an improvement notice or a prohibition notice.
+**6.**[^c-171e78d5afa3f439effb77f099129e42][^c-d02b087d33d819be9fa6a63efc817a98] (1) In this paragraph “**a notice**” means an improvement notice or a prohibition notice.
 
 (2) A person to whom a notice is given may appeal within such period after the notice is given as may be prescribed by regulations made by the Secretary of State (“the prescribed period”).
 
@@ -173,7 +173,7 @@ the operation of the notice is suspended from the time the direction is given un
 
 #### Improvement and prohibition notices: offences
 
-**7.**[^key-b664331ec247255afa8d2b2cc18cdab0][^key-d02b087d33d819be9fa6a63efc817a98] (1) It is an offence to contravene any requirement or prohibition imposed by an improvement notice or a prohibition notice.
+**7.**[^c-b664331ec247255afa8d2b2cc18cdab0][^c-d02b087d33d819be9fa6a63efc817a98] (1) It is an offence to contravene any requirement or prohibition imposed by an improvement notice or a prohibition notice.
 
 (2) A person who commits an offence under this paragraph is liable—
 
@@ -186,13 +186,13 @@ the operation of the notice is suspended from the time the direction is given un
   - (ii) to a fine, or
   - (iii) to both.
 
-(3)[^key-8839f2aca15ab8ce51650050db4f4414] In the application of this paragraph in England and Wales, the reference in sub-paragraph (2)(a)(i) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+(3)[^c-8839f2aca15ab8ce51650050db4f4414] In the application of this paragraph in England and Wales, the reference in sub-paragraph (2)(a)(i) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
-### PART 3 — Other powers exercisable by inspector if authorised by instrument of appointment[^key-d02b087d33d819be9fa6a63efc817a98]
+### PART 3 — Other powers exercisable by inspector if authorised by instrument of appointment[^c-d02b087d33d819be9fa6a63efc817a98]
 
 #### Power of entry
 
-**8.**[^key-8353cd4d0b7dac1cdea6e3e0e1737e23][^key-d02b087d33d819be9fa6a63efc817a98] (1) An inspector may, if authorised, enter any premises which the inspector has reason to believe it is necessary for the inspector to enter for the relevant purpose—
+**8.**[^c-8353cd4d0b7dac1cdea6e3e0e1737e23][^c-d02b087d33d819be9fa6a63efc817a98] (1) An inspector may, if authorised, enter any premises which the inspector has reason to believe it is necessary for the inspector to enter for the relevant purpose—
 
 - (a) at any reasonable time, or
 - (b) at any time, in a situation—
@@ -217,7 +217,7 @@ the operation of the notice is suspended from the time the direction is given un
 
 #### Power to take persons and equipment etc onto premises
 
-**9.**[^key-eb8fe89640234e1a4f0d7c6b2f4d6730][^key-d02b087d33d819be9fa6a63efc817a98] In exercising the power of entry mentioned in paragraph 8, an inspector may—
+**9.**[^c-eb8fe89640234e1a4f0d7c6b2f4d6730][^c-d02b087d33d819be9fa6a63efc817a98] In exercising the power of entry mentioned in paragraph 8, an inspector may—
 
 - (a) be accompanied—
   - (i) by any person approved by the ONR for the purpose, and
@@ -226,7 +226,7 @@ the operation of the notice is suspended from the time the direction is given un
 
 #### Power to deal with cause of imminent danger
 
-**10.**[^key-d584ee18559a23ccdb542d6a4533c7d4][^key-d02b087d33d819be9fa6a63efc817a98] (1) Sub-paragraph (2) applies where an inspector finds any article or substance in relevant premises in circumstances in which the inspector has reasonable cause to believe it is a cause of imminent danger of serious personal injury.
+**10.**[^c-d584ee18559a23ccdb542d6a4533c7d4][^c-d02b087d33d819be9fa6a63efc817a98] (1) Sub-paragraph (2) applies where an inspector finds any article or substance in relevant premises in circumstances in which the inspector has reasonable cause to believe it is a cause of imminent danger of serious personal injury.
 
 (2) The inspector may, if authorised, do any of the following—
 
@@ -259,7 +259,7 @@ the operation of the notice is suspended from the time the direction is given un
 
 #### Powers exercisable in relation to particular articles or substances or in particular circumstances
 
-**11.**[^key-b841b407625146df462eb8ec7035b0c3][^key-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may cause any article or substance in relevant premises—
+**11.**[^c-b841b407625146df462eb8ec7035b0c3][^c-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may cause any article or substance in relevant premises—
 
 - (a) to be dismantled;
 - (b) to be tested;
@@ -276,7 +276,7 @@ the operation of the notice is suspended from the time the direction is given un
 
 (5) If requested by a person who has responsibilities in relation to the relevant premises, and is on the premises, the inspector must allow anything done to the article or substance under this paragraph to be done in that person's presence, unless the inspector considers that that would be prejudicial to national security.
 
-**12.**[^key-67bc1901145fa2f03923da6108280b25][^key-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may take possession of any article or substance found on relevant premises and retain it for as long as necessary—
+**12.**[^c-67bc1901145fa2f03923da6108280b25][^c-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may take possession of any article or substance found on relevant premises and retain it for as long as necessary—
 
 - (a) for it to be examined;
 - (b) for anything to be done to it which the inspector may cause to be done under paragraph 11;
@@ -304,7 +304,7 @@ the operation of the notice is suspended from the time the direction is given un
 
 #### Powers of inspection and examination and to take samples
 
-**13.**[^key-563ab8e2b2ac7a382035614ee75b6b40][^key-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may carry out any examination or investigation necessary for the relevant purpose and, in doing so, may—
+**13.**[^c-563ab8e2b2ac7a382035614ee75b6b40][^c-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may carry out any examination or investigation necessary for the relevant purpose and, in doing so, may—
 
 - (a) take measurements and photographs, and
 - (b) make recordings.
@@ -319,7 +319,7 @@ the operation of the notice is suspended from the time the direction is given un
 - (a) the procedure to be followed in taking any such samples, and
 - (b) the way in which any such samples are to be dealt with.
 
-**14.**[^key-54e969b3834bb1c901c4f7b943f3c9f2][^key-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may direct that any relevant premises, or any article or substance in them, must be left undisturbed for as long as reasonably necessary for the purposes of any examination or investigation necessary for the purpose of any of the relevant statutory provisions.
+**14.**[^c-54e969b3834bb1c901c4f7b943f3c9f2][^c-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may direct that any relevant premises, or any article or substance in them, must be left undisturbed for as long as reasonably necessary for the purposes of any examination or investigation necessary for the purpose of any of the relevant statutory provisions.
 
 (2) A direction under sub-paragraph (1)—
 
@@ -328,7 +328,7 @@ the operation of the notice is suspended from the time the direction is given un
 
 #### Powers to require information and documents
 
-**15.**[^key-10c0e71103656ca23d0a04c2ec666416][^key-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may require any person who the inspector has reasonable cause to believe is able to give any information relevant to any examination or investigation under paragraph 13—
+**15.**[^c-10c0e71103656ca23d0a04c2ec666416][^c-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may require any person who the inspector has reasonable cause to believe is able to give any information relevant to any examination or investigation under paragraph 13—
 
 - (a) to answer any question the inspector thinks fit, and
 - (b) to sign a declaration of the truth of the person's answers.
@@ -339,7 +339,7 @@ the operation of the notice is suspended from the time the direction is given un
 
 (4) No answer given by a person by virtue of this paragraph is admissible in evidence against the person, or the person's spouse or civil partner, in any proceedings.
 
-**16.**[^key-5d6ed2a22e7f65069d5bba862640dff0][^key-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may—
+**16.**[^c-5d6ed2a22e7f65069d5bba862640dff0][^c-d02b087d33d819be9fa6a63efc817a98] (1) An authorised inspector may—
 
 - (a) require any relevant documents to be produced, and
 - (b) inspect and take copies of (or of any information in) any relevant documents.
@@ -360,9 +360,9 @@ the operation of the notice is suspended from the time the direction is given un
 
 #### Offences
 
-**17.**[^key-92d3c4390d9b09cda2763779f6dd32be][^key-d02b087d33d819be9fa6a63efc817a98] (1)[^key-59762d597c228c06de893fa0da9c2e05] It is an offence for a person to contravene any requirement imposed by an inspector under this Part of this Schedule.
+**17.**[^c-92d3c4390d9b09cda2763779f6dd32be][^c-d02b087d33d819be9fa6a63efc817a98] (1)[^c-59762d597c228c06de893fa0da9c2e05] It is an offence for a person to contravene any requirement imposed by an inspector under this Part of this Schedule.
 
-(2)[^key-59762d597c228c06de893fa0da9c2e05] It is an offence for a person to prevent or attempt to prevent any other person from—
+(2)[^c-59762d597c228c06de893fa0da9c2e05] It is an offence for a person to prevent or attempt to prevent any other person from—
 
 - (a) appearing before an inspector, or
 - (b) answering any question to which an inspector may require an answer by virtue of paragraph 15.
@@ -378,9 +378,9 @@ the operation of the notice is suspended from the time the direction is given un
   - (ii) to a fine, or
   - (iii) to both.
 
-(4)[^key-8aabef7cca5f51a67e04309a7ac17e6f] In the application of this paragraph in England and Wales, the reference in sub-paragraph (3)(a)(i) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
+(4)[^c-8aabef7cca5f51a67e04309a7ac17e6f] In the application of this paragraph in England and Wales, the reference in sub-paragraph (3)(a)(i) to 12 months is to be read as a reference to the general limit in a magistrates’ court (or to 6 months in relation to an offence committed before 2 May 2022).
 
-**18.**[^key-d7d304d02b4e03e10504820cc7bd62da][^key-d02b087d33d819be9fa6a63efc817a98] (1)[^key-9dbee5efbc3dbbd5a12c0baf2862e4ba] It is an offence for a person intentionally to obstruct an inspector in the exercise or performance of the inspector's functions.
+**18.**[^c-d7d304d02b4e03e10504820cc7bd62da][^c-d02b087d33d819be9fa6a63efc817a98] (1)[^c-9dbee5efbc3dbbd5a12c0baf2862e4ba] It is an offence for a person intentionally to obstruct an inspector in the exercise or performance of the inspector's functions.
 
 (2) A person who commits an offence under this paragraph is liable on summary conviction—
 
@@ -392,7 +392,7 @@ the operation of the notice is suspended from the time the direction is given un
 
 (3) In relation to an offence committed before the commencement of section 281(5) of the Criminal Justice Act 2003 (alteration of penalties for summary offences), the reference in sub-paragraph (2)(a), as it has effect in England and Wales, to 51 weeks is to be read as a reference to 6 months.
 
-**19.**[^key-0397a2da59c064e129073584e4ddccc7][^key-d02b087d33d819be9fa6a63efc817a98] (1)[^key-dfde3966d373bd359e18a7f3eacc1a69] It is an offence for a person falsely to pretend to be an inspector.
+**19.**[^c-0397a2da59c064e129073584e4ddccc7][^c-d02b087d33d819be9fa6a63efc817a98] (1)[^c-dfde3966d373bd359e18a7f3eacc1a69] It is an offence for a person falsely to pretend to be an inspector.
 
 (2) A person who commits an offence under this paragraph is liable on summary conviction to—
 
@@ -401,29 +401,29 @@ the operation of the notice is suspended from the time the direction is given un
 
 #### Supplementary powers
 
-**20.**[^key-c9e41ee876e4828c34e6a440e92fdec8][^key-d02b087d33d819be9fa6a63efc817a98] A power conferred by this Schedule includes power to require any person to provide any facilities or assistance relating to matters or things—
+**20.**[^c-c9e41ee876e4828c34e6a440e92fdec8][^c-d02b087d33d819be9fa6a63efc817a98] A power conferred by this Schedule includes power to require any person to provide any facilities or assistance relating to matters or things—
 
 - (a) within the person's control, or
 - (b) in relation to which the person has responsibilities,
 
 which are needed in order to enable an authorised inspector to exercise the power.
 
-**21.**[^key-471cd53b1a850b0c5e1539637ffb2757][^key-d02b087d33d819be9fa6a63efc817a98] A power conferred by this Schedule includes power to do anything incidental that is necessary for the relevant purpose.
+**21.**[^c-471cd53b1a850b0c5e1539637ffb2757][^c-d02b087d33d819be9fa6a63efc817a98] A power conferred by this Schedule includes power to do anything incidental that is necessary for the relevant purpose.
 
 #### Protection for documents subject to legal professional privilege etc
 
-**22.**[^key-473edb4ccd76ada4e0ad2f9d9ab28bf0][^key-d02b087d33d819be9fa6a63efc817a98] Nothing in this Part of this Schedule is to be taken to confer power to compel the production by any person of a document or information in respect of which—
+**22.**[^c-473edb4ccd76ada4e0ad2f9d9ab28bf0][^c-d02b087d33d819be9fa6a63efc817a98] Nothing in this Part of this Schedule is to be taken to confer power to compel the production by any person of a document or information in respect of which—
 
 - (a) in England and Wales or Northern Ireland, a claim to legal professional privilege, or
 - (b) in Scotland, a claim to confidentiality of communications,
 
 could be maintained in legal proceedings.
 
-### PART 4 — Supplementary[^key-d02b087d33d819be9fa6a63efc817a98]
+### PART 4 — Supplementary[^c-d02b087d33d819be9fa6a63efc817a98]
 
 #### Duty to provide information to employees or their representatives
 
-**23.**[^key-8fb1e2e6afc0a697aee2e2358e17acfd][^key-d02b087d33d819be9fa6a63efc817a98] (1) An inspector must provide to people employed at any premises (or their representatives) any relevant information that needs to be provided in order for them (or their representatives) to be kept adequately informed about matters affecting their health, safety or welfare.
+**23.**[^c-8fb1e2e6afc0a697aee2e2358e17acfd][^c-d02b087d33d819be9fa6a63efc817a98] (1) An inspector must provide to people employed at any premises (or their representatives) any relevant information that needs to be provided in order for them (or their representatives) to be kept adequately informed about matters affecting their health, safety or welfare.
 
 (2) Where information is provided to employees (or their representatives) under sub-paragraph (1), the inspector must provide the same information to their employer.
 
@@ -436,7 +436,7 @@ could be maintained in legal proceedings.
 
 #### Interpretation
 
-**24.**[^key-01a54c6630f0732ee3bbe277c1f9d668][^key-d02b087d33d819be9fa6a63efc817a98] (1) In this Schedule—
+**24.**[^c-01a54c6630f0732ee3bbe277c1f9d668][^c-d02b087d33d819be9fa6a63efc817a98] (1) In this Schedule—
 
 - “**authorised**” is to be read in accordance with paragraph 2(4);
 - “**offshore installation**” means any installation which is intended for underwater exploitation of mineral resources or exploration with a view to such exploitation;
@@ -457,66 +457,66 @@ could be maintained in legal proceedings.
 
 ## Annotations
 
-[^key-d02b087d33d819be9fa6a63efc817a98]: Modification: [Sch. 8](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/2)[Sch. 1 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/3/b) (with [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/6), [4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-d02b087d33d819be9fa6a63efc817a98]: Modification: [Sch. 8](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 5(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/2)[Sch. 1 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/3/b) (with [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/6), [4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-d8921498a554f94b9bc8dae2533d0089]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/1) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-d8921498a554f94b9bc8dae2533d0089]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/1) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-33263ee49e25688cec1cdc984029ce65]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/2) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-33263ee49e25688cec1cdc984029ce65]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/2) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-93d39ed512ae11dd44f8d84d3a9e0541]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/3) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-93d39ed512ae11dd44f8d84d3a9e0541]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/3) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-4645b29c9f2f461fb3799797eff2947c]: Textual amendment: [Sch. 8 para. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/3/5/a) substituted (31.12.2020) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/11/2); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-4645b29c9f2f461fb3799797eff2947c]: Textual amendment: [Sch. 8 para. 3(5)(a)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/3/5/a) substituted (31.12.2020) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 11(2)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/11/2); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-3e962162e01af9fca190262563a3ce5a]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/4) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-3e962162e01af9fca190262563a3ce5a]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/4) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-50694a65e40dc7e00767248102503294]: Textual amendment: Words in [Sch. 8 para. 4(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/4/5) inserted (31.12.2020) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/11/3); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
+[^c-50694a65e40dc7e00767248102503294]: Textual amendment: Words in [Sch. 8 para. 4(5)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/4/5) inserted (31.12.2020) by [Nuclear Safeguards Act 2018 (c. 15)](https://www.legislation.gov.uk/ukpga/2018/15), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2018/15/section/6/2), [Sch. para. 11(3)](https://www.legislation.gov.uk/ukpga/2018/15/schedule/paragraph/11/3); [S.I. 2020/1547](https://www.legislation.gov.uk/uksi/2020/1547), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1547/regulation/2/b)
 
-[^key-740ba3175612c05428a2d572d629f8ea]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/5) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-740ba3175612c05428a2d572d629f8ea]: Commencement: [Sch. 8 para. 5](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/5) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-171e78d5afa3f439effb77f099129e42]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/6) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-171e78d5afa3f439effb77f099129e42]: Commencement: [Sch. 8 para. 6](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/6) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-b664331ec247255afa8d2b2cc18cdab0]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/7) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-b664331ec247255afa8d2b2cc18cdab0]: Commencement: [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/7) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-8839f2aca15ab8ce51650050db4f4414]: Textual amendment: [Sch. 8 para. 7(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/7/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [26(5)](https://www.legislation.gov.uk/uksi/2023/149/regulation/26/5)
+[^c-8839f2aca15ab8ce51650050db4f4414]: Textual amendment: [Sch. 8 para. 7(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/7/3) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [26(5)](https://www.legislation.gov.uk/uksi/2023/149/regulation/26/5)
 
-[^key-8353cd4d0b7dac1cdea6e3e0e1737e23]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/8) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-8353cd4d0b7dac1cdea6e3e0e1737e23]: Commencement: [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/8) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-eb8fe89640234e1a4f0d7c6b2f4d6730]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/9) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-eb8fe89640234e1a4f0d7c6b2f4d6730]: Commencement: [Sch. 8 para. 9](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/9) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-d584ee18559a23ccdb542d6a4533c7d4]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/10) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-d584ee18559a23ccdb542d6a4533c7d4]: Commencement: [Sch. 8 para. 10](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/10) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-b841b407625146df462eb8ec7035b0c3]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/11) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-b841b407625146df462eb8ec7035b0c3]: Commencement: [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/11) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-67bc1901145fa2f03923da6108280b25]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/12) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-67bc1901145fa2f03923da6108280b25]: Commencement: [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/12) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-563ab8e2b2ac7a382035614ee75b6b40]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/13) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-563ab8e2b2ac7a382035614ee75b6b40]: Commencement: [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/13) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-54e969b3834bb1c901c4f7b943f3c9f2]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/14) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-54e969b3834bb1c901c4f7b943f3c9f2]: Commencement: [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/14) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-10c0e71103656ca23d0a04c2ec666416]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/15) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-10c0e71103656ca23d0a04c2ec666416]: Commencement: [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/15) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-5d6ed2a22e7f65069d5bba862640dff0]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/16) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-5d6ed2a22e7f65069d5bba862640dff0]: Commencement: [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/16) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-92d3c4390d9b09cda2763779f6dd32be]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/17) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-92d3c4390d9b09cda2763779f6dd32be]: Commencement: [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/17) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-59762d597c228c06de893fa0da9c2e05]: Modification: [Sch. 8 para. 17(1)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/17/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/17/2) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/4)[Sch. 1 para. 5(5)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/5/c) (with [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/6), [4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-59762d597c228c06de893fa0da9c2e05]: Modification: [Sch. 8 para. 17(1)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/17/1)[(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/17/2) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/4)[Sch. 1 para. 5(5)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/5/c) (with [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/6), [4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-8aabef7cca5f51a67e04309a7ac17e6f]: Textual amendment: [Sch. 8 para. 17(4)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/17/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [26(6)](https://www.legislation.gov.uk/uksi/2023/149/regulation/26/6)
+[^c-8aabef7cca5f51a67e04309a7ac17e6f]: Textual amendment: [Sch. 8 para. 17(4)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/17/4) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [26(6)](https://www.legislation.gov.uk/uksi/2023/149/regulation/26/6)
 
-[^key-d7d304d02b4e03e10504820cc7bd62da]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/18) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-d7d304d02b4e03e10504820cc7bd62da]: Commencement: [Sch. 8 para. 18](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/18) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-9dbee5efbc3dbbd5a12c0baf2862e4ba]: Modification: [Sch. 8 para. 18(1)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/18/1) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/4)[Sch. 1 para. 5(5)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/5/c) (with [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/6), [4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-9dbee5efbc3dbbd5a12c0baf2862e4ba]: Modification: [Sch. 8 para. 18(1)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/18/1) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/4)[Sch. 1 para. 5(5)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/5/c) (with [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/6), [4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-0397a2da59c064e129073584e4ddccc7]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/19) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-0397a2da59c064e129073584e4ddccc7]: Commencement: [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/19) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-dfde3966d373bd359e18a7f3eacc1a69]: Modification: [Sch. 8 para. 19(1)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/19/1) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/4)[Sch. 1 para. 5(5)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/5/c) (with [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/6), [4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-dfde3966d373bd359e18a7f3eacc1a69]: Modification: [Sch. 8 para. 19(1)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/19/1) modified (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 1 para. 5(4)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/4)[Sch. 1 para. 5(5)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/5/5/c) (with [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2014/469/schedule/1/paragraph/6), [4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-c9e41ee876e4828c34e6a440e92fdec8]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/20) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-c9e41ee876e4828c34e6a440e92fdec8]: Commencement: [Sch. 8 para. 20](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/20) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-471cd53b1a850b0c5e1539637ffb2757]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/21) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-471cd53b1a850b0c5e1539637ffb2757]: Commencement: [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/21) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-473edb4ccd76ada4e0ad2f9d9ab28bf0]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/22) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-473edb4ccd76ada4e0ad2f9d9ab28bf0]: Commencement: [Sch. 8 para. 22](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/22) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-8fb1e2e6afc0a697aee2e2358e17acfd]: Commencement: [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/23) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-8fb1e2e6afc0a697aee2e2358e17acfd]: Commencement: [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/23) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-01a54c6630f0732ee3bbe277c1f9d668]: Commencement: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/24) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-01a54c6630f0732ee3bbe277c1f9d668]: Commencement: [Sch. 8 para. 24](https://www.legislation.gov.uk/ukpga/2013/32/schedule/8/paragraph/24) in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 200. Proceedings commenced in the wrong court[^key-2a093395aa33a15b2744177a7ee5c578]
+## 200. Proceedings commenced in the wrong court[^c-2a093395aa33a15b2744177a7ee5c578]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a special administration is commenced in a court other than the Court of S
 
 ## Annotations
 
-[^key-2a093395aa33a15b2744177a7ee5c578]: Commencement: Rule 200 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-2a093395aa33a15b2744177a7ee5c578]: Commencement: Rule 200 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

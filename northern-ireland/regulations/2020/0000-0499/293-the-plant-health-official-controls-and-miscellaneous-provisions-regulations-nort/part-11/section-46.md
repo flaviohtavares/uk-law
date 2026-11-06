@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Offence relating to the disclosure of information held by Revenue and Customs[^key-a2b420efbd42a57773de2b5180d18244]
+## 46. Offence relating to the disclosure of information held by Revenue and Customs[^c-a2b420efbd42a57773de2b5180d18244]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ A person commits an offence if the person discloses any information received fro
 
 ## Annotations
 
-[^key-a2b420efbd42a57773de2b5180d18244]: Commencement: Reg. 46 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-a2b420efbd42a57773de2b5180d18244]: Commencement: Reg. 46 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

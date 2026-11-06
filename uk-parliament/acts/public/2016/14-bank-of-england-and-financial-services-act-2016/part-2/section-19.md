@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Treasury recommendations to Financial Conduct Authority[^key-7fd69b72d4eb9426dfa368a3410e2a18]
+## 19. Treasury recommendations to Financial Conduct Authority[^c-7fd69b72d4eb9426dfa368a3410e2a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ In Chapter 1 of Part 1A of the Financial Services and Markets Act 2000 (the Fina
 
 ## Annotations
 
-[^key-7fd69b72d4eb9426dfa368a3410e2a18]: Commencement: S. 19 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(n)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/n)
+[^c-7fd69b72d4eb9426dfa368a3410e2a18]: Commencement: S. 19 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(n)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/n)

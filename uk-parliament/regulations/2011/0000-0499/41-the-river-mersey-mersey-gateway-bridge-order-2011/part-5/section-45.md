@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Application of section 2 of the 1991 Act[^key-a8b0cc0c6c891de4928733d49f399d75]
+## 45. Application of section 2 of the 1991 Act[^c-a8b0cc0c6c891de4928733d49f399d75]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Section 2 (exercise of highway functions by concessionaire) of the 1991 Act shal
 
 ## Annotations
 
-[^key-a8b0cc0c6c891de4928733d49f399d75]: Commencement: Art. 45 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-a8b0cc0c6c891de4928733d49f399d75]: Commencement: Art. 45 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

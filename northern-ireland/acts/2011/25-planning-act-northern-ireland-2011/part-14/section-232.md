@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 232. Inquiries to be held in public subject to certain exceptions[^key-a92a5360a107fe586eb6d1d4e679b2e9][^key-0e306e99bd701cae95700124177bc23c][^key-086c01b45aafecb1b63673a7c231c35e]
+## 232. Inquiries to be held in public subject to certain exceptions[^c-a92a5360a107fe586eb6d1d4e679b2e9][^c-0e306e99bd701cae95700124177bc23c][^c-086c01b45aafecb1b63673a7c231c35e]
 
 *Extent: N.I.*
 
@@ -46,8 +46,8 @@ the Department of Justice may direct that evidence of the description indicated 
 
 ## Annotations
 
-[^key-a92a5360a107fe586eb6d1d4e679b2e9]: Commencement: S. 232 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-a92a5360a107fe586eb6d1d4e679b2e9]: Commencement: S. 232 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-0e306e99bd701cae95700124177bc23c]: Commencement: S. 232 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-0e306e99bd701cae95700124177bc23c]: Commencement: S. 232 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-086c01b45aafecb1b63673a7c231c35e]: Modification: [Ss. 228-235](https://www.legislation.gov.uk/nia/2011/25/section/228): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-086c01b45aafecb1b63673a7c231c35e]: Modification: [Ss. 228-235](https://www.legislation.gov.uk/nia/2011/25/section/228): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Application of eligibility criteria[^key-73e81084f5f8e63a1c158777019062d9]
+## 5. Application of eligibility criteria[^c-73e81084f5f8e63a1c158777019062d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-73e81084f5f8e63a1c158777019062d9]: Commencement: Reg. 5 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-73e81084f5f8e63a1c158777019062d9]: Commencement: Reg. 5 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

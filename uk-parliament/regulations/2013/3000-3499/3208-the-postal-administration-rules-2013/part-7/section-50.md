@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Expunging of proof by the court[^key-2e5643ebeaecfc8eb57218c40d373b94]
+## 50. Expunging of proof by the court[^c-2e5643ebeaecfc8eb57218c40d373b94]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e5643ebeaecfc8eb57218c40d373b94]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2013/3208/rule/50) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-2e5643ebeaecfc8eb57218c40d373b94]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2013/3208/rule/50) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

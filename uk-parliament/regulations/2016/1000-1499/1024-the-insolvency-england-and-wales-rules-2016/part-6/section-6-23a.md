@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.23A. Additional requirements as to advertisement where moratorium under Part A1 of the Act in force[^key-7efafa95872dac1d863e4d481263f69b]
+## 6.23A. Additional requirements as to advertisement where moratorium under Part A1 of the Act in force[^c-7efafa95872dac1d863e4d481263f69b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7efafa95872dac1d863e4d481263f69b]: Textual amendment: [Rule 6.23A](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.23A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [29](https://www.legislation.gov.uk/uksi/2021/1028/rule/29) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-7efafa95872dac1d863e4d481263f69b]: Textual amendment: [Rule 6.23A](https://www.legislation.gov.uk/uksi/2016/1024/rule/6.23A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [29](https://www.legislation.gov.uk/uksi/2021/1028/rule/29) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))

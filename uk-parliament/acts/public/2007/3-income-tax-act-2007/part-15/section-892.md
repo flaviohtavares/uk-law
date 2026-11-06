@@ -25,7 +25,7 @@ summary: ''
 - (a) a payment of a UK public revenue dividend is made, and
 - (b) it is not payable gross under section 893.
 
-(2) The person by or through whom the payment is made must, on making the payment, deduct from it a sum representing income tax on it at the basic rate[^key-969a62f655e2f5f6686e38832c9ccf47] in force for the tax year in which it is made.
+(2) The person by or through whom the payment is made must, on making the payment, deduct from it a sum representing income tax on it at the basic rate[^c-969a62f655e2f5f6686e38832c9ccf47] in force for the tax year in which it is made.
 
 (3) For provision about the collection of income tax in respect of a payment from which a sum must be deducted under this section—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-969a62f655e2f5f6686e38832c9ccf47]: Textual amendment: Words in s. 892(2) substituted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/28)
+[^c-969a62f655e2f5f6686e38832c9ccf47]: Textual amendment: Words in s. 892(2) substituted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 28](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/28)

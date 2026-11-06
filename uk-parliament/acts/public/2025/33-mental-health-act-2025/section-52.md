@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Review of duty to notify incidents[^key-f5a1a8969e7eae2d531441db31999155][^key-a5dc89df8fac9f99d71d14f3e8f2cac1]
+## 52. Review of duty to notify incidents[^c-f5a1a8969e7eae2d531441db31999155][^c-a5dc89df8fac9f99d71d14f3e8f2cac1]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5a1a8969e7eae2d531441db31999155]: Commencement: S. 52 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
+[^c-f5a1a8969e7eae2d531441db31999155]: Commencement: S. 52 not in force at Royal Assent, see [s. 56(3)](https://www.legislation.gov.uk/ukpga/2025/33/section/56/3)
 
-[^key-a5dc89df8fac9f99d71d14f3e8f2cac1]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/33/section/52) in force at 6.4.2026 by [S.I. 2026/385](https://www.legislation.gov.uk/uksi/2026/385), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/385/regulation/2/b)
+[^c-a5dc89df8fac9f99d71d14f3e8f2cac1]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2025/33/section/52) in force at 6.4.2026 by [S.I. 2026/385](https://www.legislation.gov.uk/uksi/2026/385), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/385/regulation/2/b)

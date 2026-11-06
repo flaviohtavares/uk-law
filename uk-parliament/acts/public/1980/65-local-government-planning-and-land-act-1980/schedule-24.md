@@ -22,11 +22,11 @@ summary: ''
 
 Section 121.
 
-### Part I — Section 17 of Land Compensation Act 1961[^key-ebd0f962d09523edc687df4126394bf2]
+### Part I — Section 17 of Land Compensation Act 1961[^c-ebd0f962d09523edc687df4126394bf2]
 
 **No longer in force.**
 
-#### 17. Certification of appropriate alternative development.[^key-ebd0f962d09523edc687df4126394bf2]
+#### 17. Certification of appropriate alternative development.[^c-ebd0f962d09523edc687df4126394bf2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -69,6 +69,6 @@ then, subject to subsection (2) of this section, either of the parties directly 
 
 ## Annotations
 
-[^key-ebd0f962d09523edc687df4126394bf2]: Textual amendment: Sch. 24 Pt. 1 repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-ebd0f962d09523edc687df4126394bf2]: Textual amendment: Sch. 24 Pt. 1 repealed (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 34](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/34); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(e)](https://www.legislation.gov.uk/uksi/2012/628/article/8/e) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
 [^c13884681]: Marginal citation: [1963 c. 51](https://www.legislation.gov.uk/ukpga/1963/51) (**28:2**)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — CLASSIFICATION OF DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^key-c7f5f79e170b221c95d7e0c7eacbd441]
+## SCHEDULE 1 — CLASSIFICATION OF DANGEROUS SUBSTANCES AND DANGEROUS PREPARATIONS[^c-c7f5f79e170b221c95d7e0c7eacbd441]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ Regulations 2(1) and 4(4)
 
 ### CATEGORIES OF DANGER
 
-[^key-c7f5f79e170b221c95d7e0c7eacbd441]
+[^c-c7f5f79e170b221c95d7e0c7eacbd441]
 
 <table>
 <thead>
@@ -69,4 +69,4 @@ Regulations 2(1) and 4(4)
 
 ## Annotations
 
-[^key-c7f5f79e170b221c95d7e0c7eacbd441]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)
+[^c-c7f5f79e170b221c95d7e0c7eacbd441]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/238/schedule/1) in operation at 27.7.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/238/regulation/1)

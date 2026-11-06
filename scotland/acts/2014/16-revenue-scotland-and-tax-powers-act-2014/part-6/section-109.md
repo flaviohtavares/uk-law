@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. Defence to certain claims for relief under section 107 or 108[^key-2abf1143c87c122da23fe845bccd296e]
+## 109. Defence to certain claims for relief under section 107 or 108[^c-2abf1143c87c122da23fe845bccd296e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ It is a defence to a claim for relief made under section 107 or 108 that repayme
 
 ## Annotations
 
-[^key-2abf1143c87c122da23fe845bccd296e]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2014/16/section/109) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-2abf1143c87c122da23fe845bccd296e]: Commencement: [S. 109](https://www.legislation.gov.uk/asp/2014/16/section/109) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

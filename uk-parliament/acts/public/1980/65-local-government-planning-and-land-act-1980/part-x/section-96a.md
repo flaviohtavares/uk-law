@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Information about entries.[^key-70be8e8cdc97f90688bebea7bac49ce7][^key-d17b7b744c4f32c219674ed97657db3f][^c13874261]
+## 96A. Information about entries.[^c-70be8e8cdc97f90688bebea7bac49ce7][^c-d17b7b744c4f32c219674ed97657db3f][^c13874261]
 
 *Extent: E+W*
 
@@ -34,9 +34,9 @@ summary: ''
 
 ## Annotations
 
-[^key-70be8e8cdc97f90688bebea7bac49ce7]: Modification: [S. 96A](https://www.legislation.gov.uk/ukpga/1980/65/section/96A) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/5)
+[^c-70be8e8cdc97f90688bebea7bac49ce7]: Modification: [S. 96A](https://www.legislation.gov.uk/ukpga/1980/65/section/96A) excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/5)
 
-[^key-d17b7b744c4f32c219674ed97657db3f]: Modification: [S. 96A](https://www.legislation.gov.uk/ukpga/1980/65/section/96A) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 45](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/45) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
+[^c-d17b7b744c4f32c219674ed97657db3f]: Modification: [S. 96A](https://www.legislation.gov.uk/ukpga/1980/65/section/96A) excluded (29.6.2026) by [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13), [Sch. 10A para. 45](https://www.legislation.gov.uk/ukpga/2011/13/schedule/10A/paragraph/45) (as inserted by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 24](https://www.legislation.gov.uk/ukpga/2026/23/schedule/24) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)))
 
 [^c13874261]: Textual amendment: [S. 96A](https://www.legislation.gov.uk/ukpga/1980/65/section/96A) inserted (*prosp.*) by [Local Government Act 1988 (c. 9, SIF 81:1, 2)](https://www.legislation.gov.uk/ukpga/1988/9), [s. 31(3)](https://www.legislation.gov.uk/ukpga/1988/9/section/31/3), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/1988/9/schedule/5/paragraph/2)
 

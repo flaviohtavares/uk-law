@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. Creditors’ claim that remuneration is excessive[^key-2d7b277a7dae2d84bf5b227fcb9489b6]
+## 104. Creditors’ claim that remuneration is excessive[^c-2d7b277a7dae2d84bf5b227fcb9489b6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.138 of the 1991 Rules.
 
 ## Annotations
 
-[^key-2d7b277a7dae2d84bf5b227fcb9489b6]: Commencement: Rule 104 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-2d7b277a7dae2d84bf5b227fcb9489b6]: Commencement: Rule 104 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

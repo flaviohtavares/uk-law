@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Combination of applications for planning permission with other applications[^key-95c82f4754de91b391c9d08b03ea5832]
+## 86. Combination of applications for planning permission with other applications[^c-95c82f4754de91b391c9d08b03ea5832]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95c82f4754de91b391c9d08b03ea5832]: Commencement: S. 86 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-95c82f4754de91b391c9d08b03ea5832]: Commencement: S. 86 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

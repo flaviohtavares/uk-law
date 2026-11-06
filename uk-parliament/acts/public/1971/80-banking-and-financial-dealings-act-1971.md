@@ -132,7 +132,7 @@ This subsection shall not operate to extend any period expiring at or before the
 - Good Friday.
 - The first Monday in May.
 - The first Monday in August.
-- 30th November, if it is not a Saturday or Sunday or, if it is a Saturday or Sunday, the first Monday following that day. *(Extent: S)*[^key-a87b2374e3cbc815e911f73b79fcd1ac]
+- 30th November, if it is not a Saturday or Sunday or, if it is a Saturday or Sunday, the first Monday following that day. *(Extent: S)*[^c-a87b2374e3cbc815e911f73b79fcd1ac]
 - Christmas Day, if it be not a Sunday or, if it be a Sunday, 26th December.
 
 **3.** The following are to be bank holidays in Northern Ireland:—
@@ -192,6 +192,6 @@ This subsection shall not operate to extend any period expiring at or before the
 
 [^c8188591]: Textual amendment: Words repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
-[^key-a87b2374e3cbc815e911f73b79fcd1ac]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1971/80/schedule/1/paragraph/2) inserted (S.) (16.1.2007) by [St Andrews Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2), [ss. 1](https://www.legislation.gov.uk/asp/2007/2/section/1), [2(2)](https://www.legislation.gov.uk/asp/2007/2/section/2/2)
+[^c-a87b2374e3cbc815e911f73b79fcd1ac]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1971/80/schedule/1/paragraph/2) inserted (S.) (16.1.2007) by [St Andrews Day Bank Holiday (Scotland) Act 2007 (asp 2)](https://www.legislation.gov.uk/asp/2007/2), [ss. 1](https://www.legislation.gov.uk/asp/2007/2/section/1), [2(2)](https://www.legislation.gov.uk/asp/2007/2/section/2/2)
 
 [^c8188601]: Modification: The text of Sch. 2 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

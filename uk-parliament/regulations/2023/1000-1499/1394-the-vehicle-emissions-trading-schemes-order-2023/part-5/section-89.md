@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Seizure of documents or records[^key-e36ee8f9333b1316bcae2600295d997a]
+## 89. Seizure of documents or records[^c-e36ee8f9333b1316bcae2600295d997a]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e36ee8f9333b1316bcae2600295d997a]: Commencement: Art. 89 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-e36ee8f9333b1316bcae2600295d997a]: Commencement: Art. 89 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

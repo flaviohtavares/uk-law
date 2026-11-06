@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Court reviews: further provision[^key-d8c9b2363bdfc1bca7dddf964f89115b][^key-1f03e7cfbfda57dd8fb34eea8fec941f]
+## 39. Court reviews: further provision[^c-d8c9b2363bdfc1bca7dddf964f89115b][^c-1f03e7cfbfda57dd8fb34eea8fec941f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,10 +33,10 @@ summary: ''
 
 (2) If the court would, in the absence of this subsection, have power to award damages, the court may not award damages unless—
 
-- (a)[^key-7dcd52bcab684c0c9674bb329dbf95c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-7dcd52bcab684c0c9674bb329dbf95c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the court is satisfied that the decision concerned was made in bad faith.
 
-(2A)[^key-76dfad73aff9216c6803d8df9ca76353] Damages permitted by subsection (2) must not exceed such amount as may be specified in, or calculated in accordance with, regulations made by an appropriate Minister for the purposes of this subsection.
+(2A)[^c-76dfad73aff9216c6803d8df9ca76353] Damages permitted by subsection (2) must not exceed such amount as may be specified in, or calculated in accordance with, regulations made by an appropriate Minister for the purposes of this subsection.
 
 (3) In subsection (1)(c)—
 
@@ -58,10 +58,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d8c9b2363bdfc1bca7dddf964f89115b]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2018/13/section/39) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-d8c9b2363bdfc1bca7dddf964f89115b]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2018/13/section/39) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
 
-[^key-1f03e7cfbfda57dd8fb34eea8fec941f]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/2018/13/section/39) extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/950 and S.I. 2020/1289 have come into force) by [The Counter-Terrorism (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1564)](https://www.legislation.gov.uk/uksi/2020/1564), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1564/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1564/article/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1564/schedule/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1564/schedule/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
+[^c-1f03e7cfbfda57dd8fb34eea8fec941f]: Modification: [S. 39](https://www.legislation.gov.uk/ukpga/2018/13/section/39) extended (British overseas territories) (with modifications) (31.12.2020 immediately after both S.I. 2020/950 and S.I. 2020/1289 have come into force) by [The Counter-Terrorism (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1564)](https://www.legislation.gov.uk/uksi/2020/1564), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1564/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2020/1564/article/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1564/schedule/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1564/schedule/3); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [regs. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17), [21](https://www.legislation.gov.uk/uksi/2020/1514/regulation/21)
 
-[^key-7dcd52bcab684c0c9674bb329dbf95c1]: Textual amendment: [S. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2018/13/section/39/2/a) and word omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 64(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/64/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3) (with [s. 64(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/64/3))
+[^c-7dcd52bcab684c0c9674bb329dbf95c1]: Textual amendment: [S. 39(2)(a)](https://www.legislation.gov.uk/ukpga/2018/13/section/39/2/a) and word omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 64(1)(a)](https://www.legislation.gov.uk/ukpga/2022/10/section/64/1/a), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3) (with [s. 64(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/64/3))
 
-[^key-76dfad73aff9216c6803d8df9ca76353]: Textual amendment: [S. 39(2A)](https://www.legislation.gov.uk/ukpga/2018/13/section/39/2A) inserted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 64(1)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/64/1/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3) (with [s. 64(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/64/3))
+[^c-76dfad73aff9216c6803d8df9ca76353]: Textual amendment: [S. 39(2A)](https://www.legislation.gov.uk/ukpga/2018/13/section/39/2A) inserted (15.3.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 64(1)(b)](https://www.legislation.gov.uk/ukpga/2022/10/section/64/1/b), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3) (with [s. 64(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/64/3))

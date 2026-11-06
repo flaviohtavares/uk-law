@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Restriction on works in the River Mersey and saltmarshes[^key-46ad2aa203c2e369215881445bb90f6b]
+## 6. Restriction on works in the River Mersey and saltmarshes[^c-46ad2aa203c2e369215881445bb90f6b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Regardless of the provisions of article 5 (power to deviate), no permanent work 
 
 ## Annotations
 
-[^key-46ad2aa203c2e369215881445bb90f6b]: Commencement: Art. 6 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-46ad2aa203c2e369215881445bb90f6b]: Commencement: Art. 6 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

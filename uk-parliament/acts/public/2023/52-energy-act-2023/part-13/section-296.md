@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 296. Arrangements for responding to marine oil pollution[^key-9f4c34cc150b1ffe82e4926e775780c7][^key-eab6db606cdd1eef6a84b78438af44e9]
+## 296. Arrangements for responding to marine oil pollution[^c-9f4c34cc150b1ffe82e4926e775780c7][^c-eab6db606cdd1eef6a84b78438af44e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9f4c34cc150b1ffe82e4926e775780c7]: Commencement: S. 296 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-9f4c34cc150b1ffe82e4926e775780c7]: Commencement: S. 296 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-eab6db606cdd1eef6a84b78438af44e9]: Commencement: [S. 296](https://www.legislation.gov.uk/ukpga/2023/52/section/296) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/i)
+[^c-eab6db606cdd1eef6a84b78438af44e9]: Commencement: [S. 296](https://www.legislation.gov.uk/ukpga/2023/52/section/296) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(d)(i)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/d/i)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43A. Non-completion fee[^key-f50a8235a39ef7685dfc39cb8aebebb1][^key-619e1753f12458b2d882db62d2827911]
+## 43A. Non-completion fee[^c-f50a8235a39ef7685dfc39cb8aebebb1][^c-619e1753f12458b2d882db62d2827911]
 
 *Extent: E+W+S*
 
@@ -39,15 +39,15 @@ summary: ''
 - (a) to a “termination fee” are to be construed as references to a non-completion fee; and
 - (b) to termination on a ground specified in capacity market rules are to be construed as references to a failure to meet completion requirements in circumstances so specified.
 
-(6)[^key-46593c78a00d153cbc97f2681d532652] Regulation 33 applies (except for paragraphs (2)(b), (3) and (5)(b)) to a non-completion notice as it applies to a termination notice, and for that purpose, a reference in regulation 33 to—
+(6)[^c-46593c78a00d153cbc97f2681d532652] Regulation 33 applies (except for paragraphs (2)(b), (3) and (5)(b)) to a non-completion notice as it applies to a termination notice, and for that purpose, a reference in regulation 33 to—
 
 - (a) a “**termination fee**” is to be construed as a reference to a non-completion fee; and
 - (b) a “**termination notice**” is to be construed as a reference to a non-completion notice.
 
 ## Annotations
 
-[^key-f50a8235a39ef7685dfc39cb8aebebb1]: Modification: [Reg. 43A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43A) applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2019/862/regulation/27)
+[^c-f50a8235a39ef7685dfc39cb8aebebb1]: Modification: [Reg. 43A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43A) applied (with modifications) (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2019/862/regulation/27)
 
-[^key-619e1753f12458b2d882db62d2827911]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43A) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/8)
+[^c-619e1753f12458b2d882db62d2827911]: Textual amendment: [Reg. 43A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43A) inserted (24.3.2015) by [The Electricity Capacity (Amendment) Regulations 2015 (S.I. 2015/875)](https://www.legislation.gov.uk/uksi/2015/875), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/875/regulation/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/875/schedule/1/paragraph/8)
 
-[^key-46593c78a00d153cbc97f2681d532652]: Textual amendment: [Reg. 43A(6)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43A/6) inserted (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2019/862/regulation/24)
+[^c-46593c78a00d153cbc97f2681d532652]: Textual amendment: [Reg. 43A(6)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/43A/6) inserted (10.4.2019) by [The Electricity Capacity (No. 1) Regulations 2019 (S.I. 2019/862)](https://www.legislation.gov.uk/uksi/2019/862), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/862/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2019/862/regulation/24)

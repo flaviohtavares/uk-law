@@ -35,62 +35,62 @@ laying down minimum requirements implementing the provisions of Directive 2007/3
 
 (Text with EEA relevance) (revoked)
 
-[^key-c55df720abd236dc5a2bf387ea0cba6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c55df720abd236dc5a2bf387ea0cba6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 1. Definitions[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Standardised formats, interoperability and language[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 2. Standardised formats, interoperability and language[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Request to disclose information regarding shareholder identity and response[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 3. Request to disclose information regarding shareholder identity and response[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transmission of meeting notice[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 4. Transmission of meeting notice[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Confirmation of entitlement to exercise shareholders rights in a general meeting[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 5. Confirmation of entitlement to exercise shareholders rights in a general meeting[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Notice of participation by shareholder in a general meeting[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 6. Notice of participation by shareholder in a general meeting[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Format of confirmation of the receipt and recording and counting of votes[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 7. Format of confirmation of the receipt and recording and counting of votes[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Transmission of information specific to corporate events other than general meetings[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 8. Transmission of information specific to corporate events other than general meetings[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Deadlines to the be complied with by issuers and intermediaries in corporate events and in shareholder identification processes[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 9. Deadlines to the be complied with by issuers and intermediaries in corporate events and in shareholder identification processes[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Minimum security requirements[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 10. Minimum security requirements[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Entry into force and application[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## Article 11. Entry into force and application[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c55df720abd236dc5a2bf387ea0cba6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c55df720abd236dc5a2bf387ea0cba6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-c55df720abd236dc5a2bf387ea0cba6a]
+## ANNEX[^c-c55df720abd236dc5a2bf387ea0cba6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c55df720abd236dc5a2bf387ea0cba6a]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 1](https://www.legislation.gov.uk/uksi/2021/153/schedule)
+[^c-c55df720abd236dc5a2bf387ea0cba6a]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 1](https://www.legislation.gov.uk/uksi/2021/153/schedule)

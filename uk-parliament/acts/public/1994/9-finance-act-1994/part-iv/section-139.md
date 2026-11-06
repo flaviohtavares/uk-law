@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Taxation of incapacity benefit.[^key-e0efe5342666ac279b054c9674f0364a][^key-e0efe5342666ac279b054c9674f0364b]
+## 139. Taxation of incapacity benefit.[^c-e0efe5342666ac279b054c9674f0364a][^c-e0efe5342666ac279b054c9674f0364b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0efe5342666ac279b054c9674f0364a]: Textual amendment: S. 139(1)(b) repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6)
+[^c-e0efe5342666ac279b054c9674f0364a]: Textual amendment: S. 139(1)(b) repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6)
 
-[^key-e0efe5342666ac279b054c9674f0364b]: Textual amendment: S. 139 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-e0efe5342666ac279b054c9674f0364b]: Textual amendment: S. 139 repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

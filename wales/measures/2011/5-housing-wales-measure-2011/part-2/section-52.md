@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Grounds for giving notice[^key-ff2903221e25d78f72270767fadfd33d][^key-9a907b396b910e898615e5f6890f7e5d]
+## 52. Grounds for giving notice[^c-ff2903221e25d78f72270767fadfd33d][^c-9a907b396b910e898615e5f6890f7e5d]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ After section 50B of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-ff2903221e25d78f72270767fadfd33d]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2011/5/section/52) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(i)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/i)
+[^c-ff2903221e25d78f72270767fadfd33d]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2011/5/section/52) in force for specified purposes at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(i)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/i)
 
-[^key-9a907b396b910e898615e5f6890f7e5d]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2011/5/section/52) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(e)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/e)
+[^c-9a907b396b910e898615e5f6890f7e5d]: Commencement: [S. 52](https://www.legislation.gov.uk/mwa/2011/5/section/52) in force in so far as not already in force at 2.12.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [3(e)](https://www.legislation.gov.uk/wsi/2011/2475/article/3/e)

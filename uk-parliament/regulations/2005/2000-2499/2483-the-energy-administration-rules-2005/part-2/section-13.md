@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Notice of energy administration order[^key-9d974b2f5f5762654c1656e86ddf4cee]
+## 13. Notice of energy administration order[^c-9d974b2f5f5762654c1656e86ddf4cee]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d974b2f5f5762654c1656e86ddf4cee]: Commencement: Rule 13 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-9d974b2f5f5762654c1656e86ddf4cee]: Commencement: Rule 13 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

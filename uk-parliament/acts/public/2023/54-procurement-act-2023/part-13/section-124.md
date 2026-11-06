@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Index of defined expressions[^key-320ca5959ff95658666b973bd9eed73f]
+## 124. Index of defined expressions[^c-320ca5959ff95658666b973bd9eed73f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ In this Act the expressions listed in the left-hand column of the table have the
 
 | Expression | Provision |
 | --- | --- |
-| appropriate authority (except in Part 5A)[^key-be59f956f3613e200132dbacff8a48da] | section 123 |
+| appropriate authority (except in Part 5A)[^c-be59f956f3613e200132dbacff8a48da] | section 123 |
 | appropriate authority (in Part 5A) | section 83A |
 | associated person | section 26 |
 | associated tender document | section 21 |
@@ -92,6 +92,6 @@ In this Act the expressions listed in the left-hand column of the table have the
 
 ## Annotations
 
-[^key-320ca5959ff95658666b973bd9eed73f]: Commencement: S. 124 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
+[^c-320ca5959ff95658666b973bd9eed73f]: Commencement: S. 124 in force at Royal Assent, see [s. 127(1)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/1)
 
-[^key-be59f956f3613e200132dbacff8a48da]: Textual amendment: Words in [s. 124](https://www.legislation.gov.uk/ukpga/2023/54/section/124) substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/6), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)
+[^c-be59f956f3613e200132dbacff8a48da]: Textual amendment: Words in [s. 124](https://www.legislation.gov.uk/ukpga/2023/54/section/124) substituted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 32(6)](https://www.legislation.gov.uk/ukpga/2025/36/section/32/6), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(16)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/16/b)

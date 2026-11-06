@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Rehabilitation and reparation conditions[^key-e5f9ab885a5797c304735fc375a2dd35]
+## 101. Rehabilitation and reparation conditions[^c-e5f9ab885a5797c304735fc375a2dd35]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5f9ab885a5797c304735fc375a2dd35]: Commencement: S. 101 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e5f9ab885a5797c304735fc375a2dd35]: Commencement: S. 101 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

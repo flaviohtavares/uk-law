@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Applications for costs[^key-0cacc4e6238b3750b83eef39449e2cb4]
+## 121. Applications for costs[^c-0cacc4e6238b3750b83eef39449e2cb4]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cacc4e6238b3750b83eef39449e2cb4]: Commencement: [Rule 121](https://www.legislation.gov.uk/uksi/2013/3208/rule/121) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-0cacc4e6238b3750b83eef39449e2cb4]: Commencement: [Rule 121](https://www.legislation.gov.uk/uksi/2013/3208/rule/121) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

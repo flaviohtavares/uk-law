@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155A. Death of constables and service personnel targeted because of their status[^key-067821d3a7f2113acb6a881719b7edc8]
+## 155A. Death of constables and service personnel targeted because of their status[^c-067821d3a7f2113acb6a881719b7edc8]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-067821d3a7f2113acb6a881719b7edc8]: Textual amendment: S. 155A and cross-heading inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 75(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/75/4)
+[^c-067821d3a7f2113acb6a881719b7edc8]: Textual amendment: S. 155A and cross-heading inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 75(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/75/4)

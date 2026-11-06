@@ -30,8 +30,8 @@ summary: ''
 - (b) any addition other than the introduction or the re-introduction of carbon dioxide; or
 - (c) any disinfection treatment by whatever means, or, subject to paragraph (1)(b) the addition of bacteriostatic elements, or any other treatment likely to change the viable colony count of the water.
 
-(2)[^key-9ac0dca61e008518d4ab5e9d95a3c71f] Paragraph (1) does not prevent the use of water labelled and sold as “spring water” in the manufacture of soft drinks.
+(2)[^c-9ac0dca61e008518d4ab5e9d95a3c71f] Paragraph (1) does not prevent the use of water labelled and sold as “spring water” in the manufacture of soft drinks.
 
 ## Annotations
 
-[^key-9ac0dca61e008518d4ab5e9d95a3c71f]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/365/regulation/15/2) inserted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [5](https://www.legislation.gov.uk/nisr/2017/201/regulation/5)
+[^c-9ac0dca61e008518d4ab5e9d95a3c71f]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/nisr/2015/365/regulation/15/2) inserted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [5](https://www.legislation.gov.uk/nisr/2017/201/regulation/5)

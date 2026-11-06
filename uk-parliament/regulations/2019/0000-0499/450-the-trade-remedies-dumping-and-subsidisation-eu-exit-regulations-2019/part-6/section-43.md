@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Deemed service[^key-0cb8cea43d3fd2d403d46b44423ddb15]
+## 43. Deemed service[^c-0cb8cea43d3fd2d403d46b44423ddb15]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Any document submitted to the TRA is deemed to have been submitted on the earlie
 
 ## Annotations
 
-[^key-0cb8cea43d3fd2d403d46b44423ddb15]: Commencement: Reg. 43 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-0cb8cea43d3fd2d403d46b44423ddb15]: Commencement: Reg. 43 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

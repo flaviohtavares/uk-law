@@ -38,7 +38,7 @@ Section 125
 
 **11.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c890759]
 
-**12.**[^key-fd9c3ec170f611b848c018a2356d5b04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-fd9c3ec170f611b848c018a2356d5b04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c890763]
 
@@ -73,7 +73,7 @@ Section 125
 
 [^c890759]: Textual amendment: [Ss. 89–96](https://www.legislation.gov.uk/ukpga/1975/71/section/89), [Schs. 7](https://www.legislation.gov.uk/ukpga/1975/71/schedule/7), [8](https://www.legislation.gov.uk/ukpga/1975/71/schedule/8), [Sch. 17 para. 11](https://www.legislation.gov.uk/ukpga/1975/71/schedule/17/paragraph/11) repealed by [Wages Councils Act 1979 (c. 12)](https://www.legislation.gov.uk/ukpga/1979/12), [Schs 5](https://www.legislation.gov.uk/ukpga/1979/12/schedule/5), [7](https://www.legislation.gov.uk/ukpga/1979/12/schedule/7)
 
-[^key-fd9c3ec170f611b848c018a2356d5b04]: Textual amendment: [Sch. 17 para. 12](https://www.legislation.gov.uk/ukpga/1975/71/schedule/17/paragraph/12) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
+[^c-fd9c3ec170f611b848c018a2356d5b04]: Textual amendment: [Sch. 17 para. 12](https://www.legislation.gov.uk/ukpga/1975/71/schedule/17/paragraph/12) repealed (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/1455/article/2/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/1455/schedule/1) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2))
 
 [^c890763]: Textual amendment: [Ss. 106(1)](https://www.legislation.gov.uk/ukpga/1975/71/section/106/1), [Sch. 16 Pt. III paras. 4](https://www.legislation.gov.uk/ukpga/1975/71/schedule/16/part/III/paragraph/4), [17](https://www.legislation.gov.uk/ukpga/1975/71/schedule/16/part/III/paragraph/17), [Sch. 17 para. 13](https://www.legislation.gov.uk/ukpga/1975/71/schedule/17/paragraph/13) repealed by [Employment Act 1980 (c. 42)](https://www.legislation.gov.uk/ukpga/1980/42), [Sch. 2](https://www.legislation.gov.uk/ukpga/1980/42/schedule/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Complaints-handling: statement of principles[^key-eee351660c3dab1e7f2179f0ef5c72a0]
+## 36. Complaints-handling: statement of principles[^c-eee351660c3dab1e7f2179f0ef5c72a0]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eee351660c3dab1e7f2179f0ef5c72a0]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2019/3/section/36) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-eee351660c3dab1e7f2179f0ef5c72a0]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2019/3/section/36) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 2.3. Time[^key-58ca6a270ac5f83fd3aab56ef46f2646]
+## 2.3. Time[^c-58ca6a270ac5f83fd3aab56ef46f2646]
 
 *Extent: E*
 
@@ -44,4 +44,4 @@ that day does not count.
 
 ## Annotations
 
-[^key-58ca6a270ac5f83fd3aab56ef46f2646]: Commencement: [Rule 2.3](https://www.legislation.gov.uk/uksi/2015/1568/article/2.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-58ca6a270ac5f83fd3aab56ef46f2646]: Commencement: [Rule 2.3](https://www.legislation.gov.uk/uksi/2015/1568/article/2.3) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

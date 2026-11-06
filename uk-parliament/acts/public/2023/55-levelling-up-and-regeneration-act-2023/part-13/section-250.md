@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Power to make consequential provision[^key-d399a0e84fbba35dc4c550cbafecd39d]
+## 250. Power to make consequential provision[^c-d399a0e84fbba35dc4c550cbafecd39d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d399a0e84fbba35dc4c550cbafecd39d]: Commencement: S. 250 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-d399a0e84fbba35dc4c550cbafecd39d]: Commencement: S. 250 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

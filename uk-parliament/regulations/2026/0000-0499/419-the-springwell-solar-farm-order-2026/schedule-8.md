@@ -22,7 +22,7 @@ summary: ''
 
 Article 17
 
-### PART 1 — TEMPORARY SPEED LIMITS[^key-c0874db4d831afc4c2e0e2fd54f4ff3b]
+### PART 1 — TEMPORARY SPEED LIMITS[^c-c0874db4d831afc4c2e0e2fd54f4ff3b]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Temporary speed limit* |
 | --- | --- | --- |
@@ -32,13 +32,13 @@ Article 17
 | District of North Kesteven | A15<br>From a point 610 metres in a generally northerly direction of its junction with B1191 (point TTM72) to point TTM73 for a distance of 835 metres and coloured black on sheets 14 and 15 of the traffic regulations plans. | 40 miles per hour |
 | District of North Kesteven | Temple Road<br>From its junction with A15 (point TTM67) in a generally north-westerly direction to point TTM66 for a distance of 1,010 metres and coloured black on sheet 15 of the traffic regulations plans. | 40 miles per hour |
 
-### PART 2 — TEMPORARY ROAD CLOSURES[^key-065288abcc7bb583cb3a6c722c2e8504]
+### PART 2 — TEMPORARY ROAD CLOSURES[^c-065288abcc7bb583cb3a6c722c2e8504]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Temporary road closures* |
 | --- | --- | --- |
 | District of North Kesteven | Gorse Hill Lane<br>From its junction with A15 (point TTM02) in a generally westerly direction to point TTM01 for a distance of 320 metres and coloured pink on sheet 12 of the traffic regulations plans. | Closed to all traffic save for traffic under the direction of the undertaker |
 
-### PART 3 — TEMPORARY TRAFFIC SIGNALS[^key-18ef133311a97e6b6ce7b841ec7b0e34]
+### PART 3 — TEMPORARY TRAFFIC SIGNALS[^c-18ef133311a97e6b6ce7b841ec7b0e34]
 
 | *(1)*<br>*Area* | *(2)*<br>*Extent of temporary traffic signals* |
 | --- | --- |
@@ -63,7 +63,7 @@ Article 17
 | District of North Kesteven | A15<br>An area of existing highway from a point 610 metres in a generally northerly direction of its junction with B1191 (point TTM72) in a generally southerly direction to point TTM73 for a distance of 835 metres, and coloured blue on sheets 14 and 15 of the traffic regulations plans. |
 | District of North Kesteven | Temple Road<br>An area of existing highway from its junction with A15 (point TTM67) in a generally north-westerly direction to point TTM66 for a distance of 1,010 metres and including the means of access to, and the passing places for, the authorised development, and coloured blue on sheet 15 of the traffic regulations plans. |
 
-### PART 4 — PERMANENT SPEED LIMITS[^key-7b7cd155b66db3e0815dc3ec920461e5]
+### PART 4 — PERMANENT SPEED LIMITS[^c-7b7cd155b66db3e0815dc3ec920461e5]
 
 | *(1)*<br>*Area* | *(2)*<br>*Road name, number and length* | *(3)*<br>*Permanent speed limit* |
 | --- | --- | --- |
@@ -71,10 +71,10 @@ Article 17
 
 ## Annotations
 
-[^key-c0874db4d831afc4c2e0e2fd54f4ff3b]: Commencement: Sch. 8 Pt. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-c0874db4d831afc4c2e0e2fd54f4ff3b]: Commencement: Sch. 8 Pt. 1 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-065288abcc7bb583cb3a6c722c2e8504]: Commencement: Sch. 8 Pt. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-065288abcc7bb583cb3a6c722c2e8504]: Commencement: Sch. 8 Pt. 2 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-18ef133311a97e6b6ce7b841ec7b0e34]: Commencement: Sch. 8 Pt. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-18ef133311a97e6b6ce7b841ec7b0e34]: Commencement: Sch. 8 Pt. 3 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
 
-[^key-7b7cd155b66db3e0815dc3ec920461e5]: Commencement: Sch. 8 Pt. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)
+[^c-7b7cd155b66db3e0815dc3ec920461e5]: Commencement: Sch. 8 Pt. 4 in force at 30.4.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/419/article/1)

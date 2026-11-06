@@ -48,7 +48,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 In accordance with section 7(1) of that Act, the Secretary of State has consulted such bodies appearing to represent the interests of landlords and tenants of agricultural holdings.
 
-## 1. Citation, commencement, extent, application and interpretation[^key-c953c12b8549a41bdc332e1caa927069]
+## 1. Citation, commencement, extent, application and interpretation[^c-c953c12b8549a41bdc332e1caa927069]
 
 (1) These Regulations may be cited as the Agriculture (Model Clauses for Fixed Equipment) (England) Regulations 2015 and come into force on 1st October 2015.
 
@@ -56,7 +56,7 @@ In accordance with section 7(1) of that Act, the Secretary of State has consulte
 
 (3) In these Regulations “the Act” means the Agricultural Holdings Act 1986.
 
-## 2. Incorporation of provisions in tenancy agreements[^key-0a322c6af833d5bf3cde4c600b381675]
+## 2. Incorporation of provisions in tenancy agreements[^c-0a322c6af833d5bf3cde4c600b381675]
 
 (1) Schedule 1 contains model provisions for the maintenance, repair and insurance of fixed equipment for incorporation in every contract of tenancy of an agricultural holding to which the Act applies, whether made before or after the commencement of the Act, except in so far as they would impose on one of the parties to an agreement in writing a liability which under the agreement is imposed on the other.
 
@@ -66,7 +66,7 @@ In accordance with section 7(1) of that Act, the Secretary of State has consulte
 - (b) where a person representing Her Majesty or the Duke of Cornwall under section 95 of the Act is deemed to be the landlord, and
 - (c) where the landlord has made provision approved by the Minister for defraying the cost of any works of repair or replacement as referred to in paragraph 2(2) of Schedule 1.
 
-## 3. Prescribed periods for the purposes of section 9 of the Act[^key-578cc2cbb8e72f17b23b8df2ab026dd5]
+## 3. Prescribed periods for the purposes of section 9 of the Act[^c-578cc2cbb8e72f17b23b8df2ab026dd5]
 
 (1) The prescribed period for the purposes of section 9(1) of the Act is 1 month.
 
@@ -74,11 +74,11 @@ In accordance with section 7(1) of that Act, the Secretary of State has consulte
 
 (3) The prescribed period for the purposes of section 9(4) of the Act is 3 months.
 
-## 4. Revocations[^key-f66022f180ca44d686fb3249b826a2f0]
+## 4. Revocations[^c-f66022f180ca44d686fb3249b826a2f0]
 
 The Regulations specified in Schedule 2 are revoked.
 
-## 5. Review[^key-5749ad3066782bde311ed4042195af57]
+## 5. Review[^c-5749ad3066782bde311ed4042195af57]
 
 (1) The Secretary of State must from time to time—
 
@@ -110,7 +110,7 @@ Regulation 2
 
 ### PART 1 — Rights and liabilities of the landlord
 
-#### 1. Repairs and replacements[^key-ee8b31633991788022993ce619b966d5]
+#### 1. Repairs and replacements[^c-ee8b31633991788022993ce619b966d5]
 
 (1) The landlord must repair or replace the following parts of the farmhouse, cottages and farm buildings—
 
@@ -147,7 +147,7 @@ Regulation 2
 
 (5) The landlord must replace anything specified in paragraph 9(1) (tenant’s liability to repair) which has worn out or become incapable of repair unless the tenant is liable to replace it under paragraph 9(3).
 
-#### 2. Insurance[^key-a9a4ef5689c5a786058bd118f593fc08]
+#### 2. Insurance[^c-a9a4ef5689c5a786058bd118f593fc08]
 
 (1) The landlord must insure the farmhouse, cottages and farm buildings to their full value against loss or damage by fire.
 
@@ -158,7 +158,7 @@ Regulation 2
 
 (3) The recovery of one-half of the reasonable costs provided for under paragraph 7(1) does not apply to repairs and replacements falling within sub-paragraph (2) of this paragraph.
 
-#### 3. Maintenance[^key-f7e3ab8b00a9790ddc3be87448f23771]
+#### 3. Maintenance[^c-f7e3ab8b00a9790ddc3be87448f23771]
 
 (1) The landlord must paint, decorate or treat, as appropriate, to a proper standard using materials of suitable quality at intervals of not more than five years or whenever necessary to prevent deterioration, the following (which have been previously painted, decorated or treated or which it is necessary to paint, decorate or treat to prevent deterioration)—
 
@@ -168,21 +168,21 @@ Regulation 2
 
 (2) In this paragraph “open-sided” means having the whole or the greater part of at least one side or end permanently open, apart from roof supports, if any.
 
-#### 4. No liability[^key-b8281a017f9c33ef29919592f8bf54c9]
+#### 4. No liability[^c-b8281a017f9c33ef29919592f8bf54c9]
 
 The landlord is under no liability—
 
 - (a) to repair, replace or insure buildings or fixtures which are the property of the tenant including buildings or fixtures erected or provided by the tenant during their tenancy; or
 - (b) subject to paragraph 2(2), to execute repairs or replacements rendered necessary by the wilful act or the negligence of the tenant or of any of the tenant’s household members or employees.
 
-#### 5. Landlord may execute repairs or replacements which are tenant liabilities[^key-8029fdc4ccf7ba06438746fcf41e8147]
+#### 5. Landlord may execute repairs or replacements which are tenant liabilities[^c-8029fdc4ccf7ba06438746fcf41e8147]
 
 Where the landlord has given the tenant written notice (other than a notice to quit under section 26 of, and Schedule 3 to, the Act which includes a statement in accordance with Case D that is given by reason of the tenant’s failure to comply with a notice to do work) specifying necessary repairs, replacements or maintenance to be executed by the tenant for which the tenant is liable under paragraph 9 or 11(a) to (d), the landlord may enter and execute those repairs, replacements or maintenance—
 
 - (a) if the tenant does not start work on the repairs, replacements or maintenance within two months of receiving that written notice; or
 - (b) if the tenant fails to complete the repairs, replacements or maintenance within three months of receiving that written notice.
 
-#### 6. Tenant may contest liability[^key-d15ec932cbba47768c82de0e0e3a0ec3]
+#### 6. Tenant may contest liability[^c-d15ec932cbba47768c82de0e0e3a0ec3]
 
 (1) Subject to sub-paragraph (2), a tenant who wishes to contest liability to execute any repairs, replacements or maintenance specified in a notice from the landlord under paragraph 5 must within one month of the service of that notice serve a counter-notice in writing upon the landlord specifying the grounds on which, and the items of repair and replacement in respect of which, liability is contested and requiring that the question of liability be determined by arbitration under the Act.
 
@@ -198,7 +198,7 @@ Where the landlord has given the tenant written notice (other than a notice to q
 - (a) sub-paragraph 3(a) until the date on which the arbitrator’s award is delivered to the tenant; and
 - (b) sub-paragraph 3(b) until the date on which the third party’s determination is delivered to the tenant.
 
-#### 7. Recovery of costs[^key-7fccc735e218a837a5e27a2b40228918]
+#### 7. Recovery of costs[^c-7fccc735e218a837a5e27a2b40228918]
 
 (1) The landlord may recover from the tenant one-half of the reasonable cost of repairs or replacements executed under paragraph 1(1) to—
 
@@ -218,11 +218,11 @@ Where the landlord has given the tenant written notice (other than a notice to q
 
 ### PART 2 — Rights and liabilities of tenant
 
-#### 8. Application[^key-89e9dde782957f356ff4aa35de04f299]
+#### 8. Application[^c-89e9dde782957f356ff4aa35de04f299]
 
 This Part does not apply in so far as any liability falls to be undertaken by the landlord under Part 1.
 
-#### 9. Repairs and replacements[^key-300af70a7405e93608880e09dd58c7d8]
+#### 9. Repairs and replacements[^c-300af70a7405e93608880e09dd58c7d8]
 
 (1) The tenant must repair and leave clean and in good tenantable repair, order and condition the farmhouse, cottages and farm buildings together with the following (which are in or upon the holding, or which during the tenancy may be erected or provided upon the holding)—
 
@@ -253,14 +253,14 @@ This Part does not apply in so far as any liability falls to be undertaken by th
 - (a) the tenant must repair or replace and, upon repair or replacement, adequately paint or otherwise treat with effective preservative material as may be proper, all items of fixed equipment, and to do any work, where such repair, replacement or work is rendered necessary by the wilful act or negligence of the tenant or of any of the tenant’s household members or employees; and
 - (b) the tenant must replace anything mentioned in sub-paragraph (1) which has worn out or otherwise become incapable of repair if it’s condition has been brought about by or is substantially due to the tenant’s failure to repair it.
 
-#### 10. Careful use[^key-1c992b4a104b35a8e4c58e2cb5966af1]
+#### 10. Careful use[^c-1c992b4a104b35a8e4c58e2cb5966af1]
 
 For the parts of the holding listed in paragraph 1 which are the responsibility of the landlord to repair or replace, the tenant must—
 
 - (a) use those parts carefully to protect from damage; and
 - (b) report in writing immediately to the landlord any damage, however caused, to those parts of the holding.
 
-#### 11. Maintenance[^key-7add7b42db99e71558d9f75046b75e62]
+#### 11. Maintenance[^c-7add7b42db99e71558d9f75046b75e62]
 
 The tenant must carry out the following maintenance—
 
@@ -271,7 +271,7 @@ The tenant must carry out the following maintenance—
 - (e) dig out, scour and cleanse all ponds, watercourses, ditches and grips as necessary to maintain them at sufficient width and depth; and
 - (f) cut, trim and lay a proper proportion of the hedges in each year of the tenancy to maintain them in good and sound condition.
 
-#### 12. Tenant may execute repairs or replacements which are landlord liabilities[^key-1e2e52bf0ad23bc204104628de9cc3f3]
+#### 12. Tenant may execute repairs or replacements which are landlord liabilities[^c-1e2e52bf0ad23bc204104628de9cc3f3]
 
 (1) The tenant may execute repairs or replacements for which the landlord is liable in the following circumstances—
 
@@ -282,7 +282,7 @@ The tenant must carry out the following maintenance—
 
 (2) The tenant must serve a written notice upon the landlord of repairs or replacements executed under sub-paragraph (1)(c) or (d) immediately after their execution.
 
-#### 13. Landlord may contest liability[^key-f14e5106d45ba78c5368b6b67a967e8b]
+#### 13. Landlord may contest liability[^c-f14e5106d45ba78c5368b6b67a967e8b]
 
 (1) Subject to sub-paragraph (2), a landlord who wishes to contest liability to execute any repairs or replacements specified in a notice from the tenant under paragraph 12 must within one month of the service of that notice serve a counter-notice in writing upon the tenant specifying the grounds on which, and the items of repair or replacement in respect of which, liability is contested and requiring that the question of liability be determined by arbitration under the Act.
 
@@ -298,7 +298,7 @@ The tenant must carry out the following maintenance—
 - (a) sub-paragraph 3(a) until the date on which the arbitrator’s award is delivered to the tenant; and
 - (b) sub-paragraph 3(b) until the date on which the third party’s determination is delivered to the tenant.
 
-#### 14. Payment and recovery of costs[^key-3346c4218f754f0cc123aa923b2609a1]
+#### 14. Payment and recovery of costs[^c-3346c4218f754f0cc123aa923b2609a1]
 
 (1) If the last year of the tenancy is not a year in which—
 
@@ -317,7 +317,7 @@ The tenant must carry out the following maintenance—
 
 ### PART 3 — General provisions
 
-#### 15. Redundant fixed equipment[^key-1141fa42aeb3912fbcce99b198d7fd08]
+#### 15. Redundant fixed equipment[^c-1141fa42aeb3912fbcce99b198d7fd08]
 
 (1) If the landlord or tenant is of the opinion that an item of fixed equipment is, or before the same was damaged or destroyed by fire was, redundant to the farming of the holding, the landlord or tenant may, by two months’ notice in writing served on the other, refer the question to arbitration under the Act unless the landlord and tenant agree to refer the question for third party determination.
 
@@ -332,7 +332,7 @@ The tenant must carry out the following maintenance—
 - (a) paragraph 16(b) applies to that item and both the landlord and tenant are relieved from all liability in respect of any antecedent breach of any obligation to maintain, repair or replace that item of fixed equipment; and
 - (b) the landlord is entitled to demolish and remove that item of fixed equipment and to enter the holding for those purposes.
 
-#### 16. No liability for landlord and tenant[^key-f3a263766778d61cae5d1420b02c2d88]
+#### 16. No liability for landlord and tenant[^c-f3a263766778d61cae5d1420b02c2d88]
 
 Nothing contained in Part 1 or Part 2 of this Schedule creates any liability for either the landlord or tenant—
 
@@ -340,11 +340,11 @@ Nothing contained in Part 1 or Part 2 of this Schedule creates any liability for
 - (b) to maintain, repair, replace or insure any item of fixed equipment which, in the event of any dispute between the landlord and tenant as to whether it is, or before being damaged or destroyed by fire was, redundant to the farming of the holding, is awarded or determined to be redundant by an arbitrator or third party under paragraph 15; or
 - (c) to execute any work if and so far as the execution of such work is rendered impossible (except at prohibitive or unreasonable expense) by reason of subsidence of any land or the blocking of outfalls which are not under the control of either the landlord or tenant.
 
-#### 17. Dispute mechanism[^key-f070d2e085c85bfd1876568e4c7cf322]
+#### 17. Dispute mechanism[^c-f070d2e085c85bfd1876568e4c7cf322]
 
 Any matter arising under these Regulations, unless otherwise provided for under these provisions, may, in default of agreement, be determined by arbitration or third party determination under the Act.
 
-## SCHEDULE 2 — Revocations[^key-9c5e50f6bab9e90fe98763dd9bc3ba3f]
+## SCHEDULE 2 — Revocations[^c-9c5e50f6bab9e90fe98763dd9bc3ba3f]
 
 Regulation 4
 
@@ -387,48 +387,48 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1986 c.5](https://www.legislation.gov.uk/ukpga/1986/5); section 96(1) defines “the Minister” as the Secretary of State in relation to England. That definition was amended by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794). Section 96(1) defines “prescribed” as prescribed by the Minister by regulations. Section 7(2) was amended by section 13 of, and paragraph 4 of Schedule 4 to, the [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20) to include “third party determination”; see also section 84A, inserted by paragraph 21 of that Schedule.
 
-[^key-c953c12b8549a41bdc332e1caa927069]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/950/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-c953c12b8549a41bdc332e1caa927069]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/950/regulation/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-0a322c6af833d5bf3cde4c600b381675]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/950/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-0a322c6af833d5bf3cde4c600b381675]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/950/regulation/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-578cc2cbb8e72f17b23b8df2ab026dd5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/950/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-578cc2cbb8e72f17b23b8df2ab026dd5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/950/regulation/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-f66022f180ca44d686fb3249b826a2f0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/950/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-f66022f180ca44d686fb3249b826a2f0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/950/regulation/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-5749ad3066782bde311ed4042195af57]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/950/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-5749ad3066782bde311ed4042195af57]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/950/regulation/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-ee8b31633991788022993ce619b966d5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-ee8b31633991788022993ce619b966d5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/1) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-a9a4ef5689c5a786058bd118f593fc08]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-a9a4ef5689c5a786058bd118f593fc08]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-f7e3ab8b00a9790ddc3be87448f23771]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-f7e3ab8b00a9790ddc3be87448f23771]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/3) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-b8281a017f9c33ef29919592f8bf54c9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-b8281a017f9c33ef29919592f8bf54c9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/4) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-8029fdc4ccf7ba06438746fcf41e8147]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-8029fdc4ccf7ba06438746fcf41e8147]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/5) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-d15ec932cbba47768c82de0e0e3a0ec3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/6) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-d15ec932cbba47768c82de0e0e3a0ec3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/6) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-7fccc735e218a837a5e27a2b40228918]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/7) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-7fccc735e218a837a5e27a2b40228918]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/7) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-89e9dde782957f356ff4aa35de04f299]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/8) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-89e9dde782957f356ff4aa35de04f299]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/8) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-300af70a7405e93608880e09dd58c7d8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/9) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-300af70a7405e93608880e09dd58c7d8]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/9) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-1c992b4a104b35a8e4c58e2cb5966af1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/10) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-1c992b4a104b35a8e4c58e2cb5966af1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/10) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-7add7b42db99e71558d9f75046b75e62]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/11) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-7add7b42db99e71558d9f75046b75e62]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/11) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-1e2e52bf0ad23bc204104628de9cc3f3]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/12) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-1e2e52bf0ad23bc204104628de9cc3f3]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/12) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-f14e5106d45ba78c5368b6b67a967e8b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/13) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-f14e5106d45ba78c5368b6b67a967e8b]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/13) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-3346c4218f754f0cc123aa923b2609a1]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/14) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-3346c4218f754f0cc123aa923b2609a1]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/14) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-1141fa42aeb3912fbcce99b198d7fd08]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/15) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-1141fa42aeb3912fbcce99b198d7fd08]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/15) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-f3a263766778d61cae5d1420b02c2d88]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/16) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-f3a263766778d61cae5d1420b02c2d88]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/16) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-f070d2e085c85bfd1876568e4c7cf322]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/17) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-f070d2e085c85bfd1876568e4c7cf322]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2015/950/schedule/1/paragraph/17) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
 
-[^key-9c5e50f6bab9e90fe98763dd9bc3ba3f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/950/schedule/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)
+[^c-9c5e50f6bab9e90fe98763dd9bc3ba3f]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2015/950/schedule/2) in force at 1.10.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/950/regulation/1/1)

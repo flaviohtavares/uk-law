@@ -62,13 +62,13 @@ The Secretary of State has consulted as required by Article 9 of Regulation [(EC
 
 ### 2. Interpretation
 
-(1)[^key-e5b5aaf6887ca434bba63e1cae914ad7] In these Regulations—
+(1)[^c-e5b5aaf6887ca434bba63e1cae914ad7] In these Regulations—
 
 - “**bovine animal**” includes bison and buffalo (including water buffalo);
 - “**BSE**” means bovine spongiform encephalopathy;
 - “**cattle passport**” has the same meaning as in the Cattle Identification Regulations 2007 [^c23314911];
 - “**Commission Decision [2007/411/EC](https://www.legislation.gov.uk/eud/2007/411)**” means Commission Decision [2007/411/EC](https://www.legislation.gov.uk/eud/2007/411) prohibiting the placing on the market of products derived from bovine animals born or reared within the United Kingdom before 1st August 1996 for any purpose and exempting such animals from certain control and eradication measures laid down in the EU TSE Regulation [^c23314921];
-- “cutting plant” (except in paragraph 4(3)(b)(iii) of Schedule 7) has the meaning given to it in paragraph 1(17) of Annex 1 to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853) [^c23314931], and is an establishment that is approved or conditionally approved as such by the Food Standards Agency [^c23314941] under Article 148(3) of Regulation (EU) 2017/625[^key-221aa45d2dd8a26ef81f77862c0a109f], or operating as such under Article 4(5) of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853), pending such approval;
+- “cutting plant” (except in paragraph 4(3)(b)(iii) of Schedule 7) has the meaning given to it in paragraph 1(17) of Annex 1 to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853) [^c23314931], and is an establishment that is approved or conditionally approved as such by the Food Standards Agency [^c23314941] under Article 148(3) of Regulation (EU) 2017/625[^c-221aa45d2dd8a26ef81f77862c0a109f], or operating as such under Article 4(5) of Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853), pending such approval;
 - “**EU TSE Regulation**” means Regulation [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies [^c23314961], as read with—
   - (a) Commission Decision [2007/411/EC](https://www.legislation.gov.uk/eud/2007/411);
   - (b) Commission Decision [2007/453/EC](https://www.legislation.gov.uk/eud/2007/453) establishing the BSE status of Member States or third countries or regions thereof according to their BSE risk [^c23314971]; and
@@ -87,7 +87,7 @@ The Secretary of State has consulted as required by Article 9 of Regulation [(EC
   - (a) Directive [2004/41/EC](https://www.legislation.gov.uk/eudr/2004/41) of the European Parliament and of the Council repealing certain directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption [^c23314991];
   - (b) Commission Regulation [(EC) No 1688/2005](https://www.legislation.gov.uk/eur/2005/1688) implementing Regulation (EC) No 853/2004 of the European Parliament and of the Council as regards special guarantees concerning salmonella for consignments to Finland and Sweden of certain meat and eggs [^c23315001]; and
   - (c) Commission Regulation [(EC) No 2074/2005](https://www.legislation.gov.uk/eur/2005/2074) laying down implementation measures for certain products under Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853) [^c23315011];
-- “**slaughterhouse**” has the meaning given in paragraph 1(16) of Annex 1 to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853), and is an establishment that is approved or conditionally approved as such by the Food Standards Agency under Article 148(3) of Regulation (EU) 2017/625[^key-1e33f4a9c276a3c738aff6afac832d55];
+- “**slaughterhouse**” has the meaning given in paragraph 1(16) of Annex 1 to Regulation [(EC) No 853/2004](https://www.legislation.gov.uk/eur/2004/853), and is an establishment that is approved or conditionally approved as such by the Food Standards Agency under Article 148(3) of Regulation (EU) 2017/625[^c-1e33f4a9c276a3c738aff6afac832d55];
 - “**specified risk material**” means the tissues specified in Annex 5 of the EU TSE Regulation, and unless otherwise indicated, it does not include products containing or derived from those tissues;
 - “**TSE**” means transmissible spongiform encephalopathy;
 - “**the TSE requirements**” means those requirements set out in regulation 5 and Schedule 1;
@@ -96,7 +96,7 @@ The Secretary of State has consulted as required by Article 9 of Regulation [(EC
   - (a) has received training to take samples from dead bovine animals, and
   - (b) the site operator is satisfied is competent to carry out such sampling.
 
-(2)[^key-aa5afe2c3634add2b8f6aaf2efc5d8c5] “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;
+(2)[^c-aa5afe2c3634add2b8f6aaf2efc5d8c5] “Regulation (EU) 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products;
 
 (3) References in this instrument to Articles or Annexes are to Articles and Annexes in the EU TSE Regulation unless otherwise stated.
 
@@ -132,7 +132,7 @@ The Secretary of State is the competent authority for the purposes of the EU TSE
 - (b) any instructions given by an inspector and co-operate with the Secretary of State in taking action to control and eradicate a TSE in Annex 7;
 - (c) the requirements in Annex 4 for the production, use of equipment, packaging, storage and transport of animal feed;
 - (d) the animal feeding requirements in Annex 4;
-- (e) the prohibitions concerning animal feeding in Article 7, unless the animal feed products are produced using production and manufacturing processes approved by the Secretary of State[^key-21c6e9100c60facf156dffe535fadd98];
+- (e) the prohibitions concerning animal feeding in Article 7, unless the animal feed products are produced using production and manufacturing processes approved by the Secretary of State[^c-21c6e9100c60facf156dffe535fadd98];
 - (f) the requirements for dealing with specified risk material in Article 8 and Annex 5 and Schedule 7;
 - (g) the restrictions in Annex 8 and Schedule 8 concerning the placement of animals or products on the market or for export.
 
@@ -586,12 +586,12 @@ in accordance with Annex 3 and for the purposes of this sub-paragraph an “**in
 
 ### 9. Approval of TSE testing laboratories
 
-(1) The Secretary of State must approve laboratories to test samples taken under these Regulations[^key-9d9674c60e04fcc4866ea903ed553323] if satisfied that the laboratory—
+(1) The Secretary of State must approve laboratories to test samples taken under these Regulations[^c-9d9674c60e04fcc4866ea903ed553323] if satisfied that the laboratory—
 
 - (a) will carry out the testing in accordance with Chapter C of Annex 10, and
 - (b) has adequate quality control procedures in place, which include being able to accurately identify the correct identification of the samples and notification of test results.
 
-(2)[^key-fab48131e87d3fe2cb47ed33c362f0a8] A laboratory approved under corresponding legislation elsewhere in the United Kingdom is treated as an approved testing laboratory.
+(2)[^c-fab48131e87d3fe2cb47ed33c362f0a8] A laboratory approved under corresponding legislation elsewhere in the United Kingdom is treated as an approved testing laboratory.
 
 ### 10. Compensation payable to person responsible for slaughter
 
@@ -928,7 +928,7 @@ Regulation 6(7)
 
 ### 1. The Food Standards Agency as the competent authority
 
-(1) The Food Standards Agency (“**the Agency**”) must carry out the duties [^key-550216c9ecb781d5b37b02f46a37367a]... in point 11(1) and point 11(2) of Annex 5 in relation to this Schedule.
+(1) The Food Standards Agency (“**the Agency**”) must carry out the duties [^c-550216c9ecb781d5b37b02f46a37367a]... in point 11(1) and point 11(2) of Annex 5 in relation to this Schedule.
 
 (2) The Agency may grant authorisations to a cutting plant in accordance with paragraph 8.
 
@@ -957,7 +957,7 @@ Regulation 6(7)
 
 - (a) a cutting plant authorised under paragraph 8(1)(a) of this Schedule;
 - (b) a cutting plant located in another part of the United Kingdom and authorised under the corresponding provision applicable in that part;
-- (c)[^key-fc5f8d324bf2d4a960b389f100b5b3cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-fc5f8d324bf2d4a960b389f100b5b3cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The occupier must label bovine carcasses or wholesale cuts containing vertebral column with a clearly visible red stripe on the label.
 
@@ -975,11 +975,11 @@ Regulation 6(7)
 
 (3) In the case of an ovine or caprine animal aged over 12 months at slaughter, or that has a permanent incisor erupted through the gum, the occupier of the slaughterhouse must—
 
-- (a) remove the spinal cord as soon as is reasonably practicable , and in any event before[^key-518f68cfd01ec86d4805173b491acf70] the post-mortem inspection, or
+- (a) remove the spinal cord as soon as is reasonably practicable , and in any event before[^c-518f68cfd01ec86d4805173b491acf70] the post-mortem inspection, or
 - (b) as soon as is reasonably practicable, send the whole carcase for removal of the spinal cord to—
-  - (i) a cutting plant authorised under paragraph 8(1)(b) of this Schedule, or[^key-3694b179c35ede6ac2f4bb449a5e5eb9]
-  - (ii) a cutting plant located in another part of the United Kingdom and authorised under the corresponding provision applicable in that part.[^key-8a2f2fc0a816024899fb8a99feb51625]
-  - (iii)[^key-df03f48c22e354d57e16ef654cff3d35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i) a cutting plant authorised under paragraph 8(1)(b) of this Schedule, or[^c-3694b179c35ede6ac2f4bb449a5e5eb9]
+  - (ii) a cutting plant located in another part of the United Kingdom and authorised under the corresponding provision applicable in that part.[^c-8a2f2fc0a816024899fb8a99feb51625]
+  - (iii)[^c-df03f48c22e354d57e16ef654cff3d35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. Bovine, ovine and caprine animals in other places of slaughter
 
@@ -1071,11 +1071,11 @@ A person must not sell, supply or possess for sale or supply—
 
 Regulation 6(8)
 
-**1.** A person must not place on the market or export (or offer to export) [^key-64678d43ba9d4ade6bfef79cc6ad6b79]... any product consisting of or incorporating any material (other than milk) derived from a bovine animal born or reared within the United Kingdom before 1st August 1996.
+**1.** A person must not place on the market or export (or offer to export) [^c-64678d43ba9d4ade6bfef79cc6ad6b79]... any product consisting of or incorporating any material (other than milk) derived from a bovine animal born or reared within the United Kingdom before 1st August 1996.
 
 **2.** The prohibition in paragraph 1 does not apply to the hides of bovine animals born or reared within the United Kingdom before 1st August 1996 that have been used for leather production in accordance with Article 1(3) of Commission Decision [2007/411/EC](https://www.legislation.gov.uk/european/decision/2007/0411).
 
-**3.** A person must not place on the market or export (or offer to export) [^key-8ccbc6523f3721ea3d44e57660f7beae]... bovine animals born or reared in the United Kingdom before 1st August 1996.
+**3.** A person must not place on the market or export (or offer to export) [^c-8ccbc6523f3721ea3d44e57660f7beae]... bovine animals born or reared in the United Kingdom before 1st August 1996.
 
 **4.** A bovine animal is deemed to have been born or reared in the United Kingdom before 1st August 1996 unless its cattle passport shows that either—
 
@@ -1131,7 +1131,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23314901]: Marginal citation: OJ No L 31, 1.2.2002, p 1, as last amended by Regulation (EU) No 652/2014 (OJ No L189, 27.6.2014, p. 1).
 
-[^key-e5b5aaf6887ca434bba63e1cae914ad7]: Textual amendment: Reg. 2(1): para. renumbered as reg. 2(1) (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [32(2)(a)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/32/2/a)
+[^c-e5b5aaf6887ca434bba63e1cae914ad7]: Textual amendment: Reg. 2(1): para. renumbered as reg. 2(1) (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [32(2)(a)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/32/2/a)
 
 [^c23314911]: Marginal citation: [S.I. 2007/529](https://www.legislation.gov.uk/uksi/2007/529), amended by [S.I. 2013/517](https://www.legislation.gov.uk/uksi/2013/517); there are other amending instruments but none is relevant.
 
@@ -1141,7 +1141,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23314941]: Marginal citation: Established by the Food Standards Act [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-221aa45d2dd8a26ef81f77862c0a109f]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [32(2)(b)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/32/2/b)
+[^c-221aa45d2dd8a26ef81f77862c0a109f]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [32(2)(b)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/32/2/b)
 
 [^c23314961]: Marginal citation: OJ No L 147, 31.5.2001, p 1, as last amended by Commission Regulation (EU) No 2017/1972 (OJ No L 281, 31.10.20176, p 14).
 
@@ -1155,15 +1155,15 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23315011]: Marginal citation: OJ No L 338, 22.12.2005, p 27, as last amended by Commission Regulation (EU) No 2016/759 (OJ No L 126, 14.5.2016, p 13).
 
-[^key-1e33f4a9c276a3c738aff6afac832d55]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [32(2)(c)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/32/2/c)
+[^c-1e33f4a9c276a3c738aff6afac832d55]: Textual amendment: Words in reg. 2(1) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [32(2)(c)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/32/2/c)
 
-[^key-aa5afe2c3634add2b8f6aaf2efc5d8c5]: Textual amendment: Reg. 2(2) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [32(2)(d)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/32/2/d)
+[^c-aa5afe2c3634add2b8f6aaf2efc5d8c5]: Textual amendment: Reg. 2(2) substituted (14.12.2019) by [The Official Controls (Animals, Feed and Food, Plant Health Fees etc.) Regulations 2019 (S.I. 2019/1488)](https://www.legislation.gov.uk/uksi/2019/1488), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/1/1), [32(2)(d)](https://www.legislation.gov.uk/uksi/2019/1488/regulation/32/2/d)
 
 [^c23315031]: Marginal citation: OJ No L 300, 14.11.2009 p. 1, as last amended by Council Regulation (EU) No 1385/2013 (OJ No L 354, 28.12.2013, p. 86).
 
 [^c23315041]: Marginal citation: OJ No L 54, 26.2.2011, as last amended by Commission Regulation (EU) No 592/2014 (OJ L 165, 4.6.2014, p.33).
 
-[^key-21c6e9100c60facf156dffe535fadd98]: Textual amendment: Words in [reg. 5(6)(e)](https://www.legislation.gov.uk/uksi/2018/731/regulation/5/6/e) substituted (31.12.2020) by [The Animal Health, Plant Health, Seeds and Seed Potatoes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/809)](https://www.legislation.gov.uk/uksi/2019/809), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/809/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2019/809/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-21c6e9100c60facf156dffe535fadd98]: Textual amendment: Words in [reg. 5(6)(e)](https://www.legislation.gov.uk/uksi/2018/731/regulation/5/6/e) substituted (31.12.2020) by [The Animal Health, Plant Health, Seeds and Seed Potatoes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/809)](https://www.legislation.gov.uk/uksi/2019/809), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2019/809/regulation/1/b), [3](https://www.legislation.gov.uk/uksi/2019/809/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23315051]: Marginal citation: [S.I. 2009/3255](https://www.legislation.gov.uk/uksi/2009/3255) to which there are amendments not relevant to these Regulations.
 
@@ -1177,26 +1177,26 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23315101]: Marginal citation: Council Directive of 28 January 1991 on animal health conditions governing intra-Community trade in ovine and caprine animals OJ No L046 19.2.1991, p.19 last amended by Commission Implementing Decision (EU) 2016/2002, OJ. No L308 16.11.2016, p.29.
 
-[^key-9d9674c60e04fcc4866ea903ed553323]: Textual amendment: Words in [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/uksi/2018/731/schedule/2/paragraph/9/1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [55](https://www.legislation.gov.uk/uksi/2018/942/regulation/55)
+[^c-9d9674c60e04fcc4866ea903ed553323]: Textual amendment: Words in [Sch. 2 para. 9(1)](https://www.legislation.gov.uk/uksi/2018/731/schedule/2/paragraph/9/1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [55](https://www.legislation.gov.uk/uksi/2018/942/regulation/55)
 
-[^key-fab48131e87d3fe2cb47ed33c362f0a8]: Textual amendment: [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2018/731/schedule/2/paragraph/9/2) substituted (31.12.2020) by [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fab48131e87d3fe2cb47ed33c362f0a8]: Textual amendment: [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2018/731/schedule/2/paragraph/9/2) substituted (31.12.2020) by [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23315111]: Marginal citation: OJ No L125, 12.5.84, p. 58 as amended by Commission Decision 2007/371/EC (OJ No L 140, 1.6.2007, p. 49).
 
 [^c23315121]: Marginal citation: OJ No L171, 29.6.2016, p. 66.
 
-[^key-550216c9ecb781d5b37b02f46a37367a]: Textual amendment: Words in [Sch. 7 para. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/1/1) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-550216c9ecb781d5b37b02f46a37367a]: Textual amendment: Words in [Sch. 7 para. 1(1)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/1/1) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fc5f8d324bf2d4a960b389f100b5b3cb]: Textual amendment: [Sch. 7 para. 3(3)(c)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/3/3/c) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc5f8d324bf2d4a960b389f100b5b3cb]: Textual amendment: [Sch. 7 para. 3(3)(c)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/3/3/c) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-518f68cfd01ec86d4805173b491acf70]: Textual amendment: Words in [Sch. 7 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/4/3/a) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/526/regulation/18)
+[^c-518f68cfd01ec86d4805173b491acf70]: Textual amendment: Words in [Sch. 7 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/4/3/a) substituted (29.3.2019) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments etc.) Regulations 2019 (S.I. 2019/526)](https://www.legislation.gov.uk/uksi/2019/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/526/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/526/regulation/18)
 
-[^key-3694b179c35ede6ac2f4bb449a5e5eb9]: Textual amendment: Word in [Sch. 7 para. 4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/4/3/b/i) inserted (31.12.2020) by [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3694b179c35ede6ac2f4bb449a5e5eb9]: Textual amendment: Word in [Sch. 7 para. 4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/4/3/b/i) inserted (31.12.2020) by [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8a2f2fc0a816024899fb8a99feb51625]: Textual amendment: Sch. 7 para. 4(3)(b)(ii): full stop substituted for word (31.12.2020) by The Animal By-[Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8a2f2fc0a816024899fb8a99feb51625]: Textual amendment: Sch. 7 para. 4(3)(b)(ii): full stop substituted for word (31.12.2020) by The Animal By-[Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df03f48c22e354d57e16ef654cff3d35]: Textual amendment: [Sch. 7 para. 4(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/4/3/b/iii) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df03f48c22e354d57e16ef654cff3d35]: Textual amendment: [Sch. 7 para. 4(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/731/schedule/7/paragraph/4/3/b/iii) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(3)(c)(iii)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/3/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-64678d43ba9d4ade6bfef79cc6ad6b79]: Textual amendment: Words in [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2018/731/schedule/8/paragraph/1) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64678d43ba9d4ade6bfef79cc6ad6b79]: Textual amendment: Words in [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2018/731/schedule/8/paragraph/1) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ccbc6523f3721ea3d44e57660f7beae]: Textual amendment: Words in [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2018/731/schedule/8/paragraph/3) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ccbc6523f3721ea3d44e57660f7beae]: Textual amendment: Words in [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2018/731/schedule/8/paragraph/3) omitted (31.12.2020) by virtue of [The Animal By-Products and Transmissible Spongiform Encephalopathies (England) (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1120)](https://www.legislation.gov.uk/uksi/2018/1120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/1120/regulation/3/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

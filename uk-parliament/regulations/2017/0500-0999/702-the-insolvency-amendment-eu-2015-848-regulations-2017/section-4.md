@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Saving[^key-b5e68333a11444abe131672f6d0d4609]
+## 4. Saving[^c-b5e68333a11444abe131672f6d0d4609]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Insolvency Act 1986 as it applies to the instruments listed in regulation 4(
 
 ## Annotations
 
-[^key-b5e68333a11444abe131672f6d0d4609]: Commencement: Reg. 4 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-b5e68333a11444abe131672f6d0d4609]: Commencement: Reg. 4 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2017/540](https://www.legislation.gov.uk/uksi/2017/540).

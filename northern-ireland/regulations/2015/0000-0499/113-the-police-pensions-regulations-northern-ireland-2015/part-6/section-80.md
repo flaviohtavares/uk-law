@@ -30,7 +30,7 @@ summary: ''
   - (ii) in respect of a member who falls within regulation 4(1)(b) or (c), the Chief Constable and the member, a report and certificate under that regulation; and
 - (c) the report and certificate contains the decision that the member is permanently medically unfit for performing the ordinary duties of a member of the police service.
 
-(2)[^key-d0c0da48917271ade3c83303f0a2e96a] That report and certificate is final, subject to—
+(2)[^c-d0c0da48917271ade3c83303f0a2e96a] That report and certificate is final, subject to—
 
 - (a) a review under Chapter 4 of Part 7;
 - (b) an appeal under Schedule 1 against the decision of the selected medical practitioner; or
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0c0da48917271ade3c83303f0a2e96a]: Modification: [Reg. 80(2)](https://www.legislation.gov.uk/nisr/2015/113/regulation/80/2) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [51(4)](https://www.legislation.gov.uk/nisr/2023/122/regulation/51/4)
+[^c-d0c0da48917271ade3c83303f0a2e96a]: Modification: [Reg. 80(2)](https://www.legislation.gov.uk/nisr/2015/113/regulation/80/2) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/122)](https://www.legislation.gov.uk/nisr/2023/122), [regs. 1(b)](https://www.legislation.gov.uk/nisr/2023/122/regulation/1/b), [51(4)](https://www.legislation.gov.uk/nisr/2023/122/regulation/51/4)

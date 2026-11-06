@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Guidance[^key-5aef93c92e2a7e93dd380f2b7e481c75]
+## 64. Guidance[^c-5aef93c92e2a7e93dd380f2b7e481c75]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ The Department may issue guidance—
 
 ## Annotations
 
-[^key-5aef93c92e2a7e93dd380f2b7e481c75]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2011/24/section/64) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-5aef93c92e2a7e93dd380f2b7e481c75]: Commencement: [S. 64](https://www.legislation.gov.uk/nia/2011/24/section/64) in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)

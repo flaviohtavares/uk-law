@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Liability of deceased's estate[^key-2daaa10959a8a11623694790deb6dffc]
+## 70. Liability of deceased's estate[^c-2daaa10959a8a11623694790deb6dffc]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2daaa10959a8a11623694790deb6dffc]: Commencement: S. 70 in force at 11.9.2019 by [S.S.I. 2019/269](https://www.legislation.gov.uk/ssi/2019/269), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/269/regulation/2/b)
+[^c-2daaa10959a8a11623694790deb6dffc]: Commencement: S. 70 in force at 11.9.2019 by [S.S.I. 2019/269](https://www.legislation.gov.uk/ssi/2019/269), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2019/269/regulation/2/b)

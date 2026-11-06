@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Implementation and supervision of approved voluntary arrangement[^key-6918e50bc00a9d1bd178637442cf29a2]
+## 73. Implementation and supervision of approved voluntary arrangement[^c-6918e50bc00a9d1bd178637442cf29a2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 237(1) (implementation and supervision of approved voluntary arrangem
 
 ## Annotations
 
-[^key-6918e50bc00a9d1bd178637442cf29a2]: Commencement: S. 73 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-6918e50bc00a9d1bd178637442cf29a2]: Commencement: S. 73 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

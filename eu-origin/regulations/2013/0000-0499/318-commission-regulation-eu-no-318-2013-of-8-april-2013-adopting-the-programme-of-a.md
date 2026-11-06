@@ -36,29 +36,29 @@ adopting the programme of ad-hoc modules, covering the years 2016 to 2018, for t
 
 (Text with EEA relevance) (revoked)
 
-[^key-387539856019c7f791d2c283bbced491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-387539856019c7f791d2c283bbced491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-387539856019c7f791d2c283bbced491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-387539856019c7f791d2c283bbced491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-387539856019c7f791d2c283bbced491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-387539856019c7f791d2c283bbced491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-387539856019c7f791d2c283bbced491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-387539856019c7f791d2c283bbced491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — LABOUR FORCE SURVEY — Multiannual programme of ad hoc modules[^key-387539856019c7f791d2c283bbced491]
+## ANNEX — LABOUR FORCE SURVEY — Multiannual programme of ad hoc modules[^c-387539856019c7f791d2c283bbced491]
 
-[^key-387539856019c7f791d2c283bbced491] 1.
+[^c-387539856019c7f791d2c283bbced491] 1.
 
 **YOUNG PEOPLE ON THE LABOUR MARKET**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-387539856019c7f791d2c283bbced491] 2.
+[^c-387539856019c7f791d2c283bbced491] 2.
 
 **SELF-EMPLOYMENT**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-387539856019c7f791d2c283bbced491] 3.
+[^c-387539856019c7f791d2c283bbced491] 3.
 
 **RECONCILIATION BETWEEN WORK AND FAMILY LIFE**
 
@@ -66,4 +66,4 @@ adopting the programme of ad-hoc modules, covering the years 2016 to 2018, for t
 
 ## Annotations
 
-[^key-387539856019c7f791d2c283bbced491]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 217](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/217); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-387539856019c7f791d2c283bbced491]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 217](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/217); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

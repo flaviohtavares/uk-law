@@ -31,7 +31,7 @@ Infant Life (Preservation) Act 1929
 
 An Act to amend the law with regard to the destruction of children at or before birth.
 
-\[10th May 1929\][^key-7fa71404710dbbe94788b260f1c9d22e]
+\[10th May 1929\][^c-7fa71404710dbbe94788b260f1c9d22e]
 
 ## 1. Punishment for child destruction.[^c586439]
 
@@ -61,7 +61,7 @@ Provided that no person shall be found guilty of an offence under this section u
 
 ## Annotations
 
-[^key-7fa71404710dbbe94788b260f1c9d22e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo5/19-20/34) excluded (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 241](https://www.legislation.gov.uk/ukpga/2026/20/section/241), [255(2)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/j)
+[^c-7fa71404710dbbe94788b260f1c9d22e]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Geo5/19-20/34) excluded (29.4.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 241](https://www.legislation.gov.uk/ukpga/2026/20/section/241), [255(2)(j)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/j)
 
 [^c586439]: Modification: Reference to penal servitude for life to be construed as reference to imprisonment for life or any shorter term: [Criminal Justice Act 1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1948/58/section/1/1)
 

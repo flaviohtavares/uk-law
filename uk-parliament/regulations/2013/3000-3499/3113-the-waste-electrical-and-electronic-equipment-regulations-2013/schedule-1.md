@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Categories of EEE covered by these Regulations during the transitional period[^key-e6853d6854782f96acf10b8ac910ecd2]
+## SCHEDULE 1 — Categories of EEE covered by these Regulations during the transitional period[^c-e6853d6854782f96acf10b8ac910ecd2]
 
 *Extent: E+W+S+N.I.*
 
 Regulation 5
 
-[^key-e6853d6854782f96acf10b8ac910ecd2]
+[^c-e6853d6854782f96acf10b8ac910ecd2]
 
 - 1) LARGE HOUSEHOLD APPLIANCES
 - 2) SMALL HOUSEHOLD APPLIANCES
@@ -37,4 +37,4 @@ Regulation 5
 
 ## Annotations
 
-[^key-e6853d6854782f96acf10b8ac910ecd2]: Commencement: Sch. 1 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)
+[^c-e6853d6854782f96acf10b8ac910ecd2]: Commencement: Sch. 1 in force at 1.1.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3113/regulation/1/2)

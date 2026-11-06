@@ -22,7 +22,7 @@ summary: ''
 
 Article 5
 
-### PART 1 — AUTHORISED DEVELOPMENT[^key-e1f870c3b10930c0782adc2c437b3fbb]
+### PART 1 — AUTHORISED DEVELOPMENT[^c-e1f870c3b10930c0782adc2c437b3fbb]
 
 A nationally significant infrastructure project as defined in sections 14 and 25 of the 2008 Act comprising—
 
@@ -53,22 +53,22 @@ For the purpose of the description of further associated development, the Order 
 
 ### PART 2 — REQUIREMENTS
 
-#### 1. Interpretation[^key-be4165302d0d4f8e8ba6d39a7967ab6f]
+#### 1. Interpretation[^c-be4165302d0d4f8e8ba6d39a7967ab6f]
 
 In this Part of this Schedule—
 
 - “the CR-E” means Network Rail’s Contract Requirements-Environment Issue 5, April 2004 as set out in chapter 15, Volume 3 of the Environmental Statement; and
 - “stage” means a defined section or part of the authorised development the extent of which is shown in a scheme submitted to and approved by the relevant planning authority pursuant to requirement 2 (stages of authorised development).
 
-#### 2. Stages of authorised development[^key-41df965ab38dec27011f615183edaa29]
+#### 2. Stages of authorised development[^c-41df965ab38dec27011f615183edaa29]
 
 No authorised development is to commence until a written scheme setting out all the stages of the authorised development has, after consultation with the highway authority, been submitted to and approved by the relevant planning authority.
 
-#### 3. In accordance with approved details[^key-4f878b00b592aa1b071ff456a1c4ee6d]
+#### 3. In accordance with approved details[^c-4f878b00b592aa1b071ff456a1c4ee6d]
 
 The authorised development must be carried out in accordance with the design drawings certified under article 32 (certification of plans etc.) unless otherwise approved by the relevant planning authority.
 
-#### 4. Landscaping[^key-96a3bdf05d117d9ed40c6f2c8c957c52]
+#### 4. Landscaping[^c-96a3bdf05d117d9ed40c6f2c8c957c52]
 
 No stage of the authorised development is to commence until a written landscaping scheme for that stage has been submitted to and approved by the relevant planning authority. The submitted scheme must reflect the mitigation measures set out in Chapter 8, Technical Report 8, Townscape and Visual Effect Assessment in Volume 3 of the Environmental Statement, with particular reference to paragraphs 1.6.9 to 1.6.18 of the Chapter. The landscaping scheme must include details of—
 
@@ -79,19 +79,19 @@ No stage of the authorised development is to commence until a written landscapin
 - (e) measures relating to the removal of rabbit protection provided for trees and shrubs and to the checking, adjusting and repairing of all stakes, ties, shelters and fencing used in accordance with the scheme; and
 - (f) proposals to take account of the presence of trees with trunks of a diameter of 100 millimetres or more and to minimise the loss of such trees.
 
-#### 5. Implementation and maintenance of landscaping[^key-f1457e2069896f7009cf17feb2374841]
+#### 5. Implementation and maintenance of landscaping[^c-f1457e2069896f7009cf17feb2374841]
 
 (1) All landscaping work must be carried out in accordance with the scheme and implementation timetable approved under requirement 4 (landscaping).
 
 (2) Any tree or shrub planted as part of an approved landscaping scheme that, within a period of 5 years after planting, is removed, dies or becomes, in the opinion of the relevant planning authority, seriously damaged or diseased, must be replaced in the first available planting season with a specimen of the same species and size as that originally planted, unless otherwise approved by the relevant planning authority.
 
-#### 6. Highway access[^key-9b8a1db0089a837ae8965170dfa83981]
+#### 6. Highway access[^c-9b8a1db0089a837ae8965170dfa83981]
 
 (1) No bulk fill material required for the construction of the railway embankment on the south-east side of the River Gipping (chainage 12250 to 12550), forming part of Work No. 1, which requires access from Hadleigh Road is to be brought to site until the PCCL access improvements have been constructed (whether or not by Network Rail) to the satisfaction of the relevant planning authority and to Network Rail’s reasonable satisfaction to such standard (which may be less than final completion) as is sufficient to comply with the planning permission for so long as the road is being used (whether or not by Network Rail) for construction purposes.
 
 (2) In this requirement, “the PCCL access improvements” means the new estate road and junction with Hadleigh Road inclusive of bridge containment works in accordance with the planning permission; and “the planning permission” means the grant of planning permission by Ipswich Borough Council no. IP/11/00120/FUL dated 13th April 2011.
 
-#### 7. Archaeology[^key-e6e1f1e6a99ce4ec50f8e64fbb529720]
+#### 7. Archaeology[^c-e6e1f1e6a99ce4ec50f8e64fbb529720]
 
 (1) No stage of the authorised development is to commence until for that stage a written scheme for the investigation of areas of archaeological interest identified at paragraph 12.8.1 of the Environmental Statement has been submitted to and approved by the relevant planning authority.
 
@@ -101,7 +101,7 @@ No stage of the authorised development is to commence until a written landscapin
 
 (4) Any archaeological works or watching brief must be carried out in accordance with the approved scheme.
 
-#### 8. Contract Requirements-Environment[^key-6029ee1fd23618bc5002ae76b0ef9dff]
+#### 8. Contract Requirements-Environment[^c-6029ee1fd23618bc5002ae76b0ef9dff]
 
 (1) The authorised development must be carried out in accordance with the CR-E or as otherwise amended with the agreement of the relevant planning authority. The mitigation measures set out in the Environmental Statement must be reflected in preparing any plan required by the CR-E.
 
@@ -128,15 +128,15 @@ must be submitted to and approved by the relevant planning authority.
 
 (6) No stage of the authorised development is to be commenced until such of the plans or programmes required under sections 5.10, 5.13, 5.17, 6.2, 6.3, 6.4 of the CR-E and the Nuisance Management Plan, as relate to that stage of the development have been approved by the relevant planning authority and those plans or programmes must be implemented as approved.
 
-#### 9. Restriction on access[^key-ee82488a090ab862927fd9b604bc6a4d]
+#### 9. Restriction on access[^c-ee82488a090ab862927fd9b604bc6a4d]
 
 The Traffic Management Plan to be prepared in accordance with requirement 8 (Contract Requirements-Environment), as part of the CR-E, must include a prohibition on access for the construction of the authorised development by HGVs from Hadleigh Road between the hours of 08.00 and 09.00 Monday to Friday.
 
-#### 10. Noise mitigation Railway Cottages[^key-653d649e8f971384031b1de7277d2a6f]
+#### 10. Noise mitigation Railway Cottages[^c-653d649e8f971384031b1de7277d2a6f]
 
 Measures to mitigate the impact of idling engine noise from westbound freight trains held at signals as identified in the Environmental Statement at paragraph 1.6.10 of Volume 3 Report 6, ‘Noise and Vibration Technical Report’ on Railway Cottages, Sproughton Road, to the standard provided under the Noise Insulation (Railways and other Guided Transport Systems) Regulations 1996[^f00027],must be submitted to the relevant planning authority for approval. The approved scheme must be completed prior to the opening of the authorised development to rail traffic.
 
-#### 11. Contaminated land[^key-563453d1fa6cc75814c5ef405a7a6164]
+#### 11. Contaminated land[^c-563453d1fa6cc75814c5ef405a7a6164]
 
 (1) Proposals for the additional investigation of potential hotspots, implementation of mitigation measures and monitoring requirements identified in the Environmental Statement Volume 3 Specialist Technical Report 11 at paragraph 1.8 concerning existing land (and groundwater) quality, prevention of future contamination and materials management within the authorised development must be incorporated into the Environmental Design Management Plan required under the CR-E in accordance with requirement 8 (Construction Requirements-Environment).
 
@@ -146,31 +146,31 @@ Measures to mitigate the impact of idling engine noise from westbound freight tr
 
 (4) On completion of the authorised development, the findings of any additional risk assessments and the details of any remedial works completed whilst carrying out the authorised development must be submitted to and approved by the relevant planning authority within a Verification Report in accordance with the Environment Agency’s ‘Model Procedures for the Management of Land Contamination, CLR 11’.
 
-#### 12. Ecological Management Plan[^key-28381e7fddfe577372913bd2be2b2df8]
+#### 12. Ecological Management Plan[^c-28381e7fddfe577372913bd2be2b2df8]
 
 (1) No stage of the authorised development is to commence until for that stage a written ecological management plan reflecting the survey results and ecological mitigation and enhancement measures included in the Environmental Statement, in particular to accord with Table 1-J, ‘Proposed Mitigation During Construction’ in volume 3, Report 9 (Ecology Technical Report) of the Environmental Statement has been submitted to and approved by the relevant planning authority.
 
 (2) The ecological management plan must include an implementation timetable and must be carried out as approved.
 
-#### 13. Pedestrian/cycle access to River Gipping[^key-2d166bfdfe2411bf2acedf0929b03b7f]
+#### 13. Pedestrian/cycle access to River Gipping[^c-2d166bfdfe2411bf2acedf0929b03b7f]
 
 (1) If it is required as a condition of any planning permission for the development of the Harris Factory site that a foot and cycle path is provided linking Hadleigh Road and the River Gipping, Network Rail must, following the implementation of such development, provide access under the embankment comprised in Work No. 1 for pedestrians and cyclists via the maintenance access road comprised in Work No. 4 and must dedicate such access as a public right of way.
 
 (2) The provision and dedication of such access is subject to such temporary closure as may be required from time to time in connection with the maintenance of the authorised development.
 
-#### 14. Finishes of bridges and graffiti[^key-478ab26453ef6c34cfdb5ef46f2f52c5]
+#### 14. Finishes of bridges and graffiti[^c-478ab26453ef6c34cfdb5ef46f2f52c5]
 
 Details of the brickwork, sample of bricks and details of anti-graffiti coatings in respect of the new railway bridge over Sproughton Road, the new railway bridge over the River Gipping and the reconstruction of bridge 404 over the River Gipping forming part of Work No. 1, must be submitted to the relevant planning authority for approval. The construction of the three bridges must be carried out in accordance with the approved details.
 
-#### 15. Alteration, reconstruction or replacement of buildings[^key-8be20bf2f557169a41c9d0cb4efe7ca4]
+#### 15. Alteration, reconstruction or replacement of buildings[^c-8be20bf2f557169a41c9d0cb4efe7ca4]
 
 No alteration, reconstruction or replacement of a building or bridge is to be carried out under article 6 (maintenance of authorised project) except in accordance with plans and specifications approved by the relevant planning authority.
 
-#### 16. Amendments to approved details[^key-cef8d4b9228f9dfbfcbe7bd6d2773746]
+#### 16. Amendments to approved details[^c-cef8d4b9228f9dfbfcbe7bd6d2773746]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with the details approved by the relevant planning authority, the approved details are to be taken to include any amendments that may subsequently be approved by the relevant planning authority.
 
-#### 17. Street Lighting at Bridge 404[^key-31a64ddd80899b6def696418541a7597]
+#### 17. Street Lighting at Bridge 404[^c-31a64ddd80899b6def696418541a7597]
 
 (1) Before completing the reconstruction of bridge 404 over the River Gipping, Network Rail must, after consultation with the highway authority, submit to the relevant planning authority for approval a street lighting scheme for the footpath under bridge 404.
 
@@ -178,7 +178,7 @@ With respect to any requirement which requires the authorised development to be 
 
 (3) Upon completion of the reconstruction of bridge 404, Network Rail must transfer ownership of the installed lighting equipment to the highway authority.
 
-#### 18. Temporary cantilever footpath and cycleway[^key-03b81d49243e6b46b6a80ccb01e349fa]
+#### 18. Temporary cantilever footpath and cycleway[^c-03b81d49243e6b46b6a80ccb01e349fa]
 
 (1) Subject to paragraph (2), Network Rail must not stop up the footpath and cycleway on the north bank of the River Gipping until the temporary structure referred to in paragraph (j) of Part 1 of this Schedule (“the temporary structure”) is available for use by the public.
 
@@ -186,58 +186,58 @@ With respect to any requirement which requires the authorised development to be 
 
 (3) Before submitting plans of the temporary structure to the Environment Agency in accordance with Part 3 of Schedule 7 (protective provisions), Network Rail must consult the highway authority.
 
-#### 19. Ramps[^key-13ad9a930a4c8209c108143bdca61f11]
+#### 19. Ramps[^c-13ad9a930a4c8209c108143bdca61f11]
 
 No ramps of any kind are to be constructed on the land numbered 68 and 69 on the land plans.
 
-#### 20. Requirement for written approval[^key-4501b21707c3b42a833a85d71e3c110d]
+#### 20. Requirement for written approval[^c-4501b21707c3b42a833a85d71e3c110d]
 
 Where under any of the above requirements the approval or agreement of the relevant planning authority or another person is required, that approval or agreement must be given in writing.
 
 ## Annotations
 
-[^key-e1f870c3b10930c0782adc2c437b3fbb]: Commencement: Sch. 1 Pt. 1 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-e1f870c3b10930c0782adc2c437b3fbb]: Commencement: Sch. 1 Pt. 1 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-be4165302d0d4f8e8ba6d39a7967ab6f]: Commencement: Sch. 1 para. 1 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-be4165302d0d4f8e8ba6d39a7967ab6f]: Commencement: Sch. 1 para. 1 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-41df965ab38dec27011f615183edaa29]: Commencement: Sch. 1 para. 2 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-41df965ab38dec27011f615183edaa29]: Commencement: Sch. 1 para. 2 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-4f878b00b592aa1b071ff456a1c4ee6d]: Commencement: Sch. 1 para. 3 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-4f878b00b592aa1b071ff456a1c4ee6d]: Commencement: Sch. 1 para. 3 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-96a3bdf05d117d9ed40c6f2c8c957c52]: Commencement: Sch. 1 para. 4 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-96a3bdf05d117d9ed40c6f2c8c957c52]: Commencement: Sch. 1 para. 4 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-f1457e2069896f7009cf17feb2374841]: Commencement: Sch. 1 para. 5 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-f1457e2069896f7009cf17feb2374841]: Commencement: Sch. 1 para. 5 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-9b8a1db0089a837ae8965170dfa83981]: Commencement: Sch. 1 para. 6 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-9b8a1db0089a837ae8965170dfa83981]: Commencement: Sch. 1 para. 6 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-e6e1f1e6a99ce4ec50f8e64fbb529720]: Commencement: Sch. 1 para. 7 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-e6e1f1e6a99ce4ec50f8e64fbb529720]: Commencement: Sch. 1 para. 7 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-6029ee1fd23618bc5002ae76b0ef9dff]: Commencement: Sch. 1 para. 8 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-6029ee1fd23618bc5002ae76b0ef9dff]: Commencement: Sch. 1 para. 8 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
 [^f00026]: Footnote: [S.I. 2008/314](https://www.legislation.gov.uk/uksi/2008/314).
 
-[^key-ee82488a090ab862927fd9b604bc6a4d]: Commencement: Sch. 1 para. 9 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-ee82488a090ab862927fd9b604bc6a4d]: Commencement: Sch. 1 para. 9 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-653d649e8f971384031b1de7277d2a6f]: Commencement: Sch. 1 para. 10 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-653d649e8f971384031b1de7277d2a6f]: Commencement: Sch. 1 para. 10 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
 [^f00027]: Footnote: [S.I. 1996/428](https://www.legislation.gov.uk/uksi/1996/428).
 
-[^key-563453d1fa6cc75814c5ef405a7a6164]: Commencement: Sch. 1 para. 11 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-563453d1fa6cc75814c5ef405a7a6164]: Commencement: Sch. 1 para. 11 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-28381e7fddfe577372913bd2be2b2df8]: Commencement: Sch. 1 para. 12 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-28381e7fddfe577372913bd2be2b2df8]: Commencement: Sch. 1 para. 12 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-2d166bfdfe2411bf2acedf0929b03b7f]: Commencement: Sch. 1 para. 13 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-2d166bfdfe2411bf2acedf0929b03b7f]: Commencement: Sch. 1 para. 13 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-478ab26453ef6c34cfdb5ef46f2f52c5]: Commencement: Sch. 1 para. 14 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-478ab26453ef6c34cfdb5ef46f2f52c5]: Commencement: Sch. 1 para. 14 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-8be20bf2f557169a41c9d0cb4efe7ca4]: Commencement: Sch. 1 para. 15 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-8be20bf2f557169a41c9d0cb4efe7ca4]: Commencement: Sch. 1 para. 15 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-cef8d4b9228f9dfbfcbe7bd6d2773746]: Commencement: Sch. 1 para. 16 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-cef8d4b9228f9dfbfcbe7bd6d2773746]: Commencement: Sch. 1 para. 16 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-31a64ddd80899b6def696418541a7597]: Commencement: Sch. 1 para. 17 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-31a64ddd80899b6def696418541a7597]: Commencement: Sch. 1 para. 17 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-03b81d49243e6b46b6a80ccb01e349fa]: Commencement: Sch. 1 para. 18 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-03b81d49243e6b46b6a80ccb01e349fa]: Commencement: Sch. 1 para. 18 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-13ad9a930a4c8209c108143bdca61f11]: Commencement: Sch. 1 para. 19 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-13ad9a930a4c8209c108143bdca61f11]: Commencement: Sch. 1 para. 19 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
 
-[^key-4501b21707c3b42a833a85d71e3c110d]: Commencement: Sch. 1 para. 20 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-4501b21707c3b42a833a85d71e3c110d]: Commencement: Sch. 1 para. 20 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

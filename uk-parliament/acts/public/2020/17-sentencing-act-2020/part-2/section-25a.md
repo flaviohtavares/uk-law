@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Power to remit adult offenders to magistrates’ courts for sentence[^key-5a7726be3d6ba19c494b24271893408d]
+## 25A. Power to remit adult offenders to magistrates’ courts for sentence[^c-5a7726be3d6ba19c494b24271893408d]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a7726be3d6ba19c494b24271893408d]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2020/17/section/25A) inserted (28.4.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/11/3), [51(1)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1)
+[^c-5a7726be3d6ba19c494b24271893408d]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/2020/17/section/25A) inserted (28.4.2022) by [Judicial Review and Courts Act 2022 (c. 35)](https://www.legislation.gov.uk/ukpga/2022/35), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2022/35/section/11/3), [51(1)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/1)

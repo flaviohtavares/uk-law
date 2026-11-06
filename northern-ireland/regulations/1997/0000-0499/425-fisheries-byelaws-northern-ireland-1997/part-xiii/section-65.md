@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**65.**[^key-13154b5f6cb30abfbc375caf8075cdac] A person shall not use a drift net within 1,610 metres of the defined mouths of the Rivers Bush and Lower Bann.
+**65.**[^c-13154b5f6cb30abfbc375caf8075cdac] A person shall not use a drift net within 1,610 metres of the defined mouths of the Rivers Bush and Lower Bann.
 
 ## Annotations
 
-[^key-13154b5f6cb30abfbc375caf8075cdac]: Commencement: S. 65 in operation at 1.11.1997, see byelaw 1
+[^c-13154b5f6cb30abfbc375caf8075cdac]: Commencement: S. 65 in operation at 1.11.1997, see byelaw 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Auxiliary equipment[^key-75e5742c988316b704644010e90d5f40]
+## 51. Auxiliary equipment[^c-75e5742c988316b704644010e90d5f40]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The mine operator must ensure that suitable auxiliary equipment is available for
 
 ## Annotations
 
-[^key-75e5742c988316b704644010e90d5f40]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2014/3248/regulation/51) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-75e5742c988316b704644010e90d5f40]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2014/3248/regulation/51) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

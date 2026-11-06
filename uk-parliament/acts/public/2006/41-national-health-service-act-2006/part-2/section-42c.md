@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42C. Guidance in relation to orders under section 42B[^key-6cad8a1e831bbc653883b452303026f1]
+## 42C. Guidance in relation to orders under section 42B[^c-6cad8a1e831bbc653883b452303026f1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cad8a1e831bbc653883b452303026f1]: Textual amendment: [Ss. 42B](https://www.legislation.gov.uk/ukpga/2006/41/section/42B), [42C](https://www.legislation.gov.uk/ukpga/2006/41/section/42C) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 62(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/62/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6cad8a1e831bbc653883b452303026f1]: Textual amendment: [Ss. 42B](https://www.legislation.gov.uk/ukpga/2006/41/section/42B), [42C](https://www.legislation.gov.uk/ukpga/2006/41/section/42C) inserted (1.7.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 62(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/62/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

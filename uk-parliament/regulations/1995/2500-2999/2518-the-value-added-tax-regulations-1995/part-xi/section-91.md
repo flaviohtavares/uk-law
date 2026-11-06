@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Royalties and similar payments[^key-837be832bc87896d5f86da7a571b5021]
+## 91. Royalties and similar payments[^c-837be832bc87896d5f86da7a571b5021]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ a further supply shall be treated as taking place each time that a payment in re
 
 ## Annotations
 
-[^key-837be832bc87896d5f86da7a571b5021]: Commencement: Reg. 91 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-837be832bc87896d5f86da7a571b5021]: Commencement: Reg. 91 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8867917d72a0c06e721703ff14fd7e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8867917d72a0c06e721703ff14fd7e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-8867917d72a0c06e721703ff14fd7e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8867917d72a0c06e721703ff14fd7e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-60f5eab7b5d6811d34de89aceefe80cb] In section 189 of that Act (definitions) after subsection (1) insert—
+(3)[^c-60f5eab7b5d6811d34de89aceefe80cb] In section 189 of that Act (definitions) after subsection (1) insert—
 
 > (1A) In sections 36E(3), 70(4), 73(4) and 75(2) and paragraphs 14 and 15 of Schedule A1 ‘costs’, in relation to proceedings in Scotland, means expenses.
 
-(4)[^key-60f5eab7b5d6811d34de89aceefe80cb] In section 191(1)(a) of that Act (special provisions as to Northern Ireland) after “notices” insert “ , charges ”.
+(4)[^c-60f5eab7b5d6811d34de89aceefe80cb] In section 191(1)(a) of that Act (special provisions as to Northern Ireland) after “notices” insert “ , charges ”.
 
 ## Annotations
 
-[^key-8867917d72a0c06e721703ff14fd7e45]: Textual amendment: [S. 27(1)](https://www.legislation.gov.uk/ukpga/2006/14/section/27/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/14/section/27/2) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
+[^c-8867917d72a0c06e721703ff14fd7e45]: Textual amendment: [S. 27(1)](https://www.legislation.gov.uk/ukpga/2006/14/section/27/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/14/section/27/2) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/10/a)
 
-[^key-60f5eab7b5d6811d34de89aceefe80cb]: Commencement: S. 27(2)-(4) in force at 6.4.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)
+[^c-60f5eab7b5d6811d34de89aceefe80cb]: Commencement: S. 27(2)-(4) in force at 6.4.2008 by [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/3300/schedule/2)

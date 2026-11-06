@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and commencement[^key-06632373cf81d53aba733e5ffb42c709]
+## 1. Citation and commencement[^c-06632373cf81d53aba733e5ffb42c709]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06632373cf81d53aba733e5ffb42c709]: Commencement: Reg. 1 in force at 30.12.2020, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/a)
+[^c-06632373cf81d53aba733e5ffb42c709]: Commencement: Reg. 1 in force at 30.12.2020, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/a)
 
 [^c24411661]: Marginal citation: Schedule 1 to the [Interpretation Act 1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30) provides that “**IP completion day**” has the same meaning as in the [European Union (Withdrawal Agreement) Act 2020 (c.1)](https://www.legislation.gov.uk/ukpga/2020/1) (see [section 39(1) to (5)](https://www.legislation.gov.uk/ukpga/2020/1/section/39/1) of that Act).

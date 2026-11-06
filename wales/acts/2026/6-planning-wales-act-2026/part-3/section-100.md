@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 100. Power of planning authority to make non-material change to planning permission[^key-907641a3b01047c671410af804b5e740]
+## 100. Power of planning authority to make non-material change to planning permission[^c-907641a3b01047c671410af804b5e740]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-907641a3b01047c671410af804b5e740]: Commencement: S. 100 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-907641a3b01047c671410af804b5e740]: Commencement: S. 100 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

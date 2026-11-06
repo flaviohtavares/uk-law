@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Payments in the case of bankrupts[^key-c281ce15c2640d64f223b45a86ecc870]
+## 10. Payments in the case of bankrupts[^c-c281ce15c2640d64f223b45a86ecc870]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ the Director of Savings may pay to the Official Receiver or trustee (on their ap
 
 ## Annotations
 
-[^key-c281ce15c2640d64f223b45a86ecc870]: Commencement: Reg. 10 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-c281ce15c2640d64f223b45a86ecc870]: Commencement: Reg. 10 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

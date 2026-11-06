@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 201. Notice of order under section 176A(5) of the 1986 Act[^key-84818c5158f71b7c35d879b1f9196d47]
+## 201. Notice of order under section 176A(5) of the 1986 Act[^c-84818c5158f71b7c35d879b1f9196d47]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84818c5158f71b7c35d879b1f9196d47]: Commencement: [Rule 201](https://www.legislation.gov.uk/uksi/2013/3208/rule/201) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-84818c5158f71b7c35d879b1f9196d47]: Commencement: [Rule 201](https://www.legislation.gov.uk/uksi/2013/3208/rule/201) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

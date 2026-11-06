@@ -55,13 +55,13 @@ Accordingly, the Secretary of State, in exercise of the powers conferred by sect
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-956c6124363f717c512ead6f8ff9053e]
+### 1. Citation and commencement[^c-956c6124363f717c512ead6f8ff9053e]
 
 (1) This Order may be cited as the Environment Agency (Inland Waterways) Order 2010.
 
 (2) This Order comes into force on 6th April 2010.
 
-### 2. Interpretation[^key-4d0907a627e86d7bf6f068b3523dd301]
+### 2. Interpretation[^c-4d0907a627e86d7bf6f068b3523dd301]
 
 In this Order—
 
@@ -75,7 +75,7 @@ In this Order—
 - “vessel” includes every description of vessel with or without means of propulsion of any kind and includes anything constructed or used to carry persons, goods, plant or machinery, or to be propelled or moved, on, in or by water; and
 - “waterways” means unless the context otherwise requires any of the waterways described in article 3(2).
 
-### 3. Application[^key-26d78c5e36f27eb853547a3c49266eb8]
+### 3. Application[^c-26d78c5e36f27eb853547a3c49266eb8]
 
 (1) The provisions of this Order apply to the waterways.
 
@@ -84,12 +84,12 @@ In this Order—
 - (a) the waterways for which the Agency is the navigation authority pursuant to the Anglian Water Authority Act 1977[^f00004] (Schedule 1 of which is set out, as amended by article 28 of this Order, in Schedule 1 of this Order);
 - (b) that part of the River Little Ouse between Brandon Staunch and Brandon Bridge;
 - (c) the Great Ouse Flood Relief Channel between the Head sluice lock at Denver and the Tail sluice at Saddlebrow;
-- (d) the Medway navigation, as defined [^key-a4c6ab31117b1f287e050b649972e0ad]... in section 32 of the Southern Water Authority Act 1982[^f00005];
+- (d) the Medway navigation, as defined [^c-a4c6ab31117b1f287e050b649972e0ad]... in section 32 of the Southern Water Authority Act 1982[^f00005];
 - (e) the Thames within the meaning of section 4 of the Thames Conservancy Act 1932[^f00006].
 
 ## PART 2 — REGISTRATION OF VESSELS
 
-### 4. Requirement for registration[^key-38f128256518cd6616e708cd7a298c02]
+### 4. Requirement for registration[^c-38f128256518cd6616e708cd7a298c02]
 
 (1) An owner or master of a vessel must not keep, let for hire or use the vessel on the waterways unless—
 
@@ -100,7 +100,7 @@ In this Order—
 
 (3) The Agency may exempt any vessel or class of vessel from the provisions of paragraph (1) if, having regard to all the circumstances, it considers that the application of those requirements is not justified in the interests of the regulation of the waterways.
 
-### 5. Duty to register[^key-ca222e219aa1ef20b5505cbd8f4d11ee]
+### 5. Duty to register[^c-ca222e219aa1ef20b5505cbd8f4d11ee]
 
 (1) Subject to the requirements of articles 6, 7 and 8, the Agency must register a vessel upon the receipt of an application for its registration.
 
@@ -128,7 +128,7 @@ In this Order—
 - (c) construction and equipment standards under article 12; and
 - (d) additional requirements for commercial vessels under article 15.
 
-### 6. General requirements for registration[^key-97d5f41ad725b5499c4bb95f119e0a8c]
+### 6. General requirements for registration[^c-97d5f41ad725b5499c4bb95f119e0a8c]
 
 The requirements for registration of a vessel are—
 
@@ -137,7 +137,7 @@ The requirements for registration of a vessel are—
   - (ii) of such additional information as the Agency may require respecting the characteristics and location of the vessel; and
 - (b) payment of the registration charge applicable under any enactment in respect of the registration of the vessel by the Agency.
 
-### 7. Refusal and revocation of registration[^key-dd9d8c47c0c5403079830e3881a7ed7b]
+### 7. Refusal and revocation of registration[^c-dd9d8c47c0c5403079830e3881a7ed7b]
 
 (1) The Agency may refuse to register a vessel if the requirements of article 6 have not been complied with or if the Agency has previously revoked the registration of the vessel under paragraph (3) or (4).
 
@@ -161,7 +161,7 @@ The requirements for registration of a vessel are—
 
 (8) The imposition of any requirement for insurance under article 11, or any question concerning the imposition of a standard or specification for a vessel under article 12, may not be the subject of complaint under paragraph (7).
 
-### 8. Requirements in respect of registered vessels[^key-d1a757b1f5df24ebbba2a088bb363492]
+### 8. Requirements in respect of registered vessels[^c-d1a757b1f5df24ebbba2a088bb363492]
 
 (1) The Agency may make it a requirement of the registration of a vessel under article 5 that any one or more of the following means of identification is displayed on the vessel in such manner as the Agency may specify in order to allow the vessel to be identified—
 
@@ -175,11 +175,11 @@ The requirements for registration of a vessel are—
 - (b) any change in ownership of the vessel is notified to the Agency by the transferor; and
 - (c) any registration certificate or plate issued in respect of the vessel is surrendered to the Agency at the end of the registration period.
 
-### 9. Liability of owner on transfer of ownership[^key-feb46fd6508195ab97f1cab2f6fd69d8]
+### 9. Liability of owner on transfer of ownership[^c-feb46fd6508195ab97f1cab2f6fd69d8]
 
 For the purposes of the requirements of this Order and any other enactment referred to in this Order applicable to the waterways, a person who is the owner of a vessel registered under this Order and who transfers ownership of the vessel is to be deemed to remain the owner of the vessel until that person has given notice to the Agency in writing of the name and address of the person to whom ownership of the vessel has been transferred.
 
-### 10. Provision of information[^key-4fe3d5f9035947bd52d53da186e3b590]
+### 10. Provision of information[^c-4fe3d5f9035947bd52d53da186e3b590]
 
 (1) This article applies to information which is held by or on behalf of the Agency for the purposes of this Order (including information obtained by or on behalf of the Agency before the coming into force of this article).
 
@@ -205,7 +205,7 @@ For the purposes of the requirements of this Order and any other enactment refer
 
 ## PART 3 — FURTHER REGULATION OF VESSELS
 
-### 11. Insurance[^key-b58e0adb3220414c1e7589d5031ea427]
+### 11. Insurance[^c-b58e0adb3220414c1e7589d5031ea427]
 
 (1) The owner or master of a vessel must not keep, let for hire or use the vessel on the waterways unless there is in force in relation to the vessel a policy of insurance complying with the requirements of Schedule 3.
 
@@ -213,7 +213,7 @@ For the purposes of the requirements of this Order and any other enactment refer
 
 (3) The Agency may exempt any unpowered vessel or class of unpowered vessel from the application of paragraph (1) to such extent and upon such terms and conditions as it may determine if, having regard to its assessment of the risk of damage or injury which such insurance would provide cover against, it considers such exemption appropriate.
 
-### 12. Construction and equipment standards[^key-d9db07d2ffe39fc43c9deb207829471e]
+### 12. Construction and equipment standards[^c-d9db07d2ffe39fc43c9deb207829471e]
 
 (1) The Agency may impose in relation to vessels such reasonable standards and specifications relating to construction and equipment for one or more of the following purposes—
 
@@ -233,7 +233,7 @@ For the purposes of the requirements of this Order and any other enactment refer
 
 (7) When exercising power under this article, the Agency must have regard to reasonable standards and specifications imposed by other persons for the purposes specified in paragraph (1) and to the desirability of achieving common standards in relation to the regulation of vessels by different persons.
 
-### 13. Standards appeals panel[^key-db38b84ba8bc1fac9e74799c9702bb28]
+### 13. Standards appeals panel[^c-db38b84ba8bc1fac9e74799c9702bb28]
 
 (1) A panel, referred to in this Order as “the standards appeals panel”, must be established by the Agency and operate in accordance with the provisions of Schedule 4.
 
@@ -254,13 +254,13 @@ if the question is the subject of an application made in accordance with paragra
 - (a) registered under article 5; or
 - (b) would be registered under article 5 but for a refusal or revocation of registration on the grounds of a failure to comply with standard or specification under article 12.
 
-### 14. Inspection of vessels[^key-8f112c5e6473291e5c84f035fdddc90d]
+### 14. Inspection of vessels[^c-8f112c5e6473291e5c84f035fdddc90d]
 
 (1) The owner or master of a vessel on the waterways must provide reasonable facilities for the inspection of the vessel by any person exercising powers of entry pursuant to sections 169 or 172 of the Water Resources Act 1991[^f00012] for the purpose of ascertaining whether any requirement under or by virtue of this Order is being complied with.
 
 (2) For the purposes of any inspection under this article, the owner or master of the vessel must cause the whole of any installation on the vessel to be made available for inspection.
 
-### 15. Additional requirements for commercial vessels[^key-f442b3a220c37f76c4f73578bd2a336b]
+### 15. Additional requirements for commercial vessels[^c-f442b3a220c37f76c4f73578bd2a336b]
 
 (1) The Agency may from time to time determine to impose additional requirements in relation to commercial vessels on the waterways for the purposes of safety or amenity or the proper regulation of navigation.
 
@@ -280,7 +280,7 @@ if the question is the subject of an application made in accordance with paragra
 
 (7) When exercising power under this article, the Agency must have regard to additional requirements in relation to commercial vessels imposed by other persons for the purposes specified in paragraph (1) and to the desirability of achieving common standards in relation to the regulation of vessels by different persons.
 
-### 16. Removal of unregistered vessels[^key-7371a6549d7004903f7f3754a85b85e3]
+### 16. Removal of unregistered vessels[^c-7371a6549d7004903f7f3754a85b85e3]
 
 (1) The Agency may relocate on or remove from the waterways any vessel which is not registered under this Order if—
 
@@ -318,7 +318,7 @@ if the question is the subject of an application made in accordance with paragra
 
 (10) In this article “vessel” includes any part of the vessel.
 
-### 17. Power to require information, etc.[^key-55b6d7600c0db5e9b18bbe7cdd7c89ae]
+### 17. Power to require information, etc.[^c-55b6d7600c0db5e9b18bbe7cdd7c89ae]
 
 (1) In response to a demand made by an officer who produces, if requested, written evidence of that officer’s authority—
 
@@ -335,7 +335,7 @@ if the question is the subject of an application made in accordance with paragra
 
 ## PART 4 — PROVISIONS AS TO OFFENCES
 
-### 18. Offences[^key-69801b04360b94f62e2a160c1bd5b47f]
+### 18. Offences[^c-69801b04360b94f62e2a160c1bd5b47f]
 
 (1) Any person who contravenes or attempts to contravene or knowingly allows a contravention of—
 
@@ -354,17 +354,17 @@ is guilty of an offence.
 
 (4) A person guilty of an offence under this article is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 19. Proceedings for offences[^key-7876ef614b89705b41bca9d3c0ae832e]
+### 19. Proceedings for offences[^c-7876ef614b89705b41bca9d3c0ae832e]
 
 Proceedings for an offence under this Order may be instituted only by or with the consent of the Agency.
 
-### 20. Defence of due diligence[^key-dcc28200b3be919620d0db9ce3e93c27]
+### 20. Defence of due diligence[^c-dcc28200b3be919620d0db9ce3e93c27]
 
 (1) In proceedings for an offence under article 18(1)(d) it is a defence for the person charged to prove that that person charged took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
 (2) If in any case the defence provided under paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the person charged may not, without leave of the court, be entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, the person charged has served on the prosecutor a notice in writing giving such information as was then in that person’s possession, identifying, or assisting in the identification of, that other person.
 
-### 21. Offences by bodies corporate etc.[^key-4c2fc1049d547ef53a1783c18389cd1a]
+### 21. Offences by bodies corporate etc.[^c-4c2fc1049d547ef53a1783c18389cd1a]
 
 (1) If an offence committed by a body corporate is shown—
 
@@ -400,7 +400,7 @@ that officer or member as well as the association is guilty of the offence and l
 
 (8) In this article “offence” means an offence under this Order.
 
-### 22. Jurisdiction and procedure in respect of offences[^key-8fd31691c85aecebb180a378a5ffe54d]
+### 22. Jurisdiction and procedure in respect of offences[^c-8fd31691c85aecebb180a378a5ffe54d]
 
 (1) A fine imposed on a partnership or an unincorporated association on its conviction for an offence is to be paid out of the funds of the partnership or association.
 
@@ -421,11 +421,11 @@ that officer or member as well as the association is guilty of the offence and l
 
 ## PART 5 — MISCELLANEOUS
 
-### 23. Charging[^key-d46e220c8a4c055fad8327d3f9241508]
+### 23. Charging[^c-d46e220c8a4c055fad8327d3f9241508]
 
 Without prejudice to any other power available to it, the Agency may demand, take and recover or waive such charges for or in connection with the use of the waterways and for any services or facilities provided by it in connection with the waterways as it thinks fit.
 
-### 24. Consultation[^key-a5accb8387f41b1ad3a1ba9c6ac4321c]
+### 24. Consultation[^c-a5accb8387f41b1ad3a1ba9c6ac4321c]
 
 (1) The Agency must consult with such organisations as appear to the Agency to be representative of users of the waterways in relation to the exercise by it of its functions under this Order.
 
@@ -436,7 +436,7 @@ Without prejudice to any other power available to it, the Agency may demand, tak
 - (c) construction and equipment standards; and
 - (d) additional requirements for commercial vessels.
 
-### 25. Publication[^key-ce8295db4747c221a027ee211a8138dd]
+### 25. Publication[^c-ce8295db4747c221a027ee211a8138dd]
 
 The Agency must take such steps as it considers are reasonably necessary to publicise the existence and to disclose the details of—
 
@@ -446,7 +446,7 @@ The Agency must take such steps as it considers are reasonably necessary to publ
 - (d) the imposition of additional requirements by the Agency in relation to commercial vessels under article 15; and
 - (e) any agreement entered into by the Agency under article 26.
 
-### 26. Agreements with others[^key-5733a38c8f1862e6554341fe3c9e17d2]
+### 26. Agreements with others[^c-5733a38c8f1862e6554341fe3c9e17d2]
 
 (1) The Agency may enter into agreements with any other person for the purpose of—
 
@@ -461,14 +461,14 @@ The Agency must take such steps as it considers are reasonably necessary to publ
 
 (3) To the extent provided by any such agreement, any certificate issued by a party to such an agreement is to be deemed for the purposes of this Order to have been issued by the Agency, and any mark, number or other distinguishing sign displayed on a vessel in accordance with the requirements of a person who is a party to such an agreement is to be treated as complying with the requirements of this Order.
 
-### 27. Disapplication of requirements of 1907 Act[^key-0848df28f4492fe6fd6961341885eefb]
+### 27. Disapplication of requirements of 1907 Act[^c-0848df28f4492fe6fd6961341885eefb]
 
 A licence under section 94 of the Public Health Acts Amendment Act 1907[^f00017] is not required—
 
 - (a) in respect of a vessel on the waterways if the vessel is subject to requirements as to its construction and equipment which have been imposed under article 12; or
 - (b) in respect of any person in charge of or navigating that vessel if that person is subject to requirements imposed under article 15.
 
-### 28. Enlargement and re-definition of Anglian recreational waterways[^key-daa2c32802f1dfa4d2045f5cb40e7445]
+### 28. Enlargement and re-definition of Anglian recreational waterways[^c-daa2c32802f1dfa4d2045f5cb40e7445]
 
 (1) The Anglian Water Authority Act 1977[^f00018] is modified to extend the waterways for which the Agency is the navigation authority to include—
 
@@ -481,11 +481,11 @@ A licence under section 94 of the Public Health Acts Amendment Act 1907[^f00017]
 - (b) the Act of 1670[^f00019] intituled “An Act for making navigable the Rivers commonly called Brandon and Waveney” and the Act of 1810[^f00020] intituled “An Act for amending an Act of the twenty second year of His late Majesty King Charles the Second so far as the same relates to the River Brandon otherwise the Lesser Ouse from the White House near Brandon Ferry to Thetford in Norfolk in the Counties of Norfolk and Suffolk and for improving the navigation of the said River” cease to have effect in relation to that part of the River Little Ouse; and
 - (c) for Schedule 1 to the Anglian Water Authority Act 1977 there is substituted the replacement Schedule set out in Schedule 1 to this Order.
 
-### 29. Consequential amendments[^key-4a0bded92941cc796c22cc82d1443d20]
+### 29. Consequential amendments[^c-4a0bded92941cc796c22cc82d1443d20]
 
 Schedule 5 (which makes miscellaneous minor amendments consequential on the other provisions of this Order) has effect.
 
-### 30. Repeal and revocation of enactments[^key-9b4bf219a840acff6b571daeadc121e8]
+### 30. Repeal and revocation of enactments[^c-9b4bf219a840acff6b571daeadc121e8]
 
 (1) The enactments mentioned in the first and second columns of Part 1 of Schedule 6 are repealed to the extent specified in the third column.
 
@@ -501,7 +501,7 @@ Department for Environment, Food and Rural Affairs
 
 4th March 2010
 
-## SCHEDULE 1 — SCHEDULE 1 TO THE ANGLIAN WATER AUTHORITY ACT 1977[^key-05539041348d542078175ee8551204d1]
+## SCHEDULE 1 — SCHEDULE 1 TO THE ANGLIAN WATER AUTHORITY ACT 1977[^c-05539041348d542078175ee8551204d1]
 
 Articles 3 and 28(2)(c)
 
@@ -546,23 +546,23 @@ Articles 3 and 28(2)(c)
 
 Article 6
 
-**1.**[^key-45ae9bae9cd9b4258242d6fc0c603219] The name of the vessel.
+**1.**[^c-45ae9bae9cd9b4258242d6fc0c603219] The name of the vessel.
 
-**2.**[^key-b689992914b5146ad65df49591fafd43] The name and address of the owner of the vessel.
+**2.**[^c-b689992914b5146ad65df49591fafd43] The name and address of the owner of the vessel.
 
-**3.**[^key-9ff94012ea009d02325e015fe675e17a] The name and address of the applicant if not the owner.
+**3.**[^c-9ff94012ea009d02325e015fe675e17a] The name and address of the applicant if not the owner.
 
-**4.**[^key-5aec35a0739e719f309a3dc3a4b37651] The size and dimensions of the vessel.
+**4.**[^c-5aec35a0739e719f309a3dc3a4b37651] The size and dimensions of the vessel.
 
-**5.**[^key-95e69a2c5c9e715d8be83e2c4e4bf9bd] In which of the categories, designated for the time being by the Agency for the purposes of registration, the vessel falls.
+**5.**[^c-95e69a2c5c9e715d8be83e2c4e4bf9bd] In which of the categories, designated for the time being by the Agency for the purposes of registration, the vessel falls.
 
-**6.**[^key-f5d185532b6f4a4453594e92b481e4e4] Whether the application is for renewal of a registration or for a new registration.
+**6.**[^c-f5d185532b6f4a4453594e92b481e4e4] Whether the application is for renewal of a registration or for a new registration.
 
-**7.**[^key-314bc21c038486aa9f9c36f07faaec07] The period of registration applied for.
+**7.**[^c-314bc21c038486aa9f9c36f07faaec07] The period of registration applied for.
 
-**8.**[^key-c450c39e897d415cf1ae082d201c2dd7] In the case of a vessel which is subject to a requirement for insurance under article 11, a copy of a certificate of insurance for the vessel or other evidence that there is in force a policy of insurance in relation to it.
+**8.**[^c-c450c39e897d415cf1ae082d201c2dd7] In the case of a vessel which is subject to a requirement for insurance under article 11, a copy of a certificate of insurance for the vessel or other evidence that there is in force a policy of insurance in relation to it.
 
-**9.**[^key-627addd4c5d0f79a01a3cd6918e27b86] In the case of a vessel which is subject to any requirement under article 12—
+**9.**[^c-627addd4c5d0f79a01a3cd6918e27b86] In the case of a vessel which is subject to any requirement under article 12—
 
 - (a) a certificate that the applicant has read the current specification applicable to the vessel under that article and that the vessel complies in every respect with that specification; and
 - (b) such additional information as the Agency may require concerning compliance with that specification.
@@ -571,11 +571,11 @@ Article 6
 
 Article 11
 
-**1.**[^key-fbc5fadd16acdb5dc24887242264900e] An insurance policy must be issued by an insurer authorised under the Financial Services and Markets Act 2000[^f00021] to carry on in Great Britain or in Northern Ireland insurance business of a relevant class or who has corresponding permission under the law of another member State.
+**1.**[^c-fbc5fadd16acdb5dc24887242264900e] An insurance policy must be issued by an insurer authorised under the Financial Services and Markets Act 2000[^f00021] to carry on in Great Britain or in Northern Ireland insurance business of a relevant class or who has corresponding permission under the law of another member State.
 
-**2.**[^key-fae81016cc2a5ca2f926b6706e225fb1] Subject to paragraph 3, the policy must insure the owner of the vessel and such other person, persons or classes of persons (if any) as is or as are authorised by the owner to have control of the vessel, in respect of any liability which may be incurred by the owner or any such other person resulting from the presence of the vessel on the waterways in respect of the death of or bodily injury to any person or any damage to property.
+**2.**[^c-fae81016cc2a5ca2f926b6706e225fb1] Subject to paragraph 3, the policy must insure the owner of the vessel and such other person, persons or classes of persons (if any) as is or as are authorised by the owner to have control of the vessel, in respect of any liability which may be incurred by the owner or any such other person resulting from the presence of the vessel on the waterways in respect of the death of or bodily injury to any person or any damage to property.
 
-**3.**[^key-8fde4dac01e0efcca33355bbabebada9] The policy is not by virtue of this Order required—
+**3.**[^c-8fde4dac01e0efcca33355bbabebada9] The policy is not by virtue of this Order required—
 
 - (a) to cover liability in respect of the death, arising out of and in the course of employment, of a person in the employment of a person insured by the policy or of bodily injury sustained by such a person arising out of and in the course of that person’s employment;
 - (b) to cover liability in respect of damage to the vessel to which the policy relates;
@@ -588,21 +588,21 @@ Article 11
 
 Article 13
 
-**1.**[^key-0006010bcee79f7ae00f465a88b611bc] The standards appeals panel is to consist of not less than two persons appointed by the Agency and not less than three persons appointed by the Maritime and Coastguard Agency[^f00022], the appointments in each case to be made at the Agency’s expense and from amongst persons having knowledge or experience of relevant construction standards.
+**1.**[^c-0006010bcee79f7ae00f465a88b611bc] The standards appeals panel is to consist of not less than two persons appointed by the Agency and not less than three persons appointed by the Maritime and Coastguard Agency[^f00022], the appointments in each case to be made at the Agency’s expense and from amongst persons having knowledge or experience of relevant construction standards.
 
-**2.**[^key-e0b23728b1bb77cec3469776413f0a09] The Agency must refer any application duly made under article 13(3) to the standards appeals panel and provide the panel with reasonable facilities to determine the question which is the subject of the application.
+**2.**[^c-e0b23728b1bb77cec3469776413f0a09] The Agency must refer any application duly made under article 13(3) to the standards appeals panel and provide the panel with reasonable facilities to determine the question which is the subject of the application.
 
-**3.**[^key-410f8e71660564f74d7dbcf18ed39dfc] Subject to the other provisions of this Schedule, the standards appeals panel is to determine its own procedure (including the quorum for any meeting).
+**3.**[^c-410f8e71660564f74d7dbcf18ed39dfc] Subject to the other provisions of this Schedule, the standards appeals panel is to determine its own procedure (including the quorum for any meeting).
 
-**4.**[^key-ac69fadd0dc8537be25df021e6054049] A determination by the standards appeals panel of any question referred to it is final.
+**4.**[^c-ac69fadd0dc8537be25df021e6054049] A determination by the standards appeals panel of any question referred to it is final.
 
-**5.**[^key-89b83abe2cc3a517cb9bb450e7f07a7d] The costs incurred in convening the standards appeals panel in relation to any question referred to it, including the costs of the Agency in providing facilities for it, must be paid by such party as the panel may direct.
+**5.**[^c-89b83abe2cc3a517cb9bb450e7f07a7d] The costs incurred in convening the standards appeals panel in relation to any question referred to it, including the costs of the Agency in providing facilities for it, must be paid by such party as the panel may direct.
 
-**6.**[^key-f447bc82efde45d089b8fdaf2b3fa0ff] The standards appeals panel may cause the amount of the costs so incurred by it to be certified and any amount so certified and directed by it to be paid by a person may be recovered from that person by or on behalf of the standards appeals panel summarily as a civil debt.
+**6.**[^c-f447bc82efde45d089b8fdaf2b3fa0ff] The standards appeals panel may cause the amount of the costs so incurred by it to be certified and any amount so certified and directed by it to be paid by a person may be recovered from that person by or on behalf of the standards appeals panel summarily as a civil debt.
 
-**7.**[^key-bf1b34d1135d3d79daf792914539043b] The standards appeals panel may make orders as to the costs of the parties in relation to any question referred to it and as to the parties by whom the costs are to be paid.
+**7.**[^c-bf1b34d1135d3d79daf792914539043b] The standards appeals panel may make orders as to the costs of the parties in relation to any question referred to it and as to the parties by whom the costs are to be paid.
 
-**8.**[^key-f60a58d2e6af6c85494fe5f560b6ece5] Any order under paragraph 7 may be made a rule of the High Court on the application of any party named in the order.
+**8.**[^c-f60a58d2e6af6c85494fe5f560b6ece5] Any order under paragraph 7 may be made a rule of the High Court on the application of any party named in the order.
 
 ## SCHEDULE 5 — CONSEQUENTIAL AMENDMENTS
 
@@ -610,11 +610,11 @@ Article 29
 
 ### Anglian Water Authority Act 1977
 
-**1.**[^key-583c6b5b7cc8d10b0d62b660cf2f78aa] Section 17 (charges) of the Anglian Water Authority Act 1977[^f00023] is amended by the insertion in subsection (1) after “under this Part of this Act” of “and under the Environment Agency (Inland Waterways) Order 2010”.
+**1.**[^c-583c6b5b7cc8d10b0d62b660cf2f78aa] Section 17 (charges) of the Anglian Water Authority Act 1977[^f00023] is amended by the insertion in subsection (1) after “under this Part of this Act” of “and under the Environment Agency (Inland Waterways) Order 2010”.
 
 ### Southern Water Authority Act 1982
 
-**2.**[^key-57bc1574448680c1559b7c81c6804c60] The Southern Water Authority Act 1982[^f00024] is amended as follows—
+**2.**[^c-57bc1574448680c1559b7c81c6804c60] The Southern Water Authority Act 1982[^f00024] is amended as follows—
 
 - (a) in the definition of “registration certificate” in section 32 (Interpretation of Part IV), for “subsection (1)(c) of section 34 (Registration of vessels) or subsection (1)(c) of section 38 (Registration of houseboats) of this Act” there is substituted “the Environment Agency (Inland Waterways) Order 2010”; and
 - (b) in section 46 (application of charging provisions) after “under this Part of this Act” there is inserted “and under the Environment Agency (Inland Waterways) Order 2010”.
@@ -623,7 +623,7 @@ Article 29
 
 Article 30(2)
 
-### PART 1 — ENACTMENTS REPEALED[^key-9e2f448ac64612752f1a89ea75e06b82]
+### PART 1 — ENACTMENTS REPEALED[^c-9e2f448ac64612752f1a89ea75e06b82]
 
 | Chapter or Number | Short Title | Extent of repeal or revocation |
 | --- | --- | --- |
@@ -635,11 +635,11 @@ Article 30(2)
 
 ### PART 2 — BYELAWS REVOKED
 
-**1.**[^key-71b072828e0ff5f81dc69e78017c535f] Parts 1, 2 and 3 of the Thames Registration Byelaws 1953.
+**1.**[^c-71b072828e0ff5f81dc69e78017c535f] Parts 1, 2 and 3 of the Thames Registration Byelaws 1953.
 
-**2.**[^key-7dfbd7e3c0e067af37d9a71f33019dca] The whole of the Anglian Water Authority Recreational Waterways (Registration) Byelaws 1979.
+**2.**[^c-7dfbd7e3c0e067af37d9a71f33019dca] The whole of the Anglian Water Authority Recreational Waterways (Registration) Byelaws 1979.
 
-**3.**[^key-bf59ecb56b305e6fed1916d4ab6e2ff1] In the Thames Navigation Licensing and General Byelaws 1993—
+**3.**[^c-bf59ecb56b305e6fed1916d4ab6e2ff1] In the Thames Navigation Licensing and General Byelaws 1993—
 
 - Byelaw 77 Requirements as to construction and equipment;
 - Byelaw 78 Licences for vessels;
@@ -653,7 +653,7 @@ Article 30(2)
 
 Article 30(3)
 
-**1.**[^key-435d855b5d62fc85b9441d468e2cc110] Paragraphs 2 and 3 apply to any vessel which, immediately before this Order comes into force, was registered with the Agency under—
+**1.**[^c-435d855b5d62fc85b9441d468e2cc110] Paragraphs 2 and 3 apply to any vessel which, immediately before this Order comes into force, was registered with the Agency under—
 
 - (a) the Thames Conservancy Act 1966[^f00025];
 - (b) Part 4 of the Southern Water Authority Act 1982[^f00026];
@@ -661,11 +661,11 @@ Article 30(3)
 - (d) the Thames Registration Byelaws 1953; or
 - (e) the Thames Navigation Licensing and General Byelaws 1993.
 
-**2.**[^key-32d430211d945f9a8ab4e5e3415e41a8] Notwithstanding the repeal and revocation of enactments by article 28, the provisions of the Acts and Byelaws referred to in paragraph 1 continue to apply until the transition date.
+**2.**[^c-32d430211d945f9a8ab4e5e3415e41a8] Notwithstanding the repeal and revocation of enactments by article 28, the provisions of the Acts and Byelaws referred to in paragraph 1 continue to apply until the transition date.
 
-**3.**[^key-24a82f052bf6393b9ba60cdc1fc29e21] Article 28(1) has no effect until the transition date.
+**3.**[^c-24a82f052bf6393b9ba60cdc1fc29e21] Article 28(1) has no effect until the transition date.
 
-**4.**[^key-4af9370f3fec684a283368464c0adaf7] In this Schedule, “the transition date” in relation to any vessel means the earlier of—
+**4.**[^c-4af9370f3fec684a283368464c0adaf7] In this Schedule, “the transition date” in relation to any vessel means the earlier of—
 
 - (a) the date on which a vessel’s registration under an enactment referred to in paragraph 1 would have expired had this Order not come into force; or
 - (b) the date on which that registration is revoked or otherwise ceases by virtue of the Acts and Byelaws referred to in paragraph 1.
@@ -684,37 +684,37 @@ This Order makes provision for a new uniform registration system to govern use o
 
 [^f00003]: Footnote: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 
-[^key-956c6124363f717c512ead6f8ff9053e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/699/article/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-956c6124363f717c512ead6f8ff9053e]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/699/article/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-4d0907a627e86d7bf6f068b3523dd301]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/699/article/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-4d0907a627e86d7bf6f068b3523dd301]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/699/article/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-26d78c5e36f27eb853547a3c49266eb8]: Commencement: Art. 3 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-26d78c5e36f27eb853547a3c49266eb8]: Commencement: Art. 3 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00004]: Footnote: [1977 c. i](https://www.legislation.gov.uk/ukla/1977/1), as amended by this Order.
 
-[^key-a4c6ab31117b1f287e050b649972e0ad]: Textual amendment: Words in art. 3(2)(d) omitted (23.8.2013) by virtue of [The Environment Agency (Inland Waterways) (Amendment) Order 2013 (S.I. 2013/1888)](https://www.legislation.gov.uk/uksi/2013/1888), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1888/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1888/article/2/2)
+[^c-a4c6ab31117b1f287e050b649972e0ad]: Textual amendment: Words in art. 3(2)(d) omitted (23.8.2013) by virtue of [The Environment Agency (Inland Waterways) (Amendment) Order 2013 (S.I. 2013/1888)](https://www.legislation.gov.uk/uksi/2013/1888), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1888/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/1888/article/2/2)
 
 [^f00005]: Footnote: [1982 c. xxii](https://www.legislation.gov.uk/ukla/1982/22), as amended by this Order.
 
 [^f00006]: Footnote: [1932 c. xxxvii](https://www.legislation.gov.uk/ukla/1932/37), as amended by the [Thames Conservancy Act 1950 (c. i.)](https://www.legislation.gov.uk/ukla/1950/1) section 3.
 
-[^key-38f128256518cd6616e708cd7a298c02]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/699/article/4) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-38f128256518cd6616e708cd7a298c02]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2010/699/article/4) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-ca222e219aa1ef20b5505cbd8f4d11ee]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/699/article/5) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-ca222e219aa1ef20b5505cbd8f4d11ee]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2010/699/article/5) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00007]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-97d5f41ad725b5499c4bb95f119e0a8c]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/699/article/6) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-97d5f41ad725b5499c4bb95f119e0a8c]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2010/699/article/6) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-dd9d8c47c0c5403079830e3881a7ed7b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/699/article/7) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-dd9d8c47c0c5403079830e3881a7ed7b]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2010/699/article/7) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00008]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-d1a757b1f5df24ebbba2a088bb363492]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/699/article/8) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-d1a757b1f5df24ebbba2a088bb363492]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2010/699/article/8) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-feb46fd6508195ab97f1cab2f6fd69d8]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/699/article/9) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-feb46fd6508195ab97f1cab2f6fd69d8]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2010/699/article/9) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-4fe3d5f9035947bd52d53da186e3b590]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/699/article/10) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-4fe3d5f9035947bd52d53da186e3b590]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2010/699/article/10) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00009]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
@@ -722,53 +722,53 @@ This Order makes provision for a new uniform registration system to govern use o
 
 [^f00011]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-b58e0adb3220414c1e7589d5031ea427]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/699/article/11) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-b58e0adb3220414c1e7589d5031ea427]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2010/699/article/11) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-d9db07d2ffe39fc43c9deb207829471e]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/699/article/12) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-d9db07d2ffe39fc43c9deb207829471e]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2010/699/article/12) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-db38b84ba8bc1fac9e74799c9702bb28]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2010/699/article/13) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-db38b84ba8bc1fac9e74799c9702bb28]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2010/699/article/13) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-8f112c5e6473291e5c84f035fdddc90d]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/699/article/14) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-8f112c5e6473291e5c84f035fdddc90d]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2010/699/article/14) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00012]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-f442b3a220c37f76c4f73578bd2a336b]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/699/article/15) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-f442b3a220c37f76c4f73578bd2a336b]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2010/699/article/15) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-7371a6549d7004903f7f3754a85b85e3]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/699/article/16) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-7371a6549d7004903f7f3754a85b85e3]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2010/699/article/16) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00013]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-55b6d7600c0db5e9b18bbe7cdd7c89ae]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/699/article/17) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-55b6d7600c0db5e9b18bbe7cdd7c89ae]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/699/article/17) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-69801b04360b94f62e2a160c1bd5b47f]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/699/article/18) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-69801b04360b94f62e2a160c1bd5b47f]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2010/699/article/18) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-7876ef614b89705b41bca9d3c0ae832e]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2010/699/article/19) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-7876ef614b89705b41bca9d3c0ae832e]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2010/699/article/19) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-dcc28200b3be919620d0db9ce3e93c27]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2010/699/article/20) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-dcc28200b3be919620d0db9ce3e93c27]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2010/699/article/20) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-4c2fc1049d547ef53a1783c18389cd1a]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2010/699/article/21) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-4c2fc1049d547ef53a1783c18389cd1a]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2010/699/article/21) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00014]: Footnote: [2003 c. 17](https://www.legislation.gov.uk/ukpga/2003/17).
 
-[^key-8fd31691c85aecebb180a378a5ffe54d]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2010/699/article/22) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-8fd31691c85aecebb180a378a5ffe54d]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2010/699/article/22) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00015]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86).
 
 [^f00016]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-d46e220c8a4c055fad8327d3f9241508]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2010/699/article/23) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-d46e220c8a4c055fad8327d3f9241508]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2010/699/article/23) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-a5accb8387f41b1ad3a1ba9c6ac4321c]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2010/699/article/24) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-a5accb8387f41b1ad3a1ba9c6ac4321c]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2010/699/article/24) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-ce8295db4747c221a027ee211a8138dd]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2010/699/article/25) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-ce8295db4747c221a027ee211a8138dd]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2010/699/article/25) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-5733a38c8f1862e6554341fe3c9e17d2]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2010/699/article/26) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-5733a38c8f1862e6554341fe3c9e17d2]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2010/699/article/26) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-0848df28f4492fe6fd6961341885eefb]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2010/699/article/27) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-0848df28f4492fe6fd6961341885eefb]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2010/699/article/27) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00017]: Footnote: [1907 c. 53](https://www.legislation.gov.uk/ukpga/1907/53).
 
-[^key-daa2c32802f1dfa4d2045f5cb40e7445]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2010/699/article/28) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-daa2c32802f1dfa4d2045f5cb40e7445]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2010/699/article/28) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00018]: Footnote: [1977 c. i](https://www.legislation.gov.uk/ukla/1977/1).
 
@@ -776,80 +776,80 @@ This Order makes provision for a new uniform registration system to govern use o
 
 [^f00020]: Footnote: [1810 c. clxvi](https://www.legislation.gov.uk/ukla/1810/166).
 
-[^key-4a0bded92941cc796c22cc82d1443d20]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2010/699/article/29) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-4a0bded92941cc796c22cc82d1443d20]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2010/699/article/29) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-9b4bf219a840acff6b571daeadc121e8]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2010/699/article/30) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-9b4bf219a840acff6b571daeadc121e8]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2010/699/article/30) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-05539041348d542078175ee8551204d1]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-05539041348d542078175ee8551204d1]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-45ae9bae9cd9b4258242d6fc0c603219]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-45ae9bae9cd9b4258242d6fc0c603219]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-b689992914b5146ad65df49591fafd43]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-b689992914b5146ad65df49591fafd43]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-9ff94012ea009d02325e015fe675e17a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-9ff94012ea009d02325e015fe675e17a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-5aec35a0739e719f309a3dc3a4b37651]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/4) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-5aec35a0739e719f309a3dc3a4b37651]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/4) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-95e69a2c5c9e715d8be83e2c4e4bf9bd]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/5) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-95e69a2c5c9e715d8be83e2c4e4bf9bd]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/5) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-f5d185532b6f4a4453594e92b481e4e4]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/6) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-f5d185532b6f4a4453594e92b481e4e4]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/6) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-314bc21c038486aa9f9c36f07faaec07]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/7) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-314bc21c038486aa9f9c36f07faaec07]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/7) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-c450c39e897d415cf1ae082d201c2dd7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/8) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-c450c39e897d415cf1ae082d201c2dd7]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/8) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-627addd4c5d0f79a01a3cd6918e27b86]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/9) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-627addd4c5d0f79a01a3cd6918e27b86]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/699/schedule/2/paragraph/9) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-fbc5fadd16acdb5dc24887242264900e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/3/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-fbc5fadd16acdb5dc24887242264900e]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/3/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00021]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-fae81016cc2a5ca2f926b6706e225fb1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/3/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-fae81016cc2a5ca2f926b6706e225fb1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/3/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-8fde4dac01e0efcca33355bbabebada9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/3/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-8fde4dac01e0efcca33355bbabebada9]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/3/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-0006010bcee79f7ae00f465a88b611bc]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-0006010bcee79f7ae00f465a88b611bc]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00022]: Footnote: The Marine and Coastguard Agency is an executive agency of the Department for Transport.
 
-[^key-e0b23728b1bb77cec3469776413f0a09]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-e0b23728b1bb77cec3469776413f0a09]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-410f8e71660564f74d7dbcf18ed39dfc]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-410f8e71660564f74d7dbcf18ed39dfc]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-ac69fadd0dc8537be25df021e6054049]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/4) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-ac69fadd0dc8537be25df021e6054049]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/4) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-89b83abe2cc3a517cb9bb450e7f07a7d]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/5) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-89b83abe2cc3a517cb9bb450e7f07a7d]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/5) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-f447bc82efde45d089b8fdaf2b3fa0ff]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/6) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-f447bc82efde45d089b8fdaf2b3fa0ff]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/6) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-bf1b34d1135d3d79daf792914539043b]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/7) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-bf1b34d1135d3d79daf792914539043b]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/7) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-f60a58d2e6af6c85494fe5f560b6ece5]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/8) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-f60a58d2e6af6c85494fe5f560b6ece5]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/uksi/2010/699/schedule/4/paragraph/8) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-583c6b5b7cc8d10b0d62b660cf2f78aa]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/5/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-583c6b5b7cc8d10b0d62b660cf2f78aa]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/5/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00023]: Footnote: [1977 c. i](https://www.legislation.gov.uk/ukla/1977/1).
 
-[^key-57bc1574448680c1559b7c81c6804c60]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/5/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-57bc1574448680c1559b7c81c6804c60]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/5/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00024]: Footnote: [1982 c. xxii](https://www.legislation.gov.uk/ukla/1982/22).
 
-[^key-9e2f448ac64612752f1a89ea75e06b82]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/6/part/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-9e2f448ac64612752f1a89ea75e06b82]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/6/part/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-71b072828e0ff5f81dc69e78017c535f]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/6/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-71b072828e0ff5f81dc69e78017c535f]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/6/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-7dfbd7e3c0e067af37d9a71f33019dca]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/6/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-7dfbd7e3c0e067af37d9a71f33019dca]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/6/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-bf59ecb56b305e6fed1916d4ab6e2ff1]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/6/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-bf59ecb56b305e6fed1916d4ab6e2ff1]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/6/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-435d855b5d62fc85b9441d468e2cc110]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/7/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-435d855b5d62fc85b9441d468e2cc110]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2010/699/schedule/7/paragraph/1) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
 [^f00025]: Footnote: [1966 c. xxxii](https://www.legislation.gov.uk/ukla/1966/32).
 
 [^f00026]: Footnote: [1982 c. xxii](https://www.legislation.gov.uk/ukla/1982/22).
 
-[^key-32d430211d945f9a8ab4e5e3415e41a8]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/7/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-32d430211d945f9a8ab4e5e3415e41a8]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2010/699/schedule/7/paragraph/2) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-24a82f052bf6393b9ba60cdc1fc29e21]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/7/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-24a82f052bf6393b9ba60cdc1fc29e21]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2010/699/schedule/7/paragraph/3) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
 
-[^key-4af9370f3fec684a283368464c0adaf7]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/699/schedule/7/paragraph/4) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)
+[^c-4af9370f3fec684a283368464c0adaf7]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2010/699/schedule/7/paragraph/4) in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/699/article/1/2)

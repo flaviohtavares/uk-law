@@ -37,7 +37,7 @@ summary: ''
 
 (5) A person guilty of an offence under this section shall be liable—
 
-- (a) on conviction on indictment, to imprisonment for a term not exceeding 10 years[^key-dc41cf45718a2b15699b0924e9194f8d] , or to a fine or to both, or
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 10 years[^c-dc41cf45718a2b15699b0924e9194f8d] , or to a fine or to both, or
 - (b) on summary conviction, to imprisonment for a term not exceeding six months, or to a fine not exceeding the statutory maximum or to both.
 
 (6) Proceedings for an offence under this section may be taken, and the offence may for the purposes of those proceedings be treated as having been committed, in any place where the person to be charged is or has at any time been since he first knew or believed that the information might be of material assistance as mentioned in subsection (1).
@@ -46,4 +46,4 @@ summary: ''
 
 [^c11205081]: Textual amendment: S. 38B inserted (14.12.2001) by [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24), [s. 117(2)](https://www.legislation.gov.uk/ukpga/2001/24/section/117/2)
 
-[^key-dc41cf45718a2b15699b0924e9194f8d]: Textual amendment: Words in s. 38B(5)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/2), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))
+[^c-dc41cf45718a2b15699b0924e9194f8d]: Textual amendment: Words in s. 38B(5)(a) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/7/2), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3) (with [s. 25(2)](https://www.legislation.gov.uk/ukpga/2019/3/section/25/2))

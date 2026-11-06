@@ -34,7 +34,7 @@ summary: ''
 
 UNITED NATIONS
 
-The Iraq (United Nations Sanctions) Order 2000 (Amendment No.2) Regulations 2004 (revoked)[^key-5a34f192405c52d3949cdbb9f40b3471]
+The Iraq (United Nations Sanctions) Order 2000 (Amendment No.2) Regulations 2004 (revoked)[^c-5a34f192405c52d3949cdbb9f40b3471]
 
 Made
 
@@ -46,32 +46,32 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 2
 
-[^key-5a34f192405c52d3949cdbb9f40b3471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a34f192405c52d3949cdbb9f40b3471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-5a34f192405c52d3949cdbb9f40b3471]
+## 1. Citation[^c-5a34f192405c52d3949cdbb9f40b3471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement[^key-5a34f192405c52d3949cdbb9f40b3471]
+## 2. Commencement[^c-5a34f192405c52d3949cdbb9f40b3471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-5a34f192405c52d3949cdbb9f40b3471]
+## 3. Revocation[^c-5a34f192405c52d3949cdbb9f40b3471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Iraq (United Nations Sanctions) Order 2000[^key-5a34f192405c52d3949cdbb9f40b3471]
+## 4. Amendment of the Iraq (United Nations Sanctions) Order 2000[^c-5a34f192405c52d3949cdbb9f40b3471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a34f192405c52d3949cdbb9f40b3471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a34f192405c52d3949cdbb9f40b3471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5a34f192405c52d3949cdbb9f40b3471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a34f192405c52d3949cdbb9f40b3471]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a34f192405c52d3949cdbb9f40b3471]: Textual amendment: Regulations revoked (2.7.2012) by [The Iraq (Asset-Freezing) Regulations 2012 (S.I. 2012/1489)](https://www.legislation.gov.uk/uksi/2012/1489), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1489/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1489/schedule/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2012/1489/regulation/17))
+[^c-5a34f192405c52d3949cdbb9f40b3471]: Textual amendment: Regulations revoked (2.7.2012) by [The Iraq (Asset-Freezing) Regulations 2012 (S.I. 2012/1489)](https://www.legislation.gov.uk/uksi/2012/1489), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/1489/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1489/schedule/2) (with [reg. 17](https://www.legislation.gov.uk/uksi/2012/1489/regulation/17))

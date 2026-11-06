@@ -34,7 +34,7 @@ Road Traffic
 
 Environmental Protection
 
-The Road Vehicle Carbon Dioxide[^key-d3e2d0e2fe14a797713dfac7dd024dd5] Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019
+The Road Vehicle Carbon Dioxide[^c-d3e2d0e2fe14a797713dfac7dd024dd5] Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019
 
 Made
 
@@ -48,9 +48,9 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-5b24595148c12bc0912dc4609cb68add]
+### 1. Citation and commencement[^c-5b24595148c12bc0912dc4609cb68add]
 
-These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb12e80a29654c8f120fd263ad] Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
+These Regulations may be cited as the Road Vehicle Carbon Dioxide[^c-3ce633bb12e80a29654c8f120fd263ad] Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — Amendment of retained direct EU legislation: cars
 
@@ -58,13 +58,13 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 **Not yet in force.**
 
-#### 2. Amendment of Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443)[^key-494b4d13d60026235a2f167db93a6f0e]
+#### 2. Amendment of Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443)[^c-494b4d13d60026235a2f167db93a6f0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 2 — Amendment of tertiary legislation made pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443)
 
-#### 3. Amendment of Commission Regulation (EU) No 1014/2010[^key-5da480ae9147286676277072b4cb48d5]
+#### 3. Amendment of Commission Regulation (EU) No 1014/2010[^c-5da480ae9147286676277072b4cb48d5]
 
 (1) Commission Regulation (EU) No 1014/2010 of 10 November 2010 on monitoring and reporting of data on the registration of new passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
@@ -158,7 +158,7 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (12) After Article 10, omit the sentence beginning “This Regulation shall be binding”.
 
-#### 4. Amendment of Commission Regulation (EU) No 63/2011[^key-2433fcb25397837cc3bc2e4ec86b3350]
+#### 4. Amendment of Commission Regulation (EU) No 63/2011[^c-2433fcb25397837cc3bc2e4ec86b3350]
 
 (1) Commission Regulation (EU) 63/2011 of 26 January 2011 laying down detailed provisions for the application for a derogation from the specific CO<sub>2</sub> emission targets pursuant to Article 11 of Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
@@ -211,7 +211,7 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (11) Omit Annex 4.
 
-#### 5. Amendment of Commission Implementing Regulation (EU) No 725/2011[^key-2a303dc3dffef0cca72804d856f54e5c]
+#### 5. Amendment of Commission Implementing Regulation (EU) No 725/2011[^c-2a303dc3dffef0cca72804d856f54e5c]
 
 (1) Commission Implementing Regulation (EU) No 725/2011 of 25 July 2011 establishing a procedure for the approval and certification of innovative technologies for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
@@ -247,10 +247,10 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 (8) In Article 11—
 
 - (a) in paragraph 1—
-  - (i) for “an approval authority within the meaning of Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46) [^key-3dc1e99a48010a9d9ac3d6ff54b1d997]...” substitute “ the Secretary of State [^key-10115e688ff5336cfd196216cec80034]...”,
-  - (ii) for “Article 6 of Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” substitute “Article 25 of Regulation (EU) 2018/858[^key-ff857920a1b05ade2750727035b17329]”,
+  - (i) for “an approval authority within the meaning of Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46) [^c-3dc1e99a48010a9d9ac3d6ff54b1d997]...” substitute “ the Secretary of State [^c-10115e688ff5336cfd196216cec80034]...”,
+  - (ii) for “Article 6 of Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” substitute “Article 25 of Regulation (EU) 2018/858[^c-ff857920a1b05ade2750727035b17329]”,
   - (iii) for “Commission” substitute “ Secretary of State ”,
-- (b)[^key-0f2c3f1d6237fea4dd7837ec89c85cf2] in paragraph 2, in the first subparagraph—
+- (b)[^c-0f2c3f1d6237fea4dd7837ec89c85cf2] in paragraph 2, in the first subparagraph—
   - (i) for “[Directive 2007/46/EC](https://www.legislation.gov.uk/eudr/2007/0046)”, substitute “Regulation (EU) 2018/858”;
   - (ii) for “Article 11 of that Directive”, substitute “Article 30 of that Regulation”.
 
@@ -267,13 +267,13 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (13) After Article 15, omit the sentence beginning “This Regulation shall be binding”.
 
-#### 6. Amendment of Commission Implementing Decision 2013/128/EU[^key-f55ea107e65ff0d15f05ce6974abce93]
+#### 6. Amendment of Commission Implementing Decision 2013/128/EU[^c-f55ea107e65ff0d15f05ce6974abce93]
 
 (1) Commission Implementing Decision 2013/128/EU of 13 March 2013 on the approval of the use of light emitting diodes in certain lighting functions of an M1 vehicle as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 7. Amendment of Commission Implementing Decision 2013/341/EU[^key-5875ce9de071b6743d30114ebe7989c2]
+#### 7. Amendment of Commission Implementing Decision 2013/341/EU[^c-5875ce9de071b6743d30114ebe7989c2]
 
 (1) Commission Implementing Decision 2013/341/EU of 27 June 2013 on the approval of the Valeo Efficient Generation Alternator as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
@@ -281,7 +281,7 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (3) In the Annex, in paragraph 11 omit the second subparagraph.
 
-#### 8. Amendment of Commission Implementing Decision 2013/451/EU[^key-08e513e371f1e8393882dc308de96b4f]
+#### 8. Amendment of Commission Implementing Decision 2013/451/EU[^c-08e513e371f1e8393882dc308de96b4f]
 
 (1) Commission Implementing Decision 2013/451/EU of 10 September 2013 on the approval of the Daimler engine compartment encapsulation system as an innovative technology for reducing CO<sub>2</sub> emissions from new passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
@@ -289,7 +289,7 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (3) In the Annex, in paragraph 6 omit the second subparagraph.
 
-#### 9. Amendment of Commission Implementing Decision 2013/529/EU[^key-01a4c150629bf20be8c8ef877108267a]
+#### 9. Amendment of Commission Implementing Decision 2013/529/EU[^c-01a4c150629bf20be8c8ef877108267a]
 
 (1) Commission Implementing Decision 2013/529/EU of 25 October 2013 on the approval of the Bosch system for navigation-based preconditioning of the battery state of charge for hybrid vehicles as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
@@ -297,7 +297,7 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (3) In the Annex, in paragraph 5 omit the second subparagraph.
 
-#### 10. Amendment of Commission Implementing Decision 2014/128/EU[^key-5990390946a0f1c339f19130369c1084]
+#### 10. Amendment of Commission Implementing Decision 2014/128/EU[^c-5990390946a0f1c339f19130369c1084]
 
 (1) Commission Implementing Decision 2014/128/EU of 10 March 2014 on the approval of the light emitting diodes low beam module ‘E-Light’ as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
@@ -305,77 +305,77 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (3) In the Annex, in paragraph 5 omit the second subparagraph.
 
-#### 11. Amendment of Commission Implementing Decision 2014/465/EU[^key-d5b818cbc18a7552f11743f098d4b91c]
+#### 11. Amendment of Commission Implementing Decision 2014/465/EU[^c-d5b818cbc18a7552f11743f098d4b91c]
 
 (1) Commission Implementing Decision 2014/465/EU of 16 July 2014 on the approval of the DENSO efficient alternator as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council and amending Commission Implementing Decision 2013/341/EU is amended as follows.
 
 (2) Omit Article 3.
 
-#### 12. Amendment of Commission Implementing Decision 2014/806/EU[^key-2b668b16ddffb26352322e2ddf2021e7]
+#### 12. Amendment of Commission Implementing Decision 2014/806/EU[^c-2b668b16ddffb26352322e2ddf2021e7]
 
 (1) Commission Implementing Decision 2014/806/EU of 18 November 2014 on the approval of the battery charging Webasto solar roof as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 13. Amendment of Commission Implementing Decision (EU) 2015/158[^key-2572b9ea199fb1f965d08bd5b623a9d1]
+#### 13. Amendment of Commission Implementing Decision (EU) 2015/158[^c-2572b9ea199fb1f965d08bd5b623a9d1]
 
 (1) Commission Implementing Decision (EU) 2015/158 of 30 January 2015 on the approval of two Robert Bosch GmbH high efficient alternators as the innovative technologies for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 14. Amendment of Commission Implementing Decision (EU) 2015/206[^key-72da547c526cf8c700cefc4759525e07][^key-bcecc68ea1ffcf065f4fd1c3fb13fb2f]
+#### 14. Amendment of Commission Implementing Decision (EU) 2015/206[^c-72da547c526cf8c700cefc4759525e07][^c-bcecc68ea1ffcf065f4fd1c3fb13fb2f]
 
 (1) Commission Implementing Decision (EU) 2015/206 of 9 February 2015 on the approval of the Daimler AG efficient exterior lighting using light emitting diodes as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 15. Amendment of Commission Implementing Decision (EU) 2015/279[^key-05cf4bc1eee6751278a2a8f3e771ab3e]
+#### 15. Amendment of Commission Implementing Decision (EU) 2015/279[^c-05cf4bc1eee6751278a2a8f3e771ab3e]
 
 (1) Commission Implementing Decision (EU) 2015/279 of 19 February 2015 on the approval of the battery charging Asola solar roof as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 16. Amendment of Commission Implementing Decision (EU) 2015/295[^key-eb49aeb080fb89775363643616b8aa9c]
+#### 16. Amendment of Commission Implementing Decision (EU) 2015/295[^c-eb49aeb080fb89775363643616b8aa9c]
 
 (1) Commission Implementing Decision (EU) 2015/295 of 24 February 2015 on the approval of the MELCO GXi efficient alternator as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 17. Amendment of Commission Implementing Decision (EU) 2015/1132[^key-d49b4ec1d14d51406dfb501aa15775f5]
+#### 17. Amendment of Commission Implementing Decision (EU) 2015/1132[^c-d49b4ec1d14d51406dfb501aa15775f5]
 
 (1) Commission Implementing Decision (EU) 2015/1132 of 10 July 2015 on the approval of the Porsche AG coasting function as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended a follows.
 
 (2) Omit Article 2.
 
-#### 18. Amendment of Commission Implementing Decision (EU) 2015/2280[^key-6555e62eaa207ba48242fadbe14ba1f7]
+#### 18. Amendment of Commission Implementing Decision (EU) 2015/2280[^c-6555e62eaa207ba48242fadbe14ba1f7]
 
 (1) Commission Implementing Decision (EU) 2015/2280 of 7 December 2015 on the approval of the DENSO efficient alternator as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 19. Amendment of Commission Implementing Decision (EU) 2016/160[^key-674cd70d07eb84cce185a42f4f0d61ee][^key-674cd70d07eb84cce185a42f4f0d61ee]
+#### 19. Amendment of Commission Implementing Decision (EU) 2016/160[^c-674cd70d07eb84cce185a42f4f0d61ee][^c-674cd70d07eb84cce185a42f4f0d61ee]
 
 (1) Commission Implementing Decision (EU) 2016/160 of 5 February 2016 on the approval of the Toyota Motor Europe efficient exterior lighting using light emitting diodes as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 20. Amendment of Commission Implementing Decision (EU) 2016/265[^key-bd423ce74d6196d3239d9ba3dcc2afd7]
+#### 20. Amendment of Commission Implementing Decision (EU) 2016/265[^c-bd423ce74d6196d3239d9ba3dcc2afd7]
 
 (1) Commission Implementing Decision (EU) 2016/265 of 25 February 2016 on the approval of the MELCO Motor Generator as an innovative technology for reducing CO<sub>2 </sub>emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 21. Amendment of Commission Implementing Decision (EU) 2016/362[^key-0de881639fd913901e06bb23989034ef]
+#### 21. Amendment of Commission Implementing Decision (EU) 2016/362[^c-0de881639fd913901e06bb23989034ef]
 
 (1) Commission Implementing Decision (EU) 2016/362 of 11 March 2016 on the approval of the MAHLE Behr GmbH & Co. KG enthalpy storage tank as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 22. Amendment of Commission Implementing Decision (EU) 2016/587[^key-39423a7397eef1bd28b122fc910c2761]
+#### 22. Amendment of Commission Implementing Decision (EU) 2016/587[^c-39423a7397eef1bd28b122fc910c2761]
 
 (1) Commission Implementing Decision (EU) 2016/587 of 14 April 2016 on the approval of the technology used in efficient vehicle exterior lighting using light emitting diodes as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
-(1A)[^key-6526f2c56d5007889669ec6e26b4f1da] In Article 2(3)—
+(1A)[^c-6526f2c56d5007889669ec6e26b4f1da] In Article 2(3)—
 
 - (a) for “type approval authority” substitute “Secretary of State”,
 - (b) for “it” substitute “the Secretary of State”.
@@ -384,13 +384,13 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (2) Omit Article 5.
 
-(3)[^key-3ebcb4dea5de69aaeb772d8698433114] In the Annex, in point 5 in the second unnumbered paragraph, for “type-approval authority” substitute “Secretary of State”.
+(3)[^c-3ebcb4dea5de69aaeb772d8698433114] In the Annex, in point 5 in the second unnumbered paragraph, for “type-approval authority” substitute “Secretary of State”.
 
-#### 23. Amendment of Commission Implementing Decision (EU) 2016/588[^key-e83181e0f97eecbd09acfb0f2e7b7496]
+#### 23. Amendment of Commission Implementing Decision (EU) 2016/588[^c-e83181e0f97eecbd09acfb0f2e7b7496]
 
 (1) Commission Implementing Decision (EU) 2016/588 of 14 April 2016 on the approval of the technology used in 12 Volt efficient alternators as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
-(1A)[^key-d88c08e2d37eb175da815f133d634d11] In Article 2(3)—
+(1A)[^c-d88c08e2d37eb175da815f133d634d11] In Article 2(3)—
 
 - (a) for “type approval authority” substitute “Secretary of State”,
 - (b) for “it” substitute “the Secretary of State”.
@@ -399,15 +399,15 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (2) Omit Article 5.
 
-(3)[^key-1241ac46afab66138caaa8a0469247d4] In the Annex, in the final paragraph, for “type approval authority” substitute “Secretary of State”.
+(3)[^c-1241ac46afab66138caaa8a0469247d4] In the Annex, in the final paragraph, for “type approval authority” substitute “Secretary of State”.
 
-#### 24. Amendment of Commission Implementing Decision (EU) 2016/1721[^key-41c9aade6545719ba6015f930a48d4ad]
+#### 24. Amendment of Commission Implementing Decision (EU) 2016/1721[^c-41c9aade6545719ba6015f930a48d4ad]
 
 (1) Commission Implementing Decision (EU) 2016/1721 of 26 September 2016 on the approval of the Toyota efficient exterior lighting using light emitting diodes for the use in non-externally chargeable hybrid electrified vehicles as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 2.
 
-#### 25. Amendment of Commission Implementing Decision (EU) 2016/1926[^key-3c1ebfe3750fe43d7cf6abcb0e0378dc]
+#### 25. Amendment of Commission Implementing Decision (EU) 2016/1926[^c-3c1ebfe3750fe43d7cf6abcb0e0378dc]
 
 (1) Commission Implementing Decision (EU) 2016/1926 of 3 November 2016 on the approval of the battery-charging photovoltaic roof as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
@@ -415,13 +415,13 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 (3) In the Annex, in paragraph 4 omit footnote (3).
 
-#### 26. Amendment of Commission Implementing Decision (EU) 2017/785[^key-b504ae25b93d90b050b3d0bf2ae4ac53]
+#### 26. Amendment of Commission Implementing Decision (EU) 2017/785[^c-b504ae25b93d90b050b3d0bf2ae4ac53]
 
 (1) Commission Implementing Decision (EU) 2017/785 of 5 May 2017 on the approval of efficient 12 V motor-generators for use in conventional combustion engine powered passenger cars as an innovative technology for reducing CO<sub>2</sub> emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
 (2) Omit Article 6.
 
-#### 27. Amendment of Commission Implementing Decision (EU) 2017/1402[^key-7115302330eb159ce9b9add0bc3fd1f2]
+#### 27. Amendment of Commission Implementing Decision (EU) 2017/1402[^c-7115302330eb159ce9b9add0bc3fd1f2]
 
 (1) Commission Implementing Decision (EU) 2017/1402 of 28 July 2017 on the approval of the BMW AG engine idle coasting function as an innovative technology for reducing CO<sub>2 </sub>emissions from passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is amended as follows.
 
@@ -429,23 +429,23 @@ These Regulations may be cited as the Road Vehicle Carbon Dioxide[^key-3ce633bb1
 
 ### CHAPTER 3 — Revocation of tertiary legislation made pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443)
 
-#### 28. Revocation of Commission Decision 2012/100/EU of 17 February 2012[^key-0fcb712b871f0c384b068a67774bc378]
+#### 28. Revocation of Commission Decision 2012/100/EU of 17 February 2012[^c-0fcb712b871f0c384b068a67774bc378]
 
 Commission Decision 2012/100/EU of 17 February 2012 on a method for the collection of premiums for excess CO<sub>2</sub> emissions from new passenger cars pursuant to Regulation [(EC) No 443/2009](https://www.legislation.gov.uk/eur/2009/443) of the European Parliament and of the Council is revoked.
 
 ## PART 3 — Amendment of retained direct EU legislation: vans
 
-### CHAPTER 1 — Amendment of Regulation (EU) No 510/2011[^key-f29b86db6d4fb956696beb6560a47c69]
+### CHAPTER 1 — Amendment of Regulation (EU) No 510/2011[^c-f29b86db6d4fb956696beb6560a47c69]
 
 **Not yet in force.**
 
-#### 29. Amendment of Regulation (EU) No 510/2011[^key-f29b86db6d4fb956696beb6560a47c69]
+#### 29. Amendment of Regulation (EU) No 510/2011[^c-f29b86db6d4fb956696beb6560a47c69]
 
 . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 2 — Amendment of tertiary legislation made pursuant to Regulation (EU) No 510/2011
 
-#### 30. Amendment of Commission Implementing Regulation (EU) No 293/2012[^key-8582919025c1aeed19d296216bcdd296]
+#### 30. Amendment of Commission Implementing Regulation (EU) No 293/2012[^c-8582919025c1aeed19d296216bcdd296]
 
 (1) Commission Implementing Regulation (EU) No 293/2012 of 3 April 2012 on monitoring and reporting of data on the registration of new light commercial vehicles pursuant to Regulation (EU) No 510/2011 of the European Parliament and of the Council is amended as follows.
 
@@ -509,7 +509,7 @@ Commission Decision 2012/100/EU of 17 February 2012 on a method for the collecti
   - (iv) for “1 September 2010” substitute “ 31 December 2019 ”,
 - (c) in paragraph 3, for “competent authority” substitute “ Secretary of State ”.
 
-(10)[^key-2ca4a82b10b0b9684f4fd3f6e05e176b] In Article 10—
+(10)[^c-2ca4a82b10b0b9684f4fd3f6e05e176b] In Article 10—
 
 - (a) in paragraph 1—
   - (i) for “1 June 2012” substitute “31 May each year”,
@@ -525,7 +525,7 @@ Commission Decision 2012/100/EU of 17 February 2012 on a method for the collecti
 
 - (a) in paragraph 1—
   - (i) in the first subparagraph, for “Commission” substitute “ Secretary of State ”,
-  - (ii)[^key-f3931b371a33c1135e0928bb16b4d0f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-f3931b371a33c1135e0928bb16b4d0f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) in the fourth subparagraph, for “Member State” substitute “ Secretary of State ”,
 - (b) in paragraph 2, for “Commission” substitute “ Secretary of State ”,
 - (c) in paragraph 3—
@@ -552,7 +552,7 @@ Commission Decision 2012/100/EU of 17 February 2012 on a method for the collecti
 
 (13) After Article 11, omit the sentence beginning “This Regulation shall be binding”.
 
-#### 31. Amendment of Commission Delegated Regulation (EU) No 114/2013[^key-6b756e6c896093aefe0eef9309133921]
+#### 31. Amendment of Commission Delegated Regulation (EU) No 114/2013[^c-6b756e6c896093aefe0eef9309133921]
 
 (1) Commission Delegated Regulation (EU) No 114/2013 of 6 November 2012 supplementing Regulation (EU) No 510/2011 of the European Parliament and of the Council with regard to rules for the application for a derogation from the specific CO<sub>2</sub> emissions targets for new light commercial vehicles is amended as follows.
 
@@ -578,7 +578,7 @@ Commission Decision 2012/100/EU of 17 February 2012 on a method for the collecti
 (8) In Annex 1—
 
 - (a) in the text preceding point 1, for “EC-CO2-LDV-IMPLEMENTATION@ec.europa.eu” substitute “ Environmental.Strategy@dft.gov.uk ”,
-- (b) in point 2, for “EU” each place where it appears substitute “Great Britain”[^key-019840c23734ab84ac072844cb7cc59d] ,
+- (b) in point 2, for “EU” each place where it appears substitute “Great Britain”[^c-019840c23734ab84ac072844cb7cc59d] ,
 - (c) in point 3.3, for “Union” substitute “ United Kingdom ”,
 - (d) in points 3.3.1, 3.3.2 and 3.3.3, for “EU” in each place where it appears substitute “ United Kingdom ”,
 - (e) in point 3.5, for “Union” substitute “ United Kingdom ”,
@@ -590,14 +590,14 @@ Commission Decision 2012/100/EU of 17 February 2012 on a method for the collecti
 
 (9) Omit Annex 3.
 
-#### 32. Amendment of Commission Implementing Regulation (EU) No 427/2014[^key-c1260d466382b4a0204dd166617e2ff3]
+#### 32. Amendment of Commission Implementing Regulation (EU) No 427/2014[^c-c1260d466382b4a0204dd166617e2ff3]
 
 (1) Commission Implementing Regulation (EU) No 427/2014 of 25 April 2014 establishing a procedure for the approval and certification of innovative technologies for reducing CO<sub>2</sub> emissions from light commercial vehicles pursuant to Regulation (EU) No 510/2011 of the European Parliament and of the Council is amended as follows.
 
 (2) In Article 2—
 
-- (a) in paragraph 2, in point (b) for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” substitute “Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^key-11cf2a3debeebfde1dc483c04f89cd81]”,
-- (b)[^key-e27f0a9e50d95976a6d639e26f32b5f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in paragraph 2, in point (b) for “Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” substitute “Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles[^c-11cf2a3debeebfde1dc483c04f89cd81]”,
+- (b)[^c-e27f0a9e50d95976a6d639e26f32b5f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Article 3—
 
@@ -629,10 +629,10 @@ Commission Decision 2012/100/EU of 17 February 2012 on a method for the collecti
 (8) In Article 11—
 
 - (a) in paragraph 1—
-  - (i) for “an approval authority within the meaning of Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46) [^key-b48387d0e1ca1a4763f36ea46b2f0841]...” substitute “ the Secretary of State [^key-2eb94987100fc7fb64848953727da59c]...”,
-  - (ii) for “Article 6 of Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” substitute “Article 25 of Regulation (EU) 2018/858[^key-c804cbe624921919ee43189721e7d3e3]”,
+  - (i) for “an approval authority within the meaning of Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46) [^c-b48387d0e1ca1a4763f36ea46b2f0841]...” substitute “ the Secretary of State [^c-2eb94987100fc7fb64848953727da59c]...”,
+  - (ii) for “Article 6 of Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46)” substitute “Article 25 of Regulation (EU) 2018/858[^c-c804cbe624921919ee43189721e7d3e3]”,
   - (iii) for “Commission” substitute “ Secretary of State ”,
-- (b)[^key-478c92a6617906ceaa1c143cd8d9adfc] in paragraph 2, in the first subparagraph—
+- (b)[^c-478c92a6617906ceaa1c143cd8d9adfc] in paragraph 2, in the first subparagraph—
   - (i) for “[Directive 2007/46/EC](https://www.legislation.gov.uk/eudr/2007/0046)”, substitute “Regulation (EU) 2018/858”;
   - (ii) for “Article 11 of that Directive”, substitute “Article 30 of that Regulation”.
 
@@ -649,7 +649,7 @@ Commission Decision 2012/100/EU of 17 February 2012 on a method for the collecti
 
 (13) After Article 14, omit the sentence beginning “This Regulation shall be binding”.
 
-#### 33. Amendment of Commission Implementing Decision (EU) 2018/1876[^key-ca637ed1867794f872bde5e403c22527]
+#### 33. Amendment of Commission Implementing Decision (EU) 2018/1876[^c-ca637ed1867794f872bde5e403c22527]
 
 (1) Commission Implementing Decision (EU) 2018/1876 of 29 November 2018 on the approval of the technology used in 12 Volt efficient alternators for use in conventional combustion engine powered light commercial vehicles as an innovative technology for reducing CO<sub>2</sub> emissions from light commercial vehicles pursuant to Regulation (EU) No 510/2011 of the European Parliament and of the Council is amended a follows.
 
@@ -657,7 +657,7 @@ Commission Decision 2012/100/EU of 17 February 2012 on a method for the collecti
 
 ### CHAPTER 3 — Revocation of tertiary legislation made pursuant to Regulation (EU) No 510/2011
 
-#### 34. Revocation of Commission Implementing Decision 2012/99/EU[^key-1ebeed2bc8f3f8d0ad36f6ecf32ffec1]
+#### 34. Revocation of Commission Implementing Decision 2012/99/EU[^c-1ebeed2bc8f3f8d0ad36f6ecf32ffec1]
 
 Commission Implementing Decision 2012/99/EU of 17 February 2012 on the detailed arrangements for the collection of premiums for excess CO<sub>2</sub> emissions from new light commercial vehicles pursuant to Regulation (EU) No 510/2011 of the European Parliament and of the Council is revoked.
 
@@ -691,112 +691,112 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 ## Annotations
 
-[^key-d3e2d0e2fe14a797713dfac7dd024dd5]: Textual amendment: Words in title inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/2)
+[^c-d3e2d0e2fe14a797713dfac7dd024dd5]: Textual amendment: Words in title inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/2)
 
 [^c23637181]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-5b24595148c12bc0912dc4609cb68add]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-5b24595148c12bc0912dc4609cb68add]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-3ce633bb12e80a29654c8f120fd263ad]: Textual amendment: Words in reg. 1 inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/3)
+[^c-3ce633bb12e80a29654c8f120fd263ad]: Textual amendment: Words in reg. 1 inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/3)
 
-[^key-494b4d13d60026235a2f167db93a6f0e]: Textual amendment: Reg. 2 omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/4)
+[^c-494b4d13d60026235a2f167db93a6f0e]: Textual amendment: Reg. 2 omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/4)
 
-[^key-5da480ae9147286676277072b4cb48d5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5da480ae9147286676277072b4cb48d5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2433fcb25397837cc3bc2e4ec86b3350]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2433fcb25397837cc3bc2e4ec86b3350]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2a303dc3dffef0cca72804d856f54e5c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2a303dc3dffef0cca72804d856f54e5c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3dc1e99a48010a9d9ac3d6ff54b1d997]: Textual amendment: Words in reg. 5(8)(a)(i) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/5/a)
+[^c-3dc1e99a48010a9d9ac3d6ff54b1d997]: Textual amendment: Words in reg. 5(8)(a)(i) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/5/a)
 
-[^key-10115e688ff5336cfd196216cec80034]: Textual amendment: Words in reg. 5(8)(a)(i) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/5/b)
+[^c-10115e688ff5336cfd196216cec80034]: Textual amendment: Words in reg. 5(8)(a)(i) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/5/b)
 
-[^key-ff857920a1b05ade2750727035b17329]: Textual amendment: Words in reg. 5(8)(a)(ii) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(2)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/2/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-ff857920a1b05ade2750727035b17329]: Textual amendment: Words in reg. 5(8)(a)(ii) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(2)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/2/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-0f2c3f1d6237fea4dd7837ec89c85cf2]: Textual amendment: Reg. 5(8)(b) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(2)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/2/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-0f2c3f1d6237fea4dd7837ec89c85cf2]: Textual amendment: Reg. 5(8)(b) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(2)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/2/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-f55ea107e65ff0d15f05ce6974abce93]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f55ea107e65ff0d15f05ce6974abce93]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5875ce9de071b6743d30114ebe7989c2]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5875ce9de071b6743d30114ebe7989c2]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-08e513e371f1e8393882dc308de96b4f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-08e513e371f1e8393882dc308de96b4f]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-01a4c150629bf20be8c8ef877108267a]: Commencement: Reg. 9 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-01a4c150629bf20be8c8ef877108267a]: Commencement: Reg. 9 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5990390946a0f1c339f19130369c1084]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5990390946a0f1c339f19130369c1084]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d5b818cbc18a7552f11743f098d4b91c]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d5b818cbc18a7552f11743f098d4b91c]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2b668b16ddffb26352322e2ddf2021e7]: Commencement: Reg. 12 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2b668b16ddffb26352322e2ddf2021e7]: Commencement: Reg. 12 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2572b9ea199fb1f965d08bd5b623a9d1]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2572b9ea199fb1f965d08bd5b623a9d1]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-72da547c526cf8c700cefc4759525e07]: Commencement: Reg. 14 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
+[^c-72da547c526cf8c700cefc4759525e07]: Commencement: Reg. 14 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see reg. 1
 
-[^key-bcecc68ea1ffcf065f4fd1c3fb13fb2f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/550/regulation/14) in force at 31.12.2020 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1)
+[^c-bcecc68ea1ffcf065f4fd1c3fb13fb2f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2019/550/regulation/14) in force at 31.12.2020 in force on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/550/regulation/1)
 
-[^key-05cf4bc1eee6751278a2a8f3e771ab3e]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-05cf4bc1eee6751278a2a8f3e771ab3e]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-eb49aeb080fb89775363643616b8aa9c]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-eb49aeb080fb89775363643616b8aa9c]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d49b4ec1d14d51406dfb501aa15775f5]: Commencement: Reg. 17 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d49b4ec1d14d51406dfb501aa15775f5]: Commencement: Reg. 17 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6555e62eaa207ba48242fadbe14ba1f7]: Commencement: Reg. 18 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6555e62eaa207ba48242fadbe14ba1f7]: Commencement: Reg. 18 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-674cd70d07eb84cce185a42f4f0d61ee]: Commencement: Reg. 19 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-674cd70d07eb84cce185a42f4f0d61ee]: Commencement: Reg. 19 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-bd423ce74d6196d3239d9ba3dcc2afd7]: Commencement: Reg. 20 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-bd423ce74d6196d3239d9ba3dcc2afd7]: Commencement: Reg. 20 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0de881639fd913901e06bb23989034ef]: Commencement: Reg. 21 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0de881639fd913901e06bb23989034ef]: Commencement: Reg. 21 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-39423a7397eef1bd28b122fc910c2761]: Commencement: Reg. 22 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-39423a7397eef1bd28b122fc910c2761]: Commencement: Reg. 22 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6526f2c56d5007889669ec6e26b4f1da]: Textual amendment: Reg. 22(1A)(1B) inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/6/a)
+[^c-6526f2c56d5007889669ec6e26b4f1da]: Textual amendment: Reg. 22(1A)(1B) inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/6/a)
 
-[^key-3ebcb4dea5de69aaeb772d8698433114]: Textual amendment: Reg. 22(3) inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/6/b)
+[^c-3ebcb4dea5de69aaeb772d8698433114]: Textual amendment: Reg. 22(3) inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/6/b)
 
-[^key-e83181e0f97eecbd09acfb0f2e7b7496]: Commencement: Reg. 23 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e83181e0f97eecbd09acfb0f2e7b7496]: Commencement: Reg. 23 in force at 31.12.2020 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d88c08e2d37eb175da815f133d634d11]: Textual amendment: Reg. 23(1A)(1B) inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/7/a)
+[^c-d88c08e2d37eb175da815f133d634d11]: Textual amendment: Reg. 23(1A)(1B) inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/7/a)
 
-[^key-1241ac46afab66138caaa8a0469247d4]: Textual amendment: Reg. 23(3) inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/7/b)
+[^c-1241ac46afab66138caaa8a0469247d4]: Textual amendment: Reg. 23(3) inserted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/7/b)
 
-[^key-41c9aade6545719ba6015f930a48d4ad]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-41c9aade6545719ba6015f930a48d4ad]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3c1ebfe3750fe43d7cf6abcb0e0378dc]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3c1ebfe3750fe43d7cf6abcb0e0378dc]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-b504ae25b93d90b050b3d0bf2ae4ac53]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-b504ae25b93d90b050b3d0bf2ae4ac53]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7115302330eb159ce9b9add0bc3fd1f2]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7115302330eb159ce9b9add0bc3fd1f2]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0fcb712b871f0c384b068a67774bc378]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-0fcb712b871f0c384b068a67774bc378]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-f29b86db6d4fb956696beb6560a47c69]: Textual amendment: Pt. 3 Ch. 1 omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/8)
+[^c-f29b86db6d4fb956696beb6560a47c69]: Textual amendment: Pt. 3 Ch. 1 omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/8)
 
-[^key-8582919025c1aeed19d296216bcdd296]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8582919025c1aeed19d296216bcdd296]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2ca4a82b10b0b9684f4fd3f6e05e176b]: Textual amendment: Reg. 30(10) substituted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/9/a)
+[^c-2ca4a82b10b0b9684f4fd3f6e05e176b]: Textual amendment: Reg. 30(10) substituted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/9/a)
 
-[^key-f3931b371a33c1135e0928bb16b4d0f4]: Textual amendment: Reg. 30(11)(a)(ii) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/9/b)
+[^c-f3931b371a33c1135e0928bb16b4d0f4]: Textual amendment: Reg. 30(11)(a)(ii) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/9/b)
 
-[^key-6b756e6c896093aefe0eef9309133921]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-6b756e6c896093aefe0eef9309133921]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-019840c23734ab84ac072844cb7cc59d]: Textual amendment: Words in reg. 31(8)(b) substituted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/10)
+[^c-019840c23734ab84ac072844cb7cc59d]: Textual amendment: Words in reg. 31(8)(b) substituted (2.12.2020) by [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/10)
 
-[^key-c1260d466382b4a0204dd166617e2ff3]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c1260d466382b4a0204dd166617e2ff3]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-11cf2a3debeebfde1dc483c04f89cd81]: Textual amendment: Words in reg. 32(2)(a) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(3)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/3/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-11cf2a3debeebfde1dc483c04f89cd81]: Textual amendment: Words in reg. 32(2)(a) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(3)(a)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/3/a) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-e27f0a9e50d95976a6d639e26f32b5f9]: Textual amendment: Reg. 32(2)(b) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/11/a)
+[^c-e27f0a9e50d95976a6d639e26f32b5f9]: Textual amendment: Reg. 32(2)(b) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(11)(a)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/11/a)
 
-[^key-b48387d0e1ca1a4763f36ea46b2f0841]: Textual amendment: Words in reg. 32(8)(a)(i) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(11)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/11/b/i)
+[^c-b48387d0e1ca1a4763f36ea46b2f0841]: Textual amendment: Words in reg. 32(8)(a)(i) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(11)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/11/b/i)
 
-[^key-2eb94987100fc7fb64848953727da59c]: Textual amendment: Words in reg. 32(8)(a)(i) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/11/b/ii)
+[^c-2eb94987100fc7fb64848953727da59c]: Textual amendment: Words in reg. 32(8)(a)(i) omitted (2.12.2020) by virtue of [The Road Vehicle Carbon Dioxide Emission Performance Standards (Cars and Vans) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1418)](https://www.legislation.gov.uk/uksi/2020/1418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/1/2), [2(11)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1418/regulation/2/11/b/ii)
 
-[^key-c804cbe624921919ee43189721e7d3e3]: Textual amendment: Words in reg. 32(8)(a)(ii) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(3)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/3/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-c804cbe624921919ee43189721e7d3e3]: Textual amendment: Words in reg. 32(8)(a)(ii) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(3)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/3/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-478c92a6617906ceaa1c143cd8d9adfc]: Textual amendment: Reg. 32(8)(b) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(3)(c)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/3/c) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-478c92a6617906ceaa1c143cd8d9adfc]: Textual amendment: Reg. 32(8)(b) substituted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 38(3)(c)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/38/3/c) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-ca637ed1867794f872bde5e403c22527]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ca637ed1867794f872bde5e403c22527]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-1ebeed2bc8f3f8d0ad36f6ecf32ffec1]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-1ebeed2bc8f3f8d0ad36f6ecf32ffec1]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

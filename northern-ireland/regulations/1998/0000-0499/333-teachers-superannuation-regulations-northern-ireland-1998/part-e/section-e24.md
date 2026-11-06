@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E24. Entitlement to short-term family benefits[^key-b7fb0ee4fa38db072b41ea633820a3be]
+## E24. Entitlement to short-term family benefits[^c-b7fb0ee4fa38db072b41ea633820a3be]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b7fb0ee4fa38db072b41ea633820a3be]: Commencement: Reg. E24 in operation at 2.11.1998, see reg. A1
+[^c-b7fb0ee4fa38db072b41ea633820a3be]: Commencement: Reg. E24 in operation at 2.11.1998, see reg. A1

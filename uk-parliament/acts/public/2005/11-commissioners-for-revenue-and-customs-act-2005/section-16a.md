@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Charter of standards and values[^key-8b8b9cc8d823f42c45974bd7f6c69f31]
+## 16A. Charter of standards and values[^c-8b8b9cc8d823f42c45974bd7f6c69f31]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b8b9cc8d823f42c45974bd7f6c69f31]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/2005/11/section/16A) inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 92(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/92/1) (with [s. 92(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/92/2))
+[^c-8b8b9cc8d823f42c45974bd7f6c69f31]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/2005/11/section/16A) inserted (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 92(1)](https://www.legislation.gov.uk/ukpga/2009/10/section/92/1) (with [s. 92(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/92/2))

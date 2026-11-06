@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Savings[^key-8a69d97aba68a58956fdcd1070dafeb9]
+## 3. Savings[^c-8a69d97aba68a58956fdcd1070dafeb9]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the building regulations applicable to the building in question shall be those i
 
 ## Annotations
 
-[^key-8a69d97aba68a58956fdcd1070dafeb9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2006/534/regulation/3) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)
+[^c-8a69d97aba68a58956fdcd1070dafeb9]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2006/534/regulation/3) in force at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1)

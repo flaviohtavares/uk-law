@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Amendment of regulation 3 (interpretation)[^key-fd6f2c35d053b5903dc55c35d68144cb]
+## 70. Amendment of regulation 3 (interpretation)[^c-fd6f2c35d053b5903dc55c35d68144cb]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ In regulation 3 (interpretation), in paragraph (1)—
 
 ## Annotations
 
-[^key-fd6f2c35d053b5903dc55c35d68144cb]: Commencement: Reg. 70 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-fd6f2c35d053b5903dc55c35d68144cb]: Commencement: Reg. 70 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

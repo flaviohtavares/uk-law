@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Application and modification of statutory provisions[^key-37d370936962ad5f44a4f2c94f43b08e]
+## 6. Application and modification of statutory provisions[^c-37d370936962ad5f44a4f2c94f43b08e]
 
 *Extent: E+W*
 
 (1) The following provisions do not apply in relation to the construction of any work or the carrying out of any operation required for the purposes of, or in connection with, the construction, operation or maintenance of any part of the authorised development—
 
-- (a) section 23 (prohibition on[^key-ff8156d82e1c69694e27ba5477287038] obstructions, etc. in watercourses) of the Land Drainage Act 1991[^f00030] so far as it relates to the Upper Witham Internal Drainage Board;
+- (a) section 23 (prohibition on[^c-ff8156d82e1c69694e27ba5477287038] obstructions, etc. in watercourses) of the Land Drainage Act 1991[^f00030] so far as it relates to the Upper Witham Internal Drainage Board;
 - (b) section 32[^f00031] (variation of awards) of the Land Drainage Act 1991;
 - (c) the provisions of any byelaws made under section 66[^f00032] (powers to make byelaws) of the Land Drainage Act 1991;
 - (d) the provisions of any byelaws made under, or having effect as if made under, paragraphs 5, 6 or 6A of Schedule 25 (byelaw making powers of the appropriate agency) to the Water Resources Act 1991[^f00033];
@@ -40,9 +40,9 @@ summary: ''
 
 ## Annotations
 
-[^key-37d370936962ad5f44a4f2c94f43b08e]: Commencement: Art. 6 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-37d370936962ad5f44a4f2c94f43b08e]: Commencement: Art. 6 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-ff8156d82e1c69694e27ba5477287038]: Textual amendment: Word in art. 6(1)(a) substituted (28.11.2024) by virtue of [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-ff8156d82e1c69694e27ba5477287038]: Textual amendment: Word in art. 6(1)(a) substituted (28.11.2024) by virtue of [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
 
 [^f00030]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by paragraph 192(2) of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), paragraphs 25 and 32 of Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 

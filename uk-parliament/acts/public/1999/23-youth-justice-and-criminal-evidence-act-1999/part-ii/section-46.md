@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Power to restrict reports about certain adult witnesses in criminal proceedings.[^c9546291][^key-33d41f4b468a6393229a324aafc03367][^key-96b5d16e74e152c8357f1507eda6a2cd][^key-85d8cd3a5152728bad221d3147579082]
+## 46. Power to restrict reports about certain adult witnesses in criminal proceedings.[^c9546291][^c-33d41f4b468a6393229a324aafc03367][^c-96b5d16e74e152c8357f1507eda6a2cd][^c-85d8cd3a5152728bad221d3147579082]
 
 *Extent: E+W+S+N.I.*
 
@@ -101,8 +101,8 @@ is likely to be diminished by reason of fear or distress on the part of the witn
 
 [^c9546291]: Commencement: Pt. II Chs. 1-4 (ss. 16-52) in force for certain purposes at Royal Assent, see s. 68(4)
 
-[^key-33d41f4b468a6393229a324aafc03367]: Commencement: S. 46 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(a)](https://www.legislation.gov.uk/ssi/2004/408/article/3/a)
+[^c-33d41f4b468a6393229a324aafc03367]: Commencement: S. 46 in force at 7.10.2004 for specified purposes for S. by [S.S.I. 2004/408](https://www.legislation.gov.uk/ssi/2004/408), [art. 3(a)](https://www.legislation.gov.uk/ssi/2004/408/article/3/a)
 
-[^key-96b5d16e74e152c8357f1507eda6a2cd]: Commencement: S. 46 in force at 7.10.2004 for E.W. by [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/a)
+[^c-96b5d16e74e152c8357f1507eda6a2cd]: Commencement: S. 46 in force at 7.10.2004 for E.W. by [S.I. 2004/2428](https://www.legislation.gov.uk/uksi/2004/2428), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2428/article/2/a)
 
-[^key-85d8cd3a5152728bad221d3147579082]: Commencement: S. 46 in force at 8.11.2004 for N.I. in so far as not already in force by [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(a)](https://www.legislation.gov.uk/nisr/2004/467/article/2/a)
+[^c-85d8cd3a5152728bad221d3147579082]: Commencement: S. 46 in force at 8.11.2004 for N.I. in so far as not already in force by [S.R. 2004/467](https://www.legislation.gov.uk/nisr/2004/467), [art. 2(a)](https://www.legislation.gov.uk/nisr/2004/467/article/2/a)

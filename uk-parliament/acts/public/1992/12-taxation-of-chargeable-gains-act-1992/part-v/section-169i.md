@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169I. Material disposal of business assets[^key-862e80f4d945873bbcafd29e0d3f74e4][^key-8eec48a298121a3be97019f36154d494][^key-62210e0dd95858649d5b0850e81240b3]
+## 169I. Material disposal of business assets[^c-862e80f4d945873bbcafd29e0d3f74e4][^c-8eec48a298121a3be97019f36154d494][^c-62210e0dd95858649d5b0850e81240b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,28 +31,28 @@ summary: ''
 - (b) a disposal of (or of interests in) one or more assets in use, at the time at which a business ceases to be carried on, for the purposes of the business, or
 - (c) a disposal of one or more assets consisting of (or of interests in) shares in or securities of a company.
 
-(3) A disposal within paragraph (a) of subsection (2) is a material disposal if the business is owned by the individual throughout the period of 2 years[^key-4fba4ccdba3c9da8e38d2ff9332b5346] ending with the date of the disposal.
+(3) A disposal within paragraph (a) of subsection (2) is a material disposal if the business is owned by the individual throughout the period of 2 years[^c-4fba4ccdba3c9da8e38d2ff9332b5346] ending with the date of the disposal.
 
 (4) A disposal within paragraph (b) of that subsection is a material disposal if—
 
-- (a) the business is owned by the individual throughout the period of 2 years[^key-e8261a50d44fbd403148e2948bb55397] ending with the date on which the business ceases to be carried on, and
+- (a) the business is owned by the individual throughout the period of 2 years[^c-e8261a50d44fbd403148e2948bb55397] ending with the date on which the business ceases to be carried on, and
 - (b) that date is within the period of 3 years ending with the date of the disposal.
 
-(5) A disposal within paragraph (c) of subsection (2) is a material disposal if condition A, B, C or D[^key-c18f84b6930813f93dce44d180de1628] is met.
+(5) A disposal within paragraph (c) of subsection (2) is a material disposal if condition A, B, C or D[^c-c18f84b6930813f93dce44d180de1628] is met.
 
-(6) Condition A is that, throughout the period of 2 years[^key-df495e7d8c85f7d577ca56cd3510e2b6] ending with the date of the disposal—
+(6) Condition A is that, throughout the period of 2 years[^c-df495e7d8c85f7d577ca56cd3510e2b6] ending with the date of the disposal—
 
 - (a) the company is the individual's personal company and is either a trading company or the holding company of a trading group, and
 - (b) the individual is an officer or employee of the company or (if the company is a member of a trading group) of one or more companies which are members of the trading group.
 
-(7) Condition B is that the conditions in paragraphs (a) and (b) of subsection (6) are met throughout the period of 2 years[^key-9cf9b1e6222a3253e9ff33ac7b6c78e1] ending with the date on which the company—
+(7) Condition B is that the conditions in paragraphs (a) and (b) of subsection (6) are met throughout the period of 2 years[^c-9cf9b1e6222a3253e9ff33ac7b6c78e1] ending with the date on which the company—
 
 - (a) ceases to be a trading company without continuing to be or becoming a member of a trading group, or
 - (b) ceases to be a member of a trading group without continuing to be or becoming a trading company,
 
 and that date is within the period of 3 years ending with the date of the disposal.
 
-(7ZA)[^key-a0a45ce807936a26f199ae60afe8e4a7] If, in any case where an individual disposes of any shares in a company—
+(7ZA)[^c-a0a45ce807936a26f199ae60afe8e4a7] If, in any case where an individual disposes of any shares in a company—
 
 - (a) there has been an issue of shares in the company to the individual following a relevant business transfer, and
 - (b) any of the issued shares constitute, or otherwise form part of, the shares disposed of,
@@ -61,19 +61,19 @@ the conditions in subsection (6)(a) and (b) are to be treated as met in any peri
 
 (7ZB) For the purposes of subsection (7ZA), shares have been issued “following a relevant business transfer” if they have been issued wholly or partly in exchange for the transfer of a business as a going concern, together with the whole assets of the business or the whole of those assets other than cash.
 
-(7A)[^key-b8a450f4541e8b263c517af988048ea0] Condition C is that—
+(7A)[^c-b8a450f4541e8b263c517af988048ea0] Condition C is that—
 
 - (a) the assets disposed of are relevant EMI shares,
-- (b) the option grant date is, or is before, the first date of the period of 2 years[^key-93be4ca8a23b5c9eb35fe8a5afdf4d81] ending with the date of the disposal, and
-- (c) throughout that period of 2 years[^key-62a784b9667bd9fd4cf1ee713ed1dd50]—
+- (b) the option grant date is, or is before, the first date of the period of 2 years[^c-93be4ca8a23b5c9eb35fe8a5afdf4d81] ending with the date of the disposal, and
+- (c) throughout that period of 2 years[^c-62a784b9667bd9fd4cf1ee713ed1dd50]—
   - (i) the company is either a trading company or the holding company of a trading group, and
   - (ii) the individual is an officer or employee of the company or (if the company is a member of a trading group) of one or more companies which are members of the trading group.
 
 (7B) Condition D is that—
 
 - (a) the assets disposed of are relevant EMI shares acquired by the individual before the cessation date,
-- (b) the option grant date is, or is before, the first date of the period of 2 years[^key-86a79a32b2a53e7695ffe936cacac3c5] ending with the cessation date,
-- (c) the conditions in paragraph (c) of subsection (7A) are met throughout that period of 2 years[^key-6886dfaf6fc44df7c280977460643da5], and
+- (b) the option grant date is, or is before, the first date of the period of 2 years[^c-86a79a32b2a53e7695ffe936cacac3c5] ending with the cessation date,
+- (c) the conditions in paragraph (c) of subsection (7A) are met throughout that period of 2 years[^c-6886dfaf6fc44df7c280977460643da5], and
 - (d) the cessation date is within the period of 3 years ending with the date of the disposal.
 
 (7C) In this section “**relevant EMI shares**” means—
@@ -84,7 +84,7 @@ the conditions in subsection (6)(a) and (b) are to be treated as met in any peri
 (7D) This subsection applies to shares of a company acquired by an individual if the individual—
 
 - (a) acquires them on or after 6 April 2013, and
-- (b) acquires them as a result of the exercise of a qualifying option within the meaning given by section 527(4) of ITEPA 2003 (enterprise management incentives) where the option is exercised on or before the specified[^key-57a7d30b5c040e3e4a2321d49c65b2da] anniversary of the date mentioned in section 529(2) of that Act (with “specified anniversary” having the meaning given in section 529(2A) of that Act)[^key-57a6705364b44a25e273fea46701f5d4].
+- (b) acquires them as a result of the exercise of a qualifying option within the meaning given by section 527(4) of ITEPA 2003 (enterprise management incentives) where the option is exercised on or before the specified[^c-57a7d30b5c040e3e4a2321d49c65b2da] anniversary of the date mentioned in section 529(2) of that Act (with “specified anniversary” having the meaning given in section 529(2A) of that Act)[^c-57a6705364b44a25e273fea46701f5d4].
 
 (7E) Subsection (7D) does not apply to shares acquired as a result of the exercise of a qualifying option if—
 
@@ -154,34 +154,34 @@ and so on.
 
 ## Annotations
 
-[^key-862e80f4d945873bbcafd29e0d3f74e4]: Modification: S. 169I modified (18.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 43(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/43/4)[(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/43/5)
+[^c-862e80f4d945873bbcafd29e0d3f74e4]: Modification: S. 169I modified (18.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 43(4)](https://www.legislation.gov.uk/ukpga/2015/11/section/43/4)[(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/43/5)
 
-[^key-8eec48a298121a3be97019f36154d494]: Modification: S. 169I modified (with effect in accordance with Sch. 13 para. 6(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 13 para. 6(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/13/paragraph/6/2) (with [Sch. 13 para. 6(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/13/paragraph/6/3))
+[^c-8eec48a298121a3be97019f36154d494]: Modification: S. 169I modified (with effect in accordance with Sch. 13 para. 6(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 13 para. 6(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/13/paragraph/6/2) (with [Sch. 13 para. 6(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/13/paragraph/6/3))
 
-[^key-62210e0dd95858649d5b0850e81240b3]: Textual amendment: Pt. 5 Ch. 3 inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/2) (with [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/6))
+[^c-62210e0dd95858649d5b0850e81240b3]: Textual amendment: Pt. 5 Ch. 3 inserted (with effect in accordance with Sch. 3 para. 5 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/2) (with [Sch. 3 paras. 6-8](https://www.legislation.gov.uk/ukpga/2008/9/schedule/3/paragraph/6))
 
-[^key-4fba4ccdba3c9da8e38d2ff9332b5346]: Textual amendment: Words in s. 169I(3) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/a)
+[^c-4fba4ccdba3c9da8e38d2ff9332b5346]: Textual amendment: Words in s. 169I(3) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/a)
 
-[^key-e8261a50d44fbd403148e2948bb55397]: Textual amendment: Words in s. 169I(4)(a) substituted (with effect in accordance with Sch. 16 para. 4(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/b)
+[^c-e8261a50d44fbd403148e2948bb55397]: Textual amendment: Words in s. 169I(4)(a) substituted (with effect in accordance with Sch. 16 para. 4(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/b)
 
-[^key-c18f84b6930813f93dce44d180de1628]: Textual amendment: Words in s. 169I(5) substituted (with effect in accordance with Sch. 24 para. 5(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 24 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/24/paragraph/1/2)
+[^c-c18f84b6930813f93dce44d180de1628]: Textual amendment: Words in s. 169I(5) substituted (with effect in accordance with Sch. 24 para. 5(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 24 para. 1(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/24/paragraph/1/2)
 
-[^key-df495e7d8c85f7d577ca56cd3510e2b6]: Textual amendment: Words in s. 169I(6) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/a)
+[^c-df495e7d8c85f7d577ca56cd3510e2b6]: Textual amendment: Words in s. 169I(6) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/a)
 
-[^key-9cf9b1e6222a3253e9ff33ac7b6c78e1]: Textual amendment: Words in s. 169I(7) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/c)
+[^c-9cf9b1e6222a3253e9ff33ac7b6c78e1]: Textual amendment: Words in s. 169I(7) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/c)
 
-[^key-a0a45ce807936a26f199ae60afe8e4a7]: Textual amendment: S. 169I(7ZA)(7ZB) inserted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/d)
+[^c-a0a45ce807936a26f199ae60afe8e4a7]: Textual amendment: S. 169I(7ZA)(7ZB) inserted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/d)
 
-[^key-b8a450f4541e8b263c517af988048ea0]: Textual amendment: S. 169I(7A)-(7R) inserted (with effect in accordance with Sch. 24 para. 5(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 24 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/24/paragraph/1/3)
+[^c-b8a450f4541e8b263c517af988048ea0]: Textual amendment: S. 169I(7A)-(7R) inserted (with effect in accordance with Sch. 24 para. 5(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 24 para. 1(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/24/paragraph/1/3)
 
-[^key-93be4ca8a23b5c9eb35fe8a5afdf4d81]: Textual amendment: Words in s. 169I(7A)(b) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/a)
+[^c-93be4ca8a23b5c9eb35fe8a5afdf4d81]: Textual amendment: Words in s. 169I(7A)(b) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/a)
 
-[^key-62a784b9667bd9fd4cf1ee713ed1dd50]: Textual amendment: Words in s. 169I(7A)(c) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/a)
+[^c-62a784b9667bd9fd4cf1ee713ed1dd50]: Textual amendment: Words in s. 169I(7A)(c) substituted (with effect in accordance with Sch. 16 para. 4(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/a)
 
-[^key-86a79a32b2a53e7695ffe936cacac3c5]: Textual amendment: Words in s. 169I(7B)(b) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/c)
+[^c-86a79a32b2a53e7695ffe936cacac3c5]: Textual amendment: Words in s. 169I(7B)(b) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/c)
 
-[^key-6886dfaf6fc44df7c280977460643da5]: Textual amendment: Words in s. 169I(7B)(c) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/c)
+[^c-6886dfaf6fc44df7c280977460643da5]: Textual amendment: Words in s. 169I(7B)(c) substituted (with effect in accordance with Sch. 16 para. 4(3) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/1/2/c)
 
-[^key-57a7d30b5c040e3e4a2321d49c65b2da]: Textual amendment: Word in s. 169I(7D)(b) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(8)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/8/a)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)
+[^c-57a7d30b5c040e3e4a2321d49c65b2da]: Textual amendment: Word in s. 169I(7D)(b) substituted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(8)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/8/a)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)
 
-[^key-57a6705364b44a25e273fea46701f5d4]: Textual amendment: Words in s. 169I(7D)(b) inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(8)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/8/b)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)
+[^c-57a6705364b44a25e273fea46701f5d4]: Textual amendment: Words in s. 169I(7D)(b) inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 13(8)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/8/b)[(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/13/9)

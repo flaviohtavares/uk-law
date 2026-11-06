@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Powers to make supplemental provision[^key-5e6fccee4be616259d7171500f3e34a8]
+## 82. Powers to make supplemental provision[^c-5e6fccee4be616259d7171500f3e34a8]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ as appear to the Department to be appropriate.
 
 ## Annotations
 
-[^key-5e6fccee4be616259d7171500f3e34a8]: Commencement: [S. 82](https://www.legislation.gov.uk/nia/2014/8/section/82) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-5e6fccee4be616259d7171500f3e34a8]: Commencement: [S. 82](https://www.legislation.gov.uk/nia/2014/8/section/82) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

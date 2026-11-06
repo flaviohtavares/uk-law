@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 280BA. The minimum investment on further issue condition[^key-71537851257173ce849a86ce428a93f6]
+## 280BA. The minimum investment on further issue condition[^c-71537851257173ce849a86ce428a93f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71537851257173ce849a86ce428a93f6]: Textual amendment: [S. 280BA](https://www.legislation.gov.uk/ukpga/2007/3/section/280BA) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/6), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/c)
+[^c-71537851257173ce849a86ce428a93f6]: Textual amendment: [S. 280BA](https://www.legislation.gov.uk/ukpga/2007/3/section/280BA) inserted (6.4.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 5 paras. 6](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/6), [13](https://www.legislation.gov.uk/ukpga/2018/3/schedule/5/paragraph/13); [S.I. 2018/931](https://www.legislation.gov.uk/uksi/2018/931), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/931/regulation/4/c)

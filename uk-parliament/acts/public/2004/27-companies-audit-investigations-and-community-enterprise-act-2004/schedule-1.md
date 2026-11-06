@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — New Schedule 7B to the Companies Act 1985[^key-2146ed9260cddc9bb6aeb61aff45b4e1]
+## SCHEDULE 1 — New Schedule 7B to the Companies Act 1985[^c-2146ed9260cddc9bb6aeb61aff45b4e1]
 
 *Extent: E+W+S*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Section 12
 
-[^key-2146ed9260cddc9bb6aeb61aff45b4e1]
+[^c-2146ed9260cddc9bb6aeb61aff45b4e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2146ed9260cddc9bb6aeb61aff45b4e1]: Textual amendment: Sch. 1 repealed (6.4.2008) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))
+[^c-2146ed9260cddc9bb6aeb61aff45b4e1]: Textual amendment: Sch. 1 repealed (6.4.2008) by [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46), [s. 1300(2)](https://www.legislation.gov.uk/ukpga/2006/46/section/1300/2), [Sch. 16](https://www.legislation.gov.uk/ukpga/2006/46/schedule/16); [S.I. 2007/3495](https://www.legislation.gov.uk/uksi/2007/3495), [art. 8(a)](https://www.legislation.gov.uk/uksi/2007/3495/article/8/a), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2007/3495/schedule/2/part/1) (with [arts. 7](https://www.legislation.gov.uk/uksi/2007/3495/article/7), [12](https://www.legislation.gov.uk/uksi/2007/3495/article/12))

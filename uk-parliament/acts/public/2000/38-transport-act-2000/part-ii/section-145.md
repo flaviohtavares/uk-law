@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Mandatory concessions outside Greater London.[^key-1ef9626fb1ab8013de9a98c95a9337d6]
+## 145. Mandatory concessions outside Greater London.[^c-1ef9626fb1ab8013de9a98c95a9337d6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ef9626fb1ab8013de9a98c95a9337d6]: Textual amendment: S. 145A substituted for s. 145 (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-1ef9626fb1ab8013de9a98c95a9337d6]: Textual amendment: S. 145A substituted for s. 145 (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))

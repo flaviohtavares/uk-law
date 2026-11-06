@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Central counterparties and central securities depositories: other requirements[^key-48f6ecca3f828e3e48c6e5ce00029554][^key-5a24946096235499a0878235e1402c0e]
+## 10. Central counterparties and central securities depositories: other requirements[^c-48f6ecca3f828e3e48c6e5ce00029554][^c-5a24946096235499a0878235e1402c0e]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ In Schedule 17A to FSMA 2000 (further provision in relation to exercise of Part 
 
 ## Annotations
 
-[^key-48f6ecca3f828e3e48c6e5ce00029554]: Commencement: S. 10 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-48f6ecca3f828e3e48c6e5ce00029554]: Commencement: S. 10 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-5a24946096235499a0878235e1402c0e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/29/section/10) in force at 1.1.2024 at 1.00 a.m. by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/b)
+[^c-5a24946096235499a0878235e1402c0e]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/29/section/10) in force at 1.1.2024 at 1.00 a.m. by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/b)

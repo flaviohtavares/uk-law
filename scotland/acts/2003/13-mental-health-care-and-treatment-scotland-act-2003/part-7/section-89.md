@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Mental health officer’s duties: extension and variation of order[^key-013fd9cb7e0bba2fcaff25400f872c60]
+## 89. Mental health officer’s duties: extension and variation of order[^c-013fd9cb7e0bba2fcaff25400f872c60]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-013fd9cb7e0bba2fcaff25400f872c60]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2003/13/section/89) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-013fd9cb7e0bba2fcaff25400f872c60]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2003/13/section/89) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

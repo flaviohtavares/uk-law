@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Amendments for the purpose of, and in connection with, implementing international recognition agreements with specified states[^key-229d0e06a0acf7a4e4758c21c7abeb7f]
+## SCHEDULE 3 — Amendments for the purpose of, and in connection with, implementing international recognition agreements with specified states[^c-229d0e06a0acf7a4e4758c21c7abeb7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Regulation 4
 
 ### PART 1 — Amendments in relation to animal welfare professions
 
-#### 1. Amendments to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) of 22 December 2004 on the protection of animals during transport and related operations[^key-8de43f84fb8f8dca24b77079623b4fe3]
+#### 1. Amendments to Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) of 22 December 2004 on the protection of animals during transport and related operations[^c-8de43f84fb8f8dca24b77079623b4fe3]
 
 (1) Council Regulation [(EC) No 1/2005](https://www.legislation.gov.uk/european/regulation/2005/0001) of 22 December 2004 on the protection of animals during transport and related operations[^f00011] is amended as follows.
 
@@ -34,7 +34,7 @@ Regulation 4
 
 .
 
-#### 2. Amendments to Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) of 24 September 2009 on the protection of animals at the time of killing[^key-1733a17e45676795c3701fc56b1e331b]
+#### 2. Amendments to Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) of 24 September 2009 on the protection of animals at the time of killing[^c-1733a17e45676795c3701fc56b1e331b]
 
 (1) Council Regulation [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) of 24 September 2009 on the protection of animals at the time of killing[^f00012] is amended as follows.
 
@@ -44,7 +44,7 @@ Regulation 4
 
 .
 
-#### 3. Amendments to the Welfare of Animals at the Time of Killing (England) Regulations 2015[^key-3adf5f17a05250c14464b1413a558c54]
+#### 3. Amendments to the Welfare of Animals at the Time of Killing (England) Regulations 2015[^c-3adf5f17a05250c14464b1413a558c54]
 
 (1) The Welfare of Animals at the Time of Killing (England) Regulations 2015[^f00013] are amended as follows.
 
@@ -76,7 +76,7 @@ Regulation 4
 
 ### PART 2 — Amendments in relation to education professions
 
-#### 4. Amendments to the Education (School Teachers’ Qualifications) (England) Regulations 2003[^key-188d68e0ddb485a79255bf60791f2c96]
+#### 4. Amendments to the Education (School Teachers’ Qualifications) (England) Regulations 2003[^c-188d68e0ddb485a79255bf60791f2c96]
 
 (1) The Education (School Teachers’ Qualifications) (England) Regulations 2003[^f00014] are amended as follows.
 
@@ -88,7 +88,7 @@ Regulation 4
 
 .
 
-#### 5. Amendments to the Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^key-ddff9c9e3e8aabae6510071d84f954f9]
+#### 5. Amendments to the Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^c-ddff9c9e3e8aabae6510071d84f954f9]
 
 (1) The Education (Induction Arrangements for School Teachers) (England) Regulations 2012[^f00015] are amended as follows.
 
@@ -96,7 +96,7 @@ Regulation 4
 
 ### PART 3 — Amendments in relation to F-gas handler professions
 
-#### 6. Amendments to [Regulation (EU) No 517/2014](https://www.legislation.gov.uk/european/regulation/2014/0517) of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842)[^key-fd449cf9ea941803db564f1e7685b47f]
+#### 6. Amendments to [Regulation (EU) No 517/2014](https://www.legislation.gov.uk/european/regulation/2014/0517) of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842)[^c-fd449cf9ea941803db564f1e7685b47f]
 
 (1) [Regulation (EU) No 517/2014](https://www.legislation.gov.uk/european/regulation/2014/0517) of the European Parliament and of the Council of 16 April 2014 on fluorinated greenhouse gases and repealing Regulation [(EC) No 842/2006](https://www.legislation.gov.uk/european/regulation/2006/0842)[^f00016] is amended as follows.
 
@@ -109,7 +109,7 @@ Regulation 4
 
   .
 
-#### 7. Amendments to the Ozone-Depleting Substances Regulations 2015[^key-3815b93df0199c3b8fb38bbdc5f18787]
+#### 7. Amendments to the Ozone-Depleting Substances Regulations 2015[^c-3815b93df0199c3b8fb38bbdc5f18787]
 
 (1) The Ozone-Depleting Substances Regulations 2015[^f00017]are amended as follows.
 
@@ -134,7 +134,7 @@ Regulation 4
 
 ### PART 4 — Amendments in relation to food examiners
 
-#### 8. Amendments to the Food Safety (Sampling and Qualifications) (England) Regulations 2013[^key-fbde2f5140c8cfe5b33de6b1bd137060]
+#### 8. Amendments to the Food Safety (Sampling and Qualifications) (England) Regulations 2013[^c-fbde2f5140c8cfe5b33de6b1bd137060]
 
 (1) The Food Safety (Sampling and Qualifications) (England) Regulations 2013[^f00019] are amended as follows.
 
@@ -149,7 +149,7 @@ Regulation 4
 - (a) in paragraph 6 of Part 1, for “in another Member State”, substitute “in a Member State of the European Union or in a specified state”; and
 - (b) in paragraphs 2 and 4 of Part 2, after “a Member State of the European Union”, insert “or of a specified state”.
 
-#### 9. Amendments to the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 2013[^key-c66f7ceb5135c5a801af75ba701957eb]
+#### 9. Amendments to the Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 2013[^c-c66f7ceb5135c5a801af75ba701957eb]
 
 (1) The Food Safety (Sampling and Qualifications) Regulations (Northern Ireland) 2013[^f00020] are amended as follows.
 
@@ -166,11 +166,11 @@ Regulation 4
 
 ### PART 5 — Amendments in relation to healthcare professions
 
-#### 10. Amendments to the Medical Act 1983[^key-66252b338ffc557e330274d3bbda6b1c]
+#### 10. Amendments to the Medical Act 1983[^c-66252b338ffc557e330274d3bbda6b1c]
 
 The Medical Act 1983[^f00021] is amended as follows.
 
-**11.**[^key-e5f4d6887a5d4f279e22eea1136be801] In section 21B (full registration of persons with an overseas qualification)[^f00022]—
+**11.**[^c-e5f4d6887a5d4f279e22eea1136be801] In section 21B (full registration of persons with an overseas qualification)[^f00022]—
 
 - (a) in subsection (1)—
   - (i) for “subsection (1A)”, substitute “subsections (1A) and (1AA)”;
@@ -207,7 +207,7 @@ The Medical Act 1983[^f00021] is amended as follows.
 
   .
 
-**12.**[^key-a58d0f9fdabd6b219e719520068fe845] After section 21B, insert—
+**12.**[^c-a58d0f9fdabd6b219e719520068fe845] After section 21B, insert—
 
 > **21BA. Further provision relating to the registration of specified state professionals**
 >
@@ -229,7 +229,7 @@ The Medical Act 1983[^f00021] is amended as follows.
 
 .
 
-**13.**[^key-1da6851e5fc403c344698f7186659cc4] After section 29G (guidance)[^f00023], insert—
+**13.**[^c-1da6851e5fc403c344698f7186659cc4] After section 29G (guidance)[^f00023], insert—
 
 > **29GA. Information for specified state professionals**
 >
@@ -246,7 +246,7 @@ The Medical Act 1983[^f00021] is amended as follows.
 
 .
 
-**14.**[^key-3adea44e1eaf4e1084f1cea9b9450bfc] In section 32 (registration fees)[^f00024], after subsection (1), insert—
+**14.**[^c-3adea44e1eaf4e1084f1cea9b9450bfc] In section 32 (registration fees)[^f00024], after subsection (1), insert—
 
 > (1A) Any fee prescribed by the General Council under subsection (1) in connection with the making of an entry in the register relating to a specified state professional must be—
 >
@@ -256,7 +256,7 @@ The Medical Act 1983[^f00021] is amended as follows.
 
 .
 
-**15.**[^key-05ebed787edd173f457898e8f73390df] In section 55 (interpretation)[^f00025], in subsection (1), at the appropriate places, insert—
+**15.**[^c-05ebed787edd173f457898e8f73390df] In section 55 (interpretation)[^f00025], in subsection (1), at the appropriate places, insert—
 
 > - “**adaptation period**” means a period of practice, subject to an assessment and, where necessary, accompanied by further training, which is supervised by a fully registered medical practitioner;
 
@@ -274,7 +274,7 @@ The Medical Act 1983[^f00021] is amended as follows.
 
 .
 
-**16.**[^key-caa69c537411aeb69c60a3ea0dabc8fb] In Schedule 3 (registration: supplementary provisions)—
+**16.**[^c-caa69c537411aeb69c60a3ea0dabc8fb] In Schedule 3 (registration: supplementary provisions)—
 
 - (a) in paragraph 3 (proof of qualifications)[^f00026], at the end, insert—
 
@@ -302,7 +302,7 @@ The Medical Act 1983[^f00021] is amended as follows.
   ;
 - (e) in paragraph 5 (issue of certificates of registration)[^f00028], in sub-paragraph (1A)(a), after “this Act” insert “or an application by a specified state professional under section 21B of this Act,”.
 
-**17.**[^key-ae0c640399bd8f3a37f963acc62663cb] In Schedule 3A (registration and training appeals)—
+**17.**[^c-ae0c640399bd8f3a37f963acc62663cb] In Schedule 3A (registration and training appeals)—
 
 - (a) in paragraph 3[^f00029], after sub-paragraph (2), insert—
 
@@ -311,11 +311,11 @@ The Medical Act 1983[^f00021] is amended as follows.
   ;
 - (b) in paragraph 4(4), after “3(2)” insert “, (2A)”.
 
-#### 18. Amendments to the Dentists Act 1984[^key-b0023543f71b02cd177f32fce8b2e821]
+#### 18. Amendments to the Dentists Act 1984[^c-b0023543f71b02cd177f32fce8b2e821]
 
 The Dentists Act 1984[^f00030] is amended as follows.
 
-**19.**[^key-a59cb37ee136917dbe24f012f4b4d3b4] In section 15 (qualification for registration in the dentists register)[^f00031]—
+**19.**[^c-a59cb37ee136917dbe24f012f4b4d3b4] In section 15 (qualification for registration in the dentists register)[^f00031]—
 
 - (a) in subsection (1), omit the “and” following paragraph (a);
 - (b) in subsection (1)(c), for “overseas diplomas)).” substitute “overseas diplomas)); and”;
@@ -353,7 +353,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
   .
 
-**20.**[^key-53452630ab833133be7be723c1fa0135] After section 15, insert—
+**20.**[^c-53452630ab833133be7be723c1fa0135] After section 15, insert—
 
 > **15ZA. Section 15: further provision relating to specified state professionals**
 >
@@ -371,7 +371,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
 .
 
-**21.**[^key-48c29901052213a92828bb3eaf423e00] In section 15A (supplementary provisions as to the necessary knowledge of English)[^f00032]—
+**21.**[^c-48c29901052213a92828bb3eaf423e00] In section 15A (supplementary provisions as to the necessary knowledge of English)[^f00032]—
 
 - (a) after subsection (4), insert—
 
@@ -384,7 +384,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
   .
 
-**22.**[^key-a2d0d26ceac528739a4977ae71a98625] In section 18 (procedure for registration)[^f00033]—
+**22.**[^c-a2d0d26ceac528739a4977ae71a98625] In section 18 (procedure for registration)[^f00033]—
 
 - (a) in subsection (1), for “subsection (3)”, substitute “subsections (3) to (5)”;
 - (b) after subsection (3), insert—
@@ -397,7 +397,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
   .
 
-**23.**[^key-0e0aee6a0ff1a03f0b2347094cfef315] In section 19 (regulations with respect to the register)[^f00034], after subsection (1), insert—
+**23.**[^c-0e0aee6a0ff1a03f0b2347094cfef315] In section 19 (regulations with respect to the register)[^f00034], after subsection (1), insert—
 
 > (1ZA) If regulations under this section prescribe a fee to be charged on the entry of a person’s name in the register in a case where the person applies for registration as the holder of a specified state qualification in dentistry, the fee must be—
 >
@@ -407,7 +407,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
 .
 
-**24.**[^key-2f8df794221665fa5e79f47b62effeec] In section 21A (notification of results of application)[^f00035]—
+**24.**[^c-2f8df794221665fa5e79f47b62effeec] In section 21A (notification of results of application)[^f00035]—
 
 - (a) after subsection (2), insert—
 
@@ -426,7 +426,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
   .
 
-**25.**[^key-ff58d338a411ac5e34ee65ff88518f83] After section 26B (guidance)[^f00036], insert—
+**25.**[^c-ff58d338a411ac5e34ee65ff88518f83] After section 26B (guidance)[^f00036], insert—
 
 > **26C. Information for specified state professionals**
 >
@@ -443,7 +443,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
 .
 
-**26.**[^key-4ac5837d2160c204a6144d93a5c17010] In section 36C (qualifications for registration)[^f00037]—
+**26.**[^c-4ac5837d2160c204a6144d93a5c17010] In section 36C (qualifications for registration)[^f00037]—
 
 - (a) after subsection (4A), insert—
 
@@ -480,7 +480,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
   .
 
-**27.**[^key-18e9df305946b2af16a52851b7816724] In section 36CA (supplementary provisions as to necessary knowledge of English)[^f00038]—
+**27.**[^c-18e9df305946b2af16a52851b7816724] In section 36CA (supplementary provisions as to necessary knowledge of English)[^f00038]—
 
 - (a) after subsection (4), insert—
 
@@ -493,7 +493,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
   .
 
-**28.**[^key-b8462e8b9cb75d13aa13179605748590] In section 36E (rules relating to the dental care professionals register)[^f00039]—
+**28.**[^c-b8462e8b9cb75d13aa13179605748590] In section 36E (rules relating to the dental care professionals register)[^f00039]—
 
 - (a) the existing text becomes subsection (1);
 - (b) after subsection (1), insert—
@@ -502,7 +502,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
   .
 
-**29.**[^key-ffdb0181ced6d68e418e7f419c6bfc9e] After section 36E, insert—
+**29.**[^c-ffdb0181ced6d68e418e7f419c6bfc9e] After section 36E, insert—
 
 > **36EA. Applications by specified state professionals under section 36C**
 >
@@ -531,7 +531,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
 .
 
-**30.**[^key-f3c544138efea0170c716b4a0beb22ac] In section 36F (fees)[^f00040], after subsection (1), insert—
+**30.**[^c-f3c544138efea0170c716b4a0beb22ac] In section 36F (fees)[^f00040], after subsection (1), insert—
 
 > (1ZA) If regulations under this section prescribe a fee to be charged on the entry of a person’s name in the register in a case where the person applies for registration in reliance on a specified state qualification or qualifications, the fee must be—
 >
@@ -541,7 +541,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
 .
 
-**31.**[^key-7c64957ea90ab08967b7cd83308d521c] After section 36M (guidance)[^f00041], insert—
+**31.**[^c-7c64957ea90ab08967b7cd83308d521c] After section 36M (guidance)[^f00041], insert—
 
 > **36MA. Information for specified state professionals**
 >
@@ -558,19 +558,19 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
 .
 
-**32.**[^key-8363b90f95f13d60c064a89d74dd566e] In section 37 (definition of practice of dentistry)[^f00042], after subsection (2B), insert—
+**32.**[^c-8363b90f95f13d60c064a89d74dd566e] In section 37 (definition of practice of dentistry)[^f00042], after subsection (2B), insert—
 
 > (2C) Subsection (2) does not have effect in relation to dental work that is done by a person as part of an adaptation period specified in relation to the person by the Council under section 15ZA or 36C(4E).
 
 .
 
-**33.**[^key-75f3a8d6cca58cbc6e9351e2a1e6b1e0] In section 38[^f00043] (prohibition on practice of dentistry by laymen), after subsection (1), insert—
+**33.**[^c-75f3a8d6cca58cbc6e9351e2a1e6b1e0] In section 38[^f00043] (prohibition on practice of dentistry by laymen), after subsection (1), insert—
 
 > (1A) A specified state professional undertaking an adaptation period specified in relation to the person by the Council under section 15ZA or 36C(4E) does not contravene subsection (1) by practising dentistry or by holding out as regards practising or being prepared to practise dentistry if the practising of dentistry is done as part of the adaptation period or (as the case may be) the holding out relates only to the practising of dentistry as part of the adaptation period.
 
 .
 
-**34.**[^key-0b32f8726cd6de25dfc99a00b8e855bd] In section 53 (interpretation)[^f00044], in subsection (1), at the appropriate places insert—
+**34.**[^c-0b32f8726cd6de25dfc99a00b8e855bd] In section 53 (interpretation)[^f00044], in subsection (1), at the appropriate places insert—
 
 > - “**specified state professional**” means a person who holds a specified state qualification;
 
@@ -580,7 +580,7 @@ The Dentists Act 1984[^f00030] is amended as follows.
 
 .
 
-**35.**[^key-7d6c5012e7414e714c9857e094dbb466] In Schedule 2A (registration appeals: dentists register)[^f00045]—
+**35.**[^c-7d6c5012e7414e714c9857e094dbb466] In Schedule 2A (registration appeals: dentists register)[^f00045]—
 
 - (a) in paragraph 1, for the definition of “the requisite period”, substitute—
 
@@ -591,11 +591,11 @@ The Dentists Act 1984[^f00030] is amended as follows.
   ; and
 - (b) in paragraph 2(1)(a), for “or (c)”, substitute “, (c) or (d)”.
 
-#### 36. Amendments to the Opticians Act 1989[^key-464497a569ee733e092c1009885ebd25]
+#### 36. Amendments to the Opticians Act 1989[^c-464497a569ee733e092c1009885ebd25]
 
 The Opticians Act 1989[^f00046] is amended as follows.
 
-**37.**[^key-388346e671bb9b57c6e2fcbbcb35eb5e] In section 8 (qualifications for being registered)[^f00047]—
+**37.**[^c-388346e671bb9b57c6e2fcbbcb35eb5e] In section 8 (qualifications for being registered)[^f00047]—
 
 - (a) omit subsection (2C);
 - (b) after that subsection, insert—
@@ -630,7 +630,7 @@ The Opticians Act 1989[^f00046] is amended as follows.
 
   .
 
-**38.**[^key-1ef9e6a79c1c60ab5c70b5d151dcd8dc] After section 8, insert—
+**38.**[^c-1ef9e6a79c1c60ab5c70b5d151dcd8dc] After section 8, insert—
 
 > **8ZA. Section 8: further provision relating to specified state qualifications**
 >
@@ -648,7 +648,7 @@ The Opticians Act 1989[^f00046] is amended as follows.
 
 .
 
-**39.**[^key-44a4fe7ec72e6f371657e9d2110e41a2] In section 10 (general provisions as to registers and lists)[^f00048], after subsection (1), insert—
+**39.**[^c-44a4fe7ec72e6f371657e9d2110e41a2] In section 10 (general provisions as to registers and lists)[^f00048], after subsection (1), insert—
 
 > (1ZB) If rules under this section prescribe a fee to be charged on the entry of a person’s name in the register in a case where the person applies for registration in reliance on a specified state qualification, the fee must be—
 >
@@ -676,7 +676,7 @@ The Opticians Act 1989[^f00046] is amended as follows.
 
 .
 
-**40.**[^key-bbf950fa89d2437964e051fc5d32d484] After section 13A (the Council’s duty to provide guidance on fitness to practise)[^f00049] insert—
+**40.**[^c-bbf950fa89d2437964e051fc5d32d484] After section 13A (the Council’s duty to provide guidance on fitness to practise)[^f00049] insert—
 
 > **13AA. Information to be provided to specified state professionals**
 >
@@ -693,7 +693,7 @@ The Opticians Act 1989[^f00046] is amended as follows.
 
 .
 
-**41.**[^key-fb771ab1ecb89c3e08b644104d7ac3bb] In section 36 (interpretation)[^f00050], at the appropriate places, insert—
+**41.**[^c-fb771ab1ecb89c3e08b644104d7ac3bb] In section 36 (interpretation)[^f00050], at the appropriate places, insert—
 
 > - “**adaptation period**” means a period of practice, subject to an assessment and, where necessary, accompanied by further training, which is supervised by a registered optometrist or registered dispensing optician;
 
@@ -711,11 +711,11 @@ The Opticians Act 1989[^f00046] is amended as follows.
 
 .
 
-#### 42. Amendments to the Osteopaths Act 1993[^key-eb896641b012cb800c3dfb39bacb2424]
+#### 42. Amendments to the Osteopaths Act 1993[^c-eb896641b012cb800c3dfb39bacb2424]
 
 The Osteopaths Act 1993[^f00051] is amended as follows.
 
-**43.**[^key-e0c5924174c313b4d88d1625bc1c2de5] In section 3 (full registration)[^f00052]—
+**43.**[^c-e0c5924174c313b4d88d1625bc1c2de5] In section 3 (full registration)[^f00052]—
 
 - (a) for subsection (2)(d), substitute—
 
@@ -732,7 +732,7 @@ The Osteopaths Act 1993[^f00051] is amended as follows.
 
   .
 
-**44.**[^key-b4b33d8df433ef4938cd5c81916d5df4] In section 6 (registration: supplemental provision)[^f00053], after subsection (4), insert—
+**44.**[^c-b4b33d8df433ef4938cd5c81916d5df4] In section 6 (registration: supplemental provision)[^f00053], after subsection (4), insert—
 
 > (4B) Subsections (2) to (4) are subject to subsection (4C) and section 6A.
 >
@@ -744,7 +744,7 @@ The Osteopaths Act 1993[^f00051] is amended as follows.
 
 .
 
-**45.**[^key-982555764705f18f9ee002021bf03eb5] After section 6, insert—
+**45.**[^c-982555764705f18f9ee002021bf03eb5] After section 6, insert—
 
 > **6A. Registration: provision relating to specified state professionals**
 >
@@ -769,7 +769,7 @@ The Osteopaths Act 1993[^f00051] is amended as follows.
 
 .
 
-**46.**[^key-ee6012e4079c33a123332b6923cdae8c] In section 14 (recognition of qualifications)[^f00054], after subsection (2A), insert—
+**46.**[^c-ee6012e4079c33a123332b6923cdae8c] In section 14 (recognition of qualifications)[^f00054], after subsection (2A), insert—
 
 > (2B) The General Council may determine that a specified state qualification is not evidence of having reached a standard of proficiency comparable to that evidenced by a qualification recognised under subsection (2) only where one or more of Conditions 1 to 3 are met.
 >
@@ -781,7 +781,7 @@ The Osteopaths Act 1993[^f00051] is amended as follows.
 
 .
 
-**47.**[^key-238e5764f0da64c8ab6a13fb0a2b3fc3] After section 14, insert—
+**47.**[^c-238e5764f0da64c8ab6a13fb0a2b3fc3] After section 14, insert—
 
 > **14A. Section 14: further provision relating to specified state professionals**
 >
@@ -799,7 +799,7 @@ The Osteopaths Act 1993[^f00051] is amended as follows.
 
 .
 
-**48.**[^key-63d223c8f2e49766cb68588fdbaf66c7] After section 19 (the Code of Practice), insert—
+**48.**[^c-63d223c8f2e49766cb68588fdbaf66c7] After section 19 (the Code of Practice), insert—
 
 > **19A. Information to be made available to specified state professionals**
 >
@@ -816,7 +816,7 @@ The Osteopaths Act 1993[^f00051] is amended as follows.
 
 .
 
-**49.**[^key-1c762322adacb642cae23bf1a9d4ce6a] In section 29 (appeals against decisions of the Registrar)[^f00055]—
+**49.**[^c-1c762322adacb642cae23bf1a9d4ce6a] In section 29 (appeals against decisions of the Registrar)[^f00055]—
 
 - (a) after subsection (1)(a) insert—
 
@@ -830,7 +830,7 @@ The Osteopaths Act 1993[^f00051] is amended as follows.
 
   .
 
-**50.**[^key-20694682b36480fdecf4d7953f015726] In section 41 (interpretation)[^f00056], at the appropriate places, insert—
+**50.**[^c-20694682b36480fdecf4d7953f015726] In section 41 (interpretation)[^f00056], at the appropriate places, insert—
 
 > - “**adaptation period**” means a period of practice, subject to an assessment and, where necessary, accompanied by further training, which is supervised by a fully registered osteopath;
 
@@ -848,11 +848,11 @@ The Osteopaths Act 1993[^f00051] is amended as follows.
 
 .
 
-#### 51. Amendments to the Chiropractors Act 1994[^key-733e4f2f2a85394275d5bd3d4d20c87e]
+#### 51. Amendments to the Chiropractors Act 1994[^c-733e4f2f2a85394275d5bd3d4d20c87e]
 
 The Chiropractors Act 1994[^f00057] is amended as follows.
 
-**52.**[^key-149d17086620e7c5fd1c67f9b8dc719a] In section 3 (full registration)[^f00058]—
+**52.**[^c-149d17086620e7c5fd1c67f9b8dc719a] In section 3 (full registration)[^f00058]—
 
 - (a) for subsection (2)(d), substitute—
 
@@ -869,7 +869,7 @@ The Chiropractors Act 1994[^f00057] is amended as follows.
 
   .
 
-**53.**[^key-db4f6d547ae1faf7a1f3d621afdaa296] In section 6 (registration: supplemental provision)[^f00059], after subsection (4), insert—
+**53.**[^c-db4f6d547ae1faf7a1f3d621afdaa296] In section 6 (registration: supplemental provision)[^f00059], after subsection (4), insert—
 
 > (4B) Subsections (2) to (4) are subject to subsection (4C) and section 6A.
 >
@@ -881,7 +881,7 @@ The Chiropractors Act 1994[^f00057] is amended as follows.
 
 .
 
-**54.**[^key-a3a65e27046f12f213b604dd7557dfe9] After section 6, insert—
+**54.**[^c-a3a65e27046f12f213b604dd7557dfe9] After section 6, insert—
 
 > **6A. Registration: provision relating to specified state professionals**
 >
@@ -906,7 +906,7 @@ The Chiropractors Act 1994[^f00057] is amended as follows.
 
 .
 
-**55.**[^key-fb1b3331e191041f82c2c6934cb03264] In section 14 (recognition of qualifications)[^f00060], after subsection (2A), insert—
+**55.**[^c-fb1b3331e191041f82c2c6934cb03264] In section 14 (recognition of qualifications)[^f00060], after subsection (2A), insert—
 
 > (2B) The General Council may determine that a specified state qualification is not evidence of having reached a standard of proficiency comparable to that evidenced by a qualification recognised under subsection (2) only where one or more of Conditions 1 to 3 are met.
 >
@@ -918,7 +918,7 @@ The Chiropractors Act 1994[^f00057] is amended as follows.
 
 .
 
-**56.**[^key-9c96522b25e39d4ac1759b6fe2ac0db0] After section 14, insert—
+**56.**[^c-9c96522b25e39d4ac1759b6fe2ac0db0] After section 14, insert—
 
 > **14A. Section 14: further provision relating to specified state professionals**
 >
@@ -936,7 +936,7 @@ The Chiropractors Act 1994[^f00057] is amended as follows.
 
 .
 
-**57.**[^key-b6f1746e352bf803956449a58f2c7fce] After section 19 (the code of practice), insert—
+**57.**[^c-b6f1746e352bf803956449a58f2c7fce] After section 19 (the code of practice), insert—
 
 > **19A. Information for specified state professionals**
 >
@@ -953,7 +953,7 @@ The Chiropractors Act 1994[^f00057] is amended as follows.
 
 .
 
-**58.**[^key-ab8fa280de9d881edc5fed98a391d52d] In section 29 (appeals against decisions of the Registrar)[^f00061]—
+**58.**[^c-ab8fa280de9d881edc5fed98a391d52d] In section 29 (appeals against decisions of the Registrar)[^f00061]—
 
 - (a) after subsection (1)(a), insert—
 
@@ -967,7 +967,7 @@ The Chiropractors Act 1994[^f00057] is amended as follows.
 
   .
 
-**59.**[^key-2a4e1c332ed50df09bfc225c2c6475d3] In section 43 (interpretation)[^f00062], at the appropriate places, insert—
+**59.**[^c-2a4e1c332ed50df09bfc225c2c6475d3] In section 43 (interpretation)[^f00062], at the appropriate places, insert—
 
 > - “**adaptation period**” means a period of practice, subject to an assessment and, where necessary, accompanied by further training, which is supervised by a registered chiropractor;
 
@@ -985,17 +985,17 @@ The Chiropractors Act 1994[^f00057] is amended as follows.
 
 .
 
-#### 60. Amendments to the Nursing and Midwifery Order 2001[^key-86359dc0d0abecc22ec035e6d382ef4c]
+#### 60. Amendments to the Nursing and Midwifery Order 2001[^c-86359dc0d0abecc22ec035e6d382ef4c]
 
 The Nursing and Midwifery Order 2001[^f00063] is amended as follows.
 
-**61.**[^key-545d59ba947e5794a6597c001ed7fb4c] In article 5A (supplementary provisions as to necessary knowledge of English)[^f00064], after paragraph (6), insert—
+**61.**[^c-545d59ba947e5794a6597c001ed7fb4c] In article 5A (supplementary provisions as to necessary knowledge of English)[^f00064], after paragraph (6), insert—
 
 > (6A) A requirement imposed by the Council under sub-paragraph (6)(a) must be proportionate to the level of language skills referred to in article 9(2)(ba).
 
 .
 
-**62.**[^key-ad536a5eea472386538a45da825bef1a] In article 7 (the register: supplemental provisions)[^f00065], after paragraph (2), insert—
+**62.**[^c-ad536a5eea472386538a45da825bef1a] In article 7 (the register: supplemental provisions)[^f00065], after paragraph (2), insert—
 
 > (2A) Where the applicant applies in reliance on a specified state qualification or qualifications, the Registrar may not request more documentary and other evidence than is necessary to demonstrate to the Registrar that the applicant has satisfied the conditions specified in article 9(2).
 >
@@ -1011,7 +1011,7 @@ The Nursing and Midwifery Order 2001[^f00063] is amended as follows.
 
 .
 
-**63.**[^key-436213eadd76d9d9843c3fba574f194d] In article 9 (registration)[^f00066]—
+**63.**[^c-436213eadd76d9d9843c3fba574f194d] In article 9 (registration)[^f00066]—
 
 - (a) after paragraph (4), insert—
 
@@ -1033,7 +1033,7 @@ The Nursing and Midwifery Order 2001[^f00063] is amended as follows.
 
   .
 
-**64.**[^key-09049bbbca02ded9cf0429e985fa88bb] In article 13 (approved qualifications)[^f00067]—
+**64.**[^c-09049bbbca02ded9cf0429e985fa88bb] In article 13 (approved qualifications)[^f00067]—
 
 - (a) for paragraph (1)(d)(iii), substitute—
 
@@ -1052,7 +1052,7 @@ The Nursing and Midwifery Order 2001[^f00063] is amended as follows.
 
   .
 
-**65.**[^key-7e1dc94d93ee54fab3c638b0490e2da3] After article 13, insert—
+**65.**[^c-7e1dc94d93ee54fab3c638b0490e2da3] After article 13, insert—
 
 > **13ZA. Article 13: further provision relating to specified state professionals**
 >
@@ -1070,7 +1070,7 @@ The Nursing and Midwifery Order 2001[^f00063] is amended as follows.
 
 .
 
-**66.**[^key-7ec5e9f79af630822d0050a5ecbf6860] After article 21 (Council’s functions in respect of fitness to practise, ethics and other matters)[^f00068], insert—
+**66.**[^c-7ec5e9f79af630822d0050a5ecbf6860] After article 21 (Council’s functions in respect of fitness to practise, ethics and other matters)[^f00068], insert—
 
 > **21A. Information for specified state professionals**
 >
@@ -1087,7 +1087,7 @@ The Nursing and Midwifery Order 2001[^f00063] is amended as follows.
 
 .
 
-**67.**[^key-c16d90d61a80d113fab8022944bee14d] In Schedule 4 (interpretation)[^f00069], at the appropriate places, insert—
+**67.**[^c-c16d90d61a80d113fab8022944bee14d] In Schedule 4 (interpretation)[^f00069], at the appropriate places, insert—
 
 > - “**adaptation period**” means a period of practice, subject to an assessment and, where necessary, accompanied by further training, which is supervised by a registered nurse, midwife or nursing associate;
 
@@ -1105,13 +1105,13 @@ The Nursing and Midwifery Order 2001[^f00063] is amended as follows.
 
 .
 
-#### 68. Amendments to the Health Professions Order 2001[^key-b6400925052d2ebd174dfae06fc17254]
+#### 68. Amendments to the Health Professions Order 2001[^c-b6400925052d2ebd174dfae06fc17254]
 
 The Health Professions Order 2001[^f00070] is amended as follows.
 
-**69.**[^key-7a3fe54c134b068e432e72313284790d] In article 7 (the register: supplemental provisions)[^f00071], in paragraph (2), for “The rules”, substitute “Subject to article 7A, the rules”.
+**69.**[^c-7a3fe54c134b068e432e72313284790d] In article 7 (the register: supplemental provisions)[^f00071], in paragraph (2), for “The rules”, substitute “Subject to article 7A, the rules”.
 
-**70.**[^key-8eaf3d46b8dd726dfeb069c43c1d4aa4] After article 7 insert—
+**70.**[^c-8eaf3d46b8dd726dfeb069c43c1d4aa4] After article 7 insert—
 
 > **7A. The register: specified state professionals - supplemental provisions**
 >
@@ -1128,7 +1128,7 @@ The Health Professions Order 2001[^f00070] is amended as follows.
 
 .
 
-**71.**[^key-1cfb6f7a36a19aa9e52b10fa54dc058d] In article 9 (registration)[^f00072]—
+**71.**[^c-1cfb6f7a36a19aa9e52b10fa54dc058d] In article 9 (registration)[^f00072]—
 
 - (a) in paragraph (2), for sub-paragraph (a), substitute—
 
@@ -1159,7 +1159,7 @@ The Health Professions Order 2001[^f00070] is amended as follows.
 
   .
 
-**72.**[^key-5c1ec1acbfef28c3187a1c190f895f65] In article 12 (approved qualifications)[^f00073], after paragraph (1), insert—
+**72.**[^c-5c1ec1acbfef28c3187a1c190f895f65] In article 12 (approved qualifications)[^f00073], after paragraph (1), insert—
 
 > (1ZA) The Council may determine that a specified state qualification is not evidence of having reached a standard of proficiency comparable to that evidenced by a qualification approved under paragraph (1)(a) only where one or more of Conditions 1 to 3 are met.
 >
@@ -1171,7 +1171,7 @@ The Health Professions Order 2001[^f00070] is amended as follows.
 
 .
 
-**73.**[^key-2755254bc1a914394e0efefc8b816f05] After article 12, insert—
+**73.**[^c-2755254bc1a914394e0efefc8b816f05] After article 12, insert—
 
 > **12A. Article 12: further provision relating to specified state professionals**
 >
@@ -1190,13 +1190,13 @@ The Health Professions Order 2001[^f00070] is amended as follows.
 
 .
 
-**74.**[^key-687497dd2659e858f97fa6c1fe09310f] In article 15 (education and training), after paragraph (5), insert—
+**74.**[^c-687497dd2659e858f97fa6c1fe09310f] In article 15 (education and training), after paragraph (5), insert—
 
 > (5A) If the Council requires a specified state professional to undergo a test of competence or knowledge of English, the test must be proportionate to the level required to satisfy the standards under this article.
 
 .
 
-**75.**[^key-b9a517427b5ff3e07be01bc6306ec13a] After article 21 (Council’s functions in respect of fitness to practise, ethics and other matters)[^f00074], insert—
+**75.**[^c-b9a517427b5ff3e07be01bc6306ec13a] After article 21 (Council’s functions in respect of fitness to practise, ethics and other matters)[^f00074], insert—
 
 > **21A. Information for specified state professionals**
 >
@@ -1213,7 +1213,7 @@ The Health Professions Order 2001[^f00070] is amended as follows.
 
 .
 
-**76.**[^key-d1393d9b735230483e853c2270c247b0] In Schedule 3 (interpretation)[^f00075], in paragraph 1, at the appropriate places insert—
+**76.**[^c-d1393d9b735230483e853c2270c247b0] In Schedule 3 (interpretation)[^f00075], in paragraph 1, at the appropriate places insert—
 
 > - “**adaptation period**” means a period of practice, subject to an assessment and, where necessary, accompanied by further training, which is supervised by a registered professional of the corresponding relevant profession;
 
@@ -1231,11 +1231,11 @@ The Health Professions Order 2001[^f00070] is amended as follows.
 
 .
 
-#### 77. Amendments to the Pharmacy Order 2010[^key-5c640771076b837c17a01fb4b208c638]
+#### 77. Amendments to the Pharmacy Order 2010[^c-5c640771076b837c17a01fb4b208c638]
 
 The Pharmacy Order 2010[^f00076] is amended as follows.
 
-**78.**[^key-e2c18bd831eb4366656f0ff4894a2d2f] In article 3 (interpretation)[^f00077], in paragraph (1), at the appropriate places, insert—
+**78.**[^c-e2c18bd831eb4366656f0ff4894a2d2f] In article 3 (interpretation)[^f00077], in paragraph (1), at the appropriate places, insert—
 
 > - “**adaptation period**” means a period of practice, subject to an assessment and, where necessary, accompanied by further training, which is supervised by a registered pharmacist or registered pharmacy technician;
 
@@ -1253,7 +1253,7 @@ The Pharmacy Order 2010[^f00076] is amended as follows.
 
 .
 
-**79.**[^key-bd6a25d8b9d7d911c302cedb3c6b6b7d] After article 20 (entitlement to entry in Part 1 or 2 of the Register: pharmacists and pharmacy technicians)[^f00078], insert—
+**79.**[^c-bd6a25d8b9d7d911c302cedb3c6b6b7d] After article 20 (entitlement to entry in Part 1 or 2 of the Register: pharmacists and pharmacy technicians)[^f00078], insert—
 
 > **20A. Article 20: further provision relating to specified state professionals**
 >
@@ -1271,7 +1271,7 @@ The Pharmacy Order 2010[^f00076] is amended as follows.
 
 .
 
-**80.**[^key-c076de0004442cf6d707e8717f555536] In article 21 (pre-entry requirements in respect of qualifications and additional education, training or experience: pharmacists)[^f00079]—
+**80.**[^c-c076de0004442cf6d707e8717f555536] In article 21 (pre-entry requirements in respect of qualifications and additional education, training or experience: pharmacists)[^f00079]—
 
 - (a) in paragraph (1B), after “In this article”, insert “and article 20A”;
 - (b) after paragraph (1C), insert—
@@ -1286,7 +1286,7 @@ The Pharmacy Order 2010[^f00076] is amended as follows.
 
   .
 
-**81.**[^key-eb31e391a5b18d4ac42c5c7c348f26a8] In article 22 (pre-entry requirements in respect of qualifications and additional education, training or experience: pharmacy technicians)[^f00080], after paragraph (1), insert—
+**81.**[^c-eb31e391a5b18d4ac42c5c7c348f26a8] In article 22 (pre-entry requirements in respect of qualifications and additional education, training or experience: pharmacy technicians)[^f00080], after paragraph (1), insert—
 
 > (1A) The Council may determine that a specified state qualification is not evidence of having reached a standard of proficiency comparable to that evidenced by a qualification approved under paragraph (1)(a) only where one or more of Conditions 1 to 3 are met.
 >
@@ -1298,7 +1298,7 @@ The Pharmacy Order 2010[^f00076] is amended as follows.
 
 .
 
-**82.**[^key-9d17e160a817b95c5689071bf0a65f3b] In article 23 (form, manner and content of applications for entry or for renewal of an entry in the Register: pharmacists and pharmacy technicians)[^f00081]—
+**82.**[^c-9d17e160a817b95c5689071bf0a65f3b] In article 23 (form, manner and content of applications for entry or for renewal of an entry in the Register: pharmacists and pharmacy technicians)[^f00081]—
 
 - (a) in paragraph (1), for “The Council”, substitute “Subject to paragraphs (1A) and (1B), the Council”;
 - (b) after paragraph (1), insert—
@@ -1311,13 +1311,13 @@ The Pharmacy Order 2010[^f00076] is amended as follows.
 
   .
 
-**83.**[^key-15e203f69a8959873fa44ec59397a653] In article 23A (supplementary provisions as to necessary knowledge of English)[^f00082], after paragraph (6), insert—
+**83.**[^c-15e203f69a8959873fa44ec59397a653] In article 23A (supplementary provisions as to necessary knowledge of English)[^f00082], after paragraph (6), insert—
 
 > (6A) Where the Registrar requires a specified state professional to undergo an examination or other assessment, the examination or assessment must be proportionate to the level of English required to satisfy the Registrar under this article.
 
 .
 
-**84.**[^key-7ce8fae54733eac7e5bd0262fedf03e3] In article 24 (notification by the Registrar: entry and renewal)[^f00083]—
+**84.**[^c-7ce8fae54733eac7e5bd0262fedf03e3] In article 24 (notification by the Registrar: entry and renewal)[^f00083]—
 
 - (a) after paragraph (2), insert—
 
@@ -1338,7 +1338,7 @@ The Pharmacy Order 2010[^f00076] is amended as follows.
   ;
 - (d) in paragraph (5A), for “period of three months for the purposes of paragraph (3) or (4)”, substitute “relevant period”.
 
-**85.**[^key-6661904fbfca398e3a2659565a49db16] After article 36 (fees in connection with entry)[^f00084] insert—
+**85.**[^c-6661904fbfca398e3a2659565a49db16] After article 36 (fees in connection with entry)[^f00084] insert—
 
 > **36A. Additional requirements for specified state professionals**
 >
@@ -1350,7 +1350,7 @@ The Pharmacy Order 2010[^f00076] is amended as follows.
 
 .
 
-**86.**[^key-d3b25f60c8c4c4567af576493a667811] After article 48 (standards of conduct and performance)[^f00085], insert—
+**86.**[^c-d3b25f60c8c4c4567af576493a667811] After article 48 (standards of conduct and performance)[^f00085], insert—
 
 > **48A. Information for specified state professionals**
 >
@@ -1367,17 +1367,17 @@ The Pharmacy Order 2010[^f00076] is amended as follows.
 
 .
 
-#### 87. Amendments to the Postgraduate Medical Education and Training Order of Council 2010[^key-23462307013b87a7b55a7a4255cb9e30]
+#### 87. Amendments to the Postgraduate Medical Education and Training Order of Council 2010[^c-23462307013b87a7b55a7a4255cb9e30]
 
 The Postgraduate Medical Education and Training Order of Council 2010[^f00086] is amended as follows.
 
-**88.**[^key-01d39872de7c7251af3e4951a5e22535] In article 4 (general practitioners eligible for entry in the General Practitioner Register)[^f00087], after paragraph (4), insert—
+**88.**[^c-01d39872de7c7251af3e4951a5e22535] In article 4 (general practitioners eligible for entry in the General Practitioner Register)[^f00087], after paragraph (4), insert—
 
 > (4A) Persons are also eligible general practitioners for the purposes of article 3(1)(a) if they are entitled to have their qualification in general practice recognised by virtue of Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023.
 
 .
 
-**89.**[^key-97476e12a5dd22b07b23e4e13efb9aea] In article 8 (specialists eligible for entry in the Specialist Register)[^f00088], after paragraph (6), insert—
+**89.**[^c-97476e12a5dd22b07b23e4e13efb9aea] In article 8 (specialists eligible for entry in the Specialist Register)[^f00088], after paragraph (6), insert—
 
 > (6A) A person is also an eligible specialist for the purposes of article 7(1)(a) if that person is entitled to have their specialist qualification recognised by virtue of Part 2 of the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023.
 
@@ -1385,7 +1385,7 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
 ### PART 6 — Amendments in relation to the professions of statutory auditor and local public auditor
 
-#### 90. Amendments to the Companies Act 2006[^key-e6520c6f82dfd23ab42e64d6e42197a3]
+#### 90. Amendments to the Companies Act 2006[^c-e6520c6f82dfd23ab42e64d6e42197a3]
 
 (1) Schedule 10 to the Companies Act 2006 (recognised supervisory bodies)[^f00089] is amended as follows.
 
@@ -1409,7 +1409,7 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
 .
 
-#### 91. Amendments to the Local Audit and Accountability Act 2014[^key-bf0293cb8508ae509108fa6cd89bdd10]
+#### 91. Amendments to the Local Audit and Accountability Act 2014[^c-bf0293cb8508ae509108fa6cd89bdd10]
 
 (1) Schedule 5 to the Local Audit and Accountability Act 2014 (eligibility and regulation of local auditors)[^f00092] is amended as follows.
 
@@ -1451,7 +1451,7 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
 ### PART 7 — Amendments in relation to professions in transport
 
-#### 92. Amendments to the Road Safety Act 2006[^key-900ac1e98aaf55feb824fdfed58d92e8]
+#### 92. Amendments to the Road Safety Act 2006[^c-900ac1e98aaf55feb824fdfed58d92e8]
 
 (1) The Road Safety Act 2006[^f00095] is amended as follows.
 
@@ -1480,7 +1480,7 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
   .
 
-#### 93. Amendments to the Motor Vehicles (Driving Licences) Regulations 1999[^key-96f4f5879632824338725d5d9c4f3f4e]
+#### 93. Amendments to the Motor Vehicles (Driving Licences) Regulations 1999[^c-96f4f5879632824338725d5d9c4f3f4e]
 
 (1) The Motor Vehicles (Driving Licences) Regulations 1999[^f00096] are amended as follows.
 
@@ -1496,13 +1496,13 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
 .
 
-#### 94. Amendments to the Motor Cars (Driving Instruction) Regulations 2005[^key-8d9e92b62de83dec8828a0292e1220f5]
+#### 94. Amendments to the Motor Cars (Driving Instruction) Regulations 2005[^c-8d9e92b62de83dec8828a0292e1220f5]
 
 (1) The Motor Cars (Driving Instruction) Regulations 2005[^f00097] are amended as follows.
 
 (2) In regulation 17(1) (fees), in column (2) of the Table, in item (9), after “125(3A)(b)” insert “, (3B)(b)”.
 
-#### 95. Amendments to the Road Traffic (Northern Ireland) Order 2007[^key-72db9f9d5c14dea777e5ee19cd48f545]
+#### 95. Amendments to the Road Traffic (Northern Ireland) Order 2007[^c-72db9f9d5c14dea777e5ee19cd48f545]
 
 (1) The Road Traffic (Northern Ireland) Order 2007[^f00098] is amended as follows.
 
@@ -1540,7 +1540,7 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
 .
 
-#### 96. Amendments to the Train Driving Licences and Certificates Regulations 2010[^key-f15e5d19ed0bb132c3dda7487ad86e0a]
+#### 96. Amendments to the Train Driving Licences and Certificates Regulations 2010[^c-f15e5d19ed0bb132c3dda7487ad86e0a]
 
 (1) The Train Driving Licences and Certificates Regulations 2010[^f00099] are amended as follows.
 
@@ -1560,7 +1560,7 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
   .
 
-#### 97. Amendments to the Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016[^key-00d745a584c934e096434eb1d3a7af8e]
+#### 97. Amendments to the Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016[^c-00d745a584c934e096434eb1d3a7af8e]
 
 (1) The Driving and Motorcycle Riding Instructors (Recognition of European Professional Qualifications) Regulations 2016[^f00100] are amended as follows.
 
@@ -1593,7 +1593,7 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
   .
 
-#### 98. Amendments to the Street Works (Qualifications of Operatives and Supervisors) (England) Regulations 2016[^key-fd2e13dbd317146c54c89a456f1bdc0f]
+#### 98. Amendments to the Street Works (Qualifications of Operatives and Supervisors) (England) Regulations 2016[^c-fd2e13dbd317146c54c89a456f1bdc0f]
 
 (1) The Street Works (Qualifications of Operatives and Supervisors) (England) Regulations 2016[^f00101] are amended as follows.
 
@@ -1624,69 +1624,69 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
 ## Annotations
 
-[^key-229d0e06a0acf7a4e4758c21c7abeb7f]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3) heading substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2024/1379/regulation/14)
+[^c-229d0e06a0acf7a4e4758c21c7abeb7f]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3) heading substituted (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [14](https://www.legislation.gov.uk/uksi/2024/1379/regulation/14)
 
-[^key-8de43f84fb8f8dca24b77079623b4fe3]: Commencement: Sch. 3 para. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-8de43f84fb8f8dca24b77079623b4fe3]: Commencement: Sch. 3 para. 1 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00011]: Footnote: EUR 2005/1. Paragraph 3 of Annex 4 was inserted by [S.I. 2019/802](https://www.legislation.gov.uk/uksi/2019/802), as amended by [S.I. 2020/1590](https://www.legislation.gov.uk/uksi/2020/1590). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-1733a17e45676795c3701fc56b1e331b]: Commencement: Sch. 3 para. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-1733a17e45676795c3701fc56b1e331b]: Commencement: Sch. 3 para. 2 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00012]: Footnote: EUR 2009/1099, as amended by [S.I. 2019/802](https://www.legislation.gov.uk/uksi/2019/802). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-3adf5f17a05250c14464b1413a558c54]: Commencement: Sch. 3 para. 3 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-3adf5f17a05250c14464b1413a558c54]: Commencement: Sch. 3 para. 3 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2015/1782](https://www.legislation.gov.uk/uksi/2015/1782), as amended by [S.I. 2019/1308](https://www.legislation.gov.uk/uksi/2019/1308). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-188d68e0ddb485a79255bf60791f2c96]: Commencement: Sch. 3 para. 4 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-188d68e0ddb485a79255bf60791f2c96]: Commencement: Sch. 3 para. 4 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00014]: Footnote: [S.I. 2003/1662](https://www.legislation.gov.uk/uksi/2003/1662), as amended by [S.I. 2012/431](https://www.legislation.gov.uk/uksi/2012/431) and [2022/1256](https://www.legislation.gov.uk/uksi/2022/1256). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-ddff9c9e3e8aabae6510071d84f954f9]: Commencement: Sch. 3 para. 5 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-ddff9c9e3e8aabae6510071d84f954f9]: Commencement: Sch. 3 para. 5 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2012/1115](https://www.legislation.gov.uk/uksi/2012/1115). Paragraph 25 of Schedule 1 was inserted by [S.I. 2022/1256](https://www.legislation.gov.uk/uksi/2022/1256). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-fd449cf9ea941803db564f1e7685b47f]: Commencement: Sch. 3 para. 6 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-fd449cf9ea941803db564f1e7685b47f]: Commencement: Sch. 3 para. 6 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00016]: Footnote: EUR 2014/517, as amended by [S.I. 2019/583](https://www.legislation.gov.uk/uksi/2019/583) and [S.I. 2020/1616](https://www.legislation.gov.uk/uksi/2020/1616). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-3815b93df0199c3b8fb38bbdc5f18787]: Commencement: Sch. 3 para. 7 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-3815b93df0199c3b8fb38bbdc5f18787]: Commencement: Sch. 3 para. 7 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00017]: Footnote: [S.I. 2015/168](https://www.legislation.gov.uk/uksi/2015/168), to which there are amendments but none is relevant to these Regulations.
 
 [^f00018]: Footnote: Details can be obtained from the British Pest Control Association, 4A Mallard Way, Pride Park, Derby, DE24 8GX, telephone number: 01332 294288/225113; email: enquiry@bpca.org.uk.
 
-[^key-fbde2f5140c8cfe5b33de6b1bd137060]: Commencement: Sch. 3 para. 8 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-fbde2f5140c8cfe5b33de6b1bd137060]: Commencement: Sch. 3 para. 8 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2013/264](https://www.legislation.gov.uk/uksi/2013/264). Parts 1 and 2 of Schedule 2 have been amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-c66f7ceb5135c5a801af75ba701957eb]: Commencement: Sch. 3 para. 9 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-c66f7ceb5135c5a801af75ba701957eb]: Commencement: Sch. 3 para. 9 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00020]: Footnote: [S.R. 2013 No. 66](https://www.legislation.gov.uk/nisr/2013/66), to which there are amendments but none is relevant to these Regulations.
 
-[^key-66252b338ffc557e330274d3bbda6b1c]: Commencement: Sch. 3 para. 10 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-66252b338ffc557e330274d3bbda6b1c]: Commencement: Sch. 3 para. 10 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00021]: Footnote: [1983 c. 54](https://www.legislation.gov.uk/ukpga/1983/54).
 
-[^key-e5f4d6887a5d4f279e22eea1136be801]: Commencement: Sch. 3 para. 11 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-e5f4d6887a5d4f279e22eea1136be801]: Commencement: Sch. 3 para. 11 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00022]: Footnote: Section 21B was inserted by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914). The relevant amendment was made by [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-a58d0f9fdabd6b219e719520068fe845]: Commencement: Sch. 3 para. 12 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-a58d0f9fdabd6b219e719520068fe845]: Commencement: Sch. 3 para. 12 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-1da6851e5fc403c344698f7186659cc4]: Commencement: Sch. 3 para. 13 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-1da6851e5fc403c344698f7186659cc4]: Commencement: Sch. 3 para. 13 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00023]: Footnote: Section 29G was inserted by [S.I. 2002/3135](https://www.legislation.gov.uk/uksi/2002/3135). There are amendments to section 29G but none is relevant to these Regulations.
 
-[^key-3adea44e1eaf4e1084f1cea9b9450bfc]: Commencement: Sch. 3 para. 14 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-3adea44e1eaf4e1084f1cea9b9450bfc]: Commencement: Sch. 3 para. 14 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00024]: Footnote: There are amendments to section 32 but none is relevant to these Regulations.
 
-[^key-05ebed787edd173f457898e8f73390df]: Commencement: Sch. 3 para. 15 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-05ebed787edd173f457898e8f73390df]: Commencement: Sch. 3 para. 15 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00025]: Footnote: Section 55 was renumbered as section 55(1) by [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), and amended by paragraph 23 of Schedule 19 to the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12) and [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [2006/1914](https://www.legislation.gov.uk/uksi/2006/1914), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2008/1774](https://www.legislation.gov.uk/uksi/2008/1774), [2010/234](https://www.legislation.gov.uk/uksi/2010/234), [2014/1101](https://www.legislation.gov.uk/uksi/2014/1101), [2015/794](https://www.legislation.gov.uk/uksi/2015/794), [2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [2019/419](https://www.legislation.gov.uk/uksi/2019/419) and [593](https://www.legislation.gov.uk/uksi/2019/593). There are other amendments to section 55 but none is relevant to these Regulations.
 
-[^key-caa69c537411aeb69c60a3ea0dabc8fb]: Commencement: Sch. 3 para. 16 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-caa69c537411aeb69c60a3ea0dabc8fb]: Commencement: Sch. 3 para. 16 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00026]: Footnote: Paragraph 3(3) was repealed by [S.I. 2006/1914](https://www.legislation.gov.uk/uksi/2006/1914). There are other amendments by paragraph 3 but none is relevant to these Regulations.
 
@@ -1694,273 +1694,273 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
 [^f00028]: Footnote: Paragraph 5 was amended by [S.I. 1996/1591](https://www.legislation.gov.uk/uksi/1996/1591), [2000/3041](https://www.legislation.gov.uk/uksi/2000/3041), [2002/3135](https://www.legislation.gov.uk/uksi/2002/3135), [2006/1914](https://www.legislation.gov.uk/uksi/2006/1914) and [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-ae0c640399bd8f3a37f963acc62663cb]: Commencement: Sch. 3 para. 17 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-ae0c640399bd8f3a37f963acc62663cb]: Commencement: Sch. 3 para. 17 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00029]: Footnote: There are amendments to paragraph 3 but none is relevant to these Regulations.
 
-[^key-b0023543f71b02cd177f32fce8b2e821]: Commencement: Sch. 3 para. 18 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-b0023543f71b02cd177f32fce8b2e821]: Commencement: Sch. 3 para. 18 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00030]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-a59cb37ee136917dbe24f012f4b4d3b4]: Commencement: Sch. 3 para. 19 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-a59cb37ee136917dbe24f012f4b4d3b4]: Commencement: Sch. 3 para. 19 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00031]: Footnote: Relevant amending instruments are [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2019/593](https://www.legislation.gov.uk/uksi/2019/593), [2020/394](https://www.legislation.gov.uk/uksi/2020/394) and [2023/162](https://www.legislation.gov.uk/uksi/2023/162).
 
-[^key-53452630ab833133be7be723c1fa0135]: Commencement: Sch. 3 para. 20 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-53452630ab833133be7be723c1fa0135]: Commencement: Sch. 3 para. 20 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-48c29901052213a92828bb3eaf423e00]: Commencement: Sch. 3 para. 21 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-48c29901052213a92828bb3eaf423e00]: Commencement: Sch. 3 para. 21 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00032]: Footnote: Section 15A was inserted by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806). There are amendments to section 15A but none is relevant to these Regulations.
 
-[^key-a2d0d26ceac528739a4977ae71a98625]: Commencement: Sch. 3 para. 22 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-a2d0d26ceac528739a4977ae71a98625]: Commencement: Sch. 3 para. 22 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00033]: Footnote: Relevant amending instruments are [S.I. 1996/1496](https://www.legislation.gov.uk/uksi/1996/1496), [2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2014/1887](https://www.legislation.gov.uk/uksi/2014/1887) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-0e0aee6a0ff1a03f0b2347094cfef315]: Commencement: Sch. 3 para. 23 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-0e0aee6a0ff1a03f0b2347094cfef315]: Commencement: Sch. 3 para. 23 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00034]: Footnote: Relevant amending instruments are [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2015/806](https://www.legislation.gov.uk/uksi/2015/806) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-2f8df794221665fa5e79f47b62effeec]: Commencement: Sch. 3 para. 24 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-2f8df794221665fa5e79f47b62effeec]: Commencement: Sch. 3 para. 24 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00035]: Footnote: Section 21A was inserted by [S.I. 1998/811](https://www.legislation.gov.uk/uksi/1998/811) and substituted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101). Section 21A was amended by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-ff58d338a411ac5e34ee65ff88518f83]: Commencement: Sch. 3 para. 25 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-ff58d338a411ac5e34ee65ff88518f83]: Commencement: Sch. 3 para. 25 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00036]: Footnote: Section 26B was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011). There are amendments to section 26B but none is relevant to these Regulations.
 
-[^key-4ac5837d2160c204a6144d93a5c17010]: Commencement: Sch. 3 para. 26 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-4ac5837d2160c204a6144d93a5c17010]: Commencement: Sch. 3 para. 26 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00037]: Footnote: Section 36C was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011). Relevant amending instruments are [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806), [2019/593](https://www.legislation.gov.uk/uksi/2019/593) and [2023/162](https://www.legislation.gov.uk/uksi/2023/162).
 
-[^key-18e9df305946b2af16a52851b7816724]: Commencement: Sch. 3 para. 27 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-18e9df305946b2af16a52851b7816724]: Commencement: Sch. 3 para. 27 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00038]: Footnote: Section 36CA was inserted by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806). There are amendments to section 36CA but none is relevant to these Regulations.
 
-[^key-b8462e8b9cb75d13aa13179605748590]: Commencement: Sch. 3 para. 28 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-b8462e8b9cb75d13aa13179605748590]: Commencement: Sch. 3 para. 28 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00039]: Footnote: Section 36E was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011). Section 36E was amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2015/806](https://www.legislation.gov.uk/uksi/2015/806) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-ffdb0181ced6d68e418e7f419c6bfc9e]: Commencement: Sch. 3 para. 29 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-ffdb0181ced6d68e418e7f419c6bfc9e]: Commencement: Sch. 3 para. 29 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-f3c544138efea0170c716b4a0beb22ac]: Commencement: Sch. 3 para. 30 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-f3c544138efea0170c716b4a0beb22ac]: Commencement: Sch. 3 para. 30 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00040]: Footnote: Section 36F was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011). There are amendments to section 36F but none is relevant to these Regulations.
 
-[^key-7c64957ea90ab08967b7cd83308d521c]: Commencement: Sch. 3 para. 31 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-7c64957ea90ab08967b7cd83308d521c]: Commencement: Sch. 3 para. 31 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00041]: Footnote: Section 36M was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011). There are amendments to section 36M but none is relevant to these Regulations.
 
-[^key-8363b90f95f13d60c064a89d74dd566e]: Commencement: Sch. 3 para. 32 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-8363b90f95f13d60c064a89d74dd566e]: Commencement: Sch. 3 para. 32 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00042]: Footnote: Section 37 was amended by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011). There are other amendments but none is relevant to these Regulations.
 
-[^key-75f3a8d6cca58cbc6e9351e2a1e6b1e0]: Commencement: Sch. 3 para. 33 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-75f3a8d6cca58cbc6e9351e2a1e6b1e0]: Commencement: Sch. 3 para. 33 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00043]: Footnote: There are amendments to section 38 but none is relevant to these Regulations.
 
-[^key-0b32f8726cd6de25dfc99a00b8e855bd]: Commencement: Sch. 3 para. 34 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-0b32f8726cd6de25dfc99a00b8e855bd]: Commencement: Sch. 3 para. 34 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00044]: Footnote: Section 53 was amended by paragraph 31 of Schedule 19 to the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12) and [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2015/806](https://www.legislation.gov.uk/uksi/2015/806), [2019/419](https://www.legislation.gov.uk/uksi/2019/419), [2019/593](https://www.legislation.gov.uk/uksi/2019/593) and [2023/162](https://www.legislation.gov.uk/uksi/2023/162). There are other amendments to regulation 53 but none is relevant to these Regulations.
 
-[^key-7d6c5012e7414e714c9857e094dbb466]: Commencement: Sch. 3 para. 35 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-7d6c5012e7414e714c9857e094dbb466]: Commencement: Sch. 3 para. 35 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00045]: Footnote: Schedule 2A was inserted by [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and amended by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593). There are other amendments to Schedule 2A but none is relevant to these Regulations.
 
-[^key-464497a569ee733e092c1009885ebd25]: Commencement: Sch. 3 para. 36 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-464497a569ee733e092c1009885ebd25]: Commencement: Sch. 3 para. 36 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00046]: Footnote: [1989 c. 44](https://www.legislation.gov.uk/ukpga/1989/44).
 
-[^key-388346e671bb9b57c6e2fcbbcb35eb5e]: Commencement: Sch. 3 para. 37 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-388346e671bb9b57c6e2fcbbcb35eb5e]: Commencement: Sch. 3 para. 37 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00047]: Footnote: Relevant amending instruments are [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-1ef9e6a79c1c60ab5c70b5d151dcd8dc]: Commencement: Sch. 3 para. 38 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-1ef9e6a79c1c60ab5c70b5d151dcd8dc]: Commencement: Sch. 3 para. 38 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-44a4fe7ec72e6f371657e9d2110e41a2]: Commencement: Sch. 3 para. 39 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-44a4fe7ec72e6f371657e9d2110e41a2]: Commencement: Sch. 3 para. 39 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00048]: Footnote: Relevant amending instruments are [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-bbf950fa89d2437964e051fc5d32d484]: Commencement: Sch. 3 para. 40 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-bbf950fa89d2437964e051fc5d32d484]: Commencement: Sch. 3 para. 40 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00049]: Footnote: Section 13A was inserted by [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848).
 
-[^key-fb771ab1ecb89c3e08b644104d7ac3bb]: Commencement: Sch. 3 para. 41 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-fb771ab1ecb89c3e08b644104d7ac3bb]: Commencement: Sch. 3 para. 41 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00050]: Footnote: Relevant amending instruments are [S.I. 2005/848](https://www.legislation.gov.uk/uksi/2005/848), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2008/1774](https://www.legislation.gov.uk/uksi/2008/1774) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-eb896641b012cb800c3dfb39bacb2424]: Commencement: Sch. 3 para. 42 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-eb896641b012cb800c3dfb39bacb2424]: Commencement: Sch. 3 para. 42 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00051]: Footnote: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21).
 
-[^key-e0c5924174c313b4d88d1625bc1c2de5]: Commencement: Sch. 3 para. 43 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-e0c5924174c313b4d88d1625bc1c2de5]: Commencement: Sch. 3 para. 43 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00052]: Footnote: There are amendments to section 3 but none is relevant to these Regulations.
 
-[^key-b4b33d8df433ef4938cd5c81916d5df4]: Commencement: Sch. 3 para. 44 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-b4b33d8df433ef4938cd5c81916d5df4]: Commencement: Sch. 3 para. 44 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00053]: Footnote: There are amendments to section 6 but none is relevant to these Regulations.
 
-[^key-982555764705f18f9ee002021bf03eb5]: Commencement: Sch. 3 para. 45 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-982555764705f18f9ee002021bf03eb5]: Commencement: Sch. 3 para. 45 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-ee6012e4079c33a123332b6923cdae8c]: Commencement: Sch. 3 para. 46 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-ee6012e4079c33a123332b6923cdae8c]: Commencement: Sch. 3 para. 46 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00054]: Footnote: The relevant amending instrument is [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-238e5764f0da64c8ab6a13fb0a2b3fc3]: Commencement: Sch. 3 para. 47 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-238e5764f0da64c8ab6a13fb0a2b3fc3]: Commencement: Sch. 3 para. 47 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-63d223c8f2e49766cb68588fdbaf66c7]: Commencement: Sch. 3 para. 48 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-63d223c8f2e49766cb68588fdbaf66c7]: Commencement: Sch. 3 para. 48 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-1c762322adacb642cae23bf1a9d4ce6a]: Commencement: Sch. 3 para. 49 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-1c762322adacb642cae23bf1a9d4ce6a]: Commencement: Sch. 3 para. 49 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00055]: Footnote: The relevant amending instrument is [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-20694682b36480fdecf4d7953f015726]: Commencement: Sch. 3 para. 50 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-20694682b36480fdecf4d7953f015726]: Commencement: Sch. 3 para. 50 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00056]: Footnote: Section 41 was amended by paragraph 9 of Schedule 2 to the Chiropractors Act [1994 (c. 17)](https://www.legislation.gov.uk/ukpga/1994/17) and [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2008/1774](https://www.legislation.gov.uk/uksi/2008/1774) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-733e4f2f2a85394275d5bd3d4d20c87e]: Commencement: Sch. 3 para. 51 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-733e4f2f2a85394275d5bd3d4d20c87e]: Commencement: Sch. 3 para. 51 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00057]: Footnote: [1994 c. 17](https://www.legislation.gov.uk/ukpga/1994/17).
 
-[^key-149d17086620e7c5fd1c67f9b8dc719a]: Commencement: Sch. 3 para. 52 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-149d17086620e7c5fd1c67f9b8dc719a]: Commencement: Sch. 3 para. 52 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00058]: Footnote: There are amendments to section 3 but none is relevant to these Regulations.
 
-[^key-db4f6d547ae1faf7a1f3d621afdaa296]: Commencement: Sch. 3 para. 53 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-db4f6d547ae1faf7a1f3d621afdaa296]: Commencement: Sch. 3 para. 53 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00059]: Footnote: There are amendments to section 6 but none is relevant to these Regulations.
 
-[^key-a3a65e27046f12f213b604dd7557dfe9]: Commencement: Sch. 3 para. 54 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-a3a65e27046f12f213b604dd7557dfe9]: Commencement: Sch. 3 para. 54 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-fb1b3331e191041f82c2c6934cb03264]: Commencement: Sch. 3 para. 55 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-fb1b3331e191041f82c2c6934cb03264]: Commencement: Sch. 3 para. 55 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00060]: Footnote: The relevant amending instrument is [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-9c96522b25e39d4ac1759b6fe2ac0db0]: Commencement: Sch. 3 para. 56 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-9c96522b25e39d4ac1759b6fe2ac0db0]: Commencement: Sch. 3 para. 56 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-b6f1746e352bf803956449a58f2c7fce]: Commencement: Sch. 3 para. 57 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-b6f1746e352bf803956449a58f2c7fce]: Commencement: Sch. 3 para. 57 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-ab8fa280de9d881edc5fed98a391d52d]: Commencement: Sch. 3 para. 58 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-ab8fa280de9d881edc5fed98a391d52d]: Commencement: Sch. 3 para. 58 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00061]: Footnote: The relevant amending instrument is [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-2a4e1c332ed50df09bfc225c2c6475d3]: Commencement: Sch. 3 para. 59 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-2a4e1c332ed50df09bfc225c2c6475d3]: Commencement: Sch. 3 para. 59 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00062]: Footnote: Relevant amending instruments are [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2008/1774](https://www.legislation.gov.uk/uksi/2008/1774) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-86359dc0d0abecc22ec035e6d382ef4c]: Commencement: Sch. 3 para. 60 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-86359dc0d0abecc22ec035e6d382ef4c]: Commencement: Sch. 3 para. 60 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00063]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253).
 
-[^key-545d59ba947e5794a6597c001ed7fb4c]: Commencement: Sch. 3 para. 61 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-545d59ba947e5794a6597c001ed7fb4c]: Commencement: Sch. 3 para. 61 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00064]: Footnote: Article 5A was inserted by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806). There are amendments to article 5A but none is relevant to these Regulations.
 
-[^key-ad536a5eea472386538a45da825bef1a]: Commencement: Sch. 3 para. 62 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-ad536a5eea472386538a45da825bef1a]: Commencement: Sch. 3 para. 62 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00065]: Footnote: There are amendments to article 7 but none is relevant to these Regulations.
 
-[^key-436213eadd76d9d9843c3fba574f194d]: Commencement: Sch. 3 para. 63 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-436213eadd76d9d9843c3fba574f194d]: Commencement: Sch. 3 para. 63 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00066]: Footnote: Relevant amending instruments are [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2015/806](https://www.legislation.gov.uk/uksi/2015/806), and 2019/593.
 
-[^key-09049bbbca02ded9cf0429e985fa88bb]: Commencement: Sch. 3 para. 64 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-09049bbbca02ded9cf0429e985fa88bb]: Commencement: Sch. 3 para. 64 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00067]: Footnote: Relevant amending instruments are [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2019/593](https://www.legislation.gov.uk/uksi/2019/593) and [2023/162](https://www.legislation.gov.uk/uksi/2023/162).
 
-[^key-7e1dc94d93ee54fab3c638b0490e2da3]: Commencement: Sch. 3 para. 65 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-7e1dc94d93ee54fab3c638b0490e2da3]: Commencement: Sch. 3 para. 65 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-7ec5e9f79af630822d0050a5ecbf6860]: Commencement: Sch. 3 para. 66 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-7ec5e9f79af630822d0050a5ecbf6860]: Commencement: Sch. 3 para. 66 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00068]: Footnote: There are amendments to article 21 but none is relevant to these Regulations.
 
-[^key-c16d90d61a80d113fab8022944bee14d]: Commencement: Sch. 3 para. 67 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-c16d90d61a80d113fab8022944bee14d]: Commencement: Sch. 3 para. 67 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00069]: Footnote: Relevant amendments were made by paragraph 286 of Schedule 19 to the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12) and [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2008/1485](https://www.legislation.gov.uk/uksi/2008/1485), [2014/1887](https://www.legislation.gov.uk/uksi/2014/1887), [2015/806](https://www.legislation.gov.uk/uksi/2015/806), [2017/321](https://www.legislation.gov.uk/uksi/2017/321), [2018/838](https://www.legislation.gov.uk/uksi/2018/838), [2019/419](https://www.legislation.gov.uk/uksi/2019/419) and [593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-b6400925052d2ebd174dfae06fc17254]: Commencement: Sch. 3 para. 68 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-b6400925052d2ebd174dfae06fc17254]: Commencement: Sch. 3 para. 68 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00070]: Footnote: [S.I. 2002/254](https://www.legislation.gov.uk/uksi/2002/254).
 
-[^key-7a3fe54c134b068e432e72313284790d]: Commencement: Sch. 3 para. 69 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-7a3fe54c134b068e432e72313284790d]: Commencement: Sch. 3 para. 69 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00071]: Footnote: There are amendments to article 7 but none is relevant to these Regulations.
 
-[^key-8eaf3d46b8dd726dfeb069c43c1d4aa4]: Commencement: Sch. 3 para. 70 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-8eaf3d46b8dd726dfeb069c43c1d4aa4]: Commencement: Sch. 3 para. 70 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-1cfb6f7a36a19aa9e52b10fa54dc058d]: Commencement: Sch. 3 para. 71 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-1cfb6f7a36a19aa9e52b10fa54dc058d]: Commencement: Sch. 3 para. 71 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00072]: Footnote: Relevant amending instruments are [S.I. 2014/1887](https://www.legislation.gov.uk/uksi/2014/1887) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-5c1ec1acbfef28c3187a1c190f895f65]: Commencement: Sch. 3 para. 72 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-5c1ec1acbfef28c3187a1c190f895f65]: Commencement: Sch. 3 para. 72 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00073]: Footnote: There are amendments to article 12 but none is relevant to these Regulations.
 
-[^key-2755254bc1a914394e0efefc8b816f05]: Commencement: Sch. 3 para. 73 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-2755254bc1a914394e0efefc8b816f05]: Commencement: Sch. 3 para. 73 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-687497dd2659e858f97fa6c1fe09310f]: Commencement: Sch. 3 para. 74 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-687497dd2659e858f97fa6c1fe09310f]: Commencement: Sch. 3 para. 74 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
-[^key-b9a517427b5ff3e07be01bc6306ec13a]: Commencement: Sch. 3 para. 75 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-b9a517427b5ff3e07be01bc6306ec13a]: Commencement: Sch. 3 para. 75 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00074]: Footnote: There are amendments to article 21 but none is relevant to these Regulations.
 
-[^key-d1393d9b735230483e853c2270c247b0]: Commencement: Sch. 3 para. 76 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-d1393d9b735230483e853c2270c247b0]: Commencement: Sch. 3 para. 76 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00075]: Footnote: Relevant amendments were made by sections 213, 214 and 219 of the Health and Social Care Act [2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), and paragraph 27 of Schedule 5 to the Children and Social Work Act [2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16) and [S.I. 2004/1947](https://www.legislation.gov.uk/uksi/2004/1947) and [2033](https://www.legislation.gov.uk/uksi/2004/2033), [2007/3101](https://www.legislation.gov.uk/uksi/2007/3101), [2009/1182](https://www.legislation.gov.uk/uksi/2009/1182), [2010/233](https://www.legislation.gov.uk/uksi/2010/233), [2014/1887](https://www.legislation.gov.uk/uksi/2014/1887) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-5c640771076b837c17a01fb4b208c638]: Commencement: Sch. 3 para. 77 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-5c640771076b837c17a01fb4b208c638]: Commencement: Sch. 3 para. 77 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00076]: Footnote: [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231).
 
-[^key-e2c18bd831eb4366656f0ff4894a2d2f]: Commencement: Sch. 3 para. 78 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-e2c18bd831eb4366656f0ff4894a2d2f]: Commencement: Sch. 3 para. 78 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00077]: Footnote: Relevant amendments were made by paragraph 352 of Schedule 19 to the Data Protection Act [2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), and [S.I. 2007/ 3101](https://www.legislation.gov.uk/uksi/2007/3101), [2015/806](https://www.legislation.gov.uk/uksi/2015/806) and [968](https://www.legislation.gov.uk/uksi/2015/968), [2016/372](https://www.legislation.gov.uk/uksi/2016/372) and [1030](https://www.legislation.gov.uk/uksi/2016/1030) and [2019/419](https://www.legislation.gov.uk/uksi/2019/419) and [593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-bd6a25d8b9d7d911c302cedb3c6b6b7d]: Commencement: Sch. 3 para. 79 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-bd6a25d8b9d7d911c302cedb3c6b6b7d]: Commencement: Sch. 3 para. 79 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00078]: Footnote: There are amendments to article 20 but none is relevant to these Regulations.
 
-[^key-c076de0004442cf6d707e8717f555536]: Commencement: Sch. 3 para. 80 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-c076de0004442cf6d707e8717f555536]: Commencement: Sch. 3 para. 80 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00079]: Footnote: The relevant amending instrument is [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-eb31e391a5b18d4ac42c5c7c348f26a8]: Commencement: Sch. 3 para. 81 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-eb31e391a5b18d4ac42c5c7c348f26a8]: Commencement: Sch. 3 para. 81 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00080]: Footnote: The relevant amending instrument is [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-9d17e160a817b95c5689071bf0a65f3b]: Commencement: Sch. 3 para. 82 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-9d17e160a817b95c5689071bf0a65f3b]: Commencement: Sch. 3 para. 82 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00081]: Footnote: There are amendments to article 23 but none is relevant to these Regulations.
 
-[^key-15e203f69a8959873fa44ec59397a653]: Commencement: Sch. 3 para. 83 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-15e203f69a8959873fa44ec59397a653]: Commencement: Sch. 3 para. 83 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00082]: Footnote: Article 23A was inserted by [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806).
 
-[^key-7ce8fae54733eac7e5bd0262fedf03e3]: Commencement: Sch. 3 para. 84 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-7ce8fae54733eac7e5bd0262fedf03e3]: Commencement: Sch. 3 para. 84 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00083]: Footnote: The relevant amending instruments are [S.I. 2015/806](https://www.legislation.gov.uk/uksi/2015/806) and [2019/593](https://www.legislation.gov.uk/uksi/2019/593).
 
-[^key-6661904fbfca398e3a2659565a49db16]: Commencement: Sch. 3 para. 85 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-6661904fbfca398e3a2659565a49db16]: Commencement: Sch. 3 para. 85 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00084]: Footnote: There are amendments to article 36 but none is relevant to these Regulations.
 
-[^key-d3b25f60c8c4c4567af576493a667811]: Commencement: Sch. 3 para. 86 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-d3b25f60c8c4c4567af576493a667811]: Commencement: Sch. 3 para. 86 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00085]: Footnote: There are amendments to article 48 but none is relevant to these Regulations.
 
-[^key-23462307013b87a7b55a7a4255cb9e30]: Commencement: Sch. 3 para. 87 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-23462307013b87a7b55a7a4255cb9e30]: Commencement: Sch. 3 para. 87 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00086]: Footnote: [S.I. 2010/473](https://www.legislation.gov.uk/uksi/2010/473).
 
-[^key-01d39872de7c7251af3e4951a5e22535]: Commencement: Sch. 3 para. 88 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-01d39872de7c7251af3e4951a5e22535]: Commencement: Sch. 3 para. 88 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00087]: Footnote: Relevant amending instruments are [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593) and [2022/1326](https://www.legislation.gov.uk/uksi/2022/1326).
 
-[^key-97476e12a5dd22b07b23e4e13efb9aea]: Commencement: Sch. 3 para. 89 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-97476e12a5dd22b07b23e4e13efb9aea]: Commencement: Sch. 3 para. 89 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00088]: Footnote: Relevant amending instruments are [S.I. 2019/593](https://www.legislation.gov.uk/uksi/2019/593) and [2022/1326](https://www.legislation.gov.uk/uksi/2022/1326).
 
-[^key-e6520c6f82dfd23ab42e64d6e42197a3]: Commencement: Sch. 3 para. 90 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-e6520c6f82dfd23ab42e64d6e42197a3]: Commencement: Sch. 3 para. 90 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00089]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -1968,7 +1968,7 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
 [^f00091]: Footnote: Relevant amending instruments are [S.I. 2016/649](https://www.legislation.gov.uk/uksi/2016/649) and [2019/177](https://www.legislation.gov.uk/uksi/2019/177).
 
-[^key-bf0293cb8508ae509108fa6cd89bdd10]: Commencement: Sch. 3 para. 91 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-bf0293cb8508ae509108fa6cd89bdd10]: Commencement: Sch. 3 para. 91 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00092]: Footnote: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
 
@@ -1976,30 +1976,30 @@ The Postgraduate Medical Education and Training Order of Council 2010[^f00086] i
 
 [^f00094]: Footnote: The relevant amending instrument is [S.I. 2019/504](https://www.legislation.gov.uk/uksi/2019/504).
 
-[^key-900ac1e98aaf55feb824fdfed58d92e8]: Commencement: Sch. 3 para. 92 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-900ac1e98aaf55feb824fdfed58d92e8]: Commencement: Sch. 3 para. 92 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00095]: Footnote: [2006 c. 49](https://www.legislation.gov.uk/ukpga/2006/49).
 
-[^key-96f4f5879632824338725d5d9c4f3f4e]: Commencement: Sch. 3 para. 93 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-96f4f5879632824338725d5d9c4f3f4e]: Commencement: Sch. 3 para. 93 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00096]: Footnote: [S.I. 1999/2864](https://www.legislation.gov.uk/uksi/1999/2864), amended by [S.I. 2016/1089](https://www.legislation.gov.uk/uksi/2016/1089). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-8d9e92b62de83dec8828a0292e1220f5]: Commencement: Sch. 3 para. 94 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-8d9e92b62de83dec8828a0292e1220f5]: Commencement: Sch. 3 para. 94 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00097]: Footnote: [S.I. 2005/1902](https://www.legislation.gov.uk/uksi/2005/1902), amended by [S.I. 2014/1816](https://www.legislation.gov.uk/uksi/2014/1816) and [2016/1089](https://www.legislation.gov.uk/uksi/2016/1089). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-72db9f9d5c14dea777e5ee19cd48f545]: Commencement: Sch. 3 para. 95 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-72db9f9d5c14dea777e5ee19cd48f545]: Commencement: Sch. 3 para. 95 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00098]: Footnote: [S.I. 2007/916 (N.I. 10)](https://www.legislation.gov.uk/nisi/2007/916). There are amending instruments but none is relevant to these Regulations.
 
-[^key-f15e5d19ed0bb132c3dda7487ad86e0a]: Commencement: Sch. 3 para. 96 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-f15e5d19ed0bb132c3dda7487ad86e0a]: Commencement: Sch. 3 para. 96 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00099]: Footnote: [S.I. 2010/724](https://www.legislation.gov.uk/uksi/2010/724). There are amending instruments but none is relevant to these Regulations.
 
-[^key-00d745a584c934e096434eb1d3a7af8e]: Commencement: Sch. 3 para. 97 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-00d745a584c934e096434eb1d3a7af8e]: Commencement: Sch. 3 para. 97 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00100]: Footnote: [S.I. 2016/1089](https://www.legislation.gov.uk/uksi/2016/1089).
 
-[^key-fd2e13dbd317146c54c89a456f1bdc0f]: Commencement: Sch. 3 para. 98 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
+[^c-fd2e13dbd317146c54c89a456f1bdc0f]: Commencement: Sch. 3 para. 98 in force at 1.12.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1)
 
 [^f00101]: Footnote: [S.I. 2016/1147](https://www.legislation.gov.uk/uksi/2016/1147).

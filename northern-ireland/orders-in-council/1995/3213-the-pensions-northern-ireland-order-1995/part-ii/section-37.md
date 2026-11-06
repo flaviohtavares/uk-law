@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Payment of surplus to employer[^key-9978f063daa2932c2f6c32e23f464991][^c19428891][^c19428961][^c19429021][^c19428411]
+## 37. Payment of surplus to employer[^c-9978f063daa2932c2f6c32e23f464991][^c19428891][^c19428961][^c19429021][^c19428411]
 
 *Extent: N.I.*
 
@@ -67,7 +67,7 @@ Article 10 applies to any of them who has failed to take all reasonable steps to
 
 ## Annotations
 
-[^key-9978f063daa2932c2f6c32e23f464991]: Modification: Art. 37 excluded (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [36(1)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/36/1/a)
+[^c-9978f063daa2932c2f6c32e23f464991]: Modification: Art. 37 excluded (24.7.2014) by [The Pensions (2012 Act) (Transitional,ConsequentialandSupplementaryProvisions) Regulations (Northern Ireland) 2014 (S.R. 2014/204)](https://www.legislation.gov.uk/nisr/2014/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/204/regulation/1/1), [36(1)(a)](https://www.legislation.gov.uk/nisr/2014/204/regulation/36/1/a)
 
 [^c19428891]: Modification: Art. 37 applied (with modifications) (6.4.2006) by [S.R. 2006/161](https://www.legislation.gov.uk/nisr/2006/161), [regs. 12(2)](https://www.legislation.gov.uk/nisr/2006/161/regulation/12/2), [18](https://www.legislation.gov.uk/nisr/2006/161/regulation/18)
 

@@ -36,11 +36,11 @@ An Act to make provision to extend the period following the Northern Ireland Ass
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Extension of period for making Ministerial appointments[^key-c03ca9d65934b177f9ecc5531c36696a]
+## 1. Extension of period for making Ministerial appointments[^c-c03ca9d65934b177f9ecc5531c36696a]
 
 In section 1(1) of the Northern Ireland (Executive Formation etc) Act 2022, for “18 January 2024” substitute “8 February 2024”.
 
-## 2. Extent, commencement and short title[^key-e39023388c2daed094467aadc13face4]
+## 2. Extent, commencement and short title[^c-e39023388c2daed094467aadc13face4]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -50,6 +50,6 @@ In section 1(1) of the Northern Ireland (Executive Formation etc) Act 2022, for 
 
 ## Annotations
 
-[^key-c03ca9d65934b177f9ecc5531c36696a]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/2/section/2/2)
+[^c-c03ca9d65934b177f9ecc5531c36696a]: Commencement: S. 1 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/2/section/2/2)
 
-[^key-e39023388c2daed094467aadc13face4]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/2/section/2/2)
+[^c-e39023388c2daed094467aadc13face4]: Commencement: S. 2 in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2024/2/section/2/2)

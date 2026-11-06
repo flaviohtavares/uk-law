@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Every consignee must make a return, in these Regulations referred to as a consignee quarterly return, to the NRBW[^key-9d358ff1a06a2e3727d23c43536a06c9] of information relating to all consignments of hazardous waste received by him or her in any quarter in accordance with paragraph (4).
+(1) Every consignee must make a return, in these Regulations referred to as a consignee quarterly return, to the NRBW[^c-9d358ff1a06a2e3727d23c43536a06c9] of information relating to all consignments of hazardous waste received by him or her in any quarter in accordance with paragraph (4).
 
 (2) The return must include—
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d358ff1a06a2e3727d23c43536a06c9]: Textual amendment: Words in reg. 53 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 30(h)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/30/h) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9d358ff1a06a2e3727d23c43536a06c9]: Textual amendment: Words in reg. 53 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 30(h)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/30/h) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

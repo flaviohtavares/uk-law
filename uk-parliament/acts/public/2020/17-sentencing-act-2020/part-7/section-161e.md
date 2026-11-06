@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 161E. Making an income reduction order[^key-c035d2e2fca4c1b0c7f595e6ef5f515d]
+## 161E. Making an income reduction order[^c-c035d2e2fca4c1b0c7f595e6ef5f515d]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ the court must give preference to such of the orders in paragraph (a)(i)to (iii)
 (5) For the effect of proceedings in relation to confiscation orders on the court’s powers in relation to income reduction orders, see the following provisions of the [Proceeds of Crime Act 2002](https://www.legislation.gov.uk/ukpga/2002/29/contents)—
 
 - (a) [section 13](https://www.legislation.gov.uk/ukpga/2002/29/section/13) (where confiscation order has been made);
-- (b)[^key-f743fb5f6d18275289873e24beb77aec] section 15A (where court sentences before confiscation proceedings).
+- (b)[^c-f743fb5f6d18275289873e24beb77aec] section 15A (where court sentences before confiscation proceedings).
 
 (6) In this section—
 
@@ -59,6 +59,6 @@ the court must give preference to such of the orders in paragraph (a)(i)to (iii)
 
 ## Annotations
 
-[^key-c035d2e2fca4c1b0c7f595e6ef5f515d]: Textual amendment: Pt. 7 Ch. 5 inserted (22.1.2026 for enabling the exercise of power to make regulations) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/3/1), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
+[^c-c035d2e2fca4c1b0c7f595e6ef5f515d]: Textual amendment: Pt. 7 Ch. 5 inserted (22.1.2026 for enabling the exercise of power to make regulations) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/3/1), [49(3)(c)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/3/c)
 
-[^key-f743fb5f6d18275289873e24beb77aec]: Textual amendment: S. 161E(5)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 52](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/52); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-f743fb5f6d18275289873e24beb77aec]: Textual amendment: S. 161E(5)(b) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 52](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/52); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

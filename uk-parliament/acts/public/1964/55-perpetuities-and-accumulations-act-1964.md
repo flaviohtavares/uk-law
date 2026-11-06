@@ -39,13 +39,13 @@ An Act to modify the law of England and Wales relating to the avoidance of futur
 
 *Extent: E+W*
 
-### 1. Power to specify perpetuity period.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 1. Power to specify perpetuity period.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 (1) Subject to section 9(2) of this Act and subsection (2) below, where the instrument by which any disposition is made so provides, the perpetuity period applicable to the disposition under the rule against perpetuities, instead of being of any other duration, shall be of a duration equal to such number of years not exceeding eighty as is specified in that behalf in the instrument.
 
 (2) Subsection (1) above shall not have effect where the disposition is made in exercise of a special power of appointment, but where a period is specified under that subsection in the instrument creating such a power the period shall apply in relation to any disposition under the power as it applies in relation to the power itself.
 
-### 2. Presumptions and evidence as to future parenthood.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 2. Presumptions and evidence as to future parenthood.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 (1) Where in any proceedings there arises on the rule against perpetuities a question which turns on the ability of a person to have a child at some future time, then—
 
@@ -58,7 +58,7 @@ An Act to modify the law of England and Wales relating to the avoidance of futur
 
 (4) In the foregoing provisions of this section references to having a child are references to begetting or giving birth to a child, but those provisions (except subsection (1)(*b*)) shall apply in relation to the possibility that a person will at any time have a child by adoption, legitimation or other means as they apply to his or her ability at that time to beget or give birth to a child.
 
-### 3. Uncertainty as to remoteness.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 3. Uncertainty as to remoteness.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 (1) Where, apart from the provisions of this section and sections 4 and 5 of this Act, a disposition would be void on the ground that the interest disposed of might not become vested until too remote a time, the disposition shall be treated, until such time (if any) as it becomes established that the vesting must occur, if at all, after the end of the perpetuity period, as if the disposition were not subject to the rule against perpetuities; and its becoming so established shall not affect the validity of anything previously done in relation to the interest disposed of by way of advancement, application of intermediate income or otherwise.
 
@@ -83,7 +83,7 @@ An Act to modify the law of England and Wales relating to the avoidance of futur
 - (c) a person having a child or grandchild within sub-paragraphs (i) to (iv) of paragraph (*b*) above, or any of whose children or grandchildren, if subsequently born, would by virtue of his or her descent fall within those sub-paragraphs;
 - (d) any person on the failure or determination of whose prior interest the disposition is limited to take effect.
 
-### 4. Reduction of age and exclusion of class members to avoid remoteness.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 4. Reduction of age and exclusion of class members to avoid remoteness.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 (1) Where a disposition is limited by reference to the attainment by any person or persons of a specified age exceeding twenty-one years, and it is apparent at the time the disposition is made or becomes apparent at a subsequent time—
 
@@ -105,15 +105,15 @@ the disposition shall be treated for all purposes as if, instead of being limite
 
 (6).[^c655610] Section 163 of the Law of Property Act 1925 (which saves a disposition from remoteness arising out of a condition requiring the attainment of an age exceeding twenty-one years) is herby repealed.
 
-### 5. Condition relating to death of surviving spouse.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 5. Condition relating to death of surviving spouse.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 Where a disposition is limited by reference to the time of death of the survivor of a person in being at the commencement of the perpetuity period and any spouse of that person, and that time has not arrived at the end of the perpetuity period, the disposition shall be treated for all purposes, where to do so would save it from being void for remoteness, as if it had instead been limited by reference to the time immediately before the end of that period.
 
-### 6. Saving and acceleration of expectant interests.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 6. Saving and acceleration of expectant interests.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 A disposition shall not be treated as void for remoteness by reason only that the interest disposed of is ulterior to and dependent upon an interest under a disposition which is so void, and the vesting of an interest shall not be prevented from being accelerated on the failure of a prior interest by reason only that the failure arises because of remoteness.
 
-### 7. Powers of appointment.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 7. Powers of appointment.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 For the purposes of the rule against perpetuities, a power of appointment shall be treated as a special power unless—
 
@@ -122,13 +122,13 @@ For the purposes of the rule against perpetuities, a power of appointment shall 
 
   Provided that for the purpose of determining whether a disposition made under a power of appointment exercisable by will only is void for remoteness, the power shall be treated as a general power where it would have fallen to be so treated if exercisable by deed.
 
-### 8. Administrative powers of trustees.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 8. Administrative powers of trustees.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 (1) The rule against perpetuities shall not operate to invalidate a power conferred on trustees or other persons to sell, lease, exchange or otherwise dispose of any property for full consideration, or to do any other act in the administration (as opposed to the distribution) of any property, and shall not prevent the payment to trustees or other persons of reasonable remuneration for their services.
 
 (2) Subsection (1) above shall apply for the purpose of enabling a power to be exercised at any time after the commencement of this Act notwithstanding that the power is conferred by an instrument which took effect before that commencement.
 
-### 9. Options relating to land.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 9. Options relating to land.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 (1) The rule against perpetuities shall not apply to a disposition consisting of the conferring of an option to acquire for valuable consideration an interest reversionary (whether directly or indirectly) on the term of a lease if—
 
@@ -141,17 +141,17 @@ This subsection shall apply in relation to an agreement for a lease as it applie
 
 provided that this subsection shall not apply to a right of pre-emption conferred on a public or local authority in respect of land used or to be used for religious purposes where the right becomes exercisable only if the land ceases to be used for such purposes.
 
-### 10. Avoidance of contractual and other rights in cases of remoteness.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 10. Avoidance of contractual and other rights in cases of remoteness.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 Where a disposition inter vivos would fall to be treated as void for remoteness if the rights and duties thereunder were capable of transmission to persons other than the original parties and had been so transmitted, it shall be treated as void as between the person by whom it was made and the person to whom or in whose favour it was made or any successor of his, and no remedy shall lie in contract or otherwise for giving effect to it or making restitution for its lack of effect.
 
-### 11. Rights for enforcement of rentcharges.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 11. Rights for enforcement of rentcharges.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 (1) The rule against perpetuities shall not apply to any powers or remedies for recovering or compelling the payment of an annual sum to which section 121 or 122 of the [^c655611]Law of Property Act 1925 applies, or otherwise becoming exercisable or enforceable on the breach of any condition or other requirement relating to that sum.
 
 (2).[^c655612] In section 121(6) of the Law of Property Act 1925 the words from “norto the same” onwards are hereby repealed.
 
-### 12. Possibilities of reverter, conditions subsequent, exceptions and reservations.[^key-d6262b64ea4fe1ea04b2bf743400aa05]
+### 12. Possibilities of reverter, conditions subsequent, exceptions and reservations.[^c-d6262b64ea4fe1ea04b2bf743400aa05]
 
 (1) In the case of—
 
@@ -166,7 +166,7 @@ the rule against perpetuities shall apply in relation to the provision causing t
 
 *Extent: E+W*
 
-### 13. Amendment of s. 164 of Law of Property Act 1925.[^key-5a492079cbb205e285a60fa26a346db8]
+### 13. Amendment of s. 164 of Law of Property Act 1925.[^c-5a492079cbb205e285a60fa26a346db8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -197,7 +197,7 @@ and for the purposes of this Act a disposition contained in a will shall be deem
 
 Provided that section 7 above shall apply in all cases for construing the foregoing reference to a special power of appointment.
 
-(5A)[^key-adc073cd04b974d3bd9e91a1d848a5b4] The foregoing sections of this Act shall not apply in relation to an instrument taking effect on or after the day appointed under section 22(2) of the Perpetuities and Accumulations Act 2009 (commencement), but this shall not prevent those sections applying in relation to an instrument so taking effect if—
+(5A)[^c-adc073cd04b974d3bd9e91a1d848a5b4] The foregoing sections of this Act shall not apply in relation to an instrument taking effect on or after the day appointed under section 22(2) of the Perpetuities and Accumulations Act 2009 (commencement), but this shall not prevent those sections applying in relation to an instrument so taking effect if—
 
 - (a) it is a will executed before that day, or
 - (b) it is an instrument made in the exercise of a special power of appointment, and the instrument creating the power took effect before that day.
@@ -216,7 +216,7 @@ Provided that section 7 above shall apply in all cases for construing the forego
 
 [^c655609]: Modification: Words of enactment omitted under authority of [Statute Law Revision Act 1948 (c. 62)](https://www.legislation.gov.uk/ukpga/1948/62), [s. 3](https://www.legislation.gov.uk/ukpga/1948/62/section/3)
 
-[^key-d6262b64ea4fe1ea04b2bf743400aa05]: Modification: Ss. 1-12 excluded (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 12(2)(d)](https://www.legislation.gov.uk/ukpga/2009/18/section/12/2/d), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2) (with [s. 15(1)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/4), [17](https://www.legislation.gov.uk/ukpga/2009/18/section/17), [18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)
+[^c-d6262b64ea4fe1ea04b2bf743400aa05]: Modification: Ss. 1-12 excluded (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 12(2)(d)](https://www.legislation.gov.uk/ukpga/2009/18/section/12/2/d), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2) (with [s. 15(1)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/4), [17](https://www.legislation.gov.uk/ukpga/2009/18/section/17), [18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)
 
 [^c655610]: Modification: The text of s. 4(6) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -224,6 +224,6 @@ Provided that section 7 above shall apply in all cases for construing the forego
 
 [^c655612]: Modification: The text of s. 11(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-5a492079cbb205e285a60fa26a346db8]: Textual amendment: S. 13 repealed (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 13(b)](https://www.legislation.gov.uk/ukpga/2009/18/section/13/b), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2), [Sch.](https://www.legislation.gov.uk/ukpga/2009/18/schedule) (with [s. 15(1)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/4), [17](https://www.legislation.gov.uk/ukpga/2009/18/section/17), [18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)
+[^c-5a492079cbb205e285a60fa26a346db8]: Textual amendment: S. 13 repealed (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 13(b)](https://www.legislation.gov.uk/ukpga/2009/18/section/13/b), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2), [Sch.](https://www.legislation.gov.uk/ukpga/2009/18/schedule) (with [s. 15(1)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/1)[(4)](https://www.legislation.gov.uk/ukpga/2009/18/section/15/4), [17](https://www.legislation.gov.uk/ukpga/2009/18/section/17), [18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)
 
-[^key-adc073cd04b974d3bd9e91a1d848a5b4]: Textual amendment: [S. 15(5A)(5B)](https://www.legislation.gov.uk/ukpga/1964/55/section/15/5A) inserted (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 16](https://www.legislation.gov.uk/ukpga/2009/18/section/16), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2) (with [ss. 17](https://www.legislation.gov.uk/ukpga/2009/18/section/17), [18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)
+[^c-adc073cd04b974d3bd9e91a1d848a5b4]: Textual amendment: [S. 15(5A)(5B)](https://www.legislation.gov.uk/ukpga/1964/55/section/15/5A) inserted (6.4.2010) by [Perpetuities and Accumulations Act 2009 (c. 18)](https://www.legislation.gov.uk/ukpga/2009/18), [ss. 16](https://www.legislation.gov.uk/ukpga/2009/18/section/16), [22(2)](https://www.legislation.gov.uk/ukpga/2009/18/section/22/2) (with [ss. 17](https://www.legislation.gov.uk/ukpga/2009/18/section/17), [18](https://www.legislation.gov.uk/ukpga/2009/18/section/18)); [S.I. 2010/37](https://www.legislation.gov.uk/uksi/2010/37), [art. 2](https://www.legislation.gov.uk/uksi/2010/37/article/2)

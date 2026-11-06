@@ -37,14 +37,14 @@ summary: ''
 
 (7) This section applies—
 
-- (a) to the new towns residuary body[^key-3ac87665debc88adb441ab0f71d15daf] [^c8301021]. . . and to a development corporation within the meaning of the[^c8301031] [^c8301041]New Towns Act 1981; and
+- (a) to the new towns residuary body[^c-3ac87665debc88adb441ab0f71d15daf] [^c8301021]. . . and to a development corporation within the meaning of the[^c8301031] [^c8301041]New Towns Act 1981; and
 - (b) in respect of housing provided by them by virtue of section 5 of the [^c8301051]Town Development Act 1952 (which authorises a council to exercise its powers for the purpose of relieving congestion or over-population outside their area), the council of any receiving district for purposes of that Act, . . . [^c8301061]
 
 ## Annotations
 
 [^c8301011]: Marginal citation: [1927 c. 36](https://www.legislation.gov.uk/ukpga/1927/36).
 
-[^key-3ac87665debc88adb441ab0f71d15daf]: Textual amendment: Words in [s. 30(7)(a)](https://www.legislation.gov.uk/ukpga/1967/88/section/30/7/a) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/8); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-3ac87665debc88adb441ab0f71d15daf]: Textual amendment: Words in [s. 30(7)(a)](https://www.legislation.gov.uk/ukpga/1967/88/section/30/7/a) substituted (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2008/17/schedule/8/paragraph/8); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(w)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/w)[(3)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/3) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
 [^c8301021]: Textual amendment: Words in s. 30(7) repealed (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 152](https://www.legislation.gov.uk/ukpga/1998/38/section/152), [Sch. 18 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/38/schedule/18/part/IV) (with [ss. 137(1)](https://www.legislation.gov.uk/ukpga/1998/38/section/137/1), [139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4)
 

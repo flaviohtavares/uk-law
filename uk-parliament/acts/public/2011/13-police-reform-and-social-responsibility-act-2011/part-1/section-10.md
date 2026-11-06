@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Co-operative working[^key-02290571d7c9b07d3b555596558632a4][^key-6708f1f4c585a79f31476579296f9c6a]
+## 10. Co-operative working[^c-02290571d7c9b07d3b555596558632a4][^c-6708f1f4c585a79f31476579296f9c6a]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02290571d7c9b07d3b555596558632a4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/13/section/10) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-02290571d7c9b07d3b555596558632a4]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/13/section/10) in force at 16.1.2012 for specified purposes by [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-6708f1f4c585a79f31476579296f9c6a]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/13/section/10) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)
+[^c-6708f1f4c585a79f31476579296f9c6a]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2011/13/section/10) in force at 22.11.2012 in so far as not already in force by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/a)

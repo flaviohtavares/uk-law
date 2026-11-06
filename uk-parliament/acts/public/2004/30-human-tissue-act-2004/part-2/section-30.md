@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Possession of anatomical specimens away from licensed premises[^key-5ee20cda82c6b3cdf3c5ca8986e3b322][^key-da6609dfab715e81bab0bf956611a9f3]
+## 30. Possession of anatomical specimens away from licensed premises[^c-5ee20cda82c6b3cdf3c5ca8986e3b322][^c-da6609dfab715e81bab0bf956611a9f3]
 
 *Extent: E+W+N.I.*
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ee20cda82c6b3cdf3c5ca8986e3b322]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2004/30/section/30) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
+[^c-5ee20cda82c6b3cdf3c5ca8986e3b322]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2004/30/section/30) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j)
 
-[^key-da6609dfab715e81bab0bf956611a9f3]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2004/30/section/30) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-da6609dfab715e81bab0bf956611a9f3]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2004/30/section/30) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))

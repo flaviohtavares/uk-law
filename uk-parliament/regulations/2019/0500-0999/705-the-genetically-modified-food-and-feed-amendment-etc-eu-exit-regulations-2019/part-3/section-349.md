@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 349.[^key-c97773d38e6f0414b758192d8dadc820]
+## 349.[^c-c97773d38e6f0414b758192d8dadc820]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ For the heading to Article 6, substitute “ Register ”.
 
 ## Annotations
 
-[^key-c97773d38e6f0414b758192d8dadc820]: Commencement: Reg. 349 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c97773d38e6f0414b758192d8dadc820]: Commencement: Reg. 349 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

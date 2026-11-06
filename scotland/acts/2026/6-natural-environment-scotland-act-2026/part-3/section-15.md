@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Deer management plans[^key-537fa8318a2713e9e30c2009d46fd93f]
+## 15. Deer management plans[^c-537fa8318a2713e9e30c2009d46fd93f]
 
 *Extent: S*
 
@@ -57,4 +57,4 @@ For section 6A of the 1996 Act substitute—
 
 ## Annotations
 
-[^key-537fa8318a2713e9e30c2009d46fd93f]: Commencement: S. 15 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-537fa8318a2713e9e30c2009d46fd93f]: Commencement: S. 15 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

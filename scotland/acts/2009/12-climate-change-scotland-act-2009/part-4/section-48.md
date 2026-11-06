@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Investigations[^key-84f8f993825bf698cb4df6ebaefadff4]
+## 48. Investigations[^c-84f8f993825bf698cb4df6ebaefadff4]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84f8f993825bf698cb4df6ebaefadff4]: Commencement: S. 48 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)
+[^c-84f8f993825bf698cb4df6ebaefadff4]: Commencement: S. 48 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)

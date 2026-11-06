@@ -765,7 +765,7 @@ Implementing Regulation (EU) 2015/2447 is amended as follow:
 
 **Article 3.** This Regulation shall enter into force on the day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-2e9bd36bf91c9aa3d52605673bad8845]...
+[^c-2e9bd36bf91c9aa3d52605673bad8845]...
 
 Done at Brussels, 8 June 2017.
 
@@ -1150,7 +1150,7 @@ Jean-Claude Juncker
 
 [^f00014]: Footnote: Commission Delegated Regulation (EU) 2016/341 of 17 December 2015 supplementing Regulation (EU) No 952/2013 of the European Parliament and of the Council as regards transitional rules for certain provisions of the Union Customs Code where the relevant electronic systems are not yet operational and amending Delegated Regulation (EU) 2015/2446 ([OJ L 69, 15.3.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.069.01.0001.01.ENG)).’.
 
-[^key-2e9bd36bf91c9aa3d52605673bad8845]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/989/signature) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [7(1)(c)](https://www.legislation.gov.uk/uksi/2019/715/regulation/7/1/c) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e9bd36bf91c9aa3d52605673bad8845]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2017/989/signature) omitted (31.12.2020) by virtue of [The Customs Safety and Security Procedures (EU Exit) Regulations 2019 (S.I. 2019/715)](https://www.legislation.gov.uk/uksi/2019/715), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/715/regulation/1/2), [7(1)(c)](https://www.legislation.gov.uk/uksi/2019/715/regulation/7/1/c) (as amended by [S.I. 2020/1624](https://www.legislation.gov.uk/uksi/2020/1624), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1624/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2020/1624/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00018]: Footnote: When the invoice declaration is made out by Union's approved exporter within the meaning of Article 77(4) of Implementing Regulation (EU) 2015/2447, the authorisation number of the approved exporter must be entered in this space. When (as will always be the case with invoice declarations made out in beneficiary countries) the invoice declaration is not made out by an approved exporter, the words in brackets shall be omitted or the space left blank.
 

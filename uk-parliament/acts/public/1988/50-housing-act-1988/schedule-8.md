@@ -84,7 +84,7 @@ References in this paragraph to the Secretary of State are references to him act
 
 (2) Immediately after a guarantee is given under this paragraph, the Treasury shall lay a statement of the guarantee before each House of Parliament; and, where any sum is issued for fulfilling a guarantee so given, the Treasury shall lay before each House of Parliament a statement relating to that sum, as soon as possible after the end of each financial year, beginning with that in which the sum is issued and ending with that in which all liability in respect of the principal of the sum and in respect of interest on it is finally discharged.
 
-(3)[^key-89693d83d94142050e7772a13c85814c] Any sums required by the Treasury for fulfilling a guarantee under this paragraph are to be charged on and issued out of the Consolidated Fund.
+(3)[^c-89693d83d94142050e7772a13c85814c] Any sums required by the Treasury for fulfilling a guarantee under this paragraph are to be charged on and issued out of the Consolidated Fund.
 
 (4) If any sums are issued in fulfilment of a guarantee given under this paragraph, the trust shall make to the Treasury, at such times and in such manner as the Treasury may from time to time direct, payments of such amounts as the Treasury so direct in or towards repayment of the sums so issued and payments of interest, at such rates as the Treasury so direct, on what is outstanding for the time being in respect of sums so issued.
 
@@ -203,7 +203,7 @@ above as a repayment of a loan shall be paid by the Secretary of State into the 
 
 ## Annotations
 
-[^key-89693d83d94142050e7772a13c85814c]: Textual amendment: [Sch. 8 para. 5(3)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/8/paragraph/5/3) substituted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(13)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/13)
+[^c-89693d83d94142050e7772a13c85814c]: Textual amendment: [Sch. 8 para. 5(3)](https://www.legislation.gov.uk/ukpga/1988/50/schedule/8/paragraph/5/3) substituted (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 7(13)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/7/13)
 
 [^c12876461]: Marginal citation: [1983 c. 44](https://www.legislation.gov.uk/ukpga/1983/44).
 

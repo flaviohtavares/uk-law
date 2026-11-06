@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 98. Notices of decisions to award a contract or conclude a framework agreement[^key-b285bef30495d572749a9e1a7a2f210c]
+## 98. Notices of decisions to award a contract or conclude a framework agreement[^c-b285bef30495d572749a9e1a7a2f210c]
 
 *Extent: S*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b285bef30495d572749a9e1a7a2f210c]: Commencement: [Reg. 98](https://www.legislation.gov.uk/ssi/2016/49/regulation/98) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-b285bef30495d572749a9e1a7a2f210c]: Commencement: [Reg. 98](https://www.legislation.gov.uk/ssi/2016/49/regulation/98) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

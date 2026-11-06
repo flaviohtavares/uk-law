@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Extension of period for completion of work or demolition[^key-62b196eb9bc68be015e425f07eb41438]
+## 34. Extension of period for completion of work or demolition[^c-62b196eb9bc68be015e425f07eb41438]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ must be completed by such period as it considers reasonable.
 
 ## Annotations
 
-[^key-62b196eb9bc68be015e425f07eb41438]: Commencement: S. 34 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-62b196eb9bc68be015e425f07eb41438]: Commencement: S. 34 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

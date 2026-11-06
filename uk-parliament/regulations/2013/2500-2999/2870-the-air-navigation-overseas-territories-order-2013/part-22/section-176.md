@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Endangering safety of aircraft[^key-e45d5c89c523fdd71d31cf7304b9246c]
+## 176. Endangering safety of aircraft[^c-e45d5c89c523fdd71d31cf7304b9246c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A person must not recklessly or negligently act in a manner likely to endanger a
 
 ## Annotations
 
-[^key-e45d5c89c523fdd71d31cf7304b9246c]: Commencement: [Art. 176](https://www.legislation.gov.uk/uksi/2013/2870/article/176) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-e45d5c89c523fdd71d31cf7304b9246c]: Commencement: [Art. 176](https://www.legislation.gov.uk/uksi/2013/2870/article/176) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 146. Provisions as to references upon notices served by the Ministry.[^key-e9498d7553bc30116e2d549a3940e4db]
+## 146. Provisions as to references upon notices served by the Ministry.[^c-e9498d7553bc30116e2d549a3940e4db]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9498d7553bc30116e2d549a3940e4db]: Textual amendment: [S. 146](https://www.legislation.gov.uk/apni/1969/6/section/146) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-e9498d7553bc30116e2d549a3940e4db]: Textual amendment: [S. 146](https://www.legislation.gov.uk/apni/1969/6/section/146) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

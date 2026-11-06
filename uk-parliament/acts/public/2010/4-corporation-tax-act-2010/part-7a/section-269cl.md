@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269CL. When a company first begins to carry on relevant regulated activities[^key-bb25037da6ed84a2d6df1957eda005ec]
+## 269CL. When a company first begins to carry on relevant regulated activities[^c-bb25037da6ed84a2d6df1957eda005ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ the successor is to be treated as having first begun to carry on a relevant regu
 
 ## Annotations
 
-[^key-bb25037da6ed84a2d6df1957eda005ec]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 para. 7-9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/2/paragraph/1)
+[^c-bb25037da6ed84a2d6df1957eda005ec]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 para. 7-9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/11/schedule/2/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 153. Secure accommodation: regulations[^key-ea81440397dfa37e035c6ae9b9cbb8eb]
+## 153. Secure accommodation: regulations[^c-ea81440397dfa37e035c6ae9b9cbb8eb]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea81440397dfa37e035c6ae9b9cbb8eb]: Commencement: S. 153 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-ea81440397dfa37e035c6ae9b9cbb8eb]: Commencement: S. 153 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

@@ -20,21 +20,21 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-5100d4d00cdf2fac528a0d3561f9ff1b] The Scottish Ministers may by regulations make provision for or in connection with the purpose mentioned in subsection (2).
+(1)[^c-5100d4d00cdf2fac528a0d3561f9ff1b] The Scottish Ministers may by regulations make provision for or in connection with the purpose mentioned in subsection (2).
 
-(2)[^key-5100d4d00cdf2fac528a0d3561f9ff1b] The purpose is promoting or facilitating participation in relation to decisions of such persons as may be specified (in this section, “relevant persons”) relating to activities carried out, or proposed to be carried out, by or on behalf of those persons.
+(2)[^c-5100d4d00cdf2fac528a0d3561f9ff1b] The purpose is promoting or facilitating participation in relation to decisions of such persons as may be specified (in this section, “relevant persons”) relating to activities carried out, or proposed to be carried out, by or on behalf of those persons.
 
-(3)[^key-5100d4d00cdf2fac528a0d3561f9ff1b] Regulations under subsection (1) may enable relevant persons to determine—
+(3)[^c-5100d4d00cdf2fac528a0d3561f9ff1b] Regulations under subsection (1) may enable relevant persons to determine—
 
 - (a) the persons whose participation in relation to such decisions is to be promoted or facilitated, and
 - (b) which of those decisions persons so determined may participate in relation to.
 
-(4)[^key-5100d4d00cdf2fac528a0d3561f9ff1b] Regulations under subsection (1) may provide that activities as mentioned in subsection (2) include the allocation of—
+(4)[^c-5100d4d00cdf2fac528a0d3561f9ff1b] Regulations under subsection (1) may provide that activities as mentioned in subsection (2) include the allocation of—
 
 - (a) financial resources, and
 - (b) such other resources as may be specified.
 
-(5)[^key-5100d4d00cdf2fac528a0d3561f9ff1b] Regulations under subsection (1) may, in particular, include provision—
+(5)[^c-5100d4d00cdf2fac528a0d3561f9ff1b] Regulations under subsection (1) may, in particular, include provision—
 
 - (a) (without prejudice to subsection (3)), conferring functions on relevant persons,
 - (b) specifying activities as mentioned in subsection (2) in relation to which the regulations apply, or do not apply,
@@ -44,7 +44,7 @@ summary: ''
 
 (6) Relevant persons must have regard to any guidance issued by the Scottish Ministers relating to functions conferred on them by regulations under subsection (1).
 
-(7)[^key-5100d4d00cdf2fac528a0d3561f9ff1b] Regulations under subsection (1) may specify a person in relation to whose decisions participation is to be promoted or facilitated only if the person is—
+(7)[^c-5100d4d00cdf2fac528a0d3561f9ff1b] Regulations under subsection (1) may specify a person in relation to whose decisions participation is to be promoted or facilitated only if the person is—
 
 - (a) a part of the Scottish Administration, or
 - (b) a Scottish public authority with mixed functions or no reserved functions (within the meaning of the Scotland Act 1998).
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5100d4d00cdf2fac528a0d3561f9ff1b]: Commencement: [S. 139(1)-(5)](https://www.legislation.gov.uk/asp/2015/6/section/139/1) [(7)](https://www.legislation.gov.uk/asp/2015/6/section/139/7) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-5100d4d00cdf2fac528a0d3561f9ff1b]: Commencement: [S. 139(1)-(5)](https://www.legislation.gov.uk/asp/2015/6/section/139/1) [(7)](https://www.legislation.gov.uk/asp/2015/6/section/139/7) in force at 13.11.2015 for specified purposes by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)

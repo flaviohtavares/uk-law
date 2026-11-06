@@ -79,17 +79,17 @@ The Assembly Commission shall be treated as a Crown body for the purposes of the
 
 (3) The reference to the Crown in section 67(2)(e) (person acting on behalf of the Crown not liable to penalty under subsection (1)(c)) shall be treated as including a reference to the Assembly Commission.
 
-## 5. Data Protection Act 2018[^key-a041d437b0dab38e0ea49783d5235731]
+## 5. Data Protection Act 2018[^c-a041d437b0dab38e0ea49783d5235731]
 
 (1) The Assembly Commission is to be treated as a Crown body for the purposes of the Data Protection Act 2018 to the extent specified in this article.
 
 (2) The Assembly Commission is to be treated as a government department for the purposes of the following provisions—
 
-- (a) section 8(d) (lawfulness of processing under the UK GDPR[^key-152113ff4bb4433be9f3864ad8485f9b]: public interest etc),
+- (a) section 8(d) (lawfulness of processing under the UK GDPR[^c-152113ff4bb4433be9f3864ad8485f9b]: public interest etc),
 - (b) section 209 (application to the Crown),
 - (c) paragraph 6 of Schedule 1 (statutory etc and government purposes),
-- (d) paragraph 7 of Schedule 2 (exemptions from the UK GDPR[^key-63f96f50fac9453f174fa44a217f87e2]: functions designed to protect the public etc), and
-- (e) paragraph 8(1)(o) of Schedule 3 (exemptions from the UK GDPR[^key-26398f6cc35b1fe2926d639a7ca15ba1]: health data).
+- (d) paragraph 7 of Schedule 2 (exemptions from the UK GDPR[^c-63f96f50fac9453f174fa44a217f87e2]: functions designed to protect the public etc), and
+- (e) paragraph 8(1)(o) of Schedule 3 (exemptions from the UK GDPR[^c-26398f6cc35b1fe2926d639a7ca15ba1]: health data).
 
 (3) In the provisions mentioned in paragraph (4)—
 
@@ -101,7 +101,7 @@ The Assembly Commission shall be treated as a Crown body for the purposes of the
 - (a) section 24(3) (exemption for certain data relating to employment under the Crown), and
 - (b) section 209(6) (application of certain provisions to a person in the service of the Crown).
 
-(5)[^key-1eab20973379548c8a6b288d65feef68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1eab20973379548c8a6b288d65feef68] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. Licensing Act 2003
 
@@ -153,15 +153,15 @@ This Order provides for the National Assembly for Wales Commission, established 
 
 [^c18522721]: Marginal citation: [1994 c.23](https://www.legislation.gov.uk/ukpga/1994/23). A relevant amendment is also made to section 41(6) by paragraph 39 of Schedule 10 to the Government of Wales Act 2006.
 
-[^key-a041d437b0dab38e0ea49783d5235731]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2007/1118/article/5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 324](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/324) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-a041d437b0dab38e0ea49783d5235731]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2007/1118/article/5) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 324](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/324) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-152113ff4bb4433be9f3864ad8485f9b]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2007/1118/article/5/2/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 64(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/64/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-152113ff4bb4433be9f3864ad8485f9b]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2007/1118/article/5/2/a) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 64(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/64/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-63f96f50fac9453f174fa44a217f87e2]: Textual amendment: Words in [art. 5(2)(d)](https://www.legislation.gov.uk/uksi/2007/1118/article/5/2/d) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 64(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/64/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63f96f50fac9453f174fa44a217f87e2]: Textual amendment: Words in [art. 5(2)(d)](https://www.legislation.gov.uk/uksi/2007/1118/article/5/2/d) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 64(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/64/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-26398f6cc35b1fe2926d639a7ca15ba1]: Textual amendment: Words in [art. 5(2)(e)](https://www.legislation.gov.uk/uksi/2007/1118/article/5/2/e) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 64(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/64/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26398f6cc35b1fe2926d639a7ca15ba1]: Textual amendment: Words in [art. 5(2)(e)](https://www.legislation.gov.uk/uksi/2007/1118/article/5/2/e) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 64(a)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/64/a) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1eab20973379548c8a6b288d65feef68]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/uksi/2007/1118/article/5/5) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 64(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/64/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1eab20973379548c8a6b288d65feef68]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/uksi/2007/1118/article/5/5) omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 3 para. 64(b)](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/64/b) (with [Sch. 3 para. 112](https://www.legislation.gov.uk/uksi/2019/419/schedule/3/paragraph/112)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18522741]: Marginal citation: [2003 c.17](https://www.legislation.gov.uk/ukpga/2003/17).
 

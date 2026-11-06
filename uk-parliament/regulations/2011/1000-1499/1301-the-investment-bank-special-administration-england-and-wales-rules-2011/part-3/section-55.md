@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Limited disclosure[^key-b832473e8e0c931d6f7225288ded3f5a]
+## 55. Limited disclosure[^c-b832473e8e0c931d6f7225288ded3f5a]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (5) An application under paragraph (4) shall be supported by written evidence in the form of a witness statement.
 
-(6) Where a special administration (bank administration) order has been made, and where an application has been made under paragraph (4), the Bank of England and the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^key-57bf97937afa810985b82fcbf043d654] may appear and be heard at the hearing or may make written representations.
+(6) Where a special administration (bank administration) order has been made, and where an application has been made under paragraph (4), the Bank of England and the FCA and, where the investment bank concerned is a PRA-authorised person, the PRA[^c-57bf97937afa810985b82fcbf043d654] may appear and be heard at the hearing or may make written representations.
 
 (7) The applicant shall give the administrator notice of the application at least 3 business days before the hearing.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b832473e8e0c931d6f7225288ded3f5a]: Commencement: [Rule 55](https://www.legislation.gov.uk/uksi/2011/1301/rule/55) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-b832473e8e0c931d6f7225288ded3f5a]: Commencement: [Rule 55](https://www.legislation.gov.uk/uksi/2011/1301/rule/55) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-57bf97937afa810985b82fcbf043d654]: Textual amendment: Words in [art. 55(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/55/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/iii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-57bf97937afa810985b82fcbf043d654]: Textual amendment: Words in [art. 55(6)](https://www.legislation.gov.uk/uksi/2011/1301/article/55/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/iii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

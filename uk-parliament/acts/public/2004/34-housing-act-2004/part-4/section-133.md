@@ -23,7 +23,7 @@ summary: ''
 (1) A local housing authority may make an interim EDMO in respect of a dwelling if—
 
 - (a) it is a dwelling to which this section applies, and
-- (b) on an application by the authority to the appropriate tribunal[^key-98bdd009ef6ddd6833709274fc1d0b95], the tribunal by order authorises them under section 134 to make such an order, either in the terms of a draft order submitted by them or in those terms as varied by the tribunal.
+- (b) on an application by the authority to the appropriate tribunal[^c-98bdd009ef6ddd6833709274fc1d0b95], the tribunal by order authorises them under section 134 to make such an order, either in the terms of a draft order submitted by them or in those terms as varied by the tribunal.
 
 (2) This section applies to a dwelling if—
 
@@ -32,16 +32,16 @@ summary: ''
 
 - “**Wholly unoccupied**” means that no part is occupied, whether lawfully or unlawfully.
 
-(3) Before determining whether to make an application to the appropriate tribunal[^key-784ec13e7e084070ecba1e56e5ecfd8d] for an authorisation under section 134, the authority must make reasonable efforts—
+(3) Before determining whether to make an application to the appropriate tribunal[^c-784ec13e7e084070ecba1e56e5ecfd8d] for an authorisation under section 134, the authority must make reasonable efforts—
 
 - (a) to notify the relevant proprietor that they are considering making an interim EDMO in respect of the dwelling under this section, and
 - (b) to ascertain what steps (if any) he is taking, or is intending to take, to secure that the dwelling is occupied.
 
-(4) In determining whether to make an application to the appropriate tribunal[^key-9c8f14f7c542aa1efbfbb0f50d067076] for an authorisation under section 134, the authority must take into account the rights of the relevant proprietor of the dwelling and the interests of the wider community.
+(4) In determining whether to make an application to the appropriate tribunal[^c-9c8f14f7c542aa1efbfbb0f50d067076] for an authorisation under section 134, the authority must take into account the rights of the relevant proprietor of the dwelling and the interests of the wider community.
 
 (5) The authority may make an interim EDMO in respect of the dwelling despite any pending appeal against the order of the tribunal (but this is without prejudice to any order that may be made on the disposal of any such appeal).
 
-(6) An application to the appropriate tribunal[^key-2994dd2a2627edde1902e42f1254a711] under this section for authorisation to make an interim EDMO in respect of a dwelling may include an application for an order under paragraph 22 of Schedule 7 determining a lease or licence of the dwelling.
+(6) An application to the appropriate tribunal[^c-2994dd2a2627edde1902e42f1254a711] under this section for authorisation to make an interim EDMO in respect of a dwelling may include an application for an order under paragraph 22 of Schedule 7 determining a lease or licence of the dwelling.
 
 (7) In this section “**public sector body**” means a body mentioned in any of paragraphs (a) to (f) of paragraph 2(1) of Schedule 14.
 
@@ -58,10 +58,10 @@ summary: ''
 
 [^c2052615]: Commencement: S. 133 wholly in force at 16.6.2006; s. 133 not in force at Royal Assent see s. 270(4)(5); s. 133 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 133 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-98bdd009ef6ddd6833709274fc1d0b95]: Textual amendment: Words in [s. 133(1)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/133/1/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/167) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-98bdd009ef6ddd6833709274fc1d0b95]: Textual amendment: Words in [s. 133(1)(b)](https://www.legislation.gov.uk/ukpga/2004/34/section/133/1/b) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/167) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-784ec13e7e084070ecba1e56e5ecfd8d]: Textual amendment: Words in [s. 133(3)](https://www.legislation.gov.uk/ukpga/2004/34/section/133/3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/167) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-784ec13e7e084070ecba1e56e5ecfd8d]: Textual amendment: Words in [s. 133(3)](https://www.legislation.gov.uk/ukpga/2004/34/section/133/3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/167) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-9c8f14f7c542aa1efbfbb0f50d067076]: Textual amendment: Words in [s. 133(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/133/4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/167) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-9c8f14f7c542aa1efbfbb0f50d067076]: Textual amendment: Words in [s. 133(4)](https://www.legislation.gov.uk/ukpga/2004/34/section/133/4) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/167) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-2994dd2a2627edde1902e42f1254a711]: Textual amendment: Words in [s. 133(6)](https://www.legislation.gov.uk/ukpga/2004/34/section/133/6) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/167) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-2994dd2a2627edde1902e42f1254a711]: Textual amendment: Words in [s. 133(6)](https://www.legislation.gov.uk/ukpga/2004/34/section/133/6) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 167](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/167) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

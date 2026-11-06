@@ -41,11 +41,11 @@ Laid before the House of Commons
 
 Coming into force in accordance with article 1
 
-The Treasury, in exercise of the powers conferred on them by sections 31(2) and 96(9) of the Value Added Tax Act 1994[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:[^key-b015edc14f7ac722c163a0ff3f4c4f28]
+The Treasury, in exercise of the powers conferred on them by sections 31(2) and 96(9) of the Value Added Tax Act 1994[^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:[^c-b015edc14f7ac722c163a0ff3f4c4f28]
 
-**1.**[^key-114c14956522aad4f1c4936504068a16] This Order may be cited as the Value Added Tax (Finance) (No. 2) Order 2003 and shall apply in relation to any services performed on or after 1st August 2003.
+**1.**[^c-114c14956522aad4f1c4936504068a16] This Order may be cited as the Value Added Tax (Finance) (No. 2) Order 2003 and shall apply in relation to any services performed on or after 1st August 2003.
 
-**2.**[^key-e6f2f3cccb90f9a64af54551b1c9d979] Group 5 of Schedule 9 to the Value Added Tax Act 1994[^f00002] is varied as follows:
+**2.**[^c-e6f2f3cccb90f9a64af54551b1c9d979] Group 5 of Schedule 9 to the Value Added Tax Act 1994[^f00002] is varied as follows:
 
 - (a) after item 2 insert—
 
@@ -79,10 +79,10 @@ The amendments set out in Article 2(d) to (i) redefine the scope of the exemptio
 
 [^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-b015edc14f7ac722c163a0ff3f4c4f28]: Modification: Order applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-b015edc14f7ac722c163a0ff3f4c4f28]: Modification: Order applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-114c14956522aad4f1c4936504068a16]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2003/1569/article/1) in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1569/article/1)
+[^c-114c14956522aad4f1c4936504068a16]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2003/1569/article/1) in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1569/article/1)
 
-[^key-e6f2f3cccb90f9a64af54551b1c9d979]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2003/1569/article/2) in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1569/article/1)
+[^c-e6f2f3cccb90f9a64af54551b1c9d979]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2003/1569/article/2) in force at 1.8.2003, see [art. 1](https://www.legislation.gov.uk/uksi/2003/1569/article/1)
 
 [^f00002]: Footnote: Group 5 was varied by S.I. [1997/510](https://www.legislation.gov.uk/uksi/1997/510), S.I. [1999/594](https://www.legislation.gov.uk/uksi/1999/594) and S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).

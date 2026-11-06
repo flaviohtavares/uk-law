@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Payment of grants or loans for fees for eligible students[^key-ea87113a798079e611f121d746f06edc]
+## 57. Payment of grants or loans for fees for eligible students[^c-ea87113a798079e611f121d746f06edc]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea87113a798079e611f121d746f06edc]: Commencement: Reg. 57 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-ea87113a798079e611f121d746f06edc]: Commencement: Reg. 57 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

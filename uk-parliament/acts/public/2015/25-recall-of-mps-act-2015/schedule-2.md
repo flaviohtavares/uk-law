@@ -22,17 +22,17 @@ summary: ''
 
 Section 10
 
-**1.**[^c22525401][^key-85973f3caeceb333616614d2b37e0943] Part 1 of the Representation of the People Act 1983 (parliamentary franchise etc) is amended as follows.
+**1.**[^c22525401][^c-85973f3caeceb333616614d2b37e0943] Part 1 of the Representation of the People Act 1983 (parliamentary franchise etc) is amended as follows.
 
-**2.**[^key-82d8ad9ff9e3c95a1f1839cfdbe8e90b] In section 13 (publication of registers), in subsection (5)(b), for “13BA” substitute “ 13BC ”.
+**2.**[^c-82d8ad9ff9e3c95a1f1839cfdbe8e90b] In section 13 (publication of registers), in subsection (5)(b), for “13BA” substitute “ 13BC ”.
 
-**3.**[^key-89e5b66003d7e0106b9a9dfe1c78e35a] (1) Section 13A (alteration of registers) is amended as follows.
+**3.**[^c-89e5b66003d7e0106b9a9dfe1c78e35a] (1) Section 13A (alteration of registers) is amended as follows.
 
 (2) In subsection (4), for “or 13BA(3), (6) or (9)” substitute “ , 13BA(3), (6) or (9) or 13BC(3) or (6) ”.
 
 (3) In subsection (5), for “or section 13BA” substitute “ , section 13BA or section 13BC ”.
 
-**4.**[^key-c35e2dc72f72cb605b0d6bb33369cde6] (1) Section 13AB (alteration of registers: interim publication dates) is amended as follows.
+**4.**[^c-c35e2dc72f72cb605b0d6bb33369cde6] (1) Section 13AB (alteration of registers: interim publication dates) is amended as follows.
 
 (2) In subsection (7)(a), after “13A(2)” insert “ or 13BC(3) or (6) ”.
 
@@ -51,7 +51,7 @@ Section 10
 
 > (10) Subsection (2) does not require a registration officer to issue a notice under that subsection in a case where section 13BC(3) or (6) requires the officer to issue a notice under that provision at an earlier time.
 
-**5.**[^key-4d8c738c69e98141f9b5fe31e9784436] (1) Section 13B (alteration of registers: pending elections), as it has effect in England and Wales and Scotland, is amended as follows.
+**5.**[^c-4d8c738c69e98141f9b5fe31e9784436] (1) Section 13B (alteration of registers: pending elections), as it has effect in England and Wales and Scotland, is amended as follows.
 
 (2) In subsection (1), after “section 13A(2) above” insert “ or section 13BC(3) or (6) below ”.
 
@@ -63,7 +63,7 @@ Section 10
 >
 > (3ZB) Subsection (3) does not require a registration officer to issue a notice under that subsection in a case where section 13BC(3) or (6) requires the officer to issue a notice under that provision at an earlier time.
 
-**6.**[^key-eb58ec0974e34a032c9b3c5aabbfb566] (1) Section 13BA (alteration of registers in Northern Ireland: pending elections) is amended as follows.
+**6.**[^c-eb58ec0974e34a032c9b3c5aabbfb566] (1) Section 13BA (alteration of registers in Northern Ireland: pending elections) is amended as follows.
 
 (2) In subsection (1), after “section 13A(2)” insert “ or section 13BC(3) or (6) ”.
 
@@ -83,7 +83,7 @@ Section 10
 >
 > (6B) Subsection (6) does not require the Chief Electoral Officer to issue a notice under that subsection in a case where section 13BC(3) or (6) requires the officer to issue a notice under that provision at an earlier time.
 
-**7.**[^c22525411][^key-351bfd00967ab4a29227a83dee962da0] Before section 13C, insert—
+**7.**[^c22525411][^c-351bfd00967ab4a29227a83dee962da0] Before section 13C, insert—
 
 > **13BC. Alteration of registers: recall petition**
 >
@@ -145,13 +145,13 @@ Section 10
 > - (d) the following expressions have the same meaning as in the 2015 Act: “MP”, “petition officer”, “recall petition”, “the signing period”, “Speaker's notice” and “working day” (see section 22 of that Act), and
 > - (e) any reference to a notice given under the 2015 Act or the time at which such a notice is given has the same meaning as in that Act.
 
-**8.**[^key-a5febcd011dbfb875def02b32081432a] (1) Section 56 (registration appeals: England and Wales) is amended as follows.
+**8.**[^c-a5febcd011dbfb875def02b32081432a] (1) Section 56 (registration appeals: England and Wales) is amended as follows.
 
 (2) In subsection (4), for “and 13B” substitute “ , 13B and 13BC ”.
 
 (3) In subsection (4A), after “13B(3) or (3B)” insert “ or 13BC(3) or (6) ”.
 
-**9.**[^key-10467d844a325fa6c9038b36add8cdf3] (1) Section 58 (registration appeals: Northern Ireland) is amended as follows.
+**9.**[^c-10467d844a325fa6c9038b36add8cdf3] (1) Section 58 (registration appeals: Northern Ireland) is amended as follows.
 
 (2) In subsection (4), for “and 13BA” substitute “ , 13BA and 13BC ”.
 
@@ -161,22 +161,22 @@ Section 10
 
 [^c22525401]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/1) partly in force; [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/1) in force at Royal Assent for specified purposes, see [s. 24(2)(c)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/c)
 
-[^key-85973f3caeceb333616614d2b37e0943]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/1) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-85973f3caeceb333616614d2b37e0943]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/1) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-82d8ad9ff9e3c95a1f1839cfdbe8e90b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-82d8ad9ff9e3c95a1f1839cfdbe8e90b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-89e5b66003d7e0106b9a9dfe1c78e35a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/3) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-89e5b66003d7e0106b9a9dfe1c78e35a]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/3) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-c35e2dc72f72cb605b0d6bb33369cde6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-c35e2dc72f72cb605b0d6bb33369cde6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-4d8c738c69e98141f9b5fe31e9784436]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-4d8c738c69e98141f9b5fe31e9784436]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-eb58ec0974e34a032c9b3c5aabbfb566]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/6) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-eb58ec0974e34a032c9b3c5aabbfb566]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/6) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c22525411]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/7) partly in force; [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/7) in force at Royal Assent for specified purposes, see [s. 24(2)(c)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/c)
 
-[^key-351bfd00967ab4a29227a83dee962da0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/7) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-351bfd00967ab4a29227a83dee962da0]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/7) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-a5febcd011dbfb875def02b32081432a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/8) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-a5febcd011dbfb875def02b32081432a]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/8) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-10467d844a325fa6c9038b36add8cdf3]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/9) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-10467d844a325fa6c9038b36add8cdf3]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2015/25/schedule/2/paragraph/9) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

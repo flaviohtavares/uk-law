@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Orders for production of documents[^key-ba264817a3a5e35652493ee160b8223c]
+## 57. Orders for production of documents[^c-ba264817a3a5e35652493ee160b8223c]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ is prima facie evidence that the elector whose vote was given by that ballot pap
 
 ## Annotations
 
-[^key-ba264817a3a5e35652493ee160b8223c]: Commencement: Reg. 57 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-ba264817a3a5e35652493ee160b8223c]: Commencement: Reg. 57 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

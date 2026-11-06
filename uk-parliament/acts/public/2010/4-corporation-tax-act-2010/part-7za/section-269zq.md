@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269ZQ. Power to amend[^key-df4edca86bcded2474d7f6ddaaeaa41e]
+## 269ZQ. Power to amend[^c-df4edca86bcded2474d7f6ddaaeaa41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) The provisions are—
 
 - (a) sections 269ZJ to 269ZP,
-- (b) sections 124A to 124C[^key-dc4d740a95761717c3c24bb6654c62b8] of FA 2012.
+- (b) sections 124A to 124C[^c-dc4d740a95761717c3c24bb6654c62b8] of FA 2012.
 
 (3) Regulations under this section may include transitional provision.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
+[^c-df4edca86bcded2474d7f6ddaaeaa41e]: Textual amendment: Pt. 7ZA inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16)
 
-[^key-dc4d740a95761717c3c24bb6654c62b8]: Textual amendment: Word in s. 269ZQ(2)(b) substituted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/11)
+[^c-dc4d740a95761717c3c24bb6654c62b8]: Textual amendment: Word in s. 269ZQ(2)(b) substituted (with effect in accordance with Sch. 10 para. 32 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2019/1/schedule/10/paragraph/11)

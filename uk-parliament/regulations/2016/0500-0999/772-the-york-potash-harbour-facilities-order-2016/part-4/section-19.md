@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Lights on tidal works etc. during construction[^key-7a117dcd3c10e6aeac1dc5ca3e77d8a1]
+## 19. Lights on tidal works etc. during construction[^c-7a117dcd3c10e6aeac1dc5ca3e77d8a1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ during the whole time of the construction, alteration or relaying, exhibit every
 
 ## Annotations
 
-[^key-7a117dcd3c10e6aeac1dc5ca3e77d8a1]: Commencement: Art. 19 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-7a117dcd3c10e6aeac1dc5ca3e77d8a1]: Commencement: Art. 19 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

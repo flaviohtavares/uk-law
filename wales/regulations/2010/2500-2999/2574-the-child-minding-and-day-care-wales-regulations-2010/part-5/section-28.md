@@ -60,13 +60,13 @@ summary: ''
 - (b) full and satisfactory information in relation to that person has been obtained in respect of the matters specified in—
   - (i) paragraphs 8 to 10 and 12 of Part 1 of Schedule 1 and paragraph 11 (e) to (g) and (j) to (1) of Part 1 of Schedule 2, in respect of a person who is to work or works for a child minder; or
   - (ii) paragraph 32 to 34 and 36 of Part 2 of Schedule 1 and paragraph 34 (e) to (g) and (j) to (l) of Part 2 of Schedule 2, in respect of a person who is to work or works for a provider of day care;
-- (c) the person has provided a written declaration of the details of any criminal offences of which he[^key-c79055cd2c7d14af70c5e303659942c9] or she has been convicted, including details of any convictions which are spent within the meaning of section 1 of the Rehabilitation of Offenders Act 1974 [^c20612641] and which may be disclosed by virtue of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 [^c20612651] or in respect of which he or she has been cautioned;
+- (c) the person has provided a written declaration of the details of any criminal offences of which he[^c-c79055cd2c7d14af70c5e303659942c9] or she has been convicted, including details of any convictions which are spent within the meaning of section 1 of the Rehabilitation of Offenders Act 1974 [^c20612641] and which may be disclosed by virtue of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 [^c20612651] or in respect of which he or she has been cautioned;
 - (d) in the reasonable view of the registered person the interests of the service will not be met unless the person can be appointed; and
 - (e) pending receipt of, and satisfying himself or herself with regard to, the certificate referred to in paragraph (3), the registered person ensures that the person is appropriately supervised while carrying out his or her duties.
 
 ## Annotations
 
-[^key-c79055cd2c7d14af70c5e303659942c9]: Textual amendment: Word in [reg. 28(6)(c)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/28/6/c) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2016/87/regulation/7)
+[^c-c79055cd2c7d14af70c5e303659942c9]: Textual amendment: Word in [reg. 28(6)(c)](https://www.legislation.gov.uk/wsi/2010/2574/regulation/28/6/c) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2016/87/regulation/7)
 
 [^c20612641]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 

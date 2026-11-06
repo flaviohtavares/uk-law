@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Requirements, Appeals etc.[^key-4598e4fd616e55bb138623af5846fb71]
+## 45. Requirements, Appeals etc.[^c-4598e4fd616e55bb138623af5846fb71]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 3 (discharge of requirements) has effect in relation to all consents, a
 
 ## Annotations
 
-[^key-4598e4fd616e55bb138623af5846fb71]: Commencement: Art. 45 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-4598e4fd616e55bb138623af5846fb71]: Commencement: Art. 45 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)

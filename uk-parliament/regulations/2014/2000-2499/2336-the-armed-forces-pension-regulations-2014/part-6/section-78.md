@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Death of a member: lump sum benefit[^key-060c7cd85d71e6c92f954d3a1813e92e]
+## 78. Death of a member: lump sum benefit[^c-060c7cd85d71e6c92f954d3a1813e92e]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-060c7cd85d71e6c92f954d3a1813e92e]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2014/2336/regulation/78) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-060c7cd85d71e6c92f954d3a1813e92e]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2014/2336/regulation/78) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

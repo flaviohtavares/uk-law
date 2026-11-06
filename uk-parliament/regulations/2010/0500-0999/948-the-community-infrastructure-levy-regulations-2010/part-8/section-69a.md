@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69A. Suspension of demand notice[^key-383fcb005204c5496a405f41e5c515e1]
+## 69A. Suspension of demand notice[^c-383fcb005204c5496a405f41e5c515e1]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ it must serve a demand notice on P.
 
 ## Annotations
 
-[^key-383fcb005204c5496a405f41e5c515e1]: Textual amendment: [Reg. 69A](https://www.legislation.gov.uk/uksi/2010/948/regulation/69A) inserted (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(10)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/10)
+[^c-383fcb005204c5496a405f41e5c515e1]: Textual amendment: [Reg. 69A](https://www.legislation.gov.uk/uksi/2010/948/regulation/69A) inserted (6.4.2011) by [The Community Infrastructure Levy (Amendment) Regulations 2011 (S.I. 2011/987)](https://www.legislation.gov.uk/uksi/2011/987), [regs. 1](https://www.legislation.gov.uk/uksi/2011/987/regulation/1), [9(10)](https://www.legislation.gov.uk/uksi/2011/987/regulation/9/10)

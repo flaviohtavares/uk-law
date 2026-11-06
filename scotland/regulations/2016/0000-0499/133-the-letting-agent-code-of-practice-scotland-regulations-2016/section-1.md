@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Citation and commencement[^key-c2acd12e959174aa7673d0b8d71d3849]
+## 1. Citation and commencement[^c-c2acd12e959174aa7673d0b8d71d3849]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Letting Agent Code of Practice (Scotland) 
 
 ## Annotations
 
-[^key-c2acd12e959174aa7673d0b8d71d3849]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)
+[^c-c2acd12e959174aa7673d0b8d71d3849]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1) in force at 31.1.2018, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/133/regulation/1)

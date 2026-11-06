@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Provision of report on request after regulatory provision is passed or made[^key-b5864d3d7957ce76d1125e45687dee67]
+## 35. Provision of report on request after regulatory provision is passed or made[^c-b5864d3d7957ce76d1125e45687dee67]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5864d3d7957ce76d1125e45687dee67]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2020/27/section/35) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/e)
+[^c-b5864d3d7957ce76d1125e45687dee67]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2020/27/section/35) in force at 20.9.2021 by [S.I. 2021/1062](https://www.legislation.gov.uk/uksi/2021/1062), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2021/1062/regulation/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Death benefit guarantees[^key-2f80707ceee44a943565ec560c72be01]
+## 18A. Death benefit guarantees[^c-2f80707ceee44a943565ec560c72be01]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f80707ceee44a943565ec560c72be01]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2005/1986/regulation/18A) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [11](https://www.legislation.gov.uk/uksi/2010/1149/regulation/11)
+[^c-2f80707ceee44a943565ec560c72be01]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2005/1986/regulation/18A) inserted (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [11](https://www.legislation.gov.uk/uksi/2010/1149/regulation/11)

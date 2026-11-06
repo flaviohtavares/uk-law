@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Commission Regulation (EU) No 547/2011 implementing Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council as regards labelling requirements for plant protection products[^key-cc57f8d4c8e5e3c89073e47b496d812b]
+## 19. Commission Regulation (EU) No 547/2011 implementing Regulation [(EC) No 1107/2009](https://www.legislation.gov.uk/eur/2009/1107) of the European Parliament and of the Council as regards labelling requirements for plant protection products[^c-cc57f8d4c8e5e3c89073e47b496d812b]
 
 *Extent: E+W+S+N.I.*
 
@@ -201,7 +201,7 @@ summary: ''
   >
   > **SPr 3**
   >
-  > — Dead rodents must be removed from the treatment area each day during treatment. Do not place in refuse bins[^key-cd5e15fc219d2dfad19ba626ac753a07] or on rubbish tips.
+  > — Dead rodents must be removed from the treatment area each day during treatment. Do not place in refuse bins[^c-cd5e15fc219d2dfad19ba626ac753a07] or on rubbish tips.
 
   ;
 - (d) in point 3.1. for the words from “Annex to Regulation (EU) No” to “products\]” substitute “ Annex to Commission Regulation (EU) No 546/2011 ”;
@@ -209,6 +209,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cc57f8d4c8e5e3c89073e47b496d812b]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-cc57f8d4c8e5e3c89073e47b496d812b]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-cd5e15fc219d2dfad19ba626ac753a07]: Textual amendment: Word in reg. 19(7)(c) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cd5e15fc219d2dfad19ba626ac753a07]: Textual amendment: Word in reg. 19(7)(c) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Application of the 1991 Act[^key-67bcc65154480399cd7debeae848760f]
+## 11. Application of the 1991 Act[^c-67bcc65154480399cd7debeae848760f]
 
 *Extent: E+W+S*
 
@@ -66,7 +66,7 @@ and all such other provisions as apply for the purposes of the provisions mentio
 
 ## Annotations
 
-[^key-67bcc65154480399cd7debeae848760f]: Commencement: Art. 11 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-67bcc65154480399cd7debeae848760f]: Commencement: Art. 11 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00031]: Footnote: Section 64 was amended by section 102 of, and Schedule 17 to, the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51) and section 168(2) of, and Schedule 9 to, the 1991 Act.
 

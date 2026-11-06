@@ -44,11 +44,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes the following Regulations in exercise of the powers conferred by Articles 65(1) and (2), 67(1)(h) and 110(2) of the Road Traffic (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-e6268df9702f893d6b1be3be7e7ff9bf]
+## 1. Citation and commencement[^c-e6268df9702f893d6b1be3be7e7ff9bf]
 
 These Regulations may be cited as the Goods Vehicles (Testing) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 1<sup>st</sup> October 2023.
 
-## 2. Amendment of the Goods Vehicles (Testing) Regulations (Northern Ireland)[^key-e3e5d5f0883a30aef946d4d5f261dca4]
+## 2. Amendment of the Goods Vehicles (Testing) Regulations (Northern Ireland)[^c-e3e5d5f0883a30aef946d4d5f261dca4]
 
 In the Goods Vehicles (Testing) Regulations (Northern Ireland) 2003[^f00004] for Schedule 1 substitute—
 
@@ -135,8 +135,8 @@ An Explanatory Memorandum and a Regulatory Impact Assessment has been produced a
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-e6268df9702f893d6b1be3be7e7ff9bf]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/126/regulation/1)
+[^c-e6268df9702f893d6b1be3be7e7ff9bf]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/126/regulation/1)
 
-[^key-e3e5d5f0883a30aef946d4d5f261dca4]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/126/regulation/1)
+[^c-e3e5d5f0883a30aef946d4d5f261dca4]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/126/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2003 No. 304](https://www.legislation.gov.uk/nisr/2003/304) as amended by [S.R. 2005 No. 406](https://www.legislation.gov.uk/nisr/2005/406) and [S.R. 2012 No. 328](https://www.legislation.gov.uk/nisr/2012/328)

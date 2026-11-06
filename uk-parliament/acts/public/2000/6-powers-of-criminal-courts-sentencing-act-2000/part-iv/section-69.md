@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Action plan orders.[^key-93db78df548a28a1742f412c112c0a15]
+## 69. Action plan orders.[^c-93db78df548a28a1742f412c112c0a15]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93db78df548a28a1742f412c112c0a15]: Textual amendment: Pt. IV Ch. V repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
+[^c-93db78df548a28a1742f412c112c0a15]: Textual amendment: Pt. IV Ch. V repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))

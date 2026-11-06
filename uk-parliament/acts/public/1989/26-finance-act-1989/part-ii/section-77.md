@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Personal pension schemes.[^key-534999d77f0744a2460144959ead9f6e]
+## 77. Personal pension schemes.[^c-534999d77f0744a2460144959ead9f6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-534999d77f0744a2460144959ead9f6e]: Textual amendment: [Ss. 75-77](https://www.legislation.gov.uk/ukpga/1989/26/section/75) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-534999d77f0744a2460144959ead9f6e]: Textual amendment: [Ss. 75-77](https://www.legislation.gov.uk/ukpga/1989/26/section/75) repealed (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/3) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

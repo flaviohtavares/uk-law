@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Consultation with tenants[^key-39b909b0d1a78a5f39c1e5e0b31fb45f]
+## 115. Consultation with tenants[^c-39b909b0d1a78a5f39c1e5e0b31fb45f]
 
 *Extent: S*
 
-(1) A registered social landlord proposing to make a disposal must [^key-20d08b66cdaf5da3cd5a7fabe36d8459]... serve a notice on the tenants of each house included in the proposed disposal—
+(1) A registered social landlord proposing to make a disposal must [^c-20d08b66cdaf5da3cd5a7fabe36d8459]... serve a notice on the tenants of each house included in the proposed disposal—
 
 - (a) specifying to whom the proposed disposal is to be made,
 - (b) explaining the likely consequences of the disposal for the tenants,
@@ -30,16 +30,16 @@ summary: ''
 (2) The registered social landlord must, after considering any timeous representations made in pursuance of the notice served under subsection (1), serve a further notice on the tenants concerned—
 
 - (a) informing them—
-  - (i) of any significant changes to the proposed disposal, [^key-2e374bb5513a1b6dd87d1f75419fbade] . . .
-  - (ii)[^key-2e374bb5513a1b6dd87d1f75419fbade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) explaining that the disposal requires the approval of tenants by way of ballot or written agreement[^key-75bd7e425a2fe25d2590e52260f49ef7].
+  - (i) of any significant changes to the proposed disposal, [^c-2e374bb5513a1b6dd87d1f75419fbade] . . .
+  - (ii)[^c-2e374bb5513a1b6dd87d1f75419fbade] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) explaining that the disposal requires the approval of tenants by way of ballot or written agreement[^c-75bd7e425a2fe25d2590e52260f49ef7].
 
 ## Annotations
 
-[^key-39b909b0d1a78a5f39c1e5e0b31fb45f]: Commencement: S. 115 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-39b909b0d1a78a5f39c1e5e0b31fb45f]: Commencement: S. 115 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
-[^key-20d08b66cdaf5da3cd5a7fabe36d8459]: Textual amendment: Words in s. 115(1) repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(4)(a)](https://www.legislation.gov.uk/asp/2018/13/section/4/4/a), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-20d08b66cdaf5da3cd5a7fabe36d8459]: Textual amendment: Words in s. 115(1) repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(4)(a)](https://www.legislation.gov.uk/asp/2018/13/section/4/4/a), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-2e374bb5513a1b6dd87d1f75419fbade]: Textual amendment: S. 115(2)(a)(ii) and word repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(4)(b)(i)](https://www.legislation.gov.uk/asp/2018/13/section/4/4/b/i), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-2e374bb5513a1b6dd87d1f75419fbade]: Textual amendment: S. 115(2)(a)(ii) and word repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(4)(b)(i)](https://www.legislation.gov.uk/asp/2018/13/section/4/4/b/i), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
 
-[^key-75bd7e425a2fe25d2590e52260f49ef7]: Textual amendment: Words in s. 115(2)(b) substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(4)(b)(ii)](https://www.legislation.gov.uk/asp/2018/13/section/4/4/b/ii), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-75bd7e425a2fe25d2590e52260f49ef7]: Textual amendment: Words in s. 115(2)(b) substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 4(4)(b)(ii)](https://www.legislation.gov.uk/asp/2018/13/section/4/4/b/ii), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

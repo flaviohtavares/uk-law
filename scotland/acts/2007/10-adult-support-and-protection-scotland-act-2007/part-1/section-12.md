@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Criteria for granting assessment order[^key-eb01606a0ff573146e842eebf55f1632]
+## 12. Criteria for granting assessment order[^c-eb01606a0ff573146e842eebf55f1632]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The sheriff may grant an assessment order only if satisfied—
 
 ## Annotations
 
-[^key-eb01606a0ff573146e842eebf55f1632]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2007/10/section/12) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-eb01606a0ff573146e842eebf55f1632]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2007/10/section/12) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Aggregates levy: removal of certain exemptions[^key-8de1a1d06771c93538cbdc0facce60f7]
+## 94. Aggregates levy: removal of certain exemptions[^c-8de1a1d06771c93538cbdc0facce60f7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8de1a1d06771c93538cbdc0facce60f7]: Textual amendment: [S. 94](https://www.legislation.gov.uk/ukpga/2014/26/section/94) repealed (retrospective to 1.8.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/2)[(6)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/6)
+[^c-8de1a1d06771c93538cbdc0facce60f7]: Textual amendment: [S. 94](https://www.legislation.gov.uk/ukpga/2014/26/section/94) repealed (retrospective to 1.8.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [s. 48(2)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/2)[(6)](https://www.legislation.gov.uk/ukpga/2015/33/section/48/6)

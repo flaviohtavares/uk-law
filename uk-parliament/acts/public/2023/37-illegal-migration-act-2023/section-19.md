@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Enforcement of local authorities’ duties under sections 17 and 18[^key-3a3f2d941234a8140c264079796db392]
+## 19. Enforcement of local authorities’ duties under sections 17 and 18[^c-3a3f2d941234a8140c264079796db392]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a3f2d941234a8140c264079796db392]: Textual amendment: [Ss. 16-28](https://www.legislation.gov.uk/ukpga/2023/37/section/16) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/d), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-3a3f2d941234a8140c264079796db392]: Textual amendment: [Ss. 16-28](https://www.legislation.gov.uk/ukpga/2023/37/section/16) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/d), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

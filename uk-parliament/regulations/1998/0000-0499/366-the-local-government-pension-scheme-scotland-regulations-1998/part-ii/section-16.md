@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Obligatory contributions during absences[^key-3c802db89f0cfe8f01453e15688df7b8]
+## 16. Obligatory contributions during absences[^c-3c802db89f0cfe8f01453e15688df7b8]
 
 *Extent: E+W+S*
 
@@ -52,6 +52,6 @@ he must make contributions at the standard contribution rate on the pay he would
 
 ## Annotations
 
-[^key-3c802db89f0cfe8f01453e15688df7b8]: Commencement: Reg. 16 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3c802db89f0cfe8f01453e15688df7b8]: Commencement: Reg. 16 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
 
 [^f00011]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).

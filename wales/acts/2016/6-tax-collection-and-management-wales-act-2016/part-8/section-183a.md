@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 183A. Suspension of repayment pending further appeal[^key-48b6d0e13154aa5296e7e66a2751bd29]
+## 183A. Suspension of repayment pending further appeal[^c-48b6d0e13154aa5296e7e66a2751bd29]
 
 *Extent: E+W*
 
 (1) This section applies where—
 
 - (a) on an appeal against an appealable decision, the tribunal determines that
-  - (i)[^key-192a37cb267e7d28c8231f210ff85058] an amount of WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax paid by a person is to be repaid by WRA, or[^key-39d52fd17868315f5870978dd4ba7f9e]
+  - (i)[^c-192a37cb267e7d28c8231f210ff85058] an amount of WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax paid by a person is to be repaid by WRA, or[^c-39d52fd17868315f5870978dd4ba7f9e]
   - (ii) an amount paid by a person in respect of a tax credit is to be repaid by WRA, and
 - (b) WRA applies under section 11(4) or 13(4) of TCEA for permission to make a further appeal.
 
@@ -56,10 +56,10 @@ the fact that WRA made a request under subsection (2) when making the applicatio
 
 ## Annotations
 
-[^key-48b6d0e13154aa5296e7e66a2751bd29]: Textual amendment: S. 183A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 65](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/65); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-48b6d0e13154aa5296e7e66a2751bd29]: Textual amendment: S. 183A inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 65](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/65); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-192a37cb267e7d28c8231f210ff85058]: Textual amendment: Words in s. 183A(1)(a) renumbered as s. 183A(1)(a)(i) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 46(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/46/a)
+[^c-192a37cb267e7d28c8231f210ff85058]: Textual amendment: Words in s. 183A(1)(a) renumbered as s. 183A(1)(a)(i) (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 46(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/46/a)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
 
-[^key-39d52fd17868315f5870978dd4ba7f9e]: Textual amendment: S. 183A(1)(a)(ii) and word inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 46(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/46/b)
+[^c-39d52fd17868315f5870978dd4ba7f9e]: Textual amendment: S. 183A(1)(a)(ii) and word inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 46(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/46/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Contents of designation orders[^key-937b281e4d77cbd6993e245f5dd4f37f]
+## 14. Contents of designation orders[^c-937b281e4d77cbd6993e245f5dd4f37f]
 
 *Extent: E+W*
 
@@ -53,13 +53,13 @@ specified relevant functions conferred by or under specified planning-related pr
   - (b) sections 32 and 33 to 37, 54 and 55 of the Planning (Listed Buildings and Conservation Areas) Act 1990 (c. 9), and
   - (c) the Planning (Hazardous Substances) Act 1990 (c. 10) (other than sections 30A to 31A and 36C of that Act),
 - “**relevant functions**” means functions of—
-  - (a) a district council, [^key-dc13c44b7a95572d0d8ba22d25eb7425]... or any other body which is a local authority within the meaning of the Town and Country Planning Act 1990,
+  - (a) a district council, [^c-dc13c44b7a95572d0d8ba22d25eb7425]... or any other body which is a local authority within the meaning of the Town and Country Planning Act 1990,
   - (b) a district planning authority (within the meaning of that Act), or
   - (c) a hazardous substances authority (within the meaning of the Planning (Hazardous Substances) Act 1990),
 - “**specified**”, in relation to a designation order, means specified or described in the order.
 
 ## Annotations
 
-[^key-937b281e4d77cbd6993e245f5dd4f37f]: Commencement: S. 14 in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/h) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-937b281e4d77cbd6993e245f5dd4f37f]: Commencement: S. 14 in force at 1.12.2008 by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 2(1)(h)](https://www.legislation.gov.uk/uksi/2008/3068/article/2/1/h) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-dc13c44b7a95572d0d8ba22d25eb7425]: Textual amendment: Words in s. 14(7) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 189(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/189/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/31); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(f)(j)(ii)](https://www.legislation.gov.uk/uksi/2012/628/article/6/f) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-dc13c44b7a95572d0d8ba22d25eb7425]: Textual amendment: Words in s. 14(7) repealed (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 189(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/189/6), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 31](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/31); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(f)(j)(ii)](https://www.legislation.gov.uk/uksi/2012/628/article/6/f) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9) [11](https://www.legislation.gov.uk/uksi/2012/628/article/11) [14](https://www.legislation.gov.uk/uksi/2012/628/article/14) [15](https://www.legislation.gov.uk/uksi/2012/628/article/15) [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

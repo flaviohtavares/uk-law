@@ -49,7 +49,7 @@ The title of these Regulations is the Waste (Household Waste Duty of Care) (Wale
 
 (1) In section 34(2A) (duty of care etc. as respects waste) of the Environmental Protection Act 1990 [^c15475981], after “England” insert “ or Wales ”.
 
-(2)[^key-1f620beb66429ac5331d20624daecbec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1f620beb66429ac5331d20624daecbec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed on behalf of the National Assembly for Wales under section 66(1) of the Government of Wales Act 1998 [^c15476001]
 
@@ -77,7 +77,7 @@ A regulatory appraisal of the effect that this instrument will have on the costs
 
 [^c15475981]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-1f620beb66429ac5331d20624daecbec]: Textual amendment: Reg. 2(2) omitted (6.4.2012) by virtue of [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2012/811/regulation/6), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/811/schedule/2/paragraph/2)
+[^c-1f620beb66429ac5331d20624daecbec]: Textual amendment: Reg. 2(2) omitted (6.4.2012) by virtue of [The Controlled Waste (England and Wales) Regulations 2012 (S.I. 2012/811)](https://www.legislation.gov.uk/uksi/2012/811), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/811/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2012/811/regulation/6), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2012/811/schedule/2/paragraph/2)
 
 [^c15476001]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 

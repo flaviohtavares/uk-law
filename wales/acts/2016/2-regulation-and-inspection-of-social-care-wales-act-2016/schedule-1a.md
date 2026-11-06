@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — RESTRICTED CHILDREN’S SERVICES: TRANSITIONAL REGISTRATION ARRANGEMENTS FOR EXISTING SERVICE PROVIDERS[^key-906c0fdb96aa9ad3c820a6a71805880a]
+## SCHEDULE 1A — RESTRICTED CHILDREN’S SERVICES: TRANSITIONAL REGISTRATION ARRANGEMENTS FOR EXISTING SERVICE PROVIDERS[^c-906c0fdb96aa9ad3c820a6a71805880a]
 
 *Extent: E+W*
 
@@ -125,4 +125,4 @@ In this Schedule—
 
 ## Annotations
 
-[^key-906c0fdb96aa9ad3c820a6a71805880a]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/anaw/2016/2/schedule/1A) inserted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 4(3)](https://www.legislation.gov.uk/asc/2025/1/section/4/3), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/b/ii)[(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))
+[^c-906c0fdb96aa9ad3c820a6a71805880a]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/anaw/2016/2/schedule/1A) inserted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 4(3)](https://www.legislation.gov.uk/asc/2025/1/section/4/3), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/b/ii)[(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))

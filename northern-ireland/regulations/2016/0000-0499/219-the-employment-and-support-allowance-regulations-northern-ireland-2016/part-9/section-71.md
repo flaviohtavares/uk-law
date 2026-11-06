@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Date from which a change in the rate of the payment takes effect[^key-449f1bbceb7ec9eddb33747bc538f7ac]
+## 71. Date from which a change in the rate of the payment takes effect[^c-449f1bbceb7ec9eddb33747bc538f7ac]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where a payment or councillor’s allowance is already being made to a claimant 
 
 ## Annotations
 
-[^key-449f1bbceb7ec9eddb33747bc538f7ac]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2016/219/regulation/71) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-449f1bbceb7ec9eddb33747bc538f7ac]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2016/219/regulation/71) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

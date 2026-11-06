@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-8efab25155028aa894c2e57754dc3b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-8efab25155028aa894c2e57754dc3b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-8efab25155028aa894c2e57754dc3b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8efab25155028aa894c2e57754dc3b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-8efab25155028aa894c2e57754dc3b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8efab25155028aa894c2e57754dc3b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-8efab25155028aa894c2e57754dc3b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8efab25155028aa894c2e57754dc3b19] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The [^c1528525]Betting, Gaming, Lotteries and Amusements (Northern Ireland) Order 1985 shall be amended in accordance with subsections (6) to (8).
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8efab25155028aa894c2e57754dc3b19]: Textual amendment: S. 18(1)-(4) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
+[^c-8efab25155028aa894c2e57754dc3b19]: Textual amendment: S. 18(1)-(4) repealed (1.9.2007) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [s. 358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/4)[(5)](https://www.legislation.gov.uk/uksi/2006/3272/article/2/5), [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) (with [arts. 7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4)) (as inserted by [S.I. 2007/2169](https://www.legislation.gov.uk/uksi/2007/2169), arts. 3, 6, Sch.)
 
 [^c1528525]: Marginal citation: [S.I. 1985/1204 (N.I. 11)](https://www.legislation.gov.uk/nisi/1985/1204).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Costs of making a claim[^key-45e1caca4b963348d546f0bdca6add7b]
+## 103. Costs of making a claim[^c-45e1caca4b963348d546f0bdca6add7b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Unless the court orders otherwise, every claimant under rule 101 of these Rules,
 
 ## Annotations
 
-[^key-45e1caca4b963348d546f0bdca6add7b]: Commencement: [Rule 103](https://www.legislation.gov.uk/nisr/2026/11/rule/103) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-45e1caca4b963348d546f0bdca6add7b]: Commencement: [Rule 103](https://www.legislation.gov.uk/nisr/2026/11/rule/103) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

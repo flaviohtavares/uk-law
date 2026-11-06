@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 118. Supplementary provision about powers of entry[^key-432bfcb02fc7d12a5e2c92a5fd57f070]
+## 118. Supplementary provision about powers of entry[^c-432bfcb02fc7d12a5e2c92a5fd57f070]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-432bfcb02fc7d12a5e2c92a5fd57f070]: Commencement: S. 118 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-432bfcb02fc7d12a5e2c92a5fd57f070]: Commencement: S. 118 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

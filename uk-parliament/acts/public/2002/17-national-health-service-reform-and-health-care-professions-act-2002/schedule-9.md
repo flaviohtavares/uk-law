@@ -22,7 +22,7 @@ summary: ''
 
 Section 37(2)
 
-### Part 1 — National Health Service[^c4206251][^key-6834f34b0d5ae1efaf379fce597a1545][^key-1b8768c1509e00f33a752de55676d79c]
+### Part 1 — National Health Service[^c4206251][^c-6834f34b0d5ae1efaf379fce597a1545][^c-1b8768c1509e00f33a752de55676d79c]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -44,7 +44,7 @@ Section 37(2)
 | Osteopaths Act 1993 (c. 21) | Section 10 (10).<br>Section 31(3) to (5) and (7).<br>Section 35(3). |
 | Chiropractors Act 1994 (c. 17) | Section 10(10).<br>Section 31(3) to (5) and (7).<br>Section 35(3). |
 
-### Part 3 — Miscellaneous[^c4206261][^key-0609e9ba445899cf5a769508cae6cf49]
+### Part 3 — Miscellaneous[^c4206261][^c-0609e9ba445899cf5a769508cae6cf49]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -61,10 +61,10 @@ Section 37(2)
 
 [^c4206251]: Commencement: Sch. 9 Pt. 1 not in force at Royal Assent, see s. 42(3); specified entries in Sch. 9 Pt. 1 in force for E. and for W. (insofar as the Secretary of State is the appropriate authority) at 1.10.2002 by [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/1/f); further specified entry in Sch. 9 Pt. 1 in force for E. at 1.10.2002 by [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/2/c); further specified entries in Sch. 9 Pt. 1 in force for W. at 10.10.2002 by [S.I. 2002/2532](https://www.legislation.gov.uk/uksi/2002/2532), [art. 2](https://www.legislation.gov.uk/uksi/2002/2532/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2532/schedule)
 
-[^key-6834f34b0d5ae1efaf379fce597a1545]: Commencement: Sch. 9 Pt. 1 in force at 11.7.2003 for specified purposes for E.W. by [S.I. 2003/1580](https://www.legislation.gov.uk/uksi/2003/1580), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2003/1580/article/2/2/c)
+[^c-6834f34b0d5ae1efaf379fce597a1545]: Commencement: Sch. 9 Pt. 1 in force at 11.7.2003 for specified purposes for E.W. by [S.I. 2003/1580](https://www.legislation.gov.uk/uksi/2003/1580), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2003/1580/article/2/2/c)
 
-[^key-1b8768c1509e00f33a752de55676d79c]: Commencement: Sch. 9 Pt. 1 in force at 1.3.2007 for specified purposes, immediately before the National Health Service Act 2006 comes into force by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), Sch. 1 Pt. 2 para. 12 (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-1b8768c1509e00f33a752de55676d79c]: Commencement: Sch. 9 Pt. 1 in force at 1.3.2007 for specified purposes, immediately before the National Health Service Act 2006 comes into force by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), Sch. 1 Pt. 2 para. 12 (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
 
 [^c4206261]: Commencement: Sch. 9 Pt. 3 not in force at Royal Assent, see s. 42(3); specified entries in Sch. 9 Pt. 3 in force for E. and for W. (insofar as the Secretary of State is the appropriate authority). at 1.10.2002 by [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/1/f); further specified entry in Sch. 9 Pt. 3 in force for E. at 1.10.2002 by [S.I. 2002/2478](https://www.legislation.gov.uk/uksi/2002/2478), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2002/2478/article/3/2/c); further specified entries in Sch. 9 Pt. 3 in force for W. at 10.10.2002 by [S.I. 2002/2532](https://www.legislation.gov.uk/uksi/2002/2532), [art. 2](https://www.legislation.gov.uk/uksi/2002/2532/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2002/2532/schedule); further specified entries in Sch. 9 Pt. 3 in force for E.W. at 1.1.2003 by [S.I. 2002/3190](https://www.legislation.gov.uk/uksi/2002/3190), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2002/3190/article/2/2/d)
 
-[^key-0609e9ba445899cf5a769508cae6cf49]: Commencement: Sch. 9 Pt. 3 in force at 1.3.2007 for specified purposes, immediately before the National Health Service Act 2006 comes into force by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), Sch. 1 Pt. 2 para. 12 (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))
+[^c-0609e9ba445899cf5a769508cae6cf49]: Commencement: Sch. 9 Pt. 3 in force at 1.3.2007 for specified purposes, immediately before the National Health Service Act 2006 comes into force by [S.I. 2006/1407](https://www.legislation.gov.uk/uksi/2006/1407), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/1407/article/1/1), Sch. 1 Pt. 2 para. 12 (with [art. 4](https://www.legislation.gov.uk/uksi/2006/1407/article/4))

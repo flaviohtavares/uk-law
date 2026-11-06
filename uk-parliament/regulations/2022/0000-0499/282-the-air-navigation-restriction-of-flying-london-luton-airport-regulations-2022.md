@@ -31,7 +31,7 @@ summary: ''
 
 Civil Aviation
 
-The Air Navigation (Restriction of Flying) (London Luton Airport) Regulations 2022 (revoked)[^key-de4b03ad42b7e57654b72c77a6f8a836]
+The Air Navigation (Restriction of Flying) (London Luton Airport) Regulations 2022 (revoked)[^c-de4b03ad42b7e57654b72c77a6f8a836]
 
 Made
 
@@ -39,22 +39,22 @@ at 7.58 a.m. on 12th March 2022
 
 Coming into force with immediate effect
 
-[^key-de4b03ad42b7e57654b72c77a6f8a836]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de4b03ad42b7e57654b72c77a6f8a836]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-de4b03ad42b7e57654b72c77a6f8a836]
+## 1. Citation and commencement[^c-de4b03ad42b7e57654b72c77a6f8a836]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Restricted airspace[^key-de4b03ad42b7e57654b72c77a6f8a836]
+## 2. Restricted airspace[^c-de4b03ad42b7e57654b72c77a6f8a836]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de4b03ad42b7e57654b72c77a6f8a836]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de4b03ad42b7e57654b72c77a6f8a836]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de4b03ad42b7e57654b72c77a6f8a836]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de4b03ad42b7e57654b72c77a6f8a836]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de4b03ad42b7e57654b72c77a6f8a836]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2022/282) revoked (26.5.2022 at 2.00 p.m.) by [The Air Navigation (Restriction of Flying) (Revocation) (No. 2) Regulations 2022 (S.I. 2022/589)](https://www.legislation.gov.uk/uksi/2022/589), [regs. 1](https://www.legislation.gov.uk/uksi/2022/589/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2022/589/regulation/2/a)
+[^c-de4b03ad42b7e57654b72c77a6f8a836]: Textual amendment: [Regulation](https://www.legislation.gov.uk/uksi/2022/282) revoked (26.5.2022 at 2.00 p.m.) by [The Air Navigation (Restriction of Flying) (Revocation) (No. 2) Regulations 2022 (S.I. 2022/589)](https://www.legislation.gov.uk/uksi/2022/589), [regs. 1](https://www.legislation.gov.uk/uksi/2022/589/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2022/589/regulation/2/a)

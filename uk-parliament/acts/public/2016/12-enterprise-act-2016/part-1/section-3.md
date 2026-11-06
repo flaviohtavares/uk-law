@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. General advice and information[^c22567771][^key-965f6a5d032f8ca522ee6e17fcb48d6e]
+## 3. General advice and information[^c22567771][^c-965f6a5d032f8ca522ee6e17fcb48d6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,4 +69,4 @@ summary: ''
 
 [^c22567771]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/12/section/3) in force at Royal Assent for specified purposes, see [s. 44(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1)
 
-[^key-965f6a5d032f8ca522ee6e17fcb48d6e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/12/section/3) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)
+[^c-965f6a5d032f8ca522ee6e17fcb48d6e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2016/12/section/3) in force at 1.10.2017 in so far as not already in force by [S.I. 2017/473](https://www.legislation.gov.uk/uksi/2017/473), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/473/regulation/3/a)

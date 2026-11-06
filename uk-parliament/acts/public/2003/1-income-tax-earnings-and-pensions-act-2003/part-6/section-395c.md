@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 395C. Meaning of “foreign service” in section 395B[^key-39bcf5817a2988c2e87d9cbe8c0086c1]
+## 395C. Meaning of “foreign service” in section 395B[^c-39bcf5817a2988c2e87d9cbe8c0086c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (a) any earnings from the employment would not be relevant earnings, or
 - (b) a deduction equal to the whole amount of the earnings from the employment was or would have been allowable under Chapter 6 of Part 5 (deductions from seafarers' earnings).
 
-(4)[^key-75bc3deb4d9f5c1616112bc1875d4880] In subsection (2) “**relevant earnings**” means—
+(4)[^c-75bc3deb4d9f5c1616112bc1875d4880] In subsection (2) “**relevant earnings**” means—
 
 - (a) for service in or after the tax year 2025-26, earnings—
   - (i) to which section 15 applies, and
@@ -67,6 +67,6 @@ or it would not have been so chargeable had there been any such emoluments.
 
 ## Annotations
 
-[^key-39bcf5817a2988c2e87d9cbe8c0086c1]: Textual amendment: S. 395C inserted (27.4.2017) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2017/10/schedule/3/paragraph/6)
+[^c-39bcf5817a2988c2e87d9cbe8c0086c1]: Textual amendment: S. 395C inserted (27.4.2017) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2017/10/schedule/3/paragraph/6)
 
-[^key-75bc3deb4d9f5c1616112bc1875d4880]: Textual amendment: S. 395C(4) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(15)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/15) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-75bc3deb4d9f5c1616112bc1875d4880]: Textual amendment: S. 395C(4) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3), [Sch. 8 para. 1(15)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/paragraph/1/15) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))

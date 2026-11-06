@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Offences by bodies corporate[^key-60310b3a5b36dff6d6c11d13cc72c463]
+## 146. Offences by bodies corporate[^c-60310b3a5b36dff6d6c11d13cc72c463]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ he (as well as the body corporate) shall be guilty of the offence and shall be l
 
 ## Annotations
 
-[^key-60310b3a5b36dff6d6c11d13cc72c463]: Commencement: S. 146 in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2004/759/article/5/2/a)
+[^c-60310b3a5b36dff6d6c11d13cc72c463]: Commencement: S. 146 in force at 1.4.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2004/759/article/5/2/a)

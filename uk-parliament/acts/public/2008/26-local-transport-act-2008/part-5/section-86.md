@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Delegation of functions of the Secretary of State[^c1952774][^key-2232c780f7bdb9135dfa599c317dd503]
+## 86. Delegation of functions of the Secretary of State[^c1952774][^c-2232c780f7bdb9135dfa599c317dd503]
 
 *Extent: E+W*
 
@@ -27,12 +27,12 @@ summary: ''
 
 (2) A delegation by virtue of this section may be made subject to conditions.
 
-(3) “**Eligible local transport authority**” means an authority which has been designated as a local transport authority by an order under section 90 or 91 of this Act or section 106 or 107 of the Local Democracy, Economic Development and Construction Act 2009.[^key-32266663c02dcc9cd4cdb123683564f6]
+(3) “**Eligible local transport authority**” means an authority which has been designated as a local transport authority by an order under section 90 or 91 of this Act or section 106 or 107 of the Local Democracy, Economic Development and Construction Act 2009.[^c-32266663c02dcc9cd4cdb123683564f6]
 
 ## Annotations
 
 [^c1952774]: Commencement: S. 86 partly in force; s. 86 in force at Royal Assent for certain purposes see [s. 134](https://www.legislation.gov.uk/ukpga/2008/26/section/134)
 
-[^key-2232c780f7bdb9135dfa599c317dd503]: Commencement: S. 86 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-2232c780f7bdb9135dfa599c317dd503]: Commencement: S. 86 in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
-[^key-32266663c02dcc9cd4cdb123683564f6]: Textual amendment: Words in s. 86(3) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 124](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/124); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)
+[^c-32266663c02dcc9cd4cdb123683564f6]: Textual amendment: Words in s. 86(3) inserted (17.12.2009) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(6)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/6), [Sch. 6 para. 124](https://www.legislation.gov.uk/ukpga/2009/20/schedule/6/paragraph/124); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 4. President and Deputy President of Tribunals: continuation[^key-b927aefbd572a06c02f402c9a695357b]
+## 4. President and Deputy President of Tribunals: continuation[^c-b927aefbd572a06c02f402c9a695357b]
 
 *Extent: E*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b927aefbd572a06c02f402c9a695357b]: Commencement: S. 4 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-b927aefbd572a06c02f402c9a695357b]: Commencement: S. 4 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

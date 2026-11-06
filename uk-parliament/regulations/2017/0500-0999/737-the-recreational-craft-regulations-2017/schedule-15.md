@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 15 — Conformity assessment procedures[^key-adfebc8a7f547b67b8e47a43b7634293]
+## SCHEDULE 15 — Conformity assessment procedures[^c-adfebc8a7f547b67b8e47a43b7634293]
 
 *Extent: E+W+S*
 
@@ -699,4 +699,4 @@ The manufacturer must, for a period ending at least 10 years after the product h
 
 ## Annotations
 
-[^key-adfebc8a7f547b67b8e47a43b7634293]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/uksi/2017/737/schedule/15) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 54](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/54) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-adfebc8a7f547b67b8e47a43b7634293]: Textual amendment: [Sch. 15](https://www.legislation.gov.uk/uksi/2017/737/schedule/15) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 28 para. 54](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/54) (with [Sch. 28 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/28/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

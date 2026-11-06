@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING
 
-The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-7c6676846e7dd014f6173bf47f98ed06]
+The Planning (Fees) (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-7c6676846e7dd014f6173bf47f98ed06]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 9th December 2005
 
-[^key-7c6676846e7dd014f6173bf47f98ed06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c6676846e7dd014f6173bf47f98ed06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-7c6676846e7dd014f6173bf47f98ed06]
+## 1. Citation and Commencement[^c-7c6676846e7dd014f6173bf47f98ed06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 2005[^key-7c6676846e7dd014f6173bf47f98ed06]
+## 2. Amendment of the Planning (Fees) Regulations (Northern Ireland) 2005[^c-7c6676846e7dd014f6173bf47f98ed06]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c6676846e7dd014f6173bf47f98ed06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c6676846e7dd014f6173bf47f98ed06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7c6676846e7dd014f6173bf47f98ed06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7c6676846e7dd014f6173bf47f98ed06]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c6676846e7dd014f6173bf47f98ed06]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/505) revoked (1.4.2015) by [The Planning (Fees) Regulations (Northern Ireland) 2015 (S.R. 2015/73)](https://www.legislation.gov.uk/nisr/2015/73), [Sch. 3](https://www.legislation.gov.uk/nisr/2015/73/schedule/3)
+[^c-7c6676846e7dd014f6173bf47f98ed06]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/505) revoked (1.4.2015) by [The Planning (Fees) Regulations (Northern Ireland) 2015 (S.R. 2015/73)](https://www.legislation.gov.uk/nisr/2015/73), [Sch. 3](https://www.legislation.gov.uk/nisr/2015/73/schedule/3)

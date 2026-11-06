@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by section 5(1)(*a*) and (*b*) of the Social Security Administration (Northern Ireland) Act 1992[^f00001] and Articles 10(1) and 11(3) and (6) of the Social Security (Northern Ireland) Order 1998[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b25aa812cac7985bf1d7197170244323]
+## 1. Citation, commencement and interpretation[^c-b25aa812cac7985bf1d7197170244323]
 
 (1) These Regulations may be cited as the Social Security (Claims and Payments and Miscellaneous Amendments) Regulations (Northern Ireland) 2002 and shall come into operation on 2nd April 2002.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Social Security (Claims and Payments) Regulations[^key-2eb2ff3495b2ea2929f4e0c386a32538]
+## 2. Amendment of the Social Security (Claims and Payments) Regulations[^c-2eb2ff3495b2ea2929f4e0c386a32538]
 
 (1)[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421] The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987 *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421][^f00005] shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]
 
@@ -61,10 +61,10 @@ The Department for Social Development, in exercise of the powers conferred by se
   > - (b) after the original claim had been decided the claim for the qualifying benefit had been decided in favour of the claimant, a member of his family or the disabled person; and *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]
 
   ;
-- (d)[^key-839ed81e87f4d6407de7a61db6dbc2e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-839ed81e87f4d6407de7a61db6dbc2e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) in paragraph (21)( *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]*a*) for “the claimant’s or the disabled person’s favour” there shall be substituted “favour of the claimant, a member of his family or the disabled person”; *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]
 - (f) in paragraph (22)— *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]
-  - (i)[^key-fc720b0526565150dd2e4f54608fca4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-fc720b0526565150dd2e4f54608fca4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii (affected by repeal, see note))[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421] in the definition of “qualifying benefit”, in paragraph ( *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]*d*), after “any other relevant benefit which” there shall be inserted “, when awarded or re-awarded,”, and *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]
   - (iii (affected by repeal, see note))[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421] after the definition of “the disabled person” there shall be added the following definition— *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]
 
@@ -98,7 +98,7 @@ The Department for Social Development, in exercise of the powers conferred by se
   - (i) after “claimant” there shall be inserted “or his partner”, and *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]
   - (ii (affected by repeal, see note))[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421] after “him” there shall be inserted “or, as the case may be, his partner”. *(affected by repeal, see note)*[^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]
 
-## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-36442381b3e36a757229c73e0b1e8fae]
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-36442381b3e36a757229c73e0b1e8fae]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00009] shall be amended in accordance with paragraphs (2) to (4).
 
@@ -118,9 +118,9 @@ The Department for Social Development, in exercise of the powers conferred by se
 - (a) for “on a date after entitlement to that benefit arises” there shall be substituted “subsequent to the first day of the period to which entitlement to that benefit relates”; and
 - (b) “and is paid” shall be omitted.
 
-(4)[^key-8bdf0a76265228311b588ca5badeb139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8bdf0a76265228311b588ca5badeb139] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-f84633f6b594f2cf07402e183939e5a9]
+## 4. Revocation[^c-f84633f6b594f2cf07402e183939e5a9]
 
 Regulation 6(3) and (5)(*d*) of the Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2000[^f00013] is hereby revoked.
 
@@ -161,11 +161,11 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-b25aa812cac7985bf1d7197170244323]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/67/regulation/1) in operation at 2.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/67/regulation/1/1)
+[^c-b25aa812cac7985bf1d7197170244323]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/67/regulation/1) in operation at 2.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/67/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2eb2ff3495b2ea2929f4e0c386a32538]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/67/regulation/2) in operation at 2.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/67/regulation/1/1)
+[^c-2eb2ff3495b2ea2929f4e0c386a32538]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/67/regulation/2) in operation at 2.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/67/regulation/1/1)
 
 [^M_F_f5924da5-dd63-41f9-a47a-991b87c26421]: Textual amendment: Reg. 2 revoked for specified purposes (7.4.2003) by [The Child Benefit and Guardian’s Allowance (Administration) Regulations 2003 (S.I. 2003/492)](https://www.legislation.gov.uk/uksi/2003/492), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/1), [43](https://www.legislation.gov.uk/uksi/2003/492/regulation/43), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2003/492/schedule/3/part/2) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2003/492/regulation/1/2), [44](https://www.legislation.gov.uk/uksi/2003/492/regulation/44))
 
@@ -173,15 +173,15 @@ These Regulations do not impose a charge on business.
 
 [^f00006]: Footnote: Paragraphs (16) to (19), (21) and (22) were substituted by regulation 3(2)(*a*) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
-[^key-839ed81e87f4d6407de7a61db6dbc2e2]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/nisr/2002/67/regulation/2/2/d) revoked (2.10.2006) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2006 (S.R. 2006/365)](https://www.legislation.gov.uk/nisr/2006/365), [regs. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1), [4](https://www.legislation.gov.uk/nisr/2006/365/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2006/365/schedule)
+[^c-839ed81e87f4d6407de7a61db6dbc2e2]: Textual amendment: [Reg. 2(2)(d)](https://www.legislation.gov.uk/nisr/2002/67/regulation/2/2/d) revoked (2.10.2006) by [The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2006 (S.R. 2006/365)](https://www.legislation.gov.uk/nisr/2006/365), [regs. 1](https://www.legislation.gov.uk/nisr/2006/365/regulation/1), [4](https://www.legislation.gov.uk/nisr/2006/365/regulation/4), [Sch.](https://www.legislation.gov.uk/nisr/2006/365/schedule)
 
-[^key-fc720b0526565150dd2e4f54608fca4c]: Textual amendment: [Reg. 2(2)(f)(i)](https://www.legislation.gov.uk/nisr/2002/67/regulation/2/2/f/i) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/168/schedule)
+[^c-fc720b0526565150dd2e4f54608fca4c]: Textual amendment: [Reg. 2(2)(f)(i)](https://www.legislation.gov.uk/nisr/2002/67/regulation/2/2/f/i) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/168/schedule)
 
 [^f00007]: Footnote: Paragraph (29) was added by regulation 2(2) of [S.R. 1997 No. 417](https://www.legislation.gov.uk/nisr/1997/417)
 
 [^f00008]: Footnote: Regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156)
 
-[^key-36442381b3e36a757229c73e0b1e8fae]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/67/regulation/3) in operation at 2.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/67/regulation/1/1)
+[^c-36442381b3e36a757229c73e0b1e8fae]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/67/regulation/3) in operation at 2.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/67/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending regulations are [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
@@ -189,8 +189,8 @@ These Regulations do not impose a charge on business.
 
 [^f00011]: Footnote: Sub-paragraph (*e*) was substituted by regulation 6(4) of [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)
 
-[^key-8bdf0a76265228311b588ca5badeb139]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2002/67/regulation/3/4) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/168/schedule)
+[^c-8bdf0a76265228311b588ca5badeb139]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/nisr/2002/67/regulation/3/4) revoked (10.4.2006) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2006 (S.R. 2006/168)](https://www.legislation.gov.uk/nisr/2006/168), [reg. 1(b)](https://www.legislation.gov.uk/nisr/2006/168/regulation/1/b), [Sch.](https://www.legislation.gov.uk/nisr/2006/168/schedule)
 
-[^key-f84633f6b594f2cf07402e183939e5a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/67/regulation/4) in operation at 2.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/67/regulation/1/1)
+[^c-f84633f6b594f2cf07402e183939e5a9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/67/regulation/4) in operation at 2.4.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/67/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2000 No. 215](https://www.legislation.gov.uk/nisr/2000/215)

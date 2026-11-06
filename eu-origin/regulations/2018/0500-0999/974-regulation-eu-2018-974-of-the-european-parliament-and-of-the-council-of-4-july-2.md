@@ -35,94 +35,94 @@ on statistics of goods transport by inland waterways
 
 (codification) (revoked)
 
-[^key-70bb40ce1bf0e8db134ccec02105f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70bb40ce1bf0e8db134ccec02105f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-70bb40ce1bf0e8db134ccec02105f0a8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Scope[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 1. Subject matter[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Definitions[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 2. Scope[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Data collection[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 3. Definitions[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Pilot studies[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 4. Data collection[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transmission of data[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 5. Pilot studies[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Dissemination[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 6. Transmission of data[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Quality of data[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 7. Dissemination[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Reports on implementation[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 8. Quality of data[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Exercise of the delegation[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 9. Reports on implementation[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Committee procedure[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 10. Exercise of the delegation[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Repeal[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 11. Committee procedure[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Entry into force[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 12. Repeal[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-70bb40ce1bf0e8db134ccec02105f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## Article 13. Entry into force[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+[^c-70bb40ce1bf0e8db134ccec02105f0a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## ANNEX II[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## ANNEX III[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## ANNEX IV[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## ANNEX V[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII — REPEALED REGULATION WITH LIST OF ITS SUCCESSIVE AMENDMENTS[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## ANNEX VI[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VIII — Correlation Table[^key-70bb40ce1bf0e8db134ccec02105f0a8]
+## ANNEX VII — REPEALED REGULATION WITH LIST OF ITS SUCCESSIVE AMENDMENTS[^c-70bb40ce1bf0e8db134ccec02105f0a8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX VIII — Correlation Table[^c-70bb40ce1bf0e8db134ccec02105f0a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70bb40ce1bf0e8db134ccec02105f0a8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 290](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/290); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-70bb40ce1bf0e8db134ccec02105f0a8]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 290](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/290); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

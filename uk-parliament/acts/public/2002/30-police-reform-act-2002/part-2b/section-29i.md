@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29I. Duty to keep whistle-blowers informed[^key-2c39f0af6dd8bee3a3f609c11ed14793]
+## 29I. Duty to keep whistle-blowers informed[^c-2c39f0af6dd8bee3a3f609c11ed14793]
 
 *Extent: E+W+S+N.I.*
 
-(1) Where the Director General[^key-d0dbddb6202ded5ff76b459dd01dd1c0] carries out an investigation under section 29D(1), the Director General[^key-72d3927952ffd39d47c713703e99ddcd] must keep the whistle-blower properly informed about the progress of the investigation and its outcome.
+(1) Where the Director General[^c-d0dbddb6202ded5ff76b459dd01dd1c0] carries out an investigation under section 29D(1), the Director General[^c-72d3927952ffd39d47c713703e99ddcd] must keep the whistle-blower properly informed about the progress of the investigation and its outcome.
 
 (2) The Secretary of State may by regulations provide for exceptions to the duty under subsection (1).
 
@@ -41,8 +41,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2c39f0af6dd8bee3a3f609c11ed14793]: Textual amendment: Pt. 2B inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/28/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
+[^c-2c39f0af6dd8bee3a3f609c11ed14793]: Textual amendment: Pt. 2B inserted (31.1.2017 for specified purposes) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 28(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/28/1), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e)
 
-[^key-d0dbddb6202ded5ff76b459dd01dd1c0]: Textual amendment: Words in [s. 29I(1)](https://www.legislation.gov.uk/ukpga/2002/30/section/29I/1) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 47(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/47/a); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-d0dbddb6202ded5ff76b459dd01dd1c0]: Textual amendment: Words in [s. 29I(1)](https://www.legislation.gov.uk/ukpga/2002/30/section/29I/1) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 47(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/47/a); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
 
-[^key-72d3927952ffd39d47c713703e99ddcd]: Textual amendment: Words in [s. 29I(1)](https://www.legislation.gov.uk/ukpga/2002/30/section/29I/1) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 47(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/47/b); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))
+[^c-72d3927952ffd39d47c713703e99ddcd]: Textual amendment: Words in [s. 29I(1)](https://www.legislation.gov.uk/ukpga/2002/30/section/29I/1) substituted (31.1.2017 for specified purposes, 8.1.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 9 para. 47(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/9/paragraph/47/b); [S.I. 2017/1249](https://www.legislation.gov.uk/uksi/2017/1249), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1249/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/1249/regulation/3))

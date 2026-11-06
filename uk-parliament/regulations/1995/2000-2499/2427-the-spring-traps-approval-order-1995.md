@@ -44,13 +44,13 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food, in relation to England, and the Secretary of State, in relation to Wales, in exercise of the powers conferred by section 8(3) and (7) of the Pests Act 1954[^f00001] and of all other powers enabling them in that behalf, hereby make the following order:
 
-## 1. Title, commencement and interpretation[^key-d78e898cbd4ec6369b7f99fbff215bfd]
+## 1. Title, commencement and interpretation[^c-d78e898cbd4ec6369b7f99fbff215bfd]
 
 (1) This Order may be cited as the Spring Traps Approval Order 1995 and shall come into force on 10th October 1995.
 
 (2) Any reference in this Order to “the Schedule” is a reference to the Schedule to this Order.
 
-## 2. Approval of spring traps[^key-3ba0ee31452a8722a7090b0b143df153]
+## 2. Approval of spring traps[^c-3ba0ee31452a8722a7090b0b143df153]
 
 (1) For the purposes of section 8(3) of the Pests Act 1954, the following spring traps are approved, namely—
 
@@ -61,7 +61,7 @@ The Minister of Agriculture, Fisheries and Food, in relation to England, and the
 
 (3) For the purposes of this Order, a spring trap is equivalent in all relevant respects to a spring trap of a type and make specified in the Schedule if it corresponds to the spring trap so specified in construction, in materials, in impact force or momentum, and in all other respects which are relevant to its effect or manner of operation as a trap.
 
-## 3. Revocations[^key-277cade92e3bc4785fbdf350cadc5172]
+## 3. Revocations[^c-277cade92e3bc4785fbdf350cadc5172]
 
 The following instruments are revoked—
 
@@ -84,7 +84,7 @@ Parliamentary Under Secretary of State, Welsh Office
 
 4th September 1995
 
-## SCHEDULE[^key-2390fe5dd8c60772b66ba64d555dd632]
+## SCHEDULE[^c-2390fe5dd8c60772b66ba64d555dd632]
 
 Article 2
 
@@ -120,11 +120,11 @@ This Order revokes and replaces the Spring Traps Approval Order 1975 and subsequ
 
 [^f00001]: Footnote: [1954 c. 68](https://www.legislation.gov.uk/ukpga/1954/68). The functions of the Minister of Food under the Act were transferred to the Minister of Agriculture and Fisheries (and that Minister was given the title “Minister of Agriculture, Fisheries and Food”) by S.I. [1955/554](https://www.legislation.gov.uk/uksi/1955/554). Those functions were, in relation to Wales, transferred to the Secretary of State by S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272), article 2(1).
 
-[^key-d78e898cbd4ec6369b7f99fbff215bfd]: Commencement: Art. 1 in force at 10.10.1995, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1995/2427/article/1/1)
+[^c-d78e898cbd4ec6369b7f99fbff215bfd]: Commencement: Art. 1 in force at 10.10.1995, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1995/2427/article/1/1)
 
-[^key-3ba0ee31452a8722a7090b0b143df153]: Commencement: Art. 2 in force at 10.10.1995, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1995/2427/article/1/1)
+[^c-3ba0ee31452a8722a7090b0b143df153]: Commencement: Art. 2 in force at 10.10.1995, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1995/2427/article/1/1)
 
-[^key-277cade92e3bc4785fbdf350cadc5172]: Commencement: Art. 3 in force at 10.10.1995, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1995/2427/article/1/1)
+[^c-277cade92e3bc4785fbdf350cadc5172]: Commencement: Art. 3 in force at 10.10.1995, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1995/2427/article/1/1)
 
 [^f00002]: Footnote: S.I. [1975/1647](https://www.legislation.gov.uk/uksi/1975/1647).
 
@@ -134,4 +134,4 @@ This Order revokes and replaces the Spring Traps Approval Order 1975 and subsequ
 
 [^f00005]: Footnote: S.I. [1993/189](https://www.legislation.gov.uk/uksi/1993/189).
 
-[^key-2390fe5dd8c60772b66ba64d555dd632]: Commencement: Sch. in force at 10.10.1995, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1995/2427/article/1/1)
+[^c-2390fe5dd8c60772b66ba64d555dd632]: Commencement: Sch. in force at 10.10.1995, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1995/2427/article/1/1)

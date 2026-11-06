@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 396DA. Extension of period for making determination where interim freezing order has been made[^key-2d5f821ed6928d980466f69a5ed9be7e][^key-12fa3c3db09cc1fc5e8b6c9bc3499d12]
+## 396DA. Extension of period for making determination where interim freezing order has been made[^c-2d5f821ed6928d980466f69a5ed9be7e][^c-12fa3c3db09cc1fc5e8b6c9bc3499d12]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2d5f821ed6928d980466f69a5ed9be7e]: Textual amendment: [Ss. 396DA](https://www.legislation.gov.uk/ukpga/2002/29/section/396DA), [396DB](https://www.legislation.gov.uk/ukpga/2002/29/section/396DB) inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/50/3), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
+[^c-2d5f821ed6928d980466f69a5ed9be7e]: Textual amendment: [Ss. 396DA](https://www.legislation.gov.uk/ukpga/2002/29/section/396DA), [396DB](https://www.legislation.gov.uk/ukpga/2002/29/section/396DB) inserted (15.5.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/50/3), [69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1); [S.I. 2022/519](https://www.legislation.gov.uk/uksi/2022/519), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/519/regulation/1/3), [2](https://www.legislation.gov.uk/uksi/2022/519/regulation/2)
 
-[^key-12fa3c3db09cc1fc5e8b6c9bc3499d12]: Textual amendment: Ss. 396A-396I and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/22/section/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-12fa3c3db09cc1fc5e8b6c9bc3499d12]: Textual amendment: Ss. 396A-396I and cross-heading inserted (27.4.2017 for specified purposes, 31.1.2018 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 4](https://www.legislation.gov.uk/ukpga/2017/22/section/4), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) If any person (other than[^c17123581] [^key-cbbb1ffc88586f1f6fee0409f37acbc1]... an authorised HSC[^c21355311] trust) having the guardianship of a patient received into guardianship under this Part—
+(1) If any person (other than[^c17123581] [^c-cbbb1ffc88586f1f6fee0409f37acbc1]... an authorised HSC[^c21355311] trust) having the guardianship of a patient received into guardianship under this Part—
 
 - (a) dies; or
 - (b) gives notice in writing to the responsible authority that he desires to relinquish the functions of guardian,
@@ -29,7 +29,7 @@ the guardianship of the patient shall thereupon vest in the responsible authorit
 
 (2) If any such person, not having given notice under paragraph (1)(b), is incapacitated by illness or any other cause from performing the functions of guardian of the patient, those functions may, during his incapacity, be performed on his behalf by the responsible authority or by any other person approved for the purpose by that authority.
 
-(3) If it appears to a county court, upon application made by an officer of the responsible authority, that any person (other than [^key-cbbb1ffc88586f1f6fee0409f37acbc1]... an authorised HSC trust) having the guardianship of a patient received into guardianship under this Part has performed his functions negligently or in a manner contrary to the interests of the welfare of the patient, the court may order that the guardianship of the patient be transferred to the responsible authority or to any other person approved for the purpose by that authority.
+(3) If it appears to a county court, upon application made by an officer of the responsible authority, that any person (other than [^c-cbbb1ffc88586f1f6fee0409f37acbc1]... an authorised HSC trust) having the guardianship of a patient received into guardianship under this Part has performed his functions negligently or in a manner contrary to the interests of the welfare of the patient, the court may order that the guardianship of the patient be transferred to the responsible authority or to any other person approved for the purpose by that authority.
 
 (4) Where the guardianship of a patient is transferred to the responsible authority or any other person by or under this Article, Article 28(6) shall apply as if the patient had been transferred into the guardianship of that authority or person by virtue of that Article.
 
@@ -39,7 +39,7 @@ the guardianship of the patient shall thereupon vest in the responsible authorit
 
 [^c17123581]: Textual amendment: [1994 NI 2](https://www.legislation.gov.uk/1994/ni2)
 
-[^key-cbbb1ffc88586f1f6fee0409f37acbc1]: Textual amendment: Words in [art. 25](https://www.legislation.gov.uk/nisi/1986/595/article/25) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 72](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/72); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-cbbb1ffc88586f1f6fee0409f37acbc1]: Textual amendment: Words in [art. 25](https://www.legislation.gov.uk/nisi/1986/595/article/25) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 72](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/72); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
 [^c21355311]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(d)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/d) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 

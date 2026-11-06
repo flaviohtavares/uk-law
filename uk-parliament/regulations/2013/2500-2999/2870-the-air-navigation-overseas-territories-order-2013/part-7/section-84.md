@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Use of flight recording systems and preservation of records[^key-366ce2f82ac5eb9c387af2d4f783e513]
+## 84. Use of flight recording systems and preservation of records[^c-366ce2f82ac5eb9c387af2d4f783e513]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-366ce2f82ac5eb9c387af2d4f783e513]: Commencement: [Art. 84](https://www.legislation.gov.uk/uksi/2013/2870/article/84) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-366ce2f82ac5eb9c387af2d4f783e513]: Commencement: [Art. 84](https://www.legislation.gov.uk/uksi/2013/2870/article/84) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

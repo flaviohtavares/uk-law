@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Amendment of the Official Feed and Food Controls (England) Regulations 2009[^key-7da36132bedce15e8f50cee371266adb]
+## 3. Amendment of the Official Feed and Food Controls (England) Regulations 2009[^c-7da36132bedce15e8f50cee371266adb]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,6 +74,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7da36132bedce15e8f50cee371266adb]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-7da36132bedce15e8f50cee371266adb]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375371]: Marginal citation: [S.I. 2009/3255](https://www.legislation.gov.uk/uksi/2009/3255), as last amended by [S.I. 2019/1476](https://www.legislation.gov.uk/uksi/2019/1476).

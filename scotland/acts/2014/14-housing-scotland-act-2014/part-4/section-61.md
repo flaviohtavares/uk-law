@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Meaning of letting agency work[^key-a39bf87c940e6a5f9f14b7e96fb7b043]
+## 61. Meaning of letting agency work[^c-a39bf87c940e6a5f9f14b7e96fb7b043]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a39bf87c940e6a5f9f14b7e96fb7b043]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/14/section/61) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-a39bf87c940e6a5f9f14b7e96fb7b043]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2014/14/section/61) in force at 20.11.2014 by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

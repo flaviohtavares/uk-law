@@ -27,7 +27,7 @@ summary: ''
 
 (2) A person commits an offence if, without reasonable excuse, he incurs any expenses in contravention of subsection (1).
 
-(3)[^key-9d4776919f55108d5fb1f35c9b8faf26] Where, in the case of a permitted participant that is a registered party, any expenses are incurred in contravention of subsection (1), the expenses shall not count for the purposes of sections 117 to 123 or Schedule 14 as referendum expenses incurred by or on behalf of the permitted participant.
+(3)[^c-9d4776919f55108d5fb1f35c9b8faf26] Where, in the case of a permitted participant that is a registered party, any expenses are incurred in contravention of subsection (1), the expenses shall not count for the purposes of sections 117 to 123 or Schedule 14 as referendum expenses incurred by or on behalf of the permitted participant.
 
 ## Annotations
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c20061071]: Modification: S. 113 applied (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(2)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/2)
 
-[^key-9d4776919f55108d5fb1f35c9b8faf26]: Modification: S. 113(3) applied (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 22(7)(b)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22/7/b); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-9d4776919f55108d5fb1f35c9b8faf26]: Modification: S. 113(3) applied (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 22(7)(b)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/22/7/b); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 153. Data protection[^key-584580c33eb8c1973e822d5b0c508466]
+## 153. Data protection[^c-584580c33eb8c1973e822d5b0c508466]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 31 of the Data Protection Act 1998 (c. 29) (regulatory activity), aft
 
 ## Annotations
 
-[^key-584580c33eb8c1973e822d5b0c508466]: Commencement: S. 153 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)
+[^c-584580c33eb8c1973e822d5b0c508466]: Commencement: S. 153 in force at 6.10.2010 by [S.I. 2010/2089](https://www.legislation.gov.uk/uksi/2010/2089), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2089/article/2/a)

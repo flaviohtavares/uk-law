@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 131. Minimum revenue provision for financial years beginning after 31st March 1997[^key-a6562012472369c47b7a97b2b3cdb8d7]
+## 131. Minimum revenue provision for financial years beginning after 31st March 1997[^c-a6562012472369c47b7a97b2b3cdb8d7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Subject to regulation 138, for the financial year beginning on 1st April 1997 an
 
 ## Annotations
 
-[^key-a6562012472369c47b7a97b2b3cdb8d7]: Commencement: Reg. 131 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-a6562012472369c47b7a97b2b3cdb8d7]: Commencement: Reg. 131 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

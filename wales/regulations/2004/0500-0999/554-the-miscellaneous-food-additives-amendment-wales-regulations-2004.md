@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Miscellaneous Food Additives (Amendment) (Wales) Regulations 2004 (revoked)[^key-47333419436784b0098eafc2a9e53737]
+The Miscellaneous Food Additives (Amendment) (Wales) Regulations 2004 (revoked)[^c-47333419436784b0098eafc2a9e53737]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 5th March 2004
 
-[^key-47333419436784b0098eafc2a9e53737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47333419436784b0098eafc2a9e53737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-47333419436784b0098eafc2a9e53737]
+## 1. Title, commencement and application[^c-47333419436784b0098eafc2a9e53737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^key-47333419436784b0098eafc2a9e53737]
+## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^c-47333419436784b0098eafc2a9e53737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential amendments[^key-47333419436784b0098eafc2a9e53737]
+## 3. Consequential amendments[^c-47333419436784b0098eafc2a9e53737]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47333419436784b0098eafc2a9e53737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47333419436784b0098eafc2a9e53737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-47333419436784b0098eafc2a9e53737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47333419436784b0098eafc2a9e53737]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47333419436784b0098eafc2a9e53737]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)
+[^c-47333419436784b0098eafc2a9e53737]: Textual amendment: Regulations revoked (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [Sch. 3](https://www.legislation.gov.uk/wsi/2018/806/schedule/3)

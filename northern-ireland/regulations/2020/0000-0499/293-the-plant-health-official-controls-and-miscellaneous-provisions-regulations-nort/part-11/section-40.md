@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. General[^key-c21c6d7b23ff827db0b19607625d4c5f]
+## 40. General[^c-c21c6d7b23ff827db0b19607625d4c5f]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c21c6d7b23ff827db0b19607625d4c5f]: Commencement: Reg. 40 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-c21c6d7b23ff827db0b19607625d4c5f]: Commencement: Reg. 40 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

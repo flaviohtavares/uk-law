@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 72. Rights of way and other easements[^key-84f72e934bf4b53385f2c4fbfe63f3ba]
+## 72. Rights of way and other easements[^c-84f72e934bf4b53385f2c4fbfe63f3ba]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84f72e934bf4b53385f2c4fbfe63f3ba]: Commencement: S. 72 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-84f72e934bf4b53385f2c4fbfe63f3ba]: Commencement: S. 72 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

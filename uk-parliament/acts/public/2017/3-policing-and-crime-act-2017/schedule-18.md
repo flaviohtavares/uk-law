@@ -22,9 +22,9 @@ summary: ''
 
 Section 142
 
-**1.**[^c22728541][^key-1ab4544a892c91f928b4c282f5802d8f] Chapter 2 of Part 2 of the Police Reform and Social Responsibility Act 2011 (late night levy) is amended as follows.
+**1.**[^c22728541][^c-1ab4544a892c91f928b4c282f5802d8f] Chapter 2 of Part 2 of the Police Reform and Social Responsibility Act 2011 (late night levy) is amended as follows.
 
-**2.**[^c22728551][^key-876d3a1b35573b7d58dc3010b3e823c0] (1) Section 126 (“relevant late night authorisation” and related definitions) is amended as follows.
+**2.**[^c22728551][^c-876d3a1b35573b7d58dc3010b3e823c0] (1) Section 126 (“relevant late night authorisation” and related definitions) is amended as follows.
 
 (2) In subsection (2)—
 
@@ -54,7 +54,7 @@ Section 142
 - (a) for “the late night levy requirement” substitute “ a late night levy requirement ”;
 - (b) omit “in its area”.
 
-**3.**[^c22728561][^key-d03082b17b371a76f27c7abe8d174cef] (1) Section 127 (liability to pay late night levy) is amended as follows.
+**3.**[^c22728561][^c-d03082b17b371a76f27c7abe8d174cef] (1) Section 127 (liability to pay late night levy) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -70,7 +70,7 @@ Section 142
 
 (5) In subsection (3), for “in its area” substitute “ in relation to the late night levy requirement ”.
 
-**4.**[^c22728571][^key-bdd570a5401f5d37ed82a0ac4b549db1] (1) Section 128 (amount of late night levy) is amended as follows.
+**4.**[^c22728571][^c-bdd570a5401f5d37ed82a0ac4b549db1] (1) Section 128 (amount of late night levy) is amended as follows.
 
 (2) In subsection (1) after “For” insert “ any levy requirement and ”.
 
@@ -88,7 +88,7 @@ Section 142
 - (c) for “the levy” substitute “ a levy ”;
 - (d) omit “for the levy year”.
 
-**5.**[^c22728581][^key-303671eea395a828ac98ecf476698d57] (1) Section 129 (payment and administration of the levy) is amended as follows.
+**5.**[^c22728581][^c-303671eea395a828ac98ecf476698d57] (1) Section 129 (payment and administration of the levy) is amended as follows.
 
 (2) In subsection (1), in the closing words, for “the late night levy” substitute “ a late night levy ”.
 
@@ -108,7 +108,7 @@ Section 142
 
 (6) In subsection (6), in the closing words, for “the late night levy” (in both places where it occurs) substitute “ a late night levy ”.
 
-**6.**[^c22728591][^key-3c3d652593e6dc05340de20dc6974e68] (1) Section 130 (net amount of levy payments) is amended as follows.
+**6.**[^c22728591][^c-3c3d652593e6dc05340de20dc6974e68] (1) Section 130 (net amount of levy payments) is amended as follows.
 
 (2) In subsection (1), after “In this Chapter” insert “ , in relation to a late night levy requirement, ”.
 
@@ -116,7 +116,7 @@ Section 142
 
 (4) In subsection (5), in the opening words, at the beginning insert “ In relation to a late night levy requirement, ”.
 
-**7.**[^c22728601][^key-4ec73839e42d7d8e0f6edee7745ffb7e] (1) Section 131 (application of net amount of levy payments) is amended as follows.
+**7.**[^c22728601][^c-4ec73839e42d7d8e0f6edee7745ffb7e] (1) Section 131 (application of net amount of levy payments) is amended as follows.
 
 (2) In subsection (1), at the beginning insert “ In relation to a late night levy requirement, ”.
 
@@ -130,7 +130,7 @@ Section 142
 
 (4) In subsection (6)(b), for “in respect of the levy” substitute “ in respect of a levy ”.
 
-**8.**[^c22728611][^key-dc329518fe0eaa18d80c8543da14bd5b] (1) Section 132 (introduction of late night levy requirement) is amended as follows.
+**8.**[^c22728611][^c-dc329518fe0eaa18d80c8543da14bd5b] (1) Section 132 (introduction of late night levy requirement) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -141,7 +141,7 @@ Section 142
   - (ii) in sub-paragraph (ii), omit “in its area”;
   - (iii) in sub-paragraph (iii), omit “in its area”.
 
-**9.**[^c22728621][^key-09b20a34f7faa7d7875cef6a840a1b14] (1) Section 133 (amendment of late night levy requirement) is amended as follows.
+**9.**[^c22728621][^c-09b20a34f7faa7d7875cef6a840a1b14] (1) Section 133 (amendment of late night levy requirement) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -162,7 +162,7 @@ Section 142
 - (b) in that paragraph, after “relevant decision” insert “ by a licensing authority ”;
 - (c) in the closing words, omit “in its area”.
 
-**10.**[^c22728631][^key-add626f87e8a837d027a6a5389f079d0] (1) Section 134 (introduction or variation of late night levy requirement: procedure) is amended as follows.
+**10.**[^c22728631][^c-add626f87e8a837d027a6a5389f079d0] (1) Section 134 (introduction or variation of late night levy requirement: procedure) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -188,7 +188,7 @@ Section 142
 
 (6) Omit subsection (5).
 
-**11.**[^c22728641][^key-153f2e4fff8dcb9f20bc412f0c71b126] (1) Section 135 (permitted exemption and reduction categories) is amended as follows.
+**11.**[^c22728641][^c-153f2e4fff8dcb9f20bc412f0c71b126] (1) Section 135 (permitted exemption and reduction categories) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -209,7 +209,7 @@ Section 142
   - (iii) for “relevant late night authorisations” substitute “ relevant late night alcohol authorisations or relevant late night refreshment authorisations ”;
   - (iv) omit “for a levy year”.
 
-**12.**[^c22728651][^key-657e4d7cfd6fb1f9ec7da3ff201c0e86] After section 136 insert—
+**12.**[^c22728651][^c-657e4d7cfd6fb1f9ec7da3ff201c0e86] After section 136 insert—
 
 > **136A. Late night levy: requests by relevant local policing bodies**
 >
@@ -230,7 +230,7 @@ Section 142
 >
 > (7) It is for the licensing authority to determine the manner in which it publishes the request and its response under subsection (4).
 
-**13.**[^c22728661][^key-8d1001da86f072ac84559f18882f8dc3] (1) Section 137 (interpretation) is amended as follows.
+**13.**[^c22728661][^c-8d1001da86f072ac84559f18882f8dc3] (1) Section 137 (interpretation) is amended as follows.
 
 (2) For “ “the late night levy requirement”” substitute “ “a late night levy requirement” ”.
 
@@ -251,52 +251,52 @@ Section 142
 
 [^c22728541]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/1) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1ab4544a892c91f928b4c282f5802d8f]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/1) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-1ab4544a892c91f928b4c282f5802d8f]: Commencement: [Sch. 18 para. 1](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/1) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728551]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/2) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-876d3a1b35573b7d58dc3010b3e823c0]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/2) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-876d3a1b35573b7d58dc3010b3e823c0]: Commencement: [Sch. 18 para. 2](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/2) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728561]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/3) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-d03082b17b371a76f27c7abe8d174cef]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/3) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-d03082b17b371a76f27c7abe8d174cef]: Commencement: [Sch. 18 para. 3](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/3) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728571]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/4) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-bdd570a5401f5d37ed82a0ac4b549db1]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/4) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-bdd570a5401f5d37ed82a0ac4b549db1]: Commencement: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/4) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728581]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/5) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-303671eea395a828ac98ecf476698d57]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/5) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-303671eea395a828ac98ecf476698d57]: Commencement: [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/5) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728591]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/6) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-3c3d652593e6dc05340de20dc6974e68]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/6) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-3c3d652593e6dc05340de20dc6974e68]: Commencement: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/6) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728601]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/7) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-4ec73839e42d7d8e0f6edee7745ffb7e]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/7) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-4ec73839e42d7d8e0f6edee7745ffb7e]: Commencement: [Sch. 18 para. 7](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/7) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728611]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/8) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-dc329518fe0eaa18d80c8543da14bd5b]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/8) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-dc329518fe0eaa18d80c8543da14bd5b]: Commencement: [Sch. 18 para. 8](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/8) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728621]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/9) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-09b20a34f7faa7d7875cef6a840a1b14]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/9) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-09b20a34f7faa7d7875cef6a840a1b14]: Commencement: [Sch. 18 para. 9](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/9) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728631]: Commencement: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/10) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-add626f87e8a837d027a6a5389f079d0]: Commencement: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/10) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-add626f87e8a837d027a6a5389f079d0]: Commencement: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/10) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728641]: Commencement: [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/11) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-153f2e4fff8dcb9f20bc412f0c71b126]: Commencement: [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/11) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-153f2e4fff8dcb9f20bc412f0c71b126]: Commencement: [Sch. 18 para. 11](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/11) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728651]: Commencement: [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/12) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-657e4d7cfd6fb1f9ec7da3ff201c0e86]: Commencement: [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/12) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-657e4d7cfd6fb1f9ec7da3ff201c0e86]: Commencement: [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/12) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
 
 [^c22728661]: Commencement: [Sch. 18 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/13) in force for certain purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-8d1001da86f072ac84559f18882f8dc3]: Commencement: [Sch. 18 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/13) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-8d1001da86f072ac84559f18882f8dc3]: Commencement: [Sch. 18 para. 13](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/13) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)

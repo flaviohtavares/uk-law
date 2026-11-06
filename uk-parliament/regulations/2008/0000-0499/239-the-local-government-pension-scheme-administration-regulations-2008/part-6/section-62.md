@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 62. Rights of representation[^key-51eadf4ce91c047fc29d3e8f9e1c2971]
+## 62. Rights of representation[^c-51eadf4ce91c047fc29d3e8f9e1c2971]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51eadf4ce91c047fc29d3e8f9e1c2971]: Commencement: Reg. 62 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-51eadf4ce91c047fc29d3e8f9e1c2971]: Commencement: Reg. 62 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

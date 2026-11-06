@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Administration: Northern Ireland[^c1942084][^key-73f3c7b5db05c65706b652a1d989e1ec]
+## 135. Administration: Northern Ireland[^c1942084][^c-73f3c7b5db05c65706b652a1d989e1ec]
 
 *Extent: N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^c1942084]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2008/14/section/135) partly in force; [s. 135](https://www.legislation.gov.uk/ukpga/2008/14/section/135) in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-73f3c7b5db05c65706b652a1d989e1ec]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2008/14/section/135) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-73f3c7b5db05c65706b652a1d989e1ec]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2008/14/section/135) in force at 1.1.2009 in so far as not already in force by [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

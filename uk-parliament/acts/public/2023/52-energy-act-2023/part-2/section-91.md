@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Sections 89 and 90: supplementary[^key-489aaa728bf683f6aa3227031f92ee30]
+## 91. Sections 89 and 90: supplementary[^c-489aaa728bf683f6aa3227031f92ee30]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-489aaa728bf683f6aa3227031f92ee30]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2023/52/section/91) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-489aaa728bf683f6aa3227031f92ee30]: Commencement: [S. 91](https://www.legislation.gov.uk/ukpga/2023/52/section/91) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

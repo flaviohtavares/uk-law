@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1139. “Intellectual property”[^key-0edcf0102ca76641e5f76d263fb252fd]
+## 1139. “Intellectual property”[^c-0edcf0102ca76641e5f76d263fb252fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0edcf0102ca76641e5f76d263fb252fd]: Textual amendment: S. 1139 omitted (with effect in accordance with s. 13(8) of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 13(6)](https://www.legislation.gov.uk/ukpga/2010/33/section/13/6)
+[^c-0edcf0102ca76641e5f76d263fb252fd]: Textual amendment: S. 1139 omitted (with effect in accordance with s. 13(8) of the amending Act) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 13(6)](https://www.legislation.gov.uk/ukpga/2010/33/section/13/6)

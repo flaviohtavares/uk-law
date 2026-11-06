@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Law enforcement employers may not employ etc barred persons[^key-9af41a4899f47d04ec18fff779d1fe37][^key-d7ebb92575168a75a2fba16f56924201]
+## 205. Law enforcement employers may not employ etc barred persons[^c-9af41a4899f47d04ec18fff779d1fe37][^c-d7ebb92575168a75a2fba16f56924201]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9af41a4899f47d04ec18fff779d1fe37]: Commencement: S. 205 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-9af41a4899f47d04ec18fff779d1fe37]: Commencement: S. 205 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-d7ebb92575168a75a2fba16f56924201]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2026/20/section/205) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)
+[^c-d7ebb92575168a75a2fba16f56924201]: Commencement: [S. 205](https://www.legislation.gov.uk/ukpga/2026/20/section/205) in force at 21.9.2026 by [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/960/regulation/2/f)

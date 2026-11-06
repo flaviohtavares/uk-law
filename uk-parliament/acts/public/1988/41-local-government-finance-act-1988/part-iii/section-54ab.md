@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54AB. Power to amend revaluation year: Wales[^key-590135fccb77d43418019d85f0ecc7e7]
+## 54AB. Power to amend revaluation year: Wales[^c-590135fccb77d43418019d85f0ecc7e7]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-590135fccb77d43418019d85f0ecc7e7]: Textual amendment: [S. 54AB](https://www.legislation.gov.uk/ukpga/1988/41/section/54AB) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 4](https://www.legislation.gov.uk/asc/2024/6/section/4), [23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)
+[^c-590135fccb77d43418019d85f0ecc7e7]: Textual amendment: [S. 54AB](https://www.legislation.gov.uk/ukpga/1988/41/section/54AB) inserted (16.11.2024) by [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [ss. 4](https://www.legislation.gov.uk/asc/2024/6/section/4), [23(2)(a)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/a)

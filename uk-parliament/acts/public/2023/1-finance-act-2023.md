@@ -230,8 +230,8 @@ In section 86 of the Finance Act 2021 (no indexation of rate bands, residential 
 - (a) in paragraph 1 (rates where no other rate specified)—
   - (i) in sub-paragraph (2), after “case of” insert “an electrically propelled vehicle or”, and
   - (ii) in sub-paragraph (2A), after “case of” insert “an electrically propelled vehicle or”,
-- (b)[^key-824c4a6d90d0b3995640c11495e4caf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-73856932d388635ae67fdbb0224aa7ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-824c4a6d90d0b3995640c11495e4caf1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-73856932d388635ae67fdbb0224aa7ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph 1J (annual rate of duty for light goods vehicles)—
   - (i) in paragraph (a), after “van” insert “or a pre-2011 electric van”, and
   - (ii) in paragraph (b), after “van” insert “or a pre-2011 electric van”, and
@@ -317,6 +317,6 @@ This Act may be cited as the Finance Act 2023.
 
 ## Annotations
 
-[^key-824c4a6d90d0b3995640c11495e4caf1]: Textual amendment: [S. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2023/1/section/10/5/b) omitted (with effect in accordance with s. 66(17) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 66(16)](https://www.legislation.gov.uk/ukpga/2025/8/section/66/16)[(17)](https://www.legislation.gov.uk/ukpga/2025/8/section/66/17)
+[^c-824c4a6d90d0b3995640c11495e4caf1]: Textual amendment: [S. 10(5)(b)](https://www.legislation.gov.uk/ukpga/2023/1/section/10/5/b) omitted (with effect in accordance with s. 66(17) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 66(16)](https://www.legislation.gov.uk/ukpga/2025/8/section/66/16)[(17)](https://www.legislation.gov.uk/ukpga/2025/8/section/66/17)
 
-[^key-73856932d388635ae67fdbb0224aa7ae]: Textual amendment: [S. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2023/1/section/10/5/c) omitted (with effect in accordance with s. 66(17) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 66(16)](https://www.legislation.gov.uk/ukpga/2025/8/section/66/16)[(17)](https://www.legislation.gov.uk/ukpga/2025/8/section/66/17)
+[^c-73856932d388635ae67fdbb0224aa7ae]: Textual amendment: [S. 10(5)(c)](https://www.legislation.gov.uk/ukpga/2023/1/section/10/5/c) omitted (with effect in accordance with s. 66(17) of the amending Act) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 66(16)](https://www.legislation.gov.uk/ukpga/2025/8/section/66/16)[(17)](https://www.legislation.gov.uk/ukpga/2025/8/section/66/17)

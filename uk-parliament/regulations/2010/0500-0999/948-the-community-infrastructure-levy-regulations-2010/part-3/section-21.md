@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. CIL examination: right to be heard[^key-9a183d27751b966250696d7e9bf5c50e]
+## 21. CIL examination: right to be heard[^c-9a183d27751b966250696d7e9bf5c50e]
 
 *Extent: E+W*
 
@@ -42,8 +42,8 @@ summary: ''
 - (a) publish the matters mentioned in paragraph (9) on its website;
 - (b) notify the following of those matters—
   - (i) any person who has made a representation in accordance with regulation 17, and not withdrawn that representation, of those matters,
-  - (ii) any person who has made a request to be heard under paragraph (3); and *(Extent: E)* *(affected by repeal, see note)*[^key-87a5b59606c34db8b0085f337986022b]. *(Extent: E)*
-- (c (Extent: E) (affected by repeal, see note))[^key-181fbf026a651e2aeb15bfa703fbada0] give notice by local advertisement of those matters. *(Extent: E)* *(affected by repeal, see note)*[^key-181fbf026a651e2aeb15bfa703fbada0]
+  - (ii) any person who has made a request to be heard under paragraph (3); and *(Extent: E)* *(affected by repeal, see note)*[^c-87a5b59606c34db8b0085f337986022b]. *(Extent: E)*
+- (c (Extent: E) (affected by repeal, see note))[^c-181fbf026a651e2aeb15bfa703fbada0] give notice by local advertisement of those matters. *(Extent: E)* *(affected by repeal, see note)*[^c-181fbf026a651e2aeb15bfa703fbada0]
 
 (9) The matters referred to in paragraph (8) are—
 
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9a183d27751b966250696d7e9bf5c50e]: Commencement: Reg. 21 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-9a183d27751b966250696d7e9bf5c50e]: Commencement: Reg. 21 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
-[^key-87a5b59606c34db8b0085f337986022b]: Textual amendment: [Reg. 21(8)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/21/8/b): full stop substituted for semicolon and word (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/8/a) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-87a5b59606c34db8b0085f337986022b]: Textual amendment: [Reg. 21(8)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/21/8/b): full stop substituted for semicolon and word (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/8/a) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
-[^key-181fbf026a651e2aeb15bfa703fbada0]: Textual amendment: [Reg. 21(8)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/21/8/c) omitted (E.) (1.9.2019) by virtue of [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(8)(b)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/8/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-181fbf026a651e2aeb15bfa703fbada0]: Textual amendment: [Reg. 21(8)(c)](https://www.legislation.gov.uk/uksi/2010/948/regulation/21/8/c) omitted (E.) (1.9.2019) by virtue of [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [3(8)(b)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/3/8/b) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

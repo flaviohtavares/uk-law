@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Determination of allocation of budget shares etc for the funding period[^key-c9ac4def421a9966bebdca58397eb634]
+## 10. Determination of allocation of budget shares etc for the funding period[^c-c9ac4def421a9966bebdca58397eb634]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ in accordance with Part 3 of these Regulations.
 
 ## Annotations
 
-[^key-c9ac4def421a9966bebdca58397eb634]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/371/regulation/10) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-c9ac4def421a9966bebdca58397eb634]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/371/regulation/10) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Lights detrimental to navigation[^key-3b15fed4c78c2eaa118340be9f724f56]
+## 26. Lights detrimental to navigation[^c-3b15fed4c78c2eaa118340be9f724f56]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b15fed4c78c2eaa118340be9f724f56]: Commencement: Art. 26 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-3b15fed4c78c2eaa118340be9f724f56]: Commencement: Art. 26 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Proportionality requirement[^key-1715d1c06d37eae5cda20c1afcfe10e0]
+## 79. Proportionality requirement[^c-1715d1c06d37eae5cda20c1afcfe10e0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any sanction imposed under this chapter must be proportionate to the breach in r
 
 ## Annotations
 
-[^key-1715d1c06d37eae5cda20c1afcfe10e0]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2012/2079/regulation/79) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-1715d1c06d37eae5cda20c1afcfe10e0]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2012/2079/regulation/79) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

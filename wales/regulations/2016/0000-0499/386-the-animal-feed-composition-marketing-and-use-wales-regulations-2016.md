@@ -51,7 +51,7 @@ As set out above, these Regulations make provision for a purpose mentioned in se
 
 There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23290251] or, in the case of provisions relating to feed for non food-producing animals, of section 84(1) of the Agriculture Act 1970.
 
-## PART 1 — Introductory and general[^key-d7ea646bd0d4f94d6c823390bd1248d9]
+## PART 1 — Introductory and general[^c-d7ea646bd0d4f94d6c823390bd1248d9]
 
 ### 1. Title, commencement and application
 
@@ -64,19 +64,19 @@ There has been open and transparent public consultation during the preparation o
 (1) In these Regulations—
 
 - “the Agency” (“*yr Asiantaeth”*) means the Food Standards Agency;
-- [^key-dc03f7d9dd596669e682d3df41233167]...
-- [^key-dc03f7d9dd596669e682d3df41233167]...
-- [^key-70b1bd2f50c19fc61c2b6d98317f7303]...
-- “**feed authority**” (“***awdurdod bwyd anifeiliaid***”) means an authority identified in section 67(1A)[^key-dfe91707caccb369ec38df5f6ef88a7d] of the Agriculture Act 1970 as having the duty to enforce Part IV of that Act within its area;
+- [^c-dc03f7d9dd596669e682d3df41233167]...
+- [^c-dc03f7d9dd596669e682d3df41233167]...
+- [^c-70b1bd2f50c19fc61c2b6d98317f7303]...
+- “**feed authority**” (“***awdurdod bwyd anifeiliaid***”) means an authority identified in section 67(1A)[^c-dfe91707caccb369ec38df5f6ef88a7d] of the Agriculture Act 1970 as having the duty to enforce Part IV of that Act within its area;
 - “**Regulation 178/2002**” (“***Rheoliad 178/2002***”) means Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c23290291];
 - “**Regulation 1829/2003**” (“***Rheoliad 1829/2003***”) means Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) of the European Parliament and of the Council on genetically modified food and feed [^c23290301];
 - “**Regulation 1831/2003**” (“***Rheoliad 1831/2003***”) means Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/eur/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition [^c23290311];
 - “**Regulation 767/2009**” (“***Rheoliad 767/2009***”) means Regulation [(EC) No 767/2009](https://www.legislation.gov.uk/eur/2009/767) of the European Parliament and of the Council on the placing on the market and use of feed, amending European Parliament and Council Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/eur/2003/1831) and repealing Council Directive [79/373/EEC](https://www.legislation.gov.uk/eudr/1979/373), Commission Directive [80/511/EEC](https://www.legislation.gov.uk/eudr/1980/511), Council Directives [82/471/EEC](https://www.legislation.gov.uk/eudr/1982/471), [83/228/EEC](https://www.legislation.gov.uk/eudr/1983/228), [93/74/EEC](https://www.legislation.gov.uk/eudr/1993/74), [93/113/EC](https://www.legislation.gov.uk/eudr/1993/113) and [96/25/EC](https://www.legislation.gov.uk/eudr/1996/25) and Commission Decision [2004/217/EC](https://www.legislation.gov.uk/eudn/2004/217) [^c23290321];
-- “Regulation 2020/354” ([^key-25afd323e9e86e79234ccfcca5938618]*“Rheoliad 2020/354”*) means Commission Regulation (EU) 2020/354 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing [Directive 2008/38/EC](https://www.legislation.gov.uk/eudr/2008/0038);
+- “Regulation 2020/354” ([^c-25afd323e9e86e79234ccfcca5938618]*“Rheoliad 2020/354”*) means Commission Regulation (EU) 2020/354 establishing a list of intended uses of feed intended for particular nutritional purposes and repealing [Directive 2008/38/EC](https://www.legislation.gov.uk/eudr/2008/0038);
 
-(2) Any expression used in these Regulations and in Regulation 178/2002, Regulation 1831/2003 or Regulation 767/2009 has the meaning in these Regulations that it bears in Regulation 178/2002, Regulation 1831/2003 or Regulation 767/2009, respectively[^key-b49724ddf5bf40fd0812ce2e48403f84].
+(2) Any expression used in these Regulations and in Regulation 178/2002, Regulation 1831/2003 or Regulation 767/2009 has the meaning in these Regulations that it bears in Regulation 178/2002, Regulation 1831/2003 or Regulation 767/2009, respectively[^c-b49724ddf5bf40fd0812ce2e48403f84].
 
-(3)[^key-8017248af84ae903c9e69b4a2375254c] Any reference in these Regulations to an [^key-7f4d7772fbfad10aa8685867b1b5857a]... instrument defined in paragraph (1) is a reference to that [^key-7f4d7772fbfad10aa8685867b1b5857a]... instrument as it may be amended from time to time.
+(3)[^c-8017248af84ae903c9e69b4a2375254c] Any reference in these Regulations to an [^c-7f4d7772fbfad10aa8685867b1b5857a]... instrument defined in paragraph (1) is a reference to that [^c-7f4d7772fbfad10aa8685867b1b5857a]... instrument as it may be amended from time to time.
 
 (4) These Regulations do not apply to any feed additive in category (d) or (e) of Article 6(1) of Regulation 1831/2003, with the exception of those in the functional groups listed in paragraph 4(a), (b) and (c) of Annex 1 to that Regulation [^c23290331].
 
@@ -117,9 +117,9 @@ In this Part any reference to a numbered Article is a reference to the Article s
 
 (2) The specified provisions are—
 
-- (a) Article 16(2) (prohibition on placing on the market, using or processing a product referred to in Article 15(1) [^c23290341] unless it is covered by an authorisation and satisfies relevant conditions) [^key-16daf0c93e2b1820323de76564906d93]...;
+- (a) Article 16(2) (prohibition on placing on the market, using or processing a product referred to in Article 15(1) [^c23290341] unless it is covered by an authorisation and satisfies relevant conditions) [^c-16daf0c93e2b1820323de76564906d93]...;
 - (b) Article 21(1) (requirement that the authorisation holder and the parties concerned must comply with conditions imposed on an authorisation for that product, and that the authorisation holder must comply with post-market monitoring requirements);
-- (c) Article 21(3) (requirement that an authorisation holder inform the Food Safety Authority[^key-12acbee528ef90ce396fc16434e685e7] of any new scientific or technical information about a product which might affect the evaluation of the safety of its use in feed, or of any prohibition or restriction on the feed in a third country); and
+- (c) Article 21(3) (requirement that an authorisation holder inform the Food Safety Authority[^c-12acbee528ef90ce396fc16434e685e7] of any new scientific or technical information about a product which might affect the evaluation of the safety of its use in feed, or of any prohibition or restriction on the feed in a third country); and
 - (d) Article 25 (requirement for certain labelling indications).
 
 ### 8. Competent authority for the purposes of Regulation 1829/2003
@@ -141,11 +141,11 @@ In this Part any reference to a numbered Article is a reference to the Article s
 - (a) Article 3(1) (prohibition on placing on the market, processing or using a feed additive unless it is covered by an authorisation and satisfies relevant conditions), as read with paragraph (2) (national authorisation for scientific experimental purposes), paragraph (4) (conditions on mixing of additives) and Article 10 (status of existing products);
 - (b) Article 3(3) (restriction on the persons who may first place on the market certain additives);
 - (c) Article 12(1) (requirement that any person using or placing on the market an additive, or a feed into which it has been incorporated, or any other interested party, must ensure that any conditions which have been imposed are respected);
-- (d) Article 12(2) (requirement on the holder of an authorisation to observe monitoring obligations where they have been imposed, to inform the Food Safety Authority[^key-ae041320f7ed3469dbb85e2ce1421bb6] of any new information about a product which might affect the evaluation of the safety of its use in feed, or of any prohibition or restriction on the feed imposed by the competent authority in a third country);
+- (d) Article 12(2) (requirement on the holder of an authorisation to observe monitoring obligations where they have been imposed, to inform the Food Safety Authority[^c-ae041320f7ed3469dbb85e2ce1421bb6] of any new information about a product which might affect the evaluation of the safety of its use in feed, or of any prohibition or restriction on the feed imposed by the competent authority in a third country);
 - (e) Article 16(1), (3) and (4) (prohibition on the placing on the market of feed additives or premixtures unless labelled in the specified manner and with prescribed information), as read with paragraph (2) (derogation for certain flavouring compounds); and
 - (f) Article 16(5) (requirement that additives and premixtures must be marketed only in closed packages or containers which must be closed in such a way that the fastener is damaged on opening and cannot be re-used).
 
-### 10A. Transitional provision: withdrawal from the EU[^key-bb39470874410207a0bee49703c0ff5e]
+### 10A. Transitional provision: withdrawal from the EU[^c-bb39470874410207a0bee49703c0ff5e]
 
 For the purpose of regulation 10(1), as read with regulation 10(2)(e), a person is not considered to have contravened or failed to comply with Article 16(1)(b) of Regulation 1831/2003 if—
 
@@ -160,14 +160,14 @@ In this Part and in Schedule 1 any reference to a numbered Article or Annex is a
 
 ### 12. Offence of failing to comply with a specified provision of Regulation 767/2009
 
-(1) A[^key-7a711fe310de66af68347cb3f5e75b16] person who—
+(1) A[^c-7a711fe310de66af68347cb3f5e75b16] person who—
 
 - (a) contravenes or fails to comply with a provision of Regulation 767/2009 specified in Schedule 1; or
 - (b) places on the market or uses a feed that fails to comply with Article 6(1) or 8,
 
 commits an offence.
 
-(2) Where, pursuant to Article 17(2)(c), the name of a specific feed material may be replaced by the name of the category to which the feed material belongs, only the categories listed in Schedule 1A[^key-3793f53ed0a2174376b38cf1aea71c2a] may be indicated.
+(2) Where, pursuant to Article 17(2)(c), the name of a specific feed material may be replaced by the name of the category to which the feed material belongs, only the categories listed in Schedule 1A[^c-3793f53ed0a2174376b38cf1aea71c2a] may be indicated.
 
 ### 13. Competent authorities for the purposes of Regulation 767/2009
 
@@ -178,18 +178,18 @@ commits an offence.
 
 (2) The Agency is the competent authority for the purposes of—
 
-- (a)[^key-c65daec059f98a1dab3a9434492afe6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) Article 13(1)(b) as the competent authority that may submit to the Welsh Ministers[^key-09baaa69e0f91a24a37ebf25a2ae184d] doubts concerning the scientific substantiation of a claim.
+- (a)[^c-c65daec059f98a1dab3a9434492afe6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) Article 13(1)(b) as the competent authority that may submit to the Welsh Ministers[^c-09baaa69e0f91a24a37ebf25a2ae184d] doubts concerning the scientific substantiation of a claim.
 
 (3) The Agency and each feed authority in its area is a competent authority for the purposes of Article 5(2).
 
-## PART 6 — Undesirable substances in products intended for animal feed[^key-810d95ee9696703657e577afcb43a8af][^key-7a1296314871e0bdf1c8a50cc89c5d17]
+## PART 6 — Undesirable substances in products intended for animal feed[^c-810d95ee9696703657e577afcb43a8af][^c-7a1296314871e0bdf1c8a50cc89c5d17]
 
 ### 14. Interpretation of this Part
 
 In this Part—
 
-- (a)[^key-e40fc497b62c99af1824fec3b6e22037] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-e40fc497b62c99af1824fec3b6e22037] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) “**undesirable substance**” (“***sylwedd annymunol***”) means any substance or product, not being a pathogenic agent, which is present in or on a feed and—
   - (i) constitutes a potential danger to human or animal health or to the environment, or
   - (ii) could adversely affect livestock production.
@@ -198,21 +198,21 @@ In this Part—
 
 (1) A person who—
 
-- (a) places on the market any feed that is specified in column 2 of a table in Schedule 1B[^key-4b25290f551aa81087974ab2be1e69ec]; or
+- (a) places on the market any feed that is specified in column 2 of a table in Schedule 1B[^c-4b25290f551aa81087974ab2be1e69ec]; or
 - (b) uses any such feed,
 
-commits an offence if it contains any undesirable substance listed in column 1 of that table[^key-3ed22fd96d062215ab019873ea050f37] in excess of the relevant maximum content specified in column 3.
+commits an offence if it contains any undesirable substance listed in column 1 of that table[^c-3ed22fd96d062215ab019873ea050f37] in excess of the relevant maximum content specified in column 3.
 
 (2) A person who places on the market or uses any complementary feed commits an offence if—
 
-- (a) having regard to the quantity of it recommended for use in a daily ration, it contains any undesirable substance listed in column 1 of a table in Schedule 1B[^key-b2d0ee9859976705c947f2e160829751] in excess of the maximum content specified for it in column 3 in relation to complete feeds; and
-- (b) there is no provision relating to any complementary feed in the corresponding entry in column 2 of that table[^key-325ffadbe9683787040d86aca5e8253b].
+- (a) having regard to the quantity of it recommended for use in a daily ration, it contains any undesirable substance listed in column 1 of a table in Schedule 1B[^c-b2d0ee9859976705c947f2e160829751] in excess of the maximum content specified for it in column 3 in relation to complete feeds; and
+- (b) there is no provision relating to any complementary feed in the corresponding entry in column 2 of that table[^c-325ffadbe9683787040d86aca5e8253b].
 
-(3) A person who for the purpose of dilution mixes any feed with a feed that is specified in column 2 of a table in Schedule 1B[^key-f6de55a354eb1cc6e24d496790855a83] and which contains any undesirable substance listed in column 1 of that table[^key-68baaa7b69954605de3597fc79a7eae5] in excess of the maximum content specified for it in column 3 commits an offence.
+(3) A person who for the purpose of dilution mixes any feed with a feed that is specified in column 2 of a table in Schedule 1B[^c-f6de55a354eb1cc6e24d496790855a83] and which contains any undesirable substance listed in column 1 of that table[^c-68baaa7b69954605de3597fc79a7eae5] in excess of the maximum content specified for it in column 3 commits an offence.
 
 (4) A person who places on the market or uses any feed which is not sound and genuine and of merchantable quality commits an offence.
 
-(5) For the purposes of paragraph (4) a feed listed in column 2 of a table in Schedule 1B[^key-4cbb922d00bee3d3992224e22c97533c] shall be deemed not to be sound, genuine and of merchantable quality if it contains any undesirable substance specified in column 1 of that table[^key-403cdf756e548408e0f6d433f6aaae5c] in excess of the maximum content specified in relation to it in column 3.
+(5) For the purposes of paragraph (4) a feed listed in column 2 of a table in Schedule 1B[^c-4cbb922d00bee3d3992224e22c97533c] shall be deemed not to be sound, genuine and of merchantable quality if it contains any undesirable substance specified in column 1 of that table[^c-403cdf756e548408e0f6d433f6aaae5c] in excess of the maximum content specified in relation to it in column 3.
 
 (6) A person who has, for the purpose of a trade or business, possession or control of any of the feeds specified in paragraph (7) must, if required by an inspector, procure and produce to the inspector an analysis in order to demonstrate that the content of inorganic arsenic in the feed specified in that paragraph is less than 2 parts per million.
 
@@ -220,20 +220,20 @@ commits an offence if it contains any undesirable substance listed in column 1 o
 
 - (a) palm kernel expeller;
 - (b) feeds obtained from the processing of fish and other marine animals;
-- (c) seaweed meal and feed materials derived from seaweed; [^key-b370be0750d726c695528baa3bc54379]...
+- (c) seaweed meal and feed materials derived from seaweed; [^c-b370be0750d726c695528baa3bc54379]...
 - (d) complete feeds for fish or for fur-producing animals.
-- (e)[^key-3b8a5513bdec1c6529404fbcdcc2fb66] peat;
+- (e)[^c-3b8a5513bdec1c6529404fbcdcc2fb66] peat;
 - (f) leonardite.
 
 (8) A person who, without reasonable excuse, fails to comply with a requirement made under paragraph (6) commits an offence.
 
-(9)[^key-34ab26a7e49d3b277ded48cd2d5d665d] In order to reduce or eliminate sources of undesirable substances in products intended for animal feed, feed authorities must carry out investigations to identify the sources of undesirable substances, in cases where the maximum levels are exceeded and in cases where increased levels of such substances are detected, taking into account background levels.
+(9)[^c-34ab26a7e49d3b277ded48cd2d5d665d] In order to reduce or eliminate sources of undesirable substances in products intended for animal feed, feed authorities must carry out investigations to identify the sources of undesirable substances, in cases where the maximum levels are exceeded and in cases where increased levels of such substances are detected, taking into account background levels.
 
 (10) In cases of increased levels of undesirable substances listed in Schedule 1C, action thresholds to trigger investigations are set out in that Schedule.
 
 (11) Feed authorities must send to the Agency all relevant information and findings of the source and the measures taken to reduce the level of, or eliminate, undesirable substances.
 
-### 15A. Regulations amending Schedules 1B and 1C[^key-e7e3d89020db2c24573b0de2e742c2a7]
+### 15A. Regulations amending Schedules 1B and 1C[^c-e7e3d89020db2c24573b0de2e742c2a7]
 
 (1) Where paragraph (2) applies, the Welsh Ministers may, by regulations, make provision to amend, add, or remove an entry in Schedule 1B or 1C.
 
@@ -248,11 +248,11 @@ commits an offence if it contains any undesirable substance listed in column 1 o
 
 - (a) is exercisable by statutory instrument;
 - (b) includes the power to make different provision for different purposes;
-- (c) includes the power to make incidental, supplementary, consequential, transitional, transitory or saving provision (including provision amending, repealing or revoking enactments or assimilated direct[^key-05ebbb152ed92a19904a6a693b25bd35] legislation).
+- (c) includes the power to make incidental, supplementary, consequential, transitional, transitory or saving provision (including provision amending, repealing or revoking enactments or assimilated direct[^c-05ebbb152ed92a19904a6a693b25bd35] legislation).
 
 (5) A statutory instrument that contains regulations under this regulation is subject to annulment in pursuance of a resolution of Senedd Cymru.
 
-## Part 7 — Enforcement of Regulation 2020/354[^key-b7413db26ac1f868e93c596da450c985]
+## Part 7 — Enforcement of Regulation 2020/354[^c-b7413db26ac1f868e93c596da450c985]
 
 ### 16. Interpretation of this Part
 
@@ -266,13 +266,13 @@ A person who contravenes or fails to comply with Article 1 (conditions on market
 
 ### 18. Penalties for offences under these Regulations
 
-(1) A person found guilty of an offence under regulation 4(1), 7(1), 10(1), 12(1), 15(1), (2), (3) or (4) or 17[^key-0e838ae1d295f0bebc7a3829166f5ff2] is liable on summary conviction to a term of imprisonment not exceeding six months or to a fine, or both.
+(1) A person found guilty of an offence under regulation 4(1), 7(1), 10(1), 12(1), 15(1), (2), (3) or (4) or 17[^c-0e838ae1d295f0bebc7a3829166f5ff2] is liable on summary conviction to a term of imprisonment not exceeding six months or to a fine, or both.
 
 (2) A person found guilty of an offence under regulation 15(8) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
 ### 19. Duties to enforce
 
-It is the duty of each feed authority within its area to execute and enforce Regulation 178/2002, Regulation 1829/2003, Regulation 1831/2003, Regulation 767/2009 , Regulation 2020/354[^key-28b33550cd7c27024cb08db01582053c] and these Regulations.
+It is the duty of each feed authority within its area to execute and enforce Regulation 178/2002, Regulation 1829/2003, Regulation 1831/2003, Regulation 767/2009 , Regulation 2020/354[^c-28b33550cd7c27024cb08db01582053c] and these Regulations.
 
 ## PART 9 — Amendment and revocation
 
@@ -293,7 +293,7 @@ Vaughan Gething
 
 Deputy Minister for Health, one of the Welsh Ministers
 
-## SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^key-34f506cc1e70870627b960cfb7345cdd]
+## SCHEDULE 1 — Specified Provisions of Regulation 767/2009[^c-34f506cc1e70870627b960cfb7345cdd]
 
 Regulation 12
 
@@ -320,7 +320,7 @@ Regulation 12
 | Article 24(2) | Requirement that if the name of a feed material listed in the Catalogue of feed materials is used, all relevant provisions of the Catalogue must be complied with. |
 | Article 24(3) | Obligation on a person who first places on the market a feed material not listed in the Catalogue of feed materials to notify its use. |
 
-## SCHEDULE 1A — Categories of feed materials which may be indicated in place of individual feed materials[^key-ceba2c5f5cfe3918861ad7508a5f9535]
+## SCHEDULE 1A — Categories of feed materials which may be indicated in place of individual feed materials[^c-ceba2c5f5cfe3918861ad7508a5f9535]
 
 Regulation 12(2)
 
@@ -346,7 +346,7 @@ Regulation 12(2)
 | 18\. Insects | All types of insects and their stages of development. |
 | 19\. Bakery products | All bread, cakes, biscuits and pasta products. |
 
-## SCHEDULE 1B — Maximum levels of undesirable substances[^key-dee9dafc88b2dbbf6b74963dc49b8a3c]
+## SCHEDULE 1B — Maximum levels of undesirable substances[^c-dee9dafc88b2dbbf6b74963dc49b8a3c]
 
 Regulations 15 and 15A
 
@@ -862,7 +862,7 @@ Authorised feed additives in non-target feed following unavoidable carry-over
 
 [^f01039][^f01040][^f01040][^f01040][^f01040][^f01040][^f01040][^f01040][^f01040][^f01040][^f01040][^f01040]
 
-## SCHEDULE 1C — Action thresholds triggering investigations[^key-aed50454ad90e9685e5edf77ad87de99]
+## SCHEDULE 1C — Action thresholds triggering investigations[^c-aed50454ad90e9685e5edf77ad87de99]
 
 Regulations 15 and 15A
 
@@ -1023,13 +1023,13 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23290251]: Marginal citation: OJ No L 31, 1.2.2002, p 1, as last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council laying down provisions for the management of expenditure relating to the food chain, animal health and animal welfare, and relating to plant health and plant reproductive material (OJ No L 189, 27.6.2014, p 1).
 
-[^key-d7ea646bd0d4f94d6c823390bd1248d9]: Modification: [Pt. 1](https://www.legislation.gov.uk/wsi/2016/386/part/1) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-d7ea646bd0d4f94d6c823390bd1248d9]: Modification: [Pt. 1](https://www.legislation.gov.uk/wsi/2016/386/part/1) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-dc03f7d9dd596669e682d3df41233167]: Textual amendment: Words in reg. 2(1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/2/a/i)
+[^c-dc03f7d9dd596669e682d3df41233167]: Textual amendment: Words in reg. 2(1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(2)(a)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/2/a/i)
 
-[^key-70b1bd2f50c19fc61c2b6d98317f7303]: Textual amendment: Words in reg. 2(1) omitted (25.12.2020) by virtue of [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/2/a/i)
+[^c-70b1bd2f50c19fc61c2b6d98317f7303]: Textual amendment: Words in reg. 2(1) omitted (25.12.2020) by virtue of [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/2/a/i)
 
-[^key-dfe91707caccb369ec38df5f6ef88a7d]: Textual amendment: Word in reg. 2(1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/2/a/ii)
+[^c-dfe91707caccb369ec38df5f6ef88a7d]: Textual amendment: Word in reg. 2(1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/2/a/ii)
 
 [^c23290291]: Marginal citation: OJ No L 31, 1.2.2002, p 1. This Regulation was last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
@@ -1039,83 +1039,83 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23290321]: Marginal citation: OJ No L 229, 1.9.2009, p 1. This Regulation was last amended by Commission Regulation (EC) No 939/2010 (OJ No L 277, 21.10.2010, p 4).
 
-[^key-25afd323e9e86e79234ccfcca5938618]: Textual amendment: Words in reg. 2(1) inserted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/2/a/ii)
+[^c-25afd323e9e86e79234ccfcca5938618]: Textual amendment: Words in reg. 2(1) inserted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/2/a/ii)
 
-[^key-b49724ddf5bf40fd0812ce2e48403f84]: Textual amendment: Words in reg. 2(2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [18(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/18/2)
+[^c-b49724ddf5bf40fd0812ce2e48403f84]: Textual amendment: Words in reg. 2(2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [18(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/18/2)
 
-[^key-8017248af84ae903c9e69b4a2375254c]: Textual amendment: Reg. 2(3) substituted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/2/b)
+[^c-8017248af84ae903c9e69b4a2375254c]: Textual amendment: Reg. 2(3) substituted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/2/b)
 
-[^key-7f4d7772fbfad10aa8685867b1b5857a]: Textual amendment: Word in reg. 2(3) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/2/c)
+[^c-7f4d7772fbfad10aa8685867b1b5857a]: Textual amendment: Word in reg. 2(3) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/2/c)
 
 [^c23290331]: Marginal citation: Categories (d) and (e) of Article 6(1) comprise, respectively, zootechnical additives, and coccidiostats and histomonostats. Functional groups listed in paragraphs 4(a), (b) and (c) of Annex I comprise digestibility enhancers, gut flora stabilisers and substances which favourably affect the environment.
 
 [^c23290341]: Marginal citation: The products referred to in Article 15(1) are genetically modified organisms (“GMOs”) for feed use, feed containing or consisting of GMOs and feed produced from GMOs.
 
-[^key-16daf0c93e2b1820323de76564906d93]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/7/2/a) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [9(2)(a)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-16daf0c93e2b1820323de76564906d93]: Textual amendment: Words in [reg. 7(2)(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/7/2/a) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [9(2)(a)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-12acbee528ef90ce396fc16434e685e7]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/wsi/2016/386/regulation/7/2/c) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [9(2)(b)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-12acbee528ef90ce396fc16434e685e7]: Textual amendment: Words in [reg. 7(2)(c)](https://www.legislation.gov.uk/wsi/2016/386/regulation/7/2/c) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [9(2)(b)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23290351]: Marginal citation: OJ No L 58, 3.3.2015, p 46.
 
-[^key-ae041320f7ed3469dbb85e2ce1421bb6]: Textual amendment: Words in [reg. 10(2)(d)](https://www.legislation.gov.uk/wsi/2016/386/regulation/10/2/d) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [9(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae041320f7ed3469dbb85e2ce1421bb6]: Textual amendment: Words in [reg. 10(2)(d)](https://www.legislation.gov.uk/wsi/2016/386/regulation/10/2/d) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [9(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/9/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bb39470874410207a0bee49703c0ff5e]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/wsi/2016/386/regulation/10A) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2021/371/regulation/7)
+[^c-bb39470874410207a0bee49703c0ff5e]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/wsi/2016/386/regulation/10A) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2021/371/regulation/7)
 
-[^key-7a711fe310de66af68347cb3f5e75b16]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/wsi/2016/386/regulation/12) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [27](https://www.legislation.gov.uk/wsi/2018/806/regulation/27)
+[^c-7a711fe310de66af68347cb3f5e75b16]: Textual amendment: Word in [reg. 12](https://www.legislation.gov.uk/wsi/2016/386/regulation/12) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [27](https://www.legislation.gov.uk/wsi/2018/806/regulation/27)
 
-[^key-3793f53ed0a2174376b38cf1aea71c2a]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/wsi/2016/386/regulation/12/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(3)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/3)
+[^c-3793f53ed0a2174376b38cf1aea71c2a]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/wsi/2016/386/regulation/12/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(3)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/3)
 
-[^key-c65daec059f98a1dab3a9434492afe6d]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/13/2/a) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [9(4)(a)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/9/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c65daec059f98a1dab3a9434492afe6d]: Textual amendment: [Reg. 13(2)(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/13/2/a) omitted (31.12.2020) by virtue of [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [9(4)(a)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/9/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-09baaa69e0f91a24a37ebf25a2ae184d]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/wsi/2016/386/regulation/13/2/b) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(4)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/4)
+[^c-09baaa69e0f91a24a37ebf25a2ae184d]: Textual amendment: Words in [reg. 13(2)(b)](https://www.legislation.gov.uk/wsi/2016/386/regulation/13/2/b) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(4)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/4)
 
-[^key-810d95ee9696703657e577afcb43a8af]: Modification: [Pt. 6](https://www.legislation.gov.uk/wsi/2016/386/part/6) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-810d95ee9696703657e577afcb43a8af]: Modification: [Pt. 6](https://www.legislation.gov.uk/wsi/2016/386/part/6) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-7a1296314871e0bdf1c8a50cc89c5d17]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/wsi/2016/386/part/6) heading substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(5)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/5)
+[^c-7a1296314871e0bdf1c8a50cc89c5d17]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/wsi/2016/386/part/6) heading substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(5)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/5)
 
-[^key-e40fc497b62c99af1824fec3b6e22037]: Textual amendment: [Reg. 14(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/14/a) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(6)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/6)
+[^c-e40fc497b62c99af1824fec3b6e22037]: Textual amendment: [Reg. 14(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/14/a) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(6)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/6)
 
-[^key-4b25290f551aa81087974ab2be1e69ec]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/1/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(a)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/a/i)
+[^c-4b25290f551aa81087974ab2be1e69ec]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/1/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(a)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/a/i)
 
-[^key-3ed22fd96d062215ab019873ea050f37]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/a/ii)
+[^c-3ed22fd96d062215ab019873ea050f37]: Textual amendment: Word in [reg. 15(1)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(a)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/a/ii)
 
-[^key-b2d0ee9859976705c947f2e160829751]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/2/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(b)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/b/i)
+[^c-b2d0ee9859976705c947f2e160829751]: Textual amendment: Words in [reg. 15(2)(a)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/2/a) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(b)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/b/i)
 
-[^key-325ffadbe9683787040d86aca5e8253b]: Textual amendment: Word in [reg. 15(2)(b)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/2/b) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/b/ii)
+[^c-325ffadbe9683787040d86aca5e8253b]: Textual amendment: Word in [reg. 15(2)(b)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/2/b) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(b)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/b/ii)
 
-[^key-f6de55a354eb1cc6e24d496790855a83]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(c)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/c/i)
+[^c-f6de55a354eb1cc6e24d496790855a83]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(c)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/c/i)
 
-[^key-68baaa7b69954605de3597fc79a7eae5]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(c)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/c/ii)
+[^c-68baaa7b69954605de3597fc79a7eae5]: Textual amendment: Word in [reg. 15(3)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/3) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(c)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/c/ii)
 
-[^key-4cbb922d00bee3d3992224e22c97533c]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/5) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(d)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/d/i)
+[^c-4cbb922d00bee3d3992224e22c97533c]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/5) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(d)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/d/i)
 
-[^key-403cdf756e548408e0f6d433f6aaae5c]: Textual amendment: Word in [reg. 15(5)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/5) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(d)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/d/ii)
+[^c-403cdf756e548408e0f6d433f6aaae5c]: Textual amendment: Word in [reg. 15(5)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/5) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(d)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/d/ii)
 
-[^key-b370be0750d726c695528baa3bc54379]: Textual amendment: Word in [reg. 15(7)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/7) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(e)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/e/i)
+[^c-b370be0750d726c695528baa3bc54379]: Textual amendment: Word in [reg. 15(7)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/7) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(e)(i)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/e/i)
 
-[^key-3b8a5513bdec1c6529404fbcdcc2fb66]: Textual amendment: [Reg. 15(7)(e)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/7/e)[(f)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/7/f) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(e)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/e/ii)
+[^c-3b8a5513bdec1c6529404fbcdcc2fb66]: Textual amendment: [Reg. 15(7)(e)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/7/e)[(f)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/7/f) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(e)(ii)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/e/ii)
 
-[^key-34ab26a7e49d3b277ded48cd2d5d665d]: Textual amendment: [Reg. 15(9)-(11)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/9) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(f)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/f)
+[^c-34ab26a7e49d3b277ded48cd2d5d665d]: Textual amendment: [Reg. 15(9)-(11)](https://www.legislation.gov.uk/wsi/2016/386/regulation/15/9) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(7)(f)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/7/f)
 
-[^key-e7e3d89020db2c24573b0de2e742c2a7]: Textual amendment: Reg. 15A inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(8)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/8)
+[^c-e7e3d89020db2c24573b0de2e742c2a7]: Textual amendment: Reg. 15A inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [regs. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [4(8)](https://www.legislation.gov.uk/wsi/2022/1362/regulation/4/8)
 
-[^key-05ebbb152ed92a19904a6a693b25bd35]: Textual amendment: Words in reg. 15A(4)(c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [18(3)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/18/3)
+[^c-05ebbb152ed92a19904a6a693b25bd35]: Textual amendment: Words in reg. 15A(4)(c) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Wales) Regulations 2023 (S.I. 2023/1332)](https://www.legislation.gov.uk/wsi/2023/1332), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/1/2), [18(3)](https://www.legislation.gov.uk/wsi/2023/1332/regulation/18/3)
 
-[^key-b7413db26ac1f868e93c596da450c985]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/wsi/2016/386/part/7) substituted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/3)
+[^c-b7413db26ac1f868e93c596da450c985]: Textual amendment: [Pt. 7](https://www.legislation.gov.uk/wsi/2016/386/part/7) substituted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(3)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/3)
 
-[^key-0e838ae1d295f0bebc7a3829166f5ff2]: Textual amendment: Word in [reg. 18(1)](https://www.legislation.gov.uk/wsi/2016/386/regulation/18/1) substituted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/4)
+[^c-0e838ae1d295f0bebc7a3829166f5ff2]: Textual amendment: Word in [reg. 18(1)](https://www.legislation.gov.uk/wsi/2016/386/regulation/18/1) substituted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(4)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/4)
 
-[^key-28b33550cd7c27024cb08db01582053c]: Textual amendment: Words in reg. 19 inserted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(5)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/5)
+[^c-28b33550cd7c27024cb08db01582053c]: Textual amendment: Words in reg. 19 inserted (25.12.2020) by [The Animal Feed (Particular Nutritional Purposes and Miscellaneous Amendments) (Wales) Regulations 2020 (S.I. 2020/1381)](https://www.legislation.gov.uk/wsi/2020/1381), [regs. 1](https://www.legislation.gov.uk/wsi/2020/1381/regulation/1), [2(5)](https://www.legislation.gov.uk/wsi/2020/1381/regulation/2/5)
 
 [^c23290361]: Marginal citation: [S.I. 2009/3376](https://www.legislation.gov.uk/uksi/2009/3376) (W. 298).
 
-[^key-34f506cc1e70870627b960cfb7345cdd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/386/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [Sch.](https://www.legislation.gov.uk/wsi/2019/1046/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34f506cc1e70870627b960cfb7345cdd]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/386/schedule/1) substituted (31.12.2020) by [The Food (Miscellaneous Amendments) (Wales) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1046)](https://www.legislation.gov.uk/wsi/2019/1046), [reg. 1(3)](https://www.legislation.gov.uk/wsi/2019/1046/regulation/1/3), [Sch.](https://www.legislation.gov.uk/wsi/2019/1046/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ceba2c5f5cfe3918861ad7508a5f9535]: Textual amendment: [Schs. 1A-1C](https://www.legislation.gov.uk/wsi/2016/386/schedule/1A) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [reg. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2022/1362/schedule/3)
+[^c-ceba2c5f5cfe3918861ad7508a5f9535]: Textual amendment: [Schs. 1A-1C](https://www.legislation.gov.uk/wsi/2016/386/schedule/1A) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2022 (S.I. 2022/1362)](https://www.legislation.gov.uk/wsi/2022/1362), [reg. 1](https://www.legislation.gov.uk/wsi/2022/1362/regulation/1), [Sch. 3](https://www.legislation.gov.uk/wsi/2022/1362/schedule/3)
 
-[^key-dee9dafc88b2dbbf6b74963dc49b8a3c]: Modification: [Sch. 1B](https://www.legislation.gov.uk/wsi/2016/386/schedule/1B) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-dee9dafc88b2dbbf6b74963dc49b8a3c]: Modification: [Sch. 1B](https://www.legislation.gov.uk/wsi/2016/386/schedule/1B) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^f01007]: Footnote: (1)[^key-ceba2c5f5cfe3918861ad7508a5f9535]
+[^f01007]: Footnote: (1)[^c-ceba2c5f5cfe3918861ad7508a5f9535]
 
     The maximum levels refer to total arsenic.
 
@@ -1223,7 +1223,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
     The maximum level of the substance in the premixture is the concentration which shall not result in a level of the substance higher than 50% of the maximum levels established in the feed when the instructions for use of the premixture are followed.
 
-[^key-aed50454ad90e9685e5edf77ad87de99]: Modification: [Sch. 1C](https://www.legislation.gov.uk/wsi/2016/386/schedule/1C) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-aed50454ad90e9685e5edf77ad87de99]: Modification: [Sch. 1C](https://www.legislation.gov.uk/wsi/2016/386/schedule/1C) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f01041]: Footnote: (1)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Consultation before introducing, changing or abolishing the levy[^key-27bf2a77cef8fe70d4741596e34bb9e0]
+## 47. Consultation before introducing, changing or abolishing the levy[^c-27bf2a77cef8fe70d4741596e34bb9e0]
 
 *Extent: E+W*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27bf2a77cef8fe70d4741596e34bb9e0]: Commencement: S. 47 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-27bf2a77cef8fe70d4741596e34bb9e0]: Commencement: S. 47 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

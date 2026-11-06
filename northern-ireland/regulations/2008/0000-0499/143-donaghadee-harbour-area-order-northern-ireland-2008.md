@@ -31,7 +31,7 @@ summary: ''
 
 HARBOURS
 
-Donaghadee (Harbour Area) Order (Northern Ireland) 2008 (revoked)[^key-6ddf11be94b974435cf5b0f3e4f500dc]
+Donaghadee (Harbour Area) Order (Northern Ireland) 2008 (revoked)[^c-6ddf11be94b974435cf5b0f3e4f500dc]
 
 Made
 
@@ -43,26 +43,26 @@ Affirmed by resolution of the Assembly
 
 Coming into operation in accordance with Article 1
 
-[^key-6ddf11be94b974435cf5b0f3e4f500dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ddf11be94b974435cf5b0f3e4f500dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6ddf11be94b974435cf5b0f3e4f500dc]
+## 1. Citation and commencement[^c-6ddf11be94b974435cf5b0f3e4f500dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6ddf11be94b974435cf5b0f3e4f500dc]
+## 2. Interpretation[^c-6ddf11be94b974435cf5b0f3e4f500dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Harbour Area[^key-6ddf11be94b974435cf5b0f3e4f500dc]
+## 3. Harbour Area[^c-6ddf11be94b974435cf5b0f3e4f500dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ddf11be94b974435cf5b0f3e4f500dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ddf11be94b974435cf5b0f3e4f500dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ddf11be94b974435cf5b0f3e4f500dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6ddf11be94b974435cf5b0f3e4f500dc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6ddf11be94b974435cf5b0f3e4f500dc]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/143) revoked (1.4.2015) by [The Donaghadee Harbour (Transfer of Harbour Undertaking) Order (Northern Ireland) 2015 (S.R. 2015/22)](https://www.legislation.gov.uk/nisr/2015/22), [Sch.](https://www.legislation.gov.uk/nisr/2015/22/schedule) (with [art. 6](https://www.legislation.gov.uk/nisr/2015/22/article/6))
+[^c-6ddf11be94b974435cf5b0f3e4f500dc]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2008/143) revoked (1.4.2015) by [The Donaghadee Harbour (Transfer of Harbour Undertaking) Order (Northern Ireland) 2015 (S.R. 2015/22)](https://www.legislation.gov.uk/nisr/2015/22), [Sch.](https://www.legislation.gov.uk/nisr/2015/22/schedule) (with [art. 6](https://www.legislation.gov.uk/nisr/2015/22/article/6))

@@ -52,7 +52,7 @@ In accordance with section 316(6) and (10) of that Act, a draft of this Order ha
 
 ## Part 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-e84ea8848b27db26262d6ed4f2c7db27]
+### 1. Citation, commencement and extent[^c-e84ea8848b27db26262d6ed4f2c7db27]
 
 (1) This Order may be cited as the Marine Licensing (Miscellaneous Provisions) (Amendment etc.) Order 2026 and comes into force on the date on which the Biodiversity Beyond National Jurisdiction Agreement[^f00003] enters into force for the United Kingdom[^f00004].
 
@@ -60,7 +60,7 @@ In accordance with section 316(6) and (10) of that Act, a draft of this Order ha
 
 (3) Any amendment made by this Order has the same extent as the provision amended.
 
-### 2. Designation of activities[^key-30cabc6a2f901b67c160945b2825788f]
+### 2. Designation of activities[^c-30cabc6a2f901b67c160945b2825788f]
 
 (1) In accordance with section 66(3A) of the Marine and Coastal Access Act 2009, each of the licensable marine activities added to section 66(1) of that Act under article 4 is designated as an activity added in contemplation of the United Kingdom’s obligations under Part 4 of the Biodiversity Beyond National Jurisdiction Agreement (environmental impact assessments).
 
@@ -68,11 +68,11 @@ In accordance with section 316(6) and (10) of that Act, a draft of this Order ha
 
 ## Part 2 — Amendment of the Marine and Coastal Access Act 2009
 
-### 3. Amendment of the Marine and Coastal Access Act 2009[^key-8de0b6b698e17fb826b00f6ed8ca920d]
+### 3. Amendment of the Marine and Coastal Access Act 2009[^c-8de0b6b698e17fb826b00f6ed8ca920d]
 
 The Marine and Coastal Access Act 2009 is amended in accordance with this Part.
 
-### 4. Amendment to section 66 (licensable marine activities)[^key-f5130175f35c9678dcfe5c99bcde1e7c]
+### 4. Amendment to section 66 (licensable marine activities)[^c-f5130175f35c9678dcfe5c99bcde1e7c]
 
 (1) Section 66 is amended as follows.
 
@@ -125,21 +125,21 @@ The Marine and Coastal Access Act 2009 is amended in accordance with this Part.
 
 (6) In subsection (3C)[^f00006], for “In subsection (3A)” substitute “In this section”.
 
-### 5. Amendment to section 69 (determination of applications)[^key-5b0e43b3e1e4867cbe1efdd66d88fae0]
+### 5. Amendment to section 69 (determination of applications)[^c-5b0e43b3e1e4867cbe1efdd66d88fae0]
 
 In section 69(2), after “item 7” insert “or item 18”.
 
-### 6. Amendment to section 71 (licences)[^key-ea40f34c02b6eb59371ccdc15984476a]
+### 6. Amendment to section 71 (licences)[^c-ea40f34c02b6eb59371ccdc15984476a]
 
 In section 71(5), after “item 7” insert “or item 18”.
 
 ## Part 3 — Amendment of the Marine Licensing (Exempted Activities) Order 2011
 
-### 7. Amendment of the Marine Licensing (Exempted Activities) Order 2011[^key-7595d4d314113c5a9d931f80b66bea81]
+### 7. Amendment of the Marine Licensing (Exempted Activities) Order 2011[^c-7595d4d314113c5a9d931f80b66bea81]
 
 The Marine Licensing (Exempted Activities) Order 2011[^f00007] is amended in accordance with this Part.
 
-### 8. Amendment to article 6 (interpretation of this Part)[^key-2f11aa6382ed98d6dbeeec36198dd5a4]
+### 8. Amendment to article 6 (interpretation of this Part)[^c-2f11aa6382ed98d6dbeeec36198dd5a4]
 
 (1) Article 6 is amended as follows.
 
@@ -158,23 +158,23 @@ The Marine Licensing (Exempted Activities) Order 2011[^f00007] is amended in acc
 - (c) in sub-paragraph (c), at the end insert “or 19 (use of a vessel etc to remove substance or object from the sea bed in an area beyond national jurisdiction)”;
 - (d) in sub-paragraph (d), at the end insert “or 18 (construction, alteration or improvement of works in an area beyond national jurisdiction etc)”.
 
-### 9. Amendment to article 16 (deposit of equipment to control, contain or recover oil etc)[^key-c52f0c732a0f6045f3967dc211217fca]
+### 9. Amendment to article 16 (deposit of equipment to control, contain or recover oil etc)[^c-c52f0c732a0f6045f3967dc211217fca]
 
 In article 16(2), at the end insert “or 21”.
 
-### 10. Amendment to article 22 (deposits in the course of normal navigation or maintenance)[^key-c4c773771421a938e6393346e8da677b]
+### 10. Amendment to article 22 (deposits in the course of normal navigation or maintenance)[^c-c4c773771421a938e6393346e8da677b]
 
 In article 22(2)(b), at the end insert “or 21”.
 
-### 11. Amendment to article 28 (dismantling of ships)[^key-dec00de09623a2fca9932ce23b9130a0]
+### 11. Amendment to article 28 (dismantling of ships)[^c-dec00de09623a2fca9932ce23b9130a0]
 
 In article 28(2), at the end insert “or 21”.
 
-### 12. Amendment to article 34 (cables and pipelines – authorised emergency inspection and repair)[^key-ff7366b41026fde3a6f498fda9a182c1]
+### 12. Amendment to article 34 (cables and pipelines – authorised emergency inspection and repair)[^c-ff7366b41026fde3a6f498fda9a182c1]
 
 In article 34(3), after “item 10” insert “or 21”.
 
-### 13. Insertion of article 39, 40 and 41[^key-1896a62cfeb49f4c7ce8cb54aa3883fa]
+### 13. Insertion of article 39, 40 and 41[^c-1896a62cfeb49f4c7ce8cb54aa3883fa]
 
 After article 38 insert—
 
@@ -227,35 +227,35 @@ After article 38 insert—
 
 ## Part 4 — Amendment of the Marine Licensing (Register of Licensing Information) Regulations 2011
 
-### 14. Amendment of the Marine Licensing (Register of Licensing Information) Regulations 2011[^key-59d3dce30c6ba2e5da3f1640780d595c]
+### 14. Amendment of the Marine Licensing (Register of Licensing Information) Regulations 2011[^c-59d3dce30c6ba2e5da3f1640780d595c]
 
 The Marine Licensing (Register of Licensing Information) Regulations 2011[^f00012] are amended in accordance with this Part.
 
-### 15. Amendment to regulation 6 (deposit of substances or objects)[^key-7f6a32653cd92f60d058f163ba16a661]
+### 15. Amendment to regulation 6 (deposit of substances or objects)[^c-7f6a32653cd92f60d058f163ba16a661]
 
 In regulation 6(1), for “item 1, 2 or 3” substitute “item 1, 2, 3, 14 or 15”.
 
-### 16. Amendment to regulation 7 (scuttling)[^key-e805660a49cb39b8082c1219bf148bc9]
+### 16. Amendment to regulation 7 (scuttling)[^c-e805660a49cb39b8082c1219bf148bc9]
 
 In regulation 7(1), for “item 4, 5 or 6” substitute “item 4, 5, 6, 16 or 17”.
 
-### 17. Amendment to regulation 8 (construction, alteration or improvement of works)[^key-6b66a7676bd92f9b2a2f71a128b1c467]
+### 17. Amendment to regulation 8 (construction, alteration or improvement of works)[^c-6b66a7676bd92f9b2a2f71a128b1c467]
 
 In regulation 8(1), after “item 7” insert “or 18”.
 
-### 18. Amendment to regulation 9 (use of vehicle etc to remove substances or objects from sea bed)[^key-44044226e1a5869269dbe4c53b35c5a3]
+### 18. Amendment to regulation 9 (use of vehicle etc to remove substances or objects from sea bed)[^c-44044226e1a5869269dbe4c53b35c5a3]
 
 In regulation 9(1), after “item 8” insert “or 19”.
 
-### 19. Amendment to regulation 10 (dredging)[^key-5f40ecdabef9effed68b230e4a7e5bae]
+### 19. Amendment to regulation 10 (dredging)[^c-5f40ecdabef9effed68b230e4a7e5bae]
 
 In regulation 10(1), after “item 9” insert “or 20”.
 
-### 20. Amendment to regulation 11 (deposit or use of explosives)[^key-add0ab30eac69eb77df8c0a89a66507f]
+### 20. Amendment to regulation 11 (deposit or use of explosives)[^c-add0ab30eac69eb77df8c0a89a66507f]
 
 In regulation 11(1), after “item 10” insert “or 21”.
 
-### 21. Amendment to regulation 12 (incineration or loading vehicle etc for incineration)[^key-d4b4eb9e8c76a9064bd3b6b817acd4c5]
+### 21. Amendment to regulation 12 (incineration or loading vehicle etc for incineration)[^c-d4b4eb9e8c76a9064bd3b6b817acd4c5]
 
 In regulation 12(1), for “item 11, 12 or 13” substitute “item 11, 12, 13, 22 or 23”.
 
@@ -289,41 +289,41 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00002]: Footnote: Sections 66(3A) and (3B) were inserted by the Biodiversity Beyond National Jurisdiction Act [2026 (c. 6)](https://www.legislation.gov.uk/ukpga/2026/6).
 
-[^key-e84ea8848b27db26262d6ed4f2c7db27]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2026/676/article/1) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-e84ea8848b27db26262d6ed4f2c7db27]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2026/676/article/1) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
 [^f00003]: Footnote: “**The Biodiversity Beyond National Jurisdiction Agreement**” means the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction, opened for signature at New York on 20 September 2023 (2023 CP 942).
 
 [^f00004]: Footnote: The Biodiversity Beyond National Jurisdiction Agreement entered into force on 17 January 2026, in accordance with article 68(1) of that Agreement. Under article 68(2), the Agreement shall enter into force for the United Kingdom on the thirtieth day following the deposit of its instrument of ratification, approval, acceptance or accession. It will be possible to find out the date on which the Agreement enters into force for the United Kingdom by referring to the relevant page on UK Treaties Online which can be found at this link: https://www.gov.uk/uk-treaties.
 
-[^key-30cabc6a2f901b67c160945b2825788f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2026/676/article/2) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-30cabc6a2f901b67c160945b2825788f]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2026/676/article/2) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
 [^f00005]: Footnote: See section 81(5) of the Marine and Coastal Access Act 2009 for the meaning of an “exempt” submarine cable.
 
-[^key-8de0b6b698e17fb826b00f6ed8ca920d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2026/676/article/3) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-8de0b6b698e17fb826b00f6ed8ca920d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2026/676/article/3) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-f5130175f35c9678dcfe5c99bcde1e7c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2026/676/article/4) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-f5130175f35c9678dcfe5c99bcde1e7c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2026/676/article/4) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
 [^f00006]: Footnote: Section 66(3C) was inserted by section 20(2) of the Biodiversity Beyond National Jurisdiction Act 2026.
 
-[^key-5b0e43b3e1e4867cbe1efdd66d88fae0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2026/676/article/5) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-5b0e43b3e1e4867cbe1efdd66d88fae0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2026/676/article/5) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-ea40f34c02b6eb59371ccdc15984476a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2026/676/article/6) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-ea40f34c02b6eb59371ccdc15984476a]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2026/676/article/6) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-7595d4d314113c5a9d931f80b66bea81]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2026/676/article/7) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-7595d4d314113c5a9d931f80b66bea81]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2026/676/article/7) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
 [^f00007]: Footnote: [S.I. 2011/409](https://www.legislation.gov.uk/uksi/2011/409); relevant amending instruments are [S.I. 2013/526](https://www.legislation.gov.uk/uksi/2013/526) and [2019/893](https://www.legislation.gov.uk/uksi/2019/893).
 
-[^key-2f11aa6382ed98d6dbeeec36198dd5a4]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2026/676/article/8) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-2f11aa6382ed98d6dbeeec36198dd5a4]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2026/676/article/8) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-c52f0c732a0f6045f3967dc211217fca]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2026/676/article/9) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-c52f0c732a0f6045f3967dc211217fca]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2026/676/article/9) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-c4c773771421a938e6393346e8da677b]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2026/676/article/10) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-c4c773771421a938e6393346e8da677b]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2026/676/article/10) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-dec00de09623a2fca9932ce23b9130a0]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2026/676/article/11) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-dec00de09623a2fca9932ce23b9130a0]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2026/676/article/11) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-ff7366b41026fde3a6f498fda9a182c1]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2026/676/article/12) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-ff7366b41026fde3a6f498fda9a182c1]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2026/676/article/12) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-1896a62cfeb49f4c7ce8cb54aa3883fa]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2026/676/article/13) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-1896a62cfeb49f4c7ce8cb54aa3883fa]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2026/676/article/13) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
 [^f00008]: Footnote: Regulation 11(3B) was inserted by section 21(6) of the Biodiversity Beyond National Jurisdiction Act 2026.
 
@@ -333,20 +333,20 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00011]: Footnote: [2010 asp 5](https://www.legislation.gov.uk/asp/2010/5), as it will be amended by the Marine Licensing (Miscellaneous Amendment) (Scotland) Order 2026 ([S.S.I. 2026/172](https://www.legislation.gov.uk/ssi/2026/172)) on the date on which this instrument comes into force.
 
-[^key-59d3dce30c6ba2e5da3f1640780d595c]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2026/676/article/14) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-59d3dce30c6ba2e5da3f1640780d595c]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2026/676/article/14) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
 [^f00012]: Footnote: [S.I. 2011/424](https://www.legislation.gov.uk/uksi/2011/424).
 
-[^key-7f6a32653cd92f60d058f163ba16a661]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2026/676/article/15) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-7f6a32653cd92f60d058f163ba16a661]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2026/676/article/15) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-e805660a49cb39b8082c1219bf148bc9]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2026/676/article/16) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-e805660a49cb39b8082c1219bf148bc9]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2026/676/article/16) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-6b66a7676bd92f9b2a2f71a128b1c467]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2026/676/article/17) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-6b66a7676bd92f9b2a2f71a128b1c467]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2026/676/article/17) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-44044226e1a5869269dbe4c53b35c5a3]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2026/676/article/18) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-44044226e1a5869269dbe4c53b35c5a3]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2026/676/article/18) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-5f40ecdabef9effed68b230e4a7e5bae]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2026/676/article/19) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-5f40ecdabef9effed68b230e4a7e5bae]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2026/676/article/19) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-add0ab30eac69eb77df8c0a89a66507f]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2026/676/article/20) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-add0ab30eac69eb77df8c0a89a66507f]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2026/676/article/20) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
 
-[^key-d4b4eb9e8c76a9064bd3b6b817acd4c5]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2026/676/article/21) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)
+[^c-d4b4eb9e8c76a9064bd3b6b817acd4c5]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2026/676/article/21) in force at 9.8.2026, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2026/676/article/1/1)

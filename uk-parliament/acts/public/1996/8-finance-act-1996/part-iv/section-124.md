@@ -27,7 +27,7 @@ summary: ''
 
 shall be amended in accordance with the following provisions of this section.
 
-(2)[^key-31715a1391b9e034f7bf7ec1817c3e02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-31715a1391b9e034f7bf7ec1817c3e02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After that subsection there shall be inserted—
 
@@ -52,7 +52,7 @@ shall be amended in accordance with the following provisions of this section.
 > - (a) the records which the person fails to keep or preserve are records falling within paragraph (a) of subsection (4A) above; and
 > - (b) an officer of the Board is satisfied that any facts which he reasonably requires to be proved, and which would have been proved by the records, are proved by other documentary evidence furnished to him.
 
-(6)[^key-fa79b68f00340310ea41090a0574f4f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-fa79b68f00340310ea41090a0574f4f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In sub-paragraph (4) of that paragraph (penalty for failure to comply with paragraph 2A(1)) at the beginning there shall be inserted “ Subject to sub-paragraph (5) below, ”.
 
@@ -74,6 +74,6 @@ shall be amended in accordance with the following provisions of this section.
 
 [^c14611891]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-31715a1391b9e034f7bf7ec1817c3e02]: Textual amendment: [S. 124(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/124/2) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 115(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/115/2), [Sch. 37 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/11/b); [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-31715a1391b9e034f7bf7ec1817c3e02]: Textual amendment: [S. 124(2)](https://www.legislation.gov.uk/ukpga/1996/8/section/124/2) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 115(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/115/2), [Sch. 37 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/11/b); [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
 
-[^key-fa79b68f00340310ea41090a0574f4f0]: Textual amendment: [S. 124(6)](https://www.legislation.gov.uk/ukpga/1996/8/section/124/6) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 115(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/115/2), [Sch. 37 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/11/b); [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)
+[^c-fa79b68f00340310ea41090a0574f4f0]: Textual amendment: [S. 124(6)](https://www.legislation.gov.uk/ukpga/1996/8/section/124/6) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 115(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/115/2), [Sch. 37 para. 11(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/37/paragraph/11/b); [S.I. 2009/402](https://www.legislation.gov.uk/uksi/2009/402), [art. 2](https://www.legislation.gov.uk/uksi/2009/402/article/2)

@@ -24,7 +24,7 @@ summary: ''
 
 Section 189(3)
 
-### 1. Cases in which accused has a criminal lifestyle[^key-d57ccb1ad78e0907a58b9ab33d289c36]
+### 1. Cases in which accused has a criminal lifestyle[^c-d57ccb1ad78e0907a58b9ab33d289c36]
 
 (1) In section 142 of the Proceeds of Crime Act 2002 (criminal lifestyle), in subsection (2)—
 
@@ -36,7 +36,7 @@ Section 189(3)
 
 (2) The amendments made by sub-paragraph (1)(a), (b)(ii) and (c) do not apply in relation to conduct that took place wholly or partly before the date on which those provisions come into force.
 
-### 2. Compensation directions[^key-ac0fcec294abaf869767d6b007564ec1]
+### 2. Compensation directions[^c-ac0fcec294abaf869767d6b007564ec1]
 
 (1) The Proceeds of Crime Act 2002 is amended as follows.
 
@@ -88,6 +88,6 @@ Section 189(3)
 
 ## Annotations
 
-[^key-d57ccb1ad78e0907a58b9ab33d289c36]: Commencement: Sch. 23 para. 1 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(f)
+[^c-d57ccb1ad78e0907a58b9ab33d289c36]: Commencement: Sch. 23 para. 1 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(f)
 
-[^key-ac0fcec294abaf869767d6b007564ec1]: Commencement: Sch. 23 para. 2 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(f)
+[^c-ac0fcec294abaf869767d6b007564ec1]: Commencement: Sch. 23 para. 2 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(f)

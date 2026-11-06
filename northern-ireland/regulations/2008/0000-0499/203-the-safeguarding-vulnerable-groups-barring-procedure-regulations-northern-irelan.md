@@ -44,11 +44,11 @@ To be laid before Parliament
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by Article 61(1) of, and paragraphs 15(1) and (2), and 18(3)(b) and (6)[^f00001] of Schedule 1 to, the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007[^f00002].
 
-## 1. Citation and commencement[^key-0d09233547192fd4a0162be017956e60]
+## 1. Citation and commencement[^c-0d09233547192fd4a0162be017956e60]
 
 These Regulations may be cited as the Safeguarding Vulnerable Groups (Barring Procedure) Regulations (Northern Ireland) 2008 and come into operation on 16th June 2008.
 
-## 2. Interpretation[^key-7f2e74db7c8a1204309f0e21f0ae979e]
+## 2. Interpretation[^c-7f2e74db7c8a1204309f0e21f0ae979e]
 
 In these Regulations—
 
@@ -64,9 +64,9 @@ In these Regulations—
   - (c) a disqualification order; or
   - (d) inclusion in a list kept for the purposes of the 2007 Regulations[^f00007] (other than on the grounds that condition A or condition B in Part 1 of the Schedule to those Regulations is satisfied in relation to a person).
 
-## 3. Representations[^key-5854346b85901469633db1dccf0f0ea8][^key-d264957fb5726d7db63d62a75dfdfc33][^key-c38d2d58b76ae196d56a2f6dca0e34c4]
+## 3. Representations[^c-5854346b85901469633db1dccf0f0ea8][^c-d264957fb5726d7db63d62a75dfdfc33][^c-c38d2d58b76ae196d56a2f6dca0e34c4]
 
-(1) This paragraph applies to any person to whom DBS[^key-46d3dcc3b714b84d404404c1f5e2c51e] must, in accordance with any provision of Schedule 1 to the Order, give the opportunity to make representations as to his[^key-f3818f04c2dad12e83b31bce5cad706d]... inclusion in, a barred list.
+(1) This paragraph applies to any person to whom DBS[^c-46d3dcc3b714b84d404404c1f5e2c51e] must, in accordance with any provision of Schedule 1 to the Order, give the opportunity to make representations as to his[^c-f3818f04c2dad12e83b31bce5cad706d]... inclusion in, a barred list.
 
 (2) DBS must give any person falling within paragraph (1) notice in writing that he may make such representations.
 
@@ -74,7 +74,7 @@ In these Regulations—
 
 (4) A notice sent in accordance with paragraph (3) shall be treated as having been received by the person in question 48 hours after and including the date on which it was sent unless the contrary is proved.
 
-(5) A person to whom notice is given in accordance with paragraph (3) may make representations as to his[^key-d2ad14561c9bfc2ffe84d9486c3c61df]... inclusion in, a barred list[^f00008] within the period of 8 weeks starting on the day on which he is treated as having received the notice.
+(5) A person to whom notice is given in accordance with paragraph (3) may make representations as to his[^c-d2ad14561c9bfc2ffe84d9486c3c61df]... inclusion in, a barred list[^f00008] within the period of 8 weeks starting on the day on which he is treated as having received the notice.
 
 (6) Where—
 
@@ -83,11 +83,11 @@ In these Regulations—
 
 DBS may allow that person such further period to make his representations as DBS considers reasonable.
 
-## 4. The minimum barred period: persons subject to previous restrictions (children’s barred list)[^key-69a988a40f7b79e192ca887153d24c39]
+## 4. The minimum barred period: persons subject to previous restrictions (children’s barred list)[^c-69a988a40f7b79e192ca887153d24c39]
 
 In the case of any person who is included by DBS in the children’s barred list pursuant to Article 3 of the Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008[^f00009] (inclusion in the children’s barred list: persons disqualified from working with children) the minimum barred period is the period calculated in the manner set out in regulations 5 to 8.
 
-## 5. The minimum barred period: persons included in the list kept under Article 3 of the 2003 Order[^key-7594aeff417a864075e8ac4857320d6b]
+## 5. The minimum barred period: persons included in the list kept under Article 3 of the 2003 Order[^c-7594aeff417a864075e8ac4857320d6b]
 
 (1) In relation to any person mentioned in regulation 4 who, at the point at which he is included in the children’s barred list, is included (otherwise than provisionally) in the list kept by the Department of Health, Social Services and Public Safety under Article 3 of the 2003 Order—
 
@@ -101,7 +101,7 @@ In the case of any person who is included by DBS in the children’s barred list
   - (ii) not to remove the person from that list;
 - (b) the Care Tribunal not to direct the person’s removal from that list.
 
-## 6. The minimum barred period: persons subject to disqualification orders[^key-5c823048b7e05312633e705e081b5e20]
+## 6. The minimum barred period: persons subject to disqualification orders[^c-5c823048b7e05312633e705e081b5e20]
 
 (1) In relation to any person mentioned in regulation 4 who, at the point at which he is included in the children’s barred list, is subject to a disqualification order in connection with the commission of an offence against a child—
 
@@ -113,7 +113,7 @@ In the case of any person who is included by DBS in the children’s barred list
 - (a) the Court, to make the person subject to the disqualification order;
 - (b) the Care Tribunal, that the person should continue to be subject to the disqualification order.
 
-## 7. The minimum barred period: persons included in the list kept for the purposes of the 2007 Regulations[^key-581014e209a721f7c555e203c71899bd]
+## 7. The minimum barred period: persons included in the list kept for the purposes of the 2007 Regulations[^c-581014e209a721f7c555e203c71899bd]
 
 (1) In relation to any person mentioned in regulation 4 who, at the point at which he is included in the children’s barred list, is included in the list kept for the purposes of the 2007 Regulations (other than on the grounds that condition A or condition B in Part 1 of the Schedule to those Regulations is satisfied in relation to that person)—
 
@@ -127,7 +127,7 @@ In the case of any person who is included by DBS in the children’s barred list
   - (ii) not to revoke a prohibition[^f00010];
 - (b) the Care Tribunal not to order the Department to revoke the prohibition.
 
-## 8. The minimum barred period: persons subject to more than one previous disqualification[^key-b6c6976ffe6dfdf7e81e48ae4d122db2]
+## 8. The minimum barred period: persons subject to more than one previous disqualification[^c-b6c6976ffe6dfdf7e81e48ae4d122db2]
 
 (1) In relation to any person mentioned in regulation 4 who, at the point at which he is included in the children’s barred list, is subject to more than one of the previous restrictions referred to in regulations 5 to 7, the minimum barred period is the period calculated in the manner set out in this regulation.
 
@@ -141,7 +141,7 @@ In the case of any person who is included by DBS in the children’s barred list
 - (b) a disqualification decision within the meaning of regulation 6(2);
 - (c) a restriction decision within the meaning of regulation 7(2).
 
-## 9. The minimum barred period: persons subject to previous restrictions (adults’ barred list)[^key-fd0278ef2f55657ce26cd6ad175a06fb]
+## 9. The minimum barred period: persons subject to previous restrictions (adults’ barred list)[^c-fd0278ef2f55657ce26cd6ad175a06fb]
 
 (1) In the case of any person who is included by DBS in the adults’ barred list pursuant to Article 5 of the Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008 (inclusion in the adults’ barred list: persons considered unsuitable to work with vulnerable adults) the minimum barred period is the period calculated in the manner set out in this regulation.
 
@@ -156,7 +156,7 @@ In the case of any person who is included by DBS in the children’s barred list
   - (ii) not to remove the person from that list;
 - (b) the Care Tribunal not to direct the person’s removal from that list.
 
-## 10. The minimum barred period: persons not subject to previous restrictions[^key-1cf8a8221ff5cc98dd5ec774e2d10391]
+## 10. The minimum barred period: persons not subject to previous restrictions[^c-1cf8a8221ff5cc98dd5ec774e2d10391]
 
 (1) This regulation applies to any person to whom none of regulations 5 to 9 apply.
 
@@ -166,13 +166,13 @@ In the case of any person who is included by DBS in the children’s barred list
 
 (4) In relation to any person who has reached the age of 25 when DBS includes him in a barred list the minimum barred period is 10 years.
 
-## 11. Start of minimum barred period[^key-39b3333eeed0fb80c864e7b336020d29]
+## 11. Start of minimum barred period[^c-39b3333eeed0fb80c864e7b336020d29]
 
 (1) In relation to a person who is included in a barred list because he satisfies any of the criteria prescribed for the purposes of paragraph 1(1), 2(1), 7(1) or 8(1) of Schedule 1 to the Order, the minimum barred period starts when the person satisfies the relevant criteria.
 
 (2) In any other case the minimum barred period starts when the DBS includes the person in a barred list.
 
-## 12. Review[^key-6c75fcbd80e7ee9d9c56283c6e0ef067]
+## 12. Review[^c-6c75fcbd80e7ee9d9c56283c6e0ef067]
 
 (1) The period prescribed for the purposes of paragraph 18(3)(b) of Schedule 1 to the Order (period within which a person must not have applied for permission to apply for review) is the period determined in accordance with paragraphs (2) to (6).
 
@@ -237,9 +237,9 @@ In general, if a person is under 18, the period within which they must not have 
 
 [^f00002]: Footnote: [S.I. 2007/1351 (N.I. 11)](https://www.legislation.gov.uk/nisi/2007/1351).
 
-[^key-0d09233547192fd4a0162be017956e60]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-0d09233547192fd4a0162be017956e60]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
-[^key-7f2e74db7c8a1204309f0e21f0ae979e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/203/regulation/2) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-7f2e74db7c8a1204309f0e21f0ae979e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/203/regulation/2) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2003/417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417) as amended by [S.I. 2003 No. 431 (N.I. 9)](https://www.legislation.gov.uk/nisi/2003/431) and which is to be repealed by Schedule 8 of the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007 (“the 2007 Order”) which was not in operation on the making of these Regulations.
 
@@ -251,38 +251,38 @@ In general, if a person is under 18, the period within which they must not have 
 
 [^f00007]: Footnote: see regulation 8.
 
-[^key-5854346b85901469633db1dccf0f0ea8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/203/regulation/3) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-5854346b85901469633db1dccf0f0ea8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/203/regulation/3) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
-[^key-d264957fb5726d7db63d62a75dfdfc33]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/203/regulation/3) applied (16.6.2008) by [The Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008 (S.R. 2008/200)](https://www.legislation.gov.uk/nisr/2008/200), [arts. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2008/200/article/3/3)
+[^c-d264957fb5726d7db63d62a75dfdfc33]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/203/regulation/3) applied (16.6.2008) by [The Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008 (S.R. 2008/200)](https://www.legislation.gov.uk/nisr/2008/200), [arts. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1), [3(3)](https://www.legislation.gov.uk/nisr/2008/200/article/3/3)
 
-[^key-c38d2d58b76ae196d56a2f6dca0e34c4]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/203/regulation/3) applied (16.6.2008) by [The Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008 (S.R. 2008/200)](https://www.legislation.gov.uk/nisr/2008/200), [arts. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1), [5(3)](https://www.legislation.gov.uk/nisr/2008/200/article/5/3)
+[^c-c38d2d58b76ae196d56a2f6dca0e34c4]: Modification: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/203/regulation/3) applied (16.6.2008) by [The Safeguarding Vulnerable Groups (Transitional Provisions) Order (Northern Ireland) 2008 (S.R. 2008/200)](https://www.legislation.gov.uk/nisr/2008/200), [arts. 1](https://www.legislation.gov.uk/nisr/2008/200/article/1), [5(3)](https://www.legislation.gov.uk/nisr/2008/200/article/5/3)
 
-[^key-46d3dcc3b714b84d404404c1f5e2c51e]: Textual amendment: Words in [regs. 3-12](https://www.legislation.gov.uk/nisr/2008/203/regulation/3) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(e)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/e) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
+[^c-46d3dcc3b714b84d404404c1f5e2c51e]: Textual amendment: Words in [regs. 3-12](https://www.legislation.gov.uk/nisr/2008/203/regulation/3) substituted (1.12.2012) by [The Protection of Freedoms Act 2012 (Disclosure and Barring Service Transfer of Functions) Order 2012 (S.I. 2012/3006)](https://www.legislation.gov.uk/uksi/2012/3006), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/1/1), [13(1)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/1)[(3)(e)](https://www.legislation.gov.uk/uksi/2012/3006/article/13/3/e) (with [Pt. 4](https://www.legislation.gov.uk/uksi/2012/3006/part/4))
 
-[^key-f3818f04c2dad12e83b31bce5cad706d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2008/203/regulation/3/1) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/323)](https://www.legislation.gov.uk/nisr/2012/323), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2012/323/regulation/1/3), [9(a)](https://www.legislation.gov.uk/nisr/2012/323/regulation/9/a)
+[^c-f3818f04c2dad12e83b31bce5cad706d]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/nisr/2008/203/regulation/3/1) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/323)](https://www.legislation.gov.uk/nisr/2012/323), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2012/323/regulation/1/3), [9(a)](https://www.legislation.gov.uk/nisr/2012/323/regulation/9/a)
 
-[^key-d2ad14561c9bfc2ffe84d9486c3c61df]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/nisr/2008/203/regulation/3/5) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/323)](https://www.legislation.gov.uk/nisr/2012/323), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2012/323/regulation/1/3), [9(b)](https://www.legislation.gov.uk/nisr/2012/323/regulation/9/b)
+[^c-d2ad14561c9bfc2ffe84d9486c3c61df]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/nisr/2008/203/regulation/3/5) omitted (10.9.2012) by virtue of [The Safeguarding Vulnerable Groups (Miscellaneous Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/323)](https://www.legislation.gov.uk/nisr/2012/323), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2012/323/regulation/1/3), [9(b)](https://www.legislation.gov.uk/nisr/2012/323/regulation/9/b)
 
 [^f00008]: Footnote: The barred lists are the children’s barred list and the adults’ barred list which IBB is required to establish and maintain under Article 6 of the 2007 Order.
 
-[^key-69a988a40f7b79e192ca887153d24c39]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/203/regulation/4) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-69a988a40f7b79e192ca887153d24c39]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/203/regulation/4) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
 [^f00009]: Footnote: [S.R. 2008 No. 200](https://www.legislation.gov.uk/nisr/2008/200).
 
-[^key-7594aeff417a864075e8ac4857320d6b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/203/regulation/5) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-7594aeff417a864075e8ac4857320d6b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/203/regulation/5) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
-[^key-5c823048b7e05312633e705e081b5e20]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/203/regulation/6) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-5c823048b7e05312633e705e081b5e20]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/203/regulation/6) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
-[^key-581014e209a721f7c555e203c71899bd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/203/regulation/7) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-581014e209a721f7c555e203c71899bd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/203/regulation/7) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
 [^f00010]: Footnote: see regulation 9 of [S.R. 2007 No. 288](https://www.legislation.gov.uk/nisr/2007/288).
 
-[^key-b6c6976ffe6dfdf7e81e48ae4d122db2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/203/regulation/8) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-b6c6976ffe6dfdf7e81e48ae4d122db2]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/203/regulation/8) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
-[^key-fd0278ef2f55657ce26cd6ad175a06fb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/203/regulation/9) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-fd0278ef2f55657ce26cd6ad175a06fb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/203/regulation/9) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
-[^key-1cf8a8221ff5cc98dd5ec774e2d10391]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/203/regulation/10) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-1cf8a8221ff5cc98dd5ec774e2d10391]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/203/regulation/10) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
-[^key-39b3333eeed0fb80c864e7b336020d29]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/203/regulation/11) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-39b3333eeed0fb80c864e7b336020d29]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/203/regulation/11) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
 
-[^key-6c75fcbd80e7ee9d9c56283c6e0ef067]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/203/regulation/12) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)
+[^c-6c75fcbd80e7ee9d9c56283c6e0ef067]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/203/regulation/12) in operation at 16.6.2008, see [reg. 1](https://www.legislation.gov.uk/nisr/2008/203/regulation/1)

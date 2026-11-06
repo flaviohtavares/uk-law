@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Abatement of works abandoned or decayed[^key-abef549b3532e1b01ff5144e35eedd7e]
+## 28. Abatement of works abandoned or decayed[^c-abef549b3532e1b01ff5144e35eedd7e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the Secretary of State or the Harbour Authority may include that part of the wor
 
 ## Annotations
 
-[^key-abef549b3532e1b01ff5144e35eedd7e]: Commencement: Art. 28 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-abef549b3532e1b01ff5144e35eedd7e]: Commencement: Art. 28 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64D. Restrictions on keeping a pet: decisions on appeal[^key-8112fb098066cb519d2599e570ad4317]
+## 64D. Restrictions on keeping a pet: decisions on appeal[^c-8112fb098066cb519d2599e570ad4317]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8112fb098066cb519d2599e570ad4317]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2016/19/part/5A) inserted (1.4.2026 for the purpose of inserting ss. 64B(1)(3), 64C(3), 64E, 64F, 64G, 64I(1)(3), 64J(3), 64L, 64M, 64N, and 64O to enable the Scottish Ministers to consult or make regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 35(2)](https://www.legislation.gov.uk/asp/2025/13/section/35/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-8112fb098066cb519d2599e570ad4317]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2016/19/part/5A) inserted (1.4.2026 for the purpose of inserting ss. 64B(1)(3), 64C(3), 64E, 64F, 64G, 64I(1)(3), 64J(3), 64L, 64M, 64N, and 64O to enable the Scottish Ministers to consult or make regulations) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 35(2)](https://www.legislation.gov.uk/asp/2025/13/section/35/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

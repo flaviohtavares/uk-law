@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Admission agreements – further provisions[^key-b6f70def94b2b524317b68f9900862ce]
+## 7. Admission agreements – further provisions[^c-b6f70def94b2b524317b68f9900862ce]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6f70def94b2b524317b68f9900862ce]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-b6f70def94b2b524317b68f9900862ce]: Commencement: Reg. 7 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

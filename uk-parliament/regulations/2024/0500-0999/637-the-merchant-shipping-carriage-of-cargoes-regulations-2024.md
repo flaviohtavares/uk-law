@@ -50,19 +50,19 @@ The Secretary of State, after consulting the persons referred to in section 86(4
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-51c3a712155a0a7618f4d54d8d7aec47]
+### 1. Citation, commencement and extent[^c-51c3a712155a0a7618f4d54d8d7aec47]
 
 (1) These Regulations may be cited as the Merchant Shipping (Carriage of Cargoes) Regulations 2024 and come into force on 11th June 2024.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Amendments and revocation[^key-f2e62016b451bf0f852f78e79e55e562]
+### 2. Amendments and revocation[^c-f2e62016b451bf0f852f78e79e55e562]
 
 (1) The amendments listed in the Schedule have effect.
 
 (2) The Merchant Shipping (Carriage of Cargoes) Regulations 1999[^f00002] are revoked.
 
-### 3. Interpretation[^key-acbb09c69055de40f5511cef578115c4]
+### 3. Interpretation[^c-acbb09c69055de40f5511cef578115c4]
 
 (1) In these Regulations—
 
@@ -95,7 +95,7 @@ The Secretary of State, after consulting the persons referred to in section 86(4
 
 (2) Where a ship is operated by a person other than its owner, whether on behalf of the owner or some other person, or on that person’s own behalf, a reference in these Regulations to the owner must be construed as including a reference to that person.
 
-### 4. Application[^key-cccb61dc6dcf1481fd6743efe4de05d8]
+### 4. Application[^c-cccb61dc6dcf1481fd6743efe4de05d8]
 
 (1) Subject to paragraphs (2) to (4), these Regulations apply to the carriage of cargo on—
 
@@ -121,7 +121,7 @@ The Secretary of State, after consulting the persons referred to in section 86(4
 
 those persons are not to be taken into account for the purpose of determining the application to that ship of any provision of these Regulations.
 
-### 5. Ambulatory reference[^key-3beb4df11bb703e0ea8590b90f084512]
+### 5. Ambulatory reference[^c-3beb4df11bb703e0ea8590b90f084512]
 
 (1) In these Regulations, any reference to Chapter VI or the International Grain Code is to be construed—
 
@@ -132,7 +132,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (3) A modification or replacement of Chapter VI or the International Grain Code has effect at the time such modification or replacement comes into force in accordance with Article VIII of the Convention.
 
-### 6. Exemptions[^key-5f435dc2c207e7660df5963a19fef6e5]
+### 6. Exemptions[^c-5f435dc2c207e7660df5963a19fef6e5]
 
 (1) The Secretary of State may grant an exemption from any requirement of a regulation in Part 2 to the extent that it requires compliance with Part A or B of Chapter VI in respect of a cargo ship of less than 500 gross tonnage or class of such cargo ship if satisfied that the sheltered nature and conditions of the voyage make it unreasonable or unnecessary to apply that requirement.
 
@@ -156,7 +156,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (7) Where an exemption is granted subject to safety requirements under paragraph (3), the exemption ceases to have effect if those requirements are not complied with.
 
-### 7. Equivalents[^key-c7e1219f88aef1018327972708f75560]
+### 7. Equivalents[^c-c7e1219f88aef1018327972708f75560]
 
 (1) Where the provisions of Chapter VI require that—
 
@@ -184,14 +184,14 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 (6) Where an approval is granted subject to safety requirements under paragraph (2), the approval ceases to have effect if those requirements are not complied with.
 
-### 8. Approvals[^key-7afa29ba6d349df9407a50f8eba3943c]
+### 8. Approvals[^c-7afa29ba6d349df9407a50f8eba3943c]
 
 (1) The Secretary of State, or any person authorised by the Secretary of State, may grant an approval in relation to a ship for anything in Chapter VI requiring to be—
 
 - (a) approved by the Administration of the State whose flag the ship is entitled to fly; or
 - (b) done to the satisfaction of such Administration[^f00009].
 
-(2) Unless approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^key-6a70ff6c5156ea5dad904e9f2ba67832], equipment required by Chapter VI and placed on board a United Kingdom ship must be approved by the Secretary of State, or any person authorised by the Secretary of State.
+(2) Unless approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^c-6a70ff6c5156ea5dad904e9f2ba67832], equipment required by Chapter VI and placed on board a United Kingdom ship must be approved by the Secretary of State, or any person authorised by the Secretary of State.
 
 (3) An approval given under paragraph (1) or (2) may, on the giving of reasonable notice, be continued, altered or cancelled.
 
@@ -209,7 +209,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 ## PART 2 — Requirements in relation to the carriage of cargoes and oil fuels
 
-### 9. Requirements in relation to ships: owners and masters[^key-e5bf1c24c3650757a85eb2a608fd41bd]
+### 9. Requirements in relation to ships: owners and masters[^c-e5bf1c24c3650757a85eb2a608fd41bd]
 
 (1) An owner and master must ensure that a ship complies with—
 
@@ -222,13 +222,13 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 (2) An owner and master of a ship must not accept for carriage, or take or receive on board any cargo, for which information as required by regulation 2 (cargo information) of Chapter VI has not been provided.
 
-### 10. Requirements in relation to owners or masters[^key-f93a2314f326981d6e276ba1ae37a3b6]
+### 10. Requirements in relation to owners or masters[^c-f93a2314f326981d6e276ba1ae37a3b6]
 
 (1) An owner of a ship must ensure that the master is provided with the information described in regulation 6 (acceptability for shipment) of Chapter VI.
 
 (2) A master must comply with the requirements in paragraphs 3.1 and 3.3 of Merchant Shipping Notice 1917(M).
 
-### 11. Requirements in relation to shippers and forwarders[^key-d3befd9f1c15ebf2c6431ed56b619ddd]
+### 11. Requirements in relation to shippers and forwarders[^c-d3befd9f1c15ebf2c6431ed56b619ddd]
 
 (1) Subject to paragraph (3), a shipper or forwarder must comply with each requirement of Chapter VI listed in paragraph (2) applicable to them.
 
@@ -245,11 +245,11 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 - (c) the forwarder must comply with the requirements on the shipper in paragraphs 2 and 5 of the regulation 5 (stowage and securing); and
 - (d) the forwarder must comply with the requirements in regulation 5-1 (material safety data sheets).
 
-### 12. Requirements in relation to terminal representatives[^key-da5abf1d343356a4ab151295ff53d2fa]
+### 12. Requirements in relation to terminal representatives[^c-da5abf1d343356a4ab151295ff53d2fa]
 
 A terminal representative must comply with the provisions in paragraphs 3, 4 and 5 of regulation 7 of Chapter VI (loading etc. of solid bulk cargoes) applicable to a terminal representative.
 
-### 13. International Grain Code: document of authorisation[^key-01c586674531d242da03bd0631a28c53]
+### 13. International Grain Code: document of authorisation[^c-01c586674531d242da03bd0631a28c53]
 
 (1) The Secretary of State or any person authorised by the Secretary of State may issue a document of authorisation in accordance with section 3 of Part A of the International Grain Code.
 
@@ -261,7 +261,7 @@ A terminal representative must comply with the provisions in paragraphs 3, 4 and
 
 ## PART 3 — Control and enforcement
 
-### 14. Offences: owner and master[^key-a1884f78aab0fba5662c4bd9ece83cec]
+### 14. Offences: owner and master[^c-a1884f78aab0fba5662c4bd9ece83cec]
 
 (1) If a ship proceeds or attempts to proceed to sea or on any voyage, or arrives within United Kingdom waters, in breach of any of the requirements in regulation 9 the owner and the master are each guilty of an offence in respect of each case of non-compliance.
 
@@ -269,7 +269,7 @@ A terminal representative must comply with the provisions in paragraphs 3, 4 and
 
 (3) A master who fails to comply with regulation 10(2) is guilty of an offence in respect of each case of non-compliance.
 
-### 15. Offences: shipper and forwarder[^key-33ded7eeb510311ed03f9d09d6e51909]
+### 15. Offences: shipper and forwarder[^c-33ded7eeb510311ed03f9d09d6e51909]
 
 (1) A shipper who fails to provide information in accordance with regulation 11(1) or (3)(a) is guilty of an offence in respect of each case of non-compliance.
 
@@ -277,11 +277,11 @@ A terminal representative must comply with the provisions in paragraphs 3, 4 and
 
 (3) A shipper or forwarder who knowingly or recklessly provides false information under regulation 11(1) or (3) is guilty of an offence.
 
-### 16. Offence: terminal representative[^key-9cd864e309acd9e3a254208d80168a24]
+### 16. Offence: terminal representative[^c-9cd864e309acd9e3a254208d80168a24]
 
 A terminal representative who fails to comply with regulation 12 is guilty of an offence in respect of each case of non-compliance.
 
-### 17. Penalties[^key-703e6e23c0d27e74dbd5038f98461ef6]
+### 17. Penalties[^c-703e6e23c0d27e74dbd5038f98461ef6]
 
 (1) An offence under regulation 14, 15 or 16 is punishable—
 
@@ -292,7 +292,7 @@ A terminal representative who fails to comply with regulation 12 is guilty of an
 
 (2) It is a defence for a person charged with an offence under regulation 14, 15 or 16 to prove that the person charged took all reasonable steps to avoid the commission of the offence.
 
-### 18. Detention[^key-f79e4a3f52d6fa9844c9f40ca39bad79]
+### 18. Detention[^c-f79e4a3f52d6fa9844c9f40ca39bad79]
 
 (1) For the purposes of this regulation, any reference to “**the Act**” is a reference to the Merchant Shipping Act 1995.
 
@@ -324,7 +324,7 @@ A terminal representative who fails to comply with regulation 12 is guilty of an
 
 (9) For the purposes of paragraphs (7) and (8), “**flag administration**” in relation to a ship means the administration of the State whose flag the ship is entitled to fly.
 
-### 19. Review of the Regulations[^key-022e70adb14713ebd4faf3bcb43b65c9]
+### 19. Review of the Regulations[^c-022e70adb14713ebd4faf3bcb43b65c9]
 
 (1) The Secretary of State must from time to time—
 
@@ -370,7 +370,7 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 Regulation 2(1)
 
-### 1. The Merchant Shipping (Safe Loading and Unloading of Bulk Carriers) Regulations 2003[^key-88894eb7f7112060df65710ad04a40cc]
+### 1. The Merchant Shipping (Safe Loading and Unloading of Bulk Carriers) Regulations 2003[^c-88894eb7f7112060df65710ad04a40cc]
 
 In regulation 12(2) of the Merchant Shipping (Safe Loading and Unloading of Bulk Carriers) Regulations 2003[^f00017]—
 
@@ -385,11 +385,11 @@ In regulation 12(2) of the Merchant Shipping (Safe Loading and Unloading of Bulk
 
   .
 
-### 2. The Merchant Shipping (Fees) Regulations 2018[^key-eb4464384a5cb5780aeef2f710002a7c]
+### 2. The Merchant Shipping (Fees) Regulations 2018[^c-eb4464384a5cb5780aeef2f710002a7c]
 
 The Merchant Shipping (Fees) Regulations 2018[^f00019] are amended as follows.
 
-**3.**[^key-2ff8fb865d47f91e9bbfc3f639afbaa0] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption), in Section G (load lines)—
+**3.**[^c-2ff8fb865d47f91e9bbfc3f639afbaa0] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption), in Section G (load lines)—
 
 - (a) omit the entry for the Merchant Shipping (Carriage of Cargoes) Regulations 1999;
 - (b) at the end—
@@ -429,13 +429,13 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7. Section 85 was amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3). Section 306A was inserted by the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), section 106. Sections 85 and 86 are applied to hovercraft by the Hovercraft (Application of Enactments) Order 1989 ([S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)). There are other amendments but none is relevant.
 
-[^key-51c3a712155a0a7618f4d54d8d7aec47]: Commencement: Reg. 1 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-51c3a712155a0a7618f4d54d8d7aec47]: Commencement: Reg. 1 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-f2e62016b451bf0f852f78e79e55e562]: Commencement: Reg. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-f2e62016b451bf0f852f78e79e55e562]: Commencement: Reg. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1999/336](https://www.legislation.gov.uk/uksi/1999/336).
 
-[^key-acbb09c69055de40f5511cef578115c4]: Commencement: Reg. 3 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-acbb09c69055de40f5511cef578115c4]: Commencement: Reg. 3 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
 [^f00003]: Footnote: Chapter VI in the Annex to the Convention (see the footnote to the definition of “Convention” in this regulation) was revised and replaced by International Maritime Organization (IMO) Resolution MSC.22(59) (Cm 3934) and has been further amended by IMO Resolutions MSC.42(64) (Cm 3455), MSC.47(66) (Cm 4064), MSC.69(69) (Cm 5771), MSC.123(75) (Cm 6587), MSC.194(80), MSC.239(83), MSC.269(85), MSC.282(86), MSC.325(90) and MSC.380(94). The amendments to Chapter VI are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/).
 
@@ -447,45 +447,45 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00007]: Footnote: Merchant Shipping Notice 1837 (M) Amendment 3 was published on 22nd April 2024 and is available on https://www.gov.uk/government/publications/msn-1837-m-amendment-3-categorisation-of-waters and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-cccb61dc6dcf1481fd6743efe4de05d8]: Commencement: Reg. 4 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-cccb61dc6dcf1481fd6743efe4de05d8]: Commencement: Reg. 4 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
 [^f00008]: Footnote: Regulation 33 in Chapter V of the Convention (safety of navigation) places an obligation on the master to provide assistance to persons in distress at sea and this obligation is implemented in the Merchant Shipping (Safety of Navigation) Regulations 2020 ([S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673), amended by [S.I. 2022/1219](https://www.legislation.gov.uk/uksi/2022/1219)).
 
-[^key-3beb4df11bb703e0ea8590b90f084512]: Commencement: Reg. 5 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-3beb4df11bb703e0ea8590b90f084512]: Commencement: Reg. 5 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-5f435dc2c207e7660df5963a19fef6e5]: Commencement: Reg. 6 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-5f435dc2c207e7660df5963a19fef6e5]: Commencement: Reg. 6 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-c7e1219f88aef1018327972708f75560]: Commencement: Reg. 7 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-c7e1219f88aef1018327972708f75560]: Commencement: Reg. 7 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-7afa29ba6d349df9407a50f8eba3943c]: Commencement: Reg. 8 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-7afa29ba6d349df9407a50f8eba3943c]: Commencement: Reg. 8 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
 [^f00009]: Footnote: The circumstances in which the approval of the Secretary of State is required in relation to United Kingdom ships are set out in Marine Guidance Note 699(M); this is available on www.gov.uk/topic/ships-cargoes/m-notices and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-6a70ff6c5156ea5dad904e9f2ba67832]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2024/637/regulation/8/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/26) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-6a70ff6c5156ea5dad904e9f2ba67832]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2024/637/regulation/8/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/26) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-e5bf1c24c3650757a85eb2a608fd41bd]: Commencement: Reg. 9 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-e5bf1c24c3650757a85eb2a608fd41bd]: Commencement: Reg. 9 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
 [^f00011]: Footnote: Chapter VI gives effect to the International Maritime Solid Bulk Cargoes (IMSBC) Code and the International Code for the Safe Carriage of Grain in Bulk (International Grain Code). Regulation 2.2.1 of Chapter VI also gives effect to sub-chapter 1.9 of the Code of Safe Practice for Cargo Stowage and Securing. The IMSBC Code was adopted by International Maritime Organization (IMO) Resolution MSC.268(85) and made mandatory by IMO Resolution MSC.269(85). The IMSBC Code has been amended by IMO Resolutions MSC.318(89), MSC.354(92), MSC.393(95), MSC.426(98), MSC.462(101) and MSC.500(105). The Code of Safe Practice for Cargo Stowage and Securing was adopted by IMO Resolution A.714(17) and amended by MSC/Circ.664, MSC/Circ.740, MSC/Circ.1026 and MSC.1/Circ.1352/Rev.1. The Codes and amendments are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/).
 
 [^f00012]: Footnote: Merchant Shipping Notice 1917(M) is available on https://www.gov.uk/government/collections/merchant-shipping-notices-msns and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-f93a2314f326981d6e276ba1ae37a3b6]: Commencement: Reg. 10 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-f93a2314f326981d6e276ba1ae37a3b6]: Commencement: Reg. 10 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-d3befd9f1c15ebf2c6431ed56b619ddd]: Commencement: Reg. 11 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-d3befd9f1c15ebf2c6431ed56b619ddd]: Commencement: Reg. 11 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-da5abf1d343356a4ab151295ff53d2fa]: Commencement: Reg. 12 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-da5abf1d343356a4ab151295ff53d2fa]: Commencement: Reg. 12 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-01c586674531d242da03bd0631a28c53]: Commencement: Reg. 13 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-01c586674531d242da03bd0631a28c53]: Commencement: Reg. 13 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-a1884f78aab0fba5662c4bd9ece83cec]: Commencement: Reg. 14 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-a1884f78aab0fba5662c4bd9ece83cec]: Commencement: Reg. 14 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-33ded7eeb510311ed03f9d09d6e51909]: Commencement: Reg. 15 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-33ded7eeb510311ed03f9d09d6e51909]: Commencement: Reg. 15 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-9cd864e309acd9e3a254208d80168a24]: Commencement: Reg. 16 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-9cd864e309acd9e3a254208d80168a24]: Commencement: Reg. 16 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-703e6e23c0d27e74dbd5038f98461ef6]: Commencement: Reg. 17 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-703e6e23c0d27e74dbd5038f98461ef6]: Commencement: Reg. 17 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
-[^key-f79e4a3f52d6fa9844c9f40ca39bad79]: Commencement: Reg. 18 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-f79e4a3f52d6fa9844c9f40ca39bad79]: Commencement: Reg. 18 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
 [^f00013]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -493,18 +493,18 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00015]: Footnote: Section 95 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
-[^key-022e70adb14713ebd4faf3bcb43b65c9]: Commencement: Reg. 19 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-022e70adb14713ebd4faf3bcb43b65c9]: Commencement: Reg. 19 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
 [^f00016]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 28(4) was amended by the Advanced Research and Invention Agency Act [2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), section 9, Schedule 3, paragraphs 7 and 11. Section 29(5) was amended by the Retained EU Law (Revocation and Reform) Act [2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), section 18(2) and (3). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19 and the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), Schedule 8, Part 2, paragraph 36.
 
-[^key-88894eb7f7112060df65710ad04a40cc]: Commencement: Sch. para. 1 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-88894eb7f7112060df65710ad04a40cc]: Commencement: Sch. para. 1 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 2003/2002](https://www.legislation.gov.uk/uksi/2003/2002), to which there are amendments not relevant to these Regulations.
 
 [^f00018]: Footnote: [S.I. 2024/637](https://www.legislation.gov.uk/uksi/2024/637).
 
-[^key-eb4464384a5cb5780aeef2f710002a7c]: Commencement: Sch. para. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-eb4464384a5cb5780aeef2f710002a7c]: Commencement: Sch. para. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
 
 [^f00019]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 
-[^key-2ff8fb865d47f91e9bbfc3f639afbaa0]: Commencement: Sch. para. 3 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)
+[^c-2ff8fb865d47f91e9bbfc3f639afbaa0]: Commencement: Sch. para. 3 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/637/regulation/1/1)

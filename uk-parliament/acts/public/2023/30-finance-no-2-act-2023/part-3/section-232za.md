@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232ZA. Legal main entity distinct from main entity[^key-cc81c2ca3840c1f26aa2193e1510bfcb]
+## 232ZA. Legal main entity distinct from main entity[^c-cc81c2ca3840c1f26aa2193e1510bfcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc81c2ca3840c1f26aa2193e1510bfcb]: Textual amendment: S. 232ZA inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/9), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)
+[^c-cc81c2ca3840c1f26aa2193e1510bfcb]: Textual amendment: S. 232ZA inserted (with effect in accordance with Sch. 8 para. 53(5)-(13) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 8 paras. 9](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/9), [53(5)-(13)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/8/paragraph/53/5)

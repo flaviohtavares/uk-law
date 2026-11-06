@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Data integrity and security[^key-9d093a156b73170477bc4463f3da016f]
+## 92. Data integrity and security[^c-9d093a156b73170477bc4463f3da016f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d093a156b73170477bc4463f3da016f]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2016/25/section/92) in force at 30.12.2016 by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/f)
+[^c-9d093a156b73170477bc4463f3da016f]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2016/25/section/92) in force at 30.12.2016 by [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/f)

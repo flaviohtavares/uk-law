@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Steps to be taken in preparing or revising indicators and targets[^key-a537d8f44fd0a798b22fcf0ca5cc9544]
+## 5. Steps to be taken in preparing or revising indicators and targets[^c-a537d8f44fd0a798b22fcf0ca5cc9544]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a537d8f44fd0a798b22fcf0ca5cc9544]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2023/4/section/5) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)
+[^c-a537d8f44fd0a798b22fcf0ca5cc9544]: Commencement: [S. 5](https://www.legislation.gov.uk/asc/2023/4/section/5) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)

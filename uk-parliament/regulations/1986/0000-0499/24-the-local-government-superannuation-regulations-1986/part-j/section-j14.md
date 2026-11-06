@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J14. Transfer of pension rights[^key-4e6230356e31e8cd8ccecf5410371683]
+## J14. Transfer of pension rights[^c-4e6230356e31e8cd8ccecf5410371683]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ the total payable under paragraph (1) (or, as the case may be, the respective to
 
 ## Annotations
 
-[^key-4e6230356e31e8cd8ccecf5410371683]: Commencement: [Reg. J14](https://www.legislation.gov.uk/uksi/1986/24/regulation/J14) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-4e6230356e31e8cd8ccecf5410371683]: Commencement: [Reg. J14](https://www.legislation.gov.uk/uksi/1986/24/regulation/J14) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -56,7 +56,7 @@ Regulation 41
 
 **17.** Where C falls within regulation 5(1)(f), whether C's needs as a result of that status are being met.
 
-**18.**[^key-bc02862249285111689feb253ed064c2] Details of any care plan or health treatment plan for P.
+**18.**[^c-bc02862249285111689feb253ed064c2] Details of any care plan or health treatment plan for P.
 
 **19.** Details of any support or services provided for P by any person.
 
@@ -78,4 +78,4 @@ Regulation 41
 
 ## Annotations
 
-[^key-bc02862249285111689feb253ed064c2]: Textual amendment: [Sch. 8 paras. 18-26](https://www.legislation.gov.uk/wsi/2015/1818/schedule/8/paragraph/18) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2017/713/regulation/4/5)
+[^c-bc02862249285111689feb253ed064c2]: Textual amendment: [Sch. 8 paras. 18-26](https://www.legislation.gov.uk/wsi/2015/1818/schedule/8/paragraph/18) inserted (23.7.2017) by [The Care Planning and Case Review (Miscellaneous Amendments) (Wales) Regulations 2017 (S.I. 2017/713)](https://www.legislation.gov.uk/wsi/2017/713), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2017/713/regulation/1/2), [4(5)](https://www.legislation.gov.uk/wsi/2017/713/regulation/4/5)

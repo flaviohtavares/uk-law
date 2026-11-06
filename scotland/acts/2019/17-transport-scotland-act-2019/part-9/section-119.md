@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Information about apparatus[^key-a28f4da5cb35c6f7a56c332f79a3f597]
+## 119. Information about apparatus[^c-a28f4da5cb35c6f7a56c332f79a3f597]
 
 *Extent: S*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a28f4da5cb35c6f7a56c332f79a3f597]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2019/17/section/119) in force at 1.4.2024 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-a28f4da5cb35c6f7a56c332f79a3f597]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2019/17/section/119) in force at 1.4.2024 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -95,7 +95,7 @@ The Secretary of State for Social Security, in exercise of powers conferred by s
 
 for the words “by virtue of a person\`s contributions”, wherever they appear, there shall be substituted the words “ by virtue of a person\`s earnings or contributions ”.
 
-## 3. Transitional[^key-356f23db1983c4322613f419bd0afb55]
+## 3. Transitional[^c-356f23db1983c4322613f419bd0afb55]
 
 If, on the day that this regulation comes into force, regulation 2 (transitional provisions) of the Social Security (Contribution Conditions for Unemployment and Sickness Benefit) Transitional Regulations 1988 applies to a person (or would apply if a claim for benefit for that day had been made within the prescribed time) so that Schedule 3 to the Social Security Act 1975 continues to apply to him as though the amendments made to it by section 6 of the Social Security Act 1988 (contribution conditions for short-term benefits) had not been enacted, then, until the end of the period of interruption of employment in his case which is mentioned in that regulation, the provisions of the principal Regulations shall apply to him as if regulation 2(3)(b)(ii) of these Regulations had not come into force.
 
@@ -127,4 +127,4 @@ Regulation 3 contains transitional provision.
 
 [^c2181089]: Marginal citation: [S.I. 1987/406](https://www.legislation.gov.uk/uksi/1987/406).
 
-[^key-356f23db1983c4322613f419bd0afb55]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/1545/regulation/3) substituted (1.10.1989) by [The Social Security (Credits) Amendment Regulations 1989 (S.I. 1989/1627)](https://www.legislation.gov.uk/uksi/1989/1627), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1627/regulation/1), [5](https://www.legislation.gov.uk/uksi/1989/1627/regulation/5)
+[^c-356f23db1983c4322613f419bd0afb55]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/1545/regulation/3) substituted (1.10.1989) by [The Social Security (Credits) Amendment Regulations 1989 (S.I. 1989/1627)](https://www.legislation.gov.uk/uksi/1989/1627), [regs. 1](https://www.legislation.gov.uk/uksi/1989/1627/regulation/1), [5](https://www.legislation.gov.uk/uksi/1989/1627/regulation/5)

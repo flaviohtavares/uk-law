@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89A. Building society insolvency as alternative order[^key-5ac3657512b116cb1c6bd3d53d54747b]
+## 89A. Building society insolvency as alternative order[^c-5ac3657512b116cb1c6bd3d53d54747b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) A building society insolvency order may be made under subsection (1) only—
 
-- (a) on the application of the appropriate authority[^key-e4dff33f1c4d01b1bf6de5ae0179b675] made with the consent of the Bank of England, or
+- (a) on the application of the appropriate authority[^c-e4dff33f1c4d01b1bf6de5ae0179b675] made with the consent of the Bank of England, or
 - (b) on the application of the Bank of England.
 
 ## Annotations
 
-[^key-5ac3657512b116cb1c6bd3d53d54747b]: Textual amendment: S. 89A inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 5](https://www.legislation.gov.uk/uksi/2009/805/article/5)
+[^c-5ac3657512b116cb1c6bd3d53d54747b]: Textual amendment: S. 89A inserted (29.3.2009) by [The Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 5](https://www.legislation.gov.uk/uksi/2009/805/article/5)
 
-[^key-e4dff33f1c4d01b1bf6de5ae0179b675]: Textual amendment: Words in s. 89A(2)(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 34](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/34) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-e4dff33f1c4d01b1bf6de5ae0179b675]: Textual amendment: Words in s. 89A(2)(a) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 8 para. 34](https://www.legislation.gov.uk/uksi/2013/496/schedule/8/paragraph/34) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

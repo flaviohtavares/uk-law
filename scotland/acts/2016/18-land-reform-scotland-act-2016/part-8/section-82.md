@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Increase in penalty for failure to comply with control scheme[^key-6705f9cfdf32dd1d71c27b9aa2e15350]
+## 82. Increase in penalty for failure to comply with control scheme[^c-6705f9cfdf32dd1d71c27b9aa2e15350]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In schedule 3 of the Deer (Scotland) Act 1996, in the entry relating to section 
 
 ## Annotations
 
-[^key-6705f9cfdf32dd1d71c27b9aa2e15350]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2016/18/section/82) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)
+[^c-6705f9cfdf32dd1d71c27b9aa2e15350]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2016/18/section/82) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule)

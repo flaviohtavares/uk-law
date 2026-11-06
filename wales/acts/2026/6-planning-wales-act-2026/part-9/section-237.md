@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 237. Tree preservation regulations: general[^key-17350412cc0506b9bf98c1c3a103278c]
+## 237. Tree preservation regulations: general[^c-17350412cc0506b9bf98c1c3a103278c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17350412cc0506b9bf98c1c3a103278c]: Commencement: S. 237 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-17350412cc0506b9bf98c1c3a103278c]: Commencement: S. 237 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

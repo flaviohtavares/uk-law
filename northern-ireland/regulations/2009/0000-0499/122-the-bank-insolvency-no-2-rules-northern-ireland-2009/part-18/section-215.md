@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 215. Costs paid otherwise than out of the insolvent estate[^key-5422ac41e878dbf0092ace9310aa7667]
+## 215. Costs paid otherwise than out of the insolvent estate[^c-5422ac41e878dbf0092ace9310aa7667]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.34 of the 1991 Rules.
 
 ## Annotations
 
-[^key-5422ac41e878dbf0092ace9310aa7667]: Commencement: Rule 215 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-5422ac41e878dbf0092ace9310aa7667]: Commencement: Rule 215 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

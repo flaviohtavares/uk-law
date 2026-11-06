@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-fff69ae38c81c8636de8ed928e426669] Section 2 of the Jobseekers Act 1995 (c. 18) (jobseeker's allowance: the contribution-based conditions) is amended as follows.
+(1)[^c-fff69ae38c81c8636de8ed928e426669] Section 2 of the Jobseekers Act 1995 (c. 18) (jobseeker's allowance: the contribution-based conditions) is amended as follows.
 
-(2)[^key-c289e471aa037fa3faca5e595ada9400] In subsection (2), for paragraph (b) substitute—
+(2)[^c-c289e471aa037fa3faca5e595ada9400] In subsection (2), for paragraph (b) substitute—
 
 > - (b) the claimant's relevant earnings for the base year upon which primary Class 1 contributions have been paid or treated as paid are not less than the base year's lower earnings limit multiplied by 26.
 
-(3)[^key-fff69ae38c81c8636de8ed928e426669] After that subsection insert—
+(3)[^c-fff69ae38c81c8636de8ed928e426669] After that subsection insert—
 
 > (2A) Regulations may make provision for the purposes of subsection (2)(b) for determining the claimant's relevant earnings for the base year.
 >
@@ -37,9 +37,9 @@ summary: ''
 >   - (i) first determining the amount of the earnings for the period in accordance with regulations made for the purposes of section 3(2) of the Benefits Act, and
 >   - (ii) then disregarding so much of the amount found in accordance with sub-paragraph (i) as exceeded the base year's lower earnings limit (or the prescribed equivalent).
 
-(4)[^key-c289e471aa037fa3faca5e595ada9400] In subsection (3A), for “subsections (2)(b) and (3)” substitute “ subsection (3) ”.
+(4)[^c-c289e471aa037fa3faca5e595ada9400] In subsection (3A), for “subsections (2)(b) and (3)” substitute “ subsection (3) ”.
 
-(5)[^key-8493f96b5b8d524656a35c18147be6de] After that subsection insert—
+(5)[^c-8493f96b5b8d524656a35c18147be6de] After that subsection insert—
 
 > (3B) Regulations may—
 >
@@ -58,12 +58,12 @@ summary: ''
 >   - (d) a contribution-based jobseeker's allowance, and
 >   - (e) working tax credit.
 
-(6)[^key-c289e471aa037fa3faca5e595ada9400] In paragraph 45 of Schedule 1 to the National Insurance Contributions Act 2002 (c. 19) (which amended section 2(2)(b) of the Jobseekers Act 1995 (c. 18)), for “section 2(2)(b) and (3)” substitute “ section 2(3) ”.
+(6)[^c-c289e471aa037fa3faca5e595ada9400] In paragraph 45 of Schedule 1 to the National Insurance Contributions Act 2002 (c. 19) (which amended section 2(2)(b) of the Jobseekers Act 1995 (c. 18)), for “section 2(2)(b) and (3)” substitute “ section 2(3) ”.
 
 ## Annotations
 
-[^key-fff69ae38c81c8636de8ed928e426669]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/1)[(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/3) in force at 1.10.2010 by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/1/a)
+[^c-fff69ae38c81c8636de8ed928e426669]: Commencement: [S. 12(1)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/1)[(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/3) in force at 1.10.2010 by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/1/a)
 
-[^key-c289e471aa037fa3faca5e595ada9400]: Commencement: [S. 12(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/2)[(4)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/4)[(6)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/6) in force at 1.11.2010 by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/2/a)
+[^c-c289e471aa037fa3faca5e595ada9400]: Commencement: [S. 12(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/2)[(4)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/4)[(6)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/6) in force at 1.11.2010 by [S.I. 2010/2377](https://www.legislation.gov.uk/uksi/2010/2377), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2010/2377/article/2/2/a)
 
-[^key-8493f96b5b8d524656a35c18147be6de]: Commencement: [S. 12(5)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/5) in force at 29.11.2011 for specified purposes by [S.I. 2011/2857](https://www.legislation.gov.uk/uksi/2011/2857), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2857/article/2/a)
+[^c-8493f96b5b8d524656a35c18147be6de]: Commencement: [S. 12(5)](https://www.legislation.gov.uk/ukpga/2009/24/section/12/5) in force at 29.11.2011 for specified purposes by [S.I. 2011/2857](https://www.legislation.gov.uk/uksi/2011/2857), [art. 2(a)](https://www.legislation.gov.uk/uksi/2011/2857/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137E. Entry and search for the purposes of arrest[^key-f26982d6e8a6c50f3a8d5eaa2bd6682b]
+## 137E. Entry and search for the purposes of arrest[^c-f26982d6e8a6c50f3a8d5eaa2bd6682b]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f26982d6e8a6c50f3a8d5eaa2bd6682b]: Textual amendment: S. 137E inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 117](https://www.legislation.gov.uk/ukpga/2017/3/section/117), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)
+[^c-f26982d6e8a6c50f3a8d5eaa2bd6682b]: Textual amendment: S. 137E inserted (31.1.2017 for specified purposes, 1.3.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 117](https://www.legislation.gov.uk/ukpga/2017/3/section/117), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [art. 2(f)](https://www.legislation.gov.uk/uksi/2018/227/article/2/f)

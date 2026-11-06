@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26.4. Determination of notices and applications: supplementary orders[^key-f4a72557b2dd9ae58dd897b94fb2adf3]
+## 26.4. Determination of notices and applications: supplementary orders[^c-f4a72557b2dd9ae58dd897b94fb2adf3]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the Court determines a notice or application under this Chapter and makes 
 
 ## Annotations
 
-[^key-f4a72557b2dd9ae58dd897b94fb2adf3]: Commencement: Para. 26.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-f4a72557b2dd9ae58dd897b94fb2adf3]: Commencement: Para. 26.4 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

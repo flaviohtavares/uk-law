@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 366. Parenting order where offender is under 18[^key-82517c95ec6da12f3b8ac26a609b44ed]
+## 366. Parenting order where offender is under 18[^c-82517c95ec6da12f3b8ac26a609b44ed]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ the court may provide in the order that a counselling or guidance programme whic
 
 ## Annotations
 
-[^key-82517c95ec6da12f3b8ac26a609b44ed]: Commencement: [S. 366](https://www.legislation.gov.uk/ukpga/2020/17/section/366) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-82517c95ec6da12f3b8ac26a609b44ed]: Commencement: [S. 366](https://www.legislation.gov.uk/ukpga/2020/17/section/366) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

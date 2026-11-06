@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Enterprise investment scheme: increase in amount of relief[^key-ba9ce43498c87e0a57792988211cf9c1]
+## 31. Enterprise investment scheme: increase in amount of relief[^c-ba9ce43498c87e0a57792988211cf9c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba9ce43498c87e0a57792988211cf9c1]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2008/9/section/31) repealed (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/3/2)
+[^c-ba9ce43498c87e0a57792988211cf9c1]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/2008/9/section/31) repealed (with effect in accordance with Sch. 7 para. 22 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 7 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/3/2)

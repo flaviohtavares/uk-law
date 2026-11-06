@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Service of application[^key-d331cc0671ef45a6e4e5fa1a8a5a1b55]
+## 9. Service of application[^c-d331cc0671ef45a6e4e5fa1a8a5a1b55]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d331cc0671ef45a6e4e5fa1a8a5a1b55]: Commencement: Rule 9 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d331cc0671ef45a6e4e5fa1a8a5a1b55]: Commencement: Rule 9 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

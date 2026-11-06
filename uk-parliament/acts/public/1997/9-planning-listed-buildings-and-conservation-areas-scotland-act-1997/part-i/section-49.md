@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Secretary of State may execute any works which appear to him to be urgently necessary for the preservation of a listed building.
 
-(3) The works which may be executed under this section may consist of or include works for affording temporary support or shelter for the building and preventative works necessary to limit any deterioration of the building[^key-fa8ab21d4edcd38bff29a49e28048a70] .
+(3) The works which may be executed under this section may consist of or include works for affording temporary support or shelter for the building and preventative works necessary to limit any deterioration of the building[^c-fa8ab21d4edcd38bff29a49e28048a70] .
 
 (4) If the building is occupied works may be carried out only to those parts which are not in use.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa8ab21d4edcd38bff29a49e28048a70]: Textual amendment: Words in [s. 49(3)](https://www.legislation.gov.uk/ukpga/1997/9/section/49/3) added (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 25](https://www.legislation.gov.uk/asp/2011/3/section/25), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)
+[^c-fa8ab21d4edcd38bff29a49e28048a70]: Textual amendment: Words in [s. 49(3)](https://www.legislation.gov.uk/ukpga/1997/9/section/49/3) added (1.12.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 25](https://www.legislation.gov.uk/asp/2011/3/section/25), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/372](https://www.legislation.gov.uk/ssi/2011/372), [art. 2](https://www.legislation.gov.uk/ssi/2011/372/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/372/schedule)

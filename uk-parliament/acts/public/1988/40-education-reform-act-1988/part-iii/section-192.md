@@ -50,7 +50,7 @@ as the Charity Commissioners may appoint.
 
 (7) If in any case an appointment is not made by the Charity Commissioners for the purposes of any of subsections (3) to (6) above before the abolition date, the London Residuary Body shall be treated as having been so appointed pending the making of such an appointment by those Commissioners; but an appointment made by those Commissioners after the abolition date must be made before the end of the period of two years beginning with that date.
 
-(8) References in subsections (2), (5) and (6) above to a charity shall not include a charity which is a company as defined in section 1(1) of the Companies Act 2006[^key-62c6686c5de7e5292bd4532b7fd39c19] or incorporated by charter.
+(8) References in subsections (2), (5) and (6) above to a charity shall not include a charity which is a company as defined in section 1(1) of the Companies Act 2006[^c-62c6686c5de7e5292bd4532b7fd39c19] or incorporated by charter.
 
 (9) For the purposes of this section, a charity is a charity primarily for the benefit of the area of a single inner London council if the charity is established for purposes which are by their nature or by the trusts of the charity directed wholly or mainly to the benefit of an area which falls wholly or mainly within that council’s area.
 
@@ -60,6 +60,6 @@ as the Charity Commissioners may appoint.
 
 ## Annotations
 
-[^key-62c6686c5de7e5292bd4532b7fd39c19]: Textual amendment: Words in [s. 192(8)](https://www.legislation.gov.uk/ukpga/1988/40/section/192/8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 96(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/96/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-62c6686c5de7e5292bd4532b7fd39c19]: Textual amendment: Words in [s. 192(8)](https://www.legislation.gov.uk/ukpga/1988/40/section/192/8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 96(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/96/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c12675841]: Textual amendment: Words in s. 192(11) substituted (1.8.1993) by [1993 c. 10](https://www.legislation.gov.uk/ukpga/1993/10), [s. 98(1)](https://www.legislation.gov.uk/ukpga/1993/10/section/98/1), [Sch. 6](https://www.legislation.gov.uk/ukpga/1993/10/schedule/6), [para.30](https://www.legislation.gov.uk/ukpga/1993/10/paragraph/30)

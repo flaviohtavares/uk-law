@@ -40,55 +40,55 @@ authorising the placing on the market of products containing, consisting of, or 
 
 (Text with EEA relevance) (revoked)
 
-[^key-551d1c12af3d3060d3efc37fc608593c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-551d1c12af3d3060d3efc37fc608593c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organisms and unique identifiers[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 1. Genetically modified organisms and unique identifiers[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 2. Authorisation[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 3. Labelling[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Method for detection[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 4. Method for detection[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Monitoring for environmental effects[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 5. Monitoring for environmental effects[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Register[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 6. Register[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Authorisation holder[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 7. Authorisation holder[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Repeal[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 8. Repeal[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Validity[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 9. Validity[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Addressee[^key-551d1c12af3d3060d3efc37fc608593c]
+## Article 10. Addressee[^c-551d1c12af3d3060d3efc37fc608593c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-551d1c12af3d3060d3efc37fc608593c]
+## ANNEX[^c-551d1c12af3d3060d3efc37fc608593c]
 
-[^key-551d1c12af3d3060d3efc37fc608593c]
+[^c-551d1c12af3d3060d3efc37fc608593c]
 
 - ((a)) **Authorisation holder:**
   - ((1)) The authorisation holder is Corteva Agriscience LLC, 9330 Zionsville Road, Indianapolis, Indiana, 46268-1054, United States of America.
@@ -139,4 +139,4 @@ authorising the placing on the market of products containing, consisting of, or 
 
 ## Annotations
 
-[^key-551d1c12af3d3060d3efc37fc608593c]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 56](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/56) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-551d1c12af3d3060d3efc37fc608593c]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 56](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/56) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

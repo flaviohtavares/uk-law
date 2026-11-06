@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 180. Power of navigation authorities etc to divert the appropriate agency's watercourses.[^key-30bc8071d041c9d4862b205d5ea990ef]
+## 180. Power of navigation authorities etc to divert the appropriate agency's watercourses.[^c-30bc8071d041c9d4862b205d5ea990ef]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30bc8071d041c9d4862b205d5ea990ef]: Textual amendment: Words in s. 180 and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-30bc8071d041c9d4862b205d5ea990ef]: Textual amendment: Words in s. 180 and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

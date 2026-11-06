@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Interpretation of Part 2[^key-1dba466a6f70955601c29defc3b72e9e][^key-475f75354edb31a9fa10d026c9cbc535]
+## 46. Interpretation of Part 2[^c-1dba466a6f70955601c29defc3b72e9e][^c-475f75354edb31a9fa10d026c9cbc535]
 
 *Extent: N.I.*
 
@@ -46,6 +46,6 @@ In this Part—
 
 ## Annotations
 
-[^key-1dba466a6f70955601c29defc3b72e9e]: Commencement: [Art. 46](https://www.legislation.gov.uk/nisi/2015/2006/article/46) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/ii)
+[^c-1dba466a6f70955601c29defc3b72e9e]: Commencement: [Art. 46](https://www.legislation.gov.uk/nisi/2015/2006/article/46) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/ii)
 
-[^key-475f75354edb31a9fa10d026c9cbc535]: Commencement: [Art. 46](https://www.legislation.gov.uk/nisi/2015/2006/article/46) in operation at 27.9.2017 in so far as not already in operation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(f)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/f)
+[^c-475f75354edb31a9fa10d026c9cbc535]: Commencement: [Art. 46](https://www.legislation.gov.uk/nisi/2015/2006/article/46) in operation at 27.9.2017 in so far as not already in operation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(f)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/f)

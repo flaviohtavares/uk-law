@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Interpretation of Chapter 3 of Part 1[^key-8db99b867aa398da7c402086aa363f1f]
+## 71. Interpretation of Chapter 3 of Part 1[^c-8db99b867aa398da7c402086aa363f1f]
 
 *Extent: E+W+S*
 
 (1) In this Chapter—
 
-- “[^key-a0bd07797ffc2dc517e1dd4270119512]**additional police services**” has the meaning given in section 55A(2);
+- “[^c-a0bd07797ffc2dc517e1dd4270119512]**additional police services**” has the meaning given in section 55A(2);
 - “**chief constable**” means the chief constable of the Constabulary;
 - “**the Civil Nuclear Police Federation**” is to be construed in accordance with section 64(2);
 - “**the Constabulary**” means the Civil Nuclear Constabulary;
@@ -52,6 +52,6 @@ includes power to impose restrictions, confer functions, require objectives to b
 
 ## Annotations
 
-[^key-8db99b867aa398da7c402086aa363f1f]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2004/20/section/71) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
+[^c-8db99b867aa398da7c402086aa363f1f]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2004/20/section/71) in force at 1.3.2005 by [S.I. 2005/442](https://www.legislation.gov.uk/uksi/2005/442), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/442/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/442/schedule/1)
 
-[^key-a0bd07797ffc2dc517e1dd4270119512]: Textual amendment: Words in [s. 71(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/71/1) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/3), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)
+[^c-a0bd07797ffc2dc517e1dd4270119512]: Textual amendment: Words in [s. 71(1)](https://www.legislation.gov.uk/ukpga/2004/20/section/71/1) inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 307(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/307/3), [334(2)(n)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/n)

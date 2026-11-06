@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.9.17. Appeals against determination of outlays and remuneration[^key-c593efaebd0fecfb3d2c4054de92d5f0]
+## 3.9.17. Appeals against determination of outlays and remuneration[^c-c593efaebd0fecfb3d2c4054de92d5f0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An appeal to the sheriff under paragraph 6(2) of Schedule 1 to the Act (appeal a
 
 ## Annotations
 
-[^key-c593efaebd0fecfb3d2c4054de92d5f0]: Commencement: Rule 3.9.17 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-c593efaebd0fecfb3d2c4054de92d5f0]: Commencement: Rule 3.9.17 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

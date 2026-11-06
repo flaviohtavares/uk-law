@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. WASK licences[^key-da47c9d8c8932faa8821dffd115238e3]
+## 23. WASK licences[^c-da47c9d8c8932faa8821dffd115238e3]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da47c9d8c8932faa8821dffd115238e3]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2014/951/regulation/23) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-da47c9d8c8932faa8821dffd115238e3]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2014/951/regulation/23) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

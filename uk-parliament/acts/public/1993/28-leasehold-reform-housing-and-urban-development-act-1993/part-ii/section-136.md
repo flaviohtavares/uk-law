@@ -42,7 +42,7 @@ where—
 
 L = the amount of the levy;
 
-CR = the aggregate of—[^key-8523e6bef34931f15af94ad3270458c9]
+CR = the aggregate of—[^c-8523e6bef34931f15af94ad3270458c9]
 
 (i) any sums received by the authority in respect of the disposal which are capital receipts for the purposes of Chapter 1 of Part 1 of the Local Government Act 2003 (capital finance etc) and do not fall within a description determined by the Secretary of State; and
 
@@ -70,17 +70,17 @@ and any such administrative arrangements shall be binding on local authorities.
 
 (6) Any amounts by way of levy or interest which are not paid to the Secretary of State as required by the arrangements mentioned in subsection (5) shall be recoverable in a court of competent jurisdiction.
 
-(7)[^key-394d592ac8057ffbbab818a13e842b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-394d592ac8057ffbbab818a13e842b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-394d592ac8057ffbbab818a13e842b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-394d592ac8057ffbbab818a13e842b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-394d592ac8057ffbbab818a13e842b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-394d592ac8057ffbbab818a13e842b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) Any sums received by the Secretary of State under this section shall be paid into the Consolidated Fund; and any sums paid by the Secretary of State by way of adjustment of levies paid under this section shall be paid out of money provided by Parliament.
 
 (11) Before making an order or determination under this section, the Secretary of State shall consult such representatives of local government as appear to him to be appropriate.
 
-(12) An order [^key-2c382b9dcdeda4a23ff6b77520be4ab2]... under this section—
+(12) An order [^c-2c382b9dcdeda4a23ff6b77520be4ab2]... under this section—
 
 - (a) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament;
 - (b) may make different provision for different cases or descriptions of case, or for different authorities or descriptions of authority; and
@@ -91,7 +91,7 @@ and any such administrative arrangements shall be binding on local authorities.
 - (a) may make different provision for different cases or descriptions of case, or for different authorities or descriptions of authority; and
 - (b) may be varied or revoked by a subsequent determination.
 
-(14)[^key-820a481d95dbe0f4366d180876651614] In this section—
+(14)[^c-820a481d95dbe0f4366d180876651614] In this section—
 
 - “**the 1989 Act**” means the Local Government and Housing Act 1989;
 - “**dwelling-house**” has the same meaning as in Part 5 of the 1985 Act except that it does not include a hostel (as defined in section 622 of that Act) or any part of a hostel;
@@ -112,12 +112,12 @@ and any such administrative arrangements shall be binding on local authorities.
 
 [^c17026251]: Modification: S. 136 amended (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [reg. 53](https://www.legislation.gov.uk/uksi/1994/2825/regulation/53)
 
-[^key-8523e6bef34931f15af94ad3270458c9]: Textual amendment: Words in s. 136(3) substituted (1.4.2004) by [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2004/533/article/5/a)
+[^c-8523e6bef34931f15af94ad3270458c9]: Textual amendment: Words in s. 136(3) substituted (1.4.2004) by [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2004/533/article/5/a)
 
 [^c17026261]: Textual amendment: S. 136(4A) inserted (*retrospectively*) by [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16), [s.109](https://www.legislation.gov.uk/ukpga/1997/16/section/109)
 
-[^key-394d592ac8057ffbbab818a13e842b10]: Textual amendment: S. 136(7)(8)(9) repealed (1.4.2004) by [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2004/533/article/5/b)
+[^c-394d592ac8057ffbbab818a13e842b10]: Textual amendment: S. 136(7)(8)(9) repealed (1.4.2004) by [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2004/533/article/5/b)
 
-[^key-2c382b9dcdeda4a23ff6b77520be4ab2]: Textual amendment: Words in s. 136(12) omitted (1.4.2004) by virtue of [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2004/533/article/5/c)
+[^c-2c382b9dcdeda4a23ff6b77520be4ab2]: Textual amendment: Words in s. 136(12) omitted (1.4.2004) by virtue of [The Local Authorities (Capital Finance) (Consequential, Transitional and Saving Provisions) Order 2004 (S.I. 2004/533)](https://www.legislation.gov.uk/uksi/2004/533), [arts. 1](https://www.legislation.gov.uk/uksi/2004/533/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2004/533/article/5/c)
 
-[^key-820a481d95dbe0f4366d180876651614]: Textual amendment: [S. 136(14)](https://www.legislation.gov.uk/ukpga/1993/28/section/136/14)[(15)](https://www.legislation.gov.uk/ukpga/1993/28/section/136/15) substituted for [s. 136(14)](https://www.legislation.gov.uk/ukpga/1993/28/section/136/14) (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 14 para. 3(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/3/3); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-820a481d95dbe0f4366d180876651614]: Textual amendment: [S. 136(14)](https://www.legislation.gov.uk/ukpga/1993/28/section/136/14)[(15)](https://www.legislation.gov.uk/ukpga/1993/28/section/136/15) substituted for [s. 136(14)](https://www.legislation.gov.uk/ukpga/1993/28/section/136/14) (1.12.2008) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1), [Sch. 14 para. 3(3)](https://www.legislation.gov.uk/ukpga/2008/17/schedule/14/paragraph/3/3); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/c) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

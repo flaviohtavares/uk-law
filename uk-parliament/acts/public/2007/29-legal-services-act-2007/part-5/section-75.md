@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Automatic cancellation of designation as licensing authority[^key-de22a3c831945088382d1dd778135a9b]
+## 75. Automatic cancellation of designation as licensing authority[^c-de22a3c831945088382d1dd778135a9b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de22a3c831945088382d1dd778135a9b]: Commencement: S. 75 in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)
+[^c-de22a3c831945088382d1dd778135a9b]: Commencement: S. 75 in force at 2.8.2010 by [S.I. 2010/1118](https://www.legislation.gov.uk/uksi/2010/1118), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/1118/article/2/a)

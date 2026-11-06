@@ -35,22 +35,22 @@ concerning the authorisation of endo-1,4-beta-mannanase produced by *Paenibacill
 
 (Text with EEA relevance) (revoked)
 
-[^key-a09cb2274e884b4e33f7222d545b789c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a09cb2274e884b4e33f7222d545b789c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a09cb2274e884b4e33f7222d545b789c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a09cb2274e884b4e33f7222d545b789c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a09cb2274e884b4e33f7222d545b789c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a09cb2274e884b4e33f7222d545b789c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a09cb2274e884b4e33f7222d545b789c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a09cb2274e884b4e33f7222d545b789c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-a09cb2274e884b4e33f7222d545b789c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-a09cb2274e884b4e33f7222d545b789c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a09cb2274e884b4e33f7222d545b789c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a09cb2274e884b4e33f7222d545b789c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-a09cb2274e884b4e33f7222d545b789c]
+## ANNEX[^c-a09cb2274e884b4e33f7222d545b789c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a09cb2274e884b4e33f7222d545b789c]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 349](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/349) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a09cb2274e884b4e33f7222d545b789c]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 349](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/349) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

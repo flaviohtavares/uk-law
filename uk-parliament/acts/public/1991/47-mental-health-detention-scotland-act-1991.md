@@ -31,26 +31,26 @@ Mental Health (Detention) (Scotland) Act 1991 (repealed)
 
 1991 c. 47
 
-[^key-3632a9ca9d62bf1a0898d84946c16102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3632a9ca9d62bf1a0898d84946c16102]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Interim detention under the Mental Health (Scotland) Act 1984.[^key-3632a9ca9d62bf1a0898d84946c16102][^key-3632a9ca9d62bf1a0898d84946c16102]
+## 1. Interim detention under the Mental Health (Scotland) Act 1984.[^c-3632a9ca9d62bf1a0898d84946c16102][^c-3632a9ca9d62bf1a0898d84946c16102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Determination of applications for admission to hospital.[^key-3632a9ca9d62bf1a0898d84946c16102][^key-3632a9ca9d62bf1a0898d84946c16102]
+## 2. Determination of applications for admission to hospital.[^c-3632a9ca9d62bf1a0898d84946c16102][^c-3632a9ca9d62bf1a0898d84946c16102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Supplementary provisions.[^key-3632a9ca9d62bf1a0898d84946c16102][^key-3632a9ca9d62bf1a0898d84946c16102]
+## 3. Supplementary provisions.[^c-3632a9ca9d62bf1a0898d84946c16102][^c-3632a9ca9d62bf1a0898d84946c16102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title, commencement and extent.[^key-3632a9ca9d62bf1a0898d84946c16102][^key-3632a9ca9d62bf1a0898d84946c16102]
+## 4. Short title, commencement and extent.[^c-3632a9ca9d62bf1a0898d84946c16102][^c-3632a9ca9d62bf1a0898d84946c16102]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3632a9ca9d62bf1a0898d84946c16102]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1991/47) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-3632a9ca9d62bf1a0898d84946c16102]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1991/47) repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

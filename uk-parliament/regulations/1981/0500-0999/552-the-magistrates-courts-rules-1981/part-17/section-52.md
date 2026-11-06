@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Notice of date of hearing of means inquiry etc.[^key-228bb1101c2d39a6dcb98661efa67a2d]
+## 52. Notice of date of hearing of means inquiry etc.[^c-228bb1101c2d39a6dcb98661efa67a2d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-228bb1101c2d39a6dcb98661efa67a2d]: Textual amendment: [Rules 51-52A](https://www.legislation.gov.uk/uksi/1981/552/rule/51) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(f)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/f)
+[^c-228bb1101c2d39a6dcb98661efa67a2d]: Textual amendment: [Rules 51-52A](https://www.legislation.gov.uk/uksi/1981/552/rule/51) omitted (28.6.2021) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules 2021 (S.I. 2021/626)](https://www.legislation.gov.uk/uksi/2021/626), [rules 1(1)](https://www.legislation.gov.uk/uksi/2021/626/rule/1/1), [2(12)(f)](https://www.legislation.gov.uk/uksi/2021/626/article/2/12/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Repeals[^key-c148d81dd7b6b591bb69192377d1e6d6][^key-df226672d95f5a6398ea818262e1a94d]
+## 54. Repeals[^c-c148d81dd7b6b591bb69192377d1e6d6][^c-df226672d95f5a6398ea818262e1a94d]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 2 contains repeals.
 
 ## Annotations
 
-[^key-c148d81dd7b6b591bb69192377d1e6d6]: Commencement: S. 54 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-c148d81dd7b6b591bb69192377d1e6d6]: Commencement: S. 54 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-df226672d95f5a6398ea818262e1a94d]: Commencement: S. 54 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-df226672d95f5a6398ea818262e1a94d]: Commencement: S. 54 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

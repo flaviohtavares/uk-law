@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Place of supply orders: transitional provision.[^key-e5d784efc6eb653236c1c96c5af29e2c][^c15296251]
+## 97A. Place of supply orders: transitional provision.[^c-e5d784efc6eb653236c1c96c5af29e2c][^c15296251]
 
 *Extent: E+W+S+N.I.*
 
-(1) This section shall have effect for the purpose of giving effect to any order made under section 7A(6)[^key-555dff280a08bfca7f5c17c7da987a8f], if—
+(1) This section shall have effect for the purpose of giving effect to any order made under section 7A(6)[^c-555dff280a08bfca7f5c17c7da987a8f], if—
 
 - (a) the order provides for services of a description specified in the order to be treated as supplied in the United Kingdom;
 - (b) the services would not have fallen to be so treated apart from the order;
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d784efc6eb653236c1c96c5af29e2c]: Modification: S. 97A excluded (with application in accordance with s. 105(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 105(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/105/1)
+[^c-e5d784efc6eb653236c1c96c5af29e2c]: Modification: S. 97A excluded (with application in accordance with s. 105(3) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 105(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/105/1)
 
 [^c15296251]: Textual amendment: S. 97A inserted (retrospective to 17.3.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 22(1)(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/22/1/3)
 
-[^key-555dff280a08bfca7f5c17c7da987a8f]: Textual amendment: Words in s. 97A(1) substituted (with effect in accordance with Sch. 36 para. 14(3) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 36 para. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/36/paragraph/10) (with [Sch. 36 para. 19](https://www.legislation.gov.uk/ukpga/2009/10/schedule/36/paragraph/19))
+[^c-555dff280a08bfca7f5c17c7da987a8f]: Textual amendment: Words in s. 97A(1) substituted (with effect in accordance with Sch. 36 para. 14(3) of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 36 para. 10](https://www.legislation.gov.uk/ukpga/2009/10/schedule/36/paragraph/10) (with [Sch. 36 para. 19](https://www.legislation.gov.uk/ukpga/2009/10/schedule/36/paragraph/19))

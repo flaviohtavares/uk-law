@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Guidance and direction to the Committee[^key-c8f33a85f2f2dc42e789d201a1a3bf92]
+## 43. Guidance and direction to the Committee[^c-c8f33a85f2f2dc42e789d201a1a3bf92]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ as to how it is to discharge its functions.
 
 ## Annotations
 
-[^key-c8f33a85f2f2dc42e789d201a1a3bf92]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2005/12/section/43) in force at 3.4.2006 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/454/schedule/3)
+[^c-c8f33a85f2f2dc42e789d201a1a3bf92]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2005/12/section/43) in force at 3.4.2006 by [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2005/454/schedule/3)

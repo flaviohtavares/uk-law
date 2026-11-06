@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Large employers required to make specified payments electronically[^key-057f08425b9cbad4d3a645ed4bf43a9f]
+## 47. Large employers required to make specified payments electronically[^c-057f08425b9cbad4d3a645ed4bf43a9f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 199(2) (large employers required to make specified payments electr
 
 ## Annotations
 
-[^key-057f08425b9cbad4d3a645ed4bf43a9f]: Commencement: Reg. 47 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-057f08425b9cbad4d3a645ed4bf43a9f]: Commencement: Reg. 47 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

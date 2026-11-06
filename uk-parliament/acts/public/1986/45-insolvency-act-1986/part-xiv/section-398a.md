@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 398A. Appointment etc of adjudicators and assistants[^key-dadbaf2482da3f5b0064711576f3b313]
+## 398A. Appointment etc of adjudicators and assistants[^c-dadbaf2482da3f5b0064711576f3b313]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dadbaf2482da3f5b0064711576f3b313]: Textual amendment: S. 398A and crossheading inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 71(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/1), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)
+[^c-dadbaf2482da3f5b0064711576f3b313]: Textual amendment: S. 398A and crossheading inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 71(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/1), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)

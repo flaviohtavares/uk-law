@@ -35,7 +35,7 @@ SEA FISH INDUSTRY
 
 FISH FARMING, WALES
 
-The Fisheries and Aquaculture Structures (Grants) (Wales) Regulations 2002 (revoked)[^key-7d31864854a5e06e347f863963c67075]
+The Fisheries and Aquaculture Structures (Grants) (Wales) Regulations 2002 (revoked)[^c-7d31864854a5e06e347f863963c67075]
 
 Made
 
@@ -45,88 +45,88 @@ Coming into force
 
 13th March 2002
 
-[^key-7d31864854a5e06e347f863963c67075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d31864854a5e06e347f863963c67075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-7d31864854a5e06e347f863963c67075]
+## 1. Title, commencement and application[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7d31864854a5e06e347f863963c67075]
+## 2. Interpretation[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Financial Assistance[^key-7d31864854a5e06e347f863963c67075]
+## 3. Financial Assistance[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications[^key-7d31864854a5e06e347f863963c67075]
+## 4. Applications[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Approval of applications[^key-7d31864854a5e06e347f863963c67075]
+## 5. Approval of applications[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Eligibility and claims for payment of financial assistance[^key-7d31864854a5e06e347f863963c67075]
+## 6. Eligibility and claims for payment of financial assistance[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Method of payment of financial assistance[^key-7d31864854a5e06e347f863963c67075]
+## 7. Method of payment of financial assistance[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Undertakings[^key-7d31864854a5e06e347f863963c67075]
+## 8. Undertakings[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Information[^key-7d31864854a5e06e347f863963c67075]
+## 9. Information[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Records[^key-7d31864854a5e06e347f863963c67075]
+## 10. Records[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Exercise of functions by the Sea Fish Industry Authority[^key-7d31864854a5e06e347f863963c67075]
+## 11. Exercise of functions by the Sea Fish Industry Authority[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Assistance to authorised officers[^key-7d31864854a5e06e347f863963c67075]
+## 12. Assistance to authorised officers[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Powers of authorised officers[^key-7d31864854a5e06e347f863963c67075]
+## 13. Powers of authorised officers[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Protection of officers[^key-7d31864854a5e06e347f863963c67075]
+## 14. Protection of officers[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Reduction, withholding and recovery of financial assistance[^key-7d31864854a5e06e347f863963c67075]
+## 15. Reduction, withholding and recovery of financial assistance[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Recovery of Interest[^key-7d31864854a5e06e347f863963c67075]
+## 16. Recovery of Interest[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Offences and penalties[^key-7d31864854a5e06e347f863963c67075]
+## 17. Offences and penalties[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Prosecutions[^key-7d31864854a5e06e347f863963c67075]
+## 18. Prosecutions[^c-7d31864854a5e06e347f863963c67075]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7d31864854a5e06e347f863963c67075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d31864854a5e06e347f863963c67075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7d31864854a5e06e347f863963c67075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7d31864854a5e06e347f863963c67075]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7d31864854a5e06e347f863963c67075]: Textual amendment: Regulations revoked (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [31(c)](https://www.legislation.gov.uk/wsi/2019/463/regulation/31/c)
+[^c-7d31864854a5e06e347f863963c67075]: Textual amendment: Regulations revoked (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [31(c)](https://www.legislation.gov.uk/wsi/2019/463/regulation/31/c)

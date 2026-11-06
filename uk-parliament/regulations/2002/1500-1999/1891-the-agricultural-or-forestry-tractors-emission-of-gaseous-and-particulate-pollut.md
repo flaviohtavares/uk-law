@@ -31,7 +31,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Agricultural or Forestry Tractors (Emission of Gaseous and Particulate Pollutants) Regulations 2002 (revoked)[^key-2510f902e64e73f4458a9679a333cfca]
+The Agricultural or Forestry Tractors (Emission of Gaseous and Particulate Pollutants) Regulations 2002 (revoked)[^c-2510f902e64e73f4458a9679a333cfca]
 
 Made
 
@@ -45,156 +45,156 @@ Coming into force
 
 12th August 2002
 
-[^key-2510f902e64e73f4458a9679a333cfca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2510f902e64e73f4458a9679a333cfca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2510f902e64e73f4458a9679a333cfca]
+## 1. Citation and commencement[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-2510f902e64e73f4458a9679a333cfca]
+## 2. Interpretation[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of Regulations[^key-2510f902e64e73f4458a9679a333cfca]
+## 3. Application of Regulations[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition on entering engines or tractors into service[^key-2510f902e64e73f4458a9679a333cfca]
+## 4. Prohibition on entering engines or tractors into service[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Designation of exempted engines[^key-2510f902e64e73f4458a9679a333cfca]
+## 5. Designation of exempted engines[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Enforcement and offences[^key-2510f902e64e73f4458a9679a333cfca]
+## 6. Enforcement and offences[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Duty to review Regulations[^key-2510f902e64e73f4458a9679a333cfca]
+## 7. Duty to review Regulations[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2510f902e64e73f4458a9679a333cfca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2510f902e64e73f4458a9679a333cfca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-2510f902e64e73f4458a9679a333cfca]
+## SCHEDULE 1[^c-2510f902e64e73f4458a9679a333cfca]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — OFFENCES, ENFORCEMENT AND OTHER MATTERS[^key-2510f902e64e73f4458a9679a333cfca]
+## SCHEDULE 2 — OFFENCES, ENFORCEMENT AND OTHER MATTERS[^c-2510f902e64e73f4458a9679a333cfca]
 
 Regulation 6
 
-### PART I — PROVISIONS AS TO OFFENCES[^key-2510f902e64e73f4458a9679a333cfca]
+### PART I — PROVISIONS AS TO OFFENCES[^c-2510f902e64e73f4458a9679a333cfca]
 
-#### 1. Offences and penalties[^key-2510f902e64e73f4458a9679a333cfca]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Defences[^key-2510f902e64e73f4458a9679a333cfca]
+#### 1. Offences and penalties[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Liability of persons other than principal offender[^key-2510f902e64e73f4458a9679a333cfca]
+#### 2. Defences[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — PROVISIONS AS TO ENFORCEMENT[^key-2510f902e64e73f4458a9679a333cfca]
-
-#### 4. Obstruction of authorised officers and false statements[^key-2510f902e64e73f4458a9679a333cfca]
+#### 3. Liability of persons other than principal offender[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Suspension notices[^key-2510f902e64e73f4458a9679a333cfca]
+### PART II — PROVISIONS AS TO ENFORCEMENT[^c-2510f902e64e73f4458a9679a333cfca]
+
+#### 4. Obstruction of authorised officers and false statements[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Appeals against suspension notices[^key-2510f902e64e73f4458a9679a333cfca]
+#### 5. Suspension notices[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Power to make test purchases[^key-2510f902e64e73f4458a9679a333cfca]
+#### 6. Appeals against suspension notices[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Power of search etc.[^key-2510f902e64e73f4458a9679a333cfca]
+#### 7. Power to make test purchases[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Powers of customs officers to detain goods[^key-2510f902e64e73f4458a9679a333cfca]
+#### 8. Power of search etc.[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Appeal against detention of goods[^key-2510f902e64e73f4458a9679a333cfca]
+#### 9. Powers of customs officers to detain goods[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Compensation for seizure and detention[^key-2510f902e64e73f4458a9679a333cfca]
+#### 10. Appeal against detention of goods[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Recovery of the expenses of enforcement[^key-2510f902e64e73f4458a9679a333cfca]
+#### 11. Compensation for seizure and detention[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Power of the Commissioners of Customs and Excise to disclose information[^key-2510f902e64e73f4458a9679a333cfca]
+#### 12. Recovery of the expenses of enforcement[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Service of documents etc.[^key-2510f902e64e73f4458a9679a333cfca]
+#### 13. Power of the Commissioners of Customs and Excise to disclose information[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Savings for certain privileges[^key-2510f902e64e73f4458a9679a333cfca]
+#### 14. Service of documents etc.[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — UK Flexibility Schemes[^key-2510f902e64e73f4458a9679a333cfca]
+#### 15. Savings for certain privileges[^c-2510f902e64e73f4458a9679a333cfca]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 3 — UK Flexibility Schemes[^c-2510f902e64e73f4458a9679a333cfca]
 
 Regulation 2
 
-### 1. Introduction[^key-2510f902e64e73f4458a9679a333cfca]
+### 1. Introduction[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Flexibility Schemes: general[^key-2510f902e64e73f4458a9679a333cfca]
+### 2. Flexibility Schemes: general[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Approval[^key-2510f902e64e73f4458a9679a333cfca]
+### 3. Approval[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Limit values requirement[^key-2510f902e64e73f4458a9679a333cfca]
+### 4. Limit values requirement[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Number of engines that may be placed on the market under a flexibility scheme[^key-2510f902e64e73f4458a9679a333cfca]
+### 5. Number of engines that may be placed on the market under a flexibility scheme[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Labelling requirements[^key-2510f902e64e73f4458a9679a333cfca]
+### 6. Labelling requirements[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Reports[^key-2510f902e64e73f4458a9679a333cfca]
+### 7. Reports[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Voluntary end of the scheme[^key-2510f902e64e73f4458a9679a333cfca]
+### 8. Voluntary end of the scheme[^c-2510f902e64e73f4458a9679a333cfca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2510f902e64e73f4458a9679a333cfca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2510f902e64e73f4458a9679a333cfca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2510f902e64e73f4458a9679a333cfca]: Textual amendment: Regulations revoked (20.5.2018) by [The Agricultural and Forestry Vehicles (Type-Approval) Regulations 2018 (S.I. 2018/236)](https://www.legislation.gov.uk/uksi/2018/236), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/236/regulation/1/b), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2018/236/schedule/2/paragraph/4/a) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/236/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/17))
+[^c-2510f902e64e73f4458a9679a333cfca]: Textual amendment: Regulations revoked (20.5.2018) by [The Agricultural and Forestry Vehicles (Type-Approval) Regulations 2018 (S.I. 2018/236)](https://www.legislation.gov.uk/uksi/2018/236), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2018/236/regulation/1/b), [Sch. 2 para. 4(a)](https://www.legislation.gov.uk/uksi/2018/236/schedule/2/paragraph/4/a) (with [reg. 1(c)](https://www.legislation.gov.uk/uksi/2018/236/regulation/1/c), [Sch. 1 paras. 16](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2018/236/schedule/1/paragraph/17))

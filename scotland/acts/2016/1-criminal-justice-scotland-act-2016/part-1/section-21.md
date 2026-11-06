@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Person to be brought before court[^key-46f3e2d471707d8d06361666c80dd43e]
+## 21. Person to be brought before court[^c-46f3e2d471707d8d06361666c80dd43e]
 
 *Extent: S*
 
 (1) Subsection (2) applies to a person when—
 
-- (a) the person is in police custody having been arrested under a warrant granted for the purpose of having the person brought before a court in connection with an offence which the person is officially accused of committing[^key-b4810a0a97ac2fe203a68bef1a900a0a], or
+- (a) the person is in police custody having been arrested under a warrant granted for the purpose of having the person brought before a court in connection with an offence which the person is officially accused of committing[^c-b4810a0a97ac2fe203a68bef1a900a0a], or
 - (b) the person—
-  - (i) is in police custody having been arrested in respect of an offence[^key-235ceed6453348a1a9d21b170768df94] without a warrant, and
+  - (i) is in police custody having been arrested in respect of an offence[^c-235ceed6453348a1a9d21b170768df94] without a warrant, and
   - (ii) since being arrested, the person has been charged with an offence by a constable.
 
 (2) The person must be brought before a court (unless released from custody under section 25)—
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-46f3e2d471707d8d06361666c80dd43e]: Commencement: S. 21 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-46f3e2d471707d8d06361666c80dd43e]: Commencement: S. 21 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
-[^key-b4810a0a97ac2fe203a68bef1a900a0a]: Textual amendment: Words in s. 21(1)(a) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/6/a)
+[^c-b4810a0a97ac2fe203a68bef1a900a0a]: Textual amendment: Words in s. 21(1)(a) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(6)(a)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/6/a)
 
-[^key-235ceed6453348a1a9d21b170768df94]: Textual amendment: Words in s. 21(1)(b) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/6/b)
+[^c-235ceed6453348a1a9d21b170768df94]: Textual amendment: Words in s. 21(1)(b) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(6)(b)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/6/b)

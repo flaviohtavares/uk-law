@@ -47,17 +47,17 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred on Her by section 63(3)(c) and (4) of the Sanctions and Anti-Money Laundering Act 2018[^f00001], is pleased, by and with the advice of Her Privy Council, to make the following Order:
 
-## 1. Citation, commencement and extent[^key-94f4d3aaaf9f4b5ae8607f8ae5623284]
+## 1. Citation, commencement and extent[^c-94f4d3aaaf9f4b5ae8607f8ae5623284]
 
 (1) This Order may be cited as the Lebanon (Sanctions) (Overseas Territories) Order 2020 and comes into force immediately after the Sanctions (EU Exit) (Miscellaneous Amendments) (No. 3) Regulations 2020[^f00002] have come into force in the United Kingdom.
 
 (2) This Order extends to each British overseas territory listed in Schedule 1.
 
-## 2. Extension of the Lebanon (Sanctions) (EU Exit) Regulations 2020[^key-9b6bd5dd005d328d85dc2825e5839959]
+## 2. Extension of the Lebanon (Sanctions) (EU Exit) Regulations 2020[^c-9b6bd5dd005d328d85dc2825e5839959]
 
 The Lebanon (Sanctions) (EU Exit) Regulations 2020[^f00003] as amended from time to time extend to each British overseas territory listed in Schedule 1 with the modifications specified in Schedule 2.
 
-## 3. Extension of the Sanctions and Anti-Money Laundering Act 2018[^key-600fc8f05f2954a07c178421e432a3b2]
+## 3. Extension of the Sanctions and Anti-Money Laundering Act 2018[^c-600fc8f05f2954a07c178421e432a3b2]
 
 Subject to the modification set out in paragraph (c), the following provisions of the Sanctions and Anti-Money Laundering Act 2018 extend to each British overseas territory listed in Schedule 1 for the purposes of the Lebanon (Sanctions) (EU Exit) Regulations 2020 as modified and extended to the territories by this Order—
 
@@ -69,11 +69,11 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE 1 — British overseas territories[^key-b77f91cf31c7f20bb070d3558ad683ab]
+## SCHEDULE 1 — British overseas territories[^c-b77f91cf31c7f20bb070d3558ad683ab]
 
 Article 1(2)
 
-[^key-b77f91cf31c7f20bb070d3558ad683ab]
+[^c-b77f91cf31c7f20bb070d3558ad683ab]
 
 - Anguilla
 - British Antarctic Territory
@@ -92,12 +92,12 @@ Article 1(2)
 
 Article 2
 
-**1.**[^key-36077b8b446e61cfe91e4bf9bcb6b7d7] In regulation 1 (citation and commencement)—
+**1.**[^c-36077b8b446e61cfe91e4bf9bcb6b7d7] In regulation 1 (citation and commencement)—
 
 - (a) in the heading, omit “and commencement”;
 - (b) omit paragraph (2).
 
-**2.**[^key-fc6f8b39d4cab2617aae74248bb6a86c] In regulation 2 (interpretation)—
+**2.**[^c-fc6f8b39d4cab2617aae74248bb6a86c] In regulation 2 (interpretation)—
 
 - (a) the existing text becomes paragraph (1);
 - (b) in that paragraph—
@@ -107,7 +107,7 @@ Article 2
 
     ;
 
-    > - “[^key-bc0c96be444e9180854b9a767414b0fb]**authorised officer**” means, in relation to the Territory—
+    > - “[^c-bc0c96be444e9180854b9a767414b0fb]**authorised officer**” means, in relation to the Territory—
     >   - (a) a member of Her Majesty’s forces in the Territory,
     >   - (b) a police or customs officer of the Territory,
     >   - (c) a person authorised by the Governor for the purposes of exercising, whether generally or in a particular case, any power conferred by—
@@ -165,16 +165,16 @@ Article 2
 
   > (2) In the application of these Regulations to a particular British overseas territory, the expression “the Territory” means that territory.
 
-**3.**[^key-709702b16c2b1d264f007ec69bbf9e88] In regulation 3 (applications of prohibitions and requirements outside the United Kingdom)—
+**3.**[^c-709702b16c2b1d264f007ec69bbf9e88] In regulation 3 (applications of prohibitions and requirements outside the United Kingdom)—
 
 - (a) in the heading, for “United Kingdom” substitute “Territory”;
 - (b) in paragraphs (1) and (4), for “United Kingdom person” substitute “Territory person”;
 - (c) in paragraphs (1), (4) and (7), for “United Kingdom” substitute “Territory”;
 - (d) in paragraphs (2) and (5), after “in the territorial sea” insert “of the Territory”;
 
-**4.**[^key-3866b197caba1d9d91990d86565b68f1] In regulation 4 (purposes), for “the regulations contained in this instrument that are made under section 1 of the Act” substitute “these Regulations”.
+**4.**[^c-3866b197caba1d9d91990d86565b68f1] In regulation 4 (purposes), for “the regulations contained in this instrument that are made under section 1 of the Act” substitute “these Regulations”.
 
-**5.**[^key-5be60dbc6f8bfd1306de2ef51e40e536] At the end of Part 1 (General), insert—
+**5.**[^c-5be60dbc6f8bfd1306de2ef51e40e536] At the end of Part 1 (General), insert—
 
 > **4A. Functions of the Governor**
 >
@@ -184,7 +184,7 @@ Article 2
 >
 > (3) In the exercise of any power conferred on the Governor by these Regulations, the Governor is to act in their discretion.
 
-**6.**[^key-4713b72adc95a16fd4803fb1aa2ef2bc] In regulation 6 (interpretation of other expressions used in this Part)—
+**6.**[^c-4713b72adc95a16fd4803fb1aa2ef2bc] In regulation 6 (interpretation of other expressions used in this Part)—
 
 - (a) for paragraph (1) substitute—
 
@@ -196,13 +196,13 @@ Article 2
 
   > (2) In this Part, any reference to the Territory includes a reference to the territorial sea of the Territory.
 
-**7.**[^key-fa013d4e99ac275c7c5185f9ad85ba20] In regulation 7 (export of military goods), at the end insert—
+**7.**[^c-fa013d4e99ac275c7c5185f9ad85ba20] In regulation 7 (export of military goods), at the end insert—
 
 > (3) A person who contravenes a prohibition in paragraph (1) commits an offence, but it is a defence for a person charged with the offence of contravening paragraph (1) to show that the person did not know and had no reasonable cause to suspect that the export was to, or the goods were for use in, Lebanon (as the case may be).
 
-**8.**[^key-255ea6ecb2ee96235d06f005725d9846] In regulation 8 (supply and delivery of military goods), in paragraph (4) for “United Kingdom, the Isle of Man” substitute “Territory”.
+**8.**[^c-255ea6ecb2ee96235d06f005725d9846] In regulation 8 (supply and delivery of military goods), in paragraph (4) for “United Kingdom, the Isle of Man” substitute “Territory”.
 
-**9.**[^key-d8e575f2450e929f15ed806950d2583c] In regulation 13 (brokering services: non-UK activity relating to military goods and military technology)—
+**9.**[^c-d8e575f2450e929f15ed806950d2583c] In regulation 13 (brokering services: non-UK activity relating to military goods and military technology)—
 
 - (a) in the heading, for “non-UK” substitute “non-Territory”;
 - (b) in paragraph (1), for “non-UK country”, in each place it occurs, substitute “non-Territory country”;
@@ -213,7 +213,7 @@ Article 2
   > - “non-Territory country” means a country that is not the Territory;
   > - “third country” means a country that is not the Territory or Lebanon.
 
-**10.**[^key-fcfc6381552ef7f210695bc09237be2f] For regulation 15A (finance: exception for authorised conduct in a relevant country) substitute—
+**10.**[^c-fcfc6381552ef7f210695bc09237be2f] For regulation 15A (finance: exception for authorised conduct in a relevant country) substitute—
 
 > **15A. Exceptions for authorised conduct outside the Territory**
 >
@@ -233,7 +233,7 @@ Article 2
 >
 > (4) Nothing in this regulation affects the application of a prohibition in a case where it would be incompatible with a UN obligation for the prohibition not to apply.
 
-**11.**[^key-c7fb65ad3d4c4f8b8661d9041d50676c] For regulation 16 (exception for acts done for purposes of national security or prevention of serious crime), substitute—
+**11.**[^c-c7fb65ad3d4c4f8b8661d9041d50676c] For regulation 16 (exception for acts done for purposes of national security or prevention of serious crime), substitute—
 
 > **16.** (1) Where an act would, in the absence of this paragraph, be prohibited by any prohibition in Part 2 (Trade), that prohibition does not apply to the act if the act is one which—
 >
@@ -253,7 +253,7 @@ Article 2
 >
 > (4) Nothing in this regulation affects the application of a prohibition or requirement in a case where it would be incompatible with a UN obligation for the prohibition or requirement not to apply.
 
-**12.**[^key-f0ed30297044c9de265d7dfa0d998ea8] In regulation 17 (trade licences)—
+**12.**[^c-f0ed30297044c9de265d7dfa0d998ea8] In regulation 17 (trade licences)—
 
 - (a) in paragraph (1), for “Secretary of State” substitute “Governor”;
 - (b) after paragraph (1), insert—
@@ -264,7 +264,7 @@ Article 2
   > (3) Where the Governor issues a licence under paragraph (1), the Governor may, with the consent of the Secretary of State, vary, revoke or suspend it at any time.
 - (d) in paragraphs (4) and (5), for “Secretary of State”, in each place it occurs, substitute “Governor”.
 
-**13.**[^key-c119c0481ebddfef29037413ac6b8ba4] For regulation 19 (application of information powers in CEMA) substitute—
+**13.**[^c-c119c0481ebddfef29037413ac6b8ba4] For regulation 19 (application of information powers in CEMA) substitute—
 
 > **19. Information powers**
 >
@@ -300,7 +300,7 @@ Article 2
 > - (a) which would, unless done under the authority of a trade licence, constitute a contravention of any prohibition in Chapter 2 of Part 2 (Trade), or
 > - (b) which would constitute a contravention of the prohibition in regulation 14 (circumventing etc. prohibitions).
 
-**14.**[^key-8374f1712807abfddfa9ac7bcee1ae20] After regulation 19 (application of information powers in CEMA) insert—
+**14.**[^c-8374f1712807abfddfa9ac7bcee1ae20] After regulation 19 (application of information powers in CEMA) insert—
 
 > **19A. Information offences**
 >
@@ -313,15 +313,15 @@ Article 2
 >
 > (2) Where a person is convicted of an offence under this regulation, the court may make an order requiring that person, within such period as may be specified in the order, to comply with the request.
 
-**15.**[^key-50937f183b157a5d6d5ef6633903d581] In regulation 20(4) (general trade licences: records), for “Secretary of State” substitute “Governor”.
+**15.**[^c-50937f183b157a5d6d5ef6633903d581] In regulation 20(4) (general trade licences: records), for “Secretary of State” substitute “Governor”.
 
-**16.**[^key-298cfad8b9f898728e8fed9102d8b3c7] In regulation 21 (general trade licences: inspection of records)—
+**16.**[^c-298cfad8b9f898728e8fed9102d8b3c7] In regulation 21 (general trade licences: inspection of records)—
 
 - (a) in paragraph (1), for “A person authorised by the Secretary of State or the Commissioners (an “official”)” substitute “An authorised officer”;
 - (b) in paragraphs (2) to (5), for “official”, in each place it occurs, substitute “authorised officer”;
 - (c) in paragraph (5)(a), for “official’s functions” substitute “authorised officer’s functions”.
 
-**17.**[^key-304f3c8c8c09178868b13fd4604e4be8] In regulation 22 (disclosure of information)—
+**17.**[^c-304f3c8c8c09178868b13fd4604e4be8] In regulation 22 (disclosure of information)—
 
 - (a) in paragraph (1), for “Secretary of State or the Commissioners” substitute “Governor or an authorised officer”;
 - (b) in paragraph (2)—
@@ -337,7 +337,7 @@ Article 2
   - (iv) in sub-paragraph (g), for “United Kingdom” substitute “Territory”;
 - (c) in paragraph (3)(j), for “Secretary of State or the Commissioners (as the case may be) consider” substitute “Governor considers”.
 
-**18.**[^key-356365c8b0b881c028f36c7c4aba0198] In regulation 23 (Part 4: supplementary)—
+**18.**[^c-356365c8b0b881c028f36c7c4aba0198] In regulation 23 (Part 4: supplementary)—
 
 - (a) for paragraph (2) substitute—
 
@@ -347,7 +347,7 @@ Article 2
   > (5A) An authorised officer must, if requested to do so, produce evidence of their authority before exercising any power conferred by this Part.
 - (c) in paragraph (6), in the definition of “privileged information”, omit “(in Scotland, to confidentiality of communications)”.
 
-**19.**[^key-ab7c9cfc5c3c4f7efd8d0c241d8915ed] In Part 5 (Enforcement), at the beginning insert—
+**19.**[^c-ab7c9cfc5c3c4f7efd8d0c241d8915ed] In Part 5 (Enforcement), at the beginning insert—
 
 > **23A. Suspected ships, aircraft or vehicles**
 >
@@ -437,7 +437,7 @@ Article 2
 > - “military goods” has the meaning given in regulation 5 (definition of “military goods” and “military technology”);
 > - “relevant offence” means an offence which is punishable with a term of imprisonment of more than 6 months.
 
-**20.**[^key-fd81f02a994dd205890aebb9a346b432] For regulation 24 (penalties for offences) substitute—
+**20.**[^c-fd81f02a994dd205890aebb9a346b432] For regulation 24 (penalties for offences) substitute—
 
 > **24.** (1) Paragraphs (3) to (5) apply to—
 >
@@ -477,14 +477,14 @@ Article 2
 >
 > (9) Where a fine in this regulation is expressed to be a sum in sterling or its equivalent in the currency of the Territory, the Governor may issue guidance specifying how to calculate the amount in the currency of the Territory which is to be considered equivalent to that sum in sterling.
 
-**21.**[^key-2a5c4f3a3d4b68b5da4866aaa747dbbf] In regulation 25 (liability of officers of bodies corporate etc.), omit paragraph (4).
+**21.**[^c-2a5c4f3a3d4b68b5da4866aaa747dbbf] In regulation 25 (liability of officers of bodies corporate etc.), omit paragraph (4).
 
-**22.**[^key-ba74f5fc88b7abff6a96c81fde41986f] In regulation 26 (jurisdiction to try offences)—
+**22.**[^c-ba74f5fc88b7abff6a96c81fde41986f] In regulation 26 (jurisdiction to try offences)—
 
 - (a) in paragraph (1), for “United Kingdom”, in each place it occurs, substitute “Territory”;
 - (b) omit paragraphs (2) and (3).
 
-**23.**[^key-d62f92bb9c34912704bf92071b3cdae0] After regulation 26 (jurisdiction to try offences), insert—
+**23.**[^c-d62f92bb9c34912704bf92071b3cdae0] After regulation 26 (jurisdiction to try offences), insert—
 
 > **26A. Consent to prosecutions**
 >
@@ -495,19 +495,19 @@ Article 2
 > - (a) the arrest, or the issue or execution of a warrant for the arrest, of any person in respect of an offence under these Regulations, or
 > - (b) the remand in custody or on bail of any person charged with such an offence.
 
-**24.**[^key-47b87d60cd90bc7644fa79ab059b2100] For regulation 27 (procedure for offences by unincorporated bodies) substitute—
+**24.**[^c-47b87d60cd90bc7644fa79ab059b2100] For regulation 27 (procedure for offences by unincorporated bodies) substitute—
 
 > **27.** Any provision in an enactment which applies in the Territory in relation to criminal proceedings brought against a body corporate, applies also for the purposes of proceedings in the Territory for an offence under these Regulations brought against an unincorporated body.
 
-**25.**[^key-8efd1718cdfc1c4003a45653c967e8e2] In regulation 28 (time limit for proceedings for summary offences), omit paragraph (4).
+**25.**[^c-8efd1718cdfc1c4003a45653c967e8e2] In regulation 28 (time limit for proceedings for summary offences), omit paragraph (4).
 
-**26.**[^key-493e4c67bf703c0e9590f13a24418304] Omit regulation 29 (trade enforcement: application of CEMA) (including the heading).
+**26.**[^c-493e4c67bf703c0e9590f13a24418304] Omit regulation 29 (trade enforcement: application of CEMA) (including the heading).
 
-**27.**[^key-8c6533fc57905e24f3f6a9fc5067a54d] Omit regulation 30 (trade offences in CEMA: modification of penalty) (including the heading).
+**27.**[^c-8c6533fc57905e24f3f6a9fc5067a54d] Omit regulation 30 (trade offences in CEMA: modification of penalty) (including the heading).
 
-**28.**[^key-ce9ed59e1eea8ef7a6dd7d3f1715df8a] Omit regulation 31 (monetary penalties) (including the heading).
+**28.**[^c-ce9ed59e1eea8ef7a6dd7d3f1715df8a] Omit regulation 31 (monetary penalties) (including the heading).
 
-**29.**[^key-5fa65b02e180184df3b765a4a571e2f2] In regulation 32 (exercise of maritime enforcement powers)—
+**29.**[^c-5fa65b02e180184df3b765a4a571e2f2] In regulation 32 (exercise of maritime enforcement powers)—
 
 - (a) for paragraph (1) substitute—
 
@@ -517,7 +517,7 @@ Article 2
 
   > (6) In this Part, “a relevant ship” means, in relation to the Territory, a Territory ship.
 
-**30.**[^key-d9c6eb51ad8db40e9334083dfc7e0d6e] In regulation 33 (maritime enforcement officers)—
+**30.**[^c-d9c6eb51ad8db40e9334083dfc7e0d6e] In regulation 33 (maritime enforcement officers)—
 
 - (a) in paragraph (1)—
   - (i) omit sub-paragraphs (b), (d), (e), (f) and (h);
@@ -533,19 +533,19 @@ Article 2
     ;
 - (b) omit paragraph (2).
 
-**31.**[^key-d66be3f16bb8afad9d50ccf6240c26c6] In regulation 34(2)(c) (power to stop, board, search etc.), for “United Kingdom” substitute “Territory”.
+**31.**[^c-d66be3f16bb8afad9d50ccf6240c26c6] In regulation 34(2)(c) (power to stop, board, search etc.), for “United Kingdom” substitute “Territory”.
 
-**32.**[^key-d387f1dd9a0a3a9ea1dcbf2db11f01db] Omit regulation 36 (restrictions on exercise of maritime enforcement powers) (including the heading).
+**32.**[^c-d387f1dd9a0a3a9ea1dcbf2db11f01db] Omit regulation 36 (restrictions on exercise of maritime enforcement powers) (including the heading).
 
-**33.**[^key-dc155f17ab9b7f5889c5560b2be71f2e] In regulation 38 (notices), for “United Kingdom”, in each place it occurs, substitute “Territory”.
+**33.**[^c-dc155f17ab9b7f5889c5560b2be71f2e] In regulation 38 (notices), for “United Kingdom”, in each place it occurs, substitute “Territory”.
 
-**34.**[^key-6c8efa4c58e1bbdf4f0c7fd462d19a0e] Omit regulation 39 (article 20 of the Export Control Order 2008) (including the heading).
+**34.**[^c-6c8efa4c58e1bbdf4f0c7fd462d19a0e] Omit regulation 39 (article 20 of the Export Control Order 2008) (including the heading).
 
-**35.**[^key-d9bfd2dd9ab1b85f856c738fc3e2bbd9] Omit regulation 40 (trade: overlapping offences) (including the heading).
+**35.**[^c-d9bfd2dd9ab1b85f856c738fc3e2bbd9] Omit regulation 40 (trade: overlapping offences) (including the heading).
 
-**36.**[^key-f44adc1ab51fc8f0f9d3bc96ed29313d] Omit regulation 41 (revocations) (including the heading).
+**36.**[^c-f44adc1ab51fc8f0f9d3bc96ed29313d] Omit regulation 41 (revocations) (including the heading).
 
-**37.**[^key-8be41aab575f89d8c2b0821bad7256fe] For regulation 42 (transitional provision: trade licences) substitute—
+**37.**[^c-8be41aab575f89d8c2b0821bad7256fe] For regulation 42 (transitional provision: trade licences) substitute—
 
 > **42.** (1) Paragraphs (2) and (3) apply to a licence which—
 >
@@ -564,7 +564,7 @@ Article 2
 > - “the 2007 Order” means the Lebanon (United Nations Sanctions) (Overseas Territories) Order 2007[^f00005];
 > - “the relevant date” means the date on which Part 2 comes into force.
 
-**38.**[^key-f0d2992c63da17e3c6e003d6dd5ebbc9] For regulation 43 (transitional provision: pending applications for trade licences) substitute—
+**38.**[^c-f0d2992c63da17e3c6e003d6dd5ebbc9] For regulation 43 (transitional provision: pending applications for trade licences) substitute—
 
 > **43.** (1) Paragraph (2) applies where—
 >
@@ -601,96 +601,96 @@ An Impact Assessment has not been prepared for this instrument: the territorial 
 
 [^f00001]: Footnote: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-94f4d3aaaf9f4b5ae8607f8ae5623284]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1124/article/1) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-94f4d3aaaf9f4b5ae8607f8ae5623284]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2020/1124/article/1) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950). Regulation 9 prospectively amends [S.I. 2020/612](https://www.legislation.gov.uk/uksi/2020/612).
 
-[^key-9b6bd5dd005d328d85dc2825e5839959]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/1124/article/2) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-9b6bd5dd005d328d85dc2825e5839959]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2020/1124/article/2) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2020/612](https://www.legislation.gov.uk/uksi/2020/612), prospectively amended by [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950).
 
-[^key-600fc8f05f2954a07c178421e432a3b2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1124/article/3) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-600fc8f05f2954a07c178421e432a3b2]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2020/1124/article/3) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-b77f91cf31c7f20bb070d3558ad683ab]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1124/schedule/1) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-b77f91cf31c7f20bb070d3558ad683ab]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1124/schedule/1) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-36077b8b446e61cfe91e4bf9bcb6b7d7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/1) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-36077b8b446e61cfe91e4bf9bcb6b7d7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/1) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-fc6f8b39d4cab2617aae74248bb6a86c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/2) in force at 31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/950/article/1/1)
+[^c-fc6f8b39d4cab2617aae74248bb6a86c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/2) in force at 31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/950/article/1/1)
 
-[^key-bc0c96be444e9180854b9a767414b0fb]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/2/b/i) substituted (31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) has come into force) by [The Sanctions (Overseas Territories) (Amendment) Order 2020 (S.I. 2020/1582)](https://www.legislation.gov.uk/uksi/2020/1582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1582/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1582/article/3/2/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-bc0c96be444e9180854b9a767414b0fb]: Textual amendment: Words in [Sch. 2 para. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/2/b/i) substituted (31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) has come into force) by [The Sanctions (Overseas Territories) (Amendment) Order 2020 (S.I. 2020/1582)](https://www.legislation.gov.uk/uksi/2020/1582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1582/article/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2020/1582/article/3/2/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
 [^f00004]: Footnote: [1981 c.61](https://www.legislation.gov.uk/ukpga/1981/61). Part IV has been amended by the British Overseas Territories Act [2002 (c.8)](https://www.legislation.gov.uk/ukpga/2002/8), section 1(1)(b); and the Nationality, Immigration and Asylum Act [2002 (c.41)](https://www.legislation.gov.uk/ukpga/2002/41), Schedule 2, paragraph 1(i).
 
-[^key-709702b16c2b1d264f007ec69bbf9e88]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/3) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-709702b16c2b1d264f007ec69bbf9e88]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/3) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-3866b197caba1d9d91990d86565b68f1]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/4) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-3866b197caba1d9d91990d86565b68f1]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/4) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-5be60dbc6f8bfd1306de2ef51e40e536]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/5) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-5be60dbc6f8bfd1306de2ef51e40e536]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/5) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-4713b72adc95a16fd4803fb1aa2ef2bc]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/6) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-4713b72adc95a16fd4803fb1aa2ef2bc]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/6) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-fa013d4e99ac275c7c5185f9ad85ba20]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/7) substituted (31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) has come into force) by [The Sanctions (Overseas Territories) (Amendment) Order 2020 (S.I. 2020/1582)](https://www.legislation.gov.uk/uksi/2020/1582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1582/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1582/article/3/2/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-fa013d4e99ac275c7c5185f9ad85ba20]: Textual amendment: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/7) substituted (31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) has come into force) by [The Sanctions (Overseas Territories) (Amendment) Order 2020 (S.I. 2020/1582)](https://www.legislation.gov.uk/uksi/2020/1582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1582/article/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/1582/article/3/2/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
-[^key-255ea6ecb2ee96235d06f005725d9846]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/8) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-255ea6ecb2ee96235d06f005725d9846]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/8) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-d8e575f2450e929f15ed806950d2583c]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/9) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-d8e575f2450e929f15ed806950d2583c]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/9) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-fcfc6381552ef7f210695bc09237be2f]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/10) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-fcfc6381552ef7f210695bc09237be2f]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/10) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-c7fb65ad3d4c4f8b8661d9041d50676c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/11) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-c7fb65ad3d4c4f8b8661d9041d50676c]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/11) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-f0ed30297044c9de265d7dfa0d998ea8]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/12) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-f0ed30297044c9de265d7dfa0d998ea8]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/12) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-c119c0481ebddfef29037413ac6b8ba4]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/13) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-c119c0481ebddfef29037413ac6b8ba4]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/13) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-8374f1712807abfddfa9ac7bcee1ae20]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/14) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-8374f1712807abfddfa9ac7bcee1ae20]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/14) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-50937f183b157a5d6d5ef6633903d581]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/15) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-50937f183b157a5d6d5ef6633903d581]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/15) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-298cfad8b9f898728e8fed9102d8b3c7]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/16) substituted (31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) has come into force) by [The Sanctions (Overseas Territories) (Amendment) Order 2020 (S.I. 2020/1582)](https://www.legislation.gov.uk/uksi/2020/1582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1582/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/1582/article/3/2/c); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-298cfad8b9f898728e8fed9102d8b3c7]: Textual amendment: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/16) substituted (31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) has come into force) by [The Sanctions (Overseas Territories) (Amendment) Order 2020 (S.I. 2020/1582)](https://www.legislation.gov.uk/uksi/2020/1582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1582/article/1/1), [3(2)(c)](https://www.legislation.gov.uk/uksi/2020/1582/article/3/2/c); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
-[^key-304f3c8c8c09178868b13fd4604e4be8]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/17) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-304f3c8c8c09178868b13fd4604e4be8]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/17) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-356365c8b0b881c028f36c7c4aba0198]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/18) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-356365c8b0b881c028f36c7c4aba0198]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/18) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-ab7c9cfc5c3c4f7efd8d0c241d8915ed]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/19) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-ab7c9cfc5c3c4f7efd8d0c241d8915ed]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/19) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-fd81f02a994dd205890aebb9a346b432]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/20) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-fd81f02a994dd205890aebb9a346b432]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/20) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-2a5c4f3a3d4b68b5da4866aaa747dbbf]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/21) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-2a5c4f3a3d4b68b5da4866aaa747dbbf]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/21) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-ba74f5fc88b7abff6a96c81fde41986f]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/22) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-ba74f5fc88b7abff6a96c81fde41986f]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/22) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-d62f92bb9c34912704bf92071b3cdae0]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/23) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-d62f92bb9c34912704bf92071b3cdae0]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/23) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-47b87d60cd90bc7644fa79ab059b2100]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/24) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-47b87d60cd90bc7644fa79ab059b2100]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/24) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-8efd1718cdfc1c4003a45653c967e8e2]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/25) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-8efd1718cdfc1c4003a45653c967e8e2]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/25) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-493e4c67bf703c0e9590f13a24418304]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/26) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-493e4c67bf703c0e9590f13a24418304]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/26) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-8c6533fc57905e24f3f6a9fc5067a54d]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/27) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-8c6533fc57905e24f3f6a9fc5067a54d]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/27) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-ce9ed59e1eea8ef7a6dd7d3f1715df8a]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/28) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-ce9ed59e1eea8ef7a6dd7d3f1715df8a]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/28) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-5fa65b02e180184df3b765a4a571e2f2]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/29) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-5fa65b02e180184df3b765a4a571e2f2]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/29) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-d9c6eb51ad8db40e9334083dfc7e0d6e]: Textual amendment: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/30) substituted (31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) has come into force) by [The Sanctions (Overseas Territories) (Amendment) Order 2020 (S.I. 2020/1582)](https://www.legislation.gov.uk/uksi/2020/1582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1582/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2020/1582/article/3/2/d); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
+[^c-d9c6eb51ad8db40e9334083dfc7e0d6e]: Textual amendment: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/30) substituted (31.12.2020 immediately after [S.I. 2020/950](https://www.legislation.gov.uk/uksi/2020/950) has come into force) by [The Sanctions (Overseas Territories) (Amendment) Order 2020 (S.I. 2020/1582)](https://www.legislation.gov.uk/uksi/2020/1582), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/1582/article/1/1), [3(2)(d)](https://www.legislation.gov.uk/uksi/2020/1582/article/3/2/d); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 17](https://www.legislation.gov.uk/uksi/2020/1514/regulation/17)
 
-[^key-d66be3f16bb8afad9d50ccf6240c26c6]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/31) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-d66be3f16bb8afad9d50ccf6240c26c6]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/31) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-d387f1dd9a0a3a9ea1dcbf2db11f01db]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/32) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-d387f1dd9a0a3a9ea1dcbf2db11f01db]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/32) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-dc155f17ab9b7f5889c5560b2be71f2e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/33) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-dc155f17ab9b7f5889c5560b2be71f2e]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/33) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-6c8efa4c58e1bbdf4f0c7fd462d19a0e]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/34) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-6c8efa4c58e1bbdf4f0c7fd462d19a0e]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/34) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-d9bfd2dd9ab1b85f856c738fc3e2bbd9]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/35) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-d9bfd2dd9ab1b85f856c738fc3e2bbd9]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/35) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-f44adc1ab51fc8f0f9d3bc96ed29313d]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/36) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-f44adc1ab51fc8f0f9d3bc96ed29313d]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/36) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
-[^key-8be41aab575f89d8c2b0821bad7256fe]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/37) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-8be41aab575f89d8c2b0821bad7256fe]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/37) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
 
 [^f00005]: Footnote: [S.I. 2007/283](https://www.legislation.gov.uk/uksi/2007/283), amended by [S.I. 2007/2131](https://www.legislation.gov.uk/uksi/2007/2131).
 
-[^key-f0d2992c63da17e3c6e003d6dd5ebbc9]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/38) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)
+[^c-f0d2992c63da17e3c6e003d6dd5ebbc9]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2020/1124/schedule/2/paragraph/38) in force at 31.12.2020 immediately after S.I. 2020/950 comes into force, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2020/1124/article/1/1)

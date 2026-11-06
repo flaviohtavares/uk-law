@@ -36,7 +36,7 @@ summary: ''
 
 (2) The following provisions come into force at the end of the period of two months beginning with the day on which this Act is passed—
 
-- section 6 (functions of local authorities[^key-81ffb0eb20e62c98df124b83aeaf3944] in England in respect of youth work, recreation etc.);
+- section 6 (functions of local authorities[^c-81ffb0eb20e62c98df124b83aeaf3944] in England in respect of youth work, recreation etc.);
 - section 52 (power of Assembly to make regulations about looked after children);
 - section 58 (code of practice as to relationships between local authorities and maintained schools in England, etc.);
 - section 162 (power to repeal references to “local education authority” and “children's services authority”, etc.);
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)
+[^c-81ffb0eb20e62c98df124b83aeaf3944]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 14(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/14/3)

@@ -149,7 +149,7 @@ then—
 
 (5) The provisions of Chapter II of Part I of the Social Security Act 1998 (c. 14) (revision, appeal, &c.) shall apply to a decision of the Secretary of State about a person’s entitlement to a payment under section 2 or 3 (whether or not following a claim) as they apply to a decision of the Secretary of State under section 8 of that Act.
 
-### 6. Payment to be disregarded for tax and social security[^key-2a32007ce58d9704a7ba068d2139c8f6]
+### 6. Payment to be disregarded for tax and social security[^c-2a32007ce58d9704a7ba068d2139c8f6]
 
 No account shall be taken of entitlement to a payment under section 2 or 3 in considering a person's—
 
@@ -159,11 +159,11 @@ No account shall be taken of entitlement to a payment under section 2 or 3 in co
 
 ## Future payments
 
-### 7. Power to provide for payments[^key-f6a6d7744af21b47cafe013e4a858fff]
+### 7. Power to provide for payments[^c-f6a6d7744af21b47cafe013e4a858fff]
 
 (1) The Secretary of State may make regulations providing for the making of payments by him to persons who have attained the age of 60 years.
 
-(1A)[^key-695f0b36e21358265bb5d53d2c75781d] In so far as the power conferred by subsection (1) relates to payments in cases where a with-profits policy has been purchased from the Equitable Life Assurance Society on or before 31st August 1992, the references in that subsection to the Secretary of State are to be read as references to the Secretary of State or the Treasury.
+(1A)[^c-695f0b36e21358265bb5d53d2c75781d] In so far as the power conferred by subsection (1) relates to payments in cases where a with-profits policy has been purchased from the Equitable Life Assurance Society on or before 31st August 1992, the references in that subsection to the Secretary of State are to be read as references to the Secretary of State or the Treasury.
 
 (2) Regulations under subsection (1) may provide for payments to be made—
 
@@ -182,7 +182,7 @@ No account shall be taken of entitlement to a payment under section 2 or 3 in co
 - (a) shall be made by statutory instrument, and
 - (b) may not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
 
-(4A)[^key-7f7264286883609317194dcaff35c610] In subsection (1A), a “with-profits policy” is a contract of insurance under which the policyholder is eligible to receive a financial benefit at the discretion of the insurer.
+(4A)[^c-7f7264286883609317194dcaff35c610] In subsection (1A), a “with-profits policy” is a contract of insurance under which the policyholder is eligible to receive a financial benefit at the discretion of the insurer.
 
 (5) In section 170(5) of the Social Security Administration Act 1992 (c. 5) (Social Security Advisory Committee) in the definition of “the relevant enactments” after paragraph (ah) insert—
 
@@ -197,9 +197,9 @@ No account shall be taken of entitlement to a payment under section 2 or 3 in co
 (1) In this Act—
 
 - “care home”—
-  - in relation to England [^key-f17d116f7f5b9bd73520d27b3b53bf7e]..., has the same meaning as that given by section 3 of the Care Standards Act 2000 (c. 14), [^key-b69c4538153d9711e515b14656a67081]...
-  - in relation to Wales, means a place at which a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2) is provided wholly or mainly to persons aged 18 or over, and[^key-7702a486d5c4ee30107d5bb03c09a1c2]
-  - in relation to Scotland, means accommodation provided by a care home service within the meaning of paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act[^key-d662869bd46eb8b545d5a1a478009e6b] [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8),
+  - in relation to England [^c-f17d116f7f5b9bd73520d27b3b53bf7e]..., has the same meaning as that given by section 3 of the Care Standards Act 2000 (c. 14), [^c-b69c4538153d9711e515b14656a67081]...
+  - in relation to Wales, means a place at which a care home service within the meaning of Part 1 of the Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2) is provided wholly or mainly to persons aged 18 or over, and[^c-7702a486d5c4ee30107d5bb03c09a1c2]
+  - in relation to Scotland, means accommodation provided by a care home service within the meaning of paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act[^c-d662869bd46eb8b545d5a1a478009e6b] [2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8),
 - “**couple**” means a man and a woman who share a household and who are, or who live as, husband and wife,
 - “**income-based jobseeker’s allowance**” has the meaning given by section 1(1) and (4) of the Jobseekers Act 1995 (c. 18),
 - “**income support**” means income support under section 124 of the Social Security Contributions and Benefits Act 1992 (c. 4),
@@ -227,18 +227,18 @@ This Act may be cited as the Age-Related Payments Act 2004.
 
 ## Annotations
 
-[^key-2a32007ce58d9704a7ba068d2139c8f6]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/2004/10/section/6) applied (28.11.2013) by [The Age-Related Payments Regulations 2013 (S.I. 2013/2980)](https://www.legislation.gov.uk/uksi/2013/2980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2980/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2980/regulation/5)
+[^c-2a32007ce58d9704a7ba068d2139c8f6]: Modification: [S. 6](https://www.legislation.gov.uk/ukpga/2004/10/section/6) applied (28.11.2013) by [The Age-Related Payments Regulations 2013 (S.I. 2013/2980)](https://www.legislation.gov.uk/uksi/2013/2980), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2980/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2980/regulation/5)
 
-[^key-f6a6d7744af21b47cafe013e4a858fff]: Modification: S. 7 function made exercisable concurrently (11.7.2013) by [The Transfer of Functions (Age-Related Payments) Order 2013 (S.I. 2013/1442)](https://www.legislation.gov.uk/uksi/2013/1442), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1442/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/1442/article/2)
+[^c-f6a6d7744af21b47cafe013e4a858fff]: Modification: S. 7 function made exercisable concurrently (11.7.2013) by [The Transfer of Functions (Age-Related Payments) Order 2013 (S.I. 2013/1442)](https://www.legislation.gov.uk/uksi/2013/1442), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1442/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/1442/article/2)
 
-[^key-695f0b36e21358265bb5d53d2c75781d]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukpga/2004/10/section/7/1A) inserted (11.7.2013) by [The Transfer of Functions (Age-Related Payments) Order 2013 (S.I. 2013/1442)](https://www.legislation.gov.uk/uksi/2013/1442), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1442/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/1442/article/3/2)
+[^c-695f0b36e21358265bb5d53d2c75781d]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/ukpga/2004/10/section/7/1A) inserted (11.7.2013) by [The Transfer of Functions (Age-Related Payments) Order 2013 (S.I. 2013/1442)](https://www.legislation.gov.uk/uksi/2013/1442), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1442/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2013/1442/article/3/2)
 
-[^key-7f7264286883609317194dcaff35c610]: Textual amendment: [S. 7(4A)](https://www.legislation.gov.uk/ukpga/2004/10/section/7/4A) inserted (11.7.2013) by [The Transfer of Functions (Age-Related Payments) Order 2013 (S.I. 2013/1442)](https://www.legislation.gov.uk/uksi/2013/1442), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1442/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2013/1442/article/3/3)
+[^c-7f7264286883609317194dcaff35c610]: Textual amendment: [S. 7(4A)](https://www.legislation.gov.uk/ukpga/2004/10/section/7/4A) inserted (11.7.2013) by [The Transfer of Functions (Age-Related Payments) Order 2013 (S.I. 2013/1442)](https://www.legislation.gov.uk/uksi/2013/1442), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1442/article/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2013/1442/article/3/3)
 
-[^key-f17d116f7f5b9bd73520d27b3b53bf7e]: Textual amendment: Words in s. 8(1) omitted (2.4.2018) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [25(2)(a)(i)](https://www.legislation.gov.uk/wsi/2018/195/regulation/25/2/a/i)
+[^c-f17d116f7f5b9bd73520d27b3b53bf7e]: Textual amendment: Words in s. 8(1) omitted (2.4.2018) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [25(2)(a)(i)](https://www.legislation.gov.uk/wsi/2018/195/regulation/25/2/a/i)
 
-[^key-b69c4538153d9711e515b14656a67081]: Textual amendment: Word in s. 8(1) omitted (2.4.2018) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [25(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/195/regulation/25/2/a/ii)
+[^c-b69c4538153d9711e515b14656a67081]: Textual amendment: Word in s. 8(1) omitted (2.4.2018) by virtue of [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [25(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2018/195/regulation/25/2/a/ii)
 
-[^key-7702a486d5c4ee30107d5bb03c09a1c2]: Textual amendment: Words in s. 8(1) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [25(2)(b)](https://www.legislation.gov.uk/wsi/2018/195/regulation/25/2/b)
+[^c-7702a486d5c4ee30107d5bb03c09a1c2]: Textual amendment: Words in s. 8(1) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments) Regulations 2018 (S.I. 2018/195)](https://www.legislation.gov.uk/wsi/2018/195), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2018/195/regulation/2/1), [25(2)(b)](https://www.legislation.gov.uk/wsi/2018/195/regulation/25/2/b)
 
-[^key-d662869bd46eb8b545d5a1a478009e6b]: Textual amendment: Words in s. 8(1)(b) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/8)
+[^c-d662869bd46eb8b545d5a1a478009e6b]: Textual amendment: Words in s. 8(1)(b) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/8)

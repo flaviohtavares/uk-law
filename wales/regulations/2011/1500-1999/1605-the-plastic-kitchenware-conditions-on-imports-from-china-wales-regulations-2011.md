@@ -53,13 +53,13 @@ In accordance with section 48(4A) of the Food Safety Act 1990 they have had rega
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00005], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## 1. Title, application and commencement[^key-c80c9313f6df9beb3a1a2456a124e0c3]
+## 1. Title, application and commencement[^c-c80c9313f6df9beb3a1a2456a124e0c3]
 
 (1) The title of these Regulations is the Plastic Kitchenware (Conditions on Imports from China) (Wales) Regulations 2011.
 
 (2) These Regulations apply in relation to Wales and come into force on 1 July 2011.
 
-## 2. Interpretation[^key-b6ddf2de94a1bf26b6c47315b0f2fae4]
+## 2. Interpretation[^c-b6ddf2de94a1bf26b6c47315b0f2fae4]
 
 (1) In these Regulations —
 
@@ -78,29 +78,29 @@ As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislati
 
 any reference in these Regulations to a food authority must be construed, so far as relating to those functions, as a reference to the authority to whom they are so assigned.
 
-## 3. Breach of conditions on import of plastic kitchenware from China[^key-452841b23e66742fd5c51d420e6a45df]
+## 3. Breach of conditions on import of plastic kitchenware from China[^c-452841b23e66742fd5c51d420e6a45df]
 
-(1) No person may place on the market in Wales any relevant product that has been imported into Great Britain[^key-25046489a97dbeccdaa6fc7e2bfcd858] other than in compliance with the requirements of Article 3(1), (2) and (3) (import conditions).
+(1) No person may place on the market in Wales any relevant product that has been imported into Great Britain[^c-25046489a97dbeccdaa6fc7e2bfcd858] other than in compliance with the requirements of Article 3(1), (2) and (3) (import conditions).
 
 (2) No person may place on the market in Wales any relevant product until —
 
 - (a) the checks specified in paragraph 1(a) and, as the case may be, paragraph 1(b) of Article 6 (controls at the first point of introduction) have been completed; and
 - (b) the food authority has issued a declaration in accordance with Article 3(4) indicating that the relevant product conforms and is thus acceptable for release into free circulation.
 
-## 4. Offences and penalties[^key-f9215ef6ae158a2714eb8930f7402a9e]
+## 4. Offences and penalties[^c-f9215ef6ae158a2714eb8930f7402a9e]
 
 Any person who fails to comply with paragraph (1) or (2) of regulation 3 is guilty of an offence and liable —
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-## 5. Competent authorities[^key-d00f107797c13ee34fe4ffca23ae4d34]
+## 5. Competent authorities[^c-d00f107797c13ee34fe4ffca23ae4d34]
 
 (1) The competent authority for the purposes of Articles 3(1) and (4), 4, 6(1), 7 and 9 is each food authority in its area or united district.
 
 (2) The competent authority for the purpose of Article 6(2) is the Agency.
 
-## 6. Execution and enforcement[^key-6be8d106511e34c1a50e7a14c294488f]
+## 6. Execution and enforcement[^c-6be8d106511e34c1a50e7a14c294488f]
 
 (1) It is the duty of each food authority in its area or united district to execute and enforce the Commission Regulation and these Regulations.
 
@@ -111,20 +111,20 @@ Any person who fails to comply with paragraph (1) or (2) of regulation 3 is guil
 
 (3) The Commission for Her Majesty’s Revenue and Customs must carry out the functions given to customs authorities under Article 8.
 
-## 7. Expenses arising from official controls[^key-4d2b68f3cfd3afd986e3a2059d432962]
+## 7. Expenses arising from official controls[^c-4d2b68f3cfd3afd986e3a2059d432962]
 
-(1) Expenses charged pursuant to Article 80 of Regulation 2017/625[^key-caba3b43b245c6074c5affaaeb4c86f4] by a food authority to an importer in connection with the checks mentioned in Article 6(1) are payable by the importer on the written demand of the food authority.
+(1) Expenses charged pursuant to Article 80 of Regulation 2017/625[^c-caba3b43b245c6074c5affaaeb4c86f4] by a food authority to an importer in connection with the checks mentioned in Article 6(1) are payable by the importer on the written demand of the food authority.
 
 (2) Where a food authority identifies non-compliance—
 
 - (a) with the requirements of Article 3(1), (2) or (3) or Article 4; or
 - (b) following the checks mentioned in Article 6(1)(b),
 
-expenses charged pursuant to Article 138(4) of Regulation 2017/625[^key-1946bf3dd233b22a67d562c5c53cf347] by a food authority to an importer are payable by the importer on the written demand of the food authority.
+expenses charged pursuant to Article 138(4) of Regulation 2017/625[^c-1946bf3dd233b22a67d562c5c53cf347] by a food authority to an importer are payable by the importer on the written demand of the food authority.
 
-(3)[^key-bcd2c9558ebc600f56953da006a3ec20] In paragraphs (1) and (2) and in regulation 8(3), “Regulation 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
+(3)[^c-bcd2c9558ebc600f56953da006a3ec20] In paragraphs (1) and (2) and in regulation 8(3), “Regulation 2017/625” means Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of food and feed law, rules on animal health and welfare, plant health and plant protection products.
 
-## 8. Notices and actions in the case of non-compliance[^key-dca81d0ba8a56b1ef73669b464b99277]
+## 8. Notices and actions in the case of non-compliance[^c-dca81d0ba8a56b1ef73669b464b99277]
 
 (1) If an importer presents a consignment of relevant product for import into Wales without submitting a declaration and accompanying laboratory report in accordance with the requirements of Article 3(1),(2) and (3), the food authority may by written notice require the importer to submit such a declaration within 14 days of the date of service of the notice.
 
@@ -135,21 +135,21 @@ expenses charged pursuant to Article 138(4) of Regulation 2017/625[^key-1946bf3d
 - (c) a declaration or a laboratory report has been submitted that does not comply with the requirements of Article 3(1),(2) and (3); or
 - (d) the relevant product that is the subject of the checks —
   - (i) fails an identity check, or
-  - (ii) does not meet the requirements of Commission Regulation (EU) No. 10/2011 on plastic materials and articles intended to come into contact with food[^key-e698816529f19e6d4469e2db03444555][^f00010] [^key-d034a2aa4d3f5e87016dc3a89ca06bd6]...,
+  - (ii) does not meet the requirements of Commission Regulation (EU) No. 10/2011 on plastic materials and articles intended to come into contact with food[^c-e698816529f19e6d4469e2db03444555][^f00010] [^c-d034a2aa4d3f5e87016dc3a89ca06bd6]...,
 
   the food authority must take the steps set out in paragraph (3).
 
 (3) The food authority must, by written notice —
 
 - (a) require the importer within 60 days of the date of service of the notice —
-  - (i) to re-dispatch the consignment outside Great Britain[^key-832318d387e5ad05af8ed71cc7d3e153],
+  - (i) to re-dispatch the consignment outside Great Britain[^c-832318d387e5ad05af8ed71cc7d3e153],
   - (ii) in the case of polyamide kitchenware, to carry out shredding and melting and form the resulting product into articles for purposes other than food contact, or
   - (iii) at the importer’s expense to destroy the consignment under official control; and
-- (b) inform the importer that if the requirements of sub-paragraph (a) are not complied with the authority may in accordance with Article 138(2) and (4) of Regulation 2017/625[^key-a3c58905031444a68607228fad524148] arrange for the destruction of the consignment and recover the costs of storage and destruction from the importer.
+- (b) inform the importer that if the requirements of sub-paragraph (a) are not complied with the authority may in accordance with Article 138(2) and (4) of Regulation 2017/625[^c-a3c58905031444a68607228fad524148] arrange for the destruction of the consignment and recover the costs of storage and destruction from the importer.
 
 (4) Any notice under paragraph (1) or (3) may be served on the importer or the importer’s representative.
 
-## 9. Rights of appeal[^key-4d6e9c0ff319e4999de1357e67a905bf]
+## 9. Rights of appeal[^c-4d6e9c0ff319e4999de1357e67a905bf]
 
 (1) Any person who is aggrieved by a decision of an authorised officer to serve a notice under regulation 8(3) may appeal to a magistrates' court.
 
@@ -163,11 +163,11 @@ expenses charged pursuant to Article 138(4) of Regulation 2017/625[^key-1946bf3d
 
 (6) Where an appeal has been brought under paragraph (1) within the period specified in paragraph (3), the effect of a notice served under regulation 8(3) is suspended pending the final determination of the appeal.
 
-## 10. Suspension of designation of first point of introduction[^key-ce0cfc6303c5ae3400ab13440b0315fb]
+## 10. Suspension of designation of first point of introduction[^c-ce0cfc6303c5ae3400ab13440b0315fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Application of various sections of the Act[^key-e2601f255d7b78a9554d8c00f3adfab5]
+## 11. Application of various sections of the Act[^c-e2601f255d7b78a9554d8c00f3adfab5]
 
 (1) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act or Part of it is to be construed as a reference to these Regulations —
 
@@ -191,7 +191,7 @@ expenses charged pursuant to Article 138(4) of Regulation 2017/625[^key-1946bf3d
 
 (4) Section 34 of the Act (time limit for prosecutions) applies to offences under regulation 4 as it applies to offences punishable under section 35(2) of the Act.
 
-## 12. Statutory review[^key-a38887e0d385a3312e2a5fd368bc0a47]
+## 12. Statutory review[^c-a38887e0d385a3312e2a5fd368bc0a47]
 
 (1) Before the end of each review period the Agency must —
 
@@ -199,7 +199,7 @@ expenses charged pursuant to Article 138(4) of Regulation 2017/625[^key-1946bf3d
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2)[^key-b53498f16f57c8cf1bfdd9eacaaad953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b53498f16f57c8cf1bfdd9eacaaad953] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular —
 
@@ -250,9 +250,9 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 [^f00005]: Footnote: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Regulation [(EC) No. 596/2009](https://www.legislation.gov.uk/european/regulation/2009/0596) of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision [1999/468/EC](https://www.legislation.gov.uk/european/decision/1999/0468) with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny — Part Four (OJ No. L188, 18.7.2009, p.14).
 
-[^key-c80c9313f6df9beb3a1a2456a124e0c3]: Commencement: Reg. 1 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-c80c9313f6df9beb3a1a2456a124e0c3]: Commencement: Reg. 1 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
-[^key-b6ddf2de94a1bf26b6c47315b0f2fae4]: Commencement: Reg. 2 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-b6ddf2de94a1bf26b6c47315b0f2fae4]: Commencement: Reg. 2 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
 [^f00006]: Footnote: OJ No. L77, 23.3.2011, p.25.
 
@@ -260,43 +260,43 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 [^f00008]: Footnote: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49); section 6 is to be read with paragraph 1 of Schedule 3 to the Food Safety Act 1990.
 
-[^key-452841b23e66742fd5c51d420e6a45df]: Commencement: Reg. 3 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-452841b23e66742fd5c51d420e6a45df]: Commencement: Reg. 3 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
-[^key-25046489a97dbeccdaa6fc7e2bfcd858]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/3/1) substituted (31.12.2020) by [S.I. 2019/434](https://www.legislation.gov.uk/uksi/2019/434), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/434/regulation/7/2) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/uksi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/3/4/a))
+[^c-25046489a97dbeccdaa6fc7e2bfcd858]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/3/1) substituted (31.12.2020) by [S.I. 2019/434](https://www.legislation.gov.uk/uksi/2019/434), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/434/regulation/7/2) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/uksi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/1/2), [3(4)(a)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/3/4/a))
 
-[^key-f9215ef6ae158a2714eb8930f7402a9e]: Commencement: Reg. 4 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-f9215ef6ae158a2714eb8930f7402a9e]: Commencement: Reg. 4 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
-[^key-d00f107797c13ee34fe4ffca23ae4d34]: Commencement: Reg. 5 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-d00f107797c13ee34fe4ffca23ae4d34]: Commencement: Reg. 5 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
-[^key-6be8d106511e34c1a50e7a14c294488f]: Commencement: Reg. 6 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-6be8d106511e34c1a50e7a14c294488f]: Commencement: Reg. 6 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
-[^key-4d2b68f3cfd3afd986e3a2059d432962]: Commencement: Reg. 7 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-4d2b68f3cfd3afd986e3a2059d432962]: Commencement: Reg. 7 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
-[^key-caba3b43b245c6074c5affaaeb4c86f4]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/7/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [35(a)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/35/a)
+[^c-caba3b43b245c6074c5affaaeb4c86f4]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/7/1) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [35(a)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/35/a)
 
-[^key-1946bf3dd233b22a67d562c5c53cf347]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/7/2) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [35(b)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/35/b)
+[^c-1946bf3dd233b22a67d562c5c53cf347]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/7/2) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [35(b)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/35/b)
 
-[^key-bcd2c9558ebc600f56953da006a3ec20]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/7/3) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [35(c)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/35/c)
+[^c-bcd2c9558ebc600f56953da006a3ec20]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/7/3) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [35(c)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/35/c)
 
-[^key-dca81d0ba8a56b1ef73669b464b99277]: Commencement: Reg. 8 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-dca81d0ba8a56b1ef73669b464b99277]: Commencement: Reg. 8 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
-[^key-e698816529f19e6d4469e2db03444555]: Textual amendment: Words in [reg. 8(2)(d)(ii)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/8/2/d/ii) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [21](https://www.legislation.gov.uk/wsi/2018/806/regulation/21)
+[^c-e698816529f19e6d4469e2db03444555]: Textual amendment: Words in [reg. 8(2)(d)(ii)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/8/2/d/ii) substituted (26.7.2018) by [The Food and Feed (Miscellaneous Amendments and Revocations) (Wales) Regulations 2018 (S.I. 2018/806)](https://www.legislation.gov.uk/wsi/2018/806), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/806/regulation/1/3), [21](https://www.legislation.gov.uk/wsi/2018/806/regulation/21)
 
 [^f00010]: Footnote: OJ No. L12, 15.1.2011, p.1.
 
-[^key-d034a2aa4d3f5e87016dc3a89ca06bd6]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/8/2) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/2/2/b)
+[^c-d034a2aa4d3f5e87016dc3a89ca06bd6]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/8/2) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 11 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/11/paragraph/2/2/b)
 
-[^key-832318d387e5ad05af8ed71cc7d3e153]: Textual amendment: Words in [reg. 8(3)(a)(i)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/8/3/a/i) substituted (31.12.2020) by [S.I. 2019/434](https://www.legislation.gov.uk/uksi/2019/434), [reg. 7(3)](https://www.legislation.gov.uk/uksi/2019/434/regulation/7/3) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/uksi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/3/4/b))
+[^c-832318d387e5ad05af8ed71cc7d3e153]: Textual amendment: Words in [reg. 8(3)(a)(i)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/8/3/a/i) substituted (31.12.2020) by [S.I. 2019/434](https://www.legislation.gov.uk/uksi/2019/434), [reg. 7(3)](https://www.legislation.gov.uk/uksi/2019/434/regulation/7/3) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/uksi/2020/1581), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2020/1581/regulation/3/4/b))
 
-[^key-a3c58905031444a68607228fad524148]: Textual amendment: Words in [reg. 8(3)(b)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/8/3/b) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [36](https://www.legislation.gov.uk/wsi/2019/1482/regulation/36)
+[^c-a3c58905031444a68607228fad524148]: Textual amendment: Words in [reg. 8(3)(b)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/8/3/b) substituted (14.12.2019) by [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [36](https://www.legislation.gov.uk/wsi/2019/1482/regulation/36)
 
-[^key-4d6e9c0ff319e4999de1357e67a905bf]: Commencement: Reg. 9 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-4d6e9c0ff319e4999de1357e67a905bf]: Commencement: Reg. 9 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
 [^f00011]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-ce0cfc6303c5ae3400ab13440b0315fb]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/wsi/2011/1605/regulation/10) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [37](https://www.legislation.gov.uk/wsi/2019/1482/regulation/37)
+[^c-ce0cfc6303c5ae3400ab13440b0315fb]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/wsi/2011/1605/regulation/10) omitted (14.12.2019) by virtue of [The Official Feed and Food Controls (Wales) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1482)](https://www.legislation.gov.uk/wsi/2019/1482), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2019/1482/regulation/1/1), [37](https://www.legislation.gov.uk/wsi/2019/1482/regulation/37)
 
-[^key-e2601f255d7b78a9554d8c00f3adfab5]: Commencement: Reg. 11 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-e2601f255d7b78a9554d8c00f3adfab5]: Commencement: Reg. 11 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
 [^f00012]: Footnote: Section 21 was amended by S.I. [2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
@@ -306,6 +306,6 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 [^f00015]: Footnote: Section 36A was inserted by the Food Standards Act 1999 ([1999 c. 28)](https://www.legislation.gov.uk/ukpga/1999/28), Schedule 5, paragraph 16.
 
-[^key-a38887e0d385a3312e2a5fd368bc0a47]: Commencement: Reg. 12 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
+[^c-a38887e0d385a3312e2a5fd368bc0a47]: Commencement: Reg. 12 in force at 1.7.2011, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/1/2)
 
-[^key-b53498f16f57c8cf1bfdd9eacaaad953]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/12/2) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [7(4)](https://www.legislation.gov.uk/wsi/2019/434/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b53498f16f57c8cf1bfdd9eacaaad953]: Textual amendment: [Reg. 12(2)](https://www.legislation.gov.uk/wsi/2011/1605/regulation/12/2) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/434)](https://www.legislation.gov.uk/wsi/2019/434), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/434/regulation/1/3), [7(4)](https://www.legislation.gov.uk/wsi/2019/434/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

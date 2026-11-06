@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Where a conduct complaint suggesting unsatisfactory professional conduct by a practitioner who is a solicitor is remitted to the Council under section 6(2)(a)[^key-52b9b06396bcd22041b21d10113d2b0e] or 15(5)(a) of the 2007 Act, the Council must having—
+(1) Where a conduct complaint suggesting unsatisfactory professional conduct by a practitioner who is a solicitor is remitted to the Council under section 6(2)(a)[^c-52b9b06396bcd22041b21d10113d2b0e] or 15(5)(a) of the 2007 Act, the Council must having—
 
 - (a) investigated the complaint under section 47(1) of that Act and made a written report under section 47(2) of that Act;
 - (b) given the solicitor an opportunity to make representations,
@@ -87,4 +87,4 @@ to the complainer and the solicitor specified in it by sending to each of them a
 
 [^c20663071]: Textual amendment: Ss. 42ZA, 42ZB inserted (1.10.2008) by [Legal Profession and Legal Aid (Scotland) Act 2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5), [ss. 53(2)](https://www.legislation.gov.uk/asp/2007/5/section/53/2), [82](https://www.legislation.gov.uk/asp/2007/5/section/82) (with [s. 77](https://www.legislation.gov.uk/asp/2007/5/section/77)); [S.S.I. 2008/311](https://www.legislation.gov.uk/ssi/2008/311), [art. 2](https://www.legislation.gov.uk/ssi/2008/311/article/2)
 
-[^key-52b9b06396bcd22041b21d10113d2b0e]: Textual amendment: Word in s. 42ZA(1) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2014/232/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))
+[^c-52b9b06396bcd22041b21d10113d2b0e]: Textual amendment: Word in s. 42ZA(1) substituted (1.1.2015) by [The Scottish Legal Complaints Commission (Modification of Duties and Powers) Regulations 2014 (S.S.I. 2014/232)](https://www.legislation.gov.uk/ssi/2014/232), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/232/regulation/1/2), [3(1)](https://www.legislation.gov.uk/ssi/2014/232/regulation/3/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2014/232/regulation/4))

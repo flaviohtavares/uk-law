@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18. Safeguarding works to buildings[^key-6bd1cf1970518473a8bf84b17849e98c]
+## 18. Safeguarding works to buildings[^c-6bd1cf1970518473a8bf84b17849e98c]
 
 *Extent: E+W+S*
 
@@ -68,4 +68,4 @@ the promoter must compensate the owners and occupiers of the building for any da
 
 ## Annotations
 
-[^key-6bd1cf1970518473a8bf84b17849e98c]: Commencement: Art. 18 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-6bd1cf1970518473a8bf84b17849e98c]: Commencement: Art. 18 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Contentious business agreements.[^c13351241][^c13351251][^key-65c6f0b287ef48549fcd0c9cef646ee5]
+## 59. Contentious business agreements.[^c13351241][^c13351251][^c-65c6f0b287ef48549fcd0c9cef646ee5]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 [^c13351251]: Modification: [S. 59](https://www.legislation.gov.uk/ukpga/1974/47/section/59) extended (22.5.2000) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1119/regulation/1), [37(3)](https://www.legislation.gov.uk/uksi/2000/1119/regulation/37/3), [Sch. 4 para. 7(2)](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/7/2)
 
-[^key-65c6f0b287ef48549fcd0c9cef646ee5]: Modification: [S. 59](https://www.legislation.gov.uk/ukpga/1974/47/section/59) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/1), [3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/5)
+[^c-65c6f0b287ef48549fcd0c9cef646ee5]: Modification: [S. 59](https://www.legislation.gov.uk/ukpga/1974/47/section/59) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/1), [3](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2011/2866/schedule/1/paragraph/5)
 
 [^c13351261]: Textual amendment: Words inserted by [Courts and Legal Services Act 1990 (c. 41, SIF 76:1)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 98(5)](https://www.legislation.gov.uk/ukpga/1990/41/section/98/5)

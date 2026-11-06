@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Amendment of regulation 2 of the Higher Education Short Course Loans Regulations 2022[^key-f7fdb1bf4c48b10a5a78c67635727d5d]
+## 137. Amendment of regulation 2 of the Higher Education Short Course Loans Regulations 2022[^c-f7fdb1bf4c48b10a5a78c67635727d5d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In regulation 2 of the Higher Education Short Course Loans Regulations 2022—
 
 ## Annotations
 
-[^key-f7fdb1bf4c48b10a5a78c67635727d5d]: Commencement: Reg. 137 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-f7fdb1bf4c48b10a5a78c67635727d5d]: Commencement: Reg. 137 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

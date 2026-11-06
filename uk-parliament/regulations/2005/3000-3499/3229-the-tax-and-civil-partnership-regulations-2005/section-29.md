@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29.[^key-36d8ee321a558cd4a8396f72e015c6b4]
+## 29.[^c-36d8ee321a558cd4a8396f72e015c6b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 136 (transactions of close companies), in subsection (3), after “sp
 
 ## Annotations
 
-[^key-36d8ee321a558cd4a8396f72e015c6b4]: Commencement: Reg. 29 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-36d8ee321a558cd4a8396f72e015c6b4]: Commencement: Reg. 29 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

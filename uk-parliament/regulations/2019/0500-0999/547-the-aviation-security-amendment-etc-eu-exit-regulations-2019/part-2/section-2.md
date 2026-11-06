@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. The Aviation Security Act 1982[^key-53880e3b6fb5b56a28e172b3bdd1362e]
+## 2. The Aviation Security Act 1982[^c-53880e3b6fb5b56a28e172b3bdd1362e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-53880e3b6fb5b56a28e172b3bdd1362e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-53880e3b6fb5b56a28e172b3bdd1362e]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23637161]: Marginal citation: [1982 c. 36](https://www.legislation.gov.uk/ukpga/1982/36). Section 20 was amended by the [Aviation and Maritime Security Act 1990 (c. 31)](https://www.legislation.gov.uk/ukpga/1990/31) and [S.I. 2010/902](https://www.legislation.gov.uk/uksi/2010/902). Section 21E was inserted by section 5 of the Aviation and Maritime Security Act 1990 and amended by [S.I. 2010/902](https://www.legislation.gov.uk/uksi/2010/902). There are other amendments which are not relevant to these Regulations.

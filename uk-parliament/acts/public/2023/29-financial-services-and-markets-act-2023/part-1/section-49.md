@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Bank of England: rule-making powers[^key-3004e324743366e54c73f2b05cf29427][^key-f5e46c61404aea16822393ff660f5384]
+## 49. Bank of England: rule-making powers[^c-3004e324743366e54c73f2b05cf29427][^c-f5e46c61404aea16822393ff660f5384]
 
 *Extent: E+W+S+N.I.*
 
@@ -124,6 +124,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3004e324743366e54c73f2b05cf29427]: Commencement: S. 49 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-3004e324743366e54c73f2b05cf29427]: Commencement: S. 49 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-f5e46c61404aea16822393ff660f5384]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/29/section/49) in force at 1.1.2024 at 1.00 a.m. by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/e)
+[^c-f5e46c61404aea16822393ff660f5384]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2023/29/section/49) in force at 1.1.2024 at 1.00 a.m. by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(e)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/e)

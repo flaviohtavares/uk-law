@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Section 34 regulations: exercise of fire and rescue functions[^key-21b9e79246feb6ab7a8f0cb69076fbd3]
+## 37. Section 34 regulations: exercise of fire and rescue functions[^c-21b9e79246feb6ab7a8f0cb69076fbd3]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21b9e79246feb6ab7a8f0cb69076fbd3]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/55/section/37) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-21b9e79246feb6ab7a8f0cb69076fbd3]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2023/55/section/37) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Amendments to procedure for making objections to registration[^key-feeabade9dccab116334aecb016c5327]
+## 7. Amendments to procedure for making objections to registration[^c-feeabade9dccab116334aecb016c5327]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-feeabade9dccab116334aecb016c5327]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2910/regulation/7) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-feeabade9dccab116334aecb016c5327]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2006/2910/regulation/7) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

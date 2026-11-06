@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41A. SFRS's first strategic plan[^key-2f282d1a187390744c7f87d60a6eed7d]
+## 41A. SFRS's first strategic plan[^c-2f282d1a187390744c7f87d60a6eed7d]
 
 *Extent: S*
 
@@ -46,7 +46,7 @@ summary: ''
 
 (6) SFRS must submit the strategic plan prepared under subsection (1) to the Scottish Ministers for approval.
 
-(7)[^key-07d72be8862bcfa85a5fea6a19da63e8] SFRS must use its best endeavours to secure the approval of the Scottish Ministers to the strategic plan (with or without modifications) before such day as the Scottish Ministers may by order appoint.
+(7)[^c-07d72be8862bcfa85a5fea6a19da63e8] SFRS must use its best endeavours to secure the approval of the Scottish Ministers to the strategic plan (with or without modifications) before such day as the Scottish Ministers may by order appoint.
 
 (8) If the Scottish Ministers approve the strategic plan, SFRS must—
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f282d1a187390744c7f87d60a6eed7d]: Textual amendment: Pt. 2 Ch. 8A heading and ss. 41A-41C inserted (1.10.2012 for the purpose of inserting s. 41A, 1.4.2013 so far as not already in force) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 114](https://www.legislation.gov.uk/asp/2012/8/section/114), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 8(1)](https://www.legislation.gov.uk/ssi/2012/253/article/8/1)[(2)](https://www.legislation.gov.uk/ssi/2012/253/article/8/2)); S.I. 2013/51, art. 2
+[^c-2f282d1a187390744c7f87d60a6eed7d]: Textual amendment: Pt. 2 Ch. 8A heading and ss. 41A-41C inserted (1.10.2012 for the purpose of inserting s. 41A, 1.4.2013 so far as not already in force) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 114](https://www.legislation.gov.uk/asp/2012/8/section/114), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule) (with [art. 8(1)](https://www.legislation.gov.uk/ssi/2012/253/article/8/1)[(2)](https://www.legislation.gov.uk/ssi/2012/253/article/8/2)); S.I. 2013/51, art. 2
 
-[^key-07d72be8862bcfa85a5fea6a19da63e8]: Modification: S. 41A(7): appointed day (29.4.2013) by [The Scottish Fire and Rescue Service (Framework and Appointed Day for Strategic Plan) Order 2013 (S.S.I. 2013/97)](https://www.legislation.gov.uk/ssi/2013/97), [arts. 1](https://www.legislation.gov.uk/ssi/2013/97/article/1), [3](https://www.legislation.gov.uk/ssi/2013/97/article/3)
+[^c-07d72be8862bcfa85a5fea6a19da63e8]: Modification: S. 41A(7): appointed day (29.4.2013) by [The Scottish Fire and Rescue Service (Framework and Appointed Day for Strategic Plan) Order 2013 (S.S.I. 2013/97)](https://www.legislation.gov.uk/ssi/2013/97), [arts. 1](https://www.legislation.gov.uk/ssi/2013/97/article/1), [3](https://www.legislation.gov.uk/ssi/2013/97/article/3)

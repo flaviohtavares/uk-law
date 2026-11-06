@@ -39,9 +39,9 @@ An Act to make provision for the regulation of centres and providers of faciliti
 
 (1) The Secretary of State shall by order designate a person (“the licensing authority”) to exercise such functions as may be prescribed by regulations relating to the licensing of persons providing facilities for adventure activities.
 
-(2) The Secretary of State shall not make an order under subsection (1) designating a person other than one nominated by the Health and Safety Executive[^key-1af6f3467f33fb1cd705f4031a7fb226].
+(2) The Secretary of State shall not make an order under subsection (1) designating a person other than one nominated by the Health and Safety Executive[^c-1af6f3467f33fb1cd705f4031a7fb226].
 
-(2A) The Health and Safety Executive may nominate itself under subsection (2)[^key-f9fb20b8fc53b1269749a7633b619a50]
+(2A) The Health and Safety Executive may nominate itself under subsection (2)[^c-f9fb20b8fc53b1269749a7633b619a50]
 
 (3) In this section “**facilities for adventure activities**” means such facilities, for such sporting, recreational or outdoor activities, as may be prescribed by regulations; but the expression does not include—
 
@@ -63,7 +63,7 @@ An Act to make provision for the regulation of centres and providers of faciliti
 - (k) the bringing of appeals to the Secretary of State against such decisions of the licensing authority as may be specified in the regulations; and
 - (l) the procedure to be followed on, and the orders which may be made on determination of, such appeals.
 
-(5) In exercising their functions under regulations made under this section the licensing authority other than the Health and Safety Executive[^key-6592ce397ced2053ed1d5496add25add] shall have regard to any guidance given to them from time to time by the Health and Safety Executive[^key-02ad35dd7dfa5feea52de0e1635dce72]; and before giving guidance under this subsection the Executive shall consult such persons (if any) as they consider it appropriate to consult.
+(5) In exercising their functions under regulations made under this section the licensing authority other than the Health and Safety Executive[^c-6592ce397ced2053ed1d5496add25add] shall have regard to any guidance given to them from time to time by the Health and Safety Executive[^c-02ad35dd7dfa5feea52de0e1635dce72]; and before giving guidance under this subsection the Executive shall consult such persons (if any) as they consider it appropriate to consult.
 
 ## 2. Offences.
 
@@ -93,7 +93,7 @@ An Act to make provision for the regulation of centres and providers of faciliti
 - (c) sections 21 to 24 (improvement and prohibition notices);
 - (d) section 25 (power to deal with cause of imminent danger);
 - (e) sections 27 and 28 (obtaining and disclosure of information);
-- (f) section 33(1)(e) to (j), (n) and (o)and (2) (and the related provisions of Schedule 3A)[^key-e4e95487f7c07b7d7224c1790d033e9f] (ancillary offences);
+- (f) section 33(1)(e) to (j), (n) and (o)and (2) (and the related provisions of Schedule 3A)[^c-e4e95487f7c07b7d7224c1790d033e9f] (ancillary offences);
 - (g) section 34(2) to (6) (extension of time for bringing summary proceedings);
 - (h) sections 36(1) and 37 (offences due to fault of other person and offences by bodies corporate);
 - (i) sections 38 and 39 (prosecutions in England and Wales only by inspectors or by or with the consent of the Director of Public Prosecutions);
@@ -111,9 +111,9 @@ An Act to make provision for the regulation of centres and providers of faciliti
 - (b) may make different provision for different cases; and
 - (c) may include transitional provisions.
 
-(3) Before making regulations under section 1 or 2 the Secretary of State shall consult the Health and Safety Executive[^key-169e714243afcacc13a3fbb7b959cbed] and such other persons (if any) as he considers it appropriate to consult.
+(3) Before making regulations under section 1 or 2 the Secretary of State shall consult the Health and Safety Executive[^c-169e714243afcacc13a3fbb7b959cbed] and such other persons (if any) as he considers it appropriate to consult.
 
-(4) The Health and Safety Executive[^key-864769ef72317036415df54dfd5f2c9f] may from time to time submit to the Secretary of State such proposals as the Executive considers appropriate for the making of regulations under section 1 or 2; and where the Secretary of State proposes to make regulations in the form submitted under this subsection, the requirement under subsection (3) to consult the Executive shall not apply.
+(4) The Health and Safety Executive[^c-864769ef72317036415df54dfd5f2c9f] may from time to time submit to the Secretary of State such proposals as the Executive considers appropriate for the making of regulations under section 1 or 2; and where the Secretary of State proposes to make regulations in the form submitted under this subsection, the requirement under subsection (3) to consult the Executive shall not apply.
 
 (5) Nothing in, or done by virtue of, this Act or regulations under it shall prejudice any of the relevant statutory provisions (whenever made) as defined in Part I of the [^c830643]Health and Safety at Work etc. Act 1974 or anything done by virtue of any of those provisions.
 
@@ -141,20 +141,20 @@ This Act shall come into force at the end of the period of two months beginning 
 
 [^c830641]: Modification: Act: powers transferred (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-1af6f3467f33fb1cd705f4031a7fb226]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1995/15/section/1/2) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-1af6f3467f33fb1cd705f4031a7fb226]: Textual amendment: Words in [s. 1(2)](https://www.legislation.gov.uk/ukpga/1995/15/section/1/2) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
-[^key-f9fb20b8fc53b1269749a7633b619a50]: Textual amendment: [S. 1(2A)](https://www.legislation.gov.uk/ukpga/1995/15/section/1/2A) inserted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-f9fb20b8fc53b1269749a7633b619a50]: Textual amendment: [S. 1(2A)](https://www.legislation.gov.uk/ukpga/1995/15/section/1/2A) inserted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
-[^key-6592ce397ced2053ed1d5496add25add]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1995/15/section/1/5) inserted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-6592ce397ced2053ed1d5496add25add]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1995/15/section/1/5) inserted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
-[^key-02ad35dd7dfa5feea52de0e1635dce72]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1995/15/section/1/5) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-02ad35dd7dfa5feea52de0e1635dce72]: Textual amendment: Words in [s. 1(5)](https://www.legislation.gov.uk/ukpga/1995/15/section/1/5) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
 [^c830642]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).
 
-[^key-e4e95487f7c07b7d7224c1790d033e9f]: Textual amendment: Words in [s. 2(4)(f)](https://www.legislation.gov.uk/ukpga/1995/15/section/2/4/f) substituted (16.1.2009) by [Health and Safety (Offences) Act 2008 (c. 20)](https://www.legislation.gov.uk/ukpga/2008/20), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2008/20/schedule/3/paragraph/4) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/3))
+[^c-e4e95487f7c07b7d7224c1790d033e9f]: Textual amendment: Words in [s. 2(4)(f)](https://www.legislation.gov.uk/ukpga/1995/15/section/2/4/f) substituted (16.1.2009) by [Health and Safety (Offences) Act 2008 (c. 20)](https://www.legislation.gov.uk/ukpga/2008/20), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/2), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2008/20/schedule/3/paragraph/4) (with [s. 3(3)](https://www.legislation.gov.uk/ukpga/2008/20/section/3/3))
 
-[^key-169e714243afcacc13a3fbb7b959cbed]: Textual amendment: Words in [s. 3(3)](https://www.legislation.gov.uk/ukpga/1995/15/section/3/3) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-169e714243afcacc13a3fbb7b959cbed]: Textual amendment: Words in [s. 3(3)](https://www.legislation.gov.uk/ukpga/1995/15/section/3/3) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
-[^key-864769ef72317036415df54dfd5f2c9f]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1995/15/section/3/4) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
+[^c-864769ef72317036415df54dfd5f2c9f]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/ukpga/1995/15/section/3/4) substituted (1.4.2008) by [Legislative Reform (Health and Safety Executive) Order 2008 (S.I. 2008/960)](https://www.legislation.gov.uk/uksi/2008/960), [art. 1](https://www.legislation.gov.uk/uksi/2008/960/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2008/960/schedule/3) (with [art. 21](https://www.legislation.gov.uk/uksi/2008/960/article/21), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/960/schedule/2))
 
 [^c830643]: Marginal citation: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37).

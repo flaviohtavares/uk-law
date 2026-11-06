@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Imposing conditions on public processions[^key-e7efce86d16fe1d4f903b354641d1401]
+## 73. Imposing conditions on public processions[^c-e7efce86d16fe1d4f903b354641d1401]
 
 *Extent: E+W+S*
 
-(1)[^key-ccdb607d6354dee6c6f6cea30cdd1378] Section 12 of the Public Order Act 1986 (imposing conditions on public processions) is amended as follows.
+(1)[^c-ccdb607d6354dee6c6f6cea30cdd1378] Section 12 of the Public Order Act 1986 (imposing conditions on public processions) is amended as follows.
 
-(2)[^key-ccdb607d6354dee6c6f6cea30cdd1378] In subsection (1)—
+(2)[^c-ccdb607d6354dee6c6f6cea30cdd1378] In subsection (1)—
 
 - (a) for the “or” at the end of paragraph (a) substitute—
 
@@ -34,7 +34,7 @@ summary: ''
   , and
 - (b) in the words following paragraph (b), after “disruption” insert “, impact”.
 
-(3)[^key-ccdb607d6354dee6c6f6cea30cdd1378] After subsection (2) insert—
+(3)[^c-ccdb607d6354dee6c6f6cea30cdd1378] After subsection (2) insert—
 
 > (2A) For the purposes of subsection (1)(a), the cases in which a public procession in England and Wales may result in serious disruption to the life of the community include, in particular, where—
 >
@@ -62,7 +62,7 @@ summary: ''
 > - (b) the likely duration of that impact on such persons, and
 > - (c) the likely intensity of that impact on such persons.
 
-(4)[^key-ccdb607d6354dee6c6f6cea30cdd1378] After subsection (11) insert—
+(4)[^c-ccdb607d6354dee6c6f6cea30cdd1378] After subsection (11) insert—
 
 > (12) The Secretary of State may by regulations amend any of subsections (2A) to (2C) for the purposes of making provision about the meaning for the purposes of this section of—
 >
@@ -84,15 +84,15 @@ summary: ''
 >
 > (15) A statutory instrument containing regulations under subsection (12) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-(5)[^key-242994f0abeb4d318a7d83d2d3cf5586] The Secretary of State must, before the end of the period of 2 years beginning with the day on which this section comes into force—
+(5)[^c-242994f0abeb4d318a7d83d2d3cf5586] The Secretary of State must, before the end of the period of 2 years beginning with the day on which this section comes into force—
 
 - (a) prepare and publish a report on the operation of the amendments to section 12 of the Public Order Act 1986 made by this section, and
 - (b) lay the report before Parliament.
 
 ## Annotations
 
-[^key-e7efce86d16fe1d4f903b354641d1401]: Commencement: S. 73 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e7efce86d16fe1d4f903b354641d1401]: Commencement: S. 73 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-ccdb607d6354dee6c6f6cea30cdd1378]: Commencement: [S. 73(1)-(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/73/1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/a))
+[^c-ccdb607d6354dee6c6f6cea30cdd1378]: Commencement: [S. 73(1)-(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/73/1) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(i)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/i) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/a))
 
-[^key-242994f0abeb4d318a7d83d2d3cf5586]: Commencement: [S. 73(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/73/5) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/b))
+[^c-242994f0abeb4d318a7d83d2d3cf5586]: Commencement: [S. 73(5)](https://www.legislation.gov.uk/ukpga/2022/32/section/73/5) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/b))

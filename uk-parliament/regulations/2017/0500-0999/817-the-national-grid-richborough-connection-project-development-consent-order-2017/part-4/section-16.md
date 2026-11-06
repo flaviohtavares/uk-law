@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Discharge of water[^key-cb9823dcfaecd087d8b6d5be6f7839ee]
+## 16. Discharge of water[^c-cb9823dcfaecd087d8b6d5be6f7839ee]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cb9823dcfaecd087d8b6d5be6f7839ee]: Commencement: Art. 16 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-cb9823dcfaecd087d8b6d5be6f7839ee]: Commencement: Art. 16 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
 [^f00017]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by the Water Act [2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), sections 36(2) and 99 subject to the transitional provisions contained in article 6 of, and Schedule 3 to, [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641). There are other amendments to section 106 which are not relevant to this Order.
 

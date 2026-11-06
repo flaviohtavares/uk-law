@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Custody of prisoner in transit, &c[^c19677171][^key-2545ad2aa83e4ce3b9ad2e8ee504e047]
+## 47. Custody of prisoner in transit, &c[^c19677171][^c-2545ad2aa83e4ce3b9ad2e8ee504e047]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ In this subsection “**constable**”, in relation to any part of the United Ki
 
 [^c19677171]: Modification: [S. 47](https://www.legislation.gov.uk/ukpga/2001/17/section/47) applied (with modifications) (E.W.) (15.8.2007) by [The International Tribunals (Sierra Leone) (Application of Provisions) Order 2007 (S.I. 2007/2140)](https://www.legislation.gov.uk/uksi/2007/2140), [art. 2](https://www.legislation.gov.uk/uksi/2007/2140/article/2)
 
-[^key-2545ad2aa83e4ce3b9ad2e8ee504e047]: Modification: [Ss. 42-48](https://www.legislation.gov.uk/ukpga/2001/17/section/42) applied (with modifications) (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [33(3)](https://www.legislation.gov.uk/uksi/2018/187/article/33/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))
+[^c-2545ad2aa83e4ce3b9ad2e8ee504e047]: Modification: [Ss. 42-48](https://www.legislation.gov.uk/ukpga/2001/17/section/42) applied (with modifications) (8.3.2018) by [The United Nations (International Residual Mechanism for Criminal Tribunals) Order 2018 (S.I. 2018/187)](https://www.legislation.gov.uk/uksi/2018/187), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/187/article/1/1), [33(3)](https://www.legislation.gov.uk/uksi/2018/187/article/33/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/187/article/3))

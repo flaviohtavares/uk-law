@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Settled land.[^key-5587dfaef02f633bca7da0fff0b27611]
+## 87. Settled land.[^c-5587dfaef02f633bca7da0fff0b27611]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The classes of works specified in Part II of Schedule 3 to the [^c12918301]Settl
 
 ## Annotations
 
-[^key-5587dfaef02f633bca7da0fff0b27611]: Modification: S. 87 applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
+[^c-5587dfaef02f633bca7da0fff0b27611]: Modification: S. 87 applied (Isles of Scilly) (with modifications) (2.10.2013) by [The Town and Country Planning (Isles of Scilly) Order 2013 (S.I. 2013/2148)](https://www.legislation.gov.uk/uksi/2013/2148), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/1), [3](https://www.legislation.gov.uk/uksi/2013/2148/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/2148/schedule/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2148/article/1/2))
 
 [^c12918301]: Marginal citation: [1925 c.18](https://www.legislation.gov.uk/ukpga/1925/18).

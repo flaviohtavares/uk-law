@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 128(2), (3), (4) and (5), 129(2), 141(1) and (2), and 166(6) of the Education and Skills Act 2008[^f00001]:
 
-## 1. Citation, commencement, and interpretation[^key-6b6b35f6a71dac4e0520da3f5c5719da]
+## 1. Citation, commencement, and interpretation[^c-6b6b35f6a71dac4e0520da3f5c5719da]
 
 (1) These Regulations may be cited as the Independent Educational Provision in England (Prohibition on Participation in Management) Regulations 2014 and come into force on 1st September 2014.
 
@@ -58,7 +58,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 - “independent school” includes an alternative provision Academy that is not an independent school; and
 - “section 128 direction” means a direction given under section 128 of the 2008 Act.
 
-## 2. Prescribed grounds for a section 128 direction[^key-0a26b0ef8b6ca34463f649cd0feeace2]
+## 2. Prescribed grounds for a section 128 direction[^c-0a26b0ef8b6ca34463f649cd0feeace2]
 
 (1) The prescribed grounds on which a section 128 direction may be given in respect of a person are that—
 
@@ -73,7 +73,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (3) References in paragraph (1) to a conviction include references to—
 
-- (a) a conviction of an offence falling within section 308(3)(a) of the Sentencing Code[^key-55223f8a78983f5f4473e172879d8d37]; and
+- (a) a conviction of an offence falling within section 308(3)(a) of the Sentencing Code[^c-55223f8a78983f5f4473e172879d8d37]; and
 - (b) a conviction of a service offence within the meaning of the Armed Forces Act 2006[^f00005]including anything that under section 376(1) and (2) of that Act is to be treated as a conviction.
 
 (4) For the purposes of paragraph (1) a person is subject to a “relevant finding” in respect of a relevant offence if—
@@ -97,7 +97,7 @@ The Secretary of State for Education makes the following Regulations in exercise
 
 (8) For the purposes of paragraph (7) P commits an offence under the law in force in a country outside the United Kingdom if P commits an act that is punishable under the law in force in that country however that act is described in that law.
 
-## 3. Procedure for giving a section 128 direction[^key-a1bfa42a6094d40f8cb477276f94816c]
+## 3. Procedure for giving a section 128 direction[^c-a1bfa42a6094d40f8cb477276f94816c]
 
 (1) Before giving a section 128 direction in respect of a person the appropriate authority must give the person the opportunity to make representations as to why the appropriate authority should not give the direction.
 
@@ -118,7 +118,7 @@ the appropriate authority may allow the person such further period to make repre
 
 (7) If a section 128 direction is given in respect of a person the appropriate authority must take all reasonable steps to notify the person of that fact.
 
-## 4. Cases in which appropriate authority may vary or revoke a section 128 direction[^key-fbf6267393bbbb6e3a21309f2906b00f]
+## 4. Cases in which appropriate authority may vary or revoke a section 128 direction[^c-fbf6267393bbbb6e3a21309f2906b00f]
 
 The prescribed cases in which the appropriate authority may vary or revoke a section 128 direction are where—
 
@@ -128,7 +128,7 @@ The prescribed cases in which the appropriate authority may vary or revoke a sec
 
 and the appropriate authority considers that it is appropriate to vary or revoke the direction.
 
-## 5. Grounds on which variation or revocation of a section 128 direction may be sought[^key-e75d9de4132ed41f464aa515ef5f6e20]
+## 5. Grounds on which variation or revocation of a section 128 direction may be sought[^c-e75d9de4132ed41f464aa515ef5f6e20]
 
 (1) The prescribed grounds on which a person subject to a section 128 direction may seek to have it varied or revoked are that—
 
@@ -143,7 +143,7 @@ and the appropriate authority considers that it is appropriate to vary or revoke
 
 (3) For the purposes of this regulation a section 128 direction is given on the grounds of a conviction, caution, finding or conduct if the ground in regulation 2(1) is met by virtue of the conviction, caution, finding or conduct (as the case may be).
 
-## 6. Appeals: restriction on Tribunal’s power to entertain appeal[^key-43608047bdd02f10c88c3c0f2c216b17]
+## 6. Appeals: restriction on Tribunal’s power to entertain appeal[^c-43608047bdd02f10c88c3c0f2c216b17]
 
 (1) This regulation applies in relation to a section 128 direction which is given on the grounds of a conviction for an offence.
 
@@ -151,7 +151,7 @@ and the appropriate authority considers that it is appropriate to vary or revoke
 
 (3) For the purposes of paragraph (1) a section 128 direction is given on the grounds of a conviction for an offence if the ground in regulation 2(1) is met by virtue of a conviction for the offence.
 
-## 7. Appeals: Tribunal’s powers[^key-4474f1400c18ed535ce58721b9c55b26]
+## 7. Appeals: Tribunal’s powers[^c-4474f1400c18ed535ce58721b9c55b26]
 
 (1) This regulation applies where—
 
@@ -165,7 +165,7 @@ and the appropriate authority considers that it is appropriate to vary or revoke
 - (a) any information relevant to the decision to give a direction, or not to vary or revoke a direction, which the appropriate authority did not have at the time the decision was made;
 - (b) any evidence of a material change of circumstances of the person concerned occurring since the decision to give a direction or not to vary or revoke a direction was made.
 
-## 8. Directions given under section 142 of the 2002 Act[^key-9e0bca0d82601d969690f602bdb3588a]
+## 8. Directions given under section 142 of the 2002 Act[^c-9e0bca0d82601d969690f602bdb3588a]
 
 (1) The prescribed grounds for the purposes of section 141(1)(a) of the 2008 Act on which a direction under section 142 of the 2002 Act (prohibition from teaching, etc.)[^f00008] was given in relation to the person are grounds relating to the person’s misconduct.
 
@@ -205,32 +205,32 @@ Regulation 8 sets out the circumstances in which a person subject to a direction
 
 [^f00001]: Footnote: [2008 c. 25](https://www.legislation.gov.uk/ukpga/2008/25). For the meaning of “prescribed” and “regulations” see section 168(1). Chapter 1 of Part 4 (which includes sections 128 and 129) applies to alternative provision Academies that are not independent schools as it applies to independent schools. See section 93A, inserted by paragraph 22 of the Schedule to, and subject to the transitional provision at Article 3 of, the [Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (2012/976)](https://www.legislation.gov.uk/uksi/2012/976).
 
-[^key-6b6b35f6a71dac4e0520da3f5c5719da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
+[^c-6b6b35f6a71dac4e0520da3f5c5719da]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
 
 [^f00002]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32). Chapter 1 of Part 10 applies to alternative provision Academies that are not independent schools as it applies to independent schools. See section 156AA, inserted by paragraph 13 of the Schedule to [Alternative Provision Academies (Consequential Amendments to Acts) (England) Order 2012 (2012/976)](https://www.legislation.gov.uk/uksi/2012/976).
 
 [^f00003]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53). Section 8A was inserted by section 49 of, and paragraphs 1 and 3 of Schedule 10 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4). Subsection (2) of section 8A was amended by sections 135 and 141 of, and paragraphs 1 and 2 of Schedule 24 and paragraphs 1 and 8 of Schedule 25 to, the Legal Aid Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-0a26b0ef8b6ca34463f649cd0feeace2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/1977/regulation/2) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
+[^c-0a26b0ef8b6ca34463f649cd0feeace2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/1977/regulation/2) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
 
-[^key-55223f8a78983f5f4473e172879d8d37]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/2/3/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 423](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/423) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-55223f8a78983f5f4473e172879d8d37]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/2/3/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 423](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/423) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00005]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52)
 
 [^f00006]: Footnote: Schedule 2 was inserted by section 49 of, and paragraphs 1 and 6 of Schedule 10 to, the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4).
 
-[^key-a1bfa42a6094d40f8cb477276f94816c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1977/regulation/3) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
+[^c-a1bfa42a6094d40f8cb477276f94816c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/1977/regulation/3) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
 
-[^key-fbf6267393bbbb6e3a21309f2906b00f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1977/regulation/4) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
+[^c-fbf6267393bbbb6e3a21309f2906b00f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1977/regulation/4) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
 
-[^key-e75d9de4132ed41f464aa515ef5f6e20]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/1977/regulation/5) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
+[^c-e75d9de4132ed41f464aa515ef5f6e20]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/1977/regulation/5) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023). “Protected cautions” and “protected convictions” are defined in regulation 2A, which was inserted by Articles 2 and 4 of the [Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 (Amendment) (England and Wales) Order 2013 (2013/1198)](https://www.legislation.gov.uk/uksi/2013/1198).
 
-[^key-43608047bdd02f10c88c3c0f2c216b17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1977/regulation/6) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
+[^c-43608047bdd02f10c88c3c0f2c216b17]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1977/regulation/6) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
 
-[^key-4474f1400c18ed535ce58721b9c55b26]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1977/regulation/7) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
+[^c-4474f1400c18ed535ce58721b9c55b26]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/1977/regulation/7) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
 
-[^key-9e0bca0d82601d969690f602bdb3588a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1977/regulation/8) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
+[^c-9e0bca0d82601d969690f602bdb3588a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/1977/regulation/8) in force at 1.9.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1977/regulation/1/1)
 
 [^f00008]: Footnote: Section 142 was repealed in part by section 63(2) of, and Schedule 10 to, the Safeguarding Vulnerable Groups Act 2006 on 12 October 2009. Article 4 of the Safeguarding Vulnerable Groups Act 2006 (Commencement No 6, Transitional Provisions and Savings) Order 2009 saves the operation of section 142 in relation to directions to prohibit persons from participating in the management of an independent school on grounds of misconduct.

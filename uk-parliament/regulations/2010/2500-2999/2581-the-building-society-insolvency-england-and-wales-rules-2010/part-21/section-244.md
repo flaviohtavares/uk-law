@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 244. Notice of declaration[^key-59498971ebf3b5c206cc9f2fa52bcd0c]
+## 244. Notice of declaration[^c-59498971ebf3b5c206cc9f2fa52bcd0c]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-59498971ebf3b5c206cc9f2fa52bcd0c]: Commencement: Rule 244 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-59498971ebf3b5c206cc9f2fa52bcd0c]: Commencement: Rule 244 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00087]: Footnote: Paragraph (3)(b) was substituted by [S.I. 2002/1307](https://www.legislation.gov.uk/uksi/2002/1307).
 

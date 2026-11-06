@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Records of resolutions and meetings of classes of members[^key-b07204dd869cac2d3d3795c50389fa9b]
+## 45. Records of resolutions and meetings of classes of members[^c-b07204dd869cac2d3d3795c50389fa9b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Regulations 41 to 44 apply, with any necessary modifications, to the resolutions
 
 ## Annotations
 
-[^key-b07204dd869cac2d3d3795c50389fa9b]: Commencement: Reg. 45 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-b07204dd869cac2d3d3795c50389fa9b]: Commencement: Reg. 45 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

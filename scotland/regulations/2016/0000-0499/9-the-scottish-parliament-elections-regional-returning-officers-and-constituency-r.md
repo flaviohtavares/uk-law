@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The Scottish Parliament Elections (Regional Returning Officers and Constituency Returning Officers) Order 2016 (revoked)[^key-70f224673bad168af048694a2339a8d2]
+The Scottish Parliament Elections (Regional Returning Officers and Constituency Returning Officers) Order 2016 (revoked)[^c-70f224673bad168af048694a2339a8d2]
 
 Made
 
@@ -46,41 +46,41 @@ Coming into force
 
 1st March 2016
 
-[^key-70f224673bad168af048694a2339a8d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70f224673bad168af048694a2339a8d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-70f224673bad168af048694a2339a8d2]
+## 1. Citation and commencement[^c-70f224673bad168af048694a2339a8d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-70f224673bad168af048694a2339a8d2]
+## 2. Interpretation[^c-70f224673bad168af048694a2339a8d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regional returning officers[^key-70f224673bad168af048694a2339a8d2]
+## 3. Regional returning officers[^c-70f224673bad168af048694a2339a8d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Constituency returning officers[^key-70f224673bad168af048694a2339a8d2]
+## 4. Constituency returning officers[^c-70f224673bad168af048694a2339a8d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-70f224673bad168af048694a2339a8d2]
+## 5. Revocation[^c-70f224673bad168af048694a2339a8d2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-70f224673bad168af048694a2339a8d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70f224673bad168af048694a2339a8d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REGIONAL RETURNING OFFICERS FOR THE SCOTTISH PARLIAMENT REGIONS[^key-70f224673bad168af048694a2339a8d2]
+## SCHEDULE 1 — REGIONAL RETURNING OFFICERS FOR THE SCOTTISH PARLIAMENT REGIONS[^c-70f224673bad168af048694a2339a8d2]
 
 Article 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CONSTITUENCY RETURNING OFFICERS FOR SCOTTISH PARLIAMENT CONSTITUENCIES SITUATED IN MORE THAN ONE LOCAL GOVERNMENT AREA[^key-70f224673bad168af048694a2339a8d2]
+## SCHEDULE 2 — CONSTITUENCY RETURNING OFFICERS FOR SCOTTISH PARLIAMENT CONSTITUENCIES SITUATED IN MORE THAN ONE LOCAL GOVERNMENT AREA[^c-70f224673bad168af048694a2339a8d2]
 
 Article 4
 
@@ -88,8 +88,8 @@ Article 4
 
 **May not be in force at this date. Check the source.**
 
-[^key-70f224673bad168af048694a2339a8d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-70f224673bad168af048694a2339a8d2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-70f224673bad168af048694a2339a8d2]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/9) revoked (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The Scottish Parliament Elections (Regional Returning Officers and Constituency Returning Officers) Order 2025 (S.S.I. 2025/287)](https://www.legislation.gov.uk/ssi/2025/287), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/287/article/1/1), [4](https://www.legislation.gov.uk/ssi/2025/287/article/4)
+[^c-70f224673bad168af048694a2339a8d2]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2016/9) revoked (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The Scottish Parliament Elections (Regional Returning Officers and Constituency Returning Officers) Order 2025 (S.S.I. 2025/287)](https://www.legislation.gov.uk/ssi/2025/287), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2025/287/article/1/1), [4](https://www.legislation.gov.uk/ssi/2025/287/article/4)

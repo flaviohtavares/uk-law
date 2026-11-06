@@ -35,120 +35,120 @@ on integrated farm statistics and repealing Regulations (EC) No 1166/2008 and (E
 
 (Text with EEA relevance) (revoked)
 
-[^key-0207d84ed9d185ebd1fdfa5c4cabca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0207d84ed9d185ebd1fdfa5c4cabca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 1. Subject matter[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Coverage[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 2. Definitions[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Data sources and methods[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 3. Coverage[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Core structural data[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 4. Data sources and methods[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Frame extension[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 5. Core structural data[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Module data[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 6. Frame extension[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Technical specification concerning the module data[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 7. Module data[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Ad-hoc data[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 8. Technical specification concerning the module data[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Reference period[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 9. Ad-hoc data[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Quality[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 10. Reference period[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Data and metadata transmission and deadlines[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 11. Quality[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Union contribution[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 12. Data and metadata transmission and deadlines[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Financial envelope[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 13. Union contribution[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Protection of the financial interests of the Union[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 14. Financial envelope[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Exercise of the delegation[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 15. Protection of the financial interests of the Union[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Committee procedure[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 16. Exercise of the delegation[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Report from the Commission[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 17. Committee procedure[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Derogations[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 18. Report from the Commission[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 20. Repeal[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 19. Derogations[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 21. Entry into force[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 20. Repeal[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0207d84ed9d185ebd1fdfa5c4cabca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I — Livestock unit coefficients[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## Article 21. Entry into force[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+[^c-0207d84ed9d185ebd1fdfa5c4cabca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I — Livestock unit coefficients[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Core structural data: Variables[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## ANNEX II[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Topics and detailed topics within the module data[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
+## ANNEX III — Core structural data: Variables[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-0207d84ed9d185ebd1fdfa5c4cabca75]
-
-[^key-0207d84ed9d185ebd1fdfa5c4cabca75] Precision requirements
+## ANNEX IV — Topics and detailed topics within the module data[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0207d84ed9d185ebd1fdfa5c4cabca75] Precision table
+## ANNEX V[^c-0207d84ed9d185ebd1fdfa5c4cabca75]
+
+[^c-0207d84ed9d185ebd1fdfa5c4cabca75] Precision requirements
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-0207d84ed9d185ebd1fdfa5c4cabca75] Precision table
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0207d84ed9d185ebd1fdfa5c4cabca75]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 292](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/292); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0207d84ed9d185ebd1fdfa5c4cabca75]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 292](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/292); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

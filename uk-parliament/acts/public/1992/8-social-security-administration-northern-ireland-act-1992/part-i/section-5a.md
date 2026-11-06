@@ -34,9 +34,9 @@ summary: ''
   including information or evidence not relating to the claims or benefit in question;
 - (c) the recording by a relevant authority of information or evidence relating to social security or work matters supplied to, or obtained by, the authority and the holding by the authority of such information or evidence (whether as supplied or obtained or as recorded);
 - (d) the giving of information or advice with respect to social security or work matters by a relevant authority to persons making, or who have made, claims for a relevant benefit.
-- (e)[^key-881759f1b146f0292d1926ee68f3facc] the verification by a relevant authority of information or evidence supplied to or obtained by the authority in connection with a claim for or an award of a relevant benefit.
+- (e)[^c-881759f1b146f0292d1926ee68f3facc] the verification by a relevant authority of information or evidence supplied to or obtained by the authority in connection with a claim for or an award of a relevant benefit.
 
-(3) In paragraphs (b) , (d) and (e)[^key-9ba424a4ddf08faf88e71357164ec37a] of subsection (2) above—
+(3) In paragraphs (b) , (d) and (e)[^c-9ba424a4ddf08faf88e71357164ec37a] of subsection (2) above—
 
 - (a) references to claims for a relevant benefit are to such claims whether made as mentioned in subsection (1) above or not; and
 - (b) references to persons who have made such claims include persons to whom awards of benefit have been made on the claims.
@@ -62,9 +62,9 @@ summary: ''
 
 [^c18367201]: Textual amendment: Words in s. 5A(2) inserted (24.11.2002) by [Social Security Act (Northern Ireland) 2002 (c. 10)](https://www.legislation.gov.uk/nia/2002/10), [s. 8(1)](https://www.legislation.gov.uk/nia/2002/10/section/8/1), [Sch. 1 para. 8(a)](https://www.legislation.gov.uk/nia/2002/10/schedule/1/paragraph/8/a); [S.R. 2002/358](https://www.legislation.gov.uk/nisr/2002/358), [art. 2](https://www.legislation.gov.uk/nisr/2002/358/article/2)
 
-[^key-881759f1b146f0292d1926ee68f3facc]: Textual amendment: S. 5A(2)(e) added (29.6.2007) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 38(2)(a)](https://www.legislation.gov.uk/nia/2007/2/section/38/2/a), [60(2)(a)](https://www.legislation.gov.uk/nia/2007/2/section/60/2/a)
+[^c-881759f1b146f0292d1926ee68f3facc]: Textual amendment: S. 5A(2)(e) added (29.6.2007) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 38(2)(a)](https://www.legislation.gov.uk/nia/2007/2/section/38/2/a), [60(2)(a)](https://www.legislation.gov.uk/nia/2007/2/section/60/2/a)
 
-[^key-9ba424a4ddf08faf88e71357164ec37a]: Textual amendment: Words in s. 5A(3) substituted (29.6.2007) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 38(2)(b)](https://www.legislation.gov.uk/nia/2007/2/section/38/2/b), [60(2)(a)](https://www.legislation.gov.uk/nia/2007/2/section/60/2/a)
+[^c-9ba424a4ddf08faf88e71357164ec37a]: Textual amendment: Words in s. 5A(3) substituted (29.6.2007) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [ss. 38(2)(b)](https://www.legislation.gov.uk/nia/2007/2/section/38/2/b), [60(2)(a)](https://www.legislation.gov.uk/nia/2007/2/section/60/2/a)
 
 [^M_F_d3fa0123-2eab-466b-c122-f35cb9816a8a]: Textual amendment: Words in s. 5A(6)(a) inserted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [s. 68(1)(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/1/2), [Sch. 3 para. 29(a)](https://www.legislation.gov.uk/nia/2000/4/schedule/3/paragraph/29/a) (with [s. 66(6)](https://www.legislation.gov.uk/nia/2000/4/section/66/6)); [S.R. 2000/358](https://www.legislation.gov.uk/nisr/2000/358), [art. 3](https://www.legislation.gov.uk/nisr/2000/358/article/3), [Sch.](https://www.legislation.gov.uk/nisr/2000/358/schedule)
 

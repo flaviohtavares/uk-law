@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6C. Admission to the scheme[^key-a847c1b9d28d10c955d2fdace582a5df]
+## 6C. Admission to the scheme[^c-a847c1b9d28d10c955d2fdace582a5df]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a847c1b9d28d10c955d2fdace582a5df]: Textual amendment: [Regs. 6A-6G](https://www.legislation.gov.uk/uksi/2001/838/regulation/6A) inserted (1.6.2002) by [The Climate Change Levy (General) (Amendment) Regulations 2002 (S.I. 2002/1152)](https://www.legislation.gov.uk/uksi/2002/1152), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1152/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/1152/regulation/2)
+[^c-a847c1b9d28d10c955d2fdace582a5df]: Textual amendment: [Regs. 6A-6G](https://www.legislation.gov.uk/uksi/2001/838/regulation/6A) inserted (1.6.2002) by [The Climate Change Levy (General) (Amendment) Regulations 2002 (S.I. 2002/1152)](https://www.legislation.gov.uk/uksi/2002/1152), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1152/regulation/1), [2](https://www.legislation.gov.uk/uksi/2002/1152/regulation/2)

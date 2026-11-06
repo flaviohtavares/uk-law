@@ -37,53 +37,53 @@ concerning a baseline study on the prevalence of salmonella in laying flocks of 
 
 (2004/665/EC) (revoked)
 
-[^key-1fee5bfb1547075be36c5ea6b56a395a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fee5bfb1547075be36c5ea6b56a395a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Objective of the study and general provisions[^key-1fee5bfb1547075be36c5ea6b56a395a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Sampling frame[^key-1fee5bfb1547075be36c5ea6b56a395a]
+## Article 1. Objective of the study and general provisions[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Detection of Salmonella spp. and serotyping[^key-1fee5bfb1547075be36c5ea6b56a395a]
+## Article 2. Sampling frame[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Collection of data, evaluation and reporting[^key-1fee5bfb1547075be36c5ea6b56a395a]
+## Article 3. Detection of Salmonella spp. and serotyping[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Technical specifications[^key-1fee5bfb1547075be36c5ea6b56a395a]
+## Article 4. Collection of data, evaluation and reporting[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Scope of Community financial assistance[^key-1fee5bfb1547075be36c5ea6b56a395a]
+## Article 5. Technical specifications[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Conditions of Community financial assistance[^key-1fee5bfb1547075be36c5ea6b56a395a]
+## Article 6. Scope of Community financial assistance[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Conversion rate for applications in national currency[^key-1fee5bfb1547075be36c5ea6b56a395a]
+## Article 7. Conditions of Community financial assistance[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Application[^key-1fee5bfb1547075be36c5ea6b56a395a]
+## Article 8. Conversion rate for applications in national currency[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-1fee5bfb1547075be36c5ea6b56a395a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-1fee5bfb1547075be36c5ea6b56a395a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-1fee5bfb1547075be36c5ea6b56a395a]
+## Article 9. Application[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Certified financial report on the implementation of a baseline study on the prevalence of Salmonella spp. in laying flocks of Gallus gallus[^key-1fee5bfb1547075be36c5ea6b56a395a]
+**Article 10.**[^c-1fee5bfb1547075be36c5ea6b56a395a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-1fee5bfb1547075be36c5ea6b56a395a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-1fee5bfb1547075be36c5ea6b56a395a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II — Certified financial report on the implementation of a baseline study on the prevalence of Salmonella spp. in laying flocks of Gallus gallus[^c-1fee5bfb1547075be36c5ea6b56a395a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -91,10 +91,10 @@ concerning a baseline study on the prevalence of salmonella in laying flocks of 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1fee5bfb1547075be36c5ea6b56a395a]Certificate by the beneficiary
+[^c-1fee5bfb1547075be36c5ea6b56a395a]Certificate by the beneficiary
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1fee5bfb1547075be36c5ea6b56a395a]: Textual amendment: Decision revoked (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/740/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fee5bfb1547075be36c5ea6b56a395a]: Textual amendment: Decision revoked (31.12.2020) by [The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/740)](https://www.legislation.gov.uk/uksi/2019/740), [regs. 1](https://www.legislation.gov.uk/uksi/2019/740/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/740/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where a person has been declared by others to be a candidate at a parliamentary election without his consent, nothing in this Part of this Act shall be construed to impose any liability on that person, unless he has afterwards given his assent to the declaration or has been nominated.
 
-(2)[^c14498111][^key-a2e812a6bbe8a06bec4a4a723c6ab516] Nothing in this Part makes it illegal for an employer to permit parliamentary electors or their proxies to absent themselves from his employment for a reasonable time for the purpose of voting at the poll at a parliamentary election without having any deduction from their salaries or wages on account of their absence, if the permission—
+(2)[^c14498111][^c-a2e812a6bbe8a06bec4a4a723c6ab516] Nothing in this Part makes it illegal for an employer to permit parliamentary electors or their proxies to absent themselves from his employment for a reasonable time for the purpose of voting at the poll at a parliamentary election without having any deduction from their salaries or wages on account of their absence, if the permission—
 
 - (a) is (so far as practicable without injury to the employer’s business) given equally to all persons alike who are at the time in his employment, and
 - (b) is not given with a view to inducing any person to record his vote for any particular candidate at the election, and
@@ -50,4 +50,4 @@ but this subsection shall not be construed as making illegal any act which would
 
     S. 117(2) applied (with modifications) (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 6(2)](https://www.legislation.gov.uk/uksi/2004/1962/article/6/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2004/1962/schedule/2/part/2)
 
-[^key-a2e812a6bbe8a06bec4a4a723c6ab516]: Modification: S. 117(2) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/34) (with [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/1/3))
+[^c-a2e812a6bbe8a06bec4a4a723c6ab516]: Modification: S. 117(2) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/34) (with [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/uksi/2016/219/schedule/1/paragraph/1/3))

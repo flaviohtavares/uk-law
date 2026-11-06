@@ -26,7 +26,7 @@ summary: ''
 
   section 28 (duty to keep accounting records),
 
-  section 32(1), (2), (3)(a), (b) and (c) and (4) to (6)[^c14516101] [^key-e045e8576bd3ec8b396debdade4f09c0]... and sections 33 to 37 (annual return, accounts and audit),
+  section 32(1), (2), (3)(a), (b) and (c) and (4) to (6)[^c14516101] [^c-e045e8576bd3ec8b396debdade4f09c0]... and sections 33 to 37 (annual return, accounts and audit),
 - [^c14516111]sections 37A to 37E (investigation of financial affairs),
 - sections 38 to 42 (members’ superannuation schemes),
 
@@ -42,7 +42,7 @@ summary: ''
 
 [^c14516101]: Textual amendment: Words in s. 131(1) substituted (1.1.1994) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2), [Sch. 8 para. 64(a)](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/64/a); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(3)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/3), [Sch.3](https://www.legislation.gov.uk/uksi/1993/1908/schedule/3)
 
-[^key-e045e8576bd3ec8b396debdade4f09c0]: Textual amendment: Words in s. 131(1) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 80(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/80/5), [159(2)(m)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/m) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/13))
+[^c-e045e8576bd3ec8b396debdade4f09c0]: Textual amendment: Words in s. 131(1) omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 80(5)](https://www.legislation.gov.uk/ukpga/2025/36/section/80/5), [159(2)(m)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/m) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/13))
 
 [^c14516111]: Textual amendment: Words in s. 131(1) inserted (30.8.1993) by [1993 c. 19](https://www.legislation.gov.uk/ukpga/1993/19), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1993/19/section/49/2), [Sch. 8 para. 64(b)](https://www.legislation.gov.uk/ukpga/1993/19/schedule/8/paragraph/64/b); [S.I. 1993/1908](https://www.legislation.gov.uk/uksi/1993/1908), [art. 2(1)](https://www.legislation.gov.uk/uksi/1993/1908/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1993/1908/schedule/1)
 

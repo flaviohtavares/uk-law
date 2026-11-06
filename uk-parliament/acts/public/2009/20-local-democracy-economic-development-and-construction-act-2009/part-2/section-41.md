@@ -24,8 +24,8 @@ summary: ''
 
 (1) A person appointed under this Chapter may be—
 
-- (a) a member of staff of the Auditor General for Wales[^key-aff9dab0ed9fcbc9b15f792f1f98acb5];
-- (b) an individual who is not a member of staff of the Auditor General for Wales[^key-8ab4de13418a2636fe58590a015c5477];
+- (a) a member of staff of the Auditor General for Wales[^c-aff9dab0ed9fcbc9b15f792f1f98acb5];
+- (b) an individual who is not a member of staff of the Auditor General for Wales[^c-8ab4de13418a2636fe58590a015c5477];
 - (c) a firm.
 
 (2) The following may not be appointed under this Chapter in relation to an entity—
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aff9dab0ed9fcbc9b15f792f1f98acb5]: Textual amendment: Words in s. 41(1)(a) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 103(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/103/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-aff9dab0ed9fcbc9b15f792f1f98acb5]: Textual amendment: Words in s. 41(1)(a) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 103(a)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/103/a); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
 
-[^key-8ab4de13418a2636fe58590a015c5477]: Textual amendment: Words in s. 41(1)(b) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 103(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/103/b); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)
+[^c-8ab4de13418a2636fe58590a015c5477]: Textual amendment: Words in s. 41(1)(b) substituted (1.4.2015) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 12 para. 103(b)](https://www.legislation.gov.uk/ukpga/2014/2/schedule/12/paragraph/103/b); [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(x)](https://www.legislation.gov.uk/uksi/2015/841/article/3/x) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/841/schedule/paragraph/10)) (as amended (27.6.2016) by [S.I. 2016/675](https://www.legislation.gov.uk/uksi/2016/675), art. 2)

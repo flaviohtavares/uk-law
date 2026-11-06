@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Application[^key-c602c6ca54bd3acf13801c2b0642a217]
+## 3. Application[^c-c602c6ca54bd3acf13801c2b0642a217]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Regulations apply to the accounts and reports (as specified in regulations 4
 
 ## Annotations
 
-[^key-c602c6ca54bd3acf13801c2b0642a217]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1994/1983/regulation/3) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)
+[^c-c602c6ca54bd3acf13801c2b0642a217]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1994/1983/regulation/3) in force at 1.9.1994, see [reg. 1](https://www.legislation.gov.uk/uksi/1994/1983/regulation/1)

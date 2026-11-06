@@ -40,15 +40,15 @@ Made
 
 The Department for Communities makes the following Order in exercise of the powers conferred by section 90(2) of the Coronavirus Act 2020[^f00001].
 
-## 1. Citation[^key-c172329be3d5accde8564f7b94b28d7c]
+## 1. Citation[^c-c172329be3d5accde8564f7b94b28d7c]
 
 This Order may be cited as the Coronavirus Act 2020 (Extension of Modifications of Requirements Regarding Medical Certificates for Cremations) (No. 2) Order (Northern Ireland) 2022.
 
-## 2. Extension of expiry date[^key-42b44a645bbe0aa72140575e7d686503]
+## 2. Extension of expiry date[^c-42b44a645bbe0aa72140575e7d686503]
 
 Section 21(1) to (6) of the Coronavirus Act 2020 do not expire at the time when they would otherwise expire and expire instead on 24 September 2022.
 
-## 3. Revocation[^key-9589bdadf0b4e2c21bfa6ca7b0ec8dc7]
+## 3. Revocation[^c-9589bdadf0b4e2c21bfa6ca7b0ec8dc7]
 
 The Coronavirus Act 2020 (Extension of Modifications of Requirements Regarding Medical Certificates for Cremations) Order (Northern Ireland) 2022[^f00002] is revoked.
 
@@ -72,10 +72,10 @@ The Coronavirus Act 2020 (Extension of Modifications of Requirements Regarding M
 
 [^f00001]: Footnote: [2020 c 7](https://www.legislation.gov.uk/ukpga/2020/7); section 90(2) receives its power to revoke [S.R. 2022 No. 130](https://www.legislation.gov.uk/nisr/2022/130) by virtue of sections 14 and 24(3) of the Interpretation Act 1978
 
-[^key-c172329be3d5accde8564f7b94b28d7c]: Commencement: Art. 1 in operation at made date
+[^c-c172329be3d5accde8564f7b94b28d7c]: Commencement: Art. 1 in operation at made date
 
-[^key-42b44a645bbe0aa72140575e7d686503]: Commencement: Art. 2 in operation at made date
+[^c-42b44a645bbe0aa72140575e7d686503]: Commencement: Art. 2 in operation at made date
 
-[^key-9589bdadf0b4e2c21bfa6ca7b0ec8dc7]: Commencement: Art. 3 in operation at made date
+[^c-9589bdadf0b4e2c21bfa6ca7b0ec8dc7]: Commencement: Art. 3 in operation at made date
 
 [^f00002]: Footnote: [S.R. 2022 No. 130](https://www.legislation.gov.uk/nisr/2022/130)

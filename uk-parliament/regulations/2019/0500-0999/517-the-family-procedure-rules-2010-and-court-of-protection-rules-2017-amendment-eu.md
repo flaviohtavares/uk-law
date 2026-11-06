@@ -60,7 +60,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 1 — Introduction
 
-### 1. Citation, commencement, extent and interpretation[^key-5048c281bf65203fe30de5a68930244e]
+### 1. Citation, commencement, extent and interpretation[^c-5048c281bf65203fe30de5a68930244e]
 
 (1) These Regulations may be cited as the Family Procedure Rules 2010 and Court of Protection Rules 2017 (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
@@ -73,11 +73,11 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 2 — The Family Procedure Rules 2010: amendment and transitional and saving provision
 
-### 2. Amendment of the Family Procedure Rules 2010[^key-344e1a659df03f441946dc0635990995]
+### 2. Amendment of the Family Procedure Rules 2010[^c-344e1a659df03f441946dc0635990995]
 
 The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 
-### 3. Amendment of Part 2[^key-05460267be45018548e0eb57af39efc6]
+### 3. Amendment of Part 2[^c-05460267be45018548e0eb57af39efc6]
 
 (1) Part 2 (application and interpretation of the rules) [^c23627151] is amended as follows.
 
@@ -89,13 +89,13 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 - (d) omit the definition of “the Maintenance Regulation”; and
 - (e) omit the definition of “the Service Regulation”.
 
-### 4. Amendment of Part 3A[^key-7b01006eb53657aeabc4f34c28530d81]
+### 4. Amendment of Part 3A[^c-7b01006eb53657aeabc4f34c28530d81]
 
 (1) Part 3A (vulnerable persons: participation in proceedings and giving evidence) is amended as follows.
 
 (2) In rule 3A.1, in the definition of “child”, in paragraph (b) of that definition omit “Article 11 of the Council Regulation,”.
 
-### 5. Amendment of Part 5[^key-c743bfbd4c17d1875300e5e0938e85b4]
+### 5. Amendment of Part 5[^c-c743bfbd4c17d1875300e5e0938e85b4]
 
 (1) Part 5 (forms and start of proceedings) [^c23627161] is amended as follows.
 
@@ -106,7 +106,7 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 - (a) in paragraph (3), omit “under Article 56 of the Maintenance Regulation, or”; and
 - (b) in the first set of words in parentheses at the end of the rule, omit “and the Maintenance Regulation”.
 
-### 6. Amendment of Part 6[^key-fac69b30fb718905117a41e517d8cb89]
+### 6. Amendment of Part 6[^c-fac69b30fb718905117a41e517d8cb89]
 
 (1) Part 6 (service) is amended as follows.
 
@@ -131,13 +131,13 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 
 (8) In rule 6.47, omit the words in parentheses at the end of the rule.
 
-### 7. Amendment of Part 7[^key-a9fc464e91fbf47d0ad4ac7c3e92d994]
+### 7. Amendment of Part 7[^c-a9fc464e91fbf47d0ad4ac7c3e92d994]
 
 (1) Part 7 (procedure for applications in matrimonial and civil partnership proceedings) is amended as follows.
 
 (2) In rule 7.27, omit paragraphs (2) to (4).
 
-### 8. Amendment of Part 9[^key-ab336dd9b59b9080c064b73f9622a67d]
+### 8. Amendment of Part 9[^c-ab336dd9b59b9080c064b73f9622a67d]
 
 (1) Part 9 (applications for a financial remedy) [^c23627171] is amended as follows.
 
@@ -180,7 +180,7 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 - (b) in paragraph (2), omit “Article 56 of the Maintenance Regulation or”; and
 - (c) in the words in parentheses at the end of the rule, omit “and the Maintenance Regulation”.
 
-### 9. Amendment of Part 12[^key-769316aeb56810d34987dd46be2ed88d]
+### 9. Amendment of Part 12[^c-769316aeb56810d34987dd46be2ed88d]
 
 (1) Part 12 (proceedings relating to children except parental order proceedings and proceedings for applications in adoption, placement and related proceedings) [^c23627181] is amended as follows.
 
@@ -272,13 +272,13 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 - (b) in paragraph (1), omit “Member State under Article 56 of the Council Regulation or another”; and
 - (c) in paragraph (4), omit “Member”.
 
-### 10. Amendment of Part 14[^key-2ebc0fba99957ff90964467a0ced2777]
+### 10. Amendment of Part 14[^c-2ebc0fba99957ff90964467a0ced2777]
 
 (1) Part 14 (procedure for applications in adoption, placement and related proceedings) is amended as follows.
 
 (2) In rule 14.19, omit paragraph (2).
 
-### 11. Amendment of Part 17[^key-a897b14663a725d7f7d456d0f8ca7315]
+### 11. Amendment of Part 17[^c-a897b14663a725d7f7d456d0f8ca7315]
 
 (1) Part 17 (statements of truth) is amended as follows.
 
@@ -286,7 +286,7 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 
 (3) In rule 17.2(10), omit sub-paragraph (a).
 
-### 12. Amendment of Part 20[^key-0ac8564d52324586211e120fed68b8ad]
+### 12. Amendment of Part 20[^c-0ac8564d52324586211e120fed68b8ad]
 
 (1) Part 20 (interim remedies and security for costs) is amended as follows.
 
@@ -295,25 +295,25 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 - (a) omit paragraph (2)(a)(ii) and the “but” preceding it; and
 - (b) omit the second set of words in parentheses at the end of the rule.
 
-### 13. Amendment of Part 21[^key-e3d88d8e66d8a792ee515852d72b8544]
+### 13. Amendment of Part 21[^c-e3d88d8e66d8a792ee515852d72b8544]
 
 (1) Part 21 (miscellaneous rules about disclosure and inspection of documents) is amended as follows.
 
 (2) In rule 21.2, omit the words in parentheses at the end of the rule.
 
-### 14. Amendment of Part 22[^key-16b36143fafa433d7311b79055ac1277]
+### 14. Amendment of Part 22[^c-16b36143fafa433d7311b79055ac1277]
 
 (1) Part 22 (evidence) is amended as follows.
 
 (2) In rule 22.8, omit the words in parentheses at the end of the rule.
 
-### 15. Amendment of Part 23[^key-dd263956c645b28209aeab6160df244b]
+### 15. Amendment of Part 23[^c-dd263956c645b28209aeab6160df244b]
 
 (1) Part 23 (miscellaneous rules about evidence) is amended as follows.
 
 (2) In rule 23.4, omit the words in parentheses at the end of the rule.
 
-### 16. Amendment of Part 24[^key-e4583ab8469c95a4f238ec7cbf9a9ed0]
+### 16. Amendment of Part 24[^c-e4583ab8469c95a4f238ec7cbf9a9ed0]
 
 (1) Part 24 (witnesses, depositions generally and taking of evidence in member states of the European Union) is amended as follows.
 
@@ -328,7 +328,7 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 
 (5) Omit Chapter 2 of the Part, including rules 24.15 and 24.16.
 
-### 17. Amendment of Part 27[^key-db92714061abe36debf06926732263ea]
+### 17. Amendment of Part 27[^c-db92714061abe36debf06926732263ea]
 
 (1) Part 27 (hearings and directions appointments) is amended as follows.
 
@@ -337,7 +337,7 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 - (a) for “a European regulation or” substitute “ an ”; and
 - (b) omit “regulation or”.
 
-### 18. Amendment of Part 31[^key-70ba1c55e56e557115bafe5d2e03ffdd]
+### 18. Amendment of Part 31[^c-70ba1c55e56e557115bafe5d2e03ffdd]
 
 (1) Part 31 (registration of orders under the Council Regulation, the Civil Partnership (Jurisdiction and Recognition of Judgments) Regulations 2005, the Marriage (Same Sex Couples) (Jurisdiction and Recognition of Judgments) Regulations 2014 and under the Hague Convention 1996) [^c23627191] is amended as follows.
 
@@ -415,7 +415,7 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
 
 (20) In rule 31.22, omit “Article 20 of the Council Regulation or”.
 
-### 19. Amendment of Part 34[^key-83d6a182c9df91ec77a289ccb37a0db1]
+### 19. Amendment of Part 34[^c-83d6a182c9df91ec77a289ccb37a0db1]
 
 (1) Part 34 (reciprocal enforcement of maintenance orders) [^c23627201] is amended as follows.
 
@@ -512,11 +512,11 @@ The Family Procedure Rules 2010 are amended as set out in regulations 3 to 21.
   - (iii) “(other than a Member State of the European Union)”; and
 - (b) in paragraph (2), omit sub-paragraph (a).
 
-### 20. Revocation of Part 35[^key-b96ba9512fbaba47da043f4ba4d9de2d]
+### 20. Revocation of Part 35[^c-b96ba9512fbaba47da043f4ba4d9de2d]
 
 Part 35 (Mediation Directive) is revoked.
 
-### 21. Amendment of Part 38[^key-d82a3bb166a8dc23e48d7d7eb8307aba]
+### 21. Amendment of Part 38[^c-d82a3bb166a8dc23e48d7d7eb8307aba]
 
 (1) Part 38 (recognition and enforcement of protection measures) [^c23627211] is amended as follows.
 
@@ -544,9 +544,9 @@ Part 35 (Mediation Directive) is revoked.
 - (a) in paragraph (1), omit “the United Kingdom or”; and
 - (b) in paragraph (3), omit “other”.
 
-### 22. Transitional and saving provision – Part 6[^key-ddd2c8ce034293d6e34cfc7c5ec2da9c]
+### 22. Transitional and saving provision – Part 6[^c-ddd2c8ce034293d6e34cfc7c5ec2da9c]
 
-(1) Where before IP completion day[^key-4f356f711608965dfe19ef42526e500f], pursuant to rule 6.11, a solicitor acting for the respondent has notified the business address of that solicitor in an EEA state outside the United Kingdom as the address at which that solicitor is instructed to accept service of the application, the application, if not served before IP completion day, must on or after IP completion day be served at that address notwithstanding the changes made by these Regulations.
+(1) Where before IP completion day[^c-4f356f711608965dfe19ef42526e500f], pursuant to rule 6.11, a solicitor acting for the respondent has notified the business address of that solicitor in an EEA state outside the United Kingdom as the address at which that solicitor is instructed to accept service of the application, the application, if not served before IP completion day, must on or after IP completion day be served at that address notwithstanding the changes made by these Regulations.
 
 (2) Where before IP completion day a party to proceedings has given, as the address at which that party may be served with documents relating to those proceedings, the business address of a solicitor in any EEA State outside the United Kingdom—
 
@@ -557,9 +557,9 @@ Part 35 (Mediation Directive) is revoked.
 
 (4) Where before IP completion day an applicant has filed the documents referred to in rule 6.44(2), but the action required by rule 6.44(3) has not been taken by IP completion day, the court may treat the request for service of the documents in question as a request for service pursuant to rule 6.45(1) or (2) as appropriate.
 
-### 23. Transitional and saving provision – Part 9 and Part 12[^key-c666e499c088db232f998a3a172a01d9]
+### 23. Transitional and saving provision – Part 9 and Part 12[^c-c666e499c088db232f998a3a172a01d9]
 
-(1) Where in relation to any proceedings the relevant saving provision applies, the relevant rules continue to apply on and after IP completion day[^key-1cf416b60872c72b7a91c3acc0e0e0f2] for the purposes of those proceedings as if the amendments made to those rules by these Regulations had not been made.
+(1) Where in relation to any proceedings the relevant saving provision applies, the relevant rules continue to apply on and after IP completion day[^c-1cf416b60872c72b7a91c3acc0e0e0f2] for the purposes of those proceedings as if the amendments made to those rules by these Regulations had not been made.
 
 (2) In paragraph (1)—
 
@@ -579,36 +579,36 @@ Part 35 (Mediation Directive) is revoked.
 - (a) “**the 1996 Hague Convention**” has the meaning given to it by rule 2.3; and
 - (b) “**the Council Regulation**” has the meaning given to it by rule 2.3 as in force immediately before IP completion day.
 
-### 24. Transitional and saving provision – Part 20[^key-d34e9c38a9c3a287c437c296547c0fc8]
+### 24. Transitional and saving provision – Part 20[^c-d34e9c38a9c3a287c437c296547c0fc8]
 
-Where an application was made before IP completion day[^key-9f38764e91c0e9102b3d3a1daa791def], rule 20.7 applies for the purposes of the court's power to make an order for security for costs in relation to that application as if the amendment made to that rule by these Regulations had not been made.
+Where an application was made before IP completion day[^c-9f38764e91c0e9102b3d3a1daa791def], rule 20.7 applies for the purposes of the court's power to make an order for security for costs in relation to that application as if the amendment made to that rule by these Regulations had not been made.
 
-### 25. Transitional and saving provision – Part 24[^key-e5253c50d56cab6b8a70647037839e7a]
+### 25. Transitional and saving provision – Part 24[^c-e5253c50d56cab6b8a70647037839e7a]
 
-If before IP completion day[^key-611cdd7b0eb0fb705b95e0feb3a55d57] a court has made an order for the issue or submission of a request under rule 24.16 but the further action required by that rule has not been taken by IP completion day, the court may treat the order as one for issue of a letter of request under rule 24.12 and proceed accordingly.
+If before IP completion day[^c-611cdd7b0eb0fb705b95e0feb3a55d57] a court has made an order for the issue or submission of a request under rule 24.16 but the further action required by that rule has not been taken by IP completion day, the court may treat the order as one for issue of a letter of request under rule 24.12 and proceed accordingly.
 
-### 26. Transitional and saving provision – Part 31[^key-a0851f8869bafd19510f593a4fc1e9e0]
+### 26. Transitional and saving provision – Part 31[^c-a0851f8869bafd19510f593a4fc1e9e0]
 
-(1) Where in relation to any proceedings under Part 31 the relevant saving provision applies, Part 31 continues to apply on and after IP completion day[^key-d457a2c821691f7783ebf1035bdacc5a] for the purposes of those proceedings as if the amendments made to that Part by these Regulations had not been made.
+(1) Where in relation to any proceedings under Part 31 the relevant saving provision applies, Part 31 continues to apply on and after IP completion day[^c-d457a2c821691f7783ebf1035bdacc5a] for the purposes of those proceedings as if the amendments made to that Part by these Regulations had not been made.
 
 (2) In this regulation, “**the relevant saving provision**” means, as applicable—
 
 - (a) regulation 8 of the Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019; or
 - (b) regulation 7 of the Civil Partnership and Marriage (Same Sex Couples) (Jurisdiction and Judgments) (Amendment etc.) (EU Exit) Regulations 2019 [^c23627231].
 
-### 27. Transitional and saving provision – Part 34[^key-ee8307064da17894afa4cab48c1335fe]
+### 27. Transitional and saving provision – Part 34[^c-ee8307064da17894afa4cab48c1335fe]
 
-(1) Where in relation to any proceedings under Part 34 the relevant saving provision applies, Part 34 continues to apply on and after IP completion day[^key-cc781ab137a2c5cf6e12784bd5bc5a94] for the purposes of those proceedings as if the amendments made to that Part by these Regulations had not been made.
+(1) Where in relation to any proceedings under Part 34 the relevant saving provision applies, Part 34 continues to apply on and after IP completion day[^c-cc781ab137a2c5cf6e12784bd5bc5a94] for the purposes of those proceedings as if the amendments made to that Part by these Regulations had not been made.
 
-(2) In this regulation, “**the relevant saving provision**” means regulation 8 of the Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 or, as the case may be, regulation 92 of the Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019[^key-30dcd149c805fb5af12c3602250245fe].
+(2) In this regulation, “**the relevant saving provision**” means regulation 8 of the Jurisdiction and Judgments (Family) (Amendment etc.) (EU Exit) Regulations 2019 or, as the case may be, regulation 92 of the Civil Jurisdiction and Judgments (Amendment) (EU Exit) Regulations 2019[^c-30dcd149c805fb5af12c3602250245fe].
 
-### 28. Transitional and saving provision – Part 35[^key-0b38b846754b9f488a8fa368278bbecd]
+### 28. Transitional and saving provision – Part 35[^c-0b38b846754b9f488a8fa368278bbecd]
 
-(1) Where an application under rule 35.2(1) as then in force (for the content of a written agreement resulting from mediation of a relevant dispute to be made enforceable by being made the subject of a consent order) was made before IP completion day[^key-3acd8ec7cb33b3717c310260e8c2a9b3], rule 35.2 continues to apply for the purposes of that application on and after IP completion day as if the amendments made to Part 35 by these Regulations had not been made.
+(1) Where an application under rule 35.2(1) as then in force (for the content of a written agreement resulting from mediation of a relevant dispute to be made enforceable by being made the subject of a consent order) was made before IP completion day[^c-3acd8ec7cb33b3717c310260e8c2a9b3], rule 35.2 continues to apply for the purposes of that application on and after IP completion day as if the amendments made to Part 35 by these Regulations had not been made.
 
 (2) In relation to a mediation to which the Cross-Border Mediation (EU Directive) Regulations 2011 [^c23627241] applied before IP completion day, rules 35.1 and 35.3 to 35.4 continue to apply on and after IP completion day, so far as relevant in relation to mediation evidence relating to that mediation, as if the amendments made to Part 35 by these Regulations had not been made.
 
-### 28A. Transitional and saving provision – Part 38: application of Article 67 of the withdrawal agreement[^M_I_9193bff2-1774-4cdd-f0ca-ac4048fbd4e9][^key-a896e95c389a800078b69efda7f1975a]
+### 28A. Transitional and saving provision – Part 38: application of Article 67 of the withdrawal agreement[^M_I_9193bff2-1774-4cdd-f0ca-ac4048fbd4e9][^c-a896e95c389a800078b69efda7f1975a]
 
 (1) Where in relation to any proceedings under Part 38 the relevant saving provision applies, Part 38 continues to apply on and after IP completion day as if the amendments made to that Part by these Regulations had not been made.
 
@@ -616,11 +616,11 @@ If before IP completion day[^key-611cdd7b0eb0fb705b95e0feb3a55d57] a court has m
 
 ## Part 3 — The Court of Protection Rules 2017: amendment and transitional and saving provision
 
-### 29. Amendment of the Court of Protection Rules 2017[^key-9e6a508dd8a8b731d9ad52ff3feb9298]
+### 29. Amendment of the Court of Protection Rules 2017[^c-9e6a508dd8a8b731d9ad52ff3feb9298]
 
 The Court of Protection Rules 2017 are amended as set out in regulations 30 to 32.
 
-### 30. Amendment of Part 6[^key-c4f27e9b6234f8158b9f87f71dfd9af6]
+### 30. Amendment of Part 6[^c-c4f27e9b6234f8158b9f87f71dfd9af6]
 
 (1) Part 6 (service of documents) is amended as follows.
 
@@ -634,7 +634,7 @@ The Court of Protection Rules 2017 are amended as set out in regulations 30 to 3
 
 (4) In rule 6.13, in paragraph (2)(b), omit “Member State or”.
 
-(5) In rule 6.14, omit paragraph (3)(a)(i)[^key-b1c2dd1289644286846e3c1455e7f0d9].
+(5) In rule 6.14, omit paragraph (3)(a)(i)[^c-b1c2dd1289644286846e3c1455e7f0d9].
 
 (6) Omit rule 6.15.
 
@@ -642,7 +642,7 @@ The Court of Protection Rules 2017 are amended as set out in regulations 30 to 3
 
 (8) In rule 6.18, omit the words in parentheses at the end of the rule.
 
-### 31. Amendment of Part 10[^key-2137e86d7f80b63d60faaad42a880b5f]
+### 31. Amendment of Part 10[^c-2137e86d7f80b63d60faaad42a880b5f]
 
 (1) Part 10 (applications within proceedings) is amended as follows.
 
@@ -652,7 +652,7 @@ The Court of Protection Rules 2017 are amended as set out in regulations 30 to 3
 
 .
 
-### 32. Amendment of Part 14[^key-f9e89416086c178aac61b20742b2a2e5]
+### 32. Amendment of Part 14[^c-f9e89416086c178aac61b20742b2a2e5]
 
 (1) Part 14 (admissions, evidence and depositions) is amended as follows.
 
@@ -666,9 +666,9 @@ The Court of Protection Rules 2017 are amended as set out in regulations 30 to 3
 
 (6) In rule 14.23(1), for “who is—” and sub-paragraphs (a) and (b) substitute “ who is out of the jurisdiction ”.
 
-### 33. Transitional and saving provision[^key-f7ff747750111398e4dbc36c8e0ddc22]
+### 33. Transitional and saving provision[^c-f7ff747750111398e4dbc36c8e0ddc22]
 
-(1) Where before IP completion day[^key-980fcaf5856ea153ed100e16c2e3e147] an application was served under the Service Regulation on a respondent in a Member State, rule 6.13(2) applies for the purposes of the period for filing an acknowledgment of service as if the amendment to that rule made by these Regulations had not been made.
+(1) Where before IP completion day[^c-980fcaf5856ea153ed100e16c2e3e147] an application was served under the Service Regulation on a respondent in a Member State, rule 6.13(2) applies for the purposes of the period for filing an acknowledgment of service as if the amendment to that rule made by these Regulations had not been made.
 
 (2) Where before IP completion day an applicant has filed the documents referred to in rule 6.15(2), but the action required by rule 6.15(3) has not been taken by IP completion day, the court may treat the request for service of the documents in question as a request for service pursuant to rule 6.16(1) or (2) as appropriate.
 
@@ -753,118 +753,118 @@ An impact assessment has not been produced for this instrument as it has no or m
 
 [^c23627121]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-5048c281bf65203fe30de5a68930244e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-5048c281bf65203fe30de5a68930244e]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627131]: Marginal citation: [S.I. 2010/2955](https://www.legislation.gov.uk/uksi/2010/2955).
 
 [^c23627141]: Marginal citation: [S.I. 2017/1035](https://www.legislation.gov.uk/uksi/2017/1035).
 
-[^key-344e1a659df03f441946dc0635990995]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-344e1a659df03f441946dc0635990995]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-05460267be45018548e0eb57af39efc6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-05460267be45018548e0eb57af39efc6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627151]: Marginal citation: Relevant amendments were made to Part 2 by [S.I. 2011/1328](https://www.legislation.gov.uk/uksi/2011/1328) and [S.I. 2014/3296](https://www.legislation.gov.uk/uksi/2014/3296).
 
-[^key-7b01006eb53657aeabc4f34c28530d81]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-7b01006eb53657aeabc4f34c28530d81]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-c743bfbd4c17d1875300e5e0938e85b4]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c743bfbd4c17d1875300e5e0938e85b4]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627161]: Marginal citation: Relevant amendments were made to Part 5 by [S.I. 2011/1328](https://www.legislation.gov.uk/uksi/2011/1328) and [S.I. 2012/2806](https://www.legislation.gov.uk/uksi/2012/2806).
 
-[^key-fac69b30fb718905117a41e517d8cb89]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-fac69b30fb718905117a41e517d8cb89]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a9fc464e91fbf47d0ad4ac7c3e92d994]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a9fc464e91fbf47d0ad4ac7c3e92d994]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-ab336dd9b59b9080c064b73f9622a67d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-ab336dd9b59b9080c064b73f9622a67d]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627171]: Marginal citation: Relevant amendments were made to Part 9 by [S.I. 2011/1328](https://www.legislation.gov.uk/uksi/2011/1328), [S.I](https://www.legislation.gov.uk/uksi/2011/1328/section/I). 2012/2806 and [S.I. 2014/667](https://www.legislation.gov.uk/uksi/2014/667).
 
-[^key-769316aeb56810d34987dd46be2ed88d]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-769316aeb56810d34987dd46be2ed88d]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627181]: Marginal citation: Relevant amendments to Part 12 were made by [S.I. 2012/2046](https://www.legislation.gov.uk/uksi/2012/2046).
 
-[^key-2ebc0fba99957ff90964467a0ced2777]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2ebc0fba99957ff90964467a0ced2777]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a897b14663a725d7f7d456d0f8ca7315]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a897b14663a725d7f7d456d0f8ca7315]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-0ac8564d52324586211e120fed68b8ad]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0ac8564d52324586211e120fed68b8ad]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-e3d88d8e66d8a792ee515852d72b8544]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e3d88d8e66d8a792ee515852d72b8544]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-16b36143fafa433d7311b79055ac1277]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-16b36143fafa433d7311b79055ac1277]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-dd263956c645b28209aeab6160df244b]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-dd263956c645b28209aeab6160df244b]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-e4583ab8469c95a4f238ec7cbf9a9ed0]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e4583ab8469c95a4f238ec7cbf9a9ed0]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-db92714061abe36debf06926732263ea]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-db92714061abe36debf06926732263ea]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-70ba1c55e56e557115bafe5d2e03ffdd]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-70ba1c55e56e557115bafe5d2e03ffdd]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627191]: Marginal citation: Relevant amendments were made to Part 31 by [S.I. 2014/524](https://www.legislation.gov.uk/uksi/2014/524).
 
-[^key-83d6a182c9df91ec77a289ccb37a0db1]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-83d6a182c9df91ec77a289ccb37a0db1]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627201]: Marginal citation: Relevant amendments were made to Part 34 by [S.I. 2011/1328](https://www.legislation.gov.uk/uksi/2011/1328), [S.I](https://www.legislation.gov.uk/uksi/2011/1328/section/I). 2012/679 and [S.I. 2012/2806](https://www.legislation.gov.uk/uksi/2012/2806).
 
-[^key-b96ba9512fbaba47da043f4ba4d9de2d]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-b96ba9512fbaba47da043f4ba4d9de2d]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-d82a3bb166a8dc23e48d7d7eb8307aba]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d82a3bb166a8dc23e48d7d7eb8307aba]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23627211]: Marginal citation: Part 38 was inserted by [S.I. 2014/3296](https://www.legislation.gov.uk/uksi/2014/3296).
 
-[^key-ddd2c8ce034293d6e34cfc7c5ec2da9c]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-ddd2c8ce034293d6e34cfc7c5ec2da9c]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-4f356f711608965dfe19ef42526e500f]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2019/517/regulation/22) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/a)
+[^c-4f356f711608965dfe19ef42526e500f]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2019/517/regulation/22) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/a)
 
-[^key-c666e499c088db232f998a3a172a01d9]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c666e499c088db232f998a3a172a01d9]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-1cf416b60872c72b7a91c3acc0e0e0f2]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2019/517/regulation/23) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/b)
+[^c-1cf416b60872c72b7a91c3acc0e0e0f2]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2019/517/regulation/23) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/b)
 
 [^c23627221]: Marginal citation: SI 2019/494.
 
-[^key-d34e9c38a9c3a287c437c296547c0fc8]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d34e9c38a9c3a287c437c296547c0fc8]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-9f38764e91c0e9102b3d3a1daa791def]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2019/517/regulation/24) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/c)
+[^c-9f38764e91c0e9102b3d3a1daa791def]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/2019/517/regulation/24) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/c)
 
-[^key-e5253c50d56cab6b8a70647037839e7a]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-e5253c50d56cab6b8a70647037839e7a]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-611cdd7b0eb0fb705b95e0feb3a55d57]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)
+[^c-611cdd7b0eb0fb705b95e0feb3a55d57]: Textual amendment: Words in [reg. 25](https://www.legislation.gov.uk/uksi/2019/517/regulation/25) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(d)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/d)
 
-[^key-a0851f8869bafd19510f593a4fc1e9e0]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a0851f8869bafd19510f593a4fc1e9e0]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-d457a2c821691f7783ebf1035bdacc5a]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/26/1) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/e)
+[^c-d457a2c821691f7783ebf1035bdacc5a]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/26/1) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(e)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/e)
 
 [^c23627231]: Marginal citation: [S.I. 2019/495](https://www.legislation.gov.uk/uksi/2019/495).
 
-[^key-ee8307064da17894afa4cab48c1335fe]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-ee8307064da17894afa4cab48c1335fe]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-cc781ab137a2c5cf6e12784bd5bc5a94]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/27/1) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(f)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/f)
+[^c-cc781ab137a2c5cf6e12784bd5bc5a94]: Textual amendment: Words in [reg. 27(1)](https://www.legislation.gov.uk/uksi/2019/517/regulation/27/1) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(f)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/f)
 
-[^key-30dcd149c805fb5af12c3602250245fe]: Textual amendment: Words in reg. 27(2) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/2)
+[^c-30dcd149c805fb5af12c3602250245fe]: Textual amendment: Words in reg. 27(2) inserted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/2)
 
-[^key-0b38b846754b9f488a8fa368278bbecd]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-0b38b846754b9f488a8fa368278bbecd]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-3acd8ec7cb33b3717c310260e8c2a9b3]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2019/517/regulation/28) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(g)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/g)
+[^c-3acd8ec7cb33b3717c310260e8c2a9b3]: Textual amendment: Words in [reg. 28](https://www.legislation.gov.uk/uksi/2019/517/regulation/28) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(g)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/g)
 
 [^c23627241]: Marginal citation: [S.I. 2011/1133](https://www.legislation.gov.uk/uksi/2011/1133).
 
 [^M_I_9193bff2-1774-4cdd-f0ca-ac4048fbd4e9]: Commencement: Reg. 28A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a896e95c389a800078b69efda7f1975a]: Textual amendment: Reg. 28A inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/3)
+[^c-a896e95c389a800078b69efda7f1975a]: Textual amendment: Reg. 28A inserted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/3)
 
-[^key-9e6a508dd8a8b731d9ad52ff3feb9298]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-9e6a508dd8a8b731d9ad52ff3feb9298]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-c4f27e9b6234f8158b9f87f71dfd9af6]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-c4f27e9b6234f8158b9f87f71dfd9af6]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^M_F_7fda9930-3819-4244-be22-b3f93c23cd54]: Textual amendment: Reg. 30(3) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/b)
 
-[^key-b1c2dd1289644286846e3c1455e7f0d9]: Textual amendment: Word in reg. 30(5) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/b)
+[^c-b1c2dd1289644286846e3c1455e7f0d9]: Textual amendment: Word in reg. 30(5) substituted (17.12.2020) by [The Jurisdiction, Judgments and Applicable Law (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1574)](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/4/3/b)
 
-[^key-2137e86d7f80b63d60faaad42a880b5f]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-2137e86d7f80b63d60faaad42a880b5f]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-f9e89416086c178aac61b20742b2a2e5]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f9e89416086c178aac61b20742b2a2e5]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-f7ff747750111398e4dbc36c8e0ddc22]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-f7ff747750111398e4dbc36c8e0ddc22]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-980fcaf5856ea153ed100e16c2e3e147]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)
+[^c-980fcaf5856ea153ed100e16c2e3e147]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2019/517/regulation/33) substituted (31.12.2020 immediately before IP completion day) by [The Civil, Criminal and Family Justice (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1493)](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [8(2)(h)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/8/2/h)

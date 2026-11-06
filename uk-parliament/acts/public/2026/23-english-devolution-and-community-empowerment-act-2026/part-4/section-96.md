@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Smaller authorities: change of terminology[^key-f8f5ba39a1ae4560625d35bbad0ec3cd][^key-520c20495366ca0fa9bf813de20c5bb0]
+## 96. Smaller authorities: change of terminology[^c-f8f5ba39a1ae4560625d35bbad0ec3cd][^c-520c20495366ca0fa9bf813de20c5bb0]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8f5ba39a1ae4560625d35bbad0ec3cd]: Commencement: S. 96 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-f8f5ba39a1ae4560625d35bbad0ec3cd]: Commencement: S. 96 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-520c20495366ca0fa9bf813de20c5bb0]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2026/23/section/96) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/d)
+[^c-520c20495366ca0fa9bf813de20c5bb0]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2026/23/section/96) in force at 15.7.2026 by [S.I. 2026/812](https://www.legislation.gov.uk/uksi/2026/812), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2026/812/regulation/2/1/d)

@@ -36,7 +36,7 @@ An Act to make provision for and in connection with increasing the thresholds at
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Increase of primary threshold for primary Class 1 contributions[^key-e38956525f55c439e8be957a1861478b]
+## 1. Increase of primary threshold for primary Class 1 contributions[^c-e38956525f55c439e8be957a1861478b]
 
 (1) The Social Security (Contributions) Regulations 2001 ([S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004)) are amended as follows.
 
@@ -49,7 +49,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) The amendments made by subsections (2) and (3) come into force on 6 July 2022 (and accordingly do not affect any liability to primary Class 1 contributions for any tax week commencing before that date).
 
-## 2. Increase in lower limit of profits for Class 4 contributions[^key-b036c8d0cc8ea4efc1faa3ba0a919052]
+## 2. Increase in lower limit of profits for Class 4 contributions[^c-b036c8d0cc8ea4efc1faa3ba0a919052]
 
 (1) In sections 15(3)(a) and 18(1)(c) and (1A)(a) of—
 
@@ -64,7 +64,7 @@ for “**£9,880**” (the lower limit of profits) substitute “£11,908”.
 
 (4) The amendments made by subsection (3) come into force on 6 April 2023.
 
-## 3. Equivalent provision for Class 2 contributions[^key-b5c53143100f1881cdb6fff848b7d909]
+## 3. Equivalent provision for Class 2 contributions[^c-b5c53143100f1881cdb6fff848b7d909]
 
 (1) The Treasury must by regulations make provision for the purpose of securing that, for the purposes of—
 
@@ -79,7 +79,7 @@ the threshold for paying Class 2 contributions for a tax year is equivalent to t
 - (b) make provision having retrospective effect from no earlier than 6 April 2022;
 - (c) amend an Act of Parliament.
 
-## 4. Transitional and consequential provision[^key-13159502e1865b961c460732a02f5d42]
+## 4. Transitional and consequential provision[^c-13159502e1865b961c460732a02f5d42]
 
 (1) Regulation 21 of the Social Security (Contributions) Regulations 2001 (annual maxima for Class 1 contributions etc for those with more than one employment) has effect as if the primary threshold were £229.
 
@@ -92,7 +92,7 @@ the threshold for paying Class 2 contributions for a tax year is equivalent to t
 
 (4) The Treasury may by regulations make such provision (including provision having retrospective effect from no earlier than 6 April 2022) amending or otherwise modifying the Social Security (Contributions) Regulations 2001 as they consider appropriate in consequence of provision made by or under this Act.
 
-## 5. Regulations[^key-29a031abec6bfcf0d2a64011f3734fc8]
+## 5. Regulations[^c-29a031abec6bfcf0d2a64011f3734fc8]
 
 (1) Regulations under this Act are to be made by statutory instrument.
 
@@ -102,20 +102,20 @@ the threshold for paying Class 2 contributions for a tax year is equivalent to t
 
 (4) Otherwise, a statutory instrument containing regulations under this Act is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 6. Short title[^key-67f35b85e63f1f4b64d6d66e5eeb2488]
+## 6. Short title[^c-67f35b85e63f1f4b64d6d66e5eeb2488]
 
 This Act may be cited as the National Insurance Contributions (Increase of Thresholds) Act 2022.
 
 ## Annotations
 
-[^key-e38956525f55c439e8be957a1861478b]: Commencement: S. 1 in force at Royal Assent
+[^c-e38956525f55c439e8be957a1861478b]: Commencement: S. 1 in force at Royal Assent
 
-[^key-b036c8d0cc8ea4efc1faa3ba0a919052]: Commencement: S. 2 in force at Royal Assent
+[^c-b036c8d0cc8ea4efc1faa3ba0a919052]: Commencement: S. 2 in force at Royal Assent
 
-[^key-b5c53143100f1881cdb6fff848b7d909]: Commencement: S. 3 in force at Royal Assent
+[^c-b5c53143100f1881cdb6fff848b7d909]: Commencement: S. 3 in force at Royal Assent
 
-[^key-13159502e1865b961c460732a02f5d42]: Commencement: S. 4 in force at Royal Assent
+[^c-13159502e1865b961c460732a02f5d42]: Commencement: S. 4 in force at Royal Assent
 
-[^key-29a031abec6bfcf0d2a64011f3734fc8]: Commencement: S. 5 in force at Royal Assent
+[^c-29a031abec6bfcf0d2a64011f3734fc8]: Commencement: S. 5 in force at Royal Assent
 
-[^key-67f35b85e63f1f4b64d6d66e5eeb2488]: Commencement: S. 6 in force at Royal Assent
+[^c-67f35b85e63f1f4b64d6d66e5eeb2488]: Commencement: S. 6 in force at Royal Assent

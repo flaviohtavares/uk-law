@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17A. Restriction of reckonable pay where the Department considers the amount is inordinate[^key-bede28f03a602759d7c4c7672651822e]
+## 17A. Restriction of reckonable pay where the Department considers the amount is inordinate[^c-bede28f03a602759d7c4c7672651822e]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bede28f03a602759d7c4c7672651822e]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2008/256/regulation/17A) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [20](https://www.legislation.gov.uk/nisr/2015/121/regulation/20)
+[^c-bede28f03a602759d7c4c7672651822e]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2008/256/regulation/17A) inserted (1.4.2015) by [The Health and Personal Social Services (Superannuation Scheme, Additional Voluntary Contributions and Injury Benefits), Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/121)](https://www.legislation.gov.uk/nisr/2015/121), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/121/regulation/1/2), [20](https://www.legislation.gov.uk/nisr/2015/121/regulation/20)

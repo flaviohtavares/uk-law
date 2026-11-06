@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Power to fill vacancy in office of liquidator.[^c15571591][^key-fb819acb2d23bcb4fae1ac0918d6781a]
+## 92. Power to fill vacancy in office of liquidator.[^c15571591][^c-fb819acb2d23bcb4fae1ac0918d6781a]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
     S. 92(1)(2)(3)(4) modified (S.) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(2)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/2), [Sch. 3](https://www.legislation.gov.uk/ssi/2001/128/schedule/3)
 
-[^key-fb819acb2d23bcb4fae1ac0918d6781a]: Modification: [Ss. 91-93](https://www.legislation.gov.uk/ukpga/1986/45/section/91) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-fb819acb2d23bcb4fae1ac0918d6781a]: Modification: [Ss. 91-93](https://www.legislation.gov.uk/ukpga/1986/45/section/91) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))

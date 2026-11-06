@@ -48,11 +48,11 @@ The Secretary of State for Transport makes the following Regulations in exercise
 
 Representative organisations have been consulted in accordance with section 134(2) of that Act.
 
-## 1. Citation and commencement[^key-e684cfdf2a5016b73eedcce7cfcaff4e]
+## 1. Citation and commencement[^c-e684cfdf2a5016b73eedcce7cfcaff4e]
 
 These Regulations may be cited as the M1 Motorway (Junctions 6A to 10) (Variable Speed Limits) Regulations 2011 and they come into force on 16th May 2011.
 
-## 2. Interpretation[^key-6a00a00745ce17f70f898c858e8176bc]
+## 2. Interpretation[^c-6a00a00745ce17f70f898c858e8176bc]
 
 In these Regulations—
 
@@ -60,7 +60,7 @@ In these Regulations—
 - “the 2002 Regulations” means the Traffic Signs Regulations 2002[^f00003]; and
 - “carriageway”, “hard shoulder”, “motorway” and “verge” have the same meaning as in the 1982 Regulations.
 
-## 3. Variable Speed Limits[^key-f80064d9e6a0359253058cf394dc8801]
+## 3. Variable Speed Limits[^c-f80064d9e6a0359253058cf394dc8801]
 
 (1) No person shall drive a vehicle on a section of a road which is subject to a variable speed limit at a speed exceeding that indicated by a speed limit sign.
 
@@ -94,7 +94,7 @@ Department for Transport
 
 30th March 2011
 
-## SCHEDULE — SPECIFIED ROADS[^key-9c7ea91d3974ed4ecba1b41bb892d977]
+## SCHEDULE — SPECIFIED ROADS[^c-9c7ea91d3974ed4ecba1b41bb892d977]
 
 Regulation 3(2)
 
@@ -155,14 +155,14 @@ A copy of the impact assessment prepared in respect of these Regulations can be 
 
 [^f00001]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27). Section 17(2) was amended by the New Roads and Street Works Act [1991 (c. 22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act 1991, Schedule 4, paragraph 25. There have been other amendments made to sections 17 and 134 which are not relevant to these Regulations.
 
-[^key-e684cfdf2a5016b73eedcce7cfcaff4e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1)
+[^c-e684cfdf2a5016b73eedcce7cfcaff4e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1)
 
-[^key-6a00a00745ce17f70f898c858e8176bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1015/regulation/2) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1)
+[^c-6a00a00745ce17f70f898c858e8176bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1015/regulation/2) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163); relevant amending instruments are [S.I. 1983/374](https://www.legislation.gov.uk/uksi/1983/374), [1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [1992/1364](https://www.legislation.gov.uk/uksi/1992/1364) and [2004/3258](https://www.legislation.gov.uk/uksi/2004/3258).
 
 [^f00003]: Footnote: Part 1 of [S.I. 2002/3113](https://www.legislation.gov.uk/uksi/2002/3113), as amended by [S.I. 2005/1670](https://www.legislation.gov.uk/uksi/2005/1670). There are other amending instruments but none is relevant to these Regulations.
 
-[^key-f80064d9e6a0359253058cf394dc8801]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1015/regulation/3) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1)
+[^c-f80064d9e6a0359253058cf394dc8801]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1015/regulation/3) in force at 16.5.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2011/1015/regulation/1)
 
-[^key-9c7ea91d3974ed4ecba1b41bb892d977]: Textual amendment: Sch. substituted (with effect in accordance with arts. 10(1)(2), 12(1) of the amending S.I.) by [The M1 Junction 10a (Grade Separation) Order 2013 (S.I. 2013/2808)](https://www.legislation.gov.uk/uksi/2013/2808), [art. 1](https://www.legislation.gov.uk/uksi/2013/2808/article/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2013/2808/schedule/4/part/1)
+[^c-9c7ea91d3974ed4ecba1b41bb892d977]: Textual amendment: Sch. substituted (with effect in accordance with arts. 10(1)(2), 12(1) of the amending S.I.) by [The M1 Junction 10a (Grade Separation) Order 2013 (S.I. 2013/2808)](https://www.legislation.gov.uk/uksi/2013/2808), [art. 1](https://www.legislation.gov.uk/uksi/2013/2808/article/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2013/2808/schedule/4/part/1)

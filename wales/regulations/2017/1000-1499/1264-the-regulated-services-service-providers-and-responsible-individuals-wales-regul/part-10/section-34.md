@@ -36,10 +36,10 @@ summary: ''
 
 (4) The service provider must ensure that arrangements are made for the support and development of staff.
 
-(5) The service provider must ensure that the employment or engagement of any persons on a temporary basis or on a non-guaranteed hours contract does not prevent individuals receiving such continuity of care as the provider has determined in accordance with regulation 22 [^key-a6ad199872a461a6b9733aaab412caa8]... is reasonable to meet their needs for care and support.
+(5) The service provider must ensure that the employment or engagement of any persons on a temporary basis or on a non-guaranteed hours contract does not prevent individuals receiving such continuity of care as the provider has determined in accordance with regulation 22 [^c-a6ad199872a461a6b9733aaab412caa8]... is reasonable to meet their needs for care and support.
 
 (6) In paragraph (5) of this regulation, “**non-guaranteed hours contract**” has the same meaning as in regulation 42.
 
 ## Annotations
 
-[^key-a6ad199872a461a6b9733aaab412caa8]: Textual amendment: Word in reg. 34(5) revoked (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2019/757/regulation/8)
+[^c-a6ad199872a461a6b9733aaab412caa8]: Textual amendment: Word in reg. 34(5) revoked (1.4.2019) by [The Regulated Services (Service Providers and Responsible Individuals) (Wales) (Amendment) Regulations 2019 (S.I. 2019/757)](https://www.legislation.gov.uk/wsi/2019/757), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/757/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2019/757/regulation/8)

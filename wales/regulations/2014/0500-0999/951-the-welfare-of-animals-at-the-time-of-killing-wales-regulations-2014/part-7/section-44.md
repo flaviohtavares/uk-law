@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Transitional provision: certificates[^key-675185fe9e51b57f31fb0fca5bff564f]
+## 44. Transitional provision: certificates[^c-675185fe9e51b57f31fb0fca5bff564f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7 (transitional provisions - certificates) has effect.
 
 ## Annotations
 
-[^key-675185fe9e51b57f31fb0fca5bff564f]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2014/951/regulation/44) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-675185fe9e51b57f31fb0fca5bff564f]: Commencement: [Reg. 44](https://www.legislation.gov.uk/wsi/2014/951/regulation/44) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

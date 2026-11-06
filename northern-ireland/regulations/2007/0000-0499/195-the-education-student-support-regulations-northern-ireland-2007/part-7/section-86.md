@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Amount of college fee loan[^key-3331f876f17f2f1c26f438d4f6e002a2]
+## 86. Amount of college fee loan[^c-3331f876f17f2f1c26f438d4f6e002a2]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3331f876f17f2f1c26f438d4f6e002a2]: Commencement: [Reg. 86](https://www.legislation.gov.uk/nisr/2007/195/regulation/86) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-3331f876f17f2f1c26f438d4f6e002a2]: Commencement: [Reg. 86](https://www.legislation.gov.uk/nisr/2007/195/regulation/86) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

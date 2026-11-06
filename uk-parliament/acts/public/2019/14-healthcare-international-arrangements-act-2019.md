@@ -26,7 +26,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-Healthcare (International Arrangements) Act 2019[^key-514b37fe4ef65fec5deca7b471f0d783]
+Healthcare (International Arrangements) Act 2019[^c-514b37fe4ef65fec5deca7b471f0d783]
 
 2019 c. 14
 
@@ -36,11 +36,11 @@ An Act to make provision about paying and arranging for healthcare provided in a
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Power to make healthcare payments[^key-3ea4a37e3581466c1b0fe1c22128776c]
+## 1. Power to make healthcare payments[^c-3ea4a37e3581466c1b0fe1c22128776c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Healthcare agreements and payments[^key-913e28e028dadc97c9fd7f62d21e86b2]
+## 2. Healthcare agreements and payments[^c-913e28e028dadc97c9fd7f62d21e86b2]
 
 (1) The Secretary of State may by regulations make provision for the purpose of giving effect to a healthcare agreement (including provision about payments).
 
@@ -109,7 +109,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 In this Act—
 
 - “**healthcare**” means all forms of healthcare provided for individuals, whether relating to mental or physical health, and includes related ancillary care;
-- “[^key-f8f250417f00e65ca960d76d51fd208e]**healthcare agreement**” means an agreement or other commitment between the United Kingdom and either a country or territory outside the United Kingdom or an international organisation, concerning healthcare provided anywhere in the world;
+- “[^c-f8f250417f00e65ca960d76d51fd208e]**healthcare agreement**” means an agreement or other commitment between the United Kingdom and either a country or territory outside the United Kingdom or an international organisation, concerning healthcare provided anywhere in the world;
 - “**international organisation**” means an organisation of which—
   - (a) two or more sovereign powers are members, or
   - (b) the governments of two or more sovereign powers are members.
@@ -178,9 +178,9 @@ In this Act—
 
 ## 7. Regulations and directions
 
-(1) A power of the Secretary of State or Welsh Ministers[^key-d509f4b4aaa16891322f27cfad75067d] to make regulations under this Act is exercisable by statutory instrument.
+(1) A power of the Secretary of State or Welsh Ministers[^c-d509f4b4aaa16891322f27cfad75067d] to make regulations under this Act is exercisable by statutory instrument.
 
-(1A)[^key-ad211d283277a004ef358ed6d022b36a] A power of a Northern Ireland department to make regulations under section 2A is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 ([S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573)).
+(1A)[^c-ad211d283277a004ef358ed6d022b36a] A power of a Northern Ireland department to make regulations under section 2A is exercisable by statutory rule for the purposes of the Statutory Rules (Northern Ireland) Order 1979 ([S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573)).
 
 (2) Regulations and directions under this Act may—
 
@@ -190,13 +190,13 @@ In this Act—
 - (d) provide for a person to exercise a discretion in dealing with any matter;
 - (e) include consequential, supplementary, incidental, transitional, transitory or saving provision.
 
-(3) Regulations under this Act may amend, repeal or revoke assimilated[^key-dd26eca28e9e14387ad54b32e0ab38b8] law that is not primary legislation.
+(3) Regulations under this Act may amend, repeal or revoke assimilated[^c-dd26eca28e9e14387ad54b32e0ab38b8] law that is not primary legislation.
 
-(4)[^key-6fd639b0fa37ad5beaad641189dc06ac] A statutory instrument containing regulations under this Act may not be made by the Secretary of State unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+(4)[^c-6fd639b0fa37ad5beaad641189dc06ac] A statutory instrument containing regulations under this Act may not be made by the Secretary of State unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-(5)[^key-e02bcde8e21661fc31ac1423e06baad9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-e02bcde8e21661fc31ac1423e06baad9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-5637b78d9527b5ed1d9295836de60012] Regulations made by the Scottish Ministers under section 2A are subject to the affirmative procedure (see Part 2 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10)).
+(5A)[^c-5637b78d9527b5ed1d9295836de60012] Regulations made by the Scottish Ministers under section 2A are subject to the affirmative procedure (see Part 2 of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10)).
 
 (5B) A statutory instrument containing regulations under section 2A may not be made by the Welsh Ministers unless a draft of the instrument has been laid before and approved by a resolution of Senedd Cymru.
 
@@ -215,28 +215,28 @@ In this Act—
 
 (2) This Act comes into force on the day it is passed.
 
-(3) This Act may be cited as the Healthcare (International Arrangements) Act 2019[^key-6028a19e73b0c2916ffbbd56e99ec37b].
+(3) This Act may be cited as the Healthcare (International Arrangements) Act 2019[^c-6028a19e73b0c2916ffbbd56e99ec37b].
 
 ## Annotations
 
-[^key-514b37fe4ef65fec5deca7b471f0d783]: Textual amendment: Act renamed (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-514b37fe4ef65fec5deca7b471f0d783]: Textual amendment: Act renamed (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
 
-[^key-3ea4a37e3581466c1b0fe1c22128776c]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2019/14/section/1) omitted (18.8.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-3ea4a37e3581466c1b0fe1c22128776c]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/2019/14/section/1) omitted (18.8.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(3)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/3), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
 
-[^key-913e28e028dadc97c9fd7f62d21e86b2]: Textual amendment: Ss. 2-2B substituted for s. 2 (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-913e28e028dadc97c9fd7f62d21e86b2]: Textual amendment: Ss. 2-2B substituted for s. 2 (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(4)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/4), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
 
-[^key-f8f250417f00e65ca960d76d51fd208e]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/2019/14/section/3) substituted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/5), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-f8f250417f00e65ca960d76d51fd208e]: Textual amendment: Words in [s. 3](https://www.legislation.gov.uk/ukpga/2019/14/section/3) substituted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(5)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/5), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
 
-[^key-d509f4b4aaa16891322f27cfad75067d]: Textual amendment: Words in s. 7(1) inserted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-d509f4b4aaa16891322f27cfad75067d]: Textual amendment: Words in s. 7(1) inserted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(a)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/a), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
 
-[^key-ad211d283277a004ef358ed6d022b36a]: Textual amendment: S. 7(1A) inserted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-ad211d283277a004ef358ed6d022b36a]: Textual amendment: S. 7(1A) inserted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(b)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/b), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
 
-[^key-dd26eca28e9e14387ad54b32e0ab38b8]: Textual amendment: Word in s. 7(3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/90)
+[^c-dd26eca28e9e14387ad54b32e0ab38b8]: Textual amendment: Word in s. 7(3) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 90](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/90)
 
-[^key-6fd639b0fa37ad5beaad641189dc06ac]: Textual amendment: S. 7(4) substituted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/c), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-6fd639b0fa37ad5beaad641189dc06ac]: Textual amendment: S. 7(4) substituted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(c)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/c), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
 
-[^key-e02bcde8e21661fc31ac1423e06baad9]: Textual amendment: S. 7(5) omitted (18.8.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(d)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/d), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-e02bcde8e21661fc31ac1423e06baad9]: Textual amendment: S. 7(5) omitted (18.8.2023) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(d)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/d), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
 
-[^key-5637b78d9527b5ed1d9295836de60012]: Textual amendment: S. 7(5A)-(5C) inserted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(e)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/e), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-5637b78d9527b5ed1d9295836de60012]: Textual amendment: S. 7(5A)-(5C) inserted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(6)(e)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/6/e), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
 
-[^key-6028a19e73b0c2916ffbbd56e99ec37b]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2019/14/section/8/3) substituted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(7)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/7), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))
+[^c-6028a19e73b0c2916ffbbd56e99ec37b]: Textual amendment: Words in [s. 8(3)](https://www.legislation.gov.uk/ukpga/2019/14/section/8/3) substituted (18.8.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 162(7)](https://www.legislation.gov.uk/ukpga/2022/31/section/162/7), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2023/821](https://www.legislation.gov.uk/uksi/2023/821), [reg. 2](https://www.legislation.gov.uk/uksi/2023/821/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/821/regulation/3))

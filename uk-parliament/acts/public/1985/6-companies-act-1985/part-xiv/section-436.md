@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 436. Obstruction of inspectors treated as contempt of court.[^c17409031][^c17409041][^c17409051][^key-fc5cdd9a28f86418f3cb15c5ba390075]
+## 436. Obstruction of inspectors treated as contempt of court.[^c17409031][^c17409041][^c17409051][^c-fc5cdd9a28f86418f3cb15c5ba390075]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ the inspectors may certify that fact in writing to the court.
 
 [^c17409051]: Modification: S. 436 applied (with modifications) (6.4.2001) by [S.I. 2001/1090](https://www.legislation.gov.uk/uksi/2001/1090), [reg. 4](https://www.legislation.gov.uk/uksi/2001/1090/regulation/4), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/1090/schedule/2/part/I)
 
-[^key-fc5cdd9a28f86418f3cb15c5ba390075]: Modification: S. 436 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
+[^c-fc5cdd9a28f86418f3cb15c5ba390075]: Modification: S. 436 applied (with modifications) (E.W.S.) (6.4.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Investigations) Regulations 2014 (S.I. 2014/574)](https://www.legislation.gov.uk/uksi/2014/574), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/574/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2014/574/regulation/2)
 
 [^c17409061]: Textual amendment: S. 436(1) substituted for subsections (1)(2) by [Companies Act 1989 (c. 40, SIF 27)](https://www.legislation.gov.uk/ukpga/1989/40), [ss. 56(6)](https://www.legislation.gov.uk/ukpga/1989/40/section/56/6), [213(2)](https://www.legislation.gov.uk/ukpga/1989/40/section/213/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Review of operation and effect of sections 25 to 32[^key-12f199549e4dbac7247e98ee4c6658f5][^key-78b0c0f546f2e602293aa7297ebf65b9]
+## 33. Review of operation and effect of sections 25 to 32[^c-12f199549e4dbac7247e98ee4c6658f5][^c-78b0c0f546f2e602293aa7297ebf65b9]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12f199549e4dbac7247e98ee4c6658f5]: Commencement: S. 33 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-12f199549e4dbac7247e98ee4c6658f5]: Commencement: S. 33 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-78b0c0f546f2e602293aa7297ebf65b9]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2023/4/section/33) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)
+[^c-78b0c0f546f2e602293aa7297ebf65b9]: Commencement: [S. 33](https://www.legislation.gov.uk/asc/2023/4/section/33) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)

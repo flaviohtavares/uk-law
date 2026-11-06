@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Extension of powers under sections 135 and 136 of the Mental Health Act 1983[^c22719161][^key-8e2f886044bdca24641a57be0e8990a3]
+## 80. Extension of powers under sections 135 and 136 of the Mental Health Act 1983[^c22719161][^c-8e2f886044bdca24641a57be0e8990a3]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 [^c22719161]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2017/3/section/80) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-8e2f886044bdca24641a57be0e8990a3]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2017/3/section/80) in force at 11.12.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))
+[^c-8e2f886044bdca24641a57be0e8990a3]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2017/3/section/80) in force at 11.12.2017 in so far as not already in force by [S.I. 2017/1017](https://www.legislation.gov.uk/uksi/2017/1017), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/1017/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/1017/regulation/4))

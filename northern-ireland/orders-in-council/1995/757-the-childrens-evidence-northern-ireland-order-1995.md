@@ -65,7 +65,7 @@ a notice ( “notice of transfer”) certifying that opinion may be given by or 
 
 (2) A notice of transfer shall be given before the magistrates' court—
 
-- (a)[^key-c9bd508c7dc14035becaeb37d7414cad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c9bd508c7dc14035becaeb37d7414cad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) has begun to conduct a preliminary inquiry.
 
 (3) On the giving of a notice of transfer the functions of the magistrates' court shall cease in relation to the case except as provided by paragraph 2 of Schedule 1 or by any regulations under Article 26(3) of the Access to Justice (Northern Ireland) Order 2003[^M_F_ca611215-65ad-4a00-ac59-51eb7e75dd16].
@@ -354,7 +354,7 @@ shall, in exercising any of its powers in relation to the case, have regard to t
 
 [^c5481881]: Textual amendment: [1999 NI 8](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-c9bd508c7dc14035becaeb37d7414cad]: Textual amendment: [Art. 4(2)(a)](https://www.legislation.gov.uk/nisi/1995/757/article/4/2/a) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 12](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/12); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-c9bd508c7dc14035becaeb37d7414cad]: Textual amendment: [Art. 4(2)(a)](https://www.legislation.gov.uk/nisi/1995/757/article/4/2/a) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 12](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/12); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^M_F_ca611215-65ad-4a00-ac59-51eb7e75dd16]: Textual amendment: Words in art. 4(3) substituted (1.4.2015) by Access to [Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 12(2)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/12/2); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 

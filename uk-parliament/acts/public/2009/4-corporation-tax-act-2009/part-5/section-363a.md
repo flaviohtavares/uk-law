@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 363A. Arrangements for avoiding section 361 or 362[^key-8eb24dc94c7d4cbf849561d4e1fca9f9]
+## 363A. Arrangements for avoiding section 361 or 362[^c-8eb24dc94c7d4cbf849561d4e1fca9f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eb24dc94c7d4cbf849561d4e1fca9f9]: Textual amendment: S. 363A inserted (with effect in accordance with s. 23(5)-(7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 23(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/23/3)
+[^c-8eb24dc94c7d4cbf849561d4e1fca9f9]: Textual amendment: S. 363A inserted (with effect in accordance with s. 23(5)-(7) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 23(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/23/3)

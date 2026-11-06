@@ -31,7 +31,7 @@ summary: ''
 
 FISHERIES
 
-Fisheries Byelaws (Northern Ireland) 2003 (revoked)[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+Fisheries Byelaws (Northern Ireland) 2003 (revoked)[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 Made
 
@@ -41,11 +41,11 @@ Coming into operation
 
 1st January 2004
 
-[^key-ce5f6c7e3b40467b4ccd18aec171c103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce5f6c7e3b40467b4ccd18aec171c103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — INTRODUCTORY[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART I — INTRODUCTORY[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -55,7 +55,7 @@ Coming into operation
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Revocations](part-i/section-3.md)
 
-### PART II — LICENCES, DUTIES AND FEES[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART II — LICENCES, DUTIES AND FEES[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -83,7 +83,7 @@ Coming into operation
 - [Section 23 — Issue of tidal draft net licences](part-ii/section-23.md)
 - [Section 24 — Revocation of, or refusal to issue or renew, a fishing licence](part-ii/section-24.md)
 
-### PART III — APPEAL TO A MAGISTRATES’ COURT AGAINST THE REFUSAL OF THE BOARD TO ISSUE OR RESTORE A FISHING LICENCE[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART III — APPEAL TO A MAGISTRATES’ COURT AGAINST THE REFUSAL OF THE BOARD TO ISSUE OR RESTORE A FISHING LICENCE[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -97,7 +97,7 @@ Coming into operation
 - [Section 30](part-iii/section-30.md)
 - [Section 31](part-iii/section-31.md)
 
-### PART IV — COARSE FISHING ROD LICENCES[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART IV — COARSE FISHING ROD LICENCES[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -106,7 +106,7 @@ Coming into operation
 - [Section 32](part-iv/section-32.md)
 - [Section 33](part-iv/section-33.md)
 
-### PART V — USE OF SINGLE WALL SET NETS, TRAMMEL NETS, DRAFT NETS AND BAIT NETS[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART V — USE OF SINGLE WALL SET NETS, TRAMMEL NETS, DRAFT NETS AND BAIT NETS[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -115,7 +115,7 @@ Coming into operation
 - [Section 34](part-v/section-34.md)
 - [Section 35](part-v/section-35.md)
 
-### PART VI — GENERAL RESTRICTIONS ON THE USE OF FISHING ENGINES OTHER THAN ROD AND LINE OR HAND LINE[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART VI — GENERAL RESTRICTIONS ON THE USE OF FISHING ENGINES OTHER THAN ROD AND LINE OR HAND LINE[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -126,7 +126,7 @@ Coming into operation
 - [Section 38](part-vi/section-38.md)
 - [Section 39](part-vi/section-39.md)
 
-### PART VII — RESTRICTIONS ON THE USE OF FISHING ENGINES OTHER THAN ROD AND LINE OR HAND LINE ON LOUGH NEAGH AND UPPER AND LOWER LOUGH ERNE[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART VII — RESTRICTIONS ON THE USE OF FISHING ENGINES OTHER THAN ROD AND LINE OR HAND LINE ON LOUGH NEAGH AND UPPER AND LOWER LOUGH ERNE[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -138,7 +138,7 @@ Coming into operation
 - [Section 43](part-vii/section-43.md)
 - [Section 44](part-vii/section-44.md)
 
-### PART VIII — ADDITIONAL AND SPECIFIC RESTRICTIONS ON THE USE OF CERTAIN NETS ON LOUGH NEAGH[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART VIII — ADDITIONAL AND SPECIFIC RESTRICTIONS ON THE USE OF CERTAIN NETS ON LOUGH NEAGH[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -148,7 +148,7 @@ Coming into operation
 - [Section 46](part-viii/section-46.md)
 - [Section 47](part-viii/section-47.md)
 
-### PART IX — ADDITIONAL AND SPECIFIC RESTRICTIONS ON THE USE OF NETS AND BOATS ON UPPER AND LOWER LOUGH ERNE[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART IX — ADDITIONAL AND SPECIFIC RESTRICTIONS ON THE USE OF NETS AND BOATS ON UPPER AND LOWER LOUGH ERNE[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -159,7 +159,7 @@ Coming into operation
 - [Section 50](part-ix/section-50.md)
 - [Section 51](part-ix/section-51.md)
 
-### PART X — TAKEABLE SIZE AND SALE OF TROUT AND POLLEN (COMMERCIAL FISHING AND ANGLING)[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART X — TAKEABLE SIZE AND SALE OF TROUT AND POLLEN (COMMERCIAL FISHING AND ANGLING)[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -170,7 +170,7 @@ Coming into operation
 - [Section 54](part-x/section-54.md)
 - [Section 55](part-x/section-55.md)
 
-### PART XI — MODE OF USE OF DRIFT NETS AND DRAFT NETS[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART XI — MODE OF USE OF DRIFT NETS AND DRAFT NETS[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -180,7 +180,7 @@ Coming into operation
 - [Section 57](part-xi/section-57.md)
 - [Section 58](part-xi/section-58.md)
 
-### PART XII — RESTRICTIONS ON THE DIMENSIONS OF DRAFT NETS AND DRIFT NETS AND ON THE USE OF BOATS FOR DRIFT NETTING[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART XII — RESTRICTIONS ON THE DIMENSIONS OF DRAFT NETS AND DRIFT NETS AND ON THE USE OF BOATS FOR DRIFT NETTING[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -192,7 +192,7 @@ Coming into operation
 - [Section 62](part-xii/section-62.md)
 - [Section 63](part-xii/section-63.md)
 
-### PART XIII — RESTRICTIONS ON SALMON FISHING IN TIDAL WATERS[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART XIII — RESTRICTIONS ON SALMON FISHING IN TIDAL WATERS[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -202,7 +202,7 @@ Coming into operation
 - [Section 65](part-xiii/section-65.md)
 - [Section 66](part-xiii/section-66.md)
 
-### PART XIV — RESTRICTIONS ON METHODS OF FISHING FOR SALMON AND FRESHWATER FISH[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART XIV — RESTRICTIONS ON METHODS OF FISHING FOR SALMON AND FRESHWATER FISH[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -214,7 +214,7 @@ Coming into operation
 - [Section 70](part-xiv/section-70.md)
 - [Section 71](part-xiv/section-71.md)
 
-### PART XV — RESTRICTIONS ON NUMBERS AND WEIGHTS OF PIKE TO BE TAKEN BY ANGLING[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART XV — RESTRICTIONS ON NUMBERS AND WEIGHTS OF PIKE TO BE TAKEN BY ANGLING[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -222,7 +222,7 @@ Coming into operation
 
 - [Section 72](part-xv/section-72.md)
 
-### PART XVI — ANNUAL CLOSE SEASONS FOR ANGLING FOR SALMON OR TROUT[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART XVI — ANNUAL CLOSE SEASONS FOR ANGLING FOR SALMON OR TROUT[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -233,7 +233,7 @@ Coming into operation
 - [Section 75](part-xvi/section-75.md)
 - [Section 76](part-xvi/section-76.md)
 
-### PART XVII — ANNUAL CLOSE SEASONS AND CLOSE TIMES FOR COMMERCIAL FISHING[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART XVII — ANNUAL CLOSE SEASONS AND CLOSE TIMES FOR COMMERCIAL FISHING[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -246,7 +246,7 @@ Coming into operation
 - [Section 81](part-xvii/section-81.md)
 - [Section 82](part-xvii/section-82.md)
 
-### PART XVIII — PROHIBITION ON ANY PERSON HAVING UNDERSIZED PIKE OR PERCH IN THEIR POSSESSION[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART XVIII — PROHIBITION ON ANY PERSON HAVING UNDERSIZED PIKE OR PERCH IN THEIR POSSESSION[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -256,7 +256,7 @@ Coming into operation
 - [Section 84](part-xviii/section-84.md)
 - [Section 85](part-xviii/section-85.md)
 
-### PART XIX — RESTRICTIONS ON THE KILLING OF SALMON[^key-ce5f6c7e3b40467b4ccd18aec171c103]
+### PART XIX — RESTRICTIONS ON THE KILLING OF SALMON[^c-ce5f6c7e3b40467b4ccd18aec171c103]
 
 *Extent: N.I.*
 
@@ -281,14 +281,14 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-ce5f6c7e3b40467b4ccd18aec171c103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce5f6c7e3b40467b4ccd18aec171c103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-ce5f6c7e3b40467b4ccd18aec171c103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce5f6c7e3b40467b4ccd18aec171c103]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce5f6c7e3b40467b4ccd18aec171c103]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/525) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)
+[^c-ce5f6c7e3b40467b4ccd18aec171c103]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/525) revoked (1.3.2014) by [Fisheries Regulations (Northern Ireland) 2014 (S.R. 2014/17)](https://www.legislation.gov.uk/nisr/2014/17), [regs. 1](https://www.legislation.gov.uk/nisr/2014/17/regulation/1), [3](https://www.legislation.gov.uk/nisr/2014/17/regulation/3), [Sch. 8](https://www.legislation.gov.uk/nisr/2014/17/schedule/8)

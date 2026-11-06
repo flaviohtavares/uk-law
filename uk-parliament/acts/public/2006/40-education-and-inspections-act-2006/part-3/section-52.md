@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Power of Assembly to make regulations about looked after children[^key-c27d68ac44a150625bdce484f7ca147c]
+## 52. Power of Assembly to make regulations about looked after children[^c-c27d68ac44a150625bdce484f7ca147c]
 
 *Extent: E+W*
 
@@ -38,10 +38,10 @@ summary: ''
 > - (a) shall not apply in relation to looked after children;
 > - (b) shall apply in relation to such children with prescribed modifications.
 
-(2)[^key-a9cecfe58a9b6c7359b65107abd31fc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a9cecfe58a9b6c7359b65107abd31fc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c27d68ac44a150625bdce484f7ca147c]: Commencement: S. 52 in force at 8.1.2007, see s. 188(2)
+[^c-c27d68ac44a150625bdce484f7ca147c]: Commencement: S. 52 in force at 8.1.2007, see s. 188(2)
 
-[^key-a9cecfe58a9b6c7359b65107abd31fc2]: Textual amendment: S. 52(2) repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(vii)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/vii)
+[^c-a9cecfe58a9b6c7359b65107abd31fc2]: Textual amendment: S. 52(2) repealed (26.1.2009) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [s. 173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4), [Sch. 2](https://www.legislation.gov.uk/ukpga/2008/25/schedule/2); [S.I. 2008/3077](https://www.legislation.gov.uk/uksi/2008/3077), [art. 4(h)(vii)](https://www.legislation.gov.uk/uksi/2008/3077/article/4/h/vii)

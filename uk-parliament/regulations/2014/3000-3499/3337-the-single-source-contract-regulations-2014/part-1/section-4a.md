@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4A. Meaning of “contract price”[^key-ad39092ea924f21278e068fda2fe73fd]
+## 4A. Meaning of “contract price”[^c-ad39092ea924f21278e068fda2fe73fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad39092ea924f21278e068fda2fe73fd]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/4A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/420/regulation/6)
+[^c-ad39092ea924f21278e068fda2fe73fd]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2014/3337/regulation/4A) inserted (1.4.2024) by [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2024/420/regulation/6)

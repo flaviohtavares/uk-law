@@ -28,7 +28,7 @@ summary: ''
 
 (2) Before determining the application, the authority must hold a hearing to consider it and any relevant representations.
 
-(3) The authority must, having regard to the application and any relevant representations, take such of the steps mentioned in subsection (4) (if any) as it considers appropriate[^key-ccec6b70dc1951b8591a9c7b37687410] for the promotion of the licensing objectives.
+(3) The authority must, having regard to the application and any relevant representations, take such of the steps mentioned in subsection (4) (if any) as it considers appropriate[^c-ccec6b70dc1951b8591a9c7b37687410] for the promotion of the licensing objectives.
 
 (4) The steps are—
 
@@ -52,10 +52,10 @@ and for this purpose the conditions of the licence are modified if any of them i
 (8) The requirements are—
 
 - (a) that the representations are made—
-  - (i) by the holder of the premises licence, a responsible authority or any other person[^key-80d93d8d0b78a800cd79d3c223e2067e] , and
+  - (i) by the holder of the premises licence, a responsible authority or any other person[^c-80d93d8d0b78a800cd79d3c223e2067e] , and
   - (ii) within the period prescribed under section 51(3)(c),
 - (b) that they have not been withdrawn, and
-- (c) if they are made by a person who is not a responsible authority[^key-65d55ecb21a85b1c7fc2aa9ec737e4f1] , that they are not, in the opinion of the relevant licensing authority, frivolous or vexatious.
+- (c) if they are made by a person who is not a responsible authority[^c-65d55ecb21a85b1c7fc2aa9ec737e4f1] , that they are not, in the opinion of the relevant licensing authority, frivolous or vexatious.
 
 (9) Where the relevant licensing authority determines that any representations are frivolous or vexatious, it must notify the person who made them of the reasons for that determination.
 
@@ -73,10 +73,10 @@ and for this purpose the conditions of the licence are modified if any of them i
 
 ## Annotations
 
-[^key-ccec6b70dc1951b8591a9c7b37687410]: Textual amendment: Word in s. 52(3) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(11)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/11), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-ccec6b70dc1951b8591a9c7b37687410]: Textual amendment: Word in s. 52(3) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(11)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/11), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
 [^c21001921]: Textual amendment: Words in s. 52(5) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 112](https://www.legislation.gov.uk/ukpga/2009/26/section/112), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116), [Sch. 7 Pt. 5 para. 34](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/part/5/paragraph/34); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
 
-[^key-80d93d8d0b78a800cd79d3c223e2067e]: Textual amendment: Words in s. 52(8)(a)(i) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 106(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/106/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 106(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/106/7)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-80d93d8d0b78a800cd79d3c223e2067e]: Textual amendment: Words in s. 52(8)(a)(i) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 106(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/106/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 106(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/106/7)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-65d55ecb21a85b1c7fc2aa9ec737e4f1]: Textual amendment: Words in s. 52(8)(c) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 106(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/106/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 106(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/106/7)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-65d55ecb21a85b1c7fc2aa9ec737e4f1]: Textual amendment: Words in s. 52(8)(c) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 106(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/106/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 106(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/106/7)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Amendment of article 2[^key-b54cf34fe43b08d38ef81449b3862b33]
+## 18. Amendment of article 2[^c-b54cf34fe43b08d38ef81449b3862b33]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b54cf34fe43b08d38ef81449b3862b33]: Commencement: Reg. 18 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-b54cf34fe43b08d38ef81449b3862b33]: Commencement: Reg. 18 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00016]: Footnote: Article 2 was amended by [S.R. (N.I.) 2008 No. 192](https://www.legislation.gov.uk/nisr/2008/192) and [2012 No. 308](https://www.legislation.gov.uk/nisr/2012/308), and by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916) and [2015/806](https://www.legislation.gov.uk/uksi/2015/806).
 

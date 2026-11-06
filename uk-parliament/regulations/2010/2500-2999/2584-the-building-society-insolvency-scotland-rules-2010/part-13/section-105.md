@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Definition of “proxy”[^key-459d8dfeee042a11520284f04f466867]
+## 105. Definition of “proxy”[^c-459d8dfeee042a11520284f04f466867]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-459d8dfeee042a11520284f04f466867]: Commencement: Rule 105 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-459d8dfeee042a11520284f04f466867]: Commencement: Rule 105 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00048]: Footnote: Rule 7.14 was amended by paragraph 42 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

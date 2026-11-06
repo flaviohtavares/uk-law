@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 344. Definition of “securities”[^key-eea21715c95fc633020d7e9b9933e246]
+## 344. Definition of “securities”[^c-eea21715c95fc633020d7e9b9933e246]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In subsection (1) of section 151 of the Railways Act 1993 (general interpretatio
 
 ## Annotations
 
-[^key-eea21715c95fc633020d7e9b9933e246]: Commencement: Art. 344 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-eea21715c95fc633020d7e9b9933e246]: Commencement: Art. 344 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

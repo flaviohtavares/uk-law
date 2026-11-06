@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-99a84bc2550f190cb3a772779d7ef0c5] The Secretary of State and the Treasury may by regulations provide that this Part applies in relation to contracts connected with an overseas investment exchange or overseas clearing house which—
+(1)[^c-99a84bc2550f190cb3a772779d7ef0c5] The Secretary of State and the Treasury may by regulations provide that this Part applies in relation to contracts connected with an overseas investment exchange or overseas clearing house which—
 
 - (a) is not a recognised investment exchange or recognised clearing house, but
 - (b) is approved by the Treasury in accordance with such requirements as may be so specified,
@@ -51,7 +51,7 @@ and different provision may be made with respect to different bodies or descript
 
 [^c13695081]: Commencement: S. 170 partly in force; s. 170 not in force at Royal Assent see s. 215(1)(2); s. 170 in force for certain purposes at 25.3.1991 by [S.I. 1991/488](https://www.legislation.gov.uk/uksi/1991/488), [art. 2(2)](https://www.legislation.gov.uk/uksi/1991/488/article/2/2).
 
-[^key-99a84bc2550f190cb3a772779d7ef0c5]: Textual amendment: S. 170(1) substituted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2009/853/regulation/2/11)
+[^c-99a84bc2550f190cb3a772779d7ef0c5]: Textual amendment: S. 170(1) substituted (15.6.2009) by [The Financial Markets and Insolvency Regulations 2009 (S.I. 2009/853)](https://www.legislation.gov.uk/uksi/2009/853), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/853/regulation/1/1), [2(11)](https://www.legislation.gov.uk/uksi/2009/853/regulation/2/11)
 
 [^c13695111]: Textual amendment: Word in s. 170(2) substituted (1.12.2001) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [84(3)(a)](https://www.legislation.gov.uk/uksi/2001/3649/article/84/3/a)
 

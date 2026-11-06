@@ -28,7 +28,7 @@ that case shall be treated as a special case for the purposes of the Act.
 - (a) a parent who provides such care to a lesser extent than the other parent, person or persons who provide such care for the child in question;
 - (b) where the persons mentioned in paragraph (1)(a) include both parents and the circumstances are such that care is provided to the same extent by both but each provides care to a greater or equal extent than any other person who provides such care for that child—
   - (i) the parent who is not in receipt of child benefit for the child in question; or
-  - (ii) if neither parent is in receipt of child benefit for that child, the parent who, in the opinion of the Secretary of State[^key-1278c7de9dca380910d6e6dcdf0c61cc], will not be the principal provider of day to day care for that child.
+  - (ii) if neither parent is in receipt of child benefit for that child, the parent who, in the opinion of the Secretary of State[^c-1278c7de9dca380910d6e6dcdf0c61cc], will not be the principal provider of day to day care for that child.
 
 (3) Subject to paragraphs (5) and (6), where a parent is treated as an absent parent under paragraph (2) child support maintenance shall be payable by that parent in respect of the child in question and the amount of the child support maintenance so payable shall be calculated in accordance with the formula set out in paragraph (4).
 
@@ -58,4 +58,4 @@ L is the number of children who are included in the maintenance assessment in qu
 
 ## Annotations
 
-[^key-1278c7de9dca380910d6e6dcdf0c61cc]: Textual amendment: Words in reg. 20(2)(b)(ii) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [16](https://www.legislation.gov.uk/uksi/1999/1510/article/16)
+[^c-1278c7de9dca380910d6e6dcdf0c61cc]: Textual amendment: Words in reg. 20(2)(b)(ii) substituted (1.6.1999) by [The Social Security Act 1998 (Commencement No. 7 and Consequential and Transitional Provisions) Order 1999 (S.I. 1999/1510)](https://www.legislation.gov.uk/uksi/1999/1510), [arts. 3(1)](https://www.legislation.gov.uk/uksi/1999/1510/article/3/1), [16](https://www.legislation.gov.uk/uksi/1999/1510/article/16)

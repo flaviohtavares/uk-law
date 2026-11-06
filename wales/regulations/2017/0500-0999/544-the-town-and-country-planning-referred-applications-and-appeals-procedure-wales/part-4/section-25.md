@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Written representations inappropriate[^key-90db2b06ab10c9117de8290a4ea0c955]
+## 25. Written representations inappropriate[^c-90db2b06ab10c9117de8290a4ea0c955]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90db2b06ab10c9117de8290a4ea0c955]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2017/544/regulation/25) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-90db2b06ab10c9117de8290a4ea0c955]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2017/544/regulation/25) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

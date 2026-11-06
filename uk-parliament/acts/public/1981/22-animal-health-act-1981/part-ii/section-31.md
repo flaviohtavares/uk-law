@@ -25,9 +25,9 @@ Schedule 3 to this Act has effect as to the slaughter of animals in relation toâ
 - (a) cattle plague;
 - (b) pleuro-pneumonia;
 - (c) foot-and-mouth disease;
-- (d)[^key-d13551af2038816e89567556ea0791b5] swine-fever; and
+- (d)[^c-d13551af2038816e89567556ea0791b5] swine-fever; and
 - (e) diseases of poultry.
 
 ## Annotations
 
-[^key-d13551af2038816e89567556ea0791b5]: Modification: S. 31(d) restricted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(2)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))
+[^c-d13551af2038816e89567556ea0791b5]: Modification: S. 31(d) restricted (14.8.2014) by [The Diseases of Swine Regulations 2014 (S.I. 2014/1894)](https://www.legislation.gov.uk/uksi/2014/1894), [regs. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c), [43(2)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/43/2) (with [reg. 4(1)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/4/1))

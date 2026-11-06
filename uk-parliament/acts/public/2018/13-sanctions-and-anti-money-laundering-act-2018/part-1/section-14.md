@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. “Specified ships”[^key-169138a279d3981a45b2aff4c94331ff]
+## 14. “Specified ships”[^c-169138a279d3981a45b2aff4c94331ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,8 +32,8 @@ summary: ''
 
 (6) The regulations must contain provision which prohibits the Minister from specifying a ship except where the Minister—
 
-- (a) has reasonable grounds to suspect that the ship is, has been, or is likely to be, involved in an activity specified in the regulations. [^key-0c14539656e04e8bfc03230fe394f919]...
-- (b)[^key-0c14539656e04e8bfc03230fe394f919] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) has reasonable grounds to suspect that the ship is, has been, or is likely to be, involved in an activity specified in the regulations. [^c-0c14539656e04e8bfc03230fe394f919]...
+- (b)[^c-0c14539656e04e8bfc03230fe394f919] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) An activity may not be specified in the regulations by virtue of subsection (6)(a) unless the Minister considers that specifying the activity is appropriate having regard to the purpose of the regulations as stated under section 1(3).
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-169138a279d3981a45b2aff4c94331ff]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2018/13/section/14) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
+[^c-169138a279d3981a45b2aff4c94331ff]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2018/13/section/14) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/a)
 
-[^key-0c14539656e04e8bfc03230fe394f919]: Textual amendment: [S. 14(6)(b)](https://www.legislation.gov.uk/ukpga/2018/13/section/14/6/b) and word omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 60](https://www.legislation.gov.uk/ukpga/2022/10/section/60), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)
+[^c-0c14539656e04e8bfc03230fe394f919]: Textual amendment: [S. 14(6)(b)](https://www.legislation.gov.uk/ukpga/2018/13/section/14/6/b) and word omitted (15.3.2022) by virtue of [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [ss. 60](https://www.legislation.gov.uk/ukpga/2022/10/section/60), [69(3)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/3)

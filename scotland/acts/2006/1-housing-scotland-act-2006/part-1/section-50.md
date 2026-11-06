@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Power of majority to recover maintenance costs[^key-b91fa32a6f3ae197c6c5576eb8cc76b6]
+## 50. Power of majority to recover maintenance costs[^c-b91fa32a6f3ae197c6c5576eb8cc76b6]
 
 *Extent: S*
 
@@ -37,7 +37,7 @@ summary: ''
   - (ii) the development management scheme in so far as it applies to those houses or any decision made under that scheme, or
   - (iii) the tenement management scheme in so far as it applies to those houses or any decision made under that scheme, and
 - (c) that—
-  - (i) the owner who has not complied with the requirement is unable or unwilling[^key-0a0395f2e38e690502d28e67ad5adb81] to do so,
+  - (i) the owner who has not complied with the requirement is unable or unwilling[^c-0a0395f2e38e690502d28e67ad5adb81] to do so,
   - (ii) it is unreasonable to require that owner to deposit the sum in question, or
   - (iii) that owner cannot, by reasonable inquiry, be identified or found.
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b91fa32a6f3ae197c6c5576eb8cc76b6]: Commencement: S. 50 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-b91fa32a6f3ae197c6c5576eb8cc76b6]: Commencement: S. 50 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
 
-[^key-0a0395f2e38e690502d28e67ad5adb81]: Textual amendment: Words in s. 50(2)(c)(i) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 150(1)](https://www.legislation.gov.uk/asp/2010/17/section/150/1), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-0a0395f2e38e690502d28e67ad5adb81]: Textual amendment: Words in s. 50(2)(c)(i) inserted (1.3.2011) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 150(1)](https://www.legislation.gov.uk/asp/2010/17/section/150/1), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

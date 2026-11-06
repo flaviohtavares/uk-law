@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.95. Record of proceedings[^key-d755e2008938197df1a2e8829f755315]
+## 6.95. Record of proceedings[^c-d755e2008938197df1a2e8829f755315]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d755e2008938197df1a2e8829f755315]: Commencement: [Rule 6.95](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.95) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d755e2008938197df1a2e8829f755315]: Commencement: [Rule 6.95](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.95) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Power to direct allocation of resources[^key-5b71a3a166d3e242c2b284a9b0299347]
+## 11. Power to direct allocation of resources[^c-5b71a3a166d3e242c2b284a9b0299347]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ The Scottish Ministers may, if they are satisfied that it is necessary to do so,
 
 ## Annotations
 
-[^key-5b71a3a166d3e242c2b284a9b0299347]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2008/5/section/11) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-5b71a3a166d3e242c2b284a9b0299347]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2008/5/section/11) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

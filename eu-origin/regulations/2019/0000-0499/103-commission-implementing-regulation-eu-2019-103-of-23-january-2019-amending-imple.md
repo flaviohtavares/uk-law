@@ -36,22 +36,22 @@ amending Implementing Regulation (EU) 2015/1998 as regards clarification, harmon
 
 (Text with EEA relevance) (revoked)
 
-[^key-ee55e1847345ad29bffff6b69e09aa50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee55e1847345ad29bffff6b69e09aa50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ee55e1847345ad29bffff6b69e09aa50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ee55e1847345ad29bffff6b69e09aa50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ee55e1847345ad29bffff6b69e09aa50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ee55e1847345ad29bffff6b69e09aa50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee55e1847345ad29bffff6b69e09aa50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee55e1847345ad29bffff6b69e09aa50]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-ee55e1847345ad29bffff6b69e09aa50]
+## ANNEX[^c-ee55e1847345ad29bffff6b69e09aa50]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee55e1847345ad29bffff6b69e09aa50]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [127](https://www.legislation.gov.uk/uksi/2019/547/regulation/127); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee55e1847345ad29bffff6b69e09aa50]: Textual amendment: Regulation revoked (31.12.2020) by [The Aviation Security (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/547)](https://www.legislation.gov.uk/uksi/2019/547), [regs. 1](https://www.legislation.gov.uk/uksi/2019/547/regulation/1), [127](https://www.legislation.gov.uk/uksi/2019/547/regulation/127); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

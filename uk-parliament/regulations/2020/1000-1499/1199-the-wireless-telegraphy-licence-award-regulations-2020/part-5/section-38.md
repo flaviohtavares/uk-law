@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Number of principal stage bids following assignment of standing high bid status[^key-8048278af510b045699399dd58ebc918]
+## 38. Number of principal stage bids following assignment of standing high bid status[^c-8048278af510b045699399dd58ebc918]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A bidder which made principal stage bids to which OFCOM assigned standing high b
 
 ## Annotations
 
-[^key-8048278af510b045699399dd58ebc918]: Commencement: Reg. 38 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-8048278af510b045699399dd58ebc918]: Commencement: Reg. 38 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

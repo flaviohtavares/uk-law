@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 7 — Measures in a low pathogenic avian influenza zone[^key-7c3084c56997d8bcb6be9c4828c33889]
+## SCHEDULE 7 — Measures in a low pathogenic avian influenza zone[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 *Extent: E+W+S*
 
@@ -24,44 +24,44 @@ summary: ''
 
 Article 57
 
-### 1. Restrictions on the movement of poultry, other captive birds and mammals onto and off premises[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 1. Restrictions on the movement of poultry, other captive birds and mammals onto and off premises[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Biosecurity measures[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 2. Biosecurity measures[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Litter, poultry manure and slurry[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 3. Litter, poultry manure and slurry[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Gatherings of poultry[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 4. Gatherings of poultry[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Release of game[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 5. Release of game[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Restrictions on the movement of poultry, other captive birds and eggs within the zone[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 6. Restrictions on the movement of poultry, other captive birds and eggs within the zone[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Restrictions on the movement of poultry, other captive birds and eggs out of the zone[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 7. Restrictions on the movement of poultry, other captive birds and eggs out of the zone[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7c3084c56997d8bcb6be9c4828c33889] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7c3084c56997d8bcb6be9c4828c33889] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Carcases[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 9. Carcases[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Cleansing and disinfection of vehicles[^key-7c3084c56997d8bcb6be9c4828c33889]
+### 10. Cleansing and disinfection of vehicles[^c-7c3084c56997d8bcb6be9c4828c33889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7c3084c56997d8bcb6be9c4828c33889]: Textual amendment: Instrument revoked with saving (13.11.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006 (S.I. 2006/2702)](https://www.legislation.gov.uk/uksi/2006/2702), [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2) (with [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2))
+[^c-7c3084c56997d8bcb6be9c4828c33889]: Textual amendment: Instrument revoked with saving (13.11.2006) by [The Avian Influenza and Influenza of Avian Origin in Mammals (England) (No.2) Order 2006 (S.I. 2006/2702)](https://www.legislation.gov.uk/uksi/2006/2702), [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2) (with [art. 86(2)](https://www.legislation.gov.uk/uksi/2006/2702/article/86/2))

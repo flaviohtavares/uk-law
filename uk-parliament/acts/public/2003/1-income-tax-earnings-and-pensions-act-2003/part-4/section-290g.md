@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290G. Related employments[^key-89dec35007301e1c5368fb2113089512]
+## 290G. Related employments[^c-89dec35007301e1c5368fb2113089512]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89dec35007301e1c5368fb2113089512]: Textual amendment: Ss. 290C-290G inserted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/13/2)
+[^c-89dec35007301e1c5368fb2113089512]: Textual amendment: Ss. 290C-290G inserted (with effect in accordance with s. 13(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/13/2)

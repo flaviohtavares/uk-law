@@ -52,7 +52,7 @@ summary: ''
 >
 > (6) The Welsh Ministers may by regulations substitute a different amount for the amount for the time being specified in sub-paragraph (4)(a).
 
-(3)[^key-5f332b5ef5e92d515ee0cd78f4f3fee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5f332b5ef5e92d515ee0cd78f4f3fee5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Part 2 of Schedule 11 (valuation tribunals: Wales), after paragraph 2(ca) insert—
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f332b5ef5e92d515ee0cd78f4f3fee5]: Textual amendment: S. 152(3) omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g), [Sch. para. 21(3)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/21/3)
+[^c-5f332b5ef5e92d515ee0cd78f4f3fee5]: Textual amendment: S. 152(3) omitted (16.11.2024) by virtue of [Local Government Finance (Wales) Act 2024 (asc 6)](https://www.legislation.gov.uk/asc/2024/6), [s. 23(2)(g)](https://www.legislation.gov.uk/asc/2024/6/section/23/2/g), [Sch. para. 21(3)](https://www.legislation.gov.uk/asc/2024/6/schedule/paragraph/21/3)

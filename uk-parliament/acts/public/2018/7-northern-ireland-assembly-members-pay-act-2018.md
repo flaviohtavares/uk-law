@@ -32,18 +32,18 @@ Northern Ireland Assembly Members (Pay) Act 2018 (repealed)
 
 2018 c. 7
 
-[^key-e6570ce3c4bd53e49351f21f4c46c360]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e6570ce3c4bd53e49351f21f4c46c360]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Remuneration of Northern Ireland Assembly members[^key-e6570ce3c4bd53e49351f21f4c46c360]
+## 1. Remuneration of Northern Ireland Assembly members[^c-e6570ce3c4bd53e49351f21f4c46c360]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent, commencement and short title[^key-e6570ce3c4bd53e49351f21f4c46c360]
+## 2. Extent, commencement and short title[^c-e6570ce3c4bd53e49351f21f4c46c360]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e6570ce3c4bd53e49351f21f4c46c360]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2018/7) repealed (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 10(10)](https://www.legislation.gov.uk/ukpga/2022/48/section/10/10), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-e6570ce3c4bd53e49351f21f4c46c360]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2018/7) repealed (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 10(10)](https://www.legislation.gov.uk/ukpga/2022/48/section/10/10), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)

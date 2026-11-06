@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Social Care and Social Work Improvement Scotland[^key-077937b286924a3497de3224dfffa121][^key-59673fba0cbe74fe4137adb5c94a97de][^key-ca609f825bd1d092131bba5f7b861164]
+## 44. Social Care and Social Work Improvement Scotland[^c-077937b286924a3497de3224dfffa121][^c-59673fba0cbe74fe4137adb5c94a97de][^c-ca609f825bd1d092131bba5f7b861164]
 
 *Extent: S*
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-077937b286924a3497de3224dfffa121]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/8/section/44) in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-077937b286924a3497de3224dfffa121]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/8/section/44) in force at 1.8.2010 for specified purposes by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2010/221/article/3/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-59673fba0cbe74fe4137adb5c94a97de]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/8/section/44) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-59673fba0cbe74fe4137adb5c94a97de]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/8/section/44) in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-ca609f825bd1d092131bba5f7b861164]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/8/section/44) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-ca609f825bd1d092131bba5f7b861164]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2010/8/section/44) in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

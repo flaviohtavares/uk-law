@@ -51,7 +51,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and application[^key-e8bac97cc5c609cb19f1c3d797cbb6a4]
+### 1. Citation, commencement, extent and application[^c-e8bac97cc5c609cb19f1c3d797cbb6a4]
 
 (1) These Regulations may be cited as the Environmental Protection (Microbeads) (Wales) Regulations 2018.
 
@@ -59,7 +59,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (3) These Regulations extend to England and Wales, but apply in relation to Wales only.
 
-### 2. Interpretation[^key-fb74986fd0b94caa9ae69a66e152b105]
+### 2. Interpretation[^c-fb74986fd0b94caa9ae69a66e152b105]
 
 In these Regulations—
 
@@ -86,7 +86,7 @@ In these Regulations—
 
 ## PART 2 — Offences
 
-### 3. Offences[^key-c97c82051575949aa14566c36b88350b]
+### 3. Offences[^c-c97c82051575949aa14566c36b88350b]
 
 (1) A person who, in the manufacture of any rinse-off personal care product, uses microbeads as an ingredient of that product is guilty of an offence.
 
@@ -94,7 +94,7 @@ In these Regulations—
 
 (3) A person guilty of an offence under paragraph (1) or (2) is liable on summary conviction to a fine.
 
-### 4. Defence of due diligence for suppliers[^key-f09d390a31bf763aa3eb5e4e60b228a9]
+### 4. Defence of due diligence for suppliers[^c-f09d390a31bf763aa3eb5e4e60b228a9]
 
 (1) Subject to paragraphs (2) and (4), in proceedings for an offence under regulation 3(2) it is a defence for a person (“P”) to show that P took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
@@ -120,7 +120,7 @@ In these Regulations—
 - (a) to the act or default of another person; or
 - (b) to reliance on information supplied by another person.
 
-### 5. Time limit for the prosecution of offences[^key-7b9800af34a6ec9ec4d4626e9be9718c]
+### 5. Time limit for the prosecution of offences[^c-7b9800af34a6ec9ec4d4626e9be9718c]
 
 (1) Any information relating to an offence under regulation 3 or 10 that is triable by a magistrates’ court may be so tried if it is laid within twelve months after the date on which evidence sufficient in the opinion of the prosecutor to justify the proceedings comes to the knowledge of the prosecutor.
 
@@ -128,7 +128,7 @@ In these Regulations—
 
 ## PART 3 — Enforcement and Civil Sanctions
 
-### 6. Enforcement[^key-605f0e65c861aaf714e582d37d83f119]
+### 6. Enforcement[^c-605f0e65c861aaf714e582d37d83f119]
 
 (1) The regulator may authorise any person to exercise, for an authorised purpose and in accordance with the terms of the authorisation, any of the powers specified in regulation 8 and 9, if that person appears to the regulator suitable to exercise them.
 
@@ -136,11 +136,11 @@ In these Regulations—
 
 (3) In this Part, “enforcement officer” means a person authorised under paragraph (1).
 
-### 7. Civil sanctions[^key-1c11626247f27c018aa8a780224f368d]
+### 7. Civil sanctions[^c-1c11626247f27c018aa8a780224f368d]
 
 The Schedule (civil sanctions) has effect for the purpose of the enforcement of an offence under regulation 3(1), 3(2) or 10(1).
 
-### 8. Enforcement Officer Powers[^key-5600a17a6bd694b32c03b8a24aee8fd0]
+### 8. Enforcement Officer Powers[^c-5600a17a6bd694b32c03b8a24aee8fd0]
 
 (1) The powers which an enforcement officer may be authorised to exercise are—
 
@@ -150,7 +150,7 @@ The Schedule (civil sanctions) has effect for the purpose of the enforcement of 
 
 (2) Nothing in this section shall be taken to compel the production by any person of a document of which that person would on grounds of legal professional privilege be entitled to withhold production on an order for discovery in an action in the High Court.
 
-### 9. Powers of entry and examination etc.[^key-1a0b551cb0ec6033ac4180ba52b04612]
+### 9. Powers of entry and examination etc.[^c-1a0b551cb0ec6033ac4180ba52b04612]
 
 (1) The powers which an enforcement officer may be authorised to exercise are—
 
@@ -185,7 +185,7 @@ any entry onto those premises by virtue of paragraph (1)(a) may only be effected
 - (b) a manufacturer of a rinse-off personal care product or an employee of such a manufacturer; or
 - (c) the owner or occupier of any premises in which the enforcement officer seeks to exercise the power concerned.
 
-### 10. Offences[^key-33fc765d84a3d4e98a5fef481e282cd1]
+### 10. Offences[^c-33fc765d84a3d4e98a5fef481e282cd1]
 
 (1) A person commits an offence if in response to powers exercised under regulations 8 and 9 that person—
 
@@ -195,7 +195,7 @@ any entry onto those premises by virtue of paragraph (1)(a) may only be effected
 
 (2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine.
 
-### 11. Publication of enforcement action[^key-f0305eec1c95f28c0deb5eede488eee0]
+### 11. Publication of enforcement action[^c-f0305eec1c95f28c0deb5eede488eee0]
 
 (1) Where the regulator imposes a civil sanction under these Regulations in relation to an offence under regulation 3 or 10, the regulator must from time to time publish—
 
@@ -209,7 +209,7 @@ any entry onto those premises by virtue of paragraph (1)(a) may only be effected
 
 ## PART 4 — Guidance
 
-### 12. Guidance[^key-659940a98dd67c2db6a13ef2fc4def9b]
+### 12. Guidance[^c-659940a98dd67c2db6a13ef2fc4def9b]
 
 (1) The regulator must publish guidance about its use of civil sanctions under these Regulations in relation to an offence under regulation 3 or 10.
 
@@ -228,7 +228,7 @@ any entry onto those premises by virtue of paragraph (1)(a) may only be effected
 
 (6) The regulator must have regard to the guidance or revised guidance in exercising its functions.
 
-### 13. Additional guidance[^key-0e9739c548f12bc149c521cb4d90d237]
+### 13. Additional guidance[^c-0e9739c548f12bc149c521cb4d90d237]
 
 (1) Guidance under section 64 of the 2008 Act relating to the use of non-compliance penalties and enforcement recovery costs must (in addition to the matters specified in section 64(2)) specify—
 
@@ -240,7 +240,7 @@ any entry onto those premises by virtue of paragraph (1)(a) may only be effected
 
 ## PART 5 — Review
 
-### 14. Review[^key-d48ef6c4411c56dfb5c24d11f0636bc6]
+### 14. Review[^c-d48ef6c4411c56dfb5c24d11f0636bc6]
 
 (1) The Welsh Ministers must—
 
@@ -264,7 +264,7 @@ Regulations 2, 7, 13(2) and 14(1)
 
 ### PART 1 — Variable Monetary Penalties and Compliance Notices
 
-#### 1. Imposition of a variable monetary penalty or compliance notice[^key-1aec2e13a84d3ca1940c8fba1c147bc9]
+#### 1. Imposition of a variable monetary penalty or compliance notice[^c-1aec2e13a84d3ca1940c8fba1c147bc9]
 
 (1) In relation to an offence under regulation 3(1), 3(2) or 10(1) the regulator may by notice impose—
 
@@ -281,7 +281,7 @@ Regulations 2, 7, 13(2) and 14(1)
 
 (6) Before serving a notice relating to a variable monetary penalty on a person, the regulator may require the person to provide such information as is reasonable for the purpose of establishing the amount of any financial benefit arising as a result of that offence.
 
-#### 2. Notice of intent[^key-5e1136a778aeaa1e36bcf78eb0559141]
+#### 2. Notice of intent[^c-5e1136a778aeaa1e36bcf78eb0559141]
 
 (1) Where the regulator proposes to serve a variable monetary penalty or a compliance notice on a person, the regulator must serve on that person a notice of what is proposed (a “notice of intent”).
 
@@ -295,13 +295,13 @@ Regulations 2, 7, 13(2) and 14(1)
 
 (3) A person on whom a notice of intent is served may, within 28 days beginning with the day on which the notice was received, make representations and objections to the regulator in relation to the proposed imposition of a variable monetary penalty or compliance notice.
 
-#### 3. Third party undertakings[^key-93e0ce6eedb4a500726c086982f373ae]
+#### 3. Third party undertakings[^c-93e0ce6eedb4a500726c086982f373ae]
 
 (1) A person on whom a notice of intent is served may offer an undertaking as to action to be taken by that person (including the payment of a sum of money) to benefit any third party affected by the offence (a “third party undertaking”).
 
 (2) The regulator may accept or reject any such third party undertaking.
 
-#### 4. Final notice[^key-5aac09a47d5ec3c89bfda79fb4e4ea97]
+#### 4. Final notice[^c-5aac09a47d5ec3c89bfda79fb4e4ea97]
 
 (1) After the end of the period for making representations and objections, the regulator must decide whether—
 
@@ -317,7 +317,7 @@ Regulations 2, 7, 13(2) and 14(1)
 - (a) whether or not to serve a final notice; and
 - (b) the amount of any variable monetary penalty it imposes.
 
-#### 5. Contents of final notice: variable monetary penalty[^key-98de5c590dfcf4e10d820a6d9541c072]
+#### 5. Contents of final notice: variable monetary penalty[^c-98de5c590dfcf4e10d820a6d9541c072]
 
 A final notice for a variable monetary penalty must include information as to—
 
@@ -328,7 +328,7 @@ A final notice for a variable monetary penalty must include information as to—
 - (e) rights of appeal; and
 - (f) the consequences of failing to comply with the notice.
 
-#### 6. Contents of final notice: compliance notice[^key-9077d6368c4aaaecc7b172cd0b4305a7]
+#### 6. Contents of final notice: compliance notice[^c-9077d6368c4aaaecc7b172cd0b4305a7]
 
 A final notice relating to a compliance notice must include information as to—
 
@@ -337,7 +337,7 @@ A final notice relating to a compliance notice must include information as to—
 - (c) rights of appeal; and
 - (d) the consequences of failing to comply with the notice.
 
-#### 7. Appeals against final notice[^key-f97fed23c75c2bf90985bfdc8206ab01]
+#### 7. Appeals against final notice[^c-f97fed23c75c2bf90985bfdc8206ab01]
 
 (1) The person receiving the final notice may appeal against it.
 
@@ -350,7 +350,7 @@ A final notice relating to a compliance notice must include information as to—
 - (e) that the decision is unreasonable for any other reason;
 - (f) any other reason.
 
-#### 8. Criminal proceedings[^key-95f22b64ce6bc3098db42e0d9201879f]
+#### 8. Criminal proceedings[^c-95f22b64ce6bc3098db42e0d9201879f]
 
 (1) If—
 
@@ -367,7 +367,7 @@ that person may not at any time be convicted of the offence in respect of the ac
 
 ### PART 2 — Stop Notices
 
-#### 9. Stop notices[^key-2e1694f7c06a61243012323f85cdc03c]
+#### 9. Stop notices[^c-2e1694f7c06a61243012323f85cdc03c]
 
 (1) The regulator may serve a stop notice on any person in a case falling within sub-paragraph (3) or (4).
 
@@ -387,7 +387,7 @@ that person may not at any time be convicted of the offence in respect of the ac
 
 (5) The steps referred to in sub-paragraph (2) must be steps to remove or reduce the harm or risk of harm to the environment (including the health of animals).
 
-#### 10. Contents of a stop notice[^key-01d54f4e7e113920f3744710da95dbe7]
+#### 10. Contents of a stop notice[^c-01d54f4e7e113920f3744710da95dbe7]
 
 A stop notice must include information as to—
 
@@ -396,7 +396,7 @@ A stop notice must include information as to—
 - (c) rights of appeal; and
 - (d) the consequences of non-compliance.
 
-#### 11. Appeals against stop notices[^key-920cd8844e724170909cdcab38f6d3fa]
+#### 11. Appeals against stop notices[^c-920cd8844e724170909cdcab38f6d3fa]
 
 (1) The person on whom a stop notice is served may appeal against the decision to serve it.
 
@@ -410,7 +410,7 @@ A stop notice must include information as to—
 - (f) that the person would not, by reason of any defence, have been liable to be convicted of the offence had the stop notice not been served;
 - (g) any other reason.
 
-#### 12. Completion certificates[^key-14d1a39b48d7780e121b617ec108742d]
+#### 12. Completion certificates[^c-14d1a39b48d7780e121b617ec108742d]
 
 (1) Where, after service of a stop notice, the regulator is satisfied that the person has taken the steps specified in the notice, the regulator must issue a certificate to that effect (“a completion certificate”).
 
@@ -420,7 +420,7 @@ A stop notice must include information as to—
 
 (4) The regulator must make a decision as to whether to issue a completion certificate, and give written notice of the decision to the applicant, within 14 days of such an application.
 
-#### 13. Appeals against decision not to issue a completion certificate[^key-3cd1ae68168776c03652509d83c97f8c]
+#### 13. Appeals against decision not to issue a completion certificate[^c-3cd1ae68168776c03652509d83c97f8c]
 
 The person on whom the stop notice was served may appeal against a decision not to issue a completion certification on the grounds that the decision—
 
@@ -429,7 +429,7 @@ The person on whom the stop notice was served may appeal against a decision not 
 - (c) was unfair or unreasonable;
 - (d) was wrong for any other reason.
 
-#### 14. Compensation[^key-008c09c1fe6affbd8d87ff22ae9e3405]
+#### 14. Compensation[^c-008c09c1fe6affbd8d87ff22ae9e3405]
 
 The regulator must compensate a person for loss suffered as the result of the service of a stop notice or the refusal of a completion certificate if—
 
@@ -437,7 +437,7 @@ The regulator must compensate a person for loss suffered as the result of the se
 - (b) the person successfully appeals against the stop notice and the First-tier Tribunal finds that the service of the notice was unreasonable; or
 - (c) the person successfully appeals against the refusal of a completion certificate and the First-tier Tribunal finds that the refusal was unreasonable.
 
-#### 15. Appeal against compensation decision[^key-3ecfc94fe686624f84a56c6483012368]
+#### 15. Appeal against compensation decision[^c-3ecfc94fe686624f84a56c6483012368]
 
 A person may appeal against a decision not to award compensation or the amount of compensation—
 
@@ -445,24 +445,24 @@ A person may appeal against a decision not to award compensation or the amount o
 - (b) on the grounds that the amount offered was based on incorrect facts;
 - (c) for any other reason.
 
-#### 16. Offence[^key-f7585103910269449614ef3914251ec0]
+#### 16. Offence[^c-f7585103910269449614ef3914251ec0]
 
 (1) Where a person on whom a stop notice is served does not comply with it within the time limit specified in the notice, the person is guilty of an offence and liable—
 
-- (a) on summary conviction, to a fine, or imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-ab5ba0cc7791a62dcf0ea395ea8626b0], or both; or
+- (a) on summary conviction, to a fine, or imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-ab5ba0cc7791a62dcf0ea395ea8626b0], or both; or
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years, or a fine, or both.
 
-(2) In relation to an offence committed before paragraph 24(2) of Schedule 22 to the Sentencing Act 2020[^key-63b7ab3cc31b5ab5c918ffd1ff2be0ca] comes into force, the reference in sub-paragraph (1)(a) to the general limit in a magistrates’ court[^key-984909a87f27cd0024af12fc88309187] is to be read as a reference to six months.
+(2) In relation to an offence committed before paragraph 24(2) of Schedule 22 to the Sentencing Act 2020[^c-63b7ab3cc31b5ab5c918ffd1ff2be0ca] comes into force, the reference in sub-paragraph (1)(a) to the general limit in a magistrates’ court[^c-984909a87f27cd0024af12fc88309187] is to be read as a reference to six months.
 
 ### PART 3 — Enforcement Undertakings
 
-#### 17. Enforcement undertakings[^key-1728da5938b61d0ef8ef629c48738cfd]
+#### 17. Enforcement undertakings[^c-1728da5938b61d0ef8ef629c48738cfd]
 
 (1) The regulator may accept a written undertaking (an “enforcement undertaking”) given by a person in a case where the regulator has reasonable grounds to suspect that the person has committed an offence under regulation 3(1) or (2).
 
 (2) For the purposes of this Part an “enforcement undertaking” is a written undertaking to take such action as may be specified in the undertaking within such period as may be so specified.
 
-#### 18. Contents of an enforcement undertaking[^key-7e443939f04f2d0d41931c14e3cfce6d]
+#### 18. Contents of an enforcement undertaking[^c-7e443939f04f2d0d41931c14e3cfce6d]
 
 (1) An enforcement undertaking must specify—
 
@@ -480,14 +480,14 @@ A person may appeal against a decision not to award compensation or the amount o
 
 (4) The enforcement undertaking may be varied, or the period within which the action must be completed may be extended, if both parties agree in writing.
 
-#### 19. Acceptance of an enforcement undertaking[^key-02c669391bf860800c9481cd2745a23c]
+#### 19. Acceptance of an enforcement undertaking[^c-02c669391bf860800c9481cd2745a23c]
 
 If the regulator has accepted an enforcement undertaking, then, unless the person from whom the undertaking is accepted has failed to comply with the undertaking or any part of it—
 
 - (a) that person may not at any time be convicted of the offence in respect of the act or omission to which the undertaking relates; and
 - (b) the regulator may not impose on that person a variable monetary penalty, a compliance notice or a stop notice in respect of that act or omission.
 
-#### 20. Discharge of an enforcement undertaking[^key-4e668f5e6923a53489e0700a064c059b]
+#### 20. Discharge of an enforcement undertaking[^c-4e668f5e6923a53489e0700a064c059b]
 
 (1) If the regulator is satisfied that an enforcement undertaking has been complied with, it must issue a certificate to that effect.
 
@@ -497,7 +497,7 @@ If the regulator has accepted an enforcement undertaking, then, unless the perso
 
 (4) The regulator must decide whether to issue such a certificate, and give written notice of the decision to the applicant, within 14 days of such an application.
 
-#### 21. Appeals against decision not to issue a certificate[^key-d0b134323c5235016b304c1727ceb376]
+#### 21. Appeals against decision not to issue a certificate[^c-d0b134323c5235016b304c1727ceb376]
 
 The person to whom the notice is given may appeal against a decision not to issue a certificate on the grounds that the decision—
 
@@ -506,13 +506,13 @@ The person to whom the notice is given may appeal against a decision not to issu
 - (c) was unfair or unreasonable;
 - (d) was wrong for any other reason.
 
-#### 22. Inaccurate, misleading or incomplete information[^key-619f4a36941ca7c0627bdc6254ddec72]
+#### 22. Inaccurate, misleading or incomplete information[^c-619f4a36941ca7c0627bdc6254ddec72]
 
 (1) A person who has given inaccurate, misleading or incomplete information in relation to an enforcement undertaking is to be taken not to have complied with it.
 
 (2) The regulator may by notice in writing revoke a certificate issued under paragraph 20 if it was issued on the basis of inaccurate, misleading or incomplete information.
 
-#### 23. Non-compliance with an enforcement undertaking[^key-3c7e905bf904f69361ffe63d94068652]
+#### 23. Non-compliance with an enforcement undertaking[^c-3c7e905bf904f69361ffe63d94068652]
 
 (1) If an enforcement undertaking is not complied with, the regulator may either—
 
@@ -525,7 +525,7 @@ The person to whom the notice is given may appeal against a decision not to issu
 
 ### PART 4 — Non-compliance penalties
 
-#### 24. Non-compliance penalties[^key-ab694d196b6bd0dec8331f25a858a2e0]
+#### 24. Non-compliance penalties[^c-ab694d196b6bd0dec8331f25a858a2e0]
 
 (1) If a person fails to comply with a compliance notice or a third party undertaking, the regulator may serve a notice on that person imposing a monetary penalty (a “non-compliance penalty”) in respect of the same offence, irrespective of whether a variable monetary penalty was also imposed in respect of that offence.
 
@@ -545,7 +545,7 @@ The person to whom the notice is given may appeal against a decision not to issu
 
 (5) If the requirements of the compliance notice are complied with or a third party undertaking is fulfilled before the time set for payment of the non-compliance penalty, the penalty is not payable.
 
-#### 25. Appeals against non-compliance penalties[^key-37888151a3692bfa2953b9fc7adca7c5]
+#### 25. Appeals against non-compliance penalties[^c-37888151a3692bfa2953b9fc7adca7c5]
 
 (1) The person on whom the notice imposing the non-compliance penalty is served may appeal against it.
 
@@ -559,14 +559,14 @@ The person to whom the notice is given may appeal against a decision not to issu
 
 ### PART 5 — Administration and Appeals
 
-#### 26. Withdrawing or amending a notice[^key-67a1b9bede8ee5a8098e6fd81d119402]
+#### 26. Withdrawing or amending a notice[^c-67a1b9bede8ee5a8098e6fd81d119402]
 
 The regulator may at any time in writing—
 
 - (a) withdraw a notice imposing a variable monetary penalty or a notice imposing a non-compliance penalty, or reduce the amount specified in the notice; or
 - (b) withdraw a compliance notice or stop notice, or amend the steps specified, in order to reduce the amount of work necessary to comply with the notice.
 
-#### 27. Enforcement cost recovery notices[^key-4edcc6c1e6348bdea5e3518d8ee808d7]
+#### 27. Enforcement cost recovery notices[^c-4edcc6c1e6348bdea5e3518d8ee808d7]
 
 (1) The regulator may serve a notice (an “enforcement cost recovery notice”) on a person on whom a relevant notice has been served requiring that person to pay the costs incurred by the regulator in relation to the imposition of the requirement imposed by the relevant notice up to the time of its imposition.
 
@@ -590,7 +590,7 @@ The regulator may at any time in writing—
 
 (6) The person required to pay costs is not liable to pay any costs shown by that person to have been unnecessarily incurred.
 
-#### 28. Appeals against enforcement cost recovery notices[^key-f4edd2dd974439270f1a816125a42df5]
+#### 28. Appeals against enforcement cost recovery notices[^c-f4edd2dd974439270f1a816125a42df5]
 
 The person required to pay costs may appeal—
 
@@ -598,11 +598,11 @@ The person required to pay costs may appeal—
 - (b) against the decision of the regulator as to the amount of those costs;
 - (c) for any other reason.
 
-#### 29. Power to recover payments[^key-77a48cf973465ad2dab0e7b35da93944]
+#### 29. Power to recover payments[^c-77a48cf973465ad2dab0e7b35da93944]
 
 The regulator may recover any variable monetary penalty or non-compliance penalty imposed under this Schedule as if payable under a court order.
 
-#### 30. Appeals: general provisions[^key-0003ad1f4f757f86092e205890d0ec3c]
+#### 30. Appeals: general provisions[^c-0003ad1f4f757f86092e205890d0ec3c]
 
 (1) An appeal under paragraph 7, 11, 13, 15, 21, 25 or 28 of this Schedule is to the First-tier Tribunal.
 
@@ -650,96 +650,96 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: Section 36(2) was amended by the Enterprise Act 2016, section 21(1), (2)(f); section 42(6) was amended by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664); section 49(1) was amended by [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
-[^key-e8bac97cc5c609cb19f1c3d797cbb6a4]: Commencement: Reg. 1 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-e8bac97cc5c609cb19f1c3d797cbb6a4]: Commencement: Reg. 1 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-fb74986fd0b94caa9ae69a66e152b105]: Commencement: Reg. 2 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-fb74986fd0b94caa9ae69a66e152b105]: Commencement: Reg. 2 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-c97c82051575949aa14566c36b88350b]: Commencement: Reg. 3 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-c97c82051575949aa14566c36b88350b]: Commencement: Reg. 3 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-f09d390a31bf763aa3eb5e4e60b228a9]: Commencement: Reg. 4 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-f09d390a31bf763aa3eb5e4e60b228a9]: Commencement: Reg. 4 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-7b9800af34a6ec9ec4d4626e9be9718c]: Commencement: Reg. 5 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-7b9800af34a6ec9ec4d4626e9be9718c]: Commencement: Reg. 5 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-605f0e65c861aaf714e582d37d83f119]: Commencement: Reg. 6 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-605f0e65c861aaf714e582d37d83f119]: Commencement: Reg. 6 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-1c11626247f27c018aa8a780224f368d]: Commencement: Reg. 7 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-1c11626247f27c018aa8a780224f368d]: Commencement: Reg. 7 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-5600a17a6bd694b32c03b8a24aee8fd0]: Commencement: Reg. 8 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-5600a17a6bd694b32c03b8a24aee8fd0]: Commencement: Reg. 8 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-1a0b551cb0ec6033ac4180ba52b04612]: Commencement: Reg. 9 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-1a0b551cb0ec6033ac4180ba52b04612]: Commencement: Reg. 9 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-33fc765d84a3d4e98a5fef481e282cd1]: Commencement: Reg. 10 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-33fc765d84a3d4e98a5fef481e282cd1]: Commencement: Reg. 10 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-f0305eec1c95f28c0deb5eede488eee0]: Commencement: Reg. 11 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-f0305eec1c95f28c0deb5eede488eee0]: Commencement: Reg. 11 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-659940a98dd67c2db6a13ef2fc4def9b]: Commencement: Reg. 12 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-659940a98dd67c2db6a13ef2fc4def9b]: Commencement: Reg. 12 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-0e9739c548f12bc149c521cb4d90d237]: Commencement: Reg. 13 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-0e9739c548f12bc149c521cb4d90d237]: Commencement: Reg. 13 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-d48ef6c4411c56dfb5c24d11f0636bc6]: Commencement: Reg. 14 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-d48ef6c4411c56dfb5c24d11f0636bc6]: Commencement: Reg. 14 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-1aec2e13a84d3ca1940c8fba1c147bc9]: Commencement: Sch. para. 1 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-1aec2e13a84d3ca1940c8fba1c147bc9]: Commencement: Sch. para. 1 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-5e1136a778aeaa1e36bcf78eb0559141]: Commencement: Sch. para. 2 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-5e1136a778aeaa1e36bcf78eb0559141]: Commencement: Sch. para. 2 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-93e0ce6eedb4a500726c086982f373ae]: Commencement: Sch. para. 3 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-93e0ce6eedb4a500726c086982f373ae]: Commencement: Sch. para. 3 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-5aac09a47d5ec3c89bfda79fb4e4ea97]: Commencement: Sch. para. 4 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-5aac09a47d5ec3c89bfda79fb4e4ea97]: Commencement: Sch. para. 4 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-98de5c590dfcf4e10d820a6d9541c072]: Commencement: Sch. para. 5 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-98de5c590dfcf4e10d820a6d9541c072]: Commencement: Sch. para. 5 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-9077d6368c4aaaecc7b172cd0b4305a7]: Commencement: Sch. para. 6 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-9077d6368c4aaaecc7b172cd0b4305a7]: Commencement: Sch. para. 6 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-f97fed23c75c2bf90985bfdc8206ab01]: Commencement: Sch. para. 7 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-f97fed23c75c2bf90985bfdc8206ab01]: Commencement: Sch. para. 7 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-95f22b64ce6bc3098db42e0d9201879f]: Commencement: Sch. para. 8 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-95f22b64ce6bc3098db42e0d9201879f]: Commencement: Sch. para. 8 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-2e1694f7c06a61243012323f85cdc03c]: Commencement: Sch. para. 9 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-2e1694f7c06a61243012323f85cdc03c]: Commencement: Sch. para. 9 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-01d54f4e7e113920f3744710da95dbe7]: Commencement: Sch. para. 10 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-01d54f4e7e113920f3744710da95dbe7]: Commencement: Sch. para. 10 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-920cd8844e724170909cdcab38f6d3fa]: Commencement: Sch. para. 11 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-920cd8844e724170909cdcab38f6d3fa]: Commencement: Sch. para. 11 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-14d1a39b48d7780e121b617ec108742d]: Commencement: Sch. para. 12 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-14d1a39b48d7780e121b617ec108742d]: Commencement: Sch. para. 12 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-3cd1ae68168776c03652509d83c97f8c]: Commencement: Sch. para. 13 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-3cd1ae68168776c03652509d83c97f8c]: Commencement: Sch. para. 13 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-008c09c1fe6affbd8d87ff22ae9e3405]: Commencement: Sch. para. 14 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-008c09c1fe6affbd8d87ff22ae9e3405]: Commencement: Sch. para. 14 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-3ecfc94fe686624f84a56c6483012368]: Commencement: Sch. para. 15 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-3ecfc94fe686624f84a56c6483012368]: Commencement: Sch. para. 15 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-f7585103910269449614ef3914251ec0]: Commencement: Sch. para. 16 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-f7585103910269449614ef3914251ec0]: Commencement: Sch. para. 16 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-ab5ba0cc7791a62dcf0ea395ea8626b0]: Textual amendment: Words in [Sch. para. 16(1)(a)](https://www.legislation.gov.uk/wsi/2018/760/schedule/paragraph/16/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-ab5ba0cc7791a62dcf0ea395ea8626b0]: Textual amendment: Words in [Sch. para. 16(1)(a)](https://www.legislation.gov.uk/wsi/2018/760/schedule/paragraph/16/1/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-63b7ab3cc31b5ab5c918ffd1ff2be0ca]: Textual amendment: Words in [Sch. para. 16(2)](https://www.legislation.gov.uk/wsi/2018/760/schedule/paragraph/16/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 446(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/446/1) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-63b7ab3cc31b5ab5c918ffd1ff2be0ca]: Textual amendment: Words in [Sch. para. 16(2)](https://www.legislation.gov.uk/wsi/2018/760/schedule/paragraph/16/2) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 446(1)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/446/1) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-984909a87f27cd0024af12fc88309187]: Textual amendment: Words in [Sch. para. 16(2)](https://www.legislation.gov.uk/wsi/2018/760/schedule/paragraph/16/2) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
+[^c-984909a87f27cd0024af12fc88309187]: Textual amendment: Words in [Sch. para. 16(2)](https://www.legislation.gov.uk/wsi/2018/760/schedule/paragraph/16/2) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/2)
 
-[^key-1728da5938b61d0ef8ef629c48738cfd]: Commencement: Sch. para. 17 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-1728da5938b61d0ef8ef629c48738cfd]: Commencement: Sch. para. 17 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-7e443939f04f2d0d41931c14e3cfce6d]: Commencement: Sch. para. 18 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-7e443939f04f2d0d41931c14e3cfce6d]: Commencement: Sch. para. 18 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-02c669391bf860800c9481cd2745a23c]: Commencement: Sch. para. 19 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-02c669391bf860800c9481cd2745a23c]: Commencement: Sch. para. 19 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-4e668f5e6923a53489e0700a064c059b]: Commencement: Sch. para. 20 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-4e668f5e6923a53489e0700a064c059b]: Commencement: Sch. para. 20 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-d0b134323c5235016b304c1727ceb376]: Commencement: Sch. para. 21 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-d0b134323c5235016b304c1727ceb376]: Commencement: Sch. para. 21 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-619f4a36941ca7c0627bdc6254ddec72]: Commencement: Sch. para. 22 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-619f4a36941ca7c0627bdc6254ddec72]: Commencement: Sch. para. 22 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-3c7e905bf904f69361ffe63d94068652]: Commencement: Sch. para. 23 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-3c7e905bf904f69361ffe63d94068652]: Commencement: Sch. para. 23 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-ab694d196b6bd0dec8331f25a858a2e0]: Commencement: Sch. para. 24 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-ab694d196b6bd0dec8331f25a858a2e0]: Commencement: Sch. para. 24 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-37888151a3692bfa2953b9fc7adca7c5]: Commencement: Sch. para. 25 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-37888151a3692bfa2953b9fc7adca7c5]: Commencement: Sch. para. 25 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-67a1b9bede8ee5a8098e6fd81d119402]: Commencement: Sch. para. 26 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-67a1b9bede8ee5a8098e6fd81d119402]: Commencement: Sch. para. 26 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-4edcc6c1e6348bdea5e3518d8ee808d7]: Commencement: Sch. para. 27 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-4edcc6c1e6348bdea5e3518d8ee808d7]: Commencement: Sch. para. 27 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-f4edd2dd974439270f1a816125a42df5]: Commencement: Sch. para. 28 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-f4edd2dd974439270f1a816125a42df5]: Commencement: Sch. para. 28 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-77a48cf973465ad2dab0e7b35da93944]: Commencement: Sch. para. 29 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-77a48cf973465ad2dab0e7b35da93944]: Commencement: Sch. para. 29 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
 
-[^key-0003ad1f4f757f86092e205890d0ec3c]: Commencement: Sch. para. 30 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)
+[^c-0003ad1f4f757f86092e205890d0ec3c]: Commencement: Sch. para. 30 in force at 30.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/760/regulation/1/2)

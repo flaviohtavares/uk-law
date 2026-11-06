@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.38. Disclosure and inspection of documents[^key-ec521899480f6045fcc89e6e8997460c]
+## 33.38. Disclosure and inspection of documents[^c-ec521899480f6045fcc89e6e8997460c]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ec521899480f6045fcc89e6e8997460c]: Commencement: [Rule 33.38](https://www.legislation.gov.uk/uksi/2025/909/rule/33.38) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ec521899480f6045fcc89e6e8997460c]: Commencement: [Rule 33.38](https://www.legislation.gov.uk/uksi/2025/909/rule/33.38) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00838]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132); amending instruments relevant to this Part are [S.I. 2000/221](https://www.legislation.gov.uk/uksi/2000/221) and [2001/4015](https://www.legislation.gov.uk/uksi/2001/4015).

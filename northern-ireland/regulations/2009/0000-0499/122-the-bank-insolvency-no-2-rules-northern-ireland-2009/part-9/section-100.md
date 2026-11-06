@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 100. Bank liquidator’s remuneration where he realises assets on behalf of chargeholder[^key-72755527d2df7a21bcf723734170c2d7]
+## 100. Bank liquidator’s remuneration where he realises assets on behalf of chargeholder[^c-72755527d2df7a21bcf723734170c2d7]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72755527d2df7a21bcf723734170c2d7]: Commencement: Rule 100 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-72755527d2df7a21bcf723734170c2d7]: Commencement: Rule 100 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

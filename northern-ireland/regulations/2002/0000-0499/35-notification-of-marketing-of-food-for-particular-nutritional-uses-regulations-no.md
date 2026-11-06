@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Notification of Marketing of Food for Particular Nutritional Uses Regulations (Northern Ireland) 2002 (revoked)[^key-77d4fad26054622bcb79af828f3577f0]
+Notification of Marketing of Food for Particular Nutritional Uses Regulations (Northern Ireland) 2002 (revoked)[^c-77d4fad26054622bcb79af828f3577f0]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 8th March 2002
 
-[^key-77d4fad26054622bcb79af828f3577f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77d4fad26054622bcb79af828f3577f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-77d4fad26054622bcb79af828f3577f0]
+## 1. Citation and commencement[^c-77d4fad26054622bcb79af828f3577f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-77d4fad26054622bcb79af828f3577f0]
+## 2. Interpretation[^c-77d4fad26054622bcb79af828f3577f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Restriction on sale[^key-77d4fad26054622bcb79af828f3577f0]
+## 3. Restriction on sale[^c-77d4fad26054622bcb79af828f3577f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-77d4fad26054622bcb79af828f3577f0]
+## 4. Enforcement[^c-77d4fad26054622bcb79af828f3577f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-77d4fad26054622bcb79af828f3577f0]
+## 5. Offences and penalties[^c-77d4fad26054622bcb79af828f3577f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of provisions of the Order[^key-77d4fad26054622bcb79af828f3577f0]
+## 6. Application of provisions of the Order[^c-77d4fad26054622bcb79af828f3577f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-77d4fad26054622bcb79af828f3577f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77d4fad26054622bcb79af828f3577f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-77d4fad26054622bcb79af828f3577f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77d4fad26054622bcb79af828f3577f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-77d4fad26054622bcb79af828f3577f0]: Textual amendment: Regulations revoked (1.3.2007) by [The Notification of Marketing of Food for Particular Nutritional Uses Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/60)](https://www.legislation.gov.uk/nisr/2007/60), [regs. 1](https://www.legislation.gov.uk/nisr/2007/60/regulation/1), [8](https://www.legislation.gov.uk/nisr/2007/60/regulation/8)
+[^c-77d4fad26054622bcb79af828f3577f0]: Textual amendment: Regulations revoked (1.3.2007) by [The Notification of Marketing of Food for Particular Nutritional Uses Regulations (Northern Ireland) 2007 (revoked) 2007 (S.R. 2007/60)](https://www.legislation.gov.uk/nisr/2007/60), [regs. 1](https://www.legislation.gov.uk/nisr/2007/60/regulation/1), [8](https://www.legislation.gov.uk/nisr/2007/60/regulation/8)

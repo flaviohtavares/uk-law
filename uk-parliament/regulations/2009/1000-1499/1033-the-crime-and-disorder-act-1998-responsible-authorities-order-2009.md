@@ -54,13 +54,13 @@ The Secretary of State considers it would be in the interests of reducing crime 
 
 Accordingly the Secretary of State makes the following Order:
 
-## 1. Citation and commencement[^key-a8456209e3486cb3a23351044ab9dd9a]
+## 1. Citation and commencement[^c-a8456209e3486cb3a23351044ab9dd9a]
 
 This Order may be cited as the Crime and Disorder Act 1998 (Responsible Authorities) Order 2009 and shall come into force on 21st May 2009.
 
-## 2. Combined areas[^key-136275099d3d411b135e45d4dfc5276a]
+## 2. Combined areas[^c-136275099d3d411b135e45d4dfc5276a]
 
-(1) The functions conferred by or under section 6 or by section 7[^key-cc634debf7b383603052198fea3acf47] of the Crime and Disorder Act 1998[^f00002] are to be carried out in relation to the local government areas of Gedling Borough Council, Rushcliffe Borough Council and Broxtowe Borough Council as if they constituted only one area (for the purposes of this article, “the combined area”).
+(1) The functions conferred by or under section 6 or by section 7[^c-cc634debf7b383603052198fea3acf47] of the Crime and Disorder Act 1998[^f00002] are to be carried out in relation to the local government areas of Gedling Borough Council, Rushcliffe Borough Council and Broxtowe Borough Council as if they constituted only one area (for the purposes of this article, “the combined area”).
 
 (2) The persons who for the purposes of Chapter 1 of the Crime and Disorder Act 1998 are to be taken as the responsible authorities in relation to the combined area are the persons who comprise every person who, apart from this Order, would be a responsible authority in relation to any one or more of the areas included in the combined area.
 
@@ -82,10 +82,10 @@ This Order has the effect that three crime and disorder partnerships in Nottingh
 
 [^f00001]: Footnote: [1998 c.37](https://www.legislation.gov.uk/ukpga/1998/37): subsection (1A) was inserted in section 5 by section 97(1) and (3) of the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30) and was amended by paragraph 2 of Schedule 9 to the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48).
 
-[^key-a8456209e3486cb3a23351044ab9dd9a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1033/article/1) in force at 21.5.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1033/article/1)
+[^c-a8456209e3486cb3a23351044ab9dd9a]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/1033/article/1) in force at 21.5.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1033/article/1)
 
-[^key-136275099d3d411b135e45d4dfc5276a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1033/article/2) in force at 21.5.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1033/article/1)
+[^c-136275099d3d411b135e45d4dfc5276a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/1033/article/2) in force at 21.5.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1033/article/1)
 
-[^key-cc634debf7b383603052198fea3acf47]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1033/article/2/1) substituted (14.11.2011) by [The Crime and Disorder Act 1998 (Responsible Authorities) (Amendment) Order 2011 (S.I. 2011/2468)](https://www.legislation.gov.uk/uksi/2011/2468), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2468/article/1), [3](https://www.legislation.gov.uk/uksi/2011/2468/article/3)
+[^c-cc634debf7b383603052198fea3acf47]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/1033/article/2/1) substituted (14.11.2011) by [The Crime and Disorder Act 1998 (Responsible Authorities) (Amendment) Order 2011 (S.I. 2011/2468)](https://www.legislation.gov.uk/uksi/2011/2468), [arts. 1](https://www.legislation.gov.uk/uksi/2011/2468/article/1), [3](https://www.legislation.gov.uk/uksi/2011/2468/article/3)
 
 [^f00002]: Footnote: Sections 6 and 6A were substituted by paragraph 3 of Schedule 9 to the Police and Justice Act 2006.

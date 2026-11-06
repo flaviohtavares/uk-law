@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Consent to law enforcement processing[^key-63a14e2be78bbe039cd85d79758f7ecd]
+## 69. Consent to law enforcement processing[^c-63a14e2be78bbe039cd85d79758f7ecd]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63a14e2be78bbe039cd85d79758f7ecd]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2025/18/section/69) in force at 19.8.2025, see [s. 142(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/a)
+[^c-63a14e2be78bbe039cd85d79758f7ecd]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2025/18/section/69) in force at 19.8.2025, see [s. 142(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Modification of appointment and licence conditions[^key-88696da00bc43839568c9082047f0f9b]
+## 49. Modification of appointment and licence conditions[^c-88696da00bc43839568c9082047f0f9b]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88696da00bc43839568c9082047f0f9b]: Commencement: S. 49 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(vii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/vii) (with art. 5)
+[^c-88696da00bc43839568c9082047f0f9b]: Commencement: S. 49 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(vii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/vii) (with art. 5)

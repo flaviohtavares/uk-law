@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Obstruction of construction of authorised works[^key-4f0c12c671f69b418fa39ef758c68710]
+## 40. Obstruction of construction of authorised works[^c-4f0c12c671f69b418fa39ef758c68710]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-4f0c12c671f69b418fa39ef758c68710]: Commencement: Art. 40 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-4f0c12c671f69b418fa39ef758c68710]: Commencement: Art. 40 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

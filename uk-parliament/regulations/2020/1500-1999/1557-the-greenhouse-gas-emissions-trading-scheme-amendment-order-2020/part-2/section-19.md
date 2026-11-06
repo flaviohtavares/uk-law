@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Article 35 amended (charges)[^key-6aec8d405e46ed524ebdadb461d56668]
+## 19. Article 35 amended (charges)[^c-6aec8d405e46ed524ebdadb461d56668]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6aec8d405e46ed524ebdadb461d56668]: Commencement: Art. 19 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-6aec8d405e46ed524ebdadb461d56668]: Commencement: Art. 19 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

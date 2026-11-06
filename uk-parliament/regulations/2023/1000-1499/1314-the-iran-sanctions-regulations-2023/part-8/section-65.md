@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Director disqualification: licensing offences[^key-c78b19f398f9f98cb76a6b21e24877cc]
+## 65. Director disqualification: licensing offences[^c-c78b19f398f9f98cb76a6b21e24877cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 ## Annotations
 
-[^key-c78b19f398f9f98cb76a6b21e24877cc]: Commencement: Reg. 65 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-c78b19f398f9f98cb76a6b21e24877cc]: Commencement: Reg. 65 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

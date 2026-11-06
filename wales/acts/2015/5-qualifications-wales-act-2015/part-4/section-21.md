@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Power to specify minimum requirements[^key-b09250557b9f7d052492425146759ace]
+## 21. Power to specify minimum requirements[^c-b09250557b9f7d052492425146759ace]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b09250557b9f7d052492425146759ace]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2015/5/section/21) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-b09250557b9f7d052492425146759ace]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2015/5/section/21) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

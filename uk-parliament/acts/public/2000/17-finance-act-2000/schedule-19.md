@@ -26,11 +26,11 @@ Section 68.
 
 #### Research and development
 
-**1.**[^key-a90eab8ab4d3dbfd84109bc287dfcfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a90eab8ab4d3dbfd84109bc287dfcfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Oil and gas exploration and appraisal
 
-**2.**[^key-a90eab8ab4d3dbfd84109bc287dfcfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a90eab8ab4d3dbfd84109bc287dfcfb4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Consequential amendments
 
@@ -128,7 +128,7 @@ The provisions affected by this amendment are: section 4(5), (9) (twice) and (10
 
 ## Annotations
 
-[^key-a90eab8ab4d3dbfd84109bc287dfcfb4]: Textual amendment: Sch. 19 paras. 1, 2 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a90eab8ab4d3dbfd84109bc287dfcfb4]: Textual amendment: Sch. 19 paras. 1, 2 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14058341]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 

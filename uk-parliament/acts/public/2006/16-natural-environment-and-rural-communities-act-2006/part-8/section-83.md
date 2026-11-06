@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Particular powers[^key-20264b8a67fc217882ccdbe489b0432a]
+## 83. Particular powers[^c-20264b8a67fc217882ccdbe489b0432a]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20264b8a67fc217882ccdbe489b0432a]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2006/16/section/83) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-20264b8a67fc217882ccdbe489b0432a]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2006/16/section/83) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)

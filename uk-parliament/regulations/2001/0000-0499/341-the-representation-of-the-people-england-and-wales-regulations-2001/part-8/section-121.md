@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 121. Interpretation of Part 8[^key-d5198767c3f76e1f293276ffb40153ba]
+## 121. Interpretation of Part 8[^c-d5198767c3f76e1f293276ffb40153ba]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ and any like terms are to be construed accordingly.
 
 ## Annotations
 
-[^key-d5198767c3f76e1f293276ffb40153ba]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2001/341/part/8) substituted (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/3) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))
+[^c-d5198767c3f76e1f293276ffb40153ba]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/uksi/2001/341/part/8) substituted (18.7.2025) by [The Senedd Cymru (Representation of the People) Order 2025 (S.I. 2025/864)](https://www.legislation.gov.uk/wsi/2025/864), [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/wsi/2025/864/schedule/11/paragraph/3) (with [art. 1(4)](https://www.legislation.gov.uk/wsi/2025/864/article/1/4))

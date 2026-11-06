@@ -24,7 +24,7 @@ summary: ''
 
 (2) Condition A is that the interest distribution is paid on behalf of the participant to a company.
 
-(3) Condition B is that the legal owner has reasonable grounds for believing that the participant is not [^key-01d7f09d316e59712a1564f4c95e799a]... resident in the United Kingdom.
+(3) Condition B is that the legal owner has reasonable grounds for believing that the participant is not [^c-01d7f09d316e59712a1564f4c95e799a]... resident in the United Kingdom.
 
 (4) Condition C is that the company mentioned in paragraph (2)—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01d7f09d316e59712a1564f4c95e799a]: Textual amendment: Word in reg. 27(3) omitted (with effect in accordance with reg. 1(2)(c) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2013/2994/regulation/7)
+[^c-01d7f09d316e59712a1564f4c95e799a]: Textual amendment: Word in reg. 27(3) omitted (with effect in accordance with reg. 1(2)(c) of the amending S.I.) by virtue of [The Authorised Investment Funds (Tax) (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2994)](https://www.legislation.gov.uk/uksi/2013/2994), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2994/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2013/2994/regulation/7)

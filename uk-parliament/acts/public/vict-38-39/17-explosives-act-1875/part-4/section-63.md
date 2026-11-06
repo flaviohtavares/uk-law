@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Notice to be given of accidents connected with explosive.[^key-78ef00d0f924b61ca0fa480fbb4c5b6c][^M_F_06a69c07-c842-4185-c76a-5e8110140b23]
+## 63. Notice to be given of accidents connected with explosive.[^c-78ef00d0f924b61ca0fa480fbb4c5b6c][^M_F_06a69c07-c842-4185-c76a-5e8110140b23]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78ef00d0f924b61ca0fa480fbb4c5b6c]: Textual amendment: Ss. 62-66 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/5), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
+[^c-78ef00d0f924b61ca0fa480fbb4c5b6c]: Textual amendment: Ss. 62-66 repealed (N.I.) (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 1](https://www.legislation.gov.uk/nisr/2006/425/regulation/1), [Sch. 6 para. 1(5)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/1/5), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/nisr/2006/425/schedule/7/part/1) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
 
 [^M_F_06a69c07-c842-4185-c76a-5e8110140b23]: Textual amendment: S. 63 repealed (E.W.S.) (26.4.2005 with application outside E.W.S. as mentioned in reg. 3 of the repealing S.I.) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [Sch. 5 para. 1(5)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/1/5), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))

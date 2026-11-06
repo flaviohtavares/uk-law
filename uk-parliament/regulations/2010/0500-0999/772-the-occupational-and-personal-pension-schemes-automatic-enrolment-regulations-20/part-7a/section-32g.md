@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32G. Alternative requirements for a hybrid scheme[^key-021bf0aea326ae513867e96a32ed0baf]
+## 32G. Alternative requirements for a hybrid scheme[^c-021bf0aea326ae513867e96a32ed0baf]
 
 *Extent: E+W+S*
 
-(1) Subject to paragraph (2), in relation to a hybrid scheme to the extent to which requirements within section 24(1)(a) of the Act apply or which is referred to in regulation 32J(2), the prescribed alternative requirement is any of the sets of requirements set out in regulation 32E in relation to a money purchase scheme or, in respect of any jobholders accruing rights to benefits under a collective money purchase scheme, the set of requirements set out in regulation 32EA[^key-ac4c8bbe7b17aa866a6b268b8d7c4dfe].
+(1) Subject to paragraph (2), in relation to a hybrid scheme to the extent to which requirements within section 24(1)(a) of the Act apply or which is referred to in regulation 32J(2), the prescribed alternative requirement is any of the sets of requirements set out in regulation 32E in relation to a money purchase scheme or, in respect of any jobholders accruing rights to benefits under a collective money purchase scheme, the set of requirements set out in regulation 32EA[^c-ac4c8bbe7b17aa866a6b268b8d7c4dfe].
 
 (2) Where, by virtue of a rule made under section 24(2) to (4) of the Act, regulation 43(2) to (4) applies in relation to a hybrid scheme as referred to in paragraph (1), the prescribed alternative requirement is any of the sets of requirements set out in regulation 32E in relation to a money purchase scheme, as modified by regulation 43 but as if regulation 43 were modified as follows—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
+[^c-021bf0aea326ae513867e96a32ed0baf]: Textual amendment: Pt. 7A inserted (1.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2012 (S.I. 2012/1257)](https://www.legislation.gov.uk/uksi/2012/1257), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/1257/regulation/1/2/a), [4](https://www.legislation.gov.uk/uksi/2012/1257/regulation/4)
 
-[^key-ac4c8bbe7b17aa866a6b268b8d7c4dfe]: Textual amendment: Words in [reg. 32G(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/32G/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/4)
+[^c-ac4c8bbe7b17aa866a6b268b8d7c4dfe]: Textual amendment: Words in [reg. 32G(1)](https://www.legislation.gov.uk/uksi/2010/772/regulation/32G/1) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) Regulations 2022 (S.I. 2022/255)](https://www.legislation.gov.uk/uksi/2022/255), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3), [Sch. 7 para. 2(4)](https://www.legislation.gov.uk/uksi/2022/255/schedule/7/paragraph/2/4)

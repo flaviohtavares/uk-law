@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 347. Sections 344 to 346: supplementary provisions[^key-2bc321bd478f7379449ddb1b6c5ad36c][^key-8abe6f6c1151c712df5178adf4922925]
+## 347. Sections 344 to 346: supplementary provisions[^c-2bc321bd478f7379449ddb1b6c5ad36c][^c-8abe6f6c1151c712df5178adf4922925]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ in any place in the United Kingdom, the Isle of Man or a British overseas territ
 
 ## Annotations
 
-[^key-2bc321bd478f7379449ddb1b6c5ad36c]: Commencement: S. 347 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-2bc321bd478f7379449ddb1b6c5ad36c]: Commencement: S. 347 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-8abe6f6c1151c712df5178adf4922925]: Commencement: S. 347 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-8abe6f6c1151c712df5178adf4922925]: Commencement: S. 347 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

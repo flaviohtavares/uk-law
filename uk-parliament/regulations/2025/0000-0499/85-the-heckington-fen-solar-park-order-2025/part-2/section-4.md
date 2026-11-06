@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Operation of generating station[^key-4f37df985a158f3c247fed1b34fa4bad]
+## 4. Operation of generating station[^c-4f37df985a158f3c247fed1b34fa4bad]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f37df985a158f3c247fed1b34fa4bad]: Commencement: Art. 4 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-4f37df985a158f3c247fed1b34fa4bad]: Commencement: Art. 4 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

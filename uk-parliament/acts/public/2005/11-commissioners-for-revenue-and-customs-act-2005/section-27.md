@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Inspection[^key-ce228fc15c6f0a3820b61eda729dba81]
+## 27. Inspection[^c-ce228fc15c6f0a3820b61eda729dba81]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 - (a) may —
   - (i) in relation to Her Majesty’s Inspectors of Constabulary, apply (with or without modification) or make provision similar to any provision of sections 54 to 56 of the Police Act 1996 (c. 16) (inspection);
-  - (ii) in relation to the Scottish inspectors, apply (with or without modification) or make provision similar to any provision of sections 71 to 73 of the Police and Fire Reform (Scotland) Act 2012[^key-cb522d73cd7969b8e45cb3405cc08018] (inspection);
+  - (ii) in relation to the Scottish inspectors, apply (with or without modification) or make provision similar to any provision of sections 71 to 73 of the Police and Fire Reform (Scotland) Act 2012[^c-cb522d73cd7969b8e45cb3405cc08018] (inspection);
   - (iii) in relation to the Northern Ireland inspectors, apply (with or without modification) or make provision similar to any provision of section 41 or 42 of the Police (Northern Ireland) Act 1998 (c. 32) (inspection);
 - (b) may enable a Minister of the Crown or the Commissioners to require an inspection to be carried out;
 - (c) shall provide for a report of an inspection to be made and, subject to any exceptions required or permitted by the regulations, published;
@@ -50,13 +50,13 @@ summary: ''
 
 (6) In this section—
 
-- (a) “**the Scottish inspectors**” means the inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^key-a488f02915442b02752cab27297f07d5], and
+- (a) “**the Scottish inspectors**” means the inspectors of constabulary appointed under section 71(2) of the Police and Fire Reform (Scotland) Act 2012[^c-a488f02915442b02752cab27297f07d5], and
 - (b) “**the Northern Ireland inspectors**” means the inspectors of constabulary appointed under section 41(1) of the Police (Northern Ireland) Act 1998.
 
 ## Annotations
 
-[^key-ce228fc15c6f0a3820b61eda729dba81]: Commencement: S. 27 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
+[^c-ce228fc15c6f0a3820b61eda729dba81]: Commencement: S. 27 in force at 7.4.2005 by [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/1)
 
-[^key-cb522d73cd7969b8e45cb3405cc08018]: Textual amendment: Words in s. 27(2)(a)(ii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 46(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/46/a)
+[^c-cb522d73cd7969b8e45cb3405cc08018]: Textual amendment: Words in s. 27(2)(a)(ii) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 46(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/46/a)
 
-[^key-a488f02915442b02752cab27297f07d5]: Textual amendment: Words in s. 27(6)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 46(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/46/b)
+[^c-a488f02915442b02752cab27297f07d5]: Textual amendment: Words in s. 27(6)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 46(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/46/b)

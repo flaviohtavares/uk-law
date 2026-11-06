@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Authorisation of consolidator schemes etc by the Pensions Regulator[^key-06c099b7ee1c9b79cd4229e926ec7314]
+## 29. Authorisation of consolidator schemes etc by the Pensions Regulator[^c-06c099b7ee1c9b79cd4229e926ec7314]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ and include conditions that involve the exercise of a discretion by the Pensions
 
 ## Annotations
 
-[^key-06c099b7ee1c9b79cd4229e926ec7314]: Commencement: S. 29 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-06c099b7ee1c9b79cd4229e926ec7314]: Commencement: S. 29 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Unloading of petrol at petroleum filling stations and certain other premises licensed for the keeping of petrol[^key-931c727977562e4241d40d7807b67c4e]
+## 20. Unloading of petrol at petroleum filling stations and certain other premises licensed for the keeping of petrol[^c-931c727977562e4241d40d7807b67c4e]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ and the enforcing authority for these Regulations and for Articles 4 to 6 and Ar
 
 ## Annotations
 
-[^key-931c727977562e4241d40d7807b67c4e]: Commencement: Reg. 20 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-931c727977562e4241d40d7807b67c4e]: Commencement: Reg. 20 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
 [^f00015]: Footnote: [1929 c. 13 (N.I.)](https://www.legislation.gov.uk/apni/1929/13); section 23(1) was amended by [S.R. 1992 No. 413](https://www.legislation.gov.uk/nisr/1992/413), regulation 3 and Schedule 2 and [S.R. 1995 No. 60](https://www.legislation.gov.uk/nisr/1995/60), regulation 18(9) and Schedule 8

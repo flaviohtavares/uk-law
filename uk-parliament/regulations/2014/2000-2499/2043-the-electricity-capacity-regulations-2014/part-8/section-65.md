@@ -36,7 +36,7 @@ summary: ''
   - (ii) auction guidelines;
   - (iii) a licence condition (where the person using or disclosing the information is a licence holder);
   - (iv) a condition of an industry code to which the person using or disclosing the information is a party; or
-  - (v) an assimilated[^key-e910760fd4818634b71dd05b1cafb6c4] obligation.
+  - (v) an assimilated[^c-e910760fd4818634b71dd05b1cafb6c4] obligation.
 
 (3) Paragraph (1) does not prohibit the use of protected information—
 
@@ -56,11 +56,11 @@ summary: ''
 
 - “**capacity market functions**” means functions conferred by or by virtue of Chapter 3 of Part 2 of the Act;
 - “**EMR functions**” means functions conferred by or by virtue of Chapter 2, 3 or 4 of Part 2 of the Act;
-- [^key-9db9ff038e75598249662bcc8fe7278c]...
+- [^c-9db9ff038e75598249662bcc8fe7278c]...
 - “**licence**” means a licence under section 6 of EA 1989.
 
 ## Annotations
 
-[^key-e910760fd4818634b71dd05b1cafb6c4]: Textual amendment: Words in [reg. 65(2)(b)(v)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/65/2/b/v) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/7)
+[^c-e910760fd4818634b71dd05b1cafb6c4]: Textual amendment: Words in [reg. 65(2)(b)(v)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/65/2/b/v) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/2025/82/schedule/13/paragraph/7)
 
-[^key-9db9ff038e75598249662bcc8fe7278c]: Textual amendment: Words in [reg. 65(5)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/65/5) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [83(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/83/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9db9ff038e75598249662bcc8fe7278c]: Textual amendment: Words in [reg. 65(5)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/65/5) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [83(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/83/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

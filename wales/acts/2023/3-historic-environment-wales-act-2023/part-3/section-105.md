@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 105. Applications by planning authorities and the Crown[^key-cfe21f4e9fc64cff5cc241b3edd4cefa][^key-ce4cf5490814838ec95276ff20dc317c]
+## 105. Applications by planning authorities and the Crown[^c-cfe21f4e9fc64cff5cc241b3edd4cefa][^c-ce4cf5490814838ec95276ff20dc317c]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cfe21f4e9fc64cff5cc241b3edd4cefa]: Commencement: S. 105 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-cfe21f4e9fc64cff5cc241b3edd4cefa]: Commencement: S. 105 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-ce4cf5490814838ec95276ff20dc317c]: Commencement: [S. 105](https://www.legislation.gov.uk/asc/2023/3/section/105) in force at 9.9.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2024/860/article/2/1/i)
+[^c-ce4cf5490814838ec95276ff20dc317c]: Commencement: [S. 105](https://www.legislation.gov.uk/asc/2023/3/section/105) in force at 9.9.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 2(1)(i)](https://www.legislation.gov.uk/wsi/2024/860/article/2/1/i)

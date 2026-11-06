@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power to extend restricted premises orders in Wales[^key-adf2a9a628784eaacab6382dac94ce04][^key-494bd44b4f03118e6233be12e90edd33]
+## 27. Power to extend restricted premises orders in Wales[^c-adf2a9a628784eaacab6382dac94ce04][^c-494bd44b4f03118e6233be12e90edd33]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-adf2a9a628784eaacab6382dac94ce04]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-adf2a9a628784eaacab6382dac94ce04]: Commencement: S. 27 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-494bd44b4f03118e6233be12e90edd33]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2026/18/section/27) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-494bd44b4f03118e6233be12e90edd33]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2026/18/section/27) in force at 29.10.2026 in so far as not already in force, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

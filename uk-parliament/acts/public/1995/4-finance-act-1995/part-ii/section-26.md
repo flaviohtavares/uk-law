@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Co-owners etc. of buildings and land.[^key-23a698e4a9793b1be4086f9343ae9ede]
+## 26. Co-owners etc. of buildings and land.[^c-23a698e4a9793b1be4086f9343ae9ede]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23a698e4a9793b1be4086f9343ae9ede]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1995/4/section/26) repealed (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/5/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))
+[^c-23a698e4a9793b1be4086f9343ae9ede]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/1995/4/section/26) repealed (with effect in accordance with art. 1(2) of the amending S.I.) by [The Value Added Tax (Buildings and Land) Order 2008 (S.I. 2008/1146)](https://www.legislation.gov.uk/uksi/2008/1146), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2008/1146/article/5/1) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1146/schedule/2))

@@ -33,7 +33,7 @@ An Act to make new provision in place of sections 1 to 6 of the Mobile Homes Act
 
 \[13th May 1983\]
 
-[^c7532091]Be it enacted by the Queen’s most Excellent Majesty, by and with advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-4f0042a192c0a3eff7bb6cf4291eecf7]
+[^c7532091]Be it enacted by the Queen’s most Excellent Majesty, by and with advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-4f0042a192c0a3eff7bb6cf4291eecf7]
 
 ## Contents
 
@@ -59,4 +59,4 @@ SCHEDULES
 
 [^c7532091]: Modification: Act: transfer of functions (1.7.1999) by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), [art. 2](https://www.legislation.gov.uk/uksi/1999/672/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/672/schedule/1)
 
-[^key-4f0042a192c0a3eff7bb6cf4291eecf7]: Modification: Act excluded by 2004 c. 34, s. 231B(4) (as inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 176](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/176) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3)))
+[^c-4f0042a192c0a3eff7bb6cf4291eecf7]: Modification: Act excluded by 2004 c. 34, s. 231B(4) (as inserted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 176](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/176) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3)))

@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**16.**[^key-915e7034956daead574d756b7bb12ef7] For Part 27 (Witness statements), substitute the Part as set out in Schedule 4 to these Rules.
+**16.**[^c-915e7034956daead574d756b7bb12ef7] For Part 27 (Witness statements), substitute the Part as set out in Schedule 4 to these Rules.
 
 ## Annotations
 
-[^key-915e7034956daead574d756b7bb12ef7]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2009/2087/article/16) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-915e7034956daead574d756b7bb12ef7]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2009/2087/article/16) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

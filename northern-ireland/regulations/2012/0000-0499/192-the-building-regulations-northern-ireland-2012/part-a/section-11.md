@@ -29,9 +29,9 @@ summary: ''
   - (c) matters relating to a building's distance to the boundary;
   - (d) matters relating to a building's target carbon dioxide emission rate and calculated carbon dioxide emission rate for the completed building;
   - (e) matters relating to external ramps, stairs and handrails;
-  - (f) matters relating to Part N (Drainage); [^key-64ef57d50e39659fe956cc0a821caecc]...
-  - (g) matters relating to access to or egress from the building ; and[^key-29ca39556e1fedea620979b3cad52de9]
-  - (h) matters relating to Part M (Physical infrastructure for high-speed electronic communications networks).[^key-9e247d1732469cbbdfdca4e730d3dbd4]
+  - (f) matters relating to Part N (Drainage); [^c-64ef57d50e39659fe956cc0a821caecc]...
+  - (g) matters relating to access to or egress from the building ; and[^c-29ca39556e1fedea620979b3cad52de9]
+  - (h) matters relating to Part M (Physical infrastructure for high-speed electronic communications networks).[^c-9e247d1732469cbbdfdca4e730d3dbd4]
 
 (2) Any person who intends to apply for a type approval certificate for the erection of a building shall, if the provisions of these regulations apply to such work, give notices, deposit full plans, sections, specifications and written particulars to the processing council in accordance with the relevant rules of Part C of Schedule 3.
 
@@ -57,8 +57,8 @@ and shall provide a copy of this notice to all other district councils and perso
 
 ## Annotations
 
-[^key-64ef57d50e39659fe956cc0a821caecc]: Textual amendment: Word in [reg. 11(1)(f)](https://www.legislation.gov.uk/nisr/2012/192/regulation/11/1/f) deleted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/6/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-64ef57d50e39659fe956cc0a821caecc]: Textual amendment: Word in [reg. 11(1)(f)](https://www.legislation.gov.uk/nisr/2012/192/regulation/11/1/f) deleted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(6)(a)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/6/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
 
-[^key-29ca39556e1fedea620979b3cad52de9]: Textual amendment: Words in [reg. 11(1)(g)](https://www.legislation.gov.uk/nisr/2012/192/regulation/11/1/g) substituted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/6/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-29ca39556e1fedea620979b3cad52de9]: Textual amendment: Words in [reg. 11(1)(g)](https://www.legislation.gov.uk/nisr/2012/192/regulation/11/1/g) substituted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(6)(b)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/6/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
 
-[^key-9e247d1732469cbbdfdca4e730d3dbd4]: Textual amendment: [Reg. 11(1)(h)](https://www.legislation.gov.uk/nisr/2012/192/regulation/11/1/h) inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(6)(c)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/6/c) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))
+[^c-9e247d1732469cbbdfdca4e730d3dbd4]: Textual amendment: [Reg. 11(1)(h)](https://www.legislation.gov.uk/nisr/2012/192/regulation/11/1/h) inserted (28.11.2016) by [The Building (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/412)](https://www.legislation.gov.uk/nisr/2016/412), [regs. 1](https://www.legislation.gov.uk/nisr/2016/412/regulation/1), [5(6)(c)](https://www.legislation.gov.uk/nisr/2016/412/regulation/5/6/c) (with [reg. 3](https://www.legislation.gov.uk/nisr/2016/412/regulation/3))

@@ -109,7 +109,7 @@ Section 104.
 
 ### Examinations by the Comptroller and Auditor General
 
-**9.**[^key-33f48c02de3916e6267bccd49d477541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-33f48c02de3916e6267bccd49d477541] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -131,4 +131,4 @@ Section 104.
 
 [^c20148391]: Textual amendment: [Sch. 6 para. 8(5)](https://www.legislation.gov.uk/ukpga/1998/38/schedule/6/paragraph/8/5) repealed (1.4.2005) by [Public Audit (Wales) Act 2004 (c. 23)](https://www.legislation.gov.uk/ukpga/2004/23), [ss. 66](https://www.legislation.gov.uk/ukpga/2004/23/section/66), [72](https://www.legislation.gov.uk/ukpga/2004/23/section/72), [73](https://www.legislation.gov.uk/ukpga/2004/23/section/73), [Sch. 2 para. 48](https://www.legislation.gov.uk/ukpga/2004/23/schedule/2/paragraph/48), [Sch. 4](https://www.legislation.gov.uk/ukpga/2004/23/schedule/4); [S.I. 2005/558](https://www.legislation.gov.uk/uksi/2005/558), [art. 2](https://www.legislation.gov.uk/uksi/2005/558/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/558/schedule/1) (subject to [Sch. 2](https://www.legislation.gov.uk/uksi/2005/558/schedule/2))
 
-[^key-33f48c02de3916e6267bccd49d477541]: Textual amendment: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/1998/38/schedule/6/paragraph/9) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 55](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/55) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-33f48c02de3916e6267bccd49d477541]: Textual amendment: [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/1998/38/schedule/6/paragraph/9) omitted (1.4.2018) by virtue of [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 55](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/55) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

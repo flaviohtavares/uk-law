@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8B. Placing on the market and use of paint stripper containing dichloromethane[^key-f757bf2926923d3553475966744c6589]
+## 8B. Placing on the market and use of paint stripper containing dichloromethane[^c-f757bf2926923d3553475966744c6589]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f757bf2926923d3553475966744c6589]: Textual amendment: Reg. 8B inserted (1.12.2014) by [The REACH Enforcement (Amendment) Regulations 2014 (S.I. 2014/2882)](https://www.legislation.gov.uk/uksi/2014/2882), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2882/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2882/regulation/2/3)
+[^c-f757bf2926923d3553475966744c6589]: Textual amendment: Reg. 8B inserted (1.12.2014) by [The REACH Enforcement (Amendment) Regulations 2014 (S.I. 2014/2882)](https://www.legislation.gov.uk/uksi/2014/2882), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2882/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2882/regulation/2/3)

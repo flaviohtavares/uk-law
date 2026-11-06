@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Notification that primary bid not valid[^key-807e0c94f6e5587a56e118dfc7107c33]
+## 57. Notification that primary bid not valid[^c-807e0c94f6e5587a56e118dfc7107c33]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a bidder submits a primary bid that is not a valid primary bid during a pr
 
 ## Annotations
 
-[^key-807e0c94f6e5587a56e118dfc7107c33]: Commencement: Reg. 57 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-807e0c94f6e5587a56e118dfc7107c33]: Commencement: Reg. 57 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

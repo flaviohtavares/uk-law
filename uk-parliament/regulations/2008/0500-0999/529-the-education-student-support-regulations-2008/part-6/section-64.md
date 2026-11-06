@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Qualifying conditions for the loan for living costs – old system students[^key-430c7e0831f2e316c58d8bc0105fe3f4]
+## 64. Qualifying conditions for the loan for living costs – old system students[^c-430c7e0831f2e316c58d8bc0105fe3f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-430c7e0831f2e316c58d8bc0105fe3f4]: Commencement: Reg. 64 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-430c7e0831f2e316c58d8bc0105fe3f4]: Commencement: Reg. 64 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

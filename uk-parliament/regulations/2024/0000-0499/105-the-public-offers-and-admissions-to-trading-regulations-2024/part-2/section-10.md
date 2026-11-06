@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Designated activities: admissions to trading on regulated market[^key-fa0e68fcae937acfac3d99b842e01231]
+## 10. Designated activities: admissions to trading on regulated market[^c-fa0e68fcae937acfac3d99b842e01231]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The following activities are specified under section 71K of FSMA 2000 as designa
 
 ## Annotations
 
-[^key-fa0e68fcae937acfac3d99b842e01231]: Commencement: Reg. 10 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/b)
+[^c-fa0e68fcae937acfac3d99b842e01231]: Commencement: Reg. 10 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/b)

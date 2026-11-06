@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77B. Escalating penalty notices[^key-cfc8cc95ac3e901f237b0e6656ff0f33]
+## 77B. Escalating penalty notices[^c-cfc8cc95ac3e901f237b0e6656ff0f33]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfc8cc95ac3e901f237b0e6656ff0f33]: Textual amendment: [Ss. 77A](https://www.legislation.gov.uk/ukpga/2004/35/section/77A), [77B](https://www.legislation.gov.uk/ukpga/2004/35/section/77B) inserted (31.5.2021 for specified purposes, 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 112](https://www.legislation.gov.uk/ukpga/2021/1/section/112), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/d); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/950/regulation/5))
+[^c-cfc8cc95ac3e901f237b0e6656ff0f33]: Textual amendment: [Ss. 77A](https://www.legislation.gov.uk/ukpga/2004/35/section/77A), [77B](https://www.legislation.gov.uk/ukpga/2004/35/section/77B) inserted (31.5.2021 for specified purposes, 1.10.2021 in so far as not already in force) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 112](https://www.legislation.gov.uk/ukpga/2021/1/section/112), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(d)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/d); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(c)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/c) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/950/regulation/5))

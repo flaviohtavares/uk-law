@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Scope of Chapter 3[^key-9838997e2240fa9a19fa7063614a8a09]
+## 54. Scope of Chapter 3[^c-9838997e2240fa9a19fa7063614a8a09]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ This Chapter applies (instead of Chapter 2) when a pension starts and either—
 
 ## Annotations
 
-[^key-9838997e2240fa9a19fa7063614a8a09]: Textual amendment: [Reg. 54](https://www.legislation.gov.uk/uksi/2003/2682/regulation/54) substituted (6.4.2011) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2011 (S.I. 2011/729)](https://www.legislation.gov.uk/uksi/2011/729), [regs. 1](https://www.legislation.gov.uk/uksi/2011/729/regulation/1), [12](https://www.legislation.gov.uk/uksi/2011/729/regulation/12)
+[^c-9838997e2240fa9a19fa7063614a8a09]: Textual amendment: [Reg. 54](https://www.legislation.gov.uk/uksi/2003/2682/regulation/54) substituted (6.4.2011) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2011 (S.I. 2011/729)](https://www.legislation.gov.uk/uksi/2011/729), [regs. 1](https://www.legislation.gov.uk/uksi/2011/729/regulation/1), [12](https://www.legislation.gov.uk/uksi/2011/729/regulation/12)

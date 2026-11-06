@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Permission to erect a building: purposes for which building may be used[^key-3d8a6f1504068904ef15794939cc6a5a]
+## 92. Permission to erect a building: purposes for which building may be used[^c-3d8a6f1504068904ef15794939cc6a5a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d8a6f1504068904ef15794939cc6a5a]: Commencement: S. 92 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3d8a6f1504068904ef15794939cc6a5a]: Commencement: S. 92 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

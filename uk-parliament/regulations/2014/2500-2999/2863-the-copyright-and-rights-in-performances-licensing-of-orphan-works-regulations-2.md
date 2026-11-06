@@ -93,15 +93,15 @@ In these Regulations—
 
 (3) The sources that are relevant for the relevant work must, as a minimum, include—
 
-- (a) the relevant register maintained by the authorising body [^key-3acf20643cc23472b2378da347d373ca]...
-- (b)[^key-63c500adb642266ae24334383cab2e08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the relevant register maintained by the authorising body [^c-3acf20643cc23472b2378da347d373ca]...
+- (b)[^c-63c500adb642266ae24334383cab2e08] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The authorising body may issue guidance on what sources may additionally be relevant in the case of different relevant works.
 
 (5) A diligent search is valid, for the purposes of paragraph (1), for seven years from the earlier of the date—
 
 - (a) on which an orphan licence of the orphan work was first granted by the authorising body; or
-- (b)[^key-d35019c96776a703dc1ed2ac48ca505a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d35019c96776a703dc1ed2ac48ca505a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) An orphan licensee shall provide the authorising body with such information concerning—
 
@@ -264,8 +264,8 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22234761]: Marginal citation: [Section 182](https://www.legislation.gov.uk/uksi/2014/2863/section/182) was substituted by, and sections 182A – 182 C and 182CA inserted by S.I 1996/2967 and amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I](https://www.legislation.gov.uk/uksi/2003/2498/section/I). 2006/18, S.I 2013/1782; [section 183](https://www.legislation.gov.uk/uksi/2014/2863/section/183) was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498).
 
-[^key-3acf20643cc23472b2378da347d373ca]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2014/2863/regulation/4/3/a) omitted (31.12.2020) by virtue of S.I. 2019/605, reg. 31(a)(i) (as substituted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1050/regulation/3))
+[^c-3acf20643cc23472b2378da347d373ca]: Textual amendment: Words in [reg. 4(3)(a)](https://www.legislation.gov.uk/uksi/2014/2863/regulation/4/3/a) omitted (31.12.2020) by virtue of S.I. 2019/605, reg. 31(a)(i) (as substituted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1050/regulation/3))
 
-[^key-63c500adb642266ae24334383cab2e08]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/2863/regulation/4/3/b) omitted (31.12.2020) by virtue of S.I. 2019/605, reg. 31(a)(ii) (as substituted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1050/regulation/3))
+[^c-63c500adb642266ae24334383cab2e08]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/uksi/2014/2863/regulation/4/3/b) omitted (31.12.2020) by virtue of S.I. 2019/605, reg. 31(a)(ii) (as substituted by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1050/regulation/3))
 
-[^key-d35019c96776a703dc1ed2ac48ca505a]: Textual amendment: [Reg. 4(5)(b)](https://www.legislation.gov.uk/uksi/2014/2863/regulation/4/5/b) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/31/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d35019c96776a703dc1ed2ac48ca505a]: Textual amendment: [Reg. 4(5)(b)](https://www.legislation.gov.uk/uksi/2014/2863/regulation/4/5/b) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2019/605/regulation/31/b) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -56,9 +56,9 @@ After section 23B of the Hydrocarbon Oil Duties Act 1979 (regulation of traders 
 > (6) Regulations under subsection (4)(g)—
 >
 > - (a) may make provision only if the Commissioners think it necessary or expedient for a purpose connected with Council Directive [92/12/EEC](https://www.legislation.gov.uk/eudr/1992/12) on the general arrangements for products subject to excise duty and on the holding, movement and monitoring of such products,
-> - (b) may, in particular, make provision by reference to that Directive or any other EU[^key-e1dfdbb1d3929bf4ac5ae011c072f230] instrument, and
+> - (b) may, in particular, make provision by reference to that Directive or any other EU[^c-e1dfdbb1d3929bf4ac5ae011c072f230] instrument, and
 > - (c) may, in particular, make provision by reference to the purpose for which a substance is intended to be used.
 
 ## Annotations
 
-[^key-e1dfdbb1d3929bf4ac5ae011c072f230]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-e1dfdbb1d3929bf4ac5ae011c072f230]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

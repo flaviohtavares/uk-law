@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Licensing of coal-mining operations: approval by Welsh Ministers[^key-b158ee9ac260f8b868d2b65f5ad3e0d9]
+## 67. Licensing of coal-mining operations: approval by Welsh Ministers[^c-b158ee9ac260f8b868d2b65f5ad3e0d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ After section 26 of the Coal Industry Act 1994 insert—
 
 ## Annotations
 
-[^key-b158ee9ac260f8b868d2b65f5ad3e0d9]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2017/4/section/67) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+[^c-b158ee9ac260f8b868d2b65f5ad3e0d9]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2017/4/section/67) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252. Persons connected with a director[^c19690481][^c19925931][^key-8c8aab07f77f20a10ab8d4ff62e95a07]
+## 252. Persons connected with a director[^c19690481][^c19925931][^c-8c8aab07f77f20a10ab8d4ff62e95a07]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c19925931]: Modification: S. 252 applied (5.7.2010) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 75](https://www.legislation.gov.uk/ukpga/2008/30/section/75), [149](https://www.legislation.gov.uk/ukpga/2008/30/section/149), [Sch. 1 para. 13(6)](https://www.legislation.gov.uk/ukpga/2008/30/schedule/1/paragraph/13/6); [S.I. 2010/10](https://www.legislation.gov.uk/uksi/2010/10), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/10/article/2/a)
 
-[^key-8c8aab07f77f20a10ab8d4ff62e95a07]: Modification: Ss. 252-255 applied (with modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 49(5)](https://www.legislation.gov.uk/ukpga/2014/14/section/49/5), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-8c8aab07f77f20a10ab8d4ff62e95a07]: Modification: Ss. 252-255 applied (with modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 49(5)](https://www.legislation.gov.uk/ukpga/2014/14/section/49/5), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

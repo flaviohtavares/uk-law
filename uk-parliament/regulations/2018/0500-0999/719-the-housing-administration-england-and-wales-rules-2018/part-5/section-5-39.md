@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.39. Disqualification from dividend[^key-b00576c8ea19b34933fbbe444d39e758]
+## 5.39. Disqualification from dividend[^c-b00576c8ea19b34933fbbe444d39e758]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a creditor contravenes any provision of the Act or these Rules relating to th
 
 ## Annotations
 
-[^key-b00576c8ea19b34933fbbe444d39e758]: Commencement: Rule 5.39 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-b00576c8ea19b34933fbbe444d39e758]: Commencement: Rule 5.39 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

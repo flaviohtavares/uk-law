@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Overcrowding notices[^key-a15869a419a2e1a01569f99da3d16682]
+## 44. Overcrowding notices[^c-a15869a419a2e1a01569f99da3d16682]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a15869a419a2e1a01569f99da3d16682]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2016/22/section/44) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-a15869a419a2e1a01569f99da3d16682]: Commencement: [S. 44](https://www.legislation.gov.uk/nia/2016/22/section/44) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Transitional and saving provision for regulators approved under the 1990 Act[^key-4b81f1e75d7d13329e5972b963cba0b8][^key-2014538989a386460e3c6660b333ad2f]
+## 37. Transitional and saving provision for regulators approved under the 1990 Act[^c-4b81f1e75d7d13329e5972b963cba0b8][^c-2014538989a386460e3c6660b333ad2f]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Sections 30, 32, 33, 34 and 35 apply to a professional or other body whose appli
 
 ## Annotations
 
-[^key-4b81f1e75d7d13329e5972b963cba0b8]: Commencement: S. 37 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-4b81f1e75d7d13329e5972b963cba0b8]: Commencement: S. 37 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-2014538989a386460e3c6660b333ad2f]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2025/8/section/37) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-2014538989a386460e3c6660b333ad2f]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2025/8/section/37) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

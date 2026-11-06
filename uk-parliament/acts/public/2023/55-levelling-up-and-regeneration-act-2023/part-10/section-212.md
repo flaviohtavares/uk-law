@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Offences in connection with section 211[^key-f592df206c44ec61b250b96aa9d95f8d][^key-ffd130d232ca228507f606db5f99df83]
+## 212. Offences in connection with section 211[^c-f592df206c44ec61b250b96aa9d95f8d][^c-ffd130d232ca228507f606db5f99df83]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f592df206c44ec61b250b96aa9d95f8d]: Commencement: S. 212 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-f592df206c44ec61b250b96aa9d95f8d]: Commencement: S. 212 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-ffd130d232ca228507f606db5f99df83]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2023/55/section/212) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)
+[^c-ffd130d232ca228507f606db5f99df83]: Commencement: [S. 212](https://www.legislation.gov.uk/ukpga/2023/55/section/212) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/e)

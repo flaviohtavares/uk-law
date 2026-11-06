@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Issue and renewal of certificates of airworthiness[^key-9359c561814f71ebe39d50552d20e872]
+## 16. Issue and renewal of certificates of airworthiness[^c-9359c561814f71ebe39d50552d20e872]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9359c561814f71ebe39d50552d20e872]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2015/870/article/16) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-9359c561814f71ebe39d50552d20e872]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2015/870/article/16) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

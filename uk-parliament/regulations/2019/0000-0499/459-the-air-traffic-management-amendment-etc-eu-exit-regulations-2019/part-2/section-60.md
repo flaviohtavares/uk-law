@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Article 6a of Regulation [(EC) No 552/2004](https://www.legislation.gov.uk/eur/2004/552)[^key-2ec759468722fe6689bc0993c4017dee]
+## 60. Article 6a of Regulation [(EC) No 552/2004](https://www.legislation.gov.uk/eur/2004/552)[^c-2ec759468722fe6689bc0993c4017dee]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 6a (alternative verification of compliance) omit “EC” in the seco
 
 ## Annotations
 
-[^key-2ec759468722fe6689bc0993c4017dee]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-2ec759468722fe6689bc0993c4017dee]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

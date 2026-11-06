@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Publication etc. of reports, recommendations and responses: confidential and exempt information[^key-c428458d3168ff2558bafd8a3216bf0d]
+## 33. Publication etc. of reports, recommendations and responses: confidential and exempt information[^c-c428458d3168ff2558bafd8a3216bf0d]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c428458d3168ff2558bafd8a3216bf0d]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2014/8/section/33) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-c428458d3168ff2558bafd8a3216bf0d]: Commencement: [S. 33](https://www.legislation.gov.uk/nia/2014/8/section/33) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

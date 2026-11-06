@@ -40,7 +40,7 @@ Now, therefore, we, Your Majesty’s most dutiful and loyal subjects, the Lords 
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Additional Counsellors of State[^key-7db34add801c68c709f58c1b26124496]
+## 1. Additional Counsellors of State[^c-7db34add801c68c709f58c1b26124496]
 
 (1) Section 6 of the Regency Act 1937 (power to delegate royal functions to Counsellors of State) has effect as if the persons required by subsection (2) of that section to be the Counsellors of State for the purposes of any delegation of royal functions under that section included—
 
@@ -49,7 +49,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) Any requirement imposed by subsection (1) is subject to the proviso in subsection (2) of section 6 of that Act and to subsection (2A) of that section (powers to except a person who is absent from the United Kingdom and disqualification from being a Counsellor of State).
 
-## 2. Short title and commencement[^key-50850e717825846edd31860bb8b2cbe7]
+## 2. Short title and commencement[^c-50850e717825846edd31860bb8b2cbe7]
 
 (1) This Act may be cited as the Counsellors of State Act 2022.
 
@@ -57,6 +57,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-7db34add801c68c709f58c1b26124496]: Commencement: S. 1 in force at 7.12.2022, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/47/section/2/2)
+[^c-7db34add801c68c709f58c1b26124496]: Commencement: S. 1 in force at 7.12.2022, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/47/section/2/2)
 
-[^key-50850e717825846edd31860bb8b2cbe7]: Commencement: S. 2 in force at 7.12.2022, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/47/section/2/2)
+[^c-50850e717825846edd31860bb8b2cbe7]: Commencement: S. 2 in force at 7.12.2022, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2022/47/section/2/2)

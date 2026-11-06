@@ -64,14 +64,14 @@ The First Secretary of State, in exercise of the powers conferred by sections 20
 
 - “**the 1985 Act**” means the Landlord and Tenant Act 1985;
 - “**close relative**”, in relation to a person, means a spouse or cohabitee, a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, brother, brother-in-law, sister, sister-in-law, step-parent, step-son or step-daughter of that person;
-- “cohabitee”, in relation to a person, means a person who is living with that person as if they were a married couple or civil partners;[^key-120a590d38dfdbe0ab92e28128331405]
+- “cohabitee”, in relation to a person, means a person who is living with that person as if they were a married couple or civil partners;[^c-120a590d38dfdbe0ab92e28128331405]
   - (a) a person of the opposite sex who is living with that person as husband or wife; or
   - (b) a person of the same sex living with that person in a relationship which has the characteristics of the relationship between husband and wife;
 - “**nominated person**” means a person whose name is proposed in response to an invitation made as mentioned in paragraph 1(3) of Schedule 1 or paragraph 1(3) of Part 2 of Schedule 4; and “**nomination**” means any such proposal;
-- “public notice” means notice[^key-ffa2a6f846ef99e0496015d9dc8a15e3] published[^key-a9fa623d88011ad84eb5e84af656194c] pursuant to the Procurement Act 2023[^key-f1011032b119b01980faf96a28a0c75f];
+- “public notice” means notice[^c-ffa2a6f846ef99e0496015d9dc8a15e3] published[^c-a9fa623d88011ad84eb5e84af656194c] pursuant to the Procurement Act 2023[^c-f1011032b119b01980faf96a28a0c75f];
 - “**relevant period**”, in relation to a notice, means the period of 30 days beginning with the date of the notice;
 - “**RTB tenancy**” means the tenancy of an RTB tenant;
-- “**RTB tenant**”, in relation to a landlord, means a person who has become a tenant of the landlord by virtue of section 138 of the Housing Act 1985 (duty of landlord to convey freehold or grant lease), section 171A of that Act (cases in which right to buy is preserved), section 180 of the Housing and Regeneration Act 2008[^key-2cd2d6da7203d083e4e9ae34db7a5288] or section 16 of the Housing Act 1996 (right of tenant to acquire dwelling) [^c5068711] under a lease whose terms include a requirement that the tenant shall bear a reasonable part of such costs incurred by the landlord as are mentioned in paragraphs 16A to 16D of Schedule 6 to that Act (service charges and other contributions payable by the tenant) [^c5068721];
+- “**RTB tenant**”, in relation to a landlord, means a person who has become a tenant of the landlord by virtue of section 138 of the Housing Act 1985 (duty of landlord to convey freehold or grant lease), section 171A of that Act (cases in which right to buy is preserved), section 180 of the Housing and Regeneration Act 2008[^c-2cd2d6da7203d083e4e9ae34db7a5288] or section 16 of the Housing Act 1996 (right of tenant to acquire dwelling) [^c5068711] under a lease whose terms include a requirement that the tenant shall bear a reasonable part of such costs incurred by the landlord as are mentioned in paragraphs 16A to 16D of Schedule 6 to that Act (service charges and other contributions payable by the tenant) [^c5068721];
 - “**section 20**” means section 20 (limitation of service charges: consultation requirements) of the 1985 Act;
 - “**section 20ZA**” means section 20ZA (consultation requirements: supplementary) of that Act;
 - “**the relevant matters**”, in relation to a proposed agreement, means the goods or services to be provided or the works to be carried out (as the case may be) under the agreement.
@@ -88,7 +88,7 @@ The First Secretary of State, in exercise of the powers conferred by sections 20
 - (a) if it is a contract of employment; or
 - (b) if it is a management agreement made by a local housing authority [^c5068741] and—
   - (i) a tenant management organisation; or
-  - (ii) a body established under section 2 of the Local Government Act 2000 [^c5068751] or section 1 of the Localism Act 2011[^key-e9676900a6ee54c07bedd28f41dc3549];
+  - (ii) a body established under section 2 of the Local Government Act 2000 [^c5068751] or section 1 of the Localism Act 2011[^c-e9676900a6ee54c07bedd28f41dc3549];
 - (c) if the parties to the agreement are—
   - (i) a holding company and one or more of its subsidiaries; or
   - (ii) two or more subsidiaries of the same holding company;
@@ -120,12 +120,12 @@ is not a qualifying long term agreement, notwithstanding that more than twelve m
 - (a) beginning with the relevant date, and
 - (b) ending with the date that falls twelve months after the relevant date.
 
-(3) Subject to paragraph (3A), in[^key-5023f35a96291cc0ee755678e9afcbfb] the case of the first accounting period, the relevant date is—
+(3) Subject to paragraph (3A), in[^c-5023f35a96291cc0ee755678e9afcbfb] the case of the first accounting period, the relevant date is—
 
 - (a) if the relevant accounts are made up for periods of twelve months, the date on which the period that includes the date on which these Regulations come into force ends, or
 - (b) if the accounts are not so made up, the date on which these Regulations come into force.
 
-(3A)[^key-fb28f7492b1a1124133914b9190de466] Where—
+(3A)[^c-fb28f7492b1a1124133914b9190de466] Where—
 
 - (a) a landlord intends to enter into a qualifying long term agreement on or after 12th November 2004; and
 - (b) he has not at any time between 31st October 2003 and 12th November 2004 made up accounts relating to service charges referable to a qualifying long term agreement and payable in respect of the dwellings to which the intended agreement is to relate,
@@ -716,15 +716,15 @@ A Regulatory Impact Assessment has been prepared in connection with these Regula
 
 [^c5068671]: Marginal citation: *See* section 20(3) and regulation 6 of these Regulations. For the application of section 20, as originally enacted, in transitional cases, see [article 3](https://www.legislation.gov.uk/uksi/2003/1987/article/3) of the Commonhold and Leasehold Reform Act 2002 (Commencement No. 2 and Savings) (England) Order 2003 ([S.I. 2003/1986](https://www.legislation.gov.uk/uksi/2003/1986) (c. 82)).
 
-[^key-120a590d38dfdbe0ab92e28128331405]: Textual amendment: Words in reg. 2(1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 67](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/67)
+[^c-120a590d38dfdbe0ab92e28128331405]: Textual amendment: Words in reg. 2(1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 67](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/67)
 
-[^key-ffa2a6f846ef99e0496015d9dc8a15e3]: Textual amendment: Words in reg. 2(1) substituted (31.1.2006) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/3) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49))
+[^c-ffa2a6f846ef99e0496015d9dc8a15e3]: Textual amendment: Words in reg. 2(1) substituted (31.1.2006) by [The Public Contracts Regulations 2006 (S.I. 2006/5)](https://www.legislation.gov.uk/uksi/2006/5), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/5/regulation/1/1), [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2006/5/schedule/7/paragraph/3) (with [reg. 49](https://www.legislation.gov.uk/uksi/2006/5/regulation/49))
 
-[^key-a9fa623d88011ad84eb5e84af656194c]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/14/2) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
+[^c-a9fa623d88011ad84eb5e84af656194c]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Public Procurement (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1319)](https://www.legislation.gov.uk/uksi/2020/1319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/1319/regulation/14/2) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/3), [4](https://www.legislation.gov.uk/uksi/2020/1319/schedule/paragraph/4))
 
-[^key-f1011032b119b01980faf96a28a0c75f]: Textual amendment: Words in reg. 2 substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/11/2)
+[^c-f1011032b119b01980faf96a28a0c75f]: Textual amendment: Words in reg. 2 substituted (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/11/2)
 
-[^key-2cd2d6da7203d083e4e9ae34db7a5288]: Textual amendment: Words in reg. 2(1) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
+[^c-2cd2d6da7203d083e4e9ae34db7a5288]: Textual amendment: Words in reg. 2(1) inserted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) (No. 2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), art. 2
 
 [^c5068711]: Marginal citation: Section 138 of the [Housing Act 1985 (c. 68)](https://www.legislation.gov.uk/ukpga/1985/68) is applied in relation to section 171A by section 171C. Sections 171A and 171C were inserted by the [Housing and Planning Act 1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), [section 8](https://www.legislation.gov.uk/ukpga/1996/52/section/8). *See also* the [Housing (Extension of Right to Buy) Order 1993 (S.I. 1993/2240) and the Housing (Preservation of Right to Buy) Regulations 1993 (S.I. 1993/2241)](https://www.legislation.gov.uk/uksi/1993/2241). Section 138 is applied in relation to section 16 of the [Housing Act 1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52) by section 17 of that Act. *See also* the [Housing (Right to Acquire) Regulations 1997 (S.I. 1997/619)](https://www.legislation.gov.uk/uksi/1997/619).
 
@@ -736,7 +736,7 @@ A Regulatory Impact Assessment has been prepared in connection with these Regula
 
 [^c5068751]: Marginal citation: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-e9676900a6ee54c07bedd28f41dc3549]: Textual amendment: Words in [reg. 3(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2003/1987/regulation/3/1/b/ii) inserted (28.3.2012) by [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/7)
+[^c-e9676900a6ee54c07bedd28f41dc3549]: Textual amendment: Words in [reg. 3(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2003/1987/regulation/3/1/b/ii) inserted (28.3.2012) by [The Localism Act 2011 (Consequential Amendments) Order 2012 (S.I. 2012/961)](https://www.legislation.gov.uk/uksi/2012/961), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/961/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2012/961/schedule/1/paragraph/7)
 
 [^c5068761]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6). Definitions of “holding company” and “subsidiary” are in section 736. That section and section 736A were substituted for the original section 736 by the [Companies Act 1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), [section 144(1)](https://www.legislation.gov.uk/ukpga/1989/40/section/144/1).
 
@@ -746,8 +746,8 @@ A Regulatory Impact Assessment has been prepared in connection with these Regula
 
 [^c5068791]: Marginal citation: *See* section 18(2) of the Landlord and Tenant Act 1985.
 
-[^key-5023f35a96291cc0ee755678e9afcbfb]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2003/1987/regulation/4/3) substituted (12.11.2004) by [The Service Charges (Consultation Requirements) (Amendment) (No. 2) (England) Regulations 2004 (S.I. 2004/2939)](https://www.legislation.gov.uk/uksi/2004/2939), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2939/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2004/2939/regulation/2/a)
+[^c-5023f35a96291cc0ee755678e9afcbfb]: Textual amendment: Words in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2003/1987/regulation/4/3) substituted (12.11.2004) by [The Service Charges (Consultation Requirements) (Amendment) (No. 2) (England) Regulations 2004 (S.I. 2004/2939)](https://www.legislation.gov.uk/uksi/2004/2939), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2939/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2004/2939/regulation/2/a)
 
-[^key-fb28f7492b1a1124133914b9190de466]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2003/1987/regulation/4/3A) inserted (12.11.2004) by [The Service Charges (Consultation Requirements) (Amendment) (No. 2) (England) Regulations 2004 (S.I. 2004/2939)](https://www.legislation.gov.uk/uksi/2004/2939), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2939/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2004/2939/regulation/2/b)
+[^c-fb28f7492b1a1124133914b9190de466]: Textual amendment: [Reg. 4(3A)](https://www.legislation.gov.uk/uksi/2003/1987/regulation/4/3A) inserted (12.11.2004) by [The Service Charges (Consultation Requirements) (Amendment) (No. 2) (England) Regulations 2004 (S.I. 2004/2939)](https://www.legislation.gov.uk/uksi/2004/2939), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/2939/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2004/2939/regulation/2/b)
 
 [^c5068801]: Marginal citation: *See* section 29(1) of the Landlord and Tenant Act 1985, which was amended by the [Landlord and Tenant Act 1987 (c. 31)](https://www.legislation.gov.uk/ukpga/1987/31), [Schedule 2](https://www.legislation.gov.uk/ukpga/1987/31/schedule/2), [paragraph 10](https://www.legislation.gov.uk/ukpga/1987/31/paragraph/10).

@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**317.**[^key-2c51e8d3647f51c2d50e77d22f6bb931] In section 195 (disputes about ordinary residence and portability of care and support) after subsection (1) insert—
+**317.**[^c-2c51e8d3647f51c2d50e77d22f6bb931] In section 195 (disputes about ordinary residence and portability of care and support) after subsection (1) insert—
 
 > (1A) Where the dispute is one to which section 30(2C) of the Children Act 1989 applies (questions of whether child ordinarily resident in England or Wales), then subsection (1) does not apply.
 
 ## Annotations
 
-[^key-2c51e8d3647f51c2d50e77d22f6bb931]: Commencement: Reg. 317 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-2c51e8d3647f51c2d50e77d22f6bb931]: Commencement: Reg. 317 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

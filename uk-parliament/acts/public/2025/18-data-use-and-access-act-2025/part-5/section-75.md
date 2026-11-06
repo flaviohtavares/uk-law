@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Fees and reasons for responses to data subjects’ requests about law enforcement processing[^key-2a04508281cdb816838dd31c53d81a8a][^key-dec2f3f1c6912bab93429e34ffee166c]
+## 75. Fees and reasons for responses to data subjects’ requests about law enforcement processing[^c-2a04508281cdb816838dd31c53d81a8a][^c-dec2f3f1c6912bab93429e34ffee166c]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2a04508281cdb816838dd31c53d81a8a]: Commencement: S. 75 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-2a04508281cdb816838dd31c53d81a8a]: Commencement: S. 75 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-dec2f3f1c6912bab93429e34ffee166c]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/18/section/75) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/g)
+[^c-dec2f3f1c6912bab93429e34ffee166c]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2025/18/section/75) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/g)

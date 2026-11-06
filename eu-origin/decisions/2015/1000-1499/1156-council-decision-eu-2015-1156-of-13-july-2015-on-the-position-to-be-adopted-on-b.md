@@ -33,14 +33,14 @@ of 13 July 2015
 
 on the position to be adopted, on behalf of the European Union, within the EEA Joint Committee concerning an amendment to Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement (Batteries and Accumulators) (revoked)
 
-[^key-ea0ac63c83bfb3ef4be2387523cb34e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea0ac63c83bfb3ef4be2387523cb34e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ea0ac63c83bfb3ef4be2387523cb34e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ea0ac63c83bfb3ef4be2387523cb34e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ea0ac63c83bfb3ef4be2387523cb34e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ea0ac63c83bfb3ef4be2387523cb34e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea0ac63c83bfb3ef4be2387523cb34e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea0ac63c83bfb3ef4be2387523cb34e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea0ac63c83bfb3ef4be2387523cb34e8]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea0ac63c83bfb3ef4be2387523cb34e8]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

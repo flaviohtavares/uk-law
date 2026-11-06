@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Deemed marine licence[^key-4e0e797dce98223bd489b53e00da897d]
+## 36. Deemed marine licence[^c-4e0e797dce98223bd489b53e00da897d]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The undertaker is deemed to be granted a licence under section 66 of the Marine 
 
 ## Annotations
 
-[^key-4e0e797dce98223bd489b53e00da897d]: Commencement: Art. 36 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-4e0e797dce98223bd489b53e00da897d]: Commencement: Art. 36 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
 
 [^f00015]: Footnote: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23), as amended at the date of the coming into force of this Order.

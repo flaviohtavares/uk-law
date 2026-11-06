@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Amendment of regulation 295 (abbreviated advertisements)[^M_I_86803d27-6c34-4f03-a45f-556799e68e78][^key-e1cac40798fdbecec582a56f1af9d3b3]
+## 215. Amendment of regulation 295 (abbreviated advertisements)[^M_I_86803d27-6c34-4f03-a45f-556799e68e78][^c-e1cac40798fdbecec582a56f1af9d3b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In regulation 295—
 
 [^M_I_86803d27-6c34-4f03-a45f-556799e68e78]: Commencement: Reg. 215 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-e1cac40798fdbecec582a56f1af9d3b3]: Textual amendment: Reg. 215 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 173](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/173)
+[^c-e1cac40798fdbecec582a56f1af9d3b3]: Textual amendment: Reg. 215 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 173](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/173)

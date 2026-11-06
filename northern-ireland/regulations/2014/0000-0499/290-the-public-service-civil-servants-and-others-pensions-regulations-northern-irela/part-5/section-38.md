@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Closure and adjustment of pension accounts on transfer out[^key-121f774dc17e8c14faaba604cb5531b1]
+## 38. Closure and adjustment of pension accounts on transfer out[^c-121f774dc17e8c14faaba604cb5531b1]
 
 *Extent: N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-121f774dc17e8c14faaba604cb5531b1]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2014/290/regulation/38) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-121f774dc17e8c14faaba604cb5531b1]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2014/290/regulation/38) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00051]: Footnote: Regulation 139 provides for extinguishment of rights following the refund of all members’ contributions and payments for extra pension made by the member. Regulation 147 provides for extinguishment of rights following the making of a transfer value payment

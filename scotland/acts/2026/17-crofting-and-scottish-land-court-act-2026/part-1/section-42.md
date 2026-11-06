@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Resumption of croft or part of croft by landlord[^key-9fd9b030555063295203c4a924f6d072]
+## 42. Resumption of croft or part of croft by landlord[^c-9fd9b030555063295203c4a924f6d072]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9fd9b030555063295203c4a924f6d072]: Commencement: S. 42 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-9fd9b030555063295203c4a924f6d072]: Commencement: S. 42 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

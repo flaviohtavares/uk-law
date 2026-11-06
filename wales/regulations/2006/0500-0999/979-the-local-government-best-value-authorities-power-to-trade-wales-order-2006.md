@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT, WALES
 
-The Local Government (Best Value Authorities) (Power to Trade) (Wales) Order 2006 (revoked)[^key-a49df66d69f4cc8376f73268e22bc88c]
+The Local Government (Best Value Authorities) (Power to Trade) (Wales) Order 2006 (revoked)[^c-a49df66d69f4cc8376f73268e22bc88c]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1 April 2006
 
-[^key-a49df66d69f4cc8376f73268e22bc88c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a49df66d69f4cc8376f73268e22bc88c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a49df66d69f4cc8376f73268e22bc88c]
+## 1. Title, commencement and application[^c-a49df66d69f4cc8376f73268e22bc88c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Power to trade in function-related activities[^key-a49df66d69f4cc8376f73268e22bc88c]
+## 2. Power to trade in function-related activities[^c-a49df66d69f4cc8376f73268e22bc88c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a49df66d69f4cc8376f73268e22bc88c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a49df66d69f4cc8376f73268e22bc88c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a49df66d69f4cc8376f73268e22bc88c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a49df66d69f4cc8376f73268e22bc88c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a49df66d69f4cc8376f73268e22bc88c]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/979) revoked (5.5.2022) by [The Local Government (Relevant Authorities) (Power to Trade) (Wales) Order 2022 (S.I. 2022/424)](https://www.legislation.gov.uk/wsi/2022/424), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2022/424/article/1/1), [5](https://www.legislation.gov.uk/wsi/2022/424/article/5)
+[^c-a49df66d69f4cc8376f73268e22bc88c]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2006/979) revoked (5.5.2022) by [The Local Government (Relevant Authorities) (Power to Trade) (Wales) Order 2022 (S.I. 2022/424)](https://www.legislation.gov.uk/wsi/2022/424), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2022/424/article/1/1), [5](https://www.legislation.gov.uk/wsi/2022/424/article/5)

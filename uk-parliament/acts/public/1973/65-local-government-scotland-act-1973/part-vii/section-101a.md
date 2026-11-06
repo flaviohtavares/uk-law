@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101A. Reference of social security matters to Secretary of State.[^key-8d9d8ed73a454973c3145f4094b55f8e][^c9677251]
+## 101A. Reference of social security matters to Secretary of State.[^c-8d9d8ed73a454973c3145f4094b55f8e][^c9677251]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ The Commission or an auditor may refer to the Secretary of State any matter aris
 
 ## Annotations
 
-[^key-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c9677251]: Textual amendment: [S. 101A](https://www.legislation.gov.uk/ukpga/1973/65/section/101A) inserted (1.7.1997) by [1997 c. 47](https://www.legislation.gov.uk/ukpga/1997/47), [s. 7(3)](https://www.legislation.gov.uk/ukpga/1997/47/section/7/3); [S.I. 1997/1577](https://www.legislation.gov.uk/uksi/1997/1577), [art. 2](https://www.legislation.gov.uk/uksi/1997/1577/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1577/schedule)

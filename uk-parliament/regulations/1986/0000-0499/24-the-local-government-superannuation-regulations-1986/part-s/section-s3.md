@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## S3. Revocations[^key-ee96788b3d4f84b372d605a5cc668c38]
+## S3. Revocations[^c-ee96788b3d4f84b372d605a5cc668c38]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The regulations specified in column (1) of Schedule 20 are revoked to the extent
 
 ## Annotations
 
-[^key-ee96788b3d4f84b372d605a5cc668c38]: Commencement: [Reg. S3](https://www.legislation.gov.uk/uksi/1986/24/regulation/S3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-ee96788b3d4f84b372d605a5cc668c38]: Commencement: [Reg. S3](https://www.legislation.gov.uk/uksi/1986/24/regulation/S3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

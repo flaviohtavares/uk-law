@@ -44,7 +44,7 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 ## PART I — INTERPRETATION AND GENERAL
 
-### 1. Citation and commencement[^key-e4a00d369f5e9d504108a0b2f0806b16]
+### 1. Citation and commencement[^c-e4a00d369f5e9d504108a0b2f0806b16]
 
 (1) These Regulations may be cited as the Quarries Regulations 1999 and subject to paragraphs (2) and (3) shall come into force on 1st January 2000.
 
@@ -52,14 +52,14 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 (3) Regulation 32(4) shall come into force on 1st January 2002 with respect to any notifiable tip which was not a classified tip for the purposes of regulation 2(1) of the 1971 Regulations.
 
-### 2. Interpretation[^key-37e6b8229c34d50174e77cb511809644]
+### 2. Interpretation[^c-37e6b8229c34d50174e77cb511809644]
 
 (1) In these Regulations, unless the context otherwise requires—
 
 - “the 1954 Act” means the Mines and Quarries Act 1954[^f00002];
 - “the 1969 Act” means the Mines and Quarries (Tips) Act 1969[^f00003];
 - “the 1971 Regulations” means the Mines and Quarries (Tips) Regulations 1971[^f00004];
-- “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999;[^key-ae9e109ce95f53517bf52c087d6faf84]
+- “the 1999 Regulations" means the Management of Health and Safety at Work Regulations 1999;[^c-ae9e109ce95f53517bf52c087d6faf84]
 - “appoint” in relation to a person means appoint in writing with a written statement summarising his duties and authority, and “appointed” shall be construed accordingly;
 - “competent” in relation to a person means a person with sufficient training, experience, knowledge and other qualities to enable him properly to undertake the duties assigned to him, and “competence” shall be construed accordingly;
 - “detonator” means an initiator for explosives that contains a charge of high explosive fired by means of a flame, spark, electric current or shock tube;
@@ -67,12 +67,12 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 - “excavations and tips rules” means the rules referred to at regulation 31;
 - “the Executive” means the Health and Safety Executive;
 - “exploder” means a device designed for firing detonators;
-- “explosive article” means an article containing one or more explosive substances;[^key-f731de60d10f508f73e669fb99ad7d85]
+- “explosive article” means an article containing one or more explosive substances;[^c-f731de60d10f508f73e669fb99ad7d85]
 - “explosive substance” means—
   - (a) a solid or liquid substance; or
   - (b) a mixture of solid or liquid substances or both, which is capable by chemical reaction in itself of producing gas at such a temperature and pressure and at such a speed as could cause damage to surroundings or which is designed to produce an effect by heat, light, sound, gas or smoke or a combination of these as a result of non-detonative self-sustaining exothermic chemical reactions;
 - “explosives” means explosive articles or explosive substances;
-- “explosives store” means a building, enclosed area or metal structure where explosives are stored under a licence granted[^key-dca1b1e33bc71971098c9a833d1b788e] under the Explosives Regulations 2014[^key-da01fab918762706b2c43a9691334f33];
+- “explosives store” means a building, enclosed area or metal structure where explosives are stored under a licence granted[^c-dca1b1e33bc71971098c9a833d1b788e] under the Explosives Regulations 2014[^c-da01fab918762706b2c43a9691334f33];
 - “geotechnical assessment” has the meaning given to it in regulation 33(1);
 - “geotechnical specialist” means a chartered engineer or chartered geologist who has—
   - (a) three or more years relevant experience in soil mechanics, rock mechanics or excavation engineering; and
@@ -116,13 +116,13 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 - (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation or Schedule in which that reference occurs; and
 - (c) any specified document shall operate as a reference to that document as revised or reissued from time to time.
 
-### 3. Meaning of quarry[^key-dff7deb753b3ec8e64b16ec9fdd0f87e]
+### 3. Meaning of quarry[^c-dff7deb753b3ec8e64b16ec9fdd0f87e]
 
 (1) In these Regulations “quarry” means—
 
 - (a) subject to paragraph (2), an excavation or system of excavations made for the purpose of, or in connection with, the extraction of minerals (whether in their natural state or in solution or suspension) or products of minerals, being neither a mine nor merely a well or borehole or a well and borehole combined;
 - (b) any reclamation site (and for this purpose “reclamation site” means a site where the extraction of minerals forms part of the process whereby that site is restored for agricultural, industrial or domestic use) from which minerals are being extracted for sale or further use; or
-- (c) any disused tip which is not at a mine being worked within the meaning of regulation 2(2) of the Mines Regulations 2014[^key-9c42c0b28f300bb9d56e74c927efcafd] from which minerals are being extracted for sale or further use.
+- (c) any disused tip which is not at a mine being worked within the meaning of regulation 2(2) of the Mines Regulations 2014[^c-9c42c0b28f300bb9d56e74c927efcafd] from which minerals are being extracted for sale or further use.
 
 (2) Notwithstanding paragraph (1)(a), in these Regulations “quarry” does not include—
 
@@ -153,7 +153,7 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 (5) Upon receipt of a notice given in accordance with paragraphs (4)(a)(ii) or (4)(b)(ii), the tip named in that notice shall be treated as forming part of the quarry specified in the said notice.
 
-### 4. Application[^key-1a891972b5ed462093cacb1a620f6208]
+### 4. Application[^c-1a891972b5ed462093cacb1a620f6208]
 
 (1) Subject to paragraph (2) and save where the contrary intention appears, these Regulations shall apply to all quarries where persons work.
 
@@ -176,7 +176,7 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 ## PART II — HEALTH AND SAFETY MANAGEMENT
 
-### 5. Duties of the person entitled to work the quarry[^key-d5f8f9320aa5915a4729ccdca6131701]
+### 5. Duties of the person entitled to work the quarry[^c-d5f8f9320aa5915a4729ccdca6131701]
 
 (1) The person entitled to work a quarry shall not permit another person to be the operator of that quarry unless that person is suitable and has sufficient resources to be able to operate the quarry safely.
 
@@ -186,7 +186,7 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 (4) The person so entitled shall provide the operator with any relevant information available to him which might affect the health and safety of persons at work at the quarry.
 
-### 6. General duties of the operator[^key-d645fb71e25e9fe3db8ef087c4f452b8]
+### 6. General duties of the operator[^c-d645fb71e25e9fe3db8ef087c4f452b8]
 
 (1) It shall be the duty of the operator of every quarry to take the necessary measures to ensure, so far as is reasonably practicable, that the quarry and its plant are designed, constructed, equipped, commissioned, operated and maintained in such a way that persons at work can perform the work assigned to them without endangering their own health and safety or the health and safety of others.
 
@@ -199,11 +199,11 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 (4) The operator shall ensure that in the event of the abandonment of or ceasing of operations at a quarry, the quarry is left, so far as is reasonably practicable, in a safe condition.
 
-### 7. The health and safety document[^key-713f3d87d5d49a6f7ce618249d553ad5]
+### 7. The health and safety document[^c-713f3d87d5d49a6f7ce618249d553ad5]
 
 (1) The operator shall ensure that no work is carried out at the quarry unless a document (in these Regulations referred to as the “health and safety document”) has been prepared which—
 
-- (a) demonstrates that the risks to which persons at work at the quarry are exposed have been assessed in accordance with regulation 3 of the Management of Health and Safety at Work Regulations 1999[^key-117ae187cdcac505e3bf99e32589e33d];
+- (a) demonstrates that the risks to which persons at work at the quarry are exposed have been assessed in accordance with regulation 3 of the Management of Health and Safety at Work Regulations 1999[^c-117ae187cdcac505e3bf99e32589e33d];
 - (b) demonstrates that adequate measures, including measures concerning the design, use and maintenance of the quarry and of its plant, will be taken to safeguard the health and safety of persons—
   - (i) at the quarry, and
   - (ii) in the area immediately surrounding the quarry who are directly affected by the activities of the quarry;
@@ -238,7 +238,7 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 (5) Each person in the management structure shall carry out the duties assigned to him in the health and safety document so as to protect the health and safety of persons at work at the quarry.
 
-### 8. Management structure[^key-92f9ad748a2f5fb2ea39a240c5b0b94c]
+### 8. Management structure[^c-92f9ad748a2f5fb2ea39a240c5b0b94c]
 
 (1) With a view to ensuring the health, safety and welfare of those persons identified in regulation 7(1)(b)(i) and (ii), it shall be the duty of the operator to—
 
@@ -256,14 +256,14 @@ The Secretary of State, in exercise of the powers conferred upon him by sections
 
 (5) The reference to a competent individual taking charge in paragraph (1)(c) is a reference to that individual taking charge subject to the overall control exercised by the operator.
 
-### 9. Training and competence[^key-5e0cecff334214c94c7c8b0ea808e74a]
+### 9. Training and competence[^c-5e0cecff334214c94c7c8b0ea808e74a]
 
 The operator shall ensure that no person undertakes any work at the quarry unless—
 
 - (a) that person is either competent to do that work or he does so under the instruction and supervision of some other person who is competent to give instruction in and to supervise the doing of that work for the purpose of training him; and
 - (b) a sufficient number of persons with the requisite competence to perform the tasks assigned to them are present.
 
-### 10. Instructions, rules and schemes[^key-3b1dad92da4031e961791a4e0eb0ae10]
+### 10. Instructions, rules and schemes[^c-3b1dad92da4031e961791a4e0eb0ae10]
 
 (1) It shall be the duty of the operator to—
 
@@ -277,7 +277,7 @@ The operator shall ensure that no person undertakes any work at the quarry unles
 
 (2) The operator shall ensure, so far as is reasonably practicable, that any instructions, rules and schemes required to be made under these Regulations are followed, or as the case may be, complied with, by persons at work at the quarry.
 
-### 11. Review of health and safety measures[^key-b9e0fc4560b959adbfbe6464713fc69b]
+### 11. Review of health and safety measures[^c-b9e0fc4560b959adbfbe6464713fc69b]
 
 The operator shall ensure that—
 
@@ -288,7 +288,7 @@ The operator shall ensure that—
 
 ## PART III — RISK CONTROL
 
-### 12. Inspection[^key-e900bd1465663ec467496f50912ddedb]
+### 12. Inspection[^c-e900bd1465663ec467496f50912ddedb]
 
 (1) The operator shall—
 
@@ -312,18 +312,18 @@ are inspected for loose ground or loose rocks before any work at the quarry comm
 
 (3) In this regulation, “inspection” means such visual or more rigorous inspection by a competent person as is appropriate for the purpose.
 
-### 13. Benches and haul roads[^key-c6393ef927e4638756ec765fa27fd685]
+### 13. Benches and haul roads[^c-c6393ef927e4638756ec765fa27fd685]
 
 The operator shall ensure, so far as is reasonably practicable, that—
 
 - (a) benches and haul roads are designed, constructed and maintained so as to allow vehicles and plant to be used and moved upon them safely; and
 - (b) where necessary, effective precautions are taken, by the installation of barriers or otherwise, to prevent vehicles or plant accidentally leaving any bench or haul road.
 
-### 14. Rules controlling risk from vehicles[^key-0556fa038c9d2c5b80e442963cb9fa0b]
+### 14. Rules controlling risk from vehicles[^c-0556fa038c9d2c5b80e442963cb9fa0b]
 
 The operator shall make suitable and sufficient rules (known in these Regulations as the “vehicles rules”) which shall lay down in writing measures designed to control the risks to persons at the quarry arising from the use of vehicles at the quarry.
 
-### 15. Escape and rescue facilities at the quarry[^key-53d3d9f6ebf53ccb563ee2baa0e2ee6e]
+### 15. Escape and rescue facilities at the quarry[^c-53d3d9f6ebf53ccb563ee2baa0e2ee6e]
 
 The operator shall ensure that—
 
@@ -333,17 +333,17 @@ The operator shall ensure that—
 - (d) persons at work at the quarry are trained in appropriate action to be taken in the event of an emergency; and
 - (e) rescue equipment is provided at readily accessible, appropriately sited and clearly sign-posted places and kept ready for use.
 
-### 16. Barriers[^key-bf06ee92c5ce9e0e409b6bb53e81d44a]
+### 16. Barriers[^c-bf06ee92c5ce9e0e409b6bb53e81d44a]
 
 The operator shall ensure that, where appropriate, a barrier suitable for the purpose of discouraging trespass is placed around the boundary of the quarry and is properly maintained.
 
 ## PART IV — ADDITIONAL HEALTH AND SAFETY REQUIREMENTS
 
-### 17. Compliance with Part IV[^key-ee82152eb73d1188b27c1b437fa520e0]
+### 17. Compliance with Part IV[^c-ee82152eb73d1188b27c1b437fa520e0]
 
 The operator shall ensure that regulations 18 to 23 are in each case complied with as appropriate having regard to the features of the quarry, the nature and circumstances of the work carried on there or to a specific risk.
 
-### 18. Permits to work[^key-31995e22aff2b7feb5d8e1cba13fb592]
+### 18. Permits to work[^c-31995e22aff2b7feb5d8e1cba13fb592]
 
 (1) The operator shall ensure that a system is in place so as to ensure that any work involving—
 
@@ -364,7 +364,7 @@ in order to ensure, so far as is reasonably practicable, the health and safety o
 - (a) issued, signed and dated by a suitable person in the management structure; and then
 - (b) accepted, signed and dated by a further suitable person.
 
-### 19. Safety drills[^key-f433f8dc991374977cad7f64ab587607]
+### 19. Safety drills[^c-f433f8dc991374977cad7f64ab587607]
 
 (1) The operator shall ensure that safety drills are held at regular intervals for persons at work at the quarry.
 
@@ -373,13 +373,13 @@ in order to ensure, so far as is reasonably practicable, the health and safety o
 - (a) to train the persons who work at the quarry in the appropriate actions to be taken in an emergency including, where appropriate, the correct use, handling or operation of emergency equipment; and
 - (b) to train and check the skills of such persons to whom specific duties involving the use, handling or operation of such equipment have been assigned in the event of an emergency.
 
-### 20. Fire and explosion hazards[^key-83db88755f3d33b5943d1b1423c85371]
+### 20. Fire and explosion hazards[^c-83db88755f3d33b5943d1b1423c85371]
 
 (1) The operator shall ensure that no person at work at the quarry uses a naked flame or carries out any work which could give rise to a risk of an unintended explosion or fire unless sufficient measures to prevent such an explosion or fire are taken.
 
 (2) No person shall smoke in any part of a quarry where there is a risk of fire or explosion.
 
-### 21. Control of harmful and explosive atmospheres[^key-6cc4fdd9117d067d54fbbcf2da7e75d1]
+### 21. Control of harmful and explosive atmospheres[^c-6cc4fdd9117d067d54fbbcf2da7e75d1]
 
 (1) It shall be the duty of the operator to ensure that—
 
@@ -407,7 +407,7 @@ in order to ensure, so far as is reasonably practicable, the health and safety o
 
 (3) The operator shall ensure that the equipment referred to at paragraph (2)(a) is suitably stored and maintained.
 
-### 22. Danger areas[^key-96028a25e409632c3a20340532674105]
+### 22. Danger areas[^c-96028a25e409632c3a20340532674105]
 
 The operator shall ensure that—
 
@@ -418,17 +418,17 @@ The operator shall ensure that—
   - (iii) a significant risk to the health and safety of persons; and
 - (c) where any person at work is authorised to enter a danger area, appropriate measures are taken to protect his health and safety.
 
-### 23. Lighting[^key-c6c36982b7ef1810d332428f4e6c412e]
+### 23. Lighting[^c-c6c36982b7ef1810d332428f4e6c412e]
 
 The operator shall ensure that every part of a quarry in which a person is likely to be exposed to risks in the event of the failure of artificial lighting is provided with emergency lighting of adequate intensity and where that is impractical persons at work in that place shall be provided with a personal lamp.
 
 ## PART V — EXPLOSIVES
 
-### 24. Application of this Part[^key-ffdf3134c16ff42f66ba650600692138]
+### 24. Application of this Part[^c-ffdf3134c16ff42f66ba650600692138]
 
 This Part shall apply to the storage, transport and use of explosives at a quarry.
 
-### 25. Operator’s duties[^key-ff48b018101cfd4b210a00146cc9bdea]
+### 25. Operator’s duties[^c-ff48b018101cfd4b210a00146cc9bdea]
 
 (1) The operator shall—
 
@@ -461,7 +461,7 @@ This Part shall apply to the storage, transport and use of explosives at a quarr
 
 (5) The operator shall ensure, so far as is reasonably practicable, that each shotfiring operation is carried out safely and in accordance with the rules required to be made in pursuance of paragraph (2)(a) and any specification required to be prepared in pursuance of paragraph (2)(b).
 
-### 26. Supervision of shotfiring operations and trainee shotfirers and records of appointment[^key-a997d5a4678b323046b8a06d7ebcd09d]
+### 26. Supervision of shotfiring operations and trainee shotfirers and records of appointment[^c-a997d5a4678b323046b8a06d7ebcd09d]
 
 (1) The operator shall take all reasonable steps to ensure that—
 
@@ -470,7 +470,7 @@ This Part shall apply to the storage, transport and use of explosives at a quarr
 
 (2) The operator shall ensure that a record of the appointment at the quarry of any shotfirer or trainee shotfirer is kept at a suitable place until three years after that shotfirer’s or, as the case may be, trainee shotfirer’s employment at the quarry ends.
 
-### 27. Shotfirer’s duties[^key-a4c85a3b6818c18112edc65b64f624b0]
+### 27. Shotfirer’s duties[^c-a4c85a3b6818c18112edc65b64f624b0]
 
 Before a shot is fired, a shotfirer shall—
 
@@ -479,7 +479,7 @@ Before a shot is fired, a shotfirer shall—
 - (c) where appropriate, ensure that the electrical integrity of the shotfiring system or circuit is such as to make a misfire unlikely; and
 - (d) ensure that the shot is fired from a safe place.
 
-### 28. Misfires[^key-c081d8fe9ce974f5071069c28bae526f]
+### 28. Misfires[^c-c081d8fe9ce974f5071069c28bae526f]
 
 In the event of a misfire the operator shall (if this is not the same person) consult the individual appointed under regulation 8(1)(c) and shall ensure, so far as is reasonably practicable, that—
 
@@ -489,7 +489,7 @@ In the event of a misfire the operator shall (if this is not the same person) co
 - (b) appropriate steps are taken to determine the cause of and to deal with the misfire; and
 - (c) a suitable record is kept of the misfire.
 
-### 29. Prohibited activities[^key-c6e0a07a0e293beae13fdcea4be749a0]
+### 29. Prohibited activities[^c-c6e0a07a0e293beae13fdcea4be749a0]
 
 (1) No person (other than a person engaged in the transport of explosives to or from the quarry, a shotfirer, trainee shotfirer, a person authorised to handle explosives at a quarry, or a person appointed to be in charge of the explosives store) shall handle explosives at a quarry.
 
@@ -512,7 +512,7 @@ In the event of a misfire the operator shall (if this is not the same person) co
 
 ## PART VI — EXCAVATIONS AND TIPS
 
-### 30. General duty to ensure safety of excavations and tips[^key-c7199e3e2731a54cd2d203c379bb2b7c]
+### 30. General duty to ensure safety of excavations and tips[^c-c7199e3e2731a54cd2d203c379bb2b7c]
 
 The operator shall ensure that excavations and tips are designed, constructed, operated and maintained so as to ensure that—
 
@@ -521,7 +521,7 @@ The operator shall ensure that excavations and tips are designed, constructed, o
 
 which is likely to give rise to a risk to the health and safety of any person is avoided.
 
-### 31. Excavations and tips rules[^key-8bfb7028b46450524fbe2d17c1650979]
+### 31. Excavations and tips rules[^c-8bfb7028b46450524fbe2d17c1650979]
 
 The operator shall ensure that suitable and sufficient rules (known in these Regulations as the “excavations and tips rules”) are made to ensure the safe construction and operation of excavations and tips and such rules shall in particular specify the following matters—
 
@@ -529,17 +529,17 @@ The operator shall ensure that suitable and sufficient rules (known in these Reg
 - (b) the nature and extent of supervision of such activities; and
 - (c) the precautions to be taken during such activities to ensure the health and safety of any person and the safety and stability of the excavation or tip.
 
-### 32. Appraisal of excavations and tips[^key-4a91d053ef8ce7178c5fd31b691755c8][^key-2e2029edf69bc7a2a57a594f4b25ccfe][^key-85428d66caca7828864a1c67ca6becdc][^key-19a5b832d501b0f90b3b7601e4ed9795]
+### 32. Appraisal of excavations and tips[^c-4a91d053ef8ce7178c5fd31b691755c8][^c-2e2029edf69bc7a2a57a594f4b25ccfe][^c-85428d66caca7828864a1c67ca6becdc][^c-19a5b832d501b0f90b3b7601e4ed9795]
 
-(1)[^key-4a91d053ef8ce7178c5fd31b691755c8][^key-2e2029edf69bc7a2a57a594f4b25ccfe] The operator shall ensure that a suitable and sufficient appraisal of all proposed or existing excavations or tips at the quarry is undertaken by a competent person in order to determine whether any such excavation or tip is a significant hazard.
+(1)[^c-4a91d053ef8ce7178c5fd31b691755c8][^c-2e2029edf69bc7a2a57a594f4b25ccfe] The operator shall ensure that a suitable and sufficient appraisal of all proposed or existing excavations or tips at the quarry is undertaken by a competent person in order to determine whether any such excavation or tip is a significant hazard.
 
-(2)[^key-4a91d053ef8ce7178c5fd31b691755c8][^key-2e2029edf69bc7a2a57a594f4b25ccfe] The operator shall ensure that—
+(2)[^c-4a91d053ef8ce7178c5fd31b691755c8][^c-2e2029edf69bc7a2a57a594f4b25ccfe] The operator shall ensure that—
 
 - (a) any significant findings made during an appraisal, any conclusions reached in accordance with paragraph (1) and the reasons for those conclusions are recorded by the competent person undertaking the appraisal;
 - (b) the said competent person signs and dates any such record; and
 - (c) the record made in accordance with sub-paragraph (a) is made available to each employer of persons at work at the quarry and to all persons at work at the quarry.
 
-(3)[^key-4a91d053ef8ce7178c5fd31b691755c8][^key-2e2029edf69bc7a2a57a594f4b25ccfe] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip presents no significant hazard, the operator shall ensure that a competent person carries out further such appraisals—
+(3)[^c-4a91d053ef8ce7178c5fd31b691755c8][^c-2e2029edf69bc7a2a57a594f4b25ccfe] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip presents no significant hazard, the operator shall ensure that a competent person carries out further such appraisals—
 
 - (a) at appropriate intervals;
 - (b) whenever there is any reason to suspect that there has been or will be a significant change to—
@@ -547,9 +547,9 @@ The operator shall ensure that suitable and sufficient rules (known in these Reg
   - (ii) any neighbouring land which may be affected by movement by or instability of the excavation or tip to which the appraisal relates; and
 - (c) whenever there is any reason to doubt the validity of the conclusion of the current appraisal.
 
-(4)[^key-85428d66caca7828864a1c67ca6becdc][^key-19a5b832d501b0f90b3b7601e4ed9795] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip represents a significant hazard, the operator shall ensure that a geotechnical assessment is carried out in accordance with the requirements of regulation 33 as soon as is reasonably practicable.
+(4)[^c-85428d66caca7828864a1c67ca6becdc][^c-19a5b832d501b0f90b3b7601e4ed9795] Where the conclusion reached by the competent person following an appraisal made pursuant to paragraph (1) is that the excavation or tip represents a significant hazard, the operator shall ensure that a geotechnical assessment is carried out in accordance with the requirements of regulation 33 as soon as is reasonably practicable.
 
-### 33. Meaning of “geotechnical assessment” and operator’s duties in relation to geotechnical assessments[^key-29ebb8b91bbbb82b4af51f36a8286074]
+### 33. Meaning of “geotechnical assessment” and operator’s duties in relation to geotechnical assessments[^c-29ebb8b91bbbb82b4af51f36a8286074]
 
 (1) For the purposes of these Regulations, a “geotechnical assessment” means an assessment carried out by a geotechnical specialist identifying and assessing all factors liable to affect the stability and safety of a proposed or existing excavation or tip and shall include—
 
@@ -566,9 +566,9 @@ The operator shall ensure that suitable and sufficient rules (known in these Reg
 
 (3) The operator shall ensure that any information available to him which may be relevant for the purposes of a geotechnical assessment is made available to the geotechnical specialist undertaking that assessment.
 
-(4) The operator shall ensure that any remedial works identified during the geotechnical assessment in accordance with paragraph (1)(c) are completed[^key-85457ad04a5b6f9b9a75f94746e8aeb6] by the date specified.
+(4) The operator shall ensure that any remedial works identified during the geotechnical assessment in accordance with paragraph (1)(c) are completed[^c-85457ad04a5b6f9b9a75f94746e8aeb6] by the date specified.
 
-### 34. Operator’s duties in relation to excavations and tips which are a significant hazard (“notifiable” excavations and tips)[^key-1b7990c4e4a1cb6849e2154d9b1a1f70]
+### 34. Operator’s duties in relation to excavations and tips which are a significant hazard (“notifiable” excavations and tips)[^c-1b7990c4e4a1cb6849e2154d9b1a1f70]
 
 (1) Where the conclusion recorded by a geotechnical specialist in accordance with regulation 33(1)(b) following a geotechnical assessment of a proposed or existing excavation or tip is that the excavation or tip represents a significant hazard by way of instability or movement, the operator shall ensure, subject to regulation 33(1)(d), that the said excavation or tip is subject to a further geotechnical assessment at least every two years.
 
@@ -583,18 +583,18 @@ the operator shall ensure that a further geotechnical assessment is undertaken a
 
 (3) For the purposes of these Regulations, excavations and tips falling within paragraph (1) shall be known as “notifiable excavations” and “notifiable tips” respectively.
 
-### 35. Operator’s duties in relation to excavations and tips which are not a significant hazard[^key-3bab1afe7ee025a28ae9c80697d2118e]
+### 35. Operator’s duties in relation to excavations and tips which are not a significant hazard[^c-3bab1afe7ee025a28ae9c80697d2118e]
 
 Where the conclusion reached by a geotechnical specialist in accordance with regulation 33(1)(b) following a geotechnical assessment of a proposed or existing excavation or tip is that it presents no significant hazard, the operator shall ensure that—
 
 - (a) the said geotechnical specialist specifies the frequency with which appraisals pursuant to regulation 32 are to be conducted in order to ensure the continued safety and stability of the excavation or tip; and
 - (b) a record of that specification is made.
 
-### 36. Duty to keep record of substances tipped[^key-27c7354112bc10063aeb341407366ed4]
+### 36. Duty to keep record of substances tipped[^c-27c7354112bc10063aeb341407366ed4]
 
 The operator shall ensure that sufficient records are kept of the nature, quantity and location of all substances accumulated or deposited at a notifiable tip to enable an accurate assessment of the stability of that tip to be made.
 
-### 37. Notification of excavations and tips[^key-c25adcd247609a7b329448ba4c108f88]
+### 37. Notification of excavations and tips[^c-c25adcd247609a7b329448ba4c108f88]
 
 (1) Subject to paragraph (2), the operator shall in relation to any—
 
@@ -620,17 +620,17 @@ The operator shall ensure that sufficient records are kept of the nature, quanti
 
 (5) Where the conclusion reached by a geotechnical specialist during the geotechnical assessment of an excavation or tip which has, in accordance with regulation 34(1), been subject to a geotechnical assessment at least every two years is that the excavation or tip no longer presents a significant hazard by way of instability or movement, the operator shall give notice of that conclusion and the reasons for that conclusion to the Executive within two months of the geotechnical assessment.
 
-### 38. Transitional provisions[^key-ab83ff072279f1e8d5a6ebe1457d4ffa]
+### 38. Transitional provisions[^c-ab83ff072279f1e8d5a6ebe1457d4ffa]
 
 Where, at the coming into force of these Regulations, a report has been obtained in accordance with regulations 9(2)(a), 12(1) or 18(1) of the 1971 Regulations and is less than two years old, that report shall be treated as a geotechnical assessment for the purpose of regulation 32(4) of these Regulations and shall remain valid for a maximum of two years from the date when it was first made.
 
 ## PART VII — DUTIES OF EMPLOYERS AND PARTICIPATION AND DUTIES OF PERSONS AT WORK
 
-### 39. Co-operation[^key-5c8a758fc412de93379728010385b8f6]
+### 39. Co-operation[^c-5c8a758fc412de93379728010385b8f6]
 
 Every employer of persons at work at a quarry and every person at work at the quarry shall co-operate with the operator to the extent requisite to enable the operator to comply with the relevant statutory provisions.
 
-### 40. Participation of persons at work[^key-0df885a54a58993e5370cde528852d65]
+### 40. Participation of persons at work[^c-0df885a54a58993e5370cde528852d65]
 
 (1) It shall be the duty of the operator to make and maintain arrangements which will enable him and those persons who regularly work at the quarry to co-operate effectively in promoting and developing measures to ensure the health, safety and welfare of persons who regularly work at the quarry and in checking the effectiveness of such measures.
 
@@ -639,7 +639,7 @@ Every employer of persons at work at a quarry and every person at work at the qu
 - (a) in a case where there is an association or body representative of a majority of the total number of persons working at the quarry, by that association or body; or
 - (b) jointly by associations or bodies which are together representative of such a majority.
 
-(3) Where an injury or dangerous occurrence which is notifiable under the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013[^key-f993fe44871054351110a8a0f949dac1] occurs at a quarry, the operator shall permit two members of the committee appointed under paragraph (2) to inspect together the place where the injury or dangerous occurrence occurred and, so far as is necessary for ascertaining its cause, any other part of the quarry and any plant, and to take samples of the atmosphere, dust or water at that place.
+(3) Where an injury or dangerous occurrence which is notifiable under the Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013[^c-f993fe44871054351110a8a0f949dac1] occurs at a quarry, the operator shall permit two members of the committee appointed under paragraph (2) to inspect together the place where the injury or dangerous occurrence occurred and, so far as is necessary for ascertaining its cause, any other part of the quarry and any plant, and to take samples of the atmosphere, dust or water at that place.
 
 (4) The operator of a quarry shall permit sufficient inspections to be carried out by members of the committee appointed under paragraph (2) to enable every part of the quarry and any plant and equipment at the quarry to be inspected once a month by two of those committee members together.
 
@@ -657,26 +657,26 @@ Every employer of persons at work at a quarry and every person at work at the qu
 
 (9) Where a written report is made, a copy of the report signed in accordance with paragraph (8) shall be posted in a conspicuous position at the quarry and kept posted there for 28 days.
 
-### 41. Duty of employers of employees at work at a quarry[^key-54d196f5e1a54aeb515a103b8e1b2c26]
+### 41. Duty of employers of employees at work at a quarry[^c-54d196f5e1a54aeb515a103b8e1b2c26]
 
 (1) No employer shall employ any person to work at a quarry unless there is an operator.
 
 (2) Without prejudice to regulation 6, where the employees of more than one employer are at work at a quarry, it shall be the duty of each employer to comply with those relevant statutory provisions which apply to the quarry.
 
-### 42. Duty of persons at work at a quarry[^key-715ada7b220ccdf884c65afacc8c1cbc]
+### 42. Duty of persons at work at a quarry[^c-715ada7b220ccdf884c65afacc8c1cbc]
 
 Every person at work at a quarry shall—
 
 - (a) to the extent of his responsibility and authority, carry out the duties allocated to him with reasonable care for the health and safety of himself and other persons who may be affected by his acts or omissions; and
 - (b) comply with the rules put in place at the quarry by the operator in accordance with regulation 10.
 
-### 43. Health surveillance[^key-36843f180a1f0c880cf254d3ae72db1b]
+### 43. Health surveillance[^c-36843f180a1f0c880cf254d3ae72db1b]
 
-An employer of a person at work at a quarry shall ensure, where health surveillance under regulation 6 of the 1999 Regulations[^key-a590b00b9c6366b2d0dd85b16e7e686e] is required in respect of any work to which that person is to be assigned, that the health surveillance commences before that person begins to carry out such work.
+An employer of a person at work at a quarry shall ensure, where health surveillance under regulation 6 of the 1999 Regulations[^c-a590b00b9c6366b2d0dd85b16e7e686e] is required in respect of any work to which that person is to be assigned, that the health surveillance commences before that person begins to carry out such work.
 
 ## PART VIII — MISCELLANEOUS AND GENERAL
 
-### 44. Record keeping[^key-c418b768431b6749af18a1f480f4580b]
+### 44. Record keeping[^c-c418b768431b6749af18a1f480f4580b]
 
 (1) It shall be the duty of the operator to ensure that—
 
@@ -685,7 +685,7 @@ An employer of a person at work at a quarry shall ensure, where health surveilla
 
 (2) Paragraph (1)(a) shall apply to copies of information notified to the Executive under these Regulations but shall not apply to the record made in accordance with regulation 5(2) by the person entitled to work the quarry.
 
-### 45. Notification of quarrying operations[^key-96ec4fac1dc2c7caa2ee17bfd41913d9]
+### 45. Notification of quarrying operations[^c-96ec4fac1dc2c7caa2ee17bfd41913d9]
 
 (1) It shall be the duty of the operator to ensure that within 14 days of any of the events specified at paragraphs (a) to (c) of paragraph (2), written notice thereof is given to the Executive.
 
@@ -697,9 +697,9 @@ An employer of a person at work at a quarry shall ensure, where health surveilla
 
 (3) Without prejudice to the duty to give notice under paragraph (1) in respect of an event specified at paragraph (2)(b), the operator of every quarry of coal shall, within three months of the date on which the quarry of coal is abandoned, send to the Executive, or a body approved by it, an accurate plan of that quarry.
 
-(4) Where, in pursuance of paragraph (3)[^key-a85eeba3d2d28673cdac82166b37caf9], a plan has been sent to the Executive or a body approved by it, that plan shall be retained by the Executive or that body in accordance with arrangements approved by the Executive.
+(4) Where, in pursuance of paragraph (3)[^c-a85eeba3d2d28673cdac82166b37caf9], a plan has been sent to the Executive or a body approved by it, that plan shall be retained by the Executive or that body in accordance with arrangements approved by the Executive.
 
-### 46. Exemptions[^key-64da8dbb8db35f5f4c9fb08a4ebb847c]
+### 46. Exemptions[^c-64da8dbb8db35f5f4c9fb08a4ebb847c]
 
 (1) Subject to paragraph (2), the Executive may, by a certificate in writing, exempt any quarry, part of a quarry or class of quarries, any person or class of persons, any plant or class of plant or any operation or class of operations from all or any of the prohibitions and requirements of these Regulations, and any such exemption may be granted subject to conditions and to a limit of time and may be revoked at any time by a certificate in writing.
 
@@ -712,7 +712,7 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 ## PART IX — REPEALS, MODIFICATIONS AND REVOCATIONS
 
-### 47. Repeals and modifications[^key-3e999290d6ce9a0676723f9216ea6a36]
+### 47. Repeals and modifications[^c-3e999290d6ce9a0676723f9216ea6a36]
 
 (1) The provisions of the 1954 Act specified in column 1 of Part 1 of Schedule 2 are repealed to the extent specified in the corresponding entry in column 3 of that Part.
 
@@ -724,7 +724,7 @@ it is satisfied that the health and safety of persons who are likely to be affec
 
 (5) The provisions of the 1969 Act specified in column 1 of Part II of Schedule 4 shall not apply to quarries and accordingly those provisions shall be modified to the extent specified in column 2 of that Part.
 
-### 48. Revocations and modifications to instruments[^key-efdd736ddf921fa7bebb15bd42c95b6b]
+### 48. Revocations and modifications to instruments[^c-efdd736ddf921fa7bebb15bd42c95b6b]
 
 (1) The instruments specified in column 1 of Part I of Schedule 5 shall be revoked to the extent specified in the corresponding entry in column 3 of that Part.
 
@@ -744,7 +744,7 @@ Department of Environment, Transport and the Regions
 
 Regulation 33(1)(a)
 
-### 1. Site survey[^key-3642c1351cf4596c5de7b8d35d10b88f]
+### 1. Site survey[^c-3642c1351cf4596c5de7b8d35d10b88f]
 
 An accurate plan which should be prepared on a scale not less detailed than 1 2500 showing—
 
@@ -755,37 +755,37 @@ An accurate plan which should be prepared on a scale not less detailed than 1 25
 
 which plan shall be contoured to Ordnance Datum Newlyn at a vertical interval not greater than 5 metres and orientated to and correlated with the Ordnance Survey National Grid and marked with squares corresponding to the 100 metre squares shown on Ordnance Survey sheets on the scale of 1:2500.
 
-### 2. Site investigation[^key-933a1939eb9495ac4831afbb9e547def]
+### 2. Site investigation[^c-933a1939eb9495ac4831afbb9e547def]
 
 A record of all relevant site investigation information including surveys, tests, boreholes and groundwater measurements made for the purpose of the geotechnical assessment together with the results of any testing including the strength of materials within and beneath the tip or within the excavated slope. The record shall include any known historical information relevant to the site investigation.
 
-### 3. Cross-sections based on site investigation[^key-1f97bd3897d70538c23dd8b1de4f6494]
+### 3. Cross-sections based on site investigation[^c-1f97bd3897d70538c23dd8b1de4f6494]
 
 Sufficient accurate cross-sections on a scale not less detailed than 1:1250 of the site of the excavation or tip or proposed excavation or tip showing the existing ground surface and all relevant superficial materials and bedrock underlying the said site and—
 
 - (a) any variation in the thickness, level or character of the superficial deposits and bedrock materials based on the site investigation; and
 - (b) the position of any surface whether natural or manmade which may affect the safety of the excavation or tip or proposed excavation or tip.
 
-### 4. Plans based on site investigation[^key-ba0e3017f307385e674e5431ba903cac]
+### 4. Plans based on site investigation[^c-ba0e3017f307385e674e5431ba903cac]
 
 Plans showing the position of all boreholes, wells and trial pits used in the site investigation and the location and levels of all materials and surfaces which may affect the safety of the excavation or tip or proposed excavation or tip.
 
-### 5. Assumptions made before analysis[^key-1ad14e7cb43d9a8fb0f9321eff87c993]
+### 5. Assumptions made before analysis[^c-1ad14e7cb43d9a8fb0f9321eff87c993]
 
 A record of any assumptions relevant to the assessment of ground conditions relating to the safety of the excavation or tip made by the geotechnical specialist including a record of any relevant information which was not available when undertaking the assessment.
 
-### 6. Findings of analysis[^key-6d86d0edec8f0b4b5970c5099321ec3d]
+### 6. Findings of analysis[^c-6d86d0edec8f0b4b5970c5099321ec3d]
 
 A record of the calculations carried out in order to determine the safety of the excavation or tip, including any variables or parameters used in those calculations and the reasons for using them and the findings of those calculations expressed as the factor of safety or the probability of failure or other recognised basis of assessing stability.
 
-### 7. Design coming out of analysis[^key-16c0870fbea24afbfb5f8cf00cbbd730]
+### 7. Design coming out of analysis[^c-16c0870fbea24afbfb5f8cf00cbbd730]
 
 An accurate plan on a scale not less detailed than 1:2500 recording—
 
 - (a) in relation to tips or proposed tips, the design of the tip, including the area of land covered or to be covered, the gradients of that land, the designed contours at vertical intervals of not more than 2 metres, the side slopes and boundaries of the tip and the designed position and nature of construction of any wall or other structure retaining or confining the tip; and
 - (b) in relation to excavations or proposed excavations, the design of the excavation, including the height or proposed height of the slope, the position and width of any benches and representative contours of the excavation at vertical intervals of not more than 5 metres.
 
-### 8. Requirements during and after construction[^key-30f363ef751c4b6293698a1a797483e1]
+### 8. Requirements during and after construction[^c-30f363ef751c4b6293698a1a797483e1]
 
 A record of the nature and extent of inspection, supervision and safety measures necessary to ensure the safety of the excavation or tip and a specification of necessary engineering works and safety measures. A record of the action to be taken regarding defects specified in the report.
 
@@ -793,7 +793,7 @@ A record of the nature and extent of inspection, supervision and safety measures
 
 Regulation 47(1) and (2)
 
-### PART I — REPEALS[^key-6c3e293dd0a2483fcf1432765922e659]
+### PART I — REPEALS[^c-6c3e293dd0a2483fcf1432765922e659]
 
 <table>
 <thead>
@@ -833,7 +833,7 @@ Regulation 47(1) and (2)
 </tbody>
 </table>
 
-### PART II — PROVISIONS OF THE 1954 ACT NOT TO APPLY TO QUARRIES AND EXTENT OF CONSEQUENT MODIFICATIONS[^key-c171ec9c38acf4047f5a3e1d5265690b]
+### PART II — PROVISIONS OF THE 1954 ACT NOT TO APPLY TO QUARRIES AND EXTENT OF CONSEQUENT MODIFICATIONS[^c-c171ec9c38acf4047f5a3e1d5265690b]
 
 <table>
 <thead>
@@ -866,7 +866,7 @@ Regulation 47(1) and (2)
 </tbody>
 </table>
 
-## SCHEDULE 3 — MODIFICATIONS OF THE FACTORIES ACT 1961[^key-bb05a36747a0a63b0a67dedd9352085b]
+## SCHEDULE 3 — MODIFICATIONS OF THE FACTORIES ACT 1961[^c-bb05a36747a0a63b0a67dedd9352085b]
 
 Regulation 47(3)
 
@@ -884,7 +884,7 @@ Regulation 47(3)
 
 Regulation 47(4)
 
-### PART I — MODIFICATIONS[^key-ea49776f65fab2b756e5db03396e7898]
+### PART I — MODIFICATIONS[^c-ea49776f65fab2b756e5db03396e7898]
 
 <table>
 <thead>
@@ -902,7 +902,7 @@ Regulation 47(4)
 </tbody>
 </table>
 
-### PART II — PROVISIONS OF THE 1969 ACT NOT TO APPLY TO QUARRIES AND EXTENT OF CONSEQUENT MODIFICATIONS[^key-30de2f6fb37014fbcb80def86cd1a11a]
+### PART II — PROVISIONS OF THE 1969 ACT NOT TO APPLY TO QUARRIES AND EXTENT OF CONSEQUENT MODIFICATIONS[^c-30de2f6fb37014fbcb80def86cd1a11a]
 
 Regulation 47(5)
 
@@ -935,7 +935,7 @@ Regulation 47(5)
 
 Regulation 48(1)
 
-### PART I — REVOCATIONS[^key-4d457da9a843a60da465d3f5c95f2931]
+### PART I — REVOCATIONS[^c-4d457da9a843a60da465d3f5c95f2931]
 
 <table>
 <thead>
@@ -955,7 +955,7 @@ Regulation 48(1)
 </tbody>
 </table>
 
-### PART II — MODIFICATIONS[^key-cc64218e20df7639f54f72db1362f174]
+### PART II — MODIFICATIONS[^c-cc64218e20df7639f54f72db1362f174]
 
 Regulation 48(2)
 
@@ -1021,7 +1021,7 @@ Regulation 48(2)
 </tbody>
 </table>
 
-[^f00015][^f00016][^f00017][^f00018][^key-0226ae005a89c96721dea18b14d94263][^key-0226ae005a89c96721dea18b14d94263][^key-0226ae005a89c96721dea18b14d94263][^f00020][^f00021][^f00022][^f00023][^f00024][^key-1d5c449b6132f89abc3250a4304543da][^key-1d5c449b6132f89abc3250a4304543da][^key-1d5c449b6132f89abc3250a4304543da][^f00026][^key-154c390be068f5269726b8ea35772b3f][^key-154c390be068f5269726b8ea35772b3f][^key-154c390be068f5269726b8ea35772b3f][^key-87392851cca8c4955ce02acb77145448][^key-87392851cca8c4955ce02acb77145448][^key-87392851cca8c4955ce02acb77145448][^f00029][^f00030][^f00031][^f00032][^key-f84e1e272d92c1471b42271e285d006d][^key-f84e1e272d92c1471b42271e285d006d][^key-f84e1e272d92c1471b42271e285d006d]
+[^f00015][^f00016][^f00017][^f00018][^c-0226ae005a89c96721dea18b14d94263][^c-0226ae005a89c96721dea18b14d94263][^c-0226ae005a89c96721dea18b14d94263][^f00020][^f00021][^f00022][^f00023][^f00024][^c-1d5c449b6132f89abc3250a4304543da][^c-1d5c449b6132f89abc3250a4304543da][^c-1d5c449b6132f89abc3250a4304543da][^f00026][^c-154c390be068f5269726b8ea35772b3f][^c-154c390be068f5269726b8ea35772b3f][^c-154c390be068f5269726b8ea35772b3f][^c-87392851cca8c4955ce02acb77145448][^c-87392851cca8c4955ce02acb77145448][^c-87392851cca8c4955ce02acb77145448][^f00029][^f00030][^f00031][^f00032][^c-f84e1e272d92c1471b42271e285d006d][^c-f84e1e272d92c1471b42271e285d006d][^c-f84e1e272d92c1471b42271e285d006d]
 
 (This note is not part of the Regulations)
 
@@ -1076,9 +1076,9 @@ Regulation 48(2)
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37); sections 15 and 50 were amended by Schedule 15 of the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) paragraphs 6 and 16 respectively. The general purposes of Part I referred to in section 15(1) were extended by section 117(2) of the Railways Act [1993 (c. 43)](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-e4a00d369f5e9d504108a0b2f0806b16]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-e4a00d369f5e9d504108a0b2f0806b16]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-37e6b8229c34d50174e77cb511809644]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-37e6b8229c34d50174e77cb511809644]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
 [^f00002]: Footnote: [1954 c. 70](https://www.legislation.gov.uk/ukpga/1954/70), extended by the Mines and Quarries (Tips) Act [1969 (c. 10)](https://www.legislation.gov.uk/ukpga/1969/10) and the Mines Management Act [1971 (c. 20)](https://www.legislation.gov.uk/ukpga/1971/20): relevant amending instruments are S.I. [1974/2013](https://www.legislation.gov.uk/uksi/1974/2013), [1976/2063](https://www.legislation.gov.uk/uksi/1976/2063), [1993/1897](https://www.legislation.gov.uk/uksi/1993/1897).
 
@@ -1086,163 +1086,163 @@ Regulation 48(2)
 
 [^f00004]: Footnote: S.I. [1971/1377](https://www.legislation.gov.uk/uksi/1971/1377).
 
-[^key-ae9e109ce95f53517bf52c087d6faf84]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+[^c-ae9e109ce95f53517bf52c087d6faf84]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
 
-[^key-f731de60d10f508f73e669fb99ad7d85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/9/a)
+[^c-f731de60d10f508f73e669fb99ad7d85]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/9/a)
 
-[^key-dca1b1e33bc71971098c9a833d1b788e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/42) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-dca1b1e33bc71971098c9a833d1b788e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 42](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/42) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
-[^key-da01fab918762706b2c43a9691334f33]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 19](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/19)
+[^c-da01fab918762706b2c43a9691334f33]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/2/1) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 19](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/19)
 
 [^f00008]: Footnote: [1980 c. 66](https://www.legislation.gov.uk/ukpga/1980/66) to which there are amendments not relevant to these Regulations.
 
 [^f00009]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-dff7deb753b3ec8e64b16ec9fdd0f87e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1999/2024/regulation/3) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-dff7deb753b3ec8e64b16ec9fdd0f87e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1999/2024/regulation/3) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-9c42c0b28f300bb9d56e74c927efcafd]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/3/1/c) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-9c42c0b28f300bb9d56e74c927efcafd]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/3/1/c) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/12) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^f00011]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).
 
-[^key-1a891972b5ed462093cacb1a620f6208]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/2024/regulation/4) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-1a891972b5ed462093cacb1a620f6208]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/2024/regulation/4) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-d5f8f9320aa5915a4729ccdca6131701]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1999/2024/regulation/5) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-d5f8f9320aa5915a4729ccdca6131701]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1999/2024/regulation/5) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-d645fb71e25e9fe3db8ef087c4f452b8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1999/2024/regulation/6) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-d645fb71e25e9fe3db8ef087c4f452b8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1999/2024/regulation/6) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-713f3d87d5d49a6f7ce618249d553ad5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/2024/regulation/7) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-713f3d87d5d49a6f7ce618249d553ad5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1999/2024/regulation/7) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-117ae187cdcac505e3bf99e32589e33d]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/7/1/a) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+[^c-117ae187cdcac505e3bf99e32589e33d]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/7/1/a) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
 
-[^key-92f9ad748a2f5fb2ea39a240c5b0b94c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1999/2024/regulation/8) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-92f9ad748a2f5fb2ea39a240c5b0b94c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1999/2024/regulation/8) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-5e0cecff334214c94c7c8b0ea808e74a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/2024/regulation/9) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-5e0cecff334214c94c7c8b0ea808e74a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1999/2024/regulation/9) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-3b1dad92da4031e961791a4e0eb0ae10]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1999/2024/regulation/10) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-3b1dad92da4031e961791a4e0eb0ae10]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1999/2024/regulation/10) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-b9e0fc4560b959adbfbe6464713fc69b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1999/2024/regulation/11) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-b9e0fc4560b959adbfbe6464713fc69b]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1999/2024/regulation/11) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-e900bd1465663ec467496f50912ddedb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1999/2024/regulation/12) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-e900bd1465663ec467496f50912ddedb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1999/2024/regulation/12) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-c6393ef927e4638756ec765fa27fd685]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1999/2024/regulation/13) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-c6393ef927e4638756ec765fa27fd685]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1999/2024/regulation/13) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-0556fa038c9d2c5b80e442963cb9fa0b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1999/2024/regulation/14) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-0556fa038c9d2c5b80e442963cb9fa0b]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1999/2024/regulation/14) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-53d3d9f6ebf53ccb563ee2baa0e2ee6e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1999/2024/regulation/15) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-53d3d9f6ebf53ccb563ee2baa0e2ee6e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1999/2024/regulation/15) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-bf06ee92c5ce9e0e409b6bb53e81d44a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1999/2024/regulation/16) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-bf06ee92c5ce9e0e409b6bb53e81d44a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1999/2024/regulation/16) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-ee82152eb73d1188b27c1b437fa520e0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1999/2024/regulation/17) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-ee82152eb73d1188b27c1b437fa520e0]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1999/2024/regulation/17) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-31995e22aff2b7feb5d8e1cba13fb592]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1999/2024/regulation/18) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-31995e22aff2b7feb5d8e1cba13fb592]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1999/2024/regulation/18) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-f433f8dc991374977cad7f64ab587607]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/2024/regulation/19) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-f433f8dc991374977cad7f64ab587607]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1999/2024/regulation/19) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-83db88755f3d33b5943d1b1423c85371]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1999/2024/regulation/20) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-83db88755f3d33b5943d1b1423c85371]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1999/2024/regulation/20) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-6cc4fdd9117d067d54fbbcf2da7e75d1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1999/2024/regulation/21) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-6cc4fdd9117d067d54fbbcf2da7e75d1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1999/2024/regulation/21) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
 [^f00012]: Footnote: S.I. [1992/3139](https://www.legislation.gov.uk/uksi/1992/3139); amended by S.I. [1993/3074](https://www.legislation.gov.uk/uksi/1993/3074), [1994/2326](https://www.legislation.gov.uk/uksi/1994/2326), [1996/3039](https://www.legislation.gov.uk/uksi/1996/3039).
 
-[^key-96028a25e409632c3a20340532674105]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1999/2024/regulation/22) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-96028a25e409632c3a20340532674105]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1999/2024/regulation/22) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-c6c36982b7ef1810d332428f4e6c412e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1999/2024/regulation/23) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-c6c36982b7ef1810d332428f4e6c412e]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1999/2024/regulation/23) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-ffdf3134c16ff42f66ba650600692138]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1999/2024/regulation/24) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-ffdf3134c16ff42f66ba650600692138]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1999/2024/regulation/24) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-ff48b018101cfd4b210a00146cc9bdea]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1999/2024/regulation/25) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-ff48b018101cfd4b210a00146cc9bdea]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1999/2024/regulation/25) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-a997d5a4678b323046b8a06d7ebcd09d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1999/2024/regulation/26) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-a997d5a4678b323046b8a06d7ebcd09d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1999/2024/regulation/26) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-a4c85a3b6818c18112edc65b64f624b0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1999/2024/regulation/27) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-a4c85a3b6818c18112edc65b64f624b0]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1999/2024/regulation/27) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-c081d8fe9ce974f5071069c28bae526f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1999/2024/regulation/28) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-c081d8fe9ce974f5071069c28bae526f]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1999/2024/regulation/28) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-c6e0a07a0e293beae13fdcea4be749a0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1999/2024/regulation/29) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-c6e0a07a0e293beae13fdcea4be749a0]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1999/2024/regulation/29) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-c7199e3e2731a54cd2d203c379bb2b7c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1999/2024/regulation/30) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-c7199e3e2731a54cd2d203c379bb2b7c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1999/2024/regulation/30) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-8bfb7028b46450524fbe2d17c1650979]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1999/2024/regulation/31) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-8bfb7028b46450524fbe2d17c1650979]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1999/2024/regulation/31) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-4a91d053ef8ce7178c5fd31b691755c8]: Commencement: [Reg. 32(1)-(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/1) in force at 1.1.2000 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-4a91d053ef8ce7178c5fd31b691755c8]: Commencement: [Reg. 32(1)-(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/1) in force at 1.1.2000 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-2e2029edf69bc7a2a57a594f4b25ccfe]: Commencement: [Reg. 32(1)-(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/1) in force at 1.1.2001 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/2)
+[^c-2e2029edf69bc7a2a57a594f4b25ccfe]: Commencement: [Reg. 32(1)-(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/1) in force at 1.1.2001 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/2)
 
-[^key-85428d66caca7828864a1c67ca6becdc]: Commencement: [Reg. 32(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/4) in force at 1.1.2000 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-85428d66caca7828864a1c67ca6becdc]: Commencement: [Reg. 32(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/4) in force at 1.1.2000 for specified purposes, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-19a5b832d501b0f90b3b7601e4ed9795]: Commencement: [Reg. 32(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/4) in force at 1.1.2002 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/3)
+[^c-19a5b832d501b0f90b3b7601e4ed9795]: Commencement: [Reg. 32(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/32/4) in force at 1.1.2002 in so far as not already in force, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/3)
 
-[^key-29ebb8b91bbbb82b4af51f36a8286074]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1999/2024/regulation/33) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-29ebb8b91bbbb82b4af51f36a8286074]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1999/2024/regulation/33) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-85457ad04a5b6f9b9a75f94746e8aeb6]: Textual amendment: Word in [reg. 33(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/33/4) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/9/b)
+[^c-85457ad04a5b6f9b9a75f94746e8aeb6]: Textual amendment: Word in [reg. 33(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/33/4) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/9/b)
 
-[^key-1b7990c4e4a1cb6849e2154d9b1a1f70]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1999/2024/regulation/34) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-1b7990c4e4a1cb6849e2154d9b1a1f70]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1999/2024/regulation/34) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-3bab1afe7ee025a28ae9c80697d2118e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1999/2024/regulation/35) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-3bab1afe7ee025a28ae9c80697d2118e]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1999/2024/regulation/35) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-27c7354112bc10063aeb341407366ed4]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1999/2024/regulation/36) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-27c7354112bc10063aeb341407366ed4]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1999/2024/regulation/36) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-c25adcd247609a7b329448ba4c108f88]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1999/2024/regulation/37) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-c25adcd247609a7b329448ba4c108f88]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1999/2024/regulation/37) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-ab83ff072279f1e8d5a6ebe1457d4ffa]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1999/2024/regulation/38) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-ab83ff072279f1e8d5a6ebe1457d4ffa]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1999/2024/regulation/38) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-5c8a758fc412de93379728010385b8f6]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1999/2024/regulation/39) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-5c8a758fc412de93379728010385b8f6]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1999/2024/regulation/39) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-0df885a54a58993e5370cde528852d65]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1999/2024/regulation/40) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-0df885a54a58993e5370cde528852d65]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/1999/2024/regulation/40) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-f993fe44871054351110a8a0f949dac1]: Textual amendment: Words in [reg. 40(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/40/3) substituted (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) Table 2 (with [reg. 19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+[^c-f993fe44871054351110a8a0f949dac1]: Textual amendment: Words in [reg. 40(3)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/40/3) substituted (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) Table 2 (with [reg. 19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
 
-[^key-54d196f5e1a54aeb515a103b8e1b2c26]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1999/2024/regulation/41) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-54d196f5e1a54aeb515a103b8e1b2c26]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/1999/2024/regulation/41) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-715ada7b220ccdf884c65afacc8c1cbc]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1999/2024/regulation/42) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-715ada7b220ccdf884c65afacc8c1cbc]: Commencement: [Reg. 42](https://www.legislation.gov.uk/uksi/1999/2024/regulation/42) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-36843f180a1f0c880cf254d3ae72db1b]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1999/2024/regulation/43) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-36843f180a1f0c880cf254d3ae72db1b]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/1999/2024/regulation/43) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-a590b00b9c6366b2d0dd85b16e7e686e]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/uksi/1999/2024/regulation/43) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
+[^c-a590b00b9c6366b2d0dd85b16e7e686e]: Textual amendment: Words in [reg. 43](https://www.legislation.gov.uk/uksi/1999/2024/regulation/43) substituted (29.12.1999) by [The Management of Health and Safety at Work Regulations 1999 (S.I. 1999/3242)](https://www.legislation.gov.uk/uksi/1999/3242), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/3242/schedule/2) (with [regs. 2(1)](https://www.legislation.gov.uk/uksi/1999/3242/regulation/2/1), [30](https://www.legislation.gov.uk/uksi/1999/3242/regulation/30))
 
-[^key-c418b768431b6749af18a1f480f4580b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1999/2024/regulation/44) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-c418b768431b6749af18a1f480f4580b]: Commencement: [Reg. 44](https://www.legislation.gov.uk/uksi/1999/2024/regulation/44) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-96ec4fac1dc2c7caa2ee17bfd41913d9]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1999/2024/regulation/45) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-96ec4fac1dc2c7caa2ee17bfd41913d9]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/1999/2024/regulation/45) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-a85eeba3d2d28673cdac82166b37caf9]: Textual amendment: Word in [reg. 45(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/45/4) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/9/c)
+[^c-a85eeba3d2d28673cdac82166b37caf9]: Textual amendment: Word in [reg. 45(4)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/45/4) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [9(c)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/9/c)
 
-[^key-64da8dbb8db35f5f4c9fb08a4ebb847c]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1999/2024/regulation/46) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-64da8dbb8db35f5f4c9fb08a4ebb847c]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/1999/2024/regulation/46) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-3e999290d6ce9a0676723f9216ea6a36]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1999/2024/regulation/47) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-3e999290d6ce9a0676723f9216ea6a36]: Commencement: [Reg. 47](https://www.legislation.gov.uk/uksi/1999/2024/regulation/47) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
 [^f00014]: Footnote: [1961 c. 34](https://www.legislation.gov.uk/ukpga/1961/34) to which there are amendments not relevant to these Regulations.
 
-[^key-efdd736ddf921fa7bebb15bd42c95b6b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1999/2024/regulation/48) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-efdd736ddf921fa7bebb15bd42c95b6b]: Commencement: [Reg. 48](https://www.legislation.gov.uk/uksi/1999/2024/regulation/48) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-3642c1351cf4596c5de7b8d35d10b88f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/1) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-3642c1351cf4596c5de7b8d35d10b88f]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/1) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-933a1939eb9495ac4831afbb9e547def]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/2) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-933a1939eb9495ac4831afbb9e547def]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/2) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-1f97bd3897d70538c23dd8b1de4f6494]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/3) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-1f97bd3897d70538c23dd8b1de4f6494]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/3) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-ba0e3017f307385e674e5431ba903cac]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/4) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-ba0e3017f307385e674e5431ba903cac]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/4) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-1ad14e7cb43d9a8fb0f9321eff87c993]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/5) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-1ad14e7cb43d9a8fb0f9321eff87c993]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/5) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-6d86d0edec8f0b4b5970c5099321ec3d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/6) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-6d86d0edec8f0b4b5970c5099321ec3d]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/6) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-16c0870fbea24afbfb5f8cf00cbbd730]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/7) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-16c0870fbea24afbfb5f8cf00cbbd730]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/7) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-30f363ef751c4b6293698a1a797483e1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/8) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-30f363ef751c4b6293698a1a797483e1]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1999/2024/schedule/1/paragraph/8) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-6c3e293dd0a2483fcf1432765922e659]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1999/2024/schedule/2/part/I) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-6c3e293dd0a2483fcf1432765922e659]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/1999/2024/schedule/2/part/I) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-c171ec9c38acf4047f5a3e1d5265690b]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1999/2024/schedule/2/part/II) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-c171ec9c38acf4047f5a3e1d5265690b]: Commencement: [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/1999/2024/schedule/2/part/II) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-bb05a36747a0a63b0a67dedd9352085b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1999/2024/schedule/3) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-bb05a36747a0a63b0a67dedd9352085b]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/1999/2024/schedule/3) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-ea49776f65fab2b756e5db03396e7898]: Commencement: [Sch. 4 Pt. I](https://www.legislation.gov.uk/uksi/1999/2024/schedule/4/part/I) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-ea49776f65fab2b756e5db03396e7898]: Commencement: [Sch. 4 Pt. I](https://www.legislation.gov.uk/uksi/1999/2024/schedule/4/part/I) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-30de2f6fb37014fbcb80def86cd1a11a]: Commencement: [Sch. 4 Pt. II](https://www.legislation.gov.uk/uksi/1999/2024/schedule/4/part/II) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-30de2f6fb37014fbcb80def86cd1a11a]: Commencement: [Sch. 4 Pt. II](https://www.legislation.gov.uk/uksi/1999/2024/schedule/4/part/II) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-4d457da9a843a60da465d3f5c95f2931]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/I) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-4d457da9a843a60da465d3f5c95f2931]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/I) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
-[^key-cc64218e20df7639f54f72db1362f174]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
+[^c-cc64218e20df7639f54f72db1362f174]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) in force at 1.1.2000, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1999/2024/regulation/1/1)
 
 [^f00015]: Footnote: S.I. [1971/1377](https://www.legislation.gov.uk/uksi/1971/1377).
 
@@ -1252,7 +1252,7 @@ Regulation 48(2)
 
 [^f00018]: Footnote: S.I. [1989/635](https://www.legislation.gov.uk/uksi/1989/635); amended by S.I. [1995/2005](https://www.legislation.gov.uk/uksi/1995/2005), [1996/192](https://www.legislation.gov.uk/uksi/1996/192), [1997/1993](https://www.legislation.gov.uk/uksi/1997/1993).
 
-[^key-0226ae005a89c96721dea18b14d94263]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1643/schedule/3) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
+[^c-0226ae005a89c96721dea18b14d94263]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2005/1643/schedule/3) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
 
 [^f00020]: Footnote: S.I. [1989/2169](https://www.legislation.gov.uk/uksi/1989/2169); amended by S.I. [1992/743](https://www.legislation.gov.uk/uksi/1992/743), [1996/1656](https://www.legislation.gov.uk/uksi/1996/1656), [1996/2092](https://www.legislation.gov.uk/uksi/1996/2092), [1997/2776](https://www.legislation.gov.uk/uksi/1997/2776).
 
@@ -1264,13 +1264,13 @@ Regulation 48(2)
 
 [^f00024]: Footnote: S.I. [1994/299](https://www.legislation.gov.uk/uksi/1994/299); amended by S.I. [1996/1592](https://www.legislation.gov.uk/uksi/1996/1592).
 
-[^key-1d5c449b6132f89abc3250a4304543da]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5) revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) Table 1 (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
+[^c-1d5c449b6132f89abc3250a4304543da]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5) revoked (1.10.2013) by [The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013 (S.I. 2013/1471)](https://www.legislation.gov.uk/uksi/2013/1471), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2013/1471/schedule/4) Table 1 (with [regs. 18(3)](https://www.legislation.gov.uk/uksi/2013/1471/regulation/18/3), [19](https://www.legislation.gov.uk/uksi/2013/1471/regulation/19))
 
 [^f00026]: Footnote: S.I. [1996/2089](https://www.legislation.gov.uk/uksi/1996/2089), amended by S.I. [1998/2885](https://www.legislation.gov.uk/uksi/1998/2885).
 
-[^key-154c390be068f5269726b8ea35772b3f]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (2.9.2002) by [The Packaging, Labelling and Carriage of Radioactive Material by Rail Regulations 2002 (revoked) 2002 (S.I. 2002/2099)](https://www.legislation.gov.uk/uksi/2002/2099), [reg. 1](https://www.legislation.gov.uk/uksi/2002/2099/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2099/schedule/2)
+[^c-154c390be068f5269726b8ea35772b3f]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (2.9.2002) by [The Packaging, Labelling and Carriage of Radioactive Material by Rail Regulations 2002 (revoked) 2002 (S.I. 2002/2099)](https://www.legislation.gov.uk/uksi/2002/2099), [reg. 1](https://www.legislation.gov.uk/uksi/2002/2099/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2099/schedule/2)
 
-[^key-87392851cca8c4955ce02acb77145448]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
+[^c-87392851cca8c4955ce02acb77145448]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (1.10.2014) by [The Petroleum (Consolidation) Regulations 2014 (S.I. 2014/1637)](https://www.legislation.gov.uk/uksi/2014/1637), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/1/2), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1637/schedule/4/part/1) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/1637/regulation/3/1))
 
 [^f00029]: Footnote: S.I. [1997/553](https://www.legislation.gov.uk/uksi/1997/553).
 
@@ -1280,4 +1280,4 @@ Regulation 48(2)
 
 [^f00032]: Footnote: S.I. [1999/257](https://www.legislation.gov.uk/uksi/1999/257).
 
-[^key-f84e1e272d92c1471b42271e285d006d]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (20.8.2001) by [The Health and Safety (Fees) Regulations 2001 (S.I. 2001/2626)](https://www.legislation.gov.uk/uksi/2001/2626), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2626/regulation/1/1), [Sch. 20](https://www.legislation.gov.uk/uksi/2001/2626/schedule/20)
+[^c-f84e1e272d92c1471b42271e285d006d]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/1999/2024/schedule/5/part/II) revoked (20.8.2001) by [The Health and Safety (Fees) Regulations 2001 (S.I. 2001/2626)](https://www.legislation.gov.uk/uksi/2001/2626), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/2626/regulation/1/1), [Sch. 20](https://www.legislation.gov.uk/uksi/2001/2626/schedule/20)

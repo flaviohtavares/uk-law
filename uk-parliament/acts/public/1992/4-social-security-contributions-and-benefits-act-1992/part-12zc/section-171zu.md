@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171ZU. Entitlement: birth[^key-33cc2d50691244923ce1cbe7116e9b5c][^key-46094a9f522c6af0c405f8f1338e0429]
+## 171ZU. Entitlement: birth[^c-33cc2d50691244923ce1cbe7116e9b5c][^c-46094a9f522c6af0c405f8f1338e0429]
 
 *Extent: E+W+S+N.I.*
 
@@ -139,6 +139,6 @@ For these purposes “**week**” has the meaning given by section 122(1), in re
 
 ## Annotations
 
-[^key-33cc2d50691244923ce1cbe7116e9b5c]: Modification: [S. 171ZU](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZU) modified (1.12.2014) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations 2014 (S.I. 2014/3134)](https://www.legislation.gov.uk/uksi/2014/3134), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3134/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2014/3134/regulation/7/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2014/3134/regulation/3), [4](https://www.legislation.gov.uk/uksi/2014/3134/regulation/4))
+[^c-33cc2d50691244923ce1cbe7116e9b5c]: Modification: [S. 171ZU](https://www.legislation.gov.uk/ukpga/1992/4/section/171ZU) modified (1.12.2014) by [The Statutory Shared Parental Pay (Persons Abroad and Mariners) Regulations 2014 (S.I. 2014/3134)](https://www.legislation.gov.uk/uksi/2014/3134), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3134/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2014/3134/regulation/7/1) (with [regs. 3](https://www.legislation.gov.uk/uksi/2014/3134/regulation/3), [4](https://www.legislation.gov.uk/uksi/2014/3134/regulation/4))
 
-[^key-46094a9f522c6af0c405f8f1338e0429]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZC) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/119/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)
+[^c-46094a9f522c6af0c405f8f1338e0429]: Textual amendment: [Pt. 12ZC](https://www.legislation.gov.uk/ukpga/1992/4/part/12ZC) inserted (30.6.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 119(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/119/1), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/c)

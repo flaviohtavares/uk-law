@@ -41,8 +41,8 @@ summary: ''
 
 (6) References in the Corporation Tax Acts to a company being a party to a manufactured interest relationship are to be read in accordance with this section.
 
-(7)[^key-aa86c0552df0bfc710194a38676b2bef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-aa86c0552df0bfc710194a38676b2bef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aa86c0552df0bfc710194a38676b2bef]: Textual amendment: S. 539(7) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 35](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/35), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)
+[^c-aa86c0552df0bfc710194a38676b2bef]: Textual amendment: S. 539(7) omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 paras. 35](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/35), [52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/52)

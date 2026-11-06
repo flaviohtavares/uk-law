@@ -43,24 +43,24 @@ Coming into force in accordance with regulation 1
 
 The Treasury, in exercise of the powers conferred upon them by sections 47(1) and (3), 417(1)[^f00001] and 428(3) of the Financial Services and Markets Act 2000[^f00002] (“the Act”), hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-be9a3294ef595d60bf7df1fda24e1488]
+## 1. Citation and commencement[^c-be9a3294ef595d60bf7df1fda24e1488]
 
 These Regulations may be cited as the The Financial Services and Markets Act 2000 Own-initiative Power) (Overseas Regulators) Regulations 2001 and come into force on the day on which section 19 of the Act comes into force.
 
-## 2. Overseas regulators[^key-adc2c43d9aefa1c411c17288f8edd591]
+## 2. Overseas regulators[^c-adc2c43d9aefa1c411c17288f8edd591]
 
-(1) The kind of regulator to which paragraph (2) applies is prescribed for the purposes of section 55Q(1)[^key-b60b8676ab9afbb2d6649523082abdd6] of the Act.
+(1) The kind of regulator to which paragraph (2) applies is prescribed for the purposes of section 55Q(1)[^c-b60b8676ab9afbb2d6649523082abdd6] of the Act.
 
 (2) This paragraph applies to a regulator who exercises—
 
-- (a) a function corresponding to any function of the FCA[^key-85c3f6e4d521b4406c61d54a4306b813], the PRA or the Bank of England under the Act;
-- (b) a function corresponding to any function exercised by the FCA[^key-4639856776ba733363e0f025b68e2d17] under Part VI of the Act (official listing);
-- (c) a function corresponding to any function exercised by the Secretary of State under the Companies Act 2006[^key-7ebcaaf160d71d0b148696f55215c99a]; or
+- (a) a function corresponding to any function of the FCA[^c-85c3f6e4d521b4406c61d54a4306b813], the PRA or the Bank of England under the Act;
+- (b) a function corresponding to any function exercised by the FCA[^c-4639856776ba733363e0f025b68e2d17] under Part VI of the Act (official listing);
+- (c) a function corresponding to any function exercised by the Secretary of State under the Companies Act 2006[^c-7ebcaaf160d71d0b148696f55215c99a]; or
 - (d) a function in connection with—
   - (i) the investigation of conduct of the kind prohibited by Part V of the Criminal Justice Act 1993[^f00004] (insider dealing); or
   - (ii) the enforcement of rules (whether or not having the force of law) relating to such conduct.
 
-## 3. Duty to consider Community obligation[^key-e0a8d118950b06eb7840bc593510e23c]
+## 3. Duty to consider Community obligation[^c-e0a8d118950b06eb7840bc593510e23c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -84,18 +84,18 @@ These Regulations implement in part Community obligations which require the Auth
 
 [^f00002]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-be9a3294ef595d60bf7df1fda24e1488]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/2639/regulation/1) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2639/regulation/1)
+[^c-be9a3294ef595d60bf7df1fda24e1488]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2001/2639/regulation/1) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2639/regulation/1)
 
-[^key-adc2c43d9aefa1c411c17288f8edd591]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2639/regulation/1)
+[^c-adc2c43d9aefa1c411c17288f8edd591]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2) in force at 1.12.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/2639/regulation/1)
 
-[^key-b60b8676ab9afbb2d6649523082abdd6]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 54(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/54/a)
+[^c-b60b8676ab9afbb2d6649523082abdd6]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 54(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/54/a)
 
-[^key-85c3f6e4d521b4406c61d54a4306b813]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 54(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/54/b)
+[^c-85c3f6e4d521b4406c61d54a4306b813]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 54(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/54/b)
 
-[^key-4639856776ba733363e0f025b68e2d17]: Textual amendment: Word in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2/2/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 54(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/54/c)
+[^c-4639856776ba733363e0f025b68e2d17]: Textual amendment: Word in [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2/2/b) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 54(c)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/54/c)
 
-[^key-7ebcaaf160d71d0b148696f55215c99a]: Textual amendment: Words in [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2/2/c) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [18](https://www.legislation.gov.uk/uksi/2011/1265/article/18)
+[^c-7ebcaaf160d71d0b148696f55215c99a]: Textual amendment: Words in [reg. 2(2)(c)](https://www.legislation.gov.uk/uksi/2001/2639/regulation/2/2/c) substituted (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [18](https://www.legislation.gov.uk/uksi/2011/1265/article/18)
 
 [^f00004]: Footnote: [1993 c. 36](https://www.legislation.gov.uk/ukpga/1993/36).
 
-[^key-e0a8d118950b06eb7840bc593510e23c]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/2639/regulation/3) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [182](https://www.legislation.gov.uk/uksi/2019/632/regulation/182) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e0a8d118950b06eb7840bc593510e23c]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2001/2639/regulation/3) omitted (31.12.2020) by virtue of [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [182](https://www.legislation.gov.uk/uksi/2019/632/regulation/182) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

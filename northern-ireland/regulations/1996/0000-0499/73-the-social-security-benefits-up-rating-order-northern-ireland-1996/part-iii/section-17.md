@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17. Disability working allowance[^key-b4d6bf23dfa1fb9abe2248c6bc8b7031]
+## 17. Disability working allowance[^c-b4d6bf23dfa1fb9abe2248c6bc8b7031]
 
 *Extent: N.I.*
 
@@ -35,7 +35,7 @@ In the Disability Working Allowance (General) Regulations (Northern Ireland) 199
 
 ## Annotations
 
-[^key-b4d6bf23dfa1fb9abe2248c6bc8b7031]: Commencement: Art. 17 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)
+[^c-b4d6bf23dfa1fb9abe2248c6bc8b7031]: Commencement: Art. 17 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)
 
 [^f00028]: Footnote: [S.R. 1992 No. 78](https://www.legislation.gov.uk/nisr/1992/78); relevant amending provisions are [S.R. 1993 No. 373](https://www.legislation.gov.uk/nisr/1993/373), [S.R. 1994 Nos. 77](https://www.legislation.gov.uk/nisr/1994/77) and [274](https://www.legislation.gov.uk/nisr/1994/274) and [S.R. 1995 Nos. 67](https://www.legislation.gov.uk/nisr/1995/67), [71](https://www.legislation.gov.uk/nisr/1995/71) and [223](https://www.legislation.gov.uk/nisr/1995/223)
 

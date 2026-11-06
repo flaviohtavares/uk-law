@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Regulations applying to combined authorities[^key-494e4c115d601acd0e68c2fd84dde472]
+## 68. Regulations applying to combined authorities[^c-494e4c115d601acd0e68c2fd84dde472]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-494e4c115d601acd0e68c2fd84dde472]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/55/section/68) in force at 26.12.2023, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j)
+[^c-494e4c115d601acd0e68c2fd84dde472]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2023/55/section/68) in force at 26.12.2023, see [s. 255(2)(j)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/j)

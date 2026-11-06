@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Persons detained in youth accommodation: further provision[^key-0a770272e38bdb9e0ff7c1c366b8d907][^key-6708cd67876dca63350294c1db18bd96]
+## 50. Persons detained in youth accommodation: further provision[^c-0a770272e38bdb9e0ff7c1c366b8d907][^c-6708cd67876dca63350294c1db18bd96]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ After section 562 of the Education Act 1996 (c. 56) insert—
 >
 > (4) Where the host authority make any determination as to the education or training to be provided for a detained person, the authority must have regard to—
 >
-> - (a) any information provided under section 562F by a local authority[^key-539a148a152b679b0b2f5402f58a05e0] as to the level of the person's literacy and numeracy skills;
+> - (a) any information provided under section 562F by a local authority[^c-539a148a152b679b0b2f5402f58a05e0] as to the level of the person's literacy and numeracy skills;
 > - (b) any other information provided by the home authority under section 562F for the purpose of assisting any such determination.
 >
 > **562C. Detained persons with special educational needs**
@@ -76,7 +76,7 @@ After section 562 of the Education Act 1996 (c. 56) insert—
 > - (b) educational provision corresponding as closely as practicable to the special educational provision so specified, or
 > - (c) if it appears to the host authority that the special educational provision so specified is no longer appropriate for the person, such special educational provision as reasonably appears to the host authority to be appropriate for the person.
 >
-> **562D. Appropriate special educational provision: arrangements between local authorities[^key-062d27e760c356996de33ee6a2c9d7a4]**
+> **562D. Appropriate special educational provision: arrangements between local authorities[^c-062d27e760c356996de33ee6a2c9d7a4]**
 >
 > (1) This section applies where special educational provision is secured for a person in circumstances where section 562C applies.
 >
@@ -221,7 +221,7 @@ After section 562 of the Education Act 1996 (c. 56) insert—
 >   - (b) where that period is part of a continuous period, comprising periods of detention in relevant youth accommodation and in other accommodation, the beginning of that continuous period;
 > - “**detained person**” has the meaning given by section 562A(3);
 > - “the home authority”—
->   - (a) in relation to a child or young person who immediately before the beginning of the detention was, or at any time since then has been, a looked after child, means the local authority who are [^key-bf84460b073ebd7267203553e80b2fbb]... looking after, or who have most recently been looking after, the person;
+>   - (a) in relation to a child or young person who immediately before the beginning of the detention was, or at any time since then has been, a looked after child, means the local authority who are [^c-bf84460b073ebd7267203553e80b2fbb]... looking after, or who have most recently been looking after, the person;
 >   - (b) in relation to any other child or young person, means the local authority in whose area the person is ordinarily resident;
 > - “**the host authority**”, in relation to a child or young person detained in relevant youth accommodation, means the local authority in whose area the child or young person is detained;
 > - “**looked after child**” means a person who, for the purposes of the Children Act 1989 is a child looked after by a local authority; and references to the local authority looking after the person are to be read accordingly;
@@ -235,12 +235,12 @@ After section 562 of the Education Act 1996 (c. 56) insert—
 
 ## Annotations
 
-[^key-0a770272e38bdb9e0ff7c1c366b8d907]: Commencement: S. 50 in force at 1.9.2010 for specified purposes for E. by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-0a770272e38bdb9e0ff7c1c366b8d907]: Commencement: S. 50 in force at 1.9.2010 for specified purposes for E. by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-6708cd67876dca63350294c1db18bd96]: Commencement: S. 50 in force at 1.4.2011 for specified purposes for W. by [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/829/article/2/b)
+[^c-6708cd67876dca63350294c1db18bd96]: Commencement: S. 50 in force at 1.4.2011 for specified purposes for W. by [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/829/article/2/b)
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
 
-[^key-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
+[^c-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
 
-[^key-bf84460b073ebd7267203553e80b2fbb]: Textual amendment: Words in s. 50 repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/4), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)
+[^c-bf84460b073ebd7267203553e80b2fbb]: Textual amendment: Words in s. 50 repealed (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 16(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/4), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2010/1158/schedule/3/part/1)

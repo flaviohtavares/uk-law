@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Resolution for elections by halves: requirements[^key-742903e276a26a256767a7b8ea4e1c76]
+## 38. Resolution for elections by halves: requirements[^c-742903e276a26a256767a7b8ea4e1c76]
 
 *Extent: E+W*
 
@@ -29,18 +29,18 @@ summary: ''
 - (a) at a meeting which is specially convened for the purpose of deciding the resolution with notice of the object, and
 - (b) by a majority of at least two thirds of the members voting on it.
 
-(4)[^key-8fba520f05850733e835778702e2b92b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-8fba520f05850733e835778702e2b92b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In subsection (3) the reference to the members of the council includes, in a case where the council are operating a mayor and cabinet executive, the elected mayor of the council.
 
-(6)[^key-3cab2370cb4c43983f03032f343465d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-3cab2370cb4c43983f03032f343465d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-3cab2370cb4c43983f03032f343465d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-3cab2370cb4c43983f03032f343465d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-742903e276a26a256767a7b8ea4e1c76]: Commencement: S. 38 in force at 30.12.2007, see s. 245(2)
+[^c-742903e276a26a256767a7b8ea4e1c76]: Commencement: S. 38 in force at 30.12.2007, see s. 245(2)
 
-[^key-8fba520f05850733e835778702e2b92b]: Textual amendment: [S. 38(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/38/4) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/24/2/b), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d)[(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-8fba520f05850733e835778702e2b92b]: Textual amendment: [S. 38(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/38/4) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/24/2/b), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d)[(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-3cab2370cb4c43983f03032f343465d2]: Textual amendment: [S. 38(6)](https://www.legislation.gov.uk/ukpga/2007/28/section/38/6)[(7)](https://www.legislation.gov.uk/ukpga/2007/28/section/38/7) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/24/2/b), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d)[(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-3cab2370cb4c43983f03032f343465d2]: Textual amendment: [S. 38(6)](https://www.legislation.gov.uk/ukpga/2007/28/section/38/6)[(7)](https://www.legislation.gov.uk/ukpga/2007/28/section/38/7) repealed (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 24(2)(b)](https://www.legislation.gov.uk/ukpga/2011/20/section/24/2/b), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(d)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/d)[(ee)(i)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/ee/i) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

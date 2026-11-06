@@ -50,13 +50,13 @@ These Regulations make provision for a purpose mentioned in section 2(2) of that
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and extent[^key-e1f57320b43f00e11a5736c2609622f6]
+### 1. Citation, commencement and extent[^c-e1f57320b43f00e11a5736c2609622f6]
 
 (1) These Regulations may be cited as the Rural Development (Scotland) Regulations 2015 and come into force on 12th June 2015.
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-4c62f530773a890c4c6f47f2bdc15b57]
+### 2. Interpretation[^c-4c62f530773a890c4c6f47f2bdc15b57]
 
 (1) In these Regulations—
 
@@ -102,10 +102,10 @@ These Regulations make provision for a purpose mentioned in section 2(2) of that
 - “Rural Development Delegated Regulation” means Commission Delegated Regulation (EU) No 807/2014 supplementing Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions[^f00015];
 - “Rural Development Implementing Regulation” means Commission Implementing Regulation (EU) No 808/2014 laying down rules for the application of Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00016];
 - “Rural Development Regulation” means Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and repealing Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^f00017];
-- “service level agreement”, except in relation to regulation 21(3) (agency arrangements), means an agreement between the Scottish Ministers and an accountable body for the purposes of—[^key-11ac08817155f313fbae725dcde54336]
+- “service level agreement”, except in relation to regulation 21(3) (agency arrangements), means an agreement between the Scottish Ministers and an accountable body for the purposes of—[^c-11ac08817155f313fbae725dcde54336]
   - (a) Article 7(1) of the Horizontal Regulation, and
   - (b) Article 1 of, and Annex I(1)(C) to, Commission Delegated Regulation (EU) No 907/2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, securities and use of euro as it had effect immediately before IP completion day;
-- “[^key-c482b280a49502dc88699ffbe0eaa4cb]**SRDP**” means the Scottish Rural Development Programme—
+- “[^c-c482b280a49502dc88699ffbe0eaa4cb]**SRDP**” means the Scottish Rural Development Programme—
   - (a) as approved by the European Commission in respect of Scotland in accordance with Article 10(2) of the Rural Development Regulation and Article 29(4) of the Common Provisions Regulation, as those Regulations had effect immediately before IP completion day,
   - (b) as amended pursuant to Article 11 of the Rural Development Regulation and Article 30 of the Common Provisions Regulation, as those Regulations had effect immediately before IP completion day, and
   - (c) as may from time to time be supplemented or amended, on or after IP completion day, by the Scottish Ministers in accordance with Article 11 of the Rural Development Regulation and Article 30 of the Common Provisions Regulation;
@@ -120,11 +120,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of that
 
 ## PART 2 — APPLICATIONS, UNDERTAKINGS, CLAIMS AND PAYMENTS
 
-### 3. Application[^key-d0d3fae54dbcd148fa98adee1dc7aa13]
+### 3. Application[^c-d0d3fae54dbcd148fa98adee1dc7aa13]
 
 An application is to be made at such time, in such form and include such information as the appropriate body may from time to time require.
 
-### 4. Determination and variation of an application[^key-bf79a12c4ecd51e8575be535bba9650b]
+### 4. Determination and variation of an application[^c-bf79a12c4ecd51e8575be535bba9650b]
 
 (1) Where an application is made, the appropriate body may—
 
@@ -155,7 +155,7 @@ An application is to be made at such time, in such form and include such informa
 
 (10) If the appropriate body has received written representations within the period referred to in paragraph (8)(b), it must consider any such representations in deciding whether to make any variation.
 
-### 5. Undertakings and transfer of holdings[^key-c28a38dc2df9ebee1ef1ca8ae691363a]
+### 5. Undertakings and transfer of holdings[^c-c28a38dc2df9ebee1ef1ca8ae691363a]
 
 (1) A beneficiary must give the appropriate body such written undertaking in respect of such period or periods as the appropriate body considers appropriate for the purposes of these Regulations.
 
@@ -168,7 +168,7 @@ An application is to be made at such time, in such form and include such informa
 
 (4) For the purposes of Article 8(3)(a) of the Horizontal Implementing Regulation, the period within which the transferee must inform the appropriate body of the transfer and request any claim for payment, is 90 days beginning with the first day after the date of transfer.
 
-### 6. Claims and payments of grant[^key-95d002b28785aafad05547b20be43026]
+### 6. Claims and payments of grant[^c-95d002b28785aafad05547b20be43026]
 
 (1) Payment of grant by an appropriate body is subject to it receiving a claim for payment by the beneficiary at such time and in such form and manner as the appropriate body may require.
 
@@ -180,19 +180,19 @@ An application is to be made at such time, in such form and include such informa
 
 ## PART 3 — LEADER
 
-### 7. Funding arrangements: LEADER grant[^key-279bfe3ea4ab43c0c4f0be5390ff8f20]
+### 7. Funding arrangements: LEADER grant[^c-279bfe3ea4ab43c0c4f0be5390ff8f20]
 
 (1) Subject to regulations 9 and 10, the Scottish Ministers must reimburse an accountable body in respect of any payment of LEADER grant made by that body.
 
 (2) The Scottish Ministers may pay an advance to an accountable body in respect of any payment of LEADER grant to be made by that body.
 
-### 8. Service level agreement[^key-958c86a84e04ac3805e8b6f3979ecdb8]
+### 8. Service level agreement[^c-958c86a84e04ac3805e8b6f3979ecdb8]
 
 (1) The Scottish Ministers must conclude a service level agreement with an accountable body.
 
 (2) A service level agreement may, with the agreement of the Scottish Ministers and the accountable body, be amended at any time.
 
-### 9. Breach of service level agreement[^key-bdb8e32cf7dff404ac3bd6cd80be34c7]
+### 9. Breach of service level agreement[^c-bdb8e32cf7dff404ac3bd6cd80be34c7]
 
 (1) Where, in the opinion of the Scottish Ministers, an accountable body breaches any of the conditions of a service level agreement, the Scottish Ministers may take any of the following steps—
 
@@ -210,7 +210,7 @@ An application is to be made at such time, in such form and include such informa
 
 (4) If the Scottish Ministers have received written representations within the period referred to in paragraph (2)(b), they must consider any such representations in deciding whether to take the proposed step..
 
-### 10. Termination of service level agreement[^key-2a7b39c04fb2d062ea3f8853a7c55d8f]
+### 10. Termination of service level agreement[^c-2a7b39c04fb2d062ea3f8853a7c55d8f]
 
 (1) Where a service level agreement is terminated under regulation 9(1)(d), the Scottish Ministers may—
 
@@ -222,7 +222,7 @@ An application is to be made at such time, in such form and include such informa
 
 ## PART 4 — ENFORCEMENT, OFFENCES AND RECOVERY OF GRANT
 
-### 11. Powers of entry[^key-fac8c516751bfef7ef1f46c9d389eccd]
+### 11. Powers of entry[^c-fac8c516751bfef7ef1f46c9d389eccd]
 
 (1) An authorised person may exercise any of the powers specified in regulations 12 and 13 for the purpose of enforcing these Regulations or the EU Regulations.
 
@@ -243,11 +243,11 @@ An application is to be made at such time, in such form and include such informa
 
 (5) A warrant under paragraph (3) is valid for one month.
 
-(6)[^key-9d6c09a4f0e15563ded8f8fda35ab80a] An authorised person entering any land or premises by virtue of this regulation may be accompanied by such other person as the authorised person considers necessary.
+(6)[^c-9d6c09a4f0e15563ded8f8fda35ab80a] An authorised person entering any land or premises by virtue of this regulation may be accompanied by such other person as the authorised person considers necessary.
 
 (7) An authorised person who enters any unoccupied premises must leave them as effectively secured as they were before those premises were entered.
 
-### 12. Powers of inspection etc.[^key-87c6e15f6848c67c5695577629df6b81]
+### 12. Powers of inspection etc.[^c-87c6e15f6848c67c5695577629df6b81]
 
 (1) An authorised person who has entered any land or premises in exercise of a power conferred by regulation 11 may—
 
@@ -266,13 +266,13 @@ An application is to be made at such time, in such form and include such informa
 
 (4) Paragraph (1) and regulation 13 apply in relation to a person referred to in regulation 11(6)(b) when that person is acting under the instructions of an authorised person, as if that person were an authorised person.
 
-### 13. Assistance to authorised persons[^key-cabe2297e168e3db3ddcb5bcc2d684b8]
+### 13. Assistance to authorised persons[^c-cabe2297e168e3db3ddcb5bcc2d684b8]
 
 (1) An applicant or beneficiary or any employee, agent, contractor or tenant of an applicant or beneficiary must give an authorised person such assistance as may reasonably be required so as to enable the authorised person to exercise any power conferred by regulation 11 or 12.
 
 (2) Such assistance may include the collection, penning and securing of any livestock and presenting the livestock for inspection in a safe and secure manner.
 
-### 14. Offences[^key-60688486a3d287c10dae6b948276e3ef]
+### 14. Offences[^c-60688486a3d287c10dae6b948276e3ef]
 
 (1) It is an offence for any person to—
 
@@ -284,7 +284,7 @@ An application is to be made at such time, in such form and include such informa
 
 (3) A person who commits an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 15. Offences by bodies corporate etc.[^key-173ff91a93351ab07e651abfd5f52a73]
+### 15. Offences by bodies corporate etc.[^c-173ff91a93351ab07e651abfd5f52a73]
 
 (1) Where—
 
@@ -303,7 +303,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - (b) in relation to a Scottish partnership, a partner;
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-### 16. Breaches of conditions of grant/undertakings etc.[^key-fda9f9381a5e330320baab8ac08e212f]
+### 16. Breaches of conditions of grant/undertakings etc.[^c-fda9f9381a5e330320baab8ac08e212f]
 
 (1) An appropriate body may determine, in relation to an approval or, as the case may be, claim for payment that—
 
@@ -316,7 +316,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
   - (iv) the applicable Regulations;
   - (v) the EU Regulations; or
   - (vi) these Regulations;
-- (d) the whole or any part of the sum paid or payable in relation to an approval duplicates assistance provided or to be provided out of monies made available by the European Union or under any enactment, including an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament[^key-d8791322b5aa1cd0aab01393c13309a1];
+- (d) the whole or any part of the sum paid or payable in relation to an approval duplicates assistance provided or to be provided out of monies made available by the European Union or under any enactment, including an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament[^c-d8791322b5aa1cd0aab01393c13309a1];
 - (e) there has been a material change in the nature, scale, costs or timing of the project in relation to which an application was approved; or
 - (f) the project in relation to which an application was approved has been, or is being, delayed or is unlikely to be completed.
 
@@ -334,7 +334,7 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 - “Regulation 1974/2006” means [Commission Regulation (EC) No 1974/2006](https://www.legislation.gov.uk/european/regulation/2006/1974) laying down detailed rules for the application of Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00020]; and
 - “Regulation 65/2011” means Commission Regulation (EU) No 65/2011 laying down detailed rules for the implementation of Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698), as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures[^f00021].
 
-### 17. Powers of recovery etc.[^key-ae9a7b706f1dbc28a3d2a16fb3eaaabc]
+### 17. Powers of recovery etc.[^c-ae9a7b706f1dbc28a3d2a16fb3eaaabc]
 
 (1) Where an appropriate body makes a determination under regulation 16(1), it may—
 
@@ -347,14 +347,14 @@ the individual as well as the body corporate, Scottish partnership or unincorpor
 
 (3) Where an appropriate body terminates an undertaking under paragraph (2), it may also prohibit the beneficiary from giving any new undertaking under the same measures, for such period (not exceeding two years) beginning with the date of the termination as it may specify.
 
-### 18. Recovery of undue payments, interest and set-off[^key-84cc34847a9d0234e97596f3ae71111a]
+### 18. Recovery of undue payments, interest and set-off[^c-84cc34847a9d0234e97596f3ae71111a]
 
 (1) Where a beneficiary is liable to repay all or part of a payment of grant under these Regulations in accordance with Article 7(1) of the Horizontal Implementing Regulation, the amount of the repayment, together with the interest on that amount calculated in accordance with paragraph (3), is recoverable as a debt.
 
 (2) In any legal proceedings brought pursuant to paragraph (1), a certificate of the Scottish Ministers which—
 
 - (a) sets out the Bank of England base rate applicable during a specified period; and
-- (b) includes a statement that the Bank of England , the coordinating body or, on or after IP completion day, the appropriate authority[^key-fa0b9d6d620c50421dab98e5ddd67528] notified the Scottish Ministers of that rate for that period,
+- (b) includes a statement that the Bank of England , the coordinating body or, on or after IP completion day, the appropriate authority[^c-fa0b9d6d620c50421dab98e5ddd67528] notified the Scottish Ministers of that rate for that period,
 
 is evidence of the rate applicable during that period.
 
@@ -364,15 +364,15 @@ is evidence of the rate applicable during that period.
 
 (5) In this regulation—
 
-- “[^key-d58d5159769cd775a33310028ec8985b]**the appropriate authority**” means the Secretary of State, the Department of Agriculture, Environment and Rural Affairs, the Scottish Ministers and the Welsh Ministers acting jointly;
+- “[^c-d58d5159769cd775a33310028ec8985b]**the appropriate authority**” means the Secretary of State, the Department of Agriculture, Environment and Rural Affairs, the Scottish Ministers and the Welsh Ministers acting jointly;
 - “the Bank of England base rate” means—
   - (a) except where sub-paragraph (b) applies, the rate announced from time to time by the Monetary Policy Committee of the Bank of England as the official dealing rate being the rate at which the Bank is willing to enter into transactions for providing short-term liquidity in the markets; or
   - (b) if an order under section 19 (reserve powers) of the Bank of England Act 1998[^f00022] is in force, an equivalent determined by the Treasury under that section; and
-- “the coordinating body” means the coordinating body referred to in regulation 3 of the Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014[^f00023] as those Regulations had effect immediately before IP completion day.[^key-56fcf4d532adbf25c36664e911dc4fa2]
+- “the coordinating body” means the coordinating body referred to in regulation 3 of the Common Agricultural Policy (Competent Authority and Coordinating Body) Regulations 2014[^f00023] as those Regulations had effect immediately before IP completion day.[^c-56fcf4d532adbf25c36664e911dc4fa2]
 
 ## PART 5 — MISCELLANEOUS
 
-### 19. Information and records[^key-bea06b6fe63cc57d7cfb455a4904bf4a]
+### 19. Information and records[^c-bea06b6fe63cc57d7cfb455a4904bf4a]
 
 (1) A beneficiary must—
 
@@ -393,7 +393,7 @@ and, in either case, the period commences on the later of—
 
 (4) Paragraph (1) does not apply where the document has been removed by any person lawfully authorised to remove it.
 
-### 20. SRDP Guidance[^key-df6a07bb8ad501c09ba7edd5d32331ae]
+### 20. SRDP Guidance[^c-df6a07bb8ad501c09ba7edd5d32331ae]
 
 (1) The Scottish Ministers must publish guidance from time to time on—
 
@@ -406,7 +406,7 @@ and, in either case, the period commences on the later of—
 
 (3) Where the Scottish Ministers have published relevant guidance before the coming into force of these Regulations, that is to be treated as guidance for the purposes of these Regulations.
 
-### 21. Agency arrangements[^key-d8f890aeb2a98f6907a31bf92013b7ad]
+### 21. Agency arrangements[^c-d8f890aeb2a98f6907a31bf92013b7ad]
 
 (1) The Scottish Ministers may make an arrangement with another person or body for any of its functions under these Regulations to be exercised by that person or body as its agent.
 
@@ -414,9 +414,9 @@ and, in either case, the period commences on the later of—
 
 (3) Such an arrangement may be supplemented by a service level agreement or such other written documents as may be agreed by the Scottish Ministers and the person or body concerned.
 
-### 22. Revocations and saving[^key-caab8a090795288e6da2751b4c222976]
+### 22. Revocations and saving[^c-caab8a090795288e6da2751b4c222976]
 
-(1) The Regulations listed in schedule 1[^key-d90926fe82ed0173044b3af3a82e55b3] are revoked subject to paragraphs (2) and (3)[^key-5c648751830a5c5720280d579728667b].
+(1) The Regulations listed in schedule 1[^c-d90926fe82ed0173044b3af3a82e55b3] are revoked subject to paragraphs (2) and (3)[^c-5c648751830a5c5720280d579728667b].
 
 (2) Notwithstanding paragraph (1), those Regulations continue to apply on or after 12th June 2015 in relation to—
 
@@ -431,7 +431,7 @@ and, in either case, the period commences on the later of—
 
 where the approval under those Regulations was given or made prior to 12th June 2015 in respect of any measures under Article 20, 36, 52 or 63 of Regulation 1698/2005.
 
-(3)[^key-74684976914e4b4908d6692b61e74019] For the purposes of the application of paragraph (2) to the Leader Grants (Scotland) Regulations 2008,[^key-5876fd7ba84fab71d1d90d77045778b4] the Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008 [^M_F_8e5eff57-3c6c-44ba-f2ba-e4bec0e1d67b] and the Rural Development Contracts (Land Managers Options) (Scotland) Regulations 2008 [^M_F_46792204-9fb9-4871-96d2-7f72cdc1c459], those Regulations are to be read as if the amendments set out in schedules 2 and 3[^key-ce6b642aeccf8f1bbccb0d3fee1f69ea] had been made.
+(3)[^c-74684976914e4b4908d6692b61e74019] For the purposes of the application of paragraph (2) to the Leader Grants (Scotland) Regulations 2008,[^c-5876fd7ba84fab71d1d90d77045778b4] the Rural Development Contracts (Rural Priorities) (Scotland) Regulations 2008 [^M_F_8e5eff57-3c6c-44ba-f2ba-e4bec0e1d67b] and the Rural Development Contracts (Land Managers Options) (Scotland) Regulations 2008 [^M_F_46792204-9fb9-4871-96d2-7f72cdc1c459], those Regulations are to be read as if the amendments set out in schedules 2 and 3[^c-ce6b642aeccf8f1bbccb0d3fee1f69ea] had been made.
 
 RICHARD LOCHHEAD
 
@@ -441,11 +441,11 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — Revocations[^key-643513e4081ada5138b7bd41ab306ca9][^key-45b18428168eda686d4a054a0fd2799b]
+## SCHEDULE 1 — Revocations[^c-643513e4081ada5138b7bd41ab306ca9][^c-45b18428168eda686d4a054a0fd2799b]
 
 Regulation 22(1)
 
-[^key-643513e4081ada5138b7bd41ab306ca9]
+[^c-643513e4081ada5138b7bd41ab306ca9]
 
 - The Agricultural Processing, Marketing and Co-operation Grants (Scotland) Regulations 2008[^f00024];
 - The Leader Grants (Scotland) Regulations 2008[^f00025];
@@ -467,7 +467,7 @@ Regulation 22(1)
 - The Rural Development Contracts (Rural Priorities) (Scotland) Amendment Regulations 2012[^f00041]; and
 - The Rural Development Contracts (Land Managers Options) (Scotland) Amendment Regulations 2013[^f00042].
 
-## SCHEDULE 2 — Amendments for the purpose of the application of regulation 22(2)[^key-560ea653aa3d6e04358f5735489ada28]
+## SCHEDULE 2 — Amendments for the purpose of the application of regulation 22(2)[^c-560ea653aa3d6e04358f5735489ada28]
 
 Regulation 22(3)
 
@@ -558,7 +558,7 @@ Regulation 22(3)
 
 (4) In regulation 13(4) (powers of authorised persons), after “2004” insert “ or regulation 5(4) of the Cross-Compliance Regulations ”.
 
-## SCHEDULE 3 — Amendments for the purpose of the application of regulation 22(2) – in relation to withdrawal from the European Union[^key-0b3391f74bfb402a086925ea533a32c1]
+## SCHEDULE 3 — Amendments for the purpose of the application of regulation 22(2) – in relation to withdrawal from the European Union[^c-0b3391f74bfb402a086925ea533a32c1]
 
 Regulation 22(3)
 
@@ -707,9 +707,9 @@ A business and regulatory impact assessment is being prepared for these Regulati
 
 [^f00001]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (‘the 1998 Act’), Schedule 8, paragraph 15(3) (which was amended by section 27(4) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) (‘the 2006 Act’)). Section 2(2) was also amended by section 27(1)(a) of the 2006 Act and by the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7) (“the 2008 Act”), section 3(3) and Schedule, Part 1. The functions conferred upon the Minister of the Crown under section 2(2), insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. Paragraph 1A of Schedule 2 was inserted by section 28 of the 2006 Act and was amended by the 2008 Act, Schedule, Part 1.
 
-[^key-e1f57320b43f00e11a5736c2609622f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/192/regulation/1) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-e1f57320b43f00e11a5736c2609622f6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2015/192/regulation/1) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-4c62f530773a890c4c6f47f2bdc15b57]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/192/regulation/2) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-4c62f530773a890c4c6f47f2bdc15b57]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2015/192/regulation/2) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2008/64](https://www.legislation.gov.uk/ssi/2008/64), as amended by [S.S.I. 2011/260](https://www.legislation.gov.uk/ssi/2011/260) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and revoked subject to savings by regulation 22 and the Schedule to these Regulations.
 
@@ -743,87 +743,87 @@ A business and regulatory impact assessment is being prepared for these Regulati
 
 [^f00017]: Footnote: OJ L 347, 20.12.2013, p.487, as last amended by Commission Delegated Regulation (EU) No 1378/2014 (OJ L 367, 23.12.2014, p.16).
 
-[^key-11ac08817155f313fbae725dcde54336]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(2)(a)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/2/a) (as amended by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11ac08817155f313fbae725dcde54336]: Textual amendment: Words in reg. 2(1) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(2)(a)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/2/a) (as amended by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c482b280a49502dc88699ffbe0eaa4cb]: Textual amendment: Word in reg. 2(1) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(2)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/2/b) (as amended by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c482b280a49502dc88699ffbe0eaa4cb]: Textual amendment: Word in reg. 2(1) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(2)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/2/b) (as amended by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00019]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406 and Schedule 17, paragraph 158.
 
-[^key-d0d3fae54dbcd148fa98adee1dc7aa13]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/192/regulation/3) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-d0d3fae54dbcd148fa98adee1dc7aa13]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2015/192/regulation/3) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-bf79a12c4ecd51e8575be535bba9650b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/192/regulation/4) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-bf79a12c4ecd51e8575be535bba9650b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2015/192/regulation/4) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-c28a38dc2df9ebee1ef1ca8ae691363a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/192/regulation/5) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-c28a38dc2df9ebee1ef1ca8ae691363a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2015/192/regulation/5) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-95d002b28785aafad05547b20be43026]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/192/regulation/6) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-95d002b28785aafad05547b20be43026]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/192/regulation/6) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-279bfe3ea4ab43c0c4f0be5390ff8f20]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/192/regulation/7) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-279bfe3ea4ab43c0c4f0be5390ff8f20]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2015/192/regulation/7) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-958c86a84e04ac3805e8b6f3979ecdb8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/192/regulation/8) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-958c86a84e04ac3805e8b6f3979ecdb8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2015/192/regulation/8) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-bdb8e32cf7dff404ac3bd6cd80be34c7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/192/regulation/9) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-bdb8e32cf7dff404ac3bd6cd80be34c7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2015/192/regulation/9) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-2a7b39c04fb2d062ea3f8853a7c55d8f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/192/regulation/10) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-2a7b39c04fb2d062ea3f8853a7c55d8f]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2015/192/regulation/10) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-fac8c516751bfef7ef1f46c9d389eccd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/192/regulation/11) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-fac8c516751bfef7ef1f46c9d389eccd]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2015/192/regulation/11) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-9d6c09a4f0e15563ded8f8fda35ab80a]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/ssi/2015/192/regulation/11/6) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(3)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d6c09a4f0e15563ded8f8fda35ab80a]: Textual amendment: [Reg. 11(6)](https://www.legislation.gov.uk/ssi/2015/192/regulation/11/6) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(3)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-87c6e15f6848c67c5695577629df6b81]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/192/regulation/12) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-87c6e15f6848c67c5695577629df6b81]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2015/192/regulation/12) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-cabe2297e168e3db3ddcb5bcc2d684b8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/192/regulation/13) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-cabe2297e168e3db3ddcb5bcc2d684b8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2015/192/regulation/13) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-60688486a3d287c10dae6b948276e3ef]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/192/regulation/14) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-60688486a3d287c10dae6b948276e3ef]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2015/192/regulation/14) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-173ff91a93351ab07e651abfd5f52a73]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/192/regulation/15) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-173ff91a93351ab07e651abfd5f52a73]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2015/192/regulation/15) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-fda9f9381a5e330320baab8ac08e212f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/192/regulation/16) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-fda9f9381a5e330320baab8ac08e212f]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2015/192/regulation/16) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-d8791322b5aa1cd0aab01393c13309a1]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/ssi/2015/192/regulation/16/1/d) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d8791322b5aa1cd0aab01393c13309a1]: Textual amendment: Words in [reg. 16(1)(d)](https://www.legislation.gov.uk/ssi/2015/192/regulation/16/1/d) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00020]: Footnote: OJ L 368, 23.12.2006, p.15, as last amended by Commission Implementing Regulation (EU) No 335/2013 (OJ L 105, 13.4.2013, p.1). Regulation 1974/2006 was repealed subject to savings by Article 19 of the Rural Development Delegated Regulation.
 
 [^f00021]: Footnote: OJ L 25, 28.1.2011, p.8, as last amended by Commission Implementing Regulation (EU) No 937/2012 (OJ L 280, 13.10.2012, p.1). Regulation 65/2011 was repealed subject to savings by Article 43 of the Horizontal Delegated Regulation.
 
-[^key-ae9a7b706f1dbc28a3d2a16fb3eaaabc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/192/regulation/17) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-ae9a7b706f1dbc28a3d2a16fb3eaaabc]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2015/192/regulation/17) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-84cc34847a9d0234e97596f3ae71111a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/192/regulation/18) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-84cc34847a9d0234e97596f3ae71111a]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2015/192/regulation/18) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-fa0b9d6d620c50421dab98e5ddd67528]: Textual amendment: Words in reg. 18(2)(b) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(5)(a)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/5/a) (as amedned by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa0b9d6d620c50421dab98e5ddd67528]: Textual amendment: Words in reg. 18(2)(b) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(5)(a)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/5/a) (as amedned by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d58d5159769cd775a33310028ec8985b]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/ssi/2015/192/regulation/18/5) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(5)(b)(i)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d58d5159769cd775a33310028ec8985b]: Textual amendment: Words in [reg. 18(5)](https://www.legislation.gov.uk/ssi/2015/192/regulation/18/5) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(5)(b)(i)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/5/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00022]: Footnote: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).
 
 [^f00023]: Footnote: [S.I. 2014/3260](https://www.legislation.gov.uk/uksi/2014/3260).
 
-[^key-56fcf4d532adbf25c36664e911dc4fa2]: Textual amendment: Words in reg. 18(5) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/5/b/ii) (as amedned by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56fcf4d532adbf25c36664e911dc4fa2]: Textual amendment: Words in reg. 18(5) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/60)](https://www.legislation.gov.uk/ssi/2019/60), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/60/regulation/1/1/b), [7(5)(b)(ii)](https://www.legislation.gov.uk/ssi/2019/60/regulation/7/5/b/ii) (as amedned by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [3(4)](https://www.legislation.gov.uk/ssi/2020/368/regulation/3/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bea06b6fe63cc57d7cfb455a4904bf4a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/192/regulation/19) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-bea06b6fe63cc57d7cfb455a4904bf4a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2015/192/regulation/19) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-df6a07bb8ad501c09ba7edd5d32331ae]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/192/regulation/20) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-df6a07bb8ad501c09ba7edd5d32331ae]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2015/192/regulation/20) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-d8f890aeb2a98f6907a31bf92013b7ad]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/192/regulation/21) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-d8f890aeb2a98f6907a31bf92013b7ad]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2015/192/regulation/21) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-caab8a090795288e6da2751b4c222976]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/192/regulation/22) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-caab8a090795288e6da2751b4c222976]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2015/192/regulation/22) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-d90926fe82ed0173044b3af3a82e55b3]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/1) substituted (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/2/a/i)
+[^c-d90926fe82ed0173044b3af3a82e55b3]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/1) substituted (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(2)(a)(i)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/2/a/i)
 
-[^key-5c648751830a5c5720280d579728667b]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/1) substituted (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/2/a/ii)
+[^c-5c648751830a5c5720280d579728667b]: Textual amendment: Words in [reg. 22(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/1) substituted (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/2/a/ii)
 
-[^key-74684976914e4b4908d6692b61e74019]: Textual amendment: [Reg. 22(3)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/3) inserted (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/2/b)
+[^c-74684976914e4b4908d6692b61e74019]: Textual amendment: [Reg. 22(3)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/3) inserted (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(2)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/2/b)
 
-[^key-5876fd7ba84fab71d1d90d77045778b4]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/3) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/b), [4(3)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5876fd7ba84fab71d1d90d77045778b4]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/3) inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/b), [4(3)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_8e5eff57-3c6c-44ba-f2ba-e4bec0e1d67b]: Textual amendment: [S.S.I. 2008/100](https://www.legislation.gov.uk/ssi/2008/100), amended by the [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [S.S.I. 2008/233](https://www.legislation.gov.uk/ssi/2008/233), [S.S.I. 2009/1](https://www.legislation.gov.uk/ssi/2009/1), [S.S.I. 2009/233](https://www.legislation.gov.uk/ssi/2009/233), [S.S.I. 2009/335](https://www.legislation.gov.uk/ssi/2009/335), [S.S.I. 2009/411](https://www.legislation.gov.uk/ssi/2009/411), [S.S.I. 2010/87](https://www.legislation.gov.uk/ssi/2010/87), [S.S.I. 2010/222](https://www.legislation.gov.uk/ssi/2010/222), [S.S.I. 2010/322](https://www.legislation.gov.uk/ssi/2010/322), [S.S.I. 2010/460](https://www.legislation.gov.uk/ssi/2010/460), [S.S.I. 2011/106](https://www.legislation.gov.uk/ssi/2011/106), [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228), [S.I](https://www.legislation.gov.uk/ssi/2011/228/section/I). 2011/1043, [S.S.I. 2012/215](https://www.legislation.gov.uk/ssi/2012/215), [S.S.I. 2012/307](https://www.legislation.gov.uk/ssi/2012/307), [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360) and [S.S.I. 2014/373](https://www.legislation.gov.uk/ssi/2014/373). [S.S.I. 2008/100](https://www.legislation.gov.uk/ssi/2008/100) was revoked subject to savings by [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
 
 [^M_F_46792204-9fb9-4871-96d2-7f72cdc1c459]: Textual amendment: [S.S.I. 2008/159](https://www.legislation.gov.uk/ssi/2008/159), amended by the [Crofting Reform (Scotland) Act 2010 (asp 14)](https://www.legislation.gov.uk/asp/2010/14), [S.S.I. 2009/155](https://www.legislation.gov.uk/ssi/2009/155), [S.S.I. 2011/85](https://www.legislation.gov.uk/ssi/2011/85), [S.S.I. 2011/228](https://www.legislation.gov.uk/ssi/2011/228), [S.I](https://www.legislation.gov.uk/ssi/2011/228/section/I). 2011/1043, [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360), [S.S.I. 2013/309](https://www.legislation.gov.uk/ssi/2013/309) and [S.S.I. 2014/373](https://www.legislation.gov.uk/ssi/2014/373). [S.S.I. 2008/159](https://www.legislation.gov.uk/ssi/2008/159) was revoked subject to savings by [S.S.I. 2015/192](https://www.legislation.gov.uk/ssi/2015/192).
 
-[^key-ce6b642aeccf8f1bbccb0d3fee1f69ea]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/3) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/b), [4(3)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ce6b642aeccf8f1bbccb0d3fee1f69ea]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/3) substituted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/b), [4(3)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-643513e4081ada5138b7bd41ab306ca9]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
+[^c-643513e4081ada5138b7bd41ab306ca9]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) in force at 12.6.2015, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1)
 
-[^key-45b18428168eda686d4a054a0fd2799b]: Textual amendment: Sch. renumbered as sch. 1 (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/3)
+[^c-45b18428168eda686d4a054a0fd2799b]: Textual amendment: Sch. renumbered as sch. 1 (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(3)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/3)
 
 [^f00024]: Footnote: [S.S.I. 2008/64](https://www.legislation.gov.uk/ssi/2008/64), as amended by [S.S.I. 2011/260](https://www.legislation.gov.uk/ssi/2011/260) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
@@ -863,7 +863,7 @@ A business and regulatory impact assessment is being prepared for these Regulati
 
 [^f00042]: Footnote: [S.S.I. 2013/309](https://www.legislation.gov.uk/ssi/2013/309).
 
-[^key-560ea653aa3d6e04358f5735489ada28]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/192/schedule/2) inserted (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(4)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/4)
+[^c-560ea653aa3d6e04358f5735489ada28]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2015/192/schedule/2) inserted (26.9.2019) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/a), [2(4)](https://www.legislation.gov.uk/ssi/2019/209/regulation/2/4)
 
 [^M_F_0af3cbae-112e-4494-d22e-56467fe4cab4]: Textual amendment: OJ L 105, 13.4.2013, p.1. Commission Regulation 1974/2006 was repealed subject to savings by Commission Delegated Regulation (EU) No 807/2014 (OJ L 227, 31.7.2014, p.1).
 
@@ -879,4 +879,4 @@ A business and regulatory impact assessment is being prepared for these Regulati
 
 [^M_F_cae1d3ae-261a-46f9-e2d0-522fa780020e]: Textual amendment: [S.S.I. 2015/58](https://www.legislation.gov.uk/ssi/2015/58), relevant amending instruments are [S.S.I. 2015/215](https://www.legislation.gov.uk/ssi/2015/215) and [S.S.I. 2016/178](https://www.legislation.gov.uk/ssi/2016/178)***.***
 
-[^key-0b3391f74bfb402a086925ea533a32c1]: Textual amendment: Sch. 3 inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/b), [4(4)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/4) (as amended by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/5/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b3391f74bfb402a086925ea533a32c1]: Textual amendment: Sch. 3 inserted (31.12.2020) by [The Common Agricultural Policy (EU Exit) (Scotland) (Amendment) (No. 2) Regulations 2019 (S.S.I. 2019/209)](https://www.legislation.gov.uk/ssi/2019/209), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/209/regulation/1/1/b), [4(4)](https://www.legislation.gov.uk/ssi/2019/209/regulation/4/4) (as amended by [S.S.I. 2020/368](https://www.legislation.gov.uk/ssi/2020/368), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/368/regulation/1/2), [5(3)](https://www.legislation.gov.uk/ssi/2020/368/regulation/5/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

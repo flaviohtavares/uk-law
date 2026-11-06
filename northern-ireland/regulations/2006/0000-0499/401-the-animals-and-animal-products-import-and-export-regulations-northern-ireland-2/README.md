@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ANIMALS
 
-The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (revoked)[^key-fbaf0ef7444009df336e61727d842905]
+The Animals and Animal Products (Import and Export) Regulations (Northern Ireland) 2006 (revoked)[^c-fbaf0ef7444009df336e61727d842905]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into operation
 
 1st November 2006
 
-[^key-fbaf0ef7444009df336e61727d842905]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbaf0ef7444009df336e61727d842905]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — INTRODUCTION[^key-fbaf0ef7444009df336e61727d842905]
+### PART I — INTRODUCTION[^c-fbaf0ef7444009df336e61727d842905]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ Coming into operation
 - [Section 2 — Interpretation](part-i/section-2.md)
 - [Section 3 — Exception](part-i/section-3.md)
 
-### PART II — INTRA-COMMUNITY TRADE[^key-fbaf0ef7444009df336e61727d842905]
+### PART II — INTRA-COMMUNITY TRADE[^c-fbaf0ef7444009df336e61727d842905]
 
 *Extent: N.I.*
 
@@ -74,7 +74,7 @@ Coming into operation
 - [Section 12 — Assembly centres and slaughterhouses](part-ii/section-12.md)
 - [Section 13 — Illegal consignments](part-ii/section-13.md)
 
-### PART III — THIRD COUNTRY IMPORTS[^key-fbaf0ef7444009df336e61727d842905]
+### PART III — THIRD COUNTRY IMPORTS[^c-fbaf0ef7444009df336e61727d842905]
 
 *Extent: N.I.*
 
@@ -91,7 +91,7 @@ Coming into operation
 - [Section 22 — Arrival at the place of destination](part-iii/section-22.md)
 - [Section 23 — Post-import controls](part-iii/section-23.md)
 
-### PART IV — IMPORTS WHERE CHECKS HAVE BEEN CARRIED OUT IN ANOTHER MEMBER STATE[^key-fbaf0ef7444009df336e61727d842905]
+### PART IV — IMPORTS WHERE CHECKS HAVE BEEN CARRIED OUT IN ANOTHER MEMBER STATE[^c-fbaf0ef7444009df336e61727d842905]
 
 *Extent: N.I.*
 
@@ -101,14 +101,14 @@ Coming into operation
 - [Section 25 — Imports](part-iv/section-25.md)
 - [Section 26 — Import procedure](part-iv/section-26.md)
 
-### PART IVA — THIRD COUNTRY EXPORTS[^key-fbaf0ef7444009df336e61727d842905]
+### PART IVA — THIRD COUNTRY EXPORTS[^c-fbaf0ef7444009df336e61727d842905]
 
 **No longer in force.**
 
 - [Section 26A — Application of Part IVA](part-iva/section-26a.md)
 - [Section 26B — Exports to third countries](part-iva/section-26b.md)
 
-### PART V — GENERAL[^key-fbaf0ef7444009df336e61727d842905]
+### PART V — GENERAL[^c-fbaf0ef7444009df336e61727d842905]
 
 *Extent: N.I.*
 
@@ -138,12 +138,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-fbaf0ef7444009df336e61727d842905]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbaf0ef7444009df336e61727d842905]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-fbaf0ef7444009df336e61727d842905]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbaf0ef7444009df336e61727d842905]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)
+[^c-fbaf0ef7444009df336e61727d842905]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/401) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(c)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/c)

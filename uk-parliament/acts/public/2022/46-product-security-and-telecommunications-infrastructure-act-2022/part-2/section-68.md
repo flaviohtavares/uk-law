@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Arrangements pending determination of certain applications under code[^key-06a73c76579509e4ac70a870ef6e8c4d][^key-5834613f268db6d06e39efb1edcd90ba]
+## 68. Arrangements pending determination of certain applications under code[^c-06a73c76579509e4ac70a870ef6e8c4d][^c-5834613f268db6d06e39efb1edcd90ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-06a73c76579509e4ac70a870ef6e8c4d]: Commencement: S. 68 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-06a73c76579509e4ac70a870ef6e8c4d]: Commencement: S. 68 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-5834613f268db6d06e39efb1edcd90ba]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2022/46/section/68) in force at 7.11.2023 by [S.I. 2023/1022](https://www.legislation.gov.uk/uksi/2023/1022), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1022/regulation/2/a)
+[^c-5834613f268db6d06e39efb1edcd90ba]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2022/46/section/68) in force at 7.11.2023 by [S.I. 2023/1022](https://www.legislation.gov.uk/uksi/2023/1022), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1022/regulation/2/a)

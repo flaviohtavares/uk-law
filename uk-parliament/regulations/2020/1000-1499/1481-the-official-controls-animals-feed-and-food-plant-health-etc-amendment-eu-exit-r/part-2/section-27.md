@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendments to Title 8, Chapter 1[^key-665967232d7c2e787d904e6ec94f814b]
+## 27. Amendments to Title 8, Chapter 1[^c-665967232d7c2e787d904e6ec94f814b]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,7 +79,7 @@ summary: ''
 
 ## Annotations
 
-[^key-665967232d7c2e787d904e6ec94f814b]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-665967232d7c2e787d904e6ec94f814b]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368771]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).
 

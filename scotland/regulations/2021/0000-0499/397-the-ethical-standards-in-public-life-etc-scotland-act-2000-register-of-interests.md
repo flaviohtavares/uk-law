@@ -34,7 +34,7 @@ Local Government
 
 Ethical Standards
 
-The Ethical Standards in Public Life etc. (Scotland) Act 2000 (Register of Interests) Amendment Regulations 2021 (revoked)[^key-1f70bcf924f88e9db370fc122c96b8a1]
+The Ethical Standards in Public Life etc. (Scotland) Act 2000 (Register of Interests) Amendment Regulations 2021 (revoked)[^c-1f70bcf924f88e9db370fc122c96b8a1]
 
 Made
 
@@ -48,15 +48,15 @@ Coming into force
 
 8th December 2021
 
-[^key-1f70bcf924f88e9db370fc122c96b8a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f70bcf924f88e9db370fc122c96b8a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-1f70bcf924f88e9db370fc122c96b8a1]
+## 1. Citation and commencement[^c-1f70bcf924f88e9db370fc122c96b8a1]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Ethical Standards in Public Life etc. (Scotland) Act 2000 (Register of Interests) Regulations 2003[^key-1f70bcf924f88e9db370fc122c96b8a1]
+## 2. Amendment of the Ethical Standards in Public Life etc. (Scotland) Act 2000 (Register of Interests) Regulations 2003[^c-1f70bcf924f88e9db370fc122c96b8a1]
 
 **Not yet in force.**
 
@@ -64,11 +64,11 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-1f70bcf924f88e9db370fc122c96b8a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f70bcf924f88e9db370fc122c96b8a1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-1f70bcf924f88e9db370fc122c96b8a1]EXPLANATORY NOTE
+[^c-1f70bcf924f88e9db370fc122c96b8a1]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -78,4 +78,4 @@ Regulation 2(2) substitutes a new schedule into the 2003 Regulations in which th
 
 ## Annotations
 
-[^key-1f70bcf924f88e9db370fc122c96b8a1]: Textual amendment: Regulations revoked (7.12.2021) by The Ethical Standards in [Public Life etc. (Scotland) Act 2000 (Register of Interests) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/438)](https://www.legislation.gov.uk/ssi/2021/438), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/438/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2021/438/regulation/3)
+[^c-1f70bcf924f88e9db370fc122c96b8a1]: Textual amendment: Regulations revoked (7.12.2021) by The Ethical Standards in [Public Life etc. (Scotland) Act 2000 (Register of Interests) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/438)](https://www.legislation.gov.uk/ssi/2021/438), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/438/regulation/1/2), [3](https://www.legislation.gov.uk/ssi/2021/438/regulation/3)

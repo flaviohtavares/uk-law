@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19A. Referral to the Adoption Register for Wales - children[^key-469f48d0bdd2bb7486a768c6d1e0dc86]
+## 19A. Referral to the Adoption Register for Wales - children[^c-469f48d0bdd2bb7486a768c6d1e0dc86]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ the agency must provide details about the child to the organisation which mainta
 
 ## Annotations
 
-[^key-469f48d0bdd2bb7486a768c6d1e0dc86]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/wsi/2005/1313/regulation/19A) inserted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2020/163/regulation/7)
+[^c-469f48d0bdd2bb7486a768c6d1e0dc86]: Textual amendment: [Reg. 19A](https://www.legislation.gov.uk/wsi/2005/1313/regulation/19A) inserted (1.4.2020) by [The Adoption Agencies (Wales) (Amendment) Regulations 2020 (S.I. 2020/163)](https://www.legislation.gov.uk/wsi/2020/163), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/163/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2020/163/regulation/7)

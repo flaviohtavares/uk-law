@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 91A. Regulations made by Secretary of State[^key-f863f1ba94a75542379600922eaae95f]
+## Article 91A. Regulations made by Secretary of State[^c-f863f1ba94a75542379600922eaae95f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 2. Before making UK GDPR regulations, the Secretary of State must consult—
 
-- (a) the Commission[^key-f01eaa6a735374cff51564e6ae91159b], and
+- (a) the Commission[^c-f01eaa6a735374cff51564e6ae91159b], and
 - (b) such other persons as the Secretary of State considers appropriate.
 
 3. Paragraph 2 does not apply to regulations made under Article 49 or 49A where the Secretary of State has made an urgency statement in respect of them.
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f863f1ba94a75542379600922eaae95f]: Textual amendment: Ch. 9A inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 107(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/107/1), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/l)
+[^c-f863f1ba94a75542379600922eaae95f]: Textual amendment: Ch. 9A inserted (19.6.2025 for specified purposes, 20.8.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 107(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/107/1), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/l)
 
-[^key-f01eaa6a735374cff51564e6ae91159b]: Textual amendment: Word in Art. 91A(2)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 41(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/3)[(4)(z9)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/4/z9); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-f01eaa6a735374cff51564e6ae91159b]: Textual amendment: Word in Art. 91A(2)(a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 41(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/3)[(4)(z9)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/41/4/z9); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

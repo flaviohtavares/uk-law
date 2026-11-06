@@ -34,7 +34,7 @@ on sustainability‐related disclosures in the financial services sector
 
 (Text with EEA relevance)
 
-[^key-61bc16552762a4c412c882a2a4f057a0]
+[^c-61bc16552762a4c412c882a2a4f057a0]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -254,7 +254,7 @@ For the purposes of this Regulation, the following definitions apply:
 - ((23)) ‘European long‐term investment fund’ or ‘ELTIF’ means a fund authorised in accordance with Article 6 of Regulation (EU) 2015/760;
 - ((24)) ‘sustainability factors’ mean environmental, social and employee matters, respect for human rights, anti‐corruption and anti‐bribery matters.
 
-## Article 2a. Principle of do no significant harm[^key-9851211e8f3fa3924f44437770f09c90]
+## Article 2a. Principle of do no significant harm[^c-9851211e8f3fa3924f44437770f09c90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -274,9 +274,9 @@ For the purposes of this Regulation, the following definitions apply:
 
 5.[^M_X_97db97bc-245d-4da2-9300-a4e4d4cbd076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-5eaa37f598fa92995e42bfe1e76882cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-5eaa37f598fa92995e42bfe1e76882cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-7.[^key-5eaa37f598fa92995e42bfe1e76882cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.[^c-5eaa37f598fa92995e42bfe1e76882cc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 5. Transparency of remuneration policies in relation to the integration of sustainability risks[^M_X_6b726a92-5d95-4c67-d067-3d635ada3092]
 
@@ -298,9 +298,9 @@ For the purposes of this Regulation, the following definitions apply:
 
 2a.[^M_X_734c2a24-1b10-4035-e8df-1c188b2b2c9b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3.[^key-db89ee728ab3264ae12bb0045df36618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-db89ee728ab3264ae12bb0045df36618] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-c898ef02f5c157c9cf1ef8a520015557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-c898ef02f5c157c9cf1ef8a520015557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 9. Transparency of sustainable investments in pre‐contractual disclosures
 
@@ -314,15 +314,15 @@ For the purposes of this Regulation, the following definitions apply:
 
 4a.[^M_X_c59edf4e-3d89-42d8-f648-a2d226cfcc4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-b01b5af6b176b363942dd3cc541f64e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-b01b5af6b176b363942dd3cc541f64e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-4a1f6e3ef8e52bd338aa2e763370bfb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-4a1f6e3ef8e52bd338aa2e763370bfb6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 10. Transparency of the promotion of environmental or social characteristics and of sustainable investments on websites
 
 1.[^M_X_46717a37-6b3f-404e-c842-58668c2baff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2.[^key-d0dd351bfa735a5dc9a675aac02b0dae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-d0dd351bfa735a5dc9a675aac02b0dae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 11. Transparency of the promotion of environmental or social characteristics and of sustainable investments in periodic reports
 
@@ -332,9 +332,9 @@ For the purposes of this Regulation, the following definitions apply:
 
 3.[^M_X_bec48933-7f9f-47f3-9983-6b0e38a52d43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-4.[^key-10e6df22fc103d3ef5f7ecbbf5743297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-10e6df22fc103d3ef5f7ecbbf5743297] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-7dfc294d8fc14a97d469de0800b8df20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-7dfc294d8fc14a97d469de0800b8df20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 12. Review of disclosures[^M_X_cca962e8-f038-49dd-b9ad-ca286a9bd2b2]
 
@@ -344,7 +344,7 @@ For the purposes of this Regulation, the following definitions apply:
 
 1.[^M_X_a493804b-b9b6-4c96-99d1-9a59675547a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2.[^key-3a5a857f62a981243f53c24444a3480c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-3a5a857f62a981243f53c24444a3480c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 14. Competent authorities[^M_X_6d716f93-9493-47d7-db71-3fd782cc41b9]
 
@@ -378,8 +378,8 @@ For the purposes of this Regulation, the following definitions apply:
 
 3.[^c000002] By way of derogation from paragraph 2 of this Article:
 
-- (a)[^key-9177f21319f3082ded6f6b1dd387d7ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-9177f21319f3082ded6f6b1dd387d7ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-9177f21319f3082ded6f6b1dd387d7ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9177f21319f3082ded6f6b1dd387d7ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) Articles 8(2a) and 9(4a) shall apply:
   - ((i)) in respect of the environmental objectives referred to in points (a) and (b) of Article 9 of Regulation (EU) 2020/852, from 1 January 2022; and
   - ((ii)) in respect of the environmental objectives referred to in points (c) to (f) of Article 9 of Regulation (EU) 2020/852, from 1 January 2023;
@@ -389,7 +389,7 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 ## Annotations
 
-[^key-61bc16552762a4c412c882a2a4f057a0]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-61bc16552762a4c412c882a2a4f057a0]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ C 62, 15.2.2019, p. 97](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2019.062.01.0097.01.ENG).
 
@@ -429,13 +429,13 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^f00019]: Footnote: Regulation (EU) No 1286/2014 of the European Parliament and of the Council of 26 November 2014 on key information documents for packaged retail and insurance-based investment products (PRIIPs) ([OJ L 352, 9.12.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.352.01.0001.01.ENG)).
 
-[^key-9851211e8f3fa3924f44437770f09c90]: Textual amendment: [Art. 2a](https://www.legislation.gov.uk/eur/2019/2088/article/2a) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2020/1385/regulation/77)
+[^c-9851211e8f3fa3924f44437770f09c90]: Textual amendment: [Art. 2a](https://www.legislation.gov.uk/eur/2019/2088/article/2a) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2020/1385/regulation/77)
 
 [^M_X_8ec0e275-2cd9-494f-cac9-98eec20a1883]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
 [^M_X_97db97bc-245d-4da2-9300-a4e4d4cbd076]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
-[^key-5eaa37f598fa92995e42bfe1e76882cc]: Textual amendment: [Art. 4(6)](https://www.legislation.gov.uk/eur/2019/2088/article/4/6)[(7)](https://www.legislation.gov.uk/eur/2019/2088/article/4/7) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
+[^c-5eaa37f598fa92995e42bfe1e76882cc]: Textual amendment: [Art. 4(6)](https://www.legislation.gov.uk/eur/2019/2088/article/4/6)[(7)](https://www.legislation.gov.uk/eur/2019/2088/article/4/7) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
 
 [^M_X_6b726a92-5d95-4c67-d067-3d635ada3092]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
@@ -445,31 +445,31 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^M_X_734c2a24-1b10-4035-e8df-1c188b2b2c9b]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
-[^key-db89ee728ab3264ae12bb0045df36618]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/eur/2019/2088/article/8/3) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
+[^c-db89ee728ab3264ae12bb0045df36618]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/eur/2019/2088/article/8/3) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
 
-[^key-c898ef02f5c157c9cf1ef8a520015557]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/eur/2019/2088/article/8/4) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2020/1385/regulation/77)
+[^c-c898ef02f5c157c9cf1ef8a520015557]: Textual amendment: [Art. 8(4)](https://www.legislation.gov.uk/eur/2019/2088/article/8/4) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2020/1385/regulation/77)
 
 [^M_X_c59edf4e-3d89-42d8-f648-a2d226cfcc4a]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
-[^key-b01b5af6b176b363942dd3cc541f64e5]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/eur/2019/2088/article/9/5) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
+[^c-b01b5af6b176b363942dd3cc541f64e5]: Textual amendment: [Art. 9(5)](https://www.legislation.gov.uk/eur/2019/2088/article/9/5) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
 
-[^key-4a1f6e3ef8e52bd338aa2e763370bfb6]: Textual amendment: [Art. 9(6)](https://www.legislation.gov.uk/eur/2019/2088/article/9/6) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2020/1385/regulation/77)
+[^c-4a1f6e3ef8e52bd338aa2e763370bfb6]: Textual amendment: [Art. 9(6)](https://www.legislation.gov.uk/eur/2019/2088/article/9/6) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2020/1385/regulation/77)
 
 [^M_X_46717a37-6b3f-404e-c842-58668c2baff0]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
-[^key-d0dd351bfa735a5dc9a675aac02b0dae]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/eur/2019/2088/article/10/2) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
+[^c-d0dd351bfa735a5dc9a675aac02b0dae]: Textual amendment: [Art. 10(2)](https://www.legislation.gov.uk/eur/2019/2088/article/10/2) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
 
 [^M_X_bec48933-7f9f-47f3-9983-6b0e38a52d43]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
-[^key-10e6df22fc103d3ef5f7ecbbf5743297]: Textual amendment: [Art. 11(4)](https://www.legislation.gov.uk/eur/2019/2088/article/11/4) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
+[^c-10e6df22fc103d3ef5f7ecbbf5743297]: Textual amendment: [Art. 11(4)](https://www.legislation.gov.uk/eur/2019/2088/article/11/4) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
 
-[^key-7dfc294d8fc14a97d469de0800b8df20]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/eur/2019/2088/article/11/5) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2020/1385/regulation/77)
+[^c-7dfc294d8fc14a97d469de0800b8df20]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/eur/2019/2088/article/11/5) omitted (31.12.2020) by virtue of [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [77](https://www.legislation.gov.uk/uksi/2020/1385/regulation/77)
 
 [^M_X_cca962e8-f038-49dd-b9ad-ca286a9bd2b2]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
 [^M_X_a493804b-b9b6-4c96-99d1-9a59675547a6]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
-[^key-3a5a857f62a981243f53c24444a3480c]: Textual amendment: [Art. 13(2)](https://www.legislation.gov.uk/eur/2019/2088/article/13/2) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
+[^c-3a5a857f62a981243f53c24444a3480c]: Textual amendment: [Art. 13(2)](https://www.legislation.gov.uk/eur/2019/2088/article/13/2) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [22](https://www.legislation.gov.uk/uksi/2020/628/regulation/22)
 
 [^M_X_6d716f93-9493-47d7-db71-3fd782cc41b9]: Editorial: This provision does not form part of domestic law under [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 3](https://www.legislation.gov.uk/ukpga/2018/16/section/3), since it only applies from a date after IP completion day by virtue of Art. 20
 
@@ -485,4 +485,4 @@ This Regulation shall be binding in its entirety and directly applicable in all 
 
 [^c000002]: Textual amendment: Substituted by [Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2020/852).
 
-[^key-9177f21319f3082ded6f6b1dd387d7ad]: Textual amendment: [Art. 20(3)(a)(b)](https://www.legislation.gov.uk/eur/2019/2088/article/20/3/a/b) omitted by [Regulation (EU) 2020/852](https://www.legislation.gov.uk/eur/2020/852), [Art. 25(5)](https://www.legislation.gov.uk/eur/2020/852/article/25) (as amended (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [78(18)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/78/18/b))
+[^c-9177f21319f3082ded6f6b1dd387d7ad]: Textual amendment: [Art. 20(3)(a)(b)](https://www.legislation.gov.uk/eur/2019/2088/article/20/3/a/b) omitted by [Regulation (EU) 2020/852](https://www.legislation.gov.uk/eur/2020/852), [Art. 25(5)](https://www.legislation.gov.uk/eur/2020/852/article/25) (as amended (31.12.2020) by [The Securities Financing Transactions, Securitisation and Miscellaneous Amendments (EU Exit) Regulations 2020 (S.I. 2020/1385)](https://www.legislation.gov.uk/uksi/2020/1385), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/3), [78(18)(b)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/78/18/b))

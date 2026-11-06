@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Requirement to take part in a work-focused health-related assessment[^key-a7b3ef8f6d38876332508d92bb3f70b1]
+## 47. Requirement to take part in a work-focused health-related assessment[^c-a7b3ef8f6d38876332508d92bb3f70b1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7b3ef8f6d38876332508d92bb3f70b1]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/nisr/2008/280/regulation/47) omitted (12.7.2011) by virtue of [The Employment and Support Allowance (Work-related Activity) Regulations (Northern Ireland) 2011 (S.R. 2011/265)](https://www.legislation.gov.uk/nisr/2011/265), [regs. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/nisr/2011/265/regulation/10/3/a)
+[^c-a7b3ef8f6d38876332508d92bb3f70b1]: Textual amendment: [Reg. 47](https://www.legislation.gov.uk/nisr/2008/280/regulation/47) omitted (12.7.2011) by virtue of [The Employment and Support Allowance (Work-related Activity) Regulations (Northern Ireland) 2011 (S.R. 2011/265)](https://www.legislation.gov.uk/nisr/2011/265), [regs. 1](https://www.legislation.gov.uk/nisr/2011/265/regulation/1), [10(3)(a)](https://www.legislation.gov.uk/nisr/2011/265/regulation/10/3/a)

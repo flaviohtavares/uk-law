@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Sale of alcohol to a drunk person[^key-b5b38d830ae9326b82af08f930990645]
+## 113. Sale of alcohol to a drunk person[^c-b5b38d830ae9326b82af08f930990645]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b38d830ae9326b82af08f930990645]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2005/16/section/113) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-b5b38d830ae9326b82af08f930990645]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2005/16/section/113) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

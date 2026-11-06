@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Dissolution of Board of Referees.[^key-23e0f19b37efcc97492bf819011e075d]
+## 156. Dissolution of Board of Referees.[^c-23e0f19b37efcc97492bf819011e075d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23e0f19b37efcc97492bf819011e075d]: Textual amendment: [S. 156](https://www.legislation.gov.uk/ukpga/1982/39/section/156) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 18
+[^c-23e0f19b37efcc97492bf819011e075d]: Textual amendment: [S. 156](https://www.legislation.gov.uk/ukpga/1982/39/section/156) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 18

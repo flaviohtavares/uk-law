@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Reports etc.[^key-f41839a7ab4fa298163fe1899b066406]
+## 42. Reports etc.[^c-f41839a7ab4fa298163fe1899b066406]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f41839a7ab4fa298163fe1899b066406]: Modification: [S. 42](https://www.legislation.gov.uk/ukpga/1987/43/section/42) applied (with modifications) (3.8.2017) by [The Recreational Craft Regulations 2017 (S.I. 2017/737)](https://www.legislation.gov.uk/uksi/2017/737), [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1), [Sch. 13 paras. 1(n)](https://www.legislation.gov.uk/uksi/2017/737/schedule/13/paragraph/1/n), [2](https://www.legislation.gov.uk/uksi/2017/737/schedule/13/paragraph/2) (with [reg. 89](https://www.legislation.gov.uk/uksi/2017/737/regulation/89))
+[^c-f41839a7ab4fa298163fe1899b066406]: Modification: [S. 42](https://www.legislation.gov.uk/ukpga/1987/43/section/42) applied (with modifications) (3.8.2017) by [The Recreational Craft Regulations 2017 (S.I. 2017/737)](https://www.legislation.gov.uk/uksi/2017/737), [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1), [Sch. 13 paras. 1(n)](https://www.legislation.gov.uk/uksi/2017/737/schedule/13/paragraph/1/n), [2](https://www.legislation.gov.uk/uksi/2017/737/schedule/13/paragraph/2) (with [reg. 89](https://www.legislation.gov.uk/uksi/2017/737/regulation/89))
 
 [^c9341591]: Modification: [S. 42(3)(4)](https://www.legislation.gov.uk/ukpga/1987/43/section/42/3/4) applied (3.10.1994) by [S.I. 1994/2328](https://www.legislation.gov.uk/uksi/1994/2328), [reg. 11(c)(i)](https://www.legislation.gov.uk/uksi/1994/2328/regulation/11/c/i)
 

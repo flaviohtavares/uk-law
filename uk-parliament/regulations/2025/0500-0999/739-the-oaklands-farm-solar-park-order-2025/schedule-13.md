@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 13 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^key-02c7373a274528dd28406dcffb90dfa1]
+## SCHEDULE 13 — TREES SUBJECT TO TREE PRESERVATION ORDERS[^c-02c7373a274528dd28406dcffb90dfa1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Article 37
 
 ## Annotations
 
-[^key-02c7373a274528dd28406dcffb90dfa1]: Commencement: Sch. 13 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-02c7373a274528dd28406dcffb90dfa1]: Commencement: Sch. 13 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 320D. Flu vaccinations[^key-21b4d8b8721bc737059d7e7615a38e05]
+## 320D. Flu vaccinations[^c-21b4d8b8721bc737059d7e7615a38e05]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21b4d8b8721bc737059d7e7615a38e05]: Textual amendment: [S. 320D](https://www.legislation.gov.uk/ukpga/2003/1/section/320D) and cross-heading inserted (for the tax year 2026-27 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/20/4)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/20/7)
+[^c-21b4d8b8721bc737059d7e7615a38e05]: Textual amendment: [S. 320D](https://www.legislation.gov.uk/ukpga/2003/1/section/320D) and cross-heading inserted (for the tax year 2026-27 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 20(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/20/4)[(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/20/7)

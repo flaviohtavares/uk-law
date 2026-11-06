@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Financing of costs of decommissioning etc[^key-544f7db36eccf95319c2ccde198d2911]
+## 92. Financing of costs of decommissioning etc[^c-544f7db36eccf95319c2ccde198d2911]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-544f7db36eccf95319c2ccde198d2911]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/52/section/92) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-544f7db36eccf95319c2ccde198d2911]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/52/section/92) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

@@ -22,8 +22,8 @@ summary: ''
 
 (1)[^c11731981] Where in any proceedings—
 
-- (a) for an offence under this Act; [^key-809d4b594b6aa547314379b703b9d2ad]...
-- (b)[^key-809d4b594b6aa547314379b703b9d2ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) for an offence under this Act; [^c-809d4b594b6aa547314379b703b9d2ad]...
+- (b)[^c-809d4b594b6aa547314379b703b9d2ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 any relevant decision as defined by section 165(3) is made by the Inland Revenue, the decision[^c11732001] shall be conclusive for the purpose of the proceedings.
 
@@ -47,7 +47,7 @@ the decision shall be referred to the Inland Revenue to be made in accordance (s
 
 [^c11731981]: Modification: S. 166(1) modified (28.3.1997) by [S.R. 1997/192](https://www.legislation.gov.uk/nisr/1997/192), [art. 4(2)](https://www.legislation.gov.uk/nisr/1997/192/article/4/2) (with [art. 9](https://www.legislation.gov.uk/nisr/1997/192/article/9))
 
-[^key-809d4b594b6aa547314379b703b9d2ad]: Textual amendment: [S. 166(1)(b)](https://www.legislation.gov.uk/ukpga/1993/49/section/166/1/b) and word omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 40](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/40)
+[^c-809d4b594b6aa547314379b703b9d2ad]: Textual amendment: [S. 166(1)(b)](https://www.legislation.gov.uk/ukpga/1993/49/section/166/1/b) and word omitted (6.4.2016) by virtue of [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 40](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/40)
 
 [^c11732001]: Textual amendment: Words in s. 166(1) substituted (5.7.1999) by [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671), [art. 17](https://www.legislation.gov.uk/uksi/1999/671/article/17), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/uksi/1999/671/schedule/6/paragraph/13/2); [S.R. 1999/271](https://www.legislation.gov.uk/nisr/1999/271), [art. 2(b)](https://www.legislation.gov.uk/nisr/1999/271/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/1999/271/schedule/part/II)
 

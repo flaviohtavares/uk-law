@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Applications by British Transport Police and Ministry of Defence Police[^key-be9dfc1b0033314a320034de39407507][^key-9c766bc9a2e6cefb595e6b313106ab8a]
+## 171. Applications by British Transport Police and Ministry of Defence Police[^c-be9dfc1b0033314a320034de39407507][^c-9c766bc9a2e6cefb595e6b313106ab8a]
 
 *Extent: E+W*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-be9dfc1b0033314a320034de39407507]: Commencement: S. 171 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-be9dfc1b0033314a320034de39407507]: Commencement: S. 171 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9c766bc9a2e6cefb595e6b313106ab8a]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2022/32/section/171) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/d)
+[^c-9c766bc9a2e6cefb595e6b313106ab8a]: Commencement: [S. 171](https://www.legislation.gov.uk/ukpga/2022/32/section/171) in force at 29.11.2022 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/3/d)

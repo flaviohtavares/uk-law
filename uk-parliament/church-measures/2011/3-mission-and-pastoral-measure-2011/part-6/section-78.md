@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 78. Disposal of human remains[^key-6b47c0d69ff59ae18ce29e55b89e144e][^key-c0e320e72bb8988bb79ef542a0d4be13]
+## 78. Disposal of human remains[^c-6b47c0d69ff59ae18ce29e55b89e144e][^c-c0e320e72bb8988bb79ef542a0d4be13]
 
 *Extent: E*
 
@@ -50,6 +50,6 @@ and (in either case) the other requirements of that Schedule have been complied 
 
 ## Annotations
 
-[^key-6b47c0d69ff59ae18ce29e55b89e144e]: Commencement: S. 78 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-6b47c0d69ff59ae18ce29e55b89e144e]: Commencement: S. 78 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-c0e320e72bb8988bb79ef542a0d4be13]: Modification: S. 78 power to apply (with modifications) conferred (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [ss. 92(4)](https://www.legislation.gov.uk/ukcm/2018/3/section/92/4), [99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2) (with [s. 93](https://www.legislation.gov.uk/ukcm/2018/3/section/93), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-c0e320e72bb8988bb79ef542a0d4be13]: Modification: S. 78 power to apply (with modifications) conferred (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [ss. 92(4)](https://www.legislation.gov.uk/ukcm/2018/3/section/92/4), [99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2) (with [s. 93](https://www.legislation.gov.uk/ukcm/2018/3/section/93), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

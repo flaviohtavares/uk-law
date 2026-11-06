@@ -31,74 +31,74 @@ Allotments (Scotland) Act 1950 (repealed)
 
 1950 c.38
 
-[^key-21d7589c9ad8805ed10e02b16a4a48b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-21d7589c9ad8805ed10e02b16a4a48b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Extension of length of notices to remove from allotment gardens.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 1. Extension of length of notices to remove from allotment gardens.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Removal of restrictions on right of tenant of an allotment garden to compensation for crops and manure.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 2. Removal of restrictions on right of tenant of an allotment garden to compensation for crops and manure.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Compensation to tenant of an allotment garden for disturbance.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 3. Compensation to tenant of an allotment garden for disturbance.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Right of lessor of an allotment garden to compensation for deterioration.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 4. Right of lessor of an allotment garden to compensation for deterioration.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Set-off of compensation against rent, etc.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 5. Set-off of compensation against rent, etc.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Provisions as to war-time allotments.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 6. Provisions as to war-time allotments.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of provisions of the Allotments (Scotland) Act, 1922, for purposes of preceding sections.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 7. Application of provisions of the Allotments (Scotland) Act, 1922, for purposes of preceding sections.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 8.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Restriction of obligations of local authorities to provide allotments.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 9. Restriction of obligations of local authorities to provide allotments.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Rents to be charged for allotments let by local authorities.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 10. Rents to be charged for allotments let by local authorities.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Provision of information relating to allotments and award of prizes.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 11. Provision of information relating to allotments and award of prizes.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Expenses and receipts.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 12. Expenses and receipts.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Interpretation.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 13. Interpretation.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
-## 15. Short title, citation and extent.[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## 15. Short title, citation and extent.[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-21d7589c9ad8805ed10e02b16a4a48b7]
+## SCHEDULE[^c-21d7589c9ad8805ed10e02b16a4a48b7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-21d7589c9ad8805ed10e02b16a4a48b7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/14/38) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/458/article/8))
+[^c-21d7589c9ad8805ed10e02b16a4a48b7]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo6/14/38) repealed (1.4.2018) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [s. 142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1), [sch. 5](https://www.legislation.gov.uk/asp/2015/6/schedule/5); [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/458/article/8))

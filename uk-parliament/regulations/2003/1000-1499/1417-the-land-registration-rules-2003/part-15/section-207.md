@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 207. Adaptation of certain Schedule 1 forms to provide for direct debit[^key-fb1f55e4945f87973b247a43b1df5788]
+## 207. Adaptation of certain Schedule 1 forms to provide for direct debit[^c-fb1f55e4945f87973b247a43b1df5788]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb1f55e4945f87973b247a43b1df5788]: Textual amendment: Rule 207 revoked (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/68) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-fb1f55e4945f87973b247a43b1df5788]: Textual amendment: Rule 207 revoked (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 68](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/68) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

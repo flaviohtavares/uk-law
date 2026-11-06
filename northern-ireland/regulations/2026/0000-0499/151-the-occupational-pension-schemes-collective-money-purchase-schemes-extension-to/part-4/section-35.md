@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Financial sustainability requirement[^key-1b2faa0c4cc8a0cc45ffa737fde88c85]
+## 35. Financial sustainability requirement[^c-1b2faa0c4cc8a0cc45ffa737fde88c85]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b2faa0c4cc8a0cc45ffa737fde88c85]: Commencement: Reg. 35 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-1b2faa0c4cc8a0cc45ffa737fde88c85]: Commencement: Reg. 35 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00038]: Footnote: Section 65 is amended by regulation 9 of these Regulations

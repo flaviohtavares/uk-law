@@ -22,20 +22,20 @@ summary: ''
 
 Section 102
 
-### Part 1 — Income tax and other related relief[^key-4d029f7b1a4b4ad41f39e275796e4e51]
+### Part 1 — Income tax and other related relief[^c-4d029f7b1a4b4ad41f39e275796e4e51]
 
 #### Introductory
 
-**1.** (1) This Part of this[^key-2b4f3c9f6eae92386d8ed5adbc0864aa] Schedule provides for the following in respect of qualifying payments—
+**1.** (1) This Part of this[^c-2b4f3c9f6eae92386d8ed5adbc0864aa] Schedule provides for the following in respect of qualifying payments—
 
 - (a) an exemption from income tax, and
 - (b) an exemption from capital gains tax.
 
-(2) This Part of this[^key-f66e6941d07505832e491d6df034e21e] Schedule also provides for a relief from inheritance tax in respect of qualifying payments (but see paragraph 5(4), which contains an excepted case).
+(2) This Part of this[^c-f66e6941d07505832e491d6df034e21e] Schedule also provides for a relief from inheritance tax in respect of qualifying payments (but see paragraph 5(4), which contains an excepted case).
 
 #### Qualifying payments
 
-**2.**[^key-8ccea64a197f26b72141a1da247f0647] (1) In this Schedule “**qualifying payment**” means a payment within any of sub-paragraphs (2) to (5).
+**2.**[^c-8ccea64a197f26b72141a1da247f0647] (1) In this Schedule “**qualifying payment**” means a payment within any of sub-paragraphs (2) to (5).
 
 (2) A payment is within this sub-paragraph if it is a payment under the Windrush Compensation Scheme.
 
@@ -61,7 +61,7 @@ Section 102
   - (iv) a local or other public authority in the United Kingdom, or
   - (v) a local or other public authority of a territory outside the United Kingdom.
 
-(6) Regulations under sub-paragraph (5) may provide that a compensation payment of a description specified in the regulations is a qualifying payment only for the purposes of particular provisions of this Part of this[^key-6a4a999a6fc2b55bc3105bc043c8ae5c] Schedule.
+(6) Regulations under sub-paragraph (5) may provide that a compensation payment of a description specified in the regulations is a qualifying payment only for the purposes of particular provisions of this Part of this[^c-6a4a999a6fc2b55bc3105bc043c8ae5c] Schedule.
 
 (7) A statutory instrument containing regulations under sub-paragraph (5) is subject to annulment in pursuance of a resolution of the House of Commons.
 
@@ -69,7 +69,7 @@ Section 102
 
 #### Exemption from income tax
 
-**3.**[^key-60087b9405dddde41e688a4ab2a48341] (1) No liability to income tax arises in respect of a qualifying payment.
+**3.**[^c-60087b9405dddde41e688a4ab2a48341] (1) No liability to income tax arises in respect of a qualifying payment.
 
 (2) A qualifying payment is to be ignored for all other income tax purposes.
 
@@ -81,7 +81,7 @@ Section 102
 
 #### Exemptions from capital gains tax
 
-**4.**[^key-e170f79c93cdaa85469f11cd26e83f73] (1) A gain accruing on a disposal is not a chargeable gain if it accrues on—
+**4.**[^c-e170f79c93cdaa85469f11cd26e83f73] (1) A gain accruing on a disposal is not a chargeable gain if it accrues on—
 
 - (a) a disposal arising as a result of the forfeiture or surrender of rights, or as a result of refraining from exercising rights, in return for a qualifying payment,
 - (b) a disposal of the right to receive the whole or any part of a qualifying payment, or
@@ -97,7 +97,7 @@ Section 102
 
 #### Relief from inheritance tax
 
-**5.**[^key-47ff61c84845eaeabcb11f7a79d506a3] (1) This paragraph applies where a qualifying payment is at any time received by a person or the personal representatives of a person (but see sub-paragraph (4)).
+**5.**[^c-47ff61c84845eaeabcb11f7a79d506a3] (1) This paragraph applies where a qualifying payment is at any time received by a person or the personal representatives of a person (but see sub-paragraph (4)).
 
 (2) The inheritance tax chargeable on the value transferred by the transfer made on the person's death is to be reduced by an amount equal to—
 
@@ -118,7 +118,7 @@ Section 102
 
 (7) This paragraph has effect, in a case where the qualifying payment is within paragraph 2(5), in relation to deaths occurring on or after such date as is specified in the regulations concerned (which may be a date before the regulations are made).
 
-### Part 2 — Corporation tax and other related relief[^key-ecfd0e96d8389898849d0f4e474f8b90]
+### Part 2 — Corporation tax and other related relief[^c-ecfd0e96d8389898849d0f4e474f8b90]
 
 #### 6. Introductory
 
@@ -201,12 +201,12 @@ This Part of this Schedule provides for the following—
 (3) Sub-paragraph (1) has effect—
 
 - (a) in the case of relevant onward payments that relate to paragraph 7(1)(a), (b), (c) or (d), whenever the payments are received;
-- (b)[^key-fbea24138a3e3f98e98f2fc5d84d9a71][^key-77f9de5c6111bdcfc5e5e73d04d39a62] in the case of relevant onward payments that relate to paragraph 7(1)(e), where the payments are received on or after such date as is specified in the regulations concerned.
+- (b)[^c-fbea24138a3e3f98e98f2fc5d84d9a71][^c-77f9de5c6111bdcfc5e5e73d04d39a62] in the case of relevant onward payments that relate to paragraph 7(1)(e), where the payments are received on or after such date as is specified in the regulations concerned.
 
 (4) Sub-paragraph (2) has effect—
 
 - (a) in the case of relevant onward payments that relate to paragraph 7(1)(a), (b), (c) or (d), in relation to disposals whenever made;
-- (b)[^key-938a77256d2e928a1753a68e9d68728f][^key-25cb6924f647a7ce0906485ad014d524] in the case of relevant onward payments that relate to paragraph 7(1)(e), in relation to disposals made on or after such date as is specified in the regulations concerned.
+- (b)[^c-938a77256d2e928a1753a68e9d68728f][^c-25cb6924f647a7ce0906485ad014d524] in the case of relevant onward payments that relate to paragraph 7(1)(e), in relation to disposals made on or after such date as is specified in the regulations concerned.
 
 (5) The date specified in regulations as mentioned in sub-paragraph (3)(b) and (4)(b) may be a date before the regulations are made.
 
@@ -243,28 +243,28 @@ This Part of this Schedule provides for the following—
 
 ## Annotations
 
-[^key-4d029f7b1a4b4ad41f39e275796e4e51]: Textual amendment: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/part/1) heading inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/3/b)
+[^c-4d029f7b1a4b4ad41f39e275796e4e51]: Textual amendment: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/part/1) heading inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(3)(b)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/3/b)
 
-[^key-2b4f3c9f6eae92386d8ed5adbc0864aa]: Textual amendment: Words in [Sch. 15 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/1/1) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/3/c/i)
+[^c-2b4f3c9f6eae92386d8ed5adbc0864aa]: Textual amendment: Words in [Sch. 15 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/1/1) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(3)(c)(i)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/3/c/i)
 
-[^key-f66e6941d07505832e491d6df034e21e]: Textual amendment: Words in [Sch. 15 para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/1/2) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/3/c/ii)
+[^c-f66e6941d07505832e491d6df034e21e]: Textual amendment: Words in [Sch. 15 para. 1(2)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/1/2) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(3)(c)(ii)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/3/c/ii)
 
-[^key-8ccea64a197f26b72141a1da247f0647]: Modification: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/2) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/44/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+[^c-8ccea64a197f26b72141a1da247f0647]: Modification: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/2) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [44(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/44/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
 
-[^key-6a4a999a6fc2b55bc3105bc043c8ae5c]: Textual amendment: Words in [Sch. 15 para. 2(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/2/6) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(3)(c)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/3/c/iii)
+[^c-6a4a999a6fc2b55bc3105bc043c8ae5c]: Textual amendment: Words in [Sch. 15 para. 2(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/2/6) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(3)(c)(iii)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/3/c/iii)
 
-[^key-60087b9405dddde41e688a4ab2a48341]: Modification: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/3) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/44/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+[^c-60087b9405dddde41e688a4ab2a48341]: Modification: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/3) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [44(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/44/3) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
 
-[^key-e170f79c93cdaa85469f11cd26e83f73]: Modification: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/4) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [44(4)](https://www.legislation.gov.uk/uksi/2023/113/regulation/44/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+[^c-e170f79c93cdaa85469f11cd26e83f73]: Modification: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/4) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [44(4)](https://www.legislation.gov.uk/uksi/2023/113/regulation/44/4) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
 
-[^key-47ff61c84845eaeabcb11f7a79d506a3]: Modification: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/5) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [44(5)](https://www.legislation.gov.uk/uksi/2023/113/regulation/44/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
+[^c-47ff61c84845eaeabcb11f7a79d506a3]: Modification: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/5) modified (6.4.2023) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2023 (S.I. 2023/113)](https://www.legislation.gov.uk/uksi/2023/113), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/2), [44(5)](https://www.legislation.gov.uk/uksi/2023/113/regulation/44/5) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2023/113/regulation/1/3))
 
-[^key-ecfd0e96d8389898849d0f4e474f8b90]: Textual amendment: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/part/2) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/2)
+[^c-ecfd0e96d8389898849d0f4e474f8b90]: Textual amendment: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/part/2) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2024/3/section/12/2)
 
-[^key-fbea24138a3e3f98e98f2fc5d84d9a71]: Modification: [Sch. 15 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/10/3/b) applied (28.4.2025) by [The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025 (S.I. 2025/434)](https://www.legislation.gov.uk/uksi/2025/434), [regs. 1](https://www.legislation.gov.uk/uksi/2025/434/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2025/434/regulation/7/1)
+[^c-fbea24138a3e3f98e98f2fc5d84d9a71]: Modification: [Sch. 15 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/10/3/b) applied (28.4.2025) by [The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025 (S.I. 2025/434)](https://www.legislation.gov.uk/uksi/2025/434), [regs. 1](https://www.legislation.gov.uk/uksi/2025/434/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2025/434/regulation/7/1)
 
-[^key-77f9de5c6111bdcfc5e5e73d04d39a62]: Modification: [Sch. 15 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/10/3/b) applied (20.11.2025 in relation to payments and disposals received on or after 27.10.2025) by [The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025 (S.I. 2025/1130)](https://www.legislation.gov.uk/uksi/2025/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1130/regulation/1), [7](https://www.legislation.gov.uk/uksi/2025/1130/regulation/7)
+[^c-77f9de5c6111bdcfc5e5e73d04d39a62]: Modification: [Sch. 15 para. 10(3)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/10/3/b) applied (20.11.2025 in relation to payments and disposals received on or after 27.10.2025) by [The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025 (S.I. 2025/1130)](https://www.legislation.gov.uk/uksi/2025/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1130/regulation/1), [7](https://www.legislation.gov.uk/uksi/2025/1130/regulation/7)
 
-[^key-938a77256d2e928a1753a68e9d68728f]: Modification: [Sch. 15 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/10/4/b) applied (28.4.2025) by [The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025 (S.I. 2025/434)](https://www.legislation.gov.uk/uksi/2025/434), [regs. 1](https://www.legislation.gov.uk/uksi/2025/434/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2025/434/regulation/7/2)
+[^c-938a77256d2e928a1753a68e9d68728f]: Modification: [Sch. 15 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/10/4/b) applied (28.4.2025) by [The Horizon Shortfall Scheme Appeals (Tax Exemptions and Relief) Regulations 2025 (S.I. 2025/434)](https://www.legislation.gov.uk/uksi/2025/434), [regs. 1](https://www.legislation.gov.uk/uksi/2025/434/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2025/434/regulation/7/2)
 
-[^key-25cb6924f647a7ce0906485ad014d524]: Modification: [Sch. 15 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/10/4/b) applied (20.11.2025 in relation to payments and disposals received on or after 27.10.2025) by [The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025 (S.I. 2025/1130)](https://www.legislation.gov.uk/uksi/2025/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1130/regulation/1), [7](https://www.legislation.gov.uk/uksi/2025/1130/regulation/7)
+[^c-25cb6924f647a7ce0906485ad014d524]: Modification: [Sch. 15 para. 10(4)(b)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/15/paragraph/10/4/b) applied (20.11.2025 in relation to payments and disposals received on or after 27.10.2025) by [The Post Office Capture Redress Scheme (Tax Exemptions and Relief) Regulations 2025 (S.I. 2025/1130)](https://www.legislation.gov.uk/uksi/2025/1130), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1130/regulation/1), [7](https://www.legislation.gov.uk/uksi/2025/1130/regulation/7)

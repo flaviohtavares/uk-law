@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Disposal orders where animals taken[^key-a0d6cd5b70d96ee318d7cf3e2d128a55]
+## 34. Disposal orders where animals taken[^c-a0d6cd5b70d96ee318d7cf3e2d128a55]
 
 *Extent: S*
 
@@ -45,14 +45,14 @@ summary: ''
 - (d) a person—
   - (i) with whom an arrangement for the care of the animal has been made under that section, and
   - (ii) who is authorised by the Scottish Ministers to make the application,
-- (da)[^key-5ca3a51225b585d2da7687eaced87e61] an authorised person (as defined in section 32A) who does not fall within paragraphs (b) to (d), or
+- (da)[^c-5ca3a51225b585d2da7687eaced87e61] an authorised person (as defined in section 32A) who does not fall within paragraphs (b) to (d), or
 - (e) any other person appearing to the court to have a sufficient concern for the animal.
 
-(4A)[^key-d5bd422231c88d002ec7f6eb44f80d5c] A person mentioned in paragraphs (b) to (da) of subsection (4) may only make an application for an order under subsection (1) if a decision notice cannot be served under section 32C(2).
+(4A)[^c-d5bd422231c88d002ec7f6eb44f80d5c] A person mentioned in paragraphs (b) to (da) of subsection (4) may only make an application for an order under subsection (1) if a decision notice cannot be served under section 32C(2).
 
 (5) A person is entitled to be heard in relation to an application for an order under subsection (1) if (despite not being the applicant) the person is—
 
-- (a) a person mentioned in paragraph (a) to (c) , (da)[^key-906eb6515622f85a94dd0015faf9a701] or (e) of subsection (4), or
+- (a) a person mentioned in paragraph (a) to (c) , (da)[^c-906eb6515622f85a94dd0015faf9a701] or (e) of subsection (4), or
 - (b) a person—
   - (i) with whom an arrangement for the care of the animal has been made under section 32, and
   - (ii) who is authorised by the Scottish Ministers to be heard in relation to the application.
@@ -75,10 +75,10 @@ any sum which the owner is due from any proceeds of sale of the animal under thi
 
 ## Annotations
 
-[^key-a0d6cd5b70d96ee318d7cf3e2d128a55]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2006/11/section/34) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-a0d6cd5b70d96ee318d7cf3e2d128a55]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2006/11/section/34) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
 
-[^key-5ca3a51225b585d2da7687eaced87e61]: Textual amendment: [S. 34(4)(da)](https://www.legislation.gov.uk/asp/2006/11/section/34/4/da) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 21(a)](https://www.legislation.gov.uk/asp/2020/14/section/21/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/303/regulation/3))
+[^c-5ca3a51225b585d2da7687eaced87e61]: Textual amendment: [S. 34(4)(da)](https://www.legislation.gov.uk/asp/2006/11/section/34/4/da) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 21(a)](https://www.legislation.gov.uk/asp/2020/14/section/21/a), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/303/regulation/3))
 
-[^key-d5bd422231c88d002ec7f6eb44f80d5c]: Textual amendment: [S. 34(4A)](https://www.legislation.gov.uk/asp/2006/11/section/34/4A) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 21(b)](https://www.legislation.gov.uk/asp/2020/14/section/21/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/303/regulation/3))
+[^c-d5bd422231c88d002ec7f6eb44f80d5c]: Textual amendment: [S. 34(4A)](https://www.legislation.gov.uk/asp/2006/11/section/34/4A) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 21(b)](https://www.legislation.gov.uk/asp/2020/14/section/21/b), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/303/regulation/3))
 
-[^key-906eb6515622f85a94dd0015faf9a701]: Textual amendment: Words in [s. 34(5)(a)](https://www.legislation.gov.uk/asp/2006/11/section/34/5/a) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 21(c)](https://www.legislation.gov.uk/asp/2020/14/section/21/c), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/303/regulation/3))
+[^c-906eb6515622f85a94dd0015faf9a701]: Textual amendment: Words in [s. 34(5)(a)](https://www.legislation.gov.uk/asp/2006/11/section/34/5/a) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 21(c)](https://www.legislation.gov.uk/asp/2020/14/section/21/c), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/e) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/303/regulation/3))

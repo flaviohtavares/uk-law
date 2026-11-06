@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Greenhouse gases[^key-c89e9e98a15c82366995102ff765a866]
+## 10. Greenhouse gases[^c-c89e9e98a15c82366995102ff765a866]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) hydrofluorocarbons;
 - (e) perfluorocarbons;
 - (f) sulphur hexafluoride.
-- (g)[^key-221cab5ac259e3a8745a2bad27d193bd] nitrogen trifluoride.
+- (g)[^c-221cab5ac259e3a8745a2bad27d193bd] nitrogen trifluoride.
 
 (2) The Scottish Ministers may, if they consider it appropriate to do so, by order, modify subsection (1) so as to—
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c89e9e98a15c82366995102ff765a866]: Commencement: S. 10 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-c89e9e98a15c82366995102ff765a866]: Commencement: S. 10 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
 
-[^key-221cab5ac259e3a8745a2bad27d193bd]: Textual amendment: S. 10(1)(g) inserted (16.5.2015) by [The Climate Change (Additional Greenhouse Gas) (Scotland) Order 2015 (S.S.I. 2015/197)](https://www.legislation.gov.uk/ssi/2015/197), [arts. 1](https://www.legislation.gov.uk/ssi/2015/197/article/1), [2](https://www.legislation.gov.uk/ssi/2015/197/article/2)
+[^c-221cab5ac259e3a8745a2bad27d193bd]: Textual amendment: S. 10(1)(g) inserted (16.5.2015) by [The Climate Change (Additional Greenhouse Gas) (Scotland) Order 2015 (S.S.I. 2015/197)](https://www.legislation.gov.uk/ssi/2015/197), [arts. 1](https://www.legislation.gov.uk/ssi/2015/197/article/1), [2](https://www.legislation.gov.uk/ssi/2015/197/article/2)

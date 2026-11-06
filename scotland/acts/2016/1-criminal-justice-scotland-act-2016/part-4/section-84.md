@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Maximum term for weapons offences[^key-b3da21c6b22bcfb69d0bb10b8c4a3706]
+## 84. Maximum term for weapons offences[^c-b3da21c6b22bcfb69d0bb10b8c4a3706]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3da21c6b22bcfb69d0bb10b8c4a3706]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2016/1/section/84) in force at 10.3.2016 by [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))
+[^c-b3da21c6b22bcfb69d0bb10b8c4a3706]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2016/1/section/84) in force at 10.3.2016 by [S.S.I. 2016/95](https://www.legislation.gov.uk/ssi/2016/95), [art. 2](https://www.legislation.gov.uk/ssi/2016/95/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/95/article/3))

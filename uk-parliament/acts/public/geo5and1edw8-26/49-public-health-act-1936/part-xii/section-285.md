@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 285. Service of notices, &c.[^c611753][^key-f1692b6df441ec66dd62ef18415543d1][^key-22eb93f7af2596fb370d99256bbf67cf][^key-49a1c9d609625b518b2d603abe9dbccc][^key-5db33b5ee2df45fc139fdec5d9a40f38][^c611752]
+## 285. Service of notices, &c.[^c611753][^c-f1692b6df441ec66dd62ef18415543d1][^c-22eb93f7af2596fb370d99256bbf67cf][^c-49a1c9d609625b518b2d603abe9dbccc][^c-5db33b5ee2df45fc139fdec5d9a40f38][^c611752]
 
 *Extent: E+W*
 
@@ -33,13 +33,13 @@ Any notice, order, consent, demand or other document which is required or author
 
 [^c611753]: Modification: References to a specified officer of a local authority to be construed as references to a proper officer of a local authority: [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 29 Pt. I para. 4](https://www.legislation.gov.uk/ukpga/1972/70/schedule/29/part/I/paragraph/4)
 
-[^key-f1692b6df441ec66dd62ef18415543d1]: Modification: S. 285 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
+[^c-f1692b6df441ec66dd62ef18415543d1]: Modification: S. 285 applied (with modifications) (13.7.2004) by [London Local Authorities Act 2004 (c. i)](https://www.legislation.gov.uk/ukla/2004/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2004/1/section/1/1), [9](https://www.legislation.gov.uk/ukla/2004/1/section/9), [Sch. 1](https://www.legislation.gov.uk/ukla/2004/1/schedule/1)
 
-[^key-22eb93f7af2596fb370d99256bbf67cf]: Modification: S. 285 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
+[^c-22eb93f7af2596fb370d99256bbf67cf]: Modification: S. 285 applied (with modifications) (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 1(3)](https://www.legislation.gov.uk/ukla/2007/2/section/1/3), [Sch. 1](https://www.legislation.gov.uk/ukla/2007/2/schedule/1)
 
-[^key-49a1c9d609625b518b2d603abe9dbccc]: Modification: S. 285 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)
+[^c-49a1c9d609625b518b2d603abe9dbccc]: Modification: S. 285 modified (21.9.2008) by [London Local Authorities and Transport for London Act 2008 (c. iii)](https://www.legislation.gov.uk/ukla/2008/3), [ss. 1(2)](https://www.legislation.gov.uk/ukla/2008/3/section/1/2), [11(4)](https://www.legislation.gov.uk/ukla/2008/3/section/11/4), [Sch. 1](https://www.legislation.gov.uk/ukla/2008/3/schedule/1)
 
-[^key-5db33b5ee2df45fc139fdec5d9a40f38]: Modification: S. 285 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 39(5)](https://www.legislation.gov.uk/ukla/2009/1/section/39/5), [Sch. 5](https://www.legislation.gov.uk/ukla/2009/1/schedule/5) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [41(4)](https://www.legislation.gov.uk/ukla/2009/1/section/41/4), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/section/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/section/3))
+[^c-5db33b5ee2df45fc139fdec5d9a40f38]: Modification: S. 285 applied (with modifications) (2.7.2009) by [Broads Authority Act 2009 (c. i)](https://www.legislation.gov.uk/ukla/2009/1), [s. 39(5)](https://www.legislation.gov.uk/ukla/2009/1/section/39/5), [Sch. 5](https://www.legislation.gov.uk/ukla/2009/1/schedule/5) (with [ss. 2(3)](https://www.legislation.gov.uk/ukla/2009/1/section/2/3), [16(3)](https://www.legislation.gov.uk/ukla/2009/1/section/16/3), [41(4)](https://www.legislation.gov.uk/ukla/2009/1/section/41/4), [42](https://www.legislation.gov.uk/ukla/2009/1/section/42), [Sch. 6 Pts. 2](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/section/2), [3](https://www.legislation.gov.uk/ukla/2009/1/schedule/6/part/section/3))
 
 [^c611752]: Modification: S. 285 extended by [Thermal Insulation (Industrial Buildings) Act 1957 (c. 40)](https://www.legislation.gov.uk/ukpga/1957/40), [s. 8(1)](https://www.legislation.gov.uk/ukpga/1957/40/section/8/1) which 1957 Act was repealed (E.W.) by [S.I. 1985/1936](https://www.legislation.gov.uk/uksi/1985/1936), [reg. 3(2)](https://www.legislation.gov.uk/uksi/1985/1936/regulation/3/2), [Sch. 4](https://www.legislation.gov.uk/uksi/1985/1936/schedule/4)
 

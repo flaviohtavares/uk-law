@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 17A. Statements of benefits: collective money purchase schemes[^key-cc9fdf43fc642468979bcfeba5428aaf]
+## 17A. Statements of benefits: collective money purchase schemes[^c-cc9fdf43fc642468979bcfeba5428aaf]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc9fdf43fc642468979bcfeba5428aaf]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2014/79/regulation/17A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(6)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/6)
+[^c-cc9fdf43fc642468979bcfeba5428aaf]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2014/79/regulation/17A) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2022 (S.R. 2022/192)](https://www.legislation.gov.uk/nisr/2022/192), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/192/regulation/1/1), [13(6)](https://www.legislation.gov.uk/nisr/2022/192/regulation/13/6)

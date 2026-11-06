@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43.4. Bail pending appeal[^key-e21b3e785f3ac485fdfcb867dbed221a]
+## 43.4. Bail pending appeal[^c-e21b3e785f3ac485fdfcb867dbed221a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Rules 39.8 (Application for bail pending appeal or retrial), 39.9 (Conditions of
 
 ## Annotations
 
-[^key-e21b3e785f3ac485fdfcb867dbed221a]: Commencement: [Rule 43.4](https://www.legislation.gov.uk/uksi/2025/909/rule/43.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-e21b3e785f3ac485fdfcb867dbed221a]: Commencement: [Rule 43.4](https://www.legislation.gov.uk/uksi/2025/909/rule/43.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

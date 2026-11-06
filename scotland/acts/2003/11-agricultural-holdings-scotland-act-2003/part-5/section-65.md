@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Termination of tenancy[^key-a6c1e29e24716512303f2eb472f47677]
+## 65. Termination of tenancy[^c-a6c1e29e24716512303f2eb472f47677]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ After section 16 (leases not terminated by variation of terms, etc.) of the 1991
 
 ## Annotations
 
-[^key-a6c1e29e24716512303f2eb472f47677]: Commencement: S. 65 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-a6c1e29e24716512303f2eb472f47677]: Commencement: S. 65 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

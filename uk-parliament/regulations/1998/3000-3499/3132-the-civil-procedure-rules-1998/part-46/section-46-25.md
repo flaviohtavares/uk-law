@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.25. Opting out, and other cases where rules 46.26 to 46.28 do not apply to a claimant[^key-99da5a9368fc8b2e1b31a63cfd14f588][^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 46.25. Opting out, and other cases where rules 46.26 to 46.28 do not apply to a claimant[^c-99da5a9368fc8b2e1b31a63cfd14f588][^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-99da5a9368fc8b2e1b31a63cfd14f588]: Textual amendment: [Pt. 46 Section 9](https://www.legislation.gov.uk/uksi/1998/3132/part/46/section/9) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2023/572/rule/16/6) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
+[^c-99da5a9368fc8b2e1b31a63cfd14f588]: Textual amendment: [Pt. 46 Section 9](https://www.legislation.gov.uk/uksi/1998/3132/part/46/section/9) inserted (1.10.2023) by [The Civil Procedure (Amendment No. 2) Rules 2023 (S.I. 2023/572)](https://www.legislation.gov.uk/uksi/2023/572), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/572/rule/1/1), [16(6)](https://www.legislation.gov.uk/uksi/2023/572/rule/16/6) (with [rule 2](https://www.legislation.gov.uk/uksi/2023/572/rule/2))
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))

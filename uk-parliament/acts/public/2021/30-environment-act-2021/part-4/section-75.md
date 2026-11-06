@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Compulsory recall notices[^key-254a3a3899b9ea77e6149540ee0c2eb5][^key-c3408bf699787d09fc1192fbae444d0f]
+## 75. Compulsory recall notices[^c-254a3a3899b9ea77e6149540ee0c2eb5][^c-c3408bf699787d09fc1192fbae444d0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-254a3a3899b9ea77e6149540ee0c2eb5]: Commencement: S. 75 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-254a3a3899b9ea77e6149540ee0c2eb5]: Commencement: S. 75 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-c3408bf699787d09fc1192fbae444d0f]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2021/30/section/75) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/b)
+[^c-c3408bf699787d09fc1192fbae444d0f]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2021/30/section/75) in force at 17.5.2024 by [S.I. 2024/639](https://www.legislation.gov.uk/uksi/2024/639), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/639/regulation/2/b)

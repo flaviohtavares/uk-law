@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Adult dependants’ grant[^key-8aa1ac98cd3ee4cacedcf89addabec11]
+## 42. Adult dependants’ grant[^c-8aa1ac98cd3ee4cacedcf89addabec11]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa1ac98cd3ee4cacedcf89addabec11]: Commencement: Reg. 42 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-8aa1ac98cd3ee4cacedcf89addabec11]: Commencement: Reg. 42 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

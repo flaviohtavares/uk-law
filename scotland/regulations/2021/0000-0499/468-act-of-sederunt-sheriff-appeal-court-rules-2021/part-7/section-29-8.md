@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29.8. Questions about competency: determination[^key-b2a81d9fdfc50c8ae57140fdcaeae30d]
+## 29.8. Questions about competency: determination[^c-b2a81d9fdfc50c8ae57140fdcaeae30d]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2a81d9fdfc50c8ae57140fdcaeae30d]: Commencement: Para. 29.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-b2a81d9fdfc50c8ae57140fdcaeae30d]: Commencement: Para. 29.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

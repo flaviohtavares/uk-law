@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Acquisition, deposit and disposal of objects[^key-b08c73db363bf111ef9a44f6590aeb34]
+## 6. Acquisition, deposit and disposal of objects[^c-b08c73db363bf111ef9a44f6590aeb34]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ any object which it considers it is desirable to add to its collections.
 
 ## Annotations
 
-[^key-b08c73db363bf111ef9a44f6590aeb34]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/19/section/6) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-b08c73db363bf111ef9a44f6590aeb34]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2014/19/section/6) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

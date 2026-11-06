@@ -42,13 +42,13 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with section 88(3) of that Act, a draft of this instrument was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and application[^key-1e7ea58b8d8803fc3d9cd065fa42fa5c]
+## 1. Citation, commencement and application[^c-1e7ea58b8d8803fc3d9cd065fa42fa5c]
 
 (1) This Order may be cited as the Redress Schemes for Lettings Agency Work and Property Management Work (Approval and Designation of Schemes) (England) Order 2013 and comes into force on the day after the day on which it is made.
 
 (2) This Order applies in relation to England only.
 
-## 2. Interpretation[^key-9f5c227160e15d5a96376d59643ba492]
+## 2. Interpretation[^c-9f5c227160e15d5a96376d59643ba492]
 
 In this Order—
 
@@ -57,7 +57,7 @@ In this Order—
 - “ombudsman” means the independent person mentioned in section 83(2) of the 2013 Act;
 - “scheme administrator” means the person who administers an approved scheme.
 
-## 3. Applications for approval[^key-777ecebcfc30419f194c5ee75ebdcdcc]
+## 3. Applications for approval[^c-777ecebcfc30419f194c5ee75ebdcdcc]
 
 (1) An application to the Secretary of State for approval of a redress scheme must —
 
@@ -82,7 +82,7 @@ are satisfactory for the purposes of section 83 (where the scheme applies to let
 
 (6) The Secretary of State must not approve the amendment unless the amended scheme meets the conditions in paragraph (2).
 
-## 4. Conditions which must be satisfied before approval may be given[^key-36a2ff4828d2c095e3783afd1d537d69]
+## 4. Conditions which must be satisfied before approval may be given[^c-36a2ff4828d2c095e3783afd1d537d69]
 
 (1) Without prejudice to the generality of article 3(2), a scheme must not be approved unless the Secretary of State considers that it makes satisfactory provision for–—
 
@@ -111,7 +111,7 @@ are satisfactory for the purposes of section 83 (where the scheme applies to let
   - (i) the activities of persons engaging in lettings agency work, where the scheme applies to lettings agency work;
   - (ii) the activities of persons engaging in property management work, where the scheme applies to property management work.
 
-## 5. Conditions which must be satisfied before a scheme may be designated as a government administered redress scheme[^key-b587cecf9bc747091c4e969b46bc33a9]
+## 5. Conditions which must be satisfied before a scheme may be designated as a government administered redress scheme[^c-b587cecf9bc747091c4e969b46bc33a9]
 
 (1) A scheme must not be designated as a government administered redress scheme unless the Secretary of State considers that it makes satisfactory provision for–—
 
@@ -139,7 +139,7 @@ are satisfactory for the purposes of section 83 (where the scheme applies to let
   - (i) the activities of persons engaging in lettings agency work, where the scheme applies to lettings agency work;
   - (ii) the activities of persons engaging in property management work, where the scheme applies to property management work.
 
-## 6. Satisfactory provision[^key-d0d67df65986efafb3ad0c5c09e8cc55]
+## 6. Satisfactory provision[^c-d0d67df65986efafb3ad0c5c09e8cc55]
 
 (1) In deciding whether a redress scheme, or any conditions mentioned in articles 4 or 5 are satisfactory, the Secretary of State must have regard to–—
 
@@ -154,11 +154,11 @@ are satisfactory for the purposes of section 83 (where the scheme applies to let
 
 (2) In considering the interests mentioned in paragraph (1), the Secretary of State may have regard to the number of other redress schemes which are (or are likely to become) approved schemes or government administered redress schemes.
 
-## 7. Condition with which scheme administrators must comply[^key-f9e86776795c8a8b37b9f553928c03cc]
+## 7. Condition with which scheme administrators must comply[^c-f9e86776795c8a8b37b9f553928c03cc]
 
 The scheme administrator must provide such information as the Secretary of State may reasonably require on the operation of the approved scheme.
 
-## 8. Withdrawal of approval[^key-4655b0436f4ec840064a59606e2a7313]
+## 8. Withdrawal of approval[^c-4655b0436f4ec840064a59606e2a7313]
 
 (1) The Secretary of State may withdraw the approval of a redress scheme.
 
@@ -176,7 +176,7 @@ The scheme administrator must provide such information as the Secretary of State
 
 (4) If the Secretary of State withdraws approval of the scheme, the scheme administrator must give a copy of the notice served by the Secretary of State under paragraph (3) to every member of the scheme before the end of the period of 30 days beginning with the day on which the scheme administrator first received the notice.
 
-## 9. Revocation of designation[^key-2af9d321ea1fca7816d86ef285c505de]
+## 9. Revocation of designation[^c-2af9d321ea1fca7816d86ef285c505de]
 
 (1) The Secretary of State may revoke the designation of a government administered redress scheme.
 
@@ -210,22 +210,22 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [2013 c.24](https://www.legislation.gov.uk/ukpga/2013/24)
 
-[^key-1e7ea58b8d8803fc3d9cd065fa42fa5c]: Commencement: Art. 1 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
+[^c-1e7ea58b8d8803fc3d9cd065fa42fa5c]: Commencement: Art. 1 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
 
-[^key-9f5c227160e15d5a96376d59643ba492]: Commencement: Art. 2 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
+[^c-9f5c227160e15d5a96376d59643ba492]: Commencement: Art. 2 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
 
-[^key-777ecebcfc30419f194c5ee75ebdcdcc]: Commencement: Art. 3 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
+[^c-777ecebcfc30419f194c5ee75ebdcdcc]: Commencement: Art. 3 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
 
-[^key-36a2ff4828d2c095e3783afd1d537d69]: Commencement: Art. 4 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
+[^c-36a2ff4828d2c095e3783afd1d537d69]: Commencement: Art. 4 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
 
 [^f00002]: Footnote: [1993 c.28](https://www.legislation.gov.uk/ukpga/1993/28). At present, there are three approved codes of management practice in England. These are *The Rent Only Management Code*, approved by the Approval of Codes of Management Practice (Residential Property) (England) Order 2004 ([S.I. 2004/1802](https://www.legislation.gov.uk/uksi/2004/1802)); *The Code of Management Practice for Private Retirement Housing* (with the exception of appendices 4 to 6 which are not within the approval), approved by the Approval of Code of Management Practice (Private Retirement Housing) (England) (Order) 2005 ([S.I. 2005/3307](https://www.legislation.gov.uk/uksi/2005/3307)); and the *Service Charge Residential Management Code*, approved by the Approval of Code of Management Practice (Residential Management) (Service Charges) (England) Order 2009 ([S.I. 2009/512](https://www.legislation.gov.uk/uksi/2009/512)).
 
-[^key-b587cecf9bc747091c4e969b46bc33a9]: Commencement: Art. 5 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
+[^c-b587cecf9bc747091c4e969b46bc33a9]: Commencement: Art. 5 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
 
-[^key-d0d67df65986efafb3ad0c5c09e8cc55]: Commencement: Art. 6 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
+[^c-d0d67df65986efafb3ad0c5c09e8cc55]: Commencement: Art. 6 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
 
-[^key-f9e86776795c8a8b37b9f553928c03cc]: Commencement: Art. 7 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
+[^c-f9e86776795c8a8b37b9f553928c03cc]: Commencement: Art. 7 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
 
-[^key-4655b0436f4ec840064a59606e2a7313]: Commencement: Art. 8 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
+[^c-4655b0436f4ec840064a59606e2a7313]: Commencement: Art. 8 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
 
-[^key-2af9d321ea1fca7816d86ef285c505de]: Commencement: Art. 9 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)
+[^c-2af9d321ea1fca7816d86ef285c505de]: Commencement: Art. 9 in force at 14.12.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/3192/article/1/1)

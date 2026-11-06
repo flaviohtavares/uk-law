@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**21.**[^key-1c4c405052e0142c9b2eacbd6d8c7259] The provisions referred to in regulation 20(a) are that—
+**21.**[^c-1c4c405052e0142c9b2eacbd6d8c7259] The provisions referred to in regulation 20(a) are that—
 
 - (a) reimbursement for which the arrangements provide will be completed by no later than 90 days after the repayment to which it relates;
 - (b) no deduction will be made from the relevant amount by way of fee or charge (however expressed or effected);
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c4c405052e0142c9b2eacbd6d8c7259]: Commencement: Reg. 21 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-1c4c405052e0142c9b2eacbd6d8c7259]: Commencement: Reg. 21 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

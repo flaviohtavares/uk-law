@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001[^key-abef92e00dd617fa1713734d2e6ee56f]
+## 96. Child Support (Maintenance Calculations and Special Cases) Regulations (Northern Ireland) 2001[^c-abef92e00dd617fa1713734d2e6ee56f]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 1(2) of the Child Support (Maintenance Calculations and Special Ca
 
 ## Annotations
 
-[^key-abef92e00dd617fa1713734d2e6ee56f]: Commencement: Reg. 96 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-abef92e00dd617fa1713734d2e6ee56f]: Commencement: Reg. 96 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00159]: Footnote: [S.R. (N.I.) 2001/18](https://www.legislation.gov.uk/nisr/2001/18). In regulation 1(2), the definition of “couple” was substituted by paragraph 7 of Schedule 4 to [S.R. (N.I.) 2005/536](https://www.legislation.gov.uk/nisr/2005/536).

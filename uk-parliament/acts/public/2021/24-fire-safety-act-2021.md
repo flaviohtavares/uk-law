@@ -35,7 +35,7 @@ An Act to make provision about the application of the Regulatory Reform (Fire Sa
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Premises to which the Fire Safety Order applies[^key-3362d5245b7d05cb7d82539a8a2de5ab][^key-291fc341510b71d5b6904f55b1b662e0]
+## 1. Premises to which the Fire Safety Order applies[^c-3362d5245b7d05cb7d82539a8a2de5ab][^c-291fc341510b71d5b6904f55b1b662e0]
 
 In article 6 of the Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541) (application to premises)—
 
@@ -79,7 +79,7 @@ In article 6 of the Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541) 
 
 (8) A statutory instrument containing regulations made by the Welsh Ministers under subsection (1) may not be made unless a draft of the instrument has been laid before and approved by a resolution of Senedd Cymru.
 
-## 3. Risk based guidance about the discharge of duties under the Fire Safety Order[^key-8158e47847181b47e246493931cb4aa2]
+## 3. Risk based guidance about the discharge of duties under the Fire Safety Order[^c-8158e47847181b47e246493931cb4aa2]
 
 (1) Article 50 of the Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541) (guidance) is amended as follows.
 
@@ -122,8 +122,8 @@ In article 6 of the Regulatory Reform (Fire Safety) Order 2005 (S.I. 2005/1541) 
 
 ## Annotations
 
-[^key-3362d5245b7d05cb7d82539a8a2de5ab]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/24/section/1) in force at 1.10.2021 for W. by [S.I. 2021/1092](https://www.legislation.gov.uk/wsi/2021/1092), [reg. 2](https://www.legislation.gov.uk/wsi/2021/1092/regulation/2)
+[^c-3362d5245b7d05cb7d82539a8a2de5ab]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/24/section/1) in force at 1.10.2021 for W. by [S.I. 2021/1092](https://www.legislation.gov.uk/wsi/2021/1092), [reg. 2](https://www.legislation.gov.uk/wsi/2021/1092/regulation/2)
 
-[^key-291fc341510b71d5b6904f55b1b662e0]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/24/section/1) in force at 16.5.2022 for E. by [S.I. 2022/544](https://www.legislation.gov.uk/uksi/2022/544), [reg. 2](https://www.legislation.gov.uk/uksi/2022/544/regulation/2)
+[^c-291fc341510b71d5b6904f55b1b662e0]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2021/24/section/1) in force at 16.5.2022 for E. by [S.I. 2022/544](https://www.legislation.gov.uk/uksi/2022/544), [reg. 2](https://www.legislation.gov.uk/uksi/2022/544/regulation/2)
 
-[^key-8158e47847181b47e246493931cb4aa2]: Commencement: S. 3 in force at 16.5.2022, see s. 4(5) and [S.I. 2022/544](https://www.legislation.gov.uk/uksi/2022/544), [reg. 2](https://www.legislation.gov.uk/uksi/2022/544/regulation/2)
+[^c-8158e47847181b47e246493931cb4aa2]: Commencement: S. 3 in force at 16.5.2022, see s. 4(5) and [S.I. 2022/544](https://www.legislation.gov.uk/uksi/2022/544), [reg. 2](https://www.legislation.gov.uk/uksi/2022/544/regulation/2)

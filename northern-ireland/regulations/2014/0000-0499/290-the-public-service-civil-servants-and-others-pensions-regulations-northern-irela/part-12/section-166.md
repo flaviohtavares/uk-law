@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 166. Forfeiture: offences committed by a member’s beneficiary[^key-726f19daf8152b26614af90d2a7b08c7]
+## 166. Forfeiture: offences committed by a member’s beneficiary[^c-726f19daf8152b26614af90d2a7b08c7]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-726f19daf8152b26614af90d2a7b08c7]: Commencement: [Reg. 166](https://www.legislation.gov.uk/nisr/2014/290/regulation/166) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-726f19daf8152b26614af90d2a7b08c7]: Commencement: [Reg. 166](https://www.legislation.gov.uk/nisr/2014/290/regulation/166) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 14, 16(3) and 16(4) of the Agriculture Act 2020[^f00001].
 
-## 1. Citation, commencement, extent, application and interpretation[^key-bb7cfc9438bfd94f255e0daeeb63f3d6]
+## 1. Citation, commencement, extent, application and interpretation[^c-bb7cfc9438bfd94f255e0daeeb63f3d6]
 
 (1) These Regulations may be cited as the Rural Development (Amendment) (England) Regulations 2022 and come into force on 28th July 2022.
 
@@ -58,7 +58,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (b) [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00003]; or
 - (c) Regulation [(EC) No 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)[^f00004].
 
-## 2. Commission Delegated [Regulation (EU) No 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817)[^key-4470becaf0a797333c132ba14f101b18]
+## 2. Commission Delegated [Regulation (EU) No 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817)[^c-4470becaf0a797333c132ba14f101b18]
 
 (1) [Commission Regulation (EC) No 817/2004](https://www.legislation.gov.uk/european/regulation/2004/0817) laying down detailed rules for the application of Council Regulation [(EC) No 1257/1999](https://www.legislation.gov.uk/european/regulation/1999/1257) on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF)[^f00005], is amended as follows.
 
@@ -67,19 +67,19 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) in the first paragraph for “the beneficiary shall reimburse the assistance granted” substitute “reimbursement shall not be required in respect of the period during which the commitment was effective”;
 - (b) omit the second and third paragraphs.
 
-## 3. [Regulation (EU) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^key-2291df7d6e74d14e2d89985e45400977]
+## 3. [Regulation (EU) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698)[^c-2291df7d6e74d14e2d89985e45400977]
 
 (1) [Regulation (EU) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) is amended as follows.
 
 (2) In Article 39 (agri-environment payments), in paragraph 3, in the second sub-paragraph, for the words from “between five” to “of commitments” substitute “of at least three years. However, a commitment for a shorter period may be permitted where this is necessary and justified”.
 
-## 4. [Commission Regulation (EC) No 1974/2006](https://www.legislation.gov.uk/european/regulation/2006/1974)[^key-a92022cc819a0b39e97ca56af057b6c7]
+## 4. [Commission Regulation (EC) No 1974/2006](https://www.legislation.gov.uk/european/regulation/2006/1974)[^c-a92022cc819a0b39e97ca56af057b6c7]
 
 (1) [Commission Regulation (EC) No 1974/2006](https://www.legislation.gov.uk/european/regulation/2006/1974) laying down detailed rules for the application of Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) on support for rural development by the European Agricultural Fund for Rural Development (EAFRD)[^f00006], is amended as follows.
 
 (2) For Article 44 (transfer of holding), substitute “Where all or part of the holding is transferred to another person during the period of that commitment, the commitment, or the part corresponding to the land transferred, may be taken over for the remainder of the period by that other person or may expire. Reimbursement shall not be required in respect of the period during which the commitment was effective.
 
-## 5. [Commission Regulation (EU) No 1975/2006](https://www.legislation.gov.uk/european/regulation/2006/1975)[^key-1c34b32c75ffc03b4d34b703fb44cae1]
+## 5. [Commission Regulation (EU) No 1975/2006](https://www.legislation.gov.uk/european/regulation/2006/1975)[^c-1c34b32c75ffc03b4d34b703fb44cae1]
 
 (1) [Commission Regulation (EU) No 1975/2006](https://www.legislation.gov.uk/european/regulation/2006/1975) laying down detailed rules for the implementation of Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698), as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures[^f00007], is amended as follows.
 
@@ -95,7 +95,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) in paragraph 1, omit the third and fourth sub-paragraphs.
 - (b) in paragraph 2, for “shall” in each place it occurs, substitute “may”.
 
-## 6. [Commission Regulation (EU) No 65/2011](https://www.legislation.gov.uk/european/regulation/2011/0065)[^key-aec1001a4e317eb95ec80ecb388bb0d5]
+## 6. [Commission Regulation (EU) No 65/2011](https://www.legislation.gov.uk/european/regulation/2011/0065)[^c-aec1001a4e317eb95ec80ecb388bb0d5]
 
 (1) Commission Delegated [Regulation (EU) No 65/2011](https://www.legislation.gov.uk/european/regulation/2011/0065) laying down detailed rules for the implementation of Council Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698), as regards the implementation of control procedures as well as cross-compliance in respect of rural development support measures[^f00008], is amended as follows.
 
@@ -108,7 +108,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) In paragraph 1, for “shall”, substitute “may”;
 - (b) omit paragraphs 2 and 3.
 
-## 7. [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305)[^key-1246ef52b62981e3c07c115e43847fcc]
+## 7. [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305)[^c-1246ef52b62981e3c07c115e43847fcc]
 
 (1) [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) is amended as follows.
 
@@ -120,7 +120,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (b) omit “in their rural development programmes” in both places in which it occurs;
 - (c) for “annual” substitute “their”.
 
-## 8. [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^key-c9fe1f0d7b8f2e3024861df128550849]
+## 8. [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306)[^c-c9fe1f0d7b8f2e3024861df128550849]
 
 (1) [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy[^f00009] is amended insofar as it relates to rural development support measures, as follows.
 
@@ -134,7 +134,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) In Article 77 (application of administrative penalties - integrated administration and control system), in paragraph 5, omit the words from “and graduated” to “non-compliance found”.
 
-## 9. Commission Delegated [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^key-a73dc19f305bb71b75d1e1ed0fcc1694]
+## 9. Commission Delegated [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640)[^c-a73dc19f305bb71b75d1e1ed0fcc1694]
 
 (1) Commission Delegated [Regulation (EU) No 640/2014](https://www.legislation.gov.uk/european/regulation/2014/0640) supplementing [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to the integrated administration and control system and conditions for refusal or withdrawal of payments and administrative penalties applicable to direct payments, rural development support and cross compliance[^f00010], is amended, insofar as it relates to rural development support measures, as follows.
 
@@ -176,7 +176,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (e) in paragraph 5, for “shall”, in both places it occurs, substitute “may”;
 - (f) in paragraph 6, for “shall”, in both places it occurs, substitute “may”.
 
-## 10. Commission Delegated [Regulation (EU) No 807/2014](https://www.legislation.gov.uk/european/regulation/2014/0807)[^key-8875b0d5130aefbfe347b585c49c38cd]
+## 10. Commission Delegated [Regulation (EU) No 807/2014](https://www.legislation.gov.uk/european/regulation/2014/0807)[^c-8875b0d5130aefbfe347b585c49c38cd]
 
 (1) Commission Delegated [Regulation (EU) No 807/2014](https://www.legislation.gov.uk/european/regulation/2014/0807) supplementing [Regulation (EU) No 1305/2013](https://www.legislation.gov.uk/european/regulation/2013/1305) of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) and introducing transitional provisions[^f00011], is amended as follows.
 
@@ -185,7 +185,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) omit the words from “the approved” to “and that”;
 - (b) omit the words from “The beneficiary” to “original commitment.”
 
-## 11. Commission Implementing [Regulation (EU) No 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^key-c038f0e47eaa71c147a68203f9786369]
+## 11. Commission Implementing [Regulation (EU) No 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809)[^c-c038f0e47eaa71c147a68203f9786369]
 
 (1) Commission Implementing [Regulation (EU) No 809/2014](https://www.legislation.gov.uk/european/regulation/2014/0809) laying down rules for the application of [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council on the integrated administration and control system, rural development measures and cross compliance[^f00012], is amended insofar as it relates to rural development support measures as follows.
 
@@ -213,11 +213,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (a) omit paragraph 2;
 - (b) in paragraph 3, omit “Between 20 % and 25 % of the sample shall be selected randomly.”.
 
-(11)[^key-42073421e4637d9ad0d028dc9ca072a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-42073421e4637d9ad0d028dc9ca072a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-42073421e4637d9ad0d028dc9ca072a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-42073421e4637d9ad0d028dc9ca072a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Commission Implementing [Regulation (EU) No 908/2014](https://www.legislation.gov.uk/european/regulation/2014/0908)[^key-62d4118fa7e3839b55b51aa805429567]
+## 12. Commission Implementing [Regulation (EU) No 908/2014](https://www.legislation.gov.uk/european/regulation/2014/0908)[^c-62d4118fa7e3839b55b51aa805429567]
 
 (1) Commission Implementing [Regulation (EU) No 908/2014](https://www.legislation.gov.uk/european/regulation/2014/0908) laying down rules for the application of [Regulation (EU) No 1306/2013](https://www.legislation.gov.uk/european/regulation/2013/1306) of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency[^f00013], is amended, insofar as it relates to rural development measures, as follows.
 
@@ -257,7 +257,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2020 c. 21](https://www.legislation.gov.uk/ukpga/2020/21).
 
-[^key-bb7cfc9438bfd94f255e0daeeb63f3d6]: Commencement: Reg. 1 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-bb7cfc9438bfd94f255e0daeeb63f3d6]: Commencement: Reg. 1 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00002]: Footnote: EUR 2005/1698, amended by [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764); there are other amending instruments, but none is relevant.
 
@@ -265,44 +265,44 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00004]: Footnote: EUR 1999/1257, amended by [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764); there are other amending instruments, but none is relevant.
 
-[^key-4470becaf0a797333c132ba14f101b18]: Commencement: Reg. 2 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-4470becaf0a797333c132ba14f101b18]: Commencement: Reg. 2 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00005]: Footnote: EUR 2014/817, there are other amending instruments but none is relevant.
 
-[^key-2291df7d6e74d14e2d89985e45400977]: Commencement: Reg. 3 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-2291df7d6e74d14e2d89985e45400977]: Commencement: Reg. 3 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
-[^key-a92022cc819a0b39e97ca56af057b6c7]: Commencement: Reg. 4 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-a92022cc819a0b39e97ca56af057b6c7]: Commencement: Reg. 4 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00006]: Footnote: EUR 2006/1974, as saved (with modifications) in respect of operations implemented pursuant to programmes approved by the Commission under Regulation [(EC) No 1698/2005](https://www.legislation.gov.uk/european/regulation/2005/1698) before 1st January 2014 by Article 19 of EUR 2014/807.
 
-[^key-1c34b32c75ffc03b4d34b703fb44cae1]: Commencement: Reg. 5 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-1c34b32c75ffc03b4d34b703fb44cae1]: Commencement: Reg. 5 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00007]: Footnote: EUR 2006/1975, as saved in respect of payment claims submitted before 1st January 2011 by Article 34 of EUR 2011/65.
 
-[^key-aec1001a4e317eb95ec80ecb388bb0d5]: Commencement: Reg. 6 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-aec1001a4e317eb95ec80ecb388bb0d5]: Commencement: Reg. 6 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00008]: Footnote: EUR 2011/65, as saved (for certain purposes) by Article 43 of EUR 2014/640.
 
-[^key-1246ef52b62981e3c07c115e43847fcc]: Commencement: Reg. 7 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-1246ef52b62981e3c07c115e43847fcc]: Commencement: Reg. 7 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
-[^key-c9fe1f0d7b8f2e3024861df128550849]: Commencement: Reg. 8 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-c9fe1f0d7b8f2e3024861df128550849]: Commencement: Reg. 8 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00009]: Footnote: EUR 2013/1306, amended by [S.I. 2019/763](https://www.legislation.gov.uk/uksi/2019/763); there are other amending instruments but none is relevant.
 
-[^key-a73dc19f305bb71b75d1e1ed0fcc1694]: Commencement: Reg. 9 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-a73dc19f305bb71b75d1e1ed0fcc1694]: Commencement: Reg. 9 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00010]: Footnote: EUR 2014/640, as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445) and [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765); there are other amending instruments, but none is relevant.
 
-[^key-8875b0d5130aefbfe347b585c49c38cd]: Commencement: Reg. 10 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-8875b0d5130aefbfe347b585c49c38cd]: Commencement: Reg. 10 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00011]: Footnote: EUR 2014/807, amended by [S.I. 2019/770](https://www.legislation.gov.uk/uksi/2019/770); there are other amending instruments but none is relevant.
 
-[^key-c038f0e47eaa71c147a68203f9786369]: Commencement: Reg. 11 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-c038f0e47eaa71c147a68203f9786369]: Commencement: Reg. 11 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00012]: Footnote: EUR 2014/809, amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765), [2020/1445](https://www.legislation.gov.uk/uksi/2020/1445); there are other amending instruments but none is relevant.
 
-[^key-42073421e4637d9ad0d028dc9ca072a6]: Textual amendment: [Reg. 11(11)](https://www.legislation.gov.uk/uksi/2022/765/regulation/11/11)[(12)](https://www.legislation.gov.uk/uksi/2022/765/regulation/11/12) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-42073421e4637d9ad0d028dc9ca072a6]: Textual amendment: [Reg. 11(11)](https://www.legislation.gov.uk/uksi/2022/765/regulation/11/11)[(12)](https://www.legislation.gov.uk/uksi/2022/765/regulation/11/12) revoked (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-62d4118fa7e3839b55b51aa805429567]: Commencement: Reg. 12 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
+[^c-62d4118fa7e3839b55b51aa805429567]: Commencement: Reg. 12 in force at 28.7.2022, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/765/regulation/1/1)
 
 [^f00013]: Footnote: EUR 2014/908, amended by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765); there are other amending instruments but none is relevant.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Amendment of Commission Decision [2007/305/EC](https://www.legislation.gov.uk/eud/2007/305)[^key-c1bfbcf05bd6acfc3d96ba874b278334]
+## 62. Amendment of Commission Decision [2007/305/EC](https://www.legislation.gov.uk/eud/2007/305)[^c-c1bfbcf05bd6acfc3d96ba874b278334]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Decision [2007/305/EC](https://www.legislation.gov.uk/eud/2007/305) o
 
 ## Annotations
 
-[^key-c1bfbcf05bd6acfc3d96ba874b278334]: Commencement: Reg. 62 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-c1bfbcf05bd6acfc3d96ba874b278334]: Commencement: Reg. 62 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Meaning of “palliative care service” and “independent palliative care provider”[^key-8fc792c41e41fe65fb7e0fc00c10bfcc]
+## 64. Meaning of “palliative care service” and “independent palliative care provider”[^c-8fc792c41e41fe65fb7e0fc00c10bfcc]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fc792c41e41fe65fb7e0fc00c10bfcc]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2019/3/section/64) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-8fc792c41e41fe65fb7e0fc00c10bfcc]: Commencement: [S. 64](https://www.legislation.gov.uk/anaw/2019/3/section/64) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

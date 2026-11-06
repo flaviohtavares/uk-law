@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 148. Sale of liqueur confectionery to children under 16[^key-9d372a6d63ea2f6c031b8c549d70198c]
+## 148. Sale of liqueur confectionery to children under 16[^c-9d372a6d63ea2f6c031b8c549d70198c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d372a6d63ea2f6c031b8c549d70198c]: Textual amendment: [S. 148](https://www.legislation.gov.uk/ukpga/2003/17/section/148) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 70](https://www.legislation.gov.uk/ukpga/2015/20/section/70), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(i)](https://www.legislation.gov.uk/uksi/2015/994/article/6/i)
+[^c-9d372a6d63ea2f6c031b8c549d70198c]: Textual amendment: [S. 148](https://www.legislation.gov.uk/ukpga/2003/17/section/148) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 70](https://www.legislation.gov.uk/ukpga/2015/20/section/70), [115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(i)](https://www.legislation.gov.uk/uksi/2015/994/article/6/i)

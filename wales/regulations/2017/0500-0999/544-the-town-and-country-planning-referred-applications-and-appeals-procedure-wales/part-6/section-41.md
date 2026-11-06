@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Inquiry timetable[^key-82c6ffe74e09297524b032eb43f22a8d]
+## 41. Inquiry timetable[^c-82c6ffe74e09297524b032eb43f22a8d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82c6ffe74e09297524b032eb43f22a8d]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2017/544/regulation/41) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-82c6ffe74e09297524b032eb43f22a8d]: Commencement: [Reg. 41](https://www.legislation.gov.uk/wsi/2017/544/regulation/41) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Risk notices - scheme proprietor: unconnected multiple employer schemes[^key-9c9d6e0fac716822714fece1ffddddb5]
+## 15. Risk notices - scheme proprietor: unconnected multiple employer schemes[^c-9c9d6e0fac716822714fece1ffddddb5]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ In section 80 (risk notices)—
 
 ## Annotations
 
-[^key-9c9d6e0fac716822714fece1ffddddb5]: Commencement: Reg. 15 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-9c9d6e0fac716822714fece1ffddddb5]: Commencement: Reg. 15 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

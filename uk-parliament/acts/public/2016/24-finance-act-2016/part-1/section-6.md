@@ -165,11 +165,11 @@ summary: ''
 
 (16) In section 55C(1)(c) (election to reduce personal allowance conditional on not becoming subject to higher rates) as amended by section 5 of this Act, after “other than the basic rate,” insert “ the default basic rate, the savings basic rate, ”.
 
-(17)[^key-c0c7dd8017c7c81e7998fbf5da56f58d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(17)[^c-c0c7dd8017c7c81e7998fbf5da56f58d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(18)[^key-c0c7dd8017c7c81e7998fbf5da56f58d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(18)[^c-c0c7dd8017c7c81e7998fbf5da56f58d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(19)[^key-c0c7dd8017c7c81e7998fbf5da56f58d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-c0c7dd8017c7c81e7998fbf5da56f58d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (20) In section 828B(5) (exemption for non-domiciled UK residents conditional on not being subject to higher rates) as amended by section 4 of this Act, after “other than the basic rate” insert “ , the savings basic rate ”.
 
@@ -243,6 +243,6 @@ and—
 
 ## Annotations
 
-[^key-c0c7dd8017c7c81e7998fbf5da56f58d]: Textual amendment: S. 6(17)-(19) omitted (6.4.2018) by virtue of [The Scottish Rates of Income Tax (Consequential Amendments) Order 2018 (S.I. 2018/459)](https://www.legislation.gov.uk/uksi/2018/459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/459/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2018/459/article/7/2)
+[^c-c0c7dd8017c7c81e7998fbf5da56f58d]: Textual amendment: S. 6(17)-(19) omitted (6.4.2018) by virtue of [The Scottish Rates of Income Tax (Consequential Amendments) Order 2018 (S.I. 2018/459)](https://www.legislation.gov.uk/uksi/2018/459), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/459/article/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2018/459/article/7/2)
 
 [^M_P_266ea151-9be8-4580-a2ef-6f5203f563f9]: Subordinate legislation: S. 6(24): 30.11.2016 appointed for the purposes of the amendments made by this section and those amendments have effect in relation to tax year 2017-18 and subsequent tax years by virtue of [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), [regs. 2](https://www.legislation.gov.uk/uksi/2016/1161/regulation/2), [3](https://www.legislation.gov.uk/uksi/2016/1161/regulation/3)

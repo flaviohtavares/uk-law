@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Power to give guarantees[^key-e8b8e764da4d82e30ed61f240a1b39fe]
+## 46. Power to give guarantees[^c-e8b8e764da4d82e30ed61f240a1b39fe]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8b8e764da4d82e30ed61f240a1b39fe]: Commencement: Art. 46 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-e8b8e764da4d82e30ed61f240a1b39fe]: Commencement: Art. 46 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

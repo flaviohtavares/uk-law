@@ -26,11 +26,11 @@ summary: ''
 
 (3) Those provisions are—
 
-- (a) section 56 (car [^key-2d88a403934ad9a0cf6af5f2d7cb1bdd]... hire),
+- (a) section 56 (car [^c-2d88a403934ad9a0cf6af5f2d7cb1bdd]... hire),
 - (b) section 1298 (business entertainment and gifts),
 - (c) section 1304 (crime-related payments), and
 - (d) section 246(2) of FA 2004 (expenditure on benefits under employer-financed retirement benefits schemes).
 
 ## Annotations
 
-[^key-2d88a403934ad9a0cf6af5f2d7cb1bdd]: Textual amendment: Words in s. 865(3)(a) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 55](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/55)
+[^c-2d88a403934ad9a0cf6af5f2d7cb1bdd]: Textual amendment: Words in s. 865(3)(a) omitted (with effect in accordance with Sch. 11 paras. 65-67 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 11 para. 55](https://www.legislation.gov.uk/ukpga/2009/10/schedule/11/paragraph/55)

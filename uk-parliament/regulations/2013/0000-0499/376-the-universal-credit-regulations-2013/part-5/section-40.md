@@ -44,12 +44,12 @@ summary: ''
 
 (4) A descriptor applies to a claimant if that descriptor applies to the claimant for the majority of the time or, as the case may be, on the majority of the occasions on which the claimant undertakes or attempts to undertake the activity described by that descriptor.
 
-(5) Subject to paragraph (6),[^key-2dc59c6c1996861b270cacede7ba07d1] a claimant is to be treated as having limited capability for work and work-related activity if any of the circumstances set out in Schedule 9 applies.
+(5) Subject to paragraph (6),[^c-2dc59c6c1996861b270cacede7ba07d1] a claimant is to be treated as having limited capability for work and work-related activity if any of the circumstances set out in Schedule 9 applies.
 
-(6)[^key-67c31e32fca119599e871ab09b80df14] Where the circumstances set out in paragraph 4 of Schedule 9 apply, a claimant may only be treated as having limited capability for work and work-related activity if the claimant does not have limited capability for work and work-related activity as determined in accordance with an assessment under this Part.
+(6)[^c-67c31e32fca119599e871ab09b80df14] Where the circumstances set out in paragraph 4 of Schedule 9 apply, a claimant may only be treated as having limited capability for work and work-related activity if the claimant does not have limited capability for work and work-related activity as determined in accordance with an assessment under this Part.
 
 ## Annotations
 
-[^key-2dc59c6c1996861b270cacede7ba07d1]: Textual amendment: Words in [reg. 40(5)](https://www.legislation.gov.uk/uksi/2013/376/regulation/40/5) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/597/regulation/2/5/a)
+[^c-2dc59c6c1996861b270cacede7ba07d1]: Textual amendment: Words in [reg. 40(5)](https://www.legislation.gov.uk/uksi/2013/376/regulation/40/5) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2014/597/regulation/2/5/a)
 
-[^key-67c31e32fca119599e871ab09b80df14]: Textual amendment: [Reg. 40(6)](https://www.legislation.gov.uk/uksi/2013/376/regulation/40/6) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/597/regulation/2/5/b)
+[^c-67c31e32fca119599e871ab09b80df14]: Textual amendment: [Reg. 40(6)](https://www.legislation.gov.uk/uksi/2013/376/regulation/40/6) inserted (28.4.2014) by [The Universal Credit and Miscellaneous Amendments Regulations 2014 (S.I. 2014/597)](https://www.legislation.gov.uk/uksi/2014/597), [regs. 1](https://www.legislation.gov.uk/uksi/2014/597/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2014/597/regulation/2/5/b)

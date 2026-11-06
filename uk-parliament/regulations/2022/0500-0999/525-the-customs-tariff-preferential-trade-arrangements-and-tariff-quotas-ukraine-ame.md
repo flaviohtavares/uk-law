@@ -50,7 +50,7 @@ Further to sections 9(3), 11(7) and 17(8) of the Act, the Secretary of State rec
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-92eb888544ffcf334a6480dbd1122c8c]
+### 1. Citation, commencement and extent[^c-92eb888544ffcf334a6480dbd1122c8c]
 
 These Regulations—
 
@@ -58,25 +58,25 @@ These Regulations—
 - (b) come into force at 6.00 p.m. on 10th May 2022;
 - (c) extend to the United Kingdom.
 
-### 2. Interpretation[^key-8a0891ae9bf7cc162855697ca9ffcd6c]
+### 2. Interpretation[^c-8a0891ae9bf7cc162855697ca9ffcd6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Provisions related to Northern Ireland[^key-237c6f463f4745fab616378317e4e3ac]
+## PART 2 — Provisions related to Northern Ireland[^c-237c6f463f4745fab616378317e4e3ac]
 
 **No longer in force.**
 
-### 3. Ukraine originating goods imported into the United Kingdom as a result of their entry into Northern Ireland[^key-237c6f463f4745fab616378317e4e3ac]
+### 3. Ukraine originating goods imported into the United Kingdom as a result of their entry into Northern Ireland[^c-237c6f463f4745fab616378317e4e3ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Ukraine originating goods removed to Northern Ireland from Great Britain[^key-237c6f463f4745fab616378317e4e3ac]
+### 4. Ukraine originating goods removed to Northern Ireland from Great Britain[^c-237c6f463f4745fab616378317e4e3ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Ukrainian trade preferences
 
-### 5. Amendment of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^key-d7572dba104330bd2d4416f791a3b486]
+### 5. Amendment of the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020[^c-d7572dba104330bd2d4416f791a3b486]
 
 (1) Schedule 1 (Agreements to which these Regulations apply) to the Customs Tariff (Preferential Trade Arrangements) (EU Exit) Regulations 2020 is amended as follows.
 
@@ -86,7 +86,7 @@ These Regulations—
 
 [^f00007].
 
-### 6. Amendment of the Customs (Tariff Quotas) (EU Exit) Regulations 2020[^key-abca00822baec858622cce381878c164]
+### 6. Amendment of the Customs (Tariff Quotas) (EU Exit) Regulations 2020[^c-abca00822baec858622cce381878c164]
 
 (1) The Customs (Tariff Quotas) (EU Exit) Regulations 2020[^f00008] are amended as follows.
 
@@ -135,16 +135,16 @@ An impact assessment has not been produced for this instrument.
 
 [^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Any powers of HMRC Commissioners to make regulations under Part 1 of the Taxation (Cross-border Trade) Act 2018 (the “**Act**”) is exercisable concurrently by the Treasury by virtue of section 32(13) of the Act. Part 1 of the Act is amended by the Taxation (Post-transition Period) Act [2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26) (the “**2020 Act**”), sections 1 and 2 and Schedule 1. Section 9 of the Act is modified by [S.I. 2020/1439](https://www.legislation.gov.uk/uksi/2020/1439) and sections 9, 11 and 19 of the Act are modified by [S.I. 2020/1457](https://www.legislation.gov.uk/uksi/2020/1457). Sections 30B and 40B were inserted by sections 1 and 2 of the 2020 Act.
 
-[^key-92eb888544ffcf334a6480dbd1122c8c]: Commencement: Reg. 1 in force at 10.5.2022 at 6.00 p.m., see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/525/regulation/1/b)
+[^c-92eb888544ffcf334a6480dbd1122c8c]: Commencement: Reg. 1 in force at 10.5.2022 at 6.00 p.m., see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/525/regulation/1/b)
 
-[^key-8a0891ae9bf7cc162855697ca9ffcd6c]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/525/regulation/2) omitted (18.7.2025) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2025 (S.I. 2025/751)](https://www.legislation.gov.uk/uksi/2025/751), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/751/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2025/751/regulation/8)
+[^c-8a0891ae9bf7cc162855697ca9ffcd6c]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2022/525/regulation/2) omitted (18.7.2025) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2025 (S.I. 2025/751)](https://www.legislation.gov.uk/uksi/2025/751), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/751/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2025/751/regulation/8)
 
-[^key-237c6f463f4745fab616378317e4e3ac]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2022/525/part/2) omitted (18.7.2025) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2025 (S.I. 2025/751)](https://www.legislation.gov.uk/uksi/2025/751), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/751/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2025/751/regulation/8)
+[^c-237c6f463f4745fab616378317e4e3ac]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2022/525/part/2) omitted (18.7.2025) by virtue of [The Customs (Tariff and Miscellaneous Amendments) (No. 2) Regulations 2025 (S.I. 2025/751)](https://www.legislation.gov.uk/uksi/2025/751), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/751/regulation/1/b), [8](https://www.legislation.gov.uk/uksi/2025/751/regulation/8)
 
-[^key-d7572dba104330bd2d4416f791a3b486]: Commencement: Reg. 5 in force at 10.5.2022 at 6.00 p.m., see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/525/regulation/1/b)
+[^c-d7572dba104330bd2d4416f791a3b486]: Commencement: Reg. 5 in force at 10.5.2022 at 6.00 p.m., see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/525/regulation/1/b)
 
 [^f00007]: Footnote: The Ukraine Preferential Tariff, version 1.3, dated 6th May 2022 is available electronically at: https://www.gov.uk/government/publications/reference-documents-for-the-customs-tariff-preferential-trade-arrangements-eu-exit-regulations-2020. Hard copies are held and available to view free of charge at the Department for International Trade, Old Admiralty Building, London SW1A 2DY. By virtue of section 32A of the Act (as inserted by section 75 of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3)), references to that document are to that document as modified from time to time, or as replaced, by notice by the Treasury.
 
-[^key-abca00822baec858622cce381878c164]: Commencement: Reg. 6 in force at 10.5.2022 at 6.00 p.m., see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/525/regulation/1/b)
+[^c-abca00822baec858622cce381878c164]: Commencement: Reg. 6 in force at 10.5.2022 at 6.00 p.m., see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/525/regulation/1/b)
 
 [^f00008]: Footnote: [S.I. 2020/1432](https://www.legislation.gov.uk/uksi/2020/1432), to which there are amendments not relevant to these Regulations.

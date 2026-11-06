@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Safeguarding works to buildings[^key-7648f7e8591f5fdccb25e247b95e95d2]
+## 15. Safeguarding works to buildings[^c-7648f7e8591f5fdccb25e247b95e95d2]
 
 *Extent: E+W+S*
 
@@ -72,4 +72,4 @@ the Company shall compensate the owners and occupiers of the building for any da
 
 ## Annotations
 
-[^key-7648f7e8591f5fdccb25e247b95e95d2]: Commencement: Art. 15 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-7648f7e8591f5fdccb25e247b95e95d2]: Commencement: Art. 15 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

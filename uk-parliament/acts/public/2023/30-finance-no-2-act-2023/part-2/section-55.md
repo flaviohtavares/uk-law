@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Small producer alcoholic products[^M_I_01e5db76-9493-4df5-a759-e4a7e4b6d064][^key-d312e0ee56aad296566c030d34fd213d]
+## 55. Small producer alcoholic products[^M_I_01e5db76-9493-4df5-a759-e4a7e4b6d064][^c-d312e0ee56aad296566c030d34fd213d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_01e5db76-9493-4df5-a759-e4a7e4b6d064]: Commencement: S. 55 in force at Royal Assent for specified purposes, see [s. 120(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/1/b)
 
-[^key-d312e0ee56aad296566c030d34fd213d]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/30/section/55) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-d312e0ee56aad296566c030d34fd213d]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/30/section/55) in force at 1.8.2023 in so far as not already in force by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

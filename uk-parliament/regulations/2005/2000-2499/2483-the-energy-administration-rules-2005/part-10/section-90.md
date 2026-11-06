@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 90. Notification to registrar of companies[^key-3ed4e0c1e7aae1223bcf1d8f7a50d96e]
+## 90. Notification to registrar of companies[^c-3ed4e0c1e7aae1223bcf1d8f7a50d96e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The replacement or additional energy administrator shall send notice of the appo
 
 ## Annotations
 
-[^key-3ed4e0c1e7aae1223bcf1d8f7a50d96e]: Commencement: Rule 90 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-3ed4e0c1e7aae1223bcf1d8f7a50d96e]: Commencement: Rule 90 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

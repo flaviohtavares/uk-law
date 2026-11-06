@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Charging orders: power to set financial thresholds[^key-30aa44e9c74ececa645367b3f3cc8b00]
+## 94. Charging orders: power to set financial thresholds[^c-30aa44e9c74ececa645367b3f3cc8b00]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ In the Charging Orders Act 1979 (c. 53), after section 3 there is inserted—
 
 ## Annotations
 
-[^key-30aa44e9c74ececa645367b3f3cc8b00]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2007/15/section/94) in force at 17.5.2012 by [S.I. 2012/1312](https://www.legislation.gov.uk/uksi/2012/1312), [art. 2](https://www.legislation.gov.uk/uksi/2012/1312/article/2)
+[^c-30aa44e9c74ececa645367b3f3cc8b00]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2007/15/section/94) in force at 17.5.2012 by [S.I. 2012/1312](https://www.legislation.gov.uk/uksi/2012/1312), [art. 2](https://www.legislation.gov.uk/uksi/2012/1312/article/2)

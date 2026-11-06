@@ -39,7 +39,7 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by sections 86(1) and 90(6), (7) and (8) of the Domestic Abuse Act 2021[^f00001].
 
-## 1. Citation, extent and interpretation[^key-5442ef1ebbe610cf9d516f43f5f5b9df]
+## 1. Citation, extent and interpretation[^c-5442ef1ebbe610cf9d516f43f5f5b9df]
 
 (1) These Regulations may be cited as the Domestic Abuse Act 2021 (Commencement No. 9 and Saving Provisions) Regulations 2025.
 
@@ -52,15 +52,15 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (c) “the No. 6 Regulations” means the Domestic Abuse Act 2021 (Commencement No. 6 and Saving Provisions) Regulations 2024[^f00002];
 - (d) “the No. 8 Regulations” means the Domestic Abuse Act 2021 (Commencement No. 8 and Saving Provisions) Regulations 2025[^f00003];
 - (e) “**specified areas**” means the counties of the Isle of Anglesey, Gwynedd, Denbighshire and Flintshire and the county boroughs of Conwy and Wrexham;
-- (f) “**specified period**” means the period beginning with 28th April 2025 and ending with 24th November 2026[^key-f309f97b888f8d9791a6dd556c3e1fd5].
+- (f) “**specified period**” means the period beginning with 28th April 2025 and ending with 24th November 2026[^c-f309f97b888f8d9791a6dd556c3e1fd5].
 
-## 2. Commencement of Part 3[^key-8339c41e388c1ed2dd2844d9d8e617ac]
+## 2. Commencement of Part 3[^c-8339c41e388c1ed2dd2844d9d8e617ac]
 
 In so far as not already in force, Part 3 (powers for dealing with domestic abuse), except section 55 (repeal of provisions about domestic violence protection notices and orders), comes into force on 28th April 2025 for the specified period in relation to the specified areas.
 
-## 3. Savings[^key-bb4ad207774adc00a932ee574d9ac18e]
+## 3. Savings[^c-bb4ad207774adc00a932ee574d9ac18e]
 
-(1)[^key-6dade86f8f0479612b047e33449eb356] Where immediately before the end of the specified period—
+(1)[^c-6dade86f8f0479612b047e33449eb356] Where immediately before the end of the specified period—
 
 - (a) a DAPN is in effect,
 - (b) an application for leave to apply for a DAPO has been made and is yet to be determined,
@@ -75,7 +75,7 @@ In so far as not already in force, Part 3 (powers for dealing with domestic abus
 
 Part 3, except section 55, continues to have effect in the relevant areas for such of the purposes set out in paragraph (2) as may be relevant.
 
-(2)[^key-4d28b0bf404281d11d88528eea3ad581] The purposes referred to in paragraph (1) are—
+(2)[^c-4d28b0bf404281d11d88528eea3ad581] The purposes referred to in paragraph (1) are—
 
 - (a) the enforcement of a DAPN,
 - (b) an application for leave to apply for a DAPO,
@@ -87,9 +87,9 @@ Part 3, except section 55, continues to have effect in the relevant areas for su
 - (h) an application for permission to appeal a decision of a court, on an application for a DAPO or in relation to a DAPO, and
 - (i) an appeal against a decision of a court, on an application for a DAPO or in relation to a DAPO.
 
-(3) The provisions of the Act specified in regulation 3(2) of the No. 6 Regulations continue to have effect in England and Wales after the specified period in respect of a DAPN or DAPO given or made, or any other decision of a court made on an application for or in relation to a DAPO, under Part 3[^key-6d4d1fd15686ee678037ff3f42d947db]—
+(3) The provisions of the Act specified in regulation 3(2) of the No. 6 Regulations continue to have effect in England and Wales after the specified period in respect of a DAPN or DAPO given or made, or any other decision of a court made on an application for or in relation to a DAPO, under Part 3[^c-6d4d1fd15686ee678037ff3f42d947db]—
 
-- (a) during the period beginning with 27th November 2024 and ending with 24th November 2026[^key-58ffd0724856378b4bbb08ad6bfefe99], or
+- (a) during the period beginning with 27th November 2024 and ending with 24th November 2026[^c-58ffd0724856378b4bbb08ad6bfefe99], or
 - (b) as it continues to have effect in accordance with the savings provided for in paragraphs (1) and (2).
 
 (4) In this regulation—
@@ -101,9 +101,9 @@ Part 3, except section 55, continues to have effect in the relevant areas for su
   - (b) the areas specified in regulation 3(1) of the No. 6 Regulations;
   - (c) the areas specified in regulation 3 of the No. 8 Regulations.
 
-(5)[^key-368e649ad981b21167736df6c7d90170] In paragraphs (1)(g) and (h), an application for permission to appeal or an appeal is finally determined if it is decided and all routes of further appeal have been exhausted.
+(5)[^c-368e649ad981b21167736df6c7d90170] In paragraphs (1)(g) and (h), an application for permission to appeal or an appeal is finally determined if it is decided and all routes of further appeal have been exhausted.
 
-## 4. Omission of savings provision in the No. 6 Regulations and the No. 8 Regulations[^key-473d831caa7c2df2c0a459298bb58d7c]
+## 4. Omission of savings provision in the No. 6 Regulations and the No. 8 Regulations[^c-473d831caa7c2df2c0a459298bb58d7c]
 
 (1) In the No. 6 Regulations, omit regulation 4 (savings).
 
@@ -167,26 +167,26 @@ The following provisions of the Domestic Abuse Act [2021 (c. 17)](https://www.le
 
 [^f00001]: Footnote: [2021 c. 17](https://www.legislation.gov.uk/ukpga/2021/17).
 
-[^key-5442ef1ebbe610cf9d516f43f5f5b9df]: Commencement: Reg. 1 in force at made date
+[^c-5442ef1ebbe610cf9d516f43f5f5b9df]: Commencement: Reg. 1 in force at made date
 
 [^f00002]: Footnote: [S.I. 2024/1191 (C. 76)](https://www.legislation.gov.uk/uksi/2024/1191).
 
 [^f00003]: Footnote: [S.I. 2025/319 (C. 10)](https://www.legislation.gov.uk/uksi/2025/319).
 
-[^key-f309f97b888f8d9791a6dd556c3e1fd5]: Textual amendment: Words in reg. 1(3)(f) substituted (25.3.2026) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2026 (S.I. 2026/342)](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/4/2)
+[^c-f309f97b888f8d9791a6dd556c3e1fd5]: Textual amendment: Words in reg. 1(3)(f) substituted (25.3.2026) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2026 (S.I. 2026/342)](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/4/2)
 
-[^key-8339c41e388c1ed2dd2844d9d8e617ac]: Commencement: Reg. 2 in force at made date
+[^c-8339c41e388c1ed2dd2844d9d8e617ac]: Commencement: Reg. 2 in force at made date
 
-[^key-bb4ad207774adc00a932ee574d9ac18e]: Commencement: Reg. 3 in force at made date
+[^c-bb4ad207774adc00a932ee574d9ac18e]: Commencement: Reg. 3 in force at made date
 
-[^key-6dade86f8f0479612b047e33449eb356]: Textual amendment: Reg. 3(1) substituted (21.11.2025) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1222)](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4/3)
+[^c-6dade86f8f0479612b047e33449eb356]: Textual amendment: Reg. 3(1) substituted (21.11.2025) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1222)](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4/3)
 
-[^key-4d28b0bf404281d11d88528eea3ad581]: Textual amendment: Reg. 3(2) substituted (21.11.2025) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1222)](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4/4)
+[^c-4d28b0bf404281d11d88528eea3ad581]: Textual amendment: Reg. 3(2) substituted (21.11.2025) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1222)](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4/4)
 
-[^key-6d4d1fd15686ee678037ff3f42d947db]: Textual amendment: Words in reg. 3(3) substituted (21.11.2025) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1222)](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4/5/a)
+[^c-6d4d1fd15686ee678037ff3f42d947db]: Textual amendment: Words in reg. 3(3) substituted (21.11.2025) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1222)](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4(5)(a)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4/5/a)
 
-[^key-58ffd0724856378b4bbb08ad6bfefe99]: Textual amendment: Words in reg. 3(3)(a) substituted (25.3.2026) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2026 (S.I. 2026/342)](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/342/regulation/4/3)
+[^c-58ffd0724856378b4bbb08ad6bfefe99]: Textual amendment: Words in reg. 3(3)(a) substituted (25.3.2026) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2026 (S.I. 2026/342)](https://www.legislation.gov.uk/uksi/2026/342), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/342/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2026/342/regulation/4/3)
 
-[^key-368e649ad981b21167736df6c7d90170]: Textual amendment: Reg. 3(5) inserted (21.11.2025) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1222)](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4/6)
+[^c-368e649ad981b21167736df6c7d90170]: Textual amendment: Reg. 3(5) inserted (21.11.2025) by [The Domestic Abuse Act 2021 (Commencement No. 6, 8 and 9 and Saving Provisions) (Amendment) Regulations 2025 (S.I. 2025/1222)](https://www.legislation.gov.uk/uksi/2025/1222), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2025/1222/regulation/4/6)
 
-[^key-473d831caa7c2df2c0a459298bb58d7c]: Commencement: Reg. 4 in force at made date
+[^c-473d831caa7c2df2c0a459298bb58d7c]: Commencement: Reg. 4 in force at made date

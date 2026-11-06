@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46D. Import of iron and steel products[^key-ba5e8b433b46f408a162a8ceb4524539]
+## 46D. Import of iron and steel products[^c-ba5e8b433b46f408a162a8ceb4524539]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba5e8b433b46f408a162a8ceb4524539]: Textual amendment: [Pt. 5 Ch. 4C](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4C) inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/452/regulation/4)
+[^c-ba5e8b433b46f408a162a8ceb4524539]: Textual amendment: [Pt. 5 Ch. 4C](https://www.legislation.gov.uk/uksi/2019/855/part/5/chapter/4C) inserted (14.4.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 8) Regulations 2022 (S.I. 2022/452)](https://www.legislation.gov.uk/uksi/2022/452), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/452/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/452/regulation/4)

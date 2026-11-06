@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Manner of giving effect to section 84[^key-800abd30159b766bcda5d883164bf6b6]
+## 85. Manner of giving effect to section 84[^c-800abd30159b766bcda5d883164bf6b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-800abd30159b766bcda5d883164bf6b6]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/1992/52/section/85) substituted (5.12.2016 for specified purposes, 1.3.2017 in so far as not already in force) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2016/15/section/11/3), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1) (with [s. 11(5)](https://www.legislation.gov.uk/ukpga/2016/15/section/11/5)); [S.I. 2016/1170](https://www.legislation.gov.uk/uksi/2016/1170), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1170/regulation/2/b); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/i)
+[^c-800abd30159b766bcda5d883164bf6b6]: Textual amendment: [S. 85](https://www.legislation.gov.uk/ukpga/1992/52/section/85) substituted (5.12.2016 for specified purposes, 1.3.2017 in so far as not already in force) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2016/15/section/11/3), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1) (with [s. 11(5)](https://www.legislation.gov.uk/ukpga/2016/15/section/11/5)); [S.I. 2016/1170](https://www.legislation.gov.uk/uksi/2016/1170), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1170/regulation/2/b); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/i)

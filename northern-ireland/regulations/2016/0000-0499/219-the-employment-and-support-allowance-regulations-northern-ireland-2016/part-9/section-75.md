@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Effect of statutory shared parental pay on an employment and support allowance[^key-e11dafa04e0f90e1cee4821272b86000]
+## 75. Effect of statutory shared parental pay on an employment and support allowance[^c-e11dafa04e0f90e1cee4821272b86000]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e11dafa04e0f90e1cee4821272b86000]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2016/219/regulation/75) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-e11dafa04e0f90e1cee4821272b86000]: Commencement: [Reg. 75](https://www.legislation.gov.uk/nisr/2016/219/regulation/75) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00071]: Footnote: Part 12ZC was inserted by section 5 of the Work and Families Act (Northern Ireland) [2015 (c.1. (N.I.)](https://www.legislation.gov.uk/nia/2015/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Communication requirement[^key-90e012e8f83b1a142385f8018dffbe6a]
+## 13. Communication requirement[^c-90e012e8f83b1a142385f8018dffbe6a]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 4 sets out the matters that the Regulator must take into account in dec
 
 ## Annotations
 
-[^key-90e012e8f83b1a142385f8018dffbe6a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/255/regulation/13) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-90e012e8f83b1a142385f8018dffbe6a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/255/regulation/13) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

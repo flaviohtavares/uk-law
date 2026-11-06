@@ -264,7 +264,7 @@ summary: ''
 
 #### Environmental Protection Act 1990 (c. 43)
 
-**14.**[^key-d56e54a862432ba668e0bd378dbee1df] (1) The Environmental Protection Act 1990 is amended as follows.
+**14.**[^c-d56e54a862432ba668e0bd378dbee1df] (1) The Environmental Protection Act 1990 is amended as follows.
 
 (2) In the heading of section 45A, for “Arrangements” substitute “ England: arrangements ”.
 
@@ -272,15 +272,15 @@ summary: ''
 
 #### Household Waste Recycling Act 2003 (c. 29)
 
-**15.**[^key-542b95c7e1d781cfd2989e3fb76e83fd] In the Household Waste Recycling Act 2003, omit section 2.
+**15.**[^c-542b95c7e1d781cfd2989e3fb76e83fd] In the Household Waste Recycling Act 2003, omit section 2.
 
 #### Government of Wales Act 2006 (c. 32)
 
-**16.**[^key-dd19408ed3081a15cc43146c20844812] In Schedule 11 to the Government of Wales Act 2006, in paragraph 35(3), in Table 1, omit the entry relating to section 45B(1) of the Environmental Protection Act 1990.
+**16.**[^c-dd19408ed3081a15cc43146c20844812] In Schedule 11 to the Government of Wales Act 2006, in paragraph 35(3), in Table 1, omit the entry relating to section 45B(1) of the Environmental Protection Act 1990.
 
 #### Waste (Wales) Measure 2010 (nawm 8)
 
-**17.**[^key-19bc66bf5255737bb32f0058c0c86660] (1) The Waste (Wales) Measure 2010 is amended as follows.
+**17.**[^c-19bc66bf5255737bb32f0058c0c86660] (1) The Waste (Wales) Measure 2010 is amended as follows.
 
 (2) For the italic cross-heading before section 9 substitute— “ Disposal in a landfill or by incineration ”.
 
@@ -465,13 +465,13 @@ summary: ''
 
 ## Annotations
 
-[^key-d56e54a862432ba668e0bd378dbee1df]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/14) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-d56e54a862432ba668e0bd378dbee1df]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/14) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
 
-[^key-542b95c7e1d781cfd2989e3fb76e83fd]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/15) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-542b95c7e1d781cfd2989e3fb76e83fd]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/15) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
 
-[^key-dd19408ed3081a15cc43146c20844812]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/16) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-dd19408ed3081a15cc43146c20844812]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/16) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
 
-[^key-19bc66bf5255737bb32f0058c0c86660]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/17) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
+[^c-19bc66bf5255737bb32f0058c0c86660]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/17) in force at 18.10.2023 by [S.I. 2023/1096](https://www.legislation.gov.uk/wsi/2023/1096), [art. 2(e)](https://www.legislation.gov.uk/wsi/2023/1096/article/2/e)
 
 [^M_I_49e050ef-b72f-4693-b356-49b7e7ae6b17]: Commencement: Sch. 2 para. 18 in force at 14.7.2017 by [S.I. 2017/714](https://www.legislation.gov.uk/uksi/2017/714), [art. 2](https://www.legislation.gov.uk/uksi/2017/714/article/2)
 

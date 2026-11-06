@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Reinstatement of applications[^key-f1fcc7cffa996ce759e5f3cf2da6fc5e]
+## 20A. Reinstatement of applications[^c-f1fcc7cffa996ce759e5f3cf2da6fc5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1fcc7cffa996ce759e5f3cf2da6fc5e]: Textual amendment: Ss. 20A, 20B inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [8](https://www.legislation.gov.uk/uksi/2004/2357/article/8) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-f1fcc7cffa996ce759e5f3cf2da6fc5e]: Textual amendment: Ss. 20A, 20B inserted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [8](https://www.legislation.gov.uk/uksi/2004/2357/article/8) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))

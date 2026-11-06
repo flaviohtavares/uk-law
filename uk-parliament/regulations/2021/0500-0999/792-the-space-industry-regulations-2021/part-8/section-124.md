@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Failure of launch director to check conditions met before operator’s spaceflight activities commence[^key-c0a9f631c9638579662ef5a07dab0fba]
+## 124. Failure of launch director to check conditions met before operator’s spaceflight activities commence[^c-c0a9f631c9638579662ef5a07dab0fba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A launch director who fails, without reasonable excuse, to comply with the oblig
 
 ## Annotations
 
-[^key-c0a9f631c9638579662ef5a07dab0fba]: Commencement: Reg. 124 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-c0a9f631c9638579662ef5a07dab0fba]: Commencement: Reg. 124 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

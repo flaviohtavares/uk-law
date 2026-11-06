@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 331. Effect of blight notice[^key-243f05946704983398106e00521687ae]
+## 331. Effect of blight notice[^c-243f05946704983398106e00521687ae]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-243f05946704983398106e00521687ae]: Commencement: S. 331 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-243f05946704983398106e00521687ae]: Commencement: S. 331 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

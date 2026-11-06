@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6.9. Questions about competency[^key-0b253320d0794fe313d5d4124b18ded1]
+## 6.9. Questions about competency[^c-0b253320d0794fe313d5d4124b18ded1]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b253320d0794fe313d5d4124b18ded1]: Commencement: Para. 6.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-0b253320d0794fe313d5d4124b18ded1]: Commencement: Para. 6.9 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

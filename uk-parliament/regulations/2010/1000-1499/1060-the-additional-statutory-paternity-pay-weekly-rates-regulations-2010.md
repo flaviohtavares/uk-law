@@ -51,7 +51,7 @@ These Regulations may be cited as the Additional Statutory Paternity Pay (Weekly
 
 The weekly rate of payment of additional statutory paternity pay shall be the smaller of the following two amounts—
 
-- (a) £139.58[^key-2cfc3d65769eefe9fe7c7c618120b546];
+- (a) £139.58[^c-2cfc3d65769eefe9fe7c7c618120b546];
 - (b) 90% of the normal weekly earnings of the person claiming additional statutory paternity pay, determined in accordance with regulations 31 and 32 of the Additional Statutory Paternity Pay (General) Regulations 2010 [^c2024043].
 
 ## 3. Rounding of fractional amounts
@@ -89,6 +89,6 @@ Regulation 2 sets the weekly rate of payment of additional statutory paternity p
 
 [^c2024042]: Marginal citation: See section 173(5)(b) of the Social Security Administration Act 1992.
 
-[^key-2cfc3d65769eefe9fe7c7c618120b546]: Textual amendment: Word in reg. 2(a) substituted (5.4.2015) by [The Welfare Benefits Up-rating Order 2015 (S.I. 2015/30)](https://www.legislation.gov.uk/uksi/2015/30), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2015/30/article/1/2/d), [5(2)](https://www.legislation.gov.uk/uksi/2015/30/article/5/2)
+[^c-2cfc3d65769eefe9fe7c7c618120b546]: Textual amendment: Word in reg. 2(a) substituted (5.4.2015) by [The Welfare Benefits Up-rating Order 2015 (S.I. 2015/30)](https://www.legislation.gov.uk/uksi/2015/30), [arts. 1(2)(d)](https://www.legislation.gov.uk/uksi/2015/30/article/1/2/d), [5(2)](https://www.legislation.gov.uk/uksi/2015/30/article/5/2)
 
 [^c2024043]: Marginal citation: [S.I. 2010/1056](https://www.legislation.gov.uk/uksi/2010/1056).

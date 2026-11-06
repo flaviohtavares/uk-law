@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Publication and review of land rights and responsibilities statement[^key-e01cd608d477e7f570951da2975ad2a9]
+## 2. Publication and review of land rights and responsibilities statement[^c-e01cd608d477e7f570951da2975ad2a9]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e01cd608d477e7f570951da2975ad2a9]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/18/section/2) in force at 1.10.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/2)
+[^c-e01cd608d477e7f570951da2975ad2a9]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2016/18/section/2) in force at 1.10.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/2)

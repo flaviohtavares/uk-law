@@ -28,7 +28,7 @@ summary: ''
 
 .
 
-(2)[^key-1239bed6e5705dea38c9b39d0efc380f] The Department may by order make such amendments to—
+(2)[^c-1239bed6e5705dea38c9b39d0efc380f] The Department may by order make such amendments to—
 
 - (a) the Criminal Appeal (Northern Ireland) Act 1980 (c. 47),
 - (b) the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (NI 8),
@@ -39,4 +39,4 @@ as appear to the Department to be necessary or expedient in consequence of, or f
 
 ## Annotations
 
-[^key-1239bed6e5705dea38c9b39d0efc380f]: Commencement: [S. 90(2)](https://www.legislation.gov.uk/nia/2011/24/section/90/2) in operation at 1.9.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 4](https://www.legislation.gov.uk/nisr/2012/214/article/4)
+[^c-1239bed6e5705dea38c9b39d0efc380f]: Commencement: [S. 90(2)](https://www.legislation.gov.uk/nia/2011/24/section/90/2) in operation at 1.9.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 4](https://www.legislation.gov.uk/nisr/2012/214/article/4)

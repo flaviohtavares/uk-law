@@ -34,19 +34,19 @@ An Act of the Scottish Parliament to confer powers to modify certain retained EU
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 26th August 2020 and received Royal Assent on 1st October 2020
 
-## PART 1 — Assimilated law[^key-bc4ace8a463a320708ebc079e2b6fbf5]
+## PART 1 — Assimilated law[^c-bc4ace8a463a320708ebc079e2b6fbf5]
 
 ### Introductory
 
-#### 1. Defined terms[^key-b5986d9bed5b51424cf65cef8bf5c771]
+#### 1. Defined terms[^c-b5986d9bed5b51424cf65cef8bf5c771]
 
 (1) This section defines or explains terms used in this Part.
 
-(2) The “**relevant[^key-926837ae8399c9052c8f925d1338c9d2] CAP legislation**” means—
+(2) The “**relevant[^c-926837ae8399c9052c8f925d1338c9d2] CAP legislation**” means—
 
 - (a) the Direct Payments Regulation,
 - (b) the Rural Development Regulation,
-- (ba)[^key-1886e43e115fd4c1c854b7d17cfc7fc0] the CMO Regulation,
+- (ba)[^c-1886e43e115fd4c1c854b7d17cfc7fc0] the CMO Regulation,
 - (c) the Horizontal Regulation,
 - (d) the Common Provisions Regulation so far as relating to the operation of the Rural Development Regulation,
 - (e) any delegated or implementing Regulations made (whether by the Commission or the Council) under any of the Regulations referred to in paragraphs (a) to (d),
@@ -66,18 +66,18 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Direct payments, rural development support etc.
 
-#### 2. Power to simplify, improve or update relevant CAP legislation[^key-cbebaecad12aeb5ead97e160fce58d6c][^key-5b33a37b833cfd6814aeda5baa114b09]
+#### 2. Power to simplify, improve or update relevant CAP legislation[^c-cbebaecad12aeb5ead97e160fce58d6c][^c-5b33a37b833cfd6814aeda5baa114b09]
 
-(1) The Scottish Ministers may by regulations modify or restate, to any extent, the relevant[^key-56a2256fca2276cf4a95704241f3b93f] CAP legislation.
+(1) The Scottish Ministers may by regulations modify or restate, to any extent, the relevant[^c-56a2256fca2276cf4a95704241f3b93f] CAP legislation.
 
 (2) The Scottish Ministers may only make modifications under subsection (1)—
 
-- (a)[^key-c7bcedbb6519d18e8046dfe7568a8956] that they consider would simplify or improve the operation of the provisions of the legislation;
-- (b)[^key-498ff6de194d348486a993f5560c32d8] that they consider appropriate to take account of—
+- (a)[^c-c7bcedbb6519d18e8046dfe7568a8956] that they consider would simplify or improve the operation of the provisions of the legislation;
+- (b)[^c-498ff6de194d348486a993f5560c32d8] that they consider appropriate to take account of—
   - (i) changes in technology, or
   - (ii) developments in scientific understanding.
 
-(2A)[^key-1419a2e772f9ec70d07867aa717096bb] A restatement under subsection (1) may make any change to the legislation that the Scottish Ministers consider appropriate—
+(2A)[^c-1419a2e772f9ec70d07867aa717096bb] A restatement under subsection (1) may make any change to the legislation that the Scottish Ministers consider appropriate—
 
 - (a) for the purposes of—
   - (i) resolving ambiguity,
@@ -91,45 +91,45 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Regulations under this section are (if they have not been subject to the affirmative procedure) subject to the negative procedure.
 
-#### 3. Power to continue or end the operation of relevant CAP legislation[^key-0cfbd8107c49a8e8f89cd0a8a40d2f55][^key-7641e18b70a5a2aec491dad2844d00b0]
+#### 3. Power to continue or end the operation of relevant CAP legislation[^c-0cfbd8107c49a8e8f89cd0a8a40d2f55][^c-7641e18b70a5a2aec491dad2844d00b0]
 
-(1) The Scottish Ministers may by regulations modify the relevant[^key-660369bc9dc163a6c7a8939b5ba8c22d] CAP legislation for the purpose of securing that the provisions of the legislation continue to operate in relation to Scotland [^key-d201a40b598b9ecc20a240553a590b6f]....
+(1) The Scottish Ministers may by regulations modify the relevant[^c-660369bc9dc163a6c7a8939b5ba8c22d] CAP legislation for the purpose of securing that the provisions of the legislation continue to operate in relation to Scotland [^c-d201a40b598b9ecc20a240553a590b6f]....
 
-(1A)[^key-6e5f6129c56a635ebfe04b13faa843b3] The Scottish Ministers may by regulations modify any provision of the relevant CAP legislation for the purpose of securing that it—
+(1A)[^c-6e5f6129c56a635ebfe04b13faa843b3] The Scottish Ministers may by regulations modify any provision of the relevant CAP legislation for the purpose of securing that it—
 
 - (a) ceases to apply for a period, or
 - (b) ceases to have effect in Scotland.
 
-(2)[^key-72bfc9a629ea45fa04745fa3b8faed9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-72bfc9a629ea45fa04745fa3b8faed9c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-dc2f2e3683edfb39267bfba6530ef617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dc2f2e3683edfb39267bfba6530ef617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Regulations under this section are (if they have not been subject to the affirmative procedure) subject to the negative procedure[^key-1b6ade0d7a2ea843ab4b2f290b07d03b].
+(4) Regulations under this section are (if they have not been subject to the affirmative procedure) subject to the negative procedure[^c-1b6ade0d7a2ea843ab4b2f290b07d03b].
 
-#### 4. Power to modify financial provision in relevant CAP legislation[^key-d0a471351c6e29004862313c761f03f9][^key-d40040ac3c1719d77d669beb0d2e4142]
+#### 4. Power to modify financial provision in relevant CAP legislation[^c-d0a471351c6e29004862313c761f03f9][^c-d40040ac3c1719d77d669beb0d2e4142]
 
-(1) The Scottish Ministers may by regulations modify any provision of the relevant[^key-1abeb394d045e9d2c017b4ca09ca39c7] CAP legislation relating to—
+(1) The Scottish Ministers may by regulations modify any provision of the relevant[^c-1abeb394d045e9d2c017b4ca09ca39c7] CAP legislation relating to—
 
 - (a) the setting or determining of ceilings on the amounts of any payments or expenditure for any purpose under the legislation,
 - (b) the reallocation or transfer of amounts or proportions of such ceilings between or among different purposes under the legislation.
 
-(2)[^key-ffc34f0efe93680d16edd4dd4c279d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ffc34f0efe93680d16edd4dd4c279d2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Regulations under this section are (if they have not been subject to the affirmative procedure) subject to the negative procedure[^key-4683a02d0486b70b9e87d2fa9b8305fd].
+(3) Regulations under this section are (if they have not been subject to the affirmative procedure) subject to the negative procedure[^c-4683a02d0486b70b9e87d2fa9b8305fd].
 
 (4) In this section, “**ceilings**” includes limits and other restrictions.
 
-#### 5. Duration of the powers under sections 2, 3 and 4[^key-3f0e5d463e3c463d9ea34d6dee7098fe]
+#### 5. Duration of the powers under sections 2, 3 and 4[^c-3f0e5d463e3c463d9ea34d6dee7098fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Market intervention
 
-#### 6. Power to modify CAP legislation on public intervention and private storage aid[^key-1ce5379ab3e9c644cae9f1e58fbb2924]
+#### 6. Power to modify CAP legislation on public intervention and private storage aid[^c-1ce5379ab3e9c644cae9f1e58fbb2924]
 
 (1) The Scottish Ministers may by regulations modify the legislation governing public intervention and aid for private storage.
 
-(2)[^key-36aa31149ecb44096f3fedde73b984cc] The power conferred by subsection (1) includes the power to make provision for the purposes of—
+(2)[^c-36aa31149ecb44096f3fedde73b984cc] The power conferred by subsection (1) includes the power to make provision for the purposes of—
 
 - (a) altering the operation of the legislation so far as it has effect in connection with exceptional market conditions which are the subject of a declaration under section 14 of the Agriculture and Rural Communities (Scotland) Act 2024,
 - (b) securing that provisions of the legislation cease to have effect otherwise than in connection with exceptional market conditions which are the subject of such a declaration,
@@ -144,17 +144,17 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (iii) Commission Implementing Regulation (EU) 2016/1240 of 18 May 2016 laying down rules for the application of the CMO Regulation with regard to public intervention and aid for private storage,
   - (iv) Commission Delegated Regulation (EU) 2017/1182 of 20 April 2017 supplementing the CMO Regulation as regards the Union scales for the classification of beef, pig and sheep carcasses and as regards the reporting of market prices of certain categories of carcasses and live animals.
 
-(3A)[^key-4e7aa1e6afaf1f7e82c214e6f6885563] For the purposes of this section, a reference to exceptional market conditions which are the subject of a declaration under section 14 of the Agriculture and Rural Communities (Scotland) Act 2024 includes a reference to circumstances which are the subject of measures under Articles 219, 220 and 221 of the CMO Regulation.
+(3A)[^c-4e7aa1e6afaf1f7e82c214e6f6885563] For the purposes of this section, a reference to exceptional market conditions which are the subject of a declaration under section 14 of the Agriculture and Rural Communities (Scotland) Act 2024 includes a reference to circumstances which are the subject of measures under Articles 219, 220 and 221 of the CMO Regulation.
 
 (4) Regulations under this section are (if they have not been subject to the affirmative procedure) subject to the negative procedure.
 
 ### Aid for fruit and vegetable producer organisations
 
-#### 7. Power to modify CAP legislation on aid for fruit and vegetable producer organisations[^key-f0bc292502c5823471a05f226f039561][^key-da745a23eb7018009175470df45a66ed]
+#### 7. Power to modify CAP legislation on aid for fruit and vegetable producer organisations[^c-f0bc292502c5823471a05f226f039561][^c-da745a23eb7018009175470df45a66ed]
 
 (1) The Scottish Ministers may by regulations modify the legislation governing aid for fruit and vegetable producer organisations.
 
-(2)[^key-2b8bec8f7555e0f2def9da305bb8759f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2b8bec8f7555e0f2def9da305bb8759f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this section, the “**legislation governing aid for fruit and vegetable producer organisations**” means—
 
@@ -165,7 +165,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Regulations under this section are (if they have not been subject to the affirmative procedure) subject to the negative procedure.
 
-### Apiculture[^key-df4580c8106ecb403466f287ac816ade]
+### Apiculture[^c-df4580c8106ecb403466f287ac816ade]
 
 #### 7A. Apiculture
 
@@ -181,13 +181,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Food Promotion Scheme
 
-#### 8. Power to revoke the EU Food Promotion Scheme[^key-d99703502413454a3674ab1bc7fb3771]
+#### 8. Power to revoke the EU Food Promotion Scheme[^c-d99703502413454a3674ab1bc7fb3771]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Marketing standards and carcass classification
 
-#### 9. Marketing standards[^key-ee262b56b5c7d68f7886d740357a56b4]
+#### 9. Marketing standards[^c-ee262b56b5c7d68f7886d740357a56b4]
 
 (1) The Scottish Ministers may by regulations make provision about the standards with which the following products must conform (“marketing standards”), that is products which—
 
@@ -229,7 +229,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) Before laying a draft of a Scottish statutory instrument containing regulations under this section before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider are representative of the interests of persons likely to be affected by the regulations as they consider appropriate.
 
-#### 10. Marketing standards: agricultural products[^key-f9b81626c94ff3dbe80a37cf8de08913]
+#### 10. Marketing standards: agricultural products[^c-f9b81626c94ff3dbe80a37cf8de08913]
 
 (1) The products referred to in section 9(1)(a) are products falling within any of the following—
 
@@ -253,7 +253,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Regulations under this section are subject to the affirmative procedure.
 
-#### 11. Carcass classification[^key-86679ee1380b67431e8169e8de04d12d]
+#### 11. Carcass classification[^c-86679ee1380b67431e8169e8de04d12d]
 
 (1) The Scottish Ministers may by regulations make provision about the classification, identification and presentation of bovine, pig and sheep carcasses by slaughterhouses in Scotland.
 
@@ -273,7 +273,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) Before laying a draft of a Scottish statutory instrument containing regulations under this section before the Scottish Parliament, the Scottish Ministers must consult such persons as they consider are representative of the interests of persons likely to be affected by the regulations as they consider appropriate.
 
-#### 12. Marketing standards and carcass classification: consequential amendments and savings[^key-6ab87c13ab90d00f9feb746438201283]
+#### 12. Marketing standards and carcass classification: consequential amendments and savings[^c-6ab87c13ab90d00f9feb746438201283]
 
 The schedule—
 
@@ -282,7 +282,7 @@ The schedule—
 
 ## PART 2 — Collection and processing of data
 
-### 13. Defined terms[^key-bc109fda0d896ecc2962d84a035fe769]
+### 13. Defined terms[^c-bc109fda0d896ecc2962d84a035fe769]
 
 (1) This section defines certain expressions for the purposes of this Part.
 
@@ -334,7 +334,7 @@ and related expressions such as “processed” are to be construed accordingly.
 
 (11) Regulations under subsection (10) are subject to the affirmative procedure.
 
-### 14. Agri-food supply chains: requirement to provide information[^key-51a6f85a6f22ae58674cc3dac583b4dd]
+### 14. Agri-food supply chains: requirement to provide information[^c-51a6f85a6f22ae58674cc3dac583b4dd]
 
 (1) The Scottish Ministers may require a person in, or closely connected with, an agri-food supply chain to provide information about matters connected with any of the person's activities connected with the supply chain so far as the activities take place in Scotland.
 
@@ -350,7 +350,7 @@ and related expressions such as “processed” are to be construed accordingly.
 
 (7) Regulations under subsection (2) are subject to the affirmative procedure.
 
-### 15. Agricultural activity: requirement to provide information[^key-5f8d0f8a991f5609553b671bebb1cc3a]
+### 15. Agricultural activity: requirement to provide information[^c-5f8d0f8a991f5609553b671bebb1cc3a]
 
 (1) The Scottish Ministers may require a person who carries on an agricultural activity (and who is not a person in, or closely connected with, an agri-food supply chain) to provide information about matters connected with the activity so far as the activity takes place in Scotland.
 
@@ -362,7 +362,7 @@ and related expressions such as “processed” are to be construed accordingly.
 
 (5) Regulations under subsection (2) are subject to the affirmative procedure.
 
-### 16. Provision of information etc.[^key-9ce01b7ed39a2abf1f47223dee52e010]
+### 16. Provision of information etc.[^c-9ce01b7ed39a2abf1f47223dee52e010]
 
 (1) This section applies to a requirement imposed under section 14(1) or (2) or 15(1) or (2).
 
@@ -376,7 +376,7 @@ and related expressions such as “processed” are to be construed accordingly.
 - (b) the types of processing to which the information may be subjected,
 - (c) the form in which the information may be disclosed.
 
-### 17. Purposes for which information may be required and processed[^key-b92c279201ebfe29b1d9c30aedf4c8e9]
+### 17. Purposes for which information may be required and processed[^c-b92c279201ebfe29b1d9c30aedf4c8e9]
 
 (1) This section applies to a requirement imposed under section 14(1) or (2) or 15(1) or (2).
 
@@ -417,7 +417,7 @@ and related expressions such as “processed” are to be construed accordingly.
   - (a) in any part of the United Kingdom,
   - (b) in a country or territory outside the United Kingdom.
 
-### 18. Limitations on the processing of required information[^key-706daa7bab30a450514c949506f23f18]
+### 18. Limitations on the processing of required information[^c-706daa7bab30a450514c949506f23f18]
 
 (1) This section applies to information provided in response to a requirement imposed under section 14(1) or (2) or 15(1) or (2).
 
@@ -446,7 +446,7 @@ and related expressions such as “processed” are to be construed accordingly.
 
 the disclosure must not be of the information in any other form except in circumstances specified in the requirement.
 
-### 19. Enforcement of information requirements[^key-f90d8b893b98028bf5808c106c64b20f]
+### 19. Enforcement of information requirements[^c-f90d8b893b98028bf5808c106c64b20f]
 
 (1) The Scottish Ministers may by regulations make provision for or in connection with the enforcement of requirements imposed under section 14(1) or (2) or 15(1) or (2).
 
@@ -477,7 +477,7 @@ the disclosure must not be of the information in any other form except in circum
 
 (5) Regulations under subsection (1) are subject to the affirmative procedure.
 
-### 20. Consequential repeals[^key-25d4c3bf3bb2969c81b4ea43bca37aaa]
+### 20. Consequential repeals[^c-25d4c3bf3bb2969c81b4ea43bca37aaa]
 
 Sections 78 to 81 of the Agriculture Act 1947 (power to obtain agricultural statistics etc.) are repealed.
 
@@ -588,7 +588,7 @@ The short title of this Act is the Agriculture (Retained EU Law and Data) (Scotl
 
 ### Modifications
 
-**1.**[^key-e237ffc69cb3a61aa5106eca7eadf035] (1) The CMO Regulation is amended as follows.
+**1.**[^c-e237ffc69cb3a61aa5106eca7eadf035] (1) The CMO Regulation is amended as follows.
 
 (2) In Article 19 (public intervention and aid for private storage: delegated powers), in paragraph 6, at the end insert—
 
@@ -640,7 +640,7 @@ The short title of this Act is the Agriculture (Retained EU Law and Data) (Scotl
 
 ### Savings
 
-**2.**[^key-18bedabac931823c1b2859f501b684cb] (1) Regulations made by the European Commission under—
+**2.**[^c-18bedabac931823c1b2859f501b684cb] (1) Regulations made by the European Commission under—
 
 - (a) Article 19(6) of the CMO Regulation,
 - (b) any of points (p) to (t) of Article 20 of the CMO Regulation, or
@@ -650,94 +650,94 @@ The short title of this Act is the Agriculture (Retained EU Law and Data) (Scotl
 
 ## Annotations
 
-[^key-bc4ace8a463a320708ebc079e2b6fbf5]: Textual amendment: Word in [Pt. 1](https://www.legislation.gov.uk/asp/2020/17/part/1) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/10)
+[^c-bc4ace8a463a320708ebc079e2b6fbf5]: Textual amendment: Word in [Pt. 1](https://www.legislation.gov.uk/asp/2020/17/part/1) heading substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 10](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/10)
 
-[^key-b5986d9bed5b51424cf65cef8bf5c771]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/17/section/1) in force at 5.11.2020 by [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/a)
+[^c-b5986d9bed5b51424cf65cef8bf5c771]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2020/17/section/1) in force at 5.11.2020 by [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/a)
 
-[^key-926837ae8399c9052c8f925d1338c9d2]: Textual amendment: Word in [s. 1(2)](https://www.legislation.gov.uk/asp/2020/17/section/1/2) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(2)(a)](https://www.legislation.gov.uk/asp/2024/11/section/22/2/a), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-926837ae8399c9052c8f925d1338c9d2]: Textual amendment: Word in [s. 1(2)](https://www.legislation.gov.uk/asp/2020/17/section/1/2) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(2)(a)](https://www.legislation.gov.uk/asp/2024/11/section/22/2/a), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-1886e43e115fd4c1c854b7d17cfc7fc0]: Textual amendment: [S. 1(2)(ba)](https://www.legislation.gov.uk/asp/2020/17/section/1/2/ba) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(2)(b)](https://www.legislation.gov.uk/asp/2024/11/section/22/2/b), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-1886e43e115fd4c1c854b7d17cfc7fc0]: Textual amendment: [S. 1(2)(ba)](https://www.legislation.gov.uk/asp/2020/17/section/1/2/ba) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(2)(b)](https://www.legislation.gov.uk/asp/2024/11/section/22/2/b), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-cbebaecad12aeb5ead97e160fce58d6c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/17/section/2) in force at 5.11.2020 by [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/b)
+[^c-cbebaecad12aeb5ead97e160fce58d6c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2020/17/section/2) in force at 5.11.2020 by [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/b)
 
-[^key-5b33a37b833cfd6814aeda5baa114b09]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2020/17/part/1/crossheading/direct-payments-rural-development-support-etc) heading substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(4)](https://www.legislation.gov.uk/asp/2024/11/section/22/4), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-5b33a37b833cfd6814aeda5baa114b09]: Textual amendment: [S. 2](https://www.legislation.gov.uk/asp/2020/17/part/1/crossheading/direct-payments-rural-development-support-etc) heading substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(4)](https://www.legislation.gov.uk/asp/2024/11/section/22/4), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-56a2256fca2276cf4a95704241f3b93f]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/asp/2020/17/section/2/1) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(3)(a)](https://www.legislation.gov.uk/asp/2024/11/section/22/3/a), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-56a2256fca2276cf4a95704241f3b93f]: Textual amendment: Words in [s. 2(1)](https://www.legislation.gov.uk/asp/2020/17/section/2/1) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(3)(a)](https://www.legislation.gov.uk/asp/2024/11/section/22/3/a), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-c7bcedbb6519d18e8046dfe7568a8956]: Textual amendment: Words in s. 2(2) renumbered as s. 2(2)(a) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(3)(b)(i)](https://www.legislation.gov.uk/asp/2024/11/section/22/3/b/i), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-c7bcedbb6519d18e8046dfe7568a8956]: Textual amendment: Words in s. 2(2) renumbered as s. 2(2)(a) (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(3)(b)(i)](https://www.legislation.gov.uk/asp/2024/11/section/22/3/b/i), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-498ff6de194d348486a993f5560c32d8]: Textual amendment: [S. 2(2)(b)](https://www.legislation.gov.uk/asp/2020/17/section/2/2/b) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(3)(b)(ii)](https://www.legislation.gov.uk/asp/2024/11/section/22/3/b/ii), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-498ff6de194d348486a993f5560c32d8]: Textual amendment: [S. 2(2)(b)](https://www.legislation.gov.uk/asp/2020/17/section/2/2/b) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(3)(b)(ii)](https://www.legislation.gov.uk/asp/2024/11/section/22/3/b/ii), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-1419a2e772f9ec70d07867aa717096bb]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/asp/2020/17/section/2/2A)[(2B)](https://www.legislation.gov.uk/asp/2020/17/section/2/2B) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(3)(c)](https://www.legislation.gov.uk/asp/2024/11/section/22/3/c), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-1419a2e772f9ec70d07867aa717096bb]: Textual amendment: [S. 2(2A)](https://www.legislation.gov.uk/asp/2020/17/section/2/2A)[(2B)](https://www.legislation.gov.uk/asp/2020/17/section/2/2B) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 22(3)(c)](https://www.legislation.gov.uk/asp/2024/11/section/22/3/c), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-0cfbd8107c49a8e8f89cd0a8a40d2f55]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/17/section/3) in force at 5.11.2020 by [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/c)
+[^c-0cfbd8107c49a8e8f89cd0a8a40d2f55]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2020/17/section/3) in force at 5.11.2020 by [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/c)
 
-[^key-7641e18b70a5a2aec491dad2844d00b0]: Textual amendment: [S. 3](https://www.legislation.gov.uk/asp/2020/17/part/1/crossheading/direct-payments-rural-development-support-etc) heading substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(3)](https://www.legislation.gov.uk/asp/2024/11/section/23/3), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-7641e18b70a5a2aec491dad2844d00b0]: Textual amendment: [S. 3](https://www.legislation.gov.uk/asp/2020/17/part/1/crossheading/direct-payments-rural-development-support-etc) heading substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(3)](https://www.legislation.gov.uk/asp/2024/11/section/23/3), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-660369bc9dc163a6c7a8939b5ba8c22d]: Textual amendment: Word in [s. 3(1)](https://www.legislation.gov.uk/asp/2020/17/section/3/1) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(a)(i)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/a/i), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-660369bc9dc163a6c7a8939b5ba8c22d]: Textual amendment: Word in [s. 3(1)](https://www.legislation.gov.uk/asp/2020/17/section/3/1) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(a)(i)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/a/i), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-d201a40b598b9ecc20a240553a590b6f]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/asp/2020/17/section/3/1) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(a)(ii)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/a/ii), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-d201a40b598b9ecc20a240553a590b6f]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/asp/2020/17/section/3/1) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(a)(ii)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/a/ii), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-6e5f6129c56a635ebfe04b13faa843b3]: Textual amendment: [S. 3(1A)](https://www.legislation.gov.uk/asp/2020/17/section/3/1A) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(b)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/b), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-6e5f6129c56a635ebfe04b13faa843b3]: Textual amendment: [S. 3(1A)](https://www.legislation.gov.uk/asp/2020/17/section/3/1A) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(b)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/b), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-72bfc9a629ea45fa04745fa3b8faed9c]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/asp/2020/17/section/3/2) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(c)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/c), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-72bfc9a629ea45fa04745fa3b8faed9c]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/asp/2020/17/section/3/2) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(c)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/c), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-dc2f2e3683edfb39267bfba6530ef617]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/asp/2020/17/section/3/3) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(c)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/c), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-dc2f2e3683edfb39267bfba6530ef617]: Textual amendment: [S. 3(3)](https://www.legislation.gov.uk/asp/2020/17/section/3/3) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(c)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/c), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-1b6ade0d7a2ea843ab4b2f290b07d03b]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/asp/2020/17/section/3/4) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(d)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/d), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-1b6ade0d7a2ea843ab4b2f290b07d03b]: Textual amendment: Words in [s. 3(4)](https://www.legislation.gov.uk/asp/2020/17/section/3/4) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 23(2)(d)](https://www.legislation.gov.uk/asp/2024/11/section/23/2/d), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-d0a471351c6e29004862313c761f03f9]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/17/section/4) in force at 5.11.2020 by [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/d)
+[^c-d0a471351c6e29004862313c761f03f9]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2020/17/section/4) in force at 5.11.2020 by [S.S.I. 2020/315](https://www.legislation.gov.uk/ssi/2020/315), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2020/315/regulation/2/d)
 
-[^key-d40040ac3c1719d77d669beb0d2e4142]: Textual amendment: [S. 4](https://www.legislation.gov.uk/asp/2020/17/part/1/crossheading/direct-payments-rural-development-support-etc) heading substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 24(3)](https://www.legislation.gov.uk/asp/2024/11/section/24/3), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-d40040ac3c1719d77d669beb0d2e4142]: Textual amendment: [S. 4](https://www.legislation.gov.uk/asp/2020/17/part/1/crossheading/direct-payments-rural-development-support-etc) heading substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 24(3)](https://www.legislation.gov.uk/asp/2024/11/section/24/3), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-1abeb394d045e9d2c017b4ca09ca39c7]: Textual amendment: Word in [s. 4(1)](https://www.legislation.gov.uk/asp/2020/17/section/4/1) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 24(2)(a)](https://www.legislation.gov.uk/asp/2024/11/section/24/2/a), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-1abeb394d045e9d2c017b4ca09ca39c7]: Textual amendment: Word in [s. 4(1)](https://www.legislation.gov.uk/asp/2020/17/section/4/1) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 24(2)(a)](https://www.legislation.gov.uk/asp/2024/11/section/24/2/a), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-ffc34f0efe93680d16edd4dd4c279d2f]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/asp/2020/17/section/4/2) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 24(2)(b)](https://www.legislation.gov.uk/asp/2024/11/section/24/2/b), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-ffc34f0efe93680d16edd4dd4c279d2f]: Textual amendment: [S. 4(2)](https://www.legislation.gov.uk/asp/2020/17/section/4/2) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 24(2)(b)](https://www.legislation.gov.uk/asp/2024/11/section/24/2/b), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-4683a02d0486b70b9e87d2fa9b8305fd]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/asp/2020/17/section/4/3) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 24(2)(c)](https://www.legislation.gov.uk/asp/2024/11/section/24/2/c), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-4683a02d0486b70b9e87d2fa9b8305fd]: Textual amendment: Words in [s. 4(3)](https://www.legislation.gov.uk/asp/2020/17/section/4/3) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 24(2)(c)](https://www.legislation.gov.uk/asp/2024/11/section/24/2/c), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-3f0e5d463e3c463d9ea34d6dee7098fe]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2020/17/section/5) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 25](https://www.legislation.gov.uk/asp/2024/11/section/25), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-3f0e5d463e3c463d9ea34d6dee7098fe]: Textual amendment: [S. 5](https://www.legislation.gov.uk/asp/2020/17/section/5) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 25](https://www.legislation.gov.uk/asp/2024/11/section/25), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-1ce5379ab3e9c644cae9f1e58fbb2924]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/17/section/6) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/a)
+[^c-1ce5379ab3e9c644cae9f1e58fbb2924]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2020/17/section/6) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(a)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/a)
 
-[^key-36aa31149ecb44096f3fedde73b984cc]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/asp/2020/17/section/6/2) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 26(2)(a)](https://www.legislation.gov.uk/asp/2024/11/section/26/2/a), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-36aa31149ecb44096f3fedde73b984cc]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/asp/2020/17/section/6/2) substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 26(2)(a)](https://www.legislation.gov.uk/asp/2024/11/section/26/2/a), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-4e7aa1e6afaf1f7e82c214e6f6885563]: Textual amendment: [S. 6(3A)](https://www.legislation.gov.uk/asp/2020/17/section/6/3A) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 26(2)(b)](https://www.legislation.gov.uk/asp/2024/11/section/26/2/b), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-4e7aa1e6afaf1f7e82c214e6f6885563]: Textual amendment: [S. 6(3A)](https://www.legislation.gov.uk/asp/2020/17/section/6/3A) inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 26(2)(b)](https://www.legislation.gov.uk/asp/2024/11/section/26/2/b), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-f0bc292502c5823471a05f226f039561]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/17/section/7) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/b)
+[^c-f0bc292502c5823471a05f226f039561]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2020/17/section/7) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/b)
 
-[^key-da745a23eb7018009175470df45a66ed]: Textual amendment: [S. 7](https://www.legislation.gov.uk/asp/2020/17/part/1/crossheading/aid-for-fruit-and-vegetable-producer-organisations) heading substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 27(2)](https://www.legislation.gov.uk/asp/2024/11/section/27/2), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-da745a23eb7018009175470df45a66ed]: Textual amendment: [S. 7](https://www.legislation.gov.uk/asp/2020/17/part/1/crossheading/aid-for-fruit-and-vegetable-producer-organisations) heading substituted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 27(2)](https://www.legislation.gov.uk/asp/2024/11/section/27/2), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-2b8bec8f7555e0f2def9da305bb8759f]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/asp/2020/17/section/7/2) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 27(1)](https://www.legislation.gov.uk/asp/2024/11/section/27/1), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-2b8bec8f7555e0f2def9da305bb8759f]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/asp/2020/17/section/7/2) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 27(1)](https://www.legislation.gov.uk/asp/2024/11/section/27/1), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-df4580c8106ecb403466f287ac816ade]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/asp/2020/17/section/7A) and cross-heading inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 28](https://www.legislation.gov.uk/asp/2024/11/section/28), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
+[^c-df4580c8106ecb403466f287ac816ade]: Textual amendment: [S. 7A](https://www.legislation.gov.uk/asp/2020/17/section/7A) and cross-heading inserted (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [ss. 28](https://www.legislation.gov.uk/asp/2024/11/section/28), [38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/167/regulation/2/1)
 
-[^key-d99703502413454a3674ab1bc7fb3771]: Textual amendment: [S. 8](https://www.legislation.gov.uk/asp/2020/17/section/8) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
+[^c-d99703502413454a3674ab1bc7fb3771]: Textual amendment: [S. 8](https://www.legislation.gov.uk/asp/2020/17/section/8) repealed (16.6.2025) by [Agriculture and Rural Communities (Scotland) Act 2024 (asp 11)](https://www.legislation.gov.uk/asp/2024/11), [s. 38(2)](https://www.legislation.gov.uk/asp/2024/11/section/38/2), [sch. 2 Pt. 1](https://www.legislation.gov.uk/asp/2024/11/schedule/2/part/1); [S.S.I. 2025/167](https://www.legislation.gov.uk/ssi/2025/167), [reg. 2](https://www.legislation.gov.uk/ssi/2025/167/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/167/schedule)
 
-[^key-ee262b56b5c7d68f7886d740357a56b4]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/17/section/9) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/d)
+[^c-ee262b56b5c7d68f7886d740357a56b4]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2020/17/section/9) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(d)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/d)
 
-[^key-f9b81626c94ff3dbe80a37cf8de08913]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/17/section/10) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(e)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/e)
+[^c-f9b81626c94ff3dbe80a37cf8de08913]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2020/17/section/10) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(e)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/e)
 
-[^key-86679ee1380b67431e8169e8de04d12d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/17/section/11) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/f)
+[^c-86679ee1380b67431e8169e8de04d12d]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2020/17/section/11) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(f)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/f)
 
-[^key-6ab87c13ab90d00f9feb746438201283]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/17/section/12) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(g)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/g)
+[^c-6ab87c13ab90d00f9feb746438201283]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2020/17/section/12) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(g)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/g)
 
-[^key-bc109fda0d896ecc2962d84a035fe769]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/17/section/13) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/a)
+[^c-bc109fda0d896ecc2962d84a035fe769]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2020/17/section/13) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/a)
 
-[^key-51a6f85a6f22ae58674cc3dac583b4dd]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/17/section/14) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/b)
+[^c-51a6f85a6f22ae58674cc3dac583b4dd]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2020/17/section/14) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/b)
 
-[^key-5f8d0f8a991f5609553b671bebb1cc3a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/17/section/15) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/c)
+[^c-5f8d0f8a991f5609553b671bebb1cc3a]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2020/17/section/15) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/c)
 
-[^key-9ce01b7ed39a2abf1f47223dee52e010]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/17/section/16) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(d)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/d)
+[^c-9ce01b7ed39a2abf1f47223dee52e010]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2020/17/section/16) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(d)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/d)
 
-[^key-b92c279201ebfe29b1d9c30aedf4c8e9]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/17/section/17) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(e)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/e)
+[^c-b92c279201ebfe29b1d9c30aedf4c8e9]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2020/17/section/17) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(e)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/e)
 
-[^key-706daa7bab30a450514c949506f23f18]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/17/section/18) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(f)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/f)
+[^c-706daa7bab30a450514c949506f23f18]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2020/17/section/18) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(f)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/f)
 
-[^key-f90d8b893b98028bf5808c106c64b20f]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/17/section/19) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(g)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/g)
+[^c-f90d8b893b98028bf5808c106c64b20f]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2020/17/section/19) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(g)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/g)
 
-[^key-25d4c3bf3bb2969c81b4ea43bca37aaa]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/17/section/20) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(h)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/h)
+[^c-25d4c3bf3bb2969c81b4ea43bca37aaa]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2020/17/section/20) in force at 1.12.2020 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(1)(h)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/1/h)
 
-[^key-e237ffc69cb3a61aa5106eca7eadf035]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2020/17/schedule/paragraph/1) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(h)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/h)
+[^c-e237ffc69cb3a61aa5106eca7eadf035]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2020/17/schedule/paragraph/1) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(h)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/h)
 
-[^key-18bedabac931823c1b2859f501b684cb]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2020/17/schedule/paragraph/2) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(h)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/h)
+[^c-18bedabac931823c1b2859f501b684cb]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2020/17/schedule/paragraph/2) in force at 1.1.2021 by [S.S.I. 2020/373](https://www.legislation.gov.uk/ssi/2020/373), [reg. 2(2)(h)](https://www.legislation.gov.uk/ssi/2020/373/regulation/2/2/h)

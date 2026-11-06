@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Interpretation[^key-12e38ae32d15a9150032dff275dc734f]
+## 84. Interpretation[^c-12e38ae32d15a9150032dff275dc734f]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In this Act—
 
 ## Annotations
 
-[^key-12e38ae32d15a9150032dff275dc734f]: Commencement: S. 84 in force at 7.11.2025, see [s. 86(1)](https://www.legislation.gov.uk/asp/2025/13/section/86/1)
+[^c-12e38ae32d15a9150032dff275dc734f]: Commencement: S. 84 in force at 7.11.2025, see [s. 86(1)](https://www.legislation.gov.uk/asp/2025/13/section/86/1)

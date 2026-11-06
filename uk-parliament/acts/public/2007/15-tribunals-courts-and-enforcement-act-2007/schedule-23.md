@@ -22,7 +22,7 @@ summary: ''
 
 Section 146
 
-### Part 1 — Tribunals and Inquiries[^key-ce634096c24b2de07e0910a61bb8ef9d][^c20863011]
+### Part 1 — Tribunals and Inquiries[^c-ce634096c24b2de07e0910a61bb8ef9d][^c20863011]
 
 | *Reference* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -65,7 +65,7 @@ Section 146
 | Enterprise Act 2002 (c. 40) | In Schedule 2, paragraph 1(4). |
 | Constitutional Reform Act 2005 (c. 4) | Section 25(2)(a).<br>In Schedule 3, paragraph 2(3).<br>In Schedule 14, in Part 2—<br>- (a) in the entry relating to a deputy district judge in a district registry of the High Court, the words “in a district registry of the High Court”, and<br>- (b) in the entry relating to a deputy district judge for a county court district, the words “for a county court district”.<br>In Schedule 14, in Part 3, the entries relating to—<br>- (a) Member of the Special Immigration Appeals Commission;<br>- (b) Chairman of the Special Immigration Appeals Commission;<br>- (c) Member of the Proscribed Organisations Appeal Commission;<br>- (d) Chairman of the Proscribed Organisations Appeal Commission;<br>- (e) Member of the Pathogens Access Appeal Commission; and<br>- (f) Chairman of the Pathogens Access Appeal Commission. |
 
-### Part 3 — Enforcement by taking control of goods[^key-b88130d9a3fdfe86e3a8158c51460a1e]
+### Part 3 — Enforcement by taking control of goods[^c-b88130d9a3fdfe86e3a8158c51460a1e]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
@@ -87,7 +87,7 @@ Section 146
 | Courts Act 2003 (c. 39) | In Schedule 7, paragraph 8(5). |
 | Traffic Management Act 2004 (c. 18) | Section 82(3)(a).<br>Section 83. |
 
-### Part 4 — Rent arrears recovery[^key-0310c31ff456e5ba2d0ea70b7062ba9c]
+### Part 4 — Rent arrears recovery[^c-0310c31ff456e5ba2d0ea70b7062ba9c]
 
 | *Reference* | *Extent of repeal* |
 | --- | --- |
@@ -140,10 +140,10 @@ Section 146
 
 ## Annotations
 
-[^key-ce634096c24b2de07e0910a61bb8ef9d]: Commencement: [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1) in force at 19.8.2013 for specified purposes by [S.I. 2013/2043](https://www.legislation.gov.uk/uksi/2013/2043), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2043/article/2/c)
+[^c-ce634096c24b2de07e0910a61bb8ef9d]: Commencement: [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1) in force at 19.8.2013 for specified purposes by [S.I. 2013/2043](https://www.legislation.gov.uk/uksi/2013/2043), [art. 2(c)](https://www.legislation.gov.uk/uksi/2013/2043/article/2/c)
 
 [^c20863011]: Commencement: [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1) partly in force; [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1) not in force at Royal Assent see [s. 148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5); [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1) in force at 1.11.2007 for certain purposes by [S.I. 2007/2709](https://www.legislation.gov.uk/uksi/2007/2709), [art. 3(d)](https://www.legislation.gov.uk/uksi/2007/2709/article/3/d); [Sch. 23 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/1) in force at 3.11.2008 and at 1.4.2009 for certain further purposes by [S.I. 2008/2696](https://www.legislation.gov.uk/uksi/2008/2696), [arts. 5(i)](https://www.legislation.gov.uk/uksi/2008/2696/article/5/i), [6(c)](https://www.legislation.gov.uk/uksi/2008/2696/article/6/c)
 
-[^key-b88130d9a3fdfe86e3a8158c51460a1e]: Commencement: [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-b88130d9a3fdfe86e3a8158c51460a1e]: Commencement: [Sch. 23 Pt. 3](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/3) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
-[^key-0310c31ff456e5ba2d0ea70b7062ba9c]: Commencement: [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-0310c31ff456e5ba2d0ea70b7062ba9c]: Commencement: [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2007/15/schedule/23/part/4) in force at 6.4.2014 by [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

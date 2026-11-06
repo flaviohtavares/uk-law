@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 202C. Tree preservation regulations: prohibited activities[^key-64fbcc9e0a40d7f71290bf63ec6ae552]
+## 202C. Tree preservation regulations: prohibited activities[^c-64fbcc9e0a40d7f71290bf63ec6ae552]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64fbcc9e0a40d7f71290bf63ec6ae552]: Textual amendment: Ss. 202A-202G inserted (6.4.2012 for E.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 192(7)](https://www.legislation.gov.uk/ukpga/2008/29/section/192/7), [241(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/4) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)) (as amended (1.6.2009) by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), art. 5(1)(2), Sch. 1 para. 295); [S.I. 2012/601](https://www.legislation.gov.uk/uksi/2012/601), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/601/article/2/a)
+[^c-64fbcc9e0a40d7f71290bf63ec6ae552]: Textual amendment: Ss. 202A-202G inserted (6.4.2012 for E.) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 192(7)](https://www.legislation.gov.uk/ukpga/2008/29/section/192/7), [241(3)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/4) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)) (as amended (1.6.2009) by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307), art. 5(1)(2), Sch. 1 para. 295); [S.I. 2012/601](https://www.legislation.gov.uk/uksi/2012/601), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/601/article/2/a)

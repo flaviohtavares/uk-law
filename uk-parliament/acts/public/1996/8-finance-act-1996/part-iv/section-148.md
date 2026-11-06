@@ -59,7 +59,7 @@ summary: ''
 - “**relevant benefits**” has the meaning given by section 612(1) of the Taxes Act 1988;
 - “**retirement annuity contract**” means a contract made before 1st July 1988 and approved by the Board under or by virtue of any provision of Chapter III of Part XIV of the Taxes Act 1988.
 
-(6A)[^key-05bdec9da565815a9ada74868d5d2cc2] References in subsections (3)(d) and (6) to provisions of Part 14 of the Taxes Act 1988 are to those provisions as they had effect at the time in question.
+(6A)[^c-05bdec9da565815a9ada74868d5d2cc2] References in subsections (3)(d) and (6) to provisions of Part 14 of the Taxes Act 1988 are to those provisions as they had effect at the time in question.
 
 (7) This section shall have effect, and be taken always to have had effect, in relation to any payment falling within subsection (3) or (5) above, whether made before or after the passing of this Act.
 
@@ -69,4 +69,4 @@ summary: ''
 
 [^c14612441]: Textual amendment: S. 148(6): definition of “**investment advice**” substituted (1.12.2001) by [S.I. 2001/3629](https://www.legislation.gov.uk/uksi/2001/3629), [art. 93(3)](https://www.legislation.gov.uk/uksi/2001/3629/article/93/3)
 
-[^key-05bdec9da565815a9ada74868d5d2cc2]: Textual amendment: S. 148(6A) inserted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 44](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/44) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-05bdec9da565815a9ada74868d5d2cc2]: Textual amendment: S. 148(6A) inserted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 44](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/44) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

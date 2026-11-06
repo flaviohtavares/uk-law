@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 134(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-df04902cafc655577ae3bd9190f64eca]
+## 1. Citation, commencement and interpretation[^c-df04902cafc655577ae3bd9190f64eca]
 
 (1) These Regulations may be cited as the Social Fund Winter Fuel Payment (Temporary Increase) Regulations (Northern Ireland) 2008 and shall come into operation on 15th September 2008.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Modification of the Social Fund Winter Fuel Payment Regulations[^key-57ca94e9bccd60ea3a050b126c7dace5]
+## 2. Modification of the Social Fund Winter Fuel Payment Regulations[^c-57ca94e9bccd60ea3a050b126c7dace5]
 
 (1) For the purpose of making social fund winter fuel payments in respect of the 2008-09 winter, regulation 2 of the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2000[^f00004] (social fund winter fuel payments) is applied as if—
 
@@ -83,10 +83,10 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-df04902cafc655577ae3bd9190f64eca]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/289/regulation/1) in operation at 15.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/289/regulation/1/1)
+[^c-df04902cafc655577ae3bd9190f64eca]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/289/regulation/1) in operation at 15.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/289/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-57ca94e9bccd60ea3a050b126c7dace5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/289/regulation/2) in operation at 15.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/289/regulation/1/1)
+[^c-57ca94e9bccd60ea3a050b126c7dace5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/289/regulation/2) in operation at 15.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/289/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2000 No. 91](https://www.legislation.gov.uk/nisr/2000/91); regulation 2 was amended by regulation 2 of [S.R. 2003 No. 349](https://www.legislation.gov.uk/nisr/2003/349), regulation 2 of [S.R. 2003 No. 389](https://www.legislation.gov.uk/nisr/2003/389) and regulation 2(3) of [S.R. 2004 No. 354](https://www.legislation.gov.uk/nisr/2004/354)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Agricultural Holdings: dispute resolution relating to financial support[^key-84e3eff701a6d7cb14561665a0197cd3][^key-e38ab10db485d1358f382c243b7acc78]
+## 24. Agricultural Holdings: dispute resolution relating to financial support[^c-84e3eff701a6d7cb14561665a0197cd3][^c-e38ab10db485d1358f382c243b7acc78]
 
 *Extent: E+W*
 
@@ -110,6 +110,6 @@ summary: ''
 
 ## Annotations
 
-[^key-84e3eff701a6d7cb14561665a0197cd3]: Commencement: S. 24 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-84e3eff701a6d7cb14561665a0197cd3]: Commencement: S. 24 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-e38ab10db485d1358f382c243b7acc78]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2023/4/section/24) in force at 15.7.2024 by [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)
+[^c-e38ab10db485d1358f382c243b7acc78]: Commencement: [S. 24](https://www.legislation.gov.uk/asc/2023/4/section/24) in force at 15.7.2024 by [S.I. 2024/789](https://www.legislation.gov.uk/wsi/2024/789), [art. 2](https://www.legislation.gov.uk/wsi/2024/789/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Protection of property[^key-11b5b286bbb22d17de780a845be5d169]
+## 45. Protection of property[^c-11b5b286bbb22d17de780a845be5d169]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11b5b286bbb22d17de780a845be5d169]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/2006/41/section/45) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/7), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-11b5b286bbb22d17de780a845be5d169]: Textual amendment: [S. 45](https://www.legislation.gov.uk/ukpga/2006/41/section/45) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 163(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/163/7), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

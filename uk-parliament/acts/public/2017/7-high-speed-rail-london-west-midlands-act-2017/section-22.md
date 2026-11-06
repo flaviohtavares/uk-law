@@ -28,20 +28,20 @@ summary: ''
 
 (4) An order under subsection (1) must be made by statutory instrument; and a statutory instrument containing such an order must be laid before Parliament after being made.
 
-(5)[^key-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-c39f184b4f9c33b461d964a55330af72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c39f184b4f9c33b461d964a55330af72]: Textual amendment: [S. 22(5)-(11)](https://www.legislation.gov.uk/ukpga/2017/7/section/22/5) omitted (28.6.2018) by virtue of [The High Speed Rail (London West Midlands) (Greatmoor Railway Sidings Etc.) Order 2018 (S.I. 2018/693)](https://www.legislation.gov.uk/uksi/2018/693), [arts. 1](https://www.legislation.gov.uk/uksi/2018/693/article/1), [26(1)(a)](https://www.legislation.gov.uk/uksi/2018/693/article/26/1/a)
+[^c-c39f184b4f9c33b461d964a55330af72]: Textual amendment: [S. 22(5)-(11)](https://www.legislation.gov.uk/ukpga/2017/7/section/22/5) omitted (28.6.2018) by virtue of [The High Speed Rail (London West Midlands) (Greatmoor Railway Sidings Etc.) Order 2018 (S.I. 2018/693)](https://www.legislation.gov.uk/uksi/2018/693), [arts. 1](https://www.legislation.gov.uk/uksi/2018/693/article/1), [26(1)(a)](https://www.legislation.gov.uk/uksi/2018/693/article/26/1/a)

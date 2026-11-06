@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Powers of Secretary of State and devolved administrations[^key-5c567793d9a5e21fecf9ffe494194430]
+## 116. Powers of Secretary of State and devolved administrations[^c-5c567793d9a5e21fecf9ffe494194430]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c567793d9a5e21fecf9ffe494194430]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2008/14/section/116) in force at 1.1.2009 by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/c)
+[^c-5c567793d9a5e21fecf9ffe494194430]: Commencement: [S. 116](https://www.legislation.gov.uk/ukpga/2008/14/section/116) in force at 1.1.2009 by [S.I. 2008/3244](https://www.legislation.gov.uk/uksi/2008/3244), [art. 2(c)](https://www.legislation.gov.uk/uksi/2008/3244/article/2/c)

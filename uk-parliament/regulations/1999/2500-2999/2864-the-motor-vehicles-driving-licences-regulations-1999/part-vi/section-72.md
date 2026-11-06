@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-c0541fb900d6809f840e710ddc767064] Impairment of vision is prescribed for the purposes of section 92(2) of the Traffic Act as a relevant disability in relation to an applicant for, or a holder of, a Group 1 licence, who is unable to satisfy the following standards—
+(1)[^c-c0541fb900d6809f840e710ddc767064] Impairment of vision is prescribed for the purposes of section 92(2) of the Traffic Act as a relevant disability in relation to an applicant for, or a holder of, a Group 1 licence, who is unable to satisfy the following standards—
 
 - (a) the Group 1 visual acuity standard in paragraph (1A);
 - (b) the Group 1 visual field standard in paragraph (1C); and
@@ -45,7 +45,7 @@ in either case with corrective lenses if necessary.
 - (c) an extension of at least 20 degrees above and an extension of at least 20 degrees below the horizontal plane; and
 - (d) no significant defects present within a radius of the central 20 degrees.
 
-(1D) The adaptation standard for a person having diplopia or sight in only one eye is that [^key-e654f01d47383727cce1bbdc86bc873d]..., there has been—
+(1D) The adaptation standard for a person having diplopia or sight in only one eye is that [^c-e654f01d47383727cce1bbdc86bc873d]..., there has been—
 
 - (a) an appropriate period of adaptation; and
 - (b) clinical confirmation of full adaptation.
@@ -63,7 +63,7 @@ in either case with corrective lenses if necessary.
 - (i) since developing any visual field defect, the applicant has passed a disability assessment test; and
 - (j) the Secretary of State is satisfied that the driving of a vehicle by that person in accordance with the licence is not likely to be a source of danger to the public.
 
-(2)[^key-c59781cd7fdb0143d4ecf389e4edd5af] Epilepsy is prescribed for the purposes of section 92(2) of the Traffic Act as a relevant disability in relation to an applicant for, or a holder of, a Group 1 licence, who has had two or more epileptic seizures during the previous five year period.
+(2)[^c-c59781cd7fdb0143d4ecf389e4edd5af] Epilepsy is prescribed for the purposes of section 92(2) of the Traffic Act as a relevant disability in relation to an applicant for, or a holder of, a Group 1 licence, who has had two or more epileptic seizures during the previous five year period.
 
 (2A) Epilepsy is prescribed for the purposes of section 92(4)(b) of the Traffic Act in relation to an applicant for a Group 1 licence who satisfies the conditions set out in paragraph (2F) and who has either**—**
 
@@ -119,25 +119,25 @@ in either case with corrective lenses if necessary.
 
 (3) The disability described in paragraph (1) is prescribed for the purposes of section 94(5)(b) of the Traffic Act in relation to an applicant for, or a person who holds, a Group 1 licence.
 
-(4)[^key-4d146762b970d1c23ca7c025fc646c65] Diabetes mellitus is prescribed for the purposes of section 92(2) of the Traffic Act as a relevant disability in relation to an applicant for, or a holder of, a Group 1 licence, who is being treated with insulin or another medication which carries a risk of inducing hypoglycaemia and—
+(4)[^c-4d146762b970d1c23ca7c025fc646c65] Diabetes mellitus is prescribed for the purposes of section 92(2) of the Traffic Act as a relevant disability in relation to an applicant for, or a holder of, a Group 1 licence, who is being treated with insulin or another medication which carries a risk of inducing hypoglycaemia and—
 
-- (a)[^key-a87fd18356dcc77000d5332292479f4b] has experienced two or more episodes of severe hypoglycaemia while awake during the previous one year period, and the most recent episode occurred during the previous three month period; or
+- (a)[^c-a87fd18356dcc77000d5332292479f4b] has experienced two or more episodes of severe hypoglycaemia while awake during the previous one year period, and the most recent episode occurred during the previous three month period; or
 - (b) has impaired awareness of hypoglycaemia**.**
 
 (5) Diabetes mellitus is prescribed for the purposes of section 92(4)(b) of the Traffic Act in relation to an applicant for a Group 1 licence who is being treated with insulin and—
 
-- (a)[^key-434f9ce81a38e56f2dcded726bb4e75e] does not fall within paragraph (4)(a);
+- (a)[^c-434f9ce81a38e56f2dcded726bb4e75e] does not fall within paragraph (4)(a);
 - (b) does not have impaired awareness of hypoglycaemia; and
 - (c) satisfies the conditions prescribed in paragraph (6).
 
 (6) The conditions are that the applicant—
 
 - (a) can demonstrate an understanding of the risks of hypoglycaemia and adequate control of the condition;
-- (b)[^key-b434ed4b5c84adde2285e05fda1507ec] undertakes appropriate monitoring to assess glucose levels and any risk of hypoglycaemia;
+- (b)[^c-b434ed4b5c84adde2285e05fda1507ec] undertakes appropriate monitoring to assess glucose levels and any risk of hypoglycaemia;
 - (c) is under regular medical review; and
 - (d) is a person in respect of whom the Secretary of State is satisfied that the driving of a vehicle in accordance with the licence is not likely to be a source of danger to the public.
 
-(7)[^key-988ec5c6a5ce95b8348e723a186ab851]
+(7)[^c-988ec5c6a5ce95b8348e723a186ab851]
 
 - (a) in relation to eyesight—
 
@@ -157,18 +157,18 @@ in either case with corrective lenses if necessary.
 
 ## Annotations
 
-[^key-c0541fb900d6809f840e710ddc767064]: Textual amendment: Reg. 72(1)-(1E) substituted for reg. 72(1)(1A) (8.3.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/258/regulation/3/2)
+[^c-c0541fb900d6809f840e710ddc767064]: Textual amendment: Reg. 72(1)-(1E) substituted for reg. 72(1)(1A) (8.3.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2013/258/regulation/3/2)
 
-[^key-e654f01d47383727cce1bbdc86bc873d]: Textual amendment: Words in [reg. 72(1D)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/72/1D) omitted (10.4.2014) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/613/regulation/7)
+[^c-e654f01d47383727cce1bbdc86bc873d]: Textual amendment: Words in [reg. 72(1D)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/72/1D) omitted (10.4.2014) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2014 (S.I. 2014/613)](https://www.legislation.gov.uk/uksi/2014/613), [regs. 1](https://www.legislation.gov.uk/uksi/2014/613/regulation/1), [7](https://www.legislation.gov.uk/uksi/2014/613/regulation/7)
 
-[^key-c59781cd7fdb0143d4ecf389e4edd5af]: Textual amendment: Reg. 72(2)-(2F) substituted for reg. 72(2) (8.3.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/258/regulation/3/3)
+[^c-c59781cd7fdb0143d4ecf389e4edd5af]: Textual amendment: Reg. 72(2)-(2F) substituted for reg. 72(2) (8.3.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2013/258/regulation/3/3)
 
-[^key-4d146762b970d1c23ca7c025fc646c65]: Textual amendment: Reg. 72(4)-(7) inserted (15.11.2011) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2011 (S.I. 2011/2516)](https://www.legislation.gov.uk/uksi/2011/2516), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2516/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/2516/regulation/2/2)
+[^c-4d146762b970d1c23ca7c025fc646c65]: Textual amendment: Reg. 72(4)-(7) inserted (15.11.2011) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2011 (S.I. 2011/2516)](https://www.legislation.gov.uk/uksi/2011/2516), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2516/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2011/2516/regulation/2/2)
 
-[^key-a87fd18356dcc77000d5332292479f4b]: Textual amendment: [Reg. 72(4)(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/72/4/a) substituted (1.1.2018) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2017 (S.I. 2017/1208)](https://www.legislation.gov.uk/uksi/2017/1208), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1208/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1208/regulation/2/2/a)
+[^c-a87fd18356dcc77000d5332292479f4b]: Textual amendment: [Reg. 72(4)(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/72/4/a) substituted (1.1.2018) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2017 (S.I. 2017/1208)](https://www.legislation.gov.uk/uksi/2017/1208), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1208/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2017/1208/regulation/2/2/a)
 
-[^key-434f9ce81a38e56f2dcded726bb4e75e]: Textual amendment: [Reg. 72(5)(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/72/5/a) substituted (1.1.2018) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2017 (S.I. 2017/1208)](https://www.legislation.gov.uk/uksi/2017/1208), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1208/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1208/regulation/2/2/b)
+[^c-434f9ce81a38e56f2dcded726bb4e75e]: Textual amendment: [Reg. 72(5)(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/72/5/a) substituted (1.1.2018) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2017 (S.I. 2017/1208)](https://www.legislation.gov.uk/uksi/2017/1208), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1208/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2017/1208/regulation/2/2/b)
 
-[^key-b434ed4b5c84adde2285e05fda1507ec]: Textual amendment: [Reg. 72(6)(b)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/72/6/b) substituted (1.1.2018) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2017 (S.I. 2017/1208)](https://www.legislation.gov.uk/uksi/2017/1208), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1208/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/1208/regulation/2/2/c)
+[^c-b434ed4b5c84adde2285e05fda1507ec]: Textual amendment: [Reg. 72(6)(b)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/72/6/b) substituted (1.1.2018) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2017 (S.I. 2017/1208)](https://www.legislation.gov.uk/uksi/2017/1208), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1208/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2017/1208/regulation/2/2/c)
 
-[^key-988ec5c6a5ce95b8348e723a186ab851]: Textual amendment: Reg. 72(7) substituted (8.3.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/258/regulation/3/4)
+[^c-988ec5c6a5ce95b8348e723a186ab851]: Textual amendment: Reg. 72(7) substituted (8.3.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2013/258/regulation/3/4)

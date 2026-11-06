@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Value of security[^key-9374b43be38fc095e8372574f458998a]
+## 58. Value of security[^c-9374b43be38fc095e8372574f458998a]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9374b43be38fc095e8372574f458998a]: Commencement: Rule 58 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-9374b43be38fc095e8372574f458998a]: Commencement: Rule 58 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

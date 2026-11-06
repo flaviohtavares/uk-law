@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Authorisation for questioning[^key-562b1e32a3ac62cabcc4b6cf402c3398]
+## 35. Authorisation for questioning[^c-562b1e32a3ac62cabcc4b6cf402c3398]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ is final.
 
 ## Annotations
 
-[^key-562b1e32a3ac62cabcc4b6cf402c3398]: Commencement: S. 35 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/345/article/8))
+[^c-562b1e32a3ac62cabcc4b6cf402c3398]: Commencement: S. 35 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/345/article/8))

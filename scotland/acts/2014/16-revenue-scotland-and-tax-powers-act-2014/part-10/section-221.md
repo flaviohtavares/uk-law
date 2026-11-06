@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 221. Issue of tax demands and receipts[^key-e518b3876549ff6cc6922b5c9fd6ea7c]
+## 221. Issue of tax demands and receipts[^c-e518b3876549ff6cc6922b5c9fd6ea7c]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e518b3876549ff6cc6922b5c9fd6ea7c]: Commencement: [S. 221](https://www.legislation.gov.uk/asp/2014/16/section/221) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-e518b3876549ff6cc6922b5c9fd6ea7c]: Commencement: [S. 221](https://www.legislation.gov.uk/asp/2014/16/section/221) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

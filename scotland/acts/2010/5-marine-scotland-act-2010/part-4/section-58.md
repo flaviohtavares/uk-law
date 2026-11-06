@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Further provision as to emergency safety notices[^key-7b0bfe68bd26e771638908c68f840234]
+## 58. Further provision as to emergency safety notices[^c-7b0bfe68bd26e771638908c68f840234]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b0bfe68bd26e771638908c68f840234]: Commencement: S. 58 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-7b0bfe68bd26e771638908c68f840234]: Commencement: S. 58 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

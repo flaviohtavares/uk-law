@@ -59,7 +59,7 @@ that provision shall have effect as if the words from “for distinct parts of t
 (4) For the purposes of sub-paragraph (2)—
 
 - (a) a person is a relevant person if he is a person by or for whom the property is contracted to be purchased;
-- (b) the question whether persons are connected with one another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^key-5118b36241aa813cb7d301ea406519ba].
+- (b) the question whether persons are connected with one another shall be determined in accordance with section 1122 of the Corporation Tax Act 2010[^c-5118b36241aa813cb7d301ea406519ba].
 
 (5) In sub-paragraph (3) “**the enactments relating to stamp duty**” means the Stamp Act 1891 and any enactment amending or which is to be construed as one with that Act.
 
@@ -85,7 +85,7 @@ that provision shall have effect as if the words from “for distinct parts of t
 
 [^c14060491]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).
 
-[^key-5118b36241aa813cb7d301ea406519ba]: Textual amendment: Words in Sch. 34 para. 3(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 318](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/318) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-5118b36241aa813cb7d301ea406519ba]: Textual amendment: Words in Sch. 34 para. 3(4)(b) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 318](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/318) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14060501]: Marginal citation: [1999 c. 16](https://www.legislation.gov.uk/ukpga/1999/16).
 

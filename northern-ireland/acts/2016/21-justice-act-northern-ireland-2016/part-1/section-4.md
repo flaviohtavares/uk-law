@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Additional powers where collection order made[^key-cda354a61ac73b7e7e02630ecdb94a45]
+## 4. Additional powers where collection order made[^c-cda354a61ac73b7e7e02630ecdb94a45]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cda354a61ac73b7e7e02630ecdb94a45]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/21/section/4) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-cda354a61ac73b7e7e02630ecdb94a45]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2016/21/section/4) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**76.**[^key-9f6aff635be9641eb7a643cacfac5928] In regulation 84—
+**76.**[^c-9f6aff635be9641eb7a643cacfac5928] In regulation 84—
 
 - (a) in paragraph (1)—
   - (i) in subparagraph (a) for “another” substitute “an EU”;
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f6aff635be9641eb7a643cacfac5928]: Commencement: Reg. 76 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-9f6aff635be9641eb7a643cacfac5928]: Commencement: Reg. 76 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

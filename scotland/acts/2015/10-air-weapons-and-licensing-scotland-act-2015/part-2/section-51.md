@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Personal licences: procedure in relation to relevant offences or foreign offences[^key-5a8cfe65794354a30f630c34de754b3c]
+## 51. Personal licences: procedure in relation to relevant offences or foreign offences[^c-5a8cfe65794354a30f630c34de754b3c]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In section 83 of the 2005 Act (procedure where Licensing Board receive notice of
 
 ## Annotations
 
-[^key-5a8cfe65794354a30f630c34de754b3c]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2015/10/section/51) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2017/119/article/5))
+[^c-5a8cfe65794354a30f630c34de754b3c]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2015/10/section/51) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2017/119/article/5))

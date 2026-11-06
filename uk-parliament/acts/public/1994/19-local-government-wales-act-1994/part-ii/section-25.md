@@ -46,7 +46,7 @@ summary: ''
 
 (8) In section 1(4) of that Act (authorities to which Act applies), for “any county” substitute “ any county, county borough ”.
 
-(9)[^key-0fc496ba877034d0a5d468fd585209f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-0fc496ba877034d0a5d468fd585209f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -62,4 +62,4 @@ summary: ''
 
 [^c10519411]: Marginal citation: [1970 c. 39](https://www.legislation.gov.uk/ukpga/1970/39).
 
-[^key-0fc496ba877034d0a5d468fd585209f8]: Textual amendment: [S. 25(9)](https://www.legislation.gov.uk/ukpga/1994/19/section/25/9) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/2)
+[^c-0fc496ba877034d0a5d468fd585209f8]: Textual amendment: [S. 25(9)](https://www.legislation.gov.uk/ukpga/1994/19/section/25/9) omitted (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 29(2)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/29/2)

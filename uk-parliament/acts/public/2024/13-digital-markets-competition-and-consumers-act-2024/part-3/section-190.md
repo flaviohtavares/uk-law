@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 190. Monetary penalties under section 189: amount[^key-3f11d88b4d6cb810bd338e14a7eee9a5][^key-552316ac3d1394f40cb9e92aa25048e5]
+## 190. Monetary penalties under section 189: amount[^c-3f11d88b4d6cb810bd338e14a7eee9a5][^c-552316ac3d1394f40cb9e92aa25048e5]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f11d88b4d6cb810bd338e14a7eee9a5]: Commencement: S. 190 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-3f11d88b4d6cb810bd338e14a7eee9a5]: Commencement: S. 190 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-552316ac3d1394f40cb9e92aa25048e5]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2024/13/section/190) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-552316ac3d1394f40cb9e92aa25048e5]: Commencement: [S. 190](https://www.legislation.gov.uk/ukpga/2024/13/section/190) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

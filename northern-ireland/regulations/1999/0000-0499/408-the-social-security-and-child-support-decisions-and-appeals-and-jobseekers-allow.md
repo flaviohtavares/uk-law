@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Article 21(2) of the Jobseekers (Northern Ireland) Order 1995[^f00001] and Articles 10(1), 11(3) and (6) and 74(1) and (3) of the Social Security (Northern Ireland) Order 1998[^f00002] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-155559845fe6247cdf2be7d930e42b4e]
+## 1. Citation and commencement[^c-155559845fe6247cdf2be7d930e42b4e]
 
 These Regulations may be cited as the Social Security and Child Support (Decisions and Appeals) and Jobseeker’s Allowance (Amendment) Regulations (Northern Ireland) 1999 and shall come into operation on 18th October 1999.
 
-## 2. Amendment of the Jobseeker’s Allowance Regulations[^key-b2d61952047eedfecebea81242153f91]
+## 2. Amendment of the Jobseeker’s Allowance Regulations[^c-b2d61952047eedfecebea81242153f91]
 
 In regulation 69 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1996[^f00003] (prescribed period for purposes of Article 21(2) of the Order)—
 
@@ -58,13 +58,13 @@ In regulation 69 of the Jobseeker’s Allowance Regulations (Northern Ireland) 1
 
   .
 
-## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-1c2cd644308a8b335d2cbf650364da78]
+## 3. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-1c2cd644308a8b335d2cbf650364da78]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00005] shall be amended in accordance with paragraphs (2) to (4).
 
 (2) In regulation 3 (revision of decisions)—
 
-- (a)[^key-278999ee40ba0fcbb1cce83e5413de6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-278999ee40ba0fcbb1cce83e5413de6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (9) there shall be substituted the following paragraph—
 
   > (9) Paragraph (1) shall not apply in respect of—
@@ -134,16 +134,16 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00002]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)
 
-[^key-155559845fe6247cdf2be7d930e42b4e]: Commencement: Reg. 1 in operation at 18.10.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/408/regulation/1)
+[^c-155559845fe6247cdf2be7d930e42b4e]: Commencement: Reg. 1 in operation at 18.10.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/408/regulation/1)
 
-[^key-b2d61952047eedfecebea81242153f91]: Commencement: Reg. 2 in operation at 18.10.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/408/regulation/1)
+[^c-b2d61952047eedfecebea81242153f91]: Commencement: Reg. 2 in operation at 18.10.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/408/regulation/1)
 
 [^f00003]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); regulation 69 was amended by regulation 6 of [S.R. 1997 No. 541](https://www.legislation.gov.uk/nisr/1997/541) and modified by regulation 5(3) of [S.R. 1998 No. 421](https://www.legislation.gov.uk/nisr/1998/421)
 
 [^f00004]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 26A was inserted by regulation 2(14) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and amended by regulation 6(2) of [S.R. 1998 No. 182](https://www.legislation.gov.uk/nisr/1998/182)
 
-[^key-1c2cd644308a8b335d2cbf650364da78]: Commencement: Reg. 3 in operation at 18.10.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/408/regulation/1)
+[^c-1c2cd644308a8b335d2cbf650364da78]: Commencement: Reg. 3 in operation at 18.10.1999, see [reg. 1](https://www.legislation.gov.uk/nisr/1999/408/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162), to which there are amendments not relevant to these regulations
 
-[^key-278999ee40ba0fcbb1cce83e5413de6c]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/1999/408/regulation/3/2/a) revoked (20.5.2002) by [The Social Security and Child Support (Decisions and Appeals) (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 (S.R. 2002/189)](https://www.legislation.gov.uk/nisr/2002/189), [regs. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1), [4](https://www.legislation.gov.uk/nisr/2002/189/regulation/4)
+[^c-278999ee40ba0fcbb1cce83e5413de6c]: Textual amendment: [Reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/1999/408/regulation/3/2/a) revoked (20.5.2002) by [The Social Security and Child Support (Decisions and Appeals) (Miscellaneous Amendments) Regulations (Northern Ireland) 2002 (S.R. 2002/189)](https://www.legislation.gov.uk/nisr/2002/189), [regs. 1](https://www.legislation.gov.uk/nisr/2002/189/regulation/1), [4](https://www.legislation.gov.uk/nisr/2002/189/regulation/4)

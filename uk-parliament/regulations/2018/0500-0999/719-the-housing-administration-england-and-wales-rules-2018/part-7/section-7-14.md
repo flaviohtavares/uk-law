@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.14. Standard contents of all notices[^key-085e399a1e47d3403827c2397327ae07]
+## 7.14. Standard contents of all notices[^c-085e399a1e47d3403827c2397327ae07]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A notice must—
 
 ## Annotations
 
-[^key-085e399a1e47d3403827c2397327ae07]: Commencement: Rule 7.14 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-085e399a1e47d3403827c2397327ae07]: Commencement: Rule 7.14 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

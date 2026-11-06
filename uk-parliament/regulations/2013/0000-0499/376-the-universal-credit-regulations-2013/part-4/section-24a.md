@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24A. Availability of the child element where maximum exceeded[^key-44654cd43d97bdadb1535136735c12e5]
+## 24A. Availability of the child element where maximum exceeded[^c-44654cd43d97bdadb1535136735c12e5]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-44654cd43d97bdadb1535136735c12e5]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2013/376/regulation/24A) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/3/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))
+[^c-44654cd43d97bdadb1535136735c12e5]: Textual amendment: [Reg. 24A](https://www.legislation.gov.uk/uksi/2013/376/regulation/24A) revoked (6.4.2026 in relation to assessment periods commencing on or after that date) by [Universal Credit (Removal of Two Child Limit) Act 2026 (c. 13)](https://www.legislation.gov.uk/ukpga/2026/13), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/3/a), [3(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/3/4) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2026/13/section/1/4))

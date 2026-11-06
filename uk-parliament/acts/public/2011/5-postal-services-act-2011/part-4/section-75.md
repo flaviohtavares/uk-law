@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Voluntary winding up[^key-2cfe6921bea12afef5d28e854a60d2fb]
+## 75. Voluntary winding up[^c-2cfe6921bea12afef5d28e854a60d2fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cfe6921bea12afef5d28e854a60d2fb]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2011/5/section/75) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-2cfe6921bea12afef5d28e854a60d2fb]: Commencement: [S. 75](https://www.legislation.gov.uk/ukpga/2011/5/section/75) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

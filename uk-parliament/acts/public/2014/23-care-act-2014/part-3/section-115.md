@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Establishment by the HRA[^key-01072fb4a3db6a4579d9edd24d9c1f3d]
+## 115. Establishment by the HRA[^c-01072fb4a3db6a4579d9edd24d9c1f3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-01072fb4a3db6a4579d9edd24d9c1f3d]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2014/23/section/115) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(g)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/g)
+[^c-01072fb4a3db6a4579d9edd24d9c1f3d]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2014/23/section/115) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(g)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/g)

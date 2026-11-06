@@ -16,28 +16,28 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## ANNEX V — UNION FINANCIAL ASSISTANCE: ADDITIONAL SUPPORT IN THE EVENT OF SHORT-TERM FLUCTUATIONS IN EXPORT EARNINGS[^key-c95bff0682d91636b7e74b32bac558c9]
+## ANNEX V — UNION FINANCIAL ASSISTANCE: ADDITIONAL SUPPORT IN THE EVENT OF SHORT-TERM FLUCTUATIONS IN EXPORT EARNINGS[^c-c95bff0682d91636b7e74b32bac558c9]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Article 1. Principles[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 1. Principles[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 2. Eligibility criteria[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 2. Eligibility criteria[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 3. Advances[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 3. Advances[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Revision[^key-c95bff0682d91636b7e74b32bac558c9]
+### Article 4. Revision[^c-c95bff0682d91636b7e74b32bac558c9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c95bff0682d91636b7e74b32bac558c9]: Textual amendment: Decision revoked (31.12.2020) by [The Overseas Association Decision (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/221)](https://www.legislation.gov.uk/uksi/2019/221), [regs. 1](https://www.legislation.gov.uk/uksi/2019/221/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/221/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c95bff0682d91636b7e74b32bac558c9]: Textual amendment: Decision revoked (31.12.2020) by [The Overseas Association Decision (Revocation) (EU Exit) Regulations 2019 (S.I. 2019/221)](https://www.legislation.gov.uk/uksi/2019/221), [regs. 1](https://www.legislation.gov.uk/uksi/2019/221/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/221/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

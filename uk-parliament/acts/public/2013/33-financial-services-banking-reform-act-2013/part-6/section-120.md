@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Power to direct FMI administrator[^key-0d82045dbf88d5ea131f1110df91dc19]
+## 120. Power to direct FMI administrator[^c-0d82045dbf88d5ea131f1110df91dc19]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,12 +44,12 @@ summary: ''
 - (a) in bad faith, or
 - (b) in contravention of section 6(1) of the Human Rights Act 1998.
 
-(8) This section does not limit the powers conferred on the Bank of England by section 191 of the Banking Act 2009 (directions) in relation to a recognised [^key-45ee4c3a60854606ceded48dc44b13a2]...payment system or section[^key-6d8a1e84978ae1fa701ba104fb169681] 206M of that Act (directions) in relation to a person recognised for the purposes of Part 5A of that Act.
+(8) This section does not limit the powers conferred on the Bank of England by section 191 of the Banking Act 2009 (directions) in relation to a recognised [^c-45ee4c3a60854606ceded48dc44b13a2]...payment system or section[^c-6d8a1e84978ae1fa701ba104fb169681] 206M of that Act (directions) in relation to a person recognised for the purposes of Part 5A of that Act.
 
 ## Annotations
 
-[^key-0d82045dbf88d5ea131f1110df91dc19]: Commencement: S. 120 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-0d82045dbf88d5ea131f1110df91dc19]: Commencement: S. 120 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
 
-[^key-45ee4c3a60854606ceded48dc44b13a2]: Textual amendment: Word in s. 120(8) omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2), [Sch. 9 para. 44](https://www.legislation.gov.uk/ukpga/2017/30/schedule/9/paragraph/44)
+[^c-45ee4c3a60854606ceded48dc44b13a2]: Textual amendment: Word in s. 120(8) omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2), [Sch. 9 para. 44](https://www.legislation.gov.uk/ukpga/2017/30/schedule/9/paragraph/44)
 
-[^key-6d8a1e84978ae1fa701ba104fb169681]: Textual amendment: Words in [s. 120(8)](https://www.legislation.gov.uk/ukpga/2013/33/section/120/8) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/8)
+[^c-6d8a1e84978ae1fa701ba104fb169681]: Textual amendment: Words in [s. 120(8)](https://www.legislation.gov.uk/ukpga/2013/33/section/120/8) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/8)

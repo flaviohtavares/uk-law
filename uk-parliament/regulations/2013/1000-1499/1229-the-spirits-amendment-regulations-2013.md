@@ -46,15 +46,15 @@ Coming into force
 
 The Commissioners for Her Majesty’s Revenue and Customs, in exercise of the powers conferred by section 93 of the Customs and Excise Management Act 1979[^f00001] and sections 2 and 19(1) of the Alcoholic Liquor Duties Act 1979[^f00002], make the following Regulations.
 
-## 1. Citation and Commencement[^key-39be30b606c1909995cf0f2c869b709c]
+## 1. Citation and Commencement[^c-39be30b606c1909995cf0f2c869b709c]
 
 These Regulations may be cited as the Spirits (Amendment) Regulations 2013 and come into force on 1st July 2013.
 
-## 2. Revocation of the Spirits (Rectifying, Compounding and Drawback) Regulations 1988[^key-4064e54550e618df9275c2b5c13ad5fd]
+## 2. Revocation of the Spirits (Rectifying, Compounding and Drawback) Regulations 1988[^c-4064e54550e618df9275c2b5c13ad5fd]
 
 The Spirits (Rectifying, Compounding and Drawback) Regulations 1988[^f00003] are revoked.
 
-## 3. Amendments to the Spirits Regulations 1991[^key-eda9fd7fe9daef623b5c3580d047fc39]
+## 3. Amendments to the Spirits Regulations 1991[^c-eda9fd7fe9daef623b5c3580d047fc39]
 
 (1) The Spirits Regulations 1991[^f00004] are amended as follows.
 
@@ -95,11 +95,11 @@ The Spirits (Rectifying, Compounding and Drawback) Regulations 1988[^f00003] are
 
 (7) In regulation 26, omit “approved as” wherever it occurs.
 
-## 4. Amendments to the Duty Stamps Regulations 2006[^key-7ffe959afac464fc83da2123505dcb1a]
+## 4. Amendments to the Duty Stamps Regulations 2006[^c-7ffe959afac464fc83da2123505dcb1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Beer, Cider and Perry, Spirits and Wine and Made-wine (Amendment) Regulations 2006[^key-d9767b1b78c61fc96fe21a9d7a816aad]
+## 5. Amendments to the Beer, Cider and Perry, Spirits and Wine and Made-wine (Amendment) Regulations 2006[^c-d9767b1b78c61fc96fe21a9d7a816aad]
 
 (1) The Beer, Cider and Perry, Spirits and Wine and Made-wine (Amendment) Regulations[^f00006] 2006 are amended as follows.
 
@@ -145,18 +145,18 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00002]: Footnote: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4); section 2 was substituted by [S.I. 1979/241](https://www.legislation.gov.uk/uksi/1979/241), article 6; section 2(1) was amended by [S.I. 1992/3158](https://www.legislation.gov.uk/uksi/1992/3158), regulations 2(1), 3 and amended by the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), Schedule 29, Part I(3); section 2(3A) was inserted by the Finance Act 1981, Schedule 8, Part II, paragraph 10, amended by the Finance Act [1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), Schedule 2, paragraph 3(1) and by the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), section 5(3); section 2(5) was amended by the Finance Act 1991, Schedule 2, paragraph 3(2); section 2(6) was repealed by the Finance Act 1991, Schedule 2, paragraph 3(3), Schedule 19, Part II; sections 2(7) and 2(8) were amended by the Finance Act 1995, Schedule 29, Part I(3); section 4(2) of the Alcoholic Liquor Duties Act 1979 provides for that Act to be construed as one with the Customs and Excise Management Act 1979 and section 4(3) applies the definitions in that latter Act; section 1(1) of the Customs and Excise Management Act 1979 defines “the Commissioners”.
 
-[^key-39be30b606c1909995cf0f2c869b709c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
+[^c-39be30b606c1909995cf0f2c869b709c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
 
-[^key-4064e54550e618df9275c2b5c13ad5fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1229/regulation/2) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
+[^c-4064e54550e618df9275c2b5c13ad5fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/1229/regulation/2) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1988/1760](https://www.legislation.gov.uk/uksi/1988/1760), amended by [S.I. 1991/2564](https://www.legislation.gov.uk/uksi/1991/2564), [2006/1058](https://www.legislation.gov.uk/uksi/2006/1058).
 
-[^key-eda9fd7fe9daef623b5c3580d047fc39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1229/regulation/3) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
+[^c-eda9fd7fe9daef623b5c3580d047fc39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/1229/regulation/3) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
 
 [^f00004]: Footnote: [S.I. 1991/2564](https://www.legislation.gov.uk/uksi/1991/2564), amended by [S.I. 2005/1524](https://www.legislation.gov.uk/uksi/2005/1524), [S.I. 2006/1058](https://www.legislation.gov.uk/uksi/2006/1058).
 
-[^key-7ffe959afac464fc83da2123505dcb1a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1229/regulation/4) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/d)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-7ffe959afac464fc83da2123505dcb1a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/1229/regulation/4) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(d)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/d)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
-[^key-d9767b1b78c61fc96fe21a9d7a816aad]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1229/regulation/5) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
+[^c-d9767b1b78c61fc96fe21a9d7a816aad]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/1229/regulation/5) in force at 1.7.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/1229/regulation/1)
 
 [^f00006]: Footnote: [S.I. 2006/1058](https://www.legislation.gov.uk/uksi/2006/1058).

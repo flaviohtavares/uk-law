@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Boundaries Scotland's reports and implementation[^c9668491][^key-ce0b0a6e8e0756ce434f851994e82247]
+## 17. Boundaries Scotland's reports and implementation[^c9668491][^c-ce0b0a6e8e0756ce434f851994e82247]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ the Scottish Ministers must make the regulations contained in the draft instrume
 
 [^c9668491]: Modification: S. 17 power to transfer or modify functions conferred (30.11.2000 for certain purposes, otherwise prosp.) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/19/3), [163(2)(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/163/2/3) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6))
 
-[^key-ce0b0a6e8e0756ce434f851994e82247]: Textual amendment: Ss. 17, 17A substituted for s. 17 (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 31(2)](https://www.legislation.gov.uk/asp/2020/12/section/31/2), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/124/regulation/3))
+[^c-ce0b0a6e8e0756ce434f851994e82247]: Textual amendment: Ss. 17, 17A substituted for s. 17 (14.5.2021) by [Scottish Elections (Reform) Act 2020 (asp 12)](https://www.legislation.gov.uk/asp/2020/12), [ss. 31(2)](https://www.legislation.gov.uk/asp/2020/12/section/31/2), [35](https://www.legislation.gov.uk/asp/2020/12/section/35); [S.S.I. 2021/124](https://www.legislation.gov.uk/ssi/2021/124), [reg. 2](https://www.legislation.gov.uk/ssi/2021/124/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/124/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/124/regulation/3))

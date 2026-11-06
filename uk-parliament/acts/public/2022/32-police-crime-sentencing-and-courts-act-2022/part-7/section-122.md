@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Penalty for cruelty to children[^key-cfd788f9c8810611d14cdb9286a211c5]
+## 122. Penalty for cruelty to children[^c-cfd788f9c8810611d14cdb9286a211c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfd788f9c8810611d14cdb9286a211c5]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2022/32/section/122) in force at 28.6.2022, see [s. 208(5)(j)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/j)
+[^c-cfd788f9c8810611d14cdb9286a211c5]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2022/32/section/122) in force at 28.6.2022, see [s. 208(5)(j)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/j)

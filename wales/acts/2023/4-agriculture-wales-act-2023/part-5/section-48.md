@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Consequential amendments to the Wildlife and Countryside Act 1981[^key-9d73566b1133cf1925d7103e8c1c59fa]
+## 48. Consequential amendments to the Wildlife and Countryside Act 1981[^c-9d73566b1133cf1925d7103e8c1c59fa]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d73566b1133cf1925d7103e8c1c59fa]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2023/4/section/48) in force at 17.10.2023, see [s. 56(2)(d)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/d)
+[^c-9d73566b1133cf1925d7103e8c1c59fa]: Commencement: [S. 48](https://www.legislation.gov.uk/asc/2023/4/section/48) in force at 17.10.2023, see [s. 56(2)(d)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/d)

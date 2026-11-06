@@ -31,7 +31,7 @@ of 15 January 2016
 
 laying down maximum permitted levels of radioactive contamination of food and feed following a nuclear accident or any other case of radiological emergency, and repealing Regulation (Euratom) No 3954/87 and Commission Regulations (Euratom) No 944/89 and (Euratom) No 770/90
 
-[^key-b372d7ea102fb1feddcabb0b27a93966]
+[^c-b372d7ea102fb1feddcabb0b27a93966]
 
 THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -133,7 +133,7 @@ This Regulation lays down the maximum permitted levels of radioactive contaminat
 
 which may be placed on the market following a nuclear accident or any other case of radiological emergency which is likely to lead to or has led to significant radioactive contamination of food and feed.
 
-[^key-399f1410f573a84b7f26b67542bb0ece]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-399f1410f573a84b7f26b67542bb0ece]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 2. Definitions
 
@@ -158,7 +158,7 @@ For the purposes of this Regulation, the following definitions apply:
 - ((3)) ‘feed’ means any substance or product, including additives, whether processed, partially processed or unprocessed, intended to be used for oral feeding to animals;
 - ((4)) ‘placing on the market’ means the holding of food or feed for the purpose of sale, including offering for sale or any other form of transfer, whether free of charge or not, and the sale, distribution and other forms of transfer themselves;
 - ((5)) ‘radiological emergency’ means a non-routine situation or event involving a radiation source that necessitates prompt action to mitigate serious adverse consequences for human health and safety, quality of life, property or the environment, or a hazard that could give rise to such serious adverse consequences.
-- ((6)) “[^key-2f0a00a77cc139f4ff7a439b8783d025]**appropriate authority**” means—
+- ((6)) “[^c-2f0a00a77cc139f4ff7a439b8783d025]**appropriate authority**” means—
   - (a) in relation to England, the Secretary of State;
   - (b) in relation to Wales, the Welsh Ministers;
   - (c) in relation to Scotland, the Scottish Ministers;
@@ -167,7 +167,7 @@ For the purposes of this Regulation, the following definitions apply:
   - (ii) as regards Scotland, Food Standards Scotland;
 - ((8)) “**prescribe**” means prescribe by regulations.
 
-## Article 3. Applicable maximum permitted levels[^key-5b81dbeeee6ee97352d3ff05a25c9cc6]
+## Article 3. Applicable maximum permitted levels[^c-5b81dbeeee6ee97352d3ff05a25c9cc6]
 
  1. If the appropriate authority receives — in particular under the IAEA Convention on Early Notification of a Nuclear Accident of 26 September 1986 — official information on a nuclear accident or on any other case of radiological emergency which is likely to lead to or has led to significant radioactive contamination of food and feed, the appropriate authority must, subject to paragraph 6, prescribe measures which apply the applicable maximum permitted levels to the potentially contaminated food or feed that could be placed on the market.
 
@@ -183,15 +183,15 @@ For the purposes of this Regulation, the following definitions apply:
 
 (7.) When reviewing measures prescribed under this Article, the appropriate authority must consider, among other matters, whether the nuclear accident or any other case of radiological emergency has caused such widespread contamination of food or feed consumed in Great Britain that the rationale and assumptions underpinning the maximum permitted levels set out in Annexes 1, 2 and 3 to this Regulation are no longer valid.
 
-## Article 4. Restrictive measures[^key-d5198f8b4cc114c1b458326da3a972ba]
+## Article 4. Restrictive measures[^c-d5198f8b4cc114c1b458326da3a972ba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Committee procedure[^key-e923158c2593066ad2ac6bf8fecc9ce7]
+## Article 5. Committee procedure[^c-e923158c2593066ad2ac6bf8fecc9ce7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5A. Regulations and devolved powers[^key-426bee0a19e25d7f7d5176d4cb87dc8c]
+## Article 5A. Regulations and devolved powers[^c-426bee0a19e25d7f7d5176d4cb87dc8c]
 
 (1.) Any power to make regulations under Article 3—
 
@@ -217,7 +217,7 @@ For the purposes of this Regulation, the following definitions apply:
 - (b) of the Welsh Ministers to make regulations is limited to regulations which apply in relation to Wales only;
 - (c) of the Scottish Ministers to make regulations is limited to regulations which apply in relation to Scotland only.
 
-## Article 6. Reporting[^key-2e06a09810f304d18ee2d5bfa121092e]
+## Article 6. Reporting[^c-2e06a09810f304d18ee2d5bfa121092e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -231,7 +231,7 @@ References to the repealed Regulations shall be construed as references to this 
 
 This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-acf5b00178eb7c752cff0831438a41f2]...
+[^c-acf5b00178eb7c752cff0831438a41f2]...
 
 Done at Brussels, 15 January 2016.
 
@@ -264,7 +264,7 @@ The maximum permitted levels to be applied to food shall not exceed the followin
 </tbody>
 </table>
 
-[^key-ba1f5992631943777b0322694adfe197][^f00015][^f00016][^f00017][^f00018][^f00019][^f00020]
+[^c-ba1f5992631943777b0322694adfe197][^f00015][^f00016][^f00017][^f00018][^f00019][^f00020]
 
 ## ANNEX II — MAXIMUM PERMITTED LEVELS OF RADIOACTIVE CONTAMINATION OF MINOR FOOD
 
@@ -372,7 +372,7 @@ The maximum permitted levels for the sum of caesium-134 and caesium-137 shall no
 
 ## Annotations
 
-[^key-b372d7ea102fb1feddcabb0b27a93966]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-b372d7ea102fb1feddcabb0b27a93966]: Modification: Regulation applied (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: Opinion of 9 July 2015 (not yet published in the Official Journal).
 
@@ -392,7 +392,7 @@ The maximum permitted levels for the sum of caesium-134 and caesium-137 shall no
 
 [^f00009]: Footnote: Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29 April 2004 on official controls performed to ensure the verification of compliance with feed and food law, animal health and animal welfare rules ([OJ L 165, 30.4.2004, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.165.01.0001.01.ENG)).
 
-[^key-399f1410f573a84b7f26b67542bb0ece]: Textual amendment: Words in Art. 1 omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/701/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-399f1410f573a84b7f26b67542bb0ece]: Textual amendment: Words in Art. 1 omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/701/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00010]: Footnote: Directive 2001/83/EC of the European Parliament and of the Council of 6 November 2001 on the Community code relating to medicinal products for human use ([OJ L 311, 28.11.2001, p. 67](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.311.01.0067.01.ENG)).
 
@@ -400,27 +400,27 @@ The maximum permitted levels for the sum of caesium-134 and caesium-137 shall no
 
 [^f00012]: Footnote: Directive 2014/40/EU of the European Parliament and of the Council of 3 April 2014 on the approximation of the laws, regulations and administrative provisions of the Member States concerning the manufacture, presentation and sale of tobacco and related products and repealing Directive 2001/37/EC ([OJ L 127, 29.4.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.127.01.0001.01.ENG)).
 
-[^key-2f0a00a77cc139f4ff7a439b8783d025]: Textual amendment: [Art. 2(6)-(9)](https://www.legislation.gov.uk/eur/2016/52/article/2/6) inserted (31.12.2020) by [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/701/regulation/5) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f0a00a77cc139f4ff7a439b8783d025]: Textual amendment: [Art. 2(6)-(9)](https://www.legislation.gov.uk/eur/2016/52/article/2/6) inserted (31.12.2020) by [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [5](https://www.legislation.gov.uk/uksi/2019/701/regulation/5) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b81dbeeee6ee97352d3ff05a25c9cc6]: Textual amendment: Art. 3 substituted (31.12.2020) by [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/701/regulation/6) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b81dbeeee6ee97352d3ff05a25c9cc6]: Textual amendment: Art. 3 substituted (31.12.2020) by [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/701/regulation/6) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d5198f8b4cc114c1b458326da3a972ba]: Textual amendment: Art. 4 omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/701/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5198f8b4cc114c1b458326da3a972ba]: Textual amendment: Art. 4 omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/701/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e923158c2593066ad2ac6bf8fecc9ce7]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/701/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e923158c2593066ad2ac6bf8fecc9ce7]: Textual amendment: Art. 5 omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/701/regulation/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-426bee0a19e25d7f7d5176d4cb87dc8c]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/eur/2016/52/article/5A) inserted (31.12.2020) by [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/701/regulation/8) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-426bee0a19e25d7f7d5176d4cb87dc8c]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/eur/2016/52/article/5A) inserted (31.12.2020) by [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/701/regulation/8) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/14/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e06a09810f304d18ee2d5bfa121092e]: Textual amendment: Art. 6 omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/701/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e06a09810f304d18ee2d5bfa121092e]: Textual amendment: Art. 6 omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [9](https://www.legislation.gov.uk/uksi/2019/701/regulation/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00013]: Footnote: Commission Regulation (Euratom) No 944/89 of 12 April 1989 laying down maximum permitted levels of radioactive contamination in minor foodstuffs following a nuclear accident or any other case of radiological emergency ([OJ L 101, 13.4.1989, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.101.01.0017.01.ENG)).
 
 [^f00014]: Footnote: Commission Regulation (Euratom) No 770/90 of 29 March 1990 laying down maximum permitted levels of radioactive contamination of feedingstuffs following a nuclear accident or any other case of radiological emergency ([OJ L 83, 30.3.1990, p. 78](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1990.083.01.0078.01.ENG)).
 
-[^key-acf5b00178eb7c752cff0831438a41f2]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/701/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-acf5b00178eb7c752cff0831438a41f2]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/701/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ba1f5992631943777b0322694adfe197]: Textual amendment: Words in Annex 1 footnote substituted (31.12.2020) by [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/701/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba1f5992631943777b0322694adfe197]: Textual amendment: Words in Annex 1 footnote substituted (31.12.2020) by [The Food and Feed (Maximum Permitted Levels of Radioactive Contamination) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/701)](https://www.legislation.gov.uk/uksi/2019/701), [regs. 1](https://www.legislation.gov.uk/uksi/2019/701/regulation/1), [11](https://www.legislation.gov.uk/uksi/2019/701/regulation/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^f00015]: Footnote: The level applicable to concentrated or dried products is calculated on the basis of the reconstituted product as ready for consumption. The Food Safety Authority[^key-ba1f5992631943777b0322694adfe197] may make recommendations concerning the diluting conditions in order to ensure that the maximum permitted levels laid down in this Regulation are observed.
+[^f00015]: Footnote: The level applicable to concentrated or dried products is calculated on the basis of the reconstituted product as ready for consumption. The Food Safety Authority[^c-ba1f5992631943777b0322694adfe197] may make recommendations concerning the diluting conditions in order to ensure that the maximum permitted levels laid down in this Regulation are observed.
 
 [^f00016]: Footnote: Infant food is defined as food intended for the feeding of infants during the first 12 months of life which meets, in itself, the nutritional requirements of this category of persons and is put up for retail sale in packages which are clearly identified and labelled as such.
 

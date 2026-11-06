@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Power of entry: Crown land[^key-3af25a77aa63aeddddef6269abc8e138]
+## 88. Power of entry: Crown land[^c-3af25a77aa63aeddddef6269abc8e138]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3af25a77aa63aeddddef6269abc8e138]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2019/17/section/88) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-3af25a77aa63aeddddef6269abc8e138]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2019/17/section/88) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

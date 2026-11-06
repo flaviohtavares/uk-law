@@ -37,20 +37,20 @@ authorising Member States to sign, ratify or accede to the Cape Town Agreement o
 
 (2014/195/EU) (revoked)
 
-[^key-1f278a1b8adf6fee67df1e5f1293da8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f278a1b8adf6fee67df1e5f1293da8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-1f278a1b8adf6fee67df1e5f1293da8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1f278a1b8adf6fee67df1e5f1293da8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1f278a1b8adf6fee67df1e5f1293da8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1f278a1b8adf6fee67df1e5f1293da8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-1f278a1b8adf6fee67df1e5f1293da8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-1f278a1b8adf6fee67df1e5f1293da8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1f278a1b8adf6fee67df1e5f1293da8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1f278a1b8adf6fee67df1e5f1293da8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — DECLARATION TO BE DEPOSITED BY THE MEMBER STATES UPON SIGNATURE, RATIFICATION OR ACCESSION TO THE CAPE TOWN AGREEMENT OF 2012 ON THE IMPLEMENTATION OF THE PROVISIONS OF THE TORREMOLINOS PROTOCOL OF 1993 RELATING TO THE TORREMOLINOS INTERNATIONAL CONVENTION FOR THE SAFETY OF FISHING VESSELS, 1977[^key-1f278a1b8adf6fee67df1e5f1293da8e]
+## ANNEX — DECLARATION TO BE DEPOSITED BY THE MEMBER STATES UPON SIGNATURE, RATIFICATION OR ACCESSION TO THE CAPE TOWN AGREEMENT OF 2012 ON THE IMPLEMENTATION OF THE PROVISIONS OF THE TORREMOLINOS PROTOCOL OF 1993 RELATING TO THE TORREMOLINOS INTERNATIONAL CONVENTION FOR THE SAFETY OF FISHING VESSELS, 1977[^c-1f278a1b8adf6fee67df1e5f1293da8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1f278a1b8adf6fee67df1e5f1293da8e]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(n)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f278a1b8adf6fee67df1e5f1293da8e]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(n)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/n); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

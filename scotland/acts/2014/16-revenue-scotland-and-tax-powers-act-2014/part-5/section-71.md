@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Assumption of tax advantage[^key-aebf527c4b4482730ffe723e4defbe98]
+## 71. Assumption of tax advantage[^c-aebf527c4b4482730ffe723e4defbe98]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aebf527c4b4482730ffe723e4defbe98]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2014/16/section/71) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-aebf527c4b4482730ffe723e4defbe98]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2014/16/section/71) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

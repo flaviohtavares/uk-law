@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Registrar’s index of company names[^key-e234af49de706ca2c9a16e994f238fd6]
+## 20. Registrar’s index of company names[^c-e234af49de706ca2c9a16e994f238fd6]
 
 *Extent: N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e234af49de706ca2c9a16e994f238fd6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2004/335/regulation/20) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-e234af49de706ca2c9a16e994f238fd6]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2004/335/regulation/20) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
 [^f00008]: Footnote: Article 663 was amended by [S.R. 1993 No. 198](https://www.legislation.gov.uk/nisr/1993/198) and by paragraph 1 of Part I of the Schedule to the Limited Liability Partnerships Act (Northern Ireland) [2002 (c. 12 (N.I.)](https://www.legislation.gov.uk/nia/2002/12))

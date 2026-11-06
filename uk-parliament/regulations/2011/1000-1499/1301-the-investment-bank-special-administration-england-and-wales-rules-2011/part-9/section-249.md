@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 249. Notice of an order under section 176A(5)[^key-9d6b996b3ee4efc711ee0a124e8a538e]
+## 249. Notice of an order under section 176A(5)[^c-9d6b996b3ee4efc711ee0a124e8a538e]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d6b996b3ee4efc711ee0a124e8a538e]: Commencement: [Rule 249](https://www.legislation.gov.uk/uksi/2011/1301/rule/249) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-9d6b996b3ee4efc711ee0a124e8a538e]: Commencement: [Rule 249](https://www.legislation.gov.uk/uksi/2011/1301/rule/249) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Information on operations conducted outside of the European Union , Northern Ireland and external waters[^key-03054a392bd5791f51a0d02f2b734fef][^key-3c60e643259eb857349374eb5361ec64]
+## 34. Information on operations conducted outside of the European Union , Northern Ireland and external waters[^c-03054a392bd5791f51a0d02f2b734fef][^c-3c60e643259eb857349374eb5361ec64]
 
 *Extent: N.I.*
 
-(1) A UK-registered company conducting, itself or through a subsidiary, offshore oil and gas operations outside the European Union , Northern Ireland and external waters[^key-0a902dc660e7eea5719fd9b2f30a1dfb] as a licensee, operator or well operator shall report to the competent authority, on request, the circumstances of any major accident in which it or its subsidiary has been involved.
+(1) A UK-registered company conducting, itself or through a subsidiary, offshore oil and gas operations outside the European Union , Northern Ireland and external waters[^c-0a902dc660e7eea5719fd9b2f30a1dfb] as a licensee, operator or well operator shall report to the competent authority, on request, the circumstances of any major accident in which it or its subsidiary has been involved.
 
 (2) The details of the information to go in the report shall be specified by the competent authority in the request.
 
@@ -31,10 +31,10 @@ summary: ''
 
 ## Annotations
 
-[^key-03054a392bd5791f51a0d02f2b734fef]: Commencement: Reg. 34 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-03054a392bd5791f51a0d02f2b734fef]: Commencement: Reg. 34 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
 
-[^key-3c60e643259eb857349374eb5361ec64]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/nisr/2016/406/regulation/34) heading inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [11(3)](https://www.legislation.gov.uk/nisr/2020/330/regulation/11/3)
+[^c-3c60e643259eb857349374eb5361ec64]: Textual amendment: Words in [reg. 34](https://www.legislation.gov.uk/nisr/2016/406/regulation/34) heading inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [11(3)](https://www.legislation.gov.uk/nisr/2020/330/regulation/11/3)
 
-[^key-0a902dc660e7eea5719fd9b2f30a1dfb]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2016/406/regulation/34/1) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [11(3)](https://www.legislation.gov.uk/nisr/2020/330/regulation/11/3)
+[^c-0a902dc660e7eea5719fd9b2f30a1dfb]: Textual amendment: Words in [reg. 34(1)](https://www.legislation.gov.uk/nisr/2016/406/regulation/34/1) inserted (31.12.2020) by [The Health and Safety (Amendments and Revocation) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/330)](https://www.legislation.gov.uk/nisr/2020/330), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/330/regulation/1/2), [11(3)](https://www.legislation.gov.uk/nisr/2020/330/regulation/11/3)
 
 [^f00034]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46), to which there are amendments not relevant to these Regulations

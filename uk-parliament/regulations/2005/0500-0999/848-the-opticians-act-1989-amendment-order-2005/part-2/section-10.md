@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Amendment of section 9[^key-83190b9a1f982001671a13f488eb6984]
+## 10. Amendment of section 9[^c-83190b9a1f982001671a13f488eb6984]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83190b9a1f982001671a13f488eb6984]: Commencement: Art. 10 comes into force in accordance with art. 1(3)-(6)
+[^c-83190b9a1f982001671a13f488eb6984]: Commencement: Art. 10 comes into force in accordance with art. 1(3)-(6)

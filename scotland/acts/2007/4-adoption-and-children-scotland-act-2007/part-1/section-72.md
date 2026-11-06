@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Prohibition of certain payments[^key-8a469c9e12a06bb7446dfb1b1e45e12a]
+## 72. Prohibition of certain payments[^c-8a469c9e12a06bb7446dfb1b1e45e12a]
 
 *Extent: S*
 
@@ -46,10 +46,10 @@ commits an offence.
 (5) In this section—
 
 - “**payment**” includes reward,
-- “**place of safety**” has the meaning given by section 202(1) of the Children’s Hearings (Scotland) Act[^key-26a94eca51c83d72d158f3bb02b3748f] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1).
+- “**place of safety**” has the meaning given by section 202(1) of the Children’s Hearings (Scotland) Act[^c-26a94eca51c83d72d158f3bb02b3748f] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1).
 
 ## Annotations
 
-[^key-8a469c9e12a06bb7446dfb1b1e45e12a]: Commencement: S. 72 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-8a469c9e12a06bb7446dfb1b1e45e12a]: Commencement: S. 72 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-26a94eca51c83d72d158f3bb02b3748f]: Textual amendment: Words in s. 72(5) substituted (24.6.2013) by [The Childrenâ€™s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 17(4)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/17/4)
+[^c-26a94eca51c83d72d158f3bb02b3748f]: Textual amendment: Words in s. 72(5) substituted (24.6.2013) by [The Childrenâ€™s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 17(4)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/17/4)

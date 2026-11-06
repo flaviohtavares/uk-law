@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 753A. Interest on unpaid relevant contributions[^key-95f7dac19cd09f3b047f0d7badb0e9e7]
+## 753A. Interest on unpaid relevant contributions[^c-95f7dac19cd09f3b047f0d7badb0e9e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95f7dac19cd09f3b047f0d7badb0e9e7]: Textual amendment: [S. 753A](https://www.legislation.gov.uk/ukpga/2005/5/section/753A) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 69(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/69/3)
+[^c-95f7dac19cd09f3b047f0d7badb0e9e7]: Textual amendment: [S. 753A](https://www.legislation.gov.uk/ukpga/2005/5/section/753A) inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 69(3)](https://www.legislation.gov.uk/ukpga/2011/11/section/69/3)

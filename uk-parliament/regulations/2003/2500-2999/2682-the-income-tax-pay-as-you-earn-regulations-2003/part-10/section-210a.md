@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210A. Penalty: relevant annual return for the tax year ending 5th April 2010[^key-142cf3b5a2a60c9616f10046cd34cb11]
+## 210A. Penalty: relevant annual return for the tax year ending 5th April 2010[^c-142cf3b5a2a60c9616f10046cd34cb11]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-142cf3b5a2a60c9616f10046cd34cb11]: Textual amendment: Regs. 210-210C substituted for reg. 210 (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [20](https://www.legislation.gov.uk/uksi/2007/2969/regulation/20)
+[^c-142cf3b5a2a60c9616f10046cd34cb11]: Textual amendment: Regs. 210-210C substituted for reg. 210 (6.4.2009) by [The Income Tax (Pay As You Earn) (Amendment No. 4) Regulations 2007 (S.I. 2007/2969)](https://www.legislation.gov.uk/uksi/2007/2969), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2969/regulation/1/3), [20](https://www.legislation.gov.uk/uksi/2007/2969/regulation/20)

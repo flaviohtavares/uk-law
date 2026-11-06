@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64A. Secretary of State’s power to make regulations[^key-887167d499b935d748fcfdbbd1825d34]
+## 64A. Secretary of State’s power to make regulations[^c-887167d499b935d748fcfdbbd1825d34]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ the Ombudsman shall not investigate it.
 
 ## Annotations
 
-[^key-887167d499b935d748fcfdbbd1825d34]: Textual amendment: S. 64A inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/35) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-887167d499b935d748fcfdbbd1825d34]: Textual amendment: S. 64A inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 3 para. 35](https://www.legislation.gov.uk/uksi/2010/976/schedule/3/paragraph/35) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

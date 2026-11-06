@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1(2)
 
 The Secretary of State for Housing, Communities and Local Government makes the following Regulations in exercise of the powers conferred by section 88(1) and (5) of, and paragraphs 1(2), 13(1) and 14(1) of Schedule 29 to, the Coronavirus Act 2020[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-09d88a002faadd264b64e3d893ba1f63]
+## 1. Citation, commencement and interpretation[^c-09d88a002faadd264b64e3d893ba1f63]
 
 (1) These Regulations may be cited as the Coronavirus Act 2020 (Residential Tenancies: Protection from Eviction) (Amendment) (England) Regulations 2020.
 
@@ -52,7 +52,7 @@ The Secretary of State for Housing, Communities and Local Government makes the f
 
 (3) In these Regulations, “Schedule 29” means Schedule 29 to the Coronavirus Act 2020 (residential tenancies in England and Wales: protection from eviction).
 
-## 2. Suspension of provisions in Schedule 29 to the Coronavirus Act 2020 in England[^key-4e26fde80039b1199df0d2e25b8eac89]
+## 2. Suspension of provisions in Schedule 29 to the Coronavirus Act 2020 in England[^c-4e26fde80039b1199df0d2e25b8eac89]
 
 The following paragraphs of Schedule 29 are suspended in relation to England—
 
@@ -62,7 +62,7 @@ The following paragraphs of Schedule 29 are suspended in relation to England—
 - (d) paragraph 10(1)(a)(i) and (b) (modifications to Part 1 of the Schedule to the Secure Tenancies (Notices) Regulations 1987[^f00005] relating to Ground 2);
 - (e) paragraph 12(1)(c) and (d) (modifications to Form 3 in the Schedule to the Assured Tenancies and Agricultural Occupancies (Forms) (England) Regulations 2015[^f00006] relating to Grounds 7A and 14).
 
-## 3. Amendment of Schedule 29 to the Coronavirus Act 2020[^key-5e1082e1d394686ee813ce23cc6cc27a]
+## 3. Amendment of Schedule 29 to the Coronavirus Act 2020[^c-5e1082e1d394686ee813ce23cc6cc27a]
 
 (1) Schedule 29 is amended as follows.
 
@@ -298,7 +298,7 @@ The following paragraphs of Schedule 29 are suspended in relation to England—
   ;
 - (b) in sub-paragraph (2), in paragraphs (a)(i) and (b)[^f00017] for “three months’” substitute “six months’”.
 
-## 4. Transitional provision[^key-a13b089c5639feec93ad743e94555b9f]
+## 4. Transitional provision[^c-a13b089c5639feec93ad743e94555b9f]
 
 (1) The suspension of provisions in Schedule 29 made by regulation 2 and the amendments to Schedule 29 made by regulation 3(3) to (11) do not apply in relation to relevant notices given or served before the day on which these Regulations come into force.
 
@@ -376,9 +376,9 @@ A full impact assessment has not been produced for this instrument due to the te
 
 [^f00001]: Footnote: [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7). The powers conferred by sections 88(1) and (5) of, and paragraphs 1(2), 13(1) and 14(1) of Schedule 29 to, the Coronavirus Act 2020 are exercisable in England by the Secretary of State. For the relevant definitions of “relevant national authority” see sections 88(7) of, and paragraph 1(3)(a) of Schedule 29 to, that Act.
 
-[^key-09d88a002faadd264b64e3d893ba1f63]: Commencement: Reg. 1 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/914/regulation/1/2)
+[^c-09d88a002faadd264b64e3d893ba1f63]: Commencement: Reg. 1 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/914/regulation/1/2)
 
-[^key-4e26fde80039b1199df0d2e25b8eac89]: Commencement: Reg. 2 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/914/regulation/1/2)
+[^c-4e26fde80039b1199df0d2e25b8eac89]: Commencement: Reg. 2 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/914/regulation/1/2)
 
 [^f00002]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68). Section 83 was substituted by section 147(1) of the Housing Act [1996 (c. 52)](https://www.legislation.gov.uk/ukpga/1996/52), section 14(3) of the Anti-social Behaviour Act [2003 (c. 38)](https://www.legislation.gov.uk/ukpga/2003/38) and paragraph 7 of Part 1 of Schedule 11 to the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 
@@ -390,7 +390,7 @@ A full impact assessment has not been produced for this instrument due to the te
 
 [^f00006]: Footnote: [S.I. 2015/620](https://www.legislation.gov.uk/uksi/2015/620); relevant amending instrument is [S.I. 2016/1118](https://www.legislation.gov.uk/uksi/2016/1118).
 
-[^key-5e1082e1d394686ee813ce23cc6cc27a]: Commencement: Reg. 3 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/914/regulation/1/2)
+[^c-5e1082e1d394686ee813ce23cc6cc27a]: Commencement: Reg. 3 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/914/regulation/1/2)
 
 [^f00007]: Footnote: [1977 c. 43](https://www.legislation.gov.uk/ukpga/1977/43). Section 5(1) was amended by section 32(1) of the Housing Act [1988 (c. 50)](https://www.legislation.gov.uk/ukpga/1988/50).
 
@@ -414,6 +414,6 @@ A full impact assessment has not been produced for this instrument due to the te
 
 [^f00017]: Footnote: Sub-paragraph (2) modifies Form 6A in the Schedule to [S.I. 2015/620](https://www.legislation.gov.uk/uksi/2015/620) 2015 which was substituted by [S.I. 2019/915](https://www.legislation.gov.uk/uksi/2019/915).
 
-[^key-a13b089c5639feec93ad743e94555b9f]: Commencement: Reg. 4 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/914/regulation/1/2)
+[^c-a13b089c5639feec93ad743e94555b9f]: Commencement: Reg. 4 in force at 28.8.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/914/regulation/1/2)
 
 [^f00018]: Footnote: For the definition of “Rent Act notice to quit” see paragraph 2(2) of Schedule 29 to the Coronavirus Act 2020.

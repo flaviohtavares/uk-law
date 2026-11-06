@@ -44,11 +44,11 @@ The Lord Chancellor, with the concurrence of the Lord Chief Justice, makes the f
 
 In accordance with section 58(4) of that Act, a draft of this Order was laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-9f424523124eb6a00a0edfc6f70c0e49]
+## 1. Citation and commencement[^c-9f424523124eb6a00a0edfc6f70c0e49]
 
 This Order may be cited as the Competition Appeal Tribunal (Recording and Broadcasting) Order 2022 and comes into force on the day after the day on which it is made.
 
-## 2. Definitions[^key-345d2eef3d244bf428dc032517910a46]
+## 2. Definitions[^c-345d2eef3d244bf428dc032517910a46]
 
 In this Order—
 
@@ -62,38 +62,38 @@ In this Order—
 - “**Rules**” means the Competition Appeal Tribunal Rules 2015[^f00002]; and
 - “**Tribunal**” means the Competition Appeal Tribunal established by section 12 of the Enterprise Act 2002[^f00003] however constituted in accordance with section 14 of that Act.
 
-## 3. Extent and application[^key-9e71d2b1c1732ac8ec5077236ed6ce24]
+## 3. Extent and application[^c-9e71d2b1c1732ac8ec5077236ed6ce24]
 
 This Order extends to England and Wales, and applies to the recording of and broadcast of proceedings in England and Wales.
 
-## 4. Recording and broadcasting proceedings[^key-25f2d01fe839c3a0966cbbdbfbf91337]
+## 4. Recording and broadcasting proceedings[^c-25f2d01fe839c3a0966cbbdbfbf91337]
 
 Section 41 of the Criminal Justice Act 1925[^f00004] and section 9 of the Contempt of Court Act 1981[^f00005] do not apply where proceedings are—
 
 - (a) recorded in accordance with the conditions in articles 5 to 7; or
 - (b) broadcast in accordance with the conditions in articles 8 and 9.
 
-## 5. Recording[^key-6cb1068c8e42730a199696ce445bbbfc]
+## 5. Recording[^c-6cb1068c8e42730a199696ce445bbbfc]
 
 Recording is only permitted by a person who—
 
 - (a) is permitted in writing by the President or Registrar of the Tribunal to record proceedings in the Tribunal; and
 - (b) assigns copyright in the recording of proceedings to the Registrar on behalf of the Tribunal.
 
-**6.**[^key-e7c0786aebb6c054df25b14b67d3dd7b] Recording is only of—
+**6.**[^c-e7c0786aebb6c054df25b14b67d3dd7b] Recording is only of—
 
 - (a) submissions of a representative;
 - (b) exchanges between a representative and the Tribunal;
 - (c) exchanges between a representative or the Tribunal and a witness of fact or expert witness; and
 - (d) the Tribunal giving an order, direction or decision, including interim decisions or interim orders.
 
-**7.**[^key-0d1d115ca179ca1bc38773e553d796f2] Recording of proceedings is only with the permission of the chairman, which permission may be limited to part or parts of the proceedings.
+**7.**[^c-0d1d115ca179ca1bc38773e553d796f2] Recording of proceedings is only with the permission of the chairman, which permission may be limited to part or parts of the proceedings.
 
-## 8. Broadcast – broadcast of permitted recordings only[^key-6bcadce500275703bd44774c29bd8e49]
+## 8. Broadcast – broadcast of permitted recordings only[^c-6bcadce500275703bd44774c29bd8e49]
 
 Only recordings made in accordance with articles 5 to 7 may be broadcast.
 
-## 9. Broadcast – general conditions of use[^key-c16c04076e51c3481c0ea7a529e36683]
+## 9. Broadcast – general conditions of use[^c-c16c04076e51c3481c0ea7a529e36683]
 
 (1) A report or presentation of proceedings that includes a broadcast must be fair and accurate having regard to—
 
@@ -107,7 +107,7 @@ Only recordings made in accordance with articles 5 to 7 may be broadcast.
 - (c) light entertainment; or
 - (d) satire.
 
-## 10. Revocation of the Competition Appeal Tribunal (Coronavirus) (Recording and Broadcasting) Order 2020[^key-3343a876e4bfeb49d52436181c31b622]
+## 10. Revocation of the Competition Appeal Tribunal (Coronavirus) (Recording and Broadcasting) Order 2020[^c-3343a876e4bfeb49d52436181c31b622]
 
 The Competition Appeal Tribunal (Coronavirus) (Recording and Broadcasting) Order 2020[^f00006] is revoked.
 
@@ -147,33 +147,33 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-9f424523124eb6a00a0edfc6f70c0e49]: Commencement: Art. 1 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-9f424523124eb6a00a0edfc6f70c0e49]: Commencement: Art. 1 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
-[^key-345d2eef3d244bf428dc032517910a46]: Commencement: Art. 2 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-345d2eef3d244bf428dc032517910a46]: Commencement: Art. 2 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
 [^f00002]: Footnote: [S.I. 2015/1648](https://www.legislation.gov.uk/uksi/2015/1648).
 
 [^f00003]: Footnote: [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40). Section 12 was amended by section 82(1) of the Consumer Rights Act [2015 (c.15)](https://www.legislation.gov.uk/ukpga/2015/15).
 
-[^key-9e71d2b1c1732ac8ec5077236ed6ce24]: Commencement: Art. 3 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-9e71d2b1c1732ac8ec5077236ed6ce24]: Commencement: Art. 3 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
-[^key-25f2d01fe839c3a0966cbbdbfbf91337]: Commencement: Art. 4 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-25f2d01fe839c3a0966cbbdbfbf91337]: Commencement: Art. 4 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
 [^f00004]: Footnote: [1925 c. 86](https://www.legislation.gov.uk/ukpga/1925/86). Section 41 was amended by section 56(4) of and Part 4 of Schedule 11 to the Courts Act [1971 (c. 23)](https://www.legislation.gov.uk/ukpga/1971/23), sections 37, 38 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48) and by section 47(1) of the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
 [^f00005]: Footnote: [1981 c. 49](https://www.legislation.gov.uk/ukpga/1981/49).
 
-[^key-6cb1068c8e42730a199696ce445bbbfc]: Commencement: Art. 5 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-6cb1068c8e42730a199696ce445bbbfc]: Commencement: Art. 5 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
-[^key-e7c0786aebb6c054df25b14b67d3dd7b]: Commencement: Art. 6 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-e7c0786aebb6c054df25b14b67d3dd7b]: Commencement: Art. 6 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
-[^key-0d1d115ca179ca1bc38773e553d796f2]: Commencement: Art. 7 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-0d1d115ca179ca1bc38773e553d796f2]: Commencement: Art. 7 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
-[^key-6bcadce500275703bd44774c29bd8e49]: Commencement: Art. 8 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-6bcadce500275703bd44774c29bd8e49]: Commencement: Art. 8 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
-[^key-c16c04076e51c3481c0ea7a529e36683]: Commencement: Art. 9 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-c16c04076e51c3481c0ea7a529e36683]: Commencement: Art. 9 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
-[^key-3343a876e4bfeb49d52436181c31b622]: Commencement: Art. 10 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
+[^c-3343a876e4bfeb49d52436181c31b622]: Commencement: Art. 10 in force at 11.2.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1)
 
 [^f00006]: Footnote: [S.I. 2020/801](https://www.legislation.gov.uk/uksi/2020/801).
 

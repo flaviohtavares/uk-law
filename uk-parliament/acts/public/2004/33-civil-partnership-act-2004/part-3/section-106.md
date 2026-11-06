@@ -32,7 +32,7 @@ summary: ''
 
 (2) In this section and section 107—
 
-- “**dealing**” includes the grant of a heritable security , the grant of a statutory pledge[^key-755fbe6a014c1f1cb3dd756e19d5dd43] and the creation of a trust but does not include a conveyance under section 80 of the Lands Clauses Consolidation Act 1845 (c. 18);
+- “**dealing**” includes the grant of a heritable security , the grant of a statutory pledge[^c-755fbe6a014c1f1cb3dd756e19d5dd43] and the creation of a trust but does not include a conveyance under section 80 of the Lands Clauses Consolidation Act 1845 (c. 18);
 - “**entitled partner**” does not include a civil partner who, apart from the provisions of this Chapter—
   - (a) is permitted by a third party to occupy a family home, or
   - (b) is entitled to occupy a family home along with an individual who is not the other civil partner whether or not that individual has waived a right of occupation in favour of the civil partner so entitled,
@@ -58,7 +58,7 @@ summary: ''
 
 [^c20601681]: Textual amendment: [S. 106(1A)](https://www.legislation.gov.uk/ukpga/2004/33/section/106/1A) inserted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 33](https://www.legislation.gov.uk/asp/2006/2/section/33), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/5/a); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 
-[^key-755fbe6a014c1f1cb3dd756e19d5dd43]: Textual amendment: Words in [s. 106(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/106/2) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(6)](https://www.legislation.gov.uk/asp/2023/3/section/56/6), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
+[^c-755fbe6a014c1f1cb3dd756e19d5dd43]: Textual amendment: Words in [s. 106(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/106/2) inserted (1.4.2025) by [Moveable Transactions (Scotland) Act 2023 (asp 3)](https://www.legislation.gov.uk/asp/2023/3), [ss. 56(6)](https://www.legislation.gov.uk/asp/2023/3/section/56/6), [121(2)](https://www.legislation.gov.uk/asp/2023/3/section/121/2); [S.S.I. 2024/378](https://www.legislation.gov.uk/ssi/2024/378), [reg. 2](https://www.legislation.gov.uk/ssi/2024/378/regulation/2)
 
 [^c20601701]: Textual amendment: Words in [s. 106(3)(e)](https://www.legislation.gov.uk/ukpga/2004/33/section/106/3/e) substituted (4.5.2006) by [Family Law (Scotland) Act 2006 (asp 2)](https://www.legislation.gov.uk/asp/2006/2), [ss. 33](https://www.legislation.gov.uk/asp/2006/2/section/33), [46(2)](https://www.legislation.gov.uk/asp/2006/2/section/46/2), [Sch. 1 para. 5(b)(i)](https://www.legislation.gov.uk/asp/2006/2/schedule/1/paragraph/5/b/i); [S.S.I. 2006/212](https://www.legislation.gov.uk/ssi/2006/212), [art. 2](https://www.legislation.gov.uk/ssi/2006/212/article/2) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2006/212/article/3))
 

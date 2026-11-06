@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1079. Qualifying expenditure on contributions to independent R&D[^key-49f480ac9f9e63734220a1b8bdcb9bfb]
+## 1079. Qualifying expenditure on contributions to independent R&D[^c-49f480ac9f9e63734220a1b8bdcb9bfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49f480ac9f9e63734220a1b8bdcb9bfb]: Textual amendment: Pt. 13 Ch. 5 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/16)
+[^c-49f480ac9f9e63734220a1b8bdcb9bfb]: Textual amendment: Pt. 13 Ch. 5 omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 16](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/16)

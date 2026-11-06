@@ -48,20 +48,20 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations in exercise of the powers conferred by section 64(1) and (2) and 82(1) of the London Local Authorities Act 2007[^f00001]:
 
-## 1. Citation, commencement and application[^key-7615ae2304e0ec4a0a098de24ec0080c]
+## 1. Citation, commencement and application[^c-7615ae2304e0ec4a0a098de24ec0080c]
 
 These Regulations may be cited as the Penalty Charges Enforcement (London) Regulations 2012 and shall come into force on 18 June 2012.
 
-## 2. Interpretation[^key-6dcaaf806b8fa534c9390eb7153b5a81]
+## 2. Interpretation[^c-6dcaaf806b8fa534c9390eb7153b5a81]
 
 In these Regulations—
 
 - “the 2007 Act” means the London Local Authorities Act 2007;
 - “borough council” means a London borough council as provided in section 2 of the 2007 Act;
 - “notice of rejection” means a notice served by a borough council rejecting, or not accepting, representations made to it under section 62 of the 2007 Act;
-- “the Representations and Appeals Regulations” means the Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022[^key-c98363603ac7e1837cbd10bc0dc0cede] as applied by section 62(9) of the 2007 Act.
+- “the Representations and Appeals Regulations” means the Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022[^c-c98363603ac7e1837cbd10bc0dc0cede] as applied by section 62(9) of the 2007 Act.
 
-## 3. Charge certificates[^key-02ad83c24061894034a3715e88bbe495]
+## 3. Charge certificates[^c-02ad83c24061894034a3715e88bbe495]
 
 (1) Where a penalty charge notice is served on any person under section 61(2) of the 2007 Act and the penalty charge to which it relates is not paid before the end of the relevant period, the borough council serving the notice may serve on that person a statement (a “charge certificate”) to the effect that the penalty charge in question is increased by the amount of the applicable surcharge.
 
@@ -78,18 +78,18 @@ In these Regulations—
   - (i) such representations are made;
   - (ii) a notice of rejection is served by the borough council concerned;
   - (iii) an appeal against the notice of rejection is made; and
-  - (iv) the adjudicator, under regulation 7[^key-64c1fe627773a6ef1fe562419b12ae45](8) of the Representations and Appeals Regulations, does not allow the appeal but recommends the borough council to cancel the penalty charge notice,
+  - (iv) the adjudicator, under regulation 7[^c-64c1fe627773a6ef1fe562419b12ae45](8) of the Representations and Appeals Regulations, does not allow the appeal but recommends the borough council to cancel the penalty charge notice,
 
-  with the date on which the borough council notifies the appellant under regulation 7(9)[^key-e79d57413ff1299f7a330c927b04cce7] of those Regulations that it does not accept the recommendation; or
+  with the date on which the borough council notifies the appellant under regulation 7(9)[^c-e79d57413ff1299f7a330c927b04cce7] of those Regulations that it does not accept the recommendation; or
 - (d) in a case not falling within sub-paragraph (c) where there has been an unsuccessful appeal to an adjudicator under the Representations and Appeals Regulations against a notice of rejection, with the date on which notice of the adjudicator’s decision is served on the appellant.
 
 (3) Where an appeal against a notice of rejection is made but is withdrawn before the adjudicator serves notice of his decision, the relevant period in relation to a penalty charge notice is the period of 14 days beginning with the date on which the appeal is withdrawn.
 
-## 4. Enforcement of charge certificate[^key-f4f2933f95e288b7606c1e99c134ca01]
+## 4. Enforcement of charge certificate[^c-f4f2933f95e288b7606c1e99c134ca01]
 
 Where a charge certificate has been served on any person and the increased penalty charge provided for in the certificate is not paid before the end of the period of 14 days beginning with the date on which the certificate is served, the borough council may, if a county court so orders, recover the increased charge as if it were payable under a county court order.
 
-## 5. Invalid notices[^key-12f158a436a3825ef6f97ac4247f6943]
+## 5. Invalid notices[^c-12f158a436a3825ef6f97ac4247f6943]
 
 (1) This regulation applies where—
 
@@ -154,20 +154,20 @@ Regulation 5 makes provision for county court orders to be set aside where the r
 
 [^f00001]: Footnote: [2007 c. ii](https://www.legislation.gov.uk/ukla/2007/2).
 
-[^key-7615ae2304e0ec4a0a098de24ec0080c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+[^c-7615ae2304e0ec4a0a098de24ec0080c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
 
-[^key-6dcaaf806b8fa534c9390eb7153b5a81]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1234/regulation/2) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+[^c-6dcaaf806b8fa534c9390eb7153b5a81]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1234/regulation/2) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
 
-[^key-c98363603ac7e1837cbd10bc0dc0cede]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1234/regulation/2) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/3/2)
+[^c-c98363603ac7e1837cbd10bc0dc0cede]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1234/regulation/2) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/3/2)
 
-[^key-02ad83c24061894034a3715e88bbe495]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1234/regulation/3) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+[^c-02ad83c24061894034a3715e88bbe495]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1234/regulation/3) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
 
-[^key-64c1fe627773a6ef1fe562419b12ae45]: Textual amendment: Word in [reg. 3(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2012/1234/regulation/3/2/c/iv) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/3/3/a)
+[^c-64c1fe627773a6ef1fe562419b12ae45]: Textual amendment: Word in [reg. 3(2)(c)(iv)](https://www.legislation.gov.uk/uksi/2012/1234/regulation/3/2/c/iv) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/3/3/a)
 
-[^key-e79d57413ff1299f7a330c927b04cce7]: Textual amendment: Word in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2012/1234/regulation/3/2/c) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/3/3/b)
+[^c-e79d57413ff1299f7a330c927b04cce7]: Textual amendment: Word in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2012/1234/regulation/3/2/c) substituted (31.5.2022) by [The Civil Enforcement of Road Traffic Contraventions (Representations and Appeals) (England) Regulations 2022 (S.I. 2022/576)](https://www.legislation.gov.uk/uksi/2022/576), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/576/regulation/1/2), [Sch. 2 para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2022/576/schedule/2/paragraph/3/3/b)
 
-[^key-f4f2933f95e288b7606c1e99c134ca01]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1234/regulation/4) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+[^c-f4f2933f95e288b7606c1e99c134ca01]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1234/regulation/4) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
 
-[^key-12f158a436a3825ef6f97ac4247f6943]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1234/regulation/5) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
+[^c-12f158a436a3825ef6f97ac4247f6943]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2012/1234/regulation/5) in force at 18.6.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1234/regulation/1)
 
 [^f00003]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132), to which there are amendments not relevant for this purpose.

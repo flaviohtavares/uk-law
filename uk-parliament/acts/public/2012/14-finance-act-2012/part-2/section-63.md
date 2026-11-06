@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Meaning of “long-term business” and “PHI business”[^key-1c3e81c6e87d8e1e2489a3fbd7ede519]
+## 63. Meaning of “long-term business” and “PHI business”[^c-1c3e81c6e87d8e1e2489a3fbd7ede519]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c3e81c6e87d8e1e2489a3fbd7ede519]: Modification: S. 63 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2012/3008/regulation/7) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
+[^c-1c3e81c6e87d8e1e2489a3fbd7ede519]: Modification: S. 63 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2012/3008/regulation/7) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 283. General provisions(Article 201 of the Financial Regulation)[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
+## Article 283. General provisions(Article 201 of the Financial Regulation)[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ea79a5e08c4dbec4ffb0f5dc9af2ba0]: Textual amendment: Regulation revoked (31.12.2020) by [The European Union Budget, and Economic and Monetary Policy (EU Exit) Regulations 2019 (S.I. 2019/484)](https://www.legislation.gov.uk/uksi/2019/484), [regs. 1](https://www.legislation.gov.uk/uksi/2019/484/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2019/484/regulation/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

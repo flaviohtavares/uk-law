@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. The Hearings Panel[^key-ee4b4988340219fd4698fbb1f8bc57f5]
+## 5. The Hearings Panel[^c-ee4b4988340219fd4698fbb1f8bc57f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ Before section 6, insert—
 
 ## Annotations
 
-[^key-ee4b4988340219fd4698fbb1f8bc57f5]: Commencement: Art. 5 comes into force in accordance with art. 1(3)-(6)
+[^c-ee4b4988340219fd4698fbb1f8bc57f5]: Commencement: Art. 5 comes into force in accordance with art. 1(3)-(6)

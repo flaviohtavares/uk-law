@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Power to designate bodies involved in foreign power threat activity[^key-53622ab9fce0dade5fc5e339a1e223aa]
+## 33A. Power to designate bodies involved in foreign power threat activity[^c-53622ab9fce0dade5fc5e339a1e223aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ the designation of the body may include alternative names.
 
 ## Annotations
 
-[^key-53622ab9fce0dade5fc5e339a1e223aa]: Textual amendment: [Ss. 33A](https://www.legislation.gov.uk/ukpga/2023/32/section/33A), [33B](https://www.legislation.gov.uk/ukpga/2023/32/section/33B) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/1/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)
+[^c-53622ab9fce0dade5fc5e339a1e223aa]: Textual amendment: [Ss. 33A](https://www.legislation.gov.uk/ukpga/2023/32/section/33A), [33B](https://www.legislation.gov.uk/ukpga/2023/32/section/33B) and cross-heading inserted (8.7.2026) by [National Security (State Threats) Act 2026 (c. 24)](https://www.legislation.gov.uk/ukpga/2026/24), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2026/24/section/1/2), [7(1)](https://www.legislation.gov.uk/ukpga/2026/24/section/7/1)

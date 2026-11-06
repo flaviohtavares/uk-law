@@ -26,7 +26,7 @@ summary: ''
 
 (1B) References in this section to contravening a stop notice include causing or permitting its contravention.
 
-(2) A person guilty of an offence under this section shall be liable on summary conviction, or on conviction on indictment, to a fine[^key-0656d90b7026fd39a952434272f3e154].
+(2) A person guilty of an offence under this section shall be liable on summary conviction, or on conviction on indictment, to a fine[^c-0656d90b7026fd39a952434272f3e154].
 
 (2A) In determining the amount of any fine to be imposed on a person convicted of an offence under this section, the court shall in particular have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c14023291]: Textual amendment: S. 187(1)(1A)(1B)(2)(2A) substituted (2.1.1992) for s. 187(1)(2) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 9(4)](https://www.legislation.gov.uk/ukpga/1991/34/section/9/4) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art.3](https://www.legislation.gov.uk/uksi/1991/2905/article/3) (subject to [art. 5](https://www.legislation.gov.uk/uksi/1991/2905/article/5))
 
-[^key-0656d90b7026fd39a952434272f3e154]: Textual amendment: Words in s. 187(2) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 18(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/18/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-0656d90b7026fd39a952434272f3e154]: Textual amendment: Words in s. 187(2) substituted (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 18(4)](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/18/4) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))

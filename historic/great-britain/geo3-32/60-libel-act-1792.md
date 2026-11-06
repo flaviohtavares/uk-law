@@ -28,27 +28,27 @@ Libel Act 1792 (repealed)
 
 1792 c.60
 
-[^key-8d97c15e35f1fc7d6f185a2902232645]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d97c15e35f1fc7d6f185a2902232645]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1.] On the trial of an indictment for a libel, the jury may give a general verdict upon the whole matter put in issue, and shall not be required by the court to find the defendant guilty merely on proof of the publication, and of the sense ascribed to it in the information.[^key-8d97c15e35f1fc7d6f185a2902232645]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. But the court shall give their opinion and directions on the matter in issue as in other criminal cases.[^key-8d97c15e35f1fc7d6f185a2902232645]
+## 1.] On the trial of an indictment for a libel, the jury may give a general verdict upon the whole matter put in issue, and shall not be required by the court to find the defendant guilty merely on proof of the publication, and of the sense ascribed to it in the information.[^c-8d97c15e35f1fc7d6f185a2902232645]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Jury may find a special verdict.[^key-8d97c15e35f1fc7d6f185a2902232645]
+## 2. But the court shall give their opinion and directions on the matter in issue as in other criminal cases.[^c-8d97c15e35f1fc7d6f185a2902232645]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Defendants may move in arrest of judgement, as before passing this Act.[^key-8d97c15e35f1fc7d6f185a2902232645]
+## 3. Jury may find a special verdict.[^c-8d97c15e35f1fc7d6f185a2902232645]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4. Defendants may move in arrest of judgement, as before passing this Act.[^c-8d97c15e35f1fc7d6f185a2902232645]
 
 **No longer in force.**
 
@@ -56,4 +56,4 @@ Libel Act 1792 (repealed)
 
 ## Annotations
 
-[^key-8d97c15e35f1fc7d6f185a2902232645]: Textual amendment: Act repealed: (E.W.) (12.1.2010) by Coroners and Justice Act 2009 (c. 25), Sch. 23 Pt. 2 (with s. 180); and (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 1](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-8d97c15e35f1fc7d6f185a2902232645]: Textual amendment: Act repealed: (E.W.) (12.1.2010) by Coroners and Justice Act 2009 (c. 25), Sch. 23 Pt. 2 (with s. 180); and (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 1](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

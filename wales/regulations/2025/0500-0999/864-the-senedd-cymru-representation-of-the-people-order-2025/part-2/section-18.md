@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Returning officers[^key-e10652dcc2e4c570e9bfdf50be5026b0]
+## 18. Returning officers[^c-e10652dcc2e4c570e9bfdf50be5026b0]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e10652dcc2e4c570e9bfdf50be5026b0]: Commencement: Art. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e10652dcc2e4c570e9bfdf50be5026b0]: Commencement: Art. 18 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00041]: Footnote: Section 35(1A) was inserted by section 66(6) of, and paragraph 68(7) of Schedule 16 to, the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19).

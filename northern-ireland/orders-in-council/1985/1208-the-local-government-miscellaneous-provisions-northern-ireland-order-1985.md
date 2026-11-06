@@ -27,7 +27,7 @@ summary: ''
 
 1985 No. 1208 (N.I. 15)
 
-The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985[^key-1eb5aeca06d6791bb8b8fc07b1099a1d]
+The Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1985[^c-1eb5aeca06d6791bb8b8fc07b1099a1d]
 
 31st July 1985
 
@@ -394,7 +394,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 (1) Subject to the following provisions of this Article, a district council may remove or obliterate—
 
 - (a) any graffiti which, in the opinion of the council, is detrimental to the amenity of any land in its district;
-- (b) any placard or poster which is displayed in its district and which, in the opinion of the council, is so displayed in contravention of regulations under section 130 of the Planning Act (Northern Ireland) 2011[^key-b6aada5d99d4b414e631ae694120901d] .
+- (b) any placard or poster which is displayed in its district and which, in the opinion of the council, is so displayed in contravention of regulations under section 130 of the Planning Act (Northern Ireland) 2011[^c-b6aada5d99d4b414e631ae694120901d] .
 
 (2) Where any graffiti, placard or poster to which sub-paragraph (a) or (b) of paragraph (1) applies identifies the person who displayed it or caused it to be displayed, a district council may give that person notice in writing—
 
@@ -430,7 +430,7 @@ paragraphs (2) and (3) have effect as if the reference in paragraph (2) to the p
 - (a) within a building to which there is no public right of access; or
 - (b) on land owned or occupied by a body established by or under a statutory provision.
 
-(9) This Article and Article 19 are without prejudice to sections 130 and 175 of the Planning Act (Northern Ireland) 2011 (control of advertisements) and to any regulations made under that Act by virtue of those sections.[^key-3acba8ca18191f548dd29cfab665e08e]
+(9) This Article and Article 19 are without prejudice to sections 130 and 175 of the Planning Act (Northern Ireland) 2011 (control of advertisements) and to any regulations made under that Act by virtue of those sections.[^c-3acba8ca18191f548dd29cfab665e08e]
 
 ### 19. Advertising on council property
 
@@ -465,7 +465,7 @@ the council may enter into agreements with other persons for the provision by th
 
 (2) The council may, if it thinks fit, pay out of the said sum the funeral expenses of the officer or so much thereof as it considers reasonable having regard to any death grant which has been or is to be paid under section 32 of the [^m00006] Social Security (Northern Ireland) Act 1975.
 
-(3)[^c18781031][^key-5fdb41d37d7fe1b8f85a4d9a1eddc728] Paragraph (1) shall be included among the provisions with respect to which the Department of Finance and Personnel may make an order under section 6(1) of the [^m00007] Administration of Estates (Small Payments) Act (Northern Ireland) 1967, substituting for references to £5,000 references to such higher amount as may be specified in the order.
+(3)[^c18781031][^c-5fdb41d37d7fe1b8f85a4d9a1eddc728] Paragraph (1) shall be included among the provisions with respect to which the Department of Finance and Personnel may make an order under section 6(1) of the [^m00007] Administration of Estates (Small Payments) Act (Northern Ireland) 1967, substituting for references to £5,000 references to such higher amount as may be specified in the order.
 
 *Para. (4) rep. by 1986 NI 4*
 
@@ -955,7 +955,7 @@ and the licence shall be of no effect during that period.
 - (c) a holder of any such licence who is aggrieved by any term, condition or restriction on or subject to which the licence is held; or
 - (d) a holder of any such licence whose licence is revoked under paragraph 10(5) or suspended under paragraph 12(1),
 
-may at any time before the expiration of the period of 21 days beginning with the relevant date appeal to the county court [^key-dd5f677779874c6583eb25ac4ef5f908]....
+may at any time before the expiration of the period of 21 days beginning with the relevant date appeal to the county court [^c-dd5f677779874c6583eb25ac4ef5f908]....
 
 (2) In this paragraph “the relevant date” means the date on which the person in question is notified of the refusal of his application, the imposition of the term, condition or restriction by which he is aggrieved or the revocation or suspension of his licence, as the case may be.
 
@@ -1022,7 +1022,7 @@ paragraph 10(1) shall not apply—
 
 **17.** In this Schedule—
 
-(a)[^key-3eccc91a080348f2b29b715841bc0657] “the appropriate sub-divisional commander” in relation to an entertainments licence for any place, means the sub-divisional commander of the Royal Ulster Constabulary acting for the police sub-division in which that place is situated;
+(a)[^c-3eccc91a080348f2b29b715841bc0657] “the appropriate sub-divisional commander” in relation to an entertainments licence for any place, means the sub-divisional commander of the Royal Ulster Constabulary acting for the police sub-division in which that place is situated;
 
 - “**educational institution**” means any of the following—
   - (a) a university;
@@ -1355,7 +1355,7 @@ shall be guilty of an offence.
 - (c) a holder of any such licence who is aggrieved by any term, condition or restriction on or subject to which the licence is held; or
 - (d) a holder of any such licence whose licence is revoked,
 
-may at any time before the expiration of the period of 21 days beginning with the relevant date appeal to the county court [^key-a43d488841e9e177b4a67aa94123fa02]....
+may at any time before the expiration of the period of 21 days beginning with the relevant date appeal to the county court [^c-a43d488841e9e177b4a67aa94123fa02]....
 
 (2) An applicant whose application for the grant, renewal or transfer of a licence is refused, or whose licence is revoked, on any ground specified in paragraph 12(1) shall not have a right to appeal under this paragraph unless the applicant seeks to show that the ground did not apply to him.
 
@@ -1363,7 +1363,7 @@ may at any time before the expiration of the period of 21 days beginning with th
 
 (4) In this paragraph—
 
-- [^key-13a582bfa8d6d359b0520944a6638826]...
+- [^c-13a582bfa8d6d359b0520944a6638826]...
 - “the relevant date” means the date on which the person in question is notified of the refusal of his application, the imposition of the term, condition or restriction by which he is aggrieved or the revocation of his licence, as the case may be.
 
 (5) On an appeal to the county court under this paragraph the court may make such order as it thinks fit and the decision of the court shall be final.
@@ -1423,7 +1423,7 @@ to continue to use the premises, vehicle, vessel or stall as a sex establishment
 
 ## Annotations
 
-[^key-1eb5aeca06d6791bb8b8fc07b1099a1d]: Modification: [Order](https://www.legislation.gov.uk/nisi/1985/1208): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-1eb5aeca06d6791bb8b8fc07b1099a1d]: Modification: [Order](https://www.legislation.gov.uk/nisi/1985/1208): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00001]: Marginal citation: 1954 c. 33 (N.I.)
 
@@ -1443,9 +1443,9 @@ to continue to use the premises, vehicle, vessel or stall as a sex establishment
 
 [^c22556531]: Textual amendment: Art. 18 substituted (1.4.2012) by [Clean Neighbourhoods and Environment Act (Northern Ireland) 2011 (c. 23)](https://www.legislation.gov.uk/nia/2011/23), [ss. 36](https://www.legislation.gov.uk/nia/2011/23/section/36), [78](https://www.legislation.gov.uk/nia/2011/23/section/78); [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
 
-[^key-b6aada5d99d4b414e631ae694120901d]: Textual amendment: Words in art. 18(1)(b) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by virtue of [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 50](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/50) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), 3, Sch. 1 (with Sch. 2 (as amended (16.3.2016) by S.R. 2016/159, art. 2) (The affecting provision (Sch. 6 para. 50) states that words in art. 18(9) should be substituted. However, following art. 18 substitution (1.4.2012) by 2011 c. 23 (N.I.), the target words occur in art. 18(1)(b) and this amendment has been carried out given the clear intended effect).
+[^c-b6aada5d99d4b414e631ae694120901d]: Textual amendment: Words in art. 18(1)(b) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by virtue of [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 50](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/50) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), 3, Sch. 1 (with Sch. 2 (as amended (16.3.2016) by S.R. 2016/159, art. 2) (The affecting provision (Sch. 6 para. 50) states that words in art. 18(9) should be substituted. However, following art. 18 substitution (1.4.2012) by 2011 c. 23 (N.I.), the target words occur in art. 18(1)(b) and this amendment has been carried out given the clear intended effect).
 
-[^key-3acba8ca18191f548dd29cfab665e08e]: Textual amendment: Art. 18(9) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by virtue of [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 51](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/51) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), 3, Sch. 1 (with Sch. 2 as amended (16.3.2016) by S.R. 2016/159, art. 2) (The affecting provision (Sch. 6 para. 51) states that art. 18(11) should be substituted, however, following art. 18 substitution (1.4.2012) by 2011 c. 23 (N.I.), no sub-provision (11) exists. This amendment has been carried out for art. 18(9) given the clear intended effect).
+[^c-3acba8ca18191f548dd29cfab665e08e]: Textual amendment: Art. 18(9) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by virtue of [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 51](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/51) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), 3, Sch. 1 (with Sch. 2 as amended (16.3.2016) by S.R. 2016/159, art. 2) (The affecting provision (Sch. 6 para. 51) states that art. 18(11) should be substituted, however, following art. 18 substitution (1.4.2012) by 2011 c. 23 (N.I.), no sub-provision (11) exists. This amendment has been carried out for art. 18(9) given the clear intended effect).
 
 [^c18780971]: Textual amendment: [1992 NI 6](https://www.legislation.gov.uk/1992/ni6)
 
@@ -1455,7 +1455,7 @@ to continue to use the premises, vehicle, vessel or stall as a sex establishment
 
 [^c18781031]: Textual amendment: mod. by SR 2004/68
 
-[^key-5fdb41d37d7fe1b8f85a4d9a1eddc728]: Modification: [Art. 22(3)](https://www.legislation.gov.uk/nisi/1985/1208/article/22/3) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(c)](https://www.legislation.gov.uk/nisr/2020/280/article/2/c)
+[^c-5fdb41d37d7fe1b8f85a4d9a1eddc728]: Modification: [Art. 22(3)](https://www.legislation.gov.uk/nisi/1985/1208/article/22/3) modified (8.12.2020) by [The Administration of Estates (Small Payments) (Increase of Limit) Order (Northern Ireland) 2020 (S.R. 2020/280)](https://www.legislation.gov.uk/nisr/2020/280), [arts. 1](https://www.legislation.gov.uk/nisr/2020/280/article/1), [2(c)](https://www.legislation.gov.uk/nisr/2020/280/article/2/c)
 
 [^m00007]: Marginal citation: 1967 c. 5 (N.I.)
 
@@ -1503,7 +1503,7 @@ to continue to use the premises, vehicle, vessel or stall as a sex establishment
 
 [^c19896081]: Textual amendment: Words in [Sch. 1 para. 12(3)(a)](https://www.legislation.gov.uk/nisi/1985/1208/schedule/1/paragraph/12/3/a) substituted (1.7.2006) by [Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. 2006/1254 (N.I. 9))](https://www.legislation.gov.uk/nisi/2006/1254), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/1/3), [63(1)](https://www.legislation.gov.uk/nisi/2006/1254/article/63/1), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/15/a) (with [art. 62](https://www.legislation.gov.uk/nisi/2006/1254/article/62)); [S.R. 2006/257](https://www.legislation.gov.uk/nisr/2006/257), [art. 2(d)](https://www.legislation.gov.uk/nisr/2006/257/article/2/d)
 
-[^key-dd5f677779874c6583eb25ac4ef5f908]: Textual amendment: Words in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/nisi/1985/1208/schedule/1/paragraph/13/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 93(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/93/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-dd5f677779874c6583eb25ac4ef5f908]: Textual amendment: Words in [Sch. 1 para. 13(1)](https://www.legislation.gov.uk/nisi/1985/1208/schedule/1/paragraph/13/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 93(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/93/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c19896161]: Textual amendment: Words in [Sch. 1 para. 14](https://www.legislation.gov.uk/nisi/1985/1208/schedule/1/paragraph/14) substituted (1.7.2006) by [Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. 2006/1254 (N.I. 9))](https://www.legislation.gov.uk/nisi/2006/1254), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/1/3), [63(1)](https://www.legislation.gov.uk/nisi/2006/1254/article/63/1), [Sch. 3 para. 15(a)](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/15/a) (with [art. 62](https://www.legislation.gov.uk/nisi/2006/1254/article/62)); [S.R. 2006/257](https://www.legislation.gov.uk/nisr/2006/257), [art. 2(d)](https://www.legislation.gov.uk/nisr/2006/257/article/2/d)
 
@@ -1523,7 +1523,7 @@ to continue to use the premises, vehicle, vessel or stall as a sex establishment
 
 [^c18781251]: Textual amendment: [1990 NI 2](https://www.legislation.gov.uk/1990/ni2)
 
-[^key-3eccc91a080348f2b29b715841bc0657]: Textual amendment: Words in Sch. 1 para. 17(a) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 52](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/52) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-3eccc91a080348f2b29b715841bc0657]: Textual amendment: Words in Sch. 1 para. 17(a) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 52](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/52) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^c19896951]: Textual amendment: Sch. 1 para. 17(a): definition of "the Fire Authority" substituted (1.7.2006) by [Fire and Rescue Services (Northern Ireland) Order 2006 (S.I. 2006/1254 (N.I. 9))](https://www.legislation.gov.uk/nisi/2006/1254), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/1254/article/1/3), [63(1)](https://www.legislation.gov.uk/nisi/2006/1254/article/63/1), [Sch. 3 para. 15(b)](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/15/b) (with [art. 62](https://www.legislation.gov.uk/nisi/2006/1254/article/62)); [S.R. 2006/257](https://www.legislation.gov.uk/nisr/2006/257), [art. 2(d)](https://www.legislation.gov.uk/nisr/2006/257/article/2/d)
 
@@ -1553,9 +1553,9 @@ to continue to use the premises, vehicle, vessel or stall as a sex establishment
 
 [^c22006411]: Textual amendment: Words in [Sch. 2 para. 12(1)(d)](https://www.legislation.gov.uk/nisi/1985/1208/schedule/2/paragraph/12/1/d) substituted (13.9.2010) by [Local Government (Provision of Services) Regulations (Northern Ireland) 2010 (S.R. 2010/252)](https://www.legislation.gov.uk/nisr/2010/252), [reg. 2(4)](https://www.legislation.gov.uk/nisr/2010/252/regulation/2/4)
 
-[^key-a43d488841e9e177b4a67aa94123fa02]: Textual amendment: Words in Sch. 2 para. 26(1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 93(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/93/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-a43d488841e9e177b4a67aa94123fa02]: Textual amendment: Words in Sch. 2 para. 26(1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 93(2)(a)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/93/2/a), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-13a582bfa8d6d359b0520944a6638826]: Textual amendment: Words in Sch. 2 para. 26(4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 93(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/93/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-13a582bfa8d6d359b0520944a6638826]: Textual amendment: Words in Sch. 2 para. 26(4) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 93(2)(b)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/93/2/b), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c22006421]: Textual amendment: Words in [Sch. 2 para. 27(1)](https://www.legislation.gov.uk/nisi/1985/1208/schedule/2/paragraph/27/1) substituted (13.9.2010) by [Local Government (Provision of Services) Regulations (Northern Ireland) 2010 (S.R. 2010/252)](https://www.legislation.gov.uk/nisr/2010/252), [reg. 2(5)](https://www.legislation.gov.uk/nisr/2010/252/regulation/2/5)
 

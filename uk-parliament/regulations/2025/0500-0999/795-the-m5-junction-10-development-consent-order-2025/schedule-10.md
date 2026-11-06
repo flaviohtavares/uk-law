@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^key-795d7b0f74833974e139a82f10d5a43c]
+## SCHEDULE 10 — DOCUMENTS TO BE CERTIFIED[^c-795d7b0f74833974e139a82f10d5a43c]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ Article 44
 | Environmental statement -chapter 15: assessment of cumulative effects | Volume 6, Document 6.13 | 1 |
 | Environmental statement - chapter 16: summary | Volume 9, Document 9.30 | 1 |
 | Environmental statement - change application 2: environmental statement addendum | Volume 10, Document 10.23 | 0 |
-| Environmental statement -appendix 1.1: glossary | Volume 6, Document 6.15 | 1[^key-460b3e2567107ccd8cc561182ec341c4] |
+| Environmental statement -appendix 1.1: glossary | Volume 6, Document 6.15 | 1[^c-460b3e2567107ccd8cc561182ec341c4] |
 | Environmental statement -appendix 1.2: scoping opinion responses | Volume 6, Document 6.15 | 0 |
 | Environmental statement-appendix 1.3: scheme figures | Volume 6, Document 6.15 | 0 |
 | Environmental statement -appendix 1.4: major accidents and disasters assessment | Volume 6, Document 6.15 | 1 |
@@ -153,6 +153,6 @@ Article 44
 
 ## Annotations
 
-[^key-795d7b0f74833974e139a82f10d5a43c]: Commencement: Sch. 10 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-795d7b0f74833974e139a82f10d5a43c]: Commencement: Sch. 10 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
-[^key-460b3e2567107ccd8cc561182ec341c4]: Textual amendment: Word in [Sch. 10](https://www.legislation.gov.uk/uksi/2025/795/schedule/10) substituted (3.11.2025) by [The M5 Junction 10 Development Consent (Correction) Order 2025 (S.I. 2025/1136)](https://www.legislation.gov.uk/uksi/2025/1136), [art. 1](https://www.legislation.gov.uk/uksi/2025/1136/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1136/schedule)
+[^c-460b3e2567107ccd8cc561182ec341c4]: Textual amendment: Word in [Sch. 10](https://www.legislation.gov.uk/uksi/2025/795/schedule/10) substituted (3.11.2025) by [The M5 Junction 10 Development Consent (Correction) Order 2025 (S.I. 2025/1136)](https://www.legislation.gov.uk/uksi/2025/1136), [art. 1](https://www.legislation.gov.uk/uksi/2025/1136/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1136/schedule)

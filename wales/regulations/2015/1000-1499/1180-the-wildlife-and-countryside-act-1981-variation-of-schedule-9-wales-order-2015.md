@@ -31,7 +31,7 @@ summary: ''
 
 Wildlife, Wales
 
-The Wildlife and Countryside Act 1981 (Variation of Schedule 9) (Wales) Order 2015 (revoked)[^key-4db638af3e07facd8a9076d2d58a94c4]
+The Wildlife and Countryside Act 1981 (Variation of Schedule 9) (Wales) Order 2015 (revoked)[^c-4db638af3e07facd8a9076d2d58a94c4]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 11 May 2015
 
-[^key-4db638af3e07facd8a9076d2d58a94c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4db638af3e07facd8a9076d2d58a94c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-4db638af3e07facd8a9076d2d58a94c4]
+## 1. Title and commencement[^c-4db638af3e07facd8a9076d2d58a94c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Variation of Schedule 9[^key-4db638af3e07facd8a9076d2d58a94c4]
+## 2. Variation of Schedule 9[^c-4db638af3e07facd8a9076d2d58a94c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4db638af3e07facd8a9076d2d58a94c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4db638af3e07facd8a9076d2d58a94c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4db638af3e07facd8a9076d2d58a94c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4db638af3e07facd8a9076d2d58a94c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4db638af3e07facd8a9076d2d58a94c4]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1180) revoked (4.3.2026) by [The Beavers (Wales) Order 2026 (W.S.I. 2026/18)](https://www.legislation.gov.uk/wsi/2026/18), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2026/18/article/1/1), [4](https://www.legislation.gov.uk/wsi/2026/18/article/4)
+[^c-4db638af3e07facd8a9076d2d58a94c4]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1180) revoked (4.3.2026) by [The Beavers (Wales) Order 2026 (W.S.I. 2026/18)](https://www.legislation.gov.uk/wsi/2026/18), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2026/18/article/1/1), [4](https://www.legislation.gov.uk/wsi/2026/18/article/4)

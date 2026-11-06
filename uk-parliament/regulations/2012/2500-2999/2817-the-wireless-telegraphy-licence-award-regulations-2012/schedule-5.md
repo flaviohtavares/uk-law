@@ -26,7 +26,7 @@ Regulation 4(3)(a)(ii)
 
 Under regulation 10 of the Regulations an applicant shall not be qualified to bid in the award process where a member of its bidder group is also a member of another applicant’s bidder group. Regulations 112 and 114 contain provisions on disclosure of confidential information (as defined in the Regulations) and obtaining confidential information relating to another applicant or bidder. Under the Regulations such activities may lead to forfeiture of sums on deposit and exclusion from the award process.
 
-### 1. Applicant/bidder[^key-3e62e42a507244e621fc2cca82638f9e]
+### 1. Applicant/bidder[^c-3e62e42a507244e621fc2cca82638f9e]
 
 In relation to regulations 10, 112 and 114 of the Regulations, the applicant/bidder represents and warrants to the Office of Communications (“OFCOM”) that so far as it is aware, having made all reasonable enquiries, \[insert name of person to be included in applicant or bidder group who is not an associate\] is not a member of any other applicant’s or bidder’s applicant or bidder group.
 
@@ -36,7 +36,7 @@ The applicant/bidder undertakes to inform OFCOM immediately if it becomes aware 
 - (b) has ever been or becomes a subsidiary of a member of any other applicant’s or bidder’s applicant or bidder group during the award process; or
 - (c) has ever obtained or ever obtains confidential information (as defined in the Regulations) relating to another applicant or bidder.
 
-### 2. \[Insert name of person to be included in applicant or bidder group who is not an associate\][^key-9f25b2a8cf03f91fa35c3ac1aa282a6e]
+### 2. \[Insert name of person to be included in applicant or bidder group who is not an associate\][^c-9f25b2a8cf03f91fa35c3ac1aa282a6e]
 
 \[Insert name of person to be included in applicant or bidder group who is not an associate\] represents and warrants to OFCOM that it—
 
@@ -52,6 +52,6 @@ The applicant/bidder undertakes to inform OFCOM immediately if it becomes aware 
 
 ## Annotations
 
-[^key-3e62e42a507244e621fc2cca82638f9e]: Commencement: Sch. 5 para. 1 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-3e62e42a507244e621fc2cca82638f9e]: Commencement: Sch. 5 para. 1 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
 
-[^key-9f25b2a8cf03f91fa35c3ac1aa282a6e]: Commencement: Sch. 5 para. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-9f25b2a8cf03f91fa35c3ac1aa282a6e]: Commencement: Sch. 5 para. 2 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

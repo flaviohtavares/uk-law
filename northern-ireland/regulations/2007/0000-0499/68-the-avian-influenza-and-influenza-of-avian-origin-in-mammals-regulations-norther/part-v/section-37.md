@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. Veterinary measures at a slaughterhouse[^key-c26f57075836594c99dd2c0ed230e633]
+## 37. Veterinary measures at a slaughterhouse[^c-c26f57075836594c99dd2c0ed230e633]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ If the Department suspects that highly pathogenic avian influenza exists at a sl
 
 ## Annotations
 
-[^key-c26f57075836594c99dd2c0ed230e633]: Commencement: Reg. 37 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-c26f57075836594c99dd2c0ed230e633]: Commencement: Reg. 37 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

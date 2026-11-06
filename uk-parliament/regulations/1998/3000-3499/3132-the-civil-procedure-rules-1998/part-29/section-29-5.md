@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29.5. Variation of case management timetable[^key-cd04da04375ac71394ac0d0429deb1ec]
+## 29.5. Variation of case management timetable[^c-cd04da04375ac71394ac0d0429deb1ec]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a case management conference;
 - (b) a pre-trial review;
-- (c) the return of a pre-trial check list[^key-bfdc3406ffa6f2e149610ea97a79e1b4] under rule 29.6;
+- (c) the return of a pre-trial check list[^c-bfdc3406ffa6f2e149610ea97a79e1b4] under rule 29.6;
 - (d) the trial; or
 - (e) the trial period.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd04da04375ac71394ac0d0429deb1ec]: Commencement: [Rule 29.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-cd04da04375ac71394ac0d0429deb1ec]: Commencement: [Rule 29.5](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.5) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-bfdc3406ffa6f2e149610ea97a79e1b4]: Textual amendment: Words in [rule 29.5(1)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.5/1/c) substituted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rules 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [8](https://www.legislation.gov.uk/uksi/2002/2058/rule/8)
+[^c-bfdc3406ffa6f2e149610ea97a79e1b4]: Textual amendment: Words in [rule 29.5(1)(c)](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.5/1/c) substituted (2.12.2002) by [The Civil Procedure (Amendment) Rules 2002 (S.I. 2002/2058)](https://www.legislation.gov.uk/uksi/2002/2058), [rules 1(b)](https://www.legislation.gov.uk/uksi/2002/2058/rule/1/b), [8](https://www.legislation.gov.uk/uksi/2002/2058/rule/8)

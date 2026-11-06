@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Obtaining of information etc by authorised persons[^key-5bdd485006236c24c4fb7652fb82c22a]
+## 40. Obtaining of information etc by authorised persons[^c-5bdd485006236c24c4fb7652fb82c22a]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ and for that purpose the authorised person may detain any document or vehicle fo
 
 ## Annotations
 
-[^key-5bdd485006236c24c4fb7652fb82c22a]: Commencement: S. 40 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-5bdd485006236c24c4fb7652fb82c22a]: Commencement: S. 40 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))

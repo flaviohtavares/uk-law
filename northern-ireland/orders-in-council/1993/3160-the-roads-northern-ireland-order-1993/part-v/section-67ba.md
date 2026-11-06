@@ -20,12 +20,12 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) If a person aggrieved by a decision of the Department to proceed with the construction or improvement for which an EIA[^key-d717da035f46229d4ba90343cce1860b] report has been made desires to question the validity of the decision on the ground that—
+(1) If a person aggrieved by a decision of the Department to proceed with the construction or improvement for which an EIA[^c-d717da035f46229d4ba90343cce1860b] report has been made desires to question the validity of the decision on the ground that—
 
 - (a) it is not within the powers of this Order; or
 - (b) any requirement of this Part has not been complied with in relation to the decision;
 
-that person[^key-7e21512250089203722b26d2b524ab83] may, within 6 weeks from the date on which the decision is first published under Article 67A(8), make an application for the purpose to the High Court.
+that person[^c-7e21512250089203722b26d2b524ab83] may, within 6 weeks from the date on which the decision is first published under Article 67A(8), make an application for the purpose to the High Court.
 
 (2) On any such application, the Court—
 
@@ -40,6 +40,6 @@ that person[^key-7e21512250089203722b26d2b524ab83] may, within 6 weeks from the 
 
 [^c20624991]: Textual amendment: SR 1999/89
 
-[^key-d717da035f46229d4ba90343cce1860b]: Textual amendment: Words in art. 67BA(1) substituted (16.5.2017) by [The Roads (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/87)](https://www.legislation.gov.uk/nisr/2017/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/87/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2017/87/regulation/7/2)
+[^c-d717da035f46229d4ba90343cce1860b]: Textual amendment: Words in art. 67BA(1) substituted (16.5.2017) by [The Roads (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/87)](https://www.legislation.gov.uk/nisr/2017/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/87/regulation/1/1), [7(2)](https://www.legislation.gov.uk/nisr/2017/87/regulation/7/2)
 
-[^key-7e21512250089203722b26d2b524ab83]: Textual amendment: Words in art. 67BA(1) substituted (16.5.2017) by [The Roads (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/87)](https://www.legislation.gov.uk/nisr/2017/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/87/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2017/87/regulation/7/3)
+[^c-7e21512250089203722b26d2b524ab83]: Textual amendment: Words in art. 67BA(1) substituted (16.5.2017) by [The Roads (Environmental Impact Assessment) Regulations (Northern Ireland) 2017 (S.R. 2017/87)](https://www.legislation.gov.uk/nisr/2017/87), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/87/regulation/1/1), [7(3)](https://www.legislation.gov.uk/nisr/2017/87/regulation/7/3)

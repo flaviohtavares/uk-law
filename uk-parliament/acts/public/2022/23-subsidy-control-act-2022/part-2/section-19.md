@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Rescuing[^key-bd0ff09b756ffca495f1098d847a404d][^key-a19925aae9c64ad1e7447b1b27a604ba]
+## 19. Rescuing[^c-bd0ff09b756ffca495f1098d847a404d][^c-a19925aae9c64ad1e7447b1b27a604ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd0ff09b756ffca495f1098d847a404d]: Commencement: S. 19 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
+[^c-bd0ff09b756ffca495f1098d847a404d]: Commencement: S. 19 not in force at Royal Assent, see [s. 91](https://www.legislation.gov.uk/ukpga/2022/23/section/91)
 
-[^key-a19925aae9c64ad1e7447b1b27a604ba]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/23/section/19) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-a19925aae9c64ad1e7447b1b27a604ba]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2022/23/section/19) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

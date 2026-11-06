@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. Form of Postal Voting Statement[^key-74e47dcad5011797349a3287c8eaa5e3]
+## 66. Form of Postal Voting Statement[^c-74e47dcad5011797349a3287c8eaa5e3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In Schedule 3, for Form G, Form H and Form J substitute the Form G, Form H and F
 
 ## Annotations
 
-[^key-74e47dcad5011797349a3287c8eaa5e3]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2006/2910/regulation/66) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-74e47dcad5011797349a3287c8eaa5e3]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/2006/2910/regulation/66) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

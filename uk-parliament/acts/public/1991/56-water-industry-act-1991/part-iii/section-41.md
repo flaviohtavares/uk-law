@@ -35,7 +35,7 @@ summary: ''
 - (a) the owner of any premises in that locality;
 - (b) the occupier of any premises in that locality;
 - (c) any local authority within whose area the whole or any part of that locality is situated;
-- (ca)[^key-22c5ec835485587d6f8de46baef26a6e] where the whole or any part of that locality is situated within a Mayoral development area, the Mayoral development corporation;
+- (ca)[^c-22c5ec835485587d6f8de46baef26a6e] where the whole or any part of that locality is situated within a Mayoral development area, the Mayoral development corporation;
 - (d) where the whole or any part of that locality is situated in a new town, within the meaning of the [^c13218041]New Towns Act 1981—
   - (i) the new towns residuary body[^c20593261]; and
   - (ii) [^c13218051]. . . the development corporation for the new town, [^c13218051]. . .;
@@ -43,7 +43,7 @@ summary: ''
   and
 - (e) where the whole or any part of that locality is situated within an area designated as an urban development area under Part XVI of the [^c13218071]Local Government, Planning and Land Act 1980, the urban development corporation.
 
-(2A)[^key-813c8cdf0ddac18daffd3a04fed1f1bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-813c8cdf0ddac18daffd3a04fed1f1bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The duty of a water undertaker under this section to provide a water main shall be owed to the person who requires the provision of the main or, as the case may be, to each of the persons who joins in doing so.
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-22c5ec835485587d6f8de46baef26a6e]: Textual amendment: S. 41(2)(ca) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 40](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/40)
+[^c-22c5ec835485587d6f8de46baef26a6e]: Textual amendment: S. 41(2)(ca) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 40](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/40)
 
 [^c13218041]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64).
 
@@ -63,4 +63,4 @@ summary: ''
 
 [^c13218071]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
-[^key-813c8cdf0ddac18daffd3a04fed1f1bc]: Textual amendment: [S. 41(2A)](https://www.legislation.gov.uk/ukpga/1991/56/section/41/2A) omitted (E.) (31.10.2021) by virtue of [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) (Consequential Provision) Regulations 2021 (S.I. 2021/1208)](https://www.legislation.gov.uk/uksi/2021/1208), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/2/2)
+[^c-813c8cdf0ddac18daffd3a04fed1f1bc]: Textual amendment: [S. 41(2A)](https://www.legislation.gov.uk/ukpga/1991/56/section/41/2A) omitted (E.) (31.10.2021) by virtue of [The Water and Sewerage Undertakers (Exit from Non-household Retail Market) (Consequential Provision) Regulations 2021 (S.I. 2021/1208)](https://www.legislation.gov.uk/uksi/2021/1208), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2021/1208/regulation/2/2)

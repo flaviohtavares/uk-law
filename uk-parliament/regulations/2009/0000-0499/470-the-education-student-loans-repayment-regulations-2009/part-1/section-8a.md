@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8A. How to calculate country-specific multiplier[^key-8ff74ad59fe6b521d06a459a75973246]
+## 8A. How to calculate country-specific multiplier[^c-8ff74ad59fe6b521d06a459a75973246]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ff74ad59fe6b521d06a459a75973246]: Textual amendment: [Regs. 8A-8C](https://www.legislation.gov.uk/uksi/2009/470/regulation/8A) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [11](https://www.legislation.gov.uk/uksi/2022/1335/regulation/11)
+[^c-8ff74ad59fe6b521d06a459a75973246]: Textual amendment: [Regs. 8A-8C](https://www.legislation.gov.uk/uksi/2009/470/regulation/8A) inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [11](https://www.legislation.gov.uk/uksi/2022/1335/regulation/11)

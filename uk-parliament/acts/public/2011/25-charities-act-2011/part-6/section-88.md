@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Publicity relating to schemes[^key-8f0272f36b2aae2514fa8c917949be3b][^key-8733088bb4a7fd6a4fee3faa90772571]
+## 88. Publicity relating to schemes[^c-8f0272f36b2aae2514fa8c917949be3b][^c-8733088bb4a7fd6a4fee3faa90772571]
 
 *Extent: E+W*
 
 (1) The Commission may not—
 
 - (a) make any order under this Act to establish a scheme for the administration of a charity, or
-- (b) submit such a scheme to the court or the Secretary of State[^key-1b28bf3c4212733928c726b644519f79] for an order giving it effect,
+- (b) submit such a scheme to the court or the Secretary of State[^c-1b28bf3c4212733928c726b644519f79] for an order giving it effect,
 
 unless, before doing so, the Commission has complied with the publicity requirements in subsection (2).
 
@@ -64,8 +64,8 @@ compliance with the requirement or requirements is unnecessary.
 
 ## Annotations
 
-[^key-8f0272f36b2aae2514fa8c917949be3b]: Modification: S. 88 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [25(4)](https://www.legislation.gov.uk/uksi/2012/3013/regulation/25/4)
+[^c-8f0272f36b2aae2514fa8c917949be3b]: Modification: S. 88 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [25(4)](https://www.legislation.gov.uk/uksi/2012/3013/regulation/25/4)
 
-[^key-8733088bb4a7fd6a4fee3faa90772571]: Modification: S. 88 applied by 1987 c. 3, s. 5(8) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
+[^c-8733088bb4a7fd6a4fee3faa90772571]: Modification: S. 88 applied by 1987 c. 3, s. 5(8) (as substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 47(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/47/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8)))
 
-[^key-1b28bf3c4212733928c726b644519f79]: Textual amendment: Words in [s. 88(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/88/1/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(p)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/p) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-1b28bf3c4212733928c726b644519f79]: Textual amendment: Words in [s. 88(1)(b)](https://www.legislation.gov.uk/ukpga/2011/25/section/88/1/b) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(p)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/p) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

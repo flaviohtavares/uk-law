@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187.[^key-75c6049b3e846a6cd2f4971a2e59c9b9]
+## 187.[^c-75c6049b3e846a6cd2f4971a2e59c9b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 624 (income where settlor retains an interest), in subsection (3), af
 
 ## Annotations
 
-[^key-75c6049b3e846a6cd2f4971a2e59c9b9]: Commencement: Reg. 187 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-75c6049b3e846a6cd2f4971a2e59c9b9]: Commencement: Reg. 187 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

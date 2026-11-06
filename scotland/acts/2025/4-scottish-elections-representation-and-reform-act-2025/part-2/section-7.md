@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Local authorities: disqualifications relating to sexual offences etc.[^key-4dcaae073d58b4182ecbc352352c6808][^key-2194881abcf174974c028b4480b5cda6]
+## 7. Local authorities: disqualifications relating to sexual offences etc.[^c-4dcaae073d58b4182ecbc352352c6808][^c-2194881abcf174974c028b4480b5cda6]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4dcaae073d58b4182ecbc352352c6808]: Commencement: S. 7 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-4dcaae073d58b4182ecbc352352c6808]: Commencement: S. 7 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-2194881abcf174974c028b4480b5cda6]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/4/section/7) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-2194881abcf174974c028b4480b5cda6]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2025/4/section/7) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Restrictions on withdrawal from an ophthalmic list[^key-8af0ca04bf084a8008f6d6ccecb31eff]
+## 21. Restrictions on withdrawal from an ophthalmic list[^c-8af0ca04bf084a8008f6d6ccecb31eff]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ but has not yet given effect to that decision.
 
 ## Annotations
 
-[^key-8af0ca04bf084a8008f6d6ccecb31eff]: Commencement: Reg. 21 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-8af0ca04bf084a8008f6d6ccecb31eff]: Commencement: Reg. 21 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

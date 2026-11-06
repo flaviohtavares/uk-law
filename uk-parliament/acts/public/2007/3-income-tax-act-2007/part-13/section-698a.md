@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 698A. No-counteraction notices[^key-a094a56e798316501990003de0e6847a]
+## 698A. No-counteraction notices[^c-a094a56e798316501990003de0e6847a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a094a56e798316501990003de0e6847a]: Textual amendment: S. 698A inserted (with effect in accordance with s. 34(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 34(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/34/6)
+[^c-a094a56e798316501990003de0e6847a]: Textual amendment: S. 698A inserted (with effect in accordance with s. 34(8)(9) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 34(6)](https://www.legislation.gov.uk/ukpga/2016/24/section/34/6)

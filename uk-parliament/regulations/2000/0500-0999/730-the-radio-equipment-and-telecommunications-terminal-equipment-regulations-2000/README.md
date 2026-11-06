@@ -29,39 +29,39 @@ summary: ''
 
 TELECOMMUNICATIONS
 
-The Radio Equipment and Telecommunications Terminal Equipment Regulations 2000 *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+The Radio Equipment and Telecommunications Terminal Equipment Regulations 2000 *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-Made *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+Made *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-9th March 2000 *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+9th March 2000 *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-Laid before Parliament *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+Laid before Parliament *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-13th March 2000 *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+13th March 2000 *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-Coming into force *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+Coming into force *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-8th April 2000 *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+8th April 2000 *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-The Secretary of State, being a Minister designated *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83][^f00002] in relation to measures relating to the approval of radio equipment and telecommunications terminal equipment, in exercise of the powers conferred on him by that section, hereby makes the following Regulations: *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83][^key-96fa40c5694c5b78dfbddf12b7f32254]
+The Secretary of State, being a Minister designated *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83][^f00002] in relation to measures relating to the approval of radio equipment and telecommunications terminal equipment, in exercise of the powers conferred on him by that section, hereby makes the following Regulations: *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83][^c-96fa40c5694c5b78dfbddf12b7f32254]
 
 ## Contents
 
-### PART I (affected by repeal, see note) — INTRODUCTORY (affected by repeal, see note)[^key-0b96f530bbc126fb8d7dbaf4bec1cb83][^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+### PART I (affected by repeal, see note) — INTRODUCTORY (affected by repeal, see note)[^c-0b96f530bbc126fb8d7dbaf4bec1cb83][^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 1 — Citation, commencement, revocations and disapplications](part-i/section-1.md)
 - [Section 2 — Interpretation](part-i/section-2.md)
 
-### PART II (affected by repeal, see note) — GENERAL PRINCIPLES (affected by repeal, see note)[^key-0b96f530bbc126fb8d7dbaf4bec1cb83][^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+### PART II (affected by repeal, see note) — GENERAL PRINCIPLES (affected by repeal, see note)[^c-0b96f530bbc126fb8d7dbaf4bec1cb83][^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 3 — Scope and Exclusions](part-ii/section-3.md)
 - [Section 4 — Essential Requirements](part-ii/section-4.md)
 
-### PART III (affected by repeal, see note) — COMPLIANCE (affected by repeal, see note)[^key-0b96f530bbc126fb8d7dbaf4bec1cb83][^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+### PART III (affected by repeal, see note) — COMPLIANCE (affected by repeal, see note)[^c-0b96f530bbc126fb8d7dbaf4bec1cb83][^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,7 +79,7 @@ The Secretary of State, being a Minister designated *(affected by repeal, see no
 - [Section 16 — Fees](part-iii/section-16.md)
 - [Section 17 — Modification of Licences](part-iii/section-17.md)
 
-### PART IV (affected by repeal, see note) — ENFORCEMENT (affected by repeal, see note)[^key-0b96f530bbc126fb8d7dbaf4bec1cb83][^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+### PART IV (affected by repeal, see note) — ENFORCEMENT (affected by repeal, see note)[^c-0b96f530bbc126fb8d7dbaf4bec1cb83][^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
 *Extent: E+W+S+N.I.*
 
@@ -103,13 +103,13 @@ The Secretary of State, being a Minister designated *(affected by repeal, see no
 
 *Extent: E+W+S+N.I.*
 
-Patricia Hewitt, *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+Patricia Hewitt, *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-Minister for Small Business and E-Commerce, *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+Minister for Small Business and E-Commerce, *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-Department of Trade and Industry *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+Department of Trade and Industry *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
-9th March 2000 *(affected by repeal, see note)*[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]
+9th March 2000 *(affected by repeal, see note)*[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]
 
 *Extent: E+W+S+N.I.*
 
@@ -135,10 +135,10 @@ A Regulatory Impact Assessment is available and can be obtained from Communicati
 
 ## Annotations
 
-[^key-0b96f530bbc126fb8d7dbaf4bec1cb83]: Textual amendment: Regulations revoked (with savings) (26.12.2017) by [The Radio Equipment Regulations 2017 (S.I. 2017/1206)](https://www.legislation.gov.uk/uksi/2017/1206), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1206/regulation/1), [78(1)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/78/1) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2017/1206/regulation/3), [77](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77), [78(2)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/78/2)); and Regulations (as saved) modified (E.W.S.) (31.12.2020) by [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206), [reg. 78(2)(2A)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/78/2) (as amended by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 45(3)](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/45/3) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-0b96f530bbc126fb8d7dbaf4bec1cb83]: Textual amendment: Regulations revoked (with savings) (26.12.2017) by [The Radio Equipment Regulations 2017 (S.I. 2017/1206)](https://www.legislation.gov.uk/uksi/2017/1206), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1206/regulation/1), [78(1)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/78/1) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2017/1206/regulation/3), [77](https://www.legislation.gov.uk/uksi/2017/1206/regulation/77), [78(2)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/78/2)); and Regulations (as saved) modified (E.W.S.) (31.12.2020) by [S.I. 2017/1206](https://www.legislation.gov.uk/uksi/2017/1206), [reg. 78(2)(2A)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/78/2) (as amended by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 45(3)](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/45/3) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^f00001]: Footnote: [S.I. 1989/1327](https://www.legislation.gov.uk/uksi/1989/1327) and [S.I. 1999/2788](https://www.legislation.gov.uk/uksi/1999/2788).
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-96fa40c5694c5b78dfbddf12b7f32254]: Modification: Regulations: any reference to “the Director” treated as a reference to OFCOM (with the exception of reg. 13(7)) (29.12.2003) by virtue of [The Radio Equipment and Telecommunications Terminal Equipment (Amendment No. 2) Regulations 2003 (S.I. 2003/3144)](https://www.legislation.gov.uk/uksi/2003/3144), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3144/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/3144/regulation/2/2)
+[^c-96fa40c5694c5b78dfbddf12b7f32254]: Modification: Regulations: any reference to “the Director” treated as a reference to OFCOM (with the exception of reg. 13(7)) (29.12.2003) by virtue of [The Radio Equipment and Telecommunications Terminal Equipment (Amendment No. 2) Regulations 2003 (S.I. 2003/3144)](https://www.legislation.gov.uk/uksi/2003/3144), [regs. 1](https://www.legislation.gov.uk/uksi/2003/3144/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/3144/regulation/2/2)

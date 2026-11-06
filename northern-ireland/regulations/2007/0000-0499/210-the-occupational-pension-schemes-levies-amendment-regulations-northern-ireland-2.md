@@ -41,24 +41,24 @@ The Department for Social Development makes the following Regulations in exercis
 
 In accordance with Article 103(4) of that Order it has consulted the Board of the Pension Protection Fund[^f00002] in relation to regulation 2(7).
 
-## 1. Citation and commencement[^key-ef989f28795efdff8b7090d9d9ae7843][^key-ef989f28795efdff8b7090d9d9ae7843]
+## 1. Citation and commencement[^c-ef989f28795efdff8b7090d9d9ae7843][^c-ef989f28795efdff8b7090d9d9ae7843]
 
 These Regulations may be cited as the Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2007 and shall come into operation—
 
 - (a) for the purposes of this regulation and regulation 2(9), on 30th March 2007, and
 - (b) for all other purposes, on 1st April 2007.
 
-## 2. Amendment of the Occupational Pension Schemes (Levies) Regulations[^key-d9ed805ac961b8032594eeab9139535e][^key-fc91502399249e534d20832fac7953e1][^key-fc91502399249e534d20832fac7953e1]
+## 2. Amendment of the Occupational Pension Schemes (Levies) Regulations[^c-d9ed805ac961b8032594eeab9139535e][^c-fc91502399249e534d20832fac7953e1][^c-fc91502399249e534d20832fac7953e1]
 
-(1)[^key-d9ed805ac961b8032594eeab9139535e] The Occupational Pension Schemes (Levies) Regulations (Northern Ireland) 2005[^f00003] shall be amended in accordance with paragraphs (2) to (11).
+(1)[^c-d9ed805ac961b8032594eeab9139535e] The Occupational Pension Schemes (Levies) Regulations (Northern Ireland) 2005[^f00003] shall be amended in accordance with paragraphs (2) to (11).
 
-(2)[^key-d9ed805ac961b8032594eeab9139535e] In regulation 2 (interpretation) omit the definition of “the PPF Ombudsman levy”.
+(2)[^c-d9ed805ac961b8032594eeab9139535e] In regulation 2 (interpretation) omit the definition of “the PPF Ombudsman levy”.
 
-(3)[^key-d9ed805ac961b8032594eeab9139535e] For the cross heading to Part II substitute “ADMINISTRATION LEVY”.
+(3)[^c-d9ed805ac961b8032594eeab9139535e] For the cross heading to Part II substitute “ADMINISTRATION LEVY”.
 
-(4)[^key-d9ed805ac961b8032594eeab9139535e] Omit regulation 3 (meaning of “the levies” in Part II).
+(4)[^c-d9ed805ac961b8032594eeab9139535e] Omit regulation 3 (meaning of “the levies” in Part II).
 
-(5)[^key-d9ed805ac961b8032594eeab9139535e] In regulation 4 (liability for the levies)—
+(5)[^c-d9ed805ac961b8032594eeab9139535e] In regulation 4 (liability for the levies)—
 
 - (a) for the heading substitute “Liability for the administration levy”;
 - (b) omit paragraph (2);
@@ -67,13 +67,13 @@ These Regulations may be cited as the Occupational Pension Schemes (Levies) (Ame
 - (e) in paragraph (5) for “The levies in respect of a financial year are” substitute “The administration levy in respect of a financial year is”;
 - (f) in paragraph (6) for “the levies are” substitute “the administration levy is”.
 
-(6)[^key-d9ed805ac961b8032594eeab9139535e] In regulation 5(1) (the reference day) for “each of the levies” substitute “the administration levy”.
+(6)[^c-d9ed805ac961b8032594eeab9139535e] In regulation 5(1) (the reference day) for “each of the levies” substitute “the administration levy”.
 
-(7)[^key-00bb207a730fd5170b91f94efbaf4fde][^key-d9ed805ac961b8032594eeab9139535e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-00bb207a730fd5170b91f94efbaf4fde][^c-d9ed805ac961b8032594eeab9139535e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-d9ed805ac961b8032594eeab9139535e] In regulation 7(2) (schemes eligible for only part of the financial year) for “each of the levies” substitute “the administration levy”.
+(8)[^c-d9ed805ac961b8032594eeab9139535e] In regulation 7(2) (schemes eligible for only part of the financial year) for “each of the levies” substitute “the administration levy”.
 
-(9)[^key-fc91502399249e534d20832fac7953e1] After regulation 7 insert—
+(9)[^c-fc91502399249e534d20832fac7953e1] After regulation 7 insert—
 
 > **7A. Waiver of the administration levy**
 >
@@ -86,11 +86,11 @@ These Regulations may be cited as the Occupational Pension Schemes (Levies) (Ame
 
 .
 
-(10)[^key-d9ed805ac961b8032594eeab9139535e] In regulation 13[^f00007] (meaning of “the levies” in Part IV) omit “, the PPF Ombudsman levy”.
+(10)[^c-d9ed805ac961b8032594eeab9139535e] In regulation 13[^f00007] (meaning of “the levies” in Part IV) omit “, the PPF Ombudsman levy”.
 
-(11)[^key-d9ed805ac961b8032594eeab9139535e] In regulation 18(4) (avoidance of double liability: schemes in Great Britain) omit sub-paragraph (b)[^f00008].
+(11)[^c-d9ed805ac961b8032594eeab9139535e] In regulation 18(4) (avoidance of double liability: schemes in Great Britain) omit sub-paragraph (b)[^f00008].
 
-## 3. Revocations[^key-9bef9cc6235e47ab3a796f541040ab06]
+## 3. Revocations[^c-9bef9cc6235e47ab3a796f541040ab06]
 
 Regulation 2(2), (4) and (8)(a) of the Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2006[^f00009] is revoked.
 
@@ -122,17 +122,17 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00002]: Footnote: The Board of the Pension Protection Fund is established by section 107 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35)
 
-[^key-ef989f28795efdff8b7090d9d9ae7843]: Commencement: Reg. 1 in operation at 30.3.2007, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/a)
+[^c-ef989f28795efdff8b7090d9d9ae7843]: Commencement: Reg. 1 in operation at 30.3.2007, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/a)
 
-[^key-d9ed805ac961b8032594eeab9139535e]: Commencement: Reg. 2(1)-(8)(10)(11) in operation at 1.4.2007, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b)
+[^c-d9ed805ac961b8032594eeab9139535e]: Commencement: Reg. 2(1)-(8)(10)(11) in operation at 1.4.2007, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b)
 
-[^key-fc91502399249e534d20832fac7953e1]: Commencement: Reg. 2(9) in operation at 30.3.2007, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/a)
+[^c-fc91502399249e534d20832fac7953e1]: Commencement: Reg. 2(9) in operation at 30.3.2007, see [reg. 1(a)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/a)
 
 [^f00003]: Footnote: [S.R. 2005 No. 147](https://www.legislation.gov.uk/nisr/2005/147) as amended by [S.R. 2006 No. 162](https://www.legislation.gov.uk/nisr/2006/162)
 
 [^f00004]: Footnote: Paragraph (4) was amended by regulation 2(2) of [S.R. 2006 No. 162](https://www.legislation.gov.uk/nisr/2006/162)
 
-[^key-00bb207a730fd5170b91f94efbaf4fde]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/nisr/2007/210/regulation/2/7) revoked (1.4.2008) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/145)](https://www.legislation.gov.uk/nisr/2008/145), [regs. 1](https://www.legislation.gov.uk/nisr/2008/145/regulation/1), [3](https://www.legislation.gov.uk/nisr/2008/145/regulation/3)
+[^c-00bb207a730fd5170b91f94efbaf4fde]: Textual amendment: [Reg. 2(7)](https://www.legislation.gov.uk/nisr/2007/210/regulation/2/7) revoked (1.4.2008) by [The Occupational Pension Schemes (Levies) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/145)](https://www.legislation.gov.uk/nisr/2008/145), [regs. 1](https://www.legislation.gov.uk/nisr/2008/145/regulation/1), [3](https://www.legislation.gov.uk/nisr/2008/145/regulation/3)
 
 [^f00006]: Footnote: Article 137 is modified in its application to partially guaranteed schemes and multi-employer schemes by, respectively, [S.R. 2005 Nos. 55](https://www.legislation.gov.uk/nisr/2005/55) and [91](https://www.legislation.gov.uk/nisr/2005/91) (as amended by [S.R. 2005 Nos. 194](https://www.legislation.gov.uk/nisr/2005/194) and [357](https://www.legislation.gov.uk/nisr/2005/357))
 
@@ -140,6 +140,6 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00008]: Footnote: Sub-paragraph (b) was amended by regulation 2(8)(a) of [S.R. 2006 No. 162](https://www.legislation.gov.uk/nisr/2006/162)
 
-[^key-9bef9cc6235e47ab3a796f541040ab06]: Commencement: Reg. 3 in operation at 1.4.2007, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b)
+[^c-9bef9cc6235e47ab3a796f541040ab06]: Commencement: Reg. 3 in operation at 1.4.2007, see [reg. 1(b)](https://www.legislation.gov.uk/nisr/2007/210/regulation/1/b)
 
 [^f00009]: Footnote: [S.R. 2006 No. 162](https://www.legislation.gov.uk/nisr/2006/162)

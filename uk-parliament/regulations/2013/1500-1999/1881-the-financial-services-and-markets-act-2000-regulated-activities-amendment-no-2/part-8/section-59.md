@@ -27,7 +27,7 @@ summary: ''
 - (a) section 38(2) of the Act (exemption orders) [^c23374541];
 - (b) section 55A(3) [^c23374551] of the Act (application for permission);
 - (c) sections 55E and 55F of the Act (giving permission).
-- (d)[^key-d5be4853d7fedc572a207b92f9bc5cf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-d5be4853d7fedc572a207b92f9bc5cf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of section 21(2) of the Act (restrictions on financial promotions), if A does not have permission other than an interim permission, A may only approve the content of a communication if the communication invites or induces a person to—
 
@@ -41,12 +41,12 @@ summary: ''
 
 (5) If A applies to the appropriate regulator—
 
-- (a) under section 55A of the Act for Part 4A permission to carry on a regulated activity other than a regulated activity for which A has interim permission[^key-744a0c7e6a6fefc6ffd9249cfa4dce78] , or
+- (a) under section 55A of the Act for Part 4A permission to carry on a regulated activity other than a regulated activity for which A has interim permission[^c-744a0c7e6a6fefc6ffd9249cfa4dce78] , or
 - (b) under section 55H or 55I of the Act to vary a Part 4A permission that A has otherwise than by virtue of this Order by adding a regulated activity to those which the permission relates,
 
 the application may be treated by the appropriate regulator as relating also to some or all of the regulated activities for which A has interim permission.
 
-(5A)[^key-5fad8730a095c43183627ee4e6b00974] If the appropriate regulator treats the application as relating also to some or all of the regulated activities for which A has interim permission, article 58(5) does not apply in relation to the application.
+(5A)[^c-5fad8730a095c43183627ee4e6b00974] If the appropriate regulator treats the application as relating also to some or all of the regulated activities for which A has interim permission, article 58(5) does not apply in relation to the application.
 
 (6) When the FCA or PRA—
 
@@ -60,7 +60,7 @@ section 55B(3) of the Act (satisfaction of threshold conditions) does not requir
 
 (8) Subsection (3)(a) of section 213 (compensation scheme) [^c23374571] does not apply to a person who is a relevant person (within the meaning of that section) only by virtue of having an interim permission.
 
-(9)[^key-256867ce4c5ac298c835bb59bc25121b] A’s interim permission is to be disregarded for the purposes of determining whether section 327(1) of the Act disapplies the general prohibition.
+(9)[^c-256867ce4c5ac298c835bb59bc25121b] A’s interim permission is to be disregarded for the purposes of determining whether section 327(1) of the Act disapplies the general prohibition.
 
 (10)  A regulated activity for which a person has interim permission is to be disregarded for the purposes of section 327(5) and (7) of the Act (exemption from the general prohibition).
 
@@ -75,14 +75,14 @@ section 55B(3) of the Act (satisfaction of threshold conditions) does not requir
 
 [^c23374551]: Marginal citation: Sections 55A to 55Z4 were inserted by the Financial Services Act 2012, section 9.
 
-[^key-d5be4853d7fedc572a207b92f9bc5cf9]: Textual amendment: Art. 59(2)(d) omitted (1.4.2014) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 2) Order 2014 (S.I. 2014/835)](https://www.legislation.gov.uk/uksi/2014/835), [arts. 1](https://www.legislation.gov.uk/uksi/2014/835/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/835/article/2/2)
+[^c-d5be4853d7fedc572a207b92f9bc5cf9]: Textual amendment: Art. 59(2)(d) omitted (1.4.2014) by virtue of [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 2) Order 2014 (S.I. 2014/835)](https://www.legislation.gov.uk/uksi/2014/835), [arts. 1](https://www.legislation.gov.uk/uksi/2014/835/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/835/article/2/2)
 
 [^c23374561]: Marginal citation: Amended by the Financial Services Act 2012, section 10 and Schedule 18, and [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
 
-[^key-744a0c7e6a6fefc6ffd9249cfa4dce78]: Textual amendment: Words in art. 59(5)(a) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [7(5)(b)](https://www.legislation.gov.uk/uksi/2014/208/article/7/5/b)
+[^c-744a0c7e6a6fefc6ffd9249cfa4dce78]: Textual amendment: Words in art. 59(5)(a) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [7(5)(b)](https://www.legislation.gov.uk/uksi/2014/208/article/7/5/b)
 
-[^key-5fad8730a095c43183627ee4e6b00974]: Textual amendment: Art. 59(5A) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [7(5)(c)](https://www.legislation.gov.uk/uksi/2014/208/article/7/5/c)
+[^c-5fad8730a095c43183627ee4e6b00974]: Textual amendment: Art. 59(5A) inserted (26.2.2014 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Miscellaneous Provisions) Order 2014 (S.I. 2014/208)](https://www.legislation.gov.uk/uksi/2014/208), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/208/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2014/208/article/1/4), [7(5)(c)](https://www.legislation.gov.uk/uksi/2014/208/article/7/5/c)
 
 [^c23374571]: Marginal citation: Amended by the [Banking Act 2009 (c.1)](https://www.legislation.gov.uk/ukpga/2009/1), [section 170](https://www.legislation.gov.uk/ukpga/2009/1/section/170), the Financial Services Act 2012, Schedule 10, paragraphs 1 and 3, and [S.I. 2011/1613](https://www.legislation.gov.uk/uksi/2011/1613)
 
-[^key-256867ce4c5ac298c835bb59bc25121b]: Textual amendment: Art. 59(9)-(11) inserted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 2) Order 2014 (S.I. 2014/835)](https://www.legislation.gov.uk/uksi/2014/835), [arts. 1](https://www.legislation.gov.uk/uksi/2014/835/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/835/article/2/3)
+[^c-256867ce4c5ac298c835bb59bc25121b]: Textual amendment: Art. 59(9)-(11) inserted (1.4.2014) by [The Financial Services and Markets Act 2000 (Consumer Credit) (Transitional Provisions) (No. 2) Order 2014 (S.I. 2014/835)](https://www.legislation.gov.uk/uksi/2014/835), [arts. 1](https://www.legislation.gov.uk/uksi/2014/835/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/835/article/2/3)

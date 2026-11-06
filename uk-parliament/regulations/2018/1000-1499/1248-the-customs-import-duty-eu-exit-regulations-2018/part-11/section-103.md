@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Goods presumed not to be domestic goods[^key-3a84e3fcf3e1927d45860205ba9c99b6][^key-c6cef333cd93aa3aa9aba76b05ff38db]
+## 103. Goods presumed not to be domestic goods[^c-3a84e3fcf3e1927d45860205ba9c99b6][^c-c6cef333cd93aa3aa9aba76b05ff38db]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a84e3fcf3e1927d45860205ba9c99b6]: Commencement: Reg. 103 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-3a84e3fcf3e1927d45860205ba9c99b6]: Commencement: Reg. 103 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-c6cef333cd93aa3aa9aba76b05ff38db]: Textual amendment: [Reg. 103](https://www.legislation.gov.uk/uksi/2018/1248/regulation/103) substituted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/2/11)
+[^c-c6cef333cd93aa3aa9aba76b05ff38db]: Textual amendment: [Reg. 103](https://www.legislation.gov.uk/uksi/2018/1248/regulation/103) substituted (8.11.2021) by [The Free Zones (Customs, Excise and Value Added Tax) Regulations 2021 (S.I. 2021/1156)](https://www.legislation.gov.uk/uksi/2021/1156), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1156/regulation/1), [2(11)](https://www.legislation.gov.uk/uksi/2021/1156/regulation/2/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Members contributions: supplementary: medical practitioners, non-GP providers[^key-041ee60973e1ab327fb3789013a072e8]
+## 37. Members contributions: supplementary: medical practitioners, non-GP providers[^c-041ee60973e1ab327fb3789013a072e8]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) has certified M's pensionable earnings in accordance with Part 1 of Schedule 10 and forwarded a record of the earnings to the contracting Health Board (or someone appointed to act on its behalf); or
 - (b) was not required to certify M's earnings in accordance with Part 1 of Schedule 10 but the contracting Health Board (or someone appointed to act on its behalf) has the figure that represents M's pensionable earnings for that year.
 
-(3) M's contributions payable for the scheme year in question are those specified in column 2 of the relevant table in regulation 31[^key-73e159031809b5c44d927719b933e362] in respect of the amount of pensionable earnings referred to in column 1 of that table[^key-4be6787c25de5ebc54694d03e9eeddc8] which corresponds to the aggregate of—
+(3) M's contributions payable for the scheme year in question are those specified in column 2 of the relevant table in regulation 31[^c-73e159031809b5c44d927719b933e362] in respect of the amount of pensionable earnings referred to in column 1 of that table[^c-4be6787c25de5ebc54694d03e9eeddc8] which corresponds to the aggregate of—
 
 - (a) certified or final pensionable earnings from all group D sources uprated according to the formula—
 
@@ -41,9 +41,9 @@ summary: ''
   PE is the certified or final amount of M's pensionable earnings from all group D sources for the year;
 
   NDPS is the number of days of group D service from the date that M's service commenced in the scheme year to the end of the scheme year; and
-- (b) any reduced[^key-a28a6f6ec16dfdccde5b699d56af7ed2] pensionable earnings M is treated as having received during an absence from work in accordance with regulation 28.
+- (b) any reduced[^c-a28a6f6ec16dfdccde5b699d56af7ed2] pensionable earnings M is treated as having received during an absence from work in accordance with regulation 28.
 
-(4) If paragraph (3) does not apply to M in respect of a scheme year, M must pay contributions at the rate in column 2 of the relevant table in regulation 31[^key-3334442ebda77baea29086a454dc19a0] on the basis of whichever of the following the contracting Health Board (or someone appointed to act on its behalf) considers the most appropriate in the circumstances (including amounts equal to reduced pensionable earnings that M is treated as having received during an absence from work (see regulation 28))[^key-c6dd2aec829576f16649158d07f3400f]—
+(4) If paragraph (3) does not apply to M in respect of a scheme year, M must pay contributions at the rate in column 2 of the relevant table in regulation 31[^c-3334442ebda77baea29086a454dc19a0] on the basis of whichever of the following the contracting Health Board (or someone appointed to act on its behalf) considers the most appropriate in the circumstances (including amounts equal to reduced pensionable earnings that M is treated as having received during an absence from work (see regulation 28))[^c-c6dd2aec829576f16649158d07f3400f]—
 
 - (a) an amount of M's earnings that has been agreed between M and the contracting Health Board (or someone appointed to act on its behalf);
 - (b) an amount of M's earnings that corresponds to M's most recent certified or final pensionable earnings referred to in paragraph (2); or
@@ -66,7 +66,7 @@ summary: ''
 (9) If M is a locum practitioner who is not also a principal practitioner—
 
 - (a) M must pay contributions from group D earnings at the rate in column 2 of the table in regulation 31(9) based on income from all sources; and
-- (b) M must pay those contributions to the scheme manager[^key-72c6d289f409c6d9c9e342155c2f72c7] no later than the 19th day following the month in which the earnings were paid.
+- (b) M must pay those contributions to the scheme manager[^c-72c6d289f409c6d9c9e342155c2f72c7] no later than the 19th day following the month in which the earnings were paid.
 
 (10) If M is an assistant practitioner, M must pay contributions from group D earnings at the rate in column 2 of the Table in regulation 31(9).
 
@@ -77,16 +77,16 @@ summary: ''
 
 ## Annotations
 
-[^key-041ee60973e1ab327fb3789013a072e8]: Modification: [Reg. 37](https://www.legislation.gov.uk/ssi/2015/94/regulation/37) modified (temp.) (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [71](https://www.legislation.gov.uk/ssi/2024/272/regulation/71), [73](https://www.legislation.gov.uk/ssi/2024/272/regulation/73)
+[^c-041ee60973e1ab327fb3789013a072e8]: Modification: [Reg. 37](https://www.legislation.gov.uk/ssi/2015/94/regulation/37) modified (temp.) (with effect in accordance with reg. 1(4) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [71](https://www.legislation.gov.uk/ssi/2024/272/regulation/71), [73](https://www.legislation.gov.uk/ssi/2024/272/regulation/73)
 
-[^key-73e159031809b5c44d927719b933e362]: Textual amendment: Words in [reg. 37(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/3) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [48(a)(i)](https://www.legislation.gov.uk/ssi/2024/272/regulation/48/a/i)
+[^c-73e159031809b5c44d927719b933e362]: Textual amendment: Words in [reg. 37(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/3) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [48(a)(i)](https://www.legislation.gov.uk/ssi/2024/272/regulation/48/a/i)
 
-[^key-4be6787c25de5ebc54694d03e9eeddc8]: Textual amendment: Words in [reg. 37(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/3) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [48(a)(ii)](https://www.legislation.gov.uk/ssi/2024/272/regulation/48/a/ii)
+[^c-4be6787c25de5ebc54694d03e9eeddc8]: Textual amendment: Words in [reg. 37(3)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/3) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [48(a)(ii)](https://www.legislation.gov.uk/ssi/2024/272/regulation/48/a/ii)
 
-[^key-a28a6f6ec16dfdccde5b699d56af7ed2]: Textual amendment: Word in [reg. 37(3)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/3/b) substituted (with effect from 1.10.2022) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(6)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/6), [27(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/27/2)
+[^c-a28a6f6ec16dfdccde5b699d56af7ed2]: Textual amendment: Word in [reg. 37(3)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/3/b) substituted (with effect from 1.10.2022) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(6)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/6), [27(2)](https://www.legislation.gov.uk/ssi/2025/259/regulation/27/2)
 
-[^key-3334442ebda77baea29086a454dc19a0]: Textual amendment: Words in [reg. 37(4)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/4) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [48(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/48/b)
+[^c-3334442ebda77baea29086a454dc19a0]: Textual amendment: Words in [reg. 37(4)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/4) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [48(b)](https://www.legislation.gov.uk/ssi/2024/272/regulation/48/b)
 
-[^key-c6dd2aec829576f16649158d07f3400f]: Textual amendment: Words in [reg. 37(4)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/4) inserted (with effect from 1.10.2022) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(6)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/6), [27(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/27/3)
+[^c-c6dd2aec829576f16649158d07f3400f]: Textual amendment: Words in [reg. 37(4)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/4) inserted (with effect from 1.10.2022) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2025 (S.S.I. 2025/259)](https://www.legislation.gov.uk/ssi/2025/259), [regs. 1(1)(6)](https://www.legislation.gov.uk/ssi/2025/259/regulation/1/1/6), [27(3)](https://www.legislation.gov.uk/ssi/2025/259/regulation/27/3)
 
-[^key-72c6d289f409c6d9c9e342155c2f72c7]: Textual amendment: Word in [reg. 37(9)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/9/b) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2016/97/regulation/7)
+[^c-72c6d289f409c6d9c9e342155c2f72c7]: Textual amendment: Word in [reg. 37(9)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/37/9/b) substituted (with effect in accordance with reg. 1(2) of the amending S.S.I.) by [The National Health Service Pension Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/97)](https://www.legislation.gov.uk/ssi/2016/97), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/97/regulation/1/1), [7](https://www.legislation.gov.uk/ssi/2016/97/regulation/7)

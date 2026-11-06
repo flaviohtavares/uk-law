@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61X. Interpretation[^key-c5ed4a8550671f87f70e726d21948b20]
+## 61X. Interpretation[^c-c5ed4a8550671f87f70e726d21948b20]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)
+[^c-c5ed4a8550671f87f70e726d21948b20]: Textual amendment: Pt. 2 Ch. 10 inserted (with effect in accordance with Sch. 1 para. 16 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2017/10/schedule/1/paragraph/9)

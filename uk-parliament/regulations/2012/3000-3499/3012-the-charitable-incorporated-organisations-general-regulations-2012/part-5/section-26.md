@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Requirement to keep registers[^key-ccabc456e138f34406d5bd662ce8d361]
+## 26. Requirement to keep registers[^c-ccabc456e138f34406d5bd662ce8d361]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ccabc456e138f34406d5bd662ce8d361]: Commencement: Reg. 26 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-ccabc456e138f34406d5bd662ce8d361]: Commencement: Reg. 26 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
 [^f00007]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).

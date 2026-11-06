@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Nature of proceedings under sections 19 and 29, etc[^key-bebf5d7d936866db1253ca0312746472]
+## 32. Nature of proceedings under sections 19 and 29, etc[^c-bebf5d7d936866db1253ca0312746472]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,12 +38,12 @@ summary: ''
 
 (6) A prohibition order may be made or varied as mentioned in section 19(2)(b) or 29(4)(b) (as the case may be) in spite of anything in the following provisions (which relate to orders discharging a person conditionally or absolutely and their effect)—
 
-- (a)[^key-615b15145ff2ccd2c9973726d5bae673] sections 79, 80 and 82 of the Sentencing Code,
+- (a)[^c-615b15145ff2ccd2c9973726d5bae673] sections 79, 80 and 82 of the Sentencing Code,
 - (b) sections 246 and 247 of the Criminal Procedure (Scotland) Act 1995;
 - (c) Articles 4 and 6 of the Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24)).
 
 ## Annotations
 
-[^key-bebf5d7d936866db1253ca0312746472]: Commencement: S. 32 in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-bebf5d7d936866db1253ca0312746472]: Commencement: S. 32 in force at 26.5.2016 by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
 
-[^key-615b15145ff2ccd2c9973726d5bae673]: Textual amendment: [S. 32(6)(a)](https://www.legislation.gov.uk/ukpga/2016/2/section/32/6/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 296](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/296) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-615b15145ff2ccd2c9973726d5bae673]: Textual amendment: [S. 32(6)(a)](https://www.legislation.gov.uk/ukpga/2016/2/section/32/6/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 296](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/296) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

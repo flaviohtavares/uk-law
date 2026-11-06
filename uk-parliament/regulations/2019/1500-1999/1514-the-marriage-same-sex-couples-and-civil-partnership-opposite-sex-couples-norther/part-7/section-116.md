@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Employment and Support Allowance Regulations (Northern Ireland) 2016[^key-c643cda7ba000695da6637d162a40f66]
+## 116. Employment and Support Allowance Regulations (Northern Ireland) 2016[^c-c643cda7ba000695da6637d162a40f66]
 
 *Extent: N.I.*
 
@@ -30,6 +30,6 @@ In regulation 2 of the Employment and Support Allowance Regulations (Northern Ir
 
 ## Annotations
 
-[^key-c643cda7ba000695da6637d162a40f66]: Commencement: Reg. 116 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-c643cda7ba000695da6637d162a40f66]: Commencement: Reg. 116 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00181]: Footnote: [S.R. (N.I.) 2016/219](https://www.legislation.gov.uk/nisr/2016/219).

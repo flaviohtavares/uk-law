@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Measures relating to slaughter and to poultry meat[^key-e0fd55acb13282e2820a47bd634ba72b]
+## 63. Measures relating to slaughter and to poultry meat[^c-e0fd55acb13282e2820a47bd634ba72b]
 
 *Extent: N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 (4) Poultry meat from poultry outside a protection zone which does not meet the requirements of paragraph (3)(b) is subject to the measures in paragraphs (2) and (5) applicable to meat from poultry originating in a protection zone.
 
-(5) A person shall not supply poultry meat from poultry originating in a protection zone for export outside the United Kingdom[^key-878a98435aef554f377a35ec6bd6111f].
+(5) A person shall not supply poultry meat from poultry originating in a protection zone for export outside the United Kingdom[^c-878a98435aef554f377a35ec6bd6111f].
 
 (6) A person, other than the final consumer of meat marked with a mark referred to in paragraph (2)(a), shall not deface, obliterate or remove that mark, unless under the authority of and in accordance with the conditions of a licence granted by the Department.
 
@@ -50,8 +50,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e0fd55acb13282e2820a47bd634ba72b]: Commencement: Reg. 63 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-e0fd55acb13282e2820a47bd634ba72b]: Commencement: Reg. 63 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
 
 [^f00011]: Footnote: O.J. No. L 139, 30.4.2004, p. 55. The revised text of Regulation [(EC) No. 853/2004](https://www.legislation.gov.uk/european/regulation/2004/0853) is now set out in a Corrigendum (O.J. No. L226, 25.6.2004, p.22)
 
-[^key-878a98435aef554f377a35ec6bd6111f]: Textual amendment: Words in [reg. 63(5)](https://www.legislation.gov.uk/nisr/2007/68/regulation/63/5) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/111/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-878a98435aef554f377a35ec6bd6111f]: Textual amendment: Words in [reg. 63(5)](https://www.legislation.gov.uk/nisr/2007/68/regulation/63/5) substituted (31.12.2020) by [The Exotic Disease (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/111)](https://www.legislation.gov.uk/uksi/2019/111), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/111/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/111/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. General functions of the Commission[^key-45a9aef0133a2761f8e8aeca92917531]
+## 88. General functions of the Commission[^c-45a9aef0133a2761f8e8aeca92917531]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45a9aef0133a2761f8e8aeca92917531]: Textual amendment: [Ss. 87-89](https://www.legislation.gov.uk/ukpga/2005/16/section/87) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)
+[^c-45a9aef0133a2761f8e8aeca92917531]: Textual amendment: [Ss. 87-89](https://www.legislation.gov.uk/ukpga/2005/16/section/87) repealed (21.1.2012) by [The Commission for Architecture and the Built Environment (Dissolution) Order 2012 (S.I. 2012/147)](https://www.legislation.gov.uk/uksi/2012/147), [art. 1](https://www.legislation.gov.uk/uksi/2012/147/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/147/schedule)

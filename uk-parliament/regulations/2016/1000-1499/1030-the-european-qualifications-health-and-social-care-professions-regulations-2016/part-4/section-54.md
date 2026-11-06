@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Amendment of Schedule 4ZA[^key-3f5130b197f62c8f93b20276a438326b]
+## 54. Amendment of Schedule 4ZA[^c-3f5130b197f62c8f93b20276a438326b]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f5130b197f62c8f93b20276a438326b]: Commencement: Reg. 54 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-3f5130b197f62c8f93b20276a438326b]: Commencement: Reg. 54 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00039]: Footnote: Schedule 4ZA was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

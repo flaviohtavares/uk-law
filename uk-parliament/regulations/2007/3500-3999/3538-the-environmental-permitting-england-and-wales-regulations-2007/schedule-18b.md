@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 18B — Provision in relation to mining waste operations[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+## SCHEDULE 18B — Provision in relation to mining waste operations[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 *Extent: E+W*
 
@@ -24,62 +24,62 @@ summary: ''
 
 Regulation 35(n)
 
-### 1. Application[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 1. Application[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Interpretation[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 2. Interpretation[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Applications for an environmental permit[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 3. Applications for an environmental permit[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Review of environmental permits[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 4. Review of environmental permits[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Classification of mining waste facilities[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 5. Classification of mining waste facilities[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Inspections[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 6. Inspections[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Exercise of relevant functions[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 7. Exercise of relevant functions[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Public participation[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 8. Public participation[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Derogation from requirements[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 9. Derogation from requirements[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Closure of a mining waste facility[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 10. Closure of a mining waste facility[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Inventory of closed mining waste facilities[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 11. Inventory of closed mining waste facilities[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Developments in best available techniques[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 12. Developments in best available techniques[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Planning permission requirements and conditions[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 13. Planning permission requirements and conditions[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Applications for an environmental permit for a Category A mining waste facility[^key-4ad98ce386a488f02e2210ec9e21b3b6]
+### 14. Applications for an environmental permit for a Category A mining waste facility[^c-4ad98ce386a488f02e2210ec9e21b3b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ad98ce386a488f02e2210ec9e21b3b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/3538) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-4ad98ce386a488f02e2210ec9e21b3b6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/3538) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

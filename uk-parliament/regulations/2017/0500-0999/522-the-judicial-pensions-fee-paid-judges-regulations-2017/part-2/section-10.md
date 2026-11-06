@@ -27,7 +27,7 @@ summary: ''
 
 may opt out by sending a notice to the appropriate Minister.
 
-(1A)[^key-6295a4b3cb1e6226a145449f4e75be90] A person with any liability to pay contributions for any period before 7th April 2000 as a consequence of amendments made to these Regulations coming into effect on 1st April 2023, may opt out in relation to all or part of that period by sending a notice to the appropriate Minister on or before 31st October 2023.
+(1A)[^c-6295a4b3cb1e6226a145449f4e75be90] A person with any liability to pay contributions for any period before 7th April 2000 as a consequence of amendments made to these Regulations coming into effect on 1st April 2023, may opt out in relation to all or part of that period by sending a notice to the appropriate Minister on or before 31st October 2023.
 
 (2) The notice—
 
@@ -38,4 +38,4 @@ may opt out by sending a notice to the appropriate Minister.
 
 ## Annotations
 
-[^key-6295a4b3cb1e6226a145449f4e75be90]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/10/1A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2023/403/regulation/11)
+[^c-6295a4b3cb1e6226a145449f4e75be90]: Textual amendment: [Reg. 10(1A)](https://www.legislation.gov.uk/uksi/2017/522/regulation/10/1A) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2023/403/regulation/11)

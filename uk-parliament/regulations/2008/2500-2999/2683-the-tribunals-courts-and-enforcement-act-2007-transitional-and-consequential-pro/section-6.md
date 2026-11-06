@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Consequential Amendments and Revocations[^key-acc1dfc851595a9ee482c53b7c9df661]
+## 6. Consequential Amendments and Revocations[^c-acc1dfc851595a9ee482c53b7c9df661]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acc1dfc851595a9ee482c53b7c9df661]: Commencement: Art. 6 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)
+[^c-acc1dfc851595a9ee482c53b7c9df661]: Commencement: Art. 6 in force at 3.11.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/2683/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Applications for approval of out of hours arrangements under general medical services contracts and default contracts[^key-c30fafc3cbf7801c129d8e17df5a32be]
+## 58. Applications for approval of out of hours arrangements under general medical services contracts and default contracts[^c-c30fafc3cbf7801c129d8e17df5a32be]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c30fafc3cbf7801c129d8e17df5a32be]: Commencement: Art. 58 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-c30fafc3cbf7801c129d8e17df5a32be]: Commencement: Art. 58 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00049]: Footnote: Paragraph 18A(7) as inserted by [S.I. 1996/702](https://www.legislation.gov.uk/uksi/1996/702) was amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).

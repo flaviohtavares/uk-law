@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 216. Notification and advertisement of appointment of joint administrator[^key-aeb184dc2f2171111071ff8cd9b03c29]
+## 216. Notification and advertisement of appointment of joint administrator[^c-aeb184dc2f2171111071ff8cd9b03c29]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where, after an initial appointment has been made, an additional person or perso
 
 ## Annotations
 
-[^key-aeb184dc2f2171111071ff8cd9b03c29]: Commencement: [Rule 216](https://www.legislation.gov.uk/uksi/2011/1301/rule/216) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-aeb184dc2f2171111071ff8cd9b03c29]: Commencement: [Rule 216](https://www.legislation.gov.uk/uksi/2011/1301/rule/216) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Reports on exercise of powers under this Part[^key-b6de5cb0036f85cff204ca16fb9a0834][^key-f280b299db1cb7e82104913e39fdd03c]
+## 55. Reports on exercise of powers under this Part[^c-b6de5cb0036f85cff204ca16fb9a0834][^c-f280b299db1cb7e82104913e39fdd03c]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b6de5cb0036f85cff204ca16fb9a0834]: Commencement: S. 55 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-b6de5cb0036f85cff204ca16fb9a0834]: Commencement: S. 55 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-f280b299db1cb7e82104913e39fdd03c]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/32/section/55) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-f280b299db1cb7e82104913e39fdd03c]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2023/32/section/55) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

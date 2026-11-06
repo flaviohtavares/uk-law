@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 176. Saving for powers of the court[^key-96eaec4d33ffc773b114b21879de6c26]
+## 176. Saving for powers of the court[^c-96eaec4d33ffc773b114b21879de6c26]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.230 of the 1991 Rules.
 
 ## Annotations
 
-[^key-96eaec4d33ffc773b114b21879de6c26]: Commencement: Rule 176 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-96eaec4d33ffc773b114b21879de6c26]: Commencement: Rule 176 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

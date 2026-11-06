@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## A13. Referral to the Secretary of State[^key-318c200ddb84722e7bdc961b13f2759d]
+## A13. Referral to the Secretary of State[^c-318c200ddb84722e7bdc961b13f2759d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-318c200ddb84722e7bdc961b13f2759d]: Textual amendment: [Reg. A13](https://www.legislation.gov.uk/uksi/2013/3109/regulation/A13) inserted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/528/regulation/15) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))
+[^c-318c200ddb84722e7bdc961b13f2759d]: Textual amendment: [Reg. A13](https://www.legislation.gov.uk/uksi/2013/3109/regulation/A13) inserted (1.9.2026) by [The School Organisation (Establishment and Discontinuance of Schools) (Amendment) Regulations 2026 (S.I. 2026/528)](https://www.legislation.gov.uk/uksi/2026/528), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/528/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2026/528/regulation/15) (with [reg. 29](https://www.legislation.gov.uk/uksi/2026/528/regulation/29))

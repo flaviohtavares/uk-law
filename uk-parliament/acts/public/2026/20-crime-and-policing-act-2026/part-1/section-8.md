@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Seizure of motor vehicles used in manner causing alarm, distress or annoyance[^key-bbccf5f98ac408d285a47ea4144b15b9][^key-f9149ce719c99ea6923333504ad1b2c1]
+## 8. Seizure of motor vehicles used in manner causing alarm, distress or annoyance[^c-bbccf5f98ac408d285a47ea4144b15b9][^c-f9149ce719c99ea6923333504ad1b2c1]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bbccf5f98ac408d285a47ea4144b15b9]: Commencement: S. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-bbccf5f98ac408d285a47ea4144b15b9]: Commencement: S. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-f9149ce719c99ea6923333504ad1b2c1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/20/section/8) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/c)
+[^c-f9149ce719c99ea6923333504ad1b2c1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/20/section/8) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/c)

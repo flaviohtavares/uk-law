@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206. Meaning of “qualifying functions” in this Part[^key-32f0bf47fc9bdb368044d10758325933]
+## 206. Meaning of “qualifying functions” in this Part[^c-32f0bf47fc9bdb368044d10758325933]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32f0bf47fc9bdb368044d10758325933]: Commencement: Reg. 206 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
+[^c-32f0bf47fc9bdb368044d10758325933]: Commencement: Reg. 206 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)

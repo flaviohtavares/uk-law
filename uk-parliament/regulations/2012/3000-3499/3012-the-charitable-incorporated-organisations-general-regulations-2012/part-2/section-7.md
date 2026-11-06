@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Applications for registration: communications with Commission[^key-d29dcaf81d0f1d291659d7d75738147b][^key-f18262396502136739fa5f23a68f05ec][^key-a268ab89720f69a9b0de0618f38ea099]
+## 7. Applications for registration: communications with Commission[^c-d29dcaf81d0f1d291659d7d75738147b][^c-f18262396502136739fa5f23a68f05ec][^c-a268ab89720f69a9b0de0618f38ea099]
 
 *Extent: E+W*
 
@@ -47,10 +47,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d29dcaf81d0f1d291659d7d75738147b]: Commencement: Reg. 7 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-d29dcaf81d0f1d291659d7d75738147b]: Commencement: Reg. 7 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
 
-[^key-f18262396502136739fa5f23a68f05ec]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/3012/regulation/7) applied (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/1232/regulation/2)
+[^c-f18262396502136739fa5f23a68f05ec]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/3012/regulation/7) applied (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/1232/regulation/2)
 
-[^key-a268ab89720f69a9b0de0618f38ea099]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/3012/regulation/7) applied (1.4.2024) by [The Charitable Incorporated Organisations (Notification Requirements: Social Housing) Regulations 2023 (S.I. 2023/1311)](https://www.legislation.gov.uk/uksi/2023/1311), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1311/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1311/regulation/3)
+[^c-a268ab89720f69a9b0de0618f38ea099]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/3012/regulation/7) applied (1.4.2024) by [The Charitable Incorporated Organisations (Notification Requirements: Social Housing) Regulations 2023 (S.I. 2023/1311)](https://www.legislation.gov.uk/uksi/2023/1311), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1311/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1311/regulation/3)
 
 [^f00004]: Footnote: [2011 c.25](https://www.legislation.gov.uk/ukpga/2011/25).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Asset transfer requests[^key-d9007c521c9c393ed7e6704459363366]
+## 79. Asset transfer requests[^c-d9007c521c9c393ed7e6704459363366]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9007c521c9c393ed7e6704459363366]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2015/6/section/79) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)
+[^c-d9007c521c9c393ed7e6704459363366]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2015/6/section/79) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b)

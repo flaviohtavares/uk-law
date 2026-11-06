@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c1092572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) Schedule 6 to this Act shall have effect for making corresponding amendments in [^key-55a3f8b6a572fd0c1ebe59fbcbbf98d7]... the [^c1092576]Trade Union and Labour Relations (Consolidation) Act 1992.
+(2) Schedule 6 to this Act shall have effect for making corresponding amendments in [^c-55a3f8b6a572fd0c1ebe59fbcbbf98d7]... the [^c1092576]Trade Union and Labour Relations (Consolidation) Act 1992.
 
 ## Annotations
 
@@ -30,6 +30,6 @@ summary: ''
 
 [^c1092572]: Textual amendment: S. 39(1) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-55a3f8b6a572fd0c1ebe59fbcbbf98d7]: Textual amendment: Words in s. 39(2) repealed by 2010 c. 15, Sch. 26 Pt. 1 para. 25, Sch. 27 Pt. 1 (as amended (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
+[^c-55a3f8b6a572fd0c1ebe59fbcbbf98d7]: Textual amendment: Words in s. 39(2) repealed by 2010 c. 15, Sch. 26 Pt. 1 para. 25, Sch. 27 Pt. 1 (as amended (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2) (see S.I. 2010/2317, art. 2))
 
 [^c1092576]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 105. Assessment procedure[^key-57081fb886d302e4b4844134528ad98d]
+## 105. Assessment procedure[^c-57081fb886d302e4b4844134528ad98d]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ must be paid before the end of the period of 30 days beginning with the date on 
 
 ## Annotations
 
-[^key-57081fb886d302e4b4844134528ad98d]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2014/16/section/105) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-57081fb886d302e4b4844134528ad98d]: Commencement: [S. 105](https://www.legislation.gov.uk/asp/2014/16/section/105) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) The adoption panel must consider the proposed placement referred to it by the adoption agency and make a recommendation to the agency as to whether the child should be placed for adoption with that particular prospective adopter.
 
-(2) In considering what recommendation to make the adoption panel shall have regard to the duties imposed on the adoption agency under section 1(2) and (4)[^key-c84f05650f9ac9443ca779ddd244ba02] of the Act (considerations applying to the exercise of powers in relation to the adoption of a child) and—
+(2) In considering what recommendation to make the adoption panel shall have regard to the duties imposed on the adoption agency under section 1(2) and (4)[^c-c84f05650f9ac9443ca779ddd244ba02] of the Act (considerations applying to the exercise of powers in relation to the adoption of a child) and—
 
 - (a) must consider and take into account all information and the reports passed to it in accordance with regulation 31;
 - (b) may request the agency to obtain any other relevant information which the panel considers necessary; and
@@ -41,10 +41,10 @@ summary: ''
 - (a) that recommendation is to be made at the same meeting of the adoption panel at which a recommendation has been made that the child should be placed for adoption; or
 - (b) the adoption agency, or another adoption agency, has already made a decision in accordance with regulation 19 that the child should be placed for adoption,
 
-and in either case that recommendation is to be made at the same meeting of the panel at which a recommendation has been made that the prospective adopter is suitable to adopt a child or the adoption agency, or another adoption agency, has made a decision in accordance with regulation 30B[^key-8f860dc2175bef4a04d510abac76e074] that the prospective adopter is suitable to adopt a child.
+and in either case that recommendation is to be made at the same meeting of the panel at which a recommendation has been made that the prospective adopter is suitable to adopt a child or the adoption agency, or another adoption agency, has made a decision in accordance with regulation 30B[^c-8f860dc2175bef4a04d510abac76e074] that the prospective adopter is suitable to adopt a child.
 
 ## Annotations
 
-[^key-c84f05650f9ac9443ca779ddd244ba02]: Textual amendment: Words in reg. 32(2) substituted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/1556/regulation/8)
+[^c-c84f05650f9ac9443ca779ddd244ba02]: Textual amendment: Words in reg. 32(2) substituted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [8](https://www.legislation.gov.uk/uksi/2014/1556/regulation/8)
 
-[^key-8f860dc2175bef4a04d510abac76e074]: Textual amendment: Words in reg. 32(5) substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/985/regulation/6)
+[^c-8f860dc2175bef4a04d510abac76e074]: Textual amendment: Words in reg. 32(5) substituted (1.7.2013) by [The Adoption Agencies (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/985)](https://www.legislation.gov.uk/uksi/2013/985), [regs. 1](https://www.legislation.gov.uk/uksi/2013/985/regulation/1), [6](https://www.legislation.gov.uk/uksi/2013/985/regulation/6)

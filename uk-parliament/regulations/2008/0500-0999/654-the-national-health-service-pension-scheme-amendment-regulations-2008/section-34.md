@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Amendment of regulation H7[^key-3297c0f4e4e8a35280d810da783da668]
+## 34. Amendment of regulation H7[^c-3297c0f4e4e8a35280d810da783da668]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3297c0f4e4e8a35280d810da783da668]: Commencement: Reg. 34 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-3297c0f4e4e8a35280d810da783da668]: Commencement: Reg. 34 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00019]: Footnote: Paragraph (7) was amended by [S.I. 2005/3074](https://www.legislation.gov.uk/uksi/2005/3074).

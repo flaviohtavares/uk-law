@@ -24,10 +24,10 @@ Section 47(11).
 
 ### Interpretation
 
-**1.** In this Schedule “**the court**” means the High Court or the family court[^key-6e7540649d3e51654dc362304a4fea58] and includes—
+**1.** In this Schedule “**the court**” means the High Court or the family court[^c-6e7540649d3e51654dc362304a4fea58] and includes—
 
 - (a) in relation to the High Court, a judge of that court, and
-- (b) in relation to the family court, a judge of that court.[^key-b72bdc1871f7e1e2c3c08ff20af6f4e4]
+- (b) in relation to the family court, a judge of that court.[^c-b72bdc1871f7e1e2c3c08ff20af6f4e4]
 
 ### Remand in custody or on bail
 
@@ -72,6 +72,6 @@ Section 47(11).
 
     [Sch. 5](https://www.legislation.gov.uk/ukpga/1996/27/schedule/5) extended (1.10.1997) by [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41), [ss. 44A](https://www.legislation.gov.uk/ukpga/1989/41/section/44A), [44B](https://www.legislation.gov.uk/ukpga/1989/41/section/44B) (as inserted (1.10.1997) by [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27), [s. 52](https://www.legislation.gov.uk/ukpga/1996/27/section/52), [Sch. 6](https://www.legislation.gov.uk/ukpga/1996/27/schedule/6) (with [Sch. 9 paras. 8-10](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9/paragraph/8)); [S.I. 1997/1892](https://www.legislation.gov.uk/uksi/1997/1892), [art. 3](https://www.legislation.gov.uk/uksi/1997/1892/article/3))
 
-[^key-6e7540649d3e51654dc362304a4fea58]: Textual amendment: Words in Sch. 5 para. 1 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 144(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/144/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-6e7540649d3e51654dc362304a4fea58]: Textual amendment: Words in Sch. 5 para. 1 substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 144(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/144/2); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
-[^key-b72bdc1871f7e1e2c3c08ff20af6f4e4]: Textual amendment: Words in Sch. 5 para. 1(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 144(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/144/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-b72bdc1871f7e1e2c3c08ff20af6f4e4]: Textual amendment: Words in Sch. 5 para. 1(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 144(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/144/3); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

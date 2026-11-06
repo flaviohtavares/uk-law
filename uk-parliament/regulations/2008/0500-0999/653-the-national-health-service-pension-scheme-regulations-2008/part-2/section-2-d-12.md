@@ -31,7 +31,7 @@ summary: ''
 - (b) the member leaves one employment and takes up another in circumstances approved by the Secretary of State for the purposes of this regulation, or
 - (c) the member’s duties change while the member continues in the same employment, otherwise than at the member’s request or as a result of something done by the member.
 
-(3) The member may opt to be treated for the purposes of this Section of[^key-f5cf0fdbdc914e1a133754b88738079f] the Scheme in accordance with this regulation as follows—
+(3) The member may opt to be treated for the purposes of this Section of[^c-f5cf0fdbdc914e1a133754b88738079f] the Scheme in accordance with this regulation as follows—
 
 - (a) the member is treated as a deferred member of this Section of the Scheme as respects the earlier service, and
 - (b) if the member is an active member of this Section of the Scheme in the later service, for the purposes of this Chapter the member is treated as respects the later service as if the member became an active member for the first time on the day that service began.
@@ -65,4 +65,4 @@ in the opinion of the Secretary of State the benefits payable to or in respect o
 
 ## Annotations
 
-[^key-f5cf0fdbdc914e1a133754b88738079f]: Textual amendment: Words in [reg. 2.D.12](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.12) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-f5cf0fdbdc914e1a133754b88738079f]: Textual amendment: Words in [reg. 2.D.12](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.12) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

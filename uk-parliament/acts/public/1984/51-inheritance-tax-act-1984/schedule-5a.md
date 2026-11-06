@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5A — Qualifying payments: victims of persecution during Second World War era[^key-160e6986d25cb1995ae5f0593c3947e4]
+## SCHEDULE 5A — Qualifying payments: victims of persecution during Second World War era[^c-160e6986d25cb1995ae5f0593c3947e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ Section 153ZA
 
 **9.** A payment of a fixed amount from the Child Survivor Fund established by the Government of the Federal Republic of Germany.
 
-**10.**[^key-79e318d27c1510d4bf00daf787989d83] A one-off payment of a fixed amount from the Kindertransport Fund established by the Government of the Federal Republic of Germany.
+**10.**[^c-79e318d27c1510d4bf00daf787989d83] A one-off payment of a fixed amount from the Kindertransport Fund established by the Government of the Federal Republic of Germany.
 
 ### PART 2 — Ex-gratia payments
 
@@ -50,6 +50,6 @@ Section 153ZA
 
 ## Annotations
 
-[^key-160e6986d25cb1995ae5f0593c3947e4]: Textual amendment: Sch. 5A inserted (with effect in accordance with s. 95(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 95(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/95/2)
+[^c-160e6986d25cb1995ae5f0593c3947e4]: Textual amendment: Sch. 5A inserted (with effect in accordance with s. 95(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 95(2)](https://www.legislation.gov.uk/ukpga/2016/24/section/95/2)
 
-[^key-79e318d27c1510d4bf00daf787989d83]: Textual amendment: [Sch. 5A Pt. 1 para. 10](https://www.legislation.gov.uk/ukpga/1984/51/schedule/5A/part/1/paragraph/10) inserted (with effect in accordance with s. 75(4) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/75/3)
+[^c-79e318d27c1510d4bf00daf787989d83]: Textual amendment: [Sch. 5A Pt. 1 para. 10](https://www.legislation.gov.uk/ukpga/1984/51/schedule/5A/part/1/paragraph/10) inserted (with effect in accordance with s. 75(4) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2020/14/section/75/3)

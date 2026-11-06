@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Exempt information and power to vary Schedule 6[^key-abac1489135831e6e93cd66dc8c689b4]
+## 51. Exempt information and power to vary Schedule 6[^c-abac1489135831e6e93cd66dc8c689b4]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abac1489135831e6e93cd66dc8c689b4]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2014/8/section/51) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-abac1489135831e6e93cd66dc8c689b4]: Commencement: [S. 51](https://www.legislation.gov.uk/nia/2014/8/section/51) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

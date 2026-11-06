@@ -46,11 +46,11 @@ The Department, being the Department concerned[^f00004], makes the following Reg
 
 The Regulations give effect without modifications to proposals submitted to the Department by the Health and Safety Executive for Northern Ireland under Article 13(1A) of the 1978 Order[^f00007].
 
-## 1. Citation and commencement[^key-088ec7e720c585932f0a14dbd506ba01]
+## 1. Citation and commencement[^c-088ec7e720c585932f0a14dbd506ba01]
 
 These Regulations may be cited as the Biocidal Products (Fees and Charges) Regulations (Northern Ireland) 2015 and shall come into operation on 1st July 2015.
 
-## 2. Interpretation[^key-2fabd07631f272ed0ce965585204ee6f]
+## 2. Interpretation[^c-2fabd07631f272ed0ce965585204ee6f]
 
 (1) In these Regulations—
 
@@ -61,11 +61,11 @@ These Regulations may be cited as the Biocidal Products (Fees and Charges) Regul
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Functions of the Member State[^key-103834c812291f4ca482ca333b08f46b]
+## 3. Functions of the Member State[^c-103834c812291f4ca482ca333b08f46b]
 
 The functions of the Member State referred to in Article 80(2) of the Biocides Regulation are to be performed by the Executive.
 
-## 4. Fees[^key-4d9d854f7e71389800f82853d656a8fb]
+## 4. Fees[^c-4d9d854f7e71389800f82853d656a8fb]
 
 (1) The Executive shall charge fees for—
 
@@ -93,7 +93,7 @@ The functions of the Member State referred to in Article 80(2) of the Biocides R
 
 (10) Any unpaid fees may be recovered by the Executive as a civil debt.
 
-## 5. Revocations and savings provisions[^key-409a69255102bb3d4ccee156fc8c333d]
+## 5. Revocations and savings provisions[^c-409a69255102bb3d4ccee156fc8c333d]
 
 (1) The Biocidal Products (Fees and Charges) Regulations (Northern Ireland) 2013 are revoked[^f00011].
 
@@ -107,7 +107,7 @@ A senior officer of the
 
 Department of Enterprise, Trade and Investment
 
-## SCHEDULE — ACTIVITIES IN RESPECT OF WHICH A FEE IS PAYABLE AND DAILY RATE[^key-6871f49fbfca074d0bcf2e25ebb530af]
+## SCHEDULE — ACTIVITIES IN RESPECT OF WHICH A FEE IS PAYABLE AND DAILY RATE[^c-6871f49fbfca074d0bcf2e25ebb530af]
 
 Regulation 4
 
@@ -169,22 +169,22 @@ In Great Britain the corresponding legislation is contained within the [Health a
 
 [^f00007]: Footnote: Article 13(1A) was substituted by [S.I. 1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795), Article 4
 
-[^key-088ec7e720c585932f0a14dbd506ba01]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
+[^c-088ec7e720c585932f0a14dbd506ba01]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
 
-[^key-2fabd07631f272ed0ce965585204ee6f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/254/regulation/2) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
+[^c-2fabd07631f272ed0ce965585204ee6f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/254/regulation/2) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
 
 [^f00008]: Footnote: OJ L167 27.06.2012, p.1.
 
 [^f00009]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-103834c812291f4ca482ca333b08f46b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/254/regulation/3) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
+[^c-103834c812291f4ca482ca333b08f46b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/254/regulation/3) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
 
-[^key-4d9d854f7e71389800f82853d656a8fb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/254/regulation/4) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
+[^c-4d9d854f7e71389800f82853d656a8fb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/254/regulation/4) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
 
 [^f00010]: Footnote: [S.R. 2013 No. 206](https://www.legislation.gov.uk/nisr/2013/206)
 
-[^key-409a69255102bb3d4ccee156fc8c333d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/254/regulation/5) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
+[^c-409a69255102bb3d4ccee156fc8c333d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/254/regulation/5) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
 
 [^f00011]: Footnote: [S.R. 2013 No.207](https://www.legislation.gov.uk/nisr/2013/207)
 
-[^key-6871f49fbfca074d0bcf2e25ebb530af]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2015/254/schedule) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)
+[^c-6871f49fbfca074d0bcf2e25ebb530af]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2015/254/schedule) in operation at 1.7.2015, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/254/regulation/1)

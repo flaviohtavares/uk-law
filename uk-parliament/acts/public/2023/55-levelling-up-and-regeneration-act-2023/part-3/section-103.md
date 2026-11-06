@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Temporary stop notices in relation to listed buildings[^key-e003d5d2f2ed27081d65a145e6b1fac1][^key-2c9a42ed1ed6a6d2279c4bb9483a214f]
+## 103. Temporary stop notices in relation to listed buildings[^c-e003d5d2f2ed27081d65a145e6b1fac1][^c-2c9a42ed1ed6a6d2279c4bb9483a214f]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,13 +106,13 @@ summary: ''
 > - (a) section 16 of the Local Government (Miscellaneous Provisions) Act 1976, and
 > - (b) section 330 of the principal Act.
 
-(3)[^key-1b9ac1aaf77b93cb6e2bff060337324f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1b9ac1aaf77b93cb6e2bff060337324f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1b9ac1aaf77b93cb6e2bff060337324f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1b9ac1aaf77b93cb6e2bff060337324f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1b9ac1aaf77b93cb6e2bff060337324f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1b9ac1aaf77b93cb6e2bff060337324f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-1b9ac1aaf77b93cb6e2bff060337324f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1b9ac1aaf77b93cb6e2bff060337324f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 45 (concurrent enforcement functions in London of the Historic Buildings and Monuments Commission)—
 
@@ -148,8 +148,8 @@ summary: ''
   > - (c) considering any claim for compensation under section 44AC.
 
   ;
-- (b)[^key-f57842455324428b7a1b9b1365e5d423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-f57842455324428b7a1b9b1365e5d423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f57842455324428b7a1b9b1365e5d423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f57842455324428b7a1b9b1365e5d423] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In section 88B (supplementary provision about rights of entry), after subsection (1) insert—
 
@@ -157,24 +157,24 @@ summary: ''
 
 (12) In Schedule 2 (lapse of building preservation notices)—
 
-- (a)[^key-335536e3643cddabe64bebfee233bdde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-335536e3643cddabe64bebfee233bdde] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after paragraph 4 insert—
 
   > **4A.** Any temporary stop notice served under section 44AA(4) by the local planning authority with respect to the building while the building preservation notice was in force ceases to have effect.
 
   ;
-- (c)[^key-f686da655fc891a086eb1624148b41df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f686da655fc891a086eb1624148b41df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e003d5d2f2ed27081d65a145e6b1fac1]: Commencement: S. 103 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
+[^c-e003d5d2f2ed27081d65a145e6b1fac1]: Commencement: S. 103 not in force at Royal Assent, see [s. 255(3)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/b)
 
-[^key-2c9a42ed1ed6a6d2279c4bb9483a214f]: Commencement: S. 103 in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/a)
+[^c-2c9a42ed1ed6a6d2279c4bb9483a214f]: Commencement: S. 103 in force at 25.4.2024 by [S.I. 2024/452](https://www.legislation.gov.uk/uksi/2024/452), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2024/452/regulation/3/a)
 
-[^key-1b9ac1aaf77b93cb6e2bff060337324f]: Textual amendment: S. 103(3)-(6) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (2023 asc 3)](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 199(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/199) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/wsi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1061/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2024/1061/regulation/21); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
+[^c-1b9ac1aaf77b93cb6e2bff060337324f]: Textual amendment: S. 103(3)-(6) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (2023 asc 3)](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 199(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/199) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/wsi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1061/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2024/1061/regulation/21); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
 
-[^key-f57842455324428b7a1b9b1365e5d423]: Textual amendment: S. 103(10)(b)(c) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (2023 asc 3)](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 199(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/199) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/wsi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1061/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2024/1061/regulation/21); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
+[^c-f57842455324428b7a1b9b1365e5d423]: Textual amendment: S. 103(10)(b)(c) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (2023 asc 3)](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 199(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/199) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/wsi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1061/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2024/1061/regulation/21); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
 
-[^key-335536e3643cddabe64bebfee233bdde]: Textual amendment: S. 103(12)(a) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (2023 asc 3)](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 199(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/199) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/wsi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1061/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2024/1061/regulation/21); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
+[^c-335536e3643cddabe64bebfee233bdde]: Textual amendment: S. 103(12)(a) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (2023 asc 3)](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 199(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/199) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/wsi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1061/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2024/1061/regulation/21); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
 
-[^key-f686da655fc891a086eb1624148b41df]: Textual amendment: S. 103(12)(c) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (2023 asc 3)](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 199(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/199) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/wsi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1061/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2024/1061/regulation/21); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))
+[^c-f686da655fc891a086eb1624148b41df]: Textual amendment: S. 103(12)(c) omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (2023 asc 3)](https://www.legislation.gov.uk/asc/2023/3), [Sch. 13 para. 199(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/199) (as inserted by [The Historic Environment (Wales) Act 2023 (Consequential Provision) (Primary Legislation) Regulations 2024 (S.I. 2024/1061)](https://www.legislation.gov.uk/wsi/2024/1061), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1061/regulation/1/2), [21](https://www.legislation.gov.uk/wsi/2024/1061/regulation/21); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d))

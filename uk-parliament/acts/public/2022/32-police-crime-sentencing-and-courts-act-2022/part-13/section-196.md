@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 196. British Sign Language interpreters for deaf jurors[^key-0cd112eec9d00273b8a4b5220398724e]
+## 196. British Sign Language interpreters for deaf jurors[^c-0cd112eec9d00273b8a4b5220398724e]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cd112eec9d00273b8a4b5220398724e]: Commencement: [S. 196](https://www.legislation.gov.uk/ukpga/2022/32/section/196) in force at 28.6.2022, see [s. 208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)
+[^c-0cd112eec9d00273b8a4b5220398724e]: Commencement: [S. 196](https://www.legislation.gov.uk/ukpga/2022/32/section/196) in force at 28.6.2022, see [s. 208(5)(x)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/x)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Cancellation of registration of society[^key-30ed4a339a0234c9537fd14863266031]
+## 179. Cancellation of registration of society[^c-30ed4a339a0234c9537fd14863266031]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-30ed4a339a0234c9537fd14863266031]: Commencement: Art. 179 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-30ed4a339a0234c9537fd14863266031]: Commencement: Art. 179 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00124]: Footnote: Section 16 was amended by [S.I. 1996/1738](https://www.legislation.gov.uk/uksi/1996/1738) and by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617), Schedule 3, paragraph 218 (in addition to the amendment revoked by this article).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 393. General rules for some debtor relationships[^key-402aee31686755d10ca2b9c4d6926cff]
+## 393. General rules for some debtor relationships[^c-402aee31686755d10ca2b9c4d6926cff]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-402aee31686755d10ca2b9c4d6926cff]: Textual amendment: S. 393 and cross-heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 156](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/156)
+[^c-402aee31686755d10ca2b9c4d6926cff]: Textual amendment: S. 393 and cross-heading omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 156](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/156)

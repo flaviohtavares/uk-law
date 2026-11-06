@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Amendment of the Universal Credit Regulations (Northern Ireland) 2016[^key-748c0d4bb8a1a64d7d89c62302670328][^M_I_1f0a2d7b-d992-4e55-ed48-627e244017ee]
+## 77. Amendment of the Universal Credit Regulations (Northern Ireland) 2016[^c-748c0d4bb8a1a64d7d89c62302670328][^M_I_1f0a2d7b-d992-4e55-ed48-627e244017ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-748c0d4bb8a1a64d7d89c62302670328]: Commencement: Reg. 77 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-748c0d4bb8a1a64d7d89c62302670328]: Commencement: Reg. 77 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_1f0a2d7b-d992-4e55-ed48-627e244017ee]: Commencement: Reg. 77 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

@@ -48,16 +48,16 @@ The Treasury make the following Regulations in exercise of the powers conferred 
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-2f7b8203711452d2a17500d13c1b7034]
+### 1. Citation and commencement[^c-2f7b8203711452d2a17500d13c1b7034]
 
 These Regulations may be cited as the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 and shall come into force on 1st September 2012.
 
-### 2. Interpretation[^key-c73baa84067c33f072738b7e1869734a]
+### 2. Interpretation[^c-c73baa84067c33f072738b7e1869734a]
 
 In these Regulations—
 
 - “the Descriptions Regulations” means the Tax Avoidance Schemes (Prescribed Descriptions of Arrangements) Regulations 2006[^f00002]as modified by these Regulations;
-- “employer” means the secondary contributor determined under—[^key-7c18468bba48346efc66f26fe44bf3c6]
+- “employer” means the secondary contributor determined under—[^c-7c18468bba48346efc66f26fe44bf3c6]
   - (a) section 7 of the Social Security Contributions and Benefits Act 1992;
   - (b) regulation 5 of, and Schedule 3 to, the Social Security (Categorisation of Earners) Regulations 1978; or
   - (c) regulation 122 of the Social Security (Contributions) Regulations 2001;
@@ -68,19 +68,19 @@ In these Regulations—
 - “Part 7” means Part 7 of the Finance Act 2004 (disclosure of tax avoidance schemes)[^f00005] and a reference to a numbered section (without more) is a reference to a section of Part 7;
 - “prescribed” means prescribed by the Information Regulations, unless the context otherwise requires;
 - “promoter”, in relation to notifiable contribution arrangements or a notifiable contribution proposal, has the meaning given by regulation 7;
-- “reference number” means a reference number[^key-a47007263286f60ef151b167ea3ccd1a] allocated under regulation 12 or section 311 as the case may be;
+- “reference number” means a reference number[^c-a47007263286f60ef151b167ea3ccd1a] allocated under regulation 12 or section 311 as the case may be;
 - “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
-- “working day” means a day which is not a Saturday or a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.[^key-d855091e939851d8125c3afaec7d342e]
+- “working day” means a day which is not a Saturday or a Sunday, Christmas Day, Good Friday or a bank holiday under the Banking and Financial Dealings Act 1971 in any part of the United Kingdom.[^c-d855091e939851d8125c3afaec7d342e]
 
-### 3. Structure of the Regulations[^key-e1a9481b4ee76bfb5b3d30bc31c3f3fc]
+### 3. Structure of the Regulations[^c-e1a9481b4ee76bfb5b3d30bc31c3f3fc]
 
-(1) Regulations 5 to 21D[^key-fc23370ec930362af121d5b8d5071541] make provision corresponding to Part 7 (other than section 314 (legal professional privilege)) in so far as that Part applies to income tax.
+(1) Regulations 5 to 21D[^c-fc23370ec930362af121d5b8d5071541] make provision corresponding to Part 7 (other than section 314 (legal professional privilege)) in so far as that Part applies to income tax.
 
 (2) Regulations 22 to 24 make provision corresponding to section 98C and section 118(2) of the Taxes Management Act 1970[^f00006] (penalties for failure to comply with Part 7 of the Finance Act 2004) and other provisions of the Taxes Management Act 1970 in so far as they relate to a penalty under section 98C.
 
 (3) Regulations 25 to 28 modify regulations made under Part 7 in so far as they apply to income tax.
 
-### 4. Revocations[^key-824b8a60f4a89e13843fb4475ca7245f]
+### 4. Revocations[^c-824b8a60f4a89e13843fb4475ca7245f]
 
 (1) The regulations described in Regulation 29 are revoked.
 
@@ -90,7 +90,7 @@ In these Regulations—
 
 ## PART 2 — Provisions corresponding to Part 7 of the Finance Act 2004
 
-### 5. Application of Part 2[^key-0b15ce6420d0fb2bbc3f28c249b84d37]
+### 5. Application of Part 2[^c-0b15ce6420d0fb2bbc3f28c249b84d37]
 
 (1) This Part applies to—
 
@@ -99,7 +99,7 @@ In these Regulations—
 
 which fall within any description prescribed by the Descriptions Regulations.
 
-(1A)[^key-cb74e803e29cc33f008761cf73a0806c] This Part also applies to arrangements and proposals which HMRC reasonably suspect to be notifiable contribution arrangements or notifiable contribution proposals (as the case may be).
+(1A)[^c-cb74e803e29cc33f008761cf73a0806c] This Part also applies to arrangements and proposals which HMRC reasonably suspect to be notifiable contribution arrangements or notifiable contribution proposals (as the case may be).
 
 (2) The Table below shows which of the following regulations corresponds to which provision of Part 7.
 
@@ -112,33 +112,33 @@ which fall within any description prescribed by the Descriptions Regulations.
 | Section 308A (supplemental information) | Regulation 9 |
 | Section 309 (duty of person dealing with promoter outside the United Kingdom) | Regulation 10 |
 | Section 310 (duty of parties to notifiable arrangements not involving promoter) | Regulation 11 |
-| Section 310A (duty to provide further information requested by HMRC)[^key-9885b0bc3c5904d1d5fa0a594a3c8a42] | Regulation 11A |
+| Section 310A (duty to provide further information requested by HMRC)[^c-9885b0bc3c5904d1d5fa0a594a3c8a42] | Regulation 11A |
 | Section 310B (failure to provide information under section 310A: application to the Tribunal) | Regulation 11B |
-| Section 310C (duty of promoters to provide updated information)[^key-aa02aa767da5909c34418736e10193a3] | Regulation 11C |
-| Section 310D (notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable)[^key-fc0cfbeab1899af2410b001b186d791e] | Regulation 11D |
-| Section 311 (allocation of reference number to arrangements)[^key-2052ddb58c52f9250fa693d92817c167] | Regulation 12 |
-| Section 311A (duty of HMRC to notify persons of reference number)[^key-47e0cefe8c8d1efa615b481d0e67ce18] | Regulation 12A |
+| Section 310C (duty of promoters to provide updated information)[^c-aa02aa767da5909c34418736e10193a3] | Regulation 11C |
+| Section 310D (notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable)[^c-fc0cfbeab1899af2410b001b186d791e] | Regulation 11D |
+| Section 311 (allocation of reference number to arrangements)[^c-2052ddb58c52f9250fa693d92817c167] | Regulation 12 |
+| Section 311A (duty of HMRC to notify persons of reference number)[^c-47e0cefe8c8d1efa615b481d0e67ce18] | Regulation 12A |
 | Section 311B (right of appeal: section 311(3) case) | Regulation 12B |
 | Section 311C (duty to provide further information requested by HMRC: section 311(3) case) | Regulation 12C |
-| Section 312 (duty of promoter to notify client of number: section 311(2) case)[^key-42d5fd9f0dcf6b3aa697dd75b5f2b0c4] | Regulation 13 |
-| Section 312ZA (duty to notify client of reference number: s311(3) case)[^key-530810a24c45d22490df417828762dcc] | Regulation 13A |
+| Section 312 (duty of promoter to notify client of number: section 311(2) case)[^c-42d5fd9f0dcf6b3aa697dd75b5f2b0c4] | Regulation 13 |
+| Section 312ZA (duty to notify client of reference number: s311(3) case)[^c-530810a24c45d22490df417828762dcc] | Regulation 13A |
 | Section 312A (duty of client to notify parties of number) | Regulation 14 |
-| Section 312B (duty of client to provide information[^key-0509db790c4170019c24f7191967281e] [^key-6f9d066d1e10196f5eeb68486ffd797f]...) | Regulation 14A |
-| Section 313 (duty of parties to notify HMRC of reference number etc)[^key-2e0879e85c2167736c878ea20589d40d] | Regulation 15 |
+| Section 312B (duty of client to provide information[^c-0509db790c4170019c24f7191967281e] [^c-6f9d066d1e10196f5eeb68486ffd797f]...) | Regulation 14A |
+| Section 313 (duty of parties to notify HMRC of reference number etc)[^c-2e0879e85c2167736c878ea20589d40d] | Regulation 15 |
 | Section 313ZA (duty of promoter to provide details of clients) | Regulation 16 |
-| Section 313ZB (enquiry following disclosure of client details)[^key-326047a6d53c3bc941034d26745c244d] | Regulation 16A. |
-| Section 313ZC (duty of employer to notify[^key-34b2cbc9f7fcf05ee77283a188060f1a] HMRC of details of employees etc) | Regulation 16B |
+| Section 313ZB (enquiry following disclosure of client details)[^c-326047a6d53c3bc941034d26745c244d] | Regulation 16A. |
+| Section 313ZC (duty of employer to notify[^c-34b2cbc9f7fcf05ee77283a188060f1a] HMRC of details of employees etc) | Regulation 16B |
 | Section 313A (pre-disclosure enquiry) | Regulation 17 |
 | Section 313B (reasons for non-disclosure: supporting information) | Regulation 18 |
 | Section 313C (information provided to introducers) | Regulation 19 |
 | Section 314A (order to disclose) | Regulation 20 |
 | Section 316 (information to be provided in form and manner specified by Board) | Regulation 21 |
-| Section 316A (duty to provide additional information)[^key-9105e6fa510f216f7cc8bac509634b1d] | Regulation 21A |
+| Section 316A (duty to provide additional information)[^c-9105e6fa510f216f7cc8bac509634b1d] | Regulation 21A |
 | Section 316B (confidentiality) | Regulation 21B |
 | Section 316C (publication by HMRC) | Regulation 21C |
 | Section 316D (section 316C: subsequent judicial rulings) | Regulation 21D. |
 
-### 6. Doubt as to notifiabilty[^key-d579f60ca0949f4366a6041a0f3bcda5]
+### 6. Doubt as to notifiabilty[^c-d579f60ca0949f4366a6041a0f3bcda5]
 
 (1) HMRC may apply to the tribunal for an order that—
 
@@ -167,7 +167,7 @@ which fall within any description prescribed by the Descriptions Regulations.
 
 (7) An order under this regulation in relation to a proposal or arrangements is without prejudice to the possible application of regulation 8, other than by virtue of this regulation, to the proposal or arrangements.
 
-### 7. Meaning of promoter[^key-835e4db6a0ae1a70fa1a47bf8fedcdae]
+### 7. Meaning of promoter[^c-835e4db6a0ae1a70fa1a47bf8fedcdae]
 
 (1) For the purposes of this Part a person is a promoter—
 
@@ -193,7 +193,7 @@ which fall within any description prescribed by the Descriptions Regulations.
 - (a) for each of the references to a 75% subsidiary there were substituted a reference to a 51% subsidiary, and
 - (b) subsection (3)(b) and subsections (6) to (8) were omitted.
 
-(6) For the purposes of this Part a person makes a firm approach to another person in relation to a [^key-58b28d9403e1f2af97f7c4d6da379318]... proposal if the person makes a marketing contact with the other person in relation to the proposal at a time when the proposed arrangements have been substantially designed.
+(6) For the purposes of this Part a person makes a firm approach to another person in relation to a [^c-58b28d9403e1f2af97f7c4d6da379318]... proposal if the person makes a marketing contact with the other person in relation to the proposal at a time when the proposed arrangements have been substantially designed.
 
 (7) For the purposes of this Part a person makes a marketing contact with another person in relation to a notifiable contribution proposal if—
 
@@ -201,7 +201,7 @@ which fall within any description prescribed by the Descriptions Regulations.
 - (b) the communication is made with a view to that other person, or any other person, entering into transactions forming part of the proposed arrangements; and
 - (c) the information communicated includes an explanation of the advantage in relation to any contribution that might be expected to be obtained from the proposed arrangements.
 
-(8) For the purposes of paragraph (6) proposed arrangements[^key-f5bf83937863d779af9c0cf497674f6f] have been substantially designed at any time if by that time the nature of the transactions to form part of them has been sufficiently developed for it to be reasonable to believe that a person who wished to obtain the advantage mentioned in paragraph (7)(c) might enter into—
+(8) For the purposes of paragraph (6) proposed arrangements[^c-f5bf83937863d779af9c0cf497674f6f] have been substantially designed at any time if by that time the nature of the transactions to form part of them has been sufficiently developed for it to be reasonable to believe that a person who wished to obtain the advantage mentioned in paragraph (7)(c) might enter into—
 
 - (a) transactions of the nature developed; or
 - (b) transactions not substantially different from transactions of that nature.
@@ -210,7 +210,7 @@ which fall within any description prescribed by the Descriptions Regulations.
 
 (10) In the application of this Part to a proposal which is not a notifiable contribution proposal or arrangements which are not notifiable contribution arrangements, a reference to a promoter or introducer is a reference to a person who would be a promoter or introducer under paragraphs (1) to (9) if the proposal were a notifiable contribution proposal or arrangements were notifiable contribution arrangements.
 
-### 8. Duties of promoter[^key-8669ae60a240e06d7b6bc0bf6c0d401e]
+### 8. Duties of promoter[^c-8669ae60a240e06d7b6bc0bf6c0d401e]
 
 (1) A person who is a promoter in relation to a notifiable contribution proposal must, within the prescribed period after the relevant date, provide HMRC with the prescribed information relating to the notifiable contribution proposal.
 
@@ -261,7 +261,7 @@ which fall within any description prescribed by the Descriptions Regulations.
 
 (12) Where a person is a promoter in relation to two or more notifiable contribution proposals or sets of notifiable contribution arrangements which are substantially the same (whether they relate to the same parties or different parties), that person need not provide information under paragraph (1) or (3) if that person has already provided information under either of those paragraphs in relation to any of the other contribution proposals or contribution arrangements.
 
-### 9. Supplemental information[^key-ad2d19e7d42f70605aae8233de19c745]
+### 9. Supplemental information[^c-ad2d19e7d42f70605aae8233de19c745]
 
 (1) This regulation applies where—
 
@@ -281,7 +281,7 @@ which fall within any description prescribed by the Descriptions Regulations.
 
 (6) In so far as P’s duty under paragraph (1) or (3) of regulation 8 arises out of a requirement by virtue of paragraph (2) above, the prescribed period may be extended by HMRC by direction.
 
-### 10. Duty of person dealing with promoter outside United Kingdom[^key-b2c7d3b48f6d309ac769f48579646749]
+### 10. Duty of person dealing with promoter outside United Kingdom[^c-b2c7d3b48f6d309ac769f48579646749]
 
 (1) Any person (“the client”) who enters into any transaction forming part of any notifiable contribution arrangements in relation to which—
 
@@ -292,11 +292,11 @@ must provide HMRC with the prescribed information relating to the notifiable con
 
 (2) Compliance with regulation 8(1) by any promoter in relation to the notifiable contribution arrangements discharges the duty of the client under paragraph (1).
 
-### 11. Duty of parties to notifiable contribution arrangements not involving promoter[^key-0dfe806cf8ebe943c7006c8962b8f112]
+### 11. Duty of parties to notifiable contribution arrangements not involving promoter[^c-0dfe806cf8ebe943c7006c8962b8f112]
 
 Any person who enters into any transaction forming part of notifiable contribution arrangements as respects which neither that person nor any other person in the United Kingdom is liable to comply with regulation 8 or regulation 10 must at the prescribed time provide HMRC with the prescribed information relating to the notifiable contribution arrangements.
 
-### 11A. Duty to provide further information requested by HMRC[^key-921e838795ef03e621ec69eda4c16687]
+### 11A. Duty to provide further information requested by HMRC[^c-921e838795ef03e621ec69eda4c16687]
 
 (1) This regulation applies where—
 
@@ -329,7 +329,7 @@ Any person who enters into any transaction forming part of notifiable contributi
 - (a) the period of 10 working days beginning with the day on which the tribunal made the order, or
 - (b) such longer period as HMRC may direct.
 
-### 11C. Duty of promoters to provide updated information[^key-8942f1585dc4334bd324e988717bfa48]
+### 11C. Duty of promoters to provide updated information[^c-8942f1585dc4334bd324e988717bfa48]
 
 (1) This regulation applies where—
 
@@ -349,7 +349,7 @@ Any person who enters into any transaction forming part of notifiable contributi
 
 (6) If a person provides information in compliance with paragraph (3), the duty imposed by that paragraph on any other person, so far as relating to the provision of that information, is discharged.
 
-### 11D. Notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable[^key-8d633d6127c12b699ff527864d2aa1a7]
+### 11D. Notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable[^c-8d633d6127c12b699ff527864d2aa1a7]
 
 (1) This regulation applies where—
 
@@ -367,7 +367,7 @@ Any person who enters into any transaction forming part of notifiable contributi
 
 (5) A notice under this regulation may be issued to any other person who HMRC reasonably suspect to be involved in the supply of the arrangements or proposed arrangements.
 
-### 12. Allocation of reference number to arrangements[^key-0b21b662da0c4d6d777ab756fb319e56]
+### 12. Allocation of reference number to arrangements[^c-0b21b662da0c4d6d777ab756fb319e56]
 
 (1) This regulation applies in—
 
@@ -400,7 +400,7 @@ Any person who enters into any transaction forming part of notifiable contributi
 
 (9) The allocation of a reference number to arrangements or proposed arrangements is not to be regarded as constituting an indication by HMRC that the arrangements could as a matter of law result in the obtaining by any person of an advantage.
 
-### 12A. Duty of HMRC to notify persons of reference number[^key-d347f573649a368833919de53d90fd70]
+### 12A. Duty of HMRC to notify persons of reference number[^c-d347f573649a368833919de53d90fd70]
 
 (1) If a reference number is allocated in a case within regulation 12(2), HMRC must notify the following of the number—
 
@@ -464,11 +464,11 @@ Any person who enters into any transaction forming part of notifiable contributi
 - (a) the period of 10 working days beginning with the day on which HMRC imposed the requirement, or
 - (b) such longer period as HMRC may direct.
 
-### 13. Duty of promoter to notify client of number : regulation 12(2) case[^key-ad722bbfed3ee45546307a231337085c][^key-78b8738838115ecb433f4bb5d52a9d13]
+### 13. Duty of promoter to notify client of number : regulation 12(2) case[^c-ad722bbfed3ee45546307a231337085c][^c-78b8738838115ecb433f4bb5d52a9d13]
 
 (1) This regulation applies where a person who is a promoter in relation to notifiable contribution arrangements is providing (or has provided) services to any person (“the client”) in connection with the notifiable contribution arrangements.
 
-(2) The promoter must, within 30 days after the relevant date, provide the client with the prescribed information relating to any reference number allocated in a case within regulation 12(2) or section 311(2)[^key-18ba76ddbf11d577b2658335ade67c67] (or, if more than one, any one such reference number[^key-bd3df29e54b08fe1040936914423e2c3]) that has been notified to the promoter (whether by HMRC or any other person) in relation to—
+(2) The promoter must, within 30 days after the relevant date, provide the client with the prescribed information relating to any reference number allocated in a case within regulation 12(2) or section 311(2)[^c-18ba76ddbf11d577b2658335ade67c67] (or, if more than one, any one such reference number[^c-bd3df29e54b08fe1040936914423e2c3]) that has been notified to the promoter (whether by HMRC or any other person) in relation to—
 
 - (a) the notifiable contribution arrangements; or
 - (b) any arrangements, including notifiable arrangements, which are substantially the same as the notifiable contribution arrangements (whether involving the same or different parties).
@@ -488,7 +488,7 @@ Any person who enters into any transaction forming part of notifiable contributi
 
 (6) HMRC may give notice that, in relation to notifiable contribution arrangements specified in the notice, promoters are not under the duty under paragraph (2) after the date specified in the notice.
 
-### 13A. Duty to notify client of reference number: regulation 12(3) case[^key-478ba1db24b60cd2489236172c3eb69f]
+### 13A. Duty to notify client of reference number: regulation 12(3) case[^c-478ba1db24b60cd2489236172c3eb69f]
 
 (1) This regulation applies where a person is providing (or has provided) services to another person (“**the client**”) in connection with arrangements or proposed arrangements.
 
@@ -501,15 +501,15 @@ Any person who enters into any transaction forming part of notifiable contributi
 
 (4) HMRC may give notice that, in relation to arrangements or proposed arrangements specified in the notice, no person is under the duty imposed by paragraph (2) after the date specified in the notice.
 
-### 14. Duty of client to notify parties of number[^key-f7e01bced4fbc569a43b19d3e5f6d738]
+### 14. Duty of client to notify parties of number[^c-f7e01bced4fbc569a43b19d3e5f6d738]
 
-(1) This regulation applies where a person (the “client”) to whom a person who is a promoter in relation to notifiable contribution arrangements or a notifiable contribution proposal is providing (or has provided) services in connection with the notifiable contribution arrangements or notifiable contribution proposal receives prescribed information under regulation 13[^key-522a36303e639e79a310052cf7428166] relating to the reference number allocated to—
+(1) This regulation applies where a person (the “client”) to whom a person who is a promoter in relation to notifiable contribution arrangements or a notifiable contribution proposal is providing (or has provided) services in connection with the notifiable contribution arrangements or notifiable contribution proposal receives prescribed information under regulation 13[^c-522a36303e639e79a310052cf7428166] relating to the reference number allocated to—
 
 - (a) the notifiable contribution arrangements,
 - (b) the notifiable contribution proposal, or
-- (c) any arrangements[^key-73c59788e17f1601a9691f3fa4ec9458] substantially the same as the notifiable contribution proposal or notifiable contribution arrangements.
+- (c) any arrangements[^c-73c59788e17f1601a9691f3fa4ec9458] substantially the same as the notifiable contribution proposal or notifiable contribution arrangements.
 
-(1A)[^key-880a6d98031bd0415a1918a2e1559272] This regulation also applies where a person (the “client”) to whom a person is providing (or has provided) services in connection with arrangements or proposed arrangements receives prescribed information under regulation 13A relating to the reference number allocated to—
+(1A)[^c-880a6d98031bd0415a1918a2e1559272] This regulation also applies where a person (the “client”) to whom a person is providing (or has provided) services in connection with arrangements or proposed arrangements receives prescribed information under regulation 13A relating to the reference number allocated to—
 
 - (a) the arrangements,
 - (b) the proposed arrangements, or
@@ -520,43 +520,43 @@ Any person who enters into any transaction forming part of notifiable contributi
 - (a) who the client might reasonably be expected to know is or is likely to be a party to the arrangements or proposed arrangements, and
 - (b) who might reasonably be expected to gain an advantage by reason of the arrangements or proposed arrangements.
 
-(2A)[^key-12c90b1856c320c9ece75893a275c079] Where the client—
+(2A)[^c-12c90b1856c320c9ece75893a275c079] Where the client—
 
 - (a) is an employer, and
-- (b) by reason of the arrangements or proposed arrangements[^key-899a31bc637c6e48e6bd40e313a6a7fe], receives or might reasonably be expected to receive an advantage, in relation to the employment of one or more of the client’s employees,
+- (b) by reason of the arrangements or proposed arrangements[^c-899a31bc637c6e48e6bd40e313a6a7fe], receives or might reasonably be expected to receive an advantage, in relation to the employment of one or more of the client’s employees,
 
-(3) HMRC may give notice that, in relation to arrangements or a proposal[^key-4d01d0a90492dd0f9ba9d16a8ded8fce] specified in the notice, persons are not under the duty under paragraph (2) or (2A)[^key-e2e8372049b6046e031ce2666e1aeb4c] after the date specified in the notice.
+(3) HMRC may give notice that, in relation to arrangements or a proposal[^c-4d01d0a90492dd0f9ba9d16a8ded8fce] specified in the notice, persons are not under the duty under paragraph (2) or (2A)[^c-e2e8372049b6046e031ce2666e1aeb4c] after the date specified in the notice.
 
-(3A)[^key-cfbd20de2a696bc3951d0ae106b3c7e1] For the purposes of this regulation—
+(3A)[^c-cfbd20de2a696bc3951d0ae106b3c7e1] For the purposes of this regulation—
 
 - (a) “relevant employee” means an employee in relation to whose employment the client receives or might reasonably be expected to receive the advantage mentioned in paragraph (2A);
 - (b) “employee” includes former employee; and
 - (c) a reference to employment includes holding an office (and references to “employee” and “employer” are to be construed accordingly).
 
-(4) The duty under paragraph (2) or (2A)[^key-accf96b64e4aee3044bea9742d69bc41] does not apply in the prescribed circumstances.
+(4) The duty under paragraph (2) or (2A)[^c-accf96b64e4aee3044bea9742d69bc41] does not apply in the prescribed circumstances.
 
-### 14A. Duty of client to provide information ...[^key-1524a7c600aa13110f20f077593f1008][^key-1d8acfce10dad58866c91b1d1dc31d23]
+### 14A. Duty of client to provide information ...[^c-1524a7c600aa13110f20f077593f1008][^c-1d8acfce10dad58866c91b1d1dc31d23]
 
-(1)[^key-d814fb757c59c8e6b8a0d586e97061fe] This regulation applies where a person (“**the client**”) has been provided with information under regulation 13(2) or regulation 13A(2) (prescribed information about reference number).
+(1)[^c-d814fb757c59c8e6b8a0d586e97061fe] This regulation applies where a person (“**the client**”) has been provided with information under regulation 13(2) or regulation 13A(2) (prescribed information about reference number).
 
-(2) The client must, within the prescribed period, provide the person who provided the information[^key-3c843b36cfdb7a143ab5de49a237e41e] with the prescribed information relating to the client.
+(2) The client must, within the prescribed period, provide the person who provided the information[^c-3c843b36cfdb7a143ab5de49a237e41e] with the prescribed information relating to the client.
 
-### 15. Duty of parties to notify HMRC of reference number etc[^key-606a42a7f92eed3fab80a0af7156d12e][^key-9c7863b90b3da8a5ad1fb3252a305090]
+### 15. Duty of parties to notify HMRC of reference number etc[^c-606a42a7f92eed3fab80a0af7156d12e][^c-9c7863b90b3da8a5ad1fb3252a305090]
 
-(1) Any person who is a party to any arrangements to which a reference number has been allocated[^key-3baf2b43aacbe5cf8837baab195e8ff3] must, at the prescribed time or times, provide HMRC with the prescribed information relating to—
+(1) Any person who is a party to any arrangements to which a reference number has been allocated[^c-3baf2b43aacbe5cf8837baab195e8ff3] must, at the prescribed time or times, provide HMRC with the prescribed information relating to—
 
-- (a) any reference number notified to him, [^key-f698ba90658d478ee0fe776c7eb8f246]... and
+- (a) any reference number notified to him, [^c-f698ba90658d478ee0fe776c7eb8f246]... and
 - (b) the time when he obtains or expects to obtain by virtue of the arrangements an advantage in relation to any contribution.
 
-(2) HMRC may give notice that, in relation to [^key-d02f675e37a54a87efc1265a058e4c85]... arrangements specified in the notice, persons are not under the duty under paragraph (1) after the date specified in the notice.
+(2) HMRC may give notice that, in relation to [^c-d02f675e37a54a87efc1265a058e4c85]... arrangements specified in the notice, persons are not under the duty under paragraph (1) after the date specified in the notice.
 
-(3)[^key-5c087629ef940092d546d9f5659ad24c] The duty under paragraph (1) does not apply in prescribed circumstances.
+(3)[^c-5c087629ef940092d546d9f5659ad24c] The duty under paragraph (1) does not apply in prescribed circumstances.
 
-### 16. Duty to provide details of clients[^key-dad325f7cc9b5ae9a9131cf8d0ae35c2]
+### 16. Duty to provide details of clients[^c-dad325f7cc9b5ae9a9131cf8d0ae35c2]
 
 (1) This regulation applies where a person who is a promoter in relation to notifiable contribution arrangements is providing (or has provided) services to any person (“the client”) in connection with the notifiable contribution arrangements and either—
 
-- (a)[^key-8fca3988fe8993019fbc41c310a38689] the promoter is subject to the requirement under regulation 13(2) to provide to the client prescribed information relating to the reference number allocated to—
+- (a)[^c-8fca3988fe8993019fbc41c310a38689] the promoter is subject to the requirement under regulation 13(2) to provide to the client prescribed information relating to the reference number allocated to—
   - (i) the arrangements, or
   - (ii) any arrangements substantially the same as the arrangements, or
 - (b) the promoter has failed to comply with regulation 8(1) or (3) in relation to the notifiable contribution arrangements (or the notifiable contribution proposal for them) but would be subject to that requirement if a reference number had been allocated to—
@@ -564,66 +564,66 @@ Any person who enters into any transaction forming part of notifiable contributi
   - (ii) any arrangements substantially the same as the notifiable contribution arrangements.
 - (b) the promoter has failed to comply with regulation 8(1) or (3) in relation to the notifiable contributions arrangements (or the notifiable contribution proposal for them) but would be subject to the reference number information requirement if a reference number had been allocated to the notifiable contribution arrangements.
 
-(1A)[^key-0b9ed1e9aa783f3c7f00a8da6d342ca6] This regulation also applies where—
+(1A)[^c-0b9ed1e9aa783f3c7f00a8da6d342ca6] This regulation also applies where—
 
 - (a) a person (“**the provider**”) is providing (or has provided) services to another person (“**the client**”) in connection with arrangements or proposed arrangements, and
 - (b) the provider is subject to the requirement under regulation 13A(2) to provide to the client prescribed information relating to the reference number allocated to—
   - (i) the arrangements or proposed arrangements, or
   - (ii) any arrangements substantially the same as the arrangements or proposed arrangements.
 
-(2)[^key-596566eb95f663322c2b8214df2bb767] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-596566eb95f663322c2b8214df2bb767] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The promoter or (as the case may be) provider[^key-c503e469ad2255cff24ba6c641421d42] must, within the prescribed period after the end of the relevant period, provide HMRC with the prescribed information in relation to the client.
+(3) The promoter or (as the case may be) provider[^c-c503e469ad2255cff24ba6c641421d42] must, within the prescribed period after the end of the relevant period, provide HMRC with the prescribed information in relation to the client.
 
-(4)[^key-58eaf7f2bbdca4b0ba5c541dbdbe19a6] In paragraph (3) “**the relevant period**” means—
+(4)[^c-58eaf7f2bbdca4b0ba5c541dbdbe19a6] In paragraph (3) “**the relevant period**” means—
 
 - (a) in a case within paragraph (1), such period as is prescribed and is a period during which the promoter is or would be subject to the requirement mentioned in that paragraph;
 - (b) in a case within paragraph (1A), such period as is prescribed and is a period during which the provider is or would be subject to the requirement mentioned in that paragraph.
 
 (5) The promoter need not comply with paragraph (3) in relation to any notifiable contribution arrangements at any time after HMRC have given notice under regulation 13(6) in relation to the arrangements.
 
-(6)[^key-c5a0b6dcda9c8b5d9a02fe5803fbd692] The provider need not comply with paragraph (3) in relation to any arrangements at any time after HMRC have given notice under regulation 13A(4) in relation to the arrangements.
+(6)[^c-c5a0b6dcda9c8b5d9a02fe5803fbd692] The provider need not comply with paragraph (3) in relation to any arrangements at any time after HMRC have given notice under regulation 13A(4) in relation to the arrangements.
 
-### 16A. Enquiry following disclosure of client details[^key-960c4aadf987569404be2f4fcf32ea1b]
+### 16A. Enquiry following disclosure of client details[^c-960c4aadf987569404be2f4fcf32ea1b]
 
 (1) This regulation applies where—
 
-- (a)[^key-e6c05f7c1efdfe3e9d099cf9a734aae4] a person (“the service provider”) is providing or has provided services to another person (“**the client**”) in connection with arrangements or proposed arrangements,
+- (a)[^c-e6c05f7c1efdfe3e9d099cf9a734aae4] a person (“the service provider”) is providing or has provided services to another person (“**the client**”) in connection with arrangements or proposed arrangements,
 - (aa) the service provider has provided HMRC with information in relation to the client under regulation 16, and
 - (b) HMRC suspect that a person other than the client is or is likely to be a party to the arrangements.
 
-(2) HMRC may by written notice require the service provider[^key-944cee6d8ad12c2fd9b0be80445a7c58] to provide the prescribed information in relation to any person other than the client who the service provider might reasonably be expected to know is or is likely to be a party to the arrangements.
+(2) HMRC may by written notice require the service provider[^c-944cee6d8ad12c2fd9b0be80445a7c58] to provide the prescribed information in relation to any person other than the client who the service provider might reasonably be expected to know is or is likely to be a party to the arrangements.
 
-(3) The service provider[^key-dd7edbd11daa803af288574c2c35019b] must comply with a requirement under or by virtue of paragraph (2) within—
+(3) The service provider[^c-dd7edbd11daa803af288574c2c35019b] must comply with a requirement under or by virtue of paragraph (2) within—
 
 - (a) the prescribed period; or
 - (b) such longer period as HMRC may direct.
 
-### 16B. Duty of employer to notify HMRC of details of employees etc[^key-a3e54b6e220894fa49e440903f94c139]
+### 16B. Duty of employer to notify HMRC of details of employees etc[^c-a3e54b6e220894fa49e440903f94c139]
 
 (1) This regulation applies if conditions A, B and C are met.
 
-(2)[^key-5a28236497b35cc659d50a6d25f1e800] Condition A is that—
+(2)[^c-5a28236497b35cc659d50a6d25f1e800] Condition A is that—
 
 - (a) a person who is a promoter in relation to notifiable contribution arrangements or a notifiable contribution proposal is providing (or has provided) services in connection with the arrangements or proposal to a person (“**the client**”); or
 - (b) a person is providing (or has provided) services in connection with arrangements or a proposal to a person (“**the client**”)
 
-(3) Condition B is that the client receives information under regulation 13(2) or 13A(2)[^key-ffa63b9dc0f81b4dad6684f5e13ee3c8] or as mentioned in regulation 13(5).
+(3) Condition B is that the client receives information under regulation 13(2) or 13A(2)[^c-ffa63b9dc0f81b4dad6684f5e13ee3c8] or as mentioned in regulation 13(5).
 
-(4) Condition C is that the client is an employer in circumstances where, as a result of the [^key-83b183a2e3139423ef93fcc9621d0a7e]... arrangement[^key-80e129c2657dfc5b0e964ef0ef31459f] or proposed [^key-83b183a2e3139423ef93fcc9621d0a7e]... arrangement—
+(4) Condition C is that the client is an employer in circumstances where, as a result of the [^c-83b183a2e3139423ef93fcc9621d0a7e]... arrangement[^c-80e129c2657dfc5b0e964ef0ef31459f] or proposed [^c-83b183a2e3139423ef93fcc9621d0a7e]... arrangement—
 
 - (a) one or more of the client’s employees receive, or might reasonably be expected to receive, in relation to their employment, an advantage, or
 - (b) the client receives or might reasonably be expected to receive an advantage in relation to the employment of one or more of the client’s employees.
 
 (5) Where an employee is within paragraph (4)(a), or is an employee mentioned in paragraph (4)(b), the client must provide HMRC with prescribed information relating to the employee at the prescribed time or times.
 
-(6) The client need not comply with paragraph (5) in relation to any [^key-39e82ba02b33122f23b0f23257a86ba2]... arrangements at any time after HMRC has given notice under regulation 13(6) , 13A(4)[^key-c4e5889d23149322ce7985a49be271b4] or 15(2) in relation to the [^key-39e82ba02b33122f23b0f23257a86ba2]... arrangements.
+(6) The client need not comply with paragraph (5) in relation to any [^c-39e82ba02b33122f23b0f23257a86ba2]... arrangements at any time after HMRC has given notice under regulation 13(6) , 13A(4)[^c-c4e5889d23149322ce7985a49be271b4] or 15(2) in relation to the [^c-39e82ba02b33122f23b0f23257a86ba2]... arrangements.
 
 (7) The duty under paragraph (5) does not apply in prescribed circumstances.
 
 (8) Regulation 14(3A) applies for the purposes of this regulation as it applies for the purpose of that regulation.
 
-### 17. Pre-disclosure enquiry[^key-165269f55077574eae9a0d7b8f3367a4]
+### 17. Pre-disclosure enquiry[^c-165269f55077574eae9a0d7b8f3367a4]
 
 (1) Where HMRC suspect that a person (“P”) is the promoter or introducer of a proposal or arrangements which may be a notifiable contribution proposal or notifiable contribution arrangements, HMRC may by written notice require P to state—
 
@@ -643,7 +643,7 @@ Any person who enters into any transaction forming part of notifiable contributi
 - (a) the prescribed period, or
 - (b) such longer period as HMRC may direct.
 
-### 18. Reasons for non-disclosure: supporting information[^key-2f63f8850be10c52f25b3c7fe3f18f8c]
+### 18. Reasons for non-disclosure: supporting information[^c-2f63f8850be10c52f25b3c7fe3f18f8c]
 
 (1) Where HMRC receive from a person (“P”) a statement of reasons why a proposal or arrangements are not notifiable by P, HMRC may apply to the tribunal for an order requiring P to provide specified information or documents in support of the reasons.
 
@@ -657,26 +657,26 @@ Any person who enters into any transaction forming part of notifiable contributi
 - (a) may be exercised more than once, and
 - (b) applies whether or not the statement of reasons was received under regulation 17(1)(b).
 
-### 19. Provision of information to HMRC by introducers[^key-0352a5de6fde317e56441841534975f9][^key-9d8bf43ab086c2d1e65f69872cb5bdcb]
+### 19. Provision of information to HMRC by introducers[^c-0352a5de6fde317e56441841534975f9][^c-9d8bf43ab086c2d1e65f69872cb5bdcb]
 
-(1)[^key-def3c6c00b7fbd69f954faa253d8c38c] This regulation applies where HMRC suspect—
+(1)[^c-def3c6c00b7fbd69f954faa253d8c38c] This regulation applies where HMRC suspect—
 
 - (a) that a person (“P”) is an introducer in relation to a proposal; and
 - (b) that the proposal may be a notifiable contribution proposal.
 
-(1A)[^key-904551c7bfd372f1876baefec6a193ec] HMRC may by written notice require P to provide HMRC with one or both of the following—
+(1A)[^c-904551c7bfd372f1876baefec6a193ec] HMRC may by written notice require P to provide HMRC with one or both of the following—
 
 - (a) prescribed information in relation to each person who has provided P with any information relating to the proposal;
 - (b) prescribed information in relation to each person with whom P has made a marketing contact in relation to the proposal.
 
 (2) A notice must specify the proposal to which it relates.
 
-(3) P must comply with a requirement under paragraph (1A)[^key-eee1e6b474af843e2019e8f231be5f22] within—
+(3) P must comply with a requirement under paragraph (1A)[^c-eee1e6b474af843e2019e8f231be5f22] within—
 
 - (a) the prescribed period; or
 - (b) such longer period as HMRC may direct.
 
-### 20. Order to disclose[^key-d6a1dcd8d1cddf75b3a2c5a3259d8289]
+### 20. Order to disclose[^c-d6a1dcd8d1cddf75b3a2c5a3259d8289]
 
 (1) HMRC may apply to the tribunal for an order that—
 
@@ -690,17 +690,17 @@ Any person who enters into any transaction forming part of notifiable contributi
 
 (3) On an application the tribunal may make the order only if satisfied that section 132A(3) of the Social Security Administration Act 1992 applies to the relevant arrangements and that they are within a description prescribed by the Descriptions Regulations.
 
-### 21. Information to be provided in form and manner specified by HMRC[^key-a1f261fcec292f168f8f8e445beb3006]
+### 21. Information to be provided in form and manner specified by HMRC[^c-a1f261fcec292f168f8f8e445beb3006]
 
 (1) HMRC may specify the form and manner in which information required to be provided by any of the information provisions must be provided if the provision is to be complied with.
 
-(2) The “information provisions” are regulations 8(1) and (3), 10(1), 11, 11A,[^key-c98738c7212b5dfb90a5efd91f06a2ad] 11C,[^key-b891f073d809922ee548a5742a61a8e6] 12C,[^key-26ace7b004d1d1a0817d50eb40c099f4] 13(2), 13A(2),[^key-07c9c3ace2824de9e1c7ebca246c1c31] 14(2), 15(1) , 16(3) and 16B(5)[^key-8ba654b02a986118edd8b784ca424e3f] and the Information Regulations.
+(2) The “information provisions” are regulations 8(1) and (3), 10(1), 11, 11A,[^c-c98738c7212b5dfb90a5efd91f06a2ad] 11C,[^c-b891f073d809922ee548a5742a61a8e6] 12C,[^c-26ace7b004d1d1a0817d50eb40c099f4] 13(2), 13A(2),[^c-07c9c3ace2824de9e1c7ebca246c1c31] 14(2), 15(1) , 16(3) and 16B(5)[^c-8ba654b02a986118edd8b784ca424e3f] and the Information Regulations.
 
-### 21A. Duty to provide additional information[^key-762e422339d48e2c689b451a62b01330]
+### 21A. Duty to provide additional information[^c-762e422339d48e2c689b451a62b01330]
 
-(1) This regulation applies where a person is required to provide information under regulation 13(2) , 13A(2)[^key-832d48ad0aa346061bfc48e03c58c5f9] or 14(2) or (2A).
+(1) This regulation applies where a person is required to provide information under regulation 13(2) , 13A(2)[^c-832d48ad0aa346061bfc48e03c58c5f9] or 14(2) or (2A).
 
-(2) HMRC may specify additional information which must be provided by that person to the recipients under regulation 13(2) , 13A(2)[^key-84ae90c416a267007b3e0a24abdcc51a] or 14(2) or (2A) at the same time as the information referred to in paragraph (1).
+(2) HMRC may specify additional information which must be provided by that person to the recipients under regulation 13(2) , 13A(2)[^c-84ae90c416a267007b3e0a24abdcc51a] or 14(2) or (2A) at the same time as the information referred to in paragraph (1).
 
 (3) HMRC may specify the form and manner in which the additional information is to be provided.
 
@@ -712,7 +712,7 @@ No duty of confidentiality or other restriction on disclosure (however imposed) 
 
 ### 21C. Publication by HMRC
 
-(1)[^key-a37f4ee7afbc2d767c38ff11a537c7f3] HMRC may publish information about—
+(1)[^c-a37f4ee7afbc2d767c38ff11a537c7f3] HMRC may publish information about—
 
 - (a) any arrangements, or proposed arrangements, to which a reference number is allocated under regulation 12;
 - (b) where the reference number is allocated in a case within regulation 12(2), any person who is a promoter in relation to the arrangements or, in the case of proposed arrangements, the proposal;
@@ -722,29 +722,29 @@ No duty of confidentiality or other restriction on disclosure (however imposed) 
 
 (2) The information that may be published is (subject to paragraph (4))—
 
-- (a) any information relating to arrangements within paragraph (1)(a), or a person within paragraph (1)(b) or (c)[^key-6391ca10440089f0f5689595e7737ea0], that is prescribed information for the purposes of any provision of this Part[^key-6a6b03910488eb10d109a5377861d774];
-- (b)[^key-defdb8bea307548a75a7af6623214328] any ruling of a court or tribunal relating to—
+- (a) any information relating to arrangements within paragraph (1)(a), or a person within paragraph (1)(b) or (c)[^c-6391ca10440089f0f5689595e7737ea0], that is prescribed information for the purposes of any provision of this Part[^c-6a6b03910488eb10d109a5377861d774];
+- (b)[^c-defdb8bea307548a75a7af6623214328] any ruling of a court or tribunal relating to—
   - (i) arrangements within paragraph (1)(a);
   - (ii) a person within paragraph (1)(b), in that person’s capacity as a promoter;
   - (iii) a person within paragraph (1)(c), in that person’s capacity as a promoter or a person otherwise involved in the supply of arrangements or proposed arrangements;
-- (c) the number of persons in any period who enter into transactions forming part of [^key-a8144ccb57d13650a91be4b4bfd85075]... arrangements within paragraph (1)(a);
-- (d) whether [^key-95340640e79ca1aaaf343cbd7a404ffa]... arrangements within paragraph (1)(a) are APN relevant;
-- (e) any other information that HMRC considers it appropriate to publish for the purpose of identifying arrangements within paragraph (1)(a) or a person within paragraph (1)(b) or (c)[^key-1a1a2466f0d16dac2d88600acdf798de].
+- (c) the number of persons in any period who enter into transactions forming part of [^c-a8144ccb57d13650a91be4b4bfd85075]... arrangements within paragraph (1)(a);
+- (d) whether [^c-95340640e79ca1aaaf343cbd7a404ffa]... arrangements within paragraph (1)(a) are APN relevant;
+- (e) any other information that HMRC considers it appropriate to publish for the purpose of identifying arrangements within paragraph (1)(a) or a person within paragraph (1)(b) or (c)[^c-1a1a2466f0d16dac2d88600acdf798de].
 
 (3) The information may be published in any manner that HMRC considers appropriate.
 
-(4) No information may be published under this regulation that identifies a person who enters into a transaction forming part of [^key-08599c5a56eabb070ffb7733d5ec81d2]... arrangements within paragraph (1)(a).
+(4) No information may be published under this regulation that identifies a person who enters into a transaction forming part of [^c-08599c5a56eabb070ffb7733d5ec81d2]... arrangements within paragraph (1)(a).
 
-(4A)[^key-f38c2c99e498db4b56d272294ddfc432] No information may be published under this regulation in respect of a person involved in the supply of arrangements or proposed arrangements where there are reasonable grounds for believing that the person’s involvement is limited to activities subject to legal professional privilege.
+(4A)[^c-f38c2c99e498db4b56d272294ddfc432] No information may be published under this regulation in respect of a person involved in the supply of arrangements or proposed arrangements where there are reasonable grounds for believing that the person’s involvement is limited to activities subject to legal professional privilege.
 
-(5) But where a person within paragraph (1)(b) or (c)[^key-f3f76832c6179486ed08473347b0f8c1] is also a person mentioned in paragraph (4), nothing in paragraph (4) is to be taken as preventing the publication under this regulation of information so far as relating to the person’s activities as a promoter or a person involved in the supply of arrangements or proposed arrangements.[^key-969d09c74fe9facfc80e7260f6888bfe].
+(5) But where a person within paragraph (1)(b) or (c)[^c-f3f76832c6179486ed08473347b0f8c1] is also a person mentioned in paragraph (4), nothing in paragraph (4) is to be taken as preventing the publication under this regulation of information so far as relating to the person’s activities as a promoter or a person involved in the supply of arrangements or proposed arrangements.[^c-969d09c74fe9facfc80e7260f6888bfe].
 
-(6) Before publishing any information under this regulation that identifies a person as a person within paragraph (1)(b) or (c)[^key-d53d0e5a72798ad829946e256d0af87e], HMRC must—
+(6) Before publishing any information under this regulation that identifies a person as a person within paragraph (1)(b) or (c)[^c-d53d0e5a72798ad829946e256d0af87e], HMRC must—
 
 - (a) inform the person that they are considering doing so, and
 - (b) give the person reasonable opportunity to make representations about whether it should be published.
 
-(6A)[^key-56da199a02585f45c259410a7442c53b] Where a reference number is allocated in a case within regulation 12(3)—
+(6A)[^c-56da199a02585f45c259410a7442c53b] Where a reference number is allocated in a case within regulation 12(3)—
 
 - (a) information that identifies a person within paragraph (1)(c) may not be published for the first time after the end of the period of one year beginning with the day on which the reference number is allocated;
 - (b) no information that identifies a person within paragraph (1)(c) may be published (or continue to be published) after the end of the period of one year beginning with the day on which it is first published.
@@ -757,8 +757,8 @@ No duty of confidentiality or other restriction on disclosure (however imposed) 
 
 (1) This regulation applies if—
 
-- (a) information about [^key-39d3d42b25104553829ec65b5103a2dd]... arrangements, or proposed [^key-39d3d42b25104553829ec65b5103a2dd]... arrangements, is published under regulation 21C,
-- (b) at any time after the information is published, a ruling of a court or tribunal is made in relation to arrangements[^key-5a9b8083348255e9b37403d171d84af6], and
+- (a) information about [^c-39d3d42b25104553829ec65b5103a2dd]... arrangements, or proposed [^c-39d3d42b25104553829ec65b5103a2dd]... arrangements, is published under regulation 21C,
+- (b) at any time after the information is published, a ruling of a court or tribunal is made in relation to arrangements[^c-5a9b8083348255e9b37403d171d84af6], and
 - (c) HMRC is of the opinion that the ruling is relevant to the arrangements mentioned in sub-paragraph (a).
 
 (2) A ruling is “relevant” to the arrangements if—
@@ -781,16 +781,16 @@ No duty of confidentiality or other restriction on disclosure (however imposed) 
 
 (6) Where a ruling is final by virtue of paragraph (5)(b)(ii), (iii) or (iv), the ruling is to be treated as made at the time when the paragraph in question is first satisfied.
 
-(7)[^key-04e0772c66c4c3b4a179c940c8ecfe31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-04e0772c66c4c3b4a179c940c8ecfe31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Provisions corresponding to section 98C and section 118(2) of the Taxes Management Act 1970 and modifications of related provisions
 
-### 22. Notification under Part 2[^key-3e24dc9763f8c59f04b0d8c113b126fa]
+### 22. Notification under Part 2[^c-3e24dc9763f8c59f04b0d8c113b126fa]
 
 (1) A person who fails to comply with any of the provisions of Part 2 mentioned in paragraph (2) below shall be liable—
 
 - (a) to a penalty not exceeding—
-  - (i) in the case of a provision mentioned in sub-paragraph (a), (b) , (c)[^key-5d24782026d3fcccab8c0f4f5dfbfe81] , (ca) or (cc)[^key-de2fd9f1809846c925bd787bf4517838] of that paragraph, £600 for each day during the initial period (but see also paragraphs (5), (7) and (8) below); and
+  - (i) in the case of a provision mentioned in sub-paragraph (a), (b) , (c)[^c-5d24782026d3fcccab8c0f4f5dfbfe81] , (ca) or (cc)[^c-de2fd9f1809846c925bd787bf4517838] of that paragraph, £600 for each day during the initial period (but see also paragraphs (5), (7) and (8) below); and
   - (ii) in any other case, £5,000; and
 - (b) if the failure continues after a penalty is imposed under sub-paragraph (a) above, to a further penalty or penalties not exceeding £600 for each day on which the failure continues after the day on which the penalty under sub-paragraph (a) was imposed (but excluding any day for which a penalty under this paragraph has already been imposed).
 
@@ -801,24 +801,24 @@ This is subject to paragraph (14).
 - (a) regulation 8(1) and (3) (duty of promoter in relation to notifiable contribution proposals and notifiable contribution arrangements),
 - (b) regulation 10(1) (duty of person dealing with promoter outside United Kingdom),
 - (c) regulation 11 (duty of parties to notifiable contribution arrangements not involving promoter),
-- (ca)[^key-350ab3cc2863ad0da877a8a80b96827f] regulation 11A (duty to provide further information requested by HMRC),
-- (cb)[^key-43e24b190ff7d3a1bf74658dd0c27c21] regulation 11C (duty of promoters to provide updated information)
-- (cc)[^key-b447d894c6ccb7665485511dc9edab79] regulation 12C (duty to provide further information requested by HMRC: regulation 12(3) case),
-- (d) regulation 13(2) (duty of promoter to notify client of reference number : regulation 12(2) case[^key-13a006a97ef3c5df593036958c567b48]),
-- (da)[^key-34a79ca9889948f58bddd74c050eefd3] regulation 13A(2) (duty to notify client of reference number: regulation 12(3) case),
-- (e) regulation 14(2) and 14(2A)[^key-0149580d0e9b34c4a2ee452561f59756] (duty of client to notify parties of reference number),
-- (ea)[^key-139bce6752f47477d6da61a7c9d8e80f] regulation 14A(2) (duty of client to provide information [^key-d68a5eece46d076aeb2ca514d99202c5]...),
-- (f) regulation 16 (duty [^key-cff06ebbaf7cc6f65344e843c166c970]... to provide details of clients),
-- (fa)[^key-d4c2925fe96555714625b44bb7c95584] regulation 16A (enquiry following disclosure of client details)[^key-ebd0f703acf167b2684068dfb8a40fb6],
-- (fb)[^key-337af8271da864b3844db12f8cc5db4b] regulation 16B (duty of employer to notify HMRC of details of employees etc)
-- (g) regulations 17 and 18 (duty of promoter to respond to inquiry), [^key-c0e1f4db63cb08aa3773103b99610bb4]...
-- (h)[^key-31d846d4cd36d7f48953eef408bb90c1] regulation 19 (provision of information to HMRC by introducers), and
-- (i)[^key-6a8ad96ffca3ad84d35c9af720787978] regulation 21A (duty to provide additional information).
+- (ca)[^c-350ab3cc2863ad0da877a8a80b96827f] regulation 11A (duty to provide further information requested by HMRC),
+- (cb)[^c-43e24b190ff7d3a1bf74658dd0c27c21] regulation 11C (duty of promoters to provide updated information)
+- (cc)[^c-b447d894c6ccb7665485511dc9edab79] regulation 12C (duty to provide further information requested by HMRC: regulation 12(3) case),
+- (d) regulation 13(2) (duty of promoter to notify client of reference number : regulation 12(2) case[^c-13a006a97ef3c5df593036958c567b48]),
+- (da)[^c-34a79ca9889948f58bddd74c050eefd3] regulation 13A(2) (duty to notify client of reference number: regulation 12(3) case),
+- (e) regulation 14(2) and 14(2A)[^c-0149580d0e9b34c4a2ee452561f59756] (duty of client to notify parties of reference number),
+- (ea)[^c-139bce6752f47477d6da61a7c9d8e80f] regulation 14A(2) (duty of client to provide information [^c-d68a5eece46d076aeb2ca514d99202c5]...),
+- (f) regulation 16 (duty [^c-cff06ebbaf7cc6f65344e843c166c970]... to provide details of clients),
+- (fa)[^c-d4c2925fe96555714625b44bb7c95584] regulation 16A (enquiry following disclosure of client details)[^c-ebd0f703acf167b2684068dfb8a40fb6],
+- (fb)[^c-337af8271da864b3844db12f8cc5db4b] regulation 16B (duty of employer to notify HMRC of details of employees etc)
+- (g) regulations 17 and 18 (duty of promoter to respond to inquiry), [^c-c0e1f4db63cb08aa3773103b99610bb4]...
+- (h)[^c-31d846d4cd36d7f48953eef408bb90c1] regulation 19 (provision of information to HMRC by introducers), and
+- (i)[^c-6a8ad96ffca3ad84d35c9af720787978] regulation 21A (duty to provide additional information).
 
 (3) In this regulation “the initial period” means the period—
 
 - (a) beginning with the relevant day; and
-- (b) subject to paragraph 3B,[^key-0e49d4db91818764bbb6a8357ffdb030] ending with the earlier of the day on which the penalty under paragraph (1)(a)(i) is determined and the last day before the failure ceases;
+- (b) subject to paragraph 3B,[^c-0e49d4db91818764bbb6a8357ffdb030] ending with the earlier of the day on which the penalty under paragraph (1)(a)(i) is determined and the last day before the failure ceases;
 
 and for this purpose “the relevant day” is the day specified in relation to the failure in the following table.
 
@@ -832,10 +832,10 @@ TABLE
 | Any other failure to comply with paragraph (3) of regulation 8 | The first day after the end of the prescribed period |
 | A failure to comply with paragraph (1) of regulation 10 | The first day after the end of the prescribed period |
 | A failure to comply with regulation 11 | The first day after the latest time by which regulation 11 must be complied with in the case concerned |
-| A failure to comply with regulation 11A[^key-9bc5538e024d443814f16469012608af] | The first day after the end of the period within which the person must comply with regulation 11A |
-| A failure to comply with regulation 12C[^key-5d034f41d829817882e2eb4f7f5f8f22] | The first day after the end of the period before the end of which the person must comply with regulation 12C |
+| A failure to comply with regulation 11A[^c-9bc5538e024d443814f16469012608af] | The first day after the end of the period within which the person must comply with regulation 11A |
+| A failure to comply with regulation 12C[^c-5d034f41d829817882e2eb4f7f5f8f22] | The first day after the end of the period before the end of which the person must comply with regulation 12C |
 
-(3A)[^key-fd013af795c53df73d5f333aadda2c3b] Paragraph 3B applies where—
+(3A)[^c-fd013af795c53df73d5f333aadda2c3b] Paragraph 3B applies where—
 
 - (a) a person fails to comply with a provision mentioned in paragraph (2)(a), (b) or (c) in respect of arrangements or proposed arrangements, and
 - (b) a reference number is subsequently allocated to the arrangements or proposed arrangements in a case within regulation 12(3) (allocation of reference number to arrangements: paragraph (3) case).
@@ -844,11 +844,11 @@ TABLE
 
 (4) The amount of a penalty under paragraph (1)(a)(i) is to be arrived at after taking account of all relevant considerations, including the desirability of its being set at a level which appears appropriate for deterring the person, or other persons, from similar failures to comply on future occasions having regard (in particular)-
 
-- (a) in the case of a penalty for a promoter’s[^key-07f6ca360320513455e0232b39c971df] failure to comply with regulation 8(1) or (3) or regulation 11A[^key-4c9b5497fe4a4ee004000cb1fd697f97], to the amount of any fees received, or likely to have been received, by the promoter[^key-3f4e4ce9627fab889615923cc89cc19b] in connection with the notifiable contribution proposal (or arrangements implementing the notifiable contribution proposal), or with the notifiable contribution arrangements;
-- (aa)[^key-f424b639380a67f18b48fdfa964133a3] in the case of a penalty for a person’s failure to comply with regulation 12C, to the amount of any fees received, or likely to have been received by the person in connection with the arrangements, the proposed arrangements or the proposal;
-- (b) in the case of a penalty for the relevant[^key-40f2bb39c790eadc66ac125799c683c8] person’s failure to comply with regulation 10(1) , 11 or 11A[^key-818156c0f9093542feac5cc17c299d95], to the amount of any advantage gained, or sought to be gained, by the relevant[^key-b17579b3390a95ef64d95d503ded7645] person in relation to any contribution.
+- (a) in the case of a penalty for a promoter’s[^c-07f6ca360320513455e0232b39c971df] failure to comply with regulation 8(1) or (3) or regulation 11A[^c-4c9b5497fe4a4ee004000cb1fd697f97], to the amount of any fees received, or likely to have been received, by the promoter[^c-3f4e4ce9627fab889615923cc89cc19b] in connection with the notifiable contribution proposal (or arrangements implementing the notifiable contribution proposal), or with the notifiable contribution arrangements;
+- (aa)[^c-f424b639380a67f18b48fdfa964133a3] in the case of a penalty for a person’s failure to comply with regulation 12C, to the amount of any fees received, or likely to have been received by the person in connection with the arrangements, the proposed arrangements or the proposal;
+- (b) in the case of a penalty for the relevant[^c-40f2bb39c790eadc66ac125799c683c8] person’s failure to comply with regulation 10(1) , 11 or 11A[^c-818156c0f9093542feac5cc17c299d95], to the amount of any advantage gained, or sought to be gained, by the relevant[^c-b17579b3390a95ef64d95d503ded7645] person in relation to any contribution.
 
-(4A)[^key-3692df9207010b12319bb387dc279004] In paragraph 4—
+(4A)[^c-3692df9207010b12319bb387dc279004] In paragraph 4—
 
 - (a) “promoter” has the same meaning as in regulation 7, and
 - (b) “relevant person” means a person who enters into any transaction forming part of notifiable contribution arrangements within the meaning of regulation 5.
@@ -868,7 +868,7 @@ TABLE
 - (a) the person identified in the order as the promoter of the proposal or arrangements cannot, in respect of any time after the end of the period mentioned in paragraph (8), rely on doubt as to notifiability as an excuse for failure to comply with regulation 8, and
 - (b) any delay in compliance with that regulation after the end of that period is unreasonable unless attributable to something other than doubt as to notifiability.
 
-(10A)[^key-2a23db710101b4ad801aeb9beec9698e] Where a person fails to comply with—
+(10A)[^c-2a23db710101b4ad801aeb9beec9698e] Where a person fails to comply with—
 
 - (a) regulation 10 and the promoter for the purposes of that regulation is a monitored promoter for the purposes of Part 5 of the Finance Act 2014, or
 - (b) regulation 11 and the notifiable contribution arrangements for the purposes of that regulation are arrangements of such a monitored promoter,
@@ -880,21 +880,21 @@ then for the purposes of regulation 23 (interpretation) legal advice which the p
 - (a) the advice was not based on a full and accurate description of the facts, or
 - (b) the conclusions in the advice that the person relied on were unreasonable.
 
-(11) A person who fails to comply with regulation 15(1) (duty of parties to notify HMRC of reference number etc)[^key-fd6d2cbd2a6b71266180bddd9c935c9a] or regulation 10 of the Information Regulations shall be liable to a penalty not exceeding the relevant sum[^key-32a188aa3bf652bdcb6091fccce44ad0].
+(11) A person who fails to comply with regulation 15(1) (duty of parties to notify HMRC of reference number etc)[^c-fd6d2cbd2a6b71266180bddd9c935c9a] or regulation 10 of the Information Regulations shall be liable to a penalty not exceeding the relevant sum[^c-32a188aa3bf652bdcb6091fccce44ad0].
 
 This is subject to paragraph (14).
 
 (12) In paragraph (11) “the relevant sum” means—
 
-- (a) in relation to a person not falling within sub-paragraph (b) or (c) below, £5,000[^key-6024adaa13af906e10e65f1313957ae3] in respect of each scheme to which the failure relates,
-- (b) in relation to a person who has previously failed to comply with regulation 15(1) or regulation 10 of the Information Regulations on one (and only one) occasion during the period of 36 months ending with the date on which the current failure to comply with that provision began, £7,500[^key-4f15c85d4da197e20476d5f6c015d3b1] in respect of each scheme to which the current failure relates (whether or not the same as the scheme to which the previous failure relates), or
-- (c) in relation to a person who has previously failed to comply with regulation 15(1) or regulation 10 of the Information Regulations on two or more occasions during the period of 36 months ending with the date on which the current failure to comply with that provision began, £10,000[^key-53fb81d838d29c07297aef71c1f6fbd7] in respect of each scheme to which the current failure relates (whether or not the same as the schemes to which any of the previous failures relates).
+- (a) in relation to a person not falling within sub-paragraph (b) or (c) below, £5,000[^c-6024adaa13af906e10e65f1313957ae3] in respect of each scheme to which the failure relates,
+- (b) in relation to a person who has previously failed to comply with regulation 15(1) or regulation 10 of the Information Regulations on one (and only one) occasion during the period of 36 months ending with the date on which the current failure to comply with that provision began, £7,500[^c-4f15c85d4da197e20476d5f6c015d3b1] in respect of each scheme to which the current failure relates (whether or not the same as the scheme to which the previous failure relates), or
+- (c) in relation to a person who has previously failed to comply with regulation 15(1) or regulation 10 of the Information Regulations on two or more occasions during the period of 36 months ending with the date on which the current failure to comply with that provision began, £10,000[^c-53fb81d838d29c07297aef71c1f6fbd7] in respect of each scheme to which the current failure relates (whether or not the same as the schemes to which any of the previous failures relates).
 
 (13) In paragraph (12) above “scheme” means any notifiable contribution arrangements which fall within any description prescribed by the Descriptions Regulations.
 
-(14) Where the notifiable contribution arrangements or proposed notifiable contribution arrangements are, or are substantially the same as, arrangements or a proposal within Part 7[^key-daa1d4f76fba538d898a1170520031ed] in relation to which a penalty has been imposed under section 98C of the Taxes Management Act 1970 in respect of a failure to comply with the provisions of Part 7, this regulation shall not apply to impose a penalty in respect of the failure to comply with the corresponding provision of these Regulations.
+(14) Where the notifiable contribution arrangements or proposed notifiable contribution arrangements are, or are substantially the same as, arrangements or a proposal within Part 7[^c-daa1d4f76fba538d898a1170520031ed] in relation to which a penalty has been imposed under section 98C of the Taxes Management Act 1970 in respect of a failure to comply with the provisions of Part 7, this regulation shall not apply to impose a penalty in respect of the failure to comply with the corresponding provision of these Regulations.
 
-### 23. Interpretation[^key-4cb84ec5202df2e24905ce5fa376300a]
+### 23. Interpretation[^c-4cb84ec5202df2e24905ce5fa376300a]
 
 For the purposes of this Part—
 
@@ -903,7 +903,7 @@ For the purposes of this Part—
   - (i) that person shall be deemed not to have failed to do it unless the excuse ceased; and
   - (ii) after the excuse ceased, that person shall be deemed not to have failed to do it if it was done without unreasonable delay after the excuse had ceased.
 
-### 24. Modification of Part 10 of the Taxes Management Act 1970[^key-bea613ee16025337b1e23d3b1e021116]
+### 24. Modification of Part 10 of the Taxes Management Act 1970[^c-bea613ee16025337b1e23d3b1e021116]
 
 (1) Part 10 of the Taxes Management Act 1970[^f00011] so far as it relates to a penalty under section 98C of that Act shall apply in relation to a penalty under regulation 22 with the following modifications.
 
@@ -915,7 +915,7 @@ For the purposes of this Part—
 
 ## PART 4 — Modification of Regulations under Part 7
 
-### 25. Modification of the Descriptions Regulations[^key-6ce615ea55435e75b56f2fd72cadde7b]
+### 25. Modification of the Descriptions Regulations[^c-6ce615ea55435e75b56f2fd72cadde7b]
 
 (1) The Descriptions Regulations apply to notifiable contribution arrangements and notifiable contribution proposals with the following modifications and any reference in those Regulations to sections 306 to 313C and section 314A shall be construed as a reference to the corresponding provision of these Regulations (see regulation 5(2)).
 
@@ -924,7 +924,7 @@ For the purposes of this Part—
 (3) In regulation 5 (prescribed descriptions of arrangements)—
 
 - (a) in paragraph (1) for “income tax, corporation tax and capital gains tax” substitute “national insurance contributions”, and
-- (b) in paragraph (2) omit sub-paragraphs (f) to (g)[^key-ea185d632ad237927491bfc5ba84432f].
+- (b) in paragraph (2) omit sub-paragraphs (f) to (g)[^c-ea185d632ad237927491bfc5ba84432f].
 
 (4) In Part 3—
 
@@ -933,11 +933,11 @@ For the purposes of this Part—
 
 (5) In regulation 10 (Description 5: standardised tax products), in the heading and paragraphs (1) and (3) for “tax product” substitute “national insurance contributions product”.
 
-(6) Omit regulations 12 to 17[^key-419437019cedd32d11a892530b4ca02f].
+(6) Omit regulations 12 to 17[^c-419437019cedd32d11a892530b4ca02f].
 
-### 26. The Information Regulations[^key-b1ebab8f0d7bafca0db84805ec42a7e1]
+### 26. The Information Regulations[^c-b1ebab8f0d7bafca0db84805ec42a7e1]
 
-(1) The Information Regulations apply to arrangements[^key-e5511c9a9438852c5c5b47993491d9ab] and proposed arrangements within Part 2[^key-659759b8770ccbc44870614a6166766d] with the following modifications and—
+(1) The Information Regulations apply to arrangements[^c-e5511c9a9438852c5c5b47993491d9ab] and proposed arrangements within Part 2[^c-659759b8770ccbc44870614a6166766d] with the following modifications and—
 
 - (a) any reference in those Regulations to sections 306 to 313C and section 314A shall be construed as a reference to the corresponding provision of these Regulations (see regulation 5(2)); and
 - (b) any reference in those Regulations to section 98C of the Taxes Management Act 1970 shall be construed as a reference to regulation 22 of these Regulations.
@@ -949,7 +949,7 @@ For the purposes of this Part—
   > - “contributions” means national insurance contributions;
 
   ;
-- (aa)[^key-e5fdd44d60e261d3ec5d0cfe9163dbc9] in sub-paragraph (a) of the definition of “the filing date” omit “or in the case of inheritance tax the last day of the period mentioned in regulation 9(5)(b)
+- (aa)[^c-e5fdd44d60e261d3ec5d0cfe9163dbc9] in sub-paragraph (a) of the definition of “the filing date” omit “or in the case of inheritance tax the last day of the period mentioned in regulation 9(5)(b)
 - (b) after the definition of “filing date” insert—
 
   > - “notifiable contribution arrangements” has the meaning given by section 132A(3) of the Social Security Administration Act 1992;
@@ -965,20 +965,20 @@ For the purposes of this Part—
   - (ii) for “notifiable arrangements” substitute “notifiable contribution arrangements”;
   - (iii) for “notifiable proposal” substitute “notifiable contribution proposal”; and
   - (iv) for “tax advantage” substitute “advantage”;
-- (b) in paragraphs (1)(b), (2)(c) and (3)(b) omit “ , the ATED Arrangements Regulations, the IHT Arrangements Regulations or the SDLT Arrangements Regulations[^key-59a1c72a7989602b8cabc823e9a21895]”; and
-- (c) in paragraph (5) omit the definitions of “the ATED Arrangements Regulations”,[^key-4dbcc6031f74cfc4cf92d4a7670756f1] “the IHT Arrangements Regulations” and “the SDLT Arrangements Regulations”.
+- (b) in paragraphs (1)(b), (2)(c) and (3)(b) omit “ , the ATED Arrangements Regulations, the IHT Arrangements Regulations or the SDLT Arrangements Regulations[^c-59a1c72a7989602b8cabc823e9a21895]”; and
+- (c) in paragraph (5) omit the definitions of “the ATED Arrangements Regulations”,[^c-4dbcc6031f74cfc4cf92d4a7670756f1] “the IHT Arrangements Regulations” and “the SDLT Arrangements Regulations”.
 
 (4) In regulation 5 (time for providing information under section 308, 308A, 309 or 310)—
 
-- (a)[^key-5b2364eda1dd38a51180ef54a7fdca6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5b2364eda1dd38a51180ef54a7fdca6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (3) for “notifiable proposal or arrangements” substitute “notifiable contribution proposal or notifiable contribution arrangements”; and
 - (c) in paragraphs (6), (7) and (8) for “notifiable arrangements” substitute “notifiable contribution arrangements”.
 
-(5)[^key-1ff6b55653e90f8103f4fa7a1c430cad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1ff6b55653e90f8103f4fa7a1c430cad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-29bf1a0d426ee9c594130b44ca5c1793] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-29bf1a0d426ee9c594130b44ca5c1793] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6A)[^key-4d970eb25bdba19d0442b6fecba051fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6A)[^c-4d970eb25bdba19d0442b6fecba051fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Omit regulation 9.
 
@@ -986,21 +986,21 @@ For the purposes of this Part—
 
 > **10. Prescribed information under regulation 15 of the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012: timing and manner of delivery**
 >
-> (1) For the purposes of regulation 15 of the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 (duty of parties to notify HMRC of the reference number etc)[^key-ea97a16c334a5af8f333d9c7a3493961] the prescribed information is—
+> (1) For the purposes of regulation 15 of the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 (duty of parties to notify HMRC of the reference number etc)[^c-ea97a16c334a5af8f333d9c7a3493961] the prescribed information is—
 >
-> - (a) the reference number allocated by HMRC under regulation 12 or section 311[^key-a6ea49c19e82df6dc767e44b31537683] to the [^key-fac94481f07faa1cb391fdd4b5aa19b7]... arrangements or [^key-fac94481f07faa1cb391fdd4b5aa19b7]... proposal;
+> - (a) the reference number allocated by HMRC under regulation 12 or section 311[^c-a6ea49c19e82df6dc767e44b31537683] to the [^c-fac94481f07faa1cb391fdd4b5aa19b7]... arrangements or [^c-fac94481f07faa1cb391fdd4b5aa19b7]... proposal;
 > - (b) the earnings period in which the person making the notification expects an advantage to be obtained; and
 > - (c) the employer’s name, address and Unique Taxpayer Reference (UTR).
 >
 > (2) The prescribed information shall be provided by the employer to HMRC in such form and manner as they may specify.
 >
-> (3)[^key-13b13090185b0ed9e81bfd8a1e7fc1af] Unless paragraph (4) applies, the prescribed time at which a person who is a party to [^key-8d5ab2edf888fc87d79e4893f3fc9d60]... arrangements must provide HMRC with information under regulation 15 is 14 days after the end of the final tax period of the tax year in respect of which any person first enters into a transaction forming part of the [^key-8d5ab2edf888fc87d79e4893f3fc9d60]... arrangements and in respect of each subsequent year until an advantage ceases to apply to any person.
+> (3)[^c-13b13090185b0ed9e81bfd8a1e7fc1af] Unless paragraph (4) applies, the prescribed time at which a person who is a party to [^c-8d5ab2edf888fc87d79e4893f3fc9d60]... arrangements must provide HMRC with information under regulation 15 is 14 days after the end of the final tax period of the tax year in respect of which any person first enters into a transaction forming part of the [^c-8d5ab2edf888fc87d79e4893f3fc9d60]... arrangements and in respect of each subsequent year until an advantage ceases to apply to any person.
 >
 > In this paragraph, “tax period” has the meaning given in paragraph 1(2) of Schedule 4 to the Social Security (Contribution) Regulations 2001 (interpretation).
 >
-> (4) Where the advantage which is expected to arise from the [^key-86485eb4aeaacdae4131617735085862]... arrangements relates to Class 1A contributions only, and the transactions which comprise the [^key-86485eb4aeaacdae4131617735085862]... arrangements do not give rise to an advantage in relation to tax, the prescribed time is any time before the date on which the return under regulation 80(1) of the Social Security (Contributions) Regulations 2001 (return by employer) is or would be due—
+> (4) Where the advantage which is expected to arise from the [^c-86485eb4aeaacdae4131617735085862]... arrangements relates to Class 1A contributions only, and the transactions which comprise the [^c-86485eb4aeaacdae4131617735085862]... arrangements do not give rise to an advantage in relation to tax, the prescribed time is any time before the date on which the return under regulation 80(1) of the Social Security (Contributions) Regulations 2001 (return by employer) is or would be due—
 >
-> - (a) for the year in which the employer first enters into a transaction forming part of the [^key-86485eb4aeaacdae4131617735085862]... arrangements; and
+> - (a) for the year in which the employer first enters into a transaction forming part of the [^c-86485eb4aeaacdae4131617735085862]... arrangements; and
 > - (b) for each subsequent year until the advantage ceases to apply to any person.
 >
 > In this paragraph the term “an advantage in relation to tax” shall be construed in accordance with section 318(1).
@@ -1009,18 +1009,18 @@ For the purposes of this Part—
 
 (9) Omit regulations 11 and 12.
 
-(9A)[^key-737c5c802b9d95661ee368ca51012d63] In regulation 13(1)(ba) (prescribed information under section 313ZA: information and timing) for “section 311” substitute “section 311 or regulation 12 of the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 (allocation of reference number to arrangements).
+(9A)[^c-737c5c802b9d95661ee368ca51012d63] In regulation 13(1)(ba) (prescribed information under section 313ZA: information and timing) for “section 311” substitute “section 311 or regulation 12 of the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012 (allocation of reference number to arrangements).
 
-(10)[^key-1386cda675ffe887b0ea683e60255ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-1386cda675ffe887b0ea683e60255ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10A)[^key-238d4ff25b9f79626cfe6d22bed75e0c] In regulation 13A(1)(b)(i) (prescribed information under section 313ZB: information and timing) for “a tax advantage” substitute “an advantage”.
+(10A)[^c-238d4ff25b9f79626cfe6d22bed75e0c] In regulation 13A(1)(b)(i) (prescribed information under section 313ZB: information and timing) for “a tax advantage” substitute “an advantage”.
 
-(10B)[^key-4b561206aca88769c2bc93cbd079e8d5] In regulation 13B (prescribed information under section 313ZC: information and timing)—
+(10B)[^c-4b561206aca88769c2bc93cbd079e8d5] In regulation 13B (prescribed information under section 313ZC: information and timing)—
 
 - (a) in paragraph (2)(d) for “a tax advantage” substitute “an advantage”;
 - (b) in paragraph (2)(e) for “a tax advantage” substitute “an advantage”;
 
-(11)[^key-8d9dba06bae09bd6c08a27d256bc0c9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-8d9dba06bae09bd6c08a27d256bc0c9f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In regulation 17 (electronic delivery of information)—
 
@@ -1035,7 +1035,7 @@ For the purposes of this Part—
 
 (13) Omit regulation 18.
 
-### 27. The Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004[^key-cc32108162dc56ed3972b35439f19acb]
+### 27. The Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004[^c-cc32108162dc56ed3972b35439f19acb]
 
 (1) The Tax Avoidance Schemes (Promoters and Prescribed Circumstances) Regulations 2004 apply to notifiable contribution arrangements and notifiable contribution proposals as they apply to income tax with the following modifications and any reference in those Regulations to sections 306 to 313C and section 314A shall be construed as a reference to the corresponding provision of these Regulations (see regulation 5(2)).
 
@@ -1054,7 +1054,7 @@ For the purposes of this Part—
 
 (4) In regulation 6 (legal professional privilege) for “section 314” substitute “section 132A(6) of the Social Security Administration Act 1992”.
 
-### 28. The Tax Avoidance Schemes (Penalty) Regulations 2007[^key-3b927f3c879d92f945057b32eaf7182b]
+### 28. The Tax Avoidance Schemes (Penalty) Regulations 2007[^c-3b927f3c879d92f945057b32eaf7182b]
 
 The Tax Avoidance Schemes (Penalty) Regulations 2007 apply to notifiable contribution arrangements and notifiable contribution proposals as they apply to income tax and—
 
@@ -1063,7 +1063,7 @@ The Tax Avoidance Schemes (Penalty) Regulations 2007 apply to notifiable contrib
 
 ## PART 5 — Revocations
 
-**29.**[^key-8a7a1e85698a162915bba0426b970e13] The following instruments are revoked.
+**29.**[^c-8a7a1e85698a162915bba0426b970e13] The following instruments are revoked.
 
 - (a) the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2007[^f00013];
 - (b) the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2008[^f00014];
@@ -1103,13 +1103,13 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00001]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); section 132A was inserted by section 7 of the National Insurance Contributions Act [2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10) and section 189 was amended by paragraph 109 of Schedule 7 and Schedule 8 to the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14).
 
-[^key-2f7b8203711452d2a17500d13c1b7034]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-2f7b8203711452d2a17500d13c1b7034]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-c73baa84067c33f072738b7e1869734a]: Commencement: Reg. 2 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-c73baa84067c33f072738b7e1869734a]: Commencement: Reg. 2 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2006/1543](https://www.legislation.gov.uk/uksi/2006/1543) as amended by [S.I. 2009/2033](https://www.legislation.gov.uk/uksi/2009/2033) and [S.I. 2010/2834](https://www.legislation.gov.uk/uksi/2010/2834).
 
-[^key-7c18468bba48346efc66f26fe44bf3c6]: Textual amendment: Words in reg. 2 inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/1174/regulation/3)
+[^c-7c18468bba48346efc66f26fe44bf3c6]: Textual amendment: Words in reg. 2 inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/1174/regulation/3)
 
 [^f00003]: Footnote: [S.I. 2012/1836](https://www.legislation.gov.uk/uksi/2012/1836).
 
@@ -1117,367 +1117,367 @@ A Tax Information and Impact Note has not been prepared for this instrument as i
 
 [^f00005]: Footnote: Part 7 has been amended by Schedule 27 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), Schedule 38 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56), [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), paragraphs 423 and 429 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), paragraph 302 of Schedule 8 and Part 13 to Schedule 10 to the Taxation (International and Other Provisions) Act [2010 (c.8)](https://www.legislation.gov.uk/ukpga/2010/8) and Schedule 17 to the Finance Act [2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13).
 
-[^key-a47007263286f60ef151b167ea3ccd1a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1868/regulation/2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/526/regulation/3)
+[^c-a47007263286f60ef151b167ea3ccd1a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2012/1868/regulation/2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2022/526/regulation/3)
 
-[^key-d855091e939851d8125c3afaec7d342e]: Textual amendment: Words in reg. 2 inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/531/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-d855091e939851d8125c3afaec7d342e]: Textual amendment: Words in reg. 2 inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2015/531/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-e1a9481b4ee76bfb5b3d30bc31c3f3fc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1868/regulation/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-e1a9481b4ee76bfb5b3d30bc31c3f3fc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1868/regulation/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-fc23370ec930362af121d5b8d5071541]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/3/1) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/1174/regulation/4)
+[^c-fc23370ec930362af121d5b8d5071541]: Textual amendment: Word in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/3/1) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/1174/regulation/4)
 
 [^f00006]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9); section 98C was inserted by sections 315 and 319 of the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) and amended by sections 108 and 110 of the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), paragraph 7 of Schedule 38 to the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), and paragraph 10 of Schedule 17 to the Finance Act [2010 (c.13)](https://www.legislation.gov.uk/ukpga/2010/13).
 
-[^key-824b8a60f4a89e13843fb4475ca7245f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1868/regulation/4) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-824b8a60f4a89e13843fb4475ca7245f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2012/1868/regulation/4) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-0b15ce6420d0fb2bbc3f28c249b84d37]: Commencement: Reg. 5 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-0b15ce6420d0fb2bbc3f28c249b84d37]: Commencement: Reg. 5 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-cb74e803e29cc33f008761cf73a0806c]: Textual amendment: Reg. 5(1A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/526/regulation/4)
+[^c-cb74e803e29cc33f008761cf73a0806c]: Textual amendment: Reg. 5(1A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2022/526/regulation/4)
 
-[^key-9885b0bc3c5904d1d5fa0a594a3c8a42]: Textual amendment: Words in reg. 5(2) Table inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/531/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-9885b0bc3c5904d1d5fa0a594a3c8a42]: Textual amendment: Words in reg. 5(2) Table inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2015/531/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-aa02aa767da5909c34418736e10193a3]: Textual amendment: Words in reg. 5(2) Table inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/5/a)
+[^c-aa02aa767da5909c34418736e10193a3]: Textual amendment: Words in reg. 5(2) Table inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/5/a)
 
-[^key-fc0cfbeab1899af2410b001b186d791e]: Textual amendment: Words in reg. 5(2) Table inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/a)
+[^c-fc0cfbeab1899af2410b001b186d791e]: Textual amendment: Words in reg. 5(2) Table inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/a)
 
-[^key-2052ddb58c52f9250fa693d92817c167]: Textual amendment: Words in reg. 5(2) Table substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/b)
+[^c-2052ddb58c52f9250fa693d92817c167]: Textual amendment: Words in reg. 5(2) Table substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/b)
 
-[^key-47e0cefe8c8d1efa615b481d0e67ce18]: Textual amendment: Words in reg. 5(2) Table inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/c)
+[^c-47e0cefe8c8d1efa615b481d0e67ce18]: Textual amendment: Words in reg. 5(2) Table inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/c)
 
-[^key-42d5fd9f0dcf6b3aa697dd75b5f2b0c4]: Textual amendment: Words in reg. 5(2) Table substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/d)
+[^c-42d5fd9f0dcf6b3aa697dd75b5f2b0c4]: Textual amendment: Words in reg. 5(2) Table substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/d)
 
-[^key-530810a24c45d22490df417828762dcc]: Textual amendment: Words in reg. 5(2) Table inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/e)
+[^c-530810a24c45d22490df417828762dcc]: Textual amendment: Words in reg. 5(2) Table inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/e)
 
-[^key-0509db790c4170019c24f7191967281e]: Textual amendment: Words in reg. 5(2) Table inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-0509db790c4170019c24f7191967281e]: Textual amendment: Words in reg. 5(2) Table inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-6f9d066d1e10196f5eeb68486ffd797f]: Textual amendment: Words in reg. 5(2) Table omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/f)
+[^c-6f9d066d1e10196f5eeb68486ffd797f]: Textual amendment: Words in reg. 5(2) Table omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/f)
 
-[^key-2e0879e85c2167736c878ea20589d40d]: Textual amendment: Words in reg. 5(2) Table substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(g)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/g)
+[^c-2e0879e85c2167736c878ea20589d40d]: Textual amendment: Words in reg. 5(2) Table substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [5(g)](https://www.legislation.gov.uk/uksi/2022/526/regulation/5/g)
 
-[^key-326047a6d53c3bc941034d26745c244d]: Textual amendment: Words in reg. 5(2) Table inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-326047a6d53c3bc941034d26745c244d]: Textual amendment: Words in reg. 5(2) Table inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-34b2cbc9f7fcf05ee77283a188060f1a]: Textual amendment: Words in reg. 5(2) Table inserted (6.4.2018) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/5/b) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-34b2cbc9f7fcf05ee77283a188060f1a]: Textual amendment: Words in reg. 5(2) Table inserted (6.4.2018) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3), [5(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/5/b) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-9105e6fa510f216f7cc8bac509634b1d]: Textual amendment: Words in reg. 5(2) Table inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/5/c)
+[^c-9105e6fa510f216f7cc8bac509634b1d]: Textual amendment: Words in reg. 5(2) Table inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/5/c)
 
-[^key-d579f60ca0949f4366a6041a0f3bcda5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1868/regulation/6) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-d579f60ca0949f4366a6041a0f3bcda5]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2012/1868/regulation/6) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-835e4db6a0ae1a70fa1a47bf8fedcdae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1868/regulation/7) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-835e4db6a0ae1a70fa1a47bf8fedcdae]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2012/1868/regulation/7) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
 [^f00007]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
 
 [^f00008]: Footnote: 1992\. c12; section 170 was amended by section 136 of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), paragraph 1 of Schedule 29 to the Finance Act [2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), section 75 of the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), section 62 of the Finance (No 2) Act [2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), paragraphs 358 and 375 of Schedule 3 to the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), paragraph 242 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4) and [S.I. 2010/2902](https://www.legislation.gov.uk/uksi/2010/2902).
 
-[^key-58b28d9403e1f2af97f7c4d6da379318]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/7/6) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/6/a)
+[^c-58b28d9403e1f2af97f7c4d6da379318]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/7/6) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/6/a)
 
-[^key-f5bf83937863d779af9c0cf497674f6f]: Textual amendment: Words in [reg. 7(8)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/7/8) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/6/b)
+[^c-f5bf83937863d779af9c0cf497674f6f]: Textual amendment: Words in [reg. 7(8)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/7/8) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/6/b)
 
 [^f00009]: Footnote: [S.I. 2004/1865](https://www.legislation.gov.uk/uksi/2004/1865); amended by [S.I. 2004/2613](https://www.legislation.gov.uk/uksi/2004/2613).
 
-[^key-8669ae60a240e06d7b6bc0bf6c0d401e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1868/regulation/8) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-8669ae60a240e06d7b6bc0bf6c0d401e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2012/1868/regulation/8) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-ad2d19e7d42f70605aae8233de19c745]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1868/regulation/9) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-ad2d19e7d42f70605aae8233de19c745]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2012/1868/regulation/9) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-b2c7d3b48f6d309ac769f48579646749]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1868/regulation/10) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-b2c7d3b48f6d309ac769f48579646749]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/1868/regulation/10) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-0dfe806cf8ebe943c7006c8962b8f112]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/1868/regulation/11) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-0dfe806cf8ebe943c7006c8962b8f112]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2012/1868/regulation/11) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-921e838795ef03e621ec69eda4c16687]: Textual amendment: Regs. 11A, 11B inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2015/531/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-921e838795ef03e621ec69eda4c16687]: Textual amendment: Regs. 11A, 11B inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2015/531/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-8942f1585dc4334bd324e988717bfa48]: Textual amendment: [Reg. 11C](https://www.legislation.gov.uk/uksi/2012/1868/regulation/11C) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/1174/regulation/6) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-8942f1585dc4334bd324e988717bfa48]: Textual amendment: [Reg. 11C](https://www.legislation.gov.uk/uksi/2012/1868/regulation/11C) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2017/1174/regulation/6) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-8d633d6127c12b699ff527864d2aa1a7]: Textual amendment: [Reg. 11D](https://www.legislation.gov.uk/uksi/2012/1868/regulation/11D) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/526/regulation/7) (with [reg. 1(3)-(5)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/3))
+[^c-8d633d6127c12b699ff527864d2aa1a7]: Textual amendment: [Reg. 11D](https://www.legislation.gov.uk/uksi/2012/1868/regulation/11D) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/526/regulation/7) (with [reg. 1(3)-(5)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/3))
 
-[^key-0b21b662da0c4d6d777ab756fb319e56]: Textual amendment: Reg. 12 substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/526/regulation/8)
+[^c-0b21b662da0c4d6d777ab756fb319e56]: Textual amendment: Reg. 12 substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2022/526/regulation/8)
 
-[^key-d347f573649a368833919de53d90fd70]: Textual amendment: [Regs. 12A-12C](https://www.legislation.gov.uk/uksi/2012/1868/regulation/12A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/526/regulation/9)
+[^c-d347f573649a368833919de53d90fd70]: Textual amendment: [Regs. 12A-12C](https://www.legislation.gov.uk/uksi/2012/1868/regulation/12A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2022/526/regulation/9)
 
-[^key-ad722bbfed3ee45546307a231337085c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-ad722bbfed3ee45546307a231337085c]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-78b8738838115ecb433f4bb5d52a9d13]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13) heading inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/10/a)
+[^c-78b8738838115ecb433f4bb5d52a9d13]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13) heading inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [10(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/10/a)
 
-[^key-18ba76ddbf11d577b2658335ade67c67]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13/2) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [10(b)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/10/b/i)
+[^c-18ba76ddbf11d577b2658335ade67c67]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13/2) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [10(b)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/10/b/i)
 
-[^key-bd3df29e54b08fe1040936914423e2c3]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13/2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/10/b/ii)
+[^c-bd3df29e54b08fe1040936914423e2c3]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13/2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [10(b)(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/10/b/ii)
 
-[^key-478ba1db24b60cd2489236172c3eb69f]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2022/526/regulation/11) (with [reg. 1(3)-(5)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/3))
+[^c-478ba1db24b60cd2489236172c3eb69f]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2012/1868/regulation/13A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2022/526/regulation/11) (with [reg. 1(3)-(5)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/3))
 
-[^key-f7e01bced4fbc569a43b19d3e5f6d738]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-f7e01bced4fbc569a43b19d3e5f6d738]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-522a36303e639e79a310052cf7428166]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/1) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/a)
+[^c-522a36303e639e79a310052cf7428166]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/1) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/a)
 
-[^key-73c59788e17f1601a9691f3fa4ec9458]: Textual amendment: Words in [reg. 14(1)(c)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/1/c) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/b)
+[^c-73c59788e17f1601a9691f3fa4ec9458]: Textual amendment: Words in [reg. 14(1)(c)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/1/c) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/b)
 
-[^key-880a6d98031bd0415a1918a2e1559272]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/1A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/c)
+[^c-880a6d98031bd0415a1918a2e1559272]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/1A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/c)
 
-[^key-12c90b1856c320c9ece75893a275c079]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/2A) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/8/1)
+[^c-12c90b1856c320c9ece75893a275c079]: Textual amendment: [Reg. 14(2A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/2A) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/8/1)
 
-[^key-899a31bc637c6e48e6bd40e313a6a7fe]: Textual amendment: Words in [reg. 14(2A)(b)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/2A/b) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/d)
+[^c-899a31bc637c6e48e6bd40e313a6a7fe]: Textual amendment: Words in [reg. 14(2A)(b)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/2A/b) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/d)
 
-[^key-4d01d0a90492dd0f9ba9d16a8ded8fce]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/3) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/e)
+[^c-4d01d0a90492dd0f9ba9d16a8ded8fce]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/3) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [12(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/12/e)
 
-[^key-e2e8372049b6046e031ce2666e1aeb4c]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/3) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/8/2)
+[^c-e2e8372049b6046e031ce2666e1aeb4c]: Textual amendment: Words in [reg. 14(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/3) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/8/2)
 
-[^key-cfbd20de2a696bc3951d0ae106b3c7e1]: Textual amendment: [Reg. 14(3A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/3A) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/8/3)
+[^c-cfbd20de2a696bc3951d0ae106b3c7e1]: Textual amendment: [Reg. 14(3A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/3A) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/8/3)
 
-[^key-accf96b64e4aee3044bea9742d69bc41]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/4) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/8/2)
+[^c-accf96b64e4aee3044bea9742d69bc41]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14/4) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [8(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/8/2)
 
-[^key-1524a7c600aa13110f20f077593f1008]: Textual amendment: Reg. 14A inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2600/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-1524a7c600aa13110f20f077593f1008]: Textual amendment: Reg. 14A inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2013/2600/regulation/4) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-1d8acfce10dad58866c91b1d1dc31d23]: Textual amendment: Words in [reg. 14A](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14A) heading omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/13/a)
+[^c-1d8acfce10dad58866c91b1d1dc31d23]: Textual amendment: Words in [reg. 14A](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14A) heading omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/13/a)
 
-[^key-d814fb757c59c8e6b8a0d586e97061fe]: Textual amendment: [Reg. 14A(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14A/1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/13/b)
+[^c-d814fb757c59c8e6b8a0d586e97061fe]: Textual amendment: [Reg. 14A(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14A/1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/13/b)
 
-[^key-3c843b36cfdb7a143ab5de49a237e41e]: Textual amendment: Words in [reg. 14A(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14A/2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/13/c)
+[^c-3c843b36cfdb7a143ab5de49a237e41e]: Textual amendment: Words in [reg. 14A(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/14A/2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/13/c)
 
-[^key-606a42a7f92eed3fab80a0af7156d12e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-606a42a7f92eed3fab80a0af7156d12e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-9c7863b90b3da8a5ad1fb3252a305090]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15) heading substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/14/a)
+[^c-9c7863b90b3da8a5ad1fb3252a305090]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15) heading substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/14/a)
 
-[^key-3baf2b43aacbe5cf8837baab195e8ff3]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15/1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/14/b)
+[^c-3baf2b43aacbe5cf8837baab195e8ff3]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15/1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/14/b)
 
-[^key-f698ba90658d478ee0fe776c7eb8f246]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15/1/a) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/14/c)
+[^c-f698ba90658d478ee0fe776c7eb8f246]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15/1/a) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/14/c)
 
-[^key-d02f675e37a54a87efc1265a058e4c85]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15/2) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/14/d)
+[^c-d02f675e37a54a87efc1265a058e4c85]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15/2) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/14/d)
 
-[^key-5c087629ef940092d546d9f5659ad24c]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15/3) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/1174/regulation/9)
+[^c-5c087629ef940092d546d9f5659ad24c]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/15/3) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/1174/regulation/9)
 
-[^key-dad325f7cc9b5ae9a9131cf8d0ae35c2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-dad325f7cc9b5ae9a9131cf8d0ae35c2]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-8fca3988fe8993019fbc41c310a38689]: Textual amendment: [Reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/1/b) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/a)
+[^c-8fca3988fe8993019fbc41c310a38689]: Textual amendment: [Reg. 16(1)(a)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/1/a)[(b)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/1/b) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/a)
 
-[^key-0b9ed1e9aa783f3c7f00a8da6d342ca6]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/1A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/b)
+[^c-0b9ed1e9aa783f3c7f00a8da6d342ca6]: Textual amendment: [Reg. 16(1A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/1A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/b)
 
-[^key-596566eb95f663322c2b8214df2bb767]: Textual amendment: [Reg. 16(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/2) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/c)
+[^c-596566eb95f663322c2b8214df2bb767]: Textual amendment: [Reg. 16(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/2) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/c)
 
-[^key-c503e469ad2255cff24ba6c641421d42]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/3) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/d)
+[^c-c503e469ad2255cff24ba6c641421d42]: Textual amendment: Words in [reg. 16(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/3) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/d)
 
-[^key-58eaf7f2bbdca4b0ba5c541dbdbe19a6]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/4) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/e)
+[^c-58eaf7f2bbdca4b0ba5c541dbdbe19a6]: Textual amendment: [Reg. 16(4)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/4) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/e)
 
-[^key-c5a0b6dcda9c8b5d9a02fe5803fbd692]: Textual amendment: [Reg. 16(6)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/6) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/f)
+[^c-c5a0b6dcda9c8b5d9a02fe5803fbd692]: Textual amendment: [Reg. 16(6)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16/6) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [15(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/15/f)
 
-[^key-960c4aadf987569404be2f4fcf32ea1b]: Textual amendment: Reg. 16A inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2600/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-960c4aadf987569404be2f4fcf32ea1b]: Textual amendment: Reg. 16A inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2013/2600/regulation/5) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-e6c05f7c1efdfe3e9d099cf9a734aae4]: Textual amendment: [Reg. 16A(1)(a)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/1/a)[(aa)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/1/aa) substituted for [reg. 16A(1)(a)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/1/a) (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/16/a)
+[^c-e6c05f7c1efdfe3e9d099cf9a734aae4]: Textual amendment: [Reg. 16A(1)(a)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/1/a)[(aa)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/1/aa) substituted for [reg. 16A(1)(a)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/1/a) (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/16/a)
 
-[^key-944cee6d8ad12c2fd9b0be80445a7c58]: Textual amendment: Words in [reg. 16A(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/16/b)
+[^c-944cee6d8ad12c2fd9b0be80445a7c58]: Textual amendment: Words in [reg. 16A(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/16/b)
 
-[^key-dd7edbd11daa803af288574c2c35019b]: Textual amendment: Words in [reg. 16A(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/3) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/16/c)
+[^c-dd7edbd11daa803af288574c2c35019b]: Textual amendment: Words in [reg. 16A(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/16A/3) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/16/c)
 
-[^key-a3e54b6e220894fa49e440903f94c139]: Textual amendment: Reg. 16B inserted (6.4.2018) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2017/1174/regulation/10) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-a3e54b6e220894fa49e440903f94c139]: Textual amendment: Reg. 16B inserted (6.4.2018) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3), [10](https://www.legislation.gov.uk/uksi/2017/1174/regulation/10) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-5a28236497b35cc659d50a6d25f1e800]: Textual amendment: Reg. 16B(2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/a)
+[^c-5a28236497b35cc659d50a6d25f1e800]: Textual amendment: Reg. 16B(2) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/a)
 
-[^key-ffa63b9dc0f81b4dad6684f5e13ee3c8]: Textual amendment: Words in reg. 16B(3) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/b)
+[^c-ffa63b9dc0f81b4dad6684f5e13ee3c8]: Textual amendment: Words in reg. 16B(3) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/b)
 
-[^key-83b183a2e3139423ef93fcc9621d0a7e]: Textual amendment: Words in reg. 16B(4) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/c)
+[^c-83b183a2e3139423ef93fcc9621d0a7e]: Textual amendment: Words in reg. 16B(4) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/c)
 
-[^key-80e129c2657dfc5b0e964ef0ef31459f]: Textual amendment: Word in reg. 16B(4) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/d)
+[^c-80e129c2657dfc5b0e964ef0ef31459f]: Textual amendment: Word in reg. 16B(4) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/d)
 
-[^key-39e82ba02b33122f23b0f23257a86ba2]: Textual amendment: Words in reg. 16B(6) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(e)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/e/i)
+[^c-39e82ba02b33122f23b0f23257a86ba2]: Textual amendment: Words in reg. 16B(6) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(e)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/e/i)
 
-[^key-c4e5889d23149322ce7985a49be271b4]: Textual amendment: Word in reg. 16B(6) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(e)(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/e/ii)
+[^c-c4e5889d23149322ce7985a49be271b4]: Textual amendment: Word in reg. 16B(6) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [17(e)(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/17/e/ii)
 
-[^key-165269f55077574eae9a0d7b8f3367a4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/1868/regulation/17) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-165269f55077574eae9a0d7b8f3367a4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/1868/regulation/17) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-2f63f8850be10c52f25b3c7fe3f18f8c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/1868/regulation/18) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-2f63f8850be10c52f25b3c7fe3f18f8c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2012/1868/regulation/18) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-0352a5de6fde317e56441841534975f9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-0352a5de6fde317e56441841534975f9]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-9d8bf43ab086c2d1e65f69872cb5bdcb]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19) heading substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/11/a) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-9d8bf43ab086c2d1e65f69872cb5bdcb]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19) heading substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [11(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/11/a) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-def3c6c00b7fbd69f954faa253d8c38c]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19/1) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/11/b) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-def3c6c00b7fbd69f954faa253d8c38c]: Textual amendment: [Reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19/1) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/11/b) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-904551c7bfd372f1876baefec6a193ec]: Textual amendment: [Reg. 19(1A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19/1A) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/11/c) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-904551c7bfd372f1876baefec6a193ec]: Textual amendment: [Reg. 19(1A)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19/1A) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/11/c) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-eee1e6b474af843e2019e8f231be5f22]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19/3) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/11/d) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-eee1e6b474af843e2019e8f231be5f22]: Textual amendment: Words in [reg. 19(3)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/19/3) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/11/d) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-d6a1dcd8d1cddf75b3a2c5a3259d8289]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/1868/regulation/20) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-d6a1dcd8d1cddf75b3a2c5a3259d8289]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/1868/regulation/20) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-a1f261fcec292f168f8f8e445beb3006]: Commencement: Reg. 21 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-a1f261fcec292f168f8f8e445beb3006]: Commencement: Reg. 21 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-c98738c7212b5dfb90a5efd91f06a2ad]: Textual amendment: Word in reg. 21(2) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/531/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-c98738c7212b5dfb90a5efd91f06a2ad]: Textual amendment: Word in reg. 21(2) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2015/531/regulation/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-b891f073d809922ee548a5742a61a8e6]: Textual amendment: Word in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21/2) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [12(1)(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/12/1/a)
+[^c-b891f073d809922ee548a5742a61a8e6]: Textual amendment: Word in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21/2) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [12(1)(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/12/1/a)
 
-[^key-26ace7b004d1d1a0817d50eb40c099f4]: Textual amendment: Word in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21/2) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/18/a)
+[^c-26ace7b004d1d1a0817d50eb40c099f4]: Textual amendment: Word in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21/2) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [18(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/18/a)
 
-[^key-07c9c3ace2824de9e1c7ebca246c1c31]: Textual amendment: Word in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21/2) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/18/b)
+[^c-07c9c3ace2824de9e1c7ebca246c1c31]: Textual amendment: Word in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21/2) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [18(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/18/b)
 
-[^key-8ba654b02a986118edd8b784ca424e3f]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21/2) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [12(1)(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/12/1/b)
+[^c-8ba654b02a986118edd8b784ca424e3f]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21/2) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [12(1)(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/12/1/b)
 
-[^key-762e422339d48e2c689b451a62b01330]: Textual amendment: Regs. 21A-21D inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/12/2)
+[^c-762e422339d48e2c689b451a62b01330]: Textual amendment: Regs. 21A-21D inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/12/2)
 
-[^key-832d48ad0aa346061bfc48e03c58c5f9]: Textual amendment: Word in [reg. 21A(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21A/1) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2022/526/regulation/19)
+[^c-832d48ad0aa346061bfc48e03c58c5f9]: Textual amendment: Word in [reg. 21A(1)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21A/1) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2022/526/regulation/19)
 
-[^key-84ae90c416a267007b3e0a24abdcc51a]: Textual amendment: Word in [reg. 21A(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21A/2) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2022/526/regulation/19)
+[^c-84ae90c416a267007b3e0a24abdcc51a]: Textual amendment: Word in [reg. 21A(2)](https://www.legislation.gov.uk/uksi/2012/1868/regulation/21A/2) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2022/526/regulation/19)
 
-[^key-a37f4ee7afbc2d767c38ff11a537c7f3]: Textual amendment: Reg. 21C(1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/a) (with [reg. 1(3)-(5)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/3))
+[^c-a37f4ee7afbc2d767c38ff11a537c7f3]: Textual amendment: Reg. 21C(1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/a) (with [reg. 1(3)-(5)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/3))
 
-[^key-6391ca10440089f0f5689595e7737ea0]: Textual amendment: Words in reg. 21C(2)(a) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(b)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/b/i)
+[^c-6391ca10440089f0f5689595e7737ea0]: Textual amendment: Words in reg. 21C(2)(a) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(b)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/b/i)
 
-[^key-6a6b03910488eb10d109a5377861d774]: Textual amendment: Words in reg. 21C(2)(a) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/b/ii)
+[^c-6a6b03910488eb10d109a5377861d774]: Textual amendment: Words in reg. 21C(2)(a) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(b)(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/b/ii)
 
-[^key-defdb8bea307548a75a7af6623214328]: Textual amendment: Reg. 21C(2)(b) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/c)
+[^c-defdb8bea307548a75a7af6623214328]: Textual amendment: Reg. 21C(2)(b) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/c)
 
-[^key-a8144ccb57d13650a91be4b4bfd85075]: Textual amendment: Words in reg. 21C(2)(c) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/d)
+[^c-a8144ccb57d13650a91be4b4bfd85075]: Textual amendment: Words in reg. 21C(2)(c) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/d)
 
-[^key-95340640e79ca1aaaf343cbd7a404ffa]: Textual amendment: Words in reg. 21C(2)(d) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/e)
+[^c-95340640e79ca1aaaf343cbd7a404ffa]: Textual amendment: Words in reg. 21C(2)(d) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/e)
 
-[^key-1a1a2466f0d16dac2d88600acdf798de]: Textual amendment: Words in reg. 21C(2)(e) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/f)
+[^c-1a1a2466f0d16dac2d88600acdf798de]: Textual amendment: Words in reg. 21C(2)(e) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/f)
 
-[^key-08599c5a56eabb070ffb7733d5ec81d2]: Textual amendment: Words in reg. 21C(4) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(g)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/g)
+[^c-08599c5a56eabb070ffb7733d5ec81d2]: Textual amendment: Words in reg. 21C(4) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(g)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/g)
 
-[^key-f38c2c99e498db4b56d272294ddfc432]: Textual amendment: Reg. 21C(4A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(h)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/h)
+[^c-f38c2c99e498db4b56d272294ddfc432]: Textual amendment: Reg. 21C(4A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(h)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/h)
 
-[^key-f3f76832c6179486ed08473347b0f8c1]: Textual amendment: Words in reg. 21C(5) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/i)
+[^c-f3f76832c6179486ed08473347b0f8c1]: Textual amendment: Words in reg. 21C(5) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/i)
 
-[^key-969d09c74fe9facfc80e7260f6888bfe]: Textual amendment: Words in reg. 21C(5) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/i)[(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/ii)
+[^c-969d09c74fe9facfc80e7260f6888bfe]: Textual amendment: Words in reg. 21C(5) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/i)[(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/ii)
 
-[^key-d53d0e5a72798ad829946e256d0af87e]: Textual amendment: Words in reg. 21C(6) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(j)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/j)
+[^c-d53d0e5a72798ad829946e256d0af87e]: Textual amendment: Words in reg. 21C(6) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(j)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/j)
 
-[^key-56da199a02585f45c259410a7442c53b]: Textual amendment: Reg. 21C(6A)(6B) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(k)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/k)
+[^c-56da199a02585f45c259410a7442c53b]: Textual amendment: Reg. 21C(6A)(6B) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [20(k)](https://www.legislation.gov.uk/uksi/2022/526/regulation/20/k)
 
-[^key-39d3d42b25104553829ec65b5103a2dd]: Textual amendment: Words in reg. 21D(1)(a) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/21/a)
+[^c-39d3d42b25104553829ec65b5103a2dd]: Textual amendment: Words in reg. 21D(1)(a) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/21/a)
 
-[^key-5a9b8083348255e9b37403d171d84af6]: Textual amendment: Word in reg. 21D(1)(b) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/21/b)
+[^c-5a9b8083348255e9b37403d171d84af6]: Textual amendment: Word in reg. 21D(1)(b) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [21(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/21/b)
 
-[^key-04e0772c66c4c3b4a179c940c8ecfe31]: Textual amendment: Reg. 21D(7) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/21/c)
+[^c-04e0772c66c4c3b4a179c940c8ecfe31]: Textual amendment: Reg. 21D(7) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [21(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/21/c)
 
-[^key-3e24dc9763f8c59f04b0d8c113b126fa]: Commencement: Reg. 22 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-3e24dc9763f8c59f04b0d8c113b126fa]: Commencement: Reg. 22 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-5d24782026d3fcccab8c0f4f5dfbfe81]: Textual amendment: Words in reg. 22(1)(a)(i) substituted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-5d24782026d3fcccab8c0f4f5dfbfe81]: Textual amendment: Words in reg. 22(1)(a)(i) substituted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-de2fd9f1809846c925bd787bf4517838]: Textual amendment: Words in reg. 22(1)(a)(i) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/a)
+[^c-de2fd9f1809846c925bd787bf4517838]: Textual amendment: Words in reg. 22(1)(a)(i) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/a)
 
-[^key-350ab3cc2863ad0da877a8a80b96827f]: Textual amendment: Reg. 22(2)(ca) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-350ab3cc2863ad0da877a8a80b96827f]: Textual amendment: Reg. 22(2)(ca) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-43e24b190ff7d3a1bf74658dd0c27c21]: Textual amendment: Reg. 22(2)(cb) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/a)
+[^c-43e24b190ff7d3a1bf74658dd0c27c21]: Textual amendment: Reg. 22(2)(cb) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/a)
 
-[^key-b447d894c6ccb7665485511dc9edab79]: Textual amendment: Reg. 22(2)(cc) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/b)
+[^c-b447d894c6ccb7665485511dc9edab79]: Textual amendment: Reg. 22(2)(cc) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/b)
 
-[^key-13a006a97ef3c5df593036958c567b48]: Textual amendment: Words in reg. 22(2)(d) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/c)
+[^c-13a006a97ef3c5df593036958c567b48]: Textual amendment: Words in reg. 22(2)(d) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/c)
 
-[^key-34a79ca9889948f58bddd74c050eefd3]: Textual amendment: Reg. 22(2)(da) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/d)
+[^c-34a79ca9889948f58bddd74c050eefd3]: Textual amendment: Reg. 22(2)(da) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/d)
 
-[^key-0149580d0e9b34c4a2ee452561f59756]: Textual amendment: Words in reg. 22(2)(e) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/b)
+[^c-0149580d0e9b34c4a2ee452561f59756]: Textual amendment: Words in reg. 22(2)(e) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/b)
 
-[^key-139bce6752f47477d6da61a7c9d8e80f]: Textual amendment: Reg. 22(2)(ea) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-139bce6752f47477d6da61a7c9d8e80f]: Textual amendment: Reg. 22(2)(ea) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/6/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-d68a5eece46d076aeb2ca514d99202c5]: Textual amendment: Words in reg. 22(2)(ea) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/e)
+[^c-d68a5eece46d076aeb2ca514d99202c5]: Textual amendment: Words in reg. 22(2)(ea) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(e)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/e)
 
-[^key-cff06ebbaf7cc6f65344e843c166c970]: Textual amendment: Words in reg. 22(2)(f) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/f)
+[^c-cff06ebbaf7cc6f65344e843c166c970]: Textual amendment: Words in reg. 22(2)(f) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/f)
 
-[^key-d4c2925fe96555714625b44bb7c95584]: Textual amendment: Reg. 22(2)(fa) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-d4c2925fe96555714625b44bb7c95584]: Textual amendment: Reg. 22(2)(fa) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/6/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-ebd0f703acf167b2684068dfb8a40fb6]: Textual amendment: Words in reg. 22(2)(fa) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(g)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/g)
+[^c-ebd0f703acf167b2684068dfb8a40fb6]: Textual amendment: Words in reg. 22(2)(fa) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(g)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/g)
 
-[^key-337af8271da864b3844db12f8cc5db4b]: Textual amendment: Reg. 22(2)(fb) inserted (6.4.2018) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3), [13(2)(c)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/c) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-337af8271da864b3844db12f8cc5db4b]: Textual amendment: Reg. 22(2)(fb) inserted (6.4.2018) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3), [13(2)(c)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/c) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-c0e1f4db63cb08aa3773103b99610bb4]: Textual amendment: Word in reg. 22(2)(g) omitted (21.12.2017) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(d)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/d)
+[^c-c0e1f4db63cb08aa3773103b99610bb4]: Textual amendment: Word in reg. 22(2)(g) omitted (21.12.2017) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(d)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/d)
 
-[^key-31d846d4cd36d7f48953eef408bb90c1]: Textual amendment: Reg. 22(2)(h) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(e)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/e)
+[^c-31d846d4cd36d7f48953eef408bb90c1]: Textual amendment: Reg. 22(2)(h) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(e)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/e)
 
-[^key-6a8ad96ffca3ad84d35c9af720787978]: Textual amendment: Reg. 22(2)(i) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(f)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/f)
+[^c-6a8ad96ffca3ad84d35c9af720787978]: Textual amendment: Reg. 22(2)(i) inserted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(2)(f)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/2/f)
 
-[^key-0e49d4db91818764bbb6a8357ffdb030]: Textual amendment: Words in reg. 22(3)(b) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(h)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/h)
+[^c-0e49d4db91818764bbb6a8357ffdb030]: Textual amendment: Words in reg. 22(3)(b) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(h)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/h)
 
-[^key-9bc5538e024d443814f16469012608af]: Textual amendment: Words in reg. 22(3) Table inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/c)
+[^c-9bc5538e024d443814f16469012608af]: Textual amendment: Words in reg. 22(3) Table inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(c)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/c)
 
-[^key-5d034f41d829817882e2eb4f7f5f8f22]: Textual amendment: Words in reg. 22(3) table inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/i)
+[^c-5d034f41d829817882e2eb4f7f5f8f22]: Textual amendment: Words in reg. 22(3) table inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/i)
 
-[^key-fd013af795c53df73d5f333aadda2c3b]: Textual amendment: Reg. 22(3A)(3B) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(j)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/j)
+[^c-fd013af795c53df73d5f333aadda2c3b]: Textual amendment: Reg. 22(3A)(3B) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(j)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/j)
 
-[^key-07f6ca360320513455e0232b39c971df]: Textual amendment: Word in reg. 22(4)(a) substituted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(d)(i)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/d/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-07f6ca360320513455e0232b39c971df]: Textual amendment: Word in reg. 22(4)(a) substituted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(d)(i)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/d/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-4c9b5497fe4a4ee004000cb1fd697f97]: Textual amendment: Words in reg. 22(4)(a) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(d)(ii)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/d/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-4c9b5497fe4a4ee004000cb1fd697f97]: Textual amendment: Words in reg. 22(4)(a) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(d)(ii)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/d/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-3f4e4ce9627fab889615923cc89cc19b]: Textual amendment: Word in reg. 22(4)(a) substituted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(d)(iii)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/d/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-3f4e4ce9627fab889615923cc89cc19b]: Textual amendment: Word in reg. 22(4)(a) substituted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(d)(iii)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/d/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-f424b639380a67f18b48fdfa964133a3]: Textual amendment: Reg. 22(4)(aa) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(k)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/k)
+[^c-f424b639380a67f18b48fdfa964133a3]: Textual amendment: Reg. 22(4)(aa) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(k)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/k)
 
-[^key-40f2bb39c790eadc66ac125799c683c8]: Textual amendment: Word in reg. 22(4)(b) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(e)(i)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/e/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-40f2bb39c790eadc66ac125799c683c8]: Textual amendment: Word in reg. 22(4)(b) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(e)(i)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/e/i) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-818156c0f9093542feac5cc17c299d95]: Textual amendment: Words in reg. 22(4)(b) substituted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(e)(ii)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/e/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-818156c0f9093542feac5cc17c299d95]: Textual amendment: Words in reg. 22(4)(b) substituted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(e)(ii)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/e/ii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-b17579b3390a95ef64d95d503ded7645]: Textual amendment: Word in reg. 22(4)(b) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(e)(iii)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/e/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-b17579b3390a95ef64d95d503ded7645]: Textual amendment: Word in reg. 22(4)(b) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(e)(iii)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/e/iii) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-3692df9207010b12319bb387dc279004]: Textual amendment: Reg. 22(4A) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(f)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/f) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-3692df9207010b12319bb387dc279004]: Textual amendment: Reg. 22(4A) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(f)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/f) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
 [^f00010]: Footnote: [S.I. 2007/3104](https://www.legislation.gov.uk/uksi/2007/3104) as amended by [S.I. 2010/2743](https://www.legislation.gov.uk/uksi/2010/2743).
 
-[^key-2a23db710101b4ad801aeb9beec9698e]: Textual amendment: Reg. 22(10A)(10B) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(g)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/g) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
+[^c-2a23db710101b4ad801aeb9beec9698e]: Textual amendment: Reg. 22(10A)(10B) inserted (12.4.2015) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2015 (S.I. 2015/531)](https://www.legislation.gov.uk/uksi/2015/531), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/1), [7(g)](https://www.legislation.gov.uk/uksi/2015/531/regulation/7/g) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/531/regulation/1/2))
 
-[^key-fd6d2cbd2a6b71266180bddd9c935c9a]: Textual amendment: Words in reg. 22(11) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(l)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/l)
+[^c-fd6d2cbd2a6b71266180bddd9c935c9a]: Textual amendment: Words in reg. 22(11) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(l)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/l)
 
-[^key-32a188aa3bf652bdcb6091fccce44ad0]: Textual amendment: Words in reg. 22(11) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/3)
+[^c-32a188aa3bf652bdcb6091fccce44ad0]: Textual amendment: Words in reg. 22(11) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/3)
 
-[^key-6024adaa13af906e10e65f1313957ae3]: Textual amendment: Sum in reg. 22(12)(a) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/4/a)
+[^c-6024adaa13af906e10e65f1313957ae3]: Textual amendment: Sum in reg. 22(12)(a) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(4)(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/4/a)
 
-[^key-4f15c85d4da197e20476d5f6c015d3b1]: Textual amendment: Sum in reg. 22(12)(b) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(4)(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/4/b)
+[^c-4f15c85d4da197e20476d5f6c015d3b1]: Textual amendment: Sum in reg. 22(12)(b) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(4)(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/4/b)
 
-[^key-53fb81d838d29c07297aef71c1f6fbd7]: Textual amendment: Sum in reg. 22(12)(c) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(4)(c)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/4/c)
+[^c-53fb81d838d29c07297aef71c1f6fbd7]: Textual amendment: Sum in reg. 22(12)(c) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [13(4)(c)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/4/c)
 
-[^key-daa1d4f76fba538d898a1170520031ed]: Textual amendment: Words in reg. 22(14) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(m)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/m)
+[^c-daa1d4f76fba538d898a1170520031ed]: Textual amendment: Words in reg. 22(14) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [22(m)](https://www.legislation.gov.uk/uksi/2022/526/regulation/22/m)
 
-[^key-4cb84ec5202df2e24905ce5fa376300a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/1868/regulation/23) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-4cb84ec5202df2e24905ce5fa376300a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2012/1868/regulation/23) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-bea613ee16025337b1e23d3b1e021116]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/1868/regulation/24) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-bea613ee16025337b1e23d3b1e021116]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2012/1868/regulation/24) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
 [^f00011]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Section 100 was substituted by section 167 of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26) and relevantly amended by sections 315 and 319 of the Finance Act 2004.
 
-[^key-6ce615ea55435e75b56f2fd72cadde7b]: Commencement: Reg. 25 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-6ce615ea55435e75b56f2fd72cadde7b]: Commencement: Reg. 25 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-ea185d632ad237927491bfc5ba84432f]: Textual amendment: Words in reg. 25(3)(b) substituted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/7/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-ea185d632ad237927491bfc5ba84432f]: Textual amendment: Words in reg. 25(3)(b) substituted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/7/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-419437019cedd32d11a892530b4ca02f]: Textual amendment: Words in reg. 25(6) substituted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-419437019cedd32d11a892530b4ca02f]: Textual amendment: Words in reg. 25(6) substituted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/7/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-b1ebab8f0d7bafca0db84805ec42a7e1]: Commencement: Reg. 26 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-b1ebab8f0d7bafca0db84805ec42a7e1]: Commencement: Reg. 26 in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-e5511c9a9438852c5c5b47993491d9ab]: Textual amendment: Word in reg. 26(1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(a)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/a/i)
+[^c-e5511c9a9438852c5c5b47993491d9ab]: Textual amendment: Word in reg. 26(1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(a)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/a/i)
 
-[^key-659759b8770ccbc44870614a6166766d]: Textual amendment: Words in reg. 26(1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(a)(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/a/ii)
+[^c-659759b8770ccbc44870614a6166766d]: Textual amendment: Words in reg. 26(1) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(a)(ii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/a/ii)
 
-[^key-e5fdd44d60e261d3ec5d0cfe9163dbc9]: Textual amendment: Reg. 26(2)(aa) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/2600/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-e5fdd44d60e261d3ec5d0cfe9163dbc9]: Textual amendment: Reg. 26(2)(aa) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2013/2600/regulation/8) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-59a1c72a7989602b8cabc823e9a21895]: Textual amendment: Words in reg. 26(3)(b) substituted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/2600/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-59a1c72a7989602b8cabc823e9a21895]: Textual amendment: Words in reg. 26(3)(b) substituted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2013/2600/regulation/9) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-4dbcc6031f74cfc4cf92d4a7670756f1]: Textual amendment: Words in reg. 26(3)(c) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2013/2600/regulation/10) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-4dbcc6031f74cfc4cf92d4a7670756f1]: Textual amendment: Words in reg. 26(3)(c) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2013/2600/regulation/10) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-5b2364eda1dd38a51180ef54a7fdca6a]: Textual amendment: Reg. 26(4)(a) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/b)
+[^c-5b2364eda1dd38a51180ef54a7fdca6a]: Textual amendment: Reg. 26(4)(a) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/b)
 
-[^key-1ff6b55653e90f8103f4fa7a1c430cad]: Textual amendment: Reg. 26(5) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/c)
+[^c-1ff6b55653e90f8103f4fa7a1c430cad]: Textual amendment: Reg. 26(5) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(c)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/c)
 
-[^key-29bf1a0d426ee9c594130b44ca5c1793]: Textual amendment: Reg. 26(6) omitted (21.12.2017) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/14/a) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-29bf1a0d426ee9c594130b44ca5c1793]: Textual amendment: Reg. 26(6) omitted (21.12.2017) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/14/a) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-4d970eb25bdba19d0442b6fecba051fc]: Textual amendment: Reg. 26(6A) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/d)
+[^c-4d970eb25bdba19d0442b6fecba051fc]: Textual amendment: Reg. 26(6A) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(d)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/d)
 
-[^key-ea97a16c334a5af8f333d9c7a3493961]: Textual amendment: Words in reg. 26(8) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/i)
+[^c-ea97a16c334a5af8f333d9c7a3493961]: Textual amendment: Words in reg. 26(8) substituted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/i)
 
-[^key-a6ea49c19e82df6dc767e44b31537683]: Textual amendment: Words in reg. 26(8) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/ii/aa)
+[^c-a6ea49c19e82df6dc767e44b31537683]: Textual amendment: Words in reg. 26(8) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/ii/aa)
 
-[^key-fac94481f07faa1cb391fdd4b5aa19b7]: Textual amendment: Words in reg. 26(8) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/ii/bb)
+[^c-fac94481f07faa1cb391fdd4b5aa19b7]: Textual amendment: Words in reg. 26(8) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/ii/bb)
 
-[^key-13b13090185b0ed9e81bfd8a1e7fc1af]: Textual amendment: Words in reg. 26(8) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/14/b) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
+[^c-13b13090185b0ed9e81bfd8a1e7fc1af]: Textual amendment: Words in reg. 26(8) substituted (21.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017 (S.I. 2017/1174)](https://www.legislation.gov.uk/uksi/2017/1174), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/14/b) (as amended by [S.I. 2017/1308](https://www.legislation.gov.uk/uksi/2017/1308), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3))
 
-[^key-8d5ab2edf888fc87d79e4893f3fc9d60]: Textual amendment: Words in reg. 26(8) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(iii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/iii)
+[^c-8d5ab2edf888fc87d79e4893f3fc9d60]: Textual amendment: Words in reg. 26(8) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(iii)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/iii)
 
-[^key-86485eb4aeaacdae4131617735085862]: Textual amendment: Words in reg. 26(8) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(iv)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/iv)
+[^c-86485eb4aeaacdae4131617735085862]: Textual amendment: Words in reg. 26(8) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(e)(iv)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/e/iv)
 
-[^key-737c5c802b9d95661ee368ca51012d63]: Textual amendment: Reg. 26(9A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/f)
+[^c-737c5c802b9d95661ee368ca51012d63]: Textual amendment: Reg. 26(9A) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(f)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/f)
 
-[^key-1386cda675ffe887b0ea683e60255ab4]: Textual amendment: Reg. 26(10) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(g)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/g)
+[^c-1386cda675ffe887b0ea683e60255ab4]: Textual amendment: Reg. 26(10) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(g)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/g)
 
-[^key-238d4ff25b9f79626cfe6d22bed75e0c]: Textual amendment: Reg. 26(10A) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2013/2600/regulation/12) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
+[^c-238d4ff25b9f79626cfe6d22bed75e0c]: Textual amendment: Reg. 26(10A) inserted (4.11.2013) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2013 (S.I. 2013/2600)](https://www.legislation.gov.uk/uksi/2013/2600), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2013/2600/regulation/12) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/2600/regulation/1/2))
 
-[^key-4b561206aca88769c2bc93cbd079e8d5]: Textual amendment: Reg. 26(10B) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(h)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/h)
+[^c-4b561206aca88769c2bc93cbd079e8d5]: Textual amendment: Reg. 26(10B) inserted (1.6.2022) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(h)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/h)
 
-[^key-8d9dba06bae09bd6c08a27d256bc0c9f]: Textual amendment: Reg. 26(11) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/i)
+[^c-8d9dba06bae09bd6c08a27d256bc0c9f]: Textual amendment: Reg. 26(11) omitted (1.6.2022) by virtue of [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2022 (S.I. 2022/526)](https://www.legislation.gov.uk/uksi/2022/526), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/526/regulation/1/2), [23(i)](https://www.legislation.gov.uk/uksi/2022/526/regulation/23/i)
 
-[^key-cc32108162dc56ed3972b35439f19acb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2012/1868/regulation/27) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-cc32108162dc56ed3972b35439f19acb]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2012/1868/regulation/27) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-3b927f3c879d92f945057b32eaf7182b]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/1868/regulation/28) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-3b927f3c879d92f945057b32eaf7182b]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2012/1868/regulation/28) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
-[^key-8a7a1e85698a162915bba0426b970e13]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/1868/regulation/29) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
+[^c-8a7a1e85698a162915bba0426b970e13]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2012/1868/regulation/29) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1868/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2007/785](https://www.legislation.gov.uk/uksi/2007/785).
 

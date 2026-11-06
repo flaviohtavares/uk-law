@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73.10A. Further consideration of the application where interim charging order was made other than at the Civil National Business Centre, or has been transferred out of that Centre under rule 73.4(6)[^key-fdbca829a1eadd8b270e2bd2b8a32cf5][^key-2c19800aed515831ce1f85e551322f5f][^key-e05fb7d8bb69f6a3aa3eecde7cbfd867]
+## 73.10A. Further consideration of the application where interim charging order was made other than at the Civil National Business Centre, or has been transferred out of that Centre under rule 73.4(6)[^c-fdbca829a1eadd8b270e2bd2b8a32cf5][^c-2c19800aed515831ce1f85e551322f5f][^c-e05fb7d8bb69f6a3aa3eecde7cbfd867]
 
 *Extent: E+W*
 
-(1) This rule applies where an interim charging order was made other than at the Civil National Business Centre[^key-d86424d81758af926a28cd13912c43de] or has been transferred out of that Centre under rule 73.4(6).
+(1) This rule applies where an interim charging order was made other than at the Civil National Business Centre[^c-d86424d81758af926a28cd13912c43de] or has been transferred out of that Centre under rule 73.4(6).
 
 (2) If any person objects to the court making a final charging order, that person must—
 
@@ -45,10 +45,10 @@ written evidence stating the grounds of objection, not less than 7 days before t
 
 ## Annotations
 
-[^key-fdbca829a1eadd8b270e2bd2b8a32cf5]: Textual amendment: Rules 73.1-73.10C substituted for rules 73.1-73.10 (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [14](https://www.legislation.gov.uk/uksi/2016/234/rule/14), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/234/schedule/1) (with [rule 24](https://www.legislation.gov.uk/uksi/2016/234/rule/24))
+[^c-fdbca829a1eadd8b270e2bd2b8a32cf5]: Textual amendment: Rules 73.1-73.10C substituted for rules 73.1-73.10 (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [14](https://www.legislation.gov.uk/uksi/2016/234/rule/14), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/234/schedule/1) (with [rule 24](https://www.legislation.gov.uk/uksi/2016/234/rule/24))
 
-[^key-2c19800aed515831ce1f85e551322f5f]: Textual amendment: Pt. 73 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2792/schedule/4) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))
+[^c-2c19800aed515831ce1f85e551322f5f]: Textual amendment: Pt. 73 inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 4](https://www.legislation.gov.uk/uksi/2001/2792/schedule/4) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))
 
-[^key-e05fb7d8bb69f6a3aa3eecde7cbfd867]: Textual amendment: Words in [rule 73.10A](https://www.legislation.gov.uk/uksi/1998/3132/part/73/crossheading/section1chargingorders) heading substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [31(g)](https://www.legislation.gov.uk/uksi/2023/788/rule/31/g)
+[^c-e05fb7d8bb69f6a3aa3eecde7cbfd867]: Textual amendment: Words in [rule 73.10A](https://www.legislation.gov.uk/uksi/1998/3132/part/73/crossheading/section1chargingorders) heading substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [31(g)](https://www.legislation.gov.uk/uksi/2023/788/rule/31/g)
 
-[^key-d86424d81758af926a28cd13912c43de]: Textual amendment: Words in [rule 73.10A(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/73.10A/1) substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [31(g)](https://www.legislation.gov.uk/uksi/2023/788/rule/31/g)
+[^c-d86424d81758af926a28cd13912c43de]: Textual amendment: Words in [rule 73.10A(1)](https://www.legislation.gov.uk/uksi/1998/3132/rule/73.10A/1) substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [31(g)](https://www.legislation.gov.uk/uksi/2023/788/rule/31/g)

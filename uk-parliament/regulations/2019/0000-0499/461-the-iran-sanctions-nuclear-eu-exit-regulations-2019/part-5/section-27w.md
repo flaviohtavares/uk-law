@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27W. Interpretation of Chapter 2[^key-dcdeec71d3640a94ca12bb1907393047]
+## 27W. Interpretation of Chapter 2[^c-dcdeec71d3640a94ca12bb1907393047]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-dcdeec71d3640a94ca12bb1907393047]: Textual amendment: [Reg. 27W](https://www.legislation.gov.uk/uksi/2019/461/regulation/27W) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(g)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/g)
+[^c-dcdeec71d3640a94ca12bb1907393047]: Textual amendment: [Reg. 27W](https://www.legislation.gov.uk/uksi/2019/461/regulation/27W) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [7(g)](https://www.legislation.gov.uk/uksi/2026/983/regulation/7/g)

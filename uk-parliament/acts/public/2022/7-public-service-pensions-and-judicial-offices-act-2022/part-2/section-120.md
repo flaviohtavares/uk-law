@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Interpretation[^key-5c29fc94a783e3af7dbe430eaff4b430]
+## 120. Interpretation[^c-5c29fc94a783e3af7dbe430eaff4b430]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In this Part—
 
 ## Annotations
 
-[^key-5c29fc94a783e3af7dbe430eaff4b430]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2022/7/section/120) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)
+[^c-5c29fc94a783e3af7dbe430eaff4b430]: Commencement: [S. 120](https://www.legislation.gov.uk/ukpga/2022/7/section/120) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)

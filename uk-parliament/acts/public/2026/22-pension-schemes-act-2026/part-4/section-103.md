@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Validity of certain alterations to GB salary-related contracted-out pension schemes: wound up schemes and other special cases[^key-48b7a859a835b0b1226bcfdad5e268eb]
+## 103. Validity of certain alterations to GB salary-related contracted-out pension schemes: wound up schemes and other special cases[^c-48b7a859a835b0b1226bcfdad5e268eb]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48b7a859a835b0b1226bcfdad5e268eb]: Commencement: S. 103 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)
+[^c-48b7a859a835b0b1226bcfdad5e268eb]: Commencement: S. 103 in force at Royal Assent, see [s. 133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8)

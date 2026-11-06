@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Amendment and saving of the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^key-0088e1c18c704b4b067b36c810fe1e6f][^M_I_4c01b679-0848-4009-83d5-7cbdb3fe95a4]
+## 39. Amendment and saving of the Tribunal Procedure (First-tier Tribunal) (Immigration and Asylum Chamber) Rules 2014[^c-0088e1c18c704b4b067b36c810fe1e6f][^M_I_4c01b679-0848-4009-83d5-7cbdb3fe95a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0088e1c18c704b4b067b36c810fe1e6f]: Commencement: Reg. 39 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-0088e1c18c704b4b067b36c810fe1e6f]: Commencement: Reg. 39 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_4c01b679-0848-4009-83d5-7cbdb3fe95a4]: Commencement: Reg. 39 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

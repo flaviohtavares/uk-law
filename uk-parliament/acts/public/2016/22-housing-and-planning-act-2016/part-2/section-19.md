@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Power to require information[^key-b2c5e38e7d00d72357456d15dc0715b1]
+## 19. Power to require information[^c-b2c5e38e7d00d72357456d15dc0715b1]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2c5e38e7d00d72357456d15dc0715b1]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2016/22/section/19) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-b2c5e38e7d00d72357456d15dc0715b1]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2016/22/section/19) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Modification on application of licence holder.[^key-65594171100140e39f86a5ddfa731a51]
+## 51. Modification on application of licence holder.[^c-65594171100140e39f86a5ddfa731a51]
 
 *Extent: E+W*
 
-(1) The holder of a licence under this Chapter to abstract water[^key-5e9e11e171d26e4a27b82d1d693b27de] may apply to the appropriate agency[^key-feb9e02de4ec13e0b497e553af5f10ab] to revoke the licence and, on any such application, the appropriate agency shall revoke the licence accordingly.
+(1) The holder of a licence under this Chapter to abstract water[^c-5e9e11e171d26e4a27b82d1d693b27de] may apply to the appropriate agency[^c-feb9e02de4ec13e0b497e553af5f10ab] to revoke the licence and, on any such application, the appropriate agency shall revoke the licence accordingly.
 
-(1A)[^key-26c2e2d38f97e9ec16d91c3a7c88b076] The holder of a licence under this Chapter to obstruct or impede the flow of inland waters (an “impounding licence”) may apply to the appropriate agency to revoke the licence and, on any such application, the appropriate agency may revoke the licence accordingly.
+(1A)[^c-26c2e2d38f97e9ec16d91c3a7c88b076] The holder of a licence under this Chapter to obstruct or impede the flow of inland waters (an “impounding licence”) may apply to the appropriate agency to revoke the licence and, on any such application, the appropriate agency may revoke the licence accordingly.
 
 (1B) The appropriate agency may require conditions to be met to its satisfaction before revocation of the impounding licence takes effect, and those conditions may in particular include conditions—
 
@@ -54,7 +54,7 @@ summary: ''
 
 (2) The holder of a licence under this Chapter may apply to the appropriate agency to vary the licence.
 
-(2A)[^key-f78c750e42dbe550fc882d7bea1f9a29] An application may not be made under subsection (2) above to convert an abstraction licence of one type into an abstraction licence of a different type.
+(2A)[^c-f78c750e42dbe550fc882d7bea1f9a29] An application may not be made under subsection (2) above to convert an abstraction licence of one type into an abstraction licence of a different type.
 
 (3) Subject to subsection (4) below, the provisions of sections 37 to 44 above shall apply (with the necessary modifications) to applications under subsection (2) above, and to the variation of licences in pursuance of such applications, as they apply to applications for, and the grant of, licences under this Chapter.
 
@@ -65,12 +65,12 @@ summary: ''
 
 ## Annotations
 
-[^key-65594171100140e39f86a5ddfa731a51]: Modification: S. 51 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2006/641/regulation/18)
+[^c-65594171100140e39f86a5ddfa731a51]: Modification: S. 51 applied (with modifications) (1.4.2006) by [Water Resources (Abstraction and Impounding) Regulations 2006 (S.I. 2006/641)](https://www.legislation.gov.uk/uksi/2006/641), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/641/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2006/641/regulation/18)
 
-[^key-5e9e11e171d26e4a27b82d1d693b27de]: Textual amendment: Words in s. 51(1) inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/21/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 21(5)](https://www.legislation.gov.uk/ukpga/2003/37/section/21/5)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(k)](https://www.legislation.gov.uk/uksi/2006/984/article/2/k)
+[^c-5e9e11e171d26e4a27b82d1d693b27de]: Textual amendment: Words in s. 51(1) inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/21/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 21(5)](https://www.legislation.gov.uk/ukpga/2003/37/section/21/5)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(k)](https://www.legislation.gov.uk/uksi/2006/984/article/2/k)
 
-[^key-feb9e02de4ec13e0b497e553af5f10ab]: Textual amendment: Words in [s. 51](https://www.legislation.gov.uk/ukpga/1991/57/section/51) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-feb9e02de4ec13e0b497e553af5f10ab]: Textual amendment: Words in [s. 51](https://www.legislation.gov.uk/ukpga/1991/57/section/51) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-26c2e2d38f97e9ec16d91c3a7c88b076]: Textual amendment: S. 51(1A)-(1G) inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/21/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 21(5)](https://www.legislation.gov.uk/ukpga/2003/37/section/21/5)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(k)](https://www.legislation.gov.uk/uksi/2006/984/article/2/k)
+[^c-26c2e2d38f97e9ec16d91c3a7c88b076]: Textual amendment: S. 51(1A)-(1G) inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/21/3), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3) (with [s. 21(5)](https://www.legislation.gov.uk/ukpga/2003/37/section/21/5)); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(k)](https://www.legislation.gov.uk/uksi/2006/984/article/2/k)
 
-[^key-f78c750e42dbe550fc882d7bea1f9a29]: Textual amendment: S. 51(2A) inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/4); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(s)(i)](https://www.legislation.gov.uk/uksi/2006/984/article/2/s/i)
+[^c-f78c750e42dbe550fc882d7bea1f9a29]: Textual amendment: S. 51(2A) inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/4); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(s)(i)](https://www.legislation.gov.uk/uksi/2006/984/article/2/s/i)

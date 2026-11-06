@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Information to be provided to the Welsh Ministers[^key-6643a6d50f4f1d90340fdb7b9838563d]
+## 134. Information to be provided to the Welsh Ministers[^c-6643a6d50f4f1d90340fdb7b9838563d]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6643a6d50f4f1d90340fdb7b9838563d]: Commencement: Reg. 134 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-6643a6d50f4f1d90340fdb7b9838563d]: Commencement: Reg. 134 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

@@ -51,7 +51,7 @@ But this is subject to section 3 (exemptions from the cap).
 
 (3) The “standard supply licence conditions” are the standard conditions incorporated in supply licences by virtue of section 8 of the Gas Act 1986 or section 8A of the Electricity Act 1989.
 
-(3A)[^key-814cc96c72bed841ea84c91bc94b3b14] If tariff cap conditions cease to have effect by virtue of section 8 in the case of supply licences for the supply of gas but continue to have effect in the case of supply licences for the supply of electricity, or vice versa, the reference in subsection (2)(b) to the standard supply licence conditions is to be construed accordingly.
+(3A)[^c-814cc96c72bed841ea84c91bc94b3b14] If tariff cap conditions cease to have effect by virtue of section 8 in the case of supply licences for the supply of gas but continue to have effect in the case of supply licences for the supply of electricity, or vice versa, the reference in subsection (2)(b) to the standard supply licence conditions is to be construed accordingly.
 
 (4) In relation to a domestic supply contract—
 
@@ -66,9 +66,9 @@ But this is subject to section 3 (exemptions from the cap).
 - (b) the need to set the cap at a level that enables holders of supply licences to compete effectively for domestic supply contracts;
 - (c) the need to maintain incentives for domestic customers to switch to different domestic supply contracts;
 - (d) the need to ensure that holders of supply licences who operate efficiently are able to finance activities authorised by the licence;
-- (e)[^key-721234df73b69556dbeef08d33a58660] the need to set the cap at a level that takes account of the impact of the cap on public spending.
+- (e)[^c-721234df73b69556dbeef08d33a58660] the need to set the cap at a level that takes account of the impact of the cap on public spending.
 
-(6A)[^key-db24e43c098e2e32b99fe897ee81629e] In performing the duty under subsection (6)(e), the Authority must have regard to any information provided to it by the Secretary of State, or any guidance given by the Secretary of State, in relation to the matter mentioned in that provision.
+(6A)[^c-db24e43c098e2e32b99fe897ee81629e] In performing the duty under subsection (6)(e), the Authority must have regard to any information provided to it by the Secretary of State, or any guidance given by the Secretary of State, in relation to the matter mentioned in that provision.
 
 (7) Nothing in this section is to be read as requiring the cap imposed on a standard variable or default rate to apply in relation to any charge that—
 
@@ -138,7 +138,7 @@ But this is subject to section 3 (exemptions from the cap).
 - (a) each holder of a supply licence,
 - (b) the Secretary of State,
 - (c) Citizens Advice, and
-- (d) Consumer Scotland[^key-536c5ccb86ea314df7dc9aa85b9b770a].
+- (d) Consumer Scotland[^c-536c5ccb86ea314df7dc9aa85b9b770a].
 
 (5) The Authority must consider any representations which are made before the end of the period specified in the notice.
 
@@ -157,9 +157,9 @@ But this is subject to section 3 (exemptions from the cap).
 
 (3) Each modification has effect from the day specified by the Authority in relation to it.
 
-(4) That day must be after the end of the period of 25 working days[^key-e5cedb40cfe55a57720dfad90dca24fa] beginning with the day on which the modification is published.
+(4) That day must be after the end of the period of 25 working days[^c-e5cedb40cfe55a57720dfad90dca24fa] beginning with the day on which the modification is published.
 
-(5)[^key-408daacf71abbd14f87a1981e9ee0fcd] In subsection (4), “**working day**” means a day other than—
+(5)[^c-408daacf71abbd14f87a1981e9ee0fcd] In subsection (4), “**working day**” means a day other than—
 
 - (a) Saturday or Sunday,
 - (b) Christmas Day or Good Friday, or
@@ -171,20 +171,20 @@ But this is subject to section 3 (exemptions from the cap).
 
 (1) The Authority must, at least once every 6 months while tariff cap conditions have effect, review the level at which the cap is set.
 
-(1A)[^key-a8d444022525a950e2d644351c040c12] As soon as practicable after carrying out a review under subsection (1), the Authority must—
+(1A)[^c-a8d444022525a950e2d644351c040c12] As soon as practicable after carrying out a review under subsection (1), the Authority must—
 
 - (a) produce a statement stating whether, in consequence of the review, the Authority proposes to change the level at which the cap is set, and
 - (b) send a copy of the statement to the Secretary of State.
 
 (1B) The Authority must publish a statement under subsection (1A) as soon as practicable after complying with that subsection.
 
-(2)[^key-317954c1f3b3ce6eb9028cddf9155fba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-317954c1f3b3ce6eb9028cddf9155fba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Review of competition for domestic supply contracts[^key-e8bea9e65898070db5a27c1fae3aa9ce]
+### 7. Review of competition for domestic supply contracts[^c-e8bea9e65898070db5a27c1fae3aa9ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Termination of tariff cap conditions[^key-63ac20c0faa214549cd5f06a69f33a43]
+### 8. Termination of tariff cap conditions[^c-63ac20c0faa214549cd5f06a69f33a43]
 
 (1) The Secretary of State may at any time give a notice that tariff cap conditions are to cease to have effect in the case of—
 
@@ -211,7 +211,7 @@ But this is subject to section 3 (exemptions from the cap).
 
 ### 9. Protection for domestic customers after termination of tariff cap conditions
 
-(1) The Authority must, at such intervals as it considers appropriate,[^key-cc38b039812080490caa9db43984084e] carry out a review into—
+(1) The Authority must, at such intervals as it considers appropriate,[^c-cc38b039812080490caa9db43984084e] carry out a review into—
 
 - (a) the pricing practices of holders of supply licences for the supply of gas and electricity under domestic supply contracts, and
 - (b) whether there are categories of domestic customers paying, or who may in the future pay, standard variable and default rates for whom protection against excessive charges should be provided.
@@ -227,18 +227,18 @@ But this is subject to section 3 (exemptions from the cap).
 
 ### 10. Consequential modification of standard supply licence conditions
 
-(1) The Authority may make such modifications of any standard supply licence conditions as it considers necessary or expedient in consequence of the tariff cap conditions ceasing to have effect , in the case of all supply licences,[^key-503c9b3cb20268de5a01f15b34f1503e] as provided by section 8.
+(1) The Authority may make such modifications of any standard supply licence conditions as it considers necessary or expedient in consequence of the tariff cap conditions ceasing to have effect , in the case of all supply licences,[^c-503c9b3cb20268de5a01f15b34f1503e] as provided by section 8.
 
-(1A)[^key-ec49acd05019a79dc65e2fe30602c43e] The Authority may make such modifications of any standard conditions incorporated in supply licences by virtue of section 8 of the Gas Act 1986 as it considers necessary or expedient in consequence of tariff cap conditions ceasing to have effect as provided by section 8 in the case only of supply licences for the supply of gas.
+(1A)[^c-ec49acd05019a79dc65e2fe30602c43e] The Authority may make such modifications of any standard conditions incorporated in supply licences by virtue of section 8 of the Gas Act 1986 as it considers necessary or expedient in consequence of tariff cap conditions ceasing to have effect as provided by section 8 in the case only of supply licences for the supply of gas.
 
 (1B) The Authority may make such modifications of any standard conditions incorporated in supply licences by virtue of section 8A of the Electricity Act 1989 as it considers necessary or expedient in consequence of tariff cap conditions ceasing to have effect as provided by section 8 in the case only of supply licences for the supply of electricity.
 
 (2) The Authority must—
 
-- (a) publish modifications made under this section[^key-663c51e360c57f0026788711b5303319] in such manner as it considers appropriate for the purpose of bringing them to the attention of persons likely to be affected by them, and
+- (a) publish modifications made under this section[^c-663c51e360c57f0026788711b5303319] in such manner as it considers appropriate for the purpose of bringing them to the attention of persons likely to be affected by them, and
 - (b) state the effect of the modifications.
 
-(3) Each modification made under this section[^key-d6b467582125c72a7529e90621410bee] has effect from the day specified by the Authority in relation to it.
+(3) Each modification made under this section[^c-d6b467582125c72a7529e90621410bee] has effect from the day specified by the Authority in relation to it.
 
 ## Final provisions
 
@@ -246,7 +246,7 @@ But this is subject to section 3 (exemptions from the cap).
 
 (1) The Utilities Act 2000 is amended as follows.
 
-(2)[^key-cf9f7b30cccb153ddb09b650a182ee87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cf9f7b30cccb153ddb09b650a182ee87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 81(2) (standard conditions of gas licences), for “or under section 139 of the Energy Act 2013” substitute “ , under section 139 of the Energy Act 2013 or under section 1 or 10 of the Domestic Gas and Electricity (Tariff Cap) Act 2018 ”.
 
@@ -291,34 +291,34 @@ This Act may be cited as the Domestic Gas and Electricity (Tariff Cap) Act 2018.
 
 ## Annotations
 
-[^key-814cc96c72bed841ea84c91bc94b3b14]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/2018/21/section/1/3A) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/2/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-814cc96c72bed841ea84c91bc94b3b14]: Textual amendment: [S. 1(3A)](https://www.legislation.gov.uk/ukpga/2018/21/section/1/3A) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/2/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-721234df73b69556dbeef08d33a58660]: Textual amendment: [S. 1(6)(e)](https://www.legislation.gov.uk/ukpga/2018/21/section/1/6/e) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/2/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-721234df73b69556dbeef08d33a58660]: Textual amendment: [S. 1(6)(e)](https://www.legislation.gov.uk/ukpga/2018/21/section/1/6/e) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/2/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-db24e43c098e2e32b99fe897ee81629e]: Textual amendment: [S. 1(6A)](https://www.legislation.gov.uk/ukpga/2018/21/section/1/6A) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/2/4) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-db24e43c098e2e32b99fe897ee81629e]: Textual amendment: [S. 1(6A)](https://www.legislation.gov.uk/ukpga/2018/21/section/1/6A) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 2(4)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/2/4) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-536c5ccb86ea314df7dc9aa85b9b770a]: Textual amendment: Words in [s. 4(4)(d)](https://www.legislation.gov.uk/ukpga/2018/21/section/4/4/d) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/10/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
+[^c-536c5ccb86ea314df7dc9aa85b9b770a]: Textual amendment: Words in [s. 4(4)(d)](https://www.legislation.gov.uk/ukpga/2018/21/section/4/4/d) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 10(2)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/10/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
 
-[^key-e5cedb40cfe55a57720dfad90dca24fa]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/ukpga/2018/21/section/5/4) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/3/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-e5cedb40cfe55a57720dfad90dca24fa]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/ukpga/2018/21/section/5/4) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/3/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-408daacf71abbd14f87a1981e9ee0fcd]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/2018/21/section/5/5) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/3/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-408daacf71abbd14f87a1981e9ee0fcd]: Textual amendment: [S. 5(5)](https://www.legislation.gov.uk/ukpga/2018/21/section/5/5) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 3(3)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/3/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-a8d444022525a950e2d644351c040c12]: Textual amendment: [S. 6(1A)](https://www.legislation.gov.uk/ukpga/2018/21/section/6/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2018/21/section/6/1B) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/4/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-a8d444022525a950e2d644351c040c12]: Textual amendment: [S. 6(1A)](https://www.legislation.gov.uk/ukpga/2018/21/section/6/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2018/21/section/6/1B) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/4/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-317954c1f3b3ce6eb9028cddf9155fba]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2018/21/section/6/2) omitted (25.10.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/4/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-317954c1f3b3ce6eb9028cddf9155fba]: Textual amendment: [S. 6(2)](https://www.legislation.gov.uk/ukpga/2018/21/section/6/2) omitted (25.10.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 4(3)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/4/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-e8bea9e65898070db5a27c1fae3aa9ce]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2018/21/section/7) omitted (25.10.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/9))
+[^c-e8bea9e65898070db5a27c1fae3aa9ce]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2018/21/section/7) omitted (25.10.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/9))
 
-[^key-63ac20c0faa214549cd5f06a69f33a43]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/2018/21/section/8) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/6) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/9))
+[^c-63ac20c0faa214549cd5f06a69f33a43]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/2018/21/section/8) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/6) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/9))
 
-[^key-cc38b039812080490caa9db43984084e]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/2018/21/section/9/1) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/7) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-cc38b039812080490caa9db43984084e]: Textual amendment: Words in [s. 9(1)](https://www.legislation.gov.uk/ukpga/2018/21/section/9/1) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/7) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-503c9b3cb20268de5a01f15b34f1503e]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/1) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/8/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-503c9b3cb20268de5a01f15b34f1503e]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/1) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 8(2)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/8/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-ec49acd05019a79dc65e2fe30602c43e]: Textual amendment: [S. 10(1A)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/1B) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/8/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-ec49acd05019a79dc65e2fe30602c43e]: Textual amendment: [S. 10(1A)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/1B) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 8(3)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/8/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-663c51e360c57f0026788711b5303319]: Textual amendment: Words in [s. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/2/a) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/8/4) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-663c51e360c57f0026788711b5303319]: Textual amendment: Words in [s. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/2/a) substituted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 8(4)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/8/4) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-d6b467582125c72a7529e90621410bee]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/3) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/8/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-d6b467582125c72a7529e90621410bee]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2018/21/section/10/3) inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 3 para. 8(5)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/3/paragraph/8/5) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
-[^key-cf9f7b30cccb153ddb09b650a182ee87]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2018/21/section/11/2) repealed (1.6.2022) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d), [Sch. para. 4(b)](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/4/b)
+[^c-cf9f7b30cccb153ddb09b650a182ee87]: Textual amendment: [S. 11(2)](https://www.legislation.gov.uk/ukpga/2018/21/section/11/2) repealed (1.6.2022) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [s. 44(2)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/2/d), [Sch. para. 4(b)](https://www.legislation.gov.uk/ukpga/2022/15/schedule/paragraph/4/b)

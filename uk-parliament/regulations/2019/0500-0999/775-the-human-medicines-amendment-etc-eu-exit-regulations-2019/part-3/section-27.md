@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendment of regulation 36 (conditions for manufacturer's licence)[^key-7d362e59eb5f9e76d713b5a6f12d2ad4]
+## 27. Amendment of regulation 36 (conditions for manufacturer's licence)[^c-7d362e59eb5f9e76d713b5a6f12d2ad4]
 
 *Extent: E+W+S+N.I.*
 
-In regulation 36 —[^key-21b77183ece1ae66a840cc510f771c9d]
+In regulation 36 —[^c-21b77183ece1ae66a840cc510f771c9d]
 
 (a) in paragraph (4)—.
 
@@ -31,6 +31,6 @@ In regulation 36 —[^key-21b77183ece1ae66a840cc510f771c9d]
 
 ## Annotations
 
-[^key-7d362e59eb5f9e76d713b5a6f12d2ad4]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7d362e59eb5f9e76d713b5a6f12d2ad4]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-21b77183ece1ae66a840cc510f771c9d]: Textual amendment: Reg. 27(a)(b) substituted for words (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/17)
+[^c-21b77183ece1ae66a840cc510f771c9d]: Textual amendment: Reg. 27(a)(b) substituted for words (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/17)

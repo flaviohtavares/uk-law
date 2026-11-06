@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Department to register aircraft in the Isle of Man[^key-343096a45e102f1491605fd150281012]
+## 4. Department to register aircraft in the Isle of Man[^c-343096a45e102f1491605fd150281012]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-343096a45e102f1491605fd150281012]: Textual amendment: [Arts. 4-10](https://www.legislation.gov.uk/uksi/2015/870/article/4) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 3](https://www.legislation.gov.uk/uksi/2022/172/article/3) (with [art. 14](https://www.legislation.gov.uk/uksi/2022/172/article/14)) (as amended (6.4.2022) by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [art. 8](https://www.legislation.gov.uk/uksi/2022/324/article/8))
+[^c-343096a45e102f1491605fd150281012]: Textual amendment: [Arts. 4-10](https://www.legislation.gov.uk/uksi/2015/870/article/4) omitted (coming into force in accordance with art. 1(2) of the amending S.I.) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2022 (S.I. 2022/172)](https://www.legislation.gov.uk/uksi/2022/172), [art. 3](https://www.legislation.gov.uk/uksi/2022/172/article/3) (with [art. 14](https://www.legislation.gov.uk/uksi/2022/172/article/14)) (as amended (6.4.2022) by [S.I. 2022/324](https://www.legislation.gov.uk/uksi/2022/324), [art. 8](https://www.legislation.gov.uk/uksi/2022/324/article/8))

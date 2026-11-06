@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Penalties for offences[^key-34ae2782d25e2b8f3ff35c54e7544cf9]
+## 48. Penalties for offences[^c-34ae2782d25e2b8f3ff35c54e7544cf9]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34ae2782d25e2b8f3ff35c54e7544cf9]: Commencement: S. 48 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-34ae2782d25e2b8f3ff35c54e7544cf9]: Commencement: S. 48 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1.8. Replacement of nominee[^key-ff69bca0a225440f92b28db99e0962ad]
+## 1.8. Replacement of nominee[^c-ff69bca0a225440f92b28db99e0962ad]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ff69bca0a225440f92b28db99e0962ad]: Textual amendment: Rule 1.8 substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/4) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
+[^c-ff69bca0a225440f92b28db99e0962ad]: Textual amendment: Rule 1.8 substituted (1.1.2003) by [The Insolvency (Amendment) (No. 2) Rules 2002 (S.I. 2002/2712)](https://www.legislation.gov.uk/uksi/2002/2712), [rule 1(1)](https://www.legislation.gov.uk/uksi/2002/2712/article/1/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2002/2712/schedule/paragraph/4) (with [rule 3(2)](https://www.legislation.gov.uk/uksi/2002/2712/article/3/2))
 
 [^m00001]: Marginal citation: \[FORM 8.1\]

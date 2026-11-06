@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Officers of councils to be placed at disposal of returning officers[^key-4d30991d8e9f9e78c32b0ef699b6cec2]
+## 19. Officers of councils to be placed at disposal of returning officers[^c-4d30991d8e9f9e78c32b0ef699b6cec2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The council of each county or county borough must place the services of its offi
 
 ## Annotations
 
-[^key-4d30991d8e9f9e78c32b0ef699b6cec2]: Commencement: Art. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-4d30991d8e9f9e78c32b0ef699b6cec2]: Commencement: Art. 19 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

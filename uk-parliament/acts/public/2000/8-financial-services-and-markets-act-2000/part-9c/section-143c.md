@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143C. Duty to make rules applying to FCA investment firms[^key-9f4e0b36e2add78dd4c4675bda68a1c8][^key-bd67ac6625e8b346806ee8e45f8d282f]
+## 143C. Duty to make rules applying to FCA investment firms[^c-9f4e0b36e2add78dd4c4675bda68a1c8][^c-bd67ac6625e8b346806ee8e45f8d282f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,12 +44,12 @@ summary: ''
 - (d) provide for exceptions from requirements;
 - (e) make provision by reference to the capital requirements regulation, to an instrument made under the capital requirements regulation or to Directive 2013/36/EU UK law, as amended from time to time.
 
-(4)[^key-4e332f9161276abe54e4f80884f346f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4e332f9161276abe54e4f80884f346f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f4e0b36e2add78dd4c4675bda68a1c8]: Modification: [S. 143C](https://www.legislation.gov.uk/ukpga/2000/8/section/143C): power to amend conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 67(1)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/67/1/a), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ss)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ss)
+[^c-9f4e0b36e2add78dd4c4675bda68a1c8]: Modification: [S. 143C](https://www.legislation.gov.uk/ukpga/2000/8/section/143C): power to amend conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 67(1)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/67/1/a), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ss)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ss)
 
-[^key-bd67ac6625e8b346806ee8e45f8d282f]: Textual amendment: Pt. 9C inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/paragraph/1); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/b)
+[^c-bd67ac6625e8b346806ee8e45f8d282f]: Textual amendment: Pt. 9C inserted (1.7.2021) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2021/22/schedule/2/paragraph/1); [S.I. 2021/671](https://www.legislation.gov.uk/uksi/2021/671), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2021/671/regulation/4/b)
 
-[^key-4e332f9161276abe54e4f80884f346f3]: Textual amendment: S. 143C(4) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/2/3)
+[^c-4e332f9161276abe54e4f80884f346f3]: Textual amendment: S. 143C(4) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/2/3)

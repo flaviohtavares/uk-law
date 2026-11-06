@@ -32,7 +32,7 @@ summary: ''
 
 Competition
 
-The Competition Appeal Tribunal (Coronavirus) (Recording and Broadcasting) Order 2020 (revoked)[^key-a56e06c756a85fdfba2098584111d12e]
+The Competition Appeal Tribunal (Coronavirus) (Recording and Broadcasting) Order 2020 (revoked)[^c-a56e06c756a85fdfba2098584111d12e]
 
 Made
 
@@ -42,46 +42,46 @@ Coming into force
 
 24th July 2020
 
-[^key-a56e06c756a85fdfba2098584111d12e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a56e06c756a85fdfba2098584111d12e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a56e06c756a85fdfba2098584111d12e]
+## 1. Citation and commencement[^c-a56e06c756a85fdfba2098584111d12e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Definitions[^key-a56e06c756a85fdfba2098584111d12e]
+## 2. Definitions[^c-a56e06c756a85fdfba2098584111d12e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The Tribunal[^key-a56e06c756a85fdfba2098584111d12e]
+## 3. The Tribunal[^c-a56e06c756a85fdfba2098584111d12e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Recording and broadcasting proceedings[^key-a56e06c756a85fdfba2098584111d12e]
+## 4. Recording and broadcasting proceedings[^c-a56e06c756a85fdfba2098584111d12e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Recording[^key-a56e06c756a85fdfba2098584111d12e]
+## 5. Recording[^c-a56e06c756a85fdfba2098584111d12e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-a56e06c756a85fdfba2098584111d12e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-a56e06c756a85fdfba2098584111d12e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-a56e06c756a85fdfba2098584111d12e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-a56e06c756a85fdfba2098584111d12e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Broadcast[^key-a56e06c756a85fdfba2098584111d12e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Expiry[^key-a56e06c756a85fdfba2098584111d12e]
+## 8. Broadcast[^c-a56e06c756a85fdfba2098584111d12e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a56e06c756a85fdfba2098584111d12e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 9. Expiry[^c-a56e06c756a85fdfba2098584111d12e]
 
-[^key-a56e06c756a85fdfba2098584111d12e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a56e06c756a85fdfba2098584111d12e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a56e06c756a85fdfba2098584111d12e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a56e06c756a85fdfba2098584111d12e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/801) revoked (11.2.2022) by [The Competition Appeal Tribunal (Recording and Broadcasting) Order 2022 (S.I. 2022/156)](https://www.legislation.gov.uk/uksi/2022/156), [arts. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1), [10](https://www.legislation.gov.uk/uksi/2022/156/article/10)
+[^c-a56e06c756a85fdfba2098584111d12e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2020/801) revoked (11.2.2022) by [The Competition Appeal Tribunal (Recording and Broadcasting) Order 2022 (S.I. 2022/156)](https://www.legislation.gov.uk/uksi/2022/156), [arts. 1](https://www.legislation.gov.uk/uksi/2022/156/article/1), [10](https://www.legislation.gov.uk/uksi/2022/156/article/10)

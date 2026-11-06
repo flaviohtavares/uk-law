@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 173B. The spending of money raised by SEIS investment requirement[^key-e966d2d5f5c6956c09d477436cb8cc03]
+## 173B. The spending of money raised by SEIS investment requirement[^c-e966d2d5f5c6956c09d477436cb8cc03]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e966d2d5f5c6956c09d477436cb8cc03]: Textual amendment: [S. 173B](https://www.legislation.gov.uk/ukpga/2007/3/section/173B) omitted (with effect in accordance with Sch. 5 para. 21 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/9)
+[^c-e966d2d5f5c6956c09d477436cb8cc03]: Textual amendment: [S. 173B](https://www.legislation.gov.uk/ukpga/2007/3/section/173B) omitted (with effect in accordance with Sch. 5 para. 21 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/9)

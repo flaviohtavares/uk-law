@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Slaughter of vaccinated animals[^key-a51bcbd3410a7a9fcaed46a46ca5f282][^key-64cec524cf6196b858c17152bc570fc0][^key-14631c389807e82310acf25adf495205][^key-abc50801dd621fcd12c11a5774b659a3][^key-a8c780b723371adf52c734780211b38c][^key-ddbd494c089283920051b2d46bf7ce5f][^c10345261]
+## 16A. Slaughter of vaccinated animals[^c-a51bcbd3410a7a9fcaed46a46ca5f282][^c-64cec524cf6196b858c17152bc570fc0][^c-14631c389807e82310acf25adf495205][^c-abc50801dd621fcd12c11a5774b659a3][^c-a8c780b723371adf52c734780211b38c][^c-ddbd494c089283920051b2d46bf7ce5f][^c10345261]
 
 *Extent: E+W*
 
@@ -46,16 +46,16 @@ summary: ''
 
 ## Annotations
 
-[^key-a51bcbd3410a7a9fcaed46a46ca5f282]: Modification: S. 16A modified (E.) (23.2.2006) by [Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006 (S.I. 2006/183)](https://www.legislation.gov.uk/uksi/2006/183), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/183/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2006/183/regulation/17)
+[^c-a51bcbd3410a7a9fcaed46a46ca5f282]: Modification: S. 16A modified (E.) (23.2.2006) by [Foot-and-Mouth Disease (Control of Vaccination) (England) Regulations 2006 (S.I. 2006/183)](https://www.legislation.gov.uk/uksi/2006/183), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/183/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2006/183/regulation/17)
 
-[^key-64cec524cf6196b858c17152bc570fc0]: Modification: S. 16A applied (with modifications) (W.) (6.7.2006) by [The Avian Influenza (Vaccination) (Wales) Regulations 2006 (S.I. 2006/1761)](https://www.legislation.gov.uk/uksi/2006/1761), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1761/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2006/1761/regulation/7)
+[^c-64cec524cf6196b858c17152bc570fc0]: Modification: S. 16A applied (with modifications) (W.) (6.7.2006) by [The Avian Influenza (Vaccination) (Wales) Regulations 2006 (S.I. 2006/1761)](https://www.legislation.gov.uk/uksi/2006/1761), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1761/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2006/1761/regulation/7)
 
-[^key-14631c389807e82310acf25adf495205]: Modification: S. 16A applied (W.) (13.11.2006) by [Avian Influenza (Preventive Measures) (Wales) Regulations 2006 (S.I. 2006/2803)](https://www.legislation.gov.uk/uksi/2006/2803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2803/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2006/2803/regulation/10/b)
+[^c-14631c389807e82310acf25adf495205]: Modification: S. 16A applied (W.) (13.11.2006) by [Avian Influenza (Preventive Measures) (Wales) Regulations 2006 (S.I. 2006/2803)](https://www.legislation.gov.uk/uksi/2006/2803), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/2803/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2006/2803/regulation/10/b)
 
-[^key-abc50801dd621fcd12c11a5774b659a3]: Modification: S. 16A applied (E.) (13.11.2006) by [The Avian Influenza (Preventive Measures) (England) Regulations 2006 (S.I. 2006/2701)](https://www.legislation.gov.uk/uksi/2006/2701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/10/b)
+[^c-abc50801dd621fcd12c11a5774b659a3]: Modification: S. 16A applied (E.) (13.11.2006) by [The Avian Influenza (Preventive Measures) (England) Regulations 2006 (S.I. 2006/2701)](https://www.legislation.gov.uk/uksi/2006/2701), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/1/2), [10(b)](https://www.legislation.gov.uk/uksi/2006/2701/regulation/10/b)
 
-[^key-a8c780b723371adf52c734780211b38c]: Modification: S. 16A applied (W.) (14.11.2006) by [The Avian Influenza (Vaccination) (Wales) (No.2) Regulations 2006 (S.I. 2006/2932)](https://www.legislation.gov.uk/uksi/2006/2932), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2932/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2006/2932/regulation/8/2/b)
+[^c-a8c780b723371adf52c734780211b38c]: Modification: S. 16A applied (W.) (14.11.2006) by [The Avian Influenza (Vaccination) (Wales) (No.2) Regulations 2006 (S.I. 2006/2932)](https://www.legislation.gov.uk/uksi/2006/2932), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2932/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2006/2932/regulation/8/2/b)
 
-[^key-ddbd494c089283920051b2d46bf7ce5f]: Modification: S. 16A applied (E.) (14.11.2006) by [The Avian Influenza (Vaccination) (England) Regulations 2006 (S.I. 2006/2703)](https://www.legislation.gov.uk/uksi/2006/2703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/8/2/b)
+[^c-ddbd494c089283920051b2d46bf7ce5f]: Modification: S. 16A applied (E.) (14.11.2006) by [The Avian Influenza (Vaccination) (England) Regulations 2006 (S.I. 2006/2703)](https://www.legislation.gov.uk/uksi/2006/2703), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2006/2703/regulation/8/2/b)
 
 [^c10345261]: Textual amendment: S. 16A inserted (E.W.) (14.1.2003) by [2002 c. 42](https://www.legislation.gov.uk/ukpga/2002/42), [s. 5](https://www.legislation.gov.uk/ukpga/2002/42/section/5); [S.I. 2002/3044](https://www.legislation.gov.uk/uksi/2002/3044), [art. 2](https://www.legislation.gov.uk/uksi/2002/3044/article/2)

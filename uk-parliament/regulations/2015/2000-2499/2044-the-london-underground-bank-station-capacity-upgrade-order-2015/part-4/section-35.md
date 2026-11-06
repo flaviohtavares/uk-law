@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Removal of human remains[^key-0b650e73bbe6f775312964556bb97ee8]
+## 35. Removal of human remains[^c-0b650e73bbe6f775312964556bb97ee8]
 
 *Extent: E+W+S*
 
@@ -68,6 +68,6 @@ subject to paragraph (10) the Company is to remove the remains and cause them to
 
 ## Annotations
 
-[^key-0b650e73bbe6f775312964556bb97ee8]: Commencement: Art. 35 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-0b650e73bbe6f775312964556bb97ee8]: Commencement: Art. 35 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
 
 [^f00043]: Footnote: [1857 c. 81](https://www.legislation.gov.uk/ukpga/1857/81). There are amendments to this Act which are not relevant to this Order.

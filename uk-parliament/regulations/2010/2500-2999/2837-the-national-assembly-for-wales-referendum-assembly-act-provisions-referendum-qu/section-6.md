@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Polling districts and polling places[^key-c2e70a34fe77cf7f0b4619f817b61d67]
+## 6. Polling districts and polling places[^c-c2e70a34fe77cf7f0b4619f817b61d67]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2e70a34fe77cf7f0b4619f817b61d67]: Commencement: Art. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-c2e70a34fe77cf7f0b4619f817b61d67]: Commencement: Art. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00017]: Footnote: For the meaning of “local government election” in relation to Wales *see* section 203(1) of the Representation of the People Act 1983 to which there are amendments not relevant to this Order. *See* section 31(1A) and (3) of that Act as to polling districts and polling places for such elections; sub-section (1A) was inserted by the Local Government (Wales) Act [1994 (c.19)](https://www.legislation.gov.uk/ukpga/1994/19) Schedule 16 paragraph 68(6).

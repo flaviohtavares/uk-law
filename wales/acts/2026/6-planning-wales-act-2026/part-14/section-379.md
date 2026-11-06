@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 379. Appeal against decision relating to maintenance of land notice or tree replacement notice[^key-fce53ef82102c29f26ffb54cbf4dc63a]
+## 379. Appeal against decision relating to maintenance of land notice or tree replacement notice[^c-fce53ef82102c29f26ffb54cbf4dc63a]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fce53ef82102c29f26ffb54cbf4dc63a]: Commencement: S. 379 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fce53ef82102c29f26ffb54cbf4dc63a]: Commencement: S. 379 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

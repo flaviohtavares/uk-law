@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-3fa8509d5b74905fc39423aef12c3d72]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-3fa8509d5b74905fc39423aef12c3d72]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Article 2
 
 ### In the County of Essex, in the administration areas of Chelmsford City Council, Braintree District Council, Maldon District Council and Colchester City Council.
 
-[^key-3fa8509d5b74905fc39423aef12c3d72]
+[^c-3fa8509d5b74905fc39423aef12c3d72]
 
 The Works are situated as follows—
 
@@ -49,7 +49,7 @@ The authorised development is a nationally significant infrastructure project as
 
 ### Permanent Works
 
-[^key-3fa8509d5b74905fc39423aef12c3d72]
+[^c-3fa8509d5b74905fc39423aef12c3d72]
 
 **Work No. 1** – As shown on sheets 1 and 2 of the permanent works plans improvement works to junction 19 (J19) of the A12, including—
 
@@ -69,7 +69,7 @@ The authorised development is a nationally significant infrastructure project as
 **Work No. 2** – As shown on sheets 1 and 2 of the permanent works plans the construction of a new drainage facility to the east of the A12 south of J19, Springfield, including the construction of—
 
 - (a) an attenuation pond including associated outfall to the River Chelmer; and
-- (b) an access track of 1287 metres in length from the Generals Farm roundabout to the pond (Work No. 2(a)) and the provision of means of access[^key-f16c43ffe63c9db6c09666479d4a5a44] to adjoining land.
+- (b) an access track of 1287 metres in length from the Generals Farm roundabout to the pond (Work No. 2(a)) and the provision of means of access[^c-f16c43ffe63c9db6c09666479d4a5a44] to adjoining land.
 
 **Work No. 3** – As shown on sheet 1 of the permanent works plans the construction of a drainage facility east of the A12 and south of J19, including—
 
@@ -355,7 +355,7 @@ The authorised development is a nationally significant infrastructure project as
 - (a) an attenuation pond including associated outfall; and
 - (b) an access track of 257 metres in length from the existing B1023 Kelvedon Road.
 
-**Work No. 70** – As shown on sheet 14 of the permanent works plans the construction of an attenuation pond including associated outfall and an access track from the realigned B0123[^key-a465b72a7232a12ff85eb926dd406571] Kelvedon Road, to the north of Inworth roundabout (Work No. 74(c)).
+**Work No. 70** – As shown on sheet 14 of the permanent works plans the construction of an attenuation pond including associated outfall and an access track from the realigned B0123[^c-a465b72a7232a12ff85eb926dd406571] Kelvedon Road, to the north of Inworth roundabout (Work No. 74(c)).
 
 **Work No. 71** – As shown on sheet 14 of the permanent works plans the construction of an attenuation pond including associated outfall to the west of B1023 Kelvedon Road including an access track from Inworth roundabout (Work No. 74(c)) and access to adjoining land.
 
@@ -406,7 +406,7 @@ The authorised development is a nationally significant infrastructure project as
 - (d) the realigned New Lane;
 - (e) the realigned access track and provision of mean of access to adjoining land;
 - (f) extension of the existing culvert east of realigned New Lane and a new ditch connecting to the extended culvert; and
-- (g) access track north of the existing A12, from the new Feering East roundabout, extending east for 69 metres and private means of access[^key-25eda8404826e8dfadb45a6fc37347fe] to adjoining land.
+- (g) access track north of the existing A12, from the new Feering East roundabout, extending east for 69 metres and private means of access[^c-25eda8404826e8dfadb45a6fc37347fe] to adjoining land.
 
 **Work No. 83** – As shown on sheet 15 of the permanent works plans the construction of new public footpath connecting Footpath (78\_12) to the realigned Prested Hall Access Road.
 
@@ -548,7 +548,7 @@ The authorised development is a nationally significant infrastructure project as
 
 ### Temporary Works
 
-[^key-3fa8509d5b74905fc39423aef12c3d72]
+[^c-3fa8509d5b74905fc39423aef12c3d72]
 
 **Work No. T1** – As shown on sheets 1 and 2 of the temporary works plans, a haul road of 1200 metres in length, south of the existing junction 19 and to the east of the A12 southbound verge, Springfield.
 
@@ -660,7 +660,7 @@ The authorised development is a nationally significant infrastructure project as
 
 ### Utilities Works
 
-[^key-3fa8509d5b74905fc39423aef12c3d72]
+[^c-3fa8509d5b74905fc39423aef12c3d72]
 
 **Work No. U1** – As shown on sheet 1 of the utilities works plans, the diversion of a buried water main of 75 metres in length, south of the existing junction 19 and to the east of the A12 southbound verge, Springfield.
 
@@ -772,7 +772,7 @@ The authorised development is a nationally significant infrastructure project as
 
 **Work No. U38A** – As shown on sheets 6 and 7 of the utilities works plans, the installation of a buried 11kV electricity cable ducts of 2800 metres in length from a point north of the Wellington overbridge, Hatfield Peverel to Howbridge Hall Road, Witham.
 
-**Work No. U39** – As shown on sheet 6 of the utilities works plans, the diversion of buried water pipe of 350 metres in length between The Vineyards, Hatfield Peverel, at a point west[^key-7c1bb0e41956f5ee2102c0b1f6d60b85] of the new junction 21 of the A12.
+**Work No. U39** – As shown on sheet 6 of the utilities works plans, the diversion of buried water pipe of 350 metres in length between The Vineyards, Hatfield Peverel, at a point west[^c-7c1bb0e41956f5ee2102c0b1f6d60b85] of the new junction 21 of the A12.
 
 **Work No. U40** – As shown on sheet 6 of the utilities works plans, the diversion of buried communications cable ducts of 1150 metres in length between the A12 junction 20b southbound off-slip road verge and Kingswood Gateway on the A12 junction 21 northbound off-slip road verge, Witham.
 
@@ -1188,7 +1188,7 @@ The authorised development is a nationally significant infrastructure project as
 
 ### Other associated development
 
-[^key-3fa8509d5b74905fc39423aef12c3d72]
+[^c-3fa8509d5b74905fc39423aef12c3d72]
 
 For the purposes of or in connection with the construction of any of the works and other development mentioned above, ancillary or related development within the Order limits which does not give rise to any materially new or materially different environmental effects in comparison with those reported in the environmental statement, consisting of—
 
@@ -1215,14 +1215,14 @@ For the purposes of or in connection with the construction of any of the works a
 
 ## Annotations
 
-[^key-3fa8509d5b74905fc39423aef12c3d72]: Commencement: Sch. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-3fa8509d5b74905fc39423aef12c3d72]: Commencement: Sch. 1 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
 
 [^f00102]: Footnote: There are amendments to section 14 but none is relevant to this Order. Section 22 was substituted by [S.I. 2013/1883](https://www.legislation.gov.uk/uksi/2013/1883) and amended by section 1(6) of, and paragraph 153 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 
-[^key-f16c43ffe63c9db6c09666479d4a5a44]: Textual amendment: Words in Sch. 1 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-f16c43ffe63c9db6c09666479d4a5a44]: Textual amendment: Words in Sch. 1 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-a465b72a7232a12ff85eb926dd406571]: Textual amendment: Words in Sch. 1 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-a465b72a7232a12ff85eb926dd406571]: Textual amendment: Words in Sch. 1 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-25eda8404826e8dfadb45a6fc37347fe]: Textual amendment: Words in Sch. 1 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-25eda8404826e8dfadb45a6fc37347fe]: Textual amendment: Words in Sch. 1 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
 
-[^key-7c1bb0e41956f5ee2102c0b1f6d60b85]: Textual amendment: Words in Sch. 1 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)
+[^c-7c1bb0e41956f5ee2102c0b1f6d60b85]: Textual amendment: Words in Sch. 1 substituted (25.4.2025) by [The A12 Chelmsford to A120 Widening Development Consent (Corrections) Order 2025 (S.I. 2025/527)](https://www.legislation.gov.uk/uksi/2025/527), [art. 1](https://www.legislation.gov.uk/uksi/2025/527/article/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2025/527/schedule/paragraph/1)

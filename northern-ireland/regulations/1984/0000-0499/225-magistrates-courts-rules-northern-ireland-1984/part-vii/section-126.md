@@ -24,18 +24,18 @@ summary: ''
 
 - (a) the duration of the order;
 - (b) any conditions and requirements of the order;
-- (c)[^key-0b7ae56c27d5d6a713cf1958c915012c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-0b7ae56c27d5d6a713cf1958c915012c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Where a court of summary jurisdiction amends or revokes a community order, it shall cause an entry to that effect to be made in the Order Book, opposite the entry relating to the making of the relevant order.
 
-(3)[^key-df934dd92e3a385cc0b484996d9d93c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-df934dd92e3a385cc0b484996d9d93c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-df934dd92e3a385cc0b484996d9d93c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-df934dd92e3a385cc0b484996d9d93c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Any complaint made in respect of a breach of a requirement of a community order, and any application to revoke or amend a community order under Schedule 2 to the 1996 Order, shall be accompanied by a copy of the community order, to which the complaint or the application relates.
 
 ## Annotations
 
-[^key-0b7ae56c27d5d6a713cf1958c915012c]: Textual amendment: [Rule 126(1)(c)](https://www.legislation.gov.uk/nisr/1984/225/rule/126/1/c) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(25)(a)](https://www.legislation.gov.uk/nisr/2016/304/article/3/25/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-0b7ae56c27d5d6a713cf1958c915012c]: Textual amendment: [Rule 126(1)(c)](https://www.legislation.gov.uk/nisr/1984/225/rule/126/1/c) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(25)(a)](https://www.legislation.gov.uk/nisr/2016/304/article/3/25/a); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-df934dd92e3a385cc0b484996d9d93c0]: Textual amendment: [Rule 126(3)](https://www.legislation.gov.uk/nisr/1984/225/rule/126/3)[(4)](https://www.legislation.gov.uk/nisr/1984/225/rule/126/4) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(25)(b)](https://www.legislation.gov.uk/nisr/2016/304/article/3/25/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-df934dd92e3a385cc0b484996d9d93c0]: Textual amendment: [Rule 126(3)](https://www.legislation.gov.uk/nisr/1984/225/rule/126/3)[(4)](https://www.legislation.gov.uk/nisr/1984/225/rule/126/4) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(25)(b)](https://www.legislation.gov.uk/nisr/2016/304/article/3/25/b); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)

@@ -79,7 +79,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 2.** The specific classes to be applied to different construction products and/or materials, within the external fire performance classification adopted in Decision 2001/671/EC, are set out in the Annex to this Decision.
 
-**Article 3.**[^key-7434722427c7b7b4f298130ee6168311] This Decision is addressed to the Member States.
+**Article 3.**[^c-7434722427c7b7b4f298130ee6168311] This Decision is addressed to the Member States.
 
 Done at Brussels, 25 May 2005.
 
@@ -118,6 +118,6 @@ Classes of external fire performance for plastisol coated steel roof sheets
 
 [^f00003]: Footnote: [OJ L 235, 4.9.2001, p. 20](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2001.235.01.0020.01.ENG).
 
-[^key-7434722427c7b7b4f298130ee6168311]: Modification: [Art. 3](https://www.legislation.gov.uk/eudn/2005/403/article/3) excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/4) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(g)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/g)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7434722427c7b7b4f298130ee6168311]: Modification: [Art. 3](https://www.legislation.gov.uk/eudn/2005/403/article/3) excluded (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/4) (as amended by S.I. 2020/1359, [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(g)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/g)); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: External fire performance class as provided for in the table of the Annex to Decision 2001/671/EC.

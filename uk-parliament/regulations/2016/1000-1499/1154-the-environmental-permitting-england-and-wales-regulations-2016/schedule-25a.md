@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 25A — Medium Combustion Plants: Medium Combustion Plant Directive[^key-981f47ddc9311f1a7200e87ed66c54bd]
+## SCHEDULE 25A — Medium Combustion Plants: Medium Combustion Plant Directive[^c-981f47ddc9311f1a7200e87ed66c54bd]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ but does not include any structure where the principal purpose of the use of the
 
 (3) In sub-paragraph (2), “petroleum” includes any mineral oil or relative hydrocarbon and natural gas existing in its natural condition in strata but does not include coal or bituminous shales or other stratified deposits from which oil can be extracted by destructive distillation.
 
-(4)[^key-654c8b4c473acfb6d60e7a9bcbb6728e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-654c8b4c473acfb6d60e7a9bcbb6728e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 3. Applications for the grant of an environmental permit
 
@@ -92,10 +92,10 @@ but does not include any structure where the principal purpose of the use of the
 
 In this Part—
 
-- [^key-e61b7609ad81bd956953e5609b27b962]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-e61b7609ad81bd956953e5609b27b962]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “Annex I” means Annex I of the MCPD;
 - “Annex II” means Annex II of the MCPD;
-- “biomass”, “dust”, “emission limit value”, “micro isolated system”, “nitrogen oxides”, “operating hours”, and[^key-d28923b1d0e9c6664c8fe94337ecabe9] “small isolated system” [^key-24348b03c2c4e4eef18b4f965bf89361]... have the respective meanings given in article 3 of the MCPD;
+- “biomass”, “dust”, “emission limit value”, “micro isolated system”, “nitrogen oxides”, “operating hours”, and[^c-d28923b1d0e9c6664c8fe94337ecabe9] “small isolated system” [^c-24348b03c2c4e4eef18b4f965bf89361]... have the respective meanings given in article 3 of the MCPD;
 
   any reference to emissions expressed in mg/Nm<sup>3</sup> is to those emissions defined in accordance with the first paragraph of Annex II.
 
@@ -165,12 +165,12 @@ is only required to comply with the emission limit values for nitrogen oxides se
 
 ## Annotations
 
-[^key-981f47ddc9311f1a7200e87ed66c54bd]: Textual amendment: Schs. 25A, 25B inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/110/regulation/16)
+[^c-981f47ddc9311f1a7200e87ed66c54bd]: Textual amendment: Schs. 25A, 25B inserted (30.1.2018) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2018 (S.I. 2018/110)](https://www.legislation.gov.uk/uksi/2018/110), [regs. 1](https://www.legislation.gov.uk/uksi/2018/110/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/110/regulation/16)
 
-[^key-654c8b4c473acfb6d60e7a9bcbb6728e]: Textual amendment: [Sch. 25A Pt. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25A/part/1/paragraph/2/4) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(27)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/27/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-654c8b4c473acfb6d60e7a9bcbb6728e]: Textual amendment: [Sch. 25A Pt. 1 para. 2(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25A/part/1/paragraph/2/4) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(27)(a)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/27/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e61b7609ad81bd956953e5609b27b962]: Textual amendment: Words in [Sch. 25A Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25A/part/2/paragraph/5) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(27)(b)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/27/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e61b7609ad81bd956953e5609b27b962]: Textual amendment: Words in [Sch. 25A Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25A/part/2/paragraph/5) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(27)(b)(i)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/27/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d28923b1d0e9c6664c8fe94337ecabe9]: Textual amendment: Word in [Sch. 25A Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25A/part/2/paragraph/5) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/27/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d28923b1d0e9c6664c8fe94337ecabe9]: Textual amendment: Word in [Sch. 25A Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25A/part/2/paragraph/5) inserted (31.12.2020) by [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(27)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/27/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-24348b03c2c4e4eef18b4f965bf89361]: Textual amendment: Words in [Sch. 25A Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25A/part/2/paragraph/5) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(27)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/27/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-24348b03c2c4e4eef18b4f965bf89361]: Textual amendment: Words in [Sch. 25A Pt. 2 para. 5](https://www.legislation.gov.uk/uksi/2016/1154/schedule/25A/part/2/paragraph/5) omitted (31.12.2020) by virtue of [The Environmental Permitting (England and Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/39)](https://www.legislation.gov.uk/uksi/2019/39), [regs. 1](https://www.legislation.gov.uk/uksi/2019/39/regulation/1), [2(27)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/39/regulation/2/27/b/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

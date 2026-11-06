@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Short periods of sickness[^key-2ef605f8ee84e632659b1a712799ac6b]
+## 55. Short periods of sickness[^c-2ef605f8ee84e632659b1a712799ac6b]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ shall be treated for a period of not more than 2 weeks as capable of work, excep
 
 ## Annotations
 
-[^key-2ef605f8ee84e632659b1a712799ac6b]: Commencement: Reg. 55 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-2ef605f8ee84e632659b1a712799ac6b]: Commencement: Reg. 55 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

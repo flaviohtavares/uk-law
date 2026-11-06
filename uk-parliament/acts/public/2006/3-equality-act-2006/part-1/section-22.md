@@ -41,7 +41,7 @@ summary: ''
   - (ii) applying for an order under subsection (6)(b), or
 - (b) upon a court's declining to make an order under subsection (6)(b) in relation to a revised draft of the plan.
 
-(6) The Commission may apply to the county court[^key-d3bc4dd2e6414d4dcb52b8c438362c54] (in England and Wales) or to the sheriff (in Scotland)—
+(6) The Commission may apply to the county court[^c-d3bc4dd2e6414d4dcb52b8c438362c54] (in England and Wales) or to the sheriff (in Scotland)—
 
 - (a) for an order requiring a person to give the Commission a first draft plan by a time specified in the order,
 - (b) for an order requiring a person who has given the Commission a revised draft plan to prepare and give to the Commission a further revised draft plan—
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3bc4dd2e6414d4dcb52b8c438362c54]: Textual amendment: Words in [s. 22(6)](https://www.legislation.gov.uk/ukpga/2006/3/section/22/6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-d3bc4dd2e6414d4dcb52b8c438362c54]: Textual amendment: Words in [s. 22(6)](https://www.legislation.gov.uk/ukpga/2006/3/section/22/6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

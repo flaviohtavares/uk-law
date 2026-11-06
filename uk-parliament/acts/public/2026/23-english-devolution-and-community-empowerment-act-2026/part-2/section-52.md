@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Encouragement of visitors and promotion of visitors[^key-e511cbb3cf349c41e4945d3c2263e45e]
+## 52. Encouragement of visitors and promotion of visitors[^c-e511cbb3cf349c41e4945d3c2263e45e]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e511cbb3cf349c41e4945d3c2263e45e]: Commencement: S. 52 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e511cbb3cf349c41e4945d3c2263e45e]: Commencement: S. 52 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

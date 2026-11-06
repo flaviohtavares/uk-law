@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Article 72 amended (effect of appeals)[^key-ad55ca4b9cdde56b2acd5a0ade131b7a]
+## 29. Article 72 amended (effect of appeals)[^c-ad55ca4b9cdde56b2acd5a0ade131b7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad55ca4b9cdde56b2acd5a0ade131b7a]: Commencement: Art. 29 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-ad55ca4b9cdde56b2acd5a0ade131b7a]: Commencement: Art. 29 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

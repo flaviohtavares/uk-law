@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-e19b54669c9aa44b33ac3784ee0ce160]
+The Plastic Materials and Articles in Contact with Food (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-e19b54669c9aa44b33ac3784ee0ce160]
 
 Made
 
@@ -41,81 +41,81 @@ Coming into operation
 
 18th March 2005
 
-[^key-e19b54669c9aa44b33ac3784ee0ce160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e19b54669c9aa44b33ac3784ee0ce160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e19b54669c9aa44b33ac3784ee0ce160]
+## 1. Citation and commencement[^c-e19b54669c9aa44b33ac3784ee0ce160]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 1998[^key-e19b54669c9aa44b33ac3784ee0ce160]
+## 2. Amendments to the Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 1998[^c-e19b54669c9aa44b33ac3784ee0ce160]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-e19b54669c9aa44b33ac3784ee0ce160] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e19b54669c9aa44b33ac3784ee0ce160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e19b54669c9aa44b33ac3784ee0ce160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — (ENTRIES TO BE INSERTED IN SECTION A OF PART I OF SCHEDULE 1)[^key-e19b54669c9aa44b33ac3784ee0ce160]
+## SCHEDULE 1 — (ENTRIES TO BE INSERTED IN SECTION A OF PART I OF SCHEDULE 1)[^c-e19b54669c9aa44b33ac3784ee0ce160]
 
 Regulation 9(a)(i)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — (ENTRIES TO BE SUBSTITUTED FOR ENTRIES IN SECTION A OF PART I OF SCHEDULE 1)[^key-e19b54669c9aa44b33ac3784ee0ce160]
+## SCHEDULE 2 — (ENTRIES TO BE SUBSTITUTED FOR ENTRIES IN SECTION A OF PART I OF SCHEDULE 1)[^c-e19b54669c9aa44b33ac3784ee0ce160]
 
 Regulation 9(a)(ii)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — (ENTRIES TO BE INSERTED IN PART I OF SCHEDULE 2)[^key-e19b54669c9aa44b33ac3784ee0ce160]
+## SCHEDULE 3 — (ENTRIES TO BE INSERTED IN PART I OF SCHEDULE 2)[^c-e19b54669c9aa44b33ac3784ee0ce160]
 
 Regulation 11(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — (ENTRIES TO BE SUBSTITUTED FOR THE ENTRIES IN PART I OF SCHEDULE 2)[^key-e19b54669c9aa44b33ac3784ee0ce160]
+## SCHEDULE 4 — (ENTRIES TO BE SUBSTITUTED FOR THE ENTRIES IN PART I OF SCHEDULE 2)[^c-e19b54669c9aa44b33ac3784ee0ce160]
 
 Regulation 11(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — (ENTRIES TO BE INSERTED IN PART II OF SCHEDULE 2)[^key-e19b54669c9aa44b33ac3784ee0ce160]
+## SCHEDULE 5 — (ENTRIES TO BE INSERTED IN PART II OF SCHEDULE 2)[^c-e19b54669c9aa44b33ac3784ee0ce160]
 
 Regulation 12(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 6 — (ENTRIES TO BE SUBSTITUTED FOR SCHEDULE 2B)[^key-e19b54669c9aa44b33ac3784ee0ce160]
+## SCHEDULE 6 — (ENTRIES TO BE SUBSTITUTED FOR SCHEDULE 2B)[^c-e19b54669c9aa44b33ac3784ee0ce160]
 
 Regulation 15
 
@@ -123,8 +123,8 @@ Regulation 15
 
 **May not be in force at this date. Check the source.**
 
-[^key-e19b54669c9aa44b33ac3784ee0ce160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e19b54669c9aa44b33ac3784ee0ce160]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e19b54669c9aa44b33ac3784ee0ce160]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/49) revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/251)](https://www.legislation.gov.uk/nisr/2006/251), [regs. 1](https://www.legislation.gov.uk/nisr/2006/251/regulation/1)
+[^c-e19b54669c9aa44b33ac3784ee0ce160]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/49) revoked (30.6.2006) by [The Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 2006 (revoked) 2006 (S.R. 2006/251)](https://www.legislation.gov.uk/nisr/2006/251), [regs. 1](https://www.legislation.gov.uk/nisr/2006/251/regulation/1)

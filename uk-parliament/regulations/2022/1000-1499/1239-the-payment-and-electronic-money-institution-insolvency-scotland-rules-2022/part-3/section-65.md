@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Minutes[^key-47a937be97912fca2fdf8b2207a043ef]
+## 65. Minutes[^c-47a937be97912fca2fdf8b2207a043ef]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47a937be97912fca2fdf8b2207a043ef]: Commencement: Rule 65 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-47a937be97912fca2fdf8b2207a043ef]: Commencement: Rule 65 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

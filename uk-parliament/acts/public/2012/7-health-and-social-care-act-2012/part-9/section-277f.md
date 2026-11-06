@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277F. Directions to Special Health Authority to exercise functions under section 277E[^key-1fbc0c578dab0036b2adb411b060def5]
+## 277F. Directions to Special Health Authority to exercise functions under section 277E[^c-1fbc0c578dab0036b2adb411b060def5]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Secretary of State may—
 
 ## Annotations
 
-[^key-1fbc0c578dab0036b2adb411b060def5]: Textual amendment: [Pt. 9 Ch. 4](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/4) inserted (1.10.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/100/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/c)
+[^c-1fbc0c578dab0036b2adb411b060def5]: Textual amendment: [Pt. 9 Ch. 4](https://www.legislation.gov.uk/ukpga/2012/7/part/9/chapter/4) inserted (1.10.2022) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2022/31/section/100/2), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/1003](https://www.legislation.gov.uk/uksi/2022/1003), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1003/regulation/2/c)

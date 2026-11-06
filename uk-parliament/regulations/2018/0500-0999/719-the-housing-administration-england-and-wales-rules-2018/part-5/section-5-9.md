@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.9. Housing administrator not liable for costs under rule 5.8[^key-bebaf085984d174a91f6fb0aaec3e9eb]
+## 5.9. Housing administrator not liable for costs under rule 5.8[^c-bebaf085984d174a91f6fb0aaec3e9eb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The housing administrator is not personally liable for costs incurred by any per
 
 ## Annotations
 
-[^key-bebaf085984d174a91f6fb0aaec3e9eb]: Commencement: Rule 5.9 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-bebaf085984d174a91f6fb0aaec3e9eb]: Commencement: Rule 5.9 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

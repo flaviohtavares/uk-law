@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Recovery of expenses[^key-6cf3ebf7015fe68f23388bfccd287b93]
+## 67. Recovery of expenses[^c-6cf3ebf7015fe68f23388bfccd287b93]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ from the owner or, as the case may be, occupier of the land on which the work wa
 
 ## Annotations
 
-[^key-6cf3ebf7015fe68f23388bfccd287b93]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2009/6/section/67) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)
+[^c-6cf3ebf7015fe68f23388bfccd287b93]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2009/6/section/67) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(c)](https://www.legislation.gov.uk/ssi/2010/401/article/3/c)

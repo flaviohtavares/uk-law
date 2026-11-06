@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Funding[^key-dd6f6eb7d3e105bf6672f93f3c8b7ebf]
+## 31. Funding[^c-dd6f6eb7d3e105bf6672f93f3c8b7ebf]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd6f6eb7d3e105bf6672f93f3c8b7ebf]: Commencement: Art. 31 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-dd6f6eb7d3e105bf6672f93f3c8b7ebf]: Commencement: Art. 31 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

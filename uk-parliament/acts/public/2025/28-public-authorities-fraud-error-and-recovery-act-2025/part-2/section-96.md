@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 96. Disqualification from driving[^key-d59370a3c5c35e42c36feee10cfac7dd][^key-b51c63a363c2cc87efb65af1c81dbf28]
+## 96. Disqualification from driving[^c-d59370a3c5c35e42c36feee10cfac7dd][^c-b51c63a363c2cc87efb65af1c81dbf28]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d59370a3c5c35e42c36feee10cfac7dd]: Commencement: S. 96 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-d59370a3c5c35e42c36feee10cfac7dd]: Commencement: S. 96 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-b51c63a363c2cc87efb65af1c81dbf28]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/28/section/96) in force at 24.6.2026 in so far as not already in force by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/c)
+[^c-b51c63a363c2cc87efb65af1c81dbf28]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2025/28/section/96) in force at 24.6.2026 in so far as not already in force by [S.I. 2026/601](https://www.legislation.gov.uk/uksi/2026/601), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2026/601/regulation/2/1/c)

@@ -32,7 +32,7 @@ Housing (Scotland) Act 2001
 
 An Act of the Scottish Parliament to make provision about housing, including provision about homelessness and the allocation of housing accommodation by social landlords, the tenants of social landlords, the regulation of social landlords, Scottish Homes, the strategic housing functions of the Scottish Ministers and local authorities and grants for improvement and repairs; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 13th June 2001 and received Royal Assent on 18th July 2001[^key-eb99a2c4f77293b3dfc64d0757f56ad4][^key-ad875b83f9ba87e1b1faa045ab149a32]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 13th June 2001 and received Royal Assent on 18th July 2001[^c-eb99a2c4f77293b3dfc64d0757f56ad4][^c-ad875b83f9ba87e1b1faa045ab149a32]
 
 ## Contents
 
@@ -92,7 +92,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 30 — Right to compensation for improvements](part-2/section-30.md)
 - [Section 31 — Effect of work on rent](part-2/section-31.md)
 
-##### Keeping pets[^key-d27325446af18c5eafa9b8ba1ce7fa2c]
+##### Keeping pets[^c-d27325446af18c5eafa9b8ba1ce7fa2c]
 
 - [Section 31A — Tenant’s right to keep a pet](part-2/section-31a.md)
 - [Section 31B — Power to make provision about when a consent condition for keeping a pet is reasonable](part-2/section-31b.md)
@@ -173,7 +173,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 67 — Disposals not requiring consent](part-3/section-67.md)
 - [Section 68 — Disposals of land: consultation with tenants](part-3/section-68.md)
 
-##### Delegation of functions[^key-71acc63fe879a64cc635a9c71ee2dd38]
+##### Delegation of functions[^c-71acc63fe879a64cc635a9c71ee2dd38]
 
 - [Section 68A — Power to direct certain registered social landlords to delegate functions](part-3/section-68a.md)
 
@@ -229,7 +229,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 *Extent: S*
 
-#### ...[^key-035bed74217e3b295205f64c9f442657]
+#### ...[^c-035bed74217e3b295205f64c9f442657]
 
 *Extent: S*
 
@@ -248,13 +248,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 95 — Meaning of “fuel poverty”](part-5/section-95.md)
 
-### PART 6 — GRANTS FOR IMPROVEMENT, REPAIRS ETC.[^key-5793e298ee80813250e3f26b25f1810d]
+### PART 6 — GRANTS FOR IMPROVEMENT, REPAIRS ETC.[^c-5793e298ee80813250e3f26b25f1810d]
 
 *Extent: S*
 
 **No longer in force.**
 
-#### Improvement grants[^key-5793e298ee80813250e3f26b25f1810d]
+#### Improvement grants[^c-5793e298ee80813250e3f26b25f1810d]
 
 **No longer in force.**
 
@@ -266,19 +266,19 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 101 — Amount of grant](part-6/section-101.md)
 - [Section 102 — Improvement grants: the tolerable standard and standard amenities](part-6/section-102.md)
 
-#### Repairs grants[^key-5793e298ee80813250e3f26b25f1810d]
+#### Repairs grants[^c-5793e298ee80813250e3f26b25f1810d]
 
 **No longer in force.**
 
 - [Section 103 — Amount of repairs grant](part-6/section-103.md)
 
-#### Fire escape grants[^key-5793e298ee80813250e3f26b25f1810d]
+#### Fire escape grants[^c-5793e298ee80813250e3f26b25f1810d]
 
 **No longer in force.**
 
 - [Section 104 — Grants for means of escape from fire](part-6/section-104.md)
 
-#### Improvement of energy efficiency and safety[^key-5793e298ee80813250e3f26b25f1810d]
+#### Improvement of energy efficiency and safety[^c-5793e298ee80813250e3f26b25f1810d]
 
 **No longer in force.**
 
@@ -319,14 +319,14 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-eb99a2c4f77293b3dfc64d0757f56ad4]: Modification: Act restricted (16.6.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 43(5)](https://www.legislation.gov.uk/ukpga/2006/13/section/43/5), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2); [S.I. 2006/1497](https://www.legislation.gov.uk/uksi/2006/1497), [art. 3](https://www.legislation.gov.uk/uksi/2006/1497/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1497/schedule)
+[^c-eb99a2c4f77293b3dfc64d0757f56ad4]: Modification: Act restricted (16.6.2006) by [Immigration, Asylum and Nationality Act 2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13), [ss. 43(5)](https://www.legislation.gov.uk/ukpga/2006/13/section/43/5), [62(1)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/1)[(2)](https://www.legislation.gov.uk/ukpga/2006/13/section/62/2); [S.I. 2006/1497](https://www.legislation.gov.uk/uksi/2006/1497), [art. 3](https://www.legislation.gov.uk/uksi/2006/1497/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/1497/schedule)
 
-[^key-ad875b83f9ba87e1b1faa045ab149a32]: Textual amendment: Act modified (temp.) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 1 para. 3](https://www.legislation.gov.uk/asp/2022/10/schedule/1/paragraph/3) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (which affecting provision is continued until 31.3.2024 by [The Cost of Living (Tenant Protection) (Scotland) Act 2022 (Amendment of Expiry Dates and Rent Cap Modification) Regulations 2023 (S.S.I. 2023/82)](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2)) (as amended (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))
+[^c-ad875b83f9ba87e1b1faa045ab149a32]: Textual amendment: Act modified (temp.) (28.10.2022) by [Cost of Living (Tenant Protection) (Scotland) Act 2022 (asp 10)](https://www.legislation.gov.uk/asp/2022/10), [s. 13(1)](https://www.legislation.gov.uk/asp/2022/10/section/13/1), [sch. 1 para. 3](https://www.legislation.gov.uk/asp/2022/10/schedule/1/paragraph/3) (with [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/10/section/1/2), [6](https://www.legislation.gov.uk/asp/2022/10/section/6), [7](https://www.legislation.gov.uk/asp/2022/10/section/7), [8](https://www.legislation.gov.uk/asp/2022/10/section/8)) (which affecting provision is continued until 31.3.2024 by [The Cost of Living (Tenant Protection) (Scotland) Act 2022 (Amendment of Expiry Dates and Rent Cap Modification) Regulations 2023 (S.S.I. 2023/82)](https://www.legislation.gov.uk/ssi/2023/82), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2023/82/regulation/1/3), [2(2)](https://www.legislation.gov.uk/ssi/2023/82/regulation/2/2)) (as amended (27.9.2023) by [S.S.I. 2023/275](https://www.legislation.gov.uk/ssi/2023/275), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2023/275/regulation/2/2))
 
-[^key-d27325446af18c5eafa9b8ba1ce7fa2c]: Textual amendment: [Ss. 31A-31D](https://www.legislation.gov.uk/asp/2001/10/section/31A) and cross-heading inserted (1.4.2026 for the insertion of ss. 31B, 31C, 31D to enable the Scottish Ministers to consult or make regulations; otherwise prosp.) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 36(2)](https://www.legislation.gov.uk/asp/2025/13/section/36/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-d27325446af18c5eafa9b8ba1ce7fa2c]: Textual amendment: [Ss. 31A-31D](https://www.legislation.gov.uk/asp/2001/10/section/31A) and cross-heading inserted (1.4.2026 for the insertion of ss. 31B, 31C, 31D to enable the Scottish Ministers to consult or make regulations; otherwise prosp.) by [Housing (Scotland) Act 2025 (asp 13)](https://www.legislation.gov.uk/asp/2025/13), [ss. 36(2)](https://www.legislation.gov.uk/asp/2025/13/section/36/2), [86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2); [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
 
-[^key-71acc63fe879a64cc635a9c71ee2dd38]: Textual amendment: S. 68A and cross-heading inserted (29.1.2006) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 177](https://www.legislation.gov.uk/asp/2006/1/section/177), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2006/14](https://www.legislation.gov.uk/ssi/2006/14), [art. 2](https://www.legislation.gov.uk/ssi/2006/14/article/2)
+[^c-71acc63fe879a64cc635a9c71ee2dd38]: Textual amendment: S. 68A and cross-heading inserted (29.1.2006) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [ss. 177](https://www.legislation.gov.uk/asp/2006/1/section/177), [195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2006/14](https://www.legislation.gov.uk/ssi/2006/14), [art. 2](https://www.legislation.gov.uk/ssi/2006/14/article/2)
 
-[^key-035bed74217e3b295205f64c9f442657]: Textual amendment: S. 88 and cross-heading repealed (19.9.2019) by [Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (asp 10)](https://www.legislation.gov.uk/asp/2019/10), [ss. 18(2)](https://www.legislation.gov.uk/asp/2019/10/section/18/2), [20(2)](https://www.legislation.gov.uk/asp/2019/10/section/20/2); [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
+[^c-035bed74217e3b295205f64c9f442657]: Textual amendment: S. 88 and cross-heading repealed (19.9.2019) by [Fuel Poverty (Targets, Definition and Strategy) (Scotland) Act 2019 (asp 10)](https://www.legislation.gov.uk/asp/2019/10), [ss. 18(2)](https://www.legislation.gov.uk/asp/2019/10/section/18/2), [20(2)](https://www.legislation.gov.uk/asp/2019/10/section/20/2); [S.S.I. 2019/277](https://www.legislation.gov.uk/ssi/2019/277), [reg. 2](https://www.legislation.gov.uk/ssi/2019/277/regulation/2)
 
-[^key-5793e298ee80813250e3f26b25f1810d]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/asp/2001/10/part/6) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-5793e298ee80813250e3f26b25f1810d]: Textual amendment: [Pt. 6](https://www.legislation.gov.uk/asp/2001/10/part/6) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

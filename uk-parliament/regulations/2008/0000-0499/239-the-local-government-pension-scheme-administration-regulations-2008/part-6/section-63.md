@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 63. Appeals by administering authorities[^key-3ce0046d98f8687a655ab7e92d694502]
+## 63. Appeals by administering authorities[^c-3ce0046d98f8687a655ab7e92d694502]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ce0046d98f8687a655ab7e92d694502]: Commencement: Reg. 63 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-3ce0046d98f8687a655ab7e92d694502]: Commencement: Reg. 63 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

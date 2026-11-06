@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 320. Law applicable to a contract of insurance[^key-dd7e52e9aca59b9ba119f34b33096c69]
+## 320. Law applicable to a contract of insurance[^c-dd7e52e9aca59b9ba119f34b33096c69]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 2 of the Contracts (Applicable Law) Act 1990 (conventions to have for
 
 ## Annotations
 
-[^key-dd7e52e9aca59b9ba119f34b33096c69]: Commencement: Art. 320 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-dd7e52e9aca59b9ba119f34b33096c69]: Commencement: Art. 320 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00236]: Footnote: Subsection (1A) was inserted by [S.I. 1993/174](https://www.legislation.gov.uk/uksi/1993/174), regulation 9, and substituted by [S.I. 1993/2519](https://www.legislation.gov.uk/uksi/1993/2519), regulation 6(5).

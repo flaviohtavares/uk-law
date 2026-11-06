@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 118. Division of unsold assets[^key-a773289a6cf797a24c509e29f689952e]
+## 118. Division of unsold assets[^c-a773289a6cf797a24c509e29f689952e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a773289a6cf797a24c509e29f689952e]: Commencement: [Rule 118](https://www.legislation.gov.uk/nisr/2026/11/rule/118) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-a773289a6cf797a24c509e29f689952e]: Commencement: [Rule 118](https://www.legislation.gov.uk/nisr/2026/11/rule/118) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

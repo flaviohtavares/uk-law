@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Scheme administrator[^key-54e800348d4c738f5cfac92a6c6e85b2]
+## 13. Scheme administrator[^c-54e800348d4c738f5cfac92a6c6e85b2]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54e800348d4c738f5cfac92a6c6e85b2]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2020/154/regulation/13) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [14](https://www.legislation.gov.uk/ssi/2025/188/regulation/14)
+[^c-54e800348d4c738f5cfac92a6c6e85b2]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2020/154/regulation/13) omitted (20.6.2025) by virtue of [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [14](https://www.legislation.gov.uk/ssi/2025/188/regulation/14)

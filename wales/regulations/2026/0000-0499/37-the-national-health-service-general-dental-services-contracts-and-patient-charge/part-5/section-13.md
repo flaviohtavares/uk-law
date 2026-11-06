@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Duration[^key-d227a13abc7544276b5aca21400203a0]
+## 13. Duration[^c-d227a13abc7544276b5aca21400203a0]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d227a13abc7544276b5aca21400203a0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2026/37/regulation/13) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-d227a13abc7544276b5aca21400203a0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2026/37/regulation/13) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

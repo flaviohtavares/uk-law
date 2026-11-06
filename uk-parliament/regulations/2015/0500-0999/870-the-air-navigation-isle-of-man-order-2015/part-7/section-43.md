@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Requirement for a medical certificate[^key-a94eb71abb10006b79564f86f7ec314d]
+## 43. Requirement for a medical certificate[^c-a94eb71abb10006b79564f86f7ec314d]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a94eb71abb10006b79564f86f7ec314d]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2015/870/article/43) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-a94eb71abb10006b79564f86f7ec314d]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2015/870/article/43) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

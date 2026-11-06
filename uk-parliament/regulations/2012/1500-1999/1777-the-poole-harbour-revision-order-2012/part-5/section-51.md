@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Subsidiaries, etc.[^key-fe24658f63c056a1fe6c72364668fa43]
+## 51. Subsidiaries, etc.[^c-fe24658f63c056a1fe6c72364668fa43]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe24658f63c056a1fe6c72364668fa43]: Commencement: Art. 51 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-fe24658f63c056a1fe6c72364668fa43]: Commencement: Art. 51 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)

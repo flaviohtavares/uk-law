@@ -28,7 +28,7 @@ summary: ''
 
 (2) A review under paragraph (1) shall be conducted—
 
-- (a) together with the Education Authority[^key-f197c8e0dc0de605a33be549c923f8dc] and district councils; and
+- (a) together with the Education Authority[^c-f197c8e0dc0de605a33be549c923f8dc] and district councils; and
 - (b) at least once in every review period.
 
 (3) In paragraph (2)(b) “review period” means the period of one year beginning with the commencement of this Article and each subsequent period of three years beginning with an anniversary of that commencement.
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f197c8e0dc0de605a33be549c923f8dc]: Textual amendment: Words in [art. 20(2)(a)](https://www.legislation.gov.uk/nisi/1995/755/article/20/2/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)
+[^c-f197c8e0dc0de605a33be549c923f8dc]: Textual amendment: Words in [art. 20(2)(a)](https://www.legislation.gov.uk/nisi/1995/755/article/20/2/a) substituted (1.4.2015) by [Education Act (Northern Ireland) 2014 (c. 12)](https://www.legislation.gov.uk/nia/2014/12), [Sch. 3 para. 14(2)](https://www.legislation.gov.uk/nia/2014/12/schedule/3/paragraph/14/2) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/nia/2014/12/schedule/2/paragraph/4/3)); [S.R. 2015/35](https://www.legislation.gov.uk/nisr/2015/35), [art. 2(b)](https://www.legislation.gov.uk/nisr/2015/35/article/2/b)

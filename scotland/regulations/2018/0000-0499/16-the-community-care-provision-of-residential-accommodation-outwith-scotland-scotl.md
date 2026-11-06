@@ -32,7 +32,7 @@ summary: ''
 
 Social Care
 
-The Community Care (Provision of Residential Accommodation Outwith Scotland) (Scotland) Amendment Regulations 2018 (revoked)[^key-b5ea964327cfcee69987d7be267ed83c]
+The Community Care (Provision of Residential Accommodation Outwith Scotland) (Scotland) Amendment Regulations 2018 (revoked)[^c-b5ea964327cfcee69987d7be267ed83c]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 3rd April 2018
 
-[^key-b5ea964327cfcee69987d7be267ed83c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5ea964327cfcee69987d7be267ed83c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b5ea964327cfcee69987d7be267ed83c]
+## 1. Citation and commencement[^c-b5ea964327cfcee69987d7be267ed83c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Community Care (Provision of Residential Accommodation Outwith Scotland) (Scotland) Regulations 2015[^key-b5ea964327cfcee69987d7be267ed83c]
+## 2. Amendment of the Community Care (Provision of Residential Accommodation Outwith Scotland) (Scotland) Regulations 2015[^c-b5ea964327cfcee69987d7be267ed83c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b5ea964327cfcee69987d7be267ed83c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5ea964327cfcee69987d7be267ed83c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b5ea964327cfcee69987d7be267ed83c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b5ea964327cfcee69987d7be267ed83c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b5ea964327cfcee69987d7be267ed83c]: Textual amendment: Regulations revoked (2.4.2018) by [The Community Care (Provision of Residential Accommodation Outwith Scotland) (Scotland) Amendment (No. 2) Regulations 2018 (S.S.I. 2018/42)](https://www.legislation.gov.uk/ssi/2018/42), regs. 1, 3
+[^c-b5ea964327cfcee69987d7be267ed83c]: Textual amendment: Regulations revoked (2.4.2018) by [The Community Care (Provision of Residential Accommodation Outwith Scotland) (Scotland) Amendment (No. 2) Regulations 2018 (S.S.I. 2018/42)](https://www.legislation.gov.uk/ssi/2018/42), regs. 1, 3

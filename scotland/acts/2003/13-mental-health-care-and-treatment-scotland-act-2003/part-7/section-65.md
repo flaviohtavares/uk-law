@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Powers of Tribunal on application under section 63: interim compulsory treatment order[^key-b41cf9a21192ad136dd9bd87480eaa32]
+## 65. Powers of Tribunal on application under section 63: interim compulsory treatment order[^c-b41cf9a21192ad136dd9bd87480eaa32]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b41cf9a21192ad136dd9bd87480eaa32]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2003/13/section/65) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-b41cf9a21192ad136dd9bd87480eaa32]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2003/13/section/65) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

@@ -35,24 +35,24 @@ on the transmission format for research and development expenditure data
 
 (Text with EEA relevance) (revoked)
 
-[^key-a05893f774f741e284d25d307ab156d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05893f774f741e284d25d307ab156d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-a05893f774f741e284d25d307ab156d9]
+## Article 1. Subject matter[^c-a05893f774f741e284d25d307ab156d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Data transmission format[^key-a05893f774f741e284d25d307ab156d9]
+## Article 2. Data transmission format[^c-a05893f774f741e284d25d307ab156d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force and application[^key-a05893f774f741e284d25d307ab156d9]
+## Article 3. Entry into force and application[^c-a05893f774f741e284d25d307ab156d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a05893f774f741e284d25d307ab156d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a05893f774f741e284d25d307ab156d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a05893f774f741e284d25d307ab156d9]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/83)
+[^c-a05893f774f741e284d25d307ab156d9]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 83](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/83)

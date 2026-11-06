@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**38A.**[^key-531db4d4fb082d5599efefc880c730b8] After regulation 42 insert—
+**38A.**[^c-531db4d4fb082d5599efefc880c730b8] After regulation 42 insert—
 
 > **42A. Verification of electronic administrative documents and export declarations**
 >
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-531db4d4fb082d5599efefc880c730b8]: Textual amendment: Reg. 38A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/22)
+[^c-531db4d4fb082d5599efefc880c730b8]: Textual amendment: Reg. 38A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/22)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Streets to be temporarily stopped up[^key-7248d50c5e7b09c483e3c4f4be530e4c]
+## SCHEDULE 4 — Streets to be temporarily stopped up[^c-7248d50c5e7b09c483e3c4f4be530e4c]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ Article 10
 
 ## Annotations
 
-[^key-7248d50c5e7b09c483e3c4f4be530e4c]: Commencement: Sch. 4 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-7248d50c5e7b09c483e3c4f4be530e4c]: Commencement: Sch. 4 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

@@ -125,7 +125,7 @@ In this Act–
 - “**public body**” means–
   - (a) a Northern Ireland department;
   - (b) a body established by or under a statutory provision;
-  - (c) a statutory undertaker within the meaning of the Planning Act (Northern Ireland) 2011[^key-f5e62ae582a03a43ce6e4eeee562916c] ; or
+  - (c) a statutory undertaker within the meaning of the Planning Act (Northern Ireland) 2011[^c-f5e62ae582a03a43ce6e4eeee562916c] ; or
   - (d) any other body which exercises functions wholly or mainly of a public nature and is prescribed by regulations made by OFMDFM, subject to negative resolution;
 - “**scheme**” means a scheme under section 1 or 2;
 - “**specified**”, in relation to a scheme, means specified in the scheme.
@@ -138,4 +138,4 @@ In this Act–
 
 ## Annotations
 
-[^key-f5e62ae582a03a43ce6e4eeee562916c]: Textual amendment: Words in s. 5 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 103](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/103) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) (as amended (16.3.2016) by S.R. 2016/159, art. 2))
+[^c-f5e62ae582a03a43ce6e4eeee562916c]: Textual amendment: Words in s. 5 substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 103](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/103) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) (as amended (16.3.2016) by S.R. 2016/159, art. 2))

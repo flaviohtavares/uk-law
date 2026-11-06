@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Performance monitoring[^key-e78246a8e1c73474f08f4759b6936223][^key-8e1ec8a1fda7e999616192d37fa0536f]
+## 27. Performance monitoring[^c-e78246a8e1c73474f08f4759b6936223][^c-8e1ec8a1fda7e999616192d37fa0536f]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e78246a8e1c73474f08f4759b6936223]: Commencement: S. 27 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-e78246a8e1c73474f08f4759b6936223]: Commencement: S. 27 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-8e1ec8a1fda7e999616192d37fa0536f]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/36/section/27) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/m)
+[^c-8e1ec8a1fda7e999616192d37fa0536f]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2023/36/section/27) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/m)

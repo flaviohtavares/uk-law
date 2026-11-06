@@ -41,9 +41,9 @@ Coming into force
 
 The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by section 83(2) and (6) of the Housing Act 1985,[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:—
 
-**1.**[^key-c8136fc9c5190f4563589e5aadf46abb] These Regulations may be cited as the Secure Tenancies (Notices) Regulations 1987 and shall come into force on 13th May 1987.
+**1.**[^c-c8136fc9c5190f4563589e5aadf46abb] These Regulations may be cited as the Secure Tenancies (Notices) Regulations 1987 and shall come into force on 13th May 1987.
 
-**2.**[^key-b9213b9ee6ac4486e47cb4aebdc23de4] (1) The notice to be served on a secure tenant under section 83 of the Housing Act 1985 before the court can entertain proceedings for possession of a dwelling-house let under a secure tenancy which is a periodic tenancy, shall be in the form specified in Part I of the Schedule to these Regulations, or in a form substantially to the same effect.
+**2.**[^c-b9213b9ee6ac4486e47cb4aebdc23de4] (1) The notice to be served on a secure tenant under section 83 of the Housing Act 1985 before the court can entertain proceedings for possession of a dwelling-house let under a secure tenancy which is a periodic tenancy, shall be in the form specified in Part I of the Schedule to these Regulations, or in a form substantially to the same effect.
 
 (2) The notice to be served on a secure tenant under section 83 of the Housing Act 1985 before the court can entertain proceedings for the termination of a secure tenancy which is a tenancy for a term certain, and for possession of the dwelling-house let under that tenancy, shall be in the form specified in Part II of the Schedule to these Regulations, or in a form substantially to the same effect.
 
@@ -87,9 +87,9 @@ The new forms incorporate drafting amendments and amendments consequent on the H
 
 [^f00001]: Footnote: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-c8136fc9c5190f4563589e5aadf46abb]: Commencement: Reg. 1 in force at 13.5.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/755/regulation/1)
+[^c-c8136fc9c5190f4563589e5aadf46abb]: Commencement: Reg. 1 in force at 13.5.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/755/regulation/1)
 
-[^key-b9213b9ee6ac4486e47cb4aebdc23de4]: Commencement: Reg. 2 in force at 13.5.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/755/regulation/1)
+[^c-b9213b9ee6ac4486e47cb4aebdc23de4]: Commencement: Reg. 2 in force at 13.5.1987, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/755/regulation/1)
 
 [^f00002]: Footnote: S.I. [1980/1339](https://www.legislation.gov.uk/uksi/1980/1339).
 

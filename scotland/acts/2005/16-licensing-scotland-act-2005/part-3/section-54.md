@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Dismissal, resignation, death etc. of premises manager[^key-ad710695b80e6c32a3fb78c6c6889049]
+## 54. Dismissal, resignation, death etc. of premises manager[^c-ad710695b80e6c32a3fb78c6c6889049]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad710695b80e6c32a3fb78c6c6889049]: Commencement: S. 54 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-ad710695b80e6c32a3fb78c6c6889049]: Commencement: S. 54 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

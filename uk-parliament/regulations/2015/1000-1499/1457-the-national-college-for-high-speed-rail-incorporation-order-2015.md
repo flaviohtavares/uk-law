@@ -33,7 +33,7 @@ summary: ''
 
 Education, England
 
-The National College for High Speed Rail (Incorporation) Order 2015 (revoked)[^key-5b0806dfcc751a48285db70f8c36028e]
+The National College for High Speed Rail (Incorporation) Order 2015 (revoked)[^c-5b0806dfcc751a48285db70f8c36028e]
 
 Made
 
@@ -47,22 +47,22 @@ Coming into force
 
 30th July 2015
 
-[^key-5b0806dfcc751a48285db70f8c36028e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b0806dfcc751a48285db70f8c36028e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-5b0806dfcc751a48285db70f8c36028e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5b0806dfcc751a48285db70f8c36028e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5b0806dfcc751a48285db70f8c36028e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5b0806dfcc751a48285db70f8c36028e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5b0806dfcc751a48285db70f8c36028e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5b0806dfcc751a48285db70f8c36028e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5b0806dfcc751a48285db70f8c36028e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b0806dfcc751a48285db70f8c36028e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5b0806dfcc751a48285db70f8c36028e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5b0806dfcc751a48285db70f8c36028e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5b0806dfcc751a48285db70f8c36028e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1457) revoked (30.4.2021) by [The National College for Advanced Transport and Infrastructure (Designated Institution in Further Education and Revocations) Order 2021 (S.I. 2021/446)](https://www.legislation.gov.uk/uksi/2021/446), [arts. 1](https://www.legislation.gov.uk/uksi/2021/446/article/1), [4](https://www.legislation.gov.uk/uksi/2021/446/article/4)
+[^c-5b0806dfcc751a48285db70f8c36028e]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/1457) revoked (30.4.2021) by [The National College for Advanced Transport and Infrastructure (Designated Institution in Further Education and Revocations) Order 2021 (S.I. 2021/446)](https://www.legislation.gov.uk/uksi/2021/446), [arts. 1](https://www.legislation.gov.uk/uksi/2021/446/article/1), [4](https://www.legislation.gov.uk/uksi/2021/446/article/4)

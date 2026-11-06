@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Supplementary (restraint orders)[^key-2ef52a159a0a24afb40865b502f78545]
+## 100. Supplementary (restraint orders)[^c-2ef52a159a0a24afb40865b502f78545]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2ef52a159a0a24afb40865b502f78545]: Commencement: [Art. 100](https://www.legislation.gov.uk/uksi/2005/3181/article/100) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-2ef52a159a0a24afb40865b502f78545]: Commencement: [Art. 100](https://www.legislation.gov.uk/uksi/2005/3181/article/100) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00065]: Footnote: [1970 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18).
 

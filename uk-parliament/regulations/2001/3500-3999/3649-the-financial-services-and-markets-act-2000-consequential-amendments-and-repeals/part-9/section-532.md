@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 532. Interpretation of the 1996 Regulations[^key-6474b19996f111ba7013987bbccaab72]
+## 532. Interpretation of the 1996 Regulations[^c-6474b19996f111ba7013987bbccaab72]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6474b19996f111ba7013987bbccaab72]: Commencement: Art. 532 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6474b19996f111ba7013987bbccaab72]: Commencement: Art. 532 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

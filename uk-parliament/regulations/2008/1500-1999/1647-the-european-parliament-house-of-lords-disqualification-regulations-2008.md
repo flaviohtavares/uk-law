@@ -32,7 +32,7 @@ summary: ''
 
 European Communities
 
-The European Parliament (House of Lords Disqualification) Regulations 2008 (revoked)[^key-273fadcc5de00297701ed8803563f0c4]
+The European Parliament (House of Lords Disqualification) Regulations 2008 (revoked)[^c-273fadcc5de00297701ed8803563f0c4]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 15th July 2008
 
-[^key-273fadcc5de00297701ed8803563f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-273fadcc5de00297701ed8803563f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-273fadcc5de00297701ed8803563f0c4]
+## 1. Citation and commencement[^c-273fadcc5de00297701ed8803563f0c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-273fadcc5de00297701ed8803563f0c4]
+## 2. Interpretation[^c-273fadcc5de00297701ed8803563f0c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application of these Regulations[^key-273fadcc5de00297701ed8803563f0c4]
+## 3. Application of these Regulations[^c-273fadcc5de00297701ed8803563f0c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Disqualification of life peers[^key-273fadcc5de00297701ed8803563f0c4]
+## 4. Disqualification of life peers[^c-273fadcc5de00297701ed8803563f0c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Notification to the Speaker of the House of Lords[^key-273fadcc5de00297701ed8803563f0c4]
+## 5. Notification to the Speaker of the House of Lords[^c-273fadcc5de00297701ed8803563f0c4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-273fadcc5de00297701ed8803563f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-273fadcc5de00297701ed8803563f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-273fadcc5de00297701ed8803563f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-273fadcc5de00297701ed8803563f0c4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-273fadcc5de00297701ed8803563f0c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1647) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-273fadcc5de00297701ed8803563f0c4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1647) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

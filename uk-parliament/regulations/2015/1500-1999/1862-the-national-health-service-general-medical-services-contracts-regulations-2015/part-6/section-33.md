@@ -22,7 +22,7 @@ summary: ''
 
 In this Part—
 
-- “**opt out notice**” means a notice given under regulation 35(1) to opt out permanently or temporarily of the provision of minor surgery[^key-49fb3da28426ed3977340dfe9fba719a];
+- “**opt out notice**” means a notice given under regulation 35(1) to opt out permanently or temporarily of the provision of minor surgery[^c-49fb3da28426ed3977340dfe9fba719a];
 - “**out of hours opt out notice**” means a notice given under regulation 38(1) to opt out permanently of the provision of out of hours services;
 - “**permanent opt out**” in relation to the provision of minor surgery that is funded through the global sum, means the termination of the obligation under the contract for the contractor to provide that service, and “**permanently opt out**” is to be construed accordingly;
 - “**permanent opt out notice**” means an opt out notice to permanently opt out;
@@ -32,4 +32,4 @@ In this Part—
 
 ## Annotations
 
-[^key-49fb3da28426ed3977340dfe9fba719a]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2015/1862/regulation/33) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/19) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))
+[^c-49fb3da28426ed3977340dfe9fba719a]: Textual amendment: Words in [reg. 33](https://www.legislation.gov.uk/uksi/2015/1862/regulation/33) substituted (1.10.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/995)](https://www.legislation.gov.uk/uksi/2021/995), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/995/regulation/1/2), [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2021/995/schedule/1/paragraph/19) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/995/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Activities below specified threshold of environmental impact[^key-3ea60a37c9484f6d5115d4ed52fa1fbe]
+## 33. Activities below specified threshold of environmental impact[^c-3ea60a37c9484f6d5115d4ed52fa1fbe]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ea60a37c9484f6d5115d4ed52fa1fbe]: Commencement: S. 33 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-3ea60a37c9484f6d5115d4ed52fa1fbe]: Commencement: S. 33 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 197. Filing and service of affidavits[^key-c4733d91cc706a32d481f809ae609691]
+## 197. Filing and service of affidavits[^c-c4733d91cc706a32d481f809ae609691]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4733d91cc706a32d481f809ae609691]: Commencement: Rule 197 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c4733d91cc706a32d481f809ae609691]: Commencement: Rule 197 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

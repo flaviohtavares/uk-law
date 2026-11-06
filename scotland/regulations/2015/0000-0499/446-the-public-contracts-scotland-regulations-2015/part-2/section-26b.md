@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26B. Conditions relating to international agreements by which the United Kingdom is bound, other than the GPA[^key-27b4b40120e639d30951c8d0f22b67a9]
+## 26B. Conditions relating to international agreements by which the United Kingdom is bound, other than the GPA[^c-27b4b40120e639d30951c8d0f22b67a9]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27b4b40120e639d30951c8d0f22b67a9]: Textual amendment: [Reg. 26B](https://www.legislation.gov.uk/ssi/2015/446/regulation/26B) inserted (2.7.2021) by [The Public Procurement (International Trade Agreements) (Amendment) Regulations 2021 (S.I. 2021/787)](https://www.legislation.gov.uk/uksi/2021/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/787/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/787/regulation/5/2)
+[^c-27b4b40120e639d30951c8d0f22b67a9]: Textual amendment: [Reg. 26B](https://www.legislation.gov.uk/ssi/2015/446/regulation/26B) inserted (2.7.2021) by [The Public Procurement (International Trade Agreements) (Amendment) Regulations 2021 (S.I. 2021/787)](https://www.legislation.gov.uk/uksi/2021/787), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/787/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2021/787/regulation/5/2)

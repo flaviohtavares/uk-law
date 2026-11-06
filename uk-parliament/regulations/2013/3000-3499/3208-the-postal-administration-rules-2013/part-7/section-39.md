@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Distribution to creditors generally[^key-6b5857db7c69d897428fc326e0d8dbab]
+## 39. Distribution to creditors generally[^c-6b5857db7c69d897428fc326e0d8dbab]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b5857db7c69d897428fc326e0d8dbab]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2013/3208/rule/39) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-6b5857db7c69d897428fc326e0d8dbab]: Commencement: [Rule 39](https://www.legislation.gov.uk/uksi/2013/3208/rule/39) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

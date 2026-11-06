@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 132. Formal defects[^key-61e32148dc76f1c10bd7848c574ccdd7]
+## 132. Formal defects[^c-61e32148dc76f1c10bd7848c574ccdd7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ No postal administration proceedings shall be invalidated by any formal defect o
 
 ## Annotations
 
-[^key-61e32148dc76f1c10bd7848c574ccdd7]: Commencement: [Rule 132](https://www.legislation.gov.uk/uksi/2013/3208/rule/132) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-61e32148dc76f1c10bd7848c574ccdd7]: Commencement: [Rule 132](https://www.legislation.gov.uk/uksi/2013/3208/rule/132) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

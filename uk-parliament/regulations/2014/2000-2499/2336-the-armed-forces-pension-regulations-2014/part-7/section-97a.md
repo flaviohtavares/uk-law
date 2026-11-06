@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Members seconded to NATO or the UN etc: transition member secondees[^key-7b0b47d90b1ea7380d4a18214e927855]
+## 97A. Members seconded to NATO or the UN etc: transition member secondees[^c-7b0b47d90b1ea7380d4a18214e927855]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b0b47d90b1ea7380d4a18214e927855]: Textual amendment: [Reg. 97A](https://www.legislation.gov.uk/uksi/2014/2336/regulation/97A) inserted (with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/6) (with [reg. 8(7)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/7))
+[^c-7b0b47d90b1ea7380d4a18214e927855]: Textual amendment: [Reg. 97A](https://www.legislation.gov.uk/uksi/2014/2336/regulation/97A) inserted (with effect on and after 1.4.2015) by [The Armed Forces Pensions (Amendment) Regulations 2022 (S.I. 2022/323)](https://www.legislation.gov.uk/uksi/2022/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/323/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/6) (with [reg. 8(7)](https://www.legislation.gov.uk/uksi/2022/323/regulation/8/7))

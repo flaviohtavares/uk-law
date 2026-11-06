@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Payments to suspended doctors[^key-42364ad0857694baef680c1dbcadfef8]
+## 38. Payments to suspended doctors[^c-42364ad0857694baef680c1dbcadfef8]
 
 *Extent: N.I.*
 
@@ -38,6 +38,6 @@ during the period of his suspension as are actually provided by the doctor who b
 
 ## Annotations
 
-[^key-42364ad0857694baef680c1dbcadfef8]: Commencement: Reg. 38 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-42364ad0857694baef680c1dbcadfef8]: Commencement: Reg. 38 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00028]: Footnote: Paragraph 8B of Schedule 11 was inserted by Article 4 of [S.I. 1995/2704 (N.I. 14)](https://www.legislation.gov.uk/nisi/1995/2704)

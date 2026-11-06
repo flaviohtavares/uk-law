@@ -82,7 +82,7 @@ For section 4 of the [^c931434]Criminal Procedure (Insanity) Act 1964 (“**the 
 > - (a) where the question of disability was determined on the arraignment of the accused, by a jury other than that which determined that question; and
 > - (b) where that question was determined at any later time, by the jury by whom the accused was being tried.
 
-## 3. Powers to deal with persons not guilty by reason of insanity or unfit to plead etc.[^key-b66bf2fed7112db201085adf9a9dddc8]
+## 3. Powers to deal with persons not guilty by reason of insanity or unfit to plead etc.[^c-b66bf2fed7112db201085adf9a9dddc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -135,7 +135,7 @@ For section 4 of the [^c931434]Criminal Procedure (Insanity) Act 1964 (“**the 
 >
 > (2) The Court of Appeal shall make an order that the appellant be admitted for assessment, in accordance with the provisions of Schedule 1 to the Criminal Procedure (Insanity and Unfitness to Plead) Act 1991, to such hospital as may be specified by the Secretary of State.
 
-## 5. Orders under 1964 and 1968 Acts.[^key-5e63da4367e3f9289180663100bee0bc][^c931440]
+## 5. Orders under 1964 and 1968 Acts.[^c-5e63da4367e3f9289180663100bee0bc][^c931440]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -146,10 +146,10 @@ For section 4 of the [^c931434]Criminal Procedure (Insanity) Act 1964 (“**the 
 - “**the 1964 Act**” means the [^c931447]Criminal Procedure (Insanity) Act 1964;
 - “**the 1968 Act**” means the [^c931448]Criminal Appeal Act 1968;
 - “**the 1983 Act**” means the [^c931449]Mental Health Act 1983;
-- “**duly approved**”, in relation to a registered medical practitioner, means approved for the purposes of section 12 of the 1983 Act by the Secretary of State, or by another person by virtue of section 12ZA or 12ZB of that Act,[^key-bc20dc4a590662cedff96e400ac964ff] as having special experience in the diagnosis or treatment of mental disorder.
-- [^key-11ec97bf3250e4cd0cb7fd4a913063df]...
+- “**duly approved**”, in relation to a registered medical practitioner, means approved for the purposes of section 12 of the 1983 Act by the Secretary of State, or by another person by virtue of section 12ZA or 12ZB of that Act,[^c-bc20dc4a590662cedff96e400ac964ff] as having special experience in the diagnosis or treatment of mental disorder.
+- [^c-11ec97bf3250e4cd0cb7fd4a913063df]...
 
-(2)[^key-b6ead638fa81284ae11a7b32f5cff2d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b6ead638fa81284ae11a7b32f5cff2d6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7. Minor and consequential amendments.[^c931451]
 
@@ -186,81 +186,81 @@ shall not apply where the hearing of the appeal began before that commencement.
 
 SCHEDULES
 
-## SCHEDULE 1 — Orders for Admission to Hospital[^key-54018b15988a13b035a4c0c0a86b44f5]
+## SCHEDULE 1 — Orders for Admission to Hospital[^c-54018b15988a13b035a4c0c0a86b44f5]
 
 Section 5(1).
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-54018b15988a13b035a4c0c0a86b44f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-54018b15988a13b035a4c0c0a86b44f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-54018b15988a13b035a4c0c0a86b44f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-54018b15988a13b035a4c0c0a86b44f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-54018b15988a13b035a4c0c0a86b44f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-54018b15988a13b035a4c0c0a86b44f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-54018b15988a13b035a4c0c0a86b44f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-54018b15988a13b035a4c0c0a86b44f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Supervision and Treatment Orders[^key-1c7f33f9268da683bfbae1c811844930]
+## SCHEDULE 2 — Supervision and Treatment Orders[^c-1c7f33f9268da683bfbae1c811844930]
 
 Section 5(3).
 
-### Part I — Preliminary[^key-1c7f33f9268da683bfbae1c811844930]
+### Part I — Preliminary[^c-1c7f33f9268da683bfbae1c811844930]
 
 **No longer in force.**
 
-**1.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Making and Effect of Orders[^key-1c7f33f9268da683bfbae1c811844930]
-
-**No longer in force.**
-
-#### Circumstances in which orders may be made[^key-1c7f33f9268da683bfbae1c811844930]
-
-**2.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Making of orders and general requirements[^key-1c7f33f9268da683bfbae1c811844930]
-
-**3.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Obligatory requirements as to medical treatment[^key-1c7f33f9268da683bfbae1c811844930]
-
-**4.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Optional requirements as to residence[^key-1c7f33f9268da683bfbae1c811844930]
-
-**5.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Part III — Revocation and Amendment of Orders[^key-1c7f33f9268da683bfbae1c811844930]
+### Part II — Making and Effect of Orders[^c-1c7f33f9268da683bfbae1c811844930]
 
 **No longer in force.**
 
-#### Revocation of order in interests of health or welfare[^key-1c7f33f9268da683bfbae1c811844930]
+#### Circumstances in which orders may be made[^c-1c7f33f9268da683bfbae1c811844930]
 
-**6.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Amendment of order by reason of change of residence[^key-1c7f33f9268da683bfbae1c811844930]
+#### Making of orders and general requirements[^c-1c7f33f9268da683bfbae1c811844930]
 
-**7.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Amendment of requirements of order[^key-1c7f33f9268da683bfbae1c811844930]
+#### Obligatory requirements as to medical treatment[^c-1c7f33f9268da683bfbae1c811844930]
 
-**8.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Amendment of requirements in pursuance of medical report[^key-1c7f33f9268da683bfbae1c811844930]
+#### Optional requirements as to residence[^c-1c7f33f9268da683bfbae1c811844930]
 
-**9.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Supplemental[^key-1c7f33f9268da683bfbae1c811844930]
+### Part III — Revocation and Amendment of Orders[^c-1c7f33f9268da683bfbae1c811844930]
 
-**10.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**No longer in force.**
 
-**11.**[^key-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### Revocation of order in interests of health or welfare[^c-1c7f33f9268da683bfbae1c811844930]
+
+**6.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Amendment of order by reason of change of residence[^c-1c7f33f9268da683bfbae1c811844930]
+
+**7.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Amendment of requirements of order[^c-1c7f33f9268da683bfbae1c811844930]
+
+**8.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Amendment of requirements in pursuance of medical report[^c-1c7f33f9268da683bfbae1c811844930]
+
+**9.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Supplemental[^c-1c7f33f9268da683bfbae1c811844930]
+
+**10.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-1c7f33f9268da683bfbae1c811844930] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 3 — Minor and Consequential Amendments
 
@@ -314,7 +314,7 @@ Section 7.
 
 > (2A) Subsections (2) and (3) of section 54 of the Mental Health Act 1983 shall have effect with respect to proof of the appellant’s mental condition for the purposes of section 6, 14 or 14A of this Act as they have effect with respect to proof of an offender’s mental condition for the purposes of section 37(2)(a) of that Act.
 
-**6.**[^c931505] In section 81(1A) of the Senior Courts Act 1981[^key-5ef2f45120334753834b065ca9aac4f5] (bail), for the words “finding of disability” there shall be substituted the words “ findings that the accused is under a disability and that he did the act or made the omission charged against him ”.
+**6.**[^c931505] In section 81(1A) of the Senior Courts Act 1981[^c-5ef2f45120334753834b065ca9aac4f5] (bail), for the words “finding of disability” there shall be substituted the words “ findings that the accused is under a disability and that he did the act or made the omission charged against him ”.
 
 **7.**[^c931507] In section 16(4)(a) of the [^c931508]Prosecution of Offences Act 1985 (defence costs), for sub-paragraph (iii) there shall be substituted the following sub-paragraph—
 
@@ -350,13 +350,13 @@ Section 8(3).
 
 [^c931434]: Marginal citation: [1964 c. 84](https://www.legislation.gov.uk/ukpga/1964/84).
 
-[^key-b66bf2fed7112db201085adf9a9dddc8]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1991/25/section/3) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-b66bf2fed7112db201085adf9a9dddc8]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1991/25/section/3) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
 
 [^c931436]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/1991/25/section/4) wholly in force at 1.1.1992 see [s. 9(2)](https://www.legislation.gov.uk/ukpga/1991/25/section/9/2) and [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art. 2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
 
 [^c931437]: Marginal citation: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
 
-[^key-5e63da4367e3f9289180663100bee0bc]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1991/25/section/5) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(5), 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-5e63da4367e3f9289180663100bee0bc]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1991/25/section/5) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(5), 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
 
 [^c931440]: Commencement: S. 5 wholly in force at 1.1.1992 see s. 9(2) and [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art. 2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
 
@@ -368,11 +368,11 @@ Section 8(3).
 
 [^c931449]: Marginal citation: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-bc20dc4a590662cedff96e400ac964ff]: Textual amendment: Words in s. 6(1) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(5)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/c), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-bc20dc4a590662cedff96e400ac964ff]: Textual amendment: Words in s. 6(1) inserted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 38(5)(c)](https://www.legislation.gov.uk/ukpga/2012/7/section/38/5/c), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-11ec97bf3250e4cd0cb7fd4a913063df]: Textual amendment: Words in s. 6(1) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-11ec97bf3250e4cd0cb7fd4a913063df]: Textual amendment: Words in s. 6(1) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
 
-[^key-b6ead638fa81284ae11a7b32f5cff2d6]: Textual amendment: S. 6(2) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
+[^c-b6ead638fa81284ae11a7b32f5cff2d6]: Textual amendment: S. 6(2) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [s. 60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), [Sch. 11](https://www.legislation.gov.uk/ukpga/2004/28/schedule/11); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(i)](https://www.legislation.gov.uk/uksi/2005/579/article/3/i)
 
 [^c931451]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/1991/25/section/7) wholly in force at 1.1.1992 see [s. 9(2)](https://www.legislation.gov.uk/ukpga/1991/25/section/9/2) and [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art. 2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
 
@@ -382,9 +382,9 @@ Section 8(3).
 
 [^c931454]: Subordinate legislation: [S. 9(2)](https://www.legislation.gov.uk/ukpga/1991/25/section/9/2): power exercised (31.10.1991) by [S.I.1991/2488](https://www.legislation.gov.uk/uksi/1991/2488).
 
-[^key-54018b15988a13b035a4c0c0a86b44f5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1991/25/schedule/1) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2004/28/section/24/5), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
+[^c-54018b15988a13b035a4c0c0a86b44f5]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1991/25/schedule/1) repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2004/28/section/24/5), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60) (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
 
-[^key-1c7f33f9268da683bfbae1c811844930]: Textual amendment: Sch. 2 repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2004/28/section/24/5), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), Sch. 11 (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
+[^c-1c7f33f9268da683bfbae1c811844930]: Textual amendment: Sch. 2 repealed (31.3.2005) by [Domestic Violence, Crime and Victims Act 2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28), [ss. 24(5)](https://www.legislation.gov.uk/ukpga/2004/28/section/24/5), [60](https://www.legislation.gov.uk/ukpga/2004/28/section/60), Sch. 11 (with [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2004/28/schedule/12/paragraph/8)); [S.I. 2005/579](https://www.legislation.gov.uk/uksi/2005/579), [art. 3(b)](https://www.legislation.gov.uk/uksi/2005/579/article/3/b)
 
 [^c931497]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1991/25/schedule/3/paragraph/1) wholly in force at 1.1.1992 see [s. 9(2)](https://www.legislation.gov.uk/ukpga/1991/25/section/9/2) and [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art. 2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
 
@@ -400,7 +400,7 @@ Section 8(3).
 
 [^c931505]: Commencement: Sch. 3 para. 6 wholly in force at 1.1.1992 see s. 9(2) and [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art. 2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
 
-[^key-5ef2f45120334753834b065ca9aac4f5]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-5ef2f45120334753834b065ca9aac4f5]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c931507]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/1991/25/schedule/3/paragraph/7) wholly in force at 1.1.1992 see [s. 9(2)](https://www.legislation.gov.uk/ukpga/1991/25/section/9/2) and [S.I. 1991/2488](https://www.legislation.gov.uk/uksi/1991/2488), [art. 2](https://www.legislation.gov.uk/uksi/1991/2488/article/2).
 

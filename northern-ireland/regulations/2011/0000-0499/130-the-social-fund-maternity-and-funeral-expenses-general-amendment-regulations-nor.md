@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by sections 134(1)(a) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and sections 5(1)(a) and 165(1), (4) and (5) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-a26e0973998024f931f7553867121418]
+## 1. Citation, commencement and interpretation[^c-a26e0973998024f931f7553867121418]
 
 (1) These Regulations may be cited as the Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2011 and shall come into operation on 23rd March 2011.
 
@@ -50,7 +50,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00005] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the principal Regulations[^key-2edeaeaf2d1ad89c4532dd704cffe876]
+## 2. Amendment of the principal Regulations[^c-2edeaeaf2d1ad89c4532dd704cffe876]
 
 (1) The principal Regulations are amended in accordance with paragraphs (2) to (4) (but subject to regulation 3).
 
@@ -85,9 +85,9 @@ The Department for Social Development makes the following Regulations in exercis
 
   .
 
-(4)[^key-f63c9bea18ccd461a161ff4574a950b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-f63c9bea18ccd461a161ff4574a950b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-b3b19d810c862e5a5aa6584d1b9c1416]
+## 3. Transitional provisions[^c-b3b19d810c862e5a5aa6584d1b9c1416]
 
 (1) The amendments made by regulation 2(3)(a) and (4) do not apply in a case where any of paragraphs (2) to (7) apply.
 
@@ -129,7 +129,7 @@ The Department for Social Development makes the following Regulations in exercis
 - (a) “C” means the child or still-born child in respect of whom a Sure Start Maternity Grant is claimed; and
 - (b) “child”, “claimant”,“confinement”[^f00008], “guardian”[^f00009], “qualifying order”[^f00010], “order freeing a child for adoption”[^f00011], “still-born child” and “Sure Start Maternity Grant” have the meanings given in regulation 2(1) of the principal Regulations.
 
-## 4. Amendment of the Social Security (Claims and Payments) Regulations[^key-f977afdea437c2a94818a345f746434d]
+## 4. Amendment of the Social Security (Claims and Payments) Regulations[^c-f977afdea437c2a94818a345f746434d]
 
 In paragraph 8[^f00012] of Schedule 4 to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00013] (prescribed times for claiming benefit) for sub-paragraph (b) substitute—
 
@@ -167,21 +167,21 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-a26e0973998024f931f7553867121418]: Commencement: Reg. 1 in operation at 23.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/1)
+[^c-a26e0973998024f931f7553867121418]: Commencement: Reg. 1 in operation at 23.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 506](https://www.legislation.gov.uk/nisr/2005/506); relevant amending Regulation is [S.R. 2010 No. 378](https://www.legislation.gov.uk/nisr/2010/378)
 
 [^f00005]: Footnote: [1954 c. 33 (N. I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-2edeaeaf2d1ad89c4532dd704cffe876]: Commencement: Reg. 2 in operation at 23.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/1)
+[^c-2edeaeaf2d1ad89c4532dd704cffe876]: Commencement: Reg. 2 in operation at 23.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1995 No. 755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)
 
 [^f00007]: Footnote: Regulation 5 was substituted by regulation 2(5) of [S.R. 2010 No. 378](https://www.legislation.gov.uk/nisr/2010/378)
 
-[^key-f63c9bea18ccd461a161ff4574a950b2]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2011/130/regulation/2/4) revoked (13.8.2012) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/292)](https://www.legislation.gov.uk/nisr/2012/292), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/292/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2012/292/regulation/4)
+[^c-f63c9bea18ccd461a161ff4574a950b2]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2011/130/regulation/2/4) revoked (13.8.2012) by [The Social Fund Maternity and Funeral Expenses (General) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/292)](https://www.legislation.gov.uk/nisr/2012/292), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/292/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2012/292/regulation/4)
 
-[^key-b3b19d810c862e5a5aa6584d1b9c1416]: Commencement: Reg. 3 in operation at 23.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/1)
+[^c-b3b19d810c862e5a5aa6584d1b9c1416]: Commencement: Reg. 3 in operation at 23.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/1)
 
 [^f00008]: Footnote: The definition of “confinement” was amended by regulation 2(2)(c) of [S.R. 2010 No. 378](https://www.legislation.gov.uk/nisr/2010/378)
 
@@ -191,7 +191,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00011]: Footnote: The definition of “order freeing a child for adoption” was inserted by regulation 2(2)(e) of [S.R. 2010 No. 378](https://www.legislation.gov.uk/nisr/2010/378)
 
-[^key-f977afdea437c2a94818a345f746434d]: Commencement: Reg. 4 in operation at 23.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/1)
+[^c-f977afdea437c2a94818a345f746434d]: Commencement: Reg. 4 in operation at 23.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/130/regulation/1/1)
 
 [^f00012]: Footnote: Paragraph 8 was substituted by regulation 3(a) of [S.R. 2010 No. 378](https://www.legislation.gov.uk/nisr/2010/378)
 

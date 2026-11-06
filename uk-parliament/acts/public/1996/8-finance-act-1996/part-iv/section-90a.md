@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90A. Change of accounting basis applicable to assets or liabilities[^key-491e117e478058fb48ef9d11ebe092f6]
+## 90A. Change of accounting basis applicable to assets or liabilities[^c-491e117e478058fb48ef9d11ebe092f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-491e117e478058fb48ef9d11ebe092f6]: Textual amendment: [S. 90A](https://www.legislation.gov.uk/ukpga/1996/8/section/90A) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 416](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/416), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-491e117e478058fb48ef9d11ebe092f6]: Textual amendment: [S. 90A](https://www.legislation.gov.uk/ukpga/1996/8/section/90A) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 416](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/416), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

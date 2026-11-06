@@ -27,7 +27,7 @@ summary: ''
 - (a) an offence under section 297A(1) (criminal liability for making, importing, etc. unauthorised decoders),
 - (b) an offence under the Trade Descriptions Act 1968,
 - (ba)[^M_F_c2da8a27-4ead-4b19-b924-afc4ff386746] an offence under the Business Protection from Misleading Marketing Regulations 2008,
-- (bb) an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^key-5c6108e054c1a06b4c39e36eb7ea173a], or
+- (bb) an offence under Chapter 1 of Part 4 of the Digital Markets, Competition and Consumers Act 2024[^c-5c6108e054c1a06b4c39e36eb7ea173a], or
 - (c) an offence involving dishonesty or deception.
 
 (3) An application under this section may be made—
@@ -56,4 +56,4 @@ summary: ''
 
 [^M_F_c2da8a27-4ead-4b19-b924-afc4ff386746]: Textual amendment: S. 297C(2)(ba)(bb) and word substituted (26.5.2008) for word by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2008/1277/schedule/2/paragraph/44) (with [reg. 28(2)(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2/3))
 
-[^key-5c6108e054c1a06b4c39e36eb7ea173a]: Textual amendment: Words in [s. 297C(2)(bb)](https://www.legislation.gov.uk/ukpga/1988/48/section/297C/2/bb) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 6(6)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/6/6) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)
+[^c-5c6108e054c1a06b4c39e36eb7ea173a]: Textual amendment: Words in [s. 297C(2)(bb)](https://www.legislation.gov.uk/ukpga/1988/48/section/297C/2/bb) substituted (6.4.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 21 para. 6(6)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/21/paragraph/6/6) (with [ss. 235](https://www.legislation.gov.uk/ukpga/2024/13/section/235), [243](https://www.legislation.gov.uk/ukpga/2024/13/section/243), [252](https://www.legislation.gov.uk/ukpga/2024/13/section/252)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/12)

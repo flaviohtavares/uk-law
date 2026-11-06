@@ -45,7 +45,7 @@ Coming into force in accordance with regulation 1(2)
 
 The Scottish Ministers, in exercise of the powers conferred by sections 16(1), (1A), (2) and (3) and 36 of the Plant Varieties and Seeds Act 1964[^f00001] and of all other powers enabling them in that behalf, after consultation in accordance with section 16(1) of that Act with representatives of such interests as appear to them to be concerned, hereby make the following Regulations:
 
-## 1. Citation, commencement and extent[^key-e8257d3f263aafba6e775834316a8b6d][^key-e8257d3f263aafba6e775834316a8b6d]
+## 1. Citation, commencement and extent[^c-e8257d3f263aafba6e775834316a8b6d][^c-e8257d3f263aafba6e775834316a8b6d]
 
 (1) These Regulations may be cited as the Seeds (Miscellaneous Amendments) (No. 2) (Scotland) Regulations 2002.
 
@@ -56,15 +56,15 @@ The Scottish Ministers, in exercise of the powers conferred by sections 16(1), (
 
 (3) These Regulations extend to Scotland only.
 
-## 2. Revocation of the Seeds (Miscellaneous Amendments) (Scotland) Regulations 2002[^key-c7e1a35d82cfe4ef38c598cc92d3e0bb][^key-c7e1a35d82cfe4ef38c598cc92d3e0bb]
+## 2. Revocation of the Seeds (Miscellaneous Amendments) (Scotland) Regulations 2002[^c-c7e1a35d82cfe4ef38c598cc92d3e0bb][^c-c7e1a35d82cfe4ef38c598cc92d3e0bb]
 
 The Seeds (Miscellaneous Amendments) (Scotland) Regulations 2002[^f00002] are revoked.
 
-## 3. Amendment of the Cereal Seeds Regulations 1993[^key-dbc267fd23b6666692ef497477b465e3]
+## 3. Amendment of the Cereal Seeds Regulations 1993[^c-dbc267fd23b6666692ef497477b465e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Fodder Plant Seeds Regulations 1993[^key-bbf2182227c07e0c1aba237e3ea1b96c]
+## 4. Amendment of the Fodder Plant Seeds Regulations 1993[^c-bbf2182227c07e0c1aba237e3ea1b96c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -92,12 +92,12 @@ The Regulations specify the conditions for the exemption, in implementation of C
 
 [^f00001]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14). Section 16 was amended by the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), section 4(1) and Schedule 4, paragraph 5(1), (2) and (3); see section 38(1) for the definition of “the Minister”. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e8257d3f263aafba6e775834316a8b6d]: Commencement: Reg. 1 in force at 31.12.2002, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2002/564/regulation/1/2/a)
+[^c-e8257d3f263aafba6e775834316a8b6d]: Commencement: Reg. 1 in force at 31.12.2002, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2002/564/regulation/1/2/a)
 
-[^key-c7e1a35d82cfe4ef38c598cc92d3e0bb]: Commencement: Reg. 2 in force at 31.12.2002, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2002/564/regulation/1/2/a)
+[^c-c7e1a35d82cfe4ef38c598cc92d3e0bb]: Commencement: Reg. 2 in force at 31.12.2002, see [reg. 1(2)(a)](https://www.legislation.gov.uk/ssi/2002/564/regulation/1/2/a)
 
 [^f00002]: Footnote: [S.S.I. 2002/520](https://www.legislation.gov.uk/ssi/2002/520).
 
-[^key-dbc267fd23b6666692ef497477b465e3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2002/564/regulation/3) revoked (1.7.2005) by [The Cereal Seed (Scotland) Regulations 2005 (S.S.I. 2005/328)](https://www.legislation.gov.uk/ssi/2005/328), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1), [sch. 8](https://www.legislation.gov.uk/ssi/2005/328/schedule/8)
+[^c-dbc267fd23b6666692ef497477b465e3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2002/564/regulation/3) revoked (1.7.2005) by [The Cereal Seed (Scotland) Regulations 2005 (S.S.I. 2005/328)](https://www.legislation.gov.uk/ssi/2005/328), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/328/regulation/1/1), [sch. 8](https://www.legislation.gov.uk/ssi/2005/328/schedule/8)
 
-[^key-bbf2182227c07e0c1aba237e3ea1b96c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2002/564/regulation/4) revoked (1.7.2005) by [The Fodder Plant Seed (Scotland) Regulations 2005 (S.S.I. 2005/329)](https://www.legislation.gov.uk/ssi/2005/329), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/2), [sch. 8](https://www.legislation.gov.uk/ssi/2005/329/schedule/8)
+[^c-bbf2182227c07e0c1aba237e3ea1b96c]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2002/564/regulation/4) revoked (1.7.2005) by [The Fodder Plant Seed (Scotland) Regulations 2005 (S.S.I. 2005/329)](https://www.legislation.gov.uk/ssi/2005/329), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/2), [sch. 8](https://www.legislation.gov.uk/ssi/2005/329/schedule/8)

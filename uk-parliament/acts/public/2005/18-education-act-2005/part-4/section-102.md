@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. local authority targets: England[^key-94ed0295e29907765ea29be5dd3e5cb4]
+## 102. local authority targets: England[^c-94ed0295e29907765ea29be5dd3e5cb4]
 
 *Extent: E+W*
 
-(1) The Secretary of State may by regulations require local authorities[^key-a2173b6f678e4942b640e80d5cd628b4] in England to set annual targets in respect of the educational performance—
+(1) The Secretary of State may by regulations require local authorities[^c-a2173b6f678e4942b640e80d5cd628b4] in England to set annual targets in respect of the educational performance—
 
 - (a) of pupils at schools maintained by them, and
 - (b) of any persons of compulsory school age (whether or not pupils at such schools) who are or have been looked after by them.
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
-[^key-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)
+[^c-a2173b6f678e4942b640e80d5cd628b4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. National Policing Plan[^key-0bbc8993a575dae733391f7e5482de03]
+## 36A. National Policing Plan[^c-0bbc8993a575dae733391f7e5482de03]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bbc8993a575dae733391f7e5482de03]: Textual amendment: S. 36A repealed (8.11.2006) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/24), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B)
+[^c-0bbc8993a575dae733391f7e5482de03]: Textual amendment: S. 36A repealed (8.11.2006) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/53/2), [Sch. 2 para. 24](https://www.legislation.gov.uk/ukpga/2006/48/schedule/2/paragraph/24), [Sch. 15 Pt. 1(B)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/15/part/1/B)

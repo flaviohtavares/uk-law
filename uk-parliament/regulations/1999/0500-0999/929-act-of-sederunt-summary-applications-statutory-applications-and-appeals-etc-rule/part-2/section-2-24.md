@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.24. Deposits for expenses[^key-5746036f4d511c137e4e684a6890e330]
+## 2.24. Deposits for expenses[^c-5746036f4d511c137e4e684a6890e330]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where, under any enactment, the sheriff requires the pursuer to deposit a sum of
 
 ## Annotations
 
-[^key-5746036f4d511c137e4e684a6890e330]: Commencement: Rule 2.24 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-5746036f4d511c137e4e684a6890e330]: Commencement: Rule 2.24 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

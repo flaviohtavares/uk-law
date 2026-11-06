@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. Admission or rejection of proofs[^key-22a9b7bce7204a161c95905c78d592d9]
+## 176. Admission or rejection of proofs[^c-22a9b7bce7204a161c95905c78d592d9]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22a9b7bce7204a161c95905c78d592d9]: Commencement: [Rule 176](https://www.legislation.gov.uk/uksi/2011/1301/rule/176) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-22a9b7bce7204a161c95905c78d592d9]: Commencement: [Rule 176](https://www.legislation.gov.uk/uksi/2011/1301/rule/176) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

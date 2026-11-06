@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Amendment of the principal Regulations[^key-f67dceefc546f0d849af7e6b7edfaed0]
+## 2. Amendment of the principal Regulations[^c-f67dceefc546f0d849af7e6b7edfaed0]
 
 *Extent: N.I.*
 
@@ -289,7 +289,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f67dceefc546f0d849af7e6b7edfaed0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/350/regulation/2) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
+[^c-f67dceefc546f0d849af7e6b7edfaed0]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/350/regulation/2) in operation at 19.3.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/350/regulation/1/1)
 
 [^f00007]: Footnote: Regulation 78(4)(*a*) and (*b*) was substituted by regulation 8(4)(*a*) of [S.R. 1998 No. 2](https://www.legislation.gov.uk/nisr/1998/2)
 

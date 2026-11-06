@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 357UO. Restriction on use of losses before completion period[^key-d18134d96f8e0fc4a93e26cbfd550f65][^key-daff5b22d7ee6f395950067d2a1daa9d]
+## 357UO. Restriction on use of losses before completion period[^c-d18134d96f8e0fc4a93e26cbfd550f65][^c-daff5b22d7ee6f395950067d2a1daa9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) any Northern Ireland losses of the trade of the period, or
 - (b) any mainstream losses of the trade of the period;
 
-and references to losses in subsections (2) and (3)[^key-f5060fd229d57359f23991d8c37979fe] of that section are to be read accordingly.
+and references to losses in subsections (2) and (3)[^c-f5060fd229d57359f23991d8c37979fe] of that section are to be read accordingly.
 
 (3) Subsection (4) applies if a Northern Ireland company has, in an accounting period preceding the completion period—
 
@@ -45,8 +45,8 @@ and references to losses in subsections (2) and (3)[^key-f5060fd229d57359f23991d
 
 ## Annotations
 
-[^key-d18134d96f8e0fc4a93e26cbfd550f65]: Textual amendment: Pt. 8B Ch. 14A inserted (with effect in accordance with Sch. 8 para. 18(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/14)
+[^c-d18134d96f8e0fc4a93e26cbfd550f65]: Textual amendment: Pt. 8B Ch. 14A inserted (with effect in accordance with Sch. 8 para. 18(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/14)
 
-[^key-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
+[^c-daff5b22d7ee6f395950067d2a1daa9d]: Textual amendment: Pt. 8B inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [s. 1](https://www.legislation.gov.uk/ukpga/2015/21/section/1)
 
-[^key-f5060fd229d57359f23991d8c37979fe]: Textual amendment: Words in [s. 357UO(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357UO/2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 105](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/105)
+[^c-f5060fd229d57359f23991d8c37979fe]: Textual amendment: Words in [s. 357UO(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/357UO/2) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 105](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/105)

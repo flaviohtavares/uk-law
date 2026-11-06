@@ -18,11 +18,11 @@ summary: ''
 
 *Extent: E+W*
 
-**113.**[^key-5d487c8ea5f3c2e3419c5ece75e8fb44] In section 10(3)—
+**113.**[^c-5d487c8ea5f3c2e3419c5ece75e8fb44] In section 10(3)—
 
 - (a) after “magistrates’ court”, in the first place, insert “in Northern Ireland”; and
 - (b) for the words “that part of the United Kingdom in which the registering court is” substitute “Northern Ireland”.
 
 ## Annotations
 
-[^key-5d487c8ea5f3c2e3419c5ece75e8fb44]: Commencement: Art. 113 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-5d487c8ea5f3c2e3419c5ece75e8fb44]: Commencement: Art. 113 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

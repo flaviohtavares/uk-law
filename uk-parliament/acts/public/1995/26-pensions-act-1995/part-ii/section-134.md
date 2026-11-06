@@ -24,7 +24,7 @@ summary: ''
 
 (2) Section 54(4) of that Act (effect on advance claims for retirement pension of deferral of entitlement) is omitted.
 
-(3)[^key-590acee88ea02d51e8801fa680968b3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-590acee88ea02d51e8801fa680968b3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 122(1) of that Act (interpretation of Parts I to VI), after the definition of “week” there is inserted—
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c2136342]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-590acee88ea02d51e8801fa680968b3c]: Textual amendment: [S. 134(3)](https://www.legislation.gov.uk/ukpga/1995/26/section/134/3) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(4)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/4), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13)
+[^c-590acee88ea02d51e8801fa680968b3c]: Textual amendment: [S. 134(3)](https://www.legislation.gov.uk/ukpga/1995/26/section/134/3) repealed (6.4.2005) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [s. 322(4)](https://www.legislation.gov.uk/ukpga/2004/35/section/322/4), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13)

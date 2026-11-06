@@ -47,11 +47,11 @@ Coming into force
 
 The Secretary of State for the Environment, Transport and the Regions, as respects England, the Secretary of State for Scotland, as respects Scotland, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred by sections 35A(3) and (4), 36A(5)(b) and 37A(6)(b) of the Environmental Protection Act 1990[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-f91d90ea63772e6e98d66e4b00afa8c9]
+## 1. Citation and commencement[^c-f91d90ea63772e6e98d66e4b00afa8c9]
 
 These Regulations may be cited as the Waste Management Licences (Consultation and Compensation) Regulations 1999 and shall come into force on 1st April 1999.
 
-## 2. Interpretation[^key-e413ddc19eeb3ad6728465cba5d72799]
+## 2. Interpretation[^c-e413ddc19eeb3ad6728465cba5d72799]
 
 In these Regulations, unless the context otherwise requires–
 
@@ -62,14 +62,14 @@ In these Regulations, unless the context otherwise requires–
 
 and any reference to a numbered section is a reference to the section bearing that number in the Environmental Protection Act 1990.
 
-## 3. Consultations—prescribed period[^key-a69feaf52dcd71aa0619c6676e82d102]
+## 3. Consultations—prescribed period[^c-a69feaf52dcd71aa0619c6676e82d102]
 
 For the purposes of–
 
 - (a) subsection (5) of section 36A (consultation before the grant of certain licences) (including that subsection as applied by subsection (9B)[^f00005] of section 38 (revocation and suspension of licences)) the period shall be 3 months; and
 - (b) subsection (6) of section 37A (consultation before certain variations), the period shall be six weeks.
 
-## 4. Compensation following grant of rights[^key-4d27b34480acf871fa10816779e13807]
+## 4. Compensation following grant of rights[^c-4d27b34480acf871fa10816779e13807]
 
 Subject to regulation 7(3) and (5)(b), compensation is payable under section 35A (compensation where rights granted pursuant to section 35(4) or 38(9A)) for loss and damage of the following descriptions–
 
@@ -82,13 +82,13 @@ Subject to regulation 7(3) and (5)(b), compensation is payable under section 35A
 - (d) damage to, or injurious affection of, any interest in land to which the grantor is entitled which is not a relevant interest, and which results from the grant of the rights or the exercise of them;
 - (e) loss in respect of work carried out by or on behalf of the grantor which is rendered abortive by the grant of the rights or the exercise of them.
 
-## 5. Time at which entitlement to compensation arises[^key-074ba581885f920787ab51a89649e599]
+## 5. Time at which entitlement to compensation arises[^c-074ba581885f920787ab51a89649e599]
 
 (1) Subject to paragraph (2), an entitlement to compensation under section 35A arises on the date of the grant of the rights.
 
 (2) Where, after a grant of rights pursuant to section 35(4) or 38(9A), the conditions of the licence which rendered the grant of rights necessary are upheld on the final determination of an appeal against those conditions, the entitlement to compensation arises on the date of the final determination of the appeal.
 
-## 6. Applications for compensation[^key-f9954a994c6f446bb88362ed1479533d]
+## 6. Applications for compensation[^c-f9954a994c6f446bb88362ed1479533d]
 
 (1) An application for compensation under section 35A shall be made by the grantor–
 
@@ -104,7 +104,7 @@ Subject to regulation 7(3) and (5)(b), compensation is payable under section 35A
 - (c) a statement of the amount of compensation applied for, distinguishing the amounts applied for under each of paragraphs (a) to (e) of regulation 4, and showing how the amount applied for under each paragraph has been calculated, and
 - (d) where the date on which the entitlement to compensation arises is ascertained in accordance with regulation 5(2), a copy of the notice of the final determination of the appeal.
 
-## 7. Basis on which compensation assessed[^key-144a7dd93d5659c1fe5693e0bdea6165]
+## 7. Basis on which compensation assessed[^c-144a7dd93d5659c1fe5693e0bdea6165]
 
 (1) The amount to be paid by way of compensation under section 35A shall be assessed in accordance with the following paragraphs of this regulation.
 
@@ -121,7 +121,7 @@ Subject to regulation 7(3) and (5)(b), compensation is payable under section 35A
 
 (6) Compensation under section 35A shall include an amount equal to the grantor’s reasonable valuation and legal expenses.
 
-## 8. Payment of compensation and determination of disputes[^key-a2fcdac8610a3f4671b3d753b2d55bbe]
+## 8. Payment of compensation and determination of disputes[^c-a2fcdac8610a3f4671b3d753b2d55bbe]
 
 (1) Compensation payable under section 35A in respect of an interest which is subject to a mortgage shall be paid to the mortgagee or, if there is more than one mortgagee, to the first mortgagee and shall, in either case, be applied by him as if it were proceeds of sale.
 
@@ -180,9 +180,9 @@ Regulation 4 defines the descriptions of loss and damage in respect of which com
 
 [^f00001]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Sections 35A, 36A and 37A were inserted by the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), Schedule 22, paragraphs 67, 69 and 71. *See* also the definition of “regulations” in section 161(1) and (2) of the Environmental Protection Act 1990.
 
-[^key-f91d90ea63772e6e98d66e4b00afa8c9]: Commencement: Reg. 1 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
+[^c-f91d90ea63772e6e98d66e4b00afa8c9]: Commencement: Reg. 1 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
 
-[^key-e413ddc19eeb3ad6728465cba5d72799]: Commencement: Reg. 2 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
+[^c-e413ddc19eeb3ad6728465cba5d72799]: Commencement: Reg. 2 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
 
 [^f00002]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33) (9 & 10 Eliz. 2).
 
@@ -190,20 +190,20 @@ Regulation 4 defines the descriptions of loss and damage in respect of which com
 
 [^f00004]: Footnote: Subsection (9A) was inserted by the Environment Act 1995, Schedule 22, paragraph 72(1).
 
-[^key-a69feaf52dcd71aa0619c6676e82d102]: Commencement: Reg. 3 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
+[^c-a69feaf52dcd71aa0619c6676e82d102]: Commencement: Reg. 3 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
 
 [^f00005]: Footnote: Subsection (9B) was inserted by the Environment Act 1995, Schedule 22, paragraph 72(1).
 
-[^key-4d27b34480acf871fa10816779e13807]: Commencement: Reg. 4 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
+[^c-4d27b34480acf871fa10816779e13807]: Commencement: Reg. 4 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
 
 [^f00006]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
 [^f00007]: Footnote: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 
-[^key-074ba581885f920787ab51a89649e599]: Commencement: Reg. 5 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
+[^c-074ba581885f920787ab51a89649e599]: Commencement: Reg. 5 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
 
-[^key-f9954a994c6f446bb88362ed1479533d]: Commencement: Reg. 6 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
+[^c-f9954a994c6f446bb88362ed1479533d]: Commencement: Reg. 6 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
 
-[^key-144a7dd93d5659c1fe5693e0bdea6165]: Commencement: Reg. 7 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
+[^c-144a7dd93d5659c1fe5693e0bdea6165]: Commencement: Reg. 7 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
 
-[^key-a2fcdac8610a3f4671b3d753b2d55bbe]: Commencement: Reg. 8 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)
+[^c-a2fcdac8610a3f4671b3d753b2d55bbe]: Commencement: Reg. 8 in force at 1.4.1999, see [reg. 1](https://www.legislation.gov.uk/uksi/1999/481/regulation/1)

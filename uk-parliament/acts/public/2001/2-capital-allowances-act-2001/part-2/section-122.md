@@ -26,11 +26,11 @@ summary: ''
 
 - (a) the person (“**X**”) who incurred expenditure on the provision of the plant or machinery;
 - (b) a person who is connected with X;
-- (c)[^key-3e5f2acefb094b71bc1fe58eb92ca40e] a person who acquired the plant or machinery from X as a result of a disposal on the occasion of which, or two or more disposals on the occasion of each of which there was a change in the persons carrying on the qualifying activity in relation to which Condition A or B was met.[^key-8f06c2771d25316ad8107e3868f724fe]
+- (c)[^c-3e5f2acefb094b71bc1fe58eb92ca40e] a person who acquired the plant or machinery from X as a result of a disposal on the occasion of which, or two or more disposals on the occasion of each of which there was a change in the persons carrying on the qualifying activity in relation to which Condition A or B was met.[^c-8f06c2771d25316ad8107e3868f724fe]
 - (d) a person to whom the plant or machinery is leased and who is resident in the United Kingdom;
 - (e) a person to whom the plant or machinery is leased, who is carrying on a qualifying activity in the United Kingdom and who uses the plant or machinery for the short-term leasing in the course of that activity.
 
-(2A)[^key-432a05ec527ca46013645e108e6fb1b7] Condition A is that—
+(2A)[^c-432a05ec527ca46013645e108e6fb1b7] Condition A is that—
 
 - (a) at least one person who carried on the qualifying activity immediately before or immediately after the change was within the charge to income tax in respect of that activity, and
 - (b) at least one person who carried on the qualifying activity before the change continued to carry it on after the change.
@@ -41,14 +41,14 @@ summary: ''
 - (b) a company that was within the charge to corporation tax in respect of the activity carried it on immediately before or immediately after the change, and
 - (c) at least one company which carried the activity on before the change continued to carry it on after the change.
 
-(3)[^key-5869f6fdf91813974ca7b8507768449a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5869f6fdf91813974ca7b8507768449a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e5f2acefb094b71bc1fe58eb92ca40e]: Textual amendment: S. 122(2)(c) substituted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), , [Sch. 1 para. 540(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/540/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-3e5f2acefb094b71bc1fe58eb92ca40e]: Textual amendment: S. 122(2)(c) substituted (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), , [Sch. 1 para. 540(2)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/540/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
-[^key-8f06c2771d25316ad8107e3868f724fe]: Textual amendment: Words in s. 122(2)(c) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 488(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/488/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-8f06c2771d25316ad8107e3868f724fe]: Textual amendment: Words in s. 122(2)(c) substituted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 488(2)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/488/2) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-432a05ec527ca46013645e108e6fb1b7]: Textual amendment: S. 122(2A)(2B) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 488(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/488/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-432a05ec527ca46013645e108e6fb1b7]: Textual amendment: S. 122(2A)(2B) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 488(3)](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/488/3) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-5869f6fdf91813974ca7b8507768449a]: Textual amendment: S. 122(3) repealed (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 540(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/540/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-5869f6fdf91813974ca7b8507768449a]: Textual amendment: S. 122(3) repealed (with effect in accordance with s. 883(1) of the amending Act) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [Sch. 1 para. 540(3)](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/540/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

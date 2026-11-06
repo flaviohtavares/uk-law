@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Postal signing packs[^key-a5afb685e558f68e348b76c58843d34f]
+## 85. Postal signing packs[^c-a5afb685e558f68e348b76c58843d34f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5afb685e558f68e348b76c58843d34f]: Commencement: Reg. 85 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-a5afb685e558f68e348b76c58843d34f]: Commencement: Reg. 85 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

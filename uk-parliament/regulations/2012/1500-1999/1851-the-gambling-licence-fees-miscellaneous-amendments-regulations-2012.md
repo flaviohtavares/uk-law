@@ -46,42 +46,42 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 69(2)(g) and (5), 100(2) and (3), 104(3) and (4), 128, 132(2) and (3) and 355(1) of the Gambling Act 2005[^f00001]:
 
-## 1. Citation and commencement[^key-0d16a1282e0d993d128b34fe72b02556]
+## 1. Citation and commencement[^c-0d16a1282e0d993d128b34fe72b02556]
 
 These Regulations may be cited as the Gambling (Licence Fees) (Miscellaneous Amendments) Regulations 2012 and come into force on 1st September 2012.
 
-## 2. Interpretation[^key-b84ed3d6ad0bbe8f134a73c4dbf069c7]
+## 2. Interpretation[^c-b84ed3d6ad0bbe8f134a73c4dbf069c7]
 
 In these Regulations—
 
 - “the Operating Licence Fees Regulations” means the Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006[^f00002], and
 - “the Personal Licence Fees Regulations” means the Gambling (Personal Licence Fees) Regulations 2006[^f00003].
 
-## 3. Amendment to the Personal Licence Fees Regulations 2006[^key-1dcf34cee6a9cda5f57c5d9568e8cd97]
+## 3. Amendment to the Personal Licence Fees Regulations 2006[^c-1dcf34cee6a9cda5f57c5d9568e8cd97]
 
 In paragraph (3)(b) of regulation 4 of the Personal Licence Fees Regulations (maintenance fees for personal licences), for “£185” substitute “£145”.
 
-## 4. Amendments to regulation 13A of the Operating Licence Fees Regulations[^key-084af89152ac32357a4e56444c962209]
+## 4. Amendments to regulation 13A of the Operating Licence Fees Regulations[^c-084af89152ac32357a4e56444c962209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment to regulation 15(3) of the Operating Licence Fees Regulations[^key-084af89152ac32357a4e56444c962209]
+## 5. Amendment to regulation 15(3) of the Operating Licence Fees Regulations[^c-084af89152ac32357a4e56444c962209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to regulation 20A of the Operating Licence Fees Regulations[^key-084af89152ac32357a4e56444c962209]
+## 6. Amendments to regulation 20A of the Operating Licence Fees Regulations[^c-084af89152ac32357a4e56444c962209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendments to regulation 24 of the Operating Licence Fees Regulations[^key-084af89152ac32357a4e56444c962209]
+## 7. Amendments to regulation 24 of the Operating Licence Fees Regulations[^c-084af89152ac32357a4e56444c962209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendments to Schedule 1 to the Operating Licence Fees Regulations[^key-084af89152ac32357a4e56444c962209]
+## 8. Amendments to Schedule 1 to the Operating Licence Fees Regulations[^c-084af89152ac32357a4e56444c962209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendments to Schedule 4 to the Operating Licence Fees Regulations[^key-084af89152ac32357a4e56444c962209]
+## 9. Amendments to Schedule 4 to the Operating Licence Fees Regulations[^c-084af89152ac32357a4e56444c962209]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -117,14 +117,14 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 [^f00001]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-0d16a1282e0d993d128b34fe72b02556]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1851/regulation/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1851/regulation/1)
+[^c-0d16a1282e0d993d128b34fe72b02556]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2012/1851/regulation/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1851/regulation/1)
 
-[^key-b84ed3d6ad0bbe8f134a73c4dbf069c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1851/regulation/2) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1851/regulation/1)
+[^c-b84ed3d6ad0bbe8f134a73c4dbf069c7]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2012/1851/regulation/2) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1851/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2006/3284](https://www.legislation.gov.uk/uksi/2006/3284), as amended by [S.I. 2007/269](https://www.legislation.gov.uk/uksi/2007/269), [2007/1791](https://www.legislation.gov.uk/uksi/2007/1791), [2008/1803](https://www.legislation.gov.uk/uksi/2008/1803), [2008/3105](https://www.legislation.gov.uk/uksi/2008/3105), [2009/1837](https://www.legislation.gov.uk/uksi/2009/1837) and [2012/829](https://www.legislation.gov.uk/uksi/2012/829).
 
 [^f00003]: Footnote: [S.I. 2006/3285](https://www.legislation.gov.uk/uksi/2006/3285), as amended by [S.I. 2009/1971](https://www.legislation.gov.uk/uksi/2009/1971).
 
-[^key-1dcf34cee6a9cda5f57c5d9568e8cd97]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1851/regulation/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1851/regulation/1)
+[^c-1dcf34cee6a9cda5f57c5d9568e8cd97]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2012/1851/regulation/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1851/regulation/1)
 
-[^key-084af89152ac32357a4e56444c962209]: Textual amendment: [Regs. 4-9](https://www.legislation.gov.uk/uksi/2012/1851/regulation/4) revoked (6.4.2017) by [The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2017 (S.I. 2017/303)](https://www.legislation.gov.uk/uksi/2017/303), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/303/schedule/7)
+[^c-084af89152ac32357a4e56444c962209]: Textual amendment: [Regs. 4-9](https://www.legislation.gov.uk/uksi/2012/1851/regulation/4) revoked (6.4.2017) by [The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2017 (S.I. 2017/303)](https://www.legislation.gov.uk/uksi/2017/303), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/303/schedule/7)

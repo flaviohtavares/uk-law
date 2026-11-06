@@ -42,16 +42,16 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 ## 1. Citation, commencement and interpretation
 
-(1)[^key-f7216a6b6210dc1570fc9f3da903d581] These Regulations may be cited as the Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No 2) Regulations 2005 and shall come into force— *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581]
+(1)[^c-f7216a6b6210dc1570fc9f3da903d581] These Regulations may be cited as the Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) (No 2) Regulations 2005 and shall come into force— *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581]
 
-- (a) for the purposes of regulations 2(8), (9) and (10) and 3(6), on 3rd April 2005; *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581]
-- (b) for all other purposes, on 4th April 2005. *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581]
+- (a) for the purposes of regulations 2(8), (9) and (10) and 3(6), on 3rd April 2005; *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581]
+- (b) for all other purposes, on 4th April 2005. *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581]
 
-(2) In these Regulations— *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581]
+(2) In these Regulations— *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581]
 
-- “**the Council Tax Benefit Regulations *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581]**” means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581] [^c1131138];
-- “**the Housing Benefit Regulations *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581]**” means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581] [^c1131139];
-- “**the State Pension Credit Regulations *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581]**” means the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 *(affected by repeal, see note)*[^key-f7216a6b6210dc1570fc9f3da903d581] [^c1131140].
+- “**the Council Tax Benefit Regulations *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581]**” means the Council Tax Benefit (General) Regulations 1992 *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581] [^c1131138];
+- “**the Housing Benefit Regulations *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581]**” means the Housing Benefit (General) Regulations 1987 *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581] [^c1131139];
+- “**the State Pension Credit Regulations *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581]**” means the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 *(affected by repeal, see note)*[^c-f7216a6b6210dc1570fc9f3da903d581] [^c1131140].
 
 ## 2. Amendment of the Council Tax Benefit Regulations
 
@@ -237,7 +237,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c1131137]: Marginal citation: *See* section 176(1)(a) of the Social Security Administration Act 1992.
 
-[^key-f7216a6b6210dc1570fc9f3da903d581]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2005/573) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-f7216a6b6210dc1570fc9f3da903d581]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2005/573) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c1131138]: Marginal citation: [S.I. 1992/1814](https://www.legislation.gov.uk/uksi/1992/1814).
 

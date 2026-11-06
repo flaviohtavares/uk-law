@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 214A. Power to designate banks as “authorised banks”[^key-d2f67023916ec2122c25ad88d54816b9]
+## 214A. Power to designate banks as “authorised banks”[^c-d2f67023916ec2122c25ad88d54816b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ a banknote is in circulation from the time that it is issued by an authorised ba
 
 ## Annotations
 
-[^key-d2f67023916ec2122c25ad88d54816b9]: Textual amendment: S. 214A inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 38(5)](https://www.legislation.gov.uk/ukpga/2016/14/section/38/5), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(bb)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/bb)
+[^c-d2f67023916ec2122c25ad88d54816b9]: Textual amendment: S. 214A inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 38(5)](https://www.legislation.gov.uk/ukpga/2016/14/section/38/5), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(bb)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/bb)

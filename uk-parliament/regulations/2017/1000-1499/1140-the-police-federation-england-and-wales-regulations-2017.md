@@ -52,13 +52,13 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-d007e040cdef796466fb94201916bc31]
+### 1. Citation, commencement and extent[^c-d007e040cdef796466fb94201916bc31]
 
 (1) These Regulations may be cited as the Police Federation (England and Wales) Regulations 2017 and come into force on 31st December 2017.
 
 (2) These Regulations extend to England and Wales.
 
-### 2. Interpretation[^key-a3c5fc9bb9c072e9b4b9a34e9dca8485]
+### 2. Interpretation[^c-a3c5fc9bb9c072e9b4b9a34e9dca8485]
 
 (1) In these Regulations—
 
@@ -90,7 +90,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 - “the national fund” has the meaning given in regulation 18(3);
 - “the national secretary” has the meaning given in regulation 12(1)(b);
 - “the national treasurer” has the meaning given in regulation 12(6);
-- “[^key-42a159d94070f487c5c39850dbb6d5bf]**police officer**” means a member of a police force or a special constable;
+- “[^c-42a159d94070f487c5c39850dbb6d5bf]**police officer**” means a member of a police force or a special constable;
 - “relevant period” means the period of 18 months after these regulations come into force.
 
 (2) For the purposes of these Regulations, “protected chacteristic” is to be read in accordance with the Equality Act 2010[^f00003].
@@ -98,12 +98,12 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 (3) In these Regulations—
 
 - (a) a reference to the relevant Federation branch—
-  - (i)[^key-cc0d325dde00c664ac34bd519c2b14a7] in relation to a member of the Federation who is a member of a police force or a police cadet, is a reference to the Federation branch for the members of the police force of which he is or she is, or training to become, a member,
+  - (i)[^c-cc0d325dde00c664ac34bd519c2b14a7] in relation to a member of the Federation who is a member of a police force or a police cadet, is a reference to the Federation branch for the members of the police force of which he is or she is, or training to become, a member,
   - (ia) in relation to a member of the Federation who is a special constable, is a reference to the Federation branch for the special constables appointed for the police area to which he or she is appointed as a special constable;
   - (ii) in relation to a branch council or branch board, is a reference to the Federation branch in respect of which the council or board is constituted;
   - (iii) in relation to a metropolitan executive committee, is a reference to the metropolitan police force branch;
 - (b) a reference to the relevant police force—
-  - (i)[^key-6aa8eae28de208e45ad4dded1049a9fa] in relation to a Federation branch, is a reference to the police force—
+  - (i)[^c-6aa8eae28de208e45ad4dded1049a9fa] in relation to a Federation branch, is a reference to the police force—
     - (aa) whose members belong to that branch, or
     - (bb) maintained for the police area whose special constables belong to that branch;
   - (ii) in relation to a branch council or branch board, is a reference to the police force—
@@ -111,7 +111,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
     - (bb) maintained for the police area whose special constables belong to the Federation branch in respect of which the council or board is constituted;
   - (iii) in relation to a metropolitan executive committee, is a reference to the metropolitan police force;
 - (c) a reference to the relevant chief officer—
-  - (i)[^key-6407720d2653fc49e1f3b8c12c9267b6] in relation to a Federation branch, is a reference to the chief officer of police of the police force—
+  - (i)[^c-6407720d2653fc49e1f3b8c12c9267b6] in relation to a Federation branch, is a reference to the chief officer of police of the police force—
     - (aa) whose members belong to that branch, or
     - (bb) maintained for the police area whose special constables belong to that branch;
   - (ii) in relation to a branch council or branch board, is a reference to the chief officer of police of the police force—
@@ -119,7 +119,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
     - (bb) maintained for the police area whose special constables belong to the Federation branch in respect of which the council or board is constituted;
   - (iii) in relation to a metropolitan executive committee, is a reference to the chief officer of police of the metropolitan police force;
 - (d) a reference to the relevant local policing body—
-  - (i)[^key-afab61892a81c117602333f37cac6b15] in relation to a Federation branch, is a reference to the local policing body which maintains the police force—
+  - (i)[^c-afab61892a81c117602333f37cac6b15] in relation to a Federation branch, is a reference to the local policing body which maintains the police force—
     - (aa) whose members belong to that branch, or
     - (bb) maintained for the police area whose special constables belong to that branch;
   - (ii) in relation to a branch council or branch board, is a reference to the local policing body which maintains the police force—
@@ -132,10 +132,10 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
   - (ii) in relation to a metropolitan executive committee, is a reference to the council for which that metropolitan executive committee is constituted;
 - (f) a reference to the relevant branch board—
   - (i) in relation to a member of the Federation who is, or is training to become, a member of a police force, is a reference to the branch board constituted in respect of the branch to which the members of that force belong;
-  - (ia)[^key-3cc6f05d62481a5080632eb809b76274] in relation to a member of the Federation who is a special constable appointed for a police area, is a reference to the branch board constituted in respect of the branch to which special constables appointed for that police area belong;
+  - (ia)[^c-3cc6f05d62481a5080632eb809b76274] in relation to a member of the Federation who is a special constable appointed for a police area, is a reference to the branch board constituted in respect of the branch to which special constables appointed for that police area belong;
   - (ii) in relation to a Federation branch, is a reference to the branch board constituted in respect of the same branch.
 
-### 3. The Federation and its structure[^key-600226fe20a66277cc9118637b182382]
+### 3. The Federation and its structure[^c-600226fe20a66277cc9118637b182382]
 
 (1) There is to continue to be a Federation branch for each police force in England and Wales.
 
@@ -154,15 +154,15 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 ## PART 2 — Membership and voluntary subscriptions
 
-### 4. Membership of the Federation[^key-75948e737c326f6986dc0a24eb4a3a7a]
+### 4. Membership of the Federation[^c-75948e737c326f6986dc0a24eb4a3a7a]
 
 (1) Each of the following is eligible to be a member of the Federation—
 
 - (a) a member of a police force in England and Wales below the rank of superintendent;
 - (b) a police cadet undergoing training with a view to becoming a member of a police force in England and Wales;
-- (c)[^key-b7077efc976dbb735ca7f278e194df9d] a special constable appointed for a police area in England and Wales.
+- (c)[^c-b7077efc976dbb735ca7f278e194df9d] a special constable appointed for a police area in England and Wales.
 
-(2)[^key-d4b547567b3d38d93636df43a69ed67e] A person who is eligible to be a member of the Federation may opt to join it by joining the relevant Federation branch at any time after—
+(2)[^c-d4b547567b3d38d93636df43a69ed67e] A person who is eligible to be a member of the Federation may opt to join it by joining the relevant Federation branch at any time after—
 
 - (a) becoming a member of a police force in England and Wales,
 - (b) starting cadet training with a view to becoming a member of such a police force, or
@@ -172,7 +172,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (4) A member of the Federation is entitled, on giving not less than one month’s notice to the branch secretary of that member’s Federation branch, to terminate that member’s membership of that branch and the Federation, but a shorter period of notice may be given where the Federation agrees to this.
 
-### 5. Effect of paying voluntary subscriptions[^key-460062c34856ce2a7530b70a96d59fe2]
+### 5. Effect of paying voluntary subscriptions[^c-460062c34856ce2a7530b70a96d59fe2]
 
 (1) A member of the Federation who pays voluntary subscriptions is entitled to the provision of advice and representation by the Federation in accordance with any conditions set out in Federation rules in relation to the specified matters mentioned in paragraph (2).
 
@@ -183,13 +183,13 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 - (c) complaints or other matters falling within section 12 of the Police Reform Act 2002[^f00006];
 - (d) complaints relating to police cadets in training.
 
-### 6. New members[^key-990f43bb3f50ce535ced3ce3ad6cfc64]
+### 6. New members[^c-990f43bb3f50ce535ced3ce3ad6cfc64]
 
 (1) The Federation must—
 
-- (a) notify each new member of a police force below the rank of superintendent, [^key-0bb5807117275139dfc3ee14882b413f]... each new police cadet in training with a view to becoming a member of a police force and each new special constable appointed for a police area[^key-16dd853be7a9a03bb76ec15e4af076f7], that the member, cadet or special constable[^key-9c889ab2790dbe3bbb813fb5a05e2f59] may opt to join the Federation;
-- (b) notify each member of a police force below the rank of superintendent, [^key-66f6a3d485a3402186348041e4b9f097]... each police cadet in training with a view to becoming a member of a police force and each special constable appointed for a police area[^key-10556ce057d1c40ae6aa7fd470d7948b], who wishes to join the Federation that—
-  - (i) the member, cadet or special constable[^key-8dcc0ae3bcc2319ee104fc2996697205] may opt to pay voluntary subscriptions to the Federation, and
+- (a) notify each new member of a police force below the rank of superintendent, [^c-0bb5807117275139dfc3ee14882b413f]... each new police cadet in training with a view to becoming a member of a police force and each new special constable appointed for a police area[^c-16dd853be7a9a03bb76ec15e4af076f7], that the member, cadet or special constable[^c-9c889ab2790dbe3bbb813fb5a05e2f59] may opt to join the Federation;
+- (b) notify each member of a police force below the rank of superintendent, [^c-66f6a3d485a3402186348041e4b9f097]... each police cadet in training with a view to becoming a member of a police force and each special constable appointed for a police area[^c-10556ce057d1c40ae6aa7fd470d7948b], who wishes to join the Federation that—
+  - (i) the member, cadet or special constable[^c-8dcc0ae3bcc2319ee104fc2996697205] may opt to pay voluntary subscriptions to the Federation, and
   - (ii) the payment of such subscriptions will entitle the member, cadet or special constable to the provision of advice and representation by the Federation in accordance with any conditions set out in Federation rules in relation to the specified matters mentioned in regulation 5(2).
 
 (2) The notifications required under paragraph (1) must be given as soon as reasonably practicable, and for notifications under paragraph (1)(a), within one month after the date on which any Federation body learns of the new member or police cadet.
@@ -203,7 +203,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 ## PART 3 — Constitution and proceedings of the Federation branches, Federation bodies and annual conference
 
-### 7. Federation branches[^key-a8665d0319fff5f1638cfe8e2ab1a353]
+### 7. Federation branches[^c-a8665d0319fff5f1638cfe8e2ab1a353]
 
 (1) Each Federation branch is to have a chair (“the branch chair”), elected by the members of the branch from among the members of the branch board in accordance with Federation rules.
 
@@ -226,7 +226,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (6) Subject to these Regulations and Federation rules, a Federation branch may regulate its own proceedings.
 
-### 8. Branch councils[^key-b06e21a431d2282b73ec7d103f8fddab]
+### 8. Branch councils[^c-b06e21a431d2282b73ec7d103f8fddab]
 
 (1) A branch council constituted in respect of a Federation branch other than the metropolitan police force branch is to comprise the following members—
 
@@ -247,11 +247,11 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (6) Subject to these Regulations and Federation rules, a branch council may regulate its own proceedings.
 
-### 9. Metropolitan police force: branch council and representation[^key-1e46b524a0b446f66c2ca3ce6d54c154]
+### 9. Metropolitan police force: branch council and representation[^c-1e46b524a0b446f66c2ca3ce6d54c154]
 
 (1) Unless Federation rules provide otherwise, the members of the metropolitan police force branch are to elect in accordance with Federation rules one representative for every 65 police officers in the metropolitan police force (“elected representatives”).
 
-(1A)[^key-e9f8195acf16b53f4e0e9e73439fe064] For the purposes of paragraph (1), the number of police officers in the metropolitan police force is the total number of police officers in that force on 31st March in the year that was two years before that in which the election is held.
+(1A)[^c-e9f8195acf16b53f4e0e9e73439fe064] For the purposes of paragraph (1), the number of police officers in the metropolitan police force is the total number of police officers in that force on 31st March in the year that was two years before that in which the election is held.
 
 (2) One or more branch councils are to be constituted in respect of the metropolitan police force branch, comprising—
 
@@ -272,7 +272,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (9) Subject to these Regulations and Federation rules, a branch council and a metropolitan executive committee may each regulate their own proceedings.
 
-### 10. Branch boards[^key-edd897ab4147d858410d9d2c66b5b5d8]
+### 10. Branch boards[^c-edd897ab4147d858410d9d2c66b5b5d8]
 
 (1) A branch board constituted in respect of a Federation branch other than the metropolitan police force branch, or a branch board constituted in respect of the metropolitan police force branch where there is only one branch council, is to comprise the number of members determined under paragraph (3), elected by the members of the relevant branch council from among their number in accordance with Federation rules.
 
@@ -280,7 +280,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (3) Unless Federation rules provide otherwise, the number of members mentioned in paragraph (1) to be elected by the members of the relevant branch council from among their number is—
 
-- (a) 10 where the number of members of the relevant police force and special constables appointed for the police area for which the relevant police force is maintained[^key-dfc85b9069dcb7c4c0671f9c31fb0e11] is less than 1500;
+- (a) 10 where the number of members of the relevant police force and special constables appointed for the police area for which the relevant police force is maintained[^c-dfc85b9069dcb7c4c0671f9c31fb0e11] is less than 1500;
 - (b) 12 where the number of members of the relevant police force and special constables appointed for the police area for which the relevant police force is maintained is between 1500 and 4499;
 - (c) 14 where the number of members of the relevant police force and special constables appointed for the police area for which the relevant police force is maintained is more than 4499.
 
@@ -302,7 +302,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (9) Subject to these Regulations and Federation rules, a branch board may regulate its own proceedings.
 
-### 11. The national council[^key-5f651f0ccb9a4ddc47adcf83b27f7902]
+### 11. The national council[^c-5f651f0ccb9a4ddc47adcf83b27f7902]
 
 (1) The national council is to comprise the following members—
 
@@ -326,7 +326,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (7) Subject to these Regulations and Federation rules, the national council may regulate its own proceedings.
 
-### 12. The national board[^key-e7e75acf4b4268e90fa17a54f27ee75c]
+### 12. The national board[^c-e7e75acf4b4268e90fa17a54f27ee75c]
 
 (1) The national board is to comprise the following members—
 
@@ -352,7 +352,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (10) Subject to these Regulations and Federation rules, the national board may regulate its own proceedings.
 
-### 13. Terms of office[^key-9e6018901090e0e619578ea2965f4ef7]
+### 13. Terms of office[^c-9e6018901090e0e619578ea2965f4ef7]
 
 (1) This regulation is subject to Federation rules—
 
@@ -365,7 +365,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (4) A person holds and vacates office as the national secretary in accordance with the terms of his or her appointment, and may be appointed for one or more terms, provided that no person holds office as national secretary for a period of more than ten years.
 
-### 14. The annual conference[^key-88270236ec27097f962b5fced1a0c044]
+### 14. The annual conference[^c-88270236ec27097f962b5fced1a0c044]
 
 (1) The national board is to arrange an annual conference of the Federation on a date agreed by the Secretary of State.
 
@@ -383,7 +383,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (6) Subject to these Regulations and Federation rules, the annual conference may regulate its own proceedings.
 
-### 15. Equality assessment and report[^key-8b9bd09e5236d46ae804413f18d44748]
+### 15. Equality assessment and report[^c-8b9bd09e5236d46ae804413f18d44748]
 
 (1) The Federation must, in accordance with Federation rules, carry out or arrange an assessment within six months after the election of members of the national board under regulation 12(1)(c) and in every third year after that of the representation of persons with a protected characteristic in the Federation.
 
@@ -412,7 +412,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 ## PART 4 — Financial arrangements
 
-### 16. Remuneration etc. of members of the national board[^key-db4445071118a90ec51da8d51353ae16]
+### 16. Remuneration etc. of members of the national board[^c-db4445071118a90ec51da8d51353ae16]
 
 (1) The national board must make an appropriate contribution out of the national fund to the relevant local policing body in respect of the pay, pension or allowances payable by the body to or in respect of a member of the national board (other than the national secretary where he or she is not a member of a police force).
 
@@ -427,7 +427,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (5) Any London weighting or London allowance or supplement provided for under the Regulations mentioned in paragraph (3) is to not apply in the case of an officer mentioned in that paragraph unless it would apply to that person apart from paragraph (4).
 
-### 17. Raising of Federation funds[^key-2d7c540845ab147e59879e0475b571f4]
+### 17. Raising of Federation funds[^c-2d7c540845ab147e59879e0475b571f4]
 
 (1) The Federation may only raise funds by—
 
@@ -453,7 +453,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (6) Where the Federation has repaid voluntary subscriptions to M under paragraph (4)(c), that repayment does not affect M’s entitlement to any benefits, facilities or services that result from payment of those voluntary subscriptions.
 
-### 18. Management of Federation funds and property[^key-86051d183de4ec965b378557248d7237]
+### 18. Management of Federation funds and property[^c-86051d183de4ec965b378557248d7237]
 
 (1) Subject to these Regulations, Federation funds raised in accordance with regulation 17(1) and Federation property are to be managed in accordance with Federation rules.
 
@@ -461,7 +461,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 (3) The national board must maintain a fund (“the national fund”) for any purpose of the Federation.
 
-### 19. Use of Federation funds[^key-9dc6c9d768e060f5b24ec1d83187150a]
+### 19. Use of Federation funds[^c-9dc6c9d768e060f5b24ec1d83187150a]
 
 (1) Subject to these Regulations and to Federation rules, the branch board may use its branch fund for any purpose which the branch board may determine to be necessary or expedient in the interests of the Federation or its members.
 
@@ -477,7 +477,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
   - (i) connected with the police service or its welfare, or
   - (ii) carrying out charitable work for the welfare of others.
 
-### 20. Trustees of Federation property and funds[^key-88c764f273ec2bd0665624587ac98ac2]
+### 20. Trustees of Federation property and funds[^c-88c764f273ec2bd0665624587ac98ac2]
 
 (1) Each branch board must appoint in accordance with Federation rules three trustees in whom the branch fund and branch property is to be vested.
 
@@ -498,7 +498,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 - (a) “branch property” is Federation property which is held by or on behalf of a branch, or in respect of which the branch is the beneficial owner;
 - (b) “national property” is Federation property which is not branch property.
 
-### 21. Accounts[^key-3f3b783e32022652b62ba22b43a762d1]
+### 21. Accounts[^c-3f3b783e32022652b62ba22b43a762d1]
 
 (1) Each branch treasurer must, in relation to Federation funds and property held by or on behalf of the Federation branch, or in respect of which the Federation branch is beneficiary, and in accordance with Federation rules—
 
@@ -532,7 +532,7 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 
 ## PART 5 — Federation rules, amendments to other enactments and transitional and savings provisions
 
-### 22. Federation rules[^key-221b822e6bd4be478cc8f3b925fbc053]
+### 22. Federation rules[^c-221b822e6bd4be478cc8f3b925fbc053]
 
 (1) The Federation is authorised to make rules concerning the following matters—
 
@@ -595,17 +595,17 @@ The Secretary of State has also supplied a draft of the Regulations to the Polic
 - (f) any member of a branch council or branch board;
 - (g) any elected representative, within the meaning of regulation 9(1).
 
-### 23. Consequential and supplementary amendments[^key-7ba7f2e98bc0ee82a6c202394562a2df]
+### 23. Consequential and supplementary amendments[^c-7ba7f2e98bc0ee82a6c202394562a2df]
 
 Schedule 1 makes consequential and supplementary amendments.
 
-### 24. Revocations[^key-2a3d48c0aa6390ce22294f47e13c4f53]
+### 24. Revocations[^c-2a3d48c0aa6390ce22294f47e13c4f53]
 
 (1) Subject to paragraph (2), Schedule 2 makes revocations.
 
 (2) The instruments specified in the Table in Schedule 2 are revoked to the extent specified subject to the transitional and savings provisions in Schedule 3.
 
-### 25. Transitional and savings provisions[^key-a1fb0574467cc794edb625a8fc781ebc]
+### 25. Transitional and savings provisions[^c-a1fb0574467cc794edb625a8fc781ebc]
 
 Schedule 3 makes transitional and savings provisions.
 
@@ -621,7 +621,7 @@ Home Office
 
 Regulation 23
 
-### 1. Amendment of the Police Act 1996[^key-120d637b09ea364128c6d460476950ea]
+### 1. Amendment of the Police Act 1996[^c-120d637b09ea364128c6d460476950ea]
 
 (1) The Police Act 1996 is amended as follows.
 
@@ -632,7 +632,7 @@ Regulation 23
 > - (a) for regulations extending to England and Wales, the national board of the Police Federation for England and Wales, and
 > - (b) for regulations extending to Scotland, the three Central Committees of the Police Federation for Scotland, sitting together as a Joint Committee.
 
-### 2. Amendment of the Working Time Regulations 1998[^key-d44510f7e772750dd5fadc2a1391cbac]
+### 2. Amendment of the Working Time Regulations 1998[^c-d44510f7e772750dd5fadc2a1391cbac]
 
 (1) The Working Time Regulations 1998[^f00013] are amended as follows.
 
@@ -647,7 +647,7 @@ Regulation 23
     ;
   - (ii) in the definition of “a joint branch board” omit the words “regulation 7(3) of the Police Federation Regulations 1969 or”.
 
-### 3. Amendment of the Police Regulations 2003[^key-d6e01af22c0980cd848da34fccd17891]
+### 3. Amendment of the Police Regulations 2003[^c-d6e01af22c0980cd848da34fccd17891]
 
 (1) The Police Regulations 2003[^f00015] are amended as follows.
 
@@ -669,7 +669,7 @@ Regulation 23
 >
 > (3) Subject to the approval of the Secretary of State, the attendance of a member of a police force at a meeting of the Police Federation other than a meeting referred to in paragraph (1) or (2) is to be treated as an occasion of police duty.
 
-## SCHEDULE 2 — Revocations[^key-039b2f53649711a7ed23ee02a9683af6]
+## SCHEDULE 2 — Revocations[^c-039b2f53649711a7ed23ee02a9683af6]
 
 Regulation 24
 
@@ -695,7 +695,7 @@ Regulation 24
 
 Regulation 25
 
-**1.**[^key-5feaa021ca81d8e529d9664e614e987a] (1) This paragraph applies for the purposes of the interpretation of this Schedule.
+**1.**[^c-5feaa021ca81d8e529d9664e614e987a] (1) This paragraph applies for the purposes of the interpretation of this Schedule.
 
 (2) In this Schedule—
 
@@ -733,11 +733,11 @@ Regulation 25
 
 (4) In the case of a Federation body constituted from elected members under these Regulations, a reference to its constitution under these Regulations is a reference to the first members becoming members of the body.
 
-**2.**[^key-19ff19330ba931719ade7caff3e4b15a] The existing bodies are to exercise the functions given in these Regulations to the corresponding Federation bodies until such time as the corresponding Federation bodies are constituted.
+**2.**[^c-19ff19330ba931719ade7caff3e4b15a] The existing bodies are to exercise the functions given in these Regulations to the corresponding Federation bodies until such time as the corresponding Federation bodies are constituted.
 
-**3.**[^key-8d2d740c53c08c0c846ff8718ae5ec4b] Where a person is a member of a Federation branch immediately before the entry into force of these Regulations anything done under or for the purposes of a provision of the 1969 Regulations relating to the person’s membership or the payment of voluntary subscriptions which corresponds to a provision of these Regulations is to have effect as if it were done under or for the purposes of the corresponding provision of these Regulations.
+**3.**[^c-8d2d740c53c08c0c846ff8718ae5ec4b] Where a person is a member of a Federation branch immediately before the entry into force of these Regulations anything done under or for the purposes of a provision of the 1969 Regulations relating to the person’s membership or the payment of voluntary subscriptions which corresponds to a provision of these Regulations is to have effect as if it were done under or for the purposes of the corresponding provision of these Regulations.
 
-**4.**[^key-8ce3cc6fac277f14f86cd6c9e241d874] (1) A provision of the 1969 Regulations mentioned in the first column of Table 3 is to continue to have effect in relation to the body or officers specified in the second column of the same row where a body specified in the third column of the same row is not constituted or an officer specified in the third column of the same row has not taken office on the entry into force of these Regulations in respect of the period until the body is so constituted or an officer has taken such office for the first time (as the case may be), subject to sub-paragraph (2).
+**4.**[^c-8ce3cc6fac277f14f86cd6c9e241d874] (1) A provision of the 1969 Regulations mentioned in the first column of Table 3 is to continue to have effect in relation to the body or officers specified in the second column of the same row where a body specified in the third column of the same row is not constituted or an officer specified in the third column of the same row has not taken office on the entry into force of these Regulations in respect of the period until the body is so constituted or an officer has taken such office for the first time (as the case may be), subject to sub-paragraph (2).
 
 (2) In regulation 16, any reference to a fund maintained by a branch board, joint branch board, a central committee or the joint central committee is to be read as a reference to the fund which is required to be maintained by the corresponding Federation body in accordance with these Regulations.
 
@@ -764,31 +764,31 @@ Table 3
 | Schedule 2 | A specified body mentioned in paragraph 1 of Schedule 2 and its officers | The corresponding Federation body and its officers |
 | Schedule 3 | A specified body mentioned in paragraph 1 of Schedule 3 | The corresponding Federation body |
 
-**5.**[^key-c3208776dfdcb783eafec8571c6d0828] (1) The 2018 annual conference is to be held in accordance with the provisions of regulation 9 of the 1969 Regulations subject to the modification specified in sub-paragraph (2) and subsequent annual conferences are to be held in accordance with these Regulations.
+**5.**[^c-c3208776dfdcb783eafec8571c6d0828] (1) The 2018 annual conference is to be held in accordance with the provisions of regulation 9 of the 1969 Regulations subject to the modification specified in sub-paragraph (2) and subsequent annual conferences are to be held in accordance with these Regulations.
 
 (2) The modification referred to in paragraph (1) is, where the joint central committee has been replaced by the national board, the reference in regulation 9 of the 1969 Regulations to the joint central committee is to be read as a reference to the national board.
 
-**6.**[^key-8149747c4ca44cadd68567c3269e1d3e] Anything done by a body mentioned in the first column of Table 1 is to have effect for the purposes of these Regulations or otherwise as if it were done by the corresponding Federation body, subject to any necessary modifications.
+**6.**[^c-8149747c4ca44cadd68567c3269e1d3e] Anything done by a body mentioned in the first column of Table 1 is to have effect for the purposes of these Regulations or otherwise as if it were done by the corresponding Federation body, subject to any necessary modifications.
 
-**7.**[^key-3301c9ba62cfe2da2832bc7bb7763d9c] Any Federation funds or Federation property held by or on behalf of a body mentioned in the first column of Table 1, or by the trustees of such a body, are to be treated as if they were held by or on behalf of the corresponding Federation body or its trustees, subject to any necessary modifications.
+**7.**[^c-3301c9ba62cfe2da2832bc7bb7763d9c] Any Federation funds or Federation property held by or on behalf of a body mentioned in the first column of Table 1, or by the trustees of such a body, are to be treated as if they were held by or on behalf of the corresponding Federation body or its trustees, subject to any necessary modifications.
 
-**8.**[^key-15d2bb4395ec7527e5998771c275ca25] Any rights or liabilities of a body mentioned in the first column of Table 1 are to be treated as if they were rights or liabilities of the corresponding Federation body, subject to any necessary modifications.
+**8.**[^c-15d2bb4395ec7527e5998771c275ca25] Any rights or liabilities of a body mentioned in the first column of Table 1 are to be treated as if they were rights or liabilities of the corresponding Federation body, subject to any necessary modifications.
 
-**9.**[^key-64f8988362505d087a1afa6d4c8d91d1] Any agreements entered into by or on behalf of a body mentioned in the first column of Table 1 are to be treated as if they were agreements entered into by or on behalf of the corresponding Federation body, subject to any necessary modifications.
+**9.**[^c-64f8988362505d087a1afa6d4c8d91d1] Any agreements entered into by or on behalf of a body mentioned in the first column of Table 1 are to be treated as if they were agreements entered into by or on behalf of the corresponding Federation body, subject to any necessary modifications.
 
-**10.**[^key-4f8c5e4ed26fa70322e6fd42136d106f] Anything done by an officer mentioned in the first column of Table 2 is to have effect for the purposes of these Regulations or otherwise as if it were done by the corresponding Federation officer, subject to any necessary modifications.
+**10.**[^c-4f8c5e4ed26fa70322e6fd42136d106f] Anything done by an officer mentioned in the first column of Table 2 is to have effect for the purposes of these Regulations or otherwise as if it were done by the corresponding Federation officer, subject to any necessary modifications.
 
-**11.**[^key-61759cc6213b9252db62e8f5dd9da31f] Anything done by a trustee appointed under regulation 20 of the 1969 Regulations is to have effect for the purposes of these Regulations or otherwise as if it were done by a trustee appointed to the corresponding Federation body under regulation 20 of these Regulations, subject to any necessary modifications.
+**11.**[^c-61759cc6213b9252db62e8f5dd9da31f] Anything done by a trustee appointed under regulation 20 of the 1969 Regulations is to have effect for the purposes of these Regulations or otherwise as if it were done by a trustee appointed to the corresponding Federation body under regulation 20 of these Regulations, subject to any necessary modifications.
 
-**12.**[^key-085d9a7517025b9b44b11fcf966f758d] Any rights or liabilities of a trustee appointed under regulation 20 of the 1969 Regulations accruing to the trustee in his or her capacity as such a trustee are to be treated as if they were rights or liabilities of a trustee appointed to the corresponding Federation body under regulation 20 of these Regulations, subject to any necessary modifications.
+**12.**[^c-085d9a7517025b9b44b11fcf966f758d] Any rights or liabilities of a trustee appointed under regulation 20 of the 1969 Regulations accruing to the trustee in his or her capacity as such a trustee are to be treated as if they were rights or liabilities of a trustee appointed to the corresponding Federation body under regulation 20 of these Regulations, subject to any necessary modifications.
 
-**13.**[^key-952f097e8d4706fcc616467091255751] Any agreements entered into by a trustee appointed under regulation 20 of the 1969 Regulations in his or her capacity as such a trustee are to be treated as if they were agreements entered into by a trustee appointed to the corresponding Federation body under regulation 20 of these Regulations, subject to any necessary modifications.
+**13.**[^c-952f097e8d4706fcc616467091255751] Any agreements entered into by a trustee appointed under regulation 20 of the 1969 Regulations in his or her capacity as such a trustee are to be treated as if they were agreements entered into by a trustee appointed to the corresponding Federation body under regulation 20 of these Regulations, subject to any necessary modifications.
 
-**14.**[^key-4516ecd24e0a81057ef84fa0ec2eaa48] Any rules made by the Federation under the 1969 Regulations are to continue to have effect as if made under regulation 22 of these Regulations.
+**14.**[^c-4516ecd24e0a81057ef84fa0ec2eaa48] Any rules made by the Federation under the 1969 Regulations are to continue to have effect as if made under regulation 22 of these Regulations.
 
-**15.**[^key-b74dcd28b7d404c2ff617615c1e5e396] Subject to paragraph 15, regulation 18 of the 1969 Regulations is to continue to have effect in relation to the accounts prepared by a branch treasurer and the national treasurer for the year ending 31 December 2017 (but not in respect of any accounts for subsequent years) as if those accounts were being prepared by a branch board (or joint branch board) and a central committee (or joint central committee).
+**15.**[^c-b74dcd28b7d404c2ff617615c1e5e396] Subject to paragraph 15, regulation 18 of the 1969 Regulations is to continue to have effect in relation to the accounts prepared by a branch treasurer and the national treasurer for the year ending 31 December 2017 (but not in respect of any accounts for subsequent years) as if those accounts were being prepared by a branch board (or joint branch board) and a central committee (or joint central committee).
 
-**16.**[^key-2103ecb91df2feb453bf62262065239f] The national treasurer is to be responsible for causing the accounts referred to in paragraph 14 to be audited by an independent auditor under regulation 18 of the 1969 Regulations.
+**16.**[^c-2103ecb91df2feb453bf62262065239f] The national treasurer is to be responsible for causing the accounts referred to in paragraph 14 to be audited by an independent auditor under regulation 18 of the 1969 Regulations.
 
 EXPLANATORY NOTE
 
@@ -814,33 +814,33 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00002]: Footnote: Section 63 was amended by [S.I. 2013/602](https://www.legislation.gov.uk/uksi/2013/602). Section 63(3) was substituted by paragraphs 68, 78(1) and (3) of Schedule 4 to the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and was further amended by paragraph 6(1) and (2) of Part 1 of Schedule 22 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4). There have been other amendments to section 63 which are not relevant to this instrument.
 
-[^key-d007e040cdef796466fb94201916bc31]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-d007e040cdef796466fb94201916bc31]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-a3c5fc9bb9c072e9b4b9a34e9dca8485]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-a3c5fc9bb9c072e9b4b9a34e9dca8485]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-42a159d94070f487c5c39850dbb6d5bf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/1) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/a)
+[^c-42a159d94070f487c5c39850dbb6d5bf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/1) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/a)
 
 [^f00003]: Footnote: [2010 c.15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-cc0d325dde00c664ac34bd519c2b14a7]: Textual amendment: [Reg. 2(3)(a)(i)(ia)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/a/i/ia) substituted for [reg. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/a/i) (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/b)
+[^c-cc0d325dde00c664ac34bd519c2b14a7]: Textual amendment: [Reg. 2(3)(a)(i)(ia)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/a/i/ia) substituted for [reg. 2(3)(a)(i)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/a/i) (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/b)
 
-[^key-6aa8eae28de208e45ad4dded1049a9fa]: Textual amendment: [Reg. 2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/b/ii) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/c)
+[^c-6aa8eae28de208e45ad4dded1049a9fa]: Textual amendment: [Reg. 2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/b/ii) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/c)
 
-[^key-6407720d2653fc49e1f3b8c12c9267b6]: Textual amendment: [Reg. 2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/c/i)[(ii)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/c/ii) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/d)
+[^c-6407720d2653fc49e1f3b8c12c9267b6]: Textual amendment: [Reg. 2(3)(c)(i)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/c/i)[(ii)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/c/ii) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(d)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/d)
 
-[^key-afab61892a81c117602333f37cac6b15]: Textual amendment: [Reg. 2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/d/i)[(ii)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/d/ii) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(e)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/e)
+[^c-afab61892a81c117602333f37cac6b15]: Textual amendment: [Reg. 2(3)(d)(i)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/d/i)[(ii)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/d/ii) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(e)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/e)
 
-[^key-3cc6f05d62481a5080632eb809b76274]: Textual amendment: [Reg. 2(3)(f)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/f)[(ia)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/ia) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(f)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/f)
+[^c-3cc6f05d62481a5080632eb809b76274]: Textual amendment: [Reg. 2(3)(f)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/f)[(ia)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/2/3/ia) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(2)(f)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/2/f)
 
-[^key-600226fe20a66277cc9118637b182382]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1140/regulation/3) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-600226fe20a66277cc9118637b182382]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2017/1140/regulation/3) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-75948e737c326f6986dc0a24eb4a3a7a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1140/regulation/4) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-75948e737c326f6986dc0a24eb4a3a7a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2017/1140/regulation/4) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-b7077efc976dbb735ca7f278e194df9d]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/4/1/c) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/3/a)
+[^c-b7077efc976dbb735ca7f278e194df9d]: Textual amendment: [Reg. 4(1)(c)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/4/1/c) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/3/a)
 
-[^key-d4b547567b3d38d93636df43a69ed67e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/4/2) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/3/b)
+[^c-d4b547567b3d38d93636df43a69ed67e]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/4/2) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/3/b)
 
-[^key-460062c34856ce2a7530b70a96d59fe2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1140/regulation/5) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-460062c34856ce2a7530b70a96d59fe2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2017/1140/regulation/5) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2012/2632](https://www.legislation.gov.uk/uksi/2012/2632).
 
@@ -848,43 +848,43 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00006]: Footnote: [2002 c.30](https://www.legislation.gov.uk/ukpga/2002/30). Section 12 was amended by paragraph 3 of Schedule 12 to the Serious Organised Crime and Police Act 2005, and paragraph 8 of Schedule 14 and paragraph 277 and 280 of Schedule 16 to the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), s.2 of the Police (Complaints and Conduct) Act [2012 (c. 22)](https://www.legislation.gov.uk/ukpga/2012/22), s.135 of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12) and prospectively by s.14 and 41 of, and paragraph 19 of Schedule 9 to, the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).
 
-[^key-990f43bb3f50ce535ced3ce3ad6cfc64]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-990f43bb3f50ce535ced3ce3ad6cfc64]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-0bb5807117275139dfc3ee14882b413f]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/a) omitted (28.6.2022) by virtue of [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/a/i)
+[^c-0bb5807117275139dfc3ee14882b413f]: Textual amendment: Word in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/a) omitted (28.6.2022) by virtue of [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/a/i)
 
-[^key-16dd853be7a9a03bb76ec15e4af076f7]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/a) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/a/ii)
+[^c-16dd853be7a9a03bb76ec15e4af076f7]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/a) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/a/ii)
 
-[^key-9c889ab2790dbe3bbb813fb5a05e2f59]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/a) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/a/iii)
+[^c-9c889ab2790dbe3bbb813fb5a05e2f59]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/a) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/a/iii)
 
-[^key-66f6a3d485a3402186348041e4b9f097]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/b) omitted (28.6.2022) by virtue of [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/b/i)
+[^c-66f6a3d485a3402186348041e4b9f097]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/b) omitted (28.6.2022) by virtue of [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/b/i)
 
-[^key-10556ce057d1c40ae6aa7fd470d7948b]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/b) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/b/ii)
+[^c-10556ce057d1c40ae6aa7fd470d7948b]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/b) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/b/ii)
 
-[^key-8dcc0ae3bcc2319ee104fc2996697205]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/b) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/b/iii)
+[^c-8dcc0ae3bcc2319ee104fc2996697205]: Textual amendment: Words in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/6/1/b) substituted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/4/b/iii)
 
-[^key-a8665d0319fff5f1638cfe8e2ab1a353]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1140/regulation/7) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-a8665d0319fff5f1638cfe8e2ab1a353]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2017/1140/regulation/7) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-b06e21a431d2282b73ec7d103f8fddab]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1140/regulation/8) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-b06e21a431d2282b73ec7d103f8fddab]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2017/1140/regulation/8) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-1e46b524a0b446f66c2ca3ce6d54c154]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/1140/regulation/9) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-1e46b524a0b446f66c2ca3ce6d54c154]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2017/1140/regulation/9) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-e9f8195acf16b53f4e0e9e73439fe064]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/9/1A) inserted (1.4.2019) by [The Police and Firefighters' (Pensions etc.) (Amendment) (England and Wales) Regulations 2019 (S.I. 2019/378)](https://www.legislation.gov.uk/uksi/2019/378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/378/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/378/regulation/11/2)
+[^c-e9f8195acf16b53f4e0e9e73439fe064]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/9/1A) inserted (1.4.2019) by [The Police and Firefighters' (Pensions etc.) (Amendment) (England and Wales) Regulations 2019 (S.I. 2019/378)](https://www.legislation.gov.uk/uksi/2019/378), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/378/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/378/regulation/11/2)
 
-[^key-edd897ab4147d858410d9d2c66b5b5d8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/1140/regulation/10) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-edd897ab4147d858410d9d2c66b5b5d8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2017/1140/regulation/10) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-dfc85b9069dcb7c4c0671f9c31fb0e11]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/10/3) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/5)
+[^c-dfc85b9069dcb7c4c0671f9c31fb0e11]: Textual amendment: Words in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/10/3) inserted (28.6.2022) by [The Special Constables (Membership of the Police Federation etc.) (England and Wales) Regulations 2022 (S.I. 2022/505)](https://www.legislation.gov.uk/uksi/2022/505), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/505/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2022/505/regulation/4/5)
 
-[^key-5f651f0ccb9a4ddc47adcf83b27f7902]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/1140/regulation/11) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-5f651f0ccb9a4ddc47adcf83b27f7902]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2017/1140/regulation/11) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-e7e75acf4b4268e90fa17a54f27ee75c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/1140/regulation/12) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-e7e75acf4b4268e90fa17a54f27ee75c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/1140/regulation/12) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-9e6018901090e0e619578ea2965f4ef7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/1140/regulation/13) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-9e6018901090e0e619578ea2965f4ef7]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2017/1140/regulation/13) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-88270236ec27097f962b5fced1a0c044]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/1140/regulation/14) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-88270236ec27097f962b5fced1a0c044]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2017/1140/regulation/14) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-8b9bd09e5236d46ae804413f18d44748]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2017/1140/regulation/15) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-8b9bd09e5236d46ae804413f18d44748]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2017/1140/regulation/15) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-db4445071118a90ec51da8d51353ae16]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2017/1140/regulation/16) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-db4445071118a90ec51da8d51353ae16]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2017/1140/regulation/16) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
 [^f00007]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). Section 50 was amended by paragraph 3 of Schedule 22 to the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4); s.3 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26); s.82 of, and paragraph 32 of Schedule 16 to the Police Reform and Social Responsibility Act 2011; paragraph 23 of Schedule 8 to the Public Service Pensions Act [2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25); s.123 of the Anti-Social Behaviour, Crime and Policing Act 2014; ss.29 and 48 of, and paragraph 65 of Schedule 9 to, the Policing and Crime Act 2017.
 
@@ -892,76 +892,76 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^f00009]: Footnote: [2013 c.25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-2d7c540845ab147e59879e0475b571f4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/1140/regulation/17) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-2d7c540845ab147e59879e0475b571f4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2017/1140/regulation/17) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-86051d183de4ec965b378557248d7237]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2017/1140/regulation/18) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-86051d183de4ec965b378557248d7237]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2017/1140/regulation/18) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-9dc6c9d768e060f5b24ec1d83187150a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2017/1140/regulation/19) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-9dc6c9d768e060f5b24ec1d83187150a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2017/1140/regulation/19) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-88c764f273ec2bd0665624587ac98ac2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2017/1140/regulation/20) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-88c764f273ec2bd0665624587ac98ac2]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2017/1140/regulation/20) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
 [^f00010]: Footnote: [2000 c.29](https://www.legislation.gov.uk/ukpga/2000/29).
 
-[^key-3f3b783e32022652b62ba22b43a762d1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2017/1140/regulation/21) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-3f3b783e32022652b62ba22b43a762d1]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2017/1140/regulation/21) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
 [^f00011]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-221b822e6bd4be478cc8f3b925fbc053]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2017/1140/regulation/22) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-221b822e6bd4be478cc8f3b925fbc053]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2017/1140/regulation/22) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-7ba7f2e98bc0ee82a6c202394562a2df]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2017/1140/regulation/23) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-7ba7f2e98bc0ee82a6c202394562a2df]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2017/1140/regulation/23) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-2a3d48c0aa6390ce22294f47e13c4f53]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2017/1140/regulation/24) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-2a3d48c0aa6390ce22294f47e13c4f53]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2017/1140/regulation/24) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-a1fb0574467cc794edb625a8fc781ebc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2017/1140/regulation/25) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-a1fb0574467cc794edb625a8fc781ebc]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2017/1140/regulation/25) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-120d637b09ea364128c6d460476950ea]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/1) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-120d637b09ea364128c6d460476950ea]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/1) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
 [^f00012]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). There are amendments to s.60 which are not relevant to this instrument.
 
-[^key-d44510f7e772750dd5fadc2a1391cbac]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/2) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-d44510f7e772750dd5fadc2a1391cbac]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/2) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833).
 
 [^f00014]: Footnote: Regulation 41 was amended by paragraph 190 of Part 4 of Schedule 8 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [S.I. 2005/2241](https://www.legislation.gov.uk/uksi/2005/2241); [2006/594](https://www.legislation.gov.uk/uksi/2006/594).
 
-[^key-d6e01af22c0980cd848da34fccd17891]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/3) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-d6e01af22c0980cd848da34fccd17891]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/1/paragraph/3) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
 [^f00015]: Footnote: [S.I. 2003/527](https://www.legislation.gov.uk/uksi/2003/527).
 
 [^f00016]: Footnote: Regulation 23 was amended by [S.I. 2016/1090](https://www.legislation.gov.uk/uksi/2016/1090).
 
-[^key-039b2f53649711a7ed23ee02a9683af6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-039b2f53649711a7ed23ee02a9683af6]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-5feaa021ca81d8e529d9664e614e987a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/1) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-5feaa021ca81d8e529d9664e614e987a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/1) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 1969/1787](https://www.legislation.gov.uk/uksi/1969/1787).
 
-[^key-19ff19330ba931719ade7caff3e4b15a]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/2) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-19ff19330ba931719ade7caff3e4b15a]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/2) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-8d2d740c53c08c0c846ff8718ae5ec4b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/3) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-8d2d740c53c08c0c846ff8718ae5ec4b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/3) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-8ce3cc6fac277f14f86cd6c9e241d874]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/4) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-8ce3cc6fac277f14f86cd6c9e241d874]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/4) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-c3208776dfdcb783eafec8571c6d0828]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/5) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-c3208776dfdcb783eafec8571c6d0828]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/5) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-8149747c4ca44cadd68567c3269e1d3e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/6) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-8149747c4ca44cadd68567c3269e1d3e]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/6) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-3301c9ba62cfe2da2832bc7bb7763d9c]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/7) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-3301c9ba62cfe2da2832bc7bb7763d9c]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/7) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-15d2bb4395ec7527e5998771c275ca25]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/8) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-15d2bb4395ec7527e5998771c275ca25]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/8) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-64f8988362505d087a1afa6d4c8d91d1]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/9) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-64f8988362505d087a1afa6d4c8d91d1]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/9) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-4f8c5e4ed26fa70322e6fd42136d106f]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/10) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-4f8c5e4ed26fa70322e6fd42136d106f]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/10) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-61759cc6213b9252db62e8f5dd9da31f]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/11) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-61759cc6213b9252db62e8f5dd9da31f]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/11) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-085d9a7517025b9b44b11fcf966f758d]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/12) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-085d9a7517025b9b44b11fcf966f758d]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/12) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-952f097e8d4706fcc616467091255751]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/13) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-952f097e8d4706fcc616467091255751]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/13) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-4516ecd24e0a81057ef84fa0ec2eaa48]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/14) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-4516ecd24e0a81057ef84fa0ec2eaa48]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/14) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-b74dcd28b7d404c2ff617615c1e5e396]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/15) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-b74dcd28b7d404c2ff617615c1e5e396]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/15) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
 
-[^key-2103ecb91df2feb453bf62262065239f]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/16) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)
+[^c-2103ecb91df2feb453bf62262065239f]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3/paragraph/16) in force at 31.12.2017, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1)

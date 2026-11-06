@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 49. Vehicles with moveable platforms[^key-670f94daae123d7d85f9c14405af33b0]
+## 49. Vehicles with moveable platforms[^c-670f94daae123d7d85f9c14405af33b0]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-670f94daae123d7d85f9c14405af33b0]: Commencement: Art. 49 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-670f94daae123d7d85f9c14405af33b0]: Commencement: Art. 49 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

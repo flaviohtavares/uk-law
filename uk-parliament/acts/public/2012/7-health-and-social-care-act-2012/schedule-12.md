@@ -34,7 +34,7 @@ Section 120
 
 **2.**[^M_F_f6ab06d9-f53f-4652-f54b-bb48e603b118] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Functions of CMA in relation to reference[^key-ed4dc4bceb5d2e2a4005bad141a5644d]
+### Functions of CMA in relation to reference[^c-ed4dc4bceb5d2e2a4005bad141a5644d]
 
 **No longer in force.**
 
@@ -104,4 +104,4 @@ Section 120
 
 [^M_F_f6ab06d9-f53f-4652-f54b-bb48e603b118]: Textual amendment: [Sch. 12](https://www.legislation.gov.uk/ukpga/2012/7/schedule/12) repealed by virtue of the repeal of s. 120 (the section that introduces it) resulting from the unequal substitution of Pt. 3 Ch. 4 (ss. 114A-114F) for Pt. 3 Ch. 4 (ss. 115-127) (1.4.2023) by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2022/31/schedule/10/paragraph/3); [S.I. 2023/371](https://www.legislation.gov.uk/uksi/2023/371), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/371/regulation/2/d)
 
-[^key-ed4dc4bceb5d2e2a4005bad141a5644d]: Textual amendment: Word in [Sch. 12 para. 3 cross-heading](https://www.legislation.gov.uk/ukpga/2012/7/schedule/12/crossheading/functions-of-commission-in-relation-to-reference) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 139(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/139/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-ed4dc4bceb5d2e2a4005bad141a5644d]: Textual amendment: Word in [Sch. 12 para. 3 cross-heading](https://www.legislation.gov.uk/ukpga/2012/7/schedule/12/crossheading/functions-of-commission-in-relation-to-reference) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 139(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/139/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

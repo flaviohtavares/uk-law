@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Use of private roads for construction[^key-79dd2dcfffdfbc8f217763fcf13c6e38]
+## 12. Use of private roads for construction[^c-79dd2dcfffdfbc8f217763fcf13c6e38]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79dd2dcfffdfbc8f217763fcf13c6e38]: Commencement: Art. 12 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-79dd2dcfffdfbc8f217763fcf13c6e38]: Commencement: Art. 12 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

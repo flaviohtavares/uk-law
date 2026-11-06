@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Ban on manufacture of snus etc[^key-68e87c08f1a024f990f43da57b996495]
+## 77. Ban on manufacture of snus etc[^c-68e87c08f1a024f990f43da57b996495]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ After Article 4D of the Health and Personal Social Services (Northern Ireland) O
 
 ## Annotations
 
-[^key-68e87c08f1a024f990f43da57b996495]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2026/18/section/77) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-68e87c08f1a024f990f43da57b996495]: Commencement: [S. 77](https://www.legislation.gov.uk/ukpga/2026/18/section/77) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

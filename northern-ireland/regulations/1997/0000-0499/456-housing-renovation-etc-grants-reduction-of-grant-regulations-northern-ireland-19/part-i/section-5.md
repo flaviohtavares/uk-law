@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Definition of non-dependant[^key-7ef1d34a04bdfad8e24f7ad0de3400b5]
+## 5. Definition of non-dependant[^c-7ef1d34a04bdfad8e24f7ad0de3400b5]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ef1d34a04bdfad8e24f7ad0de3400b5]: Commencement: Reg. 5 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-7ef1d34a04bdfad8e24f7ad0de3400b5]: Commencement: Reg. 5 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

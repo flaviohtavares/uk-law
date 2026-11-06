@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 207. Law Society: powers to fine in cases relating to economic crime[^key-5730a4508c15e930161333773d8d8b4c][^key-6daad3c2663f79233fe6f9d571b8f296]
+## 207. Law Society: powers to fine in cases relating to economic crime[^c-5730a4508c15e930161333773d8d8b4c][^c-6daad3c2663f79233fe6f9d571b8f296]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5730a4508c15e930161333773d8d8b4c]: Commencement: S. 207 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-5730a4508c15e930161333773d8d8b4c]: Commencement: S. 207 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-6daad3c2663f79233fe6f9d571b8f296]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2023/56/section/207) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z61)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z61)
+[^c-6daad3c2663f79233fe6f9d571b8f296]: Commencement: [S. 207](https://www.legislation.gov.uk/ukpga/2023/56/section/207) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z61)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z61)

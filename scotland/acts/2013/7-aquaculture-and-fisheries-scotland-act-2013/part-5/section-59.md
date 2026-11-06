@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Power to charge in connection with fisheries functions[^key-63e39714524636dadce75faa6624b986]
+## 59. Power to charge in connection with fisheries functions[^c-63e39714524636dadce75faa6624b986]
 
 *Extent: S*
 
@@ -62,14 +62,14 @@ summary: ''
 (8) In this section, “**legislation**” means any—
 
 - (a) enactment, or
-- (b)[^key-44732e781a206437965d54e0a3833510] assimilated direct[^key-f2c627654f518dd74cf97d51fc1279a5] legislation (within the meaning of section 20 of the European Union (Withdrawal) Act 2018) falling within section 3(2)(a) of that Act containing a assimilated[^key-4a3318e26750416e3defee9caa53282f] obligation (within the meaning of schedule 1 of the Interpretation Act 1978) or a assimilated restriction
+- (b)[^c-44732e781a206437965d54e0a3833510] assimilated direct[^c-f2c627654f518dd74cf97d51fc1279a5] legislation (within the meaning of section 20 of the European Union (Withdrawal) Act 2018) falling within section 3(2)(a) of that Act containing a assimilated[^c-4a3318e26750416e3defee9caa53282f] obligation (within the meaning of schedule 1 of the Interpretation Act 1978) or a assimilated restriction
 
 ## Annotations
 
-[^key-63e39714524636dadce75faa6624b986]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2013/7/section/59) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-63e39714524636dadce75faa6624b986]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2013/7/section/59) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
 
-[^key-44732e781a206437965d54e0a3833510]: Textual amendment: [S. 59(8)(b)](https://www.legislation.gov.uk/asp/2013/7/section/59/8/b) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/ssi/2019/24/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44732e781a206437965d54e0a3833510]: Textual amendment: [S. 59(8)(b)](https://www.legislation.gov.uk/asp/2013/7/section/59/8/b) substituted (31.12.2020) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/b), [7(3)](https://www.legislation.gov.uk/ssi/2019/24/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f2c627654f518dd74cf97d51fc1279a5]: Textual amendment: Words in [s. 59(8)(b)](https://www.legislation.gov.uk/asp/2013/7/section/59/8/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 9(3)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/9/3/a)
+[^c-f2c627654f518dd74cf97d51fc1279a5]: Textual amendment: Words in [s. 59(8)(b)](https://www.legislation.gov.uk/asp/2013/7/section/59/8/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 9(3)(a)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/9/3/a)
 
-[^key-4a3318e26750416e3defee9caa53282f]: Textual amendment: Word in [s. 59(8)(b)](https://www.legislation.gov.uk/asp/2013/7/section/59/8/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 9(3)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/9/3/b)
+[^c-4a3318e26750416e3defee9caa53282f]: Textual amendment: Word in [s. 59(8)(b)](https://www.legislation.gov.uk/asp/2013/7/section/59/8/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) (Scotland) Regulations 2023 (S.S.I. 2023/374)](https://www.legislation.gov.uk/ssi/2023/374), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2023/374/regulation/1/1), [sch. 1 para. 9(3)(b)](https://www.legislation.gov.uk/ssi/2023/374/schedule/1/paragraph/9/3/b)

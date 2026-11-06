@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Transfer and amendment of functions under Mental Health Act 1983[^key-dcf9ce81cadacbf278720427a49597d7]
+## 52. Transfer and amendment of functions under Mental Health Act 1983[^c-dcf9ce81cadacbf278720427a49597d7]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dcf9ce81cadacbf278720427a49597d7]: Commencement: S. 52 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/20) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))
+[^c-dcf9ce81cadacbf278720427a49597d7]: Commencement: S. 52 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/20) (with [art. 11](https://www.legislation.gov.uk/uksi/2009/462/article/11), [Sch. 4](https://www.legislation.gov.uk/uksi/2009/462/schedule/4))

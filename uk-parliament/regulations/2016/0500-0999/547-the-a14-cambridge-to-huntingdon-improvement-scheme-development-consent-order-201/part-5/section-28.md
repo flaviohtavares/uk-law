@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Acquisition of part of certain properties[^key-098d1dcfa22e0c8030c3c69b4c933936]
+## 28. Acquisition of part of certain properties[^c-098d1dcfa22e0c8030c3c69b4c933936]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 ## Annotations
 
-[^key-098d1dcfa22e0c8030c3c69b4c933936]: Commencement: Art. 28 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
+[^c-098d1dcfa22e0c8030c3c69b4c933936]: Commencement: Art. 28 in force at 1.6.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/547/article/1)
 
 [^f00033]: Footnote: Section 8 was amended by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).

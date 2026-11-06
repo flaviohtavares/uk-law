@@ -23,13 +23,13 @@ summary: ''
 - (a) the action is commenced, or
 - (b) a third party notice of an action to enforce a claim against the owner or his guarantor in respect of the same damage is given to the Fund,
 
-not later than three years after the damage occurred[^key-a4cfe1d144c1f99febd09e0618d4303d] .
+not later than three years after the damage occurred[^c-a4cfe1d144c1f99febd09e0618d4303d] .
 
 In this subsection “**third party notice**” means a notice of the kind described in section 177(2) and (3).
 
 (2) No action to enforce a claim against the Fund under this Chapter shall be entertained by a court in the United Kingdom unless the action is commenced not later than six years after the occurrence, or first of the occurrences, resulting in the discharge or escape, or (as the case may be) in the relevant threat of contamination, by reason of which the claim against the Fund arose.
 
-(3)[^key-2e8ad84402a26ef5fc5fa8003cae2575] Subsections (1) and (2) apply in relation to claims against the Supplementary Fund as they apply in relation to claims against the Fund (with the substitution for the reference to the Fund in subsection (1)(b) of a reference to the Supplementary Fund).
+(3)[^c-2e8ad84402a26ef5fc5fa8003cae2575] Subsections (1) and (2) apply in relation to claims against the Supplementary Fund as they apply in relation to claims against the Fund (with the substitution for the reference to the Fund in subsection (1)(b) of a reference to the Supplementary Fund).
 
 (4) For the purposes of this section—
 
@@ -68,6 +68,6 @@ In this subsection “**third party notice**” means a notice of the kind descr
 
     S. 178 extended (with modifications) to Saint Helena (20.5.1998) by [S.I. 1998/1263](https://www.legislation.gov.uk/uksi/1998/1263), [art. 2](https://www.legislation.gov.uk/uksi/1998/1263/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1998/1263/schedule)
 
-[^key-a4cfe1d144c1f99febd09e0618d4303d]: Textual amendment: Words in s. 178(1) substituted (30.5.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 3](https://www.legislation.gov.uk/ukpga/2006/8/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2006/8/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/8/section/4/3)
+[^c-a4cfe1d144c1f99febd09e0618d4303d]: Textual amendment: Words in s. 178(1) substituted (30.5.2006) by [Merchant Shipping (Pollution) Act 2006 (c. 8)](https://www.legislation.gov.uk/ukpga/2006/8), [ss. 3](https://www.legislation.gov.uk/ukpga/2006/8/section/3), [4(2)](https://www.legislation.gov.uk/ukpga/2006/8/section/4/2)[(3)](https://www.legislation.gov.uk/ukpga/2006/8/section/4/3)
 
-[^key-2e8ad84402a26ef5fc5fa8003cae2575]: Textual amendment: [S. 178(3)](https://www.legislation.gov.uk/ukpga/1995/21/section/178/3)[(4)](https://www.legislation.gov.uk/ukpga/1995/21/section/178/4) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [8](https://www.legislation.gov.uk/uksi/2006/1265/article/8)
+[^c-2e8ad84402a26ef5fc5fa8003cae2575]: Textual amendment: [S. 178(3)](https://www.legislation.gov.uk/ukpga/1995/21/section/178/3)[(4)](https://www.legislation.gov.uk/ukpga/1995/21/section/178/4) inserted (8.9.2006) by [The Merchant Shipping (Oil Pollution) (Supplementary Fund Protocol) Order 2006 (S.I. 2006/1265)](https://www.legislation.gov.uk/uksi/2006/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2006/1265/article/1/2), [8](https://www.legislation.gov.uk/uksi/2006/1265/article/8)

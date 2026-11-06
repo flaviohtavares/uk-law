@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Electronic documents etc.[^key-e4f7c6165ea964734fb2b802144ab814]
+## 14. Electronic documents etc.[^c-e4f7c6165ea964734fb2b802144ab814]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-e4f7c6165ea964734fb2b802144ab814]: Commencement: Reg. 14 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e4f7c6165ea964734fb2b802144ab814]: Commencement: Reg. 14 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

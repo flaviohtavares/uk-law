@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Old system students[^key-1fdb0d378165b4d7f19748742056588a]
+## 38. Old system students[^c-1fdb0d378165b4d7f19748742056588a]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ The following grants are available to an old system student in connection with a
 
 ## Annotations
 
-[^key-1fdb0d378165b4d7f19748742056588a]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2007/195/regulation/38) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-1fdb0d378165b4d7f19748742056588a]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2007/195/regulation/38) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

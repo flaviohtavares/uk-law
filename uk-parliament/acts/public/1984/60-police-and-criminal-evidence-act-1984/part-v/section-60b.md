@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60B. Notification of decision not to prosecute person interviewed[^key-ce4af47af30a64de49af4f8cbe19e6ac][^key-856329be6b366576f220f3d195366ac9]
+## 60B. Notification of decision not to prosecute person interviewed[^c-ce4af47af30a64de49af4f8cbe19e6ac][^c-856329be6b366576f220f3d195366ac9]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce4af47af30a64de49af4f8cbe19e6ac]: Modification: S. 60B applied (with modifications) (1.4.2018) by [The Welsh Revenue Authority (Powers to Investigate Criminal Offences) Regulations 2018 (S.I. 2018/400)](https://www.legislation.gov.uk/wsi/2018/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/1)[(3)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/3), [Sch.](https://www.legislation.gov.uk/wsi/2018/400/schedule) (with [regs. 4-8](https://www.legislation.gov.uk/wsi/2018/400/regulation/4))
+[^c-ce4af47af30a64de49af4f8cbe19e6ac]: Modification: S. 60B applied (with modifications) (1.4.2018) by [The Welsh Revenue Authority (Powers to Investigate Criminal Offences) Regulations 2018 (S.I. 2018/400)](https://www.legislation.gov.uk/wsi/2018/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/1)[(3)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/3), [Sch.](https://www.legislation.gov.uk/wsi/2018/400/schedule) (with [regs. 4-8](https://www.legislation.gov.uk/wsi/2018/400/regulation/4))
 
-[^key-856329be6b366576f220f3d195366ac9]: Textual amendment: S. 60B inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 77](https://www.legislation.gov.uk/ukpga/2017/3/section/77), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/25)
+[^c-856329be6b366576f220f3d195366ac9]: Textual amendment: S. 60B inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 77](https://www.legislation.gov.uk/ukpga/2017/3/section/77), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 25](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/25)

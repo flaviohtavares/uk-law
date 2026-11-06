@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Calling for documents of taxpayers and others.[^key-b2c92ebc4b234fcf62927cf194655bad]
+## 255. Calling for documents of taxpayers and others.[^c-b2c92ebc4b234fcf62927cf194655bad]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2c92ebc4b234fcf62927cf194655bad]: Textual amendment: [S. 255](https://www.legislation.gov.uk/ukpga/1994/9/section/255) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/c) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))
+[^c-b2c92ebc4b234fcf62927cf194655bad]: Textual amendment: [S. 255](https://www.legislation.gov.uk/ukpga/1994/9/section/255) omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 113(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/113/2), [Sch. 36 para. 92(c)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/92/c) (with [Sch. 36 para. 38](https://www.legislation.gov.uk/ukpga/2008/9/schedule/36/paragraph/38)); [S.I. 2009/404](https://www.legislation.gov.uk/uksi/2009/404), [art. 2](https://www.legislation.gov.uk/uksi/2009/404/article/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2009/404/article/12))

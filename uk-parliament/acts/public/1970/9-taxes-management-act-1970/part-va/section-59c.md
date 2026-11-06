@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59C. Surcharges on unpaid income tax and capital gains tax.[^key-e60fda58559fa98009563573fe4a154f]
+## 59C. Surcharges on unpaid income tax and capital gains tax.[^c-e60fda58559fa98009563573fe4a154f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e60fda58559fa98009563573fe4a154f]: Textual amendment: S. 59C omitted (1.4.2011) by virtue of [The Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011 (S.I. 2011/702)](https://www.legislation.gov.uk/uksi/2011/702), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/702/article/1/1), [5](https://www.legislation.gov.uk/uksi/2011/702/article/5) (with [arts. 20](https://www.legislation.gov.uk/uksi/2011/702/article/20), [22](https://www.legislation.gov.uk/uksi/2011/702/article/22))
+[^c-e60fda58559fa98009563573fe4a154f]: Textual amendment: S. 59C omitted (1.4.2011) by virtue of [The Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011 (S.I. 2011/702)](https://www.legislation.gov.uk/uksi/2011/702), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/702/article/1/1), [5](https://www.legislation.gov.uk/uksi/2011/702/article/5) (with [arts. 20](https://www.legislation.gov.uk/uksi/2011/702/article/20), [22](https://www.legislation.gov.uk/uksi/2011/702/article/22))

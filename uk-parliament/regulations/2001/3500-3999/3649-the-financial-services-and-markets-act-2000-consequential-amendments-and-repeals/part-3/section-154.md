@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Receipts, record and payments: duties of pension trustees and others[^key-2ae1980077a319874ac5c42105c9aa3d]
+## 154. Receipts, record and payments: duties of pension trustees and others[^c-2ae1980077a319874ac5c42105c9aa3d]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2ae1980077a319874ac5c42105c9aa3d]: Commencement: Art. 154 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2ae1980077a319874ac5c42105c9aa3d]: Commencement: Art. 154 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00117]: Footnote: The words being substituted were substituted by the [Welfare Reform and Pensions (NI) Order 1999 (NI 11)](https://www.legislation.gov.uk/nisi/1999/3147) Schedule 2 paragraph 10(2).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113C. Power to make provision supplemental to section 113A[^key-495d3e751e38ba585e5749f95ad37955]
+## 113C. Power to make provision supplemental to section 113A[^c-495d3e751e38ba585e5749f95ad37955]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ as the Secretary of State considers appropriate.
 
 ## Annotations
 
-[^key-495d3e751e38ba585e5749f95ad37955]: Textual amendment: Ss. 113A-113C and cross-heading inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/13/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)
+[^c-495d3e751e38ba585e5749f95ad37955]: Textual amendment: Ss. 113A-113C and cross-heading inserted (18.2.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 13(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/13/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/411/article/2/e)

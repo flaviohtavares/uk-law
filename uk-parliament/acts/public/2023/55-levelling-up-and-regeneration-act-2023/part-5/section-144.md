@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Duty to pass CLA receipts to other persons[^key-67e9e2e6ba1ddc5b205f03a930bc5607]
+## 144. Duty to pass CLA receipts to other persons[^c-67e9e2e6ba1ddc5b205f03a930bc5607]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67e9e2e6ba1ddc5b205f03a930bc5607]: Commencement: S. 144 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)
+[^c-67e9e2e6ba1ddc5b205f03a930bc5607]: Commencement: S. 144 not in force at Royal Assent, see [s. 255(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/4)

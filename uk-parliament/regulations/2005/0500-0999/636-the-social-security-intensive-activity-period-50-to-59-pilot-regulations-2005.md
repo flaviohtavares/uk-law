@@ -42,23 +42,23 @@ Whereas these Regulations are made with a view to ascertaining whether their pro
 
 Now, therefore, the Secretary of State for Work and Pensions, in exercise of the powers conferred upon him by sections 19(10)(c), 29(1), (3) and (5), 35(1) and 36(2) and (4) of the Jobseekers Act 1995 [^c1133599], and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it [^c1133600], hereby makes the following Regulations:
 
-## ...[^key-6ee4e89e22b15ad6c0034b370a060337][^key-6ee4e89e22b15ad6c0034b370a060337]
+## ...[^c-6ee4e89e22b15ad6c0034b370a060337][^c-6ee4e89e22b15ad6c0034b370a060337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ee4e89e22b15ad6c0034b370a060337]
+[^c-6ee4e89e22b15ad6c0034b370a060337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ee4e89e22b15ad6c0034b370a060337]
+[^c-6ee4e89e22b15ad6c0034b370a060337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6ee4e89e22b15ad6c0034b370a060337]
+[^c-6ee4e89e22b15ad6c0034b370a060337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ...[^key-6ee4e89e22b15ad6c0034b370a060337]
+## ...[^c-6ee4e89e22b15ad6c0034b370a060337]
 
 |  |  |
 | --- | --- |
@@ -98,4 +98,4 @@ A full regulatory impact assessment has not been produced for the instrument as 
 
 [^c1133600]: Marginal citation: *See* sections 170 and 173(1)(b) of the [Social Security Administration Act 1992 (c. 5)](https://www.legislation.gov.uk/ukpga/1992/5); [paragraph 67](https://www.legislation.gov.uk/uksi/2005/636/paragraph/67) of Schedule 2 to the Jobseekers Act 1995 added that Act to the list of “relevant enactments” in respect of which regulations must normally be referred to the Committee.
 
-[^key-6ee4e89e22b15ad6c0034b370a060337]: Textual amendment: Instrument ceases to have effect (3.4.2006) by virtue of [Social Security (Intensive Activity Period 50 to 59 Pilot) Regulations 2005 (S.I. 2005/636)](https://www.legislation.gov.uk/uksi/2005/636), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/636/regulation/1/2)
+[^c-6ee4e89e22b15ad6c0034b370a060337]: Textual amendment: Instrument ceases to have effect (3.4.2006) by virtue of [Social Security (Intensive Activity Period 50 to 59 Pilot) Regulations 2005 (S.I. 2005/636)](https://www.legislation.gov.uk/uksi/2005/636), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2005/636/regulation/1/2)

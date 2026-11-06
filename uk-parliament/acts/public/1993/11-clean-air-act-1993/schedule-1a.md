@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1A — Penalty for emission of smoke in smoke control area in England or Wales[^key-816969734b447df91ef1c497442e01f1][^key-e36157df0a1aa806d4be5a418b6a6aad]
+## SCHEDULE 1A — Penalty for emission of smoke in smoke control area in England or Wales[^c-816969734b447df91ef1c497442e01f1][^c-e36157df0a1aa806d4be5a418b6a6aad]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,12 +25,12 @@ summary: ''
 In this Schedule—
 
 - “**relevant chimney**” means—
-  - (a) a chimney of a building to which a smoke control order in England or in Wales[^key-f193b41ddf6f4e84cea847a711b4db22] applies, or
+  - (a) a chimney of a building to which a smoke control order in England or in Wales[^c-f193b41ddf6f4e84cea847a711b4db22] applies, or
   - (b) a chimney which serves the furnace of any fixed boiler or industrial plant to which a smoke control order in England or in Wales applies;
 - “**person liable**”, in relation to a relevant chimney, means—
   - (a) if the chimney is the chimney of a building, the occupier of the building, or
   - (b) if the chimney serves the furnace of any fixed boiler or industrial plant, the person having possession of the boiler or plant.
-- “[^key-501c533dcb8e3af58da29c17c65fc857]**relevant national authority**” means—
+- “[^c-501c533dcb8e3af58da29c17c65fc857]**relevant national authority**” means—
   - (a) in relation to a smoke control order in England, the Secretary of State;
   - (b) in relation to a smoke control order in Wales, the Welsh Ministers;
 
@@ -53,11 +53,11 @@ In this Schedule—
 
 (2) The maximum amount of a financial penalty that may be imposed under this Schedule is £300.
 
-(3) The relevant national authority[^key-062443ec6bbb6e33d81d6d089ec9527a] may by regulations amend sub-paragraph (1) or (2) so as to substitute a different amount for the amount specified there.
+(3) The relevant national authority[^c-062443ec6bbb6e33d81d6d089ec9527a] may by regulations amend sub-paragraph (1) or (2) so as to substitute a different amount for the amount specified there.
 
-(4) Regulations under sub-paragraph (3) may not be made by the Secretary of State[^key-e081b4e716545eb6c653d9fd6882b3a3] unless a draft of the regulations has been laid before, and approved by resolution of, each House of Parliament.
+(4) Regulations under sub-paragraph (3) may not be made by the Secretary of State[^c-e081b4e716545eb6c653d9fd6882b3a3] unless a draft of the regulations has been laid before, and approved by resolution of, each House of Parliament.
 
-(5)[^key-3fa05db37e5cd6e6431bc7c1991c8ce8] Regulations under sub-paragraph (3) may not be made by the Welsh Ministers unless a draft of the regulations has been laid before, and approved by a resolution of, Senedd Cymru.
+(5)[^c-3fa05db37e5cd6e6431bc7c1991c8ce8] Regulations under sub-paragraph (3) may not be made by the Welsh Ministers unless a draft of the regulations has been laid before, and approved by a resolution of, Senedd Cymru.
 
 ### 4. Right to object to proposed financial penalty
 
@@ -75,17 +75,17 @@ In this Schedule—
 
 (3) Where a person objects on the ground specified in sub-paragraph (2)(c), the objection must include the name and address of the person who was the person liable on the occasion specified in the notice of intent (if known).
 
-(4) The the relevant national authority[^key-b1938f6cd62be94e10c7ae1285a237e9] may by regulations amend this paragraph so as to amend the grounds of objection listed in sub-paragraph (2).
+(4) The the relevant national authority[^c-b1938f6cd62be94e10c7ae1285a237e9] may by regulations amend this paragraph so as to amend the grounds of objection listed in sub-paragraph (2).
 
-(5) Before making regulations under sub-paragraph (4) the the relevant national authority[^key-0245ff9d3abc84cafd583e502c12046b] must consult anyone that the the relevant national authority considers may have an interest in the proposed regulations.
+(5) Before making regulations under sub-paragraph (4) the the relevant national authority[^c-0245ff9d3abc84cafd583e502c12046b] must consult anyone that the the relevant national authority considers may have an interest in the proposed regulations.
 
-(6) Regulations under sub-paragraph (4) may not be made by the Secretary of State[^key-f366fd6514caebfdbd25a8495aaba395] unless a draft of the regulations has been laid before, and approved by resolution of, each House of Parliament.
+(6) Regulations under sub-paragraph (4) may not be made by the Secretary of State[^c-f366fd6514caebfdbd25a8495aaba395] unless a draft of the regulations has been laid before, and approved by resolution of, each House of Parliament.
 
-(7)[^key-fe503cd6edc7cb5b0ef476002f24cf6c] Regulations under sub-paragraph (4) may not be made by the Welsh Ministers unless a draft of the regulations has been laid before, and approved by resolution of, Senedd Cymru.
+(7)[^c-fe503cd6edc7cb5b0ef476002f24cf6c] Regulations under sub-paragraph (4) may not be made by the Welsh Ministers unless a draft of the regulations has been laid before, and approved by resolution of, Senedd Cymru.
 
 ### 5. Decision regarding a final notice
 
-(1) Where a local authority [^key-b85ea7d0dab22fff41aa7754b2584886]... has given a notice of intent to a person, the authority may impose a financial penalty on the person if the local authority so decides within—
+(1) Where a local authority [^c-b85ea7d0dab22fff41aa7754b2584886]... has given a notice of intent to a person, the authority may impose a financial penalty on the person if the local authority so decides within—
 
 - (a) the period of 56 days beginning with the day on which an objection is made under paragraph 4, or
 - (b) if no such objection is made, the period of 56 days beginning with the day after the day on which the period mentioned in paragraph 4(1) ended.
@@ -94,7 +94,7 @@ In this Schedule—
 
 ### 6. Final notice
 
-(1) This paragraph applies where a local authority [^key-7e829723788f170d39e70790c6f28599]... decides to impose a financial penalty on a person who was given a notice of intent.
+(1) This paragraph applies where a local authority [^c-7e829723788f170d39e70790c6f28599]... decides to impose a financial penalty on a person who was given a notice of intent.
 
 (2) The local authority may impose a financial penalty by a notice given to that person (a “final notice”).
 
@@ -171,28 +171,28 @@ A financial penalty is recoverable as a civil debt due to the local authority th
 
 ## Annotations
 
-[^key-816969734b447df91ef1c497442e01f1]: Textual amendment: Sch. 1A inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-816969734b447df91ef1c497442e01f1]: Textual amendment: Sch. 1A inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
 
-[^key-e36157df0a1aa806d4be5a418b6a6aad]: Textual amendment: Words in Sch. 1A heading inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/2); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-e36157df0a1aa806d4be5a418b6a6aad]: Textual amendment: Words in Sch. 1A heading inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 2](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/2); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-f193b41ddf6f4e84cea847a711b4db22]: Textual amendment: Words in Sch. 1A para. 1 inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/3/b); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-f193b41ddf6f4e84cea847a711b4db22]: Textual amendment: Words in Sch. 1A para. 1 inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/3/b); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-501c533dcb8e3af58da29c17c65fc857]: Textual amendment: Words in Sch. 1A para. 1 inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/3/a); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-501c533dcb8e3af58da29c17c65fc857]: Textual amendment: Words in Sch. 1A para. 1 inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/3/a); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-062443ec6bbb6e33d81d6d089ec9527a]: Textual amendment: Words in Sch. 1A para. 3(3) substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/4/a); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-062443ec6bbb6e33d81d6d089ec9527a]: Textual amendment: Words in Sch. 1A para. 3(3) substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/4/a); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-e081b4e716545eb6c653d9fd6882b3a3]: Textual amendment: Words in Sch. 1A para. 3(4) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/4/b); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-e081b4e716545eb6c653d9fd6882b3a3]: Textual amendment: Words in Sch. 1A para. 3(4) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/4/b); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-3fa05db37e5cd6e6431bc7c1991c8ce8]: Textual amendment: Sch. 1A para. 3(5) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/4/c); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-3fa05db37e5cd6e6431bc7c1991c8ce8]: Textual amendment: Sch. 1A para. 3(5) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/4/c); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-b1938f6cd62be94e10c7ae1285a237e9]: Textual amendment: Words in Sch. 1A para. 4(4) substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5/a); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-b1938f6cd62be94e10c7ae1285a237e9]: Textual amendment: Words in Sch. 1A para. 4(4) substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5/a); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-0245ff9d3abc84cafd583e502c12046b]: Textual amendment: Words in Sch. 1A para. 4(5) substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5/b); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-0245ff9d3abc84cafd583e502c12046b]: Textual amendment: Words in Sch. 1A para. 4(5) substituted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 5(b)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5/b); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-f366fd6514caebfdbd25a8495aaba395]: Textual amendment: Words in Sch. 1A para. 4(6) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5/c); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-f366fd6514caebfdbd25a8495aaba395]: Textual amendment: Words in Sch. 1A para. 4(6) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5/c); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-fe503cd6edc7cb5b0ef476002f24cf6c]: Textual amendment: Sch. 1A para. 4(7) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5/d); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-fe503cd6edc7cb5b0ef476002f24cf6c]: Textual amendment: Sch. 1A para. 4(7) inserted (E.W.) (31.7.2025) by [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/5/d); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-b85ea7d0dab22fff41aa7754b2584886]: Textual amendment: Words in Sch. 1A para. 5(1) omitted (E.W.) (31.7.2025) by virtue of [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/6); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-b85ea7d0dab22fff41aa7754b2584886]: Textual amendment: Words in Sch. 1A para. 5(1) omitted (E.W.) (31.7.2025) by virtue of [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/6); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
 
-[^key-7e829723788f170d39e70790c6f28599]: Textual amendment: Words in Sch. 1A para. 6(1) omitted (E.W.) (31.7.2025) by virtue of [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/7); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)
+[^c-7e829723788f170d39e70790c6f28599]: Textual amendment: Words in Sch. 1A para. 6(1) omitted (E.W.) (31.7.2025) by virtue of [Environment (Air Quality and Soundscapes) (Wales) Act 2024 (asc 2)](https://www.legislation.gov.uk/asc/2024/2), [s. 30(3)](https://www.legislation.gov.uk/asc/2024/2/section/30/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/asc/2024/2/schedule/1/paragraph/7); [S.I. 2025/937](https://www.legislation.gov.uk/wsi/2025/937), [art. 2(g)](https://www.legislation.gov.uk/wsi/2025/937/article/2/g)

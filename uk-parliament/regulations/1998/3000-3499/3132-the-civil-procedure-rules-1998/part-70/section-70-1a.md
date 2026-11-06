@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70.1A. Application for order[^key-d8d73898a9e661e01117a5a98d6b4c2b][^key-68a21c6df481fa6f1208544882566509]
+## 70.1A. Application for order[^c-d8d73898a9e661e01117a5a98d6b4c2b][^c-68a21c6df481fa6f1208544882566509]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8d73898a9e661e01117a5a98d6b4c2b]: Textual amendment: [Rule 70.1A](https://www.legislation.gov.uk/uksi/1998/3132/rule/70.1A) inserted (1.10.2020) by [The Civil Procedure (Amendment No. 3) Rules 2020 (S.I. 2020/747)](https://www.legislation.gov.uk/uksi/2020/747), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/12/2)
+[^c-d8d73898a9e661e01117a5a98d6b4c2b]: Textual amendment: [Rule 70.1A](https://www.legislation.gov.uk/uksi/1998/3132/rule/70.1A) inserted (1.10.2020) by [The Civil Procedure (Amendment No. 3) Rules 2020 (S.I. 2020/747)](https://www.legislation.gov.uk/uksi/2020/747), [rules 1(1)](https://www.legislation.gov.uk/uksi/2020/747/rule/1/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/747/rule/12/2)
 
-[^key-68a21c6df481fa6f1208544882566509]: Textual amendment: [Pt. 70](https://www.legislation.gov.uk/uksi/1998/3132/part/70) inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2792/schedule/1) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))
+[^c-68a21c6df481fa6f1208544882566509]: Textual amendment: [Pt. 70](https://www.legislation.gov.uk/uksi/1998/3132/part/70) inserted (25.3.2002) by [The Civil Procedure (Amendment No. 4) Rules 2001 (S.I. 2001/2792)](https://www.legislation.gov.uk/uksi/2001/2792), [rule 1(c)](https://www.legislation.gov.uk/uksi/2001/2792/rule/1/c), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/2792/schedule/1) (with savings in [rule 24](https://www.legislation.gov.uk/uksi/2001/2792/rule/24) and [S.I. 2001/4015](https://www.legislation.gov.uk/uksi/2001/4015), [rule 43(2)](https://www.legislation.gov.uk/uksi/2001/4015/rule/43/2))

@@ -16,44 +16,44 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Staff of Council for Small Industries in Rural Areas[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+## SCHEDULE 6 — Staff of Council for Small Industries in Rural Areas[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-### Scope of Schedule[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Scope of Schedule[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
-#### 1.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Terms of employment with the Agency[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
-
-#### 2.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 1.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Compensation to staff of the Council[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Terms of employment with the Agency[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
-#### 3.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 2.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Compensation to staff of the Council[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+
+#### 3.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Continuity of employment[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+#### 4.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
-#### 6.[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 5.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Continuity of employment[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+
+#### 6.[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]: Textual amendment: Act repealed (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 50](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/50)
+[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]: Textual amendment: Act repealed (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 50](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/50)

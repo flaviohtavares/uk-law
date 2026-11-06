@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225. Interim statements[^key-b91a96c4d39acc8e7b8a2b76fa773493][^key-bd0063dfceadd2053d0440b4578b5034]
+## 225. Interim statements[^c-b91a96c4d39acc8e7b8a2b76fa773493][^c-bd0063dfceadd2053d0440b4578b5034]
 
 *Extent: E+W*
 
@@ -49,7 +49,7 @@ summary: ''
 > (2) The Chief Inspector must ensure that copies of the statement are sent—
 >
 > - (a) to the head teacher of the school,
-> - (b) to whichever of the local authority[^key-539a148a152b679b0b2f5402f58a05e0] and the governing body are not the appropriate authority, and
+> - (b) to whichever of the local authority[^c-539a148a152b679b0b2f5402f58a05e0] and the governing body are not the appropriate authority, and
 > - (c) in the case of a school having foundation governors, to the person who appoints them and (if different) to the appropriate appointing authority.
 >
 > (3) If the school provides full-time education suitable to the requirements of pupils over compulsory school age, the Chief Inspector must ensure that a copy of the statement is also sent to the Young People's Learning Agency for England.
@@ -84,8 +84,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b91a96c4d39acc8e7b8a2b76fa773493]: Commencement: S. 225 in force at 12.1.2010 for specified purposes by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
+[^c-b91a96c4d39acc8e7b8a2b76fa773493]: Commencement: S. 225 in force at 12.1.2010 for specified purposes by [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule)
 
-[^key-bd0063dfceadd2053d0440b4578b5034]: Commencement: S. 225 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-bd0063dfceadd2053d0440b4578b5034]: Commencement: S. 225 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)

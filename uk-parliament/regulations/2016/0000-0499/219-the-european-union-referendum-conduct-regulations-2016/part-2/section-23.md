@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Appointment of polling and counting agents[^key-bb569364f23be3672744f46c7558bf52]
+## 23. Appointment of polling and counting agents[^c-bb569364f23be3672744f46c7558bf52]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ A designation under this paragraph must be made at the same time as the personâ€
 
 ## Annotations
 
-[^key-bb569364f23be3672744f46c7558bf52]: Commencement: Reg. 23 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-bb569364f23be3672744f46c7558bf52]: Commencement: Reg. 23 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

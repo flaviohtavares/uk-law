@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Service of documents and electronic working[^key-05ae34450cff89a7165689062fa8289b]
+## 36. Service of documents and electronic working[^c-05ae34450cff89a7165689062fa8289b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05ae34450cff89a7165689062fa8289b]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/19/section/36) in force at 30.6.2012 by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/2/d)
+[^c-05ae34450cff89a7165689062fa8289b]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/19/section/36) in force at 30.6.2012 by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/2/d)

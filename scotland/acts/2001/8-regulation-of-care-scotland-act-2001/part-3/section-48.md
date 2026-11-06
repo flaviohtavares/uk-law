@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Right to make representations to Council as respects decision under section 47[^c1230023][^key-33ea9345e3f462203030aee1e0c1389a]
+## 48. Right to make representations to Council as respects decision under section 47[^c1230023][^c-33ea9345e3f462203030aee1e0c1389a]
 
 *Extent: S*
 
-(1) A notice under section [^key-1cc35d9bab18d8aaa27bd8c9cd466c0c]... 47 of this Act shall state that, within fourteen days after service of the notice, the person to whom it is given may make written representations to the Council concerning any matter which that person wishes to dispute.
+(1) A notice under section [^c-1cc35d9bab18d8aaa27bd8c9cd466c0c]... 47 of this Act shall state that, within fourteen days after service of the notice, the person to whom it is given may make written representations to the Council concerning any matter which that person wishes to dispute.
 
-(2)[^key-fce03adc6d854de52674a69b18f2b7e9] Subject to subsections (3) and (4), a decision under section 47 of this Act takes effect at the end of the fourteen day period mentioned in subsection (1).
+(2)[^c-fce03adc6d854de52674a69b18f2b7e9] Subject to subsections (3) and (4), a decision under section 47 of this Act takes effect at the end of the fourteen day period mentioned in subsection (1).
 
 (3) Where—
 
@@ -38,8 +38,8 @@ the decision takes effect on the expiry of the fourteen day period mentioned in 
 
 [^c1230023]: Commencement: S. 48 wholly in force at 1.4.2002, see s. 81(2)-(4) and [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [art. 2(e)](https://www.legislation.gov.uk/ssi/2002/162/article/2/e) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-33ea9345e3f462203030aee1e0c1389a]: Textual amendment: Words in s. 48 heading substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 15 para. 5](https://www.legislation.gov.uk/asp/2010/8/schedule/15/paragraph/5); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-33ea9345e3f462203030aee1e0c1389a]: Textual amendment: Words in s. 48 heading substituted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 15 para. 5](https://www.legislation.gov.uk/asp/2010/8/schedule/15/paragraph/5); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-1cc35d9bab18d8aaa27bd8c9cd466c0c]: Textual amendment: Words in s. 48(1) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 15 para. 4(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/15/paragraph/4/a); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-1cc35d9bab18d8aaa27bd8c9cd466c0c]: Textual amendment: Words in s. 48(1) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 15 para. 4(a)](https://www.legislation.gov.uk/asp/2010/8/schedule/15/paragraph/4/a); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-fce03adc6d854de52674a69b18f2b7e9]: Textual amendment: S. 48(2)-(4) substituted for s. 48(2) (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 15 para. 4(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/15/paragraph/4/b); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-fce03adc6d854de52674a69b18f2b7e9]: Textual amendment: S. 48(2)-(4) substituted for s. 48(2) (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [s. 134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7), [sch. 15 para. 4(b)](https://www.legislation.gov.uk/asp/2010/8/schedule/15/paragraph/4/b); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

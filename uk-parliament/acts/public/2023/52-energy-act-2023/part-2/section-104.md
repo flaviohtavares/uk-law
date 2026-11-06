@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Content of storage permits under carbon dioxide storage licences[^key-d40002665320c042b13aa1d1e6f1cedb][^key-d683fd6a97abc98a4b56569eede2e5d7]
+## 104. Content of storage permits under carbon dioxide storage licences[^c-d40002665320c042b13aa1d1e6f1cedb][^c-d683fd6a97abc98a4b56569eede2e5d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d40002665320c042b13aa1d1e6f1cedb]: Commencement: S. 104 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-d40002665320c042b13aa1d1e6f1cedb]: Commencement: S. 104 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-d683fd6a97abc98a4b56569eede2e5d7]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2023/52/section/104) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/ii)
+[^c-d683fd6a97abc98a4b56569eede2e5d7]: Commencement: [S. 104](https://www.legislation.gov.uk/ukpga/2023/52/section/104) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/a/ii)

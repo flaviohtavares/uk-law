@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Application of contribution – current system students[^key-3a64fe2b094bb2b0d639f48345c7eb27]
+## 91. Application of contribution – current system students[^c-3a64fe2b094bb2b0d639f48345c7eb27]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ In the case of a current system student, the Department must apply the contribut
 
 ## Annotations
 
-[^key-3a64fe2b094bb2b0d639f48345c7eb27]: Commencement: [Reg. 91](https://www.legislation.gov.uk/nisr/2007/195/regulation/91) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-3a64fe2b094bb2b0d639f48345c7eb27]: Commencement: [Reg. 91](https://www.legislation.gov.uk/nisr/2007/195/regulation/91) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

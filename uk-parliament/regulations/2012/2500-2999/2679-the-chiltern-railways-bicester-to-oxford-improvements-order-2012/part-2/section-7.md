@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Power to keep apparatus in streets[^key-ffa5b6c5b4624ac9cb99da9aed7f79f4]
+## 7. Power to keep apparatus in streets[^c-ffa5b6c5b4624ac9cb99da9aed7f79f4]
 
 *Extent: E+W+S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ffa5b6c5b4624ac9cb99da9aed7f79f4]: Commencement: Art. 7 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-ffa5b6c5b4624ac9cb99da9aed7f79f4]: Commencement: Art. 7 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
 
 [^f00013]: Footnote: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).

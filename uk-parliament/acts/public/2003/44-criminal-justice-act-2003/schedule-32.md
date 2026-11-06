@@ -75,9 +75,9 @@ Section 304
 
 **12.**[^c19076331] (1) Section 21 (possession of firearms by persons previously convicted of crime) is amended as follows.
 
-(2)[^key-47eba2fc8bf4b7b20de075bf95701b7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-47eba2fc8bf4b7b20de075bf95701b7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-47eba2fc8bf4b7b20de075bf95701b7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-47eba2fc8bf4b7b20de075bf95701b7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In subsection (3)(b), for “probation order” there is substituted “ community order ”.
 
@@ -88,7 +88,7 @@ Section 304
 > - (a) a community order within the meaning of Part 12 of the Criminal Justice Act 2003 made in England and Wales, or
 > - (b) a probation order made in Scotland.
 
-(6)[^key-aa8308635c029d57fda78027cd0df42b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-aa8308635c029d57fda78027cd0df42b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **13.**[^c19399731] (1) Section 52 (forfeiture and disposal of firearms; cancellation of certificate by convicting court) is amended as follows.
 
@@ -107,7 +107,7 @@ Section 304
 
 #### Children and Young Persons Act 1969 (c. 54)
 
-**15.**[^key-859ab4128a9e37e5adbce8034447d7d9][^c19399751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-859ab4128a9e37e5adbce8034447d7d9][^c19399751] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Immigration Act 1971 (c. 77)
 
@@ -130,7 +130,7 @@ Section 304
 
   > - (f) a sentence of imprisonment for public protection under section 225 of the Criminal Justice Act 2003, a sentence of detention for public protection under section 226 of that Act or an extended sentence under section 227 or 228 of that Act
 
-(3)[^key-dae5350f7993396b2e3ac4bf5425c29e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dae5350f7993396b2e3ac4bf5425c29e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Armed Forces Act 1976 (c. 52)
 
@@ -147,7 +147,7 @@ Section 304
 - (a) the words “placing the offender on probation or” are omitted, and
 - (b) for “him” there is substituted “ the offender ”.
 
-(3)[^key-3876999f420f27460916dd8224272255] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3876999f420f27460916dd8224272255] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **22.**[^c19399801] In section 4 (general right to bail of accused persons and others), in subsection (3), for the words from “to be dealt with” onwards there is substituted
 
@@ -160,13 +160,13 @@ Section 304
 
 #### Criminal Law Act 1977 (c. 45)
 
-**24.**[^key-13fb3969adc9fb20deaf322160f9e97a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-13fb3969adc9fb20deaf322160f9e97a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Magistrates' Courts Act 1980 (c. 43)
 
 **25.**[^c19399831] The Magistrates' Courts Act 1980 is amended as follows.
 
-**26.**[^key-f3e906368e77d6cd71cfe601302b63d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-f3e906368e77d6cd71cfe601302b63d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
@@ -176,7 +176,7 @@ Section 304
 
 **28.** In section 85 (power to remit fine), in subsection (2A), for “section 35(2)(a) or (b) of the Crime (Sentences) Act 1997” there is substituted “ section 300(2) of the Criminal Justice Act 2003 ”.
 
-**29.**[^key-e583548c1ac8907888efd68a376e7af5][^c19076341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-e583548c1ac8907888efd68a376e7af5][^c19076341] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **30.**[^c19399851] In section 133 (consecutive terms of imprisonment), in subsection (1), for “Subject to section 84 of the Powers of Criminal Courts (Sentencing) Act 2000,” there is substituted “ Subject to section 265 of the Criminal Justice Act 2003, ”.
 
@@ -201,7 +201,7 @@ Section 304
 
 **Not yet in force.**
 
-**33.**[^key-0bd23b027286dc2678587fc468c01148] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-0bd23b027286dc2678587fc468c01148] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Criminal Justice Act 1982 (c. 48)
 
@@ -335,7 +335,7 @@ Section 304
 
 **53.** In section 27 (production of licence), in subsection (3), for “section 40 of the Crime (Sentences) Act 1997” there is substituted “ section 301 of the Criminal Justice Act 2003 ”.
 
-**54.**[^key-54fa6f4e6cfe654cf0988e150f23701c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-54fa6f4e6cfe654cf0988e150f23701c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Football Spectators Act 1989 (c. 37)
 
@@ -343,9 +343,9 @@ Section 304
 
 **56.**[^c19400161] In section 7 (disqualification for membership of scheme), subsection (9) is omitted.
 
-**57.**[^key-a969f74ed52a6f8b20b56184f5becae1][^c19076351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-a969f74ed52a6f8b20b56184f5becae1][^c19076351] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-5fc416def98e63852907a4595fb1869e][^c19076381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**58.**[^c-5fc416def98e63852907a4595fb1869e][^c19076381] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Children Act 1989 (c. 41)
 
@@ -401,11 +401,11 @@ Section 304
 
 (5) In paragraph 11(4), for the words from “probation order made by a court” onwards there is substituted “ community order made by a court in England and Wales under section 177 of the Criminal Justice Act 2003, except a power conferred by paragraph 9(1)(b) or (c) or 13(2) of Schedule 8 to that Act ”.
 
-(6)[^key-ec56828d004a8fff1653ac3d85cb0c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ec56828d004a8fff1653ac3d85cb0c34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Aggravated Vehicle-Taking Act 1992 (c. 11)
 
-**65.**[^key-6aef910f611c5200627af92608ddfe46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**65.**[^c-6aef910f611c5200627af92608ddfe46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Prisoners and Criminal Proceedings (Scotland) Act 1993 (c. 9)
 
@@ -447,7 +447,7 @@ Section 304
 
 **68.**[^c19117311] (1) In Schedule 3 to the Goods Vehicles (Licensing of Operators) Act 1995 (qualifications for standard licence), paragraph 3 is amended as follows.
 
-(2)[^key-87c7d7daca20d20fb35a769ded9e5815] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-87c7d7daca20d20fb35a769ded9e5815] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In sub-paragraph (2)(c), for “community service order” there is substituted “ community order ”.
 
@@ -591,7 +591,7 @@ Section 304
 
 **87.**[^c19400451] The Crime and Disorder Act 1998 is amended as follows.
 
-**88.**[^key-d62fddf2624a0a90e31f570a595f146f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**88.**[^c-d62fddf2624a0a90e31f570a595f146f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **89.**[^c19400471] (1) Section 38 (local provision of youth justice services) is amended as follows.
 
@@ -601,15 +601,15 @@ Section 304
 
 #### Powers of Criminal Courts (Sentencing) Act 2000 (c. 6)
 
-**90.**[^key-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**90.**[^c-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**91.**[^key-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**91.**[^c-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**92.**[^key-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**92.**[^c-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**93.**[^key-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**93.**[^c-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**94.**[^key-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**94.**[^c-df046a065c8bbb4f61912d9f48d7d88a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **95.**[^c19400531] For section 33 there is substituted— *(affected by repeal, see note)*[^c20883761]
 
@@ -654,7 +654,7 @@ Section 304
 (2) In subsection (1)—
 
 - (a) in paragraph (a), for “sections 34 to 36 above” there is substituted “ sections 148, 150 and 156 of the Criminal Justice Act 2003 ” and for “21” there is substituted “ 16 ”, and
-- (b) in paragraph (b), for “18[^key-36fac07bed551ab57334e39052274209]” there is substituted “ 16 ”, and
+- (b) in paragraph (b), for “18[^c-36fac07bed551ab57334e39052274209]” there is substituted “ 16 ”, and
 - (c) paragraph (c) and the word “or” immediately preceding it are omitted.
 
 (3) In subsection (4), for paragraphs (a) and (b) there is substituted “ shall not exceed 24 ”.
@@ -667,53 +667,53 @@ Section 304
 
 **105.**[^c19400611] [^c20211181]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**106.**[^key-6ebf4d22b5497abb157104d1e73c7877] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**106.**[^c-6ebf4d22b5497abb157104d1e73c7877] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **107.**[^c19400631] In section 74 (requirements and provisions of reparation order, and obligations of person subject to it), in subsection (3)(a), after “community order” there is inserted “ or any youth community order ”.
 
-**108.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**108.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**109.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**109.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**110.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**110.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**111.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**111.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**112.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**112.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**113.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**113.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**114.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**114.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**115.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**115.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**116.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**116.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**117.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**117.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**118.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**118.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**119.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**119.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**120.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**120.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**121.**[^key-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**121.**[^c-630f1a169a4cb0ecece2949809c0deac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **122.** [^c20211351]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**123.**[^c19118341][^key-3758f48f512faae732ce16180017f169] (1) Section 163 (interpretation) is amended as follows.
+**123.**[^c19118341][^c-3758f48f512faae732ce16180017f169] (1) Section 163 (interpretation) is amended as follows.
 
 (2) In the definition of “attendance centre” for “section 62(2) above” there is substituted “ section 221(2) of the Criminal Justice Act 2003 ”.
 
 (3) In the definition of “attendance centre order” for the words from “by virtue of” to “Schedule 3” there is substituted “ by virtue of paragraph 4(2)(b) or 5(2)(b) of Schedule 3 ”.
 
-(4)[^key-e61c07bbff36ec7765c9e92b287531ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-e61c07bbff36ec7765c9e92b287531ab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) [^c20211391]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-85f094d596463933914affced0af8fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-85f094d596463933914affced0af8fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-85f094d596463933914affced0af8fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-85f094d596463933914affced0af8fa9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) At the end there is inserted—
 
@@ -792,7 +792,7 @@ Section 304
 
 #### Proceeds of Crime Act 2002 (c. 29)
 
-**141.**[^key-3c265fec35d947f0c049f9bf28fa804d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**141.**[^c-3c265fec35d947f0c049f9bf28fa804d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Sexual Offences Act 2003 (c. 42)
 
@@ -810,13 +810,13 @@ Section 304
 
 ### Part 2 — Offences: abolition of imprisonment and conversion to summary offence
 
-#### ...[^key-9b8d348830344d023dcb0dbe94de8058]
+#### ...[^c-9b8d348830344d023dcb0dbe94de8058]
 
 **Not yet in force.**
 
-**145.**[^key-9b8d348830344d023dcb0dbe94de8058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**145.**[^c-9b8d348830344d023dcb0dbe94de8058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**146.**[^key-9b8d348830344d023dcb0dbe94de8058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**146.**[^c-9b8d348830344d023dcb0dbe94de8058] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### London Hackney Carriages Act 1843 (c. 86)
 
@@ -924,9 +924,9 @@ Section 304
 
 [^c19076331]: Commencement: Sch. 32 para. 12 wholly in force at 4.4.2005; Sch. 32 para. 12 not in force at Royal Assent, see s. 336(3); Sch. 32 para. 12(1)-(3)(6) in force for certain purposes at 26.1.2004 by [S.I. 2003/3282](https://www.legislation.gov.uk/uksi/2003/3282), [art. 2](https://www.legislation.gov.uk/uksi/2003/3282/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3282/schedule); Sch. 32 para. 12 in force in so far as not already in force at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(7)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/7) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-47eba2fc8bf4b7b20de075bf95701b7d]: Textual amendment: Sch. 32 para. 12(2) (3) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-47eba2fc8bf4b7b20de075bf95701b7d]: Textual amendment: Sch. 32 para. 12(2) (3) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
 
-[^key-aa8308635c029d57fda78027cd0df42b]: Textual amendment: Sch. 32 para. 12(6) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-aa8308635c029d57fda78027cd0df42b]: Textual amendment: Sch. 32 para. 12(6) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
 
 [^c19399731]: Commencement: Sch. 32 para. 13 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(7)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/7) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
@@ -934,7 +934,7 @@ Section 304
 
 [^c20207321]: Textual amendment: Sch. 32 para. 14 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxxi)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxxi)
 
-[^key-859ab4128a9e37e5adbce8034447d7d9]: Textual amendment: Sch. 32 para. 15 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 52](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/52); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-859ab4128a9e37e5adbce8034447d7d9]: Textual amendment: Sch. 32 para. 15 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 52](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/52); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
 
 [^c19399751]: Commencement: Sch. 32 para. 15 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(9)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/9) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
@@ -942,7 +942,7 @@ Section 304
 
 [^c19399771]: Commencement: Sch. 32 para. 18 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(11)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/11) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-dae5350f7993396b2e3ac4bf5425c29e]: Textual amendment: Sch. 32 para. 18(3) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-dae5350f7993396b2e3ac4bf5425c29e]: Textual amendment: Sch. 32 para. 18(3) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c19258831]: Textual amendment: Sch. 32 para. 19 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/2), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
@@ -950,19 +950,19 @@ Section 304
 
 [^c19399791]: Commencement: Sch. 32 para. 21 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(12)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/12) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-3876999f420f27460916dd8224272255]: Textual amendment: Sch. 32 para. 21(3) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3876999f420f27460916dd8224272255]: Textual amendment: Sch. 32 para. 21(3) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19399801]: Commencement: Sch. 32 para. 22 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(12)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/12) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
 [^c19399811]: Commencement: Sch. 32 para. 23 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(12)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/12) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-13fb3969adc9fb20deaf322160f9e97a]: Textual amendment: Sch. 32 para. 24 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-13fb3969adc9fb20deaf322160f9e97a]: Textual amendment: Sch. 32 para. 24 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19399831]: Commencement: Sch. 32 para. 25 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(14)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/14) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-f3e906368e77d6cd71cfe601302b63d3]: Textual amendment: Sch. 32 para. 26 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f3e906368e77d6cd71cfe601302b63d3]: Textual amendment: Sch. 32 para. 26 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-e583548c1ac8907888efd68a376e7af5]: Textual amendment: Sch. 32 para. 29 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-e583548c1ac8907888efd68a376e7af5]: Textual amendment: Sch. 32 para. 29 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
 
 [^c19076341]: Commencement: Sch. 32 para. 29 partly in force; Sch. 32 para. 29 not in force at Royal Assent, see s. 336(3); Sch. 32 para. 29 in force for certain purposes at 26.1.2004 by [S.I. 2003/3282](https://www.legislation.gov.uk/uksi/2003/3282), [art. 2](https://www.legislation.gov.uk/uksi/2003/3282/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3282/schedule)
 
@@ -972,7 +972,7 @@ Section 304
 
 [^c19399871]: Commencement: Sch. 32 para. 32 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(16)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/16) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-0bd23b027286dc2678587fc468c01148]: Textual amendment: Sch. 32 para. 33 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0bd23b027286dc2678587fc468c01148]: Textual amendment: Sch. 32 para. 33 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19399881]: Commencement: Sch. 32 para. 34 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(17)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/17) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
@@ -1002,17 +1002,17 @@ Section 304
 
 [^c19117261]: Commencement: Sch. 32 para. 52 partly in force; Sch. 32 para. 52 not in force at Royal Assent, see s. 336(3); Sch. 32 para. 52 in force for certain purposes at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(22)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/22) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-54fa6f4e6cfe654cf0988e150f23701c]: Textual amendment: Sch. 32 para. 54 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-54fa6f4e6cfe654cf0988e150f23701c]: Textual amendment: Sch. 32 para. 54 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19400151]: Commencement: Sch. 32 para. 55 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(23)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/23) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
 [^c19400161]: Commencement: Sch. 32 para. 56 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(23)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/23) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-a969f74ed52a6f8b20b56184f5becae1]: Textual amendment: Sch. 32 para. 57 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-a969f74ed52a6f8b20b56184f5becae1]: Textual amendment: Sch. 32 para. 57 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
 
 [^c19076351]: Commencement: Sch. 32 para. 57 partly in force; Sch. 32 para. 57 not in force at Royal Assent, see s. 336(3); Sch. 32 para. 57 in force for certain purposes at 26.1.2004 by [S.I. 2003/3282](https://www.legislation.gov.uk/uksi/2003/3282), [art. 2](https://www.legislation.gov.uk/uksi/2003/3282/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3282/schedule)
 
-[^key-5fc416def98e63852907a4595fb1869e]: Textual amendment: Sch. 32 para. 58 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-5fc416def98e63852907a4595fb1869e]: Textual amendment: Sch. 32 para. 58 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
 
 [^c19076381]: Commencement: Sch. 32 para. 58 partly in force; Sch. 32 para. 58 not in force at Royal Assent, see s. 336(3); Sch. 32 para. 58 in force for certain purposes at 26.1.2004 by [S.I. 2003/3282](https://www.legislation.gov.uk/uksi/2003/3282), [art. 2](https://www.legislation.gov.uk/uksi/2003/3282/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/3282/schedule)
 
@@ -1028,15 +1028,15 @@ Section 304
 
 [^c20207331]: Textual amendment: Sch. 32 para. 64(3)(a)(ii) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxxi)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxxi)
 
-[^key-ec56828d004a8fff1653ac3d85cb0c34]: Textual amendment: Sch. 32 para. 64(6) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-ec56828d004a8fff1653ac3d85cb0c34]: Textual amendment: Sch. 32 para. 64(6) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [s. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-6aef910f611c5200627af92608ddfe46]: Textual amendment: Sch. 32 para. 65 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6aef910f611c5200627af92608ddfe46]: Textual amendment: Sch. 32 para. 65 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19400221]: Commencement: Sch. 32 para. 67 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(27)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/27) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
 [^c19117311]: Commencement: Sch. 32 para. 68 partly in force; Sch. 32 para. 68 not in force at Royal Assent, see s. 336(3); Sch. 32 para. 68(1)(3)(4) in force at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(28)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/28) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-87c7d7daca20d20fb35a769ded9e5815]: Textual amendment: Sch. 32 para. 68(2) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-87c7d7daca20d20fb35a769ded9e5815]: Textual amendment: Sch. 32 para. 68(2) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 39](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/39); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
 
 [^c20959331]: Textual amendment: Sch. 32 para. 69 repealed (S.) (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 14(2)](https://www.legislation.gov.uk/asp/2010/13/section/14/2), [206](https://www.legislation.gov.uk/asp/2010/13/section/206), [Sch. 2 para. 49](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/49); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/413/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
@@ -1082,13 +1082,13 @@ Section 304
 
 [^c19400451]: Commencement: Sch. 32 para. 87 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(33)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/33) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-d62fddf2624a0a90e31f570a595f146f]: Textual amendment: Sch. 32 para. 88 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d62fddf2624a0a90e31f570a595f146f]: Textual amendment: Sch. 32 para. 88 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19400471]: Commencement: Sch. 32 para. 89 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(33)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/33) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
 [^c20210801]: Textual amendment: Sch. 32 para. 89(2) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxxi)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxxi)
 
-[^key-df046a065c8bbb4f61912d9f48d7d88a]: Textual amendment: Sch. 32 paras. 90-94 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-df046a065c8bbb4f61912d9f48d7d88a]: Textual amendment: Sch. 32 paras. 90-94 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19400531]: Commencement: Sch. 32 para. 95 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(34)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/34) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
@@ -1116,7 +1116,7 @@ Section 304
 
 [^c19118291]: Commencement: Sch. 32 para. 102 partly in force; Sch. 32 para. 102 not in force at Royal Assent, see s. 336(3); Sch. 32 para. 102(1)(2)(a)(4) in force at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(34)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/34) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-36fac07bed551ab57334e39052274209]: Textual amendment: Word in [Sch. 32 para. 102(2)(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32/paragraph/102/2/b) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2022/32/schedule/13/paragraph/7); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(q)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/q) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/c))
+[^c-36fac07bed551ab57334e39052274209]: Textual amendment: Word in [Sch. 32 para. 102(2)(b)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32/paragraph/102/2/b) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1), [Sch. 13 para. 7](https://www.legislation.gov.uk/ukpga/2022/32/schedule/13/paragraph/7); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(q)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/q) (as amended by [S.I. 2022/680](https://www.legislation.gov.uk/uksi/2022/680), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/680/regulation/2/c))
 
 [^c19400591]: Commencement: Sch. 32 para. 103 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(34)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/34) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
@@ -1130,23 +1130,23 @@ Section 304
 
 [^c20211181]: Textual amendment: Sch. 32 para. 105 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxxi)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxxi)
 
-[^key-6ebf4d22b5497abb157104d1e73c7877]: Textual amendment: Sch. 32 para. 106 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-6ebf4d22b5497abb157104d1e73c7877]: Textual amendment: Sch. 32 para. 106 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19400631]: Commencement: Sch. 32 para. 107 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(34)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/34) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-630f1a169a4cb0ecece2949809c0deac]: Textual amendment: Sch. 32 paras. 108-121 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-630f1a169a4cb0ecece2949809c0deac]: Textual amendment: Sch. 32 paras. 108-121 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c20211351]: Textual amendment: Sch. 32 para. 122 repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxxi)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxxi)
 
 [^c19118341]: Commencement: Sch. 32 para. 123 partly in force; Sch. 32 para. 123 not in force at Royal Assent, see s. 336(3); Sch. 32 para. 123(5) in force for certain purposes and Sch. 32 para. 123(1)(2)(4)(6)-(8) in force at 4.4.2005 by [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [arts. 2](https://www.legislation.gov.uk/uksi/2005/950/article/2), [Sch. 1 para. 42(34)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/34) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-3758f48f512faae732ce16180017f169]: Modification: Sch. 32 para. 123 modified in part (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-3758f48f512faae732ce16180017f169]: Modification: Sch. 32 para. 123 modified in part (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-e61c07bbff36ec7765c9e92b287531ab]: Textual amendment: Sch. 32 para. 123(4) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e61c07bbff36ec7765c9e92b287531ab]: Textual amendment: Sch. 32 para. 123(4) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c20211391]: Textual amendment: Sch. 32 para. 123(5) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 149](https://www.legislation.gov.uk/ukpga/2008/4/section/149), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)(xxxi)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u/xxxi)
 
-[^key-85f094d596463933914affced0af8fa9]: Textual amendment: Sch. 32 para. 123(6)(7) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-85f094d596463933914affced0af8fa9]: Textual amendment: Sch. 32 para. 123(6)(7) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^M_F_e16969fb-08f2-43af-923d-c1a74e89a78e]: Textual amendment: Sch. 32 para. 124-126 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
@@ -1186,7 +1186,7 @@ Section 304
 
 [^c19258851]: Textual amendment: Sch. 32 para. 140 repealed (28.3.2009 for certain purposes, otherwise 31.10.2009) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [ss. 378(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/378/2), [383](https://www.legislation.gov.uk/ukpga/2006/52/section/383), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3](https://www.legislation.gov.uk/uksi/2009/812/article/3) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-3c265fec35d947f0c049f9bf28fa804d]: Textual amendment: Sch. 32 para. 141 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3c265fec35d947f0c049f9bf28fa804d]: Textual amendment: Sch. 32 para. 141 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c19400931]: Commencement: Sch. 32 para. 142 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(39)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/39) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
@@ -1194,7 +1194,7 @@ Section 304
 
 [^c19400951]: Commencement: Sch. 32 para. 144 wholly in force at 4.4.2005, see s. 336(3) and [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(39)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/39) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/950/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2))
 
-[^key-9b8d348830344d023dcb0dbe94de8058]: Textual amendment: Sch. 32 paras. 145, 146 and cross-heading repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/g/ii), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
+[^c-9b8d348830344d023dcb0dbe94de8058]: Textual amendment: Sch. 32 paras. 145, 146 and cross-heading repealed (29.6.2026) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 81(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/3/g/ii), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 81(8)](https://www.legislation.gov.uk/ukpga/2022/32/section/81/8)); [S.I. 2026/690](https://www.legislation.gov.uk/uksi/2026/690), [reg. 2](https://www.legislation.gov.uk/uksi/2026/690/regulation/2)
 
 [^c20206631]: Textual amendment: Sch. 32 para. 152 repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2008/12/section/1/1), {Sch. 1 P1. 1 Group 4}
 

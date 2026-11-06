@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Confirmation of receipt of postal voting statement[^key-ff40cd098eee4b1ab62b261c45636560]
+## 52. Confirmation of receipt of postal voting statement[^c-ff40cd098eee4b1ab62b261c45636560]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ After regulation 84 insert—
 
 ## Annotations
 
-[^key-ff40cd098eee4b1ab62b261c45636560]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2006/2910/regulation/52) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-ff40cd098eee4b1ab62b261c45636560]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2006/2910/regulation/52) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

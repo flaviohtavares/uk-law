@@ -46,8 +46,8 @@ summary: ''
 
 (3) In Article 33(1) (enquiries as to means of applicant for free legal aid) for the words from “the Department for Social Development to arrange” to the end substitute “ enquiries to be made into the means of that person, and a report made to the court, in accordance with rules under Article 36. ”.
 
-(4)[^key-9d6333f07348fd733a6d8c9a819c0793] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9d6333f07348fd733a6d8c9a819c0793] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d6333f07348fd733a6d8c9a819c0793]: Textual amendment: [S. 80(4)](https://www.legislation.gov.uk/nia/2011/24/section/80/4) repealed (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/f)
+[^c-9d6333f07348fd733a6d8c9a819c0793]: Textual amendment: [S. 80(4)](https://www.legislation.gov.uk/nia/2011/24/section/80/4) repealed (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2014/11/schedule/3/part/1) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(f)](https://www.legislation.gov.uk/nisr/2015/193/article/2/f)

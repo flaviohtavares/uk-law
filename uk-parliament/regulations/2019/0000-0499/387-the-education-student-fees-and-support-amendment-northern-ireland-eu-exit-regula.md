@@ -34,7 +34,7 @@ Exiting The European Union
 
 Education, Northern Ireland
 
-The Education (Student Fees and Support) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^key-1fd648758238e1965151806381f62dae]
+The Education (Student Fees and Support) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (revoked)[^c-1fd648758238e1965151806381f62dae]
 
 Sift requirements satisfied
 
@@ -50,74 +50,74 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-1fd648758238e1965151806381f62dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fd648758238e1965151806381f62dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-1fd648758238e1965151806381f62dae]
+## 1. Citation and commencement[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Support) (No.2) Regulations (Northern Ireland) 2009[^key-1fd648758238e1965151806381f62dae]
+## 2. Amendment of the Education (Student Support) (No.2) Regulations (Northern Ireland) 2009[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2[^key-1fd648758238e1965151806381f62dae]
+## 3. Amendment of regulation 2[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 5[^key-1fd648758238e1965151806381f62dae]
+## 4. Amendment of regulation 5[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 18[^key-1fd648758238e1965151806381f62dae]
+## 5. Amendment of regulation 18[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 43[^key-1fd648758238e1965151806381f62dae]
+## 6. Amendment of regulation 43[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 83[^key-1fd648758238e1965151806381f62dae]
+## 7. Amendment of regulation 83[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 106[^key-1fd648758238e1965151806381f62dae]
+## 8. Amendment of regulation 106[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 123[^key-1fd648758238e1965151806381f62dae]
+## 9. Amendment of regulation 123[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of regulation 151[^key-1fd648758238e1965151806381f62dae]
+## 10. Amendment of regulation 151[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of Schedule 2[^key-1fd648758238e1965151806381f62dae]
+## 11. Amendment of Schedule 2[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of Schedule 5[^key-1fd648758238e1965151806381f62dae]
+## 12. Amendment of Schedule 5[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Amendment of the Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007[^key-1fd648758238e1965151806381f62dae]
+## 13. Amendment of the Student Fees (Qualifying Courses and Persons) Regulations (Northern Ireland) 2007[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of the Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2012[^key-1fd648758238e1965151806381f62dae]
+## 14. Amendment of the Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2012[^c-1fd648758238e1965151806381f62dae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1fd648758238e1965151806381f62dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fd648758238e1965151806381f62dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1fd648758238e1965151806381f62dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fd648758238e1965151806381f62dae]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1fd648758238e1965151806381f62dae]: Textual amendment: [Regs. 2-13](https://www.legislation.gov.uk/uksi/2019/387/regulation/2) revoked (31.12.2020 immediately before IP completion day) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2020/295/regulation/2)
+[^c-1fd648758238e1965151806381f62dae]: Textual amendment: [Regs. 2-13](https://www.legislation.gov.uk/uksi/2019/387/regulation/2) revoked (31.12.2020 immediately before IP completion day) by [The Education (Student Fees and Support) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/295)](https://www.legislation.gov.uk/nisr/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/295/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2020/295/regulation/2)
 
     Regulations revoked in so far as not already revoked (31.12.2020 immediately before IP completion day) by [The Further Education (Student Support) (Eligibility) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/296)](https://www.legislation.gov.uk/nisr/2020/296), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/296/regulation/1/2), [2](https://www.legislation.gov.uk/nisr/2020/296/regulation/2)

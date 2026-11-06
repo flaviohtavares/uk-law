@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Ancillary provision[^key-6e87c5662f241f73e96a6d4c600000a4][^key-6e87c5662f241f73e96a6d4c600000a4]
+## 58. Ancillary provision[^c-6e87c5662f241f73e96a6d4c600000a4][^c-6e87c5662f241f73e96a6d4c600000a4]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e87c5662f241f73e96a6d4c600000a4]: Commencement: S. 58 in force at 11.8.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-6e87c5662f241f73e96a6d4c600000a4]: Commencement: S. 58 in force at 11.8.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

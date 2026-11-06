@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Provision of information by responsible body to trustees[^key-dfabb07573ff555cdfc14332d3b8ca1b]
+## 85. Provision of information by responsible body to trustees[^c-dfabb07573ff555cdfc14332d3b8ca1b]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dfabb07573ff555cdfc14332d3b8ca1b]: Commencement: S. 85 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-dfabb07573ff555cdfc14332d3b8ca1b]: Commencement: S. 85 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

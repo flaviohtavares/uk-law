@@ -39,11 +39,11 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 Those powers are exercisable by the Secretary of State by virtue of Article 4(1)(a) and (b) of the Welfare Reform (Northern Ireland) Order 2015.
 
-## 1. Citation[^key-ec0fa178e6b1f4bfa0372f28a320edec]
+## 1. Citation[^c-ec0fa178e6b1f4bfa0372f28a320edec]
 
 This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017.
 
-## 2. Interpretation[^key-ec4e0403d1e3a2cfed3f0730dee9c6ed]
+## 2. Interpretation[^c-ec4e0403d1e3a2cfed3f0730dee9c6ed]
 
 (1) In this Order—
 
@@ -93,7 +93,7 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
 - (a) whether a claim for universal credit is made; and
 - (b) the date on which such a claim is made.
 
-## 3. Provisions coming into force on 27th September 2017[^key-d83028c820700fccddfc81f7f013d877]
+## 3. Provisions coming into force on 27th September 2017[^c-d83028c820700fccddfc81f7f013d877]
 
 (1) The day appointed for the coming into force of the provisions of the 2015 Order referred to in paragraph (2) is 27th September 2017.
 
@@ -115,7 +115,7 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
 
 (3) Despite paragraph (2)(k)(ii), the benefits referred to in section 69(11)(aa) and (ac) of the 1992 Act remain benefits to which section 69 of the 1992 Act applies to the extent that they relate respectively to an old style JSA award and an old style ESA award.
 
-## 4. Day appointed for the coming into force of the universal credit provisions in Part 2 of the 2015 Order[^key-9285d83b072936e1df59c25118ff67f7]
+## 4. Day appointed for the coming into force of the universal credit provisions in Part 2 of the 2015 Order[^c-9285d83b072936e1df59c25118ff67f7]
 
 (1) The day appointed for the coming into force of the provisions of the 2015 Order referred to in paragraph (2) is 27th September 2017.
 
@@ -145,9 +145,9 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
 
 (5) The day appointed in relation to the case of a claim referred to in paragraph (4), and any award that is made in respect of the claim, is the first day of the period in respect of which the claim is made.
 
-(6)[^key-78b1ea975a9943cfb0cdac254f63ecd7][^key-d4b10e94927dda438fac207e06b1b65e][^key-270c060e05c813fc2c8e204a67c3e03d][^key-28f15816ce5227abfeba64be67042c22][^key-406134ef302957f175b9bba3ed62fde8] For the purposes of paragraph (5), where the time for making a claim for universal credit is extended under regulation 25(2) of the Claims and Payments Regulations 2016, the reference to the first day of the period in respect of which the claim is made or treated as made is a reference to the first day of the period in respect of which the claim is, by reason of the operation of that provision, timeously made or treated as made.
+(6)[^c-78b1ea975a9943cfb0cdac254f63ecd7][^c-d4b10e94927dda438fac207e06b1b65e][^c-270c060e05c813fc2c8e204a67c3e03d][^c-28f15816ce5227abfeba64be67042c22][^c-406134ef302957f175b9bba3ed62fde8] For the purposes of paragraph (5), where the time for making a claim for universal credit is extended under regulation 25(2) of the Claims and Payments Regulations 2016, the reference to the first day of the period in respect of which the claim is made or treated as made is a reference to the first day of the period in respect of which the claim is, by reason of the operation of that provision, timeously made or treated as made.
 
-## 5. Incorrect information regarding residence in the No. 1 relevant districts[^key-f19a99bcbbbdc489c7d37c88b548d786][^key-3c98a2bb527c51f0f07e305c5f80966b][^key-58dddd6d54ba8f03931a94a13ee4a5c7][^key-99a36d0267d23fed3229dd1b8db7b41f][^key-1b43420547c94fcac11b1588e029fed6]
+## 5. Incorrect information regarding residence in the No. 1 relevant districts[^c-f19a99bcbbbdc489c7d37c88b548d786][^c-3c98a2bb527c51f0f07e305c5f80966b][^c-58dddd6d54ba8f03931a94a13ee4a5c7][^c-99a36d0267d23fed3229dd1b8db7b41f][^c-1b43420547c94fcac11b1588e029fed6]
 
 (1) This Article applies where a claim for universal credit is made and it is subsequently discovered that the single claimant or either or both of two joint claimants gave incorrect information regarding his or her (or their) residing in the No. 1 relevant districts and the condition referred to in paragraph (2) is met.
 
@@ -178,7 +178,7 @@ This Order may be cited as the Welfare Reform (Northern Ireland) Order 2015 (Com
 
 (7) For the purposes of paragraph (4), a person makes a claim for old style ESA or old style JSA where he or she makes a claim for an employment and support allowance or a jobseeker’s allowance and the claim is subject to Part 1 of the 2007 Act or the 1995 Order respectively as those provisions have effect apart from the amendments made by the amending provisions.
 
-## 6. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance[^key-a1ac8e0f59bed38ae4aa3c330b20b863][^key-044ce3fffd37c408d73bb4005f159106]
+## 6. Day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance[^c-a1ac8e0f59bed38ae4aa3c330b20b863][^c-044ce3fffd37c408d73bb4005f159106]
 
 (1) The day appointed for the coming into force of—
 
@@ -201,7 +201,7 @@ in relation to the case of a claim referred to in paragraph (2) and any award th
 
 (3) The day appointed in relation to the case of a claim referred to in paragraph (2), and any award that is made in respect of the claim, is the first day of the period in respect of which the claim is made.
 
-(4)[^key-f3f9a681404306075ba18e9544130111][^key-71933ccccdd2e406f6aa358fd3f14488][^key-182dd44b2ae6749af418b7745598a47f][^key-b8411d80bae127808b1f81468e66c54a] In paragraph (1), the reference to the case of a claim for universal credit referred to in paragraph (2)(a) or (b) (and any award made in respect of the claim), includes a reference to—
+(4)[^c-f3f9a681404306075ba18e9544130111][^c-71933ccccdd2e406f6aa358fd3f14488][^c-182dd44b2ae6749af418b7745598a47f][^c-b8411d80bae127808b1f81468e66c54a] In paragraph (1), the reference to the case of a claim for universal credit referred to in paragraph (2)(a) or (b) (and any award made in respect of the claim), includes a reference to—
 
 - (a) a case where a notice under regulation 4 of the 2010 Transitional Regulations (the notice commencing the conversion phase in relation to an award of incapacity benefit or severe disablement allowance) is issued to a single claimant or in the case of joint claimants, either of those claimants, during the designated period;
 - (b) where sub-paragraph (a) does not apply, a case where a conversion decision is made during that period in relation to an award of incapacity benefit or severe disablement allowance to which a single claimant or in the case of joint claimants, either of those claimants, is entitled; and
@@ -209,23 +209,23 @@ in relation to the case of a claim referred to in paragraph (2) and any award th
 
 and any award of an employment and support allowance that is made consequent on a conversion decision that relates to the notice referred to in sub-paragraph (a), the conversion decision referred to in sub-paragraph (b) or the conversion decision referred to in sub-paragraph (c), as the case may be.
 
-(5)[^key-f3f9a681404306075ba18e9544130111][^key-71933ccccdd2e406f6aa358fd3f14488][^key-182dd44b2ae6749af418b7745598a47f][^key-b8411d80bae127808b1f81468e66c54a] For the purposes of paragraph (4), the designated period means—
+(5)[^c-f3f9a681404306075ba18e9544130111][^c-71933ccccdd2e406f6aa358fd3f14488][^c-182dd44b2ae6749af418b7745598a47f][^c-b8411d80bae127808b1f81468e66c54a] For the purposes of paragraph (4), the designated period means—
 
 - (a) in relation to a claim for universal credit referred to in paragraph (2)(a) or (b), any period when a decision has not yet been made on the claim; and
 - (b) any period, subsequent to the period referred to in sub-paragraph (a) or (b), when the single claimant or joint claimants is or are entitled to an award of universal credit in respect of the claim.
 
-(6)[^key-f3f9a681404306075ba18e9544130111][^key-71933ccccdd2e406f6aa358fd3f14488][^key-182dd44b2ae6749af418b7745598a47f][^key-b8411d80bae127808b1f81468e66c54a] For the purposes of paragraph (1), the reference to the case of a claim for universal credit referred to in paragraph (2)(a) or (b) (and any award made in respect of the claim), includes a reference to an old style ESA award or an old style JSA award that exists (or, as a result of an act as referred to in paragraph (7), is later found to have existed at that time) immediately before the day appointed (as referred to in paragraph (3)) in relation to that claim.
+(6)[^c-f3f9a681404306075ba18e9544130111][^c-71933ccccdd2e406f6aa358fd3f14488][^c-182dd44b2ae6749af418b7745598a47f][^c-b8411d80bae127808b1f81468e66c54a] For the purposes of paragraph (1), the reference to the case of a claim for universal credit referred to in paragraph (2)(a) or (b) (and any award made in respect of the claim), includes a reference to an old style ESA award or an old style JSA award that exists (or, as a result of an act as referred to in paragraph (7), is later found to have existed at that time) immediately before the day appointed (as referred to in paragraph (3)) in relation to that claim.
 
-(7)[^key-f3f9a681404306075ba18e9544130111][^key-71933ccccdd2e406f6aa358fd3f14488][^key-182dd44b2ae6749af418b7745598a47f][^key-b8411d80bae127808b1f81468e66c54a] For the purposes of paragraph (6), the acts referred to are—
+(7)[^c-f3f9a681404306075ba18e9544130111][^c-71933ccccdd2e406f6aa358fd3f14488][^c-182dd44b2ae6749af418b7745598a47f][^c-b8411d80bae127808b1f81468e66c54a] For the purposes of paragraph (6), the acts referred to are—
 
 - (a) the revision of a decision that the claimant was not entitled to an old style ESA or old style JSA; or
 - (b) an appeal to the Appeal Tribunal, a Commissioner or a court against such a decision.
 
-## 7. Provisions that apply in connection with the abolition of income-related employment and support allowance and income-based jobseeker’s allowance under Article 6[^key-f3ea86a190df482e7ca90f7c0e0467f8]
+## 7. Provisions that apply in connection with the abolition of income-related employment and support allowance and income-based jobseeker’s allowance under Article 6[^c-f3ea86a190df482e7ca90f7c0e0467f8]
 
-(1)[^key-e32b774f2fb4cbe747e762598adffa7c][^key-fec03da0af1b8d4b1af7fa789baa3a8b][^key-d0720f45a781432a3805593c5ded4e13][^key-addbb9489a9edafa40dff7affca16ba1] For the purposes of Article 6(2)(c), where a claim for an employment and support allowance or a jobseeker’s allowance is made by a couple or a member of a couple, any reference in that paragraph to “the claimant” is a reference to each member of the couple.
+(1)[^c-e32b774f2fb4cbe747e762598adffa7c][^c-fec03da0af1b8d4b1af7fa789baa3a8b][^c-d0720f45a781432a3805593c5ded4e13][^c-addbb9489a9edafa40dff7affca16ba1] For the purposes of Article 6(2)(c), where a claim for an employment and support allowance or a jobseeker’s allowance is made by a couple or a member of a couple, any reference in that paragraph to “the claimant” is a reference to each member of the couple.
 
-(2)[^key-e32b774f2fb4cbe747e762598adffa7c][^key-fec03da0af1b8d4b1af7fa789baa3a8b][^key-d0720f45a781432a3805593c5ded4e13][^key-addbb9489a9edafa40dff7affca16ba1] For the purposes of paragraph (1), “couple” has the same meaning as it has in Article 45 of the 2015 Order.
+(2)[^c-e32b774f2fb4cbe747e762598adffa7c][^c-fec03da0af1b8d4b1af7fa789baa3a8b][^c-d0720f45a781432a3805593c5ded4e13][^c-addbb9489a9edafa40dff7affca16ba1] For the purposes of paragraph (1), “couple” has the same meaning as it has in Article 45 of the 2015 Order.
 
 (3) For the purposes of Article 6(2)(d), “relevant period” means, in relation to a claim for universal credit within Article 6(2)(a) or (b), any UC claim period, and any period subsequent to any UC claim period in respect of which the claimant is entitled to an award of universal credit in respect of the claim.
 
@@ -253,16 +253,16 @@ and any award of an employment and support allowance that is made consequent on 
 
 a claim for an employment and support allowance or a jobseeker’s allowance is treated as made at a date earlier than the date on which the action referred to in paragraph (6)(a) is taken, the claim is treated as made on that earlier date.
 
-(8)[^key-d76e29a25cbc05b5b1e54795b589691e][^key-8a48539350a4f5c64db8918a730226de][^key-3f2573debe545d0b9b2e977f35e12545][^key-7cc3985df0679fda50eafafcbb3f5ffd][^key-5b2acc79c1a5198dd3e85482e711166b] For the purposes of Article 6(3)—
+(8)[^c-d76e29a25cbc05b5b1e54795b589691e][^c-8a48539350a4f5c64db8918a730226de][^c-3f2573debe545d0b9b2e977f35e12545][^c-7cc3985df0679fda50eafafcbb3f5ffd][^c-5b2acc79c1a5198dd3e85482e711166b] For the purposes of Article 6(3)—
 
 - (a) in the case of a claim for universal credit, where the time for making a claim is extended under regulation 25(2) of the Claims and Payments Regulations 2016 (time within which a claim for universal credit is to be made), the reference to the first day of the period in respect of which the claim is made is a reference to the first day of the period in respect of which the claim is, by reason of the operation of that provision, timeously made;
 - (b) in the case of a claim for an employment and support allowance or a jobseeker’s allowance, where the time for making a claim is extended under regulation 19 of, and Schedule 4 to, the Claims and Payments Regulations 1987 (time for claiming benefit)[^f00025], the reference to the first day of the period in respect of which the claim is made is a reference to the first day of the period in respect of which the claim is, by reason of the operation of those provisions, timeously made.
 
-## 8. Transitional provision where the Department determines that claims for universal credit may not be made: effect on claims for employment and support allowance and jobseeker’s allowance[^key-3bf812d8028eca590ed2e5b4ac694893]
+## 8. Transitional provision where the Department determines that claims for universal credit may not be made: effect on claims for employment and support allowance and jobseeker’s allowance[^c-3bf812d8028eca590ed2e5b4ac694893]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Day appointed for commencement of provisions relating to claimant responsibilities with respect to employment and support allowance and jobseeker’s allowance, and transitional provisions[^key-fdad705eaedb34a1f3c589c0747d80ff]
+## 9. Day appointed for commencement of provisions relating to claimant responsibilities with respect to employment and support allowance and jobseeker’s allowance, and transitional provisions[^c-fdad705eaedb34a1f3c589c0747d80ff]
 
 (1) The day appointed for the coming into force of—
 
@@ -281,11 +281,11 @@ in so far as they are not already in force, is, in relation to a particular case
 
 (4) For the purposes of paragraphs (1) to (3), “secondary legislation” means an order or regulation made under an Act or Order in Council.
 
-## 10. Transitional provision: conversion of incapacity benefits[^key-909d060c77d0d816d5d73acac026ab08][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 10. Transitional provision: conversion of incapacity benefits[^c-909d060c77d0d816d5d73acac026ab08][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 Where the amending provisions come into operation under Article 6(1) in relation to the case of a claim referred to in Article 6(2), the 2010 Transitional Regulations are to apply in relation to that case as if the modifications set out in Schedule 3 were made.
 
-## 11. Transition from old style ESA[^key-7f2e26eb6792ed25e009bef264b7a530][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 11. Transition from old style ESA[^c-7f2e26eb6792ed25e009bef264b7a530][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This article applies where a person—
 
@@ -378,7 +378,7 @@ included a reference to a contributory employment and support allowance
 
 (6) Where this article applies and a claimant had an old style ESA award in the circumstances referred to in paragraph (1)(b); the 2007 Act is to be read as if, in section 24(2), the beginning of the assessment phase (subject to section 24(3)) was the first day of the period for which the claimant was entitled to the old style ESA award.
 
-## 12. Transition from new style ESA[^key-342627f0d80869ff44f0c6df7b2c3e14][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 12. Transition from new style ESA[^c-342627f0d80869ff44f0c6df7b2c3e14][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This article applies where a person makes, or is treated as making, a claim for an employment and support allowance and Part 1 of the 2007 Act, as it has effect apart from the provisions of Schedule 3, and Part 1 of Schedule 12, to the 2015 Order that remove references to an income-related allowance, applies in relation to the claim and the condition referred to in paragraph (2) is satisfied.
 
@@ -451,7 +451,7 @@ included a reference to a new style ESA award.
 
 .
 
-## 13. Transition from old style JSA[^key-c7c13eef1cca88423c56c4bf75ba87d1][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 13. Transition from old style JSA[^c-c7c13eef1cca88423c56c4bf75ba87d1][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This Article applies where a person—
 
@@ -491,7 +491,7 @@ and, in the case of sub-paragraph (a), the condition referred to in paragraph (2
 
 (5) For the purposes of this Article, “joint-claim couple” has the meaning given in article 3(4) of the 1995 Order.
 
-## 14. Transition from new style JSA[^key-5f9b72125e6e314bd5f44cfe67545364][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 14. Transition from new style JSA[^c-5f9b72125e6e314bd5f44cfe67545364][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This Article applies when a person makes, or is treated as making, a claim for a jobseeker’s allowance (whether or not as a member of a joint-claim couple) and the 1995 Order, as it has effect apart from the provisions of Part 1 of Schedule 12 to the 2015 Order that remove references to an income-based jobseeker’s allowance, applies in relation to the claim and the condition referred to in paragraph (2) is satisfied.
 
@@ -534,7 +534,7 @@ and, in the case of sub-paragraph (a), the condition referred to in paragraph (2
 
 (5) For the purposes of this Article, “joint-claim couple” has the meaning given in Article 3(4) of the 1995 Order.
 
-## 15. Sanctions: transition from old style ESA in case of a new award[^key-2f7e652edd023d9039ddbe0d26a48707][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 15. Sanctions: transition from old style ESA in case of a new award[^c-2f7e652edd023d9039ddbe0d26a48707][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This Article applies where—
 
@@ -557,7 +557,7 @@ and, in the case of sub-paragraph (a), the condition referred to in paragraph (2
 - (a) in paragraph (1), for the words “in accordance with regulations 52 and 53” there were substituted the words “in accordance with Article 15 of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017”; and
 - (b) in paragraph (3), for the words “in accordance with regulation 52 or 53” there were substituted the words “in accordance with Article 15 of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017”.
 
-## 16. Sanctions: transition from old style ESA in case of a continuing award[^key-a37d54062b19bfd047788f5b080425e0][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 16. Sanctions: transition from old style ESA in case of a continuing award[^c-a37d54062b19bfd047788f5b080425e0][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This Article applies where—
 
@@ -578,7 +578,7 @@ and, in the case of sub-paragraph (a), the condition referred to in paragraph (2
 - (a) in paragraph (1), for the words “in accordance with regulations 52 and 53” there were substituted the words “in accordance with Article 16 of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017”; and
 - (b) in paragraph (3), for the words “in accordance with regulation 52 or 53” there were substituted the words “in accordance with Article 16 of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017”.
 
-## 17. Escalation of sanctions: transition from old style ESA[^key-19e5033a25b80ae00f75ac5f14443834][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 17. Escalation of sanctions: transition from old style ESA[^c-19e5033a25b80ae00f75ac5f14443834][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This Article applies where a person is entitled to a new style ESA award and, at any time previously, the person was entitled to an old style ESA award.
 
@@ -594,7 +594,7 @@ is, subject to paragraph (3), to be treated as arising from a sanctionable failu
 - (a) a reduction of a new style ESA award in accordance with Article 15 or 16, as the case may be, if, at any time after that reduction, the person was entitled to an old style ESA award, an old style JSA award or income support;
 - (b) a reduction of an old style ESA award under the ESA Regulations 2008 if, at any time after that reduction, the person was entitled to universal credit, a new style ESA award or a new style JSA award, and was subsequently entitled to an old style ESA award, an old style JSA award or income support.
 
-## 18. Sanctions: transition from old style JSA in case of a new award[^key-e9e527766e2ab44c69e72d8f1963a657][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 18. Sanctions: transition from old style JSA in case of a new award[^c-e9e527766e2ab44c69e72d8f1963a657][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This Article applies where—
 
@@ -624,7 +624,7 @@ the new style JSA award was made to that member of the couple.
 - (a) in paragraph (1), for the words “in accordance with regulations 20, 21 and 22”, there were substituted the words “in accordance with Article 18 of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017”; and
 - (b) in paragraph (3), for the words “in accordance with regulation 20, 21 and 22”, there were substituted the words “in accordance with Article 18 of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017”.
 
-## 19. Sanctions: transition from old style JSA in case of a continuing award[^key-16ccc58dab5dc7bbe6d72ad5f935156a][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 19. Sanctions: transition from old style JSA in case of a continuing award[^c-16ccc58dab5dc7bbe6d72ad5f935156a][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This Article applies where—
 
@@ -652,7 +652,7 @@ the new style JSA award was made to that member of the couple.
 - (a) in paragraph (1), for the words “in accordance with regulations 20, 21 and 22”, there were substituted the words “in accordance with Article 19 of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017”; and
 - (b) in paragraph (3), for the words “in accordance with regulations 20, 21 and 22”, there were substituted the words “in accordance with Article 19 of the Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 8 and Transitional and Transitory Provisions) Order 2017”.
 
-## 20. Escalation of sanctions: transition from old style JSA[^key-08a1ffe4dad361223ee5d91e378ced0e][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 20. Escalation of sanctions: transition from old style JSA[^c-08a1ffe4dad361223ee5d91e378ced0e][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) This Article applies where a person is entitled to a new style JSA award and, at any time previously, the person was entitled to an old style JSA award.
 
@@ -668,7 +668,7 @@ is, subject to paragraph (3), to be treated as arising from a sanctionable failu
 - (a) a reduction of a new style JSA award in accordance with Article 18 or 19 if, at any time after that reduction, the person was entitled to an old style JSA award, an old style ESA award or income support;
 - (b) a reduction of an old style JSA award under Article 21 (as it applied both before and after substitution by the 2015 Order) or 21A of the 1995 Order, or under regulation 69B of the JSA Regulations 1996, if, at any time after that reduction, the person was entitled to universal credit, a new style JSA award or a new style ESA award, and was subsequently entitled to an old style JSA award, an old style ESA award or income support.
 
-## 21. Termination of sanctions under a new style ESA or JSA award[^key-cf7e18cf2c3f24af6dbdd6e5492c5085][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 21. Termination of sanctions under a new style ESA or JSA award[^c-cf7e18cf2c3f24af6dbdd6e5492c5085][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) Paragraph (2) applies where a new style ESA award or new style JSA award terminates while there is an outstanding reduction period (within the meaning of regulation 55 of the ESA Regulations 2016 (reduction period to continue where award of employment and support allowance terminates) or regulation 24 of the JSA Regulations 2016 (reduction period to continue where award of jobseeker’s allowance terminates)) and the claimant becomes entitled to an old style ESA award, an old style JSA award or income support during that period.
 
@@ -677,7 +677,7 @@ is, subject to paragraph (3), to be treated as arising from a sanctionable failu
 - (a) regulation 55 of the ESA Regulations 2016 or regulation 24 of the JSA Regulations 2016, as the case may be, are to cease to apply; and
 - (b) the reduction period is to terminate on the first day of entitlement to an old style ESA award, old style JSA award or income support as the case may be.
 
-## 22. Transitory provisions: appeals[^key-1aaeab66a32754196eaac68692a5a33c][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 22. Transitory provisions: appeals[^c-1aaeab66a32754196eaac68692a5a33c][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 (1) Paragraph (2) applies where—
 
@@ -695,18 +695,18 @@ is, subject to paragraph (3), to be treated as arising from a sanctionable failu
 
 (4) For the purposes of paragraph (1), “the date of notification” means the date on which the decision notice was posted to the person’s last known address by the Department.
 
-## 23. Transitional provision: references to contributory employment and support allowance and contribution-based jobseeker’s allowance[^key-f01698195e23448cb5680ea8b2f228ab][^key-f6335e241d6ce03bf1ccd7c3a8634f9c][^key-bc5450c4123c467c57838a14f74be041][^key-cf161160c4c6ff87d90248b3af5bc5e6][^key-0bec0ba5d828f180aa586b4c5bed37f3][^key-d3fb987bb74628441c4d335dcc9ddd21]
+## 23. Transitional provision: references to contributory employment and support allowance and contribution-based jobseeker’s allowance[^c-f01698195e23448cb5680ea8b2f228ab][^c-f6335e241d6ce03bf1ccd7c3a8634f9c][^c-bc5450c4123c467c57838a14f74be041][^c-cf161160c4c6ff87d90248b3af5bc5e6][^c-0bec0ba5d828f180aa586b4c5bed37f3][^c-d3fb987bb74628441c4d335dcc9ddd21]
 
 Where the amending provisions have come into force under Article 6(1) in relation to the case of a claim referred to in Article 6(2) (and any award that is made in respect of the claim), then, in relation to such a case, any reference in the Social Security Administration (Northern Ireland) Act 1992[^f00040] or the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00041] to—
 
 - (a) a contributory employment and support allowance is to be read as if it included a reference to a new style ESA award; and
 - (b) a contribution-based jobseeker’s allowance is to be read as if it included a reference to a new style JSA award.
 
-## 24. Transitional provision: claims for housing benefit, income support or a tax credit[^key-eb8a236f50f1e7ac1c6a15b1ad560ab9]
+## 24. Transitional provision: claims for housing benefit, income support or a tax credit[^c-eb8a236f50f1e7ac1c6a15b1ad560ab9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 25. Appeals relating to old style ESA and old style JSA[^key-107d1ed8d4168dd50989be8065f597c2]
+## 25. Appeals relating to old style ESA and old style JSA[^c-107d1ed8d4168dd50989be8065f597c2]
 
 (1) This article applies where, after an award of universal credit has been made to a claimant (where that award is made by virtue of the coming into force of the provisions of the 2015 Order referred to in Schedule 1, under any secondary legislation)—
 
@@ -734,59 +734,59 @@ Department for Work and Pensions
 
 Article 4(3)
 
-**1.**[^key-3573ad1ed996fc2d0b105d3cd8a76946] Article 6 (universal credit).
+**1.**[^c-3573ad1ed996fc2d0b105d3cd8a76946] Article 6 (universal credit).
 
-**2.**[^key-23a94e3b521d8fcda9715992525eaa45] Article 7 (claims).
+**2.**[^c-23a94e3b521d8fcda9715992525eaa45] Article 7 (claims).
 
-**3.**[^key-918663471a1b0797e4595f39b4453708] Article 8 (entitlement).
+**3.**[^c-918663471a1b0797e4595f39b4453708] Article 8 (entitlement).
 
-**4.**[^key-50f7fde844bc7dcba106452e770a87cf] Article 9 (basic conditions).
+**4.**[^c-50f7fde844bc7dcba106452e770a87cf] Article 9 (basic conditions).
 
-**5.**[^key-5c67e8f8f7a809039b71adf0d3153d5c] Article 10 (financial conditions).
+**5.**[^c-5c67e8f8f7a809039b71adf0d3153d5c] Article 10 (financial conditions).
 
-**6.**[^key-337e76cc1504d9f107c8e4e6e8e007e1] Article 11 (restrictions on entitlement).
+**6.**[^c-337e76cc1504d9f107c8e4e6e8e007e1] Article 11 (restrictions on entitlement).
 
-**7.**[^key-b4fc7b1c7d5bdde6eb542ed33a4310cd] Article 12 (basis of awards).
+**7.**[^c-b4fc7b1c7d5bdde6eb542ed33a4310cd] Article 12 (basis of awards).
 
-**8.**[^key-e09b2a211d58996b796f9f8e5bcccb46] Article 13 (calculation of awards).
+**8.**[^c-e09b2a211d58996b796f9f8e5bcccb46] Article 13 (calculation of awards).
 
-**9.**[^key-23728f1f959f9cbe795b5b9fd46e6cb5] Article 14 (standard allowance).
+**9.**[^c-23728f1f959f9cbe795b5b9fd46e6cb5] Article 14 (standard allowance).
 
-**10.**[^key-b557992767a702de616b9d687565001e] Article 15 (responsibility for children and young persons).
+**10.**[^c-b557992767a702de616b9d687565001e] Article 15 (responsibility for children and young persons).
 
-**11.**[^key-88b146c87ff64b43f8da3fa0b988963c] Article 16 (housing costs).
+**11.**[^c-88b146c87ff64b43f8da3fa0b988963c] Article 16 (housing costs).
 
-**12.**[^key-bf5933a65a96ec33412b87d736fc8ce1] Article 17 (other particular needs or circumstances).
+**12.**[^c-bf5933a65a96ec33412b87d736fc8ce1] Article 17 (other particular needs or circumstances).
 
-**13.**[^key-521a529393f37dcb60fc6392b2f3ddd0] Article 18 (work-related requirements: introductory).
+**13.**[^c-521a529393f37dcb60fc6392b2f3ddd0] Article 18 (work-related requirements: introductory).
 
-**14.**[^key-1260475bc682144e19ba3a81fb18dd5f] Article 19 (claimant commitment).
+**14.**[^c-1260475bc682144e19ba3a81fb18dd5f] Article 19 (claimant commitment).
 
-**15.**[^key-6eac2d01d5a04abaeb9146890b029f3b] Article 20 (work-focused interview requirement).
+**15.**[^c-6eac2d01d5a04abaeb9146890b029f3b] Article 20 (work-focused interview requirement).
 
-**16.**[^key-ada2f279b93bf05b65324aa10d5a9f73] Article 21 (work preparation requirement).
+**16.**[^c-ada2f279b93bf05b65324aa10d5a9f73] Article 21 (work preparation requirement).
 
-**17.**[^key-b7e876f0b0ea780f9fde58503552a85c] Article 22 (work search requirement).
+**17.**[^c-b7e876f0b0ea780f9fde58503552a85c] Article 22 (work search requirement).
 
-**18.**[^key-bd18aac007d56a78b181e2a433bebf38] Article 23 (work availability requirement).
+**18.**[^c-bd18aac007d56a78b181e2a433bebf38] Article 23 (work availability requirement).
 
-**19.**[^key-d657569b2f66d80051941938224a2292] Article 24 (claimants subject to no work-related requirements).
+**19.**[^c-d657569b2f66d80051941938224a2292] Article 24 (claimants subject to no work-related requirements).
 
-**20.**[^key-06ffbf9a46b488407e66bbfbe5923d7a] Article 25 (claimants subject to work-focused interview requirement only.
+**20.**[^c-06ffbf9a46b488407e66bbfbe5923d7a] Article 25 (claimants subject to work-focused interview requirement only.
 
-**21.**[^key-a7de584b3551edd922258d79772abcf3] Article 26 (claimants subject to work preparation requirement).
+**21.**[^c-a7de584b3551edd922258d79772abcf3] Article 26 (claimants subject to work preparation requirement).
 
-**22.**[^key-2bb2e9b00cb3124eb3a57f604a342769] Article 27 (claimants subject to all work-related requirement).
+**22.**[^c-2bb2e9b00cb3124eb3a57f604a342769] Article 27 (claimants subject to all work-related requirement).
 
-**23.**[^key-898506b85bf64d2687d34dea9d477cbc] Article 28 (connected requirements).
+**23.**[^c-898506b85bf64d2687d34dea9d477cbc] Article 28 (connected requirements).
 
-**24.**[^key-e3979bab1e0a8104139e30c4da342c9a] Article 29 (imposition of requirements).
+**24.**[^c-e3979bab1e0a8104139e30c4da342c9a] Article 29 (imposition of requirements).
 
-**25.**[^key-b1e7da625e59cbfdae134236174042a1] Article 31 (higher-level sanctions).
+**25.**[^c-b1e7da625e59cbfdae134236174042a1] Article 31 (higher-level sanctions).
 
-**26.**[^key-9631f99fab7bb40c2c1d55afaea8686f] Article 32 (other sanctions).
+**26.**[^c-9631f99fab7bb40c2c1d55afaea8686f] Article 32 (other sanctions).
 
-## SCHEDULE 2 — COMMENCEMENT OF REPEALS IN PART 1 OF SCHEDULE 12 TO THE 2015 ORDER[^key-329c30af36469715d746b45434fd0460]
+## SCHEDULE 2 — COMMENCEMENT OF REPEALS IN PART 1 OF SCHEDULE 12 TO THE 2015 ORDER[^c-329c30af36469715d746b45434fd0460]
 
 Article 6(1)
 
@@ -804,9 +804,9 @@ Article 6(1)
 
 Article 10
 
-**1.**[^key-738a346bcf957c30372082c6a540d687] The 2010 Transitional Regulations are to be read as if the amendments set out in this Schedule were made.
+**1.**[^c-738a346bcf957c30372082c6a540d687] The 2010 Transitional Regulations are to be read as if the amendments set out in this Schedule were made.
 
-**2.**[^key-d7de2c2f520139b5b083c753bf2c12ee] In regulation 2 (interpretation)—
+**2.**[^c-d7de2c2f520139b5b083c753bf2c12ee] In regulation 2 (interpretation)—
 
 - (a) in paragraph (1)—
   - (i) after the definition of “the Claims and Payments Regulations” insert—
@@ -829,16 +829,16 @@ Article 10
   - (vi) in the definition of “benefit week”, for “the Employment and Support Allowance Regulations” substitute “the Employment and Support Allowance Regulations 2016”.
 - (b) in paragraph (3), omit “or awards”.
 
-**3.**[^key-1cdc6ccf93022c5bbac656553143795d] In regulation 4 (the notice commencing the conversion phase), omit paragraph (6).
+**3.**[^c-1cdc6ccf93022c5bbac656553143795d] In regulation 4 (the notice commencing the conversion phase), omit paragraph (6).
 
-**4.**[^key-ad9a5a546d3e6d473095c225d0d854db] In regulation 5 (deciding whether an existing award qualifies for conversion)—
+**4.**[^c-ad9a5a546d3e6d473095c225d0d854db] In regulation 5 (deciding whether an existing award qualifies for conversion)—
 
 - (a) in paragraph (1), omit “or awards”;
 - (b) in paragraph (2)(a), for “or awards qualify” substitute “qualifies”;
 - (c) in paragraph (2)(b), for “or awards do” substitute “does”;
 - (d) in paragraph (6)(b,) omit “or awards”.
 
-**5.**[^key-8fa92dfbfecaf4787d5881b101ec05b5] In regulation 6(2) (application of certain statutory provisions for purpose of making conversion decisions), for sub-paragraphs (c), (d) and (e) substitute—
+**5.**[^c-8fa92dfbfecaf4787d5881b101ec05b5] In regulation 6(2) (application of certain statutory provisions for purpose of making conversion decisions), for sub-paragraphs (c), (d) and (e) substitute—
 
 > - (c) the Decision and Appeals Regulations;
 > - (d) the Employment and Support Allowance Regulations 2016;
@@ -846,28 +846,28 @@ Article 10
 
 .
 
-**6.**[^key-9c449cc7fb91c2e3da77268893faa0e8] In regulation 7 (qualifying for conversion)[^f00052]—
+**6.**[^c-9c449cc7fb91c2e3da77268893faa0e8] In regulation 7 (qualifying for conversion)[^f00052]—
 
 - (a) in paragraph (1)—
   - (i) omit “or awards”;
   - (ii) for “qualify” substitute “qualifies”;
 - (b) in paragraphs (2)(b) and (3)(b), for “regulation 30 of the Employment and Support Allowance Regulations” substitute “regulation 26 of the Employment and Support Allowance Regulations 2016”.
 
-**7.**[^key-a34b97811a0a03f0c4218b790e72eebf] In regulation 8(1) (amount of an employment and support allowance on conversion)[^f00053], after “the Employment and Support Allowance Regulations” insert “2016”.
+**7.**[^c-a34b97811a0a03f0c4218b790e72eebf] In regulation 8(1) (amount of an employment and support allowance on conversion)[^f00053], after “the Employment and Support Allowance Regulations” insert “2016”.
 
-**8.**[^key-0cccc93c755a874261f8db10edfc7bb6] In regulation 9(1) (determining entitlement to a transitional addition)—
+**8.**[^c-0cccc93c755a874261f8db10edfc7bb6] In regulation 9(1) (determining entitlement to a transitional addition)—
 
 - (a) for “or awards qualify” substitute “qualifies”;
 - (b) omit “or 11(2)”.
 
-**9.**[^key-474538e8bfd9929629d3e440f4aa70d4] In regulation 10 (transitional addition: incapacity benefit or severe disablement allowance)—
+**9.**[^c-474538e8bfd9929629d3e440f4aa70d4] In regulation 10 (transitional addition: incapacity benefit or severe disablement allowance)—
 
 - (a) in paragraph (1), omit “and for the purpose of this regulation it is irrelevant whether the person is also entitled to any existing award of income support”;
 - (b) in paragraph (4)(a), for “regulation 67(2) of the Employment and Support Allowance Regulations (prescribed amounts for purpose of calculating a contributory allowance)” substitute “regulation 62(1) of the Employment and Support Allowance Regulations 2016 (prescribed amounts)”.
 
-**10.**[^key-70ae460ccbb6ad4c7d1cd51761809465] Omit regulation 11 (transitional addition: income support).
+**10.**[^c-70ae460ccbb6ad4c7d1cd51761809465] Omit regulation 11 (transitional addition: income support).
 
-**11.**[^key-4b16bd178c75030c1a633d6ac85469a8] In regulation 12 (regulations 10 and 11: supplementary)—
+**11.**[^c-4b16bd178c75030c1a633d6ac85469a8] In regulation 12 (regulations 10 and 11: supplementary)—
 
 - (a) in the title, for “Regulations 10 and 11” substitute “Regulation 10”;
 - (b) in paragraph (1), for “regulations 10 and 11” substitute “regulation 10”;
@@ -880,9 +880,9 @@ Article 10
 - (e) in paragraph (4)(a), for “paragraph (3)(a)(i) or (ii)” substitute “paragraph (3)(a)”;
 - (f) in paragraphs (3) and (4), omit “or C” and “or applicable amount, as the case may be,”.
 
-**12.**[^key-19cdcf6bc0ebe137f593c04c7b0a355f] In regulation 13(3) (the effective date of a conversion decision), omit “or awards”.
+**12.**[^c-19cdcf6bc0ebe137f593c04c7b0a355f] In regulation 13(3) (the effective date of a conversion decision), omit “or awards”.
 
-**13.**[^key-957ea3249a9e05904a1d9b5d25c4ac88] In regulation 14 (conversion decision that existing award qualifies for conversion)[^f00054]—
+**13.**[^c-957ea3249a9e05904a1d9b5d25c4ac88] In regulation 14 (conversion decision that existing award qualifies for conversion)[^f00054]—
 
 - (a) in paragraph (1)—
   - (i) for “Subject to paragraph (2A), paragraphs (2) to (6)” substitute “Paragraphs (2) to (5)”;
@@ -900,7 +900,7 @@ Article 10
 
   .
 
-**14.**[^key-3224c0b00a879c74325e2932d67ede90] In regulation 15 (conversion decision that existing award does not qualify for conversion)[^f00055]—
+**14.**[^c-3224c0b00a879c74325e2932d67ede90] In regulation 15 (conversion decision that existing award does not qualify for conversion)[^f00055]—
 
 - (a) in paragraph (1)—
   - (i) for “Subject to paragraphs (2A) and (4), paragraphs (2), (3) and (6)” substitute “Subject to paragraph (4), paragraphs (2) and (3);
@@ -924,7 +924,7 @@ Article 10
 
   .
 
-**15.**[^key-4f2a62787cd1bb86dacd5af7bea72b91] In regulation 16 (application of other statutory provisions applying to employment and support allowance)[^f00056]—
+**15.**[^c-4f2a62787cd1bb86dacd5af7bea72b91] In regulation 16 (application of other statutory provisions applying to employment and support allowance)[^f00056]—
 
 - (a) in paragraph (1A)(b), for “regulation 145(1) of the 2008 Regulations” substitute “regulation 86 of the Employment and Support Allowance Regulations 2016”;
 - (b) for paragraph (2)(e) substitute—
@@ -933,7 +933,7 @@ Article 10
 
   .
 
-**16.**[^key-f7ebffb359f13e640973e7f76ef67f2a] In regulation 17 (changes of circumstances before the effective date)[^f00057]—
+**16.**[^c-f7ebffb359f13e640973e7f76ef67f2a] In regulation 17 (changes of circumstances before the effective date)[^f00057]—
 
 - (a) omit “or awards” in both places it occurs;
 - (b) in paragraph (a)(ii)—
@@ -941,13 +941,13 @@ Article 10
   - (ii) for “(termination of existing awards which do not qualify for conversion)” substitute “(termination of an existing award which does not qualify for conversion)”;
 - (c) omit paragraph (ab).
 
-**17.**[^key-362481b093865e151c659d49e687e42e] In regulation 18 (reducing the transitional addition: general rule), for paragraph (2) substitute—
+**17.**[^c-362481b093865e151c659d49e687e42e] In regulation 18 (reducing the transitional addition: general rule), for paragraph (2) substitute—
 
 > (2) For the purposes of paragraph (1), a relevant increase is an increase in any amount applicable to the person under regulation 62(1) or (2) of the Employment and Support Allowance Regulations 2016, which is not excluded by paragraph (3).
 
 .
 
-**18.**[^key-bd77bcb3872f6d3fac9b21da8aae4fa8] In regulation 21 (termination of transitional addition)[^f00058]—
+**18.**[^c-bd77bcb3872f6d3fac9b21da8aae4fa8] In regulation 21 (termination of transitional addition)[^f00058]—
 
 - (a) in paragraph (1)(b)—
   - (i) for “ , (3A) and (4)” substitute “ and (3A)” ;
@@ -962,9 +962,9 @@ Article 10
   - (ii) omit “or additions, as the case may be,” in both places where it occurs;
   - (iii) for “an allowance which is referred to in paragraph (1)(b)” substitute “a contributory allowance”.
 
-**19.**[^key-c232188cdd4aa3f2f0859a6debc11172] In regulation 22 (disapplication of certain enactments following conversion decision), omit paragraphs (c) and (d).
+**19.**[^c-c232188cdd4aa3f2f0859a6debc11172] In regulation 22 (disapplication of certain enactments following conversion decision), omit paragraphs (c) and (d).
 
-**20.**[^key-62d7c7fbc1f7f96cc1783785bb61fc85] In Schedule 1 (modification of statutory provisions: making conversion decisions)—
+**20.**[^c-62d7c7fbc1f7f96cc1783785bb61fc85] In Schedule 1 (modification of statutory provisions: making conversion decisions)—
 
 - (a) in paragraph 1—
   - (i) in sub-paragraph (b)(i), for the modified section 1(2) substitute[^f00059]—
@@ -990,7 +990,7 @@ Article 10
   - (ii) in sub-paragraph (a), for “paragraph (1)” substitute “paragraph (2)”;
   - (iii) in sub-paragraph (b), for “paragraph (1A)” substitute “paragraph (3)”.
 
-**21.**[^key-64dea8d9bd3726780fc9cff8fe391385] (1) The following amendments to Schedule 2 (modification of enactments: after the conversion phase).
+**21.**[^c-64dea8d9bd3726780fc9cff8fe391385] (1) The following amendments to Schedule 2 (modification of enactments: after the conversion phase).
 
 (2) In paragraph 1—
 
@@ -1072,7 +1072,7 @@ Article 10
 - (e) omit sub-paragraph (e);
 - (f) in sub-paragraph (f), for “Schedule 8C” substitute “Schedule 6”.
 
-**22.**[^key-c947804190c230b4b7a0f6df7b4a9e3f] In Schedule 3 (regulations that apply after the conversion phase)—
+**22.**[^c-c947804190c230b4b7a0f6df7b4a9e3f] In Schedule 3 (regulations that apply after the conversion phase)—
 
 - (a) for “The Social Security (Claims and Payments) Regulations (Northern Ireland) 1987” substitute “the Claims and Payments Regulations 2016”;
 - (b) for “The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999” substitute “the Decisions and Appeals Regulations”.
@@ -1231,9 +1231,9 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00001]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-ec0fa178e6b1f4bfa0372f28a320edec]: Commencement: Art. 1 in operation at made date
+[^c-ec0fa178e6b1f4bfa0372f28a320edec]: Commencement: Art. 1 in operation at made date
 
-[^key-ec4e0403d1e3a2cfed3f0730dee9c6ed]: Commencement: Art. 2 in operation at made date
+[^c-ec4e0403d1e3a2cfed3f0730dee9c6ed]: Commencement: Art. 2 in operation at made date
 
 [^f00002]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8).
 
@@ -1269,29 +1269,29 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00018]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21).
 
-[^key-d83028c820700fccddfc81f7f013d877]: Commencement: Art. 3 in operation at made date
+[^c-d83028c820700fccddfc81f7f013d877]: Commencement: Art. 3 in operation at made date
 
-[^key-9285d83b072936e1df59c25118ff67f7]: Commencement: Art. 4 in operation at made date
+[^c-9285d83b072936e1df59c25118ff67f7]: Commencement: Art. 4 in operation at made date
 
-[^key-78b1ea975a9943cfb0cdac254f63ecd7]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 3(4)](https://www.legislation.gov.uk/nisr/2017/216/article/3/4)
+[^c-78b1ea975a9943cfb0cdac254f63ecd7]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 3(4)](https://www.legislation.gov.uk/nisr/2017/216/article/3/4)
 
-[^key-d4b10e94927dda438fac207e06b1b65e]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 3(4)](https://www.legislation.gov.uk/nisr/2018/1/article/3/4)
+[^c-d4b10e94927dda438fac207e06b1b65e]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 3(4)](https://www.legislation.gov.uk/nisr/2018/1/article/3/4)
 
-[^key-270c060e05c813fc2c8e204a67c3e03d]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 3(4)](https://www.legislation.gov.uk/nisr/2018/97/article/3/4)
+[^c-270c060e05c813fc2c8e204a67c3e03d]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 3(4)](https://www.legislation.gov.uk/nisr/2018/97/article/3/4)
 
-[^key-28f15816ce5227abfeba64be67042c22]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 3(4)](https://www.legislation.gov.uk/nisr/2018/138/article/3/4)
+[^c-28f15816ce5227abfeba64be67042c22]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 3(4)](https://www.legislation.gov.uk/nisr/2018/138/article/3/4)
 
-[^key-406134ef302957f175b9bba3ed62fde8]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (31.1.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (S.R. 2019/7)](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/7/article/2/4)
+[^c-406134ef302957f175b9bba3ed62fde8]: Modification: [Art. 4(6)](https://www.legislation.gov.uk/nisr/2017/190/article/4/6) applied (31.1.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (S.R. 2019/7)](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/7/article/2/4)
 
-[^key-f19a99bcbbbdc489c7d37c88b548d786]: Commencement: Art. 5 in operation at made date
+[^c-f19a99bcbbbdc489c7d37c88b548d786]: Commencement: Art. 5 in operation at made date
 
-[^key-3c98a2bb527c51f0f07e305c5f80966b]: Modification: [Art. 5](https://www.legislation.gov.uk/nisr/2017/190/article/5) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 3(5)](https://www.legislation.gov.uk/nisr/2017/216/article/3/5)
+[^c-3c98a2bb527c51f0f07e305c5f80966b]: Modification: [Art. 5](https://www.legislation.gov.uk/nisr/2017/190/article/5) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 3(5)](https://www.legislation.gov.uk/nisr/2017/216/article/3/5)
 
-[^key-58dddd6d54ba8f03931a94a13ee4a5c7]: Modification: [Art. 5](https://www.legislation.gov.uk/nisr/2017/190/article/5) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 3(5)](https://www.legislation.gov.uk/nisr/2018/1/article/3/5)
+[^c-58dddd6d54ba8f03931a94a13ee4a5c7]: Modification: [Art. 5](https://www.legislation.gov.uk/nisr/2017/190/article/5) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 3(5)](https://www.legislation.gov.uk/nisr/2018/1/article/3/5)
 
-[^key-99a36d0267d23fed3229dd1b8db7b41f]: Modification: [Art. 5](https://www.legislation.gov.uk/nisr/2017/190/article/5) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 3(5)](https://www.legislation.gov.uk/nisr/2018/97/article/3/5)
+[^c-99a36d0267d23fed3229dd1b8db7b41f]: Modification: [Art. 5](https://www.legislation.gov.uk/nisr/2017/190/article/5) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 3(5)](https://www.legislation.gov.uk/nisr/2018/97/article/3/5)
 
-[^key-1b43420547c94fcac11b1588e029fed6]: Modification: [Art. 5](https://www.legislation.gov.uk/nisr/2017/190/article/5) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 3(5)](https://www.legislation.gov.uk/nisr/2018/138/article/3/5)
+[^c-1b43420547c94fcac11b1588e029fed6]: Modification: [Art. 5](https://www.legislation.gov.uk/nisr/2017/190/article/5) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 3(5)](https://www.legislation.gov.uk/nisr/2018/138/article/3/5)
 
 [^f00019]: Footnote: Regulation 2A was inserted by regulation 12(2) of [S.R. 2017 No. 116](https://www.legislation.gov.uk/nisr/2017/116).
 
@@ -1301,67 +1301,67 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00022]: Footnote: [S.I. 2002/2014](https://www.legislation.gov.uk/uksi/2002/2014).
 
-[^key-a1ac8e0f59bed38ae4aa3c330b20b863]: Commencement: Art. 6 in operation at made date
+[^c-a1ac8e0f59bed38ae4aa3c330b20b863]: Commencement: Art. 6 in operation at made date
 
-[^key-044ce3fffd37c408d73bb4005f159106]: Modification: [Art. 6](https://www.legislation.gov.uk/nisr/2017/190/article/6) applied in part (31.1.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (S.R. 2019/7)](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(8)](https://www.legislation.gov.uk/nisr/2019/7/article/2/8)
+[^c-044ce3fffd37c408d73bb4005f159106]: Modification: [Art. 6](https://www.legislation.gov.uk/nisr/2017/190/article/6) applied in part (31.1.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (S.R. 2019/7)](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(8)](https://www.legislation.gov.uk/nisr/2019/7/article/2/8)
 
-[^key-f3f9a681404306075ba18e9544130111]: Modification: [Art. 6(4)-(7)](https://www.legislation.gov.uk/nisr/2017/190/article/6/4) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 4(6)](https://www.legislation.gov.uk/nisr/2017/216/article/4/6)
+[^c-f3f9a681404306075ba18e9544130111]: Modification: [Art. 6(4)-(7)](https://www.legislation.gov.uk/nisr/2017/190/article/6/4) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 4(6)](https://www.legislation.gov.uk/nisr/2017/216/article/4/6)
 
-[^key-71933ccccdd2e406f6aa358fd3f14488]: Modification: [Art. 6(4)-(7)](https://www.legislation.gov.uk/nisr/2017/190/article/6/4) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 4(6)](https://www.legislation.gov.uk/nisr/2018/1/article/4/6)
+[^c-71933ccccdd2e406f6aa358fd3f14488]: Modification: [Art. 6(4)-(7)](https://www.legislation.gov.uk/nisr/2017/190/article/6/4) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 4(6)](https://www.legislation.gov.uk/nisr/2018/1/article/4/6)
 
-[^key-182dd44b2ae6749af418b7745598a47f]: Modification: [Art. 6(4)-(7)](https://www.legislation.gov.uk/nisr/2017/190/article/6/4) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 4(6)](https://www.legislation.gov.uk/nisr/2018/97/article/4/6)
+[^c-182dd44b2ae6749af418b7745598a47f]: Modification: [Art. 6(4)-(7)](https://www.legislation.gov.uk/nisr/2017/190/article/6/4) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 4(6)](https://www.legislation.gov.uk/nisr/2018/97/article/4/6)
 
-[^key-b8411d80bae127808b1f81468e66c54a]: Modification: [Art. 6(4)-(7)](https://www.legislation.gov.uk/nisr/2017/190/article/6/4) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 4(6)](https://www.legislation.gov.uk/nisr/2018/138/article/4/6)
+[^c-b8411d80bae127808b1f81468e66c54a]: Modification: [Art. 6(4)-(7)](https://www.legislation.gov.uk/nisr/2017/190/article/6/4) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 4(6)](https://www.legislation.gov.uk/nisr/2018/138/article/4/6)
 
-[^key-f3ea86a190df482e7ca90f7c0e0467f8]: Commencement: Art. 7 in operation at made date
+[^c-f3ea86a190df482e7ca90f7c0e0467f8]: Commencement: Art. 7 in operation at made date
 
-[^key-e32b774f2fb4cbe747e762598adffa7c]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisr/2017/190/article/7/1)[(2)](https://www.legislation.gov.uk/nisr/2017/190/article/7/2) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 4(7)](https://www.legislation.gov.uk/nisr/2017/216/article/4/7)
+[^c-e32b774f2fb4cbe747e762598adffa7c]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisr/2017/190/article/7/1)[(2)](https://www.legislation.gov.uk/nisr/2017/190/article/7/2) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 4(7)](https://www.legislation.gov.uk/nisr/2017/216/article/4/7)
 
-[^key-fec03da0af1b8d4b1af7fa789baa3a8b]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisr/2017/190/article/7/1)[(2)](https://www.legislation.gov.uk/nisr/2017/190/article/7/2) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 4(7)](https://www.legislation.gov.uk/nisr/2018/1/article/4/7)
+[^c-fec03da0af1b8d4b1af7fa789baa3a8b]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisr/2017/190/article/7/1)[(2)](https://www.legislation.gov.uk/nisr/2017/190/article/7/2) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 4(7)](https://www.legislation.gov.uk/nisr/2018/1/article/4/7)
 
-[^key-d0720f45a781432a3805593c5ded4e13]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisr/2017/190/article/7/1)[(2)](https://www.legislation.gov.uk/nisr/2017/190/article/7/2) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 4(7)](https://www.legislation.gov.uk/nisr/2018/97/article/4/7)
+[^c-d0720f45a781432a3805593c5ded4e13]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisr/2017/190/article/7/1)[(2)](https://www.legislation.gov.uk/nisr/2017/190/article/7/2) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 4(7)](https://www.legislation.gov.uk/nisr/2018/97/article/4/7)
 
-[^key-addbb9489a9edafa40dff7affca16ba1]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisr/2017/190/article/7/1)[(2)](https://www.legislation.gov.uk/nisr/2017/190/article/7/2) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 4(7)](https://www.legislation.gov.uk/nisr/2018/138/article/4/7)
+[^c-addbb9489a9edafa40dff7affca16ba1]: Modification: [Art. 7(1)](https://www.legislation.gov.uk/nisr/2017/190/article/7/1)[(2)](https://www.legislation.gov.uk/nisr/2017/190/article/7/2) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 4(7)](https://www.legislation.gov.uk/nisr/2018/138/article/4/7)
 
 [^f00023]: Footnote: Regulation 6(1D) was inserted by regulation 13(6) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286) and substituted by regulation 2(6)(c) of [S.R. 2009 No. 240](https://www.legislation.gov.uk/nisr/2009/240).
 
 [^f00024]: Footnote: Regulation 6(4ZA-4ZD) was inserted by regulation 2(5)(c) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365) and amended by regulation 2(6)(d) of [S.R. 2009 No. 240](https://www.legislation.gov.uk/nisr/2009/240). Regulation 6(4A) was inserted by regulation 2(5)(c) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354) and substituted by regulation 3(4)(d) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and amended by regulation 2(4)(b)(i) and (ii) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365), paragraph 2(4) of Schedule 2 to [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175), regulation 2(6)(e) of [S.R. 2009 No. 240](https://www.legislation.gov.uk/nisr/2009/240).
 
-[^key-d76e29a25cbc05b5b1e54795b589691e]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 4(8)](https://www.legislation.gov.uk/nisr/2017/216/article/4/8)
+[^c-d76e29a25cbc05b5b1e54795b589691e]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 4(8)](https://www.legislation.gov.uk/nisr/2017/216/article/4/8)
 
-[^key-8a48539350a4f5c64db8918a730226de]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 4(8)](https://www.legislation.gov.uk/nisr/2018/1/article/4/8)
+[^c-8a48539350a4f5c64db8918a730226de]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 4(8)](https://www.legislation.gov.uk/nisr/2018/1/article/4/8)
 
-[^key-3f2573debe545d0b9b2e977f35e12545]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 4(8)](https://www.legislation.gov.uk/nisr/2018/97/article/4/8)
+[^c-3f2573debe545d0b9b2e977f35e12545]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 4(8)](https://www.legislation.gov.uk/nisr/2018/97/article/4/8)
 
-[^key-7cc3985df0679fda50eafafcbb3f5ffd]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 4(8)](https://www.legislation.gov.uk/nisr/2018/138/article/4/8)
+[^c-7cc3985df0679fda50eafafcbb3f5ffd]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 4(8)](https://www.legislation.gov.uk/nisr/2018/138/article/4/8)
 
-[^key-5b2acc79c1a5198dd3e85482e711166b]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (31.1.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (S.R. 2019/7)](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(9)](https://www.legislation.gov.uk/nisr/2019/7/article/2/9)
+[^c-5b2acc79c1a5198dd3e85482e711166b]: Modification: [Art. 7(8)](https://www.legislation.gov.uk/nisr/2017/190/article/7/8) applied (31.1.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (S.R. 2019/7)](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(9)](https://www.legislation.gov.uk/nisr/2019/7/article/2/9)
 
 [^f00025]: Footnote: Regulation 19 was substituted by regulation 3(7) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156) and amended by regulation 2(3) of [S.R. 1997 No. 417](https://www.legislation.gov.uk/nisr/1997/417), regulation 2(5) of [S.R. 2000 No. 365](https://www.legislation.gov.uk/nisr/2000/365), paragraph 2(7) of Schedule 2 to [S.R. 2001 No. 175](https://www.legislation.gov.uk/nisr/2001/175), regulation 2(3) of [S.R. 2002 No. 67](https://www.legislation.gov.uk/nisr/2002/67), paragraph 2 of the Schedule to [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323), regulation 2(2)(b) of [S.R. 2002 No. 327](https://www.legislation.gov.uk/nisr/2002/327), paragraph 1(3) of Schedule 2 to [S.R. 2003 No. 274](https://www.legislation.gov.uk/nisr/2003/274), regulation 2(2) of [S.R. 2004 No. 304](https://www.legislation.gov.uk/nisr/2004/304), regulation 2(3) of [S.R. 2005 No. 122](https://www.legislation.gov.uk/nisr/2005/122), regulation 2(2)(b) and (c) of [S.R. 2005 No. 139](https://www.legislation.gov.uk/nisr/2005/139), regulation 6(3) of [S.R. 2005 No. 539](https://www.legislation.gov.uk/nisr/2005/539), regulation 2(4) of [S.R. 2007 No. 392](https://www.legislation.gov.uk/nisr/2007/392) and regulation 2(2) of [S.R. 2008 No. 410](https://www.legislation.gov.uk/nisr/2008/410). Schedule 4 was amended by regulation 9 of [S.R. 1988 No. 14](https://www.legislation.gov.uk/nisr/1988/14), regulation 6(6) and 8 of, and Schedule 3 to, [S.R. 1991 No. 488](https://www.legislation.gov.uk/nisr/1991/488), regulation 26 of [S.R.1992 No. 7](https://www.legislation.gov.uk/nisr/1992/7), regulation 2(13) of [S.R. 1994 No. 456](https://www.legislation.gov.uk/nisr/1994/456), regulation 2(22) of [S.R. 1996 No. 354](https://www.legislation.gov.uk/nisr/1996/354), regulation 2(6) of [S.R. 1996 No. 432](https://www.legislation.gov.uk/nisr/1996/432), regulation 3(8) of [S.R. 1997 No. 156](https://www.legislation.gov.uk/nisr/1997/156), regulation 2(5) of [S.R. 2005 No. 122](https://www.legislation.gov.uk/nisr/2005/122), regulation 2(10) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299), regulation 13(17) of [S.R. 2008 No. 286](https://www.legislation.gov.uk/nisr/2008/286), regulation 2(3) of [S.R. 2008 No. 410](https://www.legislation.gov.uk/nisr/2008/410), regulation 3 of [S.R. 2010 No. 378](https://www.legislation.gov.uk/nisr/2010/378), regulation 4 of [S.R. 2011 No. 130](https://www.legislation.gov.uk/nisr/2011/130) and regulation 9(18) of [S.R. 2015 No. 411](https://www.legislation.gov.uk/nisr/2015/411).
 
-[^key-3bf812d8028eca590ed2e5b4ac694893]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisr/2017/190/article/8) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 2(2)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/2/2)
+[^c-3bf812d8028eca590ed2e5b4ac694893]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/nisr/2017/190/article/8) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 2(2)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/2/2)
 
-[^key-fdad705eaedb34a1f3c589c0747d80ff]: Commencement: Art. 9 in operation at made date
+[^c-fdad705eaedb34a1f3c589c0747d80ff]: Commencement: Art. 9 in operation at made date
 
-[^key-909d060c77d0d816d5d73acac026ab08]: Commencement: Art. 10 in operation at made date
+[^c-909d060c77d0d816d5d73acac026ab08]: Commencement: Art. 10 in operation at made date
 
-[^key-f6335e241d6ce03bf1ccd7c3a8634f9c]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 5](https://www.legislation.gov.uk/nisr/2017/216/article/5)
+[^c-f6335e241d6ce03bf1ccd7c3a8634f9c]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) applied (13.11.2017) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 9 and Transitional and Transitory Provisions) Order 2017 (S.R. 2017/216)](https://www.legislation.gov.uk/nisr/2017/216), [art. 5](https://www.legislation.gov.uk/nisr/2017/216/article/5)
 
-[^key-bc5450c4123c467c57838a14f74be041]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 5](https://www.legislation.gov.uk/nisr/2018/1/article/5)
+[^c-bc5450c4123c467c57838a14f74be041]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) applied (15.1.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 10 and Transitional and Transitory Provisions and Commencement No. 9 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/1)](https://www.legislation.gov.uk/nisr/2018/1), [art. 5](https://www.legislation.gov.uk/nisr/2018/1/article/5)
 
-[^key-cf161160c4c6ff87d90248b3af5bc5e6]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 5](https://www.legislation.gov.uk/nisr/2018/97/article/5)
+[^c-cf161160c4c6ff87d90248b3af5bc5e6]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) applied (9.5.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 11 and Transitional and Transitory Provisions) Order 2018 (S.R. 2018/97)](https://www.legislation.gov.uk/nisr/2018/97), [art. 5](https://www.legislation.gov.uk/nisr/2018/97/article/5)
 
-[^key-0bec0ba5d828f180aa586b4c5bed37f3]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 5](https://www.legislation.gov.uk/nisr/2018/138/article/5)
+[^c-0bec0ba5d828f180aa586b4c5bed37f3]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) applied (19.7.2018) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 12 and Transitional and Transitory Provisions and Commencement No. 9, 10 and 11 and Transitional and Transitory Provisions (Amendment)) Order 2018 (S.R. 2018/138)](https://www.legislation.gov.uk/nisr/2018/138), [art. 5](https://www.legislation.gov.uk/nisr/2018/138/article/5)
 
-[^key-d3fb987bb74628441c4d335dcc9ddd21]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) apllied (31.1.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (S.R. 2019/7)](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(12)](https://www.legislation.gov.uk/nisr/2019/7/article/2/12)
+[^c-d3fb987bb74628441c4d335dcc9ddd21]: Modification: [Arts. 10-23](https://www.legislation.gov.uk/nisr/2017/190/article/10) apllied (31.1.2019) by [The Welfare Reform (Northern Ireland) Order 2015 (Commencement No. 14 and Savings and Transitional Provisions) Order 2019 (S.R. 2019/7)](https://www.legislation.gov.uk/nisr/2019/7), [art. 2(12)](https://www.legislation.gov.uk/nisr/2019/7/article/2/12)
 
-[^key-7f2e26eb6792ed25e009bef264b7a530]: Commencement: Art. 11 in operation at made date
+[^c-7f2e26eb6792ed25e009bef264b7a530]: Commencement: Art. 11 in operation at made date
 
 [^f00029]: Footnote: Section 1A was inserted by Article 57(1) of the 2015 Order.
 
 [^f00030]: Footnote: Section 1B was inserted by Article 58(1) of the 2015 Order.
 
-[^key-342627f0d80869ff44f0c6df7b2c3e14]: Commencement: Art. 12 in operation at made date
+[^c-342627f0d80869ff44f0c6df7b2c3e14]: Commencement: Art. 12 in operation at made date
 
 [^f00031]: Footnote: Regulation 30(2)(b) was substituted by regulation 3(2)(a) of [S.R. 2015 No. 185](https://www.legislation.gov.uk/nisr/2015/185).
 
@@ -1371,103 +1371,103 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00034]: Footnote: Section 1B was inserted by Article 58(1) of the 2015 Order.
 
-[^key-c7c13eef1cca88423c56c4bf75ba87d1]: Commencement: Art. 13 in operation at made date
+[^c-c7c13eef1cca88423c56c4bf75ba87d1]: Commencement: Art. 13 in operation at made date
 
 [^f00035]: Footnote: Paragraph (7) was added by regulation 10(9) of [S.R. 2017 No. 116](https://www.legislation.gov.uk/nisr/2017/116).
 
-[^key-5f9b72125e6e314bd5f44cfe67545364]: Commencement: Art. 14 in operation at made date
+[^c-5f9b72125e6e314bd5f44cfe67545364]: Commencement: Art. 14 in operation at made date
 
 [^f00036]: Footnote: Paragraph (7) was added by regulation 2(2) of [S.R. 2016 No. 2](https://www.legislation.gov.uk/nisr/2016/2).
 
-[^key-2f7e652edd023d9039ddbe0d26a48707]: Commencement: Art. 15 in operation at made date
+[^c-2f7e652edd023d9039ddbe0d26a48707]: Commencement: Art. 15 in operation at made date
 
-[^key-a37d54062b19bfd047788f5b080425e0]: Commencement: Art. 16 in operation at made date
+[^c-a37d54062b19bfd047788f5b080425e0]: Commencement: Art. 16 in operation at made date
 
-[^key-19e5033a25b80ae00f75ac5f14443834]: Commencement: Art. 17 in operation at made date
+[^c-19e5033a25b80ae00f75ac5f14443834]: Commencement: Art. 17 in operation at made date
 
-[^key-e9e527766e2ab44c69e72d8f1963a657]: Commencement: Art. 18 in operation at made date
+[^c-e9e527766e2ab44c69e72d8f1963a657]: Commencement: Art. 18 in operation at made date
 
 [^f00037]: Footnote: Regulation 69B was inserted by regulation 2(2) of [S.R. 2016 No. 241](https://www.legislation.gov.uk/nisr/2016/241) and amended by regulation 4(8) of [S.R. 2017 No. 116](https://www.legislation.gov.uk/nisr/2017/116).
 
-[^key-16ccc58dab5dc7bbe6d72ad5f935156a]: Commencement: Art. 19 in operation at made date
+[^c-16ccc58dab5dc7bbe6d72ad5f935156a]: Commencement: Art. 19 in operation at made date
 
-[^key-08a1ffe4dad361223ee5d91e378ced0e]: Commencement: Art. 20 in operation at made date
+[^c-08a1ffe4dad361223ee5d91e378ced0e]: Commencement: Art. 20 in operation at made date
 
-[^key-cf7e18cf2c3f24af6dbdd6e5492c5085]: Commencement: Art. 21 in operation at made date
+[^c-cf7e18cf2c3f24af6dbdd6e5492c5085]: Commencement: Art. 21 in operation at made date
 
-[^key-1aaeab66a32754196eaac68692a5a33c]: Commencement: Art. 22 in operation at made date
+[^c-1aaeab66a32754196eaac68692a5a33c]: Commencement: Art. 22 in operation at made date
 
 [^f00038]: Footnote: [S.R. 2016 No. 221](https://www.legislation.gov.uk/nisr/2016/221).
 
 [^f00039]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162).
 
-[^key-f01698195e23448cb5680ea8b2f228ab]: Commencement: Art. 23 in operation at made date
+[^c-f01698195e23448cb5680ea8b2f228ab]: Commencement: Art. 23 in operation at made date
 
 [^f00040]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8).
 
 [^f00041]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7).
 
-[^key-eb8a236f50f1e7ac1c6a15b1ad560ab9]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/nisr/2017/190/article/24) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 2(3)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/2/3)
+[^c-eb8a236f50f1e7ac1c6a15b1ad560ab9]: Textual amendment: [Art. 24](https://www.legislation.gov.uk/nisr/2017/190/article/24) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2022/194/regulation/13), [Sch. para. 2(3)](https://www.legislation.gov.uk/nisr/2022/194/schedule/paragraph/2/3)
 
-[^key-107d1ed8d4168dd50989be8065f597c2]: Commencement: Art. 25 in operation at made date
+[^c-107d1ed8d4168dd50989be8065f597c2]: Commencement: Art. 25 in operation at made date
 
-[^key-3573ad1ed996fc2d0b105d3cd8a76946]: Commencement: Sch. 1 para. 1 in operation at made date
+[^c-3573ad1ed996fc2d0b105d3cd8a76946]: Commencement: Sch. 1 para. 1 in operation at made date
 
-[^key-23a94e3b521d8fcda9715992525eaa45]: Commencement: Sch. 1 para. 2 in operation at made date
+[^c-23a94e3b521d8fcda9715992525eaa45]: Commencement: Sch. 1 para. 2 in operation at made date
 
-[^key-918663471a1b0797e4595f39b4453708]: Commencement: Sch. 1 para. 3 in operation at made date
+[^c-918663471a1b0797e4595f39b4453708]: Commencement: Sch. 1 para. 3 in operation at made date
 
-[^key-50f7fde844bc7dcba106452e770a87cf]: Commencement: Sch. 1 para. 4 in operation at made date
+[^c-50f7fde844bc7dcba106452e770a87cf]: Commencement: Sch. 1 para. 4 in operation at made date
 
-[^key-5c67e8f8f7a809039b71adf0d3153d5c]: Commencement: Sch. 1 para. 5 in operation at made date
+[^c-5c67e8f8f7a809039b71adf0d3153d5c]: Commencement: Sch. 1 para. 5 in operation at made date
 
-[^key-337e76cc1504d9f107c8e4e6e8e007e1]: Commencement: Sch. 1 para. 6 in operation at made date
+[^c-337e76cc1504d9f107c8e4e6e8e007e1]: Commencement: Sch. 1 para. 6 in operation at made date
 
-[^key-b4fc7b1c7d5bdde6eb542ed33a4310cd]: Commencement: Sch. 1 para. 7 in operation at made date
+[^c-b4fc7b1c7d5bdde6eb542ed33a4310cd]: Commencement: Sch. 1 para. 7 in operation at made date
 
-[^key-e09b2a211d58996b796f9f8e5bcccb46]: Commencement: Sch. 1 para. 8 in operation at made date
+[^c-e09b2a211d58996b796f9f8e5bcccb46]: Commencement: Sch. 1 para. 8 in operation at made date
 
-[^key-23728f1f959f9cbe795b5b9fd46e6cb5]: Commencement: Sch. 1 para. 9 in operation at made date
+[^c-23728f1f959f9cbe795b5b9fd46e6cb5]: Commencement: Sch. 1 para. 9 in operation at made date
 
-[^key-b557992767a702de616b9d687565001e]: Commencement: Sch. 1 para. 10 in operation at made date
+[^c-b557992767a702de616b9d687565001e]: Commencement: Sch. 1 para. 10 in operation at made date
 
-[^key-88b146c87ff64b43f8da3fa0b988963c]: Commencement: Sch. 1 para. 11 in operation at made date
+[^c-88b146c87ff64b43f8da3fa0b988963c]: Commencement: Sch. 1 para. 11 in operation at made date
 
-[^key-bf5933a65a96ec33412b87d736fc8ce1]: Commencement: Sch. 1 para. 12 in operation at made date
+[^c-bf5933a65a96ec33412b87d736fc8ce1]: Commencement: Sch. 1 para. 12 in operation at made date
 
-[^key-521a529393f37dcb60fc6392b2f3ddd0]: Commencement: Sch. 1 para. 13 in operation at made date
+[^c-521a529393f37dcb60fc6392b2f3ddd0]: Commencement: Sch. 1 para. 13 in operation at made date
 
-[^key-1260475bc682144e19ba3a81fb18dd5f]: Commencement: Sch. 1 para. 14 in operation at made date
+[^c-1260475bc682144e19ba3a81fb18dd5f]: Commencement: Sch. 1 para. 14 in operation at made date
 
-[^key-6eac2d01d5a04abaeb9146890b029f3b]: Commencement: Sch. 1 para. 15 in operation at made date
+[^c-6eac2d01d5a04abaeb9146890b029f3b]: Commencement: Sch. 1 para. 15 in operation at made date
 
-[^key-ada2f279b93bf05b65324aa10d5a9f73]: Commencement: Sch. 1 para. 16 in operation at made date
+[^c-ada2f279b93bf05b65324aa10d5a9f73]: Commencement: Sch. 1 para. 16 in operation at made date
 
-[^key-b7e876f0b0ea780f9fde58503552a85c]: Commencement: Sch. 1 para. 17 in operation at made date
+[^c-b7e876f0b0ea780f9fde58503552a85c]: Commencement: Sch. 1 para. 17 in operation at made date
 
-[^key-bd18aac007d56a78b181e2a433bebf38]: Commencement: Sch. 1 para. 18 in operation at made date
+[^c-bd18aac007d56a78b181e2a433bebf38]: Commencement: Sch. 1 para. 18 in operation at made date
 
-[^key-d657569b2f66d80051941938224a2292]: Commencement: Sch. 1 para. 19 in operation at made date
+[^c-d657569b2f66d80051941938224a2292]: Commencement: Sch. 1 para. 19 in operation at made date
 
-[^key-06ffbf9a46b488407e66bbfbe5923d7a]: Commencement: Sch. 1 para. 20 in operation at made date
+[^c-06ffbf9a46b488407e66bbfbe5923d7a]: Commencement: Sch. 1 para. 20 in operation at made date
 
-[^key-a7de584b3551edd922258d79772abcf3]: Commencement: Sch. 1 para. 21 in operation at made date
+[^c-a7de584b3551edd922258d79772abcf3]: Commencement: Sch. 1 para. 21 in operation at made date
 
-[^key-2bb2e9b00cb3124eb3a57f604a342769]: Commencement: Sch. 1 para. 22 in operation at made date
+[^c-2bb2e9b00cb3124eb3a57f604a342769]: Commencement: Sch. 1 para. 22 in operation at made date
 
-[^key-898506b85bf64d2687d34dea9d477cbc]: Commencement: Sch. 1 para. 23 in operation at made date
+[^c-898506b85bf64d2687d34dea9d477cbc]: Commencement: Sch. 1 para. 23 in operation at made date
 
-[^key-e3979bab1e0a8104139e30c4da342c9a]: Commencement: Sch. 1 para. 24 in operation at made date
+[^c-e3979bab1e0a8104139e30c4da342c9a]: Commencement: Sch. 1 para. 24 in operation at made date
 
-[^key-b1e7da625e59cbfdae134236174042a1]: Commencement: Sch. 1 para. 25 in operation at made date
+[^c-b1e7da625e59cbfdae134236174042a1]: Commencement: Sch. 1 para. 25 in operation at made date
 
-[^key-9631f99fab7bb40c2c1d55afaea8686f]: Commencement: Sch. 1 para. 26 in operation at made date
+[^c-9631f99fab7bb40c2c1d55afaea8686f]: Commencement: Sch. 1 para. 26 in operation at made date
 
-[^key-329c30af36469715d746b45434fd0460]: Commencement: Sch. 2 in operation at made date
+[^c-329c30af36469715d746b45434fd0460]: Commencement: Sch. 2 in operation at made date
 
-[^key-738a346bcf957c30372082c6a540d687]: Commencement: Sch. 3 para. 1 in operation at made date
+[^c-738a346bcf957c30372082c6a540d687]: Commencement: Sch. 3 para. 1 in operation at made date
 
-[^key-d7de2c2f520139b5b083c753bf2c12ee]: Commencement: Sch. 3 para. 2 in operation at made date
+[^c-d7de2c2f520139b5b083c753bf2c12ee]: Commencement: Sch. 3 para. 2 in operation at made date
 
 [^f00049]: Footnote: [S.R. 2016 No. 220](https://www.legislation.gov.uk/nisr/2016/220).
 
@@ -1475,62 +1475,62 @@ NOTE AS TO EARLIER COMMENCEMENT ORDERS
 
 [^f00051]: Footnote: [S.R. 2016 No. 219](https://www.legislation.gov.uk/nisr/2016/219).
 
-[^key-1cdc6ccf93022c5bbac656553143795d]: Commencement: Sch. 3 para. 3 in operation at made date
+[^c-1cdc6ccf93022c5bbac656553143795d]: Commencement: Sch. 3 para. 3 in operation at made date
 
-[^key-ad9a5a546d3e6d473095c225d0d854db]: Commencement: Sch. 3 para. 4 in operation at made date
+[^c-ad9a5a546d3e6d473095c225d0d854db]: Commencement: Sch. 3 para. 4 in operation at made date
 
-[^key-8fa92dfbfecaf4787d5881b101ec05b5]: Commencement: Sch. 3 para. 5 in operation at made date
+[^c-8fa92dfbfecaf4787d5881b101ec05b5]: Commencement: Sch. 3 para. 5 in operation at made date
 
-[^key-9c449cc7fb91c2e3da77268893faa0e8]: Commencement: Sch. 3 para. 6 in operation at made date
+[^c-9c449cc7fb91c2e3da77268893faa0e8]: Commencement: Sch. 3 para. 6 in operation at made date
 
 [^f00052]: Footnote: Regulation 7 was amended by regulation 2(3) of [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347) and regulation 9(2) of [S.R. 2016 No. 175](https://www.legislation.gov.uk/nisr/2016/175).
 
-[^key-a34b97811a0a03f0c4218b790e72eebf]: Commencement: Sch. 3 para. 7 in operation at made date
+[^c-a34b97811a0a03f0c4218b790e72eebf]: Commencement: Sch. 3 para. 7 in operation at made date
 
 [^f00053]: Footnote: Regulation 8(1) was inserted by regulation 2(4)(a) of [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347).
 
-[^key-0cccc93c755a874261f8db10edfc7bb6]: Commencement: Sch. 3 para. 8 in operation at made date
+[^c-0cccc93c755a874261f8db10edfc7bb6]: Commencement: Sch. 3 para. 8 in operation at made date
 
-[^key-474538e8bfd9929629d3e440f4aa70d4]: Commencement: Sch. 3 para. 9 in operation at made date
+[^c-474538e8bfd9929629d3e440f4aa70d4]: Commencement: Sch. 3 para. 9 in operation at made date
 
-[^key-70ae460ccbb6ad4c7d1cd51761809465]: Commencement: Sch. 3 para. 10 in operation at made date
+[^c-70ae460ccbb6ad4c7d1cd51761809465]: Commencement: Sch. 3 para. 10 in operation at made date
 
-[^key-4b16bd178c75030c1a633d6ac85469a8]: Commencement: Sch. 3 para. 11 in operation at made date
+[^c-4b16bd178c75030c1a633d6ac85469a8]: Commencement: Sch. 3 para. 11 in operation at made date
 
-[^key-19cdcf6bc0ebe137f593c04c7b0a355f]: Commencement: Sch. 3 para. 12 in operation at made date
+[^c-19cdcf6bc0ebe137f593c04c7b0a355f]: Commencement: Sch. 3 para. 12 in operation at made date
 
-[^key-957ea3249a9e05904a1d9b5d25c4ac88]: Commencement: Sch. 3 para. 13 in operation at made date
+[^c-957ea3249a9e05904a1d9b5d25c4ac88]: Commencement: Sch. 3 para. 13 in operation at made date
 
 [^f00054]: Footnote: Regulation 14 was amended by regulation 2(6) of [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347).
 
-[^key-3224c0b00a879c74325e2932d67ede90]: Commencement: Sch. 3 para. 14 in operation at made date
+[^c-3224c0b00a879c74325e2932d67ede90]: Commencement: Sch. 3 para. 14 in operation at made date
 
 [^f00055]: Footnote: Regulation 15 was amended by regulation 2(7) of [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347).
 
-[^key-4f2a62787cd1bb86dacd5af7bea72b91]: Commencement: Sch. 3 para. 15 in operation at made date
+[^c-4f2a62787cd1bb86dacd5af7bea72b91]: Commencement: Sch. 3 para. 15 in operation at made date
 
 [^f00056]: Footnote: Regulation 16 was amended by regulation19 of [S.R. 2012 No. 121](https://www.legislation.gov.uk/nisr/2012/121).
 
-[^key-f7ebffb359f13e640973e7f76ef67f2a]: Commencement: Sch. 3 para. 16 in operation at made date
+[^c-f7ebffb359f13e640973e7f76ef67f2a]: Commencement: Sch. 3 para. 16 in operation at made date
 
 [^f00057]: Footnote: Regulation 17 was amended by regulation 2(8) of [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347) and regulation 25(3) of [S.R. 2011 No. 357](https://www.legislation.gov.uk/nisr/2011/357).
 
-[^key-362481b093865e151c659d49e687e42e]: Commencement: Sch. 3 para. 17 in operation at made date
+[^c-362481b093865e151c659d49e687e42e]: Commencement: Sch. 3 para. 17 in operation at made date
 
-[^key-bd77bcb3872f6d3fac9b21da8aae4fa8]: Commencement: Sch. 3 para. 18 in operation at made date
+[^c-bd77bcb3872f6d3fac9b21da8aae4fa8]: Commencement: Sch. 3 para. 18 in operation at made date
 
 [^f00058]: Footnote: Regulation 21 was amended by regulation 2(11) of [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347), regulation 3 of [S.R. 2012 No. 160](https://www.legislation.gov.uk/nisr/2012/160), regulation 9(3) of [S.R. 2016 No. 175](https://www.legislation.gov.uk/nisr/2016/175) and regulation 5 of [S.R. 2016 No. 176](https://www.legislation.gov.uk/nisr/2016/176).
 
-[^key-c232188cdd4aa3f2f0859a6debc11172]: Commencement: Sch. 3 para. 19 in operation at made date
+[^c-c232188cdd4aa3f2f0859a6debc11172]: Commencement: Sch. 3 para. 19 in operation at made date
 
-[^key-62d7c7fbc1f7f96cc1783785bb61fc85]: Commencement: Sch. 3 para. 20 in operation at made date
+[^c-62d7c7fbc1f7f96cc1783785bb61fc85]: Commencement: Sch. 3 para. 20 in operation at made date
 
 [^f00059]: Footnote: Sub-paragraph (b)(i) was substituted by regulation 2(13)(a) of [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347).
 
 [^f00060]: Footnote: Sub-paragraph (ca) was inserted by regulation 2(13)(b) of [S.R. 2010 No. 347](https://www.legislation.gov.uk/nisr/2010/347).
 
-[^key-64dea8d9bd3726780fc9cff8fe391385]: Commencement: Sch. 3 para. 21 in operation at made date
+[^c-64dea8d9bd3726780fc9cff8fe391385]: Commencement: Sch. 3 para. 21 in operation at made date
 
 [^f00061]: Footnote: Regulation 17(4) was amended by regulation 6(4)(a) of [S.R. 2011 No. 135](https://www.legislation.gov.uk/nisr/2011/135) and regulation 2(a) of [S.R. 2017 No. 50](https://www.legislation.gov.uk/nisr/2017/50).
 
-[^key-c947804190c230b4b7a0f6df7b4a9e3f]: Commencement: Sch. 3 para. 22 in operation at made date
+[^c-c947804190c230b4b7a0f6df7b4a9e3f]: Commencement: Sch. 3 para. 22 in operation at made date

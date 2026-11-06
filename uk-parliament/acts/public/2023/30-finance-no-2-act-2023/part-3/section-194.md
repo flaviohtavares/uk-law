@@ -43,7 +43,7 @@ summary: ''
 
 (2) But where those members have a QDT credit for that territory for the accounting period, the total top-up amount is to be reduced in accordance with subsections (4) to (7).
 
-(3) For the purposes of this Part, standard members of a multinational group in a territory have a “QDT credit” for a territory for an accounting period if qualifying domestic top-up tax (see sections 256 and 256A[^key-b3f65c348a796a5c2d870fe7474347fd]) is accrued by one or more of those members in that territory for[^key-3d2e8af2666eca087fbf65dc03fa3055] that period.
+(3) For the purposes of this Part, standard members of a multinational group in a territory have a “QDT credit” for a territory for an accounting period if qualifying domestic top-up tax (see sections 256 and 256A[^c-b3f65c348a796a5c2d870fe7474347fd]) is accrued by one or more of those members in that territory for[^c-3d2e8af2666eca087fbf65dc03fa3055] that period.
 
 (4) Where—
 
@@ -75,6 +75,6 @@ the total top-up amount is to be reduced by the amount given by multiplying the 
 
 ## Annotations
 
-[^key-b3f65c348a796a5c2d870fe7474347fd]: Textual amendment: Words in s. 194(3) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 35(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/35/2)
+[^c-b3f65c348a796a5c2d870fe7474347fd]: Textual amendment: Words in s. 194(3) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 35(2)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/35/2)
 
-[^key-3d2e8af2666eca087fbf65dc03fa3055]: Textual amendment: Word in s. 194(3) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 52(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/52/1)
+[^c-3d2e8af2666eca087fbf65dc03fa3055]: Textual amendment: Word in s. 194(3) substituted (with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 52(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/52/1)

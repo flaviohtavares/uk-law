@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.133. Removal of trustee by Secretary of State[^key-46618c0608c3c3fc73fab2fe84dc413c]
+## 6.133. Removal of trustee by Secretary of State[^c-46618c0608c3c3fc73fab2fe84dc413c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46618c0608c3c3fc73fab2fe84dc413c]: Commencement: [Rule 6.133](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.133) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-46618c0608c3c3fc73fab2fe84dc413c]: Commencement: [Rule 6.133](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.133) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

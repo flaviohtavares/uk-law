@@ -50,9 +50,9 @@ Table
 </tbody>
 </table>
 
-[^c13568601][^c13568621][^key-eee2dd2c226cbb3a420aa1f7ff4b1c9a][^key-290b627aa07df16561522426ca1d601c][^c13568631]
+[^c13568601][^c13568621][^c-eee2dd2c226cbb3a420aa1f7ff4b1c9a][^c-290b627aa07df16561522426ca1d601c][^c13568631]
 
-For a vehicle falling within class 5(2)(b) above, the maximum speed while the vehicle is being driven on a part of the M9/A9 Trunk Road specified in the Schedule to the *(Extent: S)*[^key-4b1596bb9bc8eb4163ed1daa201df1ac] HGV *(Extent: S)* Speed Limit (M9/A9 Trunk Road) Regulations 2014 is 50 miles per hour (rather than 40 miles per hour as specified in column 3(c) of the Table above). *(Extent: S)*
+For a vehicle falling within class 5(2)(b) above, the maximum speed while the vehicle is being driven on a part of the M9/A9 Trunk Road specified in the Schedule to the *(Extent: S)*[^c-4b1596bb9bc8eb4163ed1daa201df1ac] HGV *(Extent: S)* Speed Limit (M9/A9 Trunk Road) Regulations 2014 is 50 miles per hour (rather than 40 miles per hour as specified in column 3(c) of the Table above). *(Extent: S)*
 
 #### Application
 
@@ -95,7 +95,7 @@ Table
 </tbody>
 </table>
 
-[^key-009fc40b6e147eff5fe3137cb43ca857]
+[^c-009fc40b6e147eff5fe3137cb43ca857]
 
 #### Application
 
@@ -130,11 +130,11 @@ This Part applies to—
 
 **4.** *Extent: E+W*
 
-(1)[^key-3400040f71c3a702cfa24cf507265f95] A vehicle falling in two or more classes specified in Part I, II or III of this Schedule shall be treated as falling within the class for which the lower or lowest speed limit is specified.
+(1)[^c-3400040f71c3a702cfa24cf507265f95] A vehicle falling in two or more classes specified in Part I, II or III of this Schedule shall be treated as falling within the class for which the lower or lowest speed limit is specified.
 
 *Extent: E+W*
 
-(2)[^key-4051d69d51d1cba65bd3ba83c3ccbcfc] A vehicle falling in the class specified in item 6 in Part III shall be treated as falling in that class (and not as also falling in any other class).
+(2)[^c-4051d69d51d1cba65bd3ba83c3ccbcfc] A vehicle falling in the class specified in item 6 in Part III shall be treated as falling in that class (and not as also falling in any other class).
 
 ## Annotations
 
@@ -142,15 +142,15 @@ This Part applies to—
 
 [^c13568621]: Textual amendment: Figure "60" in Sch. 6 Pt. 1 item 5 substituted by [S.I. 1986/1175](https://www.legislation.gov.uk/uksi/1986/1175), [reg. 2(1)](https://www.legislation.gov.uk/uksi/1986/1175/regulation/2/1)(*b*)
 
-[^key-eee2dd2c226cbb3a420aa1f7ff4b1c9a]: Textual amendment: Figure "50" in Sch. 6 Pt. 1 item 5 substituted (E.W.) (6.4.2015) by [The Motor Vehicles (Variation of Speed Limits) (England and Wales) Regulations 2014 (S.I. 2014/3552)](https://www.legislation.gov.uk/uksi/2014/3552), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3552/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/3552/regulation/2/2/a)
+[^c-eee2dd2c226cbb3a420aa1f7ff4b1c9a]: Textual amendment: Figure "50" in Sch. 6 Pt. 1 item 5 substituted (E.W.) (6.4.2015) by [The Motor Vehicles (Variation of Speed Limits) (England and Wales) Regulations 2014 (S.I. 2014/3552)](https://www.legislation.gov.uk/uksi/2014/3552), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3552/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2014/3552/regulation/2/2/a)
 
-[^key-290b627aa07df16561522426ca1d601c]: Textual amendment: Figure "40" in Sch. 6 Pt. 1 item 5 substituted (E,W.) (6.4.2015) by [The Motor Vehicles (Variation of Speed Limits) (England and Wales) Regulations 2014 (S.I. 2014/3552)](https://www.legislation.gov.uk/uksi/2014/3552), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3552/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/3552/regulation/2/2/b)
+[^c-290b627aa07df16561522426ca1d601c]: Textual amendment: Figure "40" in Sch. 6 Pt. 1 item 5 substituted (E,W.) (6.4.2015) by [The Motor Vehicles (Variation of Speed Limits) (England and Wales) Regulations 2014 (S.I. 2014/3552)](https://www.legislation.gov.uk/uksi/2014/3552), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3552/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2014/3552/regulation/2/2/b)
 
 [^c13568631]: Textual amendment: Item 9 in Sch. 6 Pt. 1 added by [S.I. 1986/1175](https://www.legislation.gov.uk/uksi/1986/1175), [reg. 2(1)](https://www.legislation.gov.uk/uksi/1986/1175/regulation/2/1)(*c*)
 
-[^key-4b1596bb9bc8eb4163ed1daa201df1ac]: Textual amendment: Words in Sch. 6 Pt. I inserted (S.) (28.10.2014) by [The HGV Speed Limit (M9/A9 Trunk Road) Regulations 2014 (S.S.I. 2014/274)](https://www.legislation.gov.uk/ssi/2014/274), [regs. 1](https://www.legislation.gov.uk/ssi/2014/274/regulation/1), [2](https://www.legislation.gov.uk/ssi/2014/274/regulation/2)
+[^c-4b1596bb9bc8eb4163ed1daa201df1ac]: Textual amendment: Words in Sch. 6 Pt. I inserted (S.) (28.10.2014) by [The HGV Speed Limit (M9/A9 Trunk Road) Regulations 2014 (S.S.I. 2014/274)](https://www.legislation.gov.uk/ssi/2014/274), [regs. 1](https://www.legislation.gov.uk/ssi/2014/274/regulation/1), [2](https://www.legislation.gov.uk/ssi/2014/274/regulation/2)
 
-[^key-009fc40b6e147eff5fe3137cb43ca857]: Textual amendment: Item 6 in Sch. 6 Pt. III inserted (E.W.) (1.10.2015) by [The Motor Vehicles (Variation of Speed Limits for Naval, Military and Air Force Vehicles) (England and Wales) Regulations 2015 (S.I. 2015/1653)](https://www.legislation.gov.uk/uksi/2015/1653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/2/2)
+[^c-009fc40b6e147eff5fe3137cb43ca857]: Textual amendment: Item 6 in Sch. 6 Pt. III inserted (E.W.) (1.10.2015) by [The Motor Vehicles (Variation of Speed Limits for Naval, Military and Air Force Vehicles) (England and Wales) Regulations 2015 (S.I. 2015/1653)](https://www.legislation.gov.uk/uksi/2015/1653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/2/2)
 
 [^c13568681]: Marginal citation: [1925 c. 68](https://www.legislation.gov.uk/ukpga/1925/68)**(108).**
 
@@ -170,6 +170,6 @@ This Part applies to—
 
 [^c13568761]: Marginal citation: [S.I. 1964/1002](https://www.legislation.gov.uk/uksi/1964/1002).
 
-[^key-3400040f71c3a702cfa24cf507265f95]: Textual amendment: Sch. 6 para. 4(1): para. 4 renumbered as para. 4(1) (E.W.) (1.10.2015) by [The Motor Vehicles (Variation of Speed Limits for Naval, Military and Air Force Vehicles) (England and Wales) Regulations 2015 (S.I. 2015/1653)](https://www.legislation.gov.uk/uksi/2015/1653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/2/3/a)
+[^c-3400040f71c3a702cfa24cf507265f95]: Textual amendment: Sch. 6 para. 4(1): para. 4 renumbered as para. 4(1) (E.W.) (1.10.2015) by [The Motor Vehicles (Variation of Speed Limits for Naval, Military and Air Force Vehicles) (England and Wales) Regulations 2015 (S.I. 2015/1653)](https://www.legislation.gov.uk/uksi/2015/1653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/2/3/a)
 
-[^key-4051d69d51d1cba65bd3ba83c3ccbcfc]: Textual amendment: Sch. 6 para. 4(2) inserted (E.W.) (1.10.2015) by [The Motor Vehicles (Variation of Speed Limits for Naval, Military and Air Force Vehicles) (England and Wales) Regulations 2015 (S.I. 2015/1653)](https://www.legislation.gov.uk/uksi/2015/1653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/2/3/b)
+[^c-4051d69d51d1cba65bd3ba83c3ccbcfc]: Textual amendment: Sch. 6 para. 4(2) inserted (E.W.) (1.10.2015) by [The Motor Vehicles (Variation of Speed Limits for Naval, Military and Air Force Vehicles) (England and Wales) Regulations 2015 (S.I. 2015/1653)](https://www.legislation.gov.uk/uksi/2015/1653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/1653/regulation/2/3/b)

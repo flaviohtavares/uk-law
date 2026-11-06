@@ -50,7 +50,7 @@ Regulation 15(1)
 
 - (a) the names, addresses and types of nurseries or schools attended with dates;
 - (b) a summary of his progress and attainments;
-- (c)[^key-c1d7bcea86bb02b5ab8191b6eafee8f5] whether an EHC plan is maintained for him under section 37 of the Children and Families Act 2014;
+- (c)[^c-c1d7bcea86bb02b5ab8191b6eafee8f5] whether an EHC plan is maintained for him under section 37 of the Children and Families Act 2014;
 - (d) any special needs he has in relation to learning; and
 - (e) where he is looked after, details of his personal education plan prepared by the local authority.
 
@@ -138,7 +138,7 @@ Name, sex and date and place of birth.
 
 **14.** Address, if appropriate.
 
-#### 15. Family history and relationships[^key-b3e0659d47d1c9868210399fabe3abaa]
+#### 15. Family history and relationships[^c-b3e0659d47d1c9868210399fabe3abaa]
 
 Whether the child’s parents were married to, or civil partners of, each other at the time of the child’s birth (or have subsequently married or formed a civil partnership) and if so, the date and place of marriage or civil partnership.
 
@@ -147,7 +147,7 @@ Whether the child’s parents were married to, or civil partners of, each other 
 - (a) if the child’s parents have been married as mentioned in paragraph 15, they are divorced or separated; or
 - (b) if the child’s parents have been civil partners as so mentioned, the partnership has been dissolved or they are separated.
 
-**16.** Where the child's parents are not married or civil partners[^key-101b2fcdf9b087fb4523eb062e20df8d], whether the father has parental responsibility for the child and if so how it was acquired.
+**16.** Where the child's parents are not married or civil partners[^c-101b2fcdf9b087fb4523eb062e20df8d], whether the father has parental responsibility for the child and if so how it was acquired.
 
 **17.** If the identity or whereabouts of the child's father are not known, the information about him that has been ascertained and from whom, and the steps that have been taken to establish paternity.
 
@@ -200,8 +200,8 @@ Regulation 16(2)
 
 [^c10823051]: Marginal citation: [1976 c. 30](https://www.legislation.gov.uk/ukpga/1976/30).
 
-[^key-c1d7bcea86bb02b5ab8191b6eafee8f5]: Textual amendment: Sch. 1 para. 12(c) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [15(3)](https://www.legislation.gov.uk/uksi/2014/2103/article/15/3)
+[^c-c1d7bcea86bb02b5ab8191b6eafee8f5]: Textual amendment: Sch. 1 para. 12(c) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [15(3)](https://www.legislation.gov.uk/uksi/2014/2103/article/15/3)
 
-[^key-b3e0659d47d1c9868210399fabe3abaa]: Textual amendment: Sch. 1 Pt. 3 paras. 15, 15A substituted for Sch. 1 Pt. 3 para. 15 (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 71(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/71/a)
+[^c-b3e0659d47d1c9868210399fabe3abaa]: Textual amendment: Sch. 1 Pt. 3 paras. 15, 15A substituted for Sch. 1 Pt. 3 para. 15 (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 71(a)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/71/a)
 
-[^key-101b2fcdf9b087fb4523eb062e20df8d]: Textual amendment: Words in Sch. 1 Pt. 3 para. 16 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 71(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/71/b)
+[^c-101b2fcdf9b087fb4523eb062e20df8d]: Textual amendment: Words in Sch. 1 Pt. 3 para. 16 inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 71(b)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/71/b)

@@ -32,7 +32,7 @@ summary: ''
 
 Water And Sewerage
 
-The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2015 (revoked)[^key-1fae628e9a8865fa96376743d053c33a]
+The Water Supply (Water Quality) (Amendment) Regulations (Northern Ireland) 2015 (revoked)[^c-1fae628e9a8865fa96376743d053c33a]
 
 Made
 
@@ -42,41 +42,41 @@ Coming into operation
 
 28th November 2015
 
-[^key-1fae628e9a8865fa96376743d053c33a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fae628e9a8865fa96376743d053c33a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1fae628e9a8865fa96376743d053c33a]
+## 1. Citation, commencement and interpretation[^c-1fae628e9a8865fa96376743d053c33a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the principal Regulations[^key-1fae628e9a8865fa96376743d053c33a]
+## 2. Amendments to the principal Regulations[^c-1fae628e9a8865fa96376743d053c33a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to secondary Regulations[^key-1fae628e9a8865fa96376743d053c33a]
+## 3. Amendments to secondary Regulations[^c-1fae628e9a8865fa96376743d053c33a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1fae628e9a8865fa96376743d053c33a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fae628e9a8865fa96376743d053c33a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-1fae628e9a8865fa96376743d053c33a]
+## SCHEDULE 1[^c-1fae628e9a8865fa96376743d053c33a]
 
 Regulations 2(12)
 
-> **Table in Schedule 2 of the Water Supply (Water Quality) Regulations (Northern Ireland) 2007 (indicator parameters)[^key-1fae628e9a8865fa96376743d053c33a]**
+> **Table in Schedule 2 of the Water Supply (Water Quality) Regulations (Northern Ireland) 2007 (indicator parameters)[^c-1fae628e9a8865fa96376743d053c33a]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-1fae628e9a8865fa96376743d053c33a]
+## SCHEDULE 2[^c-1fae628e9a8865fa96376743d053c33a]
 
 Regulation 2(13)
 
-> **Tables 1-3 in Schedule 3 of the Water Supply (Water Quality) Regulations (Northern Ireland) 2007[^key-1fae628e9a8865fa96376743d053c33a]**
+> **Tables 1-3 in Schedule 3 of the Water Supply (Water Quality) Regulations (Northern Ireland) 2007[^c-1fae628e9a8865fa96376743d053c33a]**
 >
-> [^key-1fae628e9a8865fa96376743d053c33a]Table 1:
+> [^c-1fae628e9a8865fa96376743d053c33a]Table 1:
 >
 > Parameters and circumstances for check monitoring
 >
@@ -102,11 +102,11 @@ Regulation 2(13)
 > | 18 | Tritium | Where treatment to reduce the level of radionuclides in water intended for human consumption has been taken. |
 > | 19 | Turbidity |  |
 >
-> [^key-1fae628e9a8865fa96376743d053c33a]
+> [^c-1fae628e9a8865fa96376743d053c33a]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-1fae628e9a8865fa96376743d053c33a]Table 2
+> [^c-1fae628e9a8865fa96376743d053c33a]Table 2
 >
 > Annual Sampling Frequencies: Water Supply Zones
 >
@@ -179,15 +179,15 @@ Regulation 2(13)
 > </tbody>
 > </table>
 >
-> [^key-1fae628e9a8865fa96376743d053c33a]
+> [^c-1fae628e9a8865fa96376743d053c33a]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-1fae628e9a8865fa96376743d053c33a]
+> [^c-1fae628e9a8865fa96376743d053c33a]
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> [^key-1fae628e9a8865fa96376743d053c33a]Table 3:
+> [^c-1fae628e9a8865fa96376743d053c33a]Table 3:
 >
 > Annual Sampling Frequencies: Treatment Works or Supply Points
 >
@@ -254,22 +254,22 @@ Regulation 2(13)
 > </tbody>
 > </table>
 
-## SCHEDULE 3[^key-1fae628e9a8865fa96376743d053c33a]
+## SCHEDULE 3[^c-1fae628e9a8865fa96376743d053c33a]
 
 Regulation 2(14)
 
-> **Schedule 5 Monitoring for indicative dose and analytical performance characteristics.[^key-1fae628e9a8865fa96376743d053c33a]**
+> **Schedule 5 Monitoring for indicative dose and analytical performance characteristics.[^c-1fae628e9a8865fa96376743d053c33a]**
 >
-> **1.**[^key-1fae628e9a8865fa96376743d053c33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-1fae628e9a8865fa96376743d053c33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-1fae628e9a8865fa96376743d053c33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-1fae628e9a8865fa96376743d053c33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-1fae628e9a8865fa96376743d053c33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-1fae628e9a8865fa96376743d053c33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1fae628e9a8865fa96376743d053c33a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1fae628e9a8865fa96376743d053c33a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1fae628e9a8865fa96376743d053c33a]: Textual amendment: Regulations revoked (27.10.2017) by [The Water Supply (Water Quality) Regulations (Northern Ireland) 2017 (S.R. 2017/212)](https://www.legislation.gov.uk/nisr/2017/212), [reg. 1](https://www.legislation.gov.uk/nisr/2017/212/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2017/212/schedule/6)
+[^c-1fae628e9a8865fa96376743d053c33a]: Textual amendment: Regulations revoked (27.10.2017) by [The Water Supply (Water Quality) Regulations (Northern Ireland) 2017 (S.R. 2017/212)](https://www.legislation.gov.uk/nisr/2017/212), [reg. 1](https://www.legislation.gov.uk/nisr/2017/212/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2017/212/schedule/6)

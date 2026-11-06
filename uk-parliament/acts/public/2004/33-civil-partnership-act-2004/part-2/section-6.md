@@ -39,7 +39,7 @@ summary: ''
 
 (3C) In this Chapter “**register office**” means a register office provided under section 10 of the Registration Service Act 1953.
 
-(3D)[^key-7ff671e9334d12661be27d5d698e7aea] Where, further to regulations under section 6A of this Act or section 2 of the Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019, an approval of premises for the purposes of subsection (3A)(a) has effect—
+(3D)[^c-7ff671e9334d12661be27d5d698e7aea] Where, further to regulations under section 6A of this Act or section 2 of the Civil Partnerships, Marriages and Deaths (Registration etc) Act 2019, an approval of premises for the purposes of subsection (3A)(a) has effect—
 
 - (a) only in relation to civil partnerships formed by two people of the same sex, or
 - (b) only in relation to civil partnerships formed by two people of the opposite sex,
@@ -58,6 +58,6 @@ the premises are “approved premises”, for the purposes of this Part, only in
 
 [^c20585371]: Textual amendment: S. 6(3)-(3C) substituted (5.12.2005) for s. 6(3) by [The Civil Partnership (Amendments to Registration Provisions) Order 2005 (S.I. 2005/2000)](https://www.legislation.gov.uk/uksi/2005/2000), [art. 3](https://www.legislation.gov.uk/uksi/2005/2000/article/3), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2005/2000/schedule/paragraph/2/2) (subject to [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2000/article/1/3))
 
-[^key-7ff671e9334d12661be27d5d698e7aea]: Textual amendment: [S. 6(3D)](https://www.legislation.gov.uk/ukpga/2004/33/section/6/3D) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2019/1458/regulation/7)
+[^c-7ff671e9334d12661be27d5d698e7aea]: Textual amendment: [S. 6(3D)](https://www.legislation.gov.uk/ukpga/2004/33/section/6/3D) inserted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2019/1458/regulation/7)
 
 [^c20585471]: Textual amendment: S. 6(4)(5) omitted (5.12.2005) by virtue of [The Civil Partnership (Amendments to Registration Provisions) Order 2005 (S.I. 2005/2000)](https://www.legislation.gov.uk/uksi/2005/2000), [art. 3](https://www.legislation.gov.uk/uksi/2005/2000/article/3), [Sch. para. 2(3)](https://www.legislation.gov.uk/uksi/2005/2000/schedule/paragraph/2/3) (subject to [art. 1(3)](https://www.legislation.gov.uk/uksi/2005/2000/article/1/3))

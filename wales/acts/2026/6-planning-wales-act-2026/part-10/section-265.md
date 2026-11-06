@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 265. Land to which sections 266 to 268 apply[^key-a989fac4d48d9f2dc7937e64e6b6f2ef]
+## 265. Land to which sections 266 to 268 apply[^c-a989fac4d48d9f2dc7937e64e6b6f2ef]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a989fac4d48d9f2dc7937e64e6b6f2ef]: Commencement: S. 265 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-a989fac4d48d9f2dc7937e64e6b6f2ef]: Commencement: S. 265 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

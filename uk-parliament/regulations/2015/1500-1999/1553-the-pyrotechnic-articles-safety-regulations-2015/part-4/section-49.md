@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Subsidiaries and contractors[^M_E_c41c84ce-14d9-4f37-97b7-b8ad9a23147e][^key-dc440bbe671175c03761b7492e5b2754]
+## 49. Subsidiaries and contractors[^M_E_c41c84ce-14d9-4f37-97b7-b8ad9a23147e][^c-dc440bbe671175c03761b7492e5b2754]
 
 *Extent: E+W+S*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (3) In deciding what action is required under paragraph (1) or (2), the Secretary of State must have regard to the seriousness of the failure.
 
-(4) Where the Secretary of State takes action under paragraph (1) or (2), the Secretary of State must immediately inform the European Commission and the other relevant states[^key-8807d22eb022b60df203a09742aac761].
+(4) Where the Secretary of State takes action under paragraph (1) or (2), the Secretary of State must immediately inform the European Commission and the other relevant states[^c-8807d22eb022b60df203a09742aac761].
 
 (5) Where the Secretary of State has taken action in respect of a notified body under paragraph (1) or (2), or where a notified body has ceased its activity, the body must—
 
@@ -56,8 +56,8 @@ summary: ''
 
 [^M_E_c41c84ce-14d9-4f37-97b7-b8ad9a23147e]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-dc440bbe671175c03761b7492e5b2754]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2015/1553/part/4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/27) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(h)(iii)(iv)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/h/iii/iv)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc440bbe671175c03761b7492e5b2754]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2015/1553/part/4) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/27) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/852](https://www.legislation.gov.uk/uksi/2020/852), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/2/2), [4(2)](https://www.legislation.gov.uk/uksi/2020/852/regulation/4/2), [Sch. 1 para. 1(h)(iii)(iv)](https://www.legislation.gov.uk/uksi/2020/852/schedule/1/paragraph/1/h/iii/iv)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_8f7c92e9-75bf-4e72-c8bf-6179b96aa32b]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-8807d22eb022b60df203a09742aac761]: Textual amendment: Words in [reg. 49(4)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/49/4) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/7/paragraph/4/3)
+[^c-8807d22eb022b60df203a09742aac761]: Textual amendment: Words in [reg. 49(4)](https://www.legislation.gov.uk/uksi/2015/1553/regulation/49/4) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/7/paragraph/4/3)

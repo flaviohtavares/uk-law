@@ -31,11 +31,11 @@ Gaming Act 1968 (repealed)
 
 1968 c.65
 
-[^key-87e30ff7e62fdffc2412e0fb56406f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-87e30ff7e62fdffc2412e0fb56406f79]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Part I — Gaming Elsewhere than on Premises Licensed or Registered under Part II of this Act[^key-87e30ff7e62fdffc2412e0fb56406f79]
+### Part I — Gaming Elsewhere than on Premises Licensed or Registered under Part II of this Act[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
@@ -48,7 +48,7 @@ Gaming Act 1968 (repealed)
 - [Section 7 — Special provisions as to persons under 18.](part-i/section-7.md)
 - [Section 8 — Offences under Part I.](part-i/section-8.md)
 
-### Part II — Gaming on Premises Licensed or Registered under this Part of this Act[^key-87e30ff7e62fdffc2412e0fb56406f79]
+### Part II — Gaming on Premises Licensed or Registered under this Part of this Act[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
@@ -70,17 +70,17 @@ Gaming Act 1968 (repealed)
 - [Section 24 — Power of court to make disqualification order on conviction of certain offences.](part-ii/section-24.md)
 - [Section 25 — Supplementary provisions as to disqualification orders.](part-ii/section-25.md)
 
-### Part III — Gaming by Means of Machines[^key-87e30ff7e62fdffc2412e0fb56406f79]
+### Part III — Gaming by Means of Machines[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
-#### Introductory[^key-87e30ff7e62fdffc2412e0fb56406f79]
+#### Introductory[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
 - [Section 26 — Scope of Part III.](part-iii/section-26.md)
 
-#### Sale, supply and maintenance of machines[^key-87e30ff7e62fdffc2412e0fb56406f79]
+#### Sale, supply and maintenance of machines[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
@@ -88,7 +88,7 @@ Gaming Act 1968 (repealed)
 - [Section 28 — Restrictions as to terms and conditions.](part-iii/section-28.md)
 - [Section 29 — Application of ss. 27 and 28 to concessionaires.](part-iii/section-29.md)
 
-#### Use of machines for gaming on premises licensed or registered under this Act[^key-87e30ff7e62fdffc2412e0fb56406f79]
+#### Use of machines for gaming on premises licensed or registered under this Act[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
@@ -96,20 +96,20 @@ Gaming Act 1968 (repealed)
 - [Section 31 — Use of machines by virtue of licence or registration.](part-iii/section-31.md)
 - [Section 32 — Power for licensing authority to authorise more than two machines.](part-iii/section-32.md)
 
-#### Use of machines for gaming by way of amusement with prizes[^key-87e30ff7e62fdffc2412e0fb56406f79]
+#### Use of machines for gaming by way of amusement with prizes[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
 - [Section 33 — Use of machines at non-commercial entertainments.](part-iii/section-33.md)
 - [Section 34 — Other uses of machines for amusement purposes.](part-iii/section-34.md)
 
-#### General restriction on other gaming by means of machines[^key-87e30ff7e62fdffc2412e0fb56406f79]
+#### General restriction on other gaming by means of machines[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
 - [Section 35 — Use of machines not falling within ss. 31 to 34.](part-iii/section-35.md)
 
-#### Supplementary provisions[^key-87e30ff7e62fdffc2412e0fb56406f79]
+#### Supplementary provisions[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
@@ -118,7 +118,7 @@ Gaming Act 1968 (repealed)
 - [Section 38 — Offences under Part III.](part-iii/section-38.md)
 - [Section 39 — Penalties under Part III.](part-iii/section-39.md)
 
-### Part IV — Miscellaneous and Supplementary Provisions[^key-87e30ff7e62fdffc2412e0fb56406f79]
+### Part IV — Miscellaneous and Supplementary Provisions[^c-87e30ff7e62fdffc2412e0fb56406f79]
 
 **No longer in force.**
 
@@ -143,7 +143,7 @@ Gaming Act 1968 (repealed)
 
 **No longer in force.**
 
-[^key-87e30ff7e62fdffc2412e0fb56406f79] SCHEDULES
+[^c-87e30ff7e62fdffc2412e0fb56406f79] SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -160,4 +160,4 @@ Gaming Act 1968 (repealed)
 
 ## Annotations
 
-[^key-87e30ff7e62fdffc2412e0fb56406f79]: Textual amendment: Act repealed (1.10.2005 for purposes of the repeal of s. 10, Sch. 1, 1.9.2007 in so far as not already in force) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 4](https://www.legislation.gov.uk/uksi/2006/3272/article/4) (with arts [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))
+[^c-87e30ff7e62fdffc2412e0fb56406f79]: Textual amendment: Act repealed (1.10.2005 for purposes of the repeal of s. 10, Sch. 1, 1.9.2007 in so far as not already in force) by [Gambling Act 2005 (c. 19)](https://www.legislation.gov.uk/ukpga/2005/19), [ss. 356(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/356/3), [358(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/358/1), [Sch. 17](https://www.legislation.gov.uk/ukpga/2005/19/schedule/17) (with [ss. 352](https://www.legislation.gov.uk/ukpga/2005/19/section/352), [354](https://www.legislation.gov.uk/ukpga/2005/19/section/354)); [S.I. 2005/2455](https://www.legislation.gov.uk/uksi/2005/2455), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2455/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/2455/schedule); [S.I. 2006/3272](https://www.legislation.gov.uk/uksi/2006/3272), [art. 4](https://www.legislation.gov.uk/uksi/2006/3272/article/4) (with arts [7-12](https://www.legislation.gov.uk/uksi/2006/3272/article/7), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/3272/schedule/4))

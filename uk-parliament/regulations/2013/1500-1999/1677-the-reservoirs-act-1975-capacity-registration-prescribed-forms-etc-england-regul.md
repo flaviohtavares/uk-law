@@ -47,7 +47,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections A1(4), 2(2) and (2C) to (2E), 3(1), 5, 11, 20(1), 21(1) and 21B of the Reservoirs Act 1975[^f00001], makes the following Regulations.
 
-## 1. Citation, commencement, extent and application[^key-13ff90eb0676e763c90d0925b33357d4]
+## 1. Citation, commencement, extent and application[^c-13ff90eb0676e763c90d0925b33357d4]
 
 These Regulations—
 
@@ -56,7 +56,7 @@ These Regulations—
 - (c) extend to England and Wales; and
 - (d) apply in relation to reservoirs in England.
 
-## 2. Interpretation[^key-88b44cfd8d72448ff19fe52b9a8d2a5d]
+## 2. Interpretation[^c-88b44cfd8d72448ff19fe52b9a8d2a5d]
 
 (1) In these Regulations—
 
@@ -87,9 +87,9 @@ These Regulations—
   - (ii) to have been sent by the person from whom it purports to originate; and
   - (iii) not to have been tampered with or otherwise modified;
 - (d) any requirement for a signature in a report, certificate or directions to which these Regulations apply may be satisfied by an electronic signature incorporated into the document;
-- (e)[^key-0a8e8a929e1e3f13f827e894bfe7b089] “**electronic signature**” has the meaning given within Article 3(10) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market.
+- (e)[^c-0a8e8a929e1e3f13f827e894bfe7b089] “**electronic signature**” has the meaning given within Article 3(10) of Regulation (EU) No 910/2014 of the European Parliament and of the Council on electronic identification and trust services for electronic transactions in the internal market.
 
-## 3. Calculation of capacity of a large raised reservoir[^key-dd0eda2879ba07e176b0fc1989b9d9ea]
+## 3. Calculation of capacity of a large raised reservoir[^c-dd0eda2879ba07e176b0fc1989b9d9ea]
 
 (1) An undertaker must calculate the capacity of a large raised reservoir by measuring the maximum volume of water in cubic metres capable of being stored in the reservoir—
 
@@ -105,7 +105,7 @@ These Regulations—
 
 (4) In this regulation “bed of the reservoir” includes any silt or other material that is judged by the engineer giving a final certificate, or giving a certificate under section 13(2) of the 1975 Act, to be incapable of flowing out of the reservoir over natural ground in the event of an uncontrolled release of water from the reservoir.
 
-## 4. Registration requirements[^key-a521567db2510159735c1d7c434f8f1b]
+## 4. Registration requirements[^c-a521567db2510159735c1d7c434f8f1b]
 
 (1) An undertaker must register a large raised reservoir with the Agency by providing the information described in Schedule 1, paragraphs 1 to 7.
 
@@ -115,7 +115,7 @@ These Regulations—
 - (b) the alteration of an existing structure of a reservoir that prior to its alteration was not a large raised reservoir; or
 - (c) the alteration of the area of a reservoir that prior to its alteration was not a large raised reservoir.
 
-## 5. Notification of changes to the English register[^key-c84c9c1beae945ac04c4b97637252430]
+## 5. Notification of changes to the English register[^c-c84c9c1beae945ac04c4b97637252430]
 
 (1) Where there has been a change or addition to any of the information registered in accordance with regulation 4, the undertaker must provide the Agency with the relevant up to date information within 28 days beginning with—
 
@@ -155,13 +155,13 @@ These Regulations—
 
 (11) Paragraphs (8) and (9) apply where a construction engineer is appointed to design and supervise any alteration to a large raised reservoir under section 6 of the 1975 Act[^f00007].
 
-## 6. Keeping and inspection of the English register[^key-57d071577409243f47a05b5cc63306a4]
+## 6. Keeping and inspection of the English register[^c-57d071577409243f47a05b5cc63306a4]
 
 (1) The English register and copies of that register must be kept at the principal office of the Agency’s reservoir safety enforcement team[^f00008].
 
 (2) The Agency must ensure that the English register contains the information described in Schedule 1, paragraphs 8 to 10 for each large raised reservoir.
 
-## 7. The English register: transitional arrangements[^key-e361d538c1bdea73365d27769ecf7e8b]
+## 7. The English register: transitional arrangements[^c-e361d538c1bdea73365d27769ecf7e8b]
 
 (1) Where information about a large raised reservoir appeared in the English register immediately before 30th July 2013, that information shall be taken to have been provided by the undertaker in compliance with the obligation in section 2(2B) of the 1975 Act.
 
@@ -172,7 +172,7 @@ These Regulations—
 - (a) the date on which a final certificate is given by a construction engineer for any purpose of the 1975 Act; and
 - (b) the date on which a certificate is given for the purposes of section 13(2) of the 1975 Act.
 
-## 8. Reports by the Agency to the Secretary of State[^key-0a5db35c449afe1f99b2d91d6f315da8]
+## 8. Reports by the Agency to the Secretary of State[^c-0a5db35c449afe1f99b2d91d6f315da8]
 
 (1) The Agency must make reports to the Secretary of State under section 3(1) of the 1975 Act—
 
@@ -188,7 +188,7 @@ These Regulations—
   - (ii) any steps it has taken in accordance with paragraph (i); and
   - (iii) the number of large raised reservoirs for which it is the undertaker.
 
-## 9. Records of water levels etc.[^key-611859794132e3fb2deee2cd1838cc3a]
+## 9. Records of water levels etc.[^c-611859794132e3fb2deee2cd1838cc3a]
 
 (1) For the purposes of section 11(1) of the 1975 Act, the form of record to be kept for every high-risk reservoir must be the form prescribed in Schedule 2.
 
@@ -196,7 +196,7 @@ These Regulations—
 
 (3) The information which is to be given about those matters which are specified in section 11(1)(a) and (b) of the 1975 Act must be that described in Parts 1 and 2 of the form of record in Schedule 2 and the information which is to be given about the additional matters set out in Schedule 3 must be that described in Parts 3 to 16 of that form.
 
-## 10. Forms of certificates of engineers[^key-c7307c949ad79b112499b72cac80dae7]
+## 10. Forms of certificates of engineers[^c-c7307c949ad79b112499b72cac80dae7]
 
 (1) For the purposes of section 20(1) of the 1975 Act, a certificate must be in the form prescribed in Schedule 4.
 
@@ -215,7 +215,7 @@ These Regulations—
 - (k) a certificate given under section 15(2) of the 1975 Act[^f00012] as to the carrying into effect of safety recommendations; or
 - (l) a referee’s certificate given under section 19(4) of the 1975 Act[^f00013].
 
-## 11. Forms of reports of engineers[^key-070cfb37dcada3093929dd29a20493d4]
+## 11. Forms of reports of engineers[^c-070cfb37dcada3093929dd29a20493d4]
 
 (1) For the purposes of section 20(1) of the 1975 Act, a report must be given in the form prescribed in Schedule 5.
 
@@ -226,7 +226,7 @@ These Regulations—
 - (c) a report under section 10(1) of the 1975 Act made following an engineer’s inspection of a high-risk reservoir;
 - (d) a report under section 14(1) of the 1975 Act of an engineer’s safety recommendations made on abandonment of a large raised reservoir.
 
-## 12. Forms of directions of engineers[^key-cc9c31ff5baec163dbf31c96f8cb4468]
+## 12. Forms of directions of engineers[^c-cc9c31ff5baec163dbf31c96f8cb4468]
 
 (1) For the purposes of section 20(1) of the 1975 Act, a direction of an engineer must be given in the form prescribed in Schedule 6.
 
@@ -238,11 +238,11 @@ These Regulations—
 - (d) a direction made under section 12AA(7) of the 1975 Act (flood plans: revision); or
 - (e) a direction made under section 19(4A) of the 1975 Act (reference of disputed recommendations to a referee: direction to engineer to issue a certificate).
 
-## 13. Prescribed information under section 21(1) to be provided by undertakers when intending to construct or bring back into use a large raised reservoir[^key-f490cdf95e697535aafc18df9c1d4b38]
+## 13. Prescribed information under section 21(1) to be provided by undertakers when intending to construct or bring back into use a large raised reservoir[^c-f490cdf95e697535aafc18df9c1d4b38]
 
 In a notice served under section 21(1) of the 1975 Act, the undertakers must give the Agency the information prescribed in Schedule 7.
 
-## 14. Reports to the Agency[^key-2047f38c4a77d1738c3cfbd947af6d90]
+## 14. Reports to the Agency[^c-2047f38c4a77d1738c3cfbd947af6d90]
 
 (1) This regulation applies in relation to any incident—
 
@@ -273,7 +273,7 @@ In a notice served under section 21(1) of the 1975 Act, the undertakers must giv
 - (a) the undertaker has sent a version of the report to the Agency which incorporates the revisions notified by the Agency, and
 - (b) the Agency has accepted the revisions.
 
-## 15. Review[^key-b962b16b4d892037f7091b98715752a0]
+## 15. Review[^c-b962b16b4d892037f7091b98715752a0]
 
 (1) The Secretary of State must from time to time—
 
@@ -291,7 +291,7 @@ In a notice served under section 21(1) of the 1975 Act, the undertakers must giv
 
 (4) Reports under this regulation must afterwards be published at intervals not exceeding 5 years.
 
-## 16. Revocations[^key-d4dc724d31fd6ab1cce662c2e6f12576]
+## 16. Revocations[^c-d4dc724d31fd6ab1cce662c2e6f12576]
 
 The following Regulations are revoked—
 
@@ -311,20 +311,20 @@ Department for Environment, Food and Rural Affairs
 
 Regulations 4 and 6
 
-**1.**[^key-c8467d43c23bb66ebb9421cb711346cf] Name and situation of reservoir.
+**1.**[^c-c8467d43c23bb66ebb9421cb711346cf] Name and situation of reservoir.
 
-**2.**[^key-98a1acbbe0b833f0882b10081b8b8777] National grid reference of reservoir.
+**2.**[^c-98a1acbbe0b833f0882b10081b8b8777] National grid reference of reservoir.
 
-**3.**[^key-e78209266658a047f07cf3c6290ad9c0] Name and address of undertakers.
+**3.**[^c-e78209266658a047f07cf3c6290ad9c0] Name and address of undertakers.
 
-**4.**[^key-a6b7f9779d50a802753268330a0cec43] A summary of the contents of all certificates or reports made under the 1975 Act, or the 1930 Act, including—
+**4.**[^c-a6b7f9779d50a802753268330a0cec43] A summary of the contents of all certificates or reports made under the 1975 Act, or the 1930 Act, including—
 
 - (i) the name and address of the engineer giving the certificate or making the report;
 - (ii) the section of whichever Act the certificate is given under or the report is made;
 - (iii) where no final certificate has been given under the 1975 Act, a statement of that fact;
 - (iv) where no final certificate was given under the 1930 Act because the construction or alteration of the reservoir was completed before the commencement of that Act, a statement of that fact.
 
-**5.**[^key-9fbf91c0f607b51f84876198ecdcf09f] The following information if it is revealed by any certificate, report or statement—
+**5.**[^c-9fbf91c0f607b51f84876198ecdcf09f] The following information if it is revealed by any certificate, report or statement—
 
 - (i) the category of the reservoir (whether impounding or non-impounding);
 - (ii) year(s) in which the dam(s), reservoir walls or embankments(s) were completed;
@@ -335,17 +335,17 @@ Regulations 4 and 6
 - (vii) the capacity of the reservoir;
 - (viii) the water surface area of the reservoir at top water level (in square metres or square kilometres).
 
-**6.**[^key-dda856506734d150a3fccb07c0c20a24] Name and business address of the supervising engineer or, if the reservoir is under the supervision of the construction engineer, of that engineer.
+**6.**[^c-dda856506734d150a3fccb07c0c20a24] Name and business address of the supervising engineer or, if the reservoir is under the supervision of the construction engineer, of that engineer.
 
-**7.**[^key-682bbb775c2dd47fe34e5469ce3a5e85] Date when the next inspection is due under the 1975 Act or any date recommended for the next inspection under the 1975 Act by the supervising or inspecting engineer.
+**7.**[^c-682bbb775c2dd47fe34e5469ce3a5e85] Date when the next inspection is due under the 1975 Act or any date recommended for the next inspection under the 1975 Act by the supervising or inspecting engineer.
 
-**8.**[^key-5a7143957d633e6581656499c76822dc] Particulars of any appointment made by the Agency under section 15 of the 1975 Act.
+**8.**[^c-5a7143957d633e6581656499c76822dc] Particulars of any appointment made by the Agency under section 15 of the 1975 Act.
 
-**9.**[^key-d96b6634353406419f6a0d4f9fa6a58e] Particulars of any appointment made by the Agency under section 16 of the 1975 Act, including the date on which they were taken.
+**9.**[^c-d96b6634353406419f6a0d4f9fa6a58e] Particulars of any appointment made by the Agency under section 16 of the 1975 Act, including the date on which they were taken.
 
-**10.**[^key-2eb68a21765fa0d7ead5f69d51fa141b] Whether the large raised reservoir is designated as high-risk.
+**10.**[^c-2eb68a21765fa0d7ead5f69d51fa141b] Whether the large raised reservoir is designated as high-risk.
 
-## SCHEDULE 2 — Prescribed form of record for a high-risk reservoir[^key-5d57484626ee76002a67dc6a87384156]
+## SCHEDULE 2 — Prescribed form of record for a high-risk reservoir[^c-5d57484626ee76002a67dc6a87384156]
 
 Regulation 9
 
@@ -355,11 +355,11 @@ Regulation 9
 
 Regulation 9
 
-### 1. Interpretation[^key-a0cc2b5c702f4c814756a23e4c802e06]
+### 1. Interpretation[^c-a0cc2b5c702f4c814756a23e4c802e06]
 
 In this Schedule “fetch” means the effective length of the reservoir over which wind can build up waves.
 
-### 2. Prescribed matters[^key-fd79de2a736e08eb7da408d393756392]
+### 2. Prescribed matters[^c-fd79de2a736e08eb7da408d393756392]
 
 An undertaker of a high-risk reservoir must keep a record of the following matters—
 
@@ -403,11 +403,11 @@ An undertaker of a high-risk reservoir must keep a record of the following matte
 
 (20) records of extent of opening of valves, gates and penstocks, related information and directions by an engineer.
 
-## SCHEDULE 4 — Certificates[^key-d02e9b157a497f8855aa7f967554f8eb]
+## SCHEDULE 4 — Certificates[^c-d02e9b157a497f8855aa7f967554f8eb]
 
 Regulation 10
 
-[^key-d02e9b157a497f8855aa7f967554f8eb]
+[^c-d02e9b157a497f8855aa7f967554f8eb]
 
 The italicised letters in the forms of certificates in this Schedule indicate the information to be included as follows—
 
@@ -433,17 +433,17 @@ The italicised letters in the forms of certificates in this Schedule indicate th
 - (t) volume of water that makes a reservoir a “large raised reservoir” under the Act;
 - (u) the time by which the water level must be reduced.
 
-[^key-d02e9b157a497f8855aa7f967554f8eb]
+[^c-d02e9b157a497f8855aa7f967554f8eb]
 
 In these forms of certificates, square brackets and the words within them are not to be included where they are inappropriate.
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/1677/images/uksi_20131677_en_019) [image: see source](https://www.legislation.gov.uk/uksi/2013/1677/images/uksi_20131677_en_020) [image: see source](https://www.legislation.gov.uk/uksi/2013/1677/images/uksi_20131677_en_021) [image: see source](https://www.legislation.gov.uk/uksi/2013/1677/images/uksi_20131677_en_022)
 
-## SCHEDULE 5 — Reports[^key-527f32ee4ce01f48d0fb12c89e30f3e9]
+## SCHEDULE 5 — Reports[^c-527f32ee4ce01f48d0fb12c89e30f3e9]
 
 Regulation 11
 
-[^key-527f32ee4ce01f48d0fb12c89e30f3e9]
+[^c-527f32ee4ce01f48d0fb12c89e30f3e9]
 
 In this Schedule references to an engineer’s findings and recommendations include—
 
@@ -456,17 +456,17 @@ In this Schedule references to an engineer’s findings and recommendations incl
 - (vii) a statement as to the adequacy of the margin between dam(s), reservoir walls or embankments level and overflow level;
 - (viii) findings as to the efficiency of the scour pipe or discharge culvert or other means of lowering the level of the water in, and any means of controlling the inflow of water to, the reservoir.
 
-[^key-527f32ee4ce01f48d0fb12c89e30f3e9]
+[^c-527f32ee4ce01f48d0fb12c89e30f3e9]
 
 In these forms of reports, square brackets and the words within them are not to be included where they are inappropriate.
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/1677/images/uksi_20131677_en_023) [image: see source](https://www.legislation.gov.uk/uksi/2013/1677/images/uksi_20131677_en_024) [image: see source](https://www.legislation.gov.uk/uksi/2013/1677/images/uksi_20131677_en_025)
 
-## SCHEDULE 6 — Directions[^key-01eccd999573e3302b67866f5ca63606]
+## SCHEDULE 6 — Directions[^c-01eccd999573e3302b67866f5ca63606]
 
 Regulation 12
 
-[^key-01eccd999573e3302b67866f5ca63606]
+[^c-01eccd999573e3302b67866f5ca63606]
 
 The italicised letters in the forms of directions in this Schedule indicate the information to be included as follows—
 
@@ -491,7 +491,7 @@ The italicised letters in the forms of directions in this Schedule indicate the 
 - (s) name of person appointing referee;
 - (t) volume of water that makes a reservoir a large raised reservoir under the 1975 Act.
 
-[^key-01eccd999573e3302b67866f5ca63606]
+[^c-01eccd999573e3302b67866f5ca63606]
 
 In these forms of directions, square brackets and the words within them are not to be included where they are inappropriate.
 
@@ -501,22 +501,22 @@ In these forms of directions, square brackets and the words within them are not 
 
 Regulation 13
 
-**1.**[^key-46455f471da68bf475d1be166e0976e2] Name and address of undertakers serving notice.
+**1.**[^c-46455f471da68bf475d1be166e0976e2] Name and address of undertakers serving notice.
 
-**2.**[^key-e9a0beb10d74855fd7af651fbdda4ce8] Name and situation of reservoir.
+**2.**[^c-e9a0beb10d74855fd7af651fbdda4ce8] Name and situation of reservoir.
 
-**3.**[^key-081fa1c37ffa4d8282cebbb354714268] National grid reference of approximate centre of the reservoir.
+**3.**[^c-081fa1c37ffa4d8282cebbb354714268] National grid reference of approximate centre of the reservoir.
 
-**4.**[^key-9f49b9ded2485c68af0a15047996db67] Whether the undertakers intend—
+**4.**[^c-9f49b9ded2485c68af0a15047996db67] Whether the undertakers intend—
 
 - (a) to construct a new large raised reservoir; or
 - (b) to bring a large raised reservoir back into use after that use has been abandoned.
 
-**5.**[^key-11fea13e3da53ccab0cfe5ac82f4a020] The date when it is intended that construction will commence or the date when it is intended the reservoir will be brought back into use, as the case may be.
+**5.**[^c-11fea13e3da53ccab0cfe5ac82f4a020] The date when it is intended that construction will commence or the date when it is intended the reservoir will be brought back into use, as the case may be.
 
-**6.**[^key-200768a3d989b892dbb0e2d974fc92ff] Name and address of the construction engineer or, in the case of re-use, of the engineer appointed for the purposes of section 9 of the 1975 Act.
+**6.**[^c-200768a3d989b892dbb0e2d974fc92ff] Name and address of the construction engineer or, in the case of re-use, of the engineer appointed for the purposes of section 9 of the 1975 Act.
 
-**7.**[^key-d66b81f3c77c3a1d3606df2c03b92c4e] The following information about the reservoir as it will be when constructed, or brought back into use as proposed—
+**7.**[^c-d66b81f3c77c3a1d3606df2c03b92c4e] The following information about the reservoir as it will be when constructed, or brought back into use as proposed—
 
 - (a) category (i.e. whether impounding or non-impounding);
 - (b) date(s) or approximate date(s) of completion of the dam(s), reservoir walls or embankments(s);
@@ -565,41 +565,41 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1975 c.23](https://www.legislation.gov.uk/ukpga/1975/23). Sections A1, 2(2B) to (2E) and 21B are inserted in relation to England and Wales by the Flood and Water Management Act [2010 (c.29)](https://www.legislation.gov.uk/ukpga/2010/29), Schedule 4, paragraphs 2, 4 and 33 (see [S.I. 2011/2204 (C.80)](https://www.legislation.gov.uk/uksi/2011/2204), article 3(1)(e) and [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3 for relevant commencement provisions). Sections 5, 11, 20 and 21 are amended in relation to England and Wales by the Flood and Water Management Act 2010, Schedule 4, paragraphs 5, 16 to 18, 23, 26, 28, 31 and 38 (see [S.I. 2011/2204](https://www.legislation.gov.uk/uksi/2011/2204), article 3(1)(f) (C.80) and [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3 for relevant commencement provisions). Sections 2, 3, 20 and 21 are amended by the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37), sections 74 and 78 (see [S.I. 2004/2528 (C.106)](https://www.legislation.gov.uk/uksi/2004/2528), article 2(k) and (n) for relevant commencement provisions).
 
-[^key-13ff90eb0676e763c90d0925b33357d4]: Commencement: Reg. 1 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-13ff90eb0676e763c90d0925b33357d4]: Commencement: Reg. 1 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-88b44cfd8d72448ff19fe52b9a8d2a5d]: Commencement: Reg. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-88b44cfd8d72448ff19fe52b9a8d2a5d]: Commencement: Reg. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
 [^f00002]: Footnote: [1930 c.51](https://www.legislation.gov.uk/ukpga/1930/51). This Act was repealed with savings by the Reservoirs Act 1975, sections 23 and 28.
 
 [^f00003]: Footnote: Section 4 is amended in relation to England and Wales by the Flood and Water Management Act 2010, Schedule 4, paragraph 9 (see [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3 for relevant commencement provisions).
 
-[^key-0a8e8a929e1e3f13f827e894bfe7b089]: Textual amendment: Words in [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/2/2/e) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/11)
+[^c-0a8e8a929e1e3f13f827e894bfe7b089]: Textual amendment: Words in [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/2/2/e) substituted (22.7.2016) by [The Electronic Identification and Trust Services for Electronic Transactions Regulations 2016 (S.I. 2016/696)](https://www.legislation.gov.uk/uksi/2016/696), [reg. 1](https://www.legislation.gov.uk/uksi/2016/696/regulation/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2016/696/schedule/3/paragraph/11)
 
-[^key-dd0eda2879ba07e176b0fc1989b9d9ea]: Commencement: Reg. 3 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-dd0eda2879ba07e176b0fc1989b9d9ea]: Commencement: Reg. 3 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
 [^f00004]: Footnote: Section 13 is amended in relation to England and Wales by the Flood and Water Management Act 2010, Schedule 4, paragraph 25 and by the Water Act 2003, section 74 (see [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3 and [S.I. 2004/2528 (C.106)](https://www.legislation.gov.uk/uksi/2004/2528), article 2(k) for relevant commencement provisions).
 
-[^key-a521567db2510159735c1d7c434f8f1b]: Commencement: Reg. 4 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-a521567db2510159735c1d7c434f8f1b]: Commencement: Reg. 4 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
 [^f00005]: Footnote: Section 7 is amended in relation to England and Wales by the Flood and Water Management Act 2010, Schedule 4, paragraphs 8 and 11 (see [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3 for relevant commencement provisions).
 
-[^key-c84c9c1beae945ac04c4b97637252430]: Commencement: Reg. 5 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-c84c9c1beae945ac04c4b97637252430]: Commencement: Reg. 5 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
 [^f00006]: Footnote: Section 14 is amended in relation to England and Wales by the Flood and Water Management Act 2010, Schedule 4, paragraph 27 (see [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3 for relevant commencement provisions).
 
 [^f00007]: Footnote: Section 6 is amended in relation to England and Wales by the Flood and Water Management Act 2010, Schedule 4, paragraphs 3 and 10 (see [S.I. 2011/2204 (C.80)](https://www.legislation.gov.uk/uksi/2011/2204), article 3(1)(e) and [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3 for relevant commencement provisions).
 
-[^key-57d071577409243f47a05b5cc63306a4]: Commencement: Reg. 6 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-57d071577409243f47a05b5cc63306a4]: Commencement: Reg. 6 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
 [^f00008]: Footnote: The address of the principal office of the Agency’s reservoir safety enforcement team is Reservoir Safety Team, Environment Agency, Manley House, Kestrel Way, Exeter, Devon EX2 7LQ.
 
-[^key-e361d538c1bdea73365d27769ecf7e8b]: Commencement: Reg. 7 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-e361d538c1bdea73365d27769ecf7e8b]: Commencement: Reg. 7 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-0a5db35c449afe1f99b2d91d6f315da8]: Commencement: Reg. 8 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-0a5db35c449afe1f99b2d91d6f315da8]: Commencement: Reg. 8 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-611859794132e3fb2deee2cd1838cc3a]: Commencement: Reg. 9 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-611859794132e3fb2deee2cd1838cc3a]: Commencement: Reg. 9 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-c7307c949ad79b112499b72cac80dae7]: Commencement: Reg. 10 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-c7307c949ad79b112499b72cac80dae7]: Commencement: Reg. 10 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
 [^f00009]: Footnote: Section 8 is amended in relation to England and Wales by the Flood and Water Management Act 2010, Schedule 4, paragraphs 3 and 11 and the Water Act 2003, section 75 (see [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3, and [S.I. 2004/641 (C.24)](https://www.legislation.gov.uk/uksi/2004/641), article 3(t) for relevant commencement provisions).
 
@@ -611,19 +611,19 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00013]: Footnote: Section 19 is amended in relation to England and Wales by the Flood and Water Management Act 2010, Schedule 4, paragraphs 14 and 22 (see [S.I. 2011/2204 (C.80)](https://www.legislation.gov.uk/uksi/2011/2204), article 3(1)(f) and [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3 for relevant commencement provisions).
 
-[^key-070cfb37dcada3093929dd29a20493d4]: Commencement: Reg. 11 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-070cfb37dcada3093929dd29a20493d4]: Commencement: Reg. 11 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-cc9c31ff5baec163dbf31c96f8cb4468]: Commencement: Reg. 12 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-cc9c31ff5baec163dbf31c96f8cb4468]: Commencement: Reg. 12 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
 [^f00014]: Footnote: Section 12 is amended in relation to England and Wales by the Flood and Water Management Act 2010, Schedule 4, paragraph 17 (see [S.I. 2013/1590 (C.64)](https://www.legislation.gov.uk/uksi/2013/1590), article 3 for relevant commencement provisions).
 
-[^key-f490cdf95e697535aafc18df9c1d4b38]: Commencement: Reg. 13 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-f490cdf95e697535aafc18df9c1d4b38]: Commencement: Reg. 13 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-2047f38c4a77d1738c3cfbd947af6d90]: Commencement: Reg. 14 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-2047f38c4a77d1738c3cfbd947af6d90]: Commencement: Reg. 14 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-b962b16b4d892037f7091b98715752a0]: Commencement: Reg. 15 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-b962b16b4d892037f7091b98715752a0]: Commencement: Reg. 15 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-d4dc724d31fd6ab1cce662c2e6f12576]: Commencement: Reg. 16 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-d4dc724d31fd6ab1cce662c2e6f12576]: Commencement: Reg. 16 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
 [^f00015]: Footnote: [S.I. 1985/177](https://www.legislation.gov.uk/uksi/1985/177).
 
@@ -631,48 +631,48 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00017]: Footnote: [S.I. 1986/468](https://www.legislation.gov.uk/uksi/1986/468).
 
-[^key-c8467d43c23bb66ebb9421cb711346cf]: Commencement: Sch. 1 para. 1 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-c8467d43c23bb66ebb9421cb711346cf]: Commencement: Sch. 1 para. 1 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-98a1acbbe0b833f0882b10081b8b8777]: Commencement: Sch. 1 para. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-98a1acbbe0b833f0882b10081b8b8777]: Commencement: Sch. 1 para. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-e78209266658a047f07cf3c6290ad9c0]: Commencement: Sch. 1 para. 3 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-e78209266658a047f07cf3c6290ad9c0]: Commencement: Sch. 1 para. 3 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-a6b7f9779d50a802753268330a0cec43]: Commencement: Sch. 1 para. 4 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-a6b7f9779d50a802753268330a0cec43]: Commencement: Sch. 1 para. 4 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-9fbf91c0f607b51f84876198ecdcf09f]: Commencement: Sch. 1 para. 5 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-9fbf91c0f607b51f84876198ecdcf09f]: Commencement: Sch. 1 para. 5 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-dda856506734d150a3fccb07c0c20a24]: Commencement: Sch. 1 para. 6 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-dda856506734d150a3fccb07c0c20a24]: Commencement: Sch. 1 para. 6 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-682bbb775c2dd47fe34e5469ce3a5e85]: Commencement: Sch. 1 para. 7 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-682bbb775c2dd47fe34e5469ce3a5e85]: Commencement: Sch. 1 para. 7 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-5a7143957d633e6581656499c76822dc]: Commencement: Sch. 1 para. 8 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-5a7143957d633e6581656499c76822dc]: Commencement: Sch. 1 para. 8 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-d96b6634353406419f6a0d4f9fa6a58e]: Commencement: Sch. 1 para. 9 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-d96b6634353406419f6a0d4f9fa6a58e]: Commencement: Sch. 1 para. 9 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-2eb68a21765fa0d7ead5f69d51fa141b]: Commencement: Sch. 1 para. 10 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-2eb68a21765fa0d7ead5f69d51fa141b]: Commencement: Sch. 1 para. 10 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-5d57484626ee76002a67dc6a87384156]: Commencement: Sch. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-5d57484626ee76002a67dc6a87384156]: Commencement: Sch. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-a0cc2b5c702f4c814756a23e4c802e06]: Commencement: Sch. 3 para. 1 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-a0cc2b5c702f4c814756a23e4c802e06]: Commencement: Sch. 3 para. 1 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-fd79de2a736e08eb7da408d393756392]: Commencement: Sch. 3 para. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-fd79de2a736e08eb7da408d393756392]: Commencement: Sch. 3 para. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-d02e9b157a497f8855aa7f967554f8eb]: Commencement: Sch. 4 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-d02e9b157a497f8855aa7f967554f8eb]: Commencement: Sch. 4 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-527f32ee4ce01f48d0fb12c89e30f3e9]: Commencement: Sch. 5 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-527f32ee4ce01f48d0fb12c89e30f3e9]: Commencement: Sch. 5 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-01eccd999573e3302b67866f5ca63606]: Commencement: Sch. 6 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-01eccd999573e3302b67866f5ca63606]: Commencement: Sch. 6 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-46455f471da68bf475d1be166e0976e2]: Commencement: Sch. 7 para. 1 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-46455f471da68bf475d1be166e0976e2]: Commencement: Sch. 7 para. 1 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-e9a0beb10d74855fd7af651fbdda4ce8]: Commencement: Sch. 7 para. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-e9a0beb10d74855fd7af651fbdda4ce8]: Commencement: Sch. 7 para. 2 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-081fa1c37ffa4d8282cebbb354714268]: Commencement: Sch. 7 para. 3 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-081fa1c37ffa4d8282cebbb354714268]: Commencement: Sch. 7 para. 3 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-9f49b9ded2485c68af0a15047996db67]: Commencement: Sch. 7 para. 4 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-9f49b9ded2485c68af0a15047996db67]: Commencement: Sch. 7 para. 4 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-11fea13e3da53ccab0cfe5ac82f4a020]: Commencement: Sch. 7 para. 5 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-11fea13e3da53ccab0cfe5ac82f4a020]: Commencement: Sch. 7 para. 5 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-200768a3d989b892dbb0e2d974fc92ff]: Commencement: Sch. 7 para. 6 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-200768a3d989b892dbb0e2d974fc92ff]: Commencement: Sch. 7 para. 6 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
 
-[^key-d66b81f3c77c3a1d3606df2c03b92c4e]: Commencement: Sch. 7 para. 7 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)
+[^c-d66b81f3c77c3a1d3606df2c03b92c4e]: Commencement: Sch. 7 para. 7 in force at 30.7.2013, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2013/1677/regulation/1/b)

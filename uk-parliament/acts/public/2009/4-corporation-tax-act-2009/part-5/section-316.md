@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 316. Change of basis of accounting involving change of value[^key-438647b5c24195aebc47a84c7e32f909]
+## 316. Change of basis of accounting involving change of value[^c-438647b5c24195aebc47a84c7e32f909]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ a credit or debit (as the case may be) of an amount equal to the difference must
 
 ## Annotations
 
-[^key-438647b5c24195aebc47a84c7e32f909]: Textual amendment: S. 316 substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/10)
+[^c-438647b5c24195aebc47a84c7e32f909]: Textual amendment: S. 316 substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/10)

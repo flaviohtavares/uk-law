@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Transfer of EHC plans[^key-bd57d8a59eaec4371b466e675f77a82d][^key-78c72409f140db5e973e12e74037cc75]
+## 47. Transfer of EHC plans[^c-bd57d8a59eaec4371b466e675f77a82d][^c-78c72409f140db5e973e12e74037cc75]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bd57d8a59eaec4371b466e675f77a82d]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/6/section/47) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/889/article/3/e)
+[^c-bd57d8a59eaec4371b466e675f77a82d]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/6/section/47) in force at 1.4.2014 for specified purposes by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 3(e)](https://www.legislation.gov.uk/uksi/2014/889/article/3/e)
 
-[^key-78c72409f140db5e973e12e74037cc75]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/6/section/47) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-78c72409f140db5e973e12e74037cc75]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2014/6/section/47) in force at 1.9.2014 in so far as not already in force by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

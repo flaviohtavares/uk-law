@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 342. Commission Implementing Regulation (EU) No 970/2014: introduction[^key-d2583de7aba9bc5fc492005f2107def0]
+## 342. Commission Implementing Regulation (EU) No 970/2014: introduction[^c-d2583de7aba9bc5fc492005f2107def0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Regulation (EU) No 970/2014 of 12 September 2014 amendin
 
 ## Annotations
 
-[^key-d2583de7aba9bc5fc492005f2107def0]: Commencement: Reg. 342 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-d2583de7aba9bc5fc492005f2107def0]: Commencement: Reg. 342 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

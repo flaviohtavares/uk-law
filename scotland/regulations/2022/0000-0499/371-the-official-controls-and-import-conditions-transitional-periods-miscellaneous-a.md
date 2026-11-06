@@ -54,17 +54,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with Article 144(7) of Regulation (EU) 2017/625, before making these Regulations, the Scottish Ministers consulted such bodies or persons as appeared to them to be representative of the interests likely to be substantially affected by the regulations and such other bodies or persons as they considered appropriate.
 
-## 1. Citation and commencement[^key-9e2d43e0c3cfe87f5f07232d22fae6ce]
+## 1. Citation and commencement[^c-9e2d43e0c3cfe87f5f07232d22fae6ce]
 
 These Regulations may be cited as the Official Controls and Import Conditions (Transitional Periods) (Miscellaneous Amendment) (Scotland) Regulations 2022 and come into force on 1 January 2023.
 
-## 2. Amendment of the Official Controls (Extension of Transitional Periods) Regulations 2021[^key-ef84a1b03648edc40f12e9621ccae535]
+## 2. Amendment of the Official Controls (Extension of Transitional Periods) Regulations 2021[^c-ef84a1b03648edc40f12e9621ccae535]
 
 (1) The Official Controls (Extension of Transitional Periods) Regulations 2021[^f00003] are amended as follows.
 
 (2) In regulation 2 (end of the transitional staging period) for “31<sup>st</sup> December 2022” substitute “31 January 2024”.
 
-## 3. Amendment of Commission Decision [2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations from third countries[^key-d0bc79c03be8599c23f2d317329e8eec]
+## 3. Amendment of Commission Decision [2000/572/EC](https://www.legislation.gov.uk/european/decision/2000/0572) laying down the animal and public health and veterinary certification conditions for imports of meat preparations from third countries[^c-d0bc79c03be8599c23f2d317329e8eec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -96,10 +96,10 @@ A Business and Regulatory Impact assessment has not been produced for this instr
 
 [^f00002]: Footnote: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177). Paragraph 10A of schedule 2 was inserted by [S.S.I. 2021/138](https://www.legislation.gov.uk/ssi/2021/138).
 
-[^key-9e2d43e0c3cfe87f5f07232d22fae6ce]: Commencement: Reg. 1 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/371/regulation/1)
+[^c-9e2d43e0c3cfe87f5f07232d22fae6ce]: Commencement: Reg. 1 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/371/regulation/1)
 
-[^key-ef84a1b03648edc40f12e9621ccae535]: Commencement: Reg. 2 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/371/regulation/1)
+[^c-ef84a1b03648edc40f12e9621ccae535]: Commencement: Reg. 2 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/371/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2021/809](https://www.legislation.gov.uk/uksi/2021/809). Regulation 2 was substituted by [S.I. 2022/621](https://www.legislation.gov.uk/uksi/2022/621).
 
-[^key-d0bc79c03be8599c23f2d317329e8eec]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/371/regulation/3) revoked (30.4.2024) by [The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/81)](https://www.legislation.gov.uk/ssi/2024/81), [regs. 1](https://www.legislation.gov.uk/ssi/2024/81/regulation/1), [3(f)](https://www.legislation.gov.uk/ssi/2024/81/regulation/3/f)
+[^c-d0bc79c03be8599c23f2d317329e8eec]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/371/regulation/3) revoked (30.4.2024) by [The Meat Preparations (Import Conditions) (Scotland) Amendment Regulations 2024 (S.S.I. 2024/81)](https://www.legislation.gov.uk/ssi/2024/81), [regs. 1](https://www.legislation.gov.uk/ssi/2024/81/regulation/1), [3(f)](https://www.legislation.gov.uk/ssi/2024/81/regulation/3/f)

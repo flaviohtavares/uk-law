@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270. Interpretation[^key-f550279ef3ca84632fad2c484c7a6408]
+## 270. Interpretation[^c-f550279ef3ca84632fad2c484c7a6408]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ In this Part—
 
 ## Annotations
 
-[^key-f550279ef3ca84632fad2c484c7a6408]: Commencement: Reg. 270 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-f550279ef3ca84632fad2c484c7a6408]: Commencement: Reg. 270 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00076]: Footnote: [S.I. 2021/793](https://www.legislation.gov.uk/uksi/2021/793).

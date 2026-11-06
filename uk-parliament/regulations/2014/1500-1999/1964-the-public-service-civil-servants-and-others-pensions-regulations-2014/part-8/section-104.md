@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Meaning of “dependant’s lower tier earned pension”[^key-3702f04664bf94fe110cf5350b669e72]
+## 104. Meaning of “dependant’s lower tier earned pension”[^c-3702f04664bf94fe110cf5350b669e72]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A dependant’s lower tier earned pension is a pension payable on the death of a
 
 ## Annotations
 
-[^key-3702f04664bf94fe110cf5350b669e72]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2014/1964/regulation/104) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-3702f04664bf94fe110cf5350b669e72]: Commencement: [Reg. 104](https://www.legislation.gov.uk/uksi/2014/1964/regulation/104) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

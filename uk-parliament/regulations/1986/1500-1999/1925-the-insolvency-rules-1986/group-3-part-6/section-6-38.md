@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.38. Identification of debtor[^key-1084cf22b30cbfda43fb26ae42ee32c7]
+## 6.38. Identification of debtor[^c-1084cf22b30cbfda43fb26ae42ee32c7]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1084cf22b30cbfda43fb26ae42ee32c7]: Commencement: Rule 6.38 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-1084cf22b30cbfda43fb26ae42ee32c7]: Commencement: Rule 6.38 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

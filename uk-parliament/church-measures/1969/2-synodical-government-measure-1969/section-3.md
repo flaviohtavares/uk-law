@@ -30,7 +30,7 @@ summary: ''
 
 (7) Section 1(2) of this Measure shall apply to the functions exercisable by the General Synod under this section, and accordingly the exercise of those functions shall be subject, in particular, to Article 7 of the Constitution of the General Synod.
 
-(8)[^key-da234334e98a43da6f399a4461726992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-da234334e98a43da6f399a4461726992] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c13201561]: Marginal citation: [1963 No. 1](https://www.legislation.gov.uk/ukcm/1963/1)(21:2).
 
-[^key-da234334e98a43da6f399a4461726992]: Textual amendment: [S. 3(8)](https://www.legislation.gov.uk/ukcm/1969/2/section/3/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5
+[^c-da234334e98a43da6f399a4461726992]: Textual amendment: [S. 3(8)](https://www.legislation.gov.uk/ukcm/1969/2/section/3/8) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5

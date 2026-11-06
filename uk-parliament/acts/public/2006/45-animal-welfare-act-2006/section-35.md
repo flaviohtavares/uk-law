@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Seizure of animals in connection with disqualification[^key-5d2feff4442da180caf583891a37270c][^key-48f344514da414070cfb715f01d38699]
+## 35. Seizure of animals in connection with disqualification[^c-5d2feff4442da180caf583891a37270c][^c-48f344514da414070cfb715f01d38699]
 
 *Extent: E+W*
 
@@ -52,6 +52,6 @@ it may order that all animals he owns or keeps contrary to the disqualification 
 
 ## Annotations
 
-[^key-5d2feff4442da180caf583891a37270c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/45/section/35) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-5d2feff4442da180caf583891a37270c]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/45/section/35) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-48f344514da414070cfb715f01d38699]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/45/section/35) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-48f344514da414070cfb715f01d38699]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2006/45/section/35) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)

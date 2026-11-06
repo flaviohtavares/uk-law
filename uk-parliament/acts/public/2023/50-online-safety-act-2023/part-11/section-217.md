@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Power to impose duty about alternative dispute resolution procedure[^key-62dd5e3a6e05003c0de02957ca8452d3][^key-877eb2bb6020e9fe726f60ac7615dc15]
+## 217. Power to impose duty about alternative dispute resolution procedure[^c-62dd5e3a6e05003c0de02957ca8452d3][^c-877eb2bb6020e9fe726f60ac7615dc15]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 (5) Before making regulations under this section the Secretary of State must consult—
 
 - (a) OFCOM,
-- (b) the Information Commission[^key-9bbabb2ab72be9fa96265967c12e3fc6], and
+- (b) the Information Commission[^c-9bbabb2ab72be9fa96265967c12e3fc6], and
 - (c) such other persons as the Secretary of State considers appropriate.
 
 (6) If the power conferred by subsection (1) is exercised, the first regulations made under the power must—
@@ -61,7 +61,7 @@ summary: ''
 (9) If the power conferred by subsection (1) is exercised, the first regulations made under the power must require OFCOM to—
 
 - (a) produce and publish guidance for providers of Category 1 services to assist them in complying with the ADR duty, and
-- (b) consult the Secretary of State, the Information Commission[^key-5873155dd88eab2bac0500ed5edde065] and such other persons as OFCOM consider appropriate before producing the guidance.
+- (b) consult the Secretary of State, the Information Commission[^c-5873155dd88eab2bac0500ed5edde065] and such other persons as OFCOM consider appropriate before producing the guidance.
 
 (10) Section 204(1) applies for the purposes of the references to Category 1 services in this section.
 
@@ -71,10 +71,10 @@ summary: ''
 
 ## Annotations
 
-[^key-62dd5e3a6e05003c0de02957ca8452d3]: Commencement: S. 217 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-62dd5e3a6e05003c0de02957ca8452d3]: Commencement: S. 217 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-877eb2bb6020e9fe726f60ac7615dc15]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2023/50/section/217) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z32)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z32)
+[^c-877eb2bb6020e9fe726f60ac7615dc15]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2023/50/section/217) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z32)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z32)
 
-[^key-9bbabb2ab72be9fa96265967c12e3fc6]: Textual amendment: Words in [s. 217(5)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/217/5/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(n)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/n); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-9bbabb2ab72be9fa96265967c12e3fc6]: Textual amendment: Words in [s. 217(5)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/217/5/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(n)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/n); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-5873155dd88eab2bac0500ed5edde065]: Textual amendment: Words in [s. 217(9)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/217/9/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(n)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/n); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-5873155dd88eab2bac0500ed5edde065]: Textual amendment: Words in [s. 217(9)(b)](https://www.legislation.gov.uk/ukpga/2023/50/section/217/9/b) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 26(1)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/1)[(2)(n)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/26/2/n); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

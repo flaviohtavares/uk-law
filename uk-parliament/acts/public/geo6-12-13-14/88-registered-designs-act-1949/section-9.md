@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Exemption of innocent infringer from liability for damages.[^key-c443d36660c4b3e612f8fdf2ab2e8b0f]
+## 9. Exemption of innocent infringer from liability for damages.[^c-c443d36660c4b3e612f8fdf2ab2e8b0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c443d36660c4b3e612f8fdf2ab2e8b0f]: Textual amendment: S. 9 repealed (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/1028/schedule/4)
+[^c-c443d36660c4b3e612f8fdf2ab2e8b0f]: Textual amendment: S. 9 repealed (29.4.2006) by [Intellectual Property (Enforcement, etc) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [art. 1](https://www.legislation.gov.uk/uksi/2006/1028/article/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/1028/schedule/4)

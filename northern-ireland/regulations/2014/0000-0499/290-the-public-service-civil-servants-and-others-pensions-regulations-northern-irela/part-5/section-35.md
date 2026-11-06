@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Calculation of amount of accrued pension for purpose of deferment or full retirement[^key-217f57fd30954be653a559f93e3e4437]
+## 35. Calculation of amount of accrued pension for purpose of deferment or full retirement[^c-217f57fd30954be653a559f93e3e4437]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-217f57fd30954be653a559f93e3e4437]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2014/290/regulation/35) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-217f57fd30954be653a559f93e3e4437]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2014/290/regulation/35) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

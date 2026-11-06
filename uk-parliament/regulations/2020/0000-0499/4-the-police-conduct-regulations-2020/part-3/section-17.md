@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Written notices[^key-740d00407312ec271e10c8d9838d4d6e]
+## 17. Written notices[^c-740d00407312ec271e10c8d9838d4d6e]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the conduct that is the subject matter of the allegation and how that conduct is alleged to fall below the Standards of Professional Behaviour;
 - (b) that there is to be an investigation into the matter and the identity of the investigator;
 - (c) the result of the severity assessment conducted under regulation 14;
-- (ca)[^key-175cc17dc14977b35d32f93862cacc7b] where relevant, that if, after the day on which the officer is given the written notice, the officer is charged with an offence listed in Schedule 3 in connection with the conduct that is the subject matter of the allegation, or with attempt or conspiracy to commit such an offence, the officer will be automatically suspended upon notification of the charge;
+- (ca)[^c-175cc17dc14977b35d32f93862cacc7b] where relevant, that if, after the day on which the officer is given the written notice, the officer is charged with an offence listed in Schedule 3 in connection with the conduct that is the subject matter of the allegation, or with attempt or conspiracy to commit such an offence, the officer will be automatically suspended upon notification of the charge;
 - (d) the result of any assessment under regulation 14(5)(b) as to whether any misconduct proceedings would likely be a misconduct meeting or a misconduct hearing;
 - (e) that if the officer is dismissed at misconduct proceedings, information including the officer's full name and a description of the conduct which led to dismissal will be added to the police barred list and may be subject to publication for a period of up to 5 years;
 - (f) that the officer has the right to seek advice from the officer's staff association or any other body and of the effect of regulation 7(1) and (2);
@@ -59,6 +59,6 @@ might prejudice the investigation or any other investigation (including, in part
 
 ## Annotations
 
-[^key-740d00407312ec271e10c8d9838d4d6e]: Commencement: Reg. 17 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-740d00407312ec271e10c8d9838d4d6e]: Commencement: Reg. 17 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-175cc17dc14977b35d32f93862cacc7b]: Textual amendment: [Reg. 17(1)(ca)](https://www.legislation.gov.uk/uksi/2020/4/regulation/17/1/ca) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/653/regulation/6) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))
+[^c-175cc17dc14977b35d32f93862cacc7b]: Textual amendment: [Reg. 17(1)(ca)](https://www.legislation.gov.uk/uksi/2020/4/regulation/17/1/ca) inserted (13.7.2026) by [The Police (Conduct and Vetting etc.) (Amendment) Regulations 2026 (S.I. 2026/653)](https://www.legislation.gov.uk/uksi/2026/653), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/653/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2026/653/regulation/6) (with [reg. 27](https://www.legislation.gov.uk/uksi/2026/653/regulation/27))

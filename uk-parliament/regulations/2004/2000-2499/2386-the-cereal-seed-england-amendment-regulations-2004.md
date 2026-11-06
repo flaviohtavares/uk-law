@@ -32,7 +32,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Cereal Seed (England) (Amendment) Regulations 2004 (revoked)[^key-c289b97eb1919deeebeb72ca2af8c0b6]
+The Cereal Seed (England) (Amendment) Regulations 2004 (revoked)[^c-c289b97eb1919deeebeb72ca2af8c0b6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 8th October 2004
 
-[^key-c289b97eb1919deeebeb72ca2af8c0b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c289b97eb1919deeebeb72ca2af8c0b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-c289b97eb1919deeebeb72ca2af8c0b6]
+## 1. Title and commencement[^c-c289b97eb1919deeebeb72ca2af8c0b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Cereal Seed (England) Regulations 2002[^key-c289b97eb1919deeebeb72ca2af8c0b6]
+## 2. Amendment of the Cereal Seed (England) Regulations 2002[^c-c289b97eb1919deeebeb72ca2af8c0b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c289b97eb1919deeebeb72ca2af8c0b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c289b97eb1919deeebeb72ca2af8c0b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c289b97eb1919deeebeb72ca2af8c0b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c289b97eb1919deeebeb72ca2af8c0b6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c289b97eb1919deeebeb72ca2af8c0b6]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(i)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/i)
+[^c-c289b97eb1919deeebeb72ca2af8c0b6]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(i)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/i)

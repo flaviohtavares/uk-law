@@ -36,10 +36,10 @@ summary: ''
 
 (5) This regulation is subject to—
 
-- (za)[^key-43412826f2b3547556318d3d21b24a2b] regulation 65B;
+- (za)[^c-43412826f2b3547556318d3d21b24a2b] regulation 65B;
 - (a) regulation 67 (failure to place on the market etc); and
 - (b) regulation 68 (revocation etc of marketing authorisations).
 
 ## Annotations
 
-[^key-43412826f2b3547556318d3d21b24a2b]: Textual amendment: [Reg. 65(5)(za)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/65/5/za) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [71](https://www.legislation.gov.uk/uksi/2019/775/regulation/71); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43412826f2b3547556318d3d21b24a2b]: Textual amendment: [Reg. 65(5)(za)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/65/5/za) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [71](https://www.legislation.gov.uk/uksi/2019/775/regulation/71); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

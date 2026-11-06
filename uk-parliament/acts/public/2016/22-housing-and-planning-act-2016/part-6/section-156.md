@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Local planning authorities: information about neighbourhood development plans[^key-f7a03fd389937a9a13d7366fa55ef0fa]
+## 156. Local planning authorities: information about neighbourhood development plans[^c-f7a03fd389937a9a13d7366fa55ef0fa]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ After section 75ZA of the Town and Country Planning Act 1990 (inserted by sectio
 
 ## Annotations
 
-[^key-f7a03fd389937a9a13d7366fa55ef0fa]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2016/22/section/156) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/g) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/2))
+[^c-f7a03fd389937a9a13d7366fa55ef0fa]: Commencement: [S. 156](https://www.legislation.gov.uk/ukpga/2016/22/section/156) in force at 1.10.2016 by [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 4(1)(g)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/1/g) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/733/regulation/4/2))

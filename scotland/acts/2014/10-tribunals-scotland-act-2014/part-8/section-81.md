@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Transitional and consequential[^key-9411256e5461149b2636d792e6af18b2]
+## 81. Transitional and consequential[^c-9411256e5461149b2636d792e6af18b2]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ For the purposes of or in connection with this Act, schedule 9 contains—
 
 ## Annotations
 
-[^key-9411256e5461149b2636d792e6af18b2]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2014/10/section/81) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-9411256e5461149b2636d792e6af18b2]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2014/10/section/81) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

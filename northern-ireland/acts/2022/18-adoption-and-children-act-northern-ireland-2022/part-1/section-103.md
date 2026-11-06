@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 103. Proceedings for offences[^key-cb4cfedc52d58c3bed974d5307965367]
+## 103. Proceedings for offences[^c-cb4cfedc52d58c3bed974d5307965367]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Proceedings for an offence by virtue of section 9 or 58 may not, without the con
 
 ## Annotations
 
-[^key-cb4cfedc52d58c3bed974d5307965367]: Commencement: S. 103 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-cb4cfedc52d58c3bed974d5307965367]: Commencement: S. 103 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

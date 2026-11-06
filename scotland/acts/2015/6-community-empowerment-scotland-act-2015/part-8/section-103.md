@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Guidance about common good registers[^key-ad272d82cf4a143aa840e90476b1a81c]
+## 103. Guidance about common good registers[^c-ad272d82cf4a143aa840e90476b1a81c]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad272d82cf4a143aa840e90476b1a81c]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2015/6/section/103) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)
+[^c-ad272d82cf4a143aa840e90476b1a81c]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2015/6/section/103) in force at 13.11.2015 by [S.S.I. 2015/358](https://www.legislation.gov.uk/ssi/2015/358), [art. 2](https://www.legislation.gov.uk/ssi/2015/358/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/358/schedule)

@@ -26,9 +26,9 @@ summary: ''
 
 - (a) to an order under section ... 93(6), 165, 167, 181 or 185, paragraph 10 of Schedule 1 or paragraph 6 of Schedule 3;
 - (b) to regulations under section 119, 122 or 158; or
-- (c) to any regulations to which section 16A(7) or[^key-85f35b19311f75d9223198a36c82e9ae] 172(3) applies.
+- (c) to any regulations to which section 16A(7) or[^c-85f35b19311f75d9223198a36c82e9ae] 172(3) applies.
 
-(3) Subsection (1) applies subject to sections 32(3) and[^key-dd3ac9279483d6a5117c34c43244890b] 182(4).
+(3) Subsection (1) applies subject to sections 32(3) and[^c-dd3ac9279483d6a5117c34c43244890b] 182(4).
 
 (4) Before making any regulations under section 64, 66, 68, 119, 122, 157, 158 or 167 or Schedule 6 the Department shall consult such persons or bodies of persons as it considers appropriate.
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85f35b19311f75d9223198a36c82e9ae]: Textual amendment: Words in [s. 179(2)(c)](https://www.legislation.gov.uk/nia/2008/12/section/179/2/c) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [s. 3](https://www.legislation.gov.uk/nia/2022/11/section/3) [(6)](https://www.legislation.gov.uk/nia/2022/11/section/3/6)
+[^c-85f35b19311f75d9223198a36c82e9ae]: Textual amendment: Words in [s. 179(2)(c)](https://www.legislation.gov.uk/nia/2008/12/section/179/2/c) inserted (30.3.2022) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [s. 3](https://www.legislation.gov.uk/nia/2022/11/section/3) [(6)](https://www.legislation.gov.uk/nia/2022/11/section/3/6)
 
-[^key-dd3ac9279483d6a5117c34c43244890b]: Textual amendment: Words in [s. 179(3)](https://www.legislation.gov.uk/nia/2008/12/section/179/3) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 25(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/25/3)
+[^c-dd3ac9279483d6a5117c34c43244890b]: Textual amendment: Words in [s. 179(3)](https://www.legislation.gov.uk/nia/2008/12/section/179/3) substituted (19.1.2013) by [Charities Act (Northern Ireland) 2013 (c. 3)](https://www.legislation.gov.uk/nia/2013/3), [s. 10(1)](https://www.legislation.gov.uk/nia/2013/3/section/10/1), [Sch. 1 para. 25(3)](https://www.legislation.gov.uk/nia/2013/3/schedule/1/paragraph/25/3)

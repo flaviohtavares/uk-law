@@ -53,13 +53,13 @@ Whereas the measures provided for in this Decision are in accordance with the op
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** (1.)[^key-fc95d08d797054ec9a2672358518b86b] The sampling levels and frequencies for the monitoring of certain substances and residues thereof in milk, eggs, rabbit meat and the meat of wild game and farmed game and honey are set out in the Annex to this Decision, which supplements the sampling levels and frequencies set out in Annex IV to [Directive 96/23/EC](https://www.legislation.gov.uk/eudr/1996/23).
+**Article 1.** (1.)[^c-fc95d08d797054ec9a2672358518b86b] The sampling levels and frequencies for the monitoring of certain substances and residues thereof in milk, eggs, rabbit meat and the meat of wild game and farmed game and honey are set out in the Annex to this Decision, which supplements the sampling levels and frequencies set out in Annex IV to [Directive 96/23/EC](https://www.legislation.gov.uk/eudr/1996/23).
 
-(2.)[^key-879a03d17c72798f2488c64622fc8489] In this Decision, “competent authority” has the meaning given in Article 3(3) of Regulation (EU) 2017/625.
+(2.)[^c-879a03d17c72798f2488c64622fc8489] In this Decision, “competent authority” has the meaning given in Article 3(3) of Regulation (EU) 2017/625.
 
-**Article 2.**[^key-9863f0e79c3796512e0b1a3a2e2cd469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9863f0e79c3796512e0b1a3a2e2cd469] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-aa61207fc025e0276298761df33879df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-aa61207fc025e0276298761df33879df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 27 October 1997.
 
@@ -80,7 +80,7 @@ A.
 Sampling requirements
 
 - Each official sample must be taken by the official competent authorities in such way that it is always possible to trace it back to the farm of origin of the milk.
-- The samples, according to the choice of the competent authority[^key-2014dfd68f239073e2b5c6cb03a95c33], can be taken:
+- The samples, according to the choice of the competent authority[^c-2014dfd68f239073e2b5c6cb03a95c33], can be taken:
   - (a) either at farm level from the collection tank,
   - (b) or at the level of the dairy industry before the bulk tanker has discharged.
 - Derogation from the above principle of traceability to the farm of origin can be accepted for the substances or residues designated in Annex I group B 3 (a), (b) and (c) of [Council Directive 96/23/EC](https://www.legislation.gov.uk/eudr/1996/23).
@@ -98,11 +98,11 @@ The following breakdown must be respected:
 
 - (a) 70 % of the samples must be examined for the presence of residues of veterinary drugs. In this case, each sample has to be tested for at least four different compounds from at least three groups among groups A 6, B 1, B 2 (a) and B 2 (e) of Annex I to the Directive.
 - (b) 15 % of the samples must be tested for the presence of residues designated in group B 3 of Annex I to [Directive 96/23/EC](https://www.legislation.gov.uk/eudr/1996/23).
-- (c) The balance (15 %) must be allocated according to the situation of the relevant constituent territory of Great Britain[^key-cdd1db324e437ab572236afe7839ec2e] .
+- (c) The balance (15 %) must be allocated according to the situation of the relevant constituent territory of Great Britain[^c-cdd1db324e437ab572236afe7839ec2e] .
 
 #### 2. — Milk from other species (ovine, caprine, equine)
 
-The number of samples for these species must be determined by each competent authority[^key-d7ad4734f5ce02a6403609e813cfba9a] according to the level of production and the problems identified. The milk from these species must be included in the sampling plan as additional samples to those taken for bovine milk.
+The number of samples for these species must be determined by each competent authority[^c-d7ad4734f5ce02a6403609e813cfba9a] according to the level of production and the problems identified. The milk from these species must be included in the sampling plan as additional samples to those taken for bovine milk.
 
 ### CHAPTER 2 — EGGS
 
@@ -113,7 +113,7 @@ A.
 Sampling requirements
 
 - Each official sample must be taken by official competent authorities in such way that it is always possible to trace it back to the farm of origin of the eggs.
-- The samples, according to the choice of the competent authority[^key-2db959aa198b499edae3bd769ee6a1cd], can be taken:
+- The samples, according to the choice of the competent authority[^c-2db959aa198b499edae3bd769ee6a1cd], can be taken:
   - (a) either at farm level;
   - (b) or at the level of the packing centre.
 - The sample size is at least 12 eggs or more, according to the analytical methods used.
@@ -122,18 +122,18 @@ B.
 
 Sampling level and frequency
 
-The number of samples to be taken each year must be at least equal to 1 per 1 000 tonnes of the annual production of consumption eggs, with a minimum of 200 samples. The breakdown of samples may be decided by the competent authority of the relevant constituent territory of Great Britain[^key-ab9e8c530a0803eebd5373b43a3eb6a4] according to the structure of its industry, particularly as regards levels of integration within it.
+The number of samples to be taken each year must be at least equal to 1 per 1 000 tonnes of the annual production of consumption eggs, with a minimum of 200 samples. The breakdown of samples may be decided by the competent authority of the relevant constituent territory of Great Britain[^c-ab9e8c530a0803eebd5373b43a3eb6a4] according to the structure of its industry, particularly as regards levels of integration within it.
 
 At least 30 % of samples must be collected from packing centres which represent the most significant proportion of eggs supplied for human consumption.
 
 The following breakdown must be respected:
 
 - 70 % of the samples must be tested for at least one compound from each following group: groups A 6, B 1 and B 2 (b) mentioned in Annex II to [Directive 96/23/EC](https://www.legislation.gov.uk/eudr/1996/23).
-- 30 % of the samples must be allocated according to the situation in the relevant constituent territory of Great Britain[^key-c8b639007e211e0590fd2f7cb6135e1c], but must include some analyses for substances in Group B 3 (a) of Annex I.
+- 30 % of the samples must be allocated according to the situation in the relevant constituent territory of Great Britain[^c-c8b639007e211e0590fd2f7cb6135e1c], but must include some analyses for substances in Group B 3 (a) of Annex I.
 
 #### 2. — Eggs from other species of poultry
 
-The number of samples for these species is to be determined by the competent authority[^key-dee744ffd6c2db0054ef7129e038148e] according to the level of production and the problems identified. The eggs from these species must be included in the sampling plan as additional samples to those taken for hen eggs.
+The number of samples for these species is to be determined by the competent authority[^c-dee744ffd6c2db0054ef7129e038148e] according to the level of production and the problems identified. The eggs from these species must be included in the sampling plan as additional samples to those taken for hen eggs.
 
 ### CHAPTER 3 — RABBIT MEAT AND THE MEAT OF WILD GAME AND FARMED GAME
 
@@ -146,11 +146,11 @@ Sampling requirements
 One sample consists of one or more animals from the same producer, according to the requirements of the analytical methods.
 
 - Each official sample must be taken by official competent authorities in such way that it is always possible to trace it back to the farm of origin of the rabbits.
-- The samples, according to the structure of the rabbit production in each relevant constituent territory of Great Britain[^key-fd0f199827bc8a2cc5de9f4fc8deecb1], can be taken:
+- The samples, according to the structure of the rabbit production in each relevant constituent territory of Great Britain[^c-fd0f199827bc8a2cc5de9f4fc8deecb1], can be taken:
   - (a) either at farm level,
   - (b) or at the level of the registered slaughterhouses (within the meaning of [Council Directive 91/495/EEC](https://www.legislation.gov.uk/eudr/1991/495)[^f00004]).
 
-[^key-15ff8bbef34387a0f732f27143c8691e]... Some additional samples of drinking water and feedingstuffs may be taken at farm level, for the control of illegal substances.
+[^c-15ff8bbef34387a0f732f27143c8691e]... Some additional samples of drinking water and feedingstuffs may be taken at farm level, for the control of illegal substances.
 
 B.
 
@@ -187,7 +187,7 @@ The sample size will depend on the analytical method used.
 
 The samples must be taken at the processing unit level. It must be possible to trace the animals or their meat back to the farm of origin.
 
-[^key-15ff8bbef34387a0f732f27143c8691e]... Some additional samples of drinking water and feedingstuffs may be taken at farm level, for the control of illegal substances.
+[^c-15ff8bbef34387a0f732f27143c8691e]... Some additional samples of drinking water and feedingstuffs may be taken at farm level, for the control of illegal substances.
 
 B.
 
@@ -212,9 +212,9 @@ The following breakdown must be respected:
 
   30 % must be checked for Group B 3 substances.
 
-The balance (10 %) will be allocated according to the experience of the competent authority[^key-86fd65807c9a79b641acc338709ebdc5].
+The balance (10 %) will be allocated according to the experience of the competent authority[^c-86fd65807c9a79b641acc338709ebdc5].
 
-[^key-773058332d859facdba0227443cf4f40]...
+[^c-773058332d859facdba0227443cf4f40]...
 
 #### 3. — Wild game
 
@@ -236,7 +236,7 @@ The number of samples to be taken each year must at least be equal to 100 sample
 
 These samples must be taken to analyse residues of chemical elements.
 
-[^key-eea4707bd75a0163a32f0fb0553ad368]...
+[^c-eea4707bd75a0163a32f0fb0553ad368]...
 
 ### CHAPTER 4 — HONEY
 
@@ -259,7 +259,7 @@ The following breakdown must be respected:
 - Group B 1 and Group B 2 (c): 50 % of the total number of samples,
 - Group B 3 (a), (b) and (c): 40 % of the total number of samples.
 
-The balance (10 %) must be allocated according to the experience of the competent authority[^key-2c2ddf88701634cd8a36b220d3c7fda2]. In particular, consideration could be given to mycotoxins.
+The balance (10 %) must be allocated according to the experience of the competent authority[^c-2c2ddf88701634cd8a36b220d3c7fda2]. In particular, consideration could be given to mycotoxins.
 
 ## Annotations
 
@@ -269,38 +269,38 @@ The balance (10 %) must be allocated according to the experience of the competen
 
 [^f00003]: Footnote: OJ L 162, 1. 7. 1996, p. 1.
 
-[^key-fc95d08d797054ec9a2672358518b86b]: Textual amendment: Art 1 renumbered as Art. 1(1) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/2/a)
+[^c-fc95d08d797054ec9a2672358518b86b]: Textual amendment: Art 1 renumbered as Art. 1(1) (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/2/a)
 
-[^key-879a03d17c72798f2488c64622fc8489]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/1997/747/article/1/2) inserted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/2/b)
+[^c-879a03d17c72798f2488c64622fc8489]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eudn/1997/747/article/1/2) inserted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/2/b)
 
-[^key-9863f0e79c3796512e0b1a3a2e2cd469]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/1997/747/article/2) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/3)
+[^c-9863f0e79c3796512e0b1a3a2e2cd469]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/1997/747/article/2) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/3)
 
-[^key-aa61207fc025e0276298761df33879df]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/1997/747/article/3) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/3)
+[^c-aa61207fc025e0276298761df33879df]: Textual amendment: [Art. 3](https://www.legislation.gov.uk/eudn/1997/747/article/3) omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/3)
 
-[^key-2014dfd68f239073e2b5c6cb03a95c33]: Textual amendment: Words in [Annex Ch. 1](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/1) point 1 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/a/i/aa)
+[^c-2014dfd68f239073e2b5c6cb03a95c33]: Textual amendment: Words in [Annex Ch. 1](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/1) point 1 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/a/i/aa)
 
-[^key-cdd1db324e437ab572236afe7839ec2e]: Textual amendment: Words in [Annex Ch. 1](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/1) point 1 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/a/i/bb)
+[^c-cdd1db324e437ab572236afe7839ec2e]: Textual amendment: Words in [Annex Ch. 1](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/1) point 1 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(a)(i)(bb)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/a/i/bb)
 
-[^key-d7ad4734f5ce02a6403609e813cfba9a]: Textual amendment: Words in [Annex Ch. 1](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/1) point 2 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/a/ii)
+[^c-d7ad4734f5ce02a6403609e813cfba9a]: Textual amendment: Words in [Annex Ch. 1](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/1) point 2 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/a/ii)
 
-[^key-2db959aa198b499edae3bd769ee6a1cd]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/2) point 1.A substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/b/i)
+[^c-2db959aa198b499edae3bd769ee6a1cd]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/2) point 1.A substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/b/i)
 
-[^key-ab9e8c530a0803eebd5373b43a3eb6a4]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/2) point 1.B substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/b/ii/aa)
+[^c-ab9e8c530a0803eebd5373b43a3eb6a4]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/2) point 1.B substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/b/ii/aa)
 
-[^key-c8b639007e211e0590fd2f7cb6135e1c]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/2) point 1.B substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/b/ii/bb)
+[^c-c8b639007e211e0590fd2f7cb6135e1c]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/2) point 1.B substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/b/ii/bb)
 
-[^key-dee744ffd6c2db0054ef7129e038148e]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/2) point 2 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/b/iii)
+[^c-dee744ffd6c2db0054ef7129e038148e]: Textual amendment: Words in [Annex Ch. 2](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/2) point 2 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/b/iii)
 
-[^key-fd0f199827bc8a2cc5de9f4fc8deecb1]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) point 1 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/i)
+[^c-fd0f199827bc8a2cc5de9f4fc8deecb1]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) point 1 substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(i)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/i)
 
 [^f00004]: Footnote: OJ L 268, 24. 9. 1991, p. 41.
 
-[^key-15ff8bbef34387a0f732f27143c8691e]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) points 1.A, 2.A omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/ii)
+[^c-15ff8bbef34387a0f732f27143c8691e]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) points 1.A, 2.A omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(ii)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/ii)
 
-[^key-86fd65807c9a79b641acc338709ebdc5]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) point 2.B substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/iii/aa)
+[^c-86fd65807c9a79b641acc338709ebdc5]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) point 2.B substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/iii/aa)
 
-[^key-773058332d859facdba0227443cf4f40]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) point 2.B omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/iii/bb)
+[^c-773058332d859facdba0227443cf4f40]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) point 2.B omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/iii/bb)
 
-[^key-eea4707bd75a0163a32f0fb0553ad368]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) point 3 omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(iv)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/iv)
+[^c-eea4707bd75a0163a32f0fb0553ad368]: Textual amendment: Words in [Annex Ch. 3](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/3) point 3 omitted (16.11.2022) by virtue of [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(c)(iv)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/c/iv)
 
-[^key-2c2ddf88701634cd8a36b220d3c7fda2]: Textual amendment: Words in [Annex Ch. 4](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/4) substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/d)
+[^c-2c2ddf88701634cd8a36b220d3c7fda2]: Textual amendment: Words in [Annex Ch. 4](https://www.legislation.gov.uk/eudn/1997/747/annex/chapter/4) substituted (16.11.2022) by [The Animals, Food, Plant Health, Plant Propagating Material and Seeds (Miscellaneous Amendments etc.) Regulations 2022 (S.I. 2022/1090)](https://www.legislation.gov.uk/uksi/2022/1090), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/1/1), [4(4)(d)](https://www.legislation.gov.uk/uksi/2022/1090/regulation/4/4/d)

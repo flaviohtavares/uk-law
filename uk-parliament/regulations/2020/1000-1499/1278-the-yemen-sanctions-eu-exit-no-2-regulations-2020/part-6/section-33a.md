@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33A. Director disqualification licences[^key-40cf303e3b9a96d155908591f4e368a2]
+## 33A. Director disqualification licences[^c-40cf303e3b9a96d155908591f4e368a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ do not apply to anything done under the authority of that licence.
 
 ## Annotations
 
-[^key-40cf303e3b9a96d155908591f4e368a2]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/2020/1278/regulation/33A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2024/644/regulation/16/5)
+[^c-40cf303e3b9a96d155908591f4e368a2]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/2020/1278/regulation/33A) inserted (5.6.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2024 (S.I. 2024/644)](https://www.legislation.gov.uk/uksi/2024/644), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/644/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2024/644/regulation/16/5)

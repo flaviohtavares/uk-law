@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**76.**[^key-d2b8fa2d2d88542afd9170567275f12e] In section 23C(5B)[^f00088] (continuing functions in respect of former relevant children) for “appropriate national authority” substitute “Secretary of State”.
+**76.**[^c-d2b8fa2d2d88542afd9170567275f12e] In section 23C(5B)[^f00088] (continuing functions in respect of former relevant children) for “appropriate national authority” substitute “Secretary of State”.
 
 ## Annotations
 
-[^key-d2b8fa2d2d88542afd9170567275f12e]: Commencement: Reg. 76 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-d2b8fa2d2d88542afd9170567275f12e]: Commencement: Reg. 76 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00088]: Footnote: Section 22C was inserted by the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35), section 2(1) and (4); subsections (5A) to (5C) were inserted by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), section 21(1) and (2).

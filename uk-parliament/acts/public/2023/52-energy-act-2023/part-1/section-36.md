@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Functions under the Enterprise Act 2002[^key-1a1bad618ea74b2d876ea12cd209a1a4]
+## 36. Functions under the Enterprise Act 2002[^c-1a1bad618ea74b2d876ea12cd209a1a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ and the group must, for the purposes of carrying out any such investigation, tak
 
 ## Annotations
 
-[^key-1a1bad618ea74b2d876ea12cd209a1a4]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/52/section/36) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-1a1bad618ea74b2d876ea12cd209a1a4]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2023/52/section/36) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

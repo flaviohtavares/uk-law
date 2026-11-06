@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 917. Supplementary[^key-99a3dd1d98b7a125addf90d52eae3a49]
+## 917. Supplementary[^c-99a3dd1d98b7a125addf90d52eae3a49]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99a3dd1d98b7a125addf90d52eae3a49]: Textual amendment: Ss. 914-917 and cross-heading repealed (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/1/b)
+[^c-99a3dd1d98b7a125addf90d52eae3a49]: Textual amendment: Ss. 914-917 and cross-heading repealed (with effect in accordance with s. 34(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 34(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/34/1/b)

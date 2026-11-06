@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 313. Display of advertisements on operational land[^key-b13feeeb249ea44e38065d575086de17]
+## 313. Display of advertisements on operational land[^c-b13feeeb249ea44e38065d575086de17]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Sections 309 to 312 do not apply in relation to the display of advertisements on
 
 ## Annotations
 
-[^key-b13feeeb249ea44e38065d575086de17]: Commencement: S. 313 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-b13feeeb249ea44e38065d575086de17]: Commencement: S. 313 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

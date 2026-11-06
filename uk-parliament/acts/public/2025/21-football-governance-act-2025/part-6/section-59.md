@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Decisions by the IFR on applications under section 57[^key-bdf07a620aea7aa5dd66d899d39d9752][^key-85620e0ce0cd46aed753305ee33e495a]
+## 59. Decisions by the IFR on applications under section 57[^c-bdf07a620aea7aa5dd66d899d39d9752][^c-85620e0ce0cd46aed753305ee33e495a]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bdf07a620aea7aa5dd66d899d39d9752]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-bdf07a620aea7aa5dd66d899d39d9752]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-85620e0ce0cd46aed753305ee33e495a]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2025/21/section/59) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/iv)
+[^c-85620e0ce0cd46aed753305ee33e495a]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2025/21/section/59) in force at 29.10.2026 in so far as not already in force by [S.I. 2026/1135](https://www.legislation.gov.uk/uksi/2026/1135), [reg. 2(1)(a)(iv)](https://www.legislation.gov.uk/uksi/2026/1135/regulation/2/1/a/iv)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81. Charges for regulatory functions of the Scottish Ministers[^key-046f1c4d761d4cb8c6244ada8a255db8]
+## 81. Charges for regulatory functions of the Scottish Ministers[^c-046f1c4d761d4cb8c6244ada8a255db8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-046f1c4d761d4cb8c6244ada8a255db8]: Textual amendment: Ss. 79-82 repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 7(5)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/7/5); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
+[^c-046f1c4d761d4cb8c6244ada8a255db8]: Textual amendment: Ss. 79-82 repealed (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [s. 166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2), [sch. 2 para. 7(5)](https://www.legislation.gov.uk/asp/2010/17/schedule/2/paragraph/7/5); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)

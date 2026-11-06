@@ -36,56 +36,56 @@ on the design of the common logo to identify persons offering medicinal products
 
 (Text with EEA relevance) (revoked)
 
-[^key-918b032e8c67a5436869069ff260aa5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-918b032e8c67a5436869069ff260aa5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-918b032e8c67a5436869069ff260aa5e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-918b032e8c67a5436869069ff260aa5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-918b032e8c67a5436869069ff260aa5e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-918b032e8c67a5436869069ff260aa5e]
+## ANNEX[^c-918b032e8c67a5436869069ff260aa5e]
 
-[^key-918b032e8c67a5436869069ff260aa5e]1.
+[^c-918b032e8c67a5436869069ff260aa5e]1.
 
 The model referred to in Article 1 for the common logo is the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-918b032e8c67a5436869069ff260aa5e]2.
+[^c-918b032e8c67a5436869069ff260aa5e]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-918b032e8c67a5436869069ff260aa5e]3.
+[^c-918b032e8c67a5436869069ff260aa5e]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-918b032e8c67a5436869069ff260aa5e]4.
+[^c-918b032e8c67a5436869069ff260aa5e]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-918b032e8c67a5436869069ff260aa5e]5.
+[^c-918b032e8c67a5436869069ff260aa5e]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-918b032e8c67a5436869069ff260aa5e]6.
+[^c-918b032e8c67a5436869069ff260aa5e]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-918b032e8c67a5436869069ff260aa5e]7.
+[^c-918b032e8c67a5436869069ff260aa5e]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-918b032e8c67a5436869069ff260aa5e]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(ff)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/ff) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-918b032e8c67a5436869069ff260aa5e]: Textual amendment: Regulation revoked (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 9 para. 1(ff)](https://www.legislation.gov.uk/uksi/2019/775/schedule/9/paragraph/1/ff) (subject to transitional provisions in [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [Sch. 33A](https://www.legislation.gov.uk/uksi/2012/1916/schedule/33A)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

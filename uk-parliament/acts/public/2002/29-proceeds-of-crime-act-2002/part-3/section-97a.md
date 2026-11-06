@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97A. Application of receipts: restitution order and victim surcharge[^key-9bc1af758258c5fcd8bfa295bfee8105]
+## 97A. Application of receipts: restitution order and victim surcharge[^c-9bc1af758258c5fcd8bfa295bfee8105]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bc1af758258c5fcd8bfa295bfee8105]: Textual amendment: [S. 97A](https://www.legislation.gov.uk/ukpga/2002/29/section/97A) inserted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/15/2), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/a)
+[^c-9bc1af758258c5fcd8bfa295bfee8105]: Textual amendment: [S. 97A](https://www.legislation.gov.uk/ukpga/2002/29/section/97A) inserted (25.11.2019 for specified purposes, 10.2.2021 in so far as not already in force) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/15/2), [88(2)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/2/a); [S.S.I. 2019/281](https://www.legislation.gov.uk/ssi/2019/281), [reg. 2](https://www.legislation.gov.uk/ssi/2019/281/regulation/2); [S.S.I. 2020/407](https://www.legislation.gov.uk/ssi/2020/407), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2020/407/regulation/2/1/a)

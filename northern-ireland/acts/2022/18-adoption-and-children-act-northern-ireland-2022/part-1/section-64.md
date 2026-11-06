@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Sections 55 to 64: interpretation[^key-dae4e3e56698d1d682b717ee153bcd6f]
+## 64. Sections 55 to 64: interpretation[^c-dae4e3e56698d1d682b717ee153bcd6f]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ In this group of sections—
 
 ## Annotations
 
-[^key-dae4e3e56698d1d682b717ee153bcd6f]: Commencement: S. 64 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-dae4e3e56698d1d682b717ee153bcd6f]: Commencement: S. 64 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

@@ -157,9 +157,9 @@ that person is deemed (if not previously discharged) to be discharged from his b
 
 ### PART III — OTHER TRANSITIONAL PROVISIONS AND SAVINGS
 
-#### ...[^key-6583d3808c3de0145853b5d1ef80a5b4]
+#### ...[^c-6583d3808c3de0145853b5d1ef80a5b4]
 
-**17.**[^key-6583d3808c3de0145853b5d1ef80a5b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-6583d3808c3de0145853b5d1ef80a5b4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Insolvency practitioners
 
@@ -221,7 +221,7 @@ and any rights, priorities, liabilities, reliefs, obligations, requirements, pow
 
 [^c17608601]: Textual amendment: [1872 c. 57](https://www.legislation.gov.uk/ukpga/1872/57)
 
-[^key-6583d3808c3de0145853b5d1ef80a5b4]: Textual amendment: [Sch. 8 para. 17 and cross-heading](https://www.legislation.gov.uk/nisi/1989/2405/schedule/8/part/III/crossheading/deeds-of-arrangement) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-6583d3808c3de0145853b5d1ef80a5b4]: Textual amendment: [Sch. 8 para. 17 and cross-heading](https://www.legislation.gov.uk/nisi/1989/2405/schedule/8/part/III/crossheading/deeds-of-arrangement) repealed (1.4.2016) by [Insolvency (Amendment) Act (Northern Ireland) 2016 (c. 2)](https://www.legislation.gov.uk/nia/2016/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2016/2/section/28/2), [Sch. 4](https://www.legislation.gov.uk/nia/2016/2/schedule/4); [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
 
 [^c17608611]: Textual amendment: [1954 c. 33 (NI)](https://www.legislation.gov.uk/apni/1954/33)
 

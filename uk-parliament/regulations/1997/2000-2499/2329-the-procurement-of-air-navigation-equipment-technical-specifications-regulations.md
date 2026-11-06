@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State for Transport, being a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to matters relating to air transport, in exercise of the powers conferred by that section hereby makes the following Regulations:—
 
-**1.**[^key-97444e1fdc477d6cae7cbed07670c8e2] These Regulations may be cited as the Procurement of Air Navigation Equipment (Technical Specifications) Regulations 1997 and shall come into force on 1st December 1997.
+**1.**[^c-97444e1fdc477d6cae7cbed07670c8e2] These Regulations may be cited as the Procurement of Air Navigation Equipment (Technical Specifications) Regulations 1997 and shall come into force on 1st December 1997.
 
-**2.**[^key-75ee9abafaa5aa04892093beefc6693d] (1) In these Regulations “the Directive” means Council Directive [93/65/EEC](https://www.legislation.gov.uk/european/directive/1993/0065) on the definition and use of compatible technical specifications for the procurement of air navigation equipment[^f00003].
+**2.**[^c-75ee9abafaa5aa04892093beefc6693d] (1) In these Regulations “the Directive” means Council Directive [93/65/EEC](https://www.legislation.gov.uk/european/directive/1993/0065) on the definition and use of compatible technical specifications for the procurement of air navigation equipment[^f00003].
 
 (2) These Regulations shall have effect for the purpose of making such provision as is necessary to comply with the Directive and shall be construed accordingly.
 
-**3.**[^key-32e0bd406d6ddb9eca2e776e4a9c9847] These Regulations shall apply in any case in which National Air Traffic Services Ltd seeks the supply of or seeks offers for the supply of air navigation equipment in respect of which any of the Eurocontrol standards listed in the Schedule apply.
+**3.**[^c-32e0bd406d6ddb9eca2e776e4a9c9847] These Regulations shall apply in any case in which National Air Traffic Services Ltd seeks the supply of or seeks offers for the supply of air navigation equipment in respect of which any of the Eurocontrol standards listed in the Schedule apply.
 
-**4.**[^key-b0c80555eb4337ccafb50b62df903bb5] In any case in which these Regulations apply National Air Traffic Services Ltd shall, in the general documents or specifications relating to each contract for the purchase of air navigation equipment, refer to the applicable Eurocontrol standard.
+**4.**[^c-b0c80555eb4337ccafb50b62df903bb5] In any case in which these Regulations apply National Air Traffic Services Ltd shall, in the general documents or specifications relating to each contract for the purchase of air navigation equipment, refer to the applicable Eurocontrol standard.
 
 Signed by authority of the Secretary of State for Transport
 
@@ -66,7 +66,7 @@ Department of the Environment, Transport and the Regions
 
 26th September 1997
 
-## SCHEDULE[^key-fc12c453cd85b3a18a2a468d6463b227]
+## SCHEDULE[^c-fc12c453cd85b3a18a2a468d6463b227]
 
 Regulation 3
 
@@ -88,14 +88,14 @@ Copies of the Eurocontrol standards referred to in the Schedule to these Regulat
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-97444e1fdc477d6cae7cbed07670c8e2]: Commencement: Reg. 1 in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)
+[^c-97444e1fdc477d6cae7cbed07670c8e2]: Commencement: Reg. 1 in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)
 
-[^key-75ee9abafaa5aa04892093beefc6693d]: Commencement: Reg. 2 in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)
+[^c-75ee9abafaa5aa04892093beefc6693d]: Commencement: Reg. 2 in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L187, 29.7.93, p. 52, as amended by Commission Directive [97/15/EC](https://www.legislation.gov.uk/european/directive/1997/0015) O.J. No. L95, 10.4.97, p. 16.
 
-[^key-32e0bd406d6ddb9eca2e776e4a9c9847]: Commencement: Reg. 3 in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)
+[^c-32e0bd406d6ddb9eca2e776e4a9c9847]: Commencement: Reg. 3 in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)
 
-[^key-b0c80555eb4337ccafb50b62df903bb5]: Commencement: Reg. 4 in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)
+[^c-b0c80555eb4337ccafb50b62df903bb5]: Commencement: Reg. 4 in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)
 
-[^key-fc12c453cd85b3a18a2a468d6463b227]: Commencement: Sch. in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)
+[^c-fc12c453cd85b3a18a2a468d6463b227]: Commencement: Sch. in force at 1.12.1997, see [reg. 1](https://www.legislation.gov.uk/uksi/1997/2329/regulation/1)

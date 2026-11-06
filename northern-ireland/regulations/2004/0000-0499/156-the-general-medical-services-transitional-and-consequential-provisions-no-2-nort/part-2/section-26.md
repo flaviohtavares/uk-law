@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Arrangements with organisations providing deputy doctors[^key-e6f47230009c575b056b2d876e807f76]
+## 26. Arrangements with organisations providing deputy doctors[^c-e6f47230009c575b056b2d876e807f76]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ the remedial notice issued under paragraph 26(7) of Schedule 2 to the 1997 Regul
 
 ## Annotations
 
-[^key-e6f47230009c575b056b2d876e807f76]: Commencement: Art. 26 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-e6f47230009c575b056b2d876e807f76]: Commencement: Art. 26 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00023]: Footnote: Paragraph 26 was amended by [S.R. 1998 No. 9](https://www.legislation.gov.uk/nisr/1998/9) and [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)

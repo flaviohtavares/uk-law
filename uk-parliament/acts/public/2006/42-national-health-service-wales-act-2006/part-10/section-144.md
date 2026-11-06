@@ -22,7 +22,7 @@ summary: ''
 
 (1) This section applies for the purposes of this Part.
 
-(2) Subject to any provision made under subsection (6), “**NHS body**” has the meaning given by section 206(1)[^key-da410f69a9e92346efc773763e2fe074].
+(2) Subject to any provision made under subsection (6), “**NHS body**” has the meaning given by section 206(1)[^c-da410f69a9e92346efc773763e2fe074].
 
 (3) A “**health service provider**” means any person (other than an NHS body) providing—
 
@@ -46,4 +46,4 @@ the health service in either England or Wales or both.
 
 ## Annotations
 
-[^key-da410f69a9e92346efc773763e2fe074]: Textual amendment: Words in [s. 144(2)](https://www.legislation.gov.uk/ukpga/2006/42/section/144/2) substituted (1.2.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 33](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/33); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-da410f69a9e92346efc773763e2fe074]: Textual amendment: Words in [s. 144(2)](https://www.legislation.gov.uk/ukpga/2006/42/section/144/2) substituted (1.2.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 33](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/33); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)

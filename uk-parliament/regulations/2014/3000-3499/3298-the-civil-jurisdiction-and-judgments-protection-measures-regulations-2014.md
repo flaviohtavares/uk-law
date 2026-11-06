@@ -46,7 +46,7 @@ Coming into force in accordance with Regulation 1
 
 The Secretary of State, being a Minister designated for the purposes of section 2(2) of the European Communities Act 1972[^f00001] in relation to private international law[^f00002], makes the following Regulations in exercise of the power under section 2(2) of the European Communities Act 1972.
 
-## 1. Citation, commencement and extent[^key-ec4b93d03723313a40b6f9c6105596b7]
+## 1. Citation, commencement and extent[^c-ec4b93d03723313a40b6f9c6105596b7]
 
 (1) These Regulations may be cited as the Civil Jurisdiction and Judgments (Protection Measures) Regulations 2014.
 
@@ -56,19 +56,19 @@ The Secretary of State, being a Minister designated for the purposes of section 
 
 (4) These Regulations come into force on 11th January 2015, with the exception of regulation 5, which comes into force immediately after Article 12(5) of the Access to Justice (Northern Ireland) Order 2003[^f00003] (the “2003 Order”) comes into force.
 
-## 2. Interpretation[^key-8be75aea0509f691a53a5d5c71ce89d2]
+## 2. Interpretation[^c-8be75aea0509f691a53a5d5c71ce89d2]
 
 In these Regulations—
 
-- “incoming protection measure” means a protection measure that has been ordered in a Member State of the European Union other than [^key-f89d02f30cf27b9b18acc543869b2d48]... Denmark;
+- “incoming protection measure” means a protection measure that has been ordered in a Member State of the European Union other than [^c-f89d02f30cf27b9b18acc543869b2d48]... Denmark;
 - “protection measure” has the meaning given by Article 3 of the Protection Measures Regulation;
 - “Protection Measures Regulation” means Regulation (EU) No 606/2013 of the European Parliament and of the Council of 12 June 2013 on mutual recognition of protection measures in civil matters[^f00004].
 
-## 3. Jurisdiction in relation to incoming protection measures[^key-4fe67142ed9f3bbfaec06fcc2e8b5c71]
+## 3. Jurisdiction in relation to incoming protection measures[^c-4fe67142ed9f3bbfaec06fcc2e8b5c71]
 
-(1)[^key-74786d7d2aa3e68ef3a5cda0cda55873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-74786d7d2aa3e68ef3a5cda0cda55873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-74786d7d2aa3e68ef3a5cda0cda55873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-74786d7d2aa3e68ef3a5cda0cda55873] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In Schedule 1 to the Senior Courts Act 1981[^f00005], in paragraph 3 (Family Division), at the end insert—
 
@@ -88,7 +88,7 @@ In these Regulations—
 - (a) any order which is necessary to give effect to its determination of the appeal; and
 - (b) any incidental or consequential order as appears to it to be just.
 
-## 4. Enforcement of incoming protection measures[^key-493db28ae1fb7d369ddf5c75a5986e9a]
+## 4. Enforcement of incoming protection measures[^c-493db28ae1fb7d369ddf5c75a5986e9a]
 
 For the purposes of the enforcement of an incoming protection measure by a court specified by regulation 3(2) (“the enforcing court”)—
 
@@ -98,7 +98,7 @@ For the purposes of the enforcement of an incoming protection measure by a court
 
 as if the incoming protection measure were a protection measure ordered by the enforcing court.
 
-## 5. Legal representation in respect of certain proceedings in Northern Ireland[^key-5a85e638dd66bfbe7149fda42c3f36ae]
+## 5. Legal representation in respect of certain proceedings in Northern Ireland[^c-5a85e638dd66bfbe7149fda42c3f36ae]
 
 In paragraph 2(d) of Schedule 2 to the 2003 Order, after paragraph (xix) insert—
 
@@ -106,7 +106,7 @@ In paragraph 2(d) of Schedule 2 to the 2003 Order, after paragraph (xix) insert�
 
 .
 
-## 6. Consequential amendments[^key-600d312e6af90e15fec5e744ccf86101]
+## 6. Consequential amendments[^c-600d312e6af90e15fec5e744ccf86101]
 
 In Article 88 of the Magistrates’ Courts (Northern Ireland) Order 1981[^f00009] (nature of domestic proceedings), after paragraph (di), insert—
 
@@ -144,19 +144,19 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [S.I. 2008/1792](https://www.legislation.gov.uk/uksi/2008/1792). Implementation of obligations under Community law in respect of devolved matters is itself a devolved matter in Northern Ireland. However, the designation of the Secretary of State under the European Communities (Designation) (No 2) Order 2008 in relation to private international law remains exercisable in relation to Northern Ireland. This is despite the designation of Northern Ireland Departments in relation to that matter by virtue of the European Communities (Designation) Order (No 5) Order 2010 ([S.I. 2010/2690](https://www.legislation.gov.uk/uksi/2010/2690)) as that designation does not restrict the scope of other designations.
 
-[^key-ec4b93d03723313a40b6f9c6105596b7]: Commencement: Reg. 1 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
+[^c-ec4b93d03723313a40b6f9c6105596b7]: Commencement: Reg. 1 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
 
 [^f00003]: Footnote: [S.I. 2003/435 (N.I. 10)](https://www.legislation.gov.uk/nisi/2003/435). Schedule 2 was amended by section 139 of, and paragraph 51 of Schedule 6 to, the Sexual Offences Act 2003 ([2003 c.42](https://www.legislation.gov.uk/ukpga/2003/42)); by section 112 of, and paragraph 96(2)(b) of Schedule 7 to, the Policing and Crime Act 2009 ([2009 c.26](https://www.legislation.gov.uk/ukpga/2009/26)); and by section 86(4) of the Justice Act (Northern Ireland) 2011 ([2011 c.24](https://www.legislation.gov.uk/ukpga/2011/24)).
 
-[^key-8be75aea0509f691a53a5d5c71ce89d2]: Commencement: Reg. 2 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
+[^c-8be75aea0509f691a53a5d5c71ce89d2]: Commencement: Reg. 2 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
 
-[^key-f89d02f30cf27b9b18acc543869b2d48]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3298/regulation/2) omitted (31.12.2020) by virtue of [The Mutual Recognition of Protection Measures in Civil Matters (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/493)](https://www.legislation.gov.uk/uksi/2019/493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/493/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/493/regulation/4/a) (with [reg. 1A](https://www.legislation.gov.uk/uksi/2019/493/regulation/1A)) (as inserted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f89d02f30cf27b9b18acc543869b2d48]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/3298/regulation/2) omitted (31.12.2020) by virtue of [The Mutual Recognition of Protection Measures in Civil Matters (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/493)](https://www.legislation.gov.uk/uksi/2019/493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/493/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2019/493/regulation/4/a) (with [reg. 1A](https://www.legislation.gov.uk/uksi/2019/493/regulation/1A)) (as inserted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: OJ No. L 181, 29.6.2013, p. 4-12.
 
-[^key-4fe67142ed9f3bbfaec06fcc2e8b5c71]: Commencement: Reg. 3 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
+[^c-4fe67142ed9f3bbfaec06fcc2e8b5c71]: Commencement: Reg. 3 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
 
-[^key-74786d7d2aa3e68ef3a5cda0cda55873]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/3/2) omitted (31.12.2020) by virtue of [The Mutual Recognition of Protection Measures in Civil Matters (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/493)](https://www.legislation.gov.uk/uksi/2019/493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/493/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/493/regulation/4/b) (with [reg. 1A](https://www.legislation.gov.uk/uksi/2019/493/regulation/1A)) (as inserted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74786d7d2aa3e68ef3a5cda0cda55873]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/3/2) omitted (31.12.2020) by virtue of [The Mutual Recognition of Protection Measures in Civil Matters (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/493)](https://www.legislation.gov.uk/uksi/2019/493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/493/regulation/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/493/regulation/4/b) (with [reg. 1A](https://www.legislation.gov.uk/uksi/2019/493/regulation/1A)) (as inserted by [S.I. 2020/1493](https://www.legislation.gov.uk/uksi/2020/1493), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/1/1), [6(2)](https://www.legislation.gov.uk/uksi/2020/1493/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00005]: Footnote: [1981 c.54](https://www.legislation.gov.uk/ukpga/1981/54).
 
@@ -164,12 +164,12 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00007]: Footnote: [S.I. 1980/397 (N.I.3)](https://www.legislation.gov.uk/nisi/1980/397).
 
-[^key-493db28ae1fb7d369ddf5c75a5986e9a]: Commencement: Reg. 4 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
+[^c-493db28ae1fb7d369ddf5c75a5986e9a]: Commencement: Reg. 4 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
 
-[^key-5a85e638dd66bfbe7149fda42c3f36ae]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-5a85e638dd66bfbe7149fda42c3f36ae]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^f00008]: Footnote: OJ No. L 26, 31.1.2003, p. 41-47.
 
-[^key-600d312e6af90e15fec5e744ccf86101]: Commencement: Reg. 6 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
+[^c-600d312e6af90e15fec5e744ccf86101]: Commencement: Reg. 6 in force at 11.1.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2014/3298/regulation/1/4)
 
 [^f00009]: Footnote: [S.I. 1981/1675 (N.I.26)](https://www.legislation.gov.uk/nisi/1981/1675).

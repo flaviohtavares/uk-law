@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Application for approval of a compliance scheme[^key-e0092183178238b666b24f1c871ffb69]
+## 47. Application for approval of a compliance scheme[^c-e0092183178238b666b24f1c871ffb69]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,4 +74,4 @@ and must otherwise be refused.
 
 ## Annotations
 
-[^key-e0092183178238b666b24f1c871ffb69]: Commencement: Reg. 47 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-e0092183178238b666b24f1c871ffb69]: Commencement: Reg. 47 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

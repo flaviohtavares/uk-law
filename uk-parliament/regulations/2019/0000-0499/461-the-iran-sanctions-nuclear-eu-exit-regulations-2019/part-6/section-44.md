@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Trade: licensing offences[^key-f71e5c0f8e56edcccc06fb8925ce87d5][^key-6cdd103c0c7b5f6962b8334fedf7d20a]
+## 44. Trade: licensing offences[^c-f71e5c0f8e56edcccc06fb8925ce87d5][^c-6cdd103c0c7b5f6962b8334fedf7d20a]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ for the purpose of obtaining a trade licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-f71e5c0f8e56edcccc06fb8925ce87d5]: Commencement: Reg. 44 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-f71e5c0f8e56edcccc06fb8925ce87d5]: Commencement: Reg. 44 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-6cdd103c0c7b5f6962b8334fedf7d20a]: Commencement: Reg. 44 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6cdd103c0c7b5f6962b8334fedf7d20a]: Commencement: Reg. 44 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

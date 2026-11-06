@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Children Act 2004 Information Database (England) (Amendment) Regulations 2010 (revoked)[^key-25023b076c02db39e8158a291c85ba25]
+The Children Act 2004 Information Database (England) (Amendment) Regulations 2010 (revoked)[^c-25023b076c02db39e8158a291c85ba25]
 
 Made
 
@@ -40,52 +40,52 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-25023b076c02db39e8158a291c85ba25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25023b076c02db39e8158a291c85ba25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-25023b076c02db39e8158a291c85ba25]
+## 1. Citation and commencement[^c-25023b076c02db39e8158a291c85ba25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments of the Children Act 2004 Information Database (England) Regulations 2007[^key-25023b076c02db39e8158a291c85ba25]
+## 2. Amendments of the Children Act 2004 Information Database (England) Regulations 2007[^c-25023b076c02db39e8158a291c85ba25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-25023b076c02db39e8158a291c85ba25]
+## 3. Interpretation[^c-25023b076c02db39e8158a291c85ba25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information in the database[^key-25023b076c02db39e8158a291c85ba25]
+## 4. Information in the database[^c-25023b076c02db39e8158a291c85ba25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Accessible child record[^key-25023b076c02db39e8158a291c85ba25]
+## 5. Accessible child record[^c-25023b076c02db39e8158a291c85ba25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Archived information[^key-25023b076c02db39e8158a291c85ba25]
+## 6. Archived information[^c-25023b076c02db39e8158a291c85ba25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Information to be included in the database[^key-25023b076c02db39e8158a291c85ba25]
+## 7. Information to be included in the database[^c-25023b076c02db39e8158a291c85ba25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Persons who may permit access to the database (“national partners”)[^key-25023b076c02db39e8158a291c85ba25]
+## 8. Persons who may permit access to the database (“national partners”)[^c-25023b076c02db39e8158a291c85ba25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Persons who may be given access to the database by a local authority[^key-25023b076c02db39e8158a291c85ba25]
+## 9. Persons who may be given access to the database by a local authority[^c-25023b076c02db39e8158a291c85ba25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-25023b076c02db39e8158a291c85ba25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25023b076c02db39e8158a291c85ba25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-25023b076c02db39e8158a291c85ba25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-25023b076c02db39e8158a291c85ba25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-25023b076c02db39e8158a291c85ba25]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1213) revoked (15.5.2012) by [The Children Act 2004 Information Database (England) (Revocation) Regulations 2012 (S.I. 2012/1278)](https://www.legislation.gov.uk/uksi/2012/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1278/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/1278/regulation/2/b)
+[^c-25023b076c02db39e8158a291c85ba25]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/1213) revoked (15.5.2012) by [The Children Act 2004 Information Database (England) (Revocation) Regulations 2012 (S.I. 2012/1278)](https://www.legislation.gov.uk/uksi/2012/1278), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1278/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2012/1278/regulation/2/b)

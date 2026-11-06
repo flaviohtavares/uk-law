@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Action plans following assessments under section 54[^key-729dc42763e901cee5735d5d6f7f86dc][^key-705187be4c5dc835ec5cb3081be099f4]
+## 55. Action plans following assessments under section 54[^c-729dc42763e901cee5735d5d6f7f86dc][^c-705187be4c5dc835ec5cb3081be099f4]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-729dc42763e901cee5735d5d6f7f86dc]: Commencement: S. 55 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-729dc42763e901cee5735d5d6f7f86dc]: Commencement: S. 55 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-705187be4c5dc835ec5cb3081be099f4]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2022/1/section/55) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(b)](https://www.legislation.gov.uk/wsi/2026/62/article/16/b)
+[^c-705187be4c5dc835ec5cb3081be099f4]: Commencement: [S. 55](https://www.legislation.gov.uk/asc/2022/1/section/55) in force at 31.7.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 16(b)](https://www.legislation.gov.uk/wsi/2026/62/article/16/b)

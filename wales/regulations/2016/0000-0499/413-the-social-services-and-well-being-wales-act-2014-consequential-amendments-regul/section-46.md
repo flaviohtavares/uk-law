@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**46.**[^key-c8bfbfe1221c15a6f9f83912b34aaced] The Disabled Persons (Services, Consultation and Representation) Act 1986 is amended as follows.
+**46.**[^c-c8bfbfe1221c15a6f9f83912b34aaced] The Disabled Persons (Services, Consultation and Representation) Act 1986 is amended as follows.
 
 ## Annotations
 
-[^key-c8bfbfe1221c15a6f9f83912b34aaced]: Commencement: Reg. 46 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-c8bfbfe1221c15a6f9f83912b34aaced]: Commencement: Reg. 46 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

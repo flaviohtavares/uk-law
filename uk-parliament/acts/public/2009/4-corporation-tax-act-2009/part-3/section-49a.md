@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49A. Money's worth[^key-8e42ec4005079612898994c10fa7579d]
+## 49A. Money's worth[^c-8e42ec4005079612898994c10fa7579d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e42ec4005079612898994c10fa7579d]: Textual amendment: S. 49A inserted (with effect in accordance with s. 71(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 71(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/71/5)
+[^c-8e42ec4005079612898994c10fa7579d]: Textual amendment: S. 49A inserted (with effect in accordance with s. 71(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 71(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/71/5)

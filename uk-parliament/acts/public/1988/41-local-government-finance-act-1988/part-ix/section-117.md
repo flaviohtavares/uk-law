@@ -32,7 +32,7 @@ summary: ''
 
 - (a) is established by or under an Act,
 - (b) apart from subsection (6) below would have in respect of the financial year beginning in 1990 power (conferred by or under an Act passed before, or in the same session as, this Act) to issue a precept to, make a levy on or have its expenses paid by a county council or charging authority, and
-- (c) is not a precepting authority [^key-3644b54f16fcc011538859a3d32de88e]... , or combined fire authority[^key-bdc6d725fd2f76e8ed9943e873ab63b2].
+- (c) is not a precepting authority [^c-3644b54f16fcc011538859a3d32de88e]... , or combined fire authority[^c-bdc6d725fd2f76e8ed9943e873ab63b2].
 
 (6)[^c13075001] In respect of any chargeable financial year no levying body shall have power under the Act concerned to issue a precept to, make a levy on or have its expenses paid by the council concerned.
 
@@ -58,8 +58,8 @@ summary: ''
 
 [^c13074981]: Textual amendment: S. 117(4) repealed (1.4.1993) by [S.I. 1993/616](https://www.legislation.gov.uk/uksi/1993/616), [art. 2](https://www.legislation.gov.uk/uksi/1993/616/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1993/616/schedule/1/part/I)
 
-[^key-3644b54f16fcc011538859a3d32de88e]: Textual amendment: Words in s. 117(5) omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 191](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/191); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
+[^c-3644b54f16fcc011538859a3d32de88e]: Textual amendment: Words in s. 117(5) omitted (22.11.2012) by virtue of [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 191](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/191); [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(i)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/i)
 
-[^key-bdc6d725fd2f76e8ed9943e873ab63b2]: Textual amendment: Words in s. 117(5)(c) substituted (1.4.2005) by virtue of [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 305(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/305/b); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
+[^c-bdc6d725fd2f76e8ed9943e873ab63b2]: Textual amendment: Words in s. 117(5)(c) substituted (1.4.2005) by virtue of [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 8 para. 305(b)](https://www.legislation.gov.uk/ukpga/2003/39/schedule/8/paragraph/305/b); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(y)](https://www.legislation.gov.uk/uksi/2005/910/article/3/y)
 
 [^c13075001]: Modification: S. 117(6) excluded by [S.I. 1990/777](https://www.legislation.gov.uk/uksi/1990/777), [reg. 4(2)](https://www.legislation.gov.uk/uksi/1990/777/regulation/4/2)

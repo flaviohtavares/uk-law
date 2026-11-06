@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Application of section 176ZB of the 1986 Act[^key-bdf1dcb09b2a7f74639ee30b95e156a9]
+## 2A. Application of section 176ZB of the 1986 Act[^c-bdf1dcb09b2a7f74639ee30b95e156a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Section 176ZB of the 1986 Act (application of proceeds of office-holder claims) 
 
 ## Annotations
 
-[^key-bdf1dcb09b2a7f74639ee30b95e156a9]: Textual amendment: Art. 2A inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/12/2)
+[^c-bdf1dcb09b2a7f74639ee30b95e156a9]: Textual amendment: Art. 2A inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/12/2)

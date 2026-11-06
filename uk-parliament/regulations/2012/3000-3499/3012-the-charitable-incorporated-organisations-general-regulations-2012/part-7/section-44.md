@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Inspection of records of decisions and meetings[^key-936cbf577e45413c44107685bb4f397b]
+## 44. Inspection of records of decisions and meetings[^c-936cbf577e45413c44107685bb4f397b]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-936cbf577e45413c44107685bb4f397b]: Commencement: Reg. 44 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-936cbf577e45413c44107685bb4f397b]: Commencement: Reg. 44 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

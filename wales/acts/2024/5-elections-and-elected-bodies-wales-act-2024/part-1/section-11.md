@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Proposals for pilots made by electoral registration officers[^key-2c4ad88aa34b218267c5bb44ec499222]
+## 11. Proposals for pilots made by electoral registration officers[^c-2c4ad88aa34b218267c5bb44ec499222]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c4ad88aa34b218267c5bb44ec499222]: Commencement: S. 11 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-2c4ad88aa34b218267c5bb44ec499222]: Commencement: S. 11 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

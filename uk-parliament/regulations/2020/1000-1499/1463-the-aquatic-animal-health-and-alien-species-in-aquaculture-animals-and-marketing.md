@@ -52,7 +52,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement, extent and application[^key-ee5895d54d29d68820c0125bfee585a8]
+### 1. Citation, commencement, extent and application[^c-ee5895d54d29d68820c0125bfee585a8]
 
 (1) These Regulations may be cited as the Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020.
 
@@ -69,7 +69,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 ### CHAPTER 1 — Amendments to legislation relating to alien and locally absent species in aquaculture
 
-#### 2. Amendment of the Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^key-832565b086bf89a5de1b1c6e93fc3513]
+#### 2. Amendment of the Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^c-832565b086bf89a5de1b1c6e93fc3513]
 
 (1) The Aquatic Animal Health and Alien Species in Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^f00002] are amended as follows.
 
@@ -200,7 +200,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
   .
 
-#### 3. Amendment of the Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019[^key-f5c933dbc8560fb11deea64e571e7417]
+#### 3. Amendment of the Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019[^c-f5c933dbc8560fb11deea64e571e7417]
 
 (1) Regulation 3 of the Aquatic Animal Health and Alien Species in Aquaculture (Amendment) (England and Wales) (EU Exit) Regulations 2019[^f00004] is amended as follows.
 
@@ -223,7 +223,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 .
 
-#### 4. Amendment of the Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^key-d38f8e87c5216f4c287f88ebaf2a86ff]
+#### 4. Amendment of the Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^c-d38f8e87c5216f4c287f88ebaf2a86ff]
 
 (1) Regulation 42 of the Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019[^f00006] is amended as follows.
 
@@ -259,7 +259,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 ### CHAPTER 2 — Amendments to legislation relating to aquatic animal health and animals
 
-#### 5. Amendment of the Aquatic Animal Health and Plant Health (Legislative Functions) (EU Exit) Regulations 2019[^key-32085ee9e12316326198dd4d3e4422f8]
+#### 5. Amendment of the Aquatic Animal Health and Plant Health (Legislative Functions) (EU Exit) Regulations 2019[^c-32085ee9e12316326198dd4d3e4422f8]
 
 (1) The Aquatic Animal Health and Plant Health (Legislative Functions) (EU Exit) Regulations 2019[^f00008] are amended as follows.
 
@@ -325,7 +325,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
   .
 
-#### 6. Amendment of the Animals (Legislative Functions) (EU Exit) Regulations 2019[^key-53302efa9379f07262446e81b0b10ff8]
+#### 6. Amendment of the Animals (Legislative Functions) (EU Exit) Regulations 2019[^c-53302efa9379f07262446e81b0b10ff8]
 
 (1) The Animals (Legislative Functions) (EU Exit) Regulations 2019[^f00010] are amended as follows.
 
@@ -403,7 +403,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
   - (i) omit paragraphs 3 and 7;
   - (ii) in paragraph 5, for “National Assembly for Wales” substitute “Welsh Parliament”.
 
-#### 7. Amendment of the Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019[^key-276afcd64c9db7ab1ff588bdee5199a8]
+#### 7. Amendment of the Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019[^c-276afcd64c9db7ab1ff588bdee5199a8]
 
 (1) The Zoonotic Disease Eradication and Control (Amendment) (EU Exit) Regulations 2019[^f00011] are amended as follows.
 
@@ -451,7 +451,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 *Extent: E+W+S*
 
-### 8. Amendment of Regulation (EU) No 576/2013[^key-c7f00f3e90790ef60ebc36f4ec4b3ea4]
+### 8. Amendment of Regulation (EU) No 576/2013[^c-c7f00f3e90790ef60ebc36f4ec4b3ea4]
 
 (1) Regulation (EU) No 576/2013 of the European Parliament and of the Council on the non-commercial movement of pet animals[^f00012] is amended as follows.
 
@@ -569,7 +569,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 .
 
-### 9. Amendment of Commission Implementing Regulation (EU) No 577/2013[^key-368e80110fb8b8de18001a703f148e26]
+### 9. Amendment of Commission Implementing Regulation (EU) No 577/2013[^c-368e80110fb8b8de18001a703f148e26]
 
 (1) Article 4 of Commission Implementing Regulation (EU) No 577/2013 on the model identification documents for the non-commercial movement of dogs, cats and ferrets, the establishment of lists of territories and third countries and the format, layout and language requirements of the declarations attesting compliance with certain conditions provided for in Regulation (EU) No 576/2013 of the European Parliament and of the Council[^f00015] is amended as follows.
 
@@ -630,7 +630,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
   - (i) in Section A, in the table, in the heading to the second column, for “Animal”, substitute “Pet”;
   - (ii) in Section B, for the words from “at least” to “English”, substitute “English and may also be drawn up in other languages”.
 
-### 10. Amendment of Commission Implementing Decision (EU) 2019/294[^key-e56afb171811cb5f508b82e400196bba]
+### 10. Amendment of Commission Implementing Decision (EU) 2019/294[^c-e56afb171811cb5f508b82e400196bba]
 
 (1) Commission Implementing Decision (EU) 2019/294 laying down the list of territories and third countries authorised for imports into the Union of dogs, cats and ferrets and the model animal health certificate for such imports[^f00016] is amended as follows.
 
@@ -685,71 +685,71 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 (5) Omit Articles 4 and 6, the words following Article 6, and the Annex.
 
-## PART 4 — Functions relating to the marketing of seed, plant and plant propagating material[^key-6579e8f4469a0d2fde1743d94be49d20]
+## PART 4 — Functions relating to the marketing of seed, plant and plant propagating material[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-### CHAPTER 1 — Introductory[^key-6579e8f4469a0d2fde1743d94be49d20]
+### CHAPTER 1 — Introductory[^c-6579e8f4469a0d2fde1743d94be49d20]
 
-#### 11. Meaning of “the appropriate authority”[^key-6579e8f4469a0d2fde1743d94be49d20]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 12. General interpretation[^key-6579e8f4469a0d2fde1743d94be49d20]
+#### 11. Meaning of “the appropriate authority”[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 2 — Retention of functions in [Directive 98/56/EC](https://www.legislation.gov.uk/european/directive/1998/0056)[^key-6579e8f4469a0d2fde1743d94be49d20]
-
-#### 13. Power to set conditions with which ornamental plant material must comply[^key-6579e8f4469a0d2fde1743d94be49d20]
+#### 12. General interpretation[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Power to set labelling and document requirements for plant material[^key-6579e8f4469a0d2fde1743d94be49d20]
+### CHAPTER 2 — Retention of functions in [Directive 98/56/EC](https://www.legislation.gov.uk/european/directive/1998/0056)[^c-6579e8f4469a0d2fde1743d94be49d20]
+
+#### 13. Power to set conditions with which ornamental plant material must comply[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 3 — Retention of functions in [Directive 2008/72/EC](https://www.legislation.gov.uk/european/directive/2008/0072)[^key-6579e8f4469a0d2fde1743d94be49d20]
-
-#### 15. Power to modify the regulated species of vegetable plant material[^key-6579e8f4469a0d2fde1743d94be49d20]
+#### 14. Power to set labelling and document requirements for plant material[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Power to set conditions with which vegetable plant material must comply[^key-6579e8f4469a0d2fde1743d94be49d20]
+### CHAPTER 3 — Retention of functions in [Directive 2008/72/EC](https://www.legislation.gov.uk/european/directive/2008/0072)[^c-6579e8f4469a0d2fde1743d94be49d20]
+
+#### 15. Power to modify the regulated species of vegetable plant material[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Power to set labelling and document requirements for plant material[^key-6579e8f4469a0d2fde1743d94be49d20]
+#### 16. Power to set conditions with which vegetable plant material must comply[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Power to derogate in the event of temporary supply difficulties[^key-6579e8f4469a0d2fde1743d94be49d20]
+#### 17. Power to set labelling and document requirements for plant material[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 4 — Retention of functions in [Directive 2008/90/EC](https://www.legislation.gov.uk/european/directive/2008/0090)[^key-6579e8f4469a0d2fde1743d94be49d20]
-
-#### 19. Power to modify the regulated species of fruit plant material[^key-6579e8f4469a0d2fde1743d94be49d20]
+#### 18. Power to derogate in the event of temporary supply difficulties[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Power to set conditions with which fruit plant material must comply[^key-6579e8f4469a0d2fde1743d94be49d20]
+### CHAPTER 4 — Retention of functions in [Directive 2008/90/EC](https://www.legislation.gov.uk/european/directive/2008/0090)[^c-6579e8f4469a0d2fde1743d94be49d20]
+
+#### 19. Power to modify the regulated species of fruit plant material[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Power to set labelling and document requirements for fruit plant material[^key-6579e8f4469a0d2fde1743d94be49d20]
+#### 20. Power to set conditions with which fruit plant material must comply[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Power to derogate in the event of temporary supply difficulties[^key-6579e8f4469a0d2fde1743d94be49d20]
+#### 21. Power to set labelling and document requirements for fruit plant material[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### CHAPTER 5 — Regulations[^key-6579e8f4469a0d2fde1743d94be49d20]
+#### 22. Power to derogate in the event of temporary supply difficulties[^c-6579e8f4469a0d2fde1743d94be49d20]
 
-#### 23. Procedure for regulations and ancillary powers[^key-6579e8f4469a0d2fde1743d94be49d20]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### CHAPTER 5 — Regulations[^c-6579e8f4469a0d2fde1743d94be49d20]
+
+#### 23. Procedure for regulations and ancillary powers[^c-6579e8f4469a0d2fde1743d94be49d20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -759,7 +759,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 
 ### Functions relating to third country equivalence and the marketing of seed, plant and plant propagating material in Directives [66/401/EEC](https://www.legislation.gov.uk/european/directive/1966/0401), [66/402/EEC](https://www.legislation.gov.uk/european/directive/1966/0402), [1999/105/EC](https://www.legislation.gov.uk/european/directive/1999/0105), [2002/54/EC](https://www.legislation.gov.uk/european/directive/2002/0054), [2002/55/EC](https://www.legislation.gov.uk/european/directive/2002/0055), [2002/56/EC](https://www.legislation.gov.uk/european/directive/2002/0056) and [2002/57/EC](https://www.legislation.gov.uk/european/directive/2002/0057)
 
-#### 24. Meaning of “the appropriate authority”[^key-7952b678c20d509cc1a5f538ba10317e]
+#### 24. Meaning of “the appropriate authority”[^c-7952b678c20d509cc1a5f538ba10317e]
 
 (1) In this Part, “the appropriate authority”, in relation to an authorisation, means—
 
@@ -772,7 +772,7 @@ A draft of this instrument has been laid before Parliament and approved by a res
 - (a) in the case of an authorisation in relation to Wales, by the Welsh Ministers;
 - (b) in the case of an authorisation in relation to Scotland, by the Scottish Ministers.
 
-#### 25. General interpretation[^key-8cec5d6923f20d90630ea27a0231580b]
+#### 25. General interpretation[^c-8cec5d6923f20d90630ea27a0231580b]
 
 In this Part—
 
@@ -816,7 +816,7 @@ In this Part—
   - (b) in relation to Wales, by regulation 2 of the Seed Potatoes (Wales) Regulations 2016;
   - (c) in relation to Scotland, by regulation 2 of the Seed Potatoes (Scotland) Regulations 2015.
 
-#### 26. Power to recognise the equivalence of plant material measures adopted by countries outside the British Islands[^key-6e9e41012d36a7277d6cb3c5321e20fa]
+#### 26. Power to recognise the equivalence of plant material measures adopted by countries outside the British Islands[^c-6e9e41012d36a7277d6cb3c5321e20fa]
 
 (1) The appropriate authority may authorise the marketing of plant material from any country outside the British Islands if satisfied—
 
@@ -859,41 +859,41 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); section 8 was amended by section 27 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1); paragraph 21 of Schedule 7 was amended by section 41(4) and paragraphs 38 and 53 of Schedule 5 to that Act.
 
-[^key-ee5895d54d29d68820c0125bfee585a8]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
+[^c-ee5895d54d29d68820c0125bfee585a8]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
 
-[^key-832565b086bf89a5de1b1c6e93fc3513]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
+[^c-832565b086bf89a5de1b1c6e93fc3513]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
 
 [^f00002]: Footnote: S. I. 2019/451, to which there is an amendment not relevant to these Regulations. [S.I. 2019/451](https://www.legislation.gov.uk/uksi/2019/451) comes into force on IP completion day by virtue of paragraph 1 of Schedule 5 to the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
 [^f00003]: Footnote: EUR 2008/1251, which is prospectively amended by [S.I. 2019/451](https://www.legislation.gov.uk/uksi/2019/451) and 795.
 
-[^key-f5c933dbc8560fb11deea64e571e7417]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
+[^c-f5c933dbc8560fb11deea64e571e7417]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
 
 [^f00004]: Footnote: [S.I. 2019/452](https://www.legislation.gov.uk/uksi/2019/452), to which there are amendments not relevant to these Regulations. [S.I. 2019/452](https://www.legislation.gov.uk/uksi/2019/452) comes into force on IP completion day by virtue of paragraph 1 of Schedule 5 to the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
 [^f00005]: Footnote: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16); section 7A was inserted by section 5 of the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
-[^key-d38f8e87c5216f4c287f88ebaf2a86ff]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
+[^c-d38f8e87c5216f4c287f88ebaf2a86ff]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
 
 [^f00006]: Footnote: [S.I. 2019/753](https://www.legislation.gov.uk/uksi/2019/753), to which there are amendments not relevant to these Regulations. [S.I. 2019/753](https://www.legislation.gov.uk/uksi/2019/753) comes into force on IP completion day by virtue of paragraph 1 of Schedule 5 to the European Union (Withdrawal Agreement) Act [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1).
 
 [^f00007]: Footnote: EUR 2008/535, which is prospectively amended by [S.I. 2019/451](https://www.legislation.gov.uk/uksi/2019/451).
 
-[^key-32085ee9e12316326198dd4d3e4422f8]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
+[^c-32085ee9e12316326198dd4d3e4422f8]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
 
 [^f00008]: Footnote: [S.I. 2019/817](https://www.legislation.gov.uk/uksi/2019/817).
 
 [^f00009]: Footnote: Annex 1A was inserted by regulation 2(19) of [S.I. 2019/451](https://www.legislation.gov.uk/uksi/2019/451).
 
-[^key-53302efa9379f07262446e81b0b10ff8]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
+[^c-53302efa9379f07262446e81b0b10ff8]: Commencement: Reg. 6 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
 
 [^f00010]: Footnote: [S.I. 2019/588](https://www.legislation.gov.uk/uksi/2019/588); to which there are amendments not relevant to these Regulations.
 
-[^key-276afcd64c9db7ab1ff588bdee5199a8]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
+[^c-276afcd64c9db7ab1ff588bdee5199a8]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a)
 
 [^f00011]: Footnote: [S.I. 2019/740](https://www.legislation.gov.uk/uksi/2019/740).
 
-[^key-c7f00f3e90790ef60ebc36f4ec4b3ea4]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
+[^c-c7f00f3e90790ef60ebc36f4ec4b3ea4]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
 
 [^f00012]: Footnote: EUR 2013/576.
 
@@ -901,19 +901,19 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00014]: Footnote: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-368e80110fb8b8de18001a703f148e26]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
+[^c-368e80110fb8b8de18001a703f148e26]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
 
 [^f00015]: Footnote: EUR 2013/577.
 
-[^key-e56afb171811cb5f508b82e400196bba]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
+[^c-e56afb171811cb5f508b82e400196bba]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
 
 [^f00016]: Footnote: EUDN 2019/294.
 
-[^key-6579e8f4469a0d2fde1743d94be49d20]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1463/part/4) omitted (13.12.2022) by virtue of [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/21/2)
+[^c-6579e8f4469a0d2fde1743d94be49d20]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1463/part/4) omitted (13.12.2022) by virtue of [The Animals and Animal Health, Feed and Food, Plants and Plant Health (Amendment) Regulations 2022 (S.I. 2022/1315)](https://www.legislation.gov.uk/uksi/2022/1315), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/1/1), [21(2)](https://www.legislation.gov.uk/uksi/2022/1315/regulation/21/2)
 
-[^key-7952b678c20d509cc1a5f538ba10317e]: Commencement: Reg. 24 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
+[^c-7952b678c20d509cc1a5f538ba10317e]: Commencement: Reg. 24 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
 
-[^key-8cec5d6923f20d90630ea27a0231580b]: Commencement: Reg. 25 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
+[^c-8cec5d6923f20d90630ea27a0231580b]: Commencement: Reg. 25 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
 
 [^f00028]: Footnote: [S.I. 2011/463](https://www.legislation.gov.uk/uksi/2011/463), relevant amending instruments are [S.I. 2017/288](https://www.legislation.gov.uk/uksi/2017/288), [2020/579](https://www.legislation.gov.uk/uksi/2020/579).
 
@@ -953,6 +953,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00046]: Footnote: [S.S.I. 2015/395](https://www.legislation.gov.uk/ssi/2015/395), amended by [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68), [434](https://www.legislation.gov.uk/ssi/2016/434), [2018/391](https://www.legislation.gov.uk/ssi/2018/319), [2019/59](https://www.legislation.gov.uk/ssi/2019/59), [421](https://www.legislation.gov.uk/ssi/2019/421), [2020/165](https://www.legislation.gov.uk/ssi/2020/165). It is prospectively amended by [S.S.I. 2019/190](https://www.legislation.gov.uk/ssi/2019/190).
 
-[^key-6e9e41012d36a7277d6cb3c5321e20fa]: Commencement: Reg. 26 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
+[^c-6e9e41012d36a7277d6cb3c5321e20fa]: Commencement: Reg. 26 in force at 31.12.2020 immediately before IP completion date, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/b)
 
 [^f00047]: Footnote: [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510), amended by [S.S.I. 2004/317](https://www.legislation.gov.uk/ssi/2004/317), [S.I. 2004/2949](https://www.legislation.gov.uk/uksi/2004/2949), [S.S.I. 2005/328](https://www.legislation.gov.uk/ssi/2005/328), 329, [S.I. 2007/1871](https://www.legislation.gov.uk/uksi/2007/1871), [2009/1273](https://www.legislation.gov.uk/uksi/2009/1273), [2010/1195](https://www.legislation.gov.uk/uksi/2010/1195), [2011/464](https://www.legislation.gov.uk/uksi/2011/464), [2012/2897](https://www.legislation.gov.uk/uksi/2012/2897), [2013/2042](https://www.legislation.gov.uk/uksi/2013/2042), [2014/487](https://www.legislation.gov.uk/uksi/2014/487), S.S.I 2015/395, [S.I. 2016/106 (W. 52)](https://www.legislation.gov.uk/wsi/2016/106), [2018/942](https://www.legislation.gov.uk/wsi/2018/942), [2020/579](https://www.legislation.gov.uk/wsi/2020/579). It is prospectively amended by [S.I. 2019/162](https://www.legislation.gov.uk/uksi/2019/162).

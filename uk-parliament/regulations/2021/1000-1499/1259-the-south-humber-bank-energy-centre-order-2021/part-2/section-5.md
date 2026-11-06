@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Effect of the Order on the SHBEC planning permission[^key-0445dcc553f9efe70c886e56ef421fb7]
+## 5. Effect of the Order on the SHBEC planning permission[^c-0445dcc553f9efe70c886e56ef421fb7]
 
 *Extent: E+W+S*
 
@@ -43,7 +43,7 @@ summary: ''
 - (a) that the discharge of details, plans or other matters in paragraph (5) applies to a varied condition; and
 - (b) the number of the relevant condition and requirement to which the deemed discharge applies in cases where the numbering of the conditions of the SHBEC planning permission has changed compared to those as originally issued on 12 April 2019.
 
-(8) Where paragraph (7)(b) applies, the numbering of the corresponding condition and requirement in Schedule 3 does[^key-ca17ae958bb50336db9a7b87fc857e51] not apply.
+(8) Where paragraph (7)(b) applies, the numbering of the corresponding condition and requirement in Schedule 3 does[^c-ca17ae958bb50336db9a7b87fc857e51] not apply.
 
 (9) The relevant planning authority may only issue a notice pursuant to paragraph (7) where it has been demonstrated to the satisfaction of that authority that the application of paragraph (5) will not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0445dcc553f9efe70c886e56ef421fb7]: Commencement: Art. 5 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-0445dcc553f9efe70c886e56ef421fb7]: Commencement: Art. 5 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
 
-[^key-ca17ae958bb50336db9a7b87fc857e51]: Textual amendment: Word in [art. 5(8)](https://www.legislation.gov.uk/uksi/2021/1259/article/5/8) substituted (5.4.2022) by [The South Humber Bank Energy Centre (Correction) Order 2022 (S.I. 2022/421)](https://www.legislation.gov.uk/uksi/2022/421), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/421/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/421/schedule)
+[^c-ca17ae958bb50336db9a7b87fc857e51]: Textual amendment: Word in [art. 5(8)](https://www.legislation.gov.uk/uksi/2021/1259/article/5/8) substituted (5.4.2022) by [The South Humber Bank Energy Centre (Correction) Order 2022 (S.I. 2022/421)](https://www.legislation.gov.uk/uksi/2022/421), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/421/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/421/schedule)
 
 [^f00013]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).

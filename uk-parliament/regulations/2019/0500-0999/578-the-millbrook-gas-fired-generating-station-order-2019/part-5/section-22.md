@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Private rights[^key-992084caea45d79d516b35989af418a9]
+## 22. Private rights[^c-992084caea45d79d516b35989af418a9]
 
 *Extent: E+W+S*
 
@@ -62,6 +62,6 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-992084caea45d79d516b35989af418a9]: Commencement: Art. 22 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-992084caea45d79d516b35989af418a9]: Commencement: Art. 22 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
 
 [^c23642921]: Marginal citation: [Section 11(1)](https://www.legislation.gov.uk/uksi/2019/578/section/11/1) was amended by section 34 of, and Schedule 4 to, the [Acquisition of Land Act 1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67) and sections 186 and 187 of, and paragraph 6 of Schedule 14 and paragraph 3 of Schedule 16 to, the [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). There are other amendments to the section that are not relevant to this Order.

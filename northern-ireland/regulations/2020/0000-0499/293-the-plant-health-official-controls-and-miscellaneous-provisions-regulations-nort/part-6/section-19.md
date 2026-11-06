@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Applications for registration[^key-b98714a45dfde6d036c1c01093e50933]
+## 19. Applications for registration[^c-b98714a45dfde6d036c1c01093e50933]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ An application for registration pursuant to Article 66(1) of the EU Plant Health
 
 ## Annotations
 
-[^key-b98714a45dfde6d036c1c01093e50933]: Commencement: Reg. 19 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-b98714a45dfde6d036c1c01093e50933]: Commencement: Reg. 19 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

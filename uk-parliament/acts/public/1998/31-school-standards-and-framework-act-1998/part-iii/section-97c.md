@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97C. Determinations under section 97 or 97B: supplemental[^key-e01762f90c87b6e75d1c74e1b5d8b84c]
+## 97C. Determinations under section 97 or 97B: supplemental[^c-e01762f90c87b6e75d1c74e1b5d8b84c]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ Regulations may make provision in relation to England—
 
 ## Annotations
 
-[^key-e01762f90c87b6e75d1c74e1b5d8b84c]: Textual amendment: [S. 97C](https://www.legislation.gov.uk/ukpga/1998/31/section/97C) inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/51/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/d)
+[^c-e01762f90c87b6e75d1c74e1b5d8b84c]: Textual amendment: [S. 97C](https://www.legislation.gov.uk/ukpga/1998/31/section/97C) inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/51/3), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3); [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/d)

@@ -56,11 +56,11 @@ shall, without prejudice to any other remedy, be recoverable summarily as a civi
 - (a) in England and Wales, and
 - (b) in Northern Ireland, where the amount does not exceed the limit specified in Article 10(1) of the [^c11212261]County Courts (Northern Ireland) Order 1980,
 
-be sued for and recovered from the person liable as a debt due to the Crown by proceedings in England and Wales in the county court or in Northern Ireland[^key-2c8f460a01a0f377d88742cb614602a5] in a county court [^c21652891]. . . .
+be sued for and recovered from the person liable as a debt due to the Crown by proceedings in England and Wales in the county court or in Northern Ireland[^c-2c8f460a01a0f377d88742cb614602a5] in a county court [^c21652891]. . . .
 
 (2) [^c21652921]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3 (Extent: N.I.) (affected by repeal, see note))[^key-c36cc3aeca67cddd5bad34d8d237406f] In this paragraph as it applies in Northern Ireland, “county court” means a county court held for a division under the County Courts (Northern Ireland) Order 1980. *(Extent: N.I.)* *(affected by repeal, see note)*[^key-c36cc3aeca67cddd5bad34d8d237406f]
+(3 (Extent: N.I.) (affected by repeal, see note))[^c-c36cc3aeca67cddd5bad34d8d237406f] In this paragraph as it applies in Northern Ireland, “county court” means a county court held for a division under the County Courts (Northern Ireland) Order 1980. *(Extent: N.I.)* *(affected by repeal, see note)*[^c-c36cc3aeca67cddd5bad34d8d237406f]
 
 (4) Sections 21 and 42(2) of the [^c11212271]Interpretation Act Northern Ireland) 1954 shall apply as if any reference in those provisions to any enactment included a reference to this paragraph, and Part III of the County Courts (Northern Ireland) Order 1980 (general civil jurisdiction) shall apply for the purposes of this paragraph in Northern Ireland.
 
@@ -92,13 +92,13 @@ be sued for and recovered from the person liable as a debt due to the Crown by p
 
 [^c11212261]: Marginal citation: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397).
 
-[^key-2c8f460a01a0f377d88742cb614602a5]: Textual amendment: Words in Sch. 4 para. 3(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 129](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/129); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-2c8f460a01a0f377d88742cb614602a5]: Textual amendment: Words in Sch. 4 para. 3(1) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 129](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/129); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c21652891]: Textual amendment: Words in Sch. 4 para. 3(1) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 137(5)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/137/5/a) (with [s. 137(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/137/7))
 
 [^c21652921]: Textual amendment: Sch. 4 para. 3(2) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 137(5)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/137/5/b) (with [s. 137(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/137/7))
 
-[^key-c36cc3aeca67cddd5bad34d8d237406f]: Textual amendment: Sch. 4 para. 3(3) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 118](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/118), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-c36cc3aeca67cddd5bad34d8d237406f]: Textual amendment: Sch. 4 para. 3(3) repealed (N.I.) (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 118](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/118), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c11212271]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).
 

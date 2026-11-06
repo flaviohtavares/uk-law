@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Interpretation of Part 4[^key-b7cba6569caa90591cb3affd723d8c23]
+## 54. Interpretation of Part 4[^c-b7cba6569caa90591cb3affd723d8c23]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In this Part—
 
 ## Annotations
 
-[^key-b7cba6569caa90591cb3affd723d8c23]: Modification: [Reg. 54](https://www.legislation.gov.uk/uksi/2008/1741/regulation/54) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 70](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/70)
+[^c-b7cba6569caa90591cb3affd723d8c23]: Modification: [Reg. 54](https://www.legislation.gov.uk/uksi/2008/1741/regulation/54) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 70](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/70)

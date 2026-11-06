@@ -40,11 +40,11 @@ Coming into operation
 
 The Department of Agriculture, in exercise of the powers conferred on it by Articles 2(3), 5(1), 19(*b*), (*e*), (*f*), (*i*) and (*k*), 29(1) and (2), 32, 44, 46(7A) and 60(1) of the Diseases of Animals (Northern Ireland) Order 1981[^f00001] and of every other power enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-c3a0bde221823068dd994c688c23a4eb]
+## 1. Citation and commencement[^c-c3a0bde221823068dd994c688c23a4eb]
 
 This Order may be cited as the Specified Bovine Material Order (Northern Ireland) 1997 and shall come into operation on 1st May 1997.
 
-## 2. Interpretation[^key-28c24807e36de36ad0304c41c5537e74]
+## 2. Interpretation[^c-28c24807e36de36ad0304c41c5537e74]
 
 (1) In this Order—
 
@@ -91,7 +91,7 @@ This Order may be cited as the Specified Bovine Material Order (Northern Ireland
 
 (3) For the purposes of this Order, material shall be treated as a feedingstuff whether it is used or intended for use as a feedingstuff by itself or as an ingredient or additive in something which is so used or intended for such use.
 
-## 3. Extension of definition of animals and poultry[^key-3d709c28a5d2ea1cdc9faae34b408f35]
+## 3. Extension of definition of animals and poultry[^c-3d709c28a5d2ea1cdc9faae34b408f35]
 
 For the purposes of the 1981 Order in its application to this Order:—
 
@@ -101,7 +101,7 @@ For the purposes of the 1981 Order in its application to this Order:—
   - (iii) fish and invertebrates; and
 - (b) the list of poultry in Part II of Schedule 1 to the 1981 Order is hereby extended so as to comprise birds of any species.
 
-## 4. Prohibition on sale, supply and use of certain feedingstuffs for feeding to animals and poultry[^key-d5e085a37d7ffcbbde949f33532f3ecf]
+## 4. Prohibition on sale, supply and use of certain feedingstuffs for feeding to animals and poultry[^c-d5e085a37d7ffcbbde949f33532f3ecf]
 
 (1) Subject to paragraph (5) a person shall not—
 
@@ -214,7 +214,7 @@ For the purposes of the 1981 Order in its application to this Order:—
 - (a) anything derived from it; and
 - (b) (notwithstanding the definition of specified bovine material in Article 2(1)), a whole carcase or any part of an animal from which specified bovine material has not been removed in accordance with regulation 8 or 9 of the SBMTD Regulations.
 
-## 5. Collection centres[^key-04b59326f78fd1de66b3e8ff6a9fe902]
+## 5. Collection centres[^c-04b59326f78fd1de66b3e8ff6a9fe902]
 
 (1) Upon the Department being satisfied that any premises are properly equipped and have sufficient facilities for storing and handling specified bovine material in a manner which keeps it separate from other animal material it may, on application, licence those premises as a collection centre for the purposes of storing and handling specified bovine material.
 
@@ -234,7 +234,7 @@ and shall keep such records for 2 years from the date of arrival.
 
 (6) A person shall not remove specified bovine material from a collection centre except to a rendering plant licensed under Article 6 or to an incinerator which has been approved by the Department in accordance with regulation 14 of the SBMTD Regulations and shall keep a record for 2 years from the date of consignment of the weight of any specified bovine material consigned, the date of such consignment and the place of destination.
 
-## 6. Rendering plants[^key-eaa14d5434d0b861cdfd33e023f219e8]
+## 6. Rendering plants[^c-eaa14d5434d0b861cdfd33e023f219e8]
 
 (1) Upon the Department being satisfied that any premises have the facilities specified in Part I of the Schedule sufficient to enable the specified bovine material to be separated into protein and tallow by one of the processes specified in Part II of that Schedule it may, on application, licence those premises and facilities for the purposes of receiving and processing specified bovine material.
 
@@ -268,7 +268,7 @@ and shall keep such records for 2 years from the date of arrival.
 
 (13) A person shall not take equipment and utensils from the unclean section into the clean section of the rendering plant unless the equipment and utensils are first washed and disinfected.
 
-## 7. Separation of specified bovine material[^key-df52cd65ac4abfadf9b818d09f80f26c]
+## 7. Separation of specified bovine material[^c-df52cd65ac4abfadf9b818d09f80f26c]
 
 (1) A person rendering a whole bovine carcase shall do so in accordance with the provisions of Article 6 in the same way as if the carcase were specified bovine material.
 
@@ -283,7 +283,7 @@ and shall keep such records for 2 years from the date of arrival.
 
 (5) The prohibition in paragraph (3) shall not apply where a veterinary inspector or another officer of the Department has approved the storage of the specified bovine material in the same room as feedingstuffs or veterinary products or any ingredient of feedingstuffs or veterinary products on being satisfied that the arrangements for storage will ensure the adequate separation of the specified bovine material from the feedingstuffs, veterinary products or ingredients.
 
-## 8. Manufacturing premises not connected with feedingstuffs or veterinary products[^key-af6bdaddadd6a50b997371112b572907]
+## 8. Manufacturing premises not connected with feedingstuffs or veterinary products[^c-af6bdaddadd6a50b997371112b572907]
 
 (1) Upon the Department being satisfied that—
 
@@ -307,7 +307,7 @@ and shall keep such records for 2 years from the date of arrival.
 
 and shall keep such records for 2 years from the date of arrival.
 
-## 9. Consignment of specified bovine material[^key-f5baecca70e4a6dfc991c9cc8e825adb]
+## 9. Consignment of specified bovine material[^c-f5baecca70e4a6dfc991c9cc8e825adb]
 
 (1) Once specified bovine material has been treated in accordance with the requirements of the SBMTD Regulations, or, in the case of specified solid waste, recovered from the drainage system, the person responsible for its removal or recovery shall, without undue delay, send it directly to—
 
@@ -321,7 +321,7 @@ and shall keep such records for 2 years from the date of arrival.
 
 (3) For the purposes of this Article “specified bovine material” includes (notwithstanding the definition of specified bovine material in Article 2(1)), a whole carcase or any part of an animal from which specified bovine material has not been removed in accordance with regulation 7 or 8 of the SBMTD Regulations.
 
-## 10. Transport[^key-7ed86e51d6be7c724f5bb7a4274a7e01]
+## 10. Transport[^c-7ed86e51d6be7c724f5bb7a4274a7e01]
 
 (1) The person in control of a vehicle transporting specified bovine material shall ensure that it is conveyed either in an impervious container which contains nothing but specified bovine material or in a part of the vehicle which is impervious and contains nothing but specified bovine material and which in either case is kept covered at all times except when necessary for loading or unloading or examination by an inspector.
 
@@ -329,7 +329,7 @@ and shall keep such records for 2 years from the date of arrival.
 
 (3) In this Article the expression “vehicle” includes, in any case where specified bovine material is conveyed in a bulk container, that container.
 
-## 11. Importation of specified bovine material[^key-2687a5e2f3eed366ee866a01f4296d80]
+## 11. Importation of specified bovine material[^c-2687a5e2f3eed366ee866a01f4296d80]
 
 (1) A person shall not bring any specified bovine material into Northern Ireland from Great Britain, the Isle of Man or the Channel Islands unless it has been stained in the manner described in the SBMTD Regulations.
 
@@ -337,17 +337,17 @@ and shall keep such records for 2 years from the date of arrival.
 
 (3) The requirements of paragraph (1) shall not apply to specified bovine material which has been brought into Northern Ireland for use in veterinary or laboratory premises as specified in Article 9(1)(*c*).
 
-## 12. Export[^key-ab4872d261ee6a2595a2e587fd15cdb2]
+## 12. Export[^c-ab4872d261ee6a2595a2e587fd15cdb2]
 
 (1) A person shall not export specified bovine material or protein or tallow derived from it from Northern Ireland to Great Britain, the Isle of Man, any of the Channel Islands or to another member State except in accordance with the conditions of a licence granted by the Department.
 
 (2) Any person wishing to obtain a licence under paragraph (1) shall apply to the Department in such form and manner and within such time as the Department may require.
 
-## 13. Samples[^key-3c8866fe9dbe8943136b3ff0a097f551]
+## 13. Samples[^c-3c8866fe9dbe8943136b3ff0a097f551]
 
 Where an inspector has reasonable grounds for suspecting that any person has contravened, is contravening or is likely to contravene any of the provisions of this Order he may take such samples from any carcase or part of a carcase, or such samples of any tallow, protein, material, food, veterinary product or feedingstuff as he considers necessary to establish the correctness of that suspicion.
 
-## 14. Licences[^key-8047ecfe68b0ce232af30281340389fe]
+## 14. Licences[^c-8047ecfe68b0ce232af30281340389fe]
 
 A licence granted under this Order—
 
@@ -355,20 +355,20 @@ A licence granted under this Order—
 - (b) may be granted subject to conditions; and
 - (c) may be modified, suspended or revoked by notice in writing given to the holder thereof at any time.
 
-## 15. Production of licences[^key-dbe2de25060cea1c398d7e38327c4488]
+## 15. Production of licences[^c-dbe2de25060cea1c398d7e38327c4488]
 
 Where specified bovine material or protein or tallow derived from it is being exported in accordance with a licence granted under Article 12(1), the person in charge of the specified bovine material, protein or tallow being exported shall carry the licence during the export and shall, on demand made by an inspector or by a constable—
 
 - (a) produce the licence and allow a copy or extract to be taken; and
 - (b) furnish his name and address.
 
-## 16. Records[^key-8fe958279355ce68840c8e537432c115]
+## 16. Records[^c-8fe958279355ce68840c8e537432c115]
 
 (1) A record required by this Order to be kept shall be made in permanent and legible form.
 
 (2) A person required by this Order to keep a record shall on demand made at any reasonable time by a veterinary officer or other authorised officer of the Department produce to him that record and such inspector or officer shall be entitled to inspect that record and to copy or to take extracts therefrom.
 
-## 17. Power to give directions[^key-8ca14e1fc680bb7f6db9688de33dbe07]
+## 17. Power to give directions[^c-8ca14e1fc680bb7f6db9688de33dbe07]
 
 (1) Where the Department is satisfied that specified bovine material cannot be disposed of in accordance with the provisions of this Order, whether for reasons of mechanical breakdown or otherwise, it may give written directions to the owner or person in control of the specified bovine material for its disposal in a safe manner.
 
@@ -378,7 +378,7 @@ Where specified bovine material or protein or tallow derived from it is being ex
 
 (4) For the purposes of this Article “specified bovine material” includes (notwithstanding the definition of specified bovine material in Article 2(1)), a whole carcase or any part of an animal from which specified bovine material has not been removed in accordance with regulation 8 or 9 of the SBMTD Regulations.
 
-## 18. Revocations[^key-e819e3da8c7d1c813f9e8956943129c0]
+## 18. Revocations[^c-e819e3da8c7d1c813f9e8956943129c0]
 
 The Specified Bovine Material (No. 2) Order (Northern Ireland) 1996[^f00010], the Specified Bovine Material (No. 2) (Amendment) Order (Northern Ireland 1996[^f00011] and the Specified Bovine Material (No. 2) (Amendment No. 2) Order (Northern Ireland) 1996[^f00012] are hereby revoked.
 
@@ -396,197 +396,197 @@ Article 6
 
 ### Part I — Requirements to be met where specified bovine material is rendered
 
-**1.**[^key-3c6e83ff333cec9bf47c1ebeed91a1fd] The premises shall be adequately separated from the public road and other premises. Notwithstanding this, they may occupy the same site as premises rendering other animal products which are not specified bovine material provided that specified bovine material is stored, handled and processed separately from other animal material and by means of equipment used only for specified bovine material.
+**1.**[^c-3c6e83ff333cec9bf47c1ebeed91a1fd] The premises shall be adequately separated from the public road and other premises. Notwithstanding this, they may occupy the same site as premises rendering other animal products which are not specified bovine material provided that specified bovine material is stored, handled and processed separately from other animal material and by means of equipment used only for specified bovine material.
 
-**2.**[^key-723d660e0bcc8bfab446dc5b84f6f01e] Unauthorised persons and animals shall not be permitted to have access to the premises.
+**2.**[^c-723d660e0bcc8bfab446dc5b84f6f01e] Unauthorised persons and animals shall not be permitted to have access to the premises.
 
-**3.**[^key-d1c399f539bbc843620ae9b226acd9eb] Systematic measures shall be taken to control birds, rodents, insects and other vermin on the premises.
+**3.**[^c-d1c399f539bbc843620ae9b226acd9eb] Systematic measures shall be taken to control birds, rodents, insects and other vermin on the premises.
 
-**4.**[^key-46ed0f1002ca3e7318cbfb12fa29fab1] The premises and equipment shall be kept in a good state of repair and measuring equipment shall be calibrated at regular intervals.
+**4.**[^c-46ed0f1002ca3e7318cbfb12fa29fab1] The premises and equipment shall be kept in a good state of repair and measuring equipment shall be calibrated at regular intervals.
 
-**5.**[^key-409881351a07cf57f88bc1a15ee5e8a8] The premises or part of the premises used to process specified bovine material must have a clean and an unclean section specified by the operator, adequately separated. The unclean section must have a covered place to receive and store the specified bovine material for processing and must be constructed in such a way that it is easy to clean and disinfect. Floors must be laid in such a way as to facilitate the draining of liquids. The premises must have adequate lavatories, changing rooms and washbasins for staff.
+**5.**[^c-409881351a07cf57f88bc1a15ee5e8a8] The premises or part of the premises used to process specified bovine material must have a clean and an unclean section specified by the operator, adequately separated. The unclean section must have a covered place to receive and store the specified bovine material for processing and must be constructed in such a way that it is easy to clean and disinfect. Floors must be laid in such a way as to facilitate the draining of liquids. The premises must have adequate lavatories, changing rooms and washbasins for staff.
 
-**6.**[^key-f8f0bc13ddcef98059446c3fade43cb7] The premises shall have sufficient capacity of hot water and steam production to render specified bovine material in accordance with the method in this Schedule chosen by the operator.
+**6.**[^c-f8f0bc13ddcef98059446c3fade43cb7] The premises shall have sufficient capacity of hot water and steam production to render specified bovine material in accordance with the method in this Schedule chosen by the operator.
 
-**7.**[^key-ac015507c84502184ab463ed1648b00b] The equipment used to render specified bovine material shall include—
+**7.**[^c-ac015507c84502184ab463ed1648b00b] The equipment used to render specified bovine material shall include—
 
 - (a) measuring equipment to check temperature and, if necessary, pressure at critical points;
 - (b) recording devices to record continuously the results of measurements;
 - (c) an adequate safety system to prevent insufficient heating.
 
-**8.**[^key-70514cdcdf02fa4283afab5d950ad64b] To prevent recontamination of processed specified bovine material by incoming specified bovine material, there must be clear separation between the area of the premises where the incoming specified bovine material is unloaded and rendered and the area set aside for further processing of the heated specified bovine material and the storage of finished specified bovine material products.
+**8.**[^c-70514cdcdf02fa4283afab5d950ad64b] To prevent recontamination of processed specified bovine material by incoming specified bovine material, there must be clear separation between the area of the premises where the incoming specified bovine material is unloaded and rendered and the area set aside for further processing of the heated specified bovine material and the storage of finished specified bovine material products.
 
-**9.**[^key-1daac5abe4193973163f79db6de97c24] The premises must have adequate facilities for cleaning and disinfecting the containers or receptacles in which unprocessed specified bovine material is received and the vehicles in which it is transported.
+**9.**[^c-1daac5abe4193973163f79db6de97c24] The premises must have adequate facilities for cleaning and disinfecting the containers or receptacles in which unprocessed specified bovine material is received and the vehicles in which it is transported.
 
-**10.**[^key-cab34803a2f39d05a09f672b2ff6dd1f] Adequate facilities must be provided for disinfecting the wheels of any vehicle transporting specified bovine material immediately before it leaves the unclean section of the premises or, in any event, before its departure from the premises.
+**10.**[^c-cab34803a2f39d05a09f672b2ff6dd1f] Adequate facilities must be provided for disinfecting the wheels of any vehicle transporting specified bovine material immediately before it leaves the unclean section of the premises or, in any event, before its departure from the premises.
 
 ### Part II
 
 #### Method 1 — Natural fat batch atmospheric (150 mm particle size)
 
-##### 1. Equipment[^key-ffe900459e8b2e8756593541c52b698d]
+##### 1. Equipment[^c-ffe900459e8b2e8756593541c52b698d]
 
 The premises shall be equipped with apparatus to crush specified bovine material to the appropriate particle size, at least one cooker to cook the specified bovine material, sufficient capacity of hot water and steam production to render specified bovine material in accordance with this method, and equipment to separate protein from tallow and store those products.
 
-##### 2. Crushing[^key-4b5166beb8c02aea669fa80a40882968]
+##### 2. Crushing[^c-4b5166beb8c02aea669fa80a40882968]
 
 The raw material shall be reduced in size by crushing so that the particle size does not exceed 150 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
 
-##### 3. Cooking[^key-7c93571830ebc7266ddc3765ba3f515d]
+##### 3. Cooking[^c-7c93571830ebc7266ddc3765ba3f515d]
 
 Crushed material shall then be heated in a steam jacketed vessel to remove the inherent moisture at atmospheric pressure. The times and temperatures achieved during the cooking process shall be recorded in a permanent form. During the course of cooking, the material shall be maintained at a temperature in excess of 100°C for at least 125 minutes, a temperature in excess of 110°C for at least 120 minutes and a temperature in excess of 120°C for at least 50 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time.
 
-##### 4. Separation and storage of final products[^key-e5075b33d6ce21989a5c7c980ac2db27]
+##### 4. Separation and storage of final products[^c-e5075b33d6ce21989a5c7c980ac2db27]
 
 After cooking, the material shall be discharged from the cookers and separated into its tallow and protein components. Protein and tallow shall be stored separately.
 
-##### 5. Records[^key-6f911f63ab4f791f2812e2316bdff17c]
+##### 5. Records[^c-6f911f63ab4f791f2812e2316bdff17c]
 
 All records required in paragraphs 2 and 3 shall be kept for one year.
 
 #### Method 2 — Natural fat batch atmospheric (30 mm particle size)
 
-##### 1. Equipment[^key-1037a9ddca617e4d888629cba21523e3]
+##### 1. Equipment[^c-1037a9ddca617e4d888629cba21523e3]
 
 The premises shall be equipped with apparatus to crush specified bovine material to the appropriate particle size, at least one cooker to cook the specified bovine material, sufficient capacity of hot water and steam production to render specified bovine material in accordance with this method and equipment to separate protein from tallow and store those products.
 
-##### 2. Crushing[^key-2c54c820d288a338657c288ab484ced6]
+##### 2. Crushing[^c-2c54c820d288a338657c288ab484ced6]
 
 The raw material shall be reduced in size by crushing so that the particle size does not exceed 30 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
 
-##### 3. Cooking[^key-848f2e35956698ad34470f4a77413a5d]
+##### 3. Cooking[^c-848f2e35956698ad34470f4a77413a5d]
 
 Crushed material shall be heated in a steam jacketed vessel to remove the inherent moisture at atmospheric pressure. The times and temperatures achieved during the cooking process must be recorded in a permanent form. During the course of cooking, the material must be maintained at a temperature in excess of 100°C for at least 95 minutes, a temperature in excess of 110°C for at least 55 minutes and a temperature in excess of 120°C for at least 13 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time.
 
-##### 4. Separation and storage of final products[^key-29afee1323f8c4f5c3429b402b0bce55]
+##### 4. Separation and storage of final products[^c-29afee1323f8c4f5c3429b402b0bce55]
 
 After cooking, the material shall be discharged from the cookers and separated into its tallow and protein components. Protein and tallow shall be stored separately.
 
-##### 5. Records[^key-17dc716b42ee20b53944ea65f067a55f]
+##### 5. Records[^c-17dc716b42ee20b53944ea65f067a55f]
 
 All records required in paragraphs 2 and 3 shall be kept for one year.
 
 #### Method 3 — Added fat batch atmospheric (30 mm particle size)
 
-##### 1. Equipment[^key-1429996008e7aad4bb169c6dab32a7fe]
+##### 1. Equipment[^c-1429996008e7aad4bb169c6dab32a7fe]
 
 The premises shall be equipped with apparatus to crush specified bovine material to the appropriate particle size, at least one cooker to cook the specified bovine material, sufficient capacity of hot water and steam production to render specified bovine material in accordance with this method and equipment to separate protein from tallow and store those products.
 
-##### 2. Crushing[^key-bf860df7b1f5f18967a02767a7b5b805]
+##### 2. Crushing[^c-bf860df7b1f5f18967a02767a7b5b805]
 
 The raw material shall be reduced in size by crushing so that the particle size does not exceed 30 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
 
-##### 3. Cooking[^key-14b96e6e022f72cc53e6b573dd8114ff]
+##### 3. Cooking[^c-14b96e6e022f72cc53e6b573dd8114ff]
 
 Crushed material shall then be heated with added tallow in a steam jacketed vessel to remove the inherent moisture at atmospheric pressure. The times and temperatures achieved during the cooking process must be recorded on a permanent recording system. During the course of cooking, the material shall be maintained at a temperature in excess of 100°C for at least 16 minutes, a temperature in excess of 110°C for at least 13 minutes and a temperature in excess of 130°C for at least 3 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time.
 
-##### 4. Separation and storage of final products[^key-9eb99081baf49c50789d1f875b2bcd68]
+##### 4. Separation and storage of final products[^c-9eb99081baf49c50789d1f875b2bcd68]
 
 After cooking, the material shall be discharged from the cookers and separated into its tallow and protein components. Protein and tallow shall be stored separately.
 
-##### 5. Records[^key-241b0d30aec9e0b6a4935c5e7ea330d7]
+##### 5. Records[^c-241b0d30aec9e0b6a4935c5e7ea330d7]
 
 All records required in paragraphs 2 and 3 shall be kept for one year.
 
 #### Method 4 — Natural fat batch (batch pressure) (50 mm particle size)
 
-##### 1. Equipment[^key-0716fb080b16f846790c492185b06de2]
+##### 1. Equipment[^c-0716fb080b16f846790c492185b06de2]
 
 The premises shall be equipped with apparatus to crush specified bovine material to the appropriate particle size, at least one cooker to cook the specified bovine material, sufficient capacity of hot water and steam production to render specified bovine material in accordance with this method, and equipment to separate protein from tallow and store those products.
 
-##### 2. Crushing[^key-72dfe53d85ca30ab203268a86d60bd8e]
+##### 2. Crushing[^c-72dfe53d85ca30ab203268a86d60bd8e]
 
 The raw material shall be reduced in size by crushing so that the particle size does not exceed 50 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
 
-##### 3. Cooking[^key-e095e4ec0a5e03e524f49e4b26cc568d]
+##### 3. Cooking[^c-e095e4ec0a5e03e524f49e4b26cc568d]
 
 Crushed material should then be heated in a steam jacketed vessel. After all air in the vessel has been displaced by steam, the vessel shall be sealed and heating continued until the pressure reaches 3 bar and the temperature reaches at least 133°C. This state should be held for at least 20 minutes after which the pressure should be lowered back to atmospheric pressure. The product should then be dried to remove all of its inherent moisture. The times, temperatures and pressures achieved during the cooking process must be recorded on a permanent recording system.
 
-##### 4. Separation and storage of final products[^key-bd0dcc7ca2abf5140774ba114bc71d79]
+##### 4. Separation and storage of final products[^c-bd0dcc7ca2abf5140774ba114bc71d79]
 
 After cooking, the material shall be discharged from the cookers and separated into its tallow and protein fractions. Protein and tallow shall be stored separately.
 
-##### 5. Records[^key-19b2fa7d9a0de7f3189b81258d92b991]
+##### 5. Records[^c-19b2fa7d9a0de7f3189b81258d92b991]
 
 All records required in paragraphs 2 and 3 shall be kept for one year.
 
 #### Method 5 — Natural fat continuous atmospheric (30 mm particle size)
 
-##### 1. Equipment[^key-ecad26ab267c3788ccad64c7415f65f3]
+##### 1. Equipment[^c-ecad26ab267c3788ccad64c7415f65f3]
 
 The premises shall be equipped with apparatus to crush specified bovine material to the appropriate particle size, at least one cooker to cook the specified bovine material, sufficient capacity of hot water and steam production to render specified bovine material in accordance with this method and equipment to separate protein from tallow and store those products.
 
-##### 2. Crushing[^key-caa94e87c186a01cc62235fe5bf694d0]
+##### 2. Crushing[^c-caa94e87c186a01cc62235fe5bf694d0]
 
 The raw material shall be reduced in size by crushing so that the particle size does not exceed 30 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
 
-##### 3. Cooking[^key-1b767633c6b6d05b558629e3e3aae060]
+##### 3. Cooking[^c-1b767633c6b6d05b558629e3e3aae060]
 
 The material shall be passed into a steam heated vessel. Passage of the raw material through the vessel shall be controlled by means of displacement and mechanical restrictions to ensure that the cooked dried material is discharged with all of its residual moisture removed as water vapour.
 
 The maximum feed rate for raw material and the minimum discharge temperature will be set for the vessel in the licence for the premises granted under this Order. The material shall be maintained at a temperature in excess of 100°C for at least 95 minutes, a temperature in excess of 110°C for at least 55 minutes and a temperature in excess of 120°C for at least 13 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time. The times, temperatures and pressures achieved during the cooking process must be recorded on a permanent recording system.
 
-##### 4. Separation and storage of final products[^key-971ad380744c15b4bc53bb19b877f84c]
+##### 4. Separation and storage of final products[^c-971ad380744c15b4bc53bb19b877f84c]
 
 After cooking, the material shall be discharged from the cookers and separated into its tallow and protein components. Protein and tallow shall be stored separately.
 
-##### 5. Records[^key-907f5a622006af4081a4fdf5bf547562]
+##### 5. Records[^c-907f5a622006af4081a4fdf5bf547562]
 
 All records required in paragraphs 2 and 3 shall be kept for one year.
 
 #### Method 6 — Added fat continuous atmospheric (30 mm particle size)
 
-##### 1. Equipment[^key-5d3ce0095b986ddfafebd79ef295b1a0]
+##### 1. Equipment[^c-5d3ce0095b986ddfafebd79ef295b1a0]
 
 The premises shall be equipped with apparatus to crush specified bovine material to the appropriate particle size, at least one cooker to cook the specified bovine material, sufficient capacity of hot water and steam production to render specified bovine material in accordance with this method and equipment to separate protein from tallow and store those products.
 
-##### 2. Crushing[^key-f1f0fb10acc5df1ad7dfc352bea29427]
+##### 2. Crushing[^c-f1f0fb10acc5df1ad7dfc352bea29427]
 
 The raw material shall be reduced in size by crushing so that the particle size does not exceed 30 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
 
-##### 3. Cooking[^key-4c1c22671a607c6f7890aca9b77f69c0]
+##### 3. Cooking[^c-4c1c22671a607c6f7890aca9b77f69c0]
 
 The material shall be passed into a steam heated vessel where a consistent level of hot liquid tallow is maintained by recycling tallow as appropriate. Passage of the raw material through the vessel shall be controlled by means of displacement and mechanical restrictions to ensure that the cooked dried material is discharged with all of its residual moisture removed as water vapour.
 
 The maximum feed rate for raw material, the maximum tallow recycle rate, and the minimum discharge temperature will be set for the vessel in the licence for the premises granted under this Order. The material shall be maintained at a temperature in excess of 100°C for at least 16 minutes, a temperature in excess of 110°C for at least 13 minutes, a temperature in excess of 120°C for at least 8 minutes and a temperature in excess of 130°C for at least 3 minutes. Material may be cooked so that two or more time/temperature requirements are carried out at the same time. The times, temperatures and pressures achieved during the cooking process must be recorded on a permanent recording system.
 
-##### 4. Separation and storage of final products[^key-8960ce815d66746e5cd441250bb720d6]
+##### 4. Separation and storage of final products[^c-8960ce815d66746e5cd441250bb720d6]
 
 On discharge from the vessel, any surplus tallow not required to maintain the vessels operating level shall be removed, and the material separated into its tallow and protein components. Protein and tallow shall be stored separately.
 
-##### 5. Records[^key-bd8587f27915a530c31ab384ac278cb7]
+##### 5. Records[^c-bd8587f27915a530c31ab384ac278cb7]
 
 All records required in paragraphs 2 and 3 shall be kept for one year.
 
 #### Method 7 — Defatted continuous atmospheric
 
-##### 1. Equipment[^key-c2419d6249c8bddf34a6456e1fe90396]
+##### 1. Equipment[^c-c2419d6249c8bddf34a6456e1fe90396]
 
 The premises shall be equipped with apparatus to crush specified bovine material to the appropriate particle size, at least one cooker to cook the specified bovine material, sufficient capacity of hot water and steam production to render specified bovine material in accordance with this method and equipment to separate protein from tallow and store those products.
 
-##### 2. Crushing[^key-ae86e2e49a4672bc066ee50e1a1a4fa8]
+##### 2. Crushing[^c-ae86e2e49a4672bc066ee50e1a1a4fa8]
 
 The raw material shall be reduced in size by crushing so that the particle size does not exceed 150 mm. Final reduction equipment shall be checked daily and its condition recorded. Any broken equipment shall be repaired without delay to ensure that the final particle size is achieved.
 
-##### 3. Preheating[^key-db0eeec9f2d1c0cfe3673441afd72bd8]
+##### 3. Preheating[^c-db0eeec9f2d1c0cfe3673441afd72bd8]
 
 The crushed material shall be passed to a pre-heater. Passage of the raw material through the pre-heater shall be controlled by means of displacement and mechanical restrictions to ensure that the cooked material is discharged at a temperature of at least 80°C and in a form in which water and tallow can be removed from the protein residue.
 
-##### 4. Pressing[^key-799dda8173a8c7b18280309715af8d72]
+##### 4. Pressing[^c-799dda8173a8c7b18280309715af8d72]
 
 The material discharged from the pre-heater must be passed through a screw press so adjusted that all water and tallow are removed from the protein residue.
 
-##### 5. Drying[^key-d446707922126dbb17c026b843a5c210]
+##### 5. Drying[^c-d446707922126dbb17c026b843a5c210]
 
 The protein residue shall be passed into a steam heated vessel. Passage of the protein residue through the vessel shall be controlled by means of displacement and mechanical restriction to ensure that the cooked dried protein is discharged with all of its residual moisture removed as water vapour.
 
 A maximum feed rate for protein residue and a minimum discharge temperature will be set for the vessel by an officer of the Department. The material shall be maintained at a temperature in excess of 80°C for at least 120 minutes and a temperature in excess of 100°C for at least 60 minutes. Material may be cooked so that both time/temperature requirements are carried out at the same time. The times, temperatures and pressures achieved during the cooking process must be recorded on a permanent recording system.
 
-##### 6. Storage of final products[^key-906d2576d1b8b2917534814131958ce8]
+##### 6. Storage of final products[^c-906d2576d1b8b2917534814131958ce8]
 
 Protein and tallow shall be stored separately.
 
-##### 7. Records[^key-f7c5f9f117c42181fb4392d8611b91a2]
+##### 7. Records[^c-f7c5f9f117c42181fb4392d8611b91a2]
 
 All records required in paragraphs 2 and 5 shall be kept for one year.
 
@@ -602,9 +602,9 @@ Any person who without lawful authority or excuse, proof of which shall lie on h
 
 [^f00001]: Footnote: [S.I. 1981/1115 (N.I. 22)](https://www.legislation.gov.uk/nisi/1981/1115) as amended by [S.I. 1984/702 (N.I. 2)](https://www.legislation.gov.uk/nisi/1984/702) Art. 17 and [S.I. 1994/1891 (N.I. 6)](https://www.legislation.gov.uk/nisi/1994/1891) Arts. 19, 22, 23(1), (2) and (3), 24(1) and Schedule
 
-[^key-c3a0bde221823068dd994c688c23a4eb]: Commencement: Art. 1 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-c3a0bde221823068dd994c688c23a4eb]: Commencement: Art. 1 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-28c24807e36de36ad0304c41c5537e74]: Commencement: Art. 2 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-28c24807e36de36ad0304c41c5537e74]: Commencement: Art. 2 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1972 No. 16](https://www.legislation.gov.uk/nisro/1972/16) as amended by [S.R. 1975 No. 69](https://www.legislation.gov.uk/nisr/1975/69) and [S.R. 1995 No. 467](https://www.legislation.gov.uk/nisr/1995/467)
 
@@ -618,41 +618,41 @@ Any person who without lawful authority or excuse, proof of which shall lie on h
 
 [^f00007]: Footnote: [S.R. 1997 No. 230](https://www.legislation.gov.uk/nisr/1997/230)
 
-[^key-3d709c28a5d2ea1cdc9faae34b408f35]: Commencement: Art. 3 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-3d709c28a5d2ea1cdc9faae34b408f35]: Commencement: Art. 3 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-d5e085a37d7ffcbbde949f33532f3ecf]: Commencement: Art. 4 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-d5e085a37d7ffcbbde949f33532f3ecf]: Commencement: Art. 4 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
 [^f00008]: Footnote: [S.R. 1996 No. 165](https://www.legislation.gov.uk/nisr/1996/165)
 
-[^key-04b59326f78fd1de66b3e8ff6a9fe902]: Commencement: Art. 5 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-04b59326f78fd1de66b3e8ff6a9fe902]: Commencement: Art. 5 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-eaa14d5434d0b861cdfd33e023f219e8]: Commencement: Art. 6 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-eaa14d5434d0b861cdfd33e023f219e8]: Commencement: Art. 6 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-df52cd65ac4abfadf9b818d09f80f26c]: Commencement: Art. 7 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-df52cd65ac4abfadf9b818d09f80f26c]: Commencement: Art. 7 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
 [^f00009]: Footnote: [S.I. 1991 No. 762 (N.I. 7)](https://www.legislation.gov.uk/nisi/1991/762) as amended by [S.I. 1996 No. 1633 (N.I. 12)](https://www.legislation.gov.uk/nisi/1996/1633)
 
-[^key-af6bdaddadd6a50b997371112b572907]: Commencement: Art. 8 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-af6bdaddadd6a50b997371112b572907]: Commencement: Art. 8 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-f5baecca70e4a6dfc991c9cc8e825adb]: Commencement: Art. 9 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-f5baecca70e4a6dfc991c9cc8e825adb]: Commencement: Art. 9 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-7ed86e51d6be7c724f5bb7a4274a7e01]: Commencement: Art. 10 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-7ed86e51d6be7c724f5bb7a4274a7e01]: Commencement: Art. 10 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-2687a5e2f3eed366ee866a01f4296d80]: Commencement: Art. 11 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-2687a5e2f3eed366ee866a01f4296d80]: Commencement: Art. 11 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-ab4872d261ee6a2595a2e587fd15cdb2]: Commencement: Art. 12 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-ab4872d261ee6a2595a2e587fd15cdb2]: Commencement: Art. 12 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-3c8866fe9dbe8943136b3ff0a097f551]: Commencement: Art. 13 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-3c8866fe9dbe8943136b3ff0a097f551]: Commencement: Art. 13 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-8047ecfe68b0ce232af30281340389fe]: Commencement: Art. 14 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-8047ecfe68b0ce232af30281340389fe]: Commencement: Art. 14 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-dbe2de25060cea1c398d7e38327c4488]: Commencement: Art. 15 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-dbe2de25060cea1c398d7e38327c4488]: Commencement: Art. 15 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-8fe958279355ce68840c8e537432c115]: Commencement: Art. 16 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-8fe958279355ce68840c8e537432c115]: Commencement: Art. 16 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-8ca14e1fc680bb7f6db9688de33dbe07]: Commencement: Art. 17 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-8ca14e1fc680bb7f6db9688de33dbe07]: Commencement: Art. 17 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-e819e3da8c7d1c813f9e8956943129c0]: Commencement: Art. 18 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-e819e3da8c7d1c813f9e8956943129c0]: Commencement: Art. 18 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
 [^f00010]: Footnote: [S.R. 1996 No. 360](https://www.legislation.gov.uk/nisr/1996/360)
 
@@ -660,96 +660,96 @@ Any person who without lawful authority or excuse, proof of which shall lie on h
 
 [^f00012]: Footnote: [S.R. 1996 No. 596](https://www.legislation.gov.uk/nisr/1996/596)
 
-[^key-3c6e83ff333cec9bf47c1ebeed91a1fd]: Commencement: Sch. Pt. I para. 1 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-3c6e83ff333cec9bf47c1ebeed91a1fd]: Commencement: Sch. Pt. I para. 1 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-723d660e0bcc8bfab446dc5b84f6f01e]: Commencement: Sch. Pt. I para. 2 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-723d660e0bcc8bfab446dc5b84f6f01e]: Commencement: Sch. Pt. I para. 2 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-d1c399f539bbc843620ae9b226acd9eb]: Commencement: Sch. Pt. I para. 3 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-d1c399f539bbc843620ae9b226acd9eb]: Commencement: Sch. Pt. I para. 3 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-46ed0f1002ca3e7318cbfb12fa29fab1]: Commencement: Sch. Pt. I para. 4 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-46ed0f1002ca3e7318cbfb12fa29fab1]: Commencement: Sch. Pt. I para. 4 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-409881351a07cf57f88bc1a15ee5e8a8]: Commencement: Sch. Pt. I para. 5 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-409881351a07cf57f88bc1a15ee5e8a8]: Commencement: Sch. Pt. I para. 5 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-f8f0bc13ddcef98059446c3fade43cb7]: Commencement: Sch. Pt. I para. 6 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-f8f0bc13ddcef98059446c3fade43cb7]: Commencement: Sch. Pt. I para. 6 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-ac015507c84502184ab463ed1648b00b]: Commencement: Sch. Pt. I para. 7 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-ac015507c84502184ab463ed1648b00b]: Commencement: Sch. Pt. I para. 7 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-70514cdcdf02fa4283afab5d950ad64b]: Commencement: Sch. para. 8 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-70514cdcdf02fa4283afab5d950ad64b]: Commencement: Sch. para. 8 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-1daac5abe4193973163f79db6de97c24]: Commencement: Sch. para. 9 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-1daac5abe4193973163f79db6de97c24]: Commencement: Sch. para. 9 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-cab34803a2f39d05a09f672b2ff6dd1f]: Commencement: Sch. para. 10 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-cab34803a2f39d05a09f672b2ff6dd1f]: Commencement: Sch. para. 10 in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-ffe900459e8b2e8756593541c52b698d]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-ffe900459e8b2e8756593541c52b698d]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-4b5166beb8c02aea669fa80a40882968]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-4b5166beb8c02aea669fa80a40882968]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-7c93571830ebc7266ddc3765ba3f515d]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-7c93571830ebc7266ddc3765ba3f515d]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-e5075b33d6ce21989a5c7c980ac2db27]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-e5075b33d6ce21989a5c7c980ac2db27]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-6f911f63ab4f791f2812e2316bdff17c]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-6f911f63ab4f791f2812e2316bdff17c]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(150)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-1037a9ddca617e4d888629cba21523e3]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-1037a9ddca617e4d888629cba21523e3]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-2c54c820d288a338657c288ab484ced6]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-2c54c820d288a338657c288ab484ced6]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-848f2e35956698ad34470f4a77413a5d]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-848f2e35956698ad34470f4a77413a5d]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-29afee1323f8c4f5c3429b402b0bce55]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-29afee1323f8c4f5c3429b402b0bce55]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-17dc716b42ee20b53944ea65f067a55f]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-17dc716b42ee20b53944ea65f067a55f]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-1429996008e7aad4bb169c6dab32a7fe]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-1429996008e7aad4bb169c6dab32a7fe]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-bf860df7b1f5f18967a02767a7b5b805]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-bf860df7b1f5f18967a02767a7b5b805]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-14b96e6e022f72cc53e6b573dd8114ff]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-14b96e6e022f72cc53e6b573dd8114ff]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-9eb99081baf49c50789d1f875b2bcd68]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-9eb99081baf49c50789d1f875b2bcd68]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-241b0d30aec9e0b6a4935c5e7ea330d7]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-241b0d30aec9e0b6a4935c5e7ea330d7]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(batch)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-0716fb080b16f846790c492185b06de2]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-0716fb080b16f846790c492185b06de2]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-72dfe53d85ca30ab203268a86d60bd8e]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-72dfe53d85ca30ab203268a86d60bd8e]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-e095e4ec0a5e03e524f49e4b26cc568d]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-e095e4ec0a5e03e524f49e4b26cc568d]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-bd0dcc7ca2abf5140774ba114bc71d79]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-bd0dcc7ca2abf5140774ba114bc71d79]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-19b2fa7d9a0de7f3189b81258d92b991]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-19b2fa7d9a0de7f3189b81258d92b991]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(batch)(batch)(pressure)(50)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-ecad26ab267c3788ccad64c7415f65f3]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-ecad26ab267c3788ccad64c7415f65f3]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-caa94e87c186a01cc62235fe5bf694d0]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-caa94e87c186a01cc62235fe5bf694d0]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-1b767633c6b6d05b558629e3e3aae060]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-1b767633c6b6d05b558629e3e3aae060]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-971ad380744c15b4bc53bb19b877f84c]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-971ad380744c15b4bc53bb19b877f84c]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-907f5a622006af4081a4fdf5bf547562]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-907f5a622006af4081a4fdf5bf547562]: Commencement: Sch. Pt. II(crossheading)(natural)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-5d3ce0095b986ddfafebd79ef295b1a0]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-5d3ce0095b986ddfafebd79ef295b1a0]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-f1f0fb10acc5df1ad7dfc352bea29427]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-f1f0fb10acc5df1ad7dfc352bea29427]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-4c1c22671a607c6f7890aca9b77f69c0]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-4c1c22671a607c6f7890aca9b77f69c0]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-8960ce815d66746e5cd441250bb720d6]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-8960ce815d66746e5cd441250bb720d6]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-bd8587f27915a530c31ab384ac278cb7]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-bd8587f27915a530c31ab384ac278cb7]: Commencement: Sch. Pt. II(crossheading)(added)(fat)(continuous)(atmospheric)(30)(mm)(particle)(size\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-c2419d6249c8bddf34a6456e1fe90396]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-c2419d6249c8bddf34a6456e1fe90396]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(1) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-ae86e2e49a4672bc066ee50e1a1a4fa8]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-ae86e2e49a4672bc066ee50e1a1a4fa8]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(2) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-db0eeec9f2d1c0cfe3673441afd72bd8]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-db0eeec9f2d1c0cfe3673441afd72bd8]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(3) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-799dda8173a8c7b18280309715af8d72]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-799dda8173a8c7b18280309715af8d72]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(4) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-d446707922126dbb17c026b843a5c210]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-d446707922126dbb17c026b843a5c210]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(5) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-906d2576d1b8b2917534814131958ce8]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(6) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-906d2576d1b8b2917534814131958ce8]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(6) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
 
-[^key-f7c5f9f117c42181fb4392d8611b91a2]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(7) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)
+[^c-f7c5f9f117c42181fb4392d8611b91a2]: Commencement: Sch. Pt. II(crossheading)(defatted)(continuous)(atmospheric\_paragraph)(7) in operation at 1.5.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/231/article/1)

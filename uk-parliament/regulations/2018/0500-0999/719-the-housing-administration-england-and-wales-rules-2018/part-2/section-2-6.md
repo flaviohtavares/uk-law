@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.6. Notice to enforcement agents charged with distress or other legal process, etc.[^key-e1f68f75dcb0635e0f828864c9d18fe9]
+## 2.6. Notice to enforcement agents charged with distress or other legal process, etc.[^c-e1f68f75dcb0635e0f828864c9d18fe9]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The applicant must as soon as reasonably practicable after filing the applicatio
 
 ## Annotations
 
-[^key-e1f68f75dcb0635e0f828864c9d18fe9]: Commencement: Rule 2.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-e1f68f75dcb0635e0f828864c9d18fe9]: Commencement: Rule 2.6 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

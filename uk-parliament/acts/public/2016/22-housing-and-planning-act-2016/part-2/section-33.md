@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Information to be included in the database[^key-388d5001d355a3261b7ad36fa515d1dc]
+## 33. Information to be included in the database[^c-388d5001d355a3261b7ad36fa515d1dc]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-388d5001d355a3261b7ad36fa515d1dc]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2016/22/section/33) in force at 3.11.2017 by [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/c)
+[^c-388d5001d355a3261b7ad36fa515d1dc]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2016/22/section/33) in force at 3.11.2017 by [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/c)

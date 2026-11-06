@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Information non-disclosure directions[^key-23b2a521e14a3fe7e4d8703db6820c5f]
+## 40. Information non-disclosure directions[^c-23b2a521e14a3fe7e4d8703db6820c5f]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ must not be disclosed (directly or indirectly) to any person or class of person 
 
 ## Annotations
 
-[^key-23b2a521e14a3fe7e4d8703db6820c5f]: Commencement: S. 40 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-23b2a521e14a3fe7e4d8703db6820c5f]: Commencement: S. 40 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

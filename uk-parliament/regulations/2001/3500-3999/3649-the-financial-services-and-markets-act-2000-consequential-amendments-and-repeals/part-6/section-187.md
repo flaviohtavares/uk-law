@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. References to Chief Registrar etc.[^key-d6408d0ddb492f67cbee69e9d3bbb60b]
+## 187. References to Chief Registrar etc.[^c-d6408d0ddb492f67cbee69e9d3bbb60b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d6408d0ddb492f67cbee69e9d3bbb60b]: Commencement: Art. 187 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d6408d0ddb492f67cbee69e9d3bbb60b]: Commencement: Art. 187 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00131]: Footnote: Section 85(5) has been amended by the Friendly Societies Act [1992 (c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), Schedule 22 Part I.
 

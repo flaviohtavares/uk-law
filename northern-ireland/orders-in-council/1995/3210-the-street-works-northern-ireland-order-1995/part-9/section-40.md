@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Duties to report missing or incorrect information in relation to apparatus[^key-364f5a3855d2b674b696eb7940abd763]
+## 40. Duties to report missing or incorrect information in relation to apparatus[^c-364f5a3855d2b674b696eb7940abd763]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-364f5a3855d2b674b696eb7940abd763]: Textual amendment: [Art. 40](https://www.legislation.gov.uk/nisi/1995/3210/article/40) substituted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 59(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/59/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/2))
+[^c-364f5a3855d2b674b696eb7940abd763]: Textual amendment: [Art. 40](https://www.legislation.gov.uk/nisi/1995/3210/article/40) substituted (19.6.2025 for specified purposes) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 59(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/59/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h) (with [s. 60(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/60/2))

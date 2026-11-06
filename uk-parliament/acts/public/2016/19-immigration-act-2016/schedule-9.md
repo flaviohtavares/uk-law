@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — Duty to supply nationality documents to Secretary of State: persons to whom duty applies[^key-a988f1b77b8e94a75d0a6efdb9f0bb54]
+## SCHEDULE 9 — Duty to supply nationality documents to Secretary of State: persons to whom duty applies[^c-a988f1b77b8e94a75d0a6efdb9f0bb54]
 
 *Extent: E+W+S+N.I.*
 
 Section 55
 
-[^key-a988f1b77b8e94a75d0a6efdb9f0bb54]
+[^c-a988f1b77b8e94a75d0a6efdb9f0bb54]
 
 This is the new Schedule A1 to the Immigration and Asylum Act 1999 referred to in section 55—
 
@@ -132,4 +132,4 @@ This is the new Schedule A1 to the Immigration and Asylum Act 1999 referred to i
 
 ## Annotations
 
-[^key-a988f1b77b8e94a75d0a6efdb9f0bb54]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/9) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/v)
+[^c-a988f1b77b8e94a75d0a6efdb9f0bb54]: Commencement: [Sch. 9](https://www.legislation.gov.uk/ukpga/2016/19/schedule/9) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(v)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/v)

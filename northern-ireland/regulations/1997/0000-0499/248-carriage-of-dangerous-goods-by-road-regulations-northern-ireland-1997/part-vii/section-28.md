@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Transitional defence[^key-6a4d99456b38edbeddf426b4b571f216]
+## 28. Transitional defence[^c-6a4d99456b38edbeddf426b4b571f216]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ In any proceedings for an offence consisting of a contravention of any of the pr
 
 ## Annotations
 
-[^key-6a4d99456b38edbeddf426b4b571f216]: Commencement: Reg. 28 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-6a4d99456b38edbeddf426b4b571f216]: Commencement: Reg. 28 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
 
 [^f00018]: Footnote: [S.R. 1992 No. 260](https://www.legislation.gov.uk/nisr/1992/260)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 200. Police officers.[^c16979741][^c20891551][^key-b71b7d762b2861fc1a7c562f7956dd82][^key-5113a2874718ceddee4d85be52bdc4a6]
+## 200. Police officers.[^c16979741][^c20891551][^c-b71b7d762b2861fc1a7c562f7956dd82][^c-5113a2874718ceddee4d85be52bdc4a6]
 
 *Extent: E+W+S*
 
@@ -33,9 +33,9 @@ summary: ''
 
 [^c20891551]: Modification: S. 200 modified (7.4.2010) by [The UK Border Agency (Complaints and Misconduct) Regulations 2010 (S.I. 2010/782)](https://www.legislation.gov.uk/uksi/2010/782), [reg. 42(4)(b)](https://www.legislation.gov.uk/uksi/2010/782/regulation/42/4/b)
 
-[^key-b71b7d762b2861fc1a7c562f7956dd82]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/1996/18/section/200) restricted (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/21) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-b71b7d762b2861fc1a7c562f7956dd82]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/1996/18/section/200) restricted (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/21) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
 
-[^key-5113a2874718ceddee4d85be52bdc4a6]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/1996/18/section/200) modified (1.5.2025) by [The Food Crime Officers (Complaints and Misconduct) Regulations 2025 (S.I. 2025/301)](https://www.legislation.gov.uk/uksi/2025/301), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/301/regulation/1/1), [45(5)](https://www.legislation.gov.uk/uksi/2025/301/regulation/45/5)
+[^c-5113a2874718ceddee4d85be52bdc4a6]: Modification: [S. 200](https://www.legislation.gov.uk/ukpga/1996/18/section/200) modified (1.5.2025) by [The Food Crime Officers (Complaints and Misconduct) Regulations 2025 (S.I. 2025/301)](https://www.legislation.gov.uk/uksi/2025/301), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/301/regulation/1/1), [45(5)](https://www.legislation.gov.uk/uksi/2025/301/regulation/45/5)
 
 [^c20040931]: Textual amendment: Words in s. 200(1) repealed (1.4.2004) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [ss. 37(2)(a)](https://www.legislation.gov.uk/ukpga/2002/30/section/37/2/a), [107](https://www.legislation.gov.uk/ukpga/2002/30/section/107), [108(2)-(5)](https://www.legislation.gov.uk/ukpga/2002/30/section/108/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2004/913](https://www.legislation.gov.uk/uksi/2004/913), [art. 2(b)(f)(v)](https://www.legislation.gov.uk/uksi/2004/913/article/2/b/f/v)
 

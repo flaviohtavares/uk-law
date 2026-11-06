@@ -31,7 +31,7 @@ summary: ''
 
 PENSIONS
 
-The Occupational Pension Schemes (Transfer Values and Miscellaneous Amendments) Regulations (Northern Ireland) 2003 (revoked)[^key-a5571498f16cce1519e74bfda2b7864b]
+The Occupational Pension Schemes (Transfer Values and Miscellaneous Amendments) Regulations (Northern Ireland) 2003 (revoked)[^c-a5571498f16cce1519e74bfda2b7864b]
 
 Made
 
@@ -41,40 +41,40 @@ Coming into operation
 
 4th August 2003
 
-[^key-a5571498f16cce1519e74bfda2b7864b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5571498f16cce1519e74bfda2b7864b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a5571498f16cce1519e74bfda2b7864b]
+## 1. Citation, commencement and interpretation[^c-a5571498f16cce1519e74bfda2b7864b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^key-a5571498f16cce1519e74bfda2b7864b]
+## 2. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^c-a5571498f16cce1519e74bfda2b7864b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Pensions on Divorce etc. (Provision of Information) Regulations[^key-a5571498f16cce1519e74bfda2b7864b]
+## 3. Amendment of the Pensions on Divorce etc. (Provision of Information) Regulations[^c-a5571498f16cce1519e74bfda2b7864b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Pension Sharing (Valuation) Regulations[^key-a5571498f16cce1519e74bfda2b7864b]
+## 4. Amendment of the Pension Sharing (Valuation) Regulations[^c-a5571498f16cce1519e74bfda2b7864b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Pension Sharing (Implementation and Discharge of Liability) Regulations[^key-a5571498f16cce1519e74bfda2b7864b]
+## 5. Amendment of the Pension Sharing (Implementation and Discharge of Liability) Regulations[^c-a5571498f16cce1519e74bfda2b7864b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^key-a5571498f16cce1519e74bfda2b7864b]
+## 6. Amendment of the Pension Sharing (Pension Credit Benefit) Regulations[^c-a5571498f16cce1519e74bfda2b7864b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a5571498f16cce1519e74bfda2b7864b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5571498f16cce1519e74bfda2b7864b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a5571498f16cce1519e74bfda2b7864b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a5571498f16cce1519e74bfda2b7864b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a5571498f16cce1519e74bfda2b7864b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/337) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/paragraph/10)
+[^c-a5571498f16cce1519e74bfda2b7864b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/337) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/paragraph/10)

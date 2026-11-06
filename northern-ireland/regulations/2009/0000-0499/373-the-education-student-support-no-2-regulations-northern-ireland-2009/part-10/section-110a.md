@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110A. Amount of the distance learning fee loan under regulation 109(1)(aa)[^key-d5867d9dea34de8cb2ae69282644bae6]
+## 110A. Amount of the distance learning fee loan under regulation 109(1)(aa)[^c-d5867d9dea34de8cb2ae69282644bae6]
 
 *Extent: N.I.*
 
 (1) The maximum amount of distance learning fee loan in respect of an academic year of a designated distance learning course must not exceed the lesser of—
 
-- (a) £3,738.75[^key-23c4d5dba932834ca9a0a192d2b1f2c8]; and
+- (a) £3,738.75[^c-23c4d5dba932834ca9a0a192d2b1f2c8]; and
 - (b) the fees payable by the student in connection with that year.
 
 (2) Subject to paragraphs (3) and (6), the distance learning fee loan to which an eligible distance learning student is entitled is calculated as follows—
@@ -63,6 +63,6 @@ minus any grant paid under regulation 109(1)(a) in connection with that year.
 
 ## Annotations
 
-[^key-d5867d9dea34de8cb2ae69282644bae6]: Textual amendment: [Reg. 110A](https://www.legislation.gov.uk/nisr/2009/373/regulation/110A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2017/7/regulation/11)
+[^c-d5867d9dea34de8cb2ae69282644bae6]: Textual amendment: [Reg. 110A](https://www.legislation.gov.uk/nisr/2009/373/regulation/110A) inserted (with application in accordance with reg. 1(2) of the amending Rule) by [The Education (Student Support) (No.2) (Amendment) and Education (Student Loan) (Repayment) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/7)](https://www.legislation.gov.uk/nisr/2017/7), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/7/regulation/1/1), [11](https://www.legislation.gov.uk/nisr/2017/7/regulation/11)
 
-[^key-23c4d5dba932834ca9a0a192d2b1f2c8]: Textual amendment: Sum in [reg. 110A(1)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/110A/1/a) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)
+[^c-23c4d5dba932834ca9a0a192d2b1f2c8]: Textual amendment: Sum in [reg. 110A(1)(a)](https://www.legislation.gov.uk/nisr/2009/373/regulation/110A/1/a) substituted (10.4.2026 with application in accordance with reg. 1(3)(4)(b)) by [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/56)](https://www.legislation.gov.uk/nisr/2026/56), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2026/56/regulation/1/2), [7](https://www.legislation.gov.uk/nisr/2026/56/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2026/56/schedule)

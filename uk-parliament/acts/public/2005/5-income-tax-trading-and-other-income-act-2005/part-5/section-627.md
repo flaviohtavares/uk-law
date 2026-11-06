@@ -39,7 +39,7 @@ summary: ''
 - (b) a pension scheme established by a government outside the United Kingdom for the benefit, or primarily for the benefit, of its employees (or an annuity acquired using funds held for the purposes of such a pension scheme), or
 - (c) any pension arrangements of any description prescribed by regulations made under section 11(2)(h) of the Welfare Reform and Pensions Act 1999 (c. 30) or Article 12(2)(h) of the Welfare Reform and Pensions (Northern Ireland) Order 1999 (S.I. 1999/3147 (N.I. 11)).
 
-(4)[^key-9c391b6e38ee7dd96432060659ebc1d6] The rule in section 624(1) does not apply in relation to income which—
+(4)[^c-9c391b6e38ee7dd96432060659ebc1d6] The rule in section 624(1) does not apply in relation to income which—
 
 - (a) arises under a settlement, and
 - (b) originates from any settlor who was not an individual.
@@ -50,4 +50,4 @@ summary: ''
 
 [^c19752881]: Textual amendment: Words in s. 627(2)(b) substituted (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 554](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/554) (with transitional provisions and savings in [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-9c391b6e38ee7dd96432060659ebc1d6]: Textual amendment: S. 627(4) inserted (with effect in accordance with s. 12(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/12/2)
+[^c-9c391b6e38ee7dd96432060659ebc1d6]: Textual amendment: S. 627(4) inserted (with effect in accordance with s. 12(4) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/12/2)

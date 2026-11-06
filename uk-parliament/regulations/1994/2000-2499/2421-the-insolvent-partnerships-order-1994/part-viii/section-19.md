@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Supplemental and transitional provisions[^key-77ae37ac79468fb657512da48a2552a2]
+## 19. Supplemental and transitional provisions[^c-77ae37ac79468fb657512da48a2552a2]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) For the purpose of paragraph (2) above, winding-up or bankruptcy proceedings are pending if a statutory or written demand has been served or a winding-up or bankruptcy petition has been presented.
 
-(4)[^key-bc0f3dd8ceadf18286b1d6982b1471a6] Nothing in this Order is to be taken as preventing a petition being presented against an insolvent partnership under section 367 of the Financial Services and Markets Act 2000, or any other enactment except where paragraph 12 of Schedule A1 to[^key-4afd24a2e62d834c0badc8ff31540611] the Act, as applied by this Order, has the effect of preventing a petition being so presented.
+(4)[^c-bc0f3dd8ceadf18286b1d6982b1471a6] Nothing in this Order is to be taken as preventing a petition being presented against an insolvent partnership under section 367 of the Financial Services and Markets Act 2000, or any other enactment except where paragraph 12 of Schedule A1 to[^c-4afd24a2e62d834c0badc8ff31540611] the Act, as applied by this Order, has the effect of preventing a petition being so presented.
 
 (5) Nothing in this Order is to be taken as preventing any creditor or creditors owed one or more debts by an insolvent partnership from presenting a petition under the Act against one or more members of the partnership liable for that debt or those debts (as the case may be) without including the others and without presenting a petition for the winding up of the partnership as an unregistered company.
 
@@ -37,12 +37,12 @@ summary: ''
 
 ## Annotations
 
-[^key-77ae37ac79468fb657512da48a2552a2]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/1994/2421/article/19) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-77ae37ac79468fb657512da48a2552a2]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/1994/2421/article/19) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
 [^f00012]: Footnote: [S.I. 1986/2142](https://www.legislation.gov.uk/uksi/1986/2142).
 
-[^key-bc0f3dd8ceadf18286b1d6982b1471a6]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/uksi/1994/2421/article/19/4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [467](https://www.legislation.gov.uk/uksi/2001/3649/article/467)
+[^c-bc0f3dd8ceadf18286b1d6982b1471a6]: Textual amendment: [Art. 19(4)](https://www.legislation.gov.uk/uksi/1994/2421/article/19/4) substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [467](https://www.legislation.gov.uk/uksi/2001/3649/article/467)
 
-[^key-4afd24a2e62d834c0badc8ff31540611]: Textual amendment: Words in [art. 19(4)](https://www.legislation.gov.uk/uksi/1994/2421/article/19/4) inserted (1.1.2003) by [The Insolvent Partnerships (Amendment) (No. 2)Order 2002 (S.I. 2002/2708)](https://www.legislation.gov.uk/uksi/2002/2708), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2708/article/1), [5](https://www.legislation.gov.uk/uksi/2002/2708/article/5) (with [art. 11](https://www.legislation.gov.uk/uksi/2002/2708/article/11))
+[^c-4afd24a2e62d834c0badc8ff31540611]: Textual amendment: Words in [art. 19(4)](https://www.legislation.gov.uk/uksi/1994/2421/article/19/4) inserted (1.1.2003) by [The Insolvent Partnerships (Amendment) (No. 2)Order 2002 (S.I. 2002/2708)](https://www.legislation.gov.uk/uksi/2002/2708), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2708/article/1), [5](https://www.legislation.gov.uk/uksi/2002/2708/article/5) (with [art. 11](https://www.legislation.gov.uk/uksi/2002/2708/article/11))
 
 [^f00014]: Footnote: [1914 c. 59](https://www.legislation.gov.uk/ukpga/1914/59).

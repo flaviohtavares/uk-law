@@ -25,7 +25,7 @@ summary: ''
 (2) References in this Group of Parts to the amount prescribed for the purposes of any of the following provisions—
 
 - section 251S(4);[^c19757661]
-- [^key-fc6089d7c603e022e2771da8070c52b2]...
+- [^c-fc6089d7c603e022e2771da8070c52b2]...
 - section 313A;[^c15581631]
 - section 346(3);
 - section 354(1) and (2);
@@ -45,7 +45,7 @@ and references in those provisions to the prescribed amount are to be read in ac
 
 [^c19757661]: Textual amendment: Words in s. 384(2) inserted (24.2.2009 for certain purposes otherwise 6.4.2009) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2007/15/section/108/3), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5), [Sch. 20 para. 4(a)](https://www.legislation.gov.uk/ukpga/2007/15/schedule/20/paragraph/4/a); [S.I. 2009/382](https://www.legislation.gov.uk/uksi/2009/382), [art. 2](https://www.legislation.gov.uk/uksi/2009/382/article/2)
 
-[^key-fc6089d7c603e022e2771da8070c52b2]: Textual amendment: Words in [s. 384(1)](https://www.legislation.gov.uk/ukpga/1986/45/section/384/1) omitted (6.4.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 54](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/54); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-fc6089d7c603e022e2771da8070c52b2]: Textual amendment: Words in [s. 384(1)](https://www.legislation.gov.uk/ukpga/1986/45/section/384/1) omitted (6.4.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 54](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/54); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c15581631]: Textual amendment: Words in s. 384(2) inserted (1.4.2004) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 261(5)](https://www.legislation.gov.uk/ukpga/2002/40/section/261/5), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279) (with [s. 249(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/6)); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(2)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/2093/schedule/2) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2)))
 

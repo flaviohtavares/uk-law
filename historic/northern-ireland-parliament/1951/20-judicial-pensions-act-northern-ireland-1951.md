@@ -103,7 +103,7 @@ and in paragraph (b) “children of the family” is to be construed in accordan
 
 (1) No widow's, widower's or surviving civil partner's pension may be granted if the marriage or formation of the civil partnership with the deceased took place after he or she retired from relevant service.
 
-(1A)[^key-94e31c5c8262edece764cd02bbcb21e1] A surviving civil partner’s pension may not be granted in respect of a person’s service if—
+(1A)[^c-94e31c5c8262edece764cd02bbcb21e1] A surviving civil partner’s pension may not be granted in respect of a person’s service if—
 
 - (a) the person retired from relevant service before 13th January 2020, and
 - (b) power to grant the pension relies on the Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019.
@@ -595,7 +595,7 @@ where—
 
 [^c17238921]: Textual amendment: SI 2005/3325
 
-[^key-94e31c5c8262edece764cd02bbcb21e1]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/apni/1951/20/section/7/1A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/54/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-94e31c5c8262edece764cd02bbcb21e1]: Textual amendment: [S. 7(1A)](https://www.legislation.gov.uk/apni/1951/20/section/7/1A) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [54(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/54/2) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17239101]: Textual amendment: Mod., [1966 c. 27 (NI)](https://www.legislation.gov.uk/apni/1966/27)
 

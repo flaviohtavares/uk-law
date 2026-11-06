@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Overview[^key-7021826d5f632da7329c86de718ba956]
+## 169. Overview[^c-7021826d5f632da7329c86de718ba956]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Part makes a number of amendments in connection with the Financial Services
 
 ## Annotations
 
-[^key-7021826d5f632da7329c86de718ba956]: Commencement: S. 169 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)
+[^c-7021826d5f632da7329c86de718ba956]: Commencement: S. 169 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/4)

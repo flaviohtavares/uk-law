@@ -40,11 +40,11 @@ Made
 
 The Department of Finance in exercise of the powers conferred by section 90(2) of the Coronavirus Act 2020 [^f00001] makes the following Order.
 
-## 1. Citation[^key-1fb95018f173d5b8e3a5993afe459ce3]
+## 1. Citation[^c-1fb95018f173d5b8e3a5993afe459ce3]
 
 This Order may be cited as the Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) Order (Northern Ireland) 2025.
 
-## 2. Extension of expiry date[^key-982f03c637a397528aec8f55ef286745]
+## 2. Extension of expiry date[^c-982f03c637a397528aec8f55ef286745]
 
 The following provisions of the Coronavirus Act 2020 (which concern the registration of deaths and still-births in Northern Ireland) do not expire at the time when they would otherwise expire and expire instead on 24<sup>th</sup> September 2025 —
 
@@ -74,6 +74,6 @@ This Order extends section 18(3) and paragraphs 17 to 22 and 27 to 29 of Schedul
 
 [^f00001]: Footnote: [2020 c.7](https://www.legislation.gov.uk/ukpga/2020/7); see also subsections (11) to (13) and (15) of section 90
 
-[^key-1fb95018f173d5b8e3a5993afe459ce3]: Commencement: Art. 1 in operation at made date
+[^c-1fb95018f173d5b8e3a5993afe459ce3]: Commencement: Art. 1 in operation at made date
 
-[^key-982f03c637a397528aec8f55ef286745]: Commencement: Art. 2 in operation at made date
+[^c-982f03c637a397528aec8f55ef286745]: Commencement: Art. 2 in operation at made date

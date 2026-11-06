@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Clinical Negligence Scheme) (Amendment) Regulations 2014 (revoked)[^key-8eb383a873d2b3ced618c1a4b4574eb6]
+The National Health Service (Clinical Negligence Scheme) (Amendment) Regulations 2014 (revoked)[^c-8eb383a873d2b3ced618c1a4b4574eb6]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st May 2014
 
-[^key-8eb383a873d2b3ced618c1a4b4574eb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8eb383a873d2b3ced618c1a4b4574eb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-8eb383a873d2b3ced618c1a4b4574eb6]
+## 1. Citation, commencement, application and interpretation[^c-8eb383a873d2b3ced618c1a4b4574eb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 1 of the Principal Regulations[^key-8eb383a873d2b3ced618c1a4b4574eb6]
+## 2. Amendment of regulation 1 of the Principal Regulations[^c-8eb383a873d2b3ced618c1a4b4574eb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 3 of the Principal Regulations[^key-8eb383a873d2b3ced618c1a4b4574eb6]
+## 3. Amendment of regulation 3 of the Principal Regulations[^c-8eb383a873d2b3ced618c1a4b4574eb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 4 of the Principal Regulations[^key-8eb383a873d2b3ced618c1a4b4574eb6]
+## 4. Amendment of regulation 4 of the Principal Regulations[^c-8eb383a873d2b3ced618c1a4b4574eb6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8eb383a873d2b3ced618c1a4b4574eb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8eb383a873d2b3ced618c1a4b4574eb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8eb383a873d2b3ced618c1a4b4574eb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8eb383a873d2b3ced618c1a4b4574eb6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8eb383a873d2b3ced618c1a4b4574eb6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/933) revoked (1.4.2015) by [The National Health Service (Clinical Negligence Scheme) Regulations 2015 (S.I. 2015/559)](https://www.legislation.gov.uk/uksi/2015/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/559/regulation/22), [Sch.](https://www.legislation.gov.uk/uksi/2015/559/schedule)
+[^c-8eb383a873d2b3ced618c1a4b4574eb6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/933) revoked (1.4.2015) by [The National Health Service (Clinical Negligence Scheme) Regulations 2015 (S.I. 2015/559)](https://www.legislation.gov.uk/uksi/2015/559), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/559/regulation/1/2), [22](https://www.legislation.gov.uk/uksi/2015/559/regulation/22), [Sch.](https://www.legislation.gov.uk/uksi/2015/559/schedule)

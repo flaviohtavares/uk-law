@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Revocations[^key-a03c073e8d3afbb8e86abd9cd1f87450][^key-388526e1bfc29961aab88027fbf0b175]
+## 162. Revocations[^c-a03c073e8d3afbb8e86abd9cd1f87450][^c-388526e1bfc29961aab88027fbf0b175]
 
 *Extent: E+W*
 
@@ -29,8 +29,8 @@ Subject to the savings mentioned in regulation 163—
 
 ## Annotations
 
-[^key-a03c073e8d3afbb8e86abd9cd1f87450]: Commencement: Reg. 162(a) in force at 30.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/a)
+[^c-a03c073e8d3afbb8e86abd9cd1f87450]: Commencement: Reg. 162(a) in force at 30.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/a)
 
-[^key-388526e1bfc29961aab88027fbf0b175]: Commencement: Reg. 162(b) in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-388526e1bfc29961aab88027fbf0b175]: Commencement: Reg. 162(b) in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00135]: Footnote: [S.I. 1996/568](https://www.legislation.gov.uk/uksi/1996/568).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. Fixed penalty notices for certain offences under section 34[^key-acda3f4fc433ac5a3fefab0e1571306e][^c18960311]
+## 34A. Fixed penalty notices for certain offences under section 34[^c-acda3f4fc433ac5a3fefab0e1571306e][^c18960311]
 
 *Extent: E+W*
 
@@ -61,12 +61,12 @@ is evidence of the facts stated.
 (14) In this section—
 
 - “**chief finance officer**”, in relation to an enforcement authority, means the person having responsibility for the financial affairs of the authority;
-- “**enforcement authority**” means the Environment Agency , the Natural Resources Body for Wales[^key-21fc414bf1a543f538b6b171b7a8c543] or a waste collection authority.
+- “**enforcement authority**” means the Environment Agency , the Natural Resources Body for Wales[^c-21fc414bf1a543f538b6b171b7a8c543] or a waste collection authority.
 
 ## Annotations
 
-[^key-acda3f4fc433ac5a3fefab0e1571306e]: Modification: Ss. 33-34C applied (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
+[^c-acda3f4fc433ac5a3fefab0e1571306e]: Modification: Ss. 33-34C applied (29.3.2011) by [The Waste (England and Wales) Regulations 2011 (S.I. 2011/988)](https://www.legislation.gov.uk/uksi/2011/988), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/1/2), [47(3)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/3) (with [regs. 2](https://www.legislation.gov.uk/uksi/2011/988/regulation/2), [47(2)](https://www.legislation.gov.uk/uksi/2011/988/regulation/47/2))
 
 [^c18960311]: Textual amendment: S. 34A inserted (E.W.) (16.3.2006 for certain purposes for W., 6.4.2006 for E. and 15.3.2007 in so far as not already in force for W.) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 45](https://www.legislation.gov.uk/ukpga/2005/16/section/45), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108); [S.I. 2006/768](https://www.legislation.gov.uk/uksi/2006/768), [art. 3](https://www.legislation.gov.uk/uksi/2006/768/article/3); [S.I. 2006/795](https://www.legislation.gov.uk/uksi/2006/795), [art. 2(3)](https://www.legislation.gov.uk/uksi/2006/795/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/795/schedule/2); [S.I. 2006/2797](https://www.legislation.gov.uk/uksi/2006/2797), [art. 4](https://www.legislation.gov.uk/uksi/2006/2797/article/4)
 
-[^key-21fc414bf1a543f538b6b171b7a8c543]: Textual amendment: Words in s. 34A(14) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 212](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/212) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-21fc414bf1a543f538b6b171b7a8c543]: Textual amendment: Words in s. 34A(14) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 212](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/212) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

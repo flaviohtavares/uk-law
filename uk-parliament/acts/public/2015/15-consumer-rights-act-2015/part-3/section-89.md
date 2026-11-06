@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Qualifying institutions for the purposes of the student complaints scheme[^key-50d1a48f866f0f65d10b552c3fa8cbe3][^key-599e5dc5dd10943715578f1722ab85db]
+## 89. Qualifying institutions for the purposes of the student complaints scheme[^c-50d1a48f866f0f65d10b552c3fa8cbe3][^c-599e5dc5dd10943715578f1722ab85db]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50d1a48f866f0f65d10b552c3fa8cbe3]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2015/15/section/89) in force at 1.9.2015 for E. by [S.I. 2015/1575](https://www.legislation.gov.uk/uksi/2015/1575), [art. 2](https://www.legislation.gov.uk/uksi/2015/1575/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1575/article/3))
+[^c-50d1a48f866f0f65d10b552c3fa8cbe3]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2015/15/section/89) in force at 1.9.2015 for E. by [S.I. 2015/1575](https://www.legislation.gov.uk/uksi/2015/1575), [art. 2](https://www.legislation.gov.uk/uksi/2015/1575/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/1575/article/3))
 
-[^key-599e5dc5dd10943715578f1722ab85db]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2015/15/section/89) in force at 1.9.2015 for W. by [S.I. 2015/1605](https://www.legislation.gov.uk/wsi/2015/1605), [art. 2](https://www.legislation.gov.uk/wsi/2015/1605/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1605/article/3))
+[^c-599e5dc5dd10943715578f1722ab85db]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2015/15/section/89) in force at 1.9.2015 for W. by [S.I. 2015/1605](https://www.legislation.gov.uk/wsi/2015/1605), [art. 2](https://www.legislation.gov.uk/wsi/2015/1605/article/2) (with [art. 3](https://www.legislation.gov.uk/wsi/2015/1605/article/3))

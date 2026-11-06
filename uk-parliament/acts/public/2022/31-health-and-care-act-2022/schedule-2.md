@@ -22,7 +22,7 @@ summary: ''
 
 Section 19
 
-**1.**[^key-61a39d8542a54df7a937cd25ebdf55d6][^key-d2843256475a174a3d6b8be9fd242985][^key-e023d2ec8c63d35bd8705c5dcdca6d12] Before Schedule 4 to the National Health Service Act 2006 insert—
+**1.**[^c-61a39d8542a54df7a937cd25ebdf55d6][^c-d2843256475a174a3d6b8be9fd242985][^c-e023d2ec8c63d35bd8705c5dcdca6d12] Before Schedule 4 to the National Health Service Act 2006 insert—
 
 > **SCHEDULE 1B — Integrated care boards**
 >
@@ -264,18 +264,18 @@ Section 19
 >
 > (2) A document purporting to be duly executed under an integrated care board’s seal or to be signed on its behalf must be received in evidence and, unless the contrary is proven, taken to be so executed or signed.
 
-**2.**[^key-7f73ce7ca49b96163e61d6f7343c0df9][^key-6bcefb448fb258e08ce74391af5d02c4] In section 272 of that Act (orders, regulations, rules and directions), in subsection (6), after paragraph (d) (inserted by section 17 of this Act), insert—
+**2.**[^c-7f73ce7ca49b96163e61d6f7343c0df9][^c-6bcefb448fb258e08ce74391af5d02c4] In section 272 of that Act (orders, regulations, rules and directions), in subsection (6), after paragraph (d) (inserted by section 17 of this Act), insert—
 
 > - (e) regulations under paragraph 19(5) of Schedule 1B.
 
 ## Annotations
 
-[^key-61a39d8542a54df7a937cd25ebdf55d6]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-61a39d8542a54df7a937cd25ebdf55d6]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-d2843256475a174a3d6b8be9fd242985]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/2/paragraph/1) in force at 9.5.2022 for specified purposes by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/e)
+[^c-d2843256475a174a3d6b8be9fd242985]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/2/paragraph/1) in force at 9.5.2022 for specified purposes by [S.I. 2022/515](https://www.legislation.gov.uk/uksi/2022/515), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2022/515/regulation/2/e)
 
-[^key-e023d2ec8c63d35bd8705c5dcdca6d12]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/2/paragraph/1) in force at 1.7.2022 in so far as not already in force by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-e023d2ec8c63d35bd8705c5dcdca6d12]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2022/31/schedule/2/paragraph/1) in force at 1.7.2022 in so far as not already in force by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
 
-[^key-7f73ce7ca49b96163e61d6f7343c0df9]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-7f73ce7ca49b96163e61d6f7343c0df9]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-6bcefb448fb258e08ce74391af5d02c4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/2/paragraph/2) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-6bcefb448fb258e08ce74391af5d02c4]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2022/31/schedule/2/paragraph/2) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

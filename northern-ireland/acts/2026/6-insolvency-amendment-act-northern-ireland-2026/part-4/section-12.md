@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Challenge to directors’ actions[^key-50634754318aaf18c81e846aafb92a36]
+## 12. Challenge to directors’ actions[^c-50634754318aaf18c81e846aafb92a36]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ In Article 13FB (challenge to directors’ actions), for paragraph (4)(c) substi
 
 ## Annotations
 
-[^key-50634754318aaf18c81e846aafb92a36]: Commencement: S. 12 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-50634754318aaf18c81e846aafb92a36]: Commencement: S. 12 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

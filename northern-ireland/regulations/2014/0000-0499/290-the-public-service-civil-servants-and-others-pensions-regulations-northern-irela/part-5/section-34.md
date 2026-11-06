@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Determination of “the assumed age addition”[^key-bd3f4f422ef1292086976ca6aa45d403]
+## 34. Determination of “the assumed age addition”[^c-bd3f4f422ef1292086976ca6aa45d403]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd3f4f422ef1292086976ca6aa45d403]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2014/290/regulation/34) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-bd3f4f422ef1292086976ca6aa45d403]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2014/290/regulation/34) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

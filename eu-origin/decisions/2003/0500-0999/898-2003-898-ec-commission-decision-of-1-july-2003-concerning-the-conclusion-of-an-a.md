@@ -31,10 +31,10 @@ summary: ''
 
 of 1 July 2003 concerning the conclusion of an agreement amending the Agreement between the European Community and Australia on trade in wine (revoked)
 
-[^key-22e38df7c014f30ef285d1ff3358aa38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-22e38df7c014f30ef285d1ff3358aa38]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-22e38df7c014f30ef285d1ff3358aa38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-22e38df7c014f30ef285d1ff3358aa38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-22e38df7c014f30ef285d1ff3358aa38]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-22e38df7c014f30ef285d1ff3358aa38]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

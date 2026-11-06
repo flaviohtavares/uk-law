@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Private rights[^key-f88ee41f219e2b3fd8c9dc5e0322356b]
+## 25. Private rights[^c-f88ee41f219e2b3fd8c9dc5e0322356b]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-f88ee41f219e2b3fd8c9dc5e0322356b]: Commencement: Art. 25 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-f88ee41f219e2b3fd8c9dc5e0322356b]: Commencement: Art. 25 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
 
 [^f00045]: Footnote: Section 11(1) was amended by paragraph 14(3) of Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67), paragraph 12(1) of Schedule 5 to the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1) and section 186(2) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).

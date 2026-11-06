@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Amendments relating to the Secret Intelligence Service etc[^key-062321e480fc139b03947e2c2ebc3b2b][^key-497c44489a692253bd6beab14ed71c3e]
+## 96. Amendments relating to the Secret Intelligence Service etc[^c-062321e480fc139b03947e2c2ebc3b2b][^c-497c44489a692253bd6beab14ed71c3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ is treated as having been made under section 18 of that Act.
 
 ## Annotations
 
-[^key-062321e480fc139b03947e2c2ebc3b2b]: Commencement: S. 96 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-062321e480fc139b03947e2c2ebc3b2b]: Commencement: S. 96 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-497c44489a692253bd6beab14ed71c3e]: Commencement: S. 96 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-497c44489a692253bd6beab14ed71c3e]: Commencement: S. 96 in force at 1.4.2022 in so far as not already in force, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)

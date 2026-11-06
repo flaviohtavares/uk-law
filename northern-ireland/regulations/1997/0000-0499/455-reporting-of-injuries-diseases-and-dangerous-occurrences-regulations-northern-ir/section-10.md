@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Restrictions on the application of regulations 3, 4 and 5[^key-af7ca20915ec982a782be8b87efce2f7]
+## 10. Restrictions on the application of regulations 3, 4 and 5[^c-af7ca20915ec982a782be8b87efce2f7]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-af7ca20915ec982a782be8b87efce2f7]: Commencement: Reg. 10 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-af7ca20915ec982a782be8b87efce2f7]: Commencement: Reg. 10 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
 
 [^f00019]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67); as amended by section 170(1) of, and paragraph 14 of Schedule 15 to, the Criminal Justice Act 1988 ([1988 c. 33)](https://www.legislation.gov.uk/ukpga/1988/33)

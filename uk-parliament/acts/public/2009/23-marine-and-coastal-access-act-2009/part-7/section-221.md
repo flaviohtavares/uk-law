@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 221. Power to specify fish[^c2008201][^key-6999db043cf4f1be75d11c4cdf48ef14]
+## 221. Power to specify fish[^c2008201][^c-6999db043cf4f1be75d11c4cdf48ef14]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c2008201]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2009/23/section/221) partly in force; [s. 221](https://www.legislation.gov.uk/ukpga/2009/23/section/221) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-6999db043cf4f1be75d11c4cdf48ef14]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2009/23/section/221) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)
+[^c-6999db043cf4f1be75d11c4cdf48ef14]: Commencement: [S. 221](https://www.legislation.gov.uk/ukpga/2009/23/section/221) in force at 12.1.2010 in so far as not already in force by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/12)

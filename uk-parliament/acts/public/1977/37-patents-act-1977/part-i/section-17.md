@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Search.[^key-b35bfa790a9e00eacf7e4ffddc2d1b05]
+## 17. Search.[^c-b35bfa790a9e00eacf7e4ffddc2d1b05]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2db767c75b0fe43d09cd0a42efeff92a] The comptroller shall refer an application for a patent to an examiner for a search if, and only if—
+(1)[^c-2db767c75b0fe43d09cd0a42efeff92a] The comptroller shall refer an application for a patent to an examiner for a search if, and only if—
 
 - (a) the comptroller has referred the application to an examiner for a preliminary examination under section 15A(1) above;
 - (b) the application has not been withdrawn or treated as withdrawn;
@@ -32,9 +32,9 @@ summary: ''
   - (ii) one or more claims; and
 - (e) the description and each of the claims comply with the requirements of rules as to language.
 
-(2) On a preliminary examination of an application the examiner shall determine whether the application complies with those requirements of this Act and the rules which are designated by the rules as formal requirements for the purposes of this Act and shall report his determination to the comptroller. *(affected by repeal, see note)*[^key-cd093b022760a2651c47ec5f26e1905d]
+(2) On a preliminary examination of an application the examiner shall determine whether the application complies with those requirements of this Act and the rules which are designated by the rules as formal requirements for the purposes of this Act and shall report his determination to the comptroller. *(affected by repeal, see note)*[^c-cd093b022760a2651c47ec5f26e1905d]
 
-(3) If it is reported to the comptroller under subsection (2) above that not all the formal requirements are complied with, he shall give the applicant an opportunity to make observations on the report and to amend the application within a specified period (subject to section 15(5) above) so as to comply with those requirements (subject, however, to section 76 below), and if the applicant fails to do so the comptroller may refuse the application. *(affected by repeal, see note)*[^key-cd093b022760a2651c47ec5f26e1905d]
+(3) If it is reported to the comptroller under subsection (2) above that not all the formal requirements are complied with, he shall give the applicant an opportunity to make observations on the report and to amend the application within a specified period (subject to section 15(5) above) so as to comply with those requirements (subject, however, to section 76 below), and if the applicant fails to do so the comptroller may refuse the application. *(affected by repeal, see note)*[^c-cd093b022760a2651c47ec5f26e1905d]
 
 (4) Subject to subsections (5) and (6) below, on a search requested under this section, the examiner shall make such investigation as in his opinion is reasonably practicable and necessary for him to identify the documents which he thinks will be needed to decide, on a substantive examination under section 18 below, whether the invention for which a patent is sought is new and involves an inventive step.
 
@@ -58,11 +58,11 @@ shall be made only on payment of the prescribed fee, unless the comptroller dire
 
 ## Annotations
 
-[^key-b35bfa790a9e00eacf7e4ffddc2d1b05]: Textual amendment: S. 17 heading substituted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/6/2) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-b35bfa790a9e00eacf7e4ffddc2d1b05]: Textual amendment: S. 17 heading substituted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/6/2) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
 
-[^key-2db767c75b0fe43d09cd0a42efeff92a]: Textual amendment: S. 17(1) substituted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2004/2357/article/6/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-2db767c75b0fe43d09cd0a42efeff92a]: Textual amendment: S. 17(1) substituted (1.1.2005) by [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2004/2357/article/6/3) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
 
-[^key-cd093b022760a2651c47ec5f26e1905d]: Textual amendment: S. 17(2)(3) ceased to have effect (1.1.2005) by virtue of [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2004/2357/article/6/4) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
+[^c-cd093b022760a2651c47ec5f26e1905d]: Textual amendment: S. 17(2)(3) ceased to have effect (1.1.2005) by virtue of [The Regulatory Reform (Patents) Order 2004 (S.I. 2004/2357)](https://www.legislation.gov.uk/uksi/2004/2357), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2004/2357/article/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2004/2357/article/6/4) (with [arts. 20-23](https://www.legislation.gov.uk/uksi/2004/2357/article/20))
 
 [^c8020001]: Textual amendment: Words substituted by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [s. 295](https://www.legislation.gov.uk/european/directive/2003/0063), [Sch. 5 para. 3(2)](https://www.legislation.gov.uk/european/directive/2003/0063)
 

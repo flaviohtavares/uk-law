@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Powers of children's hearing on review[^key-4730275d24987d53324b2d4edec63a31]
+## 138. Powers of children's hearing on review[^c-4730275d24987d53324b2d4edec63a31]
 
 *Extent: S*
 
@@ -30,11 +30,11 @@ summary: ''
 - (b) vary the compulsory supervision order,
 - (c) continue the compulsory supervision order for a period not exceeding one year.
 
-(3A)[^key-312ad3de7fc8075db9e236104bbd6b58] In deciding whether to exercise the power conferred by subsection (2), the children's hearing must consider whether to require the Principal Reporter to obtain any report, from any person, which the children's hearing considers relevant to any matter to be determined by the subsequent children's hearing.
+(3A)[^c-312ad3de7fc8075db9e236104bbd6b58] In deciding whether to exercise the power conferred by subsection (2), the children's hearing must consider whether to require the Principal Reporter to obtain any report, from any person, which the children's hearing considers relevant to any matter to be determined by the subsequent children's hearing.
 
 (4) The children's hearing may vary or continue a compulsory supervision order only if the children's hearing is satisfied that it is necessary to do so for the protection, guidance, treatment or control of the child.
 
-(5)[^key-22e912490de788b36bf72661500ddedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-22e912490de788b36bf72661500ddedc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) If the children's hearing terminates the compulsory supervision order, the children's hearing must—
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-4730275d24987d53324b2d4edec63a31]: Commencement: S. 138 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4730275d24987d53324b2d4edec63a31]: Commencement: S. 138 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-312ad3de7fc8075db9e236104bbd6b58]: Textual amendment: [S. 138(3A)](https://www.legislation.gov.uk/asp/2011/1/section/138/3A) inserted (17.12.2021) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 77(4)](https://www.legislation.gov.uk/asp/2019/7/section/77/4), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2021/449](https://www.legislation.gov.uk/ssi/2021/449), [reg. 2](https://www.legislation.gov.uk/ssi/2021/449/regulation/2)
+[^c-312ad3de7fc8075db9e236104bbd6b58]: Textual amendment: [S. 138(3A)](https://www.legislation.gov.uk/asp/2011/1/section/138/3A) inserted (17.12.2021) by [Age of Criminal Responsibility (Scotland) Act 2019 (asp 7)](https://www.legislation.gov.uk/asp/2019/7), [ss. 77(4)](https://www.legislation.gov.uk/asp/2019/7/section/77/4), [84(2)](https://www.legislation.gov.uk/asp/2019/7/section/84/2); [S.S.I. 2021/449](https://www.legislation.gov.uk/ssi/2021/449), [reg. 2](https://www.legislation.gov.uk/ssi/2021/449/regulation/2)
 
-[^key-22e912490de788b36bf72661500ddedc]: Textual amendment: S. 138(5) repealed (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
+[^c-22e912490de788b36bf72661500ddedc]: Textual amendment: S. 138(5) repealed (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)

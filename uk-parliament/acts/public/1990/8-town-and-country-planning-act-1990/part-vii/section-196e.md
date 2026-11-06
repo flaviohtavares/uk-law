@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 196E. Power to provide relief from enforcement of planning conditions[^key-b29ba4f89cc2a9ae36bb731f278d9fd1]
+## 196E. Power to provide relief from enforcement of planning conditions[^c-b29ba4f89cc2a9ae36bb731f278d9fd1]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b29ba4f89cc2a9ae36bb731f278d9fd1]: Textual amendment: [S. 196E](https://www.legislation.gov.uk/ukpga/1990/8/section/196E) and cross-heading inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 121](https://www.legislation.gov.uk/ukpga/2023/55/section/121), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-b29ba4f89cc2a9ae36bb731f278d9fd1]: Textual amendment: [S. 196E](https://www.legislation.gov.uk/ukpga/1990/8/section/196E) and cross-heading inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 121](https://www.legislation.gov.uk/ukpga/2023/55/section/121), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

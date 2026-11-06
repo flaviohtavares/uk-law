@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 323. Right to have list of creditors[^key-87064ebec924fa22ed99dbb4961c95a1]
+## 323. Right to have list of creditors[^c-87064ebec924fa22ed99dbb4961c95a1]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87064ebec924fa22ed99dbb4961c95a1]: Commencement: [Rule 323](https://www.legislation.gov.uk/uksi/2011/1301/rule/323) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-87064ebec924fa22ed99dbb4961c95a1]: Commencement: [Rule 323](https://www.legislation.gov.uk/uksi/2011/1301/rule/323) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

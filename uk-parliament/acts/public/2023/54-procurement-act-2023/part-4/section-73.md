@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Implied payment terms in sub-contracts[^key-955ab091194cdd22d4f1436297a21e21][^key-fc502c2b3b5ea38f65928e079d8a2f2e]
+## 73. Implied payment terms in sub-contracts[^c-955ab091194cdd22d4f1436297a21e21][^c-fc502c2b3b5ea38f65928e079d8a2f2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-955ab091194cdd22d4f1436297a21e21]: Commencement: S. 73 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-955ab091194cdd22d4f1436297a21e21]: Commencement: S. 73 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-fc502c2b3b5ea38f65928e079d8a2f2e]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/54/section/73) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-fc502c2b3b5ea38f65928e079d8a2f2e]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/54/section/73) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

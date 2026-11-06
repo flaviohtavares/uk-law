@@ -24,9 +24,9 @@ summary: ''
 
 (2) Chapter 3 imposes a charge to tax in connection with loans or advances by close companies to participators.
 
-(2A)[^key-d44cd2a695a3163397de28142cf33491] Chapter 3A imposes a charge to tax in connection with other arrangements involving close companies and participators.
+(2A)[^c-d44cd2a695a3163397de28142cf33491] Chapter 3A imposes a charge to tax in connection with other arrangements involving close companies and participators.
 
-(2B)[^key-3f34855fd4fe12673854bde6edb1a3e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-3f34855fd4fe12673854bde6edb1a3e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Chapter 4 contains a power to obtain information in connection with close companies.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d44cd2a695a3163397de28142cf33491]: Textual amendment: S. 438(2A)(2B) inserted (retrospective to 20.3.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 30 para. 2(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/2/1) [(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/2/2)
+[^c-d44cd2a695a3163397de28142cf33491]: Textual amendment: S. 438(2A)(2B) inserted (retrospective to 20.3.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 30 para. 2(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/2/1) [(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/30/paragraph/2/2)
 
-[^key-3f34855fd4fe12673854bde6edb1a3e2]: Textual amendment: S. 438(2B) omitted (30.10.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(3)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/3/c)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/4)
+[^c-3f34855fd4fe12673854bde6edb1a3e2]: Textual amendment: S. 438(2B) omitted (30.10.2024) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 81(3)(c)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/3/c)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/81/4)

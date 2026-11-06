@@ -23,7 +23,7 @@ summary: ''
 - (a) waiving the requirement;
 - (b) requiring the failure to be remedied;
 - (c) exercising its power under rule 8 (striking out a party's case); or
-- (d) except in a mental health case, an asylum case or an immigration case[^key-8415563e46d7897a3aff0634ee769eaf], restricting a party's participation in the proceedings.
+- (d) except in a mental health case, an asylum case or an immigration case[^c-8415563e46d7897a3aff0634ee769eaf], restricting a party's participation in the proceedings.
 
 (3) Paragraph (4) applies where the First-tier Tribunal has referred to the Upper Tribunal a failure by a person to comply with a requirement imposed by the First-tier Tribunal—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8415563e46d7897a3aff0634ee769eaf]: Textual amendment: Words in rule 7(2)(d) substituted (15.2.2010) by [The Tribunal Procedure (Amendment No. 2) Rules 2010 (S.I. 2010/44)](https://www.legislation.gov.uk/uksi/2010/44), [rules 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1), [5](https://www.legislation.gov.uk/uksi/2010/44/rule/5)
+[^c-8415563e46d7897a3aff0634ee769eaf]: Textual amendment: Words in rule 7(2)(d) substituted (15.2.2010) by [The Tribunal Procedure (Amendment No. 2) Rules 2010 (S.I. 2010/44)](https://www.legislation.gov.uk/uksi/2010/44), [rules 1](https://www.legislation.gov.uk/uksi/2010/44/rule/1), [5](https://www.legislation.gov.uk/uksi/2010/44/rule/5)

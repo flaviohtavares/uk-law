@@ -31,7 +31,7 @@ Superannuation Act 1965
 
 An Act to consolidate the Superannuation Acts 1834 to 1965 and certain other enactments relating to the superannuation of civil servants and other persons employed in the civil service of the State.
 
-\[8th November 1965\][^c727492][^key-e410fdf9f6f0b936ef2ad5b463ea1d12]
+\[8th November 1965\][^c727492][^c-e410fdf9f6f0b936ef2ad5b463ea1d12]
 
 ## Part I — Superannuation Benefits
 
@@ -82,7 +82,7 @@ Provided that no rules shall be framed so as to apply when the cessation of the 
   - The Countryside Council for Wales.[^c727567]
   - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c727568]
   - The Development Fund.
-  - [^key-a1370bd562b3dca9d890c5d645bd5e02]...
+  - [^c-a1370bd562b3dca9d890c5d645bd5e02]...
   - [^c727570] The Forestry Commissioners.
   - . . .
   - The funds of the Branches of the Royal Mint at Melbourne and Perth.
@@ -337,7 +337,7 @@ Scottish Land Court.
 
 [^c727492]: Commencement: Act wholly in force at 8.12.1965 see [s. 106](https://www.legislation.gov.uk/ukpga/1965/74/section/106)
 
-[^key-e410fdf9f6f0b936ef2ad5b463ea1d12]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1965/74) excluded (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 4(5)](https://www.legislation.gov.uk/ukpga/2010/25/section/4/5), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) (with [s. 1](https://www.legislation.gov.uk/ukpga/2010/25/section/1)); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-e410fdf9f6f0b936ef2ad5b463ea1d12]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1965/74) excluded (11.11.2010) by [Constitutional Reform and Governance Act 2010 (c. 25)](https://www.legislation.gov.uk/ukpga/2010/25), [ss. 4(5)](https://www.legislation.gov.uk/ukpga/2010/25/section/4/5), [52](https://www.legislation.gov.uk/ukpga/2010/25/section/52) (with [s. 1](https://www.legislation.gov.uk/ukpga/2010/25/section/1)); [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
 
 [^c727493]: Textual amendment: [Ss. 1-37](https://www.legislation.gov.uk/ukpga/1965/74/section/1) repealed by [Superannuation Act 1972 (c. 11)](https://www.legislation.gov.uk/ukpga/1972/11), [Sch. 8](https://www.legislation.gov.uk/ukpga/1972/11/schedule/8)
 
@@ -363,7 +363,7 @@ Scottish Land Court.
 
 [^c727568]: Textual amendment: Entry repealed by [Crown Agents Act 1979 (c. 43)](https://www.legislation.gov.uk/ukpga/1979/43), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/1979/43/section/1/1), [32(3)](https://www.legislation.gov.uk/ukpga/1979/43/section/32/3), [Sch. 7](https://www.legislation.gov.uk/ukpga/1979/43/schedule/7)
 
-[^key-a1370bd562b3dca9d890c5d645bd5e02]: Textual amendment: S. 39(1): entry repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 37](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/37), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-a1370bd562b3dca9d890c5d645bd5e02]: Textual amendment: S. 39(1): entry repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 37](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/37), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
 [^c727570]: Textual amendment: Words in s. 39(1) inserted (16.3.2000) by [S.I. 2000/746](https://www.legislation.gov.uk/uksi/2000/746), [art. 2](https://www.legislation.gov.uk/uksi/2000/746/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2000/746/schedule/paragraph/4)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Small companies' rates and fractions for financial year 2008 etc[^key-988f8e4fdfff27a57d127b139afac12a]
+## 7. Small companies' rates and fractions for financial year 2008 etc[^c-988f8e4fdfff27a57d127b139afac12a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-988f8e4fdfff27a57d127b139afac12a]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2008/9/section/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 578](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/578), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-988f8e4fdfff27a57d127b139afac12a]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/2008/9/section/7) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 578](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/578), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

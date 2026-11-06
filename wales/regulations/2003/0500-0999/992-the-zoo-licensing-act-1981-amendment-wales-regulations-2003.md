@@ -41,7 +41,7 @@ Coming into force
 
 The National Assembly for Wales, being designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the keeping of wild animals in zoos, in exercise of the powers conferred upon it by the said section 2, hereby makes the following Regulations:
 
-## 1. Name, commencement, and interpretation[^key-ba9c7aac870a1c83364239696b39257f]
+## 1. Name, commencement, and interpretation[^c-ba9c7aac870a1c83364239696b39257f]
 
 (1) These Regulations are called the Zoo Licensing Act 1981 (Amendment) (Wales) Regulations 2003 and shall come into force on 22 April 2003.
 
@@ -50,13 +50,13 @@ The National Assembly for Wales, being designated[^f00001] for the purposes of s
 - “the Act” (“*y Ddeddf*”) means the Zoo Licensing Act 1981[^f00003];
 - “the 2002 Regulations” (“*Rheoliadau 2002*”) means the Zoo Licensing Act 1981 (Amendment) (England and Wales) Regulations 2002[^f00004].
 
-## 2. Application of Act: Wales[^key-a97f262a9765dc343e0e3bf349b4100a]
+## 2. Application of Act: Wales[^c-a97f262a9765dc343e0e3bf349b4100a]
 
 (1) Section 22A of the Act (inserted by the 2002 Regulations) ceases to have effect, so that the amendments to the Act which were made by regulations 3 to 26 of the 2002 Regulations and which are contained in the Schedule to these Regulations apply also in Wales.
 
 (2) The reference in Schedule 1 to the National Assembly for Wales (Transfer of Functions) Order 1999[^f00005] to the Act is to be treated as referring to the Act as amended by the 2002 Regulations and these Regulations.
 
-## 3. Existing licences[^key-99bfe32d977a9886e2a14b585ce6d98d]
+## 3. Existing licences[^c-99bfe32d977a9886e2a14b585ce6d98d]
 
 (1) This regulation applies to all zoos in Wales in respect of which a licence is in force under the Act on 22 April 2003, except zoos which close before 1 October 2003.
 
@@ -70,7 +70,7 @@ The National Assembly for Wales, being designated[^f00001] for the purposes of s
 
 (6) An alteration of a licence under paragraph (2) shall not be treated as a significant alteration for the purposes of section 16 of the Act.
 
-## 4. Transitional provision for zoos without licences[^key-7baf122b6320e952f5c8c3d7b5aaf873]
+## 4. Transitional provision for zoos without licences[^c-7baf122b6320e952f5c8c3d7b5aaf873]
 
 (1) This regulation applies to a zoo in Wales which by virtue of the amendments made to the Act by the 2002 Regulations and these Regulations is required to be licensed under the Act but which immediately before 22 April 2003, was not required to be so licensed.
 
@@ -97,7 +97,7 @@ Regulation 2(1)
 
 ### Amendment of section 1 (licensing of zoos by local authorities)
 
-### 1. (Regulation 4 of the 2002 Regulations)[^key-08b84d16bab5589736ee4b4c7a9e4403]
+### 1. (Regulation 4 of the 2002 Regulations)[^c-08b84d16bab5589736ee4b4c7a9e4403]
 
 - (a) in subsection (2) omit the words from “; and this Act” to the end of the subsection; and
 - (b) after subsection (2) insert the following subsections—
@@ -121,7 +121,7 @@ Regulation 2(1)
 
 ### Insertion of new section 1A
 
-### 2. (Regulation 5 of the 2002 Regulations)[^key-1e96cedbb740f171200aee874872b1af]
+### 2. (Regulation 5 of the 2002 Regulations)[^c-1e96cedbb740f171200aee874872b1af]
 
 After section 1 (licensing of zoos by local authorities) insert the following section—
 
@@ -151,7 +151,7 @@ After section 1 (licensing of zoos by local authorities) insert the following se
 
 ### Amendment of section 2 (application for licence)
 
-### 3. (Regulation 6 of the 2002 Regulations)[^key-5aff7eda55015ed21410891615d3d203]
+### 3. (Regulation 6 of the 2002 Regulations)[^c-5aff7eda55015ed21410891615d3d203]
 
 After subsection (2) insert the following subsection—
 
@@ -161,7 +161,7 @@ After subsection (2) insert the following subsection—
 
 ### Amendment of section 4 (grant or refusal of licence)
 
-### 4. (Regulation 7 of the 2002 Regulations)[^key-028331da55a4e473bc07ee59793a8b66]
+### 4. (Regulation 7 of the 2002 Regulations)[^c-028331da55a4e473bc07ee59793a8b66]
 
 - (a) in subsection (1) omit paragraph (b) and “, or” immediately preceding it;
 - (b) after subsection (1) insert the following subsection—
@@ -181,7 +181,7 @@ After subsection (2) insert the following subsection—
 
 ### Amendment of section 5 (periods and conditions of licence)
 
-### 5. (Regulation 8 of the 2002 Regulations)[^key-25477cec923b277e443ce0de2775be8e]
+### 5. (Regulation 8 of the 2002 Regulations)[^c-25477cec923b277e443ce0de2775be8e]
 
 - (a) after subsection (2) insert the following subsection—
 
@@ -202,7 +202,7 @@ After subsection (2) insert the following subsection—
 
 ### Amendment of section 6 (renewal of licence)
 
-### 6. (Regulation 9 of the 2002 Regulations)[^key-e4b2b84736d7ad8b6c06c5fc4779c6b9]
+### 6. (Regulation 9 of the 2002 Regulations)[^c-e4b2b84736d7ad8b6c06c5fc4779c6b9]
 
 - (a) after subsection (1) insert the following subsection—
 
@@ -216,20 +216,20 @@ After subsection (2) insert the following subsection—
 
 ### Amendment of section 7 (transfer, transmission and surrender of licence)
 
-### 7. (Regulation 10 of the 2002 Regulations)[^key-f09d41ea5212c24b9a50265693543c4e]
+### 7. (Regulation 10 of the 2002 Regulations)[^c-f09d41ea5212c24b9a50265693543c4e]
 
 In subsection (1) for the words from “which application” to the end of the subsection substitute “specified by the authority and notified by them to the transferor and transferee”.
 
 ### Amendment of section 8 (Secretary of State’s list)
 
-### 8. (Regulation 11 of the 2002 Regulations)[^key-9252eb11b562c13f7149529e446e6525]
+### 8. (Regulation 11 of the 2002 Regulations)[^c-9252eb11b562c13f7149529e446e6525]
 
 - (a) in subsection (2) at the end insert “and shall be competent to advise about the implementation in zoos of the conservation measures referred to in section 1A”; and
 - (b) in subsection (3) after “welfare,” insert “to advise about the implementation in zoos of the conservation measures referred to in section 1A,”.
 
 ### Insertion of section 9A
 
-### 9. (Regulation 12 of the 2002 Regulations)[^key-ae8377ef08ec0a02a1e46287786c591d]
+### 9. (Regulation 12 of the 2002 Regulations)[^c-ae8377ef08ec0a02a1e46287786c591d]
 
 Before section 10 (periodical inspections) insert the following section—
 
@@ -284,19 +284,19 @@ Before section 10 (periodical inspections) insert the following section—
 
 ### Amendment of section 10 (periodical inspections)
 
-### 10. (Regulation 13 of the 2002 Regulations)[^key-80eb7d5ede844719f7c55a27080bce37]
+### 10. (Regulation 13 of the 2002 Regulations)[^c-80eb7d5ede844719f7c55a27080bce37]
 
 In subsection (4)(e) for “under section 5(3)(b)” substitute “requiring the conservation measures referred to in section 1A(f) to be implemented at the zoo,”.
 
 ### Amendment of section 11 (special inspections)
 
-### 11. (Regulation 14 of the 2002 Regulations)[^key-15487950b6f2ca1fdd694184e93dc168]
+### 11. (Regulation 14 of the 2002 Regulations)[^c-15487950b6f2ca1fdd694184e93dc168]
 
 In subsection (1)(c) of section 11 (special inspections) after “inspection” insert “in accordance with section 9A or”.
 
 ### Insertion of new section 11A
 
-### 12. (Regulation 15 of the 2002 Regulations)[^key-673d56b37bfb7d55acbd69dd131eeef8]
+### 12. (Regulation 15 of the 2002 Regulations)[^c-673d56b37bfb7d55acbd69dd131eeef8]
 
 After section 11 insert the following section—
 
@@ -318,13 +318,13 @@ After section 11 insert the following section—
 
 ### Amendment of section 12 (informal inspections)
 
-### 13. (Regulation 16 of the 2002 Regulations)[^key-ea60ad99cfa79d32c27371a055a73879]
+### 13. (Regulation 16 of the 2002 Regulations)[^c-ea60ad99cfa79d32c27371a055a73879]
 
 In subsection (1) after “sections” insert “9A,”.
 
 ### Amendment of section 13 (local authority zoos)
 
-### 14. (Regulation 17 of the 2002 Regulations)[^key-00816881005155dbe1c7af96427c0024]
+### 14. (Regulation 17 of the 2002 Regulations)[^c-00816881005155dbe1c7af96427c0024]
 
 For subsections (4) and (5) substitute the following subsections—
 
@@ -381,7 +381,7 @@ For subsections (4) and (5) substitute the following subsections—
 
 ### Amendment of section 14 (dispensation for particular zoos)
 
-### 15. (Regulation 18 of the 2002 Regulations)[^key-db72b5eacad32468bfa9289dfaa1ea47]
+### 15. (Regulation 18 of the 2002 Regulations)[^c-db72b5eacad32468bfa9289dfaa1ea47]
 
 - (a) in subsection (1)—
   - (i) at the beginning insert “Subject to subsection (1A),”, and
@@ -400,7 +400,7 @@ For subsections (4) and (5) substitute the following subsections—
 
 ### Amendment of section 15 (fees and other charges)
 
-### 16. (Regulation 19 of the 2002 Regulations)[^key-2f2786de846a355d840428aa2027d920]
+### 16. (Regulation 19 of the 2002 Regulations)[^c-2f2786de846a355d840428aa2027d920]
 
 - (a) in subsection (1)—
   - (i) after “such” where it occurs for the first time insert “reasonable”,
@@ -422,7 +422,7 @@ For subsections (4) and (5) substitute the following subsections—
 
 ### Amendment of section 16 (power to alter licences)
 
-### 17. (Regulation 20 of the 2002 Regulations)[^key-c06f049e170fac49f7bf0782e630442c]
+### 17. (Regulation 20 of the 2002 Regulations)[^c-c06f049e170fac49f7bf0782e630442c]
 
 - (a) after subsection (1) insert the following subsections—
 
@@ -470,7 +470,7 @@ For subsections (4) and (5) substitute the following subsections—
   - (i) for “subsection (1) or in pursuance of a direction under subsection (3)” substitute “this section”, and
   - (ii) at the end insert “and (7A)”.
 
-### 18. Insertion of new sections[^key-f44d1c07a04365f23c13d5fa91726fa9]
+### 18. Insertion of new sections[^c-f44d1c07a04365f23c13d5fa91726fa9]
 
 After section 16 (power to alter licences) insert the following sections—
 
@@ -693,13 +693,13 @@ After section 16 (power to alter licences) insert the following sections—
 
 ### Repeal of section 17 (revocation of licence)
 
-### 19. (Regulation 22 of the 2002 Regulations)[^key-f91fd9b5521d459a5d4b02449c395857]
+### 19. (Regulation 22 of the 2002 Regulations)[^c-f91fd9b5521d459a5d4b02449c395857]
 
 Section 17 shall cease to have effect.
 
 ### Amendment of section 18 (appeals)
 
-### 20. (Regulation 23 of the 2002 Regulations)[^key-92ea16911abd10a8d5e78eb9b46c68c1]
+### 20. (Regulation 23 of the 2002 Regulations)[^c-92ea16911abd10a8d5e78eb9b46c68c1]
 
 - (a) for subsection (1) substitute the following subsection—
 
@@ -753,7 +753,7 @@ Section 17 shall cease to have effect.
 
 ### Amendment of section 19 (offences and penalties)
 
-### 21. (Regulation 24 of the 2002 Regulations)[^key-49d22b7c9f4f8466b518ce82dd3ec7c7]
+### 21. (Regulation 24 of the 2002 Regulations)[^c-49d22b7c9f4f8466b518ce82dd3ec7c7]
 
 - (a) after subsection (3) insert the following subsections—
 
@@ -783,7 +783,7 @@ Section 17 shall cease to have effect.
 
 ### Insertion of new section
 
-### 22. (Regulation 25 of the 2002 Regulations)[^key-70084495b4c2e05d7eda80f93a603840]
+### 22. (Regulation 25 of the 2002 Regulations)[^c-70084495b4c2e05d7eda80f93a603840]
 
 Before section 20 (transitory provision for existing zoos) insert the following section—
 
@@ -799,7 +799,7 @@ Before section 20 (transitory provision for existing zoos) insert the following 
 
 ### Amendment of section 21 (interpretation)
 
-### 23. (Regulation 26 of the 2002 Regulations)[^key-9bb9703348ebfce61ab463a384a1c305]
+### 23. (Regulation 26 of the 2002 Regulations)[^c-9bb9703348ebfce61ab463a384a1c305]
 
 In subsection (1) at the end insert the following definition—
 
@@ -853,64 +853,64 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). This function was transferred to the Secretary of State for Wales (S.I. [1978/272](https://www.legislation.gov.uk/uksi/1978/272)) and then to the National Assembly for Wales (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
-[^key-ba9c7aac870a1c83364239696b39257f]: Commencement: Reg. 1 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-ba9c7aac870a1c83364239696b39257f]: Commencement: Reg. 1 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
 [^f00003]: Footnote: [1981 c. 37](https://www.legislation.gov.uk/ukpga/1981/37). The functions of the Secretary of State for Wales were transferred to the National Assembly for Wales (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)).
 
 [^f00004]: Footnote: S.I. [2002/3080](https://www.legislation.gov.uk/uksi/2002/3080).
 
-[^key-a97f262a9765dc343e0e3bf349b4100a]: Commencement: Reg. 2 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-a97f262a9765dc343e0e3bf349b4100a]: Commencement: Reg. 2 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
 [^f00005]: Footnote: [S.I.1999/672](https://www.legislation.gov.uk/uksi/1999/672).
 
-[^key-99bfe32d977a9886e2a14b585ce6d98d]: Commencement: Reg. 3 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-99bfe32d977a9886e2a14b585ce6d98d]: Commencement: Reg. 3 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-7baf122b6320e952f5c8c3d7b5aaf873]: Commencement: Reg. 4 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-7baf122b6320e952f5c8c3d7b5aaf873]: Commencement: Reg. 4 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
 [^f00006]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-08b84d16bab5589736ee4b4c7a9e4403]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2003/992/schedule/paragraph/1) in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-08b84d16bab5589736ee4b4c7a9e4403]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2003/992/schedule/paragraph/1) in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-1e96cedbb740f171200aee874872b1af]: Commencement: Sch. para. 2 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-1e96cedbb740f171200aee874872b1af]: Commencement: Sch. para. 2 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-5aff7eda55015ed21410891615d3d203]: Commencement: Sch. para. 3 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-5aff7eda55015ed21410891615d3d203]: Commencement: Sch. para. 3 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-028331da55a4e473bc07ee59793a8b66]: Commencement: Sch. para. 4 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-028331da55a4e473bc07ee59793a8b66]: Commencement: Sch. para. 4 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-25477cec923b277e443ce0de2775be8e]: Commencement: Sch. para. 5 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-25477cec923b277e443ce0de2775be8e]: Commencement: Sch. para. 5 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-e4b2b84736d7ad8b6c06c5fc4779c6b9]: Commencement: Sch. para. 6 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-e4b2b84736d7ad8b6c06c5fc4779c6b9]: Commencement: Sch. para. 6 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-f09d41ea5212c24b9a50265693543c4e]: Commencement: Sch. para. 7 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-f09d41ea5212c24b9a50265693543c4e]: Commencement: Sch. para. 7 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-9252eb11b562c13f7149529e446e6525]: Commencement: Sch. para. 8 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-9252eb11b562c13f7149529e446e6525]: Commencement: Sch. para. 8 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-ae8377ef08ec0a02a1e46287786c591d]: Commencement: Sch. para. 9 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-ae8377ef08ec0a02a1e46287786c591d]: Commencement: Sch. para. 9 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-80eb7d5ede844719f7c55a27080bce37]: Commencement: Sch. para. 10 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-80eb7d5ede844719f7c55a27080bce37]: Commencement: Sch. para. 10 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-15487950b6f2ca1fdd694184e93dc168]: Commencement: Sch. para. 11 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-15487950b6f2ca1fdd694184e93dc168]: Commencement: Sch. para. 11 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-673d56b37bfb7d55acbd69dd131eeef8]: Commencement: Sch. para. 12 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-673d56b37bfb7d55acbd69dd131eeef8]: Commencement: Sch. para. 12 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-ea60ad99cfa79d32c27371a055a73879]: Commencement: Sch. para. 13 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-ea60ad99cfa79d32c27371a055a73879]: Commencement: Sch. para. 13 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-00816881005155dbe1c7af96427c0024]: Commencement: Sch. para. 14 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-00816881005155dbe1c7af96427c0024]: Commencement: Sch. para. 14 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-db72b5eacad32468bfa9289dfaa1ea47]: Commencement: Sch. para. 15 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-db72b5eacad32468bfa9289dfaa1ea47]: Commencement: Sch. para. 15 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-2f2786de846a355d840428aa2027d920]: Commencement: Sch. para. 16 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-2f2786de846a355d840428aa2027d920]: Commencement: Sch. para. 16 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-c06f049e170fac49f7bf0782e630442c]: Commencement: Sch. para. 17 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-c06f049e170fac49f7bf0782e630442c]: Commencement: Sch. para. 17 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-f44d1c07a04365f23c13d5fa91726fa9]: Commencement: Sch. para. 18 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-f44d1c07a04365f23c13d5fa91726fa9]: Commencement: Sch. para. 18 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-f91fd9b5521d459a5d4b02449c395857]: Commencement: Sch. para. 19 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-f91fd9b5521d459a5d4b02449c395857]: Commencement: Sch. para. 19 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-92ea16911abd10a8d5e78eb9b46c68c1]: Commencement: Sch. para. 20 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-92ea16911abd10a8d5e78eb9b46c68c1]: Commencement: Sch. para. 20 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-49d22b7c9f4f8466b518ce82dd3ec7c7]: Commencement: Sch. para. 21 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-49d22b7c9f4f8466b518ce82dd3ec7c7]: Commencement: Sch. para. 21 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-70084495b4c2e05d7eda80f93a603840]: Commencement: Sch. para. 22 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-70084495b4c2e05d7eda80f93a603840]: Commencement: Sch. para. 22 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
 
-[^key-9bb9703348ebfce61ab463a384a1c305]: Commencement: Sch. para. 23 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)
+[^c-9bb9703348ebfce61ab463a384a1c305]: Commencement: Sch. para. 23 in force at 22.4.2003, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2003/992/regulation/1/1)

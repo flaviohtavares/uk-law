@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Reviews of operation of other terrorism legislation[^key-21fe8c2545a3d1d4613d346495801487]
+## 45. Reviews of operation of other terrorism legislation[^c-21fe8c2545a3d1d4613d346495801487]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
   >
   > Those reviews must be completed during that year or as soon as reasonably practicable after the end of it.
 
-(2)[^key-7c24318a2b816eae8acfaa98f8044c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-7c24318a2b816eae8acfaa98f8044c33] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 20 of the Terrorism Prevention and Investigation Measures Act 2011 (reviews of the operation of that Act)—
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-21fe8c2545a3d1d4613d346495801487]: Commencement: S. 45 in force at 12.4.2015, see s. 52(2)(b)
+[^c-21fe8c2545a3d1d4613d346495801487]: Commencement: S. 45 in force at 12.4.2015, see s. 52(2)(b)
 
-[^key-7c24318a2b816eae8acfaa98f8044c33]: Textual amendment: S. 45(2) repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/9) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/e)
+[^c-7c24318a2b816eae8acfaa98f8044c33]: Textual amendment: S. 45(2) repealed (31.12.2020) by [Sanctions and Anti-Money Laundering Act 2018 (c. 13)](https://www.legislation.gov.uk/ukpga/2018/13), [s. 64(2)](https://www.legislation.gov.uk/ukpga/2018/13/section/64/2), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2018/13/schedule/3/paragraph/9) (with [ss. 52(3)](https://www.legislation.gov.uk/ukpga/2018/13/section/52/3), [53](https://www.legislation.gov.uk/ukpga/2018/13/section/53), [58](https://www.legislation.gov.uk/ukpga/2018/13/section/58)); [S.I. 2020/1535](https://www.legislation.gov.uk/uksi/2020/1535), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2020/1535/regulation/3/e)

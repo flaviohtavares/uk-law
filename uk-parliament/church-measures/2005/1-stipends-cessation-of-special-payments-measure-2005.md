@@ -33,7 +33,7 @@ A Measure passed by the General Synod of the Church of England to provide for th
 
 \[24th March 2004\]
 
-## 1. Cessation of guaranteed annuities[^key-2768e431bf22bce1ab34aae77e6bdf76]
+## 1. Cessation of guaranteed annuities[^c-2768e431bf22bce1ab34aae77e6bdf76]
 
 (1) Subject to the following provisions of this section, no guaranteed annuity shall be payable by the Commissioners under the 1976 Measure in respect of any benefice towards the stipend of the incumbent of that benefice after the cessation date or, if the benefice is vacant on the date of the coming into force of this section, after that date.
 
@@ -48,7 +48,7 @@ A Measure passed by the General Synod of the Church of England to provide for th
 
 (5) Subsections (1) and (2) above shall not have effect in relation to an incumbent to whom, on the date of the coming into force of this section, a guaranteed annuity and an annual personal grant are payable and, in such a case, notwithstanding anything in section 1 of the 1976 Measure, the guaranteed annuity shall continue to be payable only so long as that incumbent remains in office.
 
-## 2. Cessation of certain payments to Diocesan Stipends Funds[^key-90a7be84f39f38d8a5d4f32dcafd9140]
+## 2. Cessation of certain payments to Diocesan Stipends Funds[^c-90a7be84f39f38d8a5d4f32dcafd9140]
 
 (1) Where, on the date of the coming into force of this section, a scheme made under section 4 of the 1976 Measure makes provision, under subsection (4) of that section, for the Commissioners to charge their general fund with annual payments to the income account of any diocesan stipends fund, no such payments shall be made after that date.
 
@@ -56,7 +56,7 @@ A Measure passed by the General Synod of the Church of England to provide for th
 
 (3) Section 8 of the 1976 Measure is hereby repealed.
 
-## 3. Application of sums available to Commissioners[^key-008ec08755ace34fc3645cdd1d64347a]
+## 3. Application of sums available to Commissioners[^c-008ec08755ace34fc3645cdd1d64347a]
 
 (1) After the cessation date or, where there is more than one cessation date, the last such date, the Commissioners shall, from time to time and, in any event, not less than once a year, make payments to the Archbishops' Council of amounts equal to the total of the sums which would have been paid by way of guaranteed annuities and the payments mentioned in section 2(1) and (2) above at the date of the passing of sections 1 and 2 above if those sections had not been passed, less any sums which continue to be payable under section 1 above.
 
@@ -68,7 +68,7 @@ A Measure passed by the General Synod of the Church of England to provide for th
 
 (5) As soon as practicable after the end of each year the Archbishops' Council shall cause a certificate to be issued to the Commissioners to the effect that the allocation of the sums paid to the Council under subsection (1) above has been in accordance with the requirements of subsection (3) above.
 
-## 4. Interpretation[^key-3098b4b2a3ea2f222cd5823486e33758]
+## 4. Interpretation[^c-3098b4b2a3ea2f222cd5823486e33758]
 
 (1) In this Measure —
 
@@ -81,7 +81,7 @@ A Measure passed by the General Synod of the Church of England to provide for th
 
 (2) Any reference to the income account of a diocesan stipends fund means the income account required to be kept under section 1 of the Diocesan Stipends Funds Measure 1953 (1953 No. 2).
 
-## 5. Citation, commencement and extent[^key-109adb765f92da24a252b13832361f58]
+## 5. Citation, commencement and extent[^c-109adb765f92da24a252b13832361f58]
 
 (1) This Measure may be cited as the Stipends (Cessation of Special Payments) Measure 2005.
 
@@ -91,12 +91,12 @@ A Measure passed by the General Synod of the Church of England to provide for th
 
 ## Annotations
 
-[^key-2768e431bf22bce1ab34aae77e6bdf76]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2005/1/section/1) in force at 1.7.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops
+[^c-2768e431bf22bce1ab34aae77e6bdf76]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2005/1/section/1) in force at 1.7.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops
 
-[^key-90a7be84f39f38d8a5d4f32dcafd9140]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2005/1/section/2) in force at 31.12.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops
+[^c-90a7be84f39f38d8a5d4f32dcafd9140]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2005/1/section/2) in force at 31.12.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops
 
-[^key-008ec08755ace34fc3645cdd1d64347a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2005/1/section/3) in force at 1.7.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops
+[^c-008ec08755ace34fc3645cdd1d64347a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukcm/2005/1/section/3) in force at 1.7.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops
 
-[^key-3098b4b2a3ea2f222cd5823486e33758]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2005/1/section/4) in force at 1.7.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops
+[^c-3098b4b2a3ea2f222cd5823486e33758]: Commencement: [S. 4](https://www.legislation.gov.uk/ukcm/2005/1/section/4) in force at 1.7.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops
 
-[^key-109adb765f92da24a252b13832361f58]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2005/1/section/5) in force at 1.7.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops
+[^c-109adb765f92da24a252b13832361f58]: Commencement: [S. 5](https://www.legislation.gov.uk/ukcm/2005/1/section/5) in force at 1.7.2005 by [S.I. 2005/3](https://www.legislation.gov.uk/ukci/2005/3), Instrument made by Archbishops

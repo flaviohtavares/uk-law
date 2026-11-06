@@ -31,7 +31,7 @@ summary: ''
 
 Ecclesiastical Law, England
 
-The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2021 (revoked)[^key-e55b98df221f2bcfd8ff3960af335dd7]
+The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2021 (revoked)[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 Made
 
@@ -45,82 +45,82 @@ Coming into force
 
 1st January 2022
 
-[^key-e55b98df221f2bcfd8ff3960af335dd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e55b98df221f2bcfd8ff3960af335dd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 1. Citation, commencement and interpretation[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Direction as to fee[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 2. Direction as to fee[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Faculty fees payable to diocesan boards of finance[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 3. Faculty fees payable to diocesan boards of finance[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The register of patrons under Part 1 of the Patronage (Benefices) Measure 1986[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 4. The register of patrons under Part 1 of the Patronage (Benefices) Measure 1986[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Proceedings before the consistory court[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 5. Proceedings before the consistory court[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Appeals from consistory court and intervention by provincial court[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 6. Appeals from consistory court and intervention by provincial court[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Proceedings on review by Commission of Review[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 7. Proceedings on review by Commission of Review[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Proceedings in Vicar-General’s court[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 8. Proceedings in Vicar-General’s court[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Proceedings on certain ecclesiastical offences[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 9. Proceedings on certain ecclesiastical offences[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Proceedings on review of finding of Court of Ecclesiastical Causes Reserved[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 10. Proceedings on review of finding of Court of Ecclesiastical Causes Reserved[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Disciplinary proceedings under the Clergy Discipline Measure 2003[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 11. Disciplinary proceedings under the Clergy Discipline Measure 2003[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Appeals under the Clergy Discipline Measure 2003[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 12. Appeals under the Clergy Discipline Measure 2003[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Miscellaneous annual fees etc.[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 13. Miscellaneous annual fees etc.[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Exemption, reduction or remission[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 14. Exemption, reduction or remission[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Travel, subsistence, accommodation and court hearings[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 15. Travel, subsistence, accommodation and court hearings[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Value Added Tax[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 16. Value Added Tax[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Revocation[^key-e55b98df221f2bcfd8ff3960af335dd7]
+## 17. Revocation[^c-e55b98df221f2bcfd8ff3960af335dd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e55b98df221f2bcfd8ff3960af335dd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e55b98df221f2bcfd8ff3960af335dd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e55b98df221f2bcfd8ff3960af335dd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e55b98df221f2bcfd8ff3960af335dd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e55b98df221f2bcfd8ff3960af335dd7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/843) revoked (1.1.2023) by [The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2022 (S.I. 2022/829)](https://www.legislation.gov.uk/uksi/2022/829), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/829/article/1/2), [19](https://www.legislation.gov.uk/uksi/2022/829/article/19) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/829/article/1/3))
+[^c-e55b98df221f2bcfd8ff3960af335dd7]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/843) revoked (1.1.2023) by [The Ecclesiastical Judges, Legal Officers and Others (Fees) Order 2022 (S.I. 2022/829)](https://www.legislation.gov.uk/uksi/2022/829), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/829/article/1/2), [19](https://www.legislation.gov.uk/uksi/2022/829/article/19) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/829/article/1/3))

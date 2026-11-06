@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Information about previous payments from applicant[^key-bba2470bbbb71f25e36a77c2b556d8b4]
+## 44. Information about previous payments from applicant[^c-bba2470bbbb71f25e36a77c2b556d8b4]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bba2470bbbb71f25e36a77c2b556d8b4]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2021/15/section/44) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-bba2470bbbb71f25e36a77c2b556d8b4]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2021/15/section/44) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

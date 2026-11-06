@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88D. Treasury monetary penalties: procedural rights[^key-ede3aeb427233fe8513c382237e60190]
+## 88D. Treasury monetary penalties: procedural rights[^c-ede3aeb427233fe8513c382237e60190]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ede3aeb427233fe8513c382237e60190]: Textual amendment: Regs. 88C, 88D inserted (5.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 16) Regulations 2022 (S.I. 2022/1122)](https://www.legislation.gov.uk/uksi/2022/1122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1122/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2022/1122/regulation/15)
+[^c-ede3aeb427233fe8513c382237e60190]: Textual amendment: Regs. 88C, 88D inserted (5.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 16) Regulations 2022 (S.I. 2022/1122)](https://www.legislation.gov.uk/uksi/2022/1122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1122/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2022/1122/regulation/15)

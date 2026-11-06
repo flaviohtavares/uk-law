@@ -317,7 +317,7 @@ For Articles 57 and 57A of the 1972 Order (remuneration of general medical pract
 
   ,
 - (b) sub-paragraphs (f) and (g) shall be omitted; and
-- (c)[^key-e842865503586ebfedb6c3ab31e217d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-e842865503586ebfedb6c3ab31e217d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) After paragraph (3) of that Article there shall be inserted—
 
@@ -459,4 +459,4 @@ SCHEDULES
 
 [^c22289481]: Textual amendment: Words in Order substituted (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 32](https://www.legislation.gov.uk/nia/2009/1/section/32), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 6 para. 1(1)(b)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/1/b) (with [Sch. 6 para. 1(3)](https://www.legislation.gov.uk/nia/2009/1/schedule/6/paragraph/1/3)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-e842865503586ebfedb6c3ab31e217d8]: Textual amendment: [Art. 6(8)(c)](https://www.legislation.gov.uk/nisi/2004/311/article/6/8/c) repealed (13.6.2016) by [Health (Miscellaneous Provisions) Act (NorthernIreland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20](https://www.legislation.gov.uk/nia/2016/26/section/20), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/1)
+[^c-e842865503586ebfedb6c3ab31e217d8]: Textual amendment: [Art. 6(8)(c)](https://www.legislation.gov.uk/nisi/2004/311/article/6/8/c) repealed (13.6.2016) by [Health (Miscellaneous Provisions) Act (NorthernIreland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20](https://www.legislation.gov.uk/nia/2016/26/section/20), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/1)

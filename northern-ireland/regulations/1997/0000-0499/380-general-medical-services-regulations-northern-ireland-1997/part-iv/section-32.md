@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Review of the obstetric list[^key-1d9d023c26042211adb8747f2e49aaf4]
+## 32. Review of the obstetric list[^c-1d9d023c26042211adb8747f2e49aaf4]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d9d023c26042211adb8747f2e49aaf4]: Commencement: Reg. 32 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-1d9d023c26042211adb8747f2e49aaf4]: Commencement: Reg. 32 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

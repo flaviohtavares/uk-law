@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Essential requirements[^key-a2bc1012502a3f67e6afadc0c1d54cfb]
+## 6. Essential requirements[^c-a2bc1012502a3f67e6afadc0c1d54cfb]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person may only make a product available on the market or put it into service 
 
 ## Annotations
 
-[^key-a2bc1012502a3f67e6afadc0c1d54cfb]: Commencement: Reg. 6 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)
+[^c-a2bc1012502a3f67e6afadc0c1d54cfb]: Commencement: Reg. 6 in force at 3.8.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/737/regulation/1)

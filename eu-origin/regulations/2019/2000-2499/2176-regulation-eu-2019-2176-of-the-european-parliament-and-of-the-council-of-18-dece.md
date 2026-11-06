@@ -35,14 +35,14 @@ amending Regulation (EU) No 1092/2010 on European Union macro-prudential overs
 
 (Text with EEA relevance) (revoked)
 
-[^key-ab0b74efc736d7d0c9c565cb8927f3c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab0b74efc736d7d0c9c565cb8927f3c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-ab0b74efc736d7d0c9c565cb8927f3c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ab0b74efc736d7d0c9c565cb8927f3c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ab0b74efc736d7d0c9c565cb8927f3c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ab0b74efc736d7d0c9c565cb8927f3c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab0b74efc736d7d0c9c565cb8927f3c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab0b74efc736d7d0c9c565cb8927f3c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab0b74efc736d7d0c9c565cb8927f3c1]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [24](https://www.legislation.gov.uk/uksi/2020/628/regulation/24)
+[^c-ab0b74efc736d7d0c9c565cb8927f3c1]: Textual amendment: Regulation revoked (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [24](https://www.legislation.gov.uk/uksi/2020/628/regulation/24)

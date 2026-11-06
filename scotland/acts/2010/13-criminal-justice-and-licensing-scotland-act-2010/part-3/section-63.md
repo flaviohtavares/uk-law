@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Dockets and charges in sex cases[^key-4cb62c281710c1393068bcec147b9381]
+## 63. Dockets and charges in sex cases[^c-4cb62c281710c1393068bcec147b9381]
 
 *Extent: S*
 
@@ -81,4 +81,4 @@ After section 288B of the 1995 Act insert—
 
 ## Annotations
 
-[^key-4cb62c281710c1393068bcec147b9381]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2010/13/section/63) in force at 1.12.2010 by [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/357/article/2/b)
+[^c-4cb62c281710c1393068bcec147b9381]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2010/13/section/63) in force at 1.12.2010 by [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/357/article/2/b)

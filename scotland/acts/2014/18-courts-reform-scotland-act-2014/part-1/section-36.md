@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Allocation of business to specialist judiciary[^key-818dea5df04e39e7877c7bd2a0bae723]
+## 36. Allocation of business to specialist judiciary[^c-818dea5df04e39e7877c7bd2a0bae723]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-818dea5df04e39e7877c7bd2a0bae723]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2014/18/section/36) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-818dea5df04e39e7877c7bd2a0bae723]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2014/18/section/36) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

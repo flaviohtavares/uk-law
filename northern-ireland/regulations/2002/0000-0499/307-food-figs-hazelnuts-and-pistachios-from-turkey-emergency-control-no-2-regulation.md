@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control No. 2) Regulations (Northern Ireland) 2002 (revoked)[^key-cf70e389d344cad84f1c2c52f8c9c6d9]
+Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control No. 2) Regulations (Northern Ireland) 2002 (revoked)[^c-cf70e389d344cad84f1c2c52f8c9c6d9]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 4th October 2002
 
-[^key-cf70e389d344cad84f1c2c52f8c9c6d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf70e389d344cad84f1c2c52f8c9c6d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cf70e389d344cad84f1c2c52f8c9c6d9]
+## 1. Citation and commencement[^c-cf70e389d344cad84f1c2c52f8c9c6d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cf70e389d344cad84f1c2c52f8c9c6d9]
+## 2. Interpretation[^c-cf70e389d344cad84f1c2c52f8c9c6d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-cf70e389d344cad84f1c2c52f8c9c6d9]
+## 3. Prohibition on import[^c-cf70e389d344cad84f1c2c52f8c9c6d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-cf70e389d344cad84f1c2c52f8c9c6d9]
+## 4. Enforcement[^c-cf70e389d344cad84f1c2c52f8c9c6d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Order[^key-cf70e389d344cad84f1c2c52f8c9c6d9]
+## 5. Application of various provisions of the Order[^c-cf70e389d344cad84f1c2c52f8c9c6d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Re-dispatch or destruction of illegal imports[^key-cf70e389d344cad84f1c2c52f8c9c6d9]
+## 6. Re-dispatch or destruction of illegal imports[^c-cf70e389d344cad84f1c2c52f8c9c6d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of the Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) Regulations (Northern Ireland) 2002[^key-cf70e389d344cad84f1c2c52f8c9c6d9]
+## 7. Revocation of the Food (Figs, Hazelnuts and Pistachios from Turkey) (Emergency Control) Regulations (Northern Ireland) 2002[^c-cf70e389d344cad84f1c2c52f8c9c6d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cf70e389d344cad84f1c2c52f8c9c6d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf70e389d344cad84f1c2c52f8c9c6d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cf70e389d344cad84f1c2c52f8c9c6d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cf70e389d344cad84f1c2c52f8c9c6d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cf70e389d344cad84f1c2c52f8c9c6d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/307) revoked (1.10.2006) by [The Food (Emergency Control) (Revocation) Regulations (Northern Ireland) 2006 (S.R. 2006/351)](https://www.legislation.gov.uk/nisr/2006/351), [regs. 1](https://www.legislation.gov.uk/nisr/2006/351/regulation/1), [2](https://www.legislation.gov.uk/nisr/2006/351/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/351/schedule)
+[^c-cf70e389d344cad84f1c2c52f8c9c6d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/307) revoked (1.10.2006) by [The Food (Emergency Control) (Revocation) Regulations (Northern Ireland) 2006 (S.R. 2006/351)](https://www.legislation.gov.uk/nisr/2006/351), [regs. 1](https://www.legislation.gov.uk/nisr/2006/351/regulation/1), [2](https://www.legislation.gov.uk/nisr/2006/351/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/351/schedule)

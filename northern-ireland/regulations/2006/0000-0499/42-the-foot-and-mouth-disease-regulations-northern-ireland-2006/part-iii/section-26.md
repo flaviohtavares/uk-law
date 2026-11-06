@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Slaughter: isolation of things liable to spread disease[^key-d937071828aa2f287d10e448d4b00c4e]
+## 26. Slaughter: isolation of things liable to spread disease[^c-d937071828aa2f287d10e448d4b00c4e]
 
 *Extent: N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 - (a) the Department declares by notice served on that person that all such items are free of contamination; or
 - (b) all such items have been treated in accordance with its directions; or
-- (c) the Department grants a licence authorising any such item to be removed from the premises to be treated in accordance with Regulation[^key-52bfce56fe0431dba98cc57fc05456c1] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) as amended.
+- (c) the Department grants a licence authorising any such item to be removed from the premises to be treated in accordance with Regulation[^c-52bfce56fe0431dba98cc57fc05456c1] [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) as amended.
 
 (3) Paragraph (2) does not apply to milk on free units where this is authorised by a licence granted by the Department.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d937071828aa2f287d10e448d4b00c4e]: Commencement: Reg. 26 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-d937071828aa2f287d10e448d4b00c4e]: Commencement: Reg. 26 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
-[^key-52bfce56fe0431dba98cc57fc05456c1]: Textual amendment: Words in [art. 26(2)(c)](https://www.legislation.gov.uk/nisr/2006/42/article/26/2/c) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2011/124/schedule/paragraph/20)
+[^c-52bfce56fe0431dba98cc57fc05456c1]: Textual amendment: Words in [art. 26(2)(c)](https://www.legislation.gov.uk/nisr/2006/42/article/26/2/c) substituted (19.3.2011) by [The Animal By-Products (Enforcement) Regulations (Northern Ireland) 2011 (revoked) 2011 (S.R. 2011/124)](https://www.legislation.gov.uk/nisr/2011/124), [reg. 1](https://www.legislation.gov.uk/nisr/2011/124/regulation/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/nisr/2011/124/schedule/paragraph/20)

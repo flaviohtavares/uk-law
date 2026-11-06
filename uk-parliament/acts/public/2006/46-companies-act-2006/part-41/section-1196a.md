@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1196A. Names suggesting connection with foreign governments etc[^key-ad0dd27303736d60337fd3d58c660eb7]
+## 1196A. Names suggesting connection with foreign governments etc[^c-ad0dd27303736d60337fd3d58c660eb7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad0dd27303736d60337fd3d58c660eb7]: Textual amendment: [S. 1196A](https://www.legislation.gov.uk/ukpga/2006/46/section/1196A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 23](https://www.legislation.gov.uk/ukpga/2023/56/section/23), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/r)
+[^c-ad0dd27303736d60337fd3d58c660eb7]: Textual amendment: [S. 1196A](https://www.legislation.gov.uk/ukpga/2006/46/section/1196A) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 23](https://www.legislation.gov.uk/ukpga/2023/56/section/23), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/r)

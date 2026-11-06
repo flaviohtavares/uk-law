@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 217. Provision of benefit information statements to members[^key-1aaef8defe6761c208baa9eeab5acf86]
+## 217. Provision of benefit information statements to members[^c-1aaef8defe6761c208baa9eeab5acf86]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The scheme manager must provide benefit information statements to each active me
 
 ## Annotations
 
-[^key-1aaef8defe6761c208baa9eeab5acf86]: Commencement: Reg. 217 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-1aaef8defe6761c208baa9eeab5acf86]: Commencement: Reg. 217 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

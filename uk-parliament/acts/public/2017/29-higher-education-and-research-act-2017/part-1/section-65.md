@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Duty to publish higher education information[^key-bf4570536a088c91651c5588b11d2539][^key-0950691c38144e93ef1dcd9660f0191d]
+## 65. Duty to publish higher education information[^c-bf4570536a088c91651c5588b11d2539][^c-0950691c38144e93ef1dcd9660f0191d]
 
 *Extent: E+W*
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bf4570536a088c91651c5588b11d2539]: Commencement: S. 65 in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(8)(b)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/8/b)
+[^c-bf4570536a088c91651c5588b11d2539]: Commencement: S. 65 in force at 1.1.2018 for specified purposes by [S.I. 2017/1146](https://www.legislation.gov.uk/uksi/2017/1146), [reg. 3(8)(b)](https://www.legislation.gov.uk/uksi/2017/1146/regulation/3/8/b)
 
-[^key-0950691c38144e93ef1dcd9660f0191d]: Commencement: S. 65 in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/h) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 20)
+[^c-0950691c38144e93ef1dcd9660f0191d]: Commencement: S. 65 in force at 1.4.2018 in so far as not already in force by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/h) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 20)

@@ -36,7 +36,7 @@ summary: ''
 - (a) the act of reproduction is compatible with fair trade practice and does not unduly prejudice the normal exploitation of the design; and
 - (b) mention is made of the source.
 
-(4) The right in a registered design is not infringed by an act which relates to a product in which any design protected by the registration is incorporated or to which it is applied if the product has been put on the market in the United Kingdom or[^key-9a29864a4a27f5320f530d218324f705] the European Economic Area by the registered proprietor or with his consent.
+(4) The right in a registered design is not infringed by an act which relates to a product in which any design protected by the registration is incorporated or to which it is applied if the product has been put on the market in the United Kingdom or[^c-9a29864a4a27f5320f530d218324f705] the European Economic Area by the registered proprietor or with his consent.
 
 (5) The right in a registered design of a component part which may be used for the purpose of the repair of a complex product so as to restore its original appearance is not infringed by the use for that purpose of any design protected by the registration.
 
@@ -46,4 +46,4 @@ summary: ''
 
 [^c9373]: Textual amendment: Ss. 7 and 7A substituted (9.12.2001) for s. 7 by [S.I. 2001/3949](https://www.legislation.gov.uk/uksi/2001/3949), [reg. 4](https://www.legislation.gov.uk/uksi/2001/3949/regulation/4) (with transitional provisions in [regs. 10-14](https://www.legislation.gov.uk/uksi/2001/3949/regulation/10))
 
-[^key-9a29864a4a27f5320f530d218324f705]: Textual amendment: Words in s. 7A(4) inserted (31.1.2020) by [The Intellectual Property (Exhaustion of Rights) (EU Exit) Regulations 2019 (S.I. 2019/265)](https://www.legislation.gov.uk/uksi/2019/265), [regs. 1](https://www.legislation.gov.uk/uksi/2019/265/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/265/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9a29864a4a27f5320f530d218324f705]: Textual amendment: Words in s. 7A(4) inserted (31.1.2020) by [The Intellectual Property (Exhaustion of Rights) (EU Exit) Regulations 2019 (S.I. 2019/265)](https://www.legislation.gov.uk/uksi/2019/265), [regs. 1](https://www.legislation.gov.uk/uksi/2019/265/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/265/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

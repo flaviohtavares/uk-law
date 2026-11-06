@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Amendment of section 46A[^key-09c8d7bb38c7a30eb34422cea1afc388]
+## 116. Amendment of section 46A[^c-09c8d7bb38c7a30eb34422cea1afc388]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-09c8d7bb38c7a30eb34422cea1afc388]: Commencement: Reg. 116 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-09c8d7bb38c7a30eb34422cea1afc388]: Commencement: Reg. 116 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00095]: Footnote: Section 46A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

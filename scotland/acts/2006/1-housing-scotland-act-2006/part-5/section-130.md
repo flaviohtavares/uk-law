@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. Suitability of applicants and agents[^key-3b1ff136672037be5af22f9fa0963b22]
+## 130. Suitability of applicants and agents[^c-3b1ff136672037be5af22f9fa0963b22]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b1ff136672037be5af22f9fa0963b22]: Commencement: S. 130 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-3b1ff136672037be5af22f9fa0963b22]: Commencement: S. 130 in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

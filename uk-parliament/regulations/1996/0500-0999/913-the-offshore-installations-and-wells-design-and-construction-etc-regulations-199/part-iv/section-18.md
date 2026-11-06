@@ -31,21 +31,21 @@ summary: ''
 
 (4) The well-operator shall ensure that the arrangements, any revision of them, and reports and recommendations pursuant to them are kept at an address in Great Britain notified to the Executive, until the expiration of six months after the arrangements and any revision of them cease to be current.
 
-(5)[^key-7597c0877c51aaac89d55f921b50cccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-7597c0877c51aaac89d55f921b50cccd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-eaa2687842ab4f2dcb23138d84b5b334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-eaa2687842ab4f2dcb23138d84b5b334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) For the purpose of this regulation a person shall be regarded as independent only where—
 
 - (a) his examination will not involve the consideration by him of an aspect, of a thing liable to be examined, for which he bears or has borne such responsibility as might compromise his objectivity; and
 - (b) he will be sufficiently independent of a management system, or of a part thereof, which bears or has borne any responsibility for an aspect, which he might consider, of a thing liable to be examined, to ensure that he will be objective in discharging his function.
 
-(8)[^key-5211ac25c5b7983fabf3f7583c9a4b97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5211ac25c5b7983fabf3f7583c9a4b97] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7597c0877c51aaac89d55f921b50cccd]: Textual amendment: Reg. 18(5) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 30](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/30), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-7597c0877c51aaac89d55f921b50cccd]: Textual amendment: Reg. 18(5) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 30](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/30), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-eaa2687842ab4f2dcb23138d84b5b334]: Textual amendment: Reg. 18(6) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 30](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/30), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-eaa2687842ab4f2dcb23138d84b5b334]: Textual amendment: Reg. 18(6) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 30](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/30), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-5211ac25c5b7983fabf3f7583c9a4b97]: Textual amendment: Reg. 18(8) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 30](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/30), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-5211ac25c5b7983fabf3f7583c9a4b97]: Textual amendment: Reg. 18(8) omitted (19.7.2015) by virtue of [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [reg. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [Sch. 13 para. 30](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/paragraph/30), [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2015/398/schedule/13/part/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Power to suspend and revive[^key-ef52056b451c6a0331f55c6c5c3c73d1]
+## 51. Power to suspend and revive[^c-ef52056b451c6a0331f55c6c5c3c73d1]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef52056b451c6a0331f55c6c5c3c73d1]: Commencement: S. 51 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-ef52056b451c6a0331f55c6c5c3c73d1]: Commencement: S. 51 in force at 1.9.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

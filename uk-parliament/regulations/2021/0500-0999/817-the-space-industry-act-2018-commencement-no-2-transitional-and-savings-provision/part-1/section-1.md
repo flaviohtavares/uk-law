@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation, extent and interpretation[^key-a0d05abc70180f6ef5578c5a82a250bf]
+## 1. Citation, extent and interpretation[^c-a0d05abc70180f6ef5578c5a82a250bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d05abc70180f6ef5578c5a82a250bf]: Commencement: Reg. 1 in force at 8.7.2021 at 9.35 a.m.
+[^c-a0d05abc70180f6ef5578c5a82a250bf]: Commencement: Reg. 1 in force at 8.7.2021 at 9.35 a.m.
 
 [^c24555891]: Marginal citation: “spaceflight activities” is defined in section 1(6) of the Space Industry Act 2018.
 

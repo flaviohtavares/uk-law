@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Exclusion or restriction of Committees’ powers[^key-febbf31292de0a935f0159f30d0d6090]
+## 27. Exclusion or restriction of Committees’ powers[^c-febbf31292de0a935f0159f30d0d6090]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ summary: ''
 
 ## Annotations
 
-[^key-febbf31292de0a935f0159f30d0d6090]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2015/140/regulation/27) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-febbf31292de0a935f0159f30d0d6090]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2015/140/regulation/27) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
 [^f00023]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
 

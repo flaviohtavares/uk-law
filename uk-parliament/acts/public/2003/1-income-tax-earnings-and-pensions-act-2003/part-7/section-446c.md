@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 446C. Amount of charge[^key-198fd296557cbd9940e05c1cadf0b299]
+## 446C. Amount of charge[^c-198fd296557cbd9940e05c1cadf0b299]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (4) But where what would be MV is less than the amount of any consideration given for the acquisition of the employment-related securities, MV is the amount of that consideration.
 
-(4A)[^key-84abba688d9392efa66834821d198f8f] Subsection (4B) applies if, prior to the acquisition, the employment-related securities were the subject of a relevant step within the meaning of Part 7A by reason of which Chapter 2 of that Part applied in respect of the employment.
+(4A)[^c-84abba688d9392efa66834821d198f8f] Subsection (4B) applies if, prior to the acquisition, the employment-related securities were the subject of a relevant step within the meaning of Part 7A by reason of which Chapter 2 of that Part applied in respect of the employment.
 
 (4B) If what would be MV in accordance with subsection (3) or (4) (as the case may be) is less than the amount that counted as employment income of the employee in respect of the employment under Chapter 2 of Part 7A, MV is the amount of that employment income instead of the amount determined in accordance with subsection (3) or (4).
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-198fd296557cbd9940e05c1cadf0b299]: Textual amendment: Pt. 7 Ch. 3A inserted (16.4.2003 with effect in accordance with Sch. 22 para. 5(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/5/1)
+[^c-198fd296557cbd9940e05c1cadf0b299]: Textual amendment: Pt. 7 Ch. 3A inserted (16.4.2003 with effect in accordance with Sch. 22 para. 5(2)-(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 22 para. 5(1)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/22/paragraph/5/1)
 
-[^key-84abba688d9392efa66834821d198f8f]: Textual amendment: [S. 446C(4A)](https://www.legislation.gov.uk/ukpga/2003/1/section/446C/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2003/1/section/446C/4B) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/20)
+[^c-84abba688d9392efa66834821d198f8f]: Textual amendment: [S. 446C(4A)](https://www.legislation.gov.uk/ukpga/2003/1/section/446C/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2003/1/section/446C/4B) inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/20)

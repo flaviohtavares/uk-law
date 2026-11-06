@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 116. No review or appeal of tribunal approvals[^key-a45c959c81c6270fa2f02cbac9ad2d80]
+## 116. No review or appeal of tribunal approvals[^c-a45c959c81c6270fa2f02cbac9ad2d80]
 
 *Extent: E+W*
 
-(1) In section 11(5) of TCEA[^key-2ba25cd8f90a72b3b7ded2fbf2fc3974] (decisions excluded from right to appeal to Upper Tribunal), after paragraph (c) insert—
+(1) In section 11(5) of TCEA[^c-2ba25cd8f90a72b3b7ded2fbf2fc3974] (decisions excluded from right to appeal to Upper Tribunal), after paragraph (c) insert—
 
 > - (ca) any decision of the First-tier Tribunal under section 88, 89(3) or 92(3) of the Tax Collection and Management (Wales) Act 2016 (anaw 6) (approval for Welsh Revenue Authority to issue certain information notices),
 > - (cb) any decision of the First-tier Tribunal under section 108 of that Act (approval for Welsh Revenue Authority to inspect premises),
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a45c959c81c6270fa2f02cbac9ad2d80]: Commencement: S. 116 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-a45c959c81c6270fa2f02cbac9ad2d80]: Commencement: S. 116 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-2ba25cd8f90a72b3b7ded2fbf2fc3974]: Textual amendment: Word in s. 116(1) substituted (25.1.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 38](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/38); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(i)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/i)
+[^c-2ba25cd8f90a72b3b7ded2fbf2fc3974]: Textual amendment: Word in s. 116(1) substituted (25.1.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 38](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/38); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 2(b)(i)](https://www.legislation.gov.uk/wsi/2018/34/article/2/b/i)

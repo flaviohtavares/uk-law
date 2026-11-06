@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Compulsory acquisition of rights and imposition of restrictive covenants[^key-84bae4a67d2c511c83f4b88fa5780905]
+## 21. Compulsory acquisition of rights and imposition of restrictive covenants[^c-84bae4a67d2c511c83f4b88fa5780905]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ the liability is enforceable against the undertaker.
 
 ## Annotations
 
-[^key-84bae4a67d2c511c83f4b88fa5780905]: Commencement: Art. 21 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-84bae4a67d2c511c83f4b88fa5780905]: Commencement: Art. 21 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

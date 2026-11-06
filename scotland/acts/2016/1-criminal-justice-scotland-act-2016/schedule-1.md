@@ -24,7 +24,7 @@ summary: ''
 
 ### Offence of breaching condition
 
-**1.**[^key-8df2b673471c6c1fc8414533ab0c7629] (1) A person commits an offence if, without reasonable excuse, the person breaches a liberation condition by reason of—
+**1.**[^c-8df2b673471c6c1fc8414533ab0c7629] (1) A person commits an offence if, without reasonable excuse, the person breaches a liberation condition by reason of—
 
 - (a) failing to comply with an investigative liberation condition,
 - (b) failing to appear at court as required by the terms of an undertaking, or
@@ -44,7 +44,7 @@ summary: ''
 
 ### Sentencing for the offence
 
-**2.**[^key-ba1502306e8cb030b12df432465b968e] (1) A person who commits an offence under paragraph 1(1) is liable on summary conviction to—
+**2.**[^c-ba1502306e8cb030b12df432465b968e] (1) A person who commits an offence under paragraph 1(1) is liable on summary conviction to—
 
 - (a) a fine not exceeding level 3 on the standard scale, or
 - (b) imprisonment for a period—
@@ -69,7 +69,7 @@ summary: ''
 
 ### Breach by committing offence
 
-**3.**[^key-a15e067f6e2e43a34bbb8292184e9219] (1) This paragraph applies—
+**3.**[^c-a15e067f6e2e43a34bbb8292184e9219] (1) This paragraph applies—
 
 - (a) where (and to the extent that) a person breaches a liberation condition by reason of committing an offence (“offence O”), but
 - (b) only if the fact that offence O was committed while the person was subject to the liberation condition is specified in the complaint or indictment.
@@ -96,7 +96,7 @@ summary: ''
 
 ### Matters for paragraph 3(2)(b)
 
-**4.**[^key-5c749adcbe1947c651ff1b6562c0b2ff] (1) For the purpose of paragraph 3(2)(b), the matters are—
+**4.**[^c-5c749adcbe1947c651ff1b6562c0b2ff] (1) For the purpose of paragraph 3(2)(b), the matters are—
 
 - (a) the number of offences in connection with which the person was subject to investigative liberation conditions when offence O was committed,
 - (b) any previous conviction the person has for an offence under paragraph 1(1)(a),
@@ -111,7 +111,7 @@ summary: ''
 
 ### Matters for paragraph 3(2)(c)
 
-**5.**[^key-2d470fd3f3513a82350db8a37d753ab9] (1) For the purpose of paragraph 3(2)(c), the matters are—
+**5.**[^c-2d470fd3f3513a82350db8a37d753ab9] (1) For the purpose of paragraph 3(2)(c), the matters are—
 
 - (a) the number of undertakings to which the person was subject when offence O was committed,
 - (b) any previous conviction the person has for an offence under paragraph 1(1)(c),
@@ -126,7 +126,7 @@ summary: ''
 
 ### Evidential presumptions
 
-**6.**[^key-e6286fc09c952e3feba60afa3b0ec3e3] (1) In any proceedings in relation to an offence under paragraph 1(1), the facts mentioned in sub-paragraph (2) are to be held as admitted unless challenged by preliminary objection before the person's plea is recorded.
+**6.**[^c-e6286fc09c952e3feba60afa3b0ec3e3] (1) In any proceedings in relation to an offence under paragraph 1(1), the facts mentioned in sub-paragraph (2) are to be held as admitted unless challenged by preliminary objection before the person's plea is recorded.
 
 (2) The facts are—
 
@@ -153,7 +153,7 @@ summary: ''
 
 ### Interpretation
 
-**7.**[^key-68323adacbe32ad2cdcc0f8b8ea1816b] In this schedule—
+**7.**[^c-68323adacbe32ad2cdcc0f8b8ea1816b] In this schedule—
 
 - (a) references to an investigative liberation condition are to a condition imposed under section 16(2) or 19(3)(b) subject to any modification by notice under section 18(1) or (5)(a),
 - (b) references to an undertaking are to an undertaking given under section 25(2)(a),
@@ -163,16 +163,16 @@ summary: ''
 
 ## Annotations
 
-[^key-8df2b673471c6c1fc8414533ab0c7629]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/1) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-8df2b673471c6c1fc8414533ab0c7629]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/1) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-ba1502306e8cb030b12df432465b968e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/2) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-ba1502306e8cb030b12df432465b968e]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/2) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-a15e067f6e2e43a34bbb8292184e9219]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/3) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-a15e067f6e2e43a34bbb8292184e9219]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/3) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-5c749adcbe1947c651ff1b6562c0b2ff]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/4) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-5c749adcbe1947c651ff1b6562c0b2ff]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/4) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-2d470fd3f3513a82350db8a37d753ab9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/5) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-2d470fd3f3513a82350db8a37d753ab9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/5) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-e6286fc09c952e3feba60afa3b0ec3e3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/6) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-e6286fc09c952e3feba60afa3b0ec3e3]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/6) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-68323adacbe32ad2cdcc0f8b8ea1816b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/7) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-68323adacbe32ad2cdcc0f8b8ea1816b]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2016/1/schedule/1/paragraph/7) in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

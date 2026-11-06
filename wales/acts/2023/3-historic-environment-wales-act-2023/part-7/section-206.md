@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. Additional provision about service on persons interested in or occupying land[^key-6422fa1cf0032ca11664b75f574e4695][^key-ad99d6dda2899f20b31e4eed51b787d8]
+## 206. Additional provision about service on persons interested in or occupying land[^c-6422fa1cf0032ca11664b75f574e4695][^c-ad99d6dda2899f20b31e4eed51b787d8]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6422fa1cf0032ca11664b75f574e4695]: Commencement: S. 206 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-6422fa1cf0032ca11664b75f574e4695]: Commencement: S. 206 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-ad99d6dda2899f20b31e4eed51b787d8]: Commencement: [S. 206](https://www.legislation.gov.uk/asc/2023/3/section/206) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-ad99d6dda2899f20b31e4eed51b787d8]: Commencement: [S. 206](https://www.legislation.gov.uk/asc/2023/3/section/206) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

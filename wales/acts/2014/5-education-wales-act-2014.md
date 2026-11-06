@@ -70,7 +70,7 @@ An Act of the National Assembly for Wales to make provision about the Education 
 
 ### Education Workforce Council
 
-#### 2. Education Workforce Council[^key-1450e736f25286a9f5fe855be63c86a5][^key-264aafede5523ebe71adae5da75a8b60][^key-c0bea56bfec016c27491bda221639242]
+#### 2. Education Workforce Council[^c-1450e736f25286a9f5fe855be63c86a5][^c-264aafede5523ebe71adae5da75a8b60][^c-c0bea56bfec016c27491bda221639242]
 
 (1) The body corporate established in pursuance of section 8 of the Teaching and Higher Education Act 1998 (c. 30) and known as the General Teaching Council for Wales—
 
@@ -79,14 +79,14 @@ An Act of the National Assembly for Wales to make provision about the Education 
 
 (2) Schedule 1 (which makes provision about the constitution and powers of the Council) has effect.
 
-#### 3. Aims of the Council[^key-5456db3f1f696b2383900f7440662c81]
+#### 3. Aims of the Council[^c-5456db3f1f696b2383900f7440662c81]
 
 The principal aims of the Council are—
 
 - (a) to contribute to improving the standards of teaching and the quality of learning in Wales, and
 - (b) to maintain and improve standards of professional conduct amongst teachers and persons who support teaching and learning in Wales.
 
-#### 4. Functions of the Council[^key-aab8864e96fb8f12870511162a119175]
+#### 4. Functions of the Council[^c-aab8864e96fb8f12870511162a119175]
 
 (1) The Council's main functions are—
 
@@ -106,13 +106,13 @@ The principal aims of the Council are—
 
 (3) The functions conferred on the Council by or under this Part are exercisable by it only in relation to Wales.
 
-#### 5. Power to add functions[^key-a13293c5d8a84139612b4bf2eefa09a6]
+#### 5. Power to add functions[^c-a13293c5d8a84139612b4bf2eefa09a6]
 
 (1) The Welsh Ministers may by order confer or impose on the Council such additional functions as they consider appropriate.
 
 (2) Before making an order under subsection (1) the Welsh Ministers must consult such persons as they consider appropriate.
 
-#### 6. Directions[^key-3ddeedbb217dd0a7f7b158b1a6a321c7]
+#### 6. Directions[^c-3ddeedbb217dd0a7f7b158b1a6a321c7]
 
 (1) The Council must comply with any direction (general or specific) given to it by the Welsh Ministers.
 
@@ -128,7 +128,7 @@ The principal aims of the Council are—
 
 ### Provision of advice and promotion of careers
 
-#### 7. Provision of advice by the Council[^key-c8546dd190307e030ed2818200d1b1c1]
+#### 7. Provision of advice by the Council[^c-c8546dd190307e030ed2818200d1b1c1]
 
 (1) The Welsh Ministers may require the Council to provide advice—
 
@@ -156,7 +156,7 @@ The principal aims of the Council are—
 
 (6) The Council may, with the consent of the Welsh Ministers, publish any advice it gives under this section.
 
-#### 8. Promotion of careers[^key-033b86c0369de988d022696bdf81cb9a]
+#### 8. Promotion of careers[^c-033b86c0369de988d022696bdf81cb9a]
 
 (1) The Council must undertake such activities as the Welsh Ministers may require with a view to promoting careers, and the development of careers, in the registrable professions in Wales.
 
@@ -172,17 +172,17 @@ The principal aims of the Council are—
 
 #### 9. Register
 
-(1)[^key-9106e172d52396baafd3fbf087e18f56][^key-8980f038a83359721e31d603883dfb30] The Council must establish and maintain a register for the purposes of this Part.
+(1)[^c-9106e172d52396baafd3fbf087e18f56][^c-8980f038a83359721e31d603883dfb30] The Council must establish and maintain a register for the purposes of this Part.
 
-(2)[^key-fdf8d241201beeb087222e342c2a728d] The register must contain the name of every person who is eligible for registration under section 10 and applies to be registered.
+(2)[^c-fdf8d241201beeb087222e342c2a728d] The register must contain the name of every person who is eligible for registration under section 10 and applies to be registered.
 
-(3)[^key-9106e172d52396baafd3fbf087e18f56][^key-8980f038a83359721e31d603883dfb30] The register must comprise the categories set out and described in table 1 of Schedule 2 (the “categories of registration”).
+(3)[^c-9106e172d52396baafd3fbf087e18f56][^c-8980f038a83359721e31d603883dfb30] The register must comprise the categories set out and described in table 1 of Schedule 2 (the “categories of registration”).
 
-(4)[^key-fdf8d241201beeb087222e342c2a728d] Each registered person must be registered in at least one category of registration.
+(4)[^c-fdf8d241201beeb087222e342c2a728d] Each registered person must be registered in at least one category of registration.
 
-(5)[^key-fdf8d241201beeb087222e342c2a728d] A person may be registered on a provisional basis.
+(5)[^c-fdf8d241201beeb087222e342c2a728d] A person may be registered on a provisional basis.
 
-#### 10. Eligibility for registration[^key-d3ed0c3e119d5953db3b6770e3b2d796]
+#### 10. Eligibility for registration[^c-d3ed0c3e119d5953db3b6770e3b2d796]
 
 (1) A person is eligible for registration if the person meets the conditions in this section.
 
@@ -205,7 +205,7 @@ The principal aims of the Council are—
 
 (7) Before making an order under subsection (6) the Welsh Ministers must consult such persons or bodies as they consider appropriate.
 
-#### 11. Appeals against refusal of registration[^key-35295b4d1cc948b6b011078b3456050e]
+#### 11. Appeals against refusal of registration[^c-35295b4d1cc948b6b011078b3456050e]
 
 (1) A person whose application for registration has been refused by the Council on the ground that the Council was not satisfied as to the applicant's suitability under section 10(4) may appeal against the decision to the High Court.
 
@@ -215,7 +215,7 @@ The principal aims of the Council are—
 
 (4) The decision of the High Court is final (and may not be appealed).
 
-#### 12. Registration fees[^key-beeace83ea91b9f8bce54817d7ae7efc]
+#### 12. Registration fees[^c-beeace83ea91b9f8bce54817d7ae7efc]
 
 (1) The Welsh Ministers may by regulations make provision about the fees which may be payable in connection with registration (including fees for restoration to, or retention in, the register).
 
@@ -233,7 +233,7 @@ The principal aims of the Council are—
 
 (3) In this section, “**salary**” includes any remuneration payable in respect of services provided by a registered person.
 
-#### 13. Registration: further provision[^key-902869c32fa963f5e472e0aea52a77b4]
+#### 13. Registration: further provision[^c-902869c32fa963f5e472e0aea52a77b4]
 
 (1) The Welsh Ministers may by regulations make such further provision about the register and registration as they consider necessary or expedient.
 
@@ -253,7 +253,7 @@ The principal aims of the Council are—
 
 ### Requirements to be satisfied to provide services
 
-#### 14. School teachers and school learning support workers[^key-d0c2a8a5eee1f12d5ba23e6a4b35ea8a][^key-9eddc1cdebc04671dc2c77c21c24cfe4]
+#### 14. School teachers and school learning support workers[^c-d0c2a8a5eee1f12d5ba23e6a4b35ea8a][^c-9eddc1cdebc04671dc2c77c21c24cfe4]
 
 (1) The Welsh Ministers may by regulations provide that specified services may not be provided by a person in a school unless—
 
@@ -283,7 +283,7 @@ The principal aims of the Council are—
 - (a) a school maintained by a local authority in Wales, and
 - (b) a special school in Wales not so maintained.
 
-#### 15. Further education teachers[^key-bb61610a9b73471ae07c1f4a5505b133]
+#### 15. Further education teachers[^c-bb61610a9b73471ae07c1f4a5505b133]
 
 (1) The Welsh Ministers may by regulations—
 
@@ -301,7 +301,7 @@ The principal aims of the Council are—
 
 (4) For the purposes of this section, “**education**” has the meaning given by section 140(3) of the 2002 Act.
 
-#### 16. Further education learning support workers[^key-7c73177b3bb61c57b75d84eed149d080]
+#### 16. Further education learning support workers[^c-7c73177b3bb61c57b75d84eed149d080]
 
 (1) The Welsh Ministers may by regulations provide that a person may not (directly or indirectly) provide the services described in subsection (2) in or for a further education institution in Wales unless the person—
 
@@ -325,7 +325,7 @@ The principal aims of the Council are—
 
 ### Induction and appraisal of registered persons
 
-#### 17. Requirement to undertake period of induction[^key-a0b72fd8f088143598c0278ee247167f]
+#### 17. Requirement to undertake period of induction[^c-a0b72fd8f088143598c0278ee247167f]
 
 (1) The Welsh Ministers may by regulations make provision for, and in connection with, requiring a person to have satisfactorily completed such period of induction in a place or setting of such description as may be specified before the person may be registered (otherwise than on a provisional basis).
 
@@ -353,7 +353,7 @@ The principal aims of the Council are—
 
 (3) A person or body exercising a function under this section or any regulations made under it must have regard to any relevant guidance issued by the Welsh Ministers.
 
-#### 18. Induction assessment standards[^key-a6b1b7bc3e26317c8c92f43335da2c29][^key-8997c89e7c3e2a68740106a8a1818330]
+#### 18. Induction assessment standards[^c-a6b1b7bc3e26317c8c92f43335da2c29][^c-8997c89e7c3e2a68740106a8a1818330]
 
 (1) The Welsh Ministers may determine the standards against which a person is to be assessed for the purpose of deciding whether or not that person has satisfactorily completed a period of induction under section 17.
 
@@ -361,7 +361,7 @@ The principal aims of the Council are—
 
 (3) The Welsh Ministers must consult the Council before making a determination under this section.
 
-#### 19. Appeals against induction decisions[^key-55bca303f43b886f214746db6d5af5de][^key-cb9ec4129f2e520aa9b0644baf013feb]
+#### 19. Appeals against induction decisions[^c-55bca303f43b886f214746db6d5af5de][^c-cb9ec4129f2e520aa9b0644baf013feb]
 
 (1) A person who is aggrieved by a decision of the appropriate body under section 17(2)(d) may appeal against the decision to the Council.
 
@@ -369,7 +369,7 @@ The principal aims of the Council are—
 
 (3) The Welsh Ministers may by regulations make provision about such matters relating to appeals under this section as the Welsh Ministers consider necessary or expedient.
 
-#### 20. Induction: intervention powers[^key-7132e157031d9b8c9b9891c60c77761d]
+#### 20. Induction: intervention powers[^c-7132e157031d9b8c9b9891c60c77761d]
 
 (1) Chapter 2 of Part 2 of the 2013 Act (intervention in local authorities) has effect in relation to duties imposed and powers conferred by virtue of section 17 as if references to the local authority included—
 
@@ -387,7 +387,7 @@ The principal aims of the Council are—
 
 in respect of any duties imposed or powers conferred on them by virtue of section 17.
 
-#### 21. Induction: interpretation[^key-bfe53157b63a87ac4a7cd42abdff7214]
+#### 21. Induction: interpretation[^c-bfe53157b63a87ac4a7cd42abdff7214]
 
 For the purposes of sections 17 to 20—
 
@@ -397,7 +397,7 @@ For the purposes of sections 17 to 20—
   - (b) the principal of a further education institution, and
   - (c) any other person with overall responsibility for registered persons providing relevant services.
 
-#### 22. Special provision for maintained schools with delegated budgets[^key-91eb6df754092d49b9e539c6ec17c6b7]
+#### 22. Special provision for maintained schools with delegated budgets[^c-91eb6df754092d49b9e539c6ec17c6b7]
 
 (1) This section applies where a person—
 
@@ -448,7 +448,7 @@ For the purposes of sections 17 to 20—
 
 ### Code of conduct and practice for registered persons
 
-#### 24. Code of conduct and practice[^key-e7653b4b721217b5600ee7624c118534][^key-56328ea0e3091abb2db96ca4cfae1d94]
+#### 24. Code of conduct and practice[^c-e7653b4b721217b5600ee7624c118534][^c-56328ea0e3091abb2db96ca4cfae1d94]
 
 (1) The Welsh Ministers must prepare and publish a code specifying the standards of professional conduct and practice expected of registered persons.
 
@@ -465,7 +465,7 @@ For the purposes of sections 17 to 20—
 
 (6) In exercising its functions under subsection (4), the Council must consult such persons and bodies as it considers likely to have an interest in the code.
 
-#### 25. Code of conduct and practice: further provision[^key-90568bc1f15e24b6359e0a280f15d6dc]
+#### 25. Code of conduct and practice: further provision[^c-90568bc1f15e24b6359e0a280f15d6dc]
 
 (1) The Welsh Ministers may by regulations make provision about and in connection with the code described in section 24.
 
@@ -476,7 +476,7 @@ For the purposes of sections 17 to 20—
 
 ### Disciplinary functions of the Council
 
-#### 26. Disciplinary functions[^key-8095071fda7a83f20b6eefca43934935]
+#### 26. Disciplinary functions[^c-8095071fda7a83f20b6eefca43934935]
 
 (1) The Council must carry out such investigations as it considers appropriate in cases where—
 
@@ -511,7 +511,7 @@ the Council may make a disciplinary order in relation to the person.
 
 (7) The provision that may be made under subsection (6) includes such provision for excluding or restricting any such functions as the Welsh Ministers consider appropriate with a view to taking account of the powers exercisable by the Disclosure and Barring Service under the Safeguarding Vulnerable Groups Act 2006 (c. 47).
 
-#### 27. Disciplinary functions: interpretation[^key-415b89e855c1b6c6c65a304ee458b6d9]
+#### 27. Disciplinary functions: interpretation[^c-415b89e855c1b6c6c65a304ee458b6d9]
 
 (1) For the purposes of section 26—
 
@@ -531,7 +531,7 @@ the Council may make a disciplinary order in relation to the person.
 
 (3) Where regulations under paragraph 12(1)(b) of Schedule 1 require the Council to establish a committee for the purpose of discharging any of the functions conferred on the Council under section 26, references in that section to the Council are to be construed as references to that committee.
 
-#### 28. Disciplinary functions: further provision[^key-6f75f80b0a75a8d119d20292e984072c]
+#### 28. Disciplinary functions: further provision[^c-6f75f80b0a75a8d119d20292e984072c]
 
 (1) The Welsh Ministers may by regulations make provision about or in connection with the functions of the Council under section 26.
 
@@ -543,7 +543,7 @@ the Council may make a disciplinary order in relation to the person.
 
 (3) No person is to be required by virtue of regulations under this section to give any evidence or produce any document or other thing which that person could not be compelled to give or produce in civil proceedings in any court in England and Wales.
 
-#### 29. Conditional registration orders[^key-82e41242e83698b1cc8b15cee7da962f][^key-024d3c057a8af824edb615c20e77521e]
+#### 29. Conditional registration orders[^c-82e41242e83698b1cc8b15cee7da962f][^c-024d3c057a8af824edb615c20e77521e]
 
 (1) Subsection (2) applies where a conditional registration order is made in relation to a person.
 
@@ -566,7 +566,7 @@ the Council may make a disciplinary order in relation to the person.
 
 (6) An application under subsection (5) must be made in accordance with any regulations made for that purpose under section 28.
 
-#### 30. Suspension orders[^key-36f150b67db1230aed3b6a450c12c720][^key-c9c71fec72ccaeed326163a0f8089a18]
+#### 30. Suspension orders[^c-36f150b67db1230aed3b6a450c12c720][^c-c9c71fec72ccaeed326163a0f8089a18]
 
 (1) Subsections (2) and (3) apply where a suspension order is made in relation to a person.
 
@@ -588,7 +588,7 @@ the Council may make a disciplinary order in relation to the person.
 
 (7) An application under subsection (6) must be made in accordance with any regulations made for that purpose under section 28.
 
-#### 31. Prohibition orders[^key-bf0fbb8b9eca08d9bf987f0ab75bb8c6][^key-b29c9d129d6fa2abc771401825911b0e]
+#### 31. Prohibition orders[^c-bf0fbb8b9eca08d9bf987f0ab75bb8c6][^c-b29c9d129d6fa2abc771401825911b0e]
 
 (1) Subsections (2) and (3) apply where a prohibition order is made in relation to a person.
 
@@ -602,7 +602,7 @@ the Council may make a disciplinary order in relation to the person.
 
 (6) No such application may be made before the end of the period of two years beginning with the date when the prohibition order takes effect or such longer period as may be specified in the order.
 
-#### 32. Appeals against disciplinary orders[^key-76920d2c130723cb02c023dd0aea8ff0]
+#### 32. Appeals against disciplinary orders[^c-76920d2c130723cb02c023dd0aea8ff0]
 
 (1) A person in respect of whom a disciplinary order has been made may appeal against the order to the High Court.
 
@@ -614,7 +614,7 @@ the Council may make a disciplinary order in relation to the person.
 
 ### Information duties
 
-#### 33. Council to maintain records about certain persons[^key-c58e146d3c445890615b679715427727]
+#### 33. Council to maintain records about certain persons[^c-c58e146d3c445890615b679715427727]
 
 (1) For the purposes of this Part, the Welsh Ministers may by regulations require the Council to maintain such records about such persons as may be specified in the regulations.
 
@@ -623,7 +623,7 @@ the Council may make a disciplinary order in relation to the person.
 - (a) make provision about the form and content of the records, and
 - (b) require the Council to maintain records about persons who are not eligible to be registered.
 
-#### 34. Supply of information: Ministers[^key-80a43cf19536910e048c15880953edb8]
+#### 34. Supply of information: Ministers[^c-80a43cf19536910e048c15880953edb8]
 
 (1) The Welsh Ministers may provide the Council with such information relating to individual registered persons—
 
@@ -635,7 +635,7 @@ the Council may make a disciplinary order in relation to the person.
 - (a) as the Council may request for the purposes of carrying out any of the functions conferred on it by or under this Part, or
 - (b) as the Secretary of State considers it to be necessary or desirable for the Council to have for the purposes of carrying out such functions.
 
-#### 35. Supply of information: the Council[^key-84928a67c08243098a75ec47a5f00bf2]
+#### 35. Supply of information: the Council[^c-84928a67c08243098a75ec47a5f00bf2]
 
 (1) The Council must provide the Welsh Ministers with such information as they may reasonably require.
 
@@ -648,7 +648,7 @@ the Council may make a disciplinary order in relation to the person.
 - (a) to such other person or body as may be specified, and
 - (b) for such purposes and subject to such conditions as may be specified.
 
-#### 36. Supply of information: employers[^key-a4171c5ec1beeaa732b674f19adf21fa]
+#### 36. Supply of information: employers[^c-a4171c5ec1beeaa732b674f19adf21fa]
 
 (1) A relevant employer must provide the Council with—
 
@@ -673,7 +673,7 @@ the relevant employer must provide the Council with such information as may be s
 - “**relevant employer**” means a person who employs or otherwise engages registered persons to provide relevant services in Wales;
 - “**relevant offence**” has the same meaning as in section 27(1).
 
-#### 37. Supply of information: agents and contractors[^key-c4dddd1185afb917619d86946c6d856a]
+#### 37. Supply of information: agents and contractors[^c-c4dddd1185afb917619d86946c6d856a]
 
 (1) This section applies to arrangements made by one person (the “agent”) for a registered person to provide relevant services at the request of or with the consent of a relevant employer (whether or not under a contract).
 
@@ -687,7 +687,7 @@ the agent must provide the Council with such information as may be specified in 
 
 (3) In this section, “**relevant employer**” has the same meaning as in section 36(4).
 
-#### 38. Directions to secure compliance with information duties[^key-74a0533994ca69a1644f05e3f0965e9e]
+#### 38. Directions to secure compliance with information duties[^c-74a0533994ca69a1644f05e3f0965e9e]
 
 (1) This section applies if the Welsh Ministers consider that—
 
@@ -705,7 +705,7 @@ the agent must provide the Council with such information as may be specified in 
 
 ### Transitional and transitory provision
 
-#### 39. Transfer of registrations of persons already registered[^key-13ebc2e32f0de074a85d8c2864fe394a]
+#### 39. Transfer of registrations of persons already registered[^c-13ebc2e32f0de074a85d8c2864fe394a]
 
 (1) Where, immediately before the date on which this section comes into force—
 
@@ -721,7 +721,7 @@ the person is deemed on and after that date to be registered in the category of 
 
 the person is deemed on and after that date to be registered on a provisional basis in the category of school teacher in the register maintained under section 9.
 
-#### 40. Transitory matters relating to eligibility for registration[^key-408560806fb1b3699b95e8ecc2554684]
+#### 40. Transitory matters relating to eligibility for registration[^c-408560806fb1b3699b95e8ecc2554684]
 
 For the purposes of section 10(3)—
 
@@ -730,7 +730,7 @@ For the purposes of section 10(3)—
 
 ### Interpretation of Part 2
 
-#### 41. Interpretation of Part 2[^key-fa59c4f757a8249b0b06536d87a32ea2]
+#### 41. Interpretation of Part 2[^c-fa59c4f757a8249b0b06536d87a32ea2]
 
 (1) In this Part, except where the context otherwise requires—
 
@@ -746,7 +746,7 @@ For the purposes of section 10(3)—
 
 ### Term and holiday dates and times of school sessions
 
-#### 42. Dates of terms and holidays and times of school sessions[^c2222497][^key-f406f2d33be555ca53468ff6f63c3013]
+#### 42. Dates of terms and holidays and times of school sessions[^c2222497][^c-f406f2d33be555ca53468ff6f63c3013]
 
 After section 32 of the 2002 Act insert—
 
@@ -854,13 +854,13 @@ After section 32 of the 2002 Act insert—
 
 ### Her Majesty's Inspectorate of Education and Training in Wales
 
-#### 43. Her Majesty's Inspectorate of Education and Training in Wales[^key-637a07d712dc4d2228834227e4fa76fe]
+#### 43. Her Majesty's Inspectorate of Education and Training in Wales[^c-637a07d712dc4d2228834227e4fa76fe]
 
 In section 19 of the Education Act 2005 (c. 18) (Her Majesty's Inspectorate of Education and Training in Wales), omit subsection (6) (Welsh Ministers to advise Secretary of State on recommendations to Her Majesty on the exercise of powers of appointment and removal under subsections (1), (2) and (4)(c)).
 
 ### Local authority education functions - intervention
 
-#### 44. Local authority education functions exercisable by the persons directed[^key-bea491cf1f702c7b607963bc9eff3562]
+#### 44. Local authority education functions exercisable by the persons directed[^c-bea491cf1f702c7b607963bc9eff3562]
 
 (1) The 2013 Act is amended as follows.
 
@@ -907,7 +907,7 @@ may not be made unless a draft of the instrument has been laid before and approv
 
 (3) Any other statutory instrument containing an order or regulations under this Act (except an order under section 50) is to be subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
-### 48. Minor and consequential amendments and repeals[^key-eab209f1ada460cf6b3703720fc31fe1][^key-7757006ce620e26c66ab0b7af7554f1e]
+### 48. Minor and consequential amendments and repeals[^c-eab209f1ada460cf6b3703720fc31fe1][^c-7757006ce620e26c66ab0b7af7554f1e]
 
 Schedule 3 (which makes minor and consequential amendments and repeals) has effect.
 
@@ -963,7 +963,7 @@ The short title of this Act is the Education (Wales) Act 2014.
 
 ### Status
 
-**1.**[^key-9ec982c01a5f234e892adafa5b384fba] (1) The Council—
+**1.**[^c-9ec982c01a5f234e892adafa5b384fba] (1) The Council—
 
 - (a) is not a servant or agent of the Crown, and
 - (b) has no status, immunity or privilege of the Crown.
@@ -972,7 +972,7 @@ The short title of this Act is the Education (Wales) Act 2014.
 
 ### Powers
 
-**2.**[^key-47e395864dade448bd901da5222cb8ce] (1) The Council may do anything which is calculated to facilitate, or is incidental or conducive to, the carrying out of any of its functions.
+**2.**[^c-47e395864dade448bd901da5222cb8ce] (1) The Council may do anything which is calculated to facilitate, or is incidental or conducive to, the carrying out of any of its functions.
 
 (2) In particular, the Council may—
 
@@ -987,25 +987,25 @@ The short title of this Act is the Education (Wales) Act 2014.
 
 ### Membership
 
-**3.** (1)[^key-bc98dbfd6c960fd3a1fc9653549ce4ed][^key-0a8584b5c6f4364743a70040d2ba7d45] The Council is to have 14 members.
+**3.** (1)[^c-bc98dbfd6c960fd3a1fc9653549ce4ed][^c-0a8584b5c6f4364743a70040d2ba7d45] The Council is to have 14 members.
 
-(2)[^key-bc98dbfd6c960fd3a1fc9653549ce4ed][^key-0a8584b5c6f4364743a70040d2ba7d45] But the Welsh Ministers may by order amend this paragraph to specify that the Council is to have—
+(2)[^c-bc98dbfd6c960fd3a1fc9653549ce4ed][^c-0a8584b5c6f4364743a70040d2ba7d45] But the Welsh Ministers may by order amend this paragraph to specify that the Council is to have—
 
-- (a)[^key-bc98dbfd6c960fd3a1fc9653549ce4ed][^key-0a8584b5c6f4364743a70040d2ba7d45] a different number of members, or
-- (b)[^key-bc98dbfd6c960fd3a1fc9653549ce4ed][^key-0a8584b5c6f4364743a70040d2ba7d45] a specified minimum and maximum number of members.
+- (a)[^c-bc98dbfd6c960fd3a1fc9653549ce4ed][^c-0a8584b5c6f4364743a70040d2ba7d45] a different number of members, or
+- (b)[^c-bc98dbfd6c960fd3a1fc9653549ce4ed][^c-0a8584b5c6f4364743a70040d2ba7d45] a specified minimum and maximum number of members.
 
-(3)[^key-bc98dbfd6c960fd3a1fc9653549ce4ed][^key-0a8584b5c6f4364743a70040d2ba7d45] Members are to be appointed by the Welsh Ministers.
+(3)[^c-bc98dbfd6c960fd3a1fc9653549ce4ed][^c-0a8584b5c6f4364743a70040d2ba7d45] Members are to be appointed by the Welsh Ministers.
 
-(4)[^key-bc98dbfd6c960fd3a1fc9653549ce4ed][^key-0a8584b5c6f4364743a70040d2ba7d45] The Welsh Ministers must, when exercising any function in relation to the membership of the Council—
+(4)[^c-bc98dbfd6c960fd3a1fc9653549ce4ed][^c-0a8584b5c6f4364743a70040d2ba7d45] The Welsh Ministers must, when exercising any function in relation to the membership of the Council—
 
-- (a)[^key-bc98dbfd6c960fd3a1fc9653549ce4ed][^key-0a8584b5c6f4364743a70040d2ba7d45] have regard to the desirability of that membership including persons with the experience and skills necessary to enable the Council to perform its functions efficiently and effectively, and
-- (b)[^key-646a74e263dfddf62be8ade97b5972f8] secure that the majority of members of the Council are, or recently have been, registered persons.
+- (a)[^c-bc98dbfd6c960fd3a1fc9653549ce4ed][^c-0a8584b5c6f4364743a70040d2ba7d45] have regard to the desirability of that membership including persons with the experience and skills necessary to enable the Council to perform its functions efficiently and effectively, and
+- (b)[^c-646a74e263dfddf62be8ade97b5972f8] secure that the majority of members of the Council are, or recently have been, registered persons.
 
-(5)[^key-bc98dbfd6c960fd3a1fc9653549ce4ed][^key-0a8584b5c6f4364743a70040d2ba7d45] Members are to act as individuals (that is, they are not to act as representatives of any organisation or body to which they may belong, nor any person, organisation or body that nominated them).
+(5)[^c-bc98dbfd6c960fd3a1fc9653549ce4ed][^c-0a8584b5c6f4364743a70040d2ba7d45] Members are to act as individuals (that is, they are not to act as representatives of any organisation or body to which they may belong, nor any person, organisation or body that nominated them).
 
 ### Membership: further provision
 
-**4.**[^key-da9e6abefca57a65f382e94824bcc4e9] (1) The Welsh Ministers may by regulations make provision relating to members and their appointment.
+**4.**[^c-da9e6abefca57a65f382e94824bcc4e9] (1) The Welsh Ministers may by regulations make provision relating to members and their appointment.
 
 (2) Regulations under this paragraph may, in particular, include provision about—
 
@@ -1020,13 +1020,13 @@ The short title of this Act is the Education (Wales) Act 2014.
 
 ### Tenure
 
-**5.**[^key-a87a7218f8e6dd1033dfce41e3806b8c] (1) The term of office of a member is such period of up to 5 years as the Welsh Ministers may specify in the appointment.
+**5.**[^c-a87a7218f8e6dd1033dfce41e3806b8c] (1) The term of office of a member is such period of up to 5 years as the Welsh Ministers may specify in the appointment.
 
 (2) A member may resign at any time by giving notice in writing to the chief officer of the Council.
 
 ### Removal from office
 
-**6.**[^key-8d53df73d5040e80bd5d15f0a105e2cc] (1) A member may be removed from office by a majority vote of other members if without good cause—
+**6.**[^c-8d53df73d5040e80bd5d15f0a105e2cc] (1) A member may be removed from office by a majority vote of other members if without good cause—
 
 - (a) the member has been absent from 3 consecutive Council meetings, or
 - (b) the member has been absent from meetings for a period of 6 months or more beginning with the date on which the member last attended a Council meeting.
@@ -1045,7 +1045,7 @@ The short title of this Act is the Education (Wales) Act 2014.
 
 ### Remuneration, allowances and expenses of members
 
-**7.**[^key-9584fd529f70f7f7aa125296fd045608] (1) The Council may—
+**7.**[^c-9584fd529f70f7f7aa125296fd045608] (1) The Council may—
 
 - (a) pay to its members such remuneration, allowances and expenses as it may determine, and
 - (b) pay or make provision for the payment of such sums by way of pension, allowance and gratuities to or in respect of a member as it may determine.
@@ -1058,7 +1058,7 @@ The short title of this Act is the Education (Wales) Act 2014.
 
 ### Chairing member
 
-**8.**[^key-51d095b2b40345795ca3b2dff5ddd62e] (1) The Council must elect a chairing member from amongst its membership.
+**8.**[^c-51d095b2b40345795ca3b2dff5ddd62e] (1) The Council must elect a chairing member from amongst its membership.
 
 (2) The chairing member is to hold office for such period as the Council may determine.
 
@@ -1069,31 +1069,31 @@ The short title of this Act is the Education (Wales) Act 2014.
 
 ### Chief officer and other staff
 
-**9.** (1)[^key-9cc39fb10af3fa7e9aef967165f955cf][^key-e9cf4248ad8869663ce3d554aa3a56f3] The Council must have a chief officer.
+**9.** (1)[^c-9cc39fb10af3fa7e9aef967165f955cf][^c-e9cf4248ad8869663ce3d554aa3a56f3] The Council must have a chief officer.
 
-(2)[^key-9cc39fb10af3fa7e9aef967165f955cf][^key-e9cf4248ad8869663ce3d554aa3a56f3] The Welsh Ministers may by regulations make provision about the appointment of the chief officer, including, in particular—
+(2)[^c-9cc39fb10af3fa7e9aef967165f955cf][^c-e9cf4248ad8869663ce3d554aa3a56f3] The Welsh Ministers may by regulations make provision about the appointment of the chief officer, including, in particular—
 
 - (a) specifying who is to appoint the chief officer;
 - (b) the procedure for such an appointment;
 - (c) how the terms and conditions (including remuneration, allowances, expenses and pensions) of the chief officer are to be determined.
 
-(3)[^key-9cc39fb10af3fa7e9aef967165f955cf][^key-e9cf4248ad8869663ce3d554aa3a56f3] Regulations under this paragraph may—
+(3)[^c-9cc39fb10af3fa7e9aef967165f955cf][^c-e9cf4248ad8869663ce3d554aa3a56f3] Regulations under this paragraph may—
 
 - (a) apply (with or without modifications) any code of practice that is concerned with appointments to public bodies, or
 - (b) make other provision relating to any such code.
 
-(4)[^key-2a9d4bf3e1f5543f27103a64f8f99605] The Council may appoint such other employees as it considers appropriate.
+(4)[^c-2a9d4bf3e1f5543f27103a64f8f99605] The Council may appoint such other employees as it considers appropriate.
 
-(5)[^key-2a9d4bf3e1f5543f27103a64f8f99605] Employees (other than the chief officer) are to be appointed on such terms and conditions (including as to remuneration, allowances, expenses and pensions) as the Council may determine.
+(5)[^c-2a9d4bf3e1f5543f27103a64f8f99605] Employees (other than the chief officer) are to be appointed on such terms and conditions (including as to remuneration, allowances, expenses and pensions) as the Council may determine.
 
-(6)[^key-2a9d4bf3e1f5543f27103a64f8f99605] The Council may—
+(6)[^c-2a9d4bf3e1f5543f27103a64f8f99605] The Council may—
 
 - (a) pay, or make payments in respect of pensions or gratuities to or in respect of employees or former employees;
 - (b) provide and maintain schemes (whether contributory or not) for the payment of pensions and gratuities to or in respect of employees or former employees.
 
-(7)[^key-2a9d4bf3e1f5543f27103a64f8f99605] References in this paragraph to pensions and gratuities include references to pensions and gratuities by way of compensation to or in respect of employees who suffer loss of employment or loss or diminution of emoluments.
+(7)[^c-2a9d4bf3e1f5543f27103a64f8f99605] References in this paragraph to pensions and gratuities include references to pensions and gratuities by way of compensation to or in respect of employees who suffer loss of employment or loss or diminution of emoluments.
 
-(8)[^key-2a9d4bf3e1f5543f27103a64f8f99605] If any person—
+(8)[^c-2a9d4bf3e1f5543f27103a64f8f99605] If any person—
 
 - (a) on ceasing to be employed by the Council, becomes or continues to be one of its members, and
 - (b) was, by reference to the person's employment, a participant in a pension scheme maintained by the Council,
@@ -1102,7 +1102,7 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Schemes relating to remuneration etc.
 
-**10.**[^key-941c9a9ebd3c6a9f6c231385194506ea] (1) The Council must—
+**10.**[^c-941c9a9ebd3c6a9f6c231385194506ea] (1) The Council must—
 
 - (a) prepare a scheme setting out its approach to determining the amounts which it may pay—
   - (i) to members under paragraph 7, and
@@ -1117,7 +1117,7 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Eligibility for superannuation scheme
 
-**11.**[^key-de16b818e60697a740a485420b5d2b7f] (1) Employment with the Council is among the kinds of employment to which a scheme under section 1 of the Superannuation Act 1972 (c. 11) (superannuation schemes as respects civil servants etc.) can apply.
+**11.**[^c-de16b818e60697a740a485420b5d2b7f] (1) Employment with the Council is among the kinds of employment to which a scheme under section 1 of the Superannuation Act 1972 (c. 11) (superannuation schemes as respects civil servants etc.) can apply.
 
 (2) The Council must pay to the Minister for the Civil Service, at such times as the Minister may direct, such sums as the Minister may determine in respect of the increase attributable to sub-paragraph (1) in the sums payable out of money provided by Parliament under that Act.
 
@@ -1125,7 +1125,7 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Committees generally
 
-**12.**[^key-9ce4d810d02eab9f5df2b3a390022644] (1) The Council—
+**12.**[^c-9ce4d810d02eab9f5df2b3a390022644] (1) The Council—
 
 - (a) may establish committees for any purpose, and
 - (b) if so required by regulations made by the Welsh Ministers, must establish such committees for such purposes as may be specified in the regulations;
@@ -1149,7 +1149,7 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Delegation of functions
 
-**13.**[^key-1f002eb44467305f0b60c4afa3f14226] (1) The Council may authorise the chairing member or any committee established under paragraph 12 to exercise such of its functions as it may determine.
+**13.**[^c-1f002eb44467305f0b60c4afa3f14226] (1) The Council may authorise the chairing member or any committee established under paragraph 12 to exercise such of its functions as it may determine.
 
 (2) Sub-paragraph (1) does not affect the Council's—
 
@@ -1158,7 +1158,7 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Proceedings
 
-**14.**[^key-16fa5f659a32b086a360f2d4a4c59e6c] (1) The Council may regulate its own procedure and that of any its committees (except to the extent that this Schedule or regulations made under it provide otherwise).
+**14.**[^c-16fa5f659a32b086a360f2d4a4c59e6c] (1) The Council may regulate its own procedure and that of any its committees (except to the extent that this Schedule or regulations made under it provide otherwise).
 
 (2) The validity of the Council's proceedings are not affected by—
 
@@ -1170,22 +1170,22 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Application of seal
 
-**15.**[^key-4d6cfee81b0ab93bb27565a8075a9417] The application of the seal of the Council is to be authenticated by the signature of—
+**15.**[^c-4d6cfee81b0ab93bb27565a8075a9417] The application of the seal of the Council is to be authenticated by the signature of—
 
 - (a) the chairing member or some other person authorised either generally or specifically by the Council to act for that purpose, and
 - (b) one other member.
 
 ### Proof of documents
 
-**16.**[^key-d10216a4f823f72fc976ad130e37820a] Every document purporting to be an instrument made or issued by or on behalf of the Council and to be duly executed under the seal of the Council, or to be signed or executed by a person authorised by the Council to act in that behalf, is to be received in evidence and treated, without further proof, as being so made or issued unless the contrary is shown.
+**16.**[^c-d10216a4f823f72fc976ad130e37820a] Every document purporting to be an instrument made or issued by or on behalf of the Council and to be duly executed under the seal of the Council, or to be signed or executed by a person authorised by the Council to act in that behalf, is to be received in evidence and treated, without further proof, as being so made or issued unless the contrary is shown.
 
 ### Finance
 
-**17.**[^key-8dd046a64e8b401e9e5cfcdd0086bdba] The Welsh Ministers may make grants to the Council of such amounts and subject to such terms and conditions (including as to repayment) as they may determine.
+**17.**[^c-8dd046a64e8b401e9e5cfcdd0086bdba] The Welsh Ministers may make grants to the Council of such amounts and subject to such terms and conditions (including as to repayment) as they may determine.
 
 ### Accounting officer
 
-**18.**[^key-7dbfc757a0929e735d13e90abf9f6b69] (1) The Welsh Ministers may designate a person to act as the Council's accounting officer.
+**18.**[^c-7dbfc757a0929e735d13e90abf9f6b69] (1) The Welsh Ministers may designate a person to act as the Council's accounting officer.
 
 (2) The accounting officer has, in relation to the Council's accounts and finances, the responsibilities specified in a direction by the Welsh Ministers.
 
@@ -1199,7 +1199,7 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Audit committee
 
-**19.**[^key-e5e6300c1bf4673a728393ac5ae841bc] (1) The Council must establish a committee (an “audit committee”) to—
+**19.**[^c-e5e6300c1bf4673a728393ac5ae841bc] (1) The Council must establish a committee (an “audit committee”) to—
 
 - (a) review and scrutinise the Council's financial affairs,
 - (b) review and assess the Council's risk management, internal control and corporate governance arrangements,
@@ -1212,7 +1212,7 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Audit committee: membership
 
-**20.**[^key-dd31ce4dd2674a09d4dbb49b04425744] (1) The audit committee is to consist of—
+**20.**[^c-dd31ce4dd2674a09d4dbb49b04425744] (1) The audit committee is to consist of—
 
 - (a) at least two members of the Council, and
 - (b) at least one lay member.
@@ -1227,7 +1227,7 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Accounts and external audit
 
-**21.**[^key-68a400022db64fe394406da0b1be5551] (1) The Council must—
+**21.**[^c-68a400022db64fe394406da0b1be5551] (1) The Council must—
 
 - (a) keep proper accounts and proper records in relation to them, and
 - (b) prepare in respect of each financial year a statement of accounts.
@@ -1251,7 +1251,7 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Annual reports
 
-**22.**[^key-527ac1ab556a6056b69887ddab70bfef] (1) No later than 30 November after the end of each financial year the Council must submit a report to the Welsh Ministers on the discharge of its functions during that year.
+**22.**[^c-527ac1ab556a6056b69887ddab70bfef] (1) No later than 30 November after the end of each financial year the Council must submit a report to the Welsh Ministers on the discharge of its functions during that year.
 
 (2) The Welsh Ministers must lay a copy of the report before the National Assembly for Wales.
 
@@ -1261,29 +1261,29 @@ the Council may make provision for that person to continue to participate in tha
 
 (introduced by section 9(3))
 
-**1.**[^key-5c2c64e381daa2edd30e96d9de37940e][^key-7458268dab3b52e8afcce843defd7f8f] The first column in table 1 sets out the categories of registration and the second column describes the category by reference to the persons who fall within it.
+**1.**[^c-5c2c64e381daa2edd30e96d9de37940e][^c-7458268dab3b52e8afcce843defd7f8f] The first column in table 1 sets out the categories of registration and the second column describes the category by reference to the persons who fall within it.
 
 **TABLE 1**
 
 | **Category** | **Description** |
 | --- | --- |
 | School teacher | A person who is a qualified teacher and who provides (or wishes to provide) any services specified in regulations made under section 14 in a school. |
-| School learning support worker | A person who satisfies the requirements specified in regulations made under section 14(1)(a)(ii) and who supports (or wishes to support) the provision of any of the services specified in regulations made under that section in a school.[^key-74b760d615cefe7009e44f2155c0a72a] |
+| School learning support worker | A person who satisfies the requirements specified in regulations made under section 14(1)(a)(ii) and who supports (or wishes to support) the provision of any of the services specified in regulations made under that section in a school.[^c-74b760d615cefe7009e44f2155c0a72a] |
 | Further education teacher | A person who provides (or wishes to provide) education (as defined by section 140(3) of the 2002 Act) in or for a further education institution in Wales. |
-| Further education learning support worker | A person [^key-ea0c8b8f9f95e6937a27b3bff7ad8551]... who directly or indirectly provides (or wishes to provide) any of the services described in section 16(2) in or for a further education institution in Wales. |
-| Youth worker[^key-e92bcc3ead7e3fa335d0d4b52f2a859f] | A person who provides (or wishes to provide) youth development services and who—<br>- (a) possesses at least one of the qualifications specified as youth worker qualifications in an order made under paragraph 2, or<br>- (b) otherwise meets such alternative requirements as are specified in an order under that paragraph. |
+| Further education learning support worker | A person [^c-ea0c8b8f9f95e6937a27b3bff7ad8551]... who directly or indirectly provides (or wishes to provide) any of the services described in section 16(2) in or for a further education institution in Wales. |
+| Youth worker[^c-e92bcc3ead7e3fa335d0d4b52f2a859f] | A person who provides (or wishes to provide) youth development services and who—<br>- (a) possesses at least one of the qualifications specified as youth worker qualifications in an order made under paragraph 2, or<br>- (b) otherwise meets such alternative requirements as are specified in an order under that paragraph. |
 | Youth support worker | A person who provides (or wishes to provide) youth development services and who–<br>- (a) possesses at least one of the qualifications specified as youth support worker qualifications in an order made under paragraph 2, or<br>- (b) otherwise meets such alternative requirements as are specified in an order under that paragraph. |
 | Work based learning practitioner | A person who provides (or wishes to provide) work based learning practitioner services. |
-| Independent school teacher[^key-78a96eb87439cdd3de1e23c87a56720b] | A person who provides (or wishes to provide) independent school teacher services in or for an independent school in Wales. |
+| Independent school teacher[^c-78a96eb87439cdd3de1e23c87a56720b] | A person who provides (or wishes to provide) independent school teacher services in or for an independent school in Wales. |
 | Independent school learning support worker | A person who supports (or wishes to support) the provision of independent school teacher services in or for an independent school in Wales. |
 | Independent special post-16 institution teacher | A person who provides (or wishes to provide) independent special post-16 institution teacher services in or for an independent special post-16 institution in Wales. |
 | Independent special post-16 institution learning support worker | A person who supports (or wishes to support) the provision of independent special post-16 institution teacher services in or for an independent special post-16 institution in Wales. |
-| Adult learning practitioner[^key-e4dceb818b09fafc2a7c23db14bb35f9] | A person who provides (or wishes to provide) further education and training to adults for or on behalf of a community-based adult learning provider. |
+| Adult learning practitioner[^c-e4dceb818b09fafc2a7c23db14bb35f9] | A person who provides (or wishes to provide) further education and training to adults for or on behalf of a community-based adult learning provider. |
 | Principal or senior leader in further education | A person who is undertaking (or wishes to undertake) a senior leadership role in managing teaching and learning in or for a further education institution in Wales. |
 
 ### Changing the categories of registered worker
 
-**2.**[^key-43a57dcf75bb0ec9fa966d82a1158383] (1) The Welsh Ministers may by order add, amend or remove a category of registration (or the description of a category) which may include, amongst other things, adding a category of registration relating to independent schools (within the meaning of section 463 of the 1996 Act), and amending or removing such a category.
+**2.**[^c-43a57dcf75bb0ec9fa966d82a1158383] (1) The Welsh Ministers may by order add, amend or remove a category of registration (or the description of a category) which may include, amongst other things, adding a category of registration relating to independent schools (within the meaning of section 463 of the 1996 Act), and amending or removing such a category.
 
 (2) An order under sub-paragraph (1) may make such provision about or in connection with the new category of registration as the Welsh Ministers consider necessary or expedient.
 
@@ -1310,9 +1310,9 @@ the Council may make provision for that person to continue to participate in tha
 
 ### Interpretation
 
-**3.**[^key-316ce54058a9d5b98c85a8de448c4a6d][^key-519a805a171e6e1c8b49df47c78fb284] In this Schedule—
+**3.**[^c-316ce54058a9d5b98c85a8de448c4a6d][^c-519a805a171e6e1c8b49df47c78fb284] In this Schedule—
 
-- “[^key-5849dd76f04b8c2a6eb375a1dcb380e7]**adult**” (“***oedolyn***”) means a person aged 18 or over;
+- “[^c-5849dd76f04b8c2a6eb375a1dcb380e7]**adult**” (“***oedolyn***”) means a person aged 18 or over;
 
 - “**community-based adult learning provider**” (“***darparwr dysgu oedolion cymunedol***”) means a provider (other than a school, further education institution or higher education institution) of further education and training for adults which is based in the community and funded or otherwise provided by a local authority, the Commission for Tertiary Education and Research or the Welsh Ministers;
 
@@ -1322,7 +1322,7 @@ the Council may make provision for that person to continue to participate in tha
 
 - “**higher education institution**” (“***sefydliad addysg uwch***”) means an institution falling within section 91(5) of the Further and Higher Education Act 1992;
 
-- “[^key-b7fb8742c1065b0546960a2b849c2943]**independent school**” (“***ysgol annibynnol***”) has the meaning given in section 463 of the 1996 Act;
+- “[^c-b7fb8742c1065b0546960a2b849c2943]**independent school**” (“***ysgol annibynnol***”) has the meaning given in section 463 of the 1996 Act;
 
 - “**independent school teacher services**” (“***gwasanaethau athro neu athrawes ysgol annibynnol***”) are services specified as such in an order made under paragraph 2;
 
@@ -1353,9 +1353,9 @@ the Council may make provision for that person to continue to participate in tha
 
 #### Education Act 2002 (c. 32)
 
-**1.** (1)[^key-69f3a7d785e2a6c561c5cba2e99ecff9][^key-c0676a852ffeb541ee208beae9726c2c] The 2002 Act is amended as follows.
+**1.** (1)[^c-69f3a7d785e2a6c561c5cba2e99ecff9][^c-c0676a852ffeb541ee208beae9726c2c] The 2002 Act is amended as follows.
 
-(2)[^key-69f3a7d785e2a6c561c5cba2e99ecff9][^key-c0676a852ffeb541ee208beae9726c2c] In section 32 (responsibility for fixing dates of terms and holidays and times of sessions)—
+(2)[^c-69f3a7d785e2a6c561c5cba2e99ecff9][^c-c0676a852ffeb541ee208beae9726c2c] In section 32 (responsibility for fixing dates of terms and holidays and times of sessions)—
 
 - (a) in subsection (1)—
   - (i) after “school” where it occurs the first and second time, insert “ in England ”;
@@ -1368,19 +1368,19 @@ the Council may make provision for that person to continue to participate in tha
 
 (3) In section 131(1) (appraisal of school teachers), after “teachers” insert “ in England ”.
 
-(4)[^key-73ee00d997ce2ccd1283bce3bb01f3a3] In section 132 (qualified teacher status), for “General Teaching Council for Wales” substitute “ Education Workforce Council ”.
+(4)[^c-73ee00d997ce2ccd1283bce3bb01f3a3] In section 132 (qualified teacher status), for “General Teaching Council for Wales” substitute “ Education Workforce Council ”.
 
-(5)[^key-73ee00d997ce2ccd1283bce3bb01f3a3] In section 133(1) (requirement to be qualified), after “school” insert “ in England ”.
+(5)[^c-73ee00d997ce2ccd1283bce3bb01f3a3] In section 133(1) (requirement to be qualified), after “school” insert “ in England ”.
 
-(6)[^key-69f3a7d785e2a6c561c5cba2e99ecff9][^key-c0676a852ffeb541ee208beae9726c2c] In section 210(6A) (orders and regulations), for “32(9)” substitute “ 32C(5) ”.
+(6)[^c-69f3a7d785e2a6c561c5cba2e99ecff9][^c-c0676a852ffeb541ee208beae9726c2c] In section 210(6A) (orders and regulations), for “32(9)” substitute “ 32C(5) ”.
 
 #### School Standards and Organisation (Wales) Act 2013 (anaw 1)
 
-**2.**[^key-b9f9e67a4ef8c8735d43d2959bbfaad8] In Schedule 4 to the School Standards and Organisation (Wales) Act 2013, in paragraph 8, for “Schedule 13 to the Schools Standards and Framework Act 1998” substitute “ regulations made under section 31 of the Education Act 2002 (control of school premises) ”.
+**2.**[^c-b9f9e67a4ef8c8735d43d2959bbfaad8] In Schedule 4 to the School Standards and Organisation (Wales) Act 2013, in paragraph 8, for “Schedule 13 to the Schools Standards and Framework Act 1998” substitute “ regulations made under section 31 of the Education Act 2002 (control of school premises) ”.
 
 ### PART 2 — REPEALS
 
-**3.**[^key-e3f5ea657be2da0a7b8205fc5d1f3cf0] The enactments mentioned in the first column are repealed to the extent mentioned in the second column.
+**3.**[^c-e3f5ea657be2da0a7b8205fc5d1f3cf0] The enactments mentioned in the first column are repealed to the extent mentioned in the second column.
 
 **TABLE 2**
 
@@ -1389,7 +1389,7 @@ the Council may make provision for that person to continue to participate in tha
 | Teaching and Higher Education Act 1998 (c. 30) | Sections 1 to 15.<br>Section 19.<br>Schedule 1.<br>Schedule 2. |
 | Education Act 2002 (c. 32) | Section 131(7).<br>Section 134. |
 
-## SCHEDULE 4 — INDEX OF DEFINED WORDS AND EXPRESSIONS[^key-1f9bd320a2c13a64a947df4d985e2450]
+## SCHEDULE 4 — INDEX OF DEFINED WORDS AND EXPRESSIONS[^c-1f9bd320a2c13a64a947df4d985e2450]
 
 (introduced by section 1)
 
@@ -1406,7 +1406,7 @@ The words and expressions in the first column of table 3—
 | 1998 Act | Deddf 1998 | Section 49 |
 | 2002 Act | Deddf 2002 | Section 49 |
 | 2013 Act | Deddf 2013 | Section 49 |
-| Adult[^key-a4b529964f8987e4e861ce77c7c0f29d] | Oedolyn | Schedule 2 |
+| Adult[^c-a4b529964f8987e4e861ce77c7c0f29d] | Oedolyn | Schedule 2 |
 | Adult learning practitioner | Ymarferydd dysgu oedolion | Schedule 2 |
 | Agent | Asiant | Section 37 |
 | Appropriate body | Corff priodol | Section 21 |
@@ -1423,7 +1423,7 @@ The words and expressions in the first column of table 3—
 | Further education teacher | Athro neu athrawes addysg bellach | Schedule 2 |
 | Higher education | Addysg uwch | Schedule 2 |
 | Higher education institution | Sefydliad addysg uwch | Schedule 2 |
-| Independent school[^key-09cf9cf5ed12698a6e9be13e59d16a44] | Ysgol annibynnol | Schedule 2 |
+| Independent school[^c-09cf9cf5ed12698a6e9be13e59d16a44] | Ysgol annibynnol | Schedule 2 |
 | Independent school learning support worker | Gweithiwr cymorth dysgu mewn ysgol annibynnol | Schedule 2 |
 | Independent school teacher | Athro neu athrawes ysgol annibynnol | Schedule 2 |
 | Independent special post-16 institution | Sefydliad ôl-16 arbennig annibynnol | Schedule 2 |
@@ -1456,206 +1456,206 @@ The words and expressions in the first column of table 3—
 
 ## Annotations
 
-[^key-1450e736f25286a9f5fe855be63c86a5]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/5/section/2) in force for specified purposes at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/a)
+[^c-1450e736f25286a9f5fe855be63c86a5]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/5/section/2) in force for specified purposes at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/a)
 
-[^key-264aafede5523ebe71adae5da75a8b60]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/5/section/2) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/29/article/2/a)
+[^c-264aafede5523ebe71adae5da75a8b60]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/5/section/2) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/29/article/2/a)
 
-[^key-c0bea56bfec016c27491bda221639242]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/5/section/2) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/29/article/3/a)
+[^c-c0bea56bfec016c27491bda221639242]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2014/5/section/2) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(a)](https://www.legislation.gov.uk/wsi/2015/29/article/3/a)
 
-[^key-5456db3f1f696b2383900f7440662c81]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/5/section/3) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/29/article/3/b)
+[^c-5456db3f1f696b2383900f7440662c81]: Commencement: [S. 3](https://www.legislation.gov.uk/anaw/2014/5/section/3) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/29/article/3/b)
 
-[^key-aab8864e96fb8f12870511162a119175]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2014/5/section/4) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/29/article/3/c)
+[^c-aab8864e96fb8f12870511162a119175]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2014/5/section/4) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/29/article/3/c)
 
-[^key-a13293c5d8a84139612b4bf2eefa09a6]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2014/5/section/5) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/29/article/2/b)
+[^c-a13293c5d8a84139612b4bf2eefa09a6]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2014/5/section/5) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/29/article/2/b)
 
-[^key-3ddeedbb217dd0a7f7b158b1a6a321c7]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2014/5/section/6) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(d)](https://www.legislation.gov.uk/wsi/2015/29/article/3/d)
+[^c-3ddeedbb217dd0a7f7b158b1a6a321c7]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2014/5/section/6) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(d)](https://www.legislation.gov.uk/wsi/2015/29/article/3/d)
 
-[^key-c8546dd190307e030ed2818200d1b1c1]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2014/5/section/7) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/29/article/3/e)
+[^c-c8546dd190307e030ed2818200d1b1c1]: Commencement: [S. 7](https://www.legislation.gov.uk/anaw/2014/5/section/7) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/29/article/3/e)
 
-[^key-033b86c0369de988d022696bdf81cb9a]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2014/5/section/8) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/29/article/3/e)
+[^c-033b86c0369de988d022696bdf81cb9a]: Commencement: [S. 8](https://www.legislation.gov.uk/anaw/2014/5/section/8) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(e)](https://www.legislation.gov.uk/wsi/2015/29/article/3/e)
 
-[^key-9106e172d52396baafd3fbf087e18f56]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/anaw/2014/5/section/9/1)[(3)](https://www.legislation.gov.uk/anaw/2014/5/section/9/3) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/29/article/2/c)
+[^c-9106e172d52396baafd3fbf087e18f56]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/anaw/2014/5/section/9/1)[(3)](https://www.legislation.gov.uk/anaw/2014/5/section/9/3) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/29/article/2/c)
 
-[^key-8980f038a83359721e31d603883dfb30]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/anaw/2014/5/section/9/1)[(3)](https://www.legislation.gov.uk/anaw/2014/5/section/9/3) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(f)](https://www.legislation.gov.uk/wsi/2015/29/article/3/f)
+[^c-8980f038a83359721e31d603883dfb30]: Commencement: [S. 9(1)](https://www.legislation.gov.uk/anaw/2014/5/section/9/1)[(3)](https://www.legislation.gov.uk/anaw/2014/5/section/9/3) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(f)](https://www.legislation.gov.uk/wsi/2015/29/article/3/f)
 
-[^key-fdf8d241201beeb087222e342c2a728d]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/anaw/2014/5/section/9/2)[(4)](https://www.legislation.gov.uk/anaw/2014/5/section/9/4)[(5)](https://www.legislation.gov.uk/anaw/2014/5/section/9/5) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(f)](https://www.legislation.gov.uk/wsi/2015/29/article/3/f)
+[^c-fdf8d241201beeb087222e342c2a728d]: Commencement: [S. 9(2)](https://www.legislation.gov.uk/anaw/2014/5/section/9/2)[(4)](https://www.legislation.gov.uk/anaw/2014/5/section/9/4)[(5)](https://www.legislation.gov.uk/anaw/2014/5/section/9/5) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(f)](https://www.legislation.gov.uk/wsi/2015/29/article/3/f)
 
-[^key-d3ed0c3e119d5953db3b6770e3b2d796]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2014/5/section/10) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/29/article/2/d)
+[^c-d3ed0c3e119d5953db3b6770e3b2d796]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2014/5/section/10) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/29/article/2/d)
 
-[^key-35295b4d1cc948b6b011078b3456050e]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2014/5/section/11) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/29/article/3/g)
+[^c-35295b4d1cc948b6b011078b3456050e]: Commencement: [S. 11](https://www.legislation.gov.uk/anaw/2014/5/section/11) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(g)](https://www.legislation.gov.uk/wsi/2015/29/article/3/g)
 
-[^key-beeace83ea91b9f8bce54817d7ae7efc]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2014/5/section/12) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/29/article/2/e)
+[^c-beeace83ea91b9f8bce54817d7ae7efc]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2014/5/section/12) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(e)](https://www.legislation.gov.uk/wsi/2015/29/article/2/e)
 
-[^key-902869c32fa963f5e472e0aea52a77b4]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2014/5/section/13) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/29/article/2/f)
+[^c-902869c32fa963f5e472e0aea52a77b4]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2014/5/section/13) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(f)](https://www.legislation.gov.uk/wsi/2015/29/article/2/f)
 
-[^key-d0c2a8a5eee1f12d5ba23e6a4b35ea8a]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2014/5/section/14) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/29/article/2/g)
+[^c-d0c2a8a5eee1f12d5ba23e6a4b35ea8a]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2014/5/section/14) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(g)](https://www.legislation.gov.uk/wsi/2015/29/article/2/g)
 
-[^key-9eddc1cdebc04671dc2c77c21c24cfe4]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2014/5/section/14) in force at 1.1.2016 in so far as not already in force by [S.I. 2015/1688](https://www.legislation.gov.uk/wsi/2015/1688), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1688/article/2/a)
+[^c-9eddc1cdebc04671dc2c77c21c24cfe4]: Commencement: [S. 14](https://www.legislation.gov.uk/anaw/2014/5/section/14) in force at 1.1.2016 in so far as not already in force by [S.I. 2015/1688](https://www.legislation.gov.uk/wsi/2015/1688), [art. 2(a)](https://www.legislation.gov.uk/wsi/2015/1688/article/2/a)
 
-[^key-bb61610a9b73471ae07c1f4a5505b133]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2014/5/section/15) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/29/article/2/h)
+[^c-bb61610a9b73471ae07c1f4a5505b133]: Commencement: [S. 15](https://www.legislation.gov.uk/anaw/2014/5/section/15) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(h)](https://www.legislation.gov.uk/wsi/2015/29/article/2/h)
 
-[^key-7c73177b3bb61c57b75d84eed149d080]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2014/5/section/16) in force at 1.1.2016 by [S.I. 2015/1688](https://www.legislation.gov.uk/wsi/2015/1688), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1688/article/2/b)
+[^c-7c73177b3bb61c57b75d84eed149d080]: Commencement: [S. 16](https://www.legislation.gov.uk/anaw/2014/5/section/16) in force at 1.1.2016 by [S.I. 2015/1688](https://www.legislation.gov.uk/wsi/2015/1688), [art. 2(b)](https://www.legislation.gov.uk/wsi/2015/1688/article/2/b)
 
-[^key-a0b72fd8f088143598c0278ee247167f]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2014/5/section/17) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(i)](https://www.legislation.gov.uk/wsi/2015/29/article/2/i)
+[^c-a0b72fd8f088143598c0278ee247167f]: Commencement: [S. 17](https://www.legislation.gov.uk/anaw/2014/5/section/17) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(i)](https://www.legislation.gov.uk/wsi/2015/29/article/2/i)
 
-[^key-a6b1b7bc3e26317c8c92f43335da2c29]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2014/5/section/18) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(j)](https://www.legislation.gov.uk/wsi/2015/29/article/2/j)
+[^c-a6b1b7bc3e26317c8c92f43335da2c29]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2014/5/section/18) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(j)](https://www.legislation.gov.uk/wsi/2015/29/article/2/j)
 
-[^key-8997c89e7c3e2a68740106a8a1818330]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2014/5/section/18) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/29/article/3/h)
+[^c-8997c89e7c3e2a68740106a8a1818330]: Commencement: [S. 18](https://www.legislation.gov.uk/anaw/2014/5/section/18) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(h)](https://www.legislation.gov.uk/wsi/2015/29/article/3/h)
 
-[^key-55bca303f43b886f214746db6d5af5de]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2014/5/section/19) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(k)](https://www.legislation.gov.uk/wsi/2015/29/article/2/k)
+[^c-55bca303f43b886f214746db6d5af5de]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2014/5/section/19) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(k)](https://www.legislation.gov.uk/wsi/2015/29/article/2/k)
 
-[^key-cb9ec4129f2e520aa9b0644baf013feb]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2014/5/section/19) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(i)](https://www.legislation.gov.uk/wsi/2015/29/article/3/i)
+[^c-cb9ec4129f2e520aa9b0644baf013feb]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2014/5/section/19) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(i)](https://www.legislation.gov.uk/wsi/2015/29/article/3/i)
 
-[^key-7132e157031d9b8c9b9891c60c77761d]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2014/5/section/20) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(j)](https://www.legislation.gov.uk/wsi/2015/29/article/3/j)
+[^c-7132e157031d9b8c9b9891c60c77761d]: Commencement: [S. 20](https://www.legislation.gov.uk/anaw/2014/5/section/20) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(j)](https://www.legislation.gov.uk/wsi/2015/29/article/3/j)
 
-[^key-bfe53157b63a87ac4a7cd42abdff7214]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2014/5/section/21) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(l)](https://www.legislation.gov.uk/wsi/2015/29/article/2/l)
+[^c-bfe53157b63a87ac4a7cd42abdff7214]: Commencement: [S. 21](https://www.legislation.gov.uk/anaw/2014/5/section/21) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(l)](https://www.legislation.gov.uk/wsi/2015/29/article/2/l)
 
-[^key-91eb6df754092d49b9e539c6ec17c6b7]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2014/5/section/22) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(k)](https://www.legislation.gov.uk/wsi/2015/29/article/3/k)
+[^c-91eb6df754092d49b9e539c6ec17c6b7]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2014/5/section/22) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(k)](https://www.legislation.gov.uk/wsi/2015/29/article/3/k)
 
-[^key-e7653b4b721217b5600ee7624c118534]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2014/5/section/24) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(m)](https://www.legislation.gov.uk/wsi/2015/29/article/2/m)
+[^c-e7653b4b721217b5600ee7624c118534]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2014/5/section/24) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(m)](https://www.legislation.gov.uk/wsi/2015/29/article/2/m)
 
-[^key-56328ea0e3091abb2db96ca4cfae1d94]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2014/5/section/24) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(l)](https://www.legislation.gov.uk/wsi/2015/29/article/3/l)
+[^c-56328ea0e3091abb2db96ca4cfae1d94]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2014/5/section/24) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(l)](https://www.legislation.gov.uk/wsi/2015/29/article/3/l)
 
-[^key-90568bc1f15e24b6359e0a280f15d6dc]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2014/5/section/25) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(n)](https://www.legislation.gov.uk/wsi/2015/29/article/2/n)
+[^c-90568bc1f15e24b6359e0a280f15d6dc]: Commencement: [S. 25](https://www.legislation.gov.uk/anaw/2014/5/section/25) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(n)](https://www.legislation.gov.uk/wsi/2015/29/article/2/n)
 
-[^key-8095071fda7a83f20b6eefca43934935]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2014/5/section/26) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(o)](https://www.legislation.gov.uk/wsi/2015/29/article/2/o)
+[^c-8095071fda7a83f20b6eefca43934935]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2014/5/section/26) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(o)](https://www.legislation.gov.uk/wsi/2015/29/article/2/o)
 
-[^key-415b89e855c1b6c6c65a304ee458b6d9]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2014/5/section/27) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(p)](https://www.legislation.gov.uk/wsi/2015/29/article/2/p)
+[^c-415b89e855c1b6c6c65a304ee458b6d9]: Commencement: [S. 27](https://www.legislation.gov.uk/anaw/2014/5/section/27) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(p)](https://www.legislation.gov.uk/wsi/2015/29/article/2/p)
 
-[^key-6f75f80b0a75a8d119d20292e984072c]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2014/5/section/28) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(q)](https://www.legislation.gov.uk/wsi/2015/29/article/2/q)
+[^c-6f75f80b0a75a8d119d20292e984072c]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2014/5/section/28) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(q)](https://www.legislation.gov.uk/wsi/2015/29/article/2/q)
 
-[^key-82e41242e83698b1cc8b15cee7da962f]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2014/5/section/29) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/29/article/2/r)
+[^c-82e41242e83698b1cc8b15cee7da962f]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2014/5/section/29) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(r)](https://www.legislation.gov.uk/wsi/2015/29/article/2/r)
 
-[^key-024d3c057a8af824edb615c20e77521e]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2014/5/section/29) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(m)](https://www.legislation.gov.uk/wsi/2015/29/article/3/m)
+[^c-024d3c057a8af824edb615c20e77521e]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2014/5/section/29) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(m)](https://www.legislation.gov.uk/wsi/2015/29/article/3/m)
 
-[^key-36f150b67db1230aed3b6a450c12c720]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2014/5/section/30) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(s)](https://www.legislation.gov.uk/wsi/2015/29/article/2/s)
+[^c-36f150b67db1230aed3b6a450c12c720]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2014/5/section/30) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(s)](https://www.legislation.gov.uk/wsi/2015/29/article/2/s)
 
-[^key-c9c71fec72ccaeed326163a0f8089a18]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2014/5/section/30) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(n)](https://www.legislation.gov.uk/wsi/2015/29/article/3/n)
+[^c-c9c71fec72ccaeed326163a0f8089a18]: Commencement: [S. 30](https://www.legislation.gov.uk/anaw/2014/5/section/30) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(n)](https://www.legislation.gov.uk/wsi/2015/29/article/3/n)
 
-[^key-bf0fbb8b9eca08d9bf987f0ab75bb8c6]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2014/5/section/31) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(t)](https://www.legislation.gov.uk/wsi/2015/29/article/2/t)
+[^c-bf0fbb8b9eca08d9bf987f0ab75bb8c6]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2014/5/section/31) in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(t)](https://www.legislation.gov.uk/wsi/2015/29/article/2/t)
 
-[^key-b29c9d129d6fa2abc771401825911b0e]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2014/5/section/31) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(o)](https://www.legislation.gov.uk/wsi/2015/29/article/3/o)
+[^c-b29c9d129d6fa2abc771401825911b0e]: Commencement: [S. 31](https://www.legislation.gov.uk/anaw/2014/5/section/31) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(o)](https://www.legislation.gov.uk/wsi/2015/29/article/3/o)
 
-[^key-76920d2c130723cb02c023dd0aea8ff0]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2014/5/section/32) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(p)](https://www.legislation.gov.uk/wsi/2015/29/article/3/p)
+[^c-76920d2c130723cb02c023dd0aea8ff0]: Commencement: [S. 32](https://www.legislation.gov.uk/anaw/2014/5/section/32) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(p)](https://www.legislation.gov.uk/wsi/2015/29/article/3/p)
 
-[^key-c58e146d3c445890615b679715427727]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2014/5/section/33) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(u)](https://www.legislation.gov.uk/wsi/2015/29/article/2/u)
+[^c-c58e146d3c445890615b679715427727]: Commencement: [S. 33](https://www.legislation.gov.uk/anaw/2014/5/section/33) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(u)](https://www.legislation.gov.uk/wsi/2015/29/article/2/u)
 
-[^key-80a43cf19536910e048c15880953edb8]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2014/5/section/34) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(q)](https://www.legislation.gov.uk/wsi/2015/29/article/3/q)
+[^c-80a43cf19536910e048c15880953edb8]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2014/5/section/34) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(q)](https://www.legislation.gov.uk/wsi/2015/29/article/3/q)
 
-[^key-84928a67c08243098a75ec47a5f00bf2]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2014/5/section/35) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(v)](https://www.legislation.gov.uk/wsi/2015/29/article/2/v)
+[^c-84928a67c08243098a75ec47a5f00bf2]: Commencement: [S. 35](https://www.legislation.gov.uk/anaw/2014/5/section/35) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(v)](https://www.legislation.gov.uk/wsi/2015/29/article/2/v)
 
-[^key-a4171c5ec1beeaa732b674f19adf21fa]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2014/5/section/36) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(w)](https://www.legislation.gov.uk/wsi/2015/29/article/2/w)
+[^c-a4171c5ec1beeaa732b674f19adf21fa]: Commencement: [S. 36](https://www.legislation.gov.uk/anaw/2014/5/section/36) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(w)](https://www.legislation.gov.uk/wsi/2015/29/article/2/w)
 
-[^key-c4dddd1185afb917619d86946c6d856a]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2014/5/section/37) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(x)](https://www.legislation.gov.uk/wsi/2015/29/article/2/x)
+[^c-c4dddd1185afb917619d86946c6d856a]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2014/5/section/37) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(x)](https://www.legislation.gov.uk/wsi/2015/29/article/2/x)
 
-[^key-74a0533994ca69a1644f05e3f0965e9e]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2014/5/section/38) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(r)](https://www.legislation.gov.uk/wsi/2015/29/article/3/r)
+[^c-74a0533994ca69a1644f05e3f0965e9e]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2014/5/section/38) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(r)](https://www.legislation.gov.uk/wsi/2015/29/article/3/r)
 
-[^key-13ebc2e32f0de074a85d8c2864fe394a]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2014/5/section/39) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(s)](https://www.legislation.gov.uk/wsi/2015/29/article/3/s)
+[^c-13ebc2e32f0de074a85d8c2864fe394a]: Commencement: [S. 39](https://www.legislation.gov.uk/anaw/2014/5/section/39) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(s)](https://www.legislation.gov.uk/wsi/2015/29/article/3/s)
 
-[^key-408560806fb1b3699b95e8ecc2554684]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2014/5/section/40) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(s)](https://www.legislation.gov.uk/wsi/2015/29/article/3/s)
+[^c-408560806fb1b3699b95e8ecc2554684]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2014/5/section/40) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(s)](https://www.legislation.gov.uk/wsi/2015/29/article/3/s)
 
-[^key-fa59c4f757a8249b0b06536d87a32ea2]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2014/5/section/41) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(y)](https://www.legislation.gov.uk/wsi/2015/29/article/2/y)
+[^c-fa59c4f757a8249b0b06536d87a32ea2]: Commencement: [S. 41](https://www.legislation.gov.uk/anaw/2014/5/section/41) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(y)](https://www.legislation.gov.uk/wsi/2015/29/article/2/y)
 
 [^c2222497]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2014/5/section/42) partly in force; [s. 42](https://www.legislation.gov.uk/anaw/2014/5/section/42) in force for specified purposes at Royal Assent, see [s. 50(2)](https://www.legislation.gov.uk/anaw/2014/5/section/50/2)
 
-[^key-f406f2d33be555ca53468ff6f63c3013]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2014/5/section/42) in force in so far as not already in force at 14.7.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/a)
+[^c-f406f2d33be555ca53468ff6f63c3013]: Commencement: [S. 42](https://www.legislation.gov.uk/anaw/2014/5/section/42) in force in so far as not already in force at 14.7.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/a)
 
-[^key-637a07d712dc4d2228834227e4fa76fe]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2014/5/section/43) in force at 1.9.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 3](https://www.legislation.gov.uk/wsi/2014/1605/article/3)
+[^c-637a07d712dc4d2228834227e4fa76fe]: Commencement: [S. 43](https://www.legislation.gov.uk/anaw/2014/5/section/43) in force at 1.9.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 3](https://www.legislation.gov.uk/wsi/2014/1605/article/3)
 
-[^key-bea491cf1f702c7b607963bc9eff3562]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2014/5/section/44) in force at 14.7.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/b)
+[^c-bea491cf1f702c7b607963bc9eff3562]: Commencement: [S. 44](https://www.legislation.gov.uk/anaw/2014/5/section/44) in force at 14.7.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/b)
 
-[^key-eab209f1ada460cf6b3703720fc31fe1]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2014/5/section/48) in force at 14.7.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/c)
+[^c-eab209f1ada460cf6b3703720fc31fe1]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2014/5/section/48) in force at 14.7.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(c)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/c)
 
-[^key-7757006ce620e26c66ab0b7af7554f1e]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2014/5/section/48) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(t)](https://www.legislation.gov.uk/wsi/2015/29/article/3/t)
+[^c-7757006ce620e26c66ab0b7af7554f1e]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2014/5/section/48) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(t)](https://www.legislation.gov.uk/wsi/2015/29/article/3/t)
 
-[^key-9ec982c01a5f234e892adafa5b384fba]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/1) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-9ec982c01a5f234e892adafa5b384fba]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/1) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-47e395864dade448bd901da5222cb8ce]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/2) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-47e395864dade448bd901da5222cb8ce]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/2) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-bc98dbfd6c960fd3a1fc9653549ce4ed]: Commencement: [Sch. 1 para. 3(1)-(4)(a)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/1) [(5)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/5) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(i)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/i)
+[^c-bc98dbfd6c960fd3a1fc9653549ce4ed]: Commencement: [Sch. 1 para. 3(1)-(4)(a)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/1) [(5)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/5) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(i)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/i)
 
-[^key-0a8584b5c6f4364743a70040d2ba7d45]: Commencement: [Sch. 1 para. 3(1)-(4)(a)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/1) [(5)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/5) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-0a8584b5c6f4364743a70040d2ba7d45]: Commencement: [Sch. 1 para. 3(1)-(4)(a)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/1) [(5)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/5) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-646a74e263dfddf62be8ade97b5972f8]: Commencement: [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/4/b) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-646a74e263dfddf62be8ade97b5972f8]: Commencement: [Sch. 1 para. 3(4)(b)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/3/4/b) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-da9e6abefca57a65f382e94824bcc4e9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/4) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/ii)
+[^c-da9e6abefca57a65f382e94824bcc4e9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/4) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(ii)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/ii)
 
-[^key-a87a7218f8e6dd1033dfce41e3806b8c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/5) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(iii)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/iii)
+[^c-a87a7218f8e6dd1033dfce41e3806b8c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/5) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(iii)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/iii)
 
-[^key-8d53df73d5040e80bd5d15f0a105e2cc]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/6) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(iv)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/iv)
+[^c-8d53df73d5040e80bd5d15f0a105e2cc]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/6) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(iv)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/iv)
 
-[^key-9584fd529f70f7f7aa125296fd045608]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/7) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(v)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/v)
+[^c-9584fd529f70f7f7aa125296fd045608]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/7) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(v)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/v)
 
-[^key-51d095b2b40345795ca3b2dff5ddd62e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/8) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-51d095b2b40345795ca3b2dff5ddd62e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/8) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-9cc39fb10af3fa7e9aef967165f955cf]: Commencement: [Sch. 1 para. 9(1)-(3)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/9/1) in force for specified purposes at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(vi)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/vi)
+[^c-9cc39fb10af3fa7e9aef967165f955cf]: Commencement: [Sch. 1 para. 9(1)-(3)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/9/1) in force for specified purposes at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(vi)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/vi)
 
-[^key-e9cf4248ad8869663ce3d554aa3a56f3]: Commencement: [Sch. 1 para. 9(1)-(3)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/9/1) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-e9cf4248ad8869663ce3d554aa3a56f3]: Commencement: [Sch. 1 para. 9(1)-(3)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/9/1) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-2a9d4bf3e1f5543f27103a64f8f99605]: Commencement: [Sch. 1 para. 9(4)-(8)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/9/4) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-2a9d4bf3e1f5543f27103a64f8f99605]: Commencement: [Sch. 1 para. 9(4)-(8)](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/9/4) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-941c9a9ebd3c6a9f6c231385194506ea]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/10) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-941c9a9ebd3c6a9f6c231385194506ea]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/10) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-de16b818e60697a740a485420b5d2b7f]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/11) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-de16b818e60697a740a485420b5d2b7f]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/11) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-9ce4d810d02eab9f5df2b3a390022644]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/12) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(vii)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/vii)
+[^c-9ce4d810d02eab9f5df2b3a390022644]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/12) in force at 18.8.2014 by [S.I. 2014/2162](https://www.legislation.gov.uk/wsi/2014/2162), [art. 2(b)(vii)](https://www.legislation.gov.uk/wsi/2014/2162/article/2/b/vii)
 
-[^key-1f002eb44467305f0b60c4afa3f14226]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/13) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-1f002eb44467305f0b60c4afa3f14226]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/13) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-16fa5f659a32b086a360f2d4a4c59e6c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/14) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-16fa5f659a32b086a360f2d4a4c59e6c]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/14) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-4d6cfee81b0ab93bb27565a8075a9417]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/15) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-4d6cfee81b0ab93bb27565a8075a9417]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/15) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-d10216a4f823f72fc976ad130e37820a]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/16) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-d10216a4f823f72fc976ad130e37820a]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/16) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-8dd046a64e8b401e9e5cfcdd0086bdba]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/17) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-8dd046a64e8b401e9e5cfcdd0086bdba]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/17) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-7dbfc757a0929e735d13e90abf9f6b69]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/18) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-7dbfc757a0929e735d13e90abf9f6b69]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/18) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-e5e6300c1bf4673a728393ac5ae841bc]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/19) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-e5e6300c1bf4673a728393ac5ae841bc]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/19) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-dd31ce4dd2674a09d4dbb49b04425744]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/20) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-dd31ce4dd2674a09d4dbb49b04425744]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/20) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-68a400022db64fe394406da0b1be5551]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/21) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-68a400022db64fe394406da0b1be5551]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/21) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-527ac1ab556a6056b69887ddab70bfef]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/22) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
+[^c-527ac1ab556a6056b69887ddab70bfef]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/anaw/2014/5/schedule/1/paragraph/22) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(u)](https://www.legislation.gov.uk/wsi/2015/29/article/3/u)
 
-[^key-5c2c64e381daa2edd30e96d9de37940e]: Commencement: Sch. 2 para. 1 in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(z)](https://www.legislation.gov.uk/wsi/2015/29/article/2/z)
+[^c-5c2c64e381daa2edd30e96d9de37940e]: Commencement: Sch. 2 para. 1 in force at 16.1.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(z)](https://www.legislation.gov.uk/wsi/2015/29/article/2/z)
 
-[^key-7458268dab3b52e8afcce843defd7f8f]: Commencement: Sch. 2 para. 1 in force at 1.1.2016 for specified purposes by [S.I. 2015/1688](https://www.legislation.gov.uk/wsi/2015/1688), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1688/article/2/c)
+[^c-7458268dab3b52e8afcce843defd7f8f]: Commencement: Sch. 2 para. 1 in force at 1.1.2016 for specified purposes by [S.I. 2015/1688](https://www.legislation.gov.uk/wsi/2015/1688), [art. 2(c)](https://www.legislation.gov.uk/wsi/2015/1688/article/2/c)
 
-[^key-74b760d615cefe7009e44f2155c0a72a]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/1) Table 1 substituted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(2)(a)](https://www.legislation.gov.uk/wsi/2023/551/article/11/2/a)
+[^c-74b760d615cefe7009e44f2155c0a72a]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/1) Table 1 substituted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(2)(a)](https://www.legislation.gov.uk/wsi/2023/551/article/11/2/a)
 
-[^key-ea0c8b8f9f95e6937a27b3bff7ad8551]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/1) Table 1 omitted (22.5.2023) by virtue of [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(2)(b)](https://www.legislation.gov.uk/wsi/2023/551/article/11/2/b)
+[^c-ea0c8b8f9f95e6937a27b3bff7ad8551]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/1) Table 1 omitted (22.5.2023) by virtue of [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(2)(b)](https://www.legislation.gov.uk/wsi/2023/551/article/11/2/b)
 
-[^key-e92bcc3ead7e3fa335d0d4b52f2a859f]: Textual amendment: Words in Sch. 2 para. 1 inserted (1.3.2017) by [The Education Workforce Council (Registration of Youth Workers, Youth Support Workers and Work Based Learning Practitioners) Order 2016 (S.I. 2016/1183)](https://www.legislation.gov.uk/wsi/2016/1183), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/1183/article/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2016/1183/article/8/2)
+[^c-e92bcc3ead7e3fa335d0d4b52f2a859f]: Textual amendment: Words in Sch. 2 para. 1 inserted (1.3.2017) by [The Education Workforce Council (Registration of Youth Workers, Youth Support Workers and Work Based Learning Practitioners) Order 2016 (S.I. 2016/1183)](https://www.legislation.gov.uk/wsi/2016/1183), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/1183/article/1/2), [8(2)](https://www.legislation.gov.uk/wsi/2016/1183/article/8/2)
 
-[^key-78a96eb87439cdd3de1e23c87a56720b]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/1) Table 1 inserted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(2)(c)](https://www.legislation.gov.uk/wsi/2023/551/article/11/2/c)
+[^c-78a96eb87439cdd3de1e23c87a56720b]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/1) Table 1 inserted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(2)(c)](https://www.legislation.gov.uk/wsi/2023/551/article/11/2/c)
 
-[^key-e4dceb818b09fafc2a7c23db14bb35f9]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/1) Table 1 inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2024/613/article/6/2)
+[^c-e4dceb818b09fafc2a7c23db14bb35f9]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/1) Table 1 inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [6(2)](https://www.legislation.gov.uk/wsi/2024/613/article/6/2)
 
-[^key-43a57dcf75bb0ec9fa966d82a1158383]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/2) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(v)](https://www.legislation.gov.uk/wsi/2015/29/article/3/v)
+[^c-43a57dcf75bb0ec9fa966d82a1158383]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/2) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(v)](https://www.legislation.gov.uk/wsi/2015/29/article/3/v)
 
-[^key-316ce54058a9d5b98c85a8de448c4a6d]: Commencement: Sch. 2 para. 3 in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(z)](https://www.legislation.gov.uk/wsi/2015/29/article/2/z)
+[^c-316ce54058a9d5b98c85a8de448c4a6d]: Commencement: Sch. 2 para. 3 in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(z)](https://www.legislation.gov.uk/wsi/2015/29/article/2/z)
 
-[^key-519a805a171e6e1c8b49df47c78fb284]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/3) substituted (1.3.2017) by [The Education Workforce Council (Registration of Youth Workers, Youth Support Workers and Work Based Learning Practitioners) Order 2016 (S.I. 2016/1183)](https://www.legislation.gov.uk/wsi/2016/1183), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/1183/article/1/2), [8(3)](https://www.legislation.gov.uk/wsi/2016/1183/article/8/3)
+[^c-519a805a171e6e1c8b49df47c78fb284]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/3) substituted (1.3.2017) by [The Education Workforce Council (Registration of Youth Workers, Youth Support Workers and Work Based Learning Practitioners) Order 2016 (S.I. 2016/1183)](https://www.legislation.gov.uk/wsi/2016/1183), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2016/1183/article/1/2), [8(3)](https://www.legislation.gov.uk/wsi/2016/1183/article/8/3)
 
-[^key-5849dd76f04b8c2a6eb375a1dcb380e7]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/3) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2024/613/article/6/3)
+[^c-5849dd76f04b8c2a6eb375a1dcb380e7]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/3) inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2024/613/article/6/3)
 
-[^key-b7fb8742c1065b0546960a2b849c2943]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/3) inserted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(3)](https://www.legislation.gov.uk/wsi/2023/551/article/11/3)
+[^c-b7fb8742c1065b0546960a2b849c2943]: Textual amendment: Words in [Sch. 2 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/2/paragraph/3) inserted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(3)](https://www.legislation.gov.uk/wsi/2023/551/article/11/3)
 
-[^key-69f3a7d785e2a6c561c5cba2e99ecff9]: Commencement: Sch. 3 para. 1(1)(2)(6) in force at 14.7.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(d)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/d)
+[^c-69f3a7d785e2a6c561c5cba2e99ecff9]: Commencement: Sch. 3 para. 1(1)(2)(6) in force at 14.7.2014 by [S.I. 2014/1605](https://www.legislation.gov.uk/wsi/2014/1605), [art. 2(d)](https://www.legislation.gov.uk/wsi/2014/1605/article/2/d)
 
-[^key-c0676a852ffeb541ee208beae9726c2c]: Commencement: Sch. 3 para. 1(1)(2)(6) in force at 1.4.2015 if otherwise not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(w)](https://www.legislation.gov.uk/wsi/2015/29/article/3/w)
+[^c-c0676a852ffeb541ee208beae9726c2c]: Commencement: Sch. 3 para. 1(1)(2)(6) in force at 1.4.2015 if otherwise not already in force by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(w)](https://www.legislation.gov.uk/wsi/2015/29/article/3/w)
 
-[^key-73ee00d997ce2ccd1283bce3bb01f3a3]: Commencement: Sch. 3 para. 1(4)(5) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(w)](https://www.legislation.gov.uk/wsi/2015/29/article/3/w)
+[^c-73ee00d997ce2ccd1283bce3bb01f3a3]: Commencement: Sch. 3 para. 1(4)(5) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(w)](https://www.legislation.gov.uk/wsi/2015/29/article/3/w)
 
-[^key-b9f9e67a4ef8c8735d43d2959bbfaad8]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/5/schedule/3/paragraph/2) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(w)](https://www.legislation.gov.uk/wsi/2015/29/article/3/w)
+[^c-b9f9e67a4ef8c8735d43d2959bbfaad8]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2014/5/schedule/3/paragraph/2) in force at 1.4.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(w)](https://www.legislation.gov.uk/wsi/2015/29/article/3/w)
 
-[^key-e3f5ea657be2da0a7b8205fc5d1f3cf0]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/3/paragraph/3) in force at 1.4.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(x)](https://www.legislation.gov.uk/wsi/2015/29/article/3/x) (with [art. 4](https://www.legislation.gov.uk/wsi/2015/29/article/4))
+[^c-e3f5ea657be2da0a7b8205fc5d1f3cf0]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/anaw/2014/5/schedule/3/paragraph/3) in force at 1.4.2015 for specified purposes by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 3(x)](https://www.legislation.gov.uk/wsi/2015/29/article/3/x) (with [art. 4](https://www.legislation.gov.uk/wsi/2015/29/article/4))
 
-[^key-1f9bd320a2c13a64a947df4d985e2450]: Commencement: [Sch. 4](https://www.legislation.gov.uk/anaw/2014/5/schedule/4) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(aa)](https://www.legislation.gov.uk/wsi/2015/29/article/2/aa)
+[^c-1f9bd320a2c13a64a947df4d985e2450]: Commencement: [Sch. 4](https://www.legislation.gov.uk/anaw/2014/5/schedule/4) in force at 16.1.2015 by [S.I. 2015/29](https://www.legislation.gov.uk/wsi/2015/29), [art. 2(aa)](https://www.legislation.gov.uk/wsi/2015/29/article/2/aa)
 
-[^key-a4b529964f8987e4e861ce77c7c0f29d]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/anaw/2014/5/schedule/4) Table 3 inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2024/613/article/7/2)
+[^c-a4b529964f8987e4e861ce77c7c0f29d]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/anaw/2014/5/schedule/4) Table 3 inserted (10.5.2024) by [The Education Workforce Council (Additional Categories of Registration and Further Education Teacher Qualifications) (Wales) Order 2024 (S.I. 2024/613)](https://www.legislation.gov.uk/wsi/2024/613), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2024/613/article/1/2), [7(2)](https://www.legislation.gov.uk/wsi/2024/613/article/7/2)
 
-[^key-09cf9cf5ed12698a6e9be13e59d16a44]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/anaw/2014/5/schedule/4) Table 3 inserted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(4)](https://www.legislation.gov.uk/wsi/2023/551/article/11/4)
+[^c-09cf9cf5ed12698a6e9be13e59d16a44]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/anaw/2014/5/schedule/4) Table 3 inserted (22.5.2023) by [The Education Workforce Council (Additional Categories of Registration) (Wales) Order 2023 (S.I. 2023/551)](https://www.legislation.gov.uk/wsi/2023/551), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/551/article/1/2), [11(4)](https://www.legislation.gov.uk/wsi/2023/551/article/11/4)

@@ -16,38 +16,38 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Providers of information society services[^key-9aafa79733c6671a6360219b5d5ed550]
+## 34. Providers of information society services[^c-9aafa79733c6671a6360219b5d5ed550]
 
 *Extent: E+W+N.I.*
 
-(1) A serious crime prevention order may not include terms which restrict the freedom of a service provider who is established in an EEA state [^key-c8674758bef87f07b03cfe6ca416fd65]... to provide information society services in relation to an EEA state unless the conditions in subsections (2) and (3) are met.
+(1) A serious crime prevention order may not include terms which restrict the freedom of a service provider who is established in an EEA state [^c-c8674758bef87f07b03cfe6ca416fd65]... to provide information society services in relation to an EEA state unless the conditions in subsections (2) and (3) are met.
 
 (2) The condition in this subsection is that the court concerned considers that the terms—
 
 - (a) are necessary for the objective of protecting the public by preventing, restricting or disrupting involvement in—
-  - (i) in the case of an order in England and Wales, serious crime in England and Wales; [^key-6f8e985af48be630aa07744c27f83d68]...
-  - (ia)[^key-11fcd4471f23ca76837103580ce67eec] in the case of an order in Scotland, serious crime in Scotland;
+  - (i) in the case of an order in England and Wales, serious crime in England and Wales; [^c-6f8e985af48be630aa07744c27f83d68]...
+  - (ia)[^c-11fcd4471f23ca76837103580ce67eec] in the case of an order in Scotland, serious crime in Scotland;
   - (ii) in the case of an order in Northern Ireland, serious crime in Northern Ireland;
 - (b) relate to an information society service which prejudices that objective or presents a serious and grave risk of prejudice to it; and
 - (c) are proportionate to that objective.
 
 (3) The conditions in this subsection are that—
 
-- (a) a law enforcement officer has requested the EEA state in which the service provider is established to take measures which the law enforcement officer considers to be of equivalent effect under the law of the EEA state to the terms and the EEA state has failed to take the measures; [^key-e51e716596d0d0f580795bd67a5578f6]...
-- (b)[^key-e51e716596d0d0f580795bd67a5578f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a law enforcement officer has requested the EEA state in which the service provider is established to take measures which the law enforcement officer considers to be of equivalent effect under the law of the EEA state to the terms and the EEA state has failed to take the measures; [^c-e51e716596d0d0f580795bd67a5578f6]...
+- (b)[^c-e51e716596d0d0f580795bd67a5578f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) It does not matter for the purposes of subsection (3) whether the request [^key-07ab3d64c96441ede1aadf8bcb6dbdb5]... is made before or after the making of the application for the order.
+(4) It does not matter for the purposes of subsection (3) whether the request [^c-07ab3d64c96441ede1aadf8bcb6dbdb5]... is made before or after the making of the application for the order.
 
-(5) A serious crime prevention order may not include terms which impose liabilities on service providers of intermediary services so far as the imposition of those liabilities would result in a contravention of Article 12, 13 or 14 of the E-Commerce Directive (various protections for service providers of intermediary services) , reading those Articles as if the requirements imposed on a Member State were imposed on the court making the order[^key-a43db42d9ed393af9e2d78e54a5547f2].
+(5) A serious crime prevention order may not include terms which impose liabilities on service providers of intermediary services so far as the imposition of those liabilities would result in a contravention of Article 12, 13 or 14 of the E-Commerce Directive (various protections for service providers of intermediary services) , reading those Articles as if the requirements imposed on a Member State were imposed on the court making the order[^c-a43db42d9ed393af9e2d78e54a5547f2].
 
-(6) A serious crime prevention order may not include terms which impose a general obligation on service providers of intermediary services falling within the descriptions contained in[^key-c2e58b56e4aa7977aef37abb4c432b52] Articles 12, 13 and 14 of the E-Commerce Directive—
+(6) A serious crime prevention order may not include terms which impose a general obligation on service providers of intermediary services falling within the descriptions contained in[^c-c2e58b56e4aa7977aef37abb4c432b52] Articles 12, 13 and 14 of the E-Commerce Directive—
 
 - (a) to monitor the information which they transmit or store when providing those services; or
 - (b) actively to seek facts or circumstances indicating illegal activity when providing those services.
 
 (7) For the purposes of this section—
 
-- (a) a service provider is established in a particular EEA state if he effectively pursues an economic activity using a fixed establishment in that EEA state for an indefinite period and he is a national of an EEA state or a company or firm mentioned in Article 54 of the Treaty on the Functioning of the European Union[^key-5a94103acec52210fb81613aa9254553];
+- (a) a service provider is established in a particular EEA state if he effectively pursues an economic activity using a fixed establishment in that EEA state for an indefinite period and he is a national of an EEA state or a company or firm mentioned in Article 54 of the Treaty on the Functioning of the European Union[^c-5a94103acec52210fb81613aa9254553];
 - (b) the presence or use in a particular place of equipment or other technical means of providing an information society service does not, of itself, constitute the establishment of a service provider;
 - (c) where it cannot be determined from which of a number of establishments a given information society service is provided, that service is to be regarded as provided from the establishment where the service provider has the centre of his activities relating to the service;
 
@@ -74,20 +74,20 @@ and references to a person being established in an EEA state are to be read acco
 
 ## Annotations
 
-[^key-9aafa79733c6671a6360219b5d5ed550]: Commencement: S. 34 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
+[^c-9aafa79733c6671a6360219b5d5ed550]: Commencement: S. 34 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(f)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/f)
 
-[^key-c8674758bef87f07b03cfe6ca416fd65]: Textual amendment: Words in [s. 34(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8674758bef87f07b03cfe6ca416fd65]: Textual amendment: Words in [s. 34(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/1) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(a)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f8e985af48be630aa07744c27f83d68]: Textual amendment: Word in s. 34(2)(a)(i) omitted (1.3.2016) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 24(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/24/a); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-6f8e985af48be630aa07744c27f83d68]: Textual amendment: Word in s. 34(2)(a)(i) omitted (1.3.2016) by virtue of [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 24(a)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/24/a); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
 
-[^key-11fcd4471f23ca76837103580ce67eec]: Textual amendment: S. 34(2)(a)(ia) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 24(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/24/b); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-11fcd4471f23ca76837103580ce67eec]: Textual amendment: S. 34(2)(a)(ia) inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 24(b)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/24/b); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
 
-[^key-e51e716596d0d0f580795bd67a5578f6]: Textual amendment: [S. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/3/b) and word omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e51e716596d0d0f580795bd67a5578f6]: Textual amendment: [S. 34(3)(b)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/3/b) and word omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(b)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07ab3d64c96441ede1aadf8bcb6dbdb5]: Textual amendment: Words in [s. 34(4)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/4) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07ab3d64c96441ede1aadf8bcb6dbdb5]: Textual amendment: Words in [s. 34(4)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/4) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(c)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a43db42d9ed393af9e2d78e54a5547f2]: Textual amendment: Words in [s. 34(5)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/5) inserted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(d)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a43db42d9ed393af9e2d78e54a5547f2]: Textual amendment: Words in [s. 34(5)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/5) inserted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(d)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2e58b56e4aa7977aef37abb4c432b52]: Textual amendment: Words in [s. 34(6)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/6) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(e)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2e58b56e4aa7977aef37abb4c432b52]: Textual amendment: Words in [s. 34(6)](https://www.legislation.gov.uk/ukpga/2007/27/section/34/6) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [122(2)(e)](https://www.legislation.gov.uk/uksi/2019/742/regulation/122/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a94103acec52210fb81613aa9254553]: Textual amendment: Words in s. 34(7)(a) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))
+[^c-5a94103acec52210fb81613aa9254553]: Textual amendment: Words in s. 34(7)(a) substituted (1.8.2012) by [The Treaty of Lisbon (Changes in Terminology or Numbering) Order 2012 (S.I. 2012/1809)](https://www.legislation.gov.uk/uksi/2012/1809), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2012/1809/schedule/part/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1809/article/2/2))

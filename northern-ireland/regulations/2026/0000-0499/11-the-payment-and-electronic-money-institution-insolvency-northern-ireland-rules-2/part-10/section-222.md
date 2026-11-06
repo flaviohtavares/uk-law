@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 222. Application of Chapter 10[^key-6b2f26a0d7c3c10163be35d4e6e81e19]
+## 222. Application of Chapter 10[^c-6b2f26a0d7c3c10163be35d4e6e81e19]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b2f26a0d7c3c10163be35d4e6e81e19]: Commencement: [Rule 222](https://www.legislation.gov.uk/nisr/2026/11/rule/222) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-6b2f26a0d7c3c10163be35d4e6e81e19]: Commencement: [Rule 222](https://www.legislation.gov.uk/nisr/2026/11/rule/222) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

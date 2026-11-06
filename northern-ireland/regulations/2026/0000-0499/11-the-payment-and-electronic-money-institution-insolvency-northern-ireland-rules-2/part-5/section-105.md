@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Admission and rejection of relevant funds claim[^key-22e6dd4c819dd8be18bdf68fad15ddc1]
+## 105. Admission and rejection of relevant funds claim[^c-22e6dd4c819dd8be18bdf68fad15ddc1]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e6dd4c819dd8be18bdf68fad15ddc1]: Commencement: [Rule 105](https://www.legislation.gov.uk/nisr/2026/11/rule/105) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-22e6dd4c819dd8be18bdf68fad15ddc1]: Commencement: [Rule 105](https://www.legislation.gov.uk/nisr/2026/11/rule/105) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Saving for regulated rights, etc.[^key-2c4a32d16f08a0ecb251f219ceb25c53]
+## 45. Saving for regulated rights, etc.[^c-2c4a32d16f08a0ecb251f219ceb25c53]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Nothing in this Order shall affect any estate, right or interest granted by Netw
 
 ## Annotations
 
-[^key-2c4a32d16f08a0ecb251f219ceb25c53]: Commencement: Art. 45 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-2c4a32d16f08a0ecb251f219ceb25c53]: Commencement: Art. 45 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00026]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).

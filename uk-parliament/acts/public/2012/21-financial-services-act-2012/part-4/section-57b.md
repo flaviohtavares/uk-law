@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57B. Duty of Bank to inform Treasury about resolution plans[^key-86a8ab9b5bc65d54b543749bfb480e12]
+## 57B. Duty of Bank to inform Treasury about resolution plans[^c-86a8ab9b5bc65d54b543749bfb480e12]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 (2) Unless otherwise directed under subsection (5), before adopting the plan the Bank must provide the Treasury with—
 
 - (a) a copy of the plan,
-- (b)[^key-dea3d297aa54628cbddb3661f1563996] the Bank's assessment of the risk that the failing of the institution or entity would pose to the stability of the financial system in the United Kingdom,
+- (b)[^c-dea3d297aa54628cbddb3661f1563996] the Bank's assessment of the risk that the failing of the institution or entity would pose to the stability of the financial system in the United Kingdom,
 - (c) the Bank's assessment of the implications for public funds—
   - (i) of the exercise by the Bank of a stabilisation power in relation to the institution or the entity in accordance with the option (or each of the options) for the exercise of such a power included in the plan, and
   - (ii) if the plan includes one or more options for the use of an insolvency or administration procedure in relation to the institution or the entity, of the use of such a procedure in accordance with that option (or each of those options), and
@@ -66,14 +66,14 @@ but this is subject to any further direction under subsection (5)(a).
 
   (and those terms have the same meaning as in section 57A);
 - “**public funds**” has the same meaning as in section 57A,
-- [^key-7f9fc1783264484b4e3cc0d2be512258]...
+- [^c-7f9fc1783264484b4e3cc0d2be512258]...
 
 and action has implications for public funds if it would or might involve or lead to a need for the application of public funds.
 
 ## Annotations
 
-[^key-86a8ab9b5bc65d54b543749bfb480e12]: Textual amendment: S. 57A - S. 57B inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)
+[^c-86a8ab9b5bc65d54b543749bfb480e12]: Textual amendment: S. 57A - S. 57B inserted (6.7.2016) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/36/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3); [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(aa)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/aa)
 
-[^key-dea3d297aa54628cbddb3661f1563996]: Textual amendment: [S. 57B(2)(b)](https://www.legislation.gov.uk/ukpga/2012/21/section/57B/2/b) substituted (31.12.2020) by [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dea3d297aa54628cbddb3661f1563996]: Textual amendment: [S. 57B(2)(b)](https://www.legislation.gov.uk/ukpga/2012/21/section/57B/2/b) substituted (31.12.2020) by [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/8/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7f9fc1783264484b4e3cc0d2be512258]: Textual amendment: Words in [s. 57B(7)](https://www.legislation.gov.uk/ukpga/2012/21/section/57B/7) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f9fc1783264484b4e3cc0d2be512258]: Textual amendment: Words in [s. 57B(7)](https://www.legislation.gov.uk/ukpga/2012/21/section/57B/7) omitted (31.12.2020) by virtue of [The Bank of England (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1297)](https://www.legislation.gov.uk/uksi/2018/1297), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2018/1297/regulation/8/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

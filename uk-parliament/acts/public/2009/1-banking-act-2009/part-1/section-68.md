@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Continuity obligations: onward share transfers[^key-c2d8d0b4ffa02ca5efd6f58cd7eb812b]
+## 68. Continuity obligations: onward share transfers[^c-c2d8d0b4ffa02ca5efd6f58cd7eb812b]
 
 *Extent: E+W+S+N.I.*
 
 (1) In this section “**onward transfer**” means a transfer (whether or not under a power in this Part) of securities issued by a bank where—
 
-- (a) securities issued by the bank were earlier transferred by a share transfer instrument under section 12(2),[^key-c305bf7c201c72b505f7a39f641d0f3d] a resolution instrument under section 12A(2) or supplemental resolution instrument under section 48U(2) or a[^key-3eeafb44c296f80b7f71d5410f7c7078] share transfer order under section 13(2), or
+- (a) securities issued by the bank were earlier transferred by a share transfer instrument under section 12(2),[^c-c305bf7c201c72b505f7a39f641d0f3d] a resolution instrument under section 12A(2) or supplemental resolution instrument under section 48U(2) or a[^c-3eeafb44c296f80b7f71d5410f7c7078] share transfer order under section 13(2), or
 - (b) the bank was the transferee under a property transfer instrument under section 12(2).
 
 (2) The continuity authority may—
@@ -55,8 +55,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c2d8d0b4ffa02ca5efd6f58cd7eb812b]: Commencement: S. 68 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-c2d8d0b4ffa02ca5efd6f58cd7eb812b]: Commencement: S. 68 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-c305bf7c201c72b505f7a39f641d0f3d]: Textual amendment: Words in s. 68(1)(a) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [76](https://www.legislation.gov.uk/uksi/2014/3329/article/76)
+[^c-c305bf7c201c72b505f7a39f641d0f3d]: Textual amendment: Words in s. 68(1)(a) inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [76](https://www.legislation.gov.uk/uksi/2014/3329/article/76)
 
-[^key-3eeafb44c296f80b7f71d5410f7c7078]: Textual amendment: Words in s. 68(1)(a) inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/20); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-3eeafb44c296f80b7f71d5410f7c7078]: Textual amendment: Words in s. 68(1)(a) inserted (31.12.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 20](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/20); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)

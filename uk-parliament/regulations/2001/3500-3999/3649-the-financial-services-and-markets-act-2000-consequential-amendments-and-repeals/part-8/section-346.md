@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 346. Insurance Premium Tax: Contracts that are not taxable[^key-267da0c4f5cb9c2845f9f7cbdd7936e2]
+## 346. Insurance Premium Tax: Contracts that are not taxable[^c-267da0c4f5cb9c2845f9f7cbdd7936e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -151,6 +151,6 @@ summary: ''
 
 ## Annotations
 
-[^key-267da0c4f5cb9c2845f9f7cbdd7936e2]: Commencement: Art. 346 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-267da0c4f5cb9c2845f9f7cbdd7936e2]: Commencement: Art. 346 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00253]: Footnote: Inserted by [S.I. 1994/1698](https://www.legislation.gov.uk/uksi/1994/1698), article 5; paragraph 15 repealed in part by [S.I. 1996/2995](https://www.legislation.gov.uk/uksi/1996/2995), article 2.

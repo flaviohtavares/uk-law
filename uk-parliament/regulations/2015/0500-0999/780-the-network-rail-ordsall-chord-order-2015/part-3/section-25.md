@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Power to acquire subsoil or air-space only[^key-b553d6ce04d1170367f64475d07d5360]
+## 25. Power to acquire subsoil or air-space only[^c-b553d6ce04d1170367f64475d07d5360]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b553d6ce04d1170367f64475d07d5360]: Commencement: Art. 25 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-b553d6ce04d1170367f64475d07d5360]: Commencement: Art. 25 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

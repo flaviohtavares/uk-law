@@ -35,22 +35,22 @@ concerning the authorisation of propionic acid, sodium propionate and ammonium p
 
 (Text with EEA relevance) (revoked)
 
-[^key-d959d65a707264c1b5dd33c868f77328]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d959d65a707264c1b5dd33c868f77328]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-d959d65a707264c1b5dd33c868f77328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d959d65a707264c1b5dd33c868f77328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d959d65a707264c1b5dd33c868f77328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d959d65a707264c1b5dd33c868f77328] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d959d65a707264c1b5dd33c868f77328]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d959d65a707264c1b5dd33c868f77328]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-d959d65a707264c1b5dd33c868f77328]
+## ANNEX[^c-d959d65a707264c1b5dd33c868f77328]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d959d65a707264c1b5dd33c868f77328]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 132](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/132) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d959d65a707264c1b5dd33c868f77328]: Textual amendment: Regulation revoked (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 5 para. 132](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/132) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Regulation (EU) No 255/2010: introduction[^key-169af8974f08e267bab3e6881b66c3d1]
+## 171. Regulation (EU) No 255/2010: introduction[^c-169af8974f08e267bab3e6881b66c3d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Regulation (EU) No 255/2010 of 25 March 2010 laying down common rules
 
 ## Annotations
 
-[^key-169af8974f08e267bab3e6881b66c3d1]: Commencement: Reg. 171 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-169af8974f08e267bab3e6881b66c3d1]: Commencement: Reg. 171 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

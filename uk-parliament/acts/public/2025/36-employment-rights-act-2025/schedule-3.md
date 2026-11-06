@@ -22,7 +22,7 @@ summary: ''
 
 Section 25(5)
 
-### 1. Employment Rights Act 1996[^key-f3cac0e7d89ababd559ac29a210b7653]
+### 1. Employment Rights Act 1996[^c-f3cac0e7d89ababd559ac29a210b7653]
 
 **Not yet in force.**
 
@@ -63,7 +63,7 @@ Section 25(5)
 
 (10) In section 236 (orders and regulations), in subsection (3), omit “124(2),”.
 
-### 2. Employment Relations Act 1999[^key-b683477bbe6cd98de2b05266b7e503a8]
+### 2. Employment Relations Act 1999[^c-b683477bbe6cd98de2b05266b7e503a8]
 
 **Not yet in force.**
 
@@ -76,19 +76,19 @@ Section 25(5)
 
 (3) In section 37, omit subsection (1).
 
-### 3. Enterprise and Regulatory Reform Act 2013[^key-0b99e1a79867ab924134b83e42b8db07]
+### 3. Enterprise and Regulatory Reform Act 2013[^c-0b99e1a79867ab924134b83e42b8db07]
 
 **Not yet in force.**
 
 In the Enterprise and Regulatory Reform Act 2013, omit section 15 (power to increase or decrease limit of compensatory award).
 
-### 4. Coronavirus Act 2020[^key-59d683935e25d1290c98a74170e78327]
+### 4. Coronavirus Act 2020[^c-59d683935e25d1290c98a74170e78327]
 
 **Not yet in force.**
 
 In Schedule 7 to the Coronavirus Act 2020, omit paragraph 17.
 
-### 5. Power to make further consequential amendments[^key-eeb4ef61c8cc38a114dbb30186aabd18][^key-cc54dff1bd060fe69526b9363c966724]
+### 5. Power to make further consequential amendments[^c-eeb4ef61c8cc38a114dbb30186aabd18][^c-cc54dff1bd060fe69526b9363c966724]
 
 (1) The provision that may be made under section 154 (power to make consequential amendments) by any regulations that amend a relevant provision in consequence of the repeal of section 124 of the Employment Rights Act 1996 by section 25(3) includes (among other things)—
 
@@ -123,14 +123,14 @@ In Schedule 7 to the Coronavirus Act 2020, omit paragraph 17.
 
 ## Annotations
 
-[^key-f3cac0e7d89ababd559ac29a210b7653]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-f3cac0e7d89ababd559ac29a210b7653]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-b683477bbe6cd98de2b05266b7e503a8]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-b683477bbe6cd98de2b05266b7e503a8]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-0b99e1a79867ab924134b83e42b8db07]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-0b99e1a79867ab924134b83e42b8db07]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-59d683935e25d1290c98a74170e78327]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-59d683935e25d1290c98a74170e78327]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-eeb4ef61c8cc38a114dbb30186aabd18]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-eeb4ef61c8cc38a114dbb30186aabd18]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-cc54dff1bd060fe69526b9363c966724]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2025/36/schedule/3/paragraph/5) in force at 1.7.2026 by [S.I. 2026/559](https://www.legislation.gov.uk/uksi/2026/559), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/559/regulation/2/b)
+[^c-cc54dff1bd060fe69526b9363c966724]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2025/36/schedule/3/paragraph/5) in force at 1.7.2026 by [S.I. 2026/559](https://www.legislation.gov.uk/uksi/2026/559), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/559/regulation/2/b)

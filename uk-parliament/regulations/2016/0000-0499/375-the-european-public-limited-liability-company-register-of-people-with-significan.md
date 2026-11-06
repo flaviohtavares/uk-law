@@ -61,8 +61,8 @@ In these Regulations—
 - “**the Act**” means the Companies Act 2006 [^c23148621];
 - “**the SE Regulations**” means the European Public Limited-Liability Company Regulations 2004 [^c23148631];
 - “**the 2016 Regulations**” means the Register of People with Significant Control Regulations 2016 [^c23148641]; and
-- “**SE**” means a European Public Limited-Liability Company (or Societas Europaea) within the meaning of the Council Regulation 2157/2001/EC of 8 October 2001 on the Statute for a European Company , as it had effect immediately before IP completion day, which was registered in the United Kingdom[^key-5b5ed220dc267630f23e38b4544b7b95];
-- “[^key-872ca69d73a6db3972fb6909da2ca536]**UK Societas**” means an SE which on IP completion day converted to a United Kingdom Societas within the meaning of Council Regulation 2157/2001/EC of 8 October 2001 on the Statute of a European Company.
+- “**SE**” means a European Public Limited-Liability Company (or Societas Europaea) within the meaning of the Council Regulation 2157/2001/EC of 8 October 2001 on the Statute for a European Company , as it had effect immediately before IP completion day, which was registered in the United Kingdom[^c-5b5ed220dc267630f23e38b4544b7b95];
+- “[^c-872ca69d73a6db3972fb6909da2ca536]**UK Societas**” means an SE which on IP completion day converted to a United Kingdom Societas within the meaning of Council Regulation 2157/2001/EC of 8 October 2001 on the Statute of a European Company.
 
 ## PART 2 — AMENDMENTS TO THE SE REGULATIONS
 
@@ -141,39 +141,39 @@ In these Regulations—
 
 ## PART 3 — MODIFICATION OF THE ACT IN ITS APPLICATION TO SEs
 
-### 4.[^key-f0f817d9a43d31ea70651a45ac9952b6]
+### 4.[^c-f0f817d9a43d31ea70651a45ac9952b6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5.[^key-df83552f9b1abf5f1147e0bf7d85330a]
+### 5.[^c-df83552f9b1abf5f1147e0bf7d85330a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6.[^key-b31757c312e7e83ab961ef71a75876ae]
+### 6.[^c-b31757c312e7e83ab961ef71a75876ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — MODIFICATION OF THE 2016 REGULATIONS IN THEIR APPLICATION TO UK Societates[^key-28054b9a764ee719a576febfdc388e87]
+## PART 4 — MODIFICATION OF THE 2016 REGULATIONS IN THEIR APPLICATION TO UK Societates[^c-28054b9a764ee719a576febfdc388e87]
 
-### 7.[^key-8ae816f02d5734878a6e60cc265e81e1]
+### 7.[^c-8ae816f02d5734878a6e60cc265e81e1]
 
 The 2016 Regulations must be read as though regulations 27 (application by a subscriber to a memorandum of association requiring the registrar to refrain from disclosing an individual's usual residential address information to a credit reference agency) and 38 (application by a subscriber to a memorandum of association requiring the registrar to refrain from using or disclosing an individual's secured information) were omitted.
 
-### 8.[^key-53555fcbad9fea0587a8594383d2848f]
+### 8.[^c-53555fcbad9fea0587a8594383d2848f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9.
 
-(1) Regulation 45 is modified in its application to UK Societates[^key-2b7d4386a20bbcc9bf559ffae4fdbdb8] as follows.
+(1) Regulation 45 is modified in its application to UK Societates[^c-2b7d4386a20bbcc9bf559ffae4fdbdb8] as follows.
 
 (2) For paragraph (2)(b) substitute—
 
-> - (b) in order to comply with any requirement of the Act or the European Public Limited-Liability Company Regulations 2004 as to particulars or statements to be sent to the registrar; [^key-ac1841292479e87dd4d10e0f982ba07c]...
+> - (b) in order to comply with any requirement of the Act or the European Public Limited-Liability Company Regulations 2004 as to particulars or statements to be sent to the registrar; [^c-ac1841292479e87dd4d10e0f982ba07c]...
 
 (3) For paragraph (3)(d) substitute—
 
-> - (d) under regulation 38 as it had effect before IP completion day[^key-632776318eb2086ae5d54e43616bf75a] when the signatory to the statement of proposed members sends an application to the registrar.
+> - (d) under regulation 38 as it had effect before IP completion day[^c-632776318eb2086ae5d54e43616bf75a] when the signatory to the statement of proposed members sends an application to the registrar.
 
 ## PART 5
 
@@ -227,26 +227,26 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c23148641]: Marginal citation: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339).
 
-[^key-5b5ed220dc267630f23e38b4544b7b95]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/375/regulation/2) substituted (31.12.2020) by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [88(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/88/a) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(l)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/l/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b5ed220dc267630f23e38b4544b7b95]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/375/regulation/2) substituted (31.12.2020) by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [88(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/88/a) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(l)(i)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/l/i)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-872ca69d73a6db3972fb6909da2ca536]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/375/regulation/2) inserted (31.12.2020) by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [88(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/88/b) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(l)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/l/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-872ca69d73a6db3972fb6909da2ca536]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2016/375/regulation/2) inserted (31.12.2020) by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [88(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/88/b) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(l)(ii)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/l/ii)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f0f817d9a43d31ea70651a45ac9952b6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/375/regulation/4) omitted (31.12.2020) by virtue of [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [89](https://www.legislation.gov.uk/uksi/2018/1298/regulation/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f0f817d9a43d31ea70651a45ac9952b6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/375/regulation/4) omitted (31.12.2020) by virtue of [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [89](https://www.legislation.gov.uk/uksi/2018/1298/regulation/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df83552f9b1abf5f1147e0bf7d85330a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/375/regulation/5) omitted (18.11.2025) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/4/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-df83552f9b1abf5f1147e0bf7d85330a]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/375/regulation/5) omitted (18.11.2025) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/4/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-b31757c312e7e83ab961ef71a75876ae]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/375/regulation/6) omitted (18.11.2025) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/4/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
+[^c-b31757c312e7e83ab961ef71a75876ae]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/375/regulation/6) omitted (18.11.2025) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Incidental and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1037)](https://www.legislation.gov.uk/uksi/2025/1037), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/1037/regulation/1/2), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2025/1037/schedule/2/paragraph/4/2); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g)
 
-[^key-28054b9a764ee719a576febfdc388e87]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2016/375/part/4) heading substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [92](https://www.legislation.gov.uk/uksi/2018/1298/regulation/92); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28054b9a764ee719a576febfdc388e87]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/uksi/2016/375/part/4) heading substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [92](https://www.legislation.gov.uk/uksi/2018/1298/regulation/92); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8ae816f02d5734878a6e60cc265e81e1]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/375/regulation/7) substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [93](https://www.legislation.gov.uk/uksi/2018/1298/regulation/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ae816f02d5734878a6e60cc265e81e1]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/375/regulation/7) substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [93](https://www.legislation.gov.uk/uksi/2018/1298/regulation/93); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-53555fcbad9fea0587a8594383d2848f]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/375/regulation/8) omitted (31.12.2020) by virtue of [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [94](https://www.legislation.gov.uk/uksi/2018/1298/regulation/94); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53555fcbad9fea0587a8594383d2848f]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2016/375/regulation/8) omitted (31.12.2020) by virtue of [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [94](https://www.legislation.gov.uk/uksi/2018/1298/regulation/94); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2b7d4386a20bbcc9bf559ffae4fdbdb8]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2016/375/regulation/9) substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [95(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/95/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2b7d4386a20bbcc9bf559ffae4fdbdb8]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2016/375/regulation/9) substituted (31.12.2020) by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [95(a)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/95/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ac1841292479e87dd4d10e0f982ba07c]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2016/375/regulation/9/2) omitted (26.6.2017) by virtue of [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [38](https://www.legislation.gov.uk/uksi/2017/693/regulation/38)
+[^c-ac1841292479e87dd4d10e0f982ba07c]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2016/375/regulation/9/2) omitted (26.6.2017) by virtue of [The Information about People with Significant Control (Amendment) Regulations 2017 (S.I. 2017/693)](https://www.legislation.gov.uk/uksi/2017/693), [regs. 2](https://www.legislation.gov.uk/uksi/2017/693/regulation/2), [38](https://www.legislation.gov.uk/uksi/2017/693/regulation/38)
 
-[^key-632776318eb2086ae5d54e43616bf75a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2016/375/regulation/9/3) inserted (31.12.2020) by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [95(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/95/b) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(m)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-632776318eb2086ae5d54e43616bf75a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2016/375/regulation/9/3) inserted (31.12.2020) by The European Public Limited-[Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [95(b)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/95/b) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [3(m)](https://www.legislation.gov.uk/uksi/2020/523/regulation/3/m)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23148651]: Marginal citation: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).

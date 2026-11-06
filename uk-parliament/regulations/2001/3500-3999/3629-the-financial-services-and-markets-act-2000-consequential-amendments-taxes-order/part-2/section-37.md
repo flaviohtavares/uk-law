@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Interpretation of Chapter 2 of Part 12[^key-514fbd068ae9e0f0c2b916992331b52c]
+## 37. Interpretation of Chapter 2 of Part 12[^c-514fbd068ae9e0f0c2b916992331b52c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ In section 466(1) (interpretation of Chapter 2)[^f00040]—
 
 ## Annotations
 
-[^key-514fbd068ae9e0f0c2b916992331b52c]: Commencement: Art. 37 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-514fbd068ae9e0f0c2b916992331b52c]: Commencement: Art. 37 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00040]: Footnote: Section 466(1) was substituted by section 171(1) of the Finance Act 1996.

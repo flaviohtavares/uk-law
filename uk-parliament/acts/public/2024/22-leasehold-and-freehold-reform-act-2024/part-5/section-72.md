@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Meaning of “estate management” etc[^key-ecfdc7ab5997b25ea12d84cd050fd11f]
+## 72. Meaning of “estate management” etc[^c-ecfdc7ab5997b25ea12d84cd050fd11f]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ for the benefit of one or more dwellings.
 
 ## Annotations
 
-[^key-ecfdc7ab5997b25ea12d84cd050fd11f]: Commencement: S. 72 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-ecfdc7ab5997b25ea12d84cd050fd11f]: Commencement: S. 72 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

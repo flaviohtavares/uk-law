@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70A. Registration of chapels for marriages of same sex couples otherwise than according to rites of Church of England[^key-34cb949a37e86c5572eb20f80822fb85]
+## 70A. Registration of chapels for marriages of same sex couples otherwise than according to rites of Church of England[^c-34cb949a37e86c5572eb20f80822fb85]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34cb949a37e86c5572eb20f80822fb85]: Textual amendment: S. 70A inserted (21.1.2014 for specified purposes, 3.6.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2013/30/section/6/4), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2014/93/article/2/a), [5(a)](https://www.legislation.gov.uk/uksi/2014/93/article/5/a)
+[^c-34cb949a37e86c5572eb20f80822fb85]: Textual amendment: S. 70A inserted (21.1.2014 for specified purposes, 3.6.2014 in so far as not already in force) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2013/30/section/6/4), [21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3); [S.I. 2014/93](https://www.legislation.gov.uk/uksi/2014/93), [arts. 2(a)](https://www.legislation.gov.uk/uksi/2014/93/article/2/a), [5(a)](https://www.legislation.gov.uk/uksi/2014/93/article/5/a)

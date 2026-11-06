@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130A. Restrictions on DSP's powers to substitute or add charges after election[^key-a73e439827c143c0c977e20f8304d29d]
+## 130A. Restrictions on DSP's powers to substitute or add charges after election[^c-a73e439827c143c0c977e20f8304d29d]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a73e439827c143c0c977e20f8304d29d]: Textual amendment: S. 130A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/9); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/669/article/9))
+[^c-a73e439827c143c0c977e20f8304d29d]: Textual amendment: S. 130A inserted (2.4.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/9); [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/669/article/9))

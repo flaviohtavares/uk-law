@@ -26,10 +26,10 @@ summary: ''
 
 (3) Regulation 12 explains what is meant by “capital profits, gains or losses” in the case of an authorised investment fund that prepares accounts in accordance with UK generally accepted accounting practice.
 
-(4)[^key-9a48d03529a494d06489cb7a746a6cb6] This regulation is subject to regulation 14B (tax treatment of qualified investor schemes.
+(4)[^c-9a48d03529a494d06489cb7a746a6cb6] This regulation is subject to regulation 14B (tax treatment of qualified investor schemes.
 
 ## Annotations
 
 [^c15458911]: Marginal citation: [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8).
 
-[^key-9a48d03529a494d06489cb7a746a6cb6]: Textual amendment: Reg. 10(4) inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2008/3159/regulation/5)
+[^c-9a48d03529a494d06489cb7a746a6cb6]: Textual amendment: Reg. 10(4) inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2008/3159/regulation/5)

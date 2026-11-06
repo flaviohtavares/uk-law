@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. First mandatory review[^key-4a1a4dbf44b1f3669a60988a4faadd1f]
+## 77. First mandatory review[^c-4a1a4dbf44b1f3669a60988a4faadd1f]
 
 *Extent: S*
 
 (1) This section applies where a compulsory treatment order is made in respect of a patient.
 
-(2)[^key-64124e5f3db5e0f962d9c44db5a7412a] The patient’s responsible medical officer shall, during the appropriate period, carry out a review in respect of the order (such review being referred to in this Part of this Act as the “first review”) by complying with the requirements in subsection (3) below.
+(2)[^c-64124e5f3db5e0f962d9c44db5a7412a] The patient’s responsible medical officer shall, during the appropriate period, carry out a review in respect of the order (such review being referred to in this Part of this Act as the “first review”) by complying with the requirements in subsection (3) below.
 
 (3) Those requirements are—
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a1a4dbf44b1f3669a60988a4faadd1f]: Commencement: S. 77 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-4a1a4dbf44b1f3669a60988a4faadd1f]: Commencement: S. 77 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
 
-[^key-64124e5f3db5e0f962d9c44db5a7412a]: Modification: S. 77(2)modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [33(2)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/2), [(3)(a)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/3/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))
+[^c-64124e5f3db5e0f962d9c44db5a7412a]: Modification: S. 77(2)modified (3.11.2008) by [Mental Health (England and Wales Cross-border transfer: patients subject to requirements other than detention) (Scotland) Regulations 2008 (S.S.I. 2008/356)](https://www.legislation.gov.uk/ssi/2008/356), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/356/regulation/1/1), [33(2)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/2), [(3)(a)](https://www.legislation.gov.uk/ssi/2008/356/regulation/33/3/a) (with [reg. 2](https://www.legislation.gov.uk/ssi/2008/356/regulation/2))

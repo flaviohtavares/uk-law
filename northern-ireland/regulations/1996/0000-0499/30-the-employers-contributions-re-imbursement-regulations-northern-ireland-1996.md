@@ -40,7 +40,7 @@ Coming into operation
 
 The Department of Health and Social Services, in exercise of the powers conferred on it by Articles 2(2) and (4), 29, 35(3) and (7) and 36(2) of the Jobseekers (Northern Ireland) Order 1995[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-c461dff4d0aab0369523269595d9ce8b]
+## 1. Citation, commencement and interpretation[^c-c461dff4d0aab0369523269595d9ce8b]
 
 (1) These Regulations may be cited as the Employer’s Contributions Re-imbursement Regulations (Northern Ireland) 1996 and shall come into operation on 6th April 1996.
 
@@ -85,9 +85,9 @@ The Department of Health and Social Services, in exercise of the powers conferre
 - “week” means a period of 7 consecutive days;
 - “year”, except in regulation 5(4), means a period of 365 days or, where that period includes 29th February, 366 days.
 
-(3)[^key-8e428346f268c3ad7a8b6f8fb749b249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-8e428346f268c3ad7a8b6f8fb749b249] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Circumstances in which a person is treated as entitled to a jobseeker’s allowance for a continuous period of 2 years immediately before his employment[^key-8abd38c49c50a46efdda66826d401f11]
+## 2. Circumstances in which a person is treated as entitled to a jobseeker’s allowance for a continuous period of 2 years immediately before his employment[^c-8abd38c49c50a46efdda66826d401f11]
 
 (1) Where this regulation applies, a person who would not otherwise satisfy the relevant condition shall be treated as satisfying that condition.
 
@@ -116,7 +116,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (9) In this regulation “the relevant condition” means the condition in Article 29(1) of the Order.
 
-## 3. Circumstances in which a person is to be treated as unemployed for a continuous period of 2 years immediately before his employment[^key-8151c1d43694f8093f6f4854e590f05b]
+## 3. Circumstances in which a person is to be treated as unemployed for a continuous period of 2 years immediately before his employment[^c-8151c1d43694f8093f6f4854e590f05b]
 
 (1) Where this regulation applies, a person who would not otherwise satisfy the relevant condition shall be treated as satisfying that condition.
 
@@ -135,7 +135,7 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (7) In this regulation “the relevant condition” means the condition in Article 29(2)(*a*) of the Order.
 
-## 4. Prescribed description of a person for the purposes of Article 29(2)(c) of the Order[^key-e6e130aa868580ab490b72a3401feea0]
+## 4. Prescribed description of a person for the purposes of Article 29(2)(c) of the Order[^c-e6e130aa868580ab490b72a3401feea0]
 
 (1) For the purposes of Article 29(2)(*c*) of the Order a person falls within a prescribed description of person if—
 
@@ -152,11 +152,11 @@ The Department of Health and Social Services, in exercise of the powers conferre
 
 (4) In this regulation “qualifying person” means a person who is entitled to a qualifying benefit and is of a description specified in paragraph (1).
 
-## 5. Deductions from employer’s contributions payments[^key-6f22dcf97c98994bbc7c988e389a8630]
+## 5. Deductions from employer’s contributions payments[^c-6f22dcf97c98994bbc7c988e389a8630]
 
 (1) An employer—
 
-- (a) who employs a person who is a qualifying employee in relation to him for a continuous period of at least 13 weeks commencing on or before 31st March 1999[^key-aadfd50d74b732a9007253d228d0e84f], and
+- (a) who employs a person who is a qualifying employee in relation to him for a continuous period of at least 13 weeks commencing on or before 31st March 1999[^c-aadfd50d74b732a9007253d228d0e84f], and
 - (b) who has obtained a deductions certificate, and
 - (c) who is liable to pay Class 1 contributions in respect of earnings paid to or for the benefit of that qualifying employee in the relevant period,
 
@@ -177,7 +177,7 @@ shall be entitled to deduct an amount determined in accordance with this regulat
 
 whichever shall first occur.
 
-## 6. Deductions from employer’s contributions payments where a mariner’s earnings are paid for a voyage period[^key-911de0e06e575968cac621b483d970e3]
+## 6. Deductions from employer’s contributions payments where a mariner’s earnings are paid for a voyage period[^c-911de0e06e575968cac621b483d970e3]
 
 (1) An employer—
 
@@ -196,7 +196,7 @@ shall be entitled to deduct an amount determined in accordance with this regulat
 
 (4) In this regulation “the relevant period” has the same meaning as in regulation 5(4).
 
-## 7. Deductions certificate[^key-00b9c6ea93c9ffc77cfe3dcc67ae2686]
+## 7. Deductions certificate[^c-00b9c6ea93c9ffc77cfe3dcc67ae2686]
 
 (1) An application for a deductions certificate must be in writing and shall contain the particulars specified in paragraph (2).
 
@@ -220,7 +220,7 @@ shall be entitled to deduct an amount determined in accordance with this regulat
 
 (9) Where a deductions certificate has been lost or destroyed the Department may, at its discretion, issue a duplicate.
 
-## 8. Deductions from contributions payments[^key-f01588c0fed77f222e9ca16f6042c688]
+## 8. Deductions from contributions payments[^c-f01588c0fed77f222e9ca16f6042c688]
 
 An employer who is entitled to deduct an amount determined in accordance with regulation 5 or 6 may do so by making one or more deductions from his contributions payments except where and in so far as—
 
@@ -228,20 +228,20 @@ An employer who is entitled to deduct an amount determined in accordance with re
 - (b) that amount has been repaid to him by the Department;
 - (c) he has made a request in writing under regulation 9 that an amount be paid to him and he has not received notification by the Department that the request is refused.
 
-## 9. Payments to employers by the Department[^key-86c7669a6dafea518592bc7329bed769]
+## 9. Payments to employers by the Department[^c-86c7669a6dafea518592bc7329bed769]
 
 (1) If the amount an employer is or would otherwise be entitled to deduct under regulation 8 exceeds the amount of his contributions payments in respect of earnings paid in an income tax period the Department shall, if the employer requests him to do so in writing, pay the employer an amount equal to such excess.
 
 (2) If an employer is not liable to pay any contributions payments in an income tax period but would otherwise be entitled to deduct an amount under regulation 8 and the Department is satisfied that this is the case the Department shall, if the employer requests him to do so in writing, pay the employer such amount.
 
-## 10. Qualifying employees with more than one employment[^key-cf85c3a496c2fd3733d41e7dc6e9706c]
+## 10. Qualifying employees with more than one employment[^c-cf85c3a496c2fd3733d41e7dc6e9706c]
 
 Where an employee is a qualifying employee in relation to more than one employer at the same time, the right to make deductions shall be confined to the employer—
 
 - (a) with whom the qualifying employee’s employment began first, and
 - (b) certified on the deductions certificate as the employer entitled to make the deductions.
 
-## 11. Treatment of 2 or more employers as one[^key-9f9de7a4c7cb10875709d56a1e56d2c8]
+## 11. Treatment of 2 or more employers as one[^c-9f9de7a4c7cb10875709d56a1e56d2c8]
 
 (1) Where this regulation applies, the employers concerned are to be treated as one for the purposes of determining the amount which may be deducted in accordance with regulation 5 or 6.
 
@@ -250,13 +250,13 @@ Where an employee is a qualifying employee in relation to more than one employer
 - (a) an employer is entitled to make deductions in accordance with these Regulations in relation to a qualifying employee, and
 - (b) earnings paid to or for the benefit of that employee are, for the purposes of determining the amount of Class 1 contributions payable, aggregated by virtue of regulation 12(1)(*a*)[^f00017] of the Contributions Regulations.
 
-## 12. Offences[^key-4f72b90e1a575a9c223b69d67448c362]
+## 12. Offences[^c-4f72b90e1a575a9c223b69d67448c362]
 
 (1) A person who contravenes the requirements of regulation 7(8) is guilty of an offence.
 
 (2) Article 35(7) of the Order shall apply in relation to the original offence.
 
-## 13. Amendment of Schedule 1 to the Contributions Regulations[^key-bafcb1838e3eabdd390157d31a7fd12c]
+## 13. Amendment of Schedule 1 to the Contributions Regulations[^c-bafcb1838e3eabdd390157d31a7fd12c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -304,7 +304,7 @@ Articles 2(2) and (4) and 36(2) of the Order, two of the enabling provisions und
 
 [^f00001]: Footnote: S.I. [1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705); Article 2(2) is cited because of the powers conferred in the meaning of the expressions “pensionable age” and “week”
 
-[^key-c461dff4d0aab0369523269595d9ce8b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1996/30/regulation/1) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-c461dff4d0aab0369523269595d9ce8b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1996/30/regulation/1) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
 [^f00002]: Footnote: Paragraph 4 was substituted by [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338) and amended by [S.R. 1992 No. 6](https://www.legislation.gov.uk/nisr/1992/6)
 
@@ -328,42 +328,42 @@ Articles 2(2) and (4) and 36(2) of the Order, two of the enabling provisions und
 
 [^f00012]: Footnote: [S.R. 1984 No. 245](https://www.legislation.gov.uk/nisr/1984/245); relevant amending regulations are [S.R. 1989 No. 437](https://www.legislation.gov.uk/nisr/1989/437)
 
-[^key-8e428346f268c3ad7a8b6f8fb749b249]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/3) revoked (1.4.1999) by [The Social Security Contributions (Transfer of Functions, etc. ) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671), [art. 1(3)](https://www.legislation.gov.uk/uksi/1999/671/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/1999/671/article/1/4), [Sch. 9 Pt. II](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/II) (with [Sch. 7](https://www.legislation.gov.uk/uksi/1999/671/schedule/7)); [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2)
+[^c-8e428346f268c3ad7a8b6f8fb749b249]: Textual amendment: [Reg. 1(3)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/3) revoked (1.4.1999) by [The Social Security Contributions (Transfer of Functions, etc. ) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671), [art. 1(3)](https://www.legislation.gov.uk/uksi/1999/671/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/1999/671/article/1/4), [Sch. 9 Pt. II](https://www.legislation.gov.uk/uksi/1999/671/schedule/9/part/II) (with [Sch. 7](https://www.legislation.gov.uk/uksi/1999/671/schedule/7)); [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2)
 
-[^key-8abd38c49c50a46efdda66826d401f11]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/30/regulation/2) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-8abd38c49c50a46efdda66826d401f11]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/1996/30/regulation/2) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
 [^f00013]: Footnote: Section 25A was inserted by paragraph 5 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 (S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898))
 
-[^key-8151c1d43694f8093f6f4854e590f05b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/30/regulation/3) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-8151c1d43694f8093f6f4854e590f05b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1996/30/regulation/3) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
 [^f00014]: Footnote: Paragraph (1) was amended by [S.R. 1991 No. 338](https://www.legislation.gov.uk/nisr/1991/338)
 
 [^f00015]: Footnote: Sub-paragraph (*o*) was added by [S.R. 1989 No. 437](https://www.legislation.gov.uk/nisr/1989/437)
 
-[^key-e6e130aa868580ab490b72a3401feea0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/30/regulation/4) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-e6e130aa868580ab490b72a3401feea0]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/1996/30/regulation/4) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
-[^key-6f22dcf97c98994bbc7c988e389a8630]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1996/30/regulation/5) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-6f22dcf97c98994bbc7c988e389a8630]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/1996/30/regulation/5) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
-[^key-aadfd50d74b732a9007253d228d0e84f]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/nisr/1996/30/regulation/5/1/a) inserted (12.3.1999) by [The Employers’s Contributions Re-imbursement (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/52)](https://www.legislation.gov.uk/nisr/1999/52), [regs. 1](https://www.legislation.gov.uk/nisr/1999/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/1999/52/regulation/2)
+[^c-aadfd50d74b732a9007253d228d0e84f]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/nisr/1996/30/regulation/5/1/a) inserted (12.3.1999) by [The Employers’s Contributions Re-imbursement (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/52)](https://www.legislation.gov.uk/nisr/1999/52), [regs. 1](https://www.legislation.gov.uk/nisr/1999/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/1999/52/regulation/2)
 
-[^key-911de0e06e575968cac621b483d970e3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1996/30/regulation/6) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-911de0e06e575968cac621b483d970e3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/1996/30/regulation/6) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
 [^M_F_8f4ff283-3583-4df1-d75b-4a3e66e6ae65]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/nisr/1996/30/regulation/6/1/a) inserted (12.3.1999) by [The Employers’s Contributions Re-imbursement (Amendment) Regulations (Northern Ireland) 1999 (S.R. 1999/52)](https://www.legislation.gov.uk/nisr/1999/52), [regs. 1](https://www.legislation.gov.uk/nisr/1999/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/1999/52/regulation/2)
 
 [^f00016]: Footnote: Regulation 88 was substituted by [S.R. 1982 No. 69](https://www.legislation.gov.uk/nisr/1982/69) and amended by [S.R. 1988 No. 121](https://www.legislation.gov.uk/nisr/1988/121) and [S.R. 1989 No. 384](https://www.legislation.gov.uk/nisr/1989/384)
 
-[^key-00b9c6ea93c9ffc77cfe3dcc67ae2686]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1996/30/regulation/7) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-00b9c6ea93c9ffc77cfe3dcc67ae2686]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/1996/30/regulation/7) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
-[^key-f01588c0fed77f222e9ca16f6042c688]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1996/30/regulation/8) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-f01588c0fed77f222e9ca16f6042c688]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/1996/30/regulation/8) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
-[^key-86c7669a6dafea518592bc7329bed769]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1996/30/regulation/9) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-86c7669a6dafea518592bc7329bed769]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/1996/30/regulation/9) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
-[^key-cf85c3a496c2fd3733d41e7dc6e9706c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1996/30/regulation/10) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-cf85c3a496c2fd3733d41e7dc6e9706c]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/1996/30/regulation/10) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
-[^key-9f9de7a4c7cb10875709d56a1e56d2c8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1996/30/regulation/11) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-9f9de7a4c7cb10875709d56a1e56d2c8]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/1996/30/regulation/11) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
 [^f00017]: Footnote: Regulation 12(1) was amended by [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43) and [S.R. 1985 No. 260](https://www.legislation.gov.uk/nisr/1985/260)
 
-[^key-4f72b90e1a575a9c223b69d67448c362]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1996/30/regulation/12) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
+[^c-4f72b90e1a575a9c223b69d67448c362]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/1996/30/regulation/12) in operation at 6.4.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/30/regulation/1/1)
 
-[^key-bafcb1838e3eabdd390157d31a7fd12c]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/1996/30/regulation/13) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
+[^c-bafcb1838e3eabdd390157d31a7fd12c]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/1996/30/regulation/13) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)

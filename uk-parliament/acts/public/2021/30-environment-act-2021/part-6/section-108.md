@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Interpretation[^key-eb1cd23e2e712c8f48a1766774516160][^key-4e6213f74138a59e35b65dbc35b9964e]
+## 108. Interpretation[^c-eb1cd23e2e712c8f48a1766774516160][^c-4e6213f74138a59e35b65dbc35b9964e]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb1cd23e2e712c8f48a1766774516160]: Commencement: S. 108 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-eb1cd23e2e712c8f48a1766774516160]: Commencement: S. 108 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-4e6213f74138a59e35b65dbc35b9964e]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2021/30/section/108) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/n)
+[^c-4e6213f74138a59e35b65dbc35b9964e]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2021/30/section/108) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/n)

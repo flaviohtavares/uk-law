@@ -48,7 +48,7 @@ Accordingly, a draft of this Order was laid before Parliament and approved by a 
 
 ### Introductory provisions
 
-#### 1. Citation, commencement and interpretation[^key-64d11e93f87ab8158f08dac9aba93a8a][^key-77a2f420661ae8e3e6fad8717c86da22]
+#### 1. Citation, commencement and interpretation[^c-64d11e93f87ab8158f08dac9aba93a8a][^c-77a2f420661ae8e3e6fad8717c86da22]
 
 (1) This Order may be cited as the Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2021.
 
@@ -69,7 +69,7 @@ Accordingly, a draft of this Order was laid before Parliament and approved by a 
   - (i) to make rules; and
   - (ii) to give guidance.
 
-(3) Subject to article 1A, this Order[^key-7e625b341c2cdc5c8d20bfd5b892c558] comes into force for all other purposes on the first day following the expiry of a period of eighteen calendar months beginning on the day after the initial commencement day.
+(3) Subject to article 1A, this Order[^c-7e625b341c2cdc5c8d20bfd5b892c558] comes into force for all other purposes on the first day following the expiry of a period of eighteen calendar months beginning on the day after the initial commencement day.
 
 (4) In this Order—
 
@@ -77,7 +77,7 @@ Accordingly, a draft of this Order was laid before Parliament and approved by a 
 - “the Regulated Activities Order” means the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00007]; and
 - “scheme operator” has the meaning given in section 225(2) of the Act.
 
-#### 1A. Transitional period[^key-9bdeab0432aae9a9be07338738c00ff0]
+#### 1A. Transitional period[^c-9bdeab0432aae9a9be07338738c00ff0]
 
 (1) Article 1(3) applies subject to this article.
 
@@ -99,7 +99,7 @@ article 2(4)(a) applies only in relation to activities carried on by that provid
 
 ## PART 2 — Amendments to secondary legislation made under the Act
 
-### 2. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-8c8205f569b8e30d470708354b8ac3ce][^key-7b2ee7801ddd7b0b027d42e267c5c6fe]
+### 2. The Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-8c8205f569b8e30d470708354b8ac3ce][^c-7b2ee7801ddd7b0b027d42e267c5c6fe]
 
 (1) The Regulated Activities Order is amended as follows.
 
@@ -141,7 +141,7 @@ article 2(4)(a) applies only in relation to activities carried on by that provid
 
 > Paragraph (1) does not include any right or interest acquired as a result of entering into a funeral plan contract.
 
-### 3. The Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^key-fdd621dfcc7c6224dcb35a5478cc9c44][^key-638f3288d3ba97264ce9c62c42a2da42]
+### 3. The Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^c-fdd621dfcc7c6224dcb35a5478cc9c44][^c-638f3288d3ba97264ce9c62c42a2da42]
 
 For paragraph 18[^f00014] of the Schedule to the Financial Services and Markets Act 2000 (Collective Investment Schemes) Order 2001[^f00015], substitute—
 
@@ -151,7 +151,7 @@ For paragraph 18[^f00014] of the Schedule to the Financial Services and Markets 
 
 .
 
-### 4. The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^key-4cb8b2fe02b0901acf91ab721c3040f4][^key-6e322efb736c0c4dec3201366652fb8a]
+### 4. The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^c-4cb8b2fe02b0901acf91ab721c3040f4][^c-6e322efb736c0c4dec3201366652fb8a]
 
 (1) The Financial Services and Markets Act 2000 (Appointed Representatives) Regulations 2001[^f00016] are amended as follows.
 
@@ -169,7 +169,7 @@ For paragraph 18[^f00014] of the Schedule to the Financial Services and Markets 
 
 .
 
-### 5. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^key-69bb97bee5877a19a7213637e9b28096][^key-f5984744f27d8828751fce7a72e05ab5]
+### 5. The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^c-69bb97bee5877a19a7213637e9b28096][^c-f5984744f27d8828751fce7a72e05ab5]
 
 (1) Schedule 1 to the Financial Services and Markets Act 2000 (Financial Promotion) Order 2005[^f00019] is amended as follows.
 
@@ -190,7 +190,7 @@ For paragraph 18[^f00014] of the Schedule to the Financial Services and Markets 
 
 ## PART 3 — Transitional provisions: complaints relating to funeral plans
 
-### 6. Interpretation[^key-e776ee2e761f3b96b8501fa49c40f35b][^key-2e5a144f4e759ee0d149ce28fe792bdd]
+### 6. Interpretation[^c-e776ee2e761f3b96b8501fa49c40f35b][^c-2e5a144f4e759ee0d149ce28fe792bdd]
 
 In this Part—
 
@@ -203,7 +203,7 @@ In this Part—
 - “relevant complaint” has the meaning given in article 7(1); and
 - “relevant date” means the date on which this Order comes fully into force in accordance with article 1(3).
 
-### 7. Complaints made on or after the relevant date about acts or omissions before that date[^key-112bd571f850bf04c82cd383f8ec1707][^key-d23e399af44419c73578f11f3dce2379]
+### 7. Complaints made on or after the relevant date about acts or omissions before that date[^c-112bd571f850bf04c82cd383f8ec1707][^c-d23e399af44419c73578f11f3dce2379]
 
 (1) A relevant complaint is a complaint—
 
@@ -226,11 +226,11 @@ In this Part—
 
 (5) For the purposes of paragraph (4), it is immaterial that the conditions set out in section 226(2)(b) and (c) of the Act are not met in relation to the complaint.
 
-### 8. Procedure for dealing with relevant complaints[^key-c2cb9f0dabc4f0cccbf7019742f51c1f][^key-d691cd0148c9c2bbb29909783619faa6]
+### 8. Procedure for dealing with relevant complaints[^c-c2cb9f0dabc4f0cccbf7019742f51c1f][^c-d691cd0148c9c2bbb29909783619faa6]
 
 In paragraphs 13 and 14 of Schedule 17 to the Act, each reference to a “complaint” is to be taken to include a reference to a relevant complaint.
 
-### 9. Determination of relevant complaints[^key-e0c397adf7c27fefd8403f923d5feeec][^key-5f5e141aa20dc5ab200187a202285cfd]
+### 9. Determination of relevant complaints[^c-e0c397adf7c27fefd8403f923d5feeec][^c-5f5e141aa20dc5ab200187a202285cfd]
 
 (1) Subject to paragraphs (2) and (3), sections 228 to 230A of the Act apply in relation to the determination of a relevant complaint as they apply in relation to the determination of a complaint of the kind mentioned in section 226(1) (compulsory jurisdiction).
 
@@ -248,32 +248,32 @@ an ombudsman may also take into account the matters set out in paragraph (3).
 - (b) what amount, if any, the former scheme operator, seeking to resolve the complaint under the former scheme rules, might have recommended that the respondent should pay under the former scheme rules; and
 - (c) what other steps the former scheme operator, seeking to resolve the complaint under the former scheme rules, might have recommended that the respondent should take under the former scheme rules.
 
-### 10. Funding and charges[^key-60b06de653fe7db5a5db80692571830e][^key-2172fd161798be1e535825301b1dcf3d]
+### 10. Funding and charges[^c-60b06de653fe7db5a5db80692571830e][^c-2172fd161798be1e535825301b1dcf3d]
 
 (1) In section 234(1) of the Act (industry funding), the reference to the operation of the ombudsman scheme in relation to the compulsory jurisdiction is to be taken to include its operation in relation to relevant complaints.
 
 (2) Relevant complaints are subject to rules made under paragraph 15(1) of Schedule 17 to the Act (fees) in the same way as any other complaints referred to under the new scheme.
 
-### 11. Exemption from liability in damages[^key-72a6c537bc8268ff9a651b371d1ed1dd][^key-b7826493bb9a523e6414cf9e3bcef4d9]
+### 11. Exemption from liability in damages[^c-72a6c537bc8268ff9a651b371d1ed1dd][^c-b7826493bb9a523e6414cf9e3bcef4d9]
 
 Paragraph 10(1) of Schedule 17 to the Act (exemption from liability in damages) applies to the discharge, or purported discharge, of any functions by virtue of this Part in relation to dealing with a relevant complaint (“relevant functions”), and is to be read for those purposes as if—
 
 - (a) the reference to functions under the Act included a reference to relevant functions; and
 - (b) the reference to “the compulsory jurisdiction” included a reference to the jurisdiction of the new scheme which results from this Part.
 
-### 12. Transfers of liability[^key-63b33d574cd95669b808144772a1755a][^key-4d69e1fbc8d1b8899bee3edfb3be44ad]
+### 12. Transfers of liability[^c-63b33d574cd95669b808144772a1755a][^c-4d69e1fbc8d1b8899bee3edfb3be44ad]
 
 In section 234B of the Act, the reference to a complaint falling to be dealt with under the ombudsman scheme is to be taken to include a reference to a relevant complaint falling to be dealt with under that scheme including the jurisdiction which results from this Part.
 
-### 13. Privilege[^key-ba278df3af90a50c8bd5bbb0594ce0ae][^key-9218251fda6b21b1f50197acb719c9a8]
+### 13. Privilege[^c-ba278df3af90a50c8bd5bbb0594ce0ae][^c-9218251fda6b21b1f50197acb719c9a8]
 
 In paragraph 11 of Schedule 17 to the Act (privilege), the reference to “the compulsory jurisdiction” is to be taken to include the jurisdiction of the new scheme which results from this Part.
 
-### 14. Record-keeping and reporting requirements relating to relevant complaints[^key-deba5e272d65ea3ebde6aaa47608b00b][^key-b29c0c34847df663c1f492c05e7fa8e8]
+### 14. Record-keeping and reporting requirements relating to relevant complaints[^c-deba5e272d65ea3ebde6aaa47608b00b][^c-b29c0c34847df663c1f492c05e7fa8e8]
 
 The FCA may make rules applying to authorised persons under the Act with respect to the keeping of records and the making of reports in relation to relevant complaints.
 
-### 15. Information[^key-034d5a6c692679d3bcfe9bb18bf1d979][^key-d529bfae6dbcab013d6d979a85cd465f]
+### 15. Information[^c-034d5a6c692679d3bcfe9bb18bf1d979][^c-d529bfae6dbcab013d6d979a85cd465f]
 
 (1) Sections 231 and 232 of the Act apply in relation to a relevant complaint as they apply in relation to a complaint of the kind mentioned in section 226(1) of the Act.
 
@@ -283,11 +283,11 @@ The FCA may make rules applying to authorised persons under the Act with respect
 
 ### Rules and guidance
 
-#### 16. Funeral plans related rules and guidance made by the FCA[^key-30a6a648a5b806684ed25bad31bcfbb6][^key-9d57f9edb670d84014538a104df161cb]
+#### 16. Funeral plans related rules and guidance made by the FCA[^c-30a6a648a5b806684ed25bad31bcfbb6][^c-9d57f9edb670d84014538a104df161cb]
 
 The requirements of section 138I of the Act, in so far as they apply to a proposal by the FCA to make rules and guidance in relation to the amendments made by this Order, may be satisfied by things done (wholly or in part) before the date on which this Order comes into force for the purpose of enabling the FCA to make rules and give guidance.
 
-#### 17. Rules made by the scheme operator relating to funeral plans[^key-40269c512e79b5114f125992e4889424][^key-4efd2630cf6d297a0b6ed53fc07a6bf8]
+#### 17. Rules made by the scheme operator relating to funeral plans[^c-40269c512e79b5114f125992e4889424][^c-4efd2630cf6d297a0b6ed53fc07a6bf8]
 
 The requirements of paragraph 14(4) and (5) of Schedule 17 to the Act, in so far as they apply to a proposal by the scheme operator to make or amend rules under paragraph 14(1) (the scheme operator’s rules) in relation to amendments made by this Order, may be satisfied by things done (wholly or in part) before the date on which this Order comes into force for the purpose of enabling the scheme operator to make or amend rules.
 
@@ -295,7 +295,7 @@ The requirements of paragraph 14(4) and (5) of Schedule 17 to the Act, in so far
 
 ### Review
 
-#### 18. Review[^key-af5070b8b449536725274ce9e5a56466][^key-0ba4008d3eb1e35ddcbad574d9285ea5]
+#### 18. Review[^c-af5070b8b449536725274ce9e5a56466][^c-0ba4008d3eb1e35ddcbad574d9285ea5]
 
 (1) The Treasury must from time to time—
 
@@ -346,9 +346,9 @@ A de minimis impact assessment of the effect this Order will have on business an
 
 [^f00003]: Footnote: Paragraph 26 was substituted by section 8 of the Financial Services Act 2012 and paragraph 26(1) was amended by section 27 of the Financial Guidance and Claims Act 2018.
 
-[^key-64d11e93f87ab8158f08dac9aba93a8a]: Commencement: Art. 1 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-64d11e93f87ab8158f08dac9aba93a8a]: Commencement: Art. 1 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-77a2f420661ae8e3e6fad8717c86da22]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/90/article/1) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-77a2f420661ae8e3e6fad8717c86da22]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2021/90/article/1) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
 [^f00004]: Footnote: Part 4A was inserted by section 11 of the Financial Services Act 2012.
 
@@ -356,11 +356,11 @@ A de minimis impact assessment of the effect this Order will have on business an
 
 [^f00006]: Footnote: Sections 40 to 55 of the Act were substituted for a new Part 4A consisting of sections 55A to 55Z4 by section 11 of the Financial Services Act 2012.
 
-[^key-7e625b341c2cdc5c8d20bfd5b892c558]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3) substituted (16.5.2022 for specified purposes, 29.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2022 (S.I. 2022/466)](https://www.legislation.gov.uk/uksi/2022/466), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/466/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2022/466/article/5/2)
+[^c-7e625b341c2cdc5c8d20bfd5b892c558]: Textual amendment: Words in [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3) substituted (16.5.2022 for specified purposes, 29.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2022 (S.I. 2022/466)](https://www.legislation.gov.uk/uksi/2022/466), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/466/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2022/466/article/5/2)
 
 [^f00007]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544).
 
-[^key-9bdeab0432aae9a9be07338738c00ff0]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2021/90/article/1A) inserted (16.5.2022 for specified purposes, 29.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2022 (S.I. 2022/466)](https://www.legislation.gov.uk/uksi/2022/466), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/466/article/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2022/466/article/5/3)
+[^c-9bdeab0432aae9a9be07338738c00ff0]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/uksi/2021/90/article/1A) inserted (16.5.2022 for specified purposes, 29.7.2022 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2022 (S.I. 2022/466)](https://www.legislation.gov.uk/uksi/2022/466), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2022/466/article/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2022/466/article/5/3)
 
 [^f00014]: Footnote: Paragraph 18 of the Schedule was substituted by [S.I. 2001/3650](https://www.legislation.gov.uk/uksi/2001/3650).
 
@@ -368,9 +368,9 @@ A de minimis impact assessment of the effect this Order will have on business an
 
 [^f00016]: Footnote: [S.I. 2001/1217](https://www.legislation.gov.uk/uksi/2001/1217).
 
-[^key-8c8205f569b8e30d470708354b8ac3ce]: Commencement: Art. 2 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-8c8205f569b8e30d470708354b8ac3ce]: Commencement: Art. 2 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-7b2ee7801ddd7b0b027d42e267c5c6fe]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/90/article/2) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-7b2ee7801ddd7b0b027d42e267c5c6fe]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2021/90/article/2) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
 [^f00008]: Footnote: Article 3 was amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476). There are other amendments to article 3 which are not relevant to this Order.
 
@@ -384,78 +384,78 @@ A de minimis impact assessment of the effect this Order will have on business an
 
 [^f00013]: Footnote: There are amendments to article 89 which are not relevant to this Order.
 
-[^key-fdd621dfcc7c6224dcb35a5478cc9c44]: Commencement: Art. 3 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-fdd621dfcc7c6224dcb35a5478cc9c44]: Commencement: Art. 3 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-638f3288d3ba97264ce9c62c42a2da42]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/90/article/3) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-638f3288d3ba97264ce9c62c42a2da42]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2021/90/article/3) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-4cb8b2fe02b0901acf91ab721c3040f4]: Commencement: Art. 4 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-4cb8b2fe02b0901acf91ab721c3040f4]: Commencement: Art. 4 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-6e322efb736c0c4dec3201366652fb8a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/90/article/4) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-6e322efb736c0c4dec3201366652fb8a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2021/90/article/4) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
 [^f00017]: Footnote: Regulation 1(2) was amended by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476). There are other amendments to regulation 1(2) which are not relevant to this Order.
 
 [^f00018]: Footnote: Regulation 2(1)(za) was inserted by [S.I. 2003/1476](https://www.legislation.gov.uk/uksi/2003/1476), amended by [S.I. 2004/453](https://www.legislation.gov.uk/uksi/2004/453) and renumbered by [S.I. 2012/1906](https://www.legislation.gov.uk/uksi/2012/1906).
 
-[^key-69bb97bee5877a19a7213637e9b28096]: Commencement: Art. 5 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-69bb97bee5877a19a7213637e9b28096]: Commencement: Art. 5 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-f5984744f27d8828751fce7a72e05ab5]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/90/article/5) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-f5984744f27d8828751fce7a72e05ab5]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2021/90/article/5) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
 [^f00019]: Footnote: [S.I. 2005/1529](https://www.legislation.gov.uk/uksi/2005/1529).
 
 [^f00020]: Footnote: Paragraph 3(1) of Schedule 1 was amended by [S.I. 2017/488](https://www.legislation.gov.uk/uksi/2017/488).
 
-[^key-e776ee2e761f3b96b8501fa49c40f35b]: Commencement: Art. 6 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-e776ee2e761f3b96b8501fa49c40f35b]: Commencement: Art. 6 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-2e5a144f4e759ee0d149ce28fe792bdd]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/90/article/6) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-2e5a144f4e759ee0d149ce28fe792bdd]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2021/90/article/6) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
 [^f00021]: Footnote: Section 226(3) was amended by section 39 of, and paragraph 1 of Schedule 11 to, the Financial Services Act 2012.
 
-[^key-112bd571f850bf04c82cd383f8ec1707]: Commencement: Art. 7 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-112bd571f850bf04c82cd383f8ec1707]: Commencement: Art. 7 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-d23e399af44419c73578f11f3dce2379]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2021/90/article/7) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-d23e399af44419c73578f11f3dce2379]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2021/90/article/7) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-c2cb9f0dabc4f0cccbf7019742f51c1f]: Commencement: Art. 8 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-c2cb9f0dabc4f0cccbf7019742f51c1f]: Commencement: Art. 8 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-d691cd0148c9c2bbb29909783619faa6]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2021/90/article/8) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-d691cd0148c9c2bbb29909783619faa6]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2021/90/article/8) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-e0c397adf7c27fefd8403f923d5feeec]: Commencement: Art. 9 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-e0c397adf7c27fefd8403f923d5feeec]: Commencement: Art. 9 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-5f5e141aa20dc5ab200187a202285cfd]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2021/90/article/9) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-5f5e141aa20dc5ab200187a202285cfd]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2021/90/article/9) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-60b06de653fe7db5a5db80692571830e]: Commencement: Art. 10 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-60b06de653fe7db5a5db80692571830e]: Commencement: Art. 10 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-2172fd161798be1e535825301b1dcf3d]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2021/90/article/10) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-2172fd161798be1e535825301b1dcf3d]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2021/90/article/10) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-72a6c537bc8268ff9a651b371d1ed1dd]: Commencement: Art. 11 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-72a6c537bc8268ff9a651b371d1ed1dd]: Commencement: Art. 11 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-b7826493bb9a523e6414cf9e3bcef4d9]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2021/90/article/11) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-b7826493bb9a523e6414cf9e3bcef4d9]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2021/90/article/11) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-63b33d574cd95669b808144772a1755a]: Commencement: Art. 12 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-63b33d574cd95669b808144772a1755a]: Commencement: Art. 12 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-4d69e1fbc8d1b8899bee3edfb3be44ad]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2021/90/article/12) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-4d69e1fbc8d1b8899bee3edfb3be44ad]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2021/90/article/12) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-ba278df3af90a50c8bd5bbb0594ce0ae]: Commencement: Art. 13 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-ba278df3af90a50c8bd5bbb0594ce0ae]: Commencement: Art. 13 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-9218251fda6b21b1f50197acb719c9a8]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2021/90/article/13) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-9218251fda6b21b1f50197acb719c9a8]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2021/90/article/13) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-deba5e272d65ea3ebde6aaa47608b00b]: Commencement: Art. 14 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-deba5e272d65ea3ebde6aaa47608b00b]: Commencement: Art. 14 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-b29c0c34847df663c1f492c05e7fa8e8]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2021/90/article/14) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-b29c0c34847df663c1f492c05e7fa8e8]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2021/90/article/14) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-034d5a6c692679d3bcfe9bb18bf1d979]: Commencement: Art. 15 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-034d5a6c692679d3bcfe9bb18bf1d979]: Commencement: Art. 15 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-d529bfae6dbcab013d6d979a85cd465f]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2021/90/article/15) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-d529bfae6dbcab013d6d979a85cd465f]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2021/90/article/15) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
 [^f00022]: Footnote: [2018 c.12](https://www.legislation.gov.uk/ukpga/2018/12).
 
-[^key-30a6a648a5b806684ed25bad31bcfbb6]: Commencement: Art. 16 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-30a6a648a5b806684ed25bad31bcfbb6]: Commencement: Art. 16 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-9d57f9edb670d84014538a104df161cb]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2021/90/article/16) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-9d57f9edb670d84014538a104df161cb]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2021/90/article/16) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-40269c512e79b5114f125992e4889424]: Commencement: Art. 17 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-40269c512e79b5114f125992e4889424]: Commencement: Art. 17 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-4efd2630cf6d297a0b6ed53fc07a6bf8]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2021/90/article/17) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-4efd2630cf6d297a0b6ed53fc07a6bf8]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2021/90/article/17) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
 
-[^key-af5070b8b449536725274ce9e5a56466]: Commencement: Art. 18 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
+[^c-af5070b8b449536725274ce9e5a56466]: Commencement: Art. 18 in force at 28.1.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/90/article/1/2)
 
-[^key-0ba4008d3eb1e35ddcbad574d9285ea5]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2021/90/article/18) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)
+[^c-0ba4008d3eb1e35ddcbad574d9285ea5]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2021/90/article/18) in force at 29.7.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2021/90/article/1/3)

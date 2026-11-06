@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Rights of network providers in relation to infrastructure[^key-dc3de2c5dbb0956d2369617571cc68b0]
+## 73. Rights of network providers in relation to infrastructure[^c-dc3de2c5dbb0956d2369617571cc68b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc3de2c5dbb0956d2369617571cc68b0]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-dc3de2c5dbb0956d2369617571cc68b0]: Commencement: S. 73 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)

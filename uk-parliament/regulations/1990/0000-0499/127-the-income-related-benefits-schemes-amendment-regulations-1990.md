@@ -96,7 +96,7 @@ The Secretary of State for Social Security in exercise of powers conferred by se
 
 (4) In paragraph 29 of Schedule 10 to the Income Support Regulations the words “or under the Macfarlane (Special Payments) Trust” shall be added at the end.
 
-## 4. Amendment of the Housing Benefit Regulations[^key-6d7441f0616c107e060e44ded867c895]
+## 4. Amendment of the Housing Benefit Regulations[^c-6d7441f0616c107e060e44ded867c895]
 
 . . .
 
@@ -156,4 +156,4 @@ These Regulations amend the Family Credit (General) Regulations 1987, the Income
 
 [^f00008]: Footnote: S.I. [1988/1890](https://www.legislation.gov.uk/uksi/1988/1890); relevant amending instrument S.I. [1989/361](https://www.legislation.gov.uk/uksi/1989/361).
 
-[^key-6d7441f0616c107e060e44ded867c895]: Textual amendment: Reg. 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-6d7441f0616c107e060e44ded867c895]: Textual amendment: Reg. 4 revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

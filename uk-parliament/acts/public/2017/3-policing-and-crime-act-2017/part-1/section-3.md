@@ -40,7 +40,7 @@ summary: ''
 
 (7) A combined authority that exercises the functions of a fire and rescue authority by virtue of section 105 or 105A of the Local Democracy, Economic Development and Construction Act 2009 may only enter into a collaboration agreement where the functions of the authority to which the agreement relates are functions of a fire and rescue authority that the combined authority is entitled to exercise.
 
-(7A)[^key-b85bef7434438ada095306f4ce98bf7b] A combined county authority that exercises the functions of a fire and rescue authority by virtue of section 18 or 19 of the Levelling-up and Regeneration Act 2023 may only enter into a collaboration agreement where the functions of the authority to which the agreement relates are functions of a fire and rescue authority that the combined county authority is entitled to exercise.
+(7A)[^c-b85bef7434438ada095306f4ce98bf7b] A combined county authority that exercises the functions of a fire and rescue authority by virtue of section 18 or 19 of the Levelling-up and Regeneration Act 2023 may only enter into a collaboration agreement where the functions of the authority to which the agreement relates are functions of a fire and rescue authority that the combined county authority is entitled to exercise.
 
 (8) An elected mayor who exercises the functions of a fire and rescue authority by virtue of section 107D of the Local Democracy, Economic Development and Construction Act 2009 may only enter into a collaboration agreement where the functions of the mayor to which the agreement relates are functions of a fire and rescue authority that the mayor is entitled to exercise.
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c22718331]: Commencement: S. 3 in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-b85bef7434438ada095306f4ce98bf7b]: Textual amendment: S. 3(7A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 207](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/207) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-b85bef7434438ada095306f4ce98bf7b]: Textual amendment: S. 3(7A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c), [Sch. 4 para. 207](https://www.legislation.gov.uk/ukpga/2023/55/schedule/4/paragraph/207) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

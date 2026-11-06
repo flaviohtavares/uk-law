@@ -56,19 +56,19 @@ These Regulations are made with the consent of the Treasury in so far as is requ
 
 ## PART 1 — Preliminary
 
-### 1. Citation, commencement and extent[^key-0a6ce89ec3b087e60c09bf757b53c1ef]
+### 1. Citation, commencement and extent[^c-0a6ce89ec3b087e60c09bf757b53c1ef]
 
 (1) These Regulations may be cited as the Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024 and come into force on 11th June 2024.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Amendments and revocations[^key-935fe9808984426b3cc15d9ab4504734]
+### 2. Amendments and revocations[^c-935fe9808984426b3cc15d9ab4504734]
 
 (1) The amendments listed in Schedule 1 have effect.
 
 (2) The Regulations listed in the first column of the Table in Schedule 2 are revoked to the extent specified in the third column of that Table.
 
-### 3. Interpretation[^key-0fb7fa534a84a9f7b5bbbe787af82e6a][^key-2b2fef71bd8cb0f59de447a11726662e]
+### 3. Interpretation[^c-0fb7fa534a84a9f7b5bbbe787af82e6a][^c-2b2fef71bd8cb0f59de447a11726662e]
 
 In these Regulations—
 
@@ -112,7 +112,7 @@ In these Regulations—
 - “**United Kingdom ship**” has the same meaning as in section 85(2) of the Merchant Shipping Act 1995;
 - “**valid**” means in force.
 
-### 4. General application[^key-3dec0f3a0a95327188587e924baeca50][^key-2b2fef71bd8cb0f59de447a11726662e]
+### 4. General application[^c-3dec0f3a0a95327188587e924baeca50][^c-2b2fef71bd8cb0f59de447a11726662e]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to—
 
@@ -126,7 +126,7 @@ In these Regulations—
 
 (3) A non-United Kingdom ship flying the flag of a State which is not a party to SOLAS is not subject to these Regulations if it would not have been in United Kingdom waters but for stress of weather or any other circumstances which the master, owner or charterer could not have prevented.
 
-### 5. Ambulatory reference[^key-b91f3de5441bac80f6f1f0bb92beb2b5][^key-2b2fef71bd8cb0f59de447a11726662e]
+### 5. Ambulatory reference[^c-b91f3de5441bac80f6f1f0bb92beb2b5][^c-2b2fef71bd8cb0f59de447a11726662e]
 
 (1) In these Regulations, any reference to Chapter VII, Protocol I, Annex III, International Bulk Chemical Code, International Gas Carrier Code, IMDG Code, IMSBC Code or INF Code is to be construed—
 
@@ -143,7 +143,7 @@ In these Regulations—
 - (a) Chapter VII, International Bulk Chemical Code, International Gas Carrier Code, IMDG Code, IMSBC Code or INF Code has effect at the time such modification or replacement comes into force in accordance with Article VIII of SOLAS;
 - (b) Protocol I or Annex III has effect at the time such modification or replacement comes into force in accordance with Article 16 of MARPOL.
 
-### 6. Exemptions[^key-c3b9ff57098b14d9a357db805353e474][^key-2b2fef71bd8cb0f59de447a11726662e]
+### 6. Exemptions[^c-c3b9ff57098b14d9a357db805353e474][^c-2b2fef71bd8cb0f59de447a11726662e]
 
 (1) The Secretary of State may grant an exemption from any provision of these Regulations in respect of a ship which does not normally engage on international voyages but is, in exceptional circumstances, required to undertake a single international voyage.
 
@@ -181,7 +181,7 @@ if satisfied that compliance with such provision is either impracticable or unre
   - (b) a port in a Convention country other than the United Kingdom and a port in any other country or territory, whether a Convention country or not, which is outside the United Kingdom;
 - “**Convention country**” means a country or territory which is either a country the Government of which is party to SOLAS or a territory to which SOLAS extends whether or not it is subject to the amendments to, or reservations in respect of, SOLAS.
 
-### 7. Equivalents[^key-fbb831b546dbfdab42a8b006a6a72992]
+### 7. Equivalents[^c-fbb831b546dbfdab42a8b006a6a72992]
 
 (1) Where the provisions of Chapter VII require that—
 
@@ -209,14 +209,14 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 (6) Where an approval is granted subject to safety requirements under paragraph (2), the approval ceases to have effect if those requirements are not complied with.
 
-### 8. Approvals[^key-e8e82c316a9a9e815a91073b0ddc4972][^key-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
+### 8. Approvals[^c-e8e82c316a9a9e815a91073b0ddc4972][^c-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
 
 (1) The Secretary of State, or any person authorised by the Secretary of State, may grant an approval in relation to a ship for anything in Chapter VII or Annex III requiring to be—
 
 - (a) approved by the Administration of the State whose flag the ship is entitled to fly; or
 - (b) done to the satisfaction of such Administration[^f00020].
 
-(2) Unless required to be approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^key-c16ffb77e84d67425ef9c0e5ec331e7c], any equipment required by Chapter VII or Annex III and placed on board a United Kingdom ship must be approved by the Secretary of State, or any person authorised by the Secretary of State.
+(2) Unless required to be approved under the Merchant Shipping (Marine Equipment) Regulations 2025[^c-c16ffb77e84d67425ef9c0e5ec331e7c], any equipment required by Chapter VII or Annex III and placed on board a United Kingdom ship must be approved by the Secretary of State, or any person authorised by the Secretary of State.
 
 (3) An approval given under paragraph (1) or (2) may, on the giving of reasonable notice, be continued, altered or cancelled.
 
@@ -234,7 +234,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
 
 ## PART 2 — Requirements for the carriage of dangerous goods and harmful substances in packaged form
 
-### 9. Application[^key-8e104fb0a5b7e8c3d32077f547c73b84][^key-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
+### 9. Application[^c-8e104fb0a5b7e8c3d32077f547c73b84][^c-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
 
 (1) Subject to paragraph (2), this Part applies to—
 
@@ -252,7 +252,7 @@ the Secretary of State may approve any other fitting, material, appliance, appar
   - (vi) ships solely navigating the Great Lakes of North America and the River St Lawrence as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island and, on the north side of Anticosti Island, the 63rd meridian;
 - (b) ships’ stores and equipment.
 
-### 10. Requirements in relation to ships[^key-c35b41c44f3000002fb0ed4ef215c578][^key-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
+### 10. Requirements in relation to ships[^c-c35b41c44f3000002fb0ed4ef215c578][^c-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
 
 The owner and master must not cause or permit the carriage of packaged goods on a ship other than in accordance with each requirement in—
 
@@ -261,7 +261,7 @@ The owner and master must not cause or permit the carriage of packaged goods on 
 
 applicable in relation to it[^f00022].
 
-### 11. Requirements in relation to owners and masters[^key-35e972462498c51e71a0034430588d0f][^key-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
+### 11. Requirements in relation to owners and masters[^c-35e972462498c51e71a0034430588d0f][^c-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
 
 (1) The owner and master—
 
@@ -283,7 +283,7 @@ applicable in relation to it[^f00022].
 - (b) must ensure that any certificates or other documents required by Chapter 5.4.4 (other required information and documentation) of the IMDG Code are available on board the ship;
 - (c) must keep available for inspection on board the ship any documents to which the requirements in sub-paragraph (a) or (b) relate.
 
-### 12. Requirements in relation to shippers and forwarders[^key-d96ec5e6d04c4ef9d0e8e6aaae113f07][^key-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
+### 12. Requirements in relation to shippers and forwarders[^c-d96ec5e6d04c4ef9d0e8e6aaae113f07][^c-6b10ce42c3d2e8a0e9cfeb307d2dcebe]
 
 (1) Where a shipper delivers packaged goods to a ship or its agent, the shipper must comply with—
 
@@ -306,7 +306,7 @@ applicable in relation to it[^f00022].
 
 ## PART 3 — Requirements for the carriage of dangerous goods in solid form in bulk
 
-### 13. Application[^key-497ecf35ef928a52da024e38fae275f5]
+### 13. Application[^c-497ecf35ef928a52da024e38fae275f5]
 
 (1) Subject to paragraph (2), this Part applies to ships carrying dangerous goods in solid form in bulk.
 
@@ -319,11 +319,11 @@ applicable in relation to it[^f00022].
 - (e) fishing vessels;
 - (f) ships solely navigating the Great Lakes of North America and the River St Lawrence as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island and, on the north side of Anticosti Island, the 63rd meridian.
 
-### 14. Requirements in relation to ships[^key-286cfa3a1009b96d54057aee5423e52d]
+### 14. Requirements in relation to ships[^c-286cfa3a1009b96d54057aee5423e52d]
 
 The owner and master must not cause or permit the carriage of dangerous goods in solid form in bulk on a ship other than in accordance with each requirement in Part A-1 of Chapter VII applicable in relation to it[^f00023].
 
-### 15. Requirements in relation to masters[^key-a8d8eb02f54fd10eb39638f2c726a6bb]
+### 15. Requirements in relation to masters[^c-a8d8eb02f54fd10eb39638f2c726a6bb]
 
 A master must—
 
@@ -332,13 +332,13 @@ A master must—
 
 and make available before departure any document to which paragraph (a) or (b) applies in accordance with regulation 7-2.2 of Chapter VII.
 
-### 16. Requirements in relation to shippers[^key-dab22590bc5efecc7f9458e16a94bf12]
+### 16. Requirements in relation to shippers[^c-dab22590bc5efecc7f9458e16a94bf12]
 
 A shipper of dangerous goods in solid form in bulk listed in Appendix 1 of the IMSBC Code must comply with the requirements of Sections 1 and 4 of the IMSBC Code applicable in relation to that shipper.
 
 ## PART 4 — Requirements for the construction and equipment of ships carrying dangerous liquid chemicals in bulk
 
-### 17. Application[^key-e0de76407c42e1b62a09b3c9291d190a]
+### 17. Application[^c-e0de76407c42e1b62a09b3c9291d190a]
 
 (1) Subject to paragraphs (3) and (4), this Part applies to chemical tankers.
 
@@ -355,7 +355,7 @@ A shipper of dangerous goods in solid form in bulk listed in Appendix 1 of the I
 
 (4) Regulations 19 and 20 do not apply to chemical tankers constructed before 1st July 1986.
 
-### 18. Repairs, alterations, modifications and outfitting[^key-12e92ce916591b8eb94c9262455c2be1]
+### 18. Repairs, alterations, modifications and outfitting[^c-12e92ce916591b8eb94c9262455c2be1]
 
 (1) A chemical tanker which undergoes repairs, alterations or modifications, or outfitting related to such repairs, alterations or modifications must continue to comply with at least the requirements previously applicable to that ship.
 
@@ -368,11 +368,11 @@ must, so far as practicable, comply with the requirements for chemical tankers c
 
 (3) A chemical tanker which undergoes repairs, alterations and modifications of a major character, or outfitting related to such repairs, alterations or modifications, must comply with the requirements for chemical tankers constructed on or after 1st July 1986.
 
-### 19. Compliance with requirements[^key-053c5d1cad26658b738cb00d3004df99]
+### 19. Compliance with requirements[^c-053c5d1cad26658b738cb00d3004df99]
 
 The owner and master must ensure that a chemical tanker complies with each requirement in regulation 10.1 of Chapter VII[^f00024] applicable in relation to it.
 
-### 20. International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk[^key-6764b854a22a673f6da7aa83b5e223b9]
+### 20. International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk[^c-6764b854a22a673f6da7aa83b5e223b9]
 
 (1) A chemical tanker must not proceed or attempt to proceed to sea or on any voyage unless there is a valid International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk issued or endorsed in relation to it[^f00025].
 
@@ -380,7 +380,7 @@ The owner and master must ensure that a chemical tanker complies with each requi
 
 ## PART 5 — Requirements for the construction and equipment of ships carrying liquefied gases in bulk
 
-### 21. Application[^key-85933092d12f51a64f3d972008eb8c81]
+### 21. Application[^c-85933092d12f51a64f3d972008eb8c81]
 
 (1) Subject to paragraphs (3) and (4), this Part applies to gas carriers.
 
@@ -397,7 +397,7 @@ The owner and master must ensure that a chemical tanker complies with each requi
 
 (4) Regulations 23 and 24 do not apply to gas carriers constructed before 1st July 1986.
 
-### 22. Repairs, alterations, modifications and outfitting[^key-268b11378f914d6085c3dba1511bde77]
+### 22. Repairs, alterations, modifications and outfitting[^c-268b11378f914d6085c3dba1511bde77]
 
 (1) A gas carrier which undergoes repairs, alterations, modifications, or outfitting related to such repairs, alterations or modifications must continue to comply with at least the requirements previously applicable to that ship.
 
@@ -410,11 +410,11 @@ must, so far as practicable, comply with the requirements for gas carriers const
 
 (3) A gas carrier which undergoes repairs, alterations and modifications of a major character, or outfitting related to such repairs, alterations or modifications, must comply with the requirements for gas carriers constructed on or after 1st July 1986.
 
-### 23. Compliance with requirements[^key-7560e5955d48a16418871787ed2268e4]
+### 23. Compliance with requirements[^c-7560e5955d48a16418871787ed2268e4]
 
 The owner and master must ensure that a gas carrier complies with each requirement in regulation 13.1 of Chapter VII[^f00027] applicable in relation to it.
 
-### 24. International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk[^key-43b3ce27c682867976f6b59a6145a298]
+### 24. International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk[^c-43b3ce27c682867976f6b59a6145a298]
 
 (1) A gas carrier must not proceed or attempt to proceed to sea or on any voyage unless there is a valid International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk issued or endorsed in relation to it[^f00028].
 
@@ -422,7 +422,7 @@ The owner and master must ensure that a gas carrier complies with each requireme
 
 ## PART 6 — Requirements for the carriage of packaged irradiated nuclear fuel, plutonium and high-level radioactive wastes on board ships
 
-### 25. Application[^key-99be54aef3cf1b8e12b1735ea3d4629d]
+### 25. Application[^c-99be54aef3cf1b8e12b1735ea3d4629d]
 
 (1) Subject to paragraph (2), this Part applies to ships carrying INF cargo.
 
@@ -435,11 +435,11 @@ The owner and master must ensure that a gas carrier complies with each requireme
 - (e) fishing vessels;
 - (f) ships solely navigating the Great Lakes of North America and the River St Lawrence as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island and, on the north side of Anticosti Island, the 63rd meridian.
 
-### 26. Compliance with requirements[^key-fbeff57feb4c739e630d134e6185db41]
+### 26. Compliance with requirements[^c-fbeff57feb4c739e630d134e6185db41]
 
 The owner and master must ensure that a ship complies with each requirement in regulation 16.1 of Chapter VII[^f00030] applicable in relation to it.
 
-### 27. International Certificate of Fitness for the Carriage of INF Cargo[^key-0ccb247e4d8f113ea88126ec296bad02]
+### 27. International Certificate of Fitness for the Carriage of INF Cargo[^c-0ccb247e4d8f113ea88126ec296bad02]
 
 (1) A ship must not proceed or attempt to proceed to sea or on any voyage unless there is a valid International Certificate of Fitness for the Carriage of INF Cargo issued in relation to it[^f00031].
 
@@ -447,7 +447,7 @@ The owner and master must ensure that a ship complies with each requirement in r
 
 ## PART 7 — Reporting of incidents
 
-### 28. Reporting requirements: general[^key-039408b4e417c0620505ac0e248b7d14][^key-32ff7e080dab9f85e9ba54cd27e12484]
+### 28. Reporting requirements: general[^c-039408b4e417c0620505ac0e248b7d14][^c-32ff7e080dab9f85e9ba54cd27e12484]
 
 (1) Subject to paragraph (2), the master and owner of a ship must—
 
@@ -463,13 +463,13 @@ The owner and master must ensure that a ship complies with each requirement in r
 - (d) fishing vessels;
 - (e) ships solely navigating the Great Lakes of North America and the River St Lawrence as far east as a straight line drawn from Cap des Rosiers to West Point, Anticosti Island and, on the north side of Anticosti Island, the 63rd meridian.
 
-### 29. Reporting requirements: pollution incidents[^key-335389d39011ef3964ba667117f514dc][^key-32ff7e080dab9f85e9ba54cd27e12484]
+### 29. Reporting requirements: pollution incidents[^c-335389d39011ef3964ba667117f514dc][^c-32ff7e080dab9f85e9ba54cd27e12484]
 
 (1) This regulation applies where the discharge, or threat of discharge, of cargo from a ship is likely to result in the pollution of United Kingdom waters or the coastline of the United Kingdom.
 
 (2) The master and owner of a ship must comply with Protocol I of MARPOL as if the reference in Article I, paragraph 1 of that Protocol to “**an incident referred to in article II of this Protocol**” is a reference to the incident described in paragraph (1).
 
-### 30. Reporting requirements: sightings of polluting substances[^key-c89dd8d8c9d90062306ab7bfbea74b73][^key-32ff7e080dab9f85e9ba54cd27e12484]
+### 30. Reporting requirements: sightings of polluting substances[^c-c89dd8d8c9d90062306ab7bfbea74b73][^c-32ff7e080dab9f85e9ba54cd27e12484]
 
 (1) Where a polluting substance drifting or floating at sea is seen from a ship in United Kingdom waters or controlled waters, the master of that ship must notify His Majesty’s Coastguard without delay and to the fullest extent possible—
 
@@ -482,7 +482,7 @@ The owner and master must ensure that a ship complies with each requirement in r
 
 ## PART 8 — Control and enforcement
 
-### 31. Offences and penalties: owner and master[^key-fa1d2b119dbae29cc89ee42dbd3f8a85][^key-32ff7e080dab9f85e9ba54cd27e12484]
+### 31. Offences and penalties: owner and master[^c-fa1d2b119dbae29cc89ee42dbd3f8a85][^c-32ff7e080dab9f85e9ba54cd27e12484]
 
 (1) If a ship proceeds or attempts to proceed to sea or on any voyage, or arrives within United Kingdom waters, in breach of any of the requirements in these Regulations, other than regulation 11(2), 12, 15, 16 or 30(1), applicable to or in relation to that ship, the owner and the master are each guilty of an offence in respect of each case of non-compliance.
 
@@ -497,7 +497,7 @@ The owner and master must ensure that a ship complies with each requirement in r
 
 (4) It is a defence for a person charged with an offence under this regulation to prove that the person charged took all reasonable steps to avoid the commission of the offence.
 
-### 32. Offences and penalties: shipper and forwarder[^key-8eb8fdc58ea522fc15bdf4ab296aafee][^key-32ff7e080dab9f85e9ba54cd27e12484]
+### 32. Offences and penalties: shipper and forwarder[^c-8eb8fdc58ea522fc15bdf4ab296aafee][^c-32ff7e080dab9f85e9ba54cd27e12484]
 
 (1) A shipper who fails to comply with—
 
@@ -518,7 +518,7 @@ is guilty of an offence.
 
 (4) It is a defence for a person charged with an offence under this regulation to prove that the person charged took all reasonable steps to avoid the commission of the offence.
 
-### 33. Detention[^key-a845de7811a987c40ab9bfa832d44546][^key-32ff7e080dab9f85e9ba54cd27e12484]
+### 33. Detention[^c-a845de7811a987c40ab9bfa832d44546][^c-32ff7e080dab9f85e9ba54cd27e12484]
 
 (1) For the purposes of this regulation, any reference to “**the Act**” is a reference to the Merchant Shipping Act 1995.
 
@@ -550,7 +550,7 @@ is guilty of an offence.
 
 (9) For the purposes of paragraphs (7) and (8), “**flag administration**” in relation to a ship means the administration of the State whose flag the ship is entitled to fly.
 
-### 34. Review of the Regulations[^key-d52465936f1a9b73d8e36631c08d792f][^key-32ff7e080dab9f85e9ba54cd27e12484]
+### 34. Review of the Regulations[^c-d52465936f1a9b73d8e36631c08d792f][^c-32ff7e080dab9f85e9ba54cd27e12484]
 
 (1) The Secretary of State must from time to time—
 
@@ -596,23 +596,23 @@ Two of the Lords Commissioners of His Majesty’s Treasury
 
 Regulation 2(1)
 
-### 1. The Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997[^key-495fd3849bd521e6f62fdaa82588f316]
+### 1. The Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997[^c-495fd3849bd521e6f62fdaa82588f316]
 
 The Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997[^f00037] are amended as follows.
 
-### 2.[^key-7968284694fff28d227a9ecf0a55bfd5]
+### 2.[^c-7968284694fff28d227a9ecf0a55bfd5]
 
 In regulation 2(1) (interpretation), in the definition of “United Kingdom ship”, omit sub-paragraphs (a), (b) and (d).
 
-### 3.[^key-03c8abb3430d82f1f48f3513f8fe71fe]
+### 3.[^c-03c8abb3430d82f1f48f3513f8fe71fe]
 
 In regulation 5(2) (application), omit “and to other ships while they are within United Kingdom waters”.
 
-### 4. The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^key-e46a530c5b6271f77ca2eac569eb7556]
+### 4. The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^c-e46a530c5b6271f77ca2eac569eb7556]
 
 The Merchant Shipping (Fire Protection: Small Ships) Regulations 1998[^f00038] are amended as follows.
 
-### 5.[^key-44910ccb0cb228a46e7acb226cd8f582]
+### 5.[^c-44910ccb0cb228a46e7acb226cd8f582]
 
 In regulation 1(2)—
 
@@ -628,33 +628,33 @@ In regulation 1(2)—
 
   .
 
-### 6. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^key-5010b3c06a81760eb2475f564dcd2a05]
+### 6. The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^c-5010b3c06a81760eb2475f564dcd2a05]
 
 The Legislative and Regulatory Reform (Regulatory Functions) Order 2007[^f00042] is amended as follows.
 
-### 7.[^key-682635c925d55ca372e59c9e157c21a6]
+### 7.[^c-682635c925d55ca372e59c9e157c21a6]
 
 In the Schedule, in Part 2, in the section “Marine transport”—
 
 - (a) omit “The Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995”;
 - (b) for “Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997” substitute “Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024”.
 
-### 8. The Economic Growth (Regulatory Functions) Order 2017[^key-9d70a3bb9223e80b714cb1de82c7175e]
+### 8. The Economic Growth (Regulatory Functions) Order 2017[^c-9d70a3bb9223e80b714cb1de82c7175e]
 
 The Economic Growth (Regulatory Functions) Order 2017[^f00043] is amended as follows.
 
-### 9.[^key-fd1fc14acb2ee41c8a41861184bde889]
+### 9.[^c-fd1fc14acb2ee41c8a41861184bde889]
 
 In the Schedule, in Part 3, in the section “Marine transport”—
 
 - (a) omit “The Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995”;
 - (b) for “Merchant Shipping (Dangerous Goods and Marine Pollutants) Regulations 1997” substitute “Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024”.
 
-### 10. The Merchant Shipping Fees Regulations 2018[^key-243721babb3b67ca2d5d5f4982efa60e]
+### 10. The Merchant Shipping Fees Regulations 2018[^c-243721babb3b67ca2d5d5f4982efa60e]
 
 The Merchant Shipping (Fees) Regulations 2018[^f00044] are amended as follows.
 
-### 11.[^key-662f5d7cb789d0798af129339217f808]
+### 11.[^c-662f5d7cb789d0798af129339217f808]
 
 In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption)—
 
@@ -700,15 +700,15 @@ In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in parag
 
     .
 
-### 12. The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^key-8d41abd88ab7d56ef0283f14c61fec3d]
+### 12. The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019[^c-8d41abd88ab7d56ef0283f14c61fec3d]
 
 The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 are amended as follows.
 
-### 13.[^key-2aa49e7a106e59374c5fc6b21bf3ac01]
+### 13.[^c-2aa49e7a106e59374c5fc6b21bf3ac01]
 
 In regulation 34(3)(a), for “the Merchant Shipping (Reporting Requirements for Ships Carrying Dangerous or Polluting Goods) Regulations 1995 and the Merchant Shipping (Vessel Traffic Monitoring and Reporting Requirements) Regulations 2004” substitute “the Merchant Shipping (Carriage of Dangerous Goods and Harmful Substances) (Amendment) Regulations 2024”.
 
-## SCHEDULE 2 — Revocations[^key-2046e9c2d4629e134d890b55a59e6df4]
+## SCHEDULE 2 — Revocations[^c-2046e9c2d4629e134d890b55a59e6df4]
 
 Regulation 2(2)
 
@@ -783,13 +783,13 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00007]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7. Section 85 was amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3). Section 306A was inserted by the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), section 106. Sections 85, 86, 128 and 129 are applied to hovercraft by the Hovercraft (Application of Enactments) Order 1989 ([S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350)).
 
-[^key-0a6ce89ec3b087e60c09bf757b53c1ef]: Commencement: Reg. 1 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-0a6ce89ec3b087e60c09bf757b53c1ef]: Commencement: Reg. 1 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-935fe9808984426b3cc15d9ab4504734]: Commencement: Reg. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-935fe9808984426b3cc15d9ab4504734]: Commencement: Reg. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-0fb7fa534a84a9f7b5bbbe787af82e6a]: Commencement: Reg. 3 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-0fb7fa534a84a9f7b5bbbe787af82e6a]: Commencement: Reg. 3 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-2b2fef71bd8cb0f59de447a11726662e]: Modification: [Regs. 3-6](https://www.legislation.gov.uk/uksi/2024/636/regulation/3) extended (with modifications) (16.10.2025) by S.I. 1989/1350, art. 3 (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/f))
+[^c-2b2fef71bd8cb0f59de447a11726662e]: Modification: [Regs. 3-6](https://www.legislation.gov.uk/uksi/2024/636/regulation/3) extended (with modifications) (16.10.2025) by S.I. 1989/1350, art. 3 (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/f))
 
 [^f00008]: Footnote: See the footnote to “MARPOL” for further information. Annex III was revised and replaced by International Maritime Organization (IMO) Resolution MEPC.193(61) and has been further amended by MEPC.246(66) and MEPC.257(67). The amendments to Annex III are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/).
 
@@ -815,95 +815,95 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00019]: Footnote: Cmnd. 7874. SOLAS may be obtained in copy from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database ( https://treaties.fcdo.gov.uk/awweb/pdfopener?md=1&did=79786). SOLAS was modified by its Protocol of 1978 (Cmnd. 8277) ( https://treaties.fcdo.gov.uk/awweb/pdfopener?md=1&did=68013), which was replaced and abrogated by the Protocol of 1988 (Cm 5044) ( https://treaties.fcdo.gov.uk/awweb/pdfopener?md=1&did=69573) with respect to the parties to the 1988 Protocol. The amendments to SOLAS are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign, Commonwealth and Development Office treaties database (https://treaties.fcdo.gov.uk/responsive/app/consolidatedSearch/). Hard copies of the Command Papers are available for inspection free of charge but by appointment at the Parliamentary Archives, Houses of Parliament, London SW1A 0PW. The Parliamentary Archives catalogue numbers for the Command Papers are HL/PO/JO/10/11/2031/2878 (Cmnd 7874), HL/PO/JO/10/11/1959/2032 (Cmnd 8277) and HL/PO/JO/10/11/3156/2280 (Cm 5044).
 
-[^key-3dec0f3a0a95327188587e924baeca50]: Commencement: Reg. 4 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-3dec0f3a0a95327188587e924baeca50]: Commencement: Reg. 4 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-b91f3de5441bac80f6f1f0bb92beb2b5]: Commencement: Reg. 5 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-b91f3de5441bac80f6f1f0bb92beb2b5]: Commencement: Reg. 5 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-c3b9ff57098b14d9a357db805353e474]: Commencement: Reg. 6 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-c3b9ff57098b14d9a357db805353e474]: Commencement: Reg. 6 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-fbb831b546dbfdab42a8b006a6a72992]: Commencement: Reg. 7 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-fbb831b546dbfdab42a8b006a6a72992]: Commencement: Reg. 7 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-e8e82c316a9a9e815a91073b0ddc4972]: Commencement: Reg. 8 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-e8e82c316a9a9e815a91073b0ddc4972]: Commencement: Reg. 8 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-6b10ce42c3d2e8a0e9cfeb307d2dcebe]: Modification: [Regs. 8-12](https://www.legislation.gov.uk/uksi/2024/636/regulation/8) extended (with modifications) (16.10.2025) by S.I. 1989/1350, art. 3 (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/f))
+[^c-6b10ce42c3d2e8a0e9cfeb307d2dcebe]: Modification: [Regs. 8-12](https://www.legislation.gov.uk/uksi/2024/636/regulation/8) extended (with modifications) (16.10.2025) by S.I. 1989/1350, art. 3 (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/f))
 
 [^f00020]: Footnote: The circumstances in which the approval of the Secretary of State is required in relation to United Kingdom ships are set out in Marine Guidance Note 697(M); this is available on www.gov.uk/topic/ships-cargoes/m-notices and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-c16ffb77e84d67425ef9c0e5ec331e7c]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2024/636/regulation/8/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/25) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-c16ffb77e84d67425ef9c0e5ec331e7c]: Textual amendment: Word in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2024/636/regulation/8/2) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/25) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-8e104fb0a5b7e8c3d32077f547c73b84]: Commencement: Reg. 9 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-8e104fb0a5b7e8c3d32077f547c73b84]: Commencement: Reg. 9 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-c35b41c44f3000002fb0ed4ef215c578]: Commencement: Reg. 10 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-c35b41c44f3000002fb0ed4ef215c578]: Commencement: Reg. 10 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00022]: Footnote: Regulation 3 of Chapter VII and regulations 2 to 6 of Annex III require the carriage of packaged goods to comply with the relevant provisions of the IMDG Code.
 
-[^key-35e972462498c51e71a0034430588d0f]: Commencement: Reg. 11 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-35e972462498c51e71a0034430588d0f]: Commencement: Reg. 11 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-d96ec5e6d04c4ef9d0e8e6aaae113f07]: Commencement: Reg. 12 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-d96ec5e6d04c4ef9d0e8e6aaae113f07]: Commencement: Reg. 12 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-497ecf35ef928a52da024e38fae275f5]: Commencement: Reg. 13 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-497ecf35ef928a52da024e38fae275f5]: Commencement: Reg. 13 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-286cfa3a1009b96d54057aee5423e52d]: Commencement: Reg. 14 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-286cfa3a1009b96d54057aee5423e52d]: Commencement: Reg. 14 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00023]: Footnote: Regulation 7-5 of Chapter VII requires the carriage of dangerous goods in solid form in bulk to comply with the relevant provisions of the IMSBC Code.
 
-[^key-a8d8eb02f54fd10eb39638f2c726a6bb]: Commencement: Reg. 15 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-a8d8eb02f54fd10eb39638f2c726a6bb]: Commencement: Reg. 15 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-dab22590bc5efecc7f9458e16a94bf12]: Commencement: Reg. 16 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-dab22590bc5efecc7f9458e16a94bf12]: Commencement: Reg. 16 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-e0de76407c42e1b62a09b3c9291d190a]: Commencement: Reg. 17 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-e0de76407c42e1b62a09b3c9291d190a]: Commencement: Reg. 17 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-12e92ce916591b8eb94c9262455c2be1]: Commencement: Reg. 18 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-12e92ce916591b8eb94c9262455c2be1]: Commencement: Reg. 18 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-053c5d1cad26658b738cb00d3004df99]: Commencement: Reg. 19 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-053c5d1cad26658b738cb00d3004df99]: Commencement: Reg. 19 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00024]: Footnote: Regulation 10.1 of Chapter VII requires a chemical tanker to comply with the requirements of the International Bulk Chemical Code.
 
-[^key-6764b854a22a673f6da7aa83b5e223b9]: Commencement: Reg. 20 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-6764b854a22a673f6da7aa83b5e223b9]: Commencement: Reg. 20 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00025]: Footnote: The requirements for the survey and certification of chemical tankers are set out in Chapter 1, paragraph 1.5 of the International Bulk Chemical Code.
 
 [^f00026]: Footnote: A certificate may be issued following the completion of an initial or renewal survey in accordance with paragraphs 1.5.2.1.1 or 1.5.2.1.2 of the International Bulk Chemical Code. A certificate may be endorsed following the completion of an intermediate or annual survey in accordance with paragraphs 1.5.2.1.3 or 1.5.2.1.4 of the Code.
 
-[^key-85933092d12f51a64f3d972008eb8c81]: Commencement: Reg. 21 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-85933092d12f51a64f3d972008eb8c81]: Commencement: Reg. 21 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-268b11378f914d6085c3dba1511bde77]: Commencement: Reg. 22 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-268b11378f914d6085c3dba1511bde77]: Commencement: Reg. 22 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-7560e5955d48a16418871787ed2268e4]: Commencement: Reg. 23 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-7560e5955d48a16418871787ed2268e4]: Commencement: Reg. 23 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00027]: Footnote: Regulation 13 of Chapter VII requires a gas carrier to comply with the requirements of the International Gas Carrier Code.
 
-[^key-43b3ce27c682867976f6b59a6145a298]: Commencement: Reg. 24 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-43b3ce27c682867976f6b59a6145a298]: Commencement: Reg. 24 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00028]: Footnote: The requirements for the survey and certification of gas carriers are set out in Chapter 1, paragraph 1.4 of the International Gas Carrier Code.
 
 [^f00029]: Footnote: A certificate may be issued following the completion of an initial or renewal survey in accordance with paragraphs 1.4.2.1 or 1.4.2.2 of the International Gas Carrier Code. A certificate may be endorsed following the completion of an intermediate or annual survey in accordance with paragraphs 1.4.2.3 or 1.4.2.4 of the Code.
 
-[^key-99be54aef3cf1b8e12b1735ea3d4629d]: Commencement: Reg. 25 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-99be54aef3cf1b8e12b1735ea3d4629d]: Commencement: Reg. 25 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-fbeff57feb4c739e630d134e6185db41]: Commencement: Reg. 26 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-fbeff57feb4c739e630d134e6185db41]: Commencement: Reg. 26 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00030]: Footnote: Regulation 16 of Chapter VII requires a ship to comply with the requirements of the INF Code.
 
-[^key-0ccb247e4d8f113ea88126ec296bad02]: Commencement: Reg. 27 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-0ccb247e4d8f113ea88126ec296bad02]: Commencement: Reg. 27 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00031]: Footnote: The requirements for the survey and certification of ships carrying INF cargo are set out in Chapter 1, paragraph 1.3 of the INF Code.
 
 [^f00032]: Footnote: A certificate may be issued following the completion of an initial or renewal survey in accordance with paragraph 1.3.2 or by virtue of paragraph 1.3.3 of the INF Code. A certificate may be endorsed following the completion of an intermediate or annual survey by virtue of paragraph 1.3.3 of the Code.
 
-[^key-039408b4e417c0620505ac0e248b7d14]: Commencement: Reg. 28 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-039408b4e417c0620505ac0e248b7d14]: Commencement: Reg. 28 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-32ff7e080dab9f85e9ba54cd27e12484]: Modification: [Regs. 28-34](https://www.legislation.gov.uk/uksi/2024/636/regulation/28) extended (with modifications) (16.10.2025) by S.I. 1989/1350, art. 3 (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/f))
+[^c-32ff7e080dab9f85e9ba54cd27e12484]: Modification: [Regs. 28-34](https://www.legislation.gov.uk/uksi/2024/636/regulation/28) extended (with modifications) (16.10.2025) by S.I. 1989/1350, art. 3 (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(3)(e)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/e)[(f)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/3/f))
 
-[^key-335389d39011ef3964ba667117f514dc]: Commencement: Reg. 29 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-335389d39011ef3964ba667117f514dc]: Commencement: Reg. 29 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-c89dd8d8c9d90062306ab7bfbea74b73]: Commencement: Reg. 30 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-c89dd8d8c9d90062306ab7bfbea74b73]: Commencement: Reg. 30 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-fa1d2b119dbae29cc89ee42dbd3f8a85]: Commencement: Reg. 31 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-fa1d2b119dbae29cc89ee42dbd3f8a85]: Commencement: Reg. 31 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-8eb8fdc58ea522fc15bdf4ab296aafee]: Commencement: Reg. 32 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-8eb8fdc58ea522fc15bdf4ab296aafee]: Commencement: Reg. 32 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-a845de7811a987c40ab9bfa832d44546]: Commencement: Reg. 33 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-a845de7811a987c40ab9bfa832d44546]: Commencement: Reg. 33 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00033]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
@@ -911,23 +911,23 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00035]: Footnote: Section 95 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28).
 
-[^key-d52465936f1a9b73d8e36631c08d792f]: Commencement: Reg. 34 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-d52465936f1a9b73d8e36631c08d792f]: Commencement: Reg. 34 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00036]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 28(4) was amended by the Advanced Research and Invention Agency Act [2022 (c. 4)](https://www.legislation.gov.uk/ukpga/2022/4), section 9, Schedule 3, paragraphs 7 and 11. Section 29(5) was amended by the Retained EU Law (Revocation and Reform) Act [2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), section 18(2) and (3). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19 and the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), Schedule 8, Part 2, paragraph 36.
 
-[^key-495fd3849bd521e6f62fdaa82588f316]: Commencement: Sch. 1 para. 1 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-495fd3849bd521e6f62fdaa82588f316]: Commencement: Sch. 1 para. 1 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00037]: Footnote: [S.I. 1997/2367](https://www.legislation.gov.uk/uksi/1997/2367), amended by [S.I. 2004/2110](https://www.legislation.gov.uk/uksi/2004/2110) and [2011/2616](https://www.legislation.gov.uk/uksi/2011/2616). The definition of “United Kingdom ship” in regulation 2(1) was also amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3).
 
-[^key-7968284694fff28d227a9ecf0a55bfd5]: Commencement: Sch. 1 para. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-7968284694fff28d227a9ecf0a55bfd5]: Commencement: Sch. 1 para. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-03c8abb3430d82f1f48f3513f8fe71fe]: Commencement: Sch. 1 para. 3 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-03c8abb3430d82f1f48f3513f8fe71fe]: Commencement: Sch. 1 para. 3 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-e46a530c5b6271f77ca2eac569eb7556]: Commencement: Sch. 1 para. 4 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-e46a530c5b6271f77ca2eac569eb7556]: Commencement: Sch. 1 para. 4 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00038]: Footnote: [S.I. 1998/1011](https://www.legislation.gov.uk/uksi/1998/1011), amended by [S.I. 1999/992](https://www.legislation.gov.uk/uksi/1999/992). There are other amendments but none is relevant.
 
-[^key-44910ccb0cb228a46e7acb226cd8f582]: Commencement: Sch. 1 para. 5 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-44910ccb0cb228a46e7acb226cd8f582]: Commencement: Sch. 1 para. 5 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00039]: Footnote: See the footnote for the definition of “International Bulk Chemical Code” in regulation 3.
 
@@ -935,28 +935,28 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00041]: Footnote: See the footnote for the definition of “IMDG Code” in regulation 3.
 
-[^key-5010b3c06a81760eb2475f564dcd2a05]: Commencement: Sch. 1 para. 6 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-5010b3c06a81760eb2475f564dcd2a05]: Commencement: Sch. 1 para. 6 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00042]: Footnote: [S.I. 2007/3544](https://www.legislation.gov.uk/uksi/2007/3544), to which there are amendments not relevant to these Regulations.
 
-[^key-682635c925d55ca372e59c9e157c21a6]: Commencement: Sch. 1 para. 7 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-682635c925d55ca372e59c9e157c21a6]: Commencement: Sch. 1 para. 7 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-9d70a3bb9223e80b714cb1de82c7175e]: Commencement: Sch. 1 para. 8 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-9d70a3bb9223e80b714cb1de82c7175e]: Commencement: Sch. 1 para. 8 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00043]: Footnote: [S.I. 2017/267](https://www.legislation.gov.uk/uksi/2017/267), to which there are amendments not relevant to these Regulations.
 
-[^key-fd1fc14acb2ee41c8a41861184bde889]: Commencement: Sch. 1 para. 9 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-fd1fc14acb2ee41c8a41861184bde889]: Commencement: Sch. 1 para. 9 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-243721babb3b67ca2d5d5f4982efa60e]: Commencement: Sch. 1 para. 10 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-243721babb3b67ca2d5d5f4982efa60e]: Commencement: Sch. 1 para. 10 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00044]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 
-[^key-662f5d7cb789d0798af129339217f808]: Commencement: Sch. 1 para. 11 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-662f5d7cb789d0798af129339217f808]: Commencement: Sch. 1 para. 11 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
 [^f00045]: Footnote: [S.I. 2019/42](https://www.legislation.gov.uk/uksi/2019/42), to which there are amendments not relevant to these Regulations.
 
-[^key-8d41abd88ab7d56ef0283f14c61fec3d]: Commencement: Sch. 1 para. 12 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-8d41abd88ab7d56ef0283f14c61fec3d]: Commencement: Sch. 1 para. 12 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-2aa49e7a106e59374c5fc6b21bf3ac01]: Commencement: Sch. 1 para. 13 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-2aa49e7a106e59374c5fc6b21bf3ac01]: Commencement: Sch. 1 para. 13 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
 
-[^key-2046e9c2d4629e134d890b55a59e6df4]: Commencement: Sch. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)
+[^c-2046e9c2d4629e134d890b55a59e6df4]: Commencement: Sch. 2 in force at 11.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/636/regulation/1/1)

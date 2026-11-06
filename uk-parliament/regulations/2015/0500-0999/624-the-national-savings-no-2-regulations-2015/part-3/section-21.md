@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Conversion[^key-07ca015420827516cd2a7d37bcfddba4]
+## 21. Conversion[^c-07ca015420827516cd2a7d37bcfddba4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Stock may be converted into or exchanged for stock of another description under 
 
 ## Annotations
 
-[^key-07ca015420827516cd2a7d37bcfddba4]: Commencement: Reg. 21 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-07ca015420827516cd2a7d37bcfddba4]: Commencement: Reg. 21 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

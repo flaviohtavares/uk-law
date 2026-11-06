@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Any of the following instruments under any of the provisions of this Act, that is to say an order under section 9, 10, 11, 27B, 27D, 27F, 27H, 27J or 27L[^key-df749c91fc02b05aa3f5d457cb7885a6], regulations or an order under section 67 or an order under section 198, 200, 201 or 254 may contain provisions as to the transfer of any person who is, on such date as may be specified in relation to him in the order or by or under the regulations, the holder of any office or employment and who is affected by any provision of, or of any instrument made under, this Act and shall contain provision for the protection of the interests of such persons.
+(1) Any of the following instruments under any of the provisions of this Act, that is to say an order under section 9, 10, 11, 27B, 27D, 27F, 27H, 27J or 27L[^c-df749c91fc02b05aa3f5d457cb7885a6], regulations or an order under section 67 or an order under section 198, 200, 201 or 254 may contain provisions as to the transfer of any person who is, on such date as may be specified in relation to him in the order or by or under the regulations, the holder of any office or employment and who is affected by any provision of, or of any instrument made under, this Act and shall contain provision for the protection of the interests of such persons.
 
 (2) In the case of any person who on 31st March 1974 is in the employment of one or more local authorities who are or include a council or municipal corporation which ceases to exist by virtue of section 1 or 20 above, the Secretary of State shall by order make such provision as is necessary to ensure that, to the extent, if any, to which, by reason only of the said section 1 or 20, that person would apart from the order cease on 1st April 1974 to be in such employment, that person is transferred on 1st April 1974 to the employment of such local authority as may be specified in or determined under the order.
 
@@ -46,4 +46,4 @@ as they apply in relation to a local authority who are a council which ceases to
 
 ## Annotations
 
-[^key-df749c91fc02b05aa3f5d457cb7885a6]: Textual amendment: Words in s. 255(1) substituted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 114(1)(c)](https://www.legislation.gov.uk/mwa/2011/4/section/114/1/c), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))
+[^c-df749c91fc02b05aa3f5d457cb7885a6]: Textual amendment: Words in s. 255(1) substituted (10.7.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 114(1)(c)](https://www.legislation.gov.uk/mwa/2011/4/section/114/1/c), [178(2)](https://www.legislation.gov.uk/mwa/2011/4/section/178/2) (with [s. 115](https://www.legislation.gov.uk/mwa/2011/4/section/115))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.185. Enforced delivery up of company's property[^key-79596464f2914187586ede907cccded6]
+## 4.185. Enforced delivery up of company's property[^c-79596464f2914187586ede907cccded6]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79596464f2914187586ede907cccded6]: Commencement: [Rule 4.185](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.185) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-79596464f2914187586ede907cccded6]: Commencement: [Rule 4.185](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.185) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

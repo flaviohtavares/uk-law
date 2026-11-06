@@ -30,7 +30,7 @@ summary: ''
 
 (2) Where a censure of suspension or inhibition has been pronounced against any person, he shall not be readmitted to his benefice or permitted to exercise the functions of his order unless he satisfies the bishop (or, where the person is himself a bishop, the Upper House of the Convocation of the relevant province) of his good conduct during the term of his suspension or inhibition.
 
-(3) In proceedings under this Measure[^key-1beff38d1c645fca6cafa5ea86f57f1c] no censure more severe than monition shall be imposed unless the Court is satisfied that the accused has already been admonished on a previous occasion in respect of another offence of the same or substantially the same nature.
+(3) In proceedings under this Measure[^c-1beff38d1c645fca6cafa5ea86f57f1c] no censure more severe than monition shall be imposed unless the Court is satisfied that the accused has already been admonished on a previous occasion in respect of another offence of the same or substantially the same nature.
 
 (4) No censure of deprivation on any archbishop or bishop or on any person in respect of any preferment the right to appoint to which is vested in Her Majesty (not being a parochial benefice) shall have effect unless and until Her Majesty by order in Council shall confirm the same.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1beff38d1c645fca6cafa5ea86f57f1c]: Textual amendment: Words in [s. 49(3)](https://www.legislation.gov.uk/ukcm/1963/1/section/49/3) substituted (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/7) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops
+[^c-1beff38d1c645fca6cafa5ea86f57f1c]: Textual amendment: Words in [s. 49(3)](https://www.legislation.gov.uk/ukcm/1963/1/section/49/3) substituted (1.1.2006) by [Clergy Discipline Measure 2003 (No. 3)](https://www.legislation.gov.uk/ukcm/2003/3), [s. 48(2)](https://www.legislation.gov.uk/ukcm/2003/3/section/48/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/ukcm/2003/3/schedule/1/paragraph/7) (with [s. 47](https://www.legislation.gov.uk/ukcm/2003/3/section/47)); [S.I. 2005/6](https://www.legislation.gov.uk/ukci/2005/6), Instrument made by Archbishops

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Grants for dependants - calculations[^key-6e85c326e7db9d7d93cf019ad3202b54]
+## 29. Grants for dependants - calculations[^c-6e85c326e7db9d7d93cf019ad3202b54]
 
 *Extent: E+W*
 
@@ -36,12 +36,12 @@ summary: ''
 
 **B** is—
 
-- (a) £1,235[^key-a841ae836fc155e90ab383d45fa77e25] where the eligible student has no dependent child;
-- (b) £3,700[^key-65cbf8666eb71a8a88c837172d3fb5a9] where the eligible student is not a lone parent and has one dependent child;
-- (c) £4,934[^key-94d457a252528f1d2c4eea0b821aeff8] where the eligible student—
+- (a) £1,235[^c-a841ae836fc155e90ab383d45fa77e25] where the eligible student has no dependent child;
+- (b) £3,700[^c-65cbf8666eb71a8a88c837172d3fb5a9] where the eligible student is not a lone parent and has one dependent child;
+- (c) £4,934[^c-94d457a252528f1d2c4eea0b821aeff8] where the eligible student—
   - (i) is not a lone parent and has more than one dependent child; or
   - (ii) is a lone parent and has one dependent child; and
-- (d) £6,175[^key-6560a0f6a2795bbc7cf630e786f86247] where the eligible student is a lone parent and has more than one dependent child.
+- (d) £6,175[^c-6560a0f6a2795bbc7cf630e786f86247] where the eligible student is a lone parent and has more than one dependent child.
 
 (3) Where the Welsh Ministers are satisfied that the net income of the eligible student’s dependent children in the financial year beginning immediately before the relevant year (“the current financial year”) is likely to be not more than 85 per cent of the sterling value of their net income in the prior financial year the Welsh Ministers may, for the purpose of enabling the eligible student to attend the course without hardship, ascertain the dependent children’s net income for the current financial year.
 
@@ -67,7 +67,7 @@ summary: ''
   - (ii) holds a statutory award; and
 - (b) account is taken of that partner’s dependants in calculating the amount of support for which that partner qualifies or the payment to which that partner is entitled under the statutory award.
 
-(10) Where the amount of the parents’ learning allowance calculated under paragraph (1) is £0.01 or more but less than £54[^key-629c9e8c3023908a0bd17d5fa351a33f], the amount of parents’ learning allowance payable is £54.
+(10) Where the amount of the parents’ learning allowance calculated under paragraph (1) is £0.01 or more but less than £54[^c-629c9e8c3023908a0bd17d5fa351a33f], the amount of parents’ learning allowance payable is £54.
 
 (11) Paragraphs (12) to (15) apply where, in the course of the academic year, any of the following occurs—
 
@@ -95,14 +95,14 @@ summary: ''
 
 ## Annotations
 
-[^key-6e85c326e7db9d7d93cf019ad3202b54]: Commencement: Reg. 29 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-6e85c326e7db9d7d93cf019ad3202b54]: Commencement: Reg. 29 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
 
-[^key-a841ae836fc155e90ab383d45fa77e25]: Textual amendment: Sum in [reg. 29(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(a)(i)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/a/i)
+[^c-a841ae836fc155e90ab383d45fa77e25]: Textual amendment: Sum in [reg. 29(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(a)(i)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/a/i)
 
-[^key-65cbf8666eb71a8a88c837172d3fb5a9]: Textual amendment: Sum in [reg. 29(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(a)(ii)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/a/ii)
+[^c-65cbf8666eb71a8a88c837172d3fb5a9]: Textual amendment: Sum in [reg. 29(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(a)(ii)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/a/ii)
 
-[^key-94d457a252528f1d2c4eea0b821aeff8]: Textual amendment: Sum in [reg. 29(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(a)(iii)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/a/iii)
+[^c-94d457a252528f1d2c4eea0b821aeff8]: Textual amendment: Sum in [reg. 29(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(a)(iii)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/a/iii)
 
-[^key-6560a0f6a2795bbc7cf630e786f86247]: Textual amendment: Sum in [reg. 29(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(a)(iv)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/a/iv)
+[^c-6560a0f6a2795bbc7cf630e786f86247]: Textual amendment: Sum in [reg. 29(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/2) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(a)(iv)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/a/iv)
 
-[^key-629c9e8c3023908a0bd17d5fa351a33f]: Textual amendment: Sum in [reg. 29(10)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/10) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(b)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/b)
+[^c-629c9e8c3023908a0bd17d5fa351a33f]: Textual amendment: Sum in [reg. 29(10)](https://www.legislation.gov.uk/wsi/2017/47/regulation/29/10) substituted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [16(b)](https://www.legislation.gov.uk/wsi/2026/11/regulation/16/b)

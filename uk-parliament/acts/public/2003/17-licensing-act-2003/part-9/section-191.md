@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In this Act, “**alcohol**” means spirits, wine, beer, cider or any other fermented, distilled or spirituous liquor (in any state)[^key-1b62cb5e1dd41abdb4208c5dd1403e31], but does not include—
+(1) In this Act, “**alcohol**” means spirits, wine, beer, cider or any other fermented, distilled or spirituous liquor (in any state)[^c-1b62cb5e1dd41abdb4208c5dd1403e31], but does not include—
 
 - (a) alcohol which is of a strength not exceeding 0.5% at the time of the sale or supply in question,
 - (b) perfume,
@@ -45,7 +45,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1b62cb5e1dd41abdb4208c5dd1403e31]: Textual amendment: Words in s. 191(1) inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 135](https://www.legislation.gov.uk/ukpga/2017/3/section/135), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/a)
+[^c-1b62cb5e1dd41abdb4208c5dd1403e31]: Textual amendment: Words in s. 191(1) inserted (31.1.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 135](https://www.legislation.gov.uk/ukpga/2017/3/section/135), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/a)
 
 [^c21000891]: Textual amendment: Words in s. 191(1)(e) inserted (1.10.2006) by [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 44(3)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/44/3), [Sch. 9 Pt. 1 para. 13(a)](https://www.legislation.gov.uk/uksi/2006/2407/schedule/9/part/1/paragraph/13/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
 

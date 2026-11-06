@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Local authority powers in relation to partly completed work[^key-5b3e7f7951002e6de8307e22eb507a42]
+## 17. Local authority powers in relation to partly completed work[^c-5b3e7f7951002e6de8307e22eb507a42]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b3e7f7951002e6de8307e22eb507a42]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2024/1268/regulation/17) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-5b3e7f7951002e6de8307e22eb507a42]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2024/1268/regulation/17) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

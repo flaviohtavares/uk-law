@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32A. Licences under Part 1A[^key-d7e6b9123adebb72447e973f9c48c06c]
+## 32A. Licences under Part 1A[^c-d7e6b9123adebb72447e973f9c48c06c]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7e6b9123adebb72447e973f9c48c06c]: Textual amendment: S. 32A and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-d7e6b9123adebb72447e973f9c48c06c]: Textual amendment: S. 32A and cross-heading inserted (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 63(2)](https://www.legislation.gov.uk/asp/2014/14/section/63/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

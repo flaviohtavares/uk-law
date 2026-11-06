@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.8. Request for information about a case[^key-c093b1f5745cbea9dbcc9f596320314f]
+## 5.8. Request for information about a case[^c-c093b1f5745cbea9dbcc9f596320314f]
 
 *Extent: E+W*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c093b1f5745cbea9dbcc9f596320314f]: Commencement: [Rule 5.8](https://www.legislation.gov.uk/uksi/2025/909/rule/5.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-c093b1f5745cbea9dbcc9f596320314f]: Commencement: [Rule 5.8](https://www.legislation.gov.uk/uksi/2025/909/rule/5.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

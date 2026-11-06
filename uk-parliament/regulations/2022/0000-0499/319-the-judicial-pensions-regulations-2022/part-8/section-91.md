@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Stopping payment and recovery of pensions paid under this Part[^key-db5efbd58cb7a65dc44d72e5c0bb0ada]
+## 91. Stopping payment and recovery of pensions paid under this Part[^c-db5efbd58cb7a65dc44d72e5c0bb0ada]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db5efbd58cb7a65dc44d72e5c0bb0ada]: Commencement: Reg. 91 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-db5efbd58cb7a65dc44d72e5c0bb0ada]: Commencement: Reg. 91 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

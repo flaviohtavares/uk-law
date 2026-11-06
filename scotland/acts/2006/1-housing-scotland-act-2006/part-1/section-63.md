@@ -57,7 +57,7 @@ has effect from the date set out in subsection (5).
 
 (8) References in this section to the date on which an appeal is finally determined are to be read as references—
 
-- (a) where the sheriff's determination or Upper Tribunal’s decision[^key-a0539b55b817b6ad2d72c5202b8ff156] on the appeal is final, to the date on which the sheriff or Upper Tribunal[^key-652d173789891dd47159dfdb402bd4f9] determines the appeal,
+- (a) where the sheriff's determination or Upper Tribunal’s decision[^c-a0539b55b817b6ad2d72c5202b8ff156] on the appeal is final, to the date on which the sheriff or Upper Tribunal[^c-652d173789891dd47159dfdb402bd4f9] determines the appeal,
 - (b) where the sheriff's determination may be appealed to the sheriff principal—
   - (i) to the last date on which such an appeal may be made, or
   - (ii) where such an appeal is made, to the date on which the appeal is abandoned or determined by the sheriff principal.
@@ -68,6 +68,6 @@ has effect from the date set out in subsection (5).
 
 [^c1911104]: Commencement: S. 63 wholly in force at 3.9.2007; s. 63 not in force at Royal Assent see s. 195(3); s. 63(1) in force at 4.12.2006 by [S.S.I. 2006/569](https://www.legislation.gov.uk/ssi/2006/569), [art. 2](https://www.legislation.gov.uk/ssi/2006/569/article/2); s. 63(2)-(9) in force at 3.9.2007 by [S.S.I. 2007/270](https://www.legislation.gov.uk/ssi/2007/270), {art. 3 Table}
 
-[^key-a0539b55b817b6ad2d72c5202b8ff156]: Textual amendment: Words in s. 63(8)(a) inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 6(13)(a)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6/13/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-a0539b55b817b6ad2d72c5202b8ff156]: Textual amendment: Words in s. 63(8)(a) inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 6(13)(a)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6/13/a) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
 
-[^key-652d173789891dd47159dfdb402bd4f9]: Textual amendment: Words in s. 63(8)(a) inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 6(13)(b)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6/13/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))
+[^c-652d173789891dd47159dfdb402bd4f9]: Textual amendment: Words in s. 63(8)(a) inserted (1.12.2016) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Private Rented Housing Committees) Regulations 2016 (S.S.I. 2016/337)](https://www.legislation.gov.uk/ssi/2016/337), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/337/regulation/1/2), [sch. 2 para. 6(13)(b)](https://www.legislation.gov.uk/ssi/2016/337/schedule/2/paragraph/6/13/b) (with [sch. 1](https://www.legislation.gov.uk/ssi/2016/337/schedule/1))

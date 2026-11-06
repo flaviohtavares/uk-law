@@ -22,17 +22,17 @@ summary: ''
 
 Article 3
 
-### 1. Capital Gains Tax Regulations 1967[^key-4717120c7d1d57ebd1c18b2b18cca99c]
+### 1. Capital Gains Tax Regulations 1967[^c-4717120c7d1d57ebd1c18b2b18cca99c]
 
 The Capital Gains Tax Regulations 1967[^f00189] are amended as follows.
 
-**2.**[^key-d723c1028102446050a4018ad9018fde] (1) Regulation 2(1) (interpretation) is amended as follows.
+**2.**[^c-d723c1028102446050a4018ad9018fde] (1) Regulation 2(1) (interpretation) is amended as follows.
 
 (2) Omit the definition of “Commissioners”.
 
 (3) Omit the definition of “references to the Income Tax Management Act 1964”.
 
-**3.**[^key-98a80bd034776dc87af53e6cdae0387c] (1) Regulation 8 (joinder of third parties in appeals) is amended as follows.
+**3.**[^c-98a80bd034776dc87af53e6cdae0387c] (1) Regulation 8 (joinder of third parties in appeals) is amended as follows.
 
 (2) In paragraph (2) for “the inspector” substitute “an officer of Revenue and Customs”.
 
@@ -46,7 +46,7 @@ The Capital Gains Tax Regulations 1967[^f00189] are amended as follows.
 
 .
 
-**4.**[^key-8b2bbabe9bd66aeac047532f1c619a0e] (1) Regulation 9 (applications for determination of market value) is amended as follows.
+**4.**[^c-8b2bbabe9bd66aeac047532f1c619a0e] (1) Regulation 9 (applications for determination of market value) is amended as follows.
 
 (2) In paragraph (1) for “Commissioners” substitute “tribunal”.
 
@@ -60,7 +60,7 @@ The Capital Gains Tax Regulations 1967[^f00189] are amended as follows.
 
 (7) In paragraph (6) for “(5)” substitute “(4)”.
 
-**5.**[^key-e84dc2fa95c1ebc4604782b0eb293521] (1) Regulation 12 (agreements in writing of market value or apportionment) is amended as follows.
+**5.**[^c-e84dc2fa95c1ebc4604782b0eb293521] (1) Regulation 12 (agreements in writing of market value or apportionment) is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -69,9 +69,9 @@ The Capital Gains Tax Regulations 1967[^f00189] are amended as follows.
 
 (3) In paragraph (2) for “the inspector or any other” substitute “an”.
 
-**6.**[^key-daca7cb98c13976eb8624a71b3466e9d] Omit regulation 17.
+**6.**[^c-daca7cb98c13976eb8624a71b3466e9d] Omit regulation 17.
 
-### 7. Income Tax (Life Assurance Premium Relief) Regulations 1978[^key-e716789fe2fe7d93f632e2f13ce60848]
+### 7. Income Tax (Life Assurance Premium Relief) Regulations 1978[^c-e716789fe2fe7d93f632e2f13ce60848]
 
 (1) Regulation 10 of the Income Tax (Life Assurance Premium Relief) Regulations 1978[^f00190] (deficiency claims: supplemental provision) is amended as follows.
 
@@ -79,7 +79,7 @@ The Capital Gains Tax Regulations 1967[^f00189] are amended as follows.
 
 (3) In paragraph (5) for “the Special Commissioners” substitute “that is notified to the tribunal, the tribunal”.
 
-### 8. Oil Taxation (Gas Banking Scheme) Regulations 1982[^key-e19b0467101f7287aeb20724f5d53f80]
+### 8. Oil Taxation (Gas Banking Scheme) Regulations 1982[^c-e19b0467101f7287aeb20724f5d53f80]
 
 (1) Regulation 7 of the Oil Taxation (Gas Banking Scheme) Regulations 1982[^f00191] (appeals) is amended as follows.
 
@@ -96,27 +96,27 @@ The Capital Gains Tax Regulations 1967[^f00189] are amended as follows.
 
 .
 
-### 9. Income Tax (Interest Relief) Regulations 1982[^key-2a59c974a2b77a21a642c5c54d4713f1]
+### 9. Income Tax (Interest Relief) Regulations 1982[^c-2a59c974a2b77a21a642c5c54d4713f1]
 
 The Income Tax (Interest Relief) Regulations 1982[^f00193] are amended as follows
 
-**10.**[^key-a956b7365159f926352f0b269a92fdcf] (1) Regulation 14 (lender’s claims: supplementary provisions) is amended as follows.
+**10.**[^c-a956b7365159f926352f0b269a92fdcf] (1) Regulation 14 (lender’s claims: supplementary provisions) is amended as follows.
 
 (2) In paragraph (3) for “shall lie to the Special Commissioners from” substitute “may be made against”.
 
 (3) In paragraph (5) for “the Special Commissioners” substitute “that is notified to the tribunal, the tribunal”.
 
-**11.**[^key-a6f2ab3c36935cb86311f4f2c12fc59d] (1) Regulation 19 (borrower’s appeals: supplementary provisions) is amended as follows.
+**11.**[^c-a6f2ab3c36935cb86311f4f2c12fc59d] (1) Regulation 19 (borrower’s appeals: supplementary provisions) is amended as follows.
 
 (2) Omit paragraph (1).
 
 (3) In paragraph (3) for “the General or Special Commissioners” substitute “that is notified to the tribunal, the tribunal”.
 
-### 12. Stamp Duty Reserve Tax Regulations 1986[^key-8ac0ad8af3232a6d12e480b6116a7d55]
+### 12. Stamp Duty Reserve Tax Regulations 1986[^c-8ac0ad8af3232a6d12e480b6116a7d55]
 
 The Stamp Duty Reserve Tax Regulations 1986[^f00194] are amended as follows.
 
-**13.**[^key-04d92e70366dd3ad0056f48e49a2da6a] (1) Regulation 2 (interpretation) is amended as follows.
+**13.**[^c-04d92e70366dd3ad0056f48e49a2da6a] (1) Regulation 2 (interpretation) is amended as follows.
 
 (2) Omit the definitions of “General Commissioners” and “Special Commissioners”.
 
@@ -132,7 +132,7 @@ The Stamp Duty Reserve Tax Regulations 1986[^f00194] are amended as follows.
 
 .
 
-**14.**[^key-c156ee8575aa5205ed07b37e454eee86] (1) Regulation 8 (appeals against determination)[^f00195] is amended as follows.
+**14.**[^c-c156ee8575aa5205ed07b37e454eee86] (1) Regulation 8 (appeals against determination)[^f00195] is amended as follows.
 
 (2) For paragraph (2) substitute—
 
@@ -166,7 +166,7 @@ The Stamp Duty Reserve Tax Regulations 1986[^f00194] are amended as follows.
 - (a) for “The Special Commissioners shall on an appeal to them” substitute “On an appeal that is notified to the tribunal, the tribunal shall”; and
 - (b) omit “they are”.
 
-**15.**[^key-53e8400a4ab59eec1428a1e73b816a71] For regulation 9 substitute—
+**15.**[^c-53e8400a4ab59eec1428a1e73b816a71] For regulation 9 substitute—
 
 > **9. Late notice of appeal**
 >
@@ -194,9 +194,9 @@ The Stamp Duty Reserve Tax Regulations 1986[^f00194] are amended as follows.
 
 .
 
-**16.**[^key-98b7979bb3aab835087402a1c8dc6dd8] Omit regulation 10.
+**16.**[^c-98b7979bb3aab835087402a1c8dc6dd8] Omit regulation 10.
 
-**17.**[^key-effe468025d58fcae0197eefbf002549] (1) The Table in Part I of the Schedule (which applies the provisions of the Taxes Management Act 1970 specified in the first column of that Table, subject to any modification specified in the second column of that Table)[^f00197] is amended as follows.
+**17.**[^c-effe468025d58fcae0197eefbf002549] (1) The Table in Part I of the Schedule (which applies the provisions of the Taxes Management Act 1970 specified in the first column of that Table, subject to any modification specified in the second column of that Table)[^f00197] is amended as follows.
 
 (2) Omit the entries in both columns for section 46A.
 
@@ -222,9 +222,9 @@ The Stamp Duty Reserve Tax Regulations 1986[^f00194] are amended as follows.
 
 (10) In the entry for section 118(2) in the second column for “Before the word “Commissioners” insert “Special”; and after” substitute “After”.
 
-**18.**[^key-9806443bd240fac76a793b010172dc35] Part II of the Schedule (which restates the provisions of the Taxes Management Act 1970 specified in Part I of the Schedule as modified where appropriate) is amended as follows.
+**18.**[^c-9806443bd240fac76a793b010172dc35] Part II of the Schedule (which restates the provisions of the Taxes Management Act 1970 specified in Part I of the Schedule as modified where appropriate) is amended as follows.
 
-**19.**[^key-114ff6e0078f52640a951da3e9d214a3] For Part V (appeals and other proceedings) (as modified) substitute—
+**19.**[^c-114ff6e0078f52640a951da3e9d214a3] For Part V (appeals and other proceedings) (as modified) substitute—
 
 > **47C. Meaning of tribunal**
 >
@@ -390,7 +390,7 @@ The Stamp Duty Reserve Tax Regulations 1986[^f00194] are amended as follows.
 
 .
 
-**20.**[^key-6303c8c87af1afc3657373baa462da9b] (1) Part X (penalties etc) (as modified) is amended as follows.
+**20.**[^c-6303c8c87af1afc3657373baa462da9b] (1) Part X (penalties etc) (as modified) is amended as follows.
 
 (2) Omit section 93(3) (as modified).
 
@@ -433,7 +433,7 @@ The Stamp Duty Reserve Tax Regulations 1986[^f00194] are amended as follows.
 
 (6) In section 103(1) and (4) (as modified) for “Special Commissioners” substitute “tribunal”.
 
-**21.**[^key-d4abf52b2ea3b22c5f00f0b9f2eb48c8] (1) Part XI (miscellaneous and supplemental) (as modified) is amended as follows.
+**21.**[^c-d4abf52b2ea3b22c5f00f0b9f2eb48c8] (1) Part XI (miscellaneous and supplemental) (as modified) is amended as follows.
 
 (2) In section 118 (as modified)—
 
@@ -453,7 +453,7 @@ The Stamp Duty Reserve Tax Regulations 1986[^f00194] are amended as follows.
   ; and
 - (b) in subsection (2) for “Special Commissioners” substitute “tribunal”.
 
-### 22. Charitable Deductions (Approved Schemes) Regulations 1986[^key-402a980cd099e617426c9c78d1e6767e]
+### 22. Charitable Deductions (Approved Schemes) Regulations 1986[^c-402a980cd099e617426c9c78d1e6767e]
 
 (1) Regulation 8 of the Charitable Deductions (Approved Schemes) Regulations 1986[^f00199] (appeals) is amended as follows.
 
@@ -467,17 +467,17 @@ The Stamp Duty Reserve Tax Regulations 1986[^f00194] are amended as follows.
 - (a) after “may” insert “appeal; and
 - (b) omit from “, require the matter” to the end of the paragraph.
 
-### 23. Venture Capital Trust Regulations 1995[^key-1395d7671a7fe4b105e7f968c09a7c22]
+### 23. Venture Capital Trust Regulations 1995[^c-1395d7671a7fe4b105e7f968c09a7c22]
 
 The Venture Capital Trust Regulations 1995[^f00200] are amended as follows.
 
-**24.**[^key-1524fc2e859f6b7349eefb042209feed] In regulation 4(4) (approval of a company) omit “to the Special Commissioners”.
+**24.**[^c-1524fc2e859f6b7349eefb042209feed] In regulation 4(4) (approval of a company) omit “to the Special Commissioners”.
 
-**25.**[^key-ee364801414f092517afbc73afccc259] In regulation 5(3) (refusal of approval of a company) omit “to the Special Commissioners”.
+**25.**[^c-ee364801414f092517afbc73afccc259] In regulation 5(3) (refusal of approval of a company) omit “to the Special Commissioners”.
 
-**26.**[^key-28141c72ec46508e023c2046e2d631cc] In regulation 6(3) (withdrawal of approval of a company) omit “to the Special Commissioners”.
+**26.**[^c-28141c72ec46508e023c2046e2d631cc] In regulation 6(3) (withdrawal of approval of a company) omit “to the Special Commissioners”.
 
-**27.**[^key-007164452fa85dedac3fa1bdfa63c3df] (1) Regulation 7 (appeals to the Special Commissioners) is amended as follows.
+**27.**[^c-007164452fa85dedac3fa1bdfa63c3df] (1) Regulation 7 (appeals to the Special Commissioners) is amended as follows.
 
 (2) In the heading for “Special Commissioners” substitute “tribunal”.
 
@@ -495,11 +495,11 @@ The Venture Capital Trust Regulations 1995[^f00200] are amended as follows.
 - (a) for “Special Commissioners allow” substitute “tribunal allows”; and
 - (b) for “they” substitute “the tribunal”.
 
-### 28. Taxation of Income from Land (Non-residents) Regulations 1995[^key-9f15fde267b454cfd666c2c1796e3e67]
+### 28. Taxation of Income from Land (Non-residents) Regulations 1995[^c-9f15fde267b454cfd666c2c1796e3e67]
 
 The Taxation of Income from Land (Non-residents) Regulations 1995[^f00201] are amended as follows.
 
-**29.**[^key-63a0bdb4df19b7ad8abe5993e5457034] (1) Regulation 6 (multiple branches) is amended as follows.
+**29.**[^c-63a0bdb4df19b7ad8abe5993e5457034] (1) Regulation 6 (multiple branches) is amended as follows.
 
 (2) Omit paragraph (9).
 
@@ -508,13 +508,13 @@ The Taxation of Income from Land (Non-residents) Regulations 1995[^f00201] are a
 - (a) for “The General Commissioners or, as the case may be, the Special Commissioners shall on appeal to them” substitute “The tribunal shall, on an appeal notified to it,”; and
 - (b) omit “they are”.
 
-**30.**[^key-a4f182a2c5766205069fe957d1d6bf9f] (1) Regulation 9(8) (calculation of payment of tax by agent) is amended as follows.
+**30.**[^c-a4f182a2c5766205069fe957d1d6bf9f] (1) Regulation 9(8) (calculation of payment of tax by agent) is amended as follows.
 
 (2) Omit “shall lie to the Special Commissioners”.
 
 (3) Omit “, and the appeal”.
 
-**31.**[^key-afd8715d3a725515edac401f915e8fec] (1) Regulation 17 (application for gross payment of property income) is amended as follows.
+**31.**[^c-afd8715d3a725515edac401f915e8fec] (1) Regulation 17 (application for gross payment of property income) is amended as follows.
 
 (2) Omit paragraph (8).
 
@@ -523,7 +523,7 @@ The Taxation of Income from Land (Non-residents) Regulations 1995[^f00201] are a
 - (a) for “The General Commissioners or the Special Commissioners, as the case may be, shall on appeal to them” substitute “The tribunal shall, on an appeal notified to it,”; and
 - (b) omit “they are”.
 
-**32.**[^key-06e66c692377c4b277292507a9de13a3] (1) Regulation 19 (withdrawal of approval under regulation 17) is amended as follows.
+**32.**[^c-06e66c692377c4b277292507a9de13a3] (1) Regulation 19 (withdrawal of approval under regulation 17) is amended as follows.
 
 (2) Omit paragraph (5).
 
@@ -532,11 +532,11 @@ The Taxation of Income from Land (Non-residents) Regulations 1995[^f00201] are a
 - (a) for “The General Commissioners or the Special Commissioners, as the case may be, shall on appeal to them” substitute “The tribunal shall, on an appeal notified to it,”; and
 - (b) omit “they are”.
 
-### 33. Customs Reviews and Appeals (Tariff and Origin) Regulations 1997[^key-2f117c712a21a78ed395ca1eab6be4dd]
+### 33. Customs Reviews and Appeals (Tariff and Origin) Regulations 1997[^c-2f117c712a21a78ed395ca1eab6be4dd]
 
 The Customs Reviews and Appeals (Tariff and Origin) Regulations 1997[^f00202] are amended as follows.
 
-**34.**[^key-5e1111385fb9b7193b897d8887daacfc] (1) Regulation 3 is amended as follows.
+**34.**[^c-5e1111385fb9b7193b897d8887daacfc] (1) Regulation 3 is amended as follows.
 
 (2) For “Section 14” substitute “Sections 13A to 16”.
 
@@ -544,9 +544,9 @@ The Customs Reviews and Appeals (Tariff and Origin) Regulations 1997[^f00202] ar
 
 (4) For “14(1)” substitute “13A(2)”.
 
-**35.**[^key-3b8763cc5270cf9219872196d753b3a8] In regulation 4 after “Schedule 5 to the Act” insert “and as if any decision mentioned in (a) of that regulation were mentioned in section 13A(2)(a) to (h) of that Act”.
+**35.**[^c-3b8763cc5270cf9219872196d753b3a8] In regulation 4 after “Schedule 5 to the Act” insert “and as if any decision mentioned in (a) of that regulation were mentioned in section 13A(2)(a) to (h) of that Act”.
 
-**36.**[^key-ca0b90b56736b2d3eeacb0e149a33cf9] (1) Regulation 5 is amended as follows.
+**36.**[^c-ca0b90b56736b2d3eeacb0e149a33cf9] (1) Regulation 5 is amended as follows.
 
 (2) For “Section 14” substitute “Sections 13A to 16”.
 
@@ -554,13 +554,13 @@ The Customs Reviews and Appeals (Tariff and Origin) Regulations 1997[^f00202] ar
 
 (4) For “14(1)” substitute “13A(2)”.
 
-**37.**[^key-9fcd6d040dedcb671fa8ba0e14448201] In regulation 6 after “Schedule 5 to the Act” insert “and as if any decision mentioned in (a) of that regulation were mentioned in section 13A(2)(a) to (h) of that Act”.
+**37.**[^c-9fcd6d040dedcb671fa8ba0e14448201] In regulation 6 after “Schedule 5 to the Act” insert “and as if any decision mentioned in (a) of that regulation were mentioned in section 13A(2)(a) to (h) of that Act”.
 
-### 38. Air Passenger Duty and Other Indirect Taxes (Interest Rate) Regulations 1998[^key-ad5afbcde0d1955a0131cef7877f4e89]
+### 38. Air Passenger Duty and Other Indirect Taxes (Interest Rate) Regulations 1998[^c-ad5afbcde0d1955a0131cef7877f4e89]
 
 The Air Passenger Duty and Other Indirect Taxes (Interest Rate) Regulations 1998[^f00203] are amended as follows.
 
-**39.**[^key-6832ef9b217ab72329575ad56b0faa73] (1) Regulation 4(1) (applicable rate of interest payable to the Commissioners etc)[^f00204] is amended as follows.
+**39.**[^c-6832ef9b217ab72329575ad56b0faa73] (1) Regulation 4(1) (applicable rate of interest payable to the Commissioners etc)[^f00204] is amended as follows.
 
 (2) In sub-paragraph (a) for “paragraph 7 of Schedule 6 to” substitute “section 60(8) of, and paragraphs 7 and 8(1) of Schedule 6 to,”.
 
@@ -572,7 +572,7 @@ The Air Passenger Duty and Other Indirect Taxes (Interest Rate) Regulations 1998
 
 (6) In sub-paragraph (h) for “and 30(3)(f)” substitute “, 30(3)(f) and 42(6)”.
 
-**40.**[^key-46a19e73f6fa813e70af28fdc44dca69] (1) Regulation 5(1) (applicable rate of interest payable by the Commissioners etc) is amended as follows.
+**40.**[^c-46a19e73f6fa813e70af28fdc44dca69] (1) Regulation 5(1) (applicable rate of interest payable by the Commissioners etc) is amended as follows.
 
 (2) After sub-paragraph (b) insert—
 
@@ -588,21 +588,21 @@ The Air Passenger Duty and Other Indirect Taxes (Interest Rate) Regulations 1998
 
 (6) In sub-paragraph (g) before “paragraphs” insert “section 42(4) and (5) of and”.
 
-### 41. Social Security (Northern Ireland) Order 1998[^key-d1cbcd6b6af9da212901a52b4ede79a4]
+### 41. Social Security (Northern Ireland) Order 1998[^c-d1cbcd6b6af9da212901a52b4ede79a4]
 
 The Social Security (Northern Ireland) Order 1998[^f00205] is amended as follows.
 
-**42.**[^key-3dfb828282e34e177d80bfe583a8ea88] In article 11A(2)(d) (reference of issues by the Department to Inland Revenue) for “tax appeal Commissioners” substitute “First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal”.
+**42.**[^c-3dfb828282e34e177d80bfe583a8ea88] In article 11A(2)(d) (reference of issues by the Department to Inland Revenue) for “tax appeal Commissioners” substitute “First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal”.
 
-**43.**[^key-85495c510bbc63eb545356a54f1dde0d] In article 24A(2)(c) (appeals dependent on issues falling to be decided by Inland Revenue) for “tax appeal Commissioners” substitute “First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal”.
+**43.**[^c-85495c510bbc63eb545356a54f1dde0d] In article 24A(2)(c) (appeals dependent on issues falling to be decided by Inland Revenue) for “tax appeal Commissioners” substitute “First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal”.
 
-**44.**[^key-fc9f5ce8e8cc94902fe01ae4240d1b59] In article 39(1) (interpretation etc) omit the entry for “tax appeal Commissioners”.
+**44.**[^c-fc9f5ce8e8cc94902fe01ae4240d1b59] In article 39(1) (interpretation etc) omit the entry for “tax appeal Commissioners”.
 
-### 45. Individual Savings Account Regulations 1998[^key-0497a48151a3f1577e5f1a909aca142a]
+### 45. Individual Savings Account Regulations 1998[^c-0497a48151a3f1577e5f1a909aca142a]
 
 The Individual Savings Account Regulations 1998[^f00206] are amended as follows.
 
-**46.**[^key-f8f42374e0782269c73a3665d5fb96f1] (1) Regulation 18 (account manager – appeal against withdrawal of Board’s approval) is amended as follows.
+**46.**[^c-f8f42374e0782269c73a3665d5fb96f1] (1) Regulation 18 (account manager – appeal against withdrawal of Board’s approval) is amended as follows.
 
 (2) Omit paragraph (2).
 
@@ -611,7 +611,7 @@ The Individual Savings Account Regulations 1998[^f00206] are amended as follows.
 - (a) for “Special Commissioners shall on appeal to them” substitute “tribunal, on an appeal notified to it, shall”; and
 - (b) omit “they are”.
 
-**47.**[^key-1daec62f115c10def45036835e2839ed] (1) Regulation 27 (account manager’s returns and claims etc) is amended as follows.
+**47.**[^c-1daec62f115c10def45036835e2839ed] (1) Regulation 27 (account manager’s returns and claims etc) is amended as follows.
 
 (2) In paragraph (3)—
 
@@ -620,11 +620,11 @@ The Individual Savings Account Regulations 1998[^f00206] are amended as follows.
 
 (3) In paragraph (5) for “on appeal the Special Commissioners” substitute “on an appeal that is notified to the tribunal, the tribunal”.
 
-### 48. Corporation Tax (Instalment Payments) Regulations 1998[^key-e39be8c17973345c49bc9cdcfc9fdcd9]
+### 48. Corporation Tax (Instalment Payments) Regulations 1998[^c-e39be8c17973345c49bc9cdcfc9fdcd9]
 
 The Corporation Tax (Instalment Payments) Regulations 1998[^f00207] are amended as follows.
 
-**49.**[^key-fc3d3da037131de0f54ebd7f7dbcfcfc] (1) Regulation 6 is amended as follows.
+**49.**[^c-fc3d3da037131de0f54ebd7f7dbcfcfc] (1) Regulation 6 is amended as follows.
 
 (2) In paragraph (4) for “Commissioners” substitute “tribunal”.
 
@@ -634,15 +634,15 @@ The Corporation Tax (Instalment Payments) Regulations 1998[^f00207] are amended 
 
 .
 
-### 50. Social Security Contributions (Transfer of Functions etc) (Northern Ireland) Order 1999[^key-0fbffd7f4fb8c24a96a3679b8303788d]
+### 50. Social Security Contributions (Transfer of Functions etc) (Northern Ireland) Order 1999[^c-0fbffd7f4fb8c24a96a3679b8303788d]
 
 The Social Security Contributions (Transfer of Functions etc) (Northern Ireland) Order 1999[^f00208] is amended as follows.
 
-**51.**[^key-b61614a741e457c34c836139376af6c9] In article 9(1)(c) (decisions varying or superseding earlier decisions) for “tax appeal Commissioners” substitute “First-tier Tribunal or Upper Tribunal”.
+**51.**[^c-b61614a741e457c34c836139376af6c9] In article 9(1)(c) (decisions varying or superseding earlier decisions) for “tax appeal Commissioners” substitute “First-tier Tribunal or Upper Tribunal”.
 
-**52.**[^key-574b36400c96af727477305954dadcfc] In article 10(2)(a) and (b) (appeals against decisions of board) for “tax appeal Commissioners”, in each place, substitute “tribunal”.
+**52.**[^c-574b36400c96af727477305954dadcfc] In article 10(2)(a) and (b) (appeals against decisions of board) for “tax appeal Commissioners”, in each place, substitute “tribunal”.
 
-**53.**[^key-f0e45131184abcf2b09410a42ac193c3] (1) Article 11 (exercise of right of appeal) is amended as follows.
+**53.**[^c-f0e45131184abcf2b09410a42ac193c3] (1) Article 11 (exercise of right of appeal) is amended as follows.
 
 (2) For paragraph (3) substitute—
 
@@ -652,7 +652,7 @@ The Social Security Contributions (Transfer of Functions etc) (Northern Ireland)
 
 (3) Omit paragraphs (4) and (5).
 
-**54.**[^key-7b6d8f02272bc43ebe88dbf9c51c2474] (1) Article 12 (regulations with respect to appeals) is amended as follows.
+**54.**[^c-7b6d8f02272bc43ebe88dbf9c51c2474] (1) Article 12 (regulations with respect to appeals) is amended as follows.
 
 (2) In paragraph (1) for “tax appeal Commissioners” substitute “tribunal”.
 
@@ -666,11 +666,11 @@ The Social Security Contributions (Transfer of Functions etc) (Northern Ireland)
 
 (7) Omit paragraphs (3), (4) and (5).
 
-**55.**[^key-ff8be6f104dcf83de1c149c013ab1870] (1) Article 13 (matters arising as respects decisions) is amended as follows.
+**55.**[^c-ff8be6f104dcf83de1c149c013ab1870] (1) Article 13 (matters arising as respects decisions) is amended as follows.
 
 (2) In paragraphs (1)(b) and (2)(a) for “tax appeal Commissioners” substitute “tribunal”.
 
-**56.**[^key-01e9cf020aed2b29013f16494f3e3344] For article 18 (interpretation) substitute—
+**56.**[^c-01e9cf020aed2b29013f16494f3e3344] For article 18 (interpretation) substitute—
 
 > **18. Interpretation of Part III**
 >
@@ -680,11 +680,11 @@ The Social Security Contributions (Transfer of Functions etc) (Northern Ireland)
 
 .
 
-### 57. Overseas Insurers (Tax Representatives) Regulations 1999[^key-fc8e837899bddb94916668fc57cfbdf1]
+### 57. Overseas Insurers (Tax Representatives) Regulations 1999[^c-fc8e837899bddb94916668fc57cfbdf1]
 
 The Overseas Insurers (Tax Representatives) Regulations 1999[^f00209] are amended as follows.
 
-**58.**[^key-117814facca1a926dfc6663d079de25c] (1) Regulation 13 (appeals against decisions of the board) is amended as follows.
+**58.**[^c-117814facca1a926dfc6663d079de25c] (1) Regulation 13 (appeals against decisions of the board) is amended as follows.
 
 (2) Omit paragraph (3).
 
@@ -694,15 +694,15 @@ The Overseas Insurers (Tax Representatives) Regulations 1999[^f00209] are amende
 - (b) for “Special Commissioners must on appeal to them” substitute “tribunal, on an appeal notified to it, shall”; and
 - (c) omit “they are”.
 
-### 59. Social Security Contributions (Decisions and Appeals) Regulations 1999[^key-2b3733ed8ca919b81344117104212571]
+### 59. Social Security Contributions (Decisions and Appeals) Regulations 1999[^c-2b3733ed8ca919b81344117104212571]
 
 (1) The Social Security Contributions (Decisions and Appeals) Regulations 1999[^f00210] are amended as follows.
 
-**60.**[^key-288dfbc1e3e95019ce46a8026e037ee6] In regulation 3(3) (decisions – general)[^f00211] omit “to the tax appeal Commissioners”.
+**60.**[^c-288dfbc1e3e95019ce46a8026e037ee6] In regulation 3(3) (decisions – general)[^f00211] omit “to the tax appeal Commissioners”.
 
-**61.**[^key-471cbf7772fcbdaac54fec6864f7e07b] In regulation 5(4) (variation of decision) for “tax appeal Commissioners determine” substitute “tribunal determines”.
+**61.**[^c-471cbf7772fcbdaac54fec6864f7e07b] In regulation 5(4) (variation of decision) for “tax appeal Commissioners determine” substitute “tribunal determines”.
 
-**62.**[^key-d9f9ee68ff5948892841a5a2ac0cecf4] For regulation 7 substitute—
+**62.**[^c-d9f9ee68ff5948892841a5a2ac0cecf4] For regulation 7 substitute—
 
 > **7. Application of the Taxes Management Act 1970 in relation to reviews and appeals with modifications**
 >
@@ -718,11 +718,11 @@ The Overseas Insurers (Tax Representatives) Regulations 1999[^f00209] are amende
 
 .
 
-**63.**[^key-4837468b6c2eadef14333b4c4b6bc4d0] Omit regulations 8 and 8A[^f00213].
+**63.**[^c-4837468b6c2eadef14333b4c4b6bc4d0] Omit regulations 8 and 8A[^f00213].
 
-**64.**[^key-d870d7cc221e3ca225aee91ded70ed7d] In regulation 9 (proceedings brought out of time) for “tax appeal Commissioners” substitute “tribunal”.
+**64.**[^c-d870d7cc221e3ca225aee91ded70ed7d] In regulation 9 (proceedings brought out of time) for “tax appeal Commissioners” substitute “tribunal”.
 
-**65.**[^key-91af6299daca76cb573233f0ba0012c3] (1) Regulation 10 (determination of appeals by tax appeal commissioners) is amended as follows.
+**65.**[^c-91af6299daca76cb573233f0ba0012c3] (1) Regulation 10 (determination of appeals by tax appeal commissioners) is amended as follows.
 
 (2) In the heading for “tax appeal Commissioners” substitute “the tribunal”.
 
@@ -732,9 +732,9 @@ The Overseas Insurers (Tax Representatives) Regulations 1999[^f00209] are amende
 
 (5) For “majority of the Commissioners present at the hearing, by examination of the appellant on oath or affirmation or by other evidence,” substitute “tribunal”.
 
-**66.**[^key-b3f46e24067708e459b4cbacd69e1e2f] In regulation 11(1) and (5) (settling of appeals by agreement) for “tax appeal Commissioners” substitute “tribunal”.
+**66.**[^c-b3f46e24067708e459b4cbacd69e1e2f] In regulation 11(1) and (5) (settling of appeals by agreement) for “tax appeal Commissioners” substitute “tribunal”.
 
-**67.**[^key-bfaecea6856cddbca402636c9d0031da] For regulation 12 substitute—
+**67.**[^c-bfaecea6856cddbca402636c9d0031da] For regulation 12 substitute—
 
 > **12. Appeals from the tribunal**
 >
@@ -742,13 +742,13 @@ The Overseas Insurers (Tax Representatives) Regulations 1999[^f00209] are amende
 
 .
 
-### 68. Stamp Duty (Collection and Recovery of Penalties) Regulations 1999[^key-2a319c77f0e42cb63d367b1a072c3b5a]
+### 68. Stamp Duty (Collection and Recovery of Penalties) Regulations 1999[^c-2a319c77f0e42cb63d367b1a072c3b5a]
 
 The Stamp Duty (Collection and Recovery of Penalties) Regulations 1999[^f00214] are amended as follows.
 
-**69.**[^key-17a8ddb48e70f57e56963672a29a6efa] The Schedule is amended as follows.
+**69.**[^c-17a8ddb48e70f57e56963672a29a6efa] The Schedule is amended as follows.
 
-**70.**[^key-0c1aedc0f38be5bd2f551522554502b7] (1) Part I – Table is amended as follows.
+**70.**[^c-0c1aedc0f38be5bd2f551522554502b7] (1) Part I – Table is amended as follows.
 
 (2) In the entry for section 112—
 
@@ -759,7 +759,7 @@ The Stamp Duty (Collection and Recovery of Penalties) Regulations 1999[^f00214] 
 
 (4) In the entry for section 118 omit the entry for “the General Commissioners Regulations”.
 
-**71.**[^key-7a1d34b9508b53cefa641fb8b57dc9be] (1) Part II (Taxes Management Act 1970) is amended as follows.
+**71.**[^c-7a1d34b9508b53cefa641fb8b57dc9be] (1) Part II (Taxes Management Act 1970) is amended as follows.
 
 (2) In section 112 (as modified)—
 
@@ -772,11 +772,11 @@ The Stamp Duty (Collection and Recovery of Penalties) Regulations 1999[^f00214] 
 
 (4) In section 118 (as modified) omit the entry for “the Special Commissioners Regulations”.
 
-### 72. Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999[^key-2ab0d8fbcaa5152acb1cc720f43b0508]
+### 72. Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999[^c-2ab0d8fbcaa5152acb1cc720f43b0508]
 
 Omit paragraph 4 of Schedule 1 to the Scotland Act 1998 (Functions Exercisable in or as Regards Scotland) Order 1999[^f00215] (functions exercisable in or as regards Scotland: Taxes Management Act 1970).
 
-### 73. Education (Student Loans) (Repayment) Regulations 2000[^key-c4cd017a8835b68a7b9aa9dad430e5df]
+### 73. Education (Student Loans) (Repayment) Regulations 2000[^c-c4cd017a8835b68a7b9aa9dad430e5df]
 
 (1) The Education (Student Loans) (Repayment) Regulations 2000[^f00216] are amended as follows.
 
@@ -787,11 +787,11 @@ Omit paragraph 4 of Schedule 1 to the Scotland Act 1998 (Functions Exercisable i
 
 (3) Omit regulation 45(5).
 
-### 74. Social Security (Contributions) Regulations 2001[^key-015bcdfe52b85a88a24cf0499f9bb03d]
+### 74. Social Security (Contributions) Regulations 2001[^c-015bcdfe52b85a88a24cf0499f9bb03d]
 
 The Social Security (Contributions) Regulations 2001[^f00217] are amended as follows.
 
-**75.**[^key-98557546905f2a10a97d141e2232586d] (1) For regulation 90Q(1)[^f00218] substitute—
+**75.**[^c-98557546905f2a10a97d141e2232586d] (1) For regulation 90Q(1)[^f00218] substitute—
 
 > (1) Section 31A(5) of the Management Act applies to appeals under regulation 90J as it applies to an appeal under section 31 of that Act.
 
@@ -799,7 +799,7 @@ The Social Security (Contributions) Regulations 2001[^f00217] are amended as fol
 
 (2) Omit paragraphs (2) and (3).
 
-**76.**[^key-84915dc0612a751122be0884a7a3f60c] (1) Part 3A of Schedule 4 (debts of managed service companies)[^f00219] is amended as follows.
+**76.**[^c-84915dc0612a751122be0884a7a3f60c] (1) Part 3A of Schedule 4 (debts of managed service companies)[^f00219] is amended as follows.
 
 (2) Omit paragraph 29G(5).
 
@@ -817,11 +817,11 @@ The Social Security (Contributions) Regulations 2001[^f00217] are amended as fol
 
 (4) In paragraph 29J(1) for “Special Commissioners quash” substitute “tribunal quashes”.
 
-### 77. Contracting Out (Administrative and Other Court Staff) Order 2001[^key-5456e714ee9fe893e2ac88da52f46c5f]
+### 77. Contracting Out (Administrative and Other Court Staff) Order 2001[^c-5456e714ee9fe893e2ac88da52f46c5f]
 
 In the Contracting Out (Administrative and Other Court Staff) Order 2001[^f00220] omit article 3.
 
-### 78. Tax Credits (Payments by the Commissioners) Regulations 2002[^key-b37a615dda3582bbc7c8a97d71c744cc]
+### 78. Tax Credits (Payments by the Commissioners) Regulations 2002[^c-b37a615dda3582bbc7c8a97d71c744cc]
 
 (1) Regulation 11 of the Tax Credits (Payments by the Commissioners) Regulations 2002[^f00221] is amended as follows.
 
@@ -834,17 +834,17 @@ In the Contracting Out (Administrative and Other Court Staff) Order 2001[^f00220
 
 (4) In paragraph (5) for “Appropriate tribunal” substitute “Appeal tribunal”.
 
-### 79. Freedom of Information (Excluded Welsh Authorities) Order 2002[^key-09d86c5ea77582bfe674ab1c7bb54615]
+### 79. Freedom of Information (Excluded Welsh Authorities) Order 2002[^c-09d86c5ea77582bfe674ab1c7bb54615]
 
 In Part 2 of the Schedule to the Freedom of Information (Excluded Welsh Authorities) Order 2002[^f00222] (excluded authorities: other bodies and offices) omit the entry relating to the “Advisory Committee on General Commissioners of Income Tax”.
 
-### 80. Tax Credits (Appeals) Regulations 2002[^key-c3e9d392ed5e8fbc1a5aefd62fecc410]
+### 80. Tax Credits (Appeals) Regulations 2002[^c-c3e9d392ed5e8fbc1a5aefd62fecc410]
 
 The Tax Credits (Appeals) Regulations 2002[^f00223] are amended as follows.
 
-**81.**[^key-b6637ac99ac2c1bb024c8a05d6ea0265] In regulation 3(2) for “Commissioners” substitute “tribunal”.
+**81.**[^c-b6637ac99ac2c1bb024c8a05d6ea0265] In regulation 3(2) for “Commissioners” substitute “tribunal”.
 
-**82.**[^key-5560ab72f3b69ac7c8d689dbd4ec520d] (1) Regulation 12 (application of section 39 etc) is amended as follows.
+**82.**[^c-5560ab72f3b69ac7c8d689dbd4ec520d] (1) Regulation 12 (application of section 39 etc) is amended as follows.
 
 (2) For paragraph (2)(c) substitute—
 
@@ -858,7 +858,7 @@ The Tax Credits (Appeals) Regulations 2002[^f00223] are amended as follows.
 
 .
 
-### 83. Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003[^key-5f0cfd5821754fc2a99c141d838c6668]
+### 83. Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations 2003[^c-5f0cfd5821754fc2a99c141d838c6668]
 
 (1) Regulation 16 of the Community Investment Tax Relief (Accreditation of Community Development Finance Institutions) Regulations [^f00224] (appeals against refusal to grant accreditation or withdrawal of accreditation) is amended as follows.
 
@@ -872,25 +872,25 @@ The Tax Credits (Appeals) Regulations 2002[^f00223] are amended as follows.
 
 .
 
-### 84. Tax Credits (Employer Penalty Appeals) Regulations 2003[^key-2e685017e4955fc0bdfcbfa2e8458414]
+### 84. Tax Credits (Employer Penalty Appeals) Regulations 2003[^c-2e685017e4955fc0bdfcbfa2e8458414]
 
 The Tax Credits (Employer Penalty Appeals) Regulations 2003[^f00225] are amended as follows.
 
-**85.**[^key-ebddd60e256f3172c695979df94068e1] In regulation 3 for “(appeals to Commissioners)” substitute “(appeals)”.
+**85.**[^c-ebddd60e256f3172c695979df94068e1] In regulation 3 for “(appeals to Commissioners)” substitute “(appeals)”.
 
-**86.**[^key-8ee267e6a615562b0b4b24a62dafe381] Omit regulations 4 to 6.
+**86.**[^c-8ee267e6a615562b0b4b24a62dafe381] Omit regulations 4 to 6.
 
-**87.**[^key-4c82acb5198dd51b65cc9b1a6ee7fb97] In regulation 7 for “General Commissioners or to the Special Commissioners” substitute “tribunal”.
+**87.**[^c-4c82acb5198dd51b65cc9b1a6ee7fb97] In regulation 7 for “General Commissioners or to the Special Commissioners” substitute “tribunal”.
 
-**88.**[^key-9b4e7f1230980f194260b0d1ea7d0a96] Omit regulation 8.
+**88.**[^c-9b4e7f1230980f194260b0d1ea7d0a96] Omit regulation 8.
 
-**89.**[^key-d1ba27095487a8008baa6986c8324177] For regulation 10 substitute “Omit section 56 of the Act”.
+**89.**[^c-d1ba27095487a8008baa6986c8324177] For regulation 10 substitute “Omit section 56 of the Act”.
 
-### 90. Land Registry Rules 2003[^key-de3e9e09af31ad7e62a76ec118198ce4]
+### 90. Land Registry Rules 2003[^c-de3e9e09af31ad7e62a76ec118198ce4]
 
 In Schedule 5 to the Land Registry Rules[^f00226] in the entry in the first column relating to a person authorised to apply by the Commissioners for Her Majesty’s Revenue and Customs for “a General/Special Commissioner” substitute “the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal”.
 
-### 91. Income Tax (Incentive Payments for Voluntary Electric Communication of PAYE Returns) Regulations 2003[^key-62ddf4c42535aa90129cf5162b27d961]
+### 91. Income Tax (Incentive Payments for Voluntary Electric Communication of PAYE Returns) Regulations 2003[^c-62ddf4c42535aa90129cf5162b27d961]
 
 (1) The Income Tax (Incentive Payments for Voluntary Electric Communication of PAYE Returns) Regulations 2003[^f00227] are amended as follows.
 
@@ -900,17 +900,17 @@ In Schedule 5 to the Land Registry Rules[^f00226] in the entry in the first colu
 
 .
 
-### 92. Income Tax (Pay As You Earn) Regulations 2003[^key-ad4021fab4407ec6a3b57d76f2618dce]
+### 92. Income Tax (Pay As You Earn) Regulations 2003[^c-ad4021fab4407ec6a3b57d76f2618dce]
 
 The Income Tax (Pay As You Earn) Regulations 2003[^f00228] are amended as follows.
 
-**93.**[^key-8c91032be0f03594ff31fdaf17fedf07] In regulation 2 (interpretation) after the entry for “trade dispute” insert—
+**93.**[^c-8c91032be0f03594ff31fdaf17fedf07] In regulation 2 (interpretation) after the entry for “trade dispute” insert—
 
 > - “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
 
 .
 
-**94.**[^key-b439d5ec75ac1f3c05818b0039a512b9] (1) Regulation 18 (objections and appeals against employee’s code) is amended as follows.
+**94.**[^c-b439d5ec75ac1f3c05818b0039a512b9] (1) Regulation 18 (objections and appeals against employee’s code) is amended as follows.
 
 (2) In paragraph (3) omit “to the General Commissioners”.
 
@@ -918,9 +918,9 @@ The Income Tax (Pay As You Earn) Regulations 2003[^f00228] are amended as follow
 
 (4) Omit paragraph (5).
 
-**95.**[^key-3846aac4469abdd966704596d6a02524] In regulation 19(1) (amendment of code) for “General Commissioners” substitute “tribunal”.
+**95.**[^c-3846aac4469abdd966704596d6a02524] In regulation 19(1) (amendment of code) for “General Commissioners” substitute “tribunal”.
 
-**96.**[^key-8367d3c7944f799daa8772fd6c530b58] (1) Regulation 72A(6) (employer’s request for a direction and an appeal against refusal)[^f00229] is amended as follows.
+**96.**[^c-8367d3c7944f799daa8772fd6c530b58] (1) Regulation 72A(6) (employer’s request for a direction and an appeal against refusal)[^f00229] is amended as follows.
 
 (2) After “under paragraph (4)” insert “that is notified to the tribunal”.
 
@@ -930,19 +930,19 @@ The Income Tax (Pay As You Earn) Regulations 2003[^f00228] are amended as follow
 
 (5) For “Commissioners determine” substitute “tribunal determines”.
 
-**97.**[^key-c4da2b51e9d7b85f584f0fc1dfc66b44] (1) Regulation 72B(3) (employee’s appeal against a direction where condition A is met) is amended as follows.
+**97.**[^c-c4da2b51e9d7b85f584f0fc1dfc66b44] (1) Regulation 72B(3) (employee’s appeal against a direction where condition A is met) is amended as follows.
 
 (2) For “the Commissioners” substitute “that is notified to the tribunal, the tribunal”, and
 
 (3) In sub-paragraphs (a) and (b) omit “to them”.
 
-**98.**[^key-25e43a53ce64940d8506fc2a39471697] (1) Regulation 72C(3) (employee’s appeal against a direction where condition B is met) is amended as follows.
+**98.**[^c-25e43a53ce64940d8506fc2a39471697] (1) Regulation 72C(3) (employee’s appeal against a direction where condition B is met) is amended as follows.
 
 (2) For “the Commissioners” substitute “that is notified to the tribunal, the tribunal”.
 
 (3) In sub-paragraphs (a) and (b) omit “to them”.
 
-**99.**[^key-270f1523f62dbe88b2ad64b94caea2c4] (1) Regulation 72D (appeals: supplementary provisions) is amended as follows.
+**99.**[^c-270f1523f62dbe88b2ad64b94caea2c4] (1) Regulation 72D (appeals: supplementary provisions) is amended as follows.
 
 (2) Omit paragraphs (2), (3) and (5) to (7).
 
@@ -959,27 +959,27 @@ The Income Tax (Pay As You Earn) Regulations 2003[^f00228] are amended as follow
 
 (5) Omit paragraph (9).
 
-**100.**[^key-17f2686629cdb4acfc922f040ec6683d] (1) Regulation 72G(3) (employee’s appeal against a direction notice)[^f00230] is amended as follows.
+**100.**[^c-17f2686629cdb4acfc922f040ec6683d] (1) Regulation 72G(3) (employee’s appeal against a direction notice)[^f00230] is amended as follows.
 
 (2) For “the Commissioners” substitute “that is notified to the tribunal, the tribunal”; and
 
 (3) In sub-paragraphs (a) and (b) omit “to them”.
 
-**101.**[^key-64cf356b9b70c99a5c05c34bcf17c8f2] (1) Regulation 80 (determination of unpaid tax and appeal against determination) is amended as follows.
+**101.**[^c-64cf356b9b70c99a5c05c34bcf17c8f2] (1) Regulation 80 (determination of unpaid tax and appeal against determination) is amended as follows.
 
 (2) In paragraph (5) omit “(other than section 55)”.
 
 (3) Omit paragraph (6).
 
-**102.**[^key-85ca5f03c06a9d5cbf7dfbcc1c7b05b4] (1) Regulation 81A(3) (employee’s appeal against direction notice)[^f00231] is amended as follows.
+**102.**[^c-85ca5f03c06a9d5cbf7dfbcc1c7b05b4] (1) Regulation 81A(3) (employee’s appeal against direction notice)[^f00231] is amended as follows.
 
 (2) For “the Commissioners” substitute “that is notified to the tribunal, the tribunal”; and
 
 (3) In sub-paragraphs (a) and (b) omit “to them”.
 
-**103.**[^key-030f8315aa7d269ffbf340178255ce7a] Omit regulation 97G(5).
+**103.**[^c-030f8315aa7d269ffbf340178255ce7a] Omit regulation 97G(5).
 
-**104.**[^key-b47d66137954fbedb15444a1b6b8d9b5] (1) Regulation 97H (procedure on appeals)[^f00232] is amended as follows.
+**104.**[^c-b47d66137954fbedb15444a1b6b8d9b5] (1) Regulation 97H (procedure on appeals)[^f00232] is amended as follows.
 
 (2) In paragraph (1) for “the Special Commissioners” substitute “that is notified to the tribunal, the tribunal”.
 
@@ -997,13 +997,13 @@ The Income Tax (Pay As You Earn) Regulations 2003[^f00228] are amended as follow
 - (a) for “Special Commissioners” substitute “tribunal”; and
 - (b) for “their opinion” substitute “the tribunal’s opinion”.
 
-**105.**[^key-85c2cfd99878b70e9a28de809e687f83] In regulation 97J (withdrawal of transfer notices) for “Special Commissioners quash” substitute “tribunal quashes”.
+**105.**[^c-85c2cfd99878b70e9a28de809e687f83] In regulation 97J (withdrawal of transfer notices) for “Special Commissioners quash” substitute “tribunal quashes”.
 
-**106.**[^key-2f309fb14bda9ce223907cedbe89b7b1] Omit paragraph (5) of regulation 110.
+**106.**[^c-2f309fb14bda9ce223907cedbe89b7b1] Omit paragraph (5) of regulation 110.
 
-**107.**[^key-f657299a681ee5b472b015744bede646] Omit regulation 126(7).
+**107.**[^c-f657299a681ee5b472b015744bede646] Omit regulation 126(7).
 
-**108.**[^key-8d037915cb699b7327eeef05543ce3b2] (1) Regulation 127 (appeal to Commissioners) is amended as follows.
+**108.**[^c-8d037915cb699b7327eeef05543ce3b2] (1) Regulation 127 (appeal to Commissioners) is amended as follows.
 
 (2) In the heading, for “Commissioners” substitute “the tribunal”.
 
@@ -1013,39 +1013,39 @@ The Income Tax (Pay As You Earn) Regulations 2003[^f00228] are amended as follow
 
 (5) Omit paragraph (4).
 
-**109.**[^key-b20e64be396a13a02374895f9d91513e] In regulation 128(1) (amended determinations) for “Commissioners” substitute “tribunal”.
+**109.**[^c-b20e64be396a13a02374895f9d91513e] In regulation 128(1) (amended determinations) for “Commissioners” substitute “tribunal”.
 
-**110.**[^key-221c614b23f9d36a9a2e429b61eb57f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**110.**[^c-221c614b23f9d36a9a2e429b61eb57f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**111.**[^key-55ffc708505e33da10aa56478f1e8ae6] (1) Regulation 217 (appeals: supplementary provisions) is amended as follows.
+**111.**[^c-55ffc708505e33da10aa56478f1e8ae6] (1) Regulation 217 (appeals: supplementary provisions) is amended as follows.
 
 (2) In paragraph (1) omit “and (6)” and the entries for section 31B and section 31D.
 
 (3) Omit paragraphs (3) and (4).
 
-### 112. Stamp Duty Land Tax (Administration) Regulations 2003[^key-9f07b1863fe0a9562888a0f7c0c6b192]
+### 112. Stamp Duty Land Tax (Administration) Regulations 2003[^c-9f07b1863fe0a9562888a0f7c0c6b192]
 
 The Stamp Duty Land Tax (Administration) Regulations 2003[^f00233] are amended as follows.
 
-**113.**[^key-d5a1346ee1914b63af06d96ff8782e9d] In regulation 2 after the definition of “the Board” insert—
+**113.**[^c-d5a1346ee1914b63af06d96ff8782e9d] In regulation 2 after the definition of “the Board” insert—
 
 > - “HMRC” means Her Majesty’s Revenue and Customs;
 
 .
 
-**114.**[^key-a9853332d5f731470450149ea5978699] In paragraphs (2)(b) and (4)(a) of regulation 15 (recovery of tax not postponed by application) for “Commissioners” substitute “tribunal”.
+**114.**[^c-a9853332d5f731470450149ea5978699] In paragraphs (2)(b) and (4)(a) of regulation 15 (recovery of tax not postponed by application) for “Commissioners” substitute “tribunal”.
 
-**115.**[^key-1be659943dd8857674a9d5bc38211ea8] Omit regulation 19(2).
+**115.**[^c-1be659943dd8857674a9d5bc38211ea8] Omit regulation 19(2).
 
-**116.**[^key-f2c4e669e7286457a275f039e25c39ba] For regulation 20(3) substitute—
+**116.**[^c-f2c4e669e7286457a275f039e25c39ba] For regulation 20(3) substitute—
 
 > (3) The provisions of paragraphs 36A to 36I of Schedule 10 to the 2003 Act[^f00234] apply to appeals under this regulation.
 
 .
 
-**117.**[^key-753939a04125b89df67ad12f7878fe7b] In regulation 21(1) (settling of appeals by agreement) for “Commissioners” substitute “tribunal”.
+**117.**[^c-753939a04125b89df67ad12f7878fe7b] In regulation 21(1) (settling of appeals by agreement) for “Commissioners” substitute “tribunal”.
 
-**118.**[^key-88d7a0f7ba8469b5d04ee1c674ba116f] (1) Regulation 22 (direction by Commissioners postponing payment) is amended as follows.
+**118.**[^c-88d7a0f7ba8469b5d04ee1c674ba116f] (1) Regulation 22 (direction by Commissioners postponing payment) is amended as follows.
 
 (2) In the heading for “Commissioners” substitute “the tribunal”.
 
@@ -1074,13 +1074,13 @@ The Stamp Duty Land Tax (Administration) Regulations 2003[^f00233] are amended a
 
 (8) In paragraph (7)(a) for “the Inland Revenue” substitute “HMRC”.
 
-**119.**[^key-e3c7d25892dd3903b4690db80423bcab] In regulation 23(1) for “Commissioners” substitute “tribunal”.
+**119.**[^c-e3c7d25892dd3903b4690db80423bcab] In regulation 23(1) for “Commissioners” substitute “tribunal”.
 
-### 120. Export (Penalty) Regulations 2003[^key-ffbb31586a6ceafe711ec4edd1bd7c83]
+### 120. Export (Penalty) Regulations 2003[^c-ffbb31586a6ceafe711ec4edd1bd7c83]
 
 The Export (Penalty) Regulations 2003[^f00235] are amended as follows.
 
-**121.**[^key-0e113a760f69be6537795fa39cba47ca] (1) Regulation 2 (interpretation) is amended as follows.
+**121.**[^c-0e113a760f69be6537795fa39cba47ca] (1) Regulation 2 (interpretation) is amended as follows.
 
 (2) In the definition of “appeal tribunal” for “a VAT and duties tribunal” substitute “the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal”.
 
@@ -1090,9 +1090,9 @@ The Export (Penalty) Regulations 2003[^f00235] are amended as follows.
 
 .
 
-**122.**[^key-a9704f214e0127d5593c259b24740483] In regulation 6(2)(a) (demands for penalties) for “12” substitute “9”.
+**122.**[^c-a9704f214e0127d5593c259b24740483] In regulation 6(2)(a) (demands for penalties) for “12” substitute “9”.
 
-**123.**[^key-b82d85063ee3728fc611e1b84aff19dd] (1) Regulation 9 (right to review of certain decisions) is amended as follows.
+**123.**[^c-b82d85063ee3728fc611e1b84aff19dd] (1) Regulation 9 (right to review of certain decisions) is amended as follows.
 
 (2) For the heading substitute “Right to appeal against certain decisions”.
 
@@ -1121,7 +1121,7 @@ The Export (Penalty) Regulations 2003[^f00235] are amended as follows.
 
 .
 
-**124.**[^key-2faa91a05d52a4e2570c83a65f80cadf] After regulation 9 insert—
+**124.**[^c-2faa91a05d52a4e2570c83a65f80cadf] After regulation 9 insert—
 
 > **9A. Offer of review**
 >
@@ -1235,9 +1235,9 @@ The Export (Penalty) Regulations 2003[^f00235] are amended as follows.
 
 .
 
-**125.**[^key-732a753554207cbe9bf18f77076b8d79] Omit regulations 10 to 12.
+**125.**[^c-732a753554207cbe9bf18f77076b8d79] Omit regulations 10 to 12.
 
-**126.**[^key-692b33ae306cf34a8018c3a74f12d5db] For regulation 13 (appeal tribunals) substitute—
+**126.**[^c-692b33ae306cf34a8018c3a74f12d5db] For regulation 13 (appeal tribunals) substitute—
 
 > **13. Appeal Tribunals**
 >
@@ -1245,7 +1245,7 @@ The Export (Penalty) Regulations 2003[^f00235] are amended as follows.
 
 .
 
-### 127. Child Trust Funds Regulations 2004[^key-8744468a566cbc17c8a9263418220c08]
+### 127. Child Trust Funds Regulations 2004[^c-8744468a566cbc17c8a9263418220c08]
 
 (1) Regulation 28 of the Child Trust Funds Regulations 2004[^f00236] (account provider’s tax claims – supplementary provisions) is amended as follows.
 
@@ -1256,17 +1256,17 @@ The Export (Penalty) Regulations 2003[^f00235] are amended as follows.
 
 (3) In sub-paragraph (5) for “, and on appeal the Special Commissioners” substitute “and, on an appeal that is notified to the tribunal, the tribunal”.
 
-### 128. Venture Capital Trust (Winding up and Mergers) (Tax) Regulations 2004[^key-c13690e44b2a710f7ddc5cd6c3623db0]
+### 128. Venture Capital Trust (Winding up and Mergers) (Tax) Regulations 2004[^c-c13690e44b2a710f7ddc5cd6c3623db0]
 
 The Venture Capital Trust (Winding up and Mergers) (Tax) Regulations 2004[^f00237] are amended as follows.
 
-**129.**[^key-66bbf653651dd4864c9be6445b4a6c52] (1) Regulation 10 (procedure for Board’s approval) is amended as follows.
+**129.**[^c-66bbf653651dd4864c9be6445b4a6c52] (1) Regulation 10 (procedure for Board’s approval) is amended as follows.
 
 (2) In paragraph (3) for “Special Commissioners”, on both occurrences, substitute “tribunal”.
 
 (3) In paragraph (4) for “Special Commissioners” and “Commissioners” substitute “tribunal”.
 
-### 130. Exemption from Tax for Certain Interest Payments Regulations 2004[^key-26ced1826f8b80aee48bcd94cfcdc0c1]
+### 130. Exemption from Tax for Certain Interest Payments Regulations 2004[^c-26ced1826f8b80aee48bcd94cfcdc0c1]
 
 (1) Regulation 9 of the Exemption from Tax for Certain Interest Payments Regulations 2004[^f00238] (appeals against refusal to issue an exemption notice or cancellation of an exemption notice) is amended as follows.
 
@@ -1280,15 +1280,15 @@ The Venture Capital Trust (Winding up and Mergers) (Tax) Regulations 2004[^f0023
 
 .
 
-### 131. Child Trust Funds (Non-tax Appeals) Regulations 2005[^key-4666ae66585e578ff98856ab74385e15]
+### 131. Child Trust Funds (Non-tax Appeals) Regulations 2005[^c-4666ae66585e578ff98856ab74385e15]
 
 The Child Trust Funds (Non-tax Appeals) Regulations 2005[^f00239] are amended as follows.
 
-**132.**[^key-530c1d5f66692fd824730c0670d1549b] Omit regulation 1(2).
+**132.**[^c-530c1d5f66692fd824730c0670d1549b] Omit regulation 1(2).
 
-**133.**[^key-495501a881b5cab7001b771658b0ff09] In regulation 4(2) (application of section 54 of the Taxes Management Act 1970) for “Commissioners” substitute “tribunal”.
+**133.**[^c-495501a881b5cab7001b771658b0ff09] In regulation 4(2) (application of section 54 of the Taxes Management Act 1970) for “Commissioners” substitute “tribunal”.
 
-**134.**[^key-e06eb3afdd58f5dfae1ec7cf6f6bf5f4] (1) Regulation 14 (application of section 39 of the 1998 Act etc) is amended as follows—
+**134.**[^c-e06eb3afdd58f5dfae1ec7cf6f6bf5f4] (1) Regulation 14 (application of section 39 of the 1998 Act etc) is amended as follows—
 
 (2) for paragraphs (2)(b) and (3)(b) substitute—
 
@@ -1296,19 +1296,19 @@ The Child Trust Funds (Non-tax Appeals) Regulations 2005[^f00239] are amended as
 
 .
 
-### 135. Child Trust Funds (Appeals) (Northern Ireland) Regulations 2005[^key-5f0052f6654c08b217cdf89acfbaebb0]
+### 135. Child Trust Funds (Appeals) (Northern Ireland) Regulations 2005[^c-5f0052f6654c08b217cdf89acfbaebb0]
 
 Omit regulation 1(2) of the Child Trust Funds (Appeals) (Northern Ireland) Regulations 2005[^f00240].
 
-### 136. Child Trust Funds (Appeals) Regulations 2005[^key-ad8abeb79d30fd7e98dd323b0fade6db]
+### 136. Child Trust Funds (Appeals) Regulations 2005[^c-ad8abeb79d30fd7e98dd323b0fade6db]
 
 Omit regulation 1(2) of the Child Trust Funds (Appeals) Regulations 2005[^f00241].
 
-### 137. Income Tax (Construction Industry Scheme) Regulations 2005[^key-6e4c9608ab2183b6647594215eb889a1]
+### 137. Income Tax (Construction Industry Scheme) Regulations 2005[^c-6e4c9608ab2183b6647594215eb889a1]
 
 The Income Tax (Construction Industry Scheme) Regulations 2005[^f00242] are amended as follows.
 
-**138.**[^key-d6ddc6267b1aed260d71a12cf82c660a] (1) Regulation 2 (interpretation) is amended as follows.
+**138.**[^c-d6ddc6267b1aed260d71a12cf82c660a] (1) Regulation 2 (interpretation) is amended as follows.
 
 (2) Omit the entry for “tax appeal Commissioners”.
 
@@ -1318,7 +1318,7 @@ The Income Tax (Construction Industry Scheme) Regulations 2005[^f00242] are amen
 
 .
 
-**139.**[^key-1e8fb029dd2506ce3edecba93e9716d1] (1) Regulation 9(9) (recovery from sub-contractor of amount not deducted by contractor) is amended as follows.
+**139.**[^c-1e8fb029dd2506ce3edecba93e9716d1] (1) Regulation 9(9) (recovery from sub-contractor of amount not deducted by contractor) is amended as follows.
 
 (2) For “it appears to the tax appeal Commissioners”, substitute “that is notified to the tribunal it appears”.
 
@@ -1326,15 +1326,15 @@ The Income Tax (Construction Industry Scheme) Regulations 2005[^f00242] are amen
 
 (4) For “tax appeal Commissioners determine” substitute “tribunal determines”.
 
-**140.**[^key-635743437f072655b5fbfb0ad9963abc] (1) Regulation 13 (determination of amounts payable by contractor and appeal against determination) is amended as follows.
+**140.**[^c-635743437f072655b5fbfb0ad9963abc] (1) Regulation 13 (determination of amounts payable by contractor and appeal against determination) is amended as follows.
 
 (2) In paragraph (6) for “General Commissioners” substitute “tribunal”.
 
 (3) Omit paragraph (7).
 
-**141.**[^key-2c4b6714978c3366dbe0879194a63fdd] Omit regulation 25(6).
+**141.**[^c-2c4b6714978c3366dbe0879194a63fdd] Omit regulation 25(6).
 
-**142.**[^key-087b54c161946ba73a386d389e3e679c] (1) Regulation 59 (appeals: supplementary provisions) is amended as follows.
+**142.**[^c-087b54c161946ba73a386d389e3e679c] (1) Regulation 59 (appeals: supplementary provisions) is amended as follows.
 
 (2) For paragraph (1) substitute—
 
@@ -1344,17 +1344,17 @@ The Income Tax (Construction Industry Scheme) Regulations 2005[^f00242] are amen
 
 (3) Omit paragraphs (2) and (3).
 
-### 143. Registered Pension Schemes (Relief at Source) Regulations 2005[^key-d874f81ff86be6000cefe0978dd7e822]
+### 143. Registered Pension Schemes (Relief at Source) Regulations 2005[^c-d874f81ff86be6000cefe0978dd7e822]
 
 The Registered Pension Schemes (Relief at Source) Regulations 2005[^f00243] are amended as follows.
 
-**144.**[^key-f7fb8787c5b798903dda7823473b6bed] In regulation 2(2) (interpretation) after the entry for “TMA 1970” insert—
+**144.**[^c-f7fb8787c5b798903dda7823473b6bed] In regulation 2(2) (interpretation) after the entry for “TMA 1970” insert—
 
 > - “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
 
 .
 
-**145.**[^key-cf5a353f5beb05f6dc671238e1c0eb2e] (1) Regulation 12 (claims: supplementary provisions) is amended as follows.
+**145.**[^c-cf5a353f5beb05f6dc671238e1c0eb2e] (1) Regulation 12 (claims: supplementary provisions) is amended as follows.
 
 (2) In paragraph (3)—
 
@@ -1363,21 +1363,21 @@ The Registered Pension Schemes (Relief at Source) Regulations 2005[^f00243] are 
 
 (3) In paragraph (5) for “and on an appeal to the Special Commissioners” substitute “and, on an appeal that is notified to the tribunal, the tribunal”.
 
-### 146. Hydrocarbon Oil (Registered Remote Markers) Regulations 2005[^key-d60b4a895a0e52792e5dce82b1d13d0f]
+### 146. Hydrocarbon Oil (Registered Remote Markers) Regulations 2005[^c-d60b4a895a0e52792e5dce82b1d13d0f]
 
 In regulation 13(4)(b) (relief that is not allowed) of the Hydrocarbon Oil (Registered Remote Markers) Regulations 2005[^f00244] omit “VAT and duties”.
 
-### 147. Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^key-e852403e1d54261e4cc8d9edca26bb10]
+### 147. Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^c-e852403e1d54261e4cc8d9edca26bb10]
 
 The Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^f00245] are amended as follows.
 
-**148.**[^key-a6f1b532fdf865a27e30af1a971f0ace] In regulation 2(1) (interpretation) after the entry for “the specified regulations” insert—
+**148.**[^c-a6f1b532fdf865a27e30af1a971f0ace] In regulation 2(1) (interpretation) after the entry for “the specified regulations” insert—
 
 > - “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
 
 .
 
-**149.**[^key-c7fccf6ed4d6f549e046b9fcac9f6b92] (1) Regulation 12 (late submission of notification) is amended as follows.
+**149.**[^c-c7fccf6ed4d6f549e046b9fcac9f6b92] (1) Regulation 12 (late submission of notification) is amended as follows.
 
 (2) In paragraph (4) omit “to the Commissioners”.
 
@@ -1390,7 +1390,7 @@ The Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^f
 - (a) for “Commissioners allow” substitute “tribunal allows”; and
 - (b) for “they” substitute “the tribunal”.
 
-**150.**[^key-4bfcc645f56320647778e57baccf435d] (1) Regulation 14 (appeal against refusal to issue certificate) is amended as follows.
+**150.**[^c-4bfcc645f56320647778e57baccf435d] (1) Regulation 14 (appeal against refusal to issue certificate) is amended as follows.
 
 (2) In paragraph (3) omit “to the Commissioners”.
 
@@ -1404,7 +1404,7 @@ The Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^f
 - (b) for “they” substitute “the tribunal”; and
 - (c) for “Commissioners” substitute “tribunal”.
 
-**151.**[^key-d9b158f9b9e7940cfc74d3507e8b55e6] (1) Regulation 14A (appeal against refusal to confirm validity of notification)[^f00246] is amended as follows.
+**151.**[^c-d9b158f9b9e7940cfc74d3507e8b55e6] (1) Regulation 14A (appeal against refusal to confirm validity of notification)[^f00246] is amended as follows.
 
 (2) In paragraph (3) omit “to the Commissioners”.
 
@@ -1418,7 +1418,7 @@ The Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^f
 - (b) for “they” substitute “the tribunal”; and
 - (c) for “Commissioners” substitute “tribunal”.
 
-**152.**[^key-bf10af82a0a20ea051f27feaeac87ec4] (1) Regulation 24 (revocation or amendment of certificate) is amended as follows.
+**152.**[^c-bf10af82a0a20ea051f27feaeac87ec4] (1) Regulation 24 (revocation or amendment of certificate) is amended as follows.
 
 (2) In paragraph (3) omit “to the Commissioners”.
 
@@ -1442,7 +1442,7 @@ The Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^f
 - (a) for “Commissioners determine” substitute “tribunal determines”; and
 - (b) for “Commissioners”, in both other places, substitute “tribunal”.
 
-### 153. Registered Pension Schemes and Overseas Pensions Schemes (Electronic Communications of Returns and Information) Regulations 2006[^key-1fecfadfa242d641929a1bf3c903c9aa]
+### 153. Registered Pension Schemes and Overseas Pensions Schemes (Electronic Communications of Returns and Information) Regulations 2006[^c-1fecfadfa242d641929a1bf3c903c9aa]
 
 (1) The Registered Pension Schemes and Overseas Pensions Schemes (Electronic Communications of Returns and Information) Regulations 2006[^f00247] are amended as follows.
 
@@ -1450,17 +1450,17 @@ The Registered Pension Schemes (Enhanced Lifetime Allowance) Regulations 2006[^f
 
 (3) In Schedule 2 omit “to the tax appeal Commissioners” in each place.
 
-### 154. Authorised Investment Funds (Tax) Regulations 2006[^key-e73354f4b39426753abd9c4a09218cbf]
+### 154. Authorised Investment Funds (Tax) Regulations 2006[^c-e73354f4b39426753abd9c4a09218cbf]
 
 The Authorised Investment Funds (Tax) Regulations 2006[^f00248] are amended as follows.
 
-**155.**[^key-69de3b7ac37bfad627e67e7f0bc9a584] In regulation 8 (general interpretation) after the entry for “tax year” insert—
+**155.**[^c-69de3b7ac37bfad627e67e7f0bc9a584] In regulation 8 (general interpretation) after the entry for “tax year” insert—
 
 > - “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
 
 .
 
-**156.**[^key-e942d467e48c42c96d8e44308df5859e] (1) Regulation 69T (appeal against quashing notice)[^f00249] is amended as follows.
+**156.**[^c-e942d467e48c42c96d8e44308df5859e] (1) Regulation 69T (appeal against quashing notice)[^f00249] is amended as follows.
 
 (2) In paragraph (1) omit “to the Special Commissioners”.
 
@@ -1471,13 +1471,13 @@ The Authorised Investment Funds (Tax) Regulations 2006[^f00248] are amended as f
 - (a) for “Special Commissioners allow” substitute “tribunal allows”; and
 - (b) for “they may” in sub-paragraphs (a) and (b) substitute “the tribunal may”.
 
-**157.**[^key-6b6ff7a533eb8cb0d085305873c6e741] (1) Regulation 69Z11 (appeal against notice under regulation 69Z10) is amended as follows.
+**157.**[^c-6b6ff7a533eb8cb0d085305873c6e741] (1) Regulation 69Z11 (appeal against notice under regulation 69Z10) is amended as follows.
 
 (2) In paragraph (1) omit “to the Special Commissioners”.
 
 (3) In paragraph (3) for “the Special Commissioners” substitute “that is notified to the tribunal, the tribunal”.
 
-**158.**[^key-325a4fe14366d20533f1edc625a5164a] (1) Regulation 69Z38 (appeal against termination notice) is amended as follows.
+**158.**[^c-325a4fe14366d20533f1edc625a5164a] (1) Regulation 69Z38 (appeal against termination notice) is amended as follows.
 
 (2) In paragraphs (1) omit “to the Special Commissioners”.
 
@@ -1488,7 +1488,7 @@ The Authorised Investment Funds (Tax) Regulations 2006[^f00248] are amended as f
 - (a) for “they decide” substitute “the tribunal decides”; and
 - (b) for “they must” substitute “the tribunal must”.
 
-### 159. Scottish Parliament (Disqualification) Order 2007[^key-07f75d7102492b5d66ba5780c8d55326]
+### 159. Scottish Parliament (Disqualification) Order 2007[^c-07f75d7102492b5d66ba5780c8d55326]
 
 (1) Part 1 of the Schedule to the Scottish Parliament (Disqualification) Order 2007[^f00250] (office-holders disqualified from being a member of the Scottish Parliament) is amended as follows.
 
@@ -1497,17 +1497,17 @@ The Authorised Investment Funds (Tax) Regulations 2006[^f00248] are amended as f
 - (a) Chairman of the tribunal constituted under section 706 of the Income and Corporation Taxes Act 1988; and
 - (b) President or Vice-President of Value Added Tax Tribunals or full-time chairman of Value Added Tax Tribunals.
 
-### 160. Control of Cash (Penalties) Regulations 2007[^key-a83fec2abac5a722ee9e70b153879d24]
+### 160. Control of Cash (Penalties) Regulations 2007[^c-a83fec2abac5a722ee9e70b153879d24]
 
 The Control of Cash (Penalties) Regulations 2007[^f00251] are amended as follows—
 
-**161.**[^key-b16d3baeb1a44949fcda7ff26bc3f724] In regulation 2 (interpretation) after “the Commissioners” insert—
+**161.**[^c-b16d3baeb1a44949fcda7ff26bc3f724] In regulation 2 (interpretation) after “the Commissioners” insert—
 
 > - “tribunal” means the First-tier Tribunal or, where determined by or under Tribunal Procedure Rules, the Upper Tribunal.
 
 .
 
-**162.**[^key-9de4a9772c59b065e22c1885a338ec7a] (1) Regulation 3 (power to impose penalties) is amended as follows.
+**162.**[^c-9de4a9772c59b065e22c1885a338ec7a] (1) Regulation 3 (power to impose penalties) is amended as follows.
 
 (2) For paragraph (2) substitute—
 
@@ -1518,7 +1518,7 @@ The Control of Cash (Penalties) Regulations 2007[^f00251] are amended as follows
 
 .
 
-**163.**[^key-d23c3edd1737057ccf7de56432f21b95] (1) Regulation 4 (review procedure) is amended as follows.
+**163.**[^c-d23c3edd1737057ccf7de56432f21b95] (1) Regulation 4 (review procedure) is amended as follows.
 
 (2) For the heading substitute “Appeals”.
 
@@ -1526,7 +1526,7 @@ The Control of Cash (Penalties) Regulations 2007[^f00251] are amended as follows
 
 (4) Omit paragraphs (2) to (5).
 
-**164.**[^key-196a6474fde75df388cc7f76ff3ed031] After regulation 4 insert—
+**164.**[^c-196a6474fde75df388cc7f76ff3ed031] After regulation 4 insert—
 
 > **4A. Offer of review**
 >
@@ -1640,7 +1640,7 @@ The Control of Cash (Penalties) Regulations 2007[^f00251] are amended as follows
 
 .
 
-**165.**[^key-c554213f702ae88a9fee910a58e6d08a] For regulation 5 substitute—
+**165.**[^c-c554213f702ae88a9fee910a58e6d08a] For regulation 5 substitute—
 
 > **5. Settling of appeals by agreement**
 >
@@ -1648,9 +1648,9 @@ The Control of Cash (Penalties) Regulations 2007[^f00251] are amended as follows
 
 .
 
-**166.**[^key-d3e82ae554f53ace39a30d4a9d3af1b6] In regulation 6 for “5” substitute “4”.
+**166.**[^c-d3e82ae554f53ace39a30d4a9d3af1b6] In regulation 6 for “5” substitute “4”.
 
-**167.**[^key-6d1558f96d7f4b68296b1dbb0359b183] For regulation 7 substitute—
+**167.**[^c-6d1558f96d7f4b68296b1dbb0359b183] For regulation 7 substitute—
 
 > **7.** (1) An appeal shall not be entertained unless—
 >
@@ -1665,11 +1665,11 @@ The Control of Cash (Penalties) Regulations 2007[^f00251] are amended as follows
 
 .
 
-### 168. Money Laundering Regulations 2007[^key-ac3f24aca8b5cf357c2dfc90c200d748]
+### 168. Money Laundering Regulations 2007[^c-ac3f24aca8b5cf357c2dfc90c200d748]
 
 The Money Laundering Regulations 2007[^f00253] are amended as follows.
 
-**169.**[^key-43f0dc3180fc0a9cc25ce8123b242fb5] (1) Regulation 29 (determination of applications under regulation 27) is amended as follows.
+**169.**[^c-43f0dc3180fc0a9cc25ce8123b242fb5] (1) Regulation 29 (determination of applications under regulation 27) is amended as follows.
 
 (2) For paragraph (2)(b)(iii) substitute—
 
@@ -1679,7 +1679,7 @@ The Money Laundering Regulations 2007[^f00253] are amended as follows.
 
 (3) In paragraph (2)(b)(iv) for “44(1)(a)” substitute “43”.
 
-**170.**[^key-42333a40082e1968e32fe1801a7b2478] (1) Regulation 30 (cancellation of registration etc) is amended as follows.
+**170.**[^c-42333a40082e1968e32fe1801a7b2478] (1) Regulation 30 (cancellation of registration etc) is amended as follows.
 
 (2) For paragraph (3)(c) substitute—
 
@@ -1689,13 +1689,13 @@ The Money Laundering Regulations 2007[^f00253] are amended as follows.
 
 (3) In paragraph (3)(d) for “44(1)(a)” substitute “43”.
 
-**171.**[^key-f1f2dfa2f243ba5ecbf2a8c433798005] (1) Regulation 42 (power to impose civil penalties) is amended as follows.
+**171.**[^c-f1f2dfa2f243ba5ecbf2a8c433798005] (1) Regulation 42 (power to impose civil penalties) is amended as follows.
 
 (2) In paragraph (5)(c) for “43” substitute “43A”.
 
 (3) In paragraph (5)(d) for “44(1)(a)” substitute “43”.
 
-**172.**[^key-ec790a4f6552a96ca428bbbb8f193a4d] (1) Regulation 43 (review procedure) is amended as follows.
+**172.**[^c-ec790a4f6552a96ca428bbbb8f193a4d] (1) Regulation 43 (review procedure) is amended as follows.
 
 (2) For the heading substitute “Appeals against decisions of the Commissioners”.
 
@@ -1716,7 +1716,7 @@ The Money Laundering Regulations 2007[^f00253] are amended as follows.
 
 .
 
-**173.**[^key-8c2cdd948d3e00135b931f11be5f87c1] After regulation 43 insert—
+**173.**[^c-8c2cdd948d3e00135b931f11be5f87c1] After regulation 43 insert—
 
 > **43A. Offer of review**
 >
@@ -1830,7 +1830,7 @@ The Money Laundering Regulations 2007[^f00253] are amended as follows.
 
 .
 
-**174.**[^key-20abcd19339aab96cd673e513a04a77b] (1) Regulation 44 (appeals) is amended as follows.
+**174.**[^c-20abcd19339aab96cd673e513a04a77b] (1) Regulation 44 (appeals) is amended as follows.
 
 (2) Omit paragraphs (1)(a) and (2)(a).
 
@@ -1838,23 +1838,23 @@ The Money Laundering Regulations 2007[^f00253] are amended as follows.
 
 (4) Omit paragraph (6).
 
-**175.**[^key-cefd0ed2e249047435afa5712072d875] For paragraph 1 of Schedule 5 (modifications in relation to appeals) substitute—
+**175.**[^c-cefd0ed2e249047435afa5712072d875] For paragraph 1 of Schedule 5 (modifications in relation to appeals) substitute—
 
 > **1.** Part 5 of the Value Added Tax Act 1994 (appeals)[^f00255] is modified by omitting sections 83A to 84, 85A and 85B.
 
 .
 
-### 176. Transfer of Funds (Information on the Payer) Regulations 2007[^key-3605c7f7bef3c29ba227c48495d44389]
+### 176. Transfer of Funds (Information on the Payer) Regulations 2007[^c-3605c7f7bef3c29ba227c48495d44389]
 
 The Transfer of Funds (Information on the Payer) Regulations 2007[^f00256] are amended as follows.
 
-**177.**[^key-98fada3f1a178dddd3a2c36c30a1709c] (1) Regulation 11 (power to impose civil penalties) is amended as follows.
+**177.**[^c-98fada3f1a178dddd3a2c36c30a1709c] (1) Regulation 11 (power to impose civil penalties) is amended as follows.
 
 (2) In paragraph (5)(c) for “12” substitute “12A”.
 
 (3) In paragraph (5)(d) for “13(1)(b)” substitute “12”.
 
-**178.**[^key-c07db17cd700b468dd945eedefbf4870] (1) Regulation 12 (review procedure) is amended as follows.
+**178.**[^c-c07db17cd700b468dd945eedefbf4870] (1) Regulation 12 (review procedure) is amended as follows.
 
 (2) For the heading substitute “Appeals against decisions of the Commissioners”.
 
@@ -1873,7 +1873,7 @@ The Transfer of Funds (Information on the Payer) Regulations 2007[^f00256] are a
 
 .
 
-**179.**[^key-675964b20f100830590407a49f635d2b] After regulation 12 insert—
+**179.**[^c-675964b20f100830590407a49f635d2b] After regulation 12 insert—
 
 > **12A. Offer of review**
 >
@@ -1987,7 +1987,7 @@ The Transfer of Funds (Information on the Payer) Regulations 2007[^f00256] are a
 
 .
 
-**180.**[^key-4593b30c25d3ece8cc2431fe47a43257] (1) Regulation 13 (appeals) is amended as follows.
+**180.**[^c-4593b30c25d3ece8cc2431fe47a43257] (1) Regulation 13 (appeals) is amended as follows.
 
 (2) For paragraphs (1) and (2) substitute—
 
@@ -2001,17 +2001,17 @@ The Transfer of Funds (Information on the Payer) Regulations 2007[^f00256] are a
 
 (3) Omit paragraphs (4) and (5).
 
-**181.**[^key-68c594eba327b29d88edd1bbc2159ba6] For paragraph 2 of Schedule 2 (modifications in relation to appeals) substitute—
+**181.**[^c-68c594eba327b29d88edd1bbc2159ba6] For paragraph 2 of Schedule 2 (modifications in relation to appeals) substitute—
 
 > **2.** Part 5 of the Value Added Tax Act 1994 (appeals)[^f00258] is modified by omitting sections 83A to 84, 85A and 85B.
 
 .
 
-### 182. Income Tax (Purchased Life Annuities) Regulations 2008[^key-b2ad80f47b94597a5f4b3d79037ada59]
+### 182. Income Tax (Purchased Life Annuities) Regulations 2008[^c-b2ad80f47b94597a5f4b3d79037ada59]
 
 The Income Tax (Purchased Life Annuities) Regulations 2008[^f00259] are amended as follows.
 
-**183.**[^key-61d3788f67efd10fb0d2982507f4b05c] (1) Regulation 20 (appeals against decisions of the Commissioners) is amended as follows.
+**183.**[^c-61d3788f67efd10fb0d2982507f4b05c] (1) Regulation 20 (appeals against decisions of the Commissioners) is amended as follows.
 
 (2) Omit paragraph (3).
 
@@ -2021,19 +2021,19 @@ The Income Tax (Purchased Life Annuities) Regulations 2008[^f00259] are amended 
 - (b) for “the Special Commissioners must, on appeal to them,” substitute “on an appeal that is notified to the tribunal, the tribunal must”; and
 - (c) omit “they are”.
 
-### 184. The Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008[^key-a7fcc88508e89294da9deb1f57710c58]
+### 184. The Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008[^c-a7fcc88508e89294da9deb1f57710c58]
 
 Omit paragraph 4 of the Schedule to the Serious Organised Crime and Police Act 2005 and Serious Crime Act 2007 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2008[^f00260].
 
-### 185. Appeals (Excluded Decisions) Order 2008[^key-1468915835871da8adb4568c8735bb7e]
+### 185. Appeals (Excluded Decisions) Order 2008[^c-1468915835871da8adb4568c8735bb7e]
 
 Omit article 2(c) of the Appeals (Excluded Decisions) Order 2008[^f00261].
 
-### 186. The Transfer of Tribunal Functions Order 2008[^key-0ce990802e5f058f7235bdfd346bf901]
+### 186. The Transfer of Tribunal Functions Order 2008[^c-0ce990802e5f058f7235bdfd346bf901]
 
 In the Transfer of Tribunal Functions Order 2008[^f00262], in paragraph 191 of Schedule 3, omit sub-paragraphs (2) to (7).
 
-### 187. Revocations[^key-1b53cd3f1ea1f2cd8b9ceb22a243f82a]
+### 187. Revocations[^c-1b53cd3f1ea1f2cd8b9ceb22a243f82a]
 
 The following instruments are revoked—
 
@@ -2062,527 +2062,527 @@ The following instruments are revoked—
 
 ## Annotations
 
-[^key-4717120c7d1d57ebd1c18b2b18cca99c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/1) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-4717120c7d1d57ebd1c18b2b18cca99c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/1) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00189]: Footnote: [S.I. 1967/149](https://www.legislation.gov.uk/uksi/1967/149).
 
-[^key-d723c1028102446050a4018ad9018fde]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/2) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d723c1028102446050a4018ad9018fde]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/2) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-98a80bd034776dc87af53e6cdae0387c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/3) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-98a80bd034776dc87af53e6cdae0387c]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/3) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-8b2bbabe9bd66aeac047532f1c619a0e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/4) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-8b2bbabe9bd66aeac047532f1c619a0e]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/4) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-e84dc2fa95c1ebc4604782b0eb293521]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/5) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-e84dc2fa95c1ebc4604782b0eb293521]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/5) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-daca7cb98c13976eb8624a71b3466e9d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/6) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-daca7cb98c13976eb8624a71b3466e9d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/6) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-e716789fe2fe7d93f632e2f13ce60848]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/7) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-e716789fe2fe7d93f632e2f13ce60848]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/7) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00190]: Footnote: [S.I. 1978/1159](https://www.legislation.gov.uk/uksi/1978/1159).
 
-[^key-e19b0467101f7287aeb20724f5d53f80]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/8) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-e19b0467101f7287aeb20724f5d53f80]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/8) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00191]: Footnote: [S.I. 1982/92](https://www.legislation.gov.uk/uksi/1982/92).
 
 [^f00192]: Footnote: [1975 c. 22](https://www.legislation.gov.uk/ukpga/1975/22). Paragraphs 14A to 14I were inserted by paragraph 75 of Schedule 1 to this Order.
 
-[^key-2a59c974a2b77a21a642c5c54d4713f1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/9) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2a59c974a2b77a21a642c5c54d4713f1]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/9) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00193]: Footnote: [S.I. 1982/1236](https://www.legislation.gov.uk/uksi/1982/1236).
 
-[^key-a956b7365159f926352f0b269a92fdcf]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/10) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-a956b7365159f926352f0b269a92fdcf]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/10) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-a6f2ab3c36935cb86311f4f2c12fc59d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/11) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-a6f2ab3c36935cb86311f4f2c12fc59d]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/11) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-8ac0ad8af3232a6d12e480b6116a7d55]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/12) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-8ac0ad8af3232a6d12e480b6116a7d55]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/12) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00194]: Footnote: [S.I. 1986/1711](https://www.legislation.gov.uk/uksi/1986/1711).
 
-[^key-04d92e70366dd3ad0056f48e49a2da6a]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/13) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-04d92e70366dd3ad0056f48e49a2da6a]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/13) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-c156ee8575aa5205ed07b37e454eee86]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/14) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-c156ee8575aa5205ed07b37e454eee86]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/14) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00195]: Footnote: Regulation 8 was amended by regulations 1 to 3 of [S.I. 1993/3110](https://www.legislation.gov.uk/uksi/1993/3110) and by [S.I. 1997/2430](https://www.legislation.gov.uk/uksi/1997/2430).
 
 [^f00196]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Sections 49A to 49I were inserted by paragraph 30 of Schedule 1 to this Order.
 
-[^key-53e8400a4ab59eec1428a1e73b816a71]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/15) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-53e8400a4ab59eec1428a1e73b816a71]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/15) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-98b7979bb3aab835087402a1c8dc6dd8]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/16) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-98b7979bb3aab835087402a1c8dc6dd8]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/16) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-effe468025d58fcae0197eefbf002549]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/17) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-effe468025d58fcae0197eefbf002549]: Commencement: [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/17) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00197]: Footnote: The table has been amended. Relevant amendments were made by regulation 7(11) of [S.I. 1993/3110](https://www.legislation.gov.uk/uksi/1993/3110).
 
-[^key-9806443bd240fac76a793b010172dc35]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/18) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-9806443bd240fac76a793b010172dc35]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/18) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-114ff6e0078f52640a951da3e9d214a3]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/19) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-114ff6e0078f52640a951da3e9d214a3]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/19) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-6303c8c87af1afc3657373baa462da9b]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/20) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-6303c8c87af1afc3657373baa462da9b]: Commencement: [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/20) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00198]: Footnote: Sections 100 to 100D (as modified) were substituted for section 100 by regulations 1, 2, and 7 of [S.I. 1993/3110](https://www.legislation.gov.uk/uksi/1993/3110).
 
-[^key-d4abf52b2ea3b22c5f00f0b9f2eb48c8]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/21) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d4abf52b2ea3b22c5f00f0b9f2eb48c8]: Commencement: [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/21) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-402a980cd099e617426c9c78d1e6767e]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/22) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-402a980cd099e617426c9c78d1e6767e]: Commencement: [Sch. 2 para. 22](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/22) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00199]: Footnote: [S.I. 1986/2211](https://www.legislation.gov.uk/uksi/1986/2211).
 
-[^key-1395d7671a7fe4b105e7f968c09a7c22]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/23) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-1395d7671a7fe4b105e7f968c09a7c22]: Commencement: [Sch. 2 para. 23](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/23) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00200]: Footnote: [S.I. 1995/1979](https://www.legislation.gov.uk/uksi/1995/1979).
 
-[^key-1524fc2e859f6b7349eefb042209feed]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/24) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-1524fc2e859f6b7349eefb042209feed]: Commencement: [Sch. 2 para. 24](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/24) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-ee364801414f092517afbc73afccc259]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/25) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ee364801414f092517afbc73afccc259]: Commencement: [Sch. 2 para. 25](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/25) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-28141c72ec46508e023c2046e2d631cc]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/26) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-28141c72ec46508e023c2046e2d631cc]: Commencement: [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/26) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-007164452fa85dedac3fa1bdfa63c3df]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/27) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-007164452fa85dedac3fa1bdfa63c3df]: Commencement: [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/27) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-9f15fde267b454cfd666c2c1796e3e67]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/28) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-9f15fde267b454cfd666c2c1796e3e67]: Commencement: [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/28) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00201]: Footnote: [S.I. 1995/2902](https://www.legislation.gov.uk/uksi/1995/2902).
 
-[^key-63a0bdb4df19b7ad8abe5993e5457034]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/29) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-63a0bdb4df19b7ad8abe5993e5457034]: Commencement: [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/29) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-a4f182a2c5766205069fe957d1d6bf9f]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/30) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-a4f182a2c5766205069fe957d1d6bf9f]: Commencement: [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/30) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-afd8715d3a725515edac401f915e8fec]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/31) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-afd8715d3a725515edac401f915e8fec]: Commencement: [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/31) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-06e66c692377c4b277292507a9de13a3]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/32) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-06e66c692377c4b277292507a9de13a3]: Commencement: [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/32) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-2f117c712a21a78ed395ca1eab6be4dd]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/33) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2f117c712a21a78ed395ca1eab6be4dd]: Commencement: [Sch. 2 para. 33](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/33) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00202]: Footnote: [S.I. 1997/534](https://www.legislation.gov.uk/uksi/1997/534).
 
-[^key-5e1111385fb9b7193b897d8887daacfc]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/34) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-5e1111385fb9b7193b897d8887daacfc]: Commencement: [Sch. 2 para. 34](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/34) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-3b8763cc5270cf9219872196d753b3a8]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/35) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-3b8763cc5270cf9219872196d753b3a8]: Commencement: [Sch. 2 para. 35](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/35) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-ca0b90b56736b2d3eeacb0e149a33cf9]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/36) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ca0b90b56736b2d3eeacb0e149a33cf9]: Commencement: [Sch. 2 para. 36](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/36) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-9fcd6d040dedcb671fa8ba0e14448201]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/37) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-9fcd6d040dedcb671fa8ba0e14448201]: Commencement: [Sch. 2 para. 37](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/37) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-ad5afbcde0d1955a0131cef7877f4e89]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/38) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ad5afbcde0d1955a0131cef7877f4e89]: Commencement: [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/38) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00203]: Footnote: [S.I. 1998/1461](https://www.legislation.gov.uk/uksi/1998/1461).
 
-[^key-6832ef9b217ab72329575ad56b0faa73]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/39) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-6832ef9b217ab72329575ad56b0faa73]: Commencement: [Sch. 2 para. 39](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/39) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00204]: Footnote: Regulations 4 and 5 were substituted by regulation 4 of [S.I. 2000/631](https://www.legislation.gov.uk/uksi/2000/631) and amended by regulations 1 to 3 of [S.I. 2001/3337](https://www.legislation.gov.uk/uksi/2001/3337) and regulations 2 to 4 of [S.I. 2003/230](https://www.legislation.gov.uk/uksi/2003/230).
 
-[^key-46a19e73f6fa813e70af28fdc44dca69]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/40) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-46a19e73f6fa813e70af28fdc44dca69]: Commencement: [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/40) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-d1cbcd6b6af9da212901a52b4ede79a4]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/41) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d1cbcd6b6af9da212901a52b4ede79a4]: Commencement: [Sch. 2 para. 41](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/41) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00205]: Footnote: [S.I. 1998/1506](https://www.legislation.gov.uk/uksi/1998/1506) as amended by Schedule 6 to [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
-[^key-3dfb828282e34e177d80bfe583a8ea88]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/42) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-3dfb828282e34e177d80bfe583a8ea88]: Commencement: [Sch. 2 para. 42](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/42) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-85495c510bbc63eb545356a54f1dde0d]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/43) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-85495c510bbc63eb545356a54f1dde0d]: Commencement: [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/43) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-fc9f5ce8e8cc94902fe01ae4240d1b59]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/44) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-fc9f5ce8e8cc94902fe01ae4240d1b59]: Commencement: [Sch. 2 para. 44](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/44) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-0497a48151a3f1577e5f1a909aca142a]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/45) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-0497a48151a3f1577e5f1a909aca142a]: Commencement: [Sch. 2 para. 45](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/45) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00206]: Footnote: [S.I. 1998/1870](https://www.legislation.gov.uk/uksi/1998/1870).
 
-[^key-f8f42374e0782269c73a3665d5fb96f1]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/46) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-f8f42374e0782269c73a3665d5fb96f1]: Commencement: [Sch. 2 para. 46](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/46) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-1daec62f115c10def45036835e2839ed]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/47) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-1daec62f115c10def45036835e2839ed]: Commencement: [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/47) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-e39be8c17973345c49bc9cdcfc9fdcd9]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/48) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-e39be8c17973345c49bc9cdcfc9fdcd9]: Commencement: [Sch. 2 para. 48](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/48) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00207]: Footnote: [S.I. 1998/3175](https://www.legislation.gov.uk/uksi/1998/3175).
 
-[^key-fc3d3da037131de0f54ebd7f7dbcfcfc]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/49) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-fc3d3da037131de0f54ebd7f7dbcfcfc]: Commencement: [Sch. 2 para. 49](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/49) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-0fbffd7f4fb8c24a96a3679b8303788d]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/50) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-0fbffd7f4fb8c24a96a3679b8303788d]: Commencement: [Sch. 2 para. 50](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/50) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00208]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671).
 
-[^key-b61614a741e457c34c836139376af6c9]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/51) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b61614a741e457c34c836139376af6c9]: Commencement: [Sch. 2 para. 51](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/51) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-574b36400c96af727477305954dadcfc]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/52) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-574b36400c96af727477305954dadcfc]: Commencement: [Sch. 2 para. 52](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/52) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-f0e45131184abcf2b09410a42ac193c3]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/53) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-f0e45131184abcf2b09410a42ac193c3]: Commencement: [Sch. 2 para. 53](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/53) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-7b6d8f02272bc43ebe88dbf9c51c2474]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/54) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-7b6d8f02272bc43ebe88dbf9c51c2474]: Commencement: [Sch. 2 para. 54](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/54) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-ff8be6f104dcf83de1c149c013ab1870]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/55) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ff8be6f104dcf83de1c149c013ab1870]: Commencement: [Sch. 2 para. 55](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/55) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-01e9cf020aed2b29013f16494f3e3344]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/56) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-01e9cf020aed2b29013f16494f3e3344]: Commencement: [Sch. 2 para. 56](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/56) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-fc8e837899bddb94916668fc57cfbdf1]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/57) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-fc8e837899bddb94916668fc57cfbdf1]: Commencement: [Sch. 2 para. 57](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/57) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00209]: Footnote: [S.I. 1999/881](https://www.legislation.gov.uk/uksi/1999/881).
 
-[^key-117814facca1a926dfc6663d079de25c]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-117814facca1a926dfc6663d079de25c]: Commencement: [Sch. 2 para. 58](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/58) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-2b3733ed8ca919b81344117104212571]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/59) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2b3733ed8ca919b81344117104212571]: Commencement: [Sch. 2 para. 59](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/59) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00210]: Footnote: [S.I. 1999/1027](https://www.legislation.gov.uk/uksi/1999/1027).
 
-[^key-288dfbc1e3e95019ce46a8026e037ee6]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/60) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-288dfbc1e3e95019ce46a8026e037ee6]: Commencement: [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/60) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00211]: Footnote: Regulation 3 has been amended by regulation 3(1) and (2)(a) of [S.I. 2002/3120](https://www.legislation.gov.uk/uksi/2002/3120).
 
-[^key-471cbf7772fcbdaac54fec6864f7e07b]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/61) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-471cbf7772fcbdaac54fec6864f7e07b]: Commencement: [Sch. 2 para. 61](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/61) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-d9f9ee68ff5948892841a5a2ac0cecf4]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/62) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d9f9ee68ff5948892841a5a2ac0cecf4]: Commencement: [Sch. 2 para. 62](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/62) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00212]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Sections 49A to 49I were inserted by paragraph 30 of Schedule 1 to this Order.
 
-[^key-4837468b6c2eadef14333b4c4b6bc4d0]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/63) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-4837468b6c2eadef14333b4c4b6bc4d0]: Commencement: [Sch. 2 para. 63](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/63) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00213]: Footnote: Regulation 8 was amended and regulation 8A was inserted by regulations 2 to 4 of [S.I. 2001/4023](https://www.legislation.gov.uk/uksi/2001/4023).
 
-[^key-d870d7cc221e3ca225aee91ded70ed7d]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/64) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d870d7cc221e3ca225aee91ded70ed7d]: Commencement: [Sch. 2 para. 64](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/64) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-91af6299daca76cb573233f0ba0012c3]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/65) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-91af6299daca76cb573233f0ba0012c3]: Commencement: [Sch. 2 para. 65](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/65) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-b3f46e24067708e459b4cbacd69e1e2f]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/66) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b3f46e24067708e459b4cbacd69e1e2f]: Commencement: [Sch. 2 para. 66](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/66) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-bfaecea6856cddbca402636c9d0031da]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/67) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-bfaecea6856cddbca402636c9d0031da]: Commencement: [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/67) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-2a319c77f0e42cb63d367b1a072c3b5a]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/68) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2a319c77f0e42cb63d367b1a072c3b5a]: Commencement: [Sch. 2 para. 68](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/68) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00214]: Footnote: [S.I. 1999/2537](https://www.legislation.gov.uk/uksi/1999/2537).
 
-[^key-17a8ddb48e70f57e56963672a29a6efa]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/69) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-17a8ddb48e70f57e56963672a29a6efa]: Commencement: [Sch. 2 para. 69](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/69) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-0c1aedc0f38be5bd2f551522554502b7]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/70) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-0c1aedc0f38be5bd2f551522554502b7]: Commencement: [Sch. 2 para. 70](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/70) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-7a1d34b9508b53cefa641fb8b57dc9be]: Commencement: [Sch. 2 para. 71](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/71) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-7a1d34b9508b53cefa641fb8b57dc9be]: Commencement: [Sch. 2 para. 71](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/71) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-2ab0d8fbcaa5152acb1cc720f43b0508]: Commencement: [Sch. 2 para. 72](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/72) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2ab0d8fbcaa5152acb1cc720f43b0508]: Commencement: [Sch. 2 para. 72](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/72) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00215]: Footnote: [S.I. 1999/1748](https://www.legislation.gov.uk/uksi/1999/1748).
 
-[^key-c4cd017a8835b68a7b9aa9dad430e5df]: Commencement: [Sch. 2 para. 73](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/73) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-c4cd017a8835b68a7b9aa9dad430e5df]: Commencement: [Sch. 2 para. 73](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/73) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00216]: Footnote: [S.I. 2000/944](https://www.legislation.gov.uk/uksi/2000/944).
 
-[^key-015bcdfe52b85a88a24cf0499f9bb03d]: Commencement: [Sch. 2 para. 74](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/74) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-015bcdfe52b85a88a24cf0499f9bb03d]: Commencement: [Sch. 2 para. 74](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/74) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00217]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 
-[^key-98557546905f2a10a97d141e2232586d]: Commencement: [Sch. 2 para. 75](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/75) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-98557546905f2a10a97d141e2232586d]: Commencement: [Sch. 2 para. 75](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/75) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00218]: Footnote: Regulation 90Q was inserted by regulations 2 and 23 of [S.I. 2004/770](https://www.legislation.gov.uk/uksi/2004/770).
 
-[^key-84915dc0612a751122be0884a7a3f60c]: Commencement: [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/76) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-84915dc0612a751122be0884a7a3f60c]: Commencement: [Sch. 2 para. 76](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/76) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00219]: Footnote: Paragraphs 29A to 29L were inserted by regulation 2 of [S.I. 2007/2068](https://www.legislation.gov.uk/uksi/2007/2068).
 
-[^key-5456e714ee9fe893e2ac88da52f46c5f]: Commencement: [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/77) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-5456e714ee9fe893e2ac88da52f46c5f]: Commencement: [Sch. 2 para. 77](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/77) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00220]: Footnote: [S.I. 2001/3698](https://www.legislation.gov.uk/uksi/2001/3698).
 
-[^key-b37a615dda3582bbc7c8a97d71c744cc]: Commencement: [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/78) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b37a615dda3582bbc7c8a97d71c744cc]: Commencement: [Sch. 2 para. 78](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/78) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00221]: Footnote: [S.I. 2002/2173](https://www.legislation.gov.uk/uksi/2002/2173). Regulation 11 was amended by paragraph 190 of Schedule 1 to [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
-[^key-09d86c5ea77582bfe674ab1c7bb54615]: Commencement: [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/79) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-09d86c5ea77582bfe674ab1c7bb54615]: Commencement: [Sch. 2 para. 79](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/79) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00222]: Footnote: [S.I. 2002/2832](https://www.legislation.gov.uk/uksi/2002/2832).
 
-[^key-c3e9d392ed5e8fbc1a5aefd62fecc410]: Commencement: [Sch. 2 para. 80](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/80) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-c3e9d392ed5e8fbc1a5aefd62fecc410]: Commencement: [Sch. 2 para. 80](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/80) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00223]: Footnote: [S.I. 2002/2926](https://www.legislation.gov.uk/uksi/2002/2926). Regulations 3 and 12 were amended by paragraphs 193 and 202 of Schedule 1 to [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683).
 
-[^key-b6637ac99ac2c1bb024c8a05d6ea0265]: Commencement: [Sch. 2 para. 81](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/81) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b6637ac99ac2c1bb024c8a05d6ea0265]: Commencement: [Sch. 2 para. 81](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/81) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-5560ab72f3b69ac7c8d689dbd4ec520d]: Commencement: [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/82) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-5560ab72f3b69ac7c8d689dbd4ec520d]: Commencement: [Sch. 2 para. 82](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/82) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-5f0cfd5821754fc2a99c141d838c6668]: Commencement: [Sch. 2 para. 83](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/83) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-5f0cfd5821754fc2a99c141d838c6668]: Commencement: [Sch. 2 para. 83](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/83) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00224]: Footnote: [S.I. 2003/96](https://www.legislation.gov.uk/uksi/2003/96). Regulation 16 was amended by articles 2 and 5 of [S.I. 2008/383](https://www.legislation.gov.uk/uksi/2008/383).
 
-[^key-2e685017e4955fc0bdfcbfa2e8458414]: Commencement: [Sch. 2 para. 84](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/84) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2e685017e4955fc0bdfcbfa2e8458414]: Commencement: [Sch. 2 para. 84](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/84) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00225]: Footnote: [S.I. 2003/1382](https://www.legislation.gov.uk/uksi/2003/1382).
 
-[^key-ebddd60e256f3172c695979df94068e1]: Commencement: [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/85) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ebddd60e256f3172c695979df94068e1]: Commencement: [Sch. 2 para. 85](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/85) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-8ee267e6a615562b0b4b24a62dafe381]: Commencement: [Sch. 2 para. 86](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/86) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-8ee267e6a615562b0b4b24a62dafe381]: Commencement: [Sch. 2 para. 86](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/86) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-4c82acb5198dd51b65cc9b1a6ee7fb97]: Commencement: [Sch. 2 para. 87](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/87) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-4c82acb5198dd51b65cc9b1a6ee7fb97]: Commencement: [Sch. 2 para. 87](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/87) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-9b4e7f1230980f194260b0d1ea7d0a96]: Commencement: [Sch. 2 para. 88](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/88) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-9b4e7f1230980f194260b0d1ea7d0a96]: Commencement: [Sch. 2 para. 88](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/88) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-d1ba27095487a8008baa6986c8324177]: Commencement: [Sch. 2 para. 89](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/89) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d1ba27095487a8008baa6986c8324177]: Commencement: [Sch. 2 para. 89](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/89) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-de3e9e09af31ad7e62a76ec118198ce4]: Commencement: [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/90) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-de3e9e09af31ad7e62a76ec118198ce4]: Commencement: [Sch. 2 para. 90](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/90) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00226]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417).
 
-[^key-62ddf4c42535aa90129cf5162b27d961]: Commencement: [Sch. 2 para. 91](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/91) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-62ddf4c42535aa90129cf5162b27d961]: Commencement: [Sch. 2 para. 91](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/91) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00227]: Footnote: [S.I. 2003/2495](https://www.legislation.gov.uk/uksi/2003/2495).
 
-[^key-ad4021fab4407ec6a3b57d76f2618dce]: Commencement: [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/92) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ad4021fab4407ec6a3b57d76f2618dce]: Commencement: [Sch. 2 para. 92](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/92) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00228]: Footnote: [S.I. 2003/2682](https://www.legislation.gov.uk/uksi/2003/2682) as amended by regulations 2, 4 and 6 of [S.I. 2004/851](https://www.legislation.gov.uk/uksi/2004/851), and by regulations 2 and 7 of [S.I. 2008/782](https://www.legislation.gov.uk/uksi/2008/782).
 
-[^key-8c91032be0f03594ff31fdaf17fedf07]: Commencement: [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/93) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-8c91032be0f03594ff31fdaf17fedf07]: Commencement: [Sch. 2 para. 93](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/93) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-b439d5ec75ac1f3c05818b0039a512b9]: Commencement: [Sch. 2 para. 94](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/94) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b439d5ec75ac1f3c05818b0039a512b9]: Commencement: [Sch. 2 para. 94](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/94) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-3846aac4469abdd966704596d6a02524]: Commencement: [Sch. 2 para. 95](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/95) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-3846aac4469abdd966704596d6a02524]: Commencement: [Sch. 2 para. 95](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/95) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-8367d3c7944f799daa8772fd6c530b58]: Commencement: [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-8367d3c7944f799daa8772fd6c530b58]: Commencement: [Sch. 2 para. 96](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00229]: Footnote: Regulations 72A to 72D were inserted by regulations 2 and 4 of [S.I. 2004/851](https://www.legislation.gov.uk/uksi/2004/851).
 
-[^key-c4da2b51e9d7b85f584f0fc1dfc66b44]: Commencement: [Sch. 2 para. 97](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/97) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-c4da2b51e9d7b85f584f0fc1dfc66b44]: Commencement: [Sch. 2 para. 97](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/97) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-25e43a53ce64940d8506fc2a39471697]: Commencement: [Sch. 2 para. 98](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/98) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-25e43a53ce64940d8506fc2a39471697]: Commencement: [Sch. 2 para. 98](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/98) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-270f1523f62dbe88b2ad64b94caea2c4]: Commencement: [Sch. 2 para. 99](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/99) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-270f1523f62dbe88b2ad64b94caea2c4]: Commencement: [Sch. 2 para. 99](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/99) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-17f2686629cdb4acfc922f040ec6683d]: Commencement: [Sch. 2 para. 100](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/100) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-17f2686629cdb4acfc922f040ec6683d]: Commencement: [Sch. 2 para. 100](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/100) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00230]: Footnote: Regulation 72G was inserted by regulations 2 and 7 of [S.I. 2008/782](https://www.legislation.gov.uk/uksi/2008/782).
 
-[^key-64cf356b9b70c99a5c05c34bcf17c8f2]: Commencement: [Sch. 2 para. 101](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/101) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-64cf356b9b70c99a5c05c34bcf17c8f2]: Commencement: [Sch. 2 para. 101](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/101) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-85ca5f03c06a9d5cbf7dfbcc1c7b05b4]: Commencement: [Sch. 2 para. 102](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/102) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-85ca5f03c06a9d5cbf7dfbcc1c7b05b4]: Commencement: [Sch. 2 para. 102](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/102) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00231]: Footnote: Regulation 81A was inserted by regulations 2 and 6 of [S.I. 2004/851](https://www.legislation.gov.uk/uksi/2004/851).
 
-[^key-030f8315aa7d269ffbf340178255ce7a]: Commencement: [Sch. 2 para. 103](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/103) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-030f8315aa7d269ffbf340178255ce7a]: Commencement: [Sch. 2 para. 103](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/103) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-b47d66137954fbedb15444a1b6b8d9b5]: Commencement: [Sch. 2 para. 104](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/104) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b47d66137954fbedb15444a1b6b8d9b5]: Commencement: [Sch. 2 para. 104](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/104) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00232]: Footnote: Regulations 97A to 97L were inserted by regulation 2 of [S.I. 2007/2069](https://www.legislation.gov.uk/uksi/2007/2069).
 
-[^key-85c2cfd99878b70e9a28de809e687f83]: Commencement: [Sch. 2 para. 105](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/105) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-85c2cfd99878b70e9a28de809e687f83]: Commencement: [Sch. 2 para. 105](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/105) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-2f309fb14bda9ce223907cedbe89b7b1]: Commencement: [Sch. 2 para. 106](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/106) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2f309fb14bda9ce223907cedbe89b7b1]: Commencement: [Sch. 2 para. 106](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/106) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-f657299a681ee5b472b015744bede646]: Commencement: [Sch. 2 para. 107](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/107) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-f657299a681ee5b472b015744bede646]: Commencement: [Sch. 2 para. 107](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/107) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-8d037915cb699b7327eeef05543ce3b2]: Commencement: [Sch. 2 para. 108](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/108) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-8d037915cb699b7327eeef05543ce3b2]: Commencement: [Sch. 2 para. 108](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/108) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-b20e64be396a13a02374895f9d91513e]: Commencement: [Sch. 2 para. 109](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/109) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b20e64be396a13a02374895f9d91513e]: Commencement: [Sch. 2 para. 109](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/109) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-221c614b23f9d36a9a2e429b61eb57f5]: Textual amendment: [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/110) omitted (6.4.2010) by virtue of [The Finance Act 2009, Schedule 56 (Appointed Day and Consequential Provisions) Order 2010 (S.I. 2010/466)](https://www.legislation.gov.uk/uksi/2010/466), [arts. 1](https://www.legislation.gov.uk/uksi/2010/466/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2010/466/article/4/4)
+[^c-221c614b23f9d36a9a2e429b61eb57f5]: Textual amendment: [Sch. 2 para. 110](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/110) omitted (6.4.2010) by virtue of [The Finance Act 2009, Schedule 56 (Appointed Day and Consequential Provisions) Order 2010 (S.I. 2010/466)](https://www.legislation.gov.uk/uksi/2010/466), [arts. 1](https://www.legislation.gov.uk/uksi/2010/466/article/1), [4(4)](https://www.legislation.gov.uk/uksi/2010/466/article/4/4)
 
-[^key-55ffc708505e33da10aa56478f1e8ae6]: Commencement: [Sch. 2 para. 111](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/111) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-55ffc708505e33da10aa56478f1e8ae6]: Commencement: [Sch. 2 para. 111](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/111) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-9f07b1863fe0a9562888a0f7c0c6b192]: Commencement: [Sch. 2 para. 112](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/112) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-9f07b1863fe0a9562888a0f7c0c6b192]: Commencement: [Sch. 2 para. 112](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/112) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00233]: Footnote: [S.I. 2003/2837](https://www.legislation.gov.uk/uksi/2003/2837).
 
-[^key-d5a1346ee1914b63af06d96ff8782e9d]: Commencement: [Sch. 2 para. 113](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/113) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d5a1346ee1914b63af06d96ff8782e9d]: Commencement: [Sch. 2 para. 113](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/113) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-a9853332d5f731470450149ea5978699]: Commencement: [Sch. 2 para. 114](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/114) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-a9853332d5f731470450149ea5978699]: Commencement: [Sch. 2 para. 114](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/114) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-1be659943dd8857674a9d5bc38211ea8]: Commencement: [Sch. 2 para. 115](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/115) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-1be659943dd8857674a9d5bc38211ea8]: Commencement: [Sch. 2 para. 115](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/115) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-f2c4e669e7286457a275f039e25c39ba]: Commencement: [Sch. 2 para. 116](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/116) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-f2c4e669e7286457a275f039e25c39ba]: Commencement: [Sch. 2 para. 116](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/116) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00234]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14). Paragraphs 36A to 36I were inserted by paragraph 388 of Schedule 1 to this Order.
 
-[^key-753939a04125b89df67ad12f7878fe7b]: Commencement: [Sch. 2 para. 117](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/117) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-753939a04125b89df67ad12f7878fe7b]: Commencement: [Sch. 2 para. 117](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/117) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-88d7a0f7ba8469b5d04ee1c674ba116f]: Commencement: [Sch. 2 para. 118](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/118) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-88d7a0f7ba8469b5d04ee1c674ba116f]: Commencement: [Sch. 2 para. 118](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/118) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-e3c7d25892dd3903b4690db80423bcab]: Commencement: [Sch. 2 para. 119](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/119) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-e3c7d25892dd3903b4690db80423bcab]: Commencement: [Sch. 2 para. 119](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/119) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-ffbb31586a6ceafe711ec4edd1bd7c83]: Commencement: [Sch. 2 para. 120](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/120) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ffbb31586a6ceafe711ec4edd1bd7c83]: Commencement: [Sch. 2 para. 120](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/120) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00235]: Footnote: [S.I. 2003/3102](https://www.legislation.gov.uk/uksi/2003/3102).
 
-[^key-0e113a760f69be6537795fa39cba47ca]: Commencement: [Sch. 2 para. 121](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/121) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-0e113a760f69be6537795fa39cba47ca]: Commencement: [Sch. 2 para. 121](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/121) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-a9704f214e0127d5593c259b24740483]: Commencement: [Sch. 2 para. 122](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/122) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-a9704f214e0127d5593c259b24740483]: Commencement: [Sch. 2 para. 122](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/122) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-b82d85063ee3728fc611e1b84aff19dd]: Commencement: [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b82d85063ee3728fc611e1b84aff19dd]: Commencement: [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/123) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-2faa91a05d52a4e2570c83a65f80cadf]: Commencement: [Sch. 2 para. 124](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/124) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2faa91a05d52a4e2570c83a65f80cadf]: Commencement: [Sch. 2 para. 124](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/124) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-732a753554207cbe9bf18f77076b8d79]: Commencement: [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/125) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-732a753554207cbe9bf18f77076b8d79]: Commencement: [Sch. 2 para. 125](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/125) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-692b33ae306cf34a8018c3a74f12d5db]: Commencement: [Sch. 2 para. 126](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/126) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-692b33ae306cf34a8018c3a74f12d5db]: Commencement: [Sch. 2 para. 126](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/126) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-8744468a566cbc17c8a9263418220c08]: Commencement: [Sch. 2 para. 127](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/127) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-8744468a566cbc17c8a9263418220c08]: Commencement: [Sch. 2 para. 127](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/127) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00236]: Footnote: [S.I. 2004/1450](https://www.legislation.gov.uk/uksi/2004/1450).
 
-[^key-c13690e44b2a710f7ddc5cd6c3623db0]: Commencement: [Sch. 2 para. 128](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/128) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-c13690e44b2a710f7ddc5cd6c3623db0]: Commencement: [Sch. 2 para. 128](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/128) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00237]: Footnote: [S.I. 2004/2199](https://www.legislation.gov.uk/uksi/2004/2199).
 
-[^key-66bbf653651dd4864c9be6445b4a6c52]: Commencement: [Sch. 2 para. 129](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/129) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-66bbf653651dd4864c9be6445b4a6c52]: Commencement: [Sch. 2 para. 129](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/129) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-26ced1826f8b80aee48bcd94cfcdc0c1]: Commencement: [Sch. 2 para. 130](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/130) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-26ced1826f8b80aee48bcd94cfcdc0c1]: Commencement: [Sch. 2 para. 130](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/130) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00238]: Footnote: [S.I. 2004/2622](https://www.legislation.gov.uk/uksi/2004/2622).
 
-[^key-4666ae66585e578ff98856ab74385e15]: Commencement: [Sch. 2 para. 131](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/131) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-4666ae66585e578ff98856ab74385e15]: Commencement: [Sch. 2 para. 131](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/131) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00239]: Footnote: [S.I. 2005/191](https://www.legislation.gov.uk/uksi/2005/191).
 
-[^key-530c1d5f66692fd824730c0670d1549b]: Commencement: [Sch. 2 para. 132](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/132) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-530c1d5f66692fd824730c0670d1549b]: Commencement: [Sch. 2 para. 132](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/132) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-495501a881b5cab7001b771658b0ff09]: Commencement: [Sch. 2 para. 133](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/133) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-495501a881b5cab7001b771658b0ff09]: Commencement: [Sch. 2 para. 133](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/133) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-e06eb3afdd58f5dfae1ec7cf6f6bf5f4]: Commencement: [Sch. 2 para. 134](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/134) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-e06eb3afdd58f5dfae1ec7cf6f6bf5f4]: Commencement: [Sch. 2 para. 134](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/134) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-5f0052f6654c08b217cdf89acfbaebb0]: Commencement: [Sch. 2 para. 135](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/135) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-5f0052f6654c08b217cdf89acfbaebb0]: Commencement: [Sch. 2 para. 135](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/135) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00240]: Footnote: [S.I. 2005/907](https://www.legislation.gov.uk/uksi/2005/907).
 
-[^key-ad8abeb79d30fd7e98dd323b0fade6db]: Commencement: [Sch. 2 para. 136](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/136) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ad8abeb79d30fd7e98dd323b0fade6db]: Commencement: [Sch. 2 para. 136](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/136) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00241]: Footnote: [S.I. 2005/990](https://www.legislation.gov.uk/uksi/2005/990).
 
-[^key-6e4c9608ab2183b6647594215eb889a1]: Commencement: [Sch. 2 para. 137](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/137) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-6e4c9608ab2183b6647594215eb889a1]: Commencement: [Sch. 2 para. 137](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/137) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00242]: Footnote: [S.I. 2005/2045](https://www.legislation.gov.uk/uksi/2005/2045).
 
-[^key-d6ddc6267b1aed260d71a12cf82c660a]: Commencement: [Sch. 2 para. 138](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/138) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d6ddc6267b1aed260d71a12cf82c660a]: Commencement: [Sch. 2 para. 138](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/138) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-1e8fb029dd2506ce3edecba93e9716d1]: Commencement: [Sch. 2 para. 139](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/139) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-1e8fb029dd2506ce3edecba93e9716d1]: Commencement: [Sch. 2 para. 139](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/139) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-635743437f072655b5fbfb0ad9963abc]: Commencement: [Sch. 2 para. 140](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/140) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-635743437f072655b5fbfb0ad9963abc]: Commencement: [Sch. 2 para. 140](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/140) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-2c4b6714978c3366dbe0879194a63fdd]: Commencement: [Sch. 2 para. 141](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/141) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2c4b6714978c3366dbe0879194a63fdd]: Commencement: [Sch. 2 para. 141](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/141) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-087b54c161946ba73a386d389e3e679c]: Commencement: [Sch. 2 para. 142](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/142) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-087b54c161946ba73a386d389e3e679c]: Commencement: [Sch. 2 para. 142](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/142) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-d874f81ff86be6000cefe0978dd7e822]: Commencement: [Sch. 2 para. 143](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/143) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d874f81ff86be6000cefe0978dd7e822]: Commencement: [Sch. 2 para. 143](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/143) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00243]: Footnote: [S.I. 2005/3448](https://www.legislation.gov.uk/uksi/2005/3448).
 
-[^key-f7fb8787c5b798903dda7823473b6bed]: Commencement: [Sch. 2 para. 144](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/144) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-f7fb8787c5b798903dda7823473b6bed]: Commencement: [Sch. 2 para. 144](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/144) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-cf5a353f5beb05f6dc671238e1c0eb2e]: Commencement: [Sch. 2 para. 145](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/145) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-cf5a353f5beb05f6dc671238e1c0eb2e]: Commencement: [Sch. 2 para. 145](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/145) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-d60b4a895a0e52792e5dce82b1d13d0f]: Commencement: [Sch. 2 para. 146](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/146) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d60b4a895a0e52792e5dce82b1d13d0f]: Commencement: [Sch. 2 para. 146](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/146) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00244]: Footnote: [S.I. 2005/3472](https://www.legislation.gov.uk/uksi/2005/3472).
 
-[^key-e852403e1d54261e4cc8d9edca26bb10]: Commencement: [Sch. 2 para. 147](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/147) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-e852403e1d54261e4cc8d9edca26bb10]: Commencement: [Sch. 2 para. 147](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/147) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00245]: Footnote: [S.I. 2006/131](https://www.legislation.gov.uk/uksi/2006/131).
 
-[^key-a6f1b532fdf865a27e30af1a971f0ace]: Commencement: [Sch. 2 para. 148](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/148) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-a6f1b532fdf865a27e30af1a971f0ace]: Commencement: [Sch. 2 para. 148](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/148) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-c7fccf6ed4d6f549e046b9fcac9f6b92]: Commencement: [Sch. 2 para. 149](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/149) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-c7fccf6ed4d6f549e046b9fcac9f6b92]: Commencement: [Sch. 2 para. 149](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/149) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-4bfcc645f56320647778e57baccf435d]: Commencement: [Sch. 2 para. 150](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/150) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-4bfcc645f56320647778e57baccf435d]: Commencement: [Sch. 2 para. 150](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/150) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-d9b158f9b9e7940cfc74d3507e8b55e6]: Commencement: [Sch. 2 para. 151](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/151) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d9b158f9b9e7940cfc74d3507e8b55e6]: Commencement: [Sch. 2 para. 151](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/151) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00246]: Footnote: Regulation 14A was inserted by regulations 2 and 9 of [S.I. 2006/3261](https://www.legislation.gov.uk/uksi/2006/3261).
 
-[^key-bf10af82a0a20ea051f27feaeac87ec4]: Commencement: [Sch. 2 para. 152](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/152) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-bf10af82a0a20ea051f27feaeac87ec4]: Commencement: [Sch. 2 para. 152](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/152) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-1fecfadfa242d641929a1bf3c903c9aa]: Commencement: [Sch. 2 para. 153](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/153) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-1fecfadfa242d641929a1bf3c903c9aa]: Commencement: [Sch. 2 para. 153](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/153) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00247]: Footnote: [S.I. 2006/570](https://www.legislation.gov.uk/uksi/2006/570).
 
-[^key-e73354f4b39426753abd9c4a09218cbf]: Commencement: [Sch. 2 para. 154](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/154) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-e73354f4b39426753abd9c4a09218cbf]: Commencement: [Sch. 2 para. 154](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/154) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00248]: Footnote: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964) as amended by regulations 2 and 5 of [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705).
 
-[^key-69de3b7ac37bfad627e67e7f0bc9a584]: Commencement: [Sch. 2 para. 155](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/155) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-69de3b7ac37bfad627e67e7f0bc9a584]: Commencement: [Sch. 2 para. 155](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/155) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-e942d467e48c42c96d8e44308df5859e]: Commencement: [Sch. 2 para. 156](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/156) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-e942d467e48c42c96d8e44308df5859e]: Commencement: [Sch. 2 para. 156](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/156) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00249]: Footnote: Regulations 69T and 69Z1 to 69Z41 were inserted by regulations 2 and 5 of [S.I. 2008/705](https://www.legislation.gov.uk/uksi/2008/705).
 
-[^key-6b6ff7a533eb8cb0d085305873c6e741]: Commencement: [Sch. 2 para. 157](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/157) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-6b6ff7a533eb8cb0d085305873c6e741]: Commencement: [Sch. 2 para. 157](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/157) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-325a4fe14366d20533f1edc625a5164a]: Commencement: [Sch. 2 para. 158](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/158) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-325a4fe14366d20533f1edc625a5164a]: Commencement: [Sch. 2 para. 158](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/158) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-07f75d7102492b5d66ba5780c8d55326]: Commencement: [Sch. 2 para. 159](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/159) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-07f75d7102492b5d66ba5780c8d55326]: Commencement: [Sch. 2 para. 159](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/159) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00250]: Footnote: [S.I. 2007/285](https://www.legislation.gov.uk/uksi/2007/285).
 
-[^key-a83fec2abac5a722ee9e70b153879d24]: Commencement: [Sch. 2 para. 160](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/160) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-a83fec2abac5a722ee9e70b153879d24]: Commencement: [Sch. 2 para. 160](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/160) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00251]: Footnote: [S.I. 2007/1509](https://www.legislation.gov.uk/uksi/2007/1509).
 
-[^key-b16d3baeb1a44949fcda7ff26bc3f724]: Commencement: [Sch. 2 para. 161](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/161) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b16d3baeb1a44949fcda7ff26bc3f724]: Commencement: [Sch. 2 para. 161](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/161) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-9de4a9772c59b065e22c1885a338ec7a]: Commencement: [Sch. 2 para. 162](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/162) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-9de4a9772c59b065e22c1885a338ec7a]: Commencement: [Sch. 2 para. 162](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/162) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-d23c3edd1737057ccf7de56432f21b95]: Commencement: [Sch. 2 para. 163](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/163) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d23c3edd1737057ccf7de56432f21b95]: Commencement: [Sch. 2 para. 163](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/163) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-196a6474fde75df388cc7f76ff3ed031]: Commencement: [Sch. 2 para. 164](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/164) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-196a6474fde75df388cc7f76ff3ed031]: Commencement: [Sch. 2 para. 164](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/164) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-c554213f702ae88a9fee910a58e6d08a]: Commencement: [Sch. 2 para. 165](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/165) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-c554213f702ae88a9fee910a58e6d08a]: Commencement: [Sch. 2 para. 165](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/165) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00252]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-d3e82ae554f53ace39a30d4a9d3af1b6]: Commencement: [Sch. 2 para. 166](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/166) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-d3e82ae554f53ace39a30d4a9d3af1b6]: Commencement: [Sch. 2 para. 166](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/166) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-6d1558f96d7f4b68296b1dbb0359b183]: Commencement: [Sch. 2 para. 167](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/167) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-6d1558f96d7f4b68296b1dbb0359b183]: Commencement: [Sch. 2 para. 167](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/167) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-ac3f24aca8b5cf357c2dfc90c200d748]: Commencement: [Sch. 2 para. 168](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/168) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ac3f24aca8b5cf357c2dfc90c200d748]: Commencement: [Sch. 2 para. 168](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/168) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00253]: Footnote: [S.I. 2007/2157](https://www.legislation.gov.uk/uksi/2007/2157).
 
-[^key-43f0dc3180fc0a9cc25ce8123b242fb5]: Commencement: [Sch. 2 para. 169](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/169) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-43f0dc3180fc0a9cc25ce8123b242fb5]: Commencement: [Sch. 2 para. 169](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/169) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-42333a40082e1968e32fe1801a7b2478]: Commencement: [Sch. 2 para. 170](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/170) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-42333a40082e1968e32fe1801a7b2478]: Commencement: [Sch. 2 para. 170](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/170) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-f1f2dfa2f243ba5ecbf2a8c433798005]: Commencement: [Sch. 2 para. 171](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/171) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-f1f2dfa2f243ba5ecbf2a8c433798005]: Commencement: [Sch. 2 para. 171](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/171) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-ec790a4f6552a96ca428bbbb8f193a4d]: Commencement: [Sch. 2 para. 172](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/172) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-ec790a4f6552a96ca428bbbb8f193a4d]: Commencement: [Sch. 2 para. 172](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/172) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00254]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23). Sections 83A to 83G were inserted by paragraph 220 of Schedule 1 to this Order and sections 85A and 85B by paragraph 223 of that Schedule.
 
-[^key-8c2cdd948d3e00135b931f11be5f87c1]: Commencement: [Sch. 2 para. 173](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/173) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-8c2cdd948d3e00135b931f11be5f87c1]: Commencement: [Sch. 2 para. 173](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/173) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-20abcd19339aab96cd673e513a04a77b]: Commencement: [Sch. 2 para. 174](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/174) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-20abcd19339aab96cd673e513a04a77b]: Commencement: [Sch. 2 para. 174](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/174) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-cefd0ed2e249047435afa5712072d875]: Commencement: [Sch. 2 para. 175](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/175) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-cefd0ed2e249047435afa5712072d875]: Commencement: [Sch. 2 para. 175](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/175) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00255]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); sections 83A to 83G were inserted by paragraph 220 of Schedule 1 to this Order and sections 85A and 85B by paragraph 223 of that Schedule.
 
-[^key-3605c7f7bef3c29ba227c48495d44389]: Commencement: [Sch. 2 para. 176](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/176) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-3605c7f7bef3c29ba227c48495d44389]: Commencement: [Sch. 2 para. 176](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/176) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00256]: Footnote: [S.I. 2007/3298](https://www.legislation.gov.uk/uksi/2007/3298).
 
-[^key-98fada3f1a178dddd3a2c36c30a1709c]: Commencement: [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/177) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-98fada3f1a178dddd3a2c36c30a1709c]: Commencement: [Sch. 2 para. 177](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/177) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-c07db17cd700b468dd945eedefbf4870]: Commencement: [Sch. 2 para. 178](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/178) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-c07db17cd700b468dd945eedefbf4870]: Commencement: [Sch. 2 para. 178](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/178) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00257]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23). Sections 83A to 83G were inserted by paragraph 220 of Schedule 1 to this Order and sections 85A and 85B by paragraph 223 of that Schedule.
 
-[^key-675964b20f100830590407a49f635d2b]: Commencement: [Sch. 2 para. 179](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/179) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-675964b20f100830590407a49f635d2b]: Commencement: [Sch. 2 para. 179](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/179) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-4593b30c25d3ece8cc2431fe47a43257]: Commencement: [Sch. 2 para. 180](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/180) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-4593b30c25d3ece8cc2431fe47a43257]: Commencement: [Sch. 2 para. 180](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/180) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-68c594eba327b29d88edd1bbc2159ba6]: Commencement: [Sch. 2 para. 181](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/181) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-68c594eba327b29d88edd1bbc2159ba6]: Commencement: [Sch. 2 para. 181](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/181) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00258]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23); sections 83A to 83G were inserted by paragraph 220 of Schedule 1 to this Order and sections 85A and 85B by paragraph 223 of that Schedule.
 
-[^key-b2ad80f47b94597a5f4b3d79037ada59]: Commencement: [Sch. 2 para. 182](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/182) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-b2ad80f47b94597a5f4b3d79037ada59]: Commencement: [Sch. 2 para. 182](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/182) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00259]: Footnote: [S.I. 2008/562](https://www.legislation.gov.uk/uksi/2008/562).
 
-[^key-61d3788f67efd10fb0d2982507f4b05c]: Commencement: [Sch. 2 para. 183](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-61d3788f67efd10fb0d2982507f4b05c]: Commencement: [Sch. 2 para. 183](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/183) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
-[^key-a7fcc88508e89294da9deb1f57710c58]: Commencement: [Sch. 2 para. 184](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/184) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-a7fcc88508e89294da9deb1f57710c58]: Commencement: [Sch. 2 para. 184](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/184) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00260]: Footnote: [S.I. 2008/574](https://www.legislation.gov.uk/uksi/2008/574).
 
-[^key-1468915835871da8adb4568c8735bb7e]: Commencement: [Sch. 2 para. 185](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/185) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-1468915835871da8adb4568c8735bb7e]: Commencement: [Sch. 2 para. 185](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/185) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00261]: Footnote: [S.I. 2008/2707](https://www.legislation.gov.uk/uksi/2008/2707).
 
-[^key-0ce990802e5f058f7235bdfd346bf901]: Commencement: [Sch. 2 para. 186](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/186) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-0ce990802e5f058f7235bdfd346bf901]: Commencement: [Sch. 2 para. 186](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/186) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00262]: Footnote: [S.I. 2008/2833](https://www.legislation.gov.uk/uksi/2008/2833).
 
-[^key-1b53cd3f1ea1f2cd8b9ceb22a243f82a]: Commencement: [Sch. 2 para. 187](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/187) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-1b53cd3f1ea1f2cd8b9ceb22a243f82a]: Commencement: [Sch. 2 para. 187](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/187) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00263]: Footnote: [S.I. 1973/1954](https://www.legislation.gov.uk/uksi/1973/1954).
 

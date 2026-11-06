@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Right to have solicitor present[^key-819b05ec0b379885b24afbe6069bdddd]
+## 32. Right to have solicitor present[^c-819b05ec0b379885b24afbe6069bdddd]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-819b05ec0b379885b24afbe6069bdddd]: Commencement: S. 32 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4), [7](https://www.legislation.gov.uk/ssi/2017/345/article/7))
+[^c-819b05ec0b379885b24afbe6069bdddd]: Commencement: S. 32 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4), [7](https://www.legislation.gov.uk/ssi/2017/345/article/7))

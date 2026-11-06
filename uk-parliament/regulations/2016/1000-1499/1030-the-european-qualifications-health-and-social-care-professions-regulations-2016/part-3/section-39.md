@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Amendment of article 67[^key-a6f791cdd0b4687449a4973f058d1c09]
+## 39. Amendment of article 67[^c-a6f791cdd0b4687449a4973f058d1c09]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ In article 67 (the Directive: designation of competent authority etc), for parag
 
 ## Annotations
 
-[^key-a6f791cdd0b4687449a4973f058d1c09]: Commencement: Reg. 39 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-a6f791cdd0b4687449a4973f058d1c09]: Commencement: Reg. 39 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

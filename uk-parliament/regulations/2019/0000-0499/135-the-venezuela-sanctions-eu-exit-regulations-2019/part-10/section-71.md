@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Transitional provision: Treasury licences[^key-8f3d20e74757a9b577e3ba16bce1ec58]
+## 71. Transitional provision: Treasury licences[^c-8f3d20e74757a9b577e3ba16bce1ec58]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 and such a licence is referred to in this regulation as “**an existing financial sanctions licence**”.
 
-(2) An existing financial sanctions licence which authorises an act which would otherwise be prohibited[^key-a68c647a013e531e411ded48032b7f01] has effect on and after the relevant date as if it had been issued by the Treasury under regulation 35(1) (Treasury licences).
+(2) An existing financial sanctions licence which authorises an act which would otherwise be prohibited[^c-a68c647a013e531e411ded48032b7f01] has effect on and after the relevant date as if it had been issued by the Treasury under regulation 35(1) (Treasury licences).
 
 (3) Any reference in an existing financial sanctions licence to the 2017 Regulations is to be treated on and after the relevant date as a reference to these Regulations.
 
@@ -56,6 +56,6 @@ is to be treated on and after the relevant date as a reference to the correspond
 
 ## Annotations
 
-[^key-8f3d20e74757a9b577e3ba16bce1ec58]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8f3d20e74757a9b577e3ba16bce1ec58]: Commencement: Reg. 71 in force at 31.12.2020 on IP completion day by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 3(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/3/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a68c647a013e531e411ded48032b7f01]: Textual amendment: Words in [reg. 71(2)](https://www.legislation.gov.uk/uksi/2019/135/regulation/71/2) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(17)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/17); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-a68c647a013e531e411ded48032b7f01]: Textual amendment: Words in [reg. 71(2)](https://www.legislation.gov.uk/uksi/2019/135/regulation/71/2) inserted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [3(17)](https://www.legislation.gov.uk/uksi/2020/590/regulation/3/17); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)

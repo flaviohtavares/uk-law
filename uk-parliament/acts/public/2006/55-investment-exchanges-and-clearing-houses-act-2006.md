@@ -55,7 +55,7 @@ In Part 18 of the Financial Services and Markets Act 2000 (c. 8) (recognised inv
 >
 > (3) A requirement is excessive if—
 >
-> - (a) it is not required under EU[^key-63fd509aa982ef2381a4383557a943e1] law or any enactment or rule of law in the United Kingdom, and
+> - (a) it is not required under EU[^c-63fd509aa982ef2381a4383557a943e1] law or any enactment or rule of law in the United Kingdom, and
 > - (b) either—
 >   - (i) it is not justified as pursuing a reasonable regulatory objective, or
 >   - (ii) it is disproportionate to the end to be achieved.
@@ -223,4 +223,4 @@ Expressions used in this subsection that are defined for the purposes of those s
 
 ## Annotations
 
-[^key-63fd509aa982ef2381a4383557a943e1]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-63fd509aa982ef2381a4383557a943e1]: Textual amendment: Word in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3),](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3) [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[, 6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

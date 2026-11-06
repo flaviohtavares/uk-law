@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 125. Tasks of the Member States[^key-5bbe9762a741c24078bbe13e3124eef1]
+## Article 125. Tasks of the Member States[^c-5bbe9762a741c24078bbe13e3124eef1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5bbe9762a741c24078bbe13e3124eef1]: Textual amendment: [Art. 125](https://www.legislation.gov.uk/eur/2006/1907/article/125) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 85](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/85); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5bbe9762a741c24078bbe13e3124eef1]: Textual amendment: [Art. 125](https://www.legislation.gov.uk/eur/2006/1907/article/125) omitted (31.12.2020) by virtue of [The REACH etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/758)](https://www.legislation.gov.uk/uksi/2019/758), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/758/regulation/1/1), [Sch. 1 para. 85](https://www.legislation.gov.uk/uksi/2019/758/schedule/1/paragraph/85); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

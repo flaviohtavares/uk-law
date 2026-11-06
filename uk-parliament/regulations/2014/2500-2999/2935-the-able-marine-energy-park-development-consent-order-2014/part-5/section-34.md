@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Compulsory acquisition of rights[^key-9ad5f6f0924d6211bcd0c3d57ba90936]
+## 34. Compulsory acquisition of rights[^c-9ad5f6f0924d6211bcd0c3d57ba90936]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ad5f6f0924d6211bcd0c3d57ba90936]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2014/2935/article/34) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-9ad5f6f0924d6211bcd0c3d57ba90936]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2014/2935/article/34) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

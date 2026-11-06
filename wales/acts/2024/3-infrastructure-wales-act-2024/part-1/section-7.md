@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Highways[^key-92b7f99e2b07d255c1ff484e79379a92]
+## 7. Highways[^c-92b7f99e2b07d255c1ff484e79379a92]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ unless they are excluded by any of subsections (4) to (6).
 
 ## Annotations
 
-[^key-92b7f99e2b07d255c1ff484e79379a92]: Commencement: S. 7 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)
+[^c-92b7f99e2b07d255c1ff484e79379a92]: Commencement: S. 7 in force at 4.6.2024, see [s. 147(1)(a)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/a)

@@ -46,31 +46,31 @@ Coming into force
 
 6th April 2015
 
-[^key-53833b876a9eecdae33bd11c8e445230]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53833b876a9eecdae33bd11c8e445230]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-53833b876a9eecdae33bd11c8e445230]
+## 1. Citation, commencement and interpretation[^c-53833b876a9eecdae33bd11c8e445230]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-53833b876a9eecdae33bd11c8e445230]
+## 2. Revocation[^c-53833b876a9eecdae33bd11c8e445230]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increase of limits[^key-53833b876a9eecdae33bd11c8e445230]
+## 3. Increase of limits[^c-53833b876a9eecdae33bd11c8e445230]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-53833b876a9eecdae33bd11c8e445230]
+## 4. Transitional provisions[^c-53833b876a9eecdae33bd11c8e445230]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53833b876a9eecdae33bd11c8e445230]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53833b876a9eecdae33bd11c8e445230]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-53833b876a9eecdae33bd11c8e445230]
+## SCHEDULE[^c-53833b876a9eecdae33bd11c8e445230]
 
 Article 3
 
@@ -78,8 +78,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-53833b876a9eecdae33bd11c8e445230]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53833b876a9eecdae33bd11c8e445230]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53833b876a9eecdae33bd11c8e445230]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/226) revoked (6.4.2016) by [The Employment Rights (Increase of Limits) Order 2016 (S.I. 2016/288)](https://www.legislation.gov.uk/uksi/2016/288), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/288/article/1/1), [2](https://www.legislation.gov.uk/uksi/2016/288/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/288/article/4))
+[^c-53833b876a9eecdae33bd11c8e445230]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2015/226) revoked (6.4.2016) by [The Employment Rights (Increase of Limits) Order 2016 (S.I. 2016/288)](https://www.legislation.gov.uk/uksi/2016/288), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/288/article/1/1), [2](https://www.legislation.gov.uk/uksi/2016/288/article/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2016/288/article/4))

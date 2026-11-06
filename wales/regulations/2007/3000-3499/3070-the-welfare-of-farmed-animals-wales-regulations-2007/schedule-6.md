@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 5
 
-### 1. Accommodation[^key-0aed8d417a727a9440eb4d6bd66b814a]
+### 1. Accommodation[^c-0aed8d417a727a9440eb4d6bd66b814a]
 
 (1) No calf may be confined in an individual stall or pen after the age of eight weeks unless a veterinary surgeon certifies that its health or behaviour requires it to be isolated in order to receive treatment.
 
@@ -44,13 +44,13 @@ Regulation 5
 
 (8) For the purpose of calculating the number of calves kept on a holding in order to determine whether sub-paragraph (6) applies, no account may be taken of any calf that is being kept in isolation on veterinary advice or in accordance with sub-paragraph (1).
 
-### 2. Inspection[^key-d83ae088c5693c8fdf4cb8feb1ee7a8b]
+### 2. Inspection[^c-d83ae088c5693c8fdf4cb8feb1ee7a8b]
 
 All housed calves must be inspected by the owner or other person responsible for the calves at least twice a day to check that they are in a state of well-being.
 
-**3.**[^key-0ea181b09e940f9004727525093b4486] Calves which are kept outside must be inspected by the owner or other person responsible for the calves at least once a day to check that they are in a state of well-being.
+**3.**[^c-0ea181b09e940f9004727525093b4486] Calves which are kept outside must be inspected by the owner or other person responsible for the calves at least once a day to check that they are in a state of well-being.
 
-### 4. Tethering[^key-0d66a3483b181bde52d271170d2f77cb]
+### 4. Tethering[^c-0d66a3483b181bde52d271170d2f77cb]
 
 (1) No person responsible for a calf may tether it or cause it to be tethered, with the exception of group-housed calves which may be tethered for a period of not more than one hour when being fed milk or milk substitute.
 
@@ -58,17 +58,17 @@ All housed calves must be inspected by the owner or other person responsible for
 
 (3) Each tether must be designed to avoid the risk of strangulation, pain or injury and allow the calf to stand up, lie down, rest and groom itself without hindrance.
 
-### 5. Artificially lit buildings[^key-b8bea0c1e592186be0044d7c96238fe3]
+### 5. Artificially lit buildings[^c-b8bea0c1e592186be0044d7c96238fe3]
 
 Where calves are kept in an artificially lit building then, subject to paragraph 16 of Schedule 1, artificial lighting must be provided for a period at least equivalent to the period of natural light normally available between 9.00 am and 5.00 pm.
 
-### 6. Cleaning and disinfection[^key-507c2072f21e446379ed5b70301c364f]
+### 6. Cleaning and disinfection[^c-507c2072f21e446379ed5b70301c364f]
 
 (1) Housing, stalls, pens, equipment and utensils used for calves must be properly cleaned and disinfected as often as necessary to prevent cross-infection and the build-up of disease-carrying organisms.
 
 (2) Faeces, urine and uneaten or spilt food must be removed as often as necessary to minimise smell and to avoid attracting flies or rodents.
 
-### 7. Floors[^key-d738944ab171147f0bf6eab951cf4306]
+### 7. Floors[^c-d738944ab171147f0bf6eab951cf4306]
 
 Where calves are kept in a building, floors must—
 
@@ -77,7 +77,7 @@ Where calves are kept in a building, floors must—
 - (c) be suitable for the size and weight of the calves; and
 - (d) form a rigid, even and stable surface.
 
-### 8. Bedding and lying area[^key-70c9074b11ad65852754dd5fa40c88be]
+### 8. Bedding and lying area[^c-70c9074b11ad65852754dd5fa40c88be]
 
 (1) All calves must be provided with appropriate bedding.
 
@@ -85,27 +85,27 @@ Where calves are kept in a building, floors must—
 
 (3) All housed calves and calves kept in hutches or temporary structures must be kept on, or at all times have access to, a lying area which is well-maintained with dry bedding.
 
-### 9. Bovine colostrum[^key-6c0bf6fbc855aefada2080504dd4a7fd]
+### 9. Bovine colostrum[^c-6c0bf6fbc855aefada2080504dd4a7fd]
 
 Each calf must receive bovine colostrum as soon as possible after it is born and, in any event, within the first six hours of life.
 
-### 10. Additional dietary requirements[^key-a6596e890d8a510d7919bc7662fc298f]
+### 10. Additional dietary requirements[^c-a6596e890d8a510d7919bc7662fc298f]
 
 (1) All calves must be provided with food which contains sufficient iron to ensure a blood haemoglobin level of at least 4.5 mmol/litre.
 
 (2) A minimum daily ration of fibrous food must be provided for each calf over 2 weeks old, the quantity being raised in line with the growth of the calf from a minimum of 100g at 2 weeks old, to a minimum of 250g at 20 weeks old.
 
-### 11. Muzzling[^key-7ec77dfb27fe1a79cc78ea35406240f1]
+### 11. Muzzling[^c-7ec77dfb27fe1a79cc78ea35406240f1]
 
 Calves must not be muzzled.
 
-### 12. Feeding[^key-79d20dae05aff470e552a7872e59babe]
+### 12. Feeding[^c-79d20dae05aff470e552a7872e59babe]
 
 (1) All calves must be fed at least twice a day.
 
 (2) Where calves are housed in a group and do not have continuous access to food, or are not fed by an automatic feeding system, each calf must have access to food at the same time as the others in the feeding group.
 
-### 13. Drinking water[^key-0b2248dfc368acf0ef6d0b4a3e7f6c0c]
+### 13. Drinking water[^c-0b2248dfc368acf0ef6d0b4a3e7f6c0c]
 
 (1) All calves must be provided with a sufficient quantity of fresh drinking water each day.
 
@@ -116,28 +116,28 @@ Calves must not be muzzled.
 
 ## Annotations
 
-[^key-0aed8d417a727a9440eb4d6bd66b814a]: Commencement: Sch. 6 para. 1 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-0aed8d417a727a9440eb4d6bd66b814a]: Commencement: Sch. 6 para. 1 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-d83ae088c5693c8fdf4cb8feb1ee7a8b]: Commencement: Sch. 6 para. 2 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-d83ae088c5693c8fdf4cb8feb1ee7a8b]: Commencement: Sch. 6 para. 2 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-0ea181b09e940f9004727525093b4486]: Commencement: Sch. 6 para. 3 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-0ea181b09e940f9004727525093b4486]: Commencement: Sch. 6 para. 3 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-0d66a3483b181bde52d271170d2f77cb]: Commencement: Sch. 6 para. 4 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-0d66a3483b181bde52d271170d2f77cb]: Commencement: Sch. 6 para. 4 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-b8bea0c1e592186be0044d7c96238fe3]: Commencement: Sch. 6 para. 5 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-b8bea0c1e592186be0044d7c96238fe3]: Commencement: Sch. 6 para. 5 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-507c2072f21e446379ed5b70301c364f]: Commencement: Sch. 6 para. 6 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-507c2072f21e446379ed5b70301c364f]: Commencement: Sch. 6 para. 6 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-d738944ab171147f0bf6eab951cf4306]: Commencement: Sch. 6 para. 7 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-d738944ab171147f0bf6eab951cf4306]: Commencement: Sch. 6 para. 7 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-70c9074b11ad65852754dd5fa40c88be]: Commencement: Sch. 6 para. 8 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-70c9074b11ad65852754dd5fa40c88be]: Commencement: Sch. 6 para. 8 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-6c0bf6fbc855aefada2080504dd4a7fd]: Commencement: Sch. 6 para. 9 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-6c0bf6fbc855aefada2080504dd4a7fd]: Commencement: Sch. 6 para. 9 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-a6596e890d8a510d7919bc7662fc298f]: Commencement: Sch. 6 para. 10 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-a6596e890d8a510d7919bc7662fc298f]: Commencement: Sch. 6 para. 10 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-7ec77dfb27fe1a79cc78ea35406240f1]: Commencement: Sch. 6 para. 11 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-7ec77dfb27fe1a79cc78ea35406240f1]: Commencement: Sch. 6 para. 11 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-79d20dae05aff470e552a7872e59babe]: Commencement: Sch. 6 para. 12 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-79d20dae05aff470e552a7872e59babe]: Commencement: Sch. 6 para. 12 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
 
-[^key-0b2248dfc368acf0ef6d0b4a3e7f6c0c]: Commencement: Sch. 6 para. 13 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)
+[^c-0b2248dfc368acf0ef6d0b4a3e7f6c0c]: Commencement: Sch. 6 para. 13 in force at 24.10.2007, see [reg. 1](https://www.legislation.gov.uk/wsi/2007/3070/regulation/1)

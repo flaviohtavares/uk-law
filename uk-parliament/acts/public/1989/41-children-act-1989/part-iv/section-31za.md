@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31ZA. Family group decision-making[^key-83a332fcd3162f43e1035618651171b2]
+## 31ZA. Family group decision-making[^c-83a332fcd3162f43e1035618651171b2]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83a332fcd3162f43e1035618651171b2]: Textual amendment: [S. 31ZA](https://www.legislation.gov.uk/ukpga/1989/41/section/31ZA) inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 1](https://www.legislation.gov.uk/ukpga/2026/21/section/1), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/a)
+[^c-83a332fcd3162f43e1035618651171b2]: Textual amendment: [S. 31ZA](https://www.legislation.gov.uk/ukpga/1989/41/section/31ZA) inserted (15.7.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 1](https://www.legislation.gov.uk/ukpga/2026/21/section/1), [78(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5); [S.I. 2026/803](https://www.legislation.gov.uk/uksi/2026/803), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/803/regulation/3/a)

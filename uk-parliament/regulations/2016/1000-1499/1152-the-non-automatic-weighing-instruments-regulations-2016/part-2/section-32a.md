@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32A. Obligations which are met by complying with obligations in the Directive[^key-11238f8fd98b953b87cfde504f6ae1a7]
+## 32A. Obligations which are met by complying with obligations in the Directive[^c-11238f8fd98b953b87cfde504f6ae1a7]
 
 *Extent: E+W+S*
 
@@ -73,11 +73,11 @@ summary: ''
 - (e) any reference to “technical documentation” is to be read as a reference to the technical documentation referred to in Annex II;
 - (f) any reference to “type examination certificate” is to be read as a reference to an EU-type examination certificate;
 - (g) any reference to “M marking” is to be read as a reference to the supplementary metrology marking;
-- (h) except in relation to regulation 68,[^key-9eaf4629d26e6f7bef85aee0305e71ea] any reference to “approved body” is to be read as a reference to the body that undertook any conformity assessment procedure in accordance with Article 13;
+- (h) except in relation to regulation 68,[^c-9eaf4629d26e6f7bef85aee0305e71ea] any reference to “approved body” is to be read as a reference to the body that undertook any conformity assessment procedure in accordance with Article 13;
 - (i) any reference to “**authorised mark**” includes the CE marking and the supplementary metrology marking.
 
 ## Annotations
 
-[^key-11238f8fd98b953b87cfde504f6ae1a7]: Textual amendment: [Regs. 32A-32D](https://www.legislation.gov.uk/uksi/2016/1152/regulation/32A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 19](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/19) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 18(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/18/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11238f8fd98b953b87cfde504f6ae1a7]: Textual amendment: [Regs. 32A-32D](https://www.legislation.gov.uk/uksi/2016/1152/regulation/32A) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 19](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/19) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 18(4)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/18/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9eaf4629d26e6f7bef85aee0305e71ea]: Textual amendment: Words in [reg. 32A(8)(h)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/32A/8/h) inserted (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/11/3)
+[^c-9eaf4629d26e6f7bef85aee0305e71ea]: Textual amendment: Words in [reg. 32A(8)(h)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/32A/8/h) inserted (9.12.2021) by [The Product Safety and Metrology etc. (Amendment) Regulations 2021 (S.I. 2021/1273)](https://www.legislation.gov.uk/uksi/2021/1273), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1273/regulation/1), [11(3)](https://www.legislation.gov.uk/uksi/2021/1273/regulation/11/3)

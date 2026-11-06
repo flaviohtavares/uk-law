@@ -22,7 +22,7 @@ summary: ''
 
 Section 93
 
-### Part 1 — Income tax relief[^key-b2e234e2d7ccc54966d75653824a28bf]
+### Part 1 — Income tax relief[^c-b2e234e2d7ccc54966d75653824a28bf]
 
 **No longer in force.**
 
@@ -43,7 +43,7 @@ Section 93
 - (c) in paragraph (c), for the words from “are fully” to “future date)” substitute “ (other than any of them which are bonus shares) are fully paid up ”,
 - (d) in paragraph (e), after “Act” insert “ (read with section 289(1B) to (1E) of that Act) ”,
 - (e) in paragraph (f), for “all the shares comprised in the issue” substitute “ the shares (other than any of them which are bonus shares) ”,
-- (f)[^key-90668ecadbb4d587bd2012f9ecf2fb20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-90668ecadbb4d587bd2012f9ecf2fb20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) After paragraph 1(4) of that paragraph insert—
 
@@ -130,6 +130,6 @@ Section 93
 
 ## Annotations
 
-[^key-b2e234e2d7ccc54966d75653824a28bf]: Textual amendment: Sch. 18 Pt. 1 repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-b2e234e2d7ccc54966d75653824a28bf]: Textual amendment: Sch. 18 Pt. 1 repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-90668ecadbb4d587bd2012f9ecf2fb20]: Textual amendment: [Sch. 18 para. 13(1)(f)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/f) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 10(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/10/b)
+[^c-90668ecadbb4d587bd2012f9ecf2fb20]: Textual amendment: [Sch. 18 para. 13(1)(f)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/18/paragraph/13/1/f) omitted (with effect in accordance with Sch. 8 para. 11 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 8 para. 10(b)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/8/paragraph/10/b)

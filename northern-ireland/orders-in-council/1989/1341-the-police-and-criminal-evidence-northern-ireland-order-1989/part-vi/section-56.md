@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Intimate searches[^c20421641][^c20421741][^c20422341][^c21390681][^key-c194ad67788651ccdb577d4f7824f4af]
+## 56. Intimate searches[^c20421641][^c20421741][^c20422341][^c21390681][^c-c194ad67788651ccdb577d4f7824f4af]
 
 *Extent: N.I.*
 
@@ -131,7 +131,7 @@ may draw such inferences from the refusal as appear proper.
 
 [^c21390681]: Modification: Art. 56 applied (with modifications) (18.5.2009) by [Police and Criminal Evidence (Application to the Police Ombudsman) Order (Northern Ireland) 2009 (S.R. 2009/142)](https://www.legislation.gov.uk/nisr/2009/142), [art. 3](https://www.legislation.gov.uk/nisr/2009/142/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/142/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/142/schedule/2)
 
-[^key-c194ad67788651ccdb577d4f7824f4af]: Modification: [Art. 56](https://www.legislation.gov.uk/nisi/1989/1341/article/56) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [28](https://www.legislation.gov.uk/uksi/2026/117/regulation/28), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
+[^c-c194ad67788651ccdb577d4f7824f4af]: Modification: [Art. 56](https://www.legislation.gov.uk/nisi/1989/1341/article/56) applied in part (with modifications) (10.2.2026) by [The Police and Criminal Evidence (Northern Ireland) Order 1989 (Application to Immigration Officers and Designated Customs Officials in Northern Ireland) and Consequential Amendments Regulations 2026 (S.I. 2026/117)](https://www.legislation.gov.uk/uksi/2026/117), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/1/2), [12-15](https://www.legislation.gov.uk/uksi/2026/117/regulation/12), [18(2)](https://www.legislation.gov.uk/uksi/2026/117/regulation/18/2), [28](https://www.legislation.gov.uk/uksi/2026/117/regulation/28), [Sch. 2](https://www.legislation.gov.uk/uksi/2026/117/schedule/2)
 
 [^c20421171]: Textual amendment: mod. by SI 2003/3107
 

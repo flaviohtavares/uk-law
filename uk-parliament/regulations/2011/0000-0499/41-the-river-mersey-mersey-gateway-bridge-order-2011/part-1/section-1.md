@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-ef2c1969f2ad6b1bb76db6164f32d245]
+## 1. Citation and commencement[^c-ef2c1969f2ad6b1bb76db6164f32d245]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the River Mersey (Mersey Gateway Bridge) Order 2011 a
 
 ## Annotations
 
-[^key-ef2c1969f2ad6b1bb76db6164f32d245]: Commencement: Art. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-ef2c1969f2ad6b1bb76db6164f32d245]: Commencement: Art. 1 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

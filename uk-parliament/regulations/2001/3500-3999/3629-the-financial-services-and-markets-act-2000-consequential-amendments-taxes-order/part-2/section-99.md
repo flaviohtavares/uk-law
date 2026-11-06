@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Stamp duty: mergers of authorised unit trusts[^key-dc89510b0e7e26fb6961b79bc5f14b81]
+## 99. Stamp duty: mergers of authorised unit trusts[^c-dc89510b0e7e26fb6961b79bc5f14b81]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc89510b0e7e26fb6961b79bc5f14b81]: Commencement: Art. 99 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-dc89510b0e7e26fb6961b79bc5f14b81]: Commencement: Art. 99 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

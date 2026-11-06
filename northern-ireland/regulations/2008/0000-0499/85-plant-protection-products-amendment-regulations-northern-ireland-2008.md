@@ -31,7 +31,7 @@ summary: ''
 
 Pesticides
 
-Plant Protection Products (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-76b7073440259c2e3d8c2c1308367753]
+Plant Protection Products (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-76b7073440259c2e3d8c2c1308367753]
 
 Made
 
@@ -41,46 +41,46 @@ Coming into operation
 
 17th April 2008
 
-[^key-76b7073440259c2e3d8c2c1308367753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76b7073440259c2e3d8c2c1308367753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-76b7073440259c2e3d8c2c1308367753]
+## 1. Citation, commencement and interpretation[^c-76b7073440259c2e3d8c2c1308367753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 2005[^key-76b7073440259c2e3d8c2c1308367753]
+## 2. Amendment of the Plant Protection Products Regulations (Northern Ireland) 2005[^c-76b7073440259c2e3d8c2c1308367753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-76b7073440259c2e3d8c2c1308367753]
+## 3. Revocation[^c-76b7073440259c2e3d8c2c1308367753]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-76b7073440259c2e3d8c2c1308367753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76b7073440259c2e3d8c2c1308367753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-76b7073440259c2e3d8c2c1308367753]
+## SCHEDULE[^c-76b7073440259c2e3d8c2c1308367753]
 
 Regulation 2(2)
 
-> **SCHEDULE 1 — INSTRUMENTS AMENDING COUNCIL DIRECTIVE [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414)[^key-76b7073440259c2e3d8c2c1308367753]**
+> **SCHEDULE 1 — INSTRUMENTS AMENDING COUNCIL DIRECTIVE [91/414/EEC](https://www.legislation.gov.uk/european/directive/1991/0414)[^c-76b7073440259c2e3d8c2c1308367753]**
 >
 > Regulation 2
 >
-> **Part I — Instruments in force[^key-76b7073440259c2e3d8c2c1308367753]**
+> **Part I — Instruments in force[^c-76b7073440259c2e3d8c2c1308367753]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part II — Instruments coming into force[^key-76b7073440259c2e3d8c2c1308367753]**
+> **Part II — Instruments coming into force[^c-76b7073440259c2e3d8c2c1308367753]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-76b7073440259c2e3d8c2c1308367753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-76b7073440259c2e3d8c2c1308367753]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-76b7073440259c2e3d8c2c1308367753]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/85) revoked (12.1.2009) by [Plant Protection Products (Amendment No 2) Regulations (Northern Ireland) 2008 (S.R. 2008/499)](https://www.legislation.gov.uk/nisr/2008/499), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/499/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/499/regulation/3)
+[^c-76b7073440259c2e3d8c2c1308367753]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/85) revoked (12.1.2009) by [Plant Protection Products (Amendment No 2) Regulations (Northern Ireland) 2008 (S.R. 2008/499)](https://www.legislation.gov.uk/nisr/2008/499), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/499/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2008/499/regulation/3)

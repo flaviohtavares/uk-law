@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132A. Disclosure of contributions avoidance arrangements[^key-80cb7efd1437ed571de4043e2e33e0f0]
+## 132A. Disclosure of contributions avoidance arrangements[^c-80cb7efd1437ed571de4043e2e33e0f0]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Treasury may by regulations make provision requiring, or relating to, the disclosure of information in relation to —[^key-8415bb439a5d10ce03a83dda8e502af7]
+(1) The Treasury may by regulations make provision requiring, or relating to, the disclosure of information in relation to —[^c-8415bb439a5d10ce03a83dda8e502af7]
 
-- (a) any notifiable contribution arrangements or notifiable contribution proposal , or[^key-0d3d3a6668dd0bccb93ce6f1dc1bf9be]
+- (a) any notifiable contribution arrangements or notifiable contribution proposal , or[^c-0d3d3a6668dd0bccb93ce6f1dc1bf9be]
 - (b) any arrangements or proposal which the Commissioners for Her Majesty’s Revenue and Customs reasonably suspect to be notifiable contribution arrangements or a notifiable contribution proposal (as the case may be).
 
 (2) The only provision which may be made under subsection (1) is provision applying (with or without modification), or corresponding to, any of the following provisions—
@@ -61,11 +61,11 @@ summary: ''
 
 ## Annotations
 
-[^key-80cb7efd1437ed571de4043e2e33e0f0]: Textual amendment: S. 132A and cross-heading inserted (30.3.2006) by [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2006/10/section/7/2), [9](https://www.legislation.gov.uk/ukpga/2006/10/section/9)
+[^c-80cb7efd1437ed571de4043e2e33e0f0]: Textual amendment: S. 132A and cross-heading inserted (30.3.2006) by [National Insurance Contributions Act 2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2006/10/section/7/2), [9](https://www.legislation.gov.uk/ukpga/2006/10/section/9)
 
-[^key-8415bb439a5d10ce03a83dda8e502af7]: Textual amendment: Words in s. 132A(1) renumbered as s. 132A(1)(a) (15.3.2022) by [National Insurance Contributions Act 2022 (c. 9)](https://www.legislation.gov.uk/ukpga/2022/9), [s. 11(a)](https://www.legislation.gov.uk/ukpga/2022/9/section/11/a)
+[^c-8415bb439a5d10ce03a83dda8e502af7]: Textual amendment: Words in s. 132A(1) renumbered as s. 132A(1)(a) (15.3.2022) by [National Insurance Contributions Act 2022 (c. 9)](https://www.legislation.gov.uk/ukpga/2022/9), [s. 11(a)](https://www.legislation.gov.uk/ukpga/2022/9/section/11/a)
 
-[^key-0d3d3a6668dd0bccb93ce6f1dc1bf9be]: Textual amendment: [S. 132A(1)(b)](https://www.legislation.gov.uk/ukpga/1992/5/section/132A/1/b) and word inserted (15.3.2022) by [National Insurance Contributions Act 2022 (c. 9)](https://www.legislation.gov.uk/ukpga/2022/9), [s. 11(b)](https://www.legislation.gov.uk/ukpga/2022/9/section/11/b)
+[^c-0d3d3a6668dd0bccb93ce6f1dc1bf9be]: Textual amendment: [S. 132A(1)(b)](https://www.legislation.gov.uk/ukpga/1992/5/section/132A/1/b) and word inserted (15.3.2022) by [National Insurance Contributions Act 2022 (c. 9)](https://www.legislation.gov.uk/ukpga/2022/9), [s. 11(b)](https://www.legislation.gov.uk/ukpga/2022/9/section/11/b)
 
 [^M_F_3edd7f18-57a3-4232-9790-90ee8a976423]: Textual amendment: Words in s. 132A(2)(a) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 250(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/250/2), [s. 218(3)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/218/3/a) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
 

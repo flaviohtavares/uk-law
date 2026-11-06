@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING
 
-The Renters’ Rights Act 2025 (Commencement) (Scotland) Regulations 2026 (revoked)[^key-65139f9a8bd6c9fdf26dade0c89cca96]
+The Renters’ Rights Act 2025 (Commencement) (Scotland) Regulations 2026 (revoked)[^c-65139f9a8bd6c9fdf26dade0c89cca96]
 
 Made
 
@@ -45,21 +45,21 @@ Coming into force
 
 1st May 2026
 
-[^key-65139f9a8bd6c9fdf26dade0c89cca96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65139f9a8bd6c9fdf26dade0c89cca96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement and interpretation[^key-65139f9a8bd6c9fdf26dade0c89cca96]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Appointed Day[^key-65139f9a8bd6c9fdf26dade0c89cca96]
+## 1. Citation, commencement and interpretation[^c-65139f9a8bd6c9fdf26dade0c89cca96]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional Provision[^key-65139f9a8bd6c9fdf26dade0c89cca96]
+## 2. Appointed Day[^c-65139f9a8bd6c9fdf26dade0c89cca96]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Transitional Provision[^c-65139f9a8bd6c9fdf26dade0c89cca96]
 
 **Not yet in force.**
 
@@ -67,12 +67,12 @@ Coming into force
 
 **May not be in force at this date. Check the source.**
 
-[^key-65139f9a8bd6c9fdf26dade0c89cca96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65139f9a8bd6c9fdf26dade0c89cca96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-65139f9a8bd6c9fdf26dade0c89cca96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-65139f9a8bd6c9fdf26dade0c89cca96]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-65139f9a8bd6c9fdf26dade0c89cca96]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2026/113) revoked (30.4.2026) by [The Renters’ Rights Act 2025 (Commencement No. 2, Transitional Provision and Revocation) (Scotland) Regulations 2026 (S.S.I. 2026/125)](https://www.legislation.gov.uk/ssi/2026/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/125/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2026/125/regulation/4)
+[^c-65139f9a8bd6c9fdf26dade0c89cca96]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2026/113) revoked (30.4.2026) by [The Renters’ Rights Act 2025 (Commencement No. 2, Transitional Provision and Revocation) (Scotland) Regulations 2026 (S.S.I. 2026/125)](https://www.legislation.gov.uk/ssi/2026/125), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/125/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2026/125/regulation/4)

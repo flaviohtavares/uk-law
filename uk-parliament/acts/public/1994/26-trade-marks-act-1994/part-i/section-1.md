@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ee91ca9ceadda88b75c8754c16216168] In this Act “trade mark” means any sign which is capable—
+(1)[^c-ee91ca9ceadda88b75c8754c16216168] In this Act “trade mark” means any sign which is capable—
 
 - (a) of being represented in the register in a manner which enables the registrar and other competent authorities and the public to determine the clear and precise subject matter of the protection afforded to the proprietor, and
 - (b) of distinguishing goods or services of one undertaking from those of other undertakings.
@@ -31,4 +31,4 @@ A trade mark may, in particular, consist of words (including personal names), de
 
 ## Annotations
 
-[^key-ee91ca9ceadda88b75c8754c16216168]: Textual amendment: S. 1(1) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/825/regulation/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))
+[^c-ee91ca9ceadda88b75c8754c16216168]: Textual amendment: S. 1(1) substituted (14.1.2019) by [The Trade Marks Regulations 2018 (S.I. 2018/825)](https://www.legislation.gov.uk/uksi/2018/825), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/825/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/825/regulation/3) (with [Pt. 5](https://www.legislation.gov.uk/uksi/2018/825/part/5))

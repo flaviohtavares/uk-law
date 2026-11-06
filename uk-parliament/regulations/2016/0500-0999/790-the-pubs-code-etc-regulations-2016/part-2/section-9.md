@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Pubs entry training[^key-2b793621e23d7eeb12a8c2c3d36f5693]
+## 9. Pubs entry training[^c-2b793621e23d7eeb12a8c2c3d36f5693]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ a pub-owning business must advise the tied pub tenant to complete the appropriat
 
 ## Annotations
 
-[^key-2b793621e23d7eeb12a8c2c3d36f5693]: Commencement: Reg. 9 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-2b793621e23d7eeb12a8c2c3d36f5693]: Commencement: Reg. 9 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
 [^f00012]: Footnote: Section 70(2) of SBEEA 2015 defines “landlord”.

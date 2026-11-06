@@ -40,13 +40,13 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 167A(2), 167C, 167D, 167E and 171(2) to (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 59A(4) and 71 of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 6, 9 and 14(1) of the Social Security (Incapacity for Work) (Northern Ireland) Order 1994[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f0aea03532642f5f3c431497bedc8298]
+## 1. Citation, commencement and interpretation[^c-f0aea03532642f5f3c431497bedc8298]
 
 (1) These Regulations may be cited as the Social Security (Incapacity for Work and Miscellaneous Amendments) Regulations (Northern Ireland) 1996 and shall come into operation on 6th January 1997.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to a Measure of the Assembly.
 
-## 2. Amendment of the Social Security (Overlapping Benefits) Regulations[^key-0bb6b91a67bd70ee3f7072ff601647cb]
+## 2. Amendment of the Social Security (Overlapping Benefits) Regulations[^c-0bb6b91a67bd70ee3f7072ff601647cb]
 
 In regulation 4 of the Social Security (Overlapping Benefits) Regulations (Northern Ireland) 1979[^f00005] (adjustment of personal benefit under Parts II and III of the Contributions and Benefits Act where other personal benefit under those Parts or graduated retirement benefit is payable) after paragraph (5) there shall be added the following paragraph—
 
@@ -57,7 +57,7 @@ In regulation 4 of the Social Security (Overlapping Benefits) Regulations (North
 
 .
 
-## 3. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations[^key-b24f8fc6484c1ac749e9100f1fe21bdd]
+## 3. Amendment of the Social Security (Incapacity Benefit) (Transitional) Regulations[^c-b24f8fc6484c1ac749e9100f1fe21bdd]
 
 (1) The Social Security (Incapacity Benefit) (Transitional) Regulations (Northern Ireland) 1995[^f00007] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -99,7 +99,7 @@ In regulation 4 of the Social Security (Overlapping Benefits) Regulations (North
 
   .
 
-## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-1218f8d4014b4eff99487497fccbc666]
+## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-1218f8d4014b4eff99487497fccbc666]
 
 (1) The Social Security (Incapacity for Work) (General) Regulations (Northern Ireland) 1995[^f00008] shall be amended in accordance with paragraphs (2) to (12).
 
@@ -254,20 +254,20 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00003]: Footnote: S.I. [1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)
 
-[^key-f0aea03532642f5f3c431497bedc8298]: Commencement: Reg. 1 in operation at 6.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/601/regulation/1/1)
+[^c-f0aea03532642f5f3c431497bedc8298]: Commencement: Reg. 1 in operation at 6.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/601/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0bb6b91a67bd70ee3f7072ff601647cb]: Commencement: Reg. 2 in operation at 6.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/601/regulation/1/1)
+[^c-0bb6b91a67bd70ee3f7072ff601647cb]: Commencement: Reg. 2 in operation at 6.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/601/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1979 No. 242](https://www.legislation.gov.uk/nisr/1979/242); regulation 4 was amended by Article 19(1) of the Social Security (Northern Ireland) Order 1986 (S.I. [1986/1888 (N.I. 18)](https://www.legislation.gov.uk/nisi/1986/1888)); that Article was repealed by the Social Security (Consequential Provisions) (Northern Ireland) Act [1992 (c. 9)](https://www.legislation.gov.uk/ukpga/1992/9) but its effect was saved by paragraph 11 of Schedule 3 to that Act; relevant amending regulations are [S.R. 1984 No. 317](https://www.legislation.gov.uk/nisr/1984/317), [S.R. 1992 Nos. 6](https://www.legislation.gov.uk/nisr/1992/6) and [557](https://www.legislation.gov.uk/nisr/1992/557), [S.R. 1995 No. 150](https://www.legislation.gov.uk/nisr/1995/150) and [S.R. 1996 No. 289](https://www.legislation.gov.uk/nisr/1996/289)
 
 [^f00006]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35); regulation 18 was amended by [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
 
-[^key-b24f8fc6484c1ac749e9100f1fe21bdd]: Commencement: Reg. 3 in operation at 6.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/601/regulation/1/1)
+[^c-b24f8fc6484c1ac749e9100f1fe21bdd]: Commencement: Reg. 3 in operation at 6.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/601/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1995 No. 35](https://www.legislation.gov.uk/nisr/1995/35); amended by [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149) and [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
 
-[^key-1218f8d4014b4eff99487497fccbc666]: Commencement: Reg. 4 in operation at 6.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/601/regulation/1/1)
+[^c-1218f8d4014b4eff99487497fccbc666]: Commencement: Reg. 4 in operation at 6.1.1997, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/601/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1995 No. 41](https://www.legislation.gov.uk/nisr/1995/41); relevant amending regulations are [S.R. 1995 No. 149](https://www.legislation.gov.uk/nisr/1995/149)

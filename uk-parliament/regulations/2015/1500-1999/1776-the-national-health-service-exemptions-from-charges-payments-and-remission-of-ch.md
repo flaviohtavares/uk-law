@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations 2015 (revoked)[^key-259e16b0764f7d22e1e32abf9f40a8d5]
+The National Health Service (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provision) Regulations 2015 (revoked)[^c-259e16b0764f7d22e1e32abf9f40a8d5]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 1st November 2015
 
-[^key-259e16b0764f7d22e1e32abf9f40a8d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-259e16b0764f7d22e1e32abf9f40a8d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-259e16b0764f7d22e1e32abf9f40a8d5]
+## 1. Citation, commencement and interpretation[^c-259e16b0764f7d22e1e32abf9f40a8d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^key-259e16b0764f7d22e1e32abf9f40a8d5]
+## 2. Amendment to the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^c-259e16b0764f7d22e1e32abf9f40a8d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Primary Ophthalmic Services Regulations 2008[^key-259e16b0764f7d22e1e32abf9f40a8d5]
+## 3. Amendment to the Primary Ophthalmic Services Regulations 2008[^c-259e16b0764f7d22e1e32abf9f40a8d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment to the National Health Service (Optical Charges and Payments) Regulations 2013[^key-259e16b0764f7d22e1e32abf9f40a8d5]
+## 4. Amendment to the National Health Service (Optical Charges and Payments) Regulations 2013[^c-259e16b0764f7d22e1e32abf9f40a8d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Transitional provision relating to the amendment of the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^key-259e16b0764f7d22e1e32abf9f40a8d5]
+## 5. Transitional provision relating to the amendment of the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^c-259e16b0764f7d22e1e32abf9f40a8d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Transitional provision relating to the amendment of the Primary Ophthalmic Services Regulations 2008[^key-259e16b0764f7d22e1e32abf9f40a8d5]
+## 6. Transitional provision relating to the amendment of the Primary Ophthalmic Services Regulations 2008[^c-259e16b0764f7d22e1e32abf9f40a8d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provision relating to the amendment of the National Health Service (Optical Charges and Payments) Regulations 2013[^key-259e16b0764f7d22e1e32abf9f40a8d5]
+## 7. Transitional provision relating to the amendment of the National Health Service (Optical Charges and Payments) Regulations 2013[^c-259e16b0764f7d22e1e32abf9f40a8d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-259e16b0764f7d22e1e32abf9f40a8d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-259e16b0764f7d22e1e32abf9f40a8d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-259e16b0764f7d22e1e32abf9f40a8d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-259e16b0764f7d22e1e32abf9f40a8d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-259e16b0764f7d22e1e32abf9f40a8d5]: Textual amendment: Regulations revoked (1.12.2016) by [The National Health Service (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provisions) Regulations 2016 (S.I. 2016/1045)](https://www.legislation.gov.uk/uksi/2016/1045), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1045/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/1045/regulation/7) (with [regs. 5](https://www.legislation.gov.uk/uksi/2016/1045/regulation/5), [6](https://www.legislation.gov.uk/uksi/2016/1045/regulation/6))
+[^c-259e16b0764f7d22e1e32abf9f40a8d5]: Textual amendment: Regulations revoked (1.12.2016) by [The National Health Service (Exemptions from Charges, Payments and Remission of Charges) (Amendment and Transitional Provisions) Regulations 2016 (S.I. 2016/1045)](https://www.legislation.gov.uk/uksi/2016/1045), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1045/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2016/1045/regulation/7) (with [regs. 5](https://www.legislation.gov.uk/uksi/2016/1045/regulation/5), [6](https://www.legislation.gov.uk/uksi/2016/1045/regulation/6))

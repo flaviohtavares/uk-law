@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104A. Deemed FPJAYS membership where a 2015 scheme election is made[^key-6db54001c97e4f732c31c01ff980efb4]
+## 104A. Deemed FPJAYS membership where a 2015 scheme election is made[^c-6db54001c97e4f732c31c01ff980efb4]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6db54001c97e4f732c31c01ff980efb4]: Textual amendment: [Reg. 104A](https://www.legislation.gov.uk/uksi/2017/522/regulation/104A) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(6)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/6)
+[^c-6db54001c97e4f732c31c01ff980efb4]: Textual amendment: [Reg. 104A](https://www.legislation.gov.uk/uksi/2017/522/regulation/104A) inserted (5.7.2023) by [The Judicial Pensions (Remediable Service etc.) Regulations 2023 (S.I. 2023/766)](https://www.legislation.gov.uk/uksi/2023/766), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/766/regulation/1/b), [Sch. para. 3(6)](https://www.legislation.gov.uk/uksi/2023/766/schedule/paragraph/3/6)

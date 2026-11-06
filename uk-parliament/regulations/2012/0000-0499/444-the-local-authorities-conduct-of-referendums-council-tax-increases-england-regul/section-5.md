@@ -38,9 +38,9 @@ summary: ''
 - (l) that, not fewer than 28 days before the date on which the referendum will be held, the authority will publish a statement containing the matters referred to in regulation 7(2) or (4) (as the case may be);
 - (m) of the procedures for obtaining a copy of the statement referred to in sub-paragraph (l) .
 
-(3)[^key-b16d48ed7b151392736cf9fd18108e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-b16d48ed7b151392736cf9fd18108e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-b16d48ed7b151392736cf9fd18108e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b16d48ed7b151392736cf9fd18108e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The notice published under paragraph (2) may also include—
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b16d48ed7b151392736cf9fd18108e8c]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2012/444/regulation/5/3)[(4)](https://www.legislation.gov.uk/uksi/2012/444/regulation/5/4) omitted (10.3.2014) by virtue of [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment) Regulations 2014 (S.I. 2014/231)](https://www.legislation.gov.uk/uksi/2014/231), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/231/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/231/regulation/2/b)
+[^c-b16d48ed7b151392736cf9fd18108e8c]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2012/444/regulation/5/3)[(4)](https://www.legislation.gov.uk/uksi/2012/444/regulation/5/4) omitted (10.3.2014) by virtue of [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) (Amendment) Regulations 2014 (S.I. 2014/231)](https://www.legislation.gov.uk/uksi/2014/231), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/231/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/231/regulation/2/b)

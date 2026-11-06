@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Remuneration etc of charity trustees etc[^key-e96f55b6a7aed5a80816cc6abfa86004][^key-594503fbeee14722fc4f5a15d0497f17]
+## 31. Remuneration etc of charity trustees etc[^c-e96f55b6a7aed5a80816cc6abfa86004][^c-594503fbeee14722fc4f5a15d0497f17]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ After section 186 of the Charities Act 2011 insert—
 
 ## Annotations
 
-[^key-e96f55b6a7aed5a80816cc6abfa86004]: Commencement: S. 31 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-e96f55b6a7aed5a80816cc6abfa86004]: Commencement: S. 31 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-594503fbeee14722fc4f5a15d0497f17]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/6/section/31) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/7)
+[^c-594503fbeee14722fc4f5a15d0497f17]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2022/6/section/31) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Registration officer’s right to inspect certain records[^key-c62b970e0da4c7f07a1d2725fbdf97eb]
+## 8. Registration officer’s right to inspect certain records[^c-c62b970e0da4c7f07a1d2725fbdf97eb]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c62b970e0da4c7f07a1d2725fbdf97eb]: Commencement: Reg. 8 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-c62b970e0da4c7f07a1d2725fbdf97eb]: Commencement: Reg. 8 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

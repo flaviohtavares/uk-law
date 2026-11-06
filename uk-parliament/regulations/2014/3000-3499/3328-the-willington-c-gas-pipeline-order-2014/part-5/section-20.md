@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Private rights of way[^key-0eff7d4e917395adeec6b748c5cc5ce7]
+## 20. Private rights of way[^c-0eff7d4e917395adeec6b748c5cc5ce7]
 
 *Extent: E+W+S*
 
@@ -55,6 +55,6 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-0eff7d4e917395adeec6b748c5cc5ce7]: Commencement: Art. 20 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
+[^c-0eff7d4e917395adeec6b748c5cc5ce7]: Commencement: Art. 20 in force at 7.1.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3328/article/1)
 
 [^f00033]: Footnote: Section 138 was amended by section 23(4) of the Growth and Infrastructure Act 2013.

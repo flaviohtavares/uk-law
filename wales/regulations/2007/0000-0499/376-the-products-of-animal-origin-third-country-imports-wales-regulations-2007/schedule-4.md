@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — Provisions Where Due Diligence Defence is Available[^key-f6feb52e9637b816b03afb30b2a07ffc]
+## SCHEDULE 4 — Provisions Where Due Diligence Defence is Available[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 *Extent: E+W*
 
@@ -24,58 +24,58 @@ summary: ''
 
 Regulation 63
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]
+[^c-f6feb52e9637b816b03afb30b2a07ffc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6feb52e9637b816b03afb30b2a07ffc]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/wsi/2011/2379), [regs. 1](https://www.legislation.gov.uk/wsi/2011/2379/regulation/1), [43(1)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/43/1/e)
+[^c-f6feb52e9637b816b03afb30b2a07ffc]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/wsi/2011/2379), [regs. 1](https://www.legislation.gov.uk/wsi/2011/2379/regulation/1), [43(1)(e)](https://www.legislation.gov.uk/wsi/2011/2379/regulation/43/1/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Changes to boundaries of an EPB's area[^key-4b1740bfdd72987beab6d8e184ee3e29]
+## 95. Changes to boundaries of an EPB's area[^c-4b1740bfdd72987beab6d8e184ee3e29]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) An order may be made under this section only if—
 
-- (a) the area to be created by the order meets conditions A and D[^key-d7276ce80eca92be43ed762e2e78a854] in section 88, and
+- (a) the area to be created by the order meets conditions A and D[^c-d7276ce80eca92be43ed762e2e78a854] in section 88, and
 - (b) each council to whom this section applies consents to the making of the order.
 
 (3) This section applies to—
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4b1740bfdd72987beab6d8e184ee3e29]: Commencement: S. 95 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
+[^c-4b1740bfdd72987beab6d8e184ee3e29]: Commencement: S. 95 in force at 17.12.2009 by [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/3318/article/2/a)
 
-[^key-d7276ce80eca92be43ed762e2e78a854]: Textual amendment: Words in s. 95(2)(a) substituted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/11/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)
+[^c-d7276ce80eca92be43ed762e2e78a854]: Textual amendment: Words in s. 95(2)(a) substituted (28.1.2016 for specified purposes, 28.3.2016 in so far as not already in force) by [Cities and Local Government Devolution Act 2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), [ss. 11(3)](https://www.legislation.gov.uk/ukpga/2016/1/section/11/3), [25(2)](https://www.legislation.gov.uk/ukpga/2016/1/section/25/2)

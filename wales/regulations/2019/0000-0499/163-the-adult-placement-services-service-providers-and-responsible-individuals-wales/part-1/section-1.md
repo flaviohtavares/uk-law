@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Title, commencement and interpretation[^key-4872b4fba9c7e23d041d600f63a0cded]
+## 1. Title, commencement and interpretation[^c-4872b4fba9c7e23d041d600f63a0cded]
 
 *Extent: E+W*
 
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4872b4fba9c7e23d041d600f63a0cded]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/163/regulation/1) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-4872b4fba9c7e23d041d600f63a0cded]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2019/163/regulation/1) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
 
 [^c23552231]: Marginal citation: “Carer agreement” is defined in paragraph 6(2) of Schedule 1 to the Act as “an agreement for the provision by an individual of accommodation at the individual's home together with care and support for up to three adults”.
 

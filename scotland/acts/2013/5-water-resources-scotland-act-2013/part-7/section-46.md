@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Recommendations issuable[^key-05deed0830283b7c6b91ba83b70c247f]
+## 46. Recommendations issuable[^c-05deed0830283b7c6b91ba83b70c247f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05deed0830283b7c6b91ba83b70c247f]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2013/5/section/46) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-05deed0830283b7c6b91ba83b70c247f]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2013/5/section/46) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

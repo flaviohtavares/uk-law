@@ -35,9 +35,9 @@ summary: ''
 
 - (a) that it is necessary to make the order because failure to do so would result in a breach of—
   - (i) an individual's Convention rights (within the meaning of the Human Rights Act 1998), or
-  - (ii) any rights of an individual to the provision of legal services that are assimilated enforceable rights[^key-d457a9189912003db5665ccf45ce9385], or
+  - (ii) any rights of an individual to the provision of legal services that are assimilated enforceable rights[^c-d457a9189912003db5665ccf45ce9385], or
 - (b) that it is appropriate to make the order having regard to any risk that failure to do so would result in such a breach.
 
 ## Annotations
 
-[^key-d457a9189912003db5665ccf45ce9385]: Textual amendment: Words in [s. 32(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/10/section/32/3/a/ii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 75(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/75/2/b)
+[^c-d457a9189912003db5665ccf45ce9385]: Textual amendment: Words in [s. 32(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2012/10/section/32/3/a/ii) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 75(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/75/2/b)

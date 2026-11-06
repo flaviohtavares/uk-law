@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6[^key-1af7938f698ed9410439e1495db119d0]
+## SCHEDULE 6[^c-1af7938f698ed9410439e1495db119d0]
 
 *Extent: E+W*
 
@@ -180,7 +180,7 @@ Rule 32
 
 ## Annotations
 
-[^key-1af7938f698ed9410439e1495db119d0]: Commencement: Sch. 6 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
+[^c-1af7938f698ed9410439e1495db119d0]: Commencement: Sch. 6 in force at 1.10.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/2317/rule/1)
 
 [^f00066]: Footnote: [1972 c. 71](https://www.legislation.gov.uk/ukpga/1972/71); section 36 is amended by section 40 of, and paragraph 23 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), with effect from a date to be appointed.
 

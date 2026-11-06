@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 335. Conditions securing compliance with international obligations[^key-bb0fd0227b70b4b1dac93ee10cffb328]
+## 335. Conditions securing compliance with international obligations[^c-bb0fd0227b70b4b1dac93ee10cffb328]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In this section “**relevant international obligations of the United Kingdom**” means the international obligations of the United Kingdom which have been notified to OFCOM by the Secretary of State for the purposes of this section.
 
-(2A)[^key-7a679c8b083090d27f71aa9cf4a55778] The reference in subsection (2) to the international obligations of the United Kingdom includes a reference to Articles 16(1) and (2), 17 and 18 of the Audiovisual Media Services Directive, together with the interpretative provisions in Article 1 of that Directive so far as relevant to those Articles.
+(2A)[^c-7a679c8b083090d27f71aa9cf4a55778] The reference in subsection (2) to the international obligations of the United Kingdom includes a reference to Articles 16(1) and (2), 17 and 18 of the Audiovisual Media Services Directive, together with the interpretative provisions in Article 1 of that Directive so far as relevant to those Articles.
 
 (2B) The provisions of the Audiovisual Media Services Directive mentioned in subsection (2A) are to be read for the purposes of this section as if—
 
@@ -36,7 +36,7 @@ summary: ''
 - (a) any Channel 3 service;
 - (b) Channel 4;
 - (c) Channel 5;
-- (d)[^key-3dcd675b6bea4eee2e930923f099193b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-3dcd675b6bea4eee2e930923f099193b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) any television licensable content service;
 - (f) any digital television programme service;
 - (g) any additional television service;
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bb0fd0227b70b4b1dac93ee10cffb328]: Commencement: S. 335 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-bb0fd0227b70b4b1dac93ee10cffb328]: Commencement: S. 335 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-7a679c8b083090d27f71aa9cf4a55778]: Textual amendment: S. 335(2A)(2B) inserted (31.12.2020) by [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/26) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [regs. 2](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1), [5(2)(3)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7a679c8b083090d27f71aa9cf4a55778]: Textual amendment: S. 335(2A)(2B) inserted (31.12.2020) by [The Broadcasting (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/224)](https://www.legislation.gov.uk/uksi/2019/224), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/224/regulation/1/2), [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2019/224/schedule/1/paragraph/26) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/224/regulation/6)) (as amended by [S.I. 2020/1536](https://www.legislation.gov.uk/uksi/2020/1536), [regs. 2](https://www.legislation.gov.uk/uksi/2020/1536/regulation/1), [5(2)(3)](https://www.legislation.gov.uk/uksi/2020/1536/regulation/5/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3dcd675b6bea4eee2e930923f099193b]: Textual amendment: [S. 335(3)(d)](https://www.legislation.gov.uk/ukpga/2003/21/section/335/3/d) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/57); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-3dcd675b6bea4eee2e930923f099193b]: Textual amendment: [S. 335(3)(d)](https://www.legislation.gov.uk/ukpga/2003/21/section/335/3/d) omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 57](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/57); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

@@ -46,7 +46,7 @@ summary: ''
 - (e) section 35(1)(a), (2) and (3),
 - (f) section 37(2),
 - (fa)[^c21534211] section 38(1),
-- (faa)[^key-2bb47fdfab760ef139d2b6168c156d82] section 38A(1),
+- (faa)[^c-2bb47fdfab760ef139d2b6168c156d82] section 38A(1),
 - (fb) section 39(2),
 - (g) section 40(1), and
 - (h) section 58(3)(a).
@@ -76,6 +76,6 @@ summary: ''
 
 [^c21534211]: Textual amendment: S. 13(3)(fa)(fb) inserted (27.9.2004) by [The Commonhold Regulations 2004 (S.I. 2004/1829)](https://www.legislation.gov.uk/uksi/2004/1829), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1829/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2004/1829/regulation/2/4/c)
 
-[^key-2bb47fdfab760ef139d2b6168c156d82]: Textual amendment: [S. 13(3)(faa)](https://www.legislation.gov.uk/ukpga/2002/15/section/13/3/faa) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/2), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
+[^c-2bb47fdfab760ef139d2b6168c156d82]: Textual amendment: [S. 13(3)(faa)](https://www.legislation.gov.uk/ukpga/2002/15/section/13/3/faa) inserted (28.4.2022 for specified purposes, 6.4.2023 in so far as not already in force) by [Building Safety Act 2022 (c. 30)](https://www.legislation.gov.uk/ukpga/2022/30), [ss. 114(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/114/2), [170(2)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2) (with [s. 164](https://www.legislation.gov.uk/ukpga/2022/30/section/164)); [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z11)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z11)
 
 [^c21534781]: Textual amendment: Words in s. 13(6)(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [Sch. 1 para. 194(5)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/194/5) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

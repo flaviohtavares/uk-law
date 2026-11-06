@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140B. Implementation of increases in employment and support allowance due to attainment of particular ages[^key-db34f44eb99f11dfad766c2bfd0df713]
+## 140B. Implementation of increases in employment and support allowance due to attainment of particular ages[^c-db34f44eb99f11dfad766c2bfd0df713]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Subsection (2) above does not apply where, in consequence of the recipient or other person reaching the qualifying age, a question arises in relation to the recipient's entitlement to
 
-- (a)[^key-c537a8b7dfa7c83b94607c42fdd3f1cb] a benefit under the Contributions and Benefits Act; or
+- (a)[^c-c537a8b7dfa7c83b94607c42fdd3f1cb] a benefit under the Contributions and Benefits Act; or
 - (b) personal independence payment.
 
 (4) Subsection (2) above does not apply where, in consequence of the recipient or other person reaching the qualifying age, a question arises in relation to the recipient's entitlement to an employment and support allowance, other than—
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db34f44eb99f11dfad766c2bfd0df713]: Textual amendment: S. 140B inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 4(21)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/4/21); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
+[^c-db34f44eb99f11dfad766c2bfd0df713]: Textual amendment: S. 140B inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 4(21)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/4/21); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
 
-[^key-c537a8b7dfa7c83b94607c42fdd3f1cb]: Textual amendment: Words in [s. 140B(3)](https://www.legislation.gov.uk/ukpga/1992/8/section/140B/3) substituted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 21](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/21); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)
+[^c-c537a8b7dfa7c83b94607c42fdd3f1cb]: Textual amendment: Words in [s. 140B(3)](https://www.legislation.gov.uk/ukpga/1992/8/section/140B/3) substituted (20.6.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 9 para. 21](https://www.legislation.gov.uk/nisi/2015/2006/schedule/9/paragraph/21); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 3(2)](https://www.legislation.gov.uk/nisr/2016/215/article/3/2)

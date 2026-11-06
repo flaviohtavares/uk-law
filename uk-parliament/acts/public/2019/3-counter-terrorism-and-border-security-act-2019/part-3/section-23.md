@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-ae269112664140b58ab17931a97d0b11] Schedule 4 contains minor and consequential amendments.
+(1)[^c-ae269112664140b58ab17931a97d0b11] Schedule 4 contains minor and consequential amendments.
 
 (2) The Secretary of State may by regulations make provision that is consequential on any provision made by this Act.
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c23671371]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/23/1) in force at Royal Assent for specified purposes and in force at 12.4.2019 for further specified purposes and s. 23(2)-(7) in force at Royal Assent, see [s. 27(1)(b)(f)(2)(d)(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/1/b/f/2/d/3)
 
-[^key-ae269112664140b58ab17931a97d0b11]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/23/1) in force at 13.8.2020 for specified purposes by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/h)
+[^c-ae269112664140b58ab17931a97d0b11]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/ukpga/2019/3/section/23/1) in force at 13.8.2020 for specified purposes by [S.I. 2020/792](https://www.legislation.gov.uk/uksi/2020/792), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2020/792/regulation/2/h)

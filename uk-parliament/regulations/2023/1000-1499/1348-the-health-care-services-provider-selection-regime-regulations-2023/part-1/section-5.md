@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Key criteria[^key-190a9f688c042a824ba753892c4dd86a]
+## 5. Key criteria[^c-190a9f688c042a824ba753892c4dd86a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ The key criteria are—
 
 ## Annotations
 
-[^key-190a9f688c042a824ba753892c4dd86a]: Commencement: Reg. 5 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-190a9f688c042a824ba753892c4dd86a]: Commencement: Reg. 5 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

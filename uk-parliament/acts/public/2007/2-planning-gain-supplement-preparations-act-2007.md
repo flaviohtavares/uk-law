@@ -34,7 +34,7 @@ An Act to permit expenditure in preparation for the imposition of a tax on the i
 
 \[20th March 2007\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c2f06151627ae97949ef277e835d161f]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c2f06151627ae97949ef277e835d161f]
 
 ## 1. Preparatory expenditure
 
@@ -58,4 +58,4 @@ This Act may be cited as the Planning-gain Supplement (Preparations) Act 2007.
 
 ## Annotations
 
-[^key-c2f06151627ae97949ef277e835d161f]: Modification: Act: power to repeal conferred (26.1.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 225(2)](https://www.legislation.gov.uk/ukpga/2008/29/section/225/2), [241(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/6) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226))
+[^c-c2f06151627ae97949ef277e835d161f]: Modification: Act: power to repeal conferred (26.1.2009) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 225(2)](https://www.legislation.gov.uk/ukpga/2008/29/section/225/2), [241(6)](https://www.legislation.gov.uk/ukpga/2008/29/section/241/6) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226))

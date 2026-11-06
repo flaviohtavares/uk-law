@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Supplementary provisions as to registration of holders of overseas diplomas.[^key-41aaa230e7fea7b8125cfd646e04bfa8]
+## 16. Supplementary provisions as to registration of holders of overseas diplomas.[^c-41aaa230e7fea7b8125cfd646e04bfa8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41aaa230e7fea7b8125cfd646e04bfa8]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1984/24/section/16) omitted (8.3.2023) by virtue of [The Dentists, Dental Care Professionals, Nurses, Nursing Associates and Midwives (International Registrations) Order 2023 (S.I. 2023/162)](https://www.legislation.gov.uk/uksi/2023/162), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/162/article/1/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/162/schedule/1/paragraph/3/1)
+[^c-41aaa230e7fea7b8125cfd646e04bfa8]: Textual amendment: [S. 16](https://www.legislation.gov.uk/ukpga/1984/24/section/16) omitted (8.3.2023) by virtue of [The Dentists, Dental Care Professionals, Nurses, Nursing Associates and Midwives (International Registrations) Order 2023 (S.I. 2023/162)](https://www.legislation.gov.uk/uksi/2023/162), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/162/article/1/2), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2023/162/schedule/1/paragraph/3/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Order for absolute discharge[^key-dde07b9fb9b77b71eb31906cd0607cbe]
+## 79. Order for absolute discharge[^c-dde07b9fb9b77b71eb31906cd0607cbe]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dde07b9fb9b77b71eb31906cd0607cbe]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2020/17/section/79) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dde07b9fb9b77b71eb31906cd0607cbe]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2020/17/section/79) in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

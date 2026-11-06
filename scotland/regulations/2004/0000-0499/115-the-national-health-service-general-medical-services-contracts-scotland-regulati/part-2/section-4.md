@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Conditions relating solely to medical practitioners[^key-b2fb77a8968c9aabc9871f3900f9fbdf]
+## 4. Conditions relating solely to medical practitioners[^c-b2fb77a8968c9aabc9871f3900f9fbdf]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b2fb77a8968c9aabc9871f3900f9fbdf]: Commencement: Reg. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-b2fb77a8968c9aabc9871f3900f9fbdf]: Commencement: Reg. 4 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

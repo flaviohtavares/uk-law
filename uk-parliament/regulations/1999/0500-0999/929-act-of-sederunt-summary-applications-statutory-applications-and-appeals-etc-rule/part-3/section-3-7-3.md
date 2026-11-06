@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.7.3. Statement of reasons of licensing board[^key-05ac83fd698c789d352ad24699270e3e]
+## 3.7.3. Statement of reasons of licensing board[^c-05ac83fd698c789d352ad24699270e3e]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05ac83fd698c789d352ad24699270e3e]: Commencement: Rule 3.7.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-05ac83fd698c789d352ad24699270e3e]: Commencement: Rule 3.7.3 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

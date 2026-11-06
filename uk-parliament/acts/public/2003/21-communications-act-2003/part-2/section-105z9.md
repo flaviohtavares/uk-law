@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105Z9. Further provision about designation notices[^key-57c0c11e29245ae2da1ad31c1ca39d71]
+## 105Z9. Further provision about designation notices[^c-57c0c11e29245ae2da1ad31c1ca39d71]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57c0c11e29245ae2da1ad31c1ca39d71]: Textual amendment: [Ss. 105Z8-105Z10](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z8) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/16/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)
+[^c-57c0c11e29245ae2da1ad31c1ca39d71]: Textual amendment: [Ss. 105Z8-105Z10](https://www.legislation.gov.uk/ukpga/2003/21/section/105Z8) inserted (17.11.2021) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2021/31/section/16/2), [28(1)(c)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/c)

@@ -26,9 +26,9 @@ Section 144
 
 *Extent: E+W*
 
-**1.**[^key-a208d7049fae3a5e6a81c2d7eaf34b07] The Crime and Disorder Act 1998 (c. 37) is amended as provided in paragraphs 2 to 5.
+**1.**[^c-a208d7049fae3a5e6a81c2d7eaf34b07] The Crime and Disorder Act 1998 (c. 37) is amended as provided in paragraphs 2 to 5.
 
-**2.**[^key-de89dd9ef2aa322a628427232d56547f] After section 13 insert—
+**2.**[^c-de89dd9ef2aa322a628427232d56547f] After section 13 insert—
 
 > **13A. Parental compensation orders**
 >
@@ -139,7 +139,7 @@ Section 144
 >
 > (3) The claimant may not enforce the judgment, so far as it relates to such a sum as is mentioned in subsection (2)(b) above, without the permission of the court.
 
-**3.**[^key-84b197e6803d4ecf2eeb288214db77e6] (1) Section 8 (parenting orders) is amended as follows.
+**3.**[^c-84b197e6803d4ecf2eeb288214db77e6] (1) Section 8 (parenting orders) is amended as follows.
 
 (2) In subsection (1), after paragraph (a) insert—
 
@@ -150,17 +150,17 @@ Section 144
 (3) In subsection (6)(a)—
 
 - (a) after “paragraph (a)” insert “ , (aa) ”,
-- (b)[^key-98b35f8a81730a9a185f9aeb5f952141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-98b35f8a81730a9a185f9aeb5f952141] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-bd72dd536f1e5af0217421f5eddfd3e0] In section 18 (interpretation of Chapter 1), in subsection (1), after the definition of “local child curfew scheme” insert—
+**4.**[^c-bd72dd536f1e5af0217421f5eddfd3e0] In section 18 (interpretation of Chapter 1), in subsection (1), after the definition of “local child curfew scheme” insert—
 
 > “**parental compensation order**” has the meaning given by section 13A(1) above;
 
 .
 
-**5.**[^key-32f79013f1af4929eb35525f0f4435b1] In section 114 (orders and regulations), in subsection (3), after “section” insert “ 13A(5), ”.
+**5.**[^c-32f79013f1af4929eb35525f0f4435b1] In section 114 (orders and regulations), in subsection (3), after “section” insert “ 13A(5), ”.
 
-**6.**[^key-b2e142d2eb0fe43d76ed9f9e28b201cd] The amendments made by paragraph 2 of this Schedule do not apply in relation to any conduct which occurred before the coming into force of that paragraph.
+**6.**[^c-b2e142d2eb0fe43d76ed9f9e28b201cd] The amendments made by paragraph 2 of this Schedule do not apply in relation to any conduct which occurred before the coming into force of that paragraph.
 
 ### Part 2 — Northern Ireland
 
@@ -293,16 +293,16 @@ Section 144
 
 ## Annotations
 
-[^key-a208d7049fae3a5e6a81c2d7eaf34b07]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/1) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
+[^c-a208d7049fae3a5e6a81c2d7eaf34b07]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/1) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
 
-[^key-de89dd9ef2aa322a628427232d56547f]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/2) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
+[^c-de89dd9ef2aa322a628427232d56547f]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/2) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
 
-[^key-84b197e6803d4ecf2eeb288214db77e6]: Commencement: Sch. 10 para. 3 in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
+[^c-84b197e6803d4ecf2eeb288214db77e6]: Commencement: Sch. 10 para. 3 in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
 
-[^key-98b35f8a81730a9a185f9aeb5f952141]: Textual amendment: [Sch. 10 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/3/3/b) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
+[^c-98b35f8a81730a9a185f9aeb5f952141]: Textual amendment: [Sch. 10 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/3/3/b) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
 
-[^key-bd72dd536f1e5af0217421f5eddfd3e0]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/4) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
+[^c-bd72dd536f1e5af0217421f5eddfd3e0]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/4) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
 
-[^key-32f79013f1af4929eb35525f0f4435b1]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/5) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
+[^c-32f79013f1af4929eb35525f0f4435b1]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/5) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
 
-[^key-b2e142d2eb0fe43d76ed9f9e28b201cd]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/6) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)
+[^c-b2e142d2eb0fe43d76ed9f9e28b201cd]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/10/paragraph/6) in force at 20.7.2006 for specified purposes by [S.I. 2006/1871](https://www.legislation.gov.uk/uksi/2006/1871), [art. 2](https://www.legislation.gov.uk/uksi/2006/1871/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 134. Regulations requiring provision of information: confidentiality and data protection[^key-9762eeeb319d198c7a9e0df0238ccead]
+## 134. Regulations requiring provision of information: confidentiality and data protection[^c-9762eeeb319d198c7a9e0df0238ccead]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9762eeeb319d198c7a9e0df0238ccead]: Commencement: S. 134 in force at 28.4.2026, see [s. 138(1)(c)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/c)
+[^c-9762eeeb319d198c7a9e0df0238ccead]: Commencement: S. 134 in force at 28.4.2026, see [s. 138(1)(c)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Tenement boundaries[^key-0df71ebf6bb332d959faac64a7dceaad]
+## 2. Tenement boundaries[^c-0df71ebf6bb332d959faac64a7dceaad]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0df71ebf6bb332d959faac64a7dceaad]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2004/11/section/2) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)
+[^c-0df71ebf6bb332d959faac64a7dceaad]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2004/11/section/2) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/a)

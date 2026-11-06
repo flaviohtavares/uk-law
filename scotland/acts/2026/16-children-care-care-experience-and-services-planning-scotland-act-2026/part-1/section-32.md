@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Disclosure of information[^key-39f1ad24bf7c9ab5a4753225318eda0e]
+## 32. Disclosure of information[^c-39f1ad24bf7c9ab5a4753225318eda0e]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39f1ad24bf7c9ab5a4753225318eda0e]: Commencement: S. 32 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-39f1ad24bf7c9ab5a4753225318eda0e]: Commencement: S. 32 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

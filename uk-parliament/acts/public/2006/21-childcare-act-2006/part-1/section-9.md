@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Arrangements between local authority and childcare providers[^key-120ce9d6ca1acec8783d3ecba978f789]
+## 9. Arrangements between local authority and childcare providers[^c-120ce9d6ca1acec8783d3ecba978f789]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-120ce9d6ca1acec8783d3ecba978f789]: Commencement: S. 9 in force at 1.10.2007 by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/a)
+[^c-120ce9d6ca1acec8783d3ecba978f789]: Commencement: S. 9 in force at 1.10.2007 by [S.I. 2007/2717](https://www.legislation.gov.uk/uksi/2007/2717), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/2717/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17A — Further provisions relating to leases[^key-f0604ace11fad3f9dff3b0e2a83f8c0d]
+## SCHEDULE 17A — Further provisions relating to leases[^c-f0604ace11fad3f9dff3b0e2a83f8c0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ Section 120
 
 ### Meaning of “lease”
 
-**1.** In this Part[^key-12442629c8f1a6590ecfec80564104c5] “**lease**” means—
+**1.** In this Part[^c-12442629c8f1a6590ecfec80564104c5] “**lease**” means—
 
 - (a) an interest or right in or over land for a term of years (whether fixed or periodic), or
 - (b) a tenancy at will or other interest or right in or over land terminable by notice at any time.
@@ -38,12 +38,12 @@ Section 120
 
 ### Leases that continue after a fixed term
 
-**3.** (1)[^key-b62ad1077715b5e65d37463e2f53099c] This paragraph applies to—
+**3.** (1)[^c-b62ad1077715b5e65d37463e2f53099c] This paragraph applies to—
 
 - (a) a lease for a fixed term and thereafter until determined, or
 - (b) a lease for a fixed term that may continue beyond the fixed term by operation of law.
 
-(2)[^key-b62ad1077715b5e65d37463e2f53099c] For the purposes of this Part (except sections 77 and 77A[^key-1f45bab92095b15bedebc92507dd8861] (notifiable transactions)), a lease to which this paragraph applies is treated—
+(2)[^c-b62ad1077715b5e65d37463e2f53099c] For the purposes of this Part (except sections 77 and 77A[^c-1f45bab92095b15bedebc92507dd8861] (notifiable transactions)), a lease to which this paragraph applies is treated—
 
 - (a) in the first instance as if it were a lease for the original fixed term and no longer,
 - (b) if the lease continues after the end of that term, as if it were a lease for a fixed term one year longer than the original fixed term,
@@ -51,7 +51,7 @@ Section 120
 
 and so on.
 
-(3)[^key-5abd4719c62bc3f8c2bedc5c03461631] Where the effect of sub-paragraph (2) in relation to the continuation of the lease for a period (or further period) of one year after the end of a fixed term is that a transaction becomes notifiable, the purchaser must deliver a return in respect of that transaction before the end of the period of 14 days after the end of that one year period.
+(3)[^c-5abd4719c62bc3f8c2bedc5c03461631] Where the effect of sub-paragraph (2) in relation to the continuation of the lease for a period (or further period) of one year after the end of a fixed term is that a transaction becomes notifiable, the purchaser must deliver a return in respect of that transaction before the end of the period of 14 days after the end of that one year period.
 
 (3ZA) Where the effect of sub-paragraph (2) in relation to the continuation of the lease for a period (or further period) of one year after the end of a fixed term is that—
 
@@ -67,22 +67,22 @@ the purchaser must deliver a further return in respect of that transaction befor
 - (a) that return must include a self-assessment of the amount of tax chargeable in respect of the transaction on the basis of the information contained in the return, and
 - (b) the tax or additional tax payable must be paid not later than the filing date for that return.
 
-(3A)[^key-3c8abbc4754ef79e4bd838527cdd5eff] But no tax or additional tax is payable in respect of a transaction as a result of the continuation of a lease for a period (or further period) of one year under sub-paragraph (2) if, during that one year period, the tenant under the lease is granted a new lease of the same or substantially the same premises in circumstances where paragraph 9A applies.
+(3A)[^c-3c8abbc4754ef79e4bd838527cdd5eff] But no tax or additional tax is payable in respect of a transaction as a result of the continuation of a lease for a period (or further period) of one year under sub-paragraph (2) if, during that one year period, the tenant under the lease is granted a new lease of the same or substantially the same premises in circumstances where paragraph 9A applies.
 
-(3B)[^key-b83f14ec60eb1c6032bf1c5b7b7e0010] Sub-paragraph (2) is subject to paragraph 3A.
+(3B)[^c-b83f14ec60eb1c6032bf1c5b7b7e0010] Sub-paragraph (2) is subject to paragraph 3A.
 
-(4) The provisions of Schedule 10 (returns, enquiries, assessments and other matters) apply to a return under this paragraph as they apply to a return under section 76 (general requirement to deliver land transaction return), with the adaptation that references to the effective date of the transaction shall be read as references to the last day of the one year period for which the lease is continued or (as the case may be) further continued.[^key-e76d6b587a03ad3e94912a1da36e785c]
+(4) The provisions of Schedule 10 (returns, enquiries, assessments and other matters) apply to a return under this paragraph as they apply to a return under section 76 (general requirement to deliver land transaction return), with the adaptation that references to the effective date of the transaction shall be read as references to the last day of the one year period for which the lease is continued or (as the case may be) further continued.[^c-e76d6b587a03ad3e94912a1da36e785c]
 
-(5) For the purposes of sections 77 and 77A[^key-4541131dc39bbb85ee53a9cffd52e2be] (notifiable transactions) a lease to which this paragraph applies is a lease for whatever is its fixed term.
+(5) For the purposes of sections 77 and 77A[^c-4541131dc39bbb85ee53a9cffd52e2be] (notifiable transactions) a lease to which this paragraph applies is a lease for whatever is its fixed term.
 
-(6)[^key-0c4b6d069df59bd03d33b4bd173c7bf0] Where—
+(6)[^c-0c4b6d069df59bd03d33b4bd173c7bf0] Where—
 
 - (a) a lease would be treated as continuing for a period (or further period) of one year under sub-paragraph (2), but
 - (b) (ignoring that sub-paragraph) the lease actually terminates at a time during that period,
 
 the lease is to be treated as continuing under sub-paragraph (2) only until that time; and the references in sub-paragraphs (3) and (4) to that one year period are accordingly to be read as references to so much of that year as ends with that time.
 
-**3A.**[^key-3b999419491fc755e363eefd1fabe441] (1) This paragraph applies where—
+**3A.**[^c-3b999419491fc755e363eefd1fabe441] (1) This paragraph applies where—
 
 - (a) (ignoring this paragraph) paragraph 3 would apply to treat a lease (“the original lease”) as if it were a lease for a fixed term one year longer than the original term,
 - (b) during that one year period the tenant under that lease is granted a new lease of the same or substantially the same premises,
@@ -99,7 +99,7 @@ the lease is to be treated as continuing under sub-paragraph (2) only until that
 
 ### Treatment of leases for indefinite term
 
-**4.** (1)[^key-ec5bc4b7ea20fea4b341295343a76b28] For the purposes of this Part (except sections 77 and 77A[^key-2300a3fd3c2d55e40f9e5b6e2a695d4f] (notifiable transactions))—
+**4.** (1)[^c-ec5bc4b7ea20fea4b341295343a76b28] For the purposes of this Part (except sections 77 and 77A[^c-2300a3fd3c2d55e40f9e5b6e2a695d4f] (notifiable transactions))—
 
 - (a) a lease for an indefinite term is treated in the first instance as if it were a lease for a fixed term of a year,
 - (b) if the lease continues after the end of the term resulting from the application of paragraph (a), it is treated as if it were a lease for a fixed term of two years,
@@ -107,9 +107,9 @@ the lease is to be treated as continuing under sub-paragraph (2) only until that
 
 and so on.
 
-(2)[^key-ec5bc4b7ea20fea4b341295343a76b28] No account shall be taken for the purposes of this Part of any other statutory provision in England and Wales or Northern Ireland deeming a lease for an indefinite period to be a lease for a different term.
+(2)[^c-ec5bc4b7ea20fea4b341295343a76b28] No account shall be taken for the purposes of this Part of any other statutory provision in England and Wales or Northern Ireland deeming a lease for an indefinite period to be a lease for a different term.
 
-(3)[^key-545d8f3c1e65745bf14f22b3f9a63e48] Where the effect of sub-paragraph (1) in relation to the continuation of the lease after the end of a deemed fixed term is that a transaction becomes notifiable, the purchaser must deliver a return in respect of that transaction before the end of the period of 14 days after the end of that term.
+(3)[^c-545d8f3c1e65745bf14f22b3f9a63e48] Where the effect of sub-paragraph (1) in relation to the continuation of the lease after the end of a deemed fixed term is that a transaction becomes notifiable, the purchaser must deliver a return in respect of that transaction before the end of the period of 14 days after the end of that term.
 
 (3A) Where the effect of sub-paragraph (1) in relation to the continuation of the lease after the end of a deemed fixed term is that—
 
@@ -127,12 +127,12 @@ the purchaser must deliver a further return in respect of that transaction befor
 
 (4) The provisions of Schedule 10 (returns, enquiries, assessments and other matters) apply to a return under this paragraph as they apply to a return under section 76 (general requirement to deliver land transaction return), with the adaptation that references to the effective date of the transaction shall be read as references to the day on which the lease becomes treated as being for a longer fixed term.
 
-(4A) For the purposes of sections 77 and 77A[^key-e8ac07447ab080917ad442330b514d3c] (notifiable transactions) a lease for an indefinite term is a lease for a term of less then seven years.
+(4A) For the purposes of sections 77 and 77A[^c-e8ac07447ab080917ad442330b514d3c] (notifiable transactions) a lease for an indefinite term is a lease for a term of less then seven years.
 
-(5)[^key-580815c56445f9a294ed755774697004] References in this paragraph to a lease for an indefinite period include—
+(5)[^c-580815c56445f9a294ed755774697004] References in this paragraph to a lease for an indefinite period include—
 
 - (a) a periodic tenancy or other interest or right terminable by a period of notice,
-- (b) a tenancy at will [^key-67847fa7c0fb5a18e5f76400d732f496]..., or
+- (b) a tenancy at will [^c-67847fa7c0fb5a18e5f76400d732f496]..., or
 - (c) any other interest or right terminable by notice at any time.
 
 ### Treatment of successive linked leases
@@ -170,16 +170,16 @@ the purchaser must deliver a further return in respect of that transaction befor
 
 (3) As regards rent payable in respect of any period after the end of the fifth year of the term of the lease, the annual amount is assumed for the purposes of this Part to be, in every case, equal to the highest amount of rent payable in respect of any consecutive twelve month period in the first five years of the term.
 
-In determining that amount take into account (if necessary) any amounts determined as mentioned in sub-paragraph (2)(b), but disregard paragraphs 9(2) and 9A(3) (deemed reduction of rent, where further lease granted, for period during which rents overlap)[^key-860adddf6e5fa82f31611b2dfda083c0].
+In determining that amount take into account (if necessary) any amounts determined as mentioned in sub-paragraph (2)(b), but disregard paragraphs 9(2) and 9A(3) (deemed reduction of rent, where further lease granted, for period during which rents overlap)[^c-860adddf6e5fa82f31611b2dfda083c0].
 
 (4) This paragraph has effect subject to paragraph 8 (adjustment where rent payable ceases to be uncertain).
 
-(4A)[^key-4a290de4a41ff32d683ab0474b42a9d6] For the purposes of this paragraph and paragraph 8, the cases where the amount of rent payable under a lease is uncertain or unascertained include cases where there is a possibility of that amount being varied under—
+(4A)[^c-4a290de4a41ff32d683ab0474b42a9d6] For the purposes of this paragraph and paragraph 8, the cases where the amount of rent payable under a lease is uncertain or unascertained include cases where there is a possibility of that amount being varied under—
 
 - (a) section 12, 13 or 33 of the Agricultural Holdings Act 1986,
 - (b) Part 2 of the Agricultural Tenancies Act 1995,
-- (c)[^key-937a5004e6f6a7d67ab73a37fbc8bc66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-a4914551c2cdb8b04f2ad9f5844cf66f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-937a5004e6f6a7d67ab73a37fbc8bc66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-a4914551c2cdb8b04f2ad9f5844cf66f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) No account shall be taken for the purposes of this Part of any provision for rent to be adjusted in line with the retail prices index.
 
@@ -199,19 +199,19 @@ this Schedule has effect as if references to the first five years of the term of
 
 ### Adjustment where rent ceases to be uncertain
 
-**8.** (1)[^key-68dc87277d88a35241878655c6bf1311] Where the provisions of section 51 (1) and (2) (contingent, uncertain or unascertained consideration) apply in relation to a transaction by virtue of paragraph 7 (uncertain rent) and—
+**8.** (1)[^c-68dc87277d88a35241878655c6bf1311] Where the provisions of section 51 (1) and (2) (contingent, uncertain or unascertained consideration) apply in relation to a transaction by virtue of paragraph 7 (uncertain rent) and—
 
 - (a) the end of the fifth year of the term of the lease is reached, or
 - (b) the amount of rent payable in respect of the first five years of the term of the lease ceases to be uncertain at an earlier date,
 
 the following provisions have effect to require or permit reconsideration of how this Part applies to the transaction (and to any transaction in relation to which it is a linked transaction).
 
-(2)[^key-68dc87277d88a35241878655c6bf1311] For the purposes of this paragraph the amount of rent payable ceases to be uncertain when—
+(2)[^c-68dc87277d88a35241878655c6bf1311] For the purposes of this paragraph the amount of rent payable ceases to be uncertain when—
 
 - (a) in the case of contingent rent, the contingency occurs or it becomes clear that it will not occur, and
 - (b) in the case of uncertain or unascertained rent, the amount becomes ascertained.
 
-(3)[^key-6b1ba1ce9cfd8ded3e9b73fe7645d95e] If the result as regards the rent paid or payable in respect of the first five years of the term of the lease is that a transaction becomes notifiable, the purchaser must make a return to HMRC within 14 days of the date referred to in sub-paragraph (1)(a) or (b).
+(3)[^c-6b1ba1ce9cfd8ded3e9b73fe7645d95e] If the result as regards the rent paid or payable in respect of the first five years of the term of the lease is that a transaction becomes notifiable, the purchaser must make a return to HMRC within 14 days of the date referred to in sub-paragraph (1)(a) or (b).
 
 (3A) If the result as regards the rent paid or payable in respect of the first five years of the term of the lease is that—
 
@@ -254,7 +254,7 @@ the purchaser must make a further return to HMRC within 30 days of the date refe
 
 (5) This paragraph does not have effect so as to require the rent payable under the new lease to be treated as a negative amount.
 
-### Backdated lease granted to tenant holding over[^key-421cf15620873302fa6a2967e1dc5d6b]
+### Backdated lease granted to tenant holding over[^c-421cf15620873302fa6a2967e1dc5d6b]
 
 **9A.** (1) This paragraph applies where—
 
@@ -279,14 +279,14 @@ is treated for the purposes of this Part as reduced by the amount of taxable ren
 
 **10.** (1) In the case of the grant of a lease none of the following counts as chargeable consideration—
 
-- (a) any undertaking by the tenant to repair, maintain or insure the demised premises [^key-681d061b99c61c93951c2db5943e580b]...;
+- (a) any undertaking by the tenant to repair, maintain or insure the demised premises [^c-681d061b99c61c93951c2db5943e580b]...;
 - (b) any undertaking by the tenant to pay any amount in respect of services, repairs, maintenance or insurance or the landlord’s costs of management;
 - (c) any other obligation undertaken by the tenant that is not such as to affect the rent that a tenant would be prepared to pay in the open market;
 - (d) any guarantee of the payment of rent or the performance of any other obligation of the tenant under the lease;
 - (e) any penal rent, or increased rent in the nature of a penal rent, payable in respect of the breach of any obligation of the tenant under the lease.
-- (f)[^key-5f1c01350af6375a8e1cdb3b1e5ce17b] any liability of the tenant for costs under section 14(2) of the Leasehold Reform Act 1967 or section 60 of the Leasehold Reform, Housing and Urban Development Act 1993 (costs to be borne by person exercising statutory right to be granted lease);
+- (f)[^c-5f1c01350af6375a8e1cdb3b1e5ce17b] any liability of the tenant for costs under section 14(2) of the Leasehold Reform Act 1967 or section 60 of the Leasehold Reform, Housing and Urban Development Act 1993 (costs to be borne by person exercising statutory right to be granted lease);
 - (g) any other obligation of the tenant to bear the landlord’s reasonable costs or expenses of or incidental to the grant of a lease;
-- (h) any obligation under the lease to transfer to the landlord, on the termination of the lease, payment entitlements granted to the tenant under the single payment scheme (that is, the scheme of income support for farmers in pursuance of Title III of Council Regulation[^key-28f378b721c8d88a7e04baffc8a2dc83] [(EC) No 73/2009](https://www.legislation.gov.uk/eur/2009/73) ) in respect of land subject to the lease.
+- (h) any obligation under the lease to transfer to the landlord, on the termination of the lease, payment entitlements granted to the tenant under the single payment scheme (that is, the scheme of income support for farmers in pursuance of Title III of Council Regulation[^c-28f378b721c8d88a7e04baffc8a2dc83] [(EC) No 73/2009](https://www.legislation.gov.uk/eur/2009/73) ) in respect of land subject to the lease.
 
 (2) Where sub-paragraph (1) applies in relation to an obligation, a payment made in discharge of the obligation does not count as chargeable consideration.
 
@@ -294,7 +294,7 @@ is treated for the purposes of this Part as reduced by the amount of taxable ren
 
 ### Cases where assignment of lease treated as grant of lease
 
-**11.**[^key-15df358155f8c89cd4f4822ff821978d] (1)[^key-0e89774ca3dd03d093b7e8ebe507bf5b] This paragraph applies where the grant of a lease is exempt from charge by virtue of any of the provisions specified in sub-paragraph (3).
+**11.**[^c-15df358155f8c89cd4f4822ff821978d] (1)[^c-0e89774ca3dd03d093b7e8ebe507bf5b] This paragraph applies where the grant of a lease is exempt from charge by virtue of any of the provisions specified in sub-paragraph (3).
 
 (2) The first assignment of the lease that is not exempt from charge by virtue of any of the provisions specified in sub-paragraph (3), and in relation to which the assignee does not acquire the lease as a bare trustee of the assignor, is treated for the purposes of this Part as if it were the grant of a lease by the assignor—
 
@@ -305,33 +305,33 @@ is treated for the purposes of this Part as reduced by the amount of taxable ren
 
 - (a) section 57A (sale and leaseback arrangements);
 - (b) Part 1 or 2 of Schedule 7 (group relief or reconstruction or acquisition relief);
-- (ba)[^key-d1e65c06c440d3f27839d7025e1cf33c] Part 1 or 2 of Schedule 7A (PAIF seeding relief and co-ownership scheme[^key-8ee2430d09614717c8e4dc3eace361bf] seeding relief);
+- (ba)[^c-d1e65c06c440d3f27839d7025e1cf33c] Part 1 or 2 of Schedule 7A (PAIF seeding relief and co-ownership scheme[^c-8ee2430d09614717c8e4dc3eace361bf] seeding relief);
 - (c) section 66 (transfers involving public bodies);
 - (d) Schedule 8 (charities relief);
 - (e) any such regulations as are mentioned in section 123(3) (regulations reproducing in relation to stamp duty land tax the effect of enactments providing for exemption from stamp duty).
 
-(4) This paragraph does not apply where the relief in question is group relief, reconstruction or acquisition relief , PAIF seeding relief,[^key-b72de0222e982219f0bbfa2c9e78c5c7] co-ownership scheme[^key-660ecdb9763f7f58d5b417322406fe4b] seeding relief or charities relief and is withdrawn as a result of a disqualifying event occurring before the effective date of the assignment.
+(4) This paragraph does not apply where the relief in question is group relief, reconstruction or acquisition relief , PAIF seeding relief,[^c-b72de0222e982219f0bbfa2c9e78c5c7] co-ownership scheme[^c-660ecdb9763f7f58d5b417322406fe4b] seeding relief or charities relief and is withdrawn as a result of a disqualifying event occurring before the effective date of the assignment.
 
 (5) For the purposes of sub-paragraph (4) “**disqualifying event**” means—
 
-- (a) in relation to the withdrawal of group relief, the event falling within paragraph 3(1)(a) of Schedule 7 (purchaser ceasing to be a member of the same group as the vendor), as read with paragraph 4A of that Schedule[^key-35e03fef297cdea9aa0c9405ae0811b4];
+- (a) in relation to the withdrawal of group relief, the event falling within paragraph 3(1)(a) of Schedule 7 (purchaser ceasing to be a member of the same group as the vendor), as read with paragraph 4A of that Schedule[^c-35e03fef297cdea9aa0c9405ae0811b4];
 - (b) in relation to the withdrawal of reconstruction or acquisition relief, the change of control of the acquiring company mentioned in paragraph 9(1)(a) of that Schedule or, as the case may be, the event mentioned in paragraph 11(1)(a) or (2)(a) of that Schedule;
-- (ba)[^key-2a8d3b694d1f862bcf348183a7e92a09] in relation to the withdrawal of PAIF seeding relief—
+- (ba)[^c-2a8d3b694d1f862bcf348183a7e92a09] in relation to the withdrawal of PAIF seeding relief—
   - (i) the purchaser ceasing to be a property AIF as mentioned in paragraph 5 of Schedule 7A,
   - (ii) a person making a relevant disposal of units as mentioned in paragraph 7 of that Schedule, or
   - (iii) the grant of permission to a non-qualifying individual to occupy a dwelling as mentioned in paragraph 8 of that Schedule;
-- (bb) in relation to the withdrawal of co-ownership scheme[^key-e7ac4d4222a577a957caf9cf70dab516] seeding relief—
-  - (i) the purchaser ceasing to be a co-ownership [^key-00ba0410cde7d1db26b654b5cbaa0fa8]... contractual scheme as mentioned in paragraph 13 of Schedule 7A,
+- (bb) in relation to the withdrawal of co-ownership scheme[^c-e7ac4d4222a577a957caf9cf70dab516] seeding relief—
+  - (i) the purchaser ceasing to be a co-ownership [^c-00ba0410cde7d1db26b654b5cbaa0fa8]... contractual scheme as mentioned in paragraph 13 of Schedule 7A,
   - (ii) a person making a relevant disposal of units as mentioned in paragraph 17 of that Schedule, or
   - (iii) the grant of permission to a non-qualifying individual to occupy a dwelling as mentioned in paragraph 18 of that Schedule;
 - (c) in relation to the withdrawal of charities relief, a disqualifying event as defined in paragraphs 2(3) or 3(2) of Schedule 8.
 
-(6)[^key-c87e1608b923a6166248e47044627a40] This paragraph also does not apply where the relief in question is PAIF seeding relief or co-ownership scheme[^key-93ccaf239a59ed6a92eb5216e6e60cf4] seeding relief and is withdrawn as a result of a requirement not being met at a time which is before the effective date of the assignment of the lease.
+(6)[^c-c87e1608b923a6166248e47044627a40] This paragraph also does not apply where the relief in question is PAIF seeding relief or co-ownership scheme[^c-93ccaf239a59ed6a92eb5216e6e60cf4] seeding relief and is withdrawn as a result of a requirement not being met at a time which is before the effective date of the assignment of the lease.
 
 (7) For the purposes of sub-paragraph (6), the reference to a requirement not being met is a reference to—
 
 - (a) in relation to the withdrawal of PAIF seeding relief under paragraph 6 of Schedule 7A, the portfolio test not being met (see paragraph 6(7));
-- (b) in relation to the withdrawal of co-ownership scheme[^key-d8ae4623ec339f1aa17381107f793db2] seeding relief under paragraph 14 of Schedule 7A, the genuine diversity of ownership condition not being met (see paragraph 15);
+- (b) in relation to the withdrawal of co-ownership scheme[^c-d8ae4623ec339f1aa17381107f793db2] seeding relief under paragraph 14 of Schedule 7A, the genuine diversity of ownership condition not being met (see paragraph 15);
 - (c) in relation to the withdrawal of co-ownership scheme seeding relief under paragraph 16 of Schedule 7A, the portfolio test not being met (see paragraph 16(7)).
 
 ### Assignment of lease: responsibility of assignee for returns etc
@@ -351,7 +351,7 @@ shall, if the event giving rise to the adjustment or return occurs after the eff
 
 ### Agreement for lease
 
-**12A.** (1) This paragraph applies where [^key-509a64b73148513476ce588fcd9f5b52]...—
+**12A.** (1) This paragraph applies where [^c-509a64b73148513476ce588fcd9f5b52]...—
 
 - (a) an agreement for a lease is entered into, and
 - (b) the agreement is substantially performed without having been completed.
@@ -360,7 +360,7 @@ shall, if the event giving rise to the adjustment or return occurs after the eff
 
 The effective date of the transaction is that date.
 
-(3)[^key-0c402c055683f9ad318e25afaea7c66b] Where a lease (“the actual lease”) is subsequently granted in pursuance of the agreement, the notional lease is to be treated for the purposes of this Part as if it were a lease granted—
+(3)[^c-0c402c055683f9ad318e25afaea7c66b] Where a lease (“the actual lease”) is subsequently granted in pursuance of the agreement, the notional lease is to be treated for the purposes of this Part as if it were a lease granted—
 
 - (a) on the date the agreement was substantially performed,
 - (b) for a term which begins with that date and ends at the end of the term of the actual lease, and
@@ -382,7 +382,7 @@ Repayment must be claimed by amendment of the land transaction return made in re
 
 ### Assignment of agreement for lease
 
-**12B.** (1) This paragraph applies, in place of Schedule 2A (transactions entered into before completion of contract)[^key-28ad5746b3bbd4e8c16139f510dc288d], where [^key-33f323bfd570eac30291523502421572]... a person assigns his interest as lessee under an agreement for a lease.
+**12B.** (1) This paragraph applies, in place of Schedule 2A (transactions entered into before completion of contract)[^c-28ad5746b3bbd4e8c16139f510dc288d], where [^c-33f323bfd570eac30291523502421572]... a person assigns his interest as lessee under an agreement for a lease.
 
 (2) If the assignment occurs without the agreement having been substantially performed, section 44 (contract and conveyance) has effect as if—
 
@@ -396,28 +396,28 @@ Repayment must be claimed by amendment of the land transaction return made in re
 
 (4) Where there are successive assignments, this paragraph has effect in relation to each of them.
 
-### Increase of rent treated as grant of new lease: variation of lease in first five years[^key-87833ea2d3d51649d84c871d15b6a76e]
+### Increase of rent treated as grant of new lease: variation of lease in first five years[^c-87833ea2d3d51649d84c871d15b6a76e]
 
-**13.** (1) Where a lease is varied so as to increase the amount of the rent as from a date before the end of the fifth year of the term of the lease[^key-0e74b6aeffe447072305ea8329c8537d], the variation is treated for the purposes of this Part as if it were the grant of a lease in consideration of the additional rent made payable by it.
+**13.** (1) Where a lease is varied so as to increase the amount of the rent as from a date before the end of the fifth year of the term of the lease[^c-0e74b6aeffe447072305ea8329c8537d], the variation is treated for the purposes of this Part as if it were the grant of a lease in consideration of the additional rent made payable by it.
 
-(2) Sub-paragraph (1) does not apply to an increase of rent in pursuance of—[^key-a544ce0442b69c58034759b4d43c948c]
+(2) Sub-paragraph (1) does not apply to an increase of rent in pursuance of—[^c-a544ce0442b69c58034759b4d43c948c]
 
 - (a) a provision contained in the lease, or
-- (b) a provision mentioned in paragraph (a) or (b)[^key-33bd5a5a39fe5a8390aada56a38acc24] of paragraph 7(4A).
+- (b) a provision mentioned in paragraph (a) or (b)[^c-33bd5a5a39fe5a8390aada56a38acc24] of paragraph 7(4A).
 
 ### Increase of rent treated as grant of new lease: abnormal increase after fifth year
 
-**14.**[^key-18dca6a1b99590c702e4ab42a6df0261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-18dca6a1b99590c702e4ab42a6df0261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Increase of rent after fifth year: whether regarded as abnormal
 
-**15.**[^key-120a78045a9e5f040913900ecba22e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-120a78045a9e5f040913900ecba22e84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Reduction of rent or term or other variation of lease[^key-2368ed69fbe025973f662db3dee42e5f]
+### Reduction of rent or term or other variation of lease[^c-2368ed69fbe025973f662db3dee42e5f]
 
 **15A.** (1) Where a lease is varied so as to reduce the amount of the rent, the variation is treated for the purposes of this Part as an acquisition of a chargeable interest by the lessee.
 
-(1A)[^key-42aaa3cbb4ef83d778d4fbfe03bbee32] Where any consideration in money or money's worth (other than an increase in rent) is given by the lessee for any variation of a lease, other than a variation of the amount of the rent or of the term of the lease, the variation is treated for the purposes of this Part as an acquisition of a chargeable interest by the lessee.
+(1A)[^c-42aaa3cbb4ef83d778d4fbfe03bbee32] Where any consideration in money or money's worth (other than an increase in rent) is given by the lessee for any variation of a lease, other than a variation of the amount of the rent or of the term of the lease, the variation is treated for the purposes of this Part as an acquisition of a chargeable interest by the lessee.
 
 (2) Where a lease is varied so as to reduce the term, the variation is treated for the purposes of this Part as an acquisition of a chargeable interest by the lessor.
 
@@ -449,7 +449,7 @@ does not count as chargeable consideration for the assignment.
 - (b) in relation to the assignment of a lease, a premium moving from the assignor to the assignee;
 - (c) in relation to the surrender of a lease, a premium moving from the tenant to the landlord.
 
-### Loan or deposit in connection with grant or assignment of lease[^key-3f9f1473a1cff7dbfd5bc373e3b47c0c]
+### Loan or deposit in connection with grant or assignment of lease[^c-3f9f1473a1cff7dbfd5bc373e3b47c0c]
 
 **18A.** (1) Where, under arrangements made in connection with the grant of a lease—
 
@@ -476,10 +476,10 @@ the highest amount of rent being determined (in either case) in the same way as 
 
 (5) Tax is not chargeable by virtue of this paragraph—
 
-- (a) merely because of paragraph 9A[^key-baa0b762d31050dc7ccd141727d0feea] of Schedule 5 (which excludes the 0% band in Table B[^key-5694454d8eb542093a84e191b6bf36fd] in section 55(2) in cases where the relevant rent attributable to non-residential property is not less than £1,000[^key-fe634d8533b54fca38f66f7d73750c37] a year), or
-- (b)[^key-d66b626e60d84e013cc8511b48b0d3a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) merely because of paragraph 9A[^c-baa0b762d31050dc7ccd141727d0feea] of Schedule 5 (which excludes the 0% band in Table B[^c-5694454d8eb542093a84e191b6bf36fd] in section 55(2) in cases where the relevant rent attributable to non-residential property is not less than £1,000[^c-fe634d8533b54fca38f66f7d73750c37] a year), or
+- (b)[^c-d66b626e60d84e013cc8511b48b0d3a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Section 1122 of the Corporation Tax Act 2010[^key-ecd84780d6b5e372599e1de50c0e9cf6] (connected persons) has effect for the purposes of this paragraph.
+(6) Section 1122 of the Corporation Tax Act 2010[^c-ecd84780d6b5e372599e1de50c0e9cf6] (connected persons) has effect for the purposes of this paragraph.
 
 ### Provisions relating to leases in Scotland
 
@@ -488,7 +488,7 @@ the highest amount of rent being determined (in either case) in the same way as 
 - (a) any reference to the term of a lease is to the period of the lease, and *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
 - (b) any reference to the reversion on a lease is to the interest of the landlord in the property subject to the lease. *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
 
-(2)[^key-208e832422bf113872e3b56770fead35] Where in Scotland there is a lease constituted by concluded missives of let (“the first lease”) and at some later time a lease is executed (“the second lease”), the first lease is to be treated for the purposes of this Part as if it were a lease granted— *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
+(2)[^c-208e832422bf113872e3b56770fead35] Where in Scotland there is a lease constituted by concluded missives of let (“the first lease”) and at some later time a lease is executed (“the second lease”), the first lease is to be treated for the purposes of this Part as if it were a lease granted— *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
 
 - (a) on the date the missives of let were concluded, *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
 - (b) for a period which begins with that date and ends at the end of the period of the second lease, and *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
@@ -511,7 +511,7 @@ the agreement is treated as if it were the grant of a lease in accordance with t
 
 The effective date of the transaction is when the agreement is substantially performed. *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
 
-(4)[^key-4ea86d601f73bfad54117f9aeaa8440f] Where sub-paragraph (3) applies and at some later time a lease (“the actual lease”) is executed, this Part applies as if the notional lease were a lease granted— *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
+(4)[^c-4ea86d601f73bfad54117f9aeaa8440f] Where sub-paragraph (3) applies and at some later time a lease (“the actual lease”) is executed, this Part applies as if the notional lease were a lease granted— *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
 
 - (a) on the date the agreement was substantially performed, *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
 - (b) for a period which begins with that date and ends at the end of the period of the actual lease, and *(affected by repeal, see note)*[^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]
@@ -533,124 +533,124 @@ Repayment must be claimed by amendment of the land transaction return made in re
 
 ## Annotations
 
-[^key-f0604ace11fad3f9dff3b0e2a83f8c0d]: Textual amendment: Sch. 17A inserted (with effect in accordance with Sch. 39 para. 26 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 22(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/22/2) (which amending provision re-enacts, subject to certain changes, a corresponding amendment made by the now revoked [Stamp Duty and Stamp Duty Land Tax (Variation of the Finance Act 2003) (No. 2) Regulations 2003 (S.I. 2003/2816)](https://www.legislation.gov.uk/uksi/2003/2816), see Sch. 39 para. 14) (with Sch. 39 paras. 11, 13(5))
+[^c-f0604ace11fad3f9dff3b0e2a83f8c0d]: Textual amendment: Sch. 17A inserted (with effect in accordance with Sch. 39 para. 26 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 39 para. 22(2)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/39/paragraph/22/2) (which amending provision re-enacts, subject to certain changes, a corresponding amendment made by the now revoked [Stamp Duty and Stamp Duty Land Tax (Variation of the Finance Act 2003) (No. 2) Regulations 2003 (S.I. 2003/2816)](https://www.legislation.gov.uk/uksi/2003/2816), see Sch. 39 para. 14) (with Sch. 39 paras. 11, 13(5))
 
-[^key-12442629c8f1a6590ecfec80564104c5]: Textual amendment: Words in Sch. 17A para. 1 substituted (with effect in accordance with s. 29(4) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(2)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/2) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-12442629c8f1a6590ecfec80564104c5]: Textual amendment: Words in Sch. 17A para. 1 substituted (with effect in accordance with s. 29(4) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(2)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/2) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
 
-[^key-b62ad1077715b5e65d37463e2f53099c]: Modification: Sch. 17A para. 3(1)(2) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/1958/regulation/7)
+[^c-b62ad1077715b5e65d37463e2f53099c]: Modification: Sch. 17A para. 3(1)(2) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/1958/regulation/7)
 
-[^key-1f45bab92095b15bedebc92507dd8861]: Textual amendment: Words in Sch. 17A para. 3(2) substituted (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/14)
+[^c-1f45bab92095b15bedebc92507dd8861]: Textual amendment: Words in Sch. 17A para. 3(2) substituted (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/14)
 
-[^key-5abd4719c62bc3f8c2bedc5c03461631]: Textual amendment: [Sch. 17A para. 3(3)-(3ZC)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/3/3) substituted for [Sch. 17A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A) [para. 3(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/3/3) (with effect in accordance with s. 46(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 46(8)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/46/8/a)
+[^c-5abd4719c62bc3f8c2bedc5c03461631]: Textual amendment: [Sch. 17A para. 3(3)-(3ZC)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/3/3) substituted for [Sch. 17A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A) [para. 3(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/3/3) (with effect in accordance with s. 46(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 46(8)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/46/8/a)
 
-[^key-3c8abbc4754ef79e4bd838527cdd5eff]: Textual amendment: Sch. 17A para. 3(3A) inserted (with effect in accordance with Sch. 41 para. 8(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 2(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/2/3)
+[^c-3c8abbc4754ef79e4bd838527cdd5eff]: Textual amendment: Sch. 17A para. 3(3A) inserted (with effect in accordance with Sch. 41 para. 8(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 2(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/2/3)
 
-[^key-b83f14ec60eb1c6032bf1c5b7b7e0010]: Textual amendment: Sch. 17A para. 3(3B) inserted (with effect in accordance with Sch. 41 para. 8(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 2(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/2/4)
+[^c-b83f14ec60eb1c6032bf1c5b7b7e0010]: Textual amendment: Sch. 17A para. 3(3B) inserted (with effect in accordance with Sch. 41 para. 8(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 2(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/2/4)
 
-[^key-e76d6b587a03ad3e94912a1da36e785c]: Textual amendment: Words in Sch. 17A para. 3(4) substituted (with effect in accordance with Sch. 41 para. 8(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 2(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/2/5)
+[^c-e76d6b587a03ad3e94912a1da36e785c]: Textual amendment: Words in Sch. 17A para. 3(4) substituted (with effect in accordance with Sch. 41 para. 8(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 2(5)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/2/5)
 
-[^key-4541131dc39bbb85ee53a9cffd52e2be]: Textual amendment: Words in Sch. 17A para. 3(5) substituted (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/14)
+[^c-4541131dc39bbb85ee53a9cffd52e2be]: Textual amendment: Words in Sch. 17A para. 3(5) substituted (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/14)
 
-[^key-0c4b6d069df59bd03d33b4bd173c7bf0]: Textual amendment: Sch. 17A para. 3(6) inserted (with effect in accordance with Sch. 41 para. 8(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 2(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/2/6)
+[^c-0c4b6d069df59bd03d33b4bd173c7bf0]: Textual amendment: Sch. 17A para. 3(6) inserted (with effect in accordance with Sch. 41 para. 8(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 2(6)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/2/6)
 
-[^key-3b999419491fc755e363eefd1fabe441]: Textual amendment: Sch. 17A para. 3A inserted (with effect in accordance with Sch. 41 para. 8(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/3)
+[^c-3b999419491fc755e363eefd1fabe441]: Textual amendment: Sch. 17A para. 3A inserted (with effect in accordance with Sch. 41 para. 8(2) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/3)
 
-[^key-ec5bc4b7ea20fea4b341295343a76b28]: Modification: Sch. 17A para. 4(1)(2) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/1958/regulation/7)
+[^c-ec5bc4b7ea20fea4b341295343a76b28]: Modification: Sch. 17A para. 4(1)(2) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/1958/regulation/7)
 
-[^key-2300a3fd3c2d55e40f9e5b6e2a695d4f]: Textual amendment: Words in Sch. 17A para. 4(1) substituted (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/14)
+[^c-2300a3fd3c2d55e40f9e5b6e2a695d4f]: Textual amendment: Words in Sch. 17A para. 4(1) substituted (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/14)
 
-[^key-545d8f3c1e65745bf14f22b3f9a63e48]: Textual amendment: [Sch. 17A para. 4(3)-(3C)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/4/3) substituted for [Sch. 17A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A) [para. 4(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/4/3) (with effect in accordance with s. 46(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 46(8)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/46/8/b)
+[^c-545d8f3c1e65745bf14f22b3f9a63e48]: Textual amendment: [Sch. 17A para. 4(3)-(3C)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/4/3) substituted for [Sch. 17A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A) [para. 4(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/4/3) (with effect in accordance with s. 46(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 46(8)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/46/8/b)
 
-[^key-e8ac07447ab080917ad442330b514d3c]: Textual amendment: Words in Sch. 17A para. 4(4A) substituted (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/14)
+[^c-e8ac07447ab080917ad442330b514d3c]: Textual amendment: Words in Sch. 17A para. 4(4A) substituted (with effect in accordance with s. 94(5) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 30 para. 14](https://www.legislation.gov.uk/ukpga/2008/9/schedule/30/paragraph/14)
 
-[^key-580815c56445f9a294ed755774697004]: Modification: Sch. 17A para. 4(5) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/1958/regulation/7)
+[^c-580815c56445f9a294ed755774697004]: Modification: Sch. 17A para. 4(5) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2006/1958/regulation/7)
 
-[^key-67847fa7c0fb5a18e5f76400d732f496]: Textual amendment: Words in Sch. 17A para. 4(5)(b) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(3)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/3) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), art. 2
+[^c-67847fa7c0fb5a18e5f76400d732f496]: Textual amendment: Words in Sch. 17A para. 4(5)(b) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(3)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/3) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), art. 2
 
-[^key-860adddf6e5fa82f31611b2dfda083c0]: Textual amendment: Words in Sch. 17A para. 7(3) substituted (with effect in accordance with Sch. 25 para. 9(2)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 3(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/3/2)
+[^c-860adddf6e5fa82f31611b2dfda083c0]: Textual amendment: Words in Sch. 17A para. 7(3) substituted (with effect in accordance with Sch. 25 para. 9(2)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 3(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/3/2)
 
-[^key-4a290de4a41ff32d683ab0474b42a9d6]: Textual amendment: Sch. 17A para. 7(4A) inserted (with effect in accordance with Sch. 25 para. 9(1)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 2(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/2/1)
+[^c-4a290de4a41ff32d683ab0474b42a9d6]: Textual amendment: Sch. 17A para. 7(4A) inserted (with effect in accordance with Sch. 25 para. 9(1)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 2(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/2/1)
 
-[^key-937a5004e6f6a7d67ab73a37fbc8bc66]: Textual amendment: Sch. 17A para. 7(4A)(c) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(4)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/4) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-937a5004e6f6a7d67ab73a37fbc8bc66]: Textual amendment: Sch. 17A para. 7(4A)(c) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(4)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/4) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
 
-[^key-a4914551c2cdb8b04f2ad9f5844cf66f]: Textual amendment: Sch. 17A para. 7(4A)(d) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(4)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/4) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-a4914551c2cdb8b04f2ad9f5844cf66f]: Textual amendment: Sch. 17A para. 7(4A)(d) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(4)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/4) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
 
-[^key-68dc87277d88a35241878655c6bf1311]: Modification: Sch. 17A para. 8(1)(2) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/1958/regulation/8)
+[^c-68dc87277d88a35241878655c6bf1311]: Modification: Sch. 17A para. 8(1)(2) applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Pensions Schemes (Taxable Property Provisions) Regulations 2006 (S.I. 2006/1958)](https://www.legislation.gov.uk/uksi/2006/1958), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1958/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2006/1958/regulation/8)
 
-[^key-6b1ba1ce9cfd8ded3e9b73fe7645d95e]: Textual amendment: [Sch. 17A para. 8(3)-(3B)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/8/3) substituted for [Sch. 17A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A) [para. 8(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/8/3) (with effect in accordance with s. 46(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 46(8)(c)](https://www.legislation.gov.uk/ukpga/2019/1/section/46/8/c)
+[^c-6b1ba1ce9cfd8ded3e9b73fe7645d95e]: Textual amendment: [Sch. 17A para. 8(3)-(3B)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/8/3) substituted for [Sch. 17A](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A) [para. 8(3)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/8/3) (with effect in accordance with s. 46(10) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 46(8)(c)](https://www.legislation.gov.uk/ukpga/2019/1/section/46/8/c)
 
-[^key-421cf15620873302fa6a2967e1dc5d6b]: Textual amendment: Sch. 17A para. 9A and cross-heading inserted (with effect in accordance with Sch. 25 para. 9(2)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 3(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/3/1)
+[^c-421cf15620873302fa6a2967e1dc5d6b]: Textual amendment: Sch. 17A para. 9A and cross-heading inserted (with effect in accordance with Sch. 25 para. 9(2)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 3(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/3/1)
 
-[^key-681d061b99c61c93951c2db5943e580b]: Textual amendment: Words in Sch. 17A para. 10(1)(a) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(5)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/5) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-681d061b99c61c93951c2db5943e580b]: Textual amendment: Words in Sch. 17A para. 10(1)(a) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(5)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/5) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
 
-[^key-5f1c01350af6375a8e1cdb3b1e5ce17b]: Textual amendment: Sch. 17A para. 10(1)(f)-(h) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty Land Tax (Amendment to the Finance Act 2003) Regulations 2006 (S.I. 2006/875)](https://www.legislation.gov.uk/uksi/2006/875), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/875/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/875/regulation/4)
+[^c-5f1c01350af6375a8e1cdb3b1e5ce17b]: Textual amendment: Sch. 17A para. 10(1)(f)-(h) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty Land Tax (Amendment to the Finance Act 2003) Regulations 2006 (S.I. 2006/875)](https://www.legislation.gov.uk/uksi/2006/875), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/875/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2006/875/regulation/4)
 
-[^key-28f378b721c8d88a7e04baffc8a2dc83]: Textual amendment: Words in Sch. 17A para. 10(1)(h) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty Land Tax (Amendment to the Finance Act 2003) Regulations 2012 (S.I. 2012/1667)](https://www.legislation.gov.uk/uksi/2012/1667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1667/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1667/regulation/3)
+[^c-28f378b721c8d88a7e04baffc8a2dc83]: Textual amendment: Words in Sch. 17A para. 10(1)(h) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Stamp Duty Land Tax (Amendment to the Finance Act 2003) Regulations 2012 (S.I. 2012/1667)](https://www.legislation.gov.uk/uksi/2012/1667), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/1667/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2012/1667/regulation/3)
 
-[^key-15df358155f8c89cd4f4822ff821978d]: Modification: Sch. 17A para. 11 modified (7.4.2010) by [The Stamp Duty Land Tax (Alternative Finance Investment Bonds) Regulations 2010 (S.I. 2010/814)](https://www.legislation.gov.uk/uksi/2010/814), [regs. 1](https://www.legislation.gov.uk/uksi/2010/814/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/814/regulation/2)
+[^c-15df358155f8c89cd4f4822ff821978d]: Modification: Sch. 17A para. 11 modified (7.4.2010) by [The Stamp Duty Land Tax (Alternative Finance Investment Bonds) Regulations 2010 (S.I. 2010/814)](https://www.legislation.gov.uk/uksi/2010/814), [regs. 1](https://www.legislation.gov.uk/uksi/2010/814/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/814/regulation/2)
 
-[^key-0e89774ca3dd03d093b7e8ebe507bf5b]: Textual amendment: Sch. 17A para. 11(1) substituted (with effect in accordance with Sch. 10 para. 16(4)(6)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/12)
+[^c-0e89774ca3dd03d093b7e8ebe507bf5b]: Textual amendment: Sch. 17A para. 11(1) substituted (with effect in accordance with Sch. 10 para. 16(4)(6)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/12)
 
-[^key-d1e65c06c440d3f27839d7025e1cf33c]: Textual amendment: Sch. 17A para. 11(3)(ba) inserted (with effect in accordance with Sch. 16 para. 15 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 14(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/14/2)
+[^c-d1e65c06c440d3f27839d7025e1cf33c]: Textual amendment: Sch. 17A para. 11(3)(ba) inserted (with effect in accordance with Sch. 16 para. 15 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 14(2)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/14/2)
 
-[^key-8ee2430d09614717c8e4dc3eace361bf]: Textual amendment: Words in [Sch. 17A para. 11(3)(ba)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/3/ba) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(a)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/a) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-8ee2430d09614717c8e4dc3eace361bf]: Textual amendment: Words in [Sch. 17A para. 11(3)(ba)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/3/ba) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(a)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/a) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-b72de0222e982219f0bbfa2c9e78c5c7]: Textual amendment: Words in Sch. 17A para. 11(4) inserted (with effect in accordance with Sch. 16 para. 15 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 14(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/14/3)
+[^c-b72de0222e982219f0bbfa2c9e78c5c7]: Textual amendment: Words in Sch. 17A para. 11(4) inserted (with effect in accordance with Sch. 16 para. 15 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 14(3)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/14/3)
 
-[^key-660ecdb9763f7f58d5b417322406fe4b]: Textual amendment: Words in [Sch. 17A para. 11(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/4) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(b)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/b) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-660ecdb9763f7f58d5b417322406fe4b]: Textual amendment: Words in [Sch. 17A para. 11(4)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/4) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(b)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/b) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-35e03fef297cdea9aa0c9405ae0811b4]: Textual amendment: Words in Sch. 17A para. 11(5)(a) substituted (with effect in accordance with Sch. 10 para. 16(1)(6)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/7)
+[^c-35e03fef297cdea9aa0c9405ae0811b4]: Textual amendment: Words in Sch. 17A para. 11(5)(a) substituted (with effect in accordance with Sch. 10 para. 16(1)(6)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/7)
 
-[^key-2a8d3b694d1f862bcf348183a7e92a09]: Textual amendment: Sch. 17A para. 11(5)(ba)(bb) inserted (with effect in accordance with Sch. 16 para. 15 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/14/4)
+[^c-2a8d3b694d1f862bcf348183a7e92a09]: Textual amendment: Sch. 17A para. 11(5)(ba)(bb) inserted (with effect in accordance with Sch. 16 para. 15 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/14/4)
 
-[^key-e7ac4d4222a577a957caf9cf70dab516]: Textual amendment: Words in [Sch. 17A para. 11(5)(bb)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/5/bb) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(c)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/c/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-e7ac4d4222a577a957caf9cf70dab516]: Textual amendment: Words in [Sch. 17A para. 11(5)(bb)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/5/bb) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(c)(i)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/c/i) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-00ba0410cde7d1db26b654b5cbaa0fa8]: Textual amendment: Word in [Sch. 17A para. 11(5)(bb)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/5/bb) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/c/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-00ba0410cde7d1db26b654b5cbaa0fa8]: Textual amendment: Word in [Sch. 17A para. 11(5)(bb)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/5/bb) omitted (19.3.2025) by virtue of [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/c/ii) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-c87e1608b923a6166248e47044627a40]: Textual amendment: Sch. 17A para. 11(6)(7) inserted (with effect in accordance with Sch. 16 para. 15 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 14(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/14/5)
+[^c-c87e1608b923a6166248e47044627a40]: Textual amendment: Sch. 17A para. 11(6)(7) inserted (with effect in accordance with Sch. 16 para. 15 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 16 para. 14(5)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/16/paragraph/14/5)
 
-[^key-93ccaf239a59ed6a92eb5216e6e60cf4]: Textual amendment: Words in [Sch. 17A para. 11(6)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/6) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(d)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/d) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-93ccaf239a59ed6a92eb5216e6e60cf4]: Textual amendment: Words in [Sch. 17A para. 11(6)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/6) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(d)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/d) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-d8ae4623ec339f1aa17381107f793db2]: Textual amendment: Words in [Sch. 17A para. 11(7)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/7) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(e)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/e) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-d8ae4623ec339f1aa17381107f793db2]: Textual amendment: Words in [Sch. 17A para. 11(7)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/17A/paragraph/11/7) substituted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [57(10)(e)](https://www.legislation.gov.uk/uksi/2025/200/regulation/57/10/e) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
 
-[^key-509a64b73148513476ce588fcd9f5b52]: Textual amendment: Words in Sch. 17A para. 12A(1) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(6)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/6) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-509a64b73148513476ce588fcd9f5b52]: Textual amendment: Words in Sch. 17A para. 12A(1) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(6)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/6) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
 
-[^key-0c402c055683f9ad318e25afaea7c66b]: Textual amendment: Sch. 17A para. 12A(3)-(3B) substituted for Sch. 17A para. 12A(3) (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/2)
+[^c-0c402c055683f9ad318e25afaea7c66b]: Textual amendment: Sch. 17A para. 12A(3)-(3B) substituted for Sch. 17A para. 12A(3) (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/2)
 
-[^key-28ad5746b3bbd4e8c16139f510dc288d]: Textual amendment: Words in Sch. 17A para. 12B(1) substituted (with effect in accordance with Sch. 39 para. 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 39 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/39/paragraph/10)
+[^c-28ad5746b3bbd4e8c16139f510dc288d]: Textual amendment: Words in Sch. 17A para. 12B(1) substituted (with effect in accordance with Sch. 39 para. 11 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 39 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/39/paragraph/10)
 
-[^key-33f323bfd570eac30291523502421572]: Textual amendment: Words in Sch. 17A para. 12B(1) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(7)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/7) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-33f323bfd570eac30291523502421572]: Textual amendment: Words in Sch. 17A para. 12B(1) omitted (with effect in accordance with s. 29(4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(7)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/7) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
 
-[^key-87833ea2d3d51649d84c871d15b6a76e]: Textual amendment: Words in Sch. 17A para. 13 heading inserted (with effect in accordance with Sch. 25 para. 9(4)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 6(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/6/1)
+[^c-87833ea2d3d51649d84c871d15b6a76e]: Textual amendment: Words in Sch. 17A para. 13 heading inserted (with effect in accordance with Sch. 25 para. 9(4)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 6(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/6/1)
 
-[^key-0e74b6aeffe447072305ea8329c8537d]: Textual amendment: Words in Sch. 17A para. 13(1) inserted (with effect in accordance with Sch. 25 para. 9(4)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 6(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/6/2)
+[^c-0e74b6aeffe447072305ea8329c8537d]: Textual amendment: Words in Sch. 17A para. 13(1) inserted (with effect in accordance with Sch. 25 para. 9(4)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 6(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/6/2)
 
-[^key-a544ce0442b69c58034759b4d43c948c]: Textual amendment: Words in Sch. 17A para. 13(2) substituted (with effect in accordance with Sch. 25 para. 9(1)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 2(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/2/2)
+[^c-a544ce0442b69c58034759b4d43c948c]: Textual amendment: Words in Sch. 17A para. 13(2) substituted (with effect in accordance with Sch. 25 para. 9(1)(6) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 25 para. 2(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/25/paragraph/2/2)
 
-[^key-33bd5a5a39fe5a8390aada56a38acc24]: Textual amendment: Words in Sch. 17A para. 13(2)(b) substituted (with effect in accordance with s. 29(4) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(8)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/8) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
+[^c-33bd5a5a39fe5a8390aada56a38acc24]: Textual amendment: Words in Sch. 17A para. 13(2)(b) substituted (with effect in accordance with s. 29(4) of the amending Act) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b)[(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/b), [Sch. 3 para. 27(8)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/8) (with [s. 29(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5)[(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/6)); [S.I. 2015/637](https://www.legislation.gov.uk/uksi/2015/637), [art. 2](https://www.legislation.gov.uk/uksi/2015/637/article/2)
 
-[^key-18dca6a1b99590c702e4ab42a6df0261]: Textual amendment: Sch. 17A para. 14 omitted (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/1)
+[^c-18dca6a1b99590c702e4ab42a6df0261]: Textual amendment: Sch. 17A para. 14 omitted (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/1)
 
-[^key-120a78045a9e5f040913900ecba22e84]: Textual amendment: Sch. 17A para. 15 omitted (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/1)
+[^c-120a78045a9e5f040913900ecba22e84]: Textual amendment: Sch. 17A para. 15 omitted (with effect in accordance with Sch. 41 para. 8(5) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 7(1)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/7/1)
 
-[^key-2368ed69fbe025973f662db3dee42e5f]: Textual amendment: Sch. 17A para. 15A heading substituted (with effect in accordance with Sch. 10 para. 16(5)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 13(b)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/13/b)
+[^c-2368ed69fbe025973f662db3dee42e5f]: Textual amendment: Sch. 17A para. 15A heading substituted (with effect in accordance with Sch. 10 para. 16(5)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 13(b)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/13/b)
 
-[^key-42aaa3cbb4ef83d778d4fbfe03bbee32]: Textual amendment: Sch. 17A para. 15A(1A) inserted (with effect in accordance with Sch. 10 para. 16(5)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 13(a)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/13/a)
+[^c-42aaa3cbb4ef83d778d4fbfe03bbee32]: Textual amendment: Sch. 17A para. 15A(1A) inserted (with effect in accordance with Sch. 10 para. 16(5)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 13(a)](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/13/a)
 
-[^key-3f9f1473a1cff7dbfd5bc373e3b47c0c]: Textual amendment: Sch. 17A para. 18A and cross-heading inserted (with effect in accordance with Sch. 10 para. 16(5)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/14)
+[^c-3f9f1473a1cff7dbfd5bc373e3b47c0c]: Textual amendment: Sch. 17A para. 18A and cross-heading inserted (with effect in accordance with Sch. 10 para. 16(5)-(9) of the amending Act) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [Sch. 10 para. 14](https://www.legislation.gov.uk/ukpga/2005/22/schedule/10/paragraph/14)
 
-[^key-baa0b762d31050dc7ccd141727d0feea]: Textual amendment: Word in Sch. 17A para. 18A(5)(a) substituted (with effect in accordance with s. 95(13) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 95(12)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/95/12/a)
+[^c-baa0b762d31050dc7ccd141727d0feea]: Textual amendment: Word in Sch. 17A para. 18A(5)(a) substituted (with effect in accordance with s. 95(13) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 95(12)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/95/12/a)
 
-[^key-5694454d8eb542093a84e191b6bf36fd]: Textual amendment: Words in Sch. 17A para. 18A(5)(a) substituted (with effect in accordance with s. 95(13) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 95(12)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/95/12/b)
+[^c-5694454d8eb542093a84e191b6bf36fd]: Textual amendment: Words in Sch. 17A para. 18A(5)(a) substituted (with effect in accordance with s. 95(13) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 95(12)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/95/12/b)
 
-[^key-fe634d8533b54fca38f66f7d73750c37]: Textual amendment: Words in Sch. 17A para. 18A(5)(a) substituted (with effect in accordance with s. 95(13) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 95(12)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/95/12/c)
+[^c-fe634d8533b54fca38f66f7d73750c37]: Textual amendment: Words in Sch. 17A para. 18A(5)(a) substituted (with effect in accordance with s. 95(13) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 95(12)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/95/12/c)
 
-[^key-d66b626e60d84e013cc8511b48b0d3a0]: Textual amendment: Sch. 17A para. 18A(5)(b) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/b/iii) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-d66b626e60d84e013cc8511b48b0d3a0]: Textual amendment: Sch. 17A para. 18A(5)(b) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/b/iii) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
 
-[^key-ecd84780d6b5e372599e1de50c0e9cf6]: Textual amendment: Words in Sch. 17A para. 18A(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 419](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/419) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-ecd84780d6b5e372599e1de50c0e9cf6]: Textual amendment: Words in Sch. 17A para. 18A(6) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 419](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/419) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^M_F_88b5b8af-94bd-4152-9900-330c7cf9b220]: Textual amendment: Sch. 17A para. 19 omitted (with effect in accordance with [s. 29(4)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/4) of the amending Act) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [s. 44(2)(b)(3)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b/3/b), [Sch. 3 para. 27(10)](https://www.legislation.gov.uk/ukpga/2012/11/schedule/3/paragraph/27/10) (with [s. 29(5)(6)](https://www.legislation.gov.uk/ukpga/2012/11/section/29/5/6))
 
-[^key-208e832422bf113872e3b56770fead35]: Textual amendment: Sch. 17A para. 19(2)-(2B) substituted for Sch. 17A para. 19(2) (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/3/a)
+[^c-208e832422bf113872e3b56770fead35]: Textual amendment: Sch. 17A para. 19(2)-(2B) substituted for Sch. 17A para. 19(2) (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(3)(a)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/3/a)
 
-[^key-4ea86d601f73bfad54117f9aeaa8440f]: Textual amendment: Sch. 17A para. 19(4)-(4B) substituted for Sch. 17A para. 19(4) (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/3/b)
+[^c-4ea86d601f73bfad54117f9aeaa8440f]: Textual amendment: Sch. 17A para. 19(4)-(4B) substituted for Sch. 17A para. 19(4) (with effect in accordance with Sch. 41 para. 8(4) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 41 para. 6(3)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/41/paragraph/6/3/b)

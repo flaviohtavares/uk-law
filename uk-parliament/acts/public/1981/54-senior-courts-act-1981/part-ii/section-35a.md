@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35A. Power of High Court to award interest on debts and damages.[^key-b98517601e1f4dba3bf3a99ad54e83e7][^c12332571]
+## 35A. Power of High Court to award interest on debts and damages.[^c-b98517601e1f4dba3bf3a99ad54e83e7][^c12332571]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ the defendant shall be liable to pay the plaintiff simple interest at such rate 
 
 ## Annotations
 
-[^key-b98517601e1f4dba3bf3a99ad54e83e7]: Modification: S. 35A applied (with modifications) by S.I. 2010/2600, rule 51A (as inserted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/rule/1), [8](https://www.legislation.gov.uk/uksi/2013/1188/rule/8) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/rule/10)))
+[^c-b98517601e1f4dba3bf3a99ad54e83e7]: Modification: S. 35A applied (with modifications) by S.I. 2010/2600, rule 51A (as inserted (1.7.2013) by [The Tribunal Procedure (Amendment No. 3) Rules 2013 (S.I. 2013/1188)](https://www.legislation.gov.uk/uksi/2013/1188), [rules 1](https://www.legislation.gov.uk/uksi/2013/1188/rule/1), [8](https://www.legislation.gov.uk/uksi/2013/1188/rule/8) (with [rule 10](https://www.legislation.gov.uk/uksi/2013/1188/rule/10)))
 
 [^c12332571]: Textual amendment: S. 35A inserted by [Administration of Justice Act 1982 (c. 53, SIF 37)](https://www.legislation.gov.uk/ukpga/1982/53), [s. 15(1)](https://www.legislation.gov.uk/ukpga/1982/53/section/15/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1982/53/schedule/1/part/I)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16C. Exception to restriction on exercising the right to acquire[^key-e36e88320f38c74875b0fc8e2766f64f]
+## 16C. Exception to restriction on exercising the right to acquire[^c-e36e88320f38c74875b0fc8e2766f64f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e36e88320f38c74875b0fc8e2766f64f]: Textual amendment: [S. 16C](https://www.legislation.gov.uk/ukpga/1996/52/section/16C) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(b)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/b), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)
+[^c-e36e88320f38c74875b0fc8e2766f64f]: Textual amendment: [S. 16C](https://www.legislation.gov.uk/ukpga/1996/52/section/16C) repealed (26.1.2019) by [Abolition of the Right to Buy and Associated Rights (Wales) Act 2018 (anaw 1)](https://www.legislation.gov.uk/anaw/2018/1), [ss. 6(2)(b)](https://www.legislation.gov.uk/anaw/2018/1/section/6/2/b), [11(3)](https://www.legislation.gov.uk/anaw/2018/1/section/11/3)[(4)](https://www.legislation.gov.uk/anaw/2018/1/section/11/4); [S.I. 2018/100](https://www.legislation.gov.uk/wsi/2018/100), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/100/article/2/a) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/100/article/3)) (with savings in [S.I. 2019/110](https://www.legislation.gov.uk/uksi/2019/110), reg. 5)

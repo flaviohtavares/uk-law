@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Participants in the CCTS[^key-085da47c2914aab51518053d7982c9a0]
+## 32. Participants in the CCTS[^c-085da47c2914aab51518053d7982c9a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-085da47c2914aab51518053d7982c9a0]: Commencement: Art. 32 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-085da47c2914aab51518053d7982c9a0]: Commencement: Art. 32 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

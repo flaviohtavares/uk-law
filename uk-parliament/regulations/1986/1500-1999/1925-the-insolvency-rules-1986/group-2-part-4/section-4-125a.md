@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.125A. Rule as to reporting[^key-3785854ab6978cc2b62b4d84ff73fa83]
+## 4.125A. Rule as to reporting[^c-3785854ab6978cc2b62b4d84ff73fa83]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3785854ab6978cc2b62b4d84ff73fa83]: Textual amendment: Rule 4.125A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rule 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [13](https://www.legislation.gov.uk/uksi/2004/584/article/13)
+[^c-3785854ab6978cc2b62b4d84ff73fa83]: Textual amendment: Rule 4.125A inserted (1.4.2004) by [The Insolvency (Amendment) Rules 2004 (S.I. 2004/584)](https://www.legislation.gov.uk/uksi/2004/584), [rule 1(2)](https://www.legislation.gov.uk/uksi/2004/584/article/1/2), [13](https://www.legislation.gov.uk/uksi/2004/584/article/13)

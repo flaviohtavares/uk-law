@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**10.**[^key-2cc1c8edfc39f75eedcd97e274e2ae7b] In Part 14—
+**10.**[^c-2cc1c8edfc39f75eedcd97e274e2ae7b] In Part 14—
 
 - (a) in the table of contents, for the entry for rule 14.7A substitute “Request for judgment for an amount of money to be decided by the court – claims in the County Court Money Claims Centre”;
 - (b) in rule 14.1, in paragraph (2), for “He” substitute “The party”;
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cc1c8edfc39f75eedcd97e274e2ae7b]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2014/407/rule/10) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-2cc1c8edfc39f75eedcd97e274e2ae7b]: Commencement: [Rule 10](https://www.legislation.gov.uk/uksi/2014/407/rule/10) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

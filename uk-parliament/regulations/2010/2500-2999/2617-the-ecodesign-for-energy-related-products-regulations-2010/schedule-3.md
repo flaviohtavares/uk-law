@@ -24,7 +24,7 @@ Regulation 11
 
 *Extent: E+W+S*
 
-**1.**[^M_E_776c045c-4cad-4503-a71c-2c23ae18734e] This Schedule makes provision in respect of appeals against decisions of approved[^key-d17913f41858b661f714db1827005bb1] bodies.
+**1.**[^M_E_776c045c-4cad-4503-a71c-2c23ae18734e] This Schedule makes provision in respect of appeals against decisions of approved[^c-d17913f41858b661f714db1827005bb1] bodies.
 
 *Extent: N.I.*
 
@@ -34,7 +34,7 @@ Regulation 11
 
 **3.** Where an appeal is brought, the operation of the decision is not suspended.
 
-**4.** (1) The appeal procedure for the purposes of Article 4(7) of the Marketing Decision *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-3232259179fc8fd8303005857958e0d7] is as follows.
+**4.** (1) The appeal procedure for the purposes of Article 4(7) of the Marketing Decision *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-3232259179fc8fd8303005857958e0d7] is as follows.
 
 (2) A person to whom a decision is given—
 
@@ -59,8 +59,8 @@ Regulation 11
 
 [^M_E_776c045c-4cad-4503-a71c-2c23ae18734e]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-d17913f41858b661f714db1827005bb1]: Textual amendment: Word in Sch. 3 para. 1 substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d17913f41858b661f714db1827005bb1]: Textual amendment: Word in Sch. 3 para. 1 substituted (E.W.S.) (31.12.2020) by [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_0299dd1b-a14c-480e-e3f5-6c6ccf9ec312]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-3232259179fc8fd8303005857958e0d7]: Textual amendment: Words in Sch. 3 para. 4 omitted (E.W.S.) (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3232259179fc8fd8303005857958e0d7]: Textual amendment: Words in Sch. 3 para. 4 omitted (E.W.S.) (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/539)](https://www.legislation.gov.uk/uksi/2019/539), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/539/regulation/1/3), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/uksi/2019/539/schedule/1/paragraph/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Capital treated as income[^key-cb7e4574acd77edb5cde2a77f39c0e65]
+## 25. Capital treated as income[^c-cb7e4574acd77edb5cde2a77f39c0e65]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb7e4574acd77edb5cde2a77f39c0e65]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1992/1814/regulation/25) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-cb7e4574acd77edb5cde2a77f39c0e65]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1992/1814/regulation/25) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

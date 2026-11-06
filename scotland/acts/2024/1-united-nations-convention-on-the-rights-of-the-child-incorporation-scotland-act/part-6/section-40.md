@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Remedial regulations: procedure[^key-7be0f9ba517b0e1360b9b590b29b9a7e]
+## 40. Remedial regulations: procedure[^c-7be0f9ba517b0e1360b9b590b29b9a7e]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7be0f9ba517b0e1360b9b590b29b9a7e]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2024/1/section/40) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-7be0f9ba517b0e1360b9b590b29b9a7e]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2024/1/section/40) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

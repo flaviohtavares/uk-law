@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 909. Expert's report (merger)[^key-e850bb5647fba3ce3e88f42efd794c38][^key-016cd5a86776d76aca52b18fc6b93113]
+## 909. Expert's report (merger)[^c-e850bb5647fba3ce3e88f42efd794c38][^c-016cd5a86776d76aca52b18fc6b93113]
 
 *Extent: E+W+S+N.I.*
 
-[^key-016cd5a86776d76aca52b18fc6b93113]
+[^c-016cd5a86776d76aca52b18fc6b93113]
 
 (1) An expert's report must be drawn up on behalf of each of the merging companies.
 
@@ -54,9 +54,9 @@ as he thinks necessary for the purposes of making his report.
 
 ## Annotations
 
-[^key-e850bb5647fba3ce3e88f42efd794c38]: Modification: S. 909 applied (31.12.2020) by Regulation (EC) No. 2157/2001, Art. 66(5) (as amended by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [135(e)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/135/e) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-e850bb5647fba3ce3e88f42efd794c38]: Modification: S. 909 applied (31.12.2020) by Regulation (EC) No. 2157/2001, Art. 66(5) (as amended by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [135(e)](https://www.legislation.gov.uk/uksi/2018/1298/regulation/135/e) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-016cd5a86776d76aca52b18fc6b93113]: Modification: Pts. 1-39 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-016cd5a86776d76aca52b18fc6b93113]: Modification: Pts. 1-39 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c21176391]: Textual amendment: Words in s. 909(7) inserted (1.8.2011 with application in accordance with reg. 1(2)) by [The Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011 (S.I. 2011/1606)](https://www.legislation.gov.uk/uksi/2011/1606), [reg. 8](https://www.legislation.gov.uk/uksi/2011/1606/regulation/8)
 

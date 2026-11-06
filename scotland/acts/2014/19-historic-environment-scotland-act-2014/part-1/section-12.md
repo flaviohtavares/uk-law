@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Advice, information and assistance[^key-2000b6016efb5874e370d7c058ce1f7e]
+## 12. Advice, information and assistance[^c-2000b6016efb5874e370d7c058ce1f7e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2000b6016efb5874e370d7c058ce1f7e]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/19/section/12) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)
+[^c-2000b6016efb5874e370d7c058ce1f7e]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2014/19/section/12) in force at 27.2.2015 by [S.S.I. 2015/31](https://www.legislation.gov.uk/ssi/2015/31), [art. 2](https://www.legislation.gov.uk/ssi/2015/31/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/31/schedule)

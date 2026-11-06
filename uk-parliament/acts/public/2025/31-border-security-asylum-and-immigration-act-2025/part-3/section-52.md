@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Articles for use in serious crime[^key-7e06e052b20b06b7791ea81a9acd97a5]
+## 52. Articles for use in serious crime[^c-7e06e052b20b06b7791ea81a9acd97a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ the court may assume that the accused possessed the relevant article, unless the
 
 ## Annotations
 
-[^key-7e06e052b20b06b7791ea81a9acd97a5]: Commencement: S. 52 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-7e06e052b20b06b7791ea81a9acd97a5]: Commencement: S. 52 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)

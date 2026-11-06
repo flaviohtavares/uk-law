@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57. Protection of supplies of goods and services[^key-6313c90fce4fb02b07ed7ae2a887e6b1]
+## 57. Protection of supplies of goods and services[^c-6313c90fce4fb02b07ed7ae2a887e6b1]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ In Article 197B(8) (protection of supplies of goods and services), in sub-paragr
 
 ## Annotations
 
-[^key-6313c90fce4fb02b07ed7ae2a887e6b1]: Commencement: S. 57 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-6313c90fce4fb02b07ed7ae2a887e6b1]: Commencement: S. 57 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

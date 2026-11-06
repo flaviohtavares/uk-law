@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96A. Disclosure of information requirements[^key-482d7de69dc175ad95db98e21702ea8c]
+## 96A. Disclosure of information requirements[^c-482d7de69dc175ad95db98e21702ea8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-482d7de69dc175ad95db98e21702ea8c]: Textual amendment: Ss. 96A-96C omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/8/4)
+[^c-482d7de69dc175ad95db98e21702ea8c]: Textual amendment: Ss. 96A-96C omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [8(4)](https://www.legislation.gov.uk/uksi/2016/680/regulation/8/4)

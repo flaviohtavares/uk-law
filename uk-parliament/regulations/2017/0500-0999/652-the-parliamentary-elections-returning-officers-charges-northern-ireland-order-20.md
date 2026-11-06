@@ -31,7 +31,7 @@ summary: ''
 
 Representation Of The People, Northern Ireland
 
-The Parliamentary Elections (Returning Officer’s Charges) (Northern Ireland) Order 2017 (revoked)[^key-8b3c04f553916e1e3237ab3d4b7b50a0]
+The Parliamentary Elections (Returning Officer’s Charges) (Northern Ireland) Order 2017 (revoked)[^c-8b3c04f553916e1e3237ab3d4b7b50a0]
 
 Made
 
@@ -39,27 +39,27 @@ Made
 
 Coming into force in accordance with article 1(1)
 
-[^key-8b3c04f553916e1e3237ab3d4b7b50a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b3c04f553916e1e3237ab3d4b7b50a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-8b3c04f553916e1e3237ab3d4b7b50a0]
+## 1. Citation, commencement and extent[^c-8b3c04f553916e1e3237ab3d4b7b50a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Overall maximum recoverable amount[^key-8b3c04f553916e1e3237ab3d4b7b50a0]
+## 2. Overall maximum recoverable amount[^c-8b3c04f553916e1e3237ab3d4b7b50a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-8b3c04f553916e1e3237ab3d4b7b50a0]
+## 3. Revocation[^c-8b3c04f553916e1e3237ab3d4b7b50a0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b3c04f553916e1e3237ab3d4b7b50a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b3c04f553916e1e3237ab3d4b7b50a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Overall maximum recoverable amount for each constituency[^key-8b3c04f553916e1e3237ab3d4b7b50a0]
+## SCHEDULE — Overall maximum recoverable amount for each constituency[^c-8b3c04f553916e1e3237ab3d4b7b50a0]
 
 Article 2(b)
 
@@ -67,8 +67,8 @@ Article 2(b)
 
 **May not be in force at this date. Check the source.**
 
-[^key-8b3c04f553916e1e3237ab3d4b7b50a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b3c04f553916e1e3237ab3d4b7b50a0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b3c04f553916e1e3237ab3d4b7b50a0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/652) revoked (7.6.2024) by [The Parliamentary Elections (Returning Officer’s Charges) (Northern Ireland) Order 2024 (S.I. 2024/747)](https://www.legislation.gov.uk/uksi/2024/747), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/747/article/1/2), [3](https://www.legislation.gov.uk/uksi/2024/747/article/3)
+[^c-8b3c04f553916e1e3237ab3d4b7b50a0]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/652) revoked (7.6.2024) by [The Parliamentary Elections (Returning Officer’s Charges) (Northern Ireland) Order 2024 (S.I. 2024/747)](https://www.legislation.gov.uk/uksi/2024/747), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/747/article/1/2), [3](https://www.legislation.gov.uk/uksi/2024/747/article/3)

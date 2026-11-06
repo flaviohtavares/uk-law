@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 413. Schemes for meeting losses and liabilities of certain health service bodies[^key-f5827554df2a8b4f9697d38a6a7eee4c]
+## 413. Schemes for meeting losses and liabilities of certain health service bodies[^c-f5827554df2a8b4f9697d38a6a7eee4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For Article 24(5) of the Health and Personal Social Services (Northern Ireland) 
 
 ## Annotations
 
-[^key-f5827554df2a8b4f9697d38a6a7eee4c]: Commencement: Art. 413 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f5827554df2a8b4f9697d38a6a7eee4c]: Commencement: Art. 413 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

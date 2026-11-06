@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 268. Formal investigation into marine accidents.[^c14528441][^key-0a80c20a0e4b870a16358c0cddcd9c3b]
+## 268. Formal investigation into marine accidents.[^c14528441][^c-0a80c20a0e4b870a16358c0cddcd9c3b]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,7 +54,7 @@ and in this section “**accident**” means any accident to which regulations u
 
 [^c14528441]: Modification: S. 268 applied (with modifications) (1.9.2002) by [S.I. 2002/1587](https://www.legislation.gov.uk/uksi/2002/1587), [reg. 17(3)](https://www.legislation.gov.uk/uksi/2002/1587/regulation/17/3), (with reg. 3)
 
-[^key-0a80c20a0e4b870a16358c0cddcd9c3b]: Modification: [Ss. 267-270](https://www.legislation.gov.uk/ukpga/1995/21/section/267) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 2](https://www.legislation.gov.uk/uksi/1989/1350/article/2) (as substituted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/2))
+[^c-0a80c20a0e4b870a16358c0cddcd9c3b]: Modification: [Ss. 267-270](https://www.legislation.gov.uk/ukpga/1995/21/section/267) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 2](https://www.legislation.gov.uk/uksi/1989/1350/article/2) (as substituted by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/2))
 
 [^c14528451]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 

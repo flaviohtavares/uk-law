@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Regulations[^key-36139dfd2fd3a0a2b09e8ad93f4485ab]
+## 85. Regulations[^c-36139dfd2fd3a0a2b09e8ad93f4485ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36139dfd2fd3a0a2b09e8ad93f4485ab]: Commencement: S. 85 in force at Royal Assent, see [s. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+[^c-36139dfd2fd3a0a2b09e8ad93f4485ab]: Commencement: S. 85 in force at Royal Assent, see [s. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)

@@ -52,20 +52,20 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred by sections 1 and 2 of the Ministers of the Crown Act 1975[^f00001], is pleased, by and with the advice of Her Privy Council, to order as follows:
 
-## 1. Citation and commencement[^key-0954cf448ebe2f098d15df12ca5bc246]
+## 1. Citation and commencement[^c-0954cf448ebe2f098d15df12ca5bc246]
 
 (1) This Order may be cited as the Transfer of Functions (Information and Public Records) Order 2015.
 
 (2) This Order comes into force on 9th December 2015.
 
-## 2. Interpretation[^key-ca822357b77ff2842d29cad9edce1ab5]
+## 2. Interpretation[^c-ca822357b77ff2842d29cad9edce1ab5]
 
 In this Order—
 
 - “the Chancellor of the Duchy” means the Chancellor of the Duchy of Lancaster;
 - “instrument” includes Royal Charters, Royal Warrants, Orders in Council, Letters Patent, judgments, decrees, orders, rules, regulations, schemes, bye-laws, awards, licences, authorisations, consents, approvals, contracts and other agreements, memoranda and articles of association, certificates, deeds and other documents.
 
-## 3. Functions of the Secretary of State to be exercisable concurrently with the Chancellor of the Duchy[^key-3acae0feeb83253ed5454163680db1ab]
+## 3. Functions of the Secretary of State to be exercisable concurrently with the Chancellor of the Duchy[^c-3acae0feeb83253ed5454163680db1ab]
 
 (1) The functions of the Secretary of State under a provision of the Freedom of Information Act 2000[^f00002] which is listed in paragraph (2) are to be exercisable concurrently with the Chancellor of the Duchy.
 
@@ -77,7 +77,7 @@ In this Order—
 - (d) section 75(1)[^f00006] (power to amend or repeal enactments prohibiting disclosure of information), and
 - (e) section 83(2) and (3)[^f00007] (power to exclude public authority from definition of “Welsh public authority”).
 
-## 4. Transfer of functions from the Secretary of State to the Chancellor of the Duchy[^key-05cbc6945816f44a540276bf9dab548e]
+## 4. Transfer of functions from the Secretary of State to the Chancellor of the Duchy[^c-05cbc6945816f44a540276bf9dab548e]
 
 (1) The functions of the Secretary of State under a provision of the Freedom of Information Act 2000 which is listed in paragraph (2) are transferred to the Chancellor of the Duchy.
 
@@ -94,7 +94,7 @@ In this Order—
 - (i) section 47(4B) to (4D)[^f00016] (amendment of list of services for which Information Commissioner may charge), and
 - (j) section 53(1)(a)(iii) and (5)[^f00017] (power to designate public authorities for purposes of exemption from duty to comply with decision notice or enforcement notice).
 
-## 5. Functions passing under article 3 or 4: supplemental[^key-0eae40fd051a5473152f7f4ff3a4fb19]
+## 5. Functions passing under article 3 or 4: supplemental[^c-0eae40fd051a5473152f7f4ff3a4fb19]
 
 (1) In this article “information function” means—
 
@@ -118,7 +118,7 @@ In this Order—
 - (a) references to the Secretary of State are to be read as including references to the department or an officer of the Secretary of State, and
 - (b) references to the Chancellor of the Duchy are to be read as including references to the Cabinet Office or an officer in that Office accordingly.
 
-## 6. Transfer of functions from the Lord Chancellor to the Secretary of State[^key-b45d6ac468b4fca6430eac691720ea36]
+## 6. Transfer of functions from the Lord Chancellor to the Secretary of State[^c-b45d6ac468b4fca6430eac691720ea36]
 
 (1) The following functions of the Lord Chancellor are transferred to the Secretary of State—
 
@@ -143,7 +143,7 @@ In this Order—
 - (b) section 65(1)(a) (requirement to be consulted about proposal to refuse request for information contained in a historical record), and
 - (c) section 66(5)(a) (requirement to be consulted about whether public interest exemption applies to information contained in a transferred public record).
 
-## 7. Functions transferred by article 6: supplemental[^key-7597f2bc2d569a1c4bc93734d546283a]
+## 7. Functions transferred by article 6: supplemental[^c-7597f2bc2d569a1c4bc93734d546283a]
 
 (1) In this article “public records function” means a function which is transferred by article 6.
 
@@ -167,7 +167,7 @@ In this Order—
 - (a) references to the Lord Chancellor are to be read as including references to the department or an officer of the Lord Chancellor, and
 - (b) references to the Secretary of State for Culture, Media and Sport or the Secretary of State are to be read accordingly.
 
-## 8. Functions passing from Secretary of State for Justice to Secretary of State for Culture, Media and Sport: supplemental[^key-58732053d47d34b869074d61c287b1e6]
+## 8. Functions passing from Secretary of State for Justice to Secretary of State for Culture, Media and Sport: supplemental[^c-58732053d47d34b869074d61c287b1e6]
 
 (1) In this article “data protection function” means a function which—
 
@@ -192,7 +192,7 @@ In this Order—
 - (a) references to the Secretary of State for Justice are to be read as including references to the department or an officer of the Secretary of State for Justice, and
 - (b) references to the Secretary of State for Culture, Media and Sport are to be read as including references to the department or an officer of the Secretary of State for Culture, Media and Sport accordingly.
 
-## 9. Consequential amendments[^key-6f0380f61e4ea4b1ed1c70ae5b3088e2]
+## 9. Consequential amendments[^c-6f0380f61e4ea4b1ed1c70ae5b3088e2]
 
 The Schedule has effect.
 
@@ -204,7 +204,7 @@ Clerk of the Privy Council
 
 Article 9
 
-### 1. Public Records Act [1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51)[^key-427f8484fee6892c15f8c73afe002fd4]
+### 1. Public Records Act [1958 (c. 51)](https://www.legislation.gov.uk/ukpga/1958/51)[^c-427f8484fee6892c15f8c73afe002fd4]
 
 (1) The Public Records Act 1958 is amended as follows.
 
@@ -225,7 +225,7 @@ Article 9
 
 (4) In section 8(1) (responsibility for court records), for “him” substitute “the Secretary of State”.
 
-### 2. Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^key-12a98c7b3c3dab3dbbf0c10bf0ee4b43]
+### 2. Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36)[^c-12a98c7b3c3dab3dbbf0c10bf0ee4b43]
 
 (1) The Freedom of Information Act 2000[^f00026] is amended as follows.
 
@@ -269,11 +269,11 @@ Article 9
 
 (7) In the heading of section 45, after “code of practice” insert “by Chancellor of the Duchy”.
 
-### 3. Environmental Information Regulations 2004 ([S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391))[^key-3698eaefc5df8bb76e23f624543914ff]
+### 3. Environmental Information Regulations 2004 ([S.I. 2004/3391](https://www.legislation.gov.uk/uksi/2004/3391))[^c-3698eaefc5df8bb76e23f624543914ff]
 
 In regulation 17(1)(a) and (4)(a) of the Environmental Information Regulations 2004 (requirements to be consulted about disclosure of public records), for “Lord Chancellor” substitute “Secretary of State”.
 
-### 4. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^key-27431b9971a7e7980b12bf448d231049]
+### 4. Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32)[^c-27431b9971a7e7980b12bf448d231049]
 
 In the following provisions of the Government of Wales Act 2006, for “Lord Chancellor” substitute “Secretary of State”—
 
@@ -308,11 +308,11 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26). Section 1 was amended by section 20 of the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-0954cf448ebe2f098d15df12ca5bc246]: Commencement: Art. 1 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-0954cf448ebe2f098d15df12ca5bc246]: Commencement: Art. 1 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
-[^key-ca822357b77ff2842d29cad9edce1ab5]: Commencement: Art. 2 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-ca822357b77ff2842d29cad9edce1ab5]: Commencement: Art. 2 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
-[^key-3acae0feeb83253ed5454163680db1ab]: Commencement: Art. 3 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-3acae0feeb83253ed5454163680db1ab]: Commencement: Art. 3 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
 [^f00002]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36).
 
@@ -326,7 +326,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00007]: Footnote: Section 83 was amended by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), Sch. 2 and by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388), Sch. 1.
 
-[^key-05cbc6945816f44a540276bf9dab548e]: Commencement: Art. 4 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-05cbc6945816f44a540276bf9dab548e]: Commencement: Art. 4 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
 [^f00008]: Footnote: Section 9 was amended by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), Sch. 2.
 
@@ -348,9 +348,9 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00017]: Footnote: Section 53 was amended by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), Sch. 2 and by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388), Sch. 1.
 
-[^key-0eae40fd051a5473152f7f4ff3a4fb19]: Commencement: Art. 5 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-0eae40fd051a5473152f7f4ff3a4fb19]: Commencement: Art. 5 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
-[^key-b45d6ac468b4fca6430eac691720ea36]: Commencement: Art. 6 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-b45d6ac468b4fca6430eac691720ea36]: Commencement: Art. 6 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
 [^f00018]: Footnote: [1958 c. 51](https://www.legislation.gov.uk/ukpga/1958/51).
 
@@ -364,19 +364,19 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00023]: Footnote: Section 46(5)(a) was inserted by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), Sch.2.
 
-[^key-7597f2bc2d569a1c4bc93734d546283a]: Commencement: Art. 7 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-7597f2bc2d569a1c4bc93734d546283a]: Commencement: Art. 7 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
-[^key-58732053d47d34b869074d61c287b1e6]: Commencement: Art. 8 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-58732053d47d34b869074d61c287b1e6]: Commencement: Art. 8 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
 [^f00024]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).
 
-[^key-6f0380f61e4ea4b1ed1c70ae5b3088e2]: Commencement: Art. 9 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-6f0380f61e4ea4b1ed1c70ae5b3088e2]: Commencement: Art. 9 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
-[^key-427f8484fee6892c15f8c73afe002fd4]: Commencement: Sch. para. 1 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-427f8484fee6892c15f8c73afe002fd4]: Commencement: Sch. para. 1 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
 [^f00025]: Footnote: Subsection (2A) was inserted by Schedule 5 to the Freedom of Information Act [2000 (c. 36)](https://www.legislation.gov.uk/ukpga/2000/36).
 
-[^key-12a98c7b3c3dab3dbbf0c10bf0ee4b43]: Commencement: Sch. para. 2 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-12a98c7b3c3dab3dbbf0c10bf0ee4b43]: Commencement: Sch. para. 2 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
 [^f00026]: Footnote: The whole Act is applied with modifications by [S.I. 2012/2734](https://www.legislation.gov.uk/uksi/2012/2734), regs. 3 to 6 and Sch.
 
@@ -384,6 +384,6 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00028]: Footnote: Section 84 was amended by [S.I. 2003/1887](https://www.legislation.gov.uk/uksi/2003/1887), Sch. 2. Other amendments have been made to section 84 which are not relevant to this Order.
 
-[^key-3698eaefc5df8bb76e23f624543914ff]: Commencement: Sch. para. 3 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-3698eaefc5df8bb76e23f624543914ff]: Commencement: Sch. para. 3 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
 
-[^key-27431b9971a7e7980b12bf448d231049]: Commencement: Sch. para. 4 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)
+[^c-27431b9971a7e7980b12bf448d231049]: Commencement: Sch. para. 4 in force at 9.12.2015, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/1897/article/1/2)

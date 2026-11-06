@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Amendment to the List of Wastes Regulations (Northern Ireland) 2005[^key-ee3a6098afef13c75c30890050b46f28]
+## 64. Amendment to the List of Wastes Regulations (Northern Ireland) 2005[^c-ee3a6098afef13c75c30890050b46f28]
 
 *Extent: N.I.*
 
@@ -51,7 +51,7 @@ summary: ''
 
 .
 
-**65.**[^key-10dc570527d10e0e6c07df78a629a8ac] In the Schedule—
+**65.**[^c-10dc570527d10e0e6c07df78a629a8ac] In the Schedule—
 
 (1) In paragraph 1, for “Article 18 of Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442)” substitute “Article 39 of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)” and for “Article 1(a) of Directive [75/442/EEC](https://www.legislation.gov.uk/european/directive/1975/0442)” substitute “Article 3(1) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098).”.
 
@@ -63,8 +63,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ee3a6098afef13c75c30890050b46f28]: Commencement: Reg. 64 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-ee3a6098afef13c75c30890050b46f28]: Commencement: Reg. 64 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00058]: Footnote: [S.R 2005 No.301](https://www.legislation.gov.uk/nisr/2005/301)
 
-[^key-10dc570527d10e0e6c07df78a629a8ac]: Commencement: Reg. 65 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-10dc570527d10e0e6c07df78a629a8ac]: Commencement: Reg. 65 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)

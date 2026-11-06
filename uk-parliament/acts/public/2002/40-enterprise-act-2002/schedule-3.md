@@ -113,17 +113,17 @@ The Service has power to do anything which is calculated to facilitate, or is co
 
 (5) In this paragraph “**financial year**” means the period of 12 months ending with 31st March.
 
-### Part 2 — Transfers of property etc. between the Commission and the Service[^key-5ab54e2dda1260e4b3f01a8e240525a0]
+### Part 2 — Transfers of property etc. between the Commission and the Service[^c-5ab54e2dda1260e4b3f01a8e240525a0]
 
 **No longer in force.**
 
-**13.**[^key-5ab54e2dda1260e4b3f01a8e240525a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-5ab54e2dda1260e4b3f01a8e240525a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-5ab54e2dda1260e4b3f01a8e240525a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-5ab54e2dda1260e4b3f01a8e240525a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-5ab54e2dda1260e4b3f01a8e240525a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-5ab54e2dda1260e4b3f01a8e240525a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-5ab54e2dda1260e4b3f01a8e240525a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-5ab54e2dda1260e4b3f01a8e240525a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 3 — Miscellaneous
 
@@ -137,4 +137,4 @@ The Service has power to do anything which is calculated to facilitate, or is co
 
 ## Annotations
 
-[^key-5ab54e2dda1260e4b3f01a8e240525a0]: Textual amendment: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2002/40/schedule/3/part/2) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 226](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/226) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-5ab54e2dda1260e4b3f01a8e240525a0]: Textual amendment: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2002/40/schedule/3/part/2) omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 226](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/226) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

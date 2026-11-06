@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Replacement powers to stop and search: supplementary provisions[^key-0d87f5bf549596597b4287b004166b76]
+## SCHEDULE 5 — Replacement powers to stop and search: supplementary provisions[^c-0d87f5bf549596597b4287b004166b76]
 
 *Extent: E+W+S+N.I.*
 
 Section 61(2)
 
-[^key-0d87f5bf549596597b4287b004166b76]
+[^c-0d87f5bf549596597b4287b004166b76]
 
 After Schedule 6A to the Terrorism Act 2000 insert—
 
@@ -121,4 +121,4 @@ After Schedule 6A to the Terrorism Act 2000 insert—
 
 ## Annotations
 
-[^key-0d87f5bf549596597b4287b004166b76]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/5) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(g)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/g)
+[^c-0d87f5bf549596597b4287b004166b76]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/5) in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(g)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/g)

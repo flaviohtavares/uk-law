@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-a21463c2bbb4815caa39ad890d64eaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a21463c2bbb4815caa39ad890d64eaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-a21463c2bbb4815caa39ad890d64eaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a21463c2bbb4815caa39ad890d64eaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-a21463c2bbb4815caa39ad890d64eaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a21463c2bbb4815caa39ad890d64eaf9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After section 10A of the Taxation of Chargeable Gains Act 1992 (c. 12) insert—
 
@@ -43,12 +43,12 @@ summary: ''
 
 .
 
-(5)[^key-1356032d5df73d744976276ab000dab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1356032d5df73d744976276ab000dab7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) This section has effect in relation to accounting periods (of the non-resident company) beginning on or after 1st January 2003, and regulations under section 11AA(5) of the Taxes Act 1988 (inserted by subsection (2) above) may be made so as to have effect from that date.
 
 ## Annotations
 
-[^key-a21463c2bbb4815caa39ad890d64eaf9]: Textual amendment: S. 149(1)-(3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-a21463c2bbb4815caa39ad890d64eaf9]: Textual amendment: S. 149(1)-(3) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-1356032d5df73d744976276ab000dab7]: Textual amendment: [S. 149(5)](https://www.legislation.gov.uk/ukpga/2003/14/section/149/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1356032d5df73d744976276ab000dab7]: Textual amendment: [S. 149(5)](https://www.legislation.gov.uk/ukpga/2003/14/section/149/5) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

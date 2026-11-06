@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Schedule 3: Remediable Service[^key-c035e2f2c66545b6c85c5de9a21e6e9e]
+## 6. Schedule 3: Remediable Service[^c-c035e2f2c66545b6c85c5de9a21e6e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 (remediable service) makes provision in relation to remediable servic
 
 ## Annotations
 
-[^key-c035e2f2c66545b6c85c5de9a21e6e9e]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2005/438/article/6) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [7](https://www.legislation.gov.uk/uksi/2023/998/regulation/7)
+[^c-c035e2f2c66545b6c85c5de9a21e6e9e]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/uksi/2005/438/article/6) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [7](https://www.legislation.gov.uk/uksi/2023/998/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Cases where more than one application permitted[^key-6d774bced7fe57b78d716f7b510293bd]
+## 30. Cases where more than one application permitted[^c-6d774bced7fe57b78d716f7b510293bd]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d774bced7fe57b78d716f7b510293bd]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2021/15/section/30) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-6d774bced7fe57b78d716f7b510293bd]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2021/15/section/30) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

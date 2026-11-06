@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 250. Amendment of Commission Implementing Decision (EU) 2015/693[^key-8b9db4ae610c36899df22ceb2b9a8ac8]
+## 250. Amendment of Commission Implementing Decision (EU) 2015/693[^c-8b9db4ae610c36899df22ceb2b9a8ac8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Commission Implementing Decision (EU) 2015/693 renewing the authorisation for ex
 
 ## Annotations
 
-[^key-8b9db4ae610c36899df22ceb2b9a8ac8]: Commencement: Reg. 250 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-8b9db4ae610c36899df22ceb2b9a8ac8]: Commencement: Reg. 250 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

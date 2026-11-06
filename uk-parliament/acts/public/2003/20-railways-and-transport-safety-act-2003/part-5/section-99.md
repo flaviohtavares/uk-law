@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Regulations[^key-56c2347c44d6f17df82916e6195fc8e6]
+## 99. Regulations[^c-56c2347c44d6f17df82916e6195fc8e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56c2347c44d6f17df82916e6195fc8e6]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2003/20/section/99) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(v)](https://www.legislation.gov.uk/uksi/2004/827/article/3/v)
+[^c-56c2347c44d6f17df82916e6195fc8e6]: Commencement: [S. 99](https://www.legislation.gov.uk/ukpga/2003/20/section/99) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(v)](https://www.legislation.gov.uk/uksi/2004/827/article/3/v)

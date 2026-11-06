@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Registration appeals[^key-0d72de19db260bea24589ea205fc8235]
+## 32. Registration appeals[^c-0d72de19db260bea24589ea205fc8235]
 
 *Extent: S*
 
-(1)[^key-13352994f2563bc6a00d87b826a6c9c5] This regulation makes provision in connection with the right of appeal under section 56(1)(a), (aza), (azb), (azc), (azd), (aa) and (ab) of the 1983 Act.
+(1)[^c-13352994f2563bc6a00d87b826a6c9c5] This regulation makes provision in connection with the right of appeal under section 56(1)(a), (aza), (azb), (azc), (azd), (aa) and (ab) of the 1983 Act.
 
 (2) A person desiring to appeal must–
 
@@ -38,6 +38,6 @@ and the registration officer shall also give the sheriff such further informatio
 
 ## Annotations
 
-[^key-0d72de19db260bea24589ea205fc8235]: Commencement: Reg. 32 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-0d72de19db260bea24589ea205fc8235]: Commencement: Reg. 32 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-13352994f2563bc6a00d87b826a6c9c5]: Textual amendment: [Reg. 32(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32/1) substituted (9.12.2014) by [The Representation of the People (Scotland) (Amendment No. 2) Regulations 2014 (S.I. 2014/3124)](https://www.legislation.gov.uk/uksi/2014/3124), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3124/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/3124/regulation/6)
+[^c-13352994f2563bc6a00d87b826a6c9c5]: Textual amendment: [Reg. 32(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/32/1) substituted (9.12.2014) by [The Representation of the People (Scotland) (Amendment No. 2) Regulations 2014 (S.I. 2014/3124)](https://www.legislation.gov.uk/uksi/2014/3124), [regs. 1](https://www.legislation.gov.uk/uksi/2014/3124/regulation/1), [6](https://www.legislation.gov.uk/uksi/2014/3124/regulation/6)

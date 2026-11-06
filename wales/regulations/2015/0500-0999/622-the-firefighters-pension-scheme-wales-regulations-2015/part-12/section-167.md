@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 167. Procedure where appeal to be pursued[^key-ac9f6a165ece3f7104a453801abbf0be]
+## 167. Procedure where appeal to be pursued[^c-ac9f6a165ece3f7104a453801abbf0be]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ the board may dispense with the interview and medical examination and may determ
 
 ## Annotations
 
-[^key-ac9f6a165ece3f7104a453801abbf0be]: Commencement: Reg. 167 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-ac9f6a165ece3f7104a453801abbf0be]: Commencement: Reg. 167 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

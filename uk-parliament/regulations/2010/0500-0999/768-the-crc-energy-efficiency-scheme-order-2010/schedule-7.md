@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — The Registry[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+## SCHEDULE 7 — The Registry[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Article 68
 
-### 1. Setting up accounts[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 1. Setting up accounts[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Account holders and information[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 2. Account holders and information[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Recording of transfers between accounts[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 3. Recording of transfers between accounts[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Updating of accounts[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 4. Updating of accounts[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Non-compliance accounts and third party accounts[^key-b7a52f3626210c3787e0acdbaaaa5a08]
+### 5. Non-compliance accounts and third party accounts[^c-b7a52f3626210c3787e0acdbaaaa5a08]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))
+[^c-b7a52f3626210c3787e0acdbaaaa5a08]: Textual amendment: Order revoked (with savings) (20.5.2013 and 1.4.2019 in so far as not already in force) by [The CRC Energy Efficiency Scheme Order 2013 (revoked) 2013 (S.I. 2013/1119)](https://www.legislation.gov.uk/uksi/2013/1119), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1119/article/1), [96(1)(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/96/1/2) (with [arts. 2(2)](https://www.legislation.gov.uk/uksi/2013/1119/article/2/2), [86](https://www.legislation.gov.uk/uksi/2013/1119/article/86))

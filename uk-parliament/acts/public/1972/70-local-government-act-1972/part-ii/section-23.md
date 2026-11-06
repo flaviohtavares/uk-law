@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Election of chairman.[^c15088931][^key-b01cb942f77152f99b854b0e18a7a48e]
+## 23. Election of chairman.[^c15088931][^c-b01cb942f77152f99b854b0e18a7a48e]
 
 *Extent: W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 [^c15088931]: Modification: S. 23 applied (*temp.* from 4.5.1995 to 31.3.1996) by [S.I. 1995/1042](https://www.legislation.gov.uk/uksi/1995/1042), [art. 4(1)](https://www.legislation.gov.uk/uksi/1995/1042/article/4/1)
 
-[^key-b01cb942f77152f99b854b0e18a7a48e]: Modification: S. 23 modified (W.) (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [11(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/11/3)
+[^c-b01cb942f77152f99b854b0e18a7a48e]: Modification: S. 23 modified (W.) (22.4.2020) by [The Local Authorities (Coronavirus) (Meetings) (Wales) Regulations 2020 (S.I. 2020/442)](https://www.legislation.gov.uk/wsi/2020/442), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/1/3), [11(3)](https://www.legislation.gov.uk/wsi/2020/442/regulation/11/3)

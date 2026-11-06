@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Reduction of benefits where lifetime allowance charge payable[^key-c03d59db5140d69194beeeacd1f1ff1f]
+## 172. Reduction of benefits where lifetime allowance charge payable[^c-c03d59db5140d69194beeeacd1f1ff1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c03d59db5140d69194beeeacd1f1ff1f]: Commencement: [Reg. 172](https://www.legislation.gov.uk/uksi/2014/1964/regulation/172) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c03d59db5140d69194beeeacd1f1ff1f]: Commencement: [Reg. 172](https://www.legislation.gov.uk/uksi/2014/1964/regulation/172) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

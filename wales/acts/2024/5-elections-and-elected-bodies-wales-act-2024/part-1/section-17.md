@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Evaluation of pilot regulations[^key-6fd84c9fe8f9de988bebc5391174d0c4]
+## 17. Evaluation of pilot regulations[^c-6fd84c9fe8f9de988bebc5391174d0c4]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ before the day specified in the pilot regulations.
 
 ## Annotations
 
-[^key-6fd84c9fe8f9de988bebc5391174d0c4]: Commencement: S. 17 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-6fd84c9fe8f9de988bebc5391174d0c4]: Commencement: S. 17 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

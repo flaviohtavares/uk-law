@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Failure to approve specific BPD warrant issued in urgent case[^key-035c69a6ead43803e79b727328055239]
+## 210. Failure to approve specific BPD warrant issued in urgent case[^c-035c69a6ead43803e79b727328055239]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-035c69a6ead43803e79b727328055239]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2016/25/section/210) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
+[^c-035c69a6ead43803e79b727328055239]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2016/25/section/210) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)

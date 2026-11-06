@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65.[^key-e3185d45072cd389bbab9d3cc2b594c2]
+## 65.[^c-e3185d45072cd389bbab9d3cc2b594c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ for “a married man to his wife or a married woman to her husband” substitute
 
 ## Annotations
 
-[^key-e3185d45072cd389bbab9d3cc2b594c2]: Commencement: Reg. 65 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-e3185d45072cd389bbab9d3cc2b594c2]: Commencement: Reg. 65 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

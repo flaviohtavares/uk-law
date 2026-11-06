@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 562A. Application of Act to detained persons[^key-e7e116145194886f0e32d13b2a197268]
+## 562A. Application of Act to detained persons[^c-e7e116145194886f0e32d13b2a197268]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ and, in provisions applying on a person's release, also include references to a 
 
 ## Annotations
 
-[^key-e7e116145194886f0e32d13b2a197268]: Textual amendment: Pt. 10 Ch. 5A inserted (1.9.2010 for E. for specified purposes, 1.4.2011 for W. for specified purposes) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 50](https://www.legislation.gov.uk/ukpga/2009/22/section/50), [269(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5); [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/829/article/2/b)
+[^c-e7e116145194886f0e32d13b2a197268]: Textual amendment: Pt. 10 Ch. 5A inserted (1.9.2010 for E. for specified purposes, 1.4.2011 for W. for specified purposes) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 50](https://www.legislation.gov.uk/ukpga/2009/22/section/50), [269(3)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/3)[(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 6](https://www.legislation.gov.uk/uksi/2010/303/article/6), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/303/schedule/5); [S.I. 2011/829](https://www.legislation.gov.uk/uksi/2011/829), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/829/article/2/b)

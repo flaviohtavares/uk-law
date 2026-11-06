@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Community planning partners: duties[^key-00614eed8869866d9728893c41253f8e]
+## 14. Community planning partners: duties[^c-00614eed8869866d9728893c41253f8e]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00614eed8869866d9728893c41253f8e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/6/section/14) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)
+[^c-00614eed8869866d9728893c41253f8e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/6/section/14) in force at 20.12.2016 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 2](https://www.legislation.gov.uk/ssi/2016/363/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Individual placement agreement[^key-d7fcf803a740cda5844c921bb4a2d14c]
+## 12. Individual placement agreement[^c-d7fcf803a740cda5844c921bb4a2d14c]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7fcf803a740cda5844c921bb4a2d14c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2019/163/regulation/12) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-d7fcf803a740cda5844c921bb4a2d14c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2019/163/regulation/12) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

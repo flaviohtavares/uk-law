@@ -29,7 +29,7 @@ summary: ''
 
 (3) Where an authorised person whose supervisory authority is the FCA ceases to act as a money service business or a trust or company service provider, it must within 28 days inform the FCA.
 
-(3A)[^key-31e8ede4d34ca8c69a0c1ab6bfbe76ef] If, at any time after an authorised person whose supervisory authority is the FCA (“**A**”) has provided the FCA with any information under this regulation—
+(3A)[^c-31e8ede4d34ca8c69a0c1ab6bfbe76ef] If, at any time after an authorised person whose supervisory authority is the FCA (“**A**”) has provided the FCA with any information under this regulation—
 
 - (a) there is a material change affecting any matter contained in that information; or
 - (b) it becomes apparent to A that the information contains an inaccuracy,
@@ -42,4 +42,4 @@ then A must provide the FCA with details of the change or a correction of the in
 
 ## Annotations
 
-[^key-31e8ede4d34ca8c69a0c1ab6bfbe76ef]: Textual amendment: [Reg. 23(3A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/23/3A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2026/621/regulation/13)
+[^c-31e8ede4d34ca8c69a0c1ab6bfbe76ef]: Textual amendment: [Reg. 23(3A)](https://www.legislation.gov.uk/uksi/2017/692/regulation/23/3A) inserted (30.6.2026) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2026 (S.I. 2026/621)](https://www.legislation.gov.uk/uksi/2026/621), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/621/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2026/621/regulation/13)

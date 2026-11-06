@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226. Penalty for impersonating inspector[^key-4b33cb84be433d6311bf2a8a37de2039]
+## 226. Penalty for impersonating inspector[^c-4b33cb84be433d6311bf2a8a37de2039]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person guilty of an offence under regulation 225 is liable on summary convicti
 
 ## Annotations
 
-[^key-4b33cb84be433d6311bf2a8a37de2039]: Commencement: Reg. 226 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-4b33cb84be433d6311bf2a8a37de2039]: Commencement: Reg. 226 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

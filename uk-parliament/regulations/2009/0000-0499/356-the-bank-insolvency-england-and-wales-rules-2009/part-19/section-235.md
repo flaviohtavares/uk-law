@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 235. Issue and use of forms[^key-cb0c6991d140dd9fbc50bfa55d379230]
+## 235. Issue and use of forms[^c-cb0c6991d140dd9fbc50bfa55d379230]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 8.2 of the 1986 Rules.
 
 ## Annotations
 
-[^key-cb0c6991d140dd9fbc50bfa55d379230]: Commencement: Rule 235 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-cb0c6991d140dd9fbc50bfa55d379230]: Commencement: Rule 235 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

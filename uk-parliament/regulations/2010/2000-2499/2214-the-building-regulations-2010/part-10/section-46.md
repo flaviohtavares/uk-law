@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Sampling of material[^key-3e8c04c847158d40af250a7d4a67950d][^key-dfb039f6803495802a0ecd41ed6c8fa8]
+## 46. Sampling of material[^c-3e8c04c847158d40af250a7d4a67950d][^c-dfb039f6803495802a0ecd41ed6c8fa8]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e8c04c847158d40af250a7d4a67950d]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46) omitted (E.) (1.10.2023) by virtue of [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/14/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
+[^c-3e8c04c847158d40af250a7d4a67950d]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46) omitted (E.) (1.10.2023) by virtue of [The Building Regulations etc. (Amendment) (England) Regulations 2023 (S.I. 2023/911)](https://www.legislation.gov.uk/uksi/2023/911), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/1/2), [14(2)](https://www.legislation.gov.uk/uksi/2023/911/regulation/14/2) (with [regs. 22-24](https://www.legislation.gov.uk/uksi/2023/911/regulation/22))
 
-[^key-dfb039f6803495802a0ecd41ed6c8fa8]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46) omitted (W.) (1.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [12(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/12/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))
+[^c-dfb039f6803495802a0ecd41ed6c8fa8]: Textual amendment: [Reg. 46](https://www.legislation.gov.uk/uksi/2010/2214/regulation/46) omitted (W.) (1.7.2026) by virtue of [The Building etc. (Amendment) (No. 2) (Wales) Regulations 2025 (S.I. 2025/1320)](https://www.legislation.gov.uk/wsi/2025/1320), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/1/2), [12(2)](https://www.legislation.gov.uk/wsi/2025/1320/regulation/12/2) (with [reg. 19](https://www.legislation.gov.uk/wsi/2025/1320/regulation/19))

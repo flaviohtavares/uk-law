@@ -30,7 +30,7 @@ summary: ''
 
 MEDICINES
 
-The Medicated Feedingstuffs and Feedingstuffs (Zootechnical Products) (Consequential Provisions) Regulations 1998 (revoked)[^key-13ec15af85b365b7d5db19a1a38880b3]
+The Medicated Feedingstuffs and Feedingstuffs (Zootechnical Products) (Consequential Provisions) Regulations 1998 (revoked)[^c-13ec15af85b365b7d5db19a1a38880b3]
 
 Made
 
@@ -44,50 +44,50 @@ Coming into force
 
 6th May 1998
 
-[^key-13ec15af85b365b7d5db19a1a38880b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13ec15af85b365b7d5db19a1a38880b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-13ec15af85b365b7d5db19a1a38880b3]
+## 1. Title and commencement[^c-13ec15af85b365b7d5db19a1a38880b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocations and savings[^key-13ec15af85b365b7d5db19a1a38880b3]
+## 2. Revocations and savings[^c-13ec15af85b365b7d5db19a1a38880b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments[^key-13ec15af85b365b7d5db19a1a38880b3]
+## 3. Amendments[^c-13ec15af85b365b7d5db19a1a38880b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13ec15af85b365b7d5db19a1a38880b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13ec15af85b365b7d5db19a1a38880b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REVOCATIONS[^key-13ec15af85b365b7d5db19a1a38880b3]
+## SCHEDULE 1 — REVOCATIONS[^c-13ec15af85b365b7d5db19a1a38880b3]
 
 Regulation 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — AMENDMENTS[^key-13ec15af85b365b7d5db19a1a38880b3]
+## SCHEDULE 2 — AMENDMENTS[^c-13ec15af85b365b7d5db19a1a38880b3]
 
 Regulation 3
 
-### 1. Amendment of 1988 Regulations[^key-13ec15af85b365b7d5db19a1a38880b3]
+### 1. Amendment of 1988 Regulations[^c-13ec15af85b365b7d5db19a1a38880b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Amendment of 1994 Regulations[^key-13ec15af85b365b7d5db19a1a38880b3]
+### 2. Amendment of 1994 Regulations[^c-13ec15af85b365b7d5db19a1a38880b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of 1997 Regulations[^key-13ec15af85b365b7d5db19a1a38880b3]
+### 3. Amendment of 1997 Regulations[^c-13ec15af85b365b7d5db19a1a38880b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13ec15af85b365b7d5db19a1a38880b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13ec15af85b365b7d5db19a1a38880b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-13ec15af85b365b7d5db19a1a38880b3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1048) revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-13ec15af85b365b7d5db19a1a38880b3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1048) revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

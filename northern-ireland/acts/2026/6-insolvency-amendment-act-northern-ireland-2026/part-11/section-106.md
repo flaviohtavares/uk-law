@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 106. Orders relating to recognised professional bodies to be subject to negative resolution[^key-7a61c7c92eca9ac2a57808966200baff]
+## 106. Orders relating to recognised professional bodies to be subject to negative resolution[^c-7a61c7c92eca9ac2a57808966200baff]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a61c7c92eca9ac2a57808966200baff]: Commencement: S. 106 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7a61c7c92eca9ac2a57808966200baff]: Commencement: S. 106 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

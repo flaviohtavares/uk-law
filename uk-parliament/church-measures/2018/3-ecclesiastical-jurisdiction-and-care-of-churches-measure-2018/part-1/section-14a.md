@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14A. Decisions treated as taken by each Court[^key-16d33fd7f7e00dac90667d0eb8dd42ff]
+## 14A. Decisions treated as taken by each Court[^c-16d33fd7f7e00dac90667d0eb8dd42ff]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16d33fd7f7e00dac90667d0eb8dd42ff]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukcm/2018/3/section/14A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/7/1), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 7(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/7/3)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/f)
+[^c-16d33fd7f7e00dac90667d0eb8dd42ff]: Textual amendment: [S. 14A](https://www.legislation.gov.uk/ukcm/2018/3/section/14A) inserted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2018/7/section/7/1), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3) (with [s. 7(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/7/3)); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Supply of information to employers[^key-e09186eedc3f2d34d7bedc42b43eabd2]
+## 48. Supply of information to employers[^c-e09186eedc3f2d34d7bedc42b43eabd2]
 
 *Extent: E+W*
 
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e09186eedc3f2d34d7bedc42b43eabd2]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2015/140/regulation/48) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
+[^c-e09186eedc3f2d34d7bedc42b43eabd2]: Commencement: [Reg. 48](https://www.legislation.gov.uk/wsi/2015/140/regulation/48) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/140/regulation/1/1)
 
 [^f00025]: Footnote: [1998 c. 31](https://www.legislation.gov.uk/ukpga/1998/31).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Interpretation of references to other Acts[^key-53cb759057582bcfcd483862dd857462]
+## 120. Interpretation of references to other Acts[^c-53cb759057582bcfcd483862dd857462]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ In this Act—
 
 ## Annotations
 
-[^key-53cb759057582bcfcd483862dd857462]: Commencement: S. 120 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)
+[^c-53cb759057582bcfcd483862dd857462]: Commencement: S. 120 in force at Royal Assent, see [s. 124(1)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/1)

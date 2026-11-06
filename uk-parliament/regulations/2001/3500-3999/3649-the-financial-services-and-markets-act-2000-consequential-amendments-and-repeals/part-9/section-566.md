@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 566. Interpretation of Schedules to the 1998 Regulations[^key-6fab95f432e6da505631e4d8725ef1ba]
+## 566. Interpretation of Schedules to the 1998 Regulations[^c-6fab95f432e6da505631e4d8725ef1ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In Schedule 11 to the Building Societies (Accounts and Related Provisions) Regul
 
 ## Annotations
 
-[^key-6fab95f432e6da505631e4d8725ef1ba]: Commencement: Art. 566 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-6fab95f432e6da505631e4d8725ef1ba]: Commencement: Art. 566 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

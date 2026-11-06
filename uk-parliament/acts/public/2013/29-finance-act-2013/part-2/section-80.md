@@ -36,7 +36,7 @@ summary: ''
 
 (4) For the purposes of subsection (2)(b) the amount of tax relief in respect of any decommissioning expenditure is to be determined in accordance with the agreement; and in making such a determination tax relief in respect of expenditure incurred by the qualifying company that is not decommissioning expenditure may, in such circumstances as are specified in the agreement, be treated as if it were tax relief in respect of decommissioning expenditure.
 
-(4A)[^key-b8c0c6f6e4b80f0af020fa72f31affdd] No payment is to be made to a company under a decommissioning relief agreement by reference to the energy (oil and gas) profits levy.
+(4A)[^c-b8c0c6f6e4b80f0af020fa72f31affdd] No payment is to be made to a company under a decommissioning relief agreement by reference to the energy (oil and gas) profits levy.
 
 (4B) Every decommissioning relief agreement (whenever entered into) is to be read accordingly.
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8c0c6f6e4b80f0af020fa72f31affdd]: Textual amendment: [S. 80(4A)](https://www.legislation.gov.uk/ukpga/2013/29/section/80/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2013/29/section/80/4B) inserted (with effect in accordance with s. 64(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 64](https://www.legislation.gov.uk/ukpga/2026/11/section/64)
+[^c-b8c0c6f6e4b80f0af020fa72f31affdd]: Textual amendment: [S. 80(4A)](https://www.legislation.gov.uk/ukpga/2013/29/section/80/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2013/29/section/80/4B) inserted (with effect in accordance with s. 64(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 64](https://www.legislation.gov.uk/ukpga/2026/11/section/64)

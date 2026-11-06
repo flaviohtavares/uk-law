@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67L. Information relating to the Lung Cancer Screening Programme[^key-478e0dde76d216fa2120b48ae5b9ff99]
+## 67L. Information relating to the Lung Cancer Screening Programme[^c-478e0dde76d216fa2120b48ae5b9ff99]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-478e0dde76d216fa2120b48ae5b9ff99]: Textual amendment: [Regs. 67K](https://www.legislation.gov.uk/uksi/2015/1879/regulation/67K), [67L](https://www.legislation.gov.uk/uksi/2015/1879/regulation/67L) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/5)
+[^c-478e0dde76d216fa2120b48ae5b9ff99]: Textual amendment: [Regs. 67K](https://www.legislation.gov.uk/uksi/2015/1879/regulation/67K), [67L](https://www.legislation.gov.uk/uksi/2015/1879/regulation/67L) inserted (15.6.2026) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2026 (S.I. 2026/532)](https://www.legislation.gov.uk/uksi/2026/532), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/532/regulation/1/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2026/532/schedule/2/paragraph/5)

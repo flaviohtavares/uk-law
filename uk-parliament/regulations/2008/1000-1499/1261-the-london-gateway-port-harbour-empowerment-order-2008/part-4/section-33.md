@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Time limit for exercise of powers of acquisition[^key-d0064c7354d7d2438dcc02fe96c9b528]
+## 33. Time limit for exercise of powers of acquisition[^c-d0064c7354d7d2438dcc02fe96c9b528]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0064c7354d7d2438dcc02fe96c9b528]: Commencement: Art. 33 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-d0064c7354d7d2438dcc02fe96c9b528]: Commencement: Art. 33 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

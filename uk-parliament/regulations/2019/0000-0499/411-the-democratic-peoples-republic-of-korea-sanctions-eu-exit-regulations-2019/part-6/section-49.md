@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Supply and delivery of certain goods from the DPRK[^key-033e7292467fa31e2336c304f7357c76][^key-a1f32284a5d956d14af632e539138fc7]
+## 49. Supply and delivery of certain goods from the DPRK[^c-033e7292467fa31e2336c304f7357c76][^c-a1f32284a5d956d14af632e539138fc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-033e7292467fa31e2336c304f7357c76]: Commencement: Reg. 49 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-033e7292467fa31e2336c304f7357c76]: Commencement: Reg. 49 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-a1f32284a5d956d14af632e539138fc7]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2019/411/regulation/49) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1f32284a5d956d14af632e539138fc7]: Commencement: [Reg. 49](https://www.legislation.gov.uk/uksi/2019/411/regulation/49) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Power to enter premises[^key-c4a0e1c3365fa06c5e5dbda34f5136bf]
+## 102. Power to enter premises[^c-c4a0e1c3365fa06c5e5dbda34f5136bf]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ which would, in legal proceedings, be protected from disclosure by virtue of any
 
 ## Annotations
 
-[^key-c4a0e1c3365fa06c5e5dbda34f5136bf]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2008/5/section/102) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)
+[^c-c4a0e1c3365fa06c5e5dbda34f5136bf]: Commencement: [S. 102](https://www.legislation.gov.uk/asp/2008/5/section/102) in force at 1.12.2009 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2009/404/article/2/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/404/schedule/1)

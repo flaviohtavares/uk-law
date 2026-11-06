@@ -47,7 +47,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 105
 
 In accordance with section 120C(1)[^f00002] of the Building Act 1984 the Welsh Ministers have consulted such persons as they consider appropriate.
 
-## 1. Title, application and coming into force[^key-6a99c76fffd7b9ab01d5b146d1e0e244]
+## 1. Title, application and coming into force[^c-6a99c76fffd7b9ab01d5b146d1e0e244]
 
 (1) The title of these Regulations is the Building Control Profession (Charges) (Wales) Regulations 2023.
 
@@ -55,7 +55,7 @@ In accordance with section 120C(1)[^f00002] of the Building Act 1984 the Welsh M
 
 (3) These Regulations come into force on 1 January 2024.
 
-## 2. Interpretation[^key-fb44bccd1fff21370818c46ccddeee30]
+## 2. Interpretation[^c-fb44bccd1fff21370818c46ccddeee30]
 
 (1) In these Regulations—
 
@@ -65,7 +65,7 @@ In accordance with section 120C(1)[^f00002] of the Building Act 1984 the Welsh M
 
 (2) Subject to paragraph (1), words and expressions used in these Regulations and in the Building Act 1984 have the same meaning as in that Act.
 
-## 3. Chargeable functions[^key-fd0d8becb9ef8d1ae3d7616dea118005]
+## 3. Chargeable functions[^c-fd0d8becb9ef8d1ae3d7616dea118005]
 
 (1) The Welsh Ministers may recover charges for or in connection with the performance of chargeable functions.
 
@@ -82,7 +82,7 @@ In accordance with section 120C(1)[^f00002] of the Building Act 1984 the Welsh M
 - (g) any action taken in order to respond to an appeal against a decision of the Welsh Ministers made under Part 2A of the Act;
 - (h) the inspection of a local authority or a registered building control approver under section 58Z8(1) of the Act.
 
-## 4. Charging scheme[^key-5cf362b01936392f5bb72b791adcdf17]
+## 4. Charging scheme[^c-5cf362b01936392f5bb72b791adcdf17]
 
 (1) The amount of any charge that is payable under these Regulations must be determined by the Welsh Ministers in accordance with a scheme made and published by the Welsh Ministers.
 
@@ -92,13 +92,13 @@ In accordance with section 120C(1)[^f00002] of the Building Act 1984 the Welsh M
 
 (4) The Welsh Ministers must publish the charging scheme or any amendments to the scheme on the Welsh Government website at least 7 days before the date on which the scheme or the amendment is to come into effect.
 
-## 5. Charges for local authorities and the building control profession[^key-3803374f960be5c995bdcd36e96bcd37]
+## 5. Charges for local authorities and the building control profession[^c-3803374f960be5c995bdcd36e96bcd37]
 
 (1) The person who makes the application must pay the charges for the performance of the chargeable functions under regulation 3(2)(a) and (b), as applicable.
 
 (2) A local authority or a registered building control approver, which is the subject of an inspection under section 58Z8 of the Act, must pay the charges arising from the performance of chargeable functions under regulation 3(2)(h).
 
-## 6. Charges for monitoring and regulatory intervention to ensure compliance[^key-9ded07807125fd1f055375fe380f9f73]
+## 6. Charges for monitoring and regulatory intervention to ensure compliance[^c-9ded07807125fd1f055375fe380f9f73]
 
 (1) Subject to paragraphs (3) and (4), a person must pay the charges arising from the performance of the chargeable functions under regulation 3(2)(c) to (f) if the Welsh Ministers have reasonable grounds to believe that the person may contravene, is contravening or has contravened Part 2A of the Act or a requirement imposed by virtue of Part 2A.
 
@@ -111,14 +111,14 @@ In accordance with section 120C(1)[^f00002] of the Building Act 1984 the Welsh M
 - (a) a registered building inspector if the Welsh Ministers’ investigation concludes that they have not breached the code of conduct[^f00003] or been guilty of professional misconduct[^f00004];
 - (b) a registered building control approver if the Welsh Ministers’ investigation concludes that they have not contravened the professional conduct rules[^f00005] or the operational standards rules[^f00006].
 
-## 7. Charges for appeals[^key-16ebcdb3a348097ec4c90201f80ef71a]
+## 7. Charges for appeals[^c-16ebcdb3a348097ec4c90201f80ef71a]
 
 The person who makes the appeal must pay the charges for the performance of the chargeable functions under regulation 3(2)(g) if—
 
 - (a) they withdraw the appeal, or
 - (b) the magistrates’ court confirms the decision of the Welsh Ministers.
 
-## 8. Payment of charges[^key-a8169c704fa6ed26397a8cc4887810d1]
+## 8. Payment of charges[^c-a8169c704fa6ed26397a8cc4887810d1]
 
 (1) Subject to paragraph (3), a person must pay the charge for or in connection with the performance of a chargeable function for which they are liable within 30 days from the date on which the request for payment of that charge is issued to them by the Welsh Ministers.
 
@@ -166,17 +166,17 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Section 120C was inserted by paragraph 77 of Schedule 5 to the Building Safety Act 2022.
 
-[^key-6a99c76fffd7b9ab01d5b146d1e0e244]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
+[^c-6a99c76fffd7b9ab01d5b146d1e0e244]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
 
-[^key-fb44bccd1fff21370818c46ccddeee30]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/1303/regulation/2) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
+[^c-fb44bccd1fff21370818c46ccddeee30]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2023/1303/regulation/2) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
 
-[^key-fd0d8becb9ef8d1ae3d7616dea118005]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2023/1303/regulation/3) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
+[^c-fd0d8becb9ef8d1ae3d7616dea118005]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2023/1303/regulation/3) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
 
-[^key-5cf362b01936392f5bb72b791adcdf17]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/1303/regulation/4) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
+[^c-5cf362b01936392f5bb72b791adcdf17]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2023/1303/regulation/4) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
 
-[^key-3803374f960be5c995bdcd36e96bcd37]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/1303/regulation/5) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
+[^c-3803374f960be5c995bdcd36e96bcd37]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2023/1303/regulation/5) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
 
-[^key-9ded07807125fd1f055375fe380f9f73]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/1303/regulation/6) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
+[^c-9ded07807125fd1f055375fe380f9f73]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2023/1303/regulation/6) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
 
 [^f00003]: Footnote: Prepared and published under section 58F of the Building Act 1984.
 
@@ -186,6 +186,6 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: Made and published under section 58Z of the Building Act 1984.
 
-[^key-16ebcdb3a348097ec4c90201f80ef71a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2023/1303/regulation/7) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
+[^c-16ebcdb3a348097ec4c90201f80ef71a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2023/1303/regulation/7) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
 
-[^key-a8169c704fa6ed26397a8cc4887810d1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2023/1303/regulation/8) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)
+[^c-a8169c704fa6ed26397a8cc4887810d1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2023/1303/regulation/8) in force at 1.1.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2023/1303/regulation/1/3)

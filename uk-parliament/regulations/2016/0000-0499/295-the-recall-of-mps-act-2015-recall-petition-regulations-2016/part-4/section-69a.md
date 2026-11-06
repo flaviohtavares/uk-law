@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69A. Additional requirements: applications for an emergency proxy signature in respect of a particular petition on grounds relating to identification: England and Wales and Scotland[^key-db23f240df09628e8b740da3398607ea]
+## 69A. Additional requirements: applications for an emergency proxy signature in respect of a particular petition on grounds relating to identification: England and Wales and Scotland[^c-db23f240df09628e8b740da3398607ea]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db23f240df09628e8b740da3398607ea]: Textual amendment: Reg. 69A inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [88](https://www.legislation.gov.uk/uksi/2022/1382/regulation/88) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-db23f240df09628e8b740da3398607ea]: Textual amendment: Reg. 69A inserted (E.W.S.) (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [88](https://www.legislation.gov.uk/uksi/2022/1382/regulation/88) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

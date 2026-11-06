@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Condition to be satisfied for regulation 11 to apply[^key-cce5dbee7faba98db226b725840af647]
+## 13. Condition to be satisfied for regulation 11 to apply[^c-cce5dbee7faba98db226b725840af647]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The condition is that the FCA has determined that regulation 6 should cease to a
 
 ## Annotations
 
-[^key-cce5dbee7faba98db226b725840af647]: Commencement: Reg. 13 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-cce5dbee7faba98db226b725840af647]: Commencement: Reg. 13 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

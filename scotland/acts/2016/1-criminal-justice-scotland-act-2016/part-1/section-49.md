@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Taking drunk persons to designated place[^key-4bd0e2f327541e0de8fd0e2c7317b93d]
+## 49. Taking drunk persons to designated place[^c-4bd0e2f327541e0de8fd0e2c7317b93d]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ the constable may take the person to a designated place (and do so instead of ar
 
 ## Annotations
 
-[^key-4bd0e2f327541e0de8fd0e2c7317b93d]: Commencement: S. 49 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-4bd0e2f327541e0de8fd0e2c7317b93d]: Commencement: S. 49 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 109. Multi-annual national control plans (MANCP) ...[^key-fb9c4fba2884cf9b8f7cd45b067cd797][^key-3c6675eb90d2ee57033a420cd81db222]
+## Article 109. Multi-annual national control plans (MANCP) ...[^c-fb9c4fba2884cf9b8f7cd45b067cd797][^c-3c6675eb90d2ee57033a420cd81db222]
 
 *Extent: E+W+S+N.I.*
 
 1. Competent authorities must ensure that official controls governed by this Regulation are performed on the basis of MANCP, the preparation and implementation of which is coordinated across the constituent territories of Great Britain.
 
-2.[^key-fc90d5c36cbd2e1cfb2f6ea811deaa2a] The appropriate authorities must jointly, from time to time, designate a person (which may be a competent or an appropriate authority) to—
+2.[^c-fc90d5c36cbd2e1cfb2f6ea811deaa2a] The appropriate authorities must jointly, from time to time, designate a person (which may be a competent or an appropriate authority) to—
 
 - (a) coordinate the preparation of the MANCP across all competent authorities responsible for official controls;
 - (b) ensure that the MANCP is coherent;
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fb9c4fba2884cf9b8f7cd45b067cd797]: Textual amendment: [Art. 109(1)](https://www.legislation.gov.uk/eur/2017/625/article/109/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/2/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-fb9c4fba2884cf9b8f7cd45b067cd797]: Textual amendment: [Art. 109(1)](https://www.legislation.gov.uk/eur/2017/625/article/109/1) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(2)(a)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/2/a) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-3c6675eb90d2ee57033a420cd81db222]: Textual amendment: Words in [Art. 109](https://www.legislation.gov.uk/eur/2017/625/article/109) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-3c6675eb90d2ee57033a420cd81db222]: Textual amendment: Words in [Art. 109](https://www.legislation.gov.uk/eur/2017/625/article/109) heading omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
 
-[^key-fc90d5c36cbd2e1cfb2f6ea811deaa2a]: Textual amendment: [Art. 109(2)](https://www.legislation.gov.uk/eur/2017/625/article/109/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-fc90d5c36cbd2e1cfb2f6ea811deaa2a]: Textual amendment: [Art. 109(2)](https://www.legislation.gov.uk/eur/2017/625/article/109/2) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [20(2)(b)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/20/2/b) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

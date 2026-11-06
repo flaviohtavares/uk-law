@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Where it appears to the appropriate agency[^key-21423ce0d47eaa650fb851bfceea3f8e] that the interests of agriculture require the carrying out, improvement or maintenance of drainage works in connection with any watercourses in any flood risk management region[^key-534227949ae8b808d11bf6e8c0bffe0a], the appropriate agency may submit to either of the Ministers for confirmation a scheme under this section with respect to those watercourses.
+(1) Where it appears to the appropriate agency[^c-21423ce0d47eaa650fb851bfceea3f8e] that the interests of agriculture require the carrying out, improvement or maintenance of drainage works in connection with any watercourses in any flood risk management region[^c-534227949ae8b808d11bf6e8c0bffe0a], the appropriate agency may submit to either of the Ministers for confirmation a scheme under this section with respect to those watercourses.
 
 (2) A scheme under this section with respect to any watercourses is a scheme—
 
 - (a) designating those watercourses, and any watercourses connected with them, for the purposes of this section; and
 - (b) making provision for the raising, in accordance with section 138 below, of a charge (known as a “**special drainage charge**”) for the purpose of meeting the expenses of drainage works in connection with the designated watercourses and any expenses arising from such works.
 
-(3) A scheme under this section shall designate for the purposes of the special drainage charge so much of the flood risk management region[^key-acf5106eec3d736e38bdefe3d6993986] as consists of land which, in the opinion of the appropriate agency, is agricultural land that would benefit from drainage works in connection with the designated watercourses.
+(3) A scheme under this section shall designate for the purposes of the special drainage charge so much of the flood risk management region[^c-acf5106eec3d736e38bdefe3d6993986] as consists of land which, in the opinion of the appropriate agency, is agricultural land that would benefit from drainage works in connection with the designated watercourses.
 
 (4) The watercourses designated in any scheme under this section shall, if the scheme is confirmed, be treated for the purposes of this Act and the [^c18736011]Land Drainage Act 1991 as part of a main river.
 
@@ -48,11 +48,11 @@ summary: ''
 
 ## Annotations
 
-[^key-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-21423ce0d47eaa650fb851bfceea3f8e]: Textual amendment: Words in ss. 120-143 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 276](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/276) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-534227949ae8b808d11bf6e8c0bffe0a]: Textual amendment: Words in [s. 137(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/137/1) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/8/2)
+[^c-534227949ae8b808d11bf6e8c0bffe0a]: Textual amendment: Words in [s. 137(1)](https://www.legislation.gov.uk/ukpga/1991/57/section/137/1) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/8/2)
 
-[^key-acf5106eec3d736e38bdefe3d6993986]: Textual amendment: Words in [s. 137(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/137/3) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 8(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/8/3)
+[^c-acf5106eec3d736e38bdefe3d6993986]: Textual amendment: Words in [s. 137(3)](https://www.legislation.gov.uk/ukpga/1991/57/section/137/3) substituted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(2)(r)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/r), [Sch. 10 para. 8(3)](https://www.legislation.gov.uk/ukpga/2014/21/schedule/10/paragraph/8/3)
 
 [^c18736011]: Marginal citation: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 

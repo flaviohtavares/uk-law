@@ -39,7 +39,7 @@ summary: ''
 > (5)[^c21001261] But where—
 >
 > - (a) the relevant licensing authority is satisfied that the arrangements for the management of the premises by the applicant are sufficient to ensure adequate supervision of the supply of alcohol on the premises, and
-> - (b) if any representations are made pursuant to section 18(6)(c), the authority does not consider the inclusion of the conditions in subsections (2) and (3) to be appropriate[^key-bb3657f2df1955ed9203a35103138fd9] to promote the crime prevention objective,
+> - (b) if any representations are made pursuant to section 18(6)(c), the authority does not consider the inclusion of the conditions in subsections (2) and (3) to be appropriate[^c-bb3657f2df1955ed9203a35103138fd9] to promote the crime prevention objective,
 >
 > the licence must not include the conditions in subsections (2) and (3) but must include the alternative licence condition referred to in section 25A(2) instead.
 
@@ -51,4 +51,4 @@ summary: ''
 
 [^c21001261]: Textual amendment: Word in s. 25(A)(6) substituted (29.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 112](https://www.legislation.gov.uk/ukpga/2009/26/section/112), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116), [Sch. 7 para. 31](https://www.legislation.gov.uk/ukpga/2009/26/schedule/7/paragraph/31); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(t)](https://www.legislation.gov.uk/uksi/2010/125/article/2/t)
 
-[^key-bb3657f2df1955ed9203a35103138fd9]: Textual amendment: Word in s. 25A(6) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/4), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-bb3657f2df1955ed9203a35103138fd9]: Textual amendment: Word in s. 25A(6) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 109(4)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/4), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 109(15)](https://www.legislation.gov.uk/ukpga/2011/13/section/109/15)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

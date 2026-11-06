@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Regulations about reports to the NCA[^key-f8d0709e8adffa2c7b985d743136055e][^key-a945991815c09ecbb0313488cf49e9a8]
+## 67. Regulations about reports to the NCA[^c-f8d0709e8adffa2c7b985d743136055e][^c-a945991815c09ecbb0313488cf49e9a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f8d0709e8adffa2c7b985d743136055e]: Commencement: S. 67 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-f8d0709e8adffa2c7b985d743136055e]: Commencement: S. 67 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-a945991815c09ecbb0313488cf49e9a8]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/50/section/67) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/s)
+[^c-a945991815c09ecbb0313488cf49e9a8]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2023/50/section/67) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/s)

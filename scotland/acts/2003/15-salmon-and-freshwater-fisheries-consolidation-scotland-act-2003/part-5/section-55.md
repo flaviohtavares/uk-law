@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Powers of water bailiffs[^key-7e87dced2174cf88604ba072ee2652c7]
+## 55. Powers of water bailiffs[^c-7e87dced2174cf88604ba072ee2652c7]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e87dced2174cf88604ba072ee2652c7]: Commencement: S. 55 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-7e87dced2174cf88604ba072ee2652c7]: Commencement: S. 55 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

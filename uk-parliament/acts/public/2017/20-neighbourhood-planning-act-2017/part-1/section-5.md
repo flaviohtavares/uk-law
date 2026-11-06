@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Changes to neighbourhood areas etc[^key-92b619354d03f081ae42a58250fb98e7]
+## 5. Changes to neighbourhood areas etc[^c-92b619354d03f081ae42a58250fb98e7]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92b619354d03f081ae42a58250fb98e7]: Commencement: S. 5 in force at 31.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/c)
+[^c-92b619354d03f081ae42a58250fb98e7]: Commencement: S. 5 in force at 31.1.2018 by [S.I. 2018/38](https://www.legislation.gov.uk/uksi/2018/38), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/38/regulation/3/c)

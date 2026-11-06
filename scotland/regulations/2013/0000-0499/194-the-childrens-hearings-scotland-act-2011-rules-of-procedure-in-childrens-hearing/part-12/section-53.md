@@ -30,7 +30,7 @@ summary: ''
 
 (5) As soon as practicable before the beginning of the children's hearing the Reporter must also give the persons mentioned in rule 52(2) any other document or part of a document that is relevant to the issues under section 79 of the Act to be determined by the children's hearing and is in the possession of the Reporter.
 
-(6)[^key-63da13bc2da7c1b7cf81749ded6fbada] Where the children’s hearing will determine in respect of an individual a matter which has been referred under section 79(2)(ba) or (bb) of the Act, and the individual is not a person mentioned in rule 52(2), the Reporter must give to the individual any information (including information contained in a document) that—
+(6)[^c-63da13bc2da7c1b7cf81749ded6fbada] Where the children’s hearing will determine in respect of an individual a matter which has been referred under section 79(2)(ba) or (bb) of the Act, and the individual is not a person mentioned in rule 52(2), the Reporter must give to the individual any information (including information contained in a document) that—
 
 - (a) the Reporter is required by this rule to give to a relevant person, and
 - (b) is either—
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63da13bc2da7c1b7cf81749ded6fbada]: Textual amendment: Rule 53(6)(7) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(24)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/24)
+[^c-63da13bc2da7c1b7cf81749ded6fbada]: Textual amendment: Rule 53(6)(7) inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(24)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/24)

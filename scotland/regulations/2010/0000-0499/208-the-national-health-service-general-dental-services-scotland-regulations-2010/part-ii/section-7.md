@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Grounds for refusal of application[^key-0c81cd6470a9ee639a5995e2d96dd28f]
+## 7. Grounds for refusal of application[^c-0c81cd6470a9ee639a5995e2d96dd28f]
 
 *Extent: S*
 
@@ -42,18 +42,18 @@ summary: ''
 - (m) the applicant is employed by, is in an associateship agreement with, or intends (in the opinion of the Health Board) to be employed by, or in an associateship agreement with, a dentist or a dental body corporate that is disqualified at the time;
 - (n) the applicant provides, or intends to provide services under a contract of service to a dentist or a dental body corporate that is disqualified at the time;
 - (o) the applicant is a partner, of or intends to be a partner of, a dentist or dental body corporate that is disqualified at the time;
-- (p) the Health Board is not satisfied, after an inspection of the premises from where the applicant intends to provide general dental services, that the premises comply with the provisions of paragraph 42 of Schedule 1 which relate to the standards of premises and equipment required for the provision by a contractor of general dental services ;[^key-fd95e58098da88e05c43238bcb452eb9]
+- (p) the Health Board is not satisfied, after an inspection of the premises from where the applicant intends to provide general dental services, that the premises comply with the provisions of paragraph 42 of Schedule 1 which relate to the standards of premises and equipment required for the provision by a contractor of general dental services ;[^c-fd95e58098da88e05c43238bcb452eb9]
 - (q) if the applicant is a dentist, the applicant is not a scheme member;
-- (r) if the applicant is a dentist, the applicant is barred from regulated roles[^key-b991feb6f1b3038ffa33a3b830073d71];
-- (s)[^key-62e0f0760599dc2618133069f6963230] subject to paragraph (1A), in the case of an application by a dentist who indicates that they will only provide enhanced skills in domiciliary care in the area and the dentist is not designated as a domiciliary care dentist in the area;
-- (t)[^key-69b1f1ec3b5caaf322e8980a1cb67251] the applicant is a dentist whose application includes a confirmation that they are applying to be listed provisionally, and
+- (r) if the applicant is a dentist, the applicant is barred from regulated roles[^c-b991feb6f1b3038ffa33a3b830073d71];
+- (s)[^c-62e0f0760599dc2618133069f6963230] subject to paragraph (1A), in the case of an application by a dentist who indicates that they will only provide enhanced skills in domiciliary care in the area and the dentist is not designated as a domiciliary care dentist in the area;
+- (t)[^c-69b1f1ec3b5caaf322e8980a1cb67251] the applicant is a dentist whose application includes a confirmation that they are applying to be listed provisionally, and
   - (i) except where the dentist is a person described in regulation 4B(2), the applicant was previously listed provisionally; and
   - (ii) the Health Board removed the dentist’s name from that dental list under regulation 4A(7) or (8);
 - (u) the applicant is a dentist whose application includes a confirmation that they are applying to be listed provisionally, and the application—
   - (i) includes a request for the dentist to be designated as a domiciliary care dentist; or
   - (ii) states that the applicant is intending to practise as a single-handed practitioner.
 
-(1A)[^key-8c69605220ab6bfc55874ab9049908d3] Where the applicant has made a request to be designated as a domiciliary care dentist in the area and that request is outstanding, the Health Board must not refuse an application on the ground specified in paragraph (1)(s).
+(1A)[^c-8c69605220ab6bfc55874ab9049908d3] Where the applicant has made a request to be designated as a domiciliary care dentist in the area and that request is outstanding, the Health Board must not refuse an application on the ground specified in paragraph (1)(s).
 
 (2) Paragraph (1) is without prejudice to any duty on a Health Board not to add the applicant to a dental list by virtue of regulation 26 (practitioners subject to inquiry) of the National Health Service (Tribunal) (Scotland) Regulations 2004[^f00038].
 
@@ -63,7 +63,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0c81cd6470a9ee639a5995e2d96dd28f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/208/regulation/7) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-0c81cd6470a9ee639a5995e2d96dd28f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2010/208/regulation/7) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
 
 [^f00031]: Footnote: [1983 c.54](https://www.legislation.gov.uk/ukpga/1983/54).
 
@@ -79,14 +79,14 @@ summary: ''
 
 [^f00037]: Footnote: [SR 1995 No. 95](https://www.legislation.gov.uk/nisr/1995/95). Regulation 14(1)(b) was amended by [SR 2002 No. 69](https://www.legislation.gov.uk/nisr/2002/69).
 
-[^key-fd95e58098da88e05c43238bcb452eb9]: Textual amendment: [Reg. 7(1)(q)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/q)[(r)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/r) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [3(5)](https://www.legislation.gov.uk/ssi/2010/378/regulation/3/5) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
+[^c-fd95e58098da88e05c43238bcb452eb9]: Textual amendment: [Reg. 7(1)(q)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/q)[(r)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/r) inserted (28.2.2011) by [The National Health Service (General Ophthalmic Services and General Dental Services) (Scotland) Amendment Regulations 2010 (S.S.I. 2010/378)](https://www.legislation.gov.uk/ssi/2010/378), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/378/regulation/1/1), [3(5)](https://www.legislation.gov.uk/ssi/2010/378/regulation/3/5) (with [reg. 4](https://www.legislation.gov.uk/ssi/2010/378/regulation/4))
 
-[^key-b991feb6f1b3038ffa33a3b830073d71]: Textual amendment: Word in [reg. 7(1)(r)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/r) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 13(5)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/13/5); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
+[^c-b991feb6f1b3038ffa33a3b830073d71]: Textual amendment: Word in [reg. 7(1)(r)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/r) substituted (1.4.2025) by [The Disclosure (Scotland) Act 2020 (Incidental, Supplementary and Consequential Provision) Regulations 2025 (S.S.I. 2025/74)](https://www.legislation.gov.uk/ssi/2025/74), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/74/regulation/1/1), [sch. 1 para. 13(5)](https://www.legislation.gov.uk/ssi/2025/74/schedule/1/paragraph/13/5); [S.S.I. 2025/27](https://www.legislation.gov.uk/ssi/2025/27), [reg. 3](https://www.legislation.gov.uk/ssi/2025/27/regulation/3), [sch.](https://www.legislation.gov.uk/ssi/2025/27/schedule)
 
-[^key-62e0f0760599dc2618133069f6963230]: Textual amendment: [Reg. 7(1)(s)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/s) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2019/174/regulation/9/a)
+[^c-62e0f0760599dc2618133069f6963230]: Textual amendment: [Reg. 7(1)(s)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/s) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [9(a)](https://www.legislation.gov.uk/ssi/2019/174/regulation/9/a)
 
-[^key-69b1f1ec3b5caaf322e8980a1cb67251]: Textual amendment: [Reg. 7(1)(t)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/t)[(u)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/u) inserted (31.1.2026) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2025/380/regulation/9)
+[^c-69b1f1ec3b5caaf322e8980a1cb67251]: Textual amendment: [Reg. 7(1)(t)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/t)[(u)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1/u) inserted (31.1.2026) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2025 (S.S.I. 2025/380)](https://www.legislation.gov.uk/ssi/2025/380), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2025/380/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2025/380/regulation/9)
 
-[^key-8c69605220ab6bfc55874ab9049908d3]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1A) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2019/174/regulation/9/b)
+[^c-8c69605220ab6bfc55874ab9049908d3]: Textual amendment: [Reg. 7(1A)](https://www.legislation.gov.uk/ssi/2010/208/regulation/7/1A) inserted (1.7.2019) by [The National Health Service (General Dental Services) (Scotland) Amendment Regulations 2019 (S.S.I. 2019/174)](https://www.legislation.gov.uk/ssi/2019/174), [regs. 1](https://www.legislation.gov.uk/ssi/2019/174/regulation/1), [9(b)](https://www.legislation.gov.uk/ssi/2019/174/regulation/9/b)
 
 [^f00038]: Footnote: [S.S.I. 2004/38](https://www.legislation.gov.uk/ssi/2004/38) as amended by [S.S.I. 2004/122](https://www.legislation.gov.uk/ssi/2004/122), [271](https://www.legislation.gov.uk/ssi/2004/271), [2005/335](https://www.legislation.gov.uk/ssi/2005/335), [2006/122](https://www.legislation.gov.uk/ssi/2006/122) and [2009/319](https://www.legislation.gov.uk/ssi/2009/319).

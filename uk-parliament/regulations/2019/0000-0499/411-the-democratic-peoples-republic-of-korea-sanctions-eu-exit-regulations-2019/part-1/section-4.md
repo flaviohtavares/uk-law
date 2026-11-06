@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Purposes[^key-91e9fb424888c364d816bdb7eeade483][^key-00c80c13c162bf81386867be1cf12dc7]
+## 4. Purposes[^c-91e9fb424888c364d816bdb7eeade483][^c-00c80c13c162bf81386867be1cf12dc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,8 +105,8 @@ otherwise than by compliance with the relevant UN obligations.
 
 ## Annotations
 
-[^key-91e9fb424888c364d816bdb7eeade483]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-91e9fb424888c364d816bdb7eeade483]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-00c80c13c162bf81386867be1cf12dc7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/411/regulation/4) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/1/c)
+[^c-00c80c13c162bf81386867be1cf12dc7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/411/regulation/4) in force at 25.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(1)(c)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/1/c)
 
 [^c23636401]: Marginal citation: “Person” is defined by section 9(5) of the Sanctions and Anti-Money Laundering Act 2018 to include (in addition to an individual and a body of persons corporate or unincorporate) any organisation and any association or combination of persons.

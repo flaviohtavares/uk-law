@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Amendment of regulation 17 (form and content of a registration)[^key-af56ebb36d6d54e09de8ec400b367067]
+## 11. Amendment of regulation 17 (form and content of a registration)[^c-af56ebb36d6d54e09de8ec400b367067]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In regulation 17 (form and content of a registration)—
 
 ## Annotations
 
-[^key-af56ebb36d6d54e09de8ec400b367067]: Commencement: Reg. 11 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-af56ebb36d6d54e09de8ec400b367067]: Commencement: Reg. 11 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

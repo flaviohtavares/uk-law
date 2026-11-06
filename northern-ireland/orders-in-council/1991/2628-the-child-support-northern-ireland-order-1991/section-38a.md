@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38A. Penalty payments[^key-481281e9c8b04bbc030dd43b137c6a25][^M_F_a3a99f9e-06fd-48cd-dd90-01b9d0d1f2ed]
+## 38A. Penalty payments[^c-481281e9c8b04bbc030dd43b137c6a25][^M_F_a3a99f9e-06fd-48cd-dd90-01b9d0d1f2ed]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ apply equally (with any necessary modifications) to penalty payments payable by 
 
 ## Annotations
 
-[^key-481281e9c8b04bbc030dd43b137c6a25]: Modification: [Art. 38A(5)](https://www.legislation.gov.uk/nisi/1991/2628/article/38A/5/c) (as originally enacted) repealed in part (14.7.2008 for specified purposes, 27.10.2008 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(29)(a)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/29/a) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2008/291/article/2/2/b) (with [art. 2(3)](https://www.legislation.gov.uk/nisr/2008/291/article/2/3)[(4)](https://www.legislation.gov.uk/nisr/2008/291/article/2/4)); [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 2](https://www.legislation.gov.uk/nisr/2008/419/article/2)
+[^c-481281e9c8b04bbc030dd43b137c6a25]: Modification: [Art. 38A(5)](https://www.legislation.gov.uk/nisi/1991/2628/article/38A/5/c) (as originally enacted) repealed in part (14.7.2008 for specified purposes, 27.10.2008 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(29)(a)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/29/a) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2008/291](https://www.legislation.gov.uk/nisr/2008/291), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2008/291/article/2/2/b) (with [art. 2(3)](https://www.legislation.gov.uk/nisr/2008/291/article/2/3)[(4)](https://www.legislation.gov.uk/nisr/2008/291/article/2/4)); [S.R. 2008/419](https://www.legislation.gov.uk/nisr/2008/419), [art. 2](https://www.legislation.gov.uk/nisr/2008/419/article/2)
 
 [^M_F_a3a99f9e-06fd-48cd-dd90-01b9d0d1f2ed]: Textual amendment: [Art. 38A](https://www.legislation.gov.uk/nisi/1991/2628/article/38A) substituted (22.11.2000 and 3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 17(2)](https://www.legislation.gov.uk/nia/2000/4/section/17/2), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2); [S.R. 2000/358](https://www.legislation.gov.uk/nisr/2000/358), [art. 2(b)](https://www.legislation.gov.uk/nisr/2000/358/article/2/b), [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2000/358/schedule/part/II); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3(1)](https://www.legislation.gov.uk/nisr/2003/53/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)

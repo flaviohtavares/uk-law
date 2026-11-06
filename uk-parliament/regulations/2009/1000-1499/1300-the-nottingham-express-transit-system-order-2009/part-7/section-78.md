@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 78. Defence to proceedings in respect of statutory nuisance[^key-f5b8d2a130ea21c39cfd5c0850e064bc]
+## 78. Defence to proceedings in respect of statutory nuisance[^c-f5b8d2a130ea21c39cfd5c0850e064bc]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ shall not apply where the consent relates to the use of premises by the promoter
 
 ## Annotations
 
-[^key-f5b8d2a130ea21c39cfd5c0850e064bc]: Commencement: Art. 78 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-f5b8d2a130ea21c39cfd5c0850e064bc]: Commencement: Art. 78 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
 
 [^f00046]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 

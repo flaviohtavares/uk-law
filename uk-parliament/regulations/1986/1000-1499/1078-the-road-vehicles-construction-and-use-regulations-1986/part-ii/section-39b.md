@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-**39B.**[^key-da06cb40f2cb53852d9bae42bf815d4d] (1) Subject to paragraph (2), every fuel tank fitted to a vehicle to which regulation 39A applies shall be so constructed and fitted that it cannot readily be filled from a petrol pump delivery nozzle which has an external diameter of 23.6mm or greater without the aid of a device (such as a funnel) not fitted to the vehicle.
+**39B.**[^c-da06cb40f2cb53852d9bae42bf815d4d] (1) Subject to paragraph (2), every fuel tank fitted to a vehicle to which regulation 39A applies shall be so constructed and fitted that it cannot readily be filled from a petrol pump delivery nozzle which has an external diameter of 23.6mm or greater without the aid of a device (such as a funnel) not fitted to the vehicle.
 
 (2) Paragraph (1) does not apply to a vehicle in respect of which both of the following conditions are satisfied, that is to say —
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da06cb40f2cb53852d9bae42bf815d4d]: Textual amendment: [Regs. 39A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/39A), [39B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/39B) inserted (1.10.1988) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1988 (S.I. 1988/1524)](https://www.legislation.gov.uk/uksi/1988/1524), [regs. 1](https://www.legislation.gov.uk/uksi/1988/1524/regulation/1), [5](https://www.legislation.gov.uk/uksi/1988/1524/regulation/5)
+[^c-da06cb40f2cb53852d9bae42bf815d4d]: Textual amendment: [Regs. 39A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/39A), [39B](https://www.legislation.gov.uk/uksi/1986/1078/regulation/39B) inserted (1.10.1988) by [The Road Vehicles (Construction and Use) (Amendment) (No. 6) Regulations 1988 (S.I. 1988/1524)](https://www.legislation.gov.uk/uksi/1988/1524), [regs. 1](https://www.legislation.gov.uk/uksi/1988/1524/regulation/1), [5](https://www.legislation.gov.uk/uksi/1988/1524/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Aims of National Parks[^key-971a0539da57b1071c82c0ba97f3f6d3][^key-d4943de26bd948c6347b76d8596e56d9]
+## 3. Aims of National Parks[^c-971a0539da57b1071c82c0ba97f3f6d3][^c-d4943de26bd948c6347b76d8596e56d9]
 
 *Extent: S*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-971a0539da57b1071c82c0ba97f3f6d3]: Commencement: S. 3 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-971a0539da57b1071c82c0ba97f3f6d3]: Commencement: S. 3 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-d4943de26bd948c6347b76d8596e56d9]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/6/section/3) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/a)
+[^c-d4943de26bd948c6347b76d8596e56d9]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2026/6/section/3) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/a)

@@ -106,7 +106,7 @@ Section 132.
 
 **9.** In section 412(4) of the Taxes Act 1988 (group relief: power to assess under section 412(3) is without prejudice to the making of assessments under section 29(3)(c) of the Taxes Management Act 1970) for “section 29(3)(c)” there shall be substituted “ section 29(1)(c) ”.
 
-**10.**[^key-2fde1dbc0152f5d8e29f98a5e9ccfa32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-2fde1dbc0152f5d8e29f98a5e9ccfa32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.** (1) Schedule 14 to the Taxes Act 1988 (life assurance premium relief: provisions ancillary to section 266) shall be amended in accordance with the following provisions of this paragraph.
 
@@ -221,12 +221,12 @@ Section 132.
 
 ### Commencement
 
-**17.** (1) Paragraphs 1 to 3, 6(2)(a) and (b), 8, [^key-689cb998c02dc06000c268a1f1ebd37a]... 11(3)(a) and (b), 12(2)(a) and (b)[^c14617511], 14(2)(a) and (b) and 16(a) above have effect, subject to sub-paragraph (2) below—
+**17.** (1) Paragraphs 1 to 3, 6(2)(a) and (b), 8, [^c-689cb998c02dc06000c268a1f1ebd37a]... 11(3)(a) and (b), 12(2)(a) and (b)[^c14617511], 14(2)(a) and (b) and 16(a) above have effect, subject to sub-paragraph (2) below—
 
 - (a) for the purposes of income tax and capital gains tax, as respects the year 1996-97 and subsequent years of assessment; and
 - (b) for the purposes of corporation tax, as respects accounting periods ending on or after the day appointed under section 199 of the [^c14617521]Finance Act 1994 for the purposes of Chapter III of Part IV of that Act (self-assessment management provisions).
 
-(2) Paragraphs 1, 3, 6(2)(a) and (b), [^key-689cb998c02dc06000c268a1f1ebd37a]... 11(3)(a) and (b), 12(2)(a) and (b) and 14(2)(a) and (b) above, so far as relating to partnerships whose trades, professions or businesses were set up and commenced before 6th April 1994, has effect as respects the year 1997-98 and subsequent years of assessment.
+(2) Paragraphs 1, 3, 6(2)(a) and (b), [^c-689cb998c02dc06000c268a1f1ebd37a]... 11(3)(a) and (b), 12(2)(a) and (b) and 14(2)(a) and (b) above, so far as relating to partnerships whose trades, professions or businesses were set up and commenced before 6th April 1994, has effect as respects the year 1997-98 and subsequent years of assessment.
 
 (3) Paragraphs 4, 5, 6(2)(c) and (3), 11(3)(c) and (4), 12(2)(c) and (3), 13, 14(2)(c) and (3), 15 and 16(b) and (c) above have effect, subject to sub-paragraph (4) below—
 
@@ -285,7 +285,7 @@ so far as those words relate to the words mentioned in paragraph (a) of this sub
 
 [^c14617351]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-2fde1dbc0152f5d8e29f98a5e9ccfa32]: Textual amendment: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/10) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-2fde1dbc0152f5d8e29f98a5e9ccfa32]: Textual amendment: [Sch. 18 para. 10](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/10) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c14617361]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
@@ -305,7 +305,7 @@ so far as those words relate to the words mentioned in paragraph (a) of this sub
 
 [^c14617481]: Marginal citation: [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4).
 
-[^key-689cb998c02dc06000c268a1f1ebd37a]: Textual amendment: Word in [Sch. 18 para. 17(1)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/17/1)[(2)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/17/2) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-689cb998c02dc06000c268a1f1ebd37a]: Textual amendment: Word in [Sch. 18 para. 17(1)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/17/1)[(2)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/17/2) repealed (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/2005/5/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
 
 [^c14617511]: Textual amendment: Words in Sch. 18 para. 17(1)-(4)(8) repealed (31.7.1997 with effect as mentioned in Sch. 8 Pt. II(2), Note of the amending Act) by [1997 c. 58](https://www.legislation.gov.uk/ukpga/1997/58), [s. 52](https://www.legislation.gov.uk/ukpga/1997/58/section/52), [Sch. 8 Pt. II(2)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/8/part/II/2)
 

@@ -61,7 +61,7 @@ In exercise of the powers conferred by section 2(2) of that Act, and also by sec
 - [Section 1 — Citation and commencement](section-1.md)
 - [Section 2 — Interpretation](section-2.md)
 
-### PART 1 — Amendment of the 1999 Offshore Regulations[^key-b2ed3240407613b06db8e90a1fe044bd]
+### PART 1 — Amendment of the 1999 Offshore Regulations[^c-b2ed3240407613b06db8e90a1fe044bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -211,7 +211,7 @@ An assessment of the effect that these Regulations will have on the costs of bus
 
 [^f00005]: Footnote: [1973 c.51](https://www.legislation.gov.uk/ukpga/1973/51); section 56(1) was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). The consent of HM Treasury is required to make regulations under section 56(1) of the Finance Act 1973.
 
-[^key-b2ed3240407613b06db8e90a1fe044bd]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2017/582/part/1) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/d) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
+[^c-b2ed3240407613b06db8e90a1fe044bd]: Textual amendment: [Pt. 1](https://www.legislation.gov.uk/uksi/2017/582/part/1) omitted (31.12.2020 immediately before 11 p.m.) by virtue of [The Offshore Oil and Gas Exploration, Production, Unloading and Storage (Environmental Impact Assessment) Regulations 2020 (S.I. 2020/1497)](https://www.legislation.gov.uk/uksi/2020/1497), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/1), [2(4)(d)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/2/4/d) (with [reg. 1(2)-(6)](https://www.legislation.gov.uk/uksi/2020/1497/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2020/1497/regulation/20))
 
 [^f00037]: Footnote: OJ L 124, 25.4.2014, p.1.
 

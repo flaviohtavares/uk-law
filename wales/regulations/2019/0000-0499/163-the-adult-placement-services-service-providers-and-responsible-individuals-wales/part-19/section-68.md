@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Designation of responsible individual by Welsh Ministers[^key-7462cd7c9c98e9b0a0a2a80d8e490882]
+## 68. Designation of responsible individual by Welsh Ministers[^c-7462cd7c9c98e9b0a0a2a80d8e490882]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ The Welsh Ministers (instead of a service provider) may designate an individual 
 
 ## Annotations
 
-[^key-7462cd7c9c98e9b0a0a2a80d8e490882]: Commencement: [Reg. 68](https://www.legislation.gov.uk/wsi/2019/163/regulation/68) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-7462cd7c9c98e9b0a0a2a80d8e490882]: Commencement: [Reg. 68](https://www.legislation.gov.uk/wsi/2019/163/regulation/68) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

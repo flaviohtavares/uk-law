@@ -44,7 +44,7 @@ The Secretary of State for Work and Pensions has made an Order[^f00003] under se
 
 Accordingly the Department for Communities makes the following Order.
 
-## 1. Citation, commencement and interpretation[^key-b8d7487176e441a1b8de86e2e7c360ee][^key-d8404927990a456cc36af6d2371eb0a7][^key-17100b04a78c5225182d7716f0bb756a]
+## 1. Citation, commencement and interpretation[^c-b8d7487176e441a1b8de86e2e7c360ee][^c-d8404927990a456cc36af6d2371eb0a7][^c-17100b04a78c5225182d7716f0bb756a]
 
 (1) This Order may be cited as the State Pension Debits and Credits (Revaluation) Order (Northern Ireland) 2022 and shall come into operation on—
 
@@ -53,7 +53,7 @@ Accordingly the Department for Communities makes the following Order.
 
 (2) In this Article “**a state pension**” means a state pension under Part 1 of the Pensions Act (Northern Ireland) 2015[^f00007].
 
-## 2. The increase in the amount of relevant debits or credits[^key-36b2d60c7f870c12ac6d8f0e967cc635][^key-478f985ad556fe63b2ca0cef6e493bf6][^key-fac13c631c833fd454ce90c23bdc4465]
+## 2. The increase in the amount of relevant debits or credits[^c-36b2d60c7f870c12ac6d8f0e967cc635][^c-478f985ad556fe63b2ca0cef6e493bf6][^c-fac13c631c833fd454ce90c23bdc4465]
 
 For the purposes of paragraph 3 of each of Schedules 8 and 10 to the Pensions Act (Northern Ireland) 2015 (pension sharing: appropriate weekly rate and reduction), the amount of relevant debits or credits for the tax year specified in the first column of the table set out in the Schedule to this Order is directed to be increased by the percentage of their amount specified in the corresponding entry in the second column.
 
@@ -65,7 +65,7 @@ Anne McCleary
 
 A senior officer of the Department for Communities
 
-## SCHEDULE — Percentage increase of the amounts of relevant debits or credits for specified tax years[^key-a0ce4f75c5d03c12cdf4abf5314f9f98][^key-9d4f26f89973511efa0c0d759f83d461][^key-471167ba0440b9465c685fa74680ab8f]
+## SCHEDULE — Percentage increase of the amounts of relevant debits or credits for specified tax years[^c-a0ce4f75c5d03c12cdf4abf5314f9f98][^c-9d4f26f89973511efa0c0d759f83d461][^c-471167ba0440b9465c685fa74680ab8f]
 
 Article 2
 
@@ -101,11 +101,11 @@ Article 1(1) ensures that the revaluation of relevant debits or credits will app
 
 [^f00004]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5)
 
-[^key-b8d7487176e441a1b8de86e2e7c360ee]: Commencement: Art. 1 in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1)
+[^c-b8d7487176e441a1b8de86e2e7c360ee]: Commencement: Art. 1 in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1)
 
-[^key-d8404927990a456cc36af6d2371eb0a7]: Commencement: Art. 1 in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/a)
+[^c-d8404927990a456cc36af6d2371eb0a7]: Commencement: Art. 1 in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/a)
 
-[^key-17100b04a78c5225182d7716f0bb756a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2022/297/article/1) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/b)
+[^c-17100b04a78c5225182d7716f0bb756a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2022/297/article/1) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/b)
 
 [^f00005]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465); regulation 15(1) was amended by regulation 2(6) of [S.R. 2005 No. 299](https://www.legislation.gov.uk/nisr/2005/299) and Article 9(7)(a) of [S.R. 2015 No. 411](https://www.legislation.gov.uk/nisr/2015/411)
 
@@ -113,14 +113,14 @@ Article 1(1) ensures that the revaluation of relevant debits or credits will app
 
 [^f00007]: Footnote: [2015 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2015/5)
 
-[^key-36b2d60c7f870c12ac6d8f0e967cc635]: Commencement: Art. 2 in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1)
+[^c-36b2d60c7f870c12ac6d8f0e967cc635]: Commencement: Art. 2 in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1)
 
-[^key-478f985ad556fe63b2ca0cef6e493bf6]: Commencement: Art. 2 in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/a)
+[^c-478f985ad556fe63b2ca0cef6e493bf6]: Commencement: Art. 2 in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/a)
 
-[^key-fac13c631c833fd454ce90c23bdc4465]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/297/article/2) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/b)
+[^c-fac13c631c833fd454ce90c23bdc4465]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/297/article/2) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/b)
 
-[^key-a0ce4f75c5d03c12cdf4abf5314f9f98]: Commencement: Sch. in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1)
+[^c-a0ce4f75c5d03c12cdf4abf5314f9f98]: Commencement: Sch. in operation at 21.12.2022, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1)
 
-[^key-9d4f26f89973511efa0c0d759f83d461]: Commencement: Sch. in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/a)
+[^c-9d4f26f89973511efa0c0d759f83d461]: Commencement: Sch. in operation at 21.12.2022 for specified purposes, see [art. 1(1)(a)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/a)
 
-[^key-471167ba0440b9465c685fa74680ab8f]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2022/297/schedule) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/b)
+[^c-471167ba0440b9465c685fa74680ab8f]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2022/297/schedule) in operation at 10.4.2023 in so far as not already in operation, see [art. 1(1)(b)](https://www.legislation.gov.uk/nisr/2022/297/article/1/1/b)

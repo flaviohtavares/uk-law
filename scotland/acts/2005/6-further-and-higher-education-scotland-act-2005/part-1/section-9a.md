@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9A. Higher education institutions: good governance[^key-61a45d0bd7585bad877b81ac71d1a2fb]
+## 9A. Higher education institutions: good governance[^c-61a45d0bd7585bad877b81ac71d1a2fb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Scottish Ministers may, under section 9(2), impose a condition that the Coun
 
 ## Annotations
 
-[^key-61a45d0bd7585bad877b81ac71d1a2fb]: Textual amendment: S. 9A inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 2](https://www.legislation.gov.uk/asp/2013/12/section/2), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)
+[^c-61a45d0bd7585bad877b81ac71d1a2fb]: Textual amendment: S. 9A inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 2](https://www.legislation.gov.uk/asp/2013/12/section/2), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1)

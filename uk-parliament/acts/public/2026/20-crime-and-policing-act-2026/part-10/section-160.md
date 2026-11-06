@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Possession of pyrotechnic articles at protests[^key-1e2cf015d6e856df06ae96eaf95dafb9][^key-5b025015c718a0b0b602c400ccbefd4e]
+## 160. Possession of pyrotechnic articles at protests[^c-1e2cf015d6e856df06ae96eaf95dafb9][^c-5b025015c718a0b0b602c400ccbefd4e]
 
 *Extent: E+W*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e2cf015d6e856df06ae96eaf95dafb9]: Commencement: S. 160 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1e2cf015d6e856df06ae96eaf95dafb9]: Commencement: S. 160 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5b025015c718a0b0b602c400ccbefd4e]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2026/20/section/160) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/m)
+[^c-5b025015c718a0b0b602c400ccbefd4e]: Commencement: [S. 160](https://www.legislation.gov.uk/ukpga/2026/20/section/160) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(m)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/m)

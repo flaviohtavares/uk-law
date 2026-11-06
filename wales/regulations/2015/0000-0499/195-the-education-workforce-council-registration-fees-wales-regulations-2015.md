@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The Education Workforce Council (Registration Fees) (Wales) Regulations 2015 (revoked)[^key-917de5f65be48db59f196e4ea373912f]
+The Education Workforce Council (Registration Fees) (Wales) Regulations 2015 (revoked)[^c-917de5f65be48db59f196e4ea373912f]
 
 Made
 
@@ -41,78 +41,78 @@ Coming into force
 
 1 April 2015
 
-[^key-917de5f65be48db59f196e4ea373912f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-917de5f65be48db59f196e4ea373912f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and revocation[^key-917de5f65be48db59f196e4ea373912f]
+## 1. Title, commencement, application and revocation[^c-917de5f65be48db59f196e4ea373912f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-917de5f65be48db59f196e4ea373912f]
+## 2. Interpretation[^c-917de5f65be48db59f196e4ea373912f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amount of registration fee payable[^key-917de5f65be48db59f196e4ea373912f]
+## 3. Amount of registration fee payable[^c-917de5f65be48db59f196e4ea373912f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Information to be supplied by an employer to the Council on request[^key-917de5f65be48db59f196e4ea373912f]
+## 4. Information to be supplied by an employer to the Council on request[^c-917de5f65be48db59f196e4ea373912f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Deduction of fee[^key-917de5f65be48db59f196e4ea373912f]
+## 5. Deduction of fee[^c-917de5f65be48db59f196e4ea373912f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Remittance of fees to the Council[^key-917de5f65be48db59f196e4ea373912f]
+## 6. Remittance of fees to the Council[^c-917de5f65be48db59f196e4ea373912f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Information to be supplied to the Council by the employer with the fee[^key-917de5f65be48db59f196e4ea373912f]
+## 7. Information to be supplied to the Council by the employer with the fee[^c-917de5f65be48db59f196e4ea373912f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Failure to discharge duty[^key-917de5f65be48db59f196e4ea373912f]
+## 8. Failure to discharge duty[^c-917de5f65be48db59f196e4ea373912f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-917de5f65be48db59f196e4ea373912f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-917de5f65be48db59f196e4ea373912f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — REGULATIONS REVOKED[^key-917de5f65be48db59f196e4ea373912f]
+## SCHEDULE 1 — REGULATIONS REVOKED[^c-917de5f65be48db59f196e4ea373912f]
 
 Regulation 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — INFORMATION TO BE SUPPLIED TO THE COUNCIL[^key-917de5f65be48db59f196e4ea373912f]
+## SCHEDULE 2 — INFORMATION TO BE SUPPLIED TO THE COUNCIL[^c-917de5f65be48db59f196e4ea373912f]
 
 Regulation 4
 
-**1.**[^key-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-917de5f65be48db59f196e4ea373912f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-917de5f65be48db59f196e4ea373912f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-917de5f65be48db59f196e4ea373912f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-917de5f65be48db59f196e4ea373912f]: Textual amendment: Regulations revoked (1.4.2016) by [The Education Workforce Council (Registration Fees) (Wales) Regulations 2016 (S.I. 2016/27)](https://www.legislation.gov.uk/uksi/2016/27), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/27/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/27/regulation/2)
+[^c-917de5f65be48db59f196e4ea373912f]: Textual amendment: Regulations revoked (1.4.2016) by [The Education Workforce Council (Registration Fees) (Wales) Regulations 2016 (S.I. 2016/27)](https://www.legislation.gov.uk/uksi/2016/27), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/27/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2016/27/regulation/2)

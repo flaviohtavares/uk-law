@@ -22,12 +22,12 @@ summary: ''
 
 Section 140A
 
-### Requirement to notify Commission of political contributions over £37,270[^key-c372a744ebe40c9e5ae688ba02a7fbf8]
+### Requirement to notify Commission of political contributions over £37,270[^c-c372a744ebe40c9e5ae688ba02a7fbf8]
 
-**1.**[^key-6632cec63e2aba5a697d404a344ffd8f] (1) Where in any calendar year an unincorporated association falling within section 54(2)(h)—
+**1.**[^c-6632cec63e2aba5a697d404a344ffd8f] (1) Where in any calendar year an unincorporated association falling within section 54(2)(h)—
 
-- (a) makes a political contribution of more than £37,270[^key-64482d8c19b2e5c0b919523148d6f711], not having previously made any political contributions in that year, or
-- (b) makes a political contribution which takes the total amount of such contributions made by it in that year above £37,270[^key-e6ef8f98dff9ea2221f1212e60c6c928],
+- (a) makes a political contribution of more than £37,270[^c-64482d8c19b2e5c0b919523148d6f711], not having previously made any political contributions in that year, or
+- (b) makes a political contribution which takes the total amount of such contributions made by it in that year above £37,270[^c-e6ef8f98dff9ea2221f1212e60c6c928],
 
 the association must notify the Commission accordingly within the period of 30 days beginning with the date on which the contribution was made.
 
@@ -39,13 +39,13 @@ the association must notify the Commission accordingly within the period of 30 d
 - (d) it makes a loan of money to a regulated donee, or discharges (to any extent) a liability of a regulated donee, in pursuance of a controlled transaction (within the meaning of Schedule 7A);
 - (e) it makes a donation (within the meaning of Schedule 11) to a recognised third party;
 - (f) it makes a donation (within the meaning of Schedule 15) to a permitted participant.
-- (g)[^key-e3c0448e8bc01ddcdbdef92882b86842] it makes a relevant donation within the meaning of Schedule 4 to the Recall of MPs Act 2015 (see Part 1 of that Schedule) to an accredited campaigner.
+- (g)[^c-e3c0448e8bc01ddcdbdef92882b86842] it makes a relevant donation within the meaning of Schedule 4 to the Recall of MPs Act 2015 (see Part 1 of that Schedule) to an accredited campaigner.
 
 (3) For the purposes of sub-paragraph (1)(b) a contribution is not counted towards the total unless it is a contribution of more than £500.
 
 (4) In this paragraph—
 
-- “[^key-ad9b03d8b59eb7d7218aae66f2ab04ac]**accredited campaigner**” has the same meaning as in Schedule 3 to the Recall of MPs Act 2015 (see Part 5 of that Schedule);
+- “[^c-ad9b03d8b59eb7d7218aae66f2ab04ac]**accredited campaigner**” has the same meaning as in Schedule 3 to the Recall of MPs Act 2015 (see Part 5 of that Schedule);
 - “**permitted participant**” has the meaning given in section 105 except that it does not include a registered party other than a minor party;
 - “**recognised third party**” has the meaning given in section 85;
 - “**regulated donee**” has the meaning given in Part 1 of Schedule 7.
@@ -57,7 +57,7 @@ the association must notify the Commission accordingly within the period of 30 d
 - (c) the value of a donation to a recognised third party shall be determined in accordance with paragraph 5 of Schedule 11;
 - (d) the value of a donation to a permitted participant shall be determined in accordance with paragraph 5 of Schedule 15;
 - (e) the value of a contribution within sub-paragraph (2)(b) or (d) is the amount of money lent or liability discharged.
-- (f)[^key-f55ece93386ac602840237a2e1f88cd9] the value of a donation to an accredited campaigner shall be determined in accordance with paragraph 5 of Schedule 4 to the Recall of MPs Act 2015.
+- (f)[^c-f55ece93386ac602840237a2e1f88cd9] the value of a donation to an accredited campaigner shall be determined in accordance with paragraph 5 of Schedule 4 to the Recall of MPs Act 2015.
 
 (6) Where a donation, or a sum of money lent, is sent on one day and received on another, the donation or loan is treated for the purposes of this paragraph as made on the earlier of those days.
 
@@ -70,7 +70,7 @@ the association must notify the Commission accordingly within the period of 30 d
 
 (2) Within the period of 60 days beginning with the contribution date, the unincorporated association must make a report to the Commission—
 
-- (a) specifying every gift of more than £11,180[^key-08593d66d9e8a8de9b70db942a170c15] received by the association in the period—
+- (a) specifying every gift of more than £11,180[^c-08593d66d9e8a8de9b70db942a170c15] received by the association in the period—
   - (i) beginning at the start of the calendar year preceding the year in which the contribution date falls, and
   - (ii) ending with the contribution date,
 
@@ -79,7 +79,7 @@ the association must notify the Commission accordingly within the period of 30 d
 
 (3) Within the period of 30 days following the end of the first quarter to begin after the contribution date, the unincorporated association must make a report to the Commission—
 
-- (a) specifying every gift of more than £11,180[^key-0fc700fd85d6a527f1c203dcb6f6daba] received by the association in the period—
+- (a) specifying every gift of more than £11,180[^c-0fc700fd85d6a527f1c203dcb6f6daba] received by the association in the period—
   - (i) beginning with the day after the contribution date, and
   - (ii) ending with the end of the quarter,
 
@@ -88,20 +88,20 @@ the association must notify the Commission accordingly within the period of 30 d
 
 (4) In relation to each subsequent quarter ending in the calendar year in which the contribution date falls or in the following calendar year, the unincorporated association must within the period of 30 days following the end of the quarter make a report to the Commission—
 
-- (a) specifying every gift of more than £11,180[^key-0fab0d1b121a8d301bcb89fa732dbdd4] received by the association in the quarter, or
+- (a) specifying every gift of more than £11,180[^c-0fab0d1b121a8d301bcb89fa732dbdd4] received by the association in the quarter, or
 - (b) (if it is the case) stating that the association received no such gifts in the quarter.
 
 (5) Where—
 
 - (a) an unincorporated association receives two or more gifts of more than £500 from the same person in the same calendar year, and
-- (b) those gifts amount to more than £11,180[^key-ab4d24a11f14b48cc0a262cdfef7cda1] in total,
+- (b) those gifts amount to more than £11,180[^c-ab4d24a11f14b48cc0a262cdfef7cda1] in total,
 
 the association is treated for the purposes of this paragraph as receiving a gift of more than £11,180 on the day on which it receives the gift that takes the total amount of gifts from that person in that year above £11,180.
 
 (6) Where—
 
-- (a) an unincorporated association receives (or is treated by sub-paragraph (5) as receiving) a gift of more than £11,180[^key-504af09b62aac1f1c4dbfb07457f88b9] from a particular person, and
-- (b) later in the same calendar year the association receives a gift of more than £2,230[^key-0c505ab1b7cd54b557b5e3a47ccbcca6] from the same person,
+- (a) an unincorporated association receives (or is treated by sub-paragraph (5) as receiving) a gift of more than £11,180[^c-504af09b62aac1f1c4dbfb07457f88b9] from a particular person, and
+- (b) later in the same calendar year the association receives a gift of more than £2,230[^c-0c505ab1b7cd54b557b5e3a47ccbcca6] from the same person,
 
 that subsequent gift is treated for the purposes of this paragraph in the same way as a gift of more than £11,180.
 
@@ -224,28 +224,28 @@ which fails to comply with any requirement of this Schedule applying to the noti
 
 [^c20262511]: Textual amendment: Sch. 19A inserted (21.7.2009) by [Political Parties and Elections Act 2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2009/12/section/19/2), [43(1)(5)(c)](https://www.legislation.gov.uk/ukpga/2009/12/section/43/1/5/c), [Sch. 5](https://www.legislation.gov.uk/ukpga/2009/12/schedule/5) (with [s. 19(8)](https://www.legislation.gov.uk/ukpga/2009/12/section/19/8))
 
-[^key-c372a744ebe40c9e5ae688ba02a7fbf8]: Textual amendment: Sum in [Sch. 19A para. 1 cross-heading](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/crossheading/requirement-to-notify-commission-of-political-contributions-over-25000) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(4)(a)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/4/a)
+[^c-c372a744ebe40c9e5ae688ba02a7fbf8]: Textual amendment: Sum in [Sch. 19A para. 1 cross-heading](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/crossheading/requirement-to-notify-commission-of-political-contributions-over-25000) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(4)(a)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/4/a)
 
-[^key-6632cec63e2aba5a697d404a344ffd8f]: Modification: Sch. 19A para. 1 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/6) (with [Sch. 2 para. 2(8)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/8)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-6632cec63e2aba5a697d404a344ffd8f]: Modification: Sch. 19A para. 1 modified (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 2 para. 2(6)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/6) (with [Sch. 2 para. 2(8)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/2/paragraph/2/8)); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
 
-[^key-64482d8c19b2e5c0b919523148d6f711]: Textual amendment: Sum in [Sch. 19A para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/1/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(4)(b)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/4/b)
+[^c-64482d8c19b2e5c0b919523148d6f711]: Textual amendment: Sum in [Sch. 19A para. 1(1)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/1/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(4)(b)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/4/b)
 
-[^key-e6ef8f98dff9ea2221f1212e60c6c928]: Textual amendment: Sum in [Sch. 19A para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/1/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(4)(b)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/4/b)
+[^c-e6ef8f98dff9ea2221f1212e60c6c928]: Textual amendment: Sum in [Sch. 19A para. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/1/b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(4)(b)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/4/b)
 
-[^key-e3c0448e8bc01ddcdbdef92882b86842]: Textual amendment: [Sch. 19A para. 1(2)(g)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/2/g) inserted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/7/2/a); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e3c0448e8bc01ddcdbdef92882b86842]: Textual amendment: [Sch. 19A para. 1(2)(g)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/2/g) inserted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/7/2/a); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-ad9b03d8b59eb7d7218aae66f2ab04ac]: Textual amendment: Words in [Sch. 19A para. 1(4)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/4) inserted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/7/2/b); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-ad9b03d8b59eb7d7218aae66f2ab04ac]: Textual amendment: Words in [Sch. 19A para. 1(4)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/4) inserted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 7(2)(b)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/7/2/b); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-f55ece93386ac602840237a2e1f88cd9]: Textual amendment: [Sch. 19A para. 1(5)(f)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/5/f) inserted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/7/2/c); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-f55ece93386ac602840237a2e1f88cd9]: Textual amendment: [Sch. 19A para. 1(5)(f)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/1/5/f) inserted (4.3.2016) by [Recall of MPs Act 2015 (c. 25)](https://www.legislation.gov.uk/ukpga/2015/25), [s. 24(3)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/3), [Sch. 6 para. 7(2)(c)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/7/2/c); [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-08593d66d9e8a8de9b70db942a170c15]: Textual amendment: Sum in [Sch. 19A para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/2/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
+[^c-08593d66d9e8a8de9b70db942a170c15]: Textual amendment: Sum in [Sch. 19A para. 2(2)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/2/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
 
-[^key-0fc700fd85d6a527f1c203dcb6f6daba]: Textual amendment: Sum in [Sch. 19A para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/3/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
+[^c-0fc700fd85d6a527f1c203dcb6f6daba]: Textual amendment: Sum in [Sch. 19A para. 2(3)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/3/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
 
-[^key-0fab0d1b121a8d301bcb89fa732dbdd4]: Textual amendment: Sum in [Sch. 19A para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/4/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
+[^c-0fab0d1b121a8d301bcb89fa732dbdd4]: Textual amendment: Sum in [Sch. 19A para. 2(4)(a)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/4/a) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
 
-[^key-ab4d24a11f14b48cc0a262cdfef7cda1]: Textual amendment: Sum in [Sch. 19A para. 2(5)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/5) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
+[^c-ab4d24a11f14b48cc0a262cdfef7cda1]: Textual amendment: Sum in [Sch. 19A para. 2(5)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/5) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
 
-[^key-504af09b62aac1f1c4dbfb07457f88b9]: Textual amendment: Sum in [Sch. 19A para. 2(6)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/6) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
+[^c-504af09b62aac1f1c4dbfb07457f88b9]: Textual amendment: Sum in [Sch. 19A para. 2(6)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/19A/paragraph/2/6) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(3)(h)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/h) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
 
-[^key-0c505ab1b7cd54b557b5e3a47ccbcca6]: Textual amendment: Sum in Sch. 19A para. 2(6)(b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(2)(e)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/2/e) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))
+[^c-0c505ab1b7cd54b557b5e3a47ccbcca6]: Textual amendment: Sum in Sch. 19A para. 2(6)(b) substituted (1.1.2024) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/3), [4(2)(e)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/2/e) (with [art. 5(4)-(7)](https://www.legislation.gov.uk/uksi/2023/1235/article/5/4))

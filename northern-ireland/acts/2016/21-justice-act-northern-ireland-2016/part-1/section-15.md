@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Deduction from benefits: further provision in regulations[^key-2a160ae76ae0ee567817d3f44262e9a4]
+## 15. Deduction from benefits: further provision in regulations[^c-2a160ae76ae0ee567817d3f44262e9a4]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a160ae76ae0ee567817d3f44262e9a4]: Commencement: S. 15 in operation at 3.10.2016 by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 4(d)](https://www.legislation.gov.uk/nisr/2016/248/article/4/d)
+[^c-2a160ae76ae0ee567817d3f44262e9a4]: Commencement: S. 15 in operation at 3.10.2016 by [S.R. 2016/248](https://www.legislation.gov.uk/nisr/2016/248), [art. 4(d)](https://www.legislation.gov.uk/nisr/2016/248/article/4/d)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-615ceb95e35b8760c13b327c618c8f29] Before making any order or regulations under this Part of this Act, the Secretary of State must consult—
+(1)[^c-615ceb95e35b8760c13b327c618c8f29] Before making any order or regulations under this Part of this Act, the Secretary of State must consult—
 
 - (a) the OGA, and
 - (b) in the case of regulations, such organisations in the United Kingdom as the Secretary of State considers are representative of persons who will be affected by the regulations.
@@ -55,7 +55,7 @@ summary: ''
 
 ## Annotations
 
-[^key-615ceb95e35b8760c13b327c618c8f29]: Textual amendment: [S. 25(1)](https://www.legislation.gov.uk/ukpga/1998/17/section/25/1) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/26); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-615ceb95e35b8760c13b327c618c8f29]: Textual amendment: [S. 25(1)](https://www.legislation.gov.uk/ukpga/1998/17/section/25/1) substituted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/26); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
 
 [^c12433941]: Textual amendment: Words in s. 25(6) substituted (1.4.1999) by [S.R. 1999/150](https://www.legislation.gov.uk/nisr/1999/150), [reg. 2](https://www.legislation.gov.uk/nisr/1999/150/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/1999/150/schedule)
 

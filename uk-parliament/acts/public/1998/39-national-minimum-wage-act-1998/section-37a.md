@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Cadet Force Adult Volunteers[^key-e2d09ff124bcdc82a3e1f1e1101ea43f]
+## 37A. Cadet Force Adult Volunteers[^c-e2d09ff124bcdc82a3e1f1e1101ea43f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ does not qualify for the national minimum wage in respect of anything done by hi
 
 ## Annotations
 
-[^key-e2d09ff124bcdc82a3e1f1e1101ea43f]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/ukpga/1998/39/section/37A) inserted (13.1.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 13](https://www.legislation.gov.uk/ukpga/2008/24/section/13), [22(1)(d)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/d)
+[^c-e2d09ff124bcdc82a3e1f1e1101ea43f]: Textual amendment: [S. 37A](https://www.legislation.gov.uk/ukpga/1998/39/section/37A) inserted (13.1.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [ss. 13](https://www.legislation.gov.uk/ukpga/2008/24/section/13), [22(1)(d)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/d)

@@ -337,7 +337,7 @@ Section 2
 
 > (1A) Subsection (1) is subject to section 6E (giving effect to allowances and charges: NI rate activity cases).
 
-**10.**[^key-35dbf684994685ca451a7ada3d3999bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-35dbf684994685ca451a7ada3d3999bb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 4 — Amendments of CAA 2001 relating to other allowances
 
@@ -466,7 +466,7 @@ Section 2
 
 **20.** (1) This paragraph applies to a company or partnership if—
 
-- (a) in the case of a company, the company is a NIRE company or an[^key-0aa13082d8facf333e92af8a4db6a8d9] SME (Northern Ireland employer) company in the transition period, or
+- (a) in the case of a company, the company is a NIRE company or an[^c-0aa13082d8facf333e92af8a4db6a8d9] SME (Northern Ireland employer) company in the transition period, or
 - (b) in the case of a partnership, the partnership is a Northern Ireland Chapter 6 firm or a Northern Ireland Chapter 7 firm in the transition period.
 
 (2) If at the beginning of the transition period—
@@ -503,7 +503,7 @@ the fact that the NI rate activity begins to be so treated does not give rise to
 
 **21.** (1) This paragraph applies if—
 
-- (a) in the case of a company, the company is a NIRE company or an[^key-4d5ec19d810f4aec21790f19320a0c44] SME (Northern Ireland employer) company in the transition period, or
+- (a) in the case of a company, the company is a NIRE company or an[^c-4d5ec19d810f4aec21790f19320a0c44] SME (Northern Ireland employer) company in the transition period, or
 - (b) in the case of a partnership, the company is a Northern Ireland firm in the transition period.
 
 (2) Subsection (3) applies if at the beginning of the transition period—
@@ -522,8 +522,8 @@ the fact that the NI rate activity begins to be so treated does not give rise to
 
 ## Annotations
 
-[^key-35dbf684994685ca451a7ada3d3999bb]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/10) omitted (16.11.2017) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/29)
+[^c-35dbf684994685ca451a7ada3d3999bb]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/10) omitted (16.11.2017) by virtue of [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/29)
 
-[^key-0aa13082d8facf333e92af8a4db6a8d9]: Textual amendment: Words in [Sch. 1 para. 20(1)(a)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/20/1/a) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/25)
+[^c-0aa13082d8facf333e92af8a4db6a8d9]: Textual amendment: Words in [Sch. 1 para. 20(1)(a)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/20/1/a) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/25)
 
-[^key-4d5ec19d810f4aec21790f19320a0c44]: Textual amendment: Words in [Sch. 1 para. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/21/1/a) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/25)
+[^c-4d5ec19d810f4aec21790f19320a0c44]: Textual amendment: Words in [Sch. 1 para. 21(1)(a)](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/21/1/a) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 25](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/25)

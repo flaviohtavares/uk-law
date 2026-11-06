@@ -74,9 +74,9 @@ A company is “associated” with another for this purpose if one has control o
 Deduct any deductions allowable under—
 
 - (a) section 232 (giving effect to mileage allowance relief) or Part 5 of this Act,
-- (b)[^key-f0cd929dba6fc56cb219e140d9800274] sections 188 to 194 of FA 2004 (contributions to registered pension schemes), or
+- (b)[^c-f0cd929dba6fc56cb219e140d9800274] sections 188 to 194 of FA 2004 (contributions to registered pension schemes), or
 - (c) section 262 of CAA 2001 (capital allowances to be given effect by treating them as deductions from earnings).
 
 ## Annotations
 
-[^key-f0cd929dba6fc56cb219e140d9800274]: Textual amendment: Words in s. 315(5) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 59](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/59) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))
+[^c-f0cd929dba6fc56cb219e140d9800274]: Textual amendment: Words in s. 315(5) substituted (6.4.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 284(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/284/1), [Sch. 35 para. 59](https://www.legislation.gov.uk/ukpga/2004/12/schedule/35/paragraph/59) (with [Sch. 36](https://www.legislation.gov.uk/ukpga/2004/12/schedule/36))

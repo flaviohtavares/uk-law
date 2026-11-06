@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Construction and maintenance of new, altered or diverted streets[^key-b5f466b7f5461e8071ca9e92b65298e3]
+## 10. Construction and maintenance of new, altered or diverted streets[^c-b5f466b7f5461e8071ca9e92b65298e3]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ but for the purposes of such a defence it is not relevant to prove that the Secr
 
 ## Annotations
 
-[^key-b5f466b7f5461e8071ca9e92b65298e3]: Commencement: Art. 10 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-b5f466b7f5461e8071ca9e92b65298e3]: Commencement: Art. 10 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)

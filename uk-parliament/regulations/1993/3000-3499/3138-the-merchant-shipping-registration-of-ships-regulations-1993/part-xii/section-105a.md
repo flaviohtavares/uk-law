@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Copies of documents[^key-b10e9021356abda6ee7956091e7a0699][^key-6eaea1709797db4ff826862c3a56dfcf]
+## 105A. Copies of documents[^c-b10e9021356abda6ee7956091e7a0699][^c-6eaea1709797db4ff826862c3a56dfcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b10e9021356abda6ee7956091e7a0699]: Modification: [Reg. 105A](https://www.legislation.gov.uk/uksi/1993/3138/regulation/105A) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1)
+[^c-b10e9021356abda6ee7956091e7a0699]: Modification: [Reg. 105A](https://www.legislation.gov.uk/uksi/1993/3138/regulation/105A) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1)
 
-[^key-6eaea1709797db4ff826862c3a56dfcf]: Textual amendment: [Reg. 105A](https://www.legislation.gov.uk/uksi/1993/3138/regulation/105A) inserted (1.10.2017) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 2017 (S.I. 2017/879)](https://www.legislation.gov.uk/uksi/2017/879), [regs. 1](https://www.legislation.gov.uk/uksi/2017/879/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/879/regulation/7)
+[^c-6eaea1709797db4ff826862c3a56dfcf]: Textual amendment: [Reg. 105A](https://www.legislation.gov.uk/uksi/1993/3138/regulation/105A) inserted (1.10.2017) by [The Merchant Shipping (Registration of Ships) (Amendment) Regulations 2017 (S.I. 2017/879)](https://www.legislation.gov.uk/uksi/2017/879), [regs. 1](https://www.legislation.gov.uk/uksi/2017/879/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/879/regulation/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Recovery of costs of new connections[^key-95adba62310fc3f20a167412aaf100cf]
+## 36. Recovery of costs of new connections[^c-95adba62310fc3f20a167412aaf100cf]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## Annotations
 
-[^key-95adba62310fc3f20a167412aaf100cf]: Commencement: Art. 36 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-95adba62310fc3f20a167412aaf100cf]: Commencement: Art. 36 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

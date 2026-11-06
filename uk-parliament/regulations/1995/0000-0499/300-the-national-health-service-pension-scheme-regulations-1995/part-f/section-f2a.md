@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## F2A. Member dies after a pension under regulation E5A becomes payable[^key-82fac1637139eeb519447d961cabff98]
+## F2A. Member dies after a pension under regulation E5A becomes payable[^c-82fac1637139eeb519447d961cabff98]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82fac1637139eeb519447d961cabff98]: Textual amendment: [Reg. F2A](https://www.legislation.gov.uk/uksi/1995/300/regulation/F2A) inserted (1.10.2023) by [The National Health Service Pension Schemes (Partial Retirement etc.) (Amendment) Regulations 2023 (S.I. 2023/952)](https://www.legislation.gov.uk/uksi/2023/952), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/952/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/952/regulation/9)
+[^c-82fac1637139eeb519447d961cabff98]: Textual amendment: [Reg. F2A](https://www.legislation.gov.uk/uksi/1995/300/regulation/F2A) inserted (1.10.2023) by [The National Health Service Pension Schemes (Partial Retirement etc.) (Amendment) Regulations 2023 (S.I. 2023/952)](https://www.legislation.gov.uk/uksi/2023/952), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/952/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2023/952/regulation/9)

@@ -32,7 +32,7 @@ There shall be not less than five or more than nine members of the Body (includi
 
 **4.** The Secretary of State may by notice in writing dismiss a member if the member—
 
-- (a) is made[^key-de5da4bb397d7da61ac7718ce74edfe8] bankrupt or has a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986)[^key-da32aaef37eef7b82798c3666691a79a],
+- (a) is made[^c-de5da4bb397d7da61ac7718ce74edfe8] bankrupt or has a debt relief order made in respect of him (under Part 7A of the Insolvency Act 1986)[^c-da32aaef37eef7b82798c3666691a79a],
 - (b) enters into an arrangement with his creditors, or
 - (c) is, in the opinion of the Secretary of State, unable, unfit or unwilling to perform his duties whether by reason of physical or mental illness or otherwise.
 
@@ -98,6 +98,6 @@ An appointment made by the Prime Minister under section 1(1) of the School Teach
 
 ## Annotations
 
-[^key-de5da4bb397d7da61ac7718ce74edfe8]: Textual amendment: Word in [Sch. 11 para. 4(a)](https://www.legislation.gov.uk/ukpga/2002/32/schedule/11/paragraph/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
+[^c-de5da4bb397d7da61ac7718ce74edfe8]: Textual amendment: Word in [Sch. 11 para. 4(a)](https://www.legislation.gov.uk/ukpga/2002/32/schedule/11/paragraph/4/a) substituted (6.4.2016) by [The Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 (S.I. 2016/481)](https://www.legislation.gov.uk/uksi/2016/481), [reg. 1](https://www.legislation.gov.uk/uksi/2016/481/regulation/1), [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2016/481/schedule/1/paragraph/18)
 
-[^key-da32aaef37eef7b82798c3666691a79a]: Textual amendment: Words in Sch. 11 para. 4(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/47) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-da32aaef37eef7b82798c3666691a79a]: Textual amendment: Words in Sch. 11 para. 4(a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/47) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))

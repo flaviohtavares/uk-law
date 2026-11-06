@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Functions of Qualifications and Curriculum Authority in Northern Ireland in relation to vocational qualifications[^key-9bd077f0d2e0bc7c78cc1d5bdaaf4e38]
+## 163. Functions of Qualifications and Curriculum Authority in Northern Ireland in relation to vocational qualifications[^c-9bd077f0d2e0bc7c78cc1d5bdaaf4e38]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bd077f0d2e0bc7c78cc1d5bdaaf4e38]: Textual amendment: S. 163 repealed (1.4.2010 for E., 1.11.2010 for W.) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1); [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), [art. 2(b)(ii)(jj)](https://www.legislation.gov.uk/uksi/2010/2413/article/2/a)
+[^c-9bd077f0d2e0bc7c78cc1d5bdaaf4e38]: Textual amendment: S. 163 repealed (1.4.2010 for E., 1.11.2010 for W.) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [s. 269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4), [Sch. 16 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/22/schedule/16/part/4); [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1); [S.I. 2010/2413](https://www.legislation.gov.uk/uksi/2010/2413), [art. 2(b)(ii)(jj)](https://www.legislation.gov.uk/uksi/2010/2413/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Qualifying draught products: reduced rates[^M_I_ac2cb5e4-48c8-469b-a644-1db92638d608][^key-e385ac565b68e23ef12d97d49628aadb]
+## 50. Qualifying draught products: reduced rates[^M_I_ac2cb5e4-48c8-469b-a644-1db92638d608][^c-e385ac565b68e23ef12d97d49628aadb]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^M_I_ac2cb5e4-48c8-469b-a644-1db92638d608]: Commencement: S. 50 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-e385ac565b68e23ef12d97d49628aadb]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/30/section/50) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-e385ac565b68e23ef12d97d49628aadb]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2023/30/section/50) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

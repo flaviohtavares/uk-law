@@ -32,7 +32,7 @@ summary: ''
 
 Financial Services And Markets
 
-The Financial Services and Markets Act 2000 (Exercise of Powers under Part 4A) (Consultation with Home State Regulators) Regulations 2013 (revoked)[^key-ea9ff6dcf0f16c47a6f0558ba2c344c6]
+The Financial Services and Markets Act 2000 (Exercise of Powers under Part 4A) (Consultation with Home State Regulators) Regulations 2013 (revoked)[^c-ea9ff6dcf0f16c47a6f0558ba2c344c6]
 
 Made
 
@@ -46,19 +46,19 @@ Coming into force
 
 1st April 2013
 
-[^key-ea9ff6dcf0f16c47a6f0558ba2c344c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea9ff6dcf0f16c47a6f0558ba2c344c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-ea9ff6dcf0f16c47a6f0558ba2c344c6]
+## 1. Citation, commencement and interpretation[^c-ea9ff6dcf0f16c47a6f0558ba2c344c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Connected persons: consultation with home state regulators[^key-ea9ff6dcf0f16c47a6f0558ba2c344c6]
+## 2. Connected persons: consultation with home state regulators[^c-ea9ff6dcf0f16c47a6f0558ba2c344c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea9ff6dcf0f16c47a6f0558ba2c344c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea9ff6dcf0f16c47a6f0558ba2c344c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -70,4 +70,4 @@ A full impact assessment of the effect that these Regulations will have on the c
 
 ## Annotations
 
-[^key-ea9ff6dcf0f16c47a6f0558ba2c344c6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/431) revoked (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [188](https://www.legislation.gov.uk/uksi/2019/632/regulation/188) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ea9ff6dcf0f16c47a6f0558ba2c344c6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/431) revoked (31.12.2020) by [The Financial Services and Markets Act 2000 (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/632)](https://www.legislation.gov.uk/uksi/2019/632), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/3), [188](https://www.legislation.gov.uk/uksi/2019/632/regulation/188) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11) (as amended by [S.I. 2019/1212](https://www.legislation.gov.uk/uksi/2019/1212), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/1/3), [22(3)](https://www.legislation.gov.uk/uksi/2019/1212/regulation/22/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

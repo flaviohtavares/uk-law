@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Authority under regulations[^key-45360dd36ed0420cac4dccd8be585e04]
+## 10. Authority under regulations[^c-45360dd36ed0420cac4dccd8be585e04]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45360dd36ed0420cac4dccd8be585e04]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/10/section/10) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-45360dd36ed0420cac4dccd8be585e04]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/10/section/10) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

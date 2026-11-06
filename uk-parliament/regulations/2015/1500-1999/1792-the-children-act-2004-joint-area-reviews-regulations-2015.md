@@ -98,7 +98,7 @@ The Schedule makes provision about powers of entry and related matters for the p
 
 (1) This regulation applies where the Chief Inspector of Schools makes a determination under regulation 3(3)(b).
 
-(2) The principal authority must make the written statement of proposed action within 70 working days , or as soon as is reasonably practicable,[^key-f8c776463cc8943642b5188b57296104] of receiving the report under regulation 3.
+(2) The principal authority must make the written statement of proposed action within 70 working days , or as soon as is reasonably practicable,[^c-f8c776463cc8943642b5188b57296104] of receiving the report under regulation 3.
 
 (3) The local authority (where it is not the principal authority) and every other person or body to whom the report is sent under regulation 3(5)(d) must co-operate with the principal authority in the making of the written statement.
 
@@ -302,7 +302,7 @@ No impact assessment has been produced for this instrument because no significan
 
 [^c22682601]: Marginal citation: Section 23(5) of the Children Act 2004 provides that “**The Chief Inspector of Schools**” means Her Majesty's Chief Inspector of Education, Children's Services and Skills.
 
-[^key-f8c776463cc8943642b5188b57296104]: Textual amendment: Words in reg. 4(2) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/445/regulation/10) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
+[^c-f8c776463cc8943642b5188b57296104]: Textual amendment: Words in reg. 4(2) inserted (temp.) (24.4.2020) by [The Adoption and Children (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/445)](https://www.legislation.gov.uk/uksi/2020/445), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/445/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2020/445/regulation/10) (with [Pts. 12](https://www.legislation.gov.uk/uksi/2020/445/part/12), [13](https://www.legislation.gov.uk/uksi/2020/445/part/13))
 
 [^c22682611]: Marginal citation: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 

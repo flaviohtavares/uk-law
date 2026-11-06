@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Clinical commissioning groups: general duties etc.[^key-cbbe8c3a9671031e7cc36c2e99ea4760][^key-fb8936321508dc7a0be121c1ad5a8653][^key-88df713c947df234cd9470ed1f8c1b89][^c2191281]
+## 26. Clinical commissioning groups: general duties etc.[^c-cbbe8c3a9671031e7cc36c2e99ea4760][^c-fb8936321508dc7a0be121c1ad5a8653][^c-88df713c947df234cd9470ed1f8c1b89][^c2191281]
 
 *Extent: E+W*
 
@@ -583,10 +583,10 @@ After section 14O of the National Health Service Act 2006 insert—
 
 ## Annotations
 
-[^key-cbbe8c3a9671031e7cc36c2e99ea4760]: Commencement: S. 26 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/1831/article/6))
+[^c-cbbe8c3a9671031e7cc36c2e99ea4760]: Commencement: S. 26 in force at 1.10.2012 for specified purposes by [S.I. 2012/1831](https://www.legislation.gov.uk/uksi/2012/1831), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1831/article/2/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/1831/article/6))
 
-[^key-fb8936321508dc7a0be121c1ad5a8653]: Commencement: S. 26 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-fb8936321508dc7a0be121c1ad5a8653]: Commencement: S. 26 in force at 1.2.2013 for specified purposes by [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-88df713c947df234cd9470ed1f8c1b89]: Commencement: S. 26 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-88df713c947df234cd9470ed1f8c1b89]: Commencement: S. 26 in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191281]: Commencement: S. 26 partly in force; s. 26 in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

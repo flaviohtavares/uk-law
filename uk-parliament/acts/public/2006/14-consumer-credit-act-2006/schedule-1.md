@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1[^key-be602b4690c3e3e912cd520443beaa3e]
+## SCHEDULE 1[^c-be602b4690c3e3e912cd520443beaa3e]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,4 +90,4 @@ Section 55
 
 ## Annotations
 
-[^key-be602b4690c3e3e912cd520443beaa3e]: Textual amendment: Sch. 1 repealed (1.9.2009) by [Transfer of Functions of the Consumer Credit Appeals Tribunal Order 2009 (S.I. 2009/1835)](https://www.legislation.gov.uk/uksi/2009/1835), [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4))
+[^c-be602b4690c3e3e912cd520443beaa3e]: Textual amendment: Sch. 1 repealed (1.9.2009) by [Transfer of Functions of the Consumer Credit Appeals Tribunal Order 2009 (S.I. 2009/1835)](https://www.legislation.gov.uk/uksi/2009/1835), [art. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2009/1835/schedule/3) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4))

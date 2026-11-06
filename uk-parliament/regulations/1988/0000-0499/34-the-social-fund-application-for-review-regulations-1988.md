@@ -58,7 +58,7 @@ The Secretary of State for Social Services, in exercise of the powers conferred 
 - (a) a review of any determination made by an appropriate officer[^M_F_be31cbbe-bcae-4a83-9342-37ecf15ce9fd];
 - (b) a further review by a social fund inspector of a determination of an appropriate officer[^M_F_750281ba-8e87-48fc-b8bc-de6bd40ccda9] which has been reviewed,
 
-shall be in writing and shall be made within the time specified in paragraph (2) by sending or delivering it—[^key-99a1e66ea16544c765b12ca5a5a409c7]
+shall be in writing and shall be made within the time specified in paragraph (2) by sending or delivering it—[^c-99a1e66ea16544c765b12ca5a5a409c7]
 
 - (i) in a case to which (a) applies, to an office of the Department for Work and Pensions; and
 - (ii) in a case to which (b) applies—
@@ -102,7 +102,7 @@ These Regulations are made under provisions of the Social Security Act 1986 whic
 
 [^M_F_750281ba-8e87-48fc-b8bc-de6bd40ccda9]: Textual amendment: Words in reg. 2(1)(b) substituted (29.11.1999) by S.I. 1999/3178, Sch. 8
 
-[^key-99a1e66ea16544c765b12ca5a5a409c7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1988/34/regulation/2/1) substituted (24.4.2006) by [Social Fund (Application for Review) (Amendment) Regulations 2006 (S.I. 2006/961)](https://www.legislation.gov.uk/uksi/2006/961), [regs. 1](https://www.legislation.gov.uk/uksi/2006/961/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/961/regulation/2/2)
+[^c-99a1e66ea16544c765b12ca5a5a409c7]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1988/34/regulation/2/1) substituted (24.4.2006) by [Social Fund (Application for Review) (Amendment) Regulations 2006 (S.I. 2006/961)](https://www.legislation.gov.uk/uksi/2006/961), [regs. 1](https://www.legislation.gov.uk/uksi/2006/961/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2006/961/regulation/2/2)
 
 [^M_F_126a2858-d477-4dfe-d476-24c781f17d36]: Textual amendment: Words in reg. 2(3) substituted (29.11.1999) by S.I. 1999/3178, Sch. 8
 

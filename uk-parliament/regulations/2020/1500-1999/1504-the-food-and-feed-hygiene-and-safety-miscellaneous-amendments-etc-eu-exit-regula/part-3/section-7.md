@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Amendment of the Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019[^key-42b555eba8bb10791bbc6d564a3ab0f7]
+## 7. Amendment of the Sprouts and Seeds (Amendment) (EU Exit) Regulations 2019[^c-42b555eba8bb10791bbc6d564a3ab0f7]
 
 *Extent: E+W+S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42b555eba8bb10791bbc6d564a3ab0f7]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-42b555eba8bb10791bbc6d564a3ab0f7]: Commencement: Reg. 7 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
 
 [^c24375411]: Marginal citation: [S.I. 2019/464](https://www.legislation.gov.uk/uksi/2019/464).

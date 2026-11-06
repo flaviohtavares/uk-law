@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Powers of receiver.[^c15571121][^key-9c61b5e5c84c28d0f59b2c64be42e260]
+## 55. Powers of receiver.[^c15571121][^c-9c61b5e5c84c28d0f59b2c64be42e260]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c15571121]: Modification: Ss. 55-58 applied (with modifications) (6.4.2001) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4(1)](https://www.legislation.gov.uk/ssi/2001/128/regulation/4/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2)
 
-[^key-9c61b5e5c84c28d0f59b2c64be42e260]: Modification: [Ss. 55-58](https://www.legislation.gov.uk/ukpga/1986/45/section/55) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))
+[^c-9c61b5e5c84c28d0f59b2c64be42e260]: Modification: [Ss. 55-58](https://www.legislation.gov.uk/ukpga/1986/45/section/55) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1 para. 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2023/1399/regulation/20))

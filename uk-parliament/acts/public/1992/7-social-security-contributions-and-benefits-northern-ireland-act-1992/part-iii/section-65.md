@@ -40,8 +40,8 @@ summary: ''
   - (i) both the day and the night attendance conditions, or
   - (ii) if the award is at the lower rate, one of those conditions.
 
-(7)[^key-4380806b81c661823d2cf98964e81efc] A person to whom either Regulation (EC) No 1408/71 or Regulation (EC) No 883/2004 applies shall not be entitled to an attendance allowance for a period unless during that period the United Kingdom is competent for payment of sickness benefits in cash to the person for the purposes of Chapter 1 of Title III of the Regulation in question.
+(7)[^c-4380806b81c661823d2cf98964e81efc] A person to whom either Regulation (EC) No 1408/71 or Regulation (EC) No 883/2004 applies shall not be entitled to an attendance allowance for a period unless during that period the United Kingdom is competent for payment of sickness benefits in cash to the person for the purposes of Chapter 1 of Title III of the Regulation in question.
 
 ## Annotations
 
-[^key-4380806b81c661823d2cf98964e81efc]: Textual amendment: S. 65(7) added (31.10.2011) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer’s Allowance) (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/356)](https://www.legislation.gov.uk/nisr/2011/356), [regs. 1](https://www.legislation.gov.uk/nisr/2011/356/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/356/regulation/2/2)
+[^c-4380806b81c661823d2cf98964e81efc]: Textual amendment: S. 65(7) added (31.10.2011) by [The Social Security (Disability Living Allowance, Attendance Allowance and Carer’s Allowance) (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/356)](https://www.legislation.gov.uk/nisr/2011/356), [regs. 1](https://www.legislation.gov.uk/nisr/2011/356/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2011/356/regulation/2/2)

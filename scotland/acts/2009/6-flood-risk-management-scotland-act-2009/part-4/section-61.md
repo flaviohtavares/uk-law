@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Orders under the Land Drainage (Scotland) Act 1958[^key-9e04b9ded6b02946773c5a08c34ab39e]
+## 61. Orders under the Land Drainage (Scotland) Act 1958[^c-9e04b9ded6b02946773c5a08c34ab39e]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e04b9ded6b02946773c5a08c34ab39e]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2009/6/section/61) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/401/article/3/b)
+[^c-9e04b9ded6b02946773c5a08c34ab39e]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2009/6/section/61) in force at 24.12.2010 by [S.S.I. 2010/401](https://www.legislation.gov.uk/ssi/2010/401), [art. 3(b)](https://www.legislation.gov.uk/ssi/2010/401/article/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Complaints: data protection[^key-32f29ee5599b3fc0a408e6b79bd764e9]
+## 119. Complaints: data protection[^c-32f29ee5599b3fc0a408e6b79bd764e9]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 31 of the Data Protection Act 1998 (c. 29) (regulatory activity) at t
 
 ## Annotations
 
-[^key-32f29ee5599b3fc0a408e6b79bd764e9]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2003/43/section/119) in force at 1.6.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 7](https://www.legislation.gov.uk/uksi/2004/759/article/7)
+[^c-32f29ee5599b3fc0a408e6b79bd764e9]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2003/43/section/119) in force at 1.6.2004 by [S.I. 2004/759](https://www.legislation.gov.uk/uksi/2004/759), [art. 7](https://www.legislation.gov.uk/uksi/2004/759/article/7)

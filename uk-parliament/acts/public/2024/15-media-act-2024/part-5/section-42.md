@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Licensing and local services[^key-057b459346ef702fbaa64bcd5a89f314][^key-3d015d1cba6e60b16d96548e7491b745]
+## 42. Licensing and local services[^c-057b459346ef702fbaa64bcd5a89f314][^c-3d015d1cba6e60b16d96548e7491b745]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-057b459346ef702fbaa64bcd5a89f314]: Commencement: S. 42 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
+[^c-057b459346ef702fbaa64bcd5a89f314]: Commencement: S. 42 not in force at Royal Assent, see [s. 55(3)(e)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/e)
 
-[^key-3d015d1cba6e60b16d96548e7491b745]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2024/15/section/42) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/1))
+[^c-3d015d1cba6e60b16d96548e7491b745]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2024/15/section/42) in force at 17.10.2024 by [S.I. 2024/1033](https://www.legislation.gov.uk/uksi/2024/1033), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/3/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2024/1033/regulation/5/1))

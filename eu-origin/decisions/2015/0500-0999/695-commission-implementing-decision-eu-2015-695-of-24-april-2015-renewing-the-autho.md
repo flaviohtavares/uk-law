@@ -40,91 +40,91 @@ renewing the authorisation for existing genetically modified cotton MON 531 x MO
 
 (Text with EEA relevance) (revoked)
 
-[^key-0497a50c1f67ff3c4342df4481fc69be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0497a50c1f67ff3c4342df4481fc69be]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Genetically modified organism and unique identifier[^key-0497a50c1f67ff3c4342df4481fc69be]
+## Article 1. Genetically modified organism and unique identifier[^c-0497a50c1f67ff3c4342df4481fc69be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Authorisation[^key-0497a50c1f67ff3c4342df4481fc69be]
+## Article 2. Authorisation[^c-0497a50c1f67ff3c4342df4481fc69be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Labelling[^key-0497a50c1f67ff3c4342df4481fc69be]
+## Article 3. Labelling[^c-0497a50c1f67ff3c4342df4481fc69be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Register[^key-0497a50c1f67ff3c4342df4481fc69be]
+## Article 4. Register[^c-0497a50c1f67ff3c4342df4481fc69be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Authorisation holder[^key-0497a50c1f67ff3c4342df4481fc69be]
+## Article 5. Authorisation holder[^c-0497a50c1f67ff3c4342df4481fc69be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Validity[^key-0497a50c1f67ff3c4342df4481fc69be]
+## Article 6. Validity[^c-0497a50c1f67ff3c4342df4481fc69be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Addressee[^key-0497a50c1f67ff3c4342df4481fc69be]
+## Article 7. Addressee[^c-0497a50c1f67ff3c4342df4481fc69be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-0497a50c1f67ff3c4342df4481fc69be]
+## ANNEX[^c-0497a50c1f67ff3c4342df4481fc69be]
 
-[^key-0497a50c1f67ff3c4342df4481fc69be](a)
+[^c-0497a50c1f67ff3c4342df4481fc69be](a)
 
 **Applicant and Authorisation holder**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0497a50c1f67ff3c4342df4481fc69be](b)
+[^c-0497a50c1f67ff3c4342df4481fc69be](b)
 
 **Designation and specification of the products**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0497a50c1f67ff3c4342df4481fc69be](c)
+[^c-0497a50c1f67ff3c4342df4481fc69be](c)
 
 **Labelling**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0497a50c1f67ff3c4342df4481fc69be](d)
+[^c-0497a50c1f67ff3c4342df4481fc69be](d)
 
 **Method for detection**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0497a50c1f67ff3c4342df4481fc69be](e)
+[^c-0497a50c1f67ff3c4342df4481fc69be](e)
 
 **Unique identifier**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0497a50c1f67ff3c4342df4481fc69be](f)
+[^c-0497a50c1f67ff3c4342df4481fc69be](f)
 
 **Information required under Annex II to the Cartagena Protocol on Biosafety to the Convention on Biological Diversity**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0497a50c1f67ff3c4342df4481fc69be](g)
+[^c-0497a50c1f67ff3c4342df4481fc69be](g)
 
 **Conditions or restrictions on the placing on the market, use or handling of the products**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0497a50c1f67ff3c4342df4481fc69be](h)
+[^c-0497a50c1f67ff3c4342df4481fc69be](h)
 
 **Monitoring plan for environmental effects**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0497a50c1f67ff3c4342df4481fc69be](i)
+[^c-0497a50c1f67ff3c4342df4481fc69be](i)
 
 **Post-market monitoring requirements for the use of the food for human consumption**
 
@@ -132,4 +132,4 @@ renewing the authorisation for existing genetically modified cotton MON 531 x MO
 
 ## Annotations
 
-[^key-0497a50c1f67ff3c4342df4481fc69be]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 31](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/31) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-0497a50c1f67ff3c4342df4481fc69be]: Textual amendment: Decision revoked (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 6 para. 31](https://www.legislation.gov.uk/uksi/2025/361/schedule/6/paragraph/31) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

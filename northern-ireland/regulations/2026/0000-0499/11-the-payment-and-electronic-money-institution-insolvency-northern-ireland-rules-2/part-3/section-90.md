@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Use of proxies at meetings[^key-5074b7cbd15894adbc9121babe4313de]
+## 90. Use of proxies at meetings[^c-5074b7cbd15894adbc9121babe4313de]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5074b7cbd15894adbc9121babe4313de]: Commencement: [Rule 90](https://www.legislation.gov.uk/nisr/2026/11/rule/90) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-5074b7cbd15894adbc9121babe4313de]: Commencement: [Rule 90](https://www.legislation.gov.uk/nisr/2026/11/rule/90) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

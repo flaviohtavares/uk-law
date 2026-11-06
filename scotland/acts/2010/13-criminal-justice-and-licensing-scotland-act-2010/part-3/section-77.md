@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-fec56a0fc802381152505fe0f9be324c] The 1995 Act is amended as follows.
+(1)[^c-fec56a0fc802381152505fe0f9be324c] The 1995 Act is amended as follows.
 
 (2) In section 18 (prints, samples etc. in criminal investigations)—
 
-- (a)[^key-62656d363456e393642ddb7258116fe9] in subsection (3), for “section 18A” substitute “ sections 18A to 18F ”,
-- (b)[^key-fb3d8e60db73261bc75a2c6ca05d480f] in subsection (7A), for “sections 19 to 20” substitute “ , subject to the modification in subsection (7AA), sections 18A to 19C ”, and
-- (c)[^key-fb3d8e60db73261bc75a2c6ca05d480f] after subsection (7A) insert—
+- (a)[^c-62656d363456e393642ddb7258116fe9] in subsection (3), for “section 18A” substitute “ sections 18A to 18F ”,
+- (b)[^c-fb3d8e60db73261bc75a2c6ca05d480f] in subsection (7A), for “sections 19 to 20” substitute “ , subject to the modification in subsection (7AA), sections 18A to 19C ”, and
+- (c)[^c-fb3d8e60db73261bc75a2c6ca05d480f] after subsection (7A) insert—
 
   > (7AA) The modification is that for the purposes of section 19C as it applies in relation to relevant physical data taken from or provided by a person outwith Scotland, subsection (7A) is to be read as if in paragraph (d) the words from “created” to the end were omitted.
 
   .
 
-(3)[^key-62656d363456e393642ddb7258116fe9] In section 18A (retention of samples)—
+(3)[^c-62656d363456e393642ddb7258116fe9] In section 18A (retention of samples)—
 
 - (a) for subsection (1) substitute—
 
@@ -67,8 +67,8 @@ summary: ''
 
 ## Annotations
 
-[^key-fec56a0fc802381152505fe0f9be324c]: Commencement: [S. 77(1)](https://www.legislation.gov.uk/asp/2010/13/section/77/1) in force at 28.3.2011 for specified purposes by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/178/article/4))
+[^c-fec56a0fc802381152505fe0f9be324c]: Commencement: [S. 77(1)](https://www.legislation.gov.uk/asp/2010/13/section/77/1) in force at 28.3.2011 for specified purposes by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/178/article/4))
 
-[^key-62656d363456e393642ddb7258116fe9]: Commencement: [S. 77(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/77/2/a)[(3)](https://www.legislation.gov.uk/asp/2010/13/section/77/3) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/178/article/4))
+[^c-62656d363456e393642ddb7258116fe9]: Commencement: [S. 77(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/77/2/a)[(3)](https://www.legislation.gov.uk/asp/2010/13/section/77/3) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/178/article/4))
 
-[^key-fb3d8e60db73261bc75a2c6ca05d480f]: Commencement: [S. 77(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/77/2/b)[(c)](https://www.legislation.gov.uk/asp/2010/13/section/77/2/c) in force at 1.8.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/178/article/4))
+[^c-fb3d8e60db73261bc75a2c6ca05d480f]: Commencement: [S. 77(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/77/2/b)[(c)](https://www.legislation.gov.uk/asp/2010/13/section/77/2/c) in force at 1.8.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/178/article/4))

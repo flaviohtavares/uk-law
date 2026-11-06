@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Number of Members of the Senedd and Senedd constituencies[^key-87c2d64acde14e6e60628fa66ed0ed6f]
+## 1. Number of Members of the Senedd and Senedd constituencies[^c-87c2d64acde14e6e60628fa66ed0ed6f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In section 1 (the Senedd) of the Government of Wales Act [2006 (c. 32)](https://
 
 ## Annotations
 
-[^key-87c2d64acde14e6e60628fa66ed0ed6f]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2024/4/section/1) in force at 24.8.2024, see [s. 25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a)
+[^c-87c2d64acde14e6e60628fa66ed0ed6f]: Commencement: [S. 1](https://www.legislation.gov.uk/asc/2024/4/section/1) in force at 24.8.2024, see [s. 25(2)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/a)

@@ -33,63 +33,63 @@ of 28 March 2019
 
 amending Regulation (EU) 2019/124 as regards certain fishing opportunities (revoked)
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9e01b44e8670d450f9a6b9609eff80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-dd9e01b44e8670d450f9a6b9609eff80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-dd9e01b44e8670d450f9a6b9609eff80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-dd9e01b44e8670d450f9a6b9609eff80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-dd9e01b44e8670d450f9a6b9609eff80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd9e01b44e8670d450f9a6b9609eff80]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-dd9e01b44e8670d450f9a6b9609eff80]
+## ANNEX[^c-dd9e01b44e8670d450f9a6b9609eff80]
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]1.
+[^c-dd9e01b44e8670d450f9a6b9609eff80]1.
 
 Annex IA is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]2.
+[^c-dd9e01b44e8670d450f9a6b9609eff80]2.
 
 Annex IB is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]3.
+[^c-dd9e01b44e8670d450f9a6b9609eff80]3.
 
 Annex IH is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]4.
+[^c-dd9e01b44e8670d450f9a6b9609eff80]4.
 
 Annex IJ is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]5.
+[^c-dd9e01b44e8670d450f9a6b9609eff80]5.
 
 Annex III is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]6.
+[^c-dd9e01b44e8670d450f9a6b9609eff80]6.
 
 Annex IV is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]7.
+[^c-dd9e01b44e8670d450f9a6b9609eff80]7.
 
 Annex VII is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]8.
+[^c-dd9e01b44e8670d450f9a6b9609eff80]8.
 
 Annex VIII is replaced by the following:
 
@@ -97,4 +97,4 @@ Annex VIII is replaced by the following:
 
 ## Annotations
 
-[^key-dd9e01b44e8670d450f9a6b9609eff80]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-dd9e01b44e8670d450f9a6b9609eff80]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

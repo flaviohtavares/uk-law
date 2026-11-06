@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation applies for determining the amount of a member’s pensionable pay for the purposes of calculating so much of any benefit under this Section of[^key-101ebf06596faf68825f6de56a6d54c4] the Scheme as falls to be calculated by reference to capped transferred-in service.
+(1) This regulation applies for determining the amount of a member’s pensionable pay for the purposes of calculating so much of any benefit under this Section of[^c-101ebf06596faf68825f6de56a6d54c4] the Scheme as falls to be calculated by reference to capped transferred-in service.
 
 (2) If a member’s pensionable pay exceeds the permitted maximum, the excess is disregarded for the purposes of any such calculation as is mentioned in paragraph (1).
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-101ebf06596faf68825f6de56a6d54c4]: Textual amendment: Words in [reg. 2.A.12(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.12/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-101ebf06596faf68825f6de56a6d54c4]: Textual amendment: Words in [reg. 2.A.12(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.12/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

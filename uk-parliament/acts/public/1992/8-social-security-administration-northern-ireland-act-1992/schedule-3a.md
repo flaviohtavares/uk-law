@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Health in pregnancy grant: Civil penalty for fraud, etc.[^key-34a48c1fb23e9d99b6f308febdf4eec7]
+## SCHEDULE 3A — Health in pregnancy grant: Civil penalty for fraud, etc.[^c-34a48c1fb23e9d99b6f308febdf4eec7]
 
 *Extent: N.I.*
 
@@ -79,4 +79,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34a48c1fb23e9d99b6f308febdf4eec7]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ukpga/1992/8/schedule/3A) inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 136(2)](https://www.legislation.gov.uk/ukpga/2008/14/section/136/2), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)
+[^c-34a48c1fb23e9d99b6f308febdf4eec7]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ukpga/1992/8/schedule/3A) inserted (21.7.2008 for specified purposes, 1.1.2009 in so far as not already in force) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [ss. 136(2)](https://www.legislation.gov.uk/ukpga/2008/14/section/136/2), [170](https://www.legislation.gov.uk/ukpga/2008/14/section/170); [S.I. 2008/3137](https://www.legislation.gov.uk/uksi/2008/3137), [art. 2](https://www.legislation.gov.uk/uksi/2008/3137/article/2)

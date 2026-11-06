@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 222. Consent for the display of advertisements[^key-e09c7ac791af19e64fe96cec434a2287]
+## 222. Consent for the display of advertisements[^c-e09c7ac791af19e64fe96cec434a2287]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e09c7ac791af19e64fe96cec434a2287]: Commencement: S. 222 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e09c7ac791af19e64fe96cec434a2287]: Commencement: S. 222 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Exercise of transport functions[^key-c0e6aa967e0b30da7c75c288bd37ba09]
+## 9A. Exercise of transport functions[^c-c0e6aa967e0b30da7c75c288bd37ba09]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0e6aa967e0b30da7c75c288bd37ba09]: Textual amendment: Ss. 9A, 9B and cross-headings inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/104/1), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)
+[^c-c0e6aa967e0b30da7c75c288bd37ba09]: Textual amendment: Ss. 9A, 9B and cross-headings inserted (17.6.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 104(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/104/1), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2026/641](https://www.legislation.gov.uk/uksi/2026/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/641/regulation/2/b)

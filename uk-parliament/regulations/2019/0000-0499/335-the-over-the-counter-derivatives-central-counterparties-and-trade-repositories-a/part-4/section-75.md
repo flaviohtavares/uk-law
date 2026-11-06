@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Application of Part 11 of the FSMA (information gathering and investigations)[^key-e14e223ae42233d4a3601a3b32d86fd7][^key-089273b6308afe41913a6628a0c5d53a][^key-e14e223ae42233d4a3601a3b32d86fd7]
+## 75. Application of Part 11 of the FSMA (information gathering and investigations)[^c-e14e223ae42233d4a3601a3b32d86fd7][^c-089273b6308afe41913a6628a0c5d53a][^c-e14e223ae42233d4a3601a3b32d86fd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -153,6 +153,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e14e223ae42233d4a3601a3b32d86fd7]: Modification: Pt. 4 applied (with modifications) (31.12.2020) by Regulation (EU) No. 2017/2402, Art. 15(2)(3) (as substituted by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/660/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-e14e223ae42233d4a3601a3b32d86fd7]: Modification: Pt. 4 applied (with modifications) (31.12.2020) by Regulation (EU) No. 2017/2402, Art. 15(2)(3) (as substituted by [The Securitisation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/660)](https://www.legislation.gov.uk/uksi/2019/660), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/660/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2019/660/regulation/15) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-089273b6308afe41913a6628a0c5d53a]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-089273b6308afe41913a6628a0c5d53a]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)

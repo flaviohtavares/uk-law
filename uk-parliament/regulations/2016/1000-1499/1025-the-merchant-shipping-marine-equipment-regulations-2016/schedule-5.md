@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — United Kingdom Declaration of Conformity[^key-0eb5957faf45e7cddf20b111c6d7ab04]
+## SCHEDULE 5 — United Kingdom Declaration of Conformity[^c-0eb5957faf45e7cddf20b111c6d7ab04]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ summary: ''
 
 Regulation 14
 
-**1.**[^key-0eb5957faf45e7cddf20b111c6d7ab04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0eb5957faf45e7cddf20b111c6d7ab04] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0eb5957faf45e7cddf20b111c6d7ab04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1025) revoked (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/27/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-0eb5957faf45e7cddf20b111c6d7ab04]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/1025) revoked (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 27(a)](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/27/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))

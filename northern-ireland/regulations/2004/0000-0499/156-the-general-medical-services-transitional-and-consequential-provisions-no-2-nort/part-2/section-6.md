@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Removal from the list of patients at the request of the relevant medical practitioner[^key-c6afac5f7137cbf771dfccc76bcc405a]
+## 6. Removal from the list of patients at the request of the relevant medical practitioner[^c-c6afac5f7137cbf771dfccc76bcc405a]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ whichever is the sooner.
 
 ## Annotations
 
-[^key-c6afac5f7137cbf771dfccc76bcc405a]: Commencement: Art. 6 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-c6afac5f7137cbf771dfccc76bcc405a]: Commencement: Art. 6 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00015]: Footnote: Paragraph 9 was amended by [S.R. 1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)

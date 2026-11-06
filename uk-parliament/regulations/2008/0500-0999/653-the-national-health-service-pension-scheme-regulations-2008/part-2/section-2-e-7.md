@@ -26,10 +26,10 @@ summary: ''
 
 (3) Subject to paragraph (4), for the relevant initial period the rate of the pension payable under regulation 2.E.1 is equal to the sum of—
 
-- (a)[^key-934546ecd93c38b157f860014f980d59] in the case of —
+- (a)[^c-934546ecd93c38b157f860014f980d59] in the case of —
   - (i) a deceased active member, the rate of the deceased’s pensionable pay at the time of death, or
   - (ii) a deceased non-contributing member, the rate of the deceased’s reckonable pay on the deceased’s last day of pensionable service, and
-- (b)[^key-70eadde7d20b1e09d7a6d2f703ece19a] the rate of the deceased member’s pension payable at the time of death after taking account of any reduction in the rate of the pension under—
+- (b)[^c-70eadde7d20b1e09d7a6d2f703ece19a] the rate of the deceased member’s pension payable at the time of death after taking account of any reduction in the rate of the pension under—
   - (i) Chapter 2.H,
   - (ii) regulation 2.D.14, and
   - (iii) regulation 2.K.12.
@@ -43,6 +43,6 @@ would be greater.
 
 ## Annotations
 
-[^key-934546ecd93c38b157f860014f980d59]: Textual amendment: [Reg. 2.E.7(3)(a)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2) substituted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2009/381/regulation/39) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-934546ecd93c38b157f860014f980d59]: Textual amendment: [Reg. 2.E.7(3)(a)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2) substituted (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [39](https://www.legislation.gov.uk/uksi/2009/381/regulation/39) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-70eadde7d20b1e09d7a6d2f703ece19a]: Textual amendment: [Reg. 2.E.7(3)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.7/3/b) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2009/2446/regulation/38)
+[^c-70eadde7d20b1e09d7a6d2f703ece19a]: Textual amendment: [Reg. 2.E.7(3)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.7/3/b) substituted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2009/2446/regulation/38)

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Regional Development[^f00001], being a Department designated[^f00002] for the purposes of section 2(2) of the European Communities Act 1972[^f00003] in relation to measures relating to the organisation of working time, in exercise of the powers conferred by that provision makes the following Regulations:
 
-## 1. Citation and commencement[^key-cc5337cec761d796eb829a4fa889779f]
+## 1. Citation and commencement[^c-cc5337cec761d796eb829a4fa889779f]
 
 (1) These Regulations may be cited as the Cross-border Railway Services (Working Time) Regulations (Northern Ireland) 2008 and shall come into operation on 1st October 2008.
 
-## 2. Interpretation[^key-8d965d55688dbd6bec20558d3f1c82c9]
+## 2. Interpretation[^c-8d965d55688dbd6bec20558d3f1c82c9]
 
 (1) In these Regulations—
 
@@ -56,7 +56,7 @@ The Department for Regional Development[^f00001], being a Department designated[
 - “employment”, in relation to a cross-border worker, means employment under the worker’s contract, and “employed” shall be construed accordingly;
 - “the Executive” means the Health and Safety Executive for Northern Ireland referred to in Article 3(1) of the Health and Safety at Work (Amendment) (Northern Ireland) Order 1998[^f00005];
 - “inspector” means a person appointed under paragraph 1 of Schedule 2;
-- “interoperable cross-border services” are rail services between Northern Ireland and the Republic of Ireland;[^key-a3d29955decea541a74a92209aa576b6]
+- “interoperable cross-border services” are rail services between Northern Ireland and the Republic of Ireland;[^c-a3d29955decea541a74a92209aa576b6]
 - “leave year” for a cross-border worker begins on—
   - (a) such date as is provided for in a relevant agreement, or
   - (b) if there are no provisions of a relevant agreement which apply, on 1 January;
@@ -74,7 +74,7 @@ The Department for Regional Development[^f00001], being a Department designated[
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Daily rest[^key-df443a193e1b6c9bb2b85d26aa506299]
+## 3. Daily rest[^c-df443a193e1b6c9bb2b85d26aa506299]
 
 (1) A cross-border worker is entitled in each 24 hour period to a rest period that is a minimum number of consecutive hours (“daily rest period”).
 
@@ -90,7 +90,7 @@ The Department for Regional Development[^f00001], being a Department designated[
 
 (7) If a daily rest period at home is scheduled to be between two daily rest periods away from home, the daily rest period at home must not be reduced under paragraph (3) below ten hours.
 
-## 4. Break for sole driver[^key-835a6fd6341be50069135925209d8815]
+## 4. Break for sole driver[^c-835a6fd6341be50069135925209d8815]
 
 (1) Where there is only one driver and the driver’s scheduled daily working time is six or more hours the driver is entitled to a break, but this paragraph and paragraphs (2) to (4) are subject to paragraphs (5) to (7).
 
@@ -106,7 +106,7 @@ The Department for Regional Development[^f00001], being a Department designated[
 
 (7) The time and duration of the adapted break entitlement must be sufficient to ensure the effective recuperation of the worker.
 
-## 5. Breaks for drivers[^key-5da91fa4589da7c972f6d27d203e100d]
+## 5. Breaks for drivers[^c-5da91fa4589da7c972f6d27d203e100d]
 
 (1) A driver who is not entitled to a break under regulation 4 and whose scheduled daily working time is more than six hours is entitled to a break, but this paragraph and paragraphs (2) and (3) are subject to paragraph (4).
 
@@ -119,11 +119,11 @@ The Department for Regional Development[^f00001], being a Department designated[
 - (a) the employer must wherever possible allow the driver to take an equivalent period of compensatory rest, and
 - (b) in exceptional cases in which it is not possible, for objective reasons, to grant such a period of rest, the employer must afford the driver such protection as may be appropriate to safeguard the driver’s health and safety.
 
-## 6. Breaks for other workers[^key-6d1446522fe00eea8bf19ce61854a587]
+## 6. Breaks for other workers[^c-6d1446522fe00eea8bf19ce61854a587]
 
 A cross-border worker who is not a driver and whose scheduled daily working time is more than six hours is entitled to a break that must be scheduled to be for at least 30 minutes.
 
-## 7. Weekly rest[^key-6fc906f1dbe6f010e1abd525b94bbe63]
+## 7. Weekly rest[^c-6fc906f1dbe6f010e1abd525b94bbe63]
 
 (1) A cross-border worker is entitled every week to a rest period of 24 consecutive hours (a “rest day”) in addition to the minimum daily rest entitlement under regulation 3 and any days taken as part of the worker’s entitlement to annual leave.
 
@@ -150,7 +150,7 @@ A cross-border worker who is not a driver and whose scheduled daily working time
 
 (11) Paragraphs (7) and (8) only apply if the person is a cross-border worker throughout the relevant part year.
 
-## 8. Driving time[^key-ac31333a1beee8f9d30c1d9bd0522e3e]
+## 8. Driving time[^c-ac31333a1beee8f9d30c1d9bd0522e3e]
 
 (1) Between two daily rests taken in accordance with regulation 3 a driver’s scheduled driving time must not exceed—
 
@@ -169,7 +169,7 @@ A cross-border worker who is not a driver and whose scheduled daily working time
   - (c) is determined for the purposes of this regulation by a relevant agreement, or, in default of such a determination, the period which is between 11pm ands 6am; and
 - “scheduled driving time” means the time scheduled for when the driver is to be in charge of the traction unit, excluding the scheduled time to prepare or shut down the unit, but including any scheduled interruptions for when the driver is to remain in charge.
 
-## 9. Records[^key-d2d604df3620a80764913183fb75b07c]
+## 9. Records[^c-d2d604df3620a80764913183fb75b07c]
 
 (1) The employer of a cross-border worker must—
 
@@ -181,7 +181,7 @@ A cross-border worker who is not a driver and whose scheduled daily working time
 - (a) at the request of the worker, to the worker; and
 - (b) at the request of the Executive, to it.
 
-## 10. Enforcement[^key-38351d5c9342c2caf667612b8cc8bfee]
+## 10. Enforcement[^c-38351d5c9342c2caf667612b8cc8bfee]
 
 (1) It shall be the duty of the Executive to make adequate arrangements for the enforcement of regulations 8(3) and 9.
 
@@ -189,7 +189,7 @@ A cross-border worker who is not a driver and whose scheduled daily working time
 
 (3) Any function of the Department of Enterprise, Trade and Investment under the Health and Safety at Work (Northern Ireland) Order 1978[^f00008] which is exercisable in relation to the enforcement by the Executive of the relevant statutory provisions (as defined in paragraph 8(1) of Schedule 2) shall be exercisable in relation to the enforcement by the Executive of the regulations 8(3) and 9.
 
-## 11. Offences[^key-93c344ecfb6b51346e391214713d4723]
+## 11. Offences[^c-93c344ecfb6b51346e391214713d4723]
 
 (1) An employer of a cross-border worker who fails to comply with regulations 8(3) or 9 is guilty of an offence.
 
@@ -227,23 +227,23 @@ A cross-border worker who is not a driver and whose scheduled daily working time
 
 (9) The provisions set out in regulations 12–16 shall apply in relation to the offences provided for in paragraphs (1) and (3).
 
-## 12. Offences due to fault of other person[^key-02ed1a21433725bc76ef0fd83230d62c]
+## 12. Offences due to fault of other person[^c-02ed1a21433725bc76ef0fd83230d62c]
 
 Where the commission by any person of an offence is due to the act or default of some other person, that other person shall be guilty of the offence, and a person may be charged with and convicted of the offence by virtue of this paragraph whether or not proceedings are taken against the first-mentioned person.
 
-## 13. Offences by bodies corporate[^key-176699b160c54ef92f27c19e7f57c023]
+## 13. Offences by bodies corporate[^c-176699b160c54ef92f27c19e7f57c023]
 
 For the purposes of these Regulations section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-## 14. Restriction on institution of proceedings[^key-ca3d1418d1ff50e55593aa719f89d088]
+## 14. Restriction on institution of proceedings[^c-ca3d1418d1ff50e55593aa719f89d088]
 
 Proceedings for an offence shall not be instituted except by an inspector or by or with the consent of the Director of Public Prosecutions for Northern Ireland.
 
-## 15. Prosecutions by inspectors[^key-ca5ac7cca405be75b005c7c652156b99]
+## 15. Prosecutions by inspectors[^c-ca5ac7cca405be75b005c7c652156b99]
 
 An inspector, if authorised in that behalf by the Executive may, although not of counsel or a solicitor, prosecute before a court of summary jurisdiction proceedings for an offence under these Regulations.
 
-## 16. Power of court to order cause of offence to be remedied[^key-90e81c14c0bdaf533f9df8185e9ce308]
+## 16. Power of court to order cause of offence to be remedied[^c-90e81c14c0bdaf533f9df8185e9ce308]
 
 (1) Where a person is convicted of an offence in respect of any matters which appear to the court to be matters which it is in the person’s power to remedy, the court may, in addition to or instead of imposing any punishment, order the person, within such time as may be fixed by the order, to take such steps as may be specified in the order for remedying the matters.
 
@@ -251,7 +251,7 @@ An inspector, if authorised in that behalf by the Executive may, although not of
 
 (3) Where a person is ordered under paragraph (1) to remedy any matters, that person shall not be liable under these Regulations in respect of those matters in so far as they continue during the time fixed by the order or any further time allowed under paragraph (2).
 
-## 17. Remedies[^key-bd54f80deb3f6e7e83a998f41e682f34]
+## 17. Remedies[^c-bd54f80deb3f6e7e83a998f41e682f34]
 
 (1) A cross-border worker may present a complaint to an industrial tribunal that his employer has refused to permit the worker to exercise any right the worker has under regulations 3 to 7.
 
@@ -260,7 +260,7 @@ An inspector, if authorised in that behalf by the Executive may, although not of
 - (a) before the end of the period of three months beginning with the date on which it is alleged that the exercise of the right should have been permitted (or in the case of a rest period extending over more than one day, the date on which it should have been permitted to begin);
 - (b) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented before the end of that period of three months.
 
-(2A)[^key-f7f90d59e6798ebd9cbaa55fadc5914d] Regulation 17A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
+(2A)[^c-f7f90d59e6798ebd9cbaa55fadc5914d] Regulation 17A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (2).
 
 (3) Where the period within which a complaint must be presented in accordance with paragraph (2) is extended by regulation 15 of the Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004[^f00009], the period within which the complaint must be presented shall be the extended period rather than the period in paragraph (2).
 
@@ -274,7 +274,7 @@ An inspector, if authorised in that behalf by the Executive may, although not of
 - (a) the employer’s default in refusing to permit the worker to exercise the worker’s right, and
 - (b) any loss sustained by the worker which is attributable to the matters complained of.
 
-## 17A. Extension of time limit to facilitate conciliation before institution of proceedings[^key-b65bcf3636e764eeea03acf0fd62c93d]
+## 17A. Extension of time limit to facilitate conciliation before institution of proceedings[^c-b65bcf3636e764eeea03acf0fd62c93d]
 
 (1) In this regulation—
 
@@ -287,7 +287,7 @@ An inspector, if authorised in that behalf by the Executive may, although not of
 
 (4) The power conferred on the industrial tribunal by regulation 17(2)(b) to extend the time limit set by paragraph (2)(a) of that regulation is exercisable in relation to that time limit as extended by this regulation.
 
-## 18. Restrictions on contracting out[^key-34a1fd986d02281f1774d332c6974ab6]
+## 18. Restrictions on contracting out[^c-34a1fd986d02281f1774d332c6974ab6]
 
 (1) Any provision in an agreement (whether a contract of employment or not) is void in so far as it purports—
 
@@ -296,7 +296,7 @@ An inspector, if authorised in that behalf by the Executive may, although not of
 
 (2) Paragraph (1) does not apply to—
 
-- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of Articles 20A to 20C[^key-2132f13e0bbbad629b6d15a4c70f0138] of the Industrial Tribunals (Northern Ireland) Order 1996[^f00010] (conciliation); or
+- (a) any agreement to refrain from instituting or continuing proceedings where a conciliation officer has taken action under any of Articles 20A to 20C[^c-2132f13e0bbbad629b6d15a4c70f0138] of the Industrial Tribunals (Northern Ireland) Order 1996[^f00010] (conciliation); or
 - (b) any agreement to refrain from instituting or continuing proceedings within Article 20 (1)(q) of the Industrial Tribunals (Northern Ireland) Order 1996 (proceedings under this Order where conciliation is available), if the conditions regulating compromise agreements under these Regulations are satisfied in relation to the agreement.
 
 (3) For the purposes of paragraph (2)(b) the conditions regulating compromise agreements under these Regulations are that—
@@ -329,7 +329,7 @@ An inspector, if authorised in that behalf by the Executive may, although not of
 
 and “associated employer” shall be construed accordingly.
 
-## 19. Amendments to legislation[^key-79e533dc4e0bbd974875875165a8875e]
+## 19. Amendments to legislation[^c-79e533dc4e0bbd974875875165a8875e]
 
 Schedule 3 shall have effect.
 
@@ -345,7 +345,7 @@ Department
 
 Regulation 2
 
-**1.**[^key-14ad71b21aec139d39d9277816631a02] An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied—
+**1.**[^c-14ad71b21aec139d39d9277816631a02] An agreement is a workforce agreement for the purposes of these Regulations if the following conditions are satisfied—
 
 - (a) the agreement is in writing;
 - (b) it has effect for a specified period not exceeding five years;
@@ -357,14 +357,14 @@ Regulation 2
   - (ii) if the employer employed 20 or fewer workers on the date referred to in sub-paragraph (d)(i), either by the appropriate representatives in accordance with that sub-paragraph or by the majority of the workers employed by him;
 - (e) before the agreement was made available for signature, the employer provided all the workers to whom it was intended to apply on the date on which it came into effect with copies of the text of the agreement and such guidance as those workers might reasonably require in order to understand it fully.
 
-**2.**[^key-646acd44c748c076745e8d5aa4ffa5a4] In this Schedule—
+**2.**[^c-646acd44c748c076745e8d5aa4ffa5a4] In this Schedule—
 
 - “a particular group” is a group of the relevant members of a workforce who undertake a particular function, work at a particular workplace or belong to a particular department or unit within their employer’s business;
 - “relevant members of the workforce” are all of the workers employed by a particular employer, excluding any worker whose terms and conditions of employment are provided for, wholly or in part, in a collective agreement;
 - “representatives of the workforce” are workers duly elected to represent the relevant members of the workforce;
 - “representatives of the group” are workers duly elected to represent the members of a particular group, and representatives are “duly elected” if the election at which they were elected satisfied the requirements of paragraph 3 of this Schedule.
 
-**3.**[^key-0a8171a46b787bcff60b24d0c5d3d9ea] The requirements concerning elections referred to in paragraph 2 are that—
+**3.**[^c-0a8171a46b787bcff60b24d0c5d3d9ea] The requirements concerning elections referred to in paragraph 2 are that—
 
 - (a) the number of representatives to be elected is determined by the employer;
 - (b) the candidates for election as representatives of the workforce are relevant members of the workforce, and the candidates for election as representatives of a group are members of the group;
@@ -379,7 +379,7 @@ Regulation 2
 
 Regulation 10
 
-### 1. Appointment of inspectors[^key-6cedffda10dccfd1cd27eb43a8cf821b]
+### 1. Appointment of inspectors[^c-6cedffda10dccfd1cd27eb43a8cf821b]
 
 (1) The Executive may appoint as inspectors (under whatever title it may from time to time determine) such persons having suitable qualifications as it thinks necessary for carrying into effect these Regulations within its field of responsibility, and may terminate any appointment made under this paragraph.
 
@@ -392,7 +392,7 @@ Regulation 10
 
 (4) An inspector shall, if so required when exercising or seeking to exercise any power conferred on the inspector by these Regulations, produce the inspector’s instrument of appointment or a duly authenticated copy of it.
 
-### 2. Powers of inspectors[^key-22011f6e0e0c931b3f899bcbea3fe2c9]
+### 2. Powers of inspectors[^c-22011f6e0e0c931b3f899bcbea3fe2c9]
 
 (1) Subject to the provisions of paragraph 1 and this paragraph, an inspector may, for the purpose of carrying into effect these Regulations within the field of responsibility of the Executive, exercise the powers set out in sub-paragraph (2).
 
@@ -415,7 +415,7 @@ Regulation 10
 
 (4) Nothing in this paragraph shall be taken to compel the production by any person of a document of which the person would on grounds of legal professional privilege be entitled to withhold production on an order for discovery in an action in the High Court.
 
-### 3. Improvement notices[^key-e50ac016278e016a026e28b6a64fa3ee]
+### 3. Improvement notices[^c-e50ac016278e016a026e28b6a64fa3ee]
 
 If an inspector is of the opinion that a person—
 
@@ -424,7 +424,7 @@ If an inspector is of the opinion that a person—
 
 the inspector may serve on the person a notice (in this Schedule referred to as “an improvement notice”) stating that the inspector is of that opinion, specifying the provision or provisions as to which the inspector is of that opinion, giving particulars of the reasons why the inspector is of that opinion, and requiring that person to remedy the contravention or, as the case may be, the matters occasioning it within such period (ending not earlier than the period within which an appeal against the notice can be brought under paragraph 6) as may be specified in the notice.
 
-### 4. Prohibition notices[^key-0ac7a101673418c24d8042880b73dc79]
+### 4. Prohibition notices[^c-0ac7a101673418c24d8042880b73dc79]
 
 (1) This paragraph applies to any activities which are being or are likely to be carried on by or under the control of any person, being activities to or in relation to which any of these Regulations apply or will, if the activities are so carried on, apply.
 
@@ -442,7 +442,7 @@ the inspector may serve on the person a notice (in this Schedule referred to as 
 - (a) at the end of the period specified in the notice; or
 - (b) if the notice so declares, immediately.
 
-### 5. Provisions supplementary to paragraphs 3 and 4[^key-131fab38b30fa1d5d2377614d8861437]
+### 5. Provisions supplementary to paragraphs 3 and 4[^c-131fab38b30fa1d5d2377614d8861437]
 
 (1) In this paragraph “a notice” means an improvement notice or a prohibition notice.
 
@@ -456,7 +456,7 @@ the inspector may serve on the person a notice (in this Schedule referred to as 
 - (a) the notice may be withdrawn by an inspector at any time before the end of the period specified in the notice in pursuance of paragraph 3 or paragraph 4(4) as the case may be; and
 - (b) the period so specified may be extended or further extended by an inspector at any time when an appeal against the notice is not pending.
 
-### 6. Appeal against improvement or prohibition notice[^key-c2d72cd7017accdbf7ec5371ef1bf170]
+### 6. Appeal against improvement or prohibition notice[^c-c2d72cd7017accdbf7ec5371ef1bf170]
 
 (1) In this paragraph “a notice” means an improvement or a prohibition notice.
 
@@ -469,11 +469,11 @@ the inspector may serve on the person a notice (in this Schedule referred to as 
 
 (4) One or more assessors may be appointed for the purposes of any proceedings brought before an employment tribunal under this paragraph.
 
-### 7. Power to indemnify inspectors[^key-5e22cc35ff68033df8668c765f93d52e]
+### 7. Power to indemnify inspectors[^c-5e22cc35ff68033df8668c765f93d52e]
 
 Where an action has been brought against an inspector in respect of an act done in the execution or purported execution of these Regulations and the circumstances are such that the inspector is not legally entitled to require the Executive to indemnify the inspector, the Executive may, nevertheless, indemnify the inspector against the whole or part of any damages and costs or expenses which the inspector may have been ordered to pay or may have incurred, if the Executive is satisfied that the inspector honestly believed that the act complained of was within the inspector’s powers and that the inspector’s duty as an inspector required or entitled the inspector to do it.
 
-### 8. Restrictions on disclosure of information[^key-968c232b7df644b398e63d95edd78f7c]
+### 8. Restrictions on disclosure of information[^c-968c232b7df644b398e63d95edd78f7c]
 
 (1) In this paragraph—
 
@@ -525,7 +525,7 @@ and, where an inspector does this, the inspector must give the same information 
 
 Regulation 19
 
-**1.**[^key-9f71c553e6719f5df78e7f7cc0aa7ce4] In Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996[^f00012] (conciliation)—
+**1.**[^c-9f71c553e6719f5df78e7f7cc0aa7ce4] In Article 20(1) of the Industrial Tribunals (Northern Ireland) Order 1996[^f00012] (conciliation)—
 
 - (a) at the end of the second paragraph numbered (o) omit “or”, and
 - (b) before the full stop in paragraph (p) insert—
@@ -535,7 +535,7 @@ Regulation 19
 
   .
 
-**2.**[^key-b346d9cd1035f7d05886e7b3a00f64bd] (1) The Employment Rights (Northern Ireland) Order 1996[^f00013] is amended as follows.
+**2.**[^c-b346d9cd1035f7d05886e7b3a00f64bd] (1) The Employment Rights (Northern Ireland) Order 1996[^f00013] is amended as follows.
 
 (2) In Article 68A(5)(b) (right not to suffer detriment: working time cases) before the full stop insert—
 
@@ -557,7 +557,7 @@ Regulation 19
 
 .
 
-**3.**[^key-eca19817fd82371d94a416cbfd074e61] In the Employment (Northern Ireland) Order 2003(n) at the end of each of the following Schedules[^f00014]—
+**3.**[^c-eca19817fd82371d94a416cbfd074e61] In the Employment (Northern Ireland) Order 2003(n) at the end of each of the following Schedules[^f00014]—
 
 - (a) Schedule 2 (tribunal jurisdictions to which Article 17 applies for adjustment of awards for non-completion of statutory procedure);
 - (b) Schedule 3 (tribunal jurisdictions to which Article 19 applies for complaints where the employee must first submit a statement of grievance to employer); and
@@ -569,7 +569,7 @@ there is inserted—
 
 .
 
-**4.**[^key-40cf854bd7386513b2581252cbae24e1] In regulation 18 of the Working Time Regulations (Northern Ireland) 1998[^f00015] (excluded sections) there is inserted at the end—
+**4.**[^c-40cf854bd7386513b2581252cbae24e1] In regulation 18 of the Working Time Regulations (Northern Ireland) 1998[^f00015] (excluded sections) there is inserted at the end—
 
 > (5) Regulation 24 does not apply to workers to whom the Cross-border Railways Services (Working Time) Regulations (Northern Ireland) 2008 apply.
 
@@ -605,100 +605,100 @@ Regulation 19 and Schedule 3 also amend the Industrial Tribunals (Northern Irela
 
 [^f00003]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-cc5337cec761d796eb829a4fa889779f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/315/regulation/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-cc5337cec761d796eb829a4fa889779f]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2008/315/regulation/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-8d965d55688dbd6bec20558d3f1c82c9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/315/regulation/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-8d965d55688dbd6bec20558d3f1c82c9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2008/315/regulation/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
 [^f00004]: Footnote: S.I. [1992/807 (N.I. 5)](https://www.legislation.gov.uk/nisi/1992/807)
 
 [^f00005]: Footnote: Formerly known as the Health and Safety Agency for Northern Ireland which was established under Article 12 of the Health and Safety at Work (Northern Ireland) Order 1978 (S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)). Article 3(1) of the Health and Safety at Work (Amendment) (Northern Ireland) Order 1998 (S.I. [1998/2795 (N.I. 18)](https://www.legislation.gov.uk/nisi/1998/2795)) changed its name to the Health and Safety Executive for Northern Ireland
 
-[^key-a3d29955decea541a74a92209aa576b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [47](https://www.legislation.gov.uk/uksi/2019/826/regulation/47); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a3d29955decea541a74a92209aa576b6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [47](https://www.legislation.gov.uk/uksi/2019/826/regulation/47); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-df443a193e1b6c9bb2b85d26aa506299]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/315/regulation/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-df443a193e1b6c9bb2b85d26aa506299]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2008/315/regulation/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-835a6fd6341be50069135925209d8815]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/315/regulation/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-835a6fd6341be50069135925209d8815]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2008/315/regulation/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-5da91fa4589da7c972f6d27d203e100d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/315/regulation/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-5da91fa4589da7c972f6d27d203e100d]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2008/315/regulation/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-6d1446522fe00eea8bf19ce61854a587]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/315/regulation/6) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-6d1446522fe00eea8bf19ce61854a587]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2008/315/regulation/6) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-6fc906f1dbe6f010e1abd525b94bbe63]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/315/regulation/7) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-6fc906f1dbe6f010e1abd525b94bbe63]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2008/315/regulation/7) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-ac31333a1beee8f9d30c1d9bd0522e3e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/315/regulation/8) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-ac31333a1beee8f9d30c1d9bd0522e3e]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2008/315/regulation/8) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-d2d604df3620a80764913183fb75b07c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/315/regulation/9) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-d2d604df3620a80764913183fb75b07c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2008/315/regulation/9) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-38351d5c9342c2caf667612b8cc8bfee]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/315/regulation/10) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-38351d5c9342c2caf667612b8cc8bfee]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2008/315/regulation/10) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
 [^f00008]: Footnote: S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
 
-[^key-93c344ecfb6b51346e391214713d4723]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/315/regulation/11) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-93c344ecfb6b51346e391214713d4723]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2008/315/regulation/11) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-02ed1a21433725bc76ef0fd83230d62c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/315/regulation/12) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-02ed1a21433725bc76ef0fd83230d62c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2008/315/regulation/12) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-176699b160c54ef92f27c19e7f57c023]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/315/regulation/13) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-176699b160c54ef92f27c19e7f57c023]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2008/315/regulation/13) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-ca3d1418d1ff50e55593aa719f89d088]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/315/regulation/14) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-ca3d1418d1ff50e55593aa719f89d088]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2008/315/regulation/14) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-ca5ac7cca405be75b005c7c652156b99]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/315/regulation/15) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-ca5ac7cca405be75b005c7c652156b99]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2008/315/regulation/15) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-90e81c14c0bdaf533f9df8185e9ce308]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/315/regulation/16) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-90e81c14c0bdaf533f9df8185e9ce308]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2008/315/regulation/16) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-bd54f80deb3f6e7e83a998f41e682f34]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/315/regulation/17) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-bd54f80deb3f6e7e83a998f41e682f34]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2008/315/regulation/17) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-f7f90d59e6798ebd9cbaa55fadc5914d]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/nisr/2008/315/regulation/17/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 43](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/43)
+[^c-f7f90d59e6798ebd9cbaa55fadc5914d]: Textual amendment: [Reg. 17(2A)](https://www.legislation.gov.uk/nisr/2008/315/regulation/17/2A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 43](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/43)
 
 [^f00009]: Footnote: [S.R. 2004/521](https://www.legislation.gov.uk/nisr/2004/521)
 
-[^key-b65bcf3636e764eeea03acf0fd62c93d]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2008/315/regulation/17A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 44](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/44)
+[^c-b65bcf3636e764eeea03acf0fd62c93d]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/nisr/2008/315/regulation/17A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 44](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/44)
 
-[^key-34a1fd986d02281f1774d332c6974ab6]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2008/315/regulation/18) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-34a1fd986d02281f1774d332c6974ab6]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2008/315/regulation/18) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-2132f13e0bbbad629b6d15a4c70f0138]: Textual amendment: Words in [reg. 18(2)(a)](https://www.legislation.gov.uk/nisr/2008/315/regulation/18/2/a) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 45](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/45)
+[^c-2132f13e0bbbad629b6d15a4c70f0138]: Textual amendment: Words in [reg. 18(2)(a)](https://www.legislation.gov.uk/nisr/2008/315/regulation/18/2/a) substituted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 45](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/45)
 
 [^f00010]: Footnote: S.I. [1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921); article 20(1) has been amended on a number of occasions to specify additional proceedings and claims to which the article applies
 
-[^key-79e533dc4e0bbd974875875165a8875e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/315/regulation/19) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-79e533dc4e0bbd974875875165a8875e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2008/315/regulation/19) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-14ad71b21aec139d39d9277816631a02]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/315/schedule/1/paragraph/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-14ad71b21aec139d39d9277816631a02]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2008/315/schedule/1/paragraph/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-646acd44c748c076745e8d5aa4ffa5a4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/315/schedule/1/paragraph/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-646acd44c748c076745e8d5aa4ffa5a4]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2008/315/schedule/1/paragraph/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-0a8171a46b787bcff60b24d0c5d3d9ea]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2008/315/schedule/1/paragraph/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-0a8171a46b787bcff60b24d0c5d3d9ea]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2008/315/schedule/1/paragraph/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-6cedffda10dccfd1cd27eb43a8cf821b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-6cedffda10dccfd1cd27eb43a8cf821b]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-22011f6e0e0c931b3f899bcbea3fe2c9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-22011f6e0e0c931b3f899bcbea3fe2c9]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-e50ac016278e016a026e28b6a64fa3ee]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-e50ac016278e016a026e28b6a64fa3ee]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-0ac7a101673418c24d8042880b73dc79]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-0ac7a101673418c24d8042880b73dc79]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-131fab38b30fa1d5d2377614d8861437]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-131fab38b30fa1d5d2377614d8861437]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/5) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-c2d72cd7017accdbf7ec5371ef1bf170]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/6) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-c2d72cd7017accdbf7ec5371ef1bf170]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/6) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-5e22cc35ff68033df8668c765f93d52e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/7) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-5e22cc35ff68033df8668c765f93d52e]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/7) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
-[^key-968c232b7df644b398e63d95edd78f7c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/8) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-968c232b7df644b398e63d95edd78f7c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2008/315/schedule/2/paragraph/8) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
 [^f00011]: Footnote: S.I. [1978/1039 (N.I. 9)](https://www.legislation.gov.uk/nisi/1978/1039)
 
-[^key-9f71c553e6719f5df78e7f7cc0aa7ce4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-9f71c553e6719f5df78e7f7cc0aa7ce4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/1) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
 [^f00012]: Footnote: S.I. [1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921)
 
-[^key-b346d9cd1035f7d05886e7b3a00f64bd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-b346d9cd1035f7d05886e7b3a00f64bd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/2) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
 [^f00013]: Footnote: [S.I. 1996 /1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 68A was inserted by regulation 31 (1) of the Working time Regulations (Northern Ireland) 1998 (S.R.) [1998 No. 386](https://www.legislation.gov.uk/nisr/1998/386))(ìthe 1998 Regulationsî) and amended by the Employment Relations (Northern Ireland) Order 1999, S.I. [1999/2790 (N.I. 9)](https://www.legislation.gov.uk/nisi/1999/2790), article 20(3) and Schedule 9; Articles 132A and 135(4)(d) were inserted by regulation 32(1) and (2) of the 1998 Regulations, respectively. Those Articles were amended by paragraph 4 of Schedule 2 to the Merchant Shipping (Working Time: Inland Waterways) Regulations 2003, S.I. [2003/3049](https://www.legislation.gov.uk/uksi/2003/3049) and by paragraph 3 of Schedule 2 to the Fishing Vessels (Working Time; Sea fishermen) regulations 2004 S.I. [2004/1713](https://www.legislation.gov.uk/uksi/2004/1713)
 
-[^key-eca19817fd82371d94a416cbfd074e61]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-eca19817fd82371d94a416cbfd074e61]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/3) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
 [^f00014]: Footnote: S.I. [2003/2902 (N.I. 15)](https://www.legislation.gov.uk/nisi/2003/2902); Schedules 2, 3 and 4 have been amended on a number of occasions to list additional jurisdictions
 
-[^key-40cf854bd7386513b2581252cbae24e1]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
+[^c-40cf854bd7386513b2581252cbae24e1]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2008/315/schedule/3/paragraph/4) in operation at 1.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/315/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1998 No. 386](https://www.legislation.gov.uk/nisr/1998/386); regulation 18 was substituted by the Working Time (Amendment No. 2) Regulations (Northern Ireland) [2003, S.R. No. 330](https://www.legislation.gov.uk/nisr/2003/330): there are other amending instruments but none are relevant.

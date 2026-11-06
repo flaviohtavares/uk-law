@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Regulations about procurement[^key-6c2d32a0b963608ba8e8b6e9810fdf48]
+## 39. Regulations about procurement[^c-6c2d32a0b963608ba8e8b6e9810fdf48]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c2d32a0b963608ba8e8b6e9810fdf48]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/2015/26/section/39) repealed (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/54/schedule/11/paragraph/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-6c2d32a0b963608ba8e8b6e9810fdf48]: Textual amendment: [S. 39](https://www.legislation.gov.uk/ukpga/2015/26/section/39) repealed (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2023/54/schedule/11/paragraph/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

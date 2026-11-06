@@ -157,7 +157,7 @@ and are reasonably capable of being so modified.
 
 ### Discharge of water
 
-**8.**[^key-117c2c3c857ad2b40b4b9911da463ae5][^key-61a66523da8245acd5e060364d220b17] (1) The nominated undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the construction or maintenance of the works authorised by this Act and for that purpose may lay down, take up and alter pipes and may, on any land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used, make connections with the watercourse, sewer or drain.
+**8.**[^c-117c2c3c857ad2b40b4b9911da463ae5][^c-61a66523da8245acd5e060364d220b17] (1) The nominated undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the construction or maintenance of the works authorised by this Act and for that purpose may lay down, take up and alter pipes and may, on any land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used, make connections with the watercourse, sewer or drain.
 
 (2) The nominated undertaker shall not discharge any water into any public sewer or drain except with the consent of the person to whom it belongs; and such consent may be given subject to such terms and conditions as that person may reasonably impose but shall not be unreasonably withheld.
 
@@ -173,13 +173,13 @@ and are reasonably capable of being so modified.
 
 (8) In this paragraph—
 
-- (a) “**public sewer or drain**” means a sewer or drain which belongs to a sewerage undertaker, the Environment Agency, an internal drainage board, a local authority, an urban development corporation, a Mayoral development corporation[^key-5675b4630076e74ccdd12b2a3e18f0ab] for an area in Greater London[^key-611b6b90f273e1e25781ee8b84a1c2bd] or a harbour authority within the meaning of the Harbours Act 1964 (c. 40),
+- (a) “**public sewer or drain**” means a sewer or drain which belongs to a sewerage undertaker, the Environment Agency, an internal drainage board, a local authority, an urban development corporation, a Mayoral development corporation[^c-5675b4630076e74ccdd12b2a3e18f0ab] for an area in Greater London[^c-611b6b90f273e1e25781ee8b84a1c2bd] or a harbour authority within the meaning of the Harbours Act 1964 (c. 40),
 - (b) “**watercourse**” includes rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, sewers and passages through which water flows, except a public sewer or drain, and
 - (c) other expressions used both in this paragraph and in the Water Resources Act 1991 have the same meanings as in that Act.
 
 ### Entry for preparatory purposes
 
-**9.**[^key-b4826f0de62919c2105d972f3bb94889] (1) The nominated undertaker may, for the purposes of this Act—
+**9.**[^c-b4826f0de62919c2105d972f3bb94889] (1) The nominated undertaker may, for the purposes of this Act—
 
 - (a) survey or investigate any land within the limits of deviation for the scheduled works or within the limits of land to be acquired or used or which may be affected by the works authorised by this Act,
 - (b) without prejudice to the generality of paragraph (a), make trial holes in such positions as it thinks fit on any such land to investigate the nature of the surface layer and subsoil and remove soil samples,
@@ -235,12 +235,12 @@ and are reasonably capable of being so modified.
 
 ## Annotations
 
-[^key-117c2c3c857ad2b40b4b9911da463ae5]: Modification: Sch. 2 para. 8 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-117c2c3c857ad2b40b4b9911da463ae5]: Modification: Sch. 2 para. 8 applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
 
-[^key-61a66523da8245acd5e060364d220b17]: Modification: Sch. 2 para. 8 applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/b)
+[^c-61a66523da8245acd5e060364d220b17]: Modification: Sch. 2 para. 8 applied (21.4.2015) by [The Crossrail (Plumstead Sidings) Order 2015 (S.I. 2015/781)](https://www.legislation.gov.uk/uksi/2015/781), [art. 1](https://www.legislation.gov.uk/uksi/2015/781/article/1), [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/uksi/2015/781/schedule/4/paragraph/1/b)
 
-[^key-5675b4630076e74ccdd12b2a3e18f0ab]: Textual amendment: Words in Sch. 2 para. 8(8)(a) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 58](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/58)
+[^c-5675b4630076e74ccdd12b2a3e18f0ab]: Textual amendment: Words in Sch. 2 para. 8(8)(a) inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(1)(l)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/1/l), [Sch. 22 para. 58](https://www.legislation.gov.uk/ukpga/2011/20/schedule/22/paragraph/58)
 
-[^key-611b6b90f273e1e25781ee8b84a1c2bd]: Textual amendment: Words in Sch. 2 para. 8(8)(a) inserted (29.4.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 20 para. 23](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/23) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-611b6b90f273e1e25781ee8b84a1c2bd]: Textual amendment: Words in Sch. 2 para. 8(8)(a) inserted (29.4.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 20 para. 23](https://www.legislation.gov.uk/ukpga/2026/23/schedule/20/paragraph/23) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-b4826f0de62919c2105d972f3bb94889]: Modification: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2008/18/schedule/2/paragraph/9) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)
+[^c-b4826f0de62919c2105d972f3bb94889]: Modification: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2008/18/schedule/2/paragraph/9) applied (with modifications) (E.W.S.) (11.3.2014) by [The Crossrail (Paddington Station Bakerloo Line Connection) Order 2014 (S.I. 2014/310)](https://www.legislation.gov.uk/uksi/2014/310), [arts. 1](https://www.legislation.gov.uk/uksi/2014/310/article/1), [18](https://www.legislation.gov.uk/uksi/2014/310/article/18), [Sch. 6 paras. 1-3](https://www.legislation.gov.uk/uksi/2014/310/schedule/6/paragraph/1)

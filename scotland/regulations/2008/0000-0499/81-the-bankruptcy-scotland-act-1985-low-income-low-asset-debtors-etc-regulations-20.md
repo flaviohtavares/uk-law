@@ -32,7 +32,7 @@ summary: ''
 
 BANKRUPTCY
 
-The Bankruptcy (Scotland) Act 1985 (Low Income, Low Asset Debtors etc.) Regulations 2008 (revoked)[^key-54db21f730b6e66eac506856dc8fdfa0]
+The Bankruptcy (Scotland) Act 1985 (Low Income, Low Asset Debtors etc.) Regulations 2008 (revoked)[^c-54db21f730b6e66eac506856dc8fdfa0]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into force
 
 1st April 2008
 
-[^key-54db21f730b6e66eac506856dc8fdfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54db21f730b6e66eac506856dc8fdfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-54db21f730b6e66eac506856dc8fdfa0]
+## 1. Citation, commencement and interpretation[^c-54db21f730b6e66eac506856dc8fdfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Debtor’s weekly income[^key-54db21f730b6e66eac506856dc8fdfa0]
+## 2. Debtor’s weekly income[^c-54db21f730b6e66eac506856dc8fdfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Debtor’s assets[^key-54db21f730b6e66eac506856dc8fdfa0]
+## 3. Debtor’s assets[^c-54db21f730b6e66eac506856dc8fdfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the 1985 Act[^key-54db21f730b6e66eac506856dc8fdfa0]
+## 4. Amendment of the 1985 Act[^c-54db21f730b6e66eac506856dc8fdfa0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54db21f730b6e66eac506856dc8fdfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54db21f730b6e66eac506856dc8fdfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-54db21f730b6e66eac506856dc8fdfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54db21f730b6e66eac506856dc8fdfa0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-54db21f730b6e66eac506856dc8fdfa0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2008/81) revoked (1.4.2015) by [The Bankruptcy (Money Advice and Deduction from Income etc.) (Scotland) Regulations 2014 (S.S.I. 2014/296)](https://www.legislation.gov.uk/ssi/2014/296), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/296/regulation/1), [10](https://www.legislation.gov.uk/ssi/2014/296/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/296/regulation/11))
+[^c-54db21f730b6e66eac506856dc8fdfa0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2008/81) revoked (1.4.2015) by [The Bankruptcy (Money Advice and Deduction from Income etc.) (Scotland) Regulations 2014 (S.S.I. 2014/296)](https://www.legislation.gov.uk/ssi/2014/296), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2014/296/regulation/1), [10](https://www.legislation.gov.uk/ssi/2014/296/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/ssi/2014/296/regulation/11))

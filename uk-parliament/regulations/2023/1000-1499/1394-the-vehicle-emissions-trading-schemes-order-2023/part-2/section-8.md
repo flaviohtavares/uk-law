@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Pool participants in the Trading Schemes: general[^key-1c7911fa5c48f8f47f66271230d25320]
+## 8. Pool participants in the Trading Schemes: general[^c-1c7911fa5c48f8f47f66271230d25320]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c7911fa5c48f8f47f66271230d25320]: Commencement: Art. 8 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-1c7911fa5c48f8f47f66271230d25320]: Commencement: Art. 8 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

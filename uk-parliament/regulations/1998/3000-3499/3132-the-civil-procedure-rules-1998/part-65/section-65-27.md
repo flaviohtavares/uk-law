@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65.27. Scope of this Section[^key-fe983083cb3d124dd305ab0b59611da3]
+## 65.27. Scope of this Section[^c-fe983083cb3d124dd305ab0b59611da3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Section applies to proceedings under section 3 of the Protection from Haras
 
 ## Annotations
 
-[^key-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))
+[^c-fe983083cb3d124dd305ab0b59611da3]: Textual amendment: Pt. 65 inserted (30.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rule 1(b)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/1306/schedule/2) (with [rule 20(2)(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/2/a))

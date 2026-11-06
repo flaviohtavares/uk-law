@@ -53,23 +53,23 @@ Additional rules should be laid down regarding the calculation of the volume of 
 
 HAS ADOPTED THIS REGULATION:
 
-## Article 1. Headquarters[^key-39e0af3cb81d30f74339745404f13c3f]
+## Article 1. Headquarters[^c-39e0af3cb81d30f74339745404f13c3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Responsibilities of the Member States[^key-31f083a5b64047ab2e8ae0fd13f10130]
+## Article 2. Responsibilities of the Member States[^c-31f083a5b64047ab2e8ae0fd13f10130]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Article 3. Calculation of amounts of raw milk for negotiation
 
-For the purposes of Article 149(2)(c) of Regulation (EU) No 1308/2013[^key-2a4ce7e67494549d281dee8e6e3b110e], the negotiation ceilings shall be calculated taking into account the delivery period of the raw milk covered by contractual negotiations and the seasonal variability in milk production, where that variability is significant.
+For the purposes of Article 149(2)(c) of Regulation (EU) No 1308/2013[^c-2a4ce7e67494549d281dee8e6e3b110e], the negotiation ceilings shall be calculated taking into account the delivery period of the raw milk covered by contractual negotiations and the seasonal variability in milk production, where that variability is significant.
 
 ## Article 4. Entry into force
 
 This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-4ceca114f88ae0089df44ee80024fab5]...
+[^c-4ceca114f88ae0089df44ee80024fab5]...
 
 Done at Brussels, 28 June 2012.
 
@@ -85,10 +85,10 @@ José Manuel Barroso
 
 [^f00002]: Footnote: [OJ L 94, 30.3.2012, p. 38](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2012.094.01.0038.01.ENG).
 
-[^key-39e0af3cb81d30f74339745404f13c3f]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2012/880/article/1) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/2/2)
+[^c-39e0af3cb81d30f74339745404f13c3f]: Textual amendment: [Art. 1](https://www.legislation.gov.uk/eur/2012/880/article/1) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/2/2)
 
-[^key-31f083a5b64047ab2e8ae0fd13f10130]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2012/880/article/2) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/2/2)
+[^c-31f083a5b64047ab2e8ae0fd13f10130]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eur/2012/880/article/2) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [2(2)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/2/2)
 
-[^key-2a4ce7e67494549d281dee8e6e3b110e]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2012/880/article/3) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/2/3)
+[^c-2a4ce7e67494549d281dee8e6e3b110e]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2012/880/article/3) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/2/3)
 
-[^key-4ceca114f88ae0089df44ee80024fab5]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/880/signature) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/2/4)
+[^c-4ceca114f88ae0089df44ee80024fab5]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2012/880/signature) omitted (31.12.2020) by virtue of [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [2(4)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/2/4)

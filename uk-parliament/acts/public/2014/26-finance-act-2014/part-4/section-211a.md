@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 211A. Assessment of a section 208A penalty[^key-e2cb8a33350ef5ec52c0bcdd729d1d63]
+## 211A. Assessment of a section 208A penalty[^c-e2cb8a33350ef5ec52c0bcdd729d1d63]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2cb8a33350ef5ec52c0bcdd729d1d63]: Textual amendment: [S. 211A](https://www.legislation.gov.uk/ukpga/2014/26/section/211A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/4)
+[^c-e2cb8a33350ef5ec52c0bcdd729d1d63]: Textual amendment: [S. 211A](https://www.legislation.gov.uk/ukpga/2014/26/section/211A) inserted (with effect in accordance with Sch. 28 para. 15 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 28 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/28/paragraph/4)

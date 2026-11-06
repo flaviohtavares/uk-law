@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Appointment etc of senior coroners, area coroners and assistant coroners[^key-27605c98e856e28a2208e64b89b8306a]
+## 23. Appointment etc of senior coroners, area coroners and assistant coroners[^c-27605c98e856e28a2208e64b89b8306a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 makes provision about the appointment etc of senior coroners, area co
 
 ## Annotations
 
-[^key-27605c98e856e28a2208e64b89b8306a]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2009/25/section/23) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/b)
+[^c-27605c98e856e28a2208e64b89b8306a]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2009/25/section/23) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/b)

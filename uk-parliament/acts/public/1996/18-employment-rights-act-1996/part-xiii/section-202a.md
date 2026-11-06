@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202A. Contractual duties of confidentiality relating to harassment and discrimination[^key-ebf2b7f6e57d115c766efc34931dcf03]
+## 202A. Contractual duties of confidentiality relating to harassment and discrimination[^c-ebf2b7f6e57d115c766efc34931dcf03]
 
 *Extent: E+W+S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebf2b7f6e57d115c766efc34931dcf03]: Textual amendment: S. 202A and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 24(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/b)
+[^c-ebf2b7f6e57d115c766efc34931dcf03]: Textual amendment: S. 202A and cross-heading inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 24(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/24/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(10)(b)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/10/b)

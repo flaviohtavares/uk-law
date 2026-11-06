@@ -39,7 +39,7 @@ summary: ''
 
 - (a) section 80;
 - (b) section 81 and paragraph 74 of Schedule 4 (and section 85(1) so far as relating to that paragraph);
-- (c)[^key-15f2a131a2393342d7d3b3131c3acb0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-15f2a131a2393342d7d3b3131c3acb0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) section 83;
 - (e) section 85(2) to (7);
 - (f) sections 86 to 89.
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-15f2a131a2393342d7d3b3131c3acb0e]: Textual amendment: [S. 88(5)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/5/c) repealed (4.7.2018) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i)
+[^c-15f2a131a2393342d7d3b3131c3acb0e]: Textual amendment: [S. 88(5)(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/5/c) repealed (4.7.2018) by [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), [s. 25(4)](https://www.legislation.gov.uk/ukpga/2018/16/section/25/4), [Sch. 9](https://www.legislation.gov.uk/ukpga/2018/16/schedule/9) (with [s. 19](https://www.legislation.gov.uk/ukpga/2018/16/section/19), [Sch. 8 para. 37](https://www.legislation.gov.uk/ukpga/2018/16/schedule/8/paragraph/37)); [S.I. 2018/808](https://www.legislation.gov.uk/uksi/2018/808), [reg. 3(i)](https://www.legislation.gov.uk/uksi/2018/808/regulation/3/i)

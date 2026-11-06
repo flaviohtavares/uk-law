@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 119. Payment of grants for fees[^key-1034a38b4cb9ff4c6e2ff6590cb7c02d]
+## 119. Payment of grants for fees[^c-1034a38b4cb9ff4c6e2ff6590cb7c02d]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1034a38b4cb9ff4c6e2ff6590cb7c02d]: Commencement: Reg. 119 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-1034a38b4cb9ff4c6e2ff6590cb7c02d]: Commencement: Reg. 119 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

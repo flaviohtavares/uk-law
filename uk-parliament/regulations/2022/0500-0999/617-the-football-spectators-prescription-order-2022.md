@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 14(2) and (2A), 18(1)(b) and (2)(b), 22A(1) and 23(1)(d) of, and paragraph 4(3) of Schedule 1 to, the Football Spectators Act 1989[^f00001].
 
-## 1. Citation, commencement, interpretation and extent[^key-4225a94342b113d9f89e690f25315bf8]
+## 1. Citation, commencement, interpretation and extent[^c-4225a94342b113d9f89e690f25315bf8]
 
 (1) This Order may be cited as the Football Spectators (Prescription) Order 2022 and comes into force on 1st July 2022.
 
@@ -58,7 +58,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) This Order extends to England and Wales.
 
-## 2. Revocations[^key-f29bac828dea850fa14e32befa4df4af]
+## 2. Revocations[^c-f29bac828dea850fa14e32befa4df4af]
 
 The following orders are revoked—
 
@@ -67,7 +67,7 @@ The following orders are revoked—
 - (c) The Football Spectators (Prescription) (Amendment) Order 2010[^f00004];
 - (d) The Football Spectators (Prescription) (Amendment) Order 2013[^f00005].
 
-## 3. Regulated football match[^key-b355c48deef733dd9d782032f9503826]
+## 3. Regulated football match[^c-b355c48deef733dd9d782032f9503826]
 
 (1) An association football match to which paragraphs , (3) or (4) apply is prescribed for the purposes of section 14(2) of the 1989 Act (definition of a “regulated football match”).
 
@@ -76,10 +76,10 @@ The following orders are revoked—
 - (a) a club which is a member (whether a full or associate member) of—
   - (i) the Football League,
   - (ii) the Football Association Premier League,
-  - (iii) the [^key-f0583d51b25a80fdbc0f2a2008c9b28a]... Women’s Super League,
-  - (iv) the Women’s Super League 2[^key-ff5917ab96c3b5c2fb1b794a5e503c28],
-  - (v) the National League[^key-3950ec678581bb55a74fe0efb5382136],
-  - (vi) the Cymru Premier [^key-0e0fe6e9defb5053c4395f0410af177b]..., or
+  - (iii) the [^c-f0583d51b25a80fdbc0f2a2008c9b28a]... Women’s Super League,
+  - (iv) the Women’s Super League 2[^c-ff5917ab96c3b5c2fb1b794a5e503c28],
+  - (v) the National League[^c-3950ec678581bb55a74fe0efb5382136],
+  - (vi) the Cymru Premier [^c-0e0fe6e9defb5053c4395f0410af177b]..., or
   - (vii) the Scottish Professional Football League;
 - (b) a club whose home ground is situated outside England and Wales;
 - (c) a country[^f00006].
@@ -92,10 +92,10 @@ The following orders are revoked—
 - (b) a team representing a club which is a member (whether a full or associate member) of—
   - (i) the Football League,
   - (ii) the Football Association Premier League,
-  - (iii) the [^key-6daa633b8bb4c66df448ded8ad2a4beb]... Women’s Super League,
-  - (iv) the Women’s Super League 2[^key-e5780419e6894466822e7483155bc73a],
-  - (v) the National League[^key-c3e8a1d6fe71c13580c6bd84e84d6367],
-  - (vi) the Cymru Premier [^key-bbc8e9efefcce00df599e3a8951155ad]..., or
+  - (iii) the [^c-6daa633b8bb4c66df448ded8ad2a4beb]... Women’s Super League,
+  - (iv) the Women’s Super League 2[^c-e5780419e6894466822e7483155bc73a],
+  - (v) the National League[^c-c3e8a1d6fe71c13580c6bd84e84d6367],
+  - (vi) the Cymru Premier [^c-bbc8e9efefcce00df599e3a8951155ad]..., or
   - (vii) the Scottish Professional Football League;
 - (c) a team representing any country whose football association is a member of FIFA, where—
   - (i) the match is part of a competition or tournament organised by, or under the authority of, FIFA or UEFA, and
@@ -104,7 +104,7 @@ The following orders are revoked—
   - (i) the match is part of a competition or tournament organised by, or under the authority of, FIFA or UEFA, and
   - (ii) the competition or tournament is one in which a team referred to in sub-paragraph (b) is eligible to participate or has participated.
 
-## 4. Regulated football organisation[^key-97f3c5c01576a2eced889eff1771e121]
+## 4. Regulated football organisation[^c-97f3c5c01576a2eced889eff1771e121]
 
 The following organisations are prescribed for the purposes of section 14(2A) of the 1989 Act (definition of a “regulated football organisation”)—
 
@@ -113,17 +113,17 @@ The following organisations are prescribed for the purposes of section 14(2A) of
 - (c) the Football League Limited;
 - (d) the Football Conference Limited;
 - (e) the Football Association of Wales Limited;
-- (ea)[^key-188df7c6106aeac7da1eb61db70a5540] the Women’s Super League Football Limited;
+- (ea)[^c-188df7c6106aeac7da1eb61db70a5540] the Women’s Super League Football Limited;
 - (f) a club which is a member (whether a full or associate member) of—
   - (i) the Football League,
   - (ii) the Football Association Premier League,
-  - (iii) the [^key-673400d92d7e5c7f05b9086d9239b6eb]... Women’s Super League,
-  - (iv) the Women’s Super League 2[^key-265392d2573afb2fb5488cb59f6bc0e1],
-  - (v) the National League[^key-d6bed932382c1df7511561da7a4ee449], or
-  - (vi) the Cymru Premier [^key-55e03353a2a6d635a49cfb246e25abde]...;
+  - (iii) the [^c-673400d92d7e5c7f05b9086d9239b6eb]... Women’s Super League,
+  - (iv) the Women’s Super League 2[^c-265392d2573afb2fb5488cb59f6bc0e1],
+  - (v) the National League[^c-d6bed932382c1df7511561da7a4ee449], or
+  - (vi) the Cymru Premier [^c-55e03353a2a6d635a49cfb246e25abde]...;
 - (g) a national team appointed by the Football Association to represent England or appointed by the Football Association of Wales to represent Wales.
 
-## 5. Prescribed connection with a football organisation[^key-6e19fe2b2031255392a1848180d6f526]
+## 5. Prescribed connection with a football organisation[^c-6e19fe2b2031255392a1848180d6f526]
 
 (1) A person has a prescribed connection with a football organisation for the purposes of Schedule 1 to the 1989 Act (offences which are relevant offences for the purposes of Part 1 of the 1989 Act) where the person—
 
@@ -149,11 +149,11 @@ The following organisations are prescribed for the purposes of section 14(2A) of
   - (a) a team representing a club which is a regulated football organisation, or
   - (b) a national team which is a regulated football organisation.
 
-## 6. Enforcing authority[^key-f03f4e7fc773a99c35879ae8c64cae4c]
+## 6. Enforcing authority[^c-f03f4e7fc773a99c35879ae8c64cae4c]
 
 The organisation established under section 57 of the Police Act 1996[^f00007] known as the Football Banning Orders Authority is prescribed as the enforcing authority for the purposes of section 22A of the 1989 Act.
 
-## 7. Prescribed persons[^key-21dac3ae2ccb28ce9eea66dc4c805f54]
+## 7. Prescribed persons[^c-21dac3ae2ccb28ce9eea66dc4c805f54]
 
 The Chief Executive of the Football Association Limited is a prescribed person for the purposes of section 18(1) and (2) of the 1989 Act.
 
@@ -193,9 +193,9 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [1989 c. 37](https://www.legislation.gov.uk/ukpga/1989/37). Section 14(2) was substituted by section 1 of, and paragraphs 1 and 2 of Schedule 1 to, the Football (Disorder) Act [2000 (c. 25)](https://www.legislation.gov.uk/ukpga/2000/25) (“**the 2000 Act**”) and amended by section 103 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) (“**the 2009 Act**”). Section 14(2A) was inserted by section 190(8) of the Police, Crime, Sentencing and Courts Act [2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32) (“**the 2022 Act**”). Section 18(1) and (2) was amended by section 1 of, and paragraphs 9, 10 and 14 of Schedule 2 to, the 2000 Act and section 109(1) of, and paragraph 333 of Schedule 8 to the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39). Section 22A(1) defines “prescribed”. Section 22A(1) was inserted by section 1 of, and paragraph 18 to, the 2000 Act, and amended by paragraph 1 of Schedule 5 to the Violent Crime Reduction Act [2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38) (“**the 2006 Act**”), paragraph 5 of Schedule 1 to the Identity Documents Act [2010 (c. 40)](https://www.legislation.gov.uk/ukpga/2010/40). Section 22A(3) was amended, and section 22A(3A) inserted, by section 191(2) to (4) of the 2022 Act. Section 23 was amended by section 2(6) of the Football (Offences and Disorder) Act [1999 (c. 21)](https://www.legislation.gov.uk/ukpga/1999/21), section 1 of, and paragraphs 9 and 10 of Schedule 2 to, the 2000 Act, section 52(2) of, and paragraph 12 of Schedule 3 to, the 2006 Act and section 190(9) to (11) of the 2022 Act. Schedule 1 to the 1989 Act was substituted by section 1 of, and paragraphs 1 and 5 of Schedule 1 to, the 2000 Act and amended by section 190(2) to (7) of the 2022 Act. There are other amendments to these sections that are not relevant to this Order.
 
-[^key-4225a94342b113d9f89e690f25315bf8]: Commencement: Art. 1 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
+[^c-4225a94342b113d9f89e690f25315bf8]: Commencement: Art. 1 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
 
-[^key-f29bac828dea850fa14e32befa4df4af]: Commencement: Art. 2 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
+[^c-f29bac828dea850fa14e32befa4df4af]: Commencement: Art. 2 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2004/2409](https://www.legislation.gov.uk/uksi/2004/2409); amended by [S.I. 2006/761](https://www.legislation.gov.uk/uksi/2006/761), [2010/584](https://www.legislation.gov.uk/uksi/2010/584) and [2013/1709](https://www.legislation.gov.uk/uksi/2013/1709).
 
@@ -205,42 +205,42 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00005]: Footnote: [S.I. 2013/1709](https://www.legislation.gov.uk/uksi/2013/1709).
 
-[^key-b355c48deef733dd9d782032f9503826]: Commencement: Art. 3 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
+[^c-b355c48deef733dd9d782032f9503826]: Commencement: Art. 3 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
 
-[^key-f0583d51b25a80fdbc0f2a2008c9b28a]: Textual amendment: Words in [art. 3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/617/article/3/2/a/iii) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/871/article/3/a)
+[^c-f0583d51b25a80fdbc0f2a2008c9b28a]: Textual amendment: Words in [art. 3(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/617/article/3/2/a/iii) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/871/article/3/a)
 
-[^key-ff5917ab96c3b5c2fb1b794a5e503c28]: Textual amendment: Words in [art. 3(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/617/article/3/2/a/iv) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/871/article/3/b)
+[^c-ff5917ab96c3b5c2fb1b794a5e503c28]: Textual amendment: Words in [art. 3(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2022/617/article/3/2/a/iv) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/871/article/3/b)
 
-[^key-3950ec678581bb55a74fe0efb5382136]: Textual amendment: Words in [art. 3(2)(a)(v)](https://www.legislation.gov.uk/uksi/2022/617/article/3/2/a/v) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2025/871/article/3/c)
+[^c-3950ec678581bb55a74fe0efb5382136]: Textual amendment: Words in [art. 3(2)(a)(v)](https://www.legislation.gov.uk/uksi/2022/617/article/3/2/a/v) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(c)](https://www.legislation.gov.uk/uksi/2025/871/article/3/c)
 
-[^key-0e0fe6e9defb5053c4395f0410af177b]: Textual amendment: Word in [art. 3(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2022/617/article/3/2/a/vi) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2025/871/article/3/d)
+[^c-0e0fe6e9defb5053c4395f0410af177b]: Textual amendment: Word in [art. 3(2)(a)(vi)](https://www.legislation.gov.uk/uksi/2022/617/article/3/2/a/vi) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(d)](https://www.legislation.gov.uk/uksi/2025/871/article/3/d)
 
 [^f00006]: Footnote: Section 22A of the 1989 Act provides that, in Part 2 of that Act, “**country**” includes “territory”.
 
-[^key-6daa633b8bb4c66df448ded8ad2a4beb]: Textual amendment: Words in [art. 3(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/617/article/3/4/b/iii) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2025/871/article/3/e)
+[^c-6daa633b8bb4c66df448ded8ad2a4beb]: Textual amendment: Words in [art. 3(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2022/617/article/3/4/b/iii) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(e)](https://www.legislation.gov.uk/uksi/2025/871/article/3/e)
 
-[^key-e5780419e6894466822e7483155bc73a]: Textual amendment: Words in [art. 3(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2022/617/article/3/4/b/iv) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2025/871/article/3/f)
+[^c-e5780419e6894466822e7483155bc73a]: Textual amendment: Words in [art. 3(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2022/617/article/3/4/b/iv) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(f)](https://www.legislation.gov.uk/uksi/2025/871/article/3/f)
 
-[^key-c3e8a1d6fe71c13580c6bd84e84d6367]: Textual amendment: Words in [art. 3(4)(b)(v)](https://www.legislation.gov.uk/uksi/2022/617/article/3/4/b/v) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2025/871/article/3/g)
+[^c-c3e8a1d6fe71c13580c6bd84e84d6367]: Textual amendment: Words in [art. 3(4)(b)(v)](https://www.legislation.gov.uk/uksi/2022/617/article/3/4/b/v) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(g)](https://www.legislation.gov.uk/uksi/2025/871/article/3/g)
 
-[^key-bbc8e9efefcce00df599e3a8951155ad]: Textual amendment: Word in [art. 3(4)(b)(vi)](https://www.legislation.gov.uk/uksi/2022/617/article/3/4/b/vi) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(h)](https://www.legislation.gov.uk/uksi/2025/871/article/3/h)
+[^c-bbc8e9efefcce00df599e3a8951155ad]: Textual amendment: Word in [art. 3(4)(b)(vi)](https://www.legislation.gov.uk/uksi/2022/617/article/3/4/b/vi) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [3(h)](https://www.legislation.gov.uk/uksi/2025/871/article/3/h)
 
-[^key-97f3c5c01576a2eced889eff1771e121]: Commencement: Art. 4 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
+[^c-97f3c5c01576a2eced889eff1771e121]: Commencement: Art. 4 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
 
-[^key-188df7c6106aeac7da1eb61db70a5540]: Textual amendment: [Art. 4(ea)](https://www.legislation.gov.uk/uksi/2022/617/article/4/ea) inserted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2025/871/article/4/a)
+[^c-188df7c6106aeac7da1eb61db70a5540]: Textual amendment: [Art. 4(ea)](https://www.legislation.gov.uk/uksi/2022/617/article/4/ea) inserted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2025/871/article/4/a)
 
-[^key-673400d92d7e5c7f05b9086d9239b6eb]: Textual amendment: Words in [art. 4(f)(iii)](https://www.legislation.gov.uk/uksi/2022/617/article/4/f/iii) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/871/article/4/b)
+[^c-673400d92d7e5c7f05b9086d9239b6eb]: Textual amendment: Words in [art. 4(f)(iii)](https://www.legislation.gov.uk/uksi/2022/617/article/4/f/iii) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(b)](https://www.legislation.gov.uk/uksi/2025/871/article/4/b)
 
-[^key-265392d2573afb2fb5488cb59f6bc0e1]: Textual amendment: Words in [art. 4(f)(iv)](https://www.legislation.gov.uk/uksi/2022/617/article/4/f/iv) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2025/871/article/4/c)
+[^c-265392d2573afb2fb5488cb59f6bc0e1]: Textual amendment: Words in [art. 4(f)(iv)](https://www.legislation.gov.uk/uksi/2022/617/article/4/f/iv) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(c)](https://www.legislation.gov.uk/uksi/2025/871/article/4/c)
 
-[^key-d6bed932382c1df7511561da7a4ee449]: Textual amendment: Words in [art. 4(f)(v)](https://www.legislation.gov.uk/uksi/2022/617/article/4/f/v) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2025/871/article/4/d)
+[^c-d6bed932382c1df7511561da7a4ee449]: Textual amendment: Words in [art. 4(f)(v)](https://www.legislation.gov.uk/uksi/2022/617/article/4/f/v) substituted (5.9.2025) by [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(d)](https://www.legislation.gov.uk/uksi/2025/871/article/4/d)
 
-[^key-55e03353a2a6d635a49cfb246e25abde]: Textual amendment: Word in [art. 4(f)(vi)](https://www.legislation.gov.uk/uksi/2022/617/article/4/f/vi) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2025/871/article/4/e)
+[^c-55e03353a2a6d635a49cfb246e25abde]: Textual amendment: Word in [art. 4(f)(vi)](https://www.legislation.gov.uk/uksi/2022/617/article/4/f/vi) omitted (5.9.2025) by virtue of [The Football Spectators (Prescription) (Amendment) Order 2025 (S.I. 2025/871)](https://www.legislation.gov.uk/uksi/2025/871), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/871/article/1/1), [4(e)](https://www.legislation.gov.uk/uksi/2025/871/article/4/e)
 
-[^key-6e19fe2b2031255392a1848180d6f526]: Commencement: Art. 5 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
+[^c-6e19fe2b2031255392a1848180d6f526]: Commencement: Art. 5 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
 
-[^key-f03f4e7fc773a99c35879ae8c64cae4c]: Commencement: Art. 6 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
+[^c-f03f4e7fc773a99c35879ae8c64cae4c]: Commencement: Art. 6 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
 
 [^f00007]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 57 was amended by section 128(1) of the Criminal Justice and Immigration Act [2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4) and section 13 of the 2009 Act. There are other amendments to these sections that are not relevant to this Order.
 
-[^key-21dac3ae2ccb28ce9eea66dc4c805f54]: Commencement: Art. 7 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)
+[^c-21dac3ae2ccb28ce9eea66dc4c805f54]: Commencement: Art. 7 in force at 1.7.2022, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/617/article/1/1)

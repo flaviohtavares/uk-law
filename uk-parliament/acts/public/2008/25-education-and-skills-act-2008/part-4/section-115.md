@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Power of Secretary of State to take enforcement action[^key-e9dee29b0fa931026e1dd1dd569d9916]
+## 115. Power of Secretary of State to take enforcement action[^c-e9dee29b0fa931026e1dd1dd569d9916]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9dee29b0fa931026e1dd1dd569d9916]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2008/25/section/115) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(k)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/k)
+[^c-e9dee29b0fa931026e1dd1dd569d9916]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2008/25/section/115) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(k)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/k)

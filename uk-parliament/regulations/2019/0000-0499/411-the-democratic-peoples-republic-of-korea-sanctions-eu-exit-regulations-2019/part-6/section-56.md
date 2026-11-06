@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Mining, manufacturing and computer services[^key-b703d4ce5d772f19dcba8ccdcf5c99d9][^key-0b24f5b426adc7bf1d746bea78c53ae8]
+## 56. Mining, manufacturing and computer services[^c-b703d4ce5d772f19dcba8ccdcf5c99d9][^c-0b24f5b426adc7bf1d746bea78c53ae8]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (a) it is a defence for a person charged with an offence of contravening paragraph (1)(a), (c) or (e) (“P”) to show that P did not know and had no reasonable cause to suspect that the person was connected with the DPRK;
 - (b) it is a defence for a person charged with an offence of contravening paragraph (1)(b) or (d) to show that the person did not know and had no reasonable cause to suspect that the mining or manufacturing (as the case may be) was carried on in the DPRK.
 
-(4) In this regulation, the following terms are to be read in accordance with Annex XII of Council Regulation (EU) No 2017/1509 of 30 August 2017 concerning restrictive measures against the Democratic People's Republic of Korea and repealing Regulation [(EC) No 329/2007](https://www.legislation.gov.uk/eur/2007/329), as it has effect immediately before IP completion day[^key-efe7d6b3a393fc484c2055b842f25fda] —
+(4) In this regulation, the following terms are to be read in accordance with Annex XII of Council Regulation (EU) No 2017/1509 of 30 August 2017 concerning restrictive measures against the Democratic People's Republic of Korea and repealing Regulation [(EC) No 329/2007](https://www.legislation.gov.uk/eur/2007/329), as it has effect immediately before IP completion day[^c-efe7d6b3a393fc484c2055b842f25fda] —
 
 - “services incidental to mining”;
 - “services incidental to manufacturing in the chemical, mining and refining industry”;
@@ -43,8 +43,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b703d4ce5d772f19dcba8ccdcf5c99d9]: Commencement: Reg. 56 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-b703d4ce5d772f19dcba8ccdcf5c99d9]: Commencement: Reg. 56 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-0b24f5b426adc7bf1d746bea78c53ae8]: Commencement: Reg. 56 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b24f5b426adc7bf1d746bea78c53ae8]: Commencement: Reg. 56 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-efe7d6b3a393fc484c2055b842f25fda]: Textual amendment: Words in [reg. 56(4)](https://www.legislation.gov.uk/uksi/2019/411/regulation/56/4) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/5); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)
+[^c-efe7d6b3a393fc484c2055b842f25fda]: Textual amendment: Words in [reg. 56(4)](https://www.legislation.gov.uk/uksi/2019/411/regulation/56/4) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2020 (S.I. 2020/591)](https://www.legislation.gov.uk/uksi/2020/591), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/591/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2020/591/regulation/2/5); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 5](https://www.legislation.gov.uk/uksi/2020/1514/regulation/5)

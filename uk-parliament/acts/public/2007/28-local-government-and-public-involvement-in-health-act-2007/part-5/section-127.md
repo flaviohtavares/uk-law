@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Overview and scrutiny committees: consequential amendments[^key-e5826f0503c04ddf04bf4df1b79572d4]
+## 127. Overview and scrutiny committees: consequential amendments[^c-e5826f0503c04ddf04bf4df1b79572d4]
 
 *Extent: E+W*
 
@@ -36,15 +36,15 @@ summary: ''
   ;
 - (c) in subsection (4)—
   - (i) after “this section” insert “ , sections 21A to 21C ”; and
-  - (ii)[^key-8e9f138253098e3ae66417bb058a2964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-8e9f138253098e3ae66417bb058a2964] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) omit subsection (8).
 
-(2)[^key-721998009299b5e769920958bc07a0f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-721998009299b5e769920958bc07a0f4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 245(3)(b) of the National Health Service Act 2006 (c. 41) (joint overview and scrutiny committees etc)—
 
-- (a) in sub-paragraph (i), for “(15)” substitute “ (17) ”; [^key-15eff65b9a7e91dbf0521a41130f7ea6]...
-- (b)[^key-15eff65b9a7e91dbf0521a41130f7ea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in sub-paragraph (i), for “(15)” substitute “ (17) ”; [^c-15eff65b9a7e91dbf0521a41130f7ea6]...
+- (b)[^c-15eff65b9a7e91dbf0521a41130f7ea6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 185(3)(b) of the National Health Service (Wales) Act 2006 (c. 42) (joint overview and scrutiny committees etc)—
 
@@ -57,10 +57,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e5826f0503c04ddf04bf4df1b79572d4]: Commencement: S. 127 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(g)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/g)
+[^c-e5826f0503c04ddf04bf4df1b79572d4]: Commencement: S. 127 in force at 1.4.2009 by [S.I. 2008/3110](https://www.legislation.gov.uk/uksi/2008/3110), [art. 4(g)](https://www.legislation.gov.uk/uksi/2008/3110/article/4/g)
 
-[^key-8e9f138253098e3ae66417bb058a2964]: Textual amendment: S. 127(1)(c)(ii) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-8e9f138253098e3ae66417bb058a2964]: Textual amendment: S. 127(1)(c)(ii) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
 
-[^key-721998009299b5e769920958bc07a0f4]: Textual amendment: S. 127(2) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-721998009299b5e769920958bc07a0f4]: Textual amendment: S. 127(2) repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
 
-[^key-15eff65b9a7e91dbf0521a41130f7ea6]: Textual amendment: S. 127(3)(b) and preceding word repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)
+[^c-15eff65b9a7e91dbf0521a41130f7ea6]: Textual amendment: S. 127(3)(b) and preceding word repealed (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 4](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/4); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(c)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/c)

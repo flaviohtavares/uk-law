@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**44.**[^key-68ba175c511647889d0da057c3e7fbfa] For regulation 47 substitute—
+**44.**[^c-68ba175c511647889d0da057c3e7fbfa] For regulation 47 substitute—
 
 > **47.** (1) This regulation applies where—
 >
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68ba175c511647889d0da057c3e7fbfa]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2020/1559/regulation/44) substituted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [9](https://www.legislation.gov.uk/uksi/2024/941/regulation/9)
+[^c-68ba175c511647889d0da057c3e7fbfa]: Textual amendment: [Reg. 44](https://www.legislation.gov.uk/uksi/2020/1559/regulation/44) substituted (1.10.2024) by [The Excise Duties (Northern Ireland Miscellaneous Modifications and Amendments) (EU Exit) (Amendment) Regulations 2024 (S.I. 2024/941)](https://www.legislation.gov.uk/uksi/2024/941), [regs. 1](https://www.legislation.gov.uk/uksi/2024/941/regulation/1), [9](https://www.legislation.gov.uk/uksi/2024/941/regulation/9)

@@ -39,7 +39,7 @@ summary: ''
 - “**HMCI**” means Her Majesty's Chief Inspector of Education, Children's Services and Skills;
 - “**health**”, in relation to a child, includes that child's emotional, mental and physical health;
 - “**independent person**” has the meaning given in regulation 43(1);
-- “**independent reviewing officer**” means a person appointed under section 25A of the Children Act 1989 [^c22408951] or section 99 of the Social Services and Well-being (Wales) Act 2014[^key-c801f6d4f76a8630e2dc6e5e77ef251f];
+- “**independent reviewing officer**” means a person appointed under section 25A of the Children Act 1989 [^c22408951] or section 99 of the Social Services and Well-being (Wales) Act 2014[^c-c801f6d4f76a8630e2dc6e5e77ef251f];
 - “**organisation**” means a body corporate or an unincorporated association other than a partnership (but see paragraph (2)(d));
 - “**placement plan**” means—
   - (a) in relation to a child who is looked after by a local authority—
@@ -84,10 +84,10 @@ summary: ''
   - (a) is a director, manager, secretary or other officer of an organisation which is the registered provider; and
   - (b) is nominated by that organisation for the purpose of supervising the management of the home on behalf of the organisation;
 - “**restraint**” means using force or restricting liberty of movement;
-- “**secure children's home**” means —[^key-2a66e0221e919dfdee446be4df128997]
+- “**secure children's home**” means —[^c-2a66e0221e919dfdee446be4df128997]
   - (a) a children's home provided for the purpose of restricting liberty and approved for that purpose in accordance with regulation 3 of the Children (Secure Accommodation) Regulations 1991 [^c22408991]
 
-    ; or[^key-a2ae45f884bad68173703bddb5aee240]
+    ; or[^c-a2ae45f884bad68173703bddb5aee240]
   - (a) a secure 16 to 19 Academy (see section 1B(4) to (7) of the Academies Act 2010);
 - “**short breaks**” has the meaning given in regulation 52;
 - “**special educational needs**” has the meaning given by section 20 of the Children and Families Act 2014;
@@ -121,7 +121,7 @@ summary: ''
 
 [^c22408951]: Marginal citation: Section 25A of the Children Act 1989 was inserted by section 10 of the CYPA 2008.
 
-[^key-c801f6d4f76a8630e2dc6e5e77ef251f]: Textual amendment: Words in reg. 2(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 182](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/182)
+[^c-c801f6d4f76a8630e2dc6e5e77ef251f]: Textual amendment: Words in reg. 2(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 182](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/182)
 
 [^c22408961]: Marginal citation: Regulation 47C of [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959) was inserted by [S.I. 2013/706](https://www.legislation.gov.uk/uksi/2013/706).
 
@@ -129,11 +129,11 @@ summary: ''
 
 [^c22408981]: Marginal citation: [1984 c.24](https://www.legislation.gov.uk/ukpga/1984/24). Section 14 of the Dentists Act 1984 was substituted by article 6 of [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011) and amended by regulation 111 of [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-2a66e0221e919dfdee446be4df128997]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/541/regulation/2/1) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 164(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/164/4/a/i), [208(4)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/t)
+[^c-2a66e0221e919dfdee446be4df128997]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/541/regulation/2/1) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 164(4)(a)(i)](https://www.legislation.gov.uk/ukpga/2022/32/section/164/4/a/i), [208(4)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/t)
 
 [^c22408991]: Marginal citation: [S.I. 1991/1505](https://www.legislation.gov.uk/uksi/1991/1505). Regulation 3 of [S.I. 1991/1505](https://www.legislation.gov.uk/uksi/1991/1505) was amended by [S.I. 1995/1398](https://www.legislation.gov.uk/uksi/1995/1398) and revoked in relation to Wales by [S.I. 2006/2986](https://www.legislation.gov.uk/uksi/2006/2986).
 
-[^key-a2ae45f884bad68173703bddb5aee240]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/541/regulation/2/1) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 164(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/164/4/a/ii), [208(4)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/t)
+[^c-a2ae45f884bad68173703bddb5aee240]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/541/regulation/2/1) inserted (28.4.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 164(4)(a)(ii)](https://www.legislation.gov.uk/ukpga/2022/32/section/164/4/a/ii), [208(4)(t)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/t)
 
 [^c22409001]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56). Section 324 of the Education Act 1996 was amended by: section 140(1) of, and paragraph 77 of Schedule 30 to, the [School Standards and Framework Act 1998 (c.31)](https://www.legislation.gov.uk/ukpga/1998/31); section 9 of the [Special Educational Needs and Disability Act 2001 (c.10)](https://www.legislation.gov.uk/ukpga/2001/10); paragraph 43 of Schedule 21 to the [Education Act 2002 (c.32)](https://www.legislation.gov.uk/ukpga/2002/32) and paragraph 7 of Schedule 2 to [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 

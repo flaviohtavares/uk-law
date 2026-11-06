@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13B. Expenses in respect of vehicle hire, etc.[^key-a3abc689c0d9e01bed3ac4a716ce75ab]
+## 13B. Expenses in respect of vehicle hire, etc.[^c-a3abc689c0d9e01bed3ac4a716ce75ab]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3abc689c0d9e01bed3ac4a716ce75ab]: Textual amendment: S. 13B inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [17](https://www.legislation.gov.uk/nisi/2016/999/article/17)
+[^c-a3abc689c0d9e01bed3ac4a716ce75ab]: Textual amendment: S. 13B inserted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/nisi/2016/999/article/2/2/d), [17](https://www.legislation.gov.uk/nisi/2016/999/article/17)

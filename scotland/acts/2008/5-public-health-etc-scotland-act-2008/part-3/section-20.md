@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Public health incidents[^key-88ee15a42b9b6689c1be8aa35eb65e6f]
+## 20. Public health incidents[^c-88ee15a42b9b6689c1be8aa35eb65e6f]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88ee15a42b9b6689c1be8aa35eb65e6f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2008/5/section/20) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-88ee15a42b9b6689c1be8aa35eb65e6f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2008/5/section/20) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

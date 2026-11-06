@@ -44,7 +44,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and application[^key-cc40de2ace4ce542dafb876e7ba1d73c][^key-cc40de2ace4ce542dafb876e7ba1d73c]
+### 1. Citation, commencement and application[^c-cc40de2ace4ce542dafb876e7ba1d73c][^c-cc40de2ace4ce542dafb876e7ba1d73c]
 
 (1) These Regulations may be cited as the Trailer Registration Regulations 2018.
 
@@ -52,7 +52,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 
 (3) These Regulations apply to the United Kingdom, except for paragraph 1 of Schedule 3, which applies to Great Britain.
 
-### 2. Interpretation[^key-c32090169644e009944ff06f912e0c29]
+### 2. Interpretation[^c-c32090169644e009944ff06f912e0c29]
 
 (1) In these Regulations—
 
@@ -64,7 +64,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 
 (2) With the exception of regulation 16(3), references to the use of a trailer on a road are to the use of a trailer on a road while it is being drawn by a motor vehicle.
 
-### 3. Review[^key-ff74a1140a14b874b1759500652a6b7c]
+### 3. Review[^c-ff74a1140a14b874b1759500652a6b7c]
 
 (1) The Secretary of State must from time to time—
 
@@ -86,7 +86,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 
 ## PART 2 — REGISTRATION AND INSPECTIONS
 
-### 4. Applications for registration[^key-0c649856e20a8c48cfc0d3dbd9ae1470][^key-0c649856e20a8c48cfc0d3dbd9ae1470]
+### 4. Applications for registration[^c-0c649856e20a8c48cfc0d3dbd9ae1470][^c-0c649856e20a8c48cfc0d3dbd9ae1470]
 
 (1) A person may apply to the Secretary of State for the registration[^f00007] of a trailer kept or used on a road if the permissible maximum mass is more than 750 kilograms.
 
@@ -107,9 +107,9 @@ The Secretary of State has consulted such persons as thought fit before making t
   - (ii) the address within the United Kingdom of the person who keeps the trailer;
   - (iii) the manufacturer of the trailer;
   - (iv) the chassis number of the trailer;
-  - (v) the permissible maximum mass; [^key-5628714fc2946b1e0d35a640ca737dee]...
-  - (vi) the unladen mass of the trailer; and[^key-89c58b0a526c057fbf20ced1c2376d64]
-  - (vii)[^key-98d92192607487a4dcde204a8cf85498] the trailer type or a description of the trailer’s physical construction, characteristics or intended use.
+  - (v) the permissible maximum mass; [^c-5628714fc2946b1e0d35a640ca737dee]...
+  - (vi) the unladen mass of the trailer; and[^c-89c58b0a526c057fbf20ced1c2376d64]
+  - (vii)[^c-98d92192607487a4dcde204a8cf85498] the trailer type or a description of the trailer’s physical construction, characteristics or intended use.
 
 (3) For the purposes of this regulation, a person is resident in the United Kingdom unless that person has lived outside the United Kingdom for at least 185 days in the previous calendar year.
 
@@ -127,9 +127,9 @@ The Secretary of State has consulted such persons as thought fit before making t
 - (a) take action to determine its accuracy or completeness, including conducting an inspection of the trailer under regulation 13 or requesting documentation or information from the person who keeps the trailer or the applicant; or
 - (b) refuse to register the trailer.
 
-(8)[^key-3abe8d08215fd5f6b3933657eb3abbcf] In paragraph (1), “trailer” does not include a trailer that is a mechanically propelled vehicle.
+(8)[^c-3abe8d08215fd5f6b3933657eb3abbcf] In paragraph (1), “trailer” does not include a trailer that is a mechanically propelled vehicle.
 
-### 5. Unregistered trailers in 1968 Convention territories[^key-82070f7e5d5f601cefb0447c52a9369e]
+### 5. Unregistered trailers in 1968 Convention territories[^c-82070f7e5d5f601cefb0447c52a9369e]
 
 (1) It is an offence for a person to keep or use a trailer on a road that is—
 
@@ -152,7 +152,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 - (a) were unaware and could not reasonably have been expected to be aware that the trailer would be so used; or
 - (b) held a reasonable belief that the trailer was registered at the time of the alleged offence.
 
-### 6. Notice of registration[^key-9cb95777f802da78cb12278b38470bf3]
+### 6. Notice of registration[^c-9cb95777f802da78cb12278b38470bf3]
 
 (1) Upon registering a trailer, the Secretary of State must issue an electronic notice of registration (“the notice”) to the applicant as soon as practicable.
 
@@ -167,43 +167,43 @@ The Secretary of State has consulted such persons as thought fit before making t
 
 (4) This regulation does not apply if the applicant, when making the registration application under regulation 4, did not provide supplementary information sufficient to enable the Secretary of State to contact the registered keeper electronically.
 
-### 7. Registration documents[^key-1428cc836efeb28839807b833a06bc50][^key-33995db80388660a3469ea2adbc62e32][^key-1428cc836efeb28839807b833a06bc50]
+### 7. Registration documents[^c-1428cc836efeb28839807b833a06bc50][^c-33995db80388660a3469ea2adbc62e32][^c-1428cc836efeb28839807b833a06bc50]
 
-(1)[^key-1428cc836efeb28839807b833a06bc50] The Secretary of State must issue a registration document[^f00014] to the registered keeper as soon as practicable after registering a trailer.
+(1)[^c-1428cc836efeb28839807b833a06bc50] The Secretary of State must issue a registration document[^f00014] to the registered keeper as soon as practicable after registering a trailer.
 
-(2)[^key-1428cc836efeb28839807b833a06bc50] The Secretary of State must send a registration document issued in accordance with paragraph (1) to the address of the registered keeper provided in pursuance of regulation 4(2)(d)(ii).
+(2)[^c-1428cc836efeb28839807b833a06bc50] The Secretary of State must send a registration document issued in accordance with paragraph (1) to the address of the registered keeper provided in pursuance of regulation 4(2)(d)(ii).
 
-(3)[^key-1428cc836efeb28839807b833a06bc50] The registration document must contain the particulars specified in regulation 4(2)(d) and be in such form, and contain any other particulars, as the Secretary of State sees fit.
+(3)[^c-1428cc836efeb28839807b833a06bc50] The registration document must contain the particulars specified in regulation 4(2)(d) and be in such form, and contain any other particulars, as the Secretary of State sees fit.
 
-(4)[^key-1428cc836efeb28839807b833a06bc50] A registration document issued by the Secretary of State, including a registration document issued under regulation 9(5), is valid for 10 years beginning with the date of issue.
+(4)[^c-1428cc836efeb28839807b833a06bc50] A registration document issued by the Secretary of State, including a registration document issued under regulation 9(5), is valid for 10 years beginning with the date of issue.
 
-(5)[^key-33995db80388660a3469ea2adbc62e32] The registered keeper or the user of a registered trailer must not use it on a road, or cause or permit it to be so used, on a journey that will involve, or has involved, entering a country outside the United Kingdom that is a contracting party to the Convention if the registration document has expired.
+(5)[^c-33995db80388660a3469ea2adbc62e32] The registered keeper or the user of a registered trailer must not use it on a road, or cause or permit it to be so used, on a journey that will involve, or has involved, entering a country outside the United Kingdom that is a contracting party to the Convention if the registration document has expired.
 
-### 8. Accuracy of the register and information[^key-ed9c92f828afb6e565e8d259d0a7382c][^key-ed9c92f828afb6e565e8d259d0a7382c]
+### 8. Accuracy of the register and information[^c-ed9c92f828afb6e565e8d259d0a7382c][^c-ed9c92f828afb6e565e8d259d0a7382c]
 
 (1) If the Secretary of State has a reasonable belief that any information recorded in the register or any information, notification or application provided, given or made to the Secretary of State in pursuance of regulation 8(2), 9(1), 9(3), 10(1) or 10(4) is inaccurate or incomplete, the Secretary of State may—
 
-- (a)[^key-ed9c92f828afb6e565e8d259d0a7382c] take action to determine its accuracy or completeness, including conducting an inspection of the trailer under regulation 13 or requesting documentation or information from the registered keeper or the person who has made the application or notification;
-- (b)[^key-ed9c92f828afb6e565e8d259d0a7382c] refuse to record any provided particulars in the register;
-- (c)[^key-382844012c73ce29162fbd88cadd9044] require the registered keeper to destroy, or surrender to the Secretary of State, any registration documents;
-- (d)[^key-ed9c92f828afb6e565e8d259d0a7382c] refuse to issue a registration document, including a replacement or renewed registration document; or
-- (e)[^key-ed9c92f828afb6e565e8d259d0a7382c] withdraw a registration mark assigned to the trailer by the Secretary of State under regulation 15.
+- (a)[^c-ed9c92f828afb6e565e8d259d0a7382c] take action to determine its accuracy or completeness, including conducting an inspection of the trailer under regulation 13 or requesting documentation or information from the registered keeper or the person who has made the application or notification;
+- (b)[^c-ed9c92f828afb6e565e8d259d0a7382c] refuse to record any provided particulars in the register;
+- (c)[^c-382844012c73ce29162fbd88cadd9044] require the registered keeper to destroy, or surrender to the Secretary of State, any registration documents;
+- (d)[^c-ed9c92f828afb6e565e8d259d0a7382c] refuse to issue a registration document, including a replacement or renewed registration document; or
+- (e)[^c-ed9c92f828afb6e565e8d259d0a7382c] withdraw a registration mark assigned to the trailer by the Secretary of State under regulation 15.
 
-(2)[^key-382844012c73ce29162fbd88cadd9044] The registered keeper must notify the Secretary of State if any of the particulars recorded in the register or shown on a registration document are inaccurate.
+(2)[^c-382844012c73ce29162fbd88cadd9044] The registered keeper must notify the Secretary of State if any of the particulars recorded in the register or shown on a registration document are inaccurate.
 
-(3)[^key-382844012c73ce29162fbd88cadd9044] A notification made under paragraph (2) must include the information necessary to correct any inaccuracies.
+(3)[^c-382844012c73ce29162fbd88cadd9044] A notification made under paragraph (2) must include the information necessary to correct any inaccuracies.
 
-(4)[^key-382844012c73ce29162fbd88cadd9044] Subject to paragraph (1), and following receipt of a notification under paragraph (2), the Secretary of State must—
+(4)[^c-382844012c73ce29162fbd88cadd9044] Subject to paragraph (1), and following receipt of a notification under paragraph (2), the Secretary of State must—
 
 - (a) record any amended particulars in the register as soon as practicable; and
 - (b) issue a replacement registration document as soon as practicable if any of the amended particulars are shown on the registration document.
 
-(5)[^key-382844012c73ce29162fbd88cadd9044] Following the issuing of a replacement registration document in accordance with paragraph (4)(b)—
+(5)[^c-382844012c73ce29162fbd88cadd9044] Following the issuing of a replacement registration document in accordance with paragraph (4)(b)—
 
 - (a) the Secretary of State must send the replacement registration document to the address of the registered keeper; and
 - (b) the registered keeper must destroy, or surrender to the Secretary of State, any other registration document for the same trailer if required to do so by the Secretary of State.
 
-### 9. Replacement and renewal of registration documents[^key-db2e2a7d9f3bd1df02cac2ea9ce7266f]
+### 9. Replacement and renewal of registration documents[^c-db2e2a7d9f3bd1df02cac2ea9ce7266f]
 
 (1) The registered keeper must notify the Secretary of State if—
 
@@ -212,7 +212,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 
 (2) A notification under paragraph (1) must be accompanied by payment of £10.00 and the Secretary of State may refuse to issue a replacement registration document if such payment is not made.
 
-(3) The registered keeper may apply to the Secretary of State to renew a registration document up to six months[^key-6510135ce7a56d5ab3a191e8fb7353d0] before the expiry of an existing registration document or at any time after its expiry.
+(3) The registered keeper may apply to the Secretary of State to renew a registration document up to six months[^c-6510135ce7a56d5ab3a191e8fb7353d0] before the expiry of an existing registration document or at any time after its expiry.
 
 (4) When making an application under paragraph (3), the registered keeper must provide all of the particulars specified in regulation 4(2)(d) to the Secretary of State.
 
@@ -226,7 +226,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 - (a) the Secretary of State must send the replacement or renewed registration document to the address of the registered keeper; and
 - (b) the registered keeper must destroy, or surrender to the Secretary of State, any other registration document for the same trailer if required to do so by the Secretary of State.
 
-### 10. Disposals of trailers and new keepers[^key-f3bd1615ff52e892a5d589ad610cd1bd]
+### 10. Disposals of trailers and new keepers[^c-f3bd1615ff52e892a5d589ad610cd1bd]
 
 (1) Following the disposal of a registered trailer by the registered keeper, the registered keeper must—
 
@@ -254,7 +254,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 
 (7) The Secretary of State must reject any application to record a person in the register as the keeper of a registered trailer that is not made under paragraph (4) or not in compliance with paragraph (5).
 
-### 11. Provision of information, etc., to the Secretary of State[^key-aa53f579439d7ae5831d62443cff930a]
+### 11. Provision of information, etc., to the Secretary of State[^c-aa53f579439d7ae5831d62443cff930a]
 
 (1) Any application, notification, information, particulars, declaration or other thing given or made to the Secretary of State in pursuance of these Regulations must be given or made via a digital service provided by (or on behalf of) the Secretary of State.
 
@@ -266,7 +266,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 - (d) the provision of information to the Secretary of State by an examiner under regulation 14(1) or (2); or
 - (e) a requirement under regulation 24 to provide information in relation to an offence.
 
-### 12. Production of registration documents[^key-1ed707752d57f00e94822cadc3d0e841]
+### 12. Production of registration documents[^c-1ed707752d57f00e94822cadc3d0e841]
 
 (1) The registered keeper or the user of a registered trailer must produce the registration document for that trailer for inspection if required to do so by an examiner or stopping officer[^f00015] carrying out any function under any enactment in relation to the same trailer or the motor vehicle[^f00016] that is drawing it.
 
@@ -274,7 +274,7 @@ The Secretary of State has consulted such persons as thought fit before making t
 
 (3) A failure to produce a registration document when required to do so under paragraph (1) is not an offence under regulation 19(1)(f) if a person is not recorded in the register as the person who keeps the trailer at the time when the requirement is made.
 
-### 13. Inspections of trailers[^key-1861a7e864b541130de5f97867d1e713][^key-1861a7e864b541130de5f97867d1e713]
+### 13. Inspections of trailers[^c-1861a7e864b541130de5f97867d1e713][^c-1861a7e864b541130de5f97867d1e713]
 
 (1) When an examiner is carrying out any function under any enactment in relation to a trailer or the motor vehicle that is drawing it, the examiner may inspect that trailer to determine—
 
@@ -293,30 +293,30 @@ The Secretary of State has consulted such persons as thought fit before making t
 - (a) with the consent of the person who keeps the trailer;
 - (b) during normal working hours; and
 - (c) for a trailer kept in—
-  - (i)[^key-1146aedbc9c91212fc97d67ff3ad0998] Great Britain, at a place that appears suitable to the Secretary of State for the purpose; or
+  - (i)[^c-1146aedbc9c91212fc97d67ff3ad0998] Great Britain, at a place that appears suitable to the Secretary of State for the purpose; or
   - (ii) Northern Ireland, at a vehicle testing centre provided by the Department for Infrastructure under article 73 of the Road Traffic (Northern Ireland) Order 1995[^f00018].
 
-### 14. Outcomes of inspections[^key-a8ecb420c349f30f07d8aae6f4c24a1c][^key-9c18786d6f3bbdca54586e391a84ab48][^key-f5e5bcf370c6e000d3864fdc4908f0bf][^key-a8ecb420c349f30f07d8aae6f4c24a1c][^key-9c18786d6f3bbdca54586e391a84ab48]
+### 14. Outcomes of inspections[^c-a8ecb420c349f30f07d8aae6f4c24a1c][^c-9c18786d6f3bbdca54586e391a84ab48][^c-f5e5bcf370c6e000d3864fdc4908f0bf][^c-a8ecb420c349f30f07d8aae6f4c24a1c][^c-9c18786d6f3bbdca54586e391a84ab48]
 
-(1)[^key-a8ecb420c349f30f07d8aae6f4c24a1c] If any particulars recorded in the register or shown on a registration document are found to be inaccurate or incomplete during an inspection under regulation 13(1), the examiner must record these findings and provide this record to the Secretary of State.
+(1)[^c-a8ecb420c349f30f07d8aae6f4c24a1c] If any particulars recorded in the register or shown on a registration document are found to be inaccurate or incomplete during an inspection under regulation 13(1), the examiner must record these findings and provide this record to the Secretary of State.
 
-(2)[^key-a8ecb420c349f30f07d8aae6f4c24a1c] The examiner must record the findings of an inspection under regulation 13(2) and provide this record to the Secretary of State.
+(2)[^c-a8ecb420c349f30f07d8aae6f4c24a1c] The examiner must record the findings of an inspection under regulation 13(2) and provide this record to the Secretary of State.
 
-(3)[^key-9c18786d6f3bbdca54586e391a84ab48][^key-f5e5bcf370c6e000d3864fdc4908f0bf] The Secretary of State may refuse to register a trailer, require the registered keeper to destroy, or surrender to the Secretary of State, any registration documents or withdraw a registration mark assigned to the trailer by the Secretary of State under regulation 15, as appropriate, if—
+(3)[^c-9c18786d6f3bbdca54586e391a84ab48][^c-f5e5bcf370c6e000d3864fdc4908f0bf] The Secretary of State may refuse to register a trailer, require the registered keeper to destroy, or surrender to the Secretary of State, any registration documents or withdraw a registration mark assigned to the trailer by the Secretary of State under regulation 15, as appropriate, if—
 
 - (a) any of the trailer’s particulars specified in regulation 4(2)(d)(iii) to (vi) are determined as a result of an inspection under regulation 13(1) or (2) to differ from those recorded in the register or provided to the Secretary of State under these Regulations; or
 - (b) a trailer is not made available for an inspection under regulation 13(2) at the time and place specified under regulation 13(3).
 
-(4)[^key-a8ecb420c349f30f07d8aae6f4c24a1c] A person who keeps a trailer or the registered keeper may request a further inspection of that trailer if the Secretary of State has taken action in relation to it under paragraph (3).[^key-709218685920437186d5862df55a84c5]
+(4)[^c-a8ecb420c349f30f07d8aae6f4c24a1c] A person who keeps a trailer or the registered keeper may request a further inspection of that trailer if the Secretary of State has taken action in relation to it under paragraph (3).[^c-709218685920437186d5862df55a84c5]
 
-(5)[^key-a8ecb420c349f30f07d8aae6f4c24a1c] The fee payable to the Secretary of State in accordance with paragraph (4) must be repaid in full by the Secretary of State to the person who keeps the trailer or the registered keeper if—
+(5)[^c-a8ecb420c349f30f07d8aae6f4c24a1c] The fee payable to the Secretary of State in accordance with paragraph (4) must be repaid in full by the Secretary of State to the person who keeps the trailer or the registered keeper if—
 
 - (a) the examiner conducting a further inspection determines that the findings of a previous inspection were in error; and
 - (b) the Secretary of State is satisfied that the action taken under paragraph (3) would not have been taken but for that error.
 
 ## PART 3 — REGISTRATION MARKS AND PLATES
 
-### 15. Assigning of registration marks[^key-7dbfe6f136ed8ceba4c805d9a19fe16c]
+### 15. Assigning of registration marks[^c-7dbfe6f136ed8ceba4c805d9a19fe16c]
 
 (1) The Secretary of State, upon registering a trailer, must as soon as practicable assign a registration mark of one letter followed by seven numbers to the trailer.
 
@@ -326,24 +326,24 @@ The Secretary of State has consulted such persons as thought fit before making t
 - (b) withdraw a registration mark for the time being assigned to a trailer; or
 - (c) re-assign to a trailer a registration mark previously assigned to it but subsequently withdrawn.
 
-### 16. Display of registration marks[^key-d56167d6ec62f6b2528a4565351fd708][^key-ff079102832f8620e4e0b72dbea439fd]
+### 16. Display of registration marks[^c-d56167d6ec62f6b2528a4565351fd708][^c-ff079102832f8620e4e0b72dbea439fd]
 
-(1)[^key-d56167d6ec62f6b2528a4565351fd708] The registered keeper or the user of a registered trailer must not use it on a road, or cause or permit it to be so used, unless a registration plate[^f00019] (displaying its assigned registration mark) is fixed on the trailer in compliance with this regulation.
+(1)[^c-d56167d6ec62f6b2528a4565351fd708] The registered keeper or the user of a registered trailer must not use it on a road, or cause or permit it to be so used, unless a registration plate[^f00019] (displaying its assigned registration mark) is fixed on the trailer in compliance with this regulation.
 
-(2)[^key-d56167d6ec62f6b2528a4565351fd708] A registration plate is fixed on a trailer in compliance with this regulation only if—
+(2)[^c-d56167d6ec62f6b2528a4565351fd708] A registration plate is fixed on a trailer in compliance with this regulation only if—
 
 - (a) the specification of the registration mark displayed upon it is in accordance with paragraph 1 of Schedule 2;
 - (b) the specification of the registration plate is in accordance with paragraph 2 of Schedule 2; and
 - (c) the registration plate is fixed to the trailer in accordance with regulation 17.
 
-(3)[^key-ff079102832f8620e4e0b72dbea439fd] A person who keeps a trailer or a user of a trailer must not use it on a road, or cause or permit it to be so used, with a plate fixed on the trailer that displays a mark which is—
+(3)[^c-ff079102832f8620e4e0b72dbea439fd] A person who keeps a trailer or a user of a trailer must not use it on a road, or cause or permit it to be so used, with a plate fixed on the trailer that displays a mark which is—
 
 - (a) consistent with the specification of a registration mark in paragraph 1 of Schedule 2; and
 - (b) not assigned to that trailer by the Secretary of State under regulation 15.
 
-(4)[^key-d56167d6ec62f6b2528a4565351fd708] Paragraphs (1) and (2) do not apply in relation to a registered trailer if a person is not recorded in the register as the person who keeps the trailer at the time of an alleged offence under regulation 19(1)(g).
+(4)[^c-d56167d6ec62f6b2528a4565351fd708] Paragraphs (1) and (2) do not apply in relation to a registered trailer if a person is not recorded in the register as the person who keeps the trailer at the time of an alleged offence under regulation 19(1)(g).
 
-### 17. Fixing of registration plates[^key-f8ae1ad9640df76628a1819deade4b5e]
+### 17. Fixing of registration plates[^c-f8ae1ad9640df76628a1819deade4b5e]
 
 (1) Subject to paragraph (2), the registration plate must be fixed—
 
@@ -360,36 +360,36 @@ The Secretary of State has consulted such persons as thought fit before making t
 - (b) renders the characters of the registration mark less easily distinguishable to the eye; or
 - (c) prevents or impairs the making of a true photographic image of the plate through any device.
 
-### 18. Amendments relating to registration plates[^key-acfcb75ee62674d74a22c9dcd439d200]
+### 18. Amendments relating to registration plates[^c-acfcb75ee62674d74a22c9dcd439d200]
 
 The amendments in Schedule 3 have effect.
 
 ## PART 4 — OFFENCES AND LEGAL PROCEEDINGS
 
-### 19. Breaches of specified regulations[^key-739266d77510cc2ccba0c7460bafd7b5][^key-380f4a9e22dfc8d9fb0a63bbc6c04177]
+### 19. Breaches of specified regulations[^c-739266d77510cc2ccba0c7460bafd7b5][^c-380f4a9e22dfc8d9fb0a63bbc6c04177]
 
 (1) It is an offence for a person to contravene or fail to comply with—
 
-- (a)[^key-739266d77510cc2ccba0c7460bafd7b5] regulation 7(5) (prohibition on using an expired registration document on a journey to or through a Convention territory);
-- (b)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(5)(b), 9(6)(b) or 10(1)(b) or a requirement made under regulation 8(1)(c) or 14(3) (duty to destroy or surrender a registration document if required);
-- (c)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(2) (duty to notify the Secretary of State of inaccuracies);
-- (d)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 9(1) (duty to notify the Secretary of State in relation to registration documents);
-- (e)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 10(1)(a) (duty to notify the Secretary of State of the disposal of a trailer);
-- (f)[^key-739266d77510cc2ccba0c7460bafd7b5] regulation 12(1) (duty to produce a registration document if required);
-- (g)[^key-739266d77510cc2ccba0c7460bafd7b5] regulation 16(1) (duty to fix a registration plate on a registered trailer); or
-- (h)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 16(3) (prohibition on displaying an unassigned registration mark on a trailer).
+- (a)[^c-739266d77510cc2ccba0c7460bafd7b5] regulation 7(5) (prohibition on using an expired registration document on a journey to or through a Convention territory);
+- (b)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(5)(b), 9(6)(b) or 10(1)(b) or a requirement made under regulation 8(1)(c) or 14(3) (duty to destroy or surrender a registration document if required);
+- (c)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(2) (duty to notify the Secretary of State of inaccuracies);
+- (d)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 9(1) (duty to notify the Secretary of State in relation to registration documents);
+- (e)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 10(1)(a) (duty to notify the Secretary of State of the disposal of a trailer);
+- (f)[^c-739266d77510cc2ccba0c7460bafd7b5] regulation 12(1) (duty to produce a registration document if required);
+- (g)[^c-739266d77510cc2ccba0c7460bafd7b5] regulation 16(1) (duty to fix a registration plate on a registered trailer); or
+- (h)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 16(3) (prohibition on displaying an unassigned registration mark on a trailer).
 
 (2) In any proceedings for an offence of contravening or failing to comply with—
 
-- (a)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 7(5), 16(1) or 16(3), it is a defence for the defendant to prove that they were unaware and could not reasonably have been expected to be aware that the trailer would be so used;
-- (b)[^key-739266d77510cc2ccba0c7460bafd7b5] regulation 7(5), it is a defence for the defendant to prove that they held a reasonable belief that the registration document for the trailer was valid at the time of the alleged offence;
-- (c)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(5)(b), 9(6)(b) or 10(1)(b) or a requirement made under regulation 8(1)(c) or 14(3), it is a defence for the defendant to prove that the registration document was not in their control at the time when they became aware of the requirement to destroy or surrender it or at any later time;
-- (d)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(2), 9(1) or 10(1)(a), it is a defence for the defendant to prove that there was no reasonable opportunity, before the time of the alleged offence, to make the required notification to the Secretary of State;
-- (e)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(2), it is a defence for the defendant to prove that there were reasonable grounds for believing, or that it was reasonable to expect, that the particulars recorded in the register or shown on the registration document were accurate;
-- (f)[^key-739266d77510cc2ccba0c7460bafd7b5] regulation 12(1) or 16(1), it is a defence for the defendant to prove that there were reasonable grounds for believing, or that it was reasonable to expect, that the trailer was not registered; or
-- (g)[^key-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 16(3), it is a defence for the defendant to prove that there were reasonable grounds for believing, or that it was reasonable to expect, that the mark displayed on the fixed plate was assigned to the trailer at the time of the alleged offence.
+- (a)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 7(5), 16(1) or 16(3), it is a defence for the defendant to prove that they were unaware and could not reasonably have been expected to be aware that the trailer would be so used;
+- (b)[^c-739266d77510cc2ccba0c7460bafd7b5] regulation 7(5), it is a defence for the defendant to prove that they held a reasonable belief that the registration document for the trailer was valid at the time of the alleged offence;
+- (c)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(5)(b), 9(6)(b) or 10(1)(b) or a requirement made under regulation 8(1)(c) or 14(3), it is a defence for the defendant to prove that the registration document was not in their control at the time when they became aware of the requirement to destroy or surrender it or at any later time;
+- (d)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(2), 9(1) or 10(1)(a), it is a defence for the defendant to prove that there was no reasonable opportunity, before the time of the alleged offence, to make the required notification to the Secretary of State;
+- (e)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 8(2), it is a defence for the defendant to prove that there were reasonable grounds for believing, or that it was reasonable to expect, that the particulars recorded in the register or shown on the registration document were accurate;
+- (f)[^c-739266d77510cc2ccba0c7460bafd7b5] regulation 12(1) or 16(1), it is a defence for the defendant to prove that there were reasonable grounds for believing, or that it was reasonable to expect, that the trailer was not registered; or
+- (g)[^c-380f4a9e22dfc8d9fb0a63bbc6c04177] regulation 16(3), it is a defence for the defendant to prove that there were reasonable grounds for believing, or that it was reasonable to expect, that the mark displayed on the fixed plate was assigned to the trailer at the time of the alleged offence.
 
-### 20. Incorrectly registered trailers[^key-ca557a1c9c87ff7ba29012327757e86b]
+### 20. Incorrectly registered trailers[^c-ca557a1c9c87ff7ba29012327757e86b]
 
 (1) It is an offence for a person to keep or use a registered trailer on a road that is incorrectly registered.
 
@@ -414,7 +414,7 @@ The amendments in Schedule 3 have effect.
 - (a) they were unaware and could not reasonably have been expected to be aware that the trailer would be so used; or
 - (b) they held a reasonable belief that a person was recorded in the register as the person who keeps the trailer at the time of the alleged offence.
 
-### 21. Obscuring of registration marks[^key-bcfbac4f4991809ad3d836f327bfa67a]
+### 21. Obscuring of registration marks[^c-bcfbac4f4991809ad3d836f327bfa67a]
 
 (1) It is an offence for a person to keep or use a registered trailer on a road if the registration mark is—
 
@@ -425,18 +425,18 @@ The amendments in Schedule 3 have effect.
 
 (3) This regulation does not apply in relation to a registered trailer if a person is not recorded in the register as the person who keeps the trailer at the time of the alleged offence.
 
-### 22. Obstruction of, or pretending to be, a person entitled to carry out an inspection[^key-9ef19f8700c3770288ea360627b84fae]
+### 22. Obstruction of, or pretending to be, a person entitled to carry out an inspection[^c-9ef19f8700c3770288ea360627b84fae]
 
 It is an offence for a person to—
 
 - (a) wilfully obstruct a person carrying out an inspection of a trailer under regulation 13; or
 - (b) pretend, with intent to deceive, to be a person entitled to carry out an inspection of a trailer under regulation 13.
 
-### 23. False or misleading information, documents or declarations[^key-baa9622c6e70780a772090dab5b3ec84]
+### 23. False or misleading information, documents or declarations[^c-baa9622c6e70780a772090dab5b3ec84]
 
 It is an offence for a person to make a declaration, provide information or produce a document which is knowingly false or, in any material respect, knowingly misleading in relation to any notice, application or provision of information to the Secretary of State in pursuance of these Regulations.
 
-### 24. Duty to provide information in relation to a suspected person[^key-1a8a2066096d099996ee08167fe37a61]
+### 24. Duty to provide information in relation to a suspected person[^c-1a8a2066096d099996ee08167fe37a61]
 
 (1) If a person is suspected of committing an offence under regulation 5(1), 19(1)(g), 19(1)(h), 20(1) or 21(1), the relevant authority may require a person to—
 
@@ -460,11 +460,11 @@ It is an offence for a person to make a declaration, provide information or prod
 - (a) they did not know, and could not with reasonable diligence have ascertained, the identity of the suspected person; or
 - (b) the information was given as soon as reasonably practicable after the end of the period specified in paragraph (4)(b) or that it was not reasonably practicable for it to be given.
 
-### 25. Penalties[^key-5d2b9f0f3e50c6ce494e216423c64148]
+### 25. Penalties[^c-5d2b9f0f3e50c6ce494e216423c64148]
 
 A person who commits any offence under these Regulations is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 26. Admissions[^key-f5e6531e27672d765b5a4795b12ed65a]
+### 26. Admissions[^c-f5e6531e27672d765b5a4795b12ed65a]
 
 (1) This regulation applies if it is proved to the satisfaction of a court that—
 
@@ -473,7 +473,7 @@ A person who commits any offence under these Regulations is liable on summary co
 
 (2) Where this regulation applies, the court may accept such a statement as evidence (or, in Scotland, sufficient evidence) that the accused was the person who kept the trailer or the user of the trailer (as appropriate) at the time of the alleged offence.
 
-### 27. Records[^key-33e4e4843f7782073b5f53885316c856]
+### 27. Records[^c-33e4e4843f7782073b5f53885316c856]
 
 (1) A record[^f00021] to which this regulation applies is admissible in any proceedings as evidence (or, in Scotland, sufficient evidence) of any fact stated in it to the same extent as oral evidence of that fact is admissible in those proceedings, subject to paragraph (3).
 
@@ -493,7 +493,7 @@ Department for Transport
 
 Regulation 1
 
-**1.**[^key-575f2a6b8c3fa878d9b1f89aca979edf][^key-575f2a6b8c3fa878d9b1f89aca979edf] The following provisions come into force on the day after the day on which these Regulations are made—
+**1.**[^c-575f2a6b8c3fa878d9b1f89aca979edf][^c-575f2a6b8c3fa878d9b1f89aca979edf] The following provisions come into force on the day after the day on which these Regulations are made—
 
 - (a) regulation 2;
 - (b) regulation 3;
@@ -508,7 +508,7 @@ Regulation 1
 - (k) regulation 18; and
 - (l) Schedule 3.
 
-**2.**[^key-fbf3360230b47364b7e9f57ff22bf181][^key-fbf3360230b47364b7e9f57ff22bf181] The following provisions come into force 21 days after the day on which these Regulations are made—
+**2.**[^c-fbf3360230b47364b7e9f57ff22bf181][^c-fbf3360230b47364b7e9f57ff22bf181] The following provisions come into force 21 days after the day on which these Regulations are made—
 
 - (a) regulation 8(1)(c) and (2) to (5);
 - (b) regulation 9;
@@ -522,7 +522,7 @@ Regulation 1
 - (j) regulation 27; and
 - (k) Schedule 2.
 
-**3.**[^key-35e82355b576dc973f4e0bdd11093414][^key-35e82355b576dc973f4e0bdd11093414] The following provisions come into force on 28th March 2019—
+**3.**[^c-35e82355b576dc973f4e0bdd11093414][^c-35e82355b576dc973f4e0bdd11093414] The following provisions come into force on 28th March 2019—
 
 - (a) regulation 5;
 - (b) regulation 7(5);
@@ -539,13 +539,13 @@ Regulation 1
 
 Regulation 16
 
-### 1. Registration mark - specification[^key-315b019f1ec5c4368b55f859e2043d19]
+### 1. Registration mark - specification[^c-315b019f1ec5c4368b55f859e2043d19]
 
 (1) A registration mark must be displayed as a group consisting of one letter and three numbers followed by a group consisting of four numbers (for example A123 4567) in this layout—
 
 [image: see source](https://www.legislation.gov.uk/uksi/2018/1203/images/uksi_20181203_en_001)
 
-(2)[^key-56f0dce49450fe1baabaadb96a4d35f9] The registration mark must be displayed—
+(2)[^c-56f0dce49450fe1baabaadb96a4d35f9] The registration mark must be displayed—
 
 - (a) in the following prescribed font—
 
@@ -579,7 +579,7 @@ Regulation 16
 - (a) the height of the character is not more than 1 millimetre more or less than the specified height; and
 - (b) any other dimension of the character or the space in question is not more than 0.5 millimetres more or less than the specified measurement.
 
-(9)[^key-08f6ad262a9ab7ac758f5210ae3ba33f] For the purposes of sub-paragraph (2), a character shall not be treated as being in a style which is not substantially similar to the prescribed font merely by virtue of the fact that it has, or does not have, serifs.
+(9)[^c-08f6ad262a9ab7ac758f5210ae3ba33f] For the purposes of sub-paragraph (2), a character shall not be treated as being in a style which is not substantially similar to the prescribed font merely by virtue of the fact that it has, or does not have, serifs.
 
 (10) The ways of forming characters referred to in sub-paragraph (2)(b) are their formation—
 
@@ -590,7 +590,7 @@ Regulation 16
 - (e) using a broken stroke; or
 - (f) in such a way as to make a character or more than one character appear like a different character or characters.
 
-### 2. Registration plate - specification[^key-7e4c85777f0764d6d14f87ee64c20118]
+### 2. Registration plate - specification[^c-7e4c85777f0764d6d14f87ee64c20118]
 
 (1) A registration plate must have solid black characters on a white background.
 
@@ -609,7 +609,7 @@ Regulation 16
 
 Regulation 18
 
-**1.**[^key-85e0415e06da59cb42a72ec7258af8c2] (1) The Road Vehicles Lighting Regulations 1989[^f00022] are amended as follows.
+**1.**[^c-85e0415e06da59cb42a72ec7258af8c2] (1) The Road Vehicles Lighting Regulations 1989[^f00022] are amended as follows.
 
 (2) In regulation 11(2), after sub-paragraph (sa), insert—
 
@@ -623,7 +623,7 @@ Regulation 18
 
 .
 
-**2.**[^key-a660ebfcfc413f233f5eabfc1ae80227] (1) The Vehicles Crime (Registration of Registration Plate Suppliers) Regulations 2008[^f00023] are amended as follows.
+**2.**[^c-a660ebfcfc413f233f5eabfc1ae80227] (1) The Vehicles Crime (Registration of Registration Plate Suppliers) Regulations 2008[^f00023] are amended as follows.
 
 (2) In regulation 2(1)—
 
@@ -680,9 +680,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [2018 c. 19](https://www.legislation.gov.uk/ukpga/2018/19).
 
-[^key-cc40de2ace4ce542dafb876e7ba1d73c]: Commencement: Reg. 1 in force at 21.11.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2)
+[^c-cc40de2ace4ce542dafb876e7ba1d73c]: Commencement: Reg. 1 in force at 21.11.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2)
 
-[^key-c32090169644e009944ff06f912e0c29]: Commencement: Reg. 2 in force at 21.11.2018, see [Sch. 1 para. 1(a)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-c32090169644e009944ff06f912e0c29]: Commencement: Reg. 2 in force at 21.11.2018, see [Sch. 1 para. 1(a)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
 [^f00003]: Footnote: Command paper 9570; Miscellaneous Series No. 1 (2018). Further information is provided in the Explanatory Note.
 
@@ -690,11 +690,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00005]: Footnote: “Road” is defined in section 22(2) of the Haulage Permits and Trailer Registration Act 2018.
 
-[^key-ff74a1140a14b874b1759500652a6b7c]: Commencement: Reg. 3 in force at 21.11.2018, see [Sch. 1 para. 1(b)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-ff74a1140a14b874b1759500652a6b7c]: Commencement: Reg. 3 in force at 21.11.2018, see [Sch. 1 para. 1(b)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
 [^f00006]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-0c649856e20a8c48cfc0d3dbd9ae1470]: Commencement: Reg. 4 in force at 21.11.2018, see [Sch. 1 para. 1(c)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-0c649856e20a8c48cfc0d3dbd9ae1470]: Commencement: Reg. 4 in force at 21.11.2018, see [Sch. 1 para. 1(c)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
 [^f00007]: Footnote: “Registration” is defined in section 22(2) of the Haulage Permits and Trailer Registration Act 2018.
 
@@ -708,112 +708,112 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: [2010 c. 2 (N.I)](https://www.legislation.gov.uk/nia/2010/2); section 12 was substituted by [S.R. 2012/257](https://www.legislation.gov.uk/nisr/2012/257), regulation 17(5).
 
-[^key-5628714fc2946b1e0d35a640ca737dee]: Textual amendment: Word in [reg. 4(2)(d)(v)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/4/2/d/v) omitted (1.11.2021) by virtue of [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/2/a)
+[^c-5628714fc2946b1e0d35a640ca737dee]: Textual amendment: Word in [reg. 4(2)(d)(v)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/4/2/d/v) omitted (1.11.2021) by virtue of [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/2/a)
 
-[^key-89c58b0a526c057fbf20ced1c2376d64]: Textual amendment: Words in [reg. 4(2)(d)(vi)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/4/2/d/vi) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/2/b)
+[^c-89c58b0a526c057fbf20ced1c2376d64]: Textual amendment: Words in [reg. 4(2)(d)(vi)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/4/2/d/vi) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/2/b)
 
-[^key-98d92192607487a4dcde204a8cf85498]: Textual amendment: [Reg. 4(2)(d)(vii)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/4/2/d/vii) inserted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/2/c)
+[^c-98d92192607487a4dcde204a8cf85498]: Textual amendment: [Reg. 4(2)(d)(vii)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/4/2/d/vii) inserted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/2/c)
 
 [^f00013]: Footnote: “Registered trailer” is defined in section 22(2) of the Haulage Permits and Trailer Registration Act 2018.
 
-[^key-3abe8d08215fd5f6b3933657eb3abbcf]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/4/8) inserted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/3)
+[^c-3abe8d08215fd5f6b3933657eb3abbcf]: Textual amendment: [Reg. 4(8)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/4/8) inserted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/3)
 
-[^key-82070f7e5d5f601cefb0447c52a9369e]: Commencement: Reg. 5 in force at 28.3.2019, see [Sch. 1 para. 3(a)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
+[^c-82070f7e5d5f601cefb0447c52a9369e]: Commencement: Reg. 5 in force at 28.3.2019, see [Sch. 1 para. 3(a)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
 
-[^key-9cb95777f802da78cb12278b38470bf3]: Commencement: Reg. 6 in force at 21.11.2018, see [Sch. 1 para. 1(d)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-9cb95777f802da78cb12278b38470bf3]: Commencement: Reg. 6 in force at 21.11.2018, see [Sch. 1 para. 1(d)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
-[^key-1428cc836efeb28839807b833a06bc50]: Commencement: Reg. 7(1)-(4) in force at 21.11.2018, see [Sch. 1 para. 1(e)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-1428cc836efeb28839807b833a06bc50]: Commencement: Reg. 7(1)-(4) in force at 21.11.2018, see [Sch. 1 para. 1(e)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
-[^key-33995db80388660a3469ea2adbc62e32]: Commencement: Reg. 7(5) in force at 28.3.2019, see [Sch. 1 para. 3(b)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
+[^c-33995db80388660a3469ea2adbc62e32]: Commencement: Reg. 7(5) in force at 28.3.2019, see [Sch. 1 para. 3(b)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
 
 [^f00014]: Footnote: “Registration document” is defined in section 22(2) of the Haulage Permits and Trailer Registration Act 2018.
 
-[^key-ed9c92f828afb6e565e8d259d0a7382c]: Commencement: Reg. 8(1)(a)(b)(d)(e) in force at 21.11.2018, see [Sch. 1 para. 1(f)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-ed9c92f828afb6e565e8d259d0a7382c]: Commencement: Reg. 8(1)(a)(b)(d)(e) in force at 21.11.2018, see [Sch. 1 para. 1(f)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
-[^key-382844012c73ce29162fbd88cadd9044]: Commencement: [Reg. 8(1)(c)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/8/1/c), [(2)-(5)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/8/2) in force at 11.12.2018, see [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/a)
+[^c-382844012c73ce29162fbd88cadd9044]: Commencement: [Reg. 8(1)(c)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/8/1/c), [(2)-(5)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/8/2) in force at 11.12.2018, see [Sch. 1 para. 2(a)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/a)
 
-[^key-db2e2a7d9f3bd1df02cac2ea9ce7266f]: Commencement: Reg. 9 in force at 11.12.2018, see [Sch. 1 para. 2(b)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-db2e2a7d9f3bd1df02cac2ea9ce7266f]: Commencement: Reg. 9 in force at 11.12.2018, see [Sch. 1 para. 2(b)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
-[^key-6510135ce7a56d5ab3a191e8fb7353d0]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/9/3) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/4)
+[^c-6510135ce7a56d5ab3a191e8fb7353d0]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/9/3) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/4)
 
-[^key-f3bd1615ff52e892a5d589ad610cd1bd]: Commencement: Reg. 10 in force at 11.12.2018, see [Sch. 1 para. 2(c)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-f3bd1615ff52e892a5d589ad610cd1bd]: Commencement: Reg. 10 in force at 11.12.2018, see [Sch. 1 para. 2(c)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
-[^key-aa53f579439d7ae5831d62443cff930a]: Commencement: Reg. 11 in force at 21.11.2018, see [Sch. 1 para. 1(g)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-aa53f579439d7ae5831d62443cff930a]: Commencement: Reg. 11 in force at 21.11.2018, see [Sch. 1 para. 1(g)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
-[^key-1ed707752d57f00e94822cadc3d0e841]: Commencement: Reg. 12 in force at 28.3.2019, see [Sch. 1 para. 3(c)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
+[^c-1ed707752d57f00e94822cadc3d0e841]: Commencement: Reg. 12 in force at 28.3.2019, see [Sch. 1 para. 3(c)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
 
 [^f00015]: Footnote: “Examiner” and “stopping officer” are defined in section 14(3) of the Haulage Permits and Trailer Registration Act 2018.
 
 [^f00016]: Footnote: “Motor vehicle” is defined in section 13(3) of the Haulage Permits and Trailer Registration Act 2018.
 
-[^key-1861a7e864b541130de5f97867d1e713]: Commencement: Reg. 13 in force at 21.11.2018, see [Sch. 1 para. 1(h)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-1861a7e864b541130de5f97867d1e713]: Commencement: Reg. 13 in force at 21.11.2018, see [Sch. 1 para. 1(h)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
-[^key-1146aedbc9c91212fc97d67ff3ad0998]: Textual amendment: [Reg. 13(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/13/4/c/i) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/5)
+[^c-1146aedbc9c91212fc97d67ff3ad0998]: Textual amendment: [Reg. 13(4)(c)(i)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/13/4/c/i) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/5)
 
 [^f00018]: Footnote: [S.I. 1995/2994 (N.I. 18)](https://www.legislation.gov.uk/nisi/1995/2994). As enacted, the power to provide a vehicle testing centre was exercisable by the Department of the Environment. This function was transferred to the Department for Infrastructure by [S.R. 2016/76](https://www.legislation.gov.uk/nisr/2016/76), Schedule 5, Part 2.
 
-[^key-a8ecb420c349f30f07d8aae6f4c24a1c]: Commencement: Reg. 14(1)(2)(4)(5) in force at 21.11.2018, see [Sch. 1 para. 1(i)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-a8ecb420c349f30f07d8aae6f4c24a1c]: Commencement: Reg. 14(1)(2)(4)(5) in force at 21.11.2018, see [Sch. 1 para. 1(i)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
-[^key-9c18786d6f3bbdca54586e391a84ab48]: Commencement: Reg. 14(3) in force at 21.11.2018 for specified purposes, see [Sch. 1 para. 1(i)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-9c18786d6f3bbdca54586e391a84ab48]: Commencement: Reg. 14(3) in force at 21.11.2018 for specified purposes, see [Sch. 1 para. 1(i)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
-[^key-f5e5bcf370c6e000d3864fdc4908f0bf]: Commencement: Reg. 14(3) in force at 11.12.2018 in so far as not already in force, see [Sch. 1 para. 2(d)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-f5e5bcf370c6e000d3864fdc4908f0bf]: Commencement: Reg. 14(3) in force at 11.12.2018 in so far as not already in force, see [Sch. 1 para. 2(d)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
-[^key-709218685920437186d5862df55a84c5]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/14/4) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/6)
+[^c-709218685920437186d5862df55a84c5]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/14/4) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/2/6)
 
-[^key-7dbfe6f136ed8ceba4c805d9a19fe16c]: Commencement: Reg. 15 in force at 21.11.2018, see [Sch. 1 para. 1(j)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-7dbfe6f136ed8ceba4c805d9a19fe16c]: Commencement: Reg. 15 in force at 21.11.2018, see [Sch. 1 para. 1(j)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
-[^key-d56167d6ec62f6b2528a4565351fd708]: Commencement: Reg. 16(1)(2)(4) in force at 28.3.2019, see [Sch. 1 para. 3(d)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
+[^c-d56167d6ec62f6b2528a4565351fd708]: Commencement: Reg. 16(1)(2)(4) in force at 28.3.2019, see [Sch. 1 para. 3(d)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
 
-[^key-ff079102832f8620e4e0b72dbea439fd]: Commencement: Reg. 16(3) in force at 11.12.2018, see [Sch. 1 para. 2(e)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-ff079102832f8620e4e0b72dbea439fd]: Commencement: Reg. 16(3) in force at 11.12.2018, see [Sch. 1 para. 2(e)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
 [^f00019]: Footnote: “Registration plate” is defined in section 15(3) of the Haulage Permits and Trailer Registration Act 2018.
 
-[^key-f8ae1ad9640df76628a1819deade4b5e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/1203/regulation/17) in force at 28.3.2019, see [Sch. 1 para. 3(e)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/e)
+[^c-f8ae1ad9640df76628a1819deade4b5e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2018/1203/regulation/17) in force at 28.3.2019, see [Sch. 1 para. 3(e)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/e)
 
 [^f00020]: Footnote: [S.I. 2001/561](https://www.legislation.gov.uk/uksi/2001/561), to which there are amendments not relevant to these Regulations.
 
-[^key-acfcb75ee62674d74a22c9dcd439d200]: Commencement: Reg. 18 in force at 21.11.2018, see [Sch. 1 para. 1(k)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-acfcb75ee62674d74a22c9dcd439d200]: Commencement: Reg. 18 in force at 21.11.2018, see [Sch. 1 para. 1(k)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
-[^key-739266d77510cc2ccba0c7460bafd7b5]: Commencement: Reg. 19(1)(a)(f)(g) (2)(b)(f) in force at 28.3.2019, see [Sch. 1 para. 3(f)](https://www.legislation.gov.uk/uksi/2018/1203/1)
+[^c-739266d77510cc2ccba0c7460bafd7b5]: Commencement: Reg. 19(1)(a)(f)(g) (2)(b)(f) in force at 28.3.2019, see [Sch. 1 para. 3(f)](https://www.legislation.gov.uk/uksi/2018/1203/1)
 
-[^key-380f4a9e22dfc8d9fb0a63bbc6c04177]: Commencement: Reg. 19(1)(b)-(e)(h) (2)(a)(c)-(e)(g) in force at 11.12.2018, see [Sch. 1 para. 2(f)](https://www.legislation.gov.uk/uksi/2018/1203/1)
+[^c-380f4a9e22dfc8d9fb0a63bbc6c04177]: Commencement: Reg. 19(1)(b)-(e)(h) (2)(a)(c)-(e)(g) in force at 11.12.2018, see [Sch. 1 para. 2(f)](https://www.legislation.gov.uk/uksi/2018/1203/1)
 
-[^key-ca557a1c9c87ff7ba29012327757e86b]: Commencement: Reg. 20 in force at 28.3.2019, see [Sch. 1 para. 3(g)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
+[^c-ca557a1c9c87ff7ba29012327757e86b]: Commencement: Reg. 20 in force at 28.3.2019, see [Sch. 1 para. 3(g)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
 
-[^key-bcfbac4f4991809ad3d836f327bfa67a]: Commencement: Reg. 21 in force at 28.3.2019, see [Sch. 1 para. 3(h)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
+[^c-bcfbac4f4991809ad3d836f327bfa67a]: Commencement: Reg. 21 in force at 28.3.2019, see [Sch. 1 para. 3(h)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
 
-[^key-9ef19f8700c3770288ea360627b84fae]: Commencement: Reg. 22 in force at 11.12.2018, see [Sch. 1 para. 2(g)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-9ef19f8700c3770288ea360627b84fae]: Commencement: Reg. 22 in force at 11.12.2018, see [Sch. 1 para. 2(g)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
-[^key-baa9622c6e70780a772090dab5b3ec84]: Commencement: Reg. 23 in force at 11.12.2018, see [Sch. 1 para. 2(h)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-baa9622c6e70780a772090dab5b3ec84]: Commencement: Reg. 23 in force at 11.12.2018, see [Sch. 1 para. 2(h)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
-[^key-1a8a2066096d099996ee08167fe37a61]: Commencement: Reg. 24 in force at 28.3.2019, see [Sch. 1 para. 3(i)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
+[^c-1a8a2066096d099996ee08167fe37a61]: Commencement: Reg. 24 in force at 28.3.2019, see [Sch. 1 para. 3(i)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
 
-[^key-5d2b9f0f3e50c6ce494e216423c64148]: Commencement: Reg. 25 in force at 11.12.2018, see [Sch. 1 para. 2(i)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-5d2b9f0f3e50c6ce494e216423c64148]: Commencement: Reg. 25 in force at 11.12.2018, see [Sch. 1 para. 2(i)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
-[^key-f5e6531e27672d765b5a4795b12ed65a]: Commencement: Reg. 26 in force at 28.3.2019, see [Sch. 1 para. 3(j)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
+[^c-f5e6531e27672d765b5a4795b12ed65a]: Commencement: Reg. 26 in force at 28.3.2019, see [Sch. 1 para. 3(j)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/3/2018-11-21/revision)
 
-[^key-33e4e4843f7782073b5f53885316c856]: Commencement: Reg. 27 in force at 11.12.2018, see [Sch. 1 para. 2(j)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-33e4e4843f7782073b5f53885316c856]: Commencement: Reg. 27 in force at 11.12.2018, see [Sch. 1 para. 2(j)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
 [^f00021]: Footnote: “Records” is defined in section 19(2) of the Haulage Permits and Trailer Registration Act 2018.
 
-[^key-575f2a6b8c3fa878d9b1f89aca979edf]: Commencement: Sch. 1 para. 1 in force at 21.11.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2)
+[^c-575f2a6b8c3fa878d9b1f89aca979edf]: Commencement: Sch. 1 para. 1 in force at 21.11.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2)
 
-[^key-fbf3360230b47364b7e9f57ff22bf181]: Commencement: Sch. 1 para. 2 in force at 21.11.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2)
+[^c-fbf3360230b47364b7e9f57ff22bf181]: Commencement: Sch. 1 para. 2 in force at 21.11.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2)
 
-[^key-35e82355b576dc973f4e0bdd11093414]: Commencement: Sch. 1 para. 3 in force at 21.11.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2)
+[^c-35e82355b576dc973f4e0bdd11093414]: Commencement: Sch. 1 para. 3 in force at 21.11.2018, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/regulation/1/2)
 
-[^key-315b019f1ec5c4368b55f859e2043d19]: Commencement: Sch. 2 para. 1 in force at 11.12.2018, see [Sch. 1 para. 2(k)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-315b019f1ec5c4368b55f859e2043d19]: Commencement: Sch. 2 para. 1 in force at 11.12.2018, see [Sch. 1 para. 2(k)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
-[^key-56f0dce49450fe1baabaadb96a4d35f9]: Textual amendment: [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/2/paragraph/1/2) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2021/1043/schedule/paragraph/1/a)
+[^c-56f0dce49450fe1baabaadb96a4d35f9]: Textual amendment: [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/2/paragraph/1/2) substituted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2021/1043/schedule/paragraph/1/a)
 
-[^key-08f6ad262a9ab7ac758f5210ae3ba33f]: Textual amendment: [Sch. 2 para. 1(9)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/2/paragraph/1/9)[(10)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/2/paragraph/1/10) inserted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2021/1043/schedule/paragraph/1/b)
+[^c-08f6ad262a9ab7ac758f5210ae3ba33f]: Textual amendment: [Sch. 2 para. 1(9)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/2/paragraph/1/9)[(10)](https://www.legislation.gov.uk/uksi/2018/1203/schedule/2/paragraph/1/10) inserted (1.11.2021) by [The Trailer Registration (Amendment) Regulations 2021 (S.I. 2021/1043)](https://www.legislation.gov.uk/uksi/2021/1043), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1043/regulation/1/1), [Sch. para. 1(b)](https://www.legislation.gov.uk/uksi/2021/1043/schedule/paragraph/1/b)
 
-[^key-7e4c85777f0764d6d14f87ee64c20118]: Commencement: Sch. 2 para. 2 in force at 11.12.2018, see [Sch. 1 para. 2(k)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
+[^c-7e4c85777f0764d6d14f87ee64c20118]: Commencement: Sch. 2 para. 2 in force at 11.12.2018, see [Sch. 1 para. 2(k)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/2/2018-11-21/revision)
 
-[^key-85e0415e06da59cb42a72ec7258af8c2]: Commencement: Sch. 3 para. 1 in force at 21.11.2018, see [Sch. 1 para. 1(l)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-85e0415e06da59cb42a72ec7258af8c2]: Commencement: Sch. 3 para. 1 in force at 21.11.2018, see [Sch. 1 para. 1(l)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
 [^f00022]: Footnote: [S.I. 1989/1796](https://www.legislation.gov.uk/uksi/1989/1796), amended by [S.I. 2001/560](https://www.legislation.gov.uk/uksi/2001/560); there are other amending instruments but none is relevant.
 
-[^key-a660ebfcfc413f233f5eabfc1ae80227]: Commencement: Sch. 3 para. 2 in force at 21.11.2018, see [Sch. 1 para. 1(l)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
+[^c-a660ebfcfc413f233f5eabfc1ae80227]: Commencement: Sch. 3 para. 2 in force at 21.11.2018, see [Sch. 1 para. 1(l)](https://editorial.legislation.gov.uk/uksi/2018/1203/schedule/1/paragraph/1/2018-11-21/revision)
 
 [^f00023]: Footnote: [S.I. 2008/1715](https://www.legislation.gov.uk/uksi/2008/1715), to which there is an amendment not relevant to these Regulations. The definition of “the 2018 Act” was inserted into the Vehicles (Crime) Act [2001 (c. 3)](https://www.legislation.gov.uk/ukpga/2001/3), section 31(1) (interpretation of provisions relating to plates) by the Haulage Permits and Trailer Registration Act 2018, the Schedule, paragraph 8.

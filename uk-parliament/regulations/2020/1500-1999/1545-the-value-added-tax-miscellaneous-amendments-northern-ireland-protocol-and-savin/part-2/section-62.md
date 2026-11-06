@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62.[^key-459f9ba45e0de8787a7399bc7a0b2694]
+## 62.[^c-459f9ba45e0de8787a7399bc7a0b2694]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-459f9ba45e0de8787a7399bc7a0b2694]: Commencement: Reg. 62 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-459f9ba45e0de8787a7399bc7a0b2694]: Commencement: Reg. 62 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395301]: Marginal citation: [S.I. 2020/1431](https://www.legislation.gov.uk/uksi/2020/1431). “UK Reliefs document” is defined at regulation 2 of the Customs (Reliefs from a Liability to Import Duty and Miscellaneous Amendments) (EU Exit) Regulations 2020.

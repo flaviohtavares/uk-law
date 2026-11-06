@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Surplus Governors[^key-d296f34478adaefbb7a3c827e414f8a6]
+## 34. Surplus Governors[^c-d296f34478adaefbb7a3c827e414f8a6]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d296f34478adaefbb7a3c827e414f8a6]: Commencement: Reg. 34 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-d296f34478adaefbb7a3c827e414f8a6]: Commencement: Reg. 34 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

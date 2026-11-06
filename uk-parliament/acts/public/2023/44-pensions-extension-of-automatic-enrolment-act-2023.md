@@ -36,7 +36,7 @@ An Act to make provision about the extension of pensions automatic enrolment to 
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Automatic enrolment: persons and earnings affected[^key-711c5bcc03fa96f823b2692b261160db]
+## 1. Automatic enrolment: persons and earnings affected[^c-711c5bcc03fa96f823b2692b261160db]
 
 **Not yet in force.**
 
@@ -77,7 +77,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   >
   > (7) Where the Secretary of State lays before Parliament a draft of an instrument containing regulations under section 3(1A), 5(1C) or 13A, it must be accompanied by a report by the Secretary of State about the consultation under subsection (6).
 
-## 2. Extent, commencement and short title[^key-fa6201036783d674b3578521f86cb805]
+## 2. Extent, commencement and short title[^c-fa6201036783d674b3578521f86cb805]
 
 (1) Section 1(1) and (5) and this section extend to England and Wales, Scotland and Northern Ireland.
 
@@ -91,6 +91,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-711c5bcc03fa96f823b2692b261160db]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/44/section/2/3)
+[^c-711c5bcc03fa96f823b2692b261160db]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/44/section/2/3)
 
-[^key-fa6201036783d674b3578521f86cb805]: Commencement: S. 2 in force at Royal Assent, see [s. 2(4)](https://www.legislation.gov.uk/ukpga/2023/44/section/2/4)
+[^c-fa6201036783d674b3578521f86cb805]: Commencement: S. 2 in force at Royal Assent, see [s. 2(4)](https://www.legislation.gov.uk/ukpga/2023/44/section/2/4)

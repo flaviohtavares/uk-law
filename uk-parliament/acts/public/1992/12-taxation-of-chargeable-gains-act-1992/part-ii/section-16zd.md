@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16ZD. Section 16ZC: supplementary[^key-c4b2ed6bf7f7a20bf56133d62160f6eb]
+## 16ZD. Section 16ZC: supplementary[^c-c4b2ed6bf7f7a20bf56133d62160f6eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4b2ed6bf7f7a20bf56133d62160f6eb]: Textual amendment: Ss. 16ZB-16ZD omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/3)
+[^c-c4b2ed6bf7f7a20bf56133d62160f6eb]: Textual amendment: Ss. 16ZB-16ZD omitted (with effect in accordance with Sch. 1 paras. 120, 123 of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/1/paragraph/3)

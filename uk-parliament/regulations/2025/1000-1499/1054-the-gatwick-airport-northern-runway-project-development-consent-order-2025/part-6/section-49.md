@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Protection of interests[^key-c6b2cf085661eb5234089545b6c6dc16]
+## 49. Protection of interests[^c-c6b2cf085661eb5234089545b6c6dc16]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-c6b2cf085661eb5234089545b6c6dc16]: Commencement: Art. 49 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)
+[^c-c6b2cf085661eb5234089545b6c6dc16]: Commencement: Art. 49 in force at 12.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1054/article/1)

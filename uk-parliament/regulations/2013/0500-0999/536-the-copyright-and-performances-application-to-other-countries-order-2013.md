@@ -34,7 +34,7 @@ Copyright
 
 Rights In Performances
 
-The Copyright and Performances (Application to Other Countries) Order 2013 (revoked)[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+The Copyright and Performances (Application to Other Countries) Order 2013 (revoked)[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 Made
 
@@ -54,47 +54,47 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-692a8d71daad87b7b85d37f8dff9bcc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-692a8d71daad87b7b85d37f8dff9bcc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Introductory[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+## 1. Introductory[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application of Part I[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+## 2. Application of Part I[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exception relating to literary, dramatic, musical or artistic works[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+## 3. Exception relating to literary, dramatic, musical or artistic works[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exceptions and modifications relating to sound recordings[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+## 4. Exceptions and modifications relating to sound recordings[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exceptions relating to wireless broadcasts[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+## 5. Exceptions relating to wireless broadcasts[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of Part II[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+## 6. Application of Part II[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exceptions to application of Part II[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+## 7. Exceptions to application of Part II[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Savings[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+## 8. Savings[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-692a8d71daad87b7b85d37f8dff9bcc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-692a8d71daad87b7b85d37f8dff9bcc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — APPLICATION OF PARTS I AND II[^key-692a8d71daad87b7b85d37f8dff9bcc7]
+## SCHEDULE — APPLICATION OF PARTS I AND II[^c-692a8d71daad87b7b85d37f8dff9bcc7]
 
 Articles 2 to 6
 
@@ -102,8 +102,8 @@ Articles 2 to 6
 
 **May not be in force at this date. Check the source.**
 
-[^key-692a8d71daad87b7b85d37f8dff9bcc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-692a8d71daad87b7b85d37f8dff9bcc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-692a8d71daad87b7b85d37f8dff9bcc7]: Textual amendment: Order revoked (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/3) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13))
+[^c-692a8d71daad87b7b85d37f8dff9bcc7]: Textual amendment: Order revoked (6.4.2017) by [The Copyright and Performances (Application to Other Countries) Order 2016 (S.I. 2016/1219)](https://www.legislation.gov.uk/uksi/2016/1219), [art. 1(3)](https://www.legislation.gov.uk/uksi/2016/1219/article/1/3) (with [art. 13](https://www.legislation.gov.uk/uksi/2016/1219/article/13))

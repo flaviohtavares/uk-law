@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to an offence under any of sections 42 to 44 [^key-1102e88ff55f939daad53724ee02a81b]....
+(1) This section applies to an offence under any of sections 42 to 44 [^c-1102e88ff55f939daad53724ee02a81b]....
 
 (2) If an offence committed by a body corporate is proved—
 
@@ -44,4 +44,4 @@ the partner as well as the partnership is guilty of the offence and liable to be
 
 ## Annotations
 
-[^key-1102e88ff55f939daad53724ee02a81b]: Textual amendment: Words in [s. 72(1)](https://www.legislation.gov.uk/ukpga/1998/41/section/72/1) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2019/93/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1102e88ff55f939daad53724ee02a81b]: Textual amendment: Words in [s. 72(1)](https://www.legislation.gov.uk/ukpga/1998/41/section/72/1) omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2019/93/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

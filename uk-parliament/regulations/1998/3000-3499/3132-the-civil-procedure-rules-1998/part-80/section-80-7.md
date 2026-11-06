@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80.7. Appeals under section 16 of the TPIM Act or section 52 of the National Security Act[^key-b0028ea3ea761f9d3071a1825db0843b][^key-42190f9047d6628227f9b11f3de38d77]
+## 80.7. Appeals under section 16 of the TPIM Act or section 52 of the National Security Act[^c-b0028ea3ea761f9d3071a1825db0843b][^c-42190f9047d6628227f9b11f3de38d77]
 
 *Extent: E+W*
 
-Rules 80.8 to 80.11 apply to an appeal under section 16 of the Act (appeals relating to a TPIM notice) or section 52 of the National Security Act (appeals relating to a Part 2 notice)[^key-bbd19edec1fd9b1c618ed99baab40c92].
+Rules 80.8 to 80.11 apply to an appeal under section 16 of the Act (appeals relating to a TPIM notice) or section 52 of the National Security Act (appeals relating to a Part 2 notice)[^c-bbd19edec1fd9b1c618ed99baab40c92].
 
 ## Annotations
 
-[^key-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
+[^c-b0028ea3ea761f9d3071a1825db0843b]: Textual amendment: Pt. 80 inserted (15.12.2011) by [The Civil Procedure (Amendment No. 3) Rules 2011 (S.I. 2011/2970)](https://www.legislation.gov.uk/uksi/2011/2970), [rule 1](https://www.legislation.gov.uk/uksi/2011/2970/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/2970/schedule)
 
-[^key-42190f9047d6628227f9b11f3de38d77]: Textual amendment: Words in rule 80.7 heading substituted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/1397/rule/12/a)
+[^c-42190f9047d6628227f9b11f3de38d77]: Textual amendment: Words in rule 80.7 heading substituted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [12(a)](https://www.legislation.gov.uk/uksi/2023/1397/rule/12/a)
 
-[^key-bbd19edec1fd9b1c618ed99baab40c92]: Textual amendment: Words in rule 80.7 inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/1397/rule/12/b)
+[^c-bbd19edec1fd9b1c618ed99baab40c92]: Textual amendment: Words in rule 80.7 inserted (20.12.2023) by [The Civil Procedure (Amendment No. 4) Rules 2023 (S.I. 2023/1397)](https://www.legislation.gov.uk/uksi/2023/1397), [rules 1](https://www.legislation.gov.uk/uksi/2023/1397/rule/1), [12(b)](https://www.legislation.gov.uk/uksi/2023/1397/rule/12/b)

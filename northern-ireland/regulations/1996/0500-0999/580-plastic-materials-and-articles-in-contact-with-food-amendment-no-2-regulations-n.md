@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Plastic Materials and Articles in Contact with Food (Amendment No. 2) Regulations (Northern Ireland) 1996 (revoked)[^key-fe53e626325c96d063a42e135fec1ad2]
+Plastic Materials and Articles in Contact with Food (Amendment No. 2) Regulations (Northern Ireland) 1996 (revoked)[^c-fe53e626325c96d063a42e135fec1ad2]
 
 Made
 
@@ -40,45 +40,45 @@ Coming into operation
 
 29th January 1997
 
-[^key-fe53e626325c96d063a42e135fec1ad2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe53e626325c96d063a42e135fec1ad2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-fe53e626325c96d063a42e135fec1ad2]
+## 1. Citation, commencement and interpretation[^c-fe53e626325c96d063a42e135fec1ad2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Regulations[^key-fe53e626325c96d063a42e135fec1ad2]
+## 2. Amendment of the principal Regulations[^c-fe53e626325c96d063a42e135fec1ad2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fe53e626325c96d063a42e135fec1ad2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe53e626325c96d063a42e135fec1ad2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-fe53e626325c96d063a42e135fec1ad2]
+## SCHEDULE 1[^c-fe53e626325c96d063a42e135fec1ad2]
 
 Regulation 2(5)
 
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2[^key-fe53e626325c96d063a42e135fec1ad2]
+## SCHEDULE 2[^c-fe53e626325c96d063a42e135fec1ad2]
 
 Regulation 2(6)
 
-> **SECTION B — Monomers authorised up to the end of 2001[^key-fe53e626325c96d063a42e135fec1ad2]**
+> **SECTION B — Monomers authorised up to the end of 2001[^c-fe53e626325c96d063a42e135fec1ad2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-fe53e626325c96d063a42e135fec1ad2]
+## SCHEDULE 3[^c-fe53e626325c96d063a42e135fec1ad2]
 
 Regulation 2(8)
 
-> **ection F — Monomers authorised until 1st January 1999[^key-fe53e626325c96d063a42e135fec1ad2]**
+> **ection F — Monomers authorised until 1st January 1999[^c-fe53e626325c96d063a42e135fec1ad2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4[^key-fe53e626325c96d063a42e135fec1ad2]
+## SCHEDULE 4[^c-fe53e626325c96d063a42e135fec1ad2]
 
 Regulation 2(9)
 
@@ -86,8 +86,8 @@ Regulation 2(9)
 
 **May not be in force at this date. Check the source.**
 
-[^key-fe53e626325c96d063a42e135fec1ad2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fe53e626325c96d063a42e135fec1ad2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fe53e626325c96d063a42e135fec1ad2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/580) revoked (14.9.1998) by [Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 1998 (S.R. 1998/264)](https://www.legislation.gov.uk/nisr/1998/264), [regs. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1), [14](https://www.legislation.gov.uk/nisr/1998/264/regulation/14)
+[^c-fe53e626325c96d063a42e135fec1ad2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/580) revoked (14.9.1998) by [Plastic Materials and Articles in Contact with Food Regulations (Northern Ireland) 1998 (S.R. 1998/264)](https://www.legislation.gov.uk/nisr/1998/264), [regs. 1](https://www.legislation.gov.uk/nisr/1998/264/regulation/1), [14](https://www.legislation.gov.uk/nisr/1998/264/regulation/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Duty to help named person[^key-60fd33fc3e644a5ac25185cc9c4fbc5d]
+## 25. Duty to help named person[^c-60fd33fc3e644a5ac25185cc9c4fbc5d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60fd33fc3e644a5ac25185cc9c4fbc5d]: Textual amendment: Pt. 4 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 32(a)](https://www.legislation.gov.uk/asp/2024/5/section/32/a), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/c)
+[^c-60fd33fc3e644a5ac25185cc9c4fbc5d]: Textual amendment: Pt. 4 repealed (5.5.2025) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 32(a)](https://www.legislation.gov.uk/asp/2024/5/section/32/a), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2025/115](https://www.legislation.gov.uk/ssi/2025/115), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/115/regulation/2/1/c)

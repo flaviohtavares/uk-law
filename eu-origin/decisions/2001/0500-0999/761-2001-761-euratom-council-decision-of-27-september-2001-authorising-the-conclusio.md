@@ -31,10 +31,10 @@ summary: ''
 
 of 27 September 2001 authorising the conclusion by the Commission of two Cooperation Agreements between the European Autonomic Energy Community and the Government of the Russian Federation in the fields of nuclear safety and controlled nuclear fusion (revoked)
 
-[^key-0743f440e8c0e26e2bb65dea7e829ab4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0743f440e8c0e26e2bb65dea7e829ab4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-0743f440e8c0e26e2bb65dea7e829ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-0743f440e8c0e26e2bb65dea7e829ab4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0743f440e8c0e26e2bb65dea7e829ab4]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-0743f440e8c0e26e2bb65dea7e829ab4]: Textual amendment: Decision revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

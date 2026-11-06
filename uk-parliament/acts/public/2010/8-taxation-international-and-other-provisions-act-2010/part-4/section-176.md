@@ -26,9 +26,9 @@ summary: ''
 
 (3) For the purposes of subsections (1) and (2), a calculation is to be taken to have been made in the case of the advantaged person on the basis that the arm's length provision was made or imposed instead of the actual provision if (and only if)—
 
-- (a) the calculations made for the purposes of any return by the advantaged person have been made on that basis because of this Part or Chapter 4 of Part 2 of CTA 2009[^key-ce13db63ba86253cd4cc03b34fc2a7c4], or
+- (a) the calculations made for the purposes of any return by the advantaged person have been made on that basis because of this Part or Chapter 4 of Part 2 of CTA 2009[^c-ce13db63ba86253cd4cc03b34fc2a7c4], or
 - (b) a relevant notice (see section 190) given to the advantaged person takes account of a determination in pursuance of this Part of an amount to be brought into account for tax purposes on that basis.
 
 ## Annotations
 
-[^key-ce13db63ba86253cd4cc03b34fc2a7c4]: Textual amendment: Words in [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/176/3/a) inserted (retrospectively) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 para. 19(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/19/2)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/19/3)
+[^c-ce13db63ba86253cd4cc03b34fc2a7c4]: Textual amendment: Words in [s. 176(3)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/176/3/a) inserted (retrospectively) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 para. 19(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/19/2)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/19/3)

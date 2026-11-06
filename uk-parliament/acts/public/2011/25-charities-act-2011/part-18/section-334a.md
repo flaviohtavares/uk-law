@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 334A. Status of certain trustees of charitable trusts[^key-9515f8824ca9243255b8e33fd986329a]
+## 334A. Status of certain trustees of charitable trusts[^c-9515f8824ca9243255b8e33fd986329a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9515f8824ca9243255b8e33fd986329a]: Textual amendment: [S. 334A](https://www.legislation.gov.uk/ukpga/2011/25/section/334A) and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/2)); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/7)
+[^c-9515f8824ca9243255b8e33fd986329a]: Textual amendment: [S. 334A](https://www.legislation.gov.uk/ukpga/2011/25/section/334A) and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/1), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4) (with [s. 32(2)](https://www.legislation.gov.uk/ukpga/2022/6/section/32/2)); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/7)

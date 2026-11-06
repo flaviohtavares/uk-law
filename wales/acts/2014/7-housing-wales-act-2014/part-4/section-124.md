@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. General power to give directions and take steps[^key-72414b981dcf3423d43a45117ad2a4ac]
+## 124. General power to give directions and take steps[^c-72414b981dcf3423d43a45117ad2a4ac]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72414b981dcf3423d43a45117ad2a4ac]: Commencement: [S. 124](https://www.legislation.gov.uk/anaw/2014/7/section/124) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)
+[^c-72414b981dcf3423d43a45117ad2a4ac]: Commencement: [S. 124](https://www.legislation.gov.uk/anaw/2014/7/section/124) in force at 1.12.2014 by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(a)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/a), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/1)

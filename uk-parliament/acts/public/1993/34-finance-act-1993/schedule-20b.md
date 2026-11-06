@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 20B — PRT: elections for oil fields to become non-taxable[^key-b2dcb8b9f4d9809e57a62ee47f8b2dc3][^key-e1a22d2a775f129a60e1e2ff2320a645]
+## SCHEDULE 20B — PRT: elections for oil fields to become non-taxable[^c-b2dcb8b9f4d9809e57a62ee47f8b2dc3][^c-e1a22d2a775f129a60e1e2ff2320a645]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (4) If the responsible person makes an election, the Commissioners may assume that each participator agrees to the election being made (unless it appears to the Commissioners that a participator does not agree).
 
-### Method of election[^key-be3b9660a6308b43e5ac3d42039f9446]
+### Method of election[^c-be3b9660a6308b43e5ac3d42039f9446]
 
 **2.** An election must be made in writing.
 
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b2dcb8b9f4d9809e57a62ee47f8b2dc3]: Textual amendment: Sch. 20B: Sch. 20A renumbered as Sch. 20B (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 3(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/3/1)
+[^c-b2dcb8b9f4d9809e57a62ee47f8b2dc3]: Textual amendment: Sch. 20B: Sch. 20A renumbered as Sch. 20B (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 45 para. 3(1)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/45/paragraph/3/1)
 
-[^key-e1a22d2a775f129a60e1e2ff2320a645]: Textual amendment: Sch. 20A inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), s. 107(6), [Sch. 33 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/33/paragraph/1)
+[^c-e1a22d2a775f129a60e1e2ff2320a645]: Textual amendment: Sch. 20A inserted (21.7.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), s. 107(6), [Sch. 33 para. 1](https://www.legislation.gov.uk/ukpga/2008/9/schedule/33/paragraph/1)
 
-[^key-be3b9660a6308b43e5ac3d42039f9446]: Textual amendment: Sch. 20B paras. 2-7 and cross-headings substituted for Sch. 20B paras. 2-12 (retrospective to 23.11.2016) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 44(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/4)
+[^c-be3b9660a6308b43e5ac3d42039f9446]: Textual amendment: Sch. 20B paras. 2-7 and cross-headings substituted for Sch. 20B paras. 2-12 (retrospective to 23.11.2016) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 44(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/1)[(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/44/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — STREETS TO BE TEMPORARILY STOPPED UP[^key-3f2f9db3d4f4cee13ff1808d42c7dab6]
+## SCHEDULE 2 — STREETS TO BE TEMPORARILY STOPPED UP[^c-3f2f9db3d4f4cee13ff1808d42c7dab6]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ Article 12
 
 ## Annotations
 
-[^key-3f2f9db3d4f4cee13ff1808d42c7dab6]: Commencement: Sch. 2 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-3f2f9db3d4f4cee13ff1808d42c7dab6]: Commencement: Sch. 2 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

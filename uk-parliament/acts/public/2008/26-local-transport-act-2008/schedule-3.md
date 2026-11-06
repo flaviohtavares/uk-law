@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Detention of certain PSVs used without PSV operators' licences[^c2199640][^key-3174e33377f8449b16c90ff5a060d143]
+## SCHEDULE 3 — Detention of certain PSVs used without PSV operators' licences[^c2199640][^c-3174e33377f8449b16c90ff5a060d143]
 
 *Extent: E+W+S*
 
@@ -272,4 +272,4 @@ The Schedule that is to be inserted as Schedule 2A to the PPVA 1981 is as follow
 
 [^c2199640]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/3) partly in force; [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/3) in force at Royal Assent for specified purposes, see [s. 134(1)(c)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/1/c)
 
-[^key-3174e33377f8449b16c90ff5a060d143]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/3) in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-3174e33377f8449b16c90ff5a060d143]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2008/26/schedule/3) in force at 9.2.2009 in so far as not already in force by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

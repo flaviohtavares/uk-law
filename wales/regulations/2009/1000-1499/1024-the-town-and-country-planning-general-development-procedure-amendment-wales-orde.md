@@ -47,13 +47,13 @@ Coming into force
 
 The Welsh Ministers make this Order in exercise of the powers conferred upon the Secretary of State by sections 59, 61(1), 62 and 69 of the Town and Country Planning Act 1990[^f00001] and which are now exercisable by the Welsh Ministers[^f00002].
 
-## 1. Title, commencement, interpretation and application[^key-ee99abdbf6bc8e1ce031f4ad9b73f14e]
+## 1. Title, commencement, interpretation and application[^c-ee99abdbf6bc8e1ce031f4ad9b73f14e]
 
 (1) The title of this Order is the Town and Country Planning (General Development Procedure) (Amendment) (Wales) Order 2009 and it comes into force on 1 June 2009.
 
 (2) This Order applies in relation to Wales.
 
-## 2. Amendment of the Town and Country Planning (General Development Procedure) Order 1995[^key-ed6874fb87210cfbfb1bbfaec9e1571f]
+## 2. Amendment of the Town and Country Planning (General Development Procedure) Order 1995[^c-ed6874fb87210cfbfb1bbfaec9e1571f]
 
 (1) The Town and Country Planning (General Development Procedure) Order 1995[^f00003] is amended as follows.
 
@@ -128,9 +128,9 @@ A regulatory impact assessment has been prepared and copies can be obtained from
 
 [^f00002]: Footnote: Functions under the relevant sections of the 1990 Act, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). *See* the entry for the 1990 Act in Schedule 1 to that Order, as substituted by article 4 of, and Schedule 3 to, the National Assembly for Wales (Transfer of Functions) Order 2000 ([S.I. 2000/253) (W.5)](https://www.legislation.gov.uk/wsi/2000/253) and amended by section 118(3) of the 2004 Act. By virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), those functions are now exercisable by the Welsh Ministers.
 
-[^key-ee99abdbf6bc8e1ce031f4ad9b73f14e]: Commencement: Art. 1 in force at 1.6.2009, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2009/1024/article/1/1)
+[^c-ee99abdbf6bc8e1ce031f4ad9b73f14e]: Commencement: Art. 1 in force at 1.6.2009, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2009/1024/article/1/1)
 
-[^key-ed6874fb87210cfbfb1bbfaec9e1571f]: Commencement: Art. 2 in force at 1.6.2009, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2009/1024/article/1/1)
+[^c-ed6874fb87210cfbfb1bbfaec9e1571f]: Commencement: Art. 2 in force at 1.6.2009, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2009/1024/article/1/1)
 
 [^f00003]: Footnote: [S.I. 1995/419](https://www.legislation.gov.uk/uksi/1995/419). Relevant amendments were made by [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971), [2004/3156 (W.273)](https://www.legislation.gov.uk/wsi/2004/3156) and [2006/3390 (W.310)](https://www.legislation.gov.uk/wsi/2006/3390).
 

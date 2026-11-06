@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Amendments to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008[^key-c9dc023c873e6c074ac1c25b125cb35e]
+## 65. Amendments to the Large and Medium-sized Companies and Groups (Accounts and Reports) Regulations 2008[^c-c9dc023c873e6c074ac1c25b125cb35e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Large and Medium-sized Companies Accounts Regulations are amended in accorda
 
 ## Annotations
 
-[^key-c9dc023c873e6c074ac1c25b125cb35e]: Commencement: Reg. 65 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-c9dc023c873e6c074ac1c25b125cb35e]: Commencement: Reg. 65 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

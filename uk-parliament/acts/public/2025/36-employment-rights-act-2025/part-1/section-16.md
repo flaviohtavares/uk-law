@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Paternity leave: removal of qualifying period of employment[^key-e8e4e88966a6bc077a5932d5880276ef][^key-329d800d171b300b5d9fe03a3c724b06][^key-5b0fabb3d1aa7db9818098f7dae0c0f6][^key-74a8711a1806cb27fa7ae726f3c5fc93]
+## 16. Paternity leave: removal of qualifying period of employment[^c-e8e4e88966a6bc077a5932d5880276ef][^c-329d800d171b300b5d9fe03a3c724b06][^c-5b0fabb3d1aa7db9818098f7dae0c0f6][^c-74a8711a1806cb27fa7ae726f3c5fc93]
 
 *Extent: E+W+S*
 
@@ -32,10 +32,10 @@ summary: ''
 
 ## Annotations
 
-[^key-e8e4e88966a6bc077a5932d5880276ef]: Commencement: S. 16 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-e8e4e88966a6bc077a5932d5880276ef]: Commencement: S. 16 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-329d800d171b300b5d9fe03a3c724b06]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/36/section/16) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/7)
+[^c-329d800d171b300b5d9fe03a3c724b06]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/36/section/16) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(7)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/7)
 
-[^key-5b0fabb3d1aa7db9818098f7dae0c0f6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/36/section/16) in force at 18.2.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/3) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/3/schedule/1))
+[^c-5b0fabb3d1aa7db9818098f7dae0c0f6]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/36/section/16) in force at 18.2.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 3(3)](https://www.legislation.gov.uk/uksi/2026/3/regulation/3/3) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/3/schedule/1))
 
-[^key-74a8711a1806cb27fa7ae726f3c5fc93]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/36/section/16) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 4(3)](https://www.legislation.gov.uk/uksi/2026/3/regulation/4/3) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/3/schedule/1))
+[^c-74a8711a1806cb27fa7ae726f3c5fc93]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2025/36/section/16) in force at 6.4.2026 in so far as not already in force by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 4(3)](https://www.legislation.gov.uk/uksi/2026/3/regulation/4/3) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2026/3/schedule/1))

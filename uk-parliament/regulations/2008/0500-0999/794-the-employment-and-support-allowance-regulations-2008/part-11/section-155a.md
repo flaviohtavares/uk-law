@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 155A. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges the evacuation of British nationals from that country or territory[^key-bf70f3f8f2f2225abb543b906a946d32]
+## 155A. Absence where His Majesty’s Government provides public information to advise British nationals to leave a country or territory or arranges the evacuation of British nationals from that country or territory[^c-bf70f3f8f2f2225abb543b906a946d32]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ A claimant is to continue to be entitled to an employment and support allowance 
 
 ## Annotations
 
-[^key-bf70f3f8f2f2225abb543b906a946d32]: Textual amendment: [Reg. 155A](https://www.legislation.gov.uk/uksi/2008/794/regulation/155A) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2025/884/regulation/9/3)
+[^c-bf70f3f8f2f2225abb543b906a946d32]: Textual amendment: [Reg. 155A](https://www.legislation.gov.uk/uksi/2008/794/regulation/155A) inserted (18.7.2025) by [The Social Security (Habitual Residence, Past Presence and Temporary Absence) (Amendment) Regulations 2025 (S.I. 2025/884)](https://www.legislation.gov.uk/uksi/2025/884), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/884/regulation/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2025/884/regulation/9/3)

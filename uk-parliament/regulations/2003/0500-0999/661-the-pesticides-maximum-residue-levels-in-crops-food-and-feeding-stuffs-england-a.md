@@ -33,7 +33,7 @@ AGRICULTURE, ENGLAND AND WALES
 
 PESTICIDES, ENGLAND AND WALES
 
-The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) Regulations 2003 (revoked)[^key-2b7bfbfe56c1da6075a2fe8462768987]
+The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) (Amendment) Regulations 2003 (revoked)[^c-2b7bfbfe56c1da6075a2fe8462768987]
 
 Made
 
@@ -47,23 +47,23 @@ Coming into force
 
 31st March 2003
 
-[^key-2b7bfbfe56c1da6075a2fe8462768987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b7bfbfe56c1da6075a2fe8462768987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-2b7bfbfe56c1da6075a2fe8462768987]
+## 1. Title, commencement and extent[^c-2b7bfbfe56c1da6075a2fe8462768987]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 1999[^key-2b7bfbfe56c1da6075a2fe8462768987]
+## 2. Amendment to the Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 1999[^c-2b7bfbfe56c1da6075a2fe8462768987]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2b7bfbfe56c1da6075a2fe8462768987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b7bfbfe56c1da6075a2fe8462768987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-2b7bfbfe56c1da6075a2fe8462768987]
+## SCHEDULE[^c-2b7bfbfe56c1da6075a2fe8462768987]
 
 Regulation 2(6)
 
@@ -71,8 +71,8 @@ Regulation 2(6)
 
 **May not be in force at this date. Check the source.**
 
-[^key-2b7bfbfe56c1da6075a2fe8462768987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2b7bfbfe56c1da6075a2fe8462768987]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2b7bfbfe56c1da6075a2fe8462768987]: Textual amendment: Regulations revoked (22.12.2005) by [The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3286/schedule/4)
+[^c-2b7bfbfe56c1da6075a2fe8462768987]: Textual amendment: Regulations revoked (22.12.2005) by [The Pesticides (Maximum Residue Levels in Crops, Food and Feeding Stuffs) (England and Wales) Regulations 2005 (S.I. 2005/3286)](https://www.legislation.gov.uk/uksi/2005/3286), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3286/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2005/3286/schedule/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Irritancy of lease and good husbandry[^key-49da386f8ef4be067576ca701d307e09]
+## 18. Irritancy of lease and good husbandry[^c-49da386f8ef4be067576ca701d307e09]
 
 *Extent: S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Any term of such a lease or of an agreement in connection with the lease that provides for the lease to be irritated solely on the grounds that the tenant is not or has not been resident on the land is of no effect.
 
-(2A)[^key-27a886eeb6acde7e81ad42bf64b1731d] Where such a lease may be irritated on the grounds that the rent is due and unpaid, notice as mentioned in subsection (7) may not be given unless—
+(2A)[^c-27a886eeb6acde7e81ad42bf64b1731d] Where such a lease may be irritated on the grounds that the rent is due and unpaid, notice as mentioned in subsection (7) may not be given unless—
 
 - (a) the landlord has given the tenant a demand in writing requiring the tenant to pay the rent due before the expiry of the period of 2 months beginning with the date of the demand, and
 - (b) the demand has not been complied with.
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49da386f8ef4be067576ca701d307e09]: Commencement: S. 18 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-49da386f8ef4be067576ca701d307e09]: Commencement: S. 18 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
 
-[^key-27a886eeb6acde7e81ad42bf64b1731d]: Textual amendment: S. 18(2A) inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 123(2)](https://www.legislation.gov.uk/asp/2016/18/section/123/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 13](https://www.legislation.gov.uk/ssi/2016/365/regulation/13))
+[^c-27a886eeb6acde7e81ad42bf64b1731d]: Textual amendment: S. 18(2A) inserted (23.12.2016) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 123(2)](https://www.legislation.gov.uk/asp/2016/18/section/123/2), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [reg. 13](https://www.legislation.gov.uk/ssi/2016/365/regulation/13))

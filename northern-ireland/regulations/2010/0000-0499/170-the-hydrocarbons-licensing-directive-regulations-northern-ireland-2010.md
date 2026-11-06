@@ -44,13 +44,13 @@ The Department of Enterprise, Trade and Investment[^f00001] is a Department desi
 
 The Department makes the following Regulations in exercise of the powers conferred by that section.
 
-## 1. Commencement, citation and application[^key-619cc99654b96d3683482f447f59f34e]
+## 1. Commencement, citation and application[^c-619cc99654b96d3683482f447f59f34e]
 
 (1) These Regulations may be cited as the Hydrocarbons Licensing Directive Regulations (Northern Ireland) 2010 and shall come into operation on 28th May 2010.
 
 (2) These Regulations do not apply in relation to any area within the territorial sea adjacent to Northern Ireland.
 
-## 2. Interpretation[^key-8011a8ec26f0062b7201fc6cee84afc8]
+## 2. Interpretation[^c-8011a8ec26f0062b7201fc6cee84afc8]
 
 (1) In these Regulations—
 
@@ -58,22 +58,22 @@ The Department makes the following Regulations in exercise of the powers conferr
 - “the 1987 Regulations” means the Petroleum Production Regulations (Northern Ireland) 1987[^f00005];
 - “applicant” means an entity which has made an application for a licence;
 - “application for a licence” means an application made under the 1987 Regulations;
-- [^key-6926c39575796443ad43afee8d0cad5c]...
+- [^c-6926c39575796443ad43afee8d0cad5c]...
 - “the Department” means the Department of Enterprise, Trade and Investment;
 - “entity” means any person or any group of persons;
 - “former licence” means a licence granted under section 2(1) of the 1964 Act on or after the 1st July 1995, but before the date these Regulations come into operation, and “former licensee” and “former licensed area” shall be construed accordingly;
 - “licence” means a licence granted following an application for a licence;
 - “notice” means notice in writing;
-- [^key-b6b5514abcacf8ed01b3920277873601]...
+- [^c-b6b5514abcacf8ed01b3920277873601]...
 - “the Treaty on the Functioning of the European Union” means the Treaty establishing (what was then called) the European Economic Community, signed at Rome on 25th March 1957, as last amended and renamed by the Treaty of Lisbon amending the Treaty on European Union and the Treaty establishing the European Community, signed at Lisbon on 13th December 2007[^f00006].
 
 (2) For the purposes of these Regulations and the 1987 Regulations an application for a licence is made on the day on which it is received by the Department.
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00007] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Applications for licences[^key-f149e649d6ac00a5a6111e08cbb6a0c4]
+## 3. Applications for licences[^c-f149e649d6ac00a5a6111e08cbb6a0c4]
 
-(1) Subject to paragraph (6), every application for a licence shall relate to an area described in a notice published in the Belfast Gazette and on a public website[^key-6249acf237e19f2eb951cf3284abd33f] .
+(1) Subject to paragraph (6), every application for a licence shall relate to an area described in a notice published in the Belfast Gazette and on a public website[^c-6249acf237e19f2eb951cf3284abd33f] .
 
 (2) The notice referred to in paragraph (1) shall—
 
@@ -88,7 +88,7 @@ The Department makes the following Regulations in exercise of the powers conferr
 
 (6) Where the Department decides that geological or production considerations justify the granting of a licence in respect of any area to the holder of a licence in respect of a contiguous area, and notifies that holder and any other holders of licences in respect of areas contiguous to the area in question accordingly, any of them may apply for a licence in respect of the area in question within such period as the Department considers sufficient for this purpose and specifies in the notification.
 
-## 4. Determination of applications[^key-496818123a0b3b8550d01f0244f20bad]
+## 4. Determination of applications[^c-496818123a0b3b8550d01f0244f20bad]
 
 (1) Subject to paragraphs (3) to (5), every application for a licence shall be determined on the basis of criteria concerning—
 
@@ -105,20 +105,20 @@ and the Department may refuse an application for a licence.
 
 (4) Subject to paragraph (5), the Department shall not apply any of the criteria in paragraphs (1) and (3) in a discriminatory manner.
 
-(5) An application for a licence may be refused on grounds of national security [^key-6bc3a812b999412eb339e729b302a7d2]....
+(5) An application for a licence may be refused on grounds of national security [^c-6bc3a812b999412eb339e729b302a7d2]....
 
 (6) Where an application for a licence is refused, the reasons for the decision shall be notified in writing to the applicant on request.
 
-## 5. Advance notice of criteria[^key-d069e05ffa9a41086d42e5a327685147]
+## 5. Advance notice of criteria[^c-d069e05ffa9a41086d42e5a327685147]
 
 Any notice which, in accordance with regulation 3—
 
 - (a) describes the area in respect of which applications for licences may be made; and
-- (b) is published in the Belfast Gazette and on a public website[^key-fbb7e6f1c34f6d37fcce5431d5b4118b] ,
+- (b) is published in the Belfast Gazette and on a public website[^c-fbb7e6f1c34f6d37fcce5431d5b4118b] ,
 
 shall set out the criteria to be applied in determining those applications.
 
-## 6. Scope and application of terms and conditions[^key-788b6a3dea86b2691e74e8ed537d710f]
+## 6. Scope and application of terms and conditions[^c-788b6a3dea86b2691e74e8ed537d710f]
 
 (1) No licence shall be granted upon terms and conditions other than such terms and conditions as are justified exclusively for the purpose of—
 
@@ -140,17 +140,17 @@ shall set out the criteria to be applied in determining those applications.
 
 (3) The terms and conditions provided for in paragraphs (1) and (2) shall be applied in a non-discriminatory manner.
 
-## 7. Availability of terms and conditions[^key-b719df747de0269fef1bafb9c465dfab]
+## 7. Availability of terms and conditions[^c-b719df747de0269fef1bafb9c465dfab]
 
 (1) In any case where applications for licences may be made in accordance with regulation 3 and the 1987 Regulations and the Department intends that a licence should be granted upon terms or conditions which differ from or are additional to those prescribed in the 1987 Regulations for incorporation in licences, a statement of such terms and conditions shall be made available to any interested entity at any time on request.
 
 (2) If any change to the terms and conditions included in the statement provided for in paragraph (1) is decided upon after the statement is first made available and before the licence to which it relates is granted, the change shall be notified in writing as soon as practicable to every entity which has requested the statement.
 
-## 8. Extent of area granted by licence[^key-0631fedf480ceb81eb56f3e5cc957c8e]
+## 8. Extent of area granted by licence[^c-0631fedf480ceb81eb56f3e5cc957c8e]
 
 The Department shall ensure that the extent of each area granted by a licence is determined in such a way that it does not exceed the area justified by the best possible exercise of the activities authorised by the licence from the technical and economic points of view.
 
-## 9. Duration of the licence[^key-b1a28a8791da849ba167025dfed0c4fa]
+## 9. Duration of the licence[^c-b1a28a8791da849ba167025dfed0c4fa]
 
 (1) Subject to paragraph (2), the Department shall ensure that—
 
@@ -163,13 +163,13 @@ The Department shall ensure that the extent of each area granted by a licence is
 - (b) the licensee has performed its obligations in accordance with the terms and conditions of the licence; and
 - (c) the term of the licence has proved, or is likely to prove, insufficient for the licensee to complete the activities authorised by the licence.
 
-## 10. Information[^key-77340eee2509111fd68db8bfdfa77e8a]
+## 10. Information[^c-77340eee2509111fd68db8bfdfa77e8a]
 
 (1) The Department may only require an entity which has been granted a licence to provide information on its intended or actual sources of procurement of supplies, works or services if that request is made exclusively with a view to the objectives set out in Article 36 of the Treaty on the Functioning of the European Union[^f00008].
 
 (2) The Department may only request information from an entity which has been granted a licence to monitor the activities of that entity if that monitoring is justified by any of the matters referred to in regulation 6(1) and (2).
 
-## 11. Amendment of the 1964 Act[^key-328b9900a65101018a8bdba41cc45c0a]
+## 11. Amendment of the 1964 Act[^c-328b9900a65101018a8bdba41cc45c0a]
 
 In section 1 of the 1964 Act for subsection (4) substitute—
 
@@ -177,7 +177,7 @@ In section 1 of the 1964 Act for subsection (4) substitute—
 
 .
 
-## 12. Revocation of former licences[^key-8c670408686f76fabc43cbb88bffb843]
+## 12. Revocation of former licences[^c-8c670408686f76fabc43cbb88bffb843]
 
 (1) Any former licence which is in force immediately before the coming into operation of these Regulations and any right under any former licence, including any right to renewal (whether or not such right is exercisable or has been exercised before the coming into operation of these Regulations), are revoked.
 
@@ -187,7 +187,7 @@ In section 1 of the 1964 Act for subsection (4) substitute—
 - “right” means any right claimed by any person to be derived from a former licence;
 - “revoked” means declared to be without legal effect pursuant to section 2(1) of the European Communities Act 1972 and deprived of any legal effect which any licence or right referred to in that paragraph might have notwithstanding the effects of the aforesaid section 2(1).
 
-## 13. Applications in relation to former licensed areas[^key-c30b3da4cfba9fe67593e93c14b98694]
+## 13. Applications in relation to former licensed areas[^c-c30b3da4cfba9fe67593e93c14b98694]
 
 (1) This regulation applies where—
 
@@ -210,7 +210,7 @@ In section 1 of the 1964 Act for subsection (4) substitute—
 
 (7) In paragraph (6) “information” means any information in whatever form of a geological, scientific or technical kind.
 
-**14.**[^key-4e51c7b6f9c93903466fa2f5381f6743] (1) Notwithstanding anything in the terms and conditions of the former licence, the Department shall disclose to each applicant (other than the former licensee) all information (whether of a general or specific nature) relating to the activities carried on by the former licensee in the former licensed area for the purpose only of enabling the applicant to revise its application for a licence or any report, work programme or other document required under the 1987 Regulations in connection with such application.
+**14.**[^c-4e51c7b6f9c93903466fa2f5381f6743] (1) Notwithstanding anything in the terms and conditions of the former licence, the Department shall disclose to each applicant (other than the former licensee) all information (whether of a general or specific nature) relating to the activities carried on by the former licensee in the former licensed area for the purpose only of enabling the applicant to revise its application for a licence or any report, work programme or other document required under the 1987 Regulations in connection with such application.
 
 (2) The disclosure of information by the Department under paragraph (1) shall be subject to the following conditions—
 
@@ -299,52 +299,52 @@ A copy of the Transposition Note in relation to the implementation of the Direct
 
 [^f00003]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-619cc99654b96d3683482f447f59f34e]: Commencement: Reg. 1 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-619cc99654b96d3683482f447f59f34e]: Commencement: Reg. 1 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-8011a8ec26f0062b7201fc6cee84afc8]: Commencement: Reg. 2 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-8011a8ec26f0062b7201fc6cee84afc8]: Commencement: Reg. 2 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
 [^f00004]: Footnote: [1964 c.28 (N.I.)](https://www.legislation.gov.uk/apni/1964/28)
 
 [^f00005]: Footnote: [S.R. 1987 No. 196](https://www.legislation.gov.uk/nisr/1987/196), as amended by [S.R. 2010 No. 169](https://www.legislation.gov.uk/nisr/2010/169)
 
-[^key-6926c39575796443ad43afee8d0cad5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/2/1) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6926c39575796443ad43afee8d0cad5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/2/1) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(2)(b)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b6b5514abcacf8ed01b3920277873601]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/2/1) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6b5514abcacf8ed01b3920277873601]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/2/1) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(2)(a)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00006]: Footnote: A consolidated version of the Treaty on the Functioning of the European Union can be found in O.J. No. C115, 9.5.2008
 
 [^f00007]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f149e649d6ac00a5a6111e08cbb6a0c4]: Commencement: Reg. 3 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-f149e649d6ac00a5a6111e08cbb6a0c4]: Commencement: Reg. 3 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-6249acf237e19f2eb951cf3284abd33f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2010/170/regulation/3) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6249acf237e19f2eb951cf3284abd33f]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2010/170/regulation/3) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(3)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-496818123a0b3b8550d01f0244f20bad]: Commencement: Reg. 4 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-496818123a0b3b8550d01f0244f20bad]: Commencement: Reg. 4 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-6bc3a812b999412eb339e729b302a7d2]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/nisr/2010/170/regulation/4/5) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6bc3a812b999412eb339e729b302a7d2]: Textual amendment: Words in [reg. 4(5)](https://www.legislation.gov.uk/nisr/2010/170/regulation/4/5) omitted (31.12.2020) by virtue of [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(4)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d069e05ffa9a41086d42e5a327685147]: Commencement: Reg. 5 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-d069e05ffa9a41086d42e5a327685147]: Commencement: Reg. 5 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-fbb7e6f1c34f6d37fcce5431d5b4118b]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/nisr/2010/170/regulation/5/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbb7e6f1c34f6d37fcce5431d5b4118b]: Textual amendment: Words in [reg. 5(b)](https://www.legislation.gov.uk/nisr/2010/170/regulation/5/b) substituted (31.12.2020) by [The Pipe-lines, Petroleum, Electricity Works and Oil Stocking (Miscellaneous Amendments) (EU Exit) Regulations 2018 (S.I. 2018/1325)](https://www.legislation.gov.uk/uksi/2018/1325), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/1/1), [6(5)](https://www.legislation.gov.uk/uksi/2018/1325/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-788b6a3dea86b2691e74e8ed537d710f]: Commencement: Reg. 6 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-788b6a3dea86b2691e74e8ed537d710f]: Commencement: Reg. 6 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-b719df747de0269fef1bafb9c465dfab]: Commencement: Reg. 7 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-b719df747de0269fef1bafb9c465dfab]: Commencement: Reg. 7 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-0631fedf480ceb81eb56f3e5cc957c8e]: Commencement: Reg. 8 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-0631fedf480ceb81eb56f3e5cc957c8e]: Commencement: Reg. 8 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-b1a28a8791da849ba167025dfed0c4fa]: Commencement: Reg. 9 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-b1a28a8791da849ba167025dfed0c4fa]: Commencement: Reg. 9 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-77340eee2509111fd68db8bfdfa77e8a]: Commencement: Reg. 10 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-77340eee2509111fd68db8bfdfa77e8a]: Commencement: Reg. 10 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
 [^f00008]: Footnote: Formerly Article 30 of the E.C. Treaty
 
-[^key-328b9900a65101018a8bdba41cc45c0a]: Commencement: Reg. 11 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-328b9900a65101018a8bdba41cc45c0a]: Commencement: Reg. 11 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-8c670408686f76fabc43cbb88bffb843]: Commencement: Reg. 12 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-8c670408686f76fabc43cbb88bffb843]: Commencement: Reg. 12 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-c30b3da4cfba9fe67593e93c14b98694]: Commencement: Reg. 13 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-c30b3da4cfba9fe67593e93c14b98694]: Commencement: Reg. 13 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
-[^key-4e51c7b6f9c93903466fa2f5381f6743]: Commencement: Reg. 14 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
+[^c-4e51c7b6f9c93903466fa2f5381f6743]: Commencement: Reg. 14 in operation at 28.5.2010, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/170/regulation/1/1)
 
 [^f00009]: Footnote: [1998 c.20](https://www.legislation.gov.uk/ukpga/1998/20)

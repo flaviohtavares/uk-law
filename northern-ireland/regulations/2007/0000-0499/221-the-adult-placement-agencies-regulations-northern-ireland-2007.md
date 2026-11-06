@@ -45,11 +45,11 @@ In accordance with Article 23 (8) it has consulted with such persons as appropri
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-827afc982d47797f35b2cf4b968b74e7]
+### 1. Citation and commencement[^c-827afc982d47797f35b2cf4b968b74e7]
 
 These Regulations may be cited as the Adult Placement Agencies Regulations (Northern Ireland) 2007 and shall come into operation on 30th April 2007.
 
-### 2. Interpretation[^key-84f0d69e709f397ee995f2456a303452]
+### 2. Interpretation[^c-84f0d69e709f397ee995f2456a303452]
 
 In these Regulations—
 
@@ -64,11 +64,11 @@ In these Regulations—
 - “agency” means an adult placement agency carried on by a registered provider;
 - “agency premises” means premises where the management of the agency is carried on;
 - “approval panel” means the panel appointed by an adult placement agency for the purpose of approving applications to the agency from prospective carers;
-- “[^key-33d51195051fc66815533ba53cdb6cb2]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
+- “[^c-33d51195051fc66815533ba53cdb6cb2]**bankruptcy restrictions order**” means an order made under Schedule 2A to the Insolvency (Northern Ireland) Order 1989 or Schedule 4A to the Insolvency Act 1986;
 - “Board” means a Health and Social Services Board;
 - “carer agreement” shall be construed in accordance with regulation 16;
 - “complaints procedure” shall be construed in accordance with regulation 22;
-- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^key-70f2ee8d155760c4b4eef72576348372]
+- “debt relief order” means an order made by the Official Receiver under Part 7A of the Insolvency (Northern Ireland) Order 1989, or Part 7A of the Insolvency Act 1986;[^c-70f2ee8d155760c4b4eef72576348372]
 - “debt relief restrictions order” means an order made under Schedule 2ZB to the Insolvency (Northern Ireland) Order 1989, or Schedule 4ZB to the Insolvency Act 1986;
 - “home”, where a person has more than one home, means the home where the person ordinarily resides;
 - “the Order” means the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003;
@@ -95,7 +95,7 @@ In these Regulations—
 - “vulnerable adult” has the same meaning as in the Protection of Children and Vulnerable Adults (Northern Ireland) Order 2003[^f00004];
 - “work” includes work of any kind, whether paid or unpaid, and whether under a contract or apprenticeship, under a contract for services, or otherwise than under a contract.
 
-### 3. Statement of purpose[^key-388a306dde8062683c1814704e1937b8]
+### 3. Statement of purpose[^c-388a306dde8062683c1814704e1937b8]
 
 (1) The registered provider shall compile in relation to the adult placement agency a written statement (in these Regulations referred to as the “statement of purpose”) which shall consist of a statement as to the matters listed in Schedule 1.
 
@@ -106,7 +106,7 @@ In these Regulations—
 - (a) any other provision of these Regulations; or
 - (b) the conditions for the time being in force in relation to the registration of the registered provider under Part III of the Order.
 
-### 4. Service user’s guide[^key-efb2d47c6e63cd2e5cff8d17c5df923d]
+### 4. Service user’s guide[^c-efb2d47c6e63cd2e5cff8d17c5df923d]
 
 (1) The registered person shall produce a written guide to the agency (in these Regulations referred to as the “service user’s guide”) which shall include—
 
@@ -125,20 +125,20 @@ In these Regulations—
 
 (3) The registered provider shall provide on request access to a copy of the most recent inspection report and information on how to access earlier inspection reports.
 
-### 5. Review of statement of purpose and service user’s guide[^key-0d5e3f7415d8e70ceebe0b3728896605]
+### 5. Review of statement of purpose and service user’s guide[^c-0d5e3f7415d8e70ceebe0b3728896605]
 
 The registered person shall—
 
 - (a) keep under review and, where appropriate, revise the statement of purpose and the content of the service user’s guide; and
 - (b) notify the Regulation and Improvement Authority and service users of any such revision within 28 days.
 
-### 6. Agency documents[^key-ddebf5d94bde7a07b9176a51190e8322]
+### 6. Agency documents[^c-ddebf5d94bde7a07b9176a51190e8322]
 
 The registered provider shall ensure that there is a statement that he is registered in respect of the agency under Part III of the Order in all correspondence and other documents prepared in connection with the agency’s business.
 
 ## PART II — REGISTERED PERSONS
 
-### 7. Fitness of registered provider[^key-73636293e9afe1039a7ff884d3c9f366]
+### 7. Fitness of registered provider[^c-73636293e9afe1039a7ff884d3c9f366]
 
 (1) A person shall not carry on an agency unless he is fit to do so.
 
@@ -161,11 +161,11 @@ The registered provider shall ensure that there is a statement that he is regist
 (4) A person shall not carry on an agency if—
 
 - (a) he has been adjudged bankrupt or sequestration of his estate has been awarded and (in either case) he has not been discharged and the bankruptcy order has not been annulled or rescinded; or
-- (ab)[^key-7c65e24f531ccd8500d3c5fd8c158cab] he is the subject of a bankruptcy restrictions order; or
-- (ac)[^key-4932922dc39d095925904584cd47223a] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
+- (ab)[^c-7c65e24f531ccd8500d3c5fd8c158cab] he is the subject of a bankruptcy restrictions order; or
+- (ac)[^c-4932922dc39d095925904584cd47223a] he is a person in relation to whom a moratorium period under a debt relief order applies or he is the subject of a debt relief restrictions order ; or
 - (b) he has made a composition or arrangement with his creditors and has not been discharged in respect of it.
 
-### 8. Appointment of manager[^key-292f6e560290580b25e7c305683d3289]
+### 8. Appointment of manager[^c-292f6e560290580b25e7c305683d3289]
 
 (1) The registered provider shall appoint an individual to manage the agency where—
 
@@ -180,7 +180,7 @@ The registered provider shall ensure that there is a statement that he is regist
 - (a) the name of the person so appointed; and
 - (b) the date on which the appointment is to take effect.
 
-### 9. Fitness of registered manager[^key-a971e06fd4c099312e36716a8b2a6fcb]
+### 9. Fitness of registered manager[^c-a971e06fd4c099312e36716a8b2a6fcb]
 
 (1) A person shall not manage an agency unless he is fit to do so.
 
@@ -192,7 +192,7 @@ The registered provider shall ensure that there is a statement that he is regist
   - (ii) he is physically and mentally fit to do so; and
 - (c) full and satisfactory information is available in relation to him in respect of the matters specified in Schedule 2.
 
-### 10. Registered person — general requirements and training[^key-79925171cd6041d9f38a2eedc1a5b7d4]
+### 10. Registered person — general requirements and training[^c-79925171cd6041d9f38a2eedc1a5b7d4]
 
 (1) The registered provider and the registered manager shall, having regard to the size of the agency, its statement of purpose and the number and needs of service users and adult placement carers, carry on or manage the agency (as the case may be) with sufficient care, competence and skill.
 
@@ -206,7 +206,7 @@ from time to time such training as is appropriate to ensure that he has the expe
 
 (3) The registered manager shall undertake from time to time such training as is appropriate to ensure that he has the experience and skills necessary for managing the agency.
 
-### 11. Registered person — notification of offences[^key-9dbee0962667de0f9f661bc00f4c55bf]
+### 11. Registered person — notification of offences[^c-9dbee0962667de0f9f661bc00f4c55bf]
 
 Where the registered person or the responsible individual is convicted of any criminal offence, whether in Northern Ireland or elsewhere, he shall forthwith give notice in writing to the Regulation and Improvement Authority of—
 
@@ -216,7 +216,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 ## PART III — ADULT PLACEMENTS AND ADULT PLACEMENT CARERS MAKING, MONITORING AND TERMINATION OF PLACEMENTS
 
-### 12. Making of placements, placement agreements and limitation of placements[^key-5ba64057d4cd7b3405796ed22f51abad]
+### 12. Making of placements, placement agreements and limitation of placements[^c-5ba64057d4cd7b3405796ed22f51abad]
 
 (1) The registered provider shall not make a placement of a service user with an adult placement carer unless the provider has entered into a written placement agreement with the carer (in these Regulations referred to as “a placement agreement”) which complies with the conditions specified in paragraph (2).
 
@@ -252,7 +252,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 (5) The registered person shall not place any service user in premises in which there is any person living there who is unfit to be in the proximity of the service user.
 
-### 13. Monitoring and review of placements[^key-f9085709b91b87631d6206a366e196e2]
+### 13. Monitoring and review of placements[^c-f9085709b91b87631d6206a366e196e2]
 
 (1) The registered person shall monitor a placement for the purpose of considering whether the adult placement carer is meeting his obligations under the placement agreement.
 
@@ -264,7 +264,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 (3) In monitoring and reviewing a placement, the registered person shall seek the views of the service user or, where appropriate, the service user’s representative and the placing authority (if any).
 
-### 14. Termination of placements[^key-3772f5bc8b198ca989c9bed8bdd93d33]
+### 14. Termination of placements[^c-3772f5bc8b198ca989c9bed8bdd93d33]
 
 (1) Without prejudice to regulation 15(2) (Fitness of adult placement carers), the registered provider shall terminate a placement in any case in which the adult placement carer is not complying, or is not reasonably likely to comply, with his obligations under the placement agreement.
 
@@ -275,7 +275,7 @@ Where the registered person or the responsible individual is convicted of any cr
 
 ## ADULT PLACEMENT CARERS
 
-### 15. Fitness of adult placement carers[^key-c7179d9da257129daeb38f78956fdca9]
+### 15. Fitness of adult placement carers[^c-c7179d9da257129daeb38f78956fdca9]
 
 (1) The registered provider shall not enter into a carer agreement with an adult placement carer unless the carer is fit to be an adult placement carer.
 
@@ -288,7 +288,7 @@ Where the registered person or the responsible individual is convicted of any cr
 - (c) he has the skills, competence and experience necessary to meet his obligations under the agreement;
 - (d) full and satisfactory information is available in relation to him in respect of the matters specified in Schedule 3;
 
-### 16. Carer agreements[^key-b3f0e724dbef33a52a75ce118651ad64]
+### 16. Carer agreements[^c-b3f0e724dbef33a52a75ce118651ad64]
 
 (1) The registered provider shall enter into a written agreement with an adult placement carer (in these Regulations referred to as “the carer agreement”) which complies with the conditions specified in paragraph (2).
 
@@ -317,11 +317,11 @@ Where the registered person or the responsible individual is convicted of any cr
 - (h) any allegation of misconduct by a service user or his representative in relation to the adult placement carer or a member of his family;
 - (i) any unexplained absence of more than 12 hours of a service user from the adult placement carer’s home.
 
-### 17. Adult placement carers — training[^key-b3a2fb1ac06e0c2aefc41f30c997fc07]
+### 17. Adult placement carers — training[^c-b3a2fb1ac06e0c2aefc41f30c997fc07]
 
 The registered person shall make arrangements to ensure that an adult placement carer receives appropriate training so as to assist such a carer to continue to meet his obligations under the carer agreement.
 
-### 18. Adult placement carer handbook[^key-e4441ea6ec07f9ae45b4fe75172f26c3]
+### 18. Adult placement carer handbook[^c-e4441ea6ec07f9ae45b4fe75172f26c3]
 
 (1) The registered person shall prepare an adult placement carer handbook and provide a copy of it to every adult placement carer providing, or intending to provide, a placement.
 
@@ -346,7 +346,7 @@ The registered person shall make arrangements to ensure that an adult placement 
 
 ## SERVICE USER'S PLAN
 
-### 19. Service user’s plan[^key-4d55cdf520781ebdef3a41f4d9105f8a]
+### 19. Service user’s plan[^c-4d55cdf520781ebdef3a41f4d9105f8a]
 
 (1) Subject to paragraph (2), the registered person shall not make a placement of a service user unless—
 
@@ -366,7 +366,7 @@ The registered person shall make arrangements to ensure that an adult placement 
 
 ## PART IV — CONDUCT OF ADULT PLACEMENT AGENCIES OPERATION OF ADULT PLACEMENT AGENCY
 
-### 20. General conduct of adult placement agency[^key-5cd7df065338b1f94f0932bb5f231182]
+### 20. General conduct of adult placement agency[^c-5cd7df065338b1f94f0932bb5f231182]
 
 (1) The registered person shall make suitable arrangements to ensure that the agency is conducted, and that care or support (including any accommodation) is provided—
 
@@ -386,7 +386,7 @@ The registered person shall make arrangements to ensure that an adult placement 
 
 (3) The registered person shall make appropriate arrangements to ensure that the views of service users and adult placement carers are taken into account in the conduct of the agency.
 
-### 21. Records[^key-c69ed439a7b449e14ed2599b786f138f]
+### 21. Records[^c-c69ed439a7b449e14ed2599b786f138f]
 
 (1) The registered person shall—
 
@@ -405,7 +405,7 @@ The registered person shall make arrangements to ensure that an adult placement 
 
 (5) The registered person shall ensure that information relating to a service user’s care or welfare is treated confidentially and is only disclosed to those persons who need to be aware of that information in order to treat the service user effectively or minimise any risk of the service user harming himself or another person, or for the purpose of the proper administration of the agency.
 
-### 22. Complaints[^key-ffd08aa7c719585b2c691f97c561a3bf]
+### 22. Complaints[^c-ffd08aa7c719585b2c691f97c561a3bf]
 
 (1) The registered person shall establish a procedure (“the complaints procedure”) for considering complaints made to the registered person by an adult placement carer, a service user or his representative.
 
@@ -426,7 +426,7 @@ The registered person shall make arrangements to ensure that an adult placement 
 
 (8) The registered person shall supply to the Regulation and Improvement Authority at its request a statement containing a summary of the complaints made during the preceding twelve months and of the action that was taken in response to each complaint.
 
-### 23. Review of quality of services[^key-799f7061f034c55c7254c4b1e971ab57]
+### 23. Review of quality of services[^c-799f7061f034c55c7254c4b1e971ab57]
 
 (1) The registered person shall establish and maintain a system for evaluating the quality of the services which are provided by the adult placement agency.
 
@@ -444,7 +444,7 @@ The registered person shall make arrangements to ensure that an adult placement 
 
 (5) The system referred to in paragraph (1) shall provide for consultation with service users and their representatives.
 
-### 24. Improvement plan[^key-6904cc0c999d84d03076497f5c6c0f2c]
+### 24. Improvement plan[^c-6904cc0c999d84d03076497f5c6c0f2c]
 
 (1) If requested to do so by the Regulation and Improvement Authority, the registered person shall produce a plan (the improvement plan) setting out the methods by which, and the timetable to which, the registered person intends to improve the services which are provided by the adult placement agency.
 
@@ -455,7 +455,7 @@ The registered person shall make arrangements to ensure that an adult placement 
 - (a) the adult placement agency’s adult placement carers; and
 - (b) service users and their representatives.
 
-### 25. Visits by registered provider[^key-b89e9ebce4aa01b66fe966d1d13a8e74]
+### 25. Visits by registered provider[^c-b89e9ebce4aa01b66fe966d1d13a8e74]
 
 (1) Where the registered provider is an individual who does not manage the agency, he shall visit the principal office of the agency in accordance with this regulation.
 
@@ -485,7 +485,7 @@ The registered person shall make arrangements to ensure that an adult placement 
   - (i) where the registered provider is an organisation, to each of the directors or other persons responsible for the management of the organisation; and
   - (ii) where the registered provider is a partnership, to each of the partners.
 
-### 26. Staff views as to conduct of agency[^key-95441804ad920e9378203f4e8597f640]
+### 26. Staff views as to conduct of agency[^c-95441804ad920e9378203f4e8597f640]
 
 (1) This regulation applies to any matter relating to the conduct of the agency so far as it may affect the care, welfare or safety of service users.
 
@@ -493,13 +493,13 @@ The registered person shall make arrangements to ensure that an adult placement 
 
 ## PREMISES
 
-### 27. Fitness of premises[^key-d7f6569772c97002882a89ef1fe31f9f]
+### 27. Fitness of premises[^c-d7f6569772c97002882a89ef1fe31f9f]
 
 Subject to regulation 3(3), the registered person shall not use premises for the purposes of an agency unless the premises are suitable for the purpose of achieving the aims and objectives of the agency set out in the statement of purpose.
 
 ## STAFFING
 
-### 28. Fitness of staff[^key-7c63a8ddab6171c64624432cf33ab368]
+### 28. Fitness of staff[^c-7c63a8ddab6171c64624432cf33ab368]
 
 The registered person shall ensure that no person is employed to work in or for the purposes of the agency unless—
 
@@ -508,7 +508,7 @@ The registered person shall ensure that no person is employed to work in or for 
 - (c) he is physically and mentally fit for the work he has to perform; and
 - (d) full and satisfactory information is available in relation to him in respect of the matters specified in Schedule 2.
 
-### 29. Staffing[^key-173ec4c3878701fec3bce16956da02c2]
+### 29. Staffing[^c-173ec4c3878701fec3bce16956da02c2]
 
 (1) The registered person shall, having regard to the size of the agency, its statement of purpose and the number and needs of service users and adult placement carers, take all reasonable measures to ensure that—
 
@@ -522,7 +522,7 @@ The registered person shall ensure that no person is employed to work in or for 
 - (c) is enabled from time to time to obtain training and/ or further qualifications appropriate to his or her work; and
 - (d) is appropriately supervised.
 
-### 30. Employment of staff[^key-c196c3e19fb92e0545dc1fa4efa91049]
+### 30. Employment of staff[^c-c196c3e19fb92e0545dc1fa4efa91049]
 
 (1) The registered person shall—
 
@@ -533,7 +533,7 @@ The registered person shall ensure that no person is employed to work in or for 
 
 (2) For the purposes of paragraph (1)(b)(ii), an appropriate person is the registered person, a police officer or an employee of the Regulation and Improvement Authority.
 
-### 31. Staff handbook[^key-437f363602f28b2a620d0c9ba712389c]
+### 31. Staff handbook[^c-437f363602f28b2a620d0c9ba712389c]
 
 (1) The registered person shall prepare a staff handbook and provide a copy of it to every member of staff.
 
@@ -547,7 +547,7 @@ The registered person shall ensure that no person is employed to work in or for 
 
 ## FINANCIAL MATTERS
 
-### 32. Financial position[^key-5293b352d797dce3eb8ed250d4a03dd0]
+### 32. Financial position[^c-5293b352d797dce3eb8ed250d4a03dd0]
 
 (1) The registered provider shall carry on the agency in such a manner as is likely to ensure that it will be financially viable for the purpose of achieving the aims and objectives set out in the statement of purpose.
 
@@ -569,7 +569,7 @@ The registered person shall ensure that no person is employed to work in or for 
 
 ## NOTICES TO BE GIVEN TO THE REGULATION AND IMPROVEMENT AUTHORITY
 
-### 33. Notification of incidents[^key-f3dd5f0b8ffba7d1ba7e247bb5ac0de0]
+### 33. Notification of incidents[^c-f3dd5f0b8ffba7d1ba7e247bb5ac0de0]
 
 (1) The registered person shall notify the Regulation and Improvement Authority and the placing authority if an incident described in paragraph (3) takes place.
 
@@ -593,7 +593,7 @@ The registered person shall ensure that no person is employed to work in or for 
 
 (5) The registered person must ensure that members of staff are required to inform the registered person forthwith when they become aware of the occurrence of any of the incidents described in paragraph (3).
 
-### 34. Notice of absence[^key-eaf6b7049f9b4b8cfc01460cc8733b6e]
+### 34. Notice of absence[^c-eaf6b7049f9b4b8cfc01460cc8733b6e]
 
 (1) Where—
 
@@ -621,7 +621,7 @@ has been absent from the scheme for a continuous period of 28 days or more, and 
 
 (5) The registered provider shall notify the Regulation and Improvement Authority of the return to duty of the registered provider or (as the case may be) the registered manager not later than 7 days after the date of his return.
 
-### 35. Notice of changes[^key-f5c4adb3489c677dfa2e129dc374e2b3]
+### 35. Notice of changes[^c-f5c4adb3489c677dfa2e129dc374e2b3]
 
 (1) The registered person shall give notice in writing to the Regulation and Improvement Authority as soon as it is practicable to do so, if any of the following events is proposed to take place—
 
@@ -635,11 +635,11 @@ has been absent from the scheme for a continuous period of 28 days or more, and 
   - (ii) there is any change of director, manager, secretary or other similar officer of the organisation;
   - (iii) there is to be any change of responsible individual;
 - (g) where the registered provider is an individual, a trustee in bankruptcy is appointed;
-- (ga)[^key-64634c5864533e77e5e665c565c4f0c2] where the registered provider is an individual, a debt relief order is made in respect of him;
+- (ga)[^c-64634c5864533e77e5e665c565c4f0c2] where the registered provider is an individual, a debt relief order is made in respect of him;
 - (h) where the registered provider is a company or partnership, a receiver, manager, liquidator, or a provisional liquidator is appointed; or
 - (i) the premises of the agency are significantly altered or extended or additional premises are acquired for the purposes of the scheme.
 
-### 36. Appointment of liquidators etc.[^key-c5195ed396ee38c8f77c7019b0c9e15f]
+### 36. Appointment of liquidators etc.[^c-c5195ed396ee38c8f77c7019b0c9e15f]
 
 (1) Any person to whom paragraph (2) applies must—
 
@@ -653,7 +653,7 @@ has been absent from the scheme for a continuous period of 28 days or more, and 
 - (b) the liquidator or provisional liquidator of a company which is the registered provider of an agency; or
 - (c) the trustee in bankruptcy of a registered provider of an agency.
 
-### 37. Death of registered person[^key-40cd0d90de6d7edd14ae7daed0db91ee]
+### 37. Death of registered person[^c-40cd0d90de6d7edd14ae7daed0db91ee]
 
 (1) If more than one person is registered in respect of an agency, and a registered person dies, the surviving registered person shall without delay notify the Regulation and Improvement Authority of the death in writing.
 
@@ -673,11 +673,11 @@ has been absent from the scheme for a continuous period of 28 days or more, and 
 
 ## PART V — MISCELLANEOUS
 
-### 38. Compliance with regulations[^key-e3f74c846b9559358558fd2feca90cab]
+### 38. Compliance with regulations[^c-e3f74c846b9559358558fd2feca90cab]
 
 Where there is more than one registered person in respect of an agency, anything which is required under these Regulations to be done by the registered person shall, if done by one of the registered persons, not be required to be done by any of the other registered persons.
 
-### 39. Offences[^key-300b50c4a5b57303999ea05987a9be72]
+### 39. Offences[^c-300b50c4a5b57303999ea05987a9be72]
 
 (1) A contravention or failure to comply with any of the provisions of regulations 3 to 35 shall be an offence.
 
@@ -697,7 +697,7 @@ Where there is more than one registered person in respect of an agency, anything
 
 (4) The Regulation and Improvement Authority may bring proceedings against a person who was once, but no longer is, a registered person, in respect of a failure to comply with regulation 21, and for this purpose, references in paragraphs (2) and (3) to a registered person shall be taken to include such a person.
 
-### 40. Transitional provisions[^key-fe60542b4ff79b3f2edc3b12e4a23742]
+### 40. Transitional provisions[^c-fe60542b4ff79b3f2edc3b12e4a23742]
 
 (1) This regulation applies to persons who, by virtue of the provisions of the Order and these regulations, are required to be registered under Part III of the Order but who immediately prior to 30th April 2007 were not required to be so registered.
 
@@ -722,92 +722,92 @@ Department of Health, Social Services and Public Safety
 
 Regulation 3(1)
 
-**1.**[^key-98dc905e158094add3d21ad2f1a1f8cc] A statement of the overall aims and objectives of the adult placement agency.
+**1.**[^c-98dc905e158094add3d21ad2f1a1f8cc] A statement of the overall aims and objectives of the adult placement agency.
 
-**2.**[^key-f0e51eda0d32ad0bf40aaa7773f08569] The name and address of the registered provider and of any registered manager.
+**2.**[^c-f0e51eda0d32ad0bf40aaa7773f08569] The name and address of the registered provider and of any registered manager.
 
-**3.**[^key-99b99752efbe762eb7e6ab1f9ffb7030] If the registered provider is not an organisation, his relevant qualifications and experience.
+**3.**[^c-99b99752efbe762eb7e6ab1f9ffb7030] If the registered provider is not an organisation, his relevant qualifications and experience.
 
-**4.**[^key-c57e57d6c342afa2ea22cb5a81311ac6] If the registered provider is an organisation the name and address and qualifications and experience of the responsible individual.
+**4.**[^c-c57e57d6c342afa2ea22cb5a81311ac6] If the registered provider is an organisation the name and address and qualifications and experience of the responsible individual.
 
-**5.**[^key-7f616c7c50b2a546392c3c2c5e48eff9] The relevant qualifications and experience of any registered manager.
+**5.**[^c-7f616c7c50b2a546392c3c2c5e48eff9] The relevant qualifications and experience of any registered manager.
 
-**6.**[^key-4f9fc3759ddb842b12d3fdc95768cf98] The number, relevant qualifications and experience of the staff working for the purposes of the agency.
+**6.**[^c-4f9fc3759ddb842b12d3fdc95768cf98] The number, relevant qualifications and experience of the staff working for the purposes of the agency.
 
-**7.**[^key-3b985ec36d233df81aabf02b37e126a0] The status, constitution and organisational structure of the agency, which identify the lines of accountability, specific roles and responsibilities for areas of activity.
+**7.**[^c-3b985ec36d233df81aabf02b37e126a0] The status, constitution and organisational structure of the agency, which identify the lines of accountability, specific roles and responsibilities for areas of activity.
 
-**8.**[^key-63ccac4ba75a0151ba952f2d89df77e5] The age-range and sex of the service users in respect of whom the agency may make placements.
+**8.**[^c-63ccac4ba75a0151ba952f2d89df77e5] The age-range and sex of the service users in respect of whom the agency may make placements.
 
-**9.**[^key-f084ded91fdf8ce5130e8affbe84e795] The range of needs that the agency is intended to meet through the making of placements.
+**9.**[^c-f084ded91fdf8ce5130e8affbe84e795] The range of needs that the agency is intended to meet through the making of placements.
 
-**10.**[^key-8f0f4a431d45db2e5891e1a89c7b5ef7] The arrangements made for consultation with service users about the operation of the agency.
+**10.**[^c-8f0f4a431d45db2e5891e1a89c7b5ef7] The arrangements made for consultation with service users about the operation of the agency.
 
-**11.**[^key-34b32e545abf36b466417ddd338e191f] The arrangements made for contact between placements and their relatives, friends, representatives and the local community where practicable.
+**11.**[^c-34b32e545abf36b466417ddd338e191f] The arrangements made for contact between placements and their relatives, friends, representatives and the local community where practicable.
 
-**12.**[^key-a01b889198fb3be9510ec90b1db23249] The arrangements for dealing with complaints.
+**12.**[^c-a01b889198fb3be9510ec90b1db23249] The arrangements for dealing with complaints.
 
-**13.**[^key-4e12e14651096f49a79bfb59d5a7f681] The arrangements made for dealing with reviews of the service users plan referred to in regulation 19.
+**13.**[^c-4e12e14651096f49a79bfb59d5a7f681] The arrangements made for dealing with reviews of the service users plan referred to in regulation 19.
 
 ## SCHEDULE 2 — INFORMATION AND DOCUMENTS IN RESPECT OF PERSONS CARRYING ON, MANAGING OR WORKING FOR THE PURPOSES OF AN ADULT PLACEMENT AGENCY \[EXCLUDING ADULT PLACEMENT CARERS\]
 
 Regulations 7(3), 9(2) and 28
 
-**1.**[^key-e90b7bd322477b55d6182b3dd6475980] Proof of the person’s identity, including a recent photograph.
+**1.**[^c-e90b7bd322477b55d6182b3dd6475980] Proof of the person’s identity, including a recent photograph.
 
-**2.**[^key-e195c539e421ddd54991a73e3b4fc9bb] When Part V of the Police Act 1997 is commenced in Northern Ireland, either—
+**2.**[^c-e195c539e421ddd54991a73e3b4fc9bb] When Part V of the Police Act 1997 is commenced in Northern Ireland, either—
 
 - (a) where a certificate is required for a purpose which is prescribed by regulations under section 113B of the Police Act 1997 an enhanced criminal record certificate issued under that section; or
 - (b) in any other case, a criminal record certificate issued under section 113A of that Act .
 
-**3.**[^key-efd7211c7197ac8ee25700151d99407d] Two written references relating to the person, including a reference from the person’s present or most recent employer, if any.
+**3.**[^c-efd7211c7197ac8ee25700151d99407d] Two written references relating to the person, including a reference from the person’s present or most recent employer, if any.
 
-**4.**[^key-3123660a4cb874d9e41df54ad896a274] Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as is reasonably practicable, verification of the reason why the employment or position ended.
+**4.**[^c-3123660a4cb874d9e41df54ad896a274] Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as is reasonably practicable, verification of the reason why the employment or position ended.
 
-**5.**[^key-8f6ef97d837acf79eea8ad488fadde2e] Documentary evidence of any relevant qualifications or accredited training of the person and if applicable, registration with an appropriate professional regulatory body.
+**5.**[^c-8f6ef97d837acf79eea8ad488fadde2e] Documentary evidence of any relevant qualifications or accredited training of the person and if applicable, registration with an appropriate professional regulatory body.
 
-**6.**[^key-0936f35ac10d4277a06529f78163d81c] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+**6.**[^c-0936f35ac10d4277a06529f78163d81c] A full employment history, together with a satisfactory written explanation of any gaps in employment.
 
-**7.**[^key-95f6fa8eed303b7ccac696adc7ae1e25] Evidence that the person is physically and mentally fit for the purposes of the work which he is to perform or, where it is impracticable for the person to obtain such evidence, a declaration signed by the person that he is so fit.
+**7.**[^c-95f6fa8eed303b7ccac696adc7ae1e25] Evidence that the person is physically and mentally fit for the purposes of the work which he is to perform or, where it is impracticable for the person to obtain such evidence, a declaration signed by the person that he is so fit.
 
 ## SCHEDULE 3 — INFORMATION AND DOCUMENTS IN RESPECT OF ADULT PLACEMENT CARERS
 
 Regulations 15(3) and 21
 
-**1.**[^key-d0bb789edc3d1c9fa509ef073b144030] Proof of the person’s identity, including a recent photograph.
+**1.**[^c-d0bb789edc3d1c9fa509ef073b144030] Proof of the person’s identity, including a recent photograph.
 
-**2.**[^key-722b48ad0af93db33c617cf60a0f4342] When Part V of the Police Act 1997 is commenced in Northern Ireland either—
+**2.**[^c-722b48ad0af93db33c617cf60a0f4342] When Part V of the Police Act 1997 is commenced in Northern Ireland either—
 
 - (a) where a certificate is required for a purpose which is prescribed by regulations under section 113B the Police Act 1997, an enhanced criminal record certificate issued under that section; or
 - (b) in any other case, a criminal record certificate issued under section 113A of that Act.
 
-**3.**[^key-6d5ccad13e2acd3b4d8386a81a99cb51] Two written personal references from persons (not being relatives of the adult placement carer) who have known the adult placement carer for at least 2 years.
+**3.**[^c-6d5ccad13e2acd3b4d8386a81a99cb51] Two written personal references from persons (not being relatives of the adult placement carer) who have known the adult placement carer for at least 2 years.
 
-**4.**[^key-66ee1f75c0699664e6dcc183506cca1f] A written reference from the person’s present or most recent employer if any.
+**4.**[^c-66ee1f75c0699664e6dcc183506cca1f] A written reference from the person’s present or most recent employer if any.
 
-**5.**[^key-e28296c785dd19daaf2a545d351242f5] Details of health record.
+**5.**[^c-e28296c785dd19daaf2a545d351242f5] Details of health record.
 
-**6.**[^key-2a6017b58bd38d415a5b2aa1a73fff01] Details of a check with the HSS trust in whose area the adult placement carer resides.
+**6.**[^c-2a6017b58bd38d415a5b2aa1a73fff01] Details of a check with the HSS trust in whose area the adult placement carer resides.
 
-**7.**[^key-a9e7a77de273bddd15eb631947c50a4b] Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as reasonably practicable, verification of the reason why the position ended.
+**7.**[^c-a9e7a77de273bddd15eb631947c50a4b] Where a person has previously worked in a position whose duties involved work with children or vulnerable adults, so far as reasonably practicable, verification of the reason why the position ended.
 
-**8.**[^key-2f36d4435fa81bc52f1df5152ad790fc] Documentary evidence of any relevant qualification, including where appropriate a valid driving licence.
+**8.**[^c-2f36d4435fa81bc52f1df5152ad790fc] Documentary evidence of any relevant qualification, including where appropriate a valid driving licence.
 
-**9.**[^key-bea258279447e3844a18ac95e113e27f] A full employment history, together with a satisfactory written explanation of any gaps in employment.
+**9.**[^c-bea258279447e3844a18ac95e113e27f] A full employment history, together with a satisfactory written explanation of any gaps in employment.
 
-**10.**[^key-bd8bedbafc765c5f8f033cbac7e30e83] A letter from a mortgage lender or landlord (as the case may be) confirming—
+**10.**[^c-bd8bedbafc765c5f8f033cbac7e30e83] A letter from a mortgage lender or landlord (as the case may be) confirming—
 
 - (a) that the adult placement carer has sought and obtained permission to undertake placements where such permission is required by the terms of any mortgage, lease or tenancy agreement; and
 - (b) that the adult placement carer is not in arrears with his mortgage payments, rent or (where applicable) service charges and that he is not in breach of the terms of his mortgage, lease or tenancy agreement.
 
-**11.**[^key-a15b1fb9660d67642170cdb5022d0edc] A copy of the assessment report in respect of the adult placement carer prepared on behalf of an adult placement agency.
+**11.**[^c-a15b1fb9660d67642170cdb5022d0edc] A copy of the assessment report in respect of the adult placement carer prepared on behalf of an adult placement agency.
 
-**12.**[^key-c9fd3fcc4fb2ddd97f0af2a8e3b37452] A written statement as to the suitability of a person for the role and responsibilities of an adult placement carer signed by the chair of the approval panel.
+**12.**[^c-c9fd3fcc4fb2ddd97f0af2a8e3b37452] A written statement as to the suitability of a person for the role and responsibilities of an adult placement carer signed by the chair of the approval panel.
 
 ## SCHEDULE 4 — RECORDS TO BE KEPT BY AN AGENCY
 
 Regulation 21 and 25(5)
 
-### 1. Records[^key-11bb89e66b56e72f2e03b924e861b25f]
+### 1. Records[^c-11bb89e66b56e72f2e03b924e861b25f]
 
 The following information or documents in the form of an alphabetical index in respect of each adult whom the agency has placed—
 
@@ -823,7 +823,7 @@ The following information or documents in the form of an alphabetical index in r
 - (j) the date that the placement commenced and, where applicable, ceased;
 - (k) details of placing authority and contact, details, including emergency out of hours contact details.
 
-**2.**[^key-71a90cd774538db8c2f4a149c2c71a69] An alphabetical index of all persons working for the purposes of the agency, which shall include the following matters—
+**2.**[^c-71a90cd774538db8c2f4a149c2c71a69] An alphabetical index of all persons working for the purposes of the agency, which shall include the following matters—
 
 - (a) full name;
 - (b) sex;
@@ -833,7 +833,7 @@ The following information or documents in the form of an alphabetical index in r
 - (f) qualifications and accredited training relevant to, and experience of, work involving vulnerable adults;
 - (g) written confirmation that the information referred to in Schedule 2 is available in relation to the person.
 
-**3.**[^key-4258ee7ec12d4f931ca5ca13c9ef250c] An alphabetical index of all adult placement carers with whom the agency has placed an adult including—
+**3.**[^c-4258ee7ec12d4f931ca5ca13c9ef250c] An alphabetical index of all adult placement carers with whom the agency has placed an adult including—
 
 - (a) full name;
 - (b) sex;
@@ -846,7 +846,7 @@ The following information or documents in the form of an alphabetical index in r
 - (i) written confirmation that the information referred to in Schedule 3 is available in relation to the adult placement carer;
 - (j) a copy of the carer agreement.
 
-### 4. Other Records[^key-ed4e5f5dfff92a539e1a0056330707eb]
+### 4. Other Records[^c-ed4e5f5dfff92a539e1a0056330707eb]
 
 A record of—
 
@@ -881,170 +881,170 @@ Regulation 40 makes transitional provisions.
 
 [^f00001]: Footnote: S.I. [2003/431(N.I. 9](https://www.legislation.gov.uk/nisi/2003/431))
 
-[^key-827afc982d47797f35b2cf4b968b74e7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-827afc982d47797f35b2cf4b968b74e7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-84f0d69e709f397ee995f2456a303452]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/221/regulation/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-84f0d69e709f397ee995f2456a303452]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/221/regulation/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
 [^f00002]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50)
 
-[^key-33d51195051fc66815533ba53cdb6cb2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/221/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 40(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/40/2)
+[^c-33d51195051fc66815533ba53cdb6cb2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/221/regulation/2/1) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 40(2)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/40/2)
 
-[^key-70f2ee8d155760c4b4eef72576348372]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/221/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 47(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/47/2)
+[^c-70f2ee8d155760c4b4eef72576348372]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/221/regulation/2/1) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 47(2)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/47/2)
 
 [^f00003]: Footnote: [2001 c. 3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
 
 [^f00004]: Footnote: [2003 No. 417 (N.I. 4)](https://www.legislation.gov.uk/nisi/2003/417)
 
-[^key-388a306dde8062683c1814704e1937b8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/221/regulation/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-388a306dde8062683c1814704e1937b8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/221/regulation/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-efb2d47c6e63cd2e5cff8d17c5df923d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/221/regulation/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-efb2d47c6e63cd2e5cff8d17c5df923d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/221/regulation/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-0d5e3f7415d8e70ceebe0b3728896605]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/221/regulation/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-0d5e3f7415d8e70ceebe0b3728896605]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/221/regulation/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-ddebf5d94bde7a07b9176a51190e8322]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/221/regulation/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-ddebf5d94bde7a07b9176a51190e8322]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/221/regulation/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-73636293e9afe1039a7ff884d3c9f366]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/221/regulation/7) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-73636293e9afe1039a7ff884d3c9f366]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/221/regulation/7) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-7c65e24f531ccd8500d3c5fd8c158cab]: Textual amendment: [Reg. 7(4)(ab)](https://www.legislation.gov.uk/nisr/2007/221/regulation/7/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 40(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/40/3)
+[^c-7c65e24f531ccd8500d3c5fd8c158cab]: Textual amendment: [Reg. 7(4)(ab)](https://www.legislation.gov.uk/nisr/2007/221/regulation/7/4/ab) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 40(3)](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/40/3)
 
-[^key-4932922dc39d095925904584cd47223a]: Textual amendment: [Reg. 7(4)(ac)](https://www.legislation.gov.uk/nisr/2007/221/regulation/7/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 47(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/47/3)
+[^c-4932922dc39d095925904584cd47223a]: Textual amendment: [Reg. 7(4)(ac)](https://www.legislation.gov.uk/nisr/2007/221/regulation/7/4/ac) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 47(3)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/47/3)
 
-[^key-292f6e560290580b25e7c305683d3289]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/221/regulation/8) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-292f6e560290580b25e7c305683d3289]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2007/221/regulation/8) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-a971e06fd4c099312e36716a8b2a6fcb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/221/regulation/9) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-a971e06fd4c099312e36716a8b2a6fcb]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2007/221/regulation/9) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-79925171cd6041d9f38a2eedc1a5b7d4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/221/regulation/10) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-79925171cd6041d9f38a2eedc1a5b7d4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2007/221/regulation/10) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-9dbee0962667de0f9f661bc00f4c55bf]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/221/regulation/11) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-9dbee0962667de0f9f661bc00f4c55bf]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/221/regulation/11) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-5ba64057d4cd7b3405796ed22f51abad]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/221/regulation/12) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-5ba64057d4cd7b3405796ed22f51abad]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2007/221/regulation/12) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-f9085709b91b87631d6206a366e196e2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/221/regulation/13) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-f9085709b91b87631d6206a366e196e2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2007/221/regulation/13) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-3772f5bc8b198ca989c9bed8bdd93d33]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2007/221/regulation/14) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-3772f5bc8b198ca989c9bed8bdd93d33]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2007/221/regulation/14) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-c7179d9da257129daeb38f78956fdca9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2007/221/regulation/15) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-c7179d9da257129daeb38f78956fdca9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2007/221/regulation/15) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-b3f0e724dbef33a52a75ce118651ad64]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2007/221/regulation/16) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-b3f0e724dbef33a52a75ce118651ad64]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2007/221/regulation/16) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-b3a2fb1ac06e0c2aefc41f30c997fc07]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2007/221/regulation/17) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-b3a2fb1ac06e0c2aefc41f30c997fc07]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2007/221/regulation/17) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-e4441ea6ec07f9ae45b4fe75172f26c3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2007/221/regulation/18) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-e4441ea6ec07f9ae45b4fe75172f26c3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2007/221/regulation/18) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-4d55cdf520781ebdef3a41f4d9105f8a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2007/221/regulation/19) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-4d55cdf520781ebdef3a41f4d9105f8a]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2007/221/regulation/19) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-5cd7df065338b1f94f0932bb5f231182]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2007/221/regulation/20) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-5cd7df065338b1f94f0932bb5f231182]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2007/221/regulation/20) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-c69ed439a7b449e14ed2599b786f138f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2007/221/regulation/21) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-c69ed439a7b449e14ed2599b786f138f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2007/221/regulation/21) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-ffd08aa7c719585b2c691f97c561a3bf]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2007/221/regulation/22) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-ffd08aa7c719585b2c691f97c561a3bf]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2007/221/regulation/22) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-799f7061f034c55c7254c4b1e971ab57]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2007/221/regulation/23) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-799f7061f034c55c7254c4b1e971ab57]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2007/221/regulation/23) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-6904cc0c999d84d03076497f5c6c0f2c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2007/221/regulation/24) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-6904cc0c999d84d03076497f5c6c0f2c]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2007/221/regulation/24) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-b89e9ebce4aa01b66fe966d1d13a8e74]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2007/221/regulation/25) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-b89e9ebce4aa01b66fe966d1d13a8e74]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2007/221/regulation/25) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-95441804ad920e9378203f4e8597f640]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2007/221/regulation/26) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-95441804ad920e9378203f4e8597f640]: Commencement: [Reg. 26](https://www.legislation.gov.uk/nisr/2007/221/regulation/26) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-d7f6569772c97002882a89ef1fe31f9f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2007/221/regulation/27) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-d7f6569772c97002882a89ef1fe31f9f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/nisr/2007/221/regulation/27) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-7c63a8ddab6171c64624432cf33ab368]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2007/221/regulation/28) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-7c63a8ddab6171c64624432cf33ab368]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2007/221/regulation/28) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-173ec4c3878701fec3bce16956da02c2]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2007/221/regulation/29) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-173ec4c3878701fec3bce16956da02c2]: Commencement: [Reg. 29](https://www.legislation.gov.uk/nisr/2007/221/regulation/29) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-c196c3e19fb92e0545dc1fa4efa91049]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2007/221/regulation/30) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-c196c3e19fb92e0545dc1fa4efa91049]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2007/221/regulation/30) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-437f363602f28b2a620d0c9ba712389c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2007/221/regulation/31) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-437f363602f28b2a620d0c9ba712389c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2007/221/regulation/31) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-5293b352d797dce3eb8ed250d4a03dd0]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2007/221/regulation/32) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-5293b352d797dce3eb8ed250d4a03dd0]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2007/221/regulation/32) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-f3dd5f0b8ffba7d1ba7e247bb5ac0de0]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2007/221/regulation/33) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-f3dd5f0b8ffba7d1ba7e247bb5ac0de0]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2007/221/regulation/33) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-eaf6b7049f9b4b8cfc01460cc8733b6e]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2007/221/regulation/34) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-eaf6b7049f9b4b8cfc01460cc8733b6e]: Commencement: [Reg. 34](https://www.legislation.gov.uk/nisr/2007/221/regulation/34) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-f5c4adb3489c677dfa2e129dc374e2b3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2007/221/regulation/35) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-f5c4adb3489c677dfa2e129dc374e2b3]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2007/221/regulation/35) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-64634c5864533e77e5e665c565c4f0c2]: Textual amendment: [Reg. 35(1)(ga)](https://www.legislation.gov.uk/nisr/2007/221/regulation/35/1/ga) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 47(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/47/4)
+[^c-64634c5864533e77e5e665c565c4f0c2]: Textual amendment: [Reg. 35(1)(ga)](https://www.legislation.gov.uk/nisr/2007/221/regulation/35/1/ga) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 47(4)](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/47/4)
 
-[^key-c5195ed396ee38c8f77c7019b0c9e15f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2007/221/regulation/36) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-c5195ed396ee38c8f77c7019b0c9e15f]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2007/221/regulation/36) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-40cd0d90de6d7edd14ae7daed0db91ee]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2007/221/regulation/37) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-40cd0d90de6d7edd14ae7daed0db91ee]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2007/221/regulation/37) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-e3f74c846b9559358558fd2feca90cab]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2007/221/regulation/38) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-e3f74c846b9559358558fd2feca90cab]: Commencement: [Reg. 38](https://www.legislation.gov.uk/nisr/2007/221/regulation/38) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-300b50c4a5b57303999ea05987a9be72]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2007/221/regulation/39) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-300b50c4a5b57303999ea05987a9be72]: Commencement: [Reg. 39](https://www.legislation.gov.uk/nisr/2007/221/regulation/39) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-fe60542b4ff79b3f2edc3b12e4a23742]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2007/221/regulation/40) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-fe60542b4ff79b3f2edc3b12e4a23742]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2007/221/regulation/40) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-98dc905e158094add3d21ad2f1a1f8cc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-98dc905e158094add3d21ad2f1a1f8cc]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-f0e51eda0d32ad0bf40aaa7773f08569]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-f0e51eda0d32ad0bf40aaa7773f08569]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-99b99752efbe762eb7e6ab1f9ffb7030]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-99b99752efbe762eb7e6ab1f9ffb7030]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-c57e57d6c342afa2ea22cb5a81311ac6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-c57e57d6c342afa2ea22cb5a81311ac6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-7f616c7c50b2a546392c3c2c5e48eff9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-7f616c7c50b2a546392c3c2c5e48eff9]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-4f9fc3759ddb842b12d3fdc95768cf98]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-4f9fc3759ddb842b12d3fdc95768cf98]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-3b985ec36d233df81aabf02b37e126a0]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/7) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-3b985ec36d233df81aabf02b37e126a0]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/7) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-63ccac4ba75a0151ba952f2d89df77e5]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/8) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-63ccac4ba75a0151ba952f2d89df77e5]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/8) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-f084ded91fdf8ce5130e8affbe84e795]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/9) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-f084ded91fdf8ce5130e8affbe84e795]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/9) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-8f0f4a431d45db2e5891e1a89c7b5ef7]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/10) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-8f0f4a431d45db2e5891e1a89c7b5ef7]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/10) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-34b32e545abf36b466417ddd338e191f]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/11) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-34b32e545abf36b466417ddd338e191f]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/11) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-a01b889198fb3be9510ec90b1db23249]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/12) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-a01b889198fb3be9510ec90b1db23249]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/12) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-4e12e14651096f49a79bfb59d5a7f681]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/13) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-4e12e14651096f49a79bfb59d5a7f681]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/nisr/2007/221/schedule/1/paragraph/13) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-e90b7bd322477b55d6182b3dd6475980]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-e90b7bd322477b55d6182b3dd6475980]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-e195c539e421ddd54991a73e3b4fc9bb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-e195c539e421ddd54991a73e3b4fc9bb]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-efd7211c7197ac8ee25700151d99407d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-efd7211c7197ac8ee25700151d99407d]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-3123660a4cb874d9e41df54ad896a274]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-3123660a4cb874d9e41df54ad896a274]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-8f6ef97d837acf79eea8ad488fadde2e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-8f6ef97d837acf79eea8ad488fadde2e]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-0936f35ac10d4277a06529f78163d81c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-0936f35ac10d4277a06529f78163d81c]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-95f6fa8eed303b7ccac696adc7ae1e25]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/7) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-95f6fa8eed303b7ccac696adc7ae1e25]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2007/221/schedule/2/paragraph/7) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-d0bb789edc3d1c9fa509ef073b144030]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-d0bb789edc3d1c9fa509ef073b144030]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-722b48ad0af93db33c617cf60a0f4342]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-722b48ad0af93db33c617cf60a0f4342]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-6d5ccad13e2acd3b4d8386a81a99cb51]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-6d5ccad13e2acd3b4d8386a81a99cb51]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-66ee1f75c0699664e6dcc183506cca1f]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-66ee1f75c0699664e6dcc183506cca1f]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-e28296c785dd19daaf2a545d351242f5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-e28296c785dd19daaf2a545d351242f5]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/5) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-2a6017b58bd38d415a5b2aa1a73fff01]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-2a6017b58bd38d415a5b2aa1a73fff01]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/6) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-a9e7a77de273bddd15eb631947c50a4b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/7) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-a9e7a77de273bddd15eb631947c50a4b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/7) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-2f36d4435fa81bc52f1df5152ad790fc]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/8) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-2f36d4435fa81bc52f1df5152ad790fc]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/8) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-bea258279447e3844a18ac95e113e27f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/9) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-bea258279447e3844a18ac95e113e27f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/9) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-bd8bedbafc765c5f8f033cbac7e30e83]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/10) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-bd8bedbafc765c5f8f033cbac7e30e83]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/10) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-a15b1fb9660d67642170cdb5022d0edc]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/11) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-a15b1fb9660d67642170cdb5022d0edc]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/11) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-c9fd3fcc4fb2ddd97f0af2a8e3b37452]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/12) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-c9fd3fcc4fb2ddd97f0af2a8e3b37452]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/nisr/2007/221/schedule/3/paragraph/12) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-11bb89e66b56e72f2e03b924e861b25f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2007/221/schedule/4/paragraph/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-11bb89e66b56e72f2e03b924e861b25f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/nisr/2007/221/schedule/4/paragraph/1) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-71a90cd774538db8c2f4a149c2c71a69]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2007/221/schedule/4/paragraph/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-71a90cd774538db8c2f4a149c2c71a69]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/nisr/2007/221/schedule/4/paragraph/2) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-4258ee7ec12d4f931ca5ca13c9ef250c]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2007/221/schedule/4/paragraph/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-4258ee7ec12d4f931ca5ca13c9ef250c]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nisr/2007/221/schedule/4/paragraph/3) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
 
-[^key-ed4e5f5dfff92a539e1a0056330707eb]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2007/221/schedule/4/paragraph/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)
+[^c-ed4e5f5dfff92a539e1a0056330707eb]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/nisr/2007/221/schedule/4/paragraph/4) in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/221/regulation/1)

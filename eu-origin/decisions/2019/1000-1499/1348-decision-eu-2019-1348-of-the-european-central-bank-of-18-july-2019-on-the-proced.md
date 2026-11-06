@@ -31,10 +31,10 @@ Decision (EU) 2019/1348 of the European Central Bank
 
 of 18 July 2019 on the procedure for recognising non-euro area Member States as reporting Member States under Regulation (EU) 2016/867 on the collection of granular credit and credit risk data (ECB/2019/20) (revoked)
 
-[^key-3613b56494eed991831006f0fc224c8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3613b56494eed991831006f0fc224c8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-3613b56494eed991831006f0fc224c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-3613b56494eed991831006f0fc224c8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3613b56494eed991831006f0fc224c8c]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 110](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/110)
+[^c-3613b56494eed991831006f0fc224c8c]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 110](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/110)

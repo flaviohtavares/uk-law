@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Advisory services[^key-47218e0f8b022068d8954c860a997bad][^c2191352]
+## 240. Advisory services[^c-47218e0f8b022068d8954c860a997bad][^c2191352]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-47218e0f8b022068d8954c860a997bad]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2012/7/section/240) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-47218e0f8b022068d8954c860a997bad]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2012/7/section/240) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
 [^c2191352]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2012/7/section/240) partly in force; [s. 240](https://www.legislation.gov.uk/ukpga/2012/7/section/240) in force for specified purposes at Royal Assent, see [s. 306(1)(d)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/1/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Application of certain provisions of the 2007 Act subject to modifications[^key-1c85145fcc6e2e8c15dcaaeb91686e4d]
+## 3. Application of certain provisions of the 2007 Act subject to modifications[^c-1c85145fcc6e2e8c15dcaaeb91686e4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 provides for certain provisions of the 2007 Act to have effect in rel
 
 ## Annotations
 
-[^key-1c85145fcc6e2e8c15dcaaeb91686e4d]: Commencement: Reg. 3 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)
+[^c-1c85145fcc6e2e8c15dcaaeb91686e4d]: Commencement: Reg. 3 in force at 21.12.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/1412/regulation/1/1)

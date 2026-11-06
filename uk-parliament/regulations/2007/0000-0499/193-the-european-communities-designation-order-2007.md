@@ -32,7 +32,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Designation) Order 2007 (revoked)[^key-c57c1bc2ac4d17710c4d98c2497fa307]
+The European Communities (Designation) Order 2007 (revoked)[^c-c57c1bc2ac4d17710c4d98c2497fa307]
 
 Made
 
@@ -52,34 +52,34 @@ Present,
 
 The Queen's Most Excellent Majesty in Council
 
-[^key-c57c1bc2ac4d17710c4d98c2497fa307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c57c1bc2ac4d17710c4d98c2497fa307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c57c1bc2ac4d17710c4d98c2497fa307]
+## 1. Citation, commencement and interpretation[^c-c57c1bc2ac4d17710c4d98c2497fa307]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation in relation to land contamination[^key-c57c1bc2ac4d17710c4d98c2497fa307]
+## 2. Designation in relation to land contamination[^c-c57c1bc2ac4d17710c4d98c2497fa307]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designation in relation to companies, etc.[^key-c57c1bc2ac4d17710c4d98c2497fa307]
+## 3. Designation in relation to companies, etc.[^c-c57c1bc2ac4d17710c4d98c2497fa307]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Relationship with other designations[^key-c57c1bc2ac4d17710c4d98c2497fa307]
+## 4. Relationship with other designations[^c-c57c1bc2ac4d17710c4d98c2497fa307]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions[^key-c57c1bc2ac4d17710c4d98c2497fa307]
+## 5. Restrictions[^c-c57c1bc2ac4d17710c4d98c2497fa307]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c57c1bc2ac4d17710c4d98c2497fa307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c57c1bc2ac4d17710c4d98c2497fa307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c57c1bc2ac4d17710c4d98c2497fa307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c57c1bc2ac4d17710c4d98c2497fa307]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c57c1bc2ac4d17710c4d98c2497fa307]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/193) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c57c1bc2ac4d17710c4d98c2497fa307]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/193) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

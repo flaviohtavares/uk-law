@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Persons treated as engaged in remunerative work[^key-e1c11d30fd0059a02c8c99bcc8cbfe48]
+## 52. Persons treated as engaged in remunerative work[^c-e1c11d30fd0059a02c8c99bcc8cbfe48]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ and shall be so treated for a period of 7 days beginning on, and including, the 
 
 ## Annotations
 
-[^key-e1c11d30fd0059a02c8c99bcc8cbfe48]: Commencement: Reg. 52 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-e1c11d30fd0059a02c8c99bcc8cbfe48]: Commencement: Reg. 52 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

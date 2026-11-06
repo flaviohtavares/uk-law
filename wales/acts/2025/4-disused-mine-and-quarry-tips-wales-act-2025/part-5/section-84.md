@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Church of England land[^key-389b92d3bf342b83f199e26d8e87003c]
+## 84. Church of England land[^c-389b92d3bf342b83f199e26d8e87003c]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ the appropriate Diocesan Board of Finance may apply any sums held by it in disch
 
 ## Annotations
 
-[^key-389b92d3bf342b83f199e26d8e87003c]: Commencement: S. 84 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-389b92d3bf342b83f199e26d8e87003c]: Commencement: S. 84 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

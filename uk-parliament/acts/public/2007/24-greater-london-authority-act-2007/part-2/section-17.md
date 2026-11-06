@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Restrictions on disposal of land: method of giving consent[^key-2a5551150290a444786c15b21d020e10]
+## 17. Restrictions on disposal of land: method of giving consent[^c-2a5551150290a444786c15b21d020e10]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a5551150290a444786c15b21d020e10]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2007/24/section/17) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)
+[^c-2a5551150290a444786c15b21d020e10]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2007/24/section/17) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)

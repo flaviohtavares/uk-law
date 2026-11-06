@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 253. Application[^key-c6f989c69564b6afb71e8d20778cb478]
+## 253. Application[^c-c6f989c69564b6afb71e8d20778cb478]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6f989c69564b6afb71e8d20778cb478]: Commencement: Rule 253 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-c6f989c69564b6afb71e8d20778cb478]: Commencement: Rule 253 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

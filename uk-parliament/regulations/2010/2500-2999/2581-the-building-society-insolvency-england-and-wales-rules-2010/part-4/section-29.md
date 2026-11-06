@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Limited disclosure[^key-bbcb52dd91110d3be7f99753ac9eef76]
+## 29. Limited disclosure[^c-bbcb52dd91110d3be7f99753ac9eef76]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbcb52dd91110d3be7f99753ac9eef76]: Commencement: Rule 29 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-bbcb52dd91110d3be7f99753ac9eef76]: Commencement: Rule 29 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

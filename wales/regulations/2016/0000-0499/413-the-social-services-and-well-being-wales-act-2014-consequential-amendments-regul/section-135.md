@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**135.**[^key-98688955f0f09b8747386155e7a370ff] In section 171ZL[^f00152] (entitlement) at the end insert—
+**135.**[^c-98688955f0f09b8747386155e7a370ff] In section 171ZL[^f00152] (entitlement) at the end insert—
 
 > (11) This section has effect in a case involving a child who is, or is expected to be, placed under section 81 of the Social Services and Well-being (Wales) Act 2014 by a local authority in Wales with a local authority foster parent who has been approved as a prospective adopter with the following modifications—
 >
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-98688955f0f09b8747386155e7a370ff]: Commencement: Reg. 135 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-98688955f0f09b8747386155e7a370ff]: Commencement: Reg. 135 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00152]: Footnote: Section 171ZL was inserted by the Employment Act [2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), section 4. Subsections (9) and (10) were inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 121(5).

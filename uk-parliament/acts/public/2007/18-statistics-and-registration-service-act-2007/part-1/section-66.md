@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Devolved statistics[^key-55263621670581eb5c69c0fa6b3365d9]
+## 66. Devolved statistics[^c-55263621670581eb5c69c0fa6b3365d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 and do not relate wholly to Scotland.
 
-(3)[^key-76647c9f4be6206459b2429847bb99d4] In this Part “**Welsh devolved statistics**” means statistics which relate to the exercise of functions by a devolved Welsh authority (within the meaning given by section 157A of the Government of Wales Act 2006), other than statistics produced by a person acting on behalf of—
+(3)[^c-76647c9f4be6206459b2429847bb99d4] In this Part “**Welsh devolved statistics**” means statistics which relate to the exercise of functions by a devolved Welsh authority (within the meaning given by section 157A of the Government of Wales Act 2006), other than statistics produced by a person acting on behalf of—
 
 - (a) the Crown, or
 - (b) a public authority,
@@ -47,6 +47,6 @@ in the exercise of functions that could not be conferred by provision falling wi
 
 ## Annotations
 
-[^key-55263621670581eb5c69c0fa6b3365d9]: Commencement: S. 66 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/h)
+[^c-55263621670581eb5c69c0fa6b3365d9]: Commencement: S. 66 in force at 1.12.2007 by [S.I. 2007/3388](https://www.legislation.gov.uk/uksi/2007/3388), [art. 2(h)](https://www.legislation.gov.uk/uksi/2007/3388/article/2/h)
 
-[^key-76647c9f4be6206459b2429847bb99d4]: Textual amendment: S. 66(3) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 69](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/69) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-76647c9f4be6206459b2429847bb99d4]: Textual amendment: S. 66(3) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 69](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/69) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

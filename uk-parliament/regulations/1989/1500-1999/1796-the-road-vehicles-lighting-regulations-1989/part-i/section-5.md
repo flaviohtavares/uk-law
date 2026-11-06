@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Exemptions—Temporarily imported vehicles and vehicles proceeding to a port for export[^key-5483bc0fc8c0daca74e005e21f2b99aa]
+## 5. Exemptions—Temporarily imported vehicles and vehicles proceeding to a port for export[^c-5483bc0fc8c0daca74e005e21f2b99aa]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ if in each case the vehicle or combination of vehicles complies in every respect
 
 ## Annotations
 
-[^key-5483bc0fc8c0daca74e005e21f2b99aa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/1796/regulation/5) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-5483bc0fc8c0daca74e005e21f2b99aa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1989/1796/regulation/5) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
 [^f00012]: Footnote: Cmnd. 7997.
 

@@ -23,11 +23,11 @@ summary: ''
 (1) Where an application is duly made under regulation 12, the Authority may make an authorisation order in respect of an open-ended investment company if—
 
 - (a) it is satisfied that the company will, on the coming into effect of the authorisation order, comply with the requirements in regulation 15;
-- (b) it is satisfied that the company will, at that time, comply with the requirements of FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules;
+- (b) it is satisfied that the company will, at that time, comply with the requirements of FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules;
 - (c) it has been provided with a copy of the proposed company’s instrument of incorporation and a certificate signed by a solicitor to the effect that the instrument of incorporation complies with Schedule 2 to these Regulations and with such of the requirements of FCA rules as relate to the contents of that instrument of incorporation; and
 - (d) it has received a notification under regulation 18(3) from the appropriate registrar.
 
-(1A)[^key-69ba41948c24a4ac316dfa60b237e096] Where an application is made under regulation 12(A1)(b) the Authority may make an authorisation order in respect of a body as a money market fund if conditions A and B are met.
+(1A)[^c-69ba41948c24a4ac316dfa60b237e096] Where an application is made under regulation 12(A1)(b) the Authority may make an authorisation order in respect of a body as a money market fund if conditions A and B are met.
 
 - (a) Condition A is that the Authority is satisfied that the body will be able to comply with the requirements imposed on a money market fund under the MMF Regulation.
 - (b) Condition B is that—
@@ -43,9 +43,9 @@ summary: ''
 - (c) if the proposed director is a partnership, any matter relating to any of the partners; and
 - (d) if the proposed director is an unincorporated association, any matter relating to any member of the governing body of the association or any officer or controller of the association.
 
-(4) Subject to paragraph (4A)[^key-addcca83b0a47623b96e03050217e938] an application must be determined by the Authority before the end of the period of six months beginning with the date on which it receives a completed application.
+(4) Subject to paragraph (4A)[^c-addcca83b0a47623b96e03050217e938] an application must be determined by the Authority before the end of the period of six months beginning with the date on which it receives a completed application.
 
-(4A)[^key-f75a3b90c84382ad91eebdd9969d871f] Where the application relates to an open-ended investment company which is a UCITS, it must be determined by the Authority before the end of two months beginning with the date on which it receives the application.
+(4A)[^c-f75a3b90c84382ad91eebdd9969d871f] Where the application relates to an open-ended investment company which is a UCITS, it must be determined by the Authority before the end of two months beginning with the date on which it receives the application.
 
 (5) The Authority may determine an incomplete application if it considers it appropriate to do so and, if it does so, it must determine the application within the period of twelve months beginning with the date on which it first receives the application.
 
@@ -57,10 +57,10 @@ summary: ''
 
 ## Annotations
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
 
-[^key-69ba41948c24a4ac316dfa60b237e096]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/14/1A) inserted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2018/698/regulation/3/4)
+[^c-69ba41948c24a4ac316dfa60b237e096]: Textual amendment: [Reg. 14(1A)](https://www.legislation.gov.uk/uksi/2001/1228/regulation/14/1A) inserted (28.6.2018 for specified purposes, 21.7.2018 in so far as not already in force) by [The Money Market Funds Regulations 2018 (S.I. 2018/698)](https://www.legislation.gov.uk/uksi/2018/698), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/698/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2018/698/regulation/3/4)
 
-[^key-addcca83b0a47623b96e03050217e938]: Textual amendment: Words in reg. 14(4) inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/2/a)
+[^c-addcca83b0a47623b96e03050217e938]: Textual amendment: Words in reg. 14(4) inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/2/a)
 
-[^key-f75a3b90c84382ad91eebdd9969d871f]: Textual amendment: Reg. 14(4A) inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/2/b)
+[^c-f75a3b90c84382ad91eebdd9969d871f]: Textual amendment: Reg. 14(4A) inserted (1.7.2011) by [The Undertakings for Collective Investment in Transferable Securities Regulations 2011 (S.I. 2011/1613)](https://www.legislation.gov.uk/uksi/2011/1613), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1613/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2011/1613/regulation/3/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Amendment of Part 12[^key-c3616405cf45b7b61d0e306ac6053883]
+## 44. Amendment of Part 12[^c-c3616405cf45b7b61d0e306ac6053883]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ In Rule 12.02 (Costs) after paragraph (2) insert—
 
 .
 
-**45.**[^key-940ff1ef376d9f69d2a00a47affb0000] Rule 12.04 (Notices), after paragraph (1) insert—
+**45.**[^c-940ff1ef376d9f69d2a00a47affb0000] Rule 12.04 (Notices), after paragraph (1) insert—
 
 > (1A) All applications and statements referred to in Part 1A of the Order or Part A1 must be in writing, unless it is otherwise provided, or the court allows the application or statement to be made in some other way.
 >
@@ -41,9 +41,9 @@ In Rule 12.02 (Costs) after paragraph (2) insert—
 
 .
 
-**46.**[^key-3447f889bcbdf2712d691c3fa22fcadf] In Rule 12.05 (Quorum at meeting of creditors or contributories) in paragraph (3) for “Parts II to VII” substitute “Parts A1 to VIII”.
+**46.**[^c-3447f889bcbdf2712d691c3fa22fcadf] In Rule 12.05 (Quorum at meeting of creditors or contributories) in paragraph (3) for “Parts II to VII” substitute “Parts A1 to VIII”.
 
-**47.**[^key-fa36c535a12c88a2a5170c9fbbc5d372] In Rule 12.19 (Right to have list of creditors) before paragraph (1)(a) insert—
+**47.**[^c-fa36c535a12c88a2a5170c9fbbc5d372] In Rule 12.19 (Right to have list of creditors) before paragraph (1)(a) insert—
 
 > - (za) a moratorium under Part 1A of the Order,
 
@@ -51,10 +51,10 @@ In Rule 12.02 (Costs) after paragraph (2) insert—
 
 ## Annotations
 
-[^key-c3616405cf45b7b61d0e306ac6053883]: Commencement: Rule 44 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-c3616405cf45b7b61d0e306ac6053883]: Commencement: Rule 44 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-940ff1ef376d9f69d2a00a47affb0000]: Commencement: Rule 45 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-940ff1ef376d9f69d2a00a47affb0000]: Commencement: Rule 45 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-3447f889bcbdf2712d691c3fa22fcadf]: Commencement: Rule 46 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-3447f889bcbdf2712d691c3fa22fcadf]: Commencement: Rule 46 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
-[^key-fa36c535a12c88a2a5170c9fbbc5d372]: Commencement: Rule 47 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-fa36c535a12c88a2a5170c9fbbc5d372]: Commencement: Rule 47 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)

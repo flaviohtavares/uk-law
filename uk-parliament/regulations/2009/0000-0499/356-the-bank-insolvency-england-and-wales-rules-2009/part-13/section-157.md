@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 157. Procedure for settling list[^key-e8f0b5b3c2d7d1f539a0404ad8e1beee]
+## 157. Procedure for settling list[^c-e8f0b5b3c2d7d1f539a0404ad8e1beee]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.198 of the 1986 Rules.
 
 ## Annotations
 
-[^key-e8f0b5b3c2d7d1f539a0404ad8e1beee]: Commencement: Rule 157 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-e8f0b5b3c2d7d1f539a0404ad8e1beee]: Commencement: Rule 157 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

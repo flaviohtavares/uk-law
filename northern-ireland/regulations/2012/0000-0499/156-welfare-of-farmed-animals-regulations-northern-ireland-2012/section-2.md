@@ -27,7 +27,7 @@ summary: ''
   - (a) that is on a holding with fewer than 500 such animals or with only breeding stocks of such animals;
   - (b) that is on a hatchery;
   - (c) in relation to which the term “Extensive indoor (barn reared)”, “Free range”, “Traditional free range” or “Free range – total freedom” can be used within the meaning of point (b), (c), (d) or (e) of Annex V to Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/eur/2008/543) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/eur/2007/1234) as regards the marketing standards for poultry meat [^c21232211];
-  - (d) that is organically reared in accordance with Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products and repealing Regulation [(EEC) No 2092/1991](https://www.legislation.gov.uk/eur/1991/2092), as last amended by Council Regulation (EU) No 517/2013[^key-13c9c7f349568e715574d47438c135ee] [^c21232221];
+  - (d) that is organically reared in accordance with Council Regulation [(EC) No 834/2007](https://www.legislation.gov.uk/eur/2007/834) on organic production and labelling of organic products and repealing Regulation [(EEC) No 2092/1991](https://www.legislation.gov.uk/eur/1991/2092), as last amended by Council Regulation (EU) No 517/2013[^c-13c9c7f349568e715574d47438c135ee] [^c21232221];
 - “**farmed animal**” means any animal bred or kept for the production of food, wool, skin or for other farming purposes;
 - “**laying hen**” means a hen of the species *Gallus gallus* which has reached laying maturity and is kept for production of eggs not intended for hatching;
 - “**litter**”, in relation to laying hens, means any friable material enabling the hens to satisfy their ethological needs and, in relation to conventionally reared meat chickens, material which is dry and friable on the surface;
@@ -45,7 +45,7 @@ summary: ''
 
 [^c21232211]: Marginal citation: O.J. No. L 157, 17.6.08, p. 46, to which there are amendments and corrections not relevant to these Regulations
 
-[^key-13c9c7f349568e715574d47438c135ee]: Textual amendment: Words in reg. 2(1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/4)
+[^c-13c9c7f349568e715574d47438c135ee]: Textual amendment: Words in reg. 2(1) inserted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2019/82/schedule/2/paragraph/4)
 
 [^c21232221]: Marginal citation: O.J. No. L 189, 20.7.07, p. 1, as amended by Council Regulation (EC) No. 967/2008 (O.J. No. L 264, 3.10.08, p. 1)
 

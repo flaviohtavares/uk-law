@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.52. Business at first meetings in the liquidation[^key-b6b20cef588be52f6146f7c3bb8b3703]
+## 4.52. Business at first meetings in the liquidation[^c-b6b20cef588be52f6146f7c3bb8b3703]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6b20cef588be52f6146f7c3bb8b3703]: Commencement: [Rule 4.52](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.52) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-b6b20cef588be52f6146f7c3bb8b3703]: Commencement: [Rule 4.52](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.52) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

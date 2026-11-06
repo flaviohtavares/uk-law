@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 106. Power to regulate fees in the sheriff court and the Sheriff Appeal Court[^key-36865130411530bae5f3bdb686bfd3dc]
+## 106. Power to regulate fees in the sheriff court and the Sheriff Appeal Court[^c-36865130411530bae5f3bdb686bfd3dc]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36865130411530bae5f3bdb686bfd3dc]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2014/18/section/106) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-36865130411530bae5f3bdb686bfd3dc]: Commencement: [S. 106](https://www.legislation.gov.uk/asp/2014/18/section/106) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

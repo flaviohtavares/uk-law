@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Guidance on sustainable procurement duty[^key-25f41165317756668c557c4e002c288b]
+## 10. Guidance on sustainable procurement duty[^c-25f41165317756668c557c4e002c288b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-25f41165317756668c557c4e002c288b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/12/section/10) in force at 11.1.2016 by [S.S.I. 2015/411](https://www.legislation.gov.uk/ssi/2015/411), [art. 3](https://www.legislation.gov.uk/ssi/2015/411/article/3)
+[^c-25f41165317756668c557c4e002c288b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2014/12/section/10) in force at 11.1.2016 by [S.S.I. 2015/411](https://www.legislation.gov.uk/ssi/2015/411), [art. 3](https://www.legislation.gov.uk/ssi/2015/411/article/3)

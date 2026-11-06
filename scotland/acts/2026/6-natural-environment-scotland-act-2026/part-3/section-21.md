@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Measures to prevent damage by deer[^key-c7f38bfe4ffcf86cb0982f84e913d722][^key-cf0d53c1285df0060669bba10d4a72de]
+## 21. Measures to prevent damage by deer[^c-c7f38bfe4ffcf86cb0982f84e913d722][^c-cf0d53c1285df0060669bba10d4a72de]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7f38bfe4ffcf86cb0982f84e913d722]: Commencement: S. 21 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-c7f38bfe4ffcf86cb0982f84e913d722]: Commencement: S. 21 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-cf0d53c1285df0060669bba10d4a72de]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2026/6/section/21) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/l)
+[^c-cf0d53c1285df0060669bba10d4a72de]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2026/6/section/21) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(l)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/l)

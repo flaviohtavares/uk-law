@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Disposal value restricted[^key-f837ae5c495072b6c6aad288ab881968]
+## 222. Disposal value restricted[^c-f837ae5c495072b6c6aad288ab881968]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f837ae5c495072b6c6aad288ab881968]: Textual amendment: S. 222 omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(12)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/12/a)
+[^c-f837ae5c495072b6c6aad288ab881968]: Textual amendment: S. 222 omitted (with effect in accordance with Sch. 20 para. 6(19) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 20 para. 6(12)(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/20/paragraph/6/12/a)

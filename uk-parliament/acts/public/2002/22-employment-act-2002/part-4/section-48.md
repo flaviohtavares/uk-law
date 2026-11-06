@@ -22,7 +22,7 @@ summary: ''
 
 (1) In section 35A of the Social Security Contributions and Benefits Act 1992 (c. 4) (appropriate weekly rate of maternity allowance)—
 
-- (a)[^key-6e114a064c98a79511080172b56dd68d] for subsections (1) to (3) there is substituted—
+- (a)[^c-6e114a064c98a79511080172b56dd68d] for subsections (1) to (3) there is substituted—
 
   > (1) For the purposes of section 35(1) above the appropriate weekly rate is (subject to subsection (5A) below) whichever is the lower rate of—
   >
@@ -31,7 +31,7 @@ summary: ''
 
   ;
 - (b) in paragraph (c)(i) of subsection (5), for “the lower earnings limit” there is substituted “ an amount 90 per cent of which is equal to the weekly rate prescribed under section 166(1)(b) below that is ”; and
-- (c)[^key-6e114a064c98a79511080172b56dd68d] after that subsection there is inserted—
+- (c)[^c-6e114a064c98a79511080172b56dd68d] after that subsection there is inserted—
 
   > (5A) Where subsection (5B) below applies the appropriate weekly rate is the weekly rate for the time being prescribed under section 166(1)(b) below.
   >
@@ -43,4 +43,4 @@ summary: ''
 
 [^c17967901]: Commencement: S. 48(1)(b)(2) in force at 24.11.2002 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(1)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/1) (with [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3/paragraph/4))
 
-[^key-6e114a064c98a79511080172b56dd68d]: Commencement: S. 48(1)(a)(c) in force at 6.4.2003 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3))
+[^c-6e114a064c98a79511080172b56dd68d]: Commencement: S. 48(1)(a)(c) in force at 6.4.2003 by [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/3))

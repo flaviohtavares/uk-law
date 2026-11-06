@@ -22,10 +22,10 @@ summary: ''
 
 (1) In paragraph 1 of Schedule 1 to the Vehicle Excise and Registration Act 1994 (c. 22) (the general rate)—
 
-- (a)[^key-d84450147b610bcdf07c72a013227f3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d84450147b610bcdf07c72a013227f3f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (2A) (general rate of duty in case of vehicle with engine with cylinder capacity not exceeding 1,549 cubic centimetres) for “£105” substitute “ £110 ”.
 
-(2)[^key-d124e40e67e4767b5f792b90c9900240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d124e40e67e4767b5f792b90c9900240] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 1J of that Schedule (rates of duty applicable to light goods vehicles first registered on or after 1st March 2001)—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d84450147b610bcdf07c72a013227f3f]: Textual amendment: [S. 14(1)(a)](https://www.legislation.gov.uk/ukpga/2003/14/section/14/1/a) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
+[^c-d84450147b610bcdf07c72a013227f3f]: Textual amendment: [S. 14(1)(a)](https://www.legislation.gov.uk/ukpga/2003/14/section/14/1/a) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
 
-[^key-d124e40e67e4767b5f792b90c9900240]: Textual amendment: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/14/2) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
+[^c-d124e40e67e4767b5f792b90c9900240]: Textual amendment: [S. 14(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/14/2) repealed (7.4.2005) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)

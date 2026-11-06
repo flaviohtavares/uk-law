@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Enforcement of public service remits[^key-bfcf9991b0ac3329b8fb335779a4c932][^key-1b591d87dcdb2963956fb7fc7883ddb8]
+## 6. Enforcement of public service remits[^c-bfcf9991b0ac3329b8fb335779a4c932][^c-1b591d87dcdb2963956fb7fc7883ddb8]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bfcf9991b0ac3329b8fb335779a4c932]: Commencement: S. 6 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
+[^c-bfcf9991b0ac3329b8fb335779a4c932]: Commencement: S. 6 not in force at Royal Assent, see [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a)
 
-[^key-1b591d87dcdb2963956fb7fc7883ddb8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2024/15/section/6) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/f)
+[^c-1b591d87dcdb2963956fb7fc7883ddb8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2024/15/section/6) in force at 1.1.2026 by [S.I. 2025/1049](https://www.legislation.gov.uk/uksi/2025/1049), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2025/1049/regulation/3/f)

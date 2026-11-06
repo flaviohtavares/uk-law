@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 24 — Section 327A of Criminal Justice Act 2003: meaning of “child sex offence”[^key-18045a60d852a82fa2688f1f32189ea8]
+## SCHEDULE 24 — Section 327A of Criminal Justice Act 2003: meaning of “child sex offence”[^c-18045a60d852a82fa2688f1f32189ea8]
 
 *Extent: E+W*
 
@@ -99,4 +99,4 @@ The following is the Schedule to be inserted as Schedule 34A to the Criminal Jus
 
 ## Annotations
 
-[^key-18045a60d852a82fa2688f1f32189ea8]: Commencement: [Sch. 24](https://www.legislation.gov.uk/ukpga/2008/4/schedule/24) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/43)
+[^c-18045a60d852a82fa2688f1f32189ea8]: Commencement: [Sch. 24](https://www.legislation.gov.uk/ukpga/2008/4/schedule/24) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/43)

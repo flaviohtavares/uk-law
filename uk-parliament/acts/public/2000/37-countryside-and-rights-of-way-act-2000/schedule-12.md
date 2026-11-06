@@ -48,7 +48,7 @@ Section 81(1).
 
 **5.** In section 9 of that Act (protection of certain wild animals)—
 
-- (a)[^key-01c61662d8b8d037831456a8646d36e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-01c61662d8b8d037831456a8646d36e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after that subsection there is inserted—
 
   > (4A) Subject to the provisions of this Part, if any person intentionally or recklessly disturbs any wild animal included in Schedule 5 as—
@@ -62,7 +62,7 @@ Section 81(1).
 
 **7.** In section 19 of that Act (enforcement of Part I), in subsection (3) for the words from “suspecting that” to “has been committed” there is substituted “ suspecting that an offence under this Part has been committed ”.
 
-**8.**[^key-c8914f99e1d4dfcff482af5da13b5275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c8914f99e1d4dfcff482af5da13b5275] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** (1) In section 20 of that Act (time limit for summary prosecution of certain offences under Part I)—
 
@@ -116,8 +116,8 @@ Section 81(1).
 
 ## Annotations
 
-[^key-01c61662d8b8d037831456a8646d36e3]: Textual amendment: [Sch. 12 para. 5(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/12/paragraph/5/a) omitted (21.8.2007) by virtue of [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/2/1), [8](https://www.legislation.gov.uk/uksi/2007/1843/regulation/8)
+[^c-01c61662d8b8d037831456a8646d36e3]: Textual amendment: [Sch. 12 para. 5(a)](https://www.legislation.gov.uk/ukpga/2000/37/schedule/12/paragraph/5/a) omitted (21.8.2007) by virtue of [The Conservation (Natural Habitats, &c.) (Amendment) Regulations 2007 (S.I. 2007/1843)](https://www.legislation.gov.uk/uksi/2007/1843), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2007/1843/regulation/2/1), [8](https://www.legislation.gov.uk/uksi/2007/1843/regulation/8)
 
-[^key-c8914f99e1d4dfcff482af5da13b5275]: Textual amendment: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2000/37/schedule/12/paragraph/8) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
+[^c-c8914f99e1d4dfcff482af5da13b5275]: Textual amendment: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2000/37/schedule/12/paragraph/8) repealed (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 12](https://www.legislation.gov.uk/ukpga/2006/16/schedule/12); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2)
 
 [^c1057214]: Textual amendment: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2000/37/schedule/12/paragraph/13) repealed (1.10.2002) by [2002 c. 30](https://www.legislation.gov.uk/ukpga/2002/30), [s. 107](https://www.legislation.gov.uk/ukpga/2002/30/section/107), [Sch. 8](https://www.legislation.gov.uk/ukpga/2002/30/schedule/8); [S.I. 2002/2306](https://www.legislation.gov.uk/uksi/2002/2306), [art. 2(g)(iii)(h)](https://www.legislation.gov.uk/uksi/2002/2306/article/2/g/iii/h)

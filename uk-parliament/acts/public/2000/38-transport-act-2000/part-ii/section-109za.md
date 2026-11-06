@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109ZA. Combined authorities and combined county authorities: adoption of local transport plans[^key-76b1bf3230a98851e8fdb02fad25f5d0]
+## 109ZA. Combined authorities and combined county authorities: adoption of local transport plans[^c-76b1bf3230a98851e8fdb02fad25f5d0]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ the decision is to be made by a simple majority of the other relevant members pr
 
 ## Annotations
 
-[^key-76b1bf3230a98851e8fdb02fad25f5d0]: Textual amendment: S. 109ZA inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/12/paragraph/4) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-76b1bf3230a98851e8fdb02fad25f5d0]: Textual amendment: S. 109ZA inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/12/paragraph/4) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

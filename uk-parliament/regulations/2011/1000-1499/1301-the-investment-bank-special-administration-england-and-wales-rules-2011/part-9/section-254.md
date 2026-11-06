@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 254. Record of examination[^key-df61f8044c8fcf55ed344611992f62de]
+## 254. Record of examination[^c-df61f8044c8fcf55ed344611992f62de]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df61f8044c8fcf55ed344611992f62de]: Commencement: [Rule 254](https://www.legislation.gov.uk/uksi/2011/1301/rule/254) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-df61f8044c8fcf55ed344611992f62de]: Commencement: [Rule 254](https://www.legislation.gov.uk/uksi/2011/1301/rule/254) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

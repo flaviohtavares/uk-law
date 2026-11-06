@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Development planning: further amendments[^c22542721][^key-e6013e7e3d76697425ef869cf25c8c6d]
+## 16. Development planning: further amendments[^c22542721][^c-e6013e7e3d76697425ef869cf25c8c6d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ For further amendments relating to development planning, see Schedule 2.
 
 [^c22542721]: Commencement: S. 16 partly in force; s. 16 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-e6013e7e3d76697425ef869cf25c8c6d]: Commencement: S. 16 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)
+[^c-e6013e7e3d76697425ef869cf25c8c6d]: Commencement: S. 16 in force at 4.12.2020 in so far as not already in force by [S.I. 2020/1216](https://www.legislation.gov.uk/wsi/2020/1216), [reg. 2(a)](https://www.legislation.gov.uk/wsi/2020/1216/regulation/2/a)

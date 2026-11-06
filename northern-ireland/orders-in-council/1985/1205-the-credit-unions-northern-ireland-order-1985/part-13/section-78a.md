@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78A. Incidental, transitional, etc. provision[^key-fbfd42156f4e5e648a303ee51bd1a764]
+## 78A. Incidental, transitional, etc. provision[^c-fbfd42156f4e5e648a303ee51bd1a764]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ An order under any of the following may contain such incidental, transitional, t
 
 ## Annotations
 
-[^key-fbfd42156f4e5e648a303ee51bd1a764]: Textual amendment: Art. 78A inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17](https://www.legislation.gov.uk/nia/2016/16/section/17), [Sch. 1 para. 44](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/44)
+[^c-fbfd42156f4e5e648a303ee51bd1a764]: Textual amendment: Art. 78A inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17](https://www.legislation.gov.uk/nia/2016/16/section/17), [Sch. 1 para. 44](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/44)

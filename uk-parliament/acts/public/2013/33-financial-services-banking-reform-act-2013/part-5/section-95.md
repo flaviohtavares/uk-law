@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Disclosure of information by Bank to Regulator[^key-215d5950c5cb9ada873697a2b0d43b77]
+## 95. Disclosure of information by Bank to Regulator[^c-215d5950c5cb9ada873697a2b0d43b77]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In section 246 of the Banking Act 2009 (information), in subsection (2), after p
 
 ## Annotations
 
-[^key-215d5950c5cb9ada873697a2b0d43b77]: Commencement: S. 95 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)
+[^c-215d5950c5cb9ada873697a2b0d43b77]: Commencement: S. 95 in force at 1.3.2014 by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/1)

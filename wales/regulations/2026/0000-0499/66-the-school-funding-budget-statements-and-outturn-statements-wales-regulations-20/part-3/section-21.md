@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Additional factors or criteria[^key-0b52f91b819a48b25c0a7cdb89b1a133]
+## 21. Additional factors or criteria[^c-0b52f91b819a48b25c0a7cdb89b1a133]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b52f91b819a48b25c0a7cdb89b1a133]: Commencement: Reg. 21 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-0b52f91b819a48b25c0a7cdb89b1a133]: Commencement: Reg. 21 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

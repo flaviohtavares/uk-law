@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.2. Discontinuing a case[^key-2adb585210de074496433f040498e912]
+## 12.2. Discontinuing a case[^c-2adb585210de074496433f040498e912]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2adb585210de074496433f040498e912]: Commencement: [Rule 12.2](https://www.legislation.gov.uk/uksi/2025/909/rule/12.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2adb585210de074496433f040498e912]: Commencement: [Rule 12.2](https://www.legislation.gov.uk/uksi/2025/909/rule/12.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

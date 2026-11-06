@@ -43,17 +43,17 @@ The Department for Social Development makes the following Regulations in exercis
 
 The Social Security Advisory Committee has agreed that proposals in respect of these Regulations should not be referred to it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-3d59c3c3a6df1ccc8e45e9be4dd3fa94]
+## 1. Citation, commencement and interpretation[^c-3d59c3c3a6df1ccc8e45e9be4dd3fa94]
 
 (1) These Regulations may be cited as the Housing Benefit (Executive Determinations) (Amendment) Regulations (Northern Ireland) 2008 and shall come into operation on 5th January 2009.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Housing Benefit (Executive Determinations) Regulations[^key-fbe832d4fc76d9645bb78f9c12a812e2]
+## 2. Amendment of the Housing Benefit (Executive Determinations) Regulations[^c-fbe832d4fc76d9645bb78f9c12a812e2]
 
 In the Schedule to the Housing Benefit (Executive Determinations) Regulations (Northern Ireland) 2008[^f00005] (broad rental market area determinations and local housing allowance determinations)—
 
-- (a)[^key-731525c9d8f31ed7bba62fa2881d0d4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-731525c9d8f31ed7bba62fa2881d0d4e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph 4 (broad rental market area) substitute—
 
   > **4.** In this Schedule “broad rental market area” means an area within which a person could reasonably be expected to live having regard to facilities and services for the purposes of health, education, recreation, personal banking and shopping, taking account of the distance of travel, by public and private transport, to and from those facilities and services.
@@ -89,12 +89,12 @@ The Regulations substitute the definition of “broad rental market area” in t
 
 [^f00003]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-3d59c3c3a6df1ccc8e45e9be4dd3fa94]: Commencement: Reg. 1 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/506/regulation/1/1)
+[^c-3d59c3c3a6df1ccc8e45e9be4dd3fa94]: Commencement: Reg. 1 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/506/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-fbe832d4fc76d9645bb78f9c12a812e2]: Commencement: Reg. 2 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/506/regulation/1/1)
+[^c-fbe832d4fc76d9645bb78f9c12a812e2]: Commencement: Reg. 2 in operation at 5.1.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/506/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2008 No. 100](https://www.legislation.gov.uk/nisr/2008/100)
 
-[^key-731525c9d8f31ed7bba62fa2881d0d4e]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2008/506/regulation/2/a) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)
+[^c-731525c9d8f31ed7bba62fa2881d0d4e]: Textual amendment: [Reg. 2(a)](https://www.legislation.gov.uk/nisr/2008/506/regulation/2/a) revoked (13.1.2014) by [The Housing Benefit (Executive Determinations and Local Housing Allowance) (Amendment) Regulations (Northern Ireland) 2013 (S.R. 2013/303)](https://www.legislation.gov.uk/nisr/2013/303), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/303/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2013/303/regulation/3), [Sch.](https://www.legislation.gov.uk/nisr/2013/303/schedule)

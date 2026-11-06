@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15.[^key-2efebfb9b429278364089a941ce14a4f]
+## 15.[^c-2efebfb9b429278364089a941ce14a4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 57 (application of certain exemptions), in subsection (2)(a), after â
 
 ## Annotations
 
-[^key-2efebfb9b429278364089a941ce14a4f]: Commencement: Reg. 15 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-2efebfb9b429278364089a941ce14a4f]: Commencement: Reg. 15 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

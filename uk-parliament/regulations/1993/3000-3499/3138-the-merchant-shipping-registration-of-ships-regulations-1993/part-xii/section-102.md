@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Copy of notice to be sent to mortgagee[^key-9062513bf249f906d5696b31d4488e94]
+## 102. Copy of notice to be sent to mortgagee[^c-9062513bf249f906d5696b31d4488e94]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where the Registrar serves a notice under regulation 101 on the owner of a vesse
 
 ## Annotations
 
-[^key-9062513bf249f906d5696b31d4488e94]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/1993/3138/regulation/102) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-9062513bf249f906d5696b31d4488e94]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/1993/3138/regulation/102) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)

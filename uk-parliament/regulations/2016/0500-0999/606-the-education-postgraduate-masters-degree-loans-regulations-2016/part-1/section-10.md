@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Time limits[^key-9bf4f7a474b7047100f9affbc0897c05]
+## 10. Time limits[^c-9bf4f7a474b7047100f9affbc0897c05]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bf4f7a474b7047100f9affbc0897c05]: Textual amendment: Reg. 10 substituted (11.6.2018) by [The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018 (S.I. 2018/599)](https://www.legislation.gov.uk/uksi/2018/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/599/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2018/599/regulation/62)
+[^c-9bf4f7a474b7047100f9affbc0897c05]: Textual amendment: Reg. 10 substituted (11.6.2018) by [The Education (Postgraduate Doctoral Degree Loans and the Education (Student Loans) (Repayment) (Amendment) (No. 2) etc.) Regulations 2018 (S.I. 2018/599)](https://www.legislation.gov.uk/uksi/2018/599), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/599/regulation/1/1), [62](https://www.legislation.gov.uk/uksi/2018/599/regulation/62)

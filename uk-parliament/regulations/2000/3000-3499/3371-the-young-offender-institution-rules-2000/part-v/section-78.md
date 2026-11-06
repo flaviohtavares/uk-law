@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-Any person directly or indirectly interested in any contract for the supply of goods or services to a young offender institution shall not be a member of the independent monitoring board[^key-720a830fa6aed00fd298f29078fd0cb2] for that institution and any member who becomes so interested in such a contract shall vacate office as a member.
+Any person directly or indirectly interested in any contract for the supply of goods or services to a young offender institution shall not be a member of the independent monitoring board[^c-720a830fa6aed00fd298f29078fd0cb2] for that institution and any member who becomes so interested in such a contract shall vacate office as a member.
 
 ## Annotations
 
-[^key-720a830fa6aed00fd298f29078fd0cb2]: Textual amendment: Words in [rule 78](https://www.legislation.gov.uk/uksi/2000/3371/rule/78) substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/a)
+[^c-720a830fa6aed00fd298f29078fd0cb2]: Textual amendment: Words in [rule 78](https://www.legislation.gov.uk/uksi/2000/3371/rule/78) substituted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [4(a)](https://www.legislation.gov.uk/uksi/2008/599/rule/4/a)

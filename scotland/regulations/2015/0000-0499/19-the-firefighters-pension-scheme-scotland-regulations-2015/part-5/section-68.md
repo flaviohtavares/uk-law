@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Review of ill-health award or early payment of retirement pension[^key-4736cffee8dbbfb2ef0050dee9f97c5c][^key-abb108e3658ab90e5850dcd99d78d58f]
+## 68. Review of ill-health award or early payment of retirement pension[^c-4736cffee8dbbfb2ef0050dee9f97c5c][^c-abb108e3658ab90e5850dcd99d78d58f]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4736cffee8dbbfb2ef0050dee9f97c5c]: Commencement: [Reg. 68](https://www.legislation.gov.uk/ssi/2015/19/regulation/68) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-4736cffee8dbbfb2ef0050dee9f97c5c]: Commencement: [Reg. 68](https://www.legislation.gov.uk/ssi/2015/19/regulation/68) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
-[^key-abb108e3658ab90e5850dcd99d78d58f]: Modification: [Reg. 68](https://www.legislation.gov.uk/ssi/2015/19/regulation/68) applied (1.4.2015) by [S.S.I. 2006/338](https://www.legislation.gov.uk/ssi/2006/338), [Sch. 1 Scheme Pt. 8 rule 2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2006/338/schedule/1/schedule) as substituted by [The Firefighters’ Compensation Scheme and Pension Scheme (Amendment) (Scotland) Order 2015 (S.S.I. 2015/143)](https://www.legislation.gov.uk/ssi/2015/143), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2015/143/article/1/3), [9(c)](https://www.legislation.gov.uk/ssi/2015/143/article/9/c))
+[^c-abb108e3658ab90e5850dcd99d78d58f]: Modification: [Reg. 68](https://www.legislation.gov.uk/ssi/2015/19/regulation/68) applied (1.4.2015) by [S.S.I. 2006/338](https://www.legislation.gov.uk/ssi/2006/338), [Sch. 1 Scheme Pt. 8 rule 2(4)(b)(ii)](https://www.legislation.gov.uk/ssi/2006/338/schedule/1/schedule) as substituted by [The Firefighters’ Compensation Scheme and Pension Scheme (Amendment) (Scotland) Order 2015 (S.S.I. 2015/143)](https://www.legislation.gov.uk/ssi/2015/143), [arts. 1(3)](https://www.legislation.gov.uk/ssi/2015/143/article/1/3), [9(c)](https://www.legislation.gov.uk/ssi/2015/143/article/9/c))

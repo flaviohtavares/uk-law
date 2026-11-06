@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1[^key-06cee4a1d1c852012c809f4c5de03625]
+## SCHEDULE 1[^c-06cee4a1d1c852012c809f4c5de03625]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ Regulation 3
 
 ## Annotations
 
-[^key-06cee4a1d1c852012c809f4c5de03625]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2003/493/schedule/1) revoked (5.12.2022) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/288)](https://www.legislation.gov.uk/nisr/2022/288), [regs. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1), [6](https://www.legislation.gov.uk/nisr/2022/288/regulation/6)
+[^c-06cee4a1d1c852012c809f4c5de03625]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2003/493/schedule/1) revoked (5.12.2022) by [The Waste Management Licensing (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/288)](https://www.legislation.gov.uk/nisr/2022/288), [regs. 1](https://www.legislation.gov.uk/nisr/2022/288/regulation/1), [6](https://www.legislation.gov.uk/nisr/2022/288/regulation/6)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-4ad689d2ab119ef473305ff27a146457] This section applies where an employment-related loan is a taxable cheap loan in relation to a tax year.
+(A1)[^c-4ad689d2ab119ef473305ff27a146457] This section applies where an employment-related loan is a taxable cheap loan in relation to a tax year.
 
 (1) The cash equivalent of the benefit of the loan is to be treated as earnings from the employee's employment for the tax year.
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ad689d2ab119ef473305ff27a146457]: Textual amendment: [S. 175(A1)-(1B)](https://www.legislation.gov.uk/ukpga/2003/1/section/175/A1) substituted for s. 175(1) (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/43)
+[^c-4ad689d2ab119ef473305ff27a146457]: Textual amendment: [S. 175(A1)-(1B)](https://www.legislation.gov.uk/ukpga/2003/1/section/175/A1) substituted for s. 175(1) (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 43](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/43)

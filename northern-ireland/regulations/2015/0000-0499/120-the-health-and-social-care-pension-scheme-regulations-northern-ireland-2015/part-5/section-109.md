@@ -69,7 +69,7 @@ but a person falling within paragraph (8) is not to be regarded as a pensioner f
 
 - (a) a pension that is forfeited—
   - (i) as a result of a conviction for treason, or
-  - (ii) in a case where an offence within paragraph 12(2)(b) of Schedule 3[^key-e0639a100c66173b90e4175d4c3fc981]... is committed,
+  - (ii) in a case where an offence within paragraph 12(2)(b) of Schedule 3[^c-e0639a100c66173b90e4175d4c3fc981]... is committed,
 - (b) a pension that is commuted under regulation 108 (Option for members in serious ill- health to exchange whole pension for lump sum), or
 - (c) a pension that is commuted under paragraph 6 of Schedule 3 (Commutation of small pensions) where the conditions in regulation 60 of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 [^c22440631] are met,
 
@@ -89,6 +89,6 @@ but if any other provision of this scheme is inconsistent with this regulation, 
 
 [^c22440621]: Marginal citation: [Section 5(2B)](https://www.legislation.gov.uk/nisr/2015/120/section/5/2B) was inserted by the Pensions (Northern Ireland) Order 1995, ([S.I. 1995/3213 (N.I.22)](https://www.legislation.gov.uk/nisi/1995/3213)) Article 133(3) and amended by the [Social Security Contributions (Transfer of Functions, etc) (Northern Ireland) Order 1999 (S.I. 1999/671)](https://www.legislation.gov.uk/uksi/1999/671) Schedule 1 paragraph 38(2)
 
-[^key-e0639a100c66173b90e4175d4c3fc981]: Textual amendment: Words in [reg. 109(10)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/120/regulation/109/10/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 44(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/44/3)
+[^c-e0639a100c66173b90e4175d4c3fc981]: Textual amendment: Words in [reg. 109(10)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/120/regulation/109/10/a/ii) omitted (20.12.2023) by virtue of [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 44(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/44/3)
 
 [^c22440631]: Marginal citation: [Regulation 60](https://www.legislation.gov.uk/nisr/2015/120/regulation/60) was substituted by Article 28(10) of [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744) and amended by S.R. [2006 No.223](https://www.legislation.gov.uk/ukcm/2006/223), S.R. [2009 No.365](https://www.legislation.gov.uk/ukcm/2009/365) and S.R. [2010 No.108](https://www.legislation.gov.uk/ukcm/2010/108)

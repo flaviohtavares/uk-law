@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 88. Devolved benefits[^key-4b64607158acede846ab6a2ba62e1a51]
+## 88. Devolved benefits[^c-4b64607158acede846ab6a2ba62e1a51]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ In the Social Security Administration Act 1992, after section 121D, insert—
 
 ## Annotations
 
-[^key-4b64607158acede846ab6a2ba62e1a51]: Commencement: S. 88 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-4b64607158acede846ab6a2ba62e1a51]: Commencement: S. 88 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

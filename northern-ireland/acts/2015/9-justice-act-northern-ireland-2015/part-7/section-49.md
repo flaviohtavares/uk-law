@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Live links: accused at committal proceedings[^key-3f2f741c6981b9a8f3698880855d0559]
+## 49. Live links: accused at committal proceedings[^c-3f2f741c6981b9a8f3698880855d0559]
 
 *Extent: N.I.*
 
@@ -54,7 +54,7 @@ summary: ''
 - (a) that A is not able to see and hear the court and to be seen and heard by it, and
 - (b) that this cannot be immediately corrected, the court must adjourn the proceedings.
 
-(12)[^key-23af2f5f6971d3642117c3fb8a72dd7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-23af2f5f6971d3642117c3fb8a72dd7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) In this section—
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f2f741c6981b9a8f3698880855d0559]: Commencement: [S. 49](https://www.legislation.gov.uk/nia/2015/9/section/49) in operation at 29.4.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(a)](https://www.legislation.gov.uk/nisr/2016/136/article/4/a)
+[^c-3f2f741c6981b9a8f3698880855d0559]: Commencement: [S. 49](https://www.legislation.gov.uk/nia/2015/9/section/49) in operation at 29.4.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(a)](https://www.legislation.gov.uk/nisr/2016/136/article/4/a)
 
-[^key-23af2f5f6971d3642117c3fb8a72dd7c]: Textual amendment: [S. 49(12)](https://www.legislation.gov.uk/nia/2015/9/section/49/12) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 18(c)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/18/c); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-23af2f5f6971d3642117c3fb8a72dd7c]: Textual amendment: [S. 49(12)](https://www.legislation.gov.uk/nia/2015/9/section/49/12) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 18(c)](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/18/c); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)

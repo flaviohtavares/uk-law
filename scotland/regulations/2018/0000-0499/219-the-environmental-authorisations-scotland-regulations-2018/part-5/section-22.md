@@ -30,7 +30,7 @@ summary: ''
 
 (2) SEPA may specify in a permit that the permit ceases to have effect on a specified date.
 
-(3) In granting or varying[^key-7a716e4b7401573617bab887244fdfc9] a permit, SEPA may impose such conditions as it thinks fit including, in particular, either or both—
+(3) In granting or varying[^c-7a716e4b7401573617bab887244fdfc9] a permit, SEPA may impose such conditions as it thinks fit including, in particular, either or both—
 
 - (a) standard conditions;
 - (b) an off-site condition in accordance with schedule 2.
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a716e4b7401573617bab887244fdfc9]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/ssi/2018/219/regulation/22/3) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [13](https://www.legislation.gov.uk/ssi/2025/165/regulation/13) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-7a716e4b7401573617bab887244fdfc9]: Textual amendment: Words in [reg. 22(3)](https://www.legislation.gov.uk/ssi/2018/219/regulation/22/3) inserted (1.6.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3), [13](https://www.legislation.gov.uk/ssi/2025/165/regulation/13) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

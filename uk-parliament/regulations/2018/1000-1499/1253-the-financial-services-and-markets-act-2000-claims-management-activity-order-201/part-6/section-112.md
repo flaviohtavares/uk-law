@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 112. Damages-Based Agreements Regulations 2013[^key-71e71f1fb2d039dd8176537164de56b3][^key-eab0e274f42d7a4ae2753de1ae49497f]
+## 112. Damages-Based Agreements Regulations 2013[^c-71e71f1fb2d039dd8176537164de56b3][^c-eab0e274f42d7a4ae2753de1ae49497f]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ The Damages-Based Agreements Regulations 2013 continue to have effect in relatio
 
 ## Annotations
 
-[^key-71e71f1fb2d039dd8176537164de56b3]: Commencement: Art. 112 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-71e71f1fb2d039dd8176537164de56b3]: Commencement: Art. 112 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-eab0e274f42d7a4ae2753de1ae49497f]: Commencement: [Art. 112](https://www.legislation.gov.uk/uksi/2018/1253/article/112) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-eab0e274f42d7a4ae2753de1ae49497f]: Commencement: [Art. 112](https://www.legislation.gov.uk/uksi/2018/1253/article/112) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)

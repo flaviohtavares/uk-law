@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Amendment of regulation 27 (signing procedure: England and Wales and Scotland)[^key-e8f7d8dccf68cef90e5d13e79f2eca46]
+## 76. Amendment of regulation 27 (signing procedure: England and Wales and Scotland)[^c-e8f7d8dccf68cef90e5d13e79f2eca46]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e8f7d8dccf68cef90e5d13e79f2eca46]: Commencement: Reg. 76 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-e8f7d8dccf68cef90e5d13e79f2eca46]: Commencement: Reg. 76 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

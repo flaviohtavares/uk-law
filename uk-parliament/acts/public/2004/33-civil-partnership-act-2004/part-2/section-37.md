@@ -27,19 +27,19 @@ summary: ''
 - (c) make an order (a “**presumption of death order**”) which dissolves a civil partnership on the ground that one of the civil partners is presumed to be dead;
 - (d) make an order (a “**separation order**”) which provides for the separation of the civil partners.
 
-(2)[^key-d0171974e8de3611be2015834fcd7bd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d0171974e8de3611be2015834fcd7bd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) A nullity order made where a civil partnership is voidable annuls the civil partnership only as respects any time after the order has been made final, and the civil partnership is to be treated (despite the order) as if it had existed up to that time.
 
 (4) In this Chapter, other than in sections 58 to 61, “**the court**” means—
 
 - (a) the High Court, or
-- (b)[^key-f3b5417cc6f14b10d7f5cfd74449411b] the family court.
+- (b)[^c-f3b5417cc6f14b10d7f5cfd74449411b] the family court.
 
 (5) This Chapter is subject to sections 219 to 224 (jurisdiction of the court).
 
 ## Annotations
 
-[^key-d0171974e8de3611be2015834fcd7bd9]: Textual amendment: [S. 37(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/37/2) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2020/11/section/4/2), [8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-d0171974e8de3611be2015834fcd7bd9]: Textual amendment: [S. 37(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/37/2) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2020/11/section/4/2), [8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-f3b5417cc6f14b10d7f5cfd74449411b]: Textual amendment: S. 37(4)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 162](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/162); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-f3b5417cc6f14b10d7f5cfd74449411b]: Textual amendment: S. 37(4)(b) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 11 para. 162](https://www.legislation.gov.uk/ukpga/2013/22/schedule/11/paragraph/162); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/954/article/2/e) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))

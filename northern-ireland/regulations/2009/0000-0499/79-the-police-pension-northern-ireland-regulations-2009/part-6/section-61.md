@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Application of general regulations[^key-700d694b2ae071adf0ca9e6c57c05c1d]
+## 61. Application of general regulations[^c-700d694b2ae071adf0ca9e6c57c05c1d]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-700d694b2ae071adf0ca9e6c57c05c1d]: Commencement: Reg. 61 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-700d694b2ae071adf0ca9e6c57c05c1d]: Commencement: Reg. 61 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

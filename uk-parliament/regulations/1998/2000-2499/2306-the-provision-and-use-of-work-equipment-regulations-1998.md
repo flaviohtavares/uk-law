@@ -42,15 +42,15 @@ Coming into force
 
 5th December 1998
 
-The Secretary of State, in the exercise of the powers conferred on him by sections 15(1), (2), (3)(a), (5) and (6)(a), 49 and 82(3)(a) of, and paragraphs 1(1), (2) and (3), 9, 14, 15(1) and 16 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act, after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:[^key-826a52ddd27266e7b0fd39e295a84f7a]
+The Secretary of State, in the exercise of the powers conferred on him by sections 15(1), (2), (3)(a), (5) and (6)(a), 49 and 82(3)(a) of, and paragraphs 1(1), (2) and (3), 9, 14, 15(1) and 16 of Schedule 3 to, the Health and Safety at Work etc. Act 1974[^f00001] (“the 1974 Act”) and of all other powers enabling him in that behalf and for the purpose of giving effect without modifications to proposals submitted to him by the Health and Safety Commission under section 11(2)(d) of the 1974 Act, after the carrying out by the said Commission of consultations in accordance with section 50(3) of that Act, hereby makes the following Regulations:[^c-826a52ddd27266e7b0fd39e295a84f7a]
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-31ab3d0adeeda8d6ff57db3adaed6b6d]
+### 1. Citation and commencement[^c-31ab3d0adeeda8d6ff57db3adaed6b6d]
 
 These Regulations may be cited as the Provision and Use of Work Equipment Regulations 1998 and shall come into force on 5th December 1998.
 
-### 2. Interpretation[^key-3e7ea40410e1618b4d5fcda7abcb40d9]
+### 2. Interpretation[^c-3e7ea40410e1618b4d5fcda7abcb40d9]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -79,7 +79,7 @@ and related expressions shall be construed accordingly.
 - (a) a numbered regulation or Schedule is a reference to the regulation or Schedule in these Regulations so numbered; and
 - (b) a numbered paragraph is a reference to the paragraph so numbered in the regulation in which the reference appears.
 
-### 3. Application[^key-01538f2ef2649eff448240087e402986]
+### 3. Application[^c-01538f2ef2649eff448240087e402986]
 
 (1) These Regulations shall apply—
 
@@ -90,7 +90,7 @@ and related expressions shall be construed accordingly.
 
 (3) The requirements imposed by these Regulations on an employer shall also apply—
 
-- (a) to a relevant self-employed person[^key-58cc2904c6d095bb2b5e90b68498296a], in respect of work equipment he uses at work;
+- (a) to a relevant self-employed person[^c-58cc2904c6d095bb2b5e90b68498296a], in respect of work equipment he uses at work;
 - (b) subject to paragraph (5), to a person who has control to any extent of—
   - (i) work equipment;
   - (ii) a person at work who uses or supervises or manages the use of work equipment; or
@@ -119,7 +119,7 @@ and related expressions shall be construed accordingly.
 
 - “master” has the meaning assigned to it by section 313(1) of the Merchant Shipping Act 1995[^f00003];
 - “merchant shipping requirements” means the requirements of regulations 3 and 4 of the Merchant Shipping (Guarding of Machinery and Safety of Electrical Equipment) Regulations 1988[^f00004] and regulations 5 to 10 of the Merchant Shipping (Hatches and Lifting Plant) Regulations 1988[^f00005];
-- “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the[^key-85f75bf6ca17470c1d03a0ddce97f4a3] 1974 Act;
+- “relevant self-employed person” means a self-employed person who conducts an undertaking of a prescribed description for the purposes of section 3(2) of the[^c-85f75bf6ca17470c1d03a0ddce97f4a3] 1974 Act;
 - “ship” has the meaning assigned to it by section 313(1) of the Merchant Shipping Act 1995 save that it does not include an offshore installation;
 - “shore employer” means an employer of persons (other than the master and crew of any ship) who are engaged in a specified operation;
 - “specified operation” means an operation in which the ship’s work equipment is used—
@@ -128,7 +128,7 @@ and related expressions shall be construed accordingly.
 
 ## PART II — GENERAL
 
-### 4. Suitability of work equipment[^key-791638f82025f674a8a6a09e1f7ccc39]
+### 4. Suitability of work equipment[^c-791638f82025f674a8a6a09e1f7ccc39]
 
 (1) Every employer shall ensure that work equipment is so constructed or adapted as to be suitable for the purpose for which it is used or provided.
 
@@ -136,20 +136,20 @@ and related expressions shall be construed accordingly.
 
 (3) Every employer shall ensure that work equipment is used only for operations for which, and under conditions for which, it is suitable.
 
-(4)[^key-37f1722e4f4b6d13788ba23deadd18af] In this regulation “suitable”–
+(4)[^c-37f1722e4f4b6d13788ba23deadd18af] In this regulation “suitable”–
 
 - (a) subject to sub-paragraph (b), means suitable in any respect which it is reasonably foreseeable will affect the health or safety of any person;
 - (b) in relation to–
   - (i) an offensive weapon within the meaning of section 1(4) of the Prevention of Crime Act 1953 provided for use as self-defence or as deterrent equipment; and
   - (ii) work equipment provided for use for arrest or restraint, by a person who holds the office of constable or an appointment as police cadet, means suitable in any respect which it is reasonably foreseeable will affect the health or safety of such person.
 
-### 5. Maintenance[^key-07bccd2633b0efb52fd21cfcd7fe9fca]
+### 5. Maintenance[^c-07bccd2633b0efb52fd21cfcd7fe9fca]
 
 (1) Every employer shall ensure that work equipment is maintained in an efficient state, in efficient working order and in good repair.
 
 (2) Every employer shall ensure that where any machinery has a maintenance log, the log is kept up to date.
 
-### 6. Inspection[^key-c7e164eea279ac158044490ff838e2c9]
+### 6. Inspection[^c-c7e164eea279ac158044490ff838e2c9]
 
 (1) Every employer shall ensure that, where the safety of work equipment depends on the installation conditions, it is inspected—
 
@@ -179,11 +179,11 @@ unless it is accompanied by physical evidence that the last inspection required 
 - (a) a power press to which regulations 32 to 35 apply;
 - (b) a guard or protection device for the tools of such power press;
 - (c) work equipment for lifting loads including persons;
-- (d) winding apparatus to which the Mines Regulations 2014[^key-1402a9bc1d7a3ecddb19921d8842302f] apply;
-- (e) work equipment required to be inspected by regulations[^key-4c3ec41ae804d791ce9b6040c017daf2] 22(4) or 23(2)[^key-e4538a95b34c51798305750ca261e127] of the Construction (Design and Management) Regulations 2015;
-- (f)[^key-5228adff420bc322a99c84b28b0ce7cb] work equipment to which regulation 12 of the Work at Height Regulations 2005 applies.
+- (d) winding apparatus to which the Mines Regulations 2014[^c-1402a9bc1d7a3ecddb19921d8842302f] apply;
+- (e) work equipment required to be inspected by regulations[^c-4c3ec41ae804d791ce9b6040c017daf2] 22(4) or 23(2)[^c-e4538a95b34c51798305750ca261e127] of the Construction (Design and Management) Regulations 2015;
+- (f)[^c-5228adff420bc322a99c84b28b0ce7cb] work equipment to which regulation 12 of the Work at Height Regulations 2005 applies.
 
-### 7. Specific risks[^key-1710cae08e4b6443bf97b6ea9c964631]
+### 7. Specific risks[^c-1710cae08e4b6443bf97b6ea9c964631]
 
 (1) Where the use of work equipment is likely to involve a specific risk to health or safety, every employer shall ensure that—
 
@@ -192,7 +192,7 @@ unless it is accompanied by physical evidence that the last inspection required 
 
 (2) The employer shall ensure that the persons designated for the purposes of sub-paragraph (b) of paragraph (1) have received adequate training related to any operations in respect of which they have been so designated.
 
-### 8. Information and instructions[^key-31ace70ad208647b7ca9f4f7a4e15ce8]
+### 8. Information and instructions[^c-31ace70ad208647b7ca9f4f7a4e15ce8]
 
 (1) Every employer shall ensure that all persons who use work equipment have available to them adequate health and safety information and, where appropriate, written instructions pertaining to the use of the work equipment.
 
@@ -206,28 +206,28 @@ unless it is accompanied by physical evidence that the last inspection required 
 
 (4) Information and instructions required by this regulation shall be readily comprehensible to those concerned.
 
-### 9. Training[^key-cc30e504c7c1767fbe982d20ab52a613]
+### 9. Training[^c-cc30e504c7c1767fbe982d20ab52a613]
 
 (1) Every employer shall ensure that all persons who use work equipment have received adequate training for purposes of health and safety, including training in the methods which may be adopted when using the work equipment, any risks which such use may entail and precautions to be taken.
 
 (2) Every employer shall ensure that any of his employees who supervises or manages the use of work equipment has received adequate training for purposes of health and safety, including training in the methods which may be adopted when using the work equipment, any risks which such use may entail and precautions to be taken.
 
-### 10. Conformity with Community requirements[^key-9cef3c7a453eec459265ae0261c025bc]
+### 10. Conformity with Community requirements[^c-9cef3c7a453eec459265ae0261c025bc]
 
-(1)[^key-3a889c58a4addc66f9e240705d4208b1] Every employer shall ensure that an item of work equipment conforms at all times with any essential requirements, other than requirements which, at the time of its being first supplied or put into service in any place in which these Regulations apply, did not apply to work equipment of its type.
+(1)[^c-3a889c58a4addc66f9e240705d4208b1] Every employer shall ensure that an item of work equipment conforms at all times with any essential requirements, other than requirements which, at the time of its being first supplied or put into service in any place in which these Regulations apply, did not apply to work equipment of its type.
 
 (2) In this regulation “essential requirements”, in relation to an item of work equipment, means requirements relating to the design and construction of work equipment of its type in any of the instruments listed in Schedule 1 (being instruments which give effect to Community directives concerning the safety of products).
 
 (3) This regulation applies to items of work equipment provided for use in the premises or undertaking of the employer for the first time after 31st December 1992.
 
-### 11. Dangerous parts of machinery[^key-0879b1ec64311a5e0ff365ee595186a5]
+### 11. Dangerous parts of machinery[^c-0879b1ec64311a5e0ff365ee595186a5]
 
 (1) Every employer shall ensure that measures are taken in accordance with paragraph (2) which are effective—
 
 - (a) to prevent access to any dangerous part of machinery or to any rotating stock-bar; or
 - (b) to stop the movement of any dangerous part of machinery or rotating stock-bar before any part of a person enters a danger zone.
 
-(2)[^key-1086bc1c60cb03ca84a8edeff4f2fada] The measures required by paragraph (1) shall consist of—
+(2)[^c-1086bc1c60cb03ca84a8edeff4f2fada] The measures required by paragraph (1) shall consist of—
 
 - (a) the provision of fixed guards enclosing every dangerous part or rotating stock-bar where and to the extent that it is practicable to do so, but where or to the extent that it is not, then
 - (b) the provision of other guards or protection devices where and to the extent that it is practicable to do so, but where or to the extent that it is not, then
@@ -253,7 +253,7 @@ and the provision of such information, instruction, training and supervision as 
 - “danger zone” means any zone in or around machinery in which a person is exposed to a risk to health or safety from contact with a dangerous part of machinery or a rotating stock-bar;
 - “stock-bar” means any part of a stock-bar which projects beyond the head-stock of a lathe.
 
-### 12. Protection against specified hazards[^key-09b796526ea647c2e66a1d649958c9da]
+### 12. Protection against specified hazards[^c-09b796526ea647c2e66a1d649958c9da]
 
 (1) Every employer shall take measures to ensure that the exposure of a person using work equipment to any risk to his health or safety from any hazard specified in paragraph (3) is either prevented, or, where that is not reasonably practicable, adequately controlled.
 
@@ -275,18 +275,18 @@ and the provision of such information, instruction, training and supervision as 
 (5) This regulation shall not apply where any of the following Regulations apply in respect of any risk to a person’s health or safety for which such Regulations require measures to be taken to prevent or control such risk, namely—
 
 - (a) the Ionising Radiations Regulations 1985[^f00008];
-- (b) the Control of Asbestos Regulations 2012[^key-a2351f866f87d166c4fe098cd758b234];
+- (b) the Control of Asbestos Regulations 2012[^c-a2351f866f87d166c4fe098cd758b234];
 - (c) the Control of Substances Hazardous to Health Regulations 1994[^f00010];
-- (d) the Control of Noise at Work Regulations 2005[^key-60eba6e498bad47747ed223d577e2960];
-- (e)[^key-6ba21eb42754480e27cd4f54af7712f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) the Control of Noise at Work Regulations 2005[^c-60eba6e498bad47747ed223d577e2960];
+- (e)[^c-6ba21eb42754480e27cd4f54af7712f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the Control of Lead at Work Regulations 1998[^f00013];
-- (g)[^key-07be6fbc77d5e8ffeede6eee0c7907b6] the Control of Vibration at Work Regulations 2005.
+- (g)[^c-07be6fbc77d5e8ffeede6eee0c7907b6] the Control of Vibration at Work Regulations 2005.
 
-### 13. High or very low temperature[^key-b92f7a196bd92ff5f5fa71101f48101a]
+### 13. High or very low temperature[^c-b92f7a196bd92ff5f5fa71101f48101a]
 
 Every employer shall ensure that work equipment, parts of work equipment and any article or substance produced, used or stored in work equipment which, in each case, is at a high or very low temperature shall have protection where appropriate so as to prevent injury to any person by burn, scald or sear.
 
-### 14. Controls for starting or making a significant change in operating conditions[^key-ffa951eb43589f352476dba676249e95]
+### 14. Controls for starting or making a significant change in operating conditions[^c-ffa951eb43589f352476dba676249e95]
 
 (1) Every employer shall ensure that, where appropriate, work equipment is provided with one or more controls for the purposes of—
 
@@ -297,7 +297,7 @@ Every employer shall ensure that work equipment, parts of work equipment and any
 
 (3) Paragraph (1) shall not apply to re-starting or changing operating conditions as a result of the normal operating cycle of an automatic device.
 
-### 15. Stop controls[^key-4c6eeea7b9e89e288cea84ea8a721ebb]
+### 15. Stop controls[^c-4c6eeea7b9e89e288cea84ea8a721ebb]
 
 (1) Every employer shall ensure that, where appropriate, work equipment is provided with one or more readily accessible controls the operation of which will bring the work equipment to a safe condition in a safe manner.
 
@@ -307,13 +307,13 @@ Every employer shall ensure that work equipment, parts of work equipment and any
 
 (4) Any control required by paragraph (1) shall operate in priority to any control which starts or changes the operating conditions of the work equipment.
 
-### 16. Emergency stop controls[^key-3ff7e5a7769816052dd575c545964fe3]
+### 16. Emergency stop controls[^c-3ff7e5a7769816052dd575c545964fe3]
 
 (1) Every employer shall ensure that, where appropriate, work equipment is provided with one or more readily accessible emergency stop controls unless it is not necessary by reason of the nature of the hazards and the time taken for the work equipment to come to a complete stop as a result of the action of any control provided by virtue of regulation 15(1).
 
 (2) Any control required by paragraph (1) shall operate in priority to any control required by regulation 15(1).
 
-### 17. Controls[^key-18d2bb66f9499bb0d0b1ff9324b067ee]
+### 17. Controls[^c-18d2bb66f9499bb0d0b1ff9324b067ee]
 
 (1) Every employer shall ensure that all controls for work equipment are clearly visible and identifiable, including by appropriate marking where necessary.
 
@@ -327,9 +327,9 @@ Every employer shall ensure that work equipment, parts of work equipment and any
 
 (4) Every employer shall take appropriate measures to ensure that any person who is in a place where he would be exposed to a risk to his health or safety as a result of the starting or stopping of work equipment has sufficient time and suitable means to avoid that risk.
 
-### 18. Control systems[^key-736522c76b42c35cfa7037aab26c917e]
+### 18. Control systems[^c-736522c76b42c35cfa7037aab26c917e]
 
-(1)[^key-2171497f7777939fecfd7d0c6aed5c42] Every employer shall ensure, so far as is reasonably practicable, that all control systems of work equipment—
+(1)[^c-2171497f7777939fecfd7d0c6aed5c42] Every employer shall ensure, so far as is reasonably practicable, that all control systems of work equipment—
 
 - (a) are safe; and
 - (b) are chosen making due allowance for the failures, faults and constraints to be expected in the planned circumstances of use.
@@ -340,7 +340,7 @@ Every employer shall ensure that work equipment, parts of work equipment and any
 - (b) it ensures, so far as is reasonably practicable, that any fault in or damage to any part of the control system or the loss of supply of any source of energy used by the work equipment cannot result in additional or increased risk to health or safety;
 - (c) it does not impede the operation of any control required by regulation 15 or 16.
 
-### 19. Isolation from sources of energy[^key-28003974ebe816477dbec991dcd8fb77]
+### 19. Isolation from sources of energy[^c-28003974ebe816477dbec991dcd8fb77]
 
 (1) Every employer shall ensure that where appropriate work equipment is provided with suitable means to isolate it from all its sources of energy.
 
@@ -348,26 +348,26 @@ Every employer shall ensure that work equipment, parts of work equipment and any
 
 (3) Every employer shall take appropriate measures to ensure that re-connection of any energy source to work equipment does not expose any person using the work equipment to any risk to his health or safety.
 
-### 20. Stability[^key-5eb3a63e4d31ba5fbb8992dab3eed616]
+### 20. Stability[^c-5eb3a63e4d31ba5fbb8992dab3eed616]
 
 Every employer shall ensure that work equipment or any part of work equipment is stabilised by clamping or otherwise where necessary for purposes of health or safety.
 
-### 21. Lighting[^key-999899ead2b99e0b64ad81a199ace725]
+### 21. Lighting[^c-999899ead2b99e0b64ad81a199ace725]
 
 Every employer shall ensure that suitable and sufficient lighting, which takes account of the operations to be carried out, is provided at any place where a person uses work equipment.
 
-### 22. Maintenance operations[^key-81469708d43f132b2bf53e6bfbec0da8]
+### 22. Maintenance operations[^c-81469708d43f132b2bf53e6bfbec0da8]
 
 Every employer shall take appropriate measures to ensure that work equipment is so constructed or adapted that, so far as is reasonably practicable, maintenance operations which involve a risk to health or safety can be carried out while the work equipment is shut down, or in other cases—
 
 - (a) maintenance operations can be carried out without exposing the person carrying them out to a risk to his health or safety; or
 - (b) appropriate measures can be taken for the protection of any person carrying out maintenance operations which involve a risk to his health or safety.
 
-### 23. Markings[^key-74b29a3528dee361fdc1535cf15f97ef]
+### 23. Markings[^c-74b29a3528dee361fdc1535cf15f97ef]
 
 Every employer shall ensure that work equipment is marked in a clearly visible manner with any marking appropriate for reasons of health and safety.
 
-### 24. Warnings[^key-af3ddc49b1c8193fc67c8394f3b36563]
+### 24. Warnings[^c-af3ddc49b1c8193fc67c8394f3b36563]
 
 (1) Every employer shall ensure that work equipment incorporates any warnings or warning devices which are appropriate for reasons of health and safety.
 
@@ -375,14 +375,14 @@ Every employer shall ensure that work equipment is marked in a clearly visible m
 
 ## PART III — MOBILE WORK EQUIPMENT
 
-### 25. Employees carried on mobile work equipment[^key-4493374f5b58376a88a9626a19fc5be2]
+### 25. Employees carried on mobile work equipment[^c-4493374f5b58376a88a9626a19fc5be2]
 
 Every employer shall ensure that no employee is carried by mobile work equipment unless—
 
 - (a) it is suitable for carrying persons; and
 - (b) it incorporates features for reducing to as low as is reasonably practicable risks to their safety, including risks from wheels or tracks.
 
-### 26. Rolling over of mobile work equipment[^key-6e875a4a93eb5ed1b21c36f9070d3b0d]
+### 26. Rolling over of mobile work equipment[^c-6e875a4a93eb5ed1b21c36f9070d3b0d]
 
 (1) Every employer shall ensure that where there is a risk to an employee riding on mobile work equipment from its rolling over, it is minimised by—
 
@@ -401,11 +401,11 @@ Every employer shall ensure that no employee is carried by mobile work equipment
 - (b) it would not be reasonably practicable to operate the mobile work equipment in consequence; or
 - (c) in relation to an item of work equipment provided for use in the undertaking or establishment before 5th December 1998 it would not be reasonably practicable.
 
-### 27. Overturning of fork-lift trucks[^key-ebce85cdfacac62cf4ce5d8f5c3ad7bd]
+### 27. Overturning of fork-lift trucks[^c-ebce85cdfacac62cf4ce5d8f5c3ad7bd]
 
 Every employer shall ensure that a fork-lift truck to which regulation 26(3) refers and which carries an employee is adapted or equipped to reduce to as low as is reasonably practicable the risk to safety from its overturning.
 
-### 28. Self-propelled work equipment[^key-06171f14d7e45d5e08896cd66a5a8763]
+### 28. Self-propelled work equipment[^c-06171f14d7e45d5e08896cd66a5a8763]
 
 Every employer shall ensure that, where self-propelled work equipment may, while in motion, involve risk to the safety of persons—
 
@@ -419,14 +419,14 @@ Every employer shall ensure that, where self-propelled work equipment may, while
   - (ii) is otherwise sufficiently safe for such use;
 - (g) if it, or anything carried or towed by it, constitutes a fire hazard and is liable to endanger employees, it carries appropriate fire-fighting equipment, unless such equipment is kept sufficiently close to it.
 
-### 29. Remote-controlled self-propelled work equipment[^key-993cbdcdbf4b7d4410626f1c355f0d41]
+### 29. Remote-controlled self-propelled work equipment[^c-993cbdcdbf4b7d4410626f1c355f0d41]
 
 Every employer shall ensure that where remote-controlled self-propelled work equipment involves a risk to safety while in motion—
 
 - (a) it stops automatically once it leaves its control range; and
 - (b) where the risk is of crushing or impact it incorporates features to guard against such risk unless other appropriate devices are able to do so.
 
-### 30. Drive shafts[^key-763d399e359204e615837f358e7cf00c]
+### 30. Drive shafts[^c-763d399e359204e615837f358e7cf00c]
 
 (1) Where the seizure of the drive shaft between mobile work equipment and its accessories or anything towed is likely to involve a risk to safety every employer shall—
 
@@ -442,11 +442,11 @@ the work equipment has a system for safeguarding the shaft.
 
 ## PART IV — POWER PRESSES
 
-### 31. Power presses to which Part IV does not apply[^key-a462000f0fae8b6a81bf1fa3b98f9371]
+### 31. Power presses to which Part IV does not apply[^c-a462000f0fae8b6a81bf1fa3b98f9371]
 
 Regulations 32 to 35 shall not apply to a power press of a kind which is described in Schedule 2.
 
-### 32. Thorough examination of power presses, guards and protection devices[^key-b4eb95069a1750fa4be8deb381c42ec4]
+### 32. Thorough examination of power presses, guards and protection devices[^c-b4eb95069a1750fa4be8deb381c42ec4]
 
 (1) Every employer shall ensure that a power press is not put into service for the first time after installation, or after assembly at a new site or in a new location unless—
 
@@ -479,7 +479,7 @@ Regulations 32 to 35 shall not apply to a power press of a kind which is describ
 
 (7) In this regulation “defect” means a defect notified under regulation 34 other than a defect which has not yet become a danger to persons.
 
-### 33. Inspection of guards and protection devices[^key-06d7330e5a9ee212f9f03ac57cd68ea5]
+### 33. Inspection of guards and protection devices[^c-06d7330e5a9ee212f9f03ac57cd68ea5]
 
 (1) Every employer shall ensure that a power press is not used after the setting, re-setting or adjustment of its tools, save in trying out its tools or save in die proving, unless—
 
@@ -508,7 +508,7 @@ and who has signed a certificate which complies with paragraph (3).
 - (a) the period in which the day’s or night’s work is done; or
 - (b) in premises where a shift system is in operation, a shift.
 
-### 34. Reports[^key-4913a8c665b962486c78a38f68228eb8]
+### 34. Reports[^c-4913a8c665b962486c78a38f68228eb8]
 
 (1) A person making a thorough examination for an employer under regulation 32 shall—
 
@@ -518,18 +518,18 @@ and who has signed a certificate which complies with paragraph (3).
 
 (2) A person making an inspection and test for an employer under regulation 33 shall forthwith notify the employer of any defect in a guard or protection device which in his opinion is or could become a danger to persons and the reason for his opinion.
 
-### 35. Keeping of information[^key-075b2f16ea44f054f29b249eb6f593a1]
+### 35. Keeping of information[^c-075b2f16ea44f054f29b249eb6f593a1]
 
 (1) Every employer shall ensure that the information in every report made pursuant to regulation 34(1) is kept available for inspection for 2 years after it is made.
 
-(2) Every employer shall ensure that a certificate under regulation 33[^key-990650a3fb5187879208e92f009a119c] is kept available for inspection—
+(2) Every employer shall ensure that a certificate under regulation 33[^c-990650a3fb5187879208e92f009a119c] is kept available for inspection—
 
 - (a) at or near the power press to which it relates until superseded by a later certificate; and
 - (b) after that, until 6 months have passed since it was signed.
 
 ## PART V — MISCELLANEOUS
 
-### 36. Exemption for the armed forces[^key-3a7232af1240d9e21803b385c245aed1]
+### 36. Exemption for the armed forces[^c-3a7232af1240d9e21803b385c245aed1]
 
 (1) The Secretary of State for Defence may, in the interests of national security, by a certificate in writing exempt any of the home forces, any visiting force or any headquarters from any requirement or prohibition imposed by these Regulations and any such exemption may be granted subject to conditions and to a limit of time and may be revoked by the said Secretary of State by a certificate in writing at any time.
 
@@ -539,15 +539,15 @@ and who has signed a certificate which complies with paragraph (3).
 - (b) “headquarters” has the same meaning as in article 3(2) of the Visiting Forces and International Headquarters (Application of Law) Order 1965[^f00016];
 - (c) “visiting force” has the same meaning as it does for the purposes of any provision of Part I of the Visiting Forces Act 1952.
 
-### 37. Transitional provision[^key-4cedeba5624f8ce16b8363ca2a0fe7d1]
+### 37. Transitional provision[^c-4cedeba5624f8ce16b8363ca2a0fe7d1]
 
 The requirements in regulations 25 to 30 shall not apply to work equipment provided for use in the undertaking or establishment before 5th December 1998 until 5th December 2002.
 
-### 38. Repeal of enactment[^key-c860c2787f6f70de3f0aea6228cd3489]
+### 38. Repeal of enactment[^c-c860c2787f6f70de3f0aea6228cd3489]
 
 Section 19 of the Offices, Shops and Railway Premises Act 1963[^f00017] is repealed.
 
-### 39. Revocation of instruments[^key-fc22e64268c97b24db8706e4c1b9a9bb]
+### 39. Revocation of instruments[^c-fc22e64268c97b24db8706e4c1b9a9bb]
 
 The instruments specified in column 1 of Schedule 4 are revoked to the extent specified in column 3 of that Schedule.
 
@@ -561,7 +561,7 @@ Department of the Environment, Transport and the Regions
 
 15th September 1998
 
-## SCHEDULE 1 — INSTRUMENTS WHICH GIVE EFFECT TO COMMUNITY DIRECTIVES CONCERNING THE SAFETY OF PRODUCTS[^key-54de0e307b58d6385191bce1cb3133f2]
+## SCHEDULE 1 — INSTRUMENTS WHICH GIVE EFFECT TO COMMUNITY DIRECTIVES CONCERNING THE SAFETY OF PRODUCTS[^c-54de0e307b58d6385191bce1cb3133f2]
 
 Regulation 10
 
@@ -599,9 +599,9 @@ Regulation 10
 </tbody>
 </table>
 
-[^key-93babd7121cbaf07375d195718f74af0][^key-93babd7121cbaf07375d195718f74af0][^key-1a9e1eb269d88f681ad9565d621c2321][^key-1a9e1eb269d88f681ad9565d621c2321][^key-6b9d42ed9a4289a7a8644990e6f577b3][^key-6b9d42ed9a4289a7a8644990e6f577b3][^key-01c0fba14417515e4ba3a49df9d4a97b][^key-01c0fba14417515e4ba3a49df9d4a97b][^key-d13812b95a7d6b12ed872e437cd8702c][^key-1ffe59cc6bdf0d29cd9cbe011759802a][^key-1ffe59cc6bdf0d29cd9cbe011759802a][^key-f861ffcba9591fc69715efe4fb5bdbb5][^key-f861ffcba9591fc69715efe4fb5bdbb5][^key-546b6a21b0b3779affd3682afc872bef][^key-137308ab63aa33f875e616f51cafcd0d][^key-137308ab63aa33f875e616f51cafcd0d][^key-087a87367e59fdac580e428108a58f1b][^key-2efe7b89286bcd600ef5ecabd48d1a46][^key-880bfb31591e82337c3ce7bb94dd8e56][^key-36111e12d9dd22594dfb1759eb78255d][^key-cfaa09663066813a3a2c8242bdfdd52b][^key-b8e9e91c383fd4989c3a880f2da77542][^key-88fb32f27ded547902c5a0dea5d0a4f5][^key-7e2c8545c55b221d830f4a841e583600]
+[^c-93babd7121cbaf07375d195718f74af0][^c-93babd7121cbaf07375d195718f74af0][^c-1a9e1eb269d88f681ad9565d621c2321][^c-1a9e1eb269d88f681ad9565d621c2321][^c-6b9d42ed9a4289a7a8644990e6f577b3][^c-6b9d42ed9a4289a7a8644990e6f577b3][^c-01c0fba14417515e4ba3a49df9d4a97b][^c-01c0fba14417515e4ba3a49df9d4a97b][^c-d13812b95a7d6b12ed872e437cd8702c][^c-1ffe59cc6bdf0d29cd9cbe011759802a][^c-1ffe59cc6bdf0d29cd9cbe011759802a][^c-f861ffcba9591fc69715efe4fb5bdbb5][^c-f861ffcba9591fc69715efe4fb5bdbb5][^c-546b6a21b0b3779affd3682afc872bef][^c-137308ab63aa33f875e616f51cafcd0d][^c-137308ab63aa33f875e616f51cafcd0d][^c-087a87367e59fdac580e428108a58f1b][^c-2efe7b89286bcd600ef5ecabd48d1a46][^c-880bfb31591e82337c3ce7bb94dd8e56][^c-36111e12d9dd22594dfb1759eb78255d][^c-cfaa09663066813a3a2c8242bdfdd52b][^c-b8e9e91c383fd4989c3a880f2da77542][^c-88fb32f27ded547902c5a0dea5d0a4f5][^c-7e2c8545c55b221d830f4a841e583600]
 
-## SCHEDULE 2 — POWER PRESSES TO WHICH REGULATIONS 32 TO 35 DO NOT APPLY[^key-d0edf4730b8c7a08c6a11f8f13e4d727]
+## SCHEDULE 2 — POWER PRESSES TO WHICH REGULATIONS 32 TO 35 DO NOT APPLY[^c-d0edf4730b8c7a08c6a11f8f13e4d727]
 
 Regulation 31
 
@@ -635,7 +635,7 @@ Regulation 31
 
 **15.** A power press for the compacting of metal powders.
 
-## SCHEDULE 3 — INFORMATION TO BE CONTAINED IN A REPORT OF A THOROUGH EXAMINATION OF A POWER PRESS, GUARD OR PROTECTION DEVICE[^key-73ec6557a647f58497877ed28f5659aa]
+## SCHEDULE 3 — INFORMATION TO BE CONTAINED IN A REPORT OF A THOROUGH EXAMINATION OF A POWER PRESS, GUARD OR PROTECTION DEVICE[^c-73ec6557a647f58497877ed28f5659aa]
 
 Regulation 34(1)(b)
 
@@ -689,7 +689,7 @@ Regulation 34(1)(b)
 
 **15.** The name of the person making the report and where different the name of the person signing or otherwise authenticating it.
 
-## SCHEDULE 4 — REVOCATION OF INSTRUMENTS[^key-6db2095b95280de5f0561e5b8d73ffc8]
+## SCHEDULE 4 — REVOCATION OF INSTRUMENTS[^c-6db2095b95280de5f0561e5b8d73ffc8]
 
 Regulation 39
 
@@ -715,7 +715,7 @@ Regulation 39
 </tbody>
 </table>
 
-[^key-7cbb5e7acdaf6ee86b1ddf3f010f2d00][^key-7cbb5e7acdaf6ee86b1ddf3f010f2d00][^key-7cbb5e7acdaf6ee86b1ddf3f010f2d00]
+[^c-7cbb5e7acdaf6ee86b1ddf3f010f2d00][^c-7cbb5e7acdaf6ee86b1ddf3f010f2d00][^c-7cbb5e7acdaf6ee86b1ddf3f010f2d00]
 
 (This note is not part of the Regulations)
 
@@ -761,17 +761,17 @@ and as permitted by Article 4.1(c) of the Directive give relief until 5th Decemb
 
 [^f00001]: Footnote: [1974 c. 37](https://www.legislation.gov.uk/ukpga/1974/37). Sections 15 and 50 were amended by the Employment Protection Act [1975 (c. 71)](https://www.legislation.gov.uk/ukpga/1975/71) Schedule 15, paragraphs 6 and 16 respectively. The general purposes of Part I of the 1974 Act were extended by section 1(1) of the Offshore Safety Act [1992 (c. 15)](https://www.legislation.gov.uk/ukpga/1992/15). Section 51A was inserted by section 1, and sections 52 and 53 were amended by sections 2 and 6 respectively, of the Police (Health and Safety) Act [1997 (c. 42)](https://www.legislation.gov.uk/ukpga/1997/42).
 
-[^key-826a52ddd27266e7b0fd39e295a84f7a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2306) modified (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [reg. 83(5)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/5) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
+[^c-826a52ddd27266e7b0fd39e295a84f7a]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1998/2306) modified (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [reg. 83(5)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/5) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
 
-[^key-31ab3d0adeeda8d6ff57db3adaed6b6d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-31ab3d0adeeda8d6ff57db3adaed6b6d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-3e7ea40410e1618b4d5fcda7abcb40d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/2306/regulation/2) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-3e7ea40410e1618b4d5fcda7abcb40d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1998/2306/regulation/2) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-01538f2ef2649eff448240087e402986]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2306/regulation/3) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-01538f2ef2649eff448240087e402986]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1998/2306/regulation/3) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1995/263](https://www.legislation.gov.uk/uksi/1995/263).
 
-[^key-58cc2904c6d095bb2b5e90b68498296a]: Textual amendment: Words in reg. 3(3)(a) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/4/a)
+[^c-58cc2904c6d095bb2b5e90b68498296a]: Textual amendment: Words in reg. 3(3)(a) substituted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 4(a)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/4/a)
 
 [^f00003]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
@@ -779,160 +779,160 @@ and as permitted by Article 4.1(c) of the Directive give relief until 5th Decemb
 
 [^f00005]: Footnote: [S.I. 1988/1639](https://www.legislation.gov.uk/uksi/1988/1639), amended by [S.I. 1988/2274](https://www.legislation.gov.uk/uksi/1988/2274).
 
-[^key-85f75bf6ca17470c1d03a0ddce97f4a3]: Textual amendment: Words in reg. 3(11) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/4/b)
+[^c-85f75bf6ca17470c1d03a0ddce97f4a3]: Textual amendment: Words in reg. 3(11) inserted (1.10.2015) by [The Deregulation Act 2015 (Health and Safety at Work) (General Duties of Self-Employed Persons) (Consequential Amendments) Order 2015 (S.I. 2015/1637)](https://www.legislation.gov.uk/uksi/2015/1637), [art. 1](https://www.legislation.gov.uk/uksi/2015/1637/article/1), [Sch. para. 4(b)](https://www.legislation.gov.uk/uksi/2015/1637/schedule/paragraph/4/b)
 
-[^key-791638f82025f674a8a6a09e1f7ccc39]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2306/regulation/4) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-791638f82025f674a8a6a09e1f7ccc39]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1998/2306/regulation/4) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-37f1722e4f4b6d13788ba23deadd18af]: Textual amendment: Reg. 4(4) substituted (14.4.1999) by [The Police (Health and Safety) Regulations 1999 (S.I. 1999/860)](https://www.legislation.gov.uk/uksi/1999/860), [regs. 1](https://www.legislation.gov.uk/uksi/1999/860/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/1999/860/regulation/5/1)
+[^c-37f1722e4f4b6d13788ba23deadd18af]: Textual amendment: Reg. 4(4) substituted (14.4.1999) by [The Police (Health and Safety) Regulations 1999 (S.I. 1999/860)](https://www.legislation.gov.uk/uksi/1999/860), [regs. 1](https://www.legislation.gov.uk/uksi/1999/860/regulation/1), [5(1)](https://www.legislation.gov.uk/uksi/1999/860/regulation/5/1)
 
-[^key-07bccd2633b0efb52fd21cfcd7fe9fca]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2306/regulation/5) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-07bccd2633b0efb52fd21cfcd7fe9fca]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1998/2306/regulation/5) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-c7e164eea279ac158044490ff838e2c9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2306/regulation/6) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-c7e164eea279ac158044490ff838e2c9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1998/2306/regulation/6) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-1402a9bc1d7a3ecddb19921d8842302f]: Textual amendment: Words in reg. 6(5)(d) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/11) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-1402a9bc1d7a3ecddb19921d8842302f]: Textual amendment: Words in reg. 6(5)(d) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/11) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
-[^key-4c3ec41ae804d791ce9b6040c017daf2]: Textual amendment: Words in reg. 6(5)(e) substituted (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/320/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
+[^c-4c3ec41ae804d791ce9b6040c017daf2]: Textual amendment: Words in reg. 6(5)(e) substituted (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2007/320/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
 
-[^key-e4538a95b34c51798305750ca261e127]: Textual amendment: Words in reg. 6(5)(e) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
+[^c-e4538a95b34c51798305750ca261e127]: Textual amendment: Words in reg. 6(5)(e) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
 
-[^key-5228adff420bc322a99c84b28b0ce7cb]: Textual amendment: Reg. 6(5)(f) added (6.4.2005) by [The Work at Height Regulations 2005 (S.I. 2005/735)](https://www.legislation.gov.uk/uksi/2005/735), [regs. 1](https://www.legislation.gov.uk/uksi/2005/735/regulation/1), [17](https://www.legislation.gov.uk/uksi/2005/735/regulation/17) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/735/regulation/3))
+[^c-5228adff420bc322a99c84b28b0ce7cb]: Textual amendment: Reg. 6(5)(f) added (6.4.2005) by [The Work at Height Regulations 2005 (S.I. 2005/735)](https://www.legislation.gov.uk/uksi/2005/735), [regs. 1](https://www.legislation.gov.uk/uksi/2005/735/regulation/1), [17](https://www.legislation.gov.uk/uksi/2005/735/regulation/17) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/735/regulation/3))
 
-[^key-1710cae08e4b6443bf97b6ea9c964631]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2306/regulation/7) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-1710cae08e4b6443bf97b6ea9c964631]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1998/2306/regulation/7) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-31ace70ad208647b7ca9f4f7a4e15ce8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2306/regulation/8) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-31ace70ad208647b7ca9f4f7a4e15ce8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1998/2306/regulation/8) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-cc30e504c7c1767fbe982d20ab52a613]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2306/regulation/9) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-cc30e504c7c1767fbe982d20ab52a613]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1998/2306/regulation/9) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-9cef3c7a453eec459265ae0261c025bc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2306/regulation/10) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-9cef3c7a453eec459265ae0261c025bc]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/2306/regulation/10) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-3a889c58a4addc66f9e240705d4208b1]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/10/1)[(2)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/10/2) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/7/a)
+[^c-3a889c58a4addc66f9e240705d4208b1]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/10/1)[(2)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/10/2) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/7/a)
 
-[^key-0879b1ec64311a5e0ff365ee595186a5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/2306/regulation/11) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-0879b1ec64311a5e0ff365ee595186a5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1998/2306/regulation/11) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-1086bc1c60cb03ca84a8edeff4f2fada]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/11/2) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/7/b)
+[^c-1086bc1c60cb03ca84a8edeff4f2fada]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/11/2) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/7/b)
 
-[^key-09b796526ea647c2e66a1d649958c9da]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/2306/regulation/12) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-09b796526ea647c2e66a1d649958c9da]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1998/2306/regulation/12) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
 [^f00008]: Footnote: [S.I. 1985/1333](https://www.legislation.gov.uk/uksi/1985/1333), amended by [S.I. 1992/743](https://www.legislation.gov.uk/uksi/1992/743), [1992/2966](https://www.legislation.gov.uk/uksi/1992/2966).
 
-[^key-a2351f866f87d166c4fe098cd758b234]: Textual amendment: Words in reg. 12(5)(b) substituted (6.4.2012) by [The Control of Asbestos Regulations 2012 (S.I. 2012/632)](https://www.legislation.gov.uk/uksi/2012/632), [reg. 1](https://www.legislation.gov.uk/uksi/2012/632/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/632/schedule/3)
+[^c-a2351f866f87d166c4fe098cd758b234]: Textual amendment: Words in reg. 12(5)(b) substituted (6.4.2012) by [The Control of Asbestos Regulations 2012 (S.I. 2012/632)](https://www.legislation.gov.uk/uksi/2012/632), [reg. 1](https://www.legislation.gov.uk/uksi/2012/632/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2012/632/schedule/3)
 
 [^f00010]: Footnote: [S.I. 1994/3246](https://www.legislation.gov.uk/uksi/1994/3246), amended by [S.I. 1994/3247](https://www.legislation.gov.uk/uksi/1994/3247), [1996/2001](https://www.legislation.gov.uk/uksi/1996/2001).
 
-[^key-60eba6e498bad47747ed223d577e2960]: Textual amendment: Words in reg. 12(5)(d) substituted (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(1)(b)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/1/b) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
+[^c-60eba6e498bad47747ed223d577e2960]: Textual amendment: Words in reg. 12(5)(d) substituted (6.4.2006 for specified purposes, 6.4.2008 in so far as not already in force) by [The Control of Noise at Work Regulations 2005 (S.I. 2005/1643)](https://www.legislation.gov.uk/uksi/2005/1643), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1643/regulation/1), [15(1)(b)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/15/1/b) (with [reg. 3(3)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1643/regulation/3/4))
 
-[^key-6ba21eb42754480e27cd4f54af7712f9]: Textual amendment: Reg. 12(5)(e) revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch. Table 4](https://www.legislation.gov.uk/uksi/2013/448/schedule)
+[^c-6ba21eb42754480e27cd4f54af7712f9]: Textual amendment: Reg. 12(5)(e) revoked (6.4.2013) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448)](https://www.legislation.gov.uk/uksi/2013/448), [reg. 1](https://www.legislation.gov.uk/uksi/2013/448/regulation/1), [Sch. Table 4](https://www.legislation.gov.uk/uksi/2013/448/schedule)
 
 [^f00013]: Footnote: [S.I. 1998/543](https://www.legislation.gov.uk/uksi/1998/543).
 
-[^key-07be6fbc77d5e8ffeede6eee0c7907b6]: Textual amendment: Reg. 12(5)(g) added (6.7.2005) by [The Control of Vibration at Work Regulations 2005 (S.I. 2005/1093)](https://www.legislation.gov.uk/uksi/2005/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/13/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3))
+[^c-07be6fbc77d5e8ffeede6eee0c7907b6]: Textual amendment: Reg. 12(5)(g) added (6.7.2005) by [The Control of Vibration at Work Regulations 2005 (S.I. 2005/1093)](https://www.legislation.gov.uk/uksi/2005/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2005/1093/regulation/1), [13(2)](https://www.legislation.gov.uk/uksi/2005/1093/regulation/13/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1093/regulation/3))
 
-[^key-b92f7a196bd92ff5f5fa71101f48101a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2306/regulation/13) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-b92f7a196bd92ff5f5fa71101f48101a]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1998/2306/regulation/13) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-ffa951eb43589f352476dba676249e95]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/2306/regulation/14) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-ffa951eb43589f352476dba676249e95]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1998/2306/regulation/14) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-4c6eeea7b9e89e288cea84ea8a721ebb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1998/2306/regulation/15) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-4c6eeea7b9e89e288cea84ea8a721ebb]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1998/2306/regulation/15) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-3ff7e5a7769816052dd575c545964fe3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/2306/regulation/16) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-3ff7e5a7769816052dd575c545964fe3]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/1998/2306/regulation/16) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-18d2bb66f9499bb0d0b1ff9324b067ee]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/2306/regulation/17) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-18d2bb66f9499bb0d0b1ff9324b067ee]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/1998/2306/regulation/17) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-736522c76b42c35cfa7037aab26c917e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1998/2306/regulation/18) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-736522c76b42c35cfa7037aab26c917e]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/1998/2306/regulation/18) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-2171497f7777939fecfd7d0c6aed5c42]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/18/1) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/7/c)
+[^c-2171497f7777939fecfd7d0c6aed5c42]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/18/1) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [7(c)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/7/c)
 
-[^key-28003974ebe816477dbec991dcd8fb77]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1998/2306/regulation/19) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-28003974ebe816477dbec991dcd8fb77]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/1998/2306/regulation/19) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-5eb3a63e4d31ba5fbb8992dab3eed616]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/2306/regulation/20) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-5eb3a63e4d31ba5fbb8992dab3eed616]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/1998/2306/regulation/20) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-999899ead2b99e0b64ad81a199ace725]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1998/2306/regulation/21) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-999899ead2b99e0b64ad81a199ace725]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/1998/2306/regulation/21) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-81469708d43f132b2bf53e6bfbec0da8]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1998/2306/regulation/22) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-81469708d43f132b2bf53e6bfbec0da8]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/1998/2306/regulation/22) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-74b29a3528dee361fdc1535cf15f97ef]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1998/2306/regulation/23) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-74b29a3528dee361fdc1535cf15f97ef]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/1998/2306/regulation/23) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-af3ddc49b1c8193fc67c8394f3b36563]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1998/2306/regulation/24) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-af3ddc49b1c8193fc67c8394f3b36563]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1998/2306/regulation/24) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-4493374f5b58376a88a9626a19fc5be2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1998/2306/regulation/25) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-4493374f5b58376a88a9626a19fc5be2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/1998/2306/regulation/25) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-6e875a4a93eb5ed1b21c36f9070d3b0d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1998/2306/regulation/26) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-6e875a4a93eb5ed1b21c36f9070d3b0d]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/1998/2306/regulation/26) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-ebce85cdfacac62cf4ce5d8f5c3ad7bd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1998/2306/regulation/27) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-ebce85cdfacac62cf4ce5d8f5c3ad7bd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/1998/2306/regulation/27) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-06171f14d7e45d5e08896cd66a5a8763]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1998/2306/regulation/28) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-06171f14d7e45d5e08896cd66a5a8763]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/1998/2306/regulation/28) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-993cbdcdbf4b7d4410626f1c355f0d41]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1998/2306/regulation/29) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-993cbdcdbf4b7d4410626f1c355f0d41]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/1998/2306/regulation/29) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-763d399e359204e615837f358e7cf00c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1998/2306/regulation/30) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-763d399e359204e615837f358e7cf00c]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/1998/2306/regulation/30) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-a462000f0fae8b6a81bf1fa3b98f9371]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1998/2306/regulation/31) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-a462000f0fae8b6a81bf1fa3b98f9371]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/1998/2306/regulation/31) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-b4eb95069a1750fa4be8deb381c42ec4]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1998/2306/regulation/32) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-b4eb95069a1750fa4be8deb381c42ec4]: Commencement: [Reg. 32](https://www.legislation.gov.uk/uksi/1998/2306/regulation/32) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
 [^f00014]: Footnote: [S.I. 1965/1441](https://www.legislation.gov.uk/uksi/1965/1441).
 
-[^key-06d7330e5a9ee212f9f03ac57cd68ea5]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1998/2306/regulation/33) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-06d7330e5a9ee212f9f03ac57cd68ea5]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/1998/2306/regulation/33) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-4913a8c665b962486c78a38f68228eb8]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1998/2306/regulation/34) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-4913a8c665b962486c78a38f68228eb8]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1998/2306/regulation/34) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-075b2f16ea44f054f29b249eb6f593a1]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1998/2306/regulation/35) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-075b2f16ea44f054f29b249eb6f593a1]: Commencement: [Reg. 35](https://www.legislation.gov.uk/uksi/1998/2306/regulation/35) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-990650a3fb5187879208e92f009a119c]: Textual amendment: Word in [reg. 35(2)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/35/2) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/7/d)
+[^c-990650a3fb5187879208e92f009a119c]: Textual amendment: Word in [reg. 35(2)](https://www.legislation.gov.uk/uksi/1998/2306/regulation/35/2) substituted (17.9.2002) by [The Health and Safety (Miscellaneous Amendments) Regulations 2002 (S.I. 2002/2174)](https://www.legislation.gov.uk/uksi/2002/2174), [regs. 1](https://www.legislation.gov.uk/uksi/2002/2174/regulation/1), [7(d)](https://www.legislation.gov.uk/uksi/2002/2174/regulation/7/d)
 
-[^key-3a7232af1240d9e21803b385c245aed1]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1998/2306/regulation/36) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-3a7232af1240d9e21803b385c245aed1]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/1998/2306/regulation/36) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
 [^f00015]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
 [^f00016]: Footnote: [S.I. 1965/1536](https://www.legislation.gov.uk/uksi/1965/1536), to which there are amendments not relevant to these Regulations.
 
-[^key-4cedeba5624f8ce16b8363ca2a0fe7d1]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1998/2306/regulation/37) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-4cedeba5624f8ce16b8363ca2a0fe7d1]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/1998/2306/regulation/37) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-c860c2787f6f70de3f0aea6228cd3489]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1998/2306/regulation/38) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-c860c2787f6f70de3f0aea6228cd3489]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/1998/2306/regulation/38) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
 [^f00017]: Footnote: [1963 c. 41](https://www.legislation.gov.uk/ukpga/1963/41).
 
-[^key-fc22e64268c97b24db8706e4c1b9a9bb]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1998/2306/regulation/39) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-fc22e64268c97b24db8706e4c1b9a9bb]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/1998/2306/regulation/39) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-54de0e307b58d6385191bce1cb3133f2]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2306/schedule/1) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-54de0e307b58d6385191bce1cb3133f2]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/1998/2306/schedule/1) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-93babd7121cbaf07375d195718f74af0]: Textual amendment: Words in Sch. 1 omitted (1.7.2013) by virtue of [The Construction Products Regulations 2013 (S.I. 2013/1387)](https://www.legislation.gov.uk/uksi/2013/1387), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1387/regulation/1), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2013/1387/schedule/5/paragraph/1)
+[^c-93babd7121cbaf07375d195718f74af0]: Textual amendment: Words in Sch. 1 omitted (1.7.2013) by virtue of [The Construction Products Regulations 2013 (S.I. 2013/1387)](https://www.legislation.gov.uk/uksi/2013/1387), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1387/regulation/1), [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2013/1387/schedule/5/paragraph/1)
 
-[^key-1a9e1eb269d88f681ad9565d621c2321]: Textual amendment: Words in Sch. 1 omitted (8.12.2016) by virtue of [The Simple Pressure Vessels (Safety) Regulations 2016 (S.I. 2016/1092)](https://www.legislation.gov.uk/uksi/2016/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1092/regulation/1), [78(1)](https://www.legislation.gov.uk/uksi/2016/1092/regulation/78/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1092/regulation/3))
+[^c-1a9e1eb269d88f681ad9565d621c2321]: Textual amendment: Words in Sch. 1 omitted (8.12.2016) by virtue of [The Simple Pressure Vessels (Safety) Regulations 2016 (S.I. 2016/1092)](https://www.legislation.gov.uk/uksi/2016/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1092/regulation/1), [78(1)](https://www.legislation.gov.uk/uksi/2016/1092/regulation/78/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1092/regulation/3))
 
-[^key-6b9d42ed9a4289a7a8644990e6f577b3]: Textual amendment: Words in Sch. 1 omitted (29.12.2009) by virtue of [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 1(a)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/1/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
+[^c-6b9d42ed9a4289a7a8644990e6f577b3]: Textual amendment: Words in Sch. 1 omitted (29.12.2009) by virtue of [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 1(a)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/1/a) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
 
-[^key-01c0fba14417515e4ba3a49df9d4a97b]: Textual amendment: Words in Sch. 1 omitted (8.12.2016) by virtue of [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
+[^c-01c0fba14417515e4ba3a49df9d4a97b]: Textual amendment: Words in Sch. 1 omitted (8.12.2016) by virtue of [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
 
-[^key-d13812b95a7d6b12ed872e437cd8702c]: Textual amendment: Words in Sch. 1 substituted (1.5.2005) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres (Amendment) Regulations 2005 (S.I. 2005/830)](https://www.legislation.gov.uk/uksi/2005/830), [regs. 1](https://www.legislation.gov.uk/uksi/2005/830/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/830/regulation/3)
+[^c-d13812b95a7d6b12ed872e437cd8702c]: Textual amendment: Words in Sch. 1 substituted (1.5.2005) by [The Equipment and Protective Systems Intended for Use in Potentially Explosive Atmospheres (Amendment) Regulations 2005 (S.I. 2005/830)](https://www.legislation.gov.uk/uksi/2005/830), [regs. 1](https://www.legislation.gov.uk/uksi/2005/830/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/830/regulation/3)
 
-[^key-1ffe59cc6bdf0d29cd9cbe011759802a]: Textual amendment: Words in Sch. 1 omitted (8.12.2016) by virtue of [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(4)(a)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/4/a) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
+[^c-1ffe59cc6bdf0d29cd9cbe011759802a]: Textual amendment: Words in Sch. 1 omitted (8.12.2016) by virtue of [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(4)(a)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/4/a) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
 
-[^key-f861ffcba9591fc69715efe4fb5bdbb5]: Textual amendment: Words in Sch. 1 omitted (8.12.2016) by virtue of [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/1) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
+[^c-f861ffcba9591fc69715efe4fb5bdbb5]: Textual amendment: Words in Sch. 1 omitted (8.12.2016) by virtue of [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/1) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
 
-[^key-546b6a21b0b3779affd3682afc872bef]: Textual amendment: Words in Sch. 1 added (3.7.2001) by [The Noise Emission in the Environment by Equipment for use Outdoors Regulations 2001 (S.I. 2001/1701)](https://www.legislation.gov.uk/uksi/2001/1701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2001/1701/regulation/1/3), [22(1)](https://www.legislation.gov.uk/uksi/2001/1701/regulation/22/1)
+[^c-546b6a21b0b3779affd3682afc872bef]: Textual amendment: Words in Sch. 1 added (3.7.2001) by [The Noise Emission in the Environment by Equipment for use Outdoors Regulations 2001 (S.I. 2001/1701)](https://www.legislation.gov.uk/uksi/2001/1701), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2001/1701/regulation/1/3), [22(1)](https://www.legislation.gov.uk/uksi/2001/1701/regulation/22/1)
 
-[^key-137308ab63aa33f875e616f51cafcd0d]: Textual amendment: Words in Sch. 1 omitted (30.7.2018) by virtue of [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [28(1)](https://www.legislation.gov.uk/uksi/2018/816/regulation/28/1)
+[^c-137308ab63aa33f875e616f51cafcd0d]: Textual amendment: Words in Sch. 1 omitted (30.7.2018) by virtue of [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [28(1)](https://www.legislation.gov.uk/uksi/2018/816/regulation/28/1)
 
-[^key-087a87367e59fdac580e428108a58f1b]: Textual amendment: Words in Sch. 1 inserted (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 1(b)(i)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/1/b/i) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
+[^c-087a87367e59fdac580e428108a58f1b]: Textual amendment: Words in Sch. 1 inserted (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 1(b)(i)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/1/b/i) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
 
-[^key-2efe7b89286bcd600ef5ecabd48d1a46]: Textual amendment: Words in Sch. 1 inserted (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/1/b/ii) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
+[^c-2efe7b89286bcd600ef5ecabd48d1a46]: Textual amendment: Words in Sch. 1 inserted (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 1(b)(ii)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/1/b/ii) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
 
-[^key-880bfb31591e82337c3ce7bb94dd8e56]: Textual amendment: Words in Sch. 1 inserted (8.12.2016) by [The Simple Pressure Vessels (Safety) Regulations 2016 (S.I. 2016/1092)](https://www.legislation.gov.uk/uksi/2016/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1092/regulation/1), [78(1)](https://www.legislation.gov.uk/uksi/2016/1092/regulation/78/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1092/regulation/3))
+[^c-880bfb31591e82337c3ce7bb94dd8e56]: Textual amendment: Words in Sch. 1 inserted (8.12.2016) by [The Simple Pressure Vessels (Safety) Regulations 2016 (S.I. 2016/1092)](https://www.legislation.gov.uk/uksi/2016/1092), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1092/regulation/1), [78(1)](https://www.legislation.gov.uk/uksi/2016/1092/regulation/78/1) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1092/regulation/3))
 
-[^key-36111e12d9dd22594dfb1759eb78255d]: Textual amendment: Words in Sch. 1 added (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(4)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/4/b/i) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
+[^c-36111e12d9dd22594dfb1759eb78255d]: Textual amendment: Words in Sch. 1 added (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(4)(b)(i)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/4/b/i) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
 
-[^key-cfaa09663066813a3a2c8242bdfdd52b]: Textual amendment: Words in Sch. 1 added (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/4/b/ii) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
+[^c-cfaa09663066813a3a2c8242bdfdd52b]: Textual amendment: Words in Sch. 1 added (8.12.2016) by [The Lifts Regulations 2016 (S.I. 2016/1093)](https://www.legislation.gov.uk/uksi/2016/1093), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1093/regulation/1), [83(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/83/4/b/ii) (with [regs. 3-5](https://www.legislation.gov.uk/uksi/2016/1093/regulation/3))
 
-[^key-b8e9e91c383fd4989c3a880f2da77542]: Textual amendment: Words in Sch. 1 inserted (8.12.2016) by [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
+[^c-b8e9e91c383fd4989c3a880f2da77542]: Textual amendment: Words in Sch. 1 inserted (8.12.2016) by [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
 
-[^key-88fb32f27ded547902c5a0dea5d0a4f5]: Textual amendment: Word in Sch. 1 inserted (8.12.2016) by [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 2(b)](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
+[^c-88fb32f27ded547902c5a0dea5d0a4f5]: Textual amendment: Word in Sch. 1 inserted (8.12.2016) by [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 2(b)](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
 
-[^key-7e2c8545c55b221d830f4a841e583600]: Textual amendment: Words in Sch. 1 inserted (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/1) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
+[^c-7e2c8545c55b221d830f4a841e583600]: Textual amendment: Words in Sch. 1 inserted (8.12.2016) by [The Pressure Equipment (Safety) Regulations 2016 (S.I. 2016/1105)](https://www.legislation.gov.uk/uksi/2016/1105), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1105/regulation/1), [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2016/1105/schedule/12/paragraph/1) (with [reg. 88](https://www.legislation.gov.uk/uksi/2016/1105/regulation/88))
 
-[^key-d0edf4730b8c7a08c6a11f8f13e4d727]: Commencement: Sch. 2 in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-d0edf4730b8c7a08c6a11f8f13e4d727]: Commencement: Sch. 2 in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-73ec6557a647f58497877ed28f5659aa]: Commencement: Sch. 3 in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-73ec6557a647f58497877ed28f5659aa]: Commencement: Sch. 3 in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-6db2095b95280de5f0561e5b8d73ffc8]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1998/2306/schedule/4) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
+[^c-6db2095b95280de5f0561e5b8d73ffc8]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1998/2306/schedule/4) in force at 5.12.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/2306/regulation/1)
 
-[^key-7cbb5e7acdaf6ee86b1ddf3f010f2d00]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1998/2306/schedule/4) revoked (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/320/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))
+[^c-7cbb5e7acdaf6ee86b1ddf3f010f2d00]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/uksi/1998/2306/schedule/4) revoked (6.4.2007) by [The Construction (Design and Management) Regulations 2007 (S.I. 2007/320)](https://www.legislation.gov.uk/uksi/2007/320), [reg. 1](https://www.legislation.gov.uk/uksi/2007/320/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/320/schedule/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2007/320/regulation/3))

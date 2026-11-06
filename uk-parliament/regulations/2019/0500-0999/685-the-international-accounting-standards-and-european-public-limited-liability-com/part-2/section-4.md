@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. International accounting standards in the UK on IP completion day[^key-33a2b3dc000c399c55972a89a8f09a4e][^key-609f64247f261403e386abf76f672f5e]
+## 4. International accounting standards in the UK on IP completion day[^c-33a2b3dc000c399c55972a89a8f09a4e][^c-609f64247f261403e386abf76f672f5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ The international accounting standards adopted for use within the United Kingdom
 
 ## Annotations
 
-[^key-33a2b3dc000c399c55972a89a8f09a4e]: Commencement: Reg. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-33a2b3dc000c399c55972a89a8f09a4e]: Commencement: Reg. 4 in force on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
-[^key-609f64247f261403e386abf76f672f5e]: Textual amendment: Words in reg. 4 substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/23/b)
+[^c-609f64247f261403e386abf76f672f5e]: Textual amendment: Words in reg. 4 substituted (31.12.2020 immediately before IP completion day) by [The Companies and Statutory Auditors etc. (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/523)](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [23(b)](https://www.legislation.gov.uk/uksi/2020/523/regulation/23/b)
 
 [^c23673331]: Marginal citation: OJ No. L 320, 29.11.2008, p.1, last amended by OJ No. L 87, 03.04.2018, p.3.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. The criteria for registration[^key-b65ae7e2ba6bf9bc27515c0169da8440]
+## 7. The criteria for registration[^c-b65ae7e2ba6bf9bc27515c0169da8440]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ For the purposes of this Part, the criteria for registering a disused tip are th
 
 ## Annotations
 
-[^key-b65ae7e2ba6bf9bc27515c0169da8440]: Commencement: S. 7 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-b65ae7e2ba6bf9bc27515c0169da8440]: Commencement: S. 7 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

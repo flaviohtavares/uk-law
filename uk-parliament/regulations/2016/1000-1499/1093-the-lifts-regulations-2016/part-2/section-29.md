@@ -28,9 +28,9 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) When placing a safety component for lifts on the market, an importer must ensure that it is accompanied by the instructions referred to in paragraph 7 (1) of Schedule 1[^V_NI_a3653a2d-de9f-8939-fabf-2554aa1bf564] in a language which can be easily understood by end-users in the relevant state[^key-df78f51f1b8cc6950ee1b0aa78a0c766] in which the safety component for lifts is to be made available to such end-users.
+(1) When placing a safety component for lifts on the market, an importer must ensure that it is accompanied by the instructions referred to in paragraph 7 (1) of Schedule 1[^V_NI_a3653a2d-de9f-8939-fabf-2554aa1bf564] in a language which can be easily understood by end-users in the relevant state[^c-df78f51f1b8cc6950ee1b0aa78a0c766] in which the safety component for lifts is to be made available to such end-users.
 
-(2) Where the safety component for lifts is being made available to end-users in Northern Ireland[^key-107fb83480ebc9f1b7f99c534e4b97a8], the language which can be easily understood by end-users is English.
+(2) Where the safety component for lifts is being made available to end-users in Northern Ireland[^c-107fb83480ebc9f1b7f99c534e4b97a8], the language which can be easily understood by end-users is English.
 
 ## Annotations
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^V_NI_a3653a2d-de9f-8939-fabf-2554aa1bf564]: Textual amendment: Words in [reg. 29(1)](https://www.legislation.gov.uk/uksi/2016/1093/regulation/29/1) substituted (21.4.2018) by [The Gas Appliances (Enforcement) and Miscellaneous Amendments Regulations 2018 (S.I. 2018/389)](https://www.legislation.gov.uk/uksi/2018/389), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/389/regulation/1/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/uksi/2018/389/schedule/6/paragraph/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/389/regulation/2))
 
-[^key-df78f51f1b8cc6950ee1b0aa78a0c766]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2016/1093/regulation/29) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 10 para. 3(8)(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/10/paragraph/3/8/a)
+[^c-df78f51f1b8cc6950ee1b0aa78a0c766]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2016/1093/regulation/29) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 10 para. 3(8)(a)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/10/paragraph/3/8/a)
 
-[^key-107fb83480ebc9f1b7f99c534e4b97a8]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2016/1093/regulation/29) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 10 para. 3(8)(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/10/paragraph/3/8/b)
+[^c-107fb83480ebc9f1b7f99c534e4b97a8]: Textual amendment: Words in [reg. 29](https://www.legislation.gov.uk/uksi/2016/1093/regulation/29) substituted (N.I.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment) (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1112)](https://www.legislation.gov.uk/uksi/2020/1112), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/1112/regulation/1/b), [Sch. 10 para. 3(8)(b)](https://www.legislation.gov.uk/uksi/2020/1112/schedule/10/paragraph/3/8/b)

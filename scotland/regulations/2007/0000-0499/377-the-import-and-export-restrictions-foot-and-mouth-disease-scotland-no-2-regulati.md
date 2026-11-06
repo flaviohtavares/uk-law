@@ -46,7 +46,7 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-6117d3042313ccf15bb46ff442c759a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6117d3042313ccf15bb46ff442c759a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -162,12 +162,12 @@ Coming into force in accordance with article 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6117d3042313ccf15bb46ff442c759a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6117d3042313ccf15bb46ff442c759a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6117d3042313ccf15bb46ff442c759a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6117d3042313ccf15bb46ff442c759a2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6117d3042313ccf15bb46ff442c759a2]: Textual amendment: Regulations revoked (24.8.2007 at 23:00 hours) by [The Foot-and-Mouth Disease (Export Restrictions) (Scotland) Regulations 2007 (S.S.I. 2007/386)](https://www.legislation.gov.uk/ssi/2007/386), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/386/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2007/386/regulation/24)
+[^c-6117d3042313ccf15bb46ff442c759a2]: Textual amendment: Regulations revoked (24.8.2007 at 23:00 hours) by [The Foot-and-Mouth Disease (Export Restrictions) (Scotland) Regulations 2007 (S.S.I. 2007/386)](https://www.legislation.gov.uk/ssi/2007/386), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2007/386/regulation/1/1), [24](https://www.legislation.gov.uk/ssi/2007/386/regulation/24)

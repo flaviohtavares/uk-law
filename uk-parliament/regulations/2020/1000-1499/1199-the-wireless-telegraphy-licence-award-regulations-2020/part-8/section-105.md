@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Determination of 700 MHz paired frequency lot additional prices[^key-23f965d3efefbe72d0c75089ec6fb524]
+## 105. Determination of 700 MHz paired frequency lot additional prices[^c-23f965d3efefbe72d0c75089ec6fb524]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In respect of each winning 700 MHz paired frequency lot assignment stage bid, OF
 
 ## Annotations
 
-[^key-23f965d3efefbe72d0c75089ec6fb524]: Commencement: Reg. 105 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-23f965d3efefbe72d0c75089ec6fb524]: Commencement: Reg. 105 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

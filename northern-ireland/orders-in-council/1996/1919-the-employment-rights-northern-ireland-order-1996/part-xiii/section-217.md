@@ -53,7 +53,7 @@ but shall not exceed 90 days[^c17627511]. . . .
 - (b) during the period of three months beginning with that date, or
 - (c) within such further period as the tribunal considers reasonable in a case where it is satisfied that it was not reasonably practicable for the complaint to be presented during that period of three months.
 
-(5A)[^key-ad19d06738ff069b48841f78873277bc] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (5)(b).
+(5A)[^c-ad19d06738ff069b48841f78873277bc] Article 249B (extension of time limits to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (5)(b).
 
 (6) If on a complaint under this Article a question arises—
 
@@ -66,4 +66,4 @@ it is for the employer to show that there were and that he did.
 
 [^c17627511]: Textual amendment: SR 1999/432
 
-[^key-ad19d06738ff069b48841f78873277bc]: Textual amendment: [Art. 217(5A)](https://www.legislation.gov.uk/nisi/1996/1919/article/217/5A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/39); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)
+[^c-ad19d06738ff069b48841f78873277bc]: Textual amendment: [Art. 217(5A)](https://www.legislation.gov.uk/nisi/1996/1919/article/217/5A) inserted (27.1.2020) by [Employment Act (Northern Ireland) 2016 (c. 15)](https://www.legislation.gov.uk/nia/2016/15), [s. 29(2)](https://www.legislation.gov.uk/nia/2016/15/section/29/2), [Sch. 2 para. 39](https://www.legislation.gov.uk/nia/2016/15/schedule/2/paragraph/39); [S.R. 2020/1](https://www.legislation.gov.uk/nisr/2020/1), [art. 2(n)](https://www.legislation.gov.uk/nisr/2020/1/article/2/n)

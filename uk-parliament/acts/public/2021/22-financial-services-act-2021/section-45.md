@@ -33,7 +33,7 @@ summary: ''
 (4) Regulations under this section are subject to the affirmative procedure if they amend, repeal or revoke any provision of—
 
 - (a) an Act,
-- (b)[^key-f04dd2e0ed12dc1670d4119e413afccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f04dd2e0ed12dc1670d4119e413afccb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a Measure or Act of Senedd Cymru,
 - (d) an Act of the Scottish Parliament, or
 - (e) Northern Ireland legislation.
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f04dd2e0ed12dc1670d4119e413afccb]: Textual amendment: [S. 45(4)(b)](https://www.legislation.gov.uk/ukpga/2021/22/section/45/4/b) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/6)
+[^c-f04dd2e0ed12dc1670d4119e413afccb]: Textual amendment: [S. 45(4)(b)](https://www.legislation.gov.uk/ukpga/2021/22/section/45/4/b) omitted (29.6.2023) by virtue of [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [s. 22(1)(d)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/1/d), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2023/28/schedule/3/paragraph/6)

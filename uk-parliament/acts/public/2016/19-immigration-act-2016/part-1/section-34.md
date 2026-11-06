@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Offence of illegal working[^key-c98688f9c534ce6a7d4827c8d6ef611f]
+## 34. Offence of illegal working[^c-c98688f9c534ce6a7d4827c8d6ef611f]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,4 +105,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c98688f9c534ce6a7d4827c8d6ef611f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2016/19/section/34) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/e) (with transitional provision in [S.I. 2016/712](https://www.legislation.gov.uk/uksi/2016/712), art. 2)
+[^c-c98688f9c534ce6a7d4827c8d6ef611f]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2016/19/section/34) in force at 12.7.2016 by [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/e) (with transitional provision in [S.I. 2016/712](https://www.legislation.gov.uk/uksi/2016/712), art. 2)

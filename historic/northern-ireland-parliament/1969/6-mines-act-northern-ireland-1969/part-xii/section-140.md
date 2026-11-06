@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 140. Removal or defacement of notices, &c.[^key-b8635150449aa2dce22c6997269a0ce1]
+## 140. Removal or defacement of notices, &c.[^c-b8635150449aa2dce22c6997269a0ce1]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8635150449aa2dce22c6997269a0ce1]: Textual amendment: [S. 140](https://www.legislation.gov.uk/apni/1969/6/section/140) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-b8635150449aa2dce22c6997269a0ce1]: Textual amendment: [S. 140](https://www.legislation.gov.uk/apni/1969/6/section/140) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

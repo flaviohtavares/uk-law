@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 12 — Revocations[^key-2b5375e5623220d0d481a785e27ea05e]
+## SCHEDULE 12 — Revocations[^c-2b5375e5623220d0d481a785e27ea05e]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ The following Orders are hereby revoked:
 
 ## Annotations
 
-[^key-2b5375e5623220d0d481a785e27ea05e]: Commencement: Sch. 12 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-2b5375e5623220d0d481a785e27ea05e]: Commencement: Sch. 12 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

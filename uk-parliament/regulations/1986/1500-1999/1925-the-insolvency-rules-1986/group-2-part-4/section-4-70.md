@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.70. Admission and rejection of proof (creditors' meeting)[^key-135333cfe74035210fdc8e2cce5d18a0]
+## 4.70. Admission and rejection of proof (creditors' meeting)[^c-135333cfe74035210fdc8e2cce5d18a0]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-135333cfe74035210fdc8e2cce5d18a0]: Commencement: [Rule 4.70](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.70) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-135333cfe74035210fdc8e2cce5d18a0]: Commencement: [Rule 4.70](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.70) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

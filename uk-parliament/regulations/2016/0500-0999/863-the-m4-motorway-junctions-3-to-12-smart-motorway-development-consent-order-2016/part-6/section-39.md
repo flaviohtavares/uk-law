@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Protection of interests[^key-4b5c994ac61b2ba3cb851252466caad1]
+## 39. Protection of interests[^c-4b5c994ac61b2ba3cb851252466caad1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (protection of interests) has effect.
 
 ## Annotations
 
-[^key-4b5c994ac61b2ba3cb851252466caad1]: Commencement: Art. 39 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-4b5c994ac61b2ba3cb851252466caad1]: Commencement: Art. 39 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

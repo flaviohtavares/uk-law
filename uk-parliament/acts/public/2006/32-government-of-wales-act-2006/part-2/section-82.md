@@ -62,7 +62,7 @@ is (unless a draft of the statutory instrument has been approved by a resolution
 
 (14) Subsections (1), (2) and (3) apply to the First Minister and the Counsel General as to the Welsh Ministers; and where subsection (9) operates in relation to an order under subsection (2) or (3) relating to the First Minister or the Counsel General the reference in subsection (9) to the Welsh Ministers is to the First Minister or the Counsel General.
 
-(15) In this section “**action**” includes making, confirming or approving subordinate legislation and in subsection (2) also includes introducing into the Senedd[^key-60edd79c70d763519861630d1afb7962] a proposed Assembly Measure or a Bill.
+(15) In this section “**action**” includes making, confirming or approving subordinate legislation and in subsection (2) also includes introducing into the Senedd[^c-60edd79c70d763519861630d1afb7962] a proposed Assembly Measure or a Bill.
 
 ## Annotations
 
@@ -70,4 +70,4 @@ is (unless a draft of the statutory instrument has been approved by a resolution
 
 [^c20314391]: Textual amendment: Words in s. 82(5)(b) substituted (12.11.2009 for certain purposes and 12.1.2010 in so far as not already in force) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 43](https://www.legislation.gov.uk/ukpga/2009/23/section/43), [324](https://www.legislation.gov.uk/ukpga/2009/23/section/324), [Sch. 4 Pt. 2 para. 6(6)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/4/part/2/paragraph/6/6); [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/7)
 
-[^key-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))
+[^c-60edd79c70d763519861630d1afb7962]: Textual amendment: Words in Act substituted (6.5.2020) by [Senedd and Elections (Wales) Act 2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1), [s. 42(2)](https://www.legislation.gov.uk/anaw/2020/1/section/42/2), [Sch. 1 para. 2(19)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/19) (with [Sch. 1 para. 2(11)-(14)](https://www.legislation.gov.uk/anaw/2020/1/schedule/1/paragraph/2/11))

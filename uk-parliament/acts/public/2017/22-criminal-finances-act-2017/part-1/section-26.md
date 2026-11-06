@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Seized money: England and Wales[^key-24d425b230915f48725c31338260d035][^c22725291]
+## 26. Seized money: England and Wales[^c-24d425b230915f48725c31338260d035][^c22725291]
 
 *Extent: E+W*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24d425b230915f48725c31338260d035]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/22/section/26) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/k)
+[^c-24d425b230915f48725c31338260d035]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/22/section/26) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(k)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/k)
 
 [^c22725291]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/22/section/26) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

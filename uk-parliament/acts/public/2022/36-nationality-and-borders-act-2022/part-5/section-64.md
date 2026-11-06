@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Identified potential victims etc in England and Wales: assistance and support[^key-2d9e2f16cfcc7d5e4f0116fa13b2b6f8][^key-c8b631340eb5dbc20fc9a4db5ff8ab9e]
+## 64. Identified potential victims etc in England and Wales: assistance and support[^c-2d9e2f16cfcc7d5e4f0116fa13b2b6f8][^c-c8b631340eb5dbc20fc9a4db5ff8ab9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ After section 50 of the Modern Slavery Act 2015 insert—
 
 ## Annotations
 
-[^key-2d9e2f16cfcc7d5e4f0116fa13b2b6f8]: Commencement: S. 64 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-2d9e2f16cfcc7d5e4f0116fa13b2b6f8]: Commencement: S. 64 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-c8b631340eb5dbc20fc9a4db5ff8ab9e]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2022/36/section/64) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/e)
+[^c-c8b631340eb5dbc20fc9a4db5ff8ab9e]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2022/36/section/64) in force at 30.1.2023 by [S.I. 2023/33](https://www.legislation.gov.uk/uksi/2023/33), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/33/regulation/3/e)

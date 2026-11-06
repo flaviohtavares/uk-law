@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Provision of information and assistance to a CMA group[^key-8219b6962d786ce231252d93118331e4]
+## 63. Provision of information and assistance to a CMA group[^c-8219b6962d786ce231252d93118331e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8219b6962d786ce231252d93118331e4]: Commencement: S. 63 in force at 1.4.2014 by [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/823/article/2/c)
+[^c-8219b6962d786ce231252d93118331e4]: Commencement: S. 63 in force at 1.4.2014 by [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/823/article/2/c)

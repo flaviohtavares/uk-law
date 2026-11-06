@@ -24,7 +24,7 @@ summary: ''
 
 Section 64(1)
 
-### 1. Power to make CCE prevention order[^key-d4a8b89712072265469e8a805dfba42e]
+### 1. Power to make CCE prevention order[^c-d4a8b89712072265469e8a805dfba42e]
 
 (1) This paragraph applies if—
 
@@ -57,7 +57,7 @@ Section 64(1)
   - (ii) doing anything in England and Wales or Northern Ireland that would constitute an offence under section 48 (as it has effect in Scotland) if done in Scotland;
 - (b) a reference to an adult “engaging in conduct associated with child criminal exploitation” is to the adult doing anything, in any part of the United Kingdom, that is associated with the doing of anything within paragraph (a)(i) or (ii).
 
-### 2. CCE prevention orders[^key-daff49de269fd59bb9c74d5777f6fbb2]
+### 2. CCE prevention orders[^c-daff49de269fd59bb9c74d5777f6fbb2]
 
 (1) A CCE prevention order is an order which—
 
@@ -92,7 +92,7 @@ a CCE prevention order may provide that it does not take effect until the adult 
 
 (8) Where a court makes a CCE prevention order in respect of a person who is already subject to such an order, the earlier order ceases to have effect.
 
-### 3. Applications for CCE prevention orders[^key-a1ed1c4bfa9c1ba4c4e2456a8757dcc6]
+### 3. Applications for CCE prevention orders[^c-a1ed1c4bfa9c1ba4c4e2456a8757dcc6]
 
 (1) The Chief Constable of the Police Service of Scotland may make an application for a CCE prevention order.
 
@@ -101,7 +101,7 @@ a CCE prevention order may provide that it does not take effect until the adult 
 - (a) the adult lives, or
 - (b) the Chief Constable of the Police Service of Scotland believes that adult is in or is intending to come to.
 
-### 4. Interim CCE prevention orders[^key-225ab2a9907d8130bcc552c9f810755f]
+### 4. Interim CCE prevention orders[^c-225ab2a9907d8130bcc552c9f810755f]
 
 (1) This paragraph applies where the sheriff adjourns the hearing of an application for a CCE prevention order made under paragraph 3.
 
@@ -115,7 +115,7 @@ Paragraph 2(5) does not apply in relation to an interim CCE prevention order.
 
 (5) Nothing in sub-paragraph (2) prevents the variation of the duration of an interim CCE prevention order, or the discharge of such an order, under paragraph 7.
 
-### 5. CCE prevention orders in criminal proceedings: procedural powers[^key-738fc863e2816149c2f3759945ebfd69]
+### 5. CCE prevention orders in criminal proceedings: procedural powers[^c-738fc863e2816149c2f3759945ebfd69]
 
 (1) This paragraph applies in the circumstances mentioned in sub-paragraph (1)(b), (c), (d) or (e) of paragraph 1.
 
@@ -145,7 +145,7 @@ Paragraph 2(5) does not apply in relation to an interim CCE prevention order.
 
 (9) Nothing in this paragraph limits any other powers of the court.
 
-### 6. Notification requirements[^key-9508d8fa005e14271313bd018dee460e]
+### 6. Notification requirements[^c-9508d8fa005e14271313bd018dee460e]
 
 (1) This paragraph applies where a CCE prevention order requires the adult to comply with this paragraph.
 
@@ -184,7 +184,7 @@ the adult must notify, to the police, the new name or the new home address.
 - (a) lawfully detained or otherwise lawfully deprived of their liberty, in the United Kingdom, or
 - (b) outside the United Kingdom.
 
-### 7. Variation and discharge of CCE prevention orders made on application[^key-3f811449074aa8e76a3340e57fcaf439]
+### 7. Variation and discharge of CCE prevention orders made on application[^c-3f811449074aa8e76a3340e57fcaf439]
 
 (1) This paragraph applies where a person mentioned in sub-paragraph (2) applies to the appropriate sheriff for the variation or discharge of a CCE prevention order made in the circumstances mentioned in paragraph 1(1)(a).
 
@@ -220,7 +220,7 @@ This sub-paragraph does not apply to an interim CCE prevention order.
   - (ii) in which the chief constable believes that adult to be, or
   - (iii) to which the chief constable believes that adult intends to come.
 
-### 8. Variation and discharge of CCE prevention orders made in criminal proceedings[^key-20873125641747a982def43a6c04f610]
+### 8. Variation and discharge of CCE prevention orders made in criminal proceedings[^c-20873125641747a982def43a6c04f610]
 
 (1) This paragraph applies where a person mentioned in sub-paragraph (2) applies to a relevant court for the variation or discharge of a CCE prevention order made in the circumstances mentioned in sub-paragraph (1)(b), (c), (d) or (e) of paragraph 1.
 
@@ -252,7 +252,7 @@ This sub-paragraph does not apply to an interim CCE prevention order.
 - (a) where the High Court made the order, that court;
 - (b) where the sheriff made the order, the sheriff.
 
-### 9. Appeals[^key-7ae14d5986548a2c02df460825115327]
+### 9. Appeals[^c-7ae14d5986548a2c02df460825115327]
 
 (1) The adult or the Chief Constable of the Police Service of Scotland may appeal to the relevant court against a decision made—
 
@@ -275,7 +275,7 @@ This sub-paragraph does not apply to an interim CCE prevention order.
 
 (5) Where a CCE prevention order is made on appeal, for the purposes of this Schedule (other than this paragraph) the order is to be treated as made by the court from which the appeal was made.
 
-### 10. Offence of breaching CCE prevention order[^key-553690c38da8cd63689d88088b7ddc72]
+### 10. Offence of breaching CCE prevention order[^c-553690c38da8cd63689d88088b7ddc72]
 
 (1) A person who, without reasonable excuse, fails to comply with an order mentioned in sub-paragraph (2) commits an offence.
 
@@ -297,7 +297,7 @@ This sub-paragraph does not apply to an interim CCE prevention order.
 
 (6) “**Relevant UK order**” means an order under the law of England and Wales or Northern Ireland which appears to the Scottish Ministers to be equivalent or similar to a CCE prevention order.
 
-### 11. Offences relating to notifications[^key-b7253495d9fd9650c6501103b8dc2806]
+### 11. Offences relating to notifications[^c-b7253495d9fd9650c6501103b8dc2806]
 
 (1) This paragraph applies where a CCE prevention order requires a person to comply with paragraph 6 (notification requirements).
 
@@ -319,7 +319,7 @@ This sub-paragraph does not apply to an interim CCE prevention order.
 
 (7) Paragraph 10(5) applies for the purposes of this paragraph.
 
-### 12. Interpretation[^key-877401ab3768450a74b9532b1926fbe4]
+### 12. Interpretation[^c-877401ab3768450a74b9532b1926fbe4]
 
 In this Schedule—
 
@@ -330,26 +330,26 @@ In this Schedule—
 
 ## Annotations
 
-[^key-d4a8b89712072265469e8a805dfba42e]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-d4a8b89712072265469e8a805dfba42e]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-daff49de269fd59bb9c74d5777f6fbb2]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-daff49de269fd59bb9c74d5777f6fbb2]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-a1ed1c4bfa9c1ba4c4e2456a8757dcc6]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-a1ed1c4bfa9c1ba4c4e2456a8757dcc6]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-225ab2a9907d8130bcc552c9f810755f]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-225ab2a9907d8130bcc552c9f810755f]: Commencement: Sch. 7 para. 4 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-738fc863e2816149c2f3759945ebfd69]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-738fc863e2816149c2f3759945ebfd69]: Commencement: Sch. 7 para. 5 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-9508d8fa005e14271313bd018dee460e]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-9508d8fa005e14271313bd018dee460e]: Commencement: Sch. 7 para. 6 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-3f811449074aa8e76a3340e57fcaf439]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-3f811449074aa8e76a3340e57fcaf439]: Commencement: Sch. 7 para. 7 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-20873125641747a982def43a6c04f610]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-20873125641747a982def43a6c04f610]: Commencement: Sch. 7 para. 8 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-7ae14d5986548a2c02df460825115327]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-7ae14d5986548a2c02df460825115327]: Commencement: Sch. 7 para. 9 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-553690c38da8cd63689d88088b7ddc72]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-553690c38da8cd63689d88088b7ddc72]: Commencement: Sch. 7 para. 10 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-b7253495d9fd9650c6501103b8dc2806]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-b7253495d9fd9650c6501103b8dc2806]: Commencement: Sch. 7 para. 11 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
 
-[^key-877401ab3768450a74b9532b1926fbe4]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)
+[^c-877401ab3768450a74b9532b1926fbe4]: Commencement: Sch. 7 para. 12 not in force at Royal Assent, see [s. 255(10)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/10/c)

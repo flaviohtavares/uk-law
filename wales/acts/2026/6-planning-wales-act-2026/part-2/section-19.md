@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Duty to prepare local development plan[^key-e81e355f2743545fdb7fa98ee78aaed9]
+## 19. Duty to prepare local development plan[^c-e81e355f2743545fdb7fa98ee78aaed9]
 
 *Extent: E+W*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e81e355f2743545fdb7fa98ee78aaed9]: Commencement: S. 19 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-e81e355f2743545fdb7fa98ee78aaed9]: Commencement: S. 19 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

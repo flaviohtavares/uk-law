@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Insertion of new Parts 14A and 14B[^key-ab3b0795ccc47d6ac910c2f725c305d0]
+## 65. Insertion of new Parts 14A and 14B[^c-ab3b0795ccc47d6ac910c2f725c305d0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The provisions contained in the Schedule to these Regulations are inserted after
 
 ## Annotations
 
-[^key-ab3b0795ccc47d6ac910c2f725c305d0]: Commencement: Reg. 65 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-ab3b0795ccc47d6ac910c2f725c305d0]: Commencement: Reg. 65 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

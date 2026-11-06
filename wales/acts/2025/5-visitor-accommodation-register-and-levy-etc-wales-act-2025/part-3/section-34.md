@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Adding an additional amount to a levy rate[^key-de5cd62e2aac488a7f725dcb60669b2c]
+## 34. Adding an additional amount to a levy rate[^c-de5cd62e2aac488a7f725dcb60669b2c]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de5cd62e2aac488a7f725dcb60669b2c]: Commencement: S. 34 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-de5cd62e2aac488a7f725dcb60669b2c]: Commencement: S. 34 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

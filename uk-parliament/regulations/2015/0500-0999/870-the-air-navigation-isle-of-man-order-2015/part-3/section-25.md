@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Circumstances where a certificate of release to service is not required[^key-f91825ed9a3e306a25cf5aab723999e2]
+## 25. Circumstances where a certificate of release to service is not required[^c-f91825ed9a3e306a25cf5aab723999e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f91825ed9a3e306a25cf5aab723999e2]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2015/870/article/25) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-f91825ed9a3e306a25cf5aab723999e2]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2015/870/article/25) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

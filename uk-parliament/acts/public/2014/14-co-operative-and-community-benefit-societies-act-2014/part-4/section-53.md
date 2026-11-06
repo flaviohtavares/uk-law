@@ -36,7 +36,7 @@ has the same effect as if it were executed under the society's common seal.
 - (a) has effect, upon delivery, as a deed, and
 - (b) is presumed to be delivered upon its being executed by the society, unless a contrary intention is proved.
 
-(5)[^key-ee9efe79deda1c646e95e78d6b50d4c2] In favour of a purchaser—
+(5)[^c-ee9efe79deda1c646e95e78d6b50d4c2] In favour of a purchaser—
 
 - (a) a document is treated as duly executed by a registered society if it purports to be signed by 2 authorised signatories, and
 - (b) where it makes it clear on its face that it is intended by the person or persons making it to be a deed, is treated as delivered upon its being executed.
@@ -52,4 +52,4 @@ has the same effect as if it were executed under the society's common seal.
 
 ## Annotations
 
-[^key-ee9efe79deda1c646e95e78d6b50d4c2]: Modification: [S. 53(5)](https://www.legislation.gov.uk/ukpga/2014/14/section/53/5) modified by 2002 c. 9, s. 91(9A) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 80](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/80) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-ee9efe79deda1c646e95e78d6b50d4c2]: Modification: [S. 53(5)](https://www.legislation.gov.uk/ukpga/2014/14/section/53/5) modified by 2002 c. 9, s. 91(9A) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 80](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/80) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

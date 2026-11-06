@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 50. Notification of nominated key-holders[^key-8332060f7108e2abcbfc25ef07804138]
+## 50. Notification of nominated key-holders[^c-8332060f7108e2abcbfc25ef07804138]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8332060f7108e2abcbfc25ef07804138]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2011/23/section/50) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-8332060f7108e2abcbfc25ef07804138]: Commencement: [S. 50](https://www.legislation.gov.uk/nia/2011/23/section/50) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

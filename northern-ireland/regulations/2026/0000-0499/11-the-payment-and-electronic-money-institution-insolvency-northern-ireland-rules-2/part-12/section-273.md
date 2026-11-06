@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 273. Notification relating to the administrator[^key-a9d3090a7841fde52217dfee1e121db0]
+## 273. Notification relating to the administrator[^c-a9d3090a7841fde52217dfee1e121db0]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In addition to the information required by rule 272 of these Rules, a notificati
 
 ## Annotations
 
-[^key-a9d3090a7841fde52217dfee1e121db0]: Commencement: [Rule 273](https://www.legislation.gov.uk/nisr/2026/11/rule/273) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-a9d3090a7841fde52217dfee1e121db0]: Commencement: [Rule 273](https://www.legislation.gov.uk/nisr/2026/11/rule/273) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

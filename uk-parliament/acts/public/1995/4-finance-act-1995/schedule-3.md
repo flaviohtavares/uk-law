@@ -248,7 +248,7 @@ and in relation to the winter period beginning with November 1995, sub-paragraph
 
 > (1A) This paragraph does not apply to any contravention or failure to comply with arrangements under paragraph 7A above or to any failure or refusal to comply with a requirement made under or for the purposes of any such arrangements.
 
-(10)[^key-db81e847fdece7384070eb633d3322c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-db81e847fdece7384070eb633d3322c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Consequential amendment of the Customs and Excise Management Act 1979
 
@@ -262,6 +262,6 @@ and in relation to the winter period beginning with November 1995, sub-paragraph
 
 [^c15673691]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 
-[^key-db81e847fdece7384070eb633d3322c7]: Textual amendment: Sch. 3 para. 11(10) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-db81e847fdece7384070eb633d3322c7]: Textual amendment: Sch. 3 para. 11(10) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
 
 [^c15673701]: Marginal citation: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2).

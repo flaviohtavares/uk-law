@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Partial asset-freeze in relation to designated persons[^key-5f8da5205a24677dff7421b036749568]
+## 18. Partial asset-freeze in relation to designated persons[^c-5f8da5205a24677dff7421b036749568]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f8da5205a24677dff7421b036749568]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-5f8da5205a24677dff7421b036749568]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

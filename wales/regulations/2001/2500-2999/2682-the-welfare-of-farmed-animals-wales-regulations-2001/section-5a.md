@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5A. Additional duties on owners and keepers of laying hens[^key-e0b846cc5e6f34921818a79faf933f1a]
+## 5A. Additional duties on owners and keepers of laying hens[^c-e0b846cc5e6f34921818a79faf933f1a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Owners and keepers of establishments with more than 350 laying hens shall ensure
 
 ## Annotations
 
-[^key-e0b846cc5e6f34921818a79faf933f1a]: Textual amendment: Reg. 5A added (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/5)
+[^c-e0b846cc5e6f34921818a79faf933f1a]: Textual amendment: Reg. 5A added (6.8.2002) by [The Welfare of Farmed Animals (Wales) (Amendment) Regulations 2002 (S.I. 2002/1898)](https://www.legislation.gov.uk/uksi/2002/1898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2002/1898/regulation/2/5)

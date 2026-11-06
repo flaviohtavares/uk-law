@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**6.**[^key-cc093abbd6fbaa639d45a51ace48e336] Any person who has not attained the age of 18 years shall be exempt from the requirements to hold a fishing licence for angling but where any such person uses more than one rod and line or hand line at the same time he shall be exempt from such requirement only in respect of one rod and line or one hand line as the case may be.
+**6.**[^c-cc093abbd6fbaa639d45a51ace48e336] Any person who has not attained the age of 18 years shall be exempt from the requirements to hold a fishing licence for angling but where any such person uses more than one rod and line or hand line at the same time he shall be exempt from such requirement only in respect of one rod and line or one hand line as the case may be.
 
 ## Annotations
 
-[^key-cc093abbd6fbaa639d45a51ace48e336]: Commencement: S. 6 in operation at 1.11.1997, see byelaw 1
+[^c-cc093abbd6fbaa639d45a51ace48e336]: Commencement: S. 6 in operation at 1.11.1997, see byelaw 1

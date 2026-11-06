@@ -43,11 +43,11 @@ The Postal Services Commission[^f00001] in exercise of the powers conferred by s
 
 ## PART I — General
 
-### 1. Citation and commencement[^key-732b3d8aa27fbe5b76abb22c13f08aa7]
+### 1. Citation and commencement[^c-732b3d8aa27fbe5b76abb22c13f08aa7]
 
 These Regulations may be cited as the Postal Services (Consumer Complaints Handling Standards) Regulations 2008 and shall come into force on 1st October 2008.
 
-### 2. Interpretation[^key-48181520c0e33482fd2ef5d21d4921ce]
+### 2. Interpretation[^c-48181520c0e33482fd2ef5d21d4921ce]
 
 In these Regulations—
 
@@ -75,7 +75,7 @@ In these Regulations—
 
 ## PART II — Standards for handling consumer complaints
 
-### 3. Regulated providers’ complaints handling procedure[^key-7c3e9731ee9a4229138e86c64b012a10]
+### 3. Regulated providers’ complaints handling procedure[^c-7c3e9731ee9a4229138e86c64b012a10]
 
 (1) Each regulated provider must have in place at all times a complaints handling procedure.
 
@@ -98,7 +98,7 @@ In these Regulations—
 
 (4) Each regulated provider must, not less than once every three calendar years, review its complaints handling procedure and seek feedback from a reasonable number of complainants to ensure the complaints handling procedure meets the needs of relevant consumers.
 
-### 4. Recording consumer complaints[^key-906c94c0dfff10936fcc29bc958ba935]
+### 4. Recording consumer complaints[^c-906c94c0dfff10936fcc29bc958ba935]
 
 (1) Upon receipt of a consumer complaint made through its complaints handling procedure each regulated provider must record in a written or electronic format the following details—
 
@@ -118,7 +118,7 @@ In these Regulations—
 - (a) must as soon as reasonably practicable take account of that consumer complaint in any report which it is obliged to prepare and publish in accordance with Regulation 9;
 - (b) shall not otherwise be entitled to treat that consumer complaint as a completed complaint for the purposes of these Regulations until that consumer complaint is demonstrably a completed complaint.
 
-### 5. Signposting consumers to the redress scheme if consumer complaints cannot be completed[^key-7795a935c610328d4f5250e09a7d7901]
+### 5. Signposting consumers to the redress scheme if consumer complaints cannot be completed[^c-7795a935c610328d4f5250e09a7d7901]
 
 (1) Each regulated provider must send a notice to a complainant in accordance with paragraph (2) on the earlier of—
 
@@ -134,11 +134,11 @@ In these Regulations—
 - (e) of the types of redress that may be available under a qualifying redress scheme; and
 - (f) that any outcome of the qualifying redress scheme process is binding upon the regulated provider but not upon the complainant.
 
-### 6. Allocation and maintenance of adequate resources for complaints handling[^key-5b56a5c06c699c316bed07bc594b2957]
+### 6. Allocation and maintenance of adequate resources for complaints handling[^c-5b56a5c06c699c316bed07bc594b2957]
 
 Each regulated provider must allocate and maintain such level of resources as may reasonably be required to enable that regulated provider to receive, handle and process consumer complaints made through its complaints handling procedure in an efficient and timely manner and in accordance with these Regulations.
 
-### 7. Vulnerable consumers[^key-15c0065cf5da859b76970a89086580c0]
+### 7. Vulnerable consumers[^c-15c0065cf5da859b76970a89086580c0]
 
 (1) Each regulated provider must put in place arrangements to deal with section 12 complaints made through its complaints handling procedure.
 
@@ -146,7 +146,7 @@ Each regulated provider must allocate and maintain such level of resources as ma
 
 ## PART III — Supply of information to consumers
 
-### 8. Information to be provided to consumers[^key-bc7224d6647cd37dbf628fa7a623137e]
+### 8. Information to be provided to consumers[^c-bc7224d6647cd37dbf628fa7a623137e]
 
 (1) Each regulated provider must—
 
@@ -161,7 +161,7 @@ Each regulated provider must allocate and maintain such level of resources as ma
 
 (3) Each regulated provider must provide a copy of its complaints handling procedure, free of charge, to any person who requests it.
 
-### 9. Publication of information on consumer complaints[^key-562b01b0938c04c3a8c752b53e20b35c]
+### 9. Publication of information on consumer complaints[^c-562b01b0938c04c3a8c752b53e20b35c]
 
 (1) Each regulated provider must—
 
@@ -212,24 +212,24 @@ The Regulations do not require complaints handling procedures to apply to sender
 
 [^f00002]: Footnote: [2007 c.17](https://www.legislation.gov.uk/ukpga/2007/17).
 
-[^key-732b3d8aa27fbe5b76abb22c13f08aa7]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-732b3d8aa27fbe5b76abb22c13f08aa7]: Commencement: Reg. 1 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
 
-[^key-48181520c0e33482fd2ef5d21d4921ce]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-48181520c0e33482fd2ef5d21d4921ce]: Commencement: Reg. 2 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
 
 [^f00003]: Footnote: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40).
 
 [^f00004]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-7c3e9731ee9a4229138e86c64b012a10]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-7c3e9731ee9a4229138e86c64b012a10]: Commencement: Reg. 3 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
 
-[^key-906c94c0dfff10936fcc29bc958ba935]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-906c94c0dfff10936fcc29bc958ba935]: Commencement: Reg. 4 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
 
-[^key-7795a935c610328d4f5250e09a7d7901]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-7795a935c610328d4f5250e09a7d7901]: Commencement: Reg. 5 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
 
-[^key-5b56a5c06c699c316bed07bc594b2957]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-5b56a5c06c699c316bed07bc594b2957]: Commencement: Reg. 6 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
 
-[^key-15c0065cf5da859b76970a89086580c0]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-15c0065cf5da859b76970a89086580c0]: Commencement: Reg. 7 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
 
-[^key-bc7224d6647cd37dbf628fa7a623137e]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-bc7224d6647cd37dbf628fa7a623137e]: Commencement: Reg. 8 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
 
-[^key-562b01b0938c04c3a8c752b53e20b35c]: Commencement: Reg. 9 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)
+[^c-562b01b0938c04c3a8c752b53e20b35c]: Commencement: Reg. 9 in force at 1.10.2008, see [reg. 1](https://www.legislation.gov.uk/uksi/2008/2355/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Committee–members’ representatives[^key-83d958b99c3d10b680d42caa7dd95458]
+## 123. Committee–members’ representatives[^c-83d958b99c3d10b680d42caa7dd95458]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.159 of the 1986 Rules[^f00052].
 
 ## Annotations
 
-[^key-83d958b99c3d10b680d42caa7dd95458]: Commencement: Rule 123 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-83d958b99c3d10b680d42caa7dd95458]: Commencement: Rule 123 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00052]: Footnote: Rule 4.159 was amended by [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919), [S.I. 2004/584](https://www.legislation.gov.uk/uksi/2004/584) and [S.I. 2009/2472](https://www.legislation.gov.uk/uksi/2009/2472).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 301. Shared ownership leases: protection for certain leases[^key-1eec8663518d264b7aea46fe64453e48][^key-23f815e2356b9ae31904f4b2a1105cdb]
+## 301. Shared ownership leases: protection for certain leases[^c-1eec8663518d264b7aea46fe64453e48][^c-23f815e2356b9ae31904f4b2a1105cdb]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1eec8663518d264b7aea46fe64453e48]: Commencement: S. 301 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(5)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/5) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-1eec8663518d264b7aea46fe64453e48]: Commencement: S. 301 in force at 1.12.2008 for specified purposes by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(5)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/5) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
 
-[^key-23f815e2356b9ae31904f4b2a1105cdb]: Commencement: [S. 301](https://www.legislation.gov.uk/ukpga/2008/17/section/301) in force at 7.9.2009 for E. in so far as not already in force by [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/b) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/2))
+[^c-23f815e2356b9ae31904f4b2a1105cdb]: Commencement: [S. 301](https://www.legislation.gov.uk/ukpga/2008/17/section/301) in force at 7.9.2009 for E. in so far as not already in force by [S.I. 2009/2096](https://www.legislation.gov.uk/uksi/2009/2096), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2096/article/2/2/b) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2009/2096/article/3/2))

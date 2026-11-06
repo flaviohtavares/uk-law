@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Amendment of regulation 19 (variation of registrations)[^key-2cf997a2ab669d0d1089ed68a58bdd39]
+## 12. Amendment of regulation 19 (variation of registrations)[^c-2cf997a2ab669d0d1089ed68a58bdd39]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 19(1) (variation of registrations), insert “or more” after “
 
 ## Annotations
 
-[^key-2cf997a2ab669d0d1089ed68a58bdd39]: Commencement: Reg. 12 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-2cf997a2ab669d0d1089ed68a58bdd39]: Commencement: Reg. 12 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

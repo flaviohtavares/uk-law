@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Notification of determinations and directions under Article 11 of the Order[^key-24c29e38c5e9471de3502024802288bd]
+## 33. Notification of determinations and directions under Article 11 of the Order[^c-24c29e38c5e9471de3502024802288bd]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ The claimant shall be notified of—
 
 ## Annotations
 
-[^key-24c29e38c5e9471de3502024802288bd]: Commencement: Reg. 33 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-24c29e38c5e9471de3502024802288bd]: Commencement: Reg. 33 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

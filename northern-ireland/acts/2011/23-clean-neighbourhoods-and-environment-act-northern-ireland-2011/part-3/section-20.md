@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Failure to comply with notice: fixed penalty notices[^key-ce3d428cd7c07566b2e4c7d6a8450397]
+## 20. Failure to comply with notice: fixed penalty notices[^c-ce3d428cd7c07566b2e4c7d6a8450397]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ After Article 14 of the Litter (Northern Ireland) Order 1994 (NI 10) insert—
 
 ## Annotations
 
-[^key-ce3d428cd7c07566b2e4c7d6a8450397]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2011/23/section/20) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-ce3d428cd7c07566b2e4c7d6a8450397]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2011/23/section/20) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

@@ -46,11 +46,11 @@ Coming into force
 
 The Secretary of State, a Minister designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to immigration, asylum, refugees and displaced persons, makes the following Regulations in exercise of the powers conferred by that section:
 
-## 1. Citation and commencement[^key-03904dfdc4de7253084162d1a00a7942]
+## 1. Citation and commencement[^c-03904dfdc4de7253084162d1a00a7942]
 
 These Regulations may be cited as the Asylum (Procedures) Regulations 2007 and shall come into force on 1st December 2007.
 
-## 2. Interpretation[^key-f3567b187cde3ba7be0c1b8c5faad11c]
+## 2. Interpretation[^c-f3567b187cde3ba7be0c1b8c5faad11c]
 
 In these Regulations –
 
@@ -58,7 +58,7 @@ In these Regulations –
 - “the 2002 Act” means the Nationality, Immigration and Asylum Act 2002[^f00004];
 - “asylum claim” and “human rights claim” have the meanings given to them in section 113 of the 2002 Act[^f00005].
 
-## 3. Designation of States or parts of States for the purposes of section 94 of the 2002 Act[^key-06c59c918ec57390143560df928149cb]
+## 3. Designation of States or parts of States for the purposes of section 94 of the 2002 Act[^c-06c59c918ec57390143560df928149cb]
 
 After subsection (5C) of section 94 of the 2002 Act[^f00006] insert –
 
@@ -67,15 +67,15 @@ After subsection (5C) of section 94 of the 2002 Act[^f00006] insert –
 > - (a) shall have regard to all the circumstances of the State or part (including its laws and how they are applied), and
 > - (b) shall have regard to information from any appropriate source (including other member States and international organisations).
 
-## 4. European Common List of Safe Countries of Origin[^key-bf2bda2947325e6aa96423b4983333a2]
+## 4. European Common List of Safe Countries of Origin[^c-bf2bda2947325e6aa96423b4983333a2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Interpreters[^key-c9a0f5b35ce7f24f90c24b4e885e10bf]
+## 5. Interpreters[^c-c9a0f5b35ce7f24f90c24b4e885e10bf]
 
 (1) Paragraph (2) applies where a person who has made an asylum or a human rights claim (or both) –
 
-- (a) appeals under section 82 [^key-854e901dfc1c9923de18b31226d5122d]... of the 2002 Act[^f00007] or section 2 of the 1997 Act[^f00008], and
+- (a) appeals under section 82 [^c-854e901dfc1c9923de18b31226d5122d]... of the 2002 Act[^f00007] or section 2 of the 1997 Act[^f00008], and
 - (b) by virtue of Rules made under section 106 of the 2002 Act[^f00009] or sections 5 and 8 of the 1997 Act[^f00010] is entitled to the services of an interpreter for the purposes of bringing his appeal.
 
 (2) The Secretary of State shall defray the costs of providing the interpreter.
@@ -98,7 +98,7 @@ After subsection (5C) of section 94 of the 2002 Act[^f00006] insert –
 
 (6) Where a person is entitled to the services of an interpreter under paragraph (5), the Secretary of State shall defray the costs of providing such interpreter.
 
-## 6. Amendment to the Immigration (Notices) Regulations 2003[^key-d9f81c6d5f93679fc0a8a514787fa1bf]
+## 6. Amendment to the Immigration (Notices) Regulations 2003[^c-d9f81c6d5f93679fc0a8a514787fa1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -132,9 +132,9 @@ Regulation 6 amends the Immigration (Notices) Regulations 2003 to provide that a
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-03904dfdc4de7253084162d1a00a7942]: Commencement: Reg. 1 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
+[^c-03904dfdc4de7253084162d1a00a7942]: Commencement: Reg. 1 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
 
-[^key-f3567b187cde3ba7be0c1b8c5faad11c]: Commencement: Reg. 2 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
+[^c-f3567b187cde3ba7be0c1b8c5faad11c]: Commencement: Reg. 2 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
 
 [^f00003]: Footnote: [1997 c. 68](https://www.legislation.gov.uk/ukpga/1997/68).
 
@@ -142,15 +142,15 @@ Regulation 6 amends the Immigration (Notices) Regulations 2003 to provide that a
 
 [^f00005]: Footnote: Section 113 has been amended by the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13).
 
-[^key-06c59c918ec57390143560df928149cb]: Commencement: Reg. 3 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
+[^c-06c59c918ec57390143560df928149cb]: Commencement: Reg. 3 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
 
 [^f00006]: Footnote: Subsection (5C) was inserted by section 27 of the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19).
 
-[^key-bf2bda2947325e6aa96423b4983333a2]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3187/regulation/4) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-bf2bda2947325e6aa96423b4983333a2]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/3187/regulation/4) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
 
-[^key-c9a0f5b35ce7f24f90c24b4e885e10bf]: Commencement: Reg. 5 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
+[^c-c9a0f5b35ce7f24f90c24b4e885e10bf]: Commencement: Reg. 5 in force at 1.12.2007, see [reg. 1](https://www.legislation.gov.uk/uksi/2007/3187/regulation/1)
 
-[^key-854e901dfc1c9923de18b31226d5122d]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2007/3187/regulation/5/1/a) omitted (6.4.2015) by virtue of [The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015 (S.I. 2015/383)](https://www.legislation.gov.uk/uksi/2015/383), [arts. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/383/article/2/2) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/383/article/5/2))
+[^c-854e901dfc1c9923de18b31226d5122d]: Textual amendment: Words in [reg. 5(1)(a)](https://www.legislation.gov.uk/uksi/2007/3187/regulation/5/1/a) omitted (6.4.2015) by virtue of [The Immigration (Appeals) (Consequential Amendments and Saving Provision) Order 2015 (S.I. 2015/383)](https://www.legislation.gov.uk/uksi/2015/383), [arts. 1](https://www.legislation.gov.uk/uksi/2015/383/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/383/article/2/2) (with [art. 5(2)](https://www.legislation.gov.uk/uksi/2015/383/article/5/2))
 
 [^f00007]: Footnote: Section 82 has been amended by the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19) and the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13). Section 83 has been amended by the Asylum and Immigration (Treatment of Claimants, etc.) Act [2004 (c. 19)](https://www.legislation.gov.uk/ukpga/2004/19). Section 83A was inserted by the Immigration, Asylum and Nationality Act [2006 (c. 13)](https://www.legislation.gov.uk/ukpga/2006/13).
 
@@ -168,4 +168,4 @@ Regulation 6 amends the Immigration (Notices) Regulations 2003 to provide that a
 
 [^f00014]: Footnote: [1978 Act c.23.](https://www.legislation.gov.uk/ukpga/1978/23) Section 18 has been amended by the Magistrates’ Courts (Northern Ireland) Order 1981 ([S.I. 1981/1675](https://www.legislation.gov.uk/uksi/1981/1675)).
 
-[^key-d9f81c6d5f93679fc0a8a514787fa1bf]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3187/regulation/6) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-d9f81c6d5f93679fc0a8a514787fa1bf]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/3187/regulation/6) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

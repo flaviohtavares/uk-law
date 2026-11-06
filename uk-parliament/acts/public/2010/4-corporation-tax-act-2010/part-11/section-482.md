@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 482. Condition as to trading and miscellaneous incoming resources[^key-943c9d14fefad62f6647d5fa650febc2]
+## 482. Condition as to trading and miscellaneous incoming resources[^c-943c9d14fefad62f6647d5fa650febc2]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,18 +44,18 @@ summary: ''
 (6) The requisite limit—
 
 - (a) is 25% of the charitable company's total incoming resources for the accounting period, but
-- (b) must not be less than £8,000[^key-2a74b02ecdd5266f06a0f04a6a545401] or more than £80,000.[^key-c19d3895736ca7fee3cc655069d7875e]
+- (b) must not be less than £8,000[^c-2a74b02ecdd5266f06a0f04a6a545401] or more than £80,000.[^c-c19d3895736ca7fee3cc655069d7875e]
 
-(7) If the accounting period is shorter than 12 months, the amounts of £8,000[^key-a723542398693318dbe29533b57acc15] and £80,000[^key-607408c66ca11474e1b20450f77c6dd4] mentioned in subsection (6)(b) are proportionately reduced.
+(7) If the accounting period is shorter than 12 months, the amounts of £8,000[^c-a723542398693318dbe29533b57acc15] and £80,000[^c-607408c66ca11474e1b20450f77c6dd4] mentioned in subsection (6)(b) are proportionately reduced.
 
 ## Annotations
 
-[^key-943c9d14fefad62f6647d5fa650febc2]: Modification: Ss. 481, 482 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 6(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/6/6)
+[^c-943c9d14fefad62f6647d5fa650febc2]: Modification: Ss. 481, 482 modified (22.7.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 16 para. 6(6)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/16/paragraph/6/6)
 
-[^key-2a74b02ecdd5266f06a0f04a6a545401]: Textual amendment: S. 482(6)(b) sum substituted (with effect in accordance with s. 41(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 41(4)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/41/4/a)
+[^c-2a74b02ecdd5266f06a0f04a6a545401]: Textual amendment: S. 482(6)(b) sum substituted (with effect in accordance with s. 41(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 41(4)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/41/4/a)
 
-[^key-c19d3895736ca7fee3cc655069d7875e]: Textual amendment: S. 482(6)(b) sum substituted (with effect in accordance with s. 41(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 41(4)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/41/4/b)
+[^c-c19d3895736ca7fee3cc655069d7875e]: Textual amendment: S. 482(6)(b) sum substituted (with effect in accordance with s. 41(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 41(4)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/41/4/b)
 
-[^key-a723542398693318dbe29533b57acc15]: Textual amendment: S. 482(7) sum substituted (with effect in accordance with s. 41(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 41(5)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/41/5/a)
+[^c-a723542398693318dbe29533b57acc15]: Textual amendment: S. 482(7) sum substituted (with effect in accordance with s. 41(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 41(5)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/41/5/a)
 
-[^key-607408c66ca11474e1b20450f77c6dd4]: Textual amendment: S. 482(7) sum substituted (with effect in accordance with s. 41(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 41(5)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/41/5/b)
+[^c-607408c66ca11474e1b20450f77c6dd4]: Textual amendment: S. 482(7) sum substituted (with effect in accordance with s. 41(6) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 41(5)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/41/5/b)

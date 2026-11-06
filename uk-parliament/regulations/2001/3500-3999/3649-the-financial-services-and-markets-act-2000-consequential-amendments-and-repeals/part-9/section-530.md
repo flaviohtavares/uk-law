@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 530. Prescribed circumstances: accounts with exempt deposit-takers[^key-70c246897caceec13dee4b4cefea17d6]
+## 530. Prescribed circumstances: accounts with exempt deposit-takers[^c-70c246897caceec13dee4b4cefea17d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ summary: ''
 
 ## Annotations
 
-[^key-70c246897caceec13dee4b4cefea17d6]: Commencement: Art. 530 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-70c246897caceec13dee4b4cefea17d6]: Commencement: Art. 530 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00341]: Footnote: Paragraph (1)(a) and (b) was amended by [S.I. 1999/3198](https://www.legislation.gov.uk/uksi/1999/3198), regulation 10(1) and (3).
 

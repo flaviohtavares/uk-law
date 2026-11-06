@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 197. Power to require information by notice[^key-301cf10910ba7e55080174453ed00424][^key-8f94fc0a250ae798b63a8e84d2c6c21d]
+## 197. Power to require information by notice[^c-301cf10910ba7e55080174453ed00424][^c-8f94fc0a250ae798b63a8e84d2c6c21d]
 
 *Extent: E+W*
 
 (1) A relevant authority may serve a notice (an “information notice”) requiring the occupier of any land or a person who receives rent (either directly or indirectly) in respect of any land to confirm in writing—
 
 - (a) the nature of the person’s interest in the land, and
-- (b) the name and postal[^key-fc6b2fbb65612afc766ebc4b70f7fa74] address of any other person known to the person as having an interest in the land.
+- (b) the name and postal[^c-fc6b2fbb65612afc766ebc4b70f7fa74] address of any other person known to the person as having an interest in the land.
 
 (2) But a relevant authority may not serve an information notice unless the information required by the notice is needed by the authority to enable it to—
 
@@ -42,8 +42,8 @@ summary: ''
 
 ## Annotations
 
-[^key-301cf10910ba7e55080174453ed00424]: Commencement: S. 197 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-301cf10910ba7e55080174453ed00424]: Commencement: S. 197 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-8f94fc0a250ae798b63a8e84d2c6c21d]: Commencement: [S. 197](https://www.legislation.gov.uk/asc/2023/3/section/197) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-8f94fc0a250ae798b63a8e84d2c6c21d]: Commencement: [S. 197](https://www.legislation.gov.uk/asc/2023/3/section/197) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
 
-[^key-fc6b2fbb65612afc766ebc4b70f7fa74]: Textual amendment: Word in [s. 197(1)(b)](https://www.legislation.gov.uk/asc/2023/3/section/197/1/b) inserted (28.4.2026) by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 62](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/62) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))
+[^c-fc6b2fbb65612afc766ebc4b70f7fa74]: Textual amendment: Word in [s. 197(1)(b)](https://www.legislation.gov.uk/asc/2023/3/section/197/1/b) inserted (28.4.2026) by [Planning (Consequential Provisions) (Wales) Act 2026 (asc 7)](https://www.legislation.gov.uk/asc/2026/7), [s. 5(1)](https://www.legislation.gov.uk/asc/2026/7/section/5/1), [Sch. 3 para. 62](https://www.legislation.gov.uk/asc/2026/7/schedule/3/paragraph/62) (with [Sch. 5 Pt. 1](https://www.legislation.gov.uk/asc/2026/7/schedule/5/part/1))

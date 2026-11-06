@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Application of docks legislation[^key-572c3c27375a506c1dbf142f0d3acb3f]
+## 14. Application of docks legislation[^c-572c3c27375a506c1dbf142f0d3acb3f]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Section 32 of the Ipswich Dock Act 1852[^f00019] (obligations in respect of work
 
 ## Annotations
 
-[^key-572c3c27375a506c1dbf142f0d3acb3f]: Commencement: Art. 14 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-572c3c27375a506c1dbf142f0d3acb3f]: Commencement: Art. 14 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
 
 [^f00019]: Footnote: [1852 c. cxvi](https://www.legislation.gov.uk/ukla/1852/116).

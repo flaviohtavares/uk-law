@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power to close register[^key-427c2f3928cee6addf486a66d4d4a5cb]
+## 50. Power to close register[^c-427c2f3928cee6addf486a66d4d4a5cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-427c2f3928cee6addf486a66d4d4a5cb]: Textual amendment: Reg. 50 omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/14) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))
+[^c-427c2f3928cee6addf486a66d4d4a5cb]: Textual amendment: Reg. 50 omitted (12.5.2011) by virtue of [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [Sch. 2 para. 14](https://www.legislation.gov.uk/uksi/2011/1265/schedule/2/paragraph/14) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2011/1265/schedule/3))

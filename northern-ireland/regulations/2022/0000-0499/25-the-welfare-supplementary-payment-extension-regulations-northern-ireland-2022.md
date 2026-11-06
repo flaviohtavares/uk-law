@@ -44,7 +44,7 @@ The Department for Communities[^f00001] makes these Regulations in exercise of t
 
 In accordance with Article 137(5) of that Order, a draft of these Regulations has been laid before, and approved by a resolution of, the Assembly.
 
-## 1. Citation and commencement[^key-213cc1743eb9fd37ae3c88864d22d2de]
+## 1. Citation and commencement[^c-213cc1743eb9fd37ae3c88864d22d2de]
 
 (1) These Regulations may be cited as the Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022.
 
@@ -52,29 +52,29 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 
 (3) Regulations 3, 5, 7 and 9 come into operation at the end of the period of 13 months beginning on the day these Regulations are made.
 
-## 2. Amendment of the Welfare Supplementary Payments Regulations (Northern Ireland) 2016[^key-90bd367c32eb88723c68119ab9f6006a]
+## 2. Amendment of the Welfare Supplementary Payments Regulations (Northern Ireland) 2016[^c-90bd367c32eb88723c68119ab9f6006a]
 
 (1) The Welfare Supplementary Payments Regulations (Northern Ireland) 2016[^f00003] are amended as follows.
 
-(2)[^key-a3429dfc280219609a567178e2782189] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a3429dfc280219609a567178e2782189] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 4(6)—
 
 - (a) for “ends on 31st March 2020” substitute “ends on 31st March 2025”;
-- (b)[^key-857696aa9f7330f291c606770d29e5bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-857696aa9f7330f291c606770d29e5bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5c4eeb3fc7466b3f4a48d3b99abe06c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5c4eeb3fc7466b3f4a48d3b99abe06c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-5c4eeb3fc7466b3f4a48d3b99abe06c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-5c4eeb3fc7466b3f4a48d3b99abe06c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-5c4eeb3fc7466b3f4a48d3b99abe06c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-5c4eeb3fc7466b3f4a48d3b99abe06c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In regulation 10—
 
 - (a) in paragraph (3)(b) for “on 31st March 2020” substitute “on 31st March 2025”;
-- (b)[^key-ec2ba8e3d1745ffa6f8a8910563585db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ec2ba8e3d1745ffa6f8a8910563585db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-16c79b3be00cc4cc6b8b5aa24fcfa28f] (1) The Welfare Supplementary Payments Regulations (Northern Ireland) 2016, as amended by regulation 2, are further amended in accordance with paragraphs (2) to (7).
+**3.**[^c-16c79b3be00cc4cc6b8b5aa24fcfa28f] (1) The Welfare Supplementary Payments Regulations (Northern Ireland) 2016, as amended by regulation 2, are further amended in accordance with paragraphs (2) to (7).
 
 (2) In regulation 1(2) omit the definition of “the administrative period”.
 
@@ -88,7 +88,7 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 
 (7) In consequence of paragraphs (2) to (7) omit regulation 2(2), 2(3)(b), 2(4) to (6) and (7)(b) of these Regulations.
 
-## 4. Amendment of the Welfare Supplementary Payment (Loss of Carer Payments) Regulations (Northern Ireland) 2016[^key-0b0a8dc5d0bd32f6f241070c87299be0]
+## 4. Amendment of the Welfare Supplementary Payment (Loss of Carer Payments) Regulations (Northern Ireland) 2016[^c-0b0a8dc5d0bd32f6f241070c87299be0]
 
 (1) The Welfare Supplementary Payment (Loss of Carer Payments) Regulations (Northern Ireland) 2016[^f00004] are amended as follows.
 
@@ -110,7 +110,7 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 (3) In each of regulations 6, 10, 14 and 18—
 
 - (a) in paragraph (3)(b) for “on 31st March 2020” substitute “on 31st March 2025”;
-- (b)[^key-308108d9d7d01f39c37684cc8f9e6c85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-308108d9d7d01f39c37684cc8f9e6c85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulation 20—
 
@@ -142,9 +142,9 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 
 .
 
-(7)[^key-c6c26bab1b288684d27a90b1834e65e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c6c26bab1b288684d27a90b1834e65e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-e1d09216cb74be8cb0aafe95330a4246] (1) The Welfare Supplementary Payment (Loss of Carer Payments) Regulations (Northern Ireland) 2016, as amended by regulation 4, are further amended in accordance with paragraphs (2) and (3).
+**5.**[^c-e1d09216cb74be8cb0aafe95330a4246] (1) The Welfare Supplementary Payment (Loss of Carer Payments) Regulations (Northern Ireland) 2016, as amended by regulation 4, are further amended in accordance with paragraphs (2) and (3).
 
 (2) In each of regulations 6, 10, 14 and 18, omit paragraph (4).
 
@@ -152,7 +152,7 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 
 (4) In consequence of paragraphs (2) and (3) omit regulation 4(3)(b) and (7) of these Regulations.
 
-## 6. Amendment of the Welfare Supplementary Payment (Loss of Disability Living Allowance) Regulations (Northern Ireland) 2016[^key-e49b3e9d8e0aef5142cf10f77d069f09]
+## 6. Amendment of the Welfare Supplementary Payment (Loss of Disability Living Allowance) Regulations (Northern Ireland) 2016[^c-e49b3e9d8e0aef5142cf10f77d069f09]
 
 (1) The Welfare Supplementary Payment (Loss of Disability Living Allowance) Regulations (Northern Ireland) 2016[^f00005] are amended as follows.
 
@@ -187,20 +187,20 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 (6) In regulation 11—
 
 - (a) in paragraph (3)(b) for “on 31st March 2020” substitute “on 31st March 2025”;
-- (b)[^key-c6b2f35cd8611556b778def65b30786a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c6b2f35cd8611556b778def65b30786a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In regulation 19—
 
 - (a) in paragraph (4)(b) for “on 31st March 2020” substitute “on 31st March 2025”;
-- (b)[^key-daa2d1340b812b2331678b36d1b3ce54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-daa2d1340b812b2331678b36d1b3ce54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-43fa43e5d98fdc268acd9245fa037f05] (1) The Welfare Supplementary Payment (Loss of Disability Living Allowance) Regulations (Northern Ireland) 2016, as amended by regulation 6, are further amended in accordance with paragraph (2).
+**7.**[^c-43fa43e5d98fdc268acd9245fa037f05] (1) The Welfare Supplementary Payment (Loss of Disability Living Allowance) Regulations (Northern Ireland) 2016, as amended by regulation 6, are further amended in accordance with paragraph (2).
 
 (2) Omit regulations 11(4) and 19(5).
 
 (3) In consequence of paragraph (2) omit regulation 6(6)(b) and 6(7)(b) of these regulations.
 
-## 8. Amendment of the Welfare Supplementary Payment (Loss of Disability-Related Premiums) Regulations (Northern Ireland) 2016[^key-e3afc16ea7b13c1753a5adfc538f5d52]
+## 8. Amendment of the Welfare Supplementary Payment (Loss of Disability-Related Premiums) Regulations (Northern Ireland) 2016[^c-e3afc16ea7b13c1753a5adfc538f5d52]
 
 (1) The Welfare Supplementary Payment (Loss of Disability-Related Premiums) Regulations (Northern Ireland) 2016[^f00006] are amended as follows.
 
@@ -221,7 +221,7 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 (4) In each of regulations 8, 17, 24, 30 and 36—
 
 - (a) in paragraph (3)(b) for “on 31st March 2020” substitute “on 31st March 2025”;
-- (b)[^key-cb2026317028e5375ced7efdab5e2540] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-cb2026317028e5375ced7efdab5e2540] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In regulation 38A, after paragraph (2) insert—
 
@@ -289,7 +289,7 @@ In accordance with Article 137(5) of that Order, a draft of these Regulations ha
 
   .
 
-**9.**[^key-6827bdf1cec0752492bec2553019f54a] (1) The Welfare Supplementary Payment (Loss of Disability-Related Premiums) Regulations (Northern Ireland) 2016, as amended by regulation 8, are further amended in accordance with paragraphs (2) to (4).
+**9.**[^c-6827bdf1cec0752492bec2553019f54a] (1) The Welfare Supplementary Payment (Loss of Disability-Related Premiums) Regulations (Northern Ireland) 2016, as amended by regulation 8, are further amended in accordance with paragraphs (2) to (4).
 
 (2) In each of regulations 8, 17, 24, 30 and 36, omit paragraph (4).
 
@@ -323,46 +323,46 @@ In some cases, welfare supplementary payment is limited to being paid for a maxi
 
 [^f00002]: Footnote: [S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006).
 
-[^key-213cc1743eb9fd37ae3c88864d22d2de]: Commencement: Reg. 1 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
+[^c-213cc1743eb9fd37ae3c88864d22d2de]: Commencement: Reg. 1 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
 
-[^key-90bd367c32eb88723c68119ab9f6006a]: Commencement: Reg. 2 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
+[^c-90bd367c32eb88723c68119ab9f6006a]: Commencement: Reg. 2 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2016 No. 178](https://www.legislation.gov.uk/nisr/2016/178). Regulations 4D and 4E were inserted by [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28).
 
-[^key-a3429dfc280219609a567178e2782189]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/2/2) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/3/7)
+[^c-a3429dfc280219609a567178e2782189]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/2/2) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/3/7)
 
-[^key-857696aa9f7330f291c606770d29e5bf]: Textual amendment: [Reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/2/3/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/3/7)
+[^c-857696aa9f7330f291c606770d29e5bf]: Textual amendment: [Reg. 2(3)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/2/3/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/3/7)
 
-[^key-5c4eeb3fc7466b3f4a48d3b99abe06c2]: Textual amendment: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2022/25/regulation/2/4) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/3/7)
+[^c-5c4eeb3fc7466b3f4a48d3b99abe06c2]: Textual amendment: [Reg. 2(4)-(6)](https://www.legislation.gov.uk/nisr/2022/25/regulation/2/4) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/3/7)
 
-[^key-ec2ba8e3d1745ffa6f8a8910563585db]: Textual amendment: [Reg. 2(7)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/2/7/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/3/7)
+[^c-ec2ba8e3d1745ffa6f8a8910563585db]: Textual amendment: [Reg. 2(7)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/2/7/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [3(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/3/7)
 
-[^key-16c79b3be00cc4cc6b8b5aa24fcfa28f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/25/regulation/3) in operation at 1.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3)
+[^c-16c79b3be00cc4cc6b8b5aa24fcfa28f]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2022/25/regulation/3) in operation at 1.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3)
 
-[^key-0b0a8dc5d0bd32f6f241070c87299be0]: Commencement: Reg. 4 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
+[^c-0b0a8dc5d0bd32f6f241070c87299be0]: Commencement: Reg. 4 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
 
 [^f00004]: Footnote: [S.R. 2016 No. 253](https://www.legislation.gov.uk/nisr/2016/253). Regulations 2(1), 20(2) and 22(2) were amended, and regulations 21A and 22A were inserted, by [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28).
 
-[^key-308108d9d7d01f39c37684cc8f9e6c85]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/4/3/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [5(4)](https://www.legislation.gov.uk/nisr/2022/25/regulation/5/4)
+[^c-308108d9d7d01f39c37684cc8f9e6c85]: Textual amendment: [Reg. 4(3)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/4/3/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [5(4)](https://www.legislation.gov.uk/nisr/2022/25/regulation/5/4)
 
-[^key-c6c26bab1b288684d27a90b1834e65e7]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/4/7) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [5(4)](https://www.legislation.gov.uk/nisr/2022/25/regulation/5/4)
+[^c-c6c26bab1b288684d27a90b1834e65e7]: Textual amendment: [Reg. 4(7)](https://www.legislation.gov.uk/nisr/2022/25/regulation/4/7) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [5(4)](https://www.legislation.gov.uk/nisr/2022/25/regulation/5/4)
 
-[^key-e1d09216cb74be8cb0aafe95330a4246]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/25/regulation/5) in operation at 1.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3)
+[^c-e1d09216cb74be8cb0aafe95330a4246]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2022/25/regulation/5) in operation at 1.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3)
 
-[^key-e49b3e9d8e0aef5142cf10f77d069f09]: Commencement: Reg. 6 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
+[^c-e49b3e9d8e0aef5142cf10f77d069f09]: Commencement: Reg. 6 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
 
 [^f00005]: Footnote: [S.R. 2016 No. 250](https://www.legislation.gov.uk/nisr/2016/250). Regulation 7(2) was substituted, and regulations 12(2) and 20(2) were amended, by [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28).
 
-[^key-c6b2f35cd8611556b778def65b30786a]: Textual amendment: [Reg. 6(6)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/6/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [7(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/7/3)
+[^c-c6b2f35cd8611556b778def65b30786a]: Textual amendment: [Reg. 6(6)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/6/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [7(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/7/3)
 
-[^key-daa2d1340b812b2331678b36d1b3ce54]: Textual amendment: [Reg. 6(7)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/7/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [7(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/7/3)
+[^c-daa2d1340b812b2331678b36d1b3ce54]: Textual amendment: [Reg. 6(7)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/6/7/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [7(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/7/3)
 
-[^key-43fa43e5d98fdc268acd9245fa037f05]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2022/25/regulation/7) in operation at 1.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3)
+[^c-43fa43e5d98fdc268acd9245fa037f05]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2022/25/regulation/7) in operation at 1.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3)
 
-[^key-e3afc16ea7b13c1753a5adfc538f5d52]: Commencement: Reg. 8 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
+[^c-e3afc16ea7b13c1753a5adfc538f5d52]: Commencement: Reg. 8 in operation at 1.2.2022, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/2)
 
 [^f00006]: Footnote: [S.R. 2016 No. 254](https://www.legislation.gov.uk/nisr/2016/254). Regulation 2(1) was amended, and regulations 38A to 38D and 39(2A) were inserted, by [S.R. 2017 No. 28](https://www.legislation.gov.uk/nisr/2017/28).
 
-[^key-cb2026317028e5375ced7efdab5e2540]: Textual amendment: [Reg. 8(4)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/8/4/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [9(5)](https://www.legislation.gov.uk/nisr/2022/25/regulation/9/5)
+[^c-cb2026317028e5375ced7efdab5e2540]: Textual amendment: [Reg. 8(4)(b)](https://www.legislation.gov.uk/nisr/2022/25/regulation/8/4/b) omitted (1.3.2023) by virtue of [The Welfare Supplementary Payment (Extension) Regulations (Northern Ireland) 2022 (S.R. 2022/25)](https://www.legislation.gov.uk/nisr/2022/25), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3), [9(5)](https://www.legislation.gov.uk/nisr/2022/25/regulation/9/5)
 
-[^key-6827bdf1cec0752492bec2553019f54a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2022/25/regulation/9) in operation at 1.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3)
+[^c-6827bdf1cec0752492bec2553019f54a]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2022/25/regulation/9) in operation at 1.3.2023, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2022/25/regulation/1/3)

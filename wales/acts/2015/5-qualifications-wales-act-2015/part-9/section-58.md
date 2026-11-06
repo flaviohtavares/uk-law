@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Consequential amendments[^key-7667212c27ec1c432206db629be0f45b]
+## 58. Consequential amendments[^c-7667212c27ec1c432206db629be0f45b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 4 contains consequential amendments.
 
 ## Annotations
 
-[^key-7667212c27ec1c432206db629be0f45b]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2015/5/section/58) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-7667212c27ec1c432206db629be0f45b]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2015/5/section/58) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

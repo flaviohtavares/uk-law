@@ -57,7 +57,7 @@ Provided that the bishop of the diocese concerned, if he considers that any of t
 
 (1) The performance of a funeral service in accordance with this section shall not require the consent or be subject to the control of the minister of the parish in which it is performed.
 
-(2) The minister of a parish may perform or arrange the performance of[^key-ff7d72ad6ac50854893e4e419f95c261] a funeral service in any crematorium or cemetery situated in another parish if—
+(2) The minister of a parish may perform or arrange the performance of[^c-ff7d72ad6ac50854893e4e419f95c261] a funeral service in any crematorium or cemetery situated in another parish if—
 
 - (a) the deceased person dies in the first-mentioned parish; or
 - (b) the deceased person was resident in the first-mentioned parish immediately before his death; or
@@ -70,9 +70,9 @@ Provided that the bishop of the diocese concerned, if he considers that any of t
 - (a) which is chargeable with the expenses of a cemetery; or
 - (b) for the use of which a crematorium or cemetery has been designated by the bishop of the diocese concerned,
 
-shall, with respect to persons who are his own parishioners or who die in his parish or whose names are entered on the church electoral roll of his parish, where he is requested to do so, be under the same obligation (subject to subsection (4A))[^key-9bf9fe5dd74181683c2b030388079114] to perform or arrange the performance of funeral services in the crematorium or cemetery as he has to perform or arrange the performance of funeral services in any churchyard of his parish.
+shall, with respect to persons who are his own parishioners or who die in his parish or whose names are entered on the church electoral roll of his parish, where he is requested to do so, be under the same obligation (subject to subsection (4A))[^c-9bf9fe5dd74181683c2b030388079114] to perform or arrange the performance of funeral services in the crematorium or cemetery as he has to perform or arrange the performance of funeral services in any churchyard of his parish.
 
-(4A)[^key-6cdd7bf0b3783bb3607133134dc997ba] Each of the following may perform a funeral service under an arrangement made under subsection (2) or (4)—
+(4A)[^c-6cdd7bf0b3783bb3607133134dc997ba] Each of the following may perform a funeral service under an arrangement made under subsection (2) or (4)—
 
 - (a) a clerk in Holy Orders who is authorised to officiate in accordance with the Canons of the Church of England;
 - (b) a duly authorised deaconess, reader or lay worker.
@@ -88,7 +88,7 @@ shall, with respect to persons who are his own parishioners or who die in his pa
   - (d) in a case where a special cure of souls in respect of the parish has been assigned to a vicar in a team ministry by a scheme under [^c922891] the Pastoral Measure 1983 or by his licence from the bishop, that vicar;
 - “**suspension period**” has the same meaning as in the Pastoral Measure 1983.
 
-### 3. Burial of cremated remains.[^key-7bc1bfa3d7927977b0ebf6b1a4a3730f]
+### 3. Burial of cremated remains.[^c-7bc1bfa3d7927977b0ebf6b1a4a3730f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -96,7 +96,7 @@ shall, with respect to persons who are his own parishioners or who die in his pa
 
 (1) The [^c922894]Parochial Registers and Records Measure 1978 shall have effect subject to the amendments specified in Schedule 1 to this Measure.
 
-(2)[^key-a911cab4a194091efdce0c74a79e0155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a911cab4a194091efdce0c74a79e0155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The amendment specified in paragraph 11 of the said Schedule 1 (substitution of new burial register form) shall not apply in relation to entries made in register books of burial before the said date.
 
@@ -132,7 +132,7 @@ In section 5 of [^c922898] the Church of England (Ecumenical Relations) Measure 
 
     .
 
-### 8. Amendment of New Parishes Measure 1943.[^key-52d7f0522516fe448b9e749046398b49]
+### 8. Amendment of New Parishes Measure 1943.[^c-52d7f0522516fe448b9e749046398b49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -180,7 +180,7 @@ In section 5 of [^c922898] the Church of England (Ecumenical Relations) Measure 
 
 (3) In this section, “**diocesan authority**” has the same meaning as in the said Measure of 1956.
 
-### 11. Resignation of incumbents.[^c922907][^key-5e1771606c00fc845245c0302c5e9b4d]
+### 11. Resignation of incumbents.[^c922907][^c-5e1771606c00fc845245c0302c5e9b4d]
 
 (1) Where the incumbent of a benefice wishes to tender resignation, it is not necessary to proceed by way of deed.
 
@@ -190,11 +190,11 @@ In section 5 of [^c922898] the Church of England (Ecumenical Relations) Measure 
 
 (4) For the provision that applies in the case of an incumbent who holds office under common tenure, see section 3 of the Ecclesiastical Offices (Terms of Service) Measure 2009 (which requires the bishop to be given three months' written notice).
 
-### 12. Tenure of office of diocesan chancellors and registrars.[^key-217ff401dfe17f1deac50d6ef2baec2d]
+### 12. Tenure of office of diocesan chancellors and registrars.[^c-217ff401dfe17f1deac50d6ef2baec2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Archdeacons’ visitations.[^key-9f957fe28929468c471b0fcc4bfca9e8]
+### 13. Archdeacons’ visitations.[^c-9f957fe28929468c471b0fcc4bfca9e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -386,7 +386,7 @@ Section 4.
 
 .
 
-## SCHEDULE 2 — Form of Written Resignation of Incumbent[^key-2190b09b1ebb4cb111f9e9b70e85d9f6]
+## SCHEDULE 2 — Form of Written Resignation of Incumbent[^c-2190b09b1ebb4cb111f9e9b70e85d9f6]
 
 **No longer in force.**
 
@@ -470,41 +470,41 @@ Section 17(1).
 
 .
 
-### ...[^key-9165efaae6c28f669411ee339086c4bc]
+### ...[^c-9165efaae6c28f669411ee339086c4bc]
 
-**12.**[^key-9165efaae6c28f669411ee339086c4bc][^c922955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-9165efaae6c28f669411ee339086c4bc][^c922955] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Endowments and Glebe Measure 1976
 
-**13.**[^key-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-8359113650141b5b861c6cc714368f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Dioceses Measure 1978
 
-**18.**[^key-0b51f768b36a2fa6067e93569cc55a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-0b51f768b36a2fa6067e93569cc55a7e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Pastoral Measure 1983
 
-**19.**[^key-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-a7ee82d450e6656422bacaee594bf938] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Patronage (Benefices) Measure 1986
 
@@ -569,25 +569,25 @@ Section 17(2).
 
 [^c922888]: Commencement: S. 2 wholly in force at 11.7.1992 see s. 19(2) and [Instrument dated 11.7.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-07-11).
 
-[^key-ff7d72ad6ac50854893e4e419f95c261]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukcm/1992/1/section/2/2) inserted (1.5.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 4(5)](https://www.legislation.gov.uk/ukcm/2018/7/section/4/5), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/67/article/3/a)
+[^c-ff7d72ad6ac50854893e4e419f95c261]: Textual amendment: Words in [s. 2(2)](https://www.legislation.gov.uk/ukcm/1992/1/section/2/2) inserted (1.5.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 4(5)](https://www.legislation.gov.uk/ukcm/2018/7/section/4/5), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/67/article/3/a)
 
 [^c922889]: Marginal citation: [1967 No. 2](https://www.legislation.gov.uk/ukcm/1967/2).
 
-[^key-9bf9fe5dd74181683c2b030388079114]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukcm/1992/1/section/2/4) inserted (1.5.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 4(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/4/6), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/67/article/3/a)
+[^c-9bf9fe5dd74181683c2b030388079114]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukcm/1992/1/section/2/4) inserted (1.5.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 4(6)](https://www.legislation.gov.uk/ukcm/2018/7/section/4/6), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/67/article/3/a)
 
-[^key-6cdd7bf0b3783bb3607133134dc997ba]: Textual amendment: [S. 2(4A)](https://www.legislation.gov.uk/ukcm/1992/1/section/2/4A) inserted (1.5.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 4(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/4/7), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/67/article/3/a)
+[^c-6cdd7bf0b3783bb3607133134dc997ba]: Textual amendment: [S. 2(4A)](https://www.legislation.gov.uk/ukcm/1992/1/section/2/4A) inserted (1.5.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 4(7)](https://www.legislation.gov.uk/ukcm/2018/7/section/4/7), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 3(a)](https://www.legislation.gov.uk/uksi/2019/67/article/3/a)
 
 [^c922890]: Marginal citation: 2 Edw. 7 c. 8.
 
 [^c922891]: Marginal citation: [1983 No. 1](https://www.legislation.gov.uk/ukcm/1983/1).
 
-[^key-7bc1bfa3d7927977b0ebf6b1a4a3730f]: Textual amendment: S. 3 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-7bc1bfa3d7927977b0ebf6b1a4a3730f]: Textual amendment: S. 3 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
 [^c922893]: Commencement: S. 4 wholly in force at 1.1.1993 see s. 19(2) and [Instrument dated 7.9.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-09-07).
 
 [^c922894]: Marginal citation: [1978 No. 2](https://www.legislation.gov.uk/ukcm/1978/2).
 
-[^key-a911cab4a194091efdce0c74a79e0155]: Textual amendment: S. 4(2) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 5](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/5); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
+[^c-a911cab4a194091efdce0c74a79e0155]: Textual amendment: S. 4(2) repealed (1.7.2018) by [Statute Law (Repeals) Measure 2018 (No. 1)](https://www.legislation.gov.uk/ukcm/2018/1), [s. 2(3)](https://www.legislation.gov.uk/ukcm/2018/1/section/2/3), [Sch. Pt. 5](https://www.legislation.gov.uk/ukcm/2018/1/schedule/part/5); [S.I. 2018/718](https://www.legislation.gov.uk/uksi/2018/718), [art. 2](https://www.legislation.gov.uk/uksi/2018/718/article/2)
 
 [^c922895]: Commencement: S. 5 wholly in force at 1.6.1992 see s. 19(2) and [Instrument dated 27.5.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-05-27).
 
@@ -601,7 +601,7 @@ Section 17(2).
 
 [^c922900]: Marginal citation: [1963 No. 1](https://www.legislation.gov.uk/ukcm/1963/1).
 
-[^key-52d7f0522516fe448b9e749046398b49]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukcm/1992/1/section/8) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-52d7f0522516fe448b9e749046398b49]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukcm/1992/1/section/8) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
 [^c922903]: Commencement: S. 9 wholly in force at 1.6.1992 see s. 19(2) and [Instrument dated 27.5.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-05-27).
 
@@ -613,11 +613,11 @@ Section 17(2).
 
 [^c922907]: Commencement: S. 11 wholly in force at 1.6.1992 see s. 19(2) and [Instrument dated 27.5.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-05-27).
 
-[^key-5e1771606c00fc845245c0302c5e9b4d]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukcm/1992/1/section/11) substituted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/4), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
+[^c-5e1771606c00fc845245c0302c5e9b4d]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukcm/1992/1/section/11) substituted (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(4)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/4), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
 
-[^key-217ff401dfe17f1deac50d6ef2baec2d]: Textual amendment: S. 12 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-217ff401dfe17f1deac50d6ef2baec2d]: Textual amendment: S. 12 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-9f957fe28929468c471b0fcc4bfca9e8]: Textual amendment: S. 13 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-9f957fe28929468c471b0fcc4bfca9e8]: Textual amendment: S. 13 repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
 [^c922911]: Commencement: S. 14 wholly in force at 1.6.1992 see s. 19(2) and [Instrument dated 27.5.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-05-27).
 
@@ -671,7 +671,7 @@ Section 17(2).
 
 [^c922934]: Commencement: Sch. 1 para. 12 wholly in force at 1.1.1993 see s. 19(2) and [Instrument dated 7.9.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-09-07).
 
-[^key-2190b09b1ebb4cb111f9e9b70e85d9f6]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukcm/1992/1/schedule/2) repealed (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(5)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/5), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
+[^c-2190b09b1ebb4cb111f9e9b70e85d9f6]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukcm/1992/1/schedule/2) repealed (1.3.2019) by [Church of England (Miscellaneous Provisions) Measure 2018 (No. 7)](https://www.legislation.gov.uk/ukcm/2018/7), [ss. 6(5)](https://www.legislation.gov.uk/ukcm/2018/7/section/6/5), [17(3)](https://www.legislation.gov.uk/ukcm/2018/7/section/17/3); [S.I. 2019/67](https://www.legislation.gov.uk/uksi/2019/67), [art. 2(1)(e)](https://www.legislation.gov.uk/uksi/2019/67/article/2/1/e)
 
 [^c922936]: Commencement: Sch. 3 para. 1 wholly in force at 11.7.1992 see s. 19(2) and [Instrument dated 11.7.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-07-11).
 
@@ -711,15 +711,15 @@ Section 17(2).
 
 [^c922954]: Marginal citation: [1972 No. 3](https://www.legislation.gov.uk/ukcm/1972/3).
 
-[^key-9165efaae6c28f669411ee339086c4bc]: Textual amendment: Sch. 3 para. 12 and cross-heading repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-9165efaae6c28f669411ee339086c4bc]: Textual amendment: Sch. 3 para. 12 and cross-heading repealed (1.9.2018) by [Ecclesiastical Jurisdiction and Care of Churches Measure 2018 (No. 3)](https://www.legislation.gov.uk/ukcm/2018/3), [s. 99(2)](https://www.legislation.gov.uk/ukcm/2018/3/section/99/2), [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/3/schedule/5) (with [Sch. 4 Pt. 1](https://www.legislation.gov.uk/ukcm/2018/3/schedule/4/part/1)); [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
 [^c922955]: Commencement: Sch. 3 para. 12 wholly in force at 11.7.1992 see s. 19(2) and [Instrument dated 11.7.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-07-11).
 
-[^key-8359113650141b5b861c6cc714368f4a]: Textual amendment: [Sch. 3 paras. 13-17](https://www.legislation.gov.uk/ukcm/1992/1/schedule/3/paragraph/13) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-8359113650141b5b861c6cc714368f4a]: Textual amendment: [Sch. 3 paras. 13-17](https://www.legislation.gov.uk/ukcm/1992/1/schedule/3/paragraph/13) repealed (1.3.2019) by [Church Property Measure 2018 (No. 8)](https://www.legislation.gov.uk/ukcm/2018/8), [s. 53(2)](https://www.legislation.gov.uk/ukcm/2018/8/section/53/2), [Sch. 3](https://www.legislation.gov.uk/ukcm/2018/8/schedule/3) (with [Sch. 2](https://www.legislation.gov.uk/ukcm/2018/8/schedule/2)); [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-0b51f768b36a2fa6067e93569cc55a7e]: Textual amendment: Sch. 3 para. 18 repealed (1.9.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [S.I. 2008/1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-0b51f768b36a2fa6067e93569cc55a7e]: Textual amendment: Sch. 3 para. 18 repealed (1.9.2008) by [Dioceses, Pastoral and Mission Measure 2007 (No. 1)](https://www.legislation.gov.uk/ukcm/2007/1), [s. 66(2)](https://www.legislation.gov.uk/ukcm/2007/1/section/66/2), [Sch. 7](https://www.legislation.gov.uk/ukcm/2007/1/schedule/7); [S.I. 2008/1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
-[^key-a7ee82d450e6656422bacaee594bf938]: Textual amendment: Sch. 3 paras. 19-25 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-a7ee82d450e6656422bacaee594bf938]: Textual amendment: Sch. 3 paras. 19-25 repealed (1.7.2012) by [Mission and Pastoral Measure 2011 (No. 3)](https://www.legislation.gov.uk/ukcm/2011/3), [s. 112(3)](https://www.legislation.gov.uk/ukcm/2011/3/section/112/3), [Sch. 9](https://www.legislation.gov.uk/ukcm/2011/3/schedule/9) (with [ss. 100](https://www.legislation.gov.uk/ukcm/2011/3/section/100), [105(4)](https://www.legislation.gov.uk/ukcm/2011/3/section/105/4), [107](https://www.legislation.gov.uk/ukcm/2011/3/section/107), [108(6)](https://www.legislation.gov.uk/ukcm/2011/3/section/108/6), [Sch. 8](https://www.legislation.gov.uk/ukcm/2011/3/schedule/8)); [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
 [^c922973]: Commencement: Sch. 3 para. 26 wholly in force at 1.6.1992 see s. 19(2) and [Instrument dated 27.5.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-05-27).
 

@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Animal By-Products (Scotland) Regulations 2003 (revoked)[^key-05c3d9303c778bfa449b1fea9a1720f6]
+The Animal By-Products (Scotland) Regulations 2003 (revoked)[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 Made
 
@@ -47,11 +47,11 @@ Coming into force
 
 1st October 2003
 
-[^key-05c3d9303c778bfa449b1fea9a1720f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05c3d9303c778bfa449b1fea9a1720f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introductory provisions[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 1 — Introductory provisions[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 **No longer in force.**
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 2 — Interpretation](part-1/section-2.md)
 - [Section 3 — Approvals etc.](part-1/section-3.md)
 
-### PART 2 — Collection, transportation, storage, handling, processing and disposal of animal by-products[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 2 — Collection, transportation, storage, handling, processing and disposal of animal by-products[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 **No longer in force.**
 
@@ -69,7 +69,7 @@ Coming into force
 - [Section 7 — Mixing mammalian and non-mammalian animal by-products](part-2/section-7.md)
 - [Section 8 — Collection, transportation and storage](part-2/section-8.md)
 
-### PART 3 — Restrictions on access to animal by-products and their use[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 3 — Restrictions on access to animal by-products and their use[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 **No longer in force.**
 
@@ -78,7 +78,7 @@ Coming into force
 - [Section 11 — Pasture Land](part-3/section-11.md)
 - [Section 12 — Intra-species recycling of fish](part-3/section-12.md)
 
-### PART 4 — Approved premises and competent authorities[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 4 — Approved premises and competent authorities[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 **No longer in force.**
 
@@ -92,7 +92,7 @@ Coming into force
 - [Section 20 — Samples sent to laboratories](part-4/section-20.md)
 - [Section 21 — Laboratories](part-4/section-21.md)
 
-### PART 5 — Placing animal by-products and processed products on the market[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 5 — Placing animal by-products and processed products on the market[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 **No longer in force.**
 
@@ -100,7 +100,7 @@ Coming into force
 - [Section 23 — Placing on the market of petfood, dogchews and technical products](part-5/section-23.md)
 - [Section 24 — Placing on the market of compost or digestion residues for use on agricultural land](part-5/section-24.md)
 
-### PART 6 — Derogations[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 6 — Derogations[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 **No longer in force.**
 
@@ -112,7 +112,7 @@ Coming into force
 - [Section 30 — Burning or burial in the event of a disease outbreak](part-6/section-30.md)
 - [Section 31 — Burning and burial of bees and apiculture products](part-6/section-31.md)
 
-### PART 7 — Records[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 7 — Records[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 **No longer in force.**
 
@@ -125,7 +125,7 @@ Coming into force
 - [Section 38 — Records for approved laboratories](part-7/section-38.md)
 - [Section 39 — Records to be kept for consignments of compost or digestion residue](part-7/section-39.md)
 
-### PART 8 — Administration and enforcement[^key-05c3d9303c778bfa449b1fea9a1720f6]
+### PART 8 — Administration and enforcement[^c-05c3d9303c778bfa449b1fea9a1720f6]
 
 **No longer in force.**
 
@@ -154,14 +154,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-05c3d9303c778bfa449b1fea9a1720f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05c3d9303c778bfa449b1fea9a1720f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-05c3d9303c778bfa449b1fea9a1720f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05c3d9303c778bfa449b1fea9a1720f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05c3d9303c778bfa449b1fea9a1720f6]: Textual amendment: Regulations revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3) (with [reg. 30](https://www.legislation.gov.uk/ssi/2011/171/regulation/30))
+[^c-05c3d9303c778bfa449b1fea9a1720f6]: Textual amendment: Regulations revoked (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2011/171/schedule/3) (with [reg. 30](https://www.legislation.gov.uk/ssi/2011/171/regulation/30))

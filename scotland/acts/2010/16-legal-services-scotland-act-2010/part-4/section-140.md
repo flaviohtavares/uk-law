@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 140. Exclusion from giving legal assistance[^key-b98b505c28a3b9dfc664f6df997f1ce5]
+## 140. Exclusion from giving legal assistance[^c-b98b505c28a3b9dfc664f6df997f1ce5]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In section 31 (solicitors and counsel) of the 1986 Act—
 
 ## Annotations
 
-[^key-b98b505c28a3b9dfc664f6df997f1ce5]: Commencement: [S. 140](https://www.legislation.gov.uk/asp/2010/16/section/140) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(b)](https://www.legislation.gov.uk/ssi/2011/180/article/4/b) (with [art. 8](https://www.legislation.gov.uk/ssi/2011/180/article/8))
+[^c-b98b505c28a3b9dfc664f6df997f1ce5]: Commencement: [S. 140](https://www.legislation.gov.uk/asp/2010/16/section/140) in force at 1.5.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 4(b)](https://www.legislation.gov.uk/ssi/2011/180/article/4/b) (with [art. 8](https://www.legislation.gov.uk/ssi/2011/180/article/8))

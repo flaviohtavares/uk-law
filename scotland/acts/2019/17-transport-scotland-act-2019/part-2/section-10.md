@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Ministerial approval[^key-532b1d2c33b34e88e2924a1993ed793b]
+## 10. Ministerial approval[^c-532b1d2c33b34e88e2924a1993ed793b]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-532b1d2c33b34e88e2924a1993ed793b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/17/section/10) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-532b1d2c33b34e88e2924a1993ed793b]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2019/17/section/10) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

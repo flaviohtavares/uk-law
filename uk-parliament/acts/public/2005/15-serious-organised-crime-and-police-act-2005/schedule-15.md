@@ -22,9 +22,9 @@ summary: ''
 
 Section 171
 
-**1.**[^key-d0caa7e5dc33aab915a959d082fa25a4][^key-732c08bb65c2c42516f5c1f4e2aa10a0] The Private Security Industry Act 2001 (c. 12) is amended as follows.
+**1.**[^c-d0caa7e5dc33aab915a959d082fa25a4][^c-732c08bb65c2c42516f5c1f4e2aa10a0] The Private Security Industry Act 2001 (c. 12) is amended as follows.
 
-**2.**[^key-117d7246580a98600ca0988dec2436b7][^key-fbffff0b2efadcdeab20a802ef01b236] In section 2 (directions etc. by the Secretary of State)—
+**2.**[^c-117d7246580a98600ca0988dec2436b7][^c-fbffff0b2efadcdeab20a802ef01b236] In section 2 (directions etc. by the Secretary of State)—
 
 - (a) in subsection (2), the existing words “shall consult the Authority” become paragraph (a) and after that paragraph add
 
@@ -39,7 +39,7 @@ Section 171
   >
   > - (b) the Scottish Ministers with such information about its activities in or as regards Scotland as they may request.
 
-**3.**[^key-8fa721eb6323920a4db338c6d143f4a2][^key-11f45ce5daba019278e8ff362d49e163] After section 2 insert—
+**3.**[^c-8fa721eb6323920a4db338c6d143f4a2][^c-11f45ce5daba019278e8ff362d49e163] After section 2 insert—
 
 > **2A. Authority to be treated as cross-border public authority etc. for certain purposes**
 >
@@ -53,18 +53,18 @@ Section 171
 >
 > the Authority is to be treated as a cross-border public authority within the meaning of that Act of 1998.
 
-**4.**[^key-9da43d119b74176e2456b2b58fcc884a][^key-b6bfcbde16a60f741ae863a707a19223] In section 3 (conduct prohibited without a licence), after subsection (3) insert—
+**4.**[^c-9da43d119b74176e2456b2b58fcc884a][^c-b6bfcbde16a60f741ae863a707a19223] In section 3 (conduct prohibited without a licence), after subsection (3) insert—
 
 > (3A) In the application of this Act to Scotland—
 >
 > - (a) the reference in subsection (3) to the Secretary of State must be construed as a reference to the Scottish Ministers; but
 > - (b) before making any order under subsection (3) the Scottish Ministers are to consult the Secretary of State.
 
-**5.**[^key-0e1d506883b7e395a8ff20c8aa5508aa][^key-a450867cdbe0fd38da222ab8fb6f4cb8] In section 7 (licensing criteria), after subsection (5) insert—
+**5.**[^c-0e1d506883b7e395a8ff20c8aa5508aa][^c-a450867cdbe0fd38da222ab8fb6f4cb8] In section 7 (licensing criteria), after subsection (5) insert—
 
 > (5A) Before giving approval under subsection (5), the Secretary of State shall consult the Scottish Ministers.
 
-**6.**[^key-eca872dc14a0e8c412241fba292513e4][^key-1f5529a45683e77e45f14746867870c9] In section 11 (appeals in licensing matters)—
+**6.**[^c-eca872dc14a0e8c412241fba292513e4][^c-1f5529a45683e77e45f14746867870c9] In section 11 (appeals in licensing matters)—
 
 - (a) in subsection (1), after “court” insert “ (in Scotland, to the sheriff) ”;
 - (b) in subsection (4), the existing words from “a magistrates'” to “Crown Court” become paragraph (a) and after that paragraph insert
@@ -80,13 +80,13 @@ Section 171
   >
   > - (ii) the sheriff or the Sheriff Principal may direct pending an appeal from a determination made on an appeal to the sheriff.
 
-**7.**[^key-98f562fbc233e9eb295ed77c9a6612f5] In section 13 (licensing at local authority level), at the end add—
+**7.**[^c-98f562fbc233e9eb295ed77c9a6612f5] In section 13 (licensing at local authority level), at the end add—
 
 > (8) This section does not apply to Scotland.
 
-**8.**[^key-b13b31009b9483cc2ae4994e58694709][^key-562ef7053347bb9521459a626b5038e8][^key-777dfd8b356e659bfb8246be79ff4441] In section 15(1) (duty to secure arrangements are in force for granting certain approvals), at the end of paragraph (a) add “ or in Scotland ”.
+**8.**[^c-b13b31009b9483cc2ae4994e58694709][^c-562ef7053347bb9521459a626b5038e8][^c-777dfd8b356e659bfb8246be79ff4441] In section 15(1) (duty to secure arrangements are in force for granting certain approvals), at the end of paragraph (a) add “ or in Scotland ”.
 
-**9.**[^key-071de0fcea3d2c21368e9a45249f56e5][^key-517372caa11b2d51560e1c88e3622747] In section 18 (appeals relating to approvals)—
+**9.**[^c-071de0fcea3d2c21368e9a45249f56e5][^c-517372caa11b2d51560e1c88e3622747] In section 18 (appeals relating to approvals)—
 
 - (a) in subsection (1), after “court” insert “ (in Scotland, to the sheriff) ”;
 - (b) in subsection (4), the existing words from “a magistrates'” to “Crown Court” become paragraph (a) and after that paragraph insert
@@ -102,7 +102,7 @@ Section 171
   >
   > - (ii) the sheriff or the Sheriff Principal may direct pending an appeal from a determination made on an appeal to the sheriff.
 
-**10.**[^key-1c1b9ea9a8bfd1819b0cf17aee1f55cb][^key-66c7a2850e2ce4231c37701b475ae07b] In section 23 (criminal liability of directors etc.), the existing words become subsection (1) and after that subsection add—
+**10.**[^c-1c1b9ea9a8bfd1819b0cf17aee1f55cb][^c-66c7a2850e2ce4231c37701b475ae07b] In section 23 (criminal liability of directors etc.), the existing words become subsection (1) and after that subsection add—
 
 > (2) Where an offence under any provision of this Act is committed by a Scottish partnership and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of—
 >
@@ -111,7 +111,7 @@ Section 171
 >
 > he (as well as the partnership) shall be guilty of that offence and liable to be proceeded against and punished accordingly.
 
-**11.**[^key-09f70a25bb1a781d369e43f50b3f11bc][^key-2cd099b6eff88005022d9d621914c29a] In section 24 (consultation with Security Industry Authority before making orders or regulations etc.)—
+**11.**[^c-09f70a25bb1a781d369e43f50b3f11bc][^c-2cd099b6eff88005022d9d621914c29a] In section 24 (consultation with Security Industry Authority before making orders or regulations etc.)—
 
 - (a) after subsection (1) insert—
 
@@ -134,7 +134,7 @@ Section 171
 - (e) in subsection (4), after “consult” insert “ the Scottish Ministers (except where the order is made by virtue of section 3(2)(j)) and ”; and
 - (f) in subsection (5)(b), at the end add “ (or where the order is, or regulations are, made by the Scottish Ministers, as the Scottish Ministers think fit) ”.
 
-**12.**[^key-f44c6cec68304635b1e53afcf47e60db][^key-325f50bfd2b08f13147ae86b5065f8bd] In section 26 (short title, commencement and extent)—
+**12.**[^c-f44c6cec68304635b1e53afcf47e60db][^c-325f50bfd2b08f13147ae86b5065f8bd] In section 26 (short title, commencement and extent)—
 
 - (a) after subsection (2) insert—
 
@@ -146,7 +146,7 @@ Section 171
   ; and
 - (b) in subsection (4), after “Wales” insert “ and to Scotland ”.
 
-**13.**[^key-70c1bcfe0bbadd7d8337a2801589e385][^key-dcf8310b1a6926ce6fdeb10b29e4682d] In Schedule 1 (the Security Industry Authority)—
+**13.**[^c-70c1bcfe0bbadd7d8337a2801589e385][^c-dcf8310b1a6926ce6fdeb10b29e4682d] In Schedule 1 (the Security Industry Authority)—
 
 - (a) in paragraph 1 (membership and chairman), at the end add—
 
@@ -181,13 +181,13 @@ Section 171
 
     > (3) The Scottish Ministers shall lay a copy of each such report before the Scottish Parliament.
 
-**14.**[^key-570c409956fa18efce5e14986ebd350c][^key-0fab463daf31613eaa1958a10d87c26a] In Schedule 2 (activities liable to control under the Private Security Industry Act 2001 (c. 12))—
+**14.**[^c-570c409956fa18efce5e14986ebd350c][^c-0fab463daf31613eaa1958a10d87c26a] In Schedule 2 (activities liable to control under the Private Security Industry Act 2001 (c. 12))—
 
-- (a) in paragraph 3 (immobilisation of vehicles), at the end add— *(Extent: E+W)* *(affected by repeal, see note)*[^key-15b721e6b71e77074e73e7d1744ef3de]
+- (a) in paragraph 3 (immobilisation of vehicles), at the end add— *(Extent: E+W)* *(affected by repeal, see note)*[^c-15b721e6b71e77074e73e7d1744ef3de]
 
-  > (4 (Extent: E+W) (affected by repeal, see note))[^key-15b721e6b71e77074e73e7d1744ef3de] This paragraph does not apply to any activities carried out in Scotland. *(Extent: E+W)* *(affected by repeal, see note)*[^key-15b721e6b71e77074e73e7d1744ef3de]
+  > (4 (Extent: E+W) (affected by repeal, see note))[^c-15b721e6b71e77074e73e7d1744ef3de] This paragraph does not apply to any activities carried out in Scotland. *(Extent: E+W)* *(affected by repeal, see note)*[^c-15b721e6b71e77074e73e7d1744ef3de]
 
-  ; *(Extent: E+W)* *(affected by repeal, see note)*[^key-15b721e6b71e77074e73e7d1744ef3de]
+  ; *(Extent: E+W)* *(affected by repeal, see note)*[^c-15b721e6b71e77074e73e7d1744ef3de]
 - (b) in paragraph 4 (private investigations), after sub-paragraph (4) insert—
 
   > (4A) This paragraph does not apply to any activities of a person who is an advocate or solicitor in Scotland in the provision of legal services—
@@ -228,60 +228,60 @@ Section 171
 
 ## Annotations
 
-[^key-d0caa7e5dc33aab915a959d082fa25a4]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/1) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-d0caa7e5dc33aab915a959d082fa25a4]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/1) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-732c08bb65c2c42516f5c1f4e2aa10a0]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/1) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-732c08bb65c2c42516f5c1f4e2aa10a0]: Commencement: [Sch. 15 para. 1](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/1) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-117d7246580a98600ca0988dec2436b7]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-117d7246580a98600ca0988dec2436b7]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-fbffff0b2efadcdeab20a802ef01b236]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-fbffff0b2efadcdeab20a802ef01b236]: Commencement: [Sch. 15 para. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/2) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-8fa721eb6323920a4db338c6d143f4a2]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/3) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-8fa721eb6323920a4db338c6d143f4a2]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/3) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-11f45ce5daba019278e8ff362d49e163]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/3) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-11f45ce5daba019278e8ff362d49e163]: Commencement: [Sch. 15 para. 3](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/3) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-9da43d119b74176e2456b2b58fcc884a]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/4) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-9da43d119b74176e2456b2b58fcc884a]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/4) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-b6bfcbde16a60f741ae863a707a19223]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/4) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-b6bfcbde16a60f741ae863a707a19223]: Commencement: [Sch. 15 para. 4](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/4) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-0e1d506883b7e395a8ff20c8aa5508aa]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/5) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-0e1d506883b7e395a8ff20c8aa5508aa]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/5) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-a450867cdbe0fd38da222ab8fb6f4cb8]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/5) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-a450867cdbe0fd38da222ab8fb6f4cb8]: Commencement: [Sch. 15 para. 5](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/5) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-eca872dc14a0e8c412241fba292513e4]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-eca872dc14a0e8c412241fba292513e4]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-1f5529a45683e77e45f14746867870c9]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-1f5529a45683e77e45f14746867870c9]: Commencement: [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/6) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-98f562fbc233e9eb295ed77c9a6612f5]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/7) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-98f562fbc233e9eb295ed77c9a6612f5]: Commencement: [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/7) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-b13b31009b9483cc2ae4994e58694709]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/8) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-b13b31009b9483cc2ae4994e58694709]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/8) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-562ef7053347bb9521459a626b5038e8]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/8) in force at 6.7.2006 for specified purposes for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(ii)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/ii)
+[^c-562ef7053347bb9521459a626b5038e8]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/8) in force at 6.7.2006 for specified purposes for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(ii)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/ii)
 
-[^key-777dfd8b356e659bfb8246be79ff4441]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/8) in force at 6.4.2007 for E.W. in so far as not already in force by [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
+[^c-777dfd8b356e659bfb8246be79ff4441]: Commencement: [Sch. 15 para. 8](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/8) in force at 6.4.2007 for E.W. in so far as not already in force by [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
 
-[^key-071de0fcea3d2c21368e9a45249f56e5]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-071de0fcea3d2c21368e9a45249f56e5]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-517372caa11b2d51560e1c88e3622747]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9) in force at 6.4.2007 for E.W. by [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
+[^c-517372caa11b2d51560e1c88e3622747]: Commencement: [Sch. 15 para. 9](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/9) in force at 6.4.2007 for E.W. by [S.S.I. 2007/241](https://www.legislation.gov.uk/ssi/2007/241), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/241/article/2/a)
 
-[^key-1c1b9ea9a8bfd1819b0cf17aee1f55cb]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/10) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-1c1b9ea9a8bfd1819b0cf17aee1f55cb]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/10) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-66c7a2850e2ce4231c37701b475ae07b]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/10) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-66c7a2850e2ce4231c37701b475ae07b]: Commencement: [Sch. 15 para. 10](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/10) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-09f70a25bb1a781d369e43f50b3f11bc]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-09f70a25bb1a781d369e43f50b3f11bc]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-2cd099b6eff88005022d9d621914c29a]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-2cd099b6eff88005022d9d621914c29a]: Commencement: [Sch. 15 para. 11](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/11) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-f44c6cec68304635b1e53afcf47e60db]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/12) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-f44c6cec68304635b1e53afcf47e60db]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/12) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-325f50bfd2b08f13147ae86b5065f8bd]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/12) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-325f50bfd2b08f13147ae86b5065f8bd]: Commencement: [Sch. 15 para. 12](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/12) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-70c1bcfe0bbadd7d8337a2801589e385]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-70c1bcfe0bbadd7d8337a2801589e385]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13) in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-dcf8310b1a6926ce6fdeb10b29e4682d]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-dcf8310b1a6926ce6fdeb10b29e4682d]: Commencement: [Sch. 15 para. 13](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/13) in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-570c409956fa18efce5e14986ebd350c]: Commencement: Sch. 15 para. 14 in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
+[^c-570c409956fa18efce5e14986ebd350c]: Commencement: Sch. 15 para. 14 in force at 30.6.2006 for S. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(a)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/a/i)
 
-[^key-0fab463daf31613eaa1958a10d87c26a]: Commencement: Sch. 15 para. 14 in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
+[^c-0fab463daf31613eaa1958a10d87c26a]: Commencement: Sch. 15 para. 14 in force at 6.7.2006 for E.W. by [S.S.I. 2006/381](https://www.legislation.gov.uk/ssi/2006/381), [art. 2(b)(i)](https://www.legislation.gov.uk/ssi/2006/381/article/2/b/i)
 
-[^key-15b721e6b71e77074e73e7d1744ef3de]: Textual amendment: [Sch. 15 para. 14(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/a) repealed (E.W.) (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/h)
+[^c-15b721e6b71e77074e73e7d1744ef3de]: Textual amendment: [Sch. 15 para. 14(a)](https://www.legislation.gov.uk/ukpga/2005/15/schedule/15/paragraph/14/a) repealed (E.W.) (1.10.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 3(h)](https://www.legislation.gov.uk/uksi/2012/2075/article/3/h)

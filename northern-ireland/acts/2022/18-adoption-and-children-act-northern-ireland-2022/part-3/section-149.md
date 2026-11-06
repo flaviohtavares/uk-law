@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 149. Search and inspection of the register by prospective adopters[^key-d84f5b0291be81504a97de9ea98cf33f]
+## 149. Search and inspection of the register by prospective adopters[^c-d84f5b0291be81504a97de9ea98cf33f]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d84f5b0291be81504a97de9ea98cf33f]: Commencement: S. 149 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-d84f5b0291be81504a97de9ea98cf33f]: Commencement: S. 149 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

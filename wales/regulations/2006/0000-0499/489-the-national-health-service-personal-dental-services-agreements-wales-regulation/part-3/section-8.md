@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Pre-agreement disputes[^key-f696c22f99d75bea7b358850a8921ae1]
+## 8. Pre-agreement disputes[^c-f696c22f99d75bea7b358850a8921ae1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f696c22f99d75bea7b358850a8921ae1]: Commencement: Reg. 8 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-f696c22f99d75bea7b358850a8921ae1]: Commencement: Reg. 8 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

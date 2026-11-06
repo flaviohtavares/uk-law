@@ -24,7 +24,7 @@ Section 1
 
 ### Power to make transfer schemes
 
-**1.**[^key-32d7d8fb47d3f086880f5e36aa67452c] (1) The Secretary of State may make one or more schemes providing for the transfer of designated property, rights and liabilities of the Secretary of State and the Pensions Advisory Service Limited to the single financial guidance body.
+**1.**[^c-32d7d8fb47d3f086880f5e36aa67452c] (1) The Secretary of State may make one or more schemes providing for the transfer of designated property, rights and liabilities of the Secretary of State and the Pensions Advisory Service Limited to the single financial guidance body.
 
 (2) The Secretary of State may make one or more schemes providing for the transfer of designated property, rights and liabilities of the consumer financial education body to the single financial guidance body and the devolved authorities.
 
@@ -42,7 +42,7 @@ Section 1
 
 ### Contents of a scheme
 
-**2.**[^key-d1169e0b596d13953b210c0938bf7dea] (1) A scheme under this Schedule may, in particular, make provision—
+**2.**[^c-d1169e0b596d13953b210c0938bf7dea] (1) A scheme under this Schedule may, in particular, make provision—
 
 - (a) for anything done by or in relation to the transferor in connection with any property, rights or liabilities transferred by the scheme to be treated as done, or to be continued, by or in relation to the transferee;
 - (b) for references (however expressed) to the transferor in any agreement, instrument or other document relating to property, rights or liabilities transferred by the scheme to be treated as references to the transferee;
@@ -70,13 +70,13 @@ Section 1
 
 ### Modifications to a scheme
 
-**3.**[^key-7c6a80c4845325f5e53563c05abb3290] (1) The Secretary of State may modify a scheme made under this Schedule; but a modification relating to a transfer that has taken effect may be made only with the agreement of the person (or persons) affected by the modification.
+**3.**[^c-7c6a80c4845325f5e53563c05abb3290] (1) The Secretary of State may modify a scheme made under this Schedule; but a modification relating to a transfer that has taken effect may be made only with the agreement of the person (or persons) affected by the modification.
 
 (2) A modification takes effect from such date as the Secretary of State may specify (which may be the date when the original scheme came into effect).
 
 ### Supplementary
 
-**4.**[^key-edfe1d3273d6137b87e44323017a8082] A scheme may—
+**4.**[^c-edfe1d3273d6137b87e44323017a8082] A scheme may—
 
 - (a) contain incidental, supplementary and consequential provisions;
 - (b) make transitory or transitional provision or savings;
@@ -85,10 +85,10 @@ Section 1
 
 ## Annotations
 
-[^key-32d7d8fb47d3f086880f5e36aa67452c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2018/10/schedule/2/paragraph/1) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/p)
+[^c-32d7d8fb47d3f086880f5e36aa67452c]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2018/10/schedule/2/paragraph/1) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/p)
 
-[^key-d1169e0b596d13953b210c0938bf7dea]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2018/10/schedule/2/paragraph/2) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/p)
+[^c-d1169e0b596d13953b210c0938bf7dea]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2018/10/schedule/2/paragraph/2) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/p)
 
-[^key-7c6a80c4845325f5e53563c05abb3290]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2018/10/schedule/2/paragraph/3) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/p)
+[^c-7c6a80c4845325f5e53563c05abb3290]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2018/10/schedule/2/paragraph/3) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/p)
 
-[^key-edfe1d3273d6137b87e44323017a8082]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2018/10/schedule/2/paragraph/4) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/p)
+[^c-edfe1d3273d6137b87e44323017a8082]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2018/10/schedule/2/paragraph/4) in force at 1.10.2018 by [S.I. 2018/1029](https://www.legislation.gov.uk/uksi/2018/1029), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2018/1029/regulation/2/p)

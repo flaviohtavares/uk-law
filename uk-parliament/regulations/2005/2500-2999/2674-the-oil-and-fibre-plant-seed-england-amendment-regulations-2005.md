@@ -32,7 +32,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Oil and Fibre Plant Seed (England) (Amendment) Regulations 2005 (revoked)[^key-10ece913a51d46d6f45ef19b94425aaa]
+The Oil and Fibre Plant Seed (England) (Amendment) Regulations 2005 (revoked)[^c-10ece913a51d46d6f45ef19b94425aaa]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 26th October 2005
 
-[^key-10ece913a51d46d6f45ef19b94425aaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10ece913a51d46d6f45ef19b94425aaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-10ece913a51d46d6f45ef19b94425aaa]
+## 1. Title and commencement[^c-10ece913a51d46d6f45ef19b94425aaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Oil and Fibre Plant Seed (England) Regulations 2002[^key-10ece913a51d46d6f45ef19b94425aaa]
+## 2. Amendment of the Oil and Fibre Plant Seed (England) Regulations 2002[^c-10ece913a51d46d6f45ef19b94425aaa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-10ece913a51d46d6f45ef19b94425aaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10ece913a51d46d6f45ef19b94425aaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-10ece913a51d46d6f45ef19b94425aaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10ece913a51d46d6f45ef19b94425aaa]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-10ece913a51d46d6f45ef19b94425aaa]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(q)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/q)
+[^c-10ece913a51d46d6f45ef19b94425aaa]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(q)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/q)

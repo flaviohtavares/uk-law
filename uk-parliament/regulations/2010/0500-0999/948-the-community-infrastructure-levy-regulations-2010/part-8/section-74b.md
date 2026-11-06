@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74B. Abatement: implementation of a different planning permission[^key-5109c20ee514f5cb68a8e5be46438f45]
+## 74B. Abatement: implementation of a different planning permission[^c-5109c20ee514f5cb68a8e5be46438f45]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 (6) Any CIL paid in relation to A can only be credited against the CIL due in relation to B to the extent that the CIL paid in relation to A relates to buildings (“relevant buildings”) that—
 
 - (a) have not been completed when the request is made; and
-- (b) are not taken into account in reducing the chargeable amount in relation to B through the operation of regulation 40 and Schedule 1 *(Extent: E)*[^key-d08a6eb881c55b0b31f93d3bc21512a5].
+- (b) are not taken into account in reducing the chargeable amount in relation to B through the operation of regulation 40 and Schedule 1 *(Extent: E)*[^c-d08a6eb881c55b0b31f93d3bc21512a5].
 
 (7) Where—
 
@@ -66,7 +66,7 @@ the remainder must be credited against the next phase or phases of B until there
 (13) Where this paragraph applies, any parts of buildings which—
 
 - (a) were demolished under A,
-- (b) were taken into account in reducing the chargeable amount in relation to A through the operation of regulation 40 and Schedule 1 *(Extent: E)*[^key-fc1ac26bb6fff49a583b81205e88ccd5],
+- (b) were taken into account in reducing the chargeable amount in relation to A through the operation of regulation 40 and Schedule 1 *(Extent: E)*[^c-fc1ac26bb6fff49a583b81205e88ccd5],
 - (c) would have been taken into account under regulation 40 and Schedule 1 *(Extent: E)* in relation to B had they not been demolished, and
 - (d) are not otherwise taken into account under regulation 40 and Schedule 1 *(Extent: E)*,
 
@@ -76,8 +76,8 @@ are to be taken into account under regulation 40 in relation to B as if they are
 
 ## Annotations
 
-[^key-5109c20ee514f5cb68a8e5be46438f45]: Textual amendment: [Reg. 74B](https://www.legislation.gov.uk/uksi/2010/948/regulation/74B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/9)
+[^c-5109c20ee514f5cb68a8e5be46438f45]: Textual amendment: [Reg. 74B](https://www.legislation.gov.uk/uksi/2010/948/regulation/74B) inserted (24.2.2014) by [The Community Infrastructure Levy (Amendment) Regulations 2014 (S.I. 2014/385)](https://www.legislation.gov.uk/uksi/2014/385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/385/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2014/385/regulation/9/9)
 
-[^key-d08a6eb881c55b0b31f93d3bc21512a5]: Textual amendment: Words in [reg. 74B(6)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/74B/6/b) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/8) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-d08a6eb881c55b0b31f93d3bc21512a5]: Textual amendment: Words in [reg. 74B(6)(b)](https://www.legislation.gov.uk/uksi/2010/948/regulation/74B/6/b) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(8)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/8) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
 
-[^key-fc1ac26bb6fff49a583b81205e88ccd5]: Textual amendment: Words in [reg. 74B(13)](https://www.legislation.gov.uk/uksi/2010/948/regulation/74B/13) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/9) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-fc1ac26bb6fff49a583b81205e88ccd5]: Textual amendment: Words in [reg. 74B(13)](https://www.legislation.gov.uk/uksi/2010/948/regulation/74B/13) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [5(9)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/5/9) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1/3), [13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Power to create offence of breaching limits on internet and other ticket sales[^key-733251e520d486e3f211a4b72c633562]
+## 106. Power to create offence of breaching limits on internet and other ticket sales[^c-733251e520d486e3f211a4b72c633562]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-733251e520d486e3f211a4b72c633562]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2017/30/section/106) in force at 31.7.2017 for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(ee)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/ee)
+[^c-733251e520d486e3f211a4b72c633562]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2017/30/section/106) in force at 31.7.2017 for E.W.S. by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(ee)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/ee)

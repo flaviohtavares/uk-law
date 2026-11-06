@@ -30,8 +30,8 @@ summary: ''
 
 (5) An active member's election under paragraph (1) is cancelled from the first available pay period after—
 
-- (a) the automatic re-enrolment date ; or[^key-c4c1959f8547dc7474b9274137a77968]
-- (b) going on to no pay as a result of illness, injury, ordinary maternity, paternity or ordinary adoption leave[^key-a748e65f9ceadb964e61c9064d2751d2] provided that the active member is still on no pay at the beginning of that pay period,
+- (a) the automatic re-enrolment date ; or[^c-c4c1959f8547dc7474b9274137a77968]
+- (b) going on to no pay as a result of illness, injury, ordinary maternity, paternity or ordinary adoption leave[^c-a748e65f9ceadb964e61c9064d2751d2] provided that the active member is still on no pay at the beginning of that pay period,
 
 and the contribution rate payable on the active member's pensionable pay in relation to that employment is as provided by regulation 11 (contributions) from that date.
 
@@ -41,6 +41,6 @@ and the contribution rate payable on the active member's pensionable pay in rela
 
 ## Annotations
 
-[^key-c4c1959f8547dc7474b9274137a77968]: Textual amendment: Word in [reg. 12(5)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/12/5/a) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [5(a)](https://www.legislation.gov.uk/nisr/2015/162/regulation/5/a)
+[^c-c4c1959f8547dc7474b9274137a77968]: Textual amendment: Word in [reg. 12(5)(a)](https://www.legislation.gov.uk/nisr/2014/188/regulation/12/5/a) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [5(a)](https://www.legislation.gov.uk/nisr/2015/162/regulation/5/a)
 
-[^key-a748e65f9ceadb964e61c9064d2751d2]: Textual amendment: Words in [reg. 12(5)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/12/5/b) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [5(b)](https://www.legislation.gov.uk/nisr/2015/162/regulation/5/b)
+[^c-a748e65f9ceadb964e61c9064d2751d2]: Textual amendment: Words in [reg. 12(5)(b)](https://www.legislation.gov.uk/nisr/2014/188/regulation/12/5/b) substituted (1.4.2015) by [The Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2015 (S.R. 2015/162)](https://www.legislation.gov.uk/nisr/2015/162), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2015/162/regulation/1/2), [5(b)](https://www.legislation.gov.uk/nisr/2015/162/regulation/5/b)

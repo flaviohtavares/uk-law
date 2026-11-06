@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. CRC emissions (affected by repeal, see note)[^key-8168caadfdb8153f9ac40f265229b9e6][^key-8168caadfdb8153f9ac40f265229b9e6]
+## 33. CRC emissions (affected by repeal, see note)[^c-8168caadfdb8153f9ac40f265229b9e6][^c-8168caadfdb8153f9ac40f265229b9e6]
 
 *Extent: E+W+S+N.I.*
 
-(1) “**CRC emissions *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]**” means the emissions calculated in accordance with paragraph 33 of Schedule 1 from CRC supplies. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(1) “**CRC emissions *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]**” means the emissions calculated in accordance with paragraph 33 of Schedule 1 from CRC supplies. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(2) “**CRC supplies *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]**” means the supplies of electricity and gas supplied to a participant and participant equivalent in accordance with sections 1 to 4 of Schedule 1 and the additions in section 6 of that Schedule less the deductions under section 5 of that Schedule. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(2) “**CRC supplies *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]**” means the supplies of electricity and gas supplied to a participant and participant equivalent in accordance with sections 1 to 4 of Schedule 1 and the additions in section 6 of that Schedule less the deductions under section 5 of that Schedule. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
-(3) The lowest value of CRC emissions is zero. *(affected by repeal, see note)*[^key-8168caadfdb8153f9ac40f265229b9e6]
+(3) The lowest value of CRC emissions is zero. *(affected by repeal, see note)*[^c-8168caadfdb8153f9ac40f265229b9e6]
 
 ## Annotations
 
-[^key-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)
+[^c-8168caadfdb8153f9ac40f265229b9e6]: Textual amendment: Order revoked (with savings) (1.10.2018) by [The CRC Energy Efficiency Scheme (Revocation and Savings) Order 2018 (S.I. 2018/841)](https://www.legislation.gov.uk/uksi/2018/841), [arts. 1](https://www.legislation.gov.uk/uksi/2018/841/article/1), [3](https://www.legislation.gov.uk/uksi/2018/841/article/3)

@@ -32,10 +32,10 @@ summary: ''
 > - (b) in relation to Scotland, in Part III of the Law Reform(Miscellaneous Provisions) (Scotland) Act 1968, and
 > - (c) in relation to Northern Ireland, in Part I of the Civil Evidence Act (Northern Ireland) 1971.
 
-(4)[^key-47ef17fb531f03dece00ea72f2f4c810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-47ef17fb531f03dece00ea72f2f4c810] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c13116041]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9).
 
-[^key-47ef17fb531f03dece00ea72f2f4c810]: Textual amendment: [S. 148(4)](https://www.legislation.gov.uk/ukpga/1989/26/section/148/4) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/4)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/7), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)
+[^c-47ef17fb531f03dece00ea72f2f4c810]: Textual amendment: [S. 148(4)](https://www.legislation.gov.uk/ukpga/1989/26/section/148/4) repealed (8.11.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(4)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/4)[(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 7](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/7), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/3166/article/2/c)

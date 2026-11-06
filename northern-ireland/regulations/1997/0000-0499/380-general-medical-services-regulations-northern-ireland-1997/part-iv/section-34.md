@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Obtaining maternity medical services[^key-85db20fa8427d4a7fd124172c3afb5ce]
+## 34. Obtaining maternity medical services[^c-85db20fa8427d4a7fd124172c3afb5ce]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-85db20fa8427d4a7fd124172c3afb5ce]: Commencement: Reg. 34 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-85db20fa8427d4a7fd124172c3afb5ce]: Commencement: Reg. 34 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Licences and declarations[^key-fef4bbbede42d076442c222cdaae4308]
+## 4. Licences and declarations[^c-fef4bbbede42d076442c222cdaae4308]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fef4bbbede42d076442c222cdaae4308]: Commencement: Reg. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-fef4bbbede42d076442c222cdaae4308]: Commencement: Reg. 4 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

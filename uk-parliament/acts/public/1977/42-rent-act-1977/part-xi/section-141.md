@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The county court[^key-6260e32df3e64f0ec17f2d40d8d6798f] shall have jurisdiction, either in the course of any proceedings relating to a dwelling or on an application made for the purpose by the landlord or the tenant, to determine any question—
+(1) The county court[^c-6260e32df3e64f0ec17f2d40d8d6798f] shall have jurisdiction, either in the course of any proceedings relating to a dwelling or on an application made for the purpose by the landlord or the tenant, to determine any question—
 
 - (a) as to whether a tenancy is a protected tenancy or whether any person is a statutory tenant of a dwelling-house, . . . [^c16041701] or
 - (b) as to the rent limit; or
@@ -43,11 +43,11 @@ or as to any matter which is or may become material for determining any such que
 - (c) Part VII, except sections 98(2) and 101;
 - (d) in Part IX, sections 125 and 126;
 - (e) in Part X, sections 133(1), 134 and 135; and
-- (f) in this Part of this Act, section[^key-2740f9754fb32a3a3e75caeede5efb8a] 145.
+- (f) in this Part of this Act, section[^c-2740f9754fb32a3a3e75caeede5efb8a] 145.
 
 ## Annotations
 
-[^key-6260e32df3e64f0ec17f2d40d8d6798f]: Textual amendment: Words in [s. 141](https://www.legislation.gov.uk/ukpga/1977/42/section/141) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-6260e32df3e64f0ec17f2d40d8d6798f]: Textual amendment: Words in [s. 141](https://www.legislation.gov.uk/ukpga/1977/42/section/141) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c16041701]: Textual amendment: Words repealed by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 26](https://www.legislation.gov.uk/ukpga/1980/51/schedule/26)
 
@@ -59,4 +59,4 @@ or as to any matter which is or may become material for determining any such que
 
 [^c16041751]: Textual amendment: S. 141(5)(*a*) repealed by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 26](https://www.legislation.gov.uk/ukpga/1980/51/schedule/26)
 
-[^key-2740f9754fb32a3a3e75caeede5efb8a]: Textual amendment: Words in s. 141(5) substituted (6.4.2014) by virtue of [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 33](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/33) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-2740f9754fb32a3a3e75caeede5efb8a]: Textual amendment: Words in s. 141(5) substituted (6.4.2014) by virtue of [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 14 para. 33](https://www.legislation.gov.uk/ukpga/2007/15/schedule/14/paragraph/33) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)

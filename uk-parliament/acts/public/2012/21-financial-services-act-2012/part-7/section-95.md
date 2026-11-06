@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Consequential repeal[^key-f7276776e0b6f164d9c61cfa75ca596c]
+## 95. Consequential repeal[^c-f7276776e0b6f164d9c61cfa75ca596c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 397 of FSMA 2000 (which relates to misleading statements and practices a
 
 ## Annotations
 
-[^key-f7276776e0b6f164d9c61cfa75ca596c]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2012/21/section/95) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-f7276776e0b6f164d9c61cfa75ca596c]: Commencement: [S. 95](https://www.legislation.gov.uk/ukpga/2012/21/section/95) in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

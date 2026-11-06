@@ -22,16 +22,16 @@ summary: ''
 
 Regulations 19(2) and 21(2)
 
-**1.**[^key-98b5b72bad825988d83506347c4d8aea] Any earnings derived from employment which are payable in a country outside the United Kingdom where there is a prohibition against the transfer to the United Kingdom of those earnings.
+**1.**[^c-98b5b72bad825988d83506347c4d8aea] Any earnings derived from employment which are payable in a country outside the United Kingdom where there is a prohibition against the transfer to the United Kingdom of those earnings.
 
-**2.**[^key-68b32b9d7ace211ce4d006129065fc75] Any earnings of a child or young person.
+**2.**[^c-68b32b9d7ace211ce4d006129065fc75] Any earnings of a child or young person.
 
-**3.**[^key-35ae1baaee2a8bb4dd9bc8a0e2f3dc94] Where a payment of earnings is made in a currency other than sterling, any banking charge or commission payable in converting that payment to sterling.
+**3.**[^c-35ae1baaee2a8bb4dd9bc8a0e2f3dc94] Where a payment of earnings is made in a currency other than sterling, any banking charge or commission payable in converting that payment to sterling.
 
 ## Annotations
 
-[^key-98b5b72bad825988d83506347c4d8aea]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1991/2887/schedule/2/paragraph/1) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-98b5b72bad825988d83506347c4d8aea]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1991/2887/schedule/2/paragraph/1) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-68b32b9d7ace211ce4d006129065fc75]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1991/2887/schedule/2/paragraph/2) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-68b32b9d7ace211ce4d006129065fc75]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1991/2887/schedule/2/paragraph/2) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
 
-[^key-35ae1baaee2a8bb4dd9bc8a0e2f3dc94]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1991/2887/schedule/2/paragraph/3) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)
+[^c-35ae1baaee2a8bb4dd9bc8a0e2f3dc94]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1991/2887/schedule/2/paragraph/3) in force at 7.4.1992, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/2887/regulation/1)

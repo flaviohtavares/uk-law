@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 293. Prohibitions relating to acting as ADR provider[^key-95a554620e20145865e4711ec9dffacc][^key-f8e7f0a6e4f139efceb841e93bab090a]
+## 293. Prohibitions relating to acting as ADR provider[^c-95a554620e20145865e4711ec9dffacc][^c-f8e7f0a6e4f139efceb841e93bab090a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95a554620e20145865e4711ec9dffacc]: Commencement: S. 293 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-95a554620e20145865e4711ec9dffacc]: Commencement: S. 293 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-f8e7f0a6e4f139efceb841e93bab090a]: Commencement: [S. 293](https://www.legislation.gov.uk/ukpga/2024/13/section/293) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/284/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/284/regulation/4))
+[^c-f8e7f0a6e4f139efceb841e93bab090a]: Commencement: [S. 293](https://www.legislation.gov.uk/ukpga/2024/13/section/293) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2026/284/regulation/3), [4](https://www.legislation.gov.uk/uksi/2026/284/regulation/4))

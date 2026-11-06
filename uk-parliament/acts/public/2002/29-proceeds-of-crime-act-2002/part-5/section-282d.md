@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282D. Evidence overseas: interim receiver or interim administrator[^key-eb0af4ccfe109ea9aca614d7b4a8a873]
+## 282D. Evidence overseas: interim receiver or interim administrator[^c-eb0af4ccfe109ea9aca614d7b4a8a873]
 
 *Extent: E+W+S+NI*
 
 (1) This section applies if—
 
-- (a) an interim receiving order [^key-65ff6e3f3997174868fec061b88811a3]... or an interim administration order has effect in relation to property, and
+- (a) an interim receiving order [^c-65ff6e3f3997174868fec061b88811a3]... or an interim administration order has effect in relation to property, and
 - (b) the order requires the interim receiver or interim administrator to take steps to establish a matter described in section 247(2)(a) or (b) or 257(2)(a) or (b).
 
 (2) The interim receiver or interim administrator may request assistance under this section if the interim receiver or interim administrator thinks that there is relevant evidence in a country outside the United Kingdom.
 
-(3) A judge of the High Court [^key-36816583df49c6c8ab37cdcbda56135e]... may request assistance under this section if—
+(3) A judge of the High Court [^c-36816583df49c6c8ab37cdcbda56135e]... may request assistance under this section if—
 
 - (a) an application is made by the interim receiver or by a person subject to investigation by the interim receiver, and
 - (b) the judge thinks that there is relevant evidence in a country outside the United Kingdom.
@@ -56,8 +56,8 @@ summary: ''
 
 (10) In a case of urgency, a request for assistance under this section may be sent to—
 
-- (a) the International Criminal Police Organisation, [^key-7797b823f21e0cc5e62e4e622a73a60f]...
-- (b)[^key-7797b823f21e0cc5e62e4e622a73a60f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the International Criminal Police Organisation, [^c-7797b823f21e0cc5e62e4e622a73a60f]...
+- (b)[^c-7797b823f21e0cc5e62e4e622a73a60f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 for forwarding to the court, tribunal, government or authority mentioned in subsection (7).
 
@@ -67,10 +67,10 @@ for forwarding to the court, tribunal, government or authority mentioned in subs
 
 ## Annotations
 
-[^key-eb0af4ccfe109ea9aca614d7b4a8a873]: Textual amendment: Ss. 282B-282F and cross-heading inserted (retrospectively) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), ss. 48(7), [61(11)(d)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/d), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/6) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25); this insertion extended to N.I. (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
+[^c-eb0af4ccfe109ea9aca614d7b4a8a873]: Textual amendment: Ss. 282B-282F and cross-heading inserted (retrospectively) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), ss. 48(7), [61(11)(d)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/11/d), [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/18/paragraph/6) (with [s. 48(8)](https://www.legislation.gov.uk/ukpga/2013/22/section/48/8), Sch. 25); this insertion extended to N.I. (20.3.2015) by [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2015/798/article/7/a)
 
-[^key-65ff6e3f3997174868fec061b88811a3]: Textual amendment: Words in s. 282D(1)(a) omitted (retrospective to 20.3.2015) by virtue of [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [8(5)(a)](https://www.legislation.gov.uk/uksi/2015/798/article/8/5/a)
+[^c-65ff6e3f3997174868fec061b88811a3]: Textual amendment: Words in s. 282D(1)(a) omitted (retrospective to 20.3.2015) by virtue of [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [8(5)(a)](https://www.legislation.gov.uk/uksi/2015/798/article/8/5/a)
 
-[^key-36816583df49c6c8ab37cdcbda56135e]: Textual amendment: Words in s. 282D(3) omitted (retrospective to 20.3.2015) by virtue of [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [8(5)(b)](https://www.legislation.gov.uk/uksi/2015/798/article/8/5/b)
+[^c-36816583df49c6c8ab37cdcbda56135e]: Textual amendment: Words in s. 282D(3) omitted (retrospective to 20.3.2015) by virtue of [The Crime and Courts Act 2013 (National Crime Agency and Proceeds of Crime) (Northern Ireland) Order 2015 (S.I. 2015/798)](https://www.legislation.gov.uk/uksi/2015/798), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/798/article/1/2), [8(5)(b)](https://www.legislation.gov.uk/uksi/2015/798/article/8/5/b)
 
-[^key-7797b823f21e0cc5e62e4e622a73a60f]: Textual amendment: S. 282D(10)(b) and preceding word omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7797b823f21e0cc5e62e4e622a73a60f]: Textual amendment: S. 282D(10)(b) and preceding word omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [107(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/107/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**24C.**[^key-5e74c049a79e04acbffd9cb620aa977a] (1) For the purposes of regulations 24A and 24B, “payment”—
+**24C.**[^c-5e74c049a79e04acbffd9cb620aa977a] (1) For the purposes of regulations 24A and 24B, “payment”—
 
 - (a) means a payment in money and “pay” and “pays” are to be construed accordingly; and
 - (b) includes cases where a person—
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e74c049a79e04acbffd9cb620aa977a]: Textual amendment: [Regs. 24A-24C](https://www.legislation.gov.uk/uksi/1995/2518/regulation/24A) inserted (1.9.2019) by [The Value Added Tax (Amendment) Regulations 2019 (S.I. 2019/1048)](https://www.legislation.gov.uk/uksi/2019/1048), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1048/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/1048/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1048/regulation/2))
+[^c-5e74c049a79e04acbffd9cb620aa977a]: Textual amendment: [Regs. 24A-24C](https://www.legislation.gov.uk/uksi/1995/2518/regulation/24A) inserted (1.9.2019) by [The Value Added Tax (Amendment) Regulations 2019 (S.I. 2019/1048)](https://www.legislation.gov.uk/uksi/2019/1048), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1048/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/1048/regulation/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/1048/regulation/2))

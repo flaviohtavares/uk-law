@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Trustees’ liability in relation to certain obligations[^key-b41e9157c63451aa294cda4f7219b018]
+## 42. Trustees’ liability in relation to certain obligations[^c-b41e9157c63451aa294cda4f7219b018]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ being liability incurred in the ordinary course of administering the trust.
 
 ## Annotations
 
-[^key-b41e9157c63451aa294cda4f7219b018]: Commencement: S. 42 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-b41e9157c63451aa294cda4f7219b018]: Commencement: S. 42 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

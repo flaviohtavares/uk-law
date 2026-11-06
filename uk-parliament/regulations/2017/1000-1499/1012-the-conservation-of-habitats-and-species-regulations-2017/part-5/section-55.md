@@ -58,10 +58,10 @@ summary: ''
 
 (10) A licence under this regulation which authorises any person to kill wild animals must specify the area within which and the methods by which the wild animals may be killed and must not be granted for a period of more than—
 
-- (a)[^key-73e048334fe2c20eea38f6b7281d5cac] five years, in the case of a licence granted by Natural England, or
+- (a)[^c-73e048334fe2c20eea38f6b7281d5cac] five years, in the case of a licence granted by Natural England, or
 - (b) two years, in any other case.
 
-(10A)[^key-dda59637324768ecc4358781f0f4aa29] The maximum time period for a licence set out in paragraph (10) does not apply to—
+(10A)[^c-dda59637324768ecc4358781f0f4aa29] The maximum time period for a licence set out in paragraph (10) does not apply to—
 
 - (a) a licence granted to Natural England to facilitate the carrying out of any conservation measures within the meaning of Part 3 of the Planning and Infrastructure Act 2025, or
 - (b) a licence that, by virtue of paragraph 4 of Schedule 3 to the Planning and Infrastructure Act 2025, is treated as having been granted to a developer under regulation 55.
@@ -81,7 +81,7 @@ summary: ''
 - (b) for the purpose of its use in the carrying on of any agricultural activity; or
 - (c) for the provision or improvement of shooting or fishing.
 
-(15)[^key-af99b1b140180e7323c3784ff77d8ad7] Within two years from exit day, and thereafter within two years of the publication of the last such report, each relevant licensing body must publish, in such form as it sees fit, a report on licences granted under paragraph (1) in the preceding two years.
+(15)[^c-af99b1b140180e7323c3784ff77d8ad7] Within two years from exit day, and thereafter within two years of the publication of the last such report, each relevant licensing body must publish, in such form as it sees fit, a report on licences granted under paragraph (1) in the preceding two years.
 
 (16) A report made under paragraph (15) must specify—
 
@@ -92,10 +92,10 @@ summary: ''
 
 ## Annotations
 
-[^key-73e048334fe2c20eea38f6b7281d5cac]: Textual amendment: Reg. 55(10)(a)(b) substituted for words in reg. 55(10) (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 111(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/111/6), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/b)
+[^c-73e048334fe2c20eea38f6b7281d5cac]: Textual amendment: Reg. 55(10)(a)(b) substituted for words in reg. 55(10) (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 111(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/111/6), [147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/518](https://www.legislation.gov.uk/uksi/2022/518), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/518/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2022/518/regulation/3/b)
 
-[^key-dda59637324768ecc4358781f0f4aa29]: Textual amendment: Reg. 55(10A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/49) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
+[^c-dda59637324768ecc4358781f0f4aa29]: Textual amendment: Reg. 55(10A) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3), [Sch. 5 para. 49](https://www.legislation.gov.uk/ukpga/2025/34/schedule/5/paragraph/49) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)[(3)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/3)
 
 [^c23343891]: Marginal citation: [1911 c. 27](https://www.legislation.gov.uk/ukpga/1911/27).
 
-[^key-af99b1b140180e7323c3784ff77d8ad7]: Textual amendment: Reg. 55(15)(16) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/579/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af99b1b140180e7323c3784ff77d8ad7]: Textual amendment: Reg. 55(15)(16) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [23](https://www.legislation.gov.uk/uksi/2019/579/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

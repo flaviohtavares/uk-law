@@ -51,7 +51,7 @@ Section 50
 
 **3.** (1) The governing body to whom an inspector has reported under this Schedule must, before the end of the prescribed period, prepare a written statement (“**the action plan**”) of the action which they propose to take in the light of his report and the period within which they propose to take it.
 
-(2) Where an action plan has been prepared by a governing body, they must, before the end of the prescribed period, send copies of it to the person who appoints the school's foundation governors, to the local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] and to such other persons (if any), in such circumstances, as may be prescribed.
+(2) Where an action plan has been prepared by a governing body, they must, before the end of the prescribed period, send copies of it to the person who appoints the school's foundation governors, to the local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] and to such other persons (if any), in such circumstances, as may be prescribed.
 
 (3) The governing body must—
 
@@ -69,4 +69,4 @@ Section 50
 
 ## Annotations
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

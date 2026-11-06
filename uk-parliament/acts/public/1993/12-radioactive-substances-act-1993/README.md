@@ -29,11 +29,11 @@ Radioactive Substances Act 1993
 
 1993 c. 12
 
-[^key-be99045f66d431b485bf80fe6e743ddf][^key-4f1c9d21b2706e20874284f260355ff5][^c426664]An Act to consolidate certain enactments relating to radioactive substances with corrections and minor improvements made under the Consolidation of Enactments (Procedure) Act 1949.
+[^c-be99045f66d431b485bf80fe6e743ddf][^c-4f1c9d21b2706e20874284f260355ff5][^c426664]An Act to consolidate certain enactments relating to radioactive substances with corrections and minor improvements made under the Consolidation of Enactments (Procedure) Act 1949.
 
 \[27th May 1993\] [^c426665][^c426666][^c426667][^c426668]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-78b8984f9a93f0b607fdce6d0ea41b2c]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-78b8984f9a93f0b607fdce6d0ea41b2c]
 
 ## Contents
 
@@ -187,9 +187,9 @@ SCHEDULES
 
 ## Annotations
 
-[^key-be99045f66d431b485bf80fe6e743ddf]: Textual amendment: Act repealed (except for ss. 49(1) for specified purposes and s. 51, Sch. 4 paras. 2, 5-9, 11) (E.W.) (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 17](https://www.legislation.gov.uk/uksi/2011/2043/regulation/17) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/18), Sch. 3)
+[^c-be99045f66d431b485bf80fe6e743ddf]: Textual amendment: Act repealed (except for ss. 49(1) for specified purposes and s. 51, Sch. 4 paras. 2, 5-9, 11) (E.W.) (1.10.2011) by [The Environmental Permitting (England and Wales) (Amendment) Regulations 2011 (S.I. 2011/2043)](https://www.legislation.gov.uk/uksi/2011/2043), [reg. 17](https://www.legislation.gov.uk/uksi/2011/2043/regulation/17) (with [reg. 18(2)-(4)](https://www.legislation.gov.uk/uksi/2011/2043/regulation/18), Sch. 3)
 
-[^key-4f1c9d21b2706e20874284f260355ff5]: Textual amendment: Act in so far as still in force for E.W. repealed (except for ss. 49(1) for specified purposes and s. 51, Sch. 4 para. 5) (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 72](https://www.legislation.gov.uk/uksi/2016/1154/regulation/72) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-4f1c9d21b2706e20874284f260355ff5]: Textual amendment: Act in so far as still in force for E.W. repealed (except for ss. 49(1) for specified purposes and s. 51, Sch. 4 para. 5) (E.W.) (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 72](https://www.legislation.gov.uk/uksi/2016/1154/regulation/72) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c426664]: Editorial: \[A table showing the derivation of the provisions of this consolidation will be found at the end of this Act. The table has no official status.\]
 
@@ -211,4 +211,4 @@ SCHEDULES
 
     Act: power to modify conferred (prosp.) by [S.I. 1997/2778 (N.I. 19)](https://www.legislation.gov.uk/nisi/1997/2778), [arts. 1](https://www.legislation.gov.uk/nisi/1997/2778/article/1), [71](https://www.legislation.gov.uk/nisi/1997/2778/article/71)
 
-[^key-78b8984f9a93f0b607fdce6d0ea41b2c]: Modification: Act applied in part (temp.) (E.W.) (30.11.2006) (with effect in accordance with art. 1(1) of the amending S.I.) by [Radioactive Substances (Emergency Exemption) (England and Wales) Order 2006 (S.I. 2006/3169)](https://www.legislation.gov.uk/uksi/2006/3169), [art. 2](https://www.legislation.gov.uk/uksi/2006/3169/article/2)
+[^c-78b8984f9a93f0b607fdce6d0ea41b2c]: Modification: Act applied in part (temp.) (E.W.) (30.11.2006) (with effect in accordance with art. 1(1) of the amending S.I.) by [Radioactive Substances (Emergency Exemption) (England and Wales) Order 2006 (S.I. 2006/3169)](https://www.legislation.gov.uk/uksi/2006/3169), [art. 2](https://www.legislation.gov.uk/uksi/2006/3169/article/2)

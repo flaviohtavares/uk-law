@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156A. Cessation of trade by limited liability partnership.[^key-841548613a812a7bad6f43cf1a97b3e6]
+## 156A. Cessation of trade by limited liability partnership.[^c-841548613a812a7bad6f43cf1a97b3e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-841548613a812a7bad6f43cf1a97b3e6]: Textual amendment: S. 156A inserted (6.4.2001) by [Limited Liability Partnerships Act 2000 (c. 12)](https://www.legislation.gov.uk/ukpga/2000/12), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2000/12/section/10/4), [19(1)](https://www.legislation.gov.uk/ukpga/2000/12/section/19/1); [S.I. 2000/3316](https://www.legislation.gov.uk/uksi/2000/3316), art. 2
+[^c-841548613a812a7bad6f43cf1a97b3e6]: Textual amendment: S. 156A inserted (6.4.2001) by [Limited Liability Partnerships Act 2000 (c. 12)](https://www.legislation.gov.uk/ukpga/2000/12), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2000/12/section/10/4), [19(1)](https://www.legislation.gov.uk/ukpga/2000/12/section/19/1); [S.I. 2000/3316](https://www.legislation.gov.uk/uksi/2000/3316), art. 2

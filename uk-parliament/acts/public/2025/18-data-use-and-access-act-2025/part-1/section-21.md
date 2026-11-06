@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Regulations under this Part: supplementary[^key-5fd738ac6198a32094047bf2e8e7b01f][^key-2ca64090340b3f4d4ef52e3f19683f03]
+## 21. Regulations under this Part: supplementary[^c-5fd738ac6198a32094047bf2e8e7b01f][^c-2ca64090340b3f4d4ef52e3f19683f03]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5fd738ac6198a32094047bf2e8e7b01f]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-5fd738ac6198a32094047bf2e8e7b01f]: Commencement: S. 21 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-2ca64090340b3f4d4ef52e3f19683f03]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/18/section/21) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-2ca64090340b3f4d4ef52e3f19683f03]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2025/18/section/21) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Offence of breaching section 52[^key-35bf643a18edb26eb2f371e8551586fb][^key-6b50a4f2e6fdc5beb1b6489a0b07e828]
+## 54. Offence of breaching section 52[^c-35bf643a18edb26eb2f371e8551586fb][^c-6b50a4f2e6fdc5beb1b6489a0b07e828]
 
 *Extent: S*
 
@@ -53,6 +53,6 @@ as a result of which the person reasonably believed its previous publication com
 
 ## Annotations
 
-[^key-35bf643a18edb26eb2f371e8551586fb]: Commencement: S. 54 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-35bf643a18edb26eb2f371e8551586fb]: Commencement: S. 54 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-6b50a4f2e6fdc5beb1b6489a0b07e828]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2025/4/section/54) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-6b50a4f2e6fdc5beb1b6489a0b07e828]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2025/4/section/54) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

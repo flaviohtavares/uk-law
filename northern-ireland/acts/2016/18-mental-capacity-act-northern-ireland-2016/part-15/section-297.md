@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 297. Panels constituted to decide applications: general provision[^key-9e16ff59288170022cdf1c9b7509042e]
+## 297. Panels constituted to decide applications: general provision[^c-9e16ff59288170022cdf1c9b7509042e]
 
 *Extent: N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) Schedule 3 (applications for extension of period of authorisation);
 - (c) Schedule 6 (applications for extension of period of public protection order without restrictions).
 
-(2)[^key-0e21c754759bf8eaf90995b8d40a6a99] A panel must have 3 members (all of whom must be present during any proceedings of the panel). *(affected by repeal, see note)*[^key-e986ee586d9e35a14433058bc0134a5a] , all of whom must be present during any proceedings of the panel, except where—
+(2)[^c-0e21c754759bf8eaf90995b8d40a6a99] A panel must have 3 members (all of whom must be present during any proceedings of the panel). *(affected by repeal, see note)*[^c-e986ee586d9e35a14433058bc0134a5a] , all of whom must be present during any proceedings of the panel, except where—
 
 - (a) the panel does not hear oral evidence,
 - (b) each of the members provides a written opinion, and
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9e16ff59288170022cdf1c9b7509042e]: Commencement: S. 297 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
+[^c-9e16ff59288170022cdf1c9b7509042e]: Commencement: S. 297 in operation at 2.12.2019 for specified purposes by [S.R. 2019/163](https://www.legislation.gov.uk/nisr/2019/163), [art. 2(4)](https://www.legislation.gov.uk/nisr/2019/163/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2019/163/schedule/part/4) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/163/article/3)) (as amended by [S.R. 2019/190](https://www.legislation.gov.uk/nisr/2019/190), art. 2)
 
-[^key-0e21c754759bf8eaf90995b8d40a6a99]: Modification: [S. 297(2)](https://www.legislation.gov.uk/nia/2016/18/section/297/2) expiry of earlier affecting provision 2020 c. 7, Sch. 11 paras. 3-9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
+[^c-0e21c754759bf8eaf90995b8d40a6a99]: Modification: [S. 297(2)](https://www.legislation.gov.uk/nia/2016/18/section/297/2) expiry of earlier affecting provision 2020 c. 7, Sch. 11 paras. 3-9 (25.3.2022) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89) (with [s. 90](https://www.legislation.gov.uk/ukpga/2020/7/section/90))
 
-[^key-e986ee586d9e35a14433058bc0134a5a]: Textual amendment: Words in s. 297(2) substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/3) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/58/article/2/e)
+[^c-e986ee586d9e35a14433058bc0134a5a]: Textual amendment: Words in s. 297(2) substituted (temp.) (2.4.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(2)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/2), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/3) (with [ss. 88-90](https://www.legislation.gov.uk/ukpga/2020/7/section/88), [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/7/schedule/11/paragraph/2)); [S.R. 2020/58](https://www.legislation.gov.uk/nisr/2020/58), [art. 2(e)](https://www.legislation.gov.uk/nisr/2020/58/article/2/e)

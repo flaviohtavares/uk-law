@@ -46,11 +46,11 @@ Coming into force
 
 The Lord Chancellor makes the following Order in exercise of the power conferred by paragraph 2 of Schedule 1 to the Public Service Pensions Act 2013[^f00001].
 
-## 1. Citation and commencement[^key-d4269946b54800e9c2e00b1af5be0961]
+## 1. Citation and commencement[^c-d4269946b54800e9c2e00b1af5be0961]
 
 This Order may be cited as the Public Service Pensions Act 2013 (Judicial Offices) (Amendment) Order 2015 and comes into force on 1st August 2015.
 
-## 2. Amendments of the Public Service Pensions Act 2013 (Judicial Offices) Order 2015[^key-56742419bbc26cb72edc28188f80dd52]
+## 2. Amendments of the Public Service Pensions Act 2013 (Judicial Offices) Order 2015[^c-56742419bbc26cb72edc28188f80dd52]
 
 (1) The Schedule (specified judicial offices) to the Public Service Pensions Act 2013 (Judicial Offices) Order 2015[^f00002] is amended as follows.
 
@@ -88,8 +88,8 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-d4269946b54800e9c2e00b1af5be0961]: Commencement: Art. 1 in force at 1.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1483/article/1)
+[^c-d4269946b54800e9c2e00b1af5be0961]: Commencement: Art. 1 in force at 1.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1483/article/1)
 
-[^key-56742419bbc26cb72edc28188f80dd52]: Commencement: Art. 2 in force at 1.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1483/article/1)
+[^c-56742419bbc26cb72edc28188f80dd52]: Commencement: Art. 2 in force at 1.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1483/article/1)
 
 [^f00002]: Footnote: [S.I. 2015/580](https://www.legislation.gov.uk/uksi/2015/580).

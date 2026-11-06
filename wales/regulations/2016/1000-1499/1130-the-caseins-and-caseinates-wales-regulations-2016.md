@@ -45,11 +45,11 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred by sections 6(4), 16(1)(a), (e), (f), 17(1), 26(1), (2)(e) and (3), 31(1) and 48 of the Food Safety Act 1990[^f00001].
 
-In accordance with section 48(4A)[^f00002] of that Act, the Welsh Ministers have had regard to relevant advice given by the Food Standards Agency before making these Regulations.[^key-c749c335bc725edbde7255b7d2e6ce4c]
+In accordance with section 48(4A)[^f00002] of that Act, the Welsh Ministers have had regard to relevant advice given by the Food Standards Agency before making these Regulations.[^c-c749c335bc725edbde7255b7d2e6ce4c]
 
-There has been open and transparent public consultation during the preparation and evaluation of these Regulations as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] .[^key-c749c335bc725edbde7255b7d2e6ce4c]
+There has been open and transparent public consultation during the preparation and evaluation of these Regulations as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] .[^c-c749c335bc725edbde7255b7d2e6ce4c]
 
-## 1. Title, application and commencement[^key-671cd62f74440db617ee7a9866c260ff]
+## 1. Title, application and commencement[^c-671cd62f74440db617ee7a9866c260ff]
 
 (1) The title of these Regulations is the Caseins and Caseinates (Wales) Regulations 2016.
 
@@ -57,7 +57,7 @@ There has been open and transparent public consultation during the preparation a
 
 (3) These Regulations come into force on 22 December 2016.
 
-## 2. Interpretation[^key-5aee904667441e65c0737db82b453409]
+## 2. Interpretation[^c-5aee904667441e65c0737db82b453409]
 
 In these Regulations—
 
@@ -71,17 +71,17 @@ In these Regulations—
 - “Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) (“*Rheoliad [(EC) Rhif 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332)*”) means Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332) of the European Parliament and of the Council on food enzymes and amending Council [Directive 83/417/EEC](https://www.legislation.gov.uk/european/directive/1983/0417), Council Regulation [(EC) No 1493/1999](https://www.legislation.gov.uk/european/regulation/1999/1493), [Directive 2000/13/EC](https://www.legislation.gov.uk/european/directive/2000/0013), Council [Directive 2001/112/EC](https://www.legislation.gov.uk/european/directive/2001/0112) and Regulation [(EC) No 258/97](https://www.legislation.gov.uk/european/regulation/1997/0258)[^f00005];
 - “sell” (“*gwerthu*”) includes possess for sale and offer, expose or advertise for sale, and “sale” (“*gwerthu*”) is to be construed accordingly.
 
-## 3. Scope[^key-605a471ffaf72b9f03abdcfd0d7add3b]
+## 3. Scope[^c-605a471ffaf72b9f03abdcfd0d7add3b]
 
 These Regulations apply to caseins and caseinates intended for sale for human consumption.
 
-## 4. Restriction on the use of caseins and caseinates in the preparation of food[^key-a16b9d977d3e1f12ad29c32e38f2d87d]
+## 4. Restriction on the use of caseins and caseinates in the preparation of food[^c-a16b9d977d3e1f12ad29c32e38f2d87d]
 
 (1) No person may use any casein or caseinate in the preparation of food if it does not comply with the standards set out in Schedule 4.
 
 (2) A person marketing caseins or caseinates which do not comply with paragraph (1), for a purpose other than the caseins or caseinates being used in the preparation of food, must indicate explicitly or by clear implication the nature, quality or intended use of the product.
 
-## 5. General restriction on marketing of casein products[^key-a9aee9a09b380a78c9da9fe9a47985e7]
+## 5. General restriction on marketing of casein products[^c-a9aee9a09b380a78c9da9fe9a47985e7]
 
 (1) No person may sell any food with a label, whether or not attached to or printed on the package or container, which includes the name of any casein product unless the requirements set out in paragraph (4) are complied with.
 
@@ -94,7 +94,7 @@ These Regulations apply to caseins and caseinates intended for sale for human co
 - (a) the food is or contains a casein product; or
 - (b) the name is used in such a context as to indicate explicitly or by clear implication that the food is not a casein product and does not contain one.
 
-## 6. Labelling of casein products[^key-787d1d9f8ccd64e2cdea7f61a2623d62]
+## 6. Labelling of casein products[^c-787d1d9f8ccd64e2cdea7f61a2623d62]
 
 (1) Without prejudice to the provisions of FIC, no person may sell any casein product unless it is marked or labelled with—
 
@@ -104,8 +104,8 @@ These Regulations apply to caseins and caseinates intended for sale for human co
   - (ii) an indication of the cation or cations listed in paragraph 4 of Schedule 2 in the case of edible caseinates;
   - (iii) in the case of mixtures containing edible caseinates, the protein content;
 - (c) the net quantity of the casein product, expressed in kilograms or grams;
-- (d) the name or business name and the address of the food business operator under whose name or business name the product is marketed or, if that food business operator is not established in the United Kingdom, the importer into the United Kingdom[^key-3ace582b3ea1be45301f3d465cd13232];
-- (e) in the case of a casein product imported from a third country[^key-13913c84a784f53df67b10429073b57a], the name of the country of origin; and
+- (d) the name or business name and the address of the food business operator under whose name or business name the product is marketed or, if that food business operator is not established in the United Kingdom, the importer into the United Kingdom[^c-3ace582b3ea1be45301f3d465cd13232];
+- (e) in the case of a casein product imported from a third country[^c-13913c84a784f53df67b10429073b57a], the name of the country of origin; and
 - (f) the lot identification of the casein product or the date of production.
 
 (2) The particulars required by paragraph (1) must be easily visible, clearly legible, indelible and given in English, either exclusively or in addition to any other language.
@@ -128,13 +128,13 @@ a person may mark that fact on the package, label or container of that product.
 
 (8) Where a casein product that is marked or labelled with “mixture of” in accordance with (1)(b)(i) is marked or labelled in Welsh in addition to English, the words “cymysgedd o” must be used followed by the names of the casein products which make up the mixture, in descending order of weight.
 
-(9)[^key-81ef6212433c486cb3f0b76c0e700407] In this regulation, “third country” means any country other than the British Islands.
+(9)[^c-81ef6212433c486cb3f0b76c0e700407] In this regulation, “third country” means any country other than the British Islands.
 
-## 7. Enforcement[^key-ad0906dfdca06087b39a8e5fc0b9a6fe]
+## 7. Enforcement[^c-ad0906dfdca06087b39a8e5fc0b9a6fe]
 
 It is the duty of a food authority within its area and a port health authority within its district to enforce these Regulations.
 
-## 8. Application and modification of provisions of the Act[^key-949238c0490ea690542a02c3091b279f]
+## 8. Application and modification of provisions of the Act[^c-949238c0490ea690542a02c3091b279f]
 
 (1) Section 10(1) and (2) of the Act (improvement notices) applies for the purposes of these Regulations with the modification (in the case of section 10(1)) set out in Part 1 of Schedule 5 for the purposes of—
 
@@ -145,18 +145,18 @@ It is the duty of a food authority within its area and a port health authority w
 
 (3) Paragraphs (1) and (2) are without prejudice to the application of the Act to these Regulations for purposes other than those specified in paragraph (1).
 
-## 9. Revocations[^key-a333070798f4e16deb27bf37740b09f2]
+## 9. Revocations[^c-a333070798f4e16deb27bf37740b09f2]
 
 The following Regulations are revoked—
 
 - (a) The Caseins and Caseinates Regulations 1985[^f00006];
 - (b) The Caseins and Caseinates (Amendment) Regulations 1989[^f00007].
 
-## 10. Transitional provision: withdrawal from the EU[^key-4f81dd9085dfae7c5389069e4a6facda]
+## 10. Transitional provision: withdrawal from the EU[^c-4f81dd9085dfae7c5389069e4a6facda]
 
 (1) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with regulation 6(1)(d) or (e) if—
 
-- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^key-5170359bcba95425e562685af8750877]; and
+- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^c-5170359bcba95425e562685af8750877]; and
 - (b) the matter constituting the alleged failure to comply would not have constituted a failure to comply with regulation 6(1)(d) or (e) (as the case may be) as those provisions had effect immediately before IP completion day.
 
 (2) In this regulation, “improvement notice” means an improvement notice pursuant to regulation 8.
@@ -165,7 +165,7 @@ Rebecca Evans
 
 Minister for Social Services and Public Health under authority of the Cabinet Secretary for Health, Well-being and Sport, one of the Welsh Ministers
 
-## SCHEDULE 1 — Standards applicable to edible acid caseins[^key-9d974e1c1cc5b2c378921eab6149c07e]
+## SCHEDULE 1 — Standards applicable to edible acid caseins[^c-9d974e1c1cc5b2c378921eab6149c07e]
 
 Regulation 2
 
@@ -196,7 +196,7 @@ Regulation 2
 | --- | --- |
 | Extraneous matter (such as wood or metal particles, hairs or insect fragments) | nil in 25 g |
 
-[^key-9d974e1c1cc5b2c378921eab6149c07e]**4. Processing aids, bacterial cultures and authorised ingredients**
+[^c-9d974e1c1cc5b2c378921eab6149c07e]**4. Processing aids, bacterial cultures and authorised ingredients**
 
 - 1. acids:
   - lactic acid
@@ -215,7 +215,7 @@ Regulation 2
   | 1\. | Odour | No foreign odours |
   | 2\. | Appearance | Colour ranging from white to creamy white; the product must not contain any lumps that would not break up under slight pressure. |
 
-## SCHEDULE 2 — Standards applicable to edible caseinates[^key-237964de3c2d9f6d19c1dd2aef6bbb21]
+## SCHEDULE 2 — Standards applicable to edible caseinates[^c-237964de3c2d9f6d19c1dd2aef6bbb21]
 
 Regulation 2
 
@@ -265,7 +265,7 @@ Regulation 2
 | 2\. | Appearance | Colour ranging from white to creamy white; the product must not contain any lumps that would not break up under slight pressure. |
 | 3\. | Solubility | Almost entirely soluble in distilled water, except for calcium caseinate. |
 
-## SCHEDULE 3 — Standards applicable to edible rennet caseins[^key-1da182fa82444b26239fd71a6263a054]
+## SCHEDULE 3 — Standards applicable to edible rennet caseins[^c-1da182fa82444b26239fd71a6263a054]
 
 Regulation 2
 
@@ -295,7 +295,7 @@ Regulation 2
 | --- | --- |
 | Extraneous matter (such as wood or metal particles, hairs or insect fragments) | nil in 25 g |
 
-[^key-1da182fa82444b26239fd71a6263a054]**4. Processing aids**
+[^c-1da182fa82444b26239fd71a6263a054]**4. Processing aids**
 
 - rennet meeting the requirements of Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332)[^f00008];
 - other milk-coagulating enzymes meeting the requirements of Regulation [(EC) No 1332/2008](https://www.legislation.gov.uk/european/regulation/2008/1332).
@@ -307,7 +307,7 @@ Regulation 2
   | 1\. | Odour | No foreign odours |
   | 2\. | Appearance | Colour ranging from white to creamy white; the product must not contain any lumps that would not break up under slight pressure. |
 
-## SCHEDULE 4 — Standards applicable to caseins and caseinates in food[^key-2996d531146ea0d5dfa78aaf64b60fba]
+## SCHEDULE 4 — Standards applicable to caseins and caseinates in food[^c-2996d531146ea0d5dfa78aaf64b60fba]
 
 Regulation 4
 
@@ -329,7 +329,7 @@ Regulation 8
 
 ### PART 1 — Modification of section 10(1)
 
-**1.**[^key-e3254336f1a2eb6c915c5bbda6beeb6f] For section 10(1) substitute—
+**1.**[^c-e3254336f1a2eb6c915c5bbda6beeb6f] For section 10(1) substitute—
 
 > If an authorised officer has reasonable grounds for believing that a person is failing to comply with any of regulations 4, 5 or 6 of the Caseins and Caseinates (Wales) Regulations 2016, the authorised officer may, by a notice served on that person (in this Act referred to as an “improvement notice”)—
 >
@@ -338,7 +338,7 @@ Regulation 8
 > - (c) specify the measures which, in the officer’s opinion, the person must take in order to secure compliance; and
 > - (d) require the person to take measures, or measures that are at least equivalent to them, within such period (not being less than 14 days) as may be specified in the notice.
 
-### PART 2 — Application and modification of other provisions of the Act[^key-1f4586dc0bca4ec73c9b056aa60bc055]
+### PART 2 — Application and modification of other provisions of the Act[^c-1f4586dc0bca4ec73c9b056aa60bc055]
 
 | *Column 1*<br>*Provision of the Act* | *Column 2*<br>*Modifications* |
 | --- | --- |
@@ -382,59 +382,59 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Section 48(4A) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
 
-[^key-c749c335bc725edbde7255b7d2e6ce4c]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2016/1130) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-c749c335bc725edbde7255b7d2e6ce4c]: Modification: [Regulations](https://www.legislation.gov.uk/wsi/2016/1130) applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00003]: Footnote: OJ No L 31, 1.2.2002, p 1, last amended by Regulation (EU) No 652/2014 of the European Parliament and of the Council (OJ No L 189, 27.6.2014, p 1).
 
-[^key-671cd62f74440db617ee7a9866c260ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-671cd62f74440db617ee7a9866c260ff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-5aee904667441e65c0737db82b453409]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/1130/regulation/2) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-5aee904667441e65c0737db82b453409]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2016/1130/regulation/2) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
 [^f00004]: Footnote: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p 7).
 
 [^f00005]: Footnote: OJ No L 354, 3.12.2008, p 7, last amended by [Commission Regulation (EU) No 1056/2012](https://www.legislation.gov.uk/european/regulation/2012/1056) (OJ No L 313, 13.11.2012, p 9).
 
-[^key-605a471ffaf72b9f03abdcfd0d7add3b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/1130/regulation/3) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-605a471ffaf72b9f03abdcfd0d7add3b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2016/1130/regulation/3) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-a16b9d977d3e1f12ad29c32e38f2d87d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/1130/regulation/4) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-a16b9d977d3e1f12ad29c32e38f2d87d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2016/1130/regulation/4) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-a9aee9a09b380a78c9da9fe9a47985e7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/1130/regulation/5) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-a9aee9a09b380a78c9da9fe9a47985e7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2016/1130/regulation/5) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-787d1d9f8ccd64e2cdea7f61a2623d62]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/1130/regulation/6) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-787d1d9f8ccd64e2cdea7f61a2623d62]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2016/1130/regulation/6) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-3ace582b3ea1be45301f3d465cd13232]: Textual amendment: Words in [reg. 6(1)(d)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/6/1/d) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [15(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/15/2/a/i)
+[^c-3ace582b3ea1be45301f3d465cd13232]: Textual amendment: Words in [reg. 6(1)(d)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/6/1/d) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [15(2)(a)(i)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/15/2/a/i)
 
-[^key-13913c84a784f53df67b10429073b57a]: Textual amendment: Words in [reg. 6(1)(e)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/6/1/e) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [15(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/15/2/a/ii)
+[^c-13913c84a784f53df67b10429073b57a]: Textual amendment: Words in [reg. 6(1)(e)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/6/1/e) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [15(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/15/2/a/ii)
 
-[^key-81ef6212433c486cb3f0b76c0e700407]: Textual amendment: [Reg. 6(9)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/6/9) inserted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/15/2/b)
+[^c-81ef6212433c486cb3f0b76c0e700407]: Textual amendment: [Reg. 6(9)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/6/9) inserted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments and Saving Provision) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1581)](https://www.legislation.gov.uk/wsi/2020/1581), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/1/3), [15(2)(b)](https://www.legislation.gov.uk/wsi/2020/1581/regulation/15/2/b)
 
-[^key-ad0906dfdca06087b39a8e5fc0b9a6fe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/1130/regulation/7) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-ad0906dfdca06087b39a8e5fc0b9a6fe]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2016/1130/regulation/7) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-949238c0490ea690542a02c3091b279f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/1130/regulation/8) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-949238c0490ea690542a02c3091b279f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2016/1130/regulation/8) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-a333070798f4e16deb27bf37740b09f2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/1130/regulation/9) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-a333070798f4e16deb27bf37740b09f2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2016/1130/regulation/9) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
 [^f00006]: Footnote: [S.I. 1985/2026](https://www.legislation.gov.uk/uksi/1985/2026).
 
 [^f00007]: Footnote: [S.I. 1989/2321](https://www.legislation.gov.uk/uksi/1989/2321).
 
-[^key-4f81dd9085dfae7c5389069e4a6facda]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/1130/regulation/10) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2021/371/regulation/8)
+[^c-4f81dd9085dfae7c5389069e4a6facda]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/wsi/2016/1130/regulation/10) inserted (14.4.2021) by [The Food, Animal Feed and Seeds (Miscellaneous Amendments and Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/371)](https://www.legislation.gov.uk/wsi/2021/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/371/regulation/1/2), [8](https://www.legislation.gov.uk/wsi/2021/371/regulation/8)
 
-[^key-5170359bcba95425e562685af8750877]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/10/1/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2022/939/regulation/10)
+[^c-5170359bcba95425e562685af8750877]: Textual amendment: Words in [reg. 10(1)(a)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/10/1/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2022/939/regulation/10)
 
-[^key-9d974e1c1cc5b2c378921eab6149c07e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/1130/schedule/1) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-9d974e1c1cc5b2c378921eab6149c07e]: Commencement: [Sch. 1](https://www.legislation.gov.uk/wsi/2016/1130/schedule/1) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-237964de3c2d9f6d19c1dd2aef6bbb21]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2016/1130/schedule/2) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-237964de3c2d9f6d19c1dd2aef6bbb21]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2016/1130/schedule/2) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-1da182fa82444b26239fd71a6263a054]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2016/1130/schedule/3) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-1da182fa82444b26239fd71a6263a054]: Commencement: [Sch. 3](https://www.legislation.gov.uk/wsi/2016/1130/schedule/3) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
 [^f00008]: Footnote: OJ No L 354, 3.12.2008, p 7, last amended by [Commission Regulation (EU) No 1056/2012](https://www.legislation.gov.uk/european/regulation/2012/1056) of 12 November 2012.
 
-[^key-2996d531146ea0d5dfa78aaf64b60fba]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2016/1130/schedule/4) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-2996d531146ea0d5dfa78aaf64b60fba]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2016/1130/schedule/4) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-e3254336f1a2eb6c915c5bbda6beeb6f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/wsi/2016/1130/schedule/5/paragraph/1) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-e3254336f1a2eb6c915c5bbda6beeb6f]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/wsi/2016/1130/schedule/5/paragraph/1) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
-[^key-1f4586dc0bca4ec73c9b056aa60bc055]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/wsi/2016/1130/schedule/5/part/2) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
+[^c-1f4586dc0bca4ec73c9b056aa60bc055]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/wsi/2016/1130/schedule/5/part/2) in force at 22.12.2016, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2016/1130/regulation/1/3)
 
 [^f00009]: Footnote: Section 35(1) is amended by paragraph 42 of Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from a date to be appointed. There are other amendments to section 35(1) not relevant to these Regulations.
 

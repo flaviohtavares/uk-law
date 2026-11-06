@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Complaints to which this Part applies[^key-e5e923ec6b98977dbd5486de247baa8f][^key-b893cc387451b3d92efe017ae69d2834]
+## 65. Complaints to which this Part applies[^c-e5e923ec6b98977dbd5486de247baa8f][^c-b893cc387451b3d92efe017ae69d2834]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ as it applies to a complaint falling within subsection (1).
 
 ## Annotations
 
-[^key-e5e923ec6b98977dbd5486de247baa8f]: Commencement: S. 65 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
+[^c-e5e923ec6b98977dbd5486de247baa8f]: Commencement: S. 65 in force at 31.12.2004 for W. by [S.I. 2004/3238](https://www.legislation.gov.uk/uksi/2004/3238), [art. 2](https://www.legislation.gov.uk/uksi/2004/3238/article/2)
 
-[^key-b893cc387451b3d92efe017ae69d2834]: Commencement: S. 65 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)
+[^c-b893cc387451b3d92efe017ae69d2834]: Commencement: S. 65 in force at 1.6.2005 for E. by [S.I. 2005/710](https://www.legislation.gov.uk/uksi/2005/710), [art. 2](https://www.legislation.gov.uk/uksi/2005/710/article/2)

@@ -44,13 +44,13 @@ Coming into force
 
 1st September 2010
 
-The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the powers conferred by sections 29A and 210(7) of the Education Act 2002[^f00001].[^key-4afc4a89b3378b24e1c5b009de64cea8]
+The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the powers conferred by sections 29A and 210(7) of the Education Act 2002[^f00001].[^c-4afc4a89b3378b24e1c5b009de64cea8]
 
-## 1. Citation, commencement and application[^key-76041b9db7564c90058314855c89357b]
+## 1. Citation, commencement and application[^c-76041b9db7564c90058314855c89357b]
 
 These Regulations may be cited as The Education (Educational Provision for Improving Behaviour) Regulations 2010 and come into force on 1st September 2010.
 
-## 2. Interpretation[^key-82b0b75b1bbac55cf4c38b03c86dd6c2]
+## 2. Interpretation[^c-82b0b75b1bbac55cf4c38b03c86dd6c2]
 
 In these Regulations—
 
@@ -63,7 +63,7 @@ In these Regulations—
   - (b) in relation to a pupil who has attained that age, the pupil;
 - “review meeting” means a meeting held for the purpose of keeping under review a requirement imposed upon a pupil under section 29A(1) of the 2002 Act.
 
-## 3. Requirements and other matters relating to the imposition of a requirement upon a pupil under section 29A(1) of the 2002 Act[^key-c226ab0fa60369626ac9b9b6c6ab4186]
+## 3. Requirements and other matters relating to the imposition of a requirement upon a pupil under section 29A(1) of the 2002 Act[^c-c226ab0fa60369626ac9b9b6c6ab4186]
 
 (1) Where a governing body determine that they will impose a requirement on a pupil under section 29A(1) of the 2002 Act, they must give the persons prescribed in paragraph (3) a notice in writing of the imposition of the requirement containing the information prescribed in paragraph (4).
 
@@ -72,7 +72,7 @@ In these Regulations—
 (3) The prescribed persons are—
 
 - (a) the relevant person; and
-- (b)[^key-d41181848760e401f11c4414bd37bdb9] where the pupil has an EHC plan, the local authority maintaining that plan
+- (b)[^c-d41181848760e401f11c4414bd37bdb9] where the pupil has an EHC plan, the local authority maintaining that plan
 
 (4) The prescribed information is—
 
@@ -84,13 +84,13 @@ In these Regulations—
   - (i) where two sessions per day are provided, the times at which the morning session commences, the afternoon session ends and the break between them commences and ends, or
   - (ii) where a single session per day is provided, the times at which the session commences and ends.
 
-(5)[^key-64d4cf749109a2738389bb6fb1467fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-64d4cf749109a2738389bb6fb1467fe1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Requirement to keep under review the imposition of a requirement upon a pupil under section 29A(1) of the 2002 Act[^key-7923ac896269575f37941999eea96544]
+## 4. Requirement to keep under review the imposition of a requirement upon a pupil under section 29A(1) of the 2002 Act[^c-7923ac896269575f37941999eea96544]
 
 (1) Where a governing body have imposed a requirement upon a pupil under section 29A(1) of the 2002 Act, they must keep under review the imposition of any such requirement by—
 
-- (a)[^key-ee7b283ea3478aa5d02accdb345e086c] holding review meetings at such intervals as they, having regard to the needs of the pupil, consider appropriate; and
+- (a)[^c-ee7b283ea3478aa5d02accdb345e086c] holding review meetings at such intervals as they, having regard to the needs of the pupil, consider appropriate; and
 
 for as long as the requirement remains in effect; and
 
@@ -98,12 +98,12 @@ for as long as the requirement remains in effect; and
 
 (2) In making a decision under paragraph 1(b), the governing body must take into account the views of any persons referred to in regulation 5(1) who have attended the review meeting or have submitted their views in writing.
 
-## 4A. Persons who may request a review meeting[^key-64ff76f4bbfd71061b2af7fdb220af7e]
+## 4A. Persons who may request a review meeting[^c-64ff76f4bbfd71061b2af7fdb220af7e]
 
 (1) Where a governing body have imposed a requirement upon a pupil under section 29A(1) of the 2002 Act—
 
 - (a) the relevant person; and
-- (b) in a case where an EHC plan[^key-3c2338faf7f962160f20f70422f8a154] is maintained for the pupil, the local authority maintaining that plan[^key-58909049481b8cc66cd47e94e9eb2a7f],
+- (b) in a case where an EHC plan[^c-3c2338faf7f962160f20f70422f8a154] is maintained for the pupil, the local authority maintaining that plan[^c-58909049481b8cc66cd47e94e9eb2a7f],
 
 may request a review meeting.
 
@@ -113,7 +113,7 @@ may request a review meeting.
 
 (4) There is no requirement on the governing body to carry out a review meeting following a request under paragraph (1)(a) or (b) if there has been a review meeting during the period of 10 weeks preceding the day on which the request is made.
 
-## 5. Conduct of review meetings[^key-94a1414ebb9ddf14dbb3f2e6c86c9f2b]
+## 5. Conduct of review meetings[^c-94a1414ebb9ddf14dbb3f2e6c86c9f2b]
 
 (1) Not later than six days before the date of any review meeting, a governing body must give a written invitation to the following persons requesting them to attend the review meeting, or to submit in writing before the date of the meeting their views as to whether a requirement imposed upon a pupil under section 29A(1) of the 2002 should continue to have effect—
 
@@ -121,7 +121,7 @@ may request a review meeting.
 - (b) the provider;
 - (c) the head teacher of the school;
 - (d) a representative of the governing body; and
-- (e)[^key-a3521352b77c127561898c8ef2b90736] where the pupil has an EHC plan, a representative of the local authority maintaining the plan
+- (e)[^c-a3521352b77c127561898c8ef2b90736] where the pupil has an EHC plan, a representative of the local authority maintaining the plan
 
 (2) The governing body must ensure, insofar as is practicable, that any review meeting is convened on a date, and at a time, that is suitable for the relevant person.
 
@@ -131,21 +131,21 @@ may request a review meeting.
 - (b) any person employed by the local authority which maintains the school; or
 - (c) any person who has, or at any time has had, any connection with the pupil in question of a kind which might reasonably be taken to raise doubts about their ability to act impartially.
 
-## 6. Notification of the outcome of a review[^key-25cbea668fa64a5faede13b6648d2253]
+## 6. Notification of the outcome of a review[^c-25cbea668fa64a5faede13b6648d2253]
 
-A governing body must give written notification of their decision under regulation 4(1)(b)[^key-16fb2f8221dadd4e7132e671aa851643], and the reasons for it, to—
+A governing body must give written notification of their decision under regulation 4(1)(b)[^c-16fb2f8221dadd4e7132e671aa851643], and the reasons for it, to—
 
 - (a) the relevant person;
 - (b) the provider; and
-- (c)[^key-a91ae76215b957c15538afb8ed458e0a] where the pupil has an EHC plan, the local authority maintaining the plan
+- (c)[^c-a91ae76215b957c15538afb8ed458e0a] where the pupil has an EHC plan, the local authority maintaining the plan
 
 not later than six days after the date of the review meeting.
 
-## 7. Notices, invitations and notifications[^key-f9a0c3738657b5cb885f1c58abb56e14]
+## 7. Notices, invitations and notifications[^c-f9a0c3738657b5cb885f1c58abb56e14]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Guidance[^key-b0abf51a5d69d9a3c25bc4f2a9f711b1]
+## 8. Guidance[^c-b0abf51a5d69d9a3c25bc4f2a9f711b1]
 
 A governing body exercising functions under section 29A(1) of the 2002 Act, or under these Regulations, must have regard to any guidance given from time to time by the Secretary of State.
 
@@ -181,40 +181,40 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32). Section 29A was inserted by the section 154 of the Education and Skills Act [2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25). For the meaning of “prescribed” and “regulations”, see (by virtue of section 212(2) and 212(3) of the 2002 Act) section 579(1) of the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-4afc4a89b3378b24e1c5b009de64cea8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/1156) applied (with modifications) (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/558/regulation/4), [5](https://www.legislation.gov.uk/uksi/2026/558/regulation/5), [7](https://www.legislation.gov.uk/uksi/2026/558/regulation/7)
+[^c-4afc4a89b3378b24e1c5b009de64cea8]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2010/1156) applied (with modifications) (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/558/regulation/4), [5](https://www.legislation.gov.uk/uksi/2026/558/regulation/5), [7](https://www.legislation.gov.uk/uksi/2026/558/regulation/7)
 
-[^key-76041b9db7564c90058314855c89357b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1) in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
+[^c-76041b9db7564c90058314855c89357b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1) in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
 
-[^key-82b0b75b1bbac55cf4c38b03c86dd6c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1156/regulation/2) in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
+[^c-82b0b75b1bbac55cf4c38b03c86dd6c2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/1156/regulation/2) in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
 
-[^key-c226ab0fa60369626ac9b9b6c6ab4186]: Commencement: Reg. 3 in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
+[^c-c226ab0fa60369626ac9b9b6c6ab4186]: Commencement: Reg. 3 in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
 
-[^key-d41181848760e401f11c4414bd37bdb9]: Textual amendment: Reg. 3(3)(b) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [34(2)](https://www.legislation.gov.uk/uksi/2014/2103/article/34/2)
+[^c-d41181848760e401f11c4414bd37bdb9]: Textual amendment: Reg. 3(3)(b) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [34(2)](https://www.legislation.gov.uk/uksi/2014/2103/article/34/2)
 
-[^key-64d4cf749109a2738389bb6fb1467fe1]: Textual amendment: Reg. 3(5) omitted (1.1.2013) by virtue of [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/2532/regulation/3)
+[^c-64d4cf749109a2738389bb6fb1467fe1]: Textual amendment: Reg. 3(5) omitted (1.1.2013) by virtue of [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [3](https://www.legislation.gov.uk/uksi/2012/2532/regulation/3)
 
-[^key-7923ac896269575f37941999eea96544]: Commencement: Reg. 4 in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
+[^c-7923ac896269575f37941999eea96544]: Commencement: Reg. 4 in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
 
-[^key-ee7b283ea3478aa5d02accdb345e086c]: Textual amendment: Reg. 4(1)(a) substituted (1.1.2013) by [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/2532/regulation/4)
+[^c-ee7b283ea3478aa5d02accdb345e086c]: Textual amendment: Reg. 4(1)(a) substituted (1.1.2013) by [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [4](https://www.legislation.gov.uk/uksi/2012/2532/regulation/4)
 
-[^key-64ff76f4bbfd71061b2af7fdb220af7e]: Textual amendment: Reg. 4A inserted (1.1.2013) by [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/2532/regulation/5)
+[^c-64ff76f4bbfd71061b2af7fdb220af7e]: Textual amendment: Reg. 4A inserted (1.1.2013) by [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [5](https://www.legislation.gov.uk/uksi/2012/2532/regulation/5)
 
-[^key-3c2338faf7f962160f20f70422f8a154]: Textual amendment: Words in reg. 4A(1)(b) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/558/regulation/2/a)
+[^c-3c2338faf7f962160f20f70422f8a154]: Textual amendment: Words in reg. 4A(1)(b) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2026/558/regulation/2/a)
 
-[^key-58909049481b8cc66cd47e94e9eb2a7f]: Textual amendment: Word in reg. 4A(1)(b) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/558/regulation/2/b)
+[^c-58909049481b8cc66cd47e94e9eb2a7f]: Textual amendment: Word in reg. 4A(1)(b) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2026/558/regulation/2/b)
 
-[^key-94a1414ebb9ddf14dbb3f2e6c86c9f2b]: Commencement: Reg. 5 in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
+[^c-94a1414ebb9ddf14dbb3f2e6c86c9f2b]: Commencement: Reg. 5 in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
 
-[^key-a3521352b77c127561898c8ef2b90736]: Textual amendment: Reg. 5(1)(e) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [34(3)](https://www.legislation.gov.uk/uksi/2014/2103/article/34/3)
+[^c-a3521352b77c127561898c8ef2b90736]: Textual amendment: Reg. 5(1)(e) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [34(3)](https://www.legislation.gov.uk/uksi/2014/2103/article/34/3)
 
-[^key-25cbea668fa64a5faede13b6648d2253]: Commencement: Reg. 6 in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
+[^c-25cbea668fa64a5faede13b6648d2253]: Commencement: Reg. 6 in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
 
-[^key-16fb2f8221dadd4e7132e671aa851643]: Textual amendment: Words in reg. 6 substituted (1.1.2013) by [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/2532/regulation/6)
+[^c-16fb2f8221dadd4e7132e671aa851643]: Textual amendment: Words in reg. 6 substituted (1.1.2013) by [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [6](https://www.legislation.gov.uk/uksi/2012/2532/regulation/6)
 
-[^key-a91ae76215b957c15538afb8ed458e0a]: Textual amendment: Reg. 6(c) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [34(4)](https://www.legislation.gov.uk/uksi/2014/2103/article/34/4)
+[^c-a91ae76215b957c15538afb8ed458e0a]: Textual amendment: Reg. 6(c) substituted (1.9.2014) by [The Special Educational Needs (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/2103)](https://www.legislation.gov.uk/uksi/2014/2103), [arts. 1](https://www.legislation.gov.uk/uksi/2014/2103/article/1), [34(4)](https://www.legislation.gov.uk/uksi/2014/2103/article/34/4)
 
-[^key-f9a0c3738657b5cb885f1c58abb56e14]: Textual amendment: Reg. 7 omitted (1.1.2013) by virtue of [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/2532/regulation/7)
+[^c-f9a0c3738657b5cb885f1c58abb56e14]: Textual amendment: Reg. 7 omitted (1.1.2013) by virtue of [The Education (Educational Provision for Improving Behaviour) (Amendment) Regulations 2012 (S.I. 2012/2532)](https://www.legislation.gov.uk/uksi/2012/2532), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2532/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/2532/regulation/7)
 
-[^key-b0abf51a5d69d9a3c25bc4f2a9f711b1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/1156/regulation/8) in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
+[^c-b0abf51a5d69d9a3c25bc4f2a9f711b1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2010/1156/regulation/8) in force at 1.9.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/1156/regulation/1)
 
 [^f00002]: Footnote: See section 7 of the Interpretation Act [1978 (c.30)](https://www.legislation.gov.uk/ukpga/1978/30).

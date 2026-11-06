@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**163.**[^key-c3cb76fda0b4fd4049430e3d5cc830ad] In section 50(10) of the Youth Justice and Criminal Evidence Act 1999 (defences) after “Children Act 1989” insert “or the Social Services and Well-being (Wales) Act 2014”.
+**163.**[^c-c3cb76fda0b4fd4049430e3d5cc830ad] In section 50(10) of the Youth Justice and Criminal Evidence Act 1999 (defences) after “Children Act 1989” insert “or the Social Services and Well-being (Wales) Act 2014”.
 
 ## Annotations
 
-[^key-c3cb76fda0b4fd4049430e3d5cc830ad]: Commencement: Reg. 163 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-c3cb76fda0b4fd4049430e3d5cc830ad]: Commencement: Reg. 163 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

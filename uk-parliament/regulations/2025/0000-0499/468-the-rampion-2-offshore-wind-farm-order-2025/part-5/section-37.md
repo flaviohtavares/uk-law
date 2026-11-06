@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Special Category Land[^key-f5fda01556f990201c54e4db05cd104c]
+## 37. Special Category Land[^c-f5fda01556f990201c54e4db05cd104c]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5fda01556f990201c54e4db05cd104c]: Commencement: Art. 37 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-f5fda01556f990201c54e4db05cd104c]: Commencement: Art. 37 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

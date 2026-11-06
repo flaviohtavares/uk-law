@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Burial authority: code of practice[^key-121efcb10aae3d79ee0613b14a2d4665]
+## 21. Burial authority: code of practice[^c-121efcb10aae3d79ee0613b14a2d4665]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-121efcb10aae3d79ee0613b14a2d4665]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/20/section/21) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)
+[^c-121efcb10aae3d79ee0613b14a2d4665]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2016/20/section/21) in force at 2.6.2023 by [S.S.I. 2023/145](https://www.legislation.gov.uk/ssi/2023/145), [reg. 2](https://www.legislation.gov.uk/ssi/2023/145/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/145/schedule)

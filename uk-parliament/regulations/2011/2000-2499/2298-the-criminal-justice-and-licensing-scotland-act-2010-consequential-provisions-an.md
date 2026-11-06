@@ -46,7 +46,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 In accordance with section 115(1) of, and paragraphs 1, 2 and 3 of Schedule 7 to, that Act, a draft of this Order was laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-b49e2419bdac59e05befe081a43b7d50]
+## 1. Citation and commencement[^c-b49e2419bdac59e05befe081a43b7d50]
 
 (1) This Order may be cited as the Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011.
 
@@ -57,7 +57,7 @@ In accordance with section 115(1) of, and paragraphs 1, 2 and 3 of Schedule 7 
 - (a) 1<sup>st</sup> August 2011, and
 - (b) the day after the day on which this Order is made.
 
-## 2. Extent[^key-7b09e104649e7c1442390e7741835549]
+## 2. Extent[^c-7b09e104649e7c1442390e7741835549]
 
 (1) Except as provided in paragraphs (2) to (6) below this Order extends to Scotland, England and Wales and Northern Ireland.
 
@@ -71,11 +71,11 @@ In accordance with section 115(1) of, and paragraphs 1, 2 and 3 of Schedule 7 
 
 (6) Part 2 and paragraphs 7(b) and 13 of the Schedule extend to England and Wales and Northern Ireland only.
 
-## 3. Modifications of enactments[^key-b66496081fc10fee5b6cc9f1c3cd52b7]
+## 3. Modifications of enactments[^c-b66496081fc10fee5b6cc9f1c3cd52b7]
 
 The Schedule to this Order has effect.
 
-## 4. Savings and transitional provisions[^key-32109eed7a4a01a59138af2bc4bf96d2]
+## 4. Savings and transitional provisions[^c-32109eed7a4a01a59138af2bc4bf96d2]
 
 *Extent: S*
 
@@ -111,7 +111,7 @@ Article 3
 
 *Extent: S*
 
-#### 1. The Criminal Procedure (Scotland) Act 1995[^key-a8801508c7b679603b34cb714052a8f0]
+#### 1. The Criminal Procedure (Scotland) Act 1995[^c-a8801508c7b679603b34cb714052a8f0]
 
 Section 19C (sections 18 and 19 to 19AA: use of samples etc.) of the Criminal Procedure (Scotland) Act 1995[^f00004] is amended as follows—
 
@@ -134,7 +134,7 @@ Section 19C (sections 18 and 19 to 19AA: use of samples etc.) of the Criminal Pr
 
     .
 
-#### 2. The Criminal Justice (Scotland) Act 2003[^key-ea83944671fd7a7a3c80096eabb72e66]
+#### 2. The Criminal Justice (Scotland) Act 2003[^c-ea83944671fd7a7a3c80096eabb72e66]
 
 Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scotland) Act 2003[^f00006] is amended as follows—
 
@@ -159,7 +159,7 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
 *Extent: E+W+N.I.*
 
-#### 3. Sexual Offences Act 2003[^key-e85dd560618a76efe4fdedac0715ad02]
+#### 3. Sexual Offences Act 2003[^c-e85dd560618a76efe4fdedac0715ad02]
 
 (1) Section 122(1B)(b) (breach of foreign travel order) of the Sexual Offences Act 2003[^f00007] shall extend to England and Wales and Northern Ireland.
 
@@ -167,9 +167,9 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
 ### PART 3 — TRANSFER OF COMMUNITY PAYBACK ORDERS
 
-**4.**[^key-dd705bfbc4b839782e3af236d4b4e1b3] The Criminal Procedure (Scotland) Act 1995 is amended as follows.
+**4.**[^c-dd705bfbc4b839782e3af236d4b4e1b3] The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
-**5.**[^key-f5349b7c58fcd9fbea2fcd8cc74faacf] After section 227ZN insert:—
+**5.**[^c-f5349b7c58fcd9fbea2fcd8cc74faacf] After section 227ZN insert:—
 
 > **227ZO. Community payback orders: persons residing in England and Wales or Northern Ireland**
 >
@@ -177,7 +177,7 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
 .
 
-**6.**[^key-91c8cd72455ef498cfc148de34795136] After Schedule 12 insert:—
+**6.**[^c-91c8cd72455ef498cfc148de34795136] After Schedule 12 insert:—
 
 > **SCHEDULE 13 — TRANSFER OF COMMUNITY PAYBACK ORDERS TO ENGLAND AND WALES OR NORTHERN IRELAND**
 >
@@ -522,7 +522,7 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
 .
 
-**7.**[^key-9da4da77a5fb55b24ee1660d330f09f5] The following provisions are repealed:—
+**7.**[^c-9da4da77a5fb55b24ee1660d330f09f5] The following provisions are repealed:—
 
 *Extent: E+W*
 
@@ -532,15 +532,15 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
 - (b) Section 244[^f00019].
 
-**8.**[^key-cfb73da1398f961fdd294701a815f630] In section 309(4), insert at the relevant place “Part 1 of Schedule 13 (and section 227ZO)”.
+**8.**[^c-cfb73da1398f961fdd294701a815f630] In section 309(4), insert at the relevant place “Part 1 of Schedule 13 (and section 227ZO)”.
 
-**9.**[^key-0513a7de5c5d7f6d8250451052805930] In section 309(5), insert at the relevant place “Part 2 of Schedule 13 (and section 227ZO)”.
+**9.**[^c-0513a7de5c5d7f6d8250451052805930] In section 309(5), insert at the relevant place “Part 2 of Schedule 13 (and section 227ZO)”.
 
 ### PART 4 — COMMUNITY PAYBACK ORDER CONSEQUENTIAL MODIFICATIONS
 
 #### PUBLIC GENERAL ACTS
 
-##### 10. Public Passenger Vehicles Act 1981[^key-8cb274e3166f6ac11cc8c85b841b220f]
+##### 10. Public Passenger Vehicles Act 1981[^c-8cb274e3166f6ac11cc8c85b841b220f]
 
 *Extent: E+W+S*
 
@@ -556,7 +556,7 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 - (a) for “health and “a community order”” substitute “health, “a community order””; and
 - (b) after “2006” insert “ and “a community payback order” means a community payback order under section 227A or 227M of the Criminal Procedure (Scotland) Act 1995 imposing an unpaid work or other activity requirement”.
 
-##### 11. Criminal Justice Act 1982[^key-4550fd8d874abdf9d101d89d08348cbe]
+##### 11. Criminal Justice Act 1982[^c-4550fd8d874abdf9d101d89d08348cbe]
 
 (1) Part 3 of Schedule 13 (reciprocal arrangements (Northern Ireland) – persons residing in England and Wales or Scotland) to the Criminal Justice Act 1982[^f00021] is amended as follows.
 
@@ -598,7 +598,7 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
   .
 
-##### 12. Goods Vehicles (Licensing of Operators) Act 1995[^key-6670c93a46bbead28aed32c1b3e42262]
+##### 12. Goods Vehicles (Licensing of Operators) Act 1995[^c-6670c93a46bbead28aed32c1b3e42262]
 
 *Extent: E+W+S*
 
@@ -617,7 +617,7 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
   .
 
-##### 13. Social Security Fraud Act 2001[^key-67050ed552c9d33ab494ca502f5b50cf]
+##### 13. Social Security Fraud Act 2001[^c-67050ed552c9d33ab494ca502f5b50cf]
 
 *Extent: E+W+N.I.*
 
@@ -627,7 +627,7 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
 (3) In section 7(9)(b)(i)[^f00025] (loss of benefit for second or subsequent benefit offence), the words “or a court in Scotland makes a probation order” are repealed.
 
-##### 14. Criminal Justice Act 2003[^key-3d00a7866d74c73c58e4d701fd8b05dc]
+##### 14. Criminal Justice Act 2003[^c-3d00a7866d74c73c58e4d701fd8b05dc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -635,7 +635,7 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
 #### SECONDARY LEGISLATION
 
-##### 15. Juries (Northern Ireland) Order 1996[^key-21195575899ce600eaeae0dc4e3ae33b]
+##### 15. Juries (Northern Ireland) Order 1996[^c-21195575899ce600eaeae0dc4e3ae33b]
 
 *Extent: N.I.*
 
@@ -645,7 +645,7 @@ Section 56 (use of samples etc. voluntarily given) of the Criminal Justice (Scot
 
 (3) In paragraph 3, after “probation”, insert “or had made in respect of him a community payback order under section 227A of the Criminal Procedure (Scotland) Act 1995 which did not include an unpaid work or other activity requirement under section 227A(2)(c)”.
 
-##### 16. Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2009[^key-becc43a2be86c99165936e49ebf299fb]
+##### 16. Community Care, Services for Carers and Children’s Services (Direct Payments) (England) Regulations 2009[^c-becc43a2be86c99165936e49ebf299fb]
 
 *Extent: E+W*
 
@@ -658,7 +658,7 @@ In the Community Care, Services for Carers and Children’s Services (Direct Pay
 
 .
 
-##### 17. National Health Service (Direct Payments) Regulations 2010[^key-59a031707dbd8b3877f145f0dd154dd2]
+##### 17. National Health Service (Direct Payments) Regulations 2010[^c-59a031707dbd8b3877f145f0dd154dd2]
 
 *Extent: E+W*
 
@@ -715,39 +715,39 @@ Parts 4 and 5 of the Schedule make a number of consequential amendments to updat
 
 [^f00001]: Footnote: [1998 c.46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-b49e2419bdac59e05befe081a43b7d50]: Commencement: Art. 1 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-b49e2419bdac59e05befe081a43b7d50]: Commencement: Art. 1 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
-[^key-7b09e104649e7c1442390e7741835549]: Commencement: Art. 2 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-7b09e104649e7c1442390e7741835549]: Commencement: Art. 2 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
-[^key-b66496081fc10fee5b6cc9f1c3cd52b7]: Commencement: Art. 3 in force at 16.9.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/3)
+[^c-b66496081fc10fee5b6cc9f1c3cd52b7]: Commencement: Art. 3 in force at 16.9.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/3)
 
-[^key-32109eed7a4a01a59138af2bc4bf96d2]: Commencement: Art. 4 in force at 16.9.2011, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-32109eed7a4a01a59138af2bc4bf96d2]: Commencement: Art. 4 in force at 16.9.2011, see [art. 1(2)(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00002]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46) (“the 1995 Act”).
 
 [^f00003]: Footnote: [S.I. 1996/1141 (N.I. 6)](https://www.legislation.gov.uk/nisi/1996/1141).
 
-[^key-a8801508c7b679603b34cb714052a8f0]: Commencement: Sch. para. 1 in force at 16.9.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/3)
+[^c-a8801508c7b679603b34cb714052a8f0]: Commencement: Sch. para. 1 in force at 16.9.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/3)
 
 [^f00004]: Footnote: Section 19C was inserted by section 82(1) of the Criminal Justice and Licensing (Scotland) Act 2010 (“the 2010 Act”).
 
 [^f00005]: Footnote: [2000 c.11](https://www.legislation.gov.uk/ukpga/2000/11).
 
-[^key-ea83944671fd7a7a3c80096eabb72e66]: Commencement: Sch. para. 2 in force at 16.9.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/3)
+[^c-ea83944671fd7a7a3c80096eabb72e66]: Commencement: Sch. para. 2 in force at 16.9.2011, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/3)
 
 [^f00006]: Footnote: [2003 asp 7](https://www.legislation.gov.uk/asp/2003/7), section 56 was amended by section 82(2) of the 2010 Act.
 
-[^key-e85dd560618a76efe4fdedac0715ad02]: Commencement: Sch. para. 3 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-e85dd560618a76efe4fdedac0715ad02]: Commencement: Sch. para. 3 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00007]: Footnote: [2003 c.42](https://www.legislation.gov.uk/ukpga/2003/42). Section 122(1B) was inserted by section 101(6) of the 2010 Act, but only so far as it extends to Scotland.
 
 [^f00008]: Footnote: Paragraph 44A was inserted by section 42(3) of the 2010 Act, but only so far as it extends to Scotland.
 
-[^key-dd705bfbc4b839782e3af236d4b4e1b3]: Commencement: Sch. para. 4 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-dd705bfbc4b839782e3af236d4b4e1b3]: Commencement: Sch. para. 4 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
-[^key-f5349b7c58fcd9fbea2fcd8cc74faacf]: Commencement: Sch. para. 5 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-f5349b7c58fcd9fbea2fcd8cc74faacf]: Commencement: Sch. para. 5 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
-[^key-91c8cd72455ef498cfc148de34795136]: Commencement: Sch. para. 6 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-91c8cd72455ef498cfc148de34795136]: Commencement: Sch. para. 6 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00009]: Footnote: [2003 asp 13](https://www.legislation.gov.uk/asp/2003/13).
 
@@ -767,29 +767,29 @@ Parts 4 and 5 of the Schedule make a number of consequential amendments to updat
 
 [^f00017]: Footnote: [S.I. 1996/3160 (N.I. 24)](https://www.legislation.gov.uk/nisi/1996/3160).
 
-[^key-9da4da77a5fb55b24ee1660d330f09f5]: Commencement: Sch. para. 7 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-9da4da77a5fb55b24ee1660d330f09f5]: Commencement: Sch. para. 7 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00018]: Footnote: Section 234 of the 1995 Act was repealed by paragraph 17 of schedule 2 to the 2010 Act, but only so far as it extends to Scotland.
 
 [^f00019]: Footnote: Section 244 of the 1995 Act was repealed by paragraph 20 of schedule 2 to the 2010 Act, but only so far as it extends to Scotland.
 
-[^key-cfb73da1398f961fdd294701a815f630]: Commencement: Sch. para. 8 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-cfb73da1398f961fdd294701a815f630]: Commencement: Sch. para. 8 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
-[^key-0513a7de5c5d7f6d8250451052805930]: Commencement: Sch. para. 9 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-0513a7de5c5d7f6d8250451052805930]: Commencement: Sch. para. 9 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
-[^key-8cb274e3166f6ac11cc8c85b841b220f]: Commencement: Sch. para. 10 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-8cb274e3166f6ac11cc8c85b841b220f]: Commencement: Sch. para. 10 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00020]: Footnote: [1981 c.14](https://www.legislation.gov.uk/ukpga/1981/14).
 
-[^key-4550fd8d874abdf9d101d89d08348cbe]: Commencement: Sch. para. 11 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-4550fd8d874abdf9d101d89d08348cbe]: Commencement: Sch. para. 11 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00021]: Footnote: [1982 c.48](https://www.legislation.gov.uk/ukpga/1982/48), relevant amendments were made by [S.I. 1996/3160 (N.I.24)](https://www.legislation.gov.uk/nisi/1996/3160) Schedule 5 paragraph 12(b).
 
-[^key-6670c93a46bbead28aed32c1b3e42262]: Commencement: Sch. para. 12 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-6670c93a46bbead28aed32c1b3e42262]: Commencement: Sch. para. 12 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00022]: Footnote: [1995 c.23](https://www.legislation.gov.uk/ukpga/1995/23).
 
-[^key-67050ed552c9d33ab494ca502f5b50cf]: Commencement: Sch. para. 13 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-67050ed552c9d33ab494ca502f5b50cf]: Commencement: Sch. para. 13 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00023]: Footnote: [2001. c.11](https://www.legislation.gov.uk/ukpga/2001/11).
 
@@ -797,21 +797,21 @@ Parts 4 and 5 of the Schedule make a number of consequential amendments to updat
 
 [^f00025]: Footnote: Section 7(9)(b) was substituted by paragraph 2(3)(b) of Schedule 4 to, the Welfare Reform Act 2009. Section 7(9)(b)(i) of the Social Security Fraud Act 2001 was repealed in so far as it extends to Scotland by paragraph 45(1) and (3) of schedule 2 to the 2010 Act.
 
-[^key-3d00a7866d74c73c58e4d701fd8b05dc]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/14) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3d00a7866d74c73c58e4d701fd8b05dc]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/14) revoked (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-21195575899ce600eaeae0dc4e3ae33b]: Commencement: Sch. para. 15 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-21195575899ce600eaeae0dc4e3ae33b]: Commencement: Sch. para. 15 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00027]: Footnote: [S.I. 1996/1141 (N.I. 6)](https://www.legislation.gov.uk/nisi/1996/1141).
 
 [^f00028]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-becc43a2be86c99165936e49ebf299fb]: Commencement: Sch. para. 16 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-becc43a2be86c99165936e49ebf299fb]: Commencement: Sch. para. 16 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00029]: Footnote: [S.I. 2009/1887](https://www.legislation.gov.uk/uksi/2009/1887).
 
 [^f00030]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 228 was amended by paragraph 21 of Schedule 1 to the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48), by paragraph 1 of Schedule 6 to the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), by paragraph 122 of Schedule 7 to the Criminal Justice and Court Services Act [2000 (c.43)](https://www.legislation.gov.uk/ukpga/2000/43), by sections 42(11) and 89 of the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7) and by [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [2001/919](https://www.legislation.gov.uk/uksi/2001/919), [2001/1149](https://www.legislation.gov.uk/uksi/2001/1149), [2003/288](https://www.legislation.gov.uk/uksi/2003/288) and [2008/912](https://www.legislation.gov.uk/uksi/2008/912). Section 229 was amended by section 49(4) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6). Section 229A was inserted by sections 12(2) and 24 of the Management of Offenders etc (Scotland) Act [2005 (asp 14)](https://www.legislation.gov.uk/asp/2005/14) and amended by [S.S.I. 2006/48](https://www.legislation.gov.uk/ssi/2006/48). Section 230 was amended by Schedule 6 to the Adults with Incapacity (Scotland) Act [2000 (asp 4)](https://www.legislation.gov.uk/asp/2000/4), by sections 135, 331 and 333 and paragraph 8 of Schedule 4 and Part 1 of Schedule 5 to the Mental Health (Care and Treatment) Scotland Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13) and by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161) and [S.I. 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182). Section 234B was inserted by section 89 of the Crime and Disorder Act 1998 and amended by [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327). Section 227A was inserted into the Criminal Procedure (Scotland) Act 1995 by section 14 of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13). Section 227A(2)(g) and (h) provide for the imposition of requirements relating to drug and alcohol treatment respectively.
 
-[^key-59a031707dbd8b3877f145f0dd154dd2]: Commencement: Sch. para. 17 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
+[^c-59a031707dbd8b3877f145f0dd154dd2]: Commencement: Sch. para. 17 in force at 16.9.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2298/article/1/2)
 
 [^f00031]: Footnote: [S. I. 2010/1000](https://www.legislation.gov.uk/uksi/2010/1000).
 

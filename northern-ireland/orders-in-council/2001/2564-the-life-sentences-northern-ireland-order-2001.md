@@ -112,7 +112,7 @@ Schedule 2 (which makes provision about the procedure to be followed in relation
 
 (1) Where a court passes a life sentence, the court shall, unless it makes an order under paragraph (3), order that the release provisions shall apply to the offender in relation to whom the sentence has been passed as soon as he has served the part of his sentence which is specified in the order.
 
-(2) The part of a sentence specified in an order under paragraph (1) shall (subject to Article 5A (serious terrorism cases))[^key-12676172be69a3212d5cd23b3df2d10e] be such part as the court considers appropriate to satisfy the requirements of retribution and deterrence having regard to the seriousness of the offence, or of the combination of the offence and one or more offences associated with it.
+(2) The part of a sentence specified in an order under paragraph (1) shall (subject to Article 5A (serious terrorism cases))[^c-12676172be69a3212d5cd23b3df2d10e] be such part as the court considers appropriate to satisfy the requirements of retribution and deterrence having regard to the seriousness of the offence, or of the combination of the offence and one or more offences associated with it.
 
 (3) If the court is of the opinion that, because of the seriousness of the offence or of the combination of the offence and one or more offences associated with it, no order should be made under paragraph (1), the court shall order that, subject to paragraphs (4) and (5), the release provisions shall not apply to the offender.
 
@@ -129,7 +129,7 @@ Schedule 2 (which makes provision about the procedure to be followed in relation
 
 (8) This Article has effect in relation to life sentences passed after the appointed day.
 
-#### 5A. Minimum tariff in serious terrorism cases[^key-6b61da398581a5169c857903d3821829]
+#### 5A. Minimum tariff in serious terrorism cases[^c-6b61da398581a5169c857903d3821829]
 
 (1) If the court makes an order under Article 5(1) in a serious terrorism case, the part of the sentence specified in the order must be at least 14 years.
 
@@ -488,7 +488,7 @@ The rules may prevent a person who is serving a sentence of imprisonment or dete
 
 [^c17054671]: Textual amendment: prosp. addition by SI 2002/3135
 
-[^key-12676172be69a3212d5cd23b3df2d10e]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/nisi/2001/2564/article/5/2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/13/2), [50(2)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/g)
+[^c-12676172be69a3212d5cd23b3df2d10e]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/nisi/2001/2564/article/5/2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2021/11/section/13/2), [50(2)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/g)
 
 [^c22056521]: Textual amendment: Words in [art. 5(4)(5)](https://www.legislation.gov.uk/nisi/2001/2564/article/5/4/5) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 3(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/3/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
@@ -498,7 +498,7 @@ The rules may prevent a person who is serving a sentence of imprisonment or dete
 
 [^c22056611]: Textual amendment: Words in [art. 5(6)](https://www.legislation.gov.uk/nisi/2001/2564/article/5/6) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 3(b)(iii)](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/3/b/iii) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-6b61da398581a5169c857903d3821829]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/nisi/2001/2564/article/5A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/13/3), [50(2)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/g)
+[^c-6b61da398581a5169c857903d3821829]: Textual amendment: [Art. 5A](https://www.legislation.gov.uk/nisi/2001/2564/article/5A) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 13(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/13/3), [50(2)(g)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/g)
 
 [^c22056651]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/nisi/2001/2564/article/6) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/4) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 

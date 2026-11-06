@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Right to apply to be added as a party to proceedings[^key-3671100eb9086ab7f5324822211e584e]
+## 106. Right to apply to be added as a party to proceedings[^c-3671100eb9086ab7f5324822211e584e]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3671100eb9086ab7f5324822211e584e]: Commencement: [S. 106](https://www.legislation.gov.uk/mwa/2011/1/section/106) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-3671100eb9086ab7f5324822211e584e]: Commencement: [S. 106](https://www.legislation.gov.uk/mwa/2011/1/section/106) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

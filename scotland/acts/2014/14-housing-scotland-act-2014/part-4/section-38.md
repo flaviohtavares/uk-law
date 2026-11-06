@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Duration of registration[^key-3313b06f48dc715620d7e28e521913a7]
+## 38. Duration of registration[^c-3313b06f48dc715620d7e28e521913a7]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3313b06f48dc715620d7e28e521913a7]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/14/section/38) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-3313b06f48dc715620d7e28e521913a7]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2014/14/section/38) in force at 31.1.2018 by [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

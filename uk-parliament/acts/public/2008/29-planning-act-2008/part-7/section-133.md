@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Rights in connection with underground gas storage facilities[^key-559381444c2975a1d612f2653232f073]
+## 133. Rights in connection with underground gas storage facilities[^c-559381444c2975a1d612f2653232f073]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-559381444c2975a1d612f2653232f073]: Commencement: S. 133 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/101/article/4/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-559381444c2975a1d612f2653232f073]: Commencement: S. 133 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(d)](https://www.legislation.gov.uk/uksi/2010/101/article/4/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

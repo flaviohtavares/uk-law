@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1A — Lapse of Interim Protection[^key-a999f435adc35f4f9ff5ce7939300493]
+## SCHEDULE 1A — Lapse of Interim Protection[^c-a999f435adc35f4f9ff5ce7939300493]
 
 *Extent: E+W*
 
@@ -24,24 +24,24 @@ summary: ''
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-a999f435adc35f4f9ff5ce7939300493] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a999f435adc35f4f9ff5ce7939300493]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/1990/9/schedule/1A) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 157](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/157) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-a999f435adc35f4f9ff5ce7939300493]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/ukpga/1990/9/schedule/1A) omitted (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 157](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/157) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)

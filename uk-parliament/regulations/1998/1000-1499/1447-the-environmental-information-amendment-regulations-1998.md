@@ -28,7 +28,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-[^key-1281ceab80bd060535418e0c71682be4]The Environmental Information (Amendment) Regulations 1998
+[^c-1281ceab80bd060535418e0c71682be4]The Environmental Information (Amendment) Regulations 1998
 
 Made
 
@@ -42,15 +42,15 @@ Coming into force
 
 10th July 1998
 
-[^key-1281ceab80bd060535418e0c71682be4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1281ceab80bd060535418e0c71682be4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-1281ceab80bd060535418e0c71682be4]
+## 1. Citation, commencement and extent[^c-1281ceab80bd060535418e0c71682be4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Environmental Information Regulations 1992[^key-1281ceab80bd060535418e0c71682be4]
+## 2. Amendment of the Environmental Information Regulations 1992[^c-1281ceab80bd060535418e0c71682be4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -62,4 +62,4 @@ Coming into force
 
 ## Annotations
 
-[^key-1281ceab80bd060535418e0c71682be4]: Textual amendment: Regulations revoked (except S.) (1.1.2005) by [The Environmental Information Regulations 2004 (S.I. 2004/3391)](https://www.legislation.gov.uk/uksi/2004/3391), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3391/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2004/3391/regulation/21/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3391/regulation/3)); and revoked (S.) (1.1.2005) by [The Environmental Information (Scotland) Regulations 2004 (S.S.I. 2004/520)](https://www.legislation.gov.uk/ssi/2004/520), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/520/regulation/1/1), [21](https://www.legislation.gov.uk/ssi/2004/520/regulation/21) (with [reg. 3](https://www.legislation.gov.uk/ssi/2004/520/regulation/3))
+[^c-1281ceab80bd060535418e0c71682be4]: Textual amendment: Regulations revoked (except S.) (1.1.2005) by [The Environmental Information Regulations 2004 (S.I. 2004/3391)](https://www.legislation.gov.uk/uksi/2004/3391), [regs. 1](https://www.legislation.gov.uk/uksi/2004/3391/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2004/3391/regulation/21/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2004/3391/regulation/3)); and revoked (S.) (1.1.2005) by [The Environmental Information (Scotland) Regulations 2004 (S.S.I. 2004/520)](https://www.legislation.gov.uk/ssi/2004/520), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/520/regulation/1/1), [21](https://www.legislation.gov.uk/ssi/2004/520/regulation/21) (with [reg. 3](https://www.legislation.gov.uk/ssi/2004/520/regulation/3))

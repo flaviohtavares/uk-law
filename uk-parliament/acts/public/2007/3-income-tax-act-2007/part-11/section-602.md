@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 602. Deemed manufactured payments: repos[^key-b630fd202fbbb3c06c6d271cd72d583f]
+## 602. Deemed manufactured payments: repos[^c-b630fd202fbbb3c06c6d271cd72d583f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b630fd202fbbb3c06c6d271cd72d583f]: Textual amendment: Ss. 597-605 omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/15/2/b)
+[^c-b630fd202fbbb3c06c6d271cd72d583f]: Textual amendment: Ss. 597-605 omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 15(2)(b)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/15/2/b)

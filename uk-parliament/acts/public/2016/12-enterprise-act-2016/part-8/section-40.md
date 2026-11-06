@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Reports on avoidance[^key-7f814a0cbbf4af25840ea7e819fc17e6]
+## 40. Reports on avoidance[^c-7f814a0cbbf4af25840ea7e819fc17e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ In Part 4 of the Small Business, Enterprise and Employment Act 2015 (the Pubs Co
 
 ## Annotations
 
-[^key-7f814a0cbbf4af25840ea7e819fc17e6]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/12/section/40) in force at 21.7.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 4(b)](https://www.legislation.gov.uk/uksi/2016/695/article/4/b)
+[^c-7f814a0cbbf4af25840ea7e819fc17e6]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/12/section/40) in force at 21.7.2016 by [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 4(b)](https://www.legislation.gov.uk/uksi/2016/695/article/4/b)

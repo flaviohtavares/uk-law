@@ -45,7 +45,7 @@ In accordance with section 37(3) of the 2013 Act, more than 6 weeks have elapsed
 
 The Welsh Ministers make the following Order in exercise of their powers conferred by section 37(1) of the 2013 Act.
 
-## 1. Title and commencement[^key-070b737a268d59a2fea33e57040698e7][^key-5065602aa0ca52dad756660220931d8d]
+## 1. Title and commencement[^c-070b737a268d59a2fea33e57040698e7][^c-5065602aa0ca52dad756660220931d8d]
 
 (1) The title of this Order is the County of Powys (Electoral Arrangements) Order 2021.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Order in exercise of their powers conferr
 
 (3) For all other purposes, this Order comes into force on the ordinary day of election of councillors in 2022[^f00003].
 
-## 2. Interpretation[^key-b43eee79326a882d5f8e500a838b60fa][^key-0b512f34415e22ea64062e7e3b2275e1]
+## 2. Interpretation[^c-b43eee79326a882d5f8e500a838b60fa][^c-0b512f34415e22ea64062e7e3b2275e1]
 
 In this Order—
 
@@ -61,9 +61,9 @@ In this Order—
 - “the Regulations” (“*y Rheoliadau*”) means the Local Government Area Changes Regulations 1976[^f00004];
 - any reference to a map means one of the 2 maps marked “Map of the County of Powys (Electoral Arrangements) Order 2021” deposited in accordance with regulation 5 of the Regulations, labelled “1” and “2”, and a reference to a numbered map is a reference to the map that bears that number;
 - where a boundary is shown on a map as running along a road, railway line, footway, watercourse or similar geographical feature, it is to be treated as running along the centre line of the feature;
-- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^key-433101e24259c87c31647907b3e800ba], except so far as a contrary intention appears.
+- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^c-433101e24259c87c31647907b3e800ba], except so far as a contrary intention appears.
 
-## 3. Electoral arrangements for the County of Powys[^key-55436a67bf4303a23f8191af5334d4ce][^key-616b2869b264573fea30784419fde4c2]
+## 3. Electoral arrangements for the County of Powys[^c-55436a67bf4303a23f8191af5334d4ce][^c-616b2869b264573fea30784419fde4c2]
 
 (1) The electoral wards of the County of Powys, as they exist immediately before the ordinary day of election of councillors in 2022, are abolished.
 
@@ -75,7 +75,7 @@ In this Order—
 
 (5) The provisions in this Order take precedence over any conflicting provision in any previous statutory instrument made under section 58(2) of the Local Government Act 1972[^f00005].
 
-## 4. The community of Welshpool: changes to community wards[^key-f88d60f6035077c28aa1e2ec138eab45][^key-d36d12ff7a3b9cf237718c9e4de88d16]
+## 4. The community of Welshpool: changes to community wards[^c-f88d60f6035077c28aa1e2ec138eab45][^c-d36d12ff7a3b9cf237718c9e4de88d16]
 
 In the community of Welshpool—
 
@@ -83,7 +83,7 @@ In the community of Welshpool—
 - (b) the part of the Gungrog ward shown cross-hatched on Map 1 is transferred to the Castle ward;
 - (c) the part of the Gungrog ward shown hatched on Map 2 is transferred to the Llanerchyddol ward.
 
-## 5. The community of Welshpool: consequential changes to electoral arrangements[^key-deefeee0d0a71d8a27322e0a7e5f7792][^key-68a1584b756691dfee05e8341fc7c8b3]
+## 5. The community of Welshpool: consequential changes to electoral arrangements[^c-deefeee0d0a71d8a27322e0a7e5f7792][^c-68a1584b756691dfee05e8341fc7c8b3]
 
 In the community of Welshpool—
 
@@ -95,7 +95,7 @@ Rebecca Evans
 
 Minister for Finance and Local Government, one of the Welsh Ministers
 
-## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^key-04915561541b290f2927cda4a81a15b1][^key-dd5475355b761ef867bf3808e5a5846d]
+## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^c-04915561541b290f2927cda4a81a15b1][^c-dd5475355b761ef867bf3808e5a5846d]
 
 Article 3
 
@@ -170,7 +170,7 @@ Table
 </tbody>
 </table>
 
-[^key-349c5cf51e1a55f59d6f62574bb6195d][^key-0483865bbd6b217bc5d3077453bcd82e][^key-1566e67252c500055f9cddbd7cdc2e9d]
+[^c-349c5cf51e1a55f59d6f62574bb6195d][^c-0483865bbd6b217bc5d3077453bcd82e][^c-1566e67252c500055f9cddbd7cdc2e9d]
 
 EXPLANATORY NOTE
 
@@ -194,40 +194,40 @@ Prints of the maps labelled “1” and “2” to which this Order relates are 
 
 [^f00002]: Footnote: [2013 anaw 4](https://www.legislation.gov.uk/anaw/2013/4).
 
-[^key-070b737a268d59a2fea33e57040698e7]: Commencement: Art. 1 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
+[^c-070b737a268d59a2fea33e57040698e7]: Commencement: Art. 1 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
 
-[^key-5065602aa0ca52dad756660220931d8d]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1081/article/1) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
+[^c-5065602aa0ca52dad756660220931d8d]: Commencement: [Art. 1](https://www.legislation.gov.uk/wsi/2021/1081/article/1) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
 
 [^f00003]: Footnote: The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 ([S.I. 2019/1269 (W. 220)](https://www.legislation.gov.uk/wsi/2019/1269)) amends section 26(1) of the 1972 Act to provide that the year in which the ordinary elections of councillors of local authorities shall take place is 2022 instead of 2021.
 
-[^key-b43eee79326a882d5f8e500a838b60fa]: Commencement: Art. 2 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
+[^c-b43eee79326a882d5f8e500a838b60fa]: Commencement: Art. 2 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
 
-[^key-0b512f34415e22ea64062e7e3b2275e1]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1081/article/2) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
+[^c-0b512f34415e22ea64062e7e3b2275e1]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2021/1081/article/2) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
 
 [^f00004]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246). Section 74(3) of the 2013 Act provides that the Regulations continue to have effect in relation to orders made under Part 3 of the 2013 Act, as if those orders were made under Part 4 of the 1972 Act.
 
-[^key-433101e24259c87c31647907b3e800ba]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1081/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/11)
+[^c-433101e24259c87c31647907b3e800ba]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/wsi/2021/1081/article/2) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 11](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/11)
 
-[^key-55436a67bf4303a23f8191af5334d4ce]: Commencement: Art. 3 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
+[^c-55436a67bf4303a23f8191af5334d4ce]: Commencement: Art. 3 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
 
-[^key-616b2869b264573fea30784419fde4c2]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1081/article/3) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
+[^c-616b2869b264573fea30784419fde4c2]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2021/1081/article/3) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
 
 [^f00005]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 58 of the 1972 Act was repealed by section 73(2) of, and Schedule 2 to, the 2013 Act, subject to savings provisions specified in section 74 of the 2013 Act.
 
-[^key-f88d60f6035077c28aa1e2ec138eab45]: Commencement: Art. 4 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
+[^c-f88d60f6035077c28aa1e2ec138eab45]: Commencement: Art. 4 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
 
-[^key-d36d12ff7a3b9cf237718c9e4de88d16]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1081/article/4) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
+[^c-d36d12ff7a3b9cf237718c9e4de88d16]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2021/1081/article/4) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
 
-[^key-deefeee0d0a71d8a27322e0a7e5f7792]: Commencement: Art. 5 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
+[^c-deefeee0d0a71d8a27322e0a7e5f7792]: Commencement: Art. 5 in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
 
-[^key-68a1584b756691dfee05e8341fc7c8b3]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2021/1081/article/5) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
+[^c-68a1584b756691dfee05e8341fc7c8b3]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2021/1081/article/5) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
 
-[^key-04915561541b290f2927cda4a81a15b1]: Commencement: Sch. in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
+[^c-04915561541b290f2927cda4a81a15b1]: Commencement: Sch. in force at 1.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/2)
 
-[^key-dd5475355b761ef867bf3808e5a5846d]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1081/schedule) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
+[^c-dd5475355b761ef867bf3808e5a5846d]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2021/1081/schedule) in force at 5.5.2022 for all other purposes, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1081/article/1/3)
 
-[^key-349c5cf51e1a55f59d6f62574bb6195d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1081/schedule) substituted (10.12.2021) by [The County of Powys (Electoral Arrangements) (Amendment) Order 2021 (S.I. 2021/1387)](https://www.legislation.gov.uk/wsi/2021/1387), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1387/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/1387/article/2/2)
+[^c-349c5cf51e1a55f59d6f62574bb6195d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1081/schedule) substituted (10.12.2021) by [The County of Powys (Electoral Arrangements) (Amendment) Order 2021 (S.I. 2021/1387)](https://www.legislation.gov.uk/wsi/2021/1387), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1387/article/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2021/1387/article/2/2)
 
-[^key-0483865bbd6b217bc5d3077453bcd82e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1081/schedule) substituted (10.12.2021) by [The County of Powys (Electoral Arrangements) (Amendment) Order 2021 (S.I. 2021/1387)](https://www.legislation.gov.uk/wsi/2021/1387), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1387/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/1387/article/2/3)
+[^c-0483865bbd6b217bc5d3077453bcd82e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1081/schedule) substituted (10.12.2021) by [The County of Powys (Electoral Arrangements) (Amendment) Order 2021 (S.I. 2021/1387)](https://www.legislation.gov.uk/wsi/2021/1387), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1387/article/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2021/1387/article/2/3)
 
-[^key-1566e67252c500055f9cddbd7cdc2e9d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1081/schedule) substituted (10.12.2021) by [The County of Powys (Electoral Arrangements) (Amendment) Order 2021 (S.I. 2021/1387)](https://www.legislation.gov.uk/wsi/2021/1387), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1387/article/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2021/1387/article/2/4)
+[^c-1566e67252c500055f9cddbd7cdc2e9d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1081/schedule) substituted (10.12.2021) by [The County of Powys (Electoral Arrangements) (Amendment) Order 2021 (S.I. 2021/1387)](https://www.legislation.gov.uk/wsi/2021/1387), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2021/1387/article/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2021/1387/article/2/4)

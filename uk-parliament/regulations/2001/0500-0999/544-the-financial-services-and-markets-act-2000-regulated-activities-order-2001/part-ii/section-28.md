@@ -24,11 +24,11 @@ summary: ''
 
 (2) There are excluded from article 25(2) any arrangements which a person makes with a view to transactions into which he enters or is to enter as principal or as agent for some other person.
 
-(3)[^key-36f2836caf794aa77863404d43a18bdf] But the exclusions in paragraphs (1) and (2) do not apply to arrangements made for or with a view to a transaction which relates to a contract of insurance, unless the person making the arrangements either—
+(3)[^c-36f2836caf794aa77863404d43a18bdf] But the exclusions in paragraphs (1) and (2) do not apply to arrangements made for or with a view to a transaction which relates to a contract of insurance, unless the person making the arrangements either—
 
 - (a) is the only policyholder; or
 - (b) as a result of the transaction, would become the only policyholder.
 
 ## Annotations
 
-[^key-36f2836caf794aa77863404d43a18bdf]: Textual amendment: Art. 28(3) inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2003/1476/article/5/2)
+[^c-36f2836caf794aa77863404d43a18bdf]: Textual amendment: Art. 28(3) inserted (31.10.2004 for specified purposes, 14.1.2005 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No. 2) Order 2003 (S.I. 2003/1476)](https://www.legislation.gov.uk/uksi/2003/1476), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/1476/article/1/3), [5(2)](https://www.legislation.gov.uk/uksi/2003/1476/article/5/2)

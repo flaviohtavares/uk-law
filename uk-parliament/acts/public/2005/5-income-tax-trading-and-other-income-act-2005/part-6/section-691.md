@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 691. National Savings Bank ordinary account interest[^key-c59f07ec96d7f1c707afe44fa900808d]
+## 691. National Savings Bank ordinary account interest[^c-c59f07ec96d7f1c707afe44fa900808d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c59f07ec96d7f1c707afe44fa900808d]: Textual amendment: [S. 691](https://www.legislation.gov.uk/ukpga/2005/5/section/691) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/4)
+[^c-c59f07ec96d7f1c707afe44fa900808d]: Textual amendment: [S. 691](https://www.legislation.gov.uk/ukpga/2005/5/section/691) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/4)

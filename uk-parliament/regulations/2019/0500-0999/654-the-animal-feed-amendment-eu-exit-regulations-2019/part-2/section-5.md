@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5.[^key-cb2fae6824dbb641f414bf17c49fd3c4]
+## 5.[^c-cb2fae6824dbb641f414bf17c49fd3c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 10(2)(d), for “Commission”, substitute “ Food Safety Authori
 
 ## Annotations
 
-[^key-cb2fae6824dbb641f414bf17c49fd3c4]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-cb2fae6824dbb641f414bf17c49fd3c4]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

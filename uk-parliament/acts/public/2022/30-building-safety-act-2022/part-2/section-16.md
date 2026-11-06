@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Guidance about the provision of assistance[^key-4683774778a89d5c6b4c9d81cdaf73b7][^key-02700e97f85b49417883fe6e350b595f]
+## 16. Guidance about the provision of assistance[^c-4683774778a89d5c6b4c9d81cdaf73b7][^c-02700e97f85b49417883fe6e350b595f]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4683774778a89d5c6b4c9d81cdaf73b7]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-4683774778a89d5c6b4c9d81cdaf73b7]: Commencement: S. 16 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-02700e97f85b49417883fe6e350b595f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/30/section/16) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(e)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/e)
+[^c-02700e97f85b49417883fe6e350b595f]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/30/section/16) in force at 6.4.2023 in so far as not already in force by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(e)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/e)

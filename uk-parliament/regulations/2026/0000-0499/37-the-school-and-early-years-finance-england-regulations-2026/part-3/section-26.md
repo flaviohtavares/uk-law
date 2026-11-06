@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Additional criteria: schools[^key-63a151c59d4d4347047f2f2aedc559fd]
+## 26. Additional criteria: schools[^c-63a151c59d4d4347047f2f2aedc559fd]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ which may be determined on the basis of actual or estimated cost.
 
 ## Annotations
 
-[^key-63a151c59d4d4347047f2f2aedc559fd]: Commencement: Reg. 26 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)
+[^c-63a151c59d4d4347047f2f2aedc559fd]: Commencement: Reg. 26 in force at 11.2.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/37/regulation/1/2)

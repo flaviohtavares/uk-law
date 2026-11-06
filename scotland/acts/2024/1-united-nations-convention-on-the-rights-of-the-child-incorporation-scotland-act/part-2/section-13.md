@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Guidance on this Part[^key-7013ea9047ab16cd0e35ed89c0c79e57]
+## 13. Guidance on this Part[^c-7013ea9047ab16cd0e35ed89c0c79e57]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7013ea9047ab16cd0e35ed89c0c79e57]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/1/section/13) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)
+[^c-7013ea9047ab16cd0e35ed89c0c79e57]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2024/1/section/13) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)

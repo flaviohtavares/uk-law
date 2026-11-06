@@ -32,7 +32,7 @@ summary: ''
 
 ROAD TRAFFIC
 
-The Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Surrey Heath) Order 2006 (revoked)[^key-b9ae3ade988a86c799fee53b3a33f491]
+The Road Traffic (Permitted Parking Area and Special Parking Area) (County of Surrey) (Borough of Surrey Heath) Order 2006 (revoked)[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 Made
 
@@ -46,86 +46,86 @@ Coming into force
 
 20 April 2006
 
-[^key-b9ae3ade988a86c799fee53b3a33f491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9ae3ade988a86c799fee53b3a33f491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b9ae3ade988a86c799fee53b3a33f491]
+## 1. Citation and commencement[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-b9ae3ade988a86c799fee53b3a33f491]
+## 2. Interpretation[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-b9ae3ade988a86c799fee53b3a33f491]
+## 3. Application[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Designation of permitted parking area and special parking area[^key-b9ae3ade988a86c799fee53b3a33f491]
+## 4. Designation of permitted parking area and special parking area[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Modification and application of Part II of the 1991 Act[^key-b9ae3ade988a86c799fee53b3a33f491]
+## 5. Modification and application of Part II of the 1991 Act[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Modification of other provisions[^key-b9ae3ade988a86c799fee53b3a33f491]
+## 6. Modification of other provisions[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b9ae3ade988a86c799fee53b3a33f491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9ae3ade988a86c799fee53b3a33f491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1[^key-b9ae3ade988a86c799fee53b3a33f491]
+## SCHEDULE 1[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 Article 3
 
-**1.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — MODIFICATIONS OF PROVISIONS OF PART II OF THE ROAD TRAFFIC ACT 1991 APPLIED IN RELATION TO THE PARKING AREA[^key-b9ae3ade988a86c799fee53b3a33f491]
+## SCHEDULE 2 — MODIFICATIONS OF PROVISIONS OF PART II OF THE ROAD TRAFFIC ACT 1991 APPLIED IN RELATION TO THE PARKING AREA[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 Article 5
 
-**1.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — MODIFICATION OF THE ROAD TRAFFIC REGULATION ACT 1984[^key-b9ae3ade988a86c799fee53b3a33f491]
+## SCHEDULE 3 — MODIFICATION OF THE ROAD TRAFFIC REGULATION ACT 1984[^c-b9ae3ade988a86c799fee53b3a33f491]
 
 Article 6
 
-**1.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b9ae3ade988a86c799fee53b3a33f491] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b9ae3ade988a86c799fee53b3a33f491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b9ae3ade988a86c799fee53b3a33f491]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b9ae3ade988a86c799fee53b3a33f491]: Textual amendment: Order revoked (29.9.2020) by [The Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2020 (S.I. 2020/946)](https://www.legislation.gov.uk/uksi/2020/946), [arts. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1), [4(j)](https://www.legislation.gov.uk/uksi/2020/946/article/4/j)
+[^c-b9ae3ade988a86c799fee53b3a33f491]: Textual amendment: Order revoked (29.9.2020) by [The Civil Enforcement of Parking Contraventions Designation (No. 2) Order 2020 (S.I. 2020/946)](https://www.legislation.gov.uk/uksi/2020/946), [arts. 1](https://www.legislation.gov.uk/uksi/2020/946/article/1), [4(j)](https://www.legislation.gov.uk/uksi/2020/946/article/4/j)

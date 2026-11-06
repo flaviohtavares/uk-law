@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30A. Enforcement authority costs[^key-95349001277e12466062d1567d77b130]
+## 30A. Enforcement authority costs[^c-95349001277e12466062d1567d77b130]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ SEPA must request payment from the scheme administrator to recover the reasonabl
 
 ## Annotations
 
-[^key-95349001277e12466062d1567d77b130]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/ssi/2020/154/regulation/30A) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [27](https://www.legislation.gov.uk/ssi/2025/188/regulation/27)
+[^c-95349001277e12466062d1567d77b130]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/ssi/2020/154/regulation/30A) inserted (20.6.2025) by [The Deposit and Return Scheme for Scotland Amendment Regulations 2025 (S.S.I. 2025/188)](https://www.legislation.gov.uk/ssi/2025/188), [regs. 1](https://www.legislation.gov.uk/ssi/2025/188/regulation/1), [27](https://www.legislation.gov.uk/ssi/2025/188/regulation/27)

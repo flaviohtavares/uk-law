@@ -52,7 +52,7 @@ In accordance with paragraph 4(3) of schedule 9 of that Act, the Scottish Minist
 
 ## 2. Application of the Rules set out in the schedule
 
-The Rules in the schedule apply to any proceedings before the First-tier Tribunal for Scotland Social Security Chamber when exercising functions conferred on the Tribunal by —[^key-4843c1882dd05cea8c9f8a1a9ba513bd]
+The Rules in the schedule apply to any proceedings before the First-tier Tribunal for Scotland Social Security Chamber when exercising functions conferred on the Tribunal by —[^c-4843c1882dd05cea8c9f8a1a9ba513bd]
 
 - (a) the Social Security (Scotland) Act 2018;
 - (b) regulations made under the Social Security (Scotland) Act 2018; or
@@ -78,15 +78,15 @@ Regulation 2
 
 - “the 2014 Act” means the Tribunals (Scotland) Act 2014[^f00003];
 - “the 2018 Act” means the Social Security (Scotland) Act 2018[^f00004];
-- “[^key-e88dada67cccc3b54be1e7eca4aafb5d]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
+- “[^c-e88dada67cccc3b54be1e7eca4aafb5d]**the 2024 Act**” means the United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024;
 - “the 2016 Regulations” means the Scottish Tribunals (Time Limits) Regulations 2016[^f00005];
-- “the 2020 Regulations” means the Scottish Child Payment Regulations 2020,[^key-7a28f3a90922b4d0106fa0b9a3835218]
-- “the Carer’s Allowance Supplement Regulations” means the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions (EU Exit) (Scotland) Regulations 2020;[^key-eeb6a63ddce6199f3ded467f3191e583]
+- “the 2020 Regulations” means the Scottish Child Payment Regulations 2020,[^c-7a28f3a90922b4d0106fa0b9a3835218]
+- “the Carer’s Allowance Supplement Regulations” means the Carer’s Allowance Supplement and Young Carer Grants (Residence Requirements and Procedural Provisions (EU Exit) (Scotland) Regulations 2020;[^c-eeb6a63ddce6199f3ded467f3191e583]
 - “appellant” means the person who starts proceedings (whether by notifying an appeal, or applying for permission to appeal) or a person substituted as an appellant under rule 8 (addition, substitution and removal of parties);
 - “chairing member” means the chairing member of the First-tier Tribunal;
 - “Chamber President” means the President of the First-tier Tribunal;
-- “[^key-e8ce512f28045cec7b7f0e1b5037598e]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
-- “the Convention rights *(Extent: S)*[^key-c9389b0aaa8bb7f16c3bbaf482c99472]” has the meaning given to it in section 1 of the Human Rights Act 1998[^f00006];
+- “[^c-e8ce512f28045cec7b7f0e1b5037598e]**compatibility question**” has the meaning given by section 31(1) of the 2024 Act;
+- “the Convention rights *(Extent: S)*[^c-c9389b0aaa8bb7f16c3bbaf482c99472]” has the meaning given to it in section 1 of the Human Rights Act 1998[^f00006];
 - “decision maker” means the maker of a decision or determination against which an appeal to the First-tier Tribunal is brought;
 - “document” means anything in which information is recorded in any form, and an obligation under these Rules to provide or allow access to a document or a copy of a document for any purpose means, unless the First-tier Tribunal directs otherwise, an obligation to provide or allow access to such document or copy in a legible form or a form which can easily be made into a legible form;
 - “electronic communication” has the meaning given to it by section 15(1) of the Electronic Communications Act 2000[^f00007];
@@ -99,12 +99,12 @@ Regulation 2
 - “the prescribed time period” means—
   - (a) in relation to re-determination of entitlement to assistance under Chapter 2 of Part 2 of the 2018 Act, the period prescribed by the Scottish Ministers by virtue of section 43(5) of the 2018 Act;
   - (b) in relation to re-determination of entitlement to assistance under the 2020 Regulations, the period provided for in paragraph 14(2) of the schedule of the 2020 Regulations;
-  - (c) in relation to re-determination of entitlement to a carer’s allowance supplement, the period provided for in paragraph 6(2) of schedule 2 of the Carer’s Allowance Supplement Regulations.[^key-1c33dfb7105081fa20799606598f930c]
+  - (c) in relation to re-determination of entitlement to a carer’s allowance supplement, the period provided for in paragraph 6(2) of schedule 2 of the Carer’s Allowance Supplement Regulations.[^c-1c33dfb7105081fa20799606598f930c]
 - “process decision” means—
   - (a) in relation to an appeal under section 61 of the 2018 Act, a decision made under section 38, 41(3) or 42 of that Act;
   - (b) in relation to an appeal under paragraph 23 of the schedule of the 2020 Regulations, a decision made under paragraph 1(4), 14(5) or 15(2)(b) of the schedule of those Regulations;
-  - (c) in relation to an appeal under paragraph 13 of schedule 2 of the Carer’s Allowance Supplement Regulations, a decision made under paragraph 1(5), 4(6) or 5(2)(b) of schedule 2 of those Regulations.[^key-a5ce8d3a872b6034782b065bd1c5827c]
-- “[^key-01cc18beaad49837592eebb333de1be3]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
+  - (c) in relation to an appeal under paragraph 13 of schedule 2 of the Carer’s Allowance Supplement Regulations, a decision made under paragraph 1(5), 4(6) or 5(2)(b) of schedule 2 of those Regulations.[^c-a5ce8d3a872b6034782b065bd1c5827c]
+- “[^c-01cc18beaad49837592eebb333de1be3]**relevant authorities**” means the Lord Advocate, the Commissioner for Children and Young People in Scotland or the Scottish Commission for Human Rights;
 - “representative” means a lay representative or a legal representative;
 - “respondent” means—
   - (a) the decision maker in relation to a decision or determination against which an appeal to the First-tier Tribunal is brought; or
@@ -125,7 +125,7 @@ the individual is presumed to have received the information 48 hours after it is
 
 (2) Dealing with a case fairly and justly includes—
 
-- (a) dealing with the case in ways which are transparent and which are *(Extent: S)*[^key-a8341b273bcdbc5516fe311c33608ab2], proportionate to the importance of the case, the complexity of the issues, the anticipated expenses and the resources of the parties;
+- (a) dealing with the case in ways which are transparent and which are *(Extent: S)*[^c-a8341b273bcdbc5516fe311c33608ab2], proportionate to the importance of the case, the complexity of the issues, the anticipated expenses and the resources of the parties;
 - (b) avoiding unnecessary formality and seeking flexibility in the proceedings;
 - (c) ensuring, so far as practicable, that the parties are able to participate fully in the proceedings and are treated with dignity and respect;
 - (d) using any special expertise of the First-tier Tribunal effectively; and
@@ -174,7 +174,7 @@ the individual is presumed to have received the information 48 hours after it is
   - (ii) the First-tier Tribunal considers that the other court or tribunal is a more appropriate forum for the determination of the case;
 - (l) suspend the effect of its own decision pending the determination by the First-tier Tribunal or the Upper Tribunal, as the case may be, of an application for permission to appeal against, and any appeal or review of, that decision.
 
-#### 4A. Compatibility question under the 2024 Act - raising, intimation and notice[^key-651386d467b9837863aa55a05fce60ff]
+#### 4A. Compatibility question under the 2024 Act - raising, intimation and notice[^c-651386d467b9837863aa55a05fce60ff]
 
 (1) This rule applies to—
 
@@ -258,7 +258,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (3) The First-tier Tribunal may not dismiss the whole or a part of the proceedings under paragraph (1) or (2)(b) without first giving the appellant an opportunity to make representations in relation to the proposed dismissal.
 
-(4) If the proceedings, or part of them, have been dismissed under paragraph (2)(a), the appellant may apply for the proceedings, or part of them, to be reinstated, where the appellant can satisfy the Tribunal that the appellant has good reason for the failure to comply[^key-617f76c3a9de1d3da413d8c89d1b833f].
+(4) If the proceedings, or part of them, have been dismissed under paragraph (2)(a), the appellant may apply for the proceedings, or part of them, to be reinstated, where the appellant can satisfy the Tribunal that the appellant has good reason for the failure to comply[^c-617f76c3a9de1d3da413d8c89d1b833f].
 
 (5) An application under paragraph (4) must be made in writing and received by the First-tier Tribunal within the period of 31 days beginning with the day on which notification of the dismissal sent to the appellant under paragraph (9) is presumed to have been received by the appellant.
 
@@ -292,7 +292,7 @@ on the basis of which it is claimed that the compatibility question arises.
 
 (2) If the First-tier Tribunal receives notice that a party has appointed a representative under paragraph (1), it must send a copy of that notice to each party to the proceedings.
 
-(3)[^key-e6df2ad462b5d133cef3bea8aa248ab0] Where the First-tier Tribunal receives notice of the appointment of a representative—
+(3)[^c-e6df2ad462b5d133cef3bea8aa248ab0] Where the First-tier Tribunal receives notice of the appointment of a representative—
 
 - (a) it must provide to the representative—
   - (i) any document which it requires under these Rules to provide to the represented party on or after the day on which it receives the notice, in addition to providing the document to the represented party, and
@@ -335,9 +335,9 @@ Where an interpreter is appointed to assist the First-tier Tribunal, the interpr
 
 #### 14. Disclosure of documents and information
 
-(1)[^key-a132dbe248396b2f9a790c28ecbbf92f] The First-tier Tribunal may at any stage of the proceedings, on its own initiative or on application by one or more of the parties, make an order with a view to prohibiting or restricting the public disclosure of any aspect of those proceedings so far as it considers necessary in the interests of justice or in order to protect the Convention rights of any person.
+(1)[^c-a132dbe248396b2f9a790c28ecbbf92f] The First-tier Tribunal may at any stage of the proceedings, on its own initiative or on application by one or more of the parties, make an order with a view to prohibiting or restricting the public disclosure of any aspect of those proceedings so far as it considers necessary in the interests of justice or in order to protect the Convention rights of any person.
 
-(2)[^key-843d97e75e339dc91d27b627eda4f68a] The First-tier Tribunal may at any stage of the proceedings, on its own initiative or on the request of one or more of the parties, give a direction prohibiting disclosure of a document or information to a person (“**the recipient**”) if—
+(2)[^c-843d97e75e339dc91d27b627eda4f68a] The First-tier Tribunal may at any stage of the proceedings, on its own initiative or on the request of one or more of the parties, give a direction prohibiting disclosure of a document or information to a person (“**the recipient**”) if—
 
 - (a) the document or information relates to the physical or mental health of a person,
 - (b) a registered medical practitioner or a registered nurse has informed either the First-tier Tribunal, or one or more of the parties, that disclosure of the document or information would be likely to cause serious harm to the physical or mental health of the recipient or some other person,
@@ -459,8 +459,8 @@ Where a matter is to be decided by two or more members of the First-tier Tribuna
 - (c) a postal or email address where documents for the appellant may be sent or delivered;
 - (d) the determination being challenged;
 - (e) the reasons for bringing the appeal;
-- (f)[^key-4fa8d7ac5aae58eefbf22b1dcb7eca78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g)[^key-1402898beb65119256aae5da735282e4]  where the notice of appeal is received after the end of the period of 31 days beginning with whichever is the later of—
+- (f)[^c-4fa8d7ac5aae58eefbf22b1dcb7eca78] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-1402898beb65119256aae5da735282e4]  where the notice of appeal is received after the end of the period of 31 days beginning with whichever is the later of—
   - (i) the day on which the appellant is informed of a determination made under section 43 of the 2018 Act; or
   - (ii) the day on which the appellant is informed of the right to appeal against the determination made under section 37 of the Act,
 
@@ -470,14 +470,14 @@ the reasons why the notice of appeal was not submitted sooner.
 
 (7) The Scottish Ministers must forward to the First-tier Tribunal any notice of appeal and accompanying documents submitted to them, regardless of whether the requirements set out in paragraph (5) are met, or the extent to which they are met, and inform the appellant when this has been done.
 
-(8) At the same time as forwarding the notice of appeal[^key-e556611d9099ad7194e1cc2bf0ec1777] and any documents under paragraph (7), the Scottish Ministers must send—
+(8) At the same time as forwarding the notice of appeal[^c-e556611d9099ad7194e1cc2bf0ec1777] and any documents under paragraph (7), the Scottish Ministers must send—
 
-- (za)[^key-4429c6aa7d63de5b62b4ca22b26cff88] where the individual was first awarded assistance pursuant to an application for assistance in accordance with section 37(a) of the 2018 Act (duty to make determination), a copy of the application;
+- (za)[^c-4429c6aa7d63de5b62b4ca22b26cff88] where the individual was first awarded assistance pursuant to an application for assistance in accordance with section 37(a) of the 2018 Act (duty to make determination), a copy of the application;
 - (a) a copy of the determination issued under section 43 of the 2018 Act, following a request that entitlement be re-determined; or
-- (b) a copy of the determination issued under section 37 of the 2018 Act, where there has been a failure to re-determine entitlement within the prescribed time period and the determination under section 37 is being appealed[^key-8405408ab5c8369d74466509b6e2ca0d]; and
+- (b) a copy of the determination issued under section 37 of the 2018 Act, where there has been a failure to re-determine entitlement within the prescribed time period and the determination under section 37 is being appealed[^c-8405408ab5c8369d74466509b6e2ca0d]; and
 - (c) a copy of any written record of the decision under challenge.
 
-(9)[^key-4b57e0ccd5edbeab9f7e6f40d262f3f2] Where a[^key-b92ee085ff818a5dadc5f1e3ff82886a] notice of appeal is received by the Scottish Ministers after the end of the period of 31 days beginning with the later of the days specified in paragraph (4)—
+(9)[^c-4b57e0ccd5edbeab9f7e6f40d262f3f2] Where a[^c-b92ee085ff818a5dadc5f1e3ff82886a] notice of appeal is received by the Scottish Ministers after the end of the period of 31 days beginning with the later of the days specified in paragraph (4)—
 
 - (a) if the notice of appeal is received before the end of the period of one year beginning with the day on which the appellant is informed of a determination made under section 43 of the 2018 Act or, as the case may be, of the right to appeal against the determination made under section 37 of the Act, the First-tier Tribunal may give permission for the appeal to proceed, but only if satisfied that there was a good reason for the notice of appeal not having been sent or delivered to the Scottish Ministers sooner; or
 - (b) if the notice of appeal is received after the end of the period of one year beginning with the day on which the appellant is informed of a determination made under section 43 of the 2018 Act or, as the case may be, of the right to appeal against the determination made under section 37 of the Act, the First-tier Tribunal must refuse to consider the notice of appeal.
@@ -487,7 +487,7 @@ the reasons why the notice of appeal was not submitted sooner.
 - (a) the notice of appeal is received after the end of the period of 31 days beginning with the later of the days specified in paragraph (4), but less than one year after that day; or
 - (b) the notice of appeal is received one year or more after the later of the days specified in paragraph (4).
 
-#### 20A. Notice of appeal to the First-tier Tribunal against a determination of entitlement to a Scottish child payment[^key-b72caf9069e5b36b73db2439a0987ca1]
+#### 20A. Notice of appeal to the First-tier Tribunal against a determination of entitlement to a Scottish child payment[^c-b72caf9069e5b36b73db2439a0987ca1]
 
 (1) This rule applies where an individual brings an appeal under paragraph 19 of the schedule of the 2020 Regulations against a determination by the Scottish Ministers of the appellant’s entitlement to a Scottish child payment.
 
@@ -525,7 +525,7 @@ the reasons why the notice of appeal was not submitted sooner.
   - (ii) the determination issued under paragraph 3 of the schedule of the 2020 Regulations, where there has been a failure to re-determine entitlement within the prescribed time period and the determination under paragraph 3 is being appealed; and
 - (c) a copy of any written record of the decision under challenge.
 
-(9) Where a[^key-044087a41bbc48e6765d3b700210e203] notice of appeal is received by the Scottish Ministers after the end of the period of 31 days beginning with the later of the days specified in paragraph (4)—
+(9) Where a[^c-044087a41bbc48e6765d3b700210e203] notice of appeal is received by the Scottish Ministers after the end of the period of 31 days beginning with the later of the days specified in paragraph (4)—
 
 - (a) if the notice of appeal is received before the end of the period of one year beginning with the day on which the appellant is informed of a determination made under paragraph 16 of the schedule of the 2020 Regulations or, as the case may be, of the right to appeal against the determination made under paragraph 3, the First-tier Tribunal may give permission for the appeal to proceed, but only if satisfied that there was a good reason for the notice of appeal not having been sent or delivered to the Scottish Ministers sooner; or
 - (b) if the notice of appeal is received after the end of the period of one year beginning with the day on which the appellant is informed of a determination made under paragraph 16 or, as the case may be, of the right to appeal against the determination made under paragraph 3, the First-tier Tribunal must refuse to consider the notice of appeal.
@@ -535,7 +535,7 @@ the reasons why the notice of appeal was not submitted sooner.
 - (a) the notice of appeal is received after the end of the period of 31 days beginning with the later of the days specified in paragraph (4) but less than one year after that day; or
 - (b) the notice of appeal is received one year or more after the later of the days specified in paragraph (4).
 
-#### 20B. Notice of appeal to the First-tier Tribunal against a determination of entitlement to a carer’s allowance supplement[^key-49c768a8481bce950bf0393708b0ce5c]
+#### 20B. Notice of appeal to the First-tier Tribunal against a determination of entitlement to a carer’s allowance supplement[^c-49c768a8481bce950bf0393708b0ce5c]
 
 (1) This rule applies where an individual brings an appeal under paragraph 9 of schedule 2 of the Carer’s Allowance Supplement Regulations against a determination by the Scottish Ministers of the appellant’s entitlement to a carer’s allowance supplement.
 
@@ -585,7 +585,7 @@ the reasons why the notice of appeal was not submitted sooner.
 
 #### 21. Response of the decision maker to a notice of appeal against a determination of entitlement
 
-(1)[^key-584e71777ab668566b7b86f4f9deea4d] The First-tier Tribunal must notify each party in writing when a notice of appeal submitted under any of the following provisions has been accepted as containing sufficient information to be valid—
+(1)[^c-584e71777ab668566b7b86f4f9deea4d] The First-tier Tribunal must notify each party in writing when a notice of appeal submitted under any of the following provisions has been accepted as containing sufficient information to be valid—
 
 - (a) rule 20 (notice of appeal to the First-tier Tribunal against a determination of entitlement to assistance of a type provided for in Part 2 of the 2018 Act);
 - (b) rule 20A (notice of appeal to the First-tier Tribunal against a determination of entitlement to a Scottish child payment); or
@@ -603,7 +603,7 @@ the reasons why the notice of appeal was not submitted sooner.
 
 (4) Unless a practice direction states otherwise, the decision maker must provide with the response copies of any documents relevant to the case which are in the decision-maker’s possession and which have not already been provided to the First-tier Tribunal.
 
-(5)[^key-57893a07ab9ba6ccd8af3e57943a60eb] The First-tier Tribunal must provide the appellant with a copy of the decision-maker’s response and any documents accompanying that response which have not already been supplied to the appellant.
+(5)[^c-57893a07ab9ba6ccd8af3e57943a60eb] The First-tier Tribunal must provide the appellant with a copy of the decision-maker’s response and any documents accompanying that response which have not already been supplied to the appellant.
 
 (6) The appellant may make written comments to the First-tier Tribunal and supply further documents to it in reply to the decision maker’s response.
 
@@ -611,7 +611,7 @@ the reasons why the notice of appeal was not submitted sooner.
 
 #### 22. Notice of appeal against a process decision
 
-(1)[^key-304e47c7fb8d6ad403128c8f03cb432a] This rule applies where an individual brings an appeal under any of the following provisions against a process decision—
+(1)[^c-304e47c7fb8d6ad403128c8f03cb432a] This rule applies where an individual brings an appeal under any of the following provisions against a process decision—
 
 - (a) section 61 of the 2018 Act;
 - (b) paragraph 23 of the schedule of the 2020 Regulations; or
@@ -628,15 +628,15 @@ the reasons why the notice of appeal was not submitted sooner.
 - (c) a postal or email address where documents for the appellant may be sent or delivered;
 - (d) the decision being challenged;
 - (e) the reasons for bringing the appeal;
-- (f)[^key-549493c4fd2efacb3d0fae4574a9dc73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (g) where the notice of appeal is received after the end of the period of 31 days beginning with the day on which the appellant is informed of the decision, but within less than one year of that day, reasons why the notice of appeal was not sent or delivered to the First-tier Tribunal *(Extent: S)*[^key-e5fe356dd6a543aa9d36309ca8bf524b] sooner.
+- (f)[^c-549493c4fd2efacb3d0fae4574a9dc73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) where the notice of appeal is received after the end of the period of 31 days beginning with the day on which the appellant is informed of the decision, but within less than one year of that day, reasons why the notice of appeal was not sent or delivered to the First-tier Tribunal *(Extent: S)*[^c-e5fe356dd6a543aa9d36309ca8bf524b] sooner.
 
 (5) Where a notice of appeal is received after the end of the period of 31 days beginning with the day specified in paragraph (3)—
 
 - (a) if the notice of appeal is received less than one year after that day, the First-tier Tribunal may give permission for the appeal to proceed, but only if satisfied that there was a good reason for the notice of appeal not having been sent or delivered sooner; or
-- (b) if the notice of appeal is received one year or more after that day, the First-tier Tribunal must refuse to consider the notice of appeal[^key-5ff17b1f2231afad1ee87b0d6c48f547].
+- (b) if the notice of appeal is received one year or more after that day, the First-tier Tribunal must refuse to consider the notice of appeal[^c-5ff17b1f2231afad1ee87b0d6c48f547].
 
-#### 22A. Reference of compatibility question to the Court of Session[^key-98d33c9590be0c39e4a9f1c83bb1859a]
+#### 22A. Reference of compatibility question to the Court of Session[^c-98d33c9590be0c39e4a9f1c83bb1859a]
 
 (1) If the First-tier Tribunal refers a compatibility question which arises in proceedings before it to the Inner House of the Court of Session for determination, it must intimate this in writing to all parties and the relevant authorities.
 
@@ -728,7 +728,7 @@ If a party fails to attend a hearing the First-tier Tribunal may proceed with th
 (1) The First-tier Tribunal may give reasons for a decision which disposes of proceedings—
 
 - (a) orally at a hearing; or
-- (b) in a full written statement of reasons or a written summary of a decision, which is to be issued *(Extent: S)*[^key-49e42dc42aff536ab002c719926b9d7e] to each party.
+- (b) in a full written statement of reasons or a written summary of a decision, which is to be issued *(Extent: S)*[^c-49e42dc42aff536ab002c719926b9d7e] to each party.
 
 (2) Unless the First-tier Tribunal has already provided a full written statement of reasons under paragraph (1)(b), a party may make a written application to the Tribunal for such statement following a decision which finally disposes of—
 
@@ -741,7 +741,7 @@ If a party fails to attend a hearing the First-tier Tribunal may proceed with th
 
 (5) This rule does not apply to a decision under Part 4 of these Rules (correcting, reviewing and appealing decisions of the First-tier Tribunal).
 
-#### 30. Publication of decisions[^key-d1ffcaf69bff1c7bd4f5ef03a136bba2]
+#### 30. Publication of decisions[^c-d1ffcaf69bff1c7bd4f5ef03a136bba2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -754,7 +754,7 @@ In this Part—
 - “appeal” means the exercise of a right of appeal on a point of law under section 46(1) of the 2014 Act; and
 - “review” means the internal review provided for by section 43(1) of the 2014 Act.
 
-#### 32. Correction of clerical mistakes or accidental slips or omissions[^key-c005ae80b42db3fb6d7775dcb73c73a1]
+#### 32. Correction of clerical mistakes or accidental slips or omissions[^c-c005ae80b42db3fb6d7775dcb73c73a1]
 
 The First-tier Tribunal may at any time correct any clerical mistake or other accidental slip or omission contained in a decision, order or any document produced by it by sending notification of the amended decision or order, or a copy of the amended document, to all parties.
 
@@ -766,7 +766,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 
 - (a) identify the decision of the First-tier Tribunal to which it relates;
 - (b) identify the alleged point or points of law on which the person making the application wishes to appeal; and
-- (c) state the result that the person *(Extent: S)*[^key-d3f023bd551d293a746b20b88e92e928] making the application is seeking.
+- (c) state the result that the person *(Extent: S)*[^c-d3f023bd551d293a746b20b88e92e928] making the application is seeking.
 
 (3) Where an application under paragraph (1) has been submitted after the expiry of the 30 day period referred to in regulation 2(1) of the 2016 Regulations-
 
@@ -786,7 +786,7 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 
 #### 35. Review of a decision
 
-(1) A party may request a review of a decision [^key-d45d9f3ec08d26313ad7e9e1a64596fe]... of the First-tier Tribunal on the basis of a point of law (unless it is an excluded decision or a process decision) *(Extent: S)*[^key-b915fcc6a85f78d617e1755933b7d0db].
+(1) A party may request a review of a decision [^c-d45d9f3ec08d26313ad7e9e1a64596fe]... of the First-tier Tribunal on the basis of a point of law (unless it is an excluded decision or a process decision) *(Extent: S)*[^c-b915fcc6a85f78d617e1755933b7d0db].
 
 (2) An application for a review must—
 
@@ -801,19 +801,19 @@ The First-tier Tribunal may at any time correct any clerical mistake or other ac
 - (a) setting a time limit for any response to the application by the other parties and seeking the views of the parties on whether the application can be determined without a hearing; and
 - (b) if the First-tier Tribunal considers it appropriate to do so, setting out its provisional views on the application.
 
-(5) Except where the application is rejected under paragraph (3), the decision is to be reviewed at a hearing unless the First-tier Tribunal considers, having regard to all of the responses to the notice provided under paragraph (4) *(Extent: S)*[^key-c733196c63cfa504a93c4533b15753e7], that a hearing is not necessary in the interests of justice.
+(5) Except where the application is rejected under paragraph (3), the decision is to be reviewed at a hearing unless the First-tier Tribunal considers, having regard to all of the responses to the notice provided under paragraph (4) *(Extent: S)*[^c-c733196c63cfa504a93c4533b15753e7], that a hearing is not necessary in the interests of justice.
 
-(6) Where practicable, the review is to be undertaken by the legal member[^key-c73c3c372d09664f7fb5105876706c36] of the First-tier Tribunal who made the decision to which it relates.
+(6) Where practicable, the review is to be undertaken by the legal member[^c-c73c3c372d09664f7fb5105876706c36] of the First-tier Tribunal who made the decision to which it relates.
 
-(7) A notice of the decision on a review carried out in accordance with paragraph (5) *(Extent: S)*[^key-8598a5c60900a598d02a00295c1f6128] must as soon as reasonably practicable be sent by the First-tier Tribunal to each party.
+(7) A notice of the decision on a review carried out in accordance with paragraph (5) *(Extent: S)*[^c-8598a5c60900a598d02a00295c1f6128] must as soon as reasonably practicable be sent by the First-tier Tribunal to each party.
 
-(8) An application for a review *(Extent: S)*[^key-3cc8bc4d11ce5cb3e499824b91d7e2f7] by the First-tier Tribunal in terms of paragraph (1) does not affect the time limit of 30 days in regulation 2(1) of the 2016 Regulations for making an application for permission to appeal.
+(8) An application for a review *(Extent: S)*[^c-3cc8bc4d11ce5cb3e499824b91d7e2f7] by the First-tier Tribunal in terms of paragraph (1) does not affect the time limit of 30 days in regulation 2(1) of the 2016 Regulations for making an application for permission to appeal.
 
 #### 36. Duty to treat a request for a review as an application for permission to appeal
 
-(1) The First-tier Tribunal must treat a request for a review under rule 35 (review of a decision) as also being an application for permission to appeal under rule 33 (application for permission to appeal against a decision of the First-tier Tribunal), unless the party who requests the review[^key-48a7bf6533a7885d01ea733b61bd57b1] states expressly that they do not wish it to be so treated.
+(1) The First-tier Tribunal must treat a request for a review under rule 35 (review of a decision) as also being an application for permission to appeal under rule 33 (application for permission to appeal against a decision of the First-tier Tribunal), unless the party who requests the review[^c-48a7bf6533a7885d01ea733b61bd57b1] states expressly that they do not wish it to be so treated.
 
-(2) Where the party who requests the review[^key-9cac5aad0ef5c15ffb6c65b52128cc27] is given notice of a review decision under rule 35(7) (notice of decision on a review to be sent as soon as reasonably practicable), the party is[^key-4c534b0e1a3d9b1ed8031226fc4c6868] to be given the opportunity to state whether or not the party wishes[^key-a5b8172f99ceb309158726bfb71ce9d5] to proceed with an appeal.
+(2) Where the party who requests the review[^c-9cac5aad0ef5c15ffb6c65b52128cc27] is given notice of a review decision under rule 35(7) (notice of decision on a review to be sent as soon as reasonably practicable), the party is[^c-4c534b0e1a3d9b1ed8031226fc4c6868] to be given the opportunity to state whether or not the party wishes[^c-a5b8172f99ceb309158726bfb71ce9d5] to proceed with an appeal.
 
 EXPLANATORY NOTE
 
@@ -829,106 +829,106 @@ A Partial Business and Regulatory Impact Assessment has been prepared and placed
 
 [^f00001]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
-[^key-4843c1882dd05cea8c9f8a1a9ba513bd]: Textual amendment: [Reg. 2(a)-(c)](https://www.legislation.gov.uk/ssi/2018/273/regulation/2/a/c) substituted for words (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/2)
+[^c-4843c1882dd05cea8c9f8a1a9ba513bd]: Textual amendment: [Reg. 2(a)-(c)](https://www.legislation.gov.uk/ssi/2018/273/regulation/2/a/c) substituted for words (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(2)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/2)
 
 [^f00003]: Footnote: [2014 asp 10](https://www.legislation.gov.uk/asp/2014/10).
 
 [^f00004]: Footnote: [2018 asp 9](https://www.legislation.gov.uk/asp/2018/9).
 
-[^key-e88dada67cccc3b54be1e7eca4aafb5d]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/a/i)
+[^c-e88dada67cccc3b54be1e7eca4aafb5d]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(a)(i)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/a/i)
 
 [^f00005]: Footnote: [S.S.I. 2016/231](https://www.legislation.gov.uk/ssi/2016/231).
 
-[^key-7a28f3a90922b4d0106fa0b9a3835218]: Textual amendment: Words in sch. rule 1 inserted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/2/a)
+[^c-7a28f3a90922b4d0106fa0b9a3835218]: Textual amendment: Words in sch. rule 1 inserted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/2/a)
 
-[^key-eeb6a63ddce6199f3ded467f3191e583]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(a)(i)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/a/i)
+[^c-eeb6a63ddce6199f3ded467f3191e583]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(a)(i)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/a/i)
 
-[^key-e8ce512f28045cec7b7f0e1b5037598e]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/a/ii)
+[^c-e8ce512f28045cec7b7f0e1b5037598e]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/a/ii)
 
-[^key-c9389b0aaa8bb7f16c3bbaf482c99472]: Textual amendment: Words in sch. rule 1(1) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/2)
+[^c-c9389b0aaa8bb7f16c3bbaf482c99472]: Textual amendment: Words in sch. rule 1(1) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/2)
 
 [^f00006]: Footnote: [1998 c.42](https://www.legislation.gov.uk/ukpga/1998/42).
 
 [^f00007]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7); section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), schedule 17, paragraph 158.
 
-[^key-1c33dfb7105081fa20799606598f930c]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/a/ii)
+[^c-1c33dfb7105081fa20799606598f930c]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/a/ii)
 
-[^key-a5ce8d3a872b6034782b065bd1c5827c]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/a/iii)
+[^c-a5ce8d3a872b6034782b065bd1c5827c]: Textual amendment: Words in [sch. rule 1](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/a/iii)
 
-[^key-01cc18beaad49837592eebb333de1be3]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/a/iii)
+[^c-01cc18beaad49837592eebb333de1be3]: Textual amendment: Words in [sch. rule 1(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/1/1) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/a/iii)
 
-[^key-a8341b273bcdbc5516fe311c33608ab2]: Textual amendment: Words in sch. rule 2(2)(a) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/3)
+[^c-a8341b273bcdbc5516fe311c33608ab2]: Textual amendment: Words in sch. rule 2(2)(a) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/3)
 
-[^key-651386d467b9837863aa55a05fce60ff]: Textual amendment: [Sch. rule 4A](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/4A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/b)
+[^c-651386d467b9837863aa55a05fce60ff]: Textual amendment: [Sch. rule 4A](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/4A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/b)
 
-[^key-617f76c3a9de1d3da413d8c89d1b833f]: Textual amendment: Words in sch. rule 7(4) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/2)
+[^c-617f76c3a9de1d3da413d8c89d1b833f]: Textual amendment: Words in sch. rule 7(4) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/2)
 
-[^key-e6df2ad462b5d133cef3bea8aa248ab0]: Textual amendment: Sch. rule 9(3) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/4)
+[^c-e6df2ad462b5d133cef3bea8aa248ab0]: Textual amendment: Sch. rule 9(3) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/4)
 
 [^f00008]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-a132dbe248396b2f9a790c28ecbbf92f]: Textual amendment: [Sch. rule 14](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/14/1) renumbered as sch. rule 14(1) (21.6.2022) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/162/regulation/2/2/a)
+[^c-a132dbe248396b2f9a790c28ecbbf92f]: Textual amendment: [Sch. rule 14](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/14/1) renumbered as sch. rule 14(1) (21.6.2022) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2022/162/regulation/2/2/a)
 
-[^key-843d97e75e339dc91d27b627eda4f68a]: Textual amendment: [Sch. rule 14(2)-(6)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/14/2) inserted (21.6.2022) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/162/regulation/2/2/b)
+[^c-843d97e75e339dc91d27b627eda4f68a]: Textual amendment: [Sch. rule 14(2)-(6)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/14/2) inserted (21.6.2022) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Rules of Procedure) (Miscellaneous Amendment) Regulations 2022 (S.S.I. 2022/162)](https://www.legislation.gov.uk/ssi/2022/162), [regs. 1](https://www.legislation.gov.uk/ssi/2022/162/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2022/162/regulation/2/2/b)
 
-[^key-4fa8d7ac5aae58eefbf22b1dcb7eca78]: Textual amendment: Sch. rule 20(5)(f) omitted (26.3.2020) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/3/a)
+[^c-4fa8d7ac5aae58eefbf22b1dcb7eca78]: Textual amendment: Sch. rule 20(5)(f) omitted (26.3.2020) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/3/a)
 
-[^key-1402898beb65119256aae5da735282e4]: Textual amendment: Sch. rule 20(5)(g) substituted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/3/a)
+[^c-1402898beb65119256aae5da735282e4]: Textual amendment: Sch. rule 20(5)(g) substituted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/3/a)
 
-[^key-e556611d9099ad7194e1cc2bf0ec1777]: Textual amendment: Words in sch. rule 20(8) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(3)(b)(i)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/3/b/i)
+[^c-e556611d9099ad7194e1cc2bf0ec1777]: Textual amendment: Words in sch. rule 20(8) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(3)(b)(i)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/3/b/i)
 
-[^key-4429c6aa7d63de5b62b4ca22b26cff88]: Textual amendment: Sch. rule 20(8)(za) inserted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/3/b/ii)
+[^c-4429c6aa7d63de5b62b4ca22b26cff88]: Textual amendment: Sch. rule 20(8)(za) inserted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/3/b/ii)
 
-[^key-8405408ab5c8369d74466509b6e2ca0d]: Textual amendment: Words in sch. rule 20(8)(b) inserted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/3/b)
+[^c-8405408ab5c8369d74466509b6e2ca0d]: Textual amendment: Words in sch. rule 20(8)(b) inserted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/3/b)
 
-[^key-4b57e0ccd5edbeab9f7e6f40d262f3f2]: Textual amendment: Sch. rules 20(9) (10) substituted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/3/c)
+[^c-4b57e0ccd5edbeab9f7e6f40d262f3f2]: Textual amendment: Sch. rules 20(9) (10) substituted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(3)(c)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/3/c)
 
-[^key-b92ee085ff818a5dadc5f1e3ff82886a]: Textual amendment: Word in [sch. rule 20(9)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/20/9) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/b)
+[^c-b92ee085ff818a5dadc5f1e3ff82886a]: Textual amendment: Word in [sch. rule 20(9)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/20/9) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/b)
 
-[^key-b72caf9069e5b36b73db2439a0987ca1]: Textual amendment: Sch. rule 20A inserted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/4)
+[^c-b72caf9069e5b36b73db2439a0987ca1]: Textual amendment: Sch. rule 20A inserted (9.11.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Composition) Amendment Regulations 2020 (S.S.I. 2020/353)](https://www.legislation.gov.uk/ssi/2020/353), [regs. 1](https://www.legislation.gov.uk/ssi/2020/353/regulation/1), [3(4)](https://www.legislation.gov.uk/ssi/2020/353/regulation/3/4)
 
-[^key-044087a41bbc48e6765d3b700210e203]: Textual amendment: Word in [sch. rule 20A(9)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/20A/9) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/b)
+[^c-044087a41bbc48e6765d3b700210e203]: Textual amendment: Word in [sch. rule 20A(9)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/20A/9) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/b)
 
-[^key-49c768a8481bce950bf0393708b0ce5c]: Textual amendment: [Sch. rule 20B](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/20B) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/c)
+[^c-49c768a8481bce950bf0393708b0ce5c]: Textual amendment: [Sch. rule 20B](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/20B) inserted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(c)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/c)
 
-[^key-584e71777ab668566b7b86f4f9deea4d]: Textual amendment: [Sch. rules 21(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/21/1), [(2)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/21/2) substituted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(d)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/d)
+[^c-584e71777ab668566b7b86f4f9deea4d]: Textual amendment: [Sch. rules 21(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/21/1), [(2)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/21/2) substituted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(d)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/d)
 
-[^key-57893a07ab9ba6ccd8af3e57943a60eb]: Textual amendment: Sch. rule 21(5) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/5)
+[^c-57893a07ab9ba6ccd8af3e57943a60eb]: Textual amendment: Sch. rule 21(5) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/5)
 
-[^key-304e47c7fb8d6ad403128c8f03cb432a]: Textual amendment: [Sch. rule 22(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/22/1) substituted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(e)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/e)
+[^c-304e47c7fb8d6ad403128c8f03cb432a]: Textual amendment: [Sch. rule 22(1)](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/22/1) substituted (24.12.2020) by [The First-tier Tribunal for Scotland Social Security Chamber and Upper Tribunal for Scotland (Allocation of Functions, Procedure and Composition) (Miscellaneous Amendments) Regulations 2020 (S.S.I. 2020/476)](https://www.legislation.gov.uk/ssi/2020/476), [regs. 1](https://www.legislation.gov.uk/ssi/2020/476/regulation/1), [5(3)(e)](https://www.legislation.gov.uk/ssi/2020/476/regulation/5/3/e)
 
-[^key-549493c4fd2efacb3d0fae4574a9dc73]: Textual amendment: Sch. rule 22(4)(f) omitted (26.3.2020) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/4/a)
+[^c-549493c4fd2efacb3d0fae4574a9dc73]: Textual amendment: Sch. rule 22(4)(f) omitted (26.3.2020) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/4/a)
 
-[^key-e5fe356dd6a543aa9d36309ca8bf524b]: Textual amendment: Words in sch. rule 22(4)(g) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/6)
+[^c-e5fe356dd6a543aa9d36309ca8bf524b]: Textual amendment: Words in sch. rule 22(4)(g) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(6)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/6)
 
-[^key-5ff17b1f2231afad1ee87b0d6c48f547]: Textual amendment: Words in sch. rule 22(5)(b) inserted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/4/b)
+[^c-5ff17b1f2231afad1ee87b0d6c48f547]: Textual amendment: Words in sch. rule 22(5)(b) inserted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/4/b)
 
-[^key-98d33c9590be0c39e4a9f1c83bb1859a]: Textual amendment: [Sch. rule 22A](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/22A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/c)
+[^c-98d33c9590be0c39e4a9f1c83bb1859a]: Textual amendment: [Sch. rule 22A](https://www.legislation.gov.uk/ssi/2018/273/schedule/rule/22A) inserted (1.4.2026) by [The First-tier Tribunal for Scotland (Procedure Rules) (Miscellaneous Amendment) Regulations 2026 (S.S.I. 2026/34)](https://www.legislation.gov.uk/ssi/2026/34), [regs. 1](https://www.legislation.gov.uk/ssi/2026/34/regulation/1), [6(2)(c)](https://www.legislation.gov.uk/ssi/2026/34/regulation/6/2/c)
 
-[^key-49e42dc42aff536ab002c719926b9d7e]: Textual amendment: Words in sch. rule 29(1)(b) inserted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/7)
+[^c-49e42dc42aff536ab002c719926b9d7e]: Textual amendment: Words in sch. rule 29(1)(b) inserted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(7)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/7)
 
-[^key-d1ffcaf69bff1c7bd4f5ef03a136bba2]: Textual amendment: Sch. rule 30 omitted (26.3.2020) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/5)
+[^c-d1ffcaf69bff1c7bd4f5ef03a136bba2]: Textual amendment: Sch. rule 30 omitted (26.3.2020) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(5)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/5)
 
-[^key-c005ae80b42db3fb6d7775dcb73c73a1]: Textual amendment: Sch. rule 32 substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(6)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/6)
+[^c-c005ae80b42db3fb6d7775dcb73c73a1]: Textual amendment: Sch. rule 32 substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(6)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/6)
 
-[^key-d3f023bd551d293a746b20b88e92e928]: Textual amendment: Word in sch. rule 33(2)(c) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/8)
+[^c-d3f023bd551d293a746b20b88e92e928]: Textual amendment: Word in sch. rule 33(2)(c) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(8)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/8)
 
-[^key-d45d9f3ec08d26313ad7e9e1a64596fe]: Textual amendment: Words in sch. rule 35(1) omitted (21.12.2018) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/a)
+[^c-d45d9f3ec08d26313ad7e9e1a64596fe]: Textual amendment: Words in sch. rule 35(1) omitted (21.12.2018) by virtue of [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/a)
 
-[^key-b915fcc6a85f78d617e1755933b7d0db]: Textual amendment: Words in sch. rule 35(1) inserted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/a)
+[^c-b915fcc6a85f78d617e1755933b7d0db]: Textual amendment: Words in sch. rule 35(1) inserted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/a)
 
-[^key-c733196c63cfa504a93c4533b15753e7]: Textual amendment: Word in sch. rule 35(5) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/b)
+[^c-c733196c63cfa504a93c4533b15753e7]: Textual amendment: Word in sch. rule 35(5) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/b)
 
-[^key-c73c3c372d09664f7fb5105876706c36]: Textual amendment: Words in sch. rule 35(6) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(7)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/7)
+[^c-c73c3c372d09664f7fb5105876706c36]: Textual amendment: Words in sch. rule 35(6) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(7)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/7)
 
-[^key-8598a5c60900a598d02a00295c1f6128]: Textual amendment: Words in sch. rule 35(7) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/c)
+[^c-8598a5c60900a598d02a00295c1f6128]: Textual amendment: Words in sch. rule 35(7) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(c)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/c)
 
-[^key-3cc8bc4d11ce5cb3e499824b91d7e2f7]: Textual amendment: Words in sch. rule 35(8) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(d)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/d)
+[^c-3cc8bc4d11ce5cb3e499824b91d7e2f7]: Textual amendment: Words in sch. rule 35(8) substituted (21.12.2018) by [The First-tier Tribunal for Scotland Social Security Chamber (Rules of Procedure) Amendment Regulations 2018 (S.S.I. 2018/343)](https://www.legislation.gov.uk/ssi/2018/343), [regs. 1](https://www.legislation.gov.uk/ssi/2018/343/regulation/1), [2(9)(d)](https://www.legislation.gov.uk/ssi/2018/343/regulation/2/9/d)
 
-[^key-48a7bf6533a7885d01ea733b61bd57b1]: Textual amendment: Words in sch. rule 36(1) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/8/a)
+[^c-48a7bf6533a7885d01ea733b61bd57b1]: Textual amendment: Words in sch. rule 36(1) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(8)(a)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/8/a)
 
-[^key-9cac5aad0ef5c15ffb6c65b52128cc27]: Textual amendment: Words in sch. rule 36(2) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(8)(b)(i)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/8/b/i)
+[^c-9cac5aad0ef5c15ffb6c65b52128cc27]: Textual amendment: Words in sch. rule 36(2) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(8)(b)(i)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/8/b/i)
 
-[^key-4c534b0e1a3d9b1ed8031226fc4c6868]: Textual amendment: Words in sch. rule 36(2) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/8/b/ii)
+[^c-4c534b0e1a3d9b1ed8031226fc4c6868]: Textual amendment: Words in sch. rule 36(2) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(8)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/8/b/ii)
 
-[^key-a5b8172f99ceb309158726bfb71ce9d5]: Textual amendment: Words in sch. rule 36(2) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(8)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/8/b/iii)
+[^c-a5b8172f99ceb309158726bfb71ce9d5]: Textual amendment: Words in sch. rule 36(2) substituted (26.3.2020) by [The First-tier Tribunal for Scotland Social Security Chamber (Procedure and Allocation of Functions) Amendment Regulations 2020 (S.S.I. 2020/100)](https://www.legislation.gov.uk/ssi/2020/100), [regs. 1](https://www.legislation.gov.uk/ssi/2020/100/regulation/1), [3(8)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/100/regulation/3/8/b/iii)

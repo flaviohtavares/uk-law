@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Penalties for multiple failures to make tax returns[^key-79b89ed7f11708b3bb958a6a94e12e34]
+## 74. Penalties for multiple failures to make tax returns[^c-79b89ed7f11708b3bb958a6a94e12e34]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ After section 118 of TCMA (penalty for failure to make tax return on or before f
 
 ## Annotations
 
-[^key-79b89ed7f11708b3bb958a6a94e12e34]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2017/3/section/74) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-79b89ed7f11708b3bb958a6a94e12e34]: Commencement: [S. 74](https://www.legislation.gov.uk/anaw/2017/3/section/74) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

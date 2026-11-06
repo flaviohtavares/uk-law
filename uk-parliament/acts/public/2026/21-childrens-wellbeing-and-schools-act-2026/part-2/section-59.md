@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Pay and conditions of Academy teachers[^key-41832a7a82d42a4f6da2430e7dc31e1c]
+## 59. Pay and conditions of Academy teachers[^c-41832a7a82d42a4f6da2430e7dc31e1c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 amends [Part 8](https://www.legislation.gov.uk/ukpga/2002/32/part/8) 
 
 ## Annotations
 
-[^key-41832a7a82d42a4f6da2430e7dc31e1c]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2026/21/section/59) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)
+[^c-41832a7a82d42a4f6da2430e7dc31e1c]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2026/21/section/59) in force at 29.6.2026, see [s. 78(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2)

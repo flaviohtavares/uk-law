@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 143. Carrying out inspections under section 141 or 142[^key-3e73f12624eb3985ae7574b299bc850c][^key-8582aee1c20bc942bc848dcc0f3ead7c][^key-8582aee1c20bc942bc848dcc0f3ead7c]
+## 143. Carrying out inspections under section 141 or 142[^c-3e73f12624eb3985ae7574b299bc850c][^c-8582aee1c20bc942bc848dcc0f3ead7c][^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e73f12624eb3985ae7574b299bc850c]: Commencement: [S. 143](https://www.legislation.gov.uk/asp/2014/16/section/143) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-3e73f12624eb3985ae7574b299bc850c]: Commencement: [S. 143](https://www.legislation.gov.uk/asp/2014/16/section/143) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)
+[^c-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)

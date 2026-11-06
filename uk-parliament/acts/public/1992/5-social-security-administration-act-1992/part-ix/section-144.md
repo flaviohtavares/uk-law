@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. Orders under s. 143 ... —supplementary[^key-610049865b7ce3d6d86362c46e2ca327][^M_F_aa4ee60c-829c-4a94-9d6f-313f1daedd96]
+## 144. Orders under s. 143 ... —supplementary[^c-610049865b7ce3d6d86362c46e2ca327][^M_F_aa4ee60c-829c-4a94-9d6f-313f1daedd96]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 ## Annotations
 
-[^key-610049865b7ce3d6d86362c46e2ca327]: Modification: S. 144 excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 72(1)(4)](https://www.legislation.gov.uk/ukpga/2020/7/section/72/1/4), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-610049865b7ce3d6d86362c46e2ca327]: Modification: S. 144 excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 72(1)(4)](https://www.legislation.gov.uk/ukpga/2020/7/section/72/1/4), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
 
 [^M_F_aa4ee60c-829c-4a94-9d6f-313f1daedd96]: Textual amendment: Words in s. 144 repealed (6.4.2000) by the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(3)(c)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/3/c), [Sch. 13 Pt. VI](https://www.legislation.gov.uk/ukpga/1999/30/schedule/13/part/VI); [S.I. 1999/3420](https://www.legislation.gov.uk/uksi/1999/3420), [art. 4(e)](https://www.legislation.gov.uk/uksi/1999/3420/article/4/e)
 

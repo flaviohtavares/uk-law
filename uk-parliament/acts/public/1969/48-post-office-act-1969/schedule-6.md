@@ -31,7 +31,7 @@ Sections 94, 114
 | Enactment amended and Subject-matter thereof | Amendment |
 | --- | --- |
 |  |  |
-| [^key-802ff04e36f51bf0cc808abe8957a4e3]. . . | [^key-802ff04e36f51bf0cc808abe8957a4e3]. . . |
+| [^c-802ff04e36f51bf0cc808abe8957a4e3]. . . | [^c-802ff04e36f51bf0cc808abe8957a4e3]. . . |
 | Section 10 of the [^c11865041]Savings Banks Act 1887 (issue, for specially low fee, of certificate of birth, marriage or death for purposes of Acts relating to savings banks and government annuities). | For the words “Post Office Savings Banks” there shall be substituted the words “the National Savings Bank”. |
 |  |  |
 | [^c11865051]Section 44 of the [^c11865071]Friendly Societies Act 1896 (investment of funds). | In subsection (1)(a), for the words “the Post Office Savings Bank” there shall be substituted the words “the National Savings Bank”. |
@@ -64,7 +64,7 @@ Sections 94, 114
 
 [^c11864991]: Modification: The text of Sch. 6 Pt. III is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-802ff04e36f51bf0cc808abe8957a4e3]: Textual amendment: Sch. 6 Pt. III: entry repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 1
+[^c-802ff04e36f51bf0cc808abe8957a4e3]: Textual amendment: Sch. 6 Pt. III: entry repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 1
 
 [^c11865041]: Marginal citation: [1887 c. 40](https://www.legislation.gov.uk/ukpga/1887/40)
 

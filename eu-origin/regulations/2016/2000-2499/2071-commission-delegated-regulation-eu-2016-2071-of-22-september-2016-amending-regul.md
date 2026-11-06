@@ -35,22 +35,22 @@ amending Regulation (EU) 2015/757 of the European Parliament and of the Council 
 
 (Text with EEA relevance) (revoked)
 
-[^key-19a1814bc9e37db5d95ce6b206489354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19a1814bc9e37db5d95ce6b206489354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-19a1814bc9e37db5d95ce6b206489354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-19a1814bc9e37db5d95ce6b206489354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-19a1814bc9e37db5d95ce6b206489354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-19a1814bc9e37db5d95ce6b206489354] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-19a1814bc9e37db5d95ce6b206489354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-19a1814bc9e37db5d95ce6b206489354]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-19a1814bc9e37db5d95ce6b206489354]
+## ANNEX[^c-19a1814bc9e37db5d95ce6b206489354]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19a1814bc9e37db5d95ce6b206489354]: Textual amendment: Regulation revoked (3.4.2026) by [The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) (Revocation) Regulations 2026 (S.I. 2026/245)](https://www.legislation.gov.uk/uksi/2026/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/245/regulation/1/2), [2(e)](https://www.legislation.gov.uk/uksi/2026/245/regulation/2/e)
+[^c-19a1814bc9e37db5d95ce6b206489354]: Textual amendment: Regulation revoked (3.4.2026) by [The Merchant Shipping (Monitoring, Reporting and Verification of Carbon Dioxide Emissions) (Revocation) Regulations 2026 (S.I. 2026/245)](https://www.legislation.gov.uk/uksi/2026/245), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/245/regulation/1/2), [2(e)](https://www.legislation.gov.uk/uksi/2026/245/regulation/2/e)

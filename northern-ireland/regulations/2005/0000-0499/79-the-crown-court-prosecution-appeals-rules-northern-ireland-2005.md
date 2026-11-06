@@ -44,7 +44,7 @@ Coming into operation
 
 We, the Crown Court Rules Committee, in exercise of the powers conferred upon us by section 52(1) of the Judicature (Northern Ireland) Act 1978[^f00001] and Article 32 of the Criminal Justice (Northern Ireland) Order 2004[^f00002] and all other powers enabling us in that behalf, hereby with the concurrence of the Lord Chancellor make the following Rules:
 
-## 1. Citation, commencement and interpretation[^key-ec26f0d1d80776a12a1f58712a0078e3]
+## 1. Citation, commencement and interpretation[^c-ec26f0d1d80776a12a1f58712a0078e3]
 
 (1) These Rules may be cited as the Crown Court (Prosecution Appeals) Rules (Northern Ireland) 2005 and shall come into operation on 18th April 2005.
 
@@ -55,7 +55,7 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 - “business day” means any day other than –
   - (a) a Saturday, Sunday, Christmas Day or Good Friday; or
   - (b) a day which is, or is to be observed as, a bank holiday in Northern Ireland under the Banking and Financial Dealings Act 1971[^f00003].
-- “chief clerk” means the chief clerk of the Court before which the defendant is being tried and includes such other civil servant in the Department of Justice[^key-16e06ffc2e34e391b259acb940d5f849] as may be authorised to act on his behalf for the purpose in question;
+- “chief clerk” means the chief clerk of the Court before which the defendant is being tried and includes such other civil servant in the Department of Justice[^c-16e06ffc2e34e391b259acb940d5f849] as may be authorised to act on his behalf for the purpose in question;
 - “defendant” means a party in whose favour the ruling which is the subject of the appeal was made;
 - “interested party” means a person other than the defendant who –
   - (i) is a party to the proceedings in the Crown Court;
@@ -67,7 +67,7 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 
 (3) The form in the Schedule shall be used where applicable with such variations as the circumstances of the particular case require.
 
-## 2. Request for adjournment to consider whether to appeal[^key-b9c2735c16be18abd87817dbaa0d8151]
+## 2. Request for adjournment to consider whether to appeal[^c-b9c2735c16be18abd87817dbaa0d8151]
 
 (1) Subject to paragraph (2), a request by the prosecution for an adjournment under Article 17(4)(b) of the 2004 Order shall be made to the judge immediately following the making of a ruling to which Article 17 of the 2004 Order applies.
 
@@ -88,7 +88,7 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 
 (6) Where the ruling which is the subject of the proposed appeal is a public interest ruling, the judge may direct that paragraphs (5)(b) and (c) shall not apply.
 
-## 3. Application for leave to appeal[^key-1d30e6a5ecf258ee7f1ec49cc2d3a71a]
+## 3. Application for leave to appeal[^c-1d30e6a5ecf258ee7f1ec49cc2d3a71a]
 
 (1) Where the prosecution intends to appeal against a ruling under Article 17 of the 2004 Order, it shall inform the judge of its intention –
 
@@ -103,7 +103,7 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 
 (5) Where the judge grants leave to appeal he shall issue a certificate which shall be in Form 1 in the Schedule and which shall be forwarded, by the chief clerk, to the proper officer.
 
-## 4. Expedited appeal[^key-f81479e00df0f561ce2b86af574d08d3]
+## 4. Expedited appeal[^c-f81479e00df0f561ce2b86af574d08d3]
 
 (1) The prosecution shall, at the time when it informs the judge that it intends to appeal against a ruling, make oral representations as to whether or not that appeal should be expedited under Article 18(1) of the 2004 Order.
 
@@ -125,11 +125,11 @@ We, the Crown Court Rules Committee, in exercise of the powers conferred upon us
 - (c) the defendant; and
 - (d) any interested party.
 
-## 5. Service[^key-1b84fedd68373fc55e1f88482b6dc446]
+## 5. Service[^c-1b84fedd68373fc55e1f88482b6dc446]
 
 Any notice or other document which is required by these Rules to be given to any person shall be served in accordance with rule 47 of the Crown Court Rules (Northern Ireland) 1979[^f00005].
 
-## 6. Transitional provision[^key-1374010591692faa29afeb9a5c5d9a45]
+## 6. Transitional provision[^c-1374010591692faa29afeb9a5c5d9a45]
 
 Until the coming into force of Part 5 of the Criminal Justice Act 2003[^f00006] a “public interest ruling” means a ruling under section 3(6), 7(5), 8(5), or 9(8) of the Criminal Procedure and Investigations Act 1996 that it is not in the public interest to disclose material in the possession of the prosecution.
 
@@ -163,7 +163,7 @@ Department for Constitutional Affairs
 
 Dated 9th March 2005
 
-## SCHEDULE[^key-9b4ea2174ce19d7abafb0f5584fd3323]
+## SCHEDULE[^c-9b4ea2174ce19d7abafb0f5584fd3323]
 
 FORM 1
 
@@ -197,26 +197,26 @@ Rule 6 makes transitional provision in relation to the definition of a “public
 
 [^f00002]: Footnote: [S.I. 2004/1500 (N.I. 9)](https://www.legislation.gov.uk/nisi/2004/1500)
 
-[^key-ec26f0d1d80776a12a1f58712a0078e3]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/79/article/1) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+[^c-ec26f0d1d80776a12a1f58712a0078e3]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2005/79/article/1) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
 
 [^f00003]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-16e06ffc2e34e391b259acb940d5f849]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/2005/79/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 34](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/34) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-16e06ffc2e34e391b259acb940d5f849]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/nisr/2005/79/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 34](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/34) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
 [^f00004]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 7A was inserted into the Criminal Procedure and Investigations Act 1996 by section 37 of the Criminal Justice Act 2003
 
-[^key-b9c2735c16be18abd87817dbaa0d8151]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/79/article/2) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+[^c-b9c2735c16be18abd87817dbaa0d8151]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2005/79/article/2) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
 
-[^key-1d30e6a5ecf258ee7f1ec49cc2d3a71a]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/79/article/3) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+[^c-1d30e6a5ecf258ee7f1ec49cc2d3a71a]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2005/79/article/3) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
 
-[^key-f81479e00df0f561ce2b86af574d08d3]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/79/article/4) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+[^c-f81479e00df0f561ce2b86af574d08d3]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2005/79/article/4) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
 
-[^key-1b84fedd68373fc55e1f88482b6dc446]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/79/article/5) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+[^c-1b84fedd68373fc55e1f88482b6dc446]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2005/79/article/5) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
 
 [^f00005]: Footnote: [S.R. 1979 No. 90](https://www.legislation.gov.uk/nisr/1979/90); to which the most recent relevant amendment was made by [S.R. 2004 No. 233](https://www.legislation.gov.uk/nisr/2004/233)
 
-[^key-1374010591692faa29afeb9a5c5d9a45]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/79/article/6) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+[^c-1374010591692faa29afeb9a5c5d9a45]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2005/79/article/6) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
 
 [^f00006]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44)
 
-[^key-9b4ea2174ce19d7abafb0f5584fd3323]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/79/schedule) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)
+[^c-9b4ea2174ce19d7abafb0f5584fd3323]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2005/79/schedule) in operation at 18.4.2005, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2005/79/article/1/1)

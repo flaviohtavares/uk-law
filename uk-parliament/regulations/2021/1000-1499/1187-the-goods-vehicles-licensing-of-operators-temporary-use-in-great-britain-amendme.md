@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic
 
-The Goods Vehicles (Licensing of Operators) (Temporary Use in Great Britain) (Amendment) Regulations 2021 (revoked)[^key-23a9598433b880f3c00b223847b5f0ff]
+The Goods Vehicles (Licensing of Operators) (Temporary Use in Great Britain) (Amendment) Regulations 2021 (revoked)[^c-23a9598433b880f3c00b223847b5f0ff]
 
 Made
 
@@ -46,26 +46,26 @@ Coming into force
 
 28th October 2021
 
-[^key-23a9598433b880f3c00b223847b5f0ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23a9598433b880f3c00b223847b5f0ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, Commencement and Extent[^key-23a9598433b880f3c00b223847b5f0ff]
+## 1. Citation, Commencement and Extent[^c-23a9598433b880f3c00b223847b5f0ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Goods Vehicles (Licensing of Operators) Regulations 1995[^key-23a9598433b880f3c00b223847b5f0ff]
+## 2. Amendment of the Goods Vehicles (Licensing of Operators) Regulations 1995[^c-23a9598433b880f3c00b223847b5f0ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Goods Vehicles (Licensing of Operators) (Temporary use in Great Britain) Regulations 1996[^key-23a9598433b880f3c00b223847b5f0ff]
+## 3. Amendment of the Goods Vehicles (Licensing of Operators) (Temporary use in Great Britain) Regulations 1996[^c-23a9598433b880f3c00b223847b5f0ff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23a9598433b880f3c00b223847b5f0ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23a9598433b880f3c00b223847b5f0ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-23a9598433b880f3c00b223847b5f0ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-23a9598433b880f3c00b223847b5f0ff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-23a9598433b880f3c00b223847b5f0ff]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1187) revoked (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [10](https://www.legislation.gov.uk/uksi/2023/805/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/uksi/2023/805/regulation/11))
+[^c-23a9598433b880f3c00b223847b5f0ff]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1187) revoked (1.10.2023) by [The Goods Vehicles (Licensing of Operators) (Exemptions and Modifications) (Amendment) Regulations 2023 (S.I. 2023/805)](https://www.legislation.gov.uk/uksi/2023/805), [regs. 1](https://www.legislation.gov.uk/uksi/2023/805/regulation/1), [10](https://www.legislation.gov.uk/uksi/2023/805/regulation/10) (with [reg. 11](https://www.legislation.gov.uk/uksi/2023/805/regulation/11))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Temporary field sites[^key-fff612a91a368a634e7657b5bc87fa23]
+## 27. Temporary field sites[^c-fff612a91a368a634e7657b5bc87fa23]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fff612a91a368a634e7657b5bc87fa23]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2021/77/regulation/27) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-fff612a91a368a634e7657b5bc87fa23]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2021/77/regulation/27) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

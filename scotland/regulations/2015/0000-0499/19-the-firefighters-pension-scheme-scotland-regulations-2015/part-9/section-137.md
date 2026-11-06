@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Request to confirm details on certificate[^key-d32ace80cd248c3364bfa5ac0656836e]
+## 137. Request to confirm details on certificate[^c-d32ace80cd248c3364bfa5ac0656836e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a member has been provided with a certificate under regulation 136 (requir
 
 ## Annotations
 
-[^key-d32ace80cd248c3364bfa5ac0656836e]: Commencement: [Reg. 137](https://www.legislation.gov.uk/ssi/2015/19/regulation/137) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-d32ace80cd248c3364bfa5ac0656836e]: Commencement: [Reg. 137](https://www.legislation.gov.uk/ssi/2015/19/regulation/137) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

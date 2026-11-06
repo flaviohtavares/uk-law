@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Offence of smoking in smoke-free premises or vehicle[^key-fc2290f916e66c0fd889a88d6cf87330]
+## 5. Offence of smoking in smoke-free premises or vehicle[^c-fc2290f916e66c0fd889a88d6cf87330]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc2290f916e66c0fd889a88d6cf87330]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2017/2/section/5) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-fc2290f916e66c0fd889a88d6cf87330]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2017/2/section/5) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

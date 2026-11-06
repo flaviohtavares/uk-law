@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74.[^key-dc076866f0f4fbef4cf7b5d4f9c449d9]
+## 74.[^c-dc076866f0f4fbef4cf7b5d4f9c449d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ In Article 224—
 
 ## Annotations
 
-[^key-dc076866f0f4fbef4cf7b5d4f9c449d9]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dc076866f0f4fbef4cf7b5d4f9c449d9]: Commencement: Reg. 74 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23705961]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).

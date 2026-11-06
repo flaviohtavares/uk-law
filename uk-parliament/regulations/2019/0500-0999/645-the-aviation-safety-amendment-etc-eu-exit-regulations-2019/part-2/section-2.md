@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Amendment of the Civil Aviation Authority Regulations 1991[^key-75594ca4441ec6dc39c860f66bb9382c]
+## 2. Amendment of the Civil Aviation Authority Regulations 1991[^c-75594ca4441ec6dc39c860f66bb9382c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Civil Aviation Authority Regulations 1991[^f00002] are amended in accordance
 
 ## Annotations
 
-[^key-75594ca4441ec6dc39c860f66bb9382c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-75594ca4441ec6dc39c860f66bb9382c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1991/1672](https://www.legislation.gov.uk/uksi/1991/1672), amended by [S.I. 2001/2448](https://www.legislation.gov.uk/uksi/2001/2448) and [S.I. 2008/2683](https://www.legislation.gov.uk/uksi/2008/2683); there are other amending instruments but none is relevant.

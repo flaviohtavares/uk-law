@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Amendment of regulation F1[^key-5ea9caa4a8df7d3976bcde2aebaf5736]
+## 15. Amendment of regulation F1[^c-5ea9caa4a8df7d3976bcde2aebaf5736]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ea9caa4a8df7d3976bcde2aebaf5736]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-5ea9caa4a8df7d3976bcde2aebaf5736]: Commencement: Reg. 15 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00013]: Footnote: Paragraph (1) was amended by [S.I.2006/600](https://www.legislation.gov.uk/uksi/2006/600).

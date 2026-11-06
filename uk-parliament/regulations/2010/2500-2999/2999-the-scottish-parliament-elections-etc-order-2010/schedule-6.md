@@ -22,7 +22,7 @@ summary: ''
 
 Article
 
-### PART 1 — ELECTION OR RETURN OF CONSTITUENCY MEMBER[^key-96922f22f843b445c6179ab223ff59e8]
+### PART 1 — ELECTION OR RETURN OF CONSTITUENCY MEMBER[^c-96922f22f843b445c6179ab223ff59e8]
 
 | Provision applied | Modification |
 | --- | --- |
@@ -34,7 +34,7 @@ Article
 |  |  |
 | Section 123 (constitution of election court and place of trial) |  |
 |  |  |
-| Section 125 (judges’ expenses and reception: Scotland) | In paragraph (b) for “the Treasury out of moneys provided by Parliament” substitute “the Scottish Ministers out of the Scottish Consolidated Fund”.[^key-0561867e0db56c60a06cadb4e51bd08f] |
+| Section 125 (judges’ expenses and reception: Scotland) | In paragraph (b) for “the Treasury out of moneys provided by Parliament” substitute “the Scottish Ministers out of the Scottish Consolidated Fund”.[^c-0561867e0db56c60a06cadb4e51bd08f] |
 |  |  |
 | Section 126 (attendance of House of Commons shorthand writer) | In subsection (1) for the words from the beginning to “deputy” substitute “A shorthand writer”. |
 |  |  |
@@ -140,7 +140,7 @@ Article
 |  |  |
 | Section 186 (computation of time for purposes of Part 3) | The reference to “section 119 above” shall be construed as a reference to article 83 and the reference to “Part II of this Act” shall be construed as a reference to Part 3 of this Order. |
 
-### PART 2 — ELECTION OR RETURN OF REGIONAL MEMBER[^key-739b33fcb08ea7ea3b5de6a17f078c8b]
+### PART 2 — ELECTION OR RETURN OF REGIONAL MEMBER[^c-739b33fcb08ea7ea3b5de6a17f078c8b]
 
 <table>
 <thead>
@@ -277,14 +277,14 @@ Article
 </tbody>
 </table>
 
-[^key-2dba494b405bd384cb5816bc647cfd4f]
+[^c-2dba494b405bd384cb5816bc647cfd4f]
 
 ## Annotations
 
-[^key-96922f22f843b445c6179ab223ff59e8]: Commencement: Sch. 6 Pt. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-96922f22f843b445c6179ab223ff59e8]: Commencement: Sch. 6 Pt. 1 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-0561867e0db56c60a06cadb4e51bd08f]: Textual amendment: Words in [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2010/2999/schedule/6/part/1) table inserted (1.7.2015) by [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 (S.I. 2015/683)](https://www.legislation.gov.uk/uksi/2015/683), [arts. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1), [9](https://www.legislation.gov.uk/uksi/2015/683/article/9) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2015/683/article/3))
+[^c-0561867e0db56c60a06cadb4e51bd08f]: Textual amendment: Words in [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2010/2999/schedule/6/part/1) table inserted (1.7.2015) by [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 (S.I. 2015/683)](https://www.legislation.gov.uk/uksi/2015/683), [arts. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1), [9](https://www.legislation.gov.uk/uksi/2015/683/article/9) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2015/683/article/3))
 
-[^key-739b33fcb08ea7ea3b5de6a17f078c8b]: Commencement: Sch. 6 Pt. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-739b33fcb08ea7ea3b5de6a17f078c8b]: Commencement: Sch. 6 Pt. 2 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
-[^key-2dba494b405bd384cb5816bc647cfd4f]: Textual amendment: Words in [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2010/2999/schedule/6/part/2) table inserted (1.7.2015) by [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 (S.I. 2015/683)](https://www.legislation.gov.uk/uksi/2015/683), [arts. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1), [9](https://www.legislation.gov.uk/uksi/2015/683/article/9) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2015/683/article/3))
+[^c-2dba494b405bd384cb5816bc647cfd4f]: Textual amendment: Words in [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2010/2999/schedule/6/part/2) table inserted (1.7.2015) by [The Scotland Act 2012 (Saving and Consequential Provisions) Order 2015 (S.I. 2015/683)](https://www.legislation.gov.uk/uksi/2015/683), [arts. 1](https://www.legislation.gov.uk/uksi/2015/683/article/1), [9](https://www.legislation.gov.uk/uksi/2015/683/article/9) (with [arts. 3-9](https://www.legislation.gov.uk/uksi/2015/683/article/3))

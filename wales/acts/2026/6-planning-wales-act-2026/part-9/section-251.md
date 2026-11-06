@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 251. Injunction restraining breach of tree preservation provisions[^key-fa1e1503b95396b21c50ca906612c2a4]
+## 251. Injunction restraining breach of tree preservation provisions[^c-fa1e1503b95396b21c50ca906612c2a4]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa1e1503b95396b21c50ca906612c2a4]: Commencement: S. 251 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fa1e1503b95396b21c50ca906612c2a4]: Commencement: S. 251 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

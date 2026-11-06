@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73. Diminishing notional capital (applicants with an award of universal credit)[^key-8a272bfd5145cd234e84a380f45cbd34]
+## 73. Diminishing notional capital (applicants with an award of universal credit)[^c-8a272bfd5145cd234e84a380f45cbd34]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a272bfd5145cd234e84a380f45cbd34]: Commencement: [Reg. 73](https://www.legislation.gov.uk/ssi/2021/249/regulation/73) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-8a272bfd5145cd234e84a380f45cbd34]: Commencement: [Reg. 73](https://www.legislation.gov.uk/ssi/2021/249/regulation/73) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

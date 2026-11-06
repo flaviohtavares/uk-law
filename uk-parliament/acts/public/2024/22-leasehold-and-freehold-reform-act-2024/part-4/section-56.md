@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Accounts and annual reports[^key-d91bdefd3cd9d83dbd322535c505d5fe]
+## 56. Accounts and annual reports[^c-d91bdefd3cd9d83dbd322535c505d5fe]
 
 *Extent: E+W*
 
@@ -134,4 +134,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d91bdefd3cd9d83dbd322535c505d5fe]: Commencement: S. 56 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-d91bdefd3cd9d83dbd322535c505d5fe]: Commencement: S. 56 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Availability of fine: magistrates' court[^key-a54ba8cc347732911123091e04c81dc7]
+## 118. Availability of fine: magistrates' court[^c-a54ba8cc347732911123091e04c81dc7]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ and, for this purpose, “**enactment**” includes an enactment contained in a 
 
 ## Annotations
 
-[^key-a54ba8cc347732911123091e04c81dc7]: Commencement: S. 118 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-a54ba8cc347732911123091e04c81dc7]: Commencement: S. 118 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

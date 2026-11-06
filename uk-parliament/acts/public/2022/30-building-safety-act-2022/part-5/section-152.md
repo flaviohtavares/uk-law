@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Costs contribution orders: general definitions[^key-47d75ac74be5a3792d343c2f44dfa2d3]
+## 152. Costs contribution orders: general definitions[^c-47d75ac74be5a3792d343c2f44dfa2d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ In this section and sections 153 to 155—
 
 ## Annotations
 
-[^key-47d75ac74be5a3792d343c2f44dfa2d3]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2022/30/section/152) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)
+[^c-47d75ac74be5a3792d343c2f44dfa2d3]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2022/30/section/152) in force at 28.6.2022, see [s. 170(3)(e)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/e)

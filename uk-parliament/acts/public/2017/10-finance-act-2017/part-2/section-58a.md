@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58A. Isle of Man: import and export of chargeable soft drinks[^key-ca6a52338f7e40b7af75282860aa4b0c]
+## 58A. Isle of Man: import and export of chargeable soft drinks[^c-ca6a52338f7e40b7af75282860aa4b0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca6a52338f7e40b7af75282860aa4b0c]: Textual amendment: [S. 58A](https://www.legislation.gov.uk/ukpga/2017/10/section/58A) inserted (1.4.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/68/3)[(6)](https://www.legislation.gov.uk/ukpga/2019/1/section/68/6)
+[^c-ca6a52338f7e40b7af75282860aa4b0c]: Textual amendment: [S. 58A](https://www.legislation.gov.uk/ukpga/2017/10/section/58A) inserted (1.4.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 68(3)](https://www.legislation.gov.uk/ukpga/2019/1/section/68/3)[(6)](https://www.legislation.gov.uk/ukpga/2019/1/section/68/6)

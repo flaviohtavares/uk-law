@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168B. Time off for union equality representatives[^key-3aefcd8c10ef8351203fcabeb2f7c623]
+## 168B. Time off for union equality representatives[^c-3aefcd8c10ef8351203fcabeb2f7c623]
 
 *Extent: E+W+S*
 
@@ -83,4 +83,4 @@ as required by this section.
 
 ## Annotations
 
-[^key-3aefcd8c10ef8351203fcabeb2f7c623]: Textual amendment: [S. 168B](https://www.legislation.gov.uk/ukpga/1992/52/section/168B) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)
+[^c-3aefcd8c10ef8351203fcabeb2f7c623]: Textual amendment: [S. 168B](https://www.legislation.gov.uk/ukpga/1992/52/section/168B) inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 65(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/65/2), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(22)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/22)

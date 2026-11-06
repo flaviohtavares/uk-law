@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 627. Meaning of “main rate of corporation tax” for companies with ring fence profits or small profits[^key-9e70387921b006bc8547d739f668cadc]
+## 627. Meaning of “main rate of corporation tax” for companies with ring fence profits or small profits[^c-9e70387921b006bc8547d739f668cadc]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e70387921b006bc8547d739f668cadc]: Textual amendment: [S. 627](https://www.legislation.gov.uk/ukpga/2010/4/section/627) substituted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/29)
+[^c-9e70387921b006bc8547d739f668cadc]: Textual amendment: [S. 627](https://www.legislation.gov.uk/ukpga/2010/4/section/627) substituted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 29](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/29)

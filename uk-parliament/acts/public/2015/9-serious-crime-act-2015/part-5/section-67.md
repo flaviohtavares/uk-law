@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Sexual communication with a child[^key-df6ae747dc2769cb6cf4fa324357e7e7]
+## 67. Sexual communication with a child[^c-df6ae747dc2769cb6cf4fa324357e7e7]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ After section 15 of the Sexual Offences Act 2003 insert—
 
 ## Annotations
 
-[^key-df6ae747dc2769cb6cf4fa324357e7e7]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2015/9/section/67) in force at 3.4.2017 by [S.I. 2017/451](https://www.legislation.gov.uk/uksi/2017/451), [reg. 2](https://www.legislation.gov.uk/uksi/2017/451/regulation/2)
+[^c-df6ae747dc2769cb6cf4fa324357e7e7]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2015/9/section/67) in force at 3.4.2017 by [S.I. 2017/451](https://www.legislation.gov.uk/uksi/2017/451), [reg. 2](https://www.legislation.gov.uk/uksi/2017/451/regulation/2)

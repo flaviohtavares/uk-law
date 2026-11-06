@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. “Producer”, “production premises”, “group premises” etc[^M_I_146c1305-1800-4560-fae6-d47c81b07390][^key-8fc59b596be5adddfeeaa75efb510307]
+## 69. “Producer”, “production premises”, “group premises” etc[^M_I_146c1305-1800-4560-fae6-d47c81b07390][^c-8fc59b596be5adddfeeaa75efb510307]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ also produces alcoholic products on any other premises at the reference time or 
 
 [^M_I_146c1305-1800-4560-fae6-d47c81b07390]: Commencement: S. 69 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-8fc59b596be5adddfeeaa75efb510307]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/30/section/69) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-8fc59b596be5adddfeeaa75efb510307]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2023/30/section/69) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

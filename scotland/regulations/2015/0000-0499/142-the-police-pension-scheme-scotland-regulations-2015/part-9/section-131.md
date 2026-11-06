@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Annual rate of surviving adult’s pensions payable on death of active member[^key-93bc0a3cbfbf2d8312258be273b8dbfb]
+## 131. Annual rate of surviving adult’s pensions payable on death of active member[^c-93bc0a3cbfbf2d8312258be273b8dbfb]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93bc0a3cbfbf2d8312258be273b8dbfb]: Commencement: Reg. 131 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-93bc0a3cbfbf2d8312258be273b8dbfb]: Commencement: Reg. 131 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

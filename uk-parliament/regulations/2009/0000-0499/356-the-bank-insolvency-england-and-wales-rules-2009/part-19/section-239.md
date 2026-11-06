@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 239. Proxy–holder with financial interest[^key-2148e9f3ed980e2fca60e9dae2708425]
+## 239. Proxy–holder with financial interest[^c-2148e9f3ed980e2fca60e9dae2708425]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 8.6 of the 1986 Rules.
 
 ## Annotations
 
-[^key-2148e9f3ed980e2fca60e9dae2708425]: Commencement: Rule 239 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-2148e9f3ed980e2fca60e9dae2708425]: Commencement: Rule 239 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

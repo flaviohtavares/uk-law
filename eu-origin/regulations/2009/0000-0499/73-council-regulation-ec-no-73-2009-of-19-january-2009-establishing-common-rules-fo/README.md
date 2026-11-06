@@ -48,11 +48,11 @@ of 19 January 2009
 
 establishing common rules for direct support schemes for farmers under the common agricultural policy and establishing certain support schemes for farmers, amending Regulations (EC) No 1290/2005, (EC) No 247/2006, (EC) No 378/2007 and repealing Regulation (EC) No 1782/2003 (repealed)
 
-[^key-e50ed27e66fa7234372db7b1c921a8ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e50ed27e66fa7234372db7b1c921a8ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### TITLE I — SCOPE AND DEFINITIONS[^key-e50ed27e66fa7234372db7b1c921a8ee]
+### TITLE I — SCOPE AND DEFINITIONS[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,11 +60,11 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 2 — Definitions](section-article-2.md)
 - [Section Article 3 — Financing of direct payments](section-article-3.md)
 
-### TITLE II — GENERAL PROVISIONS ON DIRECT PAYMENTS[^key-e50ed27e66fa7234372db7b1c921a8ee]
+### TITLE II — GENERAL PROVISIONS ON DIRECT PAYMENTS[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Cross compliance[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 1 — Cross compliance[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 5 — Statutory management requirements](section-article-5.md)
 - [Section Article 6 — Good agricultural and environmental condition](section-article-6.md)
 
-#### CHAPTER 2 — Modulation and financial discipline[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 2 — Modulation and financial discipline[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,7 +91,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 11 — Financial discipline](section-article-11.md)
 - [Section Article 11a — Delegation of powers](section-article-11a.md)
 
-#### CHAPTER 3 — Farm advisory system[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 3 — Farm advisory system[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -100,7 +100,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 12 — Farm advisory system](section-article-12.md)
 - [Section Article 13 — Obligations of designated authorities and private bodies](section-article-13.md)
 
-#### CHAPTER 4 — Integrated administration and control system[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 4 — Integrated administration and control system[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,7 +119,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 26 — Compatibility of support schemes with the integrated system](section-article-26.md)
 - [Section Article 27 — Information and control](section-article-27.md)
 
-#### CHAPTER 5 — Other general provisions[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 5 — Other general provisions[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -131,11 +131,11 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 31 — Force majeure and exceptional circumstances](section-article-31.md)
 - [Section Article 32 — Review](section-article-32.md)
 
-### TITLE III — SINGLE PAYMENT SCHEME[^key-e50ed27e66fa7234372db7b1c921a8ee]
+### TITLE III — SINGLE PAYMENT SCHEME[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — General implementation[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 1 — General implementation[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -155,13 +155,13 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 44 — Conditions for special entitlements](section-article-44.md)
 - [Section Article 45 — Revision of payment entitlements](section-article-45.md)
 
-#### CHAPTER 2 — Regional and partial implementation[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 2 — Regional and partial implementation[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Section 1 — Regional implementation[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 1 — Regional implementation[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -173,7 +173,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 49 — Grassland](section-article-49.md)
 - [Section Article 50 — Conditions for the payment entitlements established under this Section](section-article-50.md)
 
-##### Section 2 — Partial implementation[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 2 — Partial implementation[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -184,7 +184,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 53 — Beef and veal payments](section-article-53.md)
 - [Section Article 54 — Transitional fruit and vegetables payments](section-article-54.md)
 
-#### CHAPTER 3 — Implementation in the new Member States having applied the single area payment scheme and in Croatia[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 3 — Implementation in the new Member States having applied the single area payment scheme and in Croatia[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -200,7 +200,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 61 — Grassland](section-article-61.md)
 - [Section Article 62 — Conditions for payment entitlements](section-article-62.md)
 
-#### CHAPTER 4 — Integration of coupled support into the single payment scheme[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 4 — Integration of coupled support into the single payment scheme[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -212,7 +212,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 66 — Optional integration of coupled support partially excluded from the single payment scheme](section-article-66.md)
 - [Section Article 67 — Advanced integration of coupled support into the single payment scheme](section-article-67.md)
 
-#### CHAPTER 5 — Specific support[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 5 — Specific support[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -224,7 +224,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 71 — Mutual funds for animal and plant diseases and environmental incidents](section-article-71.md)
 - [Section Article 72 — Transitional provisions](section-article-72.md)
 
-#### CHAPTER 5a — Redistributive payment in 2014[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 5a — Redistributive payment in 2014[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -233,17 +233,17 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 72a — General rules](section-article-72a.md)
 - [Section Article 72b — Financial provisions](section-article-72b.md)
 
-### TITLE IV — OTHER AID SCHEMES[^key-e50ed27e66fa7234372db7b1c921a8ee]
+### TITLE IV — OTHER AID SCHEMES[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Community aid schemes[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 1 — Community aid schemes[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### Section 1 — Crop specific payment for rice[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 1 — Crop specific payment for rice[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -254,7 +254,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 75 — Areas](section-article-75.md)
 - [Section Article 76 — Overrun of the areas](section-article-76.md)
 
-##### Section 2 — Aid for starch potato growers[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 2 — Aid for starch potato growers[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -263,7 +263,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 77 — Scope and amount of the aid](section-article-77.md)
 - [Section Article 78 — Conditions](section-article-78.md)
 
-##### Section 3 — Protein crop premium[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 3 — Protein crop premium[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -273,7 +273,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 80 — Amount and eligibility](section-article-80.md)
 - [Section Article 81 — Area](section-article-81.md)
 
-##### Section 4 — Area payment for nuts[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 4 — Area payment for nuts[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -285,7 +285,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 85 — Conditions for eligibility](section-article-85.md)
 - [Section Article 86 — National aid](section-article-86.md)
 
-##### Section 5 — Seed aid[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 5 — Seed aid[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -293,7 +293,7 @@ establishing common rules for direct support schemes for farmers under the commo
 
 - [Section Article 87 — Aid](section-article-87.md)
 
-##### Section 6 — Crop specific payment for cotton[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 6 — Crop specific payment for cotton[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -305,7 +305,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 91 — Approved inter-branch organisations](section-article-91.md)
 - [Section Article 92 — Payment of the aid](section-article-92.md)
 
-##### Section 7 — Aid for sugar beet and cane producers[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 7 — Aid for sugar beet and cane producers[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -315,7 +315,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 94 — Conditions](section-article-94.md)
 - [Section Article 95 — Amount of the aid](section-article-95.md)
 
-##### Section 8 — Transitional fruit and vegetables payments[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 8 — Transitional fruit and vegetables payments[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -324,7 +324,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 96 — Transitional area aids](section-article-96.md)
 - [Section Article 97 — Amount of the aid and eligibility](section-article-97.md)
 
-##### Section 9 — Transitional soft fruit payment[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 9 — Transitional soft fruit payment[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -332,7 +332,7 @@ establishing common rules for direct support schemes for farmers under the commo
 
 - [Section Article 98 — Soft fruit payment](section-article-98.md)
 
-##### Section 10 — Premiums in the sheepmeat and goatmeat sector[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 10 — Premiums in the sheepmeat and goatmeat sector[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -348,7 +348,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 106 — National reserve](section-article-106.md)
 - [Section Article 107 — Ceilings](section-article-107.md)
 
-##### Section 11 — Beef and veal payments[^key-e50ed27e66fa7234372db7b1c921a8ee]
+##### Section 11 — Beef and veal payments[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -367,7 +367,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 118 — Ceilings](section-article-118.md)
 - [Section Article 119 — Substances prohibited under Directive 96/22/EC](section-article-119.md)
 
-#### CHAPTER 2 — National aids[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 2 — National aids[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -375,11 +375,11 @@ establishing common rules for direct support schemes for farmers under the commo
 
 - [Section Article 120 — National aid for nuts](section-article-120.md)
 
-### TITLE V — IMPLEMENTATION OF DIRECT PAYMENTS IN THE NEW MEMBER STATES[^key-e50ed27e66fa7234372db7b1c921a8ee]
+### TITLE V — IMPLEMENTATION OF DIRECT PAYMENTS IN THE NEW MEMBER STATES[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — General provisions[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 1 — General provisions[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -387,7 +387,7 @@ establishing common rules for direct support schemes for farmers under the commo
 
 - [Section Article 121 — Introduction of direct payments](section-article-121.md)
 
-#### CHAPTER 1a — Single payment scheme[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 1a — Single payment scheme[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -395,7 +395,7 @@ establishing common rules for direct support schemes for farmers under the commo
 
 - [Section Article 121a — Single payment scheme in Croatia](section-article-121a.md)
 
-#### CHAPTER 2 — Single area payment scheme[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 2 — Single area payment scheme[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -406,7 +406,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 124 — Area under the single area payment scheme](section-article-124.md)
 - [Section Article 125 — Communication](section-article-125.md)
 
-#### CHAPTER 2a — Redistributive payment in 2014[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 2a — Redistributive payment in 2014[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -415,7 +415,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 125a — General rules](section-article-125a.md)
 - [Section Article 125b — Financial provisions](section-article-125b.md)
 
-#### CHAPTER 3 — Separate payments and specific support[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 3 — Separate payments and specific support[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -428,7 +428,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 130 — Common provisions for the separate payments](section-article-130.md)
 - [Section Article 131 — Specific support](section-article-131.md)
 
-#### CHAPTER 4 — Complementary national direct payments and direct payments[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 4 — Complementary national direct payments and direct payments[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -439,7 +439,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 133a — Transitional national aid in 2013](section-article-133a.md)
 - [Section Article 133b — Transitional national aid in 2014](section-article-133b.md)
 
-### TITLE VI — FINANCIAL TRANSFERS[^key-e50ed27e66fa7234372db7b1c921a8ee]
+### TITLE VI — FINANCIAL TRANSFERS[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -449,11 +449,11 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 136a — Flexibility between pillars](section-article-136a.md)
 - [Section Article 136b — Transfer to EAFRD](section-article-136b.md)
 
-### TITLE VII — IMPLEMENTING, TRANSITIONAL AND FINAL PROVISIONS[^key-e50ed27e66fa7234372db7b1c921a8ee]
+### TITLE VII — IMPLEMENTING, TRANSITIONAL AND FINAL PROVISIONS[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Implementing provisions[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 1 — Implementing provisions[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -469,7 +469,7 @@ establishing common rules for direct support schemes for farmers under the commo
 - [Section Article 141b — Committee procedure](section-article-141b.md)
 - [Section Article 142 — Implementing rules](section-article-142.md)
 
-#### CHAPTER 2 — Transitional and final provisions[^key-e50ed27e66fa7234372db7b1c921a8ee]
+#### CHAPTER 2 — Transitional and final provisions[^c-e50ed27e66fa7234372db7b1c921a8ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -512,8 +512,8 @@ establishing common rules for direct support schemes for farmers under the commo
 
 **May not be in force at this date. Check the source.**
 
-[^key-e50ed27e66fa7234372db7b1c921a8ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e50ed27e66fa7234372db7b1c921a8ee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e50ed27e66fa7234372db7b1c921a8ee]: Textual amendment: Repealed (with saving) by [Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation (EC) No 637/2008 and Council Regulation (EC) No 73/2009, Art. 72](https://www.legislation.gov.uk/eur/2013/1307) and, in so far as still in force, specified provisions revoked and amended (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/paragraph/1) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/paragraph/2))
+[^c-e50ed27e66fa7234372db7b1c921a8ee]: Textual amendment: Repealed (with saving) by [Regulation (EU) No 1307/2013 of the European Parliament and of the Council of 17 December 2013 establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy and repealing Council Regulation (EC) No 637/2008 and Council Regulation (EC) No 73/2009, Art. 72](https://www.legislation.gov.uk/eur/2013/1307) and, in so far as still in force, specified provisions revoked and amended (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/paragraph/1) (with [Sch. para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/paragraph/2))

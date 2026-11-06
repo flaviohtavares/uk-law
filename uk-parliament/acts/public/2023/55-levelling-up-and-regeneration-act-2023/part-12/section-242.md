@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Report on enforcement of the Vagrancy Act 1824[^key-833cebde5623a4d691d601ebe2bc7179]
+## 242. Report on enforcement of the Vagrancy Act 1824[^c-833cebde5623a4d691d601ebe2bc7179]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-833cebde5623a4d691d601ebe2bc7179]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2023/55/section/242) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-833cebde5623a4d691d601ebe2bc7179]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2023/55/section/242) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

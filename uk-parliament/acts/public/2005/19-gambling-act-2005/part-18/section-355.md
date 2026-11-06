@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 355. Regulations, orders and rules[^key-6792a06e9e1fc490f1874fe3b09462eb]
+## 355. Regulations, orders and rules[^c-6792a06e9e1fc490f1874fe3b09462eb]
 
 *Extent: E+W+S*
 
-(1) Regulations or rules under this Act, or an order of the Secretary of State , the Welsh Ministers[^key-7680fd090fa3711982a87b56345b1885] or the Scottish Ministers[^key-561b6ffa45a632330030f01a54ec7284] under this Act—
+(1) Regulations or rules under this Act, or an order of the Secretary of State , the Welsh Ministers[^c-7680fd090fa3711982a87b56345b1885] or the Scottish Ministers[^c-561b6ffa45a632330030f01a54ec7284] under this Act—
 
 - (a) may make provision which applies generally or only for specified purposes or in specified cases or circumstances,
 - (b) may make different provision for different purposes, cases or circumstances, and
@@ -28,7 +28,7 @@ summary: ''
 
 (2) A provision of this Act which permits regulations, rules or an order to make provision of a specified kind is without prejudice to the generality of subsection (1).
 
-(3) Regulations or rules under this Act, or an order of the Secretary of State or the Welsh Ministers[^key-7f2ec3d0e5ab952419e67412f21ee32e] under this Act, shall be made by statutory instrument.
+(3) Regulations or rules under this Act, or an order of the Secretary of State or the Welsh Ministers[^c-7f2ec3d0e5ab952419e67412f21ee32e] under this Act, shall be made by statutory instrument.
 
 (4) Regulations under any of the following provisions shall not be made by the Secretary of State unless a draft has been laid before and approved by resolution of each House of Parliament—
 
@@ -54,9 +54,9 @@ summary: ''
 - (a) an order under section 358(1) which includes provision made by virtue of section 358(4) or by virtue of Part 1 of Schedule 18 shall be subject to annulment in pursuance of a resolution of either House of Parliament, and
 - (b) an order under section 358(5) or (6) shall not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
 
-(8A)[^key-4fbdec097bcd00ae679f9553512d8678] An order of the Welsh Ministers under section 172 shall not be made unless a draft has been laid before and approved by resolution of the National Assembly for Wales.
+(8A)[^c-4fbdec097bcd00ae679f9553512d8678] An order of the Welsh Ministers under section 172 shall not be made unless a draft has been laid before and approved by resolution of the National Assembly for Wales.
 
-(9)[^key-13a7575fcf4c7a4e979924061acbb3c1] Subsection (3) does not apply to regulations made by the Scottish Ministers (see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010: functions exercisable by Scottish statutory instrument).
+(9)[^c-13a7575fcf4c7a4e979924061acbb3c1] Subsection (3) does not apply to regulations made by the Scottish Ministers (see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010: functions exercisable by Scottish statutory instrument).
 
 (10) Regulations made by the Scottish Ministers under a provision specified in subsection (4), or under section 285, and an order made by the Scottish Ministers under section 172, shall be subject to the affirmative procedure.
 
@@ -64,14 +64,14 @@ summary: ''
 
 ## Annotations
 
-[^key-6792a06e9e1fc490f1874fe3b09462eb]: Commencement: S. 355 in force at 28.8.2005 by [S.I. 2005/2425](https://www.legislation.gov.uk/uksi/2005/2425), [art. 2](https://www.legislation.gov.uk/uksi/2005/2425/article/2)
+[^c-6792a06e9e1fc490f1874fe3b09462eb]: Commencement: S. 355 in force at 28.8.2005 by [S.I. 2005/2425](https://www.legislation.gov.uk/uksi/2005/2425), [art. 2](https://www.legislation.gov.uk/uksi/2005/2425/article/2)
 
-[^key-7680fd090fa3711982a87b56345b1885]: Textual amendment: Words in [s. 355(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/355/1) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 58(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/2/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [s. 58(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/3), [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-7680fd090fa3711982a87b56345b1885]: Textual amendment: Words in [s. 355(1)](https://www.legislation.gov.uk/ukpga/2005/19/section/355/1) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 58(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/2/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [s. 58(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/3), [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
 
-[^key-561b6ffa45a632330030f01a54ec7284]: Textual amendment: Words in s. 355(1) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 52(5)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/52/5/a), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7) (with [s. 52(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/52/6))
+[^c-561b6ffa45a632330030f01a54ec7284]: Textual amendment: Words in s. 355(1) inserted (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 52(5)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/52/5/a), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7) (with [s. 52(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/52/6))
 
-[^key-7f2ec3d0e5ab952419e67412f21ee32e]: Textual amendment: Words in [s. 355(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/355/3) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 58(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/2/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [s. 58(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/3), [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-7f2ec3d0e5ab952419e67412f21ee32e]: Textual amendment: Words in [s. 355(3)](https://www.legislation.gov.uk/ukpga/2005/19/section/355/3) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 58(2)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/2/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [s. 58(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/3), [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
 
-[^key-4fbdec097bcd00ae679f9553512d8678]: Textual amendment: [S. 355(8A)](https://www.legislation.gov.uk/ukpga/2005/19/section/355/8A) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 58(2)(c)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/2/c), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [s. 58(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/3), [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-4fbdec097bcd00ae679f9553512d8678]: Textual amendment: [S. 355(8A)](https://www.legislation.gov.uk/ukpga/2005/19/section/355/8A) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 58(2)(c)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/2/c), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [s. 58(3)](https://www.legislation.gov.uk/ukpga/2017/4/section/58/3), [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
 
-[^key-13a7575fcf4c7a4e979924061acbb3c1]: Textual amendment: S. 355(9)-(11) substituted for s. 355(9)(10) (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 52(5)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/52/5/b), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7) (with [s. 52(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/52/6))
+[^c-13a7575fcf4c7a4e979924061acbb3c1]: Textual amendment: S. 355(9)-(11) substituted for s. 355(9)(10) (23.5.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 52(5)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/52/5/b), [72(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/7) (with [s. 52(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/52/6))

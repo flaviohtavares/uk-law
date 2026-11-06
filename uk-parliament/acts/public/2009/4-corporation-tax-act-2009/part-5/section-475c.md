@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 475C. Meaning of “hybrid capital instrument”[^key-6f4dfcdd0ca254bd6a1dc5fe7ad69eb1][^key-414b9cba7997aaa90ec30cb897fea225]
+## 475C. Meaning of “hybrid capital instrument”[^c-6f4dfcdd0ca254bd6a1dc5fe7ad69eb1][^c-414b9cba7997aaa90ec30cb897fea225]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,9 +45,9 @@ summary: ''
 (5) For the purposes of subsection (2) a “conversion event” means—
 
 - (a) the conversion of the loan relationship into shares forming part of the debtor’s ordinary share capital, or
-- (b) the conversion of the loan relationship into shares forming part of the ordinary share capital of a company (“C”) which, after the conversion, has control of the debtor or would have control of the debtor if C were taken to have all the rights and interests in the debtor of any company connected with C[^key-9fe43cb0aac4ee8363f63a8f36b5648e].
+- (b) the conversion of the loan relationship into shares forming part of the ordinary share capital of a company (“C”) which, after the conversion, has control of the debtor or would have control of the debtor if C were taken to have all the rights and interests in the debtor of any company connected with C[^c-9fe43cb0aac4ee8363f63a8f36b5648e].
 
-[^key-704b3e913f8a78630da3358883ead130]...
+[^c-704b3e913f8a78630da3358883ead130]...
 
 (6) For the purposes of subsection (2), a loan relationship makes provision for a qualifying case if—
 
@@ -62,7 +62,7 @@ and, in each case, the provision in question does not include a right exercisabl
 (8) An election under this section—
 
 - (a) is irrevocable,
-- (b)[^key-a5c9b87d0487f6d35da079a2fb5eed2d] must be made before the end of the period of 6 months beginning with—
+- (b)[^c-a5c9b87d0487f6d35da079a2fb5eed2d] must be made before the end of the period of 6 months beginning with—
   - (i) the day on which the company becomes a party to the loan relationship, or
   - (ii) if (after becoming a party to the loan relationship) the loan relationship is amended so as to meet the conditions in subsection (1)(a) and (b), the first day of the company’s next accounting period, and
 - (c) has effect for the accounting period in which the day mentioned in paragraph (b)(i) or (ii) falls and for subsequent accounting periods.
@@ -74,12 +74,12 @@ and, in each case, the provision in question does not include a right exercisabl
 
 ## Annotations
 
-[^key-6f4dfcdd0ca254bd6a1dc5fe7ad69eb1]: Modification: S. 475C: power to amend conferred (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 19(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/19/1)
+[^c-6f4dfcdd0ca254bd6a1dc5fe7ad69eb1]: Modification: S. 475C: power to amend conferred (12.2.2019) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 19(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/19/1)
 
-[^key-414b9cba7997aaa90ec30cb897fea225]: Textual amendment: S. 475C and cross-heading inserted (with effect in accordance with Sch. 20 paras. 10(a), 16 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 3(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/3/1) (with [Sch. 20 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/3/2), [19](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/19))
+[^c-414b9cba7997aaa90ec30cb897fea225]: Textual amendment: S. 475C and cross-heading inserted (with effect in accordance with Sch. 20 paras. 10(a), 16 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 3(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/3/1) (with [Sch. 20 paras. 3(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/3/2), [19](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/19))
 
-[^key-9fe43cb0aac4ee8363f63a8f36b5648e]: Textual amendment: Words in s. 475C(5)(b) substituted (retrospectively) by [The Taxation of Hybrid Capital Instruments (Amendment of Section 475C of the Corporation Tax Act 2009) Regulations 2019 (S.I. 2019/1250)](https://www.legislation.gov.uk/uksi/2019/1250), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/1/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/2))
+[^c-9fe43cb0aac4ee8363f63a8f36b5648e]: Textual amendment: Words in s. 475C(5)(b) substituted (retrospectively) by [The Taxation of Hybrid Capital Instruments (Amendment of Section 475C of the Corporation Tax Act 2009) Regulations 2019 (S.I. 2019/1250)](https://www.legislation.gov.uk/uksi/2019/1250), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/1/2), [2(1)(a)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/1/a) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/2))
 
-[^key-704b3e913f8a78630da3358883ead130]: Textual amendment: Words in s. 475C(5) omitted (retrospectively) by virtue of [The Taxation of Hybrid Capital Instruments (Amendment of Section 475C of the Corporation Tax Act 2009) Regulations 2019 (S.I. 2019/1250)](https://www.legislation.gov.uk/uksi/2019/1250), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/1/b) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/2))
+[^c-704b3e913f8a78630da3358883ead130]: Textual amendment: Words in s. 475C(5) omitted (retrospectively) by virtue of [The Taxation of Hybrid Capital Instruments (Amendment of Section 475C of the Corporation Tax Act 2009) Regulations 2019 (S.I. 2019/1250)](https://www.legislation.gov.uk/uksi/2019/1250), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/1/2), [2(1)(b)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/1/b) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/2))
 
-[^key-a5c9b87d0487f6d35da079a2fb5eed2d]: Textual amendment: S. 475C(8)(b)(c) substituted (retrospectively) by [The Taxation of Hybrid Capital Instruments (Amendment of Section 475C of the Corporation Tax Act 2009) Regulations 2019 (S.I. 2019/1250)](https://www.legislation.gov.uk/uksi/2019/1250), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1250/regulation/3) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/2))
+[^c-a5c9b87d0487f6d35da079a2fb5eed2d]: Textual amendment: S. 475C(8)(b)(c) substituted (retrospectively) by [The Taxation of Hybrid Capital Instruments (Amendment of Section 475C of the Corporation Tax Act 2009) Regulations 2019 (S.I. 2019/1250)](https://www.legislation.gov.uk/uksi/2019/1250), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2019/1250/regulation/3) (with [reg. 2(2)](https://www.legislation.gov.uk/uksi/2019/1250/regulation/2/2))

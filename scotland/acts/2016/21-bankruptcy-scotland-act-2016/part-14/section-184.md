@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 184. Protected trust deed: discharge of debtor[^key-25d815a2a2b815d2406315b35e4f129f]
+## 184. Protected trust deed: discharge of debtor[^c-25d815a2a2b815d2406315b35e4f129f]
 
 *Extent: S*
 
@@ -58,7 +58,7 @@ summary: ''
 - (a) consent to the sale of the debtor's dwellinghouse (or of a part of that dwellinghouse) if the dwellinghouse or part is excluded, as mentioned in paragraph (b)(i) of the trust deed definition, from the estate conveyed to the trustee,
 - (b) give a relevant consent in terms of section 113(1)(a).
 
-(8)[^key-571f30fede96d29f679ab6bb1ec30c93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-571f30fede96d29f679ab6bb1ec30c93] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) AiB may refuse to register under subsection (3) an application sent under subsection (1)(b)(i) if not satisfied that the debtor has—
 
@@ -71,6 +71,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25d815a2a2b815d2406315b35e4f129f]: Commencement: [S. 184](https://www.legislation.gov.uk/asp/2016/21/section/184) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-25d815a2a2b815d2406315b35e4f129f]: Commencement: [S. 184](https://www.legislation.gov.uk/asp/2016/21/section/184) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-571f30fede96d29f679ab6bb1ec30c93]: Textual amendment: [S. 184(8)](https://www.legislation.gov.uk/asp/2016/21/section/184/8) omitted (1.7.2024) by virtue of [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/5/3)
+[^c-571f30fede96d29f679ab6bb1ec30c93]: Textual amendment: [S. 184(8)](https://www.legislation.gov.uk/asp/2016/21/section/184/8) omitted (1.7.2024) by virtue of [The Protected Trust Deeds (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/198)](https://www.legislation.gov.uk/ssi/2024/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/198/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2024/198/regulation/5/3)

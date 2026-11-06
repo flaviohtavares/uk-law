@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.19.19. Application for discharge of administrator[^key-c9fc3a292a1255ef56b6f6bd259ab867]
+## 3.19.19. Application for discharge of administrator[^c-c9fc3a292a1255ef56b6f6bd259ab867]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ An application to the sheriff for discharge of an administrator shall be made by
 
 ## Annotations
 
-[^key-c9fc3a292a1255ef56b6f6bd259ab867]: Textual amendment: Rules 3.19.6 –3.19.20 and cross-heading inserted (24.3.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 6) (Proceeds of Crime Act 2002) 2003 (S.S.I. 2003/98)](https://www.legislation.gov.uk/ssi/2003/98), [paras. 1(1)(b)(i)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/1/1/b/i), [2(2)(b)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/2/2/b)
+[^c-c9fc3a292a1255ef56b6f6bd259ab867]: Textual amendment: Rules 3.19.6 –3.19.20 and cross-heading inserted (24.3.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (No. 6) (Proceeds of Crime Act 2002) 2003 (S.S.I. 2003/98)](https://www.legislation.gov.uk/ssi/2003/98), [paras. 1(1)(b)(i)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/1/1/b/i), [2(2)(b)](https://www.legislation.gov.uk/ssi/2003/98/paragraph/2/2/b)

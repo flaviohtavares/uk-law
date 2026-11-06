@@ -48,13 +48,13 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of sec
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and by section 74 of the Energy Act 2011[^f00003].
 
-## 1. Citation, commencement and extent[^key-100e1ba1a868209c02bc2dc8cb7debb8]
+## 1. Citation, commencement and extent[^c-100e1ba1a868209c02bc2dc8cb7debb8]
 
 (1) These Regulations may be cited as the Energy Performance of Buildings (England and Wales) (Amendment) Regulations 2015 and come into force on 6th April 2015.
 
 (2) These Regulations extend to England and Wales only.
 
-## 2. Amendment of the Energy Performance of Buildings (England and Wales) Regulations 2012[^key-819b419832d1a878f7ae46e6803792c2]
+## 2. Amendment of the Energy Performance of Buildings (England and Wales) Regulations 2012[^c-819b419832d1a878f7ae46e6803792c2]
 
 (1) The Energy Performance of Buildings (England and Wales) Regulations 2012[^f00004] are amended as follows.
 
@@ -235,9 +235,9 @@ An impact assessment has not been produced for this instrument as it does not in
 
 [^f00003]: Footnote: [2011 c.16](https://www.legislation.gov.uk/ukpga/2011/16).
 
-[^key-100e1ba1a868209c02bc2dc8cb7debb8]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1)
+[^c-100e1ba1a868209c02bc2dc8cb7debb8]: Commencement: Reg. 1 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1)
 
-[^key-819b419832d1a878f7ae46e6803792c2]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1)
+[^c-819b419832d1a878f7ae46e6803792c2]: Commencement: Reg. 2 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/609/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2012/3118](https://www.legislation.gov.uk/uksi/2012/3118). Relevant amendments have been made by [S.I. 2013/10](https://www.legislation.gov.uk/uksi/2013/10) and [S.I. 2014/880](https://www.legislation.gov.uk/uksi/2014/880). There are other amendments to the 2012 Regulations which are not relevant to this instrument.
 

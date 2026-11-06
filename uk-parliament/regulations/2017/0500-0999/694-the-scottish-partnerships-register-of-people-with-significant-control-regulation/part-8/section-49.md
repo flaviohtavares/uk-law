@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Application by an eligible Scottish partnership requiring the registrar to refrain from ... disclosing an individual's secured information[^key-78925959d825e771fc12a6156e01ca39]
+## 49. Application by an eligible Scottish partnership requiring the registrar to refrain from ... disclosing an individual's secured information[^c-78925959d825e771fc12a6156e01ca39]
 
 *Extent: E+W+S+N.I.*
 
-(1) An eligible Scottish partnership (“**the applicant**”) may make an application to the registrar requiring the registrar to refrain from [^key-2fce0745b4c02158c24f7877002e1465]... disclosing secured information relating to an individual (“S”) who—
+(1) An eligible Scottish partnership (“**the applicant**”) may make an application to the registrar requiring the registrar to refrain from [^c-2fce0745b4c02158c24f7877002e1465]... disclosing secured information relating to an individual (“S”) who—
 
 - (a) is a registrable person;
 - (b) proposes to become a registrable person; or
@@ -57,6 +57,6 @@ will put S or a person living with S at serious risk of being subjected to viole
 
 ## Annotations
 
-[^key-78925959d825e771fc12a6156e01ca39]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/uksi/2017/694/regulation/49) heading omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(8)(a)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/8/a)
+[^c-78925959d825e771fc12a6156e01ca39]: Textual amendment: Words in [reg. 49](https://www.legislation.gov.uk/uksi/2017/694/regulation/49) heading omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(8)(a)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/8/a)
 
-[^key-2fce0745b4c02158c24f7877002e1465]: Textual amendment: Words in [reg. 49(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/49/1) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(8)(b)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/8/b)
+[^c-2fce0745b4c02158c24f7877002e1465]: Textual amendment: Words in [reg. 49(1)](https://www.legislation.gov.uk/uksi/2017/694/regulation/49/1) omitted (21.3.2024) by virtue of [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 8(8)(b)](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/8/8/b)

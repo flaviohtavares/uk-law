@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Meaning of “development”[^key-ef553f0266d9503da7151a2dd19ef9c5]
+## 32. Meaning of “development”[^c-ef553f0266d9503da7151a2dd19ef9c5]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ This is subject to subsections (2) and (3).
 
 ## Annotations
 
-[^key-ef553f0266d9503da7151a2dd19ef9c5]: Commencement: S. 32 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/101/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-ef553f0266d9503da7151a2dd19ef9c5]: Commencement: S. 32 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(c)](https://www.legislation.gov.uk/uksi/2010/101/article/3/c) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

@@ -139,7 +139,7 @@ summary: ''
 
 .
 
-(4)[^key-688311a8cb0994f10bf8b5f0eb8dc9b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-688311a8cb0994f10bf8b5f0eb8dc9b6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The amendments made by this section have effect in relation to any disposal made on or after 5th December 2005.
 
@@ -147,4 +147,4 @@ summary: ''
 
 ## Annotations
 
-[^key-688311a8cb0994f10bf8b5f0eb8dc9b6]: Textual amendment: [S. 84(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/84/4) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(6)(c)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/6/c)
+[^c-688311a8cb0994f10bf8b5f0eb8dc9b6]: Textual amendment: [S. 84(4)](https://www.legislation.gov.uk/ukpga/2006/25/section/84/4) omitted (21.7.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 126(6)(c)](https://www.legislation.gov.uk/ukpga/2009/10/section/126/6/c)

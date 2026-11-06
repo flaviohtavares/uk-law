@@ -32,7 +32,7 @@ summary: ''
 
 Road Traffic, England
 
-The Civil Enforcement of Parking Contraventions (County of Oxfordshire) (District of West Oxfordshire) Designation Order 2009 (revoked)[^key-51b7b3448d065df055f95adde629822f]
+The Civil Enforcement of Parking Contraventions (County of Oxfordshire) (District of West Oxfordshire) Designation Order 2009 (revoked)[^c-51b7b3448d065df055f95adde629822f]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 25th January 2010
 
-[^key-51b7b3448d065df055f95adde629822f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51b7b3448d065df055f95adde629822f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-51b7b3448d065df055f95adde629822f]
+## 1. Citation and commencement[^c-51b7b3448d065df055f95adde629822f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of civil enforcement area and special enforcement area[^key-51b7b3448d065df055f95adde629822f]
+## 2. Designation of civil enforcement area and special enforcement area[^c-51b7b3448d065df055f95adde629822f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51b7b3448d065df055f95adde629822f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51b7b3448d065df055f95adde629822f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-51b7b3448d065df055f95adde629822f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51b7b3448d065df055f95adde629822f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51b7b3448d065df055f95adde629822f]: Textual amendment: Order revoked (1.11.2021) by [The Civil Enforcement of Parking Contraventions Designation Order 2021 (S.I. 2021/1125)](https://www.legislation.gov.uk/uksi/2021/1125), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2021/1125/article/5/c)
+[^c-51b7b3448d065df055f95adde629822f]: Textual amendment: Order revoked (1.11.2021) by [The Civil Enforcement of Parking Contraventions Designation Order 2021 (S.I. 2021/1125)](https://www.legislation.gov.uk/uksi/2021/1125), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1125/article/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2021/1125/article/5/c)

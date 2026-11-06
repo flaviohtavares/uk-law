@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Application of section 17 to internet service providers[^key-0e26da2b88e86ea1930708a58dd61629][^key-3efdfe81ac779c7c46fd7c68c49c8747]
+## 18. Application of section 17 to internet service providers[^c-0e26da2b88e86ea1930708a58dd61629][^c-3efdfe81ac779c7c46fd7c68c49c8747]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e26da2b88e86ea1930708a58dd61629]: Commencement: S. 18 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-0e26da2b88e86ea1930708a58dd61629]: Commencement: S. 18 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-3efdfe81ac779c7c46fd7c68c49c8747]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2025/31/section/18) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/a)
+[^c-3efdfe81ac779c7c46fd7c68c49c8747]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2025/31/section/18) in force at 2.2.2026 by [S.I. 2026/59](https://www.legislation.gov.uk/uksi/2026/59), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/59/regulation/2/a)

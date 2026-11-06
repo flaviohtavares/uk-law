@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-5aab0f7fc6771314257e76589ff40a9a]
+## 2. Interpretation[^c-5aab0f7fc6771314257e76589ff40a9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In these Regulations—
 
 ## Annotations
 
-[^key-5aab0f7fc6771314257e76589ff40a9a]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-5aab0f7fc6771314257e76589ff40a9a]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c23642301]: Marginal citation: The Security of Supply Regulation is amended by [S.I. 2018/1286](https://www.legislation.gov.uk/uksi/2018/1286).

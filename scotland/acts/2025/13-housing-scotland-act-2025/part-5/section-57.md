@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Social landlords: policies about supporting tenants affected by domestic abuse[^key-6f5a11d8a0a62be14848165f1646ece0]
+## 57. Social landlords: policies about supporting tenants affected by domestic abuse[^c-6f5a11d8a0a62be14848165f1646ece0]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f5a11d8a0a62be14848165f1646ece0]: Commencement: S. 57 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)
+[^c-6f5a11d8a0a62be14848165f1646ece0]: Commencement: S. 57 not in force at Royal Assent, see [s. 86(2)(3)](https://www.legislation.gov.uk/asp/2025/13/section/86/2/3)

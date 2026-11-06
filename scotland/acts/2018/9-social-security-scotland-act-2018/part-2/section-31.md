@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Disability assistance[^key-6ff9534cd4cc0504328c196f59c4722c][^key-97ad6732550974bf5968dc0a59ccef64]
+## 31. Disability assistance[^c-6ff9534cd4cc0504328c196f59c4722c][^c-97ad6732550974bf5968dc0a59ccef64]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6ff9534cd4cc0504328c196f59c4722c]: Commencement: S. 31 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/a)
+[^c-6ff9534cd4cc0504328c196f59c4722c]: Commencement: S. 31 in force at 8.10.2020 by [S.S.I. 2020/295](https://www.legislation.gov.uk/ssi/2020/295), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/295/regulation/2/a)
 
-[^key-97ad6732550974bf5968dc0a59ccef64]: Modification: [S. 31](https://www.legislation.gov.uk/asp/2018/9/section/31) modified (26.7.2021) by 1984 c. 51, s. 89A(5)(d) (as inserted by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/886/article/2/2/a/iii))
+[^c-97ad6732550974bf5968dc0a59ccef64]: Modification: [S. 31](https://www.legislation.gov.uk/asp/2018/9/section/31) modified (26.7.2021) by 1984 c. 51, s. 89A(5)(d) (as inserted by [The Social Security (Scotland) Act 2018 (Disability Assistance, Young Carer Grants, Short-term Assistance and Winter Heating Assistance) (Consequential Provision and Modifications) Order 2021 (S.I. 2021/886)](https://www.legislation.gov.uk/uksi/2021/886), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/886/article/1/2), [2(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/886/article/2/2/a/iii))

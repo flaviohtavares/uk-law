@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Absent vote at a particular Senedd election[^key-6f39b2a87a559bd5d609fbd5d9bd6ba8]
+## 7. Absent vote at a particular Senedd election[^c-6f39b2a87a559bd5d609fbd5d9bd6ba8]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ if that person is shown in that record as voting by post at Senedd elections.
 
 ## Annotations
 
-[^key-6f39b2a87a559bd5d609fbd5d9bd6ba8]: Commencement: Art. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-6f39b2a87a559bd5d609fbd5d9bd6ba8]: Commencement: Art. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

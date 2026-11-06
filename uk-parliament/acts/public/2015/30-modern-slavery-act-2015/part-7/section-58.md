@@ -41,7 +41,7 @@ summary: ''
 - (h) regulations under section 52(6) which remove a public authority from section 52(5), other than in consequence of the authority having ceased to exist;
 - (i) regulations under section 54(2) (minimum turnover for application of section 54);
 - (j) the first regulations under section 54(3) (definition of turnover for purposes of section 54);
-- (ja)[^key-e3d407f7ca295a7ec4a23941f1ab42e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ja)[^c-e3d407f7ca295a7ec4a23941f1ab42e3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (k) regulations under section 57(2) (consequential provision) which amend, or repeal any provision of, an Act.
 
 (5) Regulations made by the Scottish Ministers under section 43(7)—
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3d407f7ca295a7ec4a23941f1ab42e3]: Textual amendment: [S. 58(4)(ja)](https://www.legislation.gov.uk/ukpga/2015/30/section/58/4/ja) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 84(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/84/4) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)
+[^c-e3d407f7ca295a7ec4a23941f1ab42e3]: Textual amendment: [S. 58(4)(ja)](https://www.legislation.gov.uk/ukpga/2015/30/section/58/4/ja) omitted (7.4.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3), [Sch. 10 para. 84(4)](https://www.legislation.gov.uk/ukpga/2025/36/schedule/10/paragraph/84/4) (with [s. 147](https://www.legislation.gov.uk/ukpga/2025/36/section/147), [Sch. 11](https://www.legislation.gov.uk/ukpga/2025/36/schedule/11)); [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)(55)(e)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/55/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Calculation of “retirement index adjustment”[^key-65daa8cc9cf9488f4ebbb6e65ee5f033]
+## 33. Calculation of “retirement index adjustment”[^c-65daa8cc9cf9488f4ebbb6e65ee5f033]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ where—
 
 ## Annotations
 
-[^key-65daa8cc9cf9488f4ebbb6e65ee5f033]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-65daa8cc9cf9488f4ebbb6e65ee5f033]: Commencement: Reg. 33 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

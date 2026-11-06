@@ -22,9 +22,9 @@ summary: ''
 
 Section 117
 
-**1.**[^key-0ea995d5b110149e662efdad4f8c79e6][^key-64b4f81b8ed6d1500ecaf66b82dbadd1][^key-6afe66374cdd23b0715ef1dd6de30bd3] The Defence Reform Act 2014 is amended as follows.
+**1.**[^c-0ea995d5b110149e662efdad4f8c79e6][^c-64b4f81b8ed6d1500ecaf66b82dbadd1][^c-6afe66374cdd23b0715ef1dd6de30bd3] The Defence Reform Act 2014 is amended as follows.
 
-### 2. Definition of qualifying defence contract[^key-2c0fbd9a2f9f34ee82b1d4c7353acc00][^key-f52a8e53985a4687d163630f8ccd1d6c]
+### 2. Definition of qualifying defence contract[^c-2c0fbd9a2f9f34ee82b1d4c7353acc00][^c-f52a8e53985a4687d163630f8ccd1d6c]
 
 (1) Section 14 (regulations relating to qualifying defence contracts) is amended as follows.
 
@@ -38,7 +38,7 @@ Section 117
 
 > (8A) The regulations may also specify when a contract is to be treated as substantially for defence purposes.
 
-### 3. Pricing of qualifying defence contracts[^key-693060e7028c85fd2ec63ef45b135383][^key-964738bc051d1ca7aeb91fc55c9ce409]
+### 3. Pricing of qualifying defence contracts[^c-693060e7028c85fd2ec63ef45b135383][^c-964738bc051d1ca7aeb91fc55c9ce409]
 
 (1) Section 15 (pricing of qualifying defence contracts) is amended as follows.
 
@@ -80,7 +80,7 @@ Section 117
 >
 > (8) Single source contract regulations may make provision about when parts of a qualifying defence contract are or are not to be treated distinctly from other parts of the same contract.
 
-**4.**[^key-520bbf562419fd424c0c0b6894c684dc][^key-3e9b43bae752bf11adf94df903c58fdb] (1) Section 16 (pricing of contracts: supplementary) is amended as follows.
+**4.**[^c-520bbf562419fd424c0c0b6894c684dc][^c-3e9b43bae752bf11adf94df903c58fdb] (1) Section 16 (pricing of contracts: supplementary) is amended as follows.
 
 (2) In subsection (1)(b)(i), after “contract” insert “or, where relevant, a component of that contract”.
 
@@ -97,13 +97,13 @@ Section 117
 > - (b) an authorised person, and
 > - (c) the primary contractor.
 
-**5.**[^key-83717c8aadfedfee358e9bff861227c4][^key-ae7f44471920681541b0780bf11aa4c7] After section 21(2) (final price adjustment) insert—
+**5.**[^c-83717c8aadfedfee358e9bff861227c4][^c-ae7f44471920681541b0780bf11aa4c7] After section 21(2) (final price adjustment) insert—
 
 > (2A) Provision made under subsection (2) may include provision dealing with how, in the case of a qualifying defence contract divided into components, the components are to be taken into account in determining the amount of any adjustments to the total price payable under such a contract.
 
-**6.**[^key-71b51ab538fbf767814d79d217764dfc][^key-8bf759074ecc8ecba7e066d5ed98e36d] In section 22(1)(a) (recovery of unpaid amounts), after “section” insert “16(4),”.
+**6.**[^c-71b51ab538fbf767814d79d217764dfc][^c-8bf759074ecc8ecba7e066d5ed98e36d] In section 22(1)(a) (recovery of unpaid amounts), after “section” insert “16(4),”.
 
-**7.**[^key-1d665e48714d2c262186fd781d599cfd][^key-82d07701186be4990367d698fc345069] (1) Section 42 (single source contract regulations: general) is amended as follows.
+**7.**[^c-1d665e48714d2c262186fd781d599cfd][^c-82d07701186be4990367d698fc345069] (1) Section 42 (single source contract regulations: general) is amended as follows.
 
 (2) In subsection (4)(b), omit the second “or”.
 
@@ -113,11 +113,11 @@ Section 117
 
 .
 
-**8.**[^key-06a670c5dd896843a22b23752cbe0c22][^key-1c77262bc8abe9fe16029b845d466463] In section 43 (interpretation etc), at the appropriate place insert—
+**8.**[^c-06a670c5dd896843a22b23752cbe0c22][^c-1c77262bc8abe9fe16029b845d466463] In section 43 (interpretation etc), at the appropriate place insert—
 
 > - “**component**” has the meaning given by section 15(6).
 
-### 9. Contract profit rate[^key-42c74172de762f51c0be87a443ec3493][^key-2d2c8df2eeab003abc13817aee055a43]
+### 9. Contract profit rate[^c-42c74172de762f51c0be87a443ec3493][^c-2d2c8df2eeab003abc13817aee055a43]
 
 (1) Section 17 (contract profit rate) is amended as follows.
 
@@ -137,7 +137,7 @@ Section 117
 
 (5) In subsection (4)(b), for “6” substitute “4”.
 
-**10.**[^key-fb2d4c5e3810821fb9f5adb5ff28a877][^key-ab7c54aa588cf7958bcaf6739174d5f1] (1) Section 18 (contract profit rate: supplementary) is amended as follows.
+**10.**[^c-fb2d4c5e3810821fb9f5adb5ff28a877][^c-ab7c54aa588cf7958bcaf6739174d5f1] (1) Section 18 (contract profit rate: supplementary) is amended as follows.
 
 (2) In subsection (2)(a)—
 
@@ -155,7 +155,7 @@ Section 117
 >   - (ii) an adjustment agreed under any of steps 2 to 4 in section 17(2) is appropriate;
 >   - (iii) an adjustment agreed under step 3 in section 17(2) is in accordance with the regulations.
 
-**11.**[^key-d485c4ff82713e8c0165ecff52521a3f][^key-bee86a80f067be6658b9bb6d2f191523] (1) Section 19 (rates etc relevant to determining contract profit rate) is amended as follows.
+**11.**[^c-d485c4ff82713e8c0165ecff52521a3f][^c-bee86a80f067be6658b9bb6d2f191523] (1) Section 19 (rates etc relevant to determining contract profit rate) is amended as follows.
 
 (2) In subsection (1) omit “the SSRO funding adjustment”.
 
@@ -173,7 +173,7 @@ Section 117
 
 (6) In subsection (6) omit “or the funding adjustment”.
 
-### 12. Allowable costs[^key-843b17b91055dc9cca601c62e3ac1bff][^key-0b5847178cc6e9b22cfb7c61563cdeb5]
+### 12. Allowable costs[^c-843b17b91055dc9cca601c62e3ac1bff][^c-0b5847178cc6e9b22cfb7c61563cdeb5]
 
 (1) Section 20 (allowable costs) is amended as follows.
 
@@ -206,11 +206,11 @@ Section 117
 
 (6) In subsection (6), for “the contract”, in the first place it occurs, substitute “a qualifying defence contract”.
 
-### 13. Reports[^key-32058ae40d36b996b5310e13fc246f53]
+### 13. Reports[^c-32058ae40d36b996b5310e13fc246f53]
 
-(1)[^key-9ec3c93dd65c976487af10153ee00449] Section 25 (reports on overheads and forward planning etc) is amended as follows.
+(1)[^c-9ec3c93dd65c976487af10153ee00449] Section 25 (reports on overheads and forward planning etc) is amended as follows.
 
-(2)[^key-9ec3c93dd65c976487af10153ee00449] For subsection (3)(a) substitute—
+(2)[^c-9ec3c93dd65c976487af10153ee00449] For subsection (3)(a) substitute—
 
 > - (a) where P is associated with one or more other persons—
 >   - (i) the ultimate parent undertaking in relation to P and those other persons, or
@@ -222,13 +222,13 @@ Section 117
 
 > (8A) In this section, “**financial year**” means a year beginning with 1 April or a year beginning with such other date as may be agreed between the Secretary of State and a designated person.
 
-### 14.[^key-19fbbe755b37401062a3bab1e3fef7e7]
+### 14.[^c-19fbbe755b37401062a3bab1e3fef7e7]
 
 **Not yet in force.**
 
 In section 43 (interpretation etc), in the definition of “financial year”, at the end insert “(but see section 25(8A) for the different meaning of “financial year” in that section)”.
 
-### 15. Qualifying sub-contracts[^key-89ee94422f1084a43373928fc8e9e541][^key-e8b1954f61047b7eea5568f246237e54]
+### 15. Qualifying sub-contracts[^c-89ee94422f1084a43373928fc8e9e541][^c-e8b1954f61047b7eea5568f246237e54]
 
 (1) Section 29 (determining whether a contract is a qualifying sub-contract) is amended as follows.
 
@@ -242,12 +242,12 @@ In section 43 (interpretation etc), in the definition of “financial year”, a
 
 (4) In subsection (5), in each of paragraphs (a) and (b), after “would”, insert “or would not”.
 
-**16.**[^key-d7ce823006a271fbb42860f869d483d6][^key-df4dd8a4a1cba80267ed6aa2cfc86a84] In section 30(4)(a) (application of single source contracts regime to qualifying sub-contracts)—
+**16.**[^c-d7ce823006a271fbb42860f869d483d6][^c-df4dd8a4a1cba80267ed6aa2cfc86a84] In section 30(4)(a) (application of single source contracts regime to qualifying sub-contracts)—
 
 - (a) after “for the” insert “primary contractor or”;
 - (b) for “the sub-contractor’s opinion” substitute “their opinion”.
 
-**17.**[^key-119a9b87690e9f225b4133a697dc0f24][^key-a3fcfe110605eff2bdc96bfc93b3ed5d] In section 31(3) (compliance notices)—
+**17.**[^c-119a9b87690e9f225b4133a697dc0f24][^c-a3fcfe110605eff2bdc96bfc93b3ed5d] In section 31(3) (compliance notices)—
 
 - (a) in paragraph (e), omit “, or”;
 - (b) in paragraph (f), at the end insert
@@ -256,7 +256,7 @@ In section 43 (interpretation etc), in the definition of “financial year”, a
   >
   > - (g) in circumstances where P is required to give the notice mentioned in section 29(2)(c) or (4)(c) in respect of a proposed contract, P fails to give such a notice.
 
-### 18. Powers of the Single Source Regulations Office (“SSRO”)[^key-88cbad7d91099d6530b872198158fcf0][^key-4508247e8ea7816b70b5c2d95fed4707]
+### 18. Powers of the Single Source Regulations Office (“SSRO”)[^c-88cbad7d91099d6530b872198158fcf0][^c-4508247e8ea7816b70b5c2d95fed4707]
 
 (1) Section 35 (opinions and determinations by the SSRO) is amended as follows.
 
@@ -283,92 +283,92 @@ In section 43 (interpretation etc), in the definition of “financial year”, a
 
 (7) In subsection (5), omit “primary” in both places it occurs.
 
-**19.**[^key-e7b9fcd3c51663081c2d3118ca76e206][^key-4b05ee1544c0e20d713c858300a6e049] After section 35 insert—
+**19.**[^c-e7b9fcd3c51663081c2d3118ca76e206][^c-4b05ee1544c0e20d713c858300a6e049] After section 35 insert—
 
 > **35A. Guidance**
 >
 > The SSRO may issue such guidance as it considers appropriate in relation to the application or interpretation of this Part or single source contract regulations.
 
-**20.**[^key-815aa2b5e556c59c2afbb23106b14748][^M_I_3832ab7b-1cc7-4fdd-b62b-e6c2f80d2ac3] In paragraph 10(3) of Schedule 4 (procedure of the SSRO), after “16(2)(b)” insert “or (4)”.
+**20.**[^c-815aa2b5e556c59c2afbb23106b14748][^M_I_3832ab7b-1cc7-4fdd-b62b-e6c2f80d2ac3] In paragraph 10(3) of Schedule 4 (procedure of the SSRO), after “16(2)(b)” insert “or (4)”.
 
 ## Annotations
 
-[^key-0ea995d5b110149e662efdad4f8c79e6]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-0ea995d5b110149e662efdad4f8c79e6]: Commencement: Sch. 10 para. 1 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-64b4f81b8ed6d1500ecaf66b82dbadd1]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/1) in force at 19.1.2024 for specified purposes by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(i)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-64b4f81b8ed6d1500ecaf66b82dbadd1]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/1) in force at 19.1.2024 for specified purposes by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(i)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/i) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-6afe66374cdd23b0715ef1dd6de30bd3]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/1) in force at 1.4.2024 for specified purposes by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/b/i)
+[^c-6afe66374cdd23b0715ef1dd6de30bd3]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/1) in force at 1.4.2024 for specified purposes by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/b/i)
 
-[^key-2c0fbd9a2f9f34ee82b1d4c7353acc00]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-2c0fbd9a2f9f34ee82b1d4c7353acc00]: Commencement: Sch. 10 para. 2 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-f52a8e53985a4687d163630f8ccd1d6c]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/2) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-f52a8e53985a4687d163630f8ccd1d6c]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/2) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/ii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-693060e7028c85fd2ec63ef45b135383]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-693060e7028c85fd2ec63ef45b135383]: Commencement: Sch. 10 para. 3 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-964738bc051d1ca7aeb91fc55c9ce409]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/3) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-964738bc051d1ca7aeb91fc55c9ce409]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/3) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-520bbf562419fd424c0c0b6894c684dc]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-520bbf562419fd424c0c0b6894c684dc]: Commencement: Sch. 10 para. 4 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-3e9b43bae752bf11adf94df903c58fdb]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/4) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-3e9b43bae752bf11adf94df903c58fdb]: Commencement: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/4) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-83717c8aadfedfee358e9bff861227c4]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-83717c8aadfedfee358e9bff861227c4]: Commencement: Sch. 10 para. 5 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-ae7f44471920681541b0780bf11aa4c7]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/5) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-ae7f44471920681541b0780bf11aa4c7]: Commencement: [Sch. 10 para. 5](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/5) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-71b51ab538fbf767814d79d217764dfc]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-71b51ab538fbf767814d79d217764dfc]: Commencement: Sch. 10 para. 6 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-8bf759074ecc8ecba7e066d5ed98e36d]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/6) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-8bf759074ecc8ecba7e066d5ed98e36d]: Commencement: [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/6) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-1d665e48714d2c262186fd781d599cfd]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-1d665e48714d2c262186fd781d599cfd]: Commencement: Sch. 10 para. 7 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-82d07701186be4990367d698fc345069]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/7) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-82d07701186be4990367d698fc345069]: Commencement: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/7) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-06a670c5dd896843a22b23752cbe0c22]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-06a670c5dd896843a22b23752cbe0c22]: Commencement: Sch. 10 para. 8 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-1c77262bc8abe9fe16029b845d466463]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/8) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-1c77262bc8abe9fe16029b845d466463]: Commencement: [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/8) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-42c74172de762f51c0be87a443ec3493]: Commencement: Sch. 10 para. 9 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-42c74172de762f51c0be87a443ec3493]: Commencement: Sch. 10 para. 9 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-2d2c8df2eeab003abc13817aee055a43]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/9) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-2d2c8df2eeab003abc13817aee055a43]: Commencement: [Sch. 10 para. 9](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/9) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-fb2d4c5e3810821fb9f5adb5ff28a877]: Commencement: Sch. 10 para. 10 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-fb2d4c5e3810821fb9f5adb5ff28a877]: Commencement: Sch. 10 para. 10 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-ab7c54aa588cf7958bcaf6739174d5f1]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/10) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-ab7c54aa588cf7958bcaf6739174d5f1]: Commencement: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/10) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-d485c4ff82713e8c0165ecff52521a3f]: Commencement: Sch. 10 para. 11 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-d485c4ff82713e8c0165ecff52521a3f]: Commencement: Sch. 10 para. 11 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-bee86a80f067be6658b9bb6d2f191523]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/11) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-bee86a80f067be6658b9bb6d2f191523]: Commencement: [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/11) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(iv)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/iv) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-843b17b91055dc9cca601c62e3ac1bff]: Commencement: Sch. 10 para. 12 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-843b17b91055dc9cca601c62e3ac1bff]: Commencement: Sch. 10 para. 12 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-0b5847178cc6e9b22cfb7c61563cdeb5]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/12) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(v)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/v) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-0b5847178cc6e9b22cfb7c61563cdeb5]: Commencement: [Sch. 10 para. 12](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/12) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(v)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/v) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-32058ae40d36b996b5310e13fc246f53]: Commencement: Sch. 10 para. 13 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-32058ae40d36b996b5310e13fc246f53]: Commencement: Sch. 10 para. 13 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-9ec3c93dd65c976487af10153ee00449]: Commencement: [Sch. 10 para. 13(1)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/13/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/13/2) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vi) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-9ec3c93dd65c976487af10153ee00449]: Commencement: [Sch. 10 para. 13(1)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/13/1)[(2)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/13/2) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vi)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vi) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-19fbbe755b37401062a3bab1e3fef7e7]: Commencement: Sch. 10 para. 14 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-19fbbe755b37401062a3bab1e3fef7e7]: Commencement: Sch. 10 para. 14 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-89ee94422f1084a43373928fc8e9e541]: Commencement: Sch. 10 para. 15 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-89ee94422f1084a43373928fc8e9e541]: Commencement: Sch. 10 para. 15 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-e8b1954f61047b7eea5568f246237e54]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/15) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-e8b1954f61047b7eea5568f246237e54]: Commencement: [Sch. 10 para. 15](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/15) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-d7ce823006a271fbb42860f869d483d6]: Commencement: Sch. 10 para. 16 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-d7ce823006a271fbb42860f869d483d6]: Commencement: Sch. 10 para. 16 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-df4dd8a4a1cba80267ed6aa2cfc86a84]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/16) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-df4dd8a4a1cba80267ed6aa2cfc86a84]: Commencement: [Sch. 10 para. 16](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/16) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-119a9b87690e9f225b4133a697dc0f24]: Commencement: Sch. 10 para. 17 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-119a9b87690e9f225b4133a697dc0f24]: Commencement: Sch. 10 para. 17 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-a3fcfe110605eff2bdc96bfc93b3ed5d]: Commencement: [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/17) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-a3fcfe110605eff2bdc96bfc93b3ed5d]: Commencement: [Sch. 10 para. 17](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/17) in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-88cbad7d91099d6530b872198158fcf0]: Commencement: Sch. 10 para. 18 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-88cbad7d91099d6530b872198158fcf0]: Commencement: Sch. 10 para. 18 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-4508247e8ea7816b70b5c2d95fed4707]: Commencement: [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/18) in force at 1.4.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/b/ii)
+[^c-4508247e8ea7816b70b5c2d95fed4707]: Commencement: [Sch. 10 para. 18](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/18) in force at 1.4.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/b/ii)
 
-[^key-e7b9fcd3c51663081c2d3118ca76e206]: Commencement: Sch. 10 para. 19 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-e7b9fcd3c51663081c2d3118ca76e206]: Commencement: Sch. 10 para. 19 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-4b05ee1544c0e20d713c858300a6e049]: Commencement: [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/19) in force at 1.4.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/b/iii)
+[^c-4b05ee1544c0e20d713c858300a6e049]: Commencement: [Sch. 10 para. 19](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/19) in force at 1.4.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/2/b/iii)
 
-[^key-815aa2b5e556c59c2afbb23106b14748]: Commencement: Sch. 10 para. 20 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-815aa2b5e556c59c2afbb23106b14748]: Commencement: Sch. 10 para. 20 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
 [^M_I_3832ab7b-1cc7-4fdd-b62b-e6c2f80d2ac3]: Commencement: Sch. 10 para. 20 in force at 19.1.2024 by [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(viii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/viii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))

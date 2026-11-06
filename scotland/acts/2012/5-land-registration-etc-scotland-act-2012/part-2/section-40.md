@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 40. Notification of acceptance, rejection or withdrawal of application[^key-0ed196ff2dea38168db2251e3c00e258]
+## 40. Notification of acceptance, rejection or withdrawal of application[^c-0ed196ff2dea38168db2251e3c00e258]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ed196ff2dea38168db2251e3c00e258]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2012/5/section/40) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-0ed196ff2dea38168db2251e3c00e258]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2012/5/section/40) in force at 8.12.2014 by [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

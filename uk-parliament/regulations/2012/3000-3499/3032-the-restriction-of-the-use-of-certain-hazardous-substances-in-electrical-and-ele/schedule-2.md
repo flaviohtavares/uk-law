@@ -51,7 +51,7 @@ the authority must, if it is practicable for such a test to be carried out, allo
 
 - (a) be accompanied by—
   - (i) such other persons as the authorised person considers necessary,
-  - (ii (Extent: E+W+S) (affected by repeal, see note))[^key-84b2fb276893ff20bcd4ae3c315fbae3] any representative of the European Commission; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^key-84b2fb276893ff20bcd4ae3c315fbae3]
+  - (ii (Extent: E+W+S) (affected by repeal, see note))[^c-84b2fb276893ff20bcd4ae3c315fbae3] any representative of the European Commission; and *(Extent: E+W+S)* *(affected by repeal, see note)*[^c-84b2fb276893ff20bcd4ae3c315fbae3]
 - (b) bring on to the premises such equipment as the authorised person considers necessary.
 
 ### 3. Power to inspect, seize and detain EEE etc
@@ -107,4 +107,4 @@ the authority must, if it is practicable for such a test to be carried out, allo
 
 ## Annotations
 
-[^key-84b2fb276893ff20bcd4ae3c315fbae3]: Textual amendment: [Sch. 2 para. 2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/3032/schedule/2/paragraph/2/4/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(27)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/27) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84b2fb276893ff20bcd4ae3c315fbae3]: Textual amendment: [Sch. 2 para. 2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2012/3032/schedule/2/paragraph/2/4/a/ii) omitted (E.W.S.) (31.12.2020) by virtue of [The Waste (Miscellaneous Amendments) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/188)](https://www.legislation.gov.uk/uksi/2019/188), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/188/regulation/1/2/b), [18(27)](https://www.legislation.gov.uk/uksi/2019/188/regulation/18/27) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/11/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

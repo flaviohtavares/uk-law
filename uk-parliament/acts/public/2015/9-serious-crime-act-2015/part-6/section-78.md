@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Knives and offensive weapons in prisons[^key-d5ce3df57957d0c8e939114b4d2cc254]
+## 78. Knives and offensive weapons in prisons[^c-d5ce3df57957d0c8e939114b4d2cc254]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ After section 40C of the Prison Act 1952 insert—
 
 ## Annotations
 
-[^key-d5ce3df57957d0c8e939114b4d2cc254]: Commencement: S. 78 in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/o)
+[^c-d5ce3df57957d0c8e939114b4d2cc254]: Commencement: S. 78 in force at 1.6.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 3(o)](https://www.legislation.gov.uk/uksi/2015/820/regulation/3/o)

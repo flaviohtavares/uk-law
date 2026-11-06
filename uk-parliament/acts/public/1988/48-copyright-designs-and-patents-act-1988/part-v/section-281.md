@@ -33,7 +33,7 @@ summary: ''
 
 (4) Rules made under this section shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(5) The comptroller shall refuse to recognise as agent in respect of any business to which this section applies a person who neither resides nor has a place of business in the United Kingdom, the Isle of Man or a member State[^key-d8c7cb0cd06a3dce4143b79f6dd236bf].
+(5) The comptroller shall refuse to recognise as agent in respect of any business to which this section applies a person who neither resides nor has a place of business in the United Kingdom, the Isle of Man or a member State[^c-d8c7cb0cd06a3dce4143b79f6dd236bf].
 
 ## Annotations
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^c20330761]: Textual amendment: Words in s. 281(2)(c) substituted (1.1.2010) by [The Legal Services Act 2007 (Consequential Amendments) Order 2009 (S.I. 2009/3348)](https://www.legislation.gov.uk/uksi/2009/3348), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2009/3348/article/2/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2009/3348/article/3/3/c); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/b/i)
 
-[^key-d8c7cb0cd06a3dce4143b79f6dd236bf]: Textual amendment: Words in s. 281(5) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-d8c7cb0cd06a3dce4143b79f6dd236bf]: Textual amendment: Words in s. 281(5) substituted (31.12.2020) by [The Patents (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/801)](https://www.legislation.gov.uk/uksi/2019/801), [regs. 1](https://www.legislation.gov.uk/uksi/2019/801/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)

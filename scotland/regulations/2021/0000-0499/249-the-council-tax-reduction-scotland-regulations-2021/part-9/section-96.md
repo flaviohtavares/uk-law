@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. Conduct of further reviews[^key-51a2b83ce96ef422ed7378511d69c689]
+## 96. Conduct of further reviews[^c-51a2b83ce96ef422ed7378511d69c689]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51a2b83ce96ef422ed7378511d69c689]: Textual amendment: [Reg. 96](https://www.legislation.gov.uk/ssi/2021/249/regulation/96) revoked (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/2/6) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))
+[^c-51a2b83ce96ef422ed7378511d69c689]: Textual amendment: [Reg. 96](https://www.legislation.gov.uk/ssi/2021/249/regulation/96) revoked (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of the Council Tax Reduction Review Panel) Regulations 2023 (S.S.I. 2023/46)](https://www.legislation.gov.uk/ssi/2023/46), [reg. 1](https://www.legislation.gov.uk/ssi/2023/46/regulation/1), [sch. 2 para. 2(6)](https://www.legislation.gov.uk/ssi/2023/46/schedule/2/paragraph/2/6) (with [sch. 1](https://www.legislation.gov.uk/ssi/2023/46/schedule/1))

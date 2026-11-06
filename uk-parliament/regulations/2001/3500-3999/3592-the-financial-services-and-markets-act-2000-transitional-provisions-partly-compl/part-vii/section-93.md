@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Effect of lapsed notices[^key-c96b9f328fa104506282e67c280e2131]
+## 93. Effect of lapsed notices[^c-c96b9f328fa104506282e67c280e2131]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where a notice given before commencement does not take effect, by virtue of this
 
 ## Annotations
 
-[^key-c96b9f328fa104506282e67c280e2131]: Commencement: Art. 93 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c96b9f328fa104506282e67c280e2131]: Commencement: Art. 93 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

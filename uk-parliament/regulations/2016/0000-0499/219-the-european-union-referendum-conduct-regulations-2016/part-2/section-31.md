@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Voting procedure[^key-049235efd4c021a3f3ed52f554767445]
+## 31. Voting procedure[^c-049235efd4c021a3f3ed52f554767445]
 
 *Extent: E+W+S+N.I.*
 
 A ballot paper must be delivered to a voter who applies for one, subject to any provision of this Part to the contrary.
 
-**32.**[^key-649a9270cd59bb1ec8f9ada974e15ed2] (1) In Northern Ireland a ballot paper must not be delivered to a voter unless the voter has produced a specified document to the presiding officer or a clerk.
+**32.**[^c-649a9270cd59bb1ec8f9ada974e15ed2] (1) In Northern Ireland a ballot paper must not be delivered to a voter unless the voter has produced a specified document to the presiding officer or a clerk.
 
 (2) A clerk or presiding officer in Northern Ireland to whom a specified document is produced must not deliver a ballot paper to the voter if the clerk or officer decides that—
 
@@ -52,7 +52,7 @@ and includes a Community licence within the meaning of those enactments.
 
 (6) References in this regulation to producing a document are to producing it for inspection.
 
-**33.**[^key-2e3aaaf3c0e40b51094d32e7a4b9308c] (1) This regulation applies where there is a duty to deliver a ballot paper to a voter under regulation 31.
+**33.**[^c-2e3aaaf3c0e40b51094d32e7a4b9308c] (1) This regulation applies where there is a duty to deliver a ballot paper to a voter under regulation 31.
 
 (2) Immediately before delivery of the ballot paper—
 
@@ -68,7 +68,7 @@ and includes a Community licence within the meaning of those enactments.
 - (a) the reference in paragraph (2)(a) to the copy of the register of electors is to be read as a reference to the copy of the notice;
 - (b) the reference in paragraph (2)(c) to a mark being placed in the register of electors is to be read as a reference to a mark being made on the copy of the notice.
 
-**34.**[^key-3158a90a49e8b03e29741e957410cb04] (1) Immediately after receiving a ballot paper the voter must—
+**34.**[^c-3158a90a49e8b03e29741e957410cb04] (1) Immediately after receiving a ballot paper the voter must—
 
 - (a) proceed into one of the compartments in the polling station and there secretly mark the paper and fold it up so as to conceal the vote, and then
 - (b) show to the presiding officer the back of the paper, so as to disclose the number and other unique identifying mark, and put the ballot paper so folded up into the ballot box in the presiding officer’s presence.
@@ -79,9 +79,9 @@ and includes a Community licence within the meaning of those enactments.
 
 ## Annotations
 
-[^key-049235efd4c021a3f3ed52f554767445]: Commencement: Reg. 31 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-049235efd4c021a3f3ed52f554767445]: Commencement: Reg. 31 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-649a9270cd59bb1ec8f9ada974e15ed2]: Commencement: Reg. 32 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-649a9270cd59bb1ec8f9ada974e15ed2]: Commencement: Reg. 32 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00030]: Footnote: Section 10 was substituted, and sections 10A and 13A were inserted, by paragraphs 1, 4 and 6 of Schedule 1 to the Representation of the People Act [2000 (c.2)](https://www.legislation.gov.uk/ukpga/2000/2). Subsection (4A) of section 10, subsection (1A) of section 10A and subsection (2A) of section 13A were inserted by section 1 of the Electoral Fraud (Northern Ireland) Act [2002 (c.13)](https://www.legislation.gov.uk/ukpga/2002/13). Section 10(4A) was amended by paragraph 9(1) and (6) of Schedule 4 to the Electoral Registration and Administration Act [2013 (c.6)](https://www.legislation.gov.uk/ukpga/2013/6).
 
@@ -93,6 +93,6 @@ and includes a Community licence within the meaning of those enactments.
 
 [^f00034]: Footnote: [S.I. 1981/154](https://www.legislation.gov.uk/uksi/1981/154).
 
-[^key-2e3aaaf3c0e40b51094d32e7a4b9308c]: Commencement: Reg. 33 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-2e3aaaf3c0e40b51094d32e7a4b9308c]: Commencement: Reg. 33 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-3158a90a49e8b03e29741e957410cb04]: Commencement: Reg. 34 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-3158a90a49e8b03e29741e957410cb04]: Commencement: Reg. 34 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In relation to shares to which EIS relief is not attributable (see section 131(2)(b)), a qualifying trading company is a company which meets each of conditions A to C[^key-ea031b09a33c84519898c8721dd1a780].
+(1) In relation to shares to which EIS relief is not attributable (see section 131(2)(b)), a qualifying trading company is a company which meets each of conditions A to C[^c-ea031b09a33c84519898c8721dd1a780].
 
 (2) Condition A is that the company either—
 
@@ -41,10 +41,10 @@ summary: ''
 - (a) met the gross assets requirement (see section 142) both immediately before and immediately after the issue of the shares in respect of which the share loss relief is claimed, and
 - (b) met the unquoted status requirement (see section 143) at the relevant time within the meaning of that section.
 
-(5)[^key-efc6af2c68c7dba3ec235798e6ebbced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-efc6af2c68c7dba3ec235798e6ebbced] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea031b09a33c84519898c8721dd1a780]: Textual amendment: Word in [s. 134(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/134/1) substituted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/a/i)
+[^c-ea031b09a33c84519898c8721dd1a780]: Textual amendment: Word in [s. 134(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/134/1) substituted (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/2/a/i)
 
-[^key-efc6af2c68c7dba3ec235798e6ebbced]: Textual amendment: [S. 134(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/134/5) repealed (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(1)(a)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/1/a)
+[^c-efc6af2c68c7dba3ec235798e6ebbced]: Textual amendment: [S. 134(5)](https://www.legislation.gov.uk/ukpga/2007/3/section/134/5) repealed (with effect in accordance with s. 38(3) of the amending Act) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 38(1)(a)](https://www.legislation.gov.uk/ukpga/2020/14/section/38/1/a)

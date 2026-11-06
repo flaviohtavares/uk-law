@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43FA. Prescribed persons: duty to report on disclosures of information[^key-91a8402fbb899cd554e4db02d12de87b][^c16325111]
+## 43FA. Prescribed persons: duty to report on disclosures of information[^c-91a8402fbb899cd554e4db02d12de87b][^c16325111]
 
 *Extent: E+W+S*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91a8402fbb899cd554e4db02d12de87b]: Textual amendment: S. 43FA inserted (1.1.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 148(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/148/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/2/a)
+[^c-91a8402fbb899cd554e4db02d12de87b]: Textual amendment: S. 43FA inserted (1.1.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 148(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/148/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/2/a)
 
 [^c16325111]: Textual amendment: Pt. IVA (ss. 43A-43L) inserted (2.7.1998 for specified purposes and otherwise 2.7.1999) by [1998 c. 23](https://www.legislation.gov.uk/ukpga/1998/23), [s. 1](https://www.legislation.gov.uk/ukpga/1998/23/section/1); [S.I. 1999/1547](https://www.legislation.gov.uk/uksi/1999/1547), [art. 2](https://www.legislation.gov.uk/uksi/1999/1547/article/2)

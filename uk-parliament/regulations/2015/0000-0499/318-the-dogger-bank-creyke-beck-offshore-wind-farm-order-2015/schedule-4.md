@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Access to works[^key-94076ce9afb0f044e52aaf03f480670e]
+## SCHEDULE 4 — Access to works[^c-94076ce9afb0f044e52aaf03f480670e]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ Article 15
 
 ## Annotations
 
-[^key-94076ce9afb0f044e52aaf03f480670e]: Commencement: Sch. 4 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-94076ce9afb0f044e52aaf03f480670e]: Commencement: Sch. 4 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)

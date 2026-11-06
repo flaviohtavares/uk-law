@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Product safety[^key-3fec678b90c966c007819abd7af5bc28]
+## 104. Product safety[^c-3fec678b90c966c007819abd7af5bc28]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fec678b90c966c007819abd7af5bc28]: Commencement: S. 104 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-3fec678b90c966c007819abd7af5bc28]: Commencement: S. 104 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

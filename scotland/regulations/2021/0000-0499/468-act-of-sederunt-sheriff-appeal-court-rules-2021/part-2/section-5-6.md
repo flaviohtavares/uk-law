@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.6. Additional methods of intimation where receiving party represented by solicitor[^key-3b1cc6cc69890c47f1040ae6cdf6a697]
+## 5.6. Additional methods of intimation where receiving party represented by solicitor[^c-3b1cc6cc69890c47f1040ae6cdf6a697]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ the date of intimation is the next day.
 
 ## Annotations
 
-[^key-3b1cc6cc69890c47f1040ae6cdf6a697]: Commencement: Para. 5.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-3b1cc6cc69890c47f1040ae6cdf6a697]: Commencement: Para. 5.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

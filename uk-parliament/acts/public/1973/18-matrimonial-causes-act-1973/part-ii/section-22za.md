@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22ZA. Orders for payment in respect of legal services[^key-120417327890727ae3e3f3dc73591db5]
+## 22ZA. Orders for payment in respect of legal services[^c-120417327890727ae3e3f3dc73591db5]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ and they include, in particular, advice and assistance in the form of representa
 
 ## Annotations
 
-[^key-120417327890727ae3e3f3dc73591db5]: Textual amendment: [S. 22ZA](https://www.legislation.gov.uk/ukpga/1973/18/section/22ZA) inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/49/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)
+[^c-120417327890727ae3e3f3dc73591db5]: Textual amendment: [S. 22ZA](https://www.legislation.gov.uk/ukpga/1973/18/section/22ZA) inserted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2012/10/section/49/2), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2013/773](https://www.legislation.gov.uk/uksi/2013/773), [art. 2](https://www.legislation.gov.uk/uksi/2013/773/article/2)

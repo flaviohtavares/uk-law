@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Additional factors or criteria[^key-dfb30fed72f49d951db782bad059097b]
+## 18. Additional factors or criteria[^c-dfb30fed72f49d951db782bad059097b]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ a local authority must take into account in their formula a factor or factors ba
 
 ## Annotations
 
-[^key-dfb30fed72f49d951db782bad059097b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2011/371/regulation/18) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-dfb30fed72f49d951db782bad059097b]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2011/371/regulation/18) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

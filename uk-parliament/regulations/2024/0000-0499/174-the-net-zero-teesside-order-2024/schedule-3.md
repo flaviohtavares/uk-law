@@ -22,11 +22,11 @@ summary: ''
 
 Article 9
 
-**1.**[^key-3f8055e58df7103ca92a9636b9176dfb] The York Potash Harbour Facilities Order 2016[^f00049] is amended as follows.
+**1.**[^c-3f8055e58df7103ca92a9636b9176dfb] The York Potash Harbour Facilities Order 2016[^f00049] is amended as follows.
 
-**2.**[^key-a5457edf6cae977e5fd30206fb27d4e1] In article 34 (protection of interests), for “11” substitute “12”.
+**2.**[^c-a5457edf6cae977e5fd30206fb27d4e1] In article 34 (protection of interests), for “11” substitute “12”.
 
-**3.**[^key-47aa5b2ea8fdabc503ddf6a107d32e2c] After Schedule 11 insert new Schedule 12—
+**3.**[^c-47aa5b2ea8fdabc503ddf6a107d32e2c] After Schedule 11 insert new Schedule 12—
 
 > **SCHEDULE 12 — FOR THE PROTECTION OF NET ZERO TEESSIDE POWER LIMITED AND NET ZERO NORTH SEA STORAGE LIMITED**
 >
@@ -259,10 +259,10 @@ Article 9
 
 ## Annotations
 
-[^key-3f8055e58df7103ca92a9636b9176dfb]: Commencement: Sch. 3 para. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-3f8055e58df7103ca92a9636b9176dfb]: Commencement: Sch. 3 para. 1 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
 [^f00049]: Footnote: [S.I. 2016/772](https://www.legislation.gov.uk/uksi/2016/772).
 
-[^key-a5457edf6cae977e5fd30206fb27d4e1]: Commencement: Sch. 3 para. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-a5457edf6cae977e5fd30206fb27d4e1]: Commencement: Sch. 3 para. 2 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
 
-[^key-47aa5b2ea8fdabc503ddf6a107d32e2c]: Commencement: Sch. 3 para. 3 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)
+[^c-47aa5b2ea8fdabc503ddf6a107d32e2c]: Commencement: Sch. 3 para. 3 in force at 11.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/174/article/1)

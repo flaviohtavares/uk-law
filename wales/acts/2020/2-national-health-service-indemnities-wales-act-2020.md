@@ -40,7 +40,7 @@ An Act of the National Assembly for Wales to amend the National Health Service (
 
 **Having been passed by the National Assembly for Wales and having received the assent of Her Majesty, it is enacted as follows:**
 
-## 1. Indemnities in connection with provision of health services[^key-64cbaa48bbd97205ad5755a068fbeaed]
+## 1. Indemnities in connection with provision of health services[^c-64cbaa48bbd97205ad5755a068fbeaed]
 
 (1) Section 30 of the National Health Service (Wales) Act 2006 (c.42) is amended as follows.
 
@@ -97,7 +97,7 @@ An Act of the National Assembly for Wales to amend the National Health Service (
 > - (a) in subsections (1)(b) and (8)(b) “**functions**”, in relation to a body or other person specified in subsection (2)(g), means the body or person's functions of providing, or arranging the provision of, health services whose provision is the subject of a contract or other arrangements with a Local Health Board, NHS trust or Special Health Authority;
 > - (b) in subsection (2) and in paragraph (a) of this subsection “**health services**” means services provided as part of the health service.
 
-## 2. Short title and coming into force[^key-59869c96080cb1a0f6669e5d3e4b0bf7]
+## 2. Short title and coming into force[^c-59869c96080cb1a0f6669e5d3e4b0bf7]
 
 (1) The short title of this Act is the National Health Service (Indemnities) (Wales) Act 2020.
 
@@ -105,6 +105,6 @@ An Act of the National Assembly for Wales to amend the National Health Service (
 
 ## Annotations
 
-[^key-64cbaa48bbd97205ad5755a068fbeaed]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2020/2/section/1) in force at 27.2.2020, see [s. 2(2)](https://www.legislation.gov.uk/anaw/2020/2/section/2/2)
+[^c-64cbaa48bbd97205ad5755a068fbeaed]: Commencement: [S. 1](https://www.legislation.gov.uk/anaw/2020/2/section/1) in force at 27.2.2020, see [s. 2(2)](https://www.legislation.gov.uk/anaw/2020/2/section/2/2)
 
-[^key-59869c96080cb1a0f6669e5d3e4b0bf7]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2020/2/section/2) in force at 27.2.2020, see [s. 2(2)](https://www.legislation.gov.uk/anaw/2020/2/section/2/2)
+[^c-59869c96080cb1a0f6669e5d3e4b0bf7]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2020/2/section/2) in force at 27.2.2020, see [s. 2(2)](https://www.legislation.gov.uk/anaw/2020/2/section/2/2)

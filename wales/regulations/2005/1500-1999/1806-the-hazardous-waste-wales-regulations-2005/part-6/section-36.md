@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation applies in all cases where a consignment of hazardous waste is to be removed from premises except in cases to which any of regulations 39[^key-9bc312396acd24e29fb95006d2098cc9] to 41 apply.
+(1) This regulation applies in all cases where a consignment of hazardous waste is to be removed from premises except in cases to which any of regulations 39[^c-9bc312396acd24e29fb95006d2098cc9] to 41 apply.
 
 (2) Before the consignment is removed—
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bc312396acd24e29fb95006d2098cc9]: Textual amendment: Word in [reg. 36(1)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/36/1) substituted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/12)
+[^c-9bc312396acd24e29fb95006d2098cc9]: Textual amendment: Word in [reg. 36(1)](https://www.legislation.gov.uk/wsi/2005/1806/regulation/36/1) substituted (29.3.2011) by [The Waste (Miscellaneous Provisions) (Wales) Regulations 2011 (S.I. 2011/971)](https://www.legislation.gov.uk/wsi/2011/971), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2011/971/regulation/1/2), [Sch. para. 12](https://www.legislation.gov.uk/wsi/2011/971/schedule/paragraph/12)

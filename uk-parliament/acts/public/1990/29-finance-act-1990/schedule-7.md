@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Overseas Life Assurance Business[^key-18d2a3a6998566fb6fb2c6aa679167b9]
+## SCHEDULE 7 — Overseas Life Assurance Business[^c-18d2a3a6998566fb6fb2c6aa679167b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Section 42.
 
-**1.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-18d2a3a6998566fb6fb2c6aa679167b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-18d2a3a6998566fb6fb2c6aa679167b9]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1990/29/schedule/7) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(v)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/v)
+[^c-18d2a3a6998566fb6fb2c6aa679167b9]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1990/29/schedule/7) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(b)(v)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/b/v)

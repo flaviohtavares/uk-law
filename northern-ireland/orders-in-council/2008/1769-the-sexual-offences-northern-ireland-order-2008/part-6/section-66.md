@@ -24,8 +24,8 @@ summary: ''
 
 (2) In this Article “**relevant sexual offence**” means any offence under—
 
-- (a) this Order, [^key-b67047cce587e80482c2b28aee97b0bd]...
-- (b)[^key-b67047cce587e80482c2b28aee97b0bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) this Order, [^c-b67047cce587e80482c2b28aee97b0bd]...
+- (b)[^c-b67047cce587e80482c2b28aee97b0bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 including an offence of aiding, abetting, counselling or procuring such an offence.
 
@@ -45,4 +45,4 @@ is liable on conviction on indictment, to imprisonment for life.
 
 ## Annotations
 
-[^key-b67047cce587e80482c2b28aee97b0bd]: Textual amendment: [Art. 66(2)(b)](https://www.legislation.gov.uk/nisi/2008/1769/article/66/2/b) and preceding word repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+[^c-b67047cce587e80482c2b28aee97b0bd]: Textual amendment: [Art. 66(2)(b)](https://www.legislation.gov.uk/nisi/2008/1769/article/66/2/b) and preceding word repealed (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)

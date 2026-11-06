@@ -59,14 +59,14 @@ Provided that where[^c6636271] unless the council are satisfied that the persons
 
 (2) In this paragraph “**Crown or Duchy interest**” means an interest belonging to Her Majesty in right of the Crown or of the Duchy of Lancaster, or belonging to the Duchy of Cornwall, or belonging to a government department or held in trust for Her Majesty for the purposes of a government department; and “**the appropriate authority**”—
 
-- (a) in relation to land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners, and, in relation to any other land belonging to Her Majesty in right of the Crown, means the government department having the management of that land or the relevant person[^key-ce152db6631e318f53871228eaf22fc9] ;
+- (a) in relation to land belonging to Her Majesty in right of the Crown and forming part of the Crown Estate, means the Crown Estate Commissioners, and, in relation to any other land belonging to Her Majesty in right of the Crown, means the government department having the management of that land or the relevant person[^c-ce152db6631e318f53871228eaf22fc9] ;
 - (b) in relation to land belonging to Her Majesty in right of the Duchy of Lancaster, means the Chancellor of the Duchy;
 - (c) in relation to land belonging to the Duchy of Cornwall, means such person as the Duke of Cornwall, or the possessor for the time being of the Duchy of Cornwall, appoints; and
 - (d) in relation to land belonging to a government department or held in trust for Her Majesty for the purposes of a government department, means that department;
 
 and if any question arises as to what authority is the appropriate authority in relation to any land, that question shall be referred to the Treasury, whose decision shall be final.
 
-(3)[^key-54546eb3a62ae8d97051383f4b2686ed] In sub-paragraph (2), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
+(3)[^c-54546eb3a62ae8d97051383f4b2686ed] In sub-paragraph (2), “relevant person”, in relation to any land to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that land.
 
 ## Annotations
 
@@ -86,6 +86,6 @@ and if any question arises as to what authority is the appropriate authority in 
 
 [^c6636321]: Textual amendment: Word repealed by [Local Government Act 1972 (c. 70)](https://www.legislation.gov.uk/ukpga/1972/70), [Sch. 30](https://www.legislation.gov.uk/ukpga/1972/70/schedule/30)
 
-[^key-ce152db6631e318f53871228eaf22fc9]: Textual amendment: Words in [Sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/schedule/SECOND/paragraph/6/2/a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 9(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/9/a)
+[^c-ce152db6631e318f53871228eaf22fc9]: Textual amendment: Words in [Sch. 2 para. 6(2)(a)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/schedule/SECOND/paragraph/6/2/a) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 9(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/9/a)
 
-[^key-54546eb3a62ae8d97051383f4b2686ed]: Textual amendment: [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/schedule/SECOND/paragraph/6/3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 9(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/9/b)
+[^c-54546eb3a62ae8d97051383f4b2686ed]: Textual amendment: [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/ukpga/Eliz2/8-9/62/schedule/SECOND/paragraph/6/3) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 9(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/9/b)

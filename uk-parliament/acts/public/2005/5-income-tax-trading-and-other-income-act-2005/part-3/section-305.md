@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 305. Information about effective duration of lease[^key-d13d7b5dc019e3c530a0bcb5406e14ce]
+## 305. Information about effective duration of lease[^c-d13d7b5dc019e3c530a0bcb5406e14ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d13d7b5dc019e3c530a0bcb5406e14ce]: Textual amendment: S. 305 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/44)
+[^c-d13d7b5dc019e3c530a0bcb5406e14ce]: Textual amendment: S. 305 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 44](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/44)

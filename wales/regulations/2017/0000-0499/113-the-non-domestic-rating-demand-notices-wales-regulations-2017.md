@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on the Secretary of State by sections 62, 143(1) and (2) and 146(6) of, and paragraphs 1, 2(2)(ga), (gc), (ge) and (h) and 6A of Schedule 9 to, the Local Government Finance Act 1988[^f00001], and now vested in them[^f00002].
 
-## 1. Title, commencement and application[^key-956bb13db971104734076b2d6db955fa]
+## 1. Title, commencement and application[^c-956bb13db971104734076b2d6db955fa]
 
 (1) The title of these Regulations is the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017.
 
@@ -53,7 +53,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 (3) These Regulations apply in relation to demand notices which relate to financial years beginning on or after 1 April 2017 and are issued by or on behalf of Welsh billing authorities.
 
-## 2. Interpretation[^key-29764d09a100b40a1100527b6ab72fbc]
+## 2. Interpretation[^c-29764d09a100b40a1100527b6ab72fbc]
 
 In these Regulations—
 
@@ -65,13 +65,13 @@ In these Regulations—
 - “police and crime commissioner” (“*comisiynydd heddlu a throseddu*”), in relation to a billing authority, means the police and crime commissioner which has power to issue a precept to the billing authority;
 - “the relevant year” (“*y flwyddyn berthnasol*”) means the financial year to which the demand for payment made by the demand notice relates.
 
-## 3. Content of demand notices[^key-569b5e02dae7e45e7939a1386ad0be41]
+## 3. Content of demand notices[^c-569b5e02dae7e45e7939a1386ad0be41]
 
 (1) A demand notice must contain the matters prescribed in Schedule 1.
 
 (2) Nothing in this regulation requires a notice to be given on a single sheet of paper, but if more than one sheet is used, the sheets must be issued together, whether or not attached, so as to comprise one notice.
 
-## 4. Invalid demand notices[^key-cc5059081ae0fa91c8387fb7bf254dc2]
+## 4. Invalid demand notices[^c-cc5059081ae0fa91c8387fb7bf254dc2]
 
 (1) For the purpose of this regulation an “invalid notice” (“*hysbysiad annilys*”) means a demand notice that does not comply with regulation 3(1).
 
@@ -82,7 +82,7 @@ In these Regulations—
 
 (3) A billing authority must, as soon as practicable after the mistake is discovered, issue to the ratepayer concerned a statement of the matters prescribed in Schedule 1 which were not contained in the invalid notice.
 
-## 5. Demand notices: explanatory, financial and other information[^key-df9b079b9a1b9759bf0c56cbc1567fc6]
+## 5. Demand notices: explanatory, financial and other information[^c-df9b079b9a1b9759bf0c56cbc1567fc6]
 
 (1) A demand notice must be accompanied by—
 
@@ -93,7 +93,7 @@ In these Regulations—
 
 (3) Paragraph (1)(b) does not apply where a demand notice is served after the end of the relevant year.
 
-## 6. Supply of information by police and crime commissioners[^key-d2d2b714e43f90d33aaaef542d11681c]
+## 6. Supply of information by police and crime commissioners[^c-d2d2b714e43f90d33aaaef542d11681c]
 
 (1) On issuing a precept to a billing authority for a financial year a police and crime commissioner must supply the billing authority with information as to—
 
@@ -110,15 +110,15 @@ In these Regulations—
 - (a) the billing authority notifies the police and crime commissioner that it has set, or proposes to set, an amount of council tax under section 31 of the 1992 Act[^f00006] by reference to the substitute precept, and
 - (b) the information would not repeat information given as regards a precept issued for the preceding financial year.
 
-## 7. Revocation and savings provision[^key-2e88394f9b859ed67451d6f3d90c2c74]
+## 7. Revocation and savings provision[^c-2e88394f9b859ed67451d6f3d90c2c74]
 
 The instruments specified in column (1) of the table in Schedule 4 are revoked to the extent indicated in column (3) but continue to apply to a financial year ending on or before 31 March 2017.
 
-## 8. Consequential provision[^key-3e8efebb1c234b6841df7c6c888baa49]
+## 8. Consequential provision[^c-3e8efebb1c234b6841df7c6c888baa49]
 
 In regulation 1(2) of the Non-Domestic Rating (Collection and Enforcement) (Local Lists) Regulations 1989 in the definition of “demand notice regulations”, for “the Non-Domestic Rating (Demand Notices) (Wales) Regulations 1993[^f00007]” substitute “the Non-Domestic Rating (Demand Notices) (Wales) Regulations 2017”.
 
-**9.**[^key-041ed2686b12ef2645fd1f7fb9761eaf] (1) Article 66 (contents of demand notices—Wales) of the Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996[^f00008] is amended as follows.
+**9.**[^c-041ed2686b12ef2645fd1f7fb9761eaf] (1) Article 66 (contents of demand notices—Wales) of the Local Authorities (Contracting Out of Tax Billing, Collection and Enforcement Functions) Order 1996[^f00008] is amended as follows.
 
 (2) In paragraph (1)—
 
@@ -139,7 +139,7 @@ In regulation 1(2) of the Non-Domestic Rating (Collection and Enforcement) (Loca
 
 (5) In paragraph (3)(c), for “Part I” substitute “Part 1”.
 
-**10.**[^key-fe632d7bc854fd69321b625517cab6e0] (1) Regulation 9 of the Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2012[^f00009] is amended as follows.
+**10.**[^c-fe632d7bc854fd69321b625517cab6e0] (1) Regulation 9 of the Non-Domestic Rating (Deferred Payments) (Wales) Regulations 2012[^f00009] is amended as follows.
 
 (2) In both the heading and the body of the regulation, for “1993” substitute “2017”.
 
@@ -153,25 +153,25 @@ Cabinet Secretary for Local Government and Finance, one of the Welsh Ministers
 
 Regulation 3
 
-**1.**[^key-fbd35422ade0bfb2bde18b9511aae465] The address and a description of each hereditament to which the demand notice relates (“relevant hereditament”).
+**1.**[^c-fbd35422ade0bfb2bde18b9511aae465] The address and a description of each hereditament to which the demand notice relates (“relevant hereditament”).
 
-**2.**[^key-9d1a3a477145524e5ad2064365ee8dad] The rateable value shown for each relevant hereditament in the authority’s local non-domestic rating list.
+**2.**[^c-9d1a3a477145524e5ad2064365ee8dad] The rateable value shown for each relevant hereditament in the authority’s local non-domestic rating list.
 
-**3.**[^key-2f504fdc778d091fff3fd24b4a6ceece] The non-domestic rating multiplier calculated for the relevant year in accordance with paragraph A15 or, as the case may be, paragraph A14 of Part A2 of Schedule 7 to the 1988 Act.
+**3.**[^c-2f504fdc778d091fff3fd24b4a6ceece] The non-domestic rating multiplier calculated for the relevant year in accordance with paragraph A15 or, as the case may be, paragraph A14 of Part A2 of Schedule 7 to the 1988 Act.
 
-**4.**[^key-0e9815f6fb244c4fde4c7d7f458e39b6] Where regulations under paragraphs 1(2)(b) and 3(9) of Schedule 4ZB to the 1988 Act are[^key-fffcd03fe2f680988c01b5428591cc25] or will be in force on any day in the relevant year, a statement of the days, if any, on which, for the purposes of calculating the payments required to be made under the demand notice, it was understood or assumed that the conditions mentioned in section 45(1) of the 1988 Act[^f00012] were or would be fulfilled in relation to any relevant hereditament, and a statement that as regards those days the chargeable amount is reduced by the proportion provided for in the regulations as compared with the amount it would be if paragraph 1(1)(b) of Schedule 4ZB to[^M_F_a7d8b75f-a333-4164-cbcd-eca71cfc286a] the 1988 Act[^f00013] applied to the calculation of the chargeable amount for those days.
+**4.**[^c-0e9815f6fb244c4fde4c7d7f458e39b6] Where regulations under paragraphs 1(2)(b) and 3(9) of Schedule 4ZB to the 1988 Act are[^c-fffcd03fe2f680988c01b5428591cc25] or will be in force on any day in the relevant year, a statement of the days, if any, on which, for the purposes of calculating the payments required to be made under the demand notice, it was understood or assumed that the conditions mentioned in section 45(1) of the 1988 Act[^f00012] were or would be fulfilled in relation to any relevant hereditament, and a statement that as regards those days the chargeable amount is reduced by the proportion provided for in the regulations as compared with the amount it would be if paragraph 1(1)(b) of Schedule 4ZB to[^M_F_a7d8b75f-a333-4164-cbcd-eca71cfc286a] the 1988 Act[^f00013] applied to the calculation of the chargeable amount for those days.
 
-**5.**[^key-42310c826ac816d181b2206d3ffced19] Where paragraph 2 of Schedule 4ZB to[^key-b2dc930233a7275678482be0608fb3e4] the 1988 Act[^f00014] applies to any relevant hereditament on any day in the relevant year, a statement as regards those days the chargeable amount is zero under that section and a statement of the amount which would have been demanded if paragraph 1(1)[^key-8a217897eb7712eeab678955a10374b0][^key-2a13558ab17ce3e4078b7ed610eb9da3] of Schedule 4ZB to the 1988 Act applied to the calculation of the chargeable amount for those days.
+**5.**[^c-42310c826ac816d181b2206d3ffced19] Where paragraph 2 of Schedule 4ZB to[^c-b2dc930233a7275678482be0608fb3e4] the 1988 Act[^f00014] applies to any relevant hereditament on any day in the relevant year, a statement as regards those days the chargeable amount is zero under that section and a statement of the amount which would have been demanded if paragraph 1(1)[^c-8a217897eb7712eeab678955a10374b0][^c-2a13558ab17ce3e4078b7ed610eb9da3] of Schedule 4ZB to the 1988 Act applied to the calculation of the chargeable amount for those days.
 
-**6.**[^key-b7ff22378c611ea71d1f1155f8ad980e] A statement of the days, if any, on which, for the purposes of calculating the payments required to be made under the demand notice, it was understood or assumed that—
+**6.**[^c-b7ff22378c611ea71d1f1155f8ad980e] A statement of the days, if any, on which, for the purposes of calculating the payments required to be made under the demand notice, it was understood or assumed that—
 
-- (a) the chargeable amount would fall to be calculated under paragraph 2(1) or 4(1) of Schedule 4ZA to[^key-88bfca3dde4c9255a973f8c29cb8f29f] the 1988 Act[^f00015];
-- (b) the chargeable amount would fall to be calculated by reference to paragraph 10(2) of Schedule 4ZA to[^key-a90e6c87ad4db81c6acabf7821053484] the 1988 Act as substituted by section 44A(7) or (9) of that Act[^f00016]; or
-- (c) rules under section 47(1)(a) or 58(3)[^key-ea4935c5c07ab684bd8795b1a5381895] of the 1988 Act[^f00017] would apply;
+- (a) the chargeable amount would fall to be calculated under paragraph 2(1) or 4(1) of Schedule 4ZA to[^c-88bfca3dde4c9255a973f8c29cb8f29f] the 1988 Act[^f00015];
+- (b) the chargeable amount would fall to be calculated by reference to paragraph 10(2) of Schedule 4ZA to[^c-a90e6c87ad4db81c6acabf7821053484] the 1988 Act as substituted by section 44A(7) or (9) of that Act[^f00016]; or
+- (c) rules under section 47(1)(a) or 58(3)[^c-ea4935c5c07ab684bd8795b1a5381895] of the 1988 Act[^f00017] would apply;
 
-together with a statement of the manner in which the chargeable amount for those days was calculated and of the amount by which the aggregate amount demanded under the demand notice is reduced as compared with the amount which would have been demanded if paragraph 1 of Schedule 4ZA, without modification, and (so far as is relevant) paragraph 10(2) of Schedule 4ZA[^key-81c4037cdae3d766ccdd7e3791bdba3c] without substitution, applied to the calculation of the chargeable amount for those days.
+together with a statement of the manner in which the chargeable amount for those days was calculated and of the amount by which the aggregate amount demanded under the demand notice is reduced as compared with the amount which would have been demanded if paragraph 1 of Schedule 4ZA, without modification, and (so far as is relevant) paragraph 10(2) of Schedule 4ZA[^c-81c4037cdae3d766ccdd7e3791bdba3c] without substitution, applied to the calculation of the chargeable amount for those days.
 
-**7.**[^key-b19d1aec2027cb49f862518ec7d88412] The demand notice must contain the following paragraphs—
+**7.**[^c-b19d1aec2027cb49f862518ec7d88412] The demand notice must contain the following paragraphs—
 
 > The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 require a ratepayer for the relevant hereditament shown in a local non-domestic rating list to notify the billing authority when certain changes of circumstances occur. You must notify the billing authority of the date on which any of the following changes occurred, within the period of 60 days of that date—
 >
@@ -181,7 +181,7 @@ together with a statement of the manner in which the chargeable amount for those
 >
 > Failure to comply with this requirement may result in liability to a fine of £500. Providing information which is false in a material particular may result in liability on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-## SCHEDULE 2[^key-d90aea75a2cb69e97bd0075731cfd351]
+## SCHEDULE 2[^c-d90aea75a2cb69e97bd0075731cfd351]
 
 Regulation 5
 
@@ -197,23 +197,23 @@ The non-domestic rates collected by billing authorities are paid into a central 
 
 ### Rateable value
 
-The rateable value of non-domestic property is fixed in most cases by an independent valuation officer of the Valuation Office Agency which is an Executive Agency of His Majesty’s[^key-11b40eb4df5327dd90c843190acaf2a7] Revenue and Customs (HMRC). They compile and maintain a full list of the rateable values of all non-domestic properties in Wales, available on their website at www.gov.uk/government/organisations/valuation-office-agency. All non-domestic property is normally revalued every 3 years[^key-91cf4e611c7ebc393279c744f4fc046a]. From 1 April 2026[^key-f30de5e549001cacbbdccf52d326053f] the rateable value of a property represents its annual open market rental value as at 1 April 2024[^key-db6aeab71df82db5b3644b1c6618f20e].
+The rateable value of non-domestic property is fixed in most cases by an independent valuation officer of the Valuation Office Agency which is an Executive Agency of His Majesty’s[^c-11b40eb4df5327dd90c843190acaf2a7] Revenue and Customs (HMRC). They compile and maintain a full list of the rateable values of all non-domestic properties in Wales, available on their website at www.gov.uk/government/organisations/valuation-office-agency. All non-domestic property is normally revalued every 3 years[^c-91cf4e611c7ebc393279c744f4fc046a]. From 1 April 2026[^c-f30de5e549001cacbbdccf52d326053f] the rateable value of a property represents its annual open market rental value as at 1 April 2024[^c-db6aeab71df82db5b3644b1c6618f20e].
 
 For composite properties which are partly domestic and partly non-domestic the rateable value relates to the non-domestic part only. The values of all property in respect of which rates are payable to your authority are shown in the local rating list, a copy of which may be inspected at *name and address of local valuation office and name and address of billing authority.*
 
 ### Revaluation
 
-All rateable values are reassessed at a general revaluation to ensure rates paid by any one ratepayer reflect changes over time in the value of their property relative to others. This helps maintain fairness in the rating system by updating valuations in line with changes in the market. The current rating list came into effect on 1 April 2026[^key-ce26ae1b462effd0912b202a5e909cc4] and is based on values as at 1 April 2024.
+All rateable values are reassessed at a general revaluation to ensure rates paid by any one ratepayer reflect changes over time in the value of their property relative to others. This helps maintain fairness in the rating system by updating valuations in line with changes in the market. The current rating list came into effect on 1 April 2026[^c-ce26ae1b462effd0912b202a5e909cc4] and is based on values as at 1 April 2024.
 
 In the year a revaluation takes effect, the multiplier is rebased to account for overall changes to total rateable value and to ensure that the revaluation does not raise extra money.
 
 ### Alteration of rateable value
 
-The rateable value may alter if the valuation officer believes that the circumstances of the property have changed. The ratepayer (and certain others who have an interest in the property) may also in certain circumstances propose a change in value.[^key-f1944e5457937d282c3cc24e5191585e]... Further information about how to propose a change in a rateable value is available from valuation offices.
+The rateable value may alter if the valuation officer believes that the circumstances of the property have changed. The ratepayer (and certain others who have an interest in the property) may also in certain circumstances propose a change in value.[^c-f1944e5457937d282c3cc24e5191585e]... Further information about how to propose a change in a rateable value is available from valuation offices.
 
 ### Non-domestic rating multiplier
 
-This is the rate in the pound by which the rateable value is multiplied to give the annual rate bill for a property. There are three multipliers applicable in Wales: the standard multiplier, the retail multiplier and the higher multiplier. The multipliers are set annually by the Welsh Ministers[^key-dfe89f5961f2a82d06ba9c4d719fdeb0] [^key-aaaa03a602fb4f194d687c81e1390907]....
+This is the rate in the pound by which the rateable value is multiplied to give the annual rate bill for a property. There are three multipliers applicable in Wales: the standard multiplier, the retail multiplier and the higher multiplier. The multipliers are set annually by the Welsh Ministers[^c-dfe89f5961f2a82d06ba9c4d719fdeb0] [^c-aaaa03a602fb4f194d687c81e1390907]....
 
 ### Proposals and appeals
 
@@ -238,15 +238,15 @@ For more information regarding clubs you should contact *HM Revenue & Customs ad
 
 ### Small business rate relief
 
-The Non-Domestic Rating (Small Business Relief) (Wales) Order 2017[^key-0e8ad93e93d547e2a3507079ed591f20] makes provision for rates relief for small businesses. Full details including the eligibility criteria, the exceptions, the procedural requirements and the relevant rates reliefs are available from the billing authority.
+The Non-Domestic Rating (Small Business Relief) (Wales) Order 2017[^c-0e8ad93e93d547e2a3507079ed591f20] makes provision for rates relief for small businesses. Full details including the eligibility criteria, the exceptions, the procedural requirements and the relevant rates reliefs are available from the billing authority.
 
 ### Transitional rate relief
 
-The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2025[^key-ec44c666f33d9d31c64c375cfd2bf675] make provision for transitional relief for [^key-60afc3b165d7329f8bacb61e1cd07d56]... businesses adversely impacted by the revaluation of non-domestic hereditaments taking effect from 1 April 2026[^key-b82f3a252d4e941712926c871b2df24a]. Full details including the eligibility criteria, the exceptions, the procedural requirements and the relevant rates reliefs are available from the billing authority.
+The Non-Domestic Rating (Chargeable Amounts) (Wales) Regulations 2025[^c-ec44c666f33d9d31c64c375cfd2bf675] make provision for transitional relief for [^c-60afc3b165d7329f8bacb61e1cd07d56]... businesses adversely impacted by the revaluation of non-domestic hereditaments taking effect from 1 April 2026[^c-b82f3a252d4e941712926c871b2df24a]. Full details including the eligibility criteria, the exceptions, the procedural requirements and the relevant rates reliefs are available from the billing authority.
 
 ### State aid
 
-[^key-1b6545befddd51190477dc2ca1eb3702]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1b6545befddd51190477dc2ca1eb3702]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **2.** Italics in paragraph 1 above indicate words to be inserted.
 
@@ -256,7 +256,7 @@ Regulation 6
 
 ### PART 1 — Information for supply with demand notices
 
-**1.**[^key-974a61d919f153402a6ae31d6f0bf9e1] The estimates of the billing authority and of the police and crime commissioner of the—
+**1.**[^c-974a61d919f153402a6ae31d6f0bf9e1] The estimates of the billing authority and of the police and crime commissioner of the—
 
 - (a) aggregate of its gross expenditure for the relevant year for all services administered by it;
 - (b) allowance appropriate for contingencies and the contributions to or from financial reserves for the relevant year;
@@ -270,49 +270,49 @@ Regulation 6
 - (f) aggregate of its gross expenditure for the preceding year for all services administered by it; and
 - (g) amount of its financial reserves at the end of the preceding year.
 
-**2.**[^key-8e1e59e813060c856a2edf01fd4bf8e1] The amount calculated as its budget requirement for the relevant year—
+**2.**[^c-8e1e59e813060c856a2edf01fd4bf8e1] The amount calculated as its budget requirement for the relevant year—
 
 - (a) by the billing authority under section 32(4) of the 1992 Act; and
 - (b) by the police and crime commissioner under section 43(4) of the 1992 Act.
 
-**3.**[^key-ea218af69d0a0b6ed1e7febcfe32ef3a] The amount calculated for the relevant year by the billing authority and the police and crime commissioner as the amount of the difference (whether positive or negative) between—
+**3.**[^c-ea218af69d0a0b6ed1e7febcfe32ef3a] The amount calculated for the relevant year by the billing authority and the police and crime commissioner as the amount of the difference (whether positive or negative) between—
 
 - (a) the amount of its budget requirement for that year; and
 - (b) the amount calculated by it for that year as the amount for item P in section 33(1) or, as the case may be, section 44(1) of the 1992 Act[^f00023].
 
-**4.**[^key-a7e7249abf13c1494ce4381c8c2d0f63] The standard spending assessment for the billing authority and the police and crime commissioner for the relevant year.
+**4.**[^c-a7e7249abf13c1494ce4381c8c2d0f63] The standard spending assessment for the billing authority and the police and crime commissioner for the relevant year.
 
-**5.**[^key-953d8fda4d69a055325bf8e84a1b0711] The amount of the precept anticipated by the billing authority for the relevant year, if any, pursuant to regulations under section 41(3) of the 1992 Act[^f00024].
+**5.**[^c-953d8fda4d69a055325bf8e84a1b0711] The amount of the precept anticipated by the billing authority for the relevant year, if any, pursuant to regulations under section 41(3) of the 1992 Act[^f00024].
 
-**6.**[^key-4c63cceeabbf36ca04baf77648928d6f] Where a body has issued a levy or special levy to the billing authority that was taken into account for the relevant year by the authority in making its estimate under section 32(2)(a) of the 1992 Act[^f00025]—
+**6.**[^c-4c63cceeabbf36ca04baf77648928d6f] Where a body has issued a levy or special levy to the billing authority that was taken into account for the relevant year by the authority in making its estimate under section 32(2)(a) of the 1992 Act[^f00025]—
 
 - (a) the amount of the levy or special levy; and
 - (b) information as to whether any of it was treated as special expenses of the authority.
 
-**7.**[^key-5f4b1cc1c59aee5a23a881beb270a0f9] The amount of any levy or special levy issued to a billing authority that was taken into account for the preceding year by the authority in making its estimate under section 32(2)(a) of the 1992 Act.
+**7.**[^c-5f4b1cc1c59aee5a23a881beb270a0f9] The amount of any levy or special levy issued to a billing authority that was taken into account for the preceding year by the authority in making its estimate under section 32(2)(a) of the 1992 Act.
 
-**8.**[^key-b457577e24a536f72d0f598c3875d537] The amount of the precept, if any, issued by each community council for—
+**8.**[^c-b457577e24a536f72d0f598c3875d537] The amount of the precept, if any, issued by each community council for—
 
 - (a) the relevant year; and
 - (b) the preceding year.
 
 ### PART 2 — Interpretation etc.
 
-**9.**[^key-d9b806c7174fa090e28a498d268ff592] For the purposes of paragraph 1(a) and (f) of Part 1, the gross expenditure in respect of a service for a year is the sum of all items charged to a revenue account for the year attributable to the service, but does not include allowances for contingencies or contributions to financial reserves.
+**9.**[^c-d9b806c7174fa090e28a498d268ff592] For the purposes of paragraph 1(a) and (f) of Part 1, the gross expenditure in respect of a service for a year is the sum of all items charged to a revenue account for the year attributable to the service, but does not include allowances for contingencies or contributions to financial reserves.
 
-**10.**[^key-04a58f13f4cefcb4e6598ac57fc03409] The estimates for the relevant year and for the preceding year, to be supplied pursuant to paragraph 1(a), (b), (c), (f) and (g) of Part 1 are—
+**10.**[^c-04a58f13f4cefcb4e6598ac57fc03409] The estimates for the relevant year and for the preceding year, to be supplied pursuant to paragraph 1(a), (b), (c), (f) and (g) of Part 1 are—
 
 - (a) as regards the billing authority, estimates made for the purposes of the calculations required by section 32 of the 1992 Act; and
 - (b) as regards police and crime commissioners, estimates made for the purposes of the calculations required by section 43 of the 1992 Act.
 
-**11.**[^key-005e489cbd2c5f1a7bcf44338696013f] For the purposes of paragraph 1(d) of Part 1, capital expenditure is expenditure of the billing authority which—
+**11.**[^c-005e489cbd2c5f1a7bcf44338696013f] For the purposes of paragraph 1(d) of Part 1, capital expenditure is expenditure of the billing authority which—
 
 - (a) falls to be capitalised in accordance with proper practices; or
 - (b) is treated as being capital expenditure by virtue of regulations or directions made by the Welsh Ministers under section 16(2) of the Local Government Act 2003.
 
-**12.**[^key-a141f941912540a2e933270a207d4180] For the purposes of paragraph 4 of Part 1, the standard spending assessment for a billing authority and police and crime commissioner for the relevant year is the standard spending assessment for that body in the local government finance report for that year made by the Welsh Ministers under section 84G of the 1988 Act[^f00026] and approved by resolution of the National Assembly for Wales.
+**12.**[^c-a141f941912540a2e933270a207d4180] For the purposes of paragraph 4 of Part 1, the standard spending assessment for a billing authority and police and crime commissioner for the relevant year is the standard spending assessment for that body in the local government finance report for that year made by the Welsh Ministers under section 84G of the 1988 Act[^f00026] and approved by resolution of the National Assembly for Wales.
 
-## SCHEDULE 4 — Revocations and savings[^key-6fd00515657fdffa5a557da7c248fe3d]
+## SCHEDULE 4 — Revocations and savings[^c-6fd00515657fdffa5a557da7c248fe3d]
 
 Regulation 7
 
@@ -358,9 +358,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: The powers of the Secretary of State were transferred, in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). The functions of the National Assembly for Wales were subsequently transferred to the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-956bb13db971104734076b2d6db955fa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/113/regulation/1) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-956bb13db971104734076b2d6db955fa]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/113/regulation/1) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-29764d09a100b40a1100527b6ab72fbc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/113/regulation/2) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-29764d09a100b40a1100527b6ab72fbc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/113/regulation/2) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00003]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
@@ -368,39 +368,39 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00005]: Footnote: [S.I. 1990/145](https://www.legislation.gov.uk/uksi/1990/145), as amended by [S.I. 1993/616](https://www.legislation.gov.uk/uksi/1993/616) and [2014/600](https://www.legislation.gov.uk/uksi/2014/600).
 
-[^key-569b5e02dae7e45e7939a1386ad0be41]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/113/regulation/3) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-569b5e02dae7e45e7939a1386ad0be41]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2017/113/regulation/3) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-cc5059081ae0fa91c8387fb7bf254dc2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/113/regulation/4) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-cc5059081ae0fa91c8387fb7bf254dc2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/113/regulation/4) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-df9b079b9a1b9759bf0c56cbc1567fc6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/113/regulation/5) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-df9b079b9a1b9759bf0c56cbc1567fc6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/113/regulation/5) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-d2d2b714e43f90d33aaaef542d11681c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/113/regulation/6) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-d2d2b714e43f90d33aaaef542d11681c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/113/regulation/6) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00006]: Footnote: As amended by paragraph 2(2) to (5) of Schedule 6 and paragraph 9 of Schedule 7 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-2e88394f9b859ed67451d6f3d90c2c74]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2017/113/regulation/7) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-2e88394f9b859ed67451d6f3d90c2c74]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2017/113/regulation/7) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-3e8efebb1c234b6841df7c6c888baa49]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2017/113/regulation/8) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-3e8efebb1c234b6841df7c6c888baa49]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2017/113/regulation/8) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 1993/252](https://www.legislation.gov.uk/uksi/1993/252).
 
-[^key-041ed2686b12ef2645fd1f7fb9761eaf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/113/regulation/9) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-041ed2686b12ef2645fd1f7fb9761eaf]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/113/regulation/9) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 1996/1880](https://www.legislation.gov.uk/uksi/1996/1880).
 
-[^key-fe632d7bc854fd69321b625517cab6e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2017/113/regulation/10) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-fe632d7bc854fd69321b625517cab6e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2017/113/regulation/10) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2012/466 (W. 77)](https://www.legislation.gov.uk/wsi/2012/466).
 
-[^key-fbd35422ade0bfb2bde18b9511aae465]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/1) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-fbd35422ade0bfb2bde18b9511aae465]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/1) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-9d1a3a477145524e5ad2064365ee8dad]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/2) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-9d1a3a477145524e5ad2064365ee8dad]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/2) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-2f504fdc778d091fff3fd24b4a6ceece]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/3) substituted (1.4.2025) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/4), [26(2)](https://www.legislation.gov.uk/wsi/2024/998/regulation/26/2)
+[^c-2f504fdc778d091fff3fd24b4a6ceece]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/3) substituted (1.4.2025) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/4), [26(2)](https://www.legislation.gov.uk/wsi/2024/998/regulation/26/2)
 
-[^key-0e9815f6fb244c4fde4c7d7f458e39b6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/4) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-0e9815f6fb244c4fde4c7d7f458e39b6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/4) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-fffcd03fe2f680988c01b5428591cc25]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/4) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(2)(a)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/2/a)
+[^c-fffcd03fe2f680988c01b5428591cc25]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/4) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(2)(a)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/2/a)
 
 [^f00012]: Footnote: Section 45(1) of the 1988 Act was amended by paragraph 23 of Schedule 5 to the 1989 Act.
 
@@ -408,96 +408,96 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00013]: Footnote: Section 45(4) of the 1988 Act was inserted by section 1(1) of the Rating (Empty Properties) Act 2007.
 
-[^key-42310c826ac816d181b2206d3ffced19]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/5) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-42310c826ac816d181b2206d3ffced19]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/5) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-b2dc930233a7275678482be0608fb3e4]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/5) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(3)(a)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/3/a)
+[^c-b2dc930233a7275678482be0608fb3e4]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/5) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(3)(a)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/3/a)
 
 [^f00014]: Footnote: Section 45A of the 1988 Act was inserted by section 1(2) of the Rating (Empty Properties) Act 2007.
 
-[^key-8a217897eb7712eeab678955a10374b0]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/5) substituted (1.4.2025) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/4), [26(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/26/3)
+[^c-8a217897eb7712eeab678955a10374b0]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/5) substituted (1.4.2025) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/4), [26(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/26/3)
 
-[^key-2a13558ab17ce3e4078b7ed610eb9da3]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/5) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(3)(b)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/3/b)
+[^c-2a13558ab17ce3e4078b7ed610eb9da3]: Textual amendment: Words in [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/5) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(3)(b)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/3/b)
 
-[^key-b7ff22378c611ea71d1f1155f8ad980e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-b7ff22378c611ea71d1f1155f8ad980e]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-88bfca3dde4c9255a973f8c29cb8f29f]: Textual amendment: Words in [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6/a) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(4)(a)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/4/a)
+[^c-88bfca3dde4c9255a973f8c29cb8f29f]: Textual amendment: Words in [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6/a) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(4)(a)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/4/a)
 
 [^f00015]: Footnote: Section 43(4A) was inserted by section 61 of the Local Government Act 2003.
 
-[^key-a90e6c87ad4db81c6acabf7821053484]: Textual amendment: Words in [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6/b) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(4)(b)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/4/b)
+[^c-a90e6c87ad4db81c6acabf7821053484]: Textual amendment: Words in [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6/b) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(4)(b)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/4/b)
 
 [^f00016]: Footnote: Section 44A was inserted by section 139 of, and paragraph 22 of Schedule 5 to, the 1989 Act. Section 44A(9) was amended by paragraph 1(4) of Schedule 1 to the Rating (Empty Properties) Act 2007.
 
-[^key-ea4935c5c07ab684bd8795b1a5381895]: Textual amendment: Word in [Sch. 1 para. 6(c)](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6/c) substituted (27.10.2023 at 8.00 p.m.) by [The Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023 (S.I. 2023/1154)](https://www.legislation.gov.uk/wsi/2023/1154), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/3), [4(4)(c)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/4/c)
+[^c-ea4935c5c07ab684bd8795b1a5381895]: Textual amendment: Word in [Sch. 1 para. 6(c)](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6/c) substituted (27.10.2023 at 8.00 p.m.) by [The Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023 (S.I. 2023/1154)](https://www.legislation.gov.uk/wsi/2023/1154), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/3), [4(4)(c)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/4/4/c)
 
 [^f00017]: Footnote: Section 47(1)(a) was amended by paragraph 65 of Schedule 13 to the 1992 Act and section 69 of the Localism Act 2011.
 
-[^key-81c4037cdae3d766ccdd7e3791bdba3c]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(4)(c)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/4/c)
+[^c-81c4037cdae3d766ccdd7e3791bdba3c]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/6) substituted (1.4.2024) by [The Non-Domestic Rating (Miscellaneous and Consequential Amendments to Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/37)](https://www.legislation.gov.uk/wsi/2024/37), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2024/37/regulation/1/4), [8(4)(c)](https://www.legislation.gov.uk/wsi/2024/37/regulation/8/4/c)
 
-[^key-b19d1aec2027cb49f862518ec7d88412]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/7) inserted (31.1.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2026/15/regulation/10)
+[^c-b19d1aec2027cb49f862518ec7d88412]: Textual amendment: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2017/113/schedule/1/paragraph/7) inserted (31.1.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/2), [10](https://www.legislation.gov.uk/wsi/2026/15/regulation/10)
 
-[^key-d90aea75a2cb69e97bd0075731cfd351]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2017/113/schedule/2) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-d90aea75a2cb69e97bd0075731cfd351]: Commencement: [Sch. 2](https://www.legislation.gov.uk/wsi/2017/113/schedule/2) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-11b40eb4df5327dd90c843190acaf2a7]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/2/a)
+[^c-11b40eb4df5327dd90c843190acaf2a7]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(2)(a)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/2/a)
 
-[^key-91cf4e611c7ebc393279c744f4fc046a]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/2/b)
+[^c-91cf4e611c7ebc393279c744f4fc046a]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/2/b)
 
-[^key-f30de5e549001cacbbdccf52d326053f]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/2/c)
+[^c-f30de5e549001cacbbdccf52d326053f]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(2)(c)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/2/c)
 
-[^key-db6aeab71df82db5b3644b1c6618f20e]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(2)(d)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/2/d)
+[^c-db6aeab71df82db5b3644b1c6618f20e]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(2)(d)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/2/d)
 
-[^key-ce26ae1b462effd0912b202a5e909cc4]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/3)
+[^c-ce26ae1b462effd0912b202a5e909cc4]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/3)
 
-[^key-f1944e5457937d282c3cc24e5191585e]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2023 (S.I. 2023/3)](https://www.legislation.gov.uk/wsi/2023/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/3/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2023/3/regulation/2/4)
+[^c-f1944e5457937d282c3cc24e5191585e]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2023 (S.I. 2023/3)](https://www.legislation.gov.uk/wsi/2023/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/3/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2023/3/regulation/2/4)
 
-[^key-dfe89f5961f2a82d06ba9c4d719fdeb0]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(4)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/4)
+[^c-dfe89f5961f2a82d06ba9c4d719fdeb0]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(4)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/4)
 
-[^key-aaaa03a602fb4f194d687c81e1390907]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2023 (S.I. 2023/3)](https://www.legislation.gov.uk/wsi/2023/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/3/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2023/3/regulation/2/5)
+[^c-aaaa03a602fb4f194d687c81e1390907]: Textual amendment: Words in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2023 (S.I. 2023/3)](https://www.legislation.gov.uk/wsi/2023/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/3/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2023/3/regulation/2/5)
 
-[^key-0e8ad93e93d547e2a3507079ed591f20]: Textual amendment: Words in Sch. 2 substituted (23.2.2018 with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/122/regulation/1/3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2018 (S.I. 2018/122)](https://www.legislation.gov.uk/uksi/2018/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/122/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2018/122/regulation/2)
+[^c-0e8ad93e93d547e2a3507079ed591f20]: Textual amendment: Words in Sch. 2 substituted (23.2.2018 with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/122/regulation/1/3) of the amending S.I.) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2018 (S.I. 2018/122)](https://www.legislation.gov.uk/uksi/2018/122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/122/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2018/122/regulation/2)
 
-[^key-ec44c666f33d9d31c64c375cfd2bf675]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/6/a)
+[^c-ec44c666f33d9d31c64c375cfd2bf675]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(6)(a)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/6/a)
 
-[^key-60afc3b165d7329f8bacb61e1cd07d56]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2023 (S.I. 2023/3)](https://www.legislation.gov.uk/wsi/2023/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/3/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2023/3/regulation/2/6/b)
+[^c-60afc3b165d7329f8bacb61e1cd07d56]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) omitted (with application in accordance with reg. 1(3) of the amending S.I.) by virtue of [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2023 (S.I. 2023/3)](https://www.legislation.gov.uk/wsi/2023/3), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/3/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2023/3/regulation/2/6/b)
 
-[^key-b82f3a252d4e941712926c871b2df24a]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/6/b)
+[^c-b82f3a252d4e941712926c871b2df24a]: Textual amendment: Word in [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/2/paragraph/1) substituted (31.1.2026 with application in relation to financial years beginning on or after 1.4.2026) by [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) Regulations 2026 (W.S.I. 2026/1)](https://www.legislation.gov.uk/wsi/2026/1), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/1/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/wsi/2026/1/regulation/2/6/b)
 
-[^key-1b6545befddd51190477dc2ca1eb3702]: Textual amendment: Words in Sch. 2 omitted (31.12.2020 with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1250/regulation/1/2) of the amending S.I.) by virtue of [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1250)](https://www.legislation.gov.uk/wsi/2020/1250), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1250/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2020/1250/regulation/2)
+[^c-1b6545befddd51190477dc2ca1eb3702]: Textual amendment: Words in Sch. 2 omitted (31.12.2020 with application in accordance with [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1250/regulation/1/2) of the amending S.I.) by virtue of [The Non-Domestic Rating (Demand Notices) (Wales) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1250)](https://www.legislation.gov.uk/wsi/2020/1250), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/1250/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2020/1250/regulation/2)
 
-[^key-974a61d919f153402a6ae31d6f0bf9e1]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/1) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-974a61d919f153402a6ae31d6f0bf9e1]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/1) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00021]: Footnote: Section 84L was originally inserted by paragraph 1 of Schedule 2 to the Local Government Act 2003 but subsequently substituted by paragraph 29 of Schedule 1 to the Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 ([S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388)).
 
 [^f00022]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). As amended by section 24 of the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13) and section 142(1) of the Anti-social Behaviour, Crime and Policing Act [2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12).
 
-[^key-8e1e59e813060c856a2edf01fd4bf8e1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/2) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-8e1e59e813060c856a2edf01fd4bf8e1]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/2) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-ea218af69d0a0b6ed1e7febcfe32ef3a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/3) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-ea218af69d0a0b6ed1e7febcfe32ef3a]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/3) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00023]: Footnote: Section 33(1) was amended by paragraph 5(2) of Schedule 12 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19), paragraph 11 of Schedule 7 to the Localism Act 2011, regulation 4(1) of the Local Authorities (Alteration of Requisite Calculations and Funds) Regulations 1994 ([S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246)), regulation 3 of the Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2012 ([S.I. 2012/521) (W. 82)](https://www.legislation.gov.uk/wsi/2012/521) and regulation 3 of the Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2013 ([S.I. 2013/216) (W. 28)](https://www.legislation.gov.uk/wsi/2013/216). Section 44(1) was amended by paragraph 21 of Schedule 7 to the Localism Act 2011, regulation 4(1) of [S.I. 1994/246](https://www.legislation.gov.uk/uksi/1994/246), regulation 5 of the Local Authorities (Alteration of Requisite Calculations and Funds) Regulations 1995 ([S.I. 1995/234](https://www.legislation.gov.uk/uksi/1995/234)), regulation 5 of Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2010 ([S.I. 2010/317) (W. 41)](https://www.legislation.gov.uk/wsi/2010/317), regulation 5 of Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2011 ([S.I. 2011/446) (W. 67)](https://www.legislation.gov.uk/wsi/2011/446), [S.I. 2012/521 (W. 82)](https://www.legislation.gov.uk/wsi/2012/521) and [S.I. 2013/216 (W. 28)](https://www.legislation.gov.uk/wsi/2013/216).
 
-[^key-a7e7249abf13c1494ce4381c8c2d0f63]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/4) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-a7e7249abf13c1494ce4381c8c2d0f63]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/4) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-953d8fda4d69a055325bf8e84a1b0711]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/5) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-953d8fda4d69a055325bf8e84a1b0711]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/5) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00024]: Footnote: As amended by paragraph 18(4) of Schedule 7 to the Localism Act 2011.
 
-[^key-4c63cceeabbf36ca04baf77648928d6f]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/6) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-4c63cceeabbf36ca04baf77648928d6f]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/6) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00025]: Footnote: As substituted by regulation 2 of the Local Authorities (Alteration of Requisite Calculations) (Wales) Regulations 2013.
 
-[^key-5f4b1cc1c59aee5a23a881beb270a0f9]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/7) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-5f4b1cc1c59aee5a23a881beb270a0f9]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/7) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-b457577e24a536f72d0f598c3875d537]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/8) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-b457577e24a536f72d0f598c3875d537]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/8) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-d9b806c7174fa090e28a498d268ff592]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/9) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-d9b806c7174fa090e28a498d268ff592]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/9) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-04a58f13f4cefcb4e6598ac57fc03409]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/10) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-04a58f13f4cefcb4e6598ac57fc03409]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/10) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-005e489cbd2c5f1a7bcf44338696013f]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/11) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-005e489cbd2c5f1a7bcf44338696013f]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/11) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
-[^key-a141f941912540a2e933270a207d4180]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/12) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-a141f941912540a2e933270a207d4180]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2017/113/schedule/3/paragraph/12) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
 
 [^f00026]: Footnote: Section 84G was originally inserted by paragraph 1 of Schedule 2 to the Local Government Act 2003 and later amended by paragraph 25 of Schedule 1 to [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
-[^key-6fd00515657fdffa5a557da7c248fe3d]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/4) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)
+[^c-6fd00515657fdffa5a557da7c248fe3d]: Commencement: [Sch. 4](https://www.legislation.gov.uk/wsi/2017/113/schedule/4) in force at 13.3.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/113/regulation/1/2)

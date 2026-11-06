@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28A. Charging schedules: procedure in relation to a charging schedule ceasing to have effect[^key-f46940cfb10ec94b9665814b9ba7c65b]
+## 28A. Charging schedules: procedure in relation to a charging schedule ceasing to have effect[^c-f46940cfb10ec94b9665814b9ba7c65b]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f46940cfb10ec94b9665814b9ba7c65b]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2010/948/regulation/28A) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/4/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))
+[^c-f46940cfb10ec94b9665814b9ba7c65b]: Textual amendment: [Reg. 28A](https://www.legislation.gov.uk/uksi/2010/948/regulation/28A) inserted (E.) (1.9.2019) by [The Community Infrastructure Levy (Amendment) (England) (No. 2) Regulations 2019 (S.I. 2019/1103)](https://www.legislation.gov.uk/uksi/2019/1103), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1103/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/1103/regulation/4/2) (with [reg. 13](https://www.legislation.gov.uk/uksi/2019/1103/regulation/13))

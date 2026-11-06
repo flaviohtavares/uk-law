@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Discussion stage[^key-616c2dc81fab67933d83d088fb57dbf8]
+## 69. Discussion stage[^c-616c2dc81fab67933d83d088fb57dbf8]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-616c2dc81fab67933d83d088fb57dbf8]: Commencement: Reg. 69 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-616c2dc81fab67933d83d088fb57dbf8]: Commencement: Reg. 69 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

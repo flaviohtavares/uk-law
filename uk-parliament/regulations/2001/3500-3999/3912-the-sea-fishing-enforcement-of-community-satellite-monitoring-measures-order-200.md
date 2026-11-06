@@ -33,7 +33,7 @@ SEA FISHERIES, ENGLAND
 
 SEA FISHERIES, NORTHERN IRELAND
 
-The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) Order 2000 Amendment Regulations 2001 (revoked)[^key-44eb27485a78fb63d6887101df15ca6e]
+The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) Order 2000 Amendment Regulations 2001 (revoked)[^c-44eb27485a78fb63d6887101df15ca6e]
 
 Made
 
@@ -47,36 +47,36 @@ Coming into force
 
 1st January 2002
 
-[^key-44eb27485a78fb63d6887101df15ca6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44eb27485a78fb63d6887101df15ca6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and saving[^key-44eb27485a78fb63d6887101df15ca6e]
+## 1. Title, commencement and saving[^c-44eb27485a78fb63d6887101df15ca6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-44eb27485a78fb63d6887101df15ca6e]
+## 2. Interpretation[^c-44eb27485a78fb63d6887101df15ca6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Order[^key-44eb27485a78fb63d6887101df15ca6e]
+## 3. Amendment of the Order[^c-44eb27485a78fb63d6887101df15ca6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-44eb27485a78fb63d6887101df15ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-44eb27485a78fb63d6887101df15ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-44eb27485a78fb63d6887101df15ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-44eb27485a78fb63d6887101df15ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-44eb27485a78fb63d6887101df15ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-44eb27485a78fb63d6887101df15ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-44eb27485a78fb63d6887101df15ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-44eb27485a78fb63d6887101df15ca6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-44eb27485a78fb63d6887101df15ca6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44eb27485a78fb63d6887101df15ca6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-44eb27485a78fb63d6887101df15ca6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44eb27485a78fb63d6887101df15ca6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44eb27485a78fb63d6887101df15ca6e]: Textual amendment: Regulations revoked (E.) (1.1.2005) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) Amendment (Revocation) (England) Regulations 2004 (S.I. 2004/3227)](https://www.legislation.gov.uk/uksi/2004/3227), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3227/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2004/3227/regulation/2)
+[^c-44eb27485a78fb63d6887101df15ca6e]: Textual amendment: Regulations revoked (E.) (1.1.2005) by [The Sea Fishing (Enforcement of Community Satellite Monitoring Measures) Amendment (Revocation) (England) Regulations 2004 (S.I. 2004/3227)](https://www.legislation.gov.uk/uksi/2004/3227), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3227/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2004/3227/regulation/2)
 
     Regulations revoked (N.I.) (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

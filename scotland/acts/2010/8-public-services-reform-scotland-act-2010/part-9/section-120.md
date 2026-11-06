@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Information to appear on charity websites[^key-cb98d488937888b00c56445d10faca11]
+## 120. Information to appear on charity websites[^c-cb98d488937888b00c56445d10faca11]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb98d488937888b00c56445d10faca11]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2010/8/section/120) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-cb98d488937888b00c56445d10faca11]: Commencement: [S. 120](https://www.legislation.gov.uk/asp/2010/8/section/120) in force at 1.8.2010 by [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

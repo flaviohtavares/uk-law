@@ -52,10 +52,10 @@ to be absent from work on parental leave for the purpose of caring for a child.
 - (f) specify a minimum or maximum period of absence which may be taken as part of a period of parental leave;
 - (g) specify a maximum aggregate of periods of parental leave which may be taken during a specified period of time.
 
-(6)[^key-4410d935d2868728882724efa27b210b] In this Article and Article 110(4) and (5), “**specified**” means specified for the time being in regulations made under this Article.
+(6)[^c-4410d935d2868728882724efa27b210b] In this Article and Article 110(4) and (5), “**specified**” means specified for the time being in regulations made under this Article.
 
 ## Annotations
 
 [^c22340171]: Textual amendment: [1999 NI 9](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-4410d935d2868728882724efa27b210b]: Textual amendment: Art. 108(6) added (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/7); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)
+[^c-4410d935d2868728882724efa27b210b]: Textual amendment: Art. 108(6) added (15.3.2015) by [Work and Families Act (Northern Ireland) 2015 (c. 1)](https://www.legislation.gov.uk/nia/2015/1), [s. 23(1)](https://www.legislation.gov.uk/nia/2015/1/section/23/1), [Sch. 1 para. 4(7)](https://www.legislation.gov.uk/nia/2015/1/schedule/1/paragraph/4/7); [S.R. 2015/86](https://www.legislation.gov.uk/nisr/2015/86), [art. 3(2)(d)](https://www.legislation.gov.uk/nisr/2015/86/article/3/2/d)

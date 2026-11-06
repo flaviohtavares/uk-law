@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Power to make LME order on conviction[^key-42a1f7e1457b89e2217add58f44a67dd][^key-3bae2d9900b8541cca86a578c379df92]
+## 125. Power to make LME order on conviction[^c-42a1f7e1457b89e2217add58f44a67dd][^c-3bae2d9900b8541cca86a578c379df92]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42a1f7e1457b89e2217add58f44a67dd]: Commencement: S. 125 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-42a1f7e1457b89e2217add58f44a67dd]: Commencement: S. 125 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-3bae2d9900b8541cca86a578c379df92]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2025/36/section/125) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(26)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/26)
+[^c-3bae2d9900b8541cca86a578c379df92]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2025/36/section/125) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(26)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/26)

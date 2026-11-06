@@ -22,7 +22,7 @@ summary: ''
 
 Article 36
 
-### PART 1 — Documents forming the environmental statement to be certified[^key-4fd8ff427b4ec86fd28ae206b0f6e534]
+### PART 1 — Documents forming the environmental statement to be certified[^c-4fd8ff427b4ec86fd28ae206b0f6e534]
 
 <table>
 <thead>
@@ -165,9 +165,9 @@ Article 36
 </tbody>
 </table>
 
-[^key-0231ab8ce4521c563cd5f871d87426b7][^key-6b3e9eb8178b845d97984d5a626e673a][^key-6b3e9eb8178b845d97984d5a626e673a][^key-6b3e9eb8178b845d97984d5a626e673a][^key-43dc1b25bba4e02c5c569a0dc902df62][^key-ea81f010bff7951a2b39ac29ad2348d7][^key-676cca0636f6e9cc0f6866987b217028]
+[^c-0231ab8ce4521c563cd5f871d87426b7][^c-6b3e9eb8178b845d97984d5a626e673a][^c-6b3e9eb8178b845d97984d5a626e673a][^c-6b3e9eb8178b845d97984d5a626e673a][^c-43dc1b25bba4e02c5c569a0dc902df62][^c-ea81f010bff7951a2b39ac29ad2348d7][^c-676cca0636f6e9cc0f6866987b217028]
 
-### PART 2 — Other documents to be certified[^key-b32b1629b571137ece74fc6a153c1365]
+### PART 2 — Other documents to be certified[^c-b32b1629b571137ece74fc6a153c1365]
 
 <table>
 <thead>
@@ -216,30 +216,30 @@ Article 36
 </tbody>
 </table>
 
-[^key-59363c0eb035a59438e6fd73aca5577a][^key-0b2f15323107a7c55b8fbcca0550ba20][^key-0131f40133f9fd7e36325c4092ecf9dd][^key-59363c0eb035a59438e6fd73aca5577a][^key-eca49920858da897a4e6d19f521222c9][^key-e07f40c9de5aeb664798931fe2d8701b][^key-59363c0eb035a59438e6fd73aca5577a]
+[^c-59363c0eb035a59438e6fd73aca5577a][^c-0b2f15323107a7c55b8fbcca0550ba20][^c-0131f40133f9fd7e36325c4092ecf9dd][^c-59363c0eb035a59438e6fd73aca5577a][^c-eca49920858da897a4e6d19f521222c9][^c-e07f40c9de5aeb664798931fe2d8701b][^c-59363c0eb035a59438e6fd73aca5577a]
 
 ## Annotations
 
-[^key-4fd8ff427b4ec86fd28ae206b0f6e534]: Commencement: Sch. 17 Pt. 1 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-4fd8ff427b4ec86fd28ae206b0f6e534]: Commencement: Sch. 17 Pt. 1 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
-[^key-0231ab8ce4521c563cd5f871d87426b7]: Textual amendment: Words in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-0231ab8ce4521c563cd5f871d87426b7]: Textual amendment: Words in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-6b3e9eb8178b845d97984d5a626e673a]: Textual amendment: Word in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) omitted (22.12.2022) by virtue of [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-6b3e9eb8178b845d97984d5a626e673a]: Textual amendment: Word in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) omitted (22.12.2022) by virtue of [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-43dc1b25bba4e02c5c569a0dc902df62]: Textual amendment: Words in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) inserted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-43dc1b25bba4e02c5c569a0dc902df62]: Textual amendment: Words in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) inserted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-ea81f010bff7951a2b39ac29ad2348d7]: Textual amendment: Word in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) inserted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-ea81f010bff7951a2b39ac29ad2348d7]: Textual amendment: Word in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) inserted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-676cca0636f6e9cc0f6866987b217028]: Textual amendment: Word in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-676cca0636f6e9cc0f6866987b217028]: Textual amendment: Word in [Sch. 17 Pt. 1](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/1) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-b32b1629b571137ece74fc6a153c1365]: Commencement: Sch. 17 Pt. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
+[^c-b32b1629b571137ece74fc6a153c1365]: Commencement: Sch. 17 Pt. 2 in force at 22.4.2022, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/432/article/1/2)
 
-[^key-59363c0eb035a59438e6fd73aca5577a]: Textual amendment: Word in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) omitted (22.12.2022) by virtue of [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-59363c0eb035a59438e6fd73aca5577a]: Textual amendment: Word in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) omitted (22.12.2022) by virtue of [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-0b2f15323107a7c55b8fbcca0550ba20]: Textual amendment: Words in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-0b2f15323107a7c55b8fbcca0550ba20]: Textual amendment: Words in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-0131f40133f9fd7e36325c4092ecf9dd]: Textual amendment: Word in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-0131f40133f9fd7e36325c4092ecf9dd]: Textual amendment: Word in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) substituted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-eca49920858da897a4e6d19f521222c9]: Textual amendment: Word in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) inserted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-eca49920858da897a4e6d19f521222c9]: Textual amendment: Word in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) inserted (22.12.2022) by [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
 
-[^key-e07f40c9de5aeb664798931fe2d8701b]: Textual amendment: Words in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) omitted (22.12.2022) by virtue of [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)
+[^c-e07f40c9de5aeb664798931fe2d8701b]: Textual amendment: Words in [Sch. 17 Pt. 2](https://www.legislation.gov.uk/uksi/2022/432/schedule/17/part/2) omitted (22.12.2022) by virtue of [The East Anglia ONE North Offshore Wind Farm (Correction) Order 2022 (S.I. 2022/1398)](https://www.legislation.gov.uk/uksi/2022/1398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1398/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/1398/schedule)

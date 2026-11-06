@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Information to accompany orders or notices imposing monetary penalties[^key-514a447d9fe79eec9fb5e006b2fae45d][^key-aa5b12a3fa3432b6359f3a7fa10ccd04]
+## 203. Information to accompany orders or notices imposing monetary penalties[^c-514a447d9fe79eec9fb5e006b2fae45d][^c-aa5b12a3fa3432b6359f3a7fa10ccd04]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-514a447d9fe79eec9fb5e006b2fae45d]: Commencement: S. 203 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-514a447d9fe79eec9fb5e006b2fae45d]: Commencement: S. 203 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-aa5b12a3fa3432b6359f3a7fa10ccd04]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2024/13/section/203) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-aa5b12a3fa3432b6359f3a7fa10ccd04]: Commencement: [S. 203](https://www.legislation.gov.uk/ukpga/2024/13/section/203) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

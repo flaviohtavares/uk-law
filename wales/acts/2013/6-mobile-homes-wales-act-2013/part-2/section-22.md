@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Action under section 20 or 21: power to demand expenses[^key-1362d7069d09b1027cf4557aad453ea9]
+## 22. Action under section 20 or 21: power to demand expenses[^c-1362d7069d09b1027cf4557aad453ea9]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1362d7069d09b1027cf4557aad453ea9]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2013/6/section/22) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-1362d7069d09b1027cf4557aad453ea9]: Commencement: [S. 22](https://www.legislation.gov.uk/anaw/2013/6/section/22) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

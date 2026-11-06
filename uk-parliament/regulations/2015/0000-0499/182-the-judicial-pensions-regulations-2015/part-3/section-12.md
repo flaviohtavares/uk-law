@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Payment of fees and expenses[^key-d29887c684b4bda3a404bb58f85f4990]
+## 12. Payment of fees and expenses[^c-d29887c684b4bda3a404bb58f85f4990]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The Lord Chancellor may—
 
 ## Annotations
 
-[^key-d29887c684b4bda3a404bb58f85f4990]: Commencement: Reg. 12 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)
+[^c-d29887c684b4bda3a404bb58f85f4990]: Commencement: Reg. 12 in force at 10.2.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/2)

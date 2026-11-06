@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88C. Financial penalties: recovery[^key-3a93ee0908fe99cdaeda34b15fdc5ebe]
+## 88C. Financial penalties: recovery[^c-3a93ee0908fe99cdaeda34b15fdc5ebe]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a93ee0908fe99cdaeda34b15fdc5ebe]: Textual amendment: [Ss. 88A-88C](https://www.legislation.gov.uk/ukpga/2004/35/section/88A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 115](https://www.legislation.gov.uk/ukpga/2021/1/section/115), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(i)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/i) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(5)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/5))
+[^c-3a93ee0908fe99cdaeda34b15fdc5ebe]: Textual amendment: [Ss. 88A-88C](https://www.legislation.gov.uk/ukpga/2004/35/section/88A) and cross-heading inserted (1.10.2021) by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 115](https://www.legislation.gov.uk/ukpga/2021/1/section/115), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(3)(i)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/3/i) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(5)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/5))

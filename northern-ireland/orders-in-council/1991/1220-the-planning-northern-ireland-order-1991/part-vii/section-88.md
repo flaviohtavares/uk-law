@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 88. Compensation where unfit houses are acquired under this Part[^c18021781][^key-31ff736f0bbee170dbf4d261cf8305ec]
+## 88. Compensation where unfit houses are acquired under this Part[^c18021781][^c-31ff736f0bbee170dbf4d261cf8305ec]
 
 *Extent: N.I.*
 
@@ -35,6 +35,6 @@ the Department may, subject to paragraph (2), make an order, in such form as may
 
 [^c18021781]: Textual amendment: functions transferred SR 1999/481
 
-[^key-31ff736f0bbee170dbf4d261cf8305ec]: Modification: Arts. 87-93 applied (with modifications) (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 202(3)](https://www.legislation.gov.uk/nia/2011/25/section/202/3), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
+[^c-31ff736f0bbee170dbf4d261cf8305ec]: Modification: Arts. 87-93 applied (with modifications) (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [ss. 202(3)](https://www.legislation.gov.uk/nia/2011/25/section/202/3), [254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by S.R. 2016/159, art. 2)
 
 [^m00041]: Marginal citation: of the 1981 NI 3

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Protective provisions[^key-bc95cf5d3786aedcb79f5679e5addfb4]
+## 45. Protective provisions[^c-bc95cf5d3786aedcb79f5679e5addfb4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 10 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-bc95cf5d3786aedcb79f5679e5addfb4]: Commencement: Art. 45 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-bc95cf5d3786aedcb79f5679e5addfb4]: Commencement: Art. 45 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))

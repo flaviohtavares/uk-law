@@ -42,11 +42,11 @@ Coming into operation
 
 To be laid before Parliament under paragraph 7(3) of the Schedule to the Northern Ireland Act 2000
 
-The Department of the Environment makes the following Order in exercise of the powers conferred upon it by section 3(2) of the Local Government (Best Value) Act (Northern Ireland) 2002[^f00001].[^key-fe1f77be533f9f3cfdaf6bb93657c019][^key-57ba34fe53cb1adb995482183edafa13]
+The Department of the Environment makes the following Order in exercise of the powers conferred upon it by section 3(2) of the Local Government (Best Value) Act (Northern Ireland) 2002[^f00001].[^c-fe1f77be533f9f3cfdaf6bb93657c019][^c-57ba34fe53cb1adb995482183edafa13]
 
-In accordance with section 3(6) of that Act, the Department has consulted persons appearing to it to represent councils and such other persons as appeared to the Department to be representative of interests affected by the proposals.[^key-fe1f77be533f9f3cfdaf6bb93657c019][^key-57ba34fe53cb1adb995482183edafa13]
+In accordance with section 3(6) of that Act, the Department has consulted persons appearing to it to represent councils and such other persons as appeared to the Department to be representative of interests affected by the proposals.[^c-fe1f77be533f9f3cfdaf6bb93657c019][^c-57ba34fe53cb1adb995482183edafa13]
 
-## 1. Citation, commencement and interpretation[^key-23c58e09d8370f574020e83d9367cab3]
+## 1. Citation, commencement and interpretation[^c-23c58e09d8370f574020e83d9367cab3]
 
 (1) This Order may be cited as the Local Government Companies (Best Value) Order (Northern Ireland) 2006 and shall come into operation on 22nd January 2007.
 
@@ -55,7 +55,7 @@ In accordance with section 3(6) of that Act, the Department has consulted person
 - “company” has the meaning assigned to it by Article 3 of the Companies (Northern Ireland) Order 1986[^f00002]; and
 - “specified functions” means functions of district councils under legislation specified in the Schedule.
 
-## 2. Power of district councils to establish or participate in companies[^key-27caf5a75f040f801782d58dab821c62]
+## 2. Power of district councils to establish or participate in companies[^c-27caf5a75f040f801782d58dab821c62]
 
 In exercising specified functions, a council may establish or participate in companies in order to carry out its duty under section 1(1) of the Local Government (Best Value) Act (Northern Ireland) 2002.
 
@@ -65,11 +65,11 @@ John Ritchie
 
 A senior officer of the Department of the Environment
 
-## SCHEDULE — Specified functions[^key-0d765a280d8c8f8aafb0b508e3b59d79]
+## SCHEDULE — Specified functions[^c-0d765a280d8c8f8aafb0b508e3b59d79]
 
 Article 1(2)
 
-[^key-0d765a280d8c8f8aafb0b508e3b59d79]
+[^c-0d765a280d8c8f8aafb0b508e3b59d79]
 
 - Section 18 of the Local Government Act (Northern Ireland) 1966[^f00003] (district council powers respecting arts and entertainment).
 - Article 67 of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00004] (co-operation between Health and Social Services Boards, district councils, etc).
@@ -94,17 +94,17 @@ Section 1(1) of the Local Government (Best Value) Act (Northern Ireland) 2002 re
 
 [^f00001]: Footnote: [2002 c.4 (N.I.)](https://www.legislation.gov.uk/nia/2002/4)
 
-[^key-fe1f77be533f9f3cfdaf6bb93657c019]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/500) apply (20.8.2008) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/310)](https://www.legislation.gov.uk/nisr/2008/310), [arts. 1](https://www.legislation.gov.uk/nisr/2008/310/article/1), [8](https://www.legislation.gov.uk/nisr/2008/310/article/8)
+[^c-fe1f77be533f9f3cfdaf6bb93657c019]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/500) apply (20.8.2008) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2008 (revoked) 2008 (S.R. 2008/310)](https://www.legislation.gov.uk/nisr/2008/310), [arts. 1](https://www.legislation.gov.uk/nisr/2008/310/article/1), [8](https://www.legislation.gov.uk/nisr/2008/310/article/8)
 
-[^key-57ba34fe53cb1adb995482183edafa13]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/500) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [art. 7](https://www.legislation.gov.uk/nisr/2012/10/article/7)
+[^c-57ba34fe53cb1adb995482183edafa13]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2006/500) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [art. 7](https://www.legislation.gov.uk/nisr/2012/10/article/7)
 
-[^key-23c58e09d8370f574020e83d9367cab3]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/500/article/1) in operation at 22.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/500/article/1/1)
+[^c-23c58e09d8370f574020e83d9367cab3]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/500/article/1) in operation at 22.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/500/article/1/1)
 
 [^f00002]: Footnote: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
-[^key-27caf5a75f040f801782d58dab821c62]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/500/article/2) in operation at 22.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/500/article/1/1)
+[^c-27caf5a75f040f801782d58dab821c62]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/500/article/2) in operation at 22.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/500/article/1/1)
 
-[^key-0d765a280d8c8f8aafb0b508e3b59d79]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/500/schedule) in operation at 22.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/500/article/1/1)
+[^c-0d765a280d8c8f8aafb0b508e3b59d79]: Commencement: [Sch.](https://www.legislation.gov.uk/nisr/2006/500/schedule) in operation at 22.1.2007, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/500/article/1/1)
 
 [^f00003]: Footnote: [1966 c.38 (N.I.)](https://www.legislation.gov.uk/apni/1966/38) as amended by [S.R. & O. (N.I.) 1973/285](https://www.legislation.gov.uk/nisro/1973/285)
 

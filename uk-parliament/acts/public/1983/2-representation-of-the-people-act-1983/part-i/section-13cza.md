@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13CZA. Provision of false information: application for electoral identity document, anonymous elector’s document or electoral identity card[^key-734b3d62e0a7ded524fd3bb763bdb255][^key-3b8dd0fd870a8dd5c4d9263b78991c67][^key-db5859ff53862d872e6bba5af25e7926]
+## 13CZA. Provision of false information: application for electoral identity document, anonymous elector’s document or electoral identity card[^c-734b3d62e0a7ded524fd3bb763bdb255][^c-3b8dd0fd870a8dd5c4d9263b78991c67][^c-db5859ff53862d872e6bba5af25e7926]
 
 *Extent: N.I.*
 
-(1)[^key-607314048bb1fa1119b36d740aafb5aa] A person commits an offence if the person provides false information in connection with—
+(1)[^c-607314048bb1fa1119b36d740aafb5aa] A person commits an offence if the person provides false information in connection with—
 
 - (a) an application under section 13BD for an electoral identity document,
 - (b) an application under section 13BE for an anonymous elector’s document, or
@@ -37,7 +37,7 @@ the person whose signature it purports to be.
 
 (4) Where sufficient evidence is adduced to raise an issue with respect to the defence under subsection (3), the court must assume that the defence is satisfied unless the prosecution proves beyond reasonable doubt that it is not.
 
-(5)[^key-5dc4cb4055004304eaf84e3de7e4d653] A person who commits an offence under this section is liable—
+(5)[^c-5dc4cb4055004304eaf84e3de7e4d653] A person who commits an offence under this section is liable—
 
 - (a) on summary conviction in England and Wales, to imprisonment for a term not exceeding 51 weeks or a fine (or both);
 - (b) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum (or both);
@@ -47,12 +47,12 @@ the person whose signature it purports to be.
 
 ## Annotations
 
-[^key-734b3d62e0a7ded524fd3bb763bdb255]: Modification: [S. 13CZA](https://www.legislation.gov.uk/ukpga/1983/2/section/13CZA) extended (E.W.S.) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/38); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
+[^c-734b3d62e0a7ded524fd3bb763bdb255]: Modification: [S. 13CZA](https://www.legislation.gov.uk/ukpga/1983/2/section/13CZA) extended (E.W.S.) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/38); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(xvi)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/xvi)
 
-[^key-3b8dd0fd870a8dd5c4d9263b78991c67]: Textual amendment: S. 13CZA inserted (N.I.) (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 17](https://www.legislation.gov.uk/ukpga/2014/13/section/17), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
+[^c-3b8dd0fd870a8dd5c4d9263b78991c67]: Textual amendment: S. 13CZA inserted (N.I.) (13.5.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 17](https://www.legislation.gov.uk/ukpga/2014/13/section/17), [28(4)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/4)
 
-[^key-db5859ff53862d872e6bba5af25e7926]: Textual amendment: Words in [s. 13CZA heading](https://www.legislation.gov.uk/ukpga/1983/2/part/I/crossheading/registration-of-parliamentary-and-local-government-electors) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/4/4); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
+[^c-db5859ff53862d872e6bba5af25e7926]: Textual amendment: Words in [s. 13CZA heading](https://www.legislation.gov.uk/ukpga/1983/2/part/I/crossheading/registration-of-parliamentary-and-local-government-electors) inserted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 4(4)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/4/4); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
 
-[^key-607314048bb1fa1119b36d740aafb5aa]: Textual amendment: [S. 13CZA(1)](https://www.legislation.gov.uk/ukpga/1983/2/section/13CZA/1) substituted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/4/2); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
+[^c-607314048bb1fa1119b36d740aafb5aa]: Textual amendment: [S. 13CZA(1)](https://www.legislation.gov.uk/ukpga/1983/2/section/13CZA/1) substituted (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/4/2); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
 
-[^key-5dc4cb4055004304eaf84e3de7e4d653]: Textual amendment: [S. 13CZA(5)](https://www.legislation.gov.uk/ukpga/1983/2/section/13CZA/5)[(6)](https://www.legislation.gov.uk/ukpga/1983/2/section/13CZA/6) substituted for s. 13CZA(5) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/4/3); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)
+[^c-5dc4cb4055004304eaf84e3de7e4d653]: Textual amendment: [S. 13CZA(5)](https://www.legislation.gov.uk/ukpga/1983/2/section/13CZA/5)[(6)](https://www.legislation.gov.uk/ukpga/1983/2/section/13CZA/6) substituted for s. 13CZA(5) (16.1.2023) by [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1), [Sch. 1 para. 4(3)](https://www.legislation.gov.uk/ukpga/2022/37/schedule/1/paragraph/4/3); [S.I. 2022/1401](https://www.legislation.gov.uk/uksi/2022/1401), [reg. 2(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1401/regulation/2/d/ii)

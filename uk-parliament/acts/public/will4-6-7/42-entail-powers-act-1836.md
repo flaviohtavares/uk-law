@@ -29,129 +29,129 @@ Entail Powers Act 1836 (repealed)
 
 1836 c.42
 
-[^key-18f4719cfd9d6569df3c9da35fee0e46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-18f4719cfd9d6569df3c9da35fee0e46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1.] Heirs of entail in possession empowered to grant tacks of any part of entailed estates under the restrictions herein contained.[^key-18f4719cfd9d6569df3c9da35fee0e46]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Act not to restrain more extensive powers contained in any entail.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 1.] Heirs of entail in possession empowered to grant tacks of any part of entailed estates under the restrictions herein contained.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Heirs in possession may make excambions of entailed estates in the mode herein named. Scots Act 1685 c. 26.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 2. Act not to restrain more extensive powers contained in any entail.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Provision as to excambion of mansion houses, &c.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 3. Heirs in possession may make excambions of entailed estates in the mode herein named. Scots Act 1685 c. 26.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Tenure of excambed lands. Providing for excess of value in any excambion, &c.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 4. Provision as to excambion of mansion houses, &c.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. As to excambion of entailed estates under more than one entail.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 5. Tenure of excambed lands. Providing for excess of value in any excambion, &c.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Part of entailed estates may be sold for payment of entailer’s debts affecting the estate.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 6. As to excambion of entailed estates under more than one entail.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Court of Session to inquire into the particulars, and direct what portion of estate shall be sold;[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 7. Part of entailed estates may be sold for payment of entailer’s debts affecting the estate.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. and cause notice of sale to be given, and adjust the conditions thereof.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 8. Court of Session to inquire into the particulars, and direct what portion of estate shall be sold;[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Court of Session to adjudge the lands sold to the purchaser, and direct the disposition of the purchase money.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 9. and cause notice of sale to be given, and adjust the conditions thereof.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Purchasers upon payment of the money, to have a good right to the lands, &c. freed from the entail.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 10. Court of Session to adjudge the lands sold to the purchaser, and direct the disposition of the purchase money.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Lands not sold to continue subject to the entail.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 11. Purchasers upon payment of the money, to have a good right to the lands, &c. freed from the entail.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Court of Session to direct purchase money to be applied to payment of debts, &c.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 12. Lands not sold to continue subject to the entail.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. By whom the costs of parties interested and appearing shall be paid.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 13. Court of Session to direct purchase money to be applied to payment of debts, &c.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Any surplus exceeding 200l. to be laid out in purchase of other land, to be limited to same uses, &c. as lands sold;[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 14. By whom the costs of parties interested and appearing shall be paid.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. and the deed of entail thereof to be framed at the sight of the Court of Session;[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 15. Any surplus exceeding 200l. to be laid out in purchase of other land, to be limited to same uses, &c. as lands sold;[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. and recorded in register of tailzies, &c.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 16. and the deed of entail thereof to be framed at the sight of the Court of Session;[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Application of surplus monies till invested in land.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 17. and recorded in register of tailzies, &c.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. If under 200l., to be paid to heir in possession.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 18. Application of surplus monies till invested in land.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Definition of terms used in the Act.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 19. If under 200l., to be paid to heir in possession.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 21. How notices to be given of applications under this Act to Court of Session, &c.[^key-18f4719cfd9d6569df3c9da35fee0e46]
+## 20. Definition of terms used in the Act.[^c-18f4719cfd9d6569df3c9da35fee0e46]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 21. How notices to be given of applications under this Act to Court of Session, &c.[^c-18f4719cfd9d6569df3c9da35fee0e46]
 
 **No longer in force.**
 
@@ -159,4 +159,4 @@ Entail Powers Act 1836 (repealed)
 
 ## Annotations
 
-[^key-18f4719cfd9d6569df3c9da35fee0e46]: Textual amendment: Act repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-18f4719cfd9d6569df3c9da35fee0e46]: Textual amendment: Act repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)

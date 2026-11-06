@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 329. Terms and conditions of enlistment and service[^key-abadab185b7b38488247926819c0eed2][^key-adf6d927ae0c2e6c6d0797341cc0cf51]
+## 329. Terms and conditions of enlistment and service[^c-abadab185b7b38488247926819c0eed2][^c-adf6d927ae0c2e6c6d0797341cc0cf51]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,13 +32,13 @@ summary: ''
 - (f) enabling a person to extend or reduce the term of his service (whether with a regular force or a reserve force, or both);
 - (g) enabling a person to continue in service after completion of the term of his service;
 - (h) enabling a person in a reserve force to re-enter service with a regular force;
-- (ha)[^key-f392ab8b58891dce8b83036a705db10b] enabling a person to serve with a regular force on a part-time basis;
-- (i)[^key-00e6a94b998fd2ee35e11305ff8fe3c2] enabling a person's service with a regular force to be restricted to service in a particular area or to be subject to other geographic restrictions;
+- (ha)[^c-f392ab8b58891dce8b83036a705db10b] enabling a person to serve with a regular force on a part-time basis;
+- (i)[^c-00e6a94b998fd2ee35e11305ff8fe3c2] enabling a person's service with a regular force to be restricted to service in a particular area or to be subject to other geographic restrictions;
 - (j) requiring a person serving subject to a geographic restriction to serve without that restriction on a number of occasions not exceeding a prescribed maximum.
 
 (3) The exercise of any right conferred on a person by virtue of subsection (2) may be made subject to prescribed conditions.
 
-(3A)[^key-f029afea9e04db4888f4ae04acdc4fb7] A right conferred on a person by virtue of subsection (2)(ha) to (j) may be varied, suspended or terminated in prescribed circumstances.
+(3A)[^c-f029afea9e04db4888f4ae04acdc4fb7] A right conferred on a person by virtue of subsection (2)(ha) to (j) may be varied, suspended or terminated in prescribed circumstances.
 
 (4) The Defence Council may also by regulations make provision enabling—
 
@@ -53,12 +53,12 @@ to be transferred between corps without his consent in prescribed circumstances.
 
 ## Annotations
 
-[^key-abadab185b7b38488247926819c0eed2]: Commencement: S. 329 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-abadab185b7b38488247926819c0eed2]: Commencement: S. 329 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-adf6d927ae0c2e6c6d0797341cc0cf51]: Commencement: S. 329 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-adf6d927ae0c2e6c6d0797341cc0cf51]: Commencement: S. 329 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-f392ab8b58891dce8b83036a705db10b]: Textual amendment: [S. 329(2)(ha)](https://www.legislation.gov.uk/ukpga/2006/52/section/329/2/ha) inserted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2018/2/section/1/3/a), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-f392ab8b58891dce8b83036a705db10b]: Textual amendment: [S. 329(2)(ha)](https://www.legislation.gov.uk/ukpga/2006/52/section/329/2/ha) inserted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2018/2/section/1/3/a), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
-[^key-00e6a94b998fd2ee35e11305ff8fe3c2]: Textual amendment: [S. 329(2)(i)](https://www.legislation.gov.uk/ukpga/2006/52/section/329/2/i)[(j)](https://www.legislation.gov.uk/ukpga/2006/52/section/329/2/j) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2018/2/section/1/3/b), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-00e6a94b998fd2ee35e11305ff8fe3c2]: Textual amendment: [S. 329(2)(i)](https://www.legislation.gov.uk/ukpga/2006/52/section/329/2/i)[(j)](https://www.legislation.gov.uk/ukpga/2006/52/section/329/2/j) substituted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2018/2/section/1/3/b), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
 
-[^key-f029afea9e04db4888f4ae04acdc4fb7]: Textual amendment: [S. 329(3A)](https://www.legislation.gov.uk/ukpga/2006/52/section/329/3A) inserted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2018/2/section/1/4), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)
+[^c-f029afea9e04db4888f4ae04acdc4fb7]: Textual amendment: [S. 329(3A)](https://www.legislation.gov.uk/ukpga/2006/52/section/329/3A) inserted (30.6.2018) by [Armed Forces (Flexible Working) Act 2018 (c. 2)](https://www.legislation.gov.uk/ukpga/2018/2), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2018/2/section/1/4), [3(3)](https://www.legislation.gov.uk/ukpga/2018/2/section/3/3); [S.I. 2018/799](https://www.legislation.gov.uk/uksi/2018/799), [reg. 2](https://www.legislation.gov.uk/uksi/2018/799/regulation/2)

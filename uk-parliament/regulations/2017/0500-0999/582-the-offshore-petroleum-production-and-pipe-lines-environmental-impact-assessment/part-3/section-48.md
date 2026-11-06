@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Amendment of regulation 3 (grant of pipe-line construction authorisation by Secretary of State in respect of relevant pipe-line works)[^key-06f0a3d80c37220879f757fca9005ec7]
+## 48. Amendment of regulation 3 (grant of pipe-line construction authorisation by Secretary of State in respect of relevant pipe-line works)[^c-06f0a3d80c37220879f757fca9005ec7]
 
 *Extent: E+W+S+N.I.*
 
@@ -96,6 +96,6 @@ In regulation 3—
 
 ## Annotations
 
-[^key-06f0a3d80c37220879f757fca9005ec7]: Commencement: Reg. 48 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-06f0a3d80c37220879f757fca9005ec7]: Commencement: Reg. 48 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00023]: Footnote: [S.I. 2010/490](https://www.legislation.gov.uk/uksi/2010/490); regulation 61 is amended by [S.I. 2012/1927](https://www.legislation.gov.uk/uksi/2012/1927).

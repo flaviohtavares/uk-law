@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 317. The National Crime Agency's general Revenue functions[^key-cf9a3d7d20a15e2505687be5029ef7ad][^key-562dbe3e585421fc946a6198ac571525]
+## 317. The National Crime Agency's general Revenue functions[^c-cf9a3d7d20a15e2505687be5029ef7ad][^c-562dbe3e585421fc946a6198ac571525]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of this section the qualifying condition is that the National Crime Agency[^key-815c181bf10c75ca9059a6c53899a87f] has reasonable grounds to suspect that—
+(1) For the purposes of this section the qualifying condition is that the National Crime Agency[^c-815c181bf10c75ca9059a6c53899a87f] has reasonable grounds to suspect that—
 
 - (a) income arising or a gain accruing to a person in respect of a chargeable period is chargeable to income tax or is a chargeable gain (as the case may be) and arises or accrues as a result of the person’s or another’s criminal conduct (whether wholly or partly and whether directly or indirectly), or
 - (b) a company is chargeable to corporation tax on its profits arising in respect of a chargeable period and the profits arise as a result of the company’s or another person’s criminal conduct (whether wholly or partly and whether directly or indirectly).
@@ -54,8 +54,8 @@ the authorisation is not required in relation to the function as so vested.
 
 ## Annotations
 
-[^key-cf9a3d7d20a15e2505687be5029ef7ad]: Commencement: S. 317 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-cf9a3d7d20a15e2505687be5029ef7ad]: Commencement: S. 317 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-562dbe3e585421fc946a6198ac571525]: Textual amendment: Words in [s. 317](https://www.legislation.gov.uk/ukpga/2002/29/section/317) title substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 122(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/122/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-562dbe3e585421fc946a6198ac571525]: Textual amendment: Words in [s. 317](https://www.legislation.gov.uk/ukpga/2002/29/section/317) title substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 122(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/122/2); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-815c181bf10c75ca9059a6c53899a87f]: Textual amendment: Words in [s. 317](https://www.legislation.gov.uk/ukpga/2002/29/section/317) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 122(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/122/3); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-815c181bf10c75ca9059a6c53899a87f]: Textual amendment: Words in [s. 317](https://www.legislation.gov.uk/ukpga/2002/29/section/317) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 122(3)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/122/3); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4ZA — DIRECTIVE 2005/36: FUNCTIONS OF THE COUNCIL UNDER SECTION 36ZA(3)[^key-2789d9e6cfd4b3a75fc620c7cd686df1]
+## SCHEDULE 4ZA — DIRECTIVE 2005/36: FUNCTIONS OF THE COUNCIL UNDER SECTION 36ZA(3)[^c-2789d9e6cfd4b3a75fc620c7cd686df1]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Section 36ZA
 
 ## Annotations
 
-[^key-2789d9e6cfd4b3a75fc620c7cd686df1]: Textual amendment: Sch. 4ZA omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/paragraph/30) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [11(4)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/11/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2789d9e6cfd4b3a75fc620c7cd686df1]: Textual amendment: Sch. 4ZA omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 3 para. 30](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/paragraph/30) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/3/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [11(4)-(10)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/11/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

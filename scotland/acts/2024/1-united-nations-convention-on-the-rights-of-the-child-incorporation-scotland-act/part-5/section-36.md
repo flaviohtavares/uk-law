@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Direct references to Supreme Court: compatibility question arising in proceedings[^key-b37e35bc3651b06582e51fad81f2d4cb]
+## 36. Direct references to Supreme Court: compatibility question arising in proceedings[^c-b37e35bc3651b06582e51fad81f2d4cb]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Lord Advocate may require any court or tribunal to refer to the Supreme Cour
 
 ## Annotations
 
-[^key-b37e35bc3651b06582e51fad81f2d4cb]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2024/1/section/36) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-b37e35bc3651b06582e51fad81f2d4cb]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2024/1/section/36) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Power to modify Gas Act 1986 in relation to hydrogen[^key-9e9aa49214b7ec947a11bc5eb9a682ad]
+## 155. Power to modify Gas Act 1986 in relation to hydrogen[^c-9e9aa49214b7ec947a11bc5eb9a682ad]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ in relation to the production, transportation, storage or use of hydrogen.
 
 ## Annotations
 
-[^key-9e9aa49214b7ec947a11bc5eb9a682ad]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2023/52/section/155) in force at 26.12.2023, see [s. 334(3)(e)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/e)
+[^c-9e9aa49214b7ec947a11bc5eb9a682ad]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2023/52/section/155) in force at 26.12.2023, see [s. 334(3)(e)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/e)

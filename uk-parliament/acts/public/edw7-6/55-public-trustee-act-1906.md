@@ -57,7 +57,7 @@ An Act to provide for the appointment of a Public Trustee and to amend the Law r
 
 (3) The public trustee may decline, either absolutely or except on the prescribed conditions, to accept any trust, but he shall not decline to accept any trust on the ground only of the small value of the trust property.
 
-(4) The public trustee shall not accept any trust which involves the management or carrying on of any business, except in the cases in which he may be authorised to do so by rules made under this Act[^key-32ff8d113ad1d2cb88ec623eb419936b]..., nor the administration of any estate known or believed by him to be insolvent.
+(4) The public trustee shall not accept any trust which involves the management or carrying on of any business, except in the cases in which he may be authorised to do so by rules made under this Act[^c-32ff8d113ad1d2cb88ec623eb419936b]..., nor the administration of any estate known or believed by him to be insolvent.
 
 (5)[^c578592] The public trustee shall not accept any trust exclusively for religious or charitable purposes, and nothing in this Act contained, or in the rules to be made under the powers in this Act contained, shall abridge or affect the powers or duties of the official trustee of charity lands or official trustees of charitable funds.
 
@@ -84,13 +84,13 @@ Provided that—
 
 #### 4. Custodian trustee.[^c578597]
 
-(1)[^c578598][^key-647f5c5a0fa798c2b5308815db0f2795] Subject to rules under this Act the public trustee may, if he consents to act as such, and whether or not the number of trustees has been reduced below the original number, be appointed to be custodian trustee of any trust—
+(1)[^c578598][^c-647f5c5a0fa798c2b5308815db0f2795] Subject to rules under this Act the public trustee may, if he consents to act as such, and whether or not the number of trustees has been reduced below the original number, be appointed to be custodian trustee of any trust—
 
 - (a) by order of the court made on the application of any person on whose application the court may order the appointment of a new trustee; or
 - (b) by the testator, settlor, or other creator of any trust; or
 - (c) by the person having power to appoint new trustees.
 
-(2)[^c578598][^key-647f5c5a0fa798c2b5308815db0f2795] Where the public trustee is appointed to be custodian trustee of any trust—
+(2)[^c578598][^c-647f5c5a0fa798c2b5308815db0f2795] Where the public trustee is appointed to be custodian trustee of any trust—
 
 - (a) The trust property shall be transferred to the custodian trustee as if he were sole trustee, and for that purpose vesting orders may, where necessary, be made under the [^c578601]Trustee Act 1925[^c578600]:
 - (b) The management of the trust property and the exercise of any power or discretion exerciseable by the trustees under the trust shall remain vested in the trustees other than the custodian trustee (which trustees are herein-after referred to as the managing trustees):
@@ -118,7 +118,7 @@ Provided that—
 
 #### 6. Power as to granting probate.
 
-(1) If in pursuance of any rule under this Act, the public trustee is authorised to accept by that name probates of wills or letters of administration, the court having jurisdiction to grant probate of a will or letters of administration may grant such probate or letters to the public trustee by that name, and for that purpose the court shall consider the public trustee as in law entitled equally with any other person or class of persons to obtain the grant of letters of administration, save that the consent or citation of the public trustee shall not be required for the grant of letters of administration to any other person, and that, as between the public trustee and the widower, widow, surviving civil partner[^key-6631c2f091779a3828a97d4768cf65b0] or next-of-kin of the deceased, the widower, widow, surviving civil partner or next-of-kin shall be preferred, unless for good cause shown to the contrary.
+(1) If in pursuance of any rule under this Act, the public trustee is authorised to accept by that name probates of wills or letters of administration, the court having jurisdiction to grant probate of a will or letters of administration may grant such probate or letters to the public trustee by that name, and for that purpose the court shall consider the public trustee as in law entitled equally with any other person or class of persons to obtain the grant of letters of administration, save that the consent or citation of the public trustee shall not be required for the grant of letters of administration to any other person, and that, as between the public trustee and the widower, widow, surviving civil partner[^c-6631c2f091779a3828a97d4768cf65b0] or next-of-kin of the deceased, the widower, widow, surviving civil partner or next-of-kin shall be preferred, unless for good cause shown to the contrary.
 
 (2) Any executor who has obtained probate or any administrator who has obtained letters of administration, and notwithstanding he has acted in the administration of the deceased’s estate, may, with the sanction of the court, and after such notice to the persons beneficially interested as the court may direct, transfer such estate to the public trustee for administration either solely or jointly with the continuing executors or administrator, if any. And the order of the court sanctioning such transfer shall, subject to the provisions of this Act, give to the public trustee all the powers of such executor and administrator, and such executor and administrator shall not be in any way liable in respect of any act or default in reference to such estate subsequent to the date of such order, other than the act or default of himself or of persons other than himself for whose conduct he is in law responsible.
 
@@ -132,7 +132,7 @@ Provided that—
 
 (1A) The Public Trustee shall be paid such salary or fees as the Lord Chancellor determines with the consent of the Treasury.
 
-(1B) If one person holds office both as the Public Trustee and as the Accountant General of the Senior Courts[^key-42df1ca1e461a40493e743872f1fd402] then, if he ceases to be the Accountant General, he shall also cease to be the Public Trustee unless the Lord Chancellor otherwise directs.
+(1B) If one person holds office both as the Public Trustee and as the Accountant General of the Senior Courts[^c-42df1ca1e461a40493e743872f1fd402] then, if he ceases to be the Accountant General, he shall also cease to be the Public Trustee unless the Lord Chancellor otherwise directs.
 
 (1C) If a vacancy occurs in the office of Public Trustee or the person appointed to hold office is for any reason unable to act for any period such person as the Lord Chancellor appoints as deputy in that office shall, during the vacancy or that period, perform the functions of that office (and any property vested in the Public Trustee may accordingly be dealt with by the deputy in all respects as if it were vested in him instead).
 
@@ -162,7 +162,7 @@ Provided that—
 
 (1) A person aggrieved by any act or omission or decision of the public trustee in relation to any trust may apply to the court, and the court may make such order in the matter as the court thinks just.
 
-(2) Subject to rules of court, an application under this section to the High Court shall be made to a judge of the Business and Property Division[^key-cca4610a035c3b8f1affd4fefc7c3106] of the High Court in Chambers.
+(2) Subject to rules of court, an application under this section to the High Court shall be made to a judge of the Business and Property Division[^c-cca4610a035c3b8f1affd4fefc7c3106] of the High Court in Chambers.
 
 ### 11. Mode of action of public trustee.
 
@@ -182,7 +182,7 @@ The provisions of this Act with respect to the High Court shall, in their applic
 
 ## Investigation and Audit of Trust Accounts
 
-### 13. Investigation and audit of trust accounts.[^key-a9918329a207b108f7e4dafcbf0f3907][^c578631]
+### 13. Investigation and audit of trust accounts.[^c-a9918329a207b108f7e4dafcbf0f3907][^c578631]
 
 (1) Subject to rules under this Act and unless the court otherwise orders, the condition and accounts of any trust shall, on an application being made and notice thereof given in the prescribed manner by any trustee or beneficiary, be investigated and audited by such solicitor or public accountant as may be agreed on by the applicant and the trustees or, in default of agreement, by the public trustee or some person appointed by him:
 
@@ -198,7 +198,7 @@ Provided that (except with the leave of the court) such an investigation or audi
 
 (6) If any person having the custody of any documents to which the auditor has a right of access under this section fails or refuses to allow him to have access thereto or in anywise obstructs the investigation or audit, the auditor may apply to the court, and thereupon the court shall make such order as it thinks just.
 
-(7) Subject to rules of court, applications under or for the purposes of this section to the High Court shall be made to a judge of the Business and Property Division[^key-4e51c023ed79e6cb06da91521bf9fb5a] in Chambers.
+(7) Subject to rules of court, applications under or for the purposes of this section to the High Court shall be made to a judge of the Business and Property Division[^c-4e51c023ed79e6cb06da91521bf9fb5a] in Chambers.
 
 (8) If any person in any statement of accounts, report, or certificate required for the purposes of this section wilfully makes a statement false in any material particular, he shall be liable on conviction on indictment to imprisonment for a term not exceeding two years, and on summary conviction to imprisonment for a term not exceeding six months, . . . [^c578632] and in either case to a fine in lieu of or in addition to such imprisonment.
 
@@ -252,7 +252,7 @@ In this Act, unless the context otherwise requires,—
 
 [^c578591]: Textual amendment: S.2(1)(e) repealed by [Criminal Justice Act 1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58), [Sch. 10 Pt. I](https://www.legislation.gov.uk/ukpga/1948/58/schedule/10/part/I)
 
-[^key-32ff8d113ad1d2cb88ec623eb419936b]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukpga/Edw7/6/55/section/2/4) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/2) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
+[^c-32ff8d113ad1d2cb88ec623eb419936b]: Textual amendment: Words in [s. 2(4)](https://www.legislation.gov.uk/ukpga/Edw7/6/55/section/2/4) omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 6 para. 2(2)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/2/2) (with [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/20/schedule/6/paragraph/3)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(e)(i)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/e/i)
 
 [^c578592]: Modification: Functions of official trustee of charity lands and of official trustees of charitable funds now exercisable by official custodian for charities: [Charities Act 1960 (c. 58)](https://www.legislation.gov.uk/ukpga/1960/58), [s. 48(6)](https://www.legislation.gov.uk/ukpga/1960/58/section/48/6)
 
@@ -266,7 +266,7 @@ In this Act, unless the context otherwise requires,—
 
 [^c578598]: Modification: S. 4(1)(2) applied (E.) by [Clergy Provisions Measure 1961 (No. 3)](https://www.legislation.gov.uk/ukcm/1961/3), [s. 30(2)](https://www.legislation.gov.uk/ukcm/1961/3/section/30/2)
 
-[^key-647f5c5a0fa798c2b5308815db0f2795]: Modification: S. 4(1)(2) applied (E.) (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [ss. 45(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/45/2), [61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-647f5c5a0fa798c2b5308815db0f2795]: Modification: S. 4(1)(2) applied (E.) (1.3.2019) by [Church of England Pensions Measure 2018 (No. 9)](https://www.legislation.gov.uk/ukcm/2018/9), [ss. 45(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/45/2), [61(2)](https://www.legislation.gov.uk/ukcm/2018/9/section/61/2); [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
 
 [^c578601]: Marginal citation: [1925 c. 19](https://www.legislation.gov.uk/ukpga/1925/19).
 
@@ -278,13 +278,13 @@ In this Act, unless the context otherwise requires,—
 
 [^c578605]: Marginal citation: [1925 c. 19](https://www.legislation.gov.uk/ukpga/1925/19).
 
-[^key-6631c2f091779a3828a97d4768cf65b0]: Textual amendment: Words in s. 6(1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/6); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-6631c2f091779a3828a97d4768cf65b0]: Textual amendment: Words in s. 6(1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2004/33/schedule/4/paragraph/6); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c578607]: Textual amendment: [S. 7](https://www.legislation.gov.uk/ukpga/Edw7/6/55/section/7) repealed (7.11.2002) by [2002 c. 35](https://www.legislation.gov.uk/ukpga/2002/35), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2002/35/section/1/1)
 
 [^c578608]: Textual amendment: S. 8(1)(1A)(1B)(1C) substituted by [Public Trustee and Administration of Funds Act 1986 (c. 57, SIF 57)](https://www.legislation.gov.uk/ukpga/1986/57), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1986/57/section/1/3), [Sch. para. 1](https://www.legislation.gov.uk/ukpga/1986/57/schedule/paragraph/1)
 
-[^key-42df1ca1e461a40493e743872f1fd402]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/Edw7/6/55) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-42df1ca1e461a40493e743872f1fd402]: Textual amendment: Words in [Act](https://www.legislation.gov.uk/ukpga/Edw7/6/55) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c578609]: Modification: S. 8(5) amended by [Administration of Justice Act 1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), [s. 2(1)(a)](https://www.legislation.gov.uk/ukpga/1965/2/section/2/1/a) (and the said s. 2(1)(a) was repealed (13.6.1991) by Administration of Justice Act [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53), [s. 75(1)](https://www.legislation.gov.uk/ukpga/1982/53/section/75/1), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1982/53/schedule/9/part/I); [S.I. 1991/1245](https://www.legislation.gov.uk/uksi/1991/1245), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/1991/1245/article/2/a/i))
 
@@ -306,17 +306,17 @@ In this Act, unless the context otherwise requires,—
 
 [^c578627]: Textual amendment: Words substituted by [Public Trustee (Fees) Act 1957 (c. 12)](https://www.legislation.gov.uk/ukpga/1957/12), [s. 1(5)](https://www.legislation.gov.uk/ukpga/1957/12/section/1/5)
 
-[^key-cca4610a035c3b8f1affd4fefc7c3106]: Textual amendment: Words in s. 10(2) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/6/a)
+[^c-cca4610a035c3b8f1affd4fefc7c3106]: Textual amendment: Words in s. 10(2) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 6(a)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/6/a)
 
 [^c578628]: Modification: [S. 11(2)](https://www.legislation.gov.uk/ukpga/Edw7/6/55/section/11/2) restricted by [Administration of Justice Act 1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), [s. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1965/2/section/2/2/a) (which Administration of Justice Act [1965 c. 2](https://www.legislation.gov.uk/ukpga/1965/2), [s. 2(2)(a)](https://www.legislation.gov.uk/ukpga/1965/2/section/2/2/a) was repealed (13.6.1991) by Administration of Justice Act [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53), [s. 75(1)](https://www.legislation.gov.uk/ukpga/1982/53/section/75/1), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1982/53/schedule/9/part/I); [S.I. 1991/1245](https://www.legislation.gov.uk/uksi/1991/1245), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/1991/1245/article/2/a/i))
 
 [^c578629]: Textual amendment: Words repealed by [Administration of Estates Act 1971 (c. 25)](https://www.legislation.gov.uk/ukpga/1971/25), [Sch. 2 Pt. II](https://www.legislation.gov.uk/ukpga/1971/25/schedule/2/part/II)
 
-[^key-a9918329a207b108f7e4dafcbf0f3907]: Modification: S. 13 applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-a9918329a207b108f7e4dafcbf0f3907]: Modification: S. 13 applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
 
 [^c578631]: Modification: S. 13 restricted by [Administration of Justice Act 1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/1965/2/section/2/2/b) ([Administration of Justice Act 1965 (c. 2)](https://www.legislation.gov.uk/ukpga/1965/2), [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/1965/2/section/2/2/b) repealed (13.6.1991) by Administration of Justice Act [1982 c. 53](https://www.legislation.gov.uk/ukpga/1982/53), [s. 75(1)](https://www.legislation.gov.uk/ukpga/1982/53/section/75/1), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/1982/53/schedule/9/part/I); [S.I. 1991/1245](https://www.legislation.gov.uk/uksi/1991/1245), [art. 2(a)(i)](https://www.legislation.gov.uk/uksi/1991/1245/article/2/a/i))
 
-[^key-4e51c023ed79e6cb06da91521bf9fb5a]: Textual amendment: Words in s. 13(7) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/6/b)
+[^c-4e51c023ed79e6cb06da91521bf9fb5a]: Textual amendment: Words in s. 13(7) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 1 para. 6(b)](https://www.legislation.gov.uk/uksi/2026/723/schedule/1/paragraph/6/b)
 
 [^c578632]: Textual amendment: Words omitted by virtue of [Criminal Justice Act 1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1948/58/section/1/2)
 

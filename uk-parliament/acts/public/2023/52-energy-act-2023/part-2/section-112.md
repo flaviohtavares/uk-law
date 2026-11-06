@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Power of OGA to require information and samples[^key-c0bc995bdab86b1ca8137e3e1f6b73d1]
+## 112. Power of OGA to require information and samples[^c-c0bc995bdab86b1ca8137e3e1f6b73d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c0bc995bdab86b1ca8137e3e1f6b73d1]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2023/52/section/112) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-c0bc995bdab86b1ca8137e3e1f6b73d1]: Commencement: [S. 112](https://www.legislation.gov.uk/ukpga/2023/52/section/112) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

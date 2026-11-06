@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53Q. Duty to carry and display an abandonment security document[^key-317947cde359e390675327c291054563]
+## 53Q. Duty to carry and display an abandonment security document[^c-317947cde359e390675327c291054563]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-317947cde359e390675327c291054563]: Textual amendment: [Pt. 10B](https://www.legislation.gov.uk/uksi/2014/1613/part/10B) inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/7)
+[^c-317947cde359e390675327c291054563]: Textual amendment: [Pt. 10B](https://www.legislation.gov.uk/uksi/2014/1613/part/10B) inserted (12.7.2018) by [The Merchant Shipping (Maritime Labour Convention) (Compulsory Financial Security) (Amendment) Regulations 2018 (S.I. 2018/667)](https://www.legislation.gov.uk/uksi/2018/667), [regs. 1](https://www.legislation.gov.uk/uksi/2018/667/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2018/667/regulation/2/7)

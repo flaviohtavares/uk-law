@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 1 — Provisions Conferring Powers Exercised in Making these Regulations[^key-1c51b88a525b8a38e849664111f6aa7b]
+## SCHEDULE 1 — Provisions Conferring Powers Exercised in Making these Regulations[^c-1c51b88a525b8a38e849664111f6aa7b]
 
 *Extent: N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1c51b88a525b8a38e849664111f6aa7b]: Commencement: Sch. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-1c51b88a525b8a38e849664111f6aa7b]: Commencement: Sch. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00030]: Footnote: [S.I. 1972/1265 (N.I. 14)](https://www.legislation.gov.uk/nisi/1972/1265)
 

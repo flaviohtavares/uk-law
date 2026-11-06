@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Remand for medical examination and report[^key-51acb83412eb08d351b434c3a56bd57b]
+## 45. Remand for medical examination and report[^c-51acb83412eb08d351b434c3a56bd57b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-51acb83412eb08d351b434c3a56bd57b]: Commencement: S. 45 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)
+[^c-51acb83412eb08d351b434c3a56bd57b]: Commencement: S. 45 in force at 31.1.2011 by [S.I. 2010/2988](https://www.legislation.gov.uk/uksi/2010/2988), [art. 2](https://www.legislation.gov.uk/uksi/2010/2988/article/2)

@@ -31,7 +31,7 @@ summary: ''
 
 PLANNING
 
-The Planning (Trees) Regulations (Northern Ireland) 2003 (revoked)[^key-728510036f32cb46419ef33814f1c847]
+The Planning (Trees) Regulations (Northern Ireland) 2003 (revoked)[^c-728510036f32cb46419ef33814f1c847]
 
 Made
 
@@ -41,120 +41,120 @@ Coming into operation
 
 12th November 2003
 
-[^key-728510036f32cb46419ef33814f1c847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-728510036f32cb46419ef33814f1c847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-728510036f32cb46419ef33814f1c847]
+## PART I — GENERAL[^c-728510036f32cb46419ef33814f1c847]
 
-### 1. Citation, commencement and interpretation[^key-728510036f32cb46419ef33814f1c847]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART II — TREE PRESERVATION ORDERS[^key-728510036f32cb46419ef33814f1c847]
-
-### 2. Form of tree preservation order[^key-728510036f32cb46419ef33814f1c847]
+### 1. Citation, commencement and interpretation[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Procedure after making an order[^key-728510036f32cb46419ef33814f1c847]
+## PART II — TREE PRESERVATION ORDERS[^c-728510036f32cb46419ef33814f1c847]
+
+### 2. Form of tree preservation order[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Objections and representations[^key-728510036f32cb46419ef33814f1c847]
+### 3. Procedure after making an order[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Procedure for confirmation of a tree preservation order[^key-728510036f32cb46419ef33814f1c847]
+### 4. Objections and representations[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Action after confirmation of tree preservation order[^key-728510036f32cb46419ef33814f1c847]
+### 5. Procedure for confirmation of a tree preservation order[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Action where a tree preservation order is not confirmed[^key-728510036f32cb46419ef33814f1c847]
+### 6. Action after confirmation of tree preservation order[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Revocation of tree preservation orders[^key-728510036f32cb46419ef33814f1c847]
+### 7. Action where a tree preservation order is not confirmed[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — TREES IN CONSERVATION AREAS[^key-728510036f32cb46419ef33814f1c847]
-
-### 9. Trees in conservation areas – exemptions[^key-728510036f32cb46419ef33814f1c847]
+### 8. Revocation of tree preservation orders[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9A. Use of electronic communications[^key-728510036f32cb46419ef33814f1c847]
+## PART III — TREES IN CONSERVATION AREAS[^c-728510036f32cb46419ef33814f1c847]
+
+### 9. Trees in conservation areas – exemptions[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — REVOCATION AND SAVINGS[^key-728510036f32cb46419ef33814f1c847]
-
-### 10. Revocation and savings[^key-728510036f32cb46419ef33814f1c847]
+### 9A. Use of electronic communications[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-728510036f32cb46419ef33814f1c847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART IV — REVOCATION AND SAVINGS[^c-728510036f32cb46419ef33814f1c847]
+
+### 10. Revocation and savings[^c-728510036f32cb46419ef33814f1c847]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-728510036f32cb46419ef33814f1c847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — FORM OF TREE PRESERVATION ORDER THE PLANNING (NORTHERN IRELAND) ORDER 1991 THE PLANNING (TREES) REGULATIONS (NORTHERN IRELAND) 2003[^key-728510036f32cb46419ef33814f1c847]
+## SCHEDULE — FORM OF TREE PRESERVATION ORDER THE PLANNING (NORTHERN IRELAND) ORDER 1991 THE PLANNING (TREES) REGULATIONS (NORTHERN IRELAND) 2003[^c-728510036f32cb46419ef33814f1c847]
 
 Regulation 2(1)
 
-### TREE PRESERVATION ORDER[^key-728510036f32cb46419ef33814f1c847]
+### TREE PRESERVATION ORDER[^c-728510036f32cb46419ef33814f1c847]
 
-#### at — (address of the land)[^key-728510036f32cb46419ef33814f1c847]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### FIRST SCHEDULE[^key-728510036f32cb46419ef33814f1c847]
+#### at — (address of the land)[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### SECOND SCHEDULE[^key-728510036f32cb46419ef33814f1c847]
-
-#### 1. Application for consent to cut down, top, lop or uproot trees[^key-728510036f32cb46419ef33814f1c847]
+### FIRST SCHEDULE[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### SECOND SCHEDULE[^c-728510036f32cb46419ef33814f1c847]
 
-#### 3. Appeal against refusal of consent[^key-728510036f32cb46419ef33814f1c847]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4. Appeal in default of decision[^key-728510036f32cb46419ef33814f1c847]
+#### 1. Application for consent to cut down, top, lop or uproot trees[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Revocation or modification of consent[^key-728510036f32cb46419ef33814f1c847]
+**2.**[^c-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 3. Appeal against refusal of consent[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Compensation[^key-728510036f32cb46419ef33814f1c847]
+#### 4. Appeal in default of decision[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 5. Revocation or modification of consent[^c-728510036f32cb46419ef33814f1c847]
 
-**8.**[^key-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+#### 6. Compensation[^c-728510036f32cb46419ef33814f1c847]
 
-**10.**[^key-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### THIRD SCHEDULE[^key-728510036f32cb46419ef33814f1c847]
+**7.**[^c-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-728510036f32cb46419ef33814f1c847] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### THIRD SCHEDULE[^c-728510036f32cb46419ef33814f1c847]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-728510036f32cb46419ef33814f1c847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-728510036f32cb46419ef33814f1c847]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-728510036f32cb46419ef33814f1c847]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/444) revoked (1.4.2015) by [The Planning (Trees) Regulations (Northern Ireland) 2015 (S.R. 2015/84)](https://www.legislation.gov.uk/nisr/2015/84), [reg. 11(1)](https://www.legislation.gov.uk/nisr/2015/84/regulation/11/1) (with [reg. 11(7)](https://www.legislation.gov.uk/nisr/2015/84/regulation/11/7))
+[^c-728510036f32cb46419ef33814f1c847]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/444) revoked (1.4.2015) by [The Planning (Trees) Regulations (Northern Ireland) 2015 (S.R. 2015/84)](https://www.legislation.gov.uk/nisr/2015/84), [reg. 11(1)](https://www.legislation.gov.uk/nisr/2015/84/regulation/11/1) (with [reg. 11(7)](https://www.legislation.gov.uk/nisr/2015/84/regulation/11/7))

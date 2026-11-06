@@ -22,48 +22,48 @@ summary: ''
 
 Regulation F2(1)
 
-**1.**[^key-fc4de2d9a73b7d7fb47b67feb84810b7] Member of Queen Alexandra's Royal Naval Nursing Service or any reserve thereof.
+**1.**[^c-fc4de2d9a73b7d7fb47b67feb84810b7] Member of Queen Alexandra's Royal Naval Nursing Service or any reserve thereof.
 
-**2.**[^key-13fabb99556957a79df3aac3397fd8a0] Member of the Women's Royal Naval Service.
+**2.**[^c-13fabb99556957a79df3aac3397fd8a0] Member of the Women's Royal Naval Service.
 
-**3.**[^key-6626594089f8e31b9442ae8dc6068a1c] Woman medical or dental practitioner serving in the Royal Navy or any Naval reserve.
+**3.**[^c-6626594089f8e31b9442ae8dc6068a1c] Woman medical or dental practitioner serving in the Royal Navy or any Naval reserve.
 
-**4.**[^key-b4520df47c4e9ada489ad2330131a69d] Member of Queen Alexandra's Imperial Military Nursing Service or any reserve thereof or of Queen Alexandra's Royal Army Nursing Corps or any reserve thereof.
+**4.**[^c-b4520df47c4e9ada489ad2330131a69d] Member of Queen Alexandra's Imperial Military Nursing Service or any reserve thereof or of Queen Alexandra's Royal Army Nursing Corps or any reserve thereof.
 
-**5.**[^key-c83c1081bcea9d1c1c9380e793586e67] Member of the Territorial Army Nursing Service or any reserve thereof.
+**5.**[^c-c83c1081bcea9d1c1c9380e793586e67] Member of the Territorial Army Nursing Service or any reserve thereof.
 
-**6.**[^key-d28ceb13c44dcda2dc26d96fcfea7d3c] Member of the Auxiliary Territorial Service.
+**6.**[^c-d28ceb13c44dcda2dc26d96fcfea7d3c] Member of the Auxiliary Territorial Service.
 
-**7.**[^key-b426a26bf14ed2d543061bfe4f28bd5b] Woman employed with the Royal Army Medical Corps or the Army Dental Corps with relative rank as an officer.
+**7.**[^c-b426a26bf14ed2d543061bfe4f28bd5b] Woman employed with the Royal Army Medical Corps or the Army Dental Corps with relative rank as an officer.
 
-**8.**[^key-c4f45bc9007bb4d389b37af475fbe226] Member of Princess Mary's Royal Air Force Nursing Service or any reserve thereof.
+**8.**[^c-c4f45bc9007bb4d389b37af475fbe226] Member of Princess Mary's Royal Air Force Nursing Service or any reserve thereof.
 
-**9.**[^key-8b39226a5953f42dda714b886b158a09] Member of the Women's Auxiliary Air Force.
+**9.**[^c-8b39226a5953f42dda714b886b158a09] Member of the Women's Auxiliary Air Force.
 
-**10.**[^key-5c5ad12ed2e18c5dd1f8f55dd56e67fa] Woman employed with the Medical Branch or the Dental Branch of the Royal Air Force with relative rank as an officer.
+**10.**[^c-5c5ad12ed2e18c5dd1f8f55dd56e67fa] Woman employed with the Medical Branch or the Dental Branch of the Royal Air Force with relative rank as an officer.
 
-**11.**[^key-baf45015ecb89fdd54ecddc5c39aefaf] Member of the Voluntary Aid Detachments employed under the Admiralty, Army Council or Air Council.
+**11.**[^c-baf45015ecb89fdd54ecddc5c39aefaf] Member of the Voluntary Aid Detachments employed under the Admiralty, Army Council or Air Council.
 
 ## Annotations
 
-[^key-fc4de2d9a73b7d7fb47b67feb84810b7]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-fc4de2d9a73b7d7fb47b67feb84810b7]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-13fabb99556957a79df3aac3397fd8a0]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-13fabb99556957a79df3aac3397fd8a0]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-6626594089f8e31b9442ae8dc6068a1c]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-6626594089f8e31b9442ae8dc6068a1c]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-b4520df47c4e9ada489ad2330131a69d]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-b4520df47c4e9ada489ad2330131a69d]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-c83c1081bcea9d1c1c9380e793586e67]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-c83c1081bcea9d1c1c9380e793586e67]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-d28ceb13c44dcda2dc26d96fcfea7d3c]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-d28ceb13c44dcda2dc26d96fcfea7d3c]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-b426a26bf14ed2d543061bfe4f28bd5b]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-b426a26bf14ed2d543061bfe4f28bd5b]: Commencement: [Sch. 13 para. 7](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-c4f45bc9007bb4d389b37af475fbe226]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-c4f45bc9007bb4d389b37af475fbe226]: Commencement: [Sch. 13 para. 8](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-8b39226a5953f42dda714b886b158a09]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-8b39226a5953f42dda714b886b158a09]: Commencement: [Sch. 13 para. 9](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/9) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-5c5ad12ed2e18c5dd1f8f55dd56e67fa]: Commencement: [Sch. 13 para. 10](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-5c5ad12ed2e18c5dd1f8f55dd56e67fa]: Commencement: [Sch. 13 para. 10](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/10) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-baf45015ecb89fdd54ecddc5c39aefaf]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-baf45015ecb89fdd54ecddc5c39aefaf]: Commencement: [Sch. 13 para. 11](https://www.legislation.gov.uk/uksi/1986/24/schedule/13/paragraph/11) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

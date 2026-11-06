@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Complaints[^key-e988a972fbc7a8c96bf2318e3186be88]
+## 23. Complaints[^c-e988a972fbc7a8c96bf2318e3186be88]
 
 *Extent: N.I.*
 
@@ -34,13 +34,13 @@ summary: ''
 
 (7) The written copy of the complaints procedure to be supplied in accordance with paragraph (5) shall include—
 
-- (a) the name, address and telephone number of the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] ; and
+- (a) the name, address and telephone number of the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] ; and
 - (b) the procedure (if any) that has been notified by the RQIA to the registered person for the making of complaints to the RQIA relating to the residential family centre.
 
 (8) The registered person shall supply to the RQIA at its request a statement containing a summary of the complaints made during the preceding twelve months and the action that was taken in response.
 
 ## Annotations
 
-[^key-e988a972fbc7a8c96bf2318e3186be88]: Commencement: Reg. 23 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-e988a972fbc7a8c96bf2318e3186be88]: Commencement: Reg. 23 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

@@ -24,7 +24,7 @@ summary: ''
 
 (2) A witness is also eligible for assistance by virtue of this rule if—
 
-- (a)[^key-6b3b3db359f09936cabf7033b36e1639] the proceedings are in respect of—
+- (a)[^c-6b3b3db359f09936cabf7033b36e1639] the proceedings are in respect of—
   - (i) a sexual offence;
   - (ii) a modern slavery offence; or
   - (iii) any other offence where it is alleged that the behaviour of the defendant amounted to domestic abuse;
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b3b3db359f09936cabf7033b36e1639]: Textual amendment: [Rule 91(2)(a)](https://www.legislation.gov.uk/uksi/2009/2041/rule/91/2/a) substituted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2022/605/rule/9)
+[^c-6b3b3db359f09936cabf7033b36e1639]: Textual amendment: [Rule 91(2)(a)](https://www.legislation.gov.uk/uksi/2009/2041/rule/91/2/a) substituted (4.7.2022) by [The Armed Forces (Service Court Rules) (Amendment) Rules 2022 (S.I. 2022/605)](https://www.legislation.gov.uk/uksi/2022/605), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/605/rule/1/2), [9](https://www.legislation.gov.uk/uksi/2022/605/rule/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Stamp duty.[^key-413ff2add5c264c4fcef7ef367326e6f]
+## 79. Stamp duty.[^c-413ff2add5c264c4fcef7ef367326e6f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-413ff2add5c264c4fcef7ef367326e6f]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/1998/31/section/79) repealed (with effect in accordance with s. 79(2)(3) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 79](https://www.legislation.gov.uk/ukpga/2007/11/section/79), [Sch. 27 Pt. 4(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/4/3)
+[^c-413ff2add5c264c4fcef7ef367326e6f]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/1998/31/section/79) repealed (with effect in accordance with s. 79(2)(3) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 79](https://www.legislation.gov.uk/ukpga/2007/11/section/79), [Sch. 27 Pt. 4(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/4/3)

@@ -44,11 +44,11 @@ Coming into operation -
 
 The Department for Infrastructure[^f00001], makes the following Regulations in exercise of the powers conferred by Articles 61(1)(a), 66(1)(a) and 218(1) of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-2eeaad3124000db30e0e11cbf1badd57]
+## 1. Citation and commencement[^c-2eeaad3124000db30e0e11cbf1badd57]
 
 These Regulations may be cited as the Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 1<sup>st</sup> October 2023.
 
-## 2. Amendment of the Public Service Vehicles Regulations[^key-518f3df18a2dd4357af08b96915c9d5c]
+## 2. Amendment of the Public Service Vehicles Regulations[^c-518f3df18a2dd4357af08b96915c9d5c]
 
 For Schedule 7 to the Public Service Vehicles Regulations (Northern Ireland) 1985[^f00004] (fees for vehicle licences) substitute—
 
@@ -92,7 +92,7 @@ For Schedule 7 to the Public Service Vehicles Regulations (Northern Ireland) 198
 > </tbody>
 > </table>
 
-## 3. Revocation[^key-e9009c2e96cd2fc161d4bf79e41a49ee]
+## 3. Revocation[^c-e9009c2e96cd2fc161d4bf79e41a49ee]
 
 The Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland 2009[^f00005] are revoked.
 
@@ -139,12 +139,12 @@ An Explanatory Memorandum and Regulatory Impact Assessment have been produced an
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-2eeaad3124000db30e0e11cbf1badd57]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/125/regulation/1)
+[^c-2eeaad3124000db30e0e11cbf1badd57]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/125/regulation/1)
 
-[^key-518f3df18a2dd4357af08b96915c9d5c]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/125/regulation/1)
+[^c-518f3df18a2dd4357af08b96915c9d5c]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/125/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1985 No. 123](https://www.legislation.gov.uk/nisr/1985/123); Schedule 7 was substituted by [S.R. 2009 No. 72](https://www.legislation.gov.uk/nisr/2009/72), regulation 2
 
-[^key-e9009c2e96cd2fc161d4bf79e41a49ee]: Commencement: Reg. 3 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/125/regulation/1)
+[^c-e9009c2e96cd2fc161d4bf79e41a49ee]: Commencement: Reg. 3 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/125/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2009 No. 72](https://www.legislation.gov.uk/nisr/2009/72)

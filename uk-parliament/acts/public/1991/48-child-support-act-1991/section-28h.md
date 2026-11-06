@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28H. Departure directions: decisions and appeals[^key-12ce82e5ec2d5d28cd04e8275313be48]
+## 28H. Departure directions: decisions and appeals[^c-12ce82e5ec2d5d28cd04e8275313be48]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12ce82e5ec2d5d28cd04e8275313be48]: Textual amendment: S. 28H repealed (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 3 para. 11(14)](https://www.legislation.gov.uk/ukpga/2000/19/schedule/3/paragraph/11/14), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/I) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)
+[^c-12ce82e5ec2d5d28cd04e8275313be48]: Textual amendment: S. 28H repealed (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act 2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), [s. 86(1)(a)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/1/a)[(2)](https://www.legislation.gov.uk/ukpga/2000/19/section/86/2), [Sch. 3 para. 11(14)](https://www.legislation.gov.uk/ukpga/2000/19/schedule/3/paragraph/11/14), [Sch. 9 Pt. I](https://www.legislation.gov.uk/ukpga/2000/19/schedule/9/part/I) (with [s. 83(6)](https://www.legislation.gov.uk/ukpga/2000/19/section/83/6)); [S.I. 2003/192](https://www.legislation.gov.uk/uksi/2003/192), [art. 3](https://www.legislation.gov.uk/uksi/2003/192/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2003/192/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Notification of Regulator in respect of events of concern[^key-eec13b505acfff2ac2a39dd1309ad2a2]
+## 87. Notification of Regulator in respect of events of concern[^c-eec13b505acfff2ac2a39dd1309ad2a2]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eec13b505acfff2ac2a39dd1309ad2a2]: Commencement: S. 87 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)
+[^c-eec13b505acfff2ac2a39dd1309ad2a2]: Commencement: S. 87 not in force at Royal Assent, see [s. 133(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/7)

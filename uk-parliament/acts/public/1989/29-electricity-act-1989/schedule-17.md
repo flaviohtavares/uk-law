@@ -191,11 +191,11 @@ whether or not, apart from this paragraph, that undertaking would be treated as 
 - (a) the parties to the agreement on the employers’ side were the successor companies and not the Electricity Council and the Scottish Boards; and
 - (b) each of the parties to the agreement were entitled to withdraw from it on giving the other parties 12 months’ notice in writing.
 
-**29.**[^key-78a30a2497434604d336f3d5f0db97ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-78a30a2497434604d336f3d5f0db97ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-78a30a2497434604d336f3d5f0db97ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-78a30a2497434604d336f3d5f0db97ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-78a30a2497434604d336f3d5f0db97ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-78a30a2497434604d336f3d5f0db97ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **32.** Notwithstanding the repeal by this Act of sections 10 and 11 of and Schedule 5 to the Electricity (Scotland) Act 1979—
 
@@ -314,7 +314,7 @@ Accordingly (but without prejudice to the generality of the preceding provision)
 
 [^c4127391]: Marginal citation: [1957 c. 48](https://www.legislation.gov.uk/ukpga/1957/48).
 
-[^key-78a30a2497434604d336f3d5f0db97ae]: Textual amendment: Sch. 17 paras. 29-31 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 5
+[^c-78a30a2497434604d336f3d5f0db97ae]: Textual amendment: Sch. 17 paras. 29-31 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 5
 
 [^c4127431]: Marginal citation: [1950 c. 30](https://www.legislation.gov.uk/ukpga/1950/30).
 

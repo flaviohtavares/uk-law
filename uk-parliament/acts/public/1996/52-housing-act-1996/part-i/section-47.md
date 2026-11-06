@@ -22,7 +22,7 @@ summary: ''
 
 (1) An order under section 46(1) shall confer on the manager power generally to do all such things as are necessary for carrying out his functions.
 
-(2)[^key-7b9d2c915437471e77b50b82c01b3f24] The order may include the following specific powers—
+(2)[^c-7b9d2c915437471e77b50b82c01b3f24] The order may include the following specific powers—
 
 1. Power to take possession of the land held by the landlord and for that purpose to take any legal proceedings which seem to him expedient.
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b9d2c915437471e77b50b82c01b3f24]: Modification: S. 47(2) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-7b9d2c915437471e77b50b82c01b3f24]: Modification: S. 47(2) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)

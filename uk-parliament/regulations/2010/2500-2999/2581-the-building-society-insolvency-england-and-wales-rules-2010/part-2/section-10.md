@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Other persons to receive copy of application[^key-cda0fc677c132c4f92e42cf23c5fd871]
+## 10. Other persons to receive copy of application[^c-cda0fc677c132c4f92e42cf23c5fd871]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ in accordance with paragraph (2).
 
 ## Annotations
 
-[^key-cda0fc677c132c4f92e42cf23c5fd871]: Commencement: Rule 10 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-cda0fc677c132c4f92e42cf23c5fd871]: Commencement: Rule 10 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^M_F_7232384c-0ea1-45ab-a4ac-6780835287f8]: Textual amendment: Words in Rules substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 191(5)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/191/5)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Obstruction of officers[^key-b703eb14a74d2986985f4ee3a9b0e635]
+## 48. Obstruction of officers[^c-b703eb14a74d2986985f4ee3a9b0e635]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ shall be liable on summary conviction to a fine not exceeding level 3 on the sta
 
 ## Annotations
 
-[^key-b703eb14a74d2986985f4ee3a9b0e635]: Commencement: Art. 48 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-b703eb14a74d2986985f4ee3a9b0e635]: Commencement: Art. 48 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

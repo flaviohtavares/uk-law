@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 494. Interpretation of the 1995 Regulations[^key-ccb6218bb53a326902466769f05ce841]
+## 494. Interpretation of the 1995 Regulations[^c-ccb6218bb53a326902466769f05ce841]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,7 +64,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ccb6218bb53a326902466769f05ce841]: Commencement: Art. 494 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-ccb6218bb53a326902466769f05ce841]: Commencement: Art. 494 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00327]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 

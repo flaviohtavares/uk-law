@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 197. Payment of a transfer value[^key-454e1aeb3792f9b54307198f130eb0ef]
+## 197. Payment of a transfer value[^c-454e1aeb3792f9b54307198f130eb0ef]
 
 *Extent: S*
 
-(1) On receipt of the application under regulation 196, the scheme manager must[^key-1eb33cdc3b50f72014c970a8ed7ca959] make a transfer value payment in respect of P.
+(1) On receipt of the application under regulation 196, the scheme manager must[^c-1eb33cdc3b50f72014c970a8ed7ca959] make a transfer value payment in respect of P.
 
 (2) A member of this scheme may only require the scheme manager to use a transfer value in a way specified in section 95(2) of PSA 1993.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-454e1aeb3792f9b54307198f130eb0ef]: Commencement: [Reg. 197](https://www.legislation.gov.uk/ssi/2014/292/regulation/197) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-454e1aeb3792f9b54307198f130eb0ef]: Commencement: [Reg. 197](https://www.legislation.gov.uk/ssi/2014/292/regulation/197) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
-[^key-1eb33cdc3b50f72014c970a8ed7ca959]: Textual amendment: Word in [reg. 197(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/197/1) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [21](https://www.legislation.gov.uk/ssi/2015/97/regulation/21)
+[^c-1eb33cdc3b50f72014c970a8ed7ca959]: Textual amendment: Word in [reg. 197(1)](https://www.legislation.gov.uk/ssi/2014/292/regulation/197/1) substituted (1.4.2015) by [The Teachers’ Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/97)](https://www.legislation.gov.uk/ssi/2015/97), [regs. 1](https://www.legislation.gov.uk/ssi/2015/97/regulation/1), [21](https://www.legislation.gov.uk/ssi/2015/97/regulation/21)

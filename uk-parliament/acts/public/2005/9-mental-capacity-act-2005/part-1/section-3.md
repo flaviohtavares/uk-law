@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Inability to make decisions[^c2090552][^key-d74b9c7d6b0abf3dde52ef3ca579d618]
+## 3. Inability to make decisions[^c2090552][^c-d74b9c7d6b0abf3dde52ef3ca579d618]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c2090552]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2005/9/section/3) wholly in force at 1.10.2007; [s. 3](https://www.legislation.gov.uk/ukpga/2005/9/section/3) not in force at Royal Assent see [s. 68(1)-(3)](https://www.legislation.gov.uk/ukpga/2005/9/section/68/1); [s. 3](https://www.legislation.gov.uk/ukpga/2005/9/section/3) in force for certain purposes at 1.4.2007 by [S.I. 2007/563](https://www.legislation.gov.uk/uksi/2007/563), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2007/563/article/1/2/3), [2(2)(c)(3)](https://www.legislation.gov.uk/uksi/2007/563/article/2/2/c/3) and s. 3 in force otherwise at 1.10.2007 by [S.I. 2007/1897](https://www.legislation.gov.uk/uksi/2007/1897), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2007/1897/article/2/2/c)
 
-[^key-d74b9c7d6b0abf3dde52ef3ca579d618]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/2005/9/section/3) applied (temp.) (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [8(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/8/3)
+[^c-d74b9c7d6b0abf3dde52ef3ca579d618]: Modification: [S. 3](https://www.legislation.gov.uk/ukpga/2005/9/section/3) applied (temp.) (1.4.2015) by [The Health and Social Care Act 2008 (Regulated Activities) Regulations 2014 (S.I. 2014/2936)](https://www.legislation.gov.uk/uksi/2014/2936), [regs. 1(5)(6)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/1/5), [8(3)](https://www.legislation.gov.uk/uksi/2014/2936/regulation/8/3)

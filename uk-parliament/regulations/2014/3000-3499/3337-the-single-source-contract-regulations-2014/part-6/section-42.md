@@ -23,7 +23,7 @@ summary: ''
 (1) The strategic industry capacity report must contain—
 
 - (a) a description of the activities undertaken by the designated person, and all QBUs and qualifying suppliers, which relate to any qualifying defence contract, any qualifying sub-contract or any other defence contract; and
-- (b) a description of any physical site in relation to which at least £10,000,000[^key-230df0c5d8ff4632fd93d3e25864a2bb] of costs has been attributed to those activities in the financial accounting statements for the designated person's accounting period, including—
+- (b) a description of any physical site in relation to which at least £10,000,000[^c-230df0c5d8ff4632fd93d3e25864a2bb] of costs has been attributed to those activities in the financial accounting statements for the designated person's accounting period, including—
   - (i) the name and location of the site;
   - (ii) the registered names of any companies which are associated with the designated person and carry out any activity on the site;
   - (iii) a description of any QBU that carries out any activity on the site;
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-230df0c5d8ff4632fd93d3e25864a2bb]: Textual amendment: Sum in reg. 42(1)(b) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/1106/regulation/16)
+[^c-230df0c5d8ff4632fd93d3e25864a2bb]: Textual amendment: Sum in reg. 42(1)(b) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [16](https://www.legislation.gov.uk/uksi/2019/1106/regulation/16)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27BB. Requirements relating to a guaranteed hours offer[^key-7b0e53df043b0c8fd787bc4f98fd8c59]
+## 27BB. Requirements relating to a guaranteed hours offer[^c-7b0e53df043b0c8fd787bc4f98fd8c59]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ and the terms and conditions as varied or (as the case may be) the new worker’
 
 ## Annotations
 
-[^key-7b0e53df043b0c8fd787bc4f98fd8c59]: Textual amendment: Pt. 2A Ch. 2 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)
+[^c-7b0e53df043b0c8fd787bc4f98fd8c59]: Textual amendment: Pt. 2A Ch. 2 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2025/36/section/1/4), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/a)

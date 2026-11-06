@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 567. Meaning of “the notional amount”[^key-35f91277d27ffa863731428da0af5565]
+## 567. Meaning of “the notional amount”[^c-35f91277d27ffa863731428da0af5565]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35f91277d27ffa863731428da0af5565]: Textual amendment: S. 567 omitted (with effect in accordance with Sch. 4 para. 32(2) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/30)
+[^c-35f91277d27ffa863731428da0af5565]: Textual amendment: S. 567 omitted (with effect in accordance with Sch. 4 para. 32(2) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/30)

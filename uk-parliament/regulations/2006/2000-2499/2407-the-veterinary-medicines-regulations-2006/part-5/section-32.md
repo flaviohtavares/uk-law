@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Appointment of inspectors[^key-f987f939336735dddb28d8d2a27a9b23]
+## 32. Appointment of inspectors[^c-f987f939336735dddb28d8d2a27a9b23]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State shall appoint inspectors for the purposes of the enforcem
 
 ## Annotations
 
-[^key-f987f939336735dddb28d8d2a27a9b23]: Commencement: Reg. 32 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)
+[^c-f987f939336735dddb28d8d2a27a9b23]: Commencement: Reg. 32 in force at 1.10.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1)

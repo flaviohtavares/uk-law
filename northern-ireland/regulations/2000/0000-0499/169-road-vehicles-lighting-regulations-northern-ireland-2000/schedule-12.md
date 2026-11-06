@@ -70,11 +70,11 @@ Regulations 21 and 23
 | (b) Every stop lamp fitted to a trailer drawn by a motor vehicle shall be operated by the application of the service braking system of that motor vehicle. |  |
 | *Extent: E+W+S+N.I.*<br>**11.** Tell-tale: | No requirement |
 
-**12.**[^key-a235fbf5ee6df8ddf1f0e459c849c781] Other requirements—
+**12.**[^c-a235fbf5ee6df8ddf1f0e459c849c781] Other requirements—
 
 Where two stop lamps are required to be fitted, they shall form a pair.
 
-**13.**[^key-d4e65f20f559013018a6e3c5239f3598] Definitions—
+**13.**[^c-d4e65f20f559013018a6e3c5239f3598] Definitions—
 
 In this Schedule “approval mark” means—
 
@@ -83,7 +83,7 @@ In this Schedule “approval mark” means—
   - (i) a marking designated as an approval mark by regulation 5 of the Designation of Approval Marks Regulations and shown at item 7 or, if combined with a rear position lamp, at item 8 of Schedule 4 to those Regulations; or
   - (ii) a marking designated as an approval mark by regulation 4 of the Designation of Approval Marks Regulations and shown at item 7B or, if combined with a rear position lamp, at item 7C of Schedule 2 to those Regulations.
 
-### Part II — Requirements Relating to Optional Stop Lamps[^key-7f917721ff63940beeb67fee41190973]
+### Part II — Requirements Relating to Optional Stop Lamps[^c-7f917721ff63940beeb67fee41190973]
 
 Any number may be fitted, and the requirements prescribed by these Regulations in respect of any which are fitted are all those specified in Part I except—
 
@@ -93,8 +93,8 @@ Any number may be fitted, and the requirements prescribed by these Regulations i
 
 ## Annotations
 
-[^key-a235fbf5ee6df8ddf1f0e459c849c781]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/12/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-a235fbf5ee6df8ddf1f0e459c849c781]: Commencement: [Sch. 12 para. 12](https://www.legislation.gov.uk/nisr/2000/169/schedule/12/paragraph/12) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-d4e65f20f559013018a6e3c5239f3598]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/12/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-d4e65f20f559013018a6e3c5239f3598]: Commencement: [Sch. 12 para. 13](https://www.legislation.gov.uk/nisr/2000/169/schedule/12/paragraph/13) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
 
-[^key-7f917721ff63940beeb67fee41190973]: Commencement: [Sch. 12 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/12/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-7f917721ff63940beeb67fee41190973]: Commencement: [Sch. 12 Pt. II](https://www.legislation.gov.uk/nisr/2000/169/schedule/12/part/II) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

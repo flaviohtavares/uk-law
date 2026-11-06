@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Setting of performance standards[^key-245461822845959dc3f3e3826c6b3d7f]
+## 1. Setting of performance standards[^c-245461822845959dc3f3e3826c6b3d7f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-245461822845959dc3f3e3826c6b3d7f]: Textual amendment: [Ss. 1-3](https://www.legislation.gov.uk/asp/2006/14/section/1) repealed (29.6.2011) by [Local Electoral Administration (Scotland) Act 2011 (asp 10)](https://www.legislation.gov.uk/asp/2011/10), [ss. 13(2)](https://www.legislation.gov.uk/asp/2011/10/section/13/2), [21(1)](https://www.legislation.gov.uk/asp/2011/10/section/21/1); [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)
+[^c-245461822845959dc3f3e3826c6b3d7f]: Textual amendment: [Ss. 1-3](https://www.legislation.gov.uk/asp/2006/14/section/1) repealed (29.6.2011) by [Local Electoral Administration (Scotland) Act 2011 (asp 10)](https://www.legislation.gov.uk/asp/2011/10), [ss. 13(2)](https://www.legislation.gov.uk/asp/2011/10/section/13/2), [21(1)](https://www.legislation.gov.uk/asp/2011/10/section/21/1); [S.S.I. 2011/277](https://www.legislation.gov.uk/ssi/2011/277), [art. 2(b)](https://www.legislation.gov.uk/ssi/2011/277/article/2/b)

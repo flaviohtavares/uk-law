@@ -29,7 +29,7 @@ REPRESENTATION OF THE PEOPLE
 
 SUPREME COURT OF ENGLAND AND WALES
 
-The European Parliamentary Election Petition (Amendment) Rules 2003 (revoked)[^key-c69b5a8925dfeefd8bd0d5c9a8166e45]
+The European Parliamentary Election Petition (Amendment) Rules 2003 (revoked)[^c-c69b5a8925dfeefd8bd0d5c9a8166e45]
 
 Made
 
@@ -43,18 +43,18 @@ Coming into force
 
 1st May 2003
 
-[^key-c69b5a8925dfeefd8bd0d5c9a8166e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c69b5a8925dfeefd8bd0d5c9a8166e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-c69b5a8925dfeefd8bd0d5c9a8166e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c69b5a8925dfeefd8bd0d5c9a8166e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-c69b5a8925dfeefd8bd0d5c9a8166e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c69b5a8925dfeefd8bd0d5c9a8166e45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c69b5a8925dfeefd8bd0d5c9a8166e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c69b5a8925dfeefd8bd0d5c9a8166e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c69b5a8925dfeefd8bd0d5c9a8166e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c69b5a8925dfeefd8bd0d5c9a8166e45]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c69b5a8925dfeefd8bd0d5c9a8166e45]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2003/971) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-c69b5a8925dfeefd8bd0d5c9a8166e45]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2003/971) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

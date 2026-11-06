@@ -32,7 +32,7 @@ summary: ''
 
 education, england
 
-The Education (Student Support) (Amendment) Regulations 2008 (revoked)[^key-fea9412f695f261edf7189183a2a65f0]
+The Education (Student Support) (Amendment) Regulations 2008 (revoked)[^c-fea9412f695f261edf7189183a2a65f0]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 28th February 2008
 
-[^key-fea9412f695f261edf7189183a2a65f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fea9412f695f261edf7189183a2a65f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-fea9412f695f261edf7189183a2a65f0]
+## 1. Citation, commencement, application and interpretation[^c-fea9412f695f261edf7189183a2a65f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-fea9412f695f261edf7189183a2a65f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-fea9412f695f261edf7189183a2a65f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-fea9412f695f261edf7189183a2a65f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fea9412f695f261edf7189183a2a65f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the 2007 Regulations[^key-fea9412f695f261edf7189183a2a65f0]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 5. Amendment of regulation 38 of the 2007 Regulations[^key-fea9412f695f261edf7189183a2a65f0]
+## 4. Amendment of the 2007 Regulations[^c-fea9412f695f261edf7189183a2a65f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 62 of the 2007 Regulations[^key-fea9412f695f261edf7189183a2a65f0]
+## 5. Amendment of regulation 38 of the 2007 Regulations[^c-fea9412f695f261edf7189183a2a65f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 63 of the 2007 Regulations[^key-fea9412f695f261edf7189183a2a65f0]
+## 6. Amendment of regulation 62 of the 2007 Regulations[^c-fea9412f695f261edf7189183a2a65f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Part 10 of the 2007 Regulations[^key-fea9412f695f261edf7189183a2a65f0]
+## 7. Amendment of regulation 63 of the 2007 Regulations[^c-fea9412f695f261edf7189183a2a65f0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fea9412f695f261edf7189183a2a65f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 8. Amendment of Part 10 of the 2007 Regulations[^c-fea9412f695f261edf7189183a2a65f0]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fea9412f695f261edf7189183a2a65f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fea9412f695f261edf7189183a2a65f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fea9412f695f261edf7189183a2a65f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fea9412f695f261edf7189183a2a65f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/235) revoked (1.9.2008) by [The Education (Student Support) (No.2) Regulations 2008 (S.I. 2008/1582)](https://www.legislation.gov.uk/uksi/2008/1582), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)[(7)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/7), [4(1)(b)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/4/1/b)
+[^c-fea9412f695f261edf7189183a2a65f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/235) revoked (1.9.2008) by [The Education (Student Support) (No.2) Regulations 2008 (S.I. 2008/1582)](https://www.legislation.gov.uk/uksi/2008/1582), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/3)[(7)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/1/7), [4(1)(b)](https://www.legislation.gov.uk/uksi/2008/1582/regulation/4/1/b)

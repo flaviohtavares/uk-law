@@ -35,18 +35,18 @@ An Act to implement the Convention on the Physical Protection of Nuclear Materia
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Extended scope of certain offences.[^c7547501][^key-65450ea380c085e8eb124da48c79e84a]
+## 1. Extended scope of certain offences.[^c7547501][^c-65450ea380c085e8eb124da48c79e84a]
 
 (1) If a person, whatever his nationality, does outside the United Kingdom, in relation to or by means of nuclear material, any act which, had he done it in any part of the United Kingdom, would have made him guilty of—
 
 - (a) the offence of murder, manslaughter, culpable homicide, assault to injury, malicious mischief or causing injury, or endangering the life of the lieges, by reckless conduct, or
-- (b) an offence under section 18 or 20 of the Offences against the [^c7547511]Person Act 1861 or section 1 of the [^c7547521]Criminal Damage Act 1971 or Article 3 of the [^c7547531]Criminal Damage (Northern Ireland) Order 1977 or section 52 of the Criminal Law (Consolidation) (Scotland) Act 1995[^key-b211efd70de598f803afbc047e5ff0e6], or
+- (b) an offence under section 18 or 20 of the Offences against the [^c7547511]Person Act 1861 or section 1 of the [^c7547521]Criminal Damage Act 1971 or Article 3 of the [^c7547531]Criminal Damage (Northern Ireland) Order 1977 or section 52 of the Criminal Law (Consolidation) (Scotland) Act 1995[^c-b211efd70de598f803afbc047e5ff0e6], or
 - (c) the offence of theft, embezzlement, robbery, assault with intent to rob, burglary or aggravated burglary, or
-- (d) the offence of fraud or extortion or an offence under section [^key-892c0aa56b0414fe684bf789279e683c]... 21 of the [^c7547551]Theft Act 1968 or section [^key-892c0aa56b0414fe684bf789279e683c]... 20 of the [^c7547561]Theft Act (Northern Ireland) 1969,
+- (d) the offence of fraud or extortion or an offence under section [^c-892c0aa56b0414fe684bf789279e683c]... 21 of the [^c7547551]Theft Act 1968 or section [^c-892c0aa56b0414fe684bf789279e683c]... 20 of the [^c7547561]Theft Act (Northern Ireland) 1969,
 
 he shall in any part of the United Kingdom be guilty of such of the offences mentioned in paragraphs (a) to (d) above as are offences of which the act would have made him guilty had he done it in that part of the United Kingdom.
 
-(1A)[^key-6db12facdcf227b49ba6fdfde1ac5ff0] If—
+(1A)[^c-6db12facdcf227b49ba6fdfde1ac5ff0] If—
 
 - (a) a person, whatever his nationality, does outside the United Kingdom an act directed at a nuclear facility, or which interferes with the operation of such a facility,
 - (b) the act causes death, injury or damage resulting from the emission of ionising radiation or the release of radioactive material, and
@@ -54,9 +54,9 @@ he shall in any part of the United Kingdom be guilty of such of the offences men
 
 the person shall in any part of the United Kingdom be guilty of such of the offences mentioned in subsection (1)(a) and (b) as are offences of which the act would have made him guilty had he done it in that part of the United Kingdom.
 
-(2)[^key-91580ad379d635366cfd934262c128c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-91580ad379d635366cfd934262c128c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1A. Increase in penalties for offences committed in relation to nuclear material etc.[^key-65450ea380c085e8eb124da48c79e84a][^key-918d4b01477fba9d22f8077806084add]
+## 1A. Increase in penalties for offences committed in relation to nuclear material etc.[^c-65450ea380c085e8eb124da48c79e84a][^c-918d4b01477fba9d22f8077806084add]
 
 (1) If—
 
@@ -79,7 +79,7 @@ the person shall be liable, on conviction on indictment, to imprisonment for lif
 
 (4) This subsection applies to an offence mentioned in section 1(1)(a) to (d) where the offence is an offence in England and Wales or Northern Ireland by virtue of section 1(1) or (1A).
 
-## 1B. Offences relating to damage to environment[^key-65450ea380c085e8eb124da48c79e84a]
+## 1B. Offences relating to damage to environment[^c-65450ea380c085e8eb124da48c79e84a]
 
 (1) If a person, whatever his nationality, in the United Kingdom or elsewhere contravenes subsection (2) or (3) he is guilty of an offence.
 
@@ -99,7 +99,7 @@ the person shall be liable, on conviction on indictment, to imprisonment for lif
 
 (4) A person guilty of an offence under this section shall be liable, on conviction on indictment, to imprisonment for life.
 
-## 1C. Offences of importing or exporting etc. nuclear material: extended jurisdiction[^key-65450ea380c085e8eb124da48c79e84a]
+## 1C. Offences of importing or exporting etc. nuclear material: extended jurisdiction[^c-65450ea380c085e8eb124da48c79e84a]
 
 (1) If a person, whatever his nationality, outside the United Kingdom contravenes subsection (2) below he shall be guilty of an offence.
 
@@ -123,7 +123,7 @@ is unlawful if it is contrary to any prohibition or restriction on the export, s
 
 (7) In this section “**country**” includes territory.
 
-## 1D. Offences under section 1C: investigations and proceedings etc.[^key-65450ea380c085e8eb124da48c79e84a]
+## 1D. Offences under section 1C: investigations and proceedings etc.[^c-65450ea380c085e8eb124da48c79e84a]
 
 (1) Where the Commissioners for Her Majesty's Revenue and Customs investigate, or propose to investigate, any matter with a view to determining—
 
@@ -141,7 +141,7 @@ the matter is to be treated as an assigned matter within the meaning of CEMA 197
 - “**CEMA 1979**” means the Customs and Excise Management Act 1979;
 - “**the customs and excise Acts**”, “**shipment**” and “**stores**” have the same meanings as in CEMA 1979 (see section 1(1) of that Act).
 
-## 2. Offences involving preparatory acts and threats[^key-65450ea380c085e8eb124da48c79e84a][^key-5203085a23938d85fbddd1ac245b06fe]
+## 2. Offences involving preparatory acts and threats[^c-65450ea380c085e8eb124da48c79e84a][^c-5203085a23938d85fbddd1ac245b06fe]
 
 (1) If a person, whatever his nationality, in the United Kingdom or elsewhere contravenes subsection (2), (3), (4) or (7) he shall be guilty of an offence.
 
@@ -180,7 +180,7 @@ the matter is to be treated as an assigned matter within the meaning of CEMA 197
 
 (9) In this section references to relevant injury or damage are references to death or to injury or damage of a type which constitutes an element of any offence mentioned in section 1(1)(a) or (b) above.
 
-## 2A. Inchoate and secondary offences: extended jurisdiction[^key-65450ea380c085e8eb124da48c79e84a]
+## 2A. Inchoate and secondary offences: extended jurisdiction[^c-65450ea380c085e8eb124da48c79e84a]
 
 (1) If a person, whatever his nationality—
 
@@ -220,16 +220,16 @@ he shall be guilty in that part of the United Kingdom of the offence.
 - (a) a reference to incitement under the law of Scotland, or
 - (b) in relation to any time before the coming into force of Part 2 of the Serious Crime Act 2007 (encouraging or assisting crime) in relation to England and Wales or Northern Ireland, a reference to incitement under the common law of England and Wales or (as the case may be) of Northern Ireland.
 
-## 3. Supplemental.[^c7547631][^key-65450ea380c085e8eb124da48c79e84a]
+## 3. Supplemental.[^c7547631][^c-65450ea380c085e8eb124da48c79e84a]
 
-(1) Proceedings for an offence which (disregarding the provisions of the [^c7547641]Internationally Protected Persons Act 1978 , the Suppression of Terrorism Act 1978[^c7547651] , the United Nations Personnel Act 1997 and the Terrorism Act 2000[^key-44f5443245ef41e653a748b0aa15e647] ) would not be an offence apart from the preceding provisions of this Act shall not be begun—
+(1) Proceedings for an offence which (disregarding the provisions of the [^c7547641]Internationally Protected Persons Act 1978 , the Suppression of Terrorism Act 1978[^c7547651] , the United Nations Personnel Act 1997 and the Terrorism Act 2000[^c-44f5443245ef41e653a748b0aa15e647] ) would not be an offence apart from the preceding provisions of this Act shall not be begun—
 
 - (a) in England and Wales, except by or with the consent of the Attorney General; or
-- (b) in Northern Ireland, except by or with the consent of the Advocate General for Northern Ireland[^key-83e3959e07f2d3ee4a366e1ca9f1da2c].
+- (b) in Northern Ireland, except by or with the consent of the Advocate General for Northern Ireland[^c-83e3959e07f2d3ee4a366e1ca9f1da2c].
 
-(2) Without prejudice to any jurisdiction exercisable apart from this subsection, every sheriff court in Scotland shall have jurisdiction to entertain proceedings for an offence which (disregarding the provisions of the Internationally Protected Persons Act 1978 , the Suppression of Terrorism Act 1978 , the United Nations Personnel Act 1997 and the Terrorism Act 2000[^key-e72a2926c819ea464fa3052f805589dc] ) would not be an offence in Scotland apart from the preceding provisions of this Act.
+(2) Without prejudice to any jurisdiction exercisable apart from this subsection, every sheriff court in Scotland shall have jurisdiction to entertain proceedings for an offence which (disregarding the provisions of the Internationally Protected Persons Act 1978 , the Suppression of Terrorism Act 1978 , the United Nations Personnel Act 1997 and the Terrorism Act 2000[^c-e72a2926c819ea464fa3052f805589dc] ) would not be an offence in Scotland apart from the preceding provisions of this Act.
 
-## 3A. Application to activities of armed forces[^key-65450ea380c085e8eb124da48c79e84a][^key-c8950027d4e4ad57daecdd4fed067954]
+## 3A. Application to activities of armed forces[^c-65450ea380c085e8eb124da48c79e84a][^c-c8950027d4e4ad57daecdd4fed067954]
 
 (1) Nothing in this Act applies in relation to acts done by the armed forces of a country or territory—
 
@@ -240,11 +240,11 @@ he shall be guilty in that part of the United Kingdom of the offence.
 
 (3) In any proceedings a document purporting to be such a certificate as is mentioned in subsection (2) shall be taken to be such a certificate unless the contrary is proved.
 
-## 4. Amendments of other Acts.[^c7547771][^key-65450ea380c085e8eb124da48c79e84a]
+## 4. Amendments of other Acts.[^c7547771][^c-65450ea380c085e8eb124da48c79e84a]
 
 (1) In consequence of the provisions of this Act—
 
-- (a)[^key-18c740499a01e106b565c5c00f81cca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-18c740499a01e106b565c5c00f81cca7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsections (4) and (5) of section 4 of the Suppression of Terrorism Act 1978 (which also relates to certain offences committed outside the United Kingdom) after the words “Internationally Protected Persons Act 1978” there shall be inserted in each place the words “ and the Nuclear Material (Offences) Act 1983 ”.
 
 (2) In the Schedule to the [^c7547781]Visiting Forces Act 1952 (which specifies the offences which are offences against the person and against property for the purposes of section 3 of that Act)—
@@ -268,26 +268,26 @@ he shall be guilty in that part of the United Kingdom of the offence.
 
 **Not yet in force.**
 
-## 6. Interpretation[^c7547821][^key-e6212a012098efd9a31fb0df957a313d][^key-57d4ee0b1d587589bd5f8afbea609c23]
+## 6. Interpretation[^c7547821][^c-e6212a012098efd9a31fb0df957a313d][^c-57d4ee0b1d587589bd5f8afbea609c23]
 
-(A1)[^key-926eaf8b33085913ab4ad80cb2191abc] This section applies for the purposes of this Act.
+(A1)[^c-926eaf8b33085913ab4ad80cb2191abc] This section applies for the purposes of this Act.
 
-(1) References [^key-22fb12c6a9412b51e3fe663c76d71a24]... to nuclear material are references to material which, within the meaning of the Convention, is nuclear material used for peaceful purposes.
+(1) References [^c-22fb12c6a9412b51e3fe663c76d71a24]... to nuclear material are references to material which, within the meaning of the Convention, is nuclear material used for peaceful purposes.
 
-(1A)[^key-363f75a2617444c6234b5ad133d42e34] “**A nuclear facility**” means a facility (including associated buildings and equipment) used for peaceful purposes in which nuclear material is produced, processed, used, handled, stored or disposed of.
+(1A)[^c-363f75a2617444c6234b5ad133d42e34] “**A nuclear facility**” means a facility (including associated buildings and equipment) used for peaceful purposes in which nuclear material is produced, processed, used, handled, stored or disposed of.
 
 (1B) For the purposes of subsections (1) and (1A)—
 
 - (a) nuclear material is not used for peaceful purposes if it is used or retained for military purposes, and
 - (b) a facility is not used for peaceful purposes if it contains any nuclear material which is used or retained for military purposes.
 
-(2) If in any proceedings a question arises whether any material or facility[^key-1846a77720a1ff1b1ac7de415ff0b96b] was used for peaceful purposes, a certificate issued by or under the authority of the Secretary of State and stating that it was, or was not, so used at a time specified in the certificate shall be conclusive of that question.
+(2) If in any proceedings a question arises whether any material or facility[^c-1846a77720a1ff1b1ac7de415ff0b96b] was used for peaceful purposes, a certificate issued by or under the authority of the Secretary of State and stating that it was, or was not, so used at a time specified in the certificate shall be conclusive of that question.
 
 (3) In any proceedings a document purporting to be such a certificate as is mentioned in subsection (2) above shall be taken to be such a certificate unless the contrary is proved.
 
 (4) Paragraphs (a) and (b) of Article 1 of the Convention (which give the definition of “**nuclear material**” for the purposes of the Convention) are set out in the Schedule to this Act.
 
-(5)[^key-cd66ffd4747741cb1ed512a37c630246] “**Act**” includes omission.
+(5)[^c-cd66ffd4747741cb1ed512a37c630246] “**Act**” includes omission.
 
 (6) “**The Convention**” means the Convention on the Physical Protection of Nuclear Material and Nuclear Facilities (formerly the Convention on the Physical Protection of Nuclear Material and renamed by virtue of the Amendment adopted at Vienna on 8th July 2005).
 
@@ -306,15 +306,15 @@ he shall be guilty in that part of the United Kingdom of the offence.
 
 (1)[^c7547851] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^c7547861][^key-c74c85d216ef0929a7045517f1e38022] Her Majesty may by Order in Council make provision for extending the other provisions of this Act, with such exceptions, adaptations or modifications as may be specified in the Order, to any of the Channel Islands, the Isle of Man or any British overseas territory[^key-632ca97b75b5bb68b59078365834a941].
+(2)[^c7547861][^c-c74c85d216ef0929a7045517f1e38022] Her Majesty may by Order in Council make provision for extending the other provisions of this Act, with such exceptions, adaptations or modifications as may be specified in the Order, to any of the Channel Islands, the Isle of Man or any British overseas territory[^c-632ca97b75b5bb68b59078365834a941].
 
-## 8. Short title and commencement.[^c7547881][^key-ea01023652768342fd833f199b8d4cc5]
+## 8. Short title and commencement.[^c7547881][^c-ea01023652768342fd833f199b8d4cc5]
 
 (1) This Act may be cited as the Nuclear Material (Offences) Act 1983.
 
 (2)[^c7547891] This Act shall come into force on such day as Her Majesty may by Order in Council appoint.
 
-## SCHEDULE — Article 1(a) and (b) of the Convention[^c7547901][^key-3cc05271771d60256131cfee151785ad]
+## SCHEDULE — Article 1(a) and (b) of the Convention[^c7547901][^c-3cc05271771d60256131cfee151785ad]
 
 Section 6.
 
@@ -331,7 +331,7 @@ Section 6.
 
 [^c7547501]: Commencement: S. 1 wholly in force 2.10.1991 see s. 8(2) and [S.I. 1991/1716](https://www.legislation.gov.uk/uksi/1991/1716), [art 2](https://www.legislation.gov.uk/uksi/1991/1716/article/2)
 
-[^key-65450ea380c085e8eb124da48c79e84a]: Modification: Ss. 1-4 extended (Isle of Man) (with modifications) (10.12.2009) by [The Nuclear Material (Offences) Act 1983 (Isle of Man) Order 2009 (S.I. 2009/3203)](https://www.legislation.gov.uk/uksi/2009/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3203/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3203/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/3203/schedule)
+[^c-65450ea380c085e8eb124da48c79e84a]: Modification: Ss. 1-4 extended (Isle of Man) (with modifications) (10.12.2009) by [The Nuclear Material (Offences) Act 1983 (Isle of Man) Order 2009 (S.I. 2009/3203)](https://www.legislation.gov.uk/uksi/2009/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3203/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3203/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/3203/schedule)
 
 [^c7547511]: Marginal citation: [1861 c. 100](https://www.legislation.gov.uk/ukpga/1861/100).
 
@@ -339,21 +339,21 @@ Section 6.
 
 [^c7547531]: Marginal citation: [S.I. 1977/426](https://www.legislation.gov.uk/uksi/1977/426).
 
-[^key-b211efd70de598f803afbc047e5ff0e6]: Textual amendment: Words in s. 1(1)(b) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 2(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/2/2); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-b211efd70de598f803afbc047e5ff0e6]: Textual amendment: Words in s. 1(1)(b) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 2(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/2/2); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-892c0aa56b0414fe684bf789279e683c]: Textual amendment: Words in s. 1(1)(d) repealed (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/20), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
+[^c-892c0aa56b0414fe684bf789279e683c]: Textual amendment: Words in s. 1(1)(d) repealed (15.1.2007) by [Fraud Act 2006 (c. 35)](https://www.legislation.gov.uk/ukpga/2006/35), [s. 15(1)](https://www.legislation.gov.uk/ukpga/2006/35/section/15/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2006/35/schedule/1/paragraph/20), [Sch. 3](https://www.legislation.gov.uk/ukpga/2006/35/schedule/3); [S.I. 2006/3200](https://www.legislation.gov.uk/uksi/2006/3200), [art. 2](https://www.legislation.gov.uk/uksi/2006/3200/article/2)
 
 [^c7547551]: Marginal citation: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60).
 
 [^c7547561]: Marginal citation: [1969 c. 16 (N.I.)](https://www.legislation.gov.uk/apni/1969/16).
 
-[^key-6db12facdcf227b49ba6fdfde1ac5ff0]: Textual amendment: S. 1(1A) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/2/3); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-6db12facdcf227b49ba6fdfde1ac5ff0]: Textual amendment: S. 1(1A) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 2(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/2/3); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-91580ad379d635366cfd934262c128c8]: Textual amendment: S. 1(2) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 2(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/2/4), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q/v)
+[^c-91580ad379d635366cfd934262c128c8]: Textual amendment: S. 1(2) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 2(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/2/4), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q/v)
 
-[^key-918d4b01477fba9d22f8077806084add]: Textual amendment: Ss. 1A-1D inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/3); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-918d4b01477fba9d22f8077806084add]: Textual amendment: Ss. 1A-1D inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/3); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-5203085a23938d85fbddd1ac245b06fe]: Textual amendment: Ss. 2, 2A substituted for s. 2 (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/4) (with [Sch. 27 para. 26](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/26)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-5203085a23938d85fbddd1ac245b06fe]: Textual amendment: Ss. 2, 2A substituted for s. 2 (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/4) (with [Sch. 27 para. 26](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/26)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
 [^c7547631]: Commencement: S. 3 wholly in force at 2.10.1991 see s. 8(2) and [S.I. 1991/1716](https://www.legislation.gov.uk/uksi/1991/1716), [art. 2](https://www.legislation.gov.uk/uksi/1991/1716/article/2)
 
@@ -361,17 +361,17 @@ Section 6.
 
 [^c7547651]: Textual amendment: Words in s. 3(1)(2) substituted (27.4.1997) by [1997 c. 13](https://www.legislation.gov.uk/ukpga/1997/13), [ss. 7](https://www.legislation.gov.uk/ukpga/1997/13/section/7), [10(2)](https://www.legislation.gov.uk/ukpga/1997/13/section/10/2), [Sch. para. 4](https://www.legislation.gov.uk/ukpga/1997/13/schedule/paragraph/4)
 
-[^key-44f5443245ef41e653a748b0aa15e647]: Textual amendment: Words in s. 3(1) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/8); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
+[^c-44f5443245ef41e653a748b0aa15e647]: Textual amendment: Words in s. 3(1) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/8); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
 
-[^key-83e3959e07f2d3ee4a366e1ca9f1da2c]: Textual amendment: Words in s. 3(1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/30); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
+[^c-83e3959e07f2d3ee4a366e1ca9f1da2c]: Textual amendment: Words in s. 3(1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 30](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/30); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
 
-[^key-e72a2926c819ea464fa3052f805589dc]: Textual amendment: Words in s. 3(2) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/8); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
+[^c-e72a2926c819ea464fa3052f805589dc]: Textual amendment: Words in s. 3(2) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/8); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
 
-[^key-c8950027d4e4ad57daecdd4fed067954]: Textual amendment: S. 3A inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-c8950027d4e4ad57daecdd4fed067954]: Textual amendment: S. 3A inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
 [^c7547771]: Commencement: S. 4 wholly in force at 2.10.1991 see s. 8(2) and [S.I. 1991/1716](https://www.legislation.gov.uk/uksi/1991/1716), [art. 2](https://www.legislation.gov.uk/uksi/1991/1716/article/2)
 
-[^key-18c740499a01e106b565c5c00f81cca7]: Textual amendment: S. 4(1)(a) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
+[^c-18c740499a01e106b565c5c00f81cca7]: Textual amendment: S. 4(1)(a) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/3)
 
 [^c7547781]: Marginal citation: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67).
 
@@ -381,19 +381,19 @@ Section 6.
 
 [^c7547821]: Commencement: S. 6 wholly in force at 2.10.1991 see s. 8(2) and [S.I. 1991/1716](https://www.legislation.gov.uk/uksi/1991/1716), [art. 2](https://www.legislation.gov.uk/uksi/1991/1716/article/2)
 
-[^key-e6212a012098efd9a31fb0df957a313d]: Modification: S. 6 extended (Isle of Man) (with modifications) (10.12.2009) by [The Nuclear Material (Offences) Act 1983 (Isle of Man) Order 2009 (S.I. 2009/3203)](https://www.legislation.gov.uk/uksi/2009/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3203/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3203/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/3203/schedule)
+[^c-e6212a012098efd9a31fb0df957a313d]: Modification: S. 6 extended (Isle of Man) (with modifications) (10.12.2009) by [The Nuclear Material (Offences) Act 1983 (Isle of Man) Order 2009 (S.I. 2009/3203)](https://www.legislation.gov.uk/uksi/2009/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3203/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3203/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/3203/schedule)
 
-[^key-57d4ee0b1d587589bd5f8afbea609c23]: Textual amendment: S. 6 heading substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(7)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/7); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-57d4ee0b1d587589bd5f8afbea609c23]: Textual amendment: S. 6 heading substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(7)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/7); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-926eaf8b33085913ab4ad80cb2191abc]: Textual amendment: S. 6(A1) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/2); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-926eaf8b33085913ab4ad80cb2191abc]: Textual amendment: S. 6(A1) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/2); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-22fb12c6a9412b51e3fe663c76d71a24]: Textual amendment: Words in s. 6(1) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/3), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q/v)
+[^c-22fb12c6a9412b51e3fe663c76d71a24]: Textual amendment: Words in s. 6(1) repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/3), [Sch. 28 Pt. 5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q/v)
 
-[^key-363f75a2617444c6234b5ad133d42e34]: Textual amendment: S. 6(1A)(1B) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/4); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-363f75a2617444c6234b5ad133d42e34]: Textual amendment: S. 6(1A)(1B) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(4)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/4); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-1846a77720a1ff1b1ac7de415ff0b96b]: Textual amendment: Words in s. 6(2) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-1846a77720a1ff1b1ac7de415ff0b96b]: Textual amendment: Words in s. 6(2) inserted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(5)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/5); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
-[^key-cd66ffd4747741cb1ed512a37c630246]: Textual amendment: S. 6(5)-(8) substituted for s. 6(5) (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(6)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/6); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-cd66ffd4747741cb1ed512a37c630246]: Textual amendment: S. 6(5)-(8) substituted for s. 6(5) (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 6(6)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/6/6); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
 [^c7547841]: Commencement: S. 7(2) in force for specified purposes at 24.7.1991 and otherwise in force 2.10.1991, see s. 8(2) and [S.I. 1991/1716](https://www.legislation.gov.uk/uksi/1991/1716), [art. 2](https://www.legislation.gov.uk/uksi/1991/1716/article/2)
 
@@ -401,19 +401,19 @@ Section 6.
 
 [^c7547861]: Subordinate legislation: S. 7(2): power exercised by [S.I. 1991/1717](https://www.legislation.gov.uk/uksi/1991/1717), 1991/1718 and 1991/1719
 
-[^key-c74c85d216ef0929a7045517f1e38022]: Modification: S. 7(2) modified (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 152(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/152/7), [153(1)(g)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/g)
+[^c-c74c85d216ef0929a7045517f1e38022]: Modification: S. 7(2) modified (8.5.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 152(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/152/7), [153(1)(g)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/g)
 
-[^key-632ca97b75b5bb68b59078365834a941]: Textual amendment: Words in s. 7(2) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/7); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
+[^c-632ca97b75b5bb68b59078365834a941]: Textual amendment: Words in s. 7(2) substituted (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/17/paragraph/7); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(q)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/q)
 
 [^c7547881]: Commencement: S. 8 in force for specified purposes at 24.7.1991 and otherwise in force at 2.10.1991 see s. 8(2) and [S.I. 1991/1716](https://www.legislation.gov.uk/uksi/1991/1716), [art. 2](https://www.legislation.gov.uk/uksi/1991/1716/article/2)
 
-[^key-ea01023652768342fd833f199b8d4cc5]: Modification: S. 8 extended (Isle of Man) (with modifications) (10.12.2009) by [The Nuclear Material (Offences) Act 1983 (Isle of Man) Order 2009 (S.I. 2009/3203)](https://www.legislation.gov.uk/uksi/2009/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3203/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3203/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/3203/schedule)
+[^c-ea01023652768342fd833f199b8d4cc5]: Modification: S. 8 extended (Isle of Man) (with modifications) (10.12.2009) by [The Nuclear Material (Offences) Act 1983 (Isle of Man) Order 2009 (S.I. 2009/3203)](https://www.legislation.gov.uk/uksi/2009/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3203/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3203/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/3203/schedule)
 
 [^c7547891]: Subordinate legislation: S. 8(2): power exercised (24.7.1991) by [S.I.1991/1716](https://www.legislation.gov.uk/uksi/1991/1716)
 
 [^c7547901]: Commencement: [Sch](https://www.legislation.gov.uk/ukpga/1983/18/schedule)edule wholly in force at 2.10.1991 see [s. 8(2)](https://www.legislation.gov.uk/ukpga/1983/18/section/8/2) and [S.I. 1991/1716](https://www.legislation.gov.uk/uksi/1991/1716), [art. 2](https://www.legislation.gov.uk/uksi/1991/1716/article/2)
 
-[^key-3cc05271771d60256131cfee151785ad]: Modification: [Sch.](https://www.legislation.gov.uk/ukpga/1983/18/schedule) extended (Isle of Man) (with modifications) (10.12.2009) by [The Nuclear Material (Offences) Act 1983 (Isle of Man) Order 2009 (S.I. 2009/3203)](https://www.legislation.gov.uk/uksi/2009/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3203/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3203/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/3203/schedule)
+[^c-3cc05271771d60256131cfee151785ad]: Modification: [Sch.](https://www.legislation.gov.uk/ukpga/1983/18/schedule) extended (Isle of Man) (with modifications) (10.12.2009) by [The Nuclear Material (Offences) Act 1983 (Isle of Man) Order 2009 (S.I. 2009/3203)](https://www.legislation.gov.uk/uksi/2009/3203), [arts. 1](https://www.legislation.gov.uk/uksi/2009/3203/article/1), [3](https://www.legislation.gov.uk/uksi/2009/3203/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/3203/schedule)
 
 [^c7547911]: Commencement: [Sch. article 1](https://www.legislation.gov.uk/ukpga/1983/18/schedule/article/1) wholly in force at 2.10.1991 see [s. 8(2)](https://www.legislation.gov.uk/ukpga/1983/18/section/8/2) and [S.I. 1991/1716](https://www.legislation.gov.uk/uksi/1991/1716), [art. 2](https://www.legislation.gov.uk/uksi/1991/1716/article/2)
 

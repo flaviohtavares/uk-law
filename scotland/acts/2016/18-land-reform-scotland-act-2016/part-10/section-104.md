@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Assignation of limited duration tenancies[^key-09a42471e4cc2a9e97ba0d0ae5097b32]
+## 104. Assignation of limited duration tenancies[^c-09a42471e4cc2a9e97ba0d0ae5097b32]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09a42471e4cc2a9e97ba0d0ae5097b32]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2016/18/section/104) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))
+[^c-09a42471e4cc2a9e97ba0d0ae5097b32]: Commencement: [S. 104](https://www.legislation.gov.uk/asp/2016/18/section/104) in force at 23.12.2016 by [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule) (with [regs. 3-15](https://www.legislation.gov.uk/ssi/2016/365/regulation/3))

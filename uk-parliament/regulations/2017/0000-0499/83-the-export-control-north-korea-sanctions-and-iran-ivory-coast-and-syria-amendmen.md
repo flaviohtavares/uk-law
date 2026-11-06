@@ -67,61 +67,61 @@ An offence may be committed under this Order—
 - (a) in the United Kingdom by any person;
 - (b) elsewhere by any person who is a United Kingdom person within the meaning of section 11 of the Export Control Act 2002.
 
-### 4. Interpretation[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 4. Interpretation[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Offences relating to prohibitions in the North Korea Regulation
 
-### 5. Offences related to items listed in Annexes I, Ia, Ib, Ic, Id, Ie, If and Ig[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 5. Offences related to items listed in Annexes I, Ia, Ib, Ic, Id, Ie, If and Ig[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offences related to any item except food and medicine destined for North Korea's or another State's armed forces[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 6. Offences related to any item except food and medicine destined for North Korea's or another State's armed forces[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Offences related to goods and technology in the Common Military List and items listed in Annexes I, Ia and Ib[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 7. Offences related to goods and technology in the Common Military List and items listed in Annexes I, Ia and Ib[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Offences related to luxury goods listed in Annex III[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 8. Offences related to luxury goods listed in Annex III[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Offences related to gold, precious metals and diamonds listed in Annex VII[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 9. Offences related to gold, precious metals and diamonds listed in Annex VII[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Offences related to North Korean denominated banknotes and minted coinage[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 10. Offences related to North Korean denominated banknotes and minted coinage[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Offences related to commercial activity associated with North Korea[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 11. Offences related to commercial activity associated with North Korea[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Offences related to financing or financial assistance for trade with North Korea relating to nuclear or ballistic-missile programmes[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 12. Offences related to financing or financial assistance for trade with North Korea relating to nuclear or ballistic-missile programmes[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Supplementary offences
 
-### 13. Circumvention of prohibitions in the North Korea Regulation[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 13. Circumvention of prohibitions in the North Korea Regulation[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Offences related to an EU authorisation[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 14. Offences related to an EU authorisation[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Enforcement and penalties
 
-### 15. Penalties[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 15. Penalties[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Application of the 1979 Act[^key-f1cb7381da50322ffcb6754c4406b3e7]
+### 16. Application of the 1979 Act[^c-f1cb7381da50322ffcb6754c4406b3e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -212,7 +212,7 @@ An impact assessment has not been produced for this instrument as it has no or m
 
 [^c22986211]: Marginal citation: [S.I. 2013/3182](https://www.legislation.gov.uk/uksi/2013/3182).
 
-[^key-f1cb7381da50322ffcb6754c4406b3e7]: Textual amendment: [Arts. 4-16](https://www.legislation.gov.uk/uksi/2017/83/article/4) revoked (14.3.2018) by [The Export Control (North Korea Sanctions) Order 2018 (S.I. 2018/200)](https://www.legislation.gov.uk/uksi/2018/200), [arts. 1](https://www.legislation.gov.uk/uksi/2018/200/article/1), [25](https://www.legislation.gov.uk/uksi/2018/200/article/25)
+[^c-f1cb7381da50322ffcb6754c4406b3e7]: Textual amendment: [Arts. 4-16](https://www.legislation.gov.uk/uksi/2017/83/article/4) revoked (14.3.2018) by [The Export Control (North Korea Sanctions) Order 2018 (S.I. 2018/200)](https://www.legislation.gov.uk/uksi/2018/200), [arts. 1](https://www.legislation.gov.uk/uksi/2018/200/article/1), [25](https://www.legislation.gov.uk/uksi/2018/200/article/25)
 
 [^c22986391]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231), relevant amending instruments are [S.I. 2009/1305](https://www.legislation.gov.uk/uksi/2009/1305), 2009/2969, 2010/615, 2010/2007, 2011/825, 2011/1304, 2011/2010, 2013/3182, 2014/2357, 2015/1546, 2015/1586 and 2016/503.
 

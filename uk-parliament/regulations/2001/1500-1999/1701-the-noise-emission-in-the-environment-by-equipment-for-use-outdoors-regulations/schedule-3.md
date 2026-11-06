@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — (Extract from Article 12) Permissible Sound Power Levels (Extent: E+W+S)[^key-e894bb24a492218ad4081508976c9950]
+## SCHEDULE 3 — (Extract from Article 12) Permissible Sound Power Levels (Extent: E+W+S)[^c-e894bb24a492218ad4081508976c9950]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,15 +61,15 @@ Regulation 8
 </tbody>
 </table>
 
-[^key-78b5d7bf28db3d2e4dedb40642489cf5][^f01000][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01002][^f01002][^f01001]
+[^c-78b5d7bf28db3d2e4dedb40642489cf5][^f01000][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01001][^f01002][^f01002][^f01001]
 
 ## Annotations
 
-[^key-e894bb24a492218ad4081508976c9950]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2001/1701/schedule/3) heading inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 8 para. 17](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/17) (with [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/14)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e894bb24a492218ad4081508976c9950]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2001/1701/schedule/3) heading inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 8 para. 17](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/17) (with [Sch. 8 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/8/paragraph/14)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-78b5d7bf28db3d2e4dedb40642489cf5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2001/1701/schedule/3) Table substituted (3.1.2006) by The Noise Emission in the Environment by [Equipment for Use Outdoors (Amendment) Regulations 2005 (S.I. 2005/3525)](https://www.legislation.gov.uk/uksi/2005/3525), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3525/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/3525/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3525/schedule)
+[^c-78b5d7bf28db3d2e4dedb40642489cf5]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2001/1701/schedule/3) Table substituted (3.1.2006) by The Noise Emission in the Environment by [Equipment for Use Outdoors (Amendment) Regulations 2005 (S.I. 2005/3525)](https://www.legislation.gov.uk/uksi/2005/3525), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3525/regulation/1), [2](https://www.legislation.gov.uk/uksi/2005/3525/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/3525/schedule)
 
-[^f01000]: Footnote: a[^key-78b5d7bf28db3d2e4dedb40642489cf5]
+[^f01000]: Footnote: a[^c-78b5d7bf28db3d2e4dedb40642489cf5]
 
     *P<sub>el</sub>* for welding generators: conventional welding current multiplied by the conventional load voltage for the lowest value of the duty factor given by the manufacturer. *P<sub>el</sub>* for power generators: prime power according to ISO 8528-1:1993, clause 13.3.2.
 

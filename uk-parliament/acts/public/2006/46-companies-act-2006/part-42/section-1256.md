@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c19931941][^c21353481][^key-553e11aef5f686bbe9291d23e3d9ea09] An information relating to an offence under this Part which is triable by a magistrates' court in England and Wales may be so tried if it is laid at any time within the period of twelve months beginning with the date on which evidence sufficient in the opinion of the Director of Public Prosecutions or the Secretary of State to justify the proceedings comes to his knowledge.
+(1)[^c19931941][^c21353481][^c-553e11aef5f686bbe9291d23e3d9ea09] An information relating to an offence under this Part which is triable by a magistrates' court in England and Wales may be so tried if it is laid at any time within the period of twelve months beginning with the date on which evidence sufficient in the opinion of the Director of Public Prosecutions or the Secretary of State to justify the proceedings comes to his knowledge.
 
 (2)[^c19931941][^c21353481] Proceedings in Scotland for an offence under this Part may be commenced at any time within the period of twelve months beginning with the date on which evidence sufficient in the Lord Advocate's opinion to justify proceedings came to his knowledge or, where such evidence was reported to him by the Secretary of State, within the period of twelve months beginning with the date on which it came to the knowledge of the Secretary of State.
 
@@ -36,7 +36,7 @@ summary: ''
 
 more than three years after the commission of the offence.
 
-(6)[^c19931941][^c21353481][^key-436a5e8c250f3fa6a1275f5ebd759730] For the purposes of this section a certificate of the Director of Public Prosecutions, the Lord Advocate, the Director of Public Prosecutions for Northern Ireland or the Secretary of State as to the date on which such evidence as is referred to above came to his knowledge is conclusive evidence.
+(6)[^c19931941][^c21353481][^c-436a5e8c250f3fa6a1275f5ebd759730] For the purposes of this section a certificate of the Director of Public Prosecutions, the Lord Advocate, the Director of Public Prosecutions for Northern Ireland or the Secretary of State as to the date on which such evidence as is referred to above came to his knowledge is conclusive evidence.
 
 (7) Nothing in this section affects proceedings within the time limits prescribed by section 127(1) of the Magistrates' Courts Act 1980 (c. 43), section 331 of the Criminal Procedure (Scotland) Act 1975 or Article 19 of the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/1675 (N.I. 26)) (the usual time limits for criminal proceedings).
 
@@ -46,6 +46,6 @@ more than three years after the commission of the offence.
 
 [^c21353481]: Modification: S. 1256(1)(2)(4)(6) modified (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [14](https://www.legislation.gov.uk/uksi/2012/1741/article/14)
 
-[^key-553e11aef5f686bbe9291d23e3d9ea09]: Modification: S. 1256(1) modified (19.8.2014) by [The Local Audit (Delegation of Functions) and Statutory Audit (Delegation of Functions) Order 2014 (S.I. 2014/2009)](https://www.legislation.gov.uk/uksi/2014/2009), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2009/article/1/1), [9](https://www.legislation.gov.uk/uksi/2014/2009/article/9)
+[^c-553e11aef5f686bbe9291d23e3d9ea09]: Modification: S. 1256(1) modified (19.8.2014) by [The Local Audit (Delegation of Functions) and Statutory Audit (Delegation of Functions) Order 2014 (S.I. 2014/2009)](https://www.legislation.gov.uk/uksi/2014/2009), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2009/article/1/1), [9](https://www.legislation.gov.uk/uksi/2014/2009/article/9)
 
-[^key-436a5e8c250f3fa6a1275f5ebd759730]: Modification: S. 1256(6) modified (19.8.2014) by [The Local Audit (Delegation of Functions) and Statutory Audit (Delegation of Functions) Order 2014 (S.I. 2014/2009)](https://www.legislation.gov.uk/uksi/2014/2009), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2009/article/1/1), [9](https://www.legislation.gov.uk/uksi/2014/2009/article/9)
+[^c-436a5e8c250f3fa6a1275f5ebd759730]: Modification: S. 1256(6) modified (19.8.2014) by [The Local Audit (Delegation of Functions) and Statutory Audit (Delegation of Functions) Order 2014 (S.I. 2014/2009)](https://www.legislation.gov.uk/uksi/2014/2009), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2009/article/1/1), [9](https://www.legislation.gov.uk/uksi/2014/2009/article/9)

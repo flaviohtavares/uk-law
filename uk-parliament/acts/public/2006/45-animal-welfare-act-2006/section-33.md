@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Deprivation[^key-400ca286e1390d42e2d19810452762f1][^key-bef58c1097b533b56c8a9d1a319af4d3][^key-2d0b990434153d5b5ad57c6b5e93806d]
+## 33. Deprivation[^c-400ca286e1390d42e2d19810452762f1][^c-bef58c1097b533b56c8a9d1a319af4d3][^c-2d0b990434153d5b5ad57c6b5e93806d]
 
 *Extent: E+W*
 
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-400ca286e1390d42e2d19810452762f1]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/45/section/33) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
+[^c-400ca286e1390d42e2d19810452762f1]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/45/section/33) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/e)
 
-[^key-bef58c1097b533b56c8a9d1a319af4d3]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/45/section/33) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
+[^c-bef58c1097b533b56c8a9d1a319af4d3]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2006/45/section/33) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/g)
 
-[^key-2d0b990434153d5b5ad57c6b5e93806d]: Modification: [S. 33](https://www.legislation.gov.uk/ukpga/2006/45/section/33) applied (with modifications) (6.4.2026) by [The Animal Welfare (Primate Licences) (England) Regulations 2024 (S.I. 2024/296)](https://www.legislation.gov.uk/uksi/2024/296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/19/a)
+[^c-2d0b990434153d5b5ad57c6b5e93806d]: Modification: [S. 33](https://www.legislation.gov.uk/ukpga/2006/45/section/33) applied (with modifications) (6.4.2026) by [The Animal Welfare (Primate Licences) (England) Regulations 2024 (S.I. 2024/296)](https://www.legislation.gov.uk/uksi/2024/296), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/296/regulation/1/2), [19(a)](https://www.legislation.gov.uk/uksi/2024/296/regulation/19/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 244. Provable debts[^key-60d1a8eb82c37101df80f9781b8d70f3]
+## 244. Provable debts[^c-60d1a8eb82c37101df80f9781b8d70f3]
 
 *Extent: N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 ## Annotations
 
-[^key-60d1a8eb82c37101df80f9781b8d70f3]: Commencement: [Rule 244](https://www.legislation.gov.uk/nisr/2026/11/rule/244) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-60d1a8eb82c37101df80f9781b8d70f3]: Commencement: [Rule 244](https://www.legislation.gov.uk/nisr/2026/11/rule/244) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
 
 [^f00022]: Footnote: [2002 c. 9](https://www.legislation.gov.uk/ukpga/2002/9)
 

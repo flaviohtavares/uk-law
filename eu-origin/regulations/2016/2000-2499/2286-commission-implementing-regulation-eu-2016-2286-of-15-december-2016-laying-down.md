@@ -36,101 +36,101 @@ laying down detailed rules on the application of fair use policy and on the meth
 
 (Text with EEA relevance) (revoked)
 
-[^key-dce0b3e94eb38f6722c1a1ccd772af7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dce0b3e94eb38f6722c1a1ccd772af7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION I — GENERAL PROVISIONS[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+## SECTION I — GENERAL PROVISIONS[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
-### Article 1. Subject matter and scope[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 1. Subject matter and scope[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION II — FAIR USE POLICY[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
-
-### Article 3. Basic principle[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 2. Definitions[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Fair use[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+## SECTION II — FAIR USE POLICY[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
+
+### Article 3. Basic principle[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 5. Transparency and supervision of fair use policies[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 4. Fair use[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION III — APPLICATION AND METHODOLOGY FOR ASSESSING THE SUSTAINABILITY OF THE ABOLITION OF RETAIL ROAMING CHARGES[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
-
-### Article 6. Data supporting the application for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 5. Transparency and supervision of fair use policies[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Determination of roaming-specific costs for the provision of regulated retail roaming services[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+## SECTION III — APPLICATION AND METHODOLOGY FOR ASSESSING THE SUSTAINABILITY OF THE ABOLITION OF RETAIL ROAMING CHARGES[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
+
+### Article 6. Data supporting the application for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Allocation of retail joint and common costs to the provision of regulated retail roaming services[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 7. Determination of roaming-specific costs for the provision of regulated retail roaming services[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Determination of revenues from the provision of regulated retail roaming services[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 8. Allocation of retail joint and common costs to the provision of regulated retail roaming services[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Assessment of applications for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 9. Determination of revenues from the provision of regulated retail roaming services[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION IV — FINAL PROVISIONS[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
-
-### Article 11. Monitoring of fair use policy and applications for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 10. Assessment of applications for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Review[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+## SECTION IV — FINAL PROVISIONS[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
+
+### Article 11. Monitoring of fair use policy and applications for authorisation to apply a roaming surcharge filed by a roaming provider pursuant to Article 6c(2) of Regulation (EU) No 531/2012 in order to ensure the sustainability of its domestic charging model[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Entry into force[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 12. Review[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dce0b3e94eb38f6722c1a1ccd772af7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+### Article 13. Entry into force[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-dce0b3e94eb38f6722c1a1ccd772af7a]
+[^c-dce0b3e94eb38f6722c1a1ccd772af7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dce0b3e94eb38f6722c1a1ccd772af7a](1)
+## ANNEX I[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-dce0b3e94eb38f6722c1a1ccd772af7a]
+
+[^c-dce0b3e94eb38f6722c1a1ccd772af7a](1)
 
 Weights *w<sub>i</sub>* of mobile retail services:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dce0b3e94eb38f6722c1a1ccd772af7a](2)
+[^c-dce0b3e94eb38f6722c1a1ccd772af7a](2)
 
 Ratio of overall traffic volume of applicant's retail roaming services to overall retail outbound and wholesale inbound traffic of its roaming services:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dce0b3e94eb38f6722c1a1ccd772af7a](3)
+[^c-dce0b3e94eb38f6722c1a1ccd772af7a](3)
 
 Ratio of overall traffic volume of applicant's retail roaming services within the Union to overall traffic of its retail roaming services within and outside the Union:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dce0b3e94eb38f6722c1a1ccd772af7a](4)
+[^c-dce0b3e94eb38f6722c1a1ccd772af7a](4)
 
 Ratio of overall traffic of applicant's retail roaming services within the Union to overall retail traffic of all mobile retail services:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dce0b3e94eb38f6722c1a1ccd772af7a](5)
+[^c-dce0b3e94eb38f6722c1a1ccd772af7a](5)
 
 Retail EU roaming revenue:
 
@@ -138,4 +138,4 @@ Retail EU roaming revenue:
 
 ## Annotations
 
-[^key-dce0b3e94eb38f6722c1a1ccd772af7a]: Textual amendment: Regulation revoked (31.12.2020) by [The Mobile Roaming (EU Exit) Regulations 2019 (S.I. 2019/587)](https://www.legislation.gov.uk/uksi/2019/587), [regs. 1](https://www.legislation.gov.uk/uksi/2019/587/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/587/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dce0b3e94eb38f6722c1a1ccd772af7a]: Textual amendment: Regulation revoked (31.12.2020) by [The Mobile Roaming (EU Exit) Regulations 2019 (S.I. 2019/587)](https://www.legislation.gov.uk/uksi/2019/587), [regs. 1](https://www.legislation.gov.uk/uksi/2019/587/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2019/587/regulation/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Reports by Chief Constable[^key-d99d60d4bb81783278c574711f3879e4]
+## 56. Reports by Chief Constable[^c-d99d60d4bb81783278c574711f3879e4]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d99d60d4bb81783278c574711f3879e4]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2003/20/section/56) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(mm)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/mm)
+[^c-d99d60d4bb81783278c574711f3879e4]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2003/20/section/56) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(mm)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/mm)

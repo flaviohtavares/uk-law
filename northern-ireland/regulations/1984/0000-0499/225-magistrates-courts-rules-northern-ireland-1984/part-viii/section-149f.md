@@ -24,8 +24,8 @@ summary: ''
 
 (2)
 
-- (a) [^key-f12667453a2ed900f46ae31f5f5903e9]..., an application under paragraph (1) shall be made not less than 14 days before the day fixed for the commencement of the proceedings to which the application relates.
-- (b)[^key-da6e716b67546a940da2bd1ef1719a48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) [^c-f12667453a2ed900f46ae31f5f5903e9]..., an application under paragraph (1) shall be made not less than 14 days before the day fixed for the commencement of the proceedings to which the application relates.
+- (b)[^c-da6e716b67546a940da2bd1ef1719a48] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The notice under paragraph (1) shall be served on the clerk of petty sessions and at the same time a copy thereof shall be served on every other party to the proceedings.
 
@@ -60,6 +60,6 @@ summary: ''
 
 [^f00219]: Footnote: Rules 149F-149I inserted by [S.R. 2008 No. 361](https://www.legislation.gov.uk/nisr/2008/361) with effect from 02.02.09
 
-[^key-f12667453a2ed900f46ae31f5f5903e9]: Textual amendment: Words in [rule 149F(2)(a)](https://www.legislation.gov.uk/nisr/1984/225/rule/149F/2/a) omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(14)(a)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/14/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-f12667453a2ed900f46ae31f5f5903e9]: Textual amendment: Words in [rule 149F(2)(a)](https://www.legislation.gov.uk/nisr/1984/225/rule/149F/2/a) omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(14)(a)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/14/a) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
-[^key-da6e716b67546a940da2bd1ef1719a48]: Textual amendment: [Rule 149F(2)(b)](https://www.legislation.gov.uk/nisr/1984/225/rule/149F/2/b) omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(14)(b)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/14/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-da6e716b67546a940da2bd1ef1719a48]: Textual amendment: [Rule 149F(2)(b)](https://www.legislation.gov.uk/nisr/1984/225/rule/149F/2/b) omitted (17.10.2022) by virtue of [The Magistrates’ Courts (Amendment) Rules (Northern Ireland) 2022 (S.R. 2022/218)](https://www.legislation.gov.uk/nisr/2022/218), [rules 1](https://www.legislation.gov.uk/nisr/2022/218/rule/1), [3(14)(b)](https://www.legislation.gov.uk/nisr/2022/218/rule/3/14/b) (with [rule 2](https://www.legislation.gov.uk/nisr/2022/218/rule/2)); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)

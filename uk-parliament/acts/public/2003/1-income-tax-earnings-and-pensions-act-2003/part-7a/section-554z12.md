@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 554Z12. Relevant step taken after A's death etc[^key-74da80b2f7ea0e3932fdd24e546bc6fe]
+## 554Z12. Relevant step taken after A's death etc[^c-74da80b2f7ea0e3932fdd24e546bc6fe]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subsection (3), (4) or (5) (as the case may be) applies if the relevant step is a step within section 554C , by virtue of subsection (1)(a) or (b) to (e) of that section,[^key-b797026c8065145820012aa0c7bc4fec] or 554D and—
+(1) Subsection (3), (4) or (5) (as the case may be) applies if the relevant step is a step within section 554C , by virtue of subsection (1)(a) or (b) to (e) of that section,[^c-b797026c8065145820012aa0c7bc4fec] or 554D and—
 
 - (a) the relevant step is taken on or after A's death, or
 - (b) if relevant, any of A's employment income by virtue of section 554Z2(1) is remitted to the United Kingdom on or after A's death.
@@ -64,14 +64,14 @@ is to count as an amount of employment income of the relevant person for the tax
 
 is to be apportioned between the relevant persons on a just and reasonable basis with subsections (3) to (5) applying accordingly.
 
-(9)[^key-be6752a0b1fa6a070813db4cab0b4002] Section 554Z4A and section 554Z11A apply for the purposes of subsection (4) as for the purposes of section 554Z2 and section 554Z9(2) or 554Z10(2) respectively (reading references in sections 554Z4A and 554Z11A to “A” as references to “the relevant person”).
+(9)[^c-be6752a0b1fa6a070813db4cab0b4002] Section 554Z4A and section 554Z11A apply for the purposes of subsection (4) as for the purposes of section 554Z2 and section 554Z9(2) or 554Z10(2) respectively (reading references in sections 554Z4A and 554Z11A to “A” as references to “the relevant person”).
 
 (10) But those sections do not apply for the purposes of subsection (4) if the relevant person's temporary period of non-residence began before A died.
 
 ## Annotations
 
-[^key-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
+[^c-74da80b2f7ea0e3932fdd24e546bc6fe]: Textual amendment: Pt. 7A inserted (with effect in accordance with Sch. 2 paras. 52-59 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/2/paragraph/1)
 
-[^key-b797026c8065145820012aa0c7bc4fec]: Textual amendment: Words in [s. 554Z12(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z12/1) inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/7)
+[^c-b797026c8065145820012aa0c7bc4fec]: Textual amendment: Words in [s. 554Z12(1)](https://www.legislation.gov.uk/ukpga/2003/1/section/554Z12/1) inserted (with effect in accordance with Sch. 6 para. 13 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2017/10/schedule/6/paragraph/7)
 
-[^key-be6752a0b1fa6a070813db4cab0b4002]: Textual amendment: S. 554Z12(9)(10) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 128](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/128)
+[^c-be6752a0b1fa6a070813db4cab0b4002]: Textual amendment: S. 554Z12(9)(10) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 128](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/128)

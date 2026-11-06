@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## M3. Recovery or retention by employing authority of certain sums from the superannuation fund[^key-a3dc575cc02fee7210329a98fda15e36]
+## M3. Recovery or retention by employing authority of certain sums from the superannuation fund[^c-a3dc575cc02fee7210329a98fda15e36]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3dc575cc02fee7210329a98fda15e36]: Commencement: [Reg. M3](https://www.legislation.gov.uk/uksi/1986/24/regulation/M3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-a3dc575cc02fee7210329a98fda15e36]: Commencement: [Reg. M3](https://www.legislation.gov.uk/uksi/1986/24/regulation/M3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

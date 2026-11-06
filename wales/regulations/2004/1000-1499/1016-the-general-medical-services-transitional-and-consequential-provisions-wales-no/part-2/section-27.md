@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Practice leaflet[^key-94bc314e1b16c759cea59db2fae360d7]
+## 27. Practice leaflet[^c-94bc314e1b16c759cea59db2fae360d7]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ need not, until 1st August 2004, include all the information specified in the te
 
 ## Annotations
 
-[^key-94bc314e1b16c759cea59db2fae360d7]: Commencement: Art. 27 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-94bc314e1b16c759cea59db2fae360d7]: Commencement: Art. 27 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
 
 [^f00036]: Footnote: Paragraph 47 was amended by [S.I. 2002/1896 (W.197)](https://www.legislation.gov.uk/wsi/2002/1896).

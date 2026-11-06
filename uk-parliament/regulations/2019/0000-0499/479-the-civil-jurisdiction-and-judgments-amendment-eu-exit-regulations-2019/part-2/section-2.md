@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Administration of Justice Act 1970[^key-b89589bab7cad98324bdf874c23ba07c]
+## 2. Administration of Justice Act 1970[^c-b89589bab7cad98324bdf874c23ba07c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In the Administration of Justice Act 1970 [^c23624441], in Schedule 8 (maintenan
 
 ## Annotations
 
-[^key-b89589bab7cad98324bdf874c23ba07c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-b89589bab7cad98324bdf874c23ba07c]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23624441]: Marginal citation: [1970 c. 31](https://www.legislation.gov.uk/ukpga/1970/31).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 79. Transfer of churches closed for regular public worship[^key-bcdf8dc3cb816c4ed635f25f1fa387ba]
+## 79. Transfer of churches closed for regular public worship[^c-bcdf8dc3cb816c4ed635f25f1fa387ba]
 
 *Extent: E*
 
@@ -58,4 +58,4 @@ and on any such acquisition this Part, except so far as it is applied by subsect
 
 ## Annotations
 
-[^key-bcdf8dc3cb816c4ed635f25f1fa387ba]: Commencement: S. 79 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-bcdf8dc3cb816c4ed635f25f1fa387ba]: Commencement: S. 79 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

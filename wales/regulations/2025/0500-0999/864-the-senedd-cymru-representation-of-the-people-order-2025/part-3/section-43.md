@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Control of donations to individual candidates[^key-11c33dd09ad35e6e42fcd10ca5141c42]
+## 43. Control of donations to individual candidates[^c-11c33dd09ad35e6e42fcd10ca5141c42]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ must be provided to the candidate or the candidate’s election agent.
 
 ## Annotations
 
-[^key-11c33dd09ad35e6e42fcd10ca5141c42]: Commencement: Art. 43 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-11c33dd09ad35e6e42fcd10ca5141c42]: Commencement: Art. 43 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

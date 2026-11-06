@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41.3A. Apportionment in fatality cases[^key-42b2c94891720d54066e00fdd1322705][^M_F_6f6061dc-3cfc-43c6-8d6f-a52f8d64e6bc]
+## 41.3A. Apportionment in fatality cases[^c-42b2c94891720d54066e00fdd1322705][^M_F_6f6061dc-3cfc-43c6-8d6f-a52f8d64e6bc]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ the court will apportion the money between the different claims.
 
 ## Annotations
 
-[^key-42b2c94891720d54066e00fdd1322705]: Textual amendment: Rule 41.3A inserted (6.4.2007) by [The Civil Procedure (Amendment No.3) Rules 2006 (S.I. 2006/3435)](https://www.legislation.gov.uk/uksi/2006/3435), [rules 1](https://www.legislation.gov.uk/uksi/2006/3435/rule/1), [9](https://www.legislation.gov.uk/uksi/2006/3435/rule/9)
+[^c-42b2c94891720d54066e00fdd1322705]: Textual amendment: Rule 41.3A inserted (6.4.2007) by [The Civil Procedure (Amendment No.3) Rules 2006 (S.I. 2006/3435)](https://www.legislation.gov.uk/uksi/2006/3435), [rules 1](https://www.legislation.gov.uk/uksi/2006/3435/rule/1), [9](https://www.legislation.gov.uk/uksi/2006/3435/rule/9)
 
 [^M_F_6f6061dc-3cfc-43c6-8d6f-a52f8d64e6bc]: Textual amendment: Rule 41.3A heading inserted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [23(2)](https://www.legislation.gov.uk/uksi/2023/105/rule/23/2)

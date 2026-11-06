@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Counter-terrorism questioning of detained entrants away from place of arrival[^key-a170d50e2db9e16d38f850aba66c7423]
+## 78. Counter-terrorism questioning of detained entrants away from place of arrival[^c-a170d50e2db9e16d38f850aba66c7423]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a170d50e2db9e16d38f850aba66c7423]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/36/section/78) in force at 28.6.2022, see [s. 87(5)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/i)
+[^c-a170d50e2db9e16d38f850aba66c7423]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2022/36/section/78) in force at 28.6.2022, see [s. 87(5)(i)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/5/i)

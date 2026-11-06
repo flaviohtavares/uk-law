@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Delegation and the appointment of agents[^key-6cd981a6b7e1eaed5c54b4d9799a8b84]
+## 22. Delegation and the appointment of agents[^c-6cd981a6b7e1eaed5c54b4d9799a8b84]
 
 *Extent: S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cd981a6b7e1eaed5c54b4d9799a8b84]: Commencement: S. 22 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-6cd981a6b7e1eaed5c54b4d9799a8b84]: Commencement: S. 22 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

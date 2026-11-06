@@ -24,9 +24,9 @@ summary: ''
 
 Section 127
 
-**1.**[^key-4d48759544a7ca79f48caefcef9bb9d8] The [Sexual Offences Act 2003](https://www.legislation.gov.uk/ukpga/2003/42/contents) is amended as follows.
+**1.**[^c-4d48759544a7ca79f48caefcef9bb9d8] The [Sexual Offences Act 2003](https://www.legislation.gov.uk/ukpga/2003/42/contents) is amended as follows.
 
-**2.**[^key-c2080f6becb63736ea523f6aa0204f23] (1) [Section 84](https://www.legislation.gov.uk/ukpga/2003/42/section/84) (notification requirements: changes) is amended as follows.
+**2.**[^c-c2080f6becb63736ea523f6aa0204f23] (1) [Section 84](https://www.legislation.gov.uk/ukpga/2003/42/section/84) (notification requirements: changes) is amended as follows.
 
 (2) In [subsection (1)](https://www.legislation.gov.uk/ukpga/2003/42/section/84)—
 
@@ -35,7 +35,7 @@ Section 127
 
 (3) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2003/42/section/84), omit “the name is used,”.
 
-**3.**[^key-b02b7924abcd7a9a86fee529b1be823d] In [section 85](https://www.legislation.gov.uk/ukpga/2003/42/section/85) (periodic notification)—
+**3.**[^c-b02b7924abcd7a9a86fee529b1be823d] In [section 85](https://www.legislation.gov.uk/ukpga/2003/42/section/85) (periodic notification)—
 
 - (a) in [subsection (1)](https://www.legislation.gov.uk/ukpga/2003/42/section/85), after “under section” insert “83A or”;
 - (b) in [subsection (2)](https://www.legislation.gov.uk/ukpga/2003/42/section/85)[(b)](https://www.legislation.gov.uk/ukpga/2003/42/section/85), after “83(1)” insert “, 83A”;
@@ -43,12 +43,12 @@ Section 127
 
 *Extent: N.I.*
 
-**4.**[^key-fa859843a5eea46eb6588a0aa304ea8d] In [section 85A](https://www.legislation.gov.uk/ukpga/2003/42/section/85A) (notification requirements: absence from notified address)—
+**4.**[^c-fa859843a5eea46eb6588a0aa304ea8d] In [section 85A](https://www.legislation.gov.uk/ukpga/2003/42/section/85A) (notification requirements: absence from notified address)—
 
 - (a) in [subsection (1)](https://www.legislation.gov.uk/ukpga/2003/42/section/85A), after “83(1)” insert “, 83A”;
 - (b) in the heading, at the end insert “(Northern Ireland)”.
 
-**5.**[^key-2b92bc0aebc9b378367a3659fece6d32] (1) [Section 87](https://www.legislation.gov.uk/ukpga/2003/42/section/87) (method of notification and related matters) is amended as follows.
+**5.**[^c-2b92bc0aebc9b378367a3659fece6d32] (1) [Section 87](https://www.legislation.gov.uk/ukpga/2003/42/section/87) (method of notification and related matters) is amended as follows.
 
 (2) In [subsection (1)](https://www.legislation.gov.uk/ukpga/2003/42/section/87)—
 
@@ -64,7 +64,7 @@ Section 127
 
 (6) Omit [subsection (5C)](https://www.legislation.gov.uk/ukpga/2003/42/section/87).
 
-**6.**[^key-6c7994e74e0c4a58c8c80c5872a24e6a] (1) [Section 88](https://www.legislation.gov.uk/ukpga/2003/42/section/88) (interpretation of section 87) is amended as follows.
+**6.**[^c-6c7994e74e0c4a58c8c80c5872a24e6a] (1) [Section 88](https://www.legislation.gov.uk/ukpga/2003/42/section/88) (interpretation of section 87) is amended as follows.
 
 (2) In the heading, for “Section 87” substitute “Sections 87 to 87B”.
 
@@ -114,12 +114,12 @@ Section 127
 
 *Extent: S*
 
-**7.**[^key-ed496b83ecd07a70f4fdfb7cfa74c309] In [section 88I](https://www.legislation.gov.uk/ukpga/2003/42/section/88I)[(2)](https://www.legislation.gov.uk/ukpga/2003/42/section/88I) (discharge from indefinite notification requirements in England and Wales or Northern Ireland has effect in Scotland) for the words from “legislation which” to the end substitute—
+**7.**[^c-ed496b83ecd07a70f4fdfb7cfa74c309] In [section 88I](https://www.legislation.gov.uk/ukpga/2003/42/section/88I)[(2)](https://www.legislation.gov.uk/ukpga/2003/42/section/88I) (discharge from indefinite notification requirements in England and Wales or Northern Ireland has effect in Scotland) for the words from “legislation which” to the end substitute—
 
 > - (a) sections 91A to 91F (discharge from indefinite notification requirements in England and Wales);
 > - (b) Schedule 3A (discharge from indefinite notification requirements in Northern Ireland).
 
-**8.**[^key-4b0667a08c66f738b83cb28287a6540b] (1) [Section 91](https://www.legislation.gov.uk/ukpga/2003/42/section/91) (offences relating to notification) is amended as follows.
+**8.**[^c-4b0667a08c66f738b83cb28287a6540b] (1) [Section 91](https://www.legislation.gov.uk/ukpga/2003/42/section/91) (offences relating to notification) is amended as follows.
 
 (2) For [subsection (1)](https://www.legislation.gov.uk/ukpga/2003/42/section/91) substitute—
 
@@ -194,7 +194,7 @@ Section 127
 
 *Extent: E+W*
 
-**9.**[^key-c3d76b35add191cda021a0e85b9c5acd] (1) [Section 91A](https://www.legislation.gov.uk/ukpga/2003/42/section/91A) (review of indefinite notification requirements: qualifying relevant offender) is amended as follows.
+**9.**[^c-c3d76b35add191cda021a0e85b9c5acd] (1) [Section 91A](https://www.legislation.gov.uk/ukpga/2003/42/section/91A) (review of indefinite notification requirements: qualifying relevant offender) is amended as follows.
 
 (2) In [subsection (2)](https://www.legislation.gov.uk/ukpga/2003/42/section/91A) after “review” insert “or the relevant chief officer of police begins an own motion review”.
 
@@ -204,7 +204,7 @@ Section 127
 
 *Extent: E+W*
 
-**10.**[^key-1a447259e0d8cda780dbd68732086be2] (1) [Section 91B](https://www.legislation.gov.uk/ukpga/2003/42/section/91B) (review of indefinite notification requirements: application for review and qualifying dates) is amended as follows.
+**10.**[^c-1a447259e0d8cda780dbd68732086be2] (1) [Section 91B](https://www.legislation.gov.uk/ukpga/2003/42/section/91B) (review of indefinite notification requirements: application for review and qualifying dates) is amended as follows.
 
 (2) In [subsection (3)](https://www.legislation.gov.uk/ukpga/2003/42/section/91B)—
 
@@ -222,13 +222,13 @@ Section 127
 
 *Extent: E+W*
 
-**11.**[^key-4b1ff3eec9736d61377b2bd0ce1492f9] In [section 91E](https://www.legislation.gov.uk/ukpga/2003/42/section/91E), in the heading, at the end insert “against determinations under section 91C”.
+**11.**[^c-4b1ff3eec9736d61377b2bd0ce1492f9] In [section 91E](https://www.legislation.gov.uk/ukpga/2003/42/section/91E), in the heading, at the end insert “against determinations under section 91C”.
 
 *Extent: E+W*
 
-**12.**[^key-ab2d9c773f0384e4c3a91599e5b13e95] In [section 91F](https://www.legislation.gov.uk/ukpga/2003/42/section/91F) (guidance), at the end of [subsection (1)](https://www.legislation.gov.uk/ukpga/2003/42/section/91F) insert “or own motion reviews”.
+**12.**[^c-ab2d9c773f0384e4c3a91599e5b13e95] In [section 91F](https://www.legislation.gov.uk/ukpga/2003/42/section/91F) (guidance), at the end of [subsection (1)](https://www.legislation.gov.uk/ukpga/2003/42/section/91F) insert “or own motion reviews”.
 
-**13.**[^key-1f09786652d2be61520a6d8f94afadb8] In [section 94](https://www.legislation.gov.uk/ukpga/2003/42/section/94) (Part 2: supply of information to Secretary of State etc. for verification), in [subsection (1)](https://www.legislation.gov.uk/ukpga/2003/42/section/94)—
+**13.**[^c-1f09786652d2be61520a6d8f94afadb8] In [section 94](https://www.legislation.gov.uk/ukpga/2003/42/section/94) (Part 2: supply of information to Secretary of State etc. for verification), in [subsection (1)](https://www.legislation.gov.uk/ukpga/2003/42/section/94)—
 
 - (a) in the words before [paragraph (a)](https://www.legislation.gov.uk/ukpga/2003/42/section/94), omit “notified to the police under”;
 - (b) for [paragraph (a)](https://www.legislation.gov.uk/ukpga/2003/42/section/94) substitute—
@@ -248,11 +248,11 @@ Section 127
   >
   > - (c) provided in, or in a document accompanying, an application to the police under section 93C(1).
 
-**14.**[^key-252e7950d1707f6075c1c103b3c942f3] In [section 122F](https://www.legislation.gov.uk/ukpga/2003/42/section/122F) (sexual risk orders and interim sexual risk orders: notification requirements), after [subsection (4)](https://www.legislation.gov.uk/ukpga/2003/42/section/122F) insert—
+**14.**[^c-252e7950d1707f6075c1c103b3c942f3] In [section 122F](https://www.legislation.gov.uk/ukpga/2003/42/section/122F) (sexual risk orders and interim sexual risk orders: notification requirements), after [subsection (4)](https://www.legislation.gov.uk/ukpga/2003/42/section/122F) insert—
 
 > (5) Section 87A (alternative method of notification) applies for the purposes of a notification under subsection (3) as it applies for the purposes of the notifications mentioned in section 87A(1).
 
-**15.**[^key-a4df7f4657fe7288e91a5aa800c99361] In [section 133](https://www.legislation.gov.uk/ukpga/2003/42/section/133) (Part 2: general interpretation)—
+**15.**[^c-a4df7f4657fe7288e91a5aa800c99361] In [section 133](https://www.legislation.gov.uk/ukpga/2003/42/section/133) (Part 2: general interpretation)—
 
 - (a) omit the definition of “local police area”;
 - (b) at the appropriate place insert—
@@ -261,9 +261,9 @@ Section 127
 
   .
 
-**16.**[^key-5dfaea2d8ae8fc08bbcf54fa6bbb78b0] In section 136 (Part 2: Northern Ireland), in subsection (11), after “sections” insert “86B, 87A, 93A, 93H,”.
+**16.**[^c-5dfaea2d8ae8fc08bbcf54fa6bbb78b0] In section 136 (Part 2: Northern Ireland), in subsection (11), after “sections” insert “86B, 87A, 93A, 93H,”.
 
-**17.**[^key-92bb86db41e64c91c7b6d4a237732775] (1) [Section 138](https://www.legislation.gov.uk/ukpga/2003/42/section/138) (orders and regulations) is amended as follows.
+**17.**[^c-92bb86db41e64c91c7b6d4a237732775] (1) [Section 138](https://www.legislation.gov.uk/ukpga/2003/42/section/138) (orders and regulations) is amended as follows.
 
 (2) For [subsections (1) to (4)](https://www.legislation.gov.uk/ukpga/2003/42/section/138/subsection/1) substitute—
 
@@ -319,7 +319,7 @@ Section 127
 
 *Extent: N.I.*
 
-**18.**[^key-e0150bcf1b2702662641f0491dad454c] (1) [Schedule 3A](https://www.legislation.gov.uk/ukpga/2003/42/schedule/3A) (discharge from indefinite notification requirements in Northern Ireland) is amended as follows.
+**18.**[^c-e0150bcf1b2702662641f0491dad454c] (1) [Schedule 3A](https://www.legislation.gov.uk/ukpga/2003/42/schedule/3A) (discharge from indefinite notification requirements in Northern Ireland) is amended as follows.
 
 (2) In [paragraph 4](https://www.legislation.gov.uk/ukpga/2003/42/schedule/3A/paragraph/4) (initial review: notice of decision) after [sub-paragraph (3)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/3A/paragraph/4) insert—
 
@@ -358,38 +358,38 @@ Section 127
 
 ## Annotations
 
-[^key-4d48759544a7ca79f48caefcef9bb9d8]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4d48759544a7ca79f48caefcef9bb9d8]: Commencement: Sch. 15 para. 1 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c2080f6becb63736ea523f6aa0204f23]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c2080f6becb63736ea523f6aa0204f23]: Commencement: Sch. 15 para. 2 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-b02b7924abcd7a9a86fee529b1be823d]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-b02b7924abcd7a9a86fee529b1be823d]: Commencement: Sch. 15 para. 3 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-fa859843a5eea46eb6588a0aa304ea8d]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-fa859843a5eea46eb6588a0aa304ea8d]: Commencement: Sch. 15 para. 4 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-2b92bc0aebc9b378367a3659fece6d32]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-2b92bc0aebc9b378367a3659fece6d32]: Commencement: Sch. 15 para. 5 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-6c7994e74e0c4a58c8c80c5872a24e6a]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-6c7994e74e0c4a58c8c80c5872a24e6a]: Commencement: Sch. 15 para. 6 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-ed496b83ecd07a70f4fdfb7cfa74c309]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ed496b83ecd07a70f4fdfb7cfa74c309]: Commencement: Sch. 15 para. 7 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4b0667a08c66f738b83cb28287a6540b]: Commencement: Sch. 15 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4b0667a08c66f738b83cb28287a6540b]: Commencement: Sch. 15 para. 8 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-c3d76b35add191cda021a0e85b9c5acd]: Commencement: Sch. 15 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c3d76b35add191cda021a0e85b9c5acd]: Commencement: Sch. 15 para. 9 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-1a447259e0d8cda780dbd68732086be2]: Commencement: Sch. 15 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1a447259e0d8cda780dbd68732086be2]: Commencement: Sch. 15 para. 10 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-4b1ff3eec9736d61377b2bd0ce1492f9]: Commencement: Sch. 15 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-4b1ff3eec9736d61377b2bd0ce1492f9]: Commencement: Sch. 15 para. 11 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-ab2d9c773f0384e4c3a91599e5b13e95]: Commencement: Sch. 15 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ab2d9c773f0384e4c3a91599e5b13e95]: Commencement: Sch. 15 para. 12 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-1f09786652d2be61520a6d8f94afadb8]: Commencement: Sch. 15 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-1f09786652d2be61520a6d8f94afadb8]: Commencement: Sch. 15 para. 13 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-252e7950d1707f6075c1c103b3c942f3]: Commencement: Sch. 15 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-252e7950d1707f6075c1c103b3c942f3]: Commencement: Sch. 15 para. 14 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a4df7f4657fe7288e91a5aa800c99361]: Commencement: Sch. 15 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-a4df7f4657fe7288e91a5aa800c99361]: Commencement: Sch. 15 para. 15 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-5dfaea2d8ae8fc08bbcf54fa6bbb78b0]: Commencement: Sch. 15 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5dfaea2d8ae8fc08bbcf54fa6bbb78b0]: Commencement: Sch. 15 para. 16 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-92bb86db41e64c91c7b6d4a237732775]: Commencement: Sch. 15 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-92bb86db41e64c91c7b6d4a237732775]: Commencement: Sch. 15 para. 17 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e0150bcf1b2702662641f0491dad454c]: Commencement: Sch. 15 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-e0150bcf1b2702662641f0491dad454c]: Commencement: Sch. 15 para. 18 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

@@ -22,7 +22,7 @@ summary: ''
 
 1. Local action groups shall design and implement the community-led local development strategies.
 
-The relevant authority[^key-7f79e3717605b07307880c4e34fe8eb3] shall define the respective roles of the local action group and the authorities responsible for the implementation of the relevant programmes, concerning all implementation tasks relating to the community-led local development strategy.
+The relevant authority[^c-7f79e3717605b07307880c4e34fe8eb3] shall define the respective roles of the local action group and the authorities responsible for the implementation of the relevant programmes, concerning all implementation tasks relating to the community-led local development strategy.
 
 2. The managing authority or authorities responsible shall ensure that the local action groups either select one partner within the group as a lead partner in administrative and financial matters, or come together in a legally constituted common structure.
 
@@ -36,7 +36,7 @@ The relevant authority[^key-7f79e3717605b07307880c4e34fe8eb3] shall define the r
 - (f) selecting operations and fixing the amount of support and, where relevant, presenting the proposals to the body responsible for final verification of eligibility before approval;
 - (g) monitoring the implementation of the community-led local development strategy and the operations supported and carrying out specific evaluation activities linked to that strategy.
 
-Where local action groups carry out tasks not covered by points (a) to (g) of the first subparagraph that fall under the responsibility of the managing or certifying authority or of the paying agency, those local action groups shall be designated as intermediate bodies[^c000003] in accordance with the Fund-specific rules *(Extent: W)* *(affected by repeal, see note)*[^key-b03cb2fd64f619492da9002f3652c5c1].
+Where local action groups carry out tasks not covered by points (a) to (g) of the first subparagraph that fall under the responsibility of the managing or certifying authority or of the paying agency, those local action groups shall be designated as intermediate bodies[^c000003] in accordance with the Fund-specific rules *(Extent: W)* *(affected by repeal, see note)*[^c-b03cb2fd64f619492da9002f3652c5c1].
 
 4. Without prejudice to point (b) of paragraph 3, the local action group may be a beneficiary and implement operations in accordance with the community-led local development strategy.
 
@@ -44,10 +44,10 @@ Where local action groups carry out tasks not covered by points (a) to (g) of th
 
 ## Annotations
 
-[^key-7f79e3717605b07307880c4e34fe8eb3]: Textual amendment: Words in [Art. 34(1)](https://www.legislation.gov.uk/eur/2013/1303/article/34/1) substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [7(8)](https://www.legislation.gov.uk/uksi/2019/785/regulation/7/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f79e3717605b07307880c4e34fe8eb3]: Textual amendment: Words in [Art. 34(1)](https://www.legislation.gov.uk/eur/2013/1303/article/34/1) substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [7(8)](https://www.legislation.gov.uk/uksi/2019/785/regulation/7/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012](https://www.legislation.gov.uk/eur/2018/1046).
 
 [^c000003]: Textual amendment: Inserted by [Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council of 18 July 2018 on the financial rules applicable to the general budget of the Union, amending Regulations (EU) No 1296/2013, (EU) No 1301/2013, (EU) No 1303/2013, (EU) No 1304/2013, (EU) No 1309/2013, (EU) No 1316/2013, (EU) No 223/2014, (EU) No 283/2014, and Decision No 541/2014/EU and repealing Regulation (EU, Euratom) No 966/2012](https://www.legislation.gov.uk/eur/2018/1046).
 
-[^key-b03cb2fd64f619492da9002f3652c5c1]: Textual amendment: Words in [Art. 34(3)](https://www.legislation.gov.uk/eur/2013/1303/article/34/3) omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(10)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/10)
+[^c-b03cb2fd64f619492da9002f3652c5c1]: Textual amendment: Words in [Art. 34(3)](https://www.legislation.gov.uk/eur/2013/1303/article/34/3) omitted (W.) in so far as it relates to domestic support for rural development (26.3.2021) by virtue of [The Agricultural Support (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/400)](https://www.legislation.gov.uk/wsi/2021/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/400/regulation/1/2), [6(10)](https://www.legislation.gov.uk/wsi/2021/400/regulation/6/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 173. The Gazette[^key-0a1ae176acef1ffcd4b9d7fe23609f28]
+## 173. The Gazette[^c-0a1ae176acef1ffcd4b9d7fe23609f28]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0a1ae176acef1ffcd4b9d7fe23609f28]: Commencement: Rule 173 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-0a1ae176acef1ffcd4b9d7fe23609f28]: Commencement: Rule 173 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

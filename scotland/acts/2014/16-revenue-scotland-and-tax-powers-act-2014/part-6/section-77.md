@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Reasonable excuse for failure to keep and preserve records[^key-70096e5f86daa9b3aaf9f9ba8186b069][^key-4e4aceb7804f1cf5b8409fe1931a4d87]
+## 77. Reasonable excuse for failure to keep and preserve records[^c-70096e5f86daa9b3aaf9f9ba8186b069][^c-4e4aceb7804f1cf5b8409fe1931a4d87]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70096e5f86daa9b3aaf9f9ba8186b069]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2014/16/section/77) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-70096e5f86daa9b3aaf9f9ba8186b069]: Commencement: [S. 77](https://www.legislation.gov.uk/asp/2014/16/section/77) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-4e4aceb7804f1cf5b8409fe1931a4d87]: Modification: [Ss. 76-79](https://www.legislation.gov.uk/asp/2014/16/section/76) applied (1.4.2015) by [The Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015 (S.S.I. 2015/130)](https://www.legislation.gov.uk/ssi/2015/130), [regs. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2015/130/regulation/4/2)
+[^c-4e4aceb7804f1cf5b8409fe1931a4d87]: Modification: [Ss. 76-79](https://www.legislation.gov.uk/asp/2014/16/section/76) applied (1.4.2015) by [The Revenue Scotland and Tax Powers Act (Record Keeping) Regulations 2015 (S.S.I. 2015/130)](https://www.legislation.gov.uk/ssi/2015/130), [regs. 1](https://www.legislation.gov.uk/ssi/2015/130/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2015/130/regulation/4/2)

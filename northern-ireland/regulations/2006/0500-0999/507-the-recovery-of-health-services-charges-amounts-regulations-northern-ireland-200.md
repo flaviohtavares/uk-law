@@ -44,7 +44,7 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety, in exercise of the powers conferred on it by Articles 2, 5(2), (5), (7) and (8) and 19 (3) of the Recovery of Health Services Charges (Northern Ireland) Order 2006[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-fc784478a1d064d5041244675ca52db2]
+## 1. Citation, commencement and interpretation[^c-fc784478a1d064d5041244675ca52db2]
 
 (1) These Regulations may be cited as the Recovery of Health Services Charges (Amounts) Regulations (Northern Ireland) 2006 and shall come into operation on 29th January 2007.
 
@@ -57,20 +57,20 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 (3) A reference in these Regulations to a numbered Article is a reference to that Article of the Order.
 
-## 2. Amount of health services charges[^key-127f0a12785736cee88fd887f8d5f1ef][^key-e0fa247654101da7834a50a1b752380b][^key-3de61093a5c067a661c976d6b5ed40e6]
+## 2. Amount of health services charges[^c-127f0a12785736cee88fd887f8d5f1ef][^c-e0fa247654101da7834a50a1b752380b][^c-3de61093a5c067a661c976d6b5ed40e6]
 
-(1) Subject to the following paragraphs and regulation 3 and 3A[^key-8b624ff67f29fc92e0e2deab72d55ad2] , a certificate shall, for the purpose of Article 5(2), specify—
+(1) Subject to the following paragraphs and regulation 3 and 3A[^c-8b624ff67f29fc92e0e2deab72d55ad2] , a certificate shall, for the purpose of Article 5(2), specify—
 
-- (a) the sum of £272[^key-7e5ce6fc9953a86eaa453b1f0d3ad481] for each occasion on which, as a result of his injury, the injured person was provided with health services ambulance services[^f00002] for the purpose of taking him to a hospital for health services treatment[^f00003]; and
+- (a) the sum of £272[^c-7e5ce6fc9953a86eaa453b1f0d3ad481] for each occasion on which, as a result of his injury, the injured person was provided with health services ambulance services[^f00002] for the purpose of taking him to a hospital for health services treatment[^f00003]; and
 - (b) where the injured person received health services treatment at a hospital in respect of his injury, either—
-  - (i) if he was not admitted to hospital, the sum of £901[^key-c46eb62d78ca54cc627bd494ea7612b3], or
-  - (ii) if he was admitted to hospital, the sum of £1,107[^key-9e8f9ff06e52cd7dfddb964f374294ff] or each day or part day of admission.
+  - (i) if he was not admitted to hospital, the sum of £901[^c-c46eb62d78ca54cc627bd494ea7612b3], or
+  - (ii) if he was admitted to hospital, the sum of £1,107[^c-9e8f9ff06e52cd7dfddb964f374294ff] or each day or part day of admission.
 
 (2) For the purposes of paragraph (1)(a), the reference to taking a person to a hospital includes taking him from one hospital to another.
 
 (3) Where the injured person was admitted to hospital on one day and discharged on another day, the day of discharge shall be disregarded for the purposes of paragraph (1)(b)(ii).
 
-(4) The amount which a certificate may specify under paragraph (1)(a) or paragraph (1)(b), or both, must not exceed £66,173[^key-a1742768fa2262a88a0bfd3857d50854] (“the maximum”).
+(4) The amount which a certificate may specify under paragraph (1)(a) or paragraph (1)(b), or both, must not exceed £66,173[^c-a1742768fa2262a88a0bfd3857d50854] (“the maximum”).
 
 (5) Where—
 
@@ -79,7 +79,7 @@ The Department of Health, Social Services and Public Safety, in exercise of the 
 
 the amount to be specified under paragraph (1)(b) is to be reduced by the difference between the maximum and the aggregate of those amounts.
 
-## 3. Amount of health services charges: further provision[^key-2f932863e2e2c4d15a2bd52f3361dc70]
+## 3. Amount of health services charges: further provision[^c-2f932863e2e2c4d15a2bd52f3361dc70]
 
 (1) This paragraph applies where a person liable to pay relevant health services charges[^f00004]—
 
@@ -90,7 +90,7 @@ the amount to be specified under paragraph (1)(b) is to be reduced by the differ
 
 (3) Where the person to whom the certificate is to be issued pursuant to paragraph (2) is a person whose liability to pay the relevant health services charges has been determined or re-determined under regulation 5(4), the certificate shall, in addition to any amounts to be specified under that paragraph, specify the amount of relevant health services charges that the person is liable to pay in accordance with that determination or re-determination.
 
-## 3A.— Amount of health services charges: in respect of visitors' charges[^key-e42f7cfb0c15685d83298e19da15e54b]
+## 3A.— Amount of health services charges: in respect of visitors' charges[^c-e42f7cfb0c15685d83298e19da15e54b]
 
 This regulation applies to a certificate where the amount to be specified in the certificate is determined under Article 5 on or after 1st April 2009; and
 
@@ -101,13 +101,13 @@ This regulation applies to a certificate where the amount to be specified in the
 
 (3) Where paragraph (2) applies, the amount for the purpose of Article 5 to be specified in relation to health services treatment at a hospital in the certificate which relates to the compensation payment referred to in paragraph (2)(b) shall be £0.00.
 
-## 4. Health services treatment to be taken into account[^key-f1747e48e3ce655cb9cd048793cd8f46]
+## 4. Health services treatment to be taken into account[^c-f1747e48e3ce655cb9cd048793cd8f46]
 
 (1) A certificate issued under Article 4(2) shall only take into account health services treatment received, or health services ambulance services provided, before the date the certificate is issued.
 
 (2) A certificate issued under Article 4(10) shall only take into account health services treatment received, or health services ambulance services provided, before the settlement date[^f00005].
 
-## 5. Apportionment of liability to pay health services charges[^key-73664366f9ddf81d93be21c6178762ba]
+## 5. Apportionment of liability to pay health services charges[^c-73664366f9ddf81d93be21c6178762ba]
 
 (1) This regulation applies where each of two or more persons (“the compensators”)—
 
@@ -131,7 +131,7 @@ This regulation applies to a certificate where the amount to be specified in the
 - (c) in the case of a compensator to whom a certificate has not been issued, the certificate when issued to him shall specify the liability to pay the relevant health services charges and the share of that liability that has been apportioned to him; and
 - (d) in the case of a compensator to whom a certificate has been issued, when the the Department re-determines his liability to pay the relevant health services charges, paragraph (4) of Article 8 (review of certificates) shall apply as if the re-determination were a review under that Article.
 
-## 6. Overpayments by compensators[^key-09ebb9643dc4a3d5849c0d1dc18296ab]
+## 6. Overpayments by compensators[^c-09ebb9643dc4a3d5849c0d1dc18296ab]
 
 (1) This paragraph applies where—
 
@@ -148,7 +148,7 @@ This regulation applies to a certificate where the amount to be specified in the
   - (ii) require that trust or body to pay the difference to it, or
   - (iii) require that trust or body to pay that difference to the person who paid the relevant health services charges.
 
-## 7. Underpayments by compensators[^key-72e434522bc8baf35e19c837cf25dd3d]
+## 7. Underpayments by compensators[^c-72e434522bc8baf35e19c837cf25dd3d]
 
 (1) This paragraph applies where—
 
@@ -171,7 +171,7 @@ the the Department shall divide the difference among the relevant health service
 
 (4) For the purposes of this regulation, the relevant health services body is the relevant ambulance trust[^f00008] or responsible body to which the the Department is required by Article 14(1) to pay the amount of any relevant health services charges paid to it.
 
-## 8. Provision of statements to person paying health services charges[^key-13cacf475e45f565850d9bcf60786121]
+## 8. Provision of statements to person paying health services charges[^c-13cacf475e45f565850d9bcf60786121]
 
 Where the the Department makes a payment under regulation 6(2)(a), or requires a payment under regulation 6(2)(b)(iii), or a payment falls to be made under regulation 7(2)(a), the the Department shall send a statement to the person who paid the relevant health services charges showing—
 
@@ -180,7 +180,7 @@ Where the the Department makes a payment under regulation 6(2)(a), or requires a
 - (c) the amount that ought to have been paid to the the Department; and
 - (d) the amount of the difference between the amount already paid and the amount that ought to have been paid, and whether a repayment by it, or by the ambulance trust or responsible body concerned, or further payment to the the Department is required.
 
-## 9. Provision of statements to ambulance trust or responsible body[^key-96b0446dc8e987abbbe5f40b8287d24f]
+## 9. Provision of statements to ambulance trust or responsible body[^c-96b0446dc8e987abbbe5f40b8287d24f]
 
 (1) Where the the Department requires a payment under regulation 6(2)(b)(ii), or makes a payment under regulation 7(2)(b), the the Department shall send the ambulance trust or responsible body concerned a statement showing—
 
@@ -223,50 +223,50 @@ These Regulations make provision for—
 
 [^f00001]: Footnote: [S.I. 2006/1944 (N.I.13)](https://www.legislation.gov.uk/nisi/2006/1944) (“the 2006 Order”) Article 2 is cited for the definition of “prescribed”
 
-[^key-fc784478a1d064d5041244675ca52db2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/507/regulation/1) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
+[^c-fc784478a1d064d5041244675ca52db2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2006/507/regulation/1) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
 
-[^key-127f0a12785736cee88fd887f8d5f1ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/507/regulation/2) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
+[^c-127f0a12785736cee88fd887f8d5f1ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/507/regulation/2) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
 
-[^key-e0fa247654101da7834a50a1b752380b]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/507/regulation/2) continue to have effect (1.4.2022) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/100)](https://www.legislation.gov.uk/nisr/2022/100), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/100/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/100/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/100/regulation/3))
+[^c-e0fa247654101da7834a50a1b752380b]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/507/regulation/2) continue to have effect (1.4.2022) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/100)](https://www.legislation.gov.uk/nisr/2022/100), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/100/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/100/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2022/100/regulation/3))
 
-[^key-3de61093a5c067a661c976d6b5ed40e6]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/507/regulation/2) continue to have effect (1.4.2023) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/32)](https://www.legislation.gov.uk/nisr/2023/32), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/32/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/32/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2023/32/regulation/3))
+[^c-3de61093a5c067a661c976d6b5ed40e6]: Modification: [Reg. 2](https://www.legislation.gov.uk/nisr/2006/507/regulation/2) continue to have effect (1.4.2023) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/32)](https://www.legislation.gov.uk/nisr/2023/32), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2023/32/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2023/32/regulation/3) (with [reg. 3](https://www.legislation.gov.uk/nisr/2023/32/regulation/3))
 
-[^key-8b624ff67f29fc92e0e2deab72d55ad2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/1) substituted (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/nisr/2009/121/schedule/1/paragraph/1/a) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/121/regulation/4))
+[^c-8b624ff67f29fc92e0e2deab72d55ad2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/1) substituted (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 1 para. 1(a)](https://www.legislation.gov.uk/nisr/2009/121/schedule/1/paragraph/1/a) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/121/regulation/4))
 
-[^key-7e5ce6fc9953a86eaa453b1f0d3ad481]: Textual amendment: Sum in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/1/a) substituted (1.10.2026) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/163)](https://www.legislation.gov.uk/nisr/2026/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/163/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2026/163/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2026/163/regulation/3))
+[^c-7e5ce6fc9953a86eaa453b1f0d3ad481]: Textual amendment: Sum in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/1/a) substituted (1.10.2026) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/163)](https://www.legislation.gov.uk/nisr/2026/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/163/regulation/1/1), [2(a)](https://www.legislation.gov.uk/nisr/2026/163/regulation/2/a) (with [reg. 3](https://www.legislation.gov.uk/nisr/2026/163/regulation/3))
 
 [^f00002]: Footnote: *See* Article 2(2) of the 2006 Order for the definition of health services ambulance services
 
 [^f00003]: Footnote: *See* Article 3(7) of the 2006 Order for the definition of health services treatment
 
-[^key-c46eb62d78ca54cc627bd494ea7612b3]: Textual amendment: Sum in [reg. 2(1)(b)(i)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/1/b/i) substituted (1.10.2026) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/163)](https://www.legislation.gov.uk/nisr/2026/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/163/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2026/163/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2026/163/regulation/3))
+[^c-c46eb62d78ca54cc627bd494ea7612b3]: Textual amendment: Sum in [reg. 2(1)(b)(i)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/1/b/i) substituted (1.10.2026) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/163)](https://www.legislation.gov.uk/nisr/2026/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/163/regulation/1/1), [2(b)](https://www.legislation.gov.uk/nisr/2026/163/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/nisr/2026/163/regulation/3))
 
-[^key-9e8f9ff06e52cd7dfddb964f374294ff]: Textual amendment: Sum in [reg. 2(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/1/b/ii) substituted (1.10.2026) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/163)](https://www.legislation.gov.uk/nisr/2026/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/163/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2026/163/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/nisr/2026/163/regulation/3))
+[^c-9e8f9ff06e52cd7dfddb964f374294ff]: Textual amendment: Sum in [reg. 2(1)(b)(ii)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/1/b/ii) substituted (1.10.2026) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/163)](https://www.legislation.gov.uk/nisr/2026/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/163/regulation/1/1), [2(c)](https://www.legislation.gov.uk/nisr/2026/163/regulation/2/c) (with [reg. 3](https://www.legislation.gov.uk/nisr/2026/163/regulation/3))
 
-[^key-a1742768fa2262a88a0bfd3857d50854]: Textual amendment: Sum in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/4) substituted (1.10.2026) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/163)](https://www.legislation.gov.uk/nisr/2026/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/163/regulation/1/1), [2(d)](https://www.legislation.gov.uk/nisr/2026/163/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2026/163/regulation/3))
+[^c-a1742768fa2262a88a0bfd3857d50854]: Textual amendment: Sum in [reg. 2(4)](https://www.legislation.gov.uk/nisr/2006/507/regulation/2/4) substituted (1.10.2026) by [The Recovery of Health Services Charges (Amounts) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/163)](https://www.legislation.gov.uk/nisr/2026/163), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/163/regulation/1/1), [2(d)](https://www.legislation.gov.uk/nisr/2026/163/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/nisr/2026/163/regulation/3))
 
-[^key-2f932863e2e2c4d15a2bd52f3361dc70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/507/regulation/3) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
+[^c-2f932863e2e2c4d15a2bd52f3361dc70]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2006/507/regulation/3) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
 
 [^f00004]: Footnote: *See* Article 3(8) of the 2006 Order for the definition of relevant health services charges.
 
-[^key-e42f7cfb0c15685d83298e19da15e54b]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2006/507/regulation/3A) inserted (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/121/schedule/1/paragraph/2) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/121/regulation/4))
+[^c-e42f7cfb0c15685d83298e19da15e54b]: Textual amendment: [Reg. 3A](https://www.legislation.gov.uk/nisr/2006/507/regulation/3A) inserted (1.4.2009) by [The Recovery of Health Services Charges (General) and (Amounts) (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/121)](https://www.legislation.gov.uk/nisr/2009/121), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/121/regulation/1/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2009/121/schedule/1/paragraph/2) (with [reg. 4](https://www.legislation.gov.uk/nisr/2009/121/regulation/4))
 
-[^key-f1747e48e3ce655cb9cd048793cd8f46]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/507/regulation/4) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
+[^c-f1747e48e3ce655cb9cd048793cd8f46]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2006/507/regulation/4) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
 
 [^f00005]: Footnote: *See* Article 6(3) of the 2006 Order for the definition of settlement date.
 
-[^key-73664366f9ddf81d93be21c6178762ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/507/regulation/5) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
+[^c-73664366f9ddf81d93be21c6178762ba]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2006/507/regulation/5) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
 
 [^f00006]: Footnote: *See* Article 3(3) of the 2006 Order for the definition of compensation payment
 
-[^key-09ebb9643dc4a3d5849c0d1dc18296ab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/507/regulation/6) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
+[^c-09ebb9643dc4a3d5849c0d1dc18296ab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2006/507/regulation/6) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
 
 [^f00007]: Footnote: *See* Article 12(4) of the 2006 Order for the definitions of ambulance trust and responsible body
 
-[^key-72e434522bc8baf35e19c837cf25dd3d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/507/regulation/7) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
+[^c-72e434522bc8baf35e19c837cf25dd3d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2006/507/regulation/7) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
 
 [^f00008]: Footnote: *See* Article 14(6) of the 2006 Order for the definition of relevant ambulance trust
 
-[^key-13cacf475e45f565850d9bcf60786121]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/507/regulation/8) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
+[^c-13cacf475e45f565850d9bcf60786121]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2006/507/regulation/8) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
 
-[^key-96b0446dc8e987abbbe5f40b8287d24f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/507/regulation/9) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)
+[^c-96b0446dc8e987abbbe5f40b8287d24f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2006/507/regulation/9) in operation at 29.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/507/regulation/1/1)

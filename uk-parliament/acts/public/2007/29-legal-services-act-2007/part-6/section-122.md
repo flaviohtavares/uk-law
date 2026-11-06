@@ -27,7 +27,7 @@ summary: ''
 
 (2) The person appointed under subsection (1)(a) must be a lay person.
 
-(3)[^key-5cfe473ab4362e4b5b5e77bfe599b9fc] It is a condition of appointment under subsection (1)(b) that the person appointed must not during the appointment carry on for or in expectation of any fee, gain or reward—
+(3)[^c-5cfe473ab4362e4b5b5e77bfe599b9fc] It is a condition of appointment under subsection (1)(b) that the person appointed must not during the appointment carry on for or in expectation of any fee, gain or reward—
 
 - (a) any activity which is a reserved legal activity, or
 - (b) a regulated claims management activity (within the meaning given by section 417(1) of the Financial Services and Markets Act 2000 (definitions))
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cfe473ab4362e4b5b5e77bfe599b9fc]: Textual amendment: S. 122(3) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/3)
+[^c-5cfe473ab4362e4b5b5e77bfe599b9fc]: Textual amendment: S. 122(3) substituted (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [95(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/95/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — TEMPORARY CLOSURE, ALTERATION, DIVERSION AND RESTRICTION OF USE OF STREETS AND PRIVATE MEANS OF ACCESS[^key-19aa7104a9b6a1fe17f0cc04c38479d6]
+## SCHEDULE 3 — TEMPORARY CLOSURE, ALTERATION, DIVERSION AND RESTRICTION OF USE OF STREETS AND PRIVATE MEANS OF ACCESS[^c-19aa7104a9b6a1fe17f0cc04c38479d6]
 
 *Extent: E+W*
 
@@ -140,7 +140,7 @@ Article 12
 | Buckingham Hill Road | Section of highway between points 27/A to 27/M as shown on sheet 27 of the streets subject to temporary restrictions of use plans. |
 | A1089 southbound (Dock Approach Road) | Section of highway as shown on sheets 26, 29 and 33 between points 29/J on sheet 26 and 29/M on sheet 33 of the streets subject to temporary restrictions of use plans. |
 | A1013 (Stanford Road) | Section of highway as shown on sheets 26, 29 and 32 between points 23/A on sheet 26 and 23/E on sheet 32 of the streets subject to temporary restrictions of use plans. |
-| A1089 northbound (Dock Approach Road) to A13 eastbound slip road | Section of highway as shown[^key-33260e6ba655328ffd4eacddf9c25aec] on sheets 26, 29 and 33 between points 29/H on sheet 26 and 29/E on sheet 29 of the streets subject to temporary restrictions of use plans. |
+| A1089 northbound (Dock Approach Road) to A13 eastbound slip road | Section of highway as shown[^c-33260e6ba655328ffd4eacddf9c25aec] on sheets 26, 29 and 33 between points 29/H on sheet 26 and 29/E on sheet 29 of the streets subject to temporary restrictions of use plans. |
 | High House Lane | Private means of access between points 19/D and 19/E and between points 19/F and 19/C as shown on sheet 28 of the streets subject to temporary restrictions of use plans. |
 | Private means of access between Brentwood Road and FP79 | Private means of access between points 20/B and 19/G as shown on sheet 28 of the streets subject to temporary restrictions of use plans. |
 | FP95 | Section of footpath between points 21/B and 20/A as shown on sheet 28 of the streets subject to temporary restrictions of use plans. |
@@ -268,6 +268,6 @@ Article 12
 
 ## Annotations
 
-[^key-19aa7104a9b6a1fe17f0cc04c38479d6]: Commencement: Sch. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-19aa7104a9b6a1fe17f0cc04c38479d6]: Commencement: Sch. 3 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
 
-[^key-33260e6ba655328ffd4eacddf9c25aec]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2025/462/schedule/3) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)
+[^c-33260e6ba655328ffd4eacddf9c25aec]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2025/462/schedule/3) substituted (12.9.2025) by [The A122 (Lower Thames Crossing) Development Consent (Correction) Order 2025 (S.I. 2025/1014)](https://www.legislation.gov.uk/uksi/2025/1014), [art. 1](https://www.legislation.gov.uk/uksi/2025/1014/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/1014/schedule)

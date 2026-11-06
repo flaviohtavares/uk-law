@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-3e0ef105a8a6203b4bb6668b83f9bbea]
+## 1. Citation and commencement[^c-3e0ef105a8a6203b4bb6668b83f9bbea]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e0ef105a8a6203b4bb6668b83f9bbea]: Commencement: Reg. 1 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-3e0ef105a8a6203b4bb6668b83f9bbea]: Commencement: Reg. 1 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

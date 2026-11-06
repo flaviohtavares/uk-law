@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.3. Acknowledgment of service[^key-e092f072653633a9278fb0ac99f3ffa9]
+## 8.3. Acknowledgment of service[^c-e092f072653633a9278fb0ac99f3ffa9]
 
 *Extent: E+W*
 
@@ -35,16 +35,16 @@ summary: ''
 - (a) rule 10.3(2) (exceptions to the period for filing an acknowledgment of service); and
 - (b) rule 10.5 (contents of acknowledgment of service).
 
-(4)[^key-ead19b5f45156db38f28fc09eae0b7f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ead19b5f45156db38f28fc09eae0b7f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f801a9aa614845e8d5f61133dde90f09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f801a9aa614845e8d5f61133dde90f09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f801a9aa614845e8d5f61133dde90f09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f801a9aa614845e8d5f61133dde90f09]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e092f072653633a9278fb0ac99f3ffa9]: Commencement: [Rule 8.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-e092f072653633a9278fb0ac99f3ffa9]: Commencement: [Rule 8.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
 
-[^key-ead19b5f45156db38f28fc09eae0b7f0]: Textual amendment: [Rule 8.3(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.3/4) omitted (25.3.2002) by virtue of [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rules 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [11](https://www.legislation.gov.uk/uksi/2001/4015/rule/11)
+[^c-ead19b5f45156db38f28fc09eae0b7f0]: Textual amendment: [Rule 8.3(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.3/4) omitted (25.3.2002) by virtue of [The Civil Procedure (Amendment No. 5) Rules 2001 (S.I. 2001/4015)](https://www.legislation.gov.uk/uksi/2001/4015), [rules 1(c)](https://www.legislation.gov.uk/uksi/2001/4015/rule/1/c), [11](https://www.legislation.gov.uk/uksi/2001/4015/rule/11)
 
-[^key-f801a9aa614845e8d5f61133dde90f09]: Textual amendment: Words in [rule 8](https://www.legislation.gov.uk/uksi/1998/3132/rule/8).3 omitted (1.10.2013) by virtue of [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/rule/2), [6(b)](https://www.legislation.gov.uk/uksi/2013/1974/rule/6/b)
+[^c-f801a9aa614845e8d5f61133dde90f09]: Textual amendment: Words in [rule 8](https://www.legislation.gov.uk/uksi/1998/3132/rule/8).3 omitted (1.10.2013) by virtue of [The Civil Procedure (Amendment No.7) Rules 2013 (S.I. 2013/1974)](https://www.legislation.gov.uk/uksi/2013/1974), [rules 2](https://www.legislation.gov.uk/uksi/2013/1974/rule/2), [6(b)](https://www.legislation.gov.uk/uksi/2013/1974/rule/6/b)

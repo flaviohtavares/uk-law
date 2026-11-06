@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Adjustment of benefits to comply with FA 2004 where members die over 75[^key-752e4bf45e06fac11b951317b130acb6]
+## 113. Adjustment of benefits to comply with FA 2004 where members die over 75[^c-752e4bf45e06fac11b951317b130acb6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-752e4bf45e06fac11b951317b130acb6]: Commencement: Reg. 113 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-752e4bf45e06fac11b951317b130acb6]: Commencement: Reg. 113 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

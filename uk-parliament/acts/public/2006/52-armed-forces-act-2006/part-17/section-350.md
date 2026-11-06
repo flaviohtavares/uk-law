@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 350. Exemption of property used for service purposes from execution[^key-8efcda66c67a6f64f6cd185f0f6a7893][^key-9737a78b3c59be3ff6c524bff303cf8b]
+## 350. Exemption of property used for service purposes from execution[^c-8efcda66c67a6f64f6cd185f0f6a7893][^c-9737a78b3c59be3ff6c524bff303cf8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ against a member of any of Her Majesty's forces may not be enforced by the levyi
 
 ## Annotations
 
-[^key-8efcda66c67a6f64f6cd185f0f6a7893]: Commencement: S. 350 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-8efcda66c67a6f64f6cd185f0f6a7893]: Commencement: S. 350 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-9737a78b3c59be3ff6c524bff303cf8b]: Commencement: S. 350 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-9737a78b3c59be3ff6c524bff303cf8b]: Commencement: S. 350 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

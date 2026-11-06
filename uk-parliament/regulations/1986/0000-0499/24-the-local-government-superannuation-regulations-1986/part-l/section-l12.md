@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## L12. Notice of decisions[^key-ca873e768d76c57e28dde80aa19adb19]
+## L12. Notice of decisions[^c-ca873e768d76c57e28dde80aa19adb19]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The relevant body shall give notice in writing of any decision relating to any b
 
 ## Annotations
 
-[^key-ca873e768d76c57e28dde80aa19adb19]: Commencement: [Reg. L12](https://www.legislation.gov.uk/uksi/1986/24/regulation/L12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-ca873e768d76c57e28dde80aa19adb19]: Commencement: [Reg. L12](https://www.legislation.gov.uk/uksi/1986/24/regulation/L12) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

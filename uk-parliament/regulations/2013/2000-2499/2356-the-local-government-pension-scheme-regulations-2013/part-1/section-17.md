@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Additional voluntary contributions[^key-70b0a6aeec303fab078d1f8d4024eba8]
+## 17. Additional voluntary contributions[^c-70b0a6aeec303fab078d1f8d4024eba8]
 
 *Extent: E+W*
 
@@ -33,16 +33,16 @@ summary: ''
 
 (5) A member may vary the amount specified in, or cease contributing to, an arrangement by service of a further written notice given to the member's Scheme employer and appropriate administering authority by the member or by the AVC provider authorised by the member to act on the member's behalf.
 
-(6)[^key-266a175775bab15a672e2ef22e717364] For the purposes of regulation 17 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 the retirement date used for the purposes of Part 2 of Schedule 6 to those Regulations is, where no acceptable date has been specified for that purpose by the member, normal pension age or, if the member has already attained normal pension age, age 75.
+(6)[^c-266a175775bab15a672e2ef22e717364] For the purposes of regulation 17 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 the retirement date used for the purposes of Part 2 of Schedule 6 to those Regulations is, where no acceptable date has been specified for that purpose by the member, normal pension age or, if the member has already attained normal pension age, age 75.
 
-(7) If a member draws benefits under regulation 30(1), (2), (4), (5), (7), (10) to (12) (retirement benefits) or regulation 35(1) (early payment of retirement pension on ill-health grounds: active members) or regulation 38(1) (early payment of retirement pension on ill-health grounds: deferred members)[^key-38ffef603863ff03c5e53f27b5c8b071] or, if a member who draws benefits under regulation 30(6) (flexible retirement) makes an election to draw the realisable value in the AVC arrangement at the same time, that member must notify the appropriate administering authority that the realisable value under arrangements made under this regulation—
+(7) If a member draws benefits under regulation 30(1), (2), (4), (5), (7), (10) to (12) (retirement benefits) or regulation 35(1) (early payment of retirement pension on ill-health grounds: active members) or regulation 38(1) (early payment of retirement pension on ill-health grounds: deferred members)[^c-38ffef603863ff03c5e53f27b5c8b071] or, if a member who draws benefits under regulation 30(6) (flexible retirement) makes an election to draw the realisable value in the AVC arrangement at the same time, that member must notify the appropriate administering authority that the realisable value under arrangements made under this regulation—
 
 - (a) is to be taken in full or in part by the member as a lump sum, and where only part is taken as a lump sum, the member must specify the amount to be so taken; and
 - (b) to the extent that the realisable value has not been taken as a lump sum, it is to be used—
   - (i) to purchase additional pension under the Scheme, the amount of which is to be determined by the administering authority in accordance with actuarial guidance issued by the Secretary of State, or
   - (ii) to the extent that it has not been used to purchase additional pension under the Scheme, to purchase an annuity from one or more insurance companies (within the meaning of section 275 of the Finance Act 2004 [^c21900141]).
 
-(8) Where a member chooses to take some or all of the benefits referred to in paragraph (7) in the form of a lump sum, that sum forms[^key-0213b96138dfe85158fced96c038acc1] part of the total amount referred to in regulation 33(2) (election for lump sum instead of a pension).
+(8) Where a member chooses to take some or all of the benefits referred to in paragraph (7) in the form of a lump sum, that sum forms[^c-0213b96138dfe85158fced96c038acc1] part of the total amount referred to in regulation 33(2) (election for lump sum instead of a pension).
 
 (9) A person with an arrangement under paragraph (1) who becomes a deferred member of the Scheme is entitled to a deferred AVC account with the AVC provider.
 
@@ -60,28 +60,28 @@ summary: ''
 
 the appropriate administering authority shall, at its absolute discretion, decide that any life assurance sum due under sub-paragraph (a), and the realisable value of any arrangement under sub-paragraphs (b) to (e), should be paid to or for the benefit of the member's nominee, personal representatives or any person appearing to the authority to have been a relative or dependent of the member.
 
-(13) Where a member had attained the age of 75 at the date of death, any tax chargeable under section 206 of the Finance Act 2004 (special lump sum death benefits charge) is to be deducted from the payment due under paragraph (12)[^key-bae31d155ff7da6171c1c4a0a22ffe44].
+(13) Where a member had attained the age of 75 at the date of death, any tax chargeable under section 206 of the Finance Act 2004 (special lump sum death benefits charge) is to be deducted from the payment due under paragraph (12)[^c-bae31d155ff7da6171c1c4a0a22ffe44].
 
-(14)[^key-1de268617a6e47f6f22e5447c6f19c52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-1de268617a6e47f6f22e5447c6f19c52] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) Regulations 72 (first instance decisions) and 91 (forfeiture of pension rights after conviction for employment-related offences) do not apply in relation to an annuity purchased under paragraph (7)(b)(ii) and regulation 19(1)(b) (exclusion of rights to return of contributions) does not apply to any AVCs paid by the member.
 
 ## Annotations
 
-[^key-70b0a6aeec303fab078d1f8d4024eba8]: Modification: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17) applied by S.I. 2014/525, reg. 15(2A) (as inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(c)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/c))
+[^c-70b0a6aeec303fab078d1f8d4024eba8]: Modification: [Reg. 17](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17) applied by S.I. 2014/525, reg. 15(2A) (as inserted (14.5.2018) by [The Local Government Pension Scheme (Amendment) Regulations 2018 (S.I. 2018/493)](https://www.legislation.gov.uk/uksi/2018/493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/493/regulation/1/2), [29(c)](https://www.legislation.gov.uk/uksi/2018/493/regulation/29/c))
 
 [^c21900101]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
 [^c21900111]: Marginal citation: [2004 c. 35](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-266a175775bab15a672e2ef22e717364]: Textual amendment: [Reg. 17(6)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/6) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/8/a)
+[^c-266a175775bab15a672e2ef22e717364]: Textual amendment: [Reg. 17(6)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/6) substituted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2015/755/regulation/8/a)
 
-[^key-38ffef603863ff03c5e53f27b5c8b071]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/7) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2015/755/regulation/8/b)
+[^c-38ffef603863ff03c5e53f27b5c8b071]: Textual amendment: Words in [reg. 17(7)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/7) inserted (with effect in accordance with reg. 1(2)(b) of the amending S.I.) by [The Local Government Pension Scheme (Amendment) Regulations 2015 (S.I. 2015/755)](https://www.legislation.gov.uk/uksi/2015/755), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/755/article/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2015/755/regulation/8/b)
 
 [^c21900141]: Marginal citation: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).
 
-[^key-0213b96138dfe85158fced96c038acc1]: Textual amendment: Word in [reg. 17(8)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/8) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [9(1)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/1/a)
+[^c-0213b96138dfe85158fced96c038acc1]: Textual amendment: Word in [reg. 17(8)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/8) substituted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [9(1)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/1/a)
 
-[^key-bae31d155ff7da6171c1c4a0a22ffe44]: Textual amendment: Words in [reg. 17(13)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/13) substituted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [9(1)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/1/b) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/2))
+[^c-bae31d155ff7da6171c1c4a0a22ffe44]: Textual amendment: Words in [reg. 17(13)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/13) substituted (with effect from 1.4.2014) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [9(1)(b)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/1/b) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/2))
 
-[^key-1de268617a6e47f6f22e5447c6f19c52]: Textual amendment: [Reg. 17(14)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/14) omitted (with effect from 1.4.2014) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [9(1)(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/1/c) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/2))
+[^c-1de268617a6e47f6f22e5447c6f19c52]: Textual amendment: [Reg. 17(14)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/17/14) omitted (with effect from 1.4.2014) by virtue of [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/a), [9(1)(c)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/1/c) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2026/226/regulation/9/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Refusal of application for code rights on grounds of national security etc[^key-b4bd0c56ede8193f9ca41ccd8863f86f][^key-9ed336057820cefa2a47ccdd26fe4447]
+## 66. Refusal of application for code rights on grounds of national security etc[^c-b4bd0c56ede8193f9ca41ccd8863f86f][^c-9ed336057820cefa2a47ccdd26fe4447]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b4bd0c56ede8193f9ca41ccd8863f86f]: Commencement: S. 66 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-b4bd0c56ede8193f9ca41ccd8863f86f]: Commencement: S. 66 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-9ed336057820cefa2a47ccdd26fe4447]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2022/46/section/66) in force at 26.4.2023 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 2](https://www.legislation.gov.uk/uksi/2023/469/regulation/2)
+[^c-9ed336057820cefa2a47ccdd26fe4447]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2022/46/section/66) in force at 26.4.2023 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 2](https://www.legislation.gov.uk/uksi/2023/469/regulation/2)

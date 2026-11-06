@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69B. Disqualification from holding office with senior management functions[^key-31bf2434a7f7314966b76717d1d8f5d1]
+## 69B. Disqualification from holding office with senior management functions[^c-31bf2434a7f7314966b76717d1d8f5d1]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31bf2434a7f7314966b76717d1d8f5d1]: Textual amendment: [S. 69B](https://www.legislation.gov.uk/asp/2005/10/section/69B) inserted (30.6.2025 for specified purposes, 31.8.2025 in so far as not already in force) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2023/5/section/6/2), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)
+[^c-31bf2434a7f7314966b76717d1d8f5d1]: Textual amendment: [S. 69B](https://www.legislation.gov.uk/asp/2005/10/section/69B) inserted (30.6.2025 for specified purposes, 31.8.2025 in so far as not already in force) by [Charities (Regulation and Administration) (Scotland) Act 2023 (asp 5)](https://www.legislation.gov.uk/asp/2023/5), [ss. 6(2)](https://www.legislation.gov.uk/asp/2023/5/section/6/2), [21(2)](https://www.legislation.gov.uk/asp/2023/5/section/21/2); [S.S.I. 2025/168](https://www.legislation.gov.uk/ssi/2025/168), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2025/168/regulation/2/3), [sch. Pts. 1](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/1), [2](https://www.legislation.gov.uk/ssi/2025/168/schedule/part/2)

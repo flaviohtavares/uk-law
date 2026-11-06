@@ -39,17 +39,17 @@ Coming into operation
 
 1st June 2007
 
-The Secretary of State for Northern Ireland makes the following Order in exercise of the powers conferred by section 155(1)(a) and (2) of the Social Security Administration (Northern Ireland) Act 1992[^f00001].[^key-577741ba6cdc8ff2c9a8bdfa37c9c840][^key-ce0e5f7f49653f72bc2b8d89514dd1b6]
+The Secretary of State for Northern Ireland makes the following Order in exercise of the powers conferred by section 155(1)(a) and (2) of the Social Security Administration (Northern Ireland) Act 1992[^f00001].[^c-577741ba6cdc8ff2c9a8bdfa37c9c840][^c-ce0e5f7f49653f72bc2b8d89514dd1b6]
 
-## 1. Citation and commencement[^key-e1118533f3e5634c9e28110b66fa3908]
+## 1. Citation and commencement[^c-e1118533f3e5634c9e28110b66fa3908]
 
 This Order may be cited as the Social Security (Netherlands) Order (Northern Ireland) 2007 and shall come into operation on 1st June 2007.
 
-## 2. Modification of Acts and the Jobseekers (Northern Ireland) Order[^key-6f64a3b0a27e49f8920e3192d7189103]
+## 2. Modification of Acts and the Jobseekers (Northern Ireland) Order[^c-6f64a3b0a27e49f8920e3192d7189103]
 
 The Social Security Administration (Northern Ireland) Act 1992, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002] and the Jobseekers (Northern Ireland) Order 1995[^f00003] are modified to such extent as may be required to give effect to the provisions contained in the Convention set out in the Schedule so far as they relate to Northern Ireland.
 
-## 3. Revocation and variation of Orders[^key-d0ab6767bd34f842bda57796f1c81672]
+## 3. Revocation and variation of Orders[^c-d0ab6767bd34f842bda57796f1c81672]
 
 (1) The National Insurance and Industrial Injuries (Reciprocal Agreement with the Netherlands) Order (Northern Ireland) 1955[^f00004] is revoked.
 
@@ -83,7 +83,7 @@ Have agreed as follows:
 
 ### PART I — GENERAL PROVISIONS
 
-#### ARTICLE 1 — Definitions[^key-11541b5a95983dd7c697e4cf0e348ff6]
+#### ARTICLE 1 — Definitions[^c-11541b5a95983dd7c697e4cf0e348ff6]
 
 (1) For the purpose of this Convention the following definitions apply, except where the context otherwise requires:
 
@@ -166,14 +166,14 @@ Have agreed as follows:
 
 (3) Any reference in this Convention to an “Article” means an Article of this Convention, and any reference to a “paragraph” is a reference to a paragraph of the Article in which the reference is made, unless it is stated to the contrary.
 
-#### ARTICLE 2 — Persons covered[^key-42649b70afe612ddcbfd5a2176da7ab2]
+#### ARTICLE 2 — Persons covered[^c-42649b70afe612ddcbfd5a2176da7ab2]
 
 Subject to Article 33, this Convention shall apply:
 
 - (a) as regards relations between Great Britain, Northern Ireland and the Netherlands, only to persons to whom, in relation to a specific event or circumstance, Regulation EEC 1408/71 and the Implementing Regulation do not apply, or do not become applicable, and who are, or have been subject to the legislation of one or both Parties, to members of their families and to their survivors, and
 - (b) as regards relations between Jersey, Guernsey, the Isle of Man and the Netherlands, to persons who are, or have been, subject to the legislation of one or both Parties, to members of their families and to their survivors.
 
-#### ARTICLE 3 — Scope of legislation[^key-c207dc826858544553dac0f017220100]
+#### ARTICLE 3 — Scope of legislation[^c-c207dc826858544553dac0f017220100]
 
 (1) This Convention shall apply:
 
@@ -200,15 +200,15 @@ Subject to Article 33, this Convention shall apply:
 
 (4) This Convention shall not affect rights and obligations created by legislation on social security adopted on the basis of the Treaty establishing the European Economic Community done at Rome on 25 March 1957, as amended, the Agreement on establishing the European Economic Area done at Oporto on 2 May 1992 and made between the European Community, its Member States and the Member States of the European Free Trade Association, and any amendments or modifications thereto, or apply to any convention on social security which either Party has concluded with a third party or to any laws or regulations which amend the legislation specified in paragraph (1) for the purpose of giving effect to such a convention, but shall not prevent either Party taking into account under its legislation the provision of any other convention which that Party has concluded with a third party.
 
-#### ARTICLE 4 — Equal treatment[^key-d51fca69f068268e00f0a3721ec85337]
+#### ARTICLE 4 — Equal treatment[^c-d51fca69f068268e00f0a3721ec85337]
 
 A person to whom this Convention applies, while he is in the territory of one Party, shall enjoy the provisions of the legislation of the other Party under the same conditions as a national of that Party, subject to the special provisions of this Convention.
 
-#### ARTICLE 5 — Refugees and stateless persons[^key-57f7fae8960ff679c144493cd655fc0c]
+#### ARTICLE 5 — Refugees and stateless persons[^c-57f7fae8960ff679c144493cd655fc0c]
 
 This Convention shall apply to refugees and stateless persons who are residing in the territory of either Party. It shall apply under the same conditions to members of their families, and to their survivors, with respect to the rights they derive from those refugees or stateless persons.
 
-#### ARTICLE 6 — Provisions for the export of benefit[^key-25916d91b054a2493ac9cb2f6402dc72]
+#### ARTICLE 6 — Provisions for the export of benefit[^c-25916d91b054a2493ac9cb2f6402dc72]
 
 (1) Subject to Articles 16, 18 to 25 and Article 30 a person who would be entitled to receive a retirement pension, survivor’s benefit, invalidity benefit or any pension or benefit payable in respect of an industrial accident or industrial disease under the legislation of one Party if he were in the territory of that Party shall be entitled to receive that pension or benefit while he is in the territory of the other Party, as if he were in the territory of the former Party.
 
@@ -224,7 +224,7 @@ This Convention shall apply to refugees and stateless persons who are residing i
 
 ### PART II — PROVISIONS WHICH DETERMINE THE LEGISLATION APPLICABLE CONCERNING CONTRIBUTION LIABILITY
 
-#### ARTICLE 7 — General provisions[^key-9e8337f64e6d271f9ded87af762ec05b]
+#### ARTICLE 7 — General provisions[^c-9e8337f64e6d271f9ded87af762ec05b]
 
 (1) Subject to paragraphs (2) to (11) and Articles 8 to 13, where a person is gainfully employed, he shall be subject only to the legislation of the Party in whose territory he is so employed.
 
@@ -248,11 +248,11 @@ This Convention shall apply to refugees and stateless persons who are residing i
 
 (11) For the purpose of determining whether a person is entitled to be credited with a Class 1 contribution under the legislation of Guernsey in respect of any week of unemployment, any insurance period, or any period of employment, completed by him under the legislation of the Netherlands, shall be treated as an insurance period or period of employment, as the case may be, under the legislation of Guernsey.
 
-#### ARTICLE 8 — Detached workers[^key-dd7ba90181c5f64df4878198fdddfbdd]
+#### ARTICLE 8 — Detached workers[^c-dd7ba90181c5f64df4878198fdddfbdd]
 
 Subject to Articles 9 and 10, where a person subject to the legislation of one Party, and employed by an employer with a place of business in the territory of that Party, is sent by that employer, either from the territory of that Party, or from a third country not party to this Convention, to work in the territory of the other Party, he shall continue to be subject only to the legislation of the former Party as if he were employed in the territory of that Party, provided that the employment in the territory of the other Party is not expected to last for more than three years.
 
-#### ARTICLE 9 — Travelling personnel[^key-df23e69194a1236f8a745d7332cd268b]
+#### ARTICLE 9 — Travelling personnel[^c-df23e69194a1236f8a745d7332cd268b]
 
 Subject to Article 10, the following provisions shall apply to any person employed as a member of the travelling personnel of an undertaking engaged in the transport of passengers or goods whether for another undertaking or on its own account:
 
@@ -260,7 +260,7 @@ Subject to Article 10, the following provisions shall apply to any person employ
 - (b) subject to sub-paragraph (c), where the undertaking has a branch or agency in the territory of one Party and a person is employed by that branch or agency, he shall be subject only to the legislation of that Party;
 - (c) where a person is ordinarily resident in the territory of one Party and is employed wholly or mainly in that territory, he shall be subject only to the legislation of that Party, even if the undertaking which employs him does not have a place of business or branch or any agency in that territory.
 
-#### ARTICLE 10 — Mariners and others employed on board a ship or vessel[^key-32e8fd1d295ec08b5871d9187424c79b]
+#### ARTICLE 10 — Mariners and others employed on board a ship or vessel[^c-32e8fd1d295ec08b5871d9187424c79b]
 
 (1) Subject to paragraphs (2) to (4), where a person is employed on board any ship or vessel of one Party, he shall be subject only to the legislation of that Party as if any conditions relating to residence were satisfied in his case, provided that he is ordinarily resident in the territory of either Party.
 
@@ -270,7 +270,7 @@ Subject to Article 10, the following provisions shall apply to any person employ
 
 (4) Where a person who is ordinarily resident in the territory of one Party and employed on board any ship or vessel of the other Party is paid remuneration in respect of that employment by a person who is ordinarily resident in, or by an undertaking having a place of business in, the territory of the former Party, he shall be subject only to the legislation of the former Party as if the ship or vessel were a ship or vessel of the former Party, and the person or undertaking by whom the remuneration is paid shall be treated as the employer for the purpose of such legislation.
 
-#### ARTICLE 11 — Diplomats, government servants and consular employees[^key-3885ca0f0a7d7dac49051bb72a4460e4]
+#### ARTICLE 11 — Diplomats, government servants and consular employees[^c-3885ca0f0a7d7dac49051bb72a4460e4]
 
 (1) This Convention shall not affect the application to persons in the territory of either Party of the provisions of the Vienna Conventions on Diplomatic Relations of April 18, 1961 and the Vienna Convention on Consular Relations of April 24, 1963.
 
@@ -278,17 +278,17 @@ Subject to Article 10, the following provisions shall apply to any person employ
 
 (3) Paragraph (2) shall apply by analogy to the members of the family accompanying the persons referred to in that paragraph, unless these family members themselves are gainfully employed in the territory of the other Party.
 
-#### ARTICLE 12 — Treated as ordinarily resident[^key-2dfd90de65269f84cd95259a5fa17386]
+#### ARTICLE 12 — Treated as ordinarily resident[^c-2dfd90de65269f84cd95259a5fa17386]
 
 Where a person is gainfully employed in the territory of a Party and the legislation of the other Party does not apply to him in accordance with Article 7 (1) or (4) or ceases to apply to him under Articles 8, 9 (a) or (b), or 10 (2), the legislation of the former Party shall apply to him as if he were ordinarily resident in the territory of that Party.
 
-#### ARTICLE 13 — Modification provisions[^key-01d4fa2be50cb010369a75ffa7ca124d]
+#### ARTICLE 13 — Modification provisions[^c-01d4fa2be50cb010369a75ffa7ca124d]
 
 Exceptionally, the competent authorities or the competent institutions of the Parties may agree to modify the application of Articles 7 to 12 in respect of particular persons or categories of persons.
 
 ### PART III — SPECIAL PROVISIONS FOR THE UNITED KINGDOM
 
-#### ARTICLE 14 — Conversion formulae[^key-80192fd962687d5ea51371978a80c32b]
+#### ARTICLE 14 — Conversion formulae[^c-80192fd962687d5ea51371978a80c32b]
 
 (1) For the purpose of calculating entitlement to any benefit under the legislation of Great Britain, Northern Ireland or the Isle of Man in accordance with Articles 18 to 24, insurance periods completed under the legislation of the Netherlands before 6 April 1975 shall be treated as if they had been insurance periods completed under the legislation of Great Britain, Northern Ireland or the Isle of Man.
 
@@ -325,7 +325,7 @@ Exceptionally, the competent authorities or the competent institutions of the Pa
 
 #### SECTION 1 — PROVISIONS FOR SICKNESS, MATERNITY, INVALIDITY AND UNEMPLOYMENT
 
-##### ARTICLE 15 — Sickness benefit and maternity allowance[^key-7fabff0534c3838932e5eaef1c9817f2]
+##### ARTICLE 15 — Sickness benefit and maternity allowance[^c-7fabff0534c3838932e5eaef1c9817f2]
 
 (1) Where a person has, since his last arrival in the territory of the United Kingdom, completed a contribution period under the legislation of that Party, then for the purpose of any claim to sickness benefit or maternity allowance made under the legislation of that Party, any insurance period completed under the legislation of the Netherlands shall be treated in accordance with Article 14 as if it were an insurance period completed under the legislation of the United Kingdom.
 
@@ -347,7 +347,7 @@ Exceptionally, the competent authorities or the competent institutions of the Pa
 
 (7) Where, but for this paragraph, a person would be entitled to receive, for the same period, whether by virtue of this Convention, or otherwise, sickness benefit under the legislation of both Parties, including industrial injury benefit under the legislation of Guernsey, or maternity allowance under the legislation of the United Kingdom, that benefit, allowance or payment shall be granted only under the legislation under which the person was last insured before entitlement arose.
 
-##### ARTICLE 16 — Invalidity benefit[^key-f1d5cc1ae6d413b6f5260c27d8725270]
+##### ARTICLE 16 — Invalidity benefit[^c-f1d5cc1ae6d413b6f5260c27d8725270]
 
 (1) Where a person has been subject to the legislation of both Parties, the competent authority or the competent institution in the territory of the Party whose legislation was applicable when incapacity for work followed by invalidity began shall determine, in accordance with its legislation, whether the person concerned satisfied the conditions for entitlement to invalidity benefit taking account, where appropriate, of any insurance period which that person has completed under the legislation of the other Party as if it were an insurance period completed under its legislation.
 
@@ -355,7 +355,7 @@ Exceptionally, the competent authorities or the competent institutions of the Pa
 
 (3) Where a person is entitled to incapacity pension under the legislation of Jersey, only contribution periods completed, or deemed to be completed, under the legislation of Jersey shall be taken into consideration in the calculation of the rate of incapacity pension.
 
-##### ARTICLE 17 — Unemployment benefit[^key-e3d677c0914d8d319a6474e936a600bc]
+##### ARTICLE 17 — Unemployment benefit[^c-e3d677c0914d8d319a6474e936a600bc]
 
 (1) In this Article “Party” means Great Britain, Northern Ireland, the Isle of Man, Guernsey or the Netherlands, as the case may be.
 
@@ -375,7 +375,7 @@ Exceptionally, the competent authorities or the competent institutions of the Pa
 
 #### SECTION 2 — RETIREMENT PENSION AND SURVIVOR'S BENEFIT
 
-##### ARTICLE 18 — General provisions[^key-626026e0c10d4d70bed317df64e1b5cc]
+##### ARTICLE 18 — General provisions[^c-626026e0c10d4d70bed317df64e1b5cc]
 
 (1) Subject to paragraphs (2) to (4), where a person is entitled to a basic retirement pension under the legislation of any part of either Party otherwise than by virtue of this Convention, that pension shall be payable and Article 19 shall not apply under that legislation.
 
@@ -391,7 +391,7 @@ Exceptionally, the competent authorities or the competent institutions of the Pa
 
 (7) The periods referred to in paragraph (6) shall be taken into consideration in the calculation of the old-age pension only if the person concerned has been insured within the meaning of Article 6 of the Netherlands General Old Age Pension Act and the person has resided for at least six years in the territory of one or both Parties after reaching the age of fifty-nine years and only while the person is residing in the territory of either Party. However, these periods shall not be taken into consideration if they coincide with periods taken into consideration for the calculation of an old age pension under the legislation of a country other than the Netherlands.
 
-##### ARTICLE 19 — Pro-rata pensions[^key-cda9a32e684f2aad05ac88b982d2939a]
+##### ARTICLE 19 — Pro-rata pensions[^c-cda9a32e684f2aad05ac88b982d2939a]
 
 (1) Subject to Articles 18 and 20 to 23, this Article shall apply to determine a person’s entitlement to retirement pension, including any increase for dependants, under the legislation of any part of either Party.
 
@@ -421,11 +421,11 @@ those periods shall be treated in accordance with paragraph (4) or (5).
 
 (7) Any increase of benefit payable under the legislation of Great Britain, Northern Ireland or the Isle of Man because of deferred retirement or deferred entitlement, shall be based on the amount of the pro-rata pension calculated in accordance with this Article.
 
-##### ARTICLE 20 — Insurance periods to be taken into account[^key-32ebb476334afd4101887b5173f5b01c]
+##### ARTICLE 20 — Insurance periods to be taken into account[^c-32ebb476334afd4101887b5173f5b01c]
 
 For the purpose of applying Article 19 the competent authority of the United Kingdom shall take account only of insurance periods completed under the legislation of either Party which would be taken into account for the determination of pensions under the legislation of the United Kingdom if they had been completed under its legislation, and shall, where appropriate, take into account in accordance with its legislation insurance periods completed by a spouse or civil partner, or former spouse or former civil partner, as the case may be.
 
-##### ARTICLE 21 — Overlapping periods[^key-75ed724ba2f456570815e6013e4a68a2]
+##### ARTICLE 21 — Overlapping periods[^c-75ed724ba2f456570815e6013e4a68a2]
 
 For the purpose of applying Article 19:
 
@@ -436,7 +436,7 @@ For the purpose of applying Article 19:
 - (e) where a voluntary contribution period completed under the legislation of one Party coincides with a voluntary contribution period completed under the legislation of the other Party, each Party shall take into account only the voluntary contribution period completed under its own legislation;
 - (f) where it is not possible to determine accurately the period of time in which certain insurance periods were completed under the legislation of one Party, such insurance periods shall be treated as if they did not overlap with insurance periods completed under the legislation of the other Party and shall be taken into account to the best advantage of the beneficiary.
 
-##### ARTICLE 22 — Benefits to be excluded[^key-b34afad4a23e532a3b902876fcf789c9]
+##### ARTICLE 22 — Benefits to be excluded[^c-b34afad4a23e532a3b902876fcf789c9]
 
 For the purpose of applying Article 19 no account shall be taken of the following benefits payable under the legislation of Great Britain, Northern Ireland or the Isle of Man:
 
@@ -446,11 +446,11 @@ For the purpose of applying Article 19 no account shall be taken of the followin
 
 but any such benefit shall be added to the amount of any benefit payable under that legislation in accordance with Article 19(2).
 
-##### ARTICLE 23 — Non-simultaneous entitlement[^key-8170c6b747b64bce931f817098733730]
+##### ARTICLE 23 — Non-simultaneous entitlement[^c-8170c6b747b64bce931f817098733730]
 
 Where a person does not simultaneously satisfy the conditions for entitlement to a retirement pension under the legislation of both Parties, his entitlement from each Party shall be established as and when he satisfies the conditions applicable under the legislation of that Party, taking account, where appropriate, of Article 19.
 
-##### ARTICLE 24 — Survivor’s benefit[^key-ac654668fb57a230bbd5839dc458371a]
+##### ARTICLE 24 — Survivor’s benefit[^c-ac654668fb57a230bbd5839dc458371a]
 
 (1) Articles 18 to 23 shall also apply, with such modifications as the differing nature of the benefits shall require, to survivor’s benefit.
 
@@ -458,7 +458,7 @@ Where a person does not simultaneously satisfy the conditions for entitlement to
 
 #### SECTION 3 — BENEFITS FOR INDUSTRIAL ACCIDENTS AND INDUSTRIAL DISEASES
 
-##### ARTICLE 25 — General provisions[^key-0ca2ef21fa6195607e58a10559a4e756]
+##### ARTICLE 25 — General provisions[^c-0ca2ef21fa6195607e58a10559a4e756]
 
 (1) Where a person is employed in the territory of one Party and the legislation of the other Party applies to him in accordance with any of the provisions of Articles 8 to 13, he shall be treated under the legislation of the latter Party for the purpose of any claim to benefit in respect of an industrial accident or an industrial disease contracted during that employment, as if the accident had occurred or the disease had been contracted in the territory of the latter Party. Where benefit would be payable in respect of that claim if the person were in the territory of the latter Party, it shall be payable while he is in the territory of the former Party.
 
@@ -473,7 +473,7 @@ Where a person does not simultaneously satisfy the conditions for entitlement to
 
 #### SECTION 4
 
-##### ARTICLE 26 — Child benefits[^key-ac16c5fff0302f0f58294f140294349f]
+##### ARTICLE 26 — Child benefits[^c-ac16c5fff0302f0f58294f140294349f]
 
 (1) A person covered under the legislation on child benefits of the Netherlands shall be entitled to child benefits under its legislation even if the beneficiary or the child is in the territory of the United Kingdom.
 
@@ -481,7 +481,7 @@ Where a person does not simultaneously satisfy the conditions for entitlement to
 
 ### PART V — MISCELLANEOUS PROVISIONS
 
-#### ARTICLE 27 — Recovery of advance payments and overpayments of benefit[^key-3b23acb543e290100b918c81a1b288ca]
+#### ARTICLE 27 — Recovery of advance payments and overpayments of benefit[^c-3b23acb543e290100b918c81a1b288ca]
 
 (1) Where a competent authority or competent institution of one Party has made a payment of any benefit to a person for any period, or event, in advance of the period, or event, to which it relates or has paid him any benefit for a period, or event, whether by virtue of this Convention or otherwise, and the competent authority or the competent institution of the other Party afterwards decides that the person is entitled to benefit for that period, or event, under its legislation, the competent authority or the competent institution of the latter Party, at the request of the competent authority or the competent institution of the former Party, shall deduct from the benefit due for that period, or event, under its legislation any overpayment which, by virtue of this Convention, results from the advance payment of benefit, or from the benefit paid, by the competent authority or the competent institution of the former Party and shall, where appropriate, transmit this sum to the competent authority or the competent institution of the former Party.
 
@@ -489,7 +489,7 @@ Where a person does not simultaneously satisfy the conditions for entitlement to
 
 (3) Where a person has received social assistance under the legislation of one Party for a period for which that person subsequently becomes entitled to any benefit under the legislation of the other Party, the competent authority or the competent institution of the latter Party, at the request of and on behalf of the competent authority or the competent institution of the former Party, shall withhold the benefit due for that period and shall transmit the amount withheld to the competent authority or the competent institution of the former Party. The competent authority or the competent institution of the former Party shall deduct from the benefit due under the legislation of the other Party the amount by which the social assistance paid exceeded what would have been paid had the benefit under the legislation of the latter Party been paid before the amount of social assistance was determined. Any benefit not so deducted shall be transmitted to the person.
 
-#### ARTICLE 28 — Arrangements for administration and co-operation[^key-080acabd94a876083fb2e115ad36b2c0]
+#### ARTICLE 28 — Arrangements for administration and co-operation[^c-080acabd94a876083fb2e115ad36b2c0]
 
 (1) The competent authorities of the two Parties shall establish an administrative agreement necessary for the application of this Convention.
 
@@ -513,13 +513,13 @@ Where a person does not simultaneously satisfy the conditions for entitlement to
 
 (11) Unless disclosure is required under the legislation of a Party, any information about an individual which is sent in accordance with, and for the purposes of, this Convention to that Party by another Party is confidential and shall be used only for the purpose of implementing this Convention and the legislation to which this Convention applies.
 
-#### ARTICLE 29 — Submission of claim or appeal[^key-28f69770fe074fbb748ae50e6734393d]
+#### ARTICLE 29 — Submission of claim or appeal[^c-28f69770fe074fbb748ae50e6734393d]
 
 (1) Any claim or appeal which should, for the purposes of the legislation of one Party, have been submitted within a prescribed period to the competent authority or the competent institution of that Party, shall be treated as if it had been submitted to that competent authority or competent institution if it is submitted within the same period to the competent authority or competent institution of the other Party.
 
 (2) Any claim to benefit submitted under the legislation of one Party shall also be deemed to be a claim to the corresponding benefit under the legislation of the other Party in so far as this corresponding benefit is payable in accordance with this Convention.
 
-#### ARTICLE 30 — Currency and method of payment[^key-0a5c13f49f49b69197457c4442d35ffb]
+#### ARTICLE 30 — Currency and method of payment[^c-0a5c13f49f49b69197457c4442d35ffb]
 
 (1) Payment of any benefit in accordance with this Convention may be made in the currency of the Party whose competent authority or competent institution makes the payment and any such payment shall constitute a full discharge of the obligation in respect of which payment has been made.
 
@@ -527,7 +527,7 @@ Where a person does not simultaneously satisfy the conditions for entitlement to
 
 (3) Where a person in the territory of one Party is receiving benefit under the legislation of the other Party, it shall be payable by whatever method the competent authority or the competent institution of the latter Party deems appropriate.
 
-#### ARTICLE 31 — Resolution of disputes[^key-7059b1021378d3a2c82a51c5a4d438d5]
+#### ARTICLE 31 — Resolution of disputes[^c-7059b1021378d3a2c82a51c5a4d438d5]
 
 (1) The competent authorities of the Parties to this Convention shall make all reasonable efforts to resolve through agreement between them any dispute about its interpretation or application.
 
@@ -540,7 +540,7 @@ Where a person does not simultaneously satisfy the conditions for entitlement to
 
 ### PART VI — TRANSITIONAL AND FINAL PROVISIONS
 
-#### ARTICLE 32 — Prior acquisition of rights — old convention replaced by new convention — persons covered by this convention[^key-c9d35b09463fbe0ebb3d2fe481413b05]
+#### ARTICLE 32 — Prior acquisition of rights — old convention replaced by new convention — persons covered by this convention[^c-c9d35b09463fbe0ebb3d2fe481413b05]
 
 (1) Upon the entry into force of this Convention the former Convention shall terminate and shall be replaced by this Convention.
 
@@ -561,24 +561,24 @@ Where a person does not simultaneously satisfy the conditions for entitlement to
 
 (8) No provision of this Convention shall diminish any rights or benefits which a person has properly acquired under the legislation of any part of either Party before the date of entry into force of this Convention.
 
-#### ARTICLE 33 — Prior acquisition of rights — old convention replaced by new convention — persons excluded from this convention[^key-dc3577995187e3af9f3cdc0d08067e75]
+#### ARTICLE 33 — Prior acquisition of rights — old convention replaced by new convention — persons excluded from this convention[^c-dc3577995187e3af9f3cdc0d08067e75]
 
 As regards persons who, by virtue of Article 2, are not covered by this Convention, the following provisions shall apply:
 
 - (a) any rights in course of acquisition under the former Convention before the date of entry into force of this Convention shall be determined in accordance with Regulation EEC 1408/71 and the Implementing Regulation;
 - (b) notwithstanding Article 32(1), the former Convention shall remain applicable to any award of a benefit, pension or allowance which was made under it prior to the date of entry into force of this Convention.
 
-#### ARTICLE 34 — Entry into force[^key-52e1c633f0c42b3d5a1c1585bb9ee4da]
+#### ARTICLE 34 — Entry into force[^c-52e1c633f0c42b3d5a1c1585bb9ee4da]
 
 (1) The Parties shall notify each other in writing of the completion of their respective constitutional or legal procedures required for the entry into force of this Convention. This Convention shall enter into force on the first day of the third month following the month after the date of the last notification.
 
 (2) The Kingdom of the Netherlands shall apply Article 6 provisionally as from 1 January 2006.
 
-#### ARTICLE 35 — Duration of the convention[^key-c607753f54dc4749233cae2c124daf80]
+#### ARTICLE 35 — Duration of the convention[^c-c607753f54dc4749233cae2c124daf80]
 
 This Convention shall remain in force for an indefinite period. The United Kingdom of Great Britain and Northern Ireland or the Kingdom of the Netherlands may denounce it at any time by giving six months' notice in writing to the other Party.
 
-#### ARTICLE 36 — Rights on termination of this convention not replaced by another[^key-d5190d597ff2ea699878f0a0e86ae678]
+#### ARTICLE 36 — Rights on termination of this convention not replaced by another[^c-d5190d597ff2ea699878f0a0e86ae678]
 
 In the event of the termination of this Convention and unless a new Convention containing provisions regulating the matter is made, any right to benefit acquired by a person in accordance with this Convention shall be maintained and negotiations shall take place for the settlement of any other rights then in course of acquisition by virtue of its provisions.
 
@@ -604,19 +604,19 @@ The provisions of the Convention relate to sickness benefit, maternity allowance
 
 [^f00001]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-577741ba6cdc8ff2c9a8bdfa37c9c840]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2007/295) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order (Northern Ireland) 2016 (S.R. 2016/188)](https://www.legislation.gov.uk/nisr/2016/188), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/188/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/188/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/188/schedule/2)
+[^c-577741ba6cdc8ff2c9a8bdfa37c9c840]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2007/295) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order (Northern Ireland) 2016 (S.R. 2016/188)](https://www.legislation.gov.uk/nisr/2016/188), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/188/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/188/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/188/schedule/2)
 
-[^key-ce0e5f7f49653f72bc2b8d89514dd1b6]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2007/295) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order (Northern Ireland) 2017 (S.R. 2017/73)](https://www.legislation.gov.uk/nisr/2017/73), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/73/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/73/schedule/2)
+[^c-ce0e5f7f49653f72bc2b8d89514dd1b6]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2007/295) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order (Northern Ireland) 2017 (S.R. 2017/73)](https://www.legislation.gov.uk/nisr/2017/73), [Sch. 1](https://www.legislation.gov.uk/nisr/2017/73/schedule/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2017/73/schedule/2)
 
-[^key-e1118533f3e5634c9e28110b66fa3908]: Commencement: Art. 1 in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-e1118533f3e5634c9e28110b66fa3908]: Commencement: Art. 1 in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-6f64a3b0a27e49f8920e3192d7189103]: Commencement: Art. 2 in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-6f64a3b0a27e49f8920e3192d7189103]: Commencement: Art. 2 in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
 [^f00002]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
 [^f00003]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-d0ab6767bd34f842bda57796f1c81672]: Commencement: Art. 3 in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-d0ab6767bd34f842bda57796f1c81672]: Commencement: Art. 3 in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
 [^f00004]: Footnote: [S.R. & O. (N.I.) 1955 No. 122](https://www.legislation.gov.uk/nisro/1955/122) (p. 373)
 
@@ -634,74 +634,74 @@ The provisions of the Convention relate to sickness benefit, maternity allowance
 
 [^f00011]: Footnote: [S.R. 2005 No. 544](https://www.legislation.gov.uk/nisr/2005/544)
 
-[^key-11541b5a95983dd7c697e4cf0e348ff6]: Commencement: [Schedule art. 1](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-11541b5a95983dd7c697e4cf0e348ff6]: Commencement: [Schedule art. 1](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-42649b70afe612ddcbfd5a2176da7ab2]: Commencement: [Schedule art. 2](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-42649b70afe612ddcbfd5a2176da7ab2]: Commencement: [Schedule art. 2](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-c207dc826858544553dac0f017220100]: Commencement: [Schedule art. 3](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-c207dc826858544553dac0f017220100]: Commencement: [Schedule art. 3](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-d51fca69f068268e00f0a3721ec85337]: Commencement: [Schedule art. 4](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-d51fca69f068268e00f0a3721ec85337]: Commencement: [Schedule art. 4](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-57f7fae8960ff679c144493cd655fc0c]: Commencement: [Schedule art. 5](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-57f7fae8960ff679c144493cd655fc0c]: Commencement: [Schedule art. 5](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-25916d91b054a2493ac9cb2f6402dc72]: Commencement: [Schedule art. 6](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-25916d91b054a2493ac9cb2f6402dc72]: Commencement: [Schedule art. 6](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/I/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-9e8337f64e6d271f9ded87af762ec05b]: Commencement: [Schedule art. 7](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-9e8337f64e6d271f9ded87af762ec05b]: Commencement: [Schedule art. 7](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-dd7ba90181c5f64df4878198fdddfbdd]: Commencement: [Schedule art. 8](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-dd7ba90181c5f64df4878198fdddfbdd]: Commencement: [Schedule art. 8](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-df23e69194a1236f8a745d7332cd268b]: Commencement: [Schedule art. 9](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-df23e69194a1236f8a745d7332cd268b]: Commencement: [Schedule art. 9](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-32e8fd1d295ec08b5871d9187424c79b]: Commencement: [Schedule art. 10](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-32e8fd1d295ec08b5871d9187424c79b]: Commencement: [Schedule art. 10](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-3885ca0f0a7d7dac49051bb72a4460e4]: Commencement: [Schedule art. 11](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-3885ca0f0a7d7dac49051bb72a4460e4]: Commencement: [Schedule art. 11](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-2dfd90de65269f84cd95259a5fa17386]: Commencement: [Schedule art. 12](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-2dfd90de65269f84cd95259a5fa17386]: Commencement: [Schedule art. 12](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-01d4fa2be50cb010369a75ffa7ca124d]: Commencement: [Schedule art. 13](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-01d4fa2be50cb010369a75ffa7ca124d]: Commencement: [Schedule art. 13](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/II/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-80192fd962687d5ea51371978a80c32b]: Commencement: [Schedule art. 14](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/III/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-80192fd962687d5ea51371978a80c32b]: Commencement: [Schedule art. 14](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/III/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-7fabff0534c3838932e5eaef1c9817f2]: Commencement: [Schedule art. 15](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-7fabff0534c3838932e5eaef1c9817f2]: Commencement: [Schedule art. 15](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-f1d5cc1ae6d413b6f5260c27d8725270]: Commencement: [Schedule art. 16](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-f1d5cc1ae6d413b6f5260c27d8725270]: Commencement: [Schedule art. 16](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-e3d677c0914d8d319a6474e936a600bc]: Commencement: [Schedule art. 17](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-e3d677c0914d8d319a6474e936a600bc]: Commencement: [Schedule art. 17](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-626026e0c10d4d70bed317df64e1b5cc]: Commencement: [Schedule art. 18](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-626026e0c10d4d70bed317df64e1b5cc]: Commencement: [Schedule art. 18](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-cda9a32e684f2aad05ac88b982d2939a]: Commencement: [Schedule art. 19](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-cda9a32e684f2aad05ac88b982d2939a]: Commencement: [Schedule art. 19](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-32ebb476334afd4101887b5173f5b01c]: Commencement: [Schedule art. 20](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-32ebb476334afd4101887b5173f5b01c]: Commencement: [Schedule art. 20](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-75ed724ba2f456570815e6013e4a68a2]: Commencement: [Schedule art. 21](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-75ed724ba2f456570815e6013e4a68a2]: Commencement: [Schedule art. 21](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-b34afad4a23e532a3b902876fcf789c9]: Commencement: [Schedule art. 22](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-b34afad4a23e532a3b902876fcf789c9]: Commencement: [Schedule art. 22](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-8170c6b747b64bce931f817098733730]: Commencement: [Schedule art. 23](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-8170c6b747b64bce931f817098733730]: Commencement: [Schedule art. 23](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-ac654668fb57a230bbd5839dc458371a]: Commencement: [Schedule art. 24](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-ac654668fb57a230bbd5839dc458371a]: Commencement: [Schedule art. 24](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-0ca2ef21fa6195607e58a10559a4e756]: Commencement: [Schedule art. 25](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-0ca2ef21fa6195607e58a10559a4e756]: Commencement: [Schedule art. 25](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-ac16c5fff0302f0f58294f140294349f]: Commencement: [Schedule art. 26](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-ac16c5fff0302f0f58294f140294349f]: Commencement: [Schedule art. 26](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/IV/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-3b23acb543e290100b918c81a1b288ca]: Commencement: [Sch. art. 27](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-3b23acb543e290100b918c81a1b288ca]: Commencement: [Sch. art. 27](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-080acabd94a876083fb2e115ad36b2c0]: Commencement: [Sch. art. 28](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-080acabd94a876083fb2e115ad36b2c0]: Commencement: [Sch. art. 28](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-28f69770fe074fbb748ae50e6734393d]: Commencement: [Sch. art. 29](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-28f69770fe074fbb748ae50e6734393d]: Commencement: [Sch. art. 29](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-0a5c13f49f49b69197457c4442d35ffb]: Commencement: [Sch. art. 30](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-0a5c13f49f49b69197457c4442d35ffb]: Commencement: [Sch. art. 30](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-7059b1021378d3a2c82a51c5a4d438d5]: Commencement: [Sch. art. 31](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-7059b1021378d3a2c82a51c5a4d438d5]: Commencement: [Sch. art. 31](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/V/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-c9d35b09463fbe0ebb3d2fe481413b05]: Commencement: [Sch. art. 32](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-c9d35b09463fbe0ebb3d2fe481413b05]: Commencement: [Sch. art. 32](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-dc3577995187e3af9f3cdc0d08067e75]: Commencement: [Sch. art. 33](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-dc3577995187e3af9f3cdc0d08067e75]: Commencement: [Sch. art. 33](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-52e1c633f0c42b3d5a1c1585bb9ee4da]: Commencement: [Sch. art. 34](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-52e1c633f0c42b3d5a1c1585bb9ee4da]: Commencement: [Sch. art. 34](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-c607753f54dc4749233cae2c124daf80]: Commencement: [Sch. art. 35](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-c607753f54dc4749233cae2c124daf80]: Commencement: [Sch. art. 35](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
 
-[^key-d5190d597ff2ea699878f0a0e86ae678]: Commencement: [Sch. art. 36](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)
+[^c-d5190d597ff2ea699878f0a0e86ae678]: Commencement: [Sch. art. 36](https://editorial.legislation.gov.uk/nisr/2007/295/schedule/part/VI/2007-06-01/revision), in operation at 1.6.2007, see [art. 1](https://www.legislation.gov.uk/nisr/2007/295/article/1)

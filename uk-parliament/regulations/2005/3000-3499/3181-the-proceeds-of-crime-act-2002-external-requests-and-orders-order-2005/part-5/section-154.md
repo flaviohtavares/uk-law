@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Registration (Northern Ireland) of such orders[^key-8c90a69fbf3c3b4ef8db3c98f6e0e573]
+## 154. Registration (Northern Ireland) of such orders[^c-8c90a69fbf3c3b4ef8db3c98f6e0e573]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8c90a69fbf3c3b4ef8db3c98f6e0e573]: Commencement: [Art. 154](https://www.legislation.gov.uk/uksi/2005/3181/article/154) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-8c90a69fbf3c3b4ef8db3c98f6e0e573]: Commencement: [Art. 154](https://www.legislation.gov.uk/uksi/2005/3181/article/154) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00089]: Footnote: [1970 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1970/18).
 

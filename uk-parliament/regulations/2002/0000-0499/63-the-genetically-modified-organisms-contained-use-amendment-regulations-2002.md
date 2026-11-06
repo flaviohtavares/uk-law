@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-The Genetically Modified Organisms (Contained Use) (Amendment) Regulations 2002 (revoked)[^key-dc1660c126a9a76745649808ad932418]
+The Genetically Modified Organisms (Contained Use) (Amendment) Regulations 2002 (revoked)[^c-dc1660c126a9a76745649808ad932418]
 
 Made
 
@@ -45,44 +45,44 @@ Coming into force
 
 8th February 2002
 
-[^key-dc1660c126a9a76745649808ad932418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc1660c126a9a76745649808ad932418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-## 1.[^key-dc1660c126a9a76745649808ad932418]
+## 1.[^c-dc1660c126a9a76745649808ad932418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-dc1660c126a9a76745649808ad932418]
+## 2.[^c-dc1660c126a9a76745649808ad932418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-dc1660c126a9a76745649808ad932418]
+## 3.[^c-dc1660c126a9a76745649808ad932418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-dc1660c126a9a76745649808ad932418]
+## 4.[^c-dc1660c126a9a76745649808ad932418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-dc1660c126a9a76745649808ad932418]
+## 5.[^c-dc1660c126a9a76745649808ad932418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-dc1660c126a9a76745649808ad932418]
+## 6.[^c-dc1660c126a9a76745649808ad932418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7.[^key-dc1660c126a9a76745649808ad932418]
+## 7.[^c-dc1660c126a9a76745649808ad932418]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dc1660c126a9a76745649808ad932418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc1660c126a9a76745649808ad932418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-dc1660c126a9a76745649808ad932418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc1660c126a9a76745649808ad932418]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc1660c126a9a76745649808ad932418]: Textual amendment: Regulations revoked (1.10.2014) by [The Genetically Modified Organisms (Contained Use) Regulations 2014 (S.I. 2014/1663)](https://www.legislation.gov.uk/uksi/2014/1663), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1663/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/35/b) (with [regs. 3(1)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/2), [33](https://www.legislation.gov.uk/uksi/2014/1663/regulation/33))
+[^c-dc1660c126a9a76745649808ad932418]: Textual amendment: Regulations revoked (1.10.2014) by [The Genetically Modified Organisms (Contained Use) Regulations 2014 (S.I. 2014/1663)](https://www.legislation.gov.uk/uksi/2014/1663), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1663/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/35/b) (with [regs. 3(1)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2014/1663/regulation/3/2), [33](https://www.legislation.gov.uk/uksi/2014/1663/regulation/33))

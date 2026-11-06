@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.38. Application for an order under section 59 of the Criminal Justice and Police Act 2001[^key-1c69a36ac7cde0a03d080c8795084910]
+## 47.38. Application for an order under section 59 of the Criminal Justice and Police Act 2001[^c-1c69a36ac7cde0a03d080c8795084910]
 
 *Extent: E+W*
 
@@ -54,7 +54,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1c69a36ac7cde0a03d080c8795084910]: Commencement: Rule 47.38 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1c69a36ac7cde0a03d080c8795084910]: Commencement: Rule 47.38 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01230]: Footnote: [2001 c. 16](https://www.legislation.gov.uk/ukpga/2001/16); section 55 was amended by sections 456 and 457 of, and paragraphs 1 and 40 of Schedule 11 and Schedule 12 to, the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29). Section 56 was amended by article 364 of [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), section 12 of, and paragraph 14 of Schedule 1 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and article 2 of, and paragraph 189 of Schedule 1 to, [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 

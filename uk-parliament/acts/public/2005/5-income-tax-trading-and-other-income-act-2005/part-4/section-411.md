@@ -22,8 +22,8 @@ summary: ''
 
 (1) Tax is charged under this Chapter on the amount of stock dividend income treated for income tax purposes as arising in the tax year.
 
-(2) That amount is the cash equivalent of the share capital on the issue of which the stock dividend income arises (see section 412)[^key-de578ab245123d509253706c5d2dd1ab]....
+(2) That amount is the cash equivalent of the share capital on the issue of which the stock dividend income arises (see section 412)[^c-de578ab245123d509253706c5d2dd1ab]....
 
 ## Annotations
 
-[^key-de578ab245123d509253706c5d2dd1ab]: Textual amendment: Words in [s. 411(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/411/2) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/17)
+[^c-de578ab245123d509253706c5d2dd1ab]: Textual amendment: Words in [s. 411(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/411/2) omitted (with effect in accordance with Sch. 1 para. 73 of the amending Act) by virtue of [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2016/24/schedule/1/paragraph/17)

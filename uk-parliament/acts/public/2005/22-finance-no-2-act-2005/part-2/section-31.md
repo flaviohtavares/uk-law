@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Commencement[^key-316afac1a8cb769eb6242ec94b3e9c69]
+## 31. Commencement[^c-316afac1a8cb769eb6242ec94b3e9c69]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-316afac1a8cb769eb6242ec94b3e9c69]: Textual amendment: S. 31 repealed (1.4.2010, with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 154](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/154), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-316afac1a8cb769eb6242ec94b3e9c69]: Textual amendment: S. 31 repealed (1.4.2010, with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 154](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/154), [Sch. 10 Pt. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

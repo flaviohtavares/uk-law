@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Local flood risk management strategies: England[^key-21bfe1371481832c1c777900e7a6353d]
+## 9. Local flood risk management strategies: England[^c-21bfe1371481832c1c777900e7a6353d]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21bfe1371481832c1c777900e7a6353d]: Commencement: S. 9 in force at 1.10.2010 for E. by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-21bfe1371481832c1c777900e7a6353d]: Commencement: S. 9 in force at 1.10.2010 for E. by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)

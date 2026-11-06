@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Disqualification of councillors for being independent members of policing and community safety partnerships[^key-107eae8d2be701edef2b7deea806a7f9]
+## 4. Disqualification of councillors for being independent members of policing and community safety partnerships[^c-107eae8d2be701edef2b7deea806a7f9]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-107eae8d2be701edef2b7deea806a7f9]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/8/section/4) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-107eae8d2be701edef2b7deea806a7f9]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/8/section/4) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

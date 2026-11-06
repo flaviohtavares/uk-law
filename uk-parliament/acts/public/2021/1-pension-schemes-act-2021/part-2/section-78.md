@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Requirement to submit supervisory return[^c24480881][^key-f3f6b3ee2dc0697d215e98d7142071f7]
+## 78. Requirement to submit supervisory return[^c24480881][^c-f3f6b3ee2dc0697d215e98d7142071f7]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c24480881]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2021/1/section/78) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-f3f6b3ee2dc0697d215e98d7142071f7]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2021/1/section/78) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-f3f6b3ee2dc0697d215e98d7142071f7]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2021/1/section/78) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

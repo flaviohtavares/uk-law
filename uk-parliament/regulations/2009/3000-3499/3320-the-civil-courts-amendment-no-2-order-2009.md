@@ -32,7 +32,7 @@ summary: ''
 
 County Courts, England And Wales
 
-The Civil Courts (Amendment No. 2) Order 2009 (revoked)[^key-4ae137aa1da4410629426e090224157e]
+The Civil Courts (Amendment No. 2) Order 2009 (revoked)[^c-4ae137aa1da4410629426e090224157e]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st February 2010
 
-[^key-4ae137aa1da4410629426e090224157e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ae137aa1da4410629426e090224157e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4ae137aa1da4410629426e090224157e]
+## 1. Citation and commencement[^c-4ae137aa1da4410629426e090224157e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Closure of Nelson County Court[^key-4ae137aa1da4410629426e090224157e]
+## 2. Closure of Nelson County Court[^c-4ae137aa1da4410629426e090224157e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Civil Courts Order 1983[^key-4ae137aa1da4410629426e090224157e]
+## 3. Amendments to the Civil Courts Order 1983[^c-4ae137aa1da4410629426e090224157e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4ae137aa1da4410629426e090224157e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ae137aa1da4410629426e090224157e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4ae137aa1da4410629426e090224157e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4ae137aa1da4410629426e090224157e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4ae137aa1da4410629426e090224157e]: Textual amendment: Order revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [arts. 1](https://www.legislation.gov.uk/uksi/2014/820/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)
+[^c-4ae137aa1da4410629426e090224157e]: Textual amendment: Order revoked (22.4.2014) by [The Crime and Courts Act 2013 (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/820)](https://www.legislation.gov.uk/uksi/2014/820), [arts. 1](https://www.legislation.gov.uk/uksi/2014/820/article/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/820/article/2/b), [Sch.](https://www.legislation.gov.uk/uksi/2014/820/schedule)

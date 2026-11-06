@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Notifiable events[^key-23e94924baa10db785966c3c177aaa13]
+## 30. Notifiable events[^c-23e94924baa10db785966c3c177aaa13]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23e94924baa10db785966c3c177aaa13]: Commencement: Reg. 30 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-23e94924baa10db785966c3c177aaa13]: Commencement: Reg. 30 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

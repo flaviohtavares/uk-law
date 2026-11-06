@@ -35,11 +35,11 @@ summary: ''
 - (b) that inability is occasioned by infirmity of mind or body and is likely to continue until the day on which—
   - (i) the member reaches normal pension age under this scheme; or
   - (ii) the member dies (if the selected medical practitioner considers the member is likely to die before reaching normal pension age under this scheme);
-- (c)[^key-bd4bc3e7cce8c65fcfcf632c17ff9ef1] the member is unable to engage in regular employment otherwise than as a member of a police force; and
-- (d)[^key-bd4bc3e7cce8c65fcfcf632c17ff9ef1] that inability is occasioned by infirmity of mind or body and is likely to continue until the day on which—
+- (c)[^c-bd4bc3e7cce8c65fcfcf632c17ff9ef1] the member is unable to engage in regular employment otherwise than as a member of a police force; and
+- (d)[^c-bd4bc3e7cce8c65fcfcf632c17ff9ef1] that inability is occasioned by infirmity of mind or body and is likely to continue until the day on which—
   - (i) the member reaches normal pension age under this scheme; or
   - (ii) the member dies (if the selected medical practitioner considers the member is likely to die before reaching normal pension age under this scheme).
 
 ## Annotations
 
-[^key-bd4bc3e7cce8c65fcfcf632c17ff9ef1]: Modification: [Reg. 76(3)(c)](https://www.legislation.gov.uk/uksi/2015/445/regulation/76/3/c)[(d)](https://www.legislation.gov.uk/uksi/2015/445/regulation/76/3/d) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [51(5)](https://www.legislation.gov.uk/uksi/2023/831/regulation/51/5)
+[^c-bd4bc3e7cce8c65fcfcf632c17ff9ef1]: Modification: [Reg. 76(3)(c)](https://www.legislation.gov.uk/uksi/2015/445/regulation/76/3/c)[(d)](https://www.legislation.gov.uk/uksi/2015/445/regulation/76/3/d) applied (1.10.2023) by [The Police Pensions (Remediable Service) Regulations 2023 (S.I. 2023/831)](https://www.legislation.gov.uk/uksi/2023/831), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2023/831/regulation/1/b), [51(5)](https://www.legislation.gov.uk/uksi/2023/831/regulation/51/5)

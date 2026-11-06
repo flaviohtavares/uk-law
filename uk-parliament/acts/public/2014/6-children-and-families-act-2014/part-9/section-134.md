@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Review of sections 131 to 133[^key-9d96b9cffe39255d9f7f369fa7d80637]
+## 134. Review of sections 131 to 133[^c-9d96b9cffe39255d9f7f369fa7d80637]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d96b9cffe39255d9f7f369fa7d80637]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2014/6/section/134) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(n)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/n) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))
+[^c-9d96b9cffe39255d9f7f369fa7d80637]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2014/6/section/134) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(n)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/n) (with [art. 10](https://www.legislation.gov.uk/uksi/2014/1640/article/10))

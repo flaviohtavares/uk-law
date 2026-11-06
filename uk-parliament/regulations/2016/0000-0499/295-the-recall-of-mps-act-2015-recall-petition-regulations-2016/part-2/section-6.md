@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Anonymous entries[^key-f26f47668dc87cd78faf5f18b2569c8e]
+## 6. Anonymous entries[^c-f26f47668dc87cd78faf5f18b2569c8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f26f47668dc87cd78faf5f18b2569c8e]: Commencement: Reg. 6 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-f26f47668dc87cd78faf5f18b2569c8e]: Commencement: Reg. 6 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

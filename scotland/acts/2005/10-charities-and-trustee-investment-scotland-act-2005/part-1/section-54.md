@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Application for creation of SCIO[^key-65ac19e906d5fb7d01df9d6f508b3d30]
+## 54. Application for creation of SCIO[^c-65ac19e906d5fb7d01df9d6f508b3d30]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ but must not otherwise refuse an application if it considers that the SCIO, if c
 
 ## Annotations
 
-[^key-65ac19e906d5fb7d01df9d6f508b3d30]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2005/10/section/54) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(d)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/d)
+[^c-65ac19e906d5fb7d01df9d6f508b3d30]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2005/10/section/54) in force at 1.4.2011 by [S.S.I. 2011/20](https://www.legislation.gov.uk/ssi/2011/20), [art. 2(3)(d)](https://www.legislation.gov.uk/ssi/2011/20/article/2/3/d)

@@ -16,21 +16,21 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Remedies.[^c16326111][^c20374291][^key-d96788f3bcbe5a3128833e5673e0cc2c]
+## 49. Remedies.[^c16326111][^c20374291][^c-d96788f3bcbe5a3128833e5673e0cc2c]
 
 *Extent: E+W+S*
 
-(1)[^c20067251][^c20067371][^c20101241][^c20101741][^c20368181][^c20376591] Where an employment tribunal[^c16326121] finds a complaint under section 48(1),[^key-bb474b63a9b5820684344ce84722b0bc] (1XA),[^key-383aed45c370a32840ebafd0a5a3c3aa] (1ZA), (1A) or (1B) well-founded, the tribunal—
+(1)[^c20067251][^c20067371][^c20101241][^c20101741][^c20368181][^c20376591] Where an employment tribunal[^c16326121] finds a complaint under section 48(1),[^c-bb474b63a9b5820684344ce84722b0bc] (1XA),[^c-383aed45c370a32840ebafd0a5a3c3aa] (1ZA), (1A) or (1B) well-founded, the tribunal—
 
 - (a) shall make a declaration to that effect, and
 - (b) may make an award of compensation to be paid by the employer to the complainant in respect of the act or failure to act to which the complaint relates.
 
-(1A)[^key-0893514e5f3d1e0db88d5483851d4108] Where an employment tribunal finds a complaint under section 48(1AA) well-founded, the tribunal—
+(1A)[^c-0893514e5f3d1e0db88d5483851d4108] Where an employment tribunal finds a complaint under section 48(1AA) well-founded, the tribunal—
 
 - (a) shall make a declaration to that effect, and
 - (b) may make an award of compensation to be paid by the temporary work agency or (as the case may be) the hirer to the complainant in respect of the act or failure to act to which the complaint relates.
 
-(2)[^c20067251][^c20067371][^c20101241][^c20101741][^c20368181][^c20376591] Subject to subsections (5ZA),[^key-6ea37b25cd1a7f824ec2baa3df0407b5] (5A) and (6) the amount of the compensation awarded shall be such as the tribunal considers just and equitable in all the circumstances having regard to—
+(2)[^c20067251][^c20067371][^c20101241][^c20101741][^c20368181][^c20376591] Subject to subsections (5ZA),[^c-6ea37b25cd1a7f824ec2baa3df0407b5] (5A) and (6) the amount of the compensation awarded shall be such as the tribunal considers just and equitable in all the circumstances having regard to—
 
 - (a) the infringement to which the complaint relates, and
 - (b) any loss which is attributable to the act, or failure to act, which infringed the complainant’s right.
@@ -44,7 +44,7 @@ summary: ''
 
 (5)[^c20067251][^c20067371][^c20101241][^c20101741][^c20368181][^c20376591] Where the tribunal finds that the act, or failure to act, to which the complaint relates was to any extent caused or contributed to by action of the complainant, it shall reduce the amount of the compensation by such proportion as it considers just and equitable having regard to that finding.
 
-(5ZA)[^key-f866dd5ac03124665323eee646aec45c] Where—
+(5ZA)[^c-f866dd5ac03124665323eee646aec45c] Where—
 
 - (a) the complaint is made under section 48(1XA),
 - (b) the detriment to which the worker is subjected is the termination of his or her contract, and
@@ -68,7 +68,7 @@ any compensation must not exceed the compensation that would be payable under Ch
 
 any compensation must not exceed the compensation that would be payable under Chapter II of Part X if the worker had been an employee and had been dismissed for the reason specified in section 103A.
 
-(6A)[^key-97e456a5aa9d8add6c08902aaf644ccc] Where—
+(6A)[^c-97e456a5aa9d8add6c08902aaf644ccc] Where—
 
 - (a) the complaint is made under section 48(1A), and
 - (b) it appears to the tribunal that the protected disclosure was not made in good faith,
@@ -94,7 +94,7 @@ any compensation must not exceed the compensation that would be payable under Ch
 
 [^c20374291]: Modification: S. 49 applied (with modifications) (prosp.) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/56/2), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1) (with [s. 56(3)-(6)](https://www.legislation.gov.uk/ukpga/2008/30/section/56/3))
 
-[^key-d96788f3bcbe5a3128833e5673e0cc2c]: Modification: S. 49 applied (with modifications) (30.6.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/56/2), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1) (with [s. 56(3)-(6)](https://www.legislation.gov.uk/ukpga/2008/30/section/56/3)); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1682/schedule/2)
+[^c-d96788f3bcbe5a3128833e5673e0cc2c]: Modification: S. 49 applied (with modifications) (30.6.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2008/30/section/56/2), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1) (with [s. 56(3)-(6)](https://www.legislation.gov.uk/ukpga/2008/30/section/56/3)); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1682/schedule/2)
 
 [^c20067251]: Modification: S. 49(1)-(5) applied (8.10.2004) by The European Public Limited-[Liability Company Regulations 2004 (S.I. 2004/2326)](https://www.legislation.gov.uk/uksi/2004/2326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2004/2326/regulation/1/2), [45(3)](https://www.legislation.gov.uk/uksi/2004/2326/regulation/45/3)
 
@@ -110,20 +110,20 @@ any compensation must not exceed the compensation that would be payable under Ch
 
 [^c16326121]: Textual amendment: Words in s. 49(1) substituted (1.8.1998) by [1998 c. 8](https://www.legislation.gov.uk/ukpga/1998/8), [s. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1998/8/section/1/2/a) (with [s. 16(2)](https://www.legislation.gov.uk/ukpga/1998/8/section/16/2)); [S.I. 1998/1658](https://www.legislation.gov.uk/uksi/1998/1658), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/1658/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1998/1658/schedule/1)
 
-[^key-bb474b63a9b5820684344ce84722b0bc]: Textual amendment: Words in s. 49(1) substituted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 129(3)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/3/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/b)
+[^c-bb474b63a9b5820684344ce84722b0bc]: Textual amendment: Words in s. 49(1) substituted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 129(3)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/3/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/b)
 
-[^key-383aed45c370a32840ebafd0a5a3c3aa]: Textual amendment: Word in [s. 49(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/49/1) inserted (31.5.2021) by [The Employment Rights Act 1996 (Protection from Detriment in Health and Safety Cases) (Amendment) Order 2021 (S.I. 2021/618)](https://www.legislation.gov.uk/uksi/2021/618), [arts. 1](https://www.legislation.gov.uk/uksi/2021/618/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/618/article/5/a)
+[^c-383aed45c370a32840ebafd0a5a3c3aa]: Textual amendment: Word in [s. 49(1)](https://www.legislation.gov.uk/ukpga/1996/18/section/49/1) inserted (31.5.2021) by [The Employment Rights Act 1996 (Protection from Detriment in Health and Safety Cases) (Amendment) Order 2021 (S.I. 2021/618)](https://www.legislation.gov.uk/uksi/2021/618), [arts. 1](https://www.legislation.gov.uk/uksi/2021/618/article/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/618/article/5/a)
 
-[^key-0893514e5f3d1e0db88d5483851d4108]: Textual amendment: S. 49(1A) inserted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 129(3)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/3/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/b)
+[^c-0893514e5f3d1e0db88d5483851d4108]: Textual amendment: S. 49(1A) inserted (1.10.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 129(3)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/129/3/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/1640/article/4/b)
 
-[^key-6ea37b25cd1a7f824ec2baa3df0407b5]: Textual amendment: Word in [s. 49(2)](https://www.legislation.gov.uk/ukpga/1996/18/section/49/2) inserted (31.5.2021) by [The Employment Rights Act 1996 (Protection from Detriment in Health and Safety Cases) (Amendment) Order 2021 (S.I. 2021/618)](https://www.legislation.gov.uk/uksi/2021/618), [arts. 1](https://www.legislation.gov.uk/uksi/2021/618/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/618/article/5/b)
+[^c-6ea37b25cd1a7f824ec2baa3df0407b5]: Textual amendment: Word in [s. 49(2)](https://www.legislation.gov.uk/ukpga/1996/18/section/49/2) inserted (31.5.2021) by [The Employment Rights Act 1996 (Protection from Detriment in Health and Safety Cases) (Amendment) Order 2021 (S.I. 2021/618)](https://www.legislation.gov.uk/uksi/2021/618), [arts. 1](https://www.legislation.gov.uk/uksi/2021/618/article/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/618/article/5/b)
 
-[^key-f866dd5ac03124665323eee646aec45c]: Textual amendment: [S. 49(5ZA)](https://www.legislation.gov.uk/ukpga/1996/18/section/49/5ZA) inserted (31.5.2021) by [The Employment Rights Act 1996 (Protection from Detriment in Health and Safety Cases) (Amendment) Order 2021 (S.I. 2021/618)](https://www.legislation.gov.uk/uksi/2021/618), [arts. 1](https://www.legislation.gov.uk/uksi/2021/618/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2021/618/article/5/c)
+[^c-f866dd5ac03124665323eee646aec45c]: Textual amendment: [S. 49(5ZA)](https://www.legislation.gov.uk/ukpga/1996/18/section/49/5ZA) inserted (31.5.2021) by [The Employment Rights Act 1996 (Protection from Detriment in Health and Safety Cases) (Amendment) Order 2021 (S.I. 2021/618)](https://www.legislation.gov.uk/uksi/2021/618), [arts. 1](https://www.legislation.gov.uk/uksi/2021/618/article/1), [5(c)](https://www.legislation.gov.uk/uksi/2021/618/article/5/c)
 
 [^c16326151]: Textual amendment: S. 49(5A) inserted (1.10.1998) by [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833), [reg. 31(3)(b)](https://www.legislation.gov.uk/uksi/1998/1833/regulation/31/3/b)
 
 [^c16326161]: Textual amendment: S. 49(6) inserted (2.7.1999) by [1998 c. 23](https://www.legislation.gov.uk/ukpga/1998/23), [s. 4(3)](https://www.legislation.gov.uk/ukpga/1998/23/section/4/3); [S.I. 1999/1547](https://www.legislation.gov.uk/uksi/1999/1547), [art. 2](https://www.legislation.gov.uk/uksi/1999/1547/article/2)
 
-[^key-97e456a5aa9d8add6c08902aaf644ccc]: Textual amendment: S. 49(6A) inserted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/4), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
+[^c-97e456a5aa9d8add6c08902aaf644ccc]: Textual amendment: S. 49(6A) inserted (25.6.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2013/24/section/18/4), [103(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/2) (with [s. 24(6)](https://www.legislation.gov.uk/ukpga/2013/24/section/24/6))
 
 [^c16730511]: Textual amendment: S. 49(7) inserted (1.9.2002 for certain purposes, otherwise prosp.) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 27](https://www.legislation.gov.uk/ukpga/2002/21/section/27), [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/ukpga/2002/21/schedule/1/paragraph/1/4); [S.I. 2002/1727](https://www.legislation.gov.uk/uksi/2002/1727), [art. 2](https://www.legislation.gov.uk/uksi/2002/1727/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Automated registration[^key-f24dad99ad5e03194df3e989dc5342fd]
+## 99. Automated registration[^c-f24dad99ad5e03194df3e989dc5342fd]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f24dad99ad5e03194df3e989dc5342fd]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2012/5/section/99) in force at 22.3.2014 by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/1)
+[^c-f24dad99ad5e03194df3e989dc5342fd]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2012/5/section/99) in force at 22.3.2014 by [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41), [art. 2](https://www.legislation.gov.uk/ssi/2014/41/article/2), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/1)

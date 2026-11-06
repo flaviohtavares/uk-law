@@ -41,7 +41,7 @@ summary: ''
 
 (4) Regulations under paragraph (2)(d) may—
 
-- (a) make provision as to the circumstances in which the Department[^key-d93d7e9985b3c98a98060976f470925c] may impose a variation of contract terms;
+- (a) make provision as to the circumstances in which the Department[^c-d93d7e9985b3c98a98060976f470925c] may impose a variation of contract terms;
 - (b) make provision suspending or terminating any duty under the contract to provide services of a prescribed description.
 
 (5) Regulations making provision of the kind described in paragraph (4)(b) may prescribe services by reference to the manner or circumstances in which they are provided.
@@ -52,4 +52,4 @@ summary: ''
 
 [^c17172121]: Textual amendment: [2004 NI 2](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-d93d7e9985b3c98a98060976f470925c]: Textual amendment: Words in [art. 57E(4)(a)](https://www.legislation.gov.uk/nisi/1972/1265/article/57E/4/a) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 26](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/26); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d93d7e9985b3c98a98060976f470925c]: Textual amendment: Words in [art. 57E(4)(a)](https://www.legislation.gov.uk/nisi/1972/1265/article/57E/4/a) substituted (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 26](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/26); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

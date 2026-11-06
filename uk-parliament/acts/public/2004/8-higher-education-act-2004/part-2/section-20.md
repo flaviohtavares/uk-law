@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Exclusion of visitor’s jurisdiction in relation to student complaints[^key-cd24c0db60953adcdf62489505c3274d][^key-1d5139f5b59ee5ea2d991cca7c62a62c]
+## 20. Exclusion of visitor’s jurisdiction in relation to student complaints[^c-cd24c0db60953adcdf62489505c3274d][^c-1d5139f5b59ee5ea2d991cca7c62a62c]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd24c0db60953adcdf62489505c3274d]: Commencement: S. 20 in force for E. at 1.1.2005 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/2781/article/5))
+[^c-cd24c0db60953adcdf62489505c3274d]: Commencement: S. 20 in force for E. at 1.1.2005 by [S.I. 2004/2781](https://www.legislation.gov.uk/uksi/2004/2781), [art. 4](https://www.legislation.gov.uk/uksi/2004/2781/article/4) (with [art. 5](https://www.legislation.gov.uk/uksi/2004/2781/article/5))
 
-[^key-1d5139f5b59ee5ea2d991cca7c62a62c]: Commencement: S. 20 in force for W. at 1.1.2005 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/3144/article/6))
+[^c-1d5139f5b59ee5ea2d991cca7c62a62c]: Commencement: S. 20 in force for W. at 1.1.2005 by [S.I. 2004/3144](https://www.legislation.gov.uk/uksi/2004/3144), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/3144/schedule/part/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2004/3144/article/6))

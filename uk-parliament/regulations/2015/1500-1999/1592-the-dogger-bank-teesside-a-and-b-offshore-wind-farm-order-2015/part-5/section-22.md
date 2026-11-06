@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Compulsory acquisition of land[^key-4b8f1fb60fdead39ba4ea4e4f0d25f91]
+## 22. Compulsory acquisition of land[^c-4b8f1fb60fdead39ba4ea4e4f0d25f91]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b8f1fb60fdead39ba4ea4e4f0d25f91]: Commencement: Art. 22 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-4b8f1fb60fdead39ba4ea4e4f0d25f91]: Commencement: Art. 22 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)

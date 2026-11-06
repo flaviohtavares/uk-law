@@ -35,7 +35,7 @@ In this Part—
 - “facsimile copy” includes a copy which is reduced or enlarged in scale;
 - “**international organisation**” means an organisation the members of which include one or more states;
 - “judicial proceedings”includes proceedings before any court, tribunal or person having authority to decide any matter affecting a person’s legal rights or liabilities;
-- “national of the United Kingdom” means—[^key-f65a2431986f04e7e4cc0886aed96839]
+- “national of the United Kingdom” means—[^c-f65a2431986f04e7e4cc0886aed96839]
   - (a) a British citizen, a British overseas territories citizen, a British National (Overseas) or a British Overseas Citizen,
   - (b) a person who under the British Nationality Act 1981 is a British subject,
   - (c) a British protected person within the meaning of that Act, or
@@ -81,7 +81,7 @@ In this Part—
 
 [^c19454441]: Textual amendment: S. 178: words in definition of "the Crown" inserted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 160(1)](https://www.legislation.gov.uk/ukpga/2006/32/section/160/1), [Sch. 10 para. 29(2)](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/29/2) (with [Sch. 11 para. 22](https://www.legislation.gov.uk/ukpga/2006/32/schedule/11/paragraph/22)), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act.
 
-[^key-f65a2431986f04e7e4cc0886aed96839]: Textual amendment: Words in s. 178 inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2019/605/regulation/19) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-f65a2431986f04e7e4cc0886aed96839]: Textual amendment: Words in s. 178 inserted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2019/605/regulation/19) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), regs. 1(2), 4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
 
 [^c13758091]: Textual amendment: Words in s. 178 inserted (6.5.1999) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 125(1)](https://www.legislation.gov.uk/ukpga/1998/46/section/125/1), [Sch. 8 para. 25(7)(b)](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8/paragraph/25/7/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2(2)](https://www.legislation.gov.uk/uksi/1998/3178/article/2/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1998/3178/schedule/3)
 

@@ -64,7 +64,7 @@ and if there are, or it is intended that there will be, such arrangements in for
   - (b) a maximum revenue which may be received by the company, or a method for calculating such a maximum revenue,
 
   is determined by or under the licence granted under this Part;
-- “company” means a company (as defined in section 1(1) of the Companies Act 2006) that—[^key-84e6ff074d62ebeb79c2c8ebaf84b22c]
+- “company” means a company (as defined in section 1(1) of the Companies Act 2006) that—[^c-84e6ff074d62ebeb79c2c8ebaf84b22c]
   - (a) is limited by shares, and
   - (b) has its registered office in Great Britain.
 - “remuneration” in relation to a director of a company—
@@ -80,4 +80,4 @@ and if there are, or it is intended that there will be, such arrangements in for
 
 [^c14424801]: Textual amendment: S. 33F and cross heading inserted (1.10.2001) by [2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27), [s. 97](https://www.legislation.gov.uk/ukpga/2000/27/section/97); [S.I. 2001/3266](https://www.legislation.gov.uk/uksi/2001/3266), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2001/3266/article/1/2), [2](https://www.legislation.gov.uk/uksi/2001/3266/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2001/3266/schedule) (subject to transitional provisions in [arts. 3-20](https://www.legislation.gov.uk/uksi/2001/3266/article/3))
 
-[^key-84e6ff074d62ebeb79c2c8ebaf84b22c]: Textual amendment: Words in s. 33F(10) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/70/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-84e6ff074d62ebeb79c2c8ebaf84b22c]: Textual amendment: Words in s. 33F(10) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 70(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/70/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

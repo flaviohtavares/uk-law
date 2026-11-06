@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Investigation[^key-618347c7cdd3ad14ab94566979611b98]
+## 16. Investigation[^c-618347c7cdd3ad14ab94566979611b98]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-618347c7cdd3ad14ab94566979611b98]: Commencement: Reg. 16 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-618347c7cdd3ad14ab94566979611b98]: Commencement: Reg. 16 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 259. Insolvency practitioner’s security[^key-9aa4cce95c8d564500461c5edd2c080c]
+## 259. Insolvency practitioner’s security[^c-9aa4cce95c8d564500461c5edd2c080c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9aa4cce95c8d564500461c5edd2c080c]: Commencement: Rule 259 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-9aa4cce95c8d564500461c5edd2c080c]: Commencement: Rule 259 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

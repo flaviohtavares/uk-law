@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Designation of special areas of conservation[^key-eaba7516ba4bf35e0e9bc2b993402cc7]
+## 11. Designation of special areas of conservation[^c-eaba7516ba4bf35e0e9bc2b993402cc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaba7516ba4bf35e0e9bc2b993402cc7]: Textual amendment: [Regs. 9-11](https://www.legislation.gov.uk/uksi/2017/1013/regulation/9) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [38](https://www.legislation.gov.uk/uksi/2019/579/regulation/38); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eaba7516ba4bf35e0e9bc2b993402cc7]: Textual amendment: [Regs. 9-11](https://www.legislation.gov.uk/uksi/2017/1013/regulation/9) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [38](https://www.legislation.gov.uk/uksi/2019/579/regulation/38); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

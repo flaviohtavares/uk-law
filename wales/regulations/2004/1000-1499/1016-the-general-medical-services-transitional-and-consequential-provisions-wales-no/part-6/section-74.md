@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Determination of a Local Health Board made on or after the relevant date (regulation 8 of the Service Committees Regulations)[^key-bb3af6f7268d68cd6d44efe084e132d5]
+## 74. Determination of a Local Health Board made on or after the relevant date (regulation 8 of the Service Committees Regulations)[^c-bb3af6f7268d68cd6d44efe084e132d5]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ it shall consider what (if any) action it should take in respect of that doctor 
 
 ## Annotations
 
-[^key-bb3af6f7268d68cd6d44efe084e132d5]: Commencement: Art. 74 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-bb3af6f7268d68cd6d44efe084e132d5]: Commencement: Art. 74 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

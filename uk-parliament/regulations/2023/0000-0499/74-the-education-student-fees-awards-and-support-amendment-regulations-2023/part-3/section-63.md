@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^key-ddff1cffb4c6fe54691f38ee4919e2be]
+## 63. Amendments relating to family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^c-ddff1cffb4c6fe54691f38ee4919e2be]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ In regulation 4(2C) (as inserted by regulation 62 of these Regulations)—
 - (a) in sub-paragraph (f), after “the person” insert “or the person’s spouse, civil partner or parent”;
 - (b) in sub-paragraph (g), after “the person” insert “or the person’s spouse, civil partner or parent”.
 
-**64.**[^key-b57fab75bb21562d9e7346486b65331e] (1) Schedule 1 (eligible students) (as amended by regulations 59 and 60(9) of these Regulations) is amended as follows.
+**64.**[^c-b57fab75bb21562d9e7346486b65331e] (1) Schedule 1 (eligible students) (as amended by regulations 59 and 60(9) of these Regulations) is amended as follows.
 
 (2) In paragraph 1(1)—
 
@@ -103,8 +103,8 @@ In regulation 4(2C) (as inserted by regulation 62 of these Regulations)—
 
 ## Annotations
 
-[^key-ddff1cffb4c6fe54691f38ee4919e2be]: Commencement: Reg. 63 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-ddff1cffb4c6fe54691f38ee4919e2be]: Commencement: Reg. 63 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-b57fab75bb21562d9e7346486b65331e]: Commencement: Reg. 64 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-b57fab75bb21562d9e7346486b65331e]: Commencement: Reg. 64 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00056]: Footnote: Paragraph 5C was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

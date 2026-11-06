@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-Oil and Fibre Plant Seeds (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-b337f7622d97b9bea83661e6866ad7ab]
+Oil and Fibre Plant Seeds (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-b337f7622d97b9bea83661e6866ad7ab]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 1st September 2003
 
-[^key-b337f7622d97b9bea83661e6866ad7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b337f7622d97b9bea83661e6866ad7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b337f7622d97b9bea83661e6866ad7ab]
+## 1. Citation and commencement[^c-b337f7622d97b9bea83661e6866ad7ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Oil and Fibre Plant Seeds Regulations (Northern Ireland) 1994[^key-b337f7622d97b9bea83661e6866ad7ab]
+## 2. Amendment of the Oil and Fibre Plant Seeds Regulations (Northern Ireland) 1994[^c-b337f7622d97b9bea83661e6866ad7ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b337f7622d97b9bea83661e6866ad7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b337f7622d97b9bea83661e6866ad7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b337f7622d97b9bea83661e6866ad7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b337f7622d97b9bea83661e6866ad7ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b337f7622d97b9bea83661e6866ad7ab]: Textual amendment: Regulations revoked (31.12.2009) by [The Oil and Fibre Plant Seeds Regulations (Northern Ireland) 2009 (S.R. 2009/386)](https://www.legislation.gov.uk/nisr/2009/386), [regs. 1](https://www.legislation.gov.uk/nisr/2009/386/regulation/1), [32(1)(e)](https://www.legislation.gov.uk/nisr/2009/386/regulation/32) (with [reg. 32(3)](https://www.legislation.gov.uk/nisr/2009/386/regulation/32))
+[^c-b337f7622d97b9bea83661e6866ad7ab]: Textual amendment: Regulations revoked (31.12.2009) by [The Oil and Fibre Plant Seeds Regulations (Northern Ireland) 2009 (S.R. 2009/386)](https://www.legislation.gov.uk/nisr/2009/386), [regs. 1](https://www.legislation.gov.uk/nisr/2009/386/regulation/1), [32(1)(e)](https://www.legislation.gov.uk/nisr/2009/386/regulation/32) (with [reg. 32(3)](https://www.legislation.gov.uk/nisr/2009/386/regulation/32))

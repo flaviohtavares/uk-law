@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 70. Privy Council procedures etc.[^key-0c34a2cc48dbf860375b3d52c0d1ba04][^key-35ebc5d2f4f4e079f45f4a36d8b86434]
+## 70. Privy Council procedures etc.[^c-0c34a2cc48dbf860375b3d52c0d1ba04][^c-35ebc5d2f4f4e079f45f4a36d8b86434]
 
 *Extent: E+W+S*
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0c34a2cc48dbf860375b3d52c0d1ba04]: Commencement: Art. 70 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-0c34a2cc48dbf860375b3d52c0d1ba04]: Commencement: Art. 70 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-35ebc5d2f4f4e079f45f4a36d8b86434]: Commencement: Art. 70 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
+[^c-35ebc5d2f4f4e079f45f4a36d8b86434]: Commencement: Art. 70 in force at 11.2.2010 in so far as not already in force, see [art. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/231/article/1/2/c)
 
 [^f00056]: Footnote: [1946 c.36](https://www.legislation.gov.uk/ukpga/1946/36). Section 1(1A) was inserted by paragraph 2 of Schedule 12 to the Government of Wales Act [1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38) and substituted by paragraph 2 of Schedule 10 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Places in which marriages may be solemnized by common licence.[^key-5eaf46b4816a711c0d9cc5976030e6fa][^key-ce24e6a84f1862417cc914a4cea00a19]
+## 15. Places in which marriages may be solemnized by common licence.[^c-5eaf46b4816a711c0d9cc5976030e6fa][^c-ce24e6a84f1862417cc914a4cea00a19]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5eaf46b4816a711c0d9cc5976030e6fa]: Modification: S. 15 excluded (E.) (1.10.2008) by [Church of England Marriage Measure 2008 (No. 1)](https://www.legislation.gov.uk/ukcm/2008/1), [ss. 2(1)](https://www.legislation.gov.uk/ukcm/2008/1/section/2/1), [5(2)](https://www.legislation.gov.uk/ukcm/2008/1/section/5/2); [2008 No. 2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
+[^c-5eaf46b4816a711c0d9cc5976030e6fa]: Modification: S. 15 excluded (E.) (1.10.2008) by [Church of England Marriage Measure 2008 (No. 1)](https://www.legislation.gov.uk/ukcm/2008/1), [ss. 2(1)](https://www.legislation.gov.uk/ukcm/2008/1/section/2/1), [5(2)](https://www.legislation.gov.uk/ukcm/2008/1/section/5/2); [2008 No. 2](https://www.legislation.gov.uk/ukci/2008/2), Instrument made by Archbishops
 
-[^key-ce24e6a84f1862417cc914a4cea00a19]: Modification: S. 15 excluded (18.3.2010) by [Marriage (Wales) Act 2010 (c. 6)](https://www.legislation.gov.uk/ukpga/2010/6), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2010/6/section/3/1), [6(2)](https://www.legislation.gov.uk/ukpga/2010/6/section/6/2) (with [s. 1](https://www.legislation.gov.uk/ukpga/2010/6/section/1))
+[^c-ce24e6a84f1862417cc914a4cea00a19]: Modification: S. 15 excluded (18.3.2010) by [Marriage (Wales) Act 2010 (c. 6)](https://www.legislation.gov.uk/ukpga/2010/6), [ss. 3(1)](https://www.legislation.gov.uk/ukpga/2010/6/section/3/1), [6(2)](https://www.legislation.gov.uk/ukpga/2010/6/section/6/2) (with [s. 1](https://www.legislation.gov.uk/ukpga/2010/6/section/1))

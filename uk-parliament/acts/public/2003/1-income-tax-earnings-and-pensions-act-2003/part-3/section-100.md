@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-In section 102 (benefit of accommodation treated as earnings) subsection (1A) (accommodation provided otherwise than pursuant to optional remuneration arrangements)[^key-424b424e148398748b99148973f2640d] does not apply to living accommodation provided for an employee if—
+In section 102 (benefit of accommodation treated as earnings) subsection (1A) (accommodation provided otherwise than pursuant to optional remuneration arrangements)[^c-424b424e148398748b99148973f2640d] does not apply to living accommodation provided for an employee if—
 
 - (a) there is a special threat to the security of the employee,
 - (b) special security arrangements are in force, and
@@ -28,4 +28,4 @@ In section 102 (benefit of accommodation treated as earnings) subsection (1A) (a
 
 ## Annotations
 
-[^key-424b424e148398748b99148973f2640d]: Textual amendment: Words in [s. 100](https://www.legislation.gov.uk/ukpga/2003/1/section/100) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/10)
+[^c-424b424e148398748b99148973f2640d]: Textual amendment: Words in [s. 100](https://www.legislation.gov.uk/ukpga/2003/1/section/100) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 10](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/10)

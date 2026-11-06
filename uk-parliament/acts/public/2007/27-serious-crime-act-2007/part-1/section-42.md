@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Interpretation: Part 1[^key-7f69d9c5f13948ca52a446b898b1e926]
+## 42. Interpretation: Part 1[^c-7f69d9c5f13948ca52a446b898b1e926]
 
 *Extent: E+W+N.I.*
 
@@ -29,4 +29,4 @@ In this Part—
 
 ## Annotations
 
-[^key-7f69d9c5f13948ca52a446b898b1e926]: Commencement: S. 42 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(k)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/k)
+[^c-7f69d9c5f13948ca52a446b898b1e926]: Commencement: S. 42 in force at 6.4.2008 by [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 15(1)(k)](https://www.legislation.gov.uk/uksi/2008/755/article/15/1/k)

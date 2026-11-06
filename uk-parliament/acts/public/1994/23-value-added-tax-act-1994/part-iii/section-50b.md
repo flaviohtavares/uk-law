@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50B. Margin schemes and export or removal of goods[^key-56ff95eb8ce267d68a124e3fa239dead]
+## 50B. Margin schemes and export or removal of goods[^c-56ff95eb8ce267d68a124e3fa239dead]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 - (b) that the goods were not removed to Northern Ireland or exported (and VAT was charged on the supply of the goods to the person on that basis), and
 - (c) that the person resold the goods in Great Britain at the relevant time in the course of carrying on the business.
 
-(4)[^key-e1aadf5bfb69d81420fd583ac5dcc337] “VAT-related payment”, in respect of a supply of goods, means a payment of an amount equal to so much of the consideration for the supply as would have constituted VAT if—
+(4)[^c-e1aadf5bfb69d81420fd583ac5dcc337] “VAT-related payment”, in respect of a supply of goods, means a payment of an amount equal to so much of the consideration for the supply as would have constituted VAT if—
 
 - (a) the supply had taken place at the relevant time, and
 - (b) VAT had been chargeable on the value of the supply,
@@ -70,6 +70,6 @@ subject to any provision made in reliance on subsection (5).
 
 ## Annotations
 
-[^key-56ff95eb8ce267d68a124e3fa239dead]: Textual amendment: [S. 50B](https://www.legislation.gov.uk/ukpga/1994/23/section/50B) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 70](https://www.legislation.gov.uk/ukpga/2022/3/section/70)
+[^c-56ff95eb8ce267d68a124e3fa239dead]: Textual amendment: [S. 50B](https://www.legislation.gov.uk/ukpga/1994/23/section/50B) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 70](https://www.legislation.gov.uk/ukpga/2022/3/section/70)
 
-[^key-e1aadf5bfb69d81420fd583ac5dcc337]: Modification: [S. 50B(4)](https://www.legislation.gov.uk/ukpga/1994/23/section/50B/4) applied (1.5.2023) by [The Value Added Tax (Margin Schemes and Removal or Export of Goods: VAT-related Payments) Order 2023 (S.I. 2023/68)](https://www.legislation.gov.uk/uksi/2023/68), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2023/68/article/5/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/68/article/1/2))
+[^c-e1aadf5bfb69d81420fd583ac5dcc337]: Modification: [S. 50B(4)](https://www.legislation.gov.uk/ukpga/1994/23/section/50B/4) applied (1.5.2023) by [The Value Added Tax (Margin Schemes and Removal or Export of Goods: VAT-related Payments) Order 2023 (S.I. 2023/68)](https://www.legislation.gov.uk/uksi/2023/68), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2023/68/article/5/1) (with [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/68/article/1/2))

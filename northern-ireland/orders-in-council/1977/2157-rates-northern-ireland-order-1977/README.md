@@ -27,7 +27,7 @@ summary: ''
 
 1977 No. 2157 (N.I. 28)
 
-Rates (Northern Ireland) Order 1977 [^c16882731][^key-48e4452d9c54457807a3df09a3cc2432]
+Rates (Northern Ireland) Order 1977 [^c16882731][^c-48e4452d9c54457807a3df09a3cc2432]
 
 \[21st December 1977\] [^c20399371][^c22529361]
 
@@ -226,7 +226,7 @@ SCHEDULES
 
 [^c16882731]: Textual amendment: functions transf. SR 1999/481
 
-[^key-48e4452d9c54457807a3df09a3cc2432]: Modification: [Order](https://www.legislation.gov.uk/nisi/1977/2157) modified (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2022/48/section/11/5), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
+[^c-48e4452d9c54457807a3df09a3cc2432]: Modification: [Order](https://www.legislation.gov.uk/nisi/1977/2157) modified (6.12.2022) by [Northern Ireland (Executive Formation etc) Act 2022 (c. 48)](https://www.legislation.gov.uk/ukpga/2022/48), [ss. 11(5)](https://www.legislation.gov.uk/ukpga/2022/48/section/11/5), [14(2)](https://www.legislation.gov.uk/ukpga/2022/48/section/14/2)
 
 [^c20399371]: Modification: Order applied (with modifications) (1.4.2006) by [Rates (Capital Values, etc.) (Northern Ireland) Order 2006 (S.I. 2006/611 (N.I. 4))](https://www.legislation.gov.uk/nisi/2006/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2006/611/article/1/3), [3(3)](https://www.legislation.gov.uk/nisi/2006/611/article/3/3), [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisi/2006/611/schedule/1/paragraph/1/3); [S.R. 2006/146](https://www.legislation.gov.uk/nisr/2006/146), [art. 2](https://www.legislation.gov.uk/nisr/2006/146/article/2)
 

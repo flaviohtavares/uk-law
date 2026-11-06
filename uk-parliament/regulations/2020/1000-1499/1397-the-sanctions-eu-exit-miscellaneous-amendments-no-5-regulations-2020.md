@@ -44,15 +44,15 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-The Secretary of State [^c24357841], in exercise of the powers conferred by sections 1 and 45 of the Sanctions and Anti-Money Laundering Act 2018 [^c24357851], considers that the requirements of section 45(2) of the Act are satisfied and, having decided upon consideration of the matters set out in section 56(1) of the Act that it is appropriate to do so, makes the following Regulations:[^key-cb2f719deba167046025dc4b7e9b84f6]
+The Secretary of State [^c24357841], in exercise of the powers conferred by sections 1 and 45 of the Sanctions and Anti-Money Laundering Act 2018 [^c24357851], considers that the requirements of section 45(2) of the Act are satisfied and, having decided upon consideration of the matters set out in section 56(1) of the Act that it is appropriate to do so, makes the following Regulations:[^c-cb2f719deba167046025dc4b7e9b84f6]
 
-## 1. Citation and commencement[^key-b11be3b12eaf588bd2b3f261ff99f9d4]
+## 1. Citation and commencement[^c-b11be3b12eaf588bd2b3f261ff99f9d4]
 
 (1) These Regulations may be cited as the Sanctions (EU Exit) (Miscellaneous Amendments) (No. 5) Regulations 2020.
 
 (2) These Regulations come into force in accordance with regulations made by the Secretary of State under section 56 of the Sanctions and Anti-Money Laundering Act 2018.
 
-## 2. Amendment of the Mali (Sanctions) (EU Exit) Regulations 2020[^key-69b81574b5388e80f2eb56d562ca37a8]
+## 2. Amendment of the Mali (Sanctions) (EU Exit) Regulations 2020[^c-69b81574b5388e80f2eb56d562ca37a8]
 
 (1) The Mali (Sanctions) (EU Exit) Regulations 2020 [^c24357861] are amended as follows.
 
@@ -61,7 +61,7 @@ The Secretary of State [^c24357841], in exercise of the powers conferred by sect
 - (a) in paragraph (3)(g)(iii), for “military goods or military technology” substitute “ arms or material related to arms ”;
 - (b) omit paragraph (7).
 
-## 3. Amendment of the Afghanistan (Sanctions) (EU Exit) Regulations 2020[^key-2e0c9d02152d042d8018c89a528779cf]
+## 3. Amendment of the Afghanistan (Sanctions) (EU Exit) Regulations 2020[^c-2e0c9d02152d042d8018c89a528779cf]
 
 (1) The Afghanistan (Sanctions) (EU Exit) Regulations 2020 [^c24357871] are amended as follows.
 
@@ -96,14 +96,14 @@ https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attac
 
 [^c24357851]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-cb2f719deba167046025dc4b7e9b84f6]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after [S.I. 2020/1397](https://www.legislation.gov.uk/uksi/2020/1397) has come into force) by [The Mali (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1591)](https://www.legislation.gov.uk/uksi/2020/1591), [art. 2](https://www.legislation.gov.uk/uksi/2020/1591/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1591/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1591/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
+[^c-cb2f719deba167046025dc4b7e9b84f6]: Modification: Regulations extended (British overseas territories) (with modifications) (31.12.2020 immediately after [S.I. 2020/1397](https://www.legislation.gov.uk/uksi/2020/1397) has come into force) by [The Mali (Sanctions) (Overseas Territories) Order 2020 (S.I. 2020/1591)](https://www.legislation.gov.uk/uksi/2020/1591), [art. 2](https://www.legislation.gov.uk/uksi/2020/1591/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2020/1591/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/1591/schedule/2); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
 
-[^key-b11be3b12eaf588bd2b3f261ff99f9d4]: Commencement: Reg. 1 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
+[^c-b11be3b12eaf588bd2b3f261ff99f9d4]: Commencement: Reg. 1 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
 
-[^key-69b81574b5388e80f2eb56d562ca37a8]: Commencement: Reg. 2 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
+[^c-69b81574b5388e80f2eb56d562ca37a8]: Commencement: Reg. 2 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
 
 [^c24357861]: Marginal citation: [S.I. 2020/705](https://www.legislation.gov.uk/uksi/2020/705).
 
-[^key-2e0c9d02152d042d8018c89a528779cf]: Commencement: Reg. 3 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
+[^c-2e0c9d02152d042d8018c89a528779cf]: Commencement: Reg. 3 in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 22](https://www.legislation.gov.uk/uksi/2020/1514/regulation/22)
 
 [^c24357871]: Marginal citation: [S.I. 2020/948](https://www.legislation.gov.uk/uksi/2020/948).

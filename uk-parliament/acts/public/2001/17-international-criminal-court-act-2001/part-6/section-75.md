@@ -23,7 +23,7 @@ summary: ''
 In this Act—
 
 - “**national court**” means a court in the United Kingdom or a service court; and
-- “[^key-20b5fc5de3fb12616108f2ab23140484] **service court** ” means—
+- “[^c-20b5fc5de3fb12616108f2ab23140484] **service court** ” means—
   - the Court Martial;
   - the Service Civilian Court;
   - the Court Martial Appeal Court; or
@@ -31,4 +31,4 @@ In this Act—
 
 ## Annotations
 
-[^key-20b5fc5de3fb12616108f2ab23140484]: Textual amendment: Words in s. 75 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 190](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/190); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-20b5fc5de3fb12616108f2ab23140484]: Textual amendment: Words in s. 75 substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 190](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/190); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 15 — Regulations Revoked[^key-6fe2f40de36a3d10c2a08748cb290c10]
+## SCHEDULE 15 — Regulations Revoked[^c-6fe2f40de36a3d10c2a08748cb290c10]
 
 *Extent: N.I.*
 
@@ -74,4 +74,4 @@ Regulation 44(2)
 
 ## Annotations
 
-[^key-6fe2f40de36a3d10c2a08748cb290c10]: Commencement: Sch. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-6fe2f40de36a3d10c2a08748cb290c10]: Commencement: Sch. 15 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

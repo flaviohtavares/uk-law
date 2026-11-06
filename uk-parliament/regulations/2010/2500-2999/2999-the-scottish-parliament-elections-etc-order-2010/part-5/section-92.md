@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Interference with notices etc.[^key-ed146433fa0678a75df61f1541d7258d]
+## 92. Interference with notices etc.[^c-ed146433fa0678a75df61f1541d7258d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If any person without lawful authority destroys, mutilates, defaces or removes a
 
 ## Annotations
 
-[^key-ed146433fa0678a75df61f1541d7258d]: Commencement: Art. 92 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-ed146433fa0678a75df61f1541d7258d]: Commencement: Art. 92 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

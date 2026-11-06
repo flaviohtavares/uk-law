@@ -26,7 +26,7 @@ summary: ''
 
 1972 No. 1999 (N.I. 22)
 
-Local Government &c. (Northern Ireland) Order 1972[^key-6efcd20181624752fcb97f0626d8338e]
+Local Government &c. (Northern Ireland) Order 1972[^c-6efcd20181624752fcb97f0626d8338e]
 
 \[20th December 1972\]
 
@@ -69,7 +69,7 @@ Local Government &c. (Northern Ireland) Order 1972[^key-6efcd20181624752fcb97f06
 
 ## Annotations
 
-[^key-6efcd20181624752fcb97f0626d8338e]: Modification: [Order](https://www.legislation.gov.uk/nisi/1972/1999): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6efcd20181624752fcb97f0626d8338e]: Modification: [Order](https://www.legislation.gov.uk/nisi/1972/1999): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00001]: Marginal citation: 1954 c.33
 

@@ -22,7 +22,7 @@ summary: ''
 
 (1) Regulations may provide that a commonhold association shall be a member of an approved ombudsman scheme.
 
-(2) An “**approved ombudsman scheme**” is a scheme which is approved by the Secretary of State[^key-4a9d247af1feaf352fdf56877733051d] and which—
+(2) An “**approved ombudsman scheme**” is a scheme which is approved by the Secretary of State[^c-4a9d247af1feaf352fdf56877733051d] and which—
 
 - (a) provides for the appointment of one or more persons as ombudsman,
 - (b) provides for a person to be appointed as ombudsman only if the Secretary of State approves the appointment in advance,
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a9d247af1feaf352fdf56877733051d]: Textual amendment: Words in [s. 42(2)](https://www.legislation.gov.uk/ukpga/2002/15/section/42/2) substituted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/10/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))
+[^c-4a9d247af1feaf352fdf56877733051d]: Textual amendment: Words in [s. 42(2)](https://www.legislation.gov.uk/ukpga/2002/15/section/42/2) substituted (11.4.2018) by [The Secretaries of State for Health and Social Care and for Housing, Communities and Local Government and Transfer of Functions (Commonhold Land) Order 2018 (S.I. 2018/378)](https://www.legislation.gov.uk/uksi/2018/378), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/378/article/1/2), [Sch. para. 10(a)](https://www.legislation.gov.uk/uksi/2018/378/schedule/paragraph/10/a) (with [art. 14](https://www.legislation.gov.uk/uksi/2018/378/article/14))

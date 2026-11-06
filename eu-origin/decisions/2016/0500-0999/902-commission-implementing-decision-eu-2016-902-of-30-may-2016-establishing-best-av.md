@@ -63,7 +63,7 @@ HAS ADOPTED THIS DECISION:
 
 **Article 1.** The best available techniques (BAT) conclusions for common waste water and waste gas treatment/management systems in the chemical sector, as set out in the Annex, are adopted.
 
-**Article 2.**[^key-14c60cb6f2fcc27ec75f11dfcf75f168] Application and Interpretation
+**Article 2.**[^c-14c60cb6f2fcc27ec75f11dfcf75f168] Application and Interpretation
 
 (1.) The BAT conclusions referred to in Article 1 apply in the United Kingdom.
 
@@ -718,7 +718,7 @@ In order to prevent or, where that is not practicable, to reduce noise emissions
 
 [^f00002]: Footnote: [OJ C 146, 17.5.2011, p. 3](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2011.146.01.0003.01.ENG).
 
-[^key-14c60cb6f2fcc27ec75f11dfcf75f168]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2016/902/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-14c60cb6f2fcc27ec75f11dfcf75f168]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2016/902/article/2) substituted (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [17(2)](https://www.legislation.gov.uk/uksi/2018/1407/regulation/17/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Monitoring frequencies may be adapted if the data series clearly demonstrate a sufficient stability.
 

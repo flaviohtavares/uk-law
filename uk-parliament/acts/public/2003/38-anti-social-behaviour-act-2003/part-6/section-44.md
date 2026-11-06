@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Meaning of relevant offence[^key-5582943d33277979f9ee84409ad655af][^key-2c0a33bd462bc4f3231e9f78d4c4572d]
+## 44. Meaning of relevant offence[^c-5582943d33277979f9ee84409ad655af][^c-2c0a33bd462bc4f3231e9f78d4c4572d]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5582943d33277979f9ee84409ad655af]: Commencement: S. 44 in force at 31.3.2004 for E. by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/690/article/3/e)
+[^c-5582943d33277979f9ee84409ad655af]: Commencement: S. 44 in force at 31.3.2004 for E. by [S.I. 2004/690](https://www.legislation.gov.uk/uksi/2004/690), [art. 3(e)](https://www.legislation.gov.uk/uksi/2004/690/article/3/e)
 
-[^key-2c0a33bd462bc4f3231e9f78d4c4572d]: Commencement: S. 44 in force at 31.3.2004 for W. by [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/999/article/2/e)
+[^c-2c0a33bd462bc4f3231e9f78d4c4572d]: Commencement: S. 44 in force at 31.3.2004 for W. by [S.I. 2004/999](https://www.legislation.gov.uk/uksi/2004/999), [art. 2(e)](https://www.legislation.gov.uk/uksi/2004/999/article/2/e)

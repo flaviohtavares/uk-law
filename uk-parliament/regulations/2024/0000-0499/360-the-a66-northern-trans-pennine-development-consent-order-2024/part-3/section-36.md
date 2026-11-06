@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Relocation of Brough Hill Fair[^key-0b8d33c3ca353d080df0757293b6aeef]
+## 36. Relocation of Brough Hill Fair[^c-0b8d33c3ca353d080df0757293b6aeef]
 
 *Extent: E+W*
 
@@ -73,4 +73,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b8d33c3ca353d080df0757293b6aeef]: Commencement: Art. 36 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-0b8d33c3ca353d080df0757293b6aeef]: Commencement: Art. 36 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

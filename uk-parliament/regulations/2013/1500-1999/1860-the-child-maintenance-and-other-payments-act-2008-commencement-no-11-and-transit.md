@@ -39,7 +39,7 @@ Made
 
 The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by section 62(3) and (4) of the Child Maintenance and Other Payments Act 2008[^f00001]:
 
-## 1. Citation and interpretation[^key-7ce84dd1455445e034e57057d7433b2d]
+## 1. Citation and interpretation[^c-7ce84dd1455445e034e57057d7433b2d]
 
 (1) This Order may be cited as the Child Maintenance and Other Payments Act 2008 (Commencement No. 11 and Transitional Provisions) Order 2013.
 
@@ -72,7 +72,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
   - (i) alleged to be the absent parent for the purposes of an application for child support maintenance under the 1991 Act, or
   - (ii) treated as the absent parent for the purposes of the 1991 Act.
 
-## 2. Appointed day for the coming into effect of the new calculation rules[^key-f5c436818344dc51e78c87d1d294aeeb]
+## 2. Appointed day for the coming into effect of the new calculation rules[^c-f5c436818344dc51e78c87d1d294aeeb]
 
 The following provisions of the 2008 Act come into force, in so far as those provisions are not already in force, on 29th July 2013 for the purposes of those types of cases falling within article 3—
 
@@ -86,9 +86,9 @@ The following provisions of the 2008 Act come into force, in so far as those pro
   - (i) Schedule 1 (maintenance calculations) to the 1991 Act, and
   - (ii) Schedule 24 (social security, child support and tax credits) to the Civil Partnership Act 2004[^f00006].
 
-## 3. Cases to which the new calculation rules apply[^key-7aea1d6dd4aeafd3e0dd3d3511ffda47]
+## 3. Cases to which the new calculation rules apply[^c-7aea1d6dd4aeafd3e0dd3d3511ffda47]
 
-(1)[^key-38f907fbbe044da8f533484b500ec3f8] The types of cases falling within this article, for the purposes of article 2, are those cases satisfying any of paragraphs (2) to (4).
+(1)[^c-38f907fbbe044da8f533484b500ec3f8] The types of cases falling within this article, for the purposes of article 2, are those cases satisfying any of paragraphs (2) to (4).
 
 (2) A case satisfies this paragraph where—
 
@@ -96,12 +96,12 @@ The following provisions of the 2008 Act come into force, in so far as those pro
 - (b) that application is made in respect of two or three qualifying children with the same person with care and the same non-resident parent; and
 - (c) subject to paragraph (5), there is no existing case which has both the same person with care and the same non-resident parent referred to in sub-paragraph (b).
 
-(3)[^key-cb9253b661eb6e15565fd8142122330c] A case satisfies this paragraph where it is an existing case and—
+(3)[^c-cb9253b661eb6e15565fd8142122330c] A case satisfies this paragraph where it is an existing case and—
 
 - (a) the non-resident parent in a case falling within paragraph (2) is also the non-resident parent or absent parent in relation to the existing case; and
 - (b) the person with care in relation to the existing case is not the person with care in relation to the case falling within paragraph (2).
 
-(4)[^key-cb9253b661eb6e15565fd8142122330c] A case satisfies this paragraph where it is an existing case and—
+(4)[^c-cb9253b661eb6e15565fd8142122330c] A case satisfies this paragraph where it is an existing case and—
 
 - (a) the non-resident parent or absent parent (“A”) is a partner of a non-resident parent in a case falling within paragraph (2) (“B”); and
 - (b) A or B is in receipt of a prescribed benefit.
@@ -128,22 +128,22 @@ the case is to be treated as an existing case (and so is not a case that satisfi
 - (a) where there is a maintenance assessment or maintenance calculation in force, the date on which the liability under that assessment or calculation ends as a result of the request to cease acting; and
 - (b) where there is an application still to be determined, the date notified to the person with care as the date on which the Secretary of State has ceased acting.
 
-## 4. Appointed day for coming into force of a repeal within the 2008 Act[^key-8544e96ae961fb28e85ebca31c650504]
+## 4. Appointed day for coming into force of a repeal within the 2008 Act[^c-8544e96ae961fb28e85ebca31c650504]
 
 In Schedule 8 (repeals) of the 2008 Act, the entry relating to section 28 (pilot schemes) of the 2000 Act comes into force on 29th July 2013.
 
-## 5. Transitional provision for existing cases[^key-31e3262b6362e7451d2ac47cd209280f][^key-0a214d8c4963bd81f7a662c655c27795]
+## 5. Transitional provision for existing cases[^c-31e3262b6362e7451d2ac47cd209280f][^c-0a214d8c4963bd81f7a662c655c27795]
 
 Where a case falls within article 3(3) or (4), the provisions of the 1991 Act continue to apply—
 
 - (a) as they were in force immediately before the coming into force of the provisions in article 2 in relation to that case;
 - (b) until the maintenance calculation made in response to the application referred to in article 3(2)(a) takes effect.
 
-## 6. Amendment of the Child Maintenance and Other Payments Act 2008 (Commencement No.10 and Transitional Provisions) Order 2012[^key-e720eec0de6b3fdcf9fb64a67035aad1]
+## 6. Amendment of the Child Maintenance and Other Payments Act 2008 (Commencement No.10 and Transitional Provisions) Order 2012[^c-e720eec0de6b3fdcf9fb64a67035aad1]
 
 With effect from 29th July 2013, Article 6 of the Child Maintenance and Other Payments Act 2008 (Commencement No.10 and Transitional Provisions) Order 2012[^f00009] is omitted.
 
-## 7. Transitional provision when making the maintenance calculation[^key-8360948f97070cfab9cfc91924d3edd1]
+## 7. Transitional provision when making the maintenance calculation[^c-8360948f97070cfab9cfc91924d3edd1]
 
 For the period beginning on 29th July 2013 and ending on the date on which the new calculation rules come into force for all purposes—
 
@@ -309,7 +309,7 @@ The following provisions of the Child Maintenance and Other Payments Act 2008 ha
 
 [^f00001]: Footnote: [2008 c.6](https://www.legislation.gov.uk/ukpga/2008/6).
 
-[^key-7ce84dd1455445e034e57057d7433b2d]: Commencement: Art. 1 in force at made date
+[^c-7ce84dd1455445e034e57057d7433b2d]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1991 c.48](https://www.legislation.gov.uk/ukpga/1991/48).
 
@@ -319,30 +319,30 @@ The following provisions of the Child Maintenance and Other Payments Act 2008 ha
 
 [^f00005]: Footnote: The definition of “maintenance calculation” was substituted for the definition of “maintenance assessment” in section 54 of the 1991 Act by section 26 of, and paragraph 11(1) and (20)(d) of Schedule 3 to, the 2000 Act. The term “non-resident parent” was substituted for the term “absent parent” by section 26 of, and paragraph 11(1) and (2) of Schedule 3 to, the 2000 Act. The definition of “qualifying child” in section 3(1) of the 1991 Act was amended by section 26 of, and paragraph 11(1) and (2) of Schedule 3 to, the 2000 Act.
 
-[^key-f5c436818344dc51e78c87d1d294aeeb]: Commencement: Art. 2 in force at made date
+[^c-f5c436818344dc51e78c87d1d294aeeb]: Commencement: Art. 2 in force at made date
 
 [^f00006]: Footnote: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 
-[^key-7aea1d6dd4aeafd3e0dd3d3511ffda47]: Commencement: Art. 3 in force at made date
+[^c-7aea1d6dd4aeafd3e0dd3d3511ffda47]: Commencement: Art. 3 in force at made date
 
-[^key-38f907fbbe044da8f533484b500ec3f8]: Modification: Art. 3(1) modified (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1635/article/7/a)
+[^c-38f907fbbe044da8f533484b500ec3f8]: Modification: Art. 3(1) modified (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/1635/article/7/a)
 
 [^f00007]: Footnote: Section 4 was amended by section 18(1) of the Child Support Act [1995 (c. 34)](https://www.legislation.gov.uk/ukpga/1995/34), paragraph 19 of Schedule 7, and Schedule 8, to the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) (“the 1998 Act”), sections 1(2) and 2(1) to (3) of, and paragraph 11(1) to (3) of Schedule 3 to, the 2000 Act, section 35(1) of, and Schedule 8 to, the Child Maintenance and Other Payments Act [2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6) (“the 2008 Act”) and [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007). Section 7 was amended by paragraph 21 of Schedule 7, and Schedule 8, to the 1998 Act, section 1(2) of, and paragraph 11(1),(2) and (4) of Schedule 3 to, the 2000 Act, section 35(2) of the 2008 Act and [S.I. 2012/2007](https://www.legislation.gov.uk/uksi/2012/2007).
 
-[^key-cb9253b661eb6e15565fd8142122330c]: Modification: Art. 3(3)(4)(7) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 7(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/7/b)
+[^c-cb9253b661eb6e15565fd8142122330c]: Modification: Art. 3(3)(4)(7) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 7(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/7/b)
 
 [^f00008]: Footnote: Part 1 of Schedule 1 to the 1991 Act was substituted by section 1(3) of, and Schedule 1 to, the 2000 Act.
 
-[^key-8544e96ae961fb28e85ebca31c650504]: Commencement: Art. 4 in force at made date
+[^c-8544e96ae961fb28e85ebca31c650504]: Commencement: Art. 4 in force at made date
 
-[^key-31e3262b6362e7451d2ac47cd209280f]: Commencement: Art. 5 in force at made date
+[^c-31e3262b6362e7451d2ac47cd209280f]: Commencement: Art. 5 in force at made date
 
-[^key-0a214d8c4963bd81f7a662c655c27795]: Modification: [Art. 5](https://www.legislation.gov.uk/uksi/2013/1860/article/5) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 7(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/7/b)
+[^c-0a214d8c4963bd81f7a662c655c27795]: Modification: [Art. 5](https://www.legislation.gov.uk/uksi/2013/1860/article/5) excluded (30.6.2014) by [The Child Maintenance and Other Payments Act 2008 (Commencement No. 14 and Transitional Provisions) and the Welfare Reform Act 2012 (Commencement No. 18 and Transitional and Savings Provisions) Order 2014 (S.I. 2014/1635)](https://www.legislation.gov.uk/uksi/2014/1635), [art. 7(b)](https://www.legislation.gov.uk/uksi/2014/1635/article/7/b)
 
-[^key-e720eec0de6b3fdcf9fb64a67035aad1]: Commencement: Art. 6 in force at made date
+[^c-e720eec0de6b3fdcf9fb64a67035aad1]: Commencement: Art. 6 in force at made date
 
 [^f00009]: Footnote: [S.I. 2012/3042](https://www.legislation.gov.uk/uksi/2012/3042).
 
-[^key-8360948f97070cfab9cfc91924d3edd1]: Commencement: Art. 7 in force at made date
+[^c-8360948f97070cfab9cfc91924d3edd1]: Commencement: Art. 7 in force at made date
 
 [^f00010]: Footnote: Child Maintenance and Other Payments Act 2008 (Commencement No. 4 and Transitional Provision) Order 2008 ([S.I. 2008/2675 (C. 116)](https://www.legislation.gov.uk/uksi/2008/2675)).

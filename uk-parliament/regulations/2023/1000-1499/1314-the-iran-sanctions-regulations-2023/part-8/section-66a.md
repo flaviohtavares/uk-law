@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66A. Ships: licensing offences[^key-f078fadced2bf91fbe3f7ca1f5b83867]
+## 66A. Ships: licensing offences[^c-f078fadced2bf91fbe3f7ca1f5b83867]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f078fadced2bf91fbe3f7ca1f5b83867]: Textual amendment: [Reg. 66A](https://www.legislation.gov.uk/uksi/2023/1314/regulation/66A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2026/983/regulation/27)
+[^c-f078fadced2bf91fbe3f7ca1f5b83867]: Textual amendment: [Reg. 66A](https://www.legislation.gov.uk/uksi/2023/1314/regulation/66A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2026/983/regulation/27)

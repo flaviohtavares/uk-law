@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5A. Exemption of European employers[^key-484ea22351226ca704d54a89a14d862b]
+## 5A. Exemption of European employers[^c-484ea22351226ca704d54a89a14d862b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Sections 2(1), 3(2), 5(2), 7(3), 9(2) and 54 (employer’s obligations regarding
 
 ## Annotations
 
-[^key-484ea22351226ca704d54a89a14d862b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisr/2010/122/part/1A) inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/238)](https://www.legislation.gov.uk/nisr/2012/238), [regs. 1](https://www.legislation.gov.uk/nisr/2012/238/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/238/regulation/2)
+[^c-484ea22351226ca704d54a89a14d862b]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/nisr/2010/122/part/1A) inserted (2.7.2012) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment No. 2) Regulations (Northern Ireland) 2012 (S.R. 2012/238)](https://www.legislation.gov.uk/nisr/2012/238), [regs. 1](https://www.legislation.gov.uk/nisr/2012/238/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/238/regulation/2)

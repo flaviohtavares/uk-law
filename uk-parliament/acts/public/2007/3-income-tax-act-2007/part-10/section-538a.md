@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 538A. Claims in relation to gift aid relief etc[^key-7964011408976de48314107a5a7dbdc7][^key-7c1bbaec0801c4afd994b8a2ffae0951]
+## 538A. Claims in relation to gift aid relief etc[^c-7964011408976de48314107a5a7dbdc7][^c-7c1bbaec0801c4afd994b8a2ffae0951]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-d5afc48c23ff095b72e039e18af69f2d] This section applies to claims for—
+(A1)[^c-d5afc48c23ff095b72e039e18af69f2d] This section applies to claims for—
 
 - (a) repayment of income tax treated as having been paid by virtue of section 520(4) (gift aid relief: income tax treated as paid by trustees of charitable trust), or
 - (b) repayment of income tax deducted at source from income to which any of the following applies—
@@ -29,7 +29,7 @@ summary: ''
   - (iii) section 536 (exemption for certain miscellaneous income), or
   - (iv) section 537 (exemption for income from estates in administration).
 
-(1) This section also[^key-228c52b5bc6942b2bab3b3cf2a1301b9] applies to claims for amounts to be exempt from tax by virtue of—[^key-f479dcf0cb60b53d53274ee84c44d040]
+(1) This section also[^c-228c52b5bc6942b2bab3b3cf2a1301b9] applies to claims for amounts to be exempt from tax by virtue of—[^c-f479dcf0cb60b53d53274ee84c44d040]
 
 - (a) section 521(4) (gifts entitling donor to gift aid relief: charitable trusts), or
 - (b) any of the provisions mentioned in subsection (A1)(b).
@@ -53,12 +53,12 @@ summary: ''
 
 ## Annotations
 
-[^key-7964011408976de48314107a5a7dbdc7]: Textual amendment: S. 538A inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/5/3)
+[^c-7964011408976de48314107a5a7dbdc7]: Textual amendment: S. 538A inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 8 para. 5(3)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/8/paragraph/5/3)
 
-[^key-7c1bbaec0801c4afd994b8a2ffae0951]: Textual amendment: Word in s. 538A heading inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 1(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/1/4), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
+[^c-7c1bbaec0801c4afd994b8a2ffae0951]: Textual amendment: Word in s. 538A heading inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 1(4)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/1/4), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
 
-[^key-d5afc48c23ff095b72e039e18af69f2d]: Textual amendment: S. 538A(A1) inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 1(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
+[^c-d5afc48c23ff095b72e039e18af69f2d]: Textual amendment: S. 538A(A1) inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 1(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/1/2), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
 
-[^key-228c52b5bc6942b2bab3b3cf2a1301b9]: Textual amendment: Word in s. 538A(1) inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/1/3/a), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
+[^c-228c52b5bc6942b2bab3b3cf2a1301b9]: Textual amendment: Word in s. 538A(1) inserted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 1(3)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/1/3/a), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
 
-[^key-f479dcf0cb60b53d53274ee84c44d040]: Textual amendment: Words in s. 538A(1) substituted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/1/3/b), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)
+[^c-f479dcf0cb60b53d53274ee84c44d040]: Textual amendment: Words in s. 538A(1) substituted (retrospective to 8.4.2010) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 15 paras. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/1/3/b), [17(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/15/paragraph/17/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Public Procurement
 
-The Public Contracts Regulations 2015 (revoked)[^key-11cd58ebf302ef8e92a61dba36653123]
+The Public Contracts Regulations 2015 (revoked)[^c-11cd58ebf302ef8e92a61dba36653123]
 
 Made
 
@@ -44,11 +44,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2) to (6)
 
-[^key-11cd58ebf302ef8e92a61dba36653123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11cd58ebf302ef8e92a61dba36653123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-11cd58ebf302ef8e92a61dba36653123]
+### PART 1 — GENERAL[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,19 +57,19 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 1 — Citation, commencement, extent and application](part-1/section-1.md)
 - [Section 2 — Definitions](part-1/section-2.md)
 
-### PART 2 — RULES IMPLEMENTING THE PUBLIC CONTRACTS DIRECTIVE[^key-11cd58ebf302ef8e92a61dba36653123]
+### PART 2 — RULES IMPLEMENTING THE PUBLIC CONTRACTS DIRECTIVE[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 1 — SCOPE AND GENERAL PRINCIPLES[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 1 — SCOPE AND GENERAL PRINCIPLES[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 1 — Scope[^key-11cd58ebf302ef8e92a61dba36653123]
+##### SECTION 1 — Scope[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,7 +112,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 16 — Mixed procurement involving defence or security aspects](part-2/section-16.md)
 - [Section 17 — Public contracts and design contests involving defence or security aspects which are awarded or organised pursuant to international rules](part-2/section-17.md)
 
-##### SECTION 2 — General Rules[^key-11cd58ebf302ef8e92a61dba36653123]
+##### SECTION 2 — General Rules[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -127,13 +127,13 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 23 — Nomenclatures](part-2/section-23.md)
 - [Section 24 — Conflicts of interest](part-2/section-24.md)
 
-#### CHAPTER 2 — RULES ON PUBLIC CONTRACTS[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 2 — RULES ON PUBLIC CONTRACTS[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 3 — Procedures[^key-11cd58ebf302ef8e92a61dba36653123]
+##### SECTION 3 — Procedures[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -150,7 +150,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 31 — Innovation partnership](part-2/section-31.md)
 - [Section 32 — Use of the negotiated procedure without prior publication](part-2/section-32.md)
 
-##### SECTION 4 — Techniques and Instruments for Electronic and Aggregated Procurement[^key-11cd58ebf302ef8e92a61dba36653123]
+##### SECTION 4 — Techniques and Instruments for Electronic and Aggregated Procurement[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -164,7 +164,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 38 — Occasional joint procurement](part-2/section-38.md)
 - [Section 39 — Procurement involving contracting authorities from other member States](part-2/section-39.md)
 
-##### SECTION 5 — Conduct of the Procedure[^key-11cd58ebf302ef8e92a61dba36653123]
+##### SECTION 5 — Conduct of the Procedure[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -215,7 +215,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 68 — Life-cycle costing](part-2/section-68.md)
 - [Section 69 — Abnormally low tenders](part-2/section-69.md)
 
-##### SECTION 6 — Contract Performance[^key-11cd58ebf302ef8e92a61dba36653123]
+##### SECTION 6 — Contract Performance[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -226,13 +226,13 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 72 — Modification of contracts during their term](part-2/section-72.md)
 - [Section 73 — Termination of contracts](part-2/section-73.md)
 
-#### CHAPTER 3 — PARTICULAR PROCUREMENT REGIMES[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 3 — PARTICULAR PROCUREMENT REGIMES[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-##### SECTION 7 — Social and Other Specific Services[^key-11cd58ebf302ef8e92a61dba36653123]
+##### SECTION 7 — Social and Other Specific Services[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -243,7 +243,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 76 — Principles of awarding contracts](part-2/section-76.md)
 - [Section 77 — Reserved contracts for certain services](part-2/section-77.md)
 
-##### SECTION 8 — Rules Governing Design Contests[^key-11cd58ebf302ef8e92a61dba36653123]
+##### SECTION 8 — Rules Governing Design Contests[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -255,7 +255,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 81 — Composition of the jury](part-2/section-81.md)
 - [Section 82 — Decisions of the jury](part-2/section-82.md)
 
-#### CHAPTER 4 — RECORDS AND REPORTS[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 4 — RECORDS AND REPORTS[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -264,7 +264,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 83 — Retention of contract copies](part-2/section-83.md)
 - [Section 84 — Reporting and documentation requirements](part-2/section-84.md)
 
-#### CHAPTER 4A — REGULATIONS UNDER THIS PART[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 4A — REGULATIONS UNDER THIS PART[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -272,13 +272,13 @@ Coming into force in accordance with regulation 1(2) to (6)
 
 - [Section 84A — General provisions about regulations under this Part](part-2/section-84a.md)
 
-### PART 3 — REMEDIES[^key-11cd58ebf302ef8e92a61dba36653123]
+### PART 3 — REMEDIES[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 5 — FACILITATION OF REMEDIES[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 5 — FACILITATION OF REMEDIES[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -288,7 +288,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 86 — Notices of decisions to award a contract or conclude a framework agreement](part-3/section-86.md)
 - [Section 87 — Standstill period](part-3/section-87.md)
 
-#### CHAPTER 6 — APPLICATIONS TO THE COURT[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 6 — APPLICATIONS TO THE COURT[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -314,13 +314,13 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 103 — Ineffectiveness etc. in relation to specific contracts based on a framework agreement](part-3/section-103.md)
 - [Section 104 — Injunctions against the Crown](part-3/section-104.md)
 
-### PART 4 — MISCELLANEOUS OBLIGATIONS[^key-11cd58ebf302ef8e92a61dba36653123]
+### PART 4 — MISCELLANEOUS OBLIGATIONS[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER 7 — ADDITIONAL RULES FOR PART 2 PROCUREMENTS[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 7 — ADDITIONAL RULES FOR PART 2 PROCUREMENTS[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -331,7 +331,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 107 — Qualitative selection](part-4/section-107.md)
 - [Section 108 — Publication of information on Contracts Finder about contracts awarded](part-4/section-108.md)
 
-#### CHAPTER 8 — BELOW-THRESHOLD PROCUREMENTS[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 8 — BELOW-THRESHOLD PROCUREMENTS[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -342,7 +342,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 111 — Assessing suitability etc](part-4/section-111.md)
 - [Section 112 — Publication of information on Contracts Finder about contracts awarded](part-4/section-112.md)
 
-#### CHAPTER 9 — MISCELLANEOUS PROVISIONS[^key-11cd58ebf302ef8e92a61dba36653123]
+#### CHAPTER 9 — MISCELLANEOUS PROVISIONS[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -353,7 +353,7 @@ Coming into force in accordance with regulation 1(2) to (6)
 - [Section 113B — Application of regulation 113A to sub-central contracting authorities](part-4/section-113b.md)
 - [Section 114 — General provisions applicable to Part 4](part-4/section-114.md)
 
-### PART 5 — REVOCATIONS, CONSEQUENTIAL AMENDMENTS, SAVINGS AND TRANSITIONAL PROVISIONS[^key-11cd58ebf302ef8e92a61dba36653123]
+### PART 5 — REVOCATIONS, CONSEQUENTIAL AMENDMENTS, SAVINGS AND TRANSITIONAL PROVISIONS[^c-11cd58ebf302ef8e92a61dba36653123]
 
 *Extent: E+W+S+N.I.*
 
@@ -381,14 +381,14 @@ Coming into force in accordance with regulation 1(2) to (6)
 
 **No longer in force.**
 
-[^key-11cd58ebf302ef8e92a61dba36653123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11cd58ebf302ef8e92a61dba36653123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-11cd58ebf302ef8e92a61dba36653123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-11cd58ebf302ef8e92a61dba36653123]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-11cd58ebf302ef8e92a61dba36653123]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/102) revoked (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2023/54/schedule/11/paragraph/5); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (with [regs. 5](https://www.legislation.gov.uk/uksi/2024/716/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/716/regulation/6)) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(3)(4)(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/3/4/7/a))
+[^c-11cd58ebf302ef8e92a61dba36653123]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/102) revoked (24.2.2025) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2023/54/schedule/11/paragraph/5); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (with [regs. 5](https://www.legislation.gov.uk/uksi/2024/716/regulation/5), [6](https://www.legislation.gov.uk/uksi/2024/716/regulation/6)) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(3)(4)(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/3/4/7/a))

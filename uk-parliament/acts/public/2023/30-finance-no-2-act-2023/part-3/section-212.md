@@ -30,7 +30,7 @@ summary: ''
 
 (3) Condition B is that any gain or loss of the transferor that arises from the transfer is not, in whole or in part, subject to tax.
 
-(4) Condition C is that, under the law of the territory the transferee is located in, the value of the assets or liabilities for the purpose of determining the transferee’s taxable income is no greater than[^key-e43b4486c543b013495115708763e572] the tax basis value of the assets or liabilities in the hands of the transferor, adjusted for any non-qualifying gain or loss.
+(4) Condition C is that, under the law of the territory the transferee is located in, the value of the assets or liabilities for the purpose of determining the transferee’s taxable income is no greater than[^c-e43b4486c543b013495115708763e572] the tax basis value of the assets or liabilities in the hands of the transferor, adjusted for any non-qualifying gain or loss.
 
 (5) Sections 719 to 724A of CTA 2010 (change in company ownership) have effect for the purposes of determining whether there has been a change in ownership of an entity as if—
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e43b4486c543b013495115708763e572]: Textual amendment: Words in s. 212(4) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 61](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/61), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)
+[^c-e43b4486c543b013495115708763e572]: Textual amendment: Words in s. 212(4) inserted (with effect in accordance with Sch. 4 para. 72(4) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 4 paras. 61](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/61), [72(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/4/paragraph/72/4)

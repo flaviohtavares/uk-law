@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Amounts not forming part of pensionable earnings[^key-bc017ad1c245947614b7139d6a55ff28]
+## 34. Amounts not forming part of pensionable earnings[^c-bc017ad1c245947614b7139d6a55ff28]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc017ad1c245947614b7139d6a55ff28]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2014/292/regulation/34) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-bc017ad1c245947614b7139d6a55ff28]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2014/292/regulation/34) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

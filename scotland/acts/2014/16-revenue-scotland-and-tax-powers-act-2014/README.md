@@ -104,23 +104,23 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 19 — Wrongful disclosure of protected taxpayer information](part-3/section-19.md)
 
-### PART 4 — The Scottish Tax Tribunals[^key-5989819b0aa53616fe7350e74b19f987]
+### PART 4 — The Scottish Tax Tribunals[^c-5989819b0aa53616fe7350e74b19f987]
 
 *Extent: S*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Introductory[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 1 — Introductory[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
 - [Section 20 — Overview](part-4/section-20.md)
 
-#### CHAPTER 2 — Establishment and leadership[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 2 — Establishment and leadership[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
-##### Establishment[^key-5989819b0aa53616fe7350e74b19f987]
+##### Establishment[^c-5989819b0aa53616fe7350e74b19f987]
 
 *Extent: S*
 
@@ -128,7 +128,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 21 — The First-tier Tax Tribunal for Scotland and the Upper Tax Tribunal for Scotland](part-4/section-21.md)
 
-##### Leadership[^key-5989819b0aa53616fe7350e74b19f987]
+##### Leadership[^c-5989819b0aa53616fe7350e74b19f987]
 
 *Extent: S*
 
@@ -139,33 +139,33 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 24 — Business arrangements](part-4/section-24.md)
 - [Section 25 — Temporary President](part-4/section-25.md)
 
-#### CHAPTER 3 — Membership[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 3 — Membership[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
-##### Membership of Tax Tribunals[^key-5989819b0aa53616fe7350e74b19f987]
+##### Membership of Tax Tribunals[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
 - [Section 26 — Members](part-4/section-26.md)
 
-##### Judicial members[^key-5989819b0aa53616fe7350e74b19f987]
+##### Judicial members[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
 - [Section 27 — Judicial members](part-4/section-27.md)
 
-##### Status and capacity[^key-5989819b0aa53616fe7350e74b19f987]
+##### Status and capacity[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
 - [Section 28 — Status and capacity of members](part-4/section-28.md)
 
-#### CHAPTER 4 — Decision-making and composition[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 4 — Decision-making and composition[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
-##### Decision-making and composition: general[^key-5989819b0aa53616fe7350e74b19f987]
+##### Decision-making and composition: general[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
@@ -173,37 +173,37 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 30 — Decisions in the Upper Tribunal](part-4/section-30.md)
 - [Section 31 — Composition of the Tribunals](part-4/section-31.md)
 
-##### Decisions by two or more members[^key-5989819b0aa53616fe7350e74b19f987]
+##### Decisions by two or more members[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
 - [Section 32 — Voting for decisions](part-4/section-32.md)
 - [Section 33 — Chairing members](part-4/section-33.md)
 
-#### CHAPTER 5 — Appeal of decisions[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 5 — Appeal of decisions[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
-##### Appeal from First-tier Tribunal[^key-5989819b0aa53616fe7350e74b19f987]
+##### Appeal from First-tier Tribunal[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
 - [Section 34 — Appeal from the First-tier Tribunal](part-4/section-34.md)
 - [Section 35 — Disposal of an appeal under section 34](part-4/section-35.md)
 
-##### Appeal from Upper Tribunal[^key-5989819b0aa53616fe7350e74b19f987]
+##### Appeal from Upper Tribunal[^c-5989819b0aa53616fe7350e74b19f987]
 
 - [Section 36 — Appeal from the Upper Tribunal](part-4/section-36.md)
 - [Section 37 — Disposal of an appeal under section 36](part-4/section-37.md)
 - [Section 38 — Procedure on second appeal](part-4/section-38.md)
 
-##### Further provision on permission to appeal[^key-5989819b0aa53616fe7350e74b19f987]
+##### Further provision on permission to appeal[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
 - [Section 39 — Process for permission](part-4/section-39.md)
 
-#### CHAPTER 6 — Special jurisdiction[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 6 — Special jurisdiction[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
@@ -213,7 +213,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 43 — Additional matters](part-4/section-43.md)
 - [Section 44 — Meaning of judicial review](part-4/section-44.md)
 
-#### CHAPTER 7 — Powers and enforcement[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 7 — Powers and enforcement[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
@@ -224,11 +224,11 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 49 — Additional powers](part-4/section-49.md)
 - [Section 50 — Offences in relation to proceedings](part-4/section-50.md)
 
-#### CHAPTER 8 — Practice and procedure[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 8 — Practice and procedure[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
-##### Tribunal rules: general[^key-5989819b0aa53616fe7350e74b19f987]
+##### Tribunal rules: general[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
@@ -236,7 +236,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 52 — Exercise of functions](part-4/section-52.md)
 - [Section 53 — Extent of rule-making](part-4/section-53.md)
 
-##### Particular matters[^key-5989819b0aa53616fe7350e74b19f987]
+##### Particular matters[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
@@ -244,13 +244,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 55 — Hearings in cases](part-4/section-55.md)
 - [Section 56 — Evidence and decisions](part-4/section-56.md)
 
-##### Issuing directions[^key-5989819b0aa53616fe7350e74b19f987]
+##### Issuing directions[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
 - [Section 57 — Practice directions](part-4/section-57.md)
 
-#### CHAPTER 9 — Administration[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 9 — Administration[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
@@ -258,7 +258,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 59 — Guidance](part-4/section-59.md)
 - [Section 60 — Annual reporting](part-4/section-60.md)
 
-#### CHAPTER 10 — Interpretation[^key-5989819b0aa53616fe7350e74b19f987]
+#### CHAPTER 10 — Interpretation[^c-5989819b0aa53616fe7350e74b19f987]
 
 **No longer in force.**
 
@@ -410,9 +410,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 118 — Contract settlements](part-6/section-118.md)
 
-### PART 7 — Investigatory powers of Revenue Scotland[^key-8582aee1c20bc942bc848dcc0f3ead7c]
+### PART 7 — Investigatory powers of Revenue Scotland[^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
-#### CHAPTER 1 — Investigatory powers: introductory[^key-8582aee1c20bc942bc848dcc0f3ead7c]
+#### CHAPTER 1 — Investigatory powers: introductory[^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 ##### Overview
 
@@ -424,7 +424,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 121 — Meaning of “carrying on a business”](part-7/section-121.md)
 - [Section 122 — Meaning of “statutory records”](part-7/section-122.md)
 
-#### CHAPTER 2 — Investigatory powers: information and documents[^key-8582aee1c20bc942bc848dcc0f3ead7c]
+#### CHAPTER 2 — Investigatory powers: information and documents[^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 - [Section 123 — Power to obtain information and documents from taxpayer](part-7/section-123.md)
 - [Section 124 — Power to obtain information and documents from third party](part-7/section-124.md)
@@ -439,7 +439,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 133 — Producing copies of documents](part-7/section-133.md)
 - [Section 134 — Further provision about powers relating to information notices](part-7/section-134.md)
 
-#### CHAPTER 3 — Restrictions on powers in Chapter 2[^key-8582aee1c20bc942bc848dcc0f3ead7c]
+#### CHAPTER 3 — Restrictions on powers in Chapter 2[^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 - [Section 135 — Information notices: general restrictions](part-7/section-135.md)
 - [Section 136 — Types of information](part-7/section-136.md)
@@ -448,7 +448,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 139 — Protection for auditors](part-7/section-139.md)
 - [Section 140 — Auditors: supplementary](part-7/section-140.md)
 
-#### CHAPTER 4 — Investigatory powers: premises and other property[^key-8582aee1c20bc942bc848dcc0f3ead7c]
+#### CHAPTER 4 — Investigatory powers: premises and other property[^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 ##### Inspection of business premises
 
@@ -474,18 +474,18 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 149 — Restriction on inspection of documents](part-7/section-149.md)
 
-#### CHAPTER 5 — Further investigatory powers[^key-8582aee1c20bc942bc848dcc0f3ead7c]
+#### CHAPTER 5 — Further investigatory powers[^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 - [Section 150 — Power to copy and remove documents](part-7/section-150.md)
 - [Section 151 — Computer records](part-7/section-151.md)
 
-#### CHAPTER 6 — Reviews and appeals against information notices[^key-8582aee1c20bc942bc848dcc0f3ead7c]
+#### CHAPTER 6 — Reviews and appeals against information notices[^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 - [Section 152 — Review or appeal against information notices](part-7/section-152.md)
 - [Section 153 — Power to modify section 152](part-7/section-153.md)
 - [Section 154 — Disposal of reviews and appeals in relation to information notices](part-7/section-154.md)
 
-#### CHAPTER 7 — Offences relating to information notices[^key-8582aee1c20bc942bc848dcc0f3ead7c]
+#### CHAPTER 7 — Offences relating to information notices[^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 - [Section 155 — Offence of concealing etc. documents following information notice](part-7/section-155.md)
 - [Section 156 — Offence of concealing etc. documents following information notification](part-7/section-156.md)
@@ -515,7 +515,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 162 — Land and buildings transaction tax: 6 month penalty for failure to make return](part-8/section-162.md)
 - [Section 163 — Land and buildings transaction tax: 12 month penalty for failure to make return](part-8/section-163.md)
 
-##### Amounts of penalties for failure to make returns: Scottish landfill tax and Scottish aggregates tax[^key-273bdb352b577ca07a1fb33e08608590]
+##### Amounts of penalties for failure to make returns: Scottish landfill tax and Scottish aggregates tax[^c-273bdb352b577ca07a1fb33e08608590]
 
 - [Section 164 — Scottish landfill tax and Scottish aggregates tax: first penalty for failure to make return](part-8/section-164.md)
 - [Section 165 — Scottish landfill tax and Scottish aggregates tax: multiple failures to make return](part-8/section-165.md)
@@ -530,7 +530,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 169 — Land and buildings transaction tax: amounts of penalties for failure to pay tax](part-8/section-169.md)
 
-##### Amounts of penalties for failure to pay tax: Scottish landfill tax and Scottish aggregates tax[^key-0f0b61e4df300a42523af23d36913966]
+##### Amounts of penalties for failure to pay tax: Scottish landfill tax and Scottish aggregates tax[^c-0f0b61e4df300a42523af23d36913966]
 
 - [Section 170 — Scottish landfill tax and Scottish aggregates tax: first penalty for failure to pay tax](part-8/section-170.md)
 - [Section 171 — Scottish landfill tax and Scottish aggregates tax: penalties for multiple failures to pay tax](part-8/section-171.md)
@@ -622,7 +622,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 215 — Assessment of penalties under section 209](part-8/section-215.md)
 - [Section 216 — Power to change penalty provisions in Chapter 5](part-8/section-216.md)
 
-#### Chapter 5A — Penalties relating solely to Scottish aggregates tax[^key-ef6f894bcf6aec3951e11854343a3c2d]
+#### Chapter 5A — Penalties relating solely to Scottish aggregates tax[^c-ef6f894bcf6aec3951e11854343a3c2d]
 
 - [Section 216A — Penalty for failure to notify Revenue Scotland of production of exempt aggregate: Scottish aggregates tax](part-8/section-216a.md)
 - [Section 216B — Failure to keep records of production of exempt aggregate: Scottish aggregates tax](part-8/section-216b.md)
@@ -723,20 +723,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 251 — Communications from taxpayers to Revenue Scotland](part-12/section-251.md)
 
-#### Communications from Revenue Scotland to taxpayers[^key-24d7d41be5106764cb070290f785fe5f]
+#### Communications from Revenue Scotland to taxpayers[^c-24d7d41be5106764cb070290f785fe5f]
 
 - [Section 251A — Communications from Revenue Scotland to taxpayers](part-12/section-251a.md)
 
-#### Use of automation by Revenue Scotland[^key-cd028c2dffb9a49e23875faafabe1226]
+#### Use of automation by Revenue Scotland[^c-cd028c2dffb9a49e23875faafabe1226]
 
 - [Section 251B — Use of automation by Revenue Scotland](part-12/section-251b.md)
 
-#### Set-off by Revenue Scotland[^key-732c6e2dff4896659486646c0cfb1108]
+#### Set-off by Revenue Scotland[^c-732c6e2dff4896659486646c0cfb1108]
 
 - [Section 251C — Set-off by Revenue Scotland](part-12/section-251c.md)
 - [Section 251D — No set-off where insolvency procedure has been applied](part-12/section-251d.md)
 
-#### Continuity of designated officers’ acts[^key-f60968e8d1148911af7f6ec1b86be3b3]
+#### Continuity of designated officers’ acts[^c-f60968e8d1148911af7f6ec1b86be3b3]
 
 - [Section 251E — Continuity of designated officers’ acts](part-12/section-251e.md)
 
@@ -776,20 +776,20 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-5989819b0aa53616fe7350e74b19f987]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/asp/2014/16/part/4) repealed (24.4.2017) by [The Tribunals (Scotland) Act 2014 (Ancillary Provisions) Regulations 2017 (S.S.I. 2017/108)](https://www.legislation.gov.uk/ssi/2017/108), [regs. 1](https://www.legislation.gov.uk/ssi/2017/108/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2017/108/regulation/2/1)
+[^c-5989819b0aa53616fe7350e74b19f987]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/asp/2014/16/part/4) repealed (24.4.2017) by [The Tribunals (Scotland) Act 2014 (Ancillary Provisions) Regulations 2017 (S.S.I. 2017/108)](https://www.legislation.gov.uk/ssi/2017/108), [regs. 1](https://www.legislation.gov.uk/ssi/2017/108/regulation/1), [2(1)](https://www.legislation.gov.uk/ssi/2017/108/regulation/2/1)
 
-[^key-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)
+[^c-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)
 
-[^key-273bdb352b577ca07a1fb33e08608590]: Textual amendment: Words in [s. 164 cross-heading](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/2/crossheading/amounts-of-penalties-for-failure-to-make-returns-scottish-landfill-tax) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 39(3)](https://www.legislation.gov.uk/asp/2024/14/section/39/3), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-273bdb352b577ca07a1fb33e08608590]: Textual amendment: Words in [s. 164 cross-heading](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/2/crossheading/amounts-of-penalties-for-failure-to-make-returns-scottish-landfill-tax) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 39(3)](https://www.legislation.gov.uk/asp/2024/14/section/39/3), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
 
-[^key-0f0b61e4df300a42523af23d36913966]: Textual amendment: Words in [s. 170 cross-heading](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/2/crossheading/amounts-of-penalties-for-failure-to-pay-tax-scottish-landfill-tax) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 40(3)](https://www.legislation.gov.uk/asp/2024/14/section/40/3), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-0f0b61e4df300a42523af23d36913966]: Textual amendment: Words in [s. 170 cross-heading](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/2/crossheading/amounts-of-penalties-for-failure-to-pay-tax-scottish-landfill-tax) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 40(3)](https://www.legislation.gov.uk/asp/2024/14/section/40/3), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
 
-[^key-ef6f894bcf6aec3951e11854343a3c2d]: Textual amendment: [Pt. 8 Ch. 5A](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/5A) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 43(2)](https://www.legislation.gov.uk/asp/2024/14/section/43/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
+[^c-ef6f894bcf6aec3951e11854343a3c2d]: Textual amendment: [Pt. 8 Ch. 5A](https://www.legislation.gov.uk/asp/2014/16/part/8/chapter/5A) inserted (1.4.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 43(2)](https://www.legislation.gov.uk/asp/2024/14/section/43/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2026/84](https://www.legislation.gov.uk/ssi/2026/84), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2026/84/regulation/2/c)
 
-[^key-24d7d41be5106764cb070290f785fe5f]: Textual amendment: [S. 251A](https://www.legislation.gov.uk/asp/2014/16/section/251A) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 56(2)](https://www.legislation.gov.uk/asp/2024/14/section/56/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/c)
+[^c-24d7d41be5106764cb070290f785fe5f]: Textual amendment: [S. 251A](https://www.legislation.gov.uk/asp/2014/16/section/251A) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 56(2)](https://www.legislation.gov.uk/asp/2024/14/section/56/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/c)
 
-[^key-cd028c2dffb9a49e23875faafabe1226]: Textual amendment: [S. 251B](https://www.legislation.gov.uk/asp/2014/16/section/251B) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 57(2)](https://www.legislation.gov.uk/asp/2024/14/section/57/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/d)
+[^c-cd028c2dffb9a49e23875faafabe1226]: Textual amendment: [S. 251B](https://www.legislation.gov.uk/asp/2014/16/section/251B) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 57(2)](https://www.legislation.gov.uk/asp/2024/14/section/57/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(d)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/d)
 
-[^key-732c6e2dff4896659486646c0cfb1108]: Textual amendment: [Ss. 251C](https://www.legislation.gov.uk/asp/2014/16/section/251C), [251D](https://www.legislation.gov.uk/asp/2014/16/section/251D) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 58(2)](https://www.legislation.gov.uk/asp/2024/14/section/58/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/e)
+[^c-732c6e2dff4896659486646c0cfb1108]: Textual amendment: [Ss. 251C](https://www.legislation.gov.uk/asp/2014/16/section/251C), [251D](https://www.legislation.gov.uk/asp/2014/16/section/251D) and cross-heading inserted (19.1.2026) by [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 58(2)](https://www.legislation.gov.uk/asp/2024/14/section/58/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/386](https://www.legislation.gov.uk/ssi/2025/386), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2025/386/regulation/2/e)
 
-[^key-f60968e8d1148911af7f6ec1b86be3b3]: Textual amendment: [S. 251E](https://www.legislation.gov.uk/asp/2014/16/section/251E) and cross-heading inserted (1.4.2025) "after s. 251D" by virtue of [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 59(2)](https://www.legislation.gov.uk/asp/2024/14/section/59/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/79](https://www.legislation.gov.uk/ssi/2025/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/2/b)
+[^c-f60968e8d1148911af7f6ec1b86be3b3]: Textual amendment: [S. 251E](https://www.legislation.gov.uk/asp/2014/16/section/251E) and cross-heading inserted (1.4.2025) "after s. 251D" by virtue of [Aggregates Tax and Devolved Taxes Administration (Scotland) Act 2024 (asp 14)](https://www.legislation.gov.uk/asp/2024/14), [ss. 59(2)](https://www.legislation.gov.uk/asp/2024/14/section/59/2), [64(2)](https://www.legislation.gov.uk/asp/2024/14/section/64/2) (with [s. 63](https://www.legislation.gov.uk/asp/2024/14/section/63)); [S.S.I. 2025/79](https://www.legislation.gov.uk/ssi/2025/79), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2025/79/regulation/2/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Written and electronic communication[^key-34c6620ad4af040b130f497d8d795984]
+## 25. Written and electronic communication[^c-34c6620ad4af040b130f497d8d795984]
 
 *Extent: S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-34c6620ad4af040b130f497d8d795984]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2004/317/regulation/25) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
+[^c-34c6620ad4af040b130f497d8d795984]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2004/317/regulation/25) in force at 26.9.2004, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1)
 
 [^f00026]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Abolition of restrictions on accumulation and on creation of future interests[^key-896640f87b4e9b09c95d28f1a35975bc]
+## 45. Abolition of restrictions on accumulation and on creation of future interests[^c-896640f87b4e9b09c95d28f1a35975bc]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-896640f87b4e9b09c95d28f1a35975bc]: Commencement: S. 45 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-896640f87b4e9b09c95d28f1a35975bc]: Commencement: S. 45 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

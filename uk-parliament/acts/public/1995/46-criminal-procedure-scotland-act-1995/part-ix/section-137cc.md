@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137CC. Custody cases: initiating JP court proceedings outwith sheriffdom[^key-edd2cac2edce2897c26cfd3c058b9dbe]
+## 137CC. Custody cases: initiating JP court proceedings outwith sheriffdom[^c-edd2cac2edce2897c26cfd3c058b9dbe]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edd2cac2edce2897c26cfd3c058b9dbe]: Textual amendment: Ss. 137CA-137CC inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [ss. 61](https://www.legislation.gov.uk/asp/2010/13/section/61) , [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-edd2cac2edce2897c26cfd3c058b9dbe]: Textual amendment: Ss. 137CA-137CC inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) , [ss. 61](https://www.legislation.gov.uk/asp/2010/13/section/61) , [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1) ; [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

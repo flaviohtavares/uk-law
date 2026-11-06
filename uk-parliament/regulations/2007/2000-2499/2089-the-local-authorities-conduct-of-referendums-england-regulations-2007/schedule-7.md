@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Modifications of the Election Petition Rules 1960[^key-65e7eda6c98300f77851d0dc114c30e2]
+## SCHEDULE 7 — Modifications of the Election Petition Rules 1960[^c-65e7eda6c98300f77851d0dc114c30e2]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ Regulation 15
 
 ## Annotations
 
-[^key-65e7eda6c98300f77851d0dc114c30e2]: Commencement: Sch. 7 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-65e7eda6c98300f77851d0dc114c30e2]: Commencement: Sch. 7 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00151]: Footnote: Amended by [S.I. 1985/1278](https://www.legislation.gov.uk/uksi/1985/1278).
 

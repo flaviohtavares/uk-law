@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Introduction[^key-a9723e1693efc56d9efc479bf2757064]
+## 112. Introduction[^c-a9723e1693efc56d9efc479bf2757064]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Stamp Duty Reserve Tax Regulations 1986 in accordance with Articles 11
 
 ## Annotations
 
-[^key-a9723e1693efc56d9efc479bf2757064]: Commencement: Art. 112 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-a9723e1693efc56d9efc479bf2757064]: Commencement: Art. 112 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

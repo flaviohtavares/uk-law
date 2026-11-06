@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Amendment to regulation 61[^key-511a79ae621080b079432b41c5f4b75d]
+## 51. Amendment to regulation 61[^c-511a79ae621080b079432b41c5f4b75d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ In regulation 61 (conditions of UK marketing authorisation: new obligations post
 
 ## Annotations
 
-[^key-511a79ae621080b079432b41c5f4b75d]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2024/832/regulation/51) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-511a79ae621080b079432b41c5f4b75d]: Commencement: [Reg. 51](https://www.legislation.gov.uk/uksi/2024/832/regulation/51) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00062]: Footnote: Relevant amendments to regulation 61 were made by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

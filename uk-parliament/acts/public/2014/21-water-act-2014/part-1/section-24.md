@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Strategic priorities and objectives[^key-a7493bc673bafa75eb72c70fe7a76843]
+## 24. Strategic priorities and objectives[^c-a7493bc673bafa75eb72c70fe7a76843]
 
 *Extent: E+W*
 
@@ -106,4 +106,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7493bc673bafa75eb72c70fe7a76843]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/21/section/24) in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))
+[^c-a7493bc673bafa75eb72c70fe7a76843]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2014/21/section/24) in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/773/article/2/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/773/article/4))

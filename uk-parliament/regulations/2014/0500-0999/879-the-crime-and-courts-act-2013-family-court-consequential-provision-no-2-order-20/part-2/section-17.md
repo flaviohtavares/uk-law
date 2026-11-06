@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**17.**[^key-f7fbe0167648003d8341eb6237070f57] Omit rules 3, 38, 39(6), 41, 43, 44 and 45.
+**17.**[^c-f7fbe0167648003d8341eb6237070f57] Omit rules 3, 38, 39(6), 41, 43, 44 and 45.
 
 ## Annotations
 
-[^key-f7fbe0167648003d8341eb6237070f57]: Commencement: Art. 17 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-f7fbe0167648003d8341eb6237070f57]: Commencement: Art. 17 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

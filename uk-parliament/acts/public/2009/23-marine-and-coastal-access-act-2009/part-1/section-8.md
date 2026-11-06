@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Exemptions for operations for scientific and other purposes[^c2008383][^key-5ceee2428c07cdb7b4d2c850671f8b86]
+## 8. Exemptions for operations for scientific and other purposes[^c2008383][^c-5ceee2428c07cdb7b4d2c850671f8b86]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c2008383]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2009/23/section/8) partly in force; [s. 8](https://www.legislation.gov.uk/ukpga/2009/23/section/8) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-5ceee2428c07cdb7b4d2c850671f8b86]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2009/23/section/8) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/907](https://www.legislation.gov.uk/uksi/2010/907), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2010/907/article/2/2/e)
+[^c-5ceee2428c07cdb7b4d2c850671f8b86]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2009/23/section/8) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/907](https://www.legislation.gov.uk/uksi/2010/907), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2010/907/article/2/2/e)

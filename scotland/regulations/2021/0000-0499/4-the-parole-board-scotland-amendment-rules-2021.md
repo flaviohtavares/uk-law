@@ -32,7 +32,7 @@ summary: ''
 
 Prisons
 
-The Parole Board (Scotland) Amendment Rules 2021 (revoked)[^key-dfd405f72cddf34271b32f2414c46f68]
+The Parole Board (Scotland) Amendment Rules 2021 (revoked)[^c-dfd405f72cddf34271b32f2414c46f68]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 1st March 2021
 
-[^key-dfd405f72cddf34271b32f2414c46f68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dfd405f72cddf34271b32f2414c46f68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-dfd405f72cddf34271b32f2414c46f68]
+## 1. Citation, commencement and application[^c-dfd405f72cddf34271b32f2414c46f68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Parole Board (Scotland) Rules 2001[^key-dfd405f72cddf34271b32f2414c46f68]
+## 2. Amendment of the Parole Board (Scotland) Rules 2001[^c-dfd405f72cddf34271b32f2414c46f68]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dfd405f72cddf34271b32f2414c46f68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dfd405f72cddf34271b32f2414c46f68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dfd405f72cddf34271b32f2414c46f68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dfd405f72cddf34271b32f2414c46f68]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dfd405f72cddf34271b32f2414c46f68]: Textual amendment: [Rules](https://www.legislation.gov.uk/ssi/2021/4) revoked (1.4.2023) by [The Parole Board (Scotland) Rules 2022 (S.S.I. 2022/385)](https://www.legislation.gov.uk/ssi/2022/385), [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/385/schedule/2) (with [rules 1(2)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/2), [35](https://www.legislation.gov.uk/ssi/2022/385/rule/35))
+[^c-dfd405f72cddf34271b32f2414c46f68]: Textual amendment: [Rules](https://www.legislation.gov.uk/ssi/2021/4) revoked (1.4.2023) by [The Parole Board (Scotland) Rules 2022 (S.S.I. 2022/385)](https://www.legislation.gov.uk/ssi/2022/385), [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/385/schedule/2) (with [rules 1(2)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/2), [35](https://www.legislation.gov.uk/ssi/2022/385/rule/35))

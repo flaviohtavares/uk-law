@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — PERMANENT STOPPING UP OF STREETS FOR WHICH A SUBSITUTE IS TO BE PROVIDED[^key-f1f84ef8bf8122b7b15f9fbe94195e61]
+## SCHEDULE 3 — PERMANENT STOPPING UP OF STREETS FOR WHICH A SUBSITUTE IS TO BE PROVIDED[^c-f1f84ef8bf8122b7b15f9fbe94195e61]
 
 *Extent: E+W+S*
 
@@ -76,4 +76,4 @@ Article 13
 
 ## Annotations
 
-[^key-f1f84ef8bf8122b7b15f9fbe94195e61]: Commencement: Sch. 3 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-f1f84ef8bf8122b7b15f9fbe94195e61]: Commencement: Sch. 3 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

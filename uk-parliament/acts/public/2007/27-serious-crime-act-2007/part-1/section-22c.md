@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22C. Powers of High Court of Justiciary and sheriff to vary or replace orders on breach[^key-95a35c216d41d61806a6ff99ed7ab480]
+## 22C. Powers of High Court of Justiciary and sheriff to vary or replace orders on breach[^c-95a35c216d41d61806a6ff99ed7ab480]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ vary or replace the order if the High Court or (as the case may be) the sheriff 
 
 ## Annotations
 
-[^key-95a35c216d41d61806a6ff99ed7ab480]: Textual amendment: [Ss. 22A-22D](https://www.legislation.gov.uk/ukpga/2007/27/section/22A) and cross-heading inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/17); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/148/article/5))
+[^c-95a35c216d41d61806a6ff99ed7ab480]: Textual amendment: [Ss. 22A-22D](https://www.legislation.gov.uk/ukpga/2007/27/section/22A) and cross-heading inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/17); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f) (with [art. 5](https://www.legislation.gov.uk/uksi/2016/148/article/5))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20.7. Electronic signatures[^key-1c21c939f43436c32d9dc10b7298f14d]
+## 20.7. Electronic signatures[^c-1c21c939f43436c32d9dc10b7298f14d]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Where any provision of these Rules requires a document to be signed, or any form
 
 ## Annotations
 
-[^key-1c21c939f43436c32d9dc10b7298f14d]: Commencement: [Rule 20.7](https://www.legislation.gov.uk/uksi/2015/1568/article/20.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-1c21c939f43436c32d9dc10b7298f14d]: Commencement: [Rule 20.7](https://www.legislation.gov.uk/uksi/2015/1568/article/20.7) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

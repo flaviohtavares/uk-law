@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Health service body status[^key-98139d82f32c525b52bc9ce234c3b504]
+## 38. Health service body status[^c-98139d82f32c525b52bc9ce234c3b504]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98139d82f32c525b52bc9ce234c3b504]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2026/37/regulation/38) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-98139d82f32c525b52bc9ce234c3b504]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2026/37/regulation/38) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

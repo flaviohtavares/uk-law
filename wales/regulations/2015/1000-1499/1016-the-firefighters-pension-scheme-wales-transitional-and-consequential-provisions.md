@@ -43,25 +43,25 @@ Coming into force
 
 1 April 2015
 
-The Welsh Ministers make these Regulations in exercise of the powers conferred by sections 1(1) and (2)[^f00001], 2(1), 3(1), (2), (3)(a) and (c), [^key-350ecb02e2927cabf679c610169c5b0f]... 18(5) and (6) of, and paragraph 6(b) of Schedule 2, Schedule 3 and paragraphs 1(2)(ii), 2(2)(ii) and 5(1) of Schedule 7 to, the Public Service Pensions Act 2013[^f00002].
+The Welsh Ministers make these Regulations in exercise of the powers conferred by sections 1(1) and (2)[^f00001], 2(1), 3(1), (2), (3)(a) and (c), [^c-350ecb02e2927cabf679c610169c5b0f]... 18(5) and (6) of, and paragraph 6(b) of Schedule 2, Schedule 3 and paragraphs 1(2)(ii), 2(2)(ii) and 5(1) of Schedule 7 to, the Public Service Pensions Act 2013[^f00002].
 
 In accordance with section 21 of that Act, the Welsh Ministers have consulted the representatives of such persons as appear to the Welsh Ministers likely to be affected by these Regulations.
 
-## 1. Title and commencement[^key-978e62269c7c6c19af1db19bfcb3925c]
+## 1. Title and commencement[^c-978e62269c7c6c19af1db19bfcb3925c]
 
 (1) The title of these Regulations is the Firefighters’ Pension Scheme (Wales) (Transitional and Consequential Provisions) Regulations 2015.
 
 (2) These Regulations come into force on 1 April 2015.
 
-## 2. Amendment of the Firefighters’ Pension Scheme (Wales) Regulations 2015[^key-d0937552f7dca6fd7fe27dc900d65a6e]
+## 2. Amendment of the Firefighters’ Pension Scheme (Wales) Regulations 2015[^c-d0937552f7dca6fd7fe27dc900d65a6e]
 
 The Firefighters’ Pension Scheme (Wales) Regulations 2015[^f00003] which establish the Firefighters’ Pension Scheme (Wales) 2015 are amended in accordance with Schedule 1 to these Regulations.
 
-## 3. Amendment of the Firefighters’ Pension Scheme (Wales) Order 2007[^key-579449b9f48d0e29cd5f1337d75c9b2d]
+## 3. Amendment of the Firefighters’ Pension Scheme (Wales) Order 2007[^c-579449b9f48d0e29cd5f1337d75c9b2d]
 
 Schedule 1 to the Firefighters’ Pension Scheme (Wales) Order 2007[^f00004] (in which the New Firefighters’ Pension Scheme (Wales) is set out) is amended in accordance with Schedule 2 to these Regulations.
 
-## 4. Amendment of the Firemen’s Pension Scheme Order 1992[^key-980c995e9eb774d70874ca8504f3f79e]
+## 4. Amendment of the Firemen’s Pension Scheme Order 1992[^c-980c995e9eb774d70874ca8504f3f79e]
 
 Schedule 2 to the Firemen’s Pension Scheme Order 1992[^f00005] (in which is set out the Firefighters’ Pension (Wales) Scheme), as it has effect in Wales, is amended in accordance with Schedule 3 to these Regulations.
 
@@ -77,7 +77,7 @@ SCHEDULES
 
 Regulation 2
 
-**1.**[^key-5b3b6ac5f6cc9079bfc03c451b516778] In Part 1 (preliminary), in regulation 3 (interpretation)—
+**1.**[^c-5b3b6ac5f6cc9079bfc03c451b516778] In Part 1 (preliminary), in regulation 3 (interpretation)—
 
 - (a) in the appropriate places insert—
 
@@ -128,13 +128,13 @@ Regulation 2
 
   .
 
-**2.**[^key-66aaf1d10f3f88d0165bb893e4b832d0] In Part 2 (governance), at the end of paragraph (2) of regulation 4 (scheme manager) insert “in relation to each of the member’s pension accounts”.
+**2.**[^c-66aaf1d10f3f88d0165bb893e4b832d0] In Part 2 (governance), at the end of paragraph (2) of regulation 4 (scheme manager) insert “in relation to each of the member’s pension accounts”.
 
-**3.**[^key-3ba3dbc2ac0c32ffb8c33cc388b5e5bc] In Part 3 (scheme membership) in Chapter 1 (eligibility for active membership), in regulation 15 (scheme employment), for paragraph (3) substitute—
+**3.**[^c-3ba3dbc2ac0c32ffb8c33cc388b5e5bc] In Part 3 (scheme membership) in Chapter 1 (eligibility for active membership), in regulation 15 (scheme employment), for paragraph (3) substitute—
 
 > (3) A person who is a member of the 1992 Scheme or the NFPS satisfies the requirement in this paragraph.
 
-**4.**[^key-70acc8b20bbf7bee0938d8e69bc609fd] In Part 4 (pension accounts), in Chapter 8 (retirement account), in regulation 60 (account to specify amount of retirement pension (active members))—
+**4.**[^c-70acc8b20bbf7bee0938d8e69bc609fd] In Part 4 (pension accounts), in Chapter 8 (retirement account), in regulation 60 (account to specify amount of retirement pension (active members))—
 
 - (a) after paragraph (3) insert—
 
@@ -145,7 +145,7 @@ Regulation 2
 
   > (4A) For an equivalent amount to the 1992 Scheme lower tier ill-health pension or an equivalent amount to the NFPS lower tier ill-health pension, the retirement account must specify any commutation amount.
 
-**5.**[^key-88129fcc79b24506646a3e19a15cece8] In Part 5 (retirement benefits), in Chapter 2—
+**5.**[^c-88129fcc79b24506646a3e19a15cece8] In Part 5 (retirement benefits), in Chapter 2—
 
 - (a) in regulation 68 (annual rate of retirement pension (active members))—
   - (i) in paragraph (2), for “sub-paragraphs (a), (b) and (c)” substitute “sub-paragraphs (a), (b), (ba) and (c)”;
@@ -211,7 +211,7 @@ Regulation 2
   > - (a) in the case of a person who is a connected member of the NFPS, in accordance with paragraphs (2) and (4) of rule 9 (commutation: general) of Part 3 of the NFPS, and
   > - (b) in the case of a person who is a connected special member of the NFPS, in accordance with paragraphs (2A), (4) and (4A) of rule 9 of Part 3 of that scheme.
 
-**6.**[^key-7b0d7f167246fd98bee2e9bce1c84fb4] In Part 6 (death benefits)—
+**6.**[^c-7b0d7f167246fd98bee2e9bce1c84fb4] In Part 6 (death benefits)—
 
 - (a) in Chapter 1 (interpretation), in regulation 86 (meaning of “initial period”), for “For the purposes of this Part” substitute “For the purposes of these Regulations”;
 - (b) in Chapter 2 (pensions for surviving partners)—
@@ -238,7 +238,7 @@ Regulation 2
 
   > (4) Where the active member’s account in respect of which the lump sum death benefit will be paid included pensionable service reckonable under rule F1 of the 1992 Scheme as qualifying service and a dependent relative’s gratuity has been paid under rule E3 of the 1992 Scheme or the payment of the balance of contributions to estate has been paid under rule E4 of the 1992 Scheme, those amounts must be deducted from the amount of lump sum death benefit payable under this regulation.
 
-**7.**[^key-8c8e0197db87fac3f24d8d7dd95c0ecc] Schedule 2 (transitional provisions) is amended as follows—
+**7.**[^c-8c8e0197db87fac3f24d8d7dd95c0ecc] Schedule 2 (transitional provisions) is amended as follows—
 
 - (a) in Part 1, in paragraph 3(2) for “Subject to sub-paragraph (3)” substitute “Subject to sub-paragraphs (3) and (4)” and after sub-paragraph (3) insert—
 
@@ -545,7 +545,7 @@ Regulation 2
 
 Regulation 3
 
-**1.**[^key-c389e27c24d8c054e21f7c1d5b171437] In Part 1 (title and interpretation), in rule 2(1)—
+**1.**[^c-c389e27c24d8c054e21f7c1d5b171437] In Part 1 (title and interpretation), in rule 2(1)—
 
 - (a) in the appropriate places insert—
 
@@ -614,7 +614,7 @@ Regulation 3
 
   .
 
-**2.**[^key-4d0d2dca64b7f490ef4ed863885d0ea5] In Part 2 (scheme membership, cessation and retirement)—
+**2.**[^c-4d0d2dca64b7f490ef4ed863885d0ea5] In Part 2 (scheme membership, cessation and retirement)—
 
 - (a) after rule 1A (special membership) insert—
 
@@ -674,7 +674,7 @@ Regulation 3
     >
     > (5) The last day of membership of a firefighter member or a special firefighter member who is a full protection member of this Scheme is to be taken as the date on which that member ceases to be a full protection member of this Scheme.
 
-**3.**[^key-cdf7903be4e5d9789fb230e1992c5d64] In Part 3 (personal awards)—
+**3.**[^c-cdf7903be4e5d9789fb230e1992c5d64] In Part 3 (personal awards)—
 
 - (a) in rule 1 (ordinary pension), after paragraph (1) insert—
 
@@ -747,7 +747,7 @@ Regulation 3
     ;
 - (j) in rule 11 (allocation of pension), in paragraph (1), after “A firefighter member” insert “, a a connected member or a connected special member”.
 
-**4.**[^key-64577570c964181222d239b842263103] In Part 10 (qualifying service and pensionable service)—
+**4.**[^c-64577570c964181222d239b842263103] In Part 10 (qualifying service and pensionable service)—
 
 - (a) in rule 1 (qualifying service), after paragraph (h) omit “and” and after paragraph (i) insert—
 
@@ -762,7 +762,7 @@ Regulation 3
   >
   > A period of service or of leave or unpaid leave after a person’s transition date is not reckonable as pensionable service or as special pensionable service under this Scheme.
 
-**5.**[^key-59539404c228cc69d9306fd9babdacc2] In Part 11 (pensionable pay, pension contributions and purchase of additional service), in Chapter 1 (pensionable pay and pension contributions)—
+**5.**[^c-59539404c228cc69d9306fd9babdacc2] In Part 11 (pensionable pay, pension contributions and purchase of additional service), in Chapter 1 (pensionable pay and pension contributions)—
 
 - (a) in rule 1 (pensionable pay)—
   - (i) in paragraph (1) for “Subject to paragraphs (3) and (6) and rule 3(3)” substitute “Subject to paragraphs (3), (6) and (7) and rule 3(3)”;
@@ -829,7 +829,7 @@ Regulation 3
   >
   > (6) Where the connected member complies with the requirements in paragraph (2) that person may require the authority to treat the period referred to in paragraph (5) as pensionable service or in the case of a connected special member as special pensionable service.
 
-**6.**[^key-524199fdcec05ed20ee80619f2f8695d] In Part 12 (transfers into and out of the Scheme)—
+**6.**[^c-524199fdcec05ed20ee80619f2f8695d] In Part 12 (transfers into and out of the Scheme)—
 
 - (a) in Chapter 1 (interpretation of Part 12 and entitlement to transfer value payment)—
   - (i) in rule 1 (interpretation of Part 12), in the appropriate place insert—
@@ -857,13 +857,13 @@ Regulation 3
 
     > (4) Where the application under rule 8 is made by a person to whom paragraph (4) of that rule applies, paragraphs (2) and (3) (limit on maximum amount of pensionable service that may be accrued) of rule 2 of Part 10 do not apply to that transfer value payment and the authority must accept the transfer value payment unless paragraph (3) of this rule applies.
 
-**7.**[^key-b7a9161f8aba1eeb97c8637531c40df9] In Part 15 (miscellaneous provisions), after rule 4 (annual benefit statements) insert—
+**7.**[^c-b7a9161f8aba1eeb97c8637531c40df9] In Part 15 (miscellaneous provisions), after rule 4 (annual benefit statements) insert—
 
 > **4A. Actuarial valuations**
 >
 > Where the scheme actuary is carrying out a valuation of the 2015 Scheme and is required to carry out a valuation of this Scheme, the authority must provide the scheme actuary with any data that the scheme actuary requires in order to carry out a valuation and prepare a report on the valuation.
 
-**8.**[^key-9db7a94844126d3927a0e1e4717ff4d2] In Annex 1 (ill-health pensions), after paragraph (6) insert—
+**8.**[^c-9db7a94844126d3927a0e1e4717ff4d2] In Annex 1 (ill-health pensions), after paragraph (6) insert—
 
 > (7) Where a connected member or a connected special member of this Scheme is entitled to the payment of an equivalent amount to a lower tier ill-health pension, that amount must be calculated in accordance with paragraph (1) of this annex.
 
@@ -871,7 +871,7 @@ Regulation 3
 
 Regulation 4
 
-**1.**[^key-5919ae7abcaef5a8fb025e68893065cf] In Part A (general provisions and retirement)—
+**1.**[^c-5919ae7abcaef5a8fb025e68893065cf] In Part A (general provisions and retirement)—
 
 - (a) in rule A3 (exclusive application to regular firefighters), in paragraph (1) for “Subject to paragraphs (3) to (5)” substitute “Subject to paragraphs (3) to (6)” and after paragraph (5) insert—
 
@@ -894,7 +894,7 @@ Regulation 4
 
   > **A13A.** The normal pension age for a regular firefighter to whom paragraph (7) of rule A3 applies is 55.
 
-**2.**[^key-e9f1858eecd209583f1d43df9018a4e6] In Part B (personal awards)—
+**2.**[^c-e9f1858eecd209583f1d43df9018a4e6] In Part B (personal awards)—
 
 - (a) in rule B1 (ordinary pension), in paragraph (2) after sub-paragraph (c) insert—
 
@@ -998,15 +998,15 @@ Regulation 4
 
   .
 
-**3.**[^key-bf97b4e1f9a2a0520ec04eecb9670c0d] In Part C (awards on death – spouses) in rule C1 (spouse’s ordinary pension), in paragraph (1) for “This rule applies” substitute “Subject to paragraph (1A), this rule applies” and after paragraph (1) insert—
+**3.**[^c-bf97b4e1f9a2a0520ec04eecb9670c0d] In Part C (awards on death – spouses) in rule C1 (spouse’s ordinary pension), in paragraph (1) for “This rule applies” substitute “Subject to paragraph (1A), this rule applies” and after paragraph (1) insert—
 
 > (1A) This rule does not apply to a person who dies leaving a spouse or civil partner while serving as a regular firefighter if paragraph (6) of rule A3 applied to that person.
 
-**4.**[^key-0976f5fe255d0634821faac16b200618] In Part D (awards on death – children) in rule D1 (child’s ordinary allowance), in paragraph (1) for “This rule applies” substitute “Subject to paragraph (1A) this rule applies” and after paragraph (1) insert—
+**4.**[^c-0976f5fe255d0634821faac16b200618] In Part D (awards on death – children) in rule D1 (child’s ordinary allowance), in paragraph (1) for “This rule applies” substitute “Subject to paragraph (1A) this rule applies” and after paragraph (1) insert—
 
 > (1A) This rule does not apply to a person who dies leaving a child while serving as a regular firefighter if paragraph (6) of rule A3 applied to that person.
 
-**5.**[^key-5b0aa4ff5aeaecd9d128dc2eda2b9796] In Part E (awards on death – additional provisions)—
+**5.**[^c-5b0aa4ff5aeaecd9d128dc2eda2b9796] In Part E (awards on death – additional provisions)—
 
 - (a) in paragraph (1) of rule E1 (lump sum death grant) for “On the death of” substitute “Subject to paragraph (1A), on the death of” and after that paragraph insert—
 
@@ -1027,7 +1027,7 @@ Regulation 4
 
   > (1A) This rule does not apply where the deceased died while serving as a regular firefighter if paragraph (6) of rule A3 had applied to the deceased.
 
-**6.**[^key-16e58c4b384af8c2b1595bfd4cd057b8] In Part F (pensionable service and transfer values)—
+**6.**[^c-16e58c4b384af8c2b1595bfd4cd057b8] In Part F (pensionable service and transfer values)—
 
 - (a) in rule F2 (current service)—
   - (i) in paragraph (2), after sub-paragraph (a) insert—
@@ -1051,7 +1051,7 @@ Regulation 4
     >
     > (1B) A transfer value may not be paid if paragraph (7) of rule A3 applies to the person and that person is receiving payment of the equivalent amount to the 1992 Scheme lower tier ill-health pension from the 2015 Scheme under the 2015 Regulations.
 
-**7.**[^key-4d755a94fd767dfc4078d7d0c2ebbddf] In Part G (pensionable pay and contributions)—
+**7.**[^c-4d755a94fd767dfc4078d7d0c2ebbddf] In Part G (pensionable pay and contributions)—
 
 - (a) in rule G1 (pensionable pay and average pensionable pay)—
   - (i) in paragraph (1) for “Subject to paragraphs (2) and (9)” substitute “Subject to paragraphs (2), (9) and (10)”;
@@ -1089,7 +1089,7 @@ Regulation 4
   ;
 - (d) in rule G8 (effect of payment for increased benefits), in sub-paragraph (a) of paragraph (1), after “pension under rule” insert “B1A” and after “B5(” insert “continued”.
 
-**8.**[^key-eae41e7d8dfa96a604d4e362c1052d9a] In Part I (glossary of expressions) of Schedule 1 (interpretation), in the appropriate places insert—
+**8.**[^c-eae41e7d8dfa96a604d4e362c1052d9a] In Part I (glossary of expressions) of Schedule 1 (interpretation), in the appropriate places insert—
 
 > |  |  |
 > | --- | --- |
@@ -1105,7 +1105,7 @@ Regulation 4
 > | “Tapered protection closing date” | Construe in accordance with paragraph 3 of Schedule 2 to the 2015 Regulations. |
 > | “Tapered protection member of this Scheme” | A person who is a tapered protection member of this Scheme by virtue of paragraph 15 of Schedule 2 to the 2015 Regulations. |
 
-**9.**[^key-57338e194345def28a80aea946bd6210] In Schedule 2—
+**9.**[^c-57338e194345def28a80aea946bd6210] In Schedule 2—
 
 - (a) after Part 2 insert—
 
@@ -1152,68 +1152,68 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: See also section 1(3) and Schedule 1.
 
-[^key-350ecb02e2927cabf679c610169c5b0f]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/wsi/2015/1016/introduction) omitted (with effect from 1.4.2015) by virtue of [The Firefighters' Pension Scheme (Wales) (Amendment) Regulations 2018 (S.I. 2018/576)](https://www.legislation.gov.uk/wsi/2018/576), [regs. 1(2)(3)](https://www.legislation.gov.uk/wsi/2018/576/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/576/regulation/9)
+[^c-350ecb02e2927cabf679c610169c5b0f]: Textual amendment: Words in [Preamble](https://www.legislation.gov.uk/wsi/2015/1016/introduction) omitted (with effect from 1.4.2015) by virtue of [The Firefighters' Pension Scheme (Wales) (Amendment) Regulations 2018 (S.I. 2018/576)](https://www.legislation.gov.uk/wsi/2018/576), [regs. 1(2)(3)](https://www.legislation.gov.uk/wsi/2018/576/regulation/1/2), [9](https://www.legislation.gov.uk/wsi/2018/576/regulation/9)
 
 [^f00002]: Footnote: [2013 c. 25](https://www.legislation.gov.uk/ukpga/2013/25).
 
-[^key-978e62269c7c6c19af1db19bfcb3925c]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-978e62269c7c6c19af1db19bfcb3925c]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-d0937552f7dca6fd7fe27dc900d65a6e]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-d0937552f7dca6fd7fe27dc900d65a6e]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2015/622 (W. 50)](https://www.legislation.gov.uk/wsi/2015/622).
 
-[^key-579449b9f48d0e29cd5f1337d75c9b2d]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-579449b9f48d0e29cd5f1337d75c9b2d]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2007/1072 (W. 110)](https://www.legislation.gov.uk/wsi/2007/1072); Schedule 1 is the subject of amendments not relevant to these Regulations.
 
-[^key-980c995e9eb774d70874ca8504f3f79e]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-980c995e9eb774d70874ca8504f3f79e]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 1992/129](https://www.legislation.gov.uk/uksi/1992/129). Schedule 2 is the subject of amendments not relevant to these Regulations. The name of the scheme was changed to the Firefighters’ Pension (Wales) Scheme by [S.I. 2004/2918 (W. 257)](https://www.legislation.gov.uk/wsi/2004/2918). By virtue of [S.I. 2007/1072 (W. 110)](https://www.legislation.gov.uk/wsi/2007/1072), subject to certain savings, the scheme has no effect in relation to any person who takes up employment with a Welsh fire and rescue authority on or after 6 April 2006.
 
-[^key-5b3b6ac5f6cc9079bfc03c451b516778]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-5b3b6ac5f6cc9079bfc03c451b516778]: Commencement: Sch. 1 para. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-66aaf1d10f3f88d0165bb893e4b832d0]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-66aaf1d10f3f88d0165bb893e4b832d0]: Commencement: Sch. 1 para. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-3ba3dbc2ac0c32ffb8c33cc388b5e5bc]: Commencement: Sch. 1 para. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-3ba3dbc2ac0c32ffb8c33cc388b5e5bc]: Commencement: Sch. 1 para. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-70acc8b20bbf7bee0938d8e69bc609fd]: Commencement: Sch. 1 para. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-70acc8b20bbf7bee0938d8e69bc609fd]: Commencement: Sch. 1 para. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-88129fcc79b24506646a3e19a15cece8]: Commencement: Sch. 1 para. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-88129fcc79b24506646a3e19a15cece8]: Commencement: Sch. 1 para. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-7b0d7f167246fd98bee2e9bce1c84fb4]: Commencement: Sch. 1 para. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-7b0d7f167246fd98bee2e9bce1c84fb4]: Commencement: Sch. 1 para. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-8c8e0197db87fac3f24d8d7dd95c0ecc]: Commencement: Sch. 1 para. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-8c8e0197db87fac3f24d8d7dd95c0ecc]: Commencement: Sch. 1 para. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-c389e27c24d8c054e21f7c1d5b171437]: Commencement: Sch. 2 para. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-c389e27c24d8c054e21f7c1d5b171437]: Commencement: Sch. 2 para. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-4d0d2dca64b7f490ef4ed863885d0ea5]: Commencement: Sch. 2 para. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-4d0d2dca64b7f490ef4ed863885d0ea5]: Commencement: Sch. 2 para. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-cdf7903be4e5d9789fb230e1992c5d64]: Commencement: Sch. 2 para. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-cdf7903be4e5d9789fb230e1992c5d64]: Commencement: Sch. 2 para. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-64577570c964181222d239b842263103]: Commencement: Sch. 2 para. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-64577570c964181222d239b842263103]: Commencement: Sch. 2 para. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-59539404c228cc69d9306fd9babdacc2]: Commencement: Sch. 2 para. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-59539404c228cc69d9306fd9babdacc2]: Commencement: Sch. 2 para. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-524199fdcec05ed20ee80619f2f8695d]: Commencement: Sch. 2 para. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-524199fdcec05ed20ee80619f2f8695d]: Commencement: Sch. 2 para. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-b7a9161f8aba1eeb97c8637531c40df9]: Commencement: Sch. 2 para. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-b7a9161f8aba1eeb97c8637531c40df9]: Commencement: Sch. 2 para. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-9db7a94844126d3927a0e1e4717ff4d2]: Commencement: Sch. 2 para. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-9db7a94844126d3927a0e1e4717ff4d2]: Commencement: Sch. 2 para. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-5919ae7abcaef5a8fb025e68893065cf]: Commencement: Sch. 3 para. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-5919ae7abcaef5a8fb025e68893065cf]: Commencement: Sch. 3 para. 1 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-e9f1858eecd209583f1d43df9018a4e6]: Commencement: Sch. 3 para. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-e9f1858eecd209583f1d43df9018a4e6]: Commencement: Sch. 3 para. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-bf97b4e1f9a2a0520ec04eecb9670c0d]: Commencement: Sch. 3 para. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-bf97b4e1f9a2a0520ec04eecb9670c0d]: Commencement: Sch. 3 para. 3 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-0976f5fe255d0634821faac16b200618]: Commencement: Sch. 3 para. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-0976f5fe255d0634821faac16b200618]: Commencement: Sch. 3 para. 4 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-5b0aa4ff5aeaecd9d128dc2eda2b9796]: Commencement: Sch. 3 para. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-5b0aa4ff5aeaecd9d128dc2eda2b9796]: Commencement: Sch. 3 para. 5 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-16e58c4b384af8c2b1595bfd4cd057b8]: Commencement: Sch. 3 para. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-16e58c4b384af8c2b1595bfd4cd057b8]: Commencement: Sch. 3 para. 6 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-4d755a94fd767dfc4078d7d0c2ebbddf]: Commencement: Sch. 3 para. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-4d755a94fd767dfc4078d7d0c2ebbddf]: Commencement: Sch. 3 para. 7 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-eae41e7d8dfa96a604d4e362c1052d9a]: Commencement: Sch. 3 para. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-eae41e7d8dfa96a604d4e362c1052d9a]: Commencement: Sch. 3 para. 8 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
 
-[^key-57338e194345def28a80aea946bd6210]: Commencement: Sch. 3 para. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)
+[^c-57338e194345def28a80aea946bd6210]: Commencement: Sch. 3 para. 9 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1016/regulation/1/2)

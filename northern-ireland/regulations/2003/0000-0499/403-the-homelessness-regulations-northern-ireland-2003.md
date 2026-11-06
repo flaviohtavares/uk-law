@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING
 
-The Homelessness Regulations (Northern Ireland) 2003 (revoked)[^key-dd21e88192c2674f8cb948157488fb8e]
+The Homelessness Regulations (Northern Ireland) 2003 (revoked)[^c-dd21e88192c2674f8cb948157488fb8e]
 
 Made
 
@@ -43,26 +43,26 @@ Coming into operation
 
 1st November 2003
 
-[^key-dd21e88192c2674f8cb948157488fb8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd21e88192c2674f8cb948157488fb8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-dd21e88192c2674f8cb948157488fb8e]
+## 1. Citation and commencement[^c-dd21e88192c2674f8cb948157488fb8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-dd21e88192c2674f8cb948157488fb8e]
+## 2. Interpretation[^c-dd21e88192c2674f8cb948157488fb8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Descriptions of persons who are to be treated as persons from abroad ineligible for housing assistance[^key-dd21e88192c2674f8cb948157488fb8e]
+## 3. Descriptions of persons who are to be treated as persons from abroad ineligible for housing assistance[^c-dd21e88192c2674f8cb948157488fb8e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd21e88192c2674f8cb948157488fb8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd21e88192c2674f8cb948157488fb8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dd21e88192c2674f8cb948157488fb8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dd21e88192c2674f8cb948157488fb8e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dd21e88192c2674f8cb948157488fb8e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/403) revoked (1.5.2004) by [The Homelessness Regulations (Northern Ireland) 2004 (revoked) 2004 (S.R. 2004/199)](https://www.legislation.gov.uk/nisr/2004/199), [regs. 1](https://www.legislation.gov.uk/nisr/2004/199/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2004/199/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/nisr/2004/199/regulation/5/2))
+[^c-dd21e88192c2674f8cb948157488fb8e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/403) revoked (1.5.2004) by [The Homelessness Regulations (Northern Ireland) 2004 (revoked) 2004 (S.R. 2004/199)](https://www.legislation.gov.uk/nisr/2004/199), [regs. 1](https://www.legislation.gov.uk/nisr/2004/199/regulation/1), [5(1)](https://www.legislation.gov.uk/nisr/2004/199/regulation/5/1) (with [reg. 5(2)](https://www.legislation.gov.uk/nisr/2004/199/regulation/5/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68A. Approved training courses before 19th January 2013[^key-ee775291293c802908c652ad4a358860]
+## 68A. Approved training courses before 19th January 2013[^c-ee775291293c802908c652ad4a358860]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee775291293c802908c652ad4a358860]: Textual amendment: Reg. 68A inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 40](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/40)
+[^c-ee775291293c802908c652ad4a358860]: Textual amendment: Reg. 68A inserted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 40](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/40)

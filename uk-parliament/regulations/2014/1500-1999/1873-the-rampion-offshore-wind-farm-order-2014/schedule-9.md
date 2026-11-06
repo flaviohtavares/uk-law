@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 9 — Land of which temporary possession may be taken[^key-e6c87b4f30eba5f5e13995091dd361b8]
+## SCHEDULE 9 — Land of which temporary possession may be taken[^c-e6c87b4f30eba5f5e13995091dd361b8]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ Article 31
 
 ## Annotations
 
-[^key-e6c87b4f30eba5f5e13995091dd361b8]: Commencement: Sch. 9 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-e6c87b4f30eba5f5e13995091dd361b8]: Commencement: Sch. 9 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

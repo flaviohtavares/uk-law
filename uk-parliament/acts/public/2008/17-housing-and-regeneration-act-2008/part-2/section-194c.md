@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 194C. Standards relating to information and transparency[^key-9d9f8f2a481ed3dd06aabc18edecd36d]
+## 194C. Standards relating to information and transparency[^c-9d9f8f2a481ed3dd06aabc18edecd36d]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d9f8f2a481ed3dd06aabc18edecd36d]: Textual amendment: [S. 194C](https://www.legislation.gov.uk/ukpga/2008/17/section/194C) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/22/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/j)
+[^c-9d9f8f2a481ed3dd06aabc18edecd36d]: Textual amendment: [S. 194C](https://www.legislation.gov.uk/ukpga/2008/17/section/194C) inserted (20.9.2023) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/22/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/j)

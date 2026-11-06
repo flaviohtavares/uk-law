@@ -42,29 +42,29 @@ Coming into operation in accordance with regulation 1
 
 The Department of Enterprise, Trade and Investment makes the following Regulations in exercise of the powers conferred on it by section 113 of the Energy Act 2011[^f00001].
 
-## 1. Citation and commencement[^key-d4ab316312a25b5d871501c49c15466c]
+## 1. Citation and commencement[^c-d4ab316312a25b5d871501c49c15466c]
 
 These Regulations may be cited as the Renewable Heat Incentive Schemes (Amendment) Regulations (Northern Ireland) 2016 and shall come into operation on the day after the day on which they are made.
 
-## 2. Interpretation[^key-bb2f1226f8eb19f09afa583fe0c47966]
+## 2. Interpretation[^c-bb2f1226f8eb19f09afa583fe0c47966]
 
 The Interpretation Act (Northern Ireland) 1954[^f00002] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Amendment of the Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2012[^key-1c942688ad9cbd41c1113064cf57f16d]
+## 3. Amendment of the Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2012[^c-1c942688ad9cbd41c1113064cf57f16d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1c942688ad9cbd41c1113064cf57f16d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1c942688ad9cbd41c1113064cf57f16d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1c942688ad9cbd41c1113064cf57f16d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1c942688ad9cbd41c1113064cf57f16d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1c942688ad9cbd41c1113064cf57f16d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1c942688ad9cbd41c1113064cf57f16d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Domestic Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2014[^key-4c619535573b9a7a5105b06e6c6cd99c]
+## 7. Amendment of the Domestic Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2014[^c-4c619535573b9a7a5105b06e6c6cd99c]
 
 The Domestic Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2014[^f00004] are amended in accordance with regulations 8 and 9.
 
-**8.**[^key-fe445d476b5e053a6d7455c8ad828a05] After regulation 22 insert—
+**8.**[^c-fe445d476b5e053a6d7455c8ad828a05] After regulation 22 insert—
 
 > **22A. Suspension of the operation of the domestic RHI scheme**
 >
@@ -72,7 +72,7 @@ The Domestic Renewable Heat Incentive Scheme Regulations (Northern Ireland) 2014
 >
 > (2) The Department may revoke any notice under paragraph (1) by a further notice in writing and the revocation shall have effect from such date as may be specified in that further notice.
 
-**9.**[^key-a110f8b317a8a6c73f04e43f75ab6042] In regulation 21(1) for the words “subject to regulation 22” substitute “subject to regulation 22 and regulation 22A”.
+**9.**[^c-a110f8b317a8a6c73f04e43f75ab6042] In regulation 21(1) for the words “subject to regulation 22” substitute “subject to regulation 22 and regulation 22A”.
 
 Sealed with the Official Seal of the Department of Enterprise, Trade and Investment on 16th February, 2016.
 
@@ -102,18 +102,18 @@ Regulation 9 makes consequential amendments to the 2014 Regulations.
 
 [^f00001]: Footnote: [2011 c. 16](https://www.legislation.gov.uk/ukpga/2011/16)
 
-[^key-d4ab316312a25b5d871501c49c15466c]: Commencement: Reg. 1 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)
+[^c-d4ab316312a25b5d871501c49c15466c]: Commencement: Reg. 1 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)
 
-[^key-bb2f1226f8eb19f09afa583fe0c47966]: Commencement: Reg. 2 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)
+[^c-bb2f1226f8eb19f09afa583fe0c47966]: Commencement: Reg. 2 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)
 
 [^f00002]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-1c942688ad9cbd41c1113064cf57f16d]: Textual amendment: [Regs. 3-6](https://www.legislation.gov.uk/nisr/2016/47/regulation/3) revoked (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Renewable Heat Incentive Scheme (Closure) Regulations (Northern Ireland) 2026 (S.R. 2026/155)](https://www.legislation.gov.uk/nisr/2026/155), [reg. 46(d)](https://www.legislation.gov.uk/nisr/2026/155/regulation/46/d)
+[^c-1c942688ad9cbd41c1113064cf57f16d]: Textual amendment: [Regs. 3-6](https://www.legislation.gov.uk/nisr/2016/47/regulation/3) revoked (coming into operation in accordance with reg. 1(2) of the amending Rule) by [The Renewable Heat Incentive Scheme (Closure) Regulations (Northern Ireland) 2026 (S.R. 2026/155)](https://www.legislation.gov.uk/nisr/2026/155), [reg. 46(d)](https://www.legislation.gov.uk/nisr/2026/155/regulation/46/d)
 
-[^key-4c619535573b9a7a5105b06e6c6cd99c]: Commencement: Reg. 7 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)
+[^c-4c619535573b9a7a5105b06e6c6cd99c]: Commencement: Reg. 7 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)
 
 [^f00004]: Footnote: [SR 2014 No. 301](https://www.legislation.gov.uk/nisr/2014/301)
 
-[^key-fe445d476b5e053a6d7455c8ad828a05]: Commencement: Reg. 8 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)
+[^c-fe445d476b5e053a6d7455c8ad828a05]: Commencement: Reg. 8 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)
 
-[^key-a110f8b317a8a6c73f04e43f75ab6042]: Commencement: Reg. 9 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)
+[^c-a110f8b317a8a6c73f04e43f75ab6042]: Commencement: Reg. 9 in operation at 17.2.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/47/regulation/1)

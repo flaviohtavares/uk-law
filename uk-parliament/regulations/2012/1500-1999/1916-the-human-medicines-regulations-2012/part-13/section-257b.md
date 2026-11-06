@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257B. Transitional Arrangements[^key-3ee0727432b06ebf18ee4e4c5881d466]
+## 257B. Transitional Arrangements[^c-3ee0727432b06ebf18ee4e4c5881d466]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ee0727432b06ebf18ee4e4c5881d466]: Textual amendment: [Reg. 257B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257B) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [113](https://www.legislation.gov.uk/uksi/2024/832/regulation/113)
+[^c-3ee0727432b06ebf18ee4e4c5881d466]: Textual amendment: [Reg. 257B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/257B) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [113](https://www.legislation.gov.uk/uksi/2024/832/regulation/113)

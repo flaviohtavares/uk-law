@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Initial expenses etc. of new community councils[^key-942377781b7c7acb812ccf13f5dfef50]
+## 104. Initial expenses etc. of new community councils[^c-942377781b7c7acb812ccf13f5dfef50]
 
 *Extent: E+W*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-942377781b7c7acb812ccf13f5dfef50]: Commencement: [Art. 104](https://www.legislation.gov.uk/wsi/2026/95/article/104) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
+[^c-942377781b7c7acb812ccf13f5dfef50]: Commencement: [Art. 104](https://www.legislation.gov.uk/wsi/2026/95/article/104) in force at 6.5.2026 for specified purposes and at 5.5.2027 (at 23:59 hours) in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2026/95/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2026/95/article/1/3)
 
 [^f00009]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Sections 32 and 35 were amended, in relation to Wales, by paragraphs 4 and 6 respectively of Schedule 12 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19). Section 32 was further amended by paragraph 10 of Schedule 7 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and [S.I. 2013/216 (W. 28)](https://www.legislation.gov.uk/wsi/2013/216), there are other amendments not relevant for the purposes of this Order. Section 35 was amended by paragraph 13 of Schedule 7 to the Localism Act 2011 and paragraph 6 of Schedule 12 to the Local Government (Wales) Act 1994, there are other amendments not relevant for the purposes of this Order. Section 41 was amended by paragraph 18 of Schedule 7 to the Localism Act 2011 and section 158 of the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1). Section 50 was amended by Part 1 of Schedule 8 to the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26). Sections 52X and 52Y were inserted by Part 1 of Schedule 1 to the Local Government Act [1999 (c. 27)](https://www.legislation.gov.uk/ukpga/1999/27).
 

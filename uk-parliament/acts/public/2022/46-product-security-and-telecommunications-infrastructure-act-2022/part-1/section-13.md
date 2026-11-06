@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Duties to take action in relation to manufacturer’s compliance failure[^key-4f9431e5b594db976b5b0f69b2cebf44][^key-7a4581b2ad8e925353880bc9c6249bb9]
+## 13. Duties to take action in relation to manufacturer’s compliance failure[^c-4f9431e5b594db976b5b0f69b2cebf44][^c-7a4581b2ad8e925353880bc9c6249bb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f9431e5b594db976b5b0f69b2cebf44]: Commencement: S. 13 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-4f9431e5b594db976b5b0f69b2cebf44]: Commencement: S. 13 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-7a4581b2ad8e925353880bc9c6249bb9]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/46/section/13) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-7a4581b2ad8e925353880bc9c6249bb9]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2022/46/section/13) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

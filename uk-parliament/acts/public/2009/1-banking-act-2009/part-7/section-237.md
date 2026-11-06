@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Compensation: valuer[^key-5c4f0e0cfc6addb4c2adc3af1b06e972]
+## 237. Compensation: valuer[^c-5c4f0e0cfc6addb4c2adc3af1b06e972]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Without prejudice to the generality of section 12 of the Banking (Special Provis
 
 ## Annotations
 
-[^key-5c4f0e0cfc6addb4c2adc3af1b06e972]: Commencement: S. 237 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/7)
+[^c-5c4f0e0cfc6addb4c2adc3af1b06e972]: Commencement: S. 237 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/7)

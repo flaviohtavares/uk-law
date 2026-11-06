@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Accounts[^key-092d1fb6b87945c95925c909f2bbde57]
+## 66. Accounts[^c-092d1fb6b87945c95925c909f2bbde57]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The Scottish Ministers may by regulations make provision for or about—
 
 ## Annotations
 
-[^key-092d1fb6b87945c95925c909f2bbde57]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2019/17/section/66) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-092d1fb6b87945c95925c909f2bbde57]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2019/17/section/66) in force at 22.9.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. General interpretation[^key-352259528923a2d51271e51b02088ef1]
+## 71. General interpretation[^c-352259528923a2d51271e51b02088ef1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In this Measure—
 
 ## Annotations
 
-[^key-352259528923a2d51271e51b02088ef1]: Commencement: [S. 71](https://www.legislation.gov.uk/mwa/2010/1/section/71) in force at 19.11.2025 by [S.I. 2025/1193](https://www.legislation.gov.uk/wsi/2025/1193), [art. 2](https://www.legislation.gov.uk/wsi/2025/1193/article/2)
+[^c-352259528923a2d51271e51b02088ef1]: Commencement: [S. 71](https://www.legislation.gov.uk/mwa/2010/1/section/71) in force at 19.11.2025 by [S.I. 2025/1193](https://www.legislation.gov.uk/wsi/2025/1193), [art. 2](https://www.legislation.gov.uk/wsi/2025/1193/article/2)

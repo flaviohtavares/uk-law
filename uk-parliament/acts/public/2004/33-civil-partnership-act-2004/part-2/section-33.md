@@ -36,11 +36,11 @@ and on conviction shall cease to be a civil partnership registrar.
 
 (4) A person guilty of an offence under subsection (3) is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(5) A person commits an offence if he records in the register information relating to the formation of a civil partnership by the signing of a civil partnership schedule, knowing that the civil partnership is void under section 49(b) [^key-7a741e391db3e6998c39163810ae3ce6]....
+(5) A person commits an offence if he records in the register information relating to the formation of a civil partnership by the signing of a civil partnership schedule, knowing that the civil partnership is void under section 49(b) [^c-7a741e391db3e6998c39163810ae3ce6]....
 
 (6) A person guilty of an offence under subsection (5) is liable on conviction on indictment, to imprisonment for a term not exceeding 5 years or to a fine (or both).
 
-(7) A person commits an offence if he records in the register information relating to the formation of a civil partnership by the signing of a Registrar General’s licence, knowing that the civil partnership is void under section 49(b) [^key-2335160bf295d973ed4c5243a2cdbb2c]....
+(7) A person commits an offence if he records in the register information relating to the formation of a civil partnership by the signing of a Registrar General’s licence, knowing that the civil partnership is void under section 49(b) [^c-2335160bf295d973ed4c5243a2cdbb2c]....
 
 (8) A person guilty of an offence under subsection (7) is liable—
 
@@ -51,6 +51,6 @@ and on conviction shall cease to be a civil partnership registrar.
 
 ## Annotations
 
-[^key-7a741e391db3e6998c39163810ae3ce6]: Textual amendment: Words in [s. 33(5)](https://www.legislation.gov.uk/ukpga/2004/33/section/33/5) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/5/a) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
+[^c-7a741e391db3e6998c39163810ae3ce6]: Textual amendment: Words in [s. 33(5)](https://www.legislation.gov.uk/ukpga/2004/33/section/33/5) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/5/a) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
 
-[^key-2335160bf295d973ed4c5243a2cdbb2c]: Textual amendment: Words in [s. 33(7)](https://www.legislation.gov.uk/ukpga/2004/33/section/33/7) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/5/b) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))
+[^c-2335160bf295d973ed4c5243a2cdbb2c]: Textual amendment: Words in [s. 33(7)](https://www.legislation.gov.uk/ukpga/2004/33/section/33/7) omitted (27.2.2023) by virtue of [Marriage and Civil Partnership (Minimum Age) Act 2022 (c. 28)](https://www.legislation.gov.uk/ukpga/2022/28), [s. 7(1)](https://www.legislation.gov.uk/ukpga/2022/28/section/7/1), [Sch. para. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2022/28/schedule/paragraph/4/5/b) (with [s. 8](https://www.legislation.gov.uk/ukpga/2022/28/section/8)); [S.I. 2023/88](https://www.legislation.gov.uk/uksi/2023/88), [reg. 2](https://www.legislation.gov.uk/uksi/2023/88/regulation/2) (with [regs. 3-17](https://www.legislation.gov.uk/uksi/2023/88/regulation/3))

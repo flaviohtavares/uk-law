@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Orders for securing compliance with certain provisions[^c19491741][^c21464151][^c21464171][^c21464291][^c17844891][^key-efea7bab97bd8e2dd622e1c9c2878d91]
+## 30. Orders for securing compliance with certain provisions[^c19491741][^c21464151][^c21464171][^c21464291][^c17844891][^c-efea7bab97bd8e2dd622e1c9c2878d91]
 
 *Extent: N.I.*
 
@@ -59,16 +59,16 @@ the enforcement authority may (instead of taking steps towards the making of a f
 - (b) the Authority shall be the relevant enforcement authority in relation to the conditions of an appointment under Chapter I; and
 - (c) the relevant enforcement authority in relation to each of the statutory and other requirements enforceable under this Article shall be—
   - (i) the Department;
-  - (ia)[^key-29fb0178a48dc6c3bede5da09b0c7938] DOE;
+  - (ia)[^c-29fb0178a48dc6c3bede5da09b0c7938] DOE;
   - (ii) the Authority; or
-  - (iii) any[^key-c02008a6129f234f6807a4c97bd06586] of the above,
+  - (iii) any[^c-c02008a6129f234f6807a4c97bd06586] of the above,
 
   according to whatever provision is made by the statutory provision by which the requirement is made so enforceable.
 
 (7) In this Article and the following provisions of this Chapter—
 
 - “**enforcement authority**” means—
-  - (a) the Department;[^key-a22b7883fc5282eeb871b775af5ace99]
+  - (a) the Department;[^c-a22b7883fc5282eeb871b775af5ace99]
   - (ab) DOE; or
   - (b) the Authority;
 - “**enforcement order**” means a final enforcement order or a provisional enforcement order;
@@ -89,10 +89,10 @@ the enforcement authority may (instead of taking steps towards the making of a f
 
 [^c17844891]: Commencement: Art. 30 wholly in operation at 1.4.2007; art. 30 in operation at 1.1.2007 in so far as it confers power on a Northern Ireland department to make regulations or orders or makes provision with respect to the exercise of any such power, see art. 1(3)(e); art. 30 in operation at 1.4.2007 insofar as not already in operation by [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-efea7bab97bd8e2dd622e1c9c2878d91]: Modification: [Art. 30](https://www.legislation.gov.uk/nisi/2006/3336/article/30) applied (27.10.2017) by [The Water Supply (Water Quality) Regulations (Northern Ireland) 2017 (S.R. 2017/212)](https://www.legislation.gov.uk/nisr/2017/212), [regs. 1](https://www.legislation.gov.uk/nisr/2017/212/regulation/1), [29(7)](https://www.legislation.gov.uk/nisr/2017/212/regulation/29/7)
+[^c-efea7bab97bd8e2dd622e1c9c2878d91]: Modification: [Art. 30](https://www.legislation.gov.uk/nisi/2006/3336/article/30) applied (27.10.2017) by [The Water Supply (Water Quality) Regulations (Northern Ireland) 2017 (S.R. 2017/212)](https://www.legislation.gov.uk/nisr/2017/212), [regs. 1](https://www.legislation.gov.uk/nisr/2017/212/regulation/1), [29(7)](https://www.legislation.gov.uk/nisr/2017/212/regulation/29/7)
 
-[^key-29fb0178a48dc6c3bede5da09b0c7938]: Textual amendment: Art. 30(6)(c)(ia) inserted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(2)](https://www.legislation.gov.uk/nia/2016/13/section/19/2), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-29fb0178a48dc6c3bede5da09b0c7938]: Textual amendment: Art. 30(6)(c)(ia) inserted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(2)](https://www.legislation.gov.uk/nia/2016/13/section/19/2), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
 
-[^key-c02008a6129f234f6807a4c97bd06586]: Textual amendment: Word in art. 30(6)(c)(iii) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(3)](https://www.legislation.gov.uk/nia/2016/13/section/19/3), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-c02008a6129f234f6807a4c97bd06586]: Textual amendment: Word in art. 30(6)(c)(iii) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(3)](https://www.legislation.gov.uk/nia/2016/13/section/19/3), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
 
-[^key-a22b7883fc5282eeb871b775af5ace99]: Textual amendment: Words in art. 30(7) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(4)](https://www.legislation.gov.uk/nia/2016/13/section/19/4), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))
+[^c-a22b7883fc5282eeb871b775af5ace99]: Textual amendment: Words in art. 30(7) substituted (12.4.2016) by [Environmental Better Regulation Act (NorthernIreland) 2016 (c. 13)](https://www.legislation.gov.uk/nia/2016/13), [ss. 19(4)](https://www.legislation.gov.uk/nia/2016/13/section/19/4), [27(1)](https://www.legislation.gov.uk/nia/2016/13/section/27/1) (with S.I. 2006/3336 (N.I. 21), art. 302A(1) (as inserted by 2016 c. 13 (N.I.), [s. 23](https://www.legislation.gov.uk/nia/2016/13/section/23)))

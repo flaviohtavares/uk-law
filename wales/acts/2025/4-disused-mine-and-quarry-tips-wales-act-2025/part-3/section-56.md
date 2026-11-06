@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Penalty for obstructing operations etc.[^key-b559705d6c12bb43f42306be77bfaebe]
+## 56. Penalty for obstructing operations etc.[^c-b559705d6c12bb43f42306be77bfaebe]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-b559705d6c12bb43f42306be77bfaebe]: Commencement: S. 56 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-b559705d6c12bb43f42306be77bfaebe]: Commencement: S. 56 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

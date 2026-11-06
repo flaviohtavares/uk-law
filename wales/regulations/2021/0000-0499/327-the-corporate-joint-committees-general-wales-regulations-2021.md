@@ -43,21 +43,21 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 83(
 
 A draft of this instrument has been laid before and approved by a resolution of Senedd Cymru in accordance with section 174(4) and (5)(k) and (l) of that Act.
 
-## 1. Title and coming into force[^key-03ed7505856178587cccd868157d9c88]
+## 1. Title and coming into force[^c-03ed7505856178587cccd868157d9c88]
 
 (1) The title of these Regulations is the Corporate Joint Committees (General) (Wales) Regulations 2021.
 
 (2) These Regulations come into force on 1 April 2021.
 
-## 2. Interpretation[^key-fb79f6e1286908b8fa6f16cf766e28c2]
+## 2. Interpretation[^c-fb79f6e1286908b8fa6f16cf766e28c2]
 
 (1) In these Regulations—
 
 - “the 2021 Act” means the Local Government and Elections Act 2021 (asc 1);
-- [^key-a961d6bf38ed1d6e048af5eea40552d4]...
+- [^c-a961d6bf38ed1d6e048af5eea40552d4]...
 - “corporate joint committee” means a corporate joint committee established by regulations made under Part 5 of the 2021 Act;
 - “constituent council”, in relation to a corporate joint committee, means the principal council for a principal area in the area of the corporate joint committee;
-- [^key-a961d6bf38ed1d6e048af5eea40552d4]...
+- [^c-a961d6bf38ed1d6e048af5eea40552d4]...
 - “principal area” has the meaning given by section 68 of the 2021 Act;
 - “principal council” has the meaning given in section 171(1) of the 2021 Act.
 - “senior executive member” has the meaning given by section 77(4) of the 2021 Act.
@@ -69,19 +69,19 @@ A draft of this instrument has been laid before and approved by a resolution of 
 
 ## PART 1 — Standards of conduct
 
-### 3. Conduct of corporate joint committee members, sub-committee members and employees[^key-a592d31f2e9cf1d27497ef83b1c039ce][^key-6e4016bf8673e75031b04043b2226703]
+### 3. Conduct of corporate joint committee members, sub-committee members and employees[^c-a592d31f2e9cf1d27497ef83b1c039ce][^c-6e4016bf8673e75031b04043b2226703]
 
 Schedule 1 makes provision about the standards of conduct that apply in relation to members, sub-committee members and employees of corporate joint committees.
 
 ## PART 2 — Finance and accounts
 
-### 4. Finance and accounts[^key-44a7acd2a246bb81dac2faf72d5fec6d]
+### 4. Finance and accounts[^c-44a7acd2a246bb81dac2faf72d5fec6d]
 
 Schedule 2 makes provision about the finance and accounts of corporate joint committees.
 
 ## PART 3 — General amendments
 
-### 5. General amendments relating to the status of a corporate joint committee[^key-c38fc02eadd7dffd9a74821ad67e1181]
+### 5. General amendments relating to the status of a corporate joint committee[^c-c38fc02eadd7dffd9a74821ad67e1181]
 
 Schedule 3 contains amendments of other enactments related to the status of a corporate joint committee as a public body.
 
@@ -93,13 +93,13 @@ Minister for Housing and Local Government, one of the Welsh Ministers
 
 Regulation 3
 
-### 1. Application of relevant authority’s code of conduct to members and sub-committee members[^key-f474f59f2f1d356f452af6f4ac6fdb09][^key-1726b374e3e5ea0602d3020fbca04394]
+### 1. Application of relevant authority’s code of conduct to members and sub-committee members[^c-f474f59f2f1d356f452af6f4ac6fdb09][^c-1726b374e3e5ea0602d3020fbca04394]
 
 (1) Sub-paragraph (2) applies to a person who—
 
 - (a) is—
   - (i) a member, or
-  - (ii) a member of a sub-committee[^key-8bd1348e76b2e6bbd02c03deb3532716],
+  - (ii) a member of a sub-committee[^c-8bd1348e76b2e6bbd02c03deb3532716],
 
   of a corporate joint committee, and
 - (b) is—
@@ -116,7 +116,7 @@ Regulation 3
 
 (5) A person must register any personal interests they have in the business of the corporate joint committee in their relevant authority’s register of member’s interests by providing written notification to the authority’s monitoring officer.
 
-### 2. Application of authority code of conduct to employees[^key-229913a3b1ab2e3bc49969f461db97f3]
+### 2. Application of authority code of conduct to employees[^c-229913a3b1ab2e3bc49969f461db97f3]
 
 (1) Sub-paragraph (2) applies unless—
 
@@ -127,7 +127,7 @@ Regulation 3
 
 (3) In the 2001 Order, as it applies by virtue of sub-paragraph (2), a reference to an employee’s authority is to be read as reference to an employee’s corporate joint committee.
 
-### 3. Interpretation of Schedule 1[^key-377bd4826371126cbe09026d9c99773c]
+### 3. Interpretation of Schedule 1[^c-377bd4826371126cbe09026d9c99773c]
 
 In this Schedule—
 
@@ -141,13 +141,13 @@ In this Schedule—
 
 Regulation 4
 
-### 1. Amendment of the Local Government Act 2003[^key-41c85c5d8dd0323627d9462c7ab0fb2f]
+### 1. Amendment of the Local Government Act 2003[^c-41c85c5d8dd0323627d9462c7ab0fb2f]
 
 In section 23 of the Local Government Act 2003[^f00005] (meaning of “local authority”), after subsection (10) insert—
 
 > (11) This Part applies in relation to a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021 as it applies in relation to a local authority.
 
-### 2. Amendment of the Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003[^key-f99164e841d6435727bc1f9ea79bd644]
+### 2. Amendment of the Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003[^c-f99164e841d6435727bc1f9ea79bd644]
 
 In regulation 1(4) of the Local Authorities (Capital Finance and Accounting) (Wales) Regulations 2003[^f00006] (interpretation), in the definition of “local authority”, after “Regulations” insert “and includes a corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021 in so far as Part 1 of the Local Government Act 2003 applies to corporate joint committees by virtue of section 23(11) of the 2003 Act”.
 
@@ -155,11 +155,11 @@ In regulation 1(4) of the Local Authorities (Capital Finance and Accounting) (Wa
 
 Regulation 5
 
-### 1. Amendment of the Local Authorities (Goods and Services) Act 1970[^key-479d74bfc7a1b4c17b5caa55e1384d0b]
+### 1. Amendment of the Local Authorities (Goods and Services) Act 1970[^c-479d74bfc7a1b4c17b5caa55e1384d0b]
 
 In section 1(4) of the Local Authorities (Goods and Services) Act 1970[^f00007] (supply of goods and services by local authorities), in the definition of “local authority”, after “any joint authority established by Part VI of the Local Government Act 1985,” insert “any corporate joint committee established by regulations made under Part 5 of the Local Government and Elections (Wales) Act 2021,”.
 
-### 2. Amendment of the Equality Act 2010[^key-7e57fac472fe6a09eb5fa364b219a488]
+### 2. Amendment of the Equality Act 2010[^c-7e57fac472fe6a09eb5fa364b219a488]
 
 In section 59(2) of the Equality Act 2010[^f00008], after paragraph (j) insert—
 
@@ -167,7 +167,7 @@ In section 59(2) of the Equality Act 2010[^f00008], after paragraph (j) insert�
 
 .
 
-### 3. Amendment of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017[^key-cb2ca1af1ffef69784c4b80ef9271fb0]
+### 3. Amendment of the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017[^c-cb2ca1af1ffef69784c4b80ef9271fb0]
 
 In paragraph 1(4) of Schedule 20 to the Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017[^f00009], after paragraph (d) insert—
 
@@ -207,52 +207,52 @@ These Regulations are connected with Regulations which establish certain corpora
 
 [^f00001]: Footnote: [2021 asc 1](https://www.legislation.gov.uk/asc/2021/1).
 
-[^key-03ed7505856178587cccd868157d9c88]: Commencement: Reg. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-03ed7505856178587cccd868157d9c88]: Commencement: Reg. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
-[^key-fb79f6e1286908b8fa6f16cf766e28c2]: Commencement: Reg. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-fb79f6e1286908b8fa6f16cf766e28c2]: Commencement: Reg. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
-[^key-a961d6bf38ed1d6e048af5eea40552d4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/327/regulation/2) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [43(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/43/2)
+[^c-a961d6bf38ed1d6e048af5eea40552d4]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2021/327/regulation/2) omitted (3.12.2021) by virtue of [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [43(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/43/2)
 
-[^key-a592d31f2e9cf1d27497ef83b1c039ce]: Commencement: Reg. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-a592d31f2e9cf1d27497ef83b1c039ce]: Commencement: Reg. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
-[^key-6e4016bf8673e75031b04043b2226703]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2021/327/regulation/3) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [43(3)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/43/3)
+[^c-6e4016bf8673e75031b04043b2226703]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/wsi/2021/327/regulation/3) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [43(3)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/43/3)
 
-[^key-44a7acd2a246bb81dac2faf72d5fec6d]: Commencement: Reg. 4 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-44a7acd2a246bb81dac2faf72d5fec6d]: Commencement: Reg. 4 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
-[^key-c38fc02eadd7dffd9a74821ad67e1181]: Commencement: Reg. 5 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-c38fc02eadd7dffd9a74821ad67e1181]: Commencement: Reg. 5 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
-[^key-f474f59f2f1d356f452af6f4ac6fdb09]: Commencement: Sch. 1 para. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-f474f59f2f1d356f452af6f4ac6fdb09]: Commencement: Sch. 1 para. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
-[^key-1726b374e3e5ea0602d3020fbca04394]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2021/327/schedule/1/paragraph/1) heading substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [43(4)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/43/4/a)
+[^c-1726b374e3e5ea0602d3020fbca04394]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2021/327/schedule/1/paragraph/1) heading substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [43(4)(a)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/43/4/a)
 
-[^key-8bd1348e76b2e6bbd02c03deb3532716]: Textual amendment: Words in [Sch. 1 para. 1(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2021/327/schedule/1/paragraph/1/1/a/ii) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [43(4)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/43/4/b)
+[^c-8bd1348e76b2e6bbd02c03deb3532716]: Textual amendment: Words in [Sch. 1 para. 1(1)(a)(ii)](https://www.legislation.gov.uk/wsi/2021/327/schedule/1/paragraph/1/1/a/ii) substituted (3.12.2021) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2021 (S.I. 2021/1349)](https://www.legislation.gov.uk/wsi/2021/1349), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/1/2), [43(4)(b)](https://www.legislation.gov.uk/wsi/2021/1349/regulation/43/4/b)
 
-[^key-229913a3b1ab2e3bc49969f461db97f3]: Commencement: Sch. 1 para. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-229913a3b1ab2e3bc49969f461db97f3]: Commencement: Sch. 1 para. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2001/2280 (W. 170)](https://www.legislation.gov.uk/wsi/2001/2280).
 
-[^key-377bd4826371126cbe09026d9c99773c]: Commencement: Sch. 1 para. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-377bd4826371126cbe09026d9c99773c]: Commencement: Sch. 1 para. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
 [^f00003]: Footnote: [2000 c 22](https://www.legislation.gov.uk/ukpga/2000/22)
 
 [^f00004]: Footnote: [S.I. 2008/788 (W. 82)](https://www.legislation.gov.uk/wsi/2008/788).
 
-[^key-41c85c5d8dd0323627d9462c7ab0fb2f]: Commencement: Sch. 2 para. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-41c85c5d8dd0323627d9462c7ab0fb2f]: Commencement: Sch. 2 para. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
 [^f00005]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26). Section 23 was amended by the Fire and Rescue Services Act [2004 (c. 21)](https://www.legislation.gov.uk/ukpga/2004/21), Schedule 1, paragraph 100; the Civil Contingencies Act [2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), Schedule 2, paragraph 10(3)(e), the Local Democracy, Economic Development and Construction Act [2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), Schedule 6, paragraph 117(2); the Police Reform and Social Responsibility Act [2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), Schedule 16, paragraph 317; the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), Schedule 13, paragraph 6(32)(a); the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1), sections 9(4) and 25(2); the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), Schedule 1, paragraph 83(2); and by [S.I. 2005/886](https://www.legislation.gov.uk/uksi/2005/886).
 
-[^key-f99164e841d6435727bc1f9ea79bd644]: Commencement: Sch. 2 para. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-f99164e841d6435727bc1f9ea79bd644]: Commencement: Sch. 2 para. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2003/3239 (W. 319)](https://www.legislation.gov.uk/wsi/2003/3239). Regulation 1 was amended by [S.I. 2004/1010 (W. 107)](https://www.legislation.gov.uk/wsi/2004/1010), S.I 2006/944 (W. 93), [S.I. 2018/325 (W. 61)](https://www.legislation.gov.uk/wsi/2018/325) and [S.I. 2019/736 (W. 139)](https://www.legislation.gov.uk/wsi/2019/736).
 
-[^key-479d74bfc7a1b4c17b5caa55e1384d0b]: Commencement: Sch. 3 para. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-479d74bfc7a1b4c17b5caa55e1384d0b]: Commencement: Sch. 3 para. 1 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
 [^f00007]: Footnote: [1970 c. 39](https://www.legislation.gov.uk/ukpga/1970/39).
 
-[^key-7e57fac472fe6a09eb5fa364b219a488]: Commencement: Sch. 3 para. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-7e57fac472fe6a09eb5fa364b219a488]: Commencement: Sch. 3 para. 2 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
 [^f00008]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
-[^key-cb2ca1af1ffef69784c4b80ef9271fb0]: Commencement: Sch. 3 para. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
+[^c-cb2ca1af1ffef69784c4b80ef9271fb0]: Commencement: Sch. 3 para. 3 in force at 1.4.2021, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/327/regulation/1/2)
 
 [^f00009]: Footnote: [2017 anaw 1](https://www.legislation.gov.uk/anaw/2017/1).

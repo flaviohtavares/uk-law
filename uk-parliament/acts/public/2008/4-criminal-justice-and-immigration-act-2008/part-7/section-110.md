@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Notification requirements: periodic notification[^key-0b155694b42c4d979798a52b0f5af82c]
+## 110. Notification requirements: periodic notification[^c-0b155694b42c4d979798a52b0f5af82c]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b155694b42c4d979798a52b0f5af82c]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2008/4/section/110) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(m)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/m)
+[^c-0b155694b42c4d979798a52b0f5af82c]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2008/4/section/110) in force at 3.8.2009 by [S.I. 2009/1842](https://www.legislation.gov.uk/uksi/2009/1842), [art. 2(m)](https://www.legislation.gov.uk/uksi/2009/1842/article/2/m)

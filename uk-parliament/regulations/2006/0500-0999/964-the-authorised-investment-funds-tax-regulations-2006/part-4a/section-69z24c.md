@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69Z24C. Manufactured dividends – PAIF distributions (dividends)[^key-9ace20e83dce64bd3a4dd42645a165be][^key-228ceee17a63954421c7bcbab46e5182]
+## 69Z24C. Manufactured dividends – PAIF distributions (dividends)[^c-9ace20e83dce64bd3a4dd42645a165be][^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9ace20e83dce64bd3a4dd42645a165be]: Textual amendment: Regs. 69Z24A-69Z24D inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2008/3159/regulation/27)
+[^c-9ace20e83dce64bd3a4dd42645a165be]: Textual amendment: Regs. 69Z24A-69Z24D inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2008/3159/regulation/27)
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)

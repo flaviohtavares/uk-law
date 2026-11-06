@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18B. Retention of samples etc. where offer under sections 302 to 303ZA accepted[^key-5088cc5493addf13b2c3e3b8213e6f6a]
+## 18B. Retention of samples etc. where offer under sections 302 to 303ZA accepted[^c-5088cc5493addf13b2c3e3b8213e6f6a]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ where the conditions in subsection (2) are satisfied.
 
 (2) The conditions are—
 
-- (a) the relevant physical data or sample was taken from or provided by the person while the person was in custody[^key-6a5b8df2e33bc0b0c48e2ac2784f6482] in connection with the offence or offences in relation to which a relevant offer is issued to the person, and
+- (a) the relevant physical data or sample was taken from or provided by the person while the person was in custody[^c-6a5b8df2e33bc0b0c48e2ac2784f6482] in connection with the offence or offences in relation to which a relevant offer is issued to the person, and
 - (b) the person—
   - (i) accepts a relevant offer, or
   - (ii) in the case of a relevant offer other than one of the type mentioned in paragraph (d) of subsection (3), is deemed to accept a relevant offer.
@@ -74,6 +74,6 @@ where the conditions in subsection (2) are satisfied.
 
 ## Annotations
 
-[^key-5088cc5493addf13b2c3e3b8213e6f6a]: Textual amendment: Ss. 18B-18C inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 78](https://www.legislation.gov.uk/asp/2010/13/section/78), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2011/178/article/5))
+[^c-5088cc5493addf13b2c3e3b8213e6f6a]: Textual amendment: Ss. 18B-18C inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 78](https://www.legislation.gov.uk/asp/2010/13/section/78), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2011/178/article/5))
 
-[^key-6a5b8df2e33bc0b0c48e2ac2784f6482]: Textual amendment: Words in s. 18B(2)(a) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 28(2)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/28/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-6a5b8df2e33bc0b0c48e2ac2784f6482]: Textual amendment: Words in s. 18B(2)(a) substituted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 28(2)](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/28/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))

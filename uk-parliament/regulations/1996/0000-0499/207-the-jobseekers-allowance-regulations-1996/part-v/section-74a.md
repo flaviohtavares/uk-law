@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 74A. Person in receipt of a training allowance[^key-f184733d92e685bffac1a6a459708d78]
+## 74A. Person in receipt of a training allowance[^c-f184733d92e685bffac1a6a459708d78]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f184733d92e685bffac1a6a459708d78]: Textual amendment: [Reg. 74A](https://www.legislation.gov.uk/uksi/1996/207/regulation/74A) revoked (5.11.2012) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/2575)](https://www.legislation.gov.uk/uksi/2012/2575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/3/4)
+[^c-f184733d92e685bffac1a6a459708d78]: Textual amendment: [Reg. 74A](https://www.legislation.gov.uk/uksi/1996/207/regulation/74A) revoked (5.11.2012) by [The Social Security (Miscellaneous Amendments) (No. 2) Regulations 2012 (S.I. 2012/2575)](https://www.legislation.gov.uk/uksi/2012/2575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2012/2575/regulation/3/4)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 9
 
-### 1. Qualifications of ophthalmic medical practitioners[^key-848c2ecc7585bcbf56a06f8135300e80]
+### 1. Qualifications of ophthalmic medical practitioners[^c-848c2ecc7585bcbf56a06f8135300e80]
 
 (1) The prescribed qualifications which a medical practitioner must possess for the purposes of section 71 of the Act (arrangements for general ophthalmic services) are that the medical practitioner has (at the date of consideration of this application under paragraph 2) recent and adequate experience and either—
 
@@ -37,7 +37,7 @@ Regulation 9
 
 (3) In this paragraph, “**approved**” means approved by the Ophthalmic Qualifications Committee or by an appeal committee under paragraph 3.
 
-### 2. Approval of qualifications of ophthalmic medical practitioners[^key-c6f25306dfb2e092379b3a66a335b4d2]
+### 2. Approval of qualifications of ophthalmic medical practitioners[^c-c6f25306dfb2e092379b3a66a335b4d2]
 
 (1) A medical practitioner who wishes to be recognised as an ophthalmic medical practitioner must apply to the Ophthalmic Qualifications Committee for its approval of that person’s qualifications and must give to the Ophthalmic Qualifications Committee such particulars of those qualifications as the Committee may require.
 
@@ -52,7 +52,7 @@ Regulation 9
 - (a) the date on which a completed application with all necessary supporting information is received by the Ophthalmic Qualifications Committee, or
 - (b) if the Ophthalmic Qualifications Committee requires any further supporting particulars from the applicant, the date on which the Committee receives all the particulars that it requires.
 
-### 3. Appeals from Ophthalmic Qualifications Committee[^key-b56e06c77998017e37710dadd2f1528f]
+### 3. Appeals from Ophthalmic Qualifications Committee[^c-b56e06c77998017e37710dadd2f1528f]
 
 (1) Any person (“an appellant”) dissatisfied with a determination of the Ophthalmic Qualifications Committee that the appellant is not qualified to be an ophthalmic medical practitioner may, within 1 month beginning with the date on which the appellant received notice of that determination, or such longer period as the Welsh Ministers may at any time allow, appeal against the determination by sending to the Welsh Ministers a notice of appeal stating the facts and contentions on which the appellant relies.
 
@@ -80,7 +80,7 @@ Regulation 9
 
 (9) Subject to the other provisions in this paragraph, the appeal committee may set the procedure of the appeal as it considers proper.
 
-### 4. Interpretation[^key-e209a62e40e779ff79a7bb04786e3408]
+### 4. Interpretation[^c-e209a62e40e779ff79a7bb04786e3408]
 
 In this Schedule—
 
@@ -89,14 +89,14 @@ In this Schedule—
 
 ## Annotations
 
-[^key-848c2ecc7585bcbf56a06f8135300e80]: Commencement: Sch. 2 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-848c2ecc7585bcbf56a06f8135300e80]: Commencement: Sch. 2 para. 1 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00049]: Footnote: [1946 c. 81](https://www.legislation.gov.uk/ukpga/1946/81).
 
 [^f00050]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
-[^key-c6f25306dfb2e092379b3a66a335b4d2]: Commencement: Sch. 2 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-c6f25306dfb2e092379b3a66a335b4d2]: Commencement: Sch. 2 para. 2 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-b56e06c77998017e37710dadd2f1528f]: Commencement: Sch. 2 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-b56e06c77998017e37710dadd2f1528f]: Commencement: Sch. 2 para. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
-[^key-e209a62e40e779ff79a7bb04786e3408]: Commencement: Sch. 2 para. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-e209a62e40e779ff79a7bb04786e3408]: Commencement: Sch. 2 para. 4 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

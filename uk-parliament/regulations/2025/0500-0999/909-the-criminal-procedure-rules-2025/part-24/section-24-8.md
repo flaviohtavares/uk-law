@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24.8. Written guilty plea: special rules[^key-151425c2042e4148cc7fa086ed7eff14]
+## 24.8. Written guilty plea: special rules[^c-151425c2042e4148cc7fa086ed7eff14]
 
 *Extent: E+W*
 
@@ -86,7 +86,7 @@ summary: ''
 
 ## Annotations
 
-[^key-151425c2042e4148cc7fa086ed7eff14]: Commencement: [Rule 24.8](https://www.legislation.gov.uk/uksi/2025/909/rule/24.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-151425c2042e4148cc7fa086ed7eff14]: Commencement: [Rule 24.8](https://www.legislation.gov.uk/uksi/2025/909/rule/24.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00538]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 12(1)(a) was amended by sections 308 and 332 of, and Part 12 of Schedule 37 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

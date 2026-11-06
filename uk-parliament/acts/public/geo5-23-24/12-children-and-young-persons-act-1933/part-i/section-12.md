@@ -31,7 +31,7 @@ summary: ''
 (5) The institution of proceedings under this section shall—
 
 - (a)[^c20364361] in the case of a building in respect of which a premises licence authorising the provision of regulated entertainment has effect, be the duty of the relevant licensing authority;
-- (b) in any other case, be the duty of the chief officer of police[^key-7c13f9dfca09b2bacd6a51a53516d989].
+- (b) in any other case, be the duty of the chief officer of police[^c-7c13f9dfca09b2bacd6a51a53516d989].
 
 (5A)[^c20364431] For the purposes of this section—
 
@@ -50,6 +50,6 @@ summary: ''
 
 [^c20364361]: Textual amendment: S. 12(5)(a) substituted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [ss. 198](https://www.legislation.gov.uk/ukpga/2003/17/section/198), [199](https://www.legislation.gov.uk/ukpga/2003/17/section/199), [Sch. 6 para. 14(b)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/14/b) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
-[^key-7c13f9dfca09b2bacd6a51a53516d989]: Textual amendment: Words in [s. 12(5)(b)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/section/12/5/b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 68](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/68); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-7c13f9dfca09b2bacd6a51a53516d989]: Textual amendment: Words in [s. 12(5)(b)](https://www.legislation.gov.uk/ukpga/Geo5/23-24/12/section/12/5/b) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 68](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/68); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
 [^c20364431]: Textual amendment: S. 12(5A) inserted (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [ss. 198](https://www.legislation.gov.uk/ukpga/2003/17/section/198), [199](https://www.legislation.gov.uk/ukpga/2003/17/section/199), [Sch. 6 para. 14(c)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/14/c) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)

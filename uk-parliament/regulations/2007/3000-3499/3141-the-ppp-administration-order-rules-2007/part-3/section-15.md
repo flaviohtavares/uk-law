@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Notice requiring statement of affairs[^key-680c3b8ba268167324e0e3104d534686]
+## 15. Notice requiring statement of affairs[^c-680c3b8ba268167324e0e3104d534686]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-680c3b8ba268167324e0e3104d534686]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2007/3141/rule/15) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-680c3b8ba268167324e0e3104d534686]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2007/3141/rule/15) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

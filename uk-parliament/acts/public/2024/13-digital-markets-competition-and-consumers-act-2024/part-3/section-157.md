@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Enforcement orders and undertakings: enhanced consumer measures[^key-effed57218c5d1b1555813fd151db9fd][^key-c57bee36ebc22d1773df70d68d06f1ba]
+## 157. Enforcement orders and undertakings: enhanced consumer measures[^c-effed57218c5d1b1555813fd151db9fd][^c-c57bee36ebc22d1773df70d68d06f1ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-effed57218c5d1b1555813fd151db9fd]: Commencement: S. 157 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-effed57218c5d1b1555813fd151db9fd]: Commencement: S. 157 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-c57bee36ebc22d1773df70d68d06f1ba]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2024/13/section/157) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-c57bee36ebc22d1773df70d68d06f1ba]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2024/13/section/157) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

@@ -61,7 +61,7 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 - [Section 3 — Application](part-1/section-3.md)
 - [Section 3A — Appointment and obligations of an authorised representative](part-1/section-3a.md)
 
-### PART 1A — National Technical Specification Notices and National Technical Rules[^key-49f943e7a859f6659de4e2d2c0df07b8]
+### PART 1A — National Technical Specification Notices and National Technical Rules[^c-49f943e7a859f6659de4e2d2c0df07b8]
 
 - [Section 3B — Publication of National Technical Specification Notices](part-1a/section-3b.md)
 - [Section 3C — Publication of a list of National Technical Rules](part-1a/section-3c.md)
@@ -99,7 +99,7 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 - [Section 28 — Recognition of assessments of other Member States](part-3/section-28.md)
 - [Section 29 — Notification to the European Commission of incorrect declaration](part-3/section-29.md)
 
-### PART 4 — Approved and Designated Bodies[^key-e007f623e8f2a7ec1c477972044da969]
+### PART 4 — Approved and Designated Bodies[^c-e007f623e8f2a7ec1c477972044da969]
 
 - [Section 30 — Approved bodies](part-4/section-30.md)
 - [Section 31 — Appointment of approved bodies and designated bodies](part-4/section-31.md)
@@ -211,6 +211,6 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c21139301]: Marginal citation: [S.I. 1996/266](https://www.legislation.gov.uk/uksi/1996/266), to which there are amendments not relevant to these Regulations.
 
-[^key-49f943e7a859f6659de4e2d2c0df07b8]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2011/3066/part/1A) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) as amended by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/3/a), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/3/b)
+[^c-49f943e7a859f6659de4e2d2c0df07b8]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2011/3066/part/1A) inserted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) as amended by [The Railways (Miscellaneous Amendments, Revocations and Transitional Provisions) (EU Exit) Regulations 2020 (S.I. 2020/786)](https://www.legislation.gov.uk/uksi/2020/786), [regs. 1(2)(b)(i)](https://www.legislation.gov.uk/uksi/2020/786/regulation/1/2/b/i), [4(3)(a)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/3/a), [4(3)(b)](https://www.legislation.gov.uk/uksi/2020/786/regulation/4/3/b)
 
-[^key-e007f623e8f2a7ec1c477972044da969]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2011/3066/part/4) heading substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(35)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e007f623e8f2a7ec1c477972044da969]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2011/3066/part/4) heading substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(35)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

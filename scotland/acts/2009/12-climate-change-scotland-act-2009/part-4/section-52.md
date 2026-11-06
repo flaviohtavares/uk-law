@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Power to direct monitoring body[^key-df3f740d6ae8b74197e9326479291d0a]
+## 52. Power to direct monitoring body[^c-df3f740d6ae8b74197e9326479291d0a]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df3f740d6ae8b74197e9326479291d0a]: Commencement: S. 52 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)
+[^c-df3f740d6ae8b74197e9326479291d0a]: Commencement: S. 52 in force at 1.1.2011 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(4)](https://www.legislation.gov.uk/ssi/2009/341/article/2/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 123. Corporate parenting principles[^key-11a85350da071fc62515d5f6660f7377]
+## 123. Corporate parenting principles[^c-11a85350da071fc62515d5f6660f7377]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ After Article 26 of the Children Order (general duty of authority) insert—
 
 ## Annotations
 
-[^key-11a85350da071fc62515d5f6660f7377]: Commencement: S. 123 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-11a85350da071fc62515d5f6660f7377]: Commencement: S. 123 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

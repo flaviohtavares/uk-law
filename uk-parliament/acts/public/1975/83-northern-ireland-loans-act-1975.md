@@ -42,7 +42,7 @@ An Act to make further provision with regard to the making of loans to the Conso
 - (a) the previous enactments; and
 - (b) this section,
 
-shall not exceed £3,000 million[^key-67c72cc1ec71e85764908483b75cda13].
+shall not exceed £3,000 million[^c-67c72cc1ec71e85764908483b75cda13].
 
 (3) In this Act “**the previous enactments**” means—
 
@@ -51,7 +51,7 @@ shall not exceed £3,000 million[^key-67c72cc1ec71e85764908483b75cda13].
 
 (4) After the commencement of this Act no further loans shall be made under section 35 of the [^c720715]Finance Act 1970.
 
-(5)[^c720716] The Secretary of State may[^key-bae8665e0aa6a9ad3fdb82b8fdb691ae]..., by order made by statutory instrument and with the approval of the Treasury increase the limit for the time being specified in subsection (2)[^key-0e441e6a8742665262e035bca2645fe5] above by such sum, not exceeding £500 million[^key-32b3aa013d803834e6317428171f99f9], as may be specified in the order.
+(5)[^c720716] The Secretary of State may[^c-bae8665e0aa6a9ad3fdb82b8fdb691ae]..., by order made by statutory instrument and with the approval of the Treasury increase the limit for the time being specified in subsection (2)[^c-0e441e6a8742665262e035bca2645fe5] above by such sum, not exceeding £500 million[^c-32b3aa013d803834e6317428171f99f9], as may be specified in the order.
 
 (6) The Secretary of State shall not make an order under subsection (5) above unless a draft of the order has been approved by a resolution of the House of Commons.
 
@@ -100,7 +100,7 @@ Section 4.
 
 ## Annotations
 
-[^key-67c72cc1ec71e85764908483b75cda13]: Textual amendment: Words in s. 1(2) substituted (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/22/2), [31(1)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/1/c)
+[^c-67c72cc1ec71e85764908483b75cda13]: Textual amendment: Words in s. 1(2) substituted (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 22(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/22/2), [31(1)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/1/c)
 
 [^c720710]: Marginal citation: [1950 c. 21](https://www.legislation.gov.uk/ukpga/1950/21).
 
@@ -116,11 +116,11 @@ Section 4.
 
 [^c720716]: Modification: By [Northern Ireland (Loans) Act 1985 (c.76, SIF 99:7)](https://www.legislation.gov.uk/ukpga/1985/76), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1985/76/section/1/2), it is provided that s. 1(5) shall apply in relation to the limit set by virtue of s. 1(1) of that 1985 Act as it applied in relation to the limit set by subsection (2) of section 1 as originally enacted, but with the substitution of “£300 million” for “£200 million”
 
-[^key-bae8665e0aa6a9ad3fdb82b8fdb691ae]: Textual amendment: Words in s. 1(5) repealed (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 22(3)(a)](https://www.legislation.gov.uk/ukpga/2006/33/section/22/3/a), [31(1)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/1/c), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/33/schedule/5)
+[^c-bae8665e0aa6a9ad3fdb82b8fdb691ae]: Textual amendment: Words in s. 1(5) repealed (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 22(3)(a)](https://www.legislation.gov.uk/ukpga/2006/33/section/22/3/a), [31(1)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/1/c), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/33/schedule/5)
 
-[^key-0e441e6a8742665262e035bca2645fe5]: Textual amendment: Words in s. 1(5) substituted (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 22(3)(b)](https://www.legislation.gov.uk/ukpga/2006/33/section/22/3/b), [31(1)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/1/c)
+[^c-0e441e6a8742665262e035bca2645fe5]: Textual amendment: Words in s. 1(5) substituted (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 22(3)(b)](https://www.legislation.gov.uk/ukpga/2006/33/section/22/3/b), [31(1)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/1/c)
 
-[^key-32b3aa013d803834e6317428171f99f9]: Textual amendment: Words in s. 1(5) substituted (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 22(3)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/22/3/c), [31(1)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/1/c)
+[^c-32b3aa013d803834e6317428171f99f9]: Textual amendment: Words in s. 1(5) substituted (25.7.2006) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 22(3)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/22/3/c), [31(1)(c)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/1/c)
 
 [^c720717]: Modification: The text of s. 4(2) and Sch. is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

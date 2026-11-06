@@ -30,7 +30,7 @@ summary: ''
 
 LANDS TRIBUNAL
 
-Lands Tribunal (Salaries) Order (Northern Ireland) 1999 (revoked)[^key-a587c1479cd5074fbefb05aea6f66490]
+Lands Tribunal (Salaries) Order (Northern Ireland) 1999 (revoked)[^c-a587c1479cd5074fbefb05aea6f66490]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 9th July 1999
 
-[^key-a587c1479cd5074fbefb05aea6f66490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a587c1479cd5074fbefb05aea6f66490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-a587c1479cd5074fbefb05aea6f66490]
+## 1. Title and commencement[^c-a587c1479cd5074fbefb05aea6f66490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-a587c1479cd5074fbefb05aea6f66490]
+## 2. Revocation[^c-a587c1479cd5074fbefb05aea6f66490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increases in salaries[^key-a587c1479cd5074fbefb05aea6f66490]
+## 3. Increases in salaries[^c-a587c1479cd5074fbefb05aea6f66490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a587c1479cd5074fbefb05aea6f66490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a587c1479cd5074fbefb05aea6f66490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a587c1479cd5074fbefb05aea6f66490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a587c1479cd5074fbefb05aea6f66490]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a587c1479cd5074fbefb05aea6f66490]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/236) revoked (18.7.2001) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2001 (revoked) 2001 (S.R. 2001/293)](https://www.legislation.gov.uk/nisr/2001/293), [arts. 1](https://www.legislation.gov.uk/nisr/2001/293/article/1), [2](https://www.legislation.gov.uk/nisr/2001/293/article/2)
+[^c-a587c1479cd5074fbefb05aea6f66490]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1999/236) revoked (18.7.2001) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2001 (revoked) 2001 (S.R. 2001/293)](https://www.legislation.gov.uk/nisr/2001/293), [arts. 1](https://www.legislation.gov.uk/nisr/2001/293/article/1), [2](https://www.legislation.gov.uk/nisr/2001/293/article/2)

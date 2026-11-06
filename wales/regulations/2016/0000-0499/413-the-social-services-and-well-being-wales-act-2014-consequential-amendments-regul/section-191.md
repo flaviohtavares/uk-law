@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**191.**[^key-b8e86b98fe27fd9021b9c9b661e5ddde] In section 30(6) (general prohibitions on removal) after “1989 Act” insert “or section 76(5) of the 2014 Act”.
+**191.**[^c-b8e86b98fe27fd9021b9c9b661e5ddde] In section 30(6) (general prohibitions on removal) after “1989 Act” insert “or section 76(5) of the 2014 Act”.
 
 ## Annotations
 
-[^key-b8e86b98fe27fd9021b9c9b661e5ddde]: Commencement: Reg. 191 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-b8e86b98fe27fd9021b9c9b661e5ddde]: Commencement: Reg. 191 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

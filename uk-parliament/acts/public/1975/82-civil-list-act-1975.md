@@ -31,18 +31,18 @@ Civil List Act 1975 (repealed)
 
 1975 c.82
 
-[^key-88a62c1ae1e63fbfa9952e63ede9ffe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88a62c1ae1e63fbfa9952e63ede9ffe3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Supplements to sums payable under Civil List Acts.[^key-88a62c1ae1e63fbfa9952e63ede9ffe3][^key-88a62c1ae1e63fbfa9952e63ede9ffe3]
+## 1. Supplements to sums payable under Civil List Acts.[^c-88a62c1ae1e63fbfa9952e63ede9ffe3][^c-88a62c1ae1e63fbfa9952e63ede9ffe3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Short title.[^key-88a62c1ae1e63fbfa9952e63ede9ffe3][^key-88a62c1ae1e63fbfa9952e63ede9ffe3]
+## 2. Short title.[^c-88a62c1ae1e63fbfa9952e63ede9ffe3][^c-88a62c1ae1e63fbfa9952e63ede9ffe3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-88a62c1ae1e63fbfa9952e63ede9ffe3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1975/82) repealed (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [ss. 10](https://www.legislation.gov.uk/ukpga/2011/15/section/10), [15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1)
+[^c-88a62c1ae1e63fbfa9952e63ede9ffe3]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1975/82) repealed (1.4.2012) by [Sovereign Grant Act 2011 (c. 15)](https://www.legislation.gov.uk/ukpga/2011/15), [ss. 10](https://www.legislation.gov.uk/ukpga/2011/15/section/10), [15(1)](https://www.legislation.gov.uk/ukpga/2011/15/section/15/1)

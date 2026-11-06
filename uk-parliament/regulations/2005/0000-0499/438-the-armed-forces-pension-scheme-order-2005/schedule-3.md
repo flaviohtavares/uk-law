@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 3 — Remediable Service[^key-ed70ec70c323b2ebc986a9aa8aed8f81][^key-65d647d95825ca550cb59e4192267c62]
+## Schedule 3 — Remediable Service[^c-ed70ec70c323b2ebc986a9aa8aed8f81][^c-65d647d95825ca550cb59e4192267c62]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ Article 6
   - (b) where a person other than the member is the deferred choice decision-maker, paragraph 15(2)(b);
 - “**immediate choice decision**” has the meaning given in paragraph 9(1);
 - “**immediate choice decision-maker**” means the person who may make an immediate choice decision under paragraph 9(2);
-- “[^key-c159f25074542e1b88e22bccb923bd17]**legacy scheme**”, in relation to a remedy member’s remediable service, means the AFPS 2005 and “**legacy scheme benefits**” means AFPS 2005 benefits;
+- “[^c-c159f25074542e1b88e22bccb923bd17]**legacy scheme**”, in relation to a remedy member’s remediable service, means the AFPS 2005 and “**legacy scheme benefits**” means AFPS 2005 benefits;
 - “**member**” means an active, deferred, deceased or pensioner member of a pension scheme;
 - “**non-discrimination rule**” has the meaning given in section 25(8) of PSPJOA 2022, and references to a relevant breach of a non-discrimination rule are to be read in accordance with section 25(9) of that Act;
 - “**opted-out service election**” has the meaning given in paragraph 7(1);
@@ -58,7 +58,7 @@ Article 6
 - “**remedy member**” means a member with remediable service;
 - “**remedy period**” means the period beginning with 1st April 2015 and ending with 31st March 2022;
 - “**Scheme manager**” has the meaning given in rule A.1(4) of Schedule 1 and, for the purposes of this Schedule, references to the Scheme manager include the Scheme administrator;
-- [^key-627b99730e025ce4590fb70cae1db4be]...
+- [^c-627b99730e025ce4590fb70cae1db4be]...
 - “**section 6 election**” has the meaning given in paragraph 9(1)(a);
 - “**section 10 election**” has the meaning given in paragraph 13(1)(a).
 
@@ -376,7 +376,7 @@ Where the deferred choice decision-maker (“**D**”) is a person other than th
 - (a) information in D’s possession, or
 - (b) information which D can reasonably be expected to obtain.
 
-### Part 4 — Provision about AFPS 1975 Re-joiners[^key-98e80731260ebe3b5bd5c18701d5253c]
+### Part 4 — Provision about AFPS 1975 Re-joiners[^c-98e80731260ebe3b5bd5c18701d5253c]
 
 #### 18. Application and Interpretation of this Part
 
@@ -1517,20 +1517,20 @@ In any case not covered by paragraphs 74 to 83, the eligible decision-maker is t
 
 ## Annotations
 
-[^key-ed70ec70c323b2ebc986a9aa8aed8f81]: Modification: [Schs. 1-3](https://www.legislation.gov.uk/uksi/2005/438/schedule/1) modified (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/673/regulation/10)
+[^c-ed70ec70c323b2ebc986a9aa8aed8f81]: Modification: [Schs. 1-3](https://www.legislation.gov.uk/uksi/2005/438/schedule/1) modified (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2026/673/regulation/10)
 
-[^key-65d647d95825ca550cb59e4192267c62]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2005/438/schedule/3) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/998/schedule/2)
+[^c-65d647d95825ca550cb59e4192267c62]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2005/438/schedule/3) inserted (1.10.2023) by [The Armed Forces Pensions (Remediable Service) Regulations 2023 (S.I. 2023/998)](https://www.legislation.gov.uk/uksi/2023/998), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2023/998/regulation/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/998/schedule/2)
 
 [^f00033]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
 [^f00034]: Footnote: Subsections (2) to (2C) are substituted for subsection (2) of section 9 by section 136(3) of the Pensions Act [1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26); section 9(2B) is amended by paragraph 35(2) of Schedule 1 to the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2).
 
-[^key-c159f25074542e1b88e22bccb923bd17]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2005/438/schedule/3/paragraph/1/1) substituted (19.3.2025) by [The Armed Forces Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/188)](https://www.legislation.gov.uk/uksi/2025/188), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/1/b), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/188/regulation/3/4/a)
+[^c-c159f25074542e1b88e22bccb923bd17]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2005/438/schedule/3/paragraph/1/1) substituted (19.3.2025) by [The Armed Forces Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/188)](https://www.legislation.gov.uk/uksi/2025/188), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/1/b), [3(4)(a)](https://www.legislation.gov.uk/uksi/2025/188/regulation/3/4/a)
 
-[^key-627b99730e025ce4590fb70cae1db4be]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2005/438/schedule/3/paragraph/1/1) omitted (19.3.2025) by virtue of [The Armed Forces Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/188)](https://www.legislation.gov.uk/uksi/2025/188), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/1/b), [3(4)(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/3/4/b)
+[^c-627b99730e025ce4590fb70cae1db4be]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2005/438/schedule/3/paragraph/1/1) omitted (19.3.2025) by virtue of [The Armed Forces Pensions (Remediable Service) (Amendment) Regulations 2025 (S.I. 2025/188)](https://www.legislation.gov.uk/uksi/2025/188), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/1/b), [3(4)(b)](https://www.legislation.gov.uk/uksi/2025/188/regulation/3/4/b)
 
 [^f00035]: Footnote: Chapter 5 (sections 101AA to 101AI) is inserted by section 264 of the Pensions Act [2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).
 
-[^key-98e80731260ebe3b5bd5c18701d5253c]: Modification: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2005/438/schedule/3/part/4) excluded (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/673/regulation/11)
+[^c-98e80731260ebe3b5bd5c18701d5253c]: Modification: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2005/438/schedule/3/part/4) excluded (14.7.2026 for the tax year 2014-15 and subsequent tax years) by [The Public Service Pension Schemes (Rectification of Unlawful Discrimination) (Tax) Regulations 2026 (S.I. 2026/673)](https://www.legislation.gov.uk/uksi/2026/673), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/673/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2026/673/regulation/11)
 
 [^f00036]: Footnote: [1826 c. 16](https://www.legislation.gov.uk/ukpga/1826/16).

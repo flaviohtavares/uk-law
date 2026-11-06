@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 114. Treatment of late claimants[^key-55bfd7fd6a8b614dd9280d61ad6b3247]
+## 114. Treatment of late claimants[^c-55bfd7fd6a8b614dd9280d61ad6b3247]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55bfd7fd6a8b614dd9280d61ad6b3247]: Commencement: [Rule 114](https://www.legislation.gov.uk/nisr/2026/11/rule/114) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-55bfd7fd6a8b614dd9280d61ad6b3247]: Commencement: [Rule 114](https://www.legislation.gov.uk/nisr/2026/11/rule/114) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

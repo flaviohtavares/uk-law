@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12L. Adoption of spatial development strategy[^key-7d6fc29b9587be7529b03bdeead25eaf]
+## 12L. Adoption of spatial development strategy[^c-7d6fc29b9587be7529b03bdeead25eaf]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
 
 (3) A strategic planning authority must hold a vote on a resolution to adopt its spatial development strategy as soon as reasonably practicable after the conditions in subsection (2) are satisfied.
 
-(4)[^key-af7ad26d65761564c0357df481c79006] Subsections (4A) to (5) apply in relation to the adoption of a spatial development strategy by—
+(4)[^c-af7ad26d65761564c0357df481c79006] Subsections (4A) to (5) apply in relation to the adoption of a spatial development strategy by—
 
 - (a) a combined authority, or
 - (b) a combined county authority.
@@ -64,7 +64,7 @@ the decision is to be made by a simple majority of the other relevant members pr
 
 (7) A spatial development strategy becomes operative when it is published.
 
-(8)[^key-2ddd563f23fd7f5ae91ae8a2f7dc18ac] In this section—
+(8)[^c-2ddd563f23fd7f5ae91ae8a2f7dc18ac] In this section—
 
 - “**constituent member**”, in relation to a combined authority or combined county authority—
   - (a) means a person appointed by a constituent council to be a member of the authority; and
@@ -79,8 +79,8 @@ the decision is to be made by a simple majority of the other relevant members pr
 
 ## Annotations
 
-[^key-7d6fc29b9587be7529b03bdeead25eaf]: Textual amendment: Pt. 1A inserted (18.12.2025 for the purposes of making regulations, otherwise prosp.) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/1), [118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
+[^c-7d6fc29b9587be7529b03bdeead25eaf]: Textual amendment: Pt. 1A inserted (18.12.2025 for the purposes of making regulations, otherwise prosp.) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 58(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/58/1), [118(2)(g)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/2/g) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116))
 
-[^key-af7ad26d65761564c0357df481c79006]: Textual amendment: S. 12L(4)-(5) substituted for s. 12L(4)(5) (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/2/paragraph/3/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-af7ad26d65761564c0357df481c79006]: Textual amendment: S. 12L(4)-(5) substituted for s. 12L(4)(5) (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 2 para. 3(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/2/paragraph/3/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-2ddd563f23fd7f5ae91ae8a2f7dc18ac]: Textual amendment: [S. 12L(8)](https://www.legislation.gov.uk/ukpga/2004/5/section/12L/8) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/2/paragraph/3/4) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-2ddd563f23fd7f5ae91ae8a2f7dc18ac]: Textual amendment: [S. 12L(8)](https://www.legislation.gov.uk/ukpga/2004/5/section/12L/8) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 2 para. 3(4)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/2/paragraph/3/4) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

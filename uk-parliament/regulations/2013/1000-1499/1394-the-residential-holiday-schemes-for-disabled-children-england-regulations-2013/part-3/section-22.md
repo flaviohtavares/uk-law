@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Fitness of employees[^key-4449022e42e4efc5e54cd7021ff40dbd]
+## 22. Fitness of employees[^c-4449022e42e4efc5e54cd7021ff40dbd]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ is appropriately supervised while carrying out those duties.
 
 ## Annotations
 
-[^key-4449022e42e4efc5e54cd7021ff40dbd]: Commencement: Reg. 22 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-4449022e42e4efc5e54cd7021ff40dbd]: Commencement: Reg. 22 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

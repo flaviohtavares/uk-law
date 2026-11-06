@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 57. Election for pension in lieu of retirement grant[^key-e37a7a5b495de191defbdcda67f5d076]
+## 57. Election for pension in lieu of retirement grant[^c-e37a7a5b495de191defbdcda67f5d076]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e37a7a5b495de191defbdcda67f5d076]: Commencement: Reg. 57 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-e37a7a5b495de191defbdcda67f5d076]: Commencement: Reg. 57 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

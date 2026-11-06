@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation[^key-dac6d3a9808ae1358fd2fd694788bad9]
+## 2. Interpretation[^c-dac6d3a9808ae1358fd2fd694788bad9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ In this Order—
 
 ## Annotations
 
-[^key-dac6d3a9808ae1358fd2fd694788bad9]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/1630/article/2) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
+[^c-dac6d3a9808ae1358fd2fd694788bad9]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/1630/article/2) in force at 1.10.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1630/article/1)
 
 [^f00002]: Footnote: OJ No L 046, 17.02.2004, p1.
 

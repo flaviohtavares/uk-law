@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 104. Appeals by administering authorities[^key-3f25d87e40522b6e738a91880d65cd60]
+## 104. Appeals by administering authorities[^c-3f25d87e40522b6e738a91880d65cd60]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ the appeal shall be sisted pending notification of a decision under regulation 1
 
 ## Annotations
 
-[^key-3f25d87e40522b6e738a91880d65cd60]: Commencement: Reg. 104 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-3f25d87e40522b6e738a91880d65cd60]: Commencement: Reg. 104 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

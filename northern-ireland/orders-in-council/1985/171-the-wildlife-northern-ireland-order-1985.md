@@ -60,7 +60,7 @@ This Order may be cited as the Wildlife (Northern Ireland) Order 1985 and shall 
 - “veterinary practitioner” means a person who is for the time being registered in the supplementary veterinary register;
 - “veterinary surgeon” means a person who is for the time being registered in the register of veterinary surgeons;
 - “wild animal” means, subject to paragraph (3), any animal (other than a bird) which is or (before it was killed or taken) was living wild;
-- “wild bird” means, subject to paragraph (4), any bird of a species[^c16937051] which is ordinarily resident in or is a visitor to the United Kingdom or[^key-700fff396bb3081576ee21bcb592a666] the European territory of any Member State in a wild state but does not include poultry or any game bird[^c22491801];
+- “wild bird” means, subject to paragraph (4), any bird of a species[^c16937051] which is ordinarily resident in or is a visitor to the United Kingdom or[^c-700fff396bb3081576ee21bcb592a666] the European territory of any Member State in a wild state but does not include poultry or any game bird[^c22491801];
 - “wild plant” means any plant (including fungi)[^c22491471] which is or (before it was picked, removed, uprooted or destroyed) was growing wild and is of a kind which ordinarily grows in Northern Ireland in a wild state.
 
 (3) [^c22491821]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
@@ -341,7 +341,7 @@ he shall be guilty of an offence.
 
 (4A)[^c22496911] Subject to the provisions of this Part, if any person intentionally or recklessly disturbs any wild animal included in Schedule 5 as—
 
-- (a)[^key-97aafcc202e61d5f7d1d6c59c086f543] a seal (pinniped), or
+- (a)[^c-97aafcc202e61d5f7d1d6c59c086f543] a seal (pinniped), or
 - (c) a basking shark (cetorhinus maximus),
 
 he shall be guilty of an offence.
@@ -357,7 +357,7 @@ he shall be guilty of an offence.
 - (a) for any reference to Article 4 there were substituted a reference to Article 10; and
 - (b) for any reference to a wild bird there were substituted a reference to a wild animal.
 
-(1A)[^key-638e83f3651c01adbc8939f91762c3c3] Article 5(5) (as it applies to Article 10 by virtue of paragraph (1)) applies in relation to seals (pinnipedia) as if—
+(1A)[^c-638e83f3651c01adbc8939f91762c3c3] Article 5(5) (as it applies to Article 10 by virtue of paragraph (1)) applies in relation to seals (pinnipedia) as if—
 
 - (a) in sub-paragraphs (a) and (b) the words “otherwise than by his unlawful act” were omitted, and
 - (b) sub-paragraph (c) were omitted.
@@ -369,7 +369,7 @@ he shall be guilty of an offence.
 - (a) if he shows that his action was necessary for the purpose of preventing serious damage to livestock, foodstuffs for livestock, crops, vegetables, fruit, growing timber, pasture or any other form of property or to fisheries or inland waters[^c22496971]; and
 - (b) he notifies the Department immediately after taking such action.
 
-(3A)[^key-c153592730072ad8dc129636f0adb116] Paragraph (3) applies in relation to seals (pinnipedia) as if “or to fisheries” were omitted.
+(3A)[^c-c153592730072ad8dc129636f0adb116] Paragraph (3) applies in relation to seals (pinnipedia) as if “or to fisheries” were omitted.
 
 (4) [^c22496991]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -389,7 +389,7 @@ he shall be guilty of an offence.
 
 he shall be guilty of an offence.
 
-(2)[^key-beb6370a2e4428298cbe8ae161c4a515] Subject to the provisions of this Part and to those of Article 20, if any person—
+(2)[^c-beb6370a2e4428298cbe8ae161c4a515] Subject to the provisions of this Part and to those of Article 20, if any person—
 
 - (a) uses any trap or snare for the purpose of killing, taking or restraining any wild animal included in Schedule 6 or 6A;
 - (b) sets in position any trap or snare of such a nature and so placed as to be calculated to cause bodily injury to any wild animal included in Schedules 6 or 6A;
@@ -443,11 +443,11 @@ shall be guilty of an offence.
 
 (3) The Department may by order, either generally or in relation to any species of wild animal specified in the order, amend paragraph (1) or (2) by adding any method of killing or taking wild animals or by omitting any such method as is mentioned in that paragraph.
 
-(4) In any proceedings for an offence under paragraph (1)(b) or (c) or (2)(a), (d), (e) or (f)[^key-7683525024d3249874e615e1f081e9f7] , the animal in question shall be presumed to have been a wild animal unless the contrary is shown.
+(4) In any proceedings for an offence under paragraph (1)(b) or (c) or (2)(a), (d), (e) or (f)[^c-7683525024d3249874e615e1f081e9f7] , the animal in question shall be presumed to have been a wild animal unless the contrary is shown.
 
-(5) In any proceedings under paragraph (2)(b) or (c)[^key-4ee84eaa1e31ef796ec27c9f0f9baa89] it shall be a defence to show that the article was set in position by the accused for the purpose of killing or taking, in the interests of public health, agriculture or nature conservation, any wild animals which could be lawfully killed or taken by that method and that he took all reasonable precautions to prevent injury thereby to any wild animals included in the relevant Schedule[^key-b6a6bb04eb4c0675fbc290e8f9e08874] .
+(5) In any proceedings under paragraph (2)(b) or (c)[^c-4ee84eaa1e31ef796ec27c9f0f9baa89] it shall be a defence to show that the article was set in position by the accused for the purpose of killing or taking, in the interests of public health, agriculture or nature conservation, any wild animals which could be lawfully killed or taken by that method and that he took all reasonable precautions to prevent injury thereby to any wild animals included in the relevant Schedule[^c-b6a6bb04eb4c0675fbc290e8f9e08874] .
 
-(5A)[^key-b67a99b379d81839725ead79ea1045db] In paragraph (5), “the relevant Schedule” means—
+(5A)[^c-b67a99b379d81839725ead79ea1045db] In paragraph (5), “the relevant Schedule” means—
 
 - (a) where proceedings relate to an offence under paragraph (2)(b), Schedule 6 or 6A;
 - (b) where proceedings relate to an offence under paragraph (2)(c), Schedule 6.
@@ -456,11 +456,11 @@ shall be guilty of an offence.
 
 (7) Any person who sells, offers or exposes for sale, any self-locking snare [^c22497091]. . . shall be guilty of an offence.
 
-#### 12A. Spring traps[^key-0dcc7383ed296506820ebe2cdf82d752]
+#### 12A. Spring traps[^c-0dcc7383ed296506820ebe2cdf82d752]
 
 (1) Subject to the provisions of this Part, any person who—
 
-- (a) for the purpose of killing or taking any wild animal other than one included in Schedule 6 or 6A[^key-94e7ccc02aaaa32dd79bc9807c94257f] , uses or permits the use of any spring trap other than an approved trap or uses or permits the use of an approved trap in circumstances or for wild animals for which it is not approved, or
+- (a) for the purpose of killing or taking any wild animal other than one included in Schedule 6 or 6A[^c-94e7ccc02aaaa32dd79bc9807c94257f] , uses or permits the use of any spring trap other than an approved trap or uses or permits the use of an approved trap in circumstances or for wild animals for which it is not approved, or
 - (b) sells, or exposes or offers for sale, any spring trap other than an approved trap with a view to its being used for a purpose which is unlawful under sub-paragraph (a), or
 - (c) has in his possession any spring trap for a purpose which is unlawful under this paragraph,
 
@@ -470,7 +470,7 @@ shall be guilty of an offence.
 
 (3) In paragraph (1) any reference to an approved trap is a reference to a trap of a type and make for the time being specified by an order of the Department, either generally or subject to conditions as to the circumstances in which or the wild animals for which it may be used, and any reference to the circumstances or wild animals for which a trap is approved shall be construed accordingly.
 
-(4)[^key-f96ed2e6dbfa0eaadf3766d480634b65] In paragraph (1) any reference to an approved trap shall not include a reference to any trap if that trap is a leghold trap.
+(4)[^c-f96ed2e6dbfa0eaadf3766d480634b65] In paragraph (1) any reference to an approved trap shall not include a reference to any trap if that trap is a leghold trap.
 
 (5) In paragraph (4), “leghold trap” means a device designed to restrain or capture an animal by means of jaws which close tightly upon one or more of the animal’s limbs, thereby preventing withdrawal of the limb or limbs from the trap.
 
@@ -552,7 +552,7 @@ and may issue revisions of any guidance issued by it (or approve revisions of gu
 
 (9) But any such guidance is admissible in evidence in such proceedings and a court may take account of any failure to comply with it in determining any questions in the proceedings.
 
-(10)[^key-9980e89d2d1a46ef4c6aeed758db303b] Paragraph (1)(a) does not apply to species included on the list of invasive alien species of European Union concern adopted by the European Commission in accordance with Articles 4(1) and 10(4) of Regulation (EU) No 1143/2014 of the European Parliament and of the Council of 22 October 2014 on the prevention and management of the introduction and spread in invasive alien species as amended from time to time.
+(10)[^c-9980e89d2d1a46ef4c6aeed758db303b] Paragraph (1)(a) does not apply to species included on the list of invasive alien species of European Union concern adopted by the European Commission in accordance with Articles 4(1) and 10(4) of Regulation (EU) No 1143/2014 of the European Parliament and of the Council of 22 October 2014 on the prevention and management of the introduction and spread in invasive alien species as amended from time to time.
 
 #### 15A. Prohibition on sale, etc. of invasive, non-native species[^c22499291]
 
@@ -687,11 +687,11 @@ if it is done under and in accordance with the terms of a licence granted by the
 
 if it is done under and in accordance with the terms of a licence granted by the Department.
 
-(3ZA)[^key-a7d0002d34bdcf2ae0cb2048297767ed] But a licence may not be granted under paragraph (3) that permits the killing, injuring or taking of seals (pinnipedia) for the purpose of preventing damage to fisheries.
+(3ZA)[^c-a7d0002d34bdcf2ae0cb2048297767ed] But a licence may not be granted under paragraph (3) that permits the killing, injuring or taking of seals (pinnipedia) for the purpose of preventing damage to fisheries.
 
 (3A)[^c22499511] Article 10(4) does not apply to anything done for the purpose of any development if it is done under and in accordance with the terms of a licence granted by the Department.
 
-(3B)[^key-ac92e0aa345f617a104676571a0bbd69] A licence granted under paragraph (1) or (3) may not permit the use of a leghold trap for the purpose of killing, taking or restraining a wild animal included in Schedule 6 or 6A.
+(3B)[^c-ac92e0aa345f617a104676571a0bbd69] A licence granted under paragraph (1) or (3) may not permit the use of a leghold trap for the purpose of killing, taking or restraining a wild animal included in Schedule 6 or 6A.
 
 (3C) Subject to paragraph (3J) a licence granted under paragraph (3) may permit the use of a trap or snare for the purpose of killing, taking or restraining a wild animal included in Schedule 6A only if the trap or snare—
 
@@ -736,7 +736,7 @@ if it is done under and in accordance with the terms of a licence granted by the
 
 (4) Articles 7(1) and (2), 13(1) and (2), 14(1)(a) and (2) , 15 or 15A[^c22499531] do not apply to anything done under and in accordance with the terms of a licence granted by the Department.
 
-(4A)[^key-14b031d631b0b4b8fba97337d86748e0] Article 12A(1)(a) does not apply to anything done for the purpose of enabling a spring trap to be developed or tested with a view to its being approved under Article 12A(3) if it is done under and in accordance with a licence granted by the Department.
+(4A)[^c-14b031d631b0b4b8fba97337d86748e0] Article 12A(1)(a) does not apply to anything done for the purpose of enabling a spring trap to be developed or tested with a view to its being approved under Article 12A(3) if it is done under and in accordance with a licence granted by the Department.
 
 (5) Subject to paragraphs (6) and (6A)[^c16937121], a licence under the foregoing provisions of this Article—
 
@@ -768,7 +768,7 @@ and the Department may charge therefor such reasonable sum (if any) as it may de
 (8)[^c22499571] In this Article—
 
 - “ **development** ” has the meaning given in Article 11 of the Planning (Northern Ireland) Order 1991;
-- “the international trapping standards agreement” means the Agreement on international humane trapping standards between the European Community, Canada and the Russian Federation;[^key-0c079cc3021d195a65f1561cb8948e8d]
+- “the international trapping standards agreement” means the Agreement on international humane trapping standards between the European Community, Canada and the Russian Federation;[^c-0c079cc3021d195a65f1561cb8948e8d]
 - “leghold trap” means a device designed to restrain or capture an animal by means of jaws which close tightly upon one or more of the animal’s limbs, thereby preventing withdrawal of the limb or limbs from the trap.
 - “re-population” and “ **re-introduction** ”, in relation to wild birds, have the same meanings as in the Directive of the Council of the European Communities dated 2nd April 1979 ( No. [79/409/EEC](https://www.legislation.gov.uk/eudr/1979/409) ) on the conservation of wild birds.
 
@@ -801,7 +801,7 @@ he shall be guilty of an offence.
 
 ### 20. Exceptions to Articles 12 and 19
 
-(1) Articles 12(2)(f)[^key-ddbad97e8df0bba3a336f8e8781e8eba] and 19(3)(b) shall not apply to anything done by, or with the written authority of, the occupier of any enclosed land where deer not in the wild state are usually kept, and done in relation to deer on that land.
+(1) Articles 12(2)(f)[^c-ddbad97e8df0bba3a336f8e8781e8eba] and 19(3)(b) shall not apply to anything done by, or with the written authority of, the occupier of any enclosed land where deer not in the wild state are usually kept, and done in relation to deer on that land.
 
 (2) Nothing in Article 12 or 19 shall make unlawful—
 
@@ -811,9 +811,9 @@ he shall be guilty of an offence.
   - (ii) for the purposes of this paragraph, the Department of Agriculture certifies that, in its opinion, that person is carrying on such a trade or business; or
 - (c) any act done for the purpose of protecting any person immediately endangered by a deer on any enclosed land on which deer not in the wild state are usually kept, where that act is reasonable in the circumstances.
 
-(3) This paragraph applies to any act which would otherwise be an offence under paragraph (2)(d)(v) or (vi) or (2)(f) of Article 12 or[^key-85263d82691ca0939a5214d1c8aee351] paragraph (1), (3)(b) or (4)(a) or (b) of Article 19.
+(3) This paragraph applies to any act which would otherwise be an offence under paragraph (2)(d)(v) or (vi) or (2)(f) of Article 12 or[^c-85263d82691ca0939a5214d1c8aee351] paragraph (1), (3)(b) or (4)(a) or (b) of Article 19.
 
-(4) An authorised person shall not be guilty of an offence under Article 12(2)(b) or (c) or (d)(iii)[^key-deaa42e486f886315314551a6b7a0221] by reason of setting in position or using any trap or net for the purpose of preventing suffering by an injured or diseased deer, or of an offence under Article 19(1) or (2) by reason of any act done for that purpose.
+(4) An authorised person shall not be guilty of an offence under Article 12(2)(b) or (c) or (d)(iii)[^c-deaa42e486f886315314551a6b7a0221] by reason of setting in position or using any trap or net for the purpose of preventing suffering by an injured or diseased deer, or of an offence under Article 19(1) or (2) by reason of any act done for that purpose.
 
 (5) Nothing in Article 19(1) shall make unlawful anything done in pursuance of any scheme made by the Department of Agriculture under section 2 of the [^m00007] Agriculture (Miscellaneous Provisions) Act (Northern Ireland) 1959.
 
@@ -1175,7 +1175,7 @@ shall be liable on summary conviction to imprisonment for a term not exceeding 6
 
 review Schedules A1, 1, 2, 5 and 8 and determine whether it should exercise any power under this Article in relation to any of those Schedules.
 
-(9)[^key-76ea9ad255620f7d864355d306399d12] The Department may by order, for the purpose of complying with the international trapping standards agreement, add any animal to, or remove any animal from, Schedule 6A.
+(9)[^c-76ea9ad255620f7d864355d306399d12] The Department may by order, for the purpose of complying with the international trapping standards agreement, add any animal to, or remove any animal from, Schedule 6A.
 
 (10) In paragraph (9), “the international trapping standards agreement” has the meaning given to it in Article 18(8).
 
@@ -1424,7 +1424,7 @@ Articles 10, 11 and 28.
 | [^c20376801]. . . | [^c20376801]. . . |
 | Seahorse, Short Snouted | Hippocampus hippocampus |
 | Seahorse, Spiny | Hippocampus guttulatus |
-| Seal[^key-b0c2211b5ed0742f2e4d7c45aa9a1002] | Pinniped |
+| Seal[^c-b0c2211b5ed0742f2e4d7c45aa9a1002] | Pinniped |
 | Shark, Angel (in respect of Article 10(1) only and with respect to coastal waters only) | Squatina squatina |
 | Shark, Basking | Cetorhinus maximus |
 | Skate, Common (in respect of Article 10(1) only and with respect to coastal waters only) | Dipturus batis |
@@ -1455,14 +1455,14 @@ Articles 12 and 28.
 | Otter, Common | Lutra lutra |
 | Seahorse, Short Snouted | Hippocampus hippocampus |
 | Seahorse, Spiny | Hippocampus guttulatus |
-| Seal[^key-5fca34e66977cf5dc802eb8da03bde81] | Pinniped |
+| Seal[^c-5fca34e66977cf5dc802eb8da03bde81] | Pinniped |
 | Shark, Basking | Cetorhinus maximus |
 | Shrew, Pygmy | Sorexminutus |
 | Squirrel, Red | Sciurus vulgaris |
 
 NOTE. The first column of this Schedule, which gives the common name or names, is included by way of guidance only; in the event of any dispute or proceedings, only the second column is to be taken into account.
 
-## SCHEDULE 6A — ANIMALS WHICH MAY NOT BE KILLED OR TAKEN BY TRAPPING OR SNARING[^key-17b977feec7d8b989393ad0597a5fa49]
+## SCHEDULE 6A — ANIMALS WHICH MAY NOT BE KILLED OR TAKEN BY TRAPPING OR SNARING[^c-17b977feec7d8b989393ad0597a5fa49]
 
 Article 12(2), 28
 
@@ -1505,7 +1505,7 @@ Articles 13 and 28.
 | [^c20376891]. . . | [^c20376891]. . . |
 | Seahorse, Short Snouted | Hippocampus hippocampus |
 | Seahorse, Spiny | Hippocampus guttulatus |
-| Seal[^key-211d0c11341e231af017340459d9d3de] | Pinniped |
+| Seal[^c-211d0c11341e231af017340459d9d3de] | Pinniped |
 | Sea-urchin, Common | Echinus esculentus |
 | Shark, Basking | Cetorhinus maximus |
 | Squirrel, Red | Sciurus vulgaris |
@@ -1627,17 +1627,17 @@ Articles 15 and 28.
 | *Common name* | *Scientific name* |
 | --- | --- |
 | Amphipod, Freshwater[^c22547381] | Crangonyx pseudogracilis |
-| [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
+| [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
 | Crayfish, Narrow-clawed | Astacus leptodactylus |
 | Crayfish, Noble | Astacus astacus |
-| [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
-| [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
+| [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
+| [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
 | Deer, Chinese water | Hydropotes inermis |
-| [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
+| [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
 | Deer, Roe | Capreolus capreolus |
 | [^c22547391]. . . | [^c22547391]. . . |
 | Duck, Mandarin | Aix galericulata |
-| [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
+| [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
 | Goose, Barnacle | Branta leucopsis |
 | Goose, Canada | Branta canadensis |
 | [^c22547421]. . . | [^c22547421]. . . |
@@ -1655,20 +1655,20 @@ Articles 15 and 28.
 | Shrimp, Freshwater | Gammarus pulex |
 | Shrimp, Freshwater | Gammarus tigrinus |
 | Shrimp, Japanese skeleton | Caprella mutica |
-| [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^key-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
+| [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . | [^c-f19dcaa41cfe37d9b5d009a317d3f0ff]. . . |
 | Stoat, Irish (with respect to islands in territorial waters only) | Mustela erminea hibernicus |
 
 ### PART II — PLANTS
 
 |  |  |
 | --- | --- |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
 | Bluebell, Spanish[^c22547461] | Hyacinthoides hispanica |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
 | Eelgrass, Dwarf | Zostera japonica |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
 | Fig, Hottentot | Carpobrotus edulis |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
 | Honeysuckle, Japanese | Lonicera japonica |
 | Kelp, Giant | Macrocystis pyrifera |
 | Kelp, Japanese | Undaria pinnatifida |
@@ -1678,14 +1678,14 @@ Articles 15 and 28.
 | Knotweed, Japanese | Fallopia japonica |
 | [^c22547551]. . . | [^c22547551]. . . |
 | Leek, Few-flowered | Allium paradoxum |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
 | Pirri‐pirri Bur | Acaena (all species) |
 | Reed, Giant | Arundo donax |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
 | Salmonberry | Rubus spectabilis |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
 | Sea-buckthorn | Hippophae rhamnoides |
 | Seaweed, Japanese | Sargassum muticum |
 | Spartina or Cord‐grass | Spartina (all species) |
@@ -1693,11 +1693,11 @@ Articles 15 and 28.
 | Water Chestnut | Trapa natans |
 | Water Fern | Azolla filiculoides |
 | Water Lettuce | Pistia stratiotes |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
 | Water Soldier | Stratiotes aloides |
 | Waterlily, Fringed | Nymphoides peltata |
-| Waterweeds (except Nuttall’s Waterweed)[^key-3a13cada6e91c148f6f59b24ebfbedbf] | All species of the genus Elodea, except Elodea nuttalli |
-| [^key-3b7f50832557281fd98b98b9bcef5914]. . . | [^key-3b7f50832557281fd98b98b9bcef5914]. . . |
+| Waterweeds (except Nuttall’s Waterweed)[^c-3a13cada6e91c148f6f59b24ebfbedbf] | All species of the genus Elodea, except Elodea nuttalli |
+| [^c-3b7f50832557281fd98b98b9bcef5914]. . . | [^c-3b7f50832557281fd98b98b9bcef5914]. . . |
 | Waterweed, Large flowered | Egeria densa |
 
 NOTE. The first column of this Schedule, which gives the common name or names, is included by way of guidance only; in the event of any dispute or proceedings, only the second column shall be taken into account. Note 2. In this Schedule “[^c22547581]**territorial waters**” means the territorial waters adjacent to Northern Ireland.
@@ -1772,7 +1772,7 @@ Articles 19(3) and 28.
 
 [^c16937051]: Textual amendment: SR 2004/435
 
-[^key-700fff396bb3081576ee21bcb592a666]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1985/171/article/2/2) inserted (31.12.2020) by [The Conservation (Natural Habitats, etc.) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/582)](https://www.legislation.gov.uk/uksi/2019/582), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/582/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2019/582/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-700fff396bb3081576ee21bcb592a666]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1985/171/article/2/2) inserted (31.12.2020) by [The Conservation (Natural Habitats, etc.) (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/582)](https://www.legislation.gov.uk/uksi/2019/582), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/582/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2019/582/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22491801]: Textual amendment: Art. 2(2): words in definition of "wild bird" added (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39(1)](https://www.legislation.gov.uk/nia/2011/15/section/39/1), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/nia/2011/15/schedule/2/paragraph/5/3); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
@@ -1844,17 +1844,17 @@ Articles 19(3) and 28.
 
 [^c22496911]: Textual amendment: Art. 10(4A) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 9](https://www.legislation.gov.uk/nia/2011/15/section/9), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-97aafcc202e61d5f7d1d6c59c086f543]: Textual amendment: [Art. 10(4A)(a)](https://www.legislation.gov.uk/nisi/1985/171/article/10/4A/a) substituted for [art. 10(4A)(a)(b)](https://www.legislation.gov.uk/nisi/1985/171/article/10/4A/a) (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/14) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-97aafcc202e61d5f7d1d6c59c086f543]: Textual amendment: [Art. 10(4A)(a)](https://www.legislation.gov.uk/nisi/1985/171/article/10/4A/a) substituted for [art. 10(4A)(a)(b)](https://www.legislation.gov.uk/nisi/1985/171/article/10/4A/a) (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 14](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/14) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c22496931]: Textual amendment: Art. 10(4B) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 6(4)](https://www.legislation.gov.uk/nia/2011/15/section/6/4), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
 [^c22496951]: Textual amendment: Words in art. 10(5) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39(1)](https://www.legislation.gov.uk/nia/2011/15/section/39/1), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 2 para. 10](https://www.legislation.gov.uk/nia/2011/15/schedule/2/paragraph/10); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-638e83f3651c01adbc8939f91762c3c3]: Textual amendment: [Art. 11(1A)](https://www.legislation.gov.uk/nisi/1985/171/article/11/1A) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 15(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/15/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-638e83f3651c01adbc8939f91762c3c3]: Textual amendment: [Art. 11(1A)](https://www.legislation.gov.uk/nisi/1985/171/article/11/1A) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 15(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/15/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c22496971]: Textual amendment: Words in art. 11(3)(a) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39(1)](https://www.legislation.gov.uk/nia/2011/15/section/39/1), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/nia/2011/15/schedule/2/paragraph/11/2); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-c153592730072ad8dc129636f0adb116]: Textual amendment: [Art. 11(3A)](https://www.legislation.gov.uk/nisi/1985/171/article/11/3A) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/15/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-c153592730072ad8dc129636f0adb116]: Textual amendment: [Art. 11(3A)](https://www.legislation.gov.uk/nisi/1985/171/article/11/3A) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 15(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/15/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c22496991]: Textual amendment: Art. 11(4) repealed (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39](https://www.legislation.gov.uk/nia/2011/15/section/39), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 2 para. 11(3)](https://www.legislation.gov.uk/nia/2011/15/schedule/2/paragraph/11/3), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2011/15/schedule/3/part/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
@@ -1864,27 +1864,27 @@ Articles 19(3) and 28.
 
 [^c22497041]: Textual amendment: Words in art. 12(1)(b) repealed (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39(2)](https://www.legislation.gov.uk/nia/2011/15/section/39/2), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2011/15/schedule/3/part/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-beb6370a2e4428298cbe8ae161c4a515]: Textual amendment: [Art. 12(2)](https://www.legislation.gov.uk/nisi/1985/171/article/12/2) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/2)
+[^c-beb6370a2e4428298cbe8ae161c4a515]: Textual amendment: [Art. 12(2)](https://www.legislation.gov.uk/nisi/1985/171/article/12/2) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/2)
 
 [^c22497051]: Textual amendment: Art. 12(2A)-(2F) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 10(4)](https://www.legislation.gov.uk/nia/2011/15/section/10/4), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-7683525024d3249874e615e1f081e9f7]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/nisi/1985/171/article/12/4) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(3)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/3)
+[^c-7683525024d3249874e615e1f081e9f7]: Textual amendment: Words in [art. 12(4)](https://www.legislation.gov.uk/nisi/1985/171/article/12/4) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(3)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/3)
 
-[^key-4ee84eaa1e31ef796ec27c9f0f9baa89]: Textual amendment: Words in [art. 12(5)](https://www.legislation.gov.uk/nisi/1985/171/article/12/5) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(4)(a)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/4/a)
+[^c-4ee84eaa1e31ef796ec27c9f0f9baa89]: Textual amendment: Words in [art. 12(5)](https://www.legislation.gov.uk/nisi/1985/171/article/12/5) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(4)(a)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/4/a)
 
-[^key-b6a6bb04eb4c0675fbc290e8f9e08874]: Textual amendment: Words in [art. 12(5)](https://www.legislation.gov.uk/nisi/1985/171/article/12/5) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(4)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/4/b)
+[^c-b6a6bb04eb4c0675fbc290e8f9e08874]: Textual amendment: Words in [art. 12(5)](https://www.legislation.gov.uk/nisi/1985/171/article/12/5) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(4)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/4/b)
 
-[^key-b67a99b379d81839725ead79ea1045db]: Textual amendment: [Art. 12(5A)](https://www.legislation.gov.uk/nisi/1985/171/article/12/5A) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(5)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/5)
+[^c-b67a99b379d81839725ead79ea1045db]: Textual amendment: [Art. 12(5A)](https://www.legislation.gov.uk/nisi/1985/171/article/12/5A) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [3(5)](https://www.legislation.gov.uk/nisr/2019/68/regulation/3/5)
 
 [^c22497071]: Textual amendment: Words in art. 12(6) substituted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39(1)](https://www.legislation.gov.uk/nia/2011/15/section/39/1), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 2 para. 12](https://www.legislation.gov.uk/nia/2011/15/schedule/2/paragraph/12); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
 [^c22497091]: Textual amendment: Words in art. 12(7) repealed (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39(2)](https://www.legislation.gov.uk/nia/2011/15/section/39/2), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/nia/2011/15/schedule/3/part/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-0dcc7383ed296506820ebe2cdf82d752]: Textual amendment: Art. 12A inserted (30.1.2012 for specified purposes, 12.3.2012 in so far as not already in operation) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 11(1)](https://www.legislation.gov.uk/nia/2011/15/section/11/1), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/21/article/2/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/a)
+[^c-0dcc7383ed296506820ebe2cdf82d752]: Textual amendment: Art. 12A inserted (30.1.2012 for specified purposes, 12.3.2012 in so far as not already in operation) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 11(1)](https://www.legislation.gov.uk/nia/2011/15/section/11/1), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/21/article/2/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/a)
 
-[^key-94e7ccc02aaaa32dd79bc9807c94257f]: Textual amendment: Words in [art. 12A(1)(a)](https://www.legislation.gov.uk/nisi/1985/171/article/12A/1/a) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/4/2)
+[^c-94e7ccc02aaaa32dd79bc9807c94257f]: Textual amendment: Words in [art. 12A(1)(a)](https://www.legislation.gov.uk/nisi/1985/171/article/12A/1/a) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [4(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/4/2)
 
-[^key-f96ed2e6dbfa0eaadf3766d480634b65]: Textual amendment: [Art. 12A(4)](https://www.legislation.gov.uk/nisi/1985/171/article/12A/4)[(5)](https://www.legislation.gov.uk/nisi/1985/171/article/12A/5) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [4(3)](https://www.legislation.gov.uk/nisr/2019/68/regulation/4/3)
+[^c-f96ed2e6dbfa0eaadf3766d480634b65]: Textual amendment: [Art. 12A(4)](https://www.legislation.gov.uk/nisi/1985/171/article/12A/4)[(5)](https://www.legislation.gov.uk/nisi/1985/171/article/12A/5) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [4(3)](https://www.legislation.gov.uk/nisr/2019/68/regulation/4/3)
 
 [^c22497101]: Textual amendment: Art. 13(2A) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 6(5)](https://www.legislation.gov.uk/nia/2011/15/section/6/5), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
@@ -1912,7 +1912,7 @@ Articles 19(3) and 28.
 
 [^c22499271]: Textual amendment: Art. 15(7)-(9) added (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 13(4)](https://www.legislation.gov.uk/nia/2011/15/section/13/4), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-9980e89d2d1a46ef4c6aeed758db303b]: Textual amendment: [Art. 15(10)](https://www.legislation.gov.uk/nisi/1985/171/article/15/10) inserted (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019 (S.R. 2019/159)](https://www.legislation.gov.uk/nisr/2019/159), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1), [32(2)](https://www.legislation.gov.uk/nisr/2019/159/article/32/2) (with [art. 1(2)](https://www.legislation.gov.uk/nisr/2019/159/article/1/2))
+[^c-9980e89d2d1a46ef4c6aeed758db303b]: Textual amendment: [Art. 15(10)](https://www.legislation.gov.uk/nisi/1985/171/article/15/10) inserted (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019 (S.R. 2019/159)](https://www.legislation.gov.uk/nisr/2019/159), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1), [32(2)](https://www.legislation.gov.uk/nisr/2019/159/article/32/2) (with [art. 1(2)](https://www.legislation.gov.uk/nisr/2019/159/article/1/2))
 
 [^c22499291]: Textual amendment: [Art. 15A](https://www.legislation.gov.uk/nisi/1985/171/article/15A) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 14](https://www.legislation.gov.uk/nia/2011/15/section/14), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
@@ -1938,15 +1938,15 @@ Articles 19(3) and 28.
 
 [^c22499491]: Textual amendment: Words in art. 18(3)(b) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 16(6)](https://www.legislation.gov.uk/nia/2011/15/section/16/6), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-a7d0002d34bdcf2ae0cb2048297767ed]: Textual amendment: [Art. 18(3ZA)](https://www.legislation.gov.uk/nisi/1985/171/article/18/3ZA) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/16) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a7d0002d34bdcf2ae0cb2048297767ed]: Textual amendment: [Art. 18(3ZA)](https://www.legislation.gov.uk/nisi/1985/171/article/18/3ZA) inserted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 16](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/16) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c22499511]: Textual amendment: Art. 18(3A) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 16(7)](https://www.legislation.gov.uk/nia/2011/15/section/16/7), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-ac92e0aa345f617a104676571a0bbd69]: Textual amendment: Art. 18(3B)-(3J) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [5(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/5/2)
+[^c-ac92e0aa345f617a104676571a0bbd69]: Textual amendment: Art. 18(3B)-(3J) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [5(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/5/2)
 
 [^c22499531]: Textual amendment: Words in art. 18(4) substituted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39(1)](https://www.legislation.gov.uk/nia/2011/15/section/39/1), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/nia/2011/15/schedule/2/paragraph/16/b); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-14b031d631b0b4b8fba97337d86748e0]: Textual amendment: Art. 18(4A) inserted (30.1.2012 for specified purposes, 12.3.2012 in so far as not already in operation) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 11(2)](https://www.legislation.gov.uk/nia/2011/15/section/11/2), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/21/article/2/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/a)
+[^c-14b031d631b0b4b8fba97337d86748e0]: Textual amendment: Art. 18(4A) inserted (30.1.2012 for specified purposes, 12.3.2012 in so far as not already in operation) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 11(2)](https://www.legislation.gov.uk/nia/2011/15/section/11/2), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2012/21](https://www.legislation.gov.uk/nisr/2012/21), [art. 2(1)](https://www.legislation.gov.uk/nisr/2012/21/article/2/1)[(2)(a)](https://www.legislation.gov.uk/nisr/2012/21/article/2/2/a)
 
 [^c16937121]: Textual amendment: [1995 NI 6](https://www.legislation.gov.uk/nisi/1995)
 
@@ -1954,13 +1954,13 @@ Articles 19(3) and 28.
 
 [^c22499571]: Textual amendment: Art. 18(8) added (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 16(9)](https://www.legislation.gov.uk/nia/2011/15/section/16/9), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-0c079cc3021d195a65f1561cb8948e8d]: Textual amendment: Words in art. 18(8) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [5(3)](https://www.legislation.gov.uk/nisr/2019/68/regulation/5/3)
+[^c-0c079cc3021d195a65f1561cb8948e8d]: Textual amendment: Words in art. 18(8) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [5(3)](https://www.legislation.gov.uk/nisr/2019/68/regulation/5/3)
 
-[^key-ddbad97e8df0bba3a336f8e8781e8eba]: Textual amendment: Word in [art. 20(1)](https://www.legislation.gov.uk/nisi/1985/171/article/20/1) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [6(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/6/2)
+[^c-ddbad97e8df0bba3a336f8e8781e8eba]: Textual amendment: Word in [art. 20(1)](https://www.legislation.gov.uk/nisi/1985/171/article/20/1) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [6(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/6/2)
 
-[^key-85263d82691ca0939a5214d1c8aee351]: Textual amendment: Words in [art. 20(3)](https://www.legislation.gov.uk/nisi/1985/171/article/20/3) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [6(3)](https://www.legislation.gov.uk/nisr/2019/68/regulation/6/3)
+[^c-85263d82691ca0939a5214d1c8aee351]: Textual amendment: Words in [art. 20(3)](https://www.legislation.gov.uk/nisi/1985/171/article/20/3) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [6(3)](https://www.legislation.gov.uk/nisr/2019/68/regulation/6/3)
 
-[^key-deaa42e486f886315314551a6b7a0221]: Textual amendment: Words in [art. 20(4)](https://www.legislation.gov.uk/nisi/1985/171/article/20/4) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [6(4)](https://www.legislation.gov.uk/nisr/2019/68/regulation/6/4)
+[^c-deaa42e486f886315314551a6b7a0221]: Textual amendment: Words in [art. 20(4)](https://www.legislation.gov.uk/nisi/1985/171/article/20/4) substituted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [6(4)](https://www.legislation.gov.uk/nisr/2019/68/regulation/6/4)
 
 [^m00007]: Marginal citation: 1959 c. 2 (N.I.)
 
@@ -2002,7 +2002,7 @@ Articles 19(3) and 28.
 
 [^c22503551]: Textual amendment: Art. 28(8) added (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 26](https://www.legislation.gov.uk/nia/2011/15/section/26), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-76ea9ad255620f7d864355d306399d12]: Textual amendment: [Art. 28(9)-(10)](https://www.legislation.gov.uk/nisi/1985/171/article/28/9) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [7(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/7/2)
+[^c-76ea9ad255620f7d864355d306399d12]: Textual amendment: [Art. 28(9)-(10)](https://www.legislation.gov.uk/nisi/1985/171/article/28/9) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [7(2)](https://www.legislation.gov.uk/nisr/2019/68/regulation/7/2)
 
 [^c22503571]: Textual amendment: Words in [art. 29(3)](https://www.legislation.gov.uk/nisi/1985/171/article/29/3) inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 39(1)](https://www.legislation.gov.uk/nia/2011/15/section/39/1), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 2 para. 19](https://www.legislation.gov.uk/nia/2011/15/schedule/2/paragraph/19); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
@@ -2038,15 +2038,15 @@ Articles 19(3) and 28.
 
 [^c20376801]: Textual amendment: Sch. 5: entry relating to "Otter, Common" deleted (21.8.2007) by virtue of [Conservation (Natural Habitats, etc.) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/345)](https://www.legislation.gov.uk/nisr/2007/345), [reg. 38(a)](https://www.legislation.gov.uk/nisr/2007/345/regulation/38/a)
 
-[^key-b0c2211b5ed0742f2e4d7c45aa9a1002]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisi/1985/171/schedule/5) Table substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/17) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b0c2211b5ed0742f2e4d7c45aa9a1002]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/nisi/1985/171/schedule/5) Table substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 17](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/17) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c22547631]: Textual amendment: Sch. 5: Note 2 inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 27](https://www.legislation.gov.uk/nia/2011/15/section/27), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/5/3); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
 [^c22514431]: Textual amendment: Sch. 6: entries at the appropriate places in alphabetical order inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 27](https://www.legislation.gov.uk/nia/2011/15/section/27), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/6/2); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-5fca34e66977cf5dc802eb8da03bde81]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/nisi/1985/171/schedule/6) Table substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/18) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-5fca34e66977cf5dc802eb8da03bde81]: Textual amendment: Words in [Sch. 6](https://www.legislation.gov.uk/nisi/1985/171/schedule/6) Table substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 18](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/18) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-17b977feec7d8b989393ad0597a5fa49]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/nisi/1985/171/schedule/6A) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [8](https://www.legislation.gov.uk/nisr/2019/68/regulation/8), [Sch.](https://www.legislation.gov.uk/nisr/2019/68/schedule) (with [reg. 9](https://www.legislation.gov.uk/nisr/2019/68/regulation/9))
+[^c-17b977feec7d8b989393ad0597a5fa49]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/nisi/1985/171/schedule/6A) inserted (31.5.2019) by [The Humane Trapping Standards Regulations (Northern Ireland) 2019 (S.R. 2019/68)](https://www.legislation.gov.uk/nisr/2019/68), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2019/68/regulation/1/1/b), [8](https://www.legislation.gov.uk/nisr/2019/68/regulation/8), [Sch.](https://www.legislation.gov.uk/nisr/2019/68/schedule) (with [reg. 9](https://www.legislation.gov.uk/nisr/2019/68/regulation/9))
 
 [^c20376861]: Textual amendment: Sch. 7: entry relating to "Bats (all species)" deleted (21.8.2007) by virtue of [Conservation (Natural Habitats, etc.) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/345)](https://www.legislation.gov.uk/nisr/2007/345), [reg. 39](https://www.legislation.gov.uk/nisr/2007/345/regulation/39)
 
@@ -2056,7 +2056,7 @@ Articles 19(3) and 28.
 
 [^c20376891]: Textual amendment: Sch. 7: entry relating to "Otter, Common" deleted (21.8.2007) by virtue of [Conservation (Natural Habitats, etc.) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/345)](https://www.legislation.gov.uk/nisr/2007/345), [reg. 39](https://www.legislation.gov.uk/nisr/2007/345/regulation/39)
 
-[^key-211d0c11341e231af017340459d9d3de]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisi/1985/171/schedule/7) Table substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/19) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-211d0c11341e231af017340459d9d3de]: Textual amendment: Words in [Sch. 7](https://www.legislation.gov.uk/nisi/1985/171/schedule/7) Table substituted (1.3.2021) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(5)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/5), [Sch. 9 para. 19](https://www.legislation.gov.uk/ukpga/2020/22/schedule/9/paragraph/19) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
 [^c22509441]: Textual amendment: Sch. 8 Pt. I: entry relating to "Barley, Wood" omitted (17.8.2011) by virtue of [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 27](https://www.legislation.gov.uk/nia/2011/15/section/27), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 1 para. 8(3)](https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/8/3); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
@@ -2086,7 +2086,7 @@ Articles 19(3) and 28.
 
 [^c22547381]: Textual amendment: Sch. 9 Pt. I: entries at the appropriate places in alphabetical order inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 27](https://www.legislation.gov.uk/nia/2011/15/section/27), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/9/2); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-f19dcaa41cfe37d9b5d009a317d3f0ff]: Textual amendment: Words in [Sch. 9 Pt. I](https://www.legislation.gov.uk/nisi/1985/171/schedule/9/part/I) omitted (1.12.2019) by virtue of [The Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019 (S.R. 2019/159)](https://www.legislation.gov.uk/nisr/2019/159), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1), [32(3)(a)](https://www.legislation.gov.uk/nisr/2019/159/article/32/3/a) (with [art. 1(2)](https://www.legislation.gov.uk/nisr/2019/159/article/1/2))
+[^c-f19dcaa41cfe37d9b5d009a317d3f0ff]: Textual amendment: Words in [Sch. 9 Pt. I](https://www.legislation.gov.uk/nisi/1985/171/schedule/9/part/I) omitted (1.12.2019) by virtue of [The Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019 (S.R. 2019/159)](https://www.legislation.gov.uk/nisr/2019/159), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1), [32(3)(a)](https://www.legislation.gov.uk/nisr/2019/159/article/32/3/a) (with [art. 1(2)](https://www.legislation.gov.uk/nisr/2019/159/article/1/2))
 
 [^c22547391]: Textual amendment: Sch. 9 Pt. I: entry relating to "Duck, Carolina Wood" omitted (17.8.2011) by virtue of [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 27](https://www.legislation.gov.uk/nia/2011/15/section/27), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/9/3); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
@@ -2094,7 +2094,7 @@ Articles 19(3) and 28.
 
 [^c22547441]: Textual amendment: Sch. 9 Pt. I: entry relating to "Pheasant, Golden" omitted (17.8.2011) by virtue of [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 27](https://www.legislation.gov.uk/nia/2011/15/section/27), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/9/3); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-3b7f50832557281fd98b98b9bcef5914]: Textual amendment: Words in Sch. 9 Pt. II omitted (1.12.2019) by virtue of [The Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019 (S.R. 2019/159)](https://www.legislation.gov.uk/nisr/2019/159), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1), [32(3)(b)](https://www.legislation.gov.uk/nisr/2019/159/article/32/3/b) (with [art. 1(2)](https://www.legislation.gov.uk/nisr/2019/159/article/1/2))
+[^c-3b7f50832557281fd98b98b9bcef5914]: Textual amendment: Words in Sch. 9 Pt. II omitted (1.12.2019) by virtue of [The Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019 (S.R. 2019/159)](https://www.legislation.gov.uk/nisr/2019/159), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1), [32(3)(b)](https://www.legislation.gov.uk/nisr/2019/159/article/32/3/b) (with [art. 1(2)](https://www.legislation.gov.uk/nisr/2019/159/article/1/2))
 
 [^c22547461]: Textual amendment: Sch. 9 Pt. II: entries at the appropriate places in alphabetical order inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 27](https://www.legislation.gov.uk/nia/2011/15/section/27), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 1 para. 9(4)](https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/9/4); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
@@ -2102,7 +2102,7 @@ Articles 19(3) and 28.
 
 [^c22547551]: Textual amendment: Sch. 9 Pt. II: entry relating to "Knotweed, Japanese" omitted (17.8.2011) by virtue of [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 27](https://www.legislation.gov.uk/nia/2011/15/section/27), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 1 para. 9(5)](https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/9/5); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 
-[^key-3a13cada6e91c148f6f59b24ebfbedbf]: Textual amendment: Words in Sch. 9 Pt. II substituted (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019 (S.R. 2019/159)](https://www.legislation.gov.uk/nisr/2019/159), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1), [32(3)(c)](https://www.legislation.gov.uk/nisr/2019/159/article/32/3/c) (with [art. 1(2)](https://www.legislation.gov.uk/nisr/2019/159/article/1/2))
+[^c-3a13cada6e91c148f6f59b24ebfbedbf]: Textual amendment: Words in Sch. 9 Pt. II substituted (1.12.2019) by [The Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019 (S.R. 2019/159)](https://www.legislation.gov.uk/nisr/2019/159), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2019/159/article/1/1), [32(3)(c)](https://www.legislation.gov.uk/nisr/2019/159/article/32/3/c) (with [art. 1(2)](https://www.legislation.gov.uk/nisr/2019/159/article/1/2))
 
 [^c22547581]: Textual amendment: Sch. 9: Note 2 inserted (17.8.2011) by [Wildlife and Natural Environment Act (Northern Ireland) 2011 (c. 15)](https://www.legislation.gov.uk/nia/2011/15), [ss. 27](https://www.legislation.gov.uk/nia/2011/15/section/27), [40(1)](https://www.legislation.gov.uk/nia/2011/15/section/40/1), [Sch. 1 para. 9(6)](https://www.legislation.gov.uk/nia/2011/15/schedule/1/paragraph/9/6); [S.R. 2011/285](https://www.legislation.gov.uk/nisr/2011/285), [art. 2](https://www.legislation.gov.uk/nisr/2011/285/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/285/schedule)
 

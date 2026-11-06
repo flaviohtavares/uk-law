@@ -242,7 +242,7 @@ and that liability shall be apportioned between those persons in such manner as 
 
 (8) In this paragraph “**third party**”, in relation to provisions capable of giving rise to compensation under this paragraph, means any person other than—
 
-- (a) the BBC or any of their wholly-owned subsidiaries (as defined by section 1159 of the Companies Act 2006[^key-124dae8035a941e80adc47157d49f654] ,
+- (a) the BBC or any of their wholly-owned subsidiaries (as defined by section 1159 of the Companies Act 2006[^c-124dae8035a941e80adc47157d49f654] ,
 - (b) the Secretary of State, or
 - (c) any person whose consent to those provisions has been given for the purposes of section 132(2) or who has agreed to those provisions by virtue of being a party to a modification agreement.
 
@@ -272,4 +272,4 @@ and that liability shall be apportioned between those persons in such manner as 
 
 [^c11523441]: Marginal citation: [1979 c. 33](https://www.legislation.gov.uk/ukpga/1979/33).
 
-[^key-124dae8035a941e80adc47157d49f654]: Textual amendment: Words in [Sch. 5 para. 8(8)(a)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/5/paragraph/8/8/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 162(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/162/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-124dae8035a941e80adc47157d49f654]: Textual amendment: Words in [Sch. 5 para. 8(8)(a)](https://www.legislation.gov.uk/ukpga/1996/55/schedule/5/paragraph/8/8/a) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 162(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/162/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

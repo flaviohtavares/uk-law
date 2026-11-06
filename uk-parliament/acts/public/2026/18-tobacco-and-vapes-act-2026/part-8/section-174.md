@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Extent[^key-543cab0ef6c9884099e05f76d904998d]
+## 174. Extent[^c-543cab0ef6c9884099e05f76d904998d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-543cab0ef6c9884099e05f76d904998d]: Commencement: S. 174 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)
+[^c-543cab0ef6c9884099e05f76d904998d]: Commencement: S. 174 in force at Royal Assent, see [s. 176(4)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/4)

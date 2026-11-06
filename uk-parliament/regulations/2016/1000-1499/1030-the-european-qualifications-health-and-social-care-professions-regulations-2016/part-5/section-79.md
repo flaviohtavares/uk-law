@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Amendment of article 7A[^key-ea662ff911e47c90a31909176db0e62d]
+## 79. Amendment of article 7A[^c-ea662ff911e47c90a31909176db0e62d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea662ff911e47c90a31909176db0e62d]: Commencement: Reg. 79 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-ea662ff911e47c90a31909176db0e62d]: Commencement: Reg. 79 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00060]: Footnote: Article 7A was inserted by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

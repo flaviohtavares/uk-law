@@ -29,21 +29,21 @@ summary: ''
 
 REHABILITATION OF OFFENDERS
 
-The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+The Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975 *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-Laid before Parliament in draft *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+Laid before Parliament in draft *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-Made *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+Made *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-24th June 1975 *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+24th June 1975 *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-Coming into Operation *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+Coming into Operation *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-1st July 1975 *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+1st July 1975 *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-Whereas a draft of this Order has been approved by a resolution of each House of Parliament: *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+Whereas a draft of this Order has been approved by a resolution of each House of Parliament: *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-Now, therefore, in exercise of the powers conferred upon me by sections 4(4) and 7(4) of the Rehabilitation of Offenders Act 1974, I hereby make the following Order:— *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718][^key-a15c760babec5117d69d4ce0d2709d6b]
+Now, therefore, in exercise of the powers conferred upon me by sections 4(4) and 7(4) of the Rehabilitation of Offenders Act 1974, I hereby make the following Order:— *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718][^c-a15c760babec5117d69d4ce0d2709d6b]
 
 ## Contents
 
@@ -65,15 +65,15 @@ Now, therefore, in exercise of the powers conferred upon me by sections 4(4) and
 
 *Extent: E+W+S*
 
-Roy Jenkins *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+Roy Jenkins *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-One of Her Majesty's Principal Secretaries of State *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+One of Her Majesty's Principal Secretaries of State *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-Home Office *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+Home Office *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-Whitehall *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+Whitehall *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
-24th June 1975 *(Extent: S)* *(affected by repeal, see note)*[^key-f78d75a614c86a2b6fc0bb6b9d60d718]
+24th June 1975 *(Extent: S)* *(affected by repeal, see note)*[^c-f78d75a614c86a2b6fc0bb6b9d60d718]
 
 *Extent: E+W+S*
 
@@ -83,6 +83,6 @@ This Order makes exceptions in the operation of the Rehabilitation of Offenders 
 
 ## Annotations
 
-[^key-f78d75a614c86a2b6fc0bb6b9d60d718]: Textual amendment: Order revoked (S.) (29.3.2003) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003 (S.S.I. 2003/231)](https://www.legislation.gov.uk/ssi/2003/231), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2003/231/article/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2003/231/article/6/a)
+[^c-f78d75a614c86a2b6fc0bb6b9d60d718]: Textual amendment: Order revoked (S.) (29.3.2003) by [The Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003 (S.S.I. 2003/231)](https://www.legislation.gov.uk/ssi/2003/231), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2003/231/article/1/1), [6(a)](https://www.legislation.gov.uk/ssi/2003/231/article/6/a)
 
-[^key-a15c760babec5117d69d4ce0d2709d6b]: Modification: [Order](https://www.legislation.gov.uk/uksi/1975/1023) applied (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 8(8)(b)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/8/8/b), [19(1)(b)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/19/1/b) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)
+[^c-a15c760babec5117d69d4ce0d2709d6b]: Modification: [Order](https://www.legislation.gov.uk/uksi/1975/1023) applied (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 8(8)(b)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/8/8/b), [19(1)(b)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/19/1/b) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61)); [S.I. 2023/1293](https://www.legislation.gov.uk/uksi/2023/1293), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1293/regulation/2/a)

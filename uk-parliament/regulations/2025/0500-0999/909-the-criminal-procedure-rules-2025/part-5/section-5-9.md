@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.9. Request for information by a party or person directly affected by a case[^key-bdb25f700573bff93a86d2c6cf06f0d8]
+## 5.9. Request for information by a party or person directly affected by a case[^c-bdb25f700573bff93a86d2c6cf06f0d8]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bdb25f700573bff93a86d2c6cf06f0d8]: Commencement: [Rule 5.9](https://www.legislation.gov.uk/uksi/2025/909/rule/5.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-bdb25f700573bff93a86d2c6cf06f0d8]: Commencement: [Rule 5.9](https://www.legislation.gov.uk/uksi/2025/909/rule/5.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

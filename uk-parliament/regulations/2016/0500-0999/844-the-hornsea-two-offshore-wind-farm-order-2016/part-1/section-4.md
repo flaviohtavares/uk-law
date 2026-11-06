@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Guarantees in respect of payment of compensation[^key-87e464948a2c5a5d370138f1dcdc0fae]
+## 4. Guarantees in respect of payment of compensation[^c-87e464948a2c5a5d370138f1dcdc0fae]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ that has been approved by the Secretary of State.
 
 ## Annotations
 
-[^key-87e464948a2c5a5d370138f1dcdc0fae]: Commencement: Art. 4 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-87e464948a2c5a5d370138f1dcdc0fae]: Commencement: Art. 4 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)

@@ -52,7 +52,7 @@ Coming into force in accordance with regulation 1
 
 [^c23690871][^c23690881]The Secretary of State makes these Regulations in exercise of the powers conferred by sections 1(1), 69(1), 71(4), 73(5), 84(7), 86(7) and 223(3) and (8) of the Extradition Act 2003 , and by sections 8(1) and 23(1) and (2) of, and paragraph 21 of Schedule 7 to, the European Union (Withdrawal) Act 2018 .
 
-A draft of these Regulations has been laid before Parliament and approved by a resolution of each House, in accordance with section 223(5) and (6) of the Extradition Act 2003 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-d535be83922c328b61255b058b79fd1c]
+A draft of these Regulations has been laid before Parliament and approved by a resolution of each House, in accordance with section 223(5) and (6) of the Extradition Act 2003 and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^c-d535be83922c328b61255b058b79fd1c]
 
 ## Contents
 
@@ -230,7 +230,7 @@ A draft of these Regulations has been laid before Parliament and approved by a r
 - [Section 62 — Amendment to the Firearms Acts (Amendment) Regulations 1992](part-15/section-62.md)
 - [Section 63 — Amendment to the Firearms (Amendment) Act 1988 (Amendment) Regulations 2011](part-15/section-63.md)
 
-#### CHAPTER 3 — ...[^key-b5eeefc6d0794aab21d8c9ed1b83b3be]
+#### CHAPTER 3 — ...[^c-b5eeefc6d0794aab21d8c9ed1b83b3be]
 
 *Extent: E+W+S+N.I.*
 
@@ -311,7 +311,7 @@ A draft of these Regulations has been laid before Parliament and approved by a r
 - [Section 94 — Revocation of the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (Scotland) Order 2011](part-18/section-94.md)
 - [Section 95 — Revocation of the Crime (International Co-operation) Act 2003 (Designation of Participating Countries) (England, Wales and Northern Ireland) (No. 2) Order 2011](part-18/section-95.md)
 
-#### CHAPTER 7 — Saving provisions relating to the amendment of the Crime (International Co-operation) Act 2003 and related legislation[^key-7d821369e34210081c513a5918550b2e]
+#### CHAPTER 7 — Saving provisions relating to the amendment of the Crime (International Co-operation) Act 2003 and related legislation[^c-7d821369e34210081c513a5918550b2e]
 
 *Extent: E+W+S+N.I.*
 
@@ -529,8 +529,8 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23690881]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-d535be83922c328b61255b058b79fd1c]: Modification: Regulations applied (31.12.2020) by [The Criminal Procedure (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/908)](https://www.legislation.gov.uk/uksi/2019/908), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2019/908/regulation/1/c), [3(a)](https://www.legislation.gov.uk/uksi/2019/908/regulation/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/908/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d535be83922c328b61255b058b79fd1c]: Modification: Regulations applied (31.12.2020) by [The Criminal Procedure (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/908)](https://www.legislation.gov.uk/uksi/2019/908), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2019/908/regulation/1/c), [3(a)](https://www.legislation.gov.uk/uksi/2019/908/regulation/3/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/908/regulation/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b5eeefc6d0794aab21d8c9ed1b83b3be]: Textual amendment: Pt. 15 Ch. 3 heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/3)
+[^c-b5eeefc6d0794aab21d8c9ed1b83b3be]: Textual amendment: Pt. 15 Ch. 3 heading omitted (31.12.2020 immediately before IP completion day) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/4/3)
 
-[^key-7d821369e34210081c513a5918550b2e]: Textual amendment: Word in Pt. 18 Ch. 7 heading substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/20/1)
+[^c-7d821369e34210081c513a5918550b2e]: Textual amendment: Word in Pt. 18 Ch. 7 heading substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [20(1)](https://www.legislation.gov.uk/uksi/2020/1408/regulation/20/1)

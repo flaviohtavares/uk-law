@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Organic Farming (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-a25a08b0ecf16eea37df6e51681b243a]
+The Organic Farming (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-a25a08b0ecf16eea37df6e51681b243a]
 
 Made
 
@@ -42,22 +42,22 @@ Coming into operation
 
 1st May 2010
 
-[^key-a25a08b0ecf16eea37df6e51681b243a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a25a08b0ecf16eea37df6e51681b243a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-a25a08b0ecf16eea37df6e51681b243a]
+## 1. Citation, commencement and interpretation[^c-a25a08b0ecf16eea37df6e51681b243a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Organic Farming Regulations (Northern Ireland) 2008[^key-a25a08b0ecf16eea37df6e51681b243a]
+## 2. Amendment to the Organic Farming Regulations (Northern Ireland) 2008[^c-a25a08b0ecf16eea37df6e51681b243a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a25a08b0ecf16eea37df6e51681b243a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a25a08b0ecf16eea37df6e51681b243a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a25a08b0ecf16eea37df6e51681b243a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a25a08b0ecf16eea37df6e51681b243a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a25a08b0ecf16eea37df6e51681b243a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/99) revoked (5.10.2015) by [The Rural Development Programme Regulations (Northern Ireland) 2015 (S.R. 2015/326)](https://www.legislation.gov.uk/nisr/2015/326), [regs. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1), [22](https://www.legislation.gov.uk/nisr/2015/326/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/326/schedule/2)
+[^c-a25a08b0ecf16eea37df6e51681b243a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/99) revoked (5.10.2015) by [The Rural Development Programme Regulations (Northern Ireland) 2015 (S.R. 2015/326)](https://www.legislation.gov.uk/nisr/2015/326), [regs. 1](https://www.legislation.gov.uk/nisr/2015/326/regulation/1), [22](https://www.legislation.gov.uk/nisr/2015/326/regulation/22), [Sch. 2](https://www.legislation.gov.uk/nisr/2015/326/schedule/2)

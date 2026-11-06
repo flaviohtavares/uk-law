@@ -31,7 +31,7 @@ summary: ''
 
 Electronic Communications
 
-The Wireless Telegraphy (Exemption and Amendment) (Amendment) (No. 2) Regulations 2018 (revoked)[^key-99336c79eb6694b0a81cbc1955ef1e6c]
+The Wireless Telegraphy (Exemption and Amendment) (Amendment) (No. 2) Regulations 2018 (revoked)[^c-99336c79eb6694b0a81cbc1955ef1e6c]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 27th November 2018
 
-[^key-99336c79eb6694b0a81cbc1955ef1e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99336c79eb6694b0a81cbc1955ef1e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-99336c79eb6694b0a81cbc1955ef1e6c]
+## 1. Citation and commencement[^c-99336c79eb6694b0a81cbc1955ef1e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Wireless Telegraphy (Exemption and Amendment) Regulations 2010[^key-99336c79eb6694b0a81cbc1955ef1e6c]
+## 2. Amendment of the Wireless Telegraphy (Exemption and Amendment) Regulations 2010[^c-99336c79eb6694b0a81cbc1955ef1e6c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-99336c79eb6694b0a81cbc1955ef1e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99336c79eb6694b0a81cbc1955ef1e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-99336c79eb6694b0a81cbc1955ef1e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-99336c79eb6694b0a81cbc1955ef1e6c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-99336c79eb6694b0a81cbc1955ef1e6c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1140) revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
+[^c-99336c79eb6694b0a81cbc1955ef1e6c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1140) revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)

@@ -32,18 +32,18 @@ Personal Care at Home Act 2010 (repealed)
 
 2010 c. 18
 
-[^key-d5da4b8a67e013677b8c3bdf9f08455a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d5da4b8a67e013677b8c3bdf9f08455a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-## 1. Free provision of personal care at home[^key-d5da4b8a67e013677b8c3bdf9f08455a]
+## 1. Free provision of personal care at home[^c-d5da4b8a67e013677b8c3bdf9f08455a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extent, short title and commencement[^key-d5da4b8a67e013677b8c3bdf9f08455a]
+## 2. Extent, short title and commencement[^c-d5da4b8a67e013677b8c3bdf9f08455a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d5da4b8a67e013677b8c3bdf9f08455a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2010/18) repealed (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 273](https://www.legislation.gov.uk/wsi/2016/413/regulation/273)
+[^c-d5da4b8a67e013677b8c3bdf9f08455a]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2010/18) repealed (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (No. 413)](https://www.legislation.gov.uk/wsi/2016/413), [reg. 273](https://www.legislation.gov.uk/wsi/2016/413/regulation/273)

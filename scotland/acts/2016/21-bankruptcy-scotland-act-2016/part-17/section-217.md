@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 217. Meetings of creditors and commissioners[^key-01fa04385fa879bd5d9897fb9a2c498f]
+## 217. Meetings of creditors and commissioners[^c-01fa04385fa879bd5d9897fb9a2c498f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Part 1 of schedule 6 has effect in relation to meetings of creditors other than 
 
 ## Annotations
 
-[^key-01fa04385fa879bd5d9897fb9a2c498f]: Commencement: S. 217 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-01fa04385fa879bd5d9897fb9a2c498f]: Commencement: S. 217 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

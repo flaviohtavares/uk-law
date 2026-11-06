@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Age verification in relation to tobacco and vaping products etc[^key-00292e178b4bbea1fda46c4168135ac8]
+## 63. Age verification in relation to tobacco and vaping products etc[^c-00292e178b4bbea1fda46c4168135ac8]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00292e178b4bbea1fda46c4168135ac8]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 175(2)(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/7)
+[^c-00292e178b4bbea1fda46c4168135ac8]: Commencement: S. 63 in force at Royal Assent for specified purposes, see [s. 175(2)(7)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2/7)

@@ -31,10 +31,10 @@ summary: ''
 
 of 15 December 1981 amending the Council Decision of 4 June 1973 determining the emoluments of former members of the Commission of the European Communities whose duties end on 4 January 1973 and the Council Decision of 14 October 1958 determining the emoluments of former members of the ECSC Court of Justice (revoked)
 
-[^key-7ce3f8723b45cb083cb4f9eaf5b99ec4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7ce3f8723b45cb083cb4f9eaf5b99ec4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-7ce3f8723b45cb083cb4f9eaf5b99ec4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-7ce3f8723b45cb083cb4f9eaf5b99ec4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7ce3f8723b45cb083cb4f9eaf5b99ec4]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ce3f8723b45cb083cb4f9eaf5b99ec4]: Textual amendment: Decision revoked (31.12.2020) by [The European Institutions and Consular Protection (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1391)](https://www.legislation.gov.uk/uksi/2018/1391), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1391/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1391/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

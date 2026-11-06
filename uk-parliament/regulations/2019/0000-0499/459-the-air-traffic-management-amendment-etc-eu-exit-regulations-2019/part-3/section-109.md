@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Article 3 of Commission Regulation [(EC) No 1033/2006](https://www.legislation.gov.uk/eur/2006/1033)[^key-fc04785b80d9df7e2de04d564b9e8298]
+## 109. Article 3 of Commission Regulation [(EC) No 1033/2006](https://www.legislation.gov.uk/eur/2006/1033)[^c-fc04785b80d9df7e2de04d564b9e8298]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 3 (interoperability and performance requirements), in each of paragra
 
 ## Annotations
 
-[^key-fc04785b80d9df7e2de04d564b9e8298]: Commencement: Reg. 109 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-fc04785b80d9df7e2de04d564b9e8298]: Commencement: Reg. 109 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

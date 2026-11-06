@@ -35,7 +35,7 @@ summary: ''
 >
 > In paragraph (a) “**relevant services**” means services that may involve the giving of advice or forecasts to which information to which this section applies may be relevant.
 
-(4)[^key-87cff4521a957ebd06cc160bdb0a954f] In subsection (7)—
+(4)[^c-87cff4521a957ebd06cc160bdb0a954f] In subsection (7)—
 
 - (a) omit the “and” at the end of paragraph (c), and
 - (b) after paragraph (d) insert—, and
@@ -51,7 +51,7 @@ summary: ''
   > “**basic retirement pension**” means any basic pension under the Social Security Contributions and Benefits Act 1992;
 
   ,
-- (b)[^key-87cff4521a957ebd06cc160bdb0a954f] after the definition of “employer”, insert—
+- (b)[^c-87cff4521a957ebd06cc160bdb0a954f] after the definition of “employer”, insert—
 
   > “**lump sum**” means a lump sum under Schedule 5 or 5A to the Social Security Contributions and Benefits Act 1992;
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^c6445291]: Commencement: S. 298 partly in force; s. 298(1)-(3)(5)(a)(c) in force at Royal Assent see s. 322
 
-[^key-87cff4521a957ebd06cc160bdb0a954f]: Commencement: S. 298(4)(5)(b) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-87cff4521a957ebd06cc160bdb0a954f]: Commencement: S. 298(4)(5)(b) in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Members’ interests.[^key-d1180d505bf81c598af23766b1f83b06]
+## 43. Members’ interests.[^c-d1180d505bf81c598af23766b1f83b06]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-d1180d505bf81c598af23766b1f83b06]: Modification: S. 43 applied (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/25/4), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/5)
+[^c-d1180d505bf81c598af23766b1f83b06]: Modification: S. 43 applied (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 25(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/25/4), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/5)

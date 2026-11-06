@@ -20,10 +20,10 @@ summary: ''
 
 **Not yet in force.**
 
-**5.**[^key-5032ed0571370f1819db01389dedb336] (1) A person who makes application in writing to the Board for a dealer’s licence under section 114 of the Act shall forward with that application the fee prescribed in Part III of Schedule 1.
+**5.**[^c-5032ed0571370f1819db01389dedb336] (1) A person who makes application in writing to the Board for a dealer’s licence under section 114 of the Act shall forward with that application the fee prescribed in Part III of Schedule 1.
 
 (2) Where the holder of a dealer’s licence applies for renewal of that licence under section 115 of the Act his application shall be accompanied by the fee prescribed in Part III of Schedule 1.
 
 ## Annotations
 
-[^key-5032ed0571370f1819db01389dedb336]: Commencement: S. 5 in operation at 1.11.1997, see byelaw 1
+[^c-5032ed0571370f1819db01389dedb336]: Commencement: S. 5 in operation at 1.11.1997, see byelaw 1

@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Environmental Impact Assessment and Natural Habitats (Extraction of Minerals by Marine Dredging) (Scotland) Amendment Regulations 2009 (revoked)[^key-5354af6a6bf17aaf370a405bb22d4bea]
+The Environmental Impact Assessment and Natural Habitats (Extraction of Minerals by Marine Dredging) (Scotland) Amendment Regulations 2009 (revoked)[^c-5354af6a6bf17aaf370a405bb22d4bea]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 5th November 2009
 
-[^key-5354af6a6bf17aaf370a405bb22d4bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5354af6a6bf17aaf370a405bb22d4bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5354af6a6bf17aaf370a405bb22d4bea]
+## 1. Citation and commencement[^c-5354af6a6bf17aaf370a405bb22d4bea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Environmental Impact Assessment and Natural Habitats (Extraction of Minerals by Marine Dredging) (Scotland) Regulations 2007[^key-5354af6a6bf17aaf370a405bb22d4bea]
+## 2. Amendment of the Environmental Impact Assessment and Natural Habitats (Extraction of Minerals by Marine Dredging) (Scotland) Regulations 2007[^c-5354af6a6bf17aaf370a405bb22d4bea]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5354af6a6bf17aaf370a405bb22d4bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5354af6a6bf17aaf370a405bb22d4bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5354af6a6bf17aaf370a405bb22d4bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5354af6a6bf17aaf370a405bb22d4bea]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5354af6a6bf17aaf370a405bb22d4bea]: Textual amendment: Regulations revoked (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [art. 13(b)](https://www.legislation.gov.uk/ssi/2011/202/article/13/b)
+[^c-5354af6a6bf17aaf370a405bb22d4bea]: Textual amendment: Regulations revoked (6.4.2011) by [The Marine (Scotland) Act 2010 (Transitional and Consequential Provisions) Order 2011 (S.S.I. 2011/202)](https://www.legislation.gov.uk/ssi/2011/202), [art. 13(b)](https://www.legislation.gov.uk/ssi/2011/202/article/13/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Entry to residential units etc. by accountable person[^key-a1695effb7284139598b649f063a574b]
+## 58. Entry to residential units etc. by accountable person[^c-a1695effb7284139598b649f063a574b]
 
 *Extent: E+W*
 
@@ -93,4 +93,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1695effb7284139598b649f063a574b]: Commencement: S. 58 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-a1695effb7284139598b649f063a574b]: Commencement: S. 58 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

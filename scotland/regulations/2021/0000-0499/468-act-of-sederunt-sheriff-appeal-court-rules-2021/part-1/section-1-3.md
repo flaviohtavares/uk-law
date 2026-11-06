@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1.3. Interpretation[^key-00dfe96915cd2de85b677eba260a8662]
+## 1.3. Interpretation[^c-00dfe96915cd2de85b677eba260a8662]
 
 *Extent: S*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-00dfe96915cd2de85b677eba260a8662]: Commencement: Para. 1.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-00dfe96915cd2de85b677eba260a8662]: Commencement: Para. 1.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00004]: Footnote: [1980 c.46](https://www.legislation.gov.uk/ukpga/1980/46).

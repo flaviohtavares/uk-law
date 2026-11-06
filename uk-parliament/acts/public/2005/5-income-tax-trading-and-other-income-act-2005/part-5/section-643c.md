@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 643C. Meaning of “available protected income” in section 643A[^key-7aa8da70bbbc842db518d082e840eb6d]
+## 643C. Meaning of “available protected income” in section 643A[^c-7aa8da70bbbc842db518d082e840eb6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,14 +36,14 @@ summary: ''
   Deduct any amount that, in relation to the settlement, is treated under section 643A as P’s income in an earlier tax year or as another individual’s income in any tax year.
 - *Step 5*
 
-  Add back the amount of any income falling within Step 2 or[^key-bba15085e178421745a532eed1bb9577] Step 4 that is identified as qualifying foreign income on a foreign income claim made by P or any other individual for any tax year.
+  Add back the amount of any income falling within Step 2 or[^c-bba15085e178421745a532eed1bb9577] Step 4 that is identified as qualifying foreign income on a foreign income claim made by P or any other individual for any tax year.
 
 (2) For the purposes of Step 1 in subsection (1), ignore section 648(3) to (5) (foreign income treated as “arising” under settlement only if and when remitted).
 
 (3) For the purposes of Step 2 in subsection (1), an amount of the total protected income is “matched under the transfer of assets abroad code” if it is matched under section 735A of ITA 2007 with—
 
 - (a) benefits provided by the trustees to P or any other individual in the current tax year or in an earlier tax year, and
-- (b) an amount of income treated as arising to P or any other individual under section 732 of ITA 2007 and not exempt from income tax by virtue of any of sections 737 to 742A of that Act[^key-ae818e38d3ceda617d07532daf7d82fa]
+- (b) an amount of income treated as arising to P or any other individual under section 732 of ITA 2007 and not exempt from income tax by virtue of any of sections 737 to 742A of that Act[^c-ae818e38d3ceda617d07532daf7d82fa]
 
 (or if it would be so matched if section 735A applied for those purposes).
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7aa8da70bbbc842db518d082e840eb6d]: Textual amendment: [S. 643C](https://www.legislation.gov.uk/ukpga/2005/5/section/643C) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/15), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-7aa8da70bbbc842db518d082e840eb6d]: Textual amendment: [S. 643C](https://www.legislation.gov.uk/ukpga/2005/5/section/643C) substituted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/15), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
 
-[^key-bba15085e178421745a532eed1bb9577]: Textual amendment: Words in [s. 643C(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/643C/1) inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/5)
+[^c-bba15085e178421745a532eed1bb9577]: Textual amendment: Words in [s. 643C(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/643C/1) inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 44(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/5)
 
-[^key-ae818e38d3ceda617d07532daf7d82fa]: Textual amendment: Words in [s. 643C(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/643C/3/b) inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 44(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/1/b)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/5)
+[^c-ae818e38d3ceda617d07532daf7d82fa]: Textual amendment: Words in [s. 643C(3)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/643C/3/b) inserted (6.4.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 44(1)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/1/b)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/44/5)

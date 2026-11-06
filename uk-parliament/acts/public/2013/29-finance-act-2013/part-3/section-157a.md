@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157A. Land in Scotland sold to financial institution and leased to person[^key-94b84232bd2553e6935aa7fe3e28462b]
+## 157A. Land in Scotland sold to financial institution and leased to person[^c-94b84232bd2553e6935aa7fe3e28462b]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,7 +63,7 @@ summary: ''
 
 ## Annotations
 
-[^key-94b84232bd2553e6935aa7fe3e28462b]: Textual amendment: S. 157A inserted (15.9.2016) (with effect in accordance with s. 136(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 136(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/136/6)
+[^c-94b84232bd2553e6935aa7fe3e28462b]: Textual amendment: S. 157A inserted (15.9.2016) (with effect in accordance with s. 136(8) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 136(7)](https://www.legislation.gov.uk/ukpga/2016/24/section/136/6)
 
 [^M_F_8d2b2c34-c5bf-47b3-b255-18ae2ac62790]: Textual amendment: Words in s. 157A(4) substituted (30.10.2024) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 54(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/54/2/a)
 

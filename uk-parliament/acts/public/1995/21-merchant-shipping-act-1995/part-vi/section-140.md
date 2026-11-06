@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 140. Service of directions under section 137.[^key-a639250bf82b063e1a2d019f7a7b9490]
+## 140. Service of directions under section 137.[^c-a639250bf82b063e1a2d019f7a7b9490]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a639250bf82b063e1a2d019f7a7b9490]: Textual amendment: Ss. 137-141 repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/ukpga/2003/16/schedule/2/paragraph/2/b), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)
+[^c-a639250bf82b063e1a2d019f7a7b9490]: Textual amendment: Ss. 137-141 repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/ukpga/2003/16/schedule/2/paragraph/2/b), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)

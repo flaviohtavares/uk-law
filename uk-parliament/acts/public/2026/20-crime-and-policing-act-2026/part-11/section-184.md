@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Assessment of misuse of controlled drugs[^key-ceca8286ab5c5065a52d1006b8a862e7]
+## 184. Assessment of misuse of controlled drugs[^c-ceca8286ab5c5065a52d1006b8a862e7]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ceca8286ab5c5065a52d1006b8a862e7]: Commencement: S. 184 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-ceca8286ab5c5065a52d1006b8a862e7]: Commencement: S. 184 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

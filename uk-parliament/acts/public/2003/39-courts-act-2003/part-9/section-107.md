@@ -42,7 +42,7 @@ summary: ''
 
 (5) In this Act “**lay justice**” has the meaning given by section 9.
 
-(6)[^key-1a47a18d2e517636d119ba50cccf7e89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1a47a18d2e517636d119ba50cccf7e89] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this Act “**Minister of the Crown**” has the same meaning as in the Ministers of the Crown Act 1975 (c. 26).
 
@@ -56,4 +56,4 @@ summary: ''
 
 [^c19301421]: Textual amendment: Words in s. 107(2) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59](https://www.legislation.gov.uk/ukpga/2005/4/section/59), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/4); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2](https://www.legislation.gov.uk/uksi/2009/1604/article/2)
 
-[^key-1a47a18d2e517636d119ba50cccf7e89]: Textual amendment: S. 107(6) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/7)
+[^c-1a47a18d2e517636d119ba50cccf7e89]: Textual amendment: S. 107(6) repealed (18.9.2012) by [The Public Bodies (Abolition of Crown Court Rule Committee and Magistrates Courts Rule Committee) Order 2012 (S.I. 2012/2398)](https://www.legislation.gov.uk/uksi/2012/2398), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2398/article/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2012/2398/schedule/2/paragraph/7)

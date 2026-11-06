@@ -93,7 +93,7 @@ Where a person entitled to limitation of liability under the rules of this Conve
 
 ##### The general limits
 
-**1.**[^key-0c88e011998318aa3f15ef0b23b2507e] The limits of liability for claims, other than those mentioned in Article 7, arising on any distinct occasion, shall be calculated as follows:
+**1.**[^c-0c88e011998318aa3f15ef0b23b2507e] The limits of liability for claims, other than those mentioned in Article 7, arising on any distinct occasion, shall be calculated as follows:
 
 - (a) in respect of claims for loss of life or personal injury,
   - (i) 3.02 million Units of Account for a ship with a tonnage not exceeding 2,000 tons,
@@ -118,7 +118,7 @@ Where a person entitled to limitation of liability under the rules of this Conve
 
 **4.** The limits of liability for any salvor not operating from any ship or for any salvor operating solely on the ship to, or in respect of which he is rendering salvage services, shall be calculated according to a tonnage of 1,500 tons.
 
-The references in paragraph 1 to relevant limits in this Convention have effect as follows—[^key-fb5c0841b1589e59f56929079b0f709b]
+The references in paragraph 1 to relevant limits in this Convention have effect as follows—[^c-fb5c0841b1589e59f56929079b0f709b]
 
 - (a) the references to the relevant limits are to be construed as references to those limits as modified from time to time pursuant to Article 8 of the 1996 Protocol;
 - (b) a modification of a reference to a relevant limit by virtue of paragraph (a) has effect at the time that the modification of that limit pursuant to Article 8 of the 1996 Protocol comes into force in accordance with paragraph 8 of that Article;
@@ -241,7 +241,7 @@ No other reservations shall be admissible to the substantive provisions of this 
 
 **2.** Subject to paragraph 6 below,[^c14530051]the right to limit liability under the Convention shall apply in relation to any ship whether seagoing or not, and the definition of “shipowner” in paragraph 2 of article 1 shall be construed accordingly.
 
-**2A.**[^key-a208dc6f8e0801a69b459a46372f01e8][^c14530061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2A.**[^c-a208dc6f8e0801a69b459a46372f01e8][^c14530061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Claims subject to limitation
 
@@ -275,7 +275,7 @@ No other reservations shall be admissible to the substantive provisions of this 
 - (a) after “thereof” there were inserted “in respect of each passenger,”;
 - (b) the words from “multiplied” onwards were omitted.
 
-(2) In paragraph 2 of article 7 the reference to claims brought on behalf of a person includes a reference to any claim in respect of the death of a person under the [^c14530151]Fatal Accidents Act 1976, the [^c14530161]Fatal Accidents (Northern Ireland) Order 1977 or the Damages (Scotland) Act 2011[^key-ec11921bc349e3aa11f89d581d1e2be8].
+(2) In paragraph 2 of article 7 the reference to claims brought on behalf of a person includes a reference to any claim in respect of the death of a person under the [^c14530151]Fatal Accidents Act 1976, the [^c14530161]Fatal Accidents (Northern Ireland) Order 1977 or the Damages (Scotland) Act 2011[^c-ec11921bc349e3aa11f89d581d1e2be8].
 
 #### Units of Account
 
@@ -325,9 +325,9 @@ shall be conclusive evidence of those matters for the purposes of those articles
 
 [^c14529971]: Textual amendment: Sch. 7 Pt. I Ch. I Article 3(a) substituted (with effect in accordance with art. 1 of the amending S.I.) by [S.I. 1998/1258](https://www.legislation.gov.uk/uksi/1998/1258), [arts. 3](https://www.legislation.gov.uk/uksi/1998/1258/article/3), [8](https://www.legislation.gov.uk/uksi/1998/1258/article/8), [Sch.](https://www.legislation.gov.uk/uksi/1998/1258/schedule)
 
-[^key-0c88e011998318aa3f15ef0b23b2507e]: Textual amendment: Words in Sch. 7 Pt. 1 Ch. 2 Art. 6 para. 1 substituted (30.11.2016) by [The Merchant Shipping Act 1995 (Amendment) Order 2016 (S.I. 2016/1061)](https://www.legislation.gov.uk/uksi/2016/1061), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1061/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/1061/article/3/a)
+[^c-0c88e011998318aa3f15ef0b23b2507e]: Textual amendment: Words in Sch. 7 Pt. 1 Ch. 2 Art. 6 para. 1 substituted (30.11.2016) by [The Merchant Shipping Act 1995 (Amendment) Order 2016 (S.I. 2016/1061)](https://www.legislation.gov.uk/uksi/2016/1061), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1061/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2016/1061/article/3/a)
 
-[^key-fb5c0841b1589e59f56929079b0f709b]: Textual amendment: Words in Sch. 7 Pt. 1 Ch. 2 Art. 6 inserted (30.11.2016) by [The Merchant Shipping Act 1995 (Amendment) Order 2016 (S.I. 2016/1061)](https://www.legislation.gov.uk/uksi/2016/1061), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1061/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/1061/article/3/b)
+[^c-fb5c0841b1589e59f56929079b0f709b]: Textual amendment: Words in Sch. 7 Pt. 1 Ch. 2 Art. 6 inserted (30.11.2016) by [The Merchant Shipping Act 1995 (Amendment) Order 2016 (S.I. 2016/1061)](https://www.legislation.gov.uk/uksi/2016/1061), [arts. 1](https://www.legislation.gov.uk/uksi/2016/1061/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2016/1061/article/3/b)
 
 [^c14529991]: Textual amendment: Sch. 7 Pt. I Ch. II Art. 7 para. 1 substituted (with effect in accordance with art. 1 of the amending S.I.) by [S.I. 1998/1258](https://www.legislation.gov.uk/uksi/1998/1258), [arts. 4(b)](https://www.legislation.gov.uk/uksi/1998/1258/article/4/b), [8](https://www.legislation.gov.uk/uksi/1998/1258/article/8), [Sch.](https://www.legislation.gov.uk/uksi/1998/1258/schedule)
 
@@ -341,7 +341,7 @@ shall be conclusive evidence of those matters for the purposes of those articles
 
 [^c14530051]: Textual amendment: Words in Sch. 7 Pt. II para. 2 inserted (with effect in accordance with art. 1 of the amending S.I.) by [S.I. 1998/1258](https://www.legislation.gov.uk/uksi/1998/1258), [arts. 7(a)](https://www.legislation.gov.uk/uksi/1998/1258/article/7/a), [8](https://www.legislation.gov.uk/uksi/1998/1258/article/8), [Sch.](https://www.legislation.gov.uk/uksi/1998/1258/schedule)
 
-[^key-a208dc6f8e0801a69b459a46372f01e8]: Textual amendment: Sch. 7 para. 2A omitted (13.5.2004) by virtue of [The Merchant Shipping (Convention on Limitation of Liability for Maritime Claims) (Amendment) Order 2004 (S.I. 2004/1273)](https://www.legislation.gov.uk/uksi/2004/1273), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1273/article/1), [2](https://www.legislation.gov.uk/uksi/2004/1273/article/2)
+[^c-a208dc6f8e0801a69b459a46372f01e8]: Textual amendment: Sch. 7 para. 2A omitted (13.5.2004) by virtue of [The Merchant Shipping (Convention on Limitation of Liability for Maritime Claims) (Amendment) Order 2004 (S.I. 2004/1273)](https://www.legislation.gov.uk/uksi/2004/1273), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1273/article/1), [2](https://www.legislation.gov.uk/uksi/2004/1273/article/2)
 
 [^c14530061]: Textual amendment: Sch. 7 Pt. II para. 2A inserted (with effect in accordance with art. 1 of the amending S.I.) by [S.I. 1998/1258](https://www.legislation.gov.uk/uksi/1998/1258), [arts. 7(b)](https://www.legislation.gov.uk/uksi/1998/1258/article/7/b), [8](https://www.legislation.gov.uk/uksi/1998/1258/article/8), [Sch.](https://www.legislation.gov.uk/uksi/1998/1258/schedule)
 
@@ -357,6 +357,6 @@ shall be conclusive evidence of those matters for the purposes of those articles
 
 [^c14530161]: Marginal citation: [S.I. 1977/1258](https://www.legislation.gov.uk/uksi/1977/1258) (NI 18); [1976 c. 13](https://www.legislation.gov.uk/ukpga/1976/13).
 
-[^key-ec11921bc349e3aa11f89d581d1e2be8]: Textual amendment: Words in Sch. 7 Pt. 2 para. 6 substituted (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [sch. 1 para. 6](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/6) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
+[^c-ec11921bc349e3aa11f89d581d1e2be8]: Textual amendment: Words in Sch. 7 Pt. 2 para. 6 substituted (7.7.2011) by [Damages (Scotland) Act 2011 (asp 7)](https://www.legislation.gov.uk/asp/2011/7), [s. 19(3)](https://www.legislation.gov.uk/asp/2011/7/section/19/3), [sch. 1 para. 6](https://www.legislation.gov.uk/asp/2011/7/schedule/1/paragraph/6) (with [ss. 17](https://www.legislation.gov.uk/asp/2011/7/section/17), [19(2)](https://www.legislation.gov.uk/asp/2011/7/section/19/2)); [S.S.I. 2011/268](https://www.legislation.gov.uk/ssi/2011/268), [art. 3](https://www.legislation.gov.uk/ssi/2011/268/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/268/article/4))
 
 [^c14530171]: Textual amendment: Sch. 7 Pt. II para. 13 substituted (with effect in accordance with art. 1 of the amending S.I.) by [S.I. 1998/1258](https://www.legislation.gov.uk/uksi/1998/1258), [arts. 7(f)](https://www.legislation.gov.uk/uksi/1998/1258/article/7/f), [8](https://www.legislation.gov.uk/uksi/1998/1258/article/8), [Sch.](https://www.legislation.gov.uk/uksi/1998/1258/schedule)

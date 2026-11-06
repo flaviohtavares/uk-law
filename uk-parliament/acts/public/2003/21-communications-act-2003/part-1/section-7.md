@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Duty to carry out impact assessments[^key-7b6f514f8d759230d2c5acb645d46ff5]
+## 7. Duty to carry out impact assessments[^c-7b6f514f8d759230d2c5acb645d46ff5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,13 +27,13 @@ summary: ''
 
 but this section does not apply if it appears to OFCOM that the urgency of the matter makes it impracticable or inappropriate for them to comply with the requirements of this section.
 
-(2) Subject to subsection (2A),[^key-d200cb2023e2a5cc131f781e60378a8b] a proposal is important for the purposes of this section only if its implementation would be likely to do one or more of the following—
+(2) Subject to subsection (2A),[^c-d200cb2023e2a5cc131f781e60378a8b] a proposal is important for the purposes of this section only if its implementation would be likely to do one or more of the following—
 
 - (a) to involve a major change in the activities carried on by OFCOM;
 - (b) to have a significant impact on persons carrying on businesses in the markets for any of the services, facilities, apparatus or directories in relation to which OFCOM have functions; or
 - (c) to have a significant impact on the general public in the United Kingdom or in a part of the United Kingdom.
 
-(2A)[^key-9b77e210493125aeaeedf3a8c9c624c2] A proposal to do any of the following is important for the purposes of this section—
+(2A)[^c-9b77e210493125aeaeedf3a8c9c624c2] A proposal to do any of the following is important for the purposes of this section—
 
 - (a) to prepare a code of practice under section 41 of the Online Safety Act 2023;
 - (b) to prepare amendments of such a code of practice; or
@@ -46,7 +46,7 @@ but this section does not apply if it appears to OFCOM that the urgency of the m
 
 (4) An assessment under subsection (3)(a) must set out how, in OFCOM’s opinion, the performance of their general duties (within the meaning of section 3) is secured or furthered by or in relation to what they propose.
 
-(4A)[^key-de9fa2c99bc679c3b748ec5a0f9b4b23] An assessment under subsection (3)(a) that relates to a proposal mentioned in subsection (2A) must include an assessment of the likely impact of implementing the proposal on small businesses and micro businesses.
+(4A)[^c-de9fa2c99bc679c3b748ec5a0f9b4b23] An assessment under subsection (3)(a) that relates to a proposal mentioned in subsection (2A) must include an assessment of the likely impact of implementing the proposal on small businesses and micro businesses.
 
 (4B) An assessment under subsection (3)(a) that relates to a proposal to do anything else for the purposes of, or in connection with, the carrying out of OFCOM’s online safety functions (within the meaning of section 235 of the Online Safety Act 2023) must, so far as the proposal relates to such functions, include an assessment of the likely impact of implementing the proposal on small businesses and micro businesses.
 
@@ -81,10 +81,10 @@ the requirements of this section are in addition to, but may be performed contem
 
 ## Annotations
 
-[^key-7b6f514f8d759230d2c5acb645d46ff5]: Commencement: S. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7b6f514f8d759230d2c5acb645d46ff5]: Commencement: S. 7 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-d200cb2023e2a5cc131f781e60378a8b]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/7/2) inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 93(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/93/2), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-d200cb2023e2a5cc131f781e60378a8b]: Textual amendment: Words in [s. 7(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/7/2) inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 93(2)](https://www.legislation.gov.uk/ukpga/2023/50/section/93/2), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-9b77e210493125aeaeedf3a8c9c624c2]: Textual amendment: [S. 7(2A)](https://www.legislation.gov.uk/ukpga/2003/21/section/7/2A) inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/93/3), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-9b77e210493125aeaeedf3a8c9c624c2]: Textual amendment: [S. 7(2A)](https://www.legislation.gov.uk/ukpga/2003/21/section/7/2A) inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 93(3)](https://www.legislation.gov.uk/ukpga/2023/50/section/93/3), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
 
-[^key-de9fa2c99bc679c3b748ec5a0f9b4b23]: Textual amendment: [S. 7(4A)](https://www.legislation.gov.uk/ukpga/2003/21/section/7/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2003/21/section/7/4B) inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 93(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/93/4), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-de9fa2c99bc679c3b748ec5a0f9b4b23]: Textual amendment: [S. 7(4A)](https://www.legislation.gov.uk/ukpga/2003/21/section/7/4A)[(4B)](https://www.legislation.gov.uk/ukpga/2003/21/section/7/4B) inserted (26.10.2023) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 93(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/93/4), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)

@@ -38,7 +38,7 @@ summary: ''
 - (f)[^c16704981] section 97(1) or (3);
 - (g) section 100(1)(b);
 - (h) section 119(1) or (2);
-- (i) paragraph[^key-0e78198fadd4b6a9c07856687ca3bc42] 52(1)(a) or (b) of Schedule 4;
+- (i) paragraph[^c-0e78198fadd4b6a9c07856687ca3bc42] 52(1)(a) or (b) of Schedule 4;
 - (j) paragraph 17(4) of Schedule 7;
 - (k) paragraph 3(1)(b) of Schedule 8;
 - (l) paragraph 19 of Schedule 8.
@@ -53,11 +53,11 @@ the order shall not be made unless a draft has been laid before and approved by 
 (4) An order or regulations under any of the following provisions shall not be made, subject to subsection (5), unless a draft has been laid before and approved by resolution of each House of Parliament—
 
 - (a) section 3(3);
-- (aza)[^key-f76c07613ee196b21c646b454ad8f422] section 22F(5);
+- (aza)[^c-f76c07613ee196b21c646b454ad8f422] section 22F(5);
 - (aa)[^c20336981] section 23A(5);
-- (ab)[^key-8be988fa0ea044e2c0cfd3ebc5fecca8] section 47AB;
+- (ab)[^c-8be988fa0ea044e2c0cfd3ebc5fecca8] section 47AB;
 - (b) section 53(2);
-- (ba)[^key-51d69c3dd4fa3e3d65d6579cc775cf61] section 58B(7);
+- (ba)[^c-51d69c3dd4fa3e3d65d6579cc775cf61] section 58B(7);
 - (c) section 65(3);
 - (d) section 96;
 - (e) section 101(4);
@@ -70,7 +70,7 @@ the order shall not be made unless a draft has been laid before and approved by 
 - (l) paragraph 4(1)(e) of Schedule 14;
 - (m) paragraph 7(3) of Schedule 14.
 
-(5) An order or regulations under a provision mentioned in subsection (4), except for paragraph (aa)[^M_F_9400f267-e547-4a6f-cdf1-764b7c25b6a8] , (ab)[^M_F_d1495dd5-d708-4e41-b068-001d0401f43b] , (b) or (ba)[^key-ce55559406aa1a3cdd3dbbb809d2daf6], may be made without a draft having been approved if the Secretary of State is of the opinion that it is necessary by reason of urgency; and the order—
+(5) An order or regulations under a provision mentioned in subsection (4), except for paragraph (aa)[^M_F_9400f267-e547-4a6f-cdf1-764b7c25b6a8] , (ab)[^M_F_d1495dd5-d708-4e41-b068-001d0401f43b] , (b) or (ba)[^c-ce55559406aa1a3cdd3dbbb809d2daf6], may be made without a draft having been approved if the Secretary of State is of the opinion that it is necessary by reason of urgency; and the order—
 
 - (a) shall contain a declaration of the Secretary of State’s opinion, and
 - (b) shall cease to have effect at the end of the period of 40 days beginning with the day on which the Secretary of State makes the order, unless a resolution approving the order is passed by each House during that period.
@@ -81,7 +81,7 @@ the order shall not be made unless a draft has been laid before and approved by 
 - (b) an order’s ceasing to have effect shall be without prejudice to anything previously done or to the making of a new order (or the issue of a new code), and
 - (c) the period of 40 days shall be computed in accordance with section 7(1) of the [^c11206371]Statutory Instruments Act 1946.
 
-(6ZA)[^key-27f64d248c90055cca28ad753198fe46] Regulations under section 58C—
+(6ZA)[^c-27f64d248c90055cca28ad753198fe46] Regulations under section 58C—
 
 - (a) must be laid before Parliament after being made, and
 - (b) cease to have effect at the end of the period of 40 days beginning with the day on which they are made unless before the end of that period the regulations are approved by a resolution of each House of Parliament.
@@ -97,9 +97,9 @@ the order shall not be made unless a draft has been laid before and approved by 
 
 (6ZE) Regulations under section 58C that only revoke previous regulations under that section are subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(6ZF)[^key-1320292bb53659c2b591b7395bf26f75] Regulations under paragraph 6(1AF) of Schedule 6 may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
+(6ZF)[^c-1320292bb53659c2b591b7395bf26f75] Regulations under paragraph 6(1AF) of Schedule 6 may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-(6A)[^key-7d15bc2d048b317d31cdec443578d559] As soon as practicable after making an order under paragraph 38 of Schedule 8, the Secretary of State must lay a copy of the order before each House of Parliament.
+(6A)[^c-7d15bc2d048b317d31cdec443578d559] As soon as practicable after making an order under paragraph 38 of Schedule 8, the Secretary of State must lay a copy of the order before each House of Parliament.
 
 (6B) An order under paragraph 38 of Schedule 8 is to cease to have effect at the end of the period of 20 days beginning with the day on which the Secretary of State makes the order, unless a resolution approving the order is passed by each House of Parliament during that period.
 
@@ -125,28 +125,28 @@ the order shall not be made unless a draft has been laid before and approved by 
 
 [^c16704981]: Textual amendment: S. 123(2)(f)(g) repealed (N.I.) (19.2.2006) by [Terrorism (Northern Ireland) Act 2006 (c. 4)](https://www.legislation.gov.uk/ukpga/2006/4), [s. 5(2)(3)](https://www.legislation.gov.uk/ukpga/2006/4/section/5/2/3), [Sch.](https://www.legislation.gov.uk/ukpga/2006/4/schedule)
 
-[^key-0e78198fadd4b6a9c07856687ca3bc42]: Textual amendment: Word in s. 123(2)(i) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0e78198fadd4b6a9c07856687ca3bc42]: Textual amendment: Word in s. 123(2)(i) substituted (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2019/742/regulation/5/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2019/742/regulation/6)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1408/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f76c07613ee196b21c646b454ad8f422]: Textual amendment: S. 123(4)(aza) inserted (26.10.2023) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 186(14)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/14), [219(2)(i)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/i)
+[^c-f76c07613ee196b21c646b454ad8f422]: Textual amendment: S. 123(4)(aza) inserted (26.10.2023) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 186(14)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/14), [219(2)(i)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/i)
 
 [^c20336981]: Textual amendment: S. 123(4)(aa) inserted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2008/28/section/35/2/a), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
-[^key-8be988fa0ea044e2c0cfd3ebc5fecca8]: Textual amendment: S. 123(4)(ab) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 25(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/25/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
+[^c-8be988fa0ea044e2c0cfd3ebc5fecca8]: Textual amendment: S. 123(4)(ab) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 25(2)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/25/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-51d69c3dd4fa3e3d65d6579cc775cf61]: Textual amendment: S. 123(4)(ba) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/4/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
+[^c-51d69c3dd4fa3e3d65d6579cc775cf61]: Textual amendment: S. 123(4)(ba) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2019/3/section/4/3/a), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
 
 [^M_F_9400f267-e547-4a6f-cdf1-764b7c25b6a8]: Textual amendment: Words in s. 123(5) substituted (18.6.2009) by Counter-[Terrorism Act 2008 (c. 28)](https://www.legislation.gov.uk/ukpga/2008/28), [ss. 35(2)(b)](https://www.legislation.gov.uk/ukpga/2008/28/section/35/2/b), [100(5)](https://www.legislation.gov.uk/ukpga/2008/28/section/100/5) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2008/28/section/101/2)); [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
 
 [^M_F_d1495dd5-d708-4e41-b068-001d0401f43b]: Textual amendment: Word in s. 123(5) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 25(3)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/25/3) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(k)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/k)
 
-[^key-ce55559406aa1a3cdd3dbbb809d2daf6]: Textual amendment: Words in s. 123(5) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/4/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
+[^c-ce55559406aa1a3cdd3dbbb809d2daf6]: Textual amendment: Words in s. 123(5) substituted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2019/3/section/4/3/b), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
 
 [^c11206371]: Marginal citation: [1946 c. 36](https://www.legislation.gov.uk/ukpga/1946/36).
 
-[^key-27f64d248c90055cca28ad753198fe46]: Textual amendment: S. 123(6ZA)-(6ZE) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/4/3/c), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
+[^c-27f64d248c90055cca28ad753198fe46]: Textual amendment: S. 123(6ZA)-(6ZE) inserted (12.4.2019) by [Counter-Terrorism and Border Security Act 2019 (c. 3)](https://www.legislation.gov.uk/ukpga/2019/3), [ss. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2019/3/section/4/3/c), [27(3)](https://www.legislation.gov.uk/ukpga/2019/3/section/27/3)
 
-[^key-1320292bb53659c2b591b7395bf26f75]: Textual amendment: [S. 123(6ZF)](https://www.legislation.gov.uk/ukpga/2000/11/section/123/6ZF) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/8); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
+[^c-1320292bb53659c2b591b7395bf26f75]: Textual amendment: [S. 123(6ZF)](https://www.legislation.gov.uk/ukpga/2000/11/section/123/6ZF) inserted (26.10.2023 for specified purposes, 26.4.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 10 para. 8](https://www.legislation.gov.uk/ukpga/2023/56/schedule/10/paragraph/8); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/c)
 
-[^key-7d15bc2d048b317d31cdec443578d559]: Textual amendment: S. 123(6A)-(6D) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2012/9/section/58/2), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/b)
+[^c-7d15bc2d048b317d31cdec443578d559]: Textual amendment: S. 123(6A)-(6D) inserted (10.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2012/9/section/58/2), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/b)
 
 [^c16705281]: Textual amendment: S. 123(8)(b)(c) repealed (N.I.) (19.2.2006) by [Terrorism (Northern Ireland) Act 2006 (c. 4)](https://www.legislation.gov.uk/ukpga/2006/4), [s. 5(2)(3)](https://www.legislation.gov.uk/ukpga/2006/4/section/5/2/3), [Sch.](https://www.legislation.gov.uk/ukpga/2006/4/schedule)

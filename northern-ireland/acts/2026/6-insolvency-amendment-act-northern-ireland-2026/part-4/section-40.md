@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Choice of liquidator at meetings of creditors and contributories[^key-7cec9ac167f11de37c952f512f69cade]
+## 40. Choice of liquidator at meetings of creditors and contributories[^c-7cec9ac167f11de37c952f512f69cade]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7cec9ac167f11de37c952f512f69cade]: Commencement: S. 40 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-7cec9ac167f11de37c952f512f69cade]: Commencement: S. 40 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

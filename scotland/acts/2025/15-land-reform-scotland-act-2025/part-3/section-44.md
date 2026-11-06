@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Ancillary provision[^key-eaba2af0ab0945a462208a6d7f17cc70]
+## 44. Ancillary provision[^c-eaba2af0ab0945a462208a6d7f17cc70]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eaba2af0ab0945a462208a6d7f17cc70]: Commencement: S. 44 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)
+[^c-eaba2af0ab0945a462208a6d7f17cc70]: Commencement: S. 44 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)

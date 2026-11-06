@@ -133,7 +133,7 @@ include the convening of groups of persons for such purposes and in such manner 
 - (f) any advice received in pursuance of paragraph 7(1),
 - (g) any plan (not falling within paragraph 3(1) or (2)) prepared by a public or local authority in connection with the management or use of the sea or the coast or of marine or coastal resources, in the Scottish marine area or in any adjoining or adjacent area in the United Kingdom or the UK marine area,
 - (h) the powers and duties of the Crown Estate Commissioners under the Crown Estate Act 1961 (c.55),
-- (ha)[^key-64e343e98b7df94429cb35e7b12a3156] the powers and duties of a relevant person,
+- (ha)[^c-64e343e98b7df94429cb35e7b12a3156] the powers and duties of a relevant person,
 - (i) such other matters as the Scottish Ministers consider relevant.
 
 (3) The matters, as regards a regional marine plan, are—
@@ -147,10 +147,10 @@ include the convening of groups of persons for such purposes and in such manner 
 - (g) any advice received under paragraph 7(1),
 - (h) any plan (not falling within paragraph 3(1) or (2)) prepared by a public or local authority in connection with the management or use of the sea or the coast, or of marine or coastal resources, in the Scottish marine region to which the plan is to apply or in any adjoining or adjacent area in the United Kingdom or the UK marine area,
 - (i) the powers and duties of the Crown Estate Commissioners under the Crown Estate Act 1961,
-- (ia)[^key-4f8a03e0b60469800d7a88573ee1e539] the powers and duties of a relevant person,
+- (ia)[^c-4f8a03e0b60469800d7a88573ee1e539] the powers and duties of a relevant person,
 - (j) such other matters as Scottish Ministers consider relevant.
 
-(4)[^key-5d1f7c8354ec280c012fed95a86cfcb4] In this paragraph, “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
+(4)[^c-5d1f7c8354ec280c012fed95a86cfcb4] In this paragraph, “relevant person”, in relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, means the person who manages that property or those rights or interests.
 
 ### Preparation and publication of a consultation draft
 
@@ -229,8 +229,8 @@ include the convening of groups of persons for such purposes and in such manner 
 
 ## Annotations
 
-[^key-64e343e98b7df94429cb35e7b12a3156]: Textual amendment: [Sch. 1 para. 8(2)(ha)](https://www.legislation.gov.uk/asp/2010/5/schedule/1/paragraph/8/2/ha) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 42(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/42/a)
+[^c-64e343e98b7df94429cb35e7b12a3156]: Textual amendment: [Sch. 1 para. 8(2)(ha)](https://www.legislation.gov.uk/asp/2010/5/schedule/1/paragraph/8/2/ha) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 42(a)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/42/a)
 
-[^key-4f8a03e0b60469800d7a88573ee1e539]: Textual amendment: [Sch. 1 para. 8(3)(ia)](https://www.legislation.gov.uk/asp/2010/5/schedule/1/paragraph/8/3/ia) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 42(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/42/b)
+[^c-4f8a03e0b60469800d7a88573ee1e539]: Textual amendment: [Sch. 1 para. 8(3)(ia)](https://www.legislation.gov.uk/asp/2010/5/schedule/1/paragraph/8/3/ia) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 42(b)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/42/b)
 
-[^key-5d1f7c8354ec280c012fed95a86cfcb4]: Textual amendment: [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/asp/2010/5/schedule/1/paragraph/8/4) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 42(c)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/42/c)
+[^c-5d1f7c8354ec280c012fed95a86cfcb4]: Textual amendment: [Sch. 1 para. 8(4)](https://www.legislation.gov.uk/asp/2010/5/schedule/1/paragraph/8/4) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 42(c)](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/42/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 196. Guidance to certain public bodies about historic environment records[^key-6994f1fd79dc62644b0821dbb68256b6][^key-3ded36aa5d6013cee427f81c1bfbb216]
+## 196. Guidance to certain public bodies about historic environment records[^c-6994f1fd79dc62644b0821dbb68256b6][^c-3ded36aa5d6013cee427f81c1bfbb216]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6994f1fd79dc62644b0821dbb68256b6]: Commencement: S. 196 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-6994f1fd79dc62644b0821dbb68256b6]: Commencement: S. 196 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-3ded36aa5d6013cee427f81c1bfbb216]: Commencement: [S. 196](https://www.legislation.gov.uk/asc/2023/3/section/196) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-3ded36aa5d6013cee427f81c1bfbb216]: Commencement: [S. 196](https://www.legislation.gov.uk/asc/2023/3/section/196) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

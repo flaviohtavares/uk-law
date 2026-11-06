@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Potential lost revenue: losses[^key-922c51a53ffc0ecf301369541ad3f655]
+## 137. Potential lost revenue: losses[^c-922c51a53ffc0ecf301369541ad3f655]
 
 *Extent: E+W*
 
-(1) Where an inaccuracy has the result that a loss is wrongly recorded for the purposes of a WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax and the loss has been wholly used to reduce the amount payable in respect of that tax, the potential lost revenue is calculated in accordance with section 135.
+(1) Where an inaccuracy has the result that a loss is wrongly recorded for the purposes of a WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax and the loss has been wholly used to reduce the amount payable in respect of that tax, the potential lost revenue is calculated in accordance with section 135.
 
 (2) Where an inaccuracy has the result that a loss is wrongly recorded for the purposes of a WRA-collected tax and the loss has not been wholly used to reduce the amount payable in respect of that tax, the potential lost revenue is—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-922c51a53ffc0ecf301369541ad3f655]: Commencement: S. 137 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-922c51a53ffc0ecf301369541ad3f655]: Commencement: S. 137 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)

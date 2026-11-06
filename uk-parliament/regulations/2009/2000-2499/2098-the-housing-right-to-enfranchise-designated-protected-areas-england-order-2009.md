@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Communities and Local Government, in exercise of the powers conferred by paragraphs 4A(3) of Schedule 4A to the Leasehold Reform Act 1967[^f00001]; having published the criteria to be taken into account when deciding whether to designate an area as a protected area as required by paragraph 4A(4) of that Schedule; and having taken steps to consult those likely to be affected by the Order as required by paragraph 4A(5) of that Schedule, makes the following Order:
 
-## 1. Citation and commencement and interpretation[^key-a5349e24b9709ec11f41f8c5ae015f76]
+## 1. Citation and commencement and interpretation[^c-a5349e24b9709ec11f41f8c5ae015f76]
 
 (1) This Order may be cited as the Housing (Right to Enfranchise) (Designated Protected Areas) (England) Order 2009 and shall come into force on 7th September 2009.
 
 (2) In this Order “the 1967 Act” means the Leasehold Reform Act 1967.
 
-## 2. Designated protected areas in the West Midlands[^key-45cc6493ce9eb135c5b56363db68f6df]
+## 2. Designated protected areas in the West Midlands[^c-45cc6493ce9eb135c5b56363db68f6df]
 
 The following areas in the West Midlands region are designated protected areas for the purposes of paragraph 4A(1) of Schedule 4A to the 1967 Act (certain leases in protected areas)—
 
@@ -61,7 +61,7 @@ The following areas in the West Midlands region are designated protected areas f
   - (i) signed by a member of the Senior Civil Service in the Department for Communities and Local Government; and
   - (ii) deposited and available for inspection at the principal office of the Secretary of State for Communities and Local Government.
 
-## 3. Designated protected areas in the South West[^key-f3f28c62e8bed52af197911ccb1ab318]
+## 3. Designated protected areas in the South West[^c-f3f28c62e8bed52af197911ccb1ab318]
 
 The following areas in the South West region are designated protected areas for the purposes of paragraph 4A(1) of Schedule 4A to the 1967 Act—
 
@@ -70,7 +70,7 @@ The following areas in the South West region are designated protected areas for 
   - (i) signed by a member of the Senior Civil Service in the Department for Communities and Local Government; and
   - (ii) deposited and available for inspection at the principal office of the Secretary of State for Communities and Local Government.
 
-## 4. Designated protected areas in the North West[^key-056a5e2b8051533b280c36f40a8ee54d]
+## 4. Designated protected areas in the North West[^c-056a5e2b8051533b280c36f40a8ee54d]
 
 The following areas in the North West region are designated protected areas for the purposes of paragraph 4A(1) of Schedule 4A to the 1967 Act—
 
@@ -79,7 +79,7 @@ The following areas in the North West region are designated protected areas for 
   - (i) signed by a member of the Senior Civil Service in the Department for Communities and Local Government; and
   - (ii) deposited and available for inspection at the principal office of the Secretary of State for Communities and Local Government.
 
-## 5. Designated protected areas in the East of England[^key-1a71415699cf31f513c98ca01c902d8c]
+## 5. Designated protected areas in the East of England[^c-1a71415699cf31f513c98ca01c902d8c]
 
 The following areas in the East of England region are designated protected areas for the purposes of paragraph 4A(1) of Schedule 4A to the 1967 Act—
 
@@ -88,7 +88,7 @@ The following areas in the East of England region are designated protected areas
   - (i) signed by a member of the Senior Civil Service in the Department for Communities and Local Government; and
   - (ii) deposited and available for inspection at the principal office of the Secretary of State for Communities and Local Government.
 
-## 6. Designated protected areas in the North East[^key-e2fbe699a4592800b452665f60dd3f4c]
+## 6. Designated protected areas in the North East[^c-e2fbe699a4592800b452665f60dd3f4c]
 
 The following areas in the North East region are designated protected areas for the purposes of paragraph 4A(1) of Schedule 4A to the 1967 Act—
 
@@ -97,7 +97,7 @@ The following areas in the North East region are designated protected areas for 
   - (i) signed by a member of the Senior Civil Service in the Department for Communities and Local Government; and
   - (ii) deposited and available for inspection at the principal office of the Secretary of State for Communities and Local Government.
 
-## 7. Designated protected areas in the South East[^key-af58dfaea188a0eb38d3606964504fd3]
+## 7. Designated protected areas in the South East[^c-af58dfaea188a0eb38d3606964504fd3]
 
 The following areas in the South East region are designated protected areas for the purposes of paragraph 4A(1) of Schedule 4A to the 1967 Act—
 
@@ -106,7 +106,7 @@ The following areas in the South East region are designated protected areas for 
   - (i) signed by a member of the Senior Civil Service in the Department for Communities and Local Government; and
   - (ii) deposited and available for inspection at the principal office of the Secretary of State for Communities and Local Government.
 
-## 8. Designated protected areas in the East Midlands[^key-a3c2e11259b8aa0a652aed39f2fe80ad]
+## 8. Designated protected areas in the East Midlands[^c-a3c2e11259b8aa0a652aed39f2fe80ad]
 
 The following areas in the East Midlands region are designated protected areas for the purposes of paragraph 4A(1) of Schedule 4A to the 1967 Act—
 
@@ -115,7 +115,7 @@ The following areas in the East Midlands region are designated protected areas f
   - (i) signed by a member of the Senior Civil Service in the Department for Communities and Local Government; and
   - (ii) deposited and available for inspection at the principal office of the Secretary of State for Communities and Local Government.
 
-## 9. Designated protected areas in Yorkshire and the Humber[^key-831c7bed9cf46c51873f847df17b95fb]
+## 9. Designated protected areas in Yorkshire and the Humber[^c-831c7bed9cf46c51873f847df17b95fb]
 
 The following areas in Yorkshire and the Humber region are designated protected areas for the purposes of paragraph 4A(1) of Schedule 4A to the 1967 Act—
 
@@ -140,7 +140,7 @@ SCHEDULES
 
 Regulation 2(a)
 
-### PART 1 — HEREFORDSHIRE[^key-6ab00ed4c62039adda3b8b9239c3e8a0]
+### PART 1 — HEREFORDSHIRE[^c-6ab00ed4c62039adda3b8b9239c3e8a0]
 
 - Abbey Dore, Aconbury, Acton Beauchamp, Adforton, Allensmore, Almeley, Ashperton, Aston Ingham, Avenbury, Aylton, Aymestrey,
 - Bacton, Ballingham, Bartestree, Birley with Upper Hill, Bishops Frome, Bishopstone, Blakemere, Bodenham, Bolstone, Bosbury, Brampton Abbotts, Brampton Bryan, Bredenbury, Bredwardine, Breinton, Bridge Sollers, Bridstow, Brilley, Brimfield, Brinsop and Wormsley, Brobury with Monnington on Wye, Brockhampton, Brockhampton (in the district of South Herefordshire), Bromyard and Winslow, Buckton and Coxall, Burghill, Burrington, Byford, Byton,
@@ -164,7 +164,7 @@ Regulation 2(a)
 - Wacton, Walford, Letton and Newton, Walterstone, Wellington, Wellington Heath, Welsh Bicknor, Welsh Newton, Weobley, Westhide, Weston Beggard, Weston under Penyard, Whitbourne, Whitchurch, Whitney on Wye, Wigmore, Willersley and Winforton, Willey, Withington, Wolferlow, Woolhope, Wormbridge,
 - Yarkhill, Yatton, Yazor.
 
-### PART 2 — SHROPSHIRE[^key-494fe95dbbd0ac297b4763d43cf431d2]
+### PART 2 — SHROPSHIRE[^c-494fe95dbbd0ac297b4763d43cf431d2]
 
 - Abdon, Acton Burnell, Acton Round, Acton Scott, Adderley, Alberbury with Cardeston, All Stretton, Alveley, Ashford Bowdler, Ashford Carbonel, Astley Abbotts, Astley, Aston Botterell, Aston Eyre, Atcham,
 - Badger, Barrow, Baschurch, Beckbury, Bedstone, Berrington, Bettws y Crwyn, Bicton, Billingsley, Bishops Castle, Bitterley, Boningale, Boraston, Boscobel, Bromfield, Bucknell, Buildwas, Burford, Burwarton,
@@ -188,7 +188,7 @@ Regulation 2(a)
 - Uffington, Upton Cressett, Upton Magna,
 - Waters Upton, Welshampton and Lyneal, Wem Rural, Wentnor, West Felton, Westbury, Weston Rhyn, Weston under Redcastle, Wheathill, Whitchurch Rural, Whittington, Whitton, Whixall, Wistanstow, Withington, Woolstaston, Woore, Worfield, Worthen with Shelve, Wrockwardine, Wroxeter and Uppington.
 
-### PART 3 — STAFFORDSHIRE[^key-adf84595d7b4bfd4688bef2b594ee1ff]
+### PART 3 — STAFFORDSHIRE[^c-adf84595d7b4bfd4688bef2b594ee1ff]
 
 - Abbots Bromley, Acton Trussell and Bednall, Adbaston, Alrewas, Alstonefield, Alton, Anslow,
 - Bagnall, Balterley, Barlaston, Berkswich, Betley, Blithfield, Blore with Swinscoe, Blymhill and Weston under Lizard, Bobbington, Bradley, Bradnop, Branston, Brewood, Brindley Heath, Brocton, Butterton,
@@ -213,7 +213,7 @@ Regulation 2(a)
 - Wall, Warslow and Elkstones, Waterhouses, Weeford, Weston, Wetton, Whitgreave, Whitmore, Whittington, Wigginton, Wootton, Wychnor,
 - Yoxhall.
 
-### PART 4 — WARWICKSHIRE[^key-03e483afc76d566fd69d54e28cf99aa9]
+### PART 4 — WARWICKSHIRE[^c-03e483afc76d566fd69d54e28cf99aa9]
 
 - Admington, Alderminster, Ansley, Ansty, Arley, Arrow with Weethley, Ashow, Astley, Aston Cantlow, Atherstone on Stour, Austrey, Avon Dassett,
 - Baddesley Clinton, Baddesley Ensor, Baginton, Barcheston, Barford, Barton-on-the-Heath, Baxterley, Bearley, Beaudesert, Beausale, Haseley, Honiliey and Wroxall, Bentley, Billesley, Binley Woods, Binton, Birdingbury, Bishops Itchington, Bishops Tachbrook, Blackdown, Bourton and Draycote, Brailes, Brandon and Bretford, Brinklow, Bubbenhall, Budbrooke, Burmington, Burton Dassett, Burton Hastings, Bushwood, Butlers Marston,
@@ -237,14 +237,14 @@ Regulation 2(a)
 - Ufton, Ullenhall, Upper and Lower Shuckburgh,
 - Wappenbury, Warmington, Wasperton, Watergall, Welford-on-Avon, Weston under Wetherley, Weston on Avon, Whatcote, Whichford, Whitchurch, Wibtoft, Willey, Willoughby, Wishaw, Withybrook, Wixford, Wolfhampcote, Wolston, Wolverton, Wolvey, Wootton Wawden, Wormleighton.
 
-### PART 5 — WEST MIDLANDS[^key-9c9d63add3ec0490c1ff4c5e1e03ae5c]
+### PART 5 — WEST MIDLANDS[^c-9c9d63add3ec0490c1ff4c5e1e03ae5c]
 
 - Allesley,
 - Barston,
 - Hampton in Arden, Hockley Heath,
 - Keresley.
 
-### PART 6 — WORCESTERSHIRE[^key-2a8d994ae17b39faa5a07e825bdaaa65]
+### PART 6 — WORCESTERSHIRE[^c-2a8d994ae17b39faa5a07e825bdaaa65]
 
 - Abberley, Abberton, Abbots Morton, Aldington, Alfrick, Ashton under Hill, Astley and Dunley, Aston Somerville,
 - Badsey, Bayton, Beckford, Belbroughton, Bentley Pauncefoot, Beoley, Berrow, Besford, Bickmarsh, Birlingham, Birtsmorton, Bishampton, Bockleton, Bransford, Bredicot, Bredon, Bredons Norton, Bretforton, Bricklehampton, Broadheath, Broadwas, Broadway, Broome, Broughton Hackett, Bushley,
@@ -272,14 +272,14 @@ Regulation 2(a)
 
 Regulation 2(b)
 
-### PART 1 — HEREFORDSHIRE[^key-98cf7cd6398029e60a42d20c6aa802ab]
+### PART 1 — HEREFORDSHIRE[^c-98cf7cd6398029e60a42d20c6aa802ab]
 
 The parishes of—
 
 - Holmer,
 - Ledbury, Leominster, Lower Bullingham,
 
-### PART 2 — SHROPSHIRE[^key-584486ee15ca84564a5fc479dbe8d8b4]
+### PART 2 — SHROPSHIRE[^c-584486ee15ca84564a5fc479dbe8d8b4]
 
 The parishes of—
 
@@ -291,7 +291,7 @@ The parishes of—
 - Shifnal,
 - Whitchurch Urban.
 
-### PART 3 — STAFFORDSHIRE[^key-15239a5070ed33cf320cc578d2469527]
+### PART 3 — STAFFORDSHIRE[^c-15239a5070ed33cf320cc578d2469527]
 
 The parishes of—
 
@@ -307,7 +307,7 @@ The parishes of—
 - Seighford, Shenstone, Swynnerton,
 - Werrington.
 
-### PART 4 — WARWICKSHIRE[^key-18df2481bba0f3c56266d04466d658de]
+### PART 4 — WARWICKSHIRE[^c-18df2481bba0f3c56266d04466d658de]
 
 The parishes of—
 
@@ -320,13 +320,13 @@ The parishes of—
 - Polesworth,
 - Stratford upon Avon, Studley.
 
-### PART 5 — WEST MIDLANDS[^key-a6fa18fdd8b8b6c900f2596e42606453]
+### PART 5 — WEST MIDLANDS[^c-a6fa18fdd8b8b6c900f2596e42606453]
 
 The parishes of—
 
 - Balsall, Berkswell, Bickenhill.
 
-### PART 6 — WORCESTERSHIRE[^key-229e77afc29f12d115ba671e1ea970f3]
+### PART 6 — WORCESTERSHIRE[^c-229e77afc29f12d115ba671e1ea970f3]
 
 The parishes of—
 
@@ -346,7 +346,7 @@ The parishes of—
 
 Regulation 3(a)
 
-### PART 1 — BATH AND NORTH EAST SOMERSET[^key-79aaf714b702bbb47a3dc5039c233e98]
+### PART 1 — BATH AND NORTH EAST SOMERSET[^c-79aaf714b702bbb47a3dc5039c233e98]
 
 - Bathampton, Batheaston, Bathford,
 - Cameley, Camerton, Charlcombe, Chelwood, Chew Magna, Chew Stoke, Claverton, Clutton, Combe Hay, Compton Dando, Compton Martin, Corston,
@@ -363,7 +363,7 @@ Regulation 3(a)
 - Ubley,
 - Wellow, West Harptree, Whitchurch.
 
-### PART 2 — CORNWALL[^key-aa9d0dd22b3376bd317fee6c033aaf53]
+### PART 2 — CORNWALL[^c-aa9d0dd22b3376bd317fee6c033aaf53]
 
 - Advent, Altarnun, Antony,
 - Blisland, Boconnoc, Botusfleming, Boyton, Breage, Broadoak, Budock,
@@ -389,7 +389,7 @@ Regulation 3(a)
 - Zennor,
 - The Isles of Scilly.
 
-### PART 3 — DEVON[^key-007ab7d1132c0c78bf309217bd10ac13]
+### PART 3 — DEVON[^c-007ab7d1132c0c78bf309217bd10ac13]
 
 - Abbots Bickington, Abbotsham, Abbotskerswell, All Saints, Alverdiscott, Alwington, Arlington, Ashburton, Ashcombe, Ashford, Ashprington, Ashreigney, Ashton, Ashwater, Atherington, Aveton Gifford, Awliscombe, Axmouth, Aylesbeare,
 - Bampton, Beaford, Beaworthy, Belstone, Beer, Bere Ferrers, Berrynarbor, Bickington, Bickleigh (in the district of South Hams), Bickleigh (in the district of Mid Devon), Bicton, Bigbury, Bishops Nympton, Bishops Tawton, Bishopsteignton, Bittadon, Black Torrington, Blackawton, Bondleigh, Bow, Bradford, Bradninch, Bradstone, Bradworthy, Brampford Speke, Branscombe, Bratton Clovelly, Bratton Fleming, Brayford, Brendon, Brentor, Bridestow, Bridford, Bridgerule, Brixton, Broad Clyst, Broadhembury, Broadhempston, Broadwoodkelly, Broadwoodwidger, Brushford, Buckerell, Buckfastleigh, Buckland Brewer, Buckland Filleigh, Buckland in the Moor, Buckland Monachorum, Buckland Tout Saints, Bulkworthy, Burlescombe, Burrington, Butterleigh,
@@ -417,7 +417,7 @@ Regulation 3(a)
 - Yarcombe, Yarnscombe, Yealmpton,
 - Zeal Monachorum.
 
-### PART 4 — DORSET[^key-5c2efd0e7224c72eea485a408e417dc8]
+### PART 4 — DORSET[^c-5c2efd0e7224c72eea485a408e417dc8]
 
 - Abbotsbury, Affpuddle, Alderholt, Allington, Alton Pancras, Anderson, Arne, Ashmore, Askerswell, Athelhampton,
 - Batcombe, Beaminster, Beer Hackett, Bere Regis, Bettiscombe, Bincombe, Bishop’s Caundle, Blandford St Mary, Bloxworth, Bothenhampton, Bourton, Bradford Abbas, Bradford Peverell, Broadmayne, Broadwindsor, Bryanston, Buckhorn Weston, Buckland Newton, Burleston, Burstock, Burton Bradstock, Burton,
@@ -441,7 +441,7 @@ Regulation 3(a)
 - Wareham St Martin, Warmwell, West Chelborough, West Compton, West Knighton, West Lulworth, West Orchard, West Stafford, West Stour, Whitcombe, Whitchurch Canonicorum, Wimborne St Giles, Winfrith Newburgh, Winterborne Came, Winterborne Clenston, Winterborne Herringston, Winterborne Houghton, Winterborne Kingston, Winterborne Monkton, Winter borne St Martin, Winterborne Stickland, Winterborne Whitechurch, Winterborne Zelston, Winterbourne Abbas, Winterbourne Steepleton, Witchampton, Woodlands, Woodsford, Wool, Wolland, Wootton Fitzpaine, Worth Matravers, Wraxall, Wynford Eagle,
 - Yetminster.
 
-### PART 5 — GLOUCESTERSHIRE[^key-e17a6edd7c980f31464ba891fe539824]
+### PART 5 — GLOUCESTERSHIRE[^c-e17a6edd7c980f31464ba891fe539824]
 
 - Adlestrop, Alderley, Alderton, Aldsworth, Alkington, Alvington, Ampney Crucis, Ampney St Mary, Ampney St Peter, Andoversford, Arlingham, Ashleworth, Ashley, Aston Subedge, Avening, Awre, Ayleburton,
 - Badgeworth, Bagendon, Barnsley, Barrington, Batsford, Baunton, Berkeley, Beverstone, Bibury, Bisley with Lypiatt, Blaisdon, Bledington, Blockley, Boddington, Bourton on the Hill, Bourton on the Water, Boxwell with Leighterton, Brimpsfield, Broadwell, Bromsberrow, Brookthorpe with Whaddon, Buckland,
@@ -466,7 +466,7 @@ Regulation 3(a)
 - Walton Cardiff, Westbury on Severn, Westcote, Weston Subedge, Westonbirt with Lasborough, Wheatpieces, Whiteshill and Ruscombe, Whitminster, Whittington, Wick Rissington, Willersey, Windrush, Winson, Winstone, Withington, Woodchester, Woodmancote, Woolaston,
 - Yanworth.
 
-### PART 6 — NORTH SOMERSET[^key-1ae2783cf3f7b51f95392014fbdfd889]
+### PART 6 — NORTH SOMERSET[^c-1ae2783cf3f7b51f95392014fbdfd889]
 
 - Abbotts Leigh,
 - Banwell, Barrow Gurney, Blagdon, Bleadon, Brockley, Burrington, Butcombe,
@@ -480,7 +480,7 @@ Regulation 3(a)
 - Tickenham,
 - Walton-in-Gordano, Weston-in-Gordano, Wick St Lawrence, Winford, Wraxhall, Wrington.
 
-### PART 7 — SOMERSET[^key-572193e7e5d63d1f7539781cb7cd3dcb]
+### PART 7 — SOMERSET[^c-572193e7e5d63d1f7539781cb7cd3dcb]
 
 - Abbas and Templecombe, Alford, Aller, Ansford, Ash, Ash Priors, Ashbrittle, Ashcott, Ashill, Ashwick, Axbridge,
 - Babcary, Badgworth, Baltonsborough, Barrington, Barton St David, Barwick, Batcombe, Bathealton, Bawdrip, Beckington, Beercrocombe, Berkley, Berrow, Bickenhall, Bicknoller, Binegar, Bishops Lydeard, Bradford on Tone, Bratton Seymour, Brean, Brent Knoll, Brewham, Bridgewater Without, Broadway, Brompton Ralph, Brompton Regis, Broomfield, Brushford, Bruton, Buckland Dinham, Buckland St Mary, Burnham Without, Burrowbridge, Burtle, Butleigh,
@@ -505,7 +505,7 @@ Regulation 3(a)
 - Walton, Wambrook, Wanstrow, Wayford, Weare, Wedmore, Wellington Without, Wembdon, West Bagborough, West Bradley, West Buckland, West Camel, West Chinnock, West Coker, West Crewkerne, West Hatch, West Huntspill, West Monkton, West Pennard, West Quantoxhead, Westbury, Westonzoyland, Whatley, Whitelackington, Whitestaunton, Williton, Winsford, Winsham, Witham Friary, Withycombe, Withypool, Wiveliscombe, Wookey, Woolavington, Wootton Courtenay,
 - Yarlington, Yeovilton.
 
-### PART 8 — SOUTH GLOUCESTERSHIRE[^key-25e002a5537df49aa2fabb69acc4c5c0]
+### PART 8 — SOUTH GLOUCESTERSHIRE[^c-25e002a5537df49aa2fabb69acc4c5c0]
 
 - Acton Turville, Alveston, Aust,
 - Badminton,
@@ -522,7 +522,7 @@ Regulation 3(a)
 - Tormarton, Tortworth, Tytherington,
 - Wick and Abson, Wickwar.
 
-### PART 9 — WILTSHIRE[^key-655019e9d03bf666961e0a72b08b5afa]
+### PART 9 — WILTSHIRE[^c-655019e9d03bf666961e0a72b08b5afa]
 
 - Aldbourne, Alderbury, Allcannings, Allington, Alton, Alvediston, Ansty, Ashton Keynes, Atworth, Avebury,
 - Barford St Martin, Baydon, Beechingstoke, Berwick Bassett, Berwick St James, Berwick St John, Berwick St Leonard, Biddestone, Bishopstone (in the district of Thamesdown), Bishopstone (in the district of Salisbury), Bishopstrow, Blunsdon St Andrew, Bower Chalke, Box, Boyton, Bratton, Braydon, Bremhill, Brinkworth, Britford, Brixton Deverill, Broad Chalke, Broad Hinton, Broad Town, Brokenborough, Bromham, Broughton Gifford, Bulkington, Burbage, Burcombe Without, Buttermere,
@@ -552,7 +552,7 @@ Regulation 3(a)
 
 Regulation 3(b)
 
-### PART 1 — BATH AND NORTH EAST SOMERSET[^key-b9282241f07e03266e9ac64d7eddabaa]
+### PART 1 — BATH AND NORTH EAST SOMERSET[^c-b9282241f07e03266e9ac64d7eddabaa]
 
 The parishes of—
 
@@ -560,7 +560,7 @@ The parishes of—
 - Peasedown St John.
 - The unparished area of the borough constituency of Bath [^f00005].
 
-### PART 2 — CORNWALL[^key-a731378535bf2281e159faa1dc8ea3bd]
+### PART 2 — CORNWALL[^c-a731378535bf2281e159faa1dc8ea3bd]
 
 The parishes of—
 
@@ -578,7 +578,7 @@ The parishes of—
 - Wadebridge.
 - The unparished area[^f00006] bounded by the parishes of Treverbyn, St Blaise, Mevagissey, St Ewe and St Mewan.
 
-### PART 3 — DEVON[^key-c27b7e308be1bf2821724e859a990d83]
+### PART 3 — DEVON[^c-c27b7e308be1bf2821724e859a990d83]
 
 The parishes of—
 
@@ -597,7 +597,7 @@ The parishes of—
 - The unparished area[^f00007] bounded by the parishes of Lympstone, East Budleigh, Budleigh Salterton, Dawlish and Starcross.
 - The unparished area[^f00008] bounded by the parishes of Stokeinteignhead, Shaldon, Kingswear, Dittisham, Stoke Gabriel, Berry Pomeroy, Marldon, Kingskerswell and Coffinswell.
 
-### PART 4 — DORSET[^key-e0353e09292fb5a5b9f8334c4f402026]
+### PART 4 — DORSET[^c-e0353e09292fb5a5b9f8334c4f402026]
 
 The parishes of—
 
@@ -609,7 +609,7 @@ The parishes of—
 - St Leonards and St Ives,
 - Verwood.
 
-### PART 5 — GLOUCESTERSHIRE[^key-6dcd0bebc2fc5a67dc8c1939e0b3df74]
+### PART 5 — GLOUCESTERSHIRE[^c-6dcd0bebc2fc5a67dc8c1939e0b3df74]
 
 The parishes of—
 
@@ -625,7 +625,7 @@ The parishes of—
 - Tewksbury Town,
 - West Dean, Winchcombe, Wotton under Edge.
 
-### PART 6 — NORTH SOMERSET[^key-db4e3e31bbed2497f51dd045b04164ca]
+### PART 6 — NORTH SOMERSET[^c-db4e3e31bbed2497f51dd045b04164ca]
 
 The parishes of—
 
@@ -636,7 +636,7 @@ The parishes of—
 - Winscombe and Sandford,
 - Yatton.
 
-### PART 7 — SOMERSET[^key-e57b1f12ca7fc834564537bf492c24bc]
+### PART 7 — SOMERSET[^c-e57b1f12ca7fc834564537bf492c24bc]
 
 The parishes of—
 
@@ -651,7 +651,7 @@ The parishes of—
 - Wellington, Wincanton,
 - Yeovil Without.
 
-### PART 8 — SOUTH GLOUCESTERSHIRE[^key-73b902b1b0f7f81a7f6f41cdac38c1ad]
+### PART 8 — SOUTH GLOUCESTERSHIRE[^c-73b902b1b0f7f81a7f6f41cdac38c1ad]
 
 The parishes of—
 
@@ -662,7 +662,7 @@ The parishes of—
 - Thornbury,
 - Westerleigh, Winterbourne.
 
-### PART 9 — WILTSHIRE[^key-d77b866c86a8e324072fc279df77a50d]
+### PART 9 — WILTSHIRE[^c-d77b866c86a8e324072fc279df77a50d]
 
 The parishes of—
 
@@ -683,7 +683,7 @@ The parishes of—
 
 Regulation 4(a)
 
-### PART 1 — CHESHIRE EAST[^key-ee9839b1adecfe9e74c4127b8cd5a80a]
+### PART 1 — CHESHIRE EAST[^c-ee9839b1adecfe9e74c4127b8cd5a80a]
 
 - Acton, Adlington, Agden, Alpraham, Arclid, Ashley, Aston by Budworth, Aston juxta Mondrum, Audlem, Austerson
 - Baddiley, Baddington, Barthomley, Basford, Batherton, Betchton, Bexton, Bickerton, Blakenhall, Bosley, Bradwall, Brereton, Bridgemere, Brindley, Broomhall, Buerton, Bulkeley, Bunbury, Burland,
@@ -704,7 +704,7 @@ Regulation 4(a)
 - Tabley Inferior, Tabley Superior, Tatton, Toft, Twemlow,
 - Walgherton, Wardle, Warmingham, Weston, Wettenhall, Wincle, Wirswall, Woolstanwood, Worleston, Wrenbury cum Frith, Wybunbury.
 
-### PART 2 — CHESHIRE WEST AND CHESTER[^key-602b5dbe6c6c6742044e01f1bc429b67]
+### PART 2 — CHESHIRE WEST AND CHESTER[^c-602b5dbe6c6c6742044e01f1bc429b67]
 
 - Acton Bridge, Agden, Aldersey, Aldford, Allostock, Alvanley, Anderton with Marbury, Antrobus, Ashton Hayes, Aston,
 - Backford, Barrow, Barton, Beeston, Bickley, Bostock, Bradley, Bridge Trafford, Broxton, Bruen Stapleford, Buerton, Burton, Burwardsley, Byley,
@@ -727,7 +727,7 @@ Regulation 4(a)
 - Utkinton,
 - Waverton, Wervin, Whitegate and Marton, Whitley, Wigland, Willington, Wimbolds Trafford, Wimboldsley, Wincham, Woodbank, Wychough.
 
-### PART 3 — CUMBRIA[^key-9f9f443abd2e707c8314e82bbd03c8b9]
+### PART 3 — CUMBRIA[^c-9f9f443abd2e707c8314e82bbd03c8b9]
 
 - Above Derwent, Aikton, Ainstable, Aldingham, Allhallows, Allonby, Alston Moor, Angerton, Appleby-in-Westmorland, Arlecdon and Frizington, Arnside, Arthuret, Asby, Askam and Ireleth, Askerton, Askham, Aspatria,
 - Bampton, Barbon, Barton, Bassenthwaite, Beaumont, Beetham, Bewaldeth and Snittlegarth, Bewcastle, Blawith and Subberthwaite, Blennerhasset and Torpenhow, Blindbothel, Blindcrake, Bolton, Boltons, Bootle, Borrowdale, Bothel and Threapland, Bowness, Bridekirk, Brigham, Bromfield, Brough, Brough Sowerby, Brougham, Broughton, Broughton East, Broughton Moor, Broughton West, Burgh by Sands, Burtholme, Burton in Kendal, Buttermere,
@@ -751,20 +751,20 @@ Regulation 4(a)
 - Waberthwaite, Waitby, Walton, Warcop, Waterhead, Waverton, Weddicar, Westlinton, Westnewton, Westward, Wetheral, Wharton, Whicham, Whinfell, Whitwell and Selside, Winscales, Winton, Witherslack, Woodside, Wythop,
 - Yanwath and Eamont Bridge.
 
-### PART 4 — GREATER MANCHESTER[^key-12c7e921972bd362436e49e942c858b3]
+### PART 4 — GREATER MANCHESTER[^c-12c7e921972bd362436e49e942c858b3]
 
 - Dunham,
 - Massey,
 - Ringway,
 - Warburton, Worthington.
 
-### PART 5 — HALTON[^key-bad819550b8e0ef29a319377aa6aa208]
+### PART 5 — HALTON[^c-bad819550b8e0ef29a319377aa6aa208]
 
 - Daresbury,
 - Moore,
 - Preston Brook.
 
-### PART 6 — LANCASHIRE[^key-78b5e18d945336b19a4db2d88a7ceb79]
+### PART 6 — LANCASHIRE[^c-78b5e18d945336b19a4db2d88a7ceb79]
 
 - Aighton, Bailey and Chaigley, Altham, Anglezarke, Arkholme with Cawood,
 - Balderstone, Barley with Wheatley Booth, Barnacre with Bonds, Barton, Bashall Eaves, Bickerstaffe, Billington, Bispham, Blackco, Bleasdale, Bolton by Bowland, Borwick, Bowland Forest High, Bowland Forest Low, Bowland with Leagram, Bracewell and Brogden, Bretherton, Brindle, Broughton, Burrow with Burrow,
@@ -789,7 +789,7 @@ Regulation 4(a)
 - Waddington, Warton, Weeton with Preese, Wenninghton, West Bradford, Westby with Plumptons, Whalley, Wheelton, Whittingham, Whittington, Winmarleigh, Wiswell, Withnell, Woodplumpton, Worsthorne with Hurstwood, Worston, Wray with Botton, Wrightington,
 - Yate and Pickup Bank, Yealand Coyners, Yealand Redmayne.
 
-### PART 7 — MERSEYSIDE[^key-7f945515a97815db6e13843decdea5f8]
+### PART 7 — MERSEYSIDE[^c-7f945515a97815db6e13843decdea5f8]
 
 - Bold,
 - Cronton,
@@ -797,7 +797,7 @@ Regulation 4(a)
 - Sefton, Simonswood,
 - Tarbock.
 
-### PART 8 — WARRINGTON[^key-45a4c4176376fb15e596a18065daebf8]
+### PART 8 — WARRINGTON[^c-45a4c4176376fb15e596a18065daebf8]
 
 - Croft, Cuerdley,
 - Hatton,
@@ -809,7 +809,7 @@ Regulation 4(a)
 
 Regulation 4(b)
 
-### PART 1 — CHESHIRE EAST[^key-b00dd60e853e7548cade1795a15be83c]
+### PART 1 — CHESHIRE EAST[^c-b00dd60e853e7548cade1795a15be83c]
 
 The parishes of—
 
@@ -820,7 +820,7 @@ The parishes of—
 - The unparished area[^f00009] bounded by the parishes of Warmingham, Moston, Haslington, Crewe Green, Weston, Basford, Savington cum Gresty, Rope, Wistaston, Woolstanwood, Leighton and Minshull Vernon.
 - The unparished area[^f00010] bounded by the parishes of Mottram St Andrew, Alderly Edge, Chorley, Mobberley and Ringway and by the borough constituencies of Cheadle[^f00011] and Manchester Wythenshawe[^f00012].
 
-### PART 2 — CHESHIRE WEST AND CHESTER[^key-66159adcae34a92c4ac1cc92a76088fa]
+### PART 2 — CHESHIRE WEST AND CHESTER[^c-66159adcae34a92c4ac1cc92a76088fa]
 
 The parishes of—
 
@@ -831,7 +831,7 @@ The parishes of—
 - Walton, Winsford.
 - The unparished area of the county constituency of Ellesmere Port and Neston[^f00013] excluding the parishes of Ince, Elton, Hapsford, Thornton-le-Moors, Dunham-on-the-Hill, Wimbolds Trafford, Bridge Trafford, Stoke, Wervin, Picton, Mickle Trafford, Hoole Village, Crought, Caughall, Moston, Mollington, Saughall, Shotwick Park, Woodbank, Shotwick, Charlton-by-Beckford, Little Stanley, Backford, Lea-by-Backford, Capenhurst, Ledsham and Puddington.
 
-### PART 3 — CUMBRIA[^key-40e3672bb93f54ef4ac03bdc38a418f1]
+### PART 3 — CUMBRIA[^c-40e3672bb93f54ef4ac03bdc38a418f1]
 
 The parishes of—
 
@@ -846,7 +846,7 @@ The parishes of—
 - The unparished area[^f00015] bounded by the parishes of Lazonby, Great Salkeld, Langwathby, Brougham, Yanwath and Eamont Bridge, Dacre, Catterlen and Hesket.
 - The unparished area[^f00016] bounded by the parishes of Parton, Moresby, Weddicar and St Bees.
 
-### PART 4 — GREATER MANCHESTER[^key-410e9411ed620910df26470665edbaa9]
+### PART 4 — GREATER MANCHESTER[^c-410e9411ed620910df26470665edbaa9]
 
 The parishes of—
 
@@ -857,7 +857,7 @@ The parishes of—
 - The unparished area of the county constituency of Littleborough and Saddleworth [^f00019] excluding the parishes of Saddleworth and Shaw and Crompton.
 - The unparished area of the county constituency of Rochdale [^f00020].
 
-### PART 5 — LANCASHIRE[^key-afaa1fb733ddc4f6a4396d857eb7f57d]
+### PART 5 — LANCASHIRE[^c-afaa1fb733ddc4f6a4396d857eb7f57d]
 
 The parishes of—
 
@@ -877,7 +877,7 @@ The parishes of—
 - The unparished area [^f00027] bounded by the parishes of Latham, Newburgh, Dalton, Up Holland, Bickerstaffe, Aughton, Scarisbrick and Burscough.
 - The unparished area [^f00028] bounded by the parishes of Cuerdale, Salmesbury, Hoghton, Brindle, Clayton-le-Woods, Cuerden, Farington, Penwortham; and the borough constituency of Preston [^f00029].
 
-### PART 6 — MERSEYSIDE[^key-708c626ce212fc3cf4b5502b93e68105]
+### PART 6 — MERSEYSIDE[^c-708c626ce212fc3cf4b5502b93e68105]
 
 The parishes of—
 
@@ -888,7 +888,7 @@ The parishes of—
 - The unparished area [^f00030] of the borough constituency of Crosby [^f00031] bounded by the parishes of Little Altcar, Ince Blundell, Thornton and Sefton and by the borough constituency of Bootle [^f00032].
 - The unparished area of the county constituency of Wirral South [^f00033].
 
-### PART 7 — WARRINGTON[^key-7701ce2b60df11333f69f57aea8acb52]
+### PART 7 — WARRINGTON[^c-7701ce2b60df11333f69f57aea8acb52]
 
 - Burtonwood and Westbrook.
 
@@ -896,7 +896,7 @@ The parishes of—
 
 Regulation 5(a)
 
-### PART 1 — BEDFORD[^key-78b0332e4bc47ae283253dfdeab4e562]
+### PART 1 — BEDFORD[^c-78b0332e4bc47ae283253dfdeab4e562]
 
 - Aspley Heath, Astwick,
 - Battlesden, Biddenham, Billington, Bletsoe, Blunham, Bolnhurst and Keysoe, Brogborough,
@@ -917,7 +917,7 @@ Regulation 5(a)
 - Tempsford, Thurleigh, Tilsworth, Tingrith, Totternhoe, Turvey,
 - Westoning, Whipsnade, Wilden, Willington, Wilshamstead, Woburn, Wrestlingworth and Cockayne Hatley, Wymington.
 
-### PART 2 — CAMBRIDGESHIRE[^key-1765e59ea5595d3c8a63241904459a07]
+### PART 2 — CAMBRIDGESHIRE[^c-1765e59ea5595d3c8a63241904459a07]
 
 - Abbots Ripton, Abbotsley, Abington Pigotts, Ailsworth, Alconbury, Alconbury Weston, Alwalton, Arrington, Ashley,
 - Babraham, Bainton, Balsham, Barham and Woolley, Barnack, Barrington, Bartlow, Barton, Bassingbourn cum Kneesworth, Benwick, Bluntisham, Borough Fen, Bottisham, Bourn, Boxworth, Brington and Molesworth, Brinkley, Broughton, Buckden, Buckworth, Burrough Green, Bury, Bythorn and Keyston,
@@ -941,7 +941,7 @@ Regulation 5(a)
 - Wansford, Warboys, Waresley cum Tetworth, Water Newton, Waterbeach, Wentworth, West Wickham, West Wratting, Westley Waterless, Weston Colville, Whaddon, Whittlesford, Wicken, Wilburton, Wimblington, Wimpole, Winwick, Wisbech St Mary, Wistow, Witcham, Witchford, Wittering, Wood Walton, Woodditton, Woodhurst, Wothorpe,
 - Yelling.
 
-### PART 3 — ESSEX[^key-c0b189df288a3c5e7da89e4938d3ccd1]
+### PART 3 — ESSEX[^c-c0b189df288a3c5e7da89e4938d3ccd1]
 
 - Abberton, Abbess Beauchamp and Berners Roding, Aldham, Alphamstone, Alresford, Althorne, Ardleigh, Arkesden, Ashdon, Asheldham, Ashen, Aythorpe Roding,
 - Bardfield Sailing, Barling Magna, Barnston, Beaumont cum Moze, Belchamp Otten, Belchamp St Paul, Belchamp Walter, Berden, Birch, Birchanger, Birdbrook, Black Notley, Blackmore, Bobbingworth, Borley, Boxted, Bradfield, Bradwell, Bradwell on Sea, Broxted, Bulmer, Bures Hamlet,
@@ -965,7 +965,7 @@ Regulation 5(a)
 - Virley,
 - Wakes Colne, Weeley, Wenden Lofts, Wendens Ambo, West Hanningfield, Wethersfield, White Colne, White Notley, White Roothing, Wicken Bonhunt, Wickham Bishops, Wickham St Paul, Widdington, Willingale, Wimbish, Wix, Woodham Ferrers & Bicknare, Woodham Mortimer, Woodham Walter, Wormingford, Wrabnes.
 
-### PART 4 — HERTFORDSHIRE[^key-0fc77e2bd954164623bcb5ff441fae77]
+### PART 4 — HERTFORDSHIRE[^c-0fc77e2bd954164623bcb5ff441fae77]
 
 - Albury, Aldbury, Anstey, Ardeley, Ashwell, Aspenden, Aston, Ayot St Lawrence, Ayot St Peter,
 - Barkway, Barley, Bayford, Bengeo Rural, Benington, Bramfield, Braughing, Brent Pelham, Brickendon Liberty, Buckland, Bygrave,
@@ -987,7 +987,7 @@ Regulation 5(a)
 - Tewin, Therfield, Thorley, Thundridge, Tring Rural,
 - Walkern, Wallington, Ware Rural, Watton at Stone, Westmill, Weston, Widford, Wiggington Wyddial, Wymondley.
 
-### PART 5 — NORFOLK[^key-c8dfce871cd57f133a9ce06eb45a3501]
+### PART 5 — NORFOLK[^c-c8dfce871cd57f133a9ce06eb45a3501]
 
 - Acle, Alburgh, Alby with Thwaite, Aldborough, Aldeby, Alderford, Alpington, Anmer, Antingham, Ashby St Mary, Ashby with Oby, Ashill, Ashmanhaugh, Ashwellthorpe, Aslacton, Attlebridge, Aylmerton,
 - Baconsthorpe, Bacton, Bagthorpe with Barmer, Banham, Barford, Barnham Broom, Barsham, Barton Bendish, Barton Turf, Barwick, Bawburgh, Bawdeswell, Bawsey, Beachamwell, Bedingham, Beeston Regis, Beeston St Andrew, Beeston with Bittering, Beetley, Beighton, Belaugh, Bergh Apton, Besthorpe, Billingford, Binham, Bintree, Bircham, Bixley, Blakeney, Blickling, Blo’ Norton, Blofield, Bodham, Booton, Boughton, Bracon Ash, Bradenham, Bramerton, Brampton, Brancaster, Brandiston, Bressingham, Brettenham, Bridgham, Briningham, Brinton, Brisley, Briston, Brockdish, Brooke, Broome, Brumstead, Bunwell, Burgh and Tuttington, Burgh Castle, Burgh St Peter, Burnham Market, Burnham Norton, Burnham Overy, Burnham Thorpe, Burston and Shimpling, Buxton with Lammas, Bylaugh,
@@ -1012,7 +1012,7 @@ Regulation 5(a)
 - Wacton, Walpole, Walpole Cross Keys, Walpole Highway, Walsingham, Warham, Watlington, Weasenham All Saints, Weasenham St Peter, Weeting with Broomhill, Wellingham, Wells next the Sea, Welney, Wendling, Wereham, West Acre, West Beckham, West Caister, West Dereham, West Rudham, West Walton, West Winch, Weston Longville, Westwick, Weybourne, Wheatacre, Whinburgh, Whissonsett, Wicklewood, Wickmere, Wiggenhall St Germans, Wiggenhall St Mary Magdalen, Wighton, Wimbotsham, Winfarthing, Winterton on Sea, Witton, Wiveton, Wood Dalling, Wood Norton, Woodbastwick, Woodton, Wormegay, Worstead, Wortwell, Wramplingham, Wreningham, Wretham, Wretton,
 - Yaxham, Yelverton.
 
-### PART 6 — SUFFOLK[^key-1ef9a8bc08ef9b1c39dae4b0d6084c9a]
+### PART 6 — SUFFOLK[^c-1ef9a8bc08ef9b1c39dae4b0d6084c9a]
 
 - Acton, Akenham, Aldeburgh, Alderton, Aldham, Aldringham cum Thorpe, All Saints and St Nicholas South Elmham, Alpheton, Ampton, Arwarton, Ashbocking, Ashfield cum Thorpe, Aspall, Assington, Athelington,
 - Bacton, Badingham, Badley, Badwell Ash, Bardwell, Barham, Barking, Barnardiston, Barnby, Barnham, Barningham, Barrow, Barsham, Barton Mills, Battisford, Bawdsey, Baylham, Bedfield, Bedingfield, Belstead, Benacre, Benhall, Bentley, Beyton, Bildeston, Blaxhall, Blundeston, Blyford, Blythburgh, Botesdale, Boulge, Boxford, Boxted, Boyton, Bradfield Comburst with Stanningfield, Bradfield St Clare, Bradfield St George, Braiseworth, Bramfield, Bramford, Brampton with Stoven, Brandeston, Brantham, Bredfield, Brent Eleigh, Brettenham, Brightwell, Brockley, Brome and Oakley, Bromeswell, Bruisyard, Brundish, Bucklesham, Bures St Mary, Burgate, Burgh, Burstall, Butley, Buxhall,
@@ -1040,7 +1040,7 @@ Regulation 5(a)
 
 Regulation 5(b)
 
-### PART 1 — BEDFORD[^key-911487e77ce8c10c9c20afc9d4235336]
+### PART 1 — BEDFORD[^c-911487e77ce8c10c9c20afc9d4235336]
 
 The parishes of—
 
@@ -1050,7 +1050,7 @@ The parishes of—
 - Sandy,
 - Toddington.
 
-### PART 2 — CAMBRIDGESHIRE[^key-d67fb3094d4ea11fd2d803505190d19e]
+### PART 2 — CAMBRIDGESHIRE[^c-d67fb3094d4ea11fd2d803505190d19e]
 
 The parishes of—
 
@@ -1062,7 +1062,7 @@ The parishes of—
 - Whittlesey.
 - The unparished area of Stanground North[^f00034] bounded by the parish of Thorney, the parish of Whittlesey in the District of Fenland and the unparished area of the city of Peterborough.
 
-### PART 3 — ESSEX[^key-cea3ee45147f07a938407fca3b5daed2]
+### PART 3 — ESSEX[^c-cea3ee45147f07a938407fca3b5daed2]
 
 The parishes of—
 
@@ -1081,7 +1081,7 @@ The parishes of—
 - The unparished area [^f00038] bounded by the parishes of Runwell, Rettendon, Hullbridge, Hockley, Hawkwell, Rochford, the borough constituency of Southend West [^f00039], the borough constituency of Castle Point [^f00040], the borough constituency of Basildon [^f00041] and the county constituency of Billericay.
 - The unparished area of the borough constituency of Thurrock [^f00042].
 
-### PART 4 — HERTFORDSHIRE[^key-ade15505e5d868c5a4f175a5d3e1a4bb]
+### PART 4 — HERTFORDSHIRE[^c-ade15505e5d868c5a4f175a5d3e1a4bb]
 
 The parishes of—
 
@@ -1096,7 +1096,7 @@ The parishes of—
 - The unparished area [^f00043] bounded by the parishes of Ridge, North Mymms, Northaw and Cuffley, the London borough of Enfield and the London Borough of Barnet.
 - The unparished area [^f00044] bounded by the parishes of Chorley Wood, Sarratt, Croxley Green and Watford Rural, the borough constituency of Watford[^f00045], the London Borough of Hillingdon and the parishes of Chalfont St Peter and Denham in the county of Buckinghamshire.
 
-### PART 5 — NORFOLK[^key-c57bcde69ae9b5391e692a04031810b5]
+### PART 5 — NORFOLK[^c-c57bcde69ae9b5391e692a04031810b5]
 
 The parishes of—
 
@@ -1108,7 +1108,7 @@ The parishes of—
 - Sculthorpe,
 - Wymondham.
 
-### PART 6 — SUFFOLK[^key-f0ee49ba1097c84be4068f3289518561]
+### PART 6 — SUFFOLK[^c-f0ee49ba1097c84be4068f3289518561]
 
 The parishes of—
 
@@ -1123,7 +1123,7 @@ The parishes of—
 
 Regulation 6(a)
 
-### PART 1 — DURHAM[^key-0ba530d4656d39f8caf165f77fd013e6]
+### PART 1 — DURHAM[^c-0ba530d4656d39f8caf165f77fd013e6]
 
 - Archdeacon Newton,
 - Barforth, Barmpton, Barningham, Bearpark, Bishop Middleham, Bishopton, Bolam, Boldron, Bournmoor, Bowes, Bradbury and the Isle, Brafferton, Brancepeth, Brignall,
@@ -1145,7 +1145,7 @@ Regulation 6(a)
 - Thornley, Tow Law, Trimdon Foundry,
 - Wackerfield, Walworth, West Rainton, Westwick, Whessoe, Whitton Gilbert, Whorlton, Windlestone, Winston, Wolsingham, Woodland, Wycliffe with Thorpe.
 
-### PART 2 — HARTLEPOOL[^key-0f591fbba0550e71cc834a6658564cc5]
+### PART 2 — HARTLEPOOL[^c-0f591fbba0550e71cc834a6658564cc5]
 
 - Brierton,
 - Claxton,
@@ -1155,11 +1155,11 @@ Regulation 6(a)
 - Hart,
 - Newton Bewley.
 
-### PART 3 — MIDDLESBROUGH[^key-4ff22c4b6dd822c52eda09ee14d372ea]
+### PART 3 — MIDDLESBROUGH[^c-4ff22c4b6dd822c52eda09ee14d372ea]
 
 - Stainton and Thornton.
 
-### PART 4 — NORTHUMBERLAND[^key-6618bcd365cac76dbfcb1c68fa75c346]
+### PART 4 — NORTHUMBERLAND[^c-6618bcd365cac76dbfcb1c68fa75c346]
 
 - Acklington, Acomb, Adderstone with Lucker, Akeld, Allendale, Alnham, Alnmouth, Alwinton, Ancroft,
 - Bamburgh, Bardon Mill, Bavington, Beadnell, Belford, Bellingham, Belsay, Bewick, Biddlestone, Birtley, Blanchland, Bowsden, Branxton, Brinkburn, Broomhaugh and Riding, Broomley and Stocksfield, Bywell,
@@ -1182,11 +1182,11 @@ Regulation 6(a)
 - Ulgham,
 - Wall, Wallington Demesne, Warden, Wark, West Allen, West Chevington, Whalton, Whittingham, Whittington, Whitton and Tosson, Widdrington, Widdrington Station and Stobswood, Wooler, Wylam.
 
-### PART 5 — REDCAR AND CLEVELAND[^key-08ff9066f855fc86e88cd1ca049aafd5]
+### PART 5 — REDCAR AND CLEVELAND[^c-08ff9066f855fc86e88cd1ca049aafd5]
 
 - Lockwood.
 
-### PART 6 — STOCKTON-ON-TEES[^key-cd6706f49a8540c95078b3721082468d]
+### PART 6 — STOCKTON-ON-TEES[^c-cd6706f49a8540c95078b3721082468d]
 
 - Aislaby,
 - Carlton, Castlelevington,
@@ -1202,7 +1202,7 @@ Regulation 6(a)
 - Stillington and Whitton,
 - Wolviston.
 
-### PART 7 — TYNE AND WEAR[^key-ac988f11426df375b2adb2b94919fc5f]
+### PART 7 — TYNE AND WEAR[^c-ac988f11426df375b2adb2b94919fc5f]
 
 - Burdon,
 - Dinnington,
@@ -1212,7 +1212,7 @@ Regulation 6(a)
 
 Regulation 6(b)
 
-### PART 1 — DURHAM[^key-c4eb3610b25447330b7c3d887b5856ff]
+### PART 1 — DURHAM[^c-c4eb3610b25447330b7c3d887b5856ff]
 
 The parishes of—
 
@@ -1234,11 +1234,11 @@ The parishes of—
 - The unparished area [^f00052] bounded by the parishes of Urpeth, Edmondsley, the county constituency of North West Durham and the borough constituency of Blaydon.
 - The unparished area [^f00053] bounded by the county constituency of Bishop Auckland[^f00054] and the parishes of Wolsingham, Hedleythorpe, Brandon and Byshottles, Brancepeth and Spennymore.
 
-### PART 2 — HARTLEPOOL[^key-108ebb7b812fe17cca4aafa4061fb335]
+### PART 2 — HARTLEPOOL[^c-108ebb7b812fe17cca4aafa4061fb335]
 
 - The unparished area of the borough constituency of Hartlepool[^f00055].
 
-### PART 3 — NORTHUMBERLAND[^key-0c33d2a05b0f74fb264fab0000d75922]
+### PART 3 — NORTHUMBERLAND[^c-0c33d2a05b0f74fb264fab0000d75922]
 
 The parishes of—
 
@@ -1249,7 +1249,7 @@ The parishes of—
 - The unparished area of the borough constituency of Blyth Valley[^f00056].
 - The unparished area of the county constituency of Wansbeck[^f00057] excluding the parishes of Longhurst, Pegswood, Hepscott, Morpeth, Mitford and Hebron.
 
-### PART 4 — REDCAR AND CLEVELAND[^key-92084a04afeb9623f8ebaeb02f47d4c5]
+### PART 4 — REDCAR AND CLEVELAND[^c-92084a04afeb9623f8ebaeb02f47d4c5]
 
 The parishes of—
 
@@ -1258,7 +1258,7 @@ The parishes of—
 - Skelton and Brotton.
 - The unparished area of the borough constituency of Redcar[^f00058].
 
-### PART 5 — TYNE AND WEAR[^key-f693a0e42d11008a5c9588ff2fbd4b6c]
+### PART 5 — TYNE AND WEAR[^c-f693a0e42d11008a5c9588ff2fbd4b6c]
 
 The parishes of—
 
@@ -1272,7 +1272,7 @@ The parishes of—
 
 Regulation 7(a)
 
-### PART 1 — BUCKINGHAMSHIRE[^key-f4c1fe5bf5796ceb51af16f015596ed3]
+### PART 1 — BUCKINGHAMSHIRE[^c-f4c1fe5bf5796ceb51af16f015596ed3]
 
 - Addington, Adstock, Akeley, Ashendon, Ashley Green, Aston Abbotts, Aston Sandford, Astwood,
 - Barton Hartshorn, Beachampton, Biddlesden, Bierton with Broughton, Bledlow cum Saunderton, Boarstall, Bow Brickhill, Bradenham, Brill, Buckland,
@@ -1297,7 +1297,7 @@ Regulation 7(a)
 - Waddesdon, Warrington, Water Stratford, Weedon, West Wycombe, Westbury, Westcott, Weston Turville, Weston Underwood, Wexham, Whaddon, Whitchurch, Wing, Wingrave with Rowsham, Woodham, Worminghall, Wotton Underwood.
 - The unparished area[^f00060] bounded by the parishes of Olney, Emberton, Sherrington, Lathbury, Gayhurst, Stoke Goldington, Ravenstone and Weston Underwood.
 
-### PART 2 — EAST SUSSEX[^key-42c8ffefc4f4442fc4460bff6c728be6]
+### PART 2 — EAST SUSSEX[^c-42c8ffefc4f4442fc4460bff6c728be6]
 
 - Alciston, Alfriston, Arlington, Ashburnham,
 - Barcombe, Beckley, Beddingham, Berwick, Bodiam, Brede, Brightling, Burwash, Buxted,
@@ -1319,7 +1319,7 @@ Regulation 7(a)
 - Udimore,
 - Wadhurst, Warbleton, Wartling, Westfield, Westham, Westmeston, Whatlington, Withyam, Wivelsfield.
 
-### PART 3 — HAMPSHIRE[^key-b03e876406553378b49cf77a5e88e7b9]
+### PART 3 — HAMPSHIRE[^c-b03e876406553378b49cf77a5e88e7b9]
 
 - Ampfield, Amport, Appleshaw, Ashford Hill with Headley, Ashley, Ashmansworth, Ashurst and Colbury, Awbridge,
 - Barton Stacey, Baughurst, Beaulieu, Beauworth, Bentley, Bentworth, Bighton, Binsted, Bishops Sutton, Boarhunt, Boldre, Bossington, Bradley, Braishfield, Bramdean, Bramley, Bramshaw, Bramshill, Breamore, Brockenhurst, Broughton, Buckholt, Bullington, Burghclere, Buriton, Burley,
@@ -1344,7 +1344,7 @@ Regulation 7(a)
 - Vernhams Dean,
 - Warnford, West Tisted, West Tytherley, Westmeon, Weston Corbett, Weston Patrick, Wherwell, Whitsbury, Wickham, Wield, Winchfield, Winslade, Wonston, Woodgreen, Wootton St Lawrence, Worldham.
 
-### PART 4 — ISLE OF WIGHT[^key-48a53886148711e7ef7149bfdf8dccf7]
+### PART 4 — ISLE OF WIGHT[^c-48a53886148711e7ef7149bfdf8dccf7]
 
 - Arreton,
 - Brightstone,
@@ -1356,7 +1356,7 @@ Regulation 7(a)
 - Wroxall,
 - Yarmouth.
 
-### PART 5 — KENT[^key-33b195ff82e9c4feeb082bb7ce98ecd9]
+### PART 5 — KENT[^c-33b195ff82e9c4feeb082bb7ce98ecd9]
 
 - Acol, Acrise, Addington, Adisham, Aldington, Alkham, Allhallows, Appledore, Ash,
 - Badlesmere, Barham, Bean, Bekesbourne with Patrixbourne, Benenden, Bethersden, Bicknor, Bidborough, Biddenden, Bilsington, Birling, Bishopsbourne, Bobbing, Bonnington, Borden, Borough Green, Boughton Aluph, Boughton in the Blean, Boughton Malherbe, Boughton Monchelsea, Boxley, Brabourne, Brasted, Bredgar, Bredhurst, Brenchley, Brenzett, Bridge, Brook, Brookland, Broomfield, Buckland, Norton and Stone, Burham, Burmarsh,
@@ -1380,7 +1380,7 @@ Regulation 7(a)
 - Waltham, Warden, Warehorne, Wateringbury, West Farleigh, West Malling, West Peckham, Westbere, Westwell, Wichling, Wickhambreaux, Wingham, Wittersham, Womenswold, Woodchurch, Woodnesborough, Wormshill, Worth, Wouldham, Wrotham,
 - Yalding.
 
-### PART 6 — OXFORDSHIRE[^key-a748480dc1c3efe1b0ed29dedd40de42]
+### PART 6 — OXFORDSHIRE[^c-a748480dc1c3efe1b0ed29dedd40de42]
 
 - Adderbury, Adwell, Alvescot, Ambrosden, Appleford, Appleton with Eaton, Ardington, Ardley, Arncott, Ascott under Wychwood, Ashbury, Asthal, Aston Rowant, Aston Tirrold, Aston Upthorpe, Aston, Cote, Shifford and Chimney,
 - Bampton, Barford St John and St Michael, Baulking, Beckley and Stowood, Begbroke, Benson, Berinsfield, Berrick Salome, Besselsleigh, Bix and Assendon, Black Bourton, Blackthorn, Bladon, Blenheim, Bletchingdon, Blewbury, Bloxham, Bodicote, Bourton (in the district of the Vale of the White Horse), Bourton (in the district of Cherwell), Brightwell, Baldwin, Brightwell cum Sotwell, Britwell Salome, Brize Norton, Broadwell, Broughton, Bruern, Buckland, Bucknell, Burford, Buscot,
@@ -1404,7 +1404,7 @@ Regulation 7(a)
 - Warborough, Wardington, Watchfield, Waterperry, Waterstock, Watlington, Wendlebury, West Challow, West Hagbourne, West Hanney, West Hendred, Westcot Barton, Weston on the Green, Westwell, Wheatfield, Whitchurch, Wigginton, Woodcote, Woodeaton, Woodstock, Woolstone, Wootton (in the district of the Vale of the White Horse), Wootton (in the district of West Oxfordshire), Worton, Wroxton, Wytham,
 - Yarnton.
 
-### PART 7 — SURREY[^key-4eeaef02275926d60304c576fa8f5769]
+### PART 7 — SURREY[^c-4eeaef02275926d60304c576fa8f5769]
 
 - Abinger, Albury, Alfold,
 - Betchworth, Bletchingley, Bramley, Brockham, Buckland, Busbridge,
@@ -1424,7 +1424,7 @@ Regulation 7(a)
 - Tandridge, Tatsfield, Thursley, Tilford, Titsey,
 - Wanborough, West Clandon, Wisley, Wonersh, Wotton.
 
-### PART 8 — WEST BERKSHIRE[^key-feaed041456d7360f2a04ad04499c67e]
+### PART 8 — WEST BERKSHIRE[^c-feaed041456d7360f2a04ad04499c67e]
 
 - Aldermaston, Aldworth, Arborfield and Newland, Ashampstead,
 - Barkham, Basildon, Beech Hill, Beedon, Beenham, Bisham, Boxford, Bradfield, Brightwalton, Brimpton, Bucklebury,
@@ -1446,7 +1446,7 @@ Regulation 7(a)
 - Waltham St. Lawrence, Warfield, Wasing, Welford, West Ilsley, West Woodhay, White Waltham, Winterbourne, Wokefield, Woolhampton, Wraysbury,
 - Yattendon.
 
-### PART 9 — WEST SUSSEX[^key-78231fab48240a167c0f5b7e2bad5d2b]
+### PART 9 — WEST SUSSEX[^c-78231fab48240a167c0f5b7e2bad5d2b]
 
 - Albourne, Aldingbourne, Amberley, Appledram, Ardingly, Arundel, Ashurst,
 - Balcombe, Barlavington, Bepton, Bignor, Birdham, Bolney, Bosham, Boxgrove, Broadbridge Heath, Burpham, Bury,
@@ -1473,7 +1473,7 @@ Regulation 7(a)
 
 Regulation 7(b)
 
-### PART 1 — BUCKINGHAMSHIRE[^key-cdd0627a42175a4c50976a6268bc279c]
+### PART 1 — BUCKINGHAMSHIRE[^c-cdd0627a42175a4c50976a6268bc279c]
 
 The parishes of—
 
@@ -1489,7 +1489,7 @@ The parishes of—
 - Wendover.
 - The unparished area[^f00061] bounded by the parishes of Castlethorpe, Haversham-cum-Little Linford, Stantonbury, Bradwell Abbey, Shenley Church End, Whaddon and Beachampton and the parishes of Deanshanger, Old Stratford and Cosgrove in Northamptonshire.
 
-### PART 2 — EAST SUSSEX[^key-5376a9d8b0231b345d505a2b090634d2]
+### PART 2 — EAST SUSSEX[^c-5376a9d8b0231b345d505a2b090634d2]
 
 The parishes of—
 
@@ -1502,7 +1502,7 @@ The parishes of—
 - Willingdon and Jevington.
 - The unparished area [^f00062] bounded by the parishes of Newhaven, South Heighton, Alfriston and Cuckmere Valley.
 
-### PART 3 — HAMPSHIRE[^key-3dbb9d6073886704b0a34fc37a5cd0d5]
+### PART 3 — HAMPSHIRE[^c-3dbb9d6073886704b0a34fc37a5cd0d5]
 
 The parishes of—
 
@@ -1523,7 +1523,7 @@ The parishes of—
 - Wellow, Whitchurch, Whitehill.
 - The unparished area[^f00063] bounded by the parishes of Smannell, St. Mary Bourne, Longparish, Goodworth Clatford, Upper Clatford, Abbotts Ann, Monxton, Penton Mewsey, Charlton and Tangley.
 
-### PART 4 — ISLE OF WIGHT[^key-1f568bede12b457a28f29301bbad9fc4]
+### PART 4 — ISLE OF WIGHT[^c-1f568bede12b457a28f29301bbad9fc4]
 
 The parishes of—
 
@@ -1534,7 +1534,7 @@ The parishes of—
 - Ventnor.
 - The unparished area [^f00064] bounded by the parishes of Wootton Bridge, Nettlestone & Seaview, Brading, Newchurch, Arreton, Gatcombe, Shorwell, Brighstone, Calbourne, Gurnard and Cowes.
 
-### PART 5 — KENT[^key-65c314c0e9a59117e249ad4175718f52]
+### PART 5 — KENT[^c-65c314c0e9a59117e249ad4175718f52]
 
 The parishes of—
 
@@ -1554,7 +1554,7 @@ The parishes of—
 - The unparished area [^f00066] bounded by the parishes of St Nicholas at Wade, Chislet, Hoath, Sturry, Hackington and Chestfield.
 - The unparished area [^f00067] bounded by the parishes of Chestfield, St Cosmus and St Damian in the Blean, Dunkirk, Hernhill, Graveney with Goodnestone and Leysdown.
 
-### PART 6 — OXFORDSHIRE[^key-aad209a472aae42896c6ca7da947c32f]
+### PART 6 — OXFORDSHIRE[^c-aad209a472aae42896c6ca7da947c32f]
 
 The parishes of—
 
@@ -1563,7 +1563,7 @@ The parishes of—
 - Gosford and Water Eaton,
 - Thame.
 
-### PART 7 — SURREY[^key-b578daa33e9712c82e9ef28c71a7969b]
+### PART 7 — SURREY[^c-b578daa33e9712c82e9ef28c71a7969b]
 
 The parishes of—
 
@@ -1576,7 +1576,7 @@ The parishes of—
 - The unparished area [^f00070] bounded by the parishes of Chelsham and Fairleigh, Oxted, Tandridge, Godstone, Bletchingley, the borough constituency of Reigate[^f00071] and the London borough of Croydon.
 - The unparished area of the county constituency of Woking [^f00072] excluding the parishes of Byfleet, Pirbright, Normandy and Ash.
 
-### PART 8 — WEST BERKSHIRE[^key-40a5ebb4f605e12ffa4e925689ee6b4b]
+### PART 8 — WEST BERKSHIRE[^c-40a5ebb4f605e12ffa4e925689ee6b4b]
 
 The parishes of—
 
@@ -1587,7 +1587,7 @@ The parishes of—
 - Thatcham, Theale,
 - Wargrave, Winkfield, Wokingham Without.
 
-### PART 9 — WEST SUSSEX[^key-d7d8b35091d263b7fa4cdc10816e84a8]
+### PART 9 — WEST SUSSEX[^c-d7d8b35091d263b7fa4cdc10816e84a8]
 
 The parishes of—
 
@@ -1608,7 +1608,7 @@ The parishes of—
 
 Regulation 8(a)
 
-### PART 1 — DERBYSHIRE[^key-8711765d526633f91f968a87492c99f1]
+### PART 1 — DERBYSHIRE[^c-8711765d526633f91f968a87492c99f1]
 
 - Abney and Abney Grange, Aldercar and Langley Mill, Alderwasley, Aldwark, Alkmorton, Ash, Ashford in the Water, Ashleyhay, Ashover, Aston, Aston upon Trent, Atlow, Ault Hucknall,
 - Bakewell, Ballidon, Bamford, Barlborough, Barlow, Barrow upon Trent, Barton Blount, Baslow and Bubnell, Bearwardcote, Beeley, Biggin, Birchover, Blackwell, Blackwell in the Peak, Bonsall, Boylestone, Brackenfield, Bradbourne, Bradley, Bradwell, Brailsford, Brampton, Brassington, Breadsall, Bretby, Brough and Shatton, Brushfield, Burnaston, Buxworth and Brownside,
@@ -1633,7 +1633,7 @@ Regulation 8(a)
 - Walton upon Trent, Wardlow, Wessington, West Hallam, Weston Underwood, Weston upon Trent, Wheston, Willington, Windley, Winster, Woodville, Wormhill,
 - Yeaveley, Yeldersley, Youlgreave.
 
-### PART 2 — LEICESTERSHIRE[^key-7109938b8f292f1890d73c70727704d8]
+### PART 2 — LEICESTERSHIRE[^c-7109938b8f292f1890d73c70727704d8]
 
 - Ab Kettleby, Allexton, Appleby Magna, Arnesby, Ashby Woulds, Ashfordby, Ashby Magna, Ashby Parva, Aswell, Aston Flamville, Ayston,
 - Bagworth, Bardon, Barkby, Barkby Thorpe, Barlestone, Barleythorpe, Barrow, Barrowden, Beaumont Chase, Beeby, Belton, Belton in Rutland, Belvoir, Billesdon, Bisbrooke, Bittesby, Bitteswell, Blaby, Blaston, Bottesford, Braunston in Rutland, Breedon on the Hill, Bringhurst, Brooke, Broughton and Old Dalby, Bruntingthorpe, Buckminster, Burley, Burton and Dalby, Burton on the Wolds, Burton Overy,
@@ -1656,7 +1656,7 @@ Regulation 8(a)
 - Ullesthorpe, Ulverscroft,
 - Waltham, Walton on the Wolds, Wanlip, Wardley, Welham, West Langton, Westrill and Starmore, Whatborough, Whissendine, Whitwell, Wigston Parva, Willough by Waterleys, Wing, Wistow, Withcote, Witherley, Woodhouse, Worthington, Wymeswold, Wymondham.
 
-### PART 3 — LINCOLNSHIRE[^key-213a2c34cc8972fe5aab5f5c9127f7a9]
+### PART 3 — LINCOLNSHIRE[^c-213a2c34cc8972fe5aab5f5c9127f7a9]
 
 - Aby with Greenfield, Addlethorpe, Aisthorpe, Alford, Algarkirk, Allington, Alvingham, Amber Hill, Ancaster, Anderby, Anwick, Apley, Asgarby and Howell, Ashby de Launde & Bloxholm, Ashby with Scremby, Aslackby and Laughton, Asterby, Aswarby and Swarby, Aswardby, Aubourn Haddington and South Hykeham, Aunsby and Dembleby, Authorpe,
 - Bardney, Barholm and Stow, Barkston, Barlings, Barrowby, Bassingham, Baston, Baumber, Beckingham, Beesby with Saleby, Belchford, Belleau, Belton with Manthorpe, Benington, Benniworth, Bicker, Bigby, Billingborough, Billinghay, Bilsby, Binbrook, Bishop Norton, Bitchfield and Bassingthorpe, Blankney, Blyborough, Blyton, Bolingbroke, Boothby Graffoe, Boothby Pagnell, Braceborough with Wilsthorpe, Braceby and Sapperton, Brackenborough with Little Grimsby, Brampton, Brant Broughton and Stragglethorpe, Bratoft, Brattleby, Brauncewell, Brinkhill, Broadholme, Brocklesby, Broxholme, Bucknall, Bullington, Burgh le Marsh, Burgh on Bain, Burton, Burton Coggles, Burton Pedwardine, Burwell, Buslingthorpe, Butterwick,
@@ -1680,7 +1680,7 @@ Regulation 8(a)
 - Uffington, Ulceby with Fordington, Upton, Utterby,
 - Waddingham, Waddington, Waddingworth, Wainfleet All Saints, Wainfleet St Mary, Waithe, Walcot Near Folkingham, Walcott, Walesby, Walkerith, Walmsgate, Welbourn, Welby, Well, Wellingore, Welton, Welton le Marsh, Welton le Wold, West Ashby, West Barkwith, West Deeping, West Fen, West Firsby, West Keal, West Rasen, West Torrington, Westborough and Dry Doddington, Weston, Whaplode, Wickenby, Wigtoft, Wildmore, Wildsworth, Willingham, Willoughby with Sloothby, Willoughton, Wilsford, Witham on the Hill, Withcall, Withern with Stain, Wood Enderby, Woodhall Spa, Woolsthorpe, Wragby, Wrangle, Wyberton, Wyham cum Cadeby, Wycliffe cum Hungerton, Yarburgh.
 
-### PART 4 — NORTHAMPTONSHIRE[^key-1ecebd3848505b3e994f3a2f72d1ede4]
+### PART 4 — NORTHAMPTONSHIRE[^c-1ecebd3848505b3e994f3a2f72d1ede4]
 
 - Abthorpe, Adstone, Aldwincle, Althorp, Apethorpe, Arthingworth, Ashby St Ledgers, Ashley, Ashton (in the district of East Northamptonshire), Ashton (in the district of South Northamptonshire), Aston le Walls, Aynho,
 - Badby, Barby, Barnwell, Benefield, Blakesley, Blatherwycke, Blisworth, Boddington, Boughton, Bozeat, Bradden, Brafield on the Green, Brampton Ash, Braunston, Braybrooke, Brigstock, Brington, Brockhall, Broughton, Bugbrooke, Bulwick, Byfield,
@@ -1705,7 +1705,7 @@ Regulation 8(a)
 - Wadenhoe, Wakerley, Walgrave, Wappenham, Warkton, Warkworth, Warmington, Watford, Weedon Bec, Weekley, Weldon, Welford, Welton, West Haddon, Weston and Weedon, Weston by Welland, Whilton, Whitfield, Whittlebury, Wicken, Wilbarston, Wilby, Winwick, Wollaston, Woodend, Woodford, Woodford cum Membris, Woodnewton,
 - Yardley Gobion, Yardley Hastings, Yarwell, Yelvertoft.
 
-### PART 5 — NOTTINGHAMSHIRE[^key-da77f73cfd218ed1f283aeb8ea9e59b4]
+### PART 5 — NOTTINGHAMSHIRE[^c-da77f73cfd218ed1f283aeb8ea9e59b4]
 
 - Alverton, Annesley, Askham, Aslockton, Averham, Awsworth,
 - Babworth, Barnby in the Willows, Barnby Moor, Barton in Fabis, Bathley, Beckingham, Besthorpe, Bestwood St Albans, Bevercotes, Bilsthorpe, Bleasby, Blyth, Bole, Bothamsall, Bradmore, Brinsley, Bunny, Broadholme,
@@ -1731,7 +1731,7 @@ Regulation 8(a)
 
 Regulation 8(b)
 
-### PART 1 — DERBYSHIRE[^key-e3abd1af3568b528144f0c24b32fcb1a]
+### PART 1 — DERBYSHIRE[^c-e3abd1af3568b528144f0c24b32fcb1a]
 
 The parishes of—
 
@@ -1749,7 +1749,7 @@ The parishes of—
 - The unparished area[^f00074] bounded by the parishes of Chapel en le Frith, Wormhill, Green Fairfield, King Sterndale and Hartington Upper Quarter.
 - The unparished area[^f00075] bounded by the parishes of Tintwhistle, Charlesworth and by the county constituency of Stalybridge and Hyde in Greater Manchester[^f00076].
 
-### PART 2 — LEICESTERSHIRE[^key-18ba736297243536c7af34aba7d9082f]
+### PART 2 — LEICESTERSHIRE[^c-18ba736297243536c7af34aba7d9082f]
 
 The parishes of—
 
@@ -1763,7 +1763,7 @@ The parishes of—
 - The unparished area[^f00079] bounded by the parishes of Thurlaston, Potters Marston, Elmesthorpe, Burbage, Higham on the Hill, Stoke Golding, Peckleton; and the county constituency of Nuneaton[^f00080].
 - The unparished area [^f00081] bounded by the parishes of Belton, Charley, Bardon, Markfield, Stanton-under-Bardon, Ibstock, Ravenstone with Snibstone, Swannington and Osgathorpe.
 
-### PART 3 — LINCOLNSHIRE[^key-9c3b90741fad7bacfd55706d38e5fd59]
+### PART 3 — LINCOLNSHIRE[^c-9c3b90741fad7bacfd55706d38e5fd59]
 
 The parishes of—
 
@@ -1777,7 +1777,7 @@ The parishes of—
 - Sleaford,
 - Welton.
 
-### PART 4 — NORTHAMPTONSHIRE[^key-7570e95d09a94365f4b9011820b22dbf]
+### PART 4 — NORTHAMPTONSHIRE[^c-7570e95d09a94365f4b9011820b22dbf]
 
 The parishes of—
 
@@ -1787,7 +1787,7 @@ The parishes of—
 - Titchmarsh, Towcester,
 - Upton.
 
-### PART 5 — NOTTINGHAMSHIRE[^key-ab6571e4ca6fec8c4b604a5ddecbfd6a]
+### PART 5 — NOTTINGHAMSHIRE[^c-ab6571e4ca6fec8c4b604a5ddecbfd6a]
 
 The parishes of—
 
@@ -1804,7 +1804,7 @@ The parishes of—
 
 Regulation 9(a)
 
-### PART 1 — EAST RIDING OF YORKSHIRE[^key-7b7f36fd15d2abc8f1ff10dff1de2de6]
+### PART 1 — EAST RIDING OF YORKSHIRE[^c-7b7f36fd15d2abc8f1ff10dff1de2de6]
 
 - Airmyn, Aldbrough, Allerthorpe, Asselby, Atwick,
 - Bainton, Barmby Moor, Barmby on the Marsh, Barmston, Beeford, Bempton, Beswick, Bewholme, Bielby, Bilton, Bishop Burton, Bishop Wilton, Blacktoft, Boynton, Brandesburton, Brantingham, Broomfleet, Bubwith, Bugthorpe, Burstwick, Burton Agnes, Burton Constable, Burton Fleming, Burton Pidsea,
@@ -1827,7 +1827,7 @@ Regulation 9(a)
 - Walkington, Warter, Watton, Wawne, Welton, Welwick, Wetwang, Wilberfoss, Withernwick, Wold Newton (split between the District of Cleethorpes and the District of East Yorkshire), Wressle,
 - Yapham.
 
-### PART 2 — NORTH EAST LINCOLNSHIRE[^key-6f20e3318196914c5c1e598e867b1c5e]
+### PART 2 — NORTH EAST LINCOLNSHIRE[^c-6f20e3318196914c5c1e598e867b1c5e]
 
 - Ashby cum Fenby, Aylesby,
 - Barnoldby le Beck, Beelsby, Bradley, Brigsley,
@@ -1837,7 +1837,7 @@ Regulation 9(a)
 - Stallingborough,
 - West Ravendale, Wold Newton (split between Cleethorpes District and East Yorkshire District).
 
-### PART 3 — NORTH LINCOLNSHIRE[^key-894204eee262467db3ec8d1a82f3a9a0]
+### PART 3 — NORTH LINCOLNSHIRE[^c-894204eee262467db3ec8d1a82f3a9a0]
 
 - Alkborough, Amcotts, Appleby, Aylesby,
 - Barnetby le Wold, Barrow upon Humber, Bonby, Burringham, Burton upon Stather,
@@ -1857,7 +1857,7 @@ Regulation 9(a)
 - Ulceby,
 - West Butterwick, West Halton, Whitton, Winteringham, Wootton, Worlaby, Wrawby, Wroot.
 
-### PART 4 — NORTH YORKSHIRE[^key-302187f18de914ef6331bb1f630df70d]
+### PART 4 — NORTH YORKSHIRE[^c-302187f18de914ef6331bb1f630df70d]
 
 - Acaster Malbis, Acaster Selby, Acklam, Ainderby Mires with Holtby, Ainderby Quernhow, Ainderby Steeple, Airton, Aiskew, Aislaby (in the district of Scarborough), Aislaby (in the district of Ryedale), Akebar, Aldborough, Aldfield, Aldwark, Allerston, Allerton Mauleverer with Hopperton, Alne, Amotherby, Ampleforth, Angram Grange, Appleton East and West, Appleton Roebuck, Appleton Wiske, Appleton Le Moors, Appleton Le Street with Easthorpe, Appletreewick, Arkendale, Arkengarthdale, Arncliffe, Arrathorne, Asenby, Aske, Askham Bryan, Askham Richard, Askrigg, Askwith, Austwick, Aysgarth, Azerley,
 - Bagby, Bainbridge, Baldersby, Balk, Balne, Bank Newton, Barden (in the district of Richmondshire), Barden (in the district of Craven), Barkston Ash, Barlow, Barnby, Barton, Barton le Street, Barton le Willows, Barugh (Great and Little), Beadlam, Beal, Beamsley, Bedale, Bellerby, Beningbrough, Bentham, Bewerley, Biggin, Bilbrough, Bilsdale Midcable, Bilton in Ainsty with Bickerton, Birdforth, Birdsall, Birkby, Birkin, Birstwith, Bishop Monkton, Bishop Thornton, Bishopdale, Blubberhouses, Boltby, Bolton Abbey, Bolton Percy, Bolton on Swale, Bordley, Boroughbridge, Borrowby (in the district of Hambleton), Borrowby (in the district of Scarborough), Bradleys Both, Brafferton, Brandsby cum Stearsby, Bransdale, Brawby, Brearton, Bridge Hewick, Brompton (in the district of Scarborough), Brompton (in the district of Hambleton), Brompton on Swale, Brotherton, Brough with St Giles, Broughton (in the district of Ryedale), Broughton (in the district of Craven), Broxa cum Troutsdale, Buckden, Bulmer, Burn, Burneston, Burniston, Burnsall, Burrill with Cowling, Burton cum Walden, Burton in Lonsdale, Burton Leonard, Burton Salmon, Burton on Yore, Burythorpe, Buttercrambe with Bossall, Byland with Wass, Byram cum Sutton,
@@ -1881,7 +1881,7 @@ Regulation 9(a)
 - Walburn, Walden Stubbs, Walkingham Hill with Occaney, Warlaby, Warsill, Warthill, Wath, Weaverthorpe, Weeton, Welburn (Amotherby Ward in the district of Ryedale), Welburn (Kirkbymoorside Ward in the district of Ryedale), Welbury, Well, Wensley, West Ayton, West Haddlesey, West Harlsey, West Hauxwell, West Layton, West Rounton, West Scrafton, West Tanfield, West Witton, Westerdale, Weston, Westow, Westwick, Wharram, Whashton, Wheldrake, Whenby, Whitley, Whitwell, Whitwell on the Hill, Whixley, Whorlton, Wig glesworth, Wighill, Wildon Grange, Willerby, Wilstrop, Wilton, Winksley, Winton Stank and Hallikeld, Wintringham, Wistow, Wombleton, Womersley, Wrelton, Wykeham,
 - Yafforth, Yearsley, Youlton.
 
-### PART 5 — SOUTH YORKSHIRE[^key-e233abe5dae68a49ede36b4de681f87b]
+### PART 5 — SOUTH YORKSHIRE[^c-e233abe5dae68a49ede36b4de681f87b]
 
 - Auckley, Austerfield,
 - Barnburgh, Bawtry, Billingley, Blaxton, Braithwell, Burghwallis,
@@ -1901,7 +1901,7 @@ Regulation 9(a)
 - Ulley,
 - Wadworth, Wentworth, Woodsetts, Wortley.
 
-### PART 6 — WEST YORKSHIRE[^key-0583856b2cb6d2748c873db7d1cfce86]
+### PART 6 — WEST YORKSHIRE[^c-0583856b2cb6d2748c873db7d1cfce86]
 
 - Aberford, Addingham, Austhorpe,
 - Badsworth, Bardsey cum Rigton, Barwick in Elmet and Scholes, Blackshaw, Bramham cum Oglethorpe,
@@ -1925,7 +1925,7 @@ Regulation 9(a)
 
 Regulation 9(b)
 
-### PART 1 — EAST RIDING OF YORKSHIRE[^key-ba0af3a853ea69db10df805dd0b17962]
+### PART 1 — EAST RIDING OF YORKSHIRE[^c-ba0af3a853ea69db10df805dd0b17962]
 
 The parishes of—
 
@@ -1934,11 +1934,11 @@ The parishes of—
 - South Cave,
 - Woodmansey.
 
-### PART 2 — NORTH LINCOLNSHIRE[^key-10fa39c79e467d88043ac9759bb041da]
+### PART 2 — NORTH LINCOLNSHIRE[^c-10fa39c79e467d88043ac9759bb041da]
 
 - The parish of Bottesford.
 
-### PART 3 — NORTH YORKSHIRE[^key-81a08acdcf49ea163a6358e459eeebbb]
+### PART 3 — NORTH YORKSHIRE[^c-81a08acdcf49ea163a6358e459eeebbb]
 
 The parishes of—
 
@@ -1955,7 +1955,7 @@ The parishes of—
 - Whitby.
 - The unparished area[^f00087] bounded by the parishes of Nida, Brearton, Scotton, Knaresborough, Plompton, Follifoot, Spofforth with Stockfield, Kirkby Overblow, North Rigton, Pannal and Killinghall.
 
-### PART 4 — SOUTH YORKSHIRE[^key-64e227d93b2350123ccb129387934926]
+### PART 4 — SOUTH YORKSHIRE[^c-64e227d93b2350123ccb129387934926]
 
 The parishes of—
 
@@ -1969,7 +1969,7 @@ The parishes of—
 - Thurcroft,
 - Whiston.
 
-### PART 5 — WEST YORKSHIRE[^key-f2641328f30efff2675b7c8c591a81b9]
+### PART 5 — WEST YORKSHIRE[^c-f2641328f30efff2675b7c8c591a81b9]
 
 The parishes of—
 
@@ -1998,47 +1998,47 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00001]: Footnote: [1967. c. 88](https://www.legislation.gov.uk/ukpga/1967/88). The power conferred by paragraph 4A(3) of Schedule 4A of the Leasehold Reform Act 1967 (“the 1967 Act”) is exercisable, as respects England, by the Secretary of State. See the definition of the “appropriate national authority” in paragraph 7 of Schedule 4A to the 1967 Act. Schedule 4A to the 1967 Act was inserted by Schedule 4 to the Housing and Planning Act [1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63). Paragraph 4A of Schedule 4A to the 1967 Act was inserted by section 302(1) of the Housing and Regeneration Act [2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17).
 
-[^key-a5349e24b9709ec11f41f8c5ae015f76]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/2098/article/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-a5349e24b9709ec11f41f8c5ae015f76]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2009/2098/article/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-45cc6493ce9eb135c5b56363db68f6df]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/2098/article/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-45cc6493ce9eb135c5b56363db68f6df]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/2098/article/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-f3f28c62e8bed52af197911ccb1ab318]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/2098/article/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-f3f28c62e8bed52af197911ccb1ab318]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2009/2098/article/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-056a5e2b8051533b280c36f40a8ee54d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/2098/article/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-056a5e2b8051533b280c36f40a8ee54d]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2009/2098/article/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-1a71415699cf31f513c98ca01c902d8c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/2098/article/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-1a71415699cf31f513c98ca01c902d8c]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/2098/article/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-e2fbe699a4592800b452665f60dd3f4c]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/2098/article/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-e2fbe699a4592800b452665f60dd3f4c]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2009/2098/article/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-af58dfaea188a0eb38d3606964504fd3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/2098/article/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-af58dfaea188a0eb38d3606964504fd3]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2009/2098/article/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-a3c2e11259b8aa0a652aed39f2fe80ad]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/2098/article/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-a3c2e11259b8aa0a652aed39f2fe80ad]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2009/2098/article/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-831c7bed9cf46c51873f847df17b95fb]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/2098/article/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-831c7bed9cf46c51873f847df17b95fb]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2009/2098/article/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-6ab00ed4c62039adda3b8b9239c3e8a0]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-6ab00ed4c62039adda3b8b9239c3e8a0]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-494fe95dbbd0ac297b4763d43cf431d2]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-494fe95dbbd0ac297b4763d43cf431d2]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-adf84595d7b4bfd4688bef2b594ee1ff]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-adf84595d7b4bfd4688bef2b594ee1ff]: Commencement: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-03e483afc76d566fd69d54e28cf99aa9]: Commencement: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-03e483afc76d566fd69d54e28cf99aa9]: Commencement: [Sch. 1 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-9c9d63add3ec0490c1ff4c5e1e03ae5c]: Commencement: [Sch. 1 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-9c9d63add3ec0490c1ff4c5e1e03ae5c]: Commencement: [Sch. 1 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-2a8d994ae17b39faa5a07e825bdaaa65]: Commencement: [Sch. 1 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-2a8d994ae17b39faa5a07e825bdaaa65]: Commencement: [Sch. 1 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/1/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-98cf7cd6398029e60a42d20c6aa802ab]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-98cf7cd6398029e60a42d20c6aa802ab]: Commencement: [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-584486ee15ca84564a5fc479dbe8d8b4]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-584486ee15ca84564a5fc479dbe8d8b4]: Commencement: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-15239a5070ed33cf320cc578d2469527]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-15239a5070ed33cf320cc578d2469527]: Commencement: [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-18df2481bba0f3c56266d04466d658de]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-18df2481bba0f3c56266d04466d658de]: Commencement: [Sch. 2 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-a6fa18fdd8b8b6c900f2596e42606453]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-a6fa18fdd8b8b6c900f2596e42606453]: Commencement: [Sch. 2 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-229e77afc29f12d115ba671e1ea970f3]: Commencement: [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-229e77afc29f12d115ba671e1ea970f3]: Commencement: [Sch. 2 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/2/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00002]: Footnote: Containing the settlement of Bromsgrove.
 
@@ -2046,67 +2046,67 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00004]: Footnote: Containing the settlement of Redditch.
 
-[^key-79aaf714b702bbb47a3dc5039c233e98]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-79aaf714b702bbb47a3dc5039c233e98]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-aa9d0dd22b3376bd317fee6c033aaf53]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-aa9d0dd22b3376bd317fee6c033aaf53]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-007ab7d1132c0c78bf309217bd10ac13]: Commencement: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-007ab7d1132c0c78bf309217bd10ac13]: Commencement: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-5c2efd0e7224c72eea485a408e417dc8]: Commencement: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-5c2efd0e7224c72eea485a408e417dc8]: Commencement: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-e17a6edd7c980f31464ba891fe539824]: Commencement: [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-e17a6edd7c980f31464ba891fe539824]: Commencement: [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-1ae2783cf3f7b51f95392014fbdfd889]: Commencement: [Sch. 3 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-1ae2783cf3f7b51f95392014fbdfd889]: Commencement: [Sch. 3 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-572193e7e5d63d1f7539781cb7cd3dcb]: Commencement: [Sch. 3 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-572193e7e5d63d1f7539781cb7cd3dcb]: Commencement: [Sch. 3 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-25e002a5537df49aa2fabb69acc4c5c0]: Commencement: [Sch. 3 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-25e002a5537df49aa2fabb69acc4c5c0]: Commencement: [Sch. 3 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-655019e9d03bf666961e0a72b08b5afa]: Commencement: [Sch. 3 Pt. 9](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-655019e9d03bf666961e0a72b08b5afa]: Commencement: [Sch. 3 Pt. 9](https://www.legislation.gov.uk/uksi/2009/2098/schedule/3/part/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-b9282241f07e03266e9ac64d7eddabaa]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-b9282241f07e03266e9ac64d7eddabaa]: Commencement: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00005]: Footnote: Designated a borough constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-a731378535bf2281e159faa1dc8ea3bd]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-a731378535bf2281e159faa1dc8ea3bd]: Commencement: [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00006]: Footnote: Containing the settlement of St Austell
 
-[^key-c27b7e308be1bf2821724e859a990d83]: Commencement: [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-c27b7e308be1bf2821724e859a990d83]: Commencement: [Sch. 4 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00007]: Footnote: Containing the settlement of Exmouth.
 
 [^f00008]: Footnote: Containing the settlement of Torbay.
 
-[^key-e0353e09292fb5a5b9f8334c4f402026]: Commencement: [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-e0353e09292fb5a5b9f8334c4f402026]: Commencement: [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-6dcd0bebc2fc5a67dc8c1939e0b3df74]: Commencement: [Sch. 4 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-6dcd0bebc2fc5a67dc8c1939e0b3df74]: Commencement: [Sch. 4 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-db4e3e31bbed2497f51dd045b04164ca]: Commencement: [Sch. 4 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-db4e3e31bbed2497f51dd045b04164ca]: Commencement: [Sch. 4 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-e57b1f12ca7fc834564537bf492c24bc]: Commencement: [Sch. 4 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-e57b1f12ca7fc834564537bf492c24bc]: Commencement: [Sch. 4 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-73b902b1b0f7f81a7f6f41cdac38c1ad]: Commencement: [Sch. 4 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-73b902b1b0f7f81a7f6f41cdac38c1ad]: Commencement: [Sch. 4 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-d77b866c86a8e324072fc279df77a50d]: Commencement: [Sch. 4 Pt. 9](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-d77b866c86a8e324072fc279df77a50d]: Commencement: [Sch. 4 Pt. 9](https://www.legislation.gov.uk/uksi/2009/2098/schedule/4/part/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-ee9839b1adecfe9e74c4127b8cd5a80a]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-ee9839b1adecfe9e74c4127b8cd5a80a]: Commencement: [Sch. 5 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-602b5dbe6c6c6742044e01f1bc429b67]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-602b5dbe6c6c6742044e01f1bc429b67]: Commencement: [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-9f9f443abd2e707c8314e82bbd03c8b9]: Commencement: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-9f9f443abd2e707c8314e82bbd03c8b9]: Commencement: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-12c7e921972bd362436e49e942c858b3]: Commencement: [Sch. 5 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-12c7e921972bd362436e49e942c858b3]: Commencement: [Sch. 5 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-bad819550b8e0ef29a319377aa6aa208]: Commencement: [Sch. 5 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-bad819550b8e0ef29a319377aa6aa208]: Commencement: [Sch. 5 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-78b5e18d945336b19a4db2d88a7ceb79]: Commencement: [Sch. 5 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-78b5e18d945336b19a4db2d88a7ceb79]: Commencement: [Sch. 5 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-7f945515a97815db6e13843decdea5f8]: Commencement: [Sch. 5 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-7f945515a97815db6e13843decdea5f8]: Commencement: [Sch. 5 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-45a4c4176376fb15e596a18065daebf8]: Commencement: [Sch. 5 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-45a4c4176376fb15e596a18065daebf8]: Commencement: [Sch. 5 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/5/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-b00dd60e853e7548cade1795a15be83c]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-b00dd60e853e7548cade1795a15be83c]: Commencement: [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00009]: Footnote: Containing the settlement of Crewe.
 
@@ -2116,11 +2116,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00012]: Footnote: Designated a borough constituency of Greater Manchester by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amending instruments not relevant to this Order.
 
-[^key-66159adcae34a92c4ac1cc92a76088fa]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-66159adcae34a92c4ac1cc92a76088fa]: Commencement: [Sch. 6 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00013]: Footnote: Designated a county constituency of Cheshire West and Cheshire Council by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amending instruments not relevant to this Order.
 
-[^key-40e3672bb93f54ef4ac03bdc38a418f1]: Commencement: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-40e3672bb93f54ef4ac03bdc38a418f1]: Commencement: [Sch. 6 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00014]: Footnote: Containing the settlement of Barrow in Furness.
 
@@ -2128,7 +2128,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00016]: Footnote: Containing the settlement of Whitehaven.
 
-[^key-410e9411ed620910df26470665edbaa9]: Commencement: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-410e9411ed620910df26470665edbaa9]: Commencement: [Sch. 6 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00017]: Footnote: Designated a county constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
@@ -2138,7 +2138,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00020]: Footnote: Designated a county constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-afaa1fb733ddc4f6a4396d857eb7f57d]: Commencement: [Sch. 6 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-afaa1fb733ddc4f6a4396d857eb7f57d]: Commencement: [Sch. 6 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00021]: Footnote: Containing the settlement of Pendle.
 
@@ -2158,7 +2158,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00029]: Footnote: Designated a borough constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-708c626ce212fc3cf4b5502b93e68105]: Commencement: [Sch. 6 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-708c626ce212fc3cf4b5502b93e68105]: Commencement: [Sch. 6 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00030]: Footnote: Containing the settlement of Crosby.
 
@@ -2168,27 +2168,27 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00033]: Footnote: Designated a county constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-7701ce2b60df11333f69f57aea8acb52]: Commencement: [Sch. 6 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-7701ce2b60df11333f69f57aea8acb52]: Commencement: [Sch. 6 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/6/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-78b0332e4bc47ae283253dfdeab4e562]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-78b0332e4bc47ae283253dfdeab4e562]: Commencement: [Sch. 7 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-1765e59ea5595d3c8a63241904459a07]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-1765e59ea5595d3c8a63241904459a07]: Commencement: [Sch. 7 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-c0b189df288a3c5e7da89e4938d3ccd1]: Commencement: [Sch. 7 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-c0b189df288a3c5e7da89e4938d3ccd1]: Commencement: [Sch. 7 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-0fc77e2bd954164623bcb5ff441fae77]: Commencement: [Sch. 7 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-0fc77e2bd954164623bcb5ff441fae77]: Commencement: [Sch. 7 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-c8dfce871cd57f133a9ce06eb45a3501]: Commencement: [Sch. 7 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-c8dfce871cd57f133a9ce06eb45a3501]: Commencement: [Sch. 7 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-1ef9a8bc08ef9b1c39dae4b0d6084c9a]: Commencement: [Sch. 7 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-1ef9a8bc08ef9b1c39dae4b0d6084c9a]: Commencement: [Sch. 7 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/7/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-911487e77ce8c10c9c20afc9d4235336]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-911487e77ce8c10c9c20afc9d4235336]: Commencement: [Sch. 8 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-d67fb3094d4ea11fd2d803505190d19e]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-d67fb3094d4ea11fd2d803505190d19e]: Commencement: [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00034]: Footnote: Containing the area known as Stanground North.
 
-[^key-cea3ee45147f07a938407fca3b5daed2]: Commencement: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-cea3ee45147f07a938407fca3b5daed2]: Commencement: [Sch. 8 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00035]: Footnote: Designated a county constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
@@ -2206,7 +2206,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00042]: Footnote: Designated a borough constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-ade15505e5d868c5a4f175a5d3e1a4bb]: Commencement: [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-ade15505e5d868c5a4f175a5d3e1a4bb]: Commencement: [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00043]: Footnote: Containing the settlement of Potters Bar.
 
@@ -2214,27 +2214,27 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00045]: Footnote: Designated a borough constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-c57bcde69ae9b5391e692a04031810b5]: Commencement: [Sch. 8 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-c57bcde69ae9b5391e692a04031810b5]: Commencement: [Sch. 8 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-f0ee49ba1097c84be4068f3289518561]: Commencement: [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-f0ee49ba1097c84be4068f3289518561]: Commencement: [Sch. 8 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/8/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00046]: Footnote: Containing the settlement of Newmarket.
 
-[^key-0ba530d4656d39f8caf165f77fd013e6]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-0ba530d4656d39f8caf165f77fd013e6]: Commencement: [Sch. 9 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-0f591fbba0550e71cc834a6658564cc5]: Commencement: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-0f591fbba0550e71cc834a6658564cc5]: Commencement: [Sch. 9 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-4ff22c4b6dd822c52eda09ee14d372ea]: Commencement: [Sch. 9 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-4ff22c4b6dd822c52eda09ee14d372ea]: Commencement: [Sch. 9 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-6618bcd365cac76dbfcb1c68fa75c346]: Commencement: [Sch. 9 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-6618bcd365cac76dbfcb1c68fa75c346]: Commencement: [Sch. 9 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-08ff9066f855fc86e88cd1ca049aafd5]: Commencement: [Sch. 9 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-08ff9066f855fc86e88cd1ca049aafd5]: Commencement: [Sch. 9 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-cd6706f49a8540c95078b3721082468d]: Commencement: [Sch. 9 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-cd6706f49a8540c95078b3721082468d]: Commencement: [Sch. 9 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-ac988f11426df375b2adb2b94919fc5f]: Commencement: [Sch. 9 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-ac988f11426df375b2adb2b94919fc5f]: Commencement: [Sch. 9 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/9/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-c4eb3610b25447330b7c3d887b5856ff]: Commencement: [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-c4eb3610b25447330b7c3d887b5856ff]: Commencement: [Sch. 10 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00047]: Footnote: Containing the settlement of Bishop Auckland.
 
@@ -2252,61 +2252,61 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00054]: Footnote: Designated a county constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-108ebb7b812fe17cca4aafa4061fb335]: Commencement: [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-108ebb7b812fe17cca4aafa4061fb335]: Commencement: [Sch. 10 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00055]: Footnote: Designated a borough constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-0c33d2a05b0f74fb264fab0000d75922]: Commencement: [Sch. 10 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-0c33d2a05b0f74fb264fab0000d75922]: Commencement: [Sch. 10 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00056]: Footnote: Designated a borough constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
 [^f00057]: Footnote: Designated a county constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-92084a04afeb9623f8ebaeb02f47d4c5]: Commencement: [Sch. 10 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-92084a04afeb9623f8ebaeb02f47d4c5]: Commencement: [Sch. 10 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00058]: Footnote: Designated a borough constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-f693a0e42d11008a5c9588ff2fbd4b6c]: Commencement: [Sch. 10 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-f693a0e42d11008a5c9588ff2fbd4b6c]: Commencement: [Sch. 10 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/10/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00059]: Footnote: Designated a borough constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-f4c1fe5bf5796ceb51af16f015596ed3]: Commencement: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-f4c1fe5bf5796ceb51af16f015596ed3]: Commencement: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00060]: Footnote: Containing the settlements of Tyringham and Filgrave.
 
-[^key-42c8ffefc4f4442fc4460bff6c728be6]: Commencement: [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-42c8ffefc4f4442fc4460bff6c728be6]: Commencement: [Sch. 11 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-b03e876406553378b49cf77a5e88e7b9]: Commencement: [Sch. 11 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-b03e876406553378b49cf77a5e88e7b9]: Commencement: [Sch. 11 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-48a53886148711e7ef7149bfdf8dccf7]: Commencement: [Sch. 11 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-48a53886148711e7ef7149bfdf8dccf7]: Commencement: [Sch. 11 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-33b195ff82e9c4feeb082bb7ce98ecd9]: Commencement: [Sch. 11 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-33b195ff82e9c4feeb082bb7ce98ecd9]: Commencement: [Sch. 11 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-a748480dc1c3efe1b0ed29dedd40de42]: Commencement: [Sch. 11 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-a748480dc1c3efe1b0ed29dedd40de42]: Commencement: [Sch. 11 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-4eeaef02275926d60304c576fa8f5769]: Commencement: [Sch. 11 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-4eeaef02275926d60304c576fa8f5769]: Commencement: [Sch. 11 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-feaed041456d7360f2a04ad04499c67e]: Commencement: [Sch. 11 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-feaed041456d7360f2a04ad04499c67e]: Commencement: [Sch. 11 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-78231fab48240a167c0f5b7e2bad5d2b]: Commencement: [Sch. 11 Pt. 9](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-78231fab48240a167c0f5b7e2bad5d2b]: Commencement: [Sch. 11 Pt. 9](https://www.legislation.gov.uk/uksi/2009/2098/schedule/11/part/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-cdd0627a42175a4c50976a6268bc279c]: Commencement: [Sch. 12 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-cdd0627a42175a4c50976a6268bc279c]: Commencement: [Sch. 12 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00061]: Footnote: Containing the settlement of Calverton.
 
-[^key-5376a9d8b0231b345d505a2b090634d2]: Commencement: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-5376a9d8b0231b345d505a2b090634d2]: Commencement: [Sch. 12 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00062]: Footnote: Containing the settlement of Seaford.
 
-[^key-3dbb9d6073886704b0a34fc37a5cd0d5]: Commencement: [Sch. 12 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-3dbb9d6073886704b0a34fc37a5cd0d5]: Commencement: [Sch. 12 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00063]: Footnote: Containing the settlement of Andover.
 
-[^key-1f568bede12b457a28f29301bbad9fc4]: Commencement: [Sch. 12 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-1f568bede12b457a28f29301bbad9fc4]: Commencement: [Sch. 12 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00064]: Footnote: Containing the settlements of Newport and Ryde.
 
-[^key-65c314c0e9a59117e249ad4175718f52]: Commencement: [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-65c314c0e9a59117e249ad4175718f52]: Commencement: [Sch. 12 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00065]: Footnote: Containing the settlement of Deal.
 
@@ -2314,9 +2314,9 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00067]: Footnote: Containing the settlement of Whitstable.
 
-[^key-aad209a472aae42896c6ca7da947c32f]: Commencement: [Sch. 12 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-aad209a472aae42896c6ca7da947c32f]: Commencement: [Sch. 12 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-b578daa33e9712c82e9ef28c71a7969b]: Commencement: [Sch. 12 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-b578daa33e9712c82e9ef28c71a7969b]: Commencement: [Sch. 12 Pt. 7](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/7) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00068]: Footnote: Containing the settlements of Leatherhead and Dorking.
 
@@ -2328,23 +2328,23 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00072]: Footnote: Designated a county constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-40a5ebb4f605e12ffa4e925689ee6b4b]: Commencement: [Sch. 12 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-40a5ebb4f605e12ffa4e925689ee6b4b]: Commencement: [Sch. 12 Pt. 8](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/8) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-d7d8b35091d263b7fa4cdc10816e84a8]: Commencement: [Sch. 12 Pt. 9](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-d7d8b35091d263b7fa4cdc10816e84a8]: Commencement: [Sch. 12 Pt. 9](https://www.legislation.gov.uk/uksi/2009/2098/schedule/12/part/9) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00073]: Footnote: Containing the settlement of Sullington.
 
-[^key-8711765d526633f91f968a87492c99f1]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-8711765d526633f91f968a87492c99f1]: Commencement: [Sch. 13 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-7109938b8f292f1890d73c70727704d8]: Commencement: [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-7109938b8f292f1890d73c70727704d8]: Commencement: [Sch. 13 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-213a2c34cc8972fe5aab5f5c9127f7a9]: Commencement: [Sch. 13 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-213a2c34cc8972fe5aab5f5c9127f7a9]: Commencement: [Sch. 13 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-1ecebd3848505b3e994f3a2f72d1ede4]: Commencement: [Sch. 13 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-1ecebd3848505b3e994f3a2f72d1ede4]: Commencement: [Sch. 13 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-da77f73cfd218ed1f283aeb8ea9e59b4]: Commencement: [Sch. 13 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-da77f73cfd218ed1f283aeb8ea9e59b4]: Commencement: [Sch. 13 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/13/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-e3abd1af3568b528144f0c24b32fcb1a]: Commencement: [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-e3abd1af3568b528144f0c24b32fcb1a]: Commencement: [Sch. 14 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00074]: Footnote: Containing the settlement of Buxton.
 
@@ -2352,7 +2352,7 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00076]: Footnote: Designated a county constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681), to which there are amendments not relevant to this Order.
 
-[^key-18ba736297243536c7af34aba7d9082f]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-18ba736297243536c7af34aba7d9082f]: Commencement: [Sch. 14 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00077]: Footnote: Containing the settlement of Loughborough.
 
@@ -2364,11 +2364,11 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00081]: Footnote: Containing the settlements of Coalville and Whitwick.
 
-[^key-9c3b90741fad7bacfd55706d38e5fd59]: Commencement: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-9c3b90741fad7bacfd55706d38e5fd59]: Commencement: [Sch. 14 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-7570e95d09a94365f4b9011820b22dbf]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-7570e95d09a94365f4b9011820b22dbf]: Commencement: [Sch. 14 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-ab6571e4ca6fec8c4b604a5ddecbfd6a]: Commencement: [Sch. 14 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-ab6571e4ca6fec8c4b604a5ddecbfd6a]: Commencement: [Sch. 14 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/14/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00082]: Footnote: Containing the settlement of East Retford.
 
@@ -2378,31 +2378,31 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00085]: Footnote: Designated a county constituency by [S.I. 2007/1681](https://www.legislation.gov.uk/uksi/2007/1681) to which there are amendments not relevant to this Order.
 
-[^key-7b7f36fd15d2abc8f1ff10dff1de2de6]: Commencement: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-7b7f36fd15d2abc8f1ff10dff1de2de6]: Commencement: [Sch. 15 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-6f20e3318196914c5c1e598e867b1c5e]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-6f20e3318196914c5c1e598e867b1c5e]: Commencement: [Sch. 15 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-894204eee262467db3ec8d1a82f3a9a0]: Commencement: [Sch. 15 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-894204eee262467db3ec8d1a82f3a9a0]: Commencement: [Sch. 15 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-302187f18de914ef6331bb1f630df70d]: Commencement: [Sch. 15 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-302187f18de914ef6331bb1f630df70d]: Commencement: [Sch. 15 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-e233abe5dae68a49ede36b4de681f87b]: Commencement: [Sch. 15 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-e233abe5dae68a49ede36b4de681f87b]: Commencement: [Sch. 15 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00086]: Footnote: Containing the settlement of Towthorpe.
 
-[^key-0583856b2cb6d2748c873db7d1cfce86]: Commencement: [Sch. 15 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-0583856b2cb6d2748c873db7d1cfce86]: Commencement: [Sch. 15 Pt. 6](https://www.legislation.gov.uk/uksi/2009/2098/schedule/15/part/6) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-ba0af3a853ea69db10df805dd0b17962]: Commencement: [Sch. 16 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-ba0af3a853ea69db10df805dd0b17962]: Commencement: [Sch. 16 Pt. 1](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/1) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-10fa39c79e467d88043ac9759bb041da]: Commencement: [Sch. 16 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-10fa39c79e467d88043ac9759bb041da]: Commencement: [Sch. 16 Pt. 2](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/2) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-81a08acdcf49ea163a6358e459eeebbb]: Commencement: [Sch. 16 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-81a08acdcf49ea163a6358e459eeebbb]: Commencement: [Sch. 16 Pt. 3](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/3) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00087]: Footnote: Containing the settlement of Harrogate.
 
-[^key-64e227d93b2350123ccb129387934926]: Commencement: [Sch. 16 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-64e227d93b2350123ccb129387934926]: Commencement: [Sch. 16 Pt. 4](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/4) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
-[^key-f2641328f30efff2675b7c8c591a81b9]: Commencement: [Sch. 16 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
+[^c-f2641328f30efff2675b7c8c591a81b9]: Commencement: [Sch. 16 Pt. 5](https://www.legislation.gov.uk/uksi/2009/2098/schedule/16/part/5) in force at 7.9.2009, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/2098/article/1/1)
 
 [^f00088]: Footnote: Containing the town of Keighley.
 

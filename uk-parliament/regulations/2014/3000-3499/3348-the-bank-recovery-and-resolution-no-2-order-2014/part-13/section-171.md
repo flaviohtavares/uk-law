@@ -22,10 +22,10 @@ summary: ''
 
 The Bank—
 
-- (a) must notify a [^key-277a15815b2763bb5483fac3a45572d8]... group entity if the business reorganisation plan is found on assessment to contain an impediment; and
-- (b) may not require a [^key-277a15815b2763bb5483fac3a45572d8]... group entity to revise the plan without giving it an opportunity to state its opinion on that requirement.
+- (a) must notify a [^c-277a15815b2763bb5483fac3a45572d8]... group entity if the business reorganisation plan is found on assessment to contain an impediment; and
+- (b) may not require a [^c-277a15815b2763bb5483fac3a45572d8]... group entity to revise the plan without giving it an opportunity to state its opinion on that requirement.
 
-(2) If the Bank requires a [^key-277a15815b2763bb5483fac3a45572d8]... group entity to revise the plan, the Bank—
+(2) If the Bank requires a [^c-277a15815b2763bb5483fac3a45572d8]... group entity to revise the plan, the Bank—
 
 - (a) must allow two weeks for the preparation of a plan which demonstrates that the impediment has been addressed;
 - (b) within one week beginning with the date on which a revised plan is submitted, must notify the entity whether the impediment has been adequately addressed in the revised plan; and
@@ -33,4 +33,4 @@ The Bank—
 
 ## Annotations
 
-[^key-277a15815b2763bb5483fac3a45572d8]: Textual amendment: Word in [art. 171](https://www.legislation.gov.uk/uksi/2014/3348/article/171) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 100(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/100/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-277a15815b2763bb5483fac3a45572d8]: Textual amendment: Word in [art. 171](https://www.legislation.gov.uk/uksi/2014/3348/article/171) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 100(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/100/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

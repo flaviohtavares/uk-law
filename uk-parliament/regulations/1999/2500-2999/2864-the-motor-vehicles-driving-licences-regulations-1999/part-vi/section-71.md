@@ -22,7 +22,7 @@ summary: ''
 
 (1) The following disabilities are prescribed for the purposes of section 92(2) of the Traffic Act as relevant disabilities in relation to an applicant for, or a person who holds, a Group 1 or Group 2 licence—
 
-- (a)[^key-decfb9dc02f9b79dc31d9c1ec633cd20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-decfb9dc02f9b79dc31d9c1ec633cd20] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) severe mental disorder;
 - (c) liability to sudden attacks of disabling giddiness or fainting which are caused by any disorder or defect of the heart as a result of which the applicant for the licence or, as the case may be, the holder of the licence has a device implanted in his body, being a device which, by operating on the heart so as to regulate its action, is designed to correct the disorder or defect;
 - (d) liability to sudden attacks of disabling giddiness or fainting, other than attacks falling within paragraph (1)(c); and
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-decfb9dc02f9b79dc31d9c1ec633cd20]: Textual amendment: [Reg. 71(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/71/a) omitted (8.3.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/258/regulation/2/2)
+[^c-decfb9dc02f9b79dc31d9c1ec633cd20]: Textual amendment: [Reg. 71(a)](https://www.legislation.gov.uk/uksi/1999/2864/regulation/71/a) omitted (8.3.2013) by virtue of [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2013 (S.I. 2013/258)](https://www.legislation.gov.uk/uksi/2013/258), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/258/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/258/regulation/2/2)

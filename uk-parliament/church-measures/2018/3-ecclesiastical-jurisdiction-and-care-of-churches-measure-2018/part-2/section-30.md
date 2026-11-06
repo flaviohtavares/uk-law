@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 30. Diocesan registrar: continuation[^key-de6f99bf45ec62c377c3990fc712ccd0]
+## 30. Diocesan registrar: continuation[^c-de6f99bf45ec62c377c3990fc712ccd0]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de6f99bf45ec62c377c3990fc712ccd0]: Commencement: [S. 30](https://www.legislation.gov.uk/ukcm/2018/3/section/30) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-de6f99bf45ec62c377c3990fc712ccd0]: Commencement: [S. 30](https://www.legislation.gov.uk/ukcm/2018/3/section/30) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

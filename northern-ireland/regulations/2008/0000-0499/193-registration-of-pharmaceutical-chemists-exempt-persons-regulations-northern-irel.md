@@ -31,7 +31,7 @@ summary: ''
 
 Pharmacy
 
-Registration of Pharmaceutical Chemists (Exempt Persons) Regulations (Northern Ireland) 2008 (revoked)[^key-53cf9373017294acffb84714fb17616a]
+Registration of Pharmaceutical Chemists (Exempt Persons) Regulations (Northern Ireland) 2008 (revoked)[^c-53cf9373017294acffb84714fb17616a]
 
 Made
 
@@ -41,26 +41,26 @@ Coming into operation
 
 23rd May 2008
 
-[^key-53cf9373017294acffb84714fb17616a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53cf9373017294acffb84714fb17616a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-53cf9373017294acffb84714fb17616a]
+## 1. Citation, commencement and interpretation[^c-53cf9373017294acffb84714fb17616a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Manner and content of applications by exempt persons for registration in the register of pharmaceutical chemists[^key-53cf9373017294acffb84714fb17616a]
+## 2. Manner and content of applications by exempt persons for registration in the register of pharmaceutical chemists[^c-53cf9373017294acffb84714fb17616a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Review[^key-53cf9373017294acffb84714fb17616a]
+## 3. Review[^c-53cf9373017294acffb84714fb17616a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53cf9373017294acffb84714fb17616a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53cf9373017294acffb84714fb17616a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-53cf9373017294acffb84714fb17616a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-53cf9373017294acffb84714fb17616a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-53cf9373017294acffb84714fb17616a]: Textual amendment: Regulations revoked (31.12.2020) by [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/28/b) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53cf9373017294acffb84714fb17616a]: Textual amendment: Regulations revoked (31.12.2020) by [The European Qualifications (Pharmacists) (Amendment etc.) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/585)](https://www.legislation.gov.uk/uksi/2019/585), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2019/585/schedule/paragraph/28/b) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2019/585/part/3)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [reg. 20(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/20/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Housing, England
 
-The Housing (Right to Buy) (Limit on Discount) (England) Order 2014 (revoked)[^key-d0efa3df7e7c310ea2e4e464480e362a]
+The Housing (Right to Buy) (Limit on Discount) (England) Order 2014 (revoked)[^c-d0efa3df7e7c310ea2e4e464480e362a]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 21st July 2014
 
-[^key-d0efa3df7e7c310ea2e4e464480e362a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0efa3df7e7c310ea2e4e464480e362a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and interpretation[^key-d0efa3df7e7c310ea2e4e464480e362a]
+## 1. Citation, commencement, application and interpretation[^c-d0efa3df7e7c310ea2e4e464480e362a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Maximum discount[^key-d0efa3df7e7c310ea2e4e464480e362a]
+## 2. Maximum discount[^c-d0efa3df7e7c310ea2e4e464480e362a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional Provision[^key-d0efa3df7e7c310ea2e4e464480e362a]
+## 3. Transitional Provision[^c-d0efa3df7e7c310ea2e4e464480e362a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-d0efa3df7e7c310ea2e4e464480e362a]
+## 4. Revocation[^c-d0efa3df7e7c310ea2e4e464480e362a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0efa3df7e7c310ea2e4e464480e362a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0efa3df7e7c310ea2e4e464480e362a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d0efa3df7e7c310ea2e4e464480e362a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0efa3df7e7c310ea2e4e464480e362a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0efa3df7e7c310ea2e4e464480e362a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1378) revoked (21.11.2024) by [The Housing (Right to Buy) (Limits on Discount) (England) Order 2024 (S.I. 2024/1073)](https://www.legislation.gov.uk/uksi/2024/1073), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1073/article/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2024/1073/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2024/1073/article/5))
+[^c-d0efa3df7e7c310ea2e4e464480e362a]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/1378) revoked (21.11.2024) by [The Housing (Right to Buy) (Limits on Discount) (England) Order 2024 (S.I. 2024/1073)](https://www.legislation.gov.uk/uksi/2024/1073), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1073/article/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2024/1073/article/4/c) (with [art. 5](https://www.legislation.gov.uk/uksi/2024/1073/article/5))

@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure[^f00001] makes these Regulations in exercise of the powers conferred by Articles 4(7), 19C(1), (1A)(a) and (f) and (2) and 218 of the Road Traffic (Northern Ireland) Order 1981[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-2676084a2b7754948945c2fdab7980ed]
+## 1. Citation and commencement[^c-2676084a2b7754948945c2fdab7980ed]
 
 These Regulations may be cited as the Motor Vehicles (Driving Licences) (Amendment No. 2) Regulations (Northern Ireland) 2024 and shall come into operation on 13<sup>th</sup> January 2025.
 
-## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland)[^key-f4342d8ce35d4569f713a2620a8ae6cd]
+## 2. Amendment of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland)[^c-f4342d8ce35d4569f713a2620a8ae6cd]
 
 After regulation 55ZA (modification of regulation 55: Appendix Ukraine Scheme) of the Motor Vehicles (Driving Licences) Regulations (Northern Ireland) 1996[^f00004], insert—
 
@@ -107,8 +107,8 @@ An Explanatory Memorandum has been produced and is available from Driving, Vehic
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-2676084a2b7754948945c2fdab7980ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/213/regulation/1) in operation at 13.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/213/regulation/1)
+[^c-2676084a2b7754948945c2fdab7980ed]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2024/213/regulation/1) in operation at 13.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/213/regulation/1)
 
-[^key-f4342d8ce35d4569f713a2620a8ae6cd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/213/regulation/2) in operation at 13.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/213/regulation/1)
+[^c-f4342d8ce35d4569f713a2620a8ae6cd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2024/213/regulation/2) in operation at 13.1.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2024/213/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1996 No. 542](https://www.legislation.gov.uk/nisr/1996/542); relevant amending Regulations are [S.R. 1997 No. 383](https://www.legislation.gov.uk/nisr/1997/383), [S.R. 2015 No. 357](https://www.legislation.gov.uk/nisr/2015/357) and [S.R. 2024 No. 22](https://www.legislation.gov.uk/nisr/2024/22)

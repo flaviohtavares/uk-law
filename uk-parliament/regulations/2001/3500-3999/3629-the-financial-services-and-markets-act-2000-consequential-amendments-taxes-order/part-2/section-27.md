@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power to amend the Tax Acts so far as relating to insurance companies[^key-b7edc8713a94cb3b8118ac9c0557825d]
+## 27. Power to amend the Tax Acts so far as relating to insurance companies[^c-b7edc8713a94cb3b8118ac9c0557825d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 431A (power of Treasury to amend provisions of the Tax Acts relating 
 
 ## Annotations
 
-[^key-b7edc8713a94cb3b8118ac9c0557825d]: Commencement: Art. 27 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-b7edc8713a94cb3b8118ac9c0557825d]: Commencement: Art. 27 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00031]: Footnote: Section 431A was inserted by paragraph 2 of Schedule 6 to the Finance Act 1990.

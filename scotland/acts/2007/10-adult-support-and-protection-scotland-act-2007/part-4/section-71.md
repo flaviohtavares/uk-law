@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Compulsory treatment orders and compulsion orders: cross-border transfer of patients etc.[^key-eb9e20170d0f4651a3f6b0cd37b537c2]
+## 71. Compulsory treatment orders and compulsion orders: cross-border transfer of patients etc.[^c-eb9e20170d0f4651a3f6b0cd37b537c2]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb9e20170d0f4651a3f6b0cd37b537c2]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2007/10/section/71) in force at 30.6.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/334/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/334/schedule/1)
+[^c-eb9e20170d0f4651a3f6b0cd37b537c2]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2007/10/section/71) in force at 30.6.2007 by [S.S.I. 2007/334](https://www.legislation.gov.uk/ssi/2007/334), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/334/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/334/schedule/1)

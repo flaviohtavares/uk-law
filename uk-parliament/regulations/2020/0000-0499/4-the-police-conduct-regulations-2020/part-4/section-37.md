@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Attendance of officer concerned at misconduct proceedings[^key-b23ad6eb598b75078e90019c970657ac]
+## 37. Attendance of officer concerned at misconduct proceedings[^c-b23ad6eb598b75078e90019c970657ac]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b23ad6eb598b75078e90019c970657ac]: Commencement: Reg. 37 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-b23ad6eb598b75078e90019c970657ac]: Commencement: Reg. 37 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

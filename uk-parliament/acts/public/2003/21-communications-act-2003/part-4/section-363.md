@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 363. Licence required for use of TV receiver[^key-ca0bfbe10f57afbf8a3cde3993ef6a03]
+## 363. Licence required for use of TV receiver[^c-ca0bfbe10f57afbf8a3cde3993ef6a03]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ as may be provided for in the regulations.
 
 ## Annotations
 
-[^key-ca0bfbe10f57afbf8a3cde3993ef6a03]: Commencement: S. 363 in force at 1.4.2004 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11)) (as amended (8.3.2004) by [S.I. 2004/697](https://www.legislation.gov.uk/uksi/2004/697), art. 2(3))
+[^c-ca0bfbe10f57afbf8a3cde3993ef6a03]: Commencement: S. 363 in force at 1.4.2004 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 4(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/4/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2003/3142/schedule/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11)) (as amended (8.3.2004) by [S.I. 2004/697](https://www.legislation.gov.uk/uksi/2004/697), art. 2(3))

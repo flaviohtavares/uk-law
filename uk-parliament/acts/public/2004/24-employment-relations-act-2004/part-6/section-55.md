@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Provision of money for trade union modernisation[^key-7304b9c3104267d77937158be63525ea]
+## 55. Provision of money for trade union modernisation[^c-7304b9c3104267d77937158be63525ea]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7304b9c3104267d77937158be63525ea]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2004/24/section/55) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)
+[^c-7304b9c3104267d77937158be63525ea]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2004/24/section/55) in force at 6.4.2005 by [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/872/schedule)

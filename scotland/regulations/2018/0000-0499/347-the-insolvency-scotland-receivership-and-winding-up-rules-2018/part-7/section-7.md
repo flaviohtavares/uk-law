@@ -304,7 +304,7 @@ but the liquidator may dispense with the requirement in sub-paragraph (b) in res
 - (h) contain particulars of any security [^c23538551] held, the subjects covered, the date on which it was given and the value which the creditor puts on it;
 - (i) include details of any retention of title in relation to goods to which the debt relates;
 - (j) state the nature and amount of any preference under schedule 6 of the Act claimed in respect of the debt;
-- (k)[^key-b993e519beea85298e73455b79cb06ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-b993e519beea85298e73455b79cb06ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (l) include any details of any document by reference to which the debt can be substantiated; and
 - (m) state the name, postal address and authority of the person authenticating the statement of claim and documentary evidence of debt (if someone other than the creditor).
 
@@ -518,13 +518,13 @@ the liquidator or court must put a value on the debt in so far as it is continge
 
 (1) All fees, costs, charges and other expenses incurred in the course of the liquidation are to be treated as expenses of the liquidation.
 
-(1A)[^key-8db674a9cccb001dd199ad868aac204f] The costs of an application by the liquidator under rule 1A.24 of The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 are to be treated as an expense of the liquidation unless the court orders otherwise.
+(1A)[^c-8db674a9cccb001dd199ad868aac204f] The costs of an application by the liquidator under rule 1A.24 of The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) Rules 2018 are to be treated as an expense of the liquidation unless the court orders otherwise.
 
 (2) The expenses associated with the prescribed part must be paid out of the prescribed part.
 
 (3) The expenses of the liquidation are payable out of the assets of the company in the following order of priority—
 
-- (a) any outlays properly chargeable or incurred by the provisional liquidator or liquidator in carrying out the functions of the provisional liquidator or liquidator in the liquidation [^key-ca5c31b7148fca52357e57014d981211]..., except those outlays specifically mentioned in the following sub-paragraphs;
+- (a) any outlays properly chargeable or incurred by the provisional liquidator or liquidator in carrying out the functions of the provisional liquidator or liquidator in the liquidation [^c-ca5c31b7148fca52357e57014d981211]..., except those outlays specifically mentioned in the following sub-paragraphs;
 - (b) the cost, or proportionate cost, of any caution provided by a provisional liquidator, liquidator or special manager in accordance with the Act or these Rules;
 - (c) the remuneration of the provisional liquidator (if any);
 - (d) the expenses of the petitioner in the liquidation, and of any person appearing in the petition whose expenses are allowed by the court;
@@ -592,7 +592,7 @@ In any winding up by the court which follows immediately on a voluntary winding 
 - (a) the expenses of the liquidation mentioned in rule 7.28(3)(a), other than the liquidator's own remuneration, at any time;
 - (b) the preferential debts within the meaning of section 386 at any time but only with the consent of the liquidation committee or, if there is no liquidation committee, of the court.
 
-(7A)[^key-aaf37cf26d5688e8c68b090338fa74ed] Where section 174A of the Act applies, paragraph (7)(b) shall have effect as if the reference to preferential debts included references to moratorium debts and priority pre-moratorium debts within the meaning given by section 174A.
+(7A)[^c-aaf37cf26d5688e8c68b090338fa74ed] Where section 174A of the Act applies, paragraph (7)(b) shall have effect as if the reference to preferential debts included references to moratorium debts and priority pre-moratorium debts within the meaning given by section 174A.
 
 (8) If the liquidator—
 
@@ -619,7 +619,7 @@ the liquidator must set aside, for such time as is reasonable to enable the cred
 
 (13) In the declaration of and payment of a dividend, no payments are to be made more than once by virtue of the same debt.
 
-(14)[^key-c050e94834031cf395481beccd4dd681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-c050e94834031cf395481beccd4dd681] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 7.32. Payment of dividends
 
@@ -692,7 +692,7 @@ must be deposited by the liquidator in an appropriate bank or institution.
 
 [^c23538551]: Marginal citation: See section 248 of the Act for the definition of “security”.
 
-[^key-b993e519beea85298e73455b79cb06ae]: Textual amendment: Rule 7.16(3)(k) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137F](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137F) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-b993e519beea85298e73455b79cb06ae]: Textual amendment: Rule 7.16(3)(k) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137F](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137F) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23538561]: Marginal citation: [1892 c.17](https://www.legislation.gov.uk/ukpga/1892/17).
 
@@ -706,13 +706,13 @@ must be deposited by the liquidator in an appropriate bank or institution.
 
 [^M_C_f0a44eba-aca3-42a0-883b-15e6e588b33c]: Modification: Rule 7.28 applied (with modifications) by [S.I. 2008/346](https://www.legislation.gov.uk/uksi/2008/346), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/346/schedule/02/paragraph/008) (as amended (23.4.2019) by [The Financial Services and Markets (Insolvency) (Amendment of Miscellaneous Enactments) Regulations 2019 (S.I. 2019/755)](https://www.legislation.gov.uk/uksi/2019/755), [regs. 1](https://www.legislation.gov.uk/uksi/2019/755/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/uksi/2019/755/regulation/7/3/a))
 
-[^key-8db674a9cccb001dd199ad868aac204f]: Textual amendment: [Rule 7.28(1A)](https://www.legislation.gov.uk/ssi/2018/347/rule/7.28/1A) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [13(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/13/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-8db674a9cccb001dd199ad868aac204f]: Textual amendment: [Rule 7.28(1A)](https://www.legislation.gov.uk/ssi/2018/347/rule/7.28/1A) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [13(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/13/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
-[^key-ca5c31b7148fca52357e57014d981211]: Textual amendment: Words in rule 7.28(3)(a) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137G](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137G) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-ca5c31b7148fca52357e57014d981211]: Textual amendment: Words in rule 7.28(3)(a) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137G](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137G) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-aaf37cf26d5688e8c68b090338fa74ed]: Textual amendment: [Rule 7.31(7A)](https://www.legislation.gov.uk/ssi/2018/347/rule/7.31/7A) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [14(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/14/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
+[^c-aaf37cf26d5688e8c68b090338fa74ed]: Textual amendment: [Rule 7.31(7A)](https://www.legislation.gov.uk/ssi/2018/347/rule/7.31/7A) inserted (1.10.2021) by [The Insolvency (Scotland) (Receivership and Winding up) (Amendment) Rules 2021 (S.I. 2021/1025)](https://www.legislation.gov.uk/uksi/2021/1025), [rules 1](https://www.legislation.gov.uk/uksi/2021/1025/rule/1), [14(2)](https://www.legislation.gov.uk/uksi/2021/1025/rule/14/2) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1025/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1025/rule/5))
 
-[^key-c050e94834031cf395481beccd4dd681]: Textual amendment: Rule 7.31(14) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137H](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137H) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-c050e94834031cf395481beccd4dd681]: Textual amendment: Rule 7.31(14) omitted (31.12.2020) by virtue of [S.I. 2019/146](https://www.legislation.gov.uk/uksi/2019/146), [Sch. para. 137H](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/137H) (as inserted by [The Insolvency (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1459)](https://www.legislation.gov.uk/uksi/2019/1459), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1459/regulation/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2019/1459/schedule/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c23538601]: Marginal citation: [Paragraph 13A](https://www.legislation.gov.uk/ssi/2018/347/paragraph/13A) is prospectively inserted into schedule 8 by section 131 of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26) (“**the 2015 Act**”).
 

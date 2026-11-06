@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Purchase and sale of securities: options.[^key-b42ad563b1713d426d170dfa22ad696f]
+## 55. Purchase and sale of securities: options.[^c-b42ad563b1713d426d170dfa22ad696f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b42ad563b1713d426d170dfa22ad696f]: Textual amendment: [S. 55](https://www.legislation.gov.uk/ukpga/1991/31/section/55) omitted (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/c)
+[^c-b42ad563b1713d426d170dfa22ad696f]: Textual amendment: [S. 55](https://www.legislation.gov.uk/ukpga/1991/31/section/55) omitted (with effect in accordance with s. 66(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 66(4)(c)](https://www.legislation.gov.uk/ukpga/2008/9/section/66/4/c)

@@ -34,7 +34,7 @@ Immigration
 
 Prevention And Suppression Of Terrorism
 
-The Counter-Terrorism and Security Act 2015 (Authority to Carry Scheme) Regulations 2015 (revoked)[^key-a07b7a891e9ddd56a59d9b151cb87c59]
+The Counter-Terrorism and Security Act 2015 (Authority to Carry Scheme) Regulations 2015 (revoked)[^c-a07b7a891e9ddd56a59d9b151cb87c59]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 31st March 2015
 
-[^key-a07b7a891e9ddd56a59d9b151cb87c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a07b7a891e9ddd56a59d9b151cb87c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and expiry[^key-a07b7a891e9ddd56a59d9b151cb87c59]
+## 1. Citation, commencement and expiry[^c-a07b7a891e9ddd56a59d9b151cb87c59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Authority-to-Carry Scheme[^key-a07b7a891e9ddd56a59d9b151cb87c59]
+## 2. Authority-to-Carry Scheme[^c-a07b7a891e9ddd56a59d9b151cb87c59]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a07b7a891e9ddd56a59d9b151cb87c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a07b7a891e9ddd56a59d9b151cb87c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a07b7a891e9ddd56a59d9b151cb87c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a07b7a891e9ddd56a59d9b151cb87c59]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a07b7a891e9ddd56a59d9b151cb87c59]: Textual amendment: Regulations revoked (6.4.2021) by The Authority to [Carry Scheme and Civil Penalties Regulations 2021 (S.I. 2021/323)](https://www.legislation.gov.uk/uksi/2021/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/323/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2021/323/regulation/4/1)
+[^c-a07b7a891e9ddd56a59d9b151cb87c59]: Textual amendment: Regulations revoked (6.4.2021) by The Authority to [Carry Scheme and Civil Penalties Regulations 2021 (S.I. 2021/323)](https://www.legislation.gov.uk/uksi/2021/323), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/323/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2021/323/regulation/4/1)

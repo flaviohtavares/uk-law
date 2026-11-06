@@ -429,7 +429,7 @@ The Department must determine the amount of the monthly payment to be paid in re
 - (b) a retirement pension other than a phased retirement pension becomes payable to P;
 - (c) P revokes the election or is taken to revoke the election.
 
-(4)[^key-69aad6eed0086a51272491077a65096a] A buy-out election may only be made within 6 months after P enters pensionable service under this scheme.
+(4)[^c-69aad6eed0086a51272491077a65096a] A buy-out election may only be made within 6 months after P enters pensionable service under this scheme.
 
 (5) When making a buy-out election, P must be—
 
@@ -446,7 +446,7 @@ The Department must determine the amount of the monthly payment to be paid in re
 
 (3) The notice of election must specify—
 
-- (a)[^key-291e9f140a47561f3fa2619c468ae40c] if P is in more than one eligible employment, the names of the employers in relation to P’s eligible employments.
+- (a)[^c-291e9f140a47561f3fa2619c468ae40c] if P is in more than one eligible employment, the names of the employers in relation to P’s eligible employments.
 - (b) P's name;
 - (c) P's date of birth;
 - (d) P's normal pension age;
@@ -537,6 +537,6 @@ The Department must determine the amount of the monthly payment to be paid in re
 
 ## Annotations
 
-[^key-69aad6eed0086a51272491077a65096a]: Modification: [Sch. 2 para. 29(4)](https://www.legislation.gov.uk/nisr/2014/310/schedule/2/paragraph/29/4) modified (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/131)](https://www.legislation.gov.uk/nisr/2023/131), [regs. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1), [31(1)](https://www.legislation.gov.uk/nisr/2023/131/regulation/31/1)
+[^c-69aad6eed0086a51272491077a65096a]: Modification: [Sch. 2 para. 29(4)](https://www.legislation.gov.uk/nisr/2014/310/schedule/2/paragraph/29/4) modified (1.10.2023) by [The Teachers’ Pension Scheme (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/131)](https://www.legislation.gov.uk/nisr/2023/131), [regs. 1](https://www.legislation.gov.uk/nisr/2023/131/regulation/1), [31(1)](https://www.legislation.gov.uk/nisr/2023/131/regulation/31/1)
 
-[^key-291e9f140a47561f3fa2619c468ae40c]: Textual amendment: Sch. 2 para. 30(3)(a) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/126/regulation/15)
+[^c-291e9f140a47561f3fa2619c468ae40c]: Textual amendment: Sch. 2 para. 30(3)(a) substituted (1.4.2015) by [The Teachers’ Pensions (Miscellaneous Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/126)](https://www.legislation.gov.uk/nisr/2015/126), [regs. 1](https://www.legislation.gov.uk/nisr/2015/126/regulation/1), [15](https://www.legislation.gov.uk/nisr/2015/126/regulation/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. Entitlement to vote (creditors)[^key-255fc65a6effe049f084319d10a72231]
+## 50. Entitlement to vote (creditors)[^c-255fc65a6effe049f084319d10a72231]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-255fc65a6effe049f084319d10a72231]: Commencement: Rule 50 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-255fc65a6effe049f084319d10a72231]: Commencement: Rule 50 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

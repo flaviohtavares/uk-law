@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Requirement to be party to collaboration agreement[^key-2773b64b44e74137ac7ccdb1487cf6b1]
+## 74. Requirement to be party to collaboration agreement[^c-2773b64b44e74137ac7ccdb1487cf6b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2773b64b44e74137ac7ccdb1487cf6b1]: Textual amendment: S. 74 omitted (5.2.2019) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/14) (see S.I. 2019/174, reg. 2(c))
+[^c-2773b64b44e74137ac7ccdb1487cf6b1]: Textual amendment: S. 74 omitted (5.2.2019) by virtue of [The Data Retention and Acquisition Regulations 2018 (S.I. 2018/1123)](https://www.legislation.gov.uk/uksi/2018/1123), [reg. 1(4)(d)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/4/d)[(5)](https://www.legislation.gov.uk/uksi/2018/1123/regulation/1/5), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2018/1123/schedule/1/paragraph/14) (see S.I. 2019/174, reg. 2(c))

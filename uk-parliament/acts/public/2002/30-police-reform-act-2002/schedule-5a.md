@@ -24,7 +24,7 @@ summary: ''
 
 (1) An accredited inspector whose accreditation specifies that this paragraph applies to him shall have the powers specified in sub-paragraph (2) in relation to any individual who he has reason to believe has committed a relevant fixed penalty offence at a place within the relevant police area.
 
-(2) The powers are the powers of a constable [^key-7537083750abe26a3948efc523370207]... to give a penalty notice under Chapter 1 of Part 1 of the Criminal Justice and Police Act 2001 (fixed penalty notices in respect of offences of disorder) so far as exercisable in respect of a relevant fixed penalty offence.
+(2) The powers are the powers of a constable [^c-7537083750abe26a3948efc523370207]... to give a penalty notice under Chapter 1 of Part 1 of the Criminal Justice and Police Act 2001 (fixed penalty notices in respect of offences of disorder) so far as exercisable in respect of a relevant fixed penalty offence.
 
 ### 2. Power to require giving of name and address
 
@@ -49,4 +49,4 @@ In this Schedule—
 
 [^c20031421]: Textual amendment: Sch. 5A inserted (1.4.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2006/48/section/15/2), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 7](https://www.legislation.gov.uk/ukpga/2006/48/schedule/7); [S.I. 2007/709](https://www.legislation.gov.uk/uksi/2007/709), [art. 3(k)](https://www.legislation.gov.uk/uksi/2007/709/article/3/k) (subject to [arts. 6](https://www.legislation.gov.uk/uksi/2007/709/article/6), [7](https://www.legislation.gov.uk/uksi/2007/709/article/7))
 
-[^key-7537083750abe26a3948efc523370207]: Textual amendment: Words in [Sch. 5A para. 1(2)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/5A/paragraph/1/2) omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 14(5)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/14/5); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)
+[^c-7537083750abe26a3948efc523370207]: Textual amendment: Words in [Sch. 5A para. 1(2)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/5A/paragraph/1/2) omitted (8.4.2013) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 23 para. 14(5)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/23/paragraph/14/5); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 4(e)](https://www.legislation.gov.uk/uksi/2013/453/article/4/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56.[^key-1dc9115c05ac62f424dc6af02e13a61b]
+## 56.[^c-1dc9115c05ac62f424dc6af02e13a61b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,13 +33,13 @@ summary: ''
 
 > (2A) An obligation of the person complained against falls within this subsection if it is—
 >
-> - (a) an obligation under a relevant condition or relevant requirement in relation to that person imposed before IP completion day[^key-43cf97c9a08dd60cc5a0f69bf32c9696] for the purpose of implementing the Electricity Directive, including such an obligation as modified on or after IP completion day, or
+> - (a) an obligation under a relevant condition or relevant requirement in relation to that person imposed before IP completion day[^c-43cf97c9a08dd60cc5a0f69bf32c9696] for the purpose of implementing the Electricity Directive, including such an obligation as modified on or after IP completion day, or
 > - (b) an obligation under a relevant condition or relevant requirement in relation to that person imposed on or after IP completion day which, if it had been imposed immediately before IP completion day, would have been an obligation imposed for the purpose of implementing the Electricity Directive.
 
 .
 
 ## Annotations
 
-[^key-1dc9115c05ac62f424dc6af02e13a61b]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-1dc9115c05ac62f424dc6af02e13a61b]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-43cf97c9a08dd60cc5a0f69bf32c9696]: Textual amendment: Words in reg. 56(4) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(23)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/23)
+[^c-43cf97c9a08dd60cc5a0f69bf32c9696]: Textual amendment: Words in reg. 56(4) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(23)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/23)

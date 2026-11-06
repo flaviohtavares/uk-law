@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Sub-delegation[^key-b94f10176663f0d61ff290884a178d43]
+## 109. Sub-delegation[^c-b94f10176663f0d61ff290884a178d43]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulations under this Part may confer discretions.
 
 ## Annotations
 
-[^key-b94f10176663f0d61ff290884a178d43]: Commencement: S. 109 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-b94f10176663f0d61ff290884a178d43]: Commencement: S. 109 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

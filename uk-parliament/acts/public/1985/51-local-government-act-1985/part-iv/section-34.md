@@ -36,7 +36,7 @@ summary: ''
 
 - (a) if the chairman has ceased to be a member of the authority by reason of section 31 above, at the time specified in subsection (2)(b) of that section;
 - (b) if the chairman has ceased to be a member by reason of section 32(1) above, when notice thereof is given to the authority under that provision;
-- (ba)[^key-b59aee0da66780fff8552dba20da44be] if the chairman is a police and crime commissioner and the authority and the commissioner have agreed that the commissioner should cease to be a member of the authority, the date agreed by the authority and the commissioner as the date on which the commissioner's membership should cease; and
+- (ba)[^c-b59aee0da66780fff8552dba20da44be] if the chairman is a police and crime commissioner and the authority and the commissioner have agreed that the commissioner should cease to be a member of the authority, the date agreed by the authority and the commissioner as the date on which the commissioner's membership should cease; and
 - (c) in any other case, on the date of the declaration or of receipt of the notice of resignation mentioned in section 32(2) above.
 
 (8) Each joint authority shall appoint a person to be the clerk to the authority and in making the appointment the authority shall have regard to the desirability of that person being the chief officer of a constituent council of the authority.
@@ -47,4 +47,4 @@ summary: ''
 
 [^c3163421]: Modification: S. 34 modified by [S.I. 1987/2110](https://www.legislation.gov.uk/uksi/1987/2110), [art. 2(2)](https://www.legislation.gov.uk/uksi/1987/2110/article/2/2), [Sch. 1 para. 7(d)](https://www.legislation.gov.uk/uksi/1987/2110/schedule/1/paragraph/7/d)
 
-[^key-b59aee0da66780fff8552dba20da44be]: Textual amendment: S. 34(7)(ba) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) for word by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/7), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); S.I. 2017/399, reg. 2, Sch. para. 3
+[^c-b59aee0da66780fff8552dba20da44be]: Textual amendment: S. 34(7)(ba) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) for word by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 7(7)](https://www.legislation.gov.uk/ukpga/2017/3/section/7/7), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); S.I. 2017/399, reg. 2, Sch. para. 3

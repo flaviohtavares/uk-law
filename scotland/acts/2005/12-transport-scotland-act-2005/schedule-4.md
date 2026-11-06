@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — Schedule 6A to the New Roads and Street Works Act 1991[^key-ee95bc34bae119156afb660a48e92965]
+## SCHEDULE 4 — Schedule 6A to the New Roads and Street Works Act 1991[^c-ee95bc34bae119156afb660a48e92965]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee95bc34bae119156afb660a48e92965]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asp/2005/12/schedule/4) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)
+[^c-ee95bc34bae119156afb660a48e92965]: Commencement: [Sch. 4](https://www.legislation.gov.uk/asp/2005/12/schedule/4) in force at 1.10.2008 by [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(3)](https://www.legislation.gov.uk/ssi/2008/15/article/2/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2008/15/schedule/2)

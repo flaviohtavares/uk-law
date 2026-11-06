@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Capital limit[^key-d29ae7f7759f3656548dcd53d56d059c]
+## 110. Capital limit[^c-d29ae7f7759f3656548dcd53d56d059c]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ For the purposes of paragraph 6(1)(b) of Schedule 1 to the Act as it applies to 
 
 ## Annotations
 
-[^key-d29ae7f7759f3656548dcd53d56d059c]: Commencement: [Reg. 110](https://www.legislation.gov.uk/nisr/2008/280/regulation/110) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-d29ae7f7759f3656548dcd53d56d059c]: Commencement: [Reg. 110](https://www.legislation.gov.uk/nisr/2008/280/regulation/110) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

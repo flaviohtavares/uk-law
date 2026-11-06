@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Financial support by Welsh Ministers for certain higher education courses[^key-a3ef1dc7d9d17ead0237c52a9bbe2bd3][^key-fb3829c28b406f592a90060ebb5ccc7b]
+## 92. Financial support by Welsh Ministers for certain higher education courses[^c-a3ef1dc7d9d17ead0237c52a9bbe2bd3][^c-fb3829c28b406f592a90060ebb5ccc7b]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a3ef1dc7d9d17ead0237c52a9bbe2bd3]: Commencement: S. 92 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-a3ef1dc7d9d17ead0237c52a9bbe2bd3]: Commencement: S. 92 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-fb3829c28b406f592a90060ebb5ccc7b]: Commencement: [S. 92](https://www.legislation.gov.uk/asc/2022/1/section/92) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(s)](https://www.legislation.gov.uk/wsi/2026/62/article/2/s)
+[^c-fb3829c28b406f592a90060ebb5ccc7b]: Commencement: [S. 92](https://www.legislation.gov.uk/asc/2022/1/section/92) in force at 1.4.2026 by [W.S.I. 2026/62](https://www.legislation.gov.uk/wsi/2026/62), [art. 2(s)](https://www.legislation.gov.uk/wsi/2026/62/article/2/s)

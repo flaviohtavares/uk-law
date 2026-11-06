@@ -45,11 +45,11 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, by and with the advice of Her Privy Council, in exercise of the powers conferred on Her by section 157(2) of the Copyright, Designs and Patents Act 1988[^f00001], makes the following Order:
 
-## 1. Citation and commencement[^key-b46ff389f5e397f0a156ee8efb4f68f2]
+## 1. Citation and commencement[^c-b46ff389f5e397f0a156ee8efb4f68f2]
 
 This Order may be cited as the Copyright (Cayman Islands) Order 2015 and comes into force on such date as the Governor of the Cayman Islands may appoint by proclamation published in the Gazette of the Cayman Islands.
 
-## 2. Extension of Part 1 of the Copyright, Designs and Patents Act 1988[^key-58f0c826e992ee579868a838402b39e4]
+## 2. Extension of Part 1 of the Copyright, Designs and Patents Act 1988[^c-58f0c826e992ee579868a838402b39e4]
 
 Part 1 of the Copyright, Designs and Patents Act 1988[^f00002] (“the 1988 Act”) extends to the Cayman Islands subject to the exclusions specified in Part 1 of the Schedule and the modifications set out in Part 2 of the Schedule.
 
@@ -63,33 +63,33 @@ Article 2
 
 ### PART 1
 
-#### 1. Excluded provisions[^key-2151d077e9a135efe6614e2428b40437]
+#### 1. Excluded provisions[^c-2151d077e9a135efe6614e2428b40437]
 
 The following provisions of Part 1 of the 1988 Act do not extend to the Cayman Islands—
 
-- (a) Sections 44A[^f00003], [^key-9554d59b86d95fef1f803a68596b75a1]... 98[^f00005], 114B[^f00006], 144[^f00007], 144A[^f00008], 157[^f00009], 158, 166A[^f00010], 166B[^f00011], 166C, 166D[^f00012], 172A[^f00013] and 177;
+- (a) Sections 44A[^f00003], [^c-9554d59b86d95fef1f803a68596b75a1]... 98[^f00005], 114B[^f00006], 144[^f00007], 144A[^f00008], 157[^f00009], 158, 166A[^f00010], 166B[^f00011], 166C, 166D[^f00012], 172A[^f00013] and 177;
 - (b) paragraphs 13, 21, 34, 36[^f00014] and 37 of Schedule 1; and
 - (c) Schedule A1[^f00015].
 
 ### PART 2
 
-#### 2. Modifications to the provisions of Part 1 of the 1988 Act applied by this Order[^key-43167df50e65da0a9e0e273ad733fb40]
+#### 2. Modifications to the provisions of Part 1 of the 1988 Act applied by this Order[^c-43167df50e65da0a9e0e273ad733fb40]
 
 The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by virtue of this Order, are to be read subject to the modifications specified in this Part of this Schedule.
 
-**3.**[^key-af5f8a44b39c0957db9399c1fb8db660] In the provisions of Part 1 applied by this Order—
+**3.**[^c-af5f8a44b39c0957db9399c1fb8db660] In the provisions of Part 1 applied by this Order—
 
 - (a) references to the EEA, an EEA State, the European Economic area and the United Kingdom are to be read as references to the Cayman Islands;
 - (b) references as to whether a person is or is not a national of an EEA state are to be read as to whether the person in question possesses Caymanian status or not.
-- (c)[^key-82720b0be0b5a0aec567f98127d29d22] references to “educational establishments” are to be read as references to “educational institutions”.
+- (c)[^c-82720b0be0b5a0aec567f98127d29d22] references to “educational establishments” are to be read as references to “educational institutions”.
 
-**3A.**[^key-5750094dae7babff20fbc3d978ed5e66] Section 13A applies with the omission in subsection (2) of the words “and section 191(HA)(4).”.
+**3A.**[^c-5750094dae7babff20fbc3d978ed5e66] Section 13A applies with the omission in subsection (2) of the words “and section 191(HA)(4).”.
 
-**4.**[^key-6a77f2e3aac3c458745765366de37b45] Section 27[^f00016] applies with the omission of subsection (5).
+**4.**[^c-6a77f2e3aac3c458745765366de37b45] Section 27[^f00016] applies with the omission of subsection (5).
 
-**5.**[^key-1a0c14e88ca7159a13ffa0f997073a27] In section 31BB[^f00017] the reference to the Secretary of State is to be read as a reference to the Minister.
+**5.**[^c-1a0c14e88ca7159a13ffa0f997073a27] In section 31BB[^f00017] the reference to the Secretary of State is to be read as a reference to the Minister.
 
-**6.**[^key-59011dae340c2f1ca573ccec61a2614f] Section 40A[^f00018] applies as if it were modified and set out as follows—
+**6.**[^c-59011dae340c2f1ca573ccec61a2614f] Section 40A[^f00018] applies as if it were modified and set out as follows—
 
 > **40A. Lending of copies by libraries or archives**
 >
@@ -97,24 +97,24 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
 .
 
-**7.**[^key-d7f9ec4a978dbd9ddd690471773bb1ea] Section 46 applies—
+**7.**[^c-d7f9ec4a978dbd9ddd690471773bb1ea] Section 46 applies—
 
 - (a) with the section heading being read as “Enquiries”;
 - (b) with references to Royal Commissions or statutory inquiries being read as references to Commissions of Enquiry appointed under the Commissions of Enquiry Act (1997 Revision); and
 - (c) with the omission of subsection (4).
 
-**8.**[^key-bbb4242f4edcd908c4c6cb87e6e19f97] Section 47 applies[^f00019]—
+**8.**[^c-bbb4242f4edcd908c4c6cb87e6e19f97] Section 47 applies[^f00019]—
 
 - (a) with references to the Secretary of State being read as references to the Cabinet as defined in section 44 of the Constitution of the Cayman Islands; and
-- (b)[^key-10e64af2dde7a241d04f6dac10a73abb] with the substitution for subsection (7) of—
+- (b)[^c-10e64af2dde7a241d04f6dac10a73abb] with the substitution for subsection (7) of—
 
   > (7) An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
   .
 
-**9.**[^key-0becf048bc5e3e38822b25ba2ba12566] Section 48[^f00020] applies with the omission of subsection (6).
+**9.**[^c-0becf048bc5e3e38822b25ba2ba12566] Section 48[^f00020] applies with the omission of subsection (6).
 
-**10.**[^key-fcdbad6d2e09d71136710e8414dce0e2] Section 49[^f00021] applies as modified and set out as follows—
+**10.**[^c-fcdbad6d2e09d71136710e8414dce0e2] Section 49[^f00021] applies as modified and set out as follows—
 
 > **49. Public records**
 >
@@ -122,7 +122,7 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
 .
 
-**11.**[^key-b02b10991f5c196f341ad21c86701d72] Section 50 applies—
+**11.**[^c-b02b10991f5c196f341ad21c86701d72] Section 50 applies—
 
 - (a) with the substitution of the following in the place of subsection (1)—
 
@@ -131,18 +131,18 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
   ; and
 - (b) with the omission of subsection (2).
 
-**12.**[^key-cabb61da6c426454ade18bcfdb16a2d6] Sections 50A(3)[^f00022], 50B(4)[^f00023], 50BA(2)[^f00024] and 50D(2)[^f00025] apply with the omission of the words “(such terms being by virtue of section 296A, void)”.
+**12.**[^c-cabb61da6c426454ade18bcfdb16a2d6] Sections 50A(3)[^f00022], 50B(4)[^f00023], 50BA(2)[^f00024] and 50D(2)[^f00025] apply with the omission of the words “(such terms being by virtue of section 296A, void)”.
 
-**13.**[^key-dfb67f73d2d9938928a361d13ef63520] Section 52[^f00026] applies—
+**13.**[^c-dfb67f73d2d9938928a361d13ef63520] Section 52[^f00026] applies—
 
 - (a) with “Secretary of State” being read as “Cabinet as defined in section 44 of the Constitution of the Cayman Islands”; and
-- (b)[^key-541899b64681be199227d21af019eb27] with the substitution for subsection (5) of—
+- (b)[^c-541899b64681be199227d21af019eb27] with the substitution for subsection (5) of—
 
   > (5) An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
   .
 
-**14.**[^key-2f67bbb2bbc8ff92f3253476b044586c] Section 53 applies—
+**14.**[^c-2f67bbb2bbc8ff92f3253476b044586c] Section 53 applies—
 
 - (a) with the omission in subsection (1)(a)—
   - (i) of sub-paragraph (ii); and
@@ -150,18 +150,18 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 - (b) with the omission of subsections (3) and (4); and
 - (c) with references to the Registered Designs Act 1949 being read as references to the enactments relating to the registration of designs in force in the Cayman Islands.
 
-**15.**[^key-fc06140543c1b43a4451f537fd323d25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-fc06140543c1b43a4451f537fd323d25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-f4ec9a7de961279231e6448974210964] Section 66[^f00028] applies—
+**16.**[^c-f4ec9a7de961279231e6448974210964] Section 66[^f00028] applies—
 
 - (a) with “Secretary of State” being read as “Cabinet as defined in section 44 of the Constitution of the Cayman Islands”; and
-- (b)[^key-2685fc68f92d9e301ee6cb3cc3b7db18] with the substitution for subsection (4) of—
+- (b)[^c-2685fc68f92d9e301ee6cb3cc3b7db18] with the substitution for subsection (4) of—
 
   > (4) Orders made under this section are subject to affirmative resolution, as provided in section 28(2) of the Interpretation Law (1995 Revision).
 
   .
 
-**17.**[^key-88a7ba197d289c1ab7b1fb76a896a2ff] Section 69[^f00029] applies as modified and set out as follows—
+**17.**[^c-88a7ba197d289c1ab7b1fb76a896a2ff] Section 69[^f00029] applies as modified and set out as follows—
 
 > **69. Recording for purposes of supervision and control of broadcasts and cable programmes**
 >
@@ -171,11 +171,11 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 >
 > (3) In this section “prescribed” means prescribed by order of the Cabinet.
 >
-> (4)[^key-e951af228788f3226584e10b3ae4eefd] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
+> (4)[^c-e951af228788f3226584e10b3ae4eefd] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
 .
 
-**18.**[^key-d32ca2cd22d10a51d8e7f3b47df36190] Section 73 applies—
+**18.**[^c-d32ca2cd22d10a51d8e7f3b47df36190] Section 73 applies—
 
 - (a) with the substitution for subsections (6), (7) and (8) of the following—
 
@@ -193,23 +193,23 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
   .
 
-**19.**[^key-2346f95ce217425d8e27dd680bd6f46e] Section 79(4)(e) applies with the substitution of “enquiries under the Commissions of Enquiry under the Commissions of Enquiry Law (1997 Revision) and statutory enquiries” for “section 46(1) or (2) (Royal Commissions and statutory inquiries)”.
+**19.**[^c-2346f95ce217425d8e27dd680bd6f46e] Section 79(4)(e) applies with the substitution of “enquiries under the Commissions of Enquiry under the Commissions of Enquiry Law (1997 Revision) and statutory enquiries” for “section 46(1) or (2) (Royal Commissions and statutory inquiries)”.
 
-**20.**[^key-bc2a4f45083e6d2e234c6d383f041c6b] Section 81(6) applies—
+**20.**[^c-bc2a4f45083e6d2e234c6d383f041c6b] Section 81(6) applies—
 
 - (a) with the insertion at the end of paragraph (a) of the word “or”;
 - (b) with the omission of the word “or” at the end of paragraph (b); and
 - (c) with the omission of paragraph (c).
 
-**21.**[^key-191e52a050f69bceafa73703f4802b68] Section 82(1)[^f00031] applies with substitution for paragraph (b) of—
+**21.**[^c-191e52a050f69bceafa73703f4802b68] Section 82(1)[^f00031] applies with substitution for paragraph (b) of—
 
 > - (b) work in which copyright subsists in favour of the Crown or the Legislative Assembly;
 
 .
 
-**22.**[^key-82c848a1b0e618f817d56bb2ab7d7dd0] Section 85(2)(c) applies with the substitution of “enquiries [^key-86e1c6e6eb94fde3217fb899dfc038ea]... under the Commissions of Enquiry Law (1997 Revision) and statutory enquiries” for “section 46(1) or (2) (Royal Commissions and statutory inquiries)”.
+**22.**[^c-82c848a1b0e618f817d56bb2ab7d7dd0] Section 85(2)(c) applies with the substitution of “enquiries [^c-86e1c6e6eb94fde3217fb899dfc038ea]... under the Commissions of Enquiry Law (1997 Revision) and statutory enquiries” for “section 46(1) or (2) (Royal Commissions and statutory inquiries)”.
 
-**23.**[^key-defff65afc62f3f24520b196cae4d1d8] Section 97A[^f00032] applies—
+**23.**[^c-defff65afc62f3f24520b196cae4d1d8] Section 97A[^f00032] applies—
 
 - (a) with the substitution for “the High Court (or in Scotland the Court of Session)” of “the Grand Court referred to in section 84 of the Constitution of the Cayman Islands”;
 - (b) with the substitution for “regulation 6(1)(c) of the Electronic Commerce (EC Directive) Regulations 2002 ([SI 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013))” of “such law as may for the time being be in force in relation to the giving of notices.”;
@@ -225,19 +225,19 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
   .
 
-**24.**[^key-2c0d1eababfb8f5b7d0e5759855c7db8] Section 100 applies—
+**24.**[^c-2c0d1eababfb8f5b7d0e5759855c7db8] Section 100 applies—
 
 - (a) with the substitution in subsection (2) of “the Commissioner of Police referred to in section 2 of the Police Law (Law 36 of 2010)” for “a local police station”;
 - (b) with the substitution of “Cabinet” for “Secretary of State”.
-- (c)[^key-98cba4bc47091ec4931145dfe621ed50] with the substitution for subsection (6) of—
+- (c)[^c-98cba4bc47091ec4931145dfe621ed50] with the substitution for subsection (6) of—
 
   > (6) An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
   .
 
-**25.**[^key-f30057836ed7a588bbf8d0bf0f50bd0c] For the purposes of sections 107(4)(a)[^f00033], 107(4A)(a)[^f00034], and 107(5)[^f00035], the fine which may be imposed on summary conviction is a fine not exceeding $20,000.
+**25.**[^c-f30057836ed7a588bbf8d0bf0f50bd0c] For the purposes of sections 107(4)(a)[^f00033], 107(4A)(a)[^f00034], and 107(5)[^f00035], the fine which may be imposed on summary conviction is a fine not exceeding $20,000.
 
-**26.**[^key-8260700b370e13103b3c9c60216e4601] Section 107A[^f00036] applies as modified and set out below—
+**26.**[^c-8260700b370e13103b3c9c60216e4601] Section 107A[^f00036] applies as modified and set out below—
 
 > **107A. Enforcement by the Director of Commerce and Investment**
 >
@@ -252,7 +252,7 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
 .
 
-**27.**[^key-47c7d4cf2cec511479d731ffea612f20] Section 108[^f00037] applies—
+**27.**[^c-47c7d4cf2cec511479d731ffea612f20] Section 108[^f00037] applies—
 
 - (a) with the substitution for subsection (2) of—
 
@@ -265,17 +265,17 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
   > (4) An appeal lies from an order made under this section by a summary court constituted under the Summary Jurisdiction Law (2006 Revision) to the Grand Court referred to in section 84 of the Constitution of the Cayman Islands.
 
   ;
-- (d)[^key-1b41451be4520927be8d724a00e8ea5d] with the omission of subsection (6).
+- (d)[^c-1b41451be4520927be8d724a00e8ea5d] with the omission of subsection (6).
 
-**28.**[^key-a87a396fc3f2f5d9319ef3075102f4fc] Section 109[^f00038] applies—
+**28.**[^c-a87a396fc3f2f5d9319ef3075102f4fc] Section 109[^f00038] applies—
 
 - (a) with the deletion of “(in Scotland, a sheriff or justice of the peace)” and “(in Scotland, by evidence on oath)”; and
 - (b) the substitution in subsection (2) of “does not extend to authorising a search for personal or confidential material that is protected under legislation.” for “does not” to the end of that subsection.
 
-**29.**[^key-661fd1c8ccb7a8765dda4e1cd39eb25c] Section 111[^f00039] applies—
+**29.**[^c-661fd1c8ccb7a8765dda4e1cd39eb25c] Section 111[^f00039] applies—
 
 - (a) with references to “the Commissioners of Customs and Excise” being read as references to the Collector of Customs referred to in section 2 of the Customs Law (2012 Revision); and
-- (b) with the substitution for subsections (3A), (3B),[^key-c09c791267ae785ddca00937e8fad369] and (4) of—
+- (b) with the substitution for subsections (3A), (3B),[^c-c09c791267ae785ddca00937e8fad369] and (4) of—
 
   > (3A) The Collector of Customs may treat as prohibited goods only infringing copies of works which arrive from outside the Cayman Islands.
   >
@@ -283,28 +283,28 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
   .
 
-**30.**[^key-1e72dbd7dfbac1ed5d3234bfb22ca7e5] Section 112[^f00040] applies—
+**30.**[^c-1e72dbd7dfbac1ed5d3234bfb22ca7e5] Section 112[^f00040] applies—
 
 - (a) with references to the Commissioners of Customs and Excise being read as references to the Minister responsible for customs and excise; and
-- (b)[^key-b14a216ab041bf90d743d1671dfda347] with the substitution for subsection (4) of—
+- (b)[^c-b14a216ab041bf90d743d1671dfda347] with the substitution for subsection (4) of—
 
   > (4) Regulations made under this section are subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
   .
 
-**31.**[^key-c34d8a95b02c0d042a3d630e96e1561c] Section 113 applies with the substitution for subsection (3) of—
+**31.**[^c-c34d8a95b02c0d042a3d630e96e1561c] Section 113 applies with the substitution for subsection (3) of—
 
 > (3) In this section “disability” means an impairment in a person’s ability to function, caused by changes in various subsystems of the body, or mental incapacity.
 
 .
 
-**32.**[^key-d753dbf13b6a99a41611e4539280e154] Section 114[^f00041] applies with the substitution for subsection (6) of—
+**32.**[^c-d753dbf13b6a99a41611e4539280e154] Section 114[^f00041] applies with the substitution for subsection (6) of—
 
 > (6) References in this section to a person having an interest in a copy or other article include any person in whose favour an order could be made in respect of it under any enactment permitting orders to be made as to disposal of goods, other articles or material infringing any intellectual property.
 
 .
 
-**33.**[^key-016f90ca6cf096e9ac35b1f5722e195e] Section 114A[^f00042] applies—
+**33.**[^c-016f90ca6cf096e9ac35b1f5722e195e] Section 114A[^f00042] applies—
 
 - (a) with the deletion from the section heading of the words “England and Wales or Northern Ireland”;
 - (b) the substitution of “Where” for “ In England and Wales or Northern Ireland where”;
@@ -320,7 +320,7 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
   ; and
 - (e) the substitution for appeal” to the end of the section of “appeal, including a case stated pursuant to section 172 (Case stated) under the Criminal Procedure Code (2014 Revision)”.
 
-**34.**[^key-72c5064f1a6b0fc348fb7b0bc6cfdc2c] Section 115[^f00043] applies as modified and set out as follows—
+**34.**[^c-72c5064f1a6b0fc348fb7b0bc6cfdc2c] Section 115[^f00043] applies as modified and set out as follows—
 
 > **115. Jurisdiction of summary court**
 >
@@ -334,66 +334,66 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
 .
 
-**35.**[^key-9463530c186e3924803d9af6f4666f48] Section 116 applies—
+**35.**[^c-9463530c186e3924803d9af6f4666f48] Section 116 applies—
 
 - (a) with the reference to subsidiaries in subsection (4) being read as references to subsidiary companies within the meaning of section 232 of the Companies Law (2013 Revision);
 - (b) with the reference to a holding company in subsection (4) being read as a reference to “a parent company” within the meaning of section 232 of the Companies Law (2013 Revision); and
 - (c) with the omission of subsection (5).
 
-**36.**[^key-e1b23a0367a89638c7edcb765d380b8f] In sections 116A and 116B[^f00045] references to the Secretary of State are to be read as references to the Cabinet as defined in section 44 of the Constitution of the Cayman Islands.
+**36.**[^c-e1b23a0367a89638c7edcb765d380b8f] In sections 116A and 116B[^f00045] references to the Secretary of State are to be read as references to the Cabinet as defined in section 44 of the Constitution of the Cayman Islands.
 
-**37.**[^key-e514a0dbc03ad8314e288b138f0baca2] Section 116D applies with the substitution for subsections (4) and (5) of—
+**37.**[^c-e514a0dbc03ad8314e288b138f0baca2] Section 116D applies with the substitution for subsections (4) and (5) of—
 
 > (4) Regulations made under this section are subject to affirmative resolution, as provided in section 28(2) of the Interpretation Law (1995 Revision).
 
 .
 
-**38.**[^key-dbb32769c7544272a9e1293c0127dc54] Section 134[^f00047] applies with the omission of—
+**38.**[^c-dbb32769c7544272a9e1293c0127dc54] Section 134[^f00047] applies with the omission of—
 
 - (a) “Subject to subsection (3A)” in subsection (1); and
 - (b) subsections (3) and (3A).
 
-**39.**[^key-c3c72b7cd5614e9c369d4b104b3ae1c2] Section 135H[^f00048] applies—
+**39.**[^c-c3c72b7cd5614e9c369d4b104b3ae1c2] Section 135H[^f00048] applies—
 
 - (a) with references to the Secretary of State being read as references to the Cabinet as defined in section 44 of the Constitution of the Cayman Islands; and
-- (b)[^key-bdfd9c94017f82f5eda770ffd27cd7c4] with the substitution for subsection (2) of—
+- (b)[^c-bdfd9c94017f82f5eda770ffd27cd7c4] with the substitution for subsection (2) of—
 
   > (2) An order made under this section is subject to affirmative resolution, as provided in section 28(2) of the Interpretation Law (1995 Revision).
 
   .
 
-**40.**[^key-8360044de9a2808a9531622de7351b13] In sections 137 to 139, references to the Secretary of State are to be read as references to the Cabinet as defined in section 44 of the Constitution of the Cayman Islands.
+**40.**[^c-8360044de9a2808a9531622de7351b13] In sections 137 to 139, references to the Secretary of State are to be read as references to the Cabinet as defined in section 44 of the Constitution of the Cayman Islands.
 
-**41.**[^key-d7df17a2de9f6b1fcc409c1b22b465ce] Section 140 applies—
+**41.**[^c-d7df17a2de9f6b1fcc409c1b22b465ce] Section 140 applies—
 
 - (a) with references to the Secretary of State being read as references to the Minister responsible for matters relating to intellectual property; and
-- (b)[^key-16abd8866e346cf881e0437c183d78fd] with the substitution for subsection (6) of—
+- (b)[^c-16abd8866e346cf881e0437c183d78fd] with the substitution for subsection (6) of—
 
   > (6) Regulations made under this section are subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
   .
 
-**42.**[^key-a99f4541a6ffe4469261057a7360cb23] Section 141 applies—
+**42.**[^c-a99f4541a6ffe4469261057a7360cb23] Section 141 applies—
 
 - (a) with references to the Secretary of State being read as references to the Cabinet as defined in section 44 of the Constitution of the Cayman Islands; and
-- (b)[^key-d8df022061379588d03f69d05333ba4a] with the substitution for subsection (8) of—
+- (b)[^c-d8df022061379588d03f69d05333ba4a] with the substitution for subsection (8) of—
 
   > (8) An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
   .
 
-**43.**[^key-4d4e9085b1943b0583275dda75531e6d] Section 143[^f00049] applies—
+**43.**[^c-4d4e9085b1943b0583275dda75531e6d] Section 143[^f00049] applies—
 
 - (a) with references to the Secretary of State being read as references to the Cabinet as defined in section 44 of the Constitution of the Cayman Islands; and
 - (b) with the omission in subsection (2) of the words “made by statutory instrument”.
 
-**44.**[^key-3cff7b1f00d860f13e7de86b10c24ebe] Sections 145 to 148[^f00050] apply as modified and set out as follows—
+**44.**[^c-3cff7b1f00d860f13e7de86b10c24ebe] Sections 145 to 148[^f00050] apply as modified and set out as follows—
 
 > **145. The Copyright Tribunal**
 >
 > (1) There shall be a Copyright Tribunal for the Cayman Islands.
 >
-> (2)[^key-2be77915bbef9a92367a220c28597ff7] The Copyright Tribunal shall consist of a chairman, a deputy chairman and not more than three other members, appointed by the Cabinet.
+> (2)[^c-2be77915bbef9a92367a220c28597ff7] The Copyright Tribunal shall consist of a chairman, a deputy chairman and not more than three other members, appointed by the Cabinet.
 >
 > (3) A person is not eligible for appointment as chairman or deputy chairman unless—
 >
@@ -424,7 +424,7 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 >
 > (1) For the purposes of any proceedings, the Copyright Tribunal shall consist of—
 >
-> - (a) a chairman, who shall be either the chairman or [^key-311bf226a1bc950001123e06a1b92ea7]... deputy chairman of the Tribunal; and
+> - (a) a chairman, who shall be either the chairman or [^c-311bf226a1bc950001123e06a1b92ea7]... deputy chairman of the Tribunal; and
 > - (b) two other members appointed by the Minister from the panel of members.
 >
 > (2) If the members of the Copyright Tribunal dealing with any matter are not unanimous, the decision shall be taken by majority vote; and if, in such a case, the votes are equal the chairman shall have a further, casting vote.
@@ -435,9 +435,9 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 >
 > (5) A person is suitably qualified for the purpose of subsection (4) if he is, or is eligible for appointment as, chairman or deputy chairman of the Copyright Tribunal.
 
-**45.**[^key-28b631817a5a545d9bdd0dc0a71da3b5] Section 149[^f00051], applies with the omission of paragraphs (ca) and (f)[^key-6e72e4b6bcafa467ebead2ffec1d0615].
+**45.**[^c-28b631817a5a545d9bdd0dc0a71da3b5] Section 149[^f00051], applies with the omission of paragraphs (ca) and (f)[^c-6e72e4b6bcafa467ebead2ffec1d0615].
 
-**46.**[^key-49c64d01e3a0124490d264ca9b3a84f9] Sections 150 and 151[^f00052] apply as modified and set out as follows—
+**46.**[^c-49c64d01e3a0124490d264ca9b3a84f9] Sections 150 and 151[^f00052] apply as modified and set out as follows—
 
 > **150. Power to make rules**
 >
@@ -453,7 +453,7 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 >
 > (4) The rules may make provision for regulating or prescribing any matters incidental to or consequential upon any appeal from the Copyright Tribunal under section 152 (appeal to the court on point of law).
 >
-> (5)[^key-0fb152fff6b45be85eab1acae1a9b006] Rules made under this section are subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
+> (5)[^c-0fb152fff6b45be85eab1acae1a9b006] Rules made under this section are subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 >
 > **151. Costs, proof of orders**
 >
@@ -461,13 +461,13 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 >
 > (2) A document purporting to be a copy of an order of the Copyright Tribunal and to be certified by the chairman to be a true copy shall, in any proceedings, be sufficient evidence of the order unless the contrary is proved.
 
-**47.**[^key-494f426910033fa61759aa467f17eba2] Section 152 applies with the substitution for subsection (1) of—
+**47.**[^c-494f426910033fa61759aa467f17eba2] Section 152 applies with the substitution for subsection (1) of—
 
 > (1) An appeal lies on any point of law arising from a decision of the Copyright Tribunal to the Grand Court.
 
 .
 
-**48.**[^key-eb1bc26af780ad262766bd1c16f2f1d0] Section 154[^f00053] applies with the substitution for subsection (1) of—
+**48.**[^c-eb1bc26af780ad262766bd1c16f2f1d0] Section 154[^f00053] applies with the substitution for subsection (1) of—
 
 > (1) A work qualifies for copyright protection if at the material time the author—
 >
@@ -477,11 +477,11 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
 .
 
-**49.**[^key-e24a45e11005185d02ebc59bd65fc9b6] Section 155[^f00054] applies with the omission of subsection (1)(b).
+**49.**[^c-e24a45e11005185d02ebc59bd65fc9b6] Section 155[^f00054] applies with the omission of subsection (1)(b).
 
-**50.**[^key-d534739c3e7199f96a3875cb04af60b8] Section 156[^f00055] applies with the omission of subsection (1)(b).
+**50.**[^c-d534739c3e7199f96a3875cb04af60b8] Section 156[^f00055] applies with the omission of subsection (1)(b).
 
-**51.**[^key-88951b6f6fe1bedf693caf06db33b600] Section 159[^f00056] applies—
+**51.**[^c-88951b6f6fe1bedf693caf06db33b600] Section 159[^f00056] applies—
 
 - (a) with the substitution for subsection (1) of—
 
@@ -494,7 +494,7 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
   .
 - (b) with the substitution in subsection (3) of “the Cabinet shall not make an order”; for the words beginning with “or another” and ending with “in Council”;
-- (c)[^key-1264d4ee9d546bef558c2c6c67f6b681] with the substitution for subsections (4) and (5) of—
+- (c)[^c-1264d4ee9d546bef558c2c6c67f6b681] with the substitution for subsections (4) and (5) of—
 
   > (4) In subsection (3) “Convention country” means a country which is a party to a Convention relating to copyright to which the United Kingdom is also a party and which the United Kingdom has extended to the Cayman Islands.
   >
@@ -502,7 +502,7 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
   .
 
-**52.**[^key-920f341772405778f85c2143d36e68db] Sections 160 to 162[^f00057] apply as modified and set out as follows—
+**52.**[^c-920f341772405778f85c2143d36e68db] Sections 160 to 162[^f00057] apply as modified and set out as follows—
 
 > **160. Denial of copyright protection to citizens of countries not giving adequate protection to Caymanian works**
 >
@@ -519,7 +519,7 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 >
 > (4) In this section “Caymanian works” means works of which the author was a qualifying person at the material time within the meaning of section 154.
 >
-> (5)[^key-b219e38bb49ecff650565795a3c30ad1] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
+> (5)[^c-b219e38bb49ecff650565795a3c30ad1] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 >
 > **161. Territorial Waters**
 >
@@ -533,24 +533,24 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
 .
 
-**53.**[^key-b4e2c270a1ebaa0c81625575b44126c9] Section 163 applies—
+**53.**[^c-b4e2c270a1ebaa0c81625575b44126c9] Section 163 applies—
 
 - (a) with references to “Her Majesty” being read as “the Crown”; and
 - (b) with the substitution in subsection (6) for the words “to 166D” of the words “and 166”.
 
-**54.**[^key-9871f614d63c53af4545ec7a3db20c55] Section 164[^f00059] applies—
+**54.**[^c-9871f614d63c53af4545ec7a3db20c55] Section 164[^f00059] applies—
 
-- (a)[^key-6b7e71b3e80939787903da71b10aacbe] with the substitution for the words “Acts and Measures” in the section heading of the word “Laws”;
+- (a)[^c-6b7e71b3e80939787903da71b10aacbe] with the substitution for the words “Acts and Measures” in the section heading of the word “Laws”;
 - (b) with the substitution for subsections (1) and (2) of—
 
-  > (1) the Crown[^key-8aadfe06003d6510611df445c95d0c7f] is entitled to copyright in every Law of the Legislature.
+  > (1) the Crown[^c-8aadfe06003d6510611df445c95d0c7f] is entitled to copyright in every Law of the Legislature.
   >
   > (2) The copyright copyright subsists until the end of the period of 50 years from the end of the calendar year in which Governor’s Assent was given.
 
   ;
-- (c)[^key-a7e4ed4fa84b9b587e1203af156374b0] with the substitution in subsection (4) for the words “an Act or Measure” of the words “a Law”.
+- (c)[^c-a7e4ed4fa84b9b587e1203af156374b0] with the substitution in subsection (4) for the words “an Act or Measure” of the words “a Law”.
 
-**55.**[^key-5d470582f159cb5d94c6e13355c939b9] Sections 165 to 169[^f00060] apply as modified and set out as follows—
+**55.**[^c-5d470582f159cb5d94c6e13355c939b9] Sections 165 to 169[^f00060] apply as modified and set out as follows—
 
 > **165. Parliamentary copyright**
 >
@@ -616,7 +616,7 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 >
 > (4) An international organisation to which this section applies shall be deemed to have, and to have had at all material times, the legal capacities of a body corporate for the purpose of holding, dealing with and enforcing copyright and in connection with all legal proceedings relating to copyright.
 >
-> (5)[^key-2ca350775f73566ab6692676f9042e54] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
+> (5)[^c-2ca350775f73566ab6692676f9042e54] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 >
 > **169. Folklore etc.: anonymous unpublished works**
 >
@@ -630,11 +630,11 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 >
 > (5) This section does not apply if there has been an assignment of copyright in the work by the author of which notice has been given to the designated body; and nothing in this section affects the validity of an assignment of copyright made, or licence granted, by the author or a person lawfully claiming under him.
 >
-> (6)[^key-9662c40d5c50b119c7101f2d63037e29] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
+> (6)[^c-9662c40d5c50b119c7101f2d63037e29] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
 .
 
-**55A.**[^key-a7f68e12f687489969dc00c070b105f9] Section 170 applies—
+**55A.**[^c-a7f68e12f687489969dc00c070b105f9] Section 170 applies—
 
 - (a) with the reference in subsection (2)to the Secretary of State being read as a reference to the Cabinet as defined in section 44 of the Constitution of the Cayman Islands;
 - (b) with the omission in subsection (3)(a) of the words “laid down by [Directive 2006/116/EC](https://www.legislation.gov.uk/european/directive/2006/0116)”;
@@ -645,13 +645,13 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
   ; and
 - (d) with the omission of subsection (7).
 
-**56.**[^key-d48266d0465bc8612275d5fc96b40007] Section 171 applies—
+**56.**[^c-d48266d0465bc8612275d5fc96b40007] Section 171 applies—
 
 - (a) with the substitution, in subsection (1)(c), of “Legislative Assembly” for “either House of Parliament”;
 - (b) with the omission, in subsection (1)(d), of “and excise”; and
-- (c)[^key-464f9c150bdf9fe2bca1981891262df3] with the substitution in subsection (5) for the words “Acts, Measures” of the word “Laws”.
+- (c)[^c-464f9c150bdf9fe2bca1981891262df3] with the substitution in subsection (5) for the words “Acts, Measures” of the word “Laws”.
 
-**57.**[^key-6c9d9877cc6324a6bc7d2979c4425c97] Section 174[^f00061] applies as modified and set out below—
+**57.**[^c-6c9d9877cc6324a6bc7d2979c4425c97] Section 174[^f00061] applies as modified and set out below—
 
 > **174. Meaning of “educational establishment” and related expressions**
 >
@@ -670,9 +670,9 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 >
 > (6) References in this Part to anything being done “on behalf of” an educational establishment are to its being done for the purposes of that establishment by any person.
 >
-> (7)[^key-f235718dd7e6bb557bcc55d358141bc1] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
+> (7)[^c-f235718dd7e6bb557bcc55d358141bc1] An order made under this section is subject to negative resolution, as provided in section 28(3) of the Interpretation Law (1995 Revision).
 
-**58.**[^key-16226bb9d208e6bd6f3a57139458b2bd] Section 178[^f00062] applies—
+**58.**[^c-16226bb9d208e6bd6f3a57139458b2bd] Section 178[^f00062] applies—
 
 - (a) with the omission of the definitions of “parliamentary proceedings” and “public library”;
 - (b) with the substitution for the definition of “the Crown” of—
@@ -690,16 +690,16 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
   .
 
-**59.**[^key-6a41f483329b0f00212844d2d23d81d0] Section 179[^f00063] applies—
+**59.**[^c-6a41f483329b0f00212844d2d23d81d0] Section 179[^f00063] applies—
 
 - (a) with the omission from the index of defined expression of any expression followed by (“in Scotland”), “the EEA, EEA State and National of an EEA state”, “parliamentary proceedings” and “public library”;
-- (aa)[^key-4297ef47a70e41001d6235c3e1e6bacf] with the omission from the index of defined expressions of the following expressions and of the provisions indicated opposite them in the index—
+- (aa)[^c-4297ef47a70e41001d6235c3e1e6bacf] with the omission from the index of defined expressions of the following expressions and of the provisions indicated opposite them in the index—
 
   “account of profits and accounts”; “assignment”; “costs”; “defendant”; “delivery up”; “injunction”; and “interlocutory relief”;
 - (b) in the entry relating to the definition of “on behalf of (in relation to and educational establishment)”, for “section 174(5)”, substitute “section 174(6)”; and
 - (c) in the entry relating to the definition of “Parliamentary copyright”, omit the references to sections 166A(3), 166B(3), 166C(3) and 166D(3).
 
-**59A.**[^key-20278be6199fdf91485ffcc1ad1b20a9] Schedule ZA1 applies—
+**59A.**[^c-20278be6199fdf91485ffcc1ad1b20a9] Schedule ZA1 applies—
 
 - (a) with the omission of paragraph 1(2);
 - (b) with the omission in paragraph 1(3) of the words “or 198” and “or the rights conferred by Chapter 2 of Part 2”;
@@ -734,18 +734,18 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 - (w) with the omission in paragraph 6 of the words “or the rights conferred by Chapter 2 of Part 2”; and
 - (x) with the omission in paragraph 7(2) of the words “to the Office for Harmonization in the Internal Market or”.
 
-**60.**[^key-5e7d0ad3e7ad8d537b9883efca284a01] Paragraph 1 of Schedule 1 applies—
+**60.**[^c-5e7d0ad3e7ad8d537b9883efca284a01] Paragraph 1 of Schedule 1 applies—
 
 - (a) with “as applied in the Cayman Islands” inserted at the end of the definitions of “the 1911 Act” and the “1956 Act”; and
-- (b)[^key-55642388a4bdd1a1ba6fb7250c5b1d1e] with the substitution for the definition of “the new copyright provisions” of the following—
+- (b)[^c-55642388a4bdd1a1ba6fb7250c5b1d1e] with the substitution for the definition of “the new copyright provisions” of the following—
 
   > - “The new copyright provisions” means the provisions of this Act relating to copyright, that is, Part 1 (including this Schedule and Schedule ZA1).
 
   .
 
-**61.**[^key-df5b810ff1d39ab82139d11a9238332d] Paragraph 5(2)(b) of Schedule 1 applies with the substitution of “foreign countries” for “countries to which it does not extend”.
+**61.**[^c-df5b810ff1d39ab82139d11a9238332d] Paragraph 5(2)(b) of Schedule 1 applies with the substitution of “foreign countries” for “countries to which it does not extend”.
 
-**62.**[^key-50db02cfaad8e0667a04ebe006c961f3] Paragraph 6 of Schedule 1 applies—
+**62.**[^c-50db02cfaad8e0667a04ebe006c961f3] Paragraph 6 of Schedule 1 applies—
 
 - (a) with the substitution in sub-paragraph (1) of “such law as may at that time have been in force in relation to registered designs” for “the Registered Designs Act 1949”;
 - (b) with the omission in sub-paragraph (2)(a) of the words from “as defined” to “1949”; and
@@ -755,25 +755,25 @@ The provisions of Part 1 of the 1988 Act, which extend to the Cayman Islands by 
 
   .
 
-**63.**[^key-b3dc13f361cf12f5b257c3b85fcb08ab] Paragraph 15[^f00064] of Schedule 1 applies with the omission of sub-paragraph (2)(b).
+**63.**[^c-b3dc13f361cf12f5b257c3b85fcb08ab] Paragraph 15[^f00064] of Schedule 1 applies with the omission of sub-paragraph (2)(b).
 
-**64.**[^key-e387a41b209aa479fa657e7af6659a4b] Paragraph 19 of Schedule 1 applies with the omission of sub-paragraphs (2) to (7).
+**64.**[^c-e387a41b209aa479fa657e7af6659a4b] Paragraph 19 of Schedule 1 applies with the omission of sub-paragraphs (2) to (7).
 
-**65.**[^key-bdddd40a41e8e94afcb4407ee6d057f2] Paragraph 23 of Schedule 1 applies with the omission of sub-paragraph (4).
+**65.**[^c-bdddd40a41e8e94afcb4407ee6d057f2] Paragraph 23 of Schedule 1 applies with the omission of sub-paragraph (4).
 
-**66.**[^key-e25ace74f171d391c76dddf27ccf1f42] Paragraph 38 of Schedule 1 applies with the omission of the words “or the United Kingdom section of the Continental Shelf”.
+**66.**[^c-e25ace74f171d391c76dddf27ccf1f42] Paragraph 38 of Schedule 1 applies with the omission of the words “or the United Kingdom section of the Continental Shelf”.
 
-**67.**[^key-376c61894b84a7ef2bb77d9bd65b3ad0] Paragraph 39 applies with the substitution of “Caymanian ships and aircraft” for “British ships, aircraft and hovercraft”.
+**67.**[^c-376c61894b84a7ef2bb77d9bd65b3ad0] Paragraph 39 applies with the substitution of “Caymanian ships and aircraft” for “British ships, aircraft and hovercraft”.
 
-**68.**[^key-8be0ade74dbdba4e24a99493a53e0791] Paragraph 40(1)(b) applies with the substitution of the words “Laws” for the words “Acts, measures.”.
+**68.**[^c-8be0ade74dbdba4e24a99493a53e0791] Paragraph 40(1)(b) applies with the substitution of the words “Laws” for the words “Acts, measures.”.
 
-**69.**[^key-fc2e254e01c0514d8e6d217c957a27d6] For paragraph 42, substitute—
+**69.**[^c-fc2e254e01c0514d8e6d217c957a27d6] For paragraph 42, substitute—
 
-> **42.** Section 164 (copyright in Laws[^key-9fef75317e2ac5f394deeae97807358b]) applies to existing Laws of the Legislature.
+> **42.** Section 164 (copyright in Laws[^c-9fef75317e2ac5f394deeae97807358b]) applies to existing Laws of the Legislature.
 
 .
 
-**70.**[^key-b58137e555c8a45391071bfbf86cf825] Paragraph 43(2) applies with—
+**70.**[^c-b58137e555c8a45391071bfbf86cf825] Paragraph 43(2) applies with—
 
 - (a) the omission of the word “Parliamentary” wherever it appears;
 - (b) in sub-paragraph (2)(a) the substitution of “the Legislature” for “Parliament”;
@@ -790,17 +790,17 @@ This Order extends Part 1 of the Copyright, Designs and Patents Act 1988 to the 
 
 [^f00001]: Footnote: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-b46ff389f5e397f0a156ee8efb4f68f2]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-b46ff389f5e397f0a156ee8efb4f68f2]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-58f0c826e992ee579868a838402b39e4]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/795/article/2) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-58f0c826e992ee579868a838402b39e4]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2015/795/article/2) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00002]: Footnote: Part 1 of the 1988 Act been amended. Relevant amendments have been made by the Courts and Legal Services Act [1990 (c.41)](https://www.legislation.gov.uk/ukpga/1990/41), the Broadcasting Act [1990 (c.42)](https://www.legislation.gov.uk/ukpga/1990/42), the Judicial Pensions and Retirement Act [1993 (c.8)](https://www.legislation.gov.uk/ukpga/1993/8), the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), the Merchant Shipping Act [1995 (c.21)](https://www.legislation.gov.uk/ukpga/1995/21), the Criminal Procedure (Consequential Provisions) (Scotland) Act [1995 c.40](https://www.legislation.gov.uk/ukpga/1995/40), the Arbitration Act [1996 (c.23)](https://www.legislation.gov.uk/ukpga/1996/23), the Broadcasting Act [1996 (c.55)](https://www.legislation.gov.uk/ukpga/1996/55), the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56), the Government of Wales Act [1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), the Northern Ireland Act [1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47), the Powers of the Criminal Court (Sentencing) Act [2000 (c.6)](https://www.legislation.gov.uk/ukpga/2000/6), the Copyright, etc. and Trade Marks (Offences and Enforcement Act [2002 (c.25)](https://www.legislation.gov.uk/ukpga/2002/25), the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), the British Overseas Territories Act [2003 (c.8)](https://www.legislation.gov.uk/ukpga/2003/8), the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), the Legal Deposit Libraries Act [2003 (c.28)](https://www.legislation.gov.uk/ukpga/2003/28), the Constitutional Reform Act [2004 (c.4)](https://www.legislation.gov.uk/ukpga/2004/4), the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), the National Health Service (Consequential Provisions Act [2006 c.43](https://www.legislation.gov.uk/ukpga/2006/43), the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14), the Digital Economy Act [2010 (c.24)](https://www.legislation.gov.uk/ukpga/2010/24), the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), the Intellectual Property Act [2014 (c.23)](https://www.legislation.gov.uk/ukpga/2014/23), [S.I.1992/3233](https://www.legislation.gov.uk/uksi/1992/3233), [S.I. 1995/1445](https://www.legislation.gov.uk/uksi/1995/1445), [S.I.1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), [S.I.1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), [S.I. 1997/3032](https://www.legislation.gov.uk/uksi/1997/3032), [S.I. 1999/506](https://www.legislation.gov.uk/uksi/1999/506), [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678), [S.I.1999/2795](https://www.legislation.gov.uk/uksi/1999/2795), [S.I. 2000/90](https://www.legislation.gov.uk/uksi/2000/90). [S.I. 2000/311](https://www.legislation.gov.uk/uksi/2000/311), [S.I. 2001/3949](https://www.legislation.gov.uk/uksi/2001/3949), [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), [S.I. 2006/1016](https://www.legislation.gov.uk/uksi/2006/1016), [S.I. 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028), [S.I. 2007/1116](https://www.legislation.gov.uk/uksi/2007/1116), [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), [2009/1941](https://www.legislation.gov.uk/uksi/2009/1941), [S.I. 2010/2694](https://www.legislation.gov.uk/uksi/2010/2694), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.I. 2013/1782](https://www.legislation.gov.uk/uksi/2013/1782), [S.I. 2014 892](https://www.legislation.gov.uk/uksi/2014/892), [S.I. 2014/1372](https://www.legislation.gov.uk/uksi/2014/1372), [S.I. 2014/1384](https://www.legislation.gov.uk/uksi/2014/1384), [S.I. 2014/1385](https://www.legislation.gov.uk/uksi/2014/1385), [S.I. 2014/2356](https://www.legislation.gov.uk/uksi/2014/2356) and [S.I. 2014/2361](https://www.legislation.gov.uk/uksi/2014/2361).
 
-[^key-2151d077e9a135efe6614e2428b40437]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/1) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-2151d077e9a135efe6614e2428b40437]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/1) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00003]: Footnote: Section 44A was inserted by the [Legal Deposit Libraries Act 2003(c.28)](https://www.legislation.gov.uk/ukpga/2003/28), section 8(1).
 
-[^key-9554d59b86d95fef1f803a68596b75a1]: Textual amendment: Word in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/1/a) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/370/article/2/2)
+[^c-9554d59b86d95fef1f803a68596b75a1]: Textual amendment: Word in [Sch. para. 1(a)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/1/a) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/370/article/2/2)
 
 [^f00005]: Footnote: Section 98 was amended by [S.I. 2014/892](https://www.legislation.gov.uk/uksi/2014/892), article 2 and Schedule 1, Part 2, paragraphs 55 and 56.
 
@@ -824,45 +824,45 @@ This Order extends Part 1 of the Copyright, Designs and Patents Act 1988 to the 
 
 [^f00015]: Footnote: Schedule A1 was inserted by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), section 77(4) and Schedule 22, Part 1, paragraph 1.
 
-[^key-43167df50e65da0a9e0e273ad733fb40]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/2) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-43167df50e65da0a9e0e273ad733fb40]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/2) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-af5f8a44b39c0957db9399c1fb8db660]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/3) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-af5f8a44b39c0957db9399c1fb8db660]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/3) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-82720b0be0b5a0aec567f98127d29d22]: Textual amendment: [Sch. para. 3(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/3/c) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [4](https://www.legislation.gov.uk/uksi/2016/370/article/4)
+[^c-82720b0be0b5a0aec567f98127d29d22]: Textual amendment: [Sch. para. 3(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/3/c) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [4](https://www.legislation.gov.uk/uksi/2016/370/article/4)
 
-[^key-5750094dae7babff20fbc3d978ed5e66]: Textual amendment: [Sch. para. 3A](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/3A) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [5](https://www.legislation.gov.uk/uksi/2016/370/article/5)
+[^c-5750094dae7babff20fbc3d978ed5e66]: Textual amendment: [Sch. para. 3A](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/3A) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [5](https://www.legislation.gov.uk/uksi/2016/370/article/5)
 
-[^key-6a77f2e3aac3c458745765366de37b45]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/4) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-6a77f2e3aac3c458745765366de37b45]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/4) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00016]: Footnote: Section 27 was amended by [S.I. 1992/3233](https://www.legislation.gov.uk/uksi/1992/3233), regulation 6, [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulation 4, [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498) and regulations 2(2), 3, 20(3) and Schedule 2, [S.I. 2011/ 1043](https://www.legislation.gov.uk/uksi/2011/1043), article 6(1)(f), [S.I. 2014/1372](https://www.legislation.gov.uk/uksi/2014/1372), regulation 2 and the Schedule, paragraph 2, [S.I. 2014/1384](https://www.legislation.gov.uk/uksi/2014/1384), regulation 4 and the Schedule, paragraph 1 and [S.I. 2014/2361](https://www.legislation.gov.uk/uksi/2014/2361), regulations 2 and 4(1).
 
-[^key-1a0c14e88ca7159a13ffa0f997073a27]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/5) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-1a0c14e88ca7159a13ffa0f997073a27]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/5) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00017]: Footnote: Section 31BB was inserted by [S.I. 2014/1384](https://www.legislation.gov.uk/uksi/2014/1384), regulation 2.
 
-[^key-59011dae340c2f1ca573ccec61a2614f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/6) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-59011dae340c2f1ca573ccec61a2614f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/6) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00018]: Footnote: Section 40A was inserted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulation 11(2) and amended by the Digital Economy Act [2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), sections 43(6) and (7) and [S.I. 2014/1372](https://www.legislation.gov.uk/uksi/2014/1372), regulation 2 and Schedule, paragraph 3.
 
-[^key-d7f9ec4a978dbd9ddd690471773bb1ea]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/7) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-d7f9ec4a978dbd9ddd690471773bb1ea]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/7) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-bbb4242f4edcd908c4c6cb87e6e19f97]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/8) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-bbb4242f4edcd908c4c6cb87e6e19f97]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/8) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00019]: Footnote: Section 47 was amended by [S.I. 2014/1385](https://www.legislation.gov.uk/uksi/2014/1385), regulation 2(1).
 
-[^key-10e64af2dde7a241d04f6dac10a73abb]: Textual amendment: [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/8/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [6](https://www.legislation.gov.uk/uksi/2016/370/article/6)
+[^c-10e64af2dde7a241d04f6dac10a73abb]: Textual amendment: [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/8/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [6](https://www.legislation.gov.uk/uksi/2016/370/article/6)
 
-[^key-0becf048bc5e3e38822b25ba2ba12566]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/9) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-0becf048bc5e3e38822b25ba2ba12566]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/9) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00020]: Footnote: Section 48 has been amended and relevant amendments were made by [S.I. 2014/1385](https://www.legislation.gov.uk/uksi/2014/1385), regulation 2(2).
 
-[^key-fcdbad6d2e09d71136710e8414dce0e2]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/10) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-fcdbad6d2e09d71136710e8414dce0e2]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/10) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00021]: Footnote: Section 49 was amended by the Government of Wales Act [1998 (c.38)](https://www.legislation.gov.uk/ukpga/1998/38), section 125, Schedule 12, paragraph 27 and the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), section 160(1) and Schedule 10, paragraphs 22 and 24.
 
-[^key-b02b10991f5c196f341ad21c86701d72]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/11) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-b02b10991f5c196f341ad21c86701d72]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/11) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-cabb61da6c426454ade18bcfdb16a2d6]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/12) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-cabb61da6c426454ade18bcfdb16a2d6]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/12) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00022]: Footnote: Section 50A was inserted by [S.I. 1992/3233](https://www.legislation.gov.uk/uksi/1992/3233), regulation 8.
 
@@ -872,51 +872,51 @@ This Order extends Part 1 of the Copyright, Designs and Patents Act 1988 to the 
 
 [^f00025]: Footnote: Section 50D was inserted by [S.I. 1997/3032](https://www.legislation.gov.uk/uksi/1997/3032), regulation 9.
 
-[^key-dfb67f73d2d9938928a361d13ef63520]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/13) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-dfb67f73d2d9938928a361d13ef63520]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/13) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00026]: Footnote: Section 52 is prospectively repealed by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), section 74.
 
-[^key-541899b64681be199227d21af019eb27]: Textual amendment: [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/13/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [7](https://www.legislation.gov.uk/uksi/2016/370/article/7)
+[^c-541899b64681be199227d21af019eb27]: Textual amendment: [Sch. para. 13(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/13/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [7](https://www.legislation.gov.uk/uksi/2016/370/article/7)
 
-[^key-2f67bbb2bbc8ff92f3253476b044586c]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/14) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [8](https://www.legislation.gov.uk/uksi/2016/370/article/8)
+[^c-2f67bbb2bbc8ff92f3253476b044586c]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/14) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [8](https://www.legislation.gov.uk/uksi/2016/370/article/8)
 
-[^key-fc06140543c1b43a4451f537fd323d25]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/15) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [9](https://www.legislation.gov.uk/uksi/2016/370/article/9)
+[^c-fc06140543c1b43a4451f537fd323d25]: Textual amendment: [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/15) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [9](https://www.legislation.gov.uk/uksi/2016/370/article/9)
 
-[^key-f4ec9a7de961279231e6448974210964]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/16) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-f4ec9a7de961279231e6448974210964]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/16) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00028]: Footnote: Section 66 was substituted by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulation 11(3).
 
-[^key-2685fc68f92d9e301ee6cb3cc3b7db18]: Textual amendment: [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/16/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [10](https://www.legislation.gov.uk/uksi/2016/370/article/10)
+[^c-2685fc68f92d9e301ee6cb3cc3b7db18]: Textual amendment: [Sch. para. 16(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/16/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [10](https://www.legislation.gov.uk/uksi/2016/370/article/10)
 
-[^key-88a7ba197d289c1ab7b1fb76a896a2ff]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/17) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-88a7ba197d289c1ab7b1fb76a896a2ff]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/17) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00029]: Footnote: Section 69 was amended by the Broadcasting Act [1996 (c.55)](https://www.legislation.gov.uk/ukpga/1996/55), section 148(1) and Schedule 10, paragraph 31, the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 91 and section 406(7) and Schedule 19.
 
-[^key-e951af228788f3226584e10b3ae4eefd]: Textual amendment: Words in [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/17) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [11](https://www.legislation.gov.uk/uksi/2016/370/article/11)
+[^c-e951af228788f3226584e10b3ae4eefd]: Textual amendment: Words in [Sch. para. 17](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/17) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [11](https://www.legislation.gov.uk/uksi/2016/370/article/11)
 
-[^key-d32ca2cd22d10a51d8e7f3b47df36190]: Textual amendment: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/18) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [12](https://www.legislation.gov.uk/uksi/2016/370/article/12)
+[^c-d32ca2cd22d10a51d8e7f3b47df36190]: Textual amendment: [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/18) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [12](https://www.legislation.gov.uk/uksi/2016/370/article/12)
 
-[^key-2346f95ce217425d8e27dd680bd6f46e]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/19) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-2346f95ce217425d8e27dd680bd6f46e]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/19) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-bc2a4f45083e6d2e234c6d383f041c6b]: Textual amendment: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/20) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [13](https://www.legislation.gov.uk/uksi/2016/370/article/13)
+[^c-bc2a4f45083e6d2e234c6d383f041c6b]: Textual amendment: [Sch. para. 20](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/20) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [13](https://www.legislation.gov.uk/uksi/2016/370/article/13)
 
-[^key-191e52a050f69bceafa73703f4802b68]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/21) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-191e52a050f69bceafa73703f4802b68]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/21) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00031]: Footnote: Section 82(1)(a) was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2 and Schedule 1, Part 1, paragraphs 1 and 18(2).
 
-[^key-82c848a1b0e618f817d56bb2ab7d7dd0]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/22) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-82c848a1b0e618f817d56bb2ab7d7dd0]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/22) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-86e1c6e6eb94fde3217fb899dfc038ea]: Textual amendment: Words in [Sch. para. 22](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/22) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [14](https://www.legislation.gov.uk/uksi/2016/370/article/14)
+[^c-86e1c6e6eb94fde3217fb899dfc038ea]: Textual amendment: Words in [Sch. para. 22](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/22) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [14](https://www.legislation.gov.uk/uksi/2016/370/article/14)
 
-[^key-defff65afc62f3f24520b196cae4d1d8]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/23) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-defff65afc62f3f24520b196cae4d1d8]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/23) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00032]: Footnote: Section 97A was inserted by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulations 3 and 27(1).
 
-[^key-2c0d1eababfb8f5b7d0e5759855c7db8]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/24) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-2c0d1eababfb8f5b7d0e5759855c7db8]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/24) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-98cba4bc47091ec4931145dfe621ed50]: Textual amendment: [Sch. para. 24(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/24/c) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [15](https://www.legislation.gov.uk/uksi/2016/370/article/15)
+[^c-98cba4bc47091ec4931145dfe621ed50]: Textual amendment: [Sch. para. 24(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/24/c) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [15](https://www.legislation.gov.uk/uksi/2016/370/article/15)
 
-[^key-f30057836ed7a588bbf8d0bf0f50bd0c]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/25) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-f30057836ed7a588bbf8d0bf0f50bd0c]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/25) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00033]: Footnote: Section 107(4)(a) was amended by the Digital Economy Act [2010 (c.24)](https://www.legislation.gov.uk/ukpga/2010/24), section 42.
 
@@ -924,192 +924,192 @@ This Order extends Part 1 of the Copyright, Designs and Patents Act 1988 to the 
 
 [^f00035]: Footnote: Section 107(5) was amended by [S.I. 2010/2694](https://www.legislation.gov.uk/uksi/2010/2694), regulation 5.
 
-[^key-8260700b370e13103b3c9c60216e4601]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/26) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-8260700b370e13103b3c9c60216e4601]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/26) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00036]: Footnote: Section 107A was inserted by the Criminal Justice and Public Order Act [1994 (c.33)](https://www.legislation.gov.uk/ukpga/1994/33), section 165(2).
 
-[^key-47c7d4cf2cec511479d731ffea612f20]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/27) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-47c7d4cf2cec511479d731ffea612f20]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/27) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00037]: Footnote: Section 108 was amended by the Powers of the Criminal Court (Sentencing) Act [2000 (c.6)](https://www.legislation.gov.uk/ukpga/2000/6), section 165(1) and by the Criminal Procedure (Consequential Provisions)(Scotland) Act [1995 (c.40)](https://www.legislation.gov.uk/ukpga/1995/40), section 5 and Schedule 4 paragraph 70(2).
 
-[^key-1b41451be4520927be8d724a00e8ea5d]: Textual amendment: [Sch. para. 27(d)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/27/d) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [16](https://www.legislation.gov.uk/uksi/2016/370/article/16)
+[^c-1b41451be4520927be8d724a00e8ea5d]: Textual amendment: [Sch. para. 27(d)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/27/d) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [16](https://www.legislation.gov.uk/uksi/2016/370/article/16)
 
-[^key-a87a396fc3f2f5d9319ef3075102f4fc]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/28) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-a87a396fc3f2f5d9319ef3075102f4fc]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/28) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00038]: Footnote: Section 109 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulations 3 and 26(2), the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), section 174(2) and Schedule 16, paragraph 6 and the Copyright, etc. and Trade Marks (Offences and Enforcement) Act [2002 (c.25)](https://www.legislation.gov.uk/ukpga/2002/25), section 2.
 
-[^key-661fd1c8ccb7a8765dda4e1cd39eb25c]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/29) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-661fd1c8ccb7a8765dda4e1cd39eb25c]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/29) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00039]: Footnote: Section 111 was amended by [S.I. 1995/1445](https://www.legislation.gov.uk/uksi/1995/1445), regulation 2(2) and [S.I. 2004/1473](https://www.legislation.gov.uk/uksi/2004/1473), regulation 1.
 
-[^key-c09c791267ae785ddca00937e8fad369]: Textual amendment: Word in [Sch. para. 29(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/29/b) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [17](https://www.legislation.gov.uk/uksi/2016/370/article/17)
+[^c-c09c791267ae785ddca00937e8fad369]: Textual amendment: Word in [Sch. para. 29(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/29/b) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [17](https://www.legislation.gov.uk/uksi/2016/370/article/17)
 
-[^key-1e72dbd7dfbac1ed5d3234bfb22ca7e5]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/30) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-1e72dbd7dfbac1ed5d3234bfb22ca7e5]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/30) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00040]: Footnote: Section 112(5) was repealed by the Commissioners for Revenue and Customs Act [2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11), sections 50(6) and 52(2) and Schedule 4, paragraph 38 and Schedule 5.
 
-[^key-b14a216ab041bf90d743d1671dfda347]: Textual amendment: [Sch. para. 30(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/30/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [18](https://www.legislation.gov.uk/uksi/2016/370/article/18)
+[^c-b14a216ab041bf90d743d1671dfda347]: Textual amendment: [Sch. para. 30(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/30/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [18](https://www.legislation.gov.uk/uksi/2016/370/article/18)
 
-[^key-c34d8a95b02c0d042a3d630e96e1561c]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/31) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-c34d8a95b02c0d042a3d630e96e1561c]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/31) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-d753dbf13b6a99a41611e4539280e154]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/32) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-d753dbf13b6a99a41611e4539280e154]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/32) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00041]: Footnote: Section 114 was amended by [S.I. 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028), regulation 2(2) and Schedule 2, paragraphs 6 and 7.
 
-[^key-016f90ca6cf096e9ac35b1f5722e195e]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/33) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-016f90ca6cf096e9ac35b1f5722e195e]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/33) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00042]: Footnote: Section 114A was inserted by the Copyright, etc. and Trade Marks (Offences and Enforcement) Act [2002 (c.25)](https://www.legislation.gov.uk/ukpga/2002/25), section 3 and amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulations 2 and 26(2)(iii) and by [S.I. 2008/1277](https://www.legislation.gov.uk/uksi/2008/1277), regulation 30(1) and Schedule 2, Part 1, paragraphs 39 and 40.
 
-[^key-72c5064f1a6b0fc348fb7b0bc6cfdc2c]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/34) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-72c5064f1a6b0fc348fb7b0bc6cfdc2c]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/34) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00043]: Footnote: Section 115 was amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5), Schedule 9, Part 3, paragraph 72.
 
-[^key-9463530c186e3924803d9af6f4666f48]: Textual amendment: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/35) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [19](https://www.legislation.gov.uk/uksi/2016/370/article/19)
+[^c-9463530c186e3924803d9af6f4666f48]: Textual amendment: [Sch. para. 35](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/35) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [19](https://www.legislation.gov.uk/uksi/2016/370/article/19)
 
-[^key-e1b23a0367a89638c7edcb765d380b8f]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/36) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-e1b23a0367a89638c7edcb765d380b8f]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/36) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00045]: Footnote: Sections 116A and 116B were inserted by the Enterprise and Regulatory Reform Act [2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), section 77(1) and (3).
 
-[^key-e514a0dbc03ad8314e288b138f0baca2]: Textual amendment: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/37) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [20](https://www.legislation.gov.uk/uksi/2016/370/article/20)
+[^c-e514a0dbc03ad8314e288b138f0baca2]: Textual amendment: [Sch. para. 37](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/37) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [20](https://www.legislation.gov.uk/uksi/2016/370/article/20)
 
-[^key-dbb32769c7544272a9e1293c0127dc54]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/38) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-dbb32769c7544272a9e1293c0127dc54]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/38) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00047]: Footnote: Section 134 was amended by the Broadcasting Act [1996 (c.55)](https://www.legislation.gov.uk/ukpga/1996/55), section 138 and Schedule 9, paragraph 2 and section 203(3) and Schedule 21 and [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(2) and Schedule 2.
 
-[^key-c3c72b7cd5614e9c369d4b104b3ae1c2]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/39) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-c3c72b7cd5614e9c369d4b104b3ae1c2]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/39) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00048]: Footnote: Section 135H was inserted by the Broadcasting Act [1996 (c.55)](https://www.legislation.gov.uk/ukpga/1996/55), section 139(1) and amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(2) and Schedule 2.
 
-[^key-bdfd9c94017f82f5eda770ffd27cd7c4]: Textual amendment: [Sch. para. 39(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/39/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [21](https://www.legislation.gov.uk/uksi/2016/370/article/21)
+[^c-bdfd9c94017f82f5eda770ffd27cd7c4]: Textual amendment: [Sch. para. 39(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/39/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [21](https://www.legislation.gov.uk/uksi/2016/370/article/21)
 
-[^key-8360044de9a2808a9531622de7351b13]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/40) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-8360044de9a2808a9531622de7351b13]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/40) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-d7df17a2de9f6b1fcc409c1b22b465ce]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/41) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-d7df17a2de9f6b1fcc409c1b22b465ce]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/41) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-16abd8866e346cf881e0437c183d78fd]: Textual amendment: [Sch. para. 41(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/41/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [22](https://www.legislation.gov.uk/uksi/2016/370/article/22)
+[^c-16abd8866e346cf881e0437c183d78fd]: Textual amendment: [Sch. para. 41(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/41/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [22](https://www.legislation.gov.uk/uksi/2016/370/article/22)
 
-[^key-a99f4541a6ffe4469261057a7360cb23]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/42) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-a99f4541a6ffe4469261057a7360cb23]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/42) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-d8df022061379588d03f69d05333ba4a]: Textual amendment: [Sch. para. 42(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/42/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [23](https://www.legislation.gov.uk/uksi/2016/370/article/23)
+[^c-d8df022061379588d03f69d05333ba4a]: Textual amendment: [Sch. para. 42(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/42/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [23](https://www.legislation.gov.uk/uksi/2016/370/article/23)
 
-[^key-4d4e9085b1943b0583275dda75531e6d]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/43) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-4d4e9085b1943b0583275dda75531e6d]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/43) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00049]: Footnote: Section 143 has been amended by [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulation 11(4), [S.I. 2014/1372](https://www.legislation.gov.uk/uksi/2014/1372), regulation 2 and the Schedule, paragraph 5 and [S.I. 2014/1384](https://www.legislation.gov.uk/uksi/2014/1384), regulation 4 and the Schedule, paragraph 2.
 
-[^key-3cff7b1f00d860f13e7de86b10c24ebe]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/44) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-3cff7b1f00d860f13e7de86b10c24ebe]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/44) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00050]: Footnote: Section 146 was amended by the Judicial Pensions and Retirement Act [1993 (c.8)](https://www.legislation.gov.uk/ukpga/1993/8), section 26 and Schedule 6, paragraph 49, the Constitutional Reform Act [2004 (c.4)](https://www.legislation.gov.uk/ukpga/2004/4), section 15(1), Schedule 4, Part 1, paragraphs 198 and 199 and [S.I. 2006/1016](https://www.legislation.gov.uk/uksi/2006/1016), article 4 and Schedule 3.
 
-[^key-2be77915bbef9a92367a220c28597ff7]: Textual amendment: Words in [Sch. para. 44](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/44) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [24(a)](https://www.legislation.gov.uk/uksi/2016/370/article/24/a)
+[^c-2be77915bbef9a92367a220c28597ff7]: Textual amendment: Words in [Sch. para. 44](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/44) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [24(a)](https://www.legislation.gov.uk/uksi/2016/370/article/24/a)
 
-[^key-311bf226a1bc950001123e06a1b92ea7]: Textual amendment: Word in [Sch. para. 44](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/44) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [24(b)](https://www.legislation.gov.uk/uksi/2016/370/article/24/b)
+[^c-311bf226a1bc950001123e06a1b92ea7]: Textual amendment: Word in [Sch. para. 44](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/44) omitted (coming into force in accordance with art. 1 of the amending S.I.) by virtue of [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [24(b)](https://www.legislation.gov.uk/uksi/2016/370/article/24/b)
 
-[^key-28b631817a5a545d9bdd0dc0a71da3b5]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/45) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-28b631817a5a545d9bdd0dc0a71da3b5]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/45) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00051]: Footnote: Section 149 was amended by the Broadcasting Act [1990 (c.42)](https://www.legislation.gov.uk/ukpga/1990/42), section 175(1), the Broadcasting Act [1996 (c.55)](https://www.legislation.gov.uk/ukpga/1996/55), section 138, Schedule 9, paragraph 3, [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulations 14(2) and 24(2) and [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498) regulations 2(2), 3, 21(6) and Schedule 2.
 
-[^key-6e72e4b6bcafa467ebead2ffec1d0615]: Textual amendment: Words in [Sch. para. 45](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/45) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [25](https://www.legislation.gov.uk/uksi/2016/370/article/25)
+[^c-6e72e4b6bcafa467ebead2ffec1d0615]: Textual amendment: Words in [Sch. para. 45](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/45) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [25](https://www.legislation.gov.uk/uksi/2016/370/article/25)
 
-[^key-49c64d01e3a0124490d264ca9b3a84f9]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/46) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-49c64d01e3a0124490d264ca9b3a84f9]: Commencement: [Sch. para. 46](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/46) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00052]: Footnote: Section 150 was amended by the Arbitration Act [1996 (c.23)](https://www.legislation.gov.uk/ukpga/1996/23), section 107(1) and Schedule 3, paragraph 50 and [S.I. 1999/678](https://www.legislation.gov.uk/uksi/1999/678), article 2(1) and Schedule.
 
-[^key-0fb152fff6b45be85eab1acae1a9b006]: Textual amendment: Words in [Sch. para. 46](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/46) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [26](https://www.legislation.gov.uk/uksi/2016/370/article/26)
+[^c-0fb152fff6b45be85eab1acae1a9b006]: Textual amendment: Words in [Sch. para. 46](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/46) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [26](https://www.legislation.gov.uk/uksi/2016/370/article/26)
 
-[^key-494f426910033fa61759aa467f17eba2]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/47) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-494f426910033fa61759aa467f17eba2]: Commencement: [Sch. para. 47](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/47) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-eb1bc26af780ad262766bd1c16f2f1d0]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/48) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-eb1bc26af780ad262766bd1c16f2f1d0]: Commencement: [Sch. para. 48](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/48) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00053]: Footnote: Section 154 was amended by the British Overseas Territories Act [2003 (c.8)](https://www.legislation.gov.uk/ukpga/2003/8), section 2(3) and is prospectively amended from a date to be appointed by the Intellectual Property Act [2014 (c.18)](https://www.legislation.gov.uk/ukpga/2014/18), section 22.
 
-[^key-e24a45e11005185d02ebc59bd65fc9b6]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/49) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-e24a45e11005185d02ebc59bd65fc9b6]: Commencement: [Sch. para. 49](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/49) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00054]: Footnote: Section 155 is prospectively amended from a date to be appointed by the Intellectual Property Act [2014 (c.18)](https://www.legislation.gov.uk/ukpga/2014/18), section 22.
 
-[^key-d534739c3e7199f96a3875cb04af60b8]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/50) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-d534739c3e7199f96a3875cb04af60b8]: Commencement: [Sch. para. 50](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/50) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00055]: Footnote: Section 156 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(2) and Schedule 2 and is prospectively amended from a date to be appointed by the Intellectual Property Act [2014 (c.18)](https://www.legislation.gov.uk/ukpga/2014/18), section 22.
 
-[^key-88951b6f6fe1bedf693caf06db33b600]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/51) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-88951b6f6fe1bedf693caf06db33b600]: Commencement: [Sch. para. 51](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/51) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00056]: Footnote: Section 159 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(2) and Schedule 2.
 
-[^key-1264d4ee9d546bef558c2c6c67f6b681]: Textual amendment: [Sch. para. 51(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/51/c) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [27](https://www.legislation.gov.uk/uksi/2016/370/article/27)
+[^c-1264d4ee9d546bef558c2c6c67f6b681]: Textual amendment: [Sch. para. 51(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/51/c) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [27](https://www.legislation.gov.uk/uksi/2016/370/article/27)
 
-[^key-920f341772405778f85c2143d36e68db]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/52) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-920f341772405778f85c2143d36e68db]: Commencement: [Sch. para. 52](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/52) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00057]: Footnote: Section 162 was amended by the Merchant Shipping Act [1995 (c.21)](https://www.legislation.gov.uk/ukpga/1995/21), section 314(2) and Schedule 13, paragraph 84(a).
 
-[^key-b219e38bb49ecff650565795a3c30ad1]: Textual amendment: Words in [Sch. para. 52](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/52) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [28](https://www.legislation.gov.uk/uksi/2016/370/article/28)
+[^c-b219e38bb49ecff650565795a3c30ad1]: Textual amendment: Words in [Sch. para. 52](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/52) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [28](https://www.legislation.gov.uk/uksi/2016/370/article/28)
 
-[^key-b4e2c270a1ebaa0c81625575b44126c9]: Textual amendment: [Sch. para. 53](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/53) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [29](https://www.legislation.gov.uk/uksi/2016/370/article/29)
+[^c-b4e2c270a1ebaa0c81625575b44126c9]: Textual amendment: [Sch. para. 53](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/53) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [29](https://www.legislation.gov.uk/uksi/2016/370/article/29)
 
-[^key-9871f614d63c53af4545ec7a3db20c55]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/54) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-9871f614d63c53af4545ec7a3db20c55]: Commencement: [Sch. para. 54](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/54) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00059]: Footnote: Section 164 was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), section 125 and Schedule 8, paragraph 25(5), the Northern Ireland Act [1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47), section 99 and Schedule 13, paragraph 8 and the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32), section 160(1) and Schedule 10, paragraphs 22 and 27.
 
-[^key-6b7e71b3e80939787903da71b10aacbe]: Textual amendment: [Sch. para. 54(a)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/54/a) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [30(a)](https://www.legislation.gov.uk/uksi/2016/370/article/30/a)
+[^c-6b7e71b3e80939787903da71b10aacbe]: Textual amendment: [Sch. para. 54(a)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/54/a) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [30(a)](https://www.legislation.gov.uk/uksi/2016/370/article/30/a)
 
-[^key-8aadfe06003d6510611df445c95d0c7f]: Textual amendment: Words in [Sch. para. 54(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/54/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [30(b)](https://www.legislation.gov.uk/uksi/2016/370/article/30/b)
+[^c-8aadfe06003d6510611df445c95d0c7f]: Textual amendment: Words in [Sch. para. 54(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/54/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [30(b)](https://www.legislation.gov.uk/uksi/2016/370/article/30/b)
 
-[^key-a7e4ed4fa84b9b587e1203af156374b0]: Textual amendment: [Sch. para. 54(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/54/c) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [30(c)](https://www.legislation.gov.uk/uksi/2016/370/article/30/c)
+[^c-a7e4ed4fa84b9b587e1203af156374b0]: Textual amendment: [Sch. para. 54(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/54/c) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [30(c)](https://www.legislation.gov.uk/uksi/2016/370/article/30/c)
 
-[^key-5d470582f159cb5d94c6e13355c939b9]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/55) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-5d470582f159cb5d94c6e13355c939b9]: Commencement: [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/55) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00060]: Footnote: Section 165 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(1), Schedule 1, Part 1, paragraphs 1 and 11(b) and modified by [S.I. 2007/1116](https://www.legislation.gov.uk/uksi/2007/1116).
 
-[^key-2ca350775f73566ab6692676f9042e54]: Textual amendment: Words in [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/55) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [31(a)](https://www.legislation.gov.uk/uksi/2016/370/article/31/a)
+[^c-2ca350775f73566ab6692676f9042e54]: Textual amendment: Words in [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/55) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [31(a)](https://www.legislation.gov.uk/uksi/2016/370/article/31/a)
 
-[^key-9662c40d5c50b119c7101f2d63037e29]: Textual amendment: Words in [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/55) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [31(b)](https://www.legislation.gov.uk/uksi/2016/370/article/31/b)
+[^c-9662c40d5c50b119c7101f2d63037e29]: Textual amendment: Words in [Sch. para. 55](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/55) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [31(b)](https://www.legislation.gov.uk/uksi/2016/370/article/31/b)
 
-[^key-a7f68e12f687489969dc00c070b105f9]: Textual amendment: [Sch. para. 55A](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/55A) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [32](https://www.legislation.gov.uk/uksi/2016/370/article/32)
+[^c-a7f68e12f687489969dc00c070b105f9]: Textual amendment: [Sch. para. 55A](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/55A) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [32](https://www.legislation.gov.uk/uksi/2016/370/article/32)
 
-[^key-d48266d0465bc8612275d5fc96b40007]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/56) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-d48266d0465bc8612275d5fc96b40007]: Commencement: [Sch. para. 56](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/56) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-464f9c150bdf9fe2bca1981891262df3]: Textual amendment: [Sch. para. 56(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/56/c) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [33](https://www.legislation.gov.uk/uksi/2016/370/article/33)
+[^c-464f9c150bdf9fe2bca1981891262df3]: Textual amendment: [Sch. para. 56(c)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/56/c) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [33](https://www.legislation.gov.uk/uksi/2016/370/article/33)
 
-[^key-6c9d9877cc6324a6bc7d2979c4425c97]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/57) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-6c9d9877cc6324a6bc7d2979c4425c97]: Commencement: [Sch. para. 57](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/57) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00061]: Footnote: Section 174 was amended by the Education Act [1996 (c.56)](https://www.legislation.gov.uk/ukpga/1996/56), section 582(1) and Schedule 37, paragraph 83 and [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158), article 5(1) and Schedule 2, Part 2, paragraph 36.
 
-[^key-f235718dd7e6bb557bcc55d358141bc1]: Textual amendment: Words in [Sch. para. 57](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/57) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [34](https://www.legislation.gov.uk/uksi/2016/370/article/34)
+[^c-f235718dd7e6bb557bcc55d358141bc1]: Textual amendment: Words in [Sch. para. 57](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/57) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [34](https://www.legislation.gov.uk/uksi/2016/370/article/34)
 
-[^key-16226bb9d208e6bd6f3a57139458b2bd]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/58) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-16226bb9d208e6bd6f3a57139458b2bd]: Commencement: [Sch. para. 58](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/58) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00062]: Footnote: Section 178 was amended by the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), section 125 and Schedule 8, paragraph 25(7), the Northern Ireland Elections Act [1998 (c.12)](https://www.legislation.gov.uk/ukpga/1998/12), section 1 and the Schedule, paragraph 9, the Government of Wales Act 2006, s160(1) and Schedule 10, paragraphs 22 and 29, [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulations, 8, 10(3), 11(5) and 18(5) and [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2(1) and Schedule 1, Part 1, paragraphs 1 and 15(3).
 
-[^key-6a41f483329b0f00212844d2d23d81d0]: Commencement: [Sch. para. 59](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/59) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-6a41f483329b0f00212844d2d23d81d0]: Commencement: [Sch. para. 59](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/59) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00063]: Footnote: Section 179 was amended by the Broadcasting Act [1990 (c.42)](https://www.legislation.gov.uk/ukpga/1990/42), the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), section 125 and Schedule 8, para 25(8), the Northern Ireland Act [1998 (c.47)](https://www.legislation.gov.uk/ukpga/1998/47), section 99 and Schedule 13, paragraph 8(8), the Copyright (Visually Impaired Persons) Act [2002 c.33](https://www.legislation.gov.uk/ukpga/2002/33), section 7(2), the Government of Wales Act [2006 (c.38)](https://www.legislation.gov.uk/ukpga/2006/38), section 166(1) and Schedule 10, paragraphs 22 and 30, [S.I. 1992/3233](https://www.legislation.gov.uk/uksi/1992/3233), regulation 9, [S.I. 1995/3297](https://www.legislation.gov.uk/uksi/1995/3297), regulations 8(2), 9(5) and 11(2), [S.I. 1996/2967](https://www.legislation.gov.uk/uksi/1996/2967), regulations 9(6)(b), 10(4), 11(6) and 18(6), [S.I. 1997/3032](https://www.legislation.gov.uk/uksi/1997/3032), regulation 1(2) and 11, [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498) regulation 2(1) and Schedule 1, Part 1, paragraphs 1 and 15(4), regulation 2(2) and Schedule 2, regulation 3 and 21(7), [S.I. 2006/1028](https://www.legislation.gov.uk/uksi/2006/1028), regulation 2(2) and Schedule 2, paragraphs 6 and 9, [S.I. 2014/1372](https://www.legislation.gov.uk/uksi/2014/1372), regulation 2 and the Schedule, paragraph 6 and [S.I. 2014/1384](https://www.legislation.gov.uk/uksi/2014/1384), regulation 4 and the Schedule, paragraph (3).
 
-[^key-4297ef47a70e41001d6235c3e1e6bacf]: Textual amendment: [Sch. para. 59(aa)](https://www.legislation.gov.uk/uksi/2015/795/schedule/schedule/paragraph/59/aa) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [35](https://www.legislation.gov.uk/uksi/2016/370/article/35)
+[^c-4297ef47a70e41001d6235c3e1e6bacf]: Textual amendment: [Sch. para. 59(aa)](https://www.legislation.gov.uk/uksi/2015/795/schedule/schedule/paragraph/59/aa) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [35](https://www.legislation.gov.uk/uksi/2016/370/article/35)
 
-[^key-20278be6199fdf91485ffcc1ad1b20a9]: Textual amendment: [Sch. para. 59A](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/59A) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [36](https://www.legislation.gov.uk/uksi/2016/370/article/36)
+[^c-20278be6199fdf91485ffcc1ad1b20a9]: Textual amendment: [Sch. para. 59A](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/59A) inserted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [36](https://www.legislation.gov.uk/uksi/2016/370/article/36)
 
-[^key-5e7d0ad3e7ad8d537b9883efca284a01]: Commencement: [Sch. para. 60](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/60) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-5e7d0ad3e7ad8d537b9883efca284a01]: Commencement: [Sch. para. 60](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/60) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-55642388a4bdd1a1ba6fb7250c5b1d1e]: Textual amendment: [Sch. para. 60(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/60/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [37](https://www.legislation.gov.uk/uksi/2016/370/article/37)
+[^c-55642388a4bdd1a1ba6fb7250c5b1d1e]: Textual amendment: [Sch. para. 60(b)](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/60/b) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [37](https://www.legislation.gov.uk/uksi/2016/370/article/37)
 
-[^key-df5b810ff1d39ab82139d11a9238332d]: Commencement: [Sch. para. 61](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/61) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-df5b810ff1d39ab82139d11a9238332d]: Commencement: [Sch. para. 61](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/61) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-50db02cfaad8e0667a04ebe006c961f3]: Commencement: [Sch. para. 62](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/62) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-50db02cfaad8e0667a04ebe006c961f3]: Commencement: [Sch. para. 62](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/62) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-b3dc13f361cf12f5b257c3b85fcb08ab]: Commencement: [Sch. para. 63](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/63) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-b3dc13f361cf12f5b257c3b85fcb08ab]: Commencement: [Sch. para. 63](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/63) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
 [^f00064]: Footnote: Paragraph 15 was amended by [S.I. 2003/2498](https://www.legislation.gov.uk/uksi/2003/2498), regulation 2 and Schedule 1, Part 1, paragraphs 1 and 6 and Schedule 2.
 
-[^key-e387a41b209aa479fa657e7af6659a4b]: Textual amendment: [Sch. para. 64](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/64) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [38](https://www.legislation.gov.uk/uksi/2016/370/article/38)
+[^c-e387a41b209aa479fa657e7af6659a4b]: Textual amendment: [Sch. para. 64](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/64) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [38](https://www.legislation.gov.uk/uksi/2016/370/article/38)
 
-[^key-bdddd40a41e8e94afcb4407ee6d057f2]: Commencement: [Sch. para. 65](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/65) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-bdddd40a41e8e94afcb4407ee6d057f2]: Commencement: [Sch. para. 65](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/65) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-e25ace74f171d391c76dddf27ccf1f42]: Commencement: [Sch. para. 66](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/66) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-e25ace74f171d391c76dddf27ccf1f42]: Commencement: [Sch. para. 66](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/66) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-376c61894b84a7ef2bb77d9bd65b3ad0]: Commencement: [Sch. para. 67](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/67) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-376c61894b84a7ef2bb77d9bd65b3ad0]: Commencement: [Sch. para. 67](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/67) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-8be0ade74dbdba4e24a99493a53e0791]: Textual amendment: [Sch. para. 68](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/68) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [39](https://www.legislation.gov.uk/uksi/2016/370/article/39)
+[^c-8be0ade74dbdba4e24a99493a53e0791]: Textual amendment: [Sch. para. 68](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/68) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [39](https://www.legislation.gov.uk/uksi/2016/370/article/39)
 
-[^key-fc2e254e01c0514d8e6d217c957a27d6]: Commencement: [Sch. para. 69](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/69) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-fc2e254e01c0514d8e6d217c957a27d6]: Commencement: [Sch. para. 69](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/69) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
 
-[^key-9fef75317e2ac5f394deeae97807358b]: Textual amendment: Word in [Sch. para. 69](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/69) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [40](https://www.legislation.gov.uk/uksi/2016/370/article/40)
+[^c-9fef75317e2ac5f394deeae97807358b]: Textual amendment: Word in [Sch. para. 69](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/69) substituted (coming into force in accordance with art. 1 of the amending S.I.) by [The Copyright (Cayman Islands) (Amendment) Order 2016 (S.I. 2016/370)](https://www.legislation.gov.uk/uksi/2016/370), [arts. 1](https://www.legislation.gov.uk/uksi/2016/370/article/1), [40](https://www.legislation.gov.uk/uksi/2016/370/article/40)
 
-[^key-b58137e555c8a45391071bfbf86cf825]: Commencement: [Sch. para. 70](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/70) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)
+[^c-b58137e555c8a45391071bfbf86cf825]: Commencement: [Sch. para. 70](https://www.legislation.gov.uk/uksi/2015/795/schedule/paragraph/70) comes into force in accordance with [art. 1](https://www.legislation.gov.uk/uksi/2015/795/article/1)

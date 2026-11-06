@@ -59,27 +59,27 @@ The Lords of Council and Session, under and by virtue of the powers conferred by
 
 (1) Chapter 62 of the Rules of the Court of Session [^c22332121] is amended in accordance with the following subparagraphs.
 
-(2)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-ad415e3f3317b6064cb2934612d8a428] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (13) After rule 62.42 (enforcement in another part of the United Kingdom of Court of Session judgments or documents registered for execution (non-money provisions)) [^c22332231], insert—
 
@@ -182,7 +182,7 @@ Paragraph 2(14) substitutes certain existing forms which relate to Part V of Cha
 
 [^c22332121]: Marginal citation: Chapter 62 was last amended by [S.S.I. 2011/288](https://www.legislation.gov.uk/ssi/2011/288).
 
-[^key-ad415e3f3317b6064cb2934612d8a428]: Textual amendment: Para. 2(2)-(12) revoked (28.3.2019) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Regulation (EC) No. 44/2001) (Transitional Provisions) 2019 (S.S.I. 2019/85)](https://www.legislation.gov.uk/ssi/2019/85), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/85/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2019/85/paragraph/3)
+[^c-ad415e3f3317b6064cb2934612d8a428]: Textual amendment: Para. 2(2)-(12) revoked (28.3.2019) by [Act of Sederunt (Rules of the Court of Session 1994 Amendment) (Regulation (EC) No. 44/2001) (Transitional Provisions) 2019 (S.S.I. 2019/85)](https://www.legislation.gov.uk/ssi/2019/85), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2019/85/paragraph/1/2), [3](https://www.legislation.gov.uk/ssi/2019/85/paragraph/3)
 
 [^c22332231]: Marginal citation: Rule 62.42 was substituted by [S.S.I. 2004/52](https://www.legislation.gov.uk/ssi/2004/52).
 

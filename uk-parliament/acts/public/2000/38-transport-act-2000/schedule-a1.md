@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A1 — Appeals under section 19A[^key-82cd98e0c66fcb631427d6a54beb58ba]
+## SCHEDULE A1 — Appeals under section 19A[^c-82cd98e0c66fcb631427d6a54beb58ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -572,4 +572,4 @@ unless the member considers that there are compelling reasons not to do so.
 
 ## Annotations
 
-[^key-82cd98e0c66fcb631427d6a54beb58ba]: Textual amendment: Sch. A1 inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2021/12/section/9/4), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2021/12/schedule/4); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/a)
+[^c-82cd98e0c66fcb631427d6a54beb58ba]: Textual amendment: Sch. A1 inserted (29.6.2021) by [Air Traffic Management and Unmanned Aircraft Act 2021 (c. 12)](https://www.legislation.gov.uk/ukpga/2021/12), [ss. 9(4)](https://www.legislation.gov.uk/ukpga/2021/12/section/9/4), [21(3)-(7)](https://www.legislation.gov.uk/ukpga/2021/12/section/21/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/2021/12/schedule/4); [S.I. 2021/748](https://www.legislation.gov.uk/uksi/2021/748), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2021/748/regulation/2/a)

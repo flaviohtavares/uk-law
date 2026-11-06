@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Excise duty: charge[^key-78f89db7ece33cd65a77c0a33a4dd28a]
+## 115. Excise duty: charge[^c-78f89db7ece33cd65a77c0a33a4dd28a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78f89db7ece33cd65a77c0a33a4dd28a]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2026/11/section/115) in force at 1.10.2026, see [s. 141(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/141/1)
+[^c-78f89db7ece33cd65a77c0a33a4dd28a]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2026/11/section/115) in force at 1.10.2026, see [s. 141(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/141/1)

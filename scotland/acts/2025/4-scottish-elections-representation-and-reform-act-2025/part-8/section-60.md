@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Scottish Ministers regulation making powers[^key-5e4eba818e484b322e7099697214cad4][^key-668b3fd89af3daac44e278a244330906]
+## 60. Scottish Ministers regulation making powers[^c-5e4eba818e484b322e7099697214cad4][^c-668b3fd89af3daac44e278a244330906]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5e4eba818e484b322e7099697214cad4]: Commencement: S. 60 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-5e4eba818e484b322e7099697214cad4]: Commencement: S. 60 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-668b3fd89af3daac44e278a244330906]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2025/4/section/60) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-668b3fd89af3daac44e278a244330906]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2025/4/section/60) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

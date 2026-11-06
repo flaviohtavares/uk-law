@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Amount of the grant for fees for a course at a publicly funded institution[^key-84c9e75d08e555fe956ee1419a5bcfcd]
+## 28. Amount of the grant for fees for a course at a publicly funded institution[^c-84c9e75d08e555fe956ee1419a5bcfcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84c9e75d08e555fe956ee1419a5bcfcd]: Commencement: Reg. 28 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-84c9e75d08e555fe956ee1419a5bcfcd]: Commencement: Reg. 28 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

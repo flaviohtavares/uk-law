@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141B. Full PI references: power of Secretary of State to appoint expert[^key-2a42961637abff16384b80d643df57bf]
+## 141B. Full PI references: power of Secretary of State to appoint expert[^c-2a42961637abff16384b80d643df57bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a42961637abff16384b80d643df57bf]: Textual amendment: Ss. 141A, 141B inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 35(9)](https://www.legislation.gov.uk/ukpga/2013/24/section/35/9), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-2a42961637abff16384b80d643df57bf]: Textual amendment: Ss. 141A, 141B inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 35(9)](https://www.legislation.gov.uk/ukpga/2013/24/section/35/9), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

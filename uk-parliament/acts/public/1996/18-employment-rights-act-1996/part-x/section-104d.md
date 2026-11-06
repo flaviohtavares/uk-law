@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104D. Pension enrolment[^key-41b329c3ec4021e5e0825cfd31be8d04]
+## 104D. Pension enrolment[^c-41b329c3ec4021e5e0825cfd31be8d04]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ but, for that subsection to apply, the claim that the requirement applies and, i
 
 ## Annotations
 
-[^key-41b329c3ec4021e5e0825cfd31be8d04]: Textual amendment: S. 105(7JA) inserted (30.6.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/57/2), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1682/schedule/2)
+[^c-41b329c3ec4021e5e0825cfd31be8d04]: Textual amendment: S. 105(7JA) inserted (30.6.2012) by [Pensions Act 2008 (c. 30)](https://www.legislation.gov.uk/ukpga/2008/30), [ss. 57(4)](https://www.legislation.gov.uk/ukpga/2008/30/section/57/2), [149(1)](https://www.legislation.gov.uk/ukpga/2008/30/section/149/1); [S.I. 2012/1682](https://www.legislation.gov.uk/uksi/2012/1682), [art. 2](https://www.legislation.gov.uk/uksi/2012/1682/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2012/1682/schedule/2)

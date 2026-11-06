@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Assured tenancies: discretionary eviction grounds[^key-b23e7bd5e2dc606865007b9282cf5d13]
+## 44. Assured tenancies: discretionary eviction grounds[^c-b23e7bd5e2dc606865007b9282cf5d13]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b23e7bd5e2dc606865007b9282cf5d13]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2022/8/section/44) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-b23e7bd5e2dc606865007b9282cf5d13]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2022/8/section/44) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

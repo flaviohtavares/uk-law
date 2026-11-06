@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 104. Economic Growth (Regulatory Functions) Order 2017[^key-9d0d51fa42fd2e717e684a03f26fe802][^key-a19e0a03967d3e2b3b64f2f7f1353737]
+## 104. Economic Growth (Regulatory Functions) Order 2017[^c-9d0d51fa42fd2e717e684a03f26fe802][^c-a19e0a03967d3e2b3b64f2f7f1353737]
 
 *Extent: E+W+S*
 
@@ -24,9 +24,9 @@ In the Economic Growth (Regulatory Functions) Order 2017[^f00144], in Part 3 of 
 
 ## Annotations
 
-[^key-9d0d51fa42fd2e717e684a03f26fe802]: Commencement: Art. 104 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-9d0d51fa42fd2e717e684a03f26fe802]: Commencement: Art. 104 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-a19e0a03967d3e2b3b64f2f7f1353737]: Commencement: [Art. 104](https://www.legislation.gov.uk/uksi/2018/1253/article/104) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-a19e0a03967d3e2b3b64f2f7f1353737]: Commencement: [Art. 104](https://www.legislation.gov.uk/uksi/2018/1253/article/104) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00144]: Footnote: [S.I. 2017/267](https://www.legislation.gov.uk/uksi/2017/267).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Power of entry and search of offender's home address[^key-bbb1dd471fcc104f3d7d85e67b897dc1]
+## 75. Power of entry and search of offender's home address[^c-bbb1dd471fcc104f3d7d85e67b897dc1]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bbb1dd471fcc104f3d7d85e67b897dc1]: Commencement: [S. 75](https://www.legislation.gov.uk/nia/2015/9/section/75) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(t)](https://www.legislation.gov.uk/nisr/2016/417/article/2/t)
+[^c-bbb1dd471fcc104f3d7d85e67b897dc1]: Commencement: [S. 75](https://www.legislation.gov.uk/nia/2015/9/section/75) in operation at 1.12.2016 by [S.R. 2016/417](https://www.legislation.gov.uk/nisr/2016/417), [art. 2(t)](https://www.legislation.gov.uk/nisr/2016/417/article/2/t)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 377A. Code of practice of Attorney General or Advocate General for Northern Ireland[^key-7154843423164ed4b6bc82c4480de76f]
+## 377A. Code of practice of Attorney General or Advocate General for Northern Ireland[^c-7154843423164ed4b6bc82c4480de76f]
 
 *Extent: E+W+N.I.*
 
 (1) The Attorney General must prepare a code of practice as to—
 
-- (a) the exercise by the Director of Public Prosecutions , SFO officers[^key-4c3ace64d0326c0742ddb16cbc218819] [^key-ce043ef9ad4b64117118f3063a1aad41]... and the Director of the Serious Fraud Office of functions they have under this Chapter; and
+- (a) the exercise by the Director of Public Prosecutions , SFO officers[^c-4c3ace64d0326c0742ddb16cbc218819] [^c-ce043ef9ad4b64117118f3063a1aad41]... and the Director of the Serious Fraud Office of functions they have under this Chapter; and
 - (b) the exercise by any other person, who is the relevant authority by virtue of section 357(9) in relation to a confiscation investigation, of functions he has under this Chapter in relation to England and Wales as the relevant authority.
 
 (2) The Advocate General for Northern Ireland must prepare a code of practice as to—
@@ -52,8 +52,8 @@ summary: ''
 
 ## Annotations
 
-[^key-7154843423164ed4b6bc82c4480de76f]: Textual amendment: S. 377A inserted (1.3.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 115](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/115); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(m)](https://www.legislation.gov.uk/uksi/2008/219/article/3/m); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
+[^c-7154843423164ed4b6bc82c4480de76f]: Textual amendment: S. 377A inserted (1.3.2008 for specified purposes, 1.4.2008 in so far as not already in force) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 8 para. 115](https://www.legislation.gov.uk/ukpga/2007/27/schedule/8/paragraph/115); [S.I. 2008/219](https://www.legislation.gov.uk/uksi/2008/219), [art. 3(m)](https://www.legislation.gov.uk/uksi/2008/219/article/3/m); [S.I. 2008/755](https://www.legislation.gov.uk/uksi/2008/755), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/755/article/2/1/a) (with [arts. 3-14](https://www.legislation.gov.uk/uksi/2008/755/article/3))
 
-[^key-4c3ace64d0326c0742ddb16cbc218819]: Textual amendment: Words in s. 377A(1)(a) inserted (27.4.2017 for specified purposes, 31.10.2017 in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2017/22/schedule/1/paragraph/24); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/l); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/724/regulation/3/b)
+[^c-4c3ace64d0326c0742ddb16cbc218819]: Textual amendment: Words in s. 377A(1)(a) inserted (27.4.2017 for specified purposes, 31.10.2017 in so far as not already in force, 28.6.2021 for N.I. in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [s. 58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2017/22/schedule/1/paragraph/24); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/l); [S.I. 2021/724](https://www.legislation.gov.uk/uksi/2021/724), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/724/regulation/3/b)
 
-[^key-ce043ef9ad4b64117118f3063a1aad41]: Textual amendment: Words in s. 377A(1)(a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/28)
+[^c-ce043ef9ad4b64117118f3063a1aad41]: Textual amendment: Words in s. 377A(1)(a) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/28)

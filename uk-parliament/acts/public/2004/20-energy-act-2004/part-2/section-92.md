@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Competitive tenders for offshore transmission licences[^key-eb9cf1aa69013a2818748597648ce05d]
+## 92. Competitive tenders for offshore transmission licences[^c-eb9cf1aa69013a2818748597648ce05d]
 
 *Extent: E+W+S*
 
@@ -54,4 +54,4 @@ After section 6B of the 1989 Act (applications for transmission licences) insert
 
 ## Annotations
 
-[^key-eb9cf1aa69013a2818748597648ce05d]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2004/20/section/92) in force at 20.5.2009 by [S.I. 2009/1269](https://www.legislation.gov.uk/uksi/2009/1269), [art. 2](https://www.legislation.gov.uk/uksi/2009/1269/article/2)
+[^c-eb9cf1aa69013a2818748597648ce05d]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2004/20/section/92) in force at 20.5.2009 by [S.I. 2009/1269](https://www.legislation.gov.uk/uksi/2009/1269), [art. 2](https://www.legislation.gov.uk/uksi/2009/1269/article/2)

@@ -38,7 +38,7 @@ Section 64(2).
 
 (b) the words from “or which” to “1953” shall cease to have effect, except in relation to a monument to which paragraph 1(1) of Schedule 3 to this Act applies.
 
-**6.**[^key-12389cc31e7dfea7829185fb785113d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-12389cc31e7dfea7829185fb785113d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In section 3(3)(a) of the [^c251432]Flood Prevention (Scotland) Act 1961 (Act not to authorise contraventions of certain enactments), for the words “the Ancient Monuments Acts 1913 to 1953” there shall be substituted the words “the Ancient Monuments and Archaeological Areas Act 1979”.
 
@@ -84,7 +84,7 @@ Section 64(2).
 
 [^c251430]: Marginal citation: [1958 c.30](https://www.legislation.gov.uk/ukpga/1958/30).
 
-[^key-12389cc31e7dfea7829185fb785113d0]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1979/46/schedule/4/paragraph/6) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 13](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/13) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-12389cc31e7dfea7829185fb785113d0]: Textual amendment: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/1979/46/schedule/4/paragraph/6) repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [Sch. 6 para. 13](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/13) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
 [^c251432]: Marginal citation: [1961 c.41](https://www.legislation.gov.uk/ukpga/1961/41).
 

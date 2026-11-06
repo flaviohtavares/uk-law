@@ -22,18 +22,18 @@ summary: ''
 
 (1) For the tax year 2008-09—
 
-- (a) the amount specified in section 36(1) of ITA 2007 [^key-d71a525035b3b9b3704836fc9e36409d]... (personal allowance for those aged 65 to 74) is replaced with “ £9,030 ”, and
-- (b) the amount specified in section 37(1) of ITA 2007 [^key-d71a525035b3b9b3704836fc9e36409d]... (personal allowance for those aged 75 and over) is replaced with “ £9,180 ”.
+- (a) the amount specified in section 36(1) of ITA 2007 [^c-d71a525035b3b9b3704836fc9e36409d]... (personal allowance for those aged 65 to 74) is replaced with “ £9,030 ”, and
+- (b) the amount specified in section 37(1) of ITA 2007 [^c-d71a525035b3b9b3704836fc9e36409d]... (personal allowance for those aged 75 and over) is replaced with “ £9,180 ”.
 
 (2) Accordingly—
 
-- (a) section 57 of ITA 2007, so far as relating to the amounts specified in sections 36(1) and 37(1) of that Act, [^key-5655c5eaf05ea515ecda9384ef0d59c9]...
-- (b)[^key-5655c5eaf05ea515ecda9384ef0d59c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) section 57 of ITA 2007, so far as relating to the amounts specified in sections 36(1) and 37(1) of that Act, [^c-5655c5eaf05ea515ecda9384ef0d59c9]...
+- (b)[^c-5655c5eaf05ea515ecda9384ef0d59c9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (indexation) do not apply for the tax year 2008-09.
 
 ## Annotations
 
-[^key-d71a525035b3b9b3704836fc9e36409d]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/3/1) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(p)(ii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/p/ii)
+[^c-d71a525035b3b9b3704836fc9e36409d]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/2008/9/section/3/1) omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(p)(ii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/p/ii)
 
-[^key-5655c5eaf05ea515ecda9384ef0d59c9]: Textual amendment: [S. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/3/2/b) and word omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(p)(ii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/p/ii)
+[^c-5655c5eaf05ea515ecda9384ef0d59c9]: Textual amendment: [S. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/3/2/b) and word omitted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 1 para. 6(p)(ii)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/1/paragraph/6/p/ii)

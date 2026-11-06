@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Annual summary[^key-20a225db1a57ab4f69002e7cecb06efa]
+## 25. Annual summary[^c-20a225db1a57ab4f69002e7cecb06efa]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20a225db1a57ab4f69002e7cecb06efa]: Commencement: Reg. 25 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)
+[^c-20a225db1a57ab4f69002e7cecb06efa]: Commencement: Reg. 25 in force at 1.1.2024, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1348/regulation/1/1)

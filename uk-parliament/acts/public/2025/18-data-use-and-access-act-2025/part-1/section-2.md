@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Power to make provision in connection with customer data[^key-3a442dbbfddc723461bab5fe3dd9f940][^key-fadb9dded1fd18a8254375b16d865a95]
+## 2. Power to make provision in connection with customer data[^c-3a442dbbfddc723461bab5fe3dd9f940][^c-fadb9dded1fd18a8254375b16d865a95]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a442dbbfddc723461bab5fe3dd9f940]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-3a442dbbfddc723461bab5fe3dd9f940]: Commencement: S. 2 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-fadb9dded1fd18a8254375b16d865a95]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/18/section/2) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-fadb9dded1fd18a8254375b16d865a95]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/18/section/2) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

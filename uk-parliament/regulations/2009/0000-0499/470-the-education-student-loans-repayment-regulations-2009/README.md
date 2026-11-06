@@ -83,7 +83,7 @@ These Regulations are made by the Secretary of State for Innovation, Universitie
 - [Section 8B — How to calculate repayment threshold variable](part-1/section-8b.md)
 - [Section 8C — Status of examples](part-1/section-8c.md)
 
-### PART 2 — Repayments: general[^key-bfeeccf59d7844d91c592d0d56b9f7ce]
+### PART 2 — Repayments: general[^c-bfeeccf59d7844d91c592d0d56b9f7ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -182,7 +182,7 @@ These Regulations are made by the Secretary of State for Innovation, Universitie
 - [Section 69 — Collection and recovery of penalties](part-4/section-69.md)
 - [Section 70 — Application of the PAYE Regulations](part-4/section-70.md)
 
-### PART 5 — Repayment of plan 1, 2, 3 and 5 loans by Overseas Borrowers[^key-31f6ee608b5545d348f45433bbe41172]
+### PART 5 — Repayment of plan 1, 2, 3 and 5 loans by Overseas Borrowers[^c-31f6ee608b5545d348f45433bbe41172]
 
 *Extent: E+W+S+N.I.*
 
@@ -198,7 +198,7 @@ These Regulations are made by the Secretary of State for Innovation, Universitie
 - [Section 78 — Foreclosure](part-5/section-78.md)
 - [Section 79 — Costs and expenses of the Authority](part-5/section-79.md)
 
-### PART 6 — Insolvency in relation to plan 1, 2, 3 and 5 loans[^key-f47cb7084e9db489d1c436ce99d42610]
+### PART 6 — Insolvency in relation to plan 1, 2, 3 and 5 loans[^c-f47cb7084e9db489d1c436ce99d42610]
 
 *Extent: E+W+S+N.I.*
 
@@ -315,8 +315,8 @@ An impact assessment has not been prepared in respect of this instrument as it h
 
 [^f00003]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44). Section 73B was inserted by section 29 of the Teaching and Higher Education Act 1998.
 
-[^key-bfeeccf59d7844d91c592d0d56b9f7ce]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2009/470/part/2) heading substituted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [12](https://www.legislation.gov.uk/uksi/2022/1335/regulation/12)
+[^c-bfeeccf59d7844d91c592d0d56b9f7ce]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2009/470/part/2) heading substituted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [12](https://www.legislation.gov.uk/uksi/2022/1335/regulation/12)
 
-[^key-31f6ee608b5545d348f45433bbe41172]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2009/470/part/5) heading inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [54](https://www.legislation.gov.uk/uksi/2022/1335/regulation/54)
+[^c-31f6ee608b5545d348f45433bbe41172]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/uksi/2009/470/part/5) heading inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [54](https://www.legislation.gov.uk/uksi/2022/1335/regulation/54)
 
-[^key-f47cb7084e9db489d1c436ce99d42610]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/uksi/2009/470/part/6) heading inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [63](https://www.legislation.gov.uk/uksi/2022/1335/regulation/63)
+[^c-f47cb7084e9db489d1c436ce99d42610]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/uksi/2009/470/part/6) heading inserted (6.4.2023) by [The Education (Student Loans) (Repayment) (Amendment) (No. 4) Regulations 2022 (S.I. 2022/1335)](https://www.legislation.gov.uk/uksi/2022/1335), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2022/1335/regulation/2/2), [63](https://www.legislation.gov.uk/uksi/2022/1335/regulation/63)

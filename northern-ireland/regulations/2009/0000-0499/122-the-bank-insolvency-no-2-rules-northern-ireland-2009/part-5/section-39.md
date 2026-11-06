@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Bank insolvency stayed[^key-9f794b7e18e3b56f6d47b641b9b552b9]
+## 39. Bank insolvency stayed[^c-9f794b7e18e3b56f6d47b641b9b552b9]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f794b7e18e3b56f6d47b641b9b552b9]: Commencement: Rule 39 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-9f794b7e18e3b56f6d47b641b9b552b9]: Commencement: Rule 39 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

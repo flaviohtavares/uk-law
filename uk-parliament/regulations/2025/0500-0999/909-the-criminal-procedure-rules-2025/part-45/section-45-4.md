@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.4. Costs out of central funds[^key-b4f8d076bb6e95f94ea095217fd7360c]
+## 45.4. Costs out of central funds[^c-b4f8d076bb6e95f94ea095217fd7360c]
 
 *Extent: E+W*
 
@@ -47,12 +47,12 @@ summary: ''
 
 - (a) a summary of the items of work to date done by a solicitor;
 - (b) a statement of the dates on which items of work were done, the time taken and the sums claimed;
-- (c) details of any disbursements claimed, the circumstances in which they were incurred and the amounts claimed in respect of them; [^key-1ff44addd3c75981fc9939939b0f3613]...
-- (d)[^key-f81cba9e89bb615c93e32047edd269f0] details, including the date and outcome, of each request to any public authority to undertake the investigation and prosecution, and the reasons why if no such request was made;
+- (c) details of any disbursements claimed, the circumstances in which they were incurred and the amounts claimed in respect of them; [^c-1ff44addd3c75981fc9939939b0f3613]...
+- (d)[^c-f81cba9e89bb615c93e32047edd269f0] details, including the date and outcome, of each request to any public authority to undertake the investigation and prosecution, and the reasons why if no such request was made;
 - (e) details, including the date and outcome, of each request to any legal representative to ascertain their estimated charges for conducting the prosecution, and if no such request was made to a legal representative other than the one appointed by the applicant—
   - (i) the reasons why, and
   - (ii) the reasons for the applicant’s choice of that legal representative; and
-- (f)[^key-d8b23a5df139789a94beba6d45c843a5] such further particulars, information and documents as the court may require.
+- (f)[^c-d8b23a5df139789a94beba6d45c843a5] such further particulars, information and documents as the court may require.
 
 (6) The general rule is that the court must make an order, but—
 
@@ -80,10 +80,10 @@ summary: ''
   - (ii) in the Crown Court, on appeal from a magistrates’ court,
   - (iii) in the Crown Court, where the defendant has been sent for trial, the High Court gives permission to serve a draft indictment or the Court of Appeal orders a retrial and the defendant has been found financially ineligible for legal aid, or
   - (iv) in the Court of Appeal, on an appeal against a verdict of not guilty by reason of insanity, or against a finding under the Criminal Procedure (Insanity) Act 1964[^f01071], or on an appeal under section 16A of the Criminal Appeal Act 1968[^f01072] (appeal against order made in cases of insanity or unfitness to plead);
-- (b) any such amount may not exceed an amount specified by the regulations to which paragraph (7)(d) refers[^key-fc72017c2e903e044404677677fe999e]; and
+- (b) any such amount may not exceed an amount specified by the regulations to which paragraph (7)(d) refers[^c-fc72017c2e903e044404677677fe999e]; and
 - (c) an order which includes an amount in respect of fees payable to a legal representative, or disbursements paid by a legal representative, must include a statement to that effect.
 
-(9) If the court fixes the amount to be paid itself, it must do so subject to any restriction on the amount that is imposed by the regulations to which paragraph (7)(d) refers[^key-c5f59c580475050c9acd89219ba4c2c9].
+(9) If the court fixes the amount to be paid itself, it must do so subject to any restriction on the amount that is imposed by the regulations to which paragraph (7)(d) refers[^c-c5f59c580475050c9acd89219ba4c2c9].
 
 (10) If the court directs an assessment, the order must specify any restriction on the amount to be paid that the court considers appropriate.
 
@@ -115,13 +115,13 @@ summary: ''
 
 ## Annotations
 
-[^key-b4f8d076bb6e95f94ea095217fd7360c]: Commencement: [Rule 45.4](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b4f8d076bb6e95f94ea095217fd7360c]: Commencement: [Rule 45.4](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
-[^key-1ff44addd3c75981fc9939939b0f3613]: Textual amendment: Word in [rule 45.4(5)(c)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/5/c) omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(a)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/a/i)
+[^c-1ff44addd3c75981fc9939939b0f3613]: Textual amendment: Word in [rule 45.4(5)(c)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/5/c) omitted (5.10.2026) by virtue of [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(a)(i)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/a/i)
 
-[^key-f81cba9e89bb615c93e32047edd269f0]: Textual amendment: [Rule 45.4(5)(d)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/5/d)[(e)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/5/e) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(a)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/a/iii)
+[^c-f81cba9e89bb615c93e32047edd269f0]: Textual amendment: [Rule 45.4(5)(d)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/5/d)[(e)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/5/e) inserted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(a)(iii)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/a/iii)
 
-[^key-d8b23a5df139789a94beba6d45c843a5]: Textual amendment: Rule 45.4(5)(d) renumbered as rule 45.4(5)(f) (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(a)(ii)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/a/ii)
+[^c-d8b23a5df139789a94beba6d45c843a5]: Textual amendment: Rule 45.4(5)(d) renumbered as rule 45.4(5)(f) (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(a)(ii)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/a/ii)
 
 [^f01069]: Footnote: [S.I. 1986/1335](https://www.legislation.gov.uk/uksi/1986/1335); relevant amending instruments are [S.I. 1999/2096](https://www.legislation.gov.uk/uksi/1999/2096) and [S.I. 2008/2448](https://www.legislation.gov.uk/uksi/2008/2448).
 
@@ -131,9 +131,9 @@ summary: ''
 
 [^f01072]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 16A was inserted by section 25 of the Domestic Violence, Crime and Victims Act [2004 (c. 28)](https://www.legislation.gov.uk/ukpga/2004/28).
 
-[^key-fc72017c2e903e044404677677fe999e]: Textual amendment: Words in [rule 45.4(8)(b)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/8/b) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/b)
+[^c-fc72017c2e903e044404677677fe999e]: Textual amendment: Words in [rule 45.4(8)(b)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/8/b) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/b)
 
-[^key-c5f59c580475050c9acd89219ba4c2c9]: Textual amendment: Words in [rule 45.4(9)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/9) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/b)
+[^c-c5f59c580475050c9acd89219ba4c2c9]: Textual amendment: Words in [rule 45.4(9)](https://www.legislation.gov.uk/uksi/2025/909/rule/45.4/9) substituted (5.10.2026) by [The Criminal Procedure (Amendment) (No. 2) Rules 2026 (S.I. 2026/721)](https://www.legislation.gov.uk/uksi/2026/721), [rules 2](https://www.legislation.gov.uk/uksi/2026/721/rule/2), [16(b)](https://www.legislation.gov.uk/uksi/2026/721/rule/16/b)
 
 [^f01073]: Footnote: [S.I. 1986/1335](https://www.legislation.gov.uk/uksi/1986/1335); regulation 14 was amended by regulations 2 and 11 of [S.I. 2008/2448](https://www.legislation.gov.uk/uksi/2008/2448).
 

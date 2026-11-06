@@ -44,13 +44,13 @@ Coming into operation
 
 The Department of the Environment, being a Department[^f00001] designated for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment, acting in exercise of the powers conferred upon it by that section, makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-5deb2f5fc122cd82e92ceeec8d788425]
+## 1. Citation, commencement and interpretation[^c-5deb2f5fc122cd82e92ceeec8d788425]
 
 (1) These Regulations may be cited as the Environmental Liability (Prevention and Remediation) (Amendment) Regulations (Northern Ireland) 2011 and come into operation on 25th June 2011.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] applies to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Environmental Liability (Prevention and Remediation) Regulations (Northern Ireland) 2009[^key-131a8b477eb23aeb75d731b54de1ebcd]
+## 2. Amendment of the Environmental Liability (Prevention and Remediation) Regulations (Northern Ireland) 2009[^c-131a8b477eb23aeb75d731b54de1ebcd]
 
 (1) The Environmental Liability (Prevention and Remediation) Regulations (Northern Ireland) 2009[^f00004] are amended as follows.
 
@@ -80,10 +80,10 @@ These Regulations amend the Environmental Liability (Prevention and Remediation)
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-5deb2f5fc122cd82e92ceeec8d788425]: Commencement: Reg. 1 in operation at 25.6.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/210/regulation/1/1)
+[^c-5deb2f5fc122cd82e92ceeec8d788425]: Commencement: Reg. 1 in operation at 25.6.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/210/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-131a8b477eb23aeb75d731b54de1ebcd]: Commencement: Reg. 2 in operation at 25.6.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/210/regulation/1/1)
+[^c-131a8b477eb23aeb75d731b54de1ebcd]: Commencement: Reg. 2 in operation at 25.6.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/210/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2009 No. 252](https://www.legislation.gov.uk/nisr/2009/252), amended by [S.R. 2009 No. 361](https://www.legislation.gov.uk/nisr/2009/361)

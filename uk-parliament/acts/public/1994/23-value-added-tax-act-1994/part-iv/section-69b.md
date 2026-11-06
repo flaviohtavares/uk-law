@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69B. Breach of record-keeping requirements imposed by directions[^key-b7947469407425b6ecd7f33e281f2b06]
+## 69B. Breach of record-keeping requirements imposed by directions[^c-b7947469407425b6ecd7f33e281f2b06]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,13 +44,13 @@ that there is a reasonable excuse for the failure.
 
 (7) If by reason of conduct falling within subsection (1) or (3) a person—
 
-- (a) is assessed to a penalty under section 60 or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007[^key-6bd8ac70cd5e1c5897b6a245cc907bc4], or
+- (a) is assessed to a penalty under section 60 or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007[^c-6bd8ac70cd5e1c5897b6a245cc907bc4], or
 - (b) is convicted of an offence (whether under this Act or otherwise),
 
 that conduct does not also give rise to a penalty under this section.
 
 ## Annotations
 
-[^key-b7947469407425b6ecd7f33e281f2b06]: Textual amendment: S. 69B inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/21/2)
+[^c-b7947469407425b6ecd7f33e281f2b06]: Textual amendment: S. 69B inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 21(2)](https://www.legislation.gov.uk/ukpga/2006/25/section/21/2)
 
-[^key-6bd8ac70cd5e1c5897b6a245cc907bc4]: Textual amendment: Words in s. 69B(7)(a) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/16)
+[^c-6bd8ac70cd5e1c5897b6a245cc907bc4]: Textual amendment: Words in s. 69B(7)(a) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/16)

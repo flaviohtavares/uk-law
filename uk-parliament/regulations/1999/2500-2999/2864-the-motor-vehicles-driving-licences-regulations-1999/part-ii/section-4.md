@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Classification of vehicles[^key-b44ab165a10607d6e88820be5d62dc00]
+## 4. Classification of vehicles[^c-b44ab165a10607d6e88820be5d62dc00]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b44ab165a10607d6e88820be5d62dc00]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/2864/regulation/4) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/3)
+[^c-b44ab165a10607d6e88820be5d62dc00]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/1999/2864/regulation/4) substituted (19.1.2013) by [The Motor Vehicles (Driving Licences) (Amendment) Regulations 2012 (S.I. 2012/977)](https://www.legislation.gov.uk/uksi/2012/977), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/977/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2012/977/schedule/3/paragraph/3)

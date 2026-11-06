@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 614ZB. Key definitions[^key-77b9c2c76a4f7378dd72ae6df887aea4]
+## 614ZB. Key definitions[^c-77b9c2c76a4f7378dd72ae6df887aea4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77b9c2c76a4f7378dd72ae6df887aea4]: Textual amendment: Pt. 11ZA inserted (with effect in accordance with Sch. 29 para. 51 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/1)
+[^c-77b9c2c76a4f7378dd72ae6df887aea4]: Textual amendment: Pt. 11ZA inserted (with effect in accordance with Sch. 29 para. 51 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 29 para. 1](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/1)

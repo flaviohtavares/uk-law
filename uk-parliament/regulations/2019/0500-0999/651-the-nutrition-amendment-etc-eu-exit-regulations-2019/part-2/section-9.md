@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Regulations: Northern Ireland[^key-2960110da25953945fc684114eeacadd]
+## 9. Regulations: Northern Ireland[^c-2960110da25953945fc684114eeacadd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2960110da25953945fc684114eeacadd]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/651/regulation/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/3/3)
+[^c-2960110da25953945fc684114eeacadd]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2019/651/regulation/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1476)](https://www.legislation.gov.uk/uksi/2020/1476), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/1476/regulation/3/3)

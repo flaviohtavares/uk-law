@@ -41,7 +41,7 @@ so far as the record relates to P.
 (5) In this section “**relevant record**” means a record relating to P's care, treatment or personal welfare which is a record of or held by—
 
 - (a) an HSC trust or its employees or agents;
-- (b)[^key-daaa0e2a1cef59c172913405863520c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-daaa0e2a1cef59c172913405863520c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) RQIA;
 - (d) a Northern Ireland department or its employees or agents;
 - (e) the managing authority of an independent hospital; or
@@ -49,4 +49,4 @@ so far as the record relates to P.
 
 ## Annotations
 
-[^key-daaa0e2a1cef59c172913405863520c0]: Textual amendment: [S. 127(5)(b)](https://www.legislation.gov.uk/nia/2016/18/section/127/5/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-daaa0e2a1cef59c172913405863520c0]: Textual amendment: [S. 127(5)(b)](https://www.legislation.gov.uk/nia/2016/18/section/127/5/b) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(4)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/4); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

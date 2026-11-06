@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92.[^key-67ee3688f0ae1dbbf4a3d8f948594df3]
+## 92.[^c-67ee3688f0ae1dbbf4a3d8f948594df3]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In Article 18 (hand-over file)—
 
 ## Annotations
 
-[^key-67ee3688f0ae1dbbf4a3d8f948594df3]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-67ee3688f0ae1dbbf4a3d8f948594df3]: Commencement: Reg. 92 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)

@@ -80,7 +80,7 @@ and, accordingly, in the heading before that paragraph, insert at the end “ *:
 - (a) in paragraph (a), omit sub-paragraph (i) (and the “and” after it), and
 - (b) omit paragraph (b).
 
-(6)[^key-881df4fa1f567a4f453eed75d5d78b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-881df4fa1f567a4f453eed75d5d78b5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In Schedule 8 to that Act (SDLT: charities relief), in paragraph 3—
 
@@ -125,4 +125,4 @@ and, accordingly, in the heading before that paragraph, insert at the end “ *:
 
 ## Annotations
 
-[^key-881df4fa1f567a4f453eed75d5d78b5d]: Textual amendment: [S. 95(6)](https://www.legislation.gov.uk/ukpga/2008/9/section/95/6) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(e)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/e/i) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))
+[^c-881df4fa1f567a4f453eed75d5d78b5d]: Textual amendment: [S. 95(6)](https://www.legislation.gov.uk/ukpga/2008/9/section/95/6) omitted (with effect in accordance with Sch. 39 para. 10(4) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 8(2)(e)(i)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/8/2/e/i) (with [Sch. 39 paras. 11-13](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/11))

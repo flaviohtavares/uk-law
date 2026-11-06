@@ -46,13 +46,13 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred by section 50B(1) and (5) to (7) of the Value Added Tax Act 1994[^f00001], make the following Order:
 
-## 1. Citation, commencement and effect[^key-7f0e073b1a4d10141c2d55fdc51d023d]
+## 1. Citation, commencement and effect[^c-7f0e073b1a4d10141c2d55fdc51d023d]
 
 (1) This Order may be cited as the Value Added Tax (Margin Schemes and Removal or Export of Goods: VAT-related Payments) Order 2023 and comes into force on 1st May 2023.
 
 (2) This Order has effect in relation to goods removed to Northern Ireland[^f00002], or exported, on or after 1 May 2023.
 
-## 2. Interpretation[^key-1b93815dfb8a7102c4ad0b59c0e8aed7]
+## 2. Interpretation[^c-1b93815dfb8a7102c4ad0b59c0e8aed7]
 
 (1) In this Order—
 
@@ -67,11 +67,11 @@ The Treasury, in exercise of the powers conferred by section 50B(1) and (5) to (
 - (a) they may make different provision for different cases and so a direction may be made generally or for a particular case or class of cases; and
 - (b) a direction may be published in a public notice or addressed to an individual as the Commissioners think fit[^f00006].
 
-## 3. VAT-related payments[^key-32d91ac8ff0945c8bd179c50a1654142]
+## 3. VAT-related payments[^c-32d91ac8ff0945c8bd179c50a1654142]
 
 A person is entitled, on making a claim, to a VAT-related payment in respect of a relevant supply[^f00007] of a description specified in article 4.
 
-**4.**[^key-7b9649ab736ef8054990b1f5a9e49581] (1) The supply specified for the purposes of article 3 is a relevant supply of a motor vehicle (“the vehicle”) which meets the conditions specified in paragraph (2).
+**4.**[^c-7b9649ab736ef8054990b1f5a9e49581] (1) The supply specified for the purposes of article 3 is a relevant supply of a motor vehicle (“the vehicle”) which meets the conditions specified in paragraph (2).
 
 (2) The conditions specified in this paragraph are that—
 
@@ -88,13 +88,13 @@ A person is entitled, on making a claim, to a VAT-related payment in respect of 
 - “**motor vehicle**” means a mechanically propelled vehicle which is registered under either the Vehicle and Excise and Registration Act 1994[^f00011] or the Licensing and Registration of Vehicles Act 1985 of the Isle of Man[^f00012];
 - “**work of art**” has the meaning given in section 21(6) of VATA[^f00013].
 
-## 5. VAT-related payment: consideration for supply[^key-b213849a27362bf20dc57d7de6afb2cf]
+## 5. VAT-related payment: consideration for supply[^c-b213849a27362bf20dc57d7de6afb2cf]
 
 (1) Where the consideration for a relevant supply of goods (the goods) is more than the value of the goods at the time of their removal to Northern Ireland or export, section 50B(4) of VATA applies to that supply as if the consideration for the supply is the value of the goods at the time of their removal or export.
 
 (2) The value of the goods at the time of their removal or export is to be taken to be the amount that would be payable as consideration if the goods were to be supplied at that time between two persons who were standing in no such relationship with each other as would affect that consideration.
 
-## 6. Payment representative[^key-73f09894322fc510e083eebf3e7c030d]
+## 6. Payment representative[^c-73f09894322fc510e083eebf3e7c030d]
 
 (1) The Commissioners may, as a condition of allowing a claim under article 8 (a claim) to be paid, direct that a non-established claimant must appoint a person to act as a payment representative on that claimant’s behalf in relation to that claim.
 
@@ -127,7 +127,7 @@ A person is entitled, on making a claim, to a VAT-related payment in respect of 
 - “**payment representative**” means a person appointed in accordance with paragraph (1) or (2);
 - “**principal**” in relation to a payment representative means the non-established claimant on whose behalf that payment representative has been appointed.
 
-## 7. Method of claiming[^key-cda038d45e2079f2ceb6942e32aea8f6]
+## 7. Method of claiming[^c-cda038d45e2079f2ceb6942e32aea8f6]
 
 (1) A taxable person who has a business establishment in the United Kingdom and who makes a claim must make it by accounting for it in that person’s VAT return as if it were input tax[^f00015] incurred on the relevant supply at the relevant time[^f00016].
 
@@ -135,7 +135,7 @@ A person is entitled, on making a claim, to a VAT-related payment in respect of 
 
 (3) A person to whom paragraph (1) does not apply must make a claim in accordance with article 8.
 
-**8.**[^key-752c59b59e3b25d6d88018ccd23f4eb7] (1) A person making a claim under this article (the claim) must—
+**8.**[^c-752c59b59e3b25d6d88018ccd23f4eb7] (1) A person making a claim under this article (the claim) must—
 
 - (a) make it in the form and manner; and
 - (b) furnish such information or supporting documentation;
@@ -158,7 +158,7 @@ A person is entitled, on making a claim, to a VAT-related payment in respect of 
 
 (6) The Commissioners may direct that a prescribed period is a period of less than or more than 12 months.
 
-## 9. Error correction[^key-f40902fe409e613cc014db54ed3db79c]
+## 9. Error correction[^c-f40902fe409e613cc014db54ed3db79c]
 
 (1) This article applies where a person (P) has made a claim under article 8 which has overstated or understated P’s entitlement to a VAT-related payment (the entitlement).
 
@@ -171,7 +171,7 @@ A person is entitled, on making a claim, to a VAT-related payment in respect of 
 
 (4) Paragraphs (2) and (3) do not apply if a period of 4 years has elapsed since the end of the prescribed period during which the relevant time applicable to the relevant supply which is the subject of the accounting under paragraph (2) or the claim under paragraph (3) occurs.
 
-## 10. Denomination of payment and deduction of bank charges[^key-4a14c0657c77e712863dcf5cf8916da3]
+## 10. Denomination of payment and deduction of bank charges[^c-4a14c0657c77e712863dcf5cf8916da3]
 
 (1) This article applies where a VAT-related payment is made as a result of a claim under article 8.
 
@@ -179,7 +179,7 @@ A person is entitled, on making a claim, to a VAT-related payment in respect of 
 
 (3) Where the payment is to be made to a person in a country other than the United Kingdom, the Commissioners may reduce the amount of the payment by the amount of any bank charges or costs incurred as a result thereof.
 
-## 11. Records[^key-b1fee399d7aa655bad60f7aac92787c0]
+## 11. Records[^c-b1fee399d7aa655bad60f7aac92787c0]
 
 (1) A person who makes a claim must keep such records as the Commissioners may direct.
 
@@ -188,11 +188,11 @@ A person is entitled, on making a claim, to a VAT-related payment in respect of 
 - (a) in the form and manner directed by the Commissioners; and
 - (b) for such period as the Commissioners may direct not exceeding 6 years beginning with the date of the claim to which they relate.
 
-## 12. Application of Schedule 36 to the Finance Act 2008[^key-f038fdb41c3b36cd1362e0cd9115297a]
+## 12. Application of Schedule 36 to the Finance Act 2008[^c-f038fdb41c3b36cd1362e0cd9115297a]
 
 Schedule 36 to the Finance Act 2008[^f00017] (information and inspection powers) applies as if the reference to any tax in paragraph 64(1) of that Schedule includes a reference to a claim made under article 8.
 
-## 13. Offences[^key-554dd78edc5945feb75b849f4d377cfb]
+## 13. Offences[^c-554dd78edc5945feb75b849f4d377cfb]
 
 (1) Section 72 of VATA[^f00018] (offences) applies with the following modifications.
 
@@ -205,7 +205,7 @@ Schedule 36 to the Finance Act 2008[^f00017] (information and inspection powers)
 
 (4) Subsection (5) applies as if the reference to a refund under section 35 or 36 of VATA includes a reference to a VAT-related payment under article 8.
 
-## 14. Penalties for errors[^key-152773a27155b338e4d1411f1eb8c5c0]
+## 14. Penalties for errors[^c-152773a27155b338e4d1411f1eb8c5c0]
 
 (1) Schedule 24 to the Finance Act 2007[^f00019] (penalties for errors) (the Schedule) applies to a claim made under article 8 (the claim) with the following modifications.
 
@@ -219,7 +219,7 @@ and other Parts of the Schedule apply in accordance with these modifications.
 
 (3) References in the Schedule to a tax period include references to a prescribed period.
 
-## 15. Assessment: overclaims[^key-78960fdee6e77896b8d548b91a1c3392]
+## 15. Assessment: overclaims[^c-78960fdee6e77896b8d548b91a1c3392]
 
 (1) Where a person has made a claim under article 8 and, as a result of that claim, an amount has been paid or credited to that person which ought not to have been paid or credited, or which would not have been so paid or credited had the facts been known or been as they later turn out to be, the Commissioners may assess that amount to the best of their judgment and notify it to that person.
 
@@ -241,7 +241,7 @@ but (subject to paragraph (3)) where such further evidence comes to the Commissi
 - (a) the assessment is to be paid in the form and manner directed by the Commissioners; and
 - (b) paragraph 5 of Schedule 11 (administration, collection and enforcement: recovery of VAT etc.) to VATA[^f00021] applies to the amount assessed as if it is VAT due from the person assessed.
 
-## 16. Set-off[^key-30d6190ee03bfbaa6b33c06332012d51]
+## 16. Set-off[^c-30d6190ee03bfbaa6b33c06332012d51]
 
 In any case where—
 
@@ -253,7 +253,7 @@ In any case where—
 
 the amount referred to in paragraph (a) is set-off against the sum referred to in paragraph (b) and, accordingly, to the extent of the set-off, the obligations of the Commissioners and P are discharged.
 
-## 16A. Interest[^key-6e2a10f22cd743168d960503995a964a]
+## 16A. Interest[^c-6e2a10f22cd743168d960503995a964a]
 
 For the purposes of section 102 of the Finance Act 2009[^f00003], in the case of an amount which is payable by virtue of a claim under article 8, the repayment interest start date is the last day of a period of 4 months beginning on the day on which that claim is made.
 
@@ -292,7 +292,7 @@ may be recovered from that person as if it were late payment interest.
 
 Section 77ZA of VATA applies in relation to interest charged under section 101 of the Finance Act 2009 on an amount paid by virtue of a claim under article 8 as if references in that section to an amount of VAT included references to an amount of a VAT-related payment[^f00005].
 
-## 17. Appeals[^key-e2c989ece53ca59694738fa50c47811b]
+## 17. Appeals[^c-e2c989ece53ca59694738fa50c47811b]
 
 (1) An appeal lies to a tribunal[^f00022] in respect of the following—
 
@@ -364,11 +364,11 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23) (“**VATA**”). Section 50B was inserted by section 70 of the Finance Act [2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3).
 
-[^key-7f0e073b1a4d10141c2d55fdc51d023d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/68/article/1) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-7f0e073b1a4d10141c2d55fdc51d023d]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2023/68/article/1) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00002]: Footnote: Section 50B of VATA allows the Treasury to make provision for a VAT-related payment to be made in respect of a relevant supply. A “relevant supply” is defined in section 50B(2) of VATA. In order to qualify as a relevant supply, the supply must (amongst other things) be a supply to a person who takes possession of the supplied goods in Great Britain or the Isle of Man in circumstances where the goods are then removed to Northern Ireland or exported. The removals to which the Order applies are therefore removals to Northern Ireland.
 
-[^key-1b93815dfb8a7102c4ad0b59c0e8aed7]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/68/article/2) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-1b93815dfb8a7102c4ad0b59c0e8aed7]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2023/68/article/2) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00003]: Footnote: “VAT-related payment” is defined in section 50B(4) of VATA.
 
@@ -378,11 +378,11 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00006]: Footnote: Any general directions made by the Commissioners under this Order will be published at https://www.gov.uk/government/collections/customs-vat-and-excise-uk-transition-legislation-from-1-january-2021#vat-notices-that-have-force-of-law. A person unable to access the directions electronically may access them in hard copy by post free of charge on application to 0300 200 3700.
 
-[^key-32d91ac8ff0945c8bd179c50a1654142]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/68/article/3) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-32d91ac8ff0945c8bd179c50a1654142]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2023/68/article/3) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00007]: Footnote: “relevant supply” is defined in section 50B(2) of VATA for the purposes of that section and in relation to a person making a claim for a VAT-related payment.
 
-[^key-7b9649ab736ef8054990b1f5a9e49581]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2023/68/article/4) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-7b9649ab736ef8054990b1f5a9e49581]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2023/68/article/4) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00008]: Footnote: Section 3 of VATA provides that Schedules 1 to 3A and Parts 8 and 9 of Schedule 9ZA shall have effect with respect to registration and persons registered under any of those Schedules or Parts shall be registered in a single register kept by the Commissioners and accordingly references in VATA to being registered under VATA are references to being registered under those Schedules or Parts.
 
@@ -396,49 +396,49 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00013]: Footnote: Subsection (6) was inserted by section 22 of the Finance Act [1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4) and then it and associated subsections (6A) to (6C) were substituted by section 12(2) of the Finance Act [1999 (c. 16)](https://www.legislation.gov.uk/ukpga/1999/16).
 
-[^key-b213849a27362bf20dc57d7de6afb2cf]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2023/68/article/5) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-b213849a27362bf20dc57d7de6afb2cf]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2023/68/article/5) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
-[^key-73f09894322fc510e083eebf3e7c030d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2023/68/article/6) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-73f09894322fc510e083eebf3e7c030d]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2023/68/article/6) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00014]: Footnote: Section 48(2A) of VATA defines a VAT representative for the purposes of that Act as a person appointed under subsection (1ZA) or (2) of section 48.
 
-[^key-cda038d45e2079f2ceb6942e32aea8f6]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2023/68/article/7) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-cda038d45e2079f2ceb6942e32aea8f6]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2023/68/article/7) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00015]: Footnote: “input tax” is defined in section 24(1) of VATA; section 24(1) was amended by section 43 of, and paragraphs 1 and 24 of Schedule 8 to, the Taxation (Cross-border) Trade Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22).
 
 [^f00016]: Footnote: “relevant time” is defined in section 50B(2)(c) of VATA as “the time of the removal or export”.
 
-[^key-752c59b59e3b25d6d88018ccd23f4eb7]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2023/68/article/8) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-752c59b59e3b25d6d88018ccd23f4eb7]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2023/68/article/8) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
-[^key-f40902fe409e613cc014db54ed3db79c]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2023/68/article/9) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-f40902fe409e613cc014db54ed3db79c]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2023/68/article/9) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
-[^key-4a14c0657c77e712863dcf5cf8916da3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2023/68/article/10) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-4a14c0657c77e712863dcf5cf8916da3]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2023/68/article/10) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
-[^key-b1fee399d7aa655bad60f7aac92787c0]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2023/68/article/11) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-b1fee399d7aa655bad60f7aac92787c0]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2023/68/article/11) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
-[^key-f038fdb41c3b36cd1362e0cd9115297a]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2023/68/article/12) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-f038fdb41c3b36cd1362e0cd9115297a]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2023/68/article/12) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00017]: Footnote: [2008 c. 9](https://www.legislation.gov.uk/ukpga/2008/9); paragraph 64 was amended by section 95 of, and paragraphs 1 and 22 of Schedule 47 to, the Finance Act [2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10).
 
-[^key-554dd78edc5945feb75b849f4d377cfb]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2023/68/article/13) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-554dd78edc5945feb75b849f4d377cfb]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2023/68/article/13) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00018]: Footnote: Section 72 was amended by section 17(1) and (5) of the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), section 84(4) of, and paragraphs 3 and 8(a) of Schedule 22 to, and section 114 of, and Part 5 of Schedule 27 to, the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), regulation 2(2) and paragraph 8 of Schedule 2 of [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664) and section 43 of, and paragraphs 1 and 63 of Schedule 8 to, the Taxation (Cross-border Trade) Act 2018.
 
-[^key-152773a27155b338e4d1411f1eb8c5c0]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2023/68/article/14) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-152773a27155b338e4d1411f1eb8c5c0]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2023/68/article/14) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00019]: Footnote: [2007 c. 11](https://www.legislation.gov.uk/ukpga/2007/11).
 
-[^key-78960fdee6e77896b8d548b91a1c3392]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2023/68/article/15) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-78960fdee6e77896b8d548b91a1c3392]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2023/68/article/15) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00020]: Footnote: Subsections (4) to (4B) were substituted for subsection (4) as originally drafted by section 118(1) of, and paragraphs 32, 34(1) and (3) of Schedule 39 to, the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), subsection (4A) was amended by section 66 of, and paragraph 51 of Schedule 17 to, the Finance (No. 2) Act [2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32) and subsection (4) was amended by section 43 of, and paragraphs 1 and 69(1) and (5) of Schedule 8 to, the Taxation (Cross-border Trade) Act 2018.
 
 [^f00021]: Footnote: Paragraph 5 was amended by section 113 of, and Part 5(2) of Schedule 18 to, the Finance Act [1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16).
 
-[^key-30d6190ee03bfbaa6b33c06332012d51]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2023/68/article/16) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-30d6190ee03bfbaa6b33c06332012d51]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2023/68/article/16) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
-[^key-6e2a10f22cd743168d960503995a964a]: Textual amendment: [Arts. 16A-16D](https://www.legislation.gov.uk/uksi/2023/68/article/16A) inserted (1.5.2023) by [The Value Added Tax (Margin Schemes and Removal or Export of Goods: VAT-related Payments) (Late Payment Interest and Repayment Interest) (Amendment) Order 2023 (S.I. 2023/412)](https://www.legislation.gov.uk/uksi/2023/412), [arts. 1](https://www.legislation.gov.uk/uksi/2023/412/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/412/article/2/2)
+[^c-6e2a10f22cd743168d960503995a964a]: Textual amendment: [Arts. 16A-16D](https://www.legislation.gov.uk/uksi/2023/68/article/16A) inserted (1.5.2023) by [The Value Added Tax (Margin Schemes and Removal or Export of Goods: VAT-related Payments) (Late Payment Interest and Repayment Interest) (Amendment) Order 2023 (S.I. 2023/412)](https://www.legislation.gov.uk/uksi/2023/412), [arts. 1](https://www.legislation.gov.uk/uksi/2023/412/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/412/article/2/2)
 
-[^key-e2c989ece53ca59694738fa50c47811b]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2023/68/article/17) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
+[^c-e2c989ece53ca59694738fa50c47811b]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2023/68/article/17) in force at 1.5.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/68/article/1/1)
 
 [^f00022]: Footnote: “tribunal” is defined in section 82 of VATA.
 

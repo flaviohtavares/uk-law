@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — New Chapter 4ZA of Part 1 of the Local Government Finance Act 1992[^key-d8900cdfd4c5bce66983214901af9f69]
+## SCHEDULE 5 — New Chapter 4ZA of Part 1 of the Local Government Finance Act 1992[^c-d8900cdfd4c5bce66983214901af9f69]
 
 *Extent: E+W*
 
@@ -664,4 +664,4 @@ This is the Chapter referred to in section 72(1)—
 
 ## Annotations
 
-[^key-d8900cdfd4c5bce66983214901af9f69]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))
+[^c-d8900cdfd4c5bce66983214901af9f69]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukpga/2011/20/schedule/5) in force at 3.12.2011 by [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2011/2896/article/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Progress reports[^key-8cf3c975c2a9f665d1d663ec696f3a9a][^key-d03a92e815db3e3fa08338b1ecbff5ce]
+## 35. Progress reports[^c-8cf3c975c2a9f665d1d663ec696f3a9a][^c-d03a92e815db3e3fa08338b1ecbff5ce]
 
 *Extent: S*
 
@@ -54,8 +54,8 @@ send to the court, the registrar of companies, each creditor, the Secretary of S
 
 ## Annotations
 
-[^key-8cf3c975c2a9f665d1d663ec696f3a9a]: Commencement: Rule 35 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-8cf3c975c2a9f665d1d663ec696f3a9a]: Commencement: Rule 35 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-d03a92e815db3e3fa08338b1ecbff5ce]: Textual amendment: Word in [rule 35](https://www.legislation.gov.uk/uksi/2016/900/rule/35) heading substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/7)
+[^c-d03a92e815db3e3fa08338b1ecbff5ce]: Textual amendment: Word in [rule 35](https://www.legislation.gov.uk/uksi/2016/900/rule/35) heading substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(7)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/7)
 
 [^f00015]: Footnote: Section 176A was inserted by the Enterprise Act [2002 (c.40)](https://www.legislation.gov.uk/ukpga/2002/40), section 252.

@@ -29,9 +29,9 @@ summary: ''
 
 (5) A person shall be treated as engaged in remunerative work during any period for which he is absent from work referred to in paragraph (1) if the absence is either without good cause or by reason of a recognised, customary or other holiday.
 
-(6) A person on income support , an income-based jobseeker’s allowance or an income-related employment and support allowance[^key-b23123646c0f54f85b760d4080fb726a] for more than 3 days in any benefit week shall be treated as not being in remunerative work in that week.
+(6) A person on income support , an income-based jobseeker’s allowance or an income-related employment and support allowance[^c-b23123646c0f54f85b760d4080fb726a] for more than 3 days in any benefit week shall be treated as not being in remunerative work in that week.
 
-(7) A person shall not be treated as engaged in remunerative work on any day on which the person is on maternity leave, paternity leave , adoption leave[^key-d6479cbe65fbb77294b2d7ab2d05b3a9] , shared parental leave[^key-0cbd9294cbdcdafc46eeedba1acf5662] , neonatal care leave[^key-ec4946abbbf623de15692f836aa32ffa] or parental bereavement leave, or is absent from work because he is ill.
+(7) A person shall not be treated as engaged in remunerative work on any day on which the person is on maternity leave, paternity leave , adoption leave[^c-d6479cbe65fbb77294b2d7ab2d05b3a9] , shared parental leave[^c-0cbd9294cbdcdafc46eeedba1acf5662] , neonatal care leave[^c-ec4946abbbf623de15692f836aa32ffa] or parental bereavement leave, or is absent from work because he is ill.
 
 (8) A person shall not be treated as engaged in remunerative work on any day on which he is engaged in an activity in respect of which—
 
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b23123646c0f54f85b760d4080fb726a]: Textual amendment: Words in reg. 6(6) substituted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [31](https://www.legislation.gov.uk/uksi/2008/1082/regulation/31)
+[^c-b23123646c0f54f85b760d4080fb726a]: Textual amendment: Words in reg. 6(6) substituted (27.10.2008) by [Employment and Support Allowance (Consequential Provisions) Regulations 2008 (S.I. 2008/1082)](https://www.legislation.gov.uk/uksi/2008/1082), [regs. 1](https://www.legislation.gov.uk/uksi/2008/1082/regulation/1), [31](https://www.legislation.gov.uk/uksi/2008/1082/regulation/31)
 
-[^key-d6479cbe65fbb77294b2d7ab2d05b3a9]: Textual amendment: Words in reg. 6(7) substituted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/18/3)
+[^c-d6479cbe65fbb77294b2d7ab2d05b3a9]: Textual amendment: Words in reg. 6(7) substituted (31.12.2014) by [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/2), [18(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/18/3)
 
-[^key-0cbd9294cbdcdafc46eeedba1acf5662]: Textual amendment: Words in reg. 6(7) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2020/354/regulation/15/3)
+[^c-0cbd9294cbdcdafc46eeedba1acf5662]: Textual amendment: Words in reg. 6(7) substituted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [15(3)](https://www.legislation.gov.uk/uksi/2020/354/regulation/15/3)
 
-[^key-ec4946abbbf623de15692f836aa32ffa]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/uksi/2006/214/regulation/6/7) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2025/201/regulation/13/3)
+[^c-ec4946abbbf623de15692f836aa32ffa]: Textual amendment: Words in [reg. 6(7)](https://www.legislation.gov.uk/uksi/2006/214/regulation/6/7) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [13(3)](https://www.legislation.gov.uk/uksi/2025/201/regulation/13/3)

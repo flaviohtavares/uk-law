@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Social security co-ordination[^key-b5f626eefd7a069169b78d34c49457b6]
+## 26. Social security co-ordination[^c-b5f626eefd7a069169b78d34c49457b6]
 
 *Extent: E+W+S+N.I.*
 
 (1) The following provisions of the Trade and Cooperation Agreement, in its English language version, form part of domestic law on and after the relevant day—
 
 - (a) the SSC Protocol;
-- (b) Title I of Heading 4 of Part 2 (Trade, Transport, Fisheries and Other Arrangements)[^key-ad3f0771fc0c1ead7b6de488fb585841];
-- (c) Articles 6 and 775[^key-93589c5221b9e07bb842d3209c7caf87], so far as applying to the SSC Protocol.
+- (b) Title I of Heading 4 of Part 2 (Trade, Transport, Fisheries and Other Arrangements)[^c-ad3f0771fc0c1ead7b6de488fb585841];
+- (c) Articles 6 and 775[^c-93589c5221b9e07bb842d3209c7caf87], so far as applying to the SSC Protocol.
 
 (2) Any enactment has effect on and after the relevant day with such modifications as—
 
@@ -59,8 +59,8 @@ and references to the purposes of (or having the effect of) implementing an agre
 
 ## Annotations
 
-[^key-b5f626eefd7a069169b78d34c49457b6]: Commencement: S. 26 in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/x)
+[^c-b5f626eefd7a069169b78d34c49457b6]: Commencement: S. 26 in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(x)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/x)
 
-[^key-ad3f0771fc0c1ead7b6de488fb585841]: Textual amendment: Words in s. 26(1)(b) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+[^c-ad3f0771fc0c1ead7b6de488fb585841]: Textual amendment: Words in s. 26(1)(b) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
 
-[^key-93589c5221b9e07bb842d3209c7caf87]: Textual amendment: Words in s. 26(1)(c) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))
+[^c-93589c5221b9e07bb842d3209c7caf87]: Textual amendment: Words in s. 26(1)(c) substituted (23.7.2021) by [The European Union (Future Relationship) Act 2020 (References to the Trade and Cooperation Agreement) Regulations 2021 (S.I. 2021/884)](https://www.legislation.gov.uk/uksi/2021/884), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/884/schedule) (with [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2021/884/regulation/1/3/a))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Saving provisions – information provided before commencement day[^key-7cb196db278508dd59cec0d1649c7ec1]
+## 40. Saving provisions – information provided before commencement day[^c-7cb196db278508dd59cec0d1649c7ec1]
 
 *Extent: E+W+S+N.I.*
 
-(1) The following provisions of the Europol Regulation continue to have effect in relation to information provided by Europol to the United Kingdom before commencement day, with the modifications specified below (and see Title VII of Part 3 of the withdrawal agreement and sections 7A and 7C of the Withdrawal Act)[^key-7ecfc1d582db821071a7e4b4baa0fe8c]—
+(1) The following provisions of the Europol Regulation continue to have effect in relation to information provided by Europol to the United Kingdom before commencement day, with the modifications specified below (and see Title VII of Part 3 of the withdrawal agreement and sections 7A and 7C of the Withdrawal Act)[^c-7ecfc1d582db821071a7e4b4baa0fe8c]—
 
 - (a) paragraph 3 of Article 20 (access by Member States and Europol's staff to information stored by Europol), with the modification that the reference to “Member States” is to be treated as a reference to “any person or body having functions of a public nature that received information provided by Europol prior to commencement day, or successor thereto,”;
 - (b) for paragraph 7 of Article 23 (common provisions), substitute—
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7cb196db278508dd59cec0d1649c7ec1]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7cb196db278508dd59cec0d1649c7ec1]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-7ecfc1d582db821071a7e4b4baa0fe8c]: Textual amendment: Words in reg. 40 inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1408/regulation/14)
+[^c-7ecfc1d582db821071a7e4b4baa0fe8c]: Textual amendment: Words in reg. 40 inserted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Separation Issues etc.) (EU Exit) Regulations 2020 (S.I. 2020/1408)](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [14](https://www.legislation.gov.uk/uksi/2020/1408/regulation/14)

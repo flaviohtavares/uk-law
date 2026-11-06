@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Charges for participation in procurement process[^key-b6be68cb29337bbec60d0ab87ae6f9ac]
+## 31. Charges for participation in procurement process[^c-b6be68cb29337bbec60d0ab87ae6f9ac]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A contracting authority must not charge an economic operator a fee for participa
 
 ## Annotations
 
-[^key-b6be68cb29337bbec60d0ab87ae6f9ac]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/12/section/31) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-b6be68cb29337bbec60d0ab87ae6f9ac]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2014/12/section/31) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

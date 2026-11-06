@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the powers conferred on them by sections 116 and 117 of the Finance Act 1991[^f00001].
 
-## 1. Citation, commencement and effect[^key-f0e7571d4aa1676acbe4d0a95137003d]
+## 1. Citation, commencement and effect[^c-f0e7571d4aa1676acbe4d0a95137003d]
 
 (1) These Regulations may be cited as the Stamp Duty and Stamp Duty Reserve Tax (Investment Exchanges and Clearing Houses) (Eurex Clearing AG) Regulations 2007 and shall come into force on 23rd April 2007.
 
@@ -57,7 +57,7 @@ The Treasury make the following Regulations in exercise of the powers conferred 
   - (i) in the case of agreements to transfer equities which are not conditional, in relation to agreements made on or after 23rd April 2007;
   - (ii) in the case of agreements to transfer equities which are conditional, in relation to agreements where the condition is satisfied on or after that date.
 
-## 2. Interpretation[^key-c91762bdea56fcc093d98e7026e48fbd]
+## 2. Interpretation[^c-c91762bdea56fcc093d98e7026e48fbd]
 
 (1) In these Regulations—
 
@@ -79,18 +79,18 @@ The Treasury make the following Regulations in exercise of the powers conferred 
   - (a) is listed by and traded on the Eurex exchange (as defined by this regulation); or
   - (b) is otherwise permitted to be cleared by the rules of Eurex Clearing AG.
 
-## 3. Prescription of recognised clearing house[^key-5db2edc533f8215fe3825c910746fc47]
+## 3. Prescription of recognised clearing house[^c-5db2edc533f8215fe3825c910746fc47]
 
 For the purposes of sections 116 and 117 of the Finance Act 1991 Eurex Clearing AG is prescribed as a recognised clearing house.
 
-## 4. Transfers of securities to Eurex Clearing AG – prescribed circumstances[^key-4a614da89d70f9a2cbe12a84a842ea3c]
+## 4. Transfers of securities to Eurex Clearing AG – prescribed circumstances[^c-4a614da89d70f9a2cbe12a84a842ea3c]
 
 A charge to stamp duty or to stamp duty reserve tax shall be treated as not arising where, as a result of the exercise of an option, equities are transferred or issued, or agreed to be transferred or issued, to—
 
 - (a) Eurex Clearing AG, or
 - (b) a person whose business is or includes holding such equities as a nominee for Eurex Clearing AG.
 
-## 5. Transfers of securities from Eurex Clearing AG – prescribed circumstances[^key-b3d77da6f68273da06a186b214b0d9da]
+## 5. Transfers of securities from Eurex Clearing AG – prescribed circumstances[^c-b3d77da6f68273da06a186b214b0d9da]
 
 A charge to stamp duty or to stamp duty reserve tax shall be treated as not arising where, in order to meet an obligation to receive equities resulting from the exercise of an option, equities are transferred, or agreed to be transferred, from—
 
@@ -129,16 +129,16 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1991 c. 31](https://www.legislation.gov.uk/ukpga/1991/31). Section 116 was amended by section 432(1) of, and paragraph 5 of Schedule 20 to, the Financial Services and Markets Act [2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-f0e7571d4aa1676acbe4d0a95137003d]: Commencement: Reg. 1 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)
+[^c-f0e7571d4aa1676acbe4d0a95137003d]: Commencement: Reg. 1 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)
 
-[^key-c91762bdea56fcc093d98e7026e48fbd]: Commencement: Reg. 2 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)
+[^c-c91762bdea56fcc093d98e7026e48fbd]: Commencement: Reg. 2 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)
 
 [^f00002]: Footnote: [1986 c. 41](https://www.legislation.gov.uk/ukpga/1986/41). Subsections (3) to (6A) of section 99 were substituted for subsections (3) to (6) by section 144(2) of the Finance Act [1988 (c. 36)](https://www.legislation.gov.uk/ukpga/1988/36). Subsection (6A) was amended by section 113(2) of the Finance Act [1990 (c. 29)](https://www.legislation.gov.uk/ukpga/1990/29). The whole of Part 4 of the 1986 Act is to be repealed from a date to be appointed (*see* sections 110 and 111(1) of the 1990 Act).
 
 [^f00003]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-5db2edc533f8215fe3825c910746fc47]: Commencement: Reg. 3 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)
+[^c-5db2edc533f8215fe3825c910746fc47]: Commencement: Reg. 3 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)
 
-[^key-4a614da89d70f9a2cbe12a84a842ea3c]: Commencement: Reg. 4 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)
+[^c-4a614da89d70f9a2cbe12a84a842ea3c]: Commencement: Reg. 4 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)
 
-[^key-b3d77da6f68273da06a186b214b0d9da]: Commencement: Reg. 5 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)
+[^c-b3d77da6f68273da06a186b214b0d9da]: Commencement: Reg. 5 in force at 23.4.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1097/regulation/1/1)

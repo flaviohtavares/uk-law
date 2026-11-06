@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Consultation as to proposed ticketing scheme[^key-6e88b0795514a0df2569455b13c0faeb][^key-838aca48114f551b461faf10fcfe417f]
+## 30. Consultation as to proposed ticketing scheme[^c-6e88b0795514a0df2569455b13c0faeb][^c-838aca48114f551b461faf10fcfe417f]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6e88b0795514a0df2569455b13c0faeb]: Modification: Ss. 28-31: transfer of functions (1.11.2006) by [Transfer of Functions to the Shetland Transport Partnership Order 2006 (S.S.I. 2006/527)](https://www.legislation.gov.uk/ssi/2006/527), [arts. 1](https://www.legislation.gov.uk/ssi/2006/527/article/1), [3](https://www.legislation.gov.uk/ssi/2006/527/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/527/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/527/article/5))
+[^c-6e88b0795514a0df2569455b13c0faeb]: Modification: Ss. 28-31: transfer of functions (1.11.2006) by [Transfer of Functions to the Shetland Transport Partnership Order 2006 (S.S.I. 2006/527)](https://www.legislation.gov.uk/ssi/2006/527), [arts. 1](https://www.legislation.gov.uk/ssi/2006/527/article/1), [3](https://www.legislation.gov.uk/ssi/2006/527/article/3), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/527/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/527/article/5))
 
-[^key-838aca48114f551b461faf10fcfe417f]: Modification: Ss. 28-31: transfer of functions (7.11.2006) by [Transfer of Functions to the South-West of Scotland Transport Partnership Order 2006 (S.S.I. 2006/538)](https://www.legislation.gov.uk/ssi/2006/538), [art. 1](https://www.legislation.gov.uk/ssi/2006/538/article/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/538/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/538/article/5))
+[^c-838aca48114f551b461faf10fcfe417f]: Modification: Ss. 28-31: transfer of functions (7.11.2006) by [Transfer of Functions to the South-West of Scotland Transport Partnership Order 2006 (S.S.I. 2006/538)](https://www.legislation.gov.uk/ssi/2006/538), [art. 1](https://www.legislation.gov.uk/ssi/2006/538/article/1), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/538/schedule/1) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/538/article/5))

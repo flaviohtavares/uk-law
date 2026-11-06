@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Restriction on taking children out[^key-667931a14b6332db4add838fe83b4f36]
+## 84. Restriction on taking children out[^c-667931a14b6332db4add838fe83b4f36]
 
 *Extent: N.I.*
 
@@ -60,4 +60,4 @@ But this subsection only applies if sufficient evidence is adduced to raise an i
 
 ## Annotations
 
-[^key-667931a14b6332db4add838fe83b4f36]: Commencement: S. 84 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-667931a14b6332db4add838fe83b4f36]: Commencement: S. 84 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

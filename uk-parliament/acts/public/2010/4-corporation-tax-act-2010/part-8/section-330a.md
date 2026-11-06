@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 330A. Decommissioning expenditure taken into account in calculating ring fence profits[^key-e107060adfd044a66dcb6574140fecab][^key-da8953aef89c73a7d1e2f3bb3ba9704b]
+## 330A. Decommissioning expenditure taken into account in calculating ring fence profits[^c-e107060adfd044a66dcb6574140fecab][^c-da8953aef89c73a7d1e2f3bb3ba9704b]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e107060adfd044a66dcb6574140fecab]: Modification: Ss. 330A 330B excluded (with application in accordance with s. 48(3) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 48(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/48/5)[(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/48/6)
+[^c-e107060adfd044a66dcb6574140fecab]: Modification: Ss. 330A 330B excluded (with application in accordance with s. 48(3) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 48(5)](https://www.legislation.gov.uk/ukpga/2015/11/section/48/5)[(6)](https://www.legislation.gov.uk/ukpga/2015/11/section/48/6)
 
-[^key-da8953aef89c73a7d1e2f3bb3ba9704b]: Textual amendment: Ss. 330A-330C inserted (with effect in accordance with Sch. 21 para. 6 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/21/paragraph/3)
+[^c-da8953aef89c73a7d1e2f3bb3ba9704b]: Textual amendment: Ss. 330A-330C inserted (with effect in accordance with Sch. 21 para. 6 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 21 para. 3](https://www.legislation.gov.uk/ukpga/2012/14/schedule/21/paragraph/3)

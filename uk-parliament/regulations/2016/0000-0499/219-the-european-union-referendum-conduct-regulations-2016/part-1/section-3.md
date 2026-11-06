@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Interpretation[^key-f95b0106eb3b5426bc9f06cc1f29661e]
+## 3. Interpretation[^c-f95b0106eb3b5426bc9f06cc1f29661e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In these Regulations “the 2015 Act” means the European Union Referendum Act 
 
 ## Annotations
 
-[^key-f95b0106eb3b5426bc9f06cc1f29661e]: Commencement: Reg. 3 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-f95b0106eb3b5426bc9f06cc1f29661e]: Commencement: Reg. 3 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

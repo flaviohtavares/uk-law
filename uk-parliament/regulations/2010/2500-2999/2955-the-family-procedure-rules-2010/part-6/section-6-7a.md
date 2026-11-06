@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6.7A. Email service[^key-1e383767fd8ed75177d65d9e316cb7c4]
+## 6.7A. Email service[^c-1e383767fd8ed75177d65d9e316cb7c4]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e383767fd8ed75177d65d9e316cb7c4]: Textual amendment: [Rule 6.7A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.7A) inserted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [11](https://www.legislation.gov.uk/uksi/2022/44/rule/11) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-1e383767fd8ed75177d65d9e316cb7c4]: Textual amendment: [Rule 6.7A](https://www.legislation.gov.uk/uksi/2010/2955/rule/6.7A) inserted (6.4.2022) by [The Family Procedure (Amendment) Rules 2022 (S.I. 2022/44)](https://www.legislation.gov.uk/uksi/2022/44), [rules 1(3)(a)](https://www.legislation.gov.uk/uksi/2022/44/rule/1/3/a), [11](https://www.legislation.gov.uk/uksi/2022/44/rule/11) (with [rule 29](https://www.legislation.gov.uk/uksi/2022/44/rule/29)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

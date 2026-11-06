@@ -41,15 +41,15 @@ An Act to amend the law relating to driving licences and to regulate the operati
 
 (1) On the appointed day Part IV of the [^c8055441]Road Traffic Act 1988 and section 22 of the [^c8055451]Public Passenger Vehicles Act 1981 (which require special driving licences to be held for driving heavy goods vehicles and public service vehicles) shall cease to have effect but the repeal of those provisions does not imply that it is lawful for a person to drive a heavy goods vehicle or a public service vehicle of any class on or after that day on the authority of an existing licence under Part III of the 1988 Act (ordinary licences) and, for the purposes of section 87 of that Act (offence of driving without Part III licence), his licence shall not be taken to authorise him to drive vehicles of those classes.
 
-(2)[^key-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-6d5dcd9b4b9751a3a2bdb5fd8be42600] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In this Part of this Act—
 
@@ -60,7 +60,7 @@ An Act to amend the law relating to driving licences and to regulate the operati
 - “**the 1981 Act**” means the [^c8055461]Public Passenger Vehicles Act 1981;
 - “**the 1988 Act**” means the [^c8055471]Road Traffic Act 1988;
 
-[^key-d9b0d8a66413397bfae88946f6068f00]...
+[^c-d9b0d8a66413397bfae88946f6068f00]...
 
 ### 2. Special provisions relating to licensing of drivers of LGVs and PCVs.[^c8055481]
 
@@ -349,9 +349,9 @@ and he operates a driver information system “in relation to” public roads if
 
 (2) The Secretary of State may, by order, direct that this Part of this Act shall not apply to any description of driver information system specified in the order; and the description of a system may be framed by reference to any of its characteristics, its effects or any other circumstances.
 
-(3) The holding by a person of a licence under this section shall not relieve him of—[^key-b671ae8e45d01c5e70a30084573d4e40]
+(3) The holding by a person of a licence under this section shall not relieve him of—[^c-b671ae8e45d01c5e70a30084573d4e40]
 
-- (a) any liability in respect of a failure to hold a licence under section 8 of the Wireless Telegraphy Act 2006[^key-3aabf7185660a03cbfb6a25a207fbfdb] ; or
+- (a) any liability in respect of a failure to hold a licence under section 8 of the Wireless Telegraphy Act 2006[^c-3aabf7185660a03cbfb6a25a207fbfdb] ; or
 - (b) any obligation to comply with requirements imposed by or under Chapter 1 of Part 2 of the Communications Act 2003 (electronic communications networks and electronic communications services).
 
 (4) Any person who operates a driver information system in contravention of this section commits an offence.
@@ -502,57 +502,57 @@ The enactments mentioned in Schedule 6 to this Act are hereby repealed to the ex
 
 SCHEDULES
 
-## SCHEDULE 1 — EXISTING HGV AND PSV DRIVERS’ LICENCES[^key-f08e229e725576ece6e1d3a882803241]
+## SCHEDULE 1 — EXISTING HGV AND PSV DRIVERS’ LICENCES[^c-f08e229e725576ece6e1d3a882803241]
 
 **No longer in force.**
 
 Section 1.
 
-### Part I — Existing HGV and PSV Drivers’ Licences[^key-f08e229e725576ece6e1d3a882803241]
+### Part I — Existing HGV and PSV Drivers’ Licences[^c-f08e229e725576ece6e1d3a882803241]
 
-#### Preliminary[^key-f08e229e725576ece6e1d3a882803241]
+#### Preliminary[^c-f08e229e725576ece6e1d3a882803241]
 
-**1.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Functions of Secretary of State and Traffic Commissioners[^key-f08e229e725576ece6e1d3a882803241]
+#### Functions of Secretary of State and Traffic Commissioners[^c-f08e229e725576ece6e1d3a882803241]
 
-**2.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Conditions of existing Heavy Goods VehicleHGV licences[^key-f08e229e725576ece6e1d3a882803241]
+#### Conditions of existing Heavy Goods VehicleHGV licences[^c-f08e229e725576ece6e1d3a882803241]
 
-**3.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Duration of existing licences[^key-f08e229e725576ece6e1d3a882803241]
+#### Duration of existing licences[^c-f08e229e725576ece6e1d3a882803241]
 
-**4.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Revocation or suspension of existing licences[^key-f08e229e725576ece6e1d3a882803241]
+#### Revocation or suspension of existing licences[^c-f08e229e725576ece6e1d3a882803241]
 
-**5.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Disqualification on revocation of existing licences[^key-f08e229e725576ece6e1d3a882803241]
+#### Disqualification on revocation of existing licences[^c-f08e229e725576ece6e1d3a882803241]
 
-**6.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Appeals relating to existing licences[^key-f08e229e725576ece6e1d3a882803241]
+#### Appeals relating to existing licences[^c-f08e229e725576ece6e1d3a882803241]
 
-**7.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Regulations[^key-f08e229e725576ece6e1d3a882803241]
+#### Regulations[^c-f08e229e725576ece6e1d3a882803241]
 
-**8.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Provisions as to existing Northern Ireland licences[^key-f08e229e725576ece6e1d3a882803241]
+#### Provisions as to existing Northern Ireland licences[^c-f08e229e725576ece6e1d3a882803241]
 
-**9.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Transitory Provisions[^key-f08e229e725576ece6e1d3a882803241]
+### Part II — Transitory Provisions[^c-f08e229e725576ece6e1d3a882803241]
 
-**10.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-f08e229e725576ece6e1d3a882803241] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Provisions inserted in Road Traffic Act 1988
 
@@ -739,7 +739,7 @@ Section 7.
 
 ### Energy Act 1976 (c.76)
 
-**1.**[^key-573f46513e83e737c21df2b6e63fcb32][^c8055971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-573f46513e83e737c21df2b6e63fcb32][^c8055971] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Passenger Vehicles Act 1981 (c.14)
 
@@ -749,7 +749,7 @@ Section 7.
 - (b)[^c8055991] in subsection (2)—
   - (i) after the words “endorsed upon” there shall be inserted the words “ the counterpart of ”, and
   - (ii) for the words “section 22 of this Act” there shall be substituted the words “ Part III of the Road Traffic Act 1988 ”;
-- (bb)[^key-044d7e55ed65d08f2d8179de16cc45fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (bb)[^c-044d7e55ed65d08f2d8179de16cc45fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) after subsection (4) there shall be inserted the following subsection—
 
   > (5) Notwithstanding section 1(1) of this Act, in this section and in sections 25 and 26 of this Act “**public service vehicle**” shall be construed as meaning a public service vehicle being used on a road for carrying passengers for hire or reward.
@@ -770,11 +770,11 @@ Section 7.
 
 **6.** In section 23 of the 1988 Act (restriction on carriage of persons on motor cycles), for the words “two-wheeled motor cycle” in both places where they occur, there shall be substituted the words “ motor bicycle ”.
 
-**7.**[^key-5bd8c47f8cad62e31bbf50adbb97e83e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5bd8c47f8cad62e31bbf50adbb97e83e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.**[^c8056041] In section 89 of the 1988 Act (tests of competence to drive)—
 
-- (a)[^key-5f244f0640269f86125855ba628091db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5f244f0640269f86125855ba628091db] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in subsection (6)—
   - (i) for the words “(1)(a) above”, where first occurring, there shall be substituted the words “ (1)(a)(iii) above or section 89A(2)(b)(iii) below ”,
   - (ii) in paragraph (b), for the word “**any**” where it first occurs there shall be substituted the word “ all ”, and
@@ -815,7 +815,7 @@ Section 7.
 - (c) in paragraph (c), for the words “1st June 1970” there shall be substituted the words “ 1st January 1976 ” and for the words from “89(1)(c)” to the end there shall be substituted the words “ 89(1)(d) or (f) of this Act, surrenders to the Secretary of State his British external licence, his British Forces licence or his exchangeable licence, as the case may be, and ”; and
 - (d) in paragraph (d), for the words from “disqualified” to “application” there shall be substituted the words “ , in accordance with section 88(1B) of this Act, subject to a current disqualification which is relevant to the licence he applies for ”.
 
-**10.**[^key-a4ed7ebd6406a4caa0308afbe4b351c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-a4ed7ebd6406a4caa0308afbe4b351c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.**[^c8056061] In section 98 of the 1988 Act (form of licence and provisional entitlement)—
 
@@ -845,7 +845,7 @@ Section 7.
   - (i) after the word “who” there shall be inserted the words “ without reasonable excuse ”, and
   - (ii) after the word “subsection” there shall be inserted the words “ (3) or ”.
 
-**13.**[^key-af8dba7e2853f4daedc1acc1464e7333][^c8056121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-af8dba7e2853f4daedc1acc1464e7333][^c8056121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **14.** In section 105 of the 1988 Act (regulations), in subsection (2), there shall be inserted, after paragraph (e), the following paragraph—
 
@@ -892,7 +892,7 @@ Section 7.
   - (ii) after the words “this Part”, where first occurring, there shall be inserted the words “ or Part IV ”; and
 - (b) in subsection (2), for the words “licence so granted” there shall be substituted the words “ Northern Ireland driving licence ”.
 
-**17.**[^key-63f10432528003acc2aae1b102e9752c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-63f10432528003acc2aae1b102e9752c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **18.**[^c8056161] In section 164 of the 1988 Act (production to constables of driving licences)—
 
@@ -942,15 +942,15 @@ Section 7.
 
 ### Road Traffic Offenders Act 1988 (c.53)
 
-**25.**[^key-ca7f61a0fca6eb73dea6f1614d78b0ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-ca7f61a0fca6eb73dea6f1614d78b0ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **26.** In section 98(3) of the Road Traffic Offenders Act 1988 (general interpretation), at the end there shall be inserted “ or, if followed by “1989”, the Road Traffic (Driver Licensing and Information Systems) Act 1989 ”.
 
 **27.**[^c8056291] In Schedule 1 to the Road Traffic Offenders Act 1988—
 
-- (a)[^key-66fa8c7fde72980d4cc8901fee7f506f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-66fa8c7fde72980d4cc8901fee7f506f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-66fa8c7fde72980d4cc8901fee7f506f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-66fa8c7fde72980d4cc8901fee7f506f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-66fa8c7fde72980d4cc8901fee7f506f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-66fa8c7fde72980d4cc8901fee7f506f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)[^c8056301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (e) in the table, after the entry for section 103(1)(b) of the Road Traffic Act 1988 (“RTA”) there shall be inserted—
 
@@ -980,7 +980,7 @@ Section 7.
   - (i) in column 1, for the words “section 117(4)” there shall be substituted the words “ section 120(5) ”, and
   - (ii) in column 2, for the word “HGV” there shall be substituted the words “ LGV or PCV ”.
 
-**29.**[^key-eb3f495d9a43ffa0c33eed2f906550e0][^c8056421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-eb3f495d9a43ffa0c33eed2f906550e0][^c8056421] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **30.**[^c8056431] In Schedule 5 to the Road Traffic Offenders Act 1988—
 
@@ -991,7 +991,7 @@ Section 7.
 - (c) in the entry for regulations under section 117 of the Road Traffic Act 1988—
   - (i) in column 1, for the words “section 117” there shall be substituted the words “ section 120(5) ”, and
   - (ii) in column 2, for the word “HGV” there shall be substituted the words “ LGV or PCV ”; and
-- (d)[^key-bc12d83b2bac36d2bb4e621bc8c8d96a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-bc12d83b2bac36d2bb4e621bc8c8d96a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 4 — Driver Information System Licences: Application of Acts to Licence Holders
 
@@ -1041,7 +1041,7 @@ Section 13(1).
 >
 > **11.** In this Schedule, “**statutory undertakers**” includes operators of driver information systems.
 
-**4.** Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code)[^key-6c5ac1d07481649ea3d2123855fdf709] (procedure for works involving alteration of electronic communications apparatus)[^key-d32137ba3f3d7760284b4eb712233606] shall apply to the holders of operators’ licences under Part II of this Act for the purposes of the operations authorised by their licences.
+**4.** Part 10 of Schedule 3A to the Communications Act 2003 (the electronic communications code)[^c-6c5ac1d07481649ea3d2123855fdf709] (procedure for works involving alteration of electronic communications apparatus)[^c-d32137ba3f3d7760284b4eb712233606] shall apply to the holders of operators’ licences under Part II of this Act for the purposes of the operations authorised by their licences.
 
 **5.** (1) The [^c8056571]Roads (Scotland) Act 1984 shall be amended as provided in this paragraph.
 
@@ -1125,16 +1125,16 @@ he shall be guilty of an offence.
 
 - “**relevant undertaker**” means—
 - (a) any person or authority authorised by or under any Act (whether public general or local) to carry on any railway, tramway, road transport, water transport, canal, inland navigation, dock, harbour, pier or lighthouse undertaking;
-- (b) any electronic communications code operator;[^key-e1ae00553907b3d0f06d2ac24d48d931]
+- (b) any electronic communications code operator;[^c-e1ae00553907b3d0f06d2ac24d48d931]
 - (c) any public gas transporter[^c8056621] (within the meaning of Part I of the [^c8056631]Gas Act 1986);
 - (d) any holder of a licence under Part I of the [^c8056641]Electricity Act 1989 who is entitled to exercise any power conferred by paragraph 1 or 2 of Schedule 4 to that Act;
-- (e) the Environment Agency, the Natural Resources Body for Wales[^key-ca76672bbb88e1b82ffb6dc11a021947] or any water undertaker or sewerage undertaker;
+- (e) the Environment Agency, the Natural Resources Body for Wales[^c-ca76672bbb88e1b82ffb6dc11a021947] or any water undertaker or sewerage undertaker;
 - (f) any other licensed operator of a driver information system; or
 - (g) any person to whom this Schedule is applied by any Act passed after this Act;
 
 - “**undertaker’s works**” means—
 - (a) in relation to a relevant undertaker falling within paragraph (a) above, any works which he is authorised to execute for the purpose of, or in connection with, the carrying on by him of the undertaking mentioned in that paragraph;
-- (b) in relation to a relevant undertaker falling within paragraph (b) above, any works which he is authorised to execute for the purposes of, or in connection with, an electronic communications code network provided by him[^key-14e4bfe51133429aaff91d3010a9eb23] ;
+- (b) in relation to a relevant undertaker falling within paragraph (b) above, any works which he is authorised to execute for the purposes of, or in connection with, an electronic communications code network provided by him[^c-14e4bfe51133429aaff91d3010a9eb23] ;
 - (c) in relation to a relevant undertaker falling within paragraph (c) above, any works which he is authorised to execute for the purposes of, or in connection with, his conveying gas as a public gas transporter[^c8056651];
 - (d) in relation to a relevant undertaker falling within paragraph (d) above, any works which he is authorised to execute for any purpose connected with the carrying on of the activities which he is authorised by his licence to carry on;
 - (e) in relation to a relevant undertaker falling within paragraph (e) above, any works which that Authority or undertaker has power to execute for purposes connected with the carrying on of its functions;
@@ -1189,13 +1189,13 @@ Section 16.
 
 [^c8055451]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 
-[^key-6d5dcd9b4b9751a3a2bdb5fd8be42600]: Textual amendment: [S. 1(2)-(6)](https://www.legislation.gov.uk/ukpga/1989/22/section/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-6d5dcd9b4b9751a3a2bdb5fd8be42600]: Textual amendment: [S. 1(2)-(6)](https://www.legislation.gov.uk/ukpga/1989/22/section/1/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8055461]: Marginal citation: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).
 
 [^c8055471]: Marginal citation: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-d9b0d8a66413397bfae88946f6068f00]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1989/22/section/1/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-d9b0d8a66413397bfae88946f6068f00]: Textual amendment: Words in [s. 1(7)](https://www.legislation.gov.uk/ukpga/1989/22/section/1/7) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8055481]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/1989/22/section/2) wholly in force at 1.4.1991 see [s. 17(2)](https://www.legislation.gov.uk/ukpga/1989/22/section/17/2) and [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
@@ -1217,9 +1217,9 @@ Section 16.
 
 [^c8055611]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-b671ae8e45d01c5e70a30084573d4e40]: Textual amendment: S. 9(3) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 97(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/97/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-b671ae8e45d01c5e70a30084573d4e40]: Textual amendment: S. 9(3) substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 97(2)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/97/2) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-3aabf7185660a03cbfb6a25a207fbfdb]: Textual amendment: Words in [s. 9(3)(a)](https://www.legislation.gov.uk/ukpga/1989/22/section/9/3/a) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/7)
+[^c-3aabf7185660a03cbfb6a25a207fbfdb]: Textual amendment: Words in [s. 9(3)(a)](https://www.legislation.gov.uk/ukpga/1989/22/section/9/3/a) substituted (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2006/36/schedule/7/paragraph/7)
 
 [^c8055681]: Textual amendment: Words in [s. 12(2)](https://www.legislation.gov.uk/ukpga/1989/22/section/12/2) repealed (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/2), [Sch.9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); (E.W.) [S.I. 1992/2984](https://www.legislation.gov.uk/uksi/1992/2984), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2984/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1992/2984/schedule/2); (S.) [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2)
 
@@ -1233,7 +1233,7 @@ Section 16.
 
 [^c8055731]: Modification: Power of appointment conferred by s. 17(2) partly exercised: [S.I. 1989/1843](https://www.legislation.gov.uk/uksi/1989/1843), 1990/802, 2228, 2610
 
-[^key-f08e229e725576ece6e1d3a882803241]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1989/22/schedule/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-f08e229e725576ece6e1d3a882803241]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1989/22/schedule/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8055881]: Textual amendment: Words inserted by [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144), [regs. 2(3)](https://www.legislation.gov.uk/uksi/1990/144/regulation/2/3), [3](https://www.legislation.gov.uk/uksi/1990/144/regulation/3), [Sch. 3 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/2/2/a)
 
@@ -1253,7 +1253,7 @@ Section 16.
 
 [^c8055961]: Textual amendment: Word substituted by [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144), [regs. 2(3)](https://www.legislation.gov.uk/uksi/1990/144/regulation/2/3), [3](https://www.legislation.gov.uk/uksi/1990/144/regulation/3), [Sch. 3 para. 2(4)(a)(b)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/2/4/a/b)
 
-[^key-573f46513e83e737c21df2b6e63fcb32]: Textual amendment: Sch. 3 para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-573f46513e83e737c21df2b6e63fcb32]: Textual amendment: Sch. 3 para. 1 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8055971]: Commencement: Sch. 3 para. 1 wholly in force at 1.4.1991 see s. 17(2) and [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
@@ -1261,7 +1261,7 @@ Section 16.
 
 [^c8055991]: Textual amendment: Sch. 3 para. 2(b) substituted by [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144), [regs. 2(3)](https://www.legislation.gov.uk/uksi/1990/144/regulation/2/3), [3](https://www.legislation.gov.uk/uksi/1990/144/regulation/3), [Sch. 3 para. 3(2)(a)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/3/2/a)
 
-[^key-044d7e55ed65d08f2d8179de16cc45fd]: Textual amendment: Sch. 3 para. 2(bb) repealed (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/8)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/3); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/c)
+[^c-044d7e55ed65d08f2d8179de16cc45fd]: Textual amendment: Sch. 3 para. 2(bb) repealed (1.4.2009) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(8)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/8)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(3)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/3); [S.I. 2008/3164](https://www.legislation.gov.uk/uksi/2008/3164), [art. 4(c)](https://www.legislation.gov.uk/uksi/2008/3164/article/4/c)
 
 [^c8056011]: Commencement: Sch. 3 para. 3 wholly in force at 1.4.1991 see s. 17(2) and [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
@@ -1269,15 +1269,15 @@ Section 16.
 
 [^c8056031]: Commencement: Sch. 3 para. 5 wholly in force at 1.4.1991 see s. 17(2) and [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
-[^key-5bd8c47f8cad62e31bbf50adbb97e83e]: Textual amendment: Sch. 3 para. 7 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-5bd8c47f8cad62e31bbf50adbb97e83e]: Textual amendment: Sch. 3 para. 7 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8056041]: Commencement: Sch. 3 para. 8 wholly in force at 1.4.1991; para. 8 not in force at Royal Assent see s. 17(2); para. 8(b)(ii)(iii) in force at 1.6.1990 by [S.I. 1990/802](https://www.legislation.gov.uk/uksi/1990/802); para. 8 in force at 1.4.1991 so far as not already in force by [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
-[^key-5f244f0640269f86125855ba628091db]: Textual amendment: [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/ukpga/1989/22/schedule/3/paragraph/8/a) repealed (27.2.2007) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(9)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/9); [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/237/article/2/e)
+[^c-5f244f0640269f86125855ba628091db]: Textual amendment: [Sch. 3 para. 8(a)](https://www.legislation.gov.uk/ukpga/1989/22/schedule/3/paragraph/8/a) repealed (27.2.2007) by [Road Safety Act 2006 (c. 49)](https://www.legislation.gov.uk/ukpga/2006/49), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/1)[(10)](https://www.legislation.gov.uk/ukpga/2006/49/section/61/10), [Sch. 7(9)](https://www.legislation.gov.uk/ukpga/2006/49/schedule/7/9); [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(e)](https://www.legislation.gov.uk/uksi/2007/237/article/2/e)
 
 [^c8056051]: Commencement: Sch. 3 para. 9 wholly in force at 1.4.1991; para. 9 not in force at Royal Assent see s. 17(2); para. 9(b)(d) in force at 1.6.1990 by [S.I. 1990/802](https://www.legislation.gov.uk/uksi/1990/802); para. 9 in force at 1.4.1991 so far as not already in force by [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
-[^key-a4ed7ebd6406a4caa0308afbe4b351c0]: Textual amendment: Sch. 3 para. 10 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-a4ed7ebd6406a4caa0308afbe4b351c0]: Textual amendment: Sch. 3 para. 10 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8056061]: Commencement: Sch. 3 para. 11 wholly in force at 1.4.1991; para. 11 not in force at Royal Assent see s. 17(2); para. 11(b) in force at 1.6.1990 by [S.I. 1990/802](https://www.legislation.gov.uk/uksi/1990/802); para. 11(c) in force at 1.12.1990 by [S.I. 1990/2228](https://www.legislation.gov.uk/uksi/1990/2228); para. 11 in force at 1.4.1991 so far as not already in force by [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
@@ -1285,13 +1285,13 @@ Section 16.
 
 [^c8056111]: Commencement: Sch. 3 para. 12 wholly in force at 1.4.1991; para. 12 not in force at Royal Assent see s. 17(2); para. 12(b)(c) in force at 1.6.1990 by [S.I. 1990/802](https://www.legislation.gov.uk/uksi/1990/802); para. 12 in force at 1.4.1991 so far as not already in force by [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2 sch.](https://www.legislation.gov.uk/uksi/1990/2610/article/2/schedule)
 
-[^key-af8dba7e2853f4daedc1acc1464e7333]: Textual amendment: Sch. 3 para. 13 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-af8dba7e2853f4daedc1acc1464e7333]: Textual amendment: Sch. 3 para. 13 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8056121]: Commencement: Sch. 3 para. 13 wholly in force at 1.4.1991 see s. 17(2) and [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
 [^c8056131]: Commencement: Sch. 3 para. 15 wholly in force at 1.4.1991; para. 15 not in force at Royal Assent see s. 17(2); para. 15(a)(f) wholly in force and para. 15(e) partly in force at 1.6.1990 by [S.I. 1990/802](https://www.legislation.gov.uk/uksi/1990/802); para. 15(g) wholly in force at 1.12.1990 by [S.I. 1990/2228](https://www.legislation.gov.uk/uksi/1990/2228); para. 15 in force at 1.4.1991 so far as not already in force by [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
-[^key-63f10432528003acc2aae1b102e9752c]: Textual amendment: Sch. 3 para. 17 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-63f10432528003acc2aae1b102e9752c]: Textual amendment: Sch. 3 para. 17 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8056161]: Commencement: Sch. 3 para. 18 wholly in force at 1.4.1991; para. 18 not in force at Royal Assent see s. 17(2); para. 18(b)(c)(d) in force at 1.12.1990 by [S.I. 1990/2228](https://www.legislation.gov.uk/uksi/1990/2228); para. 18 in force at 1.4.1991 so far as not already in force by [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
@@ -1303,11 +1303,11 @@ Section 16.
 
 [^c8056241]: Commencement: Sch. 3 para. 23 wholly in force at 1.4.1991 see s. 17(2) and [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
-[^key-ca7f61a0fca6eb73dea6f1614d78b0ec]: Textual amendment: Sch. 3 para. 25 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-ca7f61a0fca6eb73dea6f1614d78b0ec]: Textual amendment: Sch. 3 para. 25 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8056291]: Commencement: Sch. 3 para. 27 wholly in force at 1.4.1991; para. 27 not in force at Royal Assent see s. 17(2); para. 27(d) in force at 1.6.1990 by [S.I. 1990/802](https://www.legislation.gov.uk/uksi/1990/802); Sch. 3 para. 15 in force at 1.4.1991 so far as not already in force by [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
-[^key-66fa8c7fde72980d4cc8901fee7f506f]: Textual amendment: Sch. 3 para. 27(a)-(c) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-66fa8c7fde72980d4cc8901fee7f506f]: Textual amendment: Sch. 3 para. 27(a)-(c) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8056301]: Textual amendment: Sch. 3 para. 27(d) (apart from the word "and") repealed (1.7.1998) by [S.I. 1998/1420](https://www.legislation.gov.uk/uksi/1998/1420), [reg. 17](https://www.legislation.gov.uk/uksi/1998/1420/regulation/17), [Sch.](https://www.legislation.gov.uk/uksi/1998/1420/schedule)
 
@@ -1321,7 +1321,7 @@ Section 16.
 
 [^c8056411]: Textual amendment: Words inserted by [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144), [regs. 2(3)](https://www.legislation.gov.uk/uksi/1990/144/regulation/2/3), [3](https://www.legislation.gov.uk/uksi/1990/144/regulation/3), [Sch. 3 para. 3(5)(c)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/3/5/c)
 
-[^key-eb3f495d9a43ffa0c33eed2f906550e0]: Textual amendment: Sch. 3 para. 29 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-eb3f495d9a43ffa0c33eed2f906550e0]: Textual amendment: Sch. 3 para. 29 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8056421]: Commencement: Sch. 3 para. 29 wholly in force at 1.4.1991; para. 29 not in force at Royal Assent see s. 17(2); para. 29 in force for certain purposes at 8.11.1989 by [S.I. 1989/1843](https://www.legislation.gov.uk/uksi/1989/1843); para. 29 in force at 1.4.1991 so far as not already in force by [S.I. 1990/2610](https://www.legislation.gov.uk/uksi/1990/2610), [art. 2](https://www.legislation.gov.uk/uksi/1990/2610/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1990/2610/schedule)
 
@@ -1329,7 +1329,7 @@ Section 16.
 
 [^c8056441]: Textual amendment: Words inserted by [S.I. 1990/144](https://www.legislation.gov.uk/uksi/1990/144), [regs. 2(3)](https://www.legislation.gov.uk/uksi/1990/144/regulation/2/3), [3](https://www.legislation.gov.uk/uksi/1990/144/regulation/3), [Sch. 3 para. 3(6)](https://www.legislation.gov.uk/uksi/1990/144/schedule/3/paragraph/3/6)
 
-[^key-bc12d83b2bac36d2bb4e621bc8c8d96a]: Textual amendment: Sch. 3 para. 30(d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-bc12d83b2bac36d2bb4e621bc8c8d96a]: Textual amendment: Sch. 3 para. 30(d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c8056451]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 2](https://www.legislation.gov.uk/ukpga/1990/11/section/2), [Sch. 2 para. 82](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/82)
 
@@ -1341,13 +1341,13 @@ Section 16.
 
 [^c8056531]: Textual amendment: [Sch. 4 para. 3(2)(6)(11)](https://www.legislation.gov.uk/ukpga/1989/22/schedule/4/paragraph/3/2/6/11) repealed (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/2), [Sch.9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); (E.W) [S.I. 1992/2984](https://www.legislation.gov.uk/uksi/1992/2984), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2984/article/2/2), [Sch.2](https://www.legislation.gov.uk/uksi/1992/2984/schedule/2); (S.) [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2)
 
-[^key-6c5ac1d07481649ea3d2123855fdf709]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1989/22/schedule/4/paragraph/4) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/27); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
+[^c-6c5ac1d07481649ea3d2123855fdf709]: Textual amendment: Words in [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/1989/22/schedule/4/paragraph/4) substituted (28.12.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/6), [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2017/30/schedule/3/paragraph/27); [S.I. 2017/1286](https://www.legislation.gov.uk/uksi/2017/1286), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/1286/regulation/2/d)
 
-[^key-d32137ba3f3d7760284b4eb712233606]: Textual amendment: Words in Sch. 4 para. 4 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 97(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/97/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-d32137ba3f3d7760284b4eb712233606]: Textual amendment: Words in Sch. 4 para. 4 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 97(3)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/97/3) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c8056571]: Marginal citation: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-e1ae00553907b3d0f06d2ac24d48d931]: Textual amendment: Words in Sch. 5 para. 8 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 97(4)(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/97/4/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e1ae00553907b3d0f06d2ac24d48d931]: Textual amendment: Words in Sch. 5 para. 8 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 97(4)(a)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/97/4/a) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c8056621]: Textual amendment: Words in Sch. 5 para. 8(c) in the definition of "relevant undertaker" substituted (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/16/1), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/16); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
@@ -1355,9 +1355,9 @@ Section 16.
 
 [^c8056641]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-ca76672bbb88e1b82ffb6dc11a021947]: Textual amendment: Words in Sch. 5 para. 8(e) in the definition of "relevant undertaker" substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 194](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/194) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ca76672bbb88e1b82ffb6dc11a021947]: Textual amendment: Words in Sch. 5 para. 8(e) in the definition of "relevant undertaker" substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 194](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/194) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-14e4bfe51133429aaff91d3010a9eb23]: Textual amendment: Words in Sch. 5 para. 8 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 97(4)(b)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/97/4/b) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-14e4bfe51133429aaff91d3010a9eb23]: Textual amendment: Words in Sch. 5 para. 8 substituted (25.7.2003 for specified purposes, 29.12.2003 in so far as not already in force) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 97(4)(b)](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/97/4/b) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
 [^c8056651]: Textual amendment: Words in Sch. 5 para. 8(c) in the definition of "undertaker's works" substituted (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45),, s. 16(1), Sch. 4 para. 16; [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 

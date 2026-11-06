@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Missing child policy[^key-fef3d20f7bd596fc8b67e1d3373c1018]
+## 21. Missing child policy[^c-fef3d20f7bd596fc8b67e1d3373c1018]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fef3d20f7bd596fc8b67e1d3373c1018]: Commencement: Reg. 21 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-fef3d20f7bd596fc8b67e1d3373c1018]: Commencement: Reg. 21 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)

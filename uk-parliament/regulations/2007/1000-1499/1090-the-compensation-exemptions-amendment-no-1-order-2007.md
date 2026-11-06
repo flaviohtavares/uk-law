@@ -32,7 +32,7 @@ summary: ''
 
 Consumer protection, England and wales
 
-The Compensation (Exemptions) (Amendment) (No.1) Order 2007 (revoked)[^key-8c9272d19a7b10fa7babc1f265b0fc27]
+The Compensation (Exemptions) (Amendment) (No.1) Order 2007 (revoked)[^c-8c9272d19a7b10fa7babc1f265b0fc27]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 23rd April 2007
 
-[^key-8c9272d19a7b10fa7babc1f265b0fc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c9272d19a7b10fa7babc1f265b0fc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-8c9272d19a7b10fa7babc1f265b0fc27]
+## 1. Citation[^c-8c9272d19a7b10fa7babc1f265b0fc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Commencement[^key-8c9272d19a7b10fa7babc1f265b0fc27]
+## 2. Commencement[^c-8c9272d19a7b10fa7babc1f265b0fc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Compensation (Exemptions) Order 2007[^key-8c9272d19a7b10fa7babc1f265b0fc27]
+## 3. Amendment of the Compensation (Exemptions) Order 2007[^c-8c9272d19a7b10fa7babc1f265b0fc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8c9272d19a7b10fa7babc1f265b0fc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c9272d19a7b10fa7babc1f265b0fc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8c9272d19a7b10fa7babc1f265b0fc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8c9272d19a7b10fa7babc1f265b0fc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8c9272d19a7b10fa7babc1f265b0fc27]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/1090) revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [105(e)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/e)
+[^c-8c9272d19a7b10fa7babc1f265b0fc27]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2007/1090) revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [105(e)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/e)

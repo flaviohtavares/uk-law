@@ -33,7 +33,7 @@ Constitutional Law
 
 Devolution, Wales
 
-The National Assembly for Wales (Letters Patent) Order 2011 (revoked)[^key-f84f89a72619afd045616e490d157572]
+The National Assembly for Wales (Letters Patent) Order 2011 (revoked)[^c-f84f89a72619afd045616e490d157572]
 
 Made
 
@@ -53,31 +53,31 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-f84f89a72619afd045616e490d157572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f84f89a72619afd045616e490d157572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and interpretation[^key-f84f89a72619afd045616e490d157572]
+## 1. Title, commencement and interpretation[^c-f84f89a72619afd045616e490d157572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Form of Letters Patent[^key-f84f89a72619afd045616e490d157572]
+## 2. Form of Letters Patent[^c-f84f89a72619afd045616e490d157572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Preparation of Letters Patent[^key-f84f89a72619afd045616e490d157572]
+## 3. Preparation of Letters Patent[^c-f84f89a72619afd045616e490d157572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Publication of Letters Patent[^key-f84f89a72619afd045616e490d157572]
+## 4. Publication of Letters Patent[^c-f84f89a72619afd045616e490d157572]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f84f89a72619afd045616e490d157572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f84f89a72619afd045616e490d157572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Form of Letters Patent[^key-f84f89a72619afd045616e490d157572]
+## SCHEDULE — Form of Letters Patent[^c-f84f89a72619afd045616e490d157572]
 
 Article 2
 
@@ -93,8 +93,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-f84f89a72619afd045616e490d157572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f84f89a72619afd045616e490d157572]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f84f89a72619afd045616e490d157572]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/752) revoked (4.3.2021) by [The Senedd Cymru (Letters Patent and Proclamations) Order 2021 (S.I. 2021/141)](https://www.legislation.gov.uk/uksi/2021/141), [art. 5](https://www.legislation.gov.uk/uksi/2021/141/article/5)
+[^c-f84f89a72619afd045616e490d157572]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/752) revoked (4.3.2021) by [The Senedd Cymru (Letters Patent and Proclamations) Order 2021 (S.I. 2021/141)](https://www.legislation.gov.uk/uksi/2021/141), [art. 5](https://www.legislation.gov.uk/uksi/2021/141/article/5)

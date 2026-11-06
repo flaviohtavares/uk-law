@@ -63,7 +63,7 @@ These Regulations make provision for a purpose mentioned in that section and it 
 - [Section 1A — Application](part-1/section-1a.md)
 - [Section 2 — Interpretation](part-1/section-2.md)
 
-### PART 2 — Type-approval[^key-d0f14598a2ca8a5550cc00cec87d5c6b]
+### PART 2 — Type-approval[^c-d0f14598a2ca8a5550cc00cec87d5c6b]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ These Regulations make provision for a purpose mentioned in that section and it 
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Small series type approvals[^key-23ee6b28a036e326ffcc4ae39b5d3287]
+#### CHAPTER 1 — Small series type approvals[^c-23ee6b28a036e326ffcc4ae39b5d3287]
 
 *Extent: E+W+S+N.I.*
 
@@ -221,6 +221,6 @@ This Explanatory Note incorporates the Transposition Note which would otherwise 
 
 [^c24304991]: Marginal citation: OJ No. L 200, 31.7.2009, p.1.
 
-[^key-d0f14598a2ca8a5550cc00cec87d5c6b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2020/818/part/2) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/13/1)
+[^c-d0f14598a2ca8a5550cc00cec87d5c6b]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/uksi/2020/818/part/2) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [13(1)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/13/1)
 
-[^key-23ee6b28a036e326ffcc4ae39b5d3287]: Textual amendment: Word in [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2020/818/part/3/chapter/1) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/14/1)
+[^c-23ee6b28a036e326ffcc4ae39b5d3287]: Textual amendment: Word in [Pt. 3 Ch. 1](https://www.legislation.gov.uk/uksi/2020/818/part/3/chapter/1) heading substituted (31.12.2022 at 11.00 p.m.) by [The Road Vehicles and Non-Road Mobile Machinery (Type-Approval) (Amendment and Transitional Provisions) (EU Exit) Regulations 2022 (S.I. 2022/1273)](https://www.legislation.gov.uk/uksi/2022/1273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2022/1273/regulation/14/1)

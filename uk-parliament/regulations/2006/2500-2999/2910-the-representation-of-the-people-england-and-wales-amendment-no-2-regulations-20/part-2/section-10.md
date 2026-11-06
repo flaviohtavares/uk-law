@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Objections relating to applications that have been allowed, but before alterations to register have taken effect[^key-3f9dfa0ab2865d24acd9dba74845b5d8]
+## 10. Objections relating to applications that have been allowed, but before alterations to register have taken effect[^c-3f9dfa0ab2865d24acd9dba74845b5d8]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ After regulation 31 insert—
 
 ## Annotations
 
-[^key-3f9dfa0ab2865d24acd9dba74845b5d8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/2910/regulation/10) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-3f9dfa0ab2865d24acd9dba74845b5d8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2006/2910/regulation/10) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00012]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); sections 13, 13A and 13B were substituted by paragraph 6 of Schedule 1 to the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2); section 13B(2), which relates to the operation of subsection (3) of that section was substituted by section 11(3) of the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22).

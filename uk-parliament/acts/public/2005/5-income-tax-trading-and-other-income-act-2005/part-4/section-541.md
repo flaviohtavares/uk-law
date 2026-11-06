@@ -29,8 +29,8 @@ summary: ''
 (4) In this section “**the total previous gains**” means the total amount of gains that—
 
 - (a) were treated as arising on calculation events (other than personal portfolio bond events) occurring in relation to the policy or contract in question before the later event, and
-- (b) formed part of the total income of the individual mentioned in section 539(1) for a tax year earlier than the tax year mentioned in that section or formed part of the total income of that individual by virtue of section 465B for the tax year mentioned in section 539(1)[^key-c512930ab629201440f2843f5e06d583].
+- (b) formed part of the total income of the individual mentioned in section 539(1) for a tax year earlier than the tax year mentioned in that section or formed part of the total income of that individual by virtue of section 465B for the tax year mentioned in section 539(1)[^c-c512930ab629201440f2843f5e06d583].
 
 ## Annotations
 
-[^key-c512930ab629201440f2843f5e06d583]: Textual amendment: Words in s. 541(4)(b) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 143](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/143)
+[^c-c512930ab629201440f2843f5e06d583]: Textual amendment: Words in s. 541(4)(b) inserted (with effect in accordance with Sch. 45 para. 153(3) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 45 para. 143](https://www.legislation.gov.uk/ukpga/2013/29/schedule/45/paragraph/143)

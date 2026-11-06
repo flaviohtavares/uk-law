@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106D. Legal challenges relating to infrastructure consent obligations[^key-da81870736fe7e3b79786c3647846246]
+## 106D. Legal challenges relating to infrastructure consent obligations[^c-da81870736fe7e3b79786c3647846246]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da81870736fe7e3b79786c3647846246]: Textual amendment: [S. 106D](https://www.legislation.gov.uk/ukpga/1990/8/section/106D) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 98(5)](https://www.legislation.gov.uk/asc/2024/3/section/98/5), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-da81870736fe7e3b79786c3647846246]: Textual amendment: [S. 106D](https://www.legislation.gov.uk/ukpga/1990/8/section/106D) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 98(5)](https://www.legislation.gov.uk/asc/2024/3/section/98/5), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

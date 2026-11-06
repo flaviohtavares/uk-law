@@ -36,62 +36,62 @@ on defining the destination zones for exports refunds, export levies and certain
 
 (Codified version) (revoked)
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-a4423ef1d6a8b4e0dd8202972aeb9158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a4423ef1d6a8b4e0dd8202972aeb9158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a4423ef1d6a8b4e0dd8202972aeb9158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a4423ef1d6a8b4e0dd8202972aeb9158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a4423ef1d6a8b4e0dd8202972aeb9158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a4423ef1d6a8b4e0dd8202972aeb9158] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-a4423ef1d6a8b4e0dd8202972aeb9158]
+## ANNEX I[^c-a4423ef1d6a8b4e0dd8202972aeb9158]
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]Zone I
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]Zone II
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]Zone I
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]Zone III
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]Zone II
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]Zone IV
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]Zone III
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]Zone V
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]Zone IV
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]Zone VI
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]Zone V
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]Zone VII
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]Zone VI
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]Zone VIII
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]Zone VII
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-a4423ef1d6a8b4e0dd8202972aeb9158]
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]Zone VIII
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-a4423ef1d6a8b4e0dd8202972aeb9158]
+## ANNEX II[^c-a4423ef1d6a8b4e0dd8202972aeb9158]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-a4423ef1d6a8b4e0dd8202972aeb9158]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a4423ef1d6a8b4e0dd8202972aeb9158]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-a4423ef1d6a8b4e0dd8202972aeb9158]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

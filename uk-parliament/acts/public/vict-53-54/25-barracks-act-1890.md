@@ -31,46 +31,46 @@ Barracks Act 1890 (repealed)
 
 1890 c.25
 
-[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Land and Works[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+## Land and Works[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-### 2, 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 2, 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-## Expenses of Act[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+## Expenses of Act[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-### 5—7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 5—7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 8. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-### 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-## Supplemental[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+## Supplemental[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-### 11. Exemption from stamp duty.[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 11. Exemption from stamp duty.[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
-### 13. Short title.[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+### 13. Short title.[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f][^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
+## SCHEDULE[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b526b4a7cdd0d3f1a992b1ef09c5fa7f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/53-54/25) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4
+[^c-b526b4a7cdd0d3f1a992b1ef09c5fa7f]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/53-54/25) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/1) Group 4

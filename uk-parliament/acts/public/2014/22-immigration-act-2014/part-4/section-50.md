@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Conduct of investigation[^key-17ea5b835557972cc3b864f8ac7502c6][^key-d43da5f66f55d74250e253227fdf8179]
+## 50. Conduct of investigation[^c-17ea5b835557972cc3b864f8ac7502c6][^c-d43da5f66f55d74250e253227fdf8179]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,19 +56,19 @@ and the relevant party must comply with that requirement in the manner stated in
 - “**70 day period**” means the period of 70 days beginning with the day on which the relevant statutory period begins;
 - “**investigation**” means an investigation, conducted following a decision by the Secretary of State under section 48, whether a proposed marriage or civil partnership is a sham;
 - “**relevant party**” means a person who is a party to a proposed marriage or civil partnership that is the subject of an investigation;
-- “**relevant requirement**” in relation to a proposed marriage or civil partnership under the law of England and Wales,[^key-83112ef8882075c3e8d361792f84165b] means any requirement imposed by law, including a requirement imposed by or in accordance with—
+- “**relevant requirement**” in relation to a proposed marriage or civil partnership under the law of England and Wales,[^c-83112ef8882075c3e8d361792f84165b] means any requirement imposed by law, including a requirement imposed by or in accordance with—
   - (a) subsection (3);
   - (b) section 27E, 28B or 28C of the Marriage Act 1949;
   - (c) regulations under section 28D of that Act;
   - (d) section 8A, or any of sections 9 to 9B, of the Civil Partnership Act 2004.
-- “relevant requirement” in relation to a proposed marriage or civil partnership under the law of Northern Ireland, means any requirement imposed by law, including a requirement imposed by or in accordance with—[^key-db5decf15e2e1ac65c6046658243ff00]
+- “relevant requirement” in relation to a proposed marriage or civil partnership under the law of Northern Ireland, means any requirement imposed by law, including a requirement imposed by or in accordance with—[^c-db5decf15e2e1ac65c6046658243ff00]
   - ((a)) subsection (3);
   - ((b)) regulations under paragraph 4 of Schedule 5;
   - ((c)) Article 3A or 3B of the Marriage (Northern Ireland) Order 2003;
   - ((d)) Article 5 of the Marriage (Northern Ireland) Order 2003 so far as that requirement relates to nationality;
   - ((e)) section 139A or 139B of the Civil Partnership Act 2004;
   - ((f)) section 141 of the Civil Partnership Act 2004 so far as that requirement relates to nationality*.*
-- “relevant requirement” in relation to a proposed marriage or civil partnership under the law of Scotland, means any requirement imposed by law including a requirement imposed by or in accordance with—[^key-8e195dcfbfe44309b82d81015314fc68]
+- “relevant requirement” in relation to a proposed marriage or civil partnership under the law of Scotland, means any requirement imposed by law including a requirement imposed by or in accordance with—[^c-8e195dcfbfe44309b82d81015314fc68]
   - (a) subsection (3);
   - (b) regulations under paragraph 4 of Schedule 5;
   - (c) section 3(4A), 3A or 3B of the Marriage (Scotland) Act 1977;
@@ -76,12 +76,12 @@ and the relevant party must comply with that requirement in the manner stated in
 
 ## Annotations
 
-[^key-17ea5b835557972cc3b864f8ac7502c6]: Commencement: S. 50 in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/b)
+[^c-17ea5b835557972cc3b864f8ac7502c6]: Commencement: S. 50 in force at 20.10.2014 for specified purposes by [S.I. 2014/2771](https://www.legislation.gov.uk/uksi/2014/2771), [art. 3(b)](https://www.legislation.gov.uk/uksi/2014/2771/article/3/b)
 
-[^key-d43da5f66f55d74250e253227fdf8179]: Commencement: S. 50 in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/c)
+[^c-d43da5f66f55d74250e253227fdf8179]: Commencement: S. 50 in force at 1.3.2015 in so far as not already in force by [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/c)
 
-[^key-83112ef8882075c3e8d361792f84165b]: Textual amendment: Words in [s. 50(11)](https://www.legislation.gov.uk/ukpga/2014/22/section/50/11) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/395/schedule/4/paragraph/3/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-83112ef8882075c3e8d361792f84165b]: Textual amendment: Words in [s. 50(11)](https://www.legislation.gov.uk/ukpga/2014/22/section/50/11) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 4 para. 3(a)](https://www.legislation.gov.uk/uksi/2015/395/schedule/4/paragraph/3/a) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-db5decf15e2e1ac65c6046658243ff00]: Textual amendment: Words in [s. 50](https://www.legislation.gov.uk/ukpga/2014/22/section/50) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/uksi/2015/395/schedule/4/paragraph/3/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-db5decf15e2e1ac65c6046658243ff00]: Textual amendment: Words in [s. 50](https://www.legislation.gov.uk/ukpga/2014/22/section/50) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 4 para. 3(b)](https://www.legislation.gov.uk/uksi/2015/395/schedule/4/paragraph/3/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
 
-[^key-8e195dcfbfe44309b82d81015314fc68]: Textual amendment: Words in [s. 50(11)](https://www.legislation.gov.uk/ukpga/2014/22/section/50/11) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2015/396/schedule/4/paragraph/3)
+[^c-8e195dcfbfe44309b82d81015314fc68]: Textual amendment: Words in [s. 50(11)](https://www.legislation.gov.uk/ukpga/2014/22/section/50/11) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Scotland) Order 2015 (S.I. 2015/396)](https://www.legislation.gov.uk/uksi/2015/396), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/396/article/1/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2015/396/schedule/4/paragraph/3)

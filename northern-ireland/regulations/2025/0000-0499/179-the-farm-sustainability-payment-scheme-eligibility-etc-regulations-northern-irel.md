@@ -42,7 +42,7 @@ Coming into operation in accordance with regulation 1 (2) and (3)
 
 The Department of Agriculture, Environment and Rural Affairs, in the exercise of the powers conferred by section 48 of and paragraphs 2(1) and 5(1) of Schedule 6 to, the Agriculture Act 2020[^f00001] and Article 35 of [Regulation (EU) No.1307/2013](https://www.legislation.gov.uk/european/regulation/2013/1307) of the European Parliament and of the Council of 17 December 2013[^f00002] makes the following Regulations:
 
-## 1. Citation and Commencement[^key-7385b529dc0692425ae3a1bcdb3d7cb0]
+## 1. Citation and Commencement[^c-7385b529dc0692425ae3a1bcdb3d7cb0]
 
 (1) These Regulations may be cited as the Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 and shall come into operation as follows.
 
@@ -50,9 +50,9 @@ The Department of Agriculture, Environment and Rural Affairs, in the exercise of
 
 (3) All other regulations shall come into operation on 1 January 2026.
 
-## 2. Interpretation[^key-ba4c451a91ccfa7a3979f498d9031f0d][^key-526ade1f765ea4345dc6dcfc65858a9a][^key-69bf44190c6aca2baba9ccc47c0ebabc]
+## 2. Interpretation[^c-ba4c451a91ccfa7a3979f498d9031f0d][^c-526ade1f765ea4345dc6dcfc65858a9a][^c-69bf44190c6aca2baba9ccc47c0ebabc]
 
-(1)[^key-ba4c451a91ccfa7a3979f498d9031f0d][^key-526ade1f765ea4345dc6dcfc65858a9a] In these Regulations–
+(1)[^c-ba4c451a91ccfa7a3979f498d9031f0d][^c-526ade1f765ea4345dc6dcfc65858a9a] In these Regulations–
 
 - “**agricultural parcel**” has the same meaning as in paragraph 4(a) of Article 67 of the Horizontal Regulation;
 - “**applicant**” means an eligible farm business which has applied for a payment under the scheme;
@@ -77,15 +77,15 @@ The Department of Agriculture, Environment and Rural Affairs, in the exercise of
 - “**woodland block**” means an area comprising a number of woodland parcels which, based on previous declarations or otherwise, appear to be managed as a single entity and together has an area of 5 or more hectares;
 - “**zoological conservation land**” means land on which animals not typically used in Northern Ireland for farming purposes are kept primarily for study, conservation or display of those animals to the public.
 
-(2)[^key-69bf44190c6aca2baba9ccc47c0ebabc] The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
+(2)[^c-69bf44190c6aca2baba9ccc47c0ebabc] The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 3. Farm Sustainability Payment; Conditionality requirements[^key-e95ce26b7e9c2617eadb89e4cd82a7ba]
+## 3. Farm Sustainability Payment; Conditionality requirements[^c-e95ce26b7e9c2617eadb89e4cd82a7ba]
 
 (1) An eligible farm business must have registered and completed training offered to it for the Soil Nutrient Health Scheme by 15 May 2027.
 
 (2) An eligible farm business keeping bovine animals must have registered and completed training offered to it in relation to bovine genetics as the Department may require by 15 May 2028.
 
-## 4. Land Eligibility Requirements[^key-db3d0a3be182188acc1b78013a0006e1]
+## 4. Land Eligibility Requirements[^c-db3d0a3be182188acc1b78013a0006e1]
 
 (1) The following land or woodland is eligible for the scheme.
 
@@ -98,27 +98,27 @@ The Department of Agriculture, Environment and Rural Affairs, in the exercise of
 
 (3) Woodland that is or has been part of a forestry or agri-environment scheme administered by the Department on or after 1 January 2009 is eligible for the scheme.
 
-**5.**[^key-75ef6daf47d3e05998b73bb72dbf7aa5][^key-bb84e99a5dc2f1812a6c1031082d6f5c] (1) Woodland which does not meet the eligibility requirements of regulation 4(3) is ineligible for the scheme if it is–
+**5.**[^c-75ef6daf47d3e05998b73bb72dbf7aa5][^c-bb84e99a5dc2f1812a6c1031082d6f5c] (1) Woodland which does not meet the eligibility requirements of regulation 4(3) is ineligible for the scheme if it is–
 
 - (a) not mapped on the LPIS on the date of the coming into operation of this regulation;
-- (b)[^key-bb84e99a5dc2f1812a6c1031082d6f5c] a discrete area of woodland which is 5 hectares or more;
-- (c)[^key-bb84e99a5dc2f1812a6c1031082d6f5c] part of a woodland parcel which is less than 5 hectares and is contained in a woodland block; or
-- (d)[^key-bb84e99a5dc2f1812a6c1031082d6f5c] state-owned or on state-owned land.
+- (b)[^c-bb84e99a5dc2f1812a6c1031082d6f5c] a discrete area of woodland which is 5 hectares or more;
+- (c)[^c-bb84e99a5dc2f1812a6c1031082d6f5c] part of a woodland parcel which is less than 5 hectares and is contained in a woodland block; or
+- (d)[^c-bb84e99a5dc2f1812a6c1031082d6f5c] state-owned or on state-owned land.
 
 (2) For the purposes of this regulation, “**state-owned land**” means land owned by a public authority as defined by the Rural Needs Act (Northern Ireland) 2016[^f00008], or Northern Ireland Water Limited.
 
-**6.**[^key-c306f8c1693a29ff394daa68071f11ab] Where–
+**6.**[^c-c306f8c1693a29ff394daa68071f11ab] Where–
 
 - (a) land is to be mapped on the LPIS for the first time, an eligible farm business must provide such information in relation to the identification of and the applicant’s title to that land as the Department may require; or
 - (b) land is already mapped on the LPIS, the proof of title as specified in paragraph (a) is required only if requested by the Department.
 
-## 7. Use of the LPIS information[^key-75294d952cf706671643caca4cb38972]
+## 7. Use of the LPIS information[^c-75294d952cf706671643caca4cb38972]
 
 (1) The Department shall use the information recorded on the LPIS to determine whether the requirements in regulations 4 to 6 are met.
 
 (2) Information provided by the LPIS shall be deemed conclusive evidence unless otherwise rebutted or corrected to the satisfaction of the Department.
 
-## 8. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015[^key-14b3fe86a0e3b666fac88403a9d1ad38]
+## 8. Amendment of the Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015[^c-14b3fe86a0e3b666fac88403a9d1ad38]
 
 (1) The Common Agricultural Policy Basic Payment and Support Schemes Regulations (Northern Ireland) 2015[^f00009] shall be amended as follows.
 
@@ -149,15 +149,15 @@ The Department of Agriculture, Environment and Rural Affairs, in the exercise of
 
 > **15.** For the purposes of Article 11(1) of the Direct Payments Regulation, where the payments to be granted to a farmer pursuant to Chapter 1 of Title III of that Regulation for a given calendar year exceed the amount stated in Column 1 of the Table it must be reduced by the percentage stated in Column 2 or Column 3 of the Table in Schedule 2 of the Farm Sustainability Payment Scheme (Eligibility etc) Regulations (Northern Ireland) 2025 as the case may be.
 
-## 9. Amendment of the Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025[^key-588950f9ee5c2fb54faab6c58aac006f][^key-21a22904d01e84fcec1e319671507972]
+## 9. Amendment of the Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025[^c-588950f9ee5c2fb54faab6c58aac006f][^c-21a22904d01e84fcec1e319671507972]
 
-(1)[^key-588950f9ee5c2fb54faab6c58aac006f] The Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025[^f00010] shall be amended as follows.
+(1)[^c-588950f9ee5c2fb54faab6c58aac006f] The Farm Sustainability (Transitional Provisions) Regulations (Northern Ireland) 2025[^f00010] shall be amended as follows.
 
-(2)[^key-588950f9ee5c2fb54faab6c58aac006f] In regulation 3(1) for “From 1 January 2026” substitute “In the scheme year 2026”.
+(2)[^c-588950f9ee5c2fb54faab6c58aac006f] In regulation 3(1) for “From 1 January 2026” substitute “In the scheme year 2026”.
 
-(3)[^key-588950f9ee5c2fb54faab6c58aac006f] In regulation 3(2) after “An applicant for the scheme” insert “in the scheme year 2026”.
+(3)[^c-588950f9ee5c2fb54faab6c58aac006f] In regulation 3(2) after “An applicant for the scheme” insert “in the scheme year 2026”.
 
-(4)[^key-21a22904d01e84fcec1e319671507972] For regulation 6 substitute–
+(4)[^c-21a22904d01e84fcec1e319671507972] For regulation 6 substitute–
 
 > **6.** (1) Subject to paragraphs (2) to (4), a farm business not eligible for the Farm Sustainability Payment Scheme in 2026 may transfer entitlements to an eligible farm business by 15 May 2026.
 >
@@ -169,7 +169,7 @@ The Department of Agriculture, Environment and Rural Affairs, in the exercise of
 
 .
 
-## 10. Amendment of the Direct Payments Regulation[^key-78efb2450e81422cfbe63296caac977e]
+## 10. Amendment of the Direct Payments Regulation[^c-78efb2450e81422cfbe63296caac977e]
 
 (1) The Direct Payments Regulation shall be modified as follows.
 
@@ -198,7 +198,7 @@ The Department of Agriculture, Environment and Rural Affairs, in the exercise of
 
 (6) In Article 32, omit paragraph 2 (b).
 
-## 11. Amendment of the Commission Delegated Regulation[^key-e47d456116ba5e0b6471cba9f7f2393e]
+## 11. Amendment of the Commission Delegated Regulation[^c-e47d456116ba5e0b6471cba9f7f2393e]
 
 (1) The Commission Delegated Regulation shall be amended as follows–
 
@@ -221,7 +221,7 @@ The Department of Agriculture, Environment and Rural Affairs, in the exercise of
 
 (6) In Article 19a, in paragraph 1, for “1,5” substitute “2” and omit paragraph 2.
 
-## 12. Amendment of the Commission Implementing Regulation[^key-7f44adf0f17890db181a0cce97bf7269]
+## 12. Amendment of the Commission Implementing Regulation[^c-7f44adf0f17890db181a0cce97bf7269]
 
 (1) The Commission Implementing Regulation shall be amended as follows–
 
@@ -271,7 +271,7 @@ Richard Johnston
 
 A senior officer of the Department of Agriculture, Environment and Rural Affairs
 
-## SCHEDULE 1[^key-75284fe5aca51655f4f0fce0c31e2205][^key-fdc41723a2cd961ae36fc14040e3bc23]
+## SCHEDULE 1[^c-75284fe5aca51655f4f0fce0c31e2205][^c-fdc41723a2cd961ae36fc14040e3bc23]
 
 Regulation 2(1)
 
@@ -300,7 +300,7 @@ Regulation 2(1)
 | Yards or hard-standing or concreted areas and paths |
 | Zoological conservation land |
 
-## SCHEDULE 2 — Reductions[^key-67fc5ba840639ecf01b0f0a44c9c7d6a]
+## SCHEDULE 2 — Reductions[^c-67fc5ba840639ecf01b0f0a44c9c7d6a]
 
 Regulation 8(4)
 
@@ -313,7 +313,7 @@ Regulation 8(4)
 | £60,000.01 to £80,000.00 | 10 | 20 |
 | £0 to £60,000.00 | 0 | 0 |
 
-## SCHEDULE 3 — Penalties[^key-3e01d0dc5a010bebd8e0acdd4d765aba]
+## SCHEDULE 3 — Penalties[^c-3e01d0dc5a010bebd8e0acdd4d765aba]
 
 Regulation 11(4)
 
@@ -365,13 +365,13 @@ lists penalties for the scheme (see Schedule 3).
 
 [^f00002]: Footnote: EUR 1307/2013
 
-[^key-7385b529dc0692425ae3a1bcdb3d7cb0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/179/regulation/1) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-7385b529dc0692425ae3a1bcdb3d7cb0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/179/regulation/1) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-ba4c451a91ccfa7a3979f498d9031f0d]: Commencement: Reg. 2(1) in operation at 18.11.2025 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
+[^c-ba4c451a91ccfa7a3979f498d9031f0d]: Commencement: Reg. 2(1) in operation at 18.11.2025 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
 
-[^key-526ade1f765ea4345dc6dcfc65858a9a]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/179/regulation/2/1) in operation at 1.1.2026 in so far as not already in operation, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-526ade1f765ea4345dc6dcfc65858a9a]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/nisr/2025/179/regulation/2/1) in operation at 1.1.2026 in so far as not already in operation, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-69bf44190c6aca2baba9ccc47c0ebabc]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/2/2) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-69bf44190c6aca2baba9ccc47c0ebabc]: Commencement: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/2/2) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
 [^f00003]: Footnote: The respective Habitat Guides are published in the current 2025 Northern Ireland Priority Habitat Guides at https://www.daera-ni.gov.uk/publications/habitat-guide-lowland-raised-bog
 
@@ -383,40 +383,40 @@ lists penalties for the scheme (see Schedule 3).
 
 [^f00007]: Footnote: [1954 c.33(N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-e95ce26b7e9c2617eadb89e4cd82a7ba]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/179/regulation/3) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-e95ce26b7e9c2617eadb89e4cd82a7ba]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/179/regulation/3) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-db3d0a3be182188acc1b78013a0006e1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/179/regulation/4) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-db3d0a3be182188acc1b78013a0006e1]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/179/regulation/4) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-75ef6daf47d3e05998b73bb72dbf7aa5]: Commencement: Reg. 5(1)(a) in operation at 18.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
+[^c-75ef6daf47d3e05998b73bb72dbf7aa5]: Commencement: Reg. 5(1)(a) in operation at 18.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
 
-[^key-bb84e99a5dc2f1812a6c1031082d6f5c]: Commencement: [Reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2025/179/regulation/5/1/b)[(c)](https://www.legislation.gov.uk/nisr/2025/179/regulation/5/1/c)[(d)](https://www.legislation.gov.uk/nisr/2025/179/regulation/5/1/d) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-bb84e99a5dc2f1812a6c1031082d6f5c]: Commencement: [Reg. 5(1)(b)](https://www.legislation.gov.uk/nisr/2025/179/regulation/5/1/b)[(c)](https://www.legislation.gov.uk/nisr/2025/179/regulation/5/1/c)[(d)](https://www.legislation.gov.uk/nisr/2025/179/regulation/5/1/d) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
 [^f00008]: Footnote: [2016 c. 19 (N.I.)](https://www.legislation.gov.uk/nia/2016/19)
 
-[^key-c306f8c1693a29ff394daa68071f11ab]: Commencement: Reg. 6 in operation at 18.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
+[^c-c306f8c1693a29ff394daa68071f11ab]: Commencement: Reg. 6 in operation at 18.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
 
-[^key-75294d952cf706671643caca4cb38972]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/179/regulation/7) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-75294d952cf706671643caca4cb38972]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/179/regulation/7) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-14b3fe86a0e3b666fac88403a9d1ad38]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2025/179/regulation/8) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-14b3fe86a0e3b666fac88403a9d1ad38]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2025/179/regulation/8) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
 [^f00009]: Footnote: [S.R. 2015 No. 191](https://www.legislation.gov.uk/nisr/2015/191)
 
-[^key-588950f9ee5c2fb54faab6c58aac006f]: Commencement: [Reg. 9(1)](https://www.legislation.gov.uk/nisr/2025/179/regulation/9/1)[(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/9/2)[(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/9/3) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-588950f9ee5c2fb54faab6c58aac006f]: Commencement: [Reg. 9(1)](https://www.legislation.gov.uk/nisr/2025/179/regulation/9/1)[(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/9/2)[(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/9/3) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-21a22904d01e84fcec1e319671507972]: Commencement: Reg. 9(4) in operation at 18.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
+[^c-21a22904d01e84fcec1e319671507972]: Commencement: Reg. 9(4) in operation at 18.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
 
 [^f00010]: Footnote: [S.R. 2025 No. 33](https://www.legislation.gov.uk/nisr/2025/33)
 
-[^key-78efb2450e81422cfbe63296caac977e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/179/regulation/10) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-78efb2450e81422cfbe63296caac977e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2025/179/regulation/10) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-e47d456116ba5e0b6471cba9f7f2393e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2025/179/regulation/11) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-e47d456116ba5e0b6471cba9f7f2393e]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2025/179/regulation/11) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-7f44adf0f17890db181a0cce97bf7269]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2025/179/regulation/12) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-7f44adf0f17890db181a0cce97bf7269]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2025/179/regulation/12) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-75284fe5aca51655f4f0fce0c31e2205]: Commencement: Sch. 1 in operation at 18.11.2025 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
+[^c-75284fe5aca51655f4f0fce0c31e2205]: Commencement: Sch. 1 in operation at 18.11.2025 for specified purposes, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/2)
 
-[^key-fdc41723a2cd961ae36fc14040e3bc23]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2025/179/schedule/1) in operation at 1.1.2026 in so far as not already in operation, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-fdc41723a2cd961ae36fc14040e3bc23]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2025/179/schedule/1) in operation at 1.1.2026 in so far as not already in operation, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-67fc5ba840639ecf01b0f0a44c9c7d6a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2025/179/schedule/2) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-67fc5ba840639ecf01b0f0a44c9c7d6a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2025/179/schedule/2) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
 
-[^key-3e01d0dc5a010bebd8e0acdd4d765aba]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2025/179/schedule/3) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)
+[^c-3e01d0dc5a010bebd8e0acdd4d765aba]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nisr/2025/179/schedule/3) in operation at 1.1.2026, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2025/179/regulation/1/3)

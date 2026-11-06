@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**72.**[^key-8c004fb51cc8ac409e3ec2954745c6bb] In section 18—
+**72.**[^c-8c004fb51cc8ac409e3ec2954745c6bb] In section 18—
 
 - (a) before subsection (1), insert—
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c004fb51cc8ac409e3ec2954745c6bb]: Commencement: Art. 72 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-8c004fb51cc8ac409e3ec2954745c6bb]: Commencement: Art. 72 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

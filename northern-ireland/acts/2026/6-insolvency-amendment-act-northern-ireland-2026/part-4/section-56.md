@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Misconduct in the course of winding up[^key-1ed270f11902e489bb30ae305109f768]
+## 56. Misconduct in the course of winding up[^c-1ed270f11902e489bb30ae305109f768]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 172(2) (misconduct in course of winding up), for “at any meeting”
 
 ## Annotations
 
-[^key-1ed270f11902e489bb30ae305109f768]: Commencement: S. 56 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-1ed270f11902e489bb30ae305109f768]: Commencement: S. 56 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

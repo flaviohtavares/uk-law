@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. Offences in connection with parallel import licence application[^key-23dac95d5cca9c16c29539f954fe3921]
+## 95A. Offences in connection with parallel import licence application[^c-23dac95d5cca9c16c29539f954fe3921]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person is guilty of an offence if, in the course of an application for the gra
 
 ## Annotations
 
-[^key-23dac95d5cca9c16c29539f954fe3921]: Textual amendment: Reg. 95A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/1878/regulation/16) and reg. 95A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2014/324/regulation/16)
+[^c-23dac95d5cca9c16c29539f954fe3921]: Textual amendment: Reg. 95A inserted (E.W.S.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.I. 2014/1878)](https://www.legislation.gov.uk/uksi/2014/1878), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1878/regulation/1), [16](https://www.legislation.gov.uk/uksi/2014/1878/regulation/16) and reg. 95A inserted (N.I.) (1.10.2014) by [The Human Medicines (Amendment) (No. 2) Regulations 2014 (S.R. 2014/324)](https://www.legislation.gov.uk/nisr/2014/324), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2014/324/regulation/1/1), [16](https://www.legislation.gov.uk/nisr/2014/324/regulation/16)

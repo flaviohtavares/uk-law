@@ -44,9 +44,9 @@ Coming into force
 
 22nd November 2023
 
-The Secretary of State makes these Regulations in exercise of the powers conferred by sections 94(1) and (2), 94A(2), (4), (5), (6) and (7) and 373(5) of the Armed Forces Act 2006[^f00001].[^key-e0156b0700336978ba185cb1d6a676a9]
+The Secretary of State makes these Regulations in exercise of the powers conferred by sections 94(1) and (2), 94A(2), (4), (5), (6) and (7) and 373(5) of the Armed Forces Act 2006[^f00001].[^c-e0156b0700336978ba185cb1d6a676a9]
 
-## 1. Citation, commencement and extent[^key-b78da89969fb304782a7c4e6546223aa]
+## 1. Citation, commencement and extent[^c-b78da89969fb304782a7c4e6546223aa]
 
 (1) These Regulations may be cited as the Armed Forces (Disposal of Property) Regulations 2023.
 
@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) These Regulations extend to England and Wales, Scotland, Northern Ireland, the Isle of Man and the British overseas territories (except Gibraltar).
 
-## 2. Interpretation[^key-d054ead3ec9f2f833ea66ae341a577bd][^key-7ce9746b2dee9bcc096c7dc7549f9555]
+## 2. Interpretation[^c-d054ead3ec9f2f833ea66ae341a577bd][^c-7ce9746b2dee9bcc096c7dc7549f9555]
 
 In these Regulations—
 
@@ -63,7 +63,7 @@ In these Regulations—
 - “**offender**” means the person awarded the deprivation order that relates to the property;
 - “**service police**” means any service police force or the tri-service serious crime unit.
 
-## 3. Disposal of property by order of judge advocate[^key-0a23a572c1e79dd7ec06086bef696e93]
+## 3. Disposal of property by order of judge advocate[^c-0a23a572c1e79dd7ec06086bef696e93]
 
 (1) Where—
 
@@ -103,7 +103,7 @@ a judge advocate may make an order under paragraph (2).
 
 (7) Where an order is made under paragraph (2), it does not affect the right of any person to take proceedings for the recovery of that property, but on the expiration of six months from the date of the order, that right ceases.
 
-## 4. Disposal of property subject to deprivation order: by order of judge advocate[^key-d2e259887997cdae3aa806d11c46a0ec]
+## 4. Disposal of property subject to deprivation order: by order of judge advocate[^c-d2e259887997cdae3aa806d11c46a0ec]
 
 (1) Where any property is in the possession of the service police or a person's commanding officer after a deprivation order has been made in relation to it by the Court Martial, the Service Civilian Court, or the Summary Appeal Court, this regulation applies.
 
@@ -143,7 +143,7 @@ the property may not be disposed of until the appeal has been determined.
 
 (11) Where an order has been made under paragraph (3) or (5), it does not affect the right of any person to take proceedings for the recovery of that property, but on the expiration of 6 months from the date of the order, that right ceases.
 
-## 5. Disposal of property on determination of commanding officer of person charged with a service offence[^key-0d63ebe99cca087cd593347f173a0b0a]
+## 5. Disposal of property on determination of commanding officer of person charged with a service offence[^c-0d63ebe99cca087cd593347f173a0b0a]
 
 (1) Where—
 
@@ -177,7 +177,7 @@ that commanding officer may make a determination under paragraph (2).
 
 (6) A determination made under paragraph (2) cannot take effect until the time limit for an appeal under regulation 10 has expired with no appeal being made, or where an appeal has been made under that regulation, until the appeal has been determined.
 
-## 6. Disposal of property subject to deprivation order: on determination of commanding officer of offender[^key-919de71a020c1aae081cd65511edb614]
+## 6. Disposal of property subject to deprivation order: on determination of commanding officer of offender[^c-919de71a020c1aae081cd65511edb614]
 
 (1) Where any property is in the possession of the service police or a person’s commanding officer after a deprivation order has been made in relation to it by that commanding officer, this regulation applies.
 
@@ -208,7 +208,7 @@ that commanding officer may make a determination under paragraph (2).
 
 the property may not be disposed of until the appeal has been determined.
 
-## 7. Disposal of property on determination of commanding officer in other circumstances[^key-b670107703ba34f47bcd3deb17c62cc8]
+## 7. Disposal of property on determination of commanding officer in other circumstances[^c-b670107703ba34f47bcd3deb17c62cc8]
 
 (1) Subject to regulations 4 and 6, where—
 
@@ -243,7 +243,7 @@ that commanding officer may make a determination under paragraph (2).
 - (a) the commanding officer of a person in whose possession the property was before it was seized under Part 3 of the Act, or
 - (b) the commanding officer of a person who claims to be the owner of the property.
 
-## 8. Retention of property[^key-8ce8a19576828dd4ab20e9dc77190dd9]
+## 8. Retention of property[^c-8ce8a19576828dd4ab20e9dc77190dd9]
 
 (1) If—
 
@@ -256,13 +256,13 @@ the judge advocate may order or the commanding officer determine that the proper
 
 (3) An order or determination under paragraph (1) must be recorded in writing and that record must include the date on which the order or determination was made.
 
-## 9. Sale of Property[^key-3537346cccb1360d930a8744edd137eb]
+## 9. Sale of Property[^c-3537346cccb1360d930a8744edd137eb]
 
 (1) If an order under regulation 3(2)(b) or 4(5) or a determination under regulation 5(2)(b) or 6(5) is to be made, the judge advocate may order, or the commanding officer may determine (as the case may be), that the property in question (other than money) may be sold.
 
 (2) The proceeds of all sales under these Regulations and any money to which these Regulations apply must be paid into a Service Fund Sub Account maintained for a charitable purpose.
 
-## 10. Appeals[^key-f25538a0b68631ab03ec0f64653df6ee]
+## 10. Appeals[^c-f25538a0b68631ab03ec0f64653df6ee]
 
 (1) A person who comes within paragraph (2) may appeal against the order of a judge advocate or the determination of a commanding officer made under these Regulations by sending a written notice of appeal to the court administration officer within 14 days of the original decision being made or conveyed to that person, whichever is later, subject to paragraph (14).
 
@@ -322,7 +322,7 @@ the judge advocate may order or the commanding officer determine that the proper
 
 (14) A person may not appeal against the order of a judge advocate if that order was made pursuant to an appeal under this regulation.
 
-## 11. Revocation, saving and consequential amendments[^key-4ea7f3fe6a85a717688a55fe0ac6a85f]
+## 11. Revocation, saving and consequential amendments[^c-4ea7f3fe6a85a717688a55fe0ac6a85f]
 
 (1) Subject to paragraph (2), the Armed Forces (Disposal of Property) Regulations 2009[^f00002] (“**the 2009 Regulations**”) are revoked.
 
@@ -367,31 +367,31 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). Section 94A was inserted by the Armed Forces Act [2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35). There are other amendments to the Act that are not relevant to these Regulations.
 
-[^key-e0156b0700336978ba185cb1d6a676a9]: Modification: Regulations applied (with modifications) (22.11.2023) by [S.I. 2023/624](https://www.legislation.gov.uk/uksi/2023/624), [Sch. 1 para. 6(1)(3)](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/6) (as amended by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/a))
+[^c-e0156b0700336978ba185cb1d6a676a9]: Modification: Regulations applied (with modifications) (22.11.2023) by [S.I. 2023/624](https://www.legislation.gov.uk/uksi/2023/624), [Sch. 1 para. 6(1)(3)](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/6) (as amended by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/a))
 
-[^key-b78da89969fb304782a7c4e6546223aa]: Commencement: Reg. 1 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-b78da89969fb304782a7c4e6546223aa]: Commencement: Reg. 1 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-d054ead3ec9f2f833ea66ae341a577bd]: Commencement: Reg. 2 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-d054ead3ec9f2f833ea66ae341a577bd]: Commencement: Reg. 2 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-7ce9746b2dee9bcc096c7dc7549f9555]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1152/regulation/2) applied (with modifications) (22.11.2023) by [S.I. 2023/624](https://www.legislation.gov.uk/uksi/2023/624), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/6/2) (as substituted by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/b))
+[^c-7ce9746b2dee9bcc096c7dc7549f9555]: Modification: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/1152/regulation/2) applied (with modifications) (22.11.2023) by [S.I. 2023/624](https://www.legislation.gov.uk/uksi/2023/624), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2023/624/schedule/1/paragraph/6/2) (as substituted by [The Armed Forces (Disposal of Property) Regulations 2023 (S.I. 2023/1152)](https://www.legislation.gov.uk/uksi/2023/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2), [11(3)(b)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/11/3/b))
 
-[^key-0a23a572c1e79dd7ec06086bef696e93]: Commencement: Reg. 3 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-0a23a572c1e79dd7ec06086bef696e93]: Commencement: Reg. 3 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-d2e259887997cdae3aa806d11c46a0ec]: Commencement: Reg. 4 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-d2e259887997cdae3aa806d11c46a0ec]: Commencement: Reg. 4 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-0d63ebe99cca087cd593347f173a0b0a]: Commencement: Reg. 5 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-0d63ebe99cca087cd593347f173a0b0a]: Commencement: Reg. 5 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-919de71a020c1aae081cd65511edb614]: Commencement: Reg. 6 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-919de71a020c1aae081cd65511edb614]: Commencement: Reg. 6 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-b670107703ba34f47bcd3deb17c62cc8]: Commencement: Reg. 7 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-b670107703ba34f47bcd3deb17c62cc8]: Commencement: Reg. 7 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-8ce8a19576828dd4ab20e9dc77190dd9]: Commencement: Reg. 8 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-8ce8a19576828dd4ab20e9dc77190dd9]: Commencement: Reg. 8 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-3537346cccb1360d930a8744edd137eb]: Commencement: Reg. 9 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-3537346cccb1360d930a8744edd137eb]: Commencement: Reg. 9 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-f25538a0b68631ab03ec0f64653df6ee]: Commencement: Reg. 10 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-f25538a0b68631ab03ec0f64653df6ee]: Commencement: Reg. 10 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
-[^key-4ea7f3fe6a85a717688a55fe0ac6a85f]: Commencement: Reg. 11 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
+[^c-4ea7f3fe6a85a717688a55fe0ac6a85f]: Commencement: Reg. 11 in force at 22.11.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1152/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2009/1923](https://www.legislation.gov.uk/uksi/2009/1923), as amended by [S.I. 2022/1051](https://www.legislation.gov.uk/uksi/2022/1051).
 

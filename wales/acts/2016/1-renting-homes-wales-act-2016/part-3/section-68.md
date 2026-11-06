@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Power to vary periods of time relating to exclusion after abandonment of contracts[^key-4315e1a997f8afb9b4eb5cf128e4afd3]
+## 68. Power to vary periods of time relating to exclusion after abandonment of contracts[^c-4315e1a997f8afb9b4eb5cf128e4afd3]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The Welsh Ministers may by regulations—
 
 ## Annotations
 
-[^key-4315e1a997f8afb9b4eb5cf128e4afd3]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2016/1/section/68) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-4315e1a997f8afb9b4eb5cf128e4afd3]: Commencement: [S. 68](https://www.legislation.gov.uk/anaw/2016/1/section/68) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

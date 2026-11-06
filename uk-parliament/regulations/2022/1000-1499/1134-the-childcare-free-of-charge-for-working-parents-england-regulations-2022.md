@@ -52,36 +52,36 @@ In accordance with section 2(3) of the Childcare Act 2016, these Regulations are
 
 ## PART 1 — Preliminary provisions
 
-### 1. Citation and commencement[^key-53cceedbd49c9db0fde3b0530ee45e38]
+### 1. Citation and commencement[^c-53cceedbd49c9db0fde3b0530ee45e38]
 
 These Regulations—
 
 - (a) may be cited as the Childcare (Free of Charge for Working Parents) (England) Regulations 2022, and
 - (b) come into force on 1st December 2022.
 
-### 2. Extent and application[^key-b86af2d68561b79f850ab20b084d05ca]
+### 2. Extent and application[^c-b86af2d68561b79f850ab20b084d05ca]
 
 These Regulations—
 
 - (a) extend to England and Wales, and
 - (b) apply in relation to England.
 
-### 3. Consequential amendments and revocations[^key-d8fd88bb70b6c24e1cb7016997f5720b]
+### 3. Consequential amendments and revocations[^c-d8fd88bb70b6c24e1cb7016997f5720b]
 
-Schedule 1[^key-ea8d87175b5bb14b185f3689df5cc22e] makes consequential amendments and revocations.
+Schedule 1[^c-ea8d87175b5bb14b185f3689df5cc22e] makes consequential amendments and revocations.
 
 ## PART 2 — Interpretation
 
-### 4. Definitions[^key-f3855ecebcf5ebcf05528da38b9b60dc]
+### 4. Definitions[^c-f3855ecebcf5ebcf05528da38b9b60dc]
 
 (1) In these Regulations—
 
 - “**the Act**” means the Childcare Act 2016;
 - “**adjusted net income**” has the meaning given in section 58 of the Income Tax Act 2007[^f00002];
 - “**care plan**” has the meaning given in regulation 5;
-- “[^key-fe5c5237337a3962ac5b63fd0ad40bea]**Chief Inspector**” means His Majesty’s Chief Inspector of Education, Children’s Services and Skills;
+- “[^c-fe5c5237337a3962ac5b63fd0ad40bea]**Chief Inspector**” means His Majesty’s Chief Inspector of Education, Children’s Services and Skills;
 - “**childcare provider**” has the meaning given in regulation 6;
-- “[^key-61f1d57eafe1d77f3662519c0f11179c]**childminder**” means a person registered as—
+- “[^c-61f1d57eafe1d77f3662519c0f11179c]**childminder**” means a person registered as—
   - (a) an early years childminder with domestic premises under section 37(1) or 37A(1) of the 2006 Act;
   - (b) an early years childminder without domestic premises under section 37(2A) or 37A(1A) of the 2006 Act;
   - (c) an early years provider other than a childminder under section 37(2) or 37A(2) of the 2006 Act in respect of early years provision which would be early years childminding, at least some or all of which is on domestic premises, but for section 96(5) of the Act;
@@ -94,11 +94,11 @@ Schedule 1[^key-ea8d87175b5bb14b185f3689df5cc22e] makes consequential amendments
 - “**inspection report**” means—
   - (a) in relation to an early years childminder agency, a report under section 51E of the Childcare Act 2006[^f00006];
   - (b) in relation to a childcare provider, a report under any of the following—
-    - (ai) [^key-1fb02792f4e2423e046a279e961a7b42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+    - (ai) [^c-1fb02792f4e2423e046a279e961a7b42]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
     - (i) section 5 of the Education Act 2005[^f00007];
     - (ii) section 50 of the Childcare Act 2006[^f00008];
     - (iii) section 109 of the Education and Skills Act 2008[^f00009];
-- “[^key-b643863ed1d2879defe10fdc99d0ee5f]**limited capability for work**” means limited capability for work under—
+- “[^c-b643863ed1d2879defe10fdc99d0ee5f]**limited capability for work**” means limited capability for work under—
   - (a) regulation 39 of the Universal Credit Regulations 2013, or
   - (b) regulation 40 of the Universal Credit Regulations (Northern Ireland) 2016;
 - “**limited capability for work and work-related activity**” means limited capability for work and work-related activity under—
@@ -107,12 +107,12 @@ Schedule 1[^key-ea8d87175b5bb14b185f3689df5cc22e] makes consequential amendments
 - “**looked after by a local authority**” has the meaning given in regulation 9;
 - “**partner**” has the meaning given in regulation 10;
 - “**relevant tax year**” means, in relation to a declaration, the tax year in which the declaration is made;
-- “[^key-3412adf374f5ff7b8122fb65b94baa81]**responsible local authority**” means—
+- “[^c-3412adf374f5ff7b8122fb65b94baa81]**responsible local authority**” means—
   - (a) in relation to a child who meets the description in regulation 9(1)(a), the local authority who looks after the child, or
   - (b) in relation to a child who meets the description in regulation 9(1)(b), (c) or (d), the English local authority for the area in which the child may be a qualifying child of working parents;
 - “**review**” means a review under regulation 36;
-- [^key-e080949879e84ceb4e8c724653be1106]...
-- “[^key-f02d668d75f75dbb111912ba84df654c]**specified benefit**” has the meaning given in regulation 11A;
+- [^c-e080949879e84ceb4e8c724653be1106]...
+- “[^c-f02d668d75f75dbb111912ba84df654c]**specified benefit**” has the meaning given in regulation 11A;
 - “**tax year**” has the meaning given in section 4(2) of the Income Tax Act 2007.
 
 (2) The following table—
@@ -128,7 +128,7 @@ Schedule 1[^key-ea8d87175b5bb14b185f3689df5cc22e] makes consequential amendments
   | “qualifying child of working parents” | section 1(2) |
   | “young child” | section 1(9) |
 
-### 5. Meaning of “care plan”[^key-af476b72d3adf3f6979a63f1f4508f60]
+### 5. Meaning of “care plan”[^c-af476b72d3adf3f6979a63f1f4508f60]
 
 A “care plan” is any of the following—
 
@@ -137,7 +137,7 @@ A “care plan” is any of the following—
 - (c) a child’s plan prepared under regulation 5 of the Looked After Children (Scotland) Regulations 2009[^f00014];
 - (d) a care and support plan maintained under section 83 of the Social Services and Well-being (Wales) Act 2014[^f00015].
 
-### 6. Meaning of “childcare provider”[^key-3d64ad7503daacc0efc1aad595bc1a7c]
+### 6. Meaning of “childcare provider”[^c-3d64ad7503daacc0efc1aad595bc1a7c]
 
 (1) A “childcare provider” is an early years provider—
 
@@ -156,18 +156,18 @@ A “care plan” is any of the following—
 - “**Academy school**” has the meaning given in section 1A of the Academies Act 2010[^f00017];
 - “**early years provider**” has the meaning given in section 96(3) of the Childcare Act 2006.
 
-### 7. Meaning of “employee”[^key-3086957c0b56eb5fefc89ccbe0c3eebe]
+### 7. Meaning of “employee”[^c-3086957c0b56eb5fefc89ccbe0c3eebe]
 
 (1) An “employee” is any of the following—
 
-- (a) a person in employment under a contract of service [^key-1cdd9d8923d4eced2dff48e0d3e0f9f5]...;
+- (a) a person in employment under a contract of service [^c-1cdd9d8923d4eced2dff48e0d3e0f9f5]...;
 - (b) a person who is the holder of an office (including an elected office);
 - (c) a person in an engagement to which a relevant Chapter applies;
-- (d) a person who expects, in relation to a declaration, to be a person mentioned in any of paragraphs (a) to (c) within the applicable period.[^key-d862821a0269c739bda83253fbd45d12]
+- (d) a person who expects, in relation to a declaration, to be a person mentioned in any of paragraphs (a) to (c) within the applicable period.[^c-d862821a0269c739bda83253fbd45d12]
 
 (2) In this regulation—
 
-- “[^key-e00cffc2659c7f686fd1a1f4585cf0f8]**applicable period**” means, in relation to a person (“**P**”) who expects to become a person mentioned in any of paragraph (1)(a) to (c) on a date in the period specified in the first column of the table, the period specified in the corresponding second column of the table.
+- “[^c-e00cffc2659c7f686fd1a1f4585cf0f8]**applicable period**” means, in relation to a person (“**P**”) who expects to become a person mentioned in any of paragraph (1)(a) to (c) on a date in the period specified in the first column of the table, the period specified in the corresponding second column of the table.
 
   | P expects to become a person mentioned in any of paragraph (1)(a) to (c) in the period— | Applicable period— |
   | --- | --- |
@@ -177,7 +177,7 @@ A “care plan” is any of the following—
 - “**office**” has the meaning given in section 5(3) of the Income Tax (Earnings and Pensions) Act 2003[^f00018];
 - “**relevant Chapter**” means any of Chapters 7 to 10 of Part 2 of the Income Tax (Earnings and Pensions) Act 2003[^f00019] (which relate to agency workers and workers’ services provided through intermediaries or managed service companies).
 
-### 8. Meaning of “foster parent”[^key-b7e1bbaf13bd99b54bd334e23948b8f2]
+### 8. Meaning of “foster parent”[^c-b7e1bbaf13bd99b54bd334e23948b8f2]
 
 (1) A “foster parent” is any of the following—
 
@@ -194,7 +194,7 @@ A “care plan” is any of the following—
   - (i) is a local authority foster parent within the meaning given in section 197(1) of the Social Services and Well-being (Wales) Act 2014[^f00024], and
   - (ii) has a child placed with the person under section 81(5) of that Act.
 
-### 9. Meaning of “looked after by a local authority”[^key-88272f6555377ba6fc54791a529fe046]
+### 9. Meaning of “looked after by a local authority”[^c-88272f6555377ba6fc54791a529fe046]
 
 (1) A young child is “looked after by a local authority” if the child is any the following—
 
@@ -213,7 +213,7 @@ A “care plan” is any of the following—
   - (iii) regulation 8(1) or 11 of the Looked After Children (Scotland) Regulations 2009, or
   - (iv) section 81(2) of the Social Services and Well-being (Wales) Act 2014.
 
-### 10. Meaning of “partner”[^key-beb4800cdbe782cd3e26317f56055540]
+### 10. Meaning of “partner”[^c-beb4800cdbe782cd3e26317f56055540]
 
 (1) A person is a “partner” of another person if—
 
@@ -228,19 +228,19 @@ A “care plan” is any of the following—
 - (b) serving a sentence of imprisonment, or
 - (c) remaining with a third person in a pre-existing relationship of a kind mentioned in paragraph (1).
 
-(3)[^key-3d5f75f50c13da96586f7a9623791321] A person is not a member of the same household as, or living together with, another person if—
+(3)[^c-3d5f75f50c13da96586f7a9623791321] A person is not a member of the same household as, or living together with, another person if—
 
 - (a) the person is absent, and
 - (b) the absence exceeds, or is expected to exceed, 6 months.
 
-### 11. Meaning of “person in the United Kingdom”[^key-23084c4b7936f41907cf47d7bff4c8a7]
+### 11. Meaning of “person in the United Kingdom”[^c-23084c4b7936f41907cf47d7bff4c8a7]
 
 (1) A “person in the United Kingdom” is any of the following—
 
 - (a) a person who is—
-  - (i) ordinarily resident in the United Kingdom, [^key-f170e689516f0676750c9ee67ac7dd6e]...
-  - (ii) not a person taxed as if they were not so resident by virtue of double taxation arrangements , and[^key-2abf41e5e74689f7ca67884139957ebc]
-  - (iii)[^key-0179e6410282f424cba666b77b16bcc1] not a person subject to immigration control;
+  - (i) ordinarily resident in the United Kingdom, [^c-f170e689516f0676750c9ee67ac7dd6e]...
+  - (ii) not a person taxed as if they were not so resident by virtue of double taxation arrangements , and[^c-2abf41e5e74689f7ca67884139957ebc]
+  - (iii)[^c-0179e6410282f424cba666b77b16bcc1] not a person subject to immigration control;
 - (b) a person who is—
   - (i) a resident of an EEA State or Switzerland,
   - (ii) in paid work in the United Kingdom, and
@@ -262,7 +262,7 @@ A “care plan” is any of the following—
 - “**the Immigration Rules**” means the rules laid before Parliament under section 3(2) of the Immigration Act 1971[^f00031];
 - “**paid work**” means work done for payment or in expectation of payment and does not include being engaged by a charitable or voluntary organisation, or as a volunteer, in circumstances in which the payment received by or due to be paid to the person is in respect of expenses.
 
-### 11A. Meaning of “specified benefit”[^key-8c84f3a087b0a1d48a1ef212fe38a873]
+### 11A. Meaning of “specified benefit”[^c-8c84f3a087b0a1d48a1ef212fe38a873]
 
 (1) A “specified benefit” is any of the following—
 
@@ -289,13 +289,13 @@ A “care plan” is any of the following—
   - (i) section 68 of the Social Security Contributions and Benefits Act 1992[^f00031], or
   - (ii) section 68 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-### 12. When periods begin and end[^key-5c94563f10659ce837807798a6187888]
+### 12. When periods begin and end[^c-5c94563f10659ce837807798a6187888]
 
 A period of time described in these Regulations in a manner set out in the table is calculated in accordance with the corresponding rule.
 
 | ***If the period is described as—*** | ***then the period—*** |
 | --- | --- |
-| beginning or ending[^key-345631eebe73862a2db5058be6b94b04] with a specified day | includes that specified day. |
+| beginning or ending[^c-345631eebe73862a2db5058be6b94b04] with a specified day | includes that specified day. |
 | being within a specified number of days of a specified day | does not include that specified day. |
 | ending before a specified day | does not include that specified day. |
 
@@ -303,18 +303,18 @@ A period of time described in these Regulations in a manner set out in the table
 
 ### Description of young child
 
-#### 13. Description of young child[^key-351382aacf86dd284cbf6b936483981c]
+#### 13. Description of young child[^c-351382aacf86dd284cbf6b936483981c]
 
 (1) This regulation relates to section 1(2)(c) of the Act[^f00032].
 
 (2) A young child must be a child who—
 
-- (a) has attained the age of nine months[^key-fe565e9eb0f36a6cc7d60d3ec665e3bb], and
+- (a) has attained the age of nine months[^c-fe565e9eb0f36a6cc7d60d3ec665e3bb], and
 - (b) is not looked after by a local authority (see regulation 9).
 
 ### Conditions relating to parent and partner of parent
 
-#### 14. Conditions relating to parent[^key-fc9f0ea89b245f9c20f5074b4aa96665]
+#### 14. Conditions relating to parent[^c-fc9f0ea89b245f9c20f5074b4aa96665]
 
 (1) This regulation relates to section 1(2)(d) of the Act[^f00033].
 
@@ -332,22 +332,22 @@ A period of time described in these Regulations in a manner set out in the table
 
 (4) A parent who—
 
-- (a) has a partner mentioned in regulation 15(3),[^key-7d0a72b9b3ee6e4df09d9665964d5510] and
+- (a) has a partner mentioned in regulation 15(3),[^c-7d0a72b9b3ee6e4df09d9665964d5510] and
 - (b) is any of the following—
   - (i) a person with limited capability for work;
   - (ii) a person with limited capability for work and work-related activity;
   - (iii) a person entitled to a specified benefit;
   - (iv) a resident of an EEA State or Switzerland who is, under the law of the EEA State or Switzerland, entitled to a benefit of a kind that is substantially similar to a specified benefit.
 
-(5)[^key-48525b3c44a2b780e7d0b49e64e17628] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-48525b3c44a2b780e7d0b49e64e17628] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 15. Conditions relating to partner of parent[^key-3947121a407698bfd0a45e6e4967d7b5]
+#### 15. Conditions relating to partner of parent[^c-3947121a407698bfd0a45e6e4967d7b5]
 
 (1) This regulation relates to section 1(2)(d) of the Act[^f00045].
 
-(2)[^key-13527584af6e42d39f44df97ec336ce2] If a parent of a young child has a partner, the partner must be a person mentioned in paragraph (3) or (4).
+(2)[^c-13527584af6e42d39f44df97ec336ce2] If a parent of a young child has a partner, the partner must be a person mentioned in paragraph (3) or (4).
 
-(3)[^key-7f2b7ad262edd1574c7ed8b06b4c46f4] A person who—
+(3)[^c-7f2b7ad262edd1574c7ed8b06b4c46f4] A person who—
 
 - (a) meets the qualifying paid work requirement in regulation 16 or 17,
 - (b) does not for the relevant tax year—
@@ -363,7 +363,7 @@ A period of time described in these Regulations in a manner set out in the table
 - (c) is entitled to a specified benefit; or
 - (d) is a resident of an EEA State or Switzerland who is, under the law of the EEA State or Switzerland, entitled to a benefit of a kind that is substantially similar to a specified benefit.
 
-#### 16. Qualifying paid work requirement: employee[^key-9f9fcefddd9476b52d061e8dd458a293]
+#### 16. Qualifying paid work requirement: employee[^c-9f9fcefddd9476b52d061e8dd458a293]
 
 (1) A person who is an employee is in qualifying paid work if the person—
 
@@ -377,22 +377,22 @@ A period of time described in these Regulations in a manner set out in the table
 
 (3) Despite paragraph (1)(b), a person is not required to meet the minimum income requirement during any of the following—
 
-- (a)[^key-0893042688950bc0355424c3610e6711] any period the person is—
-  - (i) a foster parent, [^key-e21765acbcf01737f296039deb9a4cb3]...or[^key-4b165766d51c8f148047f33d229a3af2]
-  - (ii)[^key-ca01f4f2a5eeb42d83147678e8ca31e3] on specified leave other than leave of the kind mentioned in sub-paragraph (b);
-- (b)[^key-95dcd0023826574236bee025aad2eb81] in the case of a person on specified leave that—[^key-8ac8795eb98804c8ee7ac87fc2709239]
+- (a)[^c-0893042688950bc0355424c3610e6711] any period the person is—
+  - (i) a foster parent, [^c-e21765acbcf01737f296039deb9a4cb3]...or[^c-4b165766d51c8f148047f33d229a3af2]
+  - (ii)[^c-ca01f4f2a5eeb42d83147678e8ca31e3] on specified leave other than leave of the kind mentioned in sub-paragraph (b);
+- (b)[^c-95dcd0023826574236bee025aad2eb81] in the case of a person on specified leave that—[^c-8ac8795eb98804c8ee7ac87fc2709239]
   - (i) is not specified leave of the kind mentioned in sub-paragraph (a)(vi), (a)(vii), (b)(iv) or (b)(vii) of the definition in paragraph (4), and
   - (ii) was started because of the birth or adoption of a child in respect of whom a declaration is being made,
 
-  the applicable period[^key-e75a2ba233892739ff967cc34cbb39bb].
-- (c)[^key-80cc748677ad9dd2f2518f4a0ff54c38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  the applicable period[^c-e75a2ba233892739ff967cc34cbb39bb].
+- (c)[^c-80cc748677ad9dd2f2518f4a0ff54c38] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-37ed8fde267ce6bdeabe2f19121a1b0e] In the case of a person in an EEA State or Switzerland, the references in paragraph (3)(a) and (b) to a person on specified leave of a particular kind mean any period the person is, under the law of that EEA State or Switzerland, on leave of a kind substantially similar to that kind of specified leave.
+(3A)[^c-37ed8fde267ce6bdeabe2f19121a1b0e] In the case of a person in an EEA State or Switzerland, the references in paragraph (3)(a) and (b) to a person on specified leave of a particular kind mean any period the person is, under the law of that EEA State or Switzerland, on leave of a kind substantially similar to that kind of specified leave.
 
 (4) In this regulation—
 
-- [^key-0c4569bb2d8a3f5b5086e0c613fc9ac2]...
-- “[^key-5e94f71deeeaf986a3a7739f243f2139]**applicable period**” means, in relation to a person (“**P**”) who returns to work from specified leave on a date in the period specified in the first column of the table, the period beginning with the date specified in the corresponding second column of the table and ending with the day before the day on which P returns to work.
+- [^c-0c4569bb2d8a3f5b5086e0c613fc9ac2]...
+- “[^c-5e94f71deeeaf986a3a7739f243f2139]**applicable period**” means, in relation to a person (“**P**”) who returns to work from specified leave on a date in the period specified in the first column of the table, the period beginning with the date specified in the corresponding second column of the table and ending with the day before the day on which P returns to work.
 
   | P returns to work from specified leave on a date in the period— | Applicable period begins with— |
   | --- | --- |
@@ -407,30 +407,30 @@ A period of time described in these Regulations in a manner set out in the table
   - (b) the National Insurance Act (Northern Ireland) 1966[^f00049];
   - (c) the Social Security Act 1975[^f00050];
   - (d) the Social Security (Northern Ireland) Act 1975[^f00051];
-- “[^key-4b80220e3e1b05a3ea92e4da5e250a47]**the Social Security Contributions and Benefits Act**” means either of the following—
+- “[^c-4b80220e3e1b05a3ea92e4da5e250a47]**the Social Security Contributions and Benefits Act**” means either of the following—
   - (a) the Social Security Contributions and Benefits Act 1992;
   - (b) the Social Security Contributions and Benefits (Northern Ireland) Act 1992
 - “**specified leave**” means, in relation to a person, any of the following—
   - (a) a period the person is, under an employment rights enactment, absent from work during any of the following—
-    - (i) ordinary or additional maternity leave;[^key-b240662bc17d05ae9086d3eb137a8d98]
+    - (i) ordinary or additional maternity leave;[^c-b240662bc17d05ae9086d3eb137a8d98]
     - (ii) ordinary or additional adoption leave;
     - (iii) shared parental leave;
     - (iv) parental leave;
     - (v) paternity leave;
     - (vi) parental bereavement leave;
-    - (vii) carer’s leave;[^key-5fbc8c32589ce7ddad53c07e5c8a1e3f]
-    - (viii) neonatal care leave;[^key-5b3e0300f4a69b0cdb7ff8b27ef40912]
-  - (b) a period the person is, under the Social Security Contributions and Benefits Act[^key-5da692eddca5d390a396ffc5b7286129], receiving any of the following—
+    - (vii) carer’s leave;[^c-5fbc8c32589ce7ddad53c07e5c8a1e3f]
+    - (viii) neonatal care leave;[^c-5b3e0300f4a69b0cdb7ff8b27ef40912]
+  - (b) a period the person is, under the Social Security Contributions and Benefits Act[^c-5da692eddca5d390a396ffc5b7286129], receiving any of the following—
     - (i) state maternity allowance;
     - (ii) statutory adoption pay;
     - (iii) statutory maternity pay;
     - (iv) statutory parental bereavement pay;
     - (v) statutory paternity pay;
     - (vi) statutory shared parental pay;
-    - (vii) statutory sick pay;[^key-309854b46a620e4439c85f6e303bb884]
-    - (viii) statutory neonatal care pay.[^key-d3a960eda507bcc07309be601721f573]
+    - (vii) statutory sick pay;[^c-309854b46a620e4439c85f6e303bb884]
+    - (viii) statutory neonatal care pay.[^c-d3a960eda507bcc07309be601721f573]
 
-#### 17. Qualifying paid work requirement: self-employed person[^key-689c64a6abf8b8e0d68a2a37f99a0416]
+#### 17. Qualifying paid work requirement: self-employed person[^c-689c64a6abf8b8e0d68a2a37f99a0416]
 
 (1) A person who is a self-employed person is in qualifying paid work if the person—
 
@@ -452,7 +452,7 @@ A period of time described in these Regulations in a manner set out in the table
 - (a) beginning with the day on which the person commences self-employment, but
 - (b) only if the person did not commence self-employment in any trade, profession or vocation in the period of five years ending before that day.
 
-#### 18. Minimum income requirement[^key-603f5ff4e0402de3ba5ff24e8b3cd556]
+#### 18. Minimum income requirement[^c-603f5ff4e0402de3ba5ff24e8b3cd556]
 
 (1) A person meets the minimum income requirement if the amount of income the person expects to earn from qualifying paid work in the relevant period is an amount of income equal to or greater than the product of—
 
@@ -479,17 +479,17 @@ A period of time described in these Regulations in a manner set out in the table
   - (b) the hourly rate of the national minimum wage to which the person is entitled to be paid under the National Minimum Wage Act 1998[^f00052];
 - “**non-capital**” means not of a capital nature;
 - “**relevant period**” means one of the following—
-  - (a) in the case of income as an employee, the period of three months beginning with—[^key-a43106c9e2e5f8c3491721011eb2ad1a]
+  - (a) in the case of income as an employee, the period of three months beginning with—[^c-a43106c9e2e5f8c3491721011eb2ad1a]
     - (i) the day on which the declaration relating to the employee is made, or
     - (ii) if regulation 7(1)(d) applies, the day on which the person expects to be a person mentioned in any of regulation 7(1)(a) to (c);
   - (b) in the case of income as a self-employed person, any of the following—
-    - (i) the period of three months beginning with the day on which the declaration relating to the employee is made[^key-9f07fc8ea4cef02386cf5ff9a3b73631];
+    - (i) the period of three months beginning with the day on which the declaration relating to the employee is made[^c-9f07fc8ea4cef02386cf5ff9a3b73631];
     - (ii) the relevant tax year;
   - (c) in the case of income as an employee and a self-employed person, the period mentioned in paragraph (a).
 
 ### Declaration
 
-#### 19. How to make a declaration[^key-76718827cb345a5d05bdd4e1532cc37d]
+#### 19. How to make a declaration[^c-76718827cb345a5d05bdd4e1532cc37d]
 
 (1) This regulation relates to section 1(2)(e) of the Act[^f00053].
 
@@ -511,16 +511,16 @@ A period of time described in these Regulations in a manner set out in the table
   - (a) in the case of a declaration in respect of a child who is placed with a foster parent, the responsible local authority, or
   - (b) in the case of any other declaration, the Commissioners.
 
-#### 20. When a declaration may be made[^key-b1d4c3cf84d864a726d4e542469f4f41]
+#### 20. When a declaration may be made[^c-b1d4c3cf84d864a726d4e542469f4f41]
 
 A declaration in respect of a young child may be made—
 
-- (a)[^key-7bf9defe395665cfbd2fae25998b35ac] in the period of 16 weeks ending with the day before the day on which the child will meet the description in regulation 13 (if known), or
+- (a)[^c-7bf9defe395665cfbd2fae25998b35ac] in the period of 16 weeks ending with the day before the day on which the child will meet the description in regulation 13 (if known), or
 - (b) in the period—
   - (i) beginning with the day on which the child meets the description in regulation 13, and
-  - (ii) ending with the day[^key-6d1e16823b08be94cd434a0448792897] before the day on which the child ceases to satisfy the requirements of section 1(2)(a) or (b) of the Act[^f00054].
+  - (ii) ending with the day[^c-6d1e16823b08be94cd434a0448792897] before the day on which the child ceases to satisfy the requirements of section 1(2)(a) or (b) of the Act[^f00054].
 
-#### 21. Form and manner of declaration[^key-929ee5c4dd1bbc3a46e2bd68e8e6a1c0]
+#### 21. Form and manner of declaration[^c-929ee5c4dd1bbc3a46e2bd68e8e6a1c0]
 
 (1) The Commissioners or the responsible local authority (as the case may be) may specify the form of a declaration and the manner in which it is to be made.
 
@@ -535,7 +535,7 @@ A declaration in respect of a young child may be made—
 
 ### Determination
 
-#### 22. Determination of qualifying child of working parents: Commissioners[^key-c08e618bff4f08f46b7fc3a78399e749]
+#### 22. Determination of qualifying child of working parents: Commissioners[^c-c08e618bff4f08f46b7fc3a78399e749]
 
 (1) This regulation applies if—
 
@@ -550,7 +550,7 @@ A declaration in respect of a young child may be made—
   - (i) a right to apply to the Commissioners for a review of the determination (see regulation 36), and
   - (ii) a right to appeal to the First-tier Tribunal against the determination, but only after the Commissioners have considered an application for a review (see regulation 40).
 
-#### 23. Power to decline to make a determination[^key-afcb6fa60712739b3215194010d2815d]
+#### 23. Power to decline to make a determination[^c-afcb6fa60712739b3215194010d2815d]
 
 (1) This regulation applies if—
 
@@ -566,7 +566,7 @@ A declaration in respect of a young child may be made—
   - (i) a right to apply to the Commissioners for a review of the decision (see regulation 36), and
   - (ii) a right to appeal to the First-tier Tribunal against the decision, but only after the Commissioners have considered an application for a review (see regulation 40).
 
-#### 24. Determination of qualifying child of working parents: responsible local authority[^key-aef3a4dfaca9748cdd960126682858ab]
+#### 24. Determination of qualifying child of working parents: responsible local authority[^c-aef3a4dfaca9748cdd960126682858ab]
 
 (1) This regulation applies if a person makes a declaration to the responsible local authority in respect of a young child placed with a foster parent.
 
@@ -577,7 +577,7 @@ A declaration in respect of a young child may be made—
 
 ### Effect of declaration
 
-#### 25. Period for which declaration has effect[^key-797e24821ded37e07b05950cba40a0d1]
+#### 25. Period for which declaration has effect[^c-797e24821ded37e07b05950cba40a0d1]
 
 (1) A declaration in respect of a young child has effect for three months beginning with—
 
@@ -601,7 +601,7 @@ A declaration in respect of a young child may be made—
   - (b) a child of the partner of that parent;
 - “**entitlement period**” means a period determined in accordance with section 5 of the Childcare Payments Act 2014[^f00055] (which relates to the receipt of money towards childcare costs).
 
-#### 26. When a parallel declaration ceases to have effect[^key-6e2d36b0b1e0626c672fd374ae5e40fa]
+#### 26. When a parallel declaration ceases to have effect[^c-6e2d36b0b1e0626c672fd374ae5e40fa]
 
 (1) This regulation applies if—
 
@@ -614,18 +614,18 @@ A declaration in respect of a young child may be made—
 
 ### Eligibility for childcare
 
-#### 27. Period of eligibility for childcare[^key-cf93c597a6de914582aa720feab2abfa]
+#### 27. Period of eligibility for childcare[^c-cf93c597a6de914582aa720feab2abfa]
 
 (1) A child is eligible for childcare under section 1 of the Act for the period—
 
-- (a) beginning with whichever of 1st January, 1st April or 1st September is the first date [^key-f6fb6453fed5ab366c7c749498520a52]... after the day on which a declaration in respect of the child has effect, and
-- (b) ending with the day[^key-8ff12900f0fe4a5355015cb72bde3b8c] before the day on which the child ceases to be a qualifying child of working parents[^f00056].
+- (a) beginning with whichever of 1st January, 1st April or 1st September is the first date [^c-f6fb6453fed5ab366c7c749498520a52]... after the day on which a declaration in respect of the child has effect, and
+- (b) ending with the day[^c-8ff12900f0fe4a5355015cb72bde3b8c] before the day on which the child ceases to be a qualifying child of working parents[^f00056].
 
 (2) A year begins with the date calculated in accordance with paragraph (1) for the purposes of determining in relation to the child whether the duty in section 1(1) of the Act has been discharged[^f00057].
 
 ### Disclosure of information
 
-#### 28. Information relating to immigration and social security[^key-bee3625e913a815cff4bc7fc0b3d4ec2]
+#### 28. Information relating to immigration and social security[^c-bee3625e913a815cff4bc7fc0b3d4ec2]
 
 (1) The Secretary of State may disclose to the Commissioners any information held by the Secretary of State for the purposes of their functions relating to any of the following—
 
@@ -634,7 +634,7 @@ A declaration in respect of a young child may be made—
 
 (2) The Commissioners may use the information only in connection with the making of a determination as to whether a child is a qualifying child of working parents.
 
-#### 29. Information relating to qualifying child of working parents[^key-d20747ee5344c9db7a64717bc73abf52]
+#### 29. Information relating to qualifying child of working parents[^c-d20747ee5344c9db7a64717bc73abf52]
 
 The Secretary of State, the Commissioners and an English local authority may disclose information to each other for the purpose of checking any of the following—
 
@@ -646,7 +646,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 
 ### Offences
 
-#### 30. Offence relating to onward disclosure of personal information[^key-c3e6d89431f053d44f35dfbb955994b5]
+#### 30. Offence relating to onward disclosure of personal information[^c-c3e6d89431f053d44f35dfbb955994b5]
 
 (1) A person commits an offence if—
 
@@ -674,13 +674,13 @@ The Secretary of State, the Commissioners and an English local authority may dis
 
 ### Penalties
 
-#### 31. Penalty for dishonest conduct[^key-9036c31db5207eebb3c3ec86afbb96ba]
+#### 31. Penalty for dishonest conduct[^c-9036c31db5207eebb3c3ec86afbb96ba]
 
 (1) A person is liable to a penalty under this regulation if the person engages in dishonest conduct in connection with the process of making a determination of a child’s eligibility for childcare under section 1 of the Act.
 
 (2) The amount of the penalty must not exceed £3,000.
 
-#### 32. Penalty for false or misleading information[^key-9d9945ba807a215773341b4668790f5f]
+#### 32. Penalty for false or misleading information[^c-9d9945ba807a215773341b4668790f5f]
 
 (1) A person is liable to a penalty under this regulation if the person, by reason of a failure to take reasonable care, provides false or misleading information, or makes or provides a false or misleading statement, in connection with a determination of a child’s eligibility for childcare under section 1 of the Act.
 
@@ -691,13 +691,13 @@ The Secretary of State, the Commissioners and an English local authority may dis
 
 (3) The amount of the penalty must not exceed £500.
 
-#### 33. Penalty for material inaccuracy in declaration[^key-dd36349779b130f8094b92be23720e6a]
+#### 33. Penalty for material inaccuracy in declaration[^c-dd36349779b130f8094b92be23720e6a]
 
 (1) A person is liable to a penalty under this regulation if, by reason of a failure to take reasonable care, the person includes a material inaccuracy in a declaration.
 
 (2) The amount of the penalty must not exceed £300.
 
-#### 34. Assessment of penalty[^key-4a5d68a4f9b3239760e9795065f9a686]
+#### 34. Assessment of penalty[^c-4a5d68a4f9b3239760e9795065f9a686]
 
 (1) If a person becomes liable to a penalty under any of regulations 31, 32 or 33—
 
@@ -715,7 +715,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 - (b) in the case of a penalty under regulation 31, the period of 20 years beginning with the day on which the person became liable to the penalty;
 - (c) in the case of a penalty under regulation 32, the period of four years beginning with the day on which the person became liable to the penalty.
 
-#### 35. Enforcement of penalty[^key-bd5a1289571740035f01ee04b6ae064b]
+#### 35. Enforcement of penalty[^c-bd5a1289571740035f01ee04b6ae064b]
 
 (1) This regulation applies if the Commissioners notify a person of a penalty (see regulation 34).
 
@@ -735,7 +735,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 
 ### Reviews
 
-#### 36. Right to apply for review[^key-a342790529e45bd80974ff1393eacaa6]
+#### 36. Right to apply for review[^c-a342790529e45bd80974ff1393eacaa6]
 
 (1) This regulation applies if the Commissioners notify a person of any of the following—
 
@@ -762,7 +762,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 - (a) the form of an application, and
 - (b) the manner in which it is to be made (which may require electronic communications).
 
-#### 37. Extension of right to apply for review[^key-94861f752584a9f9ca62cd0a2691c320]
+#### 37. Extension of right to apply for review[^c-94861f752584a9f9ca62cd0a2691c320]
 
 (1) This regulation applies if the Commissioners notify a person of a matter mentioned in regulation 36(1).
 
@@ -795,7 +795,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 - (a) the form of the application, and
 - (b) the manner in which the application is made.
 
-#### 38. Review procedure[^key-bf540fa189662dce49ace59a4dceb992]
+#### 38. Review procedure[^c-bf540fa189662dce49ace59a4dceb992]
 
 (1) This regulation applies if a person (“**the applicant**”) makes an application for a review.
 
@@ -829,7 +829,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 
 ### Appeals
 
-#### 39. Right to appeal following review[^key-2976e7814172c540e06555beb388c79a]
+#### 39. Right to appeal following review[^c-2976e7814172c540e06555beb388c79a]
 
 (1) This regulation applies if a person makes an application to the Commissioners for a review of—
 
@@ -843,7 +843,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 - (b) the determination (see regulation 41), or
 - (c) the penalty or its amount (see regulation 42).
 
-#### 40. Appeal against decision to decline to make a determination[^key-47b7c398889ffcdf936f13c96343c143]
+#### 40. Appeal against decision to decline to make a determination[^c-47b7c398889ffcdf936f13c96343c143]
 
 (1) This regulation applies if a person appeals to the First-tier Tribunal against a decision to decline to make a determination as to whether a child is a qualifying child of working parents.
 
@@ -854,7 +854,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 
 (3) If the Tribunal sets aside the decision, the Commissioners must comply with regulation 22(2) in respect of the declaration (which requires a determination as to whether a child is a qualifying child of working parents).
 
-#### 41. Appeal against determination as to qualifying child of working parents[^key-69ea49688d16fa07804e71ca30543ab0]
+#### 41. Appeal against determination as to qualifying child of working parents[^c-69ea49688d16fa07804e71ca30543ab0]
 
 (1) This regulation applies if a person appeals to the First-tier Tribunal against a determination as to whether a child is a qualifying child of working parents.
 
@@ -870,7 +870,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 - (a) it must for that part substitute its own determination, and
 - (b) the substituted determination is to be treated as if it were a determination made by the Commissioners or the responsible local authority (as the case may be) on the date of the notice that states the Tribunal’s decision[^f00059].
 
-#### 42. Appeal against imposition of penalty or amount[^key-eb51cba109e3f2bd14e9e3c2432631b9]
+#### 42. Appeal against imposition of penalty or amount[^c-eb51cba109e3f2bd14e9e3c2432631b9]
 
 (1) This regulation applies if a person appeals to the First-tier Tribunal against the imposition of a penalty or its amount.
 
@@ -880,7 +880,7 @@ The Secretary of State, the Commissioners and an English local authority may dis
 - (b) set aside the penalty, or
 - (c) substitute the amount of the penalty with an amount the Tribunal determines.
 
-#### 43. Power to settle appeals by agreement[^key-56f7ef44e4605d58d81774b44b0c239b]
+#### 43. Power to settle appeals by agreement[^c-56f7ef44e4605d58d81774b44b0c239b]
 
 (1) This regulation applies if—
 
@@ -917,23 +917,23 @@ The Secretary of State, the Commissioners and an English local authority may dis
 
 ### Childcare for qualifying children of working parents
 
-#### 44. Duty to secure childcare available free of charge[^key-d211c07337ebdbd7f51bfb7ab563fc32]
+#### 44. Duty to secure childcare available free of charge[^c-d211c07337ebdbd7f51bfb7ab563fc32]
 
 (1) An English local authority must secure that childcare is made available free of charge for every child in its area who is a qualifying child of working parents.
 
 (2) The childcare must be—
 
 - (a) provided by a childcare provider, and
-- (b) made available for 1140[^key-a9b46d06cd87a16d41c496309daafea6] hours during no fewer than 38 weeks in each year.
+- (b) made available for 1140[^c-a9b46d06cd87a16d41c496309daafea6] hours during no fewer than 38 weeks in each year.
 
-(3)[^key-f82c91e87f7554fbefa0372134177c52] In determining, for the purposes of paragraph (1), the amount of childcare that is available to a child, account is to be taken of any childcare available under the duty imposed by section 7(1) of the Childcare Act 2006 (duty of English local authorities to secure early years provision free of charge in accordance with regulations)—
+(3)[^c-f82c91e87f7554fbefa0372134177c52] In determining, for the purposes of paragraph (1), the amount of childcare that is available to a child, account is to be taken of any childcare available under the duty imposed by section 7(1) of the Childcare Act 2006 (duty of English local authorities to secure early years provision free of charge in accordance with regulations)—
 
-- (a)[^key-6825b52b808093af0af2068494f26821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-6825b52b808093af0af2068494f26821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-6825b52b808093af0af2068494f26821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6825b52b808093af0af2068494f26821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Arrangements for provision of childcare
 
-#### 45. Duty to make arrangements with childcare provider chosen by parent[^key-3a28a594a12d73eb35016e2cffeab2f9]
+#### 45. Duty to make arrangements with childcare provider chosen by parent[^c-3a28a594a12d73eb35016e2cffeab2f9]
 
 (1) The parent of a child in the area of an English local authority may choose a childcare provider to provide the childcare the local authority must secure for the child (see regulation 44).
 
@@ -948,25 +948,25 @@ The Secretary of State, the Commissioners and an English local authority may dis
 (3) Paragraph (2) does not apply if the provider is any of the following—
 
 - (a) a childcare provider the local authority has grounds to believe would not be able to satisfy a requirement the authority would impose if arrangements were made;
-- (b)[^key-1c12f4cbd819cc21f419632bc879dc69] a childminder registered with an early years childminder agency where—
+- (b)[^c-1c12f4cbd819cc21f419632bc879dc69] a childminder registered with an early years childminder agency where—
   - (i) the agency is awarded a grade of “ineffective” in its most recent inspection report, or
   - (ii) the agency notifies the local authority that, in its reasonable opinion, the childminder has ceased to provide childcare of satisfactory quality;
 - (c) a childcare provider (other than a childminder registered with an early years childminder agency) that is awarded a specified grade in its most recent inspection report.
 
 (4) Paragraph (2)(b) does not apply if the provider is the governing body of a maintained school[^f00061].
 
-(5)[^key-d0184259e97394fc5ccd9b8fffcced4e] In this regulation, “**specified grade**” means, in relation to an inspection specified in the first column of the table in Schedule 2 and conducted on a date in the corresponding entry in the second column, any of the grades specified in the corresponding entry in the third column of the table.
+(5)[^c-d0184259e97394fc5ccd9b8fffcced4e] In this regulation, “**specified grade**” means, in relation to an inspection specified in the first column of the table in Schedule 2 and conducted on a date in the corresponding entry in the second column, any of the grades specified in the corresponding entry in the third column of the table.
 
-#### 46. Arrangements to provide for termination[^key-da21eef389493f60e31a4bab3ffcf652]
+#### 46. Arrangements to provide for termination[^c-da21eef389493f60e31a4bab3ffcf652]
 
-Except in the case of arrangements with the governing body of a maintained school,[^key-ea7bb0dbb3e7935929ffcfc2d8f94f72] an English local authority must, as part of arrangements with a childcare provider under regulation 45(2), include provision authorising the local authority to terminate the arrangements if the provider—
+Except in the case of arrangements with the governing body of a maintained school,[^c-ea7bb0dbb3e7935929ffcfc2d8f94f72] an English local authority must, as part of arrangements with a childcare provider under regulation 45(2), include provision authorising the local authority to terminate the arrangements if the provider—
 
 - (a) ceases to be a childcare provider (see regulation 6), or
 - (b) becomes a childcare provider mentioned in regulation 45(3)(b) or (c) (which relates to minimum standard of childcare).
 
-#### 47. Requirements permissible in arrangements[^key-ad9d64ad7732a5370dd5caa3c14e9dca]
+#### 47. Requirements permissible in arrangements[^c-ad9d64ad7732a5370dd5caa3c14e9dca]
 
-(1) As part of any arrangements with a childcare provider under regulation 45(2) (other than arrangements with the governing body of a maintained school)[^key-392e675fe72739258ca9bf1abc4f1d19], an English local authority may impose on the provider one or more of only the following requirements—
+(1) As part of any arrangements with a childcare provider under regulation 45(2) (other than arrangements with the governing body of a maintained school)[^c-392e675fe72739258ca9bf1abc4f1d19], an English local authority may impose on the provider one or more of only the following requirements—
 
 - (a) a requirement to enable the local authority to—
   - (i) comply with its duty to make arrangements with a childcare provider chosen by the parent of a child (see regulation 45), and
@@ -975,7 +975,7 @@ Except in the case of arrangements with the governing body of a maintained schoo
   - (i) that the childcare is provided free of charge;
   - (ii) that the childcare is provided in a pattern to suit the needs of the parents of the children for whom the childcare is provided;
   - (iii) that any financial assistance provided by a local authority under the arrangements is used properly and in accordance with the arrangements;
-  - (iv)[^key-6c315cd0153319dc78238759d435554c] the effective safeguarding and promotion of welfare of the children for whom the childcare is provided;
+  - (iv)[^c-6c315cd0153319dc78238759d435554c] the effective safeguarding and promotion of welfare of the children for whom the childcare is provided;
 - (c) a requirement for the purpose of meeting the needs of a child—
   - (i) to whom the local authority owes a duty under regulation 45, and
   - (ii) who has a disability or special educational needs;
@@ -985,8 +985,8 @@ Except in the case of arrangements with the governing body of a maintained schoo
   - (iii) mutual respect and tolerance of those with different faiths and beliefs, and
   - (iv) the rule of law;
 - (e) a requirement that views or theories contrary to established scientific or historical evidence and explanations are not promoted as evidence-based views or theories;
-- (f) a requirement that, if the childcare provider (being other than a childminder registered with an early years childminder agency[^key-a1c5725a837e3e6a4300f922b0f480e6]) meets the description in regulation 45(3)(c)[^key-9a56e4615a9048c4b8d32d6e4774d12b], the provider takes the measures specified in the report—
-  - (i) to improve the [^key-1aad896eca81d8a09c1cda14c6b8d669]... effectiveness of its childcare, and
+- (f) a requirement that, if the childcare provider (being other than a childminder registered with an early years childminder agency[^c-a1c5725a837e3e6a4300f922b0f480e6]) meets the description in regulation 45(3)(c)[^c-9a56e4615a9048c4b8d32d6e4774d12b], the provider takes the measures specified in the report—
+  - (i) to improve the [^c-1aad896eca81d8a09c1cda14c6b8d669]... effectiveness of its childcare, and
   - (ii) which may include the participation in any training or other quality improvement programme specified in the report;
 - (g) a requirement necessary for the effective administration of the arrangements.
 
@@ -995,9 +995,9 @@ Except in the case of arrangements with the governing body of a maintained schoo
 - “**disability**” has the meaning given in section 6 of the Equality Act 2010[^f00062];
 - “**special educational needs**” has the meaning given in section 20 of the Children and Families Act 2014[^f00063].
 
-#### 48. Requirements prohibited in arrangements[^key-e6d1ce9e2e6d256c67a1813f176fb041]
+#### 48. Requirements prohibited in arrangements[^c-e6d1ce9e2e6d256c67a1813f176fb041]
 
-An English local authority must not, as part of arrangements with a childcare provider under regulation 45(2) (other than arrangements with the governing body of a maintained school)[^key-454f87e4a4dbc7763a69af57c6532e40], impose on the provider any of the following—
+An English local authority must not, as part of arrangements with a childcare provider under regulation 45(2) (other than arrangements with the governing body of a maintained school)[^c-454f87e4a4dbc7763a69af57c6532e40], impose on the provider any of the following—
 
 - (a) a requirement that the provider attend a training or other quality improvement programme other than that specified in an inspection report;
 - (b) a requirement subjecting the provider to a quality assessment process conducted by the local authority relating to—
@@ -1006,7 +1006,7 @@ An English local authority must not, as part of arrangements with a childcare pr
 
 ### Guidance in discharging of functions
 
-#### 49. Duty of English local authority to have regard to guidance[^key-1e3c4836fe44fa1f9252877150838290]
+#### 49. Duty of English local authority to have regard to guidance[^c-1e3c4836fe44fa1f9252877150838290]
 
 An English local authority must, when discharging its duties under these Regulations, have regard to any guidance given from time to time by the Secretary of State.
 
@@ -1030,13 +1030,13 @@ Two of the Commissioners of His Majesty’s Treasury
 
 7th November 2022
 
-## SCHEDULE 1 — Consequential amendments and revocations[^key-affd61b2f9fcdf09aabe4310020e404f]
+## SCHEDULE 1 — Consequential amendments and revocations[^c-affd61b2f9fcdf09aabe4310020e404f]
 
 Regulation 3
 
 ### Consequential amendments
 
-#### 1. Amendment of the Childcare Act 2006 (Provision of Information to Parents) (England) Regulations 2007[^key-2069d83435df009b4461d17deab1db76]
+#### 1. Amendment of the Childcare Act 2006 (Provision of Information to Parents) (England) Regulations 2007[^c-2069d83435df009b4461d17deab1db76]
 
 (1) The Childcare Act 2006 (Provision of Information to Parents) (England) Regulations 2007[^f00064] are amended in accordance with paragraph (2).
 
@@ -1045,19 +1045,19 @@ Regulation 3
 - (a) in the definition of “the extended entitlement”, for “regulation 33 of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016” substitute “regulation 44 of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022[^f00065]”;
 - (b) in the definition of “free early years provision”, in paragraph (b), for “regulation 33 of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016” substitute “regulation 44 of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022”.
 
-#### 2. Amendment of the First-tier Tribunal and Upper Tribunal (Chambers) Order 2010[^key-e69d014b3e04960765b4a7b463bb9f57]
+#### 2. Amendment of the First-tier Tribunal and Upper Tribunal (Chambers) Order 2010[^c-e69d014b3e04960765b4a7b463bb9f57]
 
 (1) The First-tier Tribunal and Upper Tribunal (Chambers) Order 2010[^f00066] is amended in accordance with sub-paragraph (2).
 
 (2) In Article 6(eb), for “the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016” substitute “the Childcare (Free of Charge for Working Parents) (England) Regulations 2022”.
 
-#### 3. Amendment of the Childcare Payments Regulations 2015[^key-f1ec655efd42b01d4c919bae42e025c3]
+#### 3. Amendment of the Childcare Payments Regulations 2015[^c-f1ec655efd42b01d4c919bae42e025c3]
 
 (1) The Childcare Payments Regulations 2015[^f00067] are amended on accordance with sub-paragraph (2).
 
 (2) In regulation 5(1)(d), for “regulation 15 of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016” substitute “regulation 25 of the Childcare (Free of Charge for Working Parents) (England) Regulations 2022”.
 
-#### 4. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^key-83596900083bfc5a3f79ab014553da52]
+#### 4. Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^c-83596900083bfc5a3f79ab014553da52]
 
 (1) The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016[^f00072] are amended in accordance with sub-paragraphs (2) to (5)
 
@@ -1075,25 +1075,25 @@ Regulation 3
 - (d) Part 3 (information, reviews, appeals and penalties);
 - (e) Part 4 (local authorities’ duty to secure early years provision).
 
-#### 5. Amendment of the Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018[^key-45436638fc49b22f12d20232d01e6803]
+#### 5. Amendment of the Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018[^c-45436638fc49b22f12d20232d01e6803]
 
 (1) The Childcare (Disqualification) and Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2018[^f00068] are amended in accordance with sub-paragraph (2).
 
 (2) Omit Part 3 (amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016).
 
-#### 6. Amendment of the Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020[^key-c32ab89cf94d2352a2876d7bd3ade082]
+#### 6. Amendment of the Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020[^c-c32ab89cf94d2352a2876d7bd3ade082]
 
 (1) The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020[^f00069] are amended in accordance with sub-paragraph (2).
 
 (2) Omit regulation 40 (Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016).
 
-#### 7. Amendment of the Tax Credits, Childcare Payments and Childcare (Extended Entitlement) (Coronavirus and Miscellaneous Amendments) Regulations 2020[^key-38f8361236c8cd1f3c398a3b9b567878]
+#### 7. Amendment of the Tax Credits, Childcare Payments and Childcare (Extended Entitlement) (Coronavirus and Miscellaneous Amendments) Regulations 2020[^c-38f8361236c8cd1f3c398a3b9b567878]
 
 (1) The Tax Credits, Childcare Payments and Childcare (Extended Entitlement) (Coronavirus and Miscellaneous Amendments) Regulations 2020[^f00070] are amended in accordance with sub-paragraph (2).
 
 (2) Omit regulation 5 (Amendment of the Childcare (Early Years Provision Free of Charge) (Extended Entitlement) Regulations 2016).
 
-#### 8. Amendment of the Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022[^key-df5b25bfc534065647bfe370546146e8]
+#### 8. Amendment of the Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022[^c-df5b25bfc534065647bfe370546146e8]
 
 (1) The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022[^f00071] are amended in accordance with sub-paragraph (2).
 
@@ -1101,7 +1101,7 @@ Regulation 3
 
 ### Revocations
 
-#### 9. Revocations[^key-9a036f66571d1962ae2a6be78d6aec6a]
+#### 9. Revocations[^c-9a036f66571d1962ae2a6be78d6aec6a]
 
 The enactments cited in the table are revoked.
 
@@ -1112,7 +1112,7 @@ The enactments cited in the table are revoked.
 | The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) Regulations 2021 | [S.I. 2021/674](https://www.legislation.gov.uk/uksi/2021/674) |
 | The Childcare (Early Years Provision Free of Charge) (Extended Entitlement) (Amendment) (No. 2) Regulations 2021 | [S.I. 2021/1168](https://www.legislation.gov.uk/uksi/2021/1168) |
 
-## Schedule 2 — Specified grades[^key-324c1d86a44a7ece091d9822bc7d6ac2]
+## Schedule 2 — Specified grades[^c-324c1d86a44a7ece091d9822bc7d6ac2]
 
 Regulation 45(5)
 
@@ -1220,21 +1220,21 @@ The following table sets out where the regulatory provisions of the Childcare (E
 
 [^f00001]: Footnote: [2016 c. 5](https://www.legislation.gov.uk/ukpga/2016/5).
 
-[^key-53cceedbd49c9db0fde3b0530ee45e38]: Commencement: Reg. 1 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-53cceedbd49c9db0fde3b0530ee45e38]: Commencement: Reg. 1 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-b86af2d68561b79f850ab20b084d05ca]: Commencement: Reg. 2 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-b86af2d68561b79f850ab20b084d05ca]: Commencement: Reg. 2 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-d8fd88bb70b6c24e1cb7016997f5720b]: Commencement: Reg. 3 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-d8fd88bb70b6c24e1cb7016997f5720b]: Commencement: Reg. 3 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-ea8d87175b5bb14b185f3689df5cc22e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1134/regulation/3) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/2)
+[^c-ea8d87175b5bb14b185f3689df5cc22e]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2022/1134/regulation/3) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(2)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/2)
 
-[^key-f3855ecebcf5ebcf05528da38b9b60dc]: Commencement: Reg. 4 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-f3855ecebcf5ebcf05528da38b9b60dc]: Commencement: Reg. 4 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00002]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3). Section 58 was amended by paragraph 9 of Schedule 3 to the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11) and [S.I. 2018/459](https://www.legislation.gov.uk/uksi/2018/459).
 
-[^key-fe5c5237337a3962ac5b63fd0ad40bea]: Textual amendment: Words in reg. 4(1) inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/2/a)
+[^c-fe5c5237337a3962ac5b63fd0ad40bea]: Textual amendment: Words in reg. 4(1) inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/2/a)
 
-[^key-61f1d57eafe1d77f3662519c0f11179c]: Textual amendment: Words in reg. 4(1) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/11/2)
+[^c-61f1d57eafe1d77f3662519c0f11179c]: Textual amendment: Words in reg. 4(1) substituted (1.11.2024) by [The Levelling-up and Regeneration Act 2023 (Miscellaneous Amendment) Regulations 2024 (S.I. 2024/1019)](https://www.legislation.gov.uk/uksi/2024/1019), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/1/1), [11(2)](https://www.legislation.gov.uk/uksi/2024/1019/regulation/11/2)
 
 [^f00004]: Footnote: The definition of “early years childminder agency” was inserted by paragraph 62(2)(b) of Schedule 4 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
 
@@ -1242,7 +1242,7 @@ The following table sets out where the regulatory provisions of the Childcare (E
 
 [^f00006]: Footnote: Section 51E was inserted by paragraph 13 of Schedule 4 to the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6).
 
-[^key-1fb02792f4e2423e046a279e961a7b42]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2022/1134/regulation/4) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/3)
+[^c-1fb02792f4e2423e046a279e961a7b42]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2022/1134/regulation/4) omitted (1.1.2026) by virtue of [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(3)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/3)
 
 [^f00007]: Footnote: [2005 c. 18](https://www.legislation.gov.uk/ukpga/2005/18). Section 5 was amended by paragraph 23 of Schedule 7 to the Education and Inspections Act [2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), paragraph 17 of Schedule 2 to the Academies Act [2010 (c. 32)](https://www.legislation.gov.uk/ukpga/2010/32) and sections 40(2) and 41(1) of, and paragraph 15(2) of Schedule 13 to, the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
@@ -1250,15 +1250,15 @@ The following table sets out where the regulatory provisions of the Childcare (E
 
 [^f00009]: Footnote: [2008 c. 25](https://www.legislation.gov.uk/ukpga/2008/25).
 
-[^key-b643863ed1d2879defe10fdc99d0ee5f]: Textual amendment: Words in reg. 4(1) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2023/276/regulation/11/b)
+[^c-b643863ed1d2879defe10fdc99d0ee5f]: Textual amendment: Words in reg. 4(1) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [11(b)](https://www.legislation.gov.uk/uksi/2023/276/regulation/11/b)
 
-[^key-3412adf374f5ff7b8122fb65b94baa81]: Textual amendment: Words in reg. 4(1) substituted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/2)
+[^c-3412adf374f5ff7b8122fb65b94baa81]: Textual amendment: Words in reg. 4(1) substituted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/2)
 
-[^key-e080949879e84ceb4e8c724653be1106]: Textual amendment: Words in reg. 4(1) omitted (30.3.2023) by virtue of [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2023/276/regulation/11/c)
+[^c-e080949879e84ceb4e8c724653be1106]: Textual amendment: Words in reg. 4(1) omitted (30.3.2023) by virtue of [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [11(c)](https://www.legislation.gov.uk/uksi/2023/276/regulation/11/c)
 
-[^key-f02d668d75f75dbb111912ba84df654c]: Textual amendment: Words in reg. 4(1) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2023/276/regulation/11/d)
+[^c-f02d668d75f75dbb111912ba84df654c]: Textual amendment: Words in reg. 4(1) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [11(d)](https://www.legislation.gov.uk/uksi/2023/276/regulation/11/d)
 
-[^key-af476b72d3adf3f6979a63f1f4508f60]: Commencement: Reg. 5 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-af476b72d3adf3f6979a63f1f4508f60]: Commencement: Reg. 5 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00012]: Footnote: [S.I. 2010/959](https://www.legislation.gov.uk/uksi/2010/959), amended by [S.I. 2011/581](https://www.legislation.gov.uk/uksi/2011/581), [2012/1479](https://www.legislation.gov.uk/uksi/2012/1479), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [706](https://www.legislation.gov.uk/uksi/2013/706), [984](https://www.legislation.gov.uk/uksi/2013/984), [3239](https://www.legislation.gov.uk/uksi/2013/3239), [2014/852](https://www.legislation.gov.uk/uksi/2014/852), [1556](https://www.legislation.gov.uk/uksi/2014/1556), [1917](https://www.legislation.gov.uk/uksi/2014/1917), [2103](https://www.legislation.gov.uk/uksi/2014/2103), [2015/495](https://www.legislation.gov.uk/uksi/2015/495), [2017/52](https://www.legislation.gov.uk/uksi/2017/52), [2018/48](https://www.legislation.gov.uk/uksi/2018/48), [152](https://www.legislation.gov.uk/uksi/2018/152), [2019/1094](https://www.legislation.gov.uk/uksi/2019/1094), [2020/909](https://www.legislation.gov.uk/uksi/2020/909) and [2021/161](https://www.legislation.gov.uk/uksi/2021/161).
 
@@ -1268,25 +1268,25 @@ The following table sets out where the regulatory provisions of the Childcare (E
 
 [^f00015]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4). Section 83 was amended by section 16 of the Additional Learning Needs and Education Tribunal (Wales) Act [2018 (anaw 2)](https://www.legislation.gov.uk/anaw/2018/2).
 
-[^key-3d64ad7503daacc0efc1aad595bc1a7c]: Commencement: Reg. 6 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-3d64ad7503daacc0efc1aad595bc1a7c]: Commencement: Reg. 6 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00016]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
 [^f00017]: Footnote: [2010 c. 32](https://www.legislation.gov.uk/ukpga/2010/32). Section 1A was inserted by section 53(7) of the Education Act [2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21).
 
-[^key-3086957c0b56eb5fefc89ccbe0c3eebe]: Commencement: Reg. 7 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-3086957c0b56eb5fefc89ccbe0c3eebe]: Commencement: Reg. 7 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-1cdd9d8923d4eced2dff48e0d3e0f9f5]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/7/1/a) omitted (12.5.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/2/a/i)
+[^c-1cdd9d8923d4eced2dff48e0d3e0f9f5]: Textual amendment: Words in [reg. 7(1)(a)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/7/1/a) omitted (12.5.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/2/a/i)
 
-[^key-d862821a0269c739bda83253fbd45d12]: Textual amendment: Words in [reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/7/1/d) substituted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/2/a/ii)
+[^c-d862821a0269c739bda83253fbd45d12]: Textual amendment: Words in [reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/7/1/d) substituted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/2/a/ii)
 
-[^key-e00cffc2659c7f686fd1a1f4585cf0f8]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/7/2) inserted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/2/b/i)
+[^c-e00cffc2659c7f686fd1a1f4585cf0f8]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/7/2) inserted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(2)(b)(i)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/2/b/i)
 
 [^f00018]: Footnote: [2003 c. 1](https://www.legislation.gov.uk/ukpga/2003/1).
 
 [^f00019]: Footnote: Chapter 7 of Part 2 was amended by section 16 of the Finance Act [2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26); Chapter 8 of Part 2 was amended by section 136 of, and Part 3(1) of Schedule 43 to, the Finance Act [2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), paragraph 17 of Schedule 12, paragraph 56 of Schedule 35, and Part 3 of Schedule 42, to the Finance Act [2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), paragraph 586 of Schedule 1 to the Income Tax (Trading and Other Income) Act [2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), paragraphs 102(1), 103(1)(a) and 105 of Schedule 4 to the Commissioners for Revenue and Customs Act [2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), paragraph 429 of Schedule 1 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), paragraph 3 of Schedule 3 to the Finance Act [2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), paragraph 549 of Schedule 1 to the Corporation Tax Act [2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), paragraphs 380 to 383 of Schedule 1 to the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), section 22(1) of, and paragraph 30 of Schedule 46 to, the Finance Act [2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), paragraph 5 of Schedule 17 to the Finance Act 2014, paragraph 61(2) of Schedule 1 to the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), paragraphs 2 to 5 and 11 of Schedule 1 to the Finance Act [2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), Part 1 of Schedule 1 to the Finance Act [2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [S.I. 2005/3229](https://www.legislation.gov.uk/uksi/2005/3229) and [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458); Chapter 9 of Part 2 was inserted by paragraph 4 of Schedule 3 to the Finance Act 2007 and amended by paragraph 31 of Schedule 46 to the Finance Act 2013, paragraph 61(2) of Schedule 1 to the Finance Act 2016, paragraphs 6 and 8 of Schedule 1 to the Finance Act 2017, paragraph 18 of Schedule 1 to the Finance Act 2020 and [S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458); Chapter 10 of Part 2 was inserted by paragraph 9 of Schedule 1 to the Finance Act 2017 and amended by Part 2 of Schedule 1 to the Finance Act 2020 and section 21 of the Finance Act [2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26).
 
-[^key-b7e1bbaf13bd99b54bd334e23948b8f2]: Commencement: Reg. 8 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-b7e1bbaf13bd99b54bd334e23948b8f2]: Commencement: Reg. 8 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00020]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41). Paragraph 12F of Schedule 2 was inserted by paragraph 4 of Schedule 1 to the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23).
 
@@ -1298,23 +1298,23 @@ The following table sets out where the regulatory provisions of the Childcare (E
 
 [^f00024]: Footnote: The definition of “local authority foster parent” was substituted by regulation 319(a) of [S.I. 2016/213 (W. 131)](https://www.legislation.gov.uk/wsi/2016/213).
 
-[^key-88272f6555377ba6fc54791a529fe046]: Commencement: Reg. 9 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-88272f6555377ba6fc54791a529fe046]: Commencement: Reg. 9 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00025]: Footnote: Section 22(1) was amended by paragraph 19 of Schedule 5 to the Local Government Act [2000 (c. 22)](https://www.legislation.gov.uk/ukpga/2000/22), section 2(2) of the Children (Leaving Care) Act [2000 (c. 35)](https://www.legislation.gov.uk/ukpga/2000/35) and section 116(2) of the Adoption and Children Act [2002 (c. 38)](https://www.legislation.gov.uk/ukpga/2002/38).
 
 [^f00026]: Footnote: [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36). Section 17(6) was amended by paragraph 9(4)(b) of Schedule 5 to the Adoption and Children (Scotland) Act [2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), paragraph 2(4) of Schedule 5 to the Children’s Hearings (Scotland) Act [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) and [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195).
 
-[^key-beb4800cdbe782cd3e26317f56055540]: Commencement: Reg. 10 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-beb4800cdbe782cd3e26317f56055540]: Commencement: Reg. 10 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-3d5f75f50c13da96586f7a9623791321]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/10/3) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/276/regulation/12)
+[^c-3d5f75f50c13da96586f7a9623791321]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/10/3) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/276/regulation/12)
 
-[^key-23084c4b7936f41907cf47d7bff4c8a7]: Commencement: Reg. 11 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-23084c4b7936f41907cf47d7bff4c8a7]: Commencement: Reg. 11 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-f170e689516f0676750c9ee67ac7dd6e]: Textual amendment: Word in [reg. 11(1)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/11/1/a/i) omitted (1.1.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/3/a)
+[^c-f170e689516f0676750c9ee67ac7dd6e]: Textual amendment: Word in [reg. 11(1)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/11/1/a/i) omitted (1.1.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/3/a)
 
-[^key-2abf41e5e74689f7ca67884139957ebc]: Textual amendment: Word in [reg. 11(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/11/1/a/ii) substituted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/3/b)
+[^c-2abf41e5e74689f7ca67884139957ebc]: Textual amendment: Word in [reg. 11(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/11/1/a/ii) substituted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/3/b)
 
-[^key-0179e6410282f424cba666b77b16bcc1]: Textual amendment: [Reg. 11(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/11/1/a/iii) inserted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/3/c)
+[^c-0179e6410282f424cba666b77b16bcc1]: Textual amendment: [Reg. 11(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/11/1/a/iii) inserted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/3/c)
 
 [^f00027]: Footnote: The discretionary leave (DL) policy is administered by the Home Office. Guidance is available online at www.gov.uk/government/publications/granting-discretionary-leave.
 
@@ -1326,57 +1326,57 @@ The following table sets out where the regulatory provisions of the Childcare (E
 
 [^f00031]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). The Immigration Rules are published online at www.gov.uk/guidance/immigration-rules.
 
-[^key-8c84f3a087b0a1d48a1ef212fe38a873]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2022/1134/regulation/11A) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/276/regulation/13)
+[^c-8c84f3a087b0a1d48a1ef212fe38a873]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2022/1134/regulation/11A) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2023/276/regulation/13)
 
-[^key-5c94563f10659ce837807798a6187888]: Commencement: Reg. 12 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-5c94563f10659ce837807798a6187888]: Commencement: Reg. 12 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-345631eebe73862a2db5058be6b94b04]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2022/1134/regulation/12) Table inserted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/4)
+[^c-345631eebe73862a2db5058be6b94b04]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2022/1134/regulation/12) Table inserted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/4)
 
-[^key-351382aacf86dd284cbf6b936483981c]: Commencement: Reg. 13 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-351382aacf86dd284cbf6b936483981c]: Commencement: Reg. 13 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00032]: Footnote: Section 1(2)(c) of the Childcare Act 2016 defines a qualifying child of working parents as a young child who is of a description specified in regulations made by the Secretary of State. The young child must also be under compulsory school age and in England (see section 1(2)(a) and (b) of that Act).
 
-[^key-fe565e9eb0f36a6cc7d60d3ec665e3bb]: Textual amendment: Words in reg. 13(2)(a) substituted (1.9.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/5)
+[^c-fe565e9eb0f36a6cc7d60d3ec665e3bb]: Textual amendment: Words in reg. 13(2)(a) substituted (1.9.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [reg. 2(5)(b)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/5)
 
-[^key-fc9f0ea89b245f9c20f5074b4aa96665]: Commencement: Reg. 14 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-fc9f0ea89b245f9c20f5074b4aa96665]: Commencement: Reg. 14 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00033]: Footnote: Section 1(2)(d) of the Childcare Act 2016 defines a qualifying child of working parents as a young child in respect of whom any conditions relating to a parent of the child, which are specified in regulations made by the Secretary of State, are met.
 
-[^key-7d0a72b9b3ee6e4df09d9665964d5510]: Textual amendment: Words in [reg. 14(4)(a)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/14/4/a) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2023/276/regulation/14/a)
+[^c-7d0a72b9b3ee6e4df09d9665964d5510]: Textual amendment: Words in [reg. 14(4)(a)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/14/4/a) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2023/276/regulation/14/a)
 
-[^key-48525b3c44a2b780e7d0b49e64e17628]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/14/5) omitted (30.3.2023) by virtue of [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2023/276/regulation/14/b)
+[^c-48525b3c44a2b780e7d0b49e64e17628]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/14/5) omitted (30.3.2023) by virtue of [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2023/276/regulation/14/b)
 
-[^key-3947121a407698bfd0a45e6e4967d7b5]: Commencement: Reg. 15 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-3947121a407698bfd0a45e6e4967d7b5]: Commencement: Reg. 15 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00045]: Footnote: Section 1(2)(d) of the Childcare Act 2016 defines a qualifying child of working parents as a young child in respect of whom any conditions relating to a partner of a parent of the child, which are specified in regulations made by the Secretary of State, are met.
 
-[^key-13527584af6e42d39f44df97ec336ce2]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/15/2) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [15(1)(a)](https://www.legislation.gov.uk/uksi/2023/276/regulation/15/1/a)
+[^c-13527584af6e42d39f44df97ec336ce2]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/15/2) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [15(1)(a)](https://www.legislation.gov.uk/uksi/2023/276/regulation/15/1/a)
 
-[^key-7f2b7ad262edd1574c7ed8b06b4c46f4]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/15/3)[(4)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/15/4) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [15(1)(b)](https://www.legislation.gov.uk/uksi/2023/276/regulation/15/1/b)
+[^c-7f2b7ad262edd1574c7ed8b06b4c46f4]: Textual amendment: [Reg. 15(3)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/15/3)[(4)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/15/4) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [15(1)(b)](https://www.legislation.gov.uk/uksi/2023/276/regulation/15/1/b)
 
-[^key-9f9fcefddd9476b52d061e8dd458a293]: Commencement: Reg. 16 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-9f9fcefddd9476b52d061e8dd458a293]: Commencement: Reg. 16 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-0893042688950bc0355424c3610e6711]: Textual amendment: Reg. 16(3)(a) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2023/276/regulation/16/a)
+[^c-0893042688950bc0355424c3610e6711]: Textual amendment: Reg. 16(3)(a) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2023/276/regulation/16/a)
 
-[^key-e21765acbcf01737f296039deb9a4cb3]: Textual amendment: Word in reg. 16(3)(a)(i) omitted (1.1.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(6)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/6/a/i/aa)
+[^c-e21765acbcf01737f296039deb9a4cb3]: Textual amendment: Word in reg. 16(3)(a)(i) omitted (1.1.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(6)(a)(i)(aa)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/6/a/i/aa)
 
-[^key-4b165766d51c8f148047f33d229a3af2]: Textual amendment: Word in reg. 16(3)(a)(i) inserted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/2/a)
+[^c-4b165766d51c8f148047f33d229a3af2]: Textual amendment: Word in reg. 16(3)(a)(i) inserted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/2/a)
 
-[^key-ca01f4f2a5eeb42d83147678e8ca31e3]: Textual amendment: Reg. 16(3)(a)(ii) substituted for reg. 16(3)(a)(ii)-(iv) (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/2/b)
+[^c-ca01f4f2a5eeb42d83147678e8ca31e3]: Textual amendment: Reg. 16(3)(a)(ii) substituted for reg. 16(3)(a)(ii)-(iv) (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/2/b)
 
-[^key-95dcd0023826574236bee025aad2eb81]: Textual amendment: Reg. 16(3)(b) substituted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/6/a/ii)
+[^c-95dcd0023826574236bee025aad2eb81]: Textual amendment: Reg. 16(3)(b) substituted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/6/a/ii)
 
-[^key-8ac8795eb98804c8ee7ac87fc2709239]: Textual amendment: Reg. 16(3)(b) substituted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/2/c)
+[^c-8ac8795eb98804c8ee7ac87fc2709239]: Textual amendment: Reg. 16(3)(b) substituted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(2)(c)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/2/c)
 
-[^key-e75a2ba233892739ff967cc34cbb39bb]: Textual amendment: Words in reg. 16(3)(b) substituted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/3/a)
+[^c-e75a2ba233892739ff967cc34cbb39bb]: Textual amendment: Words in reg. 16(3)(b) substituted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/3/a)
 
-[^key-80cc748677ad9dd2f2518f4a0ff54c38]: Textual amendment: Reg. 16(3)(c) omitted (6.4.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(2)(d)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/2/d)
+[^c-80cc748677ad9dd2f2518f4a0ff54c38]: Textual amendment: Reg. 16(3)(c) omitted (6.4.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(2)(d)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/2/d)
 
-[^key-37ed8fde267ce6bdeabe2f19121a1b0e]: Textual amendment: Reg. 16(3A) inserted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/3)
+[^c-37ed8fde267ce6bdeabe2f19121a1b0e]: Textual amendment: Reg. 16(3A) inserted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/3)
 
-[^key-0c4569bb2d8a3f5b5086e0c613fc9ac2]: Textual amendment: Words in reg. 16(4) omitted (1.1.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/6/b)
+[^c-0c4569bb2d8a3f5b5086e0c613fc9ac2]: Textual amendment: Words in reg. 16(4) omitted (1.1.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/6/b)
 
-[^key-5e94f71deeeaf986a3a7739f243f2139]: Textual amendment: Words in reg. 16(4) inserted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/3/b/i)
+[^c-5e94f71deeeaf986a3a7739f243f2139]: Textual amendment: Words in reg. 16(4) inserted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(3)(b)(i)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/3/b/i)
 
 [^f00046]: Footnote: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
@@ -1390,182 +1390,182 @@ The following table sets out where the regulatory provisions of the Childcare (E
 
 [^f00051]: Footnote: [1975 c. 15](https://www.legislation.gov.uk/ukpga/1975/15).
 
-[^key-4b80220e3e1b05a3ea92e4da5e250a47]: Textual amendment: Words in reg. 16(4) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [16(b)(ii)](https://www.legislation.gov.uk/uksi/2023/276/regulation/16/b/ii)
+[^c-4b80220e3e1b05a3ea92e4da5e250a47]: Textual amendment: Words in reg. 16(4) inserted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [16(b)(ii)](https://www.legislation.gov.uk/uksi/2023/276/regulation/16/b/ii)
 
-[^key-b240662bc17d05ae9086d3eb137a8d98]: Textual amendment: Words in reg. 16(4) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [16(b)(iii)](https://www.legislation.gov.uk/uksi/2023/276/regulation/16/b/iii)
+[^c-b240662bc17d05ae9086d3eb137a8d98]: Textual amendment: Words in reg. 16(4) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [16(b)(iii)](https://www.legislation.gov.uk/uksi/2023/276/regulation/16/b/iii)
 
-[^key-5fbc8c32589ce7ddad53c07e5c8a1e3f]: Textual amendment: Words in reg. 16(4) inserted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/4)
+[^c-5fbc8c32589ce7ddad53c07e5c8a1e3f]: Textual amendment: Words in reg. 16(4) inserted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/4)
 
-[^key-5b3e0300f4a69b0cdb7ff8b27ef40912]: Textual amendment: Reg. 16(4)(viii) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [30(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/30/2/a)
+[^c-5b3e0300f4a69b0cdb7ff8b27ef40912]: Textual amendment: Reg. 16(4)(viii) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [30(2)(a)](https://www.legislation.gov.uk/uksi/2025/201/regulation/30/2/a)
 
-[^key-5da692eddca5d390a396ffc5b7286129]: Textual amendment: Words in reg. 16(4) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [16(b)(iv)](https://www.legislation.gov.uk/uksi/2023/276/regulation/16/b/iv)
+[^c-5da692eddca5d390a396ffc5b7286129]: Textual amendment: Words in reg. 16(4) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [16(b)(iv)](https://www.legislation.gov.uk/uksi/2023/276/regulation/16/b/iv)
 
-[^key-309854b46a620e4439c85f6e303bb884]: Textual amendment: Reg. 16(4)(b)(vii): semicolon substituted for full stop (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/30/2/b)
+[^c-309854b46a620e4439c85f6e303bb884]: Textual amendment: Reg. 16(4)(b)(vii): semicolon substituted for full stop (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2025/201/regulation/30/2/b)
 
-[^key-d3a960eda507bcc07309be601721f573]: Textual amendment: Reg. 16(4)(b)(viii) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [30(2)(c)](https://www.legislation.gov.uk/uksi/2025/201/regulation/30/2/c)
+[^c-d3a960eda507bcc07309be601721f573]: Textual amendment: Reg. 16(4)(b)(viii) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [30(2)(c)](https://www.legislation.gov.uk/uksi/2025/201/regulation/30/2/c)
 
-[^key-689c64a6abf8b8e0d68a2a37f99a0416]: Commencement: Reg. 17 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-689c64a6abf8b8e0d68a2a37f99a0416]: Commencement: Reg. 17 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-603f5ff4e0402de3ba5ff24e8b3cd556]: Commencement: Reg. 18 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-603f5ff4e0402de3ba5ff24e8b3cd556]: Commencement: Reg. 18 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00052]: Footnote: [1998 c. 39](https://www.legislation.gov.uk/ukpga/1998/39).
 
-[^key-a43106c9e2e5f8c3491721011eb2ad1a]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/18/3) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2023/276/regulation/17/a)
+[^c-a43106c9e2e5f8c3491721011eb2ad1a]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/18/3) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [17(a)](https://www.legislation.gov.uk/uksi/2023/276/regulation/17/a)
 
-[^key-9f07fc8ea4cef02386cf5ff9a3b73631]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/18/3) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2023/276/regulation/17/b)
+[^c-9f07fc8ea4cef02386cf5ff9a3b73631]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/18/3) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [17(b)](https://www.legislation.gov.uk/uksi/2023/276/regulation/17/b)
 
-[^key-76718827cb345a5d05bdd4e1532cc37d]: Commencement: Reg. 19 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-76718827cb345a5d05bdd4e1532cc37d]: Commencement: Reg. 19 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00053]: Footnote: Section 1(2)(e) of the Childcare Act 2016 defines a qualifying child of working parents as a young child in respect of whom a declaration has been made, in accordance with regulations made by the Secretary of State, to the effect that the requirements of section 1(2)(a) to (d) of that Act are satisfied.
 
-[^key-b1d4c3cf84d864a726d4e542469f4f41]: Commencement: Reg. 20 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-b1d4c3cf84d864a726d4e542469f4f41]: Commencement: Reg. 20 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-7bf9defe395665cfbd2fae25998b35ac]: Textual amendment: [Reg. 20(a)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/20/a) substituted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/5/a)
+[^c-7bf9defe395665cfbd2fae25998b35ac]: Textual amendment: [Reg. 20(a)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/20/a) substituted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/5/a)
 
-[^key-6d1e16823b08be94cd434a0448792897]: Textual amendment: Words in [reg. 20(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/20/b/ii) inserted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/5/b)
+[^c-6d1e16823b08be94cd434a0448792897]: Textual amendment: Words in [reg. 20(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/20/b/ii) inserted (6.4.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/369)](https://www.legislation.gov.uk/uksi/2024/369), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/1/b), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/369/regulation/2/5/b)
 
 [^f00054]: Footnote: Section 1(2)(a) and (b) of the Childcare Act 2016 define a qualifying child of working parents as a young child who is under compulsory school age and in England, respectively.
 
-[^key-929ee5c4dd1bbc3a46e2bd68e8e6a1c0]: Commencement: Reg. 21 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-929ee5c4dd1bbc3a46e2bd68e8e6a1c0]: Commencement: Reg. 21 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-c08e618bff4f08f46b7fc3a78399e749]: Commencement: Reg. 22 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-c08e618bff4f08f46b7fc3a78399e749]: Commencement: Reg. 22 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-afcb6fa60712739b3215194010d2815d]: Commencement: Reg. 23 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-afcb6fa60712739b3215194010d2815d]: Commencement: Reg. 23 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-aef3a4dfaca9748cdd960126682858ab]: Commencement: Reg. 24 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-aef3a4dfaca9748cdd960126682858ab]: Commencement: Reg. 24 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-797e24821ded37e07b05950cba40a0d1]: Commencement: Reg. 25 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-797e24821ded37e07b05950cba40a0d1]: Commencement: Reg. 25 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00055]: Footnote: [2014 c. 28](https://www.legislation.gov.uk/ukpga/2014/28).
 
-[^key-6e2d36b0b1e0626c672fd374ae5e40fa]: Commencement: Reg. 26 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-6e2d36b0b1e0626c672fd374ae5e40fa]: Commencement: Reg. 26 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-cf93c597a6de914582aa720feab2abfa]: Commencement: Reg. 27 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-cf93c597a6de914582aa720feab2abfa]: Commencement: Reg. 27 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-f6fb6453fed5ab366c7c749498520a52]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/27/1/a) omitted (12.5.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/4/a)
+[^c-f6fb6453fed5ab366c7c749498520a52]: Textual amendment: Words in [reg. 27(1)(a)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/27/1/a) omitted (12.5.2024) by virtue of [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/4/a)
 
-[^key-8ff12900f0fe4a5355015cb72bde3b8c]: Textual amendment: Words in [reg. 27(1)(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/27/1/b) inserted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/4/b)
+[^c-8ff12900f0fe4a5355015cb72bde3b8c]: Textual amendment: Words in [reg. 27(1)(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/27/1/b) inserted (12.5.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/527)](https://www.legislation.gov.uk/uksi/2024/527), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/1/b), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/527/regulation/2/4/b)
 
 [^f00056]: Footnote: A young child ceases to be qualifying child of working parents if the child is looked after by a local authority (see regulation 13), no declaration in respect of the child has effect (see regulation 25) or the child ceases to satisfy the requirements of section 1(2)(a) or (b) of the Childcare Act 2016 (which define a qualifying child of working parents as a young child who is under compulsory school age and in England, respectively).
 
 [^f00057]: Footnote: Section 1(7) of the Childcare Act 2016 requires the Secretary of State to set out in regulations when a year begins for the purposes of determining in relation to a child whether the duty in section 1(1) of that Act has been discharged.
 
-[^key-bee3625e913a815cff4bc7fc0b3d4ec2]: Commencement: Reg. 28 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-bee3625e913a815cff4bc7fc0b3d4ec2]: Commencement: Reg. 28 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-d20747ee5344c9db7a64717bc73abf52]: Commencement: Reg. 29 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-d20747ee5344c9db7a64717bc73abf52]: Commencement: Reg. 29 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-c3e6d89431f053d44f35dfbb955994b5]: Commencement: Reg. 30 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-c3e6d89431f053d44f35dfbb955994b5]: Commencement: Reg. 30 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-9036c31db5207eebb3c3ec86afbb96ba]: Commencement: Reg. 31 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-9036c31db5207eebb3c3ec86afbb96ba]: Commencement: Reg. 31 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-9d9945ba807a215773341b4668790f5f]: Commencement: Reg. 32 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-9d9945ba807a215773341b4668790f5f]: Commencement: Reg. 32 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-dd36349779b130f8094b92be23720e6a]: Commencement: Reg. 33 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-dd36349779b130f8094b92be23720e6a]: Commencement: Reg. 33 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-4a5d68a4f9b3239760e9795065f9a686]: Commencement: Reg. 34 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-4a5d68a4f9b3239760e9795065f9a686]: Commencement: Reg. 34 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-bd5a1289571740035f01ee04b6ae064b]: Commencement: Reg. 35 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-bd5a1289571740035f01ee04b6ae064b]: Commencement: Reg. 35 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-a342790529e45bd80974ff1393eacaa6]: Commencement: Reg. 36 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-a342790529e45bd80974ff1393eacaa6]: Commencement: Reg. 36 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-94861f752584a9f9ca62cd0a2691c320]: Commencement: Reg. 37 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-94861f752584a9f9ca62cd0a2691c320]: Commencement: Reg. 37 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-bf540fa189662dce49ace59a4dceb992]: Commencement: Reg. 38 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-bf540fa189662dce49ace59a4dceb992]: Commencement: Reg. 38 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-2976e7814172c540e06555beb388c79a]: Commencement: Reg. 39 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-2976e7814172c540e06555beb388c79a]: Commencement: Reg. 39 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00058]: Footnote: An appellant must start proceedings by sending or delivering a notice of appeal to the First-tier Tribunal (see rule 22 of the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008).
 
-[^key-47b7c398889ffcdf936f13c96343c143]: Commencement: Reg. 40 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-47b7c398889ffcdf936f13c96343c143]: Commencement: Reg. 40 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-69ea49688d16fa07804e71ca30543ab0]: Commencement: Reg. 41 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-69ea49688d16fa07804e71ca30543ab0]: Commencement: Reg. 41 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00059]: Footnote: The First-tier Tribunal will send to the parties to the appeal a decision notice as soon as reasonably practicable after making its decision (see rule 33(2)(a) of the Tribunal Procedure (First-tier Tribunal) (Social Entitlement Chamber) Rules 2008).
 
-[^key-eb51cba109e3f2bd14e9e3c2432631b9]: Commencement: Reg. 42 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-eb51cba109e3f2bd14e9e3c2432631b9]: Commencement: Reg. 42 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-56f7ef44e4605d58d81774b44b0c239b]: Commencement: Reg. 43 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-56f7ef44e4605d58d81774b44b0c239b]: Commencement: Reg. 43 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00060]: Footnote: [S.I. 2008/2685](https://www.legislation.gov.uk/uksi/2008/2685), amended by [S.I. 2009/274](https://www.legislation.gov.uk/uksi/2009/274), [1975](https://www.legislation.gov.uk/uksi/2009/1975), [2010/43](https://www.legislation.gov.uk/uksi/2010/43), [2653](https://www.legislation.gov.uk/uksi/2010/2653), [2011/651](https://www.legislation.gov.uk/uksi/2011/651), [2012/500](https://www.legislation.gov.uk/uksi/2012/500), [2007](https://www.legislation.gov.uk/uksi/2012/2007), [2785](https://www.legislation.gov.uk/uksi/2012/2785), [2013/477](https://www.legislation.gov.uk/uksi/2013/477), [2067](https://www.legislation.gov.uk/uksi/2013/2067), [2014/514](https://www.legislation.gov.uk/uksi/2014/514), [2128](https://www.legislation.gov.uk/uksi/2014/2128), [2015/1510](https://www.legislation.gov.uk/uksi/2015/1510), [2018/1053](https://www.legislation.gov.uk/uksi/2018/1053) and [2020/651](https://www.legislation.gov.uk/uksi/2020/651).
 
-[^key-d211c07337ebdbd7f51bfb7ab563fc32]: Commencement: Reg. 44 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-d211c07337ebdbd7f51bfb7ab563fc32]: Commencement: Reg. 44 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-a9b46d06cd87a16d41c496309daafea6]: Textual amendment: Word in reg. 44(2)(b) substituted (1.1.2025 for specified purposes, 1.9.2025 in so far as not already in force) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/8/a)
+[^c-a9b46d06cd87a16d41c496309daafea6]: Textual amendment: Word in reg. 44(2)(b) substituted (1.1.2025 for specified purposes, 1.9.2025 in so far as not already in force) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/8/a)
 
-[^key-f82c91e87f7554fbefa0372134177c52]: Textual amendment: Reg. 44(3) inserted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/8/b)
+[^c-f82c91e87f7554fbefa0372134177c52]: Textual amendment: Reg. 44(3) inserted (1.1.2024) by [The Childcare (Free of Charge for Working Parents) (England) (Amendment and Transitional Provision) Regulations 2023 (S.I. 2023/1330)](https://www.legislation.gov.uk/uksi/2023/1330), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2023/1330/regulation/2/8/b)
 
-[^key-6825b52b808093af0af2068494f26821]: Textual amendment: [Reg. 44(3)(a)(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/44/3/a/b) omitted (1.1.2026) by virtue of [S.I. 2025/1261](https://www.legislation.gov.uk/uksi/2025/1261), [reg. 5(4)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/4) (as substituted by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2025 (S.I. 2025/1287)](https://www.legislation.gov.uk/uksi/2025/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/2/2))
+[^c-6825b52b808093af0af2068494f26821]: Textual amendment: [Reg. 44(3)(a)(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/44/3/a/b) omitted (1.1.2026) by virtue of [S.I. 2025/1261](https://www.legislation.gov.uk/uksi/2025/1261), [reg. 5(4)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/4) (as substituted by [The Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2025 (S.I. 2025/1287)](https://www.legislation.gov.uk/uksi/2025/1287), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2025/1287/regulation/2/2))
 
-[^key-3a28a594a12d73eb35016e2cffeab2f9]: Commencement: Reg. 45 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-3a28a594a12d73eb35016e2cffeab2f9]: Commencement: Reg. 45 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-1c12f4cbd819cc21f419632bc879dc69]: Textual amendment: [Reg. 45(3)(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/45/3/b)[(c)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/45/3/c) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(5)(a)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/5/a)
+[^c-1c12f4cbd819cc21f419632bc879dc69]: Textual amendment: [Reg. 45(3)(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/45/3/b)[(c)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/45/3/c) substituted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(5)(a)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/5/a)
 
 [^f00061]: Footnote: Arrangements between an English local authority and the governing body of a maintained school are regulated by statute, in particular the School Standards and Framework Act [1998 (c. 31)](https://www.legislation.gov.uk/ukpga/1998/31).
 
-[^key-d0184259e97394fc5ccd9b8fffcced4e]: Textual amendment: [Reg. 45(5)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/45/5) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(5)(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/5/b)
+[^c-d0184259e97394fc5ccd9b8fffcced4e]: Textual amendment: [Reg. 45(5)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/45/5) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(5)(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/5/b)
 
-[^key-da21eef389493f60e31a4bab3ffcf652]: Commencement: Reg. 46 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-da21eef389493f60e31a4bab3ffcf652]: Commencement: Reg. 46 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-ea7bb0dbb3e7935929ffcfc2d8f94f72]: Textual amendment: Words in reg. 46 inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(4)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/4)
+[^c-ea7bb0dbb3e7935929ffcfc2d8f94f72]: Textual amendment: Words in reg. 46 inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(4)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/4)
 
-[^key-ad9d64ad7732a5370dd5caa3c14e9dca]: Commencement: Reg. 47 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-ad9d64ad7732a5370dd5caa3c14e9dca]: Commencement: Reg. 47 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-392e675fe72739258ca9bf1abc4f1d19]: Textual amendment: Words in reg. 47(1) inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(5)(a)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/5/a)
+[^c-392e675fe72739258ca9bf1abc4f1d19]: Textual amendment: Words in reg. 47(1) inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(5)(a)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/5/a)
 
-[^key-6c315cd0153319dc78238759d435554c]: Textual amendment: Reg. 47(1)(b)(iv) inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(5)(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/5/b)
+[^c-6c315cd0153319dc78238759d435554c]: Textual amendment: Reg. 47(1)(b)(iv) inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(5)(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/5/b)
 
-[^key-a1c5725a837e3e6a4300f922b0f480e6]: Textual amendment: Words in [reg. 47(1)(f)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/47/1/f) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2023/276/regulation/19)
+[^c-a1c5725a837e3e6a4300f922b0f480e6]: Textual amendment: Words in [reg. 47(1)(f)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/47/1/f) substituted (30.3.2023) by [The Childcare and Inspection of Education, Children’s Services and Skills (Fees) (Amendments) Regulations 2023 (S.I. 2023/276)](https://www.legislation.gov.uk/uksi/2023/276), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/276/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2023/276/regulation/19)
 
-[^key-9a56e4615a9048c4b8d32d6e4774d12b]: Textual amendment: Words in reg. 47(1)(f) substituted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(5)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/5/c/i)
+[^c-9a56e4615a9048c4b8d32d6e4774d12b]: Textual amendment: Words in reg. 47(1)(f) substituted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(5)(c)(i)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/5/c/i)
 
-[^key-1aad896eca81d8a09c1cda14c6b8d669]: Textual amendment: Word in reg. 47(1)(f)(i) omitted (20.12.2024) by virtue of [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/5/c/ii)
+[^c-1aad896eca81d8a09c1cda14c6b8d669]: Textual amendment: Word in reg. 47(1)(f)(i) omitted (20.12.2024) by virtue of [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(5)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/5/c/ii)
 
 [^f00062]: Footnote: [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15).
 
 [^f00063]: Footnote: [2014 c. 6](https://www.legislation.gov.uk/ukpga/2014/6).
 
-[^key-e6d1ce9e2e6d256c67a1813f176fb041]: Commencement: Reg. 48 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-e6d1ce9e2e6d256c67a1813f176fb041]: Commencement: Reg. 48 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-454f87e4a4dbc7763a69af57c6532e40]: Textual amendment: Words in reg. 48 inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(6)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/6)
+[^c-454f87e4a4dbc7763a69af57c6532e40]: Textual amendment: Words in reg. 48 inserted (20.12.2024) by [The Local Authority (Duty to Secure Early Years Provision Free of Charge) and Childcare (Free of Charge for Working Parents) (England) (Amendment) Regulations 2024 (S.I. 2024/1228)](https://www.legislation.gov.uk/uksi/2024/1228), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/1/b), [3(6)](https://www.legislation.gov.uk/uksi/2024/1228/regulation/3/6)
 
-[^key-1e3c4836fe44fa1f9252877150838290]: Commencement: Reg. 49 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-1e3c4836fe44fa1f9252877150838290]: Commencement: Reg. 49 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-affd61b2f9fcdf09aabe4310020e404f]: Textual amendment: Sch. renumbered as Sch. 1 (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [6](https://www.legislation.gov.uk/uksi/2025/1261/regulation/6)
+[^c-affd61b2f9fcdf09aabe4310020e404f]: Textual amendment: Sch. renumbered as Sch. 1 (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [6](https://www.legislation.gov.uk/uksi/2025/1261/regulation/6)
 
-[^key-2069d83435df009b4461d17deab1db76]: Commencement: Sch. para. 1 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-2069d83435df009b4461d17deab1db76]: Commencement: Sch. para. 1 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00064]: Footnote: [S.I. 2007/3490](https://www.legislation.gov.uk/uksi/2007/3490), amended by [S.I. 2017/333](https://www.legislation.gov.uk/uksi/2017/333); other amending instruments are not relevant.
 
 [^f00065]: Footnote: [S.I. 2022/1134](https://www.legislation.gov.uk/uksi/2022/1134).
 
-[^key-e69d014b3e04960765b4a7b463bb9f57]: Commencement: Sch. para. 2 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-e69d014b3e04960765b4a7b463bb9f57]: Commencement: Sch. para. 2 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00066]: Footnote: [S.I. 2010/2655](https://www.legislation.gov.uk/uksi/2010/2655), amended by [S.I. 2020/137](https://www.legislation.gov.uk/uksi/2020/137); other amending instruments are not relevant.
 
-[^key-f1ec655efd42b01d4c919bae42e025c3]: Commencement: Sch. para. 3 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-f1ec655efd42b01d4c919bae42e025c3]: Commencement: Sch. para. 3 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00067]: Footnote: [S.I. 2015/522](https://www.legislation.gov.uk/uksi/2015/522), amended by [S.I. 2017/1096](https://www.legislation.gov.uk/uksi/2017/1096); other amending instruments are not relevant.
 
-[^key-83596900083bfc5a3f79ab014553da52]: Commencement: Sch. para. 4 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-83596900083bfc5a3f79ab014553da52]: Commencement: Sch. para. 4 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00072]: Footnote: [S.I. 2016/1257](https://www.legislation.gov.uk/uksi/2016/1257), amended by paragraph 446(1) of Schedule 24 to the Sentencing [Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17) and [S.I. 2017/1160](https://www.legislation.gov.uk/uksi/2017/1160), [2018/794](https://www.legislation.gov.uk/uksi/2018/794), [2020/354](https://www.legislation.gov.uk/uksi/2020/354), [712](https://www.legislation.gov.uk/uksi/2020/712), [1515](https://www.legislation.gov.uk/uksi/2020/1515), [2021/674](https://www.legislation.gov.uk/uksi/2021/674), [1168](https://www.legislation.gov.uk/uksi/2021/1168) and [2022/500](https://www.legislation.gov.uk/uksi/2022/500).
 
-[^key-45436638fc49b22f12d20232d01e6803]: Commencement: Sch. para. 5 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-45436638fc49b22f12d20232d01e6803]: Commencement: Sch. para. 5 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00068]: Footnote: [S.I. 2018/794](https://www.legislation.gov.uk/uksi/2018/794), amended by paragraph 439 of Schedule 24 to the Sentencing Act 2020 and [S.I. 2019/237](https://www.legislation.gov.uk/uksi/2019/237).
 
-[^key-c32ab89cf94d2352a2876d7bd3ade082]: Commencement: Sch. para. 6 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-c32ab89cf94d2352a2876d7bd3ade082]: Commencement: Sch. para. 6 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00069]: Footnote: [S.I. 2020/354](https://www.legislation.gov.uk/uksi/2020/354).
 
-[^key-38f8361236c8cd1f3c398a3b9b567878]: Commencement: Sch. para. 7 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-38f8361236c8cd1f3c398a3b9b567878]: Commencement: Sch. para. 7 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00070]: Footnote: [S.I. 2020/1515](https://www.legislation.gov.uk/uksi/2020/1515).
 
-[^key-df5b25bfc534065647bfe370546146e8]: Commencement: Sch. para. 8 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-df5b25bfc534065647bfe370546146e8]: Commencement: Sch. para. 8 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
 [^f00071]: Footnote: [S.I. 2022/500](https://www.legislation.gov.uk/uksi/2022/500) (c. 18).
 
-[^key-9a036f66571d1962ae2a6be78d6aec6a]: Commencement: Sch. para. 9 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
+[^c-9a036f66571d1962ae2a6be78d6aec6a]: Commencement: Sch. para. 9 in force at 1.12.2022, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2022/1134/regulation/1/b)
 
-[^key-324c1d86a44a7ece091d9822bc7d6ac2]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1134/schedule/2) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(7)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/7)
+[^c-324c1d86a44a7ece091d9822bc7d6ac2]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1134/schedule/2) inserted (1.1.2026) by [The Childcare (Miscellaneous Amendments) (Inspection Outcomes) (England) Regulations 2025 (S.I. 2025/1261)](https://www.legislation.gov.uk/uksi/2025/1261), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/1/b), [5(7)](https://www.legislation.gov.uk/uksi/2025/1261/regulation/5/7)

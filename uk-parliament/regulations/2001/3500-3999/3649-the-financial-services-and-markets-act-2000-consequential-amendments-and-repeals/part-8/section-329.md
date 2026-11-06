@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 329. Restriction on disclosure of information[^key-bd557976d8dba729813528f9c7c8dafd]
+## 329. Restriction on disclosure of information[^c-bd557976d8dba729813528f9c7c8dafd]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For paragraph (e) of section 204(2) of the Water Resources Act 1991 (restriction
 
 ## Annotations
 
-[^key-bd557976d8dba729813528f9c7c8dafd]: Commencement: Art. 329 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-bd557976d8dba729813528f9c7c8dafd]: Commencement: Art. 329 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

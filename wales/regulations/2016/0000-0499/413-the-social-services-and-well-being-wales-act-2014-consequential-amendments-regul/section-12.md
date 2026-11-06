@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**12.**[^key-5edbc7c1fd66c4559c0e5956b91f14c9] Omit the Schedule.
+**12.**[^c-5edbc7c1fd66c4559c0e5956b91f14c9] Omit the Schedule.
 
 ## Annotations
 
-[^key-5edbc7c1fd66c4559c0e5956b91f14c9]: Commencement: Reg. 12 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-5edbc7c1fd66c4559c0e5956b91f14c9]: Commencement: Reg. 12 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

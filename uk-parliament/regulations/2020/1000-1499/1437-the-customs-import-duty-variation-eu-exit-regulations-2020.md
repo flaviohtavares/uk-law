@@ -34,7 +34,7 @@ Exiting The European Union
 
 Customs
 
-The Customs (Import Duty Variation) (EU Exit) Regulations 2020 (revoked)[^key-8142e8bbeacbe3a306d8211bb38b8260]
+The Customs (Import Duty Variation) (EU Exit) Regulations 2020 (revoked)[^c-8142e8bbeacbe3a306d8211bb38b8260]
 
 Made
 
@@ -46,39 +46,39 @@ Laid before the House of Commons
 
 Coming into force in accordance with regulation 1
 
-[^key-8142e8bbeacbe3a306d8211bb38b8260]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8142e8bbeacbe3a306d8211bb38b8260]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-8142e8bbeacbe3a306d8211bb38b8260]
+## 1. Citation, commencement and application[^c-8142e8bbeacbe3a306d8211bb38b8260]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8142e8bbeacbe3a306d8211bb38b8260]
+## 2. Interpretation[^c-8142e8bbeacbe3a306d8211bb38b8260]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Additional duty[^key-8142e8bbeacbe3a306d8211bb38b8260]
+## 3. Additional duty[^c-8142e8bbeacbe3a306d8211bb38b8260]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Additional duty: exceptions[^key-8142e8bbeacbe3a306d8211bb38b8260]
+## 4. Additional duty: exceptions[^c-8142e8bbeacbe3a306d8211bb38b8260]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8142e8bbeacbe3a306d8211bb38b8260]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8142e8bbeacbe3a306d8211bb38b8260]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-8142e8bbeacbe3a306d8211bb38b8260]SCHEDULES
+[^c-8142e8bbeacbe3a306d8211bb38b8260]SCHEDULES
 
-## SCHEDULE 1 — Duty varied goods subject to additional duties[^key-8142e8bbeacbe3a306d8211bb38b8260]
+## SCHEDULE 1 — Duty varied goods subject to additional duties[^c-8142e8bbeacbe3a306d8211bb38b8260]
 
 Regulation 3(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Duty varied goods subject to additional duties[^key-8142e8bbeacbe3a306d8211bb38b8260]
+## SCHEDULE 2 — Duty varied goods subject to additional duties[^c-8142e8bbeacbe3a306d8211bb38b8260]
 
 Regulation 3(2)
 
@@ -102,4 +102,4 @@ This instrument is one of a group of instruments covered by an overarching Tax I
 
 ## Annotations
 
-[^key-8142e8bbeacbe3a306d8211bb38b8260]: Textual amendment: Regulations revoked (1.1.2022) by [The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489)](https://www.legislation.gov.uk/uksi/2021/1489), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1), [12](https://www.legislation.gov.uk/uksi/2021/1489/regulation/12)
+[^c-8142e8bbeacbe3a306d8211bb38b8260]: Textual amendment: Regulations revoked (1.1.2022) by [The Customs (Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1489)](https://www.legislation.gov.uk/uksi/2021/1489), [regs. 1](https://www.legislation.gov.uk/uksi/2021/1489/regulation/1), [12](https://www.legislation.gov.uk/uksi/2021/1489/regulation/12)

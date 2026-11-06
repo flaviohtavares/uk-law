@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Early exit pension charges[^key-06155a01eabb2f5598c52395a989e4df]
+## 35. Early exit pension charges[^c-06155a01eabb2f5598c52395a989e4df]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06155a01eabb2f5598c52395a989e4df]: Commencement: S. 35 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/z)
+[^c-06155a01eabb2f5598c52395a989e4df]: Commencement: S. 35 in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(z)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/z)

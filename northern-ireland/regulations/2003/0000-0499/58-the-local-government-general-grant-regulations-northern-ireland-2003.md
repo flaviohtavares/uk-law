@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT
 
-The Local Government (General Grant) Regulations (Northern Ireland) 2003 (revoked)[^key-3a815211fe17cd97df83de5d4c9474c1]
+The Local Government (General Grant) Regulations (Northern Ireland) 2003 (revoked)[^c-3a815211fe17cd97df83de5d4c9474c1]
 
 Made
 
@@ -43,66 +43,66 @@ Coming into operation
 
 1st April 2003
 
-[^key-3a815211fe17cd97df83de5d4c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a815211fe17cd97df83de5d4c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3a815211fe17cd97df83de5d4c9474c1]
+## 1. Citation and commencement[^c-3a815211fe17cd97df83de5d4c9474c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3a815211fe17cd97df83de5d4c9474c1]
+## 2. Interpretation[^c-3a815211fe17cd97df83de5d4c9474c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. General Grant[^key-3a815211fe17cd97df83de5d4c9474c1]
+## 3. General Grant[^c-3a815211fe17cd97df83de5d4c9474c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-3a815211fe17cd97df83de5d4c9474c1]
+## 4.[^c-3a815211fe17cd97df83de5d4c9474c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-3a815211fe17cd97df83de5d4c9474c1]
+## 5.[^c-3a815211fe17cd97df83de5d4c9474c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a815211fe17cd97df83de5d4c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3a815211fe17cd97df83de5d4c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-3a815211fe17cd97df83de5d4c9474c1]
+## SCHEDULE[^c-3a815211fe17cd97df83de5d4c9474c1]
 
 Regulations 3 and 5
 
-### PART I — general grant formula (the resources element)[^key-3a815211fe17cd97df83de5d4c9474c1]
+### PART I — general grant formula (the resources element)[^c-3a815211fe17cd97df83de5d4c9474c1]
 
-**1.**[^key-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — measures applied to adjust for additional needs[^key-3a815211fe17cd97df83de5d4c9474c1]
+### PART II — measures applied to adjust for additional needs[^c-3a815211fe17cd97df83de5d4c9474c1]
 
-**3.**[^key-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Extent of adjustment[^key-3a815211fe17cd97df83de5d4c9474c1]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 6. Population Adjustment Methodology[^key-3a815211fe17cd97df83de5d4c9474c1]
+#### 5. Extent of adjustment[^c-3a815211fe17cd97df83de5d4c9474c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART III — expenditure proforma[^key-3a815211fe17cd97df83de5d4c9474c1]
+#### 6. Population Adjustment Methodology[^c-3a815211fe17cd97df83de5d4c9474c1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3a815211fe17cd97df83de5d4c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3a815211fe17cd97df83de5d4c9474c1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART III — expenditure proforma[^c-3a815211fe17cd97df83de5d4c9474c1]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-3a815211fe17cd97df83de5d4c9474c1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3a815211fe17cd97df83de5d4c9474c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/58) revoked (1.11.2011) by [The Local Government (Rates Support Grant) Regulations (Northern Ireland) 2011 (S.R. 2011/375)](https://www.legislation.gov.uk/nisr/2011/375), [regs. 1](https://www.legislation.gov.uk/nisr/2011/375/regulation/1), [6](https://www.legislation.gov.uk/nisr/2011/375/regulation/6) (with [reg. 6](https://www.legislation.gov.uk/nisr/2011/375/regulation/6))
+[^c-3a815211fe17cd97df83de5d4c9474c1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/58) revoked (1.11.2011) by [The Local Government (Rates Support Grant) Regulations (Northern Ireland) 2011 (S.R. 2011/375)](https://www.legislation.gov.uk/nisr/2011/375), [regs. 1](https://www.legislation.gov.uk/nisr/2011/375/regulation/1), [6](https://www.legislation.gov.uk/nisr/2011/375/regulation/6) (with [reg. 6](https://www.legislation.gov.uk/nisr/2011/375/regulation/6))

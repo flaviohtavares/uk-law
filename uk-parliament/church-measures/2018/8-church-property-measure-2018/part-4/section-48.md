@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 48. References to land[^key-f35006131ac786c94c8280eda7b76cf9]
+## 48. References to land[^c-f35006131ac786c94c8280eda7b76cf9]
 
 *Extent: E*
 
@@ -65,7 +65,7 @@ summary: ''
 
 (11) A reference to granting land includes a reference to granting a leasehold interest in it; and a reference to buying or otherwise acquiring land includes a reference to taking a leasehold interest in it.
 
-(11A)[^key-c523450a1045c4e828b55c3c84072d84] A reference to disposing, in relation to land, has the same meaning as in the Law of Property Act 1925 (see section 205(1)(ii) of that Act).
+(11A)[^c-c523450a1045c4e828b55c3c84072d84] A reference to disposing, in relation to land, has the same meaning as in the Law of Property Act 1925 (see section 205(1)(ii) of that Act).
 
 (12) “**Lease**” includes an underlease and a tenancy; and a reference to a lease includes a reference to an agreement for lease.
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f35006131ac786c94c8280eda7b76cf9]: Commencement: [S. 48](https://www.legislation.gov.uk/ukcm/2018/8/section/48) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-f35006131ac786c94c8280eda7b76cf9]: Commencement: [S. 48](https://www.legislation.gov.uk/ukcm/2018/8/section/48) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-c523450a1045c4e828b55c3c84072d84]: Textual amendment: [S. 48(11A)](https://www.legislation.gov.uk/ukcm/2018/8/section/48/11A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 14(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/14/3), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-c523450a1045c4e828b55c3c84072d84]: Textual amendment: [S. 48(11A)](https://www.legislation.gov.uk/ukcm/2018/8/section/48/11A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 14(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/14/3), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

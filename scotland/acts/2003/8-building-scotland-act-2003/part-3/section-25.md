@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Building regulations compliance[^key-e006bace065ed2400cf8f448693feb41]
+## 25. Building regulations compliance[^c-e006bace065ed2400cf8f448693feb41]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ whether or not the notice has taken effect.
 
 ## Annotations
 
-[^key-e006bace065ed2400cf8f448693feb41]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2003/8/section/25) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-e006bace065ed2400cf8f448693feb41]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2003/8/section/25) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

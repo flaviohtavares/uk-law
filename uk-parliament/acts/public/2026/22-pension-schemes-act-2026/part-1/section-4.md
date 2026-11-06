@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Exemption from public procurement rules[^key-62230292c5348731ff9fbac86840e180]
+## 4. Exemption from public procurement rules[^c-62230292c5348731ff9fbac86840e180]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ After paragraph 2 of Schedule 2 to the Procurement Act 2023 (general vertical ar
 
 ## Annotations
 
-[^key-62230292c5348731ff9fbac86840e180]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-62230292c5348731ff9fbac86840e180]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

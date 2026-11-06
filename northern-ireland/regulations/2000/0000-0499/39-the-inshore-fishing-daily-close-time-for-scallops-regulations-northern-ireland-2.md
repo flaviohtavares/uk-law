@@ -31,7 +31,7 @@ summary: ''
 
 SEA FISHERIES
 
-The Inshore Fishing (Daily Close Time for Scallops) Regulations (Northern Ireland) 2000 (revoked)[^key-efbaa26be69c343ed9cc497514d0d793]
+The Inshore Fishing (Daily Close Time for Scallops) Regulations (Northern Ireland) 2000 (revoked)[^c-efbaa26be69c343ed9cc497514d0d793]
 
 Made
 
@@ -41,32 +41,32 @@ Coming into operation
 
 29th February 2000
 
-[^key-efbaa26be69c343ed9cc497514d0d793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efbaa26be69c343ed9cc497514d0d793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-efbaa26be69c343ed9cc497514d0d793]
+## 1. Citation and commencement[^c-efbaa26be69c343ed9cc497514d0d793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-efbaa26be69c343ed9cc497514d0d793]
+## 2. Interpretation[^c-efbaa26be69c343ed9cc497514d0d793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of scallop fishing[^key-efbaa26be69c343ed9cc497514d0d793]
+## 3. Prohibition of scallop fishing[^c-efbaa26be69c343ed9cc497514d0d793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption[^key-efbaa26be69c343ed9cc497514d0d793]
+## 4. Exemption[^c-efbaa26be69c343ed9cc497514d0d793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-efbaa26be69c343ed9cc497514d0d793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efbaa26be69c343ed9cc497514d0d793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-efbaa26be69c343ed9cc497514d0d793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efbaa26be69c343ed9cc497514d0d793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efbaa26be69c343ed9cc497514d0d793]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/39) revoked (17.11.2008) by [Conservation of Scallops Regulations (Northern Ireland) 2008 (S.R. 2008/430)](https://www.legislation.gov.uk/nisr/2008/430), [regs. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2008/430/regulation/5/c)
+[^c-efbaa26be69c343ed9cc497514d0d793]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/39) revoked (17.11.2008) by [Conservation of Scallops Regulations (Northern Ireland) 2008 (S.R. 2008/430)](https://www.legislation.gov.uk/nisr/2008/430), [regs. 1](https://www.legislation.gov.uk/nisr/2008/430/regulation/1), [5(c)](https://www.legislation.gov.uk/nisr/2008/430/regulation/5/c)

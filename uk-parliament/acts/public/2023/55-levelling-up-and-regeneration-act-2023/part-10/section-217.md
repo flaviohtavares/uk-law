@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 217. Power to modify or disapply enactments applicable to letting[^key-bd5f39574abe1cc3d4c62fb26c8baf04][^key-c47e25dd1574b3bda3fe11ebb8a27056]
+## 217. Power to modify or disapply enactments applicable to letting[^c-bd5f39574abe1cc3d4c62fb26c8baf04][^c-c47e25dd1574b3bda3fe11ebb8a27056]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ in relation to a tenancy granted (or to be granted) further to a contract entere
 
 ## Annotations
 
-[^key-bd5f39574abe1cc3d4c62fb26c8baf04]: Commencement: S. 217 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-bd5f39574abe1cc3d4c62fb26c8baf04]: Commencement: S. 217 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-c47e25dd1574b3bda3fe11ebb8a27056]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2023/55/section/217) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/g)
+[^c-c47e25dd1574b3bda3fe11ebb8a27056]: Commencement: [S. 217](https://www.legislation.gov.uk/ukpga/2023/55/section/217) in force at 2.12.2024 by [S.I. 2024/1138](https://www.legislation.gov.uk/uksi/2024/1138), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1138/regulation/2/g)

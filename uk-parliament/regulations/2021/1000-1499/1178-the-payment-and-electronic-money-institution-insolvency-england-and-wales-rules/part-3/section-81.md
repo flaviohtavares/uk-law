@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Procedure for requests that a place for a meeting should be specified[^key-95d42958b23a133e09641ebe6347591d]
+## 81. Procedure for requests that a place for a meeting should be specified[^c-95d42958b23a133e09641ebe6347591d]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95d42958b23a133e09641ebe6347591d]: Commencement: Rule 81 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-95d42958b23a133e09641ebe6347591d]: Commencement: Rule 81 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

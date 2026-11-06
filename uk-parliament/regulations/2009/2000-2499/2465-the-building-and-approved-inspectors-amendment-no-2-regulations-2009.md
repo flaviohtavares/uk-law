@@ -32,7 +32,7 @@ summary: ''
 
 Building And Buildings, England And Wales
 
-The Building and Approved Inspectors (Amendment No.2) Regulations 2009 (revoked)[^key-6d8d2439008364a68f497dc74735e126]
+The Building and Approved Inspectors (Amendment No.2) Regulations 2009 (revoked)[^c-6d8d2439008364a68f497dc74735e126]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 30th September 2009
 
-[^key-6d8d2439008364a68f497dc74735e126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d8d2439008364a68f497dc74735e126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6d8d2439008364a68f497dc74735e126]
+## 1. Citation and commencement[^c-6d8d2439008364a68f497dc74735e126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Building and Approved Inspectors (Amendment) Regulations 2009[^key-6d8d2439008364a68f497dc74735e126]
+## 2. Amendments to the Building and Approved Inspectors (Amendment) Regulations 2009[^c-6d8d2439008364a68f497dc74735e126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Building (Amendment No.2) Regulations 2009[^key-6d8d2439008364a68f497dc74735e126]
+## 3. Amendments to the Building (Amendment No.2) Regulations 2009[^c-6d8d2439008364a68f497dc74735e126]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d8d2439008364a68f497dc74735e126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d8d2439008364a68f497dc74735e126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6d8d2439008364a68f497dc74735e126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d8d2439008364a68f497dc74735e126]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d8d2439008364a68f497dc74735e126]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2465) revoked (1.10.2010) by [The Building Regulations 2010 (S.I. 2010/2214)](https://www.legislation.gov.uk/uksi/2010/2214), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2214/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/2214/schedule/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2010/2214/regulation/9))
+[^c-6d8d2439008364a68f497dc74735e126]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2465) revoked (1.10.2010) by [The Building Regulations 2010 (S.I. 2010/2214)](https://www.legislation.gov.uk/uksi/2010/2214), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2214/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2010/2214/schedule/5) (with [reg. 9](https://www.legislation.gov.uk/uksi/2010/2214/regulation/9))

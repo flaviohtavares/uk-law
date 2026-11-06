@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Provost Marshal's duty in relation to independence of investigations[^key-46a2ad69dae7774b6c85040a6bb49f02]
+## 3. Provost Marshal's duty in relation to independence of investigations[^c-46a2ad69dae7774b6c85040a6bb49f02]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ After section 115 of AFA 2006 insert—
 
 ## Annotations
 
-[^key-46a2ad69dae7774b6c85040a6bb49f02]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/18/section/3) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)
+[^c-46a2ad69dae7774b6c85040a6bb49f02]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2011/18/section/3) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/669/article/4/a)

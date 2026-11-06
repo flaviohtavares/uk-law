@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 7, 42, 56, 88(3A), 102(4), 114(2), 123(4) and 232(3)(b) of, and paragraphs 2 and 4 of Schedule 6 to, the Planning Act 2008[^f00001] makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-30b7582a4ac0c3deb8b6b6f9dca0b957]
+## 1. Citation, commencement and interpretation[^c-30b7582a4ac0c3deb8b6b6f9dca0b957]
 
 (1) These Regulations may be cited as the Infrastructure Planning (Prescribed Consultees and Interested Parties etc.) (Amendment) Regulations 2013.
 
@@ -57,7 +57,7 @@ The Secretary of State, in exercise of the powers conferred by sections 7, 42, 5
 - (a) “the 2009 Regulations” means the Infrastructure Planning (Environmental Impact Assessment) Regulations 2009[^f00002]; and
 - (b) “project” means a nationally significant infrastructure project.
 
-## 2. Amendments to the Infrastructure Planning (National Policy Statement Consultation) Regulations 2009[^key-6cf42fb34bdadf24aaec30e2eec8f927]
+## 2. Amendments to the Infrastructure Planning (National Policy Statement Consultation) Regulations 2009[^c-6cf42fb34bdadf24aaec30e2eec8f927]
 
 (1) The Infrastructure Planning (National Policy Statement Consultation) Regulations 2009[^f00003] are amended as follows.
 
@@ -107,7 +107,7 @@ The Secretary of State, in exercise of the powers conferred by sections 7, 42, 5
     > | local health board | Where a NPS is likely to affect Wales |
     > | The National Health Service Trusts | Where a NPS is likely to affect Wales |
 
-## 3. Amendments to the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^key-0eaa738da31d4e6698bee1df3ca0fb39]
+## 3. Amendments to the Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^c-0eaa738da31d4e6698bee1df3ca0fb39]
 
 (1) The Infrastructure Planning (Applications: Prescribed Forms and Procedure) Regulations 2009[^f00008] are amended as follows.
 
@@ -186,11 +186,11 @@ The Secretary of State, in exercise of the powers conferred by sections 7, 42, 5
 
     .
 
-## 4. Amendments to the Infrastructure Planning (Interested Parties) Regulations 2010[^key-bda589532504d369c345a240cecbab2f]
+## 4. Amendments to the Infrastructure Planning (Interested Parties) Regulations 2010[^c-bda589532504d369c345a240cecbab2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^key-5841c849bb0f29ed8f6f41b26be22e07]
+## 5. Amendments to the Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^c-5841c849bb0f29ed8f6f41b26be22e07]
 
 (1) The Infrastructure Planning (Compulsory Acquisition) Regulations 2010[^f00013] are amended as follows.
 
@@ -268,7 +268,7 @@ The Secretary of State, in exercise of the powers conferred by sections 7, 42, 5
 
     .
 
-## 6. Amendments to the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^key-24d670e532064d1a5714aa4d8ad782cb]
+## 6. Amendments to the Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^c-24d670e532064d1a5714aa4d8ad782cb]
 
 (1) The Infrastructure Planning (Changes to, and Revocation of, Development Consent Orders) Regulations 2011[^f00014] are amended as follows.
 
@@ -349,7 +349,7 @@ The Secretary of State, in exercise of the powers conferred by sections 7, 42, 5
 
     .
 
-## 7. Transitional and savings[^key-9ecae235d11f9c59de334843d7b3c9ba]
+## 7. Transitional and savings[^c-9ecae235d11f9c59de334843d7b3c9ba]
 
 (1) Where, before 6th April 2013, the Secretary of State has been notified under section 46 of the Planning Act 2008[^f00015] in relation to an application or proposed application for an order granting development consent, then—
 
@@ -409,11 +409,11 @@ No Impact Assessment has been prepared for these Regulations but an Impact Asses
 
 [^f00001]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Section 42 was amended by section 23(1) and (2) of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23); section 56 was amended by section 23(1) and (5) of the Marine and Coastal Access Act [2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23) and section 128(2), 138(1) and (2) of, and paragraphs 1 and 14 of Schedule 13 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); section 102(4) was amended by section 128(2) of, and paragraphs 1 and 47 of Schedule 13 to, the Localism Act 2011; section 114(2) was amended by section 128(2) to, and paragraphs 1 and 55 of Schedule 13 to, the Localism Act 2011; paragraphs 2 and 4 of Schedule 6 were amended by section 128(2) of, and paragraphs 1 and 72 of Schedule 13 to, the Localism Act 2011 and section 112(1) of, and paragraph 4 of Schedule 8 to, the Marine and Coastal Access Act 2009 .
 
-[^key-30b7582a4ac0c3deb8b6b6f9dca0b957]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/522/regulation/1) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
+[^c-30b7582a4ac0c3deb8b6b6f9dca0b957]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2013/522/regulation/1) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2009/2263](https://www.legislation.gov.uk/uksi/2009/2263); amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635) and [S.I. 2012/787](https://www.legislation.gov.uk/uksi/2012/787). There are other amending instruments but none are relevant to these Regulations.
 
-[^key-6cf42fb34bdadf24aaec30e2eec8f927]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/522/regulation/2) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
+[^c-6cf42fb34bdadf24aaec30e2eec8f927]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2013/522/regulation/2) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2009/1302](https://www.legislation.gov.uk/uksi/2009/1302); amended by [S.I. 2010/439](https://www.legislation.gov.uk/uksi/2010/439), [S.I. 2010/602](https://www.legislation.gov.uk/uksi/2010/602), [S.I. 2012/2654](https://www.legislation.gov.uk/uksi/2012/2654) (coming into force on 1st April 2013) and [S.I. 2012/2732](https://www.legislation.gov.uk/uksi/2012/2732).
 
@@ -425,7 +425,7 @@ No Impact Assessment has been prepared for these Regulations but an Impact Asses
 
 [^f00007]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-0eaa738da31d4e6698bee1df3ca0fb39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/522/regulation/3) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
+[^c-0eaa738da31d4e6698bee1df3ca0fb39]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2013/522/regulation/3) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2009/2264](https://www.legislation.gov.uk/uksi/2009/2264); amended by [S.I. 2010/439](https://www.legislation.gov.uk/uksi/2010/439), [S.I. 2010/602](https://www.legislation.gov.uk/uksi/2010/602), [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635), [S.I. 2012/2654](https://www.legislation.gov.uk/uksi/2012/2654) (coming into force on 1st April 2013) and [S.I. 2012/2732](https://www.legislation.gov.uk/uksi/2012/2732).
 
@@ -433,16 +433,16 @@ No Impact Assessment has been prepared for these Regulations but an Impact Asses
 
 [^f00010]: Footnote: [S.I. 2010/2184](https://www.legislation.gov.uk/uksi/2010/2184). There are amendments but none are relevant to these Regulations.
 
-[^key-bda589532504d369c345a240cecbab2f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/522/regulation/4) revoked (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))
+[^c-bda589532504d369c345a240cecbab2f]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2013/522/regulation/4) revoked (6.4.2015) by [The Infrastructure Planning (Interested Parties and Miscellaneous Prescribed Provisions) Regulations 2015 (S.I. 2015/462)](https://www.legislation.gov.uk/uksi/2015/462), [reg. 1](https://www.legislation.gov.uk/uksi/2015/462/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/462/schedule/3) (with [reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/462/regulation/10/2))
 
-[^key-5841c849bb0f29ed8f6f41b26be22e07]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/522/regulation/5) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
+[^c-5841c849bb0f29ed8f6f41b26be22e07]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2013/522/regulation/5) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2010/104](https://www.legislation.gov.uk/uksi/2010/104); amended by [S.I. 2011/2055](https://www.legislation.gov.uk/uksi/2011/2055), [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635), [S.I. 2012/2654](https://www.legislation.gov.uk/uksi/2012/2654) (coming into force on 1st April 2013) and [S.I. 2012/2372](https://www.legislation.gov.uk/uksi/2012/2372).
 
-[^key-24d670e532064d1a5714aa4d8ad782cb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/522/regulation/6) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
+[^c-24d670e532064d1a5714aa4d8ad782cb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2013/522/regulation/6) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2011/2055](https://www.legislation.gov.uk/uksi/2011/2055); amended by [S.I. 2012/635](https://www.legislation.gov.uk/uksi/2012/635), [S.I. 2012/2654](https://www.legislation.gov.uk/uksi/2012/2654) (coming into force on 1st April 2013) and [S.I. 2012/2732](https://www.legislation.gov.uk/uksi/2012/2732)
 
-[^key-9ecae235d11f9c59de334843d7b3c9ba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/522/regulation/7) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
+[^c-9ecae235d11f9c59de334843d7b3c9ba]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2013/522/regulation/7) in force at 6.4.2013, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/522/regulation/1/2)
 
 [^f00015]: Footnote: [2008 c. 29](https://www.legislation.gov.uk/ukpga/2008/29). Section 46 was amended by section 128(2) of, and paragraphs 1 and 8 of Schedule 13 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).

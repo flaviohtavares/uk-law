@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Conduct of the rent assessment or the assessment of money payable in lieu of rent[^key-a74882e41a6b4850abbbcfc14553577d]
+## 21. Conduct of the rent assessment or the assessment of money payable in lieu of rent[^c-a74882e41a6b4850abbbcfc14553577d]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a74882e41a6b4850abbbcfc14553577d]: Commencement: Reg. 21 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-a74882e41a6b4850abbbcfc14553577d]: Commencement: Reg. 21 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

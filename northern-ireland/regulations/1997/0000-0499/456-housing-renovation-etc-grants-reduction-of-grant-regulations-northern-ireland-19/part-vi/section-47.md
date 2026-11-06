@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Revocations[^key-01ef7d3a581c70e76e1193b8adfb8b15]
+## 47. Revocations[^c-01ef7d3a581c70e76e1193b8adfb8b15]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Regulations listed in Schedule 5 are hereby revoked.
 
 ## Annotations
 
-[^key-01ef7d3a581c70e76e1193b8adfb8b15]: Commencement: Reg. 47 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-01ef7d3a581c70e76e1193b8adfb8b15]: Commencement: Reg. 47 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

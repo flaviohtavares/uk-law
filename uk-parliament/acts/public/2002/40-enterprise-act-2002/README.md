@@ -33,15 +33,15 @@ An Act to establish and provide for the functions of the Office of Fair Trading,
 
 \[7th November 2002\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ad887f24026c887092718e1eba3d92cb]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ad887f24026c887092718e1eba3d92cb]
 
 ## Contents
 
-### Part 1 — General functions of the CMA[^key-1a54d649f7bb4260dc9c39ae00560704][^key-43192c49fe73addabc812a8b1f67393b]
+### Part 1 — General functions of the CMA[^c-1a54d649f7bb4260dc9c39ae00560704][^c-43192c49fe73addabc812a8b1f67393b]
 
 *Extent: E+W+S+N.I.*
 
-#### ...[^key-40da60d2f5efb7deedfdd087c6273292]
+#### ...[^c-40da60d2f5efb7deedfdd087c6273292]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 3 — Annual plan](part-1/section-3.md)
 - [Section 4 — Annual and other reports](part-1/section-4.md)
 
-#### General functions of the CMA[^key-d4576314969456fbc6ea6966d288799e]
+#### General functions of the CMA[^c-d4576314969456fbc6ea6966d288799e]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,11 +87,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 20 — Findings of infringements](part-2/section-20.md)
 - [Section 21 — Amendment of 1998 Act relating to the Tribunal](part-2/section-21.md)
 
-### Part 3 — Mergers[^c17812571][^M_C_e41a282e-43b7-41c2-a2c1-07f799764dfa][^M_C_d8a0b064-0e8a-4992-e482-e341c202e808][^M_C_dc019ca9-e953-4884-9f64-0beb0d5922b4][^M_C_6ddc54b4-3045-4780-bc9e-33654a3854fc][^key-121e6a6deefef70d500e09eac994592f][^key-fbaa9257963a44a11ed14d7588407fdd][^key-a1ca3fb6bab80dc78ce3a2acc2f2da29][^key-35f70455b1b4affc8dd9ba46b9d90d9e][^key-af737f1079fbbf6a8d84ced806592f17][^key-a6f5858aa3648fdf5a0136d8f76fceb6][^key-a97eb002287c5864de43d5464d27f284][^key-bc71232ee232d992bd66f451fbbb2ead]
+### Part 3 — Mergers[^c17812571][^M_C_e41a282e-43b7-41c2-a2c1-07f799764dfa][^M_C_d8a0b064-0e8a-4992-e482-e341c202e808][^M_C_dc019ca9-e953-4884-9f64-0beb0d5922b4][^M_C_6ddc54b4-3045-4780-bc9e-33654a3854fc][^c-121e6a6deefef70d500e09eac994592f][^c-fbaa9257963a44a11ed14d7588407fdd][^c-a1ca3fb6bab80dc78ce3a2acc2f2da29][^c-35f70455b1b4affc8dd9ba46b9d90d9e][^c-af737f1079fbbf6a8d84ced806592f17][^c-a6f5858aa3648fdf5a0136d8f76fceb6][^c-a97eb002287c5864de43d5464d27f284][^c-bc71232ee232d992bd66f451fbbb2ead]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Duty to make references[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29][^key-35f70455b1b4affc8dd9ba46b9d90d9e]
+#### Chapter 1 — Duty to make references[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29][^c-35f70455b1b4affc8dd9ba46b9d90d9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -123,7 +123,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 34ZE — Fast-track reference requests: procedure](part-3/section-34ze.md)
 - [Section 34ZF — Acceptance by the CMA of fast-track reference requests](part-3/section-34zf.md)
 
-##### ...[^key-51ebbe6a40e243751b19ccf1cbed779a]
+##### ...[^c-51ebbe6a40e243751b19ccf1cbed779a]
 
 *Extent: E+W+S+N.I.*
 
@@ -145,7 +145,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 41A — Time-limit for discharging duty under section 41](part-3/section-41a.md)
 - [Section 41B — Section 41A: supplementary](part-3/section-41b.md)
 
-#### Chapter 2 — Public interest cases[^key-35f70455b1b4affc8dd9ba46b9d90d9e]
+#### Chapter 2 — Public interest cases[^c-35f70455b1b4affc8dd9ba46b9d90d9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -160,7 +160,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 45 — Power of Secretary of State to refer matter to CMA](part-3/section-45.md)
 - [Section 46 — References under section 45: supplementary](part-3/section-46.md)
 
-##### ...[^key-99a9975f9610717128205c39c6a29587]
+##### ...[^c-99a9975f9610717128205c39c6a29587]
 
 *Extent: E+W+S+N.I.*
 
@@ -213,14 +213,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 65 — Investigations and reports on references under section 62](part-3/section-65.md)
 - [Section 66 — Decision and enforcement action by Secretary of State](part-3/section-66.md)
 
-##### ...[^key-95a00aefb86faaeadc7b26d0058b501b]
+##### ...[^c-95a00aefb86faaeadc7b26d0058b501b]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 67 — Intervention to protect legitimate interests](part-3/section-67.md)
 - [Section 68 — Scheme for protecting legitimate interests](part-3/section-68.md)
 
-##### Mergers of energy network enterprises in Great Britain[^key-f78eda3a46e82fb17efdb7ed362a0992]
+##### Mergers of energy network enterprises in Great Britain[^c-f78eda3a46e82fb17efdb7ed362a0992]
 
 - [Section 68A — Relevant merger situations involving energy network mergers](part-3/section-68a.md)
 - [Section 68B — Further duty to make references in relation to completed mergers](part-3/section-68b.md)
@@ -234,7 +234,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 69 — Newspaper mergers](part-3/section-69.md)
 - [Section 70 — Water mergers](part-3/section-70.md)
 
-#### Chapter 3A — Mergers involving newspaper enterprises and foreign powers[^key-8adf765414ce0d9accbf79b875f46cbf]
+#### Chapter 3A — Mergers involving newspaper enterprises and foreign powers[^c-8adf765414ce0d9accbf79b875f46cbf]
 
 - [Section 70A — Intervention by the Secretary of State](part-3/section-70a.md)
 - [Section 70B — Investigation and report by the CMA](part-3/section-70b.md)
@@ -244,9 +244,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 70F — Other interpretation](part-3/section-70f.md)
 - [Section 70G — Regulations](part-3/section-70g.md)
 
-#### Chapter 4 — Enforcement[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]
+#### Chapter 4 — Enforcement[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]
 
-##### Powers exercisable before references under section 22, 33, 68B or 68C[^key-ca93e72c29ebe6f4de6eaf03ff0d2902]
+##### Powers exercisable before references under section 22, 33, 68B or 68C[^c-ca93e72c29ebe6f4de6eaf03ff0d2902]
 
 *Extent: E+W+S+N.I.*
 
@@ -286,7 +286,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 90 — Procedural requirements for certain undertakings and orders](part-3/section-90.md)
 - [Section 91 — Register of undertakings and orders](part-3/section-91.md)
 
-##### Enforcement functions of CMA[^key-3eddd925bc03d44b6a870af99cb791ca]
+##### Enforcement functions of CMA[^c-3eddd925bc03d44b6a870af99cb791ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -304,12 +304,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 94B — Statement of policy in relation to functions under sections 94 and 94AA](part-3/section-94b.md)
 - [Section 95 — Rights to enforce statutory restrictions](part-3/section-95.md)
 
-##### Transferred EU merger commitments[^key-e65499964f67b5ca84b2cc62aeadaeb0]
+##### Transferred EU merger commitments[^c-e65499964f67b5ca84b2cc62aeadaeb0]
 
 - [Section 95A — Transferred EU merger commitments](part-3/section-95a.md)
 - [Section 95B — Power of directions in connection with transferred EU merger commitments](part-3/section-95b.md)
 
-#### Chapter 5 — Supplementary[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]
+#### Chapter 5 — Supplementary[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]
 
 *Extent: E+W+S+N.I.*
 
@@ -390,15 +390,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 129 — Other interpretation provisions](part-3/section-129.md)
 - [Section 130 — Index of defined expressions](part-3/section-130.md)
 
-### Part 4 — Market Studies and Market Investigations[^c16774621][^c16774601][^c16774561][^c16774541][^c16774521][^c16774501][^c16774461][^c16774481][^key-a85f8f5a789a7c5e8f9e35ec0e0a82da][^key-f03f3a94d5c33a6ba05ae1d1af53c3db][^key-af055fb84e4d177f593aa3f66078afc2][^key-09d06afbc2cbc93b9b881fd8f77500df][^key-fed6fdf2935d8405c3bbcae834e6b94e][^key-6c0879fc326fa811b7bc2f4671be5778][^key-0959ef6758f345563a2350268d6e2a4a][^key-f6c728f2e5d7a606127d48ec5368a69f][^key-90a8de1f94ac259959e6ab4148c7cff5][^key-4b49b26b1471a40198c989e3d7c8e333][^key-62783f861881363501a5f386e6d11a03][^key-a0230f567bb67f0457bb47d1f8ff5d19][^key-ef0583fda1df6240107eaa7e9375872a][^key-f73bb9f1c4199a05ef93fce795e5b483][^key-1b5f6ded8b21dd63217566ab34639a1c][^key-4fd943b474e7fc8a37d023d9555618c1]
+### Part 4 — Market Studies and Market Investigations[^c16774621][^c16774601][^c16774561][^c16774541][^c16774521][^c16774501][^c16774461][^c16774481][^c-a85f8f5a789a7c5e8f9e35ec0e0a82da][^c-f03f3a94d5c33a6ba05ae1d1af53c3db][^c-af055fb84e4d177f593aa3f66078afc2][^c-09d06afbc2cbc93b9b881fd8f77500df][^c-fed6fdf2935d8405c3bbcae834e6b94e][^c-6c0879fc326fa811b7bc2f4671be5778][^c-0959ef6758f345563a2350268d6e2a4a][^c-f6c728f2e5d7a606127d48ec5368a69f][^c-90a8de1f94ac259959e6ab4148c7cff5][^c-4b49b26b1471a40198c989e3d7c8e333][^c-62783f861881363501a5f386e6d11a03][^c-a0230f567bb67f0457bb47d1f8ff5d19][^c-ef0583fda1df6240107eaa7e9375872a][^c-f73bb9f1c4199a05ef93fce795e5b483][^c-1b5f6ded8b21dd63217566ab34639a1c][^c-4fd943b474e7fc8a37d023d9555618c1]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Market Studies and market investigation references[^key-09d06afbc2cbc93b9b881fd8f77500df][^key-fed6fdf2935d8405c3bbcae834e6b94e][^key-6c0879fc326fa811b7bc2f4671be5778][^key-0959ef6758f345563a2350268d6e2a4a][^key-f6c728f2e5d7a606127d48ec5368a69f][^key-90a8de1f94ac259959e6ab4148c7cff5][^key-4b49b26b1471a40198c989e3d7c8e333][^key-62783f861881363501a5f386e6d11a03][^key-a0230f567bb67f0457bb47d1f8ff5d19][^key-ef0583fda1df6240107eaa7e9375872a][^key-0ba75a05676b7e4619fbf7bb41de5b36]
+#### Chapter 1 — Market Studies and market investigation references[^c-09d06afbc2cbc93b9b881fd8f77500df][^c-fed6fdf2935d8405c3bbcae834e6b94e][^c-6c0879fc326fa811b7bc2f4671be5778][^c-0959ef6758f345563a2350268d6e2a4a][^c-f6c728f2e5d7a606127d48ec5368a69f][^c-90a8de1f94ac259959e6ab4148c7cff5][^c-4b49b26b1471a40198c989e3d7c8e333][^c-62783f861881363501a5f386e6d11a03][^c-a0230f567bb67f0457bb47d1f8ff5d19][^c-ef0583fda1df6240107eaa7e9375872a][^c-0ba75a05676b7e4619fbf7bb41de5b36]
 
 *Extent: E+W+S+N.I.*
 
-##### Market studies[^key-30c1d0760c11aaf7d9845dd6b695a887]
+##### Market studies[^c-30c1d0760c11aaf7d9845dd6b695a887]
 
 - [Section 130A — Duty to publish market study notice](part-4/section-130a.md)
 
@@ -426,7 +426,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 138A — Time-limits for discharging duty under section 138](part-4/section-138a.md)
 - [Section 138B — Section 138A: supplementary](part-4/section-138b.md)
 
-#### Chapter 2 — Public interest cases[^key-09d06afbc2cbc93b9b881fd8f77500df][^key-fed6fdf2935d8405c3bbcae834e6b94e][^key-6c0879fc326fa811b7bc2f4671be5778][^key-0959ef6758f345563a2350268d6e2a4a][^key-f6c728f2e5d7a606127d48ec5368a69f][^key-90a8de1f94ac259959e6ab4148c7cff5][^key-4b49b26b1471a40198c989e3d7c8e333][^key-62783f861881363501a5f386e6d11a03][^key-a0230f567bb67f0457bb47d1f8ff5d19]
+#### Chapter 2 — Public interest cases[^c-09d06afbc2cbc93b9b881fd8f77500df][^c-fed6fdf2935d8405c3bbcae834e6b94e][^c-6c0879fc326fa811b7bc2f4671be5778][^c-0959ef6758f345563a2350268d6e2a4a][^c-f6c728f2e5d7a606127d48ec5368a69f][^c-90a8de1f94ac259959e6ab4148c7cff5][^c-4b49b26b1471a40198c989e3d7c8e333][^c-62783f861881363501a5f386e6d11a03][^c-a0230f567bb67f0457bb47d1f8ff5d19]
 
 ##### Intervention notices
 
@@ -465,38 +465,38 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 152 — Certain duties of CMA](part-4/section-152.md)
 - [Section 153 — Specified considerations: Part 4](part-4/section-153.md)
 
-#### Chapter 3 — Enforcement[^key-09d06afbc2cbc93b9b881fd8f77500df][^key-fed6fdf2935d8405c3bbcae834e6b94e][^key-6c0879fc326fa811b7bc2f4671be5778][^key-0959ef6758f345563a2350268d6e2a4a][^key-f6c728f2e5d7a606127d48ec5368a69f][^key-90a8de1f94ac259959e6ab4148c7cff5][^key-4b49b26b1471a40198c989e3d7c8e333][^key-62783f861881363501a5f386e6d11a03][^key-a0230f567bb67f0457bb47d1f8ff5d19]
+#### Chapter 3 — Enforcement[^c-09d06afbc2cbc93b9b881fd8f77500df][^c-fed6fdf2935d8405c3bbcae834e6b94e][^c-6c0879fc326fa811b7bc2f4671be5778][^c-0959ef6758f345563a2350268d6e2a4a][^c-f6c728f2e5d7a606127d48ec5368a69f][^c-90a8de1f94ac259959e6ab4148c7cff5][^c-4b49b26b1471a40198c989e3d7c8e333][^c-62783f861881363501a5f386e6d11a03][^c-a0230f567bb67f0457bb47d1f8ff5d19]
 
-##### ...[^key-1a5d432544ca93738b1960e085e475ac]
+##### ...[^c-1a5d432544ca93738b1960e085e475ac]
 
 - [Section 154 — Undertakings in lieu of market investigation references](part-4/section-154.md)
 
-##### Undertakings in lieu[^key-1a5d432544ca93738b1960e085e475ac]
+##### Undertakings in lieu[^c-1a5d432544ca93738b1960e085e475ac]
 
 - [Section 154A — Undertakings fully or partially in lieu of references or reports](part-4/section-154a.md)
 - [Section 155 — Undertakings in lieu: procedural requirements](part-4/section-155.md)
 - [Section 156 — Effect of undertakings in lieu](part-4/section-156.md)
 
-##### Interim undertakings and orders[^key-f976060ce31882ecc5f934e0a53444c8]
+##### Interim undertakings and orders[^c-f976060ce31882ecc5f934e0a53444c8]
 
 - [Section 157 — Interim undertakings: Part 4](part-4/section-157.md)
 - [Section 158 — Interim orders: Part 4](part-4/section-158.md)
 
-##### Final undertakings and orders[^key-83e53fbaa016f4fee4dc250f890514c1]
+##### Final undertakings and orders[^c-83e53fbaa016f4fee4dc250f890514c1]
 
 - [Section 159 — Final undertakings: Part 4](part-4/section-159.md)
 - [Section 160 — Order-making power where final undertakings not fulfilled: Part 4](part-4/section-160.md)
 - [Section 161 — Final orders: Part 4](part-4/section-161.md)
 - [Section 161A — Acceptance of enforcement undertakings: Part 4](part-4/section-161a.md)
 
-##### Implementation trials of final orders and undertakings[^key-8a70276f4fe3dbcc17b3607f36f116b9]
+##### Implementation trials of final orders and undertakings[^c-8a70276f4fe3dbcc17b3607f36f116b9]
 
 - [Section 161B — Implementation trials: purpose and interpretation](part-4/section-161b.md)
 - [Section 161C — Power to conduct implementation trials](part-4/section-161c.md)
 - [Section 161D — Implementation trials: notices](part-4/section-161d.md)
 - [Section 161E — Implementation trials: supplementary](part-4/section-161e.md)
 
-##### Undertakings and orders: monitoring, consultation and advice[^key-4b9e16da2adb26a0f187459e82149a8e]
+##### Undertakings and orders: monitoring, consultation and advice[^c-4b9e16da2adb26a0f187459e82149a8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -515,7 +515,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 167B — Penalties under section 167A: amount](part-4/section-167b.md)
 - [Section 167C — Statement of policy in relation to functions under sections 167 and 167A](part-4/section-167c.md)
 
-#### Chapter 4 — Supplementary[^key-09d06afbc2cbc93b9b881fd8f77500df][^key-fed6fdf2935d8405c3bbcae834e6b94e][^key-6c0879fc326fa811b7bc2f4671be5778][^key-0959ef6758f345563a2350268d6e2a4a][^key-f6c728f2e5d7a606127d48ec5368a69f][^key-90a8de1f94ac259959e6ab4148c7cff5][^key-4b49b26b1471a40198c989e3d7c8e333][^key-62783f861881363501a5f386e6d11a03][^key-a0230f567bb67f0457bb47d1f8ff5d19]
+#### Chapter 4 — Supplementary[^c-09d06afbc2cbc93b9b881fd8f77500df][^c-fed6fdf2935d8405c3bbcae834e6b94e][^c-6c0879fc326fa811b7bc2f4671be5778][^c-0959ef6758f345563a2350268d6e2a4a][^c-f6c728f2e5d7a606127d48ec5368a69f][^c-90a8de1f94ac259959e6ab4148c7cff5][^c-4b49b26b1471a40198c989e3d7c8e333][^c-62783f861881363501a5f386e6d11a03][^c-a0230f567bb67f0457bb47d1f8ff5d19]
 
 ##### Regulated markets
 
@@ -617,13 +617,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 208 — Repeal of Part 6 of Fair Trading Act 1973](part-7/section-208.md)
 - [Section 209 — Reform of EU competition law](part-7/section-209.md)
 
-### Part 8 — Enforcement of certain consumer legislation[^key-834e833df356666a7237ab70e6964898]
+### Part 8 — Enforcement of certain consumer legislation[^c-834e833df356666a7237ab70e6964898]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Introduction[^key-834e833df356666a7237ab70e6964898]
+#### Introduction[^c-834e833df356666a7237ab70e6964898]
 
 *Extent: E+W+S+N.I.*
 
@@ -634,7 +634,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 212 — Schedule 13 infringements](part-8/section-212.md)
 - [Section 213 — Enforcers](part-8/section-213.md)
 
-#### Enforcement orders and interim enforcement orders[^key-834e833df356666a7237ab70e6964898]
+#### Enforcement orders and interim enforcement orders[^c-834e833df356666a7237ab70e6964898]
 
 *Extent: E+W+S+N.I.*
 
@@ -646,7 +646,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 217 — Enforcement orders](part-8/section-217.md)
 - [Section 218 — Interim enforcement order](part-8/section-218.md)
 
-#### Online interface orders and interim online interface orders[^key-834e833df356666a7237ab70e6964898]
+#### Online interface orders and interim online interface orders[^c-834e833df356666a7237ab70e6964898]
 
 **No longer in force.**
 
@@ -655,7 +655,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 218ZC — Interim online interface orders](part-8/section-218zc.md)
 - [Section 218ZD — Online interface orders: supplementary](part-8/section-218zd.md)
 
-#### Enforcement procedure: supplementary[^key-834e833df356666a7237ab70e6964898]
+#### Enforcement procedure: supplementary[^c-834e833df356666a7237ab70e6964898]
 
 **No longer in force.**
 
@@ -669,7 +669,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 222 — Bodies corporate: accessories](part-8/section-222.md)
 - [Section 223 — Bodies corporate: orders](part-8/section-223.md)
 
-#### Information[^key-834e833df356666a7237ab70e6964898]
+#### Information[^c-834e833df356666a7237ab70e6964898]
 
 *Extent: E+W+S+N.I.*
 
@@ -686,7 +686,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 227E — Obstructing, or failing to co-operate with, powers of entry](part-8/section-227e.md)
 - [Section 227F — Retention of documents and goods](part-8/section-227f.md)
 
-#### Miscellaneous[^key-834e833df356666a7237ab70e6964898]
+#### Miscellaneous[^c-834e833df356666a7237ab70e6964898]
 
 *Extent: E+W+S+N.I.*
 
@@ -698,7 +698,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 230 — Notice to OFT of intended prosecution](part-8/section-230.md)
 - [Section 231 — Notice of convictions and judgments to CMA](part-8/section-231.md)
 
-#### Interpretation[^key-834e833df356666a7237ab70e6964898]
+#### Interpretation[^c-834e833df356666a7237ab70e6964898]
 
 *Extent: E+W+S+N.I.*
 
@@ -711,13 +711,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 235A — CPC Regulation](part-8/section-235a.md)
 - [Section 235B — Dual enforcers](part-8/section-235b.md)
 
-#### Crown[^key-834e833df356666a7237ab70e6964898]
+#### Crown[^c-834e833df356666a7237ab70e6964898]
 
 **No longer in force.**
 
 - [Section 236 — Crown](part-8/section-236.md)
 
-### Part 9 — Information[^key-21034b930224557843a87a48cca6eb44][^key-dbc1fe29ddfb46c1ff3b5334e68905ad][^key-7cdc1a3a15e3978020a5dd7879760f00][^key-5abd82e74336672b17b19d39347e36be][^c19023281][^c19629861]
+### Part 9 — Information[^c-21034b930224557843a87a48cca6eb44][^c-dbc1fe29ddfb46c1ff3b5334e68905ad][^c-7cdc1a3a15e3978020a5dd7879760f00][^c-5abd82e74336672b17b19d39347e36be][^c19023281][^c19629861]
 
 #### Restrictions on disclosure
 
@@ -836,15 +836,15 @@ SCHEDULES
 
 ## Annotations
 
-[^key-ad887f24026c887092718e1eba3d92cb]: Modification: Act modified in part (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/3), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [ss. 60(4)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/4), [77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-ad887f24026c887092718e1eba3d92cb]: Modification: Act modified in part (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/3), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [ss. 60(4)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/4), [77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-1a54d649f7bb4260dc9c39ae00560704]: Modification: Pt. 1 function transferred (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/783/article/2) (with [arts. 2(3)](https://www.legislation.gov.uk/uksi/2013/783/article/2/3), [4](https://www.legislation.gov.uk/uksi/2013/783/article/4))
+[^c-1a54d649f7bb4260dc9c39ae00560704]: Modification: Pt. 1 function transferred (28.3.2013) by [The Public Bodies (The Office of Fair Trading Transfer of Consumer Advice Scheme Function and Modification of Enforcement Functions) Order 2013 (S.I. 2013/783)](https://www.legislation.gov.uk/uksi/2013/783), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/783/article/1/2), [2](https://www.legislation.gov.uk/uksi/2013/783/article/2) (with [arts. 2(3)](https://www.legislation.gov.uk/uksi/2013/783/article/2/3), [4](https://www.legislation.gov.uk/uksi/2013/783/article/4))
 
-[^key-43192c49fe73addabc812a8b1f67393b]: Textual amendment: Pt. 1 title substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 65](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/65) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-43192c49fe73addabc812a8b1f67393b]: Textual amendment: Pt. 1 title substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 65](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/65) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-40da60d2f5efb7deedfdd087c6273292]: Textual amendment: S. 1 cross-heading omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 229](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/229) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-40da60d2f5efb7deedfdd087c6273292]: Textual amendment: S. 1 cross-heading omitted (1.4.2014) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 229](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/229) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-d4576314969456fbc6ea6966d288799e]: Textual amendment: Words in s. 5 cross-heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 60(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/60/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-d4576314969456fbc6ea6966d288799e]: Textual amendment: Words in s. 5 cross-heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 60(3)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/60/3) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
 [^c17812571]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2002/40/part/3) (ss. 22-130) modified (20.6.2003) by [1998 c. 41](https://www.legislation.gov.uk/ukpga/1998/41), [Sch. 7 para. 20(3)](https://www.legislation.gov.uk/ukpga/1998/41/schedule/7/paragraph/20/3) (as substituted by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 185](https://www.legislation.gov.uk/ukpga/2002/40/section/185), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279), [Sch. 11 para. 11(2)-(4)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/11/paragraph/11/2)(8); [S.I. 2003/1397](https://www.legislation.gov.uk/uksi/2003/1397), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1397/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2003/1397/schedule) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/1397/article/8))
 
@@ -856,37 +856,37 @@ SCHEDULES
 
 [^M_C_6ddc54b4-3045-4780-bc9e-33654a3854fc]: Modification: Pt. 3 applied in part (N.I.) (1.4.2007) by [The Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2/3), [23(4)](https://www.legislation.gov.uk/nisi/2006/3336/article/23/4), [27(9)](https://www.legislation.gov.uk/nisi/2006/3336/article/27/9); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-121e6a6deefef70d500e09eac994592f]: Modification: Pt. 3 excluded in part (29.9.2008) by [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008 (S.I. 2008/2546)](https://www.legislation.gov.uk/uksi/2008/2546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2), [40](https://www.legislation.gov.uk/uksi/2008/2546/article/40)
+[^c-121e6a6deefef70d500e09eac994592f]: Modification: Pt. 3 excluded in part (29.9.2008) by [The Bradford & Bingley plc Transfer of Securities and Property etc. Order 2008 (S.I. 2008/2546)](https://www.legislation.gov.uk/uksi/2008/2546), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/2546/article/1/2), [40](https://www.legislation.gov.uk/uksi/2008/2546/article/40)
 
-[^key-fbaa9257963a44a11ed14d7588407fdd]: Modification: Pt. 3 modified (1.7.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 79](https://www.legislation.gov.uk/ukpga/2012/7/section/79), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-fbaa9257963a44a11ed14d7588407fdd]: Modification: Pt. 3 modified (1.7.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 79](https://www.legislation.gov.uk/ukpga/2012/7/section/79), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
 
-[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-35f70455b1b4affc8dd9ba46b9d90d9e]: Modification: Pt. 3 modified (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 4 paras. 28-33](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35f70455b1b4affc8dd9ba46b9d90d9e]: Modification: Pt. 3 modified (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 4 paras. 28-33](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af737f1079fbbf6a8d84ced806592f17]: Modification: Pt. 3 excluded (28.6.2022) by [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13), [s. 56E(9B)](https://www.legislation.gov.uk/ukpga/1992/13/section/56E/9B) (as inserted (E.W.) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 23(3)(f)](https://www.legislation.gov.uk/ukpga/2022/21/section/23/3/f), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2))
+[^c-af737f1079fbbf6a8d84ced806592f17]: Modification: Pt. 3 excluded (28.6.2022) by [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13), [s. 56E(9B)](https://www.legislation.gov.uk/ukpga/1992/13/section/56E/9B) (as inserted (E.W.) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 23(3)(f)](https://www.legislation.gov.uk/ukpga/2022/21/section/23/3/f), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2))
 
-[^key-a6f5858aa3648fdf5a0136d8f76fceb6]: Modification: Pt. 3 excluded (28.6.2022) by [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13), [s. 56A(9B)](https://www.legislation.gov.uk/ukpga/1992/13/section/56A/9B) (as inserted (E.W.) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 23(2)(f)](https://www.legislation.gov.uk/ukpga/2022/21/section/23/2/f), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2))
+[^c-a6f5858aa3648fdf5a0136d8f76fceb6]: Modification: Pt. 3 excluded (28.6.2022) by [1992 c. 13](https://www.legislation.gov.uk/ukpga/1992/13), [s. 56A(9B)](https://www.legislation.gov.uk/ukpga/1992/13/section/56A/9B) (as inserted (E.W.) by [Skills and Post-16 Education Act 2022 (c. 21)](https://www.legislation.gov.uk/ukpga/2022/21), [ss. 23(2)(f)](https://www.legislation.gov.uk/ukpga/2022/21/section/23/2/f), [36(2)](https://www.legislation.gov.uk/ukpga/2022/21/section/36/2))
 
-[^key-a97eb002287c5864de43d5464d27f284]: Modification: Pt. 3 modified (1.7.2022) by [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41), [s. 72A](https://www.legislation.gov.uk/ukpga/2006/41/section/72A) (as inserted by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/83/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)))
+[^c-a97eb002287c5864de43d5464d27f284]: Modification: Pt. 3 modified (1.7.2022) by [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41), [s. 72A](https://www.legislation.gov.uk/ukpga/2006/41/section/72A) (as inserted by [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [ss. 83(1)](https://www.legislation.gov.uk/ukpga/2022/31/section/83/1), [186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)))
 
-[^key-bc71232ee232d992bd66f451fbbb2ead]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2002/40/part/3) modified (E.W.) (29.12.2004) by [The Water Mergers (Modification of Enactments) Regulations 2004 (S.I. 2004/3202)](https://www.legislation.gov.uk/uksi/2004/3202), [regs. 2-35](https://www.legislation.gov.uk/uksi/2004/3202/regulation/2) (as amended (1.4.2014) by [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3)); (18.12.2015) by [S.I. 2015/1936](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [3-20](https://www.legislation.gov.uk/uksi/2015/1936/regulation/3); (6.12.2023) by [S.I. 2023/1185](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [9-27](https://www.legislation.gov.uk/uksi/2023/1185/article/9)); and (23.8.2024) by [S.I. 2024/840](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [3-7](https://www.legislation.gov.uk/uksi/2024/840/regulation/3); and (1.1.2025) by [S.I. 2024/1234](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [3-10](https://www.legislation.gov.uk/uksi/2024/1234/regulation/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2024/1234/regulation/11)))
+[^c-bc71232ee232d992bd66f451fbbb2ead]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/2002/40/part/3) modified (E.W.) (29.12.2004) by [The Water Mergers (Modification of Enactments) Regulations 2004 (S.I. 2004/3202)](https://www.legislation.gov.uk/uksi/2004/3202), [regs. 2-35](https://www.legislation.gov.uk/uksi/2004/3202/regulation/2) (as amended (1.4.2014) by [S.I. 2014/549](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/22) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3)); (18.12.2015) by [S.I. 2015/1936](https://www.legislation.gov.uk/uksi/2015/1936), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1936/regulation/1), [3-20](https://www.legislation.gov.uk/uksi/2015/1936/regulation/3); (6.12.2023) by [S.I. 2023/1185](https://www.legislation.gov.uk/uksi/2023/1185), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1185/article/1/2), [9-27](https://www.legislation.gov.uk/uksi/2023/1185/article/9)); and (23.8.2024) by [S.I. 2024/840](https://www.legislation.gov.uk/uksi/2024/840), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/840/regulation/1/1), [3-7](https://www.legislation.gov.uk/uksi/2024/840/regulation/3); and (1.1.2025) by [S.I. 2024/1234](https://www.legislation.gov.uk/uksi/2024/1234), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1234/regulation/1/1), [3-10](https://www.legislation.gov.uk/uksi/2024/1234/regulation/3) (with [reg. 11](https://www.legislation.gov.uk/uksi/2024/1234/regulation/11)))
 
-[^key-51ebbe6a40e243751b19ccf1cbed779a]: Textual amendment: S. 34A and cross-heading omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [41](https://www.legislation.gov.uk/uksi/2019/93/regulation/41) (with [Sch. 4 paras. 24](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/24), [28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51ebbe6a40e243751b19ccf1cbed779a]: Textual amendment: S. 34A and cross-heading omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [41](https://www.legislation.gov.uk/uksi/2019/93/regulation/41) (with [Sch. 4 paras. 24](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/24), [28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99a9975f9610717128205c39c6a29587]: Textual amendment: S. 46A and cross-heading omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [44](https://www.legislation.gov.uk/uksi/2019/93/regulation/44) (with [Sch. 4 paras. 24](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/24), [28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99a9975f9610717128205c39c6a29587]: Textual amendment: S. 46A and cross-heading omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [44](https://www.legislation.gov.uk/uksi/2019/93/regulation/44) (with [Sch. 4 paras. 24](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/24), [28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-95a00aefb86faaeadc7b26d0058b501b]: Textual amendment: S. 67 and cross-heading omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2019/93/regulation/47) (with [Sch. 4 paras. 25-28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/25)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95a00aefb86faaeadc7b26d0058b501b]: Textual amendment: S. 67 and cross-heading omitted (31.12.2020) by virtue of [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [47](https://www.legislation.gov.uk/uksi/2019/93/regulation/47) (with [Sch. 4 paras. 25-28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/25)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f78eda3a46e82fb17efdb7ed362a0992]: Textual amendment: [Ss. 68A-68F](https://www.legislation.gov.uk/ukpga/2002/40/section/68A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/2)
+[^c-f78eda3a46e82fb17efdb7ed362a0992]: Textual amendment: [Ss. 68A-68F](https://www.legislation.gov.uk/ukpga/2002/40/section/68A) and cross-heading inserted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/2)
 
-[^key-8adf765414ce0d9accbf79b875f46cbf]: Textual amendment: Pt. 3 Ch. 3A inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/2) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
+[^c-8adf765414ce0d9accbf79b875f46cbf]: Textual amendment: Pt. 3 Ch. 3A inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/2) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
 
-[^key-ca93e72c29ebe6f4de6eaf03ff0d2902]: Textual amendment: Words in [Pt. 3 Ch. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/3/chapter/4) heading substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/10)
+[^c-ca93e72c29ebe6f4de6eaf03ff0d2902]: Textual amendment: Words in [Pt. 3 Ch. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/3/chapter/4) heading substituted (26.10.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [s. 334(2)(j)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/j), [Sch. 16 para. 10](https://www.legislation.gov.uk/ukpga/2023/52/schedule/16/paragraph/10)
 
-[^key-3eddd925bc03d44b6a870af99cb791ca]: Textual amendment: Word in s. 92 cross-heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 127](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/127) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-3eddd925bc03d44b6a870af99cb791ca]: Textual amendment: Word in s. 92 cross-heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 127](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/127) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-e65499964f67b5ca84b2cc62aeadaeb0]: Textual amendment: Ss. 95A, 95B and cross-heading inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [48A](https://www.legislation.gov.uk/uksi/2019/93/regulation/48A) (with [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/1343/regulation/8), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35))
+[^c-e65499964f67b5ca84b2cc62aeadaeb0]: Textual amendment: Ss. 95A, 95B and cross-heading inserted (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [48A](https://www.legislation.gov.uk/uksi/2019/93/regulation/48A) (with [Sch. 4 para. 28](https://www.legislation.gov.uk/uksi/2019/93/schedule/4/paragraph/28)) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2020/1343/regulation/8), [35-59](https://www.legislation.gov.uk/uksi/2020/1343/regulation/35))
 
 [^c19137231]: Textual amendment: S. 119A and cross-heading inserted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [ss. 385](https://www.legislation.gov.uk/ukpga/2003/21/section/385), [411(2)(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2/3) (with transitional provisions in [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (subject to [arts. 3(3)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/3), [11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
@@ -910,61 +910,61 @@ SCHEDULES
 
     Pt. 4 (ss. 131-184) modified (N.I.) (1.4.2007) by [The Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2/3), [29(4)](https://www.legislation.gov.uk/nisi/2006/3336/article/29/4) (with [arts. 8(9)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/9), [121](https://www.legislation.gov.uk/nisi/2006/3336/article/121), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/2) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-a85f8f5a789a7c5e8f9e35ec0e0a82da]: Modification: Pt. 4 modified (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/73/3), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-a85f8f5a789a7c5e8f9e35ec0e0a82da]: Modification: Pt. 4 modified (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2012/7/section/73/3), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-f03f3a94d5c33a6ba05ae1d1af53c3db]: Modification: Pt. 4 modified in part (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/3), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [ss. 60(4)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/4), [77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-f03f3a94d5c33a6ba05ae1d1af53c3db]: Modification: Pt. 4 modified in part (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/3), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [ss. 60(4)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/4), [77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-af055fb84e4d177f593aa3f66078afc2]: Modification: Pt. 4 functions made exercisable concurrently (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/2), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
+[^c-af055fb84e4d177f593aa3f66078afc2]: Modification: Pt. 4 functions made exercisable concurrently (6.4.2013) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [ss. 60(2)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/2), [110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1) (with [s. 77(1)-(3)](https://www.legislation.gov.uk/ukpga/2012/19/section/77/1), [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2013/589](https://www.legislation.gov.uk/uksi/2013/589), [art. 2(1)-(3)](https://www.legislation.gov.uk/uksi/2013/589/article/2/1)
 
-[^key-09d06afbc2cbc93b9b881fd8f77500df]: Modification: Pt. 4 modified by [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7), [s. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/73/3/b) (as substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 189(4)(c)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/189/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
+[^c-09d06afbc2cbc93b9b881fd8f77500df]: Modification: Pt. 4 modified by [2012 c. 7](https://www.legislation.gov.uk/ukpga/2012/7), [s. 73(3)(b)](https://www.legislation.gov.uk/ukpga/2012/7/section/73/3/b) (as substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 189(4)(c)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/189/4/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
 
-[^key-fed6fdf2935d8405c3bbcae834e6b94e]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4) modified by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 86(4A)](https://www.legislation.gov.uk/ukpga/2000/38/section/86/4A) (as inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 154(6)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/154/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
+[^c-fed6fdf2935d8405c3bbcae834e6b94e]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4) modified by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 86(4A)](https://www.legislation.gov.uk/ukpga/2000/38/section/86/4A) (as inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 154(6)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/154/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
 
-[^key-6c0879fc326fa811b7bc2f4671be5778]: Modification: Pt. 4 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 57](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/57); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-6c0879fc326fa811b7bc2f4671be5778]: Modification: Pt. 4 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 57](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/57); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-0959ef6758f345563a2350268d6e2a4a]: Modification: Pt. 4 modified by [2012 c. 19](https://www.legislation.gov.uk/ukpga/2012/19), [s. 60(3A)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/3A) (as inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 197(5)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/197/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
+[^c-0959ef6758f345563a2350268d6e2a4a]: Modification: Pt. 4 modified by [2012 c. 19](https://www.legislation.gov.uk/ukpga/2012/19), [s. 60(3A)](https://www.legislation.gov.uk/ukpga/2012/19/section/60/3A) (as inserted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 197(5)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/197/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
 
-[^key-f6c728f2e5d7a606127d48ec5368a69f]: Modification: Pt. 4 certain functions made exercisable concurrently (1.4.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 59(1)-(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/59/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art.](https://www.legislation.gov.uk/uksi/2014/823/article)
+[^c-f6c728f2e5d7a606127d48ec5368a69f]: Modification: Pt. 4 certain functions made exercisable concurrently (1.4.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 59(1)-(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/59/1), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/823](https://www.legislation.gov.uk/uksi/2014/823), [art.](https://www.legislation.gov.uk/uksi/2014/823/article)
 
-[^key-90a8de1f94ac259959e6ab4148c7cff5]: Modification: Pt. 4 modified by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [s. 31(4)](https://www.legislation.gov.uk/ukpga/1991/56/section/31/4) (as amended (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 84(5)(d)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/84/5/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
+[^c-90a8de1f94ac259959e6ab4148c7cff5]: Modification: Pt. 4 modified by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [s. 31(4)](https://www.legislation.gov.uk/ukpga/1991/56/section/31/4) (as amended (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 84(5)(d)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/84/5/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
 
-[^key-4b49b26b1471a40198c989e3d7c8e333]: Modification: Pt. 4 modified by [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29), [s. 43(2B)](https://www.legislation.gov.uk/ukpga/1989/29/section/43/2B) (as amended (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 65(4)(d)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/65/4/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
+[^c-4b49b26b1471a40198c989e3d7c8e333]: Modification: Pt. 4 modified by [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29), [s. 43(2B)](https://www.legislation.gov.uk/ukpga/1989/29/section/43/2B) (as amended (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 65(4)(d)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/65/4/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
 
-[^key-62783f861881363501a5f386e6d11a03]: Modification: Pt. 4 modified by [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44), [s. 36A](https://www.legislation.gov.uk/ukpga/1986/44/section/36A) (as amended (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 50(4)(d)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/50/4/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
+[^c-62783f861881363501a5f386e6d11a03]: Modification: Pt. 4 modified by [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44), [s. 36A](https://www.legislation.gov.uk/ukpga/1986/44/section/36A) (as amended (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 50(4)(d)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/50/4/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
 
-[^key-a0230f567bb67f0457bb47d1f8ff5d19]: Modification: Pt. 4 modified by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 67(4)(d)](https://www.legislation.gov.uk/ukpga/1993/43/section/67/4/d) (as amended (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 105(4)(d)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/105/4/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
+[^c-a0230f567bb67f0457bb47d1f8ff5d19]: Modification: Pt. 4 modified by [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43), [s. 67(4)(d)](https://www.legislation.gov.uk/ukpga/1993/43/section/67/4/d) (as amended (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) Order 2014 (S.I. 2014/892)](https://www.legislation.gov.uk/uksi/2014/892), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/892/article/1/1), [Sch. 1 para. 105(4)(d)](https://www.legislation.gov.uk/uksi/2014/892/schedule/1/paragraph/105/4/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/892/article/3)))
 
-[^key-ef0583fda1df6240107eaa7e9375872a]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4): certain functions made exercisable concurrently (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 36(1)-(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/36/1), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2023/52/section/38))
+[^c-ef0583fda1df6240107eaa7e9375872a]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4): certain functions made exercisable concurrently (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 36(1)-(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/36/1), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a) (with [s. 38](https://www.legislation.gov.uk/ukpga/2023/52/section/38))
 
-[^key-f73bb9f1c4199a05ef93fce795e5b483]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4) modified (E.W.S.) (27.1.2026 for specified purposes) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4/5), [46(3)(b)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/46/3/b/c)
+[^c-f73bb9f1c4199a05ef93fce795e5b483]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4) modified (E.W.S.) (27.1.2026 for specified purposes) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4/5), [46(3)(b)(c)](https://www.legislation.gov.uk/uksi/2025/269/regulation/46/3/b/c)
 
-[^key-1b5f6ded8b21dd63217566ab34639a1c]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4): certain functions made exercisable concurrently (E.W.S.) (27.1.2026 for specified purposes) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4/5), [46(2)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/46/2/b)
+[^c-1b5f6ded8b21dd63217566ab34639a1c]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4): certain functions made exercisable concurrently (E.W.S.) (27.1.2026 for specified purposes) by [The Heat Networks (Market Framework) (Great Britain) Regulations 2025 (S.I. 2025/269)](https://www.legislation.gov.uk/uksi/2025/269), [regs. 1(4)(5)](https://www.legislation.gov.uk/uksi/2025/269/regulation/1/4/5), [46(2)(b)](https://www.legislation.gov.uk/uksi/2025/269/regulation/46/2/b)
 
-[^key-4fd943b474e7fc8a37d023d9555618c1]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4) heading inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/8); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-4fd943b474e7fc8a37d023d9555618c1]: Textual amendment: Words in [Pt. 4](https://www.legislation.gov.uk/ukpga/2002/40/part/4) heading inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/8); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-0ba75a05676b7e4619fbf7bb41de5b36]: Textual amendment: Words in Pt. 4 Ch. 1 heading inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/9); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-0ba75a05676b7e4619fbf7bb41de5b36]: Textual amendment: Words in Pt. 4 Ch. 1 heading inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 12 para. 9](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/9); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-30c1d0760c11aaf7d9845dd6b695a887]: Textual amendment: S. 130A and cross-heading inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/1); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-30c1d0760c11aaf7d9845dd6b695a887]: Textual amendment: S. 130A and cross-heading inserted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/12/paragraph/1); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-1a5d432544ca93738b1960e085e475ac]: Textual amendment: [S.154A](https://www.legislation.gov.uk/ukpga/2002/40/section/154A) and cross-heading substituted for s.154 and cross-heading (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2024/13/schedule/8/paragraph/8); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(12)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/12) (with [Sch. para. 9](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/9), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-1a5d432544ca93738b1960e085e475ac]: Textual amendment: [S.154A](https://www.legislation.gov.uk/ukpga/2002/40/section/154A) and cross-heading substituted for s.154 and cross-heading (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2024/13/schedule/8/paragraph/8); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(12)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/12) (with [Sch. para. 9](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/9), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-f976060ce31882ecc5f934e0a53444c8]: Textual amendment: [S. 157 cross-heading](https://www.legislation.gov.uk/ukpga/2002/40/part/4/chapter/3/crossheading/undertakings-and-orders) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2024/13/schedule/8/paragraph/11); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/12)
+[^c-f976060ce31882ecc5f934e0a53444c8]: Textual amendment: [S. 157 cross-heading](https://www.legislation.gov.uk/ukpga/2002/40/part/4/chapter/3/crossheading/undertakings-and-orders) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 8 para. 11](https://www.legislation.gov.uk/ukpga/2024/13/schedule/8/paragraph/11); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/12)
 
-[^key-83e53fbaa016f4fee4dc250f890514c1]: Textual amendment: [S. 159 cross-heading](https://www.legislation.gov.uk/ukpga/2002/40/part/4/chapter/3/crossheading/undertakings-and-orders) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2024/13/schedule/8/paragraph/12); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/12)
+[^c-83e53fbaa016f4fee4dc250f890514c1]: Textual amendment: [S. 159 cross-heading](https://www.legislation.gov.uk/ukpga/2002/40/part/4/chapter/3/crossheading/undertakings-and-orders) inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 8 para. 12](https://www.legislation.gov.uk/ukpga/2024/13/schedule/8/paragraph/12); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(12)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/12)
 
-[^key-8a70276f4fe3dbcc17b3607f36f116b9]: Textual amendment: [Ss. 161B-161E](https://www.legislation.gov.uk/ukpga/2002/40/section/161B) and cross-heading inserted (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/9/paragraph/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(13)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/13) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-8a70276f4fe3dbcc17b3607f36f116b9]: Textual amendment: [Ss. 161B-161E](https://www.legislation.gov.uk/ukpga/2002/40/section/161B) and cross-heading inserted (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c), [Sch. 9 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/9/paragraph/4); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)(13)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1/13) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/10), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
 
-[^key-4b9e16da2adb26a0f187459e82149a8e]: Textual amendment: S. 162 cross-heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 193](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/193) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-4b9e16da2adb26a0f187459e82149a8e]: Textual amendment: S. 162 cross-heading substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 5 para. 193](https://www.legislation.gov.uk/ukpga/2013/24/schedule/5/paragraph/193) (with [s. 28](https://www.legislation.gov.uk/ukpga/2013/24/section/28)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
 
-[^key-834e833df356666a7237ab70e6964898]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/ukpga/2002/40/part/8) omitted (6.4.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/4) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
+[^c-834e833df356666a7237ab70e6964898]: Textual amendment: [Pt. 8](https://www.legislation.gov.uk/ukpga/2002/40/part/8) omitted (6.4.2025) by virtue of [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/2024/13/schedule/18/paragraph/4) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(9)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/9)
 
-[^key-21034b930224557843a87a48cca6eb44]: Modification: Pt. 9 modified (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 29(3)-(7)](https://www.legislation.gov.uk/ukpga/2007/17/section/29/3), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-21034b930224557843a87a48cca6eb44]: Modification: Pt. 9 modified (1.10.2008) by [Consumers, Estate Agents and Redress Act 2007 (c. 17)](https://www.legislation.gov.uk/ukpga/2007/17), [s. 29(3)-(7)](https://www.legislation.gov.uk/ukpga/2007/17/section/29/3), [66(2)](https://www.legislation.gov.uk/ukpga/2007/17/section/66/2) (with [s. 6(9)](https://www.legislation.gov.uk/ukpga/2007/17/section/6/9)); [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-dbc1fe29ddfb46c1ff3b5334e68905ad]: Modification: Pt. 9 restricted (2.3.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/a), [119(3)](https://www.legislation.gov.uk/uksi/2009/209/regulation/119/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/209/regulation/3))
+[^c-dbc1fe29ddfb46c1ff3b5334e68905ad]: Modification: Pt. 9 restricted (2.3.2009) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/a), [119(3)](https://www.legislation.gov.uk/uksi/2009/209/regulation/119/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/209/regulation/3))
 
-[^key-7cdc1a3a15e3978020a5dd7879760f00]: Modification: Pt. 9 applied (1.5.2009 for specified purposes, 1.11.2009 in so far as not already in force) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [107](https://www.legislation.gov.uk/uksi/2009/209/regulation/107) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/209/regulation/3))
+[^c-7cdc1a3a15e3978020a5dd7879760f00]: Modification: Pt. 9 applied (1.5.2009 for specified purposes, 1.11.2009 in so far as not already in force) by [The Payment Services Regulations 2009 (S.I. 2009/209)](https://www.legislation.gov.uk/uksi/2009/209), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2009/209/regulation/1/2/c), [107](https://www.legislation.gov.uk/uksi/2009/209/regulation/107) (with [reg. 3](https://www.legislation.gov.uk/uksi/2009/209/regulation/3))
 
-[^key-5abd82e74336672b17b19d39347e36be]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2002/40/part/9) modified (13.8.2017) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/a), [147(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/147/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-5abd82e74336672b17b19d39347e36be]: Modification: [Pt. 9](https://www.legislation.gov.uk/ukpga/2002/40/part/9) modified (13.8.2017) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/2/a), [147(3)](https://www.legislation.gov.uk/uksi/2017/752/regulation/147/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^c19023281]: Modification: Pt. 9 applied (N.I.) (1.4.2003) by [The Energy (Northern Ireland) Order 2003 (S.I. 2003/419) (N.I. 6)](https://www.legislation.gov.uk/nisi/2003/419), [art. 63](https://www.legislation.gov.uk/nisi/2003/419/article/63); [S.R. 2003/203](https://www.legislation.gov.uk/nisr/2003/203), [art. 2](https://www.legislation.gov.uk/nisr/2003/203/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2003/203/schedule)
 

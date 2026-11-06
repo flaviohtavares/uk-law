@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Appointment of commissioners by mayors[^key-c932c7001d410817a0b06c3d71ed8347]
+## 9. Appointment of commissioners by mayors[^c-c932c7001d410817a0b06c3d71ed8347]
 
 *Extent: E+W*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c932c7001d410817a0b06c3d71ed8347]: Commencement: S. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c932c7001d410817a0b06c3d71ed8347]: Commencement: S. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

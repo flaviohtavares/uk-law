@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 251. Power to address conflicts with the Historic Environment (Wales) Act 2023[^key-fa7d0278e09334f6087a4601a5429704]
+## 251. Power to address conflicts with the Historic Environment (Wales) Act 2023[^c-fa7d0278e09334f6087a4601a5429704]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fa7d0278e09334f6087a4601a5429704]: Commencement: S. 251 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-fa7d0278e09334f6087a4601a5429704]: Commencement: S. 251 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

@@ -35,15 +35,15 @@ and
 (3) In this section “**public authority**” means—
 
 - (a) any department, corporation or body listed in Schedule 2 to the [^c12397331]Parliamentary Commissioner Act 1967 (departments, corporations and bodies subject to investigation) and designated for the purposes of this section by order made by the Secretary of State;
-- (b)[^key-05f6acbe61cc909f7a76be4c2c3078c3] any authority (other than the Equality Commission, the board of governors of a grant-aided school, the Comptroller and Auditor General, a general health care provider or an independent provider of health and social care) listed in Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities);
-- (ba)[^key-d43ce277ccc15c9c1f97bc01dc54bdcf] the Independent Commission for Reconciliation and Information Recovery;
-- (cc)[^c12397361] [^key-77d37236f8d740fb0380ac95dda1ae8c]... the Chief Constable of the Police Service of Northern Ireland and the Police Ombudsman for Northern Ireland;
+- (b)[^c-05f6acbe61cc909f7a76be4c2c3078c3] any authority (other than the Equality Commission, the board of governors of a grant-aided school, the Comptroller and Auditor General, a general health care provider or an independent provider of health and social care) listed in Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities);
+- (ba)[^c-d43ce277ccc15c9c1f97bc01dc54bdcf] the Independent Commission for Reconciliation and Information Recovery;
+- (cc)[^c12397361] [^c-77d37236f8d740fb0380ac95dda1ae8c]... the Chief Constable of the Police Service of Northern Ireland and the Police Ombudsman for Northern Ireland;
 - (cd)[^c12397371] the Director of Public Prosecutions for Northern Ireland;
-- (ce)[^key-b373daf99d651ec3181cabe57e6d80a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (cf)[^key-f9b8f3f47e9c842dccd0b26c4934ce16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (ce)[^c-b373daf99d651ec3181cabe57e6d80a2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (cf)[^c-f9b8f3f47e9c842dccd0b26c4934ce16] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) any other person designated for the purposes of this section by order made by the Secretary of State.
 
-(3A)[^key-e2b3144a1ddcd99c45ff92882b053a1b] An order under subsection (3)(a) or (d) may provide that the designated department, corporation, body or other person—
+(3A)[^c-e2b3144a1ddcd99c45ff92882b053a1b] An order under subsection (3)(a) or (d) may provide that the designated department, corporation, body or other person—
 
 - (a) is not subject to, or is only subject to, specified obligations under subsection (1) or (2), or
 - (b) is not subject to, or is only subject to, specified obligations under subsection (1) or (2)—
@@ -69,21 +69,21 @@ and
 
 [^c12397331]: Marginal citation: [1967 c.13](https://www.legislation.gov.uk/ukpga/1967/13).
 
-[^key-05f6acbe61cc909f7a76be4c2c3078c3]: Textual amendment: S. 75(3)(b) substituted for s. 75(3)(b)(c) (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 5](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/5)
+[^c-05f6acbe61cc909f7a76be4c2c3078c3]: Textual amendment: S. 75(3)(b) substituted for s. 75(3)(b)(c) (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 5](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/5)
 
-[^key-d43ce277ccc15c9c1f97bc01dc54bdcf]: Textual amendment: [S. 75(3)(ba)](https://www.legislation.gov.uk/ukpga/1998/47/section/75/3/ba) inserted (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/2/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-d43ce277ccc15c9c1f97bc01dc54bdcf]: Textual amendment: [S. 75(3)(ba)](https://www.legislation.gov.uk/ukpga/1998/47/section/75/3/ba) inserted (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 13 para. 2(2)](https://www.legislation.gov.uk/ukpga/2023/41/schedule/13/paragraph/2/2) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
 
 [^c12397361]: Textual amendment: S. 75(3)(cc) inserted (4.11.2001) by [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32), [s. 78(1)](https://www.legislation.gov.uk/ukpga/2000/32/section/78/1), [Sch. 6 para. 24(2)](https://www.legislation.gov.uk/ukpga/2000/32/schedule/6/paragraph/24/2); [S.R. 2001/396](https://www.legislation.gov.uk/nisr/2001/396), [art. 2 Sch.](https://www.legislation.gov.uk/nisr/2001/396/article/2/schedule)
 
-[^key-77d37236f8d740fb0380ac95dda1ae8c]: Textual amendment: Words in s. 75(3)(cc) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-77d37236f8d740fb0380ac95dda1ae8c]: Textual amendment: Words in s. 75(3)(cc) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
 [^c12397371]: Textual amendment: S. 75(3)(cd) inserted (1.6.2006) by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 38(2)](https://www.legislation.gov.uk/ukpga/2002/26/section/38/2), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2005/281](https://www.legislation.gov.uk/nisr/2005/281), [art. 5](https://www.legislation.gov.uk/nisr/2005/281/article/5)
 
-[^key-b373daf99d651ec3181cabe57e6d80a2]: Textual amendment: S. 75(3)(ce) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-b373daf99d651ec3181cabe57e6d80a2]: Textual amendment: S. 75(3)(ce) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
-[^key-f9b8f3f47e9c842dccd0b26c4934ce16]: Textual amendment: S. 75(3)(cf) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
+[^c-f9b8f3f47e9c842dccd0b26c4934ce16]: Textual amendment: S. 75(3)(cf) repealed (1.4.2016) by [Public Services Ombudsman Act (Northern Ireland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9)
 
-[^key-e2b3144a1ddcd99c45ff92882b053a1b]: Textual amendment: S. 75(3A)(3B) inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2014/13/section/22/1), [28(1)(f)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/f)
+[^c-e2b3144a1ddcd99c45ff92882b053a1b]: Textual amendment: S. 75(3A)(3B) inserted (13.3.2014) by [Northern Ireland (Miscellaneous Provisions) Act 2014 (c. 13)](https://www.legislation.gov.uk/ukpga/2014/13), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2014/13/section/22/1), [28(1)(f)](https://www.legislation.gov.uk/ukpga/2014/13/section/28/1/f)
 
 [^c12397401]: Textual amendment: S. 75(4A) inserted (1.6.2006) by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 38(3)](https://www.legislation.gov.uk/ukpga/2002/26/section/38/3), [87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1); [S.R. 2005/281](https://www.legislation.gov.uk/nisr/2005/281), [art. 5](https://www.legislation.gov.uk/nisr/2005/281/article/5)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Temporary registration in emergencies involving loss of human life or human illness etc[^key-d510f60c785f6a7913038b0824ab479d]
+## 9A. Temporary registration in emergencies involving loss of human life or human illness etc[^c-d510f60c785f6a7913038b0824ab479d]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d510f60c785f6a7913038b0824ab479d]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/uksi/2002/254/article/9A) inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/1/paragraph/2/2) (with [ss. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89), [90](https://www.legislation.gov.uk/ukpga/2020/7/section/90)) (subject to expiry in accordance with s. 89(1)(2)(b) of the modifying Act)
+[^c-d510f60c785f6a7913038b0824ab479d]: Textual amendment: [Art. 9A](https://www.legislation.gov.uk/uksi/2002/254/article/9A) inserted (temp.) (25.3.2020) by virtue of [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1), [Sch. 1 para. 2(2)](https://www.legislation.gov.uk/ukpga/2020/7/schedule/1/paragraph/2/2) (with [ss. 89](https://www.legislation.gov.uk/ukpga/2020/7/section/89), [90](https://www.legislation.gov.uk/ukpga/2020/7/section/90)) (subject to expiry in accordance with s. 89(1)(2)(b) of the modifying Act)

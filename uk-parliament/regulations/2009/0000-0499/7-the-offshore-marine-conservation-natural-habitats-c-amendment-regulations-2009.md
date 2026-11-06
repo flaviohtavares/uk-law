@@ -32,7 +32,7 @@ summary: ''
 
 Wildlife
 
-The Offshore Marine Conservation (Natural Habitats, &c.) (Amendment) Regulations 2009 (revoked)[^key-b2751b0a818ff9fa7c280e19b2b85bee]
+The Offshore Marine Conservation (Natural Habitats, &c.) (Amendment) Regulations 2009 (revoked)[^c-b2751b0a818ff9fa7c280e19b2b85bee]
 
 Made
 
@@ -46,37 +46,37 @@ Coming into force
 
 30th January 2009
 
-[^key-b2751b0a818ff9fa7c280e19b2b85bee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2751b0a818ff9fa7c280e19b2b85bee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-b2751b0a818ff9fa7c280e19b2b85bee]
+## 1. Title and commencement[^c-b2751b0a818ff9fa7c280e19b2b85bee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-b2751b0a818ff9fa7c280e19b2b85bee]
+## 2. Amendments[^c-b2751b0a818ff9fa7c280e19b2b85bee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b2751b0a818ff9fa7c280e19b2b85bee] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b2751b0a818ff9fa7c280e19b2b85bee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b2751b0a818ff9fa7c280e19b2b85bee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-b2751b0a818ff9fa7c280e19b2b85bee]EXPLANATORY NOTE
+[^c-b2751b0a818ff9fa7c280e19b2b85bee]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -94,4 +94,4 @@ A transposition note setting out how the 2007 Regulations, as amended by this in
 
 ## Annotations
 
-[^key-b2751b0a818ff9fa7c280e19b2b85bee]: Textual amendment: Regulations revoked (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), regs. 1(1), [83(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/83/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-b2751b0a818ff9fa7c280e19b2b85bee]: Textual amendment: Regulations revoked (30.11.2017) by [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), regs. 1(1), [83(b)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/83/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))

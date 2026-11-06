@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School Finance (England) Regulations 2012 (revoked)[^key-8f5353b0e750e0fc8548b321db33ebfc]
+The School Finance (England) Regulations 2012 (revoked)[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 15th March 2012
 
-[^key-8f5353b0e750e0fc8548b321db33ebfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f5353b0e750e0fc8548b321db33ebfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-8f5353b0e750e0fc8548b321db33ebfc]
+### PART 1 — Introduction[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
@@ -59,13 +59,13 @@ Coming into force
 - [Section 1 — Citation, commencement, application and interpretation](part-1/section-1.md)
 - [Section 2 — Revocation of previous Regulations](part-1/section-2.md)
 
-### PART 2 — Action to be Taken by a Local Authority[^key-8f5353b0e750e0fc8548b321db33ebfc]
+### PART 2 — Action to be Taken by a Local Authority[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Appropriation of the Non-Schools Education Budget[^key-8f5353b0e750e0fc8548b321db33ebfc]
+#### CHAPTER 1 — Appropriation of the Non-Schools Education Budget[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
@@ -73,7 +73,7 @@ Coming into force
 
 - [Section 3 — The Non-Schools Education Budget](part-2/section-3.md)
 
-#### CHAPTER 2 — Determination of Schools Budgets, Individual Schools Budgets, and Budget Shares[^key-8f5353b0e750e0fc8548b321db33ebfc]
+#### CHAPTER 2 — Determination of Schools Budgets, Individual Schools Budgets, and Budget Shares[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ Coming into force
 - [Section 10 — Determination of allocation of budget shares etc for the funding period](part-2/section-10.md)
 - [Section 11 — Delegated budgets for new schools](part-2/section-11.md)
 
-#### CHAPTER 3 — Redetermination of Schools Budgets, Individual Schools Budgets and Schools’ Budget Shares[^key-8f5353b0e750e0fc8548b321db33ebfc]
+#### CHAPTER 3 — Redetermination of Schools Budgets, Individual Schools Budgets and Schools’ Budget Shares[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
@@ -96,7 +96,7 @@ Coming into force
 
 - [Section 12 — Redetermination of schools budgets and individual schools budgets](part-2/section-12.md)
 
-#### CHAPTER 4 — Further Deductions and Variations to Limits Authorised by Schools Forums or the Secretary of State[^key-8f5353b0e750e0fc8548b321db33ebfc]
+#### CHAPTER 4 — Further Deductions and Variations to Limits Authorised by Schools Forums or the Secretary of State[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
@@ -104,13 +104,13 @@ Coming into force
 
 - [Section 13 — Applications to the schools forum and the Secretary of State](part-2/section-13.md)
 
-### PART 3 — Formulae for Determination of Budget Shares etc[^key-8f5353b0e750e0fc8548b321db33ebfc]
+### PART 3 — Formulae for Determination of Budget Shares etc[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### CHAPTER 1 — Factors and Criteria Taken into Account[^key-8f5353b0e750e0fc8548b321db33ebfc]
+#### CHAPTER 1 — Factors and Criteria Taken into Account[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
@@ -126,7 +126,7 @@ Coming into force
 - [Section 21 — New, reorganised and closing schools](part-3/section-21.md)
 - [Section 22 — Federated schools](part-3/section-22.md)
 
-#### CHAPTER 2 — Adjustments, Correction of Errors, and Additional Arrangements Authorised by Schools Forums or the Secretary of State[^key-8f5353b0e750e0fc8548b321db33ebfc]
+#### CHAPTER 2 — Adjustments, Correction of Errors, and Additional Arrangements Authorised by Schools Forums or the Secretary of State[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
@@ -136,7 +136,7 @@ Coming into force
 - [Section 24 — Correction of errors and changes in non-domestic rates](part-3/section-24.md)
 - [Section 25 — Additional arrangements approved by Secretary of State or the schools forum](part-3/section-25.md)
 
-### PART 4 — Schemes[^key-8f5353b0e750e0fc8548b321db33ebfc]
+### PART 4 — Schemes[^c-8f5353b0e750e0fc8548b321db33ebfc]
 
 *Extent: E+W*
 
@@ -156,14 +156,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-8f5353b0e750e0fc8548b321db33ebfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f5353b0e750e0fc8548b321db33ebfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-8f5353b0e750e0fc8548b321db33ebfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8f5353b0e750e0fc8548b321db33ebfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8f5353b0e750e0fc8548b321db33ebfc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/335) revoked (1.4.2014) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [reg. 2](https://www.legislation.gov.uk/uksi/2013/3104/regulation/2)
+[^c-8f5353b0e750e0fc8548b321db33ebfc]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/335) revoked (1.4.2014) by [The School and Early Years Finance (England) Regulations 2013 (S.I. 2013/3104)](https://www.legislation.gov.uk/uksi/2013/3104), [reg. 2](https://www.legislation.gov.uk/uksi/2013/3104/regulation/2)

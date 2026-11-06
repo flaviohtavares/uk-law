@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Recognition of overseas trust products[^key-2f475952b2ccefd0ca3e200b74b9f7f6][^key-10bf6480ff0ad6d0996fc9022b550427]
+## 132. Recognition of overseas trust products[^c-2f475952b2ccefd0ca3e200b74b9f7f6][^c-10bf6480ff0ad6d0996fc9022b550427]
 
 *Extent: E+W+S+N.I.*
 
@@ -84,6 +84,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f475952b2ccefd0ca3e200b74b9f7f6]: Commencement: S. 132 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-2f475952b2ccefd0ca3e200b74b9f7f6]: Commencement: S. 132 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-10bf6480ff0ad6d0996fc9022b550427]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2025/18/section/132) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z4)
+[^c-10bf6480ff0ad6d0996fc9022b550427]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2025/18/section/132) in force at 5.2.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z4)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z4)

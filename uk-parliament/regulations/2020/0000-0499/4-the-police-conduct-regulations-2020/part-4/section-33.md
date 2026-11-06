@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Misconduct pre-hearing[^key-598880ea005370dd0ac493482020022f]
+## 33. Misconduct pre-hearing[^c-598880ea005370dd0ac493482020022f]
 
 *Extent: E+W*
 
@@ -29,8 +29,8 @@ summary: ''
   - (iii) the originating authority, where functions have been delegated under regulation 26(1);
   - (iv) the Director General, where the Director General—
     - (aa) is presenting the case, or
-    - (bb) would be entitled to attend the misconduct hearing under regulation 38(1); and[^key-2f2a3e7d3ab5221437885de938df3e91]
-  - (v)[^key-ed1b4640661eb0630c7b8c1a2fd49cc6] the legally qualified person appointed under regulation 28(5B).
+    - (bb) would be entitled to attend the misconduct hearing under regulation 38(1); and[^c-2f2a3e7d3ab5221437885de938df3e91]
+  - (v)[^c-ed1b4640661eb0630c7b8c1a2fd49cc6] the legally qualified person appointed under regulation 28(5B).
 
 (2) Subject to paragraph (4), where a date and time is specified under paragraph (1) and—
 
@@ -73,7 +73,7 @@ the misconduct pre-hearing must be postponed to the date or time proposed by the
   - (ii) impose conditions under regulation 39(3)(b), or
   - (iii) prohibit the publication of any matter under regulation 39(3)(c).
 
-(8A)[^key-360869689f627940df203f906f91ac13] At the misconduct pre-hearing, the chair—
+(8A)[^c-360869689f627940df203f906f91ac13] At the misconduct pre-hearing, the chair—
 
 - (a) may require the legally qualified person appointed under regulation 28(5B) to provide advice on any legal or procedural matters relating to the misconduct proceedings;
 - (b) must have regard to advice provided by the legally qualified person under sub-paragraph (a) or regulation 28(5C).
@@ -101,10 +101,10 @@ the misconduct pre-hearing must be postponed to the date or time proposed by the
 
 ## Annotations
 
-[^key-598880ea005370dd0ac493482020022f]: Commencement: Reg. 33 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-598880ea005370dd0ac493482020022f]: Commencement: Reg. 33 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
 
-[^key-2f2a3e7d3ab5221437885de938df3e91]: Textual amendment: Word in reg. 33(1)(b)(iv)(bb) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/6/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-2f2a3e7d3ab5221437885de938df3e91]: Textual amendment: Word in reg. 33(1)(b)(iv)(bb) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/6/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-ed1b4640661eb0630c7b8c1a2fd49cc6]: Textual amendment: Reg. 33(1)(b)(v) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/6/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-ed1b4640661eb0630c7b8c1a2fd49cc6]: Textual amendment: Reg. 33(1)(b)(v) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/6/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
 
-[^key-360869689f627940df203f906f91ac13]: Textual amendment: Reg. 33(8A) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/6/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))
+[^c-360869689f627940df203f906f91ac13]: Textual amendment: Reg. 33(8A) inserted (7.5.2024) by [The Police (Conduct) (Amendment) Regulations 2024 (S.I. 2024/521)](https://www.legislation.gov.uk/uksi/2024/521), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/521/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2024/521/regulation/3/6/c) (with [reg. 7](https://www.legislation.gov.uk/uksi/2024/521/regulation/7))

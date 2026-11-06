@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 7 — LOT AND SAMPLE WEIGHTS[^key-92c28057b73511d0c515ab186efb38ee]
+## SCHEDULE 7 — LOT AND SAMPLE WEIGHTS[^c-92c28057b73511d0c515ab186efb38ee]
 
 *Extent: E+W+S+NI*
 
@@ -28,4 +28,4 @@ Regulations 2(1), 23(3),(4) and (5) and 27(6)
 
 ## Annotations
 
-[^key-92c28057b73511d0c515ab186efb38ee]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3173) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(c)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/c)
+[^c-92c28057b73511d0c515ab186efb38ee]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2002/3173) revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [reg. 34(c)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/c)

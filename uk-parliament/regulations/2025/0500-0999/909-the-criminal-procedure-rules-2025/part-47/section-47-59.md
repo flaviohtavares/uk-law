@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.59. When this Section applies[^key-f1500c182ddca7f571a2d987e2e5251a]
+## 47.59. When this Section applies[^c-f1500c182ddca7f571a2d987e2e5251a]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f1500c182ddca7f571a2d987e2e5251a]: Commencement: Rule 47.59 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f1500c182ddca7f571a2d987e2e5251a]: Commencement: Rule 47.59 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01265]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 336A was inserted by section 10 of the Criminal Finances Act [2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22).
 

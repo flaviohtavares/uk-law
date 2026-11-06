@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) This regulation provides for the application of this Chapter where a person is entitled to more than one old service pension falling within regulation 2.H.1(1)(c) in any financial year[^key-74430bdf9e1155b777227f2876623e84].
+(1) This regulation provides for the application of this Chapter where a person is entitled to more than one old service pension falling within regulation 2.H.1(1)(c) in any financial year[^c-74430bdf9e1155b777227f2876623e84].
 
 (2) In regulation 2.H.3—
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74430bdf9e1155b777227f2876623e84]: Textual amendment: Words in [reg. 2.H.8](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.8) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2013/413/regulation/46)
+[^c-74430bdf9e1155b777227f2876623e84]: Textual amendment: Words in [reg. 2.H.8](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.H.8) substituted (1.4.2013) by [The National Health Service Pension Scheme, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2013 (S.I. 2013/413)](https://www.legislation.gov.uk/uksi/2013/413), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/413/regulation/1/2), [46](https://www.legislation.gov.uk/uksi/2013/413/regulation/46)

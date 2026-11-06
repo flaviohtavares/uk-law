@@ -28,9 +28,9 @@ summary: ''
   - (ii) Chapter II of Part VII and sections 153 and 157;
   - (iii) section 162 and the provisions mentioned in subsection (2).
 
-(2)[^key-206e641311beb15b634db353ae915fa3] A person who is employed by or under the Crown shall be treated as an employed earner for the purposes of—
+(2)[^c-206e641311beb15b634db353ae915fa3] A person who is employed by or under the Crown shall be treated as an employed earner for the purposes of—
 
-- (a)[^key-2037016ee79430f623f748ed13dedaa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2037016ee79430f623f748ed13dedaa7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) sections 39 and 41;
 - (c) section 44, so far as it relates to minimum contributions;
 - (d) sections 113, 150 and 151, and
@@ -50,6 +50,6 @@ summary: ''
 
 [^c11730951]: Textual amendment: Words in s. 160(1)(b)(i) repealed (6.4.1997) by [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213), [arts. 147](https://www.legislation.gov.uk/nisi/1995/3213/article/147), [168](https://www.legislation.gov.uk/nisi/1995/3213/article/168), [Sch. 3 para. 57(a)](https://www.legislation.gov.uk/nisi/1995/3213/schedule/3/paragraph/57/a), [Sch. 5 Pt. III](https://www.legislation.gov.uk/nisi/1995/3213/schedule/5/part/III); [S.R. 1997/192](https://www.legislation.gov.uk/nisr/1997/192), [art. 2(b)](https://www.legislation.gov.uk/nisr/1997/192/article/2/b)
 
-[^key-206e641311beb15b634db353ae915fa3]: Textual amendment: S. 160(2) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [4(19)](https://www.legislation.gov.uk/nisr/2012/124/article/4/19)
+[^c-206e641311beb15b634db353ae915fa3]: Textual amendment: S. 160(2) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [4(19)](https://www.legislation.gov.uk/nisr/2012/124/article/4/19)
 
-[^key-2037016ee79430f623f748ed13dedaa7]: Textual amendment: [S. 160(2)(a)](https://www.legislation.gov.uk/ukpga/1993/49/section/160/2/a) omitted (6.4.2015) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(d)](https://www.legislation.gov.uk/nisr/2012/124/article/1/d), [31(6)](https://www.legislation.gov.uk/nisr/2012/124/article/31/6)
+[^c-2037016ee79430f623f748ed13dedaa7]: Textual amendment: [S. 160(2)(a)](https://www.legislation.gov.uk/ukpga/1993/49/section/160/2/a) omitted (6.4.2015) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(d)](https://www.legislation.gov.uk/nisr/2012/124/article/1/d), [31(6)](https://www.legislation.gov.uk/nisr/2012/124/article/31/6)

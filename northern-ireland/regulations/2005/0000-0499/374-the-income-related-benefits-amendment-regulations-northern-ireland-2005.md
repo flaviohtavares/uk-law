@@ -31,7 +31,7 @@ summary: ''
 
 HOUSING; RATES; SOCIAL SECURITY
 
-The Income-related Benefits (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-be45252ae0494dd52e9d32136eb6e421]
+The Income-related Benefits (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-be45252ae0494dd52e9d32136eb6e421]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 9th August 2005
 
-[^key-be45252ae0494dd52e9d32136eb6e421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be45252ae0494dd52e9d32136eb6e421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-be45252ae0494dd52e9d32136eb6e421]
+## 1. Citation, commencement and interpretation[^c-be45252ae0494dd52e9d32136eb6e421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Income Support (General) Regulations[^key-be45252ae0494dd52e9d32136eb6e421]
+## 2. Amendment of the Income Support (General) Regulations[^c-be45252ae0494dd52e9d32136eb6e421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Housing Benefit (General) Regulations[^key-be45252ae0494dd52e9d32136eb6e421]
+## 3. Amendment of the Housing Benefit (General) Regulations[^c-be45252ae0494dd52e9d32136eb6e421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Jobseeker’s Allowance Regulations[^key-be45252ae0494dd52e9d32136eb6e421]
+## 4. Amendment of the Jobseeker’s Allowance Regulations[^c-be45252ae0494dd52e9d32136eb6e421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the State Pension Credit Regulations[^key-be45252ae0494dd52e9d32136eb6e421]
+## 5. Amendment of the State Pension Credit Regulations[^c-be45252ae0494dd52e9d32136eb6e421]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-be45252ae0494dd52e9d32136eb6e421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be45252ae0494dd52e9d32136eb6e421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-be45252ae0494dd52e9d32136eb6e421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-be45252ae0494dd52e9d32136eb6e421]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be45252ae0494dd52e9d32136eb6e421]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/374) revoked (12.12.2005) by [The Income-related Benefits (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/550)](https://www.legislation.gov.uk/nisr/2005/550), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/550/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2005/550/regulation/8)
+[^c-be45252ae0494dd52e9d32136eb6e421]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/374) revoked (12.12.2005) by [The Income-related Benefits (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/550)](https://www.legislation.gov.uk/nisr/2005/550), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/550/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2005/550/regulation/8)

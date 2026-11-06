@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Implementation of orders: welfare of child[^key-b8ccae0f776f1a5b3b1b313ce24e0605]
+## 58. Implementation of orders: welfare of child[^c-b8ccae0f776f1a5b3b1b313ce24e0605]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8ccae0f776f1a5b3b1b313ce24e0605]: Commencement: S. 58 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-b8ccae0f776f1a5b3b1b313ce24e0605]: Commencement: S. 58 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

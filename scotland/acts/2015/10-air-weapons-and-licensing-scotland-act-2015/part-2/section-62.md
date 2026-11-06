@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Form etc. of communications under the 2005 Act[^key-fbcf9b7e1b808ad1d4c9d1836336abc9]
+## 62. Form etc. of communications under the 2005 Act[^c-fbcf9b7e1b808ad1d4c9d1836336abc9]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbcf9b7e1b808ad1d4c9d1836336abc9]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2015/10/section/62) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)
+[^c-fbcf9b7e1b808ad1d4c9d1836336abc9]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2015/10/section/62) in force at 15.5.2017 by [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule)

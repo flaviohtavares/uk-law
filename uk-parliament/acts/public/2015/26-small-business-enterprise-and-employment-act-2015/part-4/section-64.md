@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Loans by Secretary of State[^key-9d82861e3ce0bdcf46d4313e4b864b54]
+## 64. Loans by Secretary of State[^c-9d82861e3ce0bdcf46d4313e4b864b54]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Secretary of State may make loans to the Adjudicator.
 
 ## Annotations
 
-[^key-9d82861e3ce0bdcf46d4313e4b864b54]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2015/26/section/64) in force at 2.5.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/532/regulation/2/c)
+[^c-9d82861e3ce0bdcf46d4313e4b864b54]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2015/26/section/64) in force at 2.5.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/532/regulation/2/c)

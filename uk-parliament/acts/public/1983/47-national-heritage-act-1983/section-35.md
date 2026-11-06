@@ -22,10 +22,10 @@ summary: ''
 
 (1) The Commission may form or take part in forming one or more bodies corporate which (or each of which) has as its main object or objects
 
-- (a)[^key-14519fff21f433241f5af6b72b7a7893] one or more of the particular objects mentioned in subsection (2), or
+- (a)[^c-14519fff21f433241f5af6b72b7a7893] one or more of the particular objects mentioned in subsection (2), or
 - (b) any other object or objects incidental to the Commission's functions.
 
-(2) The particular objects[^key-008d33c4fc40893750456e546737c380] are—
+(2) The particular objects[^c-008d33c4fc40893750456e546737c380] are—
 
 - (a) the production and publication ,or sale,[^c941449] of books, films or other informative material relating to ancient monuments or historic buildings,
 - (ab)[^c941450] the provision (whether on payment or otherwise) of advice, assistance or other services in respect of, or information relating to, ancient monuments or historic buildings,
@@ -55,9 +55,9 @@ summary: ''
 
 ## Annotations
 
-[^key-14519fff21f433241f5af6b72b7a7893]: Textual amendment: S. 35(1)(a)(b) substituted for words in s. 35(1) (14.2.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 32(5)(a)](https://www.legislation.gov.uk/ukpga/2011/24/section/32/5/a), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)
+[^c-14519fff21f433241f5af6b72b7a7893]: Textual amendment: S. 35(1)(a)(b) substituted for words in s. 35(1) (14.2.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 32(5)(a)](https://www.legislation.gov.uk/ukpga/2011/24/section/32/5/a), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)
 
-[^key-008d33c4fc40893750456e546737c380]: Textual amendment: Words in s. 35(2) substituted (14.2.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 32(5)(b)](https://www.legislation.gov.uk/ukpga/2011/24/section/32/5/b), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)
+[^c-008d33c4fc40893750456e546737c380]: Textual amendment: Words in s. 35(2) substituted (14.2.2012) by [Public Bodies Act 2011 (c. 24)](https://www.legislation.gov.uk/ukpga/2011/24), [ss. 32(5)(b)](https://www.legislation.gov.uk/ukpga/2011/24/section/32/5/b), [38(1)](https://www.legislation.gov.uk/ukpga/2011/24/section/38/1)
 
 [^c941449]: Textual amendment: Words in s. 35(2)(a) substituted (1.7.2002) by [2002 c. 14](https://www.legislation.gov.uk/ukpga/2002/14), [ss. 5(1)(2)(a)](https://www.legislation.gov.uk/ukpga/2002/14/section/5/1/2/a), [8(2)](https://www.legislation.gov.uk/ukpga/2002/14/section/8/2)
 

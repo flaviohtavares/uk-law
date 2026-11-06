@@ -48,7 +48,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 ## PART 1 — INTRODUCTION
 
-### 1. Citation, commencement and extent[^key-eee7e4b11cc7462a4ecd98a13eae0c42]
+### 1. Citation, commencement and extent[^c-eee7e4b11cc7462a4ecd98a13eae0c42]
 
 (1) These Regulations may be cited as the Seed and Propagating Material (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force as follows—
 
@@ -59,7 +59,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 ## PART 2 — AMENDMENTS MADE UNDER SECTION 2(2) OF THE EUROPEAN COMMUNITIES ACT 1972
 
-### 2. The Vegetable Seeds Regulations 1993[^key-3c85d534fb87ea1f08375346cdd59858]
+### 2. The Vegetable Seeds Regulations 1993[^c-3c85d534fb87ea1f08375346cdd59858]
 
 (1) The Vegetable Seeds Regulations 1993 [^c23584341] are amended as follows.
 
@@ -118,7 +118,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 - (a) in Part I(A)(a) (official label for a Package of Pre-basic Seed: prescribed contents), in point 1, for “Member State” substitute “ EEA state ”,
 - (b) in Part I(B)(a) (official label for a Package of Basic Seed or for a Package (Other than a Small Package) of Certified Seed: prescribed contents), in point 2, for “Member State” substitute “ EEA state ”.
 
-### 3. The Oil and Fibre Plant Seed (Scotland) Regulations 2004[^key-38ae572c969f551c304fe9d1447287ef]
+### 3. The Oil and Fibre Plant Seed (Scotland) Regulations 2004[^c-38ae572c969f551c304fe9d1447287ef]
 
 (1) The Oil and Fibre Plant Seed (Scotland) Regulations 2004 [^c23584411] are amended as follows.
 
@@ -153,7 +153,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 .
 
-### 4. The Cereal Seed (Scotland) Regulations 2005[^key-685a093ceb0b6a0456c4fd9d0f3aae54]
+### 4. The Cereal Seed (Scotland) Regulations 2005[^c-685a093ceb0b6a0456c4fd9d0f3aae54]
 
 (1) The Cereal Seed (Scotland) Regulations 2005 [^c23584471] are amended as follows.
 
@@ -188,7 +188,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 .
 
-### 5. The Fodder Plant Seed (Scotland) Regulations 2005[^key-9768f0598f400fe386de536733c5a3f2]
+### 5. The Fodder Plant Seed (Scotland) Regulations 2005[^c-9768f0598f400fe386de536733c5a3f2]
 
 (1) The Fodder Plant Seed (Scotland) Regulations 2005 [^c23584531] are amended as follows.
 
@@ -225,7 +225,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (7) In schedule 6, in paragraph 10 (label for a small EC A or small EC B package of Mixtures), after “Member State” in each place where it occurs insert “ or Switzerland ”.
 
-### 6. The Beet Seed (Scotland) (No. 2) Regulations 2010[^key-bf9028efbcfdc5d1a40f7b84d549c38c]
+### 6. The Beet Seed (Scotland) (No. 2) Regulations 2010[^c-bf9028efbcfdc5d1a40f7b84d549c38c]
 
 (1) The Beet Seed (Scotland) (No. 2) Regulations 2010 [^c23584591] are amended as follows.
 
@@ -261,7 +261,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 .
 
-### 7. The Seed Potatoes (Scotland) Regulations 2015[^key-4a9cd8362922f2f89ff382197969286e]
+### 7. The Seed Potatoes (Scotland) Regulations 2015[^c-4a9cd8362922f2f89ff382197969286e]
 
 (1) The Seed Potatoes (Scotland) Regulations 2015 [^c23584631] are amended as follows.
 
@@ -277,7 +277,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   .
 
-### 8. The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017[^key-889e2e85027141a5cdd5f2b6152cc0fe]
+### 8. The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017[^c-889e2e85027141a5cdd5f2b6152cc0fe]
 
 (1) The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017 [^c23584641] are amended as follows.
 
@@ -294,7 +294,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 ## PART 3 — AMENDMENT OF SECONDARY LEGISLATION RELATING TO WITHDRAWAL FROM THE EUROPEAN UNION
 
-### 9. The Vegetable Seeds Regulations 1993[^key-40d1bb898e4822b964f7cdfa0c480f30]
+### 9. The Vegetable Seeds Regulations 1993[^c-40d1bb898e4822b964f7cdfa0c480f30]
 
 (1) The Vegetable Seeds Regulations 1993 [^c23584661] are amended as follows.
 
@@ -302,28 +302,28 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) in paragraph (1)—
   - (i) at the end of the definition of “additional region”[^c23584671], insert “, with Article 13.1 of that Directive being read as if for the reference to “Member States” in each place where it occurs there were substituted “ the Scottish Ministers ”,
-  - (ia)[^key-6aef71849d106122a77a0d83f6bbd049] in the definition of “Amateur Variety”, for “the National List” substitute “a GB Variety List or an NI Variety List”,
-  - (ii)[^key-37e43d8b9aa04edd7683175a14c2e9c8] in the definition of “breeder”, in sub-paragraph (a), for the words “the National List or the Common Catalogue” substitute “a GB Variety List, an NI Variety List or an equivalent list in a country granted equivalence”,
-  - (iia)[^key-7f949a21bc5e81a14137a4d41ac2faef] omit the definition of “Common Catalogue”,
+  - (ia)[^c-6aef71849d106122a77a0d83f6bbd049] in the definition of “Amateur Variety”, for “the National List” substitute “a GB Variety List or an NI Variety List”,
+  - (ii)[^c-37e43d8b9aa04edd7683175a14c2e9c8] in the definition of “breeder”, in sub-paragraph (a), for the words “the National List or the Common Catalogue” substitute “a GB Variety List, an NI Variety List or an equivalent list in a country granted equivalence”,
+  - (iia)[^c-7f949a21bc5e81a14137a4d41ac2faef] omit the definition of “Common Catalogue”,
   - (iib) in the definition of “Conservation Variety”, for “the National List” substitute “a GB Variety List or an NI Variety List”,
   - (iii) after the definition of “Conservation Variety”[^c23584681] insert—
 
-    > “[^key-baac66cb0f1dcfb800cf9fd811ba996e]**country granted equivalence**” means a country that has been—
+    > “[^c-baac66cb0f1dcfb800cf9fd811ba996e]**country granted equivalence**” means a country that has been—
     >
     > - (a) granted equivalence under the Equivalence Decision; or
     > - (b) assessed by Scottish Ministers as producing the species of seed referred to in regulation 4 under conditions equivalent to those required by these Regulations;
     >
     > “**Crown Dependency**” means any of the Channel Islands or the Isle of Man;
     >
-    > “DAERA” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;[^key-0f4a1ed99ee0438e8a7ff016cbc057e2]
+    > “DAERA” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;[^c-0f4a1ed99ee0438e8a7ff016cbc057e2]
 
     ,
-  - (iiia)[^key-70e50e952dcf756d70ec1a100e84c80a] after the definition of “the EU Plant Health Regulation” insert—
+  - (iiia)[^c-70e50e952dcf756d70ec1a100e84c80a] after the definition of “the EU Plant Health Regulation” insert—
 
     > - “the Food and Feed Regulation” means Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829) of the European Parliament and of the Council on genetically modified food and feed;
 
     ,
-  - (iv)[^key-1d398ec9769d1b8a41a76a2b3644f45d] after the definition of “genetically modified” insert—
+  - (iv)[^c-1d398ec9769d1b8a41a76a2b3644f45d] after the definition of “genetically modified” insert—
 
     > - “the GMO Regulations” means—
     >   - (a) in relation to Scotland, the Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 [^c23584711];
@@ -339,8 +339,8 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     >   - (c) by or on behalf of the competent seed certification authority of a country other than the United Kingdom;
 
     ,
-  - (v)[^key-ff20581e9dafc86f4bac5bdb6764d16c] in the definition of “maintainer”, for “a National List or in the Common Catalogue” and “the National List or the Common Catalogue” where they occur substitute “a GB Variety List, an NI Variety List or an equivalent list in a country granted equivalence”,
-  - (vi)[^key-691ad00e5f2924ea120992614f6d51a3] in the definition of “maintenance”, for “a National List of the Common Catalogue” substitute “a GB Variety List or an NI Variety List”,
+  - (v)[^c-ff20581e9dafc86f4bac5bdb6764d16c] in the definition of “maintainer”, for “a National List or in the Common Catalogue” and “the National List or the Common Catalogue” where they occur substitute “a GB Variety List, an NI Variety List or an equivalent list in a country granted equivalence”,
+  - (vi)[^c-691ad00e5f2924ea120992614f6d51a3] in the definition of “maintenance”, for “a National List of the Common Catalogue” substitute “a GB Variety List or an NI Variety List”,
   - (via) omit the definition of “National List”,
   - (vib) before the definition of “official certificate” insert—
 
@@ -348,7 +348,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     > - “NI Variety List” means a list of plant varieties prepared and published by DAERA in accordance with legislation having equivalent effect in Northern Ireland to the Seeds (National Lists of Varieties) Regulations 2001
 
     ;
-  - (vii)[^key-5a46c1d9762ae4bd7beed9d60fe80583] in the definition of “official post control”—
+  - (vii)[^c-5a46c1d9762ae4bd7beed9d60fe80583] in the definition of “official post control”—
     - (aa) in the words before sub-paragraph (a), for “European” substitute “International”,
     - (bb) in sub-paragraph (a), for the words “a European” in both places they occur substitute “an International”,
     - (cc) omit sub-paragraph (b),
@@ -357,7 +357,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     > - “PFA quarantine pest” has the meaning given in Article 32 (recognition of GB pest free areas), paragraph 1 of the EU Plant Health Regulation;
 
     ,
-  - (viii)[^key-936bb9753705c72639f871db78016be8] in the definition of “region of origin”—
+  - (viii)[^c-936bb9753705c72639f871db78016be8] in the definition of “region of origin”—
     - (aa) for “the United Kingdom” substitute “Great Britain”,
     - (bb) at the end insert—
 
@@ -370,21 +370,21 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
       >   - (b) the second sub-paragraph was omitted;
 
       ,
-  - (ix)[^key-34a51c111b44e241f40b000ba0145215] in the definition of “RNQP”, for “Union” in each place it occurs substitute “GB”,
+  - (ix)[^c-34a51c111b44e241f40b000ba0145215] in the definition of “RNQP”, for “Union” in each place it occurs substitute “GB”,
   - (x) omit the definition of “Union quarantine pest”,
-- (b)[^key-f305a76dba75e832ef39389adb3e54ef] in paragraphs (3A), (3B) and (3C)—
+- (b)[^c-f305a76dba75e832ef39389adb3e54ef] in paragraphs (3A), (3B) and (3C)—
   - (i) in each sub-paragraph (a), for “an EEA state” substitute “a country”,
   - (ii) in each sub-paragraph (b) and (c), for “EEA state” substitute “country”.
 
 (3) For regulation 4(2) (seeds to which the regulations apply) [^c23584771] substitute—
 
-> (2) These Regulations do not apply to seed intended for export outside Great Britain[^key-506f8b195f5bff150ddcca987cf1b825] (other than regulation 6C (certification and labelling for export)).
+> (2) These Regulations do not apply to seed intended for export outside Great Britain[^c-506f8b195f5bff150ddcca987cf1b825] (other than regulation 6C (certification and labelling for export)).
 
 .
 
 (4) [^c23584781]In regulation 5 (marketing of seeds) —
 
-- (a)[^key-0445da3ecac2d93935999c4d677a4d7c] in paragraph (1)—
+- (a)[^c-0445da3ecac2d93935999c4d677a4d7c] in paragraph (1)—
   - (i) in the words before sub-paragraph (a)—
     - (aa) for “a National List or the Common Catalogue” substitute “a GB Variety List or an NI Variety List”,
     - (bb) for “the Common Catalogue” substitute “a GB Variety List or an NI Variety List”,
@@ -397,7 +397,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   > (2D) The conditions referred to in paragraph (2C) are that the marketing and release of the genetically modified material by the applicant has been authorised—
   >
-  > - (a) before the day on which IP completion[^key-f0eb3d049066d6c92bdb8822fb8c0b89] day falls, under Part C of Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18),
+  > - (a) before the day on which IP completion[^c-f0eb3d049066d6c92bdb8822fb8c0b89] day falls, under Part C of Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18),
   > - (b) under the Food and Feed Regulation, or
   > - (c) under the GMO Regulations.
 
@@ -407,17 +407,17 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > (4) The Scottish Ministers may, by a general licence, authorise a temporary experiment (the duration of which must not exceed 7 years) seeking improved alternatives to provisions of these Regulations and organised in accordance with regulations made under section 16(5) of the Act.
 
   ,
-- (d)[^key-9226f752143d713d30836a8daae294fe] in paragraph (4A)—
+- (d)[^c-9226f752143d713d30836a8daae294fe] in paragraph (4A)—
   - (i) omit “, by reason only of article 3(1)(a) of Council [Directive 70/457/EEC](https://www.legislation.gov.uk/eudr/1970/0457),”,
   - (ii) for “a National List” substitute “a GB Variety List or an NI Variety List”,
 - (e) in paragraph (5), for “from a country other than an EEA state” substitute “ from outside the United Kingdom ”,
-- (f)[^key-1640049625c853400a986d8575d0d455] in paragraph (9A), for “an EEA state” substitute “a country”,
+- (f)[^c-1640049625c853400a986d8575d0d455] in paragraph (9A), for “an EEA state” substitute “a country”,
 - (g) in paragraph (9B) [^c23584841], for “other than in an EEA state” substitute “ outside the United Kingdom ”,
 - (h) in paragraph (10)—
   - (i) for “other than an EEA state”, substitute “ outside the United Kingdom ”,
   - (ii) for “produced in an EEA state”, substitute “ produced in the United Kingdom ”,
-- (i)[^key-b1d978c53d50bdaf1641f0098f2fb18c] in paragraph (11), for “a National List or the Common Catalogue” substitute “a GB Variety List or an NI Variety List”,
-- (j)[^key-2afbaf332dae80a61c4e3ab3d01cc68a] in paragraph (13) for “an EEA state” substitute “a country”,
+- (i)[^c-b1d978c53d50bdaf1641f0098f2fb18c] in paragraph (11), for “a National List or the Common Catalogue” substitute “a GB Variety List or an NI Variety List”,
+- (j)[^c-2afbaf332dae80a61c4e3ab3d01cc68a] in paragraph (13) for “an EEA state” substitute “a country”,
 - (k) paragraph (14) is omitted.
 
 (5) In regulation 5A (Conservation Varieties) [^c23584851], after paragraph (6) insert—
@@ -429,9 +429,9 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 .
 
-(6)[^key-0ae685067d679d27a422dde1f22b3673] In regulation 6A(1)(c) (breeder’s confirmations), for the words “the National List” to the end substitute “a GB Variety List or an NI Variety List”.
+(6)[^c-0ae685067d679d27a422dde1f22b3673] In regulation 6A(1)(c) (breeder’s confirmations), for the words “the National List” to the end substitute “a GB Variety List or an NI Variety List”.
 
-(7)[^key-a8a8043d91e0b18475415f59d8da8194] In regulation 6B (importation from outside the European Union)—
+(7)[^c-a8a8043d91e0b18475415f59d8da8194] In regulation 6B (importation from outside the European Union)—
 
 - (a) in the heading, for “outside the European Union” substitute “a country granted equivalence”,
 - (b) for “outside the European Union” substitute “a country granted equivalence”.
@@ -439,23 +439,23 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 (8) In regulation 9 (labelling of packages)—
 
 - (a) paragraph (10) is omitted,
-- (b) in paragraph (12), for “one of the official languages of the European Union[^key-1c860552fa13c6ded3d96c8ce7385dc4]” substitute “ English but may also be given in other languages ”.
+- (b) in paragraph (12), for “one of the official languages of the European Union[^c-1c860552fa13c6ded3d96c8ce7385dc4]” substitute “ English but may also be given in other languages ”.
 
-(9) In regulation 9A(8) (labelling of packages – breeder's confirmation) [^c23584881], for “one of the official languages of the European Union[^key-8c6403765692ddfa41b3c0727c8402f3]” substitute “ English but may also be given in other languages ”.
+(9) In regulation 9A(8) (labelling of packages – breeder's confirmation) [^c23584881], for “one of the official languages of the European Union[^c-8c6403765692ddfa41b3c0727c8402f3]” substitute “ English but may also be given in other languages ”.
 
 (10) After regulation 11 (civil liabilities of sellers of seeds) insert—
 
-> **11A. Certification in a Crown Dependency or a country granted equivalence[^key-199e9b2fe40c55b850bc7f48289ba9eb]**
+> **11A. Certification in a Crown Dependency or a country granted equivalence[^c-199e9b2fe40c55b850bc7f48289ba9eb]**
 >
 > Any seed certified and labelled in a Crown Dependency or a country granted equivalence under legislation recognised by the Scottish Ministers to have equivalent effect to these Regulations may be marketed in Scotland.
 >
-> **11B. Transitional provision for official labels and supplier's labels on IP completion day[^key-8afbee4e7c692a261d517e3a111bbd81]**
+> **11B. Transitional provision for official labels and supplier's labels on IP completion day[^c-8afbee4e7c692a261d517e3a111bbd81]**
 >
-> A label pre-printed before IP completion day which at the date on which it was printed was an official label or a supplier's label for the purposes of these Regulations, is to be treated as an official label or, as the case may be, a supplier's label for packages of Basic Seed, Certified Seed, Standard Seed, Seed of a Conservation Variety or Standard Seed of an Amateur Variety or, as the case may be, small packages of Certified Seed or Standard Seed, for the purposes of any use of that label before the end of the period of twelve months[^key-a50b87a1b577bec5c097c5aeac819ae5] beginning with the day after the day on which IP completion day falls.
+> A label pre-printed before IP completion day which at the date on which it was printed was an official label or a supplier's label for the purposes of these Regulations, is to be treated as an official label or, as the case may be, a supplier's label for packages of Basic Seed, Certified Seed, Standard Seed, Seed of a Conservation Variety or Standard Seed of an Amateur Variety or, as the case may be, small packages of Certified Seed or Standard Seed, for the purposes of any use of that label before the end of the period of twelve months[^c-a50b87a1b577bec5c097c5aeac819ae5] beginning with the day after the day on which IP completion day falls.
 
 .
 
-(11)[^key-fa39df6416479410b745c2e36ad7c2dc] In schedule 4 (requirements for Basic Seed, Certified Seed, Certified Seed of a Conservation Variety, Standard Seed, Standard Seed of a Conservation Variety and Standard Seed of an Amateur Variety)—
+(11)[^c-fa39df6416479410b745c2e36ad7c2dc] In schedule 4 (requirements for Basic Seed, Certified Seed, Certified Seed of a Conservation Variety, Standard Seed, Standard Seed of a Conservation Variety and Standard Seed of an Amateur Variety)—
 
 - (a) in Part I (Basic Seed and Certified Seed)—
   - (i) in paragraph 2 (varietal identity and varietal purity)—
@@ -472,29 +472,29 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) in Part I(A)(a) (official label for a Package of Pre-basic Seed: prescribed contents), in point 1, for “EEA state or their mark” substitute “ country or country initials ”,
 - (b) in Part I(B)(a) (official label for a Package of Basic Seed or for a Package (Other than a Small Package) of Certified Seed: prescribed contents)—
-  - (i) in point 1, for “EC” substitute “ GB[^key-c8f9e08c7acdae96d791dac3e5b8f842] ”,
+  - (i) in point 1, for “EC” substitute “ GB[^c-c8f9e08c7acdae96d791dac3e5b8f842] ”,
   - (ii) in point 2, for “EEA state or their mark” substitute “ country or country initials ”,
-  - (iii)[^key-ceda2b427094607e1af5e4433cef3e80] in point 11(a), for “a National List or the Common Catalogue” substitute “a GB Variety List or an NI Variety List”,
-- (ba)[^key-e890026b947c01009e4ad23966054494] in Part I(C)(b) (official label for a Package of Seed not Finally Certified: information required for the document), in point 5, for “UK” in each place it occurs substitute “GB”,
-- (c) in Part II(A)(a) (supplier's label for a Package of Standard Seed, other than a Small Package: prescribed contents), in point 1, for “EC” substitute “ GB[^key-35ec298783bfba345850878684ef643b] ”,
-- (d) in Part III(A)(a) (supplier's label for a Small Package of Certified Seed: prescribed contents), in point 1, for “EC” substitute “ GB[^key-d218eaa959a4c90cdc61be052160e4e5] ”,
-- (e) in Part III(B)(a) (supplier's label for a Small Package of Standard Seed: prescribed contents), in point 1, for “EC” substitute “ GB[^key-9a8a005e6d1d0bcb7500e88f9396ac2d] ”,
-- (ea)[^key-407580c207a402f066c14a81069ccc3f] in Part IV (information in respect of seeds imported from third countries in packages more than 2 kilograms in Net weight), in the heading, for “third countries” substitute “countries outside the United Kingdom”,
-- (f) in Part VI (supplier's label for a package of seed of a Conservation Variety) [^c23584911], in sub-paragraph (a), for “EU” substitute “ GB[^key-ff739c852bc613fccacb22e87375f64d] ”,
-- (g) in Part VII (supplier's label for a package of Standard Seed of an Amateur Variety) [^c23584921], in sub-paragraph (a), for “EU” substitute “ GB[^key-cda95836ca687295b522b68eac359654] ”.
+  - (iii)[^c-ceda2b427094607e1af5e4433cef3e80] in point 11(a), for “a National List or the Common Catalogue” substitute “a GB Variety List or an NI Variety List”,
+- (ba)[^c-e890026b947c01009e4ad23966054494] in Part I(C)(b) (official label for a Package of Seed not Finally Certified: information required for the document), in point 5, for “UK” in each place it occurs substitute “GB”,
+- (c) in Part II(A)(a) (supplier's label for a Package of Standard Seed, other than a Small Package: prescribed contents), in point 1, for “EC” substitute “ GB[^c-35ec298783bfba345850878684ef643b] ”,
+- (d) in Part III(A)(a) (supplier's label for a Small Package of Certified Seed: prescribed contents), in point 1, for “EC” substitute “ GB[^c-d218eaa959a4c90cdc61be052160e4e5] ”,
+- (e) in Part III(B)(a) (supplier's label for a Small Package of Standard Seed: prescribed contents), in point 1, for “EC” substitute “ GB[^c-9a8a005e6d1d0bcb7500e88f9396ac2d] ”,
+- (ea)[^c-407580c207a402f066c14a81069ccc3f] in Part IV (information in respect of seeds imported from third countries in packages more than 2 kilograms in Net weight), in the heading, for “third countries” substitute “countries outside the United Kingdom”,
+- (f) in Part VI (supplier's label for a package of seed of a Conservation Variety) [^c23584911], in sub-paragraph (a), for “EU” substitute “ GB[^c-ff739c852bc613fccacb22e87375f64d] ”,
+- (g) in Part VII (supplier's label for a package of Standard Seed of an Amateur Variety) [^c23584921], in sub-paragraph (a), for “EU” substitute “ GB[^c-cda95836ca687295b522b68eac359654] ”.
 
-### 10. The Marketing of Vegetable Plant Material Regulations 1995[^key-f6fd1e4478d5e9692ac4f5cbd276e5dc]
+### 10. The Marketing of Vegetable Plant Material Regulations 1995[^c-f6fd1e4478d5e9692ac4f5cbd276e5dc]
 
 (1) The Marketing of Vegetable Plant Material Regulations 1995 [^c23584931] is amended as follows.
 
 (2) In regulation 3(2)(a) (plant material to which these Regulations apply), for “European Union” substitute “ United Kingdom ”.
 
-(2A)[^key-fc5551b3e83bac9bcdaed6d3d649fd59] In regulation 4A (plant material from outside the European Union: authorisation)—
+(2A)[^c-fc5551b3e83bac9bcdaed6d3d649fd59] In regulation 4A (plant material from outside the European Union: authorisation)—
 
 - (a) in the heading, for “European Union” substitute “United Kingdom”,
 - (b) in paragraph (1), for “European Union” substitute “United Kingdom”.
 
-(3)[^key-c333f1e0abbc8495561100fc71e0473e] In regulation 5 (quality requirements for plant material)—
+(3)[^c-c333f1e0abbc8495561100fc71e0473e] In regulation 5 (quality requirements for plant material)—
 
 - (a) in paragraph (1)(d)—
   - (i) for “Union” substitute “GB”,
@@ -512,7 +512,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     - (aa) for “Union” in each place it occurs substitute “GB”,
     - (bb) for “Regulation, and” substitute “Regulation.”.
 
-(4)[^key-9285760f0f6009b2f150b9cb2c85b3e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9285760f0f6009b2f150b9cb2c85b3e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In regulation 11(2) (powers of inspectors), omit “representatives of the European Commission and”.
 
@@ -526,13 +526,13 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   - (i) in paragraph 1, for “EC” substitute “ UK ”,
   - (ii) in paragraph 2, insert at the end “ and its abbreviated country code ”.
 
-### 11. The Marketing of Ornamental Plant Propagating Material Regulations 1999[^key-cab6bd372341d44598a7e4ebcf519e55]
+### 11. The Marketing of Ornamental Plant Propagating Material Regulations 1999[^c-cab6bd372341d44598a7e4ebcf519e55]
 
 (1) The Marketing of Ornamental Plant Propagating Material Regulations 1999 [^c23584961] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
-- (a) omit the definitions of “Directive [98/56/EC](https://www.legislation.gov.uk/eudr/1998/56)”, [^key-62aa04b8cd09d7ada8e73cc42a72a917]... “Regulation 2100/94” and “third country”,
+- (a) omit the definitions of “Directive [98/56/EC](https://www.legislation.gov.uk/eudr/1998/56)”, [^c-62aa04b8cd09d7ada8e73cc42a72a917]... “Regulation 2100/94” and “third country”,
 - (b) after the definition of “propagation” insert—
 
   > “**responsible official body**” means—
@@ -547,7 +547,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (3) In regulation 3(2)(a) (marketing requirements and exceptions), for “to third countries” substitute “ from the United Kingdom ”.
 
-(3A)[^key-637ee5158bb1e2eb3261eaf2d9dd847d] In regulation 4 (quality requirements for propagating material)—
+(3A)[^c-637ee5158bb1e2eb3261eaf2d9dd847d] In regulation 4 (quality requirements for propagating material)—
 
 - (a) in paragraph (1)(d)—
   - (i) for “Union” substitute “GB”,
@@ -566,20 +566,20 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   - (iii) in the definition of “RNQP”, for “Union” in each place it occurs substitute “GB”,
   - (iv) omit the definition of “Union quarantine pest”.
 
-(4)[^key-6d2f700e88f2b690aa8206e3d115ca90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6d2f700e88f2b690aa8206e3d115ca90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-04f44308a800d0fbad8f81f18ca402c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-04f44308a800d0fbad8f81f18ca402c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In regulation 11(1) (description of propagating material)—
 
-- (a)[^key-dbc1e7476c050484c6e1f28bf0814dcf] in sub-paragraph (a), for “Community plant variety rights pursuant to Regulation 2100/94 or national” substitute “UK”,
+- (a)[^c-dbc1e7476c050484c6e1f28bf0814dcf] in sub-paragraph (a), for “Community plant variety rights pursuant to Regulation 2100/94 or national” substitute “UK”,
 - (b) in sub-paragraph (c)(iii), for the words from “Community plant variety rights” to the end substitute “plant breeders' right in respect of the variety under the Plant Varieties Act 1997 [^c23585001]”.
 
 (7) In regulation 12 (propagating material produced in third countries)—
 
 - (a) in the heading, for “in third countries” substitute “ outside the United Kingdom ”,
 - (b) in paragraph (1)—
-  - (i) for “from a third country” substitute “ produced in a country outside of the United Kingdom[^key-efc8a4f488e0e2c120689fd2bf873108] ”,
+  - (i) for “from a third country” substitute “ produced in a country outside of the United Kingdom[^c-efc8a4f488e0e2c120689fd2bf873108] ”,
   - (ii) for “Directive [98/56/EC](https://www.legislation.gov.uk/eudr/1998/56)” substitute “ these Regulations ”,
 - (c) in each of paragraphs (2) and (4)—
   - (i) insert at the beginning, “ Subject to paragraph (5), ”,
@@ -588,7 +588,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   > (5) Paragraphs (2) and (4) do not apply to suppliers importing propagating material produced—
   >
-  > - (a)[^key-08a6bf06d125de8da72b4894d16d80df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  > - (a)[^c-08a6bf06d125de8da72b4894d16d80df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   > - (b) in the Channel Islands or the Isle of Man.
 
   .
@@ -600,28 +600,28 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 - (c) in paragraph 3, at the end insert “ and its abbreviated country code ”,
 - (d) in paragraph 10, for “from a third country” substitute “ into the United Kingdom ”.
 
-### 12. The Oil and Fibre Plant Seed (Scotland) Regulations 2004[^key-ec5705b42bfbedbb84e8f2e86ff45aba]
+### 12. The Oil and Fibre Plant Seed (Scotland) Regulations 2004[^c-ec5705b42bfbedbb84e8f2e86ff45aba]
 
 (1) The Oil and Fibre Plant Seed (Scotland) Regulations 2004 [^c23585011] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
 - (a) omit the definition of “Annex V(C) document”,
-- (b)[^key-e9a70d04d5b9d72e639e01d182bb53f2] in the definition of “blended seed lot”—
+- (b)[^c-e9a70d04d5b9d72e639e01d182bb53f2] in the definition of “blended seed lot”—
   - (i) omit “or Annex I (crop conditions) of the Oil and Fibre Plant Seed Directive”,
   - (ii) for “National Authority” substitute “GB Authority or the NI Authority”,
-- (c)[^key-a283cd3def81d76af27000d5f10cec94] in the definition of “breeder”—
+- (c)[^c-a283cd3def81d76af27000d5f10cec94] in the definition of “breeder”—
   - (i) in sub-paragraph (a), for “UK National List or the Common Catalogue” substitute “GB Variety List, an NI Variety List or the equivalent list in a country granted equivalence”,
   - (ii) in sub-paragraph (b), for “UK National List or in the Common Catalogue” and “UK National List or Common Catalogue” substitute “GB Variety List, NI Variety List or equivalent list in a country granted equivalence”,
-- (d)[^key-246b6f413c8f890673feb130752e707c] in the definition of “bulked seed lot”—
+- (d)[^c-246b6f413c8f890673feb130752e707c] in the definition of “bulked seed lot”—
   - (i) in sub-paragraph (a)(iii), omit “or Annex I (crop conditions) of the Oil and Fibre Plant Seed Directive”,
   - (ii) in sub-paragraph (b), for “National Authority” substitute “GB Authority or the NI Authority”,
-- (e)[^key-fa73198499fbb7d51d7644317c0615fd] omit the definitions of “Common Catalogue” and “the Common Catalogue Directive”,
+- (e)[^c-fa73198499fbb7d51d7644317c0615fd] omit the definitions of “Common Catalogue” and “the Common Catalogue Directive”,
 - (ea) in the definition of “Conservation Variety”, for “UK National List” substitute “GB Variety List or an NI Variety List”,
-- (f)[^key-7543cff7dbd02ed6787c116c06315da9] in the definition of “control plot”, for “European Authority” in both places it occurs substitute “GB Authority or the NI Authority”,
+- (f)[^c-7543cff7dbd02ed6787c116c06315da9] in the definition of “control plot”, for “European Authority” in both places it occurs substitute “GB Authority or the NI Authority”,
 - (g) after the definition of “control plot” insert—
 
-  > “country granted equivalence” means a country that has been—[^key-25848035cd9098fa154e99844c71d7e1]
+  > “country granted equivalence” means a country that has been—[^c-25848035cd9098fa154e99844c71d7e1]
   >
   > - (a) granted equivalence under the Equivalence Decision; or
   > - (b) assessed by Scottish Ministers as producing the species of seed referred to in regulation 5 under conditions equivalent to those required by these Regulations;
@@ -629,18 +629,18 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > “**Crown Dependency**” means any of the Channel Islands or the Isle of Man;
 
   ,
-- (ga)[^key-9c9449e74ea86ee4e860488964919433] for the definition of “Department of Agriculture and Rural Development” substitute—
+- (ga)[^c-9c9449e74ea86ee4e860488964919433] for the definition of “Department of Agriculture and Rural Development” substitute—
 
   > - “DAERA” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;
 
   ,
-- (h)[^key-1e2e5e63f25ff23d68ec1fc7918a46d7] omit the definition of “EEA State”,
-- (i)[^key-cec9ecb2a0af7d1ef18247b05d246eb4] omit the definitions of “European Authority” and “by a European Authority”,
-- (j)[^key-3103730ba9352bc1eef89816fe95484a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-0bb659dcd63f5268c0cf9ccc26a9e5e1] in the definition of “fully certified”—
+- (h)[^c-1e2e5e63f25ff23d68ec1fc7918a46d7] omit the definition of “EEA State”,
+- (i)[^c-cec9ecb2a0af7d1ef18247b05d246eb4] omit the definitions of “European Authority” and “by a European Authority”,
+- (j)[^c-3103730ba9352bc1eef89816fe95484a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-0bb659dcd63f5268c0cf9ccc26a9e5e1] in the definition of “fully certified”—
   - (i) in sub-paragraph (b), for “European” substitute “International”,
   - (ii) in the text after sub-paragraph (b), for the words “in Annexes I” to the end substitute “schedule 4;”,
-- (l)[^key-8a9b455477eb4304509d8241539c130a] after the definition of “genetically modified” insert—
+- (l)[^c-8a9b455477eb4304509d8241539c130a] after the definition of “genetically modified” insert—
 
   > - “the GMO Regulations” means—
   >   - (a) in relation to Scotland, the Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 [^c23585031];
@@ -667,7 +667,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   >   - (ii) the NI Authority;
 
   ,
-- (m)[^key-cc8741c461bdf9f334db366a6d589619] omit the definition of “licensed EC crop inspector”,
+- (m)[^c-cc8741c461bdf9f334db366a6d589619] omit the definition of “licensed EC crop inspector”,
 - (n) omit the definition of “National Authority”,
 - (o) before the definition of “official certificate” insert—
 
@@ -710,35 +710,35 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (3) In regulation 3 (definitions of seed categories)—
 
-- (a)[^key-6dfbc36b507b49a81615a7f2f74c7c38] in the definition of “Pre-basic Seed”, for paragraph (c) substitute—
+- (a)[^c-6dfbc36b507b49a81615a7f2f74c7c38] in the definition of “Pre-basic Seed”, for paragraph (c) substitute—
 
   > - (c) has been—
   >   - (i) officially certified, or confirmed by the Scottish Ministers by means of a breeder’s confirmation, as satisfying the conditions specified in paragraphs (a) or (b) and the requirements for Basic Seed specified in schedule 4; or
   >   - (ii) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in paragraphs (a) or (b) and the applicable requirements for Basic Seed in the relevant part of the United Kingdom;
 
   ,
-- (b)[^key-31f6a86487da2870af4425120e89cbab] in the definition of “Basic Seed”, for paragraph (d) substitute—
+- (b)[^c-31f6a86487da2870af4425120e89cbab] in the definition of “Basic Seed”, for paragraph (d) substitute—
 
   > - (d) has been—
   >   - (i) officially certified, or confirmed by the Scottish Ministers by means of a breeder’s confirmation, as satisfying the conditions specified in paragraphs (a), (b) or (c) and the requirements for Basic Seed specified in schedule 4; or
   >   - (ii) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in paragraphs (a), (b) or (c) and the applicable requirements for Basic Seed in the relevant part of the United Kingdom;
 
   ,
-- (c)[^key-0ec471f3ee50334c83025dfdf6827220] in the definition of “Certified Seed”, for paragraph (c) substitute—
+- (c)[^c-0ec471f3ee50334c83025dfdf6827220] in the definition of “Certified Seed”, for paragraph (c) substitute—
 
   > - (c) has been—
   >   - (i) officially certified as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Certified Seed specified in schedule 4; or
   >   - (ii) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in paragraphs (a) and (b) and the applicable requirements for Certified Seed in the relevant part of the United Kingdom;
 
   ,
-- (d)[^key-374e4b27337a9704fb5926ae5d5461c6] in the definition of “Certified Seed of the First Generation”, for paragraph (c) substitute—
+- (d)[^c-374e4b27337a9704fb5926ae5d5461c6] in the definition of “Certified Seed of the First Generation”, for paragraph (c) substitute—
 
   > - (c) has been—
   >   - (i) officially certified as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Certified Seed of the First Generation specified in schedule 4; or
   >   - (ii) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in paragraphs (a) and (b) and the applicable requirements for Certified Seed of the First Generation in the relevant part of the United Kingdom;
 
   ,
-- (e)[^key-c8bcf2ef30694cf5e70b2cb52fd4bf86] in the definition of “Certified Seed of the Second Generation”—
+- (e)[^c-c8bcf2ef30694cf5e70b2cb52fd4bf86] in the definition of “Certified Seed of the Second Generation”—
   - (i) for paragraph (a)(iii) substitute—
 
     > - (iii) has been—
@@ -753,14 +753,14 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     >   - (bb) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in sub-paragraphs (i) and (ii) and the applicable requirements for Certified Seed of the Second Generation in the relevant part of the United Kingdom;
 
     ,
-- (f)[^key-701ad6a59bfd21ee9a7d6fe7a39e0137] in the definition of “Certified Seed of the Third Generation”, for paragraph (c) substitute—
+- (f)[^c-701ad6a59bfd21ee9a7d6fe7a39e0137] in the definition of “Certified Seed of the Third Generation”, for paragraph (c) substitute—
 
   > - (c) has been—
   >   - (i) officially certified as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Certified Seed of the Third Generation specified in schedule 4; or
   >   - (ii) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in paragraphs (a) and (b) and the applicable requirements for Certified Seed of the Third Generation in the relevant part of the United Kingdom;
 
   ,
-- (g)[^key-5f127214dd92e09b54cd2b01d19c2eb0] for sub-paragraph (g) substitute—
+- (g)[^c-5f127214dd92e09b54cd2b01d19c2eb0] for sub-paragraph (g) substitute—
 
   > - (g) in the definition of “Commercial Seed”, for paragraph (b) substitute—
   >
@@ -780,13 +780,13 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (5) In regulation 6 (marketing of seed)—
 
-- (a)[^key-1985f3d7e23bac1bd112025679810aa4] in paragraph (1)(b)(ii), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
+- (a)[^c-1985f3d7e23bac1bd112025679810aa4] in paragraph (1)(b)(ii), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
 - (aa) in paragraph (2)(b)(i), omit “or Annex I (crop conditions) of the Oil and Fibre Plant Seed Directive”,
 - (ab) in paragraph (3), for “a European” substitute “an International”,
 - (b) in paragraph (5), for “a country which is not an EEA State” substitute “ outside the United Kingdom ”,
-- (c)[^key-174c9962b0f8cd39811ecde15e091b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-174c9962b0f8cd39811ecde15e091b10] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-869312baa9ed86c422eec3ad2c4c86b1] In regulation 6A (importation from outside the European Union)—
+(6)[^c-869312baa9ed86c422eec3ad2c4c86b1] In regulation 6A (importation from outside the European Union)—
 
 - (a) in the heading, for “outside the European Union” substitute “a country granted equivalence”,
 - (b) for “outside the European Union” substitute “a country granted equivalence”.
@@ -795,7 +795,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) for paragraph (1)(b), substitute—
 
-  > - (b)[^key-8acfac6bb72818533150803912029eb8] an authorisation has been granted to the producer, in respect of small quantities of seed for scientific purposes or selection work in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  > - (b)[^c-8acfac6bb72818533150803912029eb8] an authorisation has been granted to the producer, in respect of small quantities of seed for scientific purposes or selection work in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
   >   - (i) a GB Authority other than the Scottish Ministers; or
   >   - (ii) the NI Authority.
 
@@ -804,7 +804,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   > (4) The Scottish Ministers may only grant an authorisation under this regulation in respect of a genetically modified variety if the marketing and release of the genetically modified material by the applicant has been authorised—
   >
-  > - (a) before the day on which IP completion[^key-db174ae7a39bc3d275b80c2db2941c9b] day falls, under Part C of the 2001 Deliberate Release Directive,
+  > - (a) before the day on which IP completion[^c-db174ae7a39bc3d275b80c2db2941c9b] day falls, under Part C of the 2001 Deliberate Release Directive,
   > - (b) under the Food and Feed Regulation, or
   > - (c) under the GMO Regulations.
 
@@ -817,12 +817,12 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > (1) Regulation 6(1)(b) does not apply to the marketing by a producer of seed for test and trial purposes in accordance with—
   >
   > - (a) a tests and trials authorisation; or
-  > - (b)[^key-949eefa2f439fa2eed5222d5e5034e18] an authorisation which has been granted to the producer, in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  > - (b)[^c-949eefa2f439fa2eed5222d5e5034e18] an authorisation which has been granted to the producer, in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
   >   - (i) a GB Authority other than the Scottish Ministers; or
   >   - (ii) the NI Authority.
 
   ,
-- (b)[^key-892ed7f812c2db845c4c2d47df118534] in paragraph (4)—
+- (b)[^c-892ed7f812c2db845c4c2d47df118534] in paragraph (4)—
   - (i) for sub-paragraph (a) substitute—
 
     > - (a) the seed is of a variety for which an application has been made by the applicant, which has not been withdrawn or finally determined, under—
@@ -839,8 +839,8 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
     ,
 - (c) in paragraph (6), for “that permitted by Article 7 of the 2004 Commission Decision” substitute “ the greater of 0.1% of the annual number of seeds used in the United Kingdom and such quantity as the Scottish Ministers consider is sufficient to sow 10 hectares ”,
-- (d)[^key-f609f9a3106eb4e0c899e552277c8bc8] in paragraph (9), for “National List” to the end substitute “GB Variety List or an NI Variety List.”,
-- (e)[^key-b98ac31e4406ce6b2e07d862032de50d] in paragraph (10), for “name of the Member State” to the end substitute “location of the trials within the United Kingdom.”.
+- (d)[^c-f609f9a3106eb4e0c899e552277c8bc8] in paragraph (9), for “National List” to the end substitute “GB Variety List or an NI Variety List.”,
+- (e)[^c-b98ac31e4406ce6b2e07d862032de50d] in paragraph (10), for “name of the Member State” to the end substitute “location of the trials within the United Kingdom.”.
 
 (9) [^c23585111]In regulation 8B (exception for conservation varieties) —
 
@@ -851,7 +851,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (a) in the first paragraph—
   >   - (i) “Each Member State shall ensure that,” was omitted,
   >   - (ii) for “does not exceed”, there were substituted “ may not exceed ”,
-  >   - (iii) for “that Member State”, there were substituted “ Great Britain[^key-e955ed7e52d5b848a0679f54b1f1aeae] ”,
+  >   - (iii) for “that Member State”, there were substituted “ Great Britain[^c-e955ed7e52d5b848a0679f54b1f1aeae] ”,
   > - (b) in the second paragraph—
   >   - (i) for “each Member State”, there were substituted “ Great Britain ”,
   >   - (ii) for “the Member State” in both places where it occurs, there were substituted “ Great Britain ”.
@@ -859,7 +859,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   ,
 - (b) in paragraph (11)—
   - (i) in the definition of “additional region”, insert at the end “, with Article 11(1) of Commission Directive 2008/62 being read as if for the reference to “ Member States ” in each place where it occurs and “the Member States” there were substituted “ the Scottish Ministers ”,
-  - (ii)[^key-b884eb9cd4e668c2f7b62a729f1c5717] for the definition of “region of origin” substitute—
+  - (ii)[^c-b884eb9cd4e668c2f7b62a729f1c5717] for the definition of “region of origin” substitute—
 
     > - “region of origin” means the region forming a part or the whole of Great Britain identified by the Scottish Ministers for the purposes of Article 8.1 of Commission Directive 2008/62, with Article 8.1 of Commission Directive 2008/62 being read as if—
     >   - (a) in the first sub-paragraph—
@@ -876,15 +876,15 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 - (a) for paragraph (1)(b)(ii) substitute—
 
   > - (ii) have been mechanically combined in proportions notified by the person responsible for the maintenance of the pollinator-dependent hybrid and pollinator within the varietal association, to
-  >   - (aa)[^key-bc0de3b89b37a4d0aacda35583e9bd03] a GB Authority other than the Scottish Ministers; or
+  >   - (aa)[^c-bc0de3b89b37a4d0aacda35583e9bd03] a GB Authority other than the Scottish Ministers; or
   >   - (bb) the NI Authority.
 
   ,
-- (b)[^key-86799c164de372a315f198b8c3677532] in paragraph (6), in the definition of “varietal association”, for “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”.
+- (b)[^c-86799c164de372a315f198b8c3677532] in paragraph (6), in the definition of “varietal association”, for “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”.
 
 (11) For regulation 10(2) (general exemptions) substitute—
 
-> (2)[^key-d16f54fddf4ac9daffc378cb42c03c34] The Scottish Ministers may exercise the power under paragraph (1)—
+> (2)[^c-d16f54fddf4ac9daffc378cb42c03c34] The Scottish Ministers may exercise the power under paragraph (1)—
 >
 > - (a) for the purposes of a temporary experiment seeking improved alternatives to provisions of these Regulations and organised in accordance with regulations made under section 16(5) of the Act; or
 > - (b) to the extent that the provisions of the general licence are—
@@ -911,22 +911,22 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   - (ii) for sub-paragraph (b) substitute—
 
     > - (b) which has been certified as satisfying the conditions for the relevant category of seed although it attains a lower percentage of germination than that specified in paragraph 13 of Part II of Schedule 4 in relation to Basic Seed—
-    >   - (i)[^key-e16cf0d7926625e8c0f47b52d4865b36] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain; or
+    >   - (i)[^c-e16cf0d7926625e8c0f47b52d4865b36] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain; or
     >   - (ii) by the NI Authority, in accordance with the applicable requirements in Northern Ireland; or,
 
     ,
   - (iii) for sub-paragraph (c)(ii) substitute—
 
     > - (ii) in the case of seed which has been fully certified as being Pre-basic Seed or Basic Seed—
-    >   - (aa)[^key-88b493716a63a9f0a9bd963a943e6607] by a GB Authority other than the Scottish Ministers, in the applicable requirements in the relevant part of Great Britain, irrespective of the findings of the GB Authority; or
+    >   - (aa)[^c-88b493716a63a9f0a9bd963a943e6607] by a GB Authority other than the Scottish Ministers, in the applicable requirements in the relevant part of Great Britain, irrespective of the findings of the GB Authority; or
     >   - (bb) by the NI Authority, in the applicable requirements in Northern Ireland, irrespective of the findings of the NI Authority.
 
     ,
-- (b)[^key-89197e60ad934df8d17d02547f4412c0] in paragraph (3), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
+- (b)[^c-89197e60ad934df8d17d02547f4412c0] in paragraph (3), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
 
 (13) In regulation 12 (marketing of early movement seed)—
 
-- (a)[^key-70493146aef4a2392fab75bc01c0407d] in paragraph (1)—
+- (a)[^c-70493146aef4a2392fab75bc01c0407d] in paragraph (1)—
   - (i) in sub-paragraph (a), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
   - (ii) for sub-paragraph (b) substitute—
 
@@ -938,28 +938,28 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
     ,
 - (b) in paragraph (3)—
-  - (i)[^key-54404d821caea30d22581964dc2b5db6] for “European Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”,
+  - (i)[^c-54404d821caea30d22581964dc2b5db6] for “European Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”,
   - (ii) omit “or Annex II (seed conditions) of the Oil and Fibre Plant Seed Directive”,
-- (c)[^key-5a214756148718979d281f1ca0db1b11] in paragraph (5), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
+- (c)[^c-5a214756148718979d281f1ca0db1b11] in paragraph (5), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
 
 (14) In regulation 14 (applications for official certificates)—
 
-- (a)[^key-dbd04fe1b49b34d2acc3f542341478c4] in paragraph (3), for “UK National List (or an equivalent list in another EEA State)” in both places where it occurs, substitute “GB Variety List or an NI Variety List”,
+- (a)[^c-dbd04fe1b49b34d2acc3f542341478c4] in paragraph (3), for “UK National List (or an equivalent list in another EEA State)” in both places where it occurs, substitute “GB Variety List or an NI Variety List”,
 - (b) in paragraph (4)(d) omit—
   - (i) “or licensed EC crop inspector”, and
   - (ii) “, or licensed EC crop inspector’s,”.
-- (c)[^key-dbd04fe1b49b34d2acc3f542341478c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-dbd04fe1b49b34d2acc3f542341478c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(15) In regulation 15(1) (sampling), for “European Authority” substitute “ International[^key-2ef9fef0eda603e8e4ee6d7f8762cd44] Authority ”.
+(15) In regulation 15(1) (sampling), for “European Authority” substitute “ International[^c-2ef9fef0eda603e8e4ee6d7f8762cd44] Authority ”.
 
 (16) In regulation 16 (sealing of packages of fully certified seed)—
 
-- (a)[^key-62d9eaabee851c3ab153c90ee66ab83c] for sub-paragraph (1)(b) substitute—
+- (a)[^c-62d9eaabee851c3ab153c90ee66ab83c] for sub-paragraph (1)(b) substitute—
 
   > - (b) sealed in any other part of the United Kingdom in accordance with the applicable requirements in the relevant part of the United Kingdom.
 
   ,
-- (b)[^key-0ecc9adfb5461e6eabb33eb0d6f5b410] for paragraph (3)(b) substitute—
+- (b)[^c-0ecc9adfb5461e6eabb33eb0d6f5b410] for paragraph (3)(b) substitute—
 
   > - (b) in any other part of the United Kingdom in accordance with the applicable requirements in the relevant part of the United Kingdom.
 
@@ -967,22 +967,22 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (17) In regulation 17 (labelling of packages of fully certified seed)—
 
-- (a)[^key-4b63b0eb8cfa58b14af2d5783895120d] for paragraph (4A)(b) substitute—
+- (a)[^c-4b63b0eb8cfa58b14af2d5783895120d] for paragraph (4A)(b) substitute—
 
   > - (b) where seed is sealed in any part of the United Kingdom other than Scotland, be labelled in accordance with the requirements for labelling applicable to a Conservation Variety in the relevant part of the United Kingdom.
 
   ,
-- (b)[^key-05849e6f09d4e76df3331426f4abed35] for paragraph (5)(b) substitute—
+- (b)[^c-05849e6f09d4e76df3331426f4abed35] for paragraph (5)(b) substitute—
 
   > - (b) which is sealed in any part of the United Kingdom other than Scotland will satisfy the applicable requirements in the relevant part of the United Kingdom,
 
   ,
-- (c)[^key-d33b1684a515f2ad2826bd5a83f22f94] for paragraph (8)(b) substitute—
+- (c)[^c-d33b1684a515f2ad2826bd5a83f22f94] for paragraph (8)(b) substitute—
 
   > - (b) which is sealed in any other part of the United Kingdom, must contain an official document in accordance with the applicable requirements for official documents and, as the case may be, for labelling of packages of mixtures of seeds, in the relevant part of the United Kingdom.
 
   ,
-- (d)[^key-df446533c549b2f829c095ffef5b0aef] in paragraph (10)—
+- (d)[^c-df446533c549b2f829c095ffef5b0aef] in paragraph (10)—
   - (i) for sub-paragraph (a) substitute—
 
     > - (a) for packages sealed in—
@@ -997,7 +997,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     ,
 - (e) in paragraph (14), for “one of the official languages of the European Union” substitute “English but may, in addition, be given in other languages”.
 
-(18)[^key-53660be9a5b9431b9da282690473bf95] In regulation 19(1)(c) (breeder’s confirmations)—
+(18)[^c-53660be9a5b9431b9da282690473bf95] In regulation 19(1)(c) (breeder’s confirmations)—
 
 - (a) in head (i), for the words “UK National List” to the end substitute “GB Variety List or an NI Variety List”,
 - (b) in head (ii), for the words “UK National List” to the end substitute “GB Variety List or an NI Variety List”.
@@ -1008,20 +1008,20 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (21) After regulation 25 (written and electronic communication) insert—
 
-> **25A. Certification in a Crown Dependency or a country granted equivalence[^key-8cd92f3f29319afe7a5aeb34af3e23c3]**
+> **25A. Certification in a Crown Dependency or a country granted equivalence[^c-8cd92f3f29319afe7a5aeb34af3e23c3]**
 >
 > Any seed certified and labelled in a Crown Dependency or a country granted equivalence under legislation recognised by the Scottish Ministers to have equivalent effect to these Regulations may be marketed in Scotland.
 >
-> **25B. Transitional provision for official labels on IP completion day[^key-f56f1762fbd9b763a2bcfdc7afb8f533]**
+> **25B. Transitional provision for official labels on IP completion day[^c-f56f1762fbd9b763a2bcfdc7afb8f533]**
 >
-> A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations is to be treated as an official label for a package of Basic Seed, Seed of a Certified Generation, Commercial Seed, seed of a Conservation Variety or a varietal association of seed, for the purposes of any use of that label before the end of the period of twelve months[^key-e47c30f19681a67b61f08729e8f62634] beginning with the day after the day on which IP completion day falls.
+> A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations is to be treated as an official label for a package of Basic Seed, Seed of a Certified Generation, Commercial Seed, seed of a Conservation Variety or a varietal association of seed, for the purposes of any use of that label before the end of the period of twelve months[^c-e47c30f19681a67b61f08729e8f62634] beginning with the day after the day on which IP completion day falls.
 
 .
 
 (22) In schedule 2 (official certificates and breeder's confirmations), in Part I (official certificates)—
 
 - (a) in paragraph (1) (applications for seed harvested in the United Kingdom), omit “but not made in pursuance of Article 19 (certification of seed from other EEA States or equivalent third countries) of the Oil and Fibre Plant Seed Directive”,
-- (b)[^key-500d6ad0025c8c8318e4e63a602e3a90] for paragraph 4 (applications for seed harvested in an EEA State or third country) substitute—
+- (b)[^c-500d6ad0025c8c8318e4e63a602e3a90] for paragraph 4 (applications for seed harvested in an EEA State or third country) substitute—
 
   > **4. Applications for seed harvested outside the United Kingdom**
   >
@@ -1054,7 +1054,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   ,
 
-(23)[^key-edca3afa3d7c40be8df675e49449b984] In schedule 4 (requirements for Basic Seed, Certified Seed, Certified Seed of the First Generation, Certified Seed of the Second Generation, Certified Seed of the Third Generation and Commercial Seed)—
+(23)[^c-edca3afa3d7c40be8df675e49449b984] In schedule 4 (requirements for Basic Seed, Certified Seed, Certified Seed of the First Generation, Certified Seed of the Second Generation, Certified Seed of the Third Generation and Commercial Seed)—
 
 - (a) in Part I (conditions relating to crops from which seed other than commercial seed is obtained)—
   - (i) in paragraph 2 (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List”,
@@ -1067,20 +1067,20 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (24) [^c23585131]In schedule 4A (standards for certification of conservation varieties)—
 
-- (a)[^key-0597fc761ee0935e413e3981e624c38d] in Part III (conditions relating to crops from which seed is obtained), in paragraph 1 (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List”.
+- (a)[^c-0597fc761ee0935e413e3981e624c38d] in Part III (conditions relating to crops from which seed is obtained), in paragraph 1 (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List”.
 - (b) in Part IV (conditions relating to seed of a Conservation Variety), in paragraph 1 (standards of germination, analytical purity and content of seed of other plant species), omit “EC”.
 
 (25) In schedule 6—
 
 - (a) in paragraph 4(a)(i) (official label for a package of Pre-basic Seed), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
 - (b) in paragraph 5(a) (official label for a package of Basic Seed or Seed of a Certified Generation)—
-  - (i) in head[^key-550e141e0cfb6573a6b4fd49b58b9748] (i), for “EC” substitute “ GB[^key-eae31564ce225255c359855673370546] ”,
-  - (ii) in head[^key-3db814c050f47982adf0eee21a18a5a1] (ii), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
-  - (iii)[^key-691eb19a40e5eec67880c53e68459ffa] in heads (xi) and (xii), for “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
+  - (i) in head[^c-550e141e0cfb6573a6b4fd49b58b9748] (i), for “EC” substitute “ GB[^c-eae31564ce225255c359855673370546] ”,
+  - (ii) in head[^c-3db814c050f47982adf0eee21a18a5a1] (ii), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
+  - (iii)[^c-691eb19a40e5eec67880c53e68459ffa] in heads (xi) and (xii), for “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
 - (c) in paragraph 6(a) (official label for a package of Commercial Seed)—
-  - (i) in sub-paragraph (i), for “EC” substitute “ GB[^key-4c4cf89b73e727d5afb62f56dcd51bd5] ”,
+  - (i) in sub-paragraph (i), for “EC” substitute “ GB[^c-4c4cf89b73e727d5afb62f56dcd51bd5] ”,
   - (ii) in sub-paragraph (ii), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
-- (d)[^key-85e87540614e9401e7801d42d1a0014a] in paragraph 6A(a) (official label for a package of test and trial seed)—
+- (d)[^c-85e87540614e9401e7801d42d1a0014a] in paragraph 6A(a) (official label for a package of test and trial seed)—
   - (i) in head (ii), for “EEA State or their distinguishing abbreviation”, substitute “country or country initials”,
   - (ii) for head (vii) substitute—
 
@@ -1089,45 +1089,45 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     >   - (bb) in relation to applications in Northern Ireland, the relevant provision of legislation in Northern Ireland having equivalent effect to the Seeds (National Lists of Varieties) Regulations 2001 for acceptance on to an NI Variety List;
 
     ,
-- (e)[^key-8ecf9f7f41b6c22b07bbc9707c16b316] in paragraph 6B(1)(a)(i) (official label for a package of seed of a Conservation Variety), for “EC” substitute “GB”,
+- (e)[^c-8ecf9f7f41b6c22b07bbc9707c16b316] in paragraph 6B(1)(a)(i) (official label for a package of seed of a Conservation Variety), for “EC” substitute “GB”,
 - (f) in paragraph 7(a) (official label for a package of a varietal association of seed)—
-  - (i) in head[^key-0c1252a02c9463a9235fe44c868c6818] (i), for “EC” substitute “ GB[^key-e6ec60f7d3490b905c3a8e73ecc4fc79] ”,
-  - (ii) in head[^key-465f4cf68ace809e28d2f32fe919a7a8] (ii), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
-  - (iii)[^key-ce10d692e04f5a626e4c488bedb3a359] in head (xi), for “National Authority” substitute “GB Authority”,
-- (g) in paragraph 8(a)(i) (label for a small package of Pre-basic Seed, Basic Seed, Seed of a Certified Generation or Commercial Seed), for “EC” substitute “ GB[^key-ed2ef5022107a47763601b2ad42b457f] ”,
-- (h)[^key-61bc0a2470978f4fa05e38e871f96088] in Part V (information in respect of seed imported from countries which are not EEA States in packages exceeding 2 kilograms net weight)—
+  - (i) in head[^c-0c1252a02c9463a9235fe44c868c6818] (i), for “EC” substitute “ GB[^c-e6ec60f7d3490b905c3a8e73ecc4fc79] ”,
+  - (ii) in head[^c-465f4cf68ace809e28d2f32fe919a7a8] (ii), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
+  - (iii)[^c-ce10d692e04f5a626e4c488bedb3a359] in head (xi), for “National Authority” substitute “GB Authority”,
+- (g) in paragraph 8(a)(i) (label for a small package of Pre-basic Seed, Basic Seed, Seed of a Certified Generation or Commercial Seed), for “EC” substitute “ GB[^c-ed2ef5022107a47763601b2ad42b457f] ”,
+- (h)[^c-61bc0a2470978f4fa05e38e871f96088] in Part V (information in respect of seed imported from countries which are not EEA States in packages exceeding 2 kilograms net weight)—
   - (i) in the heading, for “which are not EEA States” substitute “outside the United Kingdom”,
   - (ii) in paragraph 10 (information to be supplied in respect of seed imported from a country which is not an EEA State in a package exceeding 2 kilograms net weight)—
     - (aa) in the heading, for “which is not an EEA State” substitute “outside the United Kingdom”,
     - (bb) in the text before sub-paragraph (a), for “which is not an EEA State” substitute “outside the United Kingdom”,
-- (i)[^key-23b3ed46ee94be8b5c3fa07d0c293a59] in Part VI (printing of specified matters on packages (whole bag labelling)), in paragraph 17 (seed packages sealed in the United Kingdom but not in Scotland, or in an EEA State other than the United Kingdom)—
+- (i)[^c-23b3ed46ee94be8b5c3fa07d0c293a59] in Part VI (printing of specified matters on packages (whole bag labelling)), in paragraph 17 (seed packages sealed in the United Kingdom but not in Scotland, or in an EEA State other than the United Kingdom)—
   - (i) in the heading, for “in an EEA State other than the United Kingdom” substitute “outside the United Kingdom”,
   - (ii) for “EEA State” in the first place where it occurs, substitute “country outside the United Kingdom”,
   - (iii) for “EEA State” in the second place where it occurs substitute “country”,
   - (iv) for “the Department of Agriculture and Rural Development” substitute “DAERA”.
 
-### 13. The Cereal Seed (Scotland) Regulations 2005[^key-30a2a1b20d345c26a1523e15859f7f3b]
+### 13. The Cereal Seed (Scotland) Regulations 2005[^c-30a2a1b20d345c26a1523e15859f7f3b]
 
 (1) The Cereal Seed (Scotland) Regulations 2005 [^c23585171] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
 - (a) omit the definition of “Annex V(C) document”,
-- (b)[^key-e79232262d7b091ede9a657761c1c7ed] in the definition of “blended seed lot”—
+- (b)[^c-e79232262d7b091ede9a657761c1c7ed] in the definition of “blended seed lot”—
   - (i) omit “or Annex I (crop conditions) of the Cereal Seed Directive”,
   - (ii) for “National Authority” substitute “GB Authority or the NI Authority”,
-- (c)[^key-f8a14543ed6d06c7d63b16de502e07c4] in the definition of “breeder”—
+- (c)[^c-f8a14543ed6d06c7d63b16de502e07c4] in the definition of “breeder”—
   - (i) in sub-paragraph (a), for “UK National List or the Common Catalogue” substitute “GB Variety List, an NI Variety List or the equivalent list in a country granted equivalence”,
   - (ii) in sub-paragraph (b), for “UK National List or in the Common Catalogue” and “UK National List or Common Catalogue” substitute “GB Variety List, NI Variety List or equivalent list in a country granted equivalence”,
-- (d)[^key-bafd5f991a030a3b2a8d6aa86a094492] in the definition of “bulked seed lot”—
+- (d)[^c-bafd5f991a030a3b2a8d6aa86a094492] in the definition of “bulked seed lot”—
   - (i) in sub-paragraph (a)(iii), omit “or Annex I (crop conditions) of the Cereal Seed Directive”,
   - (ii) in sub-paragraph (b), for “National Authority” substitute “GB Authority or the NI Authority”,
-- (e)[^key-76887c7f3de31c519777830c191d5c17] omit the definitions of “Common Catalogue” and “the Common Catalogue Directive”,
+- (e)[^c-76887c7f3de31c519777830c191d5c17] omit the definitions of “Common Catalogue” and “the Common Catalogue Directive”,
 - (ea) in the definition of “Conservation Variety”, for “UK National List” substitute “GB Variety List or an NI Variety List”,
-- (f)[^key-1e2dc696dd313f7c377e2bdb64ea65c5] in the definition of “control plot”, for “European Authority” in both places it occurs substitute “GB Authority or the NI Authority”,
+- (f)[^c-1e2dc696dd313f7c377e2bdb64ea65c5] in the definition of “control plot”, for “European Authority” in both places it occurs substitute “GB Authority or the NI Authority”,
 - (g) after the definition of “control plot”[^c23585181] insert—
 
-  > “country granted equivalence” means a country that has been—[^key-502331cdb8170801308bac6de1139436]
+  > “country granted equivalence” means a country that has been—[^c-502331cdb8170801308bac6de1139436]
   >
   > - (a) granted equivalence under the Equivalence Decision; or
   > - (b) assessed by Scottish Ministers as producing the species of seed referred to in regulation 5 under conditions equivalent to those required by these Regulations;
@@ -1135,18 +1135,18 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > “**Crown Dependency**” means any of the Channel Islands or the Isle of Man;
 
   ,
-- (ga)[^key-8a60f42cf42299821efb175fa922f7f6] for the definition of “Department of Agriculture and Rural Development” substitute—
+- (ga)[^c-8a60f42cf42299821efb175fa922f7f6] for the definition of “Department of Agriculture and Rural Development” substitute—
 
   > - “DAERA” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;
 
   ,
-- (h)[^key-eb35ea0437a04817576ea6e1d8b78dec] omit the definition of “EEA State”,
-- (i)[^key-94cde767e6fdaba23e919d9d6cb327a8] omit the definitions of “European Authority” and “by a European Authority”,
-- (j)[^key-d5070b88346fd735847c5193ede83ae2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (k)[^key-c3d880827409d4b3183499de9e3c39a2] in the definition of “fully certified”—
+- (h)[^c-eb35ea0437a04817576ea6e1d8b78dec] omit the definition of “EEA State”,
+- (i)[^c-94cde767e6fdaba23e919d9d6cb327a8] omit the definitions of “European Authority” and “by a European Authority”,
+- (j)[^c-d5070b88346fd735847c5193ede83ae2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-c3d880827409d4b3183499de9e3c39a2] in the definition of “fully certified”—
   - (i) in sub-paragraph (b), for “European” substitute “International”,
   - (ii) in the text after sub-paragraph (b), for the words “either in” to the end substitute “schedule 4;”,
-- (l)[^key-f725c23c6961ba14980e3e58fcf9e180] after the definition of “genetically modified” insert—
+- (l)[^c-f725c23c6961ba14980e3e58fcf9e180] after the definition of “genetically modified” insert—
 
   > - “the GMO Regulations” means—
   >   - (a) in relation to Scotland, the Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 [^c23585201];
@@ -1173,7 +1173,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   >   - (ii) the NI Authority;
 
   ,
-- (m)[^key-07d4841feaf489dae33afe3fed36a58b] omit the definition of “licensed EC crop inspector”,
+- (m)[^c-07d4841feaf489dae33afe3fed36a58b] omit the definition of “licensed EC crop inspector”,
 - (n) omit the definition of “National Authority”,
 - (o) before the definition of “oats” insert—
 
@@ -1216,35 +1216,35 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (3) In regulation 3 (definitions of seed categories)—
 
-- (a)[^key-5d03f4cb65bf7cad26bdc9dfd91497c0] in the definition of “Pre-basic Seed”, for paragraph (c) substitute—
+- (a)[^c-5d03f4cb65bf7cad26bdc9dfd91497c0] in the definition of “Pre-basic Seed”, for paragraph (c) substitute—
 
   > - (c) has been—
   >   - (i) subject to regulation 12, officially certified, or confirmed by the Scottish Ministers by means of a breeder’s confirmation, as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Basic Seed specified in schedule 4;
   >   - (ii) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in paragraphs (a) and (b) and the applicable requirements for Basic Seed in the relevant part of the United Kingdom;
 
   ,
-- (b)[^key-85ddb12dc007354356f9bd5b86360c37] in the definition of “Basic Seed”, for paragraph (f) substitute—
+- (b)[^c-85ddb12dc007354356f9bd5b86360c37] in the definition of “Basic Seed”, for paragraph (f) substitute—
 
   > - (f) has been—
   >   - (i) subject to regulation 12, officially certified, or confirmed by the Scottish Ministers by means of a breeder’s confirmation, as satisfying the conditions specified in paragraphs (a), (b), (c), (d) or (e) and the requirements for Basic Seed specified in schedule 4;
   >   - (ii) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in paragraphs (a), (b), (c), (d) or (e) and the applicable requirements for Basic Seed in the relevant part of the United Kingdom;
 
   ,
-- (c)[^key-791dbbd04f8f8541f08f484c17a08f99] in the definition of “Certified Seed”, for paragraph (c) substitute—
+- (c)[^c-791dbbd04f8f8541f08f484c17a08f99] in the definition of “Certified Seed”, for paragraph (c) substitute—
 
   > - (c) has been—
   >   - (i) subject to regulation 12, officially certified as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Certified Seed specified in schedule 4;
   >   - (ii) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in paragraphs (a) and (b) and the applicable requirements for Certified Seed in the relevant part of the United Kingdom;
 
   ,
-- (d)[^key-821ffa0774f83785707c2603f7330aa2] in the definition of “Certified Seed of the First Generation”, for paragraph (c) substitute—
+- (d)[^c-821ffa0774f83785707c2603f7330aa2] in the definition of “Certified Seed of the First Generation”, for paragraph (c) substitute—
 
   > - (c) has been—
   >   - (i) officially certified as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Certified Seed of the First Generation specified in schedule 4;
   >   - (ii) certified by a GB Authority, other than the Scottish Ministers, or the NI Authority as satisfying the conditions specified in paragraphs (a) and (b) and the applicable requirements for Certified Seed of the First Generation in the relevant part of the United Kingdom;
 
   ,
-- (e)[^key-2fe31fdc4e2f3f8a19cdd3afb78c2fd6] in the definition of “Certified Seed of the Second Generation”, for paragraph (c) substitute—
+- (e)[^c-2fe31fdc4e2f3f8a19cdd3afb78c2fd6] in the definition of “Certified Seed of the Second Generation”, for paragraph (c) substitute—
 
   > - (c) has been—
   >   - (i) officially certified as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Certified Seed of the Second Generation specified in schedule 4;
@@ -1260,14 +1260,14 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (5) In regulation 6 (marketing of seed)—
 
-- (a)[^key-9b781dba34ba7a6b00a1acc1bb50882f] in paragraph (1)(b)(i), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
+- (a)[^c-9b781dba34ba7a6b00a1acc1bb50882f] in paragraph (1)(b)(i), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
 - (aa) in paragraph (2)(b)(i), omit “or Annex I (crop conditions) of the Cereal Seed Directive”,
 - (ab) in paragraph (3), for “a European” substitute “an International”,
 - (b) in paragraph (5), for “a country which is not an EEA State” substitute “ outside the United Kingdom ”,
-- (c)[^key-b6cf300f1bb605a8446bcb0c1fe1479b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b6cf300f1bb605a8446bcb0c1fe1479b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) omit paragraph (6).
 
-(6)[^key-d9a4eeb6a64f574d05106b33e547185c] In regulation 6A (importation from outside the European Union)—
+(6)[^c-d9a4eeb6a64f574d05106b33e547185c] In regulation 6A (importation from outside the European Union)—
 
 - (a) in the heading, for “outside the European Union” substitute “a country granted equivalence”,
 - (b) for “outside the European Union” substitute “a country granted equivalence”.
@@ -1276,7 +1276,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) for paragraph (1)(b) substitute—
 
-  > - (b)[^key-d5ad00f33909835cda44798bb0e9728d] an authorisation has been granted to the producer, in respect of small quantities of seed for scientific purposes or selection work in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  > - (b)[^c-d5ad00f33909835cda44798bb0e9728d] an authorisation has been granted to the producer, in respect of small quantities of seed for scientific purposes or selection work in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
   >   - (i) a GB Authority other than the Scottish Ministers; or
   >   - (ii) the NI Authority.
 
@@ -1285,7 +1285,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   > (4) The Scottish Ministers may only grant an authorisation under this regulation in respect of a genetically modified variety if the marketing and release of the genetically modified material by the applicant has been authorised—
   >
-  > - (a) before the day on which IP completion[^key-575e7d091c52cf23008300dcbf616d5a] day falls, under Part C of the 2001 Deliberate Release Directive,
+  > - (a) before the day on which IP completion[^c-575e7d091c52cf23008300dcbf616d5a] day falls, under Part C of the 2001 Deliberate Release Directive,
   > - (b) under the Food and Feed Regulation, or
   > - (c) under the GMO Regulations.
 
@@ -1298,12 +1298,12 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > (1) Regulation 6(1)(b) does not apply to the marketing by a producer of seed for test and trial purposes in accordance with—
   >
   > - (a) a tests and trials authorisation; or
-  > - (b)[^key-14d79c298c44faef0b572251f368e5b7] an authorisation which has been granted to the producer, in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  > - (b)[^c-14d79c298c44faef0b572251f368e5b7] an authorisation which has been granted to the producer, in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
   >   - (i) a GB Authority other than the Scottish Ministers; or
   >   - (ii) the NI Authority.
 
   ,
-- (b)[^key-c5b3eacee19c08955f7d5e2f87a5e569] in paragraph (4)—
+- (b)[^c-c5b3eacee19c08955f7d5e2f87a5e569] in paragraph (4)—
   - (i) for sub-paragraph (a) substitute—
 
     > - (a) the seed is of a variety for which an application has been made by the applicant, which has not been withdrawn or finally determined, under—
@@ -1332,8 +1332,8 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (b) such quantity as the Scottish Ministers consider is sufficient to sow 10 hectares
 
   ,
-- (d)[^key-da7be6356fa124e7081c714cece425a2] in paragraph (9), for “National List” to the end substitute “GB Variety List or an NI Variety List.”,
-- (e)[^key-58a535b80ed932f7b140a146388f395c] in paragraph (10), for “names of the Member State” to the end substitute “location of the trials within the United Kingdom”.
+- (d)[^c-da7be6356fa124e7081c714cece425a2] in paragraph (9), for “National List” to the end substitute “GB Variety List or an NI Variety List.”,
+- (e)[^c-58a535b80ed932f7b140a146388f395c] in paragraph (10), for “names of the Member State” to the end substitute “location of the trials within the United Kingdom”.
 
 (9) [^c23585281]In regulation 9B (exception for Conservation Varieties) —
 
@@ -1344,7 +1344,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (a) in the first paragraph—
   >   - (i) “Each Member State shall ensure that,” was omitted,
   >   - (ii) for “does not exceed”, there were substituted “ may not exceed ”,
-  >   - (iii) for “that Member State”, there were substituted “ Great Britain[^key-ccc517df2f86d71e927b607bf963539b] ”,
+  >   - (iii) for “that Member State”, there were substituted “ Great Britain[^c-ccc517df2f86d71e927b607bf963539b] ”,
   > - (b) in the second paragraph—
   >   - (i) for “each Member State”, there were substituted “ Great Britain ”,
   >   - (ii) for “the Member State” in both places where it occurs, there were substituted “ Great Britain ”.
@@ -1356,7 +1356,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     > , with Article 11(1) of Commission Directive 2008/62 being read as if for the reference to “Member States” in each place where it occurs and “the Member States” there were substituted “the Scottish Ministers
 
     ,
-  - (ii)[^key-cf81e18c0c3439a919d639d1313863eb] for the definition of “region of origin” substitute—
+  - (ii)[^c-cf81e18c0c3439a919d639d1313863eb] for the definition of “region of origin” substitute—
 
     > - “region of origin” means the region forming a part or the whole of Great Britain identified by the Scottish Ministers for the purposes of Article 8.1 of Commission Directive 2008/62, with Article 8.1 of Commission Directive 2008/62 being read as if—
     >   - (a) in the first sub-paragraph—
@@ -1370,7 +1370,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (10) For regulation 10(2) (general exemptions) substitute—
 
-> (2)[^key-4c1ceeb032b8001b257b81e866d4829d] The Scottish Ministers may exercise the power under paragraph (1)—
+> (2)[^c-4c1ceeb032b8001b257b81e866d4829d] The Scottish Ministers may exercise the power under paragraph (1)—
 >
 > - (a) for the purposes of a temporary experiment seeking improved alternatives to provisions of these Regulations and organised in accordance with regulations made under section 16(5) of the Act; or
 > - (b) to the extent that the provisions of the general licence are—
@@ -1397,22 +1397,22 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   - (ii) for sub-paragraph (b) substitute—
 
     > - (b) which has been certified as satisfying the conditions for the relevant category of seed although it attains a lower percentage of germination than that specified in paragraph 16 of Part II of Schedule 4 in relation to Basic Seed—
-    >   - (i)[^key-9ad30a42257a028bd02d5fa1b87a075a] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain; or
+    >   - (i)[^c-9ad30a42257a028bd02d5fa1b87a075a] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain; or
     >   - (ii) by the NI Authority, in accordance with the applicable requirements in Northern Ireland; or,
 
     ,
   - (iii) for sub-paragraph (c)(ii) substitute—
 
     > - (ii) in the case of seed which has been fully certified as being Pre-basic Seed or Basic Seed—
-    >   - (aa)[^key-07d58ee22ef9fb70dfb068e5f806882c] by a GB Authority other than the Scottish Ministers, in the applicable requirements in the relevant part of Great Britain, irrespective of the findings of the GB Authority; or
+    >   - (aa)[^c-07d58ee22ef9fb70dfb068e5f806882c] by a GB Authority other than the Scottish Ministers, in the applicable requirements in the relevant part of Great Britain, irrespective of the findings of the GB Authority; or
     >   - (bb) by the NI Authority, in the applicable requirements in Northern Ireland, irrespective of the findings of the NI Authority.
 
     ,
-- (b)[^key-79ed136879fde51bb1f727a63e949d6b] in paragraph (3), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
+- (b)[^c-79ed136879fde51bb1f727a63e949d6b] in paragraph (3), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
 
 (12) In regulation 12 (marketing of early movement seed)—
 
-- (a)[^key-12c582e8c8e6452b64636d9368e54204] in paragraph (1)—
+- (a)[^c-12c582e8c8e6452b64636d9368e54204] in paragraph (1)—
   - (i) in sub-paragraph (a), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
   - (ii) for sub-paragraph (b) substitute—
 
@@ -1424,27 +1424,27 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
     ,
 - (b) in paragraph (3)—
-  - (i)[^key-61fcdec725bf3256a7d040d8f7e019b0] for “European Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”,
+  - (i)[^c-61fcdec725bf3256a7d040d8f7e019b0] for “European Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”,
   - (ii) omit “or Annex II (seed conditions) of the Cereal Seed Directive,”,
-- (c)[^key-449407a61cefce2d4b0f0de93e5e2c89] in paragraph (5), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
+- (c)[^c-449407a61cefce2d4b0f0de93e5e2c89] in paragraph (5), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
 
 (13) In regulation 14 (applications for official certificates)—
 
-- (a)[^key-ee5e5f4fe2f632ba9f0203c988dd6eb1] in paragraph (3), for “UK National List (or an equivalent list in another EEA State)” in both places where it occurs, substitute “GB Variety List or an NI Variety List”,
+- (a)[^c-ee5e5f4fe2f632ba9f0203c988dd6eb1] in paragraph (3), for “UK National List (or an equivalent list in another EEA State)” in both places where it occurs, substitute “GB Variety List or an NI Variety List”,
 - (b) in paragraph (4)(d) omit—
   - (i) “or licensed EC crop inspector”, and
   - (ii) “, or licensed EC crop inspector’s,”.
 
-(14) In regulation 15(1)(a)(i) (sampling), for “European” substitute “ International[^key-4f1c5b846b445843059b7637ad155cf7] ”.
+(14) In regulation 15(1)(a)(i) (sampling), for “European” substitute “ International[^c-4f1c5b846b445843059b7637ad155cf7] ”.
 
 (15) In regulation 16 (sealing of packages of fully certified seed)—
 
-- (a)[^key-5f121f1be0a14c41f9f3fdfcb3e30fe0] for sub-paragraph (1)(b) substitute—
+- (a)[^c-5f121f1be0a14c41f9f3fdfcb3e30fe0] for sub-paragraph (1)(b) substitute—
 
   > - (b) sealed in any other part of the United Kingdom in accordance with the applicable requirements in the relevant part of the United Kingdom.
 
   ,
-- (b)[^key-7ee1558484c612bf33725d1f7626d18a] for paragraph (3)(b) substitute—
+- (b)[^c-7ee1558484c612bf33725d1f7626d18a] for paragraph (3)(b) substitute—
 
   > - (b) in any other part of the United Kingdom in accordance with the applicable requirements in the relevant part of the United Kingdom.
 
@@ -1452,22 +1452,22 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (16) In regulation 17 (labelling of packages of fully certified seed)—
 
-- (a)[^key-0ea9de16f33dd4c6386fb31749cfe41f] for paragraph (4A)(b) substitute—
+- (a)[^c-0ea9de16f33dd4c6386fb31749cfe41f] for paragraph (4A)(b) substitute—
 
   > - (b) where seed is sealed in any part of the United Kingdom other than Scotland, be labelled in accordance with the requirements for labelling applicable to a Conservation Variety in the relevant part of the United Kingdom.
 
   ,
-- (b)[^key-80482a3f1d3644473745d37f2e403f6d] for paragraph (5)(b) substitute—
+- (b)[^c-80482a3f1d3644473745d37f2e403f6d] for paragraph (5)(b) substitute—
 
   > - (b) which is sealed in any part of the United Kingdom other than Scotland will satisfy the applicable requirements in the relevant part of the United Kingdom,
 
   ,
-- (c)[^key-68a07aa9501ce8ee484b6d14c801af4c] for paragraph (8)(b) substitute—
+- (c)[^c-68a07aa9501ce8ee484b6d14c801af4c] for paragraph (8)(b) substitute—
 
   > - (b) which is sealed in any other part of the United Kingdom, must contain an official document in accordance with the applicable requirements for official documents and, as the case may be, for labelling of packages of mixtures of seeds, in the relevant part of the United Kingdom.
 
   ,
-- (d)[^key-29f023ff3241871615b2acc063a17823] in paragraph (10)—
+- (d)[^c-29f023ff3241871615b2acc063a17823] in paragraph (10)—
   - (i) for sub-paragraph (a) substitute—
 
     > - (a)
@@ -1482,7 +1482,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     .
 - (e) in paragraph (14), for “one of the official languages of the European Union” substitute “ English but may also be given in other languages ”.
 
-(17)[^key-8e23894ce7c6aeb292c9352159d83eaa] In regulation 20 (breeder’s confirmations)—
+(17)[^c-8e23894ce7c6aeb292c9352159d83eaa] In regulation 20 (breeder’s confirmations)—
 
 - (a) in paragraph (1)(c)—
   - (i) in head (i), for the words “UK National List” to the end substitute “GB Variety List or an NI Variety List”,
@@ -1495,20 +1495,20 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (20) After regulation 26 (written and electronic communication) insert—
 
-> **26A. Certification in a Crown Dependency or a country granted equivalence[^key-a50a7d2042a41ba6c73295d94c327edc]**
+> **26A. Certification in a Crown Dependency or a country granted equivalence[^c-a50a7d2042a41ba6c73295d94c327edc]**
 >
 > Any seed certified and labelled in a Crown Dependency or a country granted equivalence under legislation recognised by the Scottish Ministers to have equivalent effect to these Regulations may be marketed in Scotland.
 >
-> **26B. Transitional provision for official labels on IP completion day[^key-af329bf74dc4d595c32e438b08513f88]**
+> **26B. Transitional provision for official labels on IP completion day[^c-af329bf74dc4d595c32e438b08513f88]**
 >
-> A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations is to be treated as an official label for a package of Basic Seed, Seed of a Certified Generation or seed of a Conservation Variety or, as the case may be, a small package of Pre basic Seed, Basic Seed or Seed of a Certified Generation for the purposes of any use of that label before the end of the period of twelve months[^key-dec6c7660a00b12d51d8ca5f1c5d5101] beginning with the day after the day on which IP completion day falls.
+> A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations is to be treated as an official label for a package of Basic Seed, Seed of a Certified Generation or seed of a Conservation Variety or, as the case may be, a small package of Pre basic Seed, Basic Seed or Seed of a Certified Generation for the purposes of any use of that label before the end of the period of twelve months[^c-dec6c7660a00b12d51d8ca5f1c5d5101] beginning with the day after the day on which IP completion day falls.
 
 .
 
 (21) In schedule 2 (official certificates and breeder's confirmations), in Part I (official certificates)—
 
 - (a) in paragraph 1 (applications for seed harvested in the United Kingdom), omit “but not made in pursuance of Article 15 (certification of seed from other EEA States or equivalent third countries) of the Cereal seed Directive”,
-- (b)[^key-b54a8cf55f57a2ce3f3528b887a816a8] for paragraph 4 (applications for seed harvested in an EEA State or third country) substitute—
+- (b)[^c-b54a8cf55f57a2ce3f3528b887a816a8] for paragraph 4 (applications for seed harvested in an EEA State or third country) substitute—
 
   > **4. Applications for seed harvested outside the United Kingdom**
   >
@@ -1540,9 +1540,9 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (b) has been packed in a sealed package in accordance with the requirements of regulation 16 (sealing of packages of fully certified seed) and has been labelled in accordance with the requirements of regulation 17 (labelling of packages of fully certified seed) and schedule 6.
 
   ,
-- (c)[^key-9c777d9c62648ee61a3e801e0d691a61] in paragraph 7(d) (when applications may be refused), for the words “UK National List (or to an equivalent list in an EEA State)” substitute “GB Variety List or an NI Variety List”.
+- (c)[^c-9c777d9c62648ee61a3e801e0d691a61] in paragraph 7(d) (when applications may be refused), for the words “UK National List (or to an equivalent list in an EEA State)” substitute “GB Variety List or an NI Variety List”.
 
-(22)[^key-bd19268c0aea17114efae8616e69ef02] In Schedule 4 (requirements for Pre Basic Seed, Basic Seed, Certified Seed, Certified Seed of the First Generation and Certified Seed of the Second Generation)—
+(22)[^c-bd19268c0aea17114efae8616e69ef02] In Schedule 4 (requirements for Pre Basic Seed, Basic Seed, Certified Seed, Certified Seed of the First Generation and Certified Seed of the Second Generation)—
 
 - (a) in Part I (conditions relating to crops from which seed is obtained)—
   - (i) in paragraph 2 (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List”,
@@ -1555,18 +1555,18 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (23) [^c23585301]In schedule 4A (standards for certification of Conservation Varieties)—
 
-- (a)[^key-2b30a355fc1d59387b067c15ede36d4a] in Part III (conditions relating to crops from which seed is obtained), in paragraph 1 (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List”,
+- (a)[^c-2b30a355fc1d59387b067c15ede36d4a] in Part III (conditions relating to crops from which seed is obtained), in paragraph 1 (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List”,
 - (b) in Part IV (conditions relating to seed of a Conservation Variety), in paragraph 1 (standards of germination, analytical purity and content of seed of other plant species), omit “EC”.
 
 (24) In schedule 6—
 
 - (a) in paragraph 4(a)(i) (official label for a package of Pre-basic Seed), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
 - (b) in paragraph 5(a) (official label for a package of Basic Seed or Seed of a Certified Generation)—
-  - (i) in head[^key-9843a723ad198a80865b251f7143b9ab] (i), for “EC” substitute “ GB[^key-ee351b97921fdd783724ad2fa371c923] ”,
-  - (ii) in head[^key-b09fa192077f7ae997c5cd193d09bcaf] (ii), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
-  - (iii)[^key-7bfad686365e7498c5b5f07624543d97] in head (xi)(aa), for “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
+  - (i) in head[^c-9843a723ad198a80865b251f7143b9ab] (i), for “EC” substitute “ GB[^c-ee351b97921fdd783724ad2fa371c923] ”,
+  - (ii) in head[^c-b09fa192077f7ae997c5cd193d09bcaf] (ii), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
+  - (iii)[^c-7bfad686365e7498c5b5f07624543d97] in head (xi)(aa), for “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
 - (c) in paragraph 6(a)(ii) (official label for a package of a mixture of seeds to which regulation 8 applies), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
-- (d)[^key-795380a06b2855bbf0b996aeb62cd503] in paragraph 6A(a) (official label for a package of test and trial seed)—
+- (d)[^c-795380a06b2855bbf0b996aeb62cd503] in paragraph 6A(a) (official label for a package of test and trial seed)—
   - (i) in head (ii), for “EEA State or their distinguishing abbreviation”, substitute “country or country initials”,
   - (ii) for head (vii) substitute—
 
@@ -1575,42 +1575,42 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     >   - (bb) in relation to applications in Northern Ireland, the relevant provision of legislation in Northern Ireland having equivalent effect to the Seeds (National Lists of Varieties) Regulations 2001;
 
     ,
-- (e) in paragraph 6B(a)(i) (official label for a package of seed of a Conservation Variety) [^c23585321], for “EC” substitute “ GB[^key-2a200ad42a7ded61c9c2c40715c977a3] ”,
-- (f) in paragraph 7(a)(i) (label for a small package of Pre-basic Seed, Basic Seed or Seed of a Certified Generation), for “EC” substitute “ GB[^key-6296287be2906e632c1886737cca015b] ”,
-- (g)[^key-3b0280f8fb0f7ad4d6d634f4f545abf1] in Part V (information in respect of seed imported from countries which are not EEA States in packages exceeding 2 kilograms net weight)—
+- (e) in paragraph 6B(a)(i) (official label for a package of seed of a Conservation Variety) [^c23585321], for “EC” substitute “ GB[^c-2a200ad42a7ded61c9c2c40715c977a3] ”,
+- (f) in paragraph 7(a)(i) (label for a small package of Pre-basic Seed, Basic Seed or Seed of a Certified Generation), for “EC” substitute “ GB[^c-6296287be2906e632c1886737cca015b] ”,
+- (g)[^c-3b0280f8fb0f7ad4d6d634f4f545abf1] in Part V (information in respect of seed imported from countries which are not EEA States in packages exceeding 2 kilograms net weight)—
   - (i) in the heading, for “which are not EEA States” substitute “outside the United Kingdom”,
   - (ii) in paragraph 11 (information to be supplied in respect of seed imported from a country which is not an EEA State in a package exceeding 2 kilograms net weight)—
     - (aa) in the heading, for “which is not an EEA State” substitute “outside the United Kingdom”,
     - (bb) in the text before sub-paragraph (a), for “which is not an EEA State” substitute “outside the United Kingdom”,
-- (h)[^key-ddcbef1c82b957de07ee3f9543cd54e8] in Part VI (printing of specified matters on packages (whole bag labelling)), in paragraph 16 (seed packages sealed in the United Kingdom but not in Scotland, or in an EEA State other than the United Kingdom)—
+- (h)[^c-ddcbef1c82b957de07ee3f9543cd54e8] in Part VI (printing of specified matters on packages (whole bag labelling)), in paragraph 16 (seed packages sealed in the United Kingdom but not in Scotland, or in an EEA State other than the United Kingdom)—
   - (i) in the heading, for “in an EEA State other than the United Kingdom” substitute “outside the United Kingdom”,
   - (ii) for “EEA State” in the first place where it occurs, substitute “country outside the United Kingdom”,
   - (iii) for “EEA State” in the second place where it occurs substitute “country”,
   - (iv) for “the Department of Agriculture and Rural Development” substitute “DAERA”.
 
-### 14. The Fodder Plant Seed (Scotland) Regulations 2005[^key-170ac3378114583122ad47021333d4ae]
+### 14. The Fodder Plant Seed (Scotland) Regulations 2005[^c-170ac3378114583122ad47021333d4ae]
 
 (1) The Fodder Plant Seed (Scotland) Regulations 2005 [^c23585331] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
 - (a) omit the definition of “Annex V(C) document”,
-- (b)[^key-e115e09e6479f65e8e09e7ac04779515] in the definition of “blended seed lot”—
+- (b)[^c-e115e09e6479f65e8e09e7ac04779515] in the definition of “blended seed lot”—
   - (i) omit “or Annex I (crop conditions) of the Fodder Plant Seed Directive”,
   - (ii) for “National Authority” substitute “GB Authority or the NI Authority”,
-- (c)[^key-14f8fc3ad74b0d1ad4df719ecf5d8ce2] in the definition of “breeder”—
+- (c)[^c-14f8fc3ad74b0d1ad4df719ecf5d8ce2] in the definition of “breeder”—
   - (i) in sub-paragraph (a), for “UK National List or the Common Catalogue” substitute “GB Variety List, an NI Variety List or the equivalent list in a country granted equivalence”,
   - (ii) in sub-paragraph (b), for “UK National List or in the Common Catalogue” and “UK National List or Common Catalogue” substitute “GB Variety List, NI Variety List or equivalent list in a country granted equivalence”,
 - (ca) in the definition of “breeder’s designation”, for “UK National List” substitute “GB Variety List or an NI Variety List”,
-- (d)[^key-f06653c0f6f78a05eba92260ff3598a1] in the definition of “bulked seed lot”—
+- (d)[^c-f06653c0f6f78a05eba92260ff3598a1] in the definition of “bulked seed lot”—
   - (i) in sub-paragraph (a)(iii), omit “or Annex I (crop conditions) of the Fodder Plant Seed Directive”,
   - (ii) in sub-paragraph (b), for “National Authority” substitute “GB Authority or the NI Authority”,
-- (e)[^key-4c4155a586205f1cb9c6e5573856ae13] omit the definitions of “Common Catalogue” and “the Common Catalogue Directive”,
+- (e)[^c-4c4155a586205f1cb9c6e5573856ae13] omit the definitions of “Common Catalogue” and “the Common Catalogue Directive”,
 - (ea) in the definition of “Conservation Variety”, for “UK National List” substitute “GB Variety List or an NI Variety List”,
-- (f)[^key-0afe433b1d4a21f9c0677e1aee89f92e] in the definition of “control plot”, for “European Authority” in both places it occurs substitute “GB Authority or the NI Authority”,
+- (f)[^c-0afe433b1d4a21f9c0677e1aee89f92e] in the definition of “control plot”, for “European Authority” in both places it occurs substitute “GB Authority or the NI Authority”,
 - (g) after the definition of “control plot” insert—
 
-  > “country granted equivalence” means a country that has been—[^key-d002c90a0a660eedacb788de2f69a98e]
+  > “country granted equivalence” means a country that has been—[^c-d002c90a0a660eedacb788de2f69a98e]
   >
   > - (a) granted equivalence under the Equivalence Decision; or
   > - (b) assessed by the Scottish Ministers as producing the species of seed referred to in regulation 5 under conditions equivalent to those required by these Regulations;
@@ -1619,18 +1619,18 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > “**Crown Dependency**” means any of the Channel Islands or the Isle of Man;
 
   ,
-- (ha)[^key-f56776861b6ed57ac7792c43cddee865] for the definition of “Department of Agriculture and Rural Development” substitute—
+- (ha)[^c-f56776861b6ed57ac7792c43cddee865] for the definition of “Department of Agriculture and Rural Development” substitute—
 
   > - “DAERA” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;
 
   ,
-- (i)[^key-a1314a87d385a30bf430fca75e1d2047] omit the definition of “EEA State”,
-- (j)[^key-c4ca3b60e7d7fbdcd245e6cda7c2cd69] omit the definitions of “European Authority” and “by a European Authority”,
-- (k)[^key-e531e696c137ce67ca444794acb2114d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-24b59621d56f10fcd30b52665756d3d6] in the definition of “fully certified”—
+- (i)[^c-a1314a87d385a30bf430fca75e1d2047] omit the definition of “EEA State”,
+- (j)[^c-c4ca3b60e7d7fbdcd245e6cda7c2cd69] omit the definitions of “European Authority” and “by a European Authority”,
+- (k)[^c-e531e696c137ce67ca444794acb2114d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-24b59621d56f10fcd30b52665756d3d6] in the definition of “fully certified”—
   - (i) in sub-paragraph (b), for “European” substitute “International”,
   - (ii) in the text after sub-paragraph (b), for the words “either in” to the end substitute “Schedule 4;”,
-- (m)[^key-e81bd9333025eafb8695acd025d979f3] after the definition of “genetically modified” insert—
+- (m)[^c-e81bd9333025eafb8695acd025d979f3] after the definition of “genetically modified” insert—
 
   > - “the GMO Regulations” means—
   >   - (a) in relation to Scotland, the Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 [^c23585371];
@@ -1657,7 +1657,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   >   - (ii) the NI Authority;
 
   ,
-- (n)[^key-c9a58d50a3346da723090fa055d36446] omit the definition of “licensed EC crop inspector”,
+- (n)[^c-c9a58d50a3346da723090fa055d36446] omit the definition of “licensed EC crop inspector”,
 - (na) omit the definition of “National Authority”,
 - (nb) before the definition of “official certificate” insert—
 
@@ -1699,44 +1699,44 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 - (o) in the definition of “small EC A package”, omit “EC”,
 - (p) in the definition of “small EC B package”, in both places where it occurs omit “EC”,
 - (q) in the definition of “source area”[^c23585411], for “Commission Directive 2010/60” substitute “ Article 1(a) of Commission Directive 2010/60, which is to be read as if the definition of “source area” contained in that Article defined it to mean an area designated as a special area of conservation or an area contributing to the conservation of plant genetic resources in accordance with retained EU law ”.
-- (r)[^key-8a0d865509f90fa47955bf6c67f74f44] for the definition of “third country” substitute—
+- (r)[^c-8a0d865509f90fa47955bf6c67f74f44] for the definition of “third country” substitute—
 
   > - “third country” means any country or territory other than the British Islands,
 - (s) omit the definition of “Union quarantine pest”.
 
 (3) In regulation 3 (definitions of seed categories)—
 
-- (a)[^key-17a84c4fbde75892c889080689d047c7] in the definition of “Pre-basic Seed”, for paragraph (c)(ii) substitute—
+- (a)[^c-17a84c4fbde75892c889080689d047c7] in the definition of “Pre-basic Seed”, for paragraph (c)(ii) substitute—
 
   > - (ii) certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Basic Seed in the relevant part of the United Kingdom;
 
   ,
-- (b)[^key-11e8ac9553664c4bb0f07bf58145b042] in the definition of “Basic Seed” (other than in relation to a component of a hybrid variety of fodder kale), for paragraph (d)(ii) substitute—
+- (b)[^c-11e8ac9553664c4bb0f07bf58145b042] in the definition of “Basic Seed” (other than in relation to a component of a hybrid variety of fodder kale), for paragraph (d)(ii) substitute—
 
   > - (ii) certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in paragraph (a) or (b) and paragraph (c) and the requirements for Basic Seed in the relevant part of the United Kingdom;
 
   ,
-- (c)[^key-e73ff26c7051a2d0ae92840687632e9f] in the definition of “Basic Seed” (in relation to a component of a hybrid variety of fodder kale), for paragraph (c)(ii) substitute—
+- (c)[^c-e73ff26c7051a2d0ae92840687632e9f] in the definition of “Basic Seed” (in relation to a component of a hybrid variety of fodder kale), for paragraph (c)(ii) substitute—
 
   > - (ii) certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Basic Seed in the relevant part of the United Kingdom;
 
   ,
-- (d)[^key-37b11118fdf9c8099c05dbbb4e155ae4] in the definition of “Certified Seed”, for paragraph (c)(ii) substitute—
+- (d)[^c-37b11118fdf9c8099c05dbbb4e155ae4] in the definition of “Certified Seed”, for paragraph (c)(ii) substitute—
 
   > - (ii) certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Certified Seed in the relevant part of the United Kingdom;
 
   ,
-- (e)[^key-3bb726dd85d624fe8134cf3136c824f4] in the definition of “Certified Seed of the First Generation”, for paragraph (c)(ii) substitute—
+- (e)[^c-3bb726dd85d624fe8134cf3136c824f4] in the definition of “Certified Seed of the First Generation”, for paragraph (c)(ii) substitute—
 
   > - (ii) certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Certified Seed of the First Generation in the relevant part of the United Kingdom;
 
   ,
-- (f)[^key-82bd26fcdde58477e1e91712715b56a7] in the definition of “Certified Seed of the Second Generation”, for paragraph (c)(ii) substitute—
+- (f)[^c-82bd26fcdde58477e1e91712715b56a7] in the definition of “Certified Seed of the Second Generation”, for paragraph (c)(ii) substitute—
 
   > - (ii) certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in paragraphs (a) and (b) and the requirements for Certified Seed of the Second Generation in the relevant part of the United Kingdom;
 
   ,
-- (g)[^key-8507775bd206cad69f4bc0516ddf603a] in the definition of “Commercial Seed”, for paragraph (b) substitute—
+- (g)[^c-8507775bd206cad69f4bc0516ddf603a] in the definition of “Commercial Seed”, for paragraph (b) substitute—
 
   > - (b) certified by a GB Authority, other than the Scottish Ministers, as satisfying the requirements for Commercial Seed in the relevant part of the United Kingdom;
 
@@ -1750,13 +1750,13 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (5) In regulation 6 (marketing of seed)—
 
-- (a)[^key-11ad0c5d14c563715ba047276763a332] in paragraph (1)(b)(ii), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
+- (a)[^c-11ad0c5d14c563715ba047276763a332] in paragraph (1)(b)(ii), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
 - (aa) in paragraph (2)(c), omit “or Annex I (crop conditions) of the Fodder Plant Seed Directive”,
 - (ab) in paragraph (3), for “European” substitute “International”,
 - (b) in paragraph (5), for “a country which is not an EEA State” substitute “ outside the United Kingdom ”,
-- (c)[^key-eaa626fd72a2e66c7c11210f5ecf2669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-eaa626fd72a2e66c7c11210f5ecf2669] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-0cdd71443e68e9e68041a3bcae7cda0d] In regulation 6A (importation from outside the European Union)—
+(6)[^c-0cdd71443e68e9e68041a3bcae7cda0d] In regulation 6A (importation from outside the European Union)—
 
 - (a) in the heading, for “outside the European Union” substitute “a country granted equivalence”,
 - (b) for “outside the European Union” substitute “a country granted equivalence”.
@@ -1764,7 +1764,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 (7) In regulation 8 (mixtures)—
 
 - (a) in paragraph (2), omit “for the purposes of Article 4(1) of the Common Catalogue Directive”,
-- (b)[^key-418566ed63bb7af1c2354286907c3727] in paragraph (6), omit “EC” in each place it occurs,
+- (b)[^c-418566ed63bb7af1c2354286907c3727] in paragraph (6), omit “EC” in each place it occurs,
 - (c) in paragraph (7)—
   - (i) omit “EC” in each place it occurs,
   - (ii) for “the United Kingdom” substitute “Great Britain”.
@@ -1773,7 +1773,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) in paragraph (4)(e), for “the provisions in Commission Directive 2008/62” substitute “ regulation 9B ”,
 - (b) in paragraph (9), for “For the purposes of Article 8 (quantitative restriction) of Commission Directive 2010/60, the” substitute “ The ”,
-- (c)[^key-c2218873827e491089e70ac0b534e0b3] in paragraph (11)—
+- (c)[^c-c2218873827e491089e70ac0b534e0b3] in paragraph (11)—
   - (i) for “the United Kingdom” substitute “Great Britain”,
   - (ii) for the words “for the purposes” to the end substitute “having taken account of any available information from plant genetic resource organisations”.
 
@@ -1781,7 +1781,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) for paragraph (1)(b) substitute—
 
-  > - (b)[^key-01707432c408faf75ce51f422a84aa0a] an authorisation has been granted to the producer, in respect of small quantities of seed for scientific purposes or selection work in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  > - (b)[^c-01707432c408faf75ce51f422a84aa0a] an authorisation has been granted to the producer, in respect of small quantities of seed for scientific purposes or selection work in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
   >   - (i) a GB Authority other than the Scottish Ministers; or
   >   - (ii) the NI Authority.
 
@@ -1790,7 +1790,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   > (4) The Scottish Ministers may only grant an authorisation under this regulation in respect of a genetically modified variety if the marketing and release of the genetically modified material by the applicant has—
   >
-  > - (a) before the day on which IP completion[^key-0f1a48570e5c275b5bc62683229cc673] day falls, been authorised under Part C of the 2001 Deliberate Release Directive,
+  > - (a) before the day on which IP completion[^c-0f1a48570e5c275b5bc62683229cc673] day falls, been authorised under Part C of the 2001 Deliberate Release Directive,
   > - (b) been authorised under the Food and Feed Regulation, or
   > - (c) been authorised under the GMO Regulations.
 
@@ -1803,12 +1803,12 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > (1) Regulation 6(1)(b) does not apply to the marketing by a producer of seed for test and trial purposes in accordance with—
   >
   > - (a) a tests and trials authorisation; or
-  > - (b)[^key-52f58d6364b15b232ae3f5386cc1b44e] an authorisation has been granted to the producer, in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  > - (b)[^c-52f58d6364b15b232ae3f5386cc1b44e] an authorisation has been granted to the producer, in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
   >   - (i) a GB Authority other than the Scottish Ministers; or
   >   - (ii) the NI Authority.
 
   ,
-- (b)[^key-c003aff22507e817a622dd660e6a4dea] in paragraph (4)—
+- (b)[^c-c003aff22507e817a622dd660e6a4dea] in paragraph (4)—
   - (i) for sub-paragraph (a) substitute—
 
     > - (a) the seed is of a variety for which an application has been made by the applicant, which has not been withdrawn or finally determined, under—
@@ -1836,8 +1836,8 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (b) such quantity as the Scottish Ministers consider is sufficient to sow 10 hectares
 
   ,
-- (d)[^key-ac6857dfbca047d8f5b846dae42e8f91] in paragraph (9), for “National List” to the end substitute “GB Variety List or an NI Variety List.”,
-- (e)[^key-d7dcfa924abeaa870e0e909de4a8bc8b] in paragraph (10), for “name of the Member State” to the end substitute “location of the trials within the United Kingdom”.
+- (d)[^c-ac6857dfbca047d8f5b846dae42e8f91] in paragraph (9), for “National List” to the end substitute “GB Variety List or an NI Variety List.”,
+- (e)[^c-d7dcfa924abeaa870e0e909de4a8bc8b] in paragraph (10), for “name of the Member State” to the end substitute “location of the trials within the United Kingdom”.
 
 (11) [^c23585471]In regulation 9B (exception for conservation varieties) —
 
@@ -1848,7 +1848,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (a) in the first paragraph—
   >   - (i) “Each Member State shall ensure that,” was omitted,
   >   - (ii) for “does not exceed”, there were substituted “ may not exceed ”,
-  >   - (iii) for “that Member State”, there were substituted “ Great Britain[^key-b3cde581cba96d2d4c91b803bbe44940] ”,
+  >   - (iii) for “that Member State”, there were substituted “ Great Britain[^c-b3cde581cba96d2d4c91b803bbe44940] ”,
   > - (b) in the second paragraph—
   >   - (i) for “each Member State”, there were substituted “ Great Britain ”,
   >   - (ii) for “the Member State” in both places where it occurs, there were substituted “ Great Britain ”.
@@ -1856,7 +1856,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   ,
 - (b) in paragraph (11)—
   - (i) in the definition of “additional region”, insert at the end “, with Article 11(1) of Commission Directive 2008/62 being read as if for the reference to “ Member States ” in each place where it occurs and “the Member States” there were substituted “ the Scottish Ministers ””,
-  - (ii)[^key-a8ec39b67035d151251c90161d98b963] for the definition of “region of origin” substitute—
+  - (ii)[^c-a8ec39b67035d151251c90161d98b963] for the definition of “region of origin” substitute—
 
     > - “region of origin” means the region forming a part or the whole of Great Britain identified by the Scottish Ministers for the purposes of Article 8.1 of Commission Directive 2008/62, with Article 8.1 of Commission Directive 2008/62 being read as if—
     >   - (a) in the first sub-paragraph—
@@ -1870,7 +1870,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (12) For regulation 10(2) (general exemptions) substitute—
 
-> (2)[^key-f0aafd1f3b61267fafce863c7d9336f7] The Scottish Ministers may exercise the power under paragraph (1)—
+> (2)[^c-f0aafd1f3b61267fafce863c7d9336f7] The Scottish Ministers may exercise the power under paragraph (1)—
 >
 > - (a) for the purposes of a temporary experiment seeking improved alternatives to provisions of these Regulations and organised in accordance with regulations made under section 16(5) of the Act; or
 > - (b) to the extent that the provisions of the general licence are—
@@ -1897,22 +1897,22 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   - (ii) for sub-paragraph (b) substitute—
 
     > - (b) which has been certified as satisfying the conditions for the relevant category of seed although it attains a lower percentage of germination than that specified in paragraph 13 of Part II of Schedule 4 in relation to Basic Seed—
-    >   - (i)[^key-0dec872137e4dc0ec6139a30e06f6a67] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain; or
+    >   - (i)[^c-0dec872137e4dc0ec6139a30e06f6a67] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain; or
     >   - (ii) by the NI Authority, in accordance with the applicable requirements in Northern Ireland;
 
     ,
   - (iii) for sub-paragraph (c)(ii) substitute—
 
     > - (ii) in the case of seed which has been fully certified as being Pre-basic Seed or Basic Seed—
-    >   - (aa)[^key-a3f09e84312855d3f1174f6adeeba1f3] by a GB Authority other than the Scottish Ministers, in the applicable requirements in the relevant part of Great Britain, irrespective of the findings of the GB Authority; or
+    >   - (aa)[^c-a3f09e84312855d3f1174f6adeeba1f3] by a GB Authority other than the Scottish Ministers, in the applicable requirements in the relevant part of Great Britain, irrespective of the findings of the GB Authority; or
     >   - (bb) by the NI Authority, in the applicable requirements in Northern Ireland, irrespective of the findings of the NI Authority.
 
     ,
-- (b)[^key-1225c42baab8af638a07e8b018f80a94] in paragraph (3), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
+- (b)[^c-1225c42baab8af638a07e8b018f80a94] in paragraph (3), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
 
 (14) In regulation 12 (marketing of early movement seed)—
 
-- (a)[^key-eb56236d081888bf21c2fb13810b2d13] in paragraph (1)—
+- (a)[^c-eb56236d081888bf21c2fb13810b2d13] in paragraph (1)—
   - (i) in sub-paragraph (a), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
   - (ii) for sub-paragraph (b) substitute—
 
@@ -1924,29 +1924,29 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
     ,
 - (b) in paragraph (3)—
-  - (i)[^key-8997e7606578aa22e7506bcf8c4d2ded] for “European Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”,
+  - (i)[^c-8997e7606578aa22e7506bcf8c4d2ded] for “European Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”,
   - (ii) omit “or Annex II (seed conditions) of the Fodder Plant Seed Directive”,
-- (c)[^key-b3a7e1872ea132e9e9ff40860b1c2e5d] in paragraph (5), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
+- (c)[^c-b3a7e1872ea132e9e9ff40860b1c2e5d] in paragraph (5), for the words “the United Kingdom” to the end substitute “Great Britain from a country granted equivalence.”.
 
 (15) In regulation 14 (applications for official certificates)—
 
-- (a)[^key-85e17ade83540f5bd6bd7a82fd3bbbd5] in paragraph (3), for “UK National List (or an equivalent list in another EEA State)” in both places where it occurs, substitute “GB Variety List or an NI Variety List”,
+- (a)[^c-85e17ade83540f5bd6bd7a82fd3bbbd5] in paragraph (3), for “UK National List (or an equivalent list in another EEA State)” in both places where it occurs, substitute “GB Variety List or an NI Variety List”,
 - (b) in paragraph (4)(d) omit—
   - (i) “or licensed EC crop inspector”, and
   - (ii) “, or licensed EC crop inspector’s,”.
 
-(16) In regulation 15(1)(a)(i) (sampling), for “European Authority” substitute “ International[^key-6291d93cd60f47ea396a41e210099e5b] Authority ”.
+(16) In regulation 15(1)(a)(i) (sampling), for “European Authority” substitute “ International[^c-6291d93cd60f47ea396a41e210099e5b] Authority ”.
 
 (17) In regulation 16 (sealing of packages of fully certified seed)—
 
 - (a) in paragraph (1)—
   - (i) omit “EC” in both places where it occurs,
-  - (ii)[^key-c065289a527d4fb06b5152abee6d2ce1] for sub-paragraph (b) substitute—
+  - (ii)[^c-c065289a527d4fb06b5152abee6d2ce1] for sub-paragraph (b) substitute—
 
     > - (b) sealed in any other part of the United Kingdom in accordance with the applicable requirements in the relevant part of the United Kingdom.
 
     ,
-- (b)[^key-57a01b08ab2c7481b0b1d60603673ab1] for paragraph (3)(b) substitute—
+- (b)[^c-57a01b08ab2c7481b0b1d60603673ab1] for paragraph (3)(b) substitute—
 
   > - (b) in any other part of the United Kingdom in accordance with the applicable requirements in the relevant part of the United Kingdom.
 
@@ -1955,26 +1955,26 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (18) In regulation 17 (labelling of packages of fully certified seed)—
 
-- (a)[^key-0513a28a4c98225150da40f5b80e357f] for paragraph (4A)(b) substitute—
+- (a)[^c-0513a28a4c98225150da40f5b80e357f] for paragraph (4A)(b) substitute—
 
   > - (b) where seed is sealed in any part of the United Kingdom other than Scotland, be labelled in accordance with the requirements for labelling applicable to a Conservation Variety in the relevant part of the United Kingdom.
 
   ,
-- (b)[^key-3bcecb24f5633f56653d231b2cf09681] in paragraph (5)—
+- (b)[^c-3bcecb24f5633f56653d231b2cf09681] in paragraph (5)—
   - (i) in the text before sub-paragraph (a), omit “EC” in both places it occurs,
   - (ii) for sub-paragraph (b) substitute—
 
     > - (b) which is sealed in any part of the United Kingdom other than Scotland will satisfy the applicable requirements in the relevant part of the United Kingdom
 
     ,
-- (c)[^key-a5e29364cc243e03f047c5b47b9bfcc3] in paragraph (8)—
+- (c)[^c-a5e29364cc243e03f047c5b47b9bfcc3] in paragraph (8)—
   - (i) in the text before sub-paragraph (a), omit “EC” in both places it occurs,
   - (ii) for sub-paragraph (b) substitute—
 
     > - (b) which is sealed in any other part of the United Kingdom, must contain an official document in accordance with the applicable requirements for official documents and, as the case may be, for labelling of packages of mixtures of seeds, in the relevant part of the United Kingdom.
 
     ,
-- (d)[^key-4eac884961f421e01246a02fe7e5d2b7] in paragraph (10)—
+- (d)[^c-4eac884961f421e01246a02fe7e5d2b7] in paragraph (10)—
   - (i) in the text before sub-paragraph (a), omit “EC” in both places it occurs,
   - (ii) for sub-paragraph (a) substitute—
 
@@ -1993,10 +1993,10 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (19) In regulation 20 (breeder's confirmations)—
 
-- (a)[^key-d293c119ad8ea4d597edc684e723312b] in paragraph (1)(c)—
+- (a)[^c-d293c119ad8ea4d597edc684e723312b] in paragraph (1)(c)—
   - (i) in head (i), for the words “UK National List” to the end substitute “GB Variety List or an NI Variety List; or”,
   - (ii) in head (ii), for the words “UK National List” to the end substitute “GB Variety List or an NI Variety List.”,
-- (b)[^key-bc4bb5055ca8dc6487350afb3382daf0] in paragraphs (5) and (6), for the words “UK National List” to “EEA State)” substitute “GB Variety List or an NI Variety List
+- (b)[^c-bc4bb5055ca8dc6487350afb3382daf0] in paragraphs (5) and (6), for the words “UK National List” to “EEA State)” substitute “GB Variety List or an NI Variety List
 
 (20) In regulation 22(11) (labelling of packages of seed in relation to breeder's confirmation), for “one of the official languages of the European Union” substitute “ English but may also be given in other languages ”.
 
@@ -2004,20 +2004,20 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (22) After regulation 26 (written and electronic communication) insert—
 
-> **26A. Certification in a Crown Dependency or a country granted equivalence[^key-f9155993155e75bd9fbb210e207e2799]**
+> **26A. Certification in a Crown Dependency or a country granted equivalence[^c-f9155993155e75bd9fbb210e207e2799]**
 >
 > Any seed certified and labelled in a Crown Dependency or a country granted equivalence under legislation recognised by the Scottish Ministers to have equivalent effect to these Regulations may be marketed in Scotland.
 >
-> **26B. Transitional provision for official or producer's labels on IP completion day[^key-cd678565d2de880d0eb36a45ec04d11c]**
+> **26B. Transitional provision for official or producer's labels on IP completion day[^c-cd678565d2de880d0eb36a45ec04d11c]**
 >
-> A label pre-printed before IP completion day which at the date on which it was printed was an official label or a producer's label for the purposes of these Regulations is to be treated as an official label or, as the case may be, a producer's label for a package of Basic Seed, Seed of a Certified Generation, Commercial Seed, seed of a Conservation Variety, seed of a preservation mixture or, as the case may be, a small A package or a small B package of Pre-basic Seed, Basic Seed, Seed of a Certified Generation or Commercial Seed, for the purposes of any use of that label before the end of the period of twelve months[^key-fda77a9945fb0bfce553d194409d1964] beginning with the day after the day on which IP completion day falls.
+> A label pre-printed before IP completion day which at the date on which it was printed was an official label or a producer's label for the purposes of these Regulations is to be treated as an official label or, as the case may be, a producer's label for a package of Basic Seed, Seed of a Certified Generation, Commercial Seed, seed of a Conservation Variety, seed of a preservation mixture or, as the case may be, a small A package or a small B package of Pre-basic Seed, Basic Seed, Seed of a Certified Generation or Commercial Seed, for the purposes of any use of that label before the end of the period of twelve months[^c-fda77a9945fb0bfce553d194409d1964] beginning with the day after the day on which IP completion day falls.
 
 .
 
 (23) In schedule 2 (official certificates and breeder's confirmations), in Part I (official certificates)—
 
 - (a) in paragraph 1 (applications for seed harvested in the United Kingdom), omit “but not made in pursuance of Article 15 (certification of seed from other EEA States or equivalent third countries) of the Fodder Plant Seed Directive”,
-- (b)[^key-db2730bd5753a806cb1363b56c7e81d4] for paragraph 4 (applications for seed harvested in an EEA State or third country) substitute—
+- (b)[^c-db2730bd5753a806cb1363b56c7e81d4] for paragraph 4 (applications for seed harvested in an EEA State or third country) substitute—
 
   > **4. Applications for seed harvested outside the United Kingdom**
   >
@@ -2049,9 +2049,9 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (b) has been packed in a sealed package in accordance with the requirements of regulation 16 (sealing of packages of fully certified seed) and has been labelled in accordance with the requirements of regulation 17 (labelling of packages of fully certified seed) and schedule 6.
 
   ,
-- (c)[^key-f5226ef6e721b3a7c887fe5cf2dcff8a] in paragraph (7)(d) (when applications may be refused), for the words “UK National List (or to an equivalent list in an EEA State)” substitute “GB Variety List or an NI Variety List”.
+- (c)[^c-f5226ef6e721b3a7c887fe5cf2dcff8a] in paragraph (7)(d) (when applications may be refused), for the words “UK National List (or to an equivalent list in an EEA State)” substitute “GB Variety List or an NI Variety List”.
 
-(24)[^key-2ddc8108c63a0dde62fca3bf61aa882c] In schedule 4 (requirements for Pre-Basic Seed, Basic Seed, Certified Seed, Certified Seed of the First Generation, Certified Seed of the Second Generation and Commercial Seed)—
+(24)[^c-2ddc8108c63a0dde62fca3bf61aa882c] In schedule 4 (requirements for Pre-Basic Seed, Basic Seed, Certified Seed, Certified Seed of the First Generation, Certified Seed of the Second Generation and Commercial Seed)—
 
 - (a) in Part I (conditions relating to crops from which seed other than Commercial Seed is obtained)—
   - (i) in paragraph 2 (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List.”,
@@ -2064,21 +2064,21 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (25) [^c23585491]In schedule 4A (standards for certification of Conservation Varieties)—
 
-- (a)[^key-2969f476f76b890267e756d48ca3ef6e] in Part III (conditions relating to crops from which seed is obtained), in paragraph 1 (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List”.
+- (a)[^c-2969f476f76b890267e756d48ca3ef6e] in Part III (conditions relating to crops from which seed is obtained), in paragraph 1 (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List”.
 - (b) in Part IV (conditions relating to seed of a Conservation Variety), in paragraph 1 (standards of germination, analytical purity and content of seed of other plant species), omit “EC”.
 
-(25A)[^key-ace3406e481ccd5b347336daa0c63955] In schedule 5, in Part II (maximum weight of a seed lot and minimum weight of a submitted sample), in paragraph 23A(1) (increase to maximum weight of a seed lot of grasses), for “National Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”.
+(25A)[^c-ace3406e481ccd5b347336daa0c63955] In schedule 5, in Part II (maximum weight of a seed lot and minimum weight of a submitted sample), in paragraph 23A(1) (increase to maximum weight of a seed lot of grasses), for “National Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”.
 
 (26) In schedule 6—
 
 - (a) in paragraph 4(a)(i) (official label for a package of Pre-basic Seed), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
 - (b) in paragraph 5(a) (official label for a package of Basic Seed or Seed of a Certified Generation)—
-  - (i) in sub-paragraph (i), for “EC” substitute “ GB[^key-7c8cf09f8fcbf0e3abe1709b843d846e] ”,
+  - (i) in sub-paragraph (i), for “EC” substitute “ GB[^c-7c8cf09f8fcbf0e3abe1709b843d846e] ”,
   - (ii) in sub-paragraph (ii), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
 - (c) in paragraph 6(a)(official label for a package of Commercial Seed)—
   - (i) in sub-paragraph (i), for “EC” substitute “ GB ”,
   - (ii) in sub-paragraph (ii), for “EEA State or their commonly used initials”, substitute “ country or country initials ”,
-- (d)[^key-2bed91a92c06653d44c75246ba1c8dc4] in paragraph 6A(a) (official label for a package of test and trial seed)—
+- (d)[^c-2bed91a92c06653d44c75246ba1c8dc4] in paragraph 6A(a) (official label for a package of test and trial seed)—
   - (i) in head (ii), for “EEA State or their distinguishing abbreviation”, substitute “country or country initials”,
   - (ii) for head (vii) substitute—
 
@@ -2104,18 +2104,18 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     - (ee) in sub-paragraphs (h) and (i), omit “EC”,
     - (ff) in sub-paragraph (h)(ii), for “Member State or Switzerland or its initials” substitute “ country or country initials ”,
     - (gg) in sub-paragraph (i)(ii), for “Member State or Switzerland or their initials” substitute “ country or country initials ”,
-- (i)[^key-91ae97212b4030a9683fa0db3340ea5b] in Part V (information in respect of seed imported from countries which are not EEA States in packages exceeding 2 kilograms net weight)—
+- (i)[^c-91ae97212b4030a9683fa0db3340ea5b] in Part V (information in respect of seed imported from countries which are not EEA States in packages exceeding 2 kilograms net weight)—
   - (i) in the heading, for “which are not EEA States” substitute “outside the United Kingdom”,
   - (ii) in paragraph 12 (information to be supplied in respect of seed imported from a country which is not an EEA State in a package exceeding 2 kilograms net weight)—
     - (aa) in the heading, for “a country which is not an EEA State” substitute “outside the United Kingdom”,
     - (bb) in the text before sub-paragraph (a), for “a country which is not an EEA State” substitute “outside the United Kingdom”,
-- (j)[^key-156c9877b23ab77ccce4ea4dc992eae1] in Part VI (printing of specified matters on packages (whole bag labelling)), in paragraph 17 (seed packages sealed in the United Kingdom but not in Scotland, or in an EEA State other than the United Kingdom)—
+- (j)[^c-156c9877b23ab77ccce4ea4dc992eae1] in Part VI (printing of specified matters on packages (whole bag labelling)), in paragraph 17 (seed packages sealed in the United Kingdom but not in Scotland, or in an EEA State other than the United Kingdom)—
   - (i) in the heading, for “in an EEA State other than the United Kingdom” substitute “outside the United Kingdom”,
   - (ii) for “EEA State” in the first place where it occurs, substitute “country outside the United Kingdom”,
   - (iii) for “EEA State” in the second place where it occurs substitute “country”,
   - (iv) for “the Department of Agriculture and Rural Development” substitute “DAERA”.
 
-### 15. The Beet Seed (Scotland) (No. 2) Regulations 2010[^key-55df2d7656a55a8298b703c357c008d5]
+### 15. The Beet Seed (Scotland) (No. 2) Regulations 2010[^c-55df2d7656a55a8298b703c357c008d5]
 
 (1) The Beet Seed (Scotland) (No. 2) Regulations 2010 [^c23585551] are amended as follows.
 
@@ -2123,16 +2123,16 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) in paragraph (1)—
   - (i) at the end of the definition of “additional region”, insert “, with Article 11(1) of that Directive being read as if for the reference to “ Member States ” in each place where it occurs and for “the Member States” there were substituted “ the Scottish Ministers ”,
-  - (ii)[^key-f1af085926e831272d8e9b19be58cb35] in the definition of “breeder”—
+  - (ii)[^c-f1af085926e831272d8e9b19be58cb35] in the definition of “breeder”—
     - (aa) in sub-paragraph (a), for “UK National List or the Common Catalogue” substitute “GB Variety List, an NI Variety List or the equivalent list in a country granted equivalence”,
     - (bb) in sub-paragraph (b), for “UK National List or in the Common Catalogue” and “UK National List or Common Catalogue” substitute “GB Variety List, NI Variety List or equivalent list in a country granted equivalence”,
   - (iia) in the definition of “breeder’s designation”, for “UK National List” substitute “GB Variety List or an NI Variety List”,
-  - (iii)[^key-db70f104ccd623ebce08767233ec6058] omit the definitions of “Common Catalogue” and “the Common Catalogue Directive”,
+  - (iii)[^c-db70f104ccd623ebce08767233ec6058] omit the definitions of “Common Catalogue” and “the Common Catalogue Directive”,
   - (iiia) in the definition of “Conservation Variety”, for “UK National List” substitute “GB Variety List or an NI Variety List”,
-  - (iv)[^key-fcfa00ca9f3b1c070a83e00d4463c657] in the definition of “control plot”, for “European Authority” in both places it occurs substitute “GB Authority or the NI Authority”,
+  - (iv)[^c-fcfa00ca9f3b1c070a83e00d4463c657] in the definition of “control plot”, for “European Authority” in both places it occurs substitute “GB Authority or the NI Authority”,
   - (v) after the definition of “control plot” insert—
 
-    > “country granted equivalence” means a country that has been—[^key-453ed036acb961ec96eadbfad2b1a0ff]
+    > “country granted equivalence” means a country that has been—[^c-453ed036acb961ec96eadbfad2b1a0ff]
     >
     > - (a) granted equivalence under the Equivalence Decision; or
     > - (b) assessed by Scottish Ministers as producing the species of seed referred to in regulation 4 under conditions equivalent to those required by these Regulations;
@@ -2140,18 +2140,18 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     > “**Crown Dependency**” means any of the Channel Islands or the Isle of Man;
 
     ,
-  - (va)[^key-718fbf3c226b324b8f6fcd2b94991520] for the definition of “Department of Agriculture and Rural Development” substitute—
+  - (va)[^c-718fbf3c226b324b8f6fcd2b94991520] for the definition of “Department of Agriculture and Rural Development” substitute—
 
     > - “DAERA” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;
 
     ,
   - (vb) omit the definition of “EEA State”,
-  - (vi)[^key-daf5d23ba4199f699d30a4954fb815ba] omit the definition of “European Authority”,
+  - (vi)[^c-daf5d23ba4199f699d30a4954fb815ba] omit the definition of “European Authority”,
   - (vii) omit the definition of “by a European Authority”,
-  - (viii)[^key-37a50cd7020819fbe0b64699089d3226] in the definition of “fully certified”—
+  - (viii)[^c-37a50cd7020819fbe0b64699089d3226] in the definition of “fully certified”—
     - (aa) in sub-paragraph (b), for “a European” substitute “an International”,
     - (bb) in the text after sub-paragraph (b), for the words “either in” to the end substitute “Part 1 of schedule 4;”,
-  - (ix)[^key-1c5b6f68e49a7dd70e2fe3e5cef4cbaf] after the definition of “genetically modified” insert—
+  - (ix)[^c-1c5b6f68e49a7dd70e2fe3e5cef4cbaf] after the definition of “genetically modified” insert—
 
     > - “the GMO Regulations” means—
     >   - (a) in relation to Scotland, the Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002 [^c23585561];
@@ -2177,7 +2177,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     >   - (ii) the NI Authority;
 
     ,
-  - (x)[^key-38aa298adcce03b07bad6545ae076e8c] omit the definition of “licensed EU crop inspector”,
+  - (x)[^c-38aa298adcce03b07bad6545ae076e8c] omit the definition of “licensed EU crop inspector”,
   - (xa) omit the definition of “National Authority”,
   - (xb) after the definition of “natural seed” insert—
 
@@ -2216,20 +2216,20 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
     ,
   - (xii) in the definition of “small EC package”, omit “EC”,
-  - (xiii)[^key-11f7896f78708453b6d49e08851efda5] for the definition of “third country” substitute—
+  - (xiii)[^c-11f7896f78708453b6d49e08851efda5] for the definition of “third country” substitute—
 
     > - “third country” means any country or territory other than the British Islands;
 
     ,
   - (xiv) omit the definition of “UK National List”,
 - (b) in paragraphs (3) and (4)—
-  - (i)[^key-1f3dcf77ea5f24a7a2ff3acf84ca5b51] in sub-paragraph (a), for the words “either an” to the end substitute “a country granted equivalence”,
-  - (ii)[^key-27d3600fb4b970a9c7e885f2be588d8c] in sub-paragraph (b), for the words “EEA state or third country” substitute “country granted equivalence”,
+  - (i)[^c-1f3dcf77ea5f24a7a2ff3acf84ca5b51] in sub-paragraph (a), for the words “either an” to the end substitute “a country granted equivalence”,
+  - (ii)[^c-27d3600fb4b970a9c7e885f2be588d8c] in sub-paragraph (b), for the words “EEA state or third country” substitute “country granted equivalence”,
 - (c) in paragraph (5)—
-  - (i)[^key-22a9994d8c2db0e56fed0e713b3bc800] in sub-paragraph (a), for the words “either an” to the end substitute “a country granted equivalence”,
+  - (i)[^c-22a9994d8c2db0e56fed0e713b3bc800] in sub-paragraph (a), for the words “either an” to the end substitute “a country granted equivalence”,
   - (ii) in sub-paragraph (c)—
     - (aa) omit “EC” in both places where it occurs,
-    - (bb)[^key-e41a4d26040447970e26dede788ead9b] for the words “EEA state or third country” substitute “country granted equivalence”,
+    - (bb)[^c-e41a4d26040447970e26dede788ead9b] for the words “EEA state or third country” substitute “country granted equivalence”,
 
 (3) For regulation 4(2) (seed to which the Regulations apply) substitute [^c23585601]—
 
@@ -2239,21 +2239,21 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (4) In regulation 6 (marketing of seed)—
 
-- (a)[^key-79855a95b77c96debe4aaf89df489fe6] in paragraph (1)(b)(i), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List
+- (a)[^c-79855a95b77c96debe4aaf89df489fe6] in paragraph (1)(b)(i), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List
 - (b) in paragraph (2)(c), omit “or Annex I(A) (crop conditions) of the Beet Seed Directive”,
-- (ba)[^key-fe9c39c512eb68e11620bcd7e0595c04] in paragraph (4), for “a European” substitute “an International”,
+- (ba)[^c-fe9c39c512eb68e11620bcd7e0595c04] in paragraph (4), for “a European” substitute “an International”,
 - (c) in paragraph (5), for “a country which is not an EEA state” substitute “ outside the United Kingdom ”,
-- (d)[^key-b5e72018ab2ed2bbcacf28ae26558611] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-6010e89d7c9daa722d4768edf7fb8844] in paragraph (6)—
+- (d)[^c-b5e72018ab2ed2bbcacf28ae26558611] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-6010e89d7c9daa722d4768edf7fb8844] in paragraph (6)—
   - (i) omit “, by reason only of Article 3(2) (component varieties) of the Common Catalogue Directive,”,
   - (ii) for “the UK National List” substitute “a GB Variety List or an NI Variety List”.
 
-(5)[^key-70db5b8f70cc8f7b0e9b885b3ee77655] In regulation 6A (importation from outside the European Union)—
+(5)[^c-70db5b8f70cc8f7b0e9b885b3ee77655] In regulation 6A (importation from outside the European Union)—
 
 - (a) in the heading, for “outside the European Union” substitute “a country granted equivalence”,
 - (b) for “outside the European Union” substitute “a country granted equivalence”.
 
-(6)[^key-4ab1aecacdbc587a74dde077482efc41] For regulation 7(1) (general exemptions) substitute—
+(6)[^c-4ab1aecacdbc587a74dde077482efc41] For regulation 7(1) (general exemptions) substitute—
 
 > (1) The Scottish Ministers may, by a general licence, authorise—
 >
@@ -2279,7 +2279,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) for paragraph (1)(b) substitute—
 
-  > - (b)[^key-ded50c0d00bbf71c2dd7a5983d1e118e] an authorisation has been granted to the producer, in respect of small quantities of seed for scientific purposes or selection work in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  > - (b)[^c-ded50c0d00bbf71c2dd7a5983d1e118e] an authorisation has been granted to the producer, in respect of small quantities of seed for scientific purposes or selection work in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
   >   - (i) a GB Authority other than the Scottish Ministers; or
   >   - (ii) the NI Authority.
 
@@ -2288,7 +2288,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   > (4) The Scottish Ministers may only grant an authorisation under this regulation in respect of a genetically modified variety if the marketing and release of the genetically modified material by the applicant has been authorised—
   >
-  > - (a) before the day on which IP completion[^key-e293d864cd71cf3ba500ae3ab33d4963] day falls, under Part C of the 2001 Deliberate Release Directive,
+  > - (a) before the day on which IP completion[^c-e293d864cd71cf3ba500ae3ab33d4963] day falls, under Part C of the 2001 Deliberate Release Directive,
   > - (b) under the Food and Feed Regulation, or
   > - (c) under the GMO Regulations.
 
@@ -2301,12 +2301,12 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > (1) Regulation 6(1) does not apply to the marketing by a producer of seed for test and trial purposes in accordance with—
   >
   > - (a) a tests and trials authorisation; or
-  > - (b)[^key-dc392a87406b507d6abf3ccfbda5c489] an authorisation which has been granted to the producer, in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
+  > - (b)[^c-dc392a87406b507d6abf3ccfbda5c489] an authorisation which has been granted to the producer, in accordance with the applicable requirements in the relevant part of the United Kingdom, by—
   >   - (i) a GB Authority other than the Scottish Ministers; or
   >   - (ii) the NI Authority.
 
   ,
-- (b)[^key-7873c4ab4adea5d328cf7fe588fd07fb] in paragraph (4)—
+- (b)[^c-7873c4ab4adea5d328cf7fe588fd07fb] in paragraph (4)—
   - (i) for sub-paragraph (a) substitute—
 
     > - (a) the seed is of a variety for which an application has been made by the applicant, which has not been withdrawn or finally determined, under—
@@ -2323,8 +2323,8 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
     ,
 - (c) in paragraph (6), for “that permitted by Article 7 (quantities) of the 2004 Commission Decision” substitute “ the greater of 0.1% of the annual number of seeds used in the United Kingdom and such quantity as the Scottish Ministers consider is sufficient to sow 10 hectares ”,
-- (d)[^key-c2345ebd3a5d058e0e1f1ee4ddd5b234] in paragraph (9), for “UK National List” to the end substitute “GB Variety List or an NI Variety List.”,
-- (e)[^key-37542a817d4f4426b875d17cb1535fc4] in paragraph (10), for “names of the EEA states” to the end substitute “location of the trials within the United Kingdom.”.
+- (d)[^c-c2345ebd3a5d058e0e1f1ee4ddd5b234] in paragraph (9), for “UK National List” to the end substitute “GB Variety List or an NI Variety List.”,
+- (e)[^c-37542a817d4f4426b875d17cb1535fc4] in paragraph (10), for “names of the EEA states” to the end substitute “location of the trials within the United Kingdom.”.
 
 (9) In regulation 10 (exception for Conservation Varieties), after paragraph (7) insert—
 
@@ -2333,7 +2333,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 > - (a) in the first paragraph—
 >   - (i) “Each Member State shall ensure that,” was omitted,
 >   - (ii) for “does not exceed”, there were substituted “ may not exceed ”,
->   - (iii) for “that Member State”, there were substituted “ Great Britain[^key-7a75eb9f2f17f1a60c9de89d40b63288] ”,
+>   - (iii) for “that Member State”, there were substituted “ Great Britain[^c-7a75eb9f2f17f1a60c9de89d40b63288] ”,
 > - (b) in the second paragraph—
 >   - (i) for “each Member State”, there were substituted “ Great Britain ”,
 >   - (ii) for “the Member State” in both places where it occurs, there were substituted “ Great Britain ”.
@@ -2347,20 +2347,20 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   - (ii) for sub-paragraph (b) substitute—
 
     > - (b) which has been certified as satisfying the conditions for the relevant category of seed although it attains a lower percentage of germination than that specified in Part II of Schedule 4 in relation to Basic Seed—
-    >   - (i)[^key-669f3e2cb5c7b9ee0b8803d42986bfae] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain; or
+    >   - (i)[^c-669f3e2cb5c7b9ee0b8803d42986bfae] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain; or
     >   - (ii) by the NI Authority, in accordance with the applicable requirements in Northern Ireland; or
   - (iii) for sub-paragraph (c)(ii) substitute—
 
     > - (ii) in the case of seed which has been fully certified as being Pre-Basic Seed or Basic Seed—
-    >   - (aa)[^key-6439011bcca37a0f0f090865ab0209bf] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain, irrespective of the findings of the GB Authority; or
+    >   - (aa)[^c-6439011bcca37a0f0f090865ab0209bf] by a GB Authority other than the Scottish Ministers, in accordance with the applicable requirements in the relevant part of Great Britain, irrespective of the findings of the GB Authority; or
     >   - (bb) by the NI Authority, in accordance with the applicable requirements in Northern Ireland, irrespective of the findings of the NI Authority.
 
     ,
-- (b)[^key-665b10dd02bf8926e637ee4f3373264d] in paragraph (3), for the words “from a country” to the end substitute “into Great Britain from a country granted equivalence.”.
+- (b)[^c-665b10dd02bf8926e637ee4f3373264d] in paragraph (3), for the words “from a country” to the end substitute “into Great Britain from a country granted equivalence.”.
 
 (11) In regulation 12 (marketing of early movement seed)—
 
-- (a)[^key-193b9c94b7646f09a296e126c4237da2] in paragraph (1)—
+- (a)[^c-193b9c94b7646f09a296e126c4237da2] in paragraph (1)—
   - (i) in sub-paragraph (a), for the words “UK National List or the Common Catalogue” substitute “GB Variety List or an NI Variety List”,
   - (ii) for sub-paragraph (b) substitute—
 
@@ -2372,27 +2372,27 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
     ,
 - (b) in paragraph (3)—
-  - (i)[^key-09d80c5b4cfcbb8fc8cdd58a1c9052a3] for “European Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”,
+  - (i)[^c-09d80c5b4cfcbb8fc8cdd58a1c9052a3] for “European Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”,
   - (ii) omit “or Annex I(B) of the Beet Seed Directive”,
-- (c)[^key-c490fae27a1bd2a373873da5692284e7] in paragraph (4), for the words “from a country” to the end substitute “into Great Britain from a country granted equivalence.”.
+- (c)[^c-c490fae27a1bd2a373873da5692284e7] in paragraph (4), for the words “from a country” to the end substitute “into Great Britain from a country granted equivalence.”.
 
 (12) In regulation 15 (official certificates)—
 
-- (a)[^key-5f71abc1afa5f17e96543a9d89a9ab1e] in paragraph (3), for “UK National List (or an equivalent list in another EEA State)” in both places where it occurs, substitute “GB Variety List or an NI Variety List,
+- (a)[^c-5f71abc1afa5f17e96543a9d89a9ab1e] in paragraph (3), for “UK National List (or an equivalent list in another EEA State)” in both places where it occurs, substitute “GB Variety List or an NI Variety List,
 - (b) in paragraph (4)(d) omit “or licensed EU crop inspector”.
 
-(13)[^key-6f2b777aa5ca5329ec5068a79830a7cf] In regulation 16 (breeder’s confirmations), in paragraphs (1)(c), (5) and (6), for the words “UK National List (or to an equivalent list in another EEA State)” in each place they occur substitute “GB Variety List or an NI Variety List”.
+(13)[^c-6f2b777aa5ca5329ec5068a79830a7cf] In regulation 16 (breeder’s confirmations), in paragraphs (1)(c), (5) and (6), for the words “UK National List (or to an equivalent list in another EEA State)” in each place they occur substitute “GB Variety List or an NI Variety List”.
 
-(14)[^key-d0271eb3153ee7ea85a0230f6b394326] In regulation 17(1)(a) (sampling), for “a European” substitute “an International”.
+(14)[^c-d0271eb3153ee7ea85a0230f6b394326] In regulation 17(1)(a) (sampling), for “a European” substitute “an International”.
 
 (15) In regulation 18 (sealing of packages of seed)—
 
-- (a)[^key-a207e933578189f4487157ae150a87ae] for paragraph (2)(b) substitute—
+- (a)[^c-a207e933578189f4487157ae150a87ae] for paragraph (2)(b) substitute—
 
   > - (b) sealed in any other part of the United Kingdom in accordance with the applicable requirements in the relevant part of the United Kingdom.
 
   ,
-- (b)[^key-87d1a8cdfc0add44dd2510607406f67d] in paragraph (5)—
+- (b)[^c-87d1a8cdfc0add44dd2510607406f67d] in paragraph (5)—
   - (i) in the words before sub-paragraph (a), omit “EC”,
   - (ii) in sub-paragraph (b), for “National Authority other than the Scottish Ministers” substitute “GB Authority, other than the Scottish Ministers, or the NI Authority”,
 - (c) in paragraph (6), omit “EC.
@@ -2403,7 +2403,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   - (i) omit “EC”,
   - (ii) for sub-paragraph (b) substitute—
 
-    > - (b)[^key-af085427a7358e5e31da0811d95cc9e0] where it is sealed in any other part of the United Kingdom, must—
+    > - (b)[^c-af085427a7358e5e31da0811d95cc9e0] where it is sealed in any other part of the United Kingdom, must—
     >   - (i) be labelled in accordance with the applicable requirements for labelling in the relevant part of the United Kingdom in relation to the relevant category of seed, and
     >   - (ii) contain an official document in accordance with the applicable requirements for official documents in the relevant part of the United Kingdom.
 
@@ -2415,29 +2415,29 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (18) After regulation 23 (written and electronic communication) insert—
 
-> **23A. Certification in a Crown Dependency or a country granted equivalence[^key-9143aef291dd0c8b547d8bdbd1b17456]**
+> **23A. Certification in a Crown Dependency or a country granted equivalence[^c-9143aef291dd0c8b547d8bdbd1b17456]**
 >
 > Any seed certified and labelled in a Crown Dependency or a country granted equivalence under legislation recognised by the Scottish Ministers to have equivalent effect to these Regulations may be marketed in Scotland.
 >
-> **23B. Transitional provision for official labels on IP completion day[^key-8c4971452f0f6b766a9867475ee06289]**
+> **23B. Transitional provision for official labels on IP completion day[^c-8c4971452f0f6b766a9867475ee06289]**
 >
-> A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations is to be treated as an official label for a package of Basic Seed, Certified Seed or Seed of a Conservation Variety, for the purposes of any use of that label before the end of the period of twelve months[^key-ae170802b71d352ba9dcba7441c014f7] beginning with the day after the day on which IP completion day falls.
+> A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations is to be treated as an official label for a package of Basic Seed, Certified Seed or Seed of a Conservation Variety, for the purposes of any use of that label before the end of the period of twelve months[^c-ae170802b71d352ba9dcba7441c014f7] beginning with the day after the day on which IP completion day falls.
 
 .
 
 (19) In schedule 1 (species and categories of beet seed), in Part II (categories of seed that may be marketed)—
 
-- (a)[^key-ca89597c61d87908de80b95b07661c4c] in the definition of “Pre-basic Seed”, for paragraph 2(c)(ii) substitute—
+- (a)[^c-ca89597c61d87908de80b95b07661c4c] in the definition of “Pre-basic Seed”, for paragraph 2(c)(ii) substitute—
 
   > - (ii) has been certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in sub-paragraphs (a) and (b) and the applicable requirements for Basic Seed in the relevant part of the United Kingdom.
 
   ,
-- (b)[^key-cd49ca184033a65b8ed4ee2b076ae999] in the definition of “Basic Seed”, for paragraph 3(c)(ii) substitute—
+- (b)[^c-cd49ca184033a65b8ed4ee2b076ae999] in the definition of “Basic Seed”, for paragraph 3(c)(ii) substitute—
 
   > - (ii) has been certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in sub-paragraphs (a) and (b) and the applicable requirements for Basic Seed in the relevant part of the United Kingdom.
 
   ,
-- (c)[^key-ce340301674c3a6a0b4154c6e438a600] in the definition of “Certified Seed”, for paragraph 4(b)(ii) substitute—
+- (c)[^c-ce340301674c3a6a0b4154c6e438a600] in the definition of “Certified Seed”, for paragraph 4(b)(ii) substitute—
 
   > - (ii) has been certified by a GB Authority, other than the Scottish Ministers, as satisfying the conditions specified in sub-paragraph (a) and the applicable requirements for Certified Seed in the relevant part of the United Kingdom.
 
@@ -2447,7 +2447,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) in Part I (official certificates)—
   - (i) in paragraph 1 (applications for seed harvested in the United Kingdom), omit “but not made in pursuance of Article 22 (certification of seed from other EEA states or equivalent third countries) of the Beet Seed Directive”,
-  - (ii)[^key-5332313585f60d3fc11d514a7fb3b31a] for paragraph 4 (applications for seed harvested in an EEA State or third country) substitute—
+  - (ii)[^c-5332313585f60d3fc11d514a7fb3b31a] for paragraph 4 (applications for seed harvested in an EEA State or third country) substitute—
 
     > **4. Applications for seed harvested outside the United Kingdom**
     >
@@ -2479,9 +2479,9 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     > - (b) has been packed in a sealed package in accordance with the requirements of regulation 18 (sealing of packages of seed) and has been labelled in accordance with the requirements of regulation 19 (labelling of packages of seed) and Schedule 6.
 
     ,
-- (b)[^key-5c2211db104aec263c1792303499b279] in Part II (breeder’s confirmations), in paragraph (7)(d) (when applications may be refused), for “UK National List (or to an equivalent list in an EEA state)” substitute “GB Variety List or an NI Variety List”.
+- (b)[^c-5c2211db104aec263c1792303499b279] in Part II (breeder’s confirmations), in paragraph (7)(d) (when applications may be refused), for “UK National List (or to an equivalent list in an EEA state)” substitute “GB Variety List or an NI Variety List”.
 
-(21)[^key-c9d09be4248d7e9ec0d8f85ebaa59075] In Schedule 4 (requirements for Pre-Basic Seed, Basic Seed, Certified Seed and Seed of a Conservation Variety), in Part I (conditions relating to crops from which seed is obtained)—
+(21)[^c-c9d09be4248d7e9ec0d8f85ebaa59075] In Schedule 4 (requirements for Pre-Basic Seed, Basic Seed, Certified Seed and Seed of a Conservation Variety), in Part I (conditions relating to crops from which seed is obtained)—
 
 - (a) in paragraph 2(1) (varietal identity and varietal purity), for the words “UK National List” to the end substitute “GB Variety List or NI Variety List”,
 - (b) in paragraph 5(2) (isolation distances – minimum distances), for “the Common Catalogue or UK National List” substitute “a GB Variety List or an NI Variety List”.
@@ -2490,16 +2490,16 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 - (a) in paragraph 4 (official label for a package of Pre-Basic Seed), for “EEA state or their commonly used initials”, substitute “ country or country initials ”,
 - (b) in paragraph 5(a) (official label for a package of Basic Seed or Certified Seed)—
-  - (i) in sub-paragraph (i), for “EC” substitute “ GB[^key-692b0d2623ddbd57fdf27cf50796126b] ”,
+  - (i) in sub-paragraph (i), for “EC” substitute “ GB[^c-692b0d2623ddbd57fdf27cf50796126b] ”,
   - (ii) in sub-paragraph (ii), for “EEA state or their commonly used initials”, substitute “ country or country initials ”,
-- (c)[^key-fa85a87e0969500dd85b6502a308ae09] in paragraph 6(a) (official label for a package of test and trial seed)—
+- (c)[^c-fa85a87e0969500dd85b6502a308ae09] in paragraph 6(a) (official label for a package of test and trial seed)—
   - (i) in head (ii), for “EEA State or their distinguishing abbreviation” substitute “country or country initials”,
   - (ii) in head (vii), for “the UK National” substitute “a GB Variety”,
 - (d) in paragraph 7 (official label for a package of seed of a Conservation Variety)—
-  - (i) in sub-paragraph (1)(a)(i), for “EC” substitute “ GB[^key-03a1b0da91028abe03146d7384f8f03a] ”,
+  - (i) in sub-paragraph (1)(a)(i), for “EC” substitute “ GB[^c-03a1b0da91028abe03146d7384f8f03a] ”,
   - (ii) for sub-paragraph (2) substitute—
 
-    > (2)[^key-53f7312e0976eb888682f1b5d2c07076] Where a package of seed of a Conservation Variety is sealed in any other part of Great Britain, it must be labelled in accordance with the requirements for labelling applicable in the relevant part of Great Britain.
+    > (2)[^c-53f7312e0976eb888682f1b5d2c07076] Where a package of seed of a Conservation Variety is sealed in any other part of Great Britain, it must be labelled in accordance with the requirements for labelling applicable in the relevant part of Great Britain.
 
     ,
 - (e) in Part III (small EC packages)—
@@ -2508,23 +2508,23 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     - (aa) in the heading, omit “EC”,
     - (bb) omit “EC” in both places where it occurs,
     - (cc) for “EEA state or their initials” substitute “ country or country initials ”,
-- (f)[^key-533d6987dbd41fa614c6f7ab86653064] in Part V (information in respect of seed imported from countries which are not EEA States in packages exceeding 2 kilograms net weight)—
+- (f)[^c-533d6987dbd41fa614c6f7ab86653064] in Part V (information in respect of seed imported from countries which are not EEA States in packages exceeding 2 kilograms net weight)—
   - (i) in the heading, for “which are not EEA States” substitute “outside the United Kingdom”,
   - (ii) in paragraph 13 (information to be supplied in respect of seed imported from a country which is not an EEA State in a package exceeding 2 kilograms net weight)—
     - (aa) in the heading, for “which is not an EEA State” substitute “outside the United Kingdom”,
     - (bb) in the text before sub-paragraph (a), for “which is not an EEA State” substitute “outside the United Kingdom”,
-- (g)[^key-d7f71b4febc79f380820f91fc14d4ffa] in Part VI (printing of specified matters on packages (whole bag labelling)), in paragraph 17 (seed packages sealed in the United Kingdom but not in Scotland, or in an EEA State other than the United Kingdom)—
+- (g)[^c-d7f71b4febc79f380820f91fc14d4ffa] in Part VI (printing of specified matters on packages (whole bag labelling)), in paragraph 17 (seed packages sealed in the United Kingdom but not in Scotland, or in an EEA State other than the United Kingdom)—
   - (i) in the heading, for “an EEA State” substitute “a country”,
   - (ii) for “EEA State” in both places where it occurs, substitute “country”,
   - (iii) for “the Department of Agriculture and Rural Development” substitute “DAERA”.
 
-### 16. The Seed Potatoes (Scotland) Regulations 2015[^key-25af3460f4101424699972d7b4fe5e84]
+### 16. The Seed Potatoes (Scotland) Regulations 2015[^c-25af3460f4101424699972d7b4fe5e84]
 
 (1) The Seed Potatoes (Scotland) Regulations 2015 [^c23585621] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
-- (za)[^key-58331f94d72595dba53fae3dc1e60ccd] after the definition of “agricultural unit” insert—
+- (za)[^c-58331f94d72595dba53fae3dc1e60ccd] after the definition of “agricultural unit” insert—
 
   > - “applicable GB grade” means—
   >   - (a) in relation to seed potatoes produced in Scotland, the GB grade determined in respect of those seed potatoes under regulation 8(2)(a) or, as the case may be, under regulation 15(2), and—
@@ -2535,19 +2535,19 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   >   and references in these Regulations to “GB grade PBTC”, “GB grade PB”, “GB grade S”, “GB grade SE” and “GB grade E” are to be construed accordingly;,
 - (a) in the definition of “applicable Union grade”—
   - (i) omit sub-paragraph (a),
-  - (ii) in sub-paragraph (b), for “outside Scotland” substitute “ in Northern Ireland[^key-bb08a787a70487a96502b78753321aea] ”,
+  - (ii) in sub-paragraph (b), for “outside Scotland” substitute “ in Northern Ireland[^c-bb08a787a70487a96502b78753321aea] ”,
   - (iii) omit “in relation to both cases as mentioned in paragraph (a) and (b)”,
-- (b)[^key-b2ff96169214cc15f8ce7caac9b81086] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b2ff96169214cc15f8ce7caac9b81086] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in the definition of “basic seed potatoes”, in sub-paragraph (b), for the words from “in accordance” to the end substitute—
 
   > , stating that on examination of the potatoes they were certified as basic seed potatoes and that they have fulfilled the applicable requirements for the grade, in accordance with—
   >
-  > - (i) in the case of seed potatoes produced in Great Britain[^key-f6dc45914feec9de7a56108a5c06d687], the relevant seed potatoes regulations;
-  > - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^key-e314cb618bfe5cc47317d33d0470081d], legislation recognised by the Scottish Ministers as having equivalent effect to regulation 10(1)(b) and paragraphs 2 and 4 of Schedule 5;
-  > - (iii) [^key-fdcb883f2d55f3e6ed4e82b4042e94d1]...
+  > - (i) in the case of seed potatoes produced in Great Britain[^c-f6dc45914feec9de7a56108a5c06d687], the relevant seed potatoes regulations;
+  > - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^c-e314cb618bfe5cc47317d33d0470081d], legislation recognised by the Scottish Ministers as having equivalent effect to regulation 10(1)(b) and paragraphs 2 and 4 of Schedule 5;
+  > - (iii) [^c-fdcb883f2d55f3e6ed4e82b4042e94d1]...
 
   ,
-- (ca)[^key-41038d21ce4ad01288f21bee3455a69b] omit the definition of “Common Catalogue”,
+- (ca)[^c-41038d21ce4ad01288f21bee3455a69b] omit the definition of “Common Catalogue”,
 - (cb) after the definition of “Council [Directive 2002/56/EC](https://www.legislation.gov.uk/eudr/2002/0056)” insert—
 
   > - “country granted equivalence” means a country that has been assessed by Scottish Ministers as producing seed potatoes under conditions equivalent to those required by these Regulations;
@@ -2556,12 +2556,12 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > “**Crown Dependency**” means the Isle of Man and any of the Channel Islands;
 
   ,
-- (da)[^key-4c7d21da9c359bd019822c92e205cf46] after the definition of “declared net weight” insert—
+- (da)[^c-4c7d21da9c359bd019822c92e205cf46] after the definition of “declared net weight” insert—
 
   > - “DAERA” means the Department of Agriculture, Environment and Rural Affairs in Northern Ireland;
 
   ,
-- (e)[^key-af2bcc153e0054cb9e468539bae41b7a] after the definition of “[Directive 2001/18/EC](https://www.legislation.gov.uk/eudr/2001/0018)” insert—
+- (e)[^c-af2bcc153e0054cb9e468539bae41b7a] after the definition of “[Directive 2001/18/EC](https://www.legislation.gov.uk/eudr/2001/0018)” insert—
 
   > - “equivalent grade” means—
   >   - (a) for Northern Ireland, an equivalent Union grade;
@@ -2584,7 +2584,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (d) in relation to Northern Ireland, the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003 [^c23585661];
 
   ,
-- (g)[^key-ddc68460d81278797449063cf6cf0bf6] for the definition of “grade” substitute—
+- (g)[^c-ddc68460d81278797449063cf6cf0bf6] for the definition of “grade” substitute—
 
   > - “grade” includes the GB grade;
   > - “GB Variety List” means a list of varieties of potato species prepared and published in accordance with regulation 3 of the National Lists Regulations;
@@ -2602,20 +2602,20 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   >
   > - (a) in the case of seed potatoes produced in Scotland, a document issued or approved by the Scottish Ministers, which meet the requirements of schedule 5A;
   > - (b) in the case of seed potatoes produced outside Scotland, a document issued or approved by the relevant authority in the country or territory where the seed potatoes were produced, which meets the requirements of—
-  >   - (i) in the case of seed potatoes produced in Great Britain[^key-a18d160515057bd5b90b64ac29afca77], the relevant seed potatoes regulations;
-  >   - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^key-99b2dadaf877c18c5d6cc0e90c3617fb], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of schedule 5A;
-  >   - (iii)[^key-8f2a486382cafec993305c9de85cff74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (i) in the case of seed potatoes produced in Great Britain[^c-a18d160515057bd5b90b64ac29afca77], the relevant seed potatoes regulations;
+  >   - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^c-99b2dadaf877c18c5d6cc0e90c3617fb], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of schedule 5A;
+  >   - (iii)[^c-8f2a486382cafec993305c9de85cff74] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   ,
 - (i) in the definition of “official label”, for sub-paragraph (b) substitute—
 
   > - (b) in the case of seed potatoes produced outside Scotland, a label approved by the relevant authority in the country or territory where the seed potatoes were produced and which meets, as appropriate to the seed potatoes to which the label relates, the requirements of—
-  >   - (i) in the case of seed potatoes produced in Great Britain[^key-a8651684965dfb551fff34f69f0ba752], the relevant seed potatoes regulations;
-  >   - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^key-b6db5fd63314a91899bce4cd0ed0ccd3], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of regulation 10 and schedule 5;
-  >   - (iii)[^key-56e5ceaf826a5a05333979a1dd01ce27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (i) in the case of seed potatoes produced in Great Britain[^c-a8651684965dfb551fff34f69f0ba752], the relevant seed potatoes regulations;
+  >   - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^c-b6db5fd63314a91899bce4cd0ed0ccd3], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of regulation 10 and schedule 5;
+  >   - (iii)[^c-56e5ceaf826a5a05333979a1dd01ce27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   ,
-- (j)[^key-e3743c90509582b8b998f73d642f0af6] for the definition of “outside Scotland” substitute—
+- (j)[^c-e3743c90509582b8b998f73d642f0af6] for the definition of “outside Scotland” substitute—
 
   > - “outside Scotland”, in relation to the place of production of seed potatoes means—
   >   - (a) any part of the British Islands other than Scotland; or
@@ -2624,9 +2624,9 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   > the requirements of—
   >
-  > - (i) in the case of seed potatoes produced in Great Britain[^key-c708dac2709b8686eacc52073201bc25], the relevant seed potatoes regulations;
-  > - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^key-8557f7d722176ad937b2562f67890bf5], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of regulation 10(1)(a) and paragraphs 1 and 4 of Schedule 5;
-  > - (iii) [^key-c1b2e6577a8c5e51c69da716ff9a9a0a]...
+  > - (i) in the case of seed potatoes produced in Great Britain[^c-c708dac2709b8686eacc52073201bc25], the relevant seed potatoes regulations;
+  > - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^c-8557f7d722176ad937b2562f67890bf5], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of regulation 10(1)(a) and paragraphs 1 and 4 of Schedule 5;
+  > - (iii) [^c-c1b2e6577a8c5e51c69da716ff9a9a0a]...
 
   ,
 - (l) in the definition of “relevant authority”, omit “for the purposes of Council Directive [2002/56/EC](https://www.legislation.gov.uk/eudr/2002/56)”,
@@ -2643,32 +2643,32 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   > the requirements of—
   >
-  > - (i) in the case of seed potatoes produced in Great Britain[^key-7158c4a4a4a359a5f43b582a9e3500b8], the relevant seed potatoes regulations;
-  > - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^key-8291b53fae33c9b4e87917aeb3cf6eb8], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of regulation 6;
-  > - (iii) [^key-733bea553f1e8260466ac4e3cfbae2ae]...
+  > - (i) in the case of seed potatoes produced in Great Britain[^c-7158c4a4a4a359a5f43b582a9e3500b8], the relevant seed potatoes regulations;
+  > - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^c-8291b53fae33c9b4e87917aeb3cf6eb8], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of regulation 6;
+  > - (iii) [^c-733bea553f1e8260466ac4e3cfbae2ae]...
 
   ,
 - (o) in the definition of “test and trial seed potatoes”, in sub-paragraph (b), for the words “the requirements” to the end substitute—
 
   > the requirements of—
   >
-  > - (i) in the case of seed potatoes produced in Great Britain[^key-fae98249dc0df2715dc8c2f0b3ee4ed8], the relevant seed potatoes regulations;
-  > - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^key-8dad3a69814d8bb04b5715fd616bfbcc], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of regulations 5 and 10(1)(c) and paragraphs 3 and 4 of Schedule 5;
-  > - (iii) [^key-0ee454f167b4a11555befafc96a5a5e5]...
+  > - (i) in the case of seed potatoes produced in Great Britain[^c-fae98249dc0df2715dc8c2f0b3ee4ed8], the relevant seed potatoes regulations;
+  > - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^c-8dad3a69814d8bb04b5715fd616bfbcc], legislation recognised by the Scottish Ministers as having equivalent effect to the requirements of regulations 5 and 10(1)(c) and paragraphs 3 and 4 of Schedule 5;
+  > - (iii) [^c-0ee454f167b4a11555befafc96a5a5e5]...
 
   .
 
-(3)[^key-32be105fc5f3d318a26870f8faa22a6d] Omit regulation 2(3).
+(3)[^c-32be105fc5f3d318a26870f8faa22a6d] Omit regulation 2(3).
 
 (4) In regulation 4 (general provisions on the marketing of seed potatoes)—
 
-- (za)[^key-82477cf9de44ba882f565fff0a2b6bc8] in paragraph (3)—
+- (za)[^c-82477cf9de44ba882f565fff0a2b6bc8] in paragraph (3)—
   - (i) in sub-paragraph (a), for “the United Kingdom” substitute “Great Britain”,
   - (ii) in sub-paragraph (b), for “National List” substitute “GB Variety List or NI Variety List”,
-- (a)[^key-df4de41b719fc4c06963ce25266095ab] in paragraph (5), for “Union” substitute “GB”;
+- (a)[^c-df4de41b719fc4c06963ce25266095ab] in paragraph (5), for “Union” substitute “GB”;
 - (b) for paragraph (6)(b) substitute—
 
-  > - (b) in the case of basic seed potatoes in respect of which the applicable GB[^key-0693b204a451ae241be3b05520778e3b] grade or, as the case may be, the applicable Union grade is—
+  > - (b) in the case of basic seed potatoes in respect of which the applicable GB[^c-0693b204a451ae241be3b05520778e3b] grade or, as the case may be, the applicable Union grade is—
   >   - (i) GB grade S or Union grade S, the fifth field generation,
   >   - (ii) GB grade SE or Union grade SE, the sixth field generation,
   >   - (iii) GB grade E or Union grade E, the seventh field generation.
@@ -2681,23 +2681,23 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   > (4) The Scottish Ministers may not grant or renew an authorisation under paragraph (1) unless they are satisfied that—
   >
-  > - (a) the seed potatoes which are the subject of the authorisation or renewal are of a variety of seed potato for which an application for acceptance onto a GB Variety List or an NI Variety List[^key-5ffb2e258045748c52d0aec58f76b54e] has been made;
+  > - (a) the seed potatoes which are the subject of the authorisation or renewal are of a variety of seed potato for which an application for acceptance onto a GB Variety List or an NI Variety List[^c-5ffb2e258045748c52d0aec58f76b54e] has been made;
   > - (b) in relation to seed potatoes containing genetically modified material, the marketing and release of the material by the applicant has been authorised under—
-  >   - (i) before the day on which IP completion[^key-0b95d499755d36cf3c166f37cc3e4a40] day falls, Part C of Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
+  >   - (i) before the day on which IP completion[^c-0b95d499755d36cf3c166f37cc3e4a40] day falls, Part C of Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
   >   - (ii) Regulation 1829/2003; or
   >   - (iii) the GMO Regulations;
   > - (c) the marketing of the seed potatoes would not contravene any prohibition on the use of that variety which has been imposed in accordance with Article 14 of Commission Decision [2004/842/EC](https://www.legislation.gov.uk/eud/2004/842) and which has been published in the Plant Varieties and Seeds Gazette in accordance with section 34(1) of the Act; and
-  > - (d) the quantity of the variety of seed potato to be marketed does not exceed the greater of 0.1% of the annual number of seed potatoes used in Great Britain[^key-293edec17795a0d835c1caae954a1a6a] and such quantity as the Scottish Ministers consider is sufficient to sow 10 hectares.
+  > - (d) the quantity of the variety of seed potato to be marketed does not exceed the greater of 0.1% of the annual number of seed potatoes used in Great Britain[^c-293edec17795a0d835c1caae954a1a6a] and such quantity as the Scottish Ministers consider is sufficient to sow 10 hectares.
 
   ,
-- (aa)[^key-9e970d5715cebfc2795f8386f6f4d079] in paragraph (6)(a)(ii), for “member States” substitute “countries”,
-- (b)[^key-ca4d6a833b37bdbd4e90862304f50026] in paragraph 8(b), for the words “the National List” to the end substitute “a GB Variety List or an NI Variety List.”.
+- (aa)[^c-9e970d5715cebfc2795f8386f6f4d079] in paragraph (6)(a)(ii), for “member States” substitute “countries”,
+- (b)[^c-ca4d6a833b37bdbd4e90862304f50026] in paragraph 8(b), for the words “the National List” to the end substitute “a GB Variety List or an NI Variety List.”.
 
 (6) For regulation 6(3) (marketing requirements – scientific and selection seed potatoes) substitute—
 
 > (3) In relation to seed potatoes containing genetically modified material, the Scottish Ministers may not grant or renew an authorisation under paragraph (1) unless they are satisfied that the marketing and release of the material by the applicant has been authorised under—
 >
-> - (a) before the day on which IP completion[^key-1978a66cd617f4e4e7965e042e0ea3dc] day falls, Part C of Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
+> - (a) before the day on which IP completion[^c-1978a66cd617f4e4e7965e042e0ea3dc] day falls, Part C of Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
 > - (b) Regulation 1829/2003; or
 > - (c) the GMO Regulations.
 
@@ -2713,7 +2713,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (a) in the first paragraph—
   >   - (i) “Each Member State shall ensure that” was omitted;
   >   - (ii) for “does not exceed”, there were substituted “ may not exceed ”;
-  >   - (ii) for “that Member State”, there were substituted “ Great Britain[^key-20f84cc803b3a369914efefad41b4b9c] ”;
+  >   - (ii) for “that Member State”, there were substituted “ Great Britain[^c-20f84cc803b3a369914efefad41b4b9c] ”;
   > - (b) in the second paragraph—
   >   - (i) for “each Member State”, there were substituted “ Great Britain ”;
   >   - (ii) for “the Member State” in both places where it occurs, there were substituted “ Great Britain ”.
@@ -2723,25 +2723,25 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 (8) In regulation 8 (certification and grading)—
 
 - (a) in paragraph (2)(a)—
-  - (i) for “applicable Union grade” substitute “ applicable GB[^key-ede47e6de7909ec5451e23cb82999eb2] grade ”,
+  - (i) for “applicable Union grade” substitute “ applicable GB[^c-ede47e6de7909ec5451e23cb82999eb2] grade ”,
   - (ii) for “Union grade PBTC” substitute “ GB grade PBTC ”; and
   - (iii) for “Union grade S” substitute “ GB grade S ”,
 - (b) in paragraph (4), for “Union” substitute “ GB ”.
 
-(9) In regulation 10(3)(b) (labelling of seed potatoes), for “Union” substitute “ GB[^key-08ac7ee405a917debf0c8e981d0882ef] ”.
+(9) In regulation 10(3)(b) (labelling of seed potatoes), for “Union” substitute “ GB[^c-08ac7ee405a917debf0c8e981d0882ef] ”.
 
 (10) For regulation 11(1)(b) (sealing of packages) substitute—
 
 > - (b) in the case of seed potatoes produced outside Scotland, it is sealed in accordance with—
->   - (i) in the case of seed potatoes produced in Great Britain[^key-569f2a60bbd880174955cc6362b6a755], the relevant seed potatoes regulations;
->   - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^key-f43066e2e370d97f3e5265b9594480b8], legislation recognised by the Scottish Ministers as having equivalent effect to paragraph (a);
->   - (iii)[^key-b9fdfa2d222e4fadef191d3288609707] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>   - (i) in the case of seed potatoes produced in Great Britain[^c-569f2a60bbd880174955cc6362b6a755], the relevant seed potatoes regulations;
+>   - (ii) in the case of seed potatoes produced in a Crown Dependency or a country granted equivalence[^c-f43066e2e370d97f3e5265b9594480b8], legislation recognised by the Scottish Ministers as having equivalent effect to paragraph (a);
+>   - (iii)[^c-b9fdfa2d222e4fadef191d3288609707] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
 (11) In regulation 15 (enforcement – crop inspection report, applicable Union grade and official label)—
 
-- (a) in the heading, for “Union” substitute “ GB[^key-026a65ef4b3453a91a95cff12f4951b4] ”,
+- (a) in the heading, for “Union” substitute “ GB[^c-026a65ef4b3453a91a95cff12f4951b4] ”,
 - (b) in paragraph (2), for “Union” substitute “ GB ”.
 
 (12) In regulation 20 (imports from outside EU)—
@@ -2751,7 +2751,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (13) After regulation 23 (extension and modification of provisions of the Act) insert—
 
-> **23A. Transitional provision for official labels on IP completion day[^key-98cd9e6bee8873034422487fd72beac8]**
+> **23A. Transitional provision for official labels on IP completion day[^c-98cd9e6bee8873034422487fd72beac8]**
 >
 > A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations is to be treated as an official label for basic seed potatoes or, as the case may be, test and trial seed potatoes produced in Scotland, for the purposes of any use of that label before the end of the period of one year beginning with the day after the day on which IP completion day falls.
 
@@ -2759,31 +2759,31 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (14) In schedule 1 (conditions for certification and grading of Scottish seed potatoes)—
 
-- (a) in paragraph 1(c)(ii), for “Union” substitute “ GB[^key-e9032ccd567e4ea8e22f9c3a582daebd] ”,
-- (b) in paragraph 2(f), for “Union” substitute “ GB[^key-c2c93a9ad3eb3fc88ecb4937dbc27114] ”,
-- (c)[^key-6bec5138292cde1ae503f1b2f7120c55] in paragraph 3—
+- (a) in paragraph 1(c)(ii), for “Union” substitute “ GB[^c-e9032ccd567e4ea8e22f9c3a582daebd] ”,
+- (b) in paragraph 2(f), for “Union” substitute “ GB[^c-c2c93a9ad3eb3fc88ecb4937dbc27114] ”,
+- (c)[^c-6bec5138292cde1ae503f1b2f7120c55] in paragraph 3—
   - (i) in sub-paragraph (a), for the words “the National List” to the end substitute “a GB Variety List or an NI Variety List”,
   - (ii) in sub-paragraph (b), for “the National List” substitute “a GB Variety List or an NI Variety List”,
-- (d) in paragraphs 6, 8, 9, 12 and 13, in each place it occurs, for “Union” substitute “ GB[^key-0e1e6374138c9b6878558d65bc9bc75e] ”.
+- (d) in paragraphs 6, 8, 9, 12 and 13, in each place it occurs, for “Union” substitute “ GB[^c-0e1e6374138c9b6878558d65bc9bc75e] ”.
 
 (15) In schedule 2 (certification and grading: source material requirements, other requirements and tolerances)—
 
 - (a) in Table I (pre-basic seed potatoes)—
-  - (i) in the heading of column 1 (Union grade), for “Union” substitute “ GB[^key-d5bae858908132557b908d8e57ded016] ”,
-  - (ii) in the entry for grade “PBTC”, in column 3 (other requirements), for “Union” substitute “ GB[^key-9efddab81ebea583b7d05e9f2cae8686] ”,
-  - (iii)[^key-f9f27575d5bcc51e21d0ca63dd57dcaf] in the entry for grade “PB”—
+  - (i) in the heading of column 1 (Union grade), for “Union” substitute “ GB[^c-d5bae858908132557b908d8e57ded016] ”,
+  - (ii) in the entry for grade “PBTC”, in column 3 (other requirements), for “Union” substitute “ GB[^c-9efddab81ebea583b7d05e9f2cae8686] ”,
+  - (iii)[^c-f9f27575d5bcc51e21d0ca63dd57dcaf] in the entry for grade “PB”—
     - (aa) in column 2 (source material), for “Union grade PBTC” substitute “GB grade PBTC or the equivalent grade”,
     - (bb) in column 3 (other requirements), for “Union grade S” substitute “GB grade S or the equivalent grade”,
 - (b) in Table II (basic seed potatoes and test and trial seed potatoes)—
-  - (i) in the heading of column 1 (Union grade), for “Union” substitute “ GB[^key-cf2813879fadb2af3090c9e991839f84] ”,
-  - (ii)[^key-ab85c0d014b34799da23c4b11724fd41] in the entry for grade “S”, in column 2 (source material), for “Union grade PBTC or PB” substitute “GB grade PBTC or PB or the equivalent grade”,
+  - (i) in the heading of column 1 (Union grade), for “Union” substitute “ GB[^c-cf2813879fadb2af3090c9e991839f84] ”,
+  - (ii)[^c-ab85c0d014b34799da23c4b11724fd41] in the entry for grade “S”, in column 2 (source material), for “Union grade PBTC or PB” substitute “GB grade PBTC or PB or the equivalent grade”,
   - (iii) in the entry for grade “SE”, in column 2, for “Union grade PBTC, PB, or S” substitute “GB grade PBTC, PB or S or the equivalent grade”,
   - (iv) in the entry for grade “E”, in column 2, for “Union grade PBTC, PB, S or SE” substitute “GB grade PBTC, PB, S or SE or the equivalent grade”.
 
 (16) In schedule 3 (requirements as to varietal purity and size)—
 
 - (a) in paragraph 2 (Union grade PBTC)—
-  - (i) in the heading, for “Union” substitute “ GB[^key-df3116ae7eb96a41d1878c50afadf43e] ”,
+  - (i) in the heading, for “Union” substitute “ GB[^c-df3116ae7eb96a41d1878c50afadf43e] ”,
   - (ii) in sub-paragraph (1)—
     - (aa) for “applicable Union grade”, substitute “ applicable GB grade ”, and
     - (bb) for “Union grade PBTC” substitute “ GB grade PBTC ”,
@@ -2814,12 +2814,12 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 - (b) in paragraph 2 (basic seed potatoes)—
   - (i) in sub-paragraph (2)(b)—
     - (aa) for “European Union”, substitute “ British Islands ”,
-    - (bb) for “EU”, substitute “ GB[^key-4572c1a937ebbcc16bb629997323b930] ”,
+    - (bb) for “EU”, substitute “ GB[^c-4572c1a937ebbcc16bb629997323b930] ”,
   - (ii) in sub-paragraph (c), for “member State” substitute “ country ”,
 - (c) in paragraph 3 (test and trial seed potatoes)—
   - (i) in sub-paragraph (2)(b)—
     - (aa) for “European Union”, substitute “ British Islands ”,
-    - (bb) for “EU”, substitute “ GB[^key-b6fc338889eb0ed3ceac32dd63bcd111] ”,
+    - (bb) for “EU”, substitute “ GB[^c-b6fc338889eb0ed3ceac32dd63bcd111] ”,
   - (ii) in sub-paragraph (2)(d), for “member State” substitute “ country ”.
 
 (19) After schedule 5 (official labels) insert—
@@ -2845,20 +2845,20 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 (20) In schedule 6 (tolerances for diseases, pests, damages and defects)—
 
 - (a) in paragraph 1 (tolerances)—
-  - (i) for “applicable Union grade” in each place where it occurs, substitute “ applicable GB[^key-e0eb04eb57573be0521235b8cd4bd0fc] grade ”,
+  - (i) for “applicable Union grade” in each place where it occurs, substitute “ applicable GB[^c-e0eb04eb57573be0521235b8cd4bd0fc] grade ”,
   - (ii) in sub-paragraph (1)(a), for “Union grade PBTC, substitute “ GB grade PBTC ”,
   - (iii) in sub-paragraph (1)(b), for “Union grade PB”, substitute “ GB grade PB ”,
   - (iv) in sub-paragraph (1)(c), for “Union grade S”, substitute “ GB grade S ”,
   - (v) in sub-paragraph (1)(d), for “Union grade SE”, substitute “ GB grade SE ”,
   - (vi) in sub-paragraph (1)(e)(i), for “Union grade E”, substitute “ GB grade E ”,
   - (vii) in sub-paragraph (1)(f), for “European Union” substitute “ British Islands ”,
-- (b) in the headings for Tables I (Union grade PBTC produced in Scotland) and II (Union grade PB produced in Scotland), for “Union” substitute “ GB[^key-5c2d93b88b4d68362653652fa24c009e] ”,
+- (b) in the headings for Tables I (Union grade PBTC produced in Scotland) and II (Union grade PB produced in Scotland), for “Union” substitute “ GB[^c-5c2d93b88b4d68362653652fa24c009e] ”,
 - (c) in Table III (Union grade S, SE and E and test and trial seed potatoes)—
-  - (i) in the heading, for “Union” substitute “ GB[^key-296121108ebc09581cc979e34d1ddc76] ”,
+  - (i) in the heading, for “Union” substitute “ GB[^c-296121108ebc09581cc979e34d1ddc76] ”,
   - (ii) in sub-headings (a) (Union grade S produced in Scotland), (b) (Union grade SE produced in Scotland) and (c) (Union grade E and test and trial seed potatoes produced in Scotland), for “Union” in each place where it occurs substitute “ GB ”,
 - (d) in the heading for Table IV (basic seed potatoes intended for markets outside the EU), for “EU” substitute “ British Islands ”.
 
-### 17. The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016[^key-4b1980eb62a0e40cac5956e2e588fce8]
+### 17. The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016[^c-4b1980eb62a0e40cac5956e2e588fce8]
 
 (1) The Seed (Licensing and Enforcement etc.) (Scotland) Regulations 2016 [^c23585701] are amended as follows.
 
@@ -2869,21 +2869,21 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
 (3) In regulation 13(4) (sampling for enforcement purposes), omit “including for the purpose of the Community comparative tests and trials referred to in the Seed Marketing Directives”.
 
-### 18. The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017[^key-4bbfcb8d808f0b30a71cd66b33efa438]
+### 18. The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017[^c-4bbfcb8d808f0b30a71cd66b33efa438]
 
 (1) The Marketing of Fruit Plant and Propagating Material (Scotland) Regulations 2017 [^c23585711] are amended as follows.
 
 (2) In regulation 2(1) (interpretation)—
 
-- (a) in the definition of “CAC material”, for sub-paragraph[^key-80d49a29889bbb63dddf817a32dbac46] (b) substitute—
+- (a) in the definition of “CAC material”, for sub-paragraph[^c-80d49a29889bbb63dddf817a32dbac46] (b) substitute—
 
   > - (b) in relation to propagating material and fruit plants produced—
   >   - (i) in any other part of the United Kingdom, is material and plants that meet the requirements of the relevant fruit marketing regulations;
-  >   - (ii) in a Crown Dependency or a country granted equivalence[^key-3118e64e55050a661e16de16a22ec7e2], is material and plants that meet the requirements in legislation recognised by the Scottish Ministers as having equivalent effect to schedule 3;
-  >   - (iii)[^key-f74981961810cf0be5a5e05f3f9e8b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (ii) in a Crown Dependency or a country granted equivalence[^c-3118e64e55050a661e16de16a22ec7e2], is material and plants that meet the requirements in legislation recognised by the Scottish Ministers as having equivalent effect to schedule 3;
+  >   - (iii)[^c-f74981961810cf0be5a5e05f3f9e8b34] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   ,
-- (b)[^key-1c94bb27fe6a580b4a85322e75c95166] after the definition of “Commission Implementing [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098)” insert—
+- (b)[^c-1c94bb27fe6a580b4a85322e75c95166] after the definition of “Commission Implementing [Directive 2014/98/EU](https://www.legislation.gov.uk/eudr/2014/0098)” insert—
 
   > - “country granted equivalence” means a country that has been assessed by Scottish Ministers as producing plant material under conditions equivalent to those required by these Regulations;
   > - “Crown Dependency” means the Isle of Man or any of the Channel Islands;
@@ -2906,25 +2906,25 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (d) in relation to Northern Ireland, the Genetically Modified Organisms (Deliberate Release) Regulations (Northern Ireland) 2003 [^c23585781];
 
   ,
-- (e) in the definition of “official label”, for sub-paragraph[^key-4e3e3c25ef8f1c1577efa62c50d59f71] (b) substitute—
+- (e) in the definition of “official label”, for sub-paragraph[^c-4e3e3c25ef8f1c1577efa62c50d59f71] (b) substitute—
 
   > - (b) in the case of pre-basic material, basic material or certified material originating—
   >   - (i) in any other part of the United Kingdom, means a label issued or approved by the responsible official body and which meets the applicable requirements in relation to that material contained in the relevant fruit marketing regulations;
-  >   - (ii) in a Crown Dependency or a country granted equivalence[^key-3d7c899bc270f5dd71e7633c6852fc3f], means a label issued or approved by the responsible official body and which meets the applicable requirements in relation to that material contained in legislation recognised by the Scottish Ministers as having equivalent effect to the relevant paragraphs of Part 1 of schedule 5;
-  >   - (iii)[^key-e1646d453fdb07d5ed162f0c1cc0e02d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (ii) in a Crown Dependency or a country granted equivalence[^c-3d7c899bc270f5dd71e7633c6852fc3f], means a label issued or approved by the responsible official body and which meets the applicable requirements in relation to that material contained in legislation recognised by the Scottish Ministers as having equivalent effect to the relevant paragraphs of Part 1 of schedule 5;
+  >   - (iii)[^c-e1646d453fdb07d5ed162f0c1cc0e02d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   ,
-- (f) in the definition of “officially certified”, for sub-paragraph[^key-0690cb0798058f7ffd4cbcef726013e1] (b) substitute—
+- (f) in the definition of “officially certified”, for sub-paragraph[^c-0690cb0798058f7ffd4cbcef726013e1] (b) substitute—
 
   > - (b) in the case of plant material originating—
   >   - (i) in any other part of the United Kingdom, means certified in accordance with the relevant fruit marketing regulations;
-  >   - (ii) in a Crown Dependency or a country granted equivalence[^key-0a43ea9041133c24642cb47eb7e01ff5], means certified in accordance with legislation recognised by the Scottish Ministers as having equivalent effect to the relevant provisions of schedule 2;
-  >   - (iii)[^key-fddd2ec67618eb8529149c053159cf60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (ii) in a Crown Dependency or a country granted equivalence[^c-0a43ea9041133c24642cb47eb7e01ff5], means certified in accordance with legislation recognised by the Scottish Ministers as having equivalent effect to the relevant provisions of schedule 2;
+  >   - (iii)[^c-fddd2ec67618eb8529149c053159cf60] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   ,
 - (g) in the definition of “officially recognised description” omit “which was marketed in the European Union prior to 30th September 2012”,
 - (h) in the definition of “plant variety rights”[^c23585791], omit “or under Council Regulation [(EC) No 2100/94](https://www.legislation.gov.uk/eur/1994/2100) on Community plant variety rights”,
-- (i) in the definition of “registered variety”, for sub-paragraph[^key-0378dfde1f5fc0025799f56c79128419] (b) substitute—
+- (i) in the definition of “registered variety”, for sub-paragraph[^c-0378dfde1f5fc0025799f56c79128419] (b) substitute—
 
   > - (b) in the case of varieties registered in any other part of the United Kingdom, means registered in accordance with the relevant fruit marketing regulations;
 
@@ -2937,7 +2937,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (b) in relation to plant material produced in a country or territory outside Scotland, the body responsible for the quality of plant material in that country or territory;
 
   ,
-- (ja)[^key-e62b655385b659ee9846193481720788] in the definition of “RNQP”, for “Union” substitute “GB”
+- (ja)[^c-e62b655385b659ee9846193481720788] in the definition of “RNQP”, for “Union” substitute “GB”
 - (k) in the definition of “third country”, for “which is not a member State of the European Union” substitute “ outside the United Kingdom ”.
 
 (3) In regulation 5 (general requirements for marketing of plant material)—
@@ -2947,7 +2947,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (c) in the case of plant material which consists of a genetically modified organism, the organism has been authorised for cultivation pursuant to—
   >   - (i) the GMO regulations,
   >   - (ii) Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829), or
-  >   - (iii) before the day on which IP completion[^key-111c4ab1f377efa9c83ade6add40948f] day falls, Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
+  >   - (iii) before the day on which IP completion[^c-111c4ab1f377efa9c83ade6add40948f] day falls, Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
 
   ,
 - (b) after paragraph (2) insert—
@@ -2958,24 +2958,24 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   >
   > (5) The conditions are that the plant material—
   >
-  > - (a) is of a variety that may be marketed under regulation 7 or has been registered as a variety by the responsible official body in a member State, in accordance with Article 4 of Commission Implementing Directive 2014/97/EU; and[^key-9ec9211c531b22487eb44813a33e7237]
+  > - (a) is of a variety that may be marketed under regulation 7 or has been registered as a variety by the responsible official body in a member State, in accordance with Article 4 of Commission Implementing Directive 2014/97/EU; and[^c-9ec9211c531b22487eb44813a33e7237]
   > - (b) has been produced in compliance with the requirements set out in—
   >   - (i) Council Directive [2008/90/EC](https://www.legislation.gov.uk/eudr/2008/90),
   >   - (ii) Commission Implementing Directive 2014/96/EU;
-  >   - (iii) Commission Implementing Directive 2014/98/EU; [^key-c816a66258ef0c5f7329e678545a1aee]...
-  > - (c)[^key-76b64e88a25dc7d3bb56b7ead614f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  >   - (iii) Commission Implementing Directive 2014/98/EU; [^c-c816a66258ef0c5f7329e678545a1aee]...
+  > - (c)[^c-76b64e88a25dc7d3bb56b7ead614f7d2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
   .
 
-(4)[^key-2b875f18710f77e8023dabdf7607e559] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2b875f18710f77e8023dabdf7607e559] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4A)[^key-638f755c623b070d2b0ba603d3082f22] In regulation 19 (notices), in paragraph (7), for “the United Kingdom” in each place it occurs substitute “Great Britain”
+(4A)[^c-638f755c623b070d2b0ba603d3082f22] In regulation 19 (notices), in paragraph (7), for “the United Kingdom” in each place it occurs substitute “Great Britain”
 
 (5) After regulation 23 (transitional provision) insert—
 
-> **23A. Transitional provision for official labels on IP completion day[^key-f0164cc5f3f843e5a9659d798b592b30]**
+> **23A. Transitional provision for official labels on IP completion day[^c-f0164cc5f3f843e5a9659d798b592b30]**
 >
-> A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations, is to be treated as an official label for plant material, for the purposes of any use of that label before the end of the period of twelve months[^key-1ad7f434a750e13b946d2af50c6c5dbc] beginning with the day after the day on which IP completion day falls.
+> A label pre-printed before IP completion day which at the date on which it was printed was an official label for the purposes of these Regulations, is to be treated as an official label for plant material, for the purposes of any use of that label before the end of the period of twelve months[^c-1ad7f434a750e13b946d2af50c6c5dbc] beginning with the day after the day on which IP completion day falls.
 
 .
 
@@ -2988,7 +2988,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 
   ,
 - (c) in paragraph 8(6) (maintenance of pre-basic mother plants and pre-basic material), omit from “Where a derogation” to “species concerned,”,
-- (d)[^key-07c30796d3c4b797b1df684114b317ca] in paragraph 10(5)(a)(ii) (health requirements for pre-basic mother plants and for pre-basic material), omit sub-sub-head (bb),
+- (d)[^c-07c30796d3c4b797b1df684114b317ca] in paragraph 10(5)(a)(ii) (health requirements for pre-basic mother plants and for pre-basic material), omit sub-sub-head (bb),
 - (e) in paragraph 17(5)(a)(ii) (health requirements for basic mother plants and basic material), omit sub-sub-head (bb),
 - (f) in paragraph 23(5)(a)(ii) (health requirements for certified mother plants and certified material), omit sub-sub-head (bb).
 
@@ -3003,7 +3003,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     > - (c) in relation to genetically modified varieties, the genetically modified organism of which the variety consists is authorised for cultivation pursuant to—
     >   - (i) the GMO regulations,
     >   - (ii) Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829), or
-    >   - (iii) before the day on which IP completion[^key-70debfdaafb390d643429cac1bd25039] day falls, Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18).
+    >   - (iii) before the day on which IP completion[^c-70debfdaafb390d643429cac1bd25039] day falls, Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18).
 
     ,
   - (ii) for sub-paragraph (2)(b) substitute—
@@ -3018,7 +3018,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
     > - (d) in the case of a genetically modified variety, evidence that the genetically modified organism contained in that variety has been authorised for cultivation pursuant to—
     >   - (i) the GMO regulations,
     >   - (ii) Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829), or
-    >   - (iii) before the day on which IP completion[^key-853b4785fe5c5f3a5dae68c110130a55] day falls, Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
+    >   - (iii) before the day on which IP completion[^c-853b4785fe5c5f3a5dae68c110130a55] day falls, Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18);
 
     ,
   - (iii) in sub-paragraph (3), for “authority in another member State” substitute “ official body outside Scotland ”,
@@ -3028,7 +3028,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   > - (ii) the period during which the genetically modified organism of which the variety consists is authorised for cultivation pursuant to—
   >   - (aa) the GMO regulations,
   >   - (bb) Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829), or
-  >   - (cc) before the day on which IP completion[^key-4486dc7e208069dee41905ae43c86ac1] day falls, Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18).
+  >   - (cc) before the day on which IP completion[^c-4486dc7e208069dee41905ae43c86ac1] day falls, Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18).
 
   ,
 - (f) for paragraph 7(1)(d) (removal from register), substitute—
@@ -3037,7 +3037,7 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
   >   - (i) ceases to be authorised for cultivation pursuant to—
   >     - (aa) the GMO regulations,
   >     - (bb) Regulation [(EC) No 1829/2003](https://www.legislation.gov.uk/eur/2003/1829), or
-  >   - (ii) has, before the day on which IP completion[^key-9ce718e7c5fbc9730bd41464968310bb] day falls been authorised for cultivation pursuant to Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18) and ceases to be authorised.
+  >   - (ii) has, before the day on which IP completion[^c-9ce718e7c5fbc9730bd41464968310bb] day falls been authorised for cultivation pursuant to Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18) and ceases to be authorised.
 
   .
 
@@ -3051,11 +3051,11 @@ The Scottish Ministers make these Regulations in exercise of the powers conferre
 - (c) in paragraph 6—
   - (i) in sub-paragraph (a), for “EU” substitute “ UK ”,
   - (ii) in sub-paragraph (b)(i), for “member State” substitute “ country ”,
-  - (iii)[^key-a0660f2015106d96fcf851705b0093ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-a0660f2015106d96fcf851705b0093ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in paragraph 7, for “one of the official languages of the European Union” substitute “ English, but may also be printed in other languages, ”,
 - (e) in paragraph 8(b), for “one of the official languages of the European Union” substitute “ English, but may also be written in other languages, ”.
 
-(8A)[^key-1fd3202dd7530507f97229a5506f7292] In schedule 7 (visual inspections, sampling and testing per genus or species and category), in paragraph 2(a), for “Union” substitute “GB”.
+(8A)[^c-1fd3202dd7530507f97229a5506f7292] In schedule 7 (visual inspections, sampling and testing per genus or species and category), in paragraph 2(a), for “Union” substitute “GB”.
 
 (9) In schedule 8 (powers of inspectors), for paragraph 1(2)(a) substitute—
 
@@ -3093,9 +3093,9 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23584331]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-eee7e4b11cc7462a4ecd98a13eae0c42]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/59/regulation/1) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
+[^c-eee7e4b11cc7462a4ecd98a13eae0c42]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2019/59/regulation/1) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
 
-[^key-3c85d534fb87ea1f08375346cdd59858]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/59/regulation/2) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
+[^c-3c85d534fb87ea1f08375346cdd59858]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2019/59/regulation/2) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
 
 [^c23584341]: Marginal citation: [S.I. 1993/2008](https://www.legislation.gov.uk/uksi/1993/2008), amended by [S.I. 1996/1452](https://www.legislation.gov.uk/uksi/1996/1452), [S.I](https://www.legislation.gov.uk/uksi/1996/1452/section/I). 1997/616, [S.I. 1999/1863](https://www.legislation.gov.uk/uksi/1999/1863), [S.S.I. 2000/250](https://www.legislation.gov.uk/ssi/2000/250), [S.I](https://www.legislation.gov.uk/ssi/2000/250/section/I). 2001/3510, [S.S.I. 2007/305](https://www.legislation.gov.uk/ssi/2007/305), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.S.I. 2010/425](https://www.legislation.gov.uk/ssi/2010/425), [S.I](https://www.legislation.gov.uk/ssi/2010/425/section/I). 2011/1043, [S.S.I. 2013/326](https://www.legislation.gov.uk/ssi/2013/326) and [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434).
 
@@ -3111,7 +3111,7 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23584401]: Marginal citation: [Regulation 6A](https://www.legislation.gov.uk/ssi/2019/59/regulation/6A) was inserted by [S.I. 1999/1863](https://www.legislation.gov.uk/uksi/1999/1863).
 
-[^key-38ae572c969f551c304fe9d1447287ef]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/59/regulation/3) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
+[^c-38ae572c969f551c304fe9d1447287ef]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2019/59/regulation/3) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
 
 [^c23584411]: Marginal citation: [S.S.I. 2004/317](https://www.legislation.gov.uk/ssi/2004/317), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.I](https://www.legislation.gov.uk/ssi/2010/219/section/I). 2011/1043, [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68) and [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434).
 
@@ -3125,7 +3125,7 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23584461]: Marginal citation: [Regulation 8A](https://www.legislation.gov.uk/ssi/2019/59/regulation/8A) was inserted by [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224).
 
-[^key-685a093ceb0b6a0456c4fd9d0f3aae54]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/59/regulation/4) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
+[^c-685a093ceb0b6a0456c4fd9d0f3aae54]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2019/59/regulation/4) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
 
 [^c23584471]: Marginal citation: [S.S.I. 2005/328](https://www.legislation.gov.uk/ssi/2005/328), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2006/448](https://www.legislation.gov.uk/ssi/2006/448), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.I](https://www.legislation.gov.uk/ssi/2010/219/section/I). 2011/1043, [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68) and [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434).
 
@@ -3139,7 +3139,7 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23584521]: Marginal citation: [Regulation 9A](https://www.legislation.gov.uk/ssi/2019/59/regulation/9A) was inserted by [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224).
 
-[^key-9768f0598f400fe386de536733c5a3f2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/59/regulation/5) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
+[^c-9768f0598f400fe386de536733c5a3f2]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2019/59/regulation/5) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
 
 [^c23584531]: Marginal citation: [S.S.I. 2005/329](https://www.legislation.gov.uk/ssi/2005/329), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2006/448](https://www.legislation.gov.uk/ssi/2006/448), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223), [S.S.I. 2009/330](https://www.legislation.gov.uk/ssi/2009/330), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.I](https://www.legislation.gov.uk/ssi/2010/219/section/I). 2011/1043, [S.S.I. 2012/5](https://www.legislation.gov.uk/ssi/2012/5), [S.S.I. 2013/326](https://www.legislation.gov.uk/ssi/2013/326), [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68), [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434) and [S.S.I. 2017/384](https://www.legislation.gov.uk/ssi/2017/384).
 
@@ -3153,7 +3153,7 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23584581]: Marginal citation: [Regulation 9A](https://www.legislation.gov.uk/ssi/2019/59/regulation/9A) was inserted by [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224).
 
-[^key-bf9028efbcfdc5d1a40f7b84d549c38c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/59/regulation/6) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
+[^c-bf9028efbcfdc5d1a40f7b84d549c38c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2019/59/regulation/6) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
 
 [^c23584591]: Marginal citation: [S.S.I. 2010/148](https://www.legislation.gov.uk/ssi/2010/148), amended by [S.S.I. 2011/413](https://www.legislation.gov.uk/ssi/2011/413), [S.I](https://www.legislation.gov.uk/ssi/2011/413/section/I). 2011/1043, [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68) and [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434).
 
@@ -3163,37 +3163,37 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23584621]: Marginal citation: OJ L 284, 12.11.2018, p.31.
 
-[^key-4a9cd8362922f2f89ff382197969286e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2019/59/regulation/7) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
+[^c-4a9cd8362922f2f89ff382197969286e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2019/59/regulation/7) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
 
 [^c23584631]: Marginal citation: [S.S.I. 2015/395](https://www.legislation.gov.uk/ssi/2015/395), amended by [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68), [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
-[^key-889e2e85027141a5cdd5f2b6152cc0fe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2019/59/regulation/8) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
+[^c-889e2e85027141a5cdd5f2b6152cc0fe]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2019/59/regulation/8) in force at 28.3.2019, see [reg. 1(1)(a)](https://www.legislation.gov.uk/ssi/2019/59/regulation/1/1/a)
 
 [^c23584641]: Marginal citation: [S.S.I. 2017/177](https://www.legislation.gov.uk/ssi/2017/177).
 
 [^c23584651]: Marginal citation: UPOV is located at 34, chemin des Colombettes, CH-1211 Genève 20, Switzerland.
 
-[^key-40d1bb898e4822b964f7cdfa0c480f30]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-40d1bb898e4822b964f7cdfa0c480f30]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23584661]: Marginal citation: [S.I. 1993/2008](https://www.legislation.gov.uk/uksi/1993/2008), amended by [S.I. 1996/1452](https://www.legislation.gov.uk/uksi/1996/1452), [S.I](https://www.legislation.gov.uk/uksi/1996/1452/section/I). 1997/616, [S.I. 1999/1863](https://www.legislation.gov.uk/uksi/1999/1863), [S.S.I. 2000/250](https://www.legislation.gov.uk/ssi/2000/250), [S.I](https://www.legislation.gov.uk/ssi/2000/250/section/I). 2001/3510, [S.S.I. 2007/305](https://www.legislation.gov.uk/ssi/2007/305), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.S.I. 2010/425](https://www.legislation.gov.uk/ssi/2010/425), [S.I](https://www.legislation.gov.uk/ssi/2010/425/section/I). 2011/1043, [S.S.I. 2013/326](https://www.legislation.gov.uk/ssi/2013/326) and [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434), and Part 2 of this instrument.
 
 [^c23584671]: Marginal citation: That definition was inserted by [S.S.I. 2010/425](https://www.legislation.gov.uk/ssi/2010/425).
 
-[^key-6aef71849d106122a77a0d83f6bbd049]: Textual amendment: Reg. 9(2)(a)(ia) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/i)
+[^c-6aef71849d106122a77a0d83f6bbd049]: Textual amendment: Reg. 9(2)(a)(ia) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/i)
 
-[^key-37e43d8b9aa04edd7683175a14c2e9c8]: Textual amendment: Reg. 9(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/ii)
+[^c-37e43d8b9aa04edd7683175a14c2e9c8]: Textual amendment: Reg. 9(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/ii)
 
-[^key-7f949a21bc5e81a14137a4d41ac2faef]: Textual amendment: Reg. 9(2)(a)(iia)(iib) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/iii)
+[^c-7f949a21bc5e81a14137a4d41ac2faef]: Textual amendment: Reg. 9(2)(a)(iia)(iib) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/iii)
 
 [^c23584681]: Marginal citation: That definition was inserted by [S.S.I. 2010/425](https://www.legislation.gov.uk/ssi/2010/425).
 
-[^key-baac66cb0f1dcfb800cf9fd811ba996e]: Textual amendment: Words in reg. 9(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(iv)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/iv/aa)
+[^c-baac66cb0f1dcfb800cf9fd811ba996e]: Textual amendment: Words in reg. 9(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(iv)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/iv/aa)
 
-[^key-0f4a1ed99ee0438e8a7ff016cbc057e2]: Textual amendment: Words in reg. 9(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(iv)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/iv/bb)
+[^c-0f4a1ed99ee0438e8a7ff016cbc057e2]: Textual amendment: Words in reg. 9(2)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(iv)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/iv/bb)
 
-[^key-70e50e952dcf756d70ec1a100e84c80a]: Textual amendment: Reg. 9(2)(a)(iiia) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(v)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/v)
+[^c-70e50e952dcf756d70ec1a100e84c80a]: Textual amendment: Reg. 9(2)(a)(iiia) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(v)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/v)
 
-[^key-1d398ec9769d1b8a41a76a2b3644f45d]: Textual amendment: Reg. 9(2)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/vi)
+[^c-1d398ec9769d1b8a41a76a2b3644f45d]: Textual amendment: Reg. 9(2)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/vi)
 
 [^c23584711]: Marginal citation: [S.S.I. 2002/541](https://www.legislation.gov.uk/ssi/2002/541), amended by [S.S.I. 2004/439](https://www.legislation.gov.uk/ssi/2004/439), [S.I](https://www.legislation.gov.uk/ssi/2004/439/section/I). 2005/2759, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100), [S.S.I. 2019/57](https://www.legislation.gov.uk/ssi/2019/57) and [S.S.I. 2019/86](https://www.legislation.gov.uk/ssi/2019/86).
 
@@ -3203,141 +3203,141 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23584741]: Marginal citation: S.R. [2003 No. 167](https://www.legislation.gov.uk/ukcm/2003/167) as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.R. 2018 No. 188](https://www.legislation.gov.uk/nisr/2018/188), [S.I. 2019/190](https://www.legislation.gov.uk/uksi/2019/190), [S.R. 2019 No. 223](https://www.legislation.gov.uk/nisr/2019/223) and [S.I. 2019/759](https://www.legislation.gov.uk/uksi/2019/759).
 
-[^key-ff20581e9dafc86f4bac5bdb6764d16c]: Textual amendment: Reg. 9(2)(a)(v) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/vii)
+[^c-ff20581e9dafc86f4bac5bdb6764d16c]: Textual amendment: Reg. 9(2)(a)(v) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/vii)
 
-[^key-691ad00e5f2924ea120992614f6d51a3]: Textual amendment: Reg. 9(2)(a)(vi)(vib) substituted for reg. 9(2)(a)(vi) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(viii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/viii)
+[^c-691ad00e5f2924ea120992614f6d51a3]: Textual amendment: Reg. 9(2)(a)(vi)(vib) substituted for reg. 9(2)(a)(vi) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(viii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/viii)
 
-[^key-5a46c1d9762ae4bd7beed9d60fe80583]: Textual amendment: Reg. 9(2)(a)(vii)(viia) substituted for reg. 9(2)(a)(vii) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/ix)
+[^c-5a46c1d9762ae4bd7beed9d60fe80583]: Textual amendment: Reg. 9(2)(a)(vii)(viia) substituted for reg. 9(2)(a)(vii) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(ix)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/ix)
 
-[^key-936bb9753705c72639f871db78016be8]: Textual amendment: Reg. 9(2)(a)(viii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(x)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/x)
+[^c-936bb9753705c72639f871db78016be8]: Textual amendment: Reg. 9(2)(a)(viii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(x)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/x)
 
-[^key-34a51c111b44e241f40b000ba0145215]: Textual amendment: Reg. 9(2)(a)(ix)(x) substituted for reg. 9(2)(a)(ix) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(xi)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/xi)
+[^c-34a51c111b44e241f40b000ba0145215]: Textual amendment: Reg. 9(2)(a)(ix)(x) substituted for reg. 9(2)(a)(ix) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(a)(xi)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/a/xi)
 
-[^key-f305a76dba75e832ef39389adb3e54ef]: Textual amendment: Reg. 9(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/b)
+[^c-f305a76dba75e832ef39389adb3e54ef]: Textual amendment: Reg. 9(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/2/b)
 
 [^c23584771]: Marginal citation: Regulation 4(2) is substituted by Part 2 of this instrument.
 
-[^key-506f8b195f5bff150ddcca987cf1b825]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(3)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/3)
+[^c-506f8b195f5bff150ddcca987cf1b825]: Textual amendment: Words in reg. 9(3) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(3)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/3)
 
 [^c23584781]: Marginal citation: Regulation 5 is amended by Part 2 of this instrument.
 
-[^key-0445da3ecac2d93935999c4d677a4d7c]: Textual amendment: Reg. 9(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/a)
+[^c-0445da3ecac2d93935999c4d677a4d7c]: Textual amendment: Reg. 9(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/a)
 
 [^c23584811]: Marginal citation: Paragraphs (2D) and (2E) were inserted by [S.S.I. 2000/250](https://www.legislation.gov.uk/ssi/2000/250).
 
-[^key-f0eb3d049066d6c92bdb8822fb8c0b89]: Textual amendment: Words in reg. 9(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/b)
+[^c-f0eb3d049066d6c92bdb8822fb8c0b89]: Textual amendment: Words in reg. 9(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/b)
 
-[^key-9226f752143d713d30836a8daae294fe]: Textual amendment: Reg. 9(4)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/c)
+[^c-9226f752143d713d30836a8daae294fe]: Textual amendment: Reg. 9(4)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/c)
 
-[^key-1640049625c853400a986d8575d0d455]: Textual amendment: Reg. 9(4)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/d)
+[^c-1640049625c853400a986d8575d0d455]: Textual amendment: Reg. 9(4)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/d)
 
 [^c23584841]: Marginal citation: Paragraph (9B) was inserted by [S.S.I. 2000/250](https://www.legislation.gov.uk/ssi/2000/250).
 
-[^key-b1d978c53d50bdaf1641f0098f2fb18c]: Textual amendment: Reg. 9(4)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/e)
+[^c-b1d978c53d50bdaf1641f0098f2fb18c]: Textual amendment: Reg. 9(4)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/e)
 
-[^key-2afbaf332dae80a61c4e3ab3d01cc68a]: Textual amendment: Reg. 9(4)(j) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/f)
+[^c-2afbaf332dae80a61c4e3ab3d01cc68a]: Textual amendment: Reg. 9(4)(j) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(4)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/4/f)
 
 [^c23584851]: Marginal citation: Regulation 5A was inserted by [S.S.I. 2010/425](https://www.legislation.gov.uk/ssi/2010/425).
 
-[^key-0ae685067d679d27a422dde1f22b3673]: Textual amendment: Reg. 9(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/5)
+[^c-0ae685067d679d27a422dde1f22b3673]: Textual amendment: Reg. 9(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/5)
 
-[^key-a8a8043d91e0b18475415f59d8da8194]: Textual amendment: Reg. 9(7) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(6)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/6)
+[^c-a8a8043d91e0b18475415f59d8da8194]: Textual amendment: Reg. 9(7) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(6)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/6)
 
-[^key-1c860552fa13c6ded3d96c8ce7385dc4]: Textual amendment: Words in reg. 9(8)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(7)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/7)
+[^c-1c860552fa13c6ded3d96c8ce7385dc4]: Textual amendment: Words in reg. 9(8)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(7)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/7)
 
 [^c23584881]: Marginal citation: Regulation 9A was inserted by [S.I. 1999/1863](https://www.legislation.gov.uk/uksi/1999/1863).
 
-[^key-8c6403765692ddfa41b3c0727c8402f3]: Textual amendment: Words in reg. 9(9) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(8)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/8)
+[^c-8c6403765692ddfa41b3c0727c8402f3]: Textual amendment: Words in reg. 9(9) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(8)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/8)
 
-[^key-199e9b2fe40c55b850bc7f48289ba9eb]: Textual amendment: Words in reg. 9(10) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(9)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/9/a)
+[^c-199e9b2fe40c55b850bc7f48289ba9eb]: Textual amendment: Words in reg. 9(10) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(9)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/9/a)
 
-[^key-8afbee4e7c692a261d517e3a111bbd81]: Textual amendment: Words in reg. 9(10) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(9)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/9/b/i)
+[^c-8afbee4e7c692a261d517e3a111bbd81]: Textual amendment: Words in reg. 9(10) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(9)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/9/b/i)
 
-[^key-a50b87a1b577bec5c097c5aeac819ae5]: Textual amendment: Words in reg. 9(10) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/9/b/ii)
+[^c-a50b87a1b577bec5c097c5aeac819ae5]: Textual amendment: Words in reg. 9(10) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(9)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/9/b/ii)
 
-[^key-fa39df6416479410b745c2e36ad7c2dc]: Textual amendment: Reg. 9(11) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(10)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/10)
+[^c-fa39df6416479410b745c2e36ad7c2dc]: Textual amendment: Reg. 9(11) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(10)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/10)
 
 [^c23584901]: Marginal citation: Schedule 6 is amended by Part 2 of this instrument.
 
-[^key-c8f9e08c7acdae96d791dac3e5b8f842]: Textual amendment: Word in reg. 9(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/a/i)
+[^c-c8f9e08c7acdae96d791dac3e5b8f842]: Textual amendment: Word in reg. 9(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/a/i)
 
-[^key-ceda2b427094607e1af5e4433cef3e80]: Textual amendment: Reg. 9(12)(b)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/a/ii)
+[^c-ceda2b427094607e1af5e4433cef3e80]: Textual amendment: Reg. 9(12)(b)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/a/ii)
 
-[^key-e890026b947c01009e4ad23966054494]: Textual amendment: Reg. 9(12)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/b)
+[^c-e890026b947c01009e4ad23966054494]: Textual amendment: Reg. 9(12)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/b)
 
-[^key-35ec298783bfba345850878684ef643b]: Textual amendment: Word in reg. 9(12)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
+[^c-35ec298783bfba345850878684ef643b]: Textual amendment: Word in reg. 9(12)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
 
-[^key-d218eaa959a4c90cdc61be052160e4e5]: Textual amendment: Word in reg. 9(12)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
+[^c-d218eaa959a4c90cdc61be052160e4e5]: Textual amendment: Word in reg. 9(12)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
 
-[^key-9a8a005e6d1d0bcb7500e88f9396ac2d]: Textual amendment: Word in reg. 9(12)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
+[^c-9a8a005e6d1d0bcb7500e88f9396ac2d]: Textual amendment: Word in reg. 9(12)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
 
-[^key-407580c207a402f066c14a81069ccc3f]: Textual amendment: Reg. 9(12)(ea) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/d)
+[^c-407580c207a402f066c14a81069ccc3f]: Textual amendment: Reg. 9(12)(ea) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/d)
 
 [^c23584911]: Marginal citation: Part VI was inserted by [S.S.I. 2010/425](https://www.legislation.gov.uk/ssi/2010/425).
 
-[^key-ff739c852bc613fccacb22e87375f64d]: Textual amendment: Word in reg. 9(12)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
+[^c-ff739c852bc613fccacb22e87375f64d]: Textual amendment: Word in reg. 9(12)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
 
 [^c23584921]: Marginal citation: Part VII was inserted by [S.S.I. 2010/425](https://www.legislation.gov.uk/ssi/2010/425).
 
-[^key-cda95836ca687295b522b68eac359654]: Textual amendment: Word in reg. 9(12)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
+[^c-cda95836ca687295b522b68eac359654]: Textual amendment: Word in reg. 9(12)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [10(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/10/11/c)
 
-[^key-f6fd1e4478d5e9692ac4f5cbd276e5dc]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-f6fd1e4478d5e9692ac4f5cbd276e5dc]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23584931]: Marginal citation: [S.I. 1995/2652](https://www.legislation.gov.uk/uksi/1995/2652), as relevantly amended by [S.S.I. 2007/133](https://www.legislation.gov.uk/ssi/2007/133), [S.I](https://www.legislation.gov.uk/ssi/2007/133/section/I). 2011/1043, [S.S.I. 2014/111](https://www.legislation.gov.uk/ssi/2014/111) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
-[^key-fc5551b3e83bac9bcdaed6d3d649fd59]: Textual amendment: Reg. 10(2A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [11(2)](https://www.legislation.gov.uk/ssi/2020/445/regulation/11/2)
+[^c-fc5551b3e83bac9bcdaed6d3d649fd59]: Textual amendment: Reg. 10(2A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [11(2)](https://www.legislation.gov.uk/ssi/2020/445/regulation/11/2)
 
-[^key-c333f1e0abbc8495561100fc71e0473e]: Textual amendment: Reg. 10(3) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [11(3)](https://www.legislation.gov.uk/ssi/2020/445/regulation/11/3)
+[^c-c333f1e0abbc8495561100fc71e0473e]: Textual amendment: Reg. 10(3) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [11(3)](https://www.legislation.gov.uk/ssi/2020/445/regulation/11/3)
 
-[^key-9285760f0f6009b2f150b9cb2c85b3e8]: Textual amendment: Reg. 10(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [11(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/11/4)
+[^c-9285760f0f6009b2f150b9cb2c85b3e8]: Textual amendment: Reg. 10(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [11(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/11/4)
 
-[^key-cab6bd372341d44598a7e4ebcf519e55]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-cab6bd372341d44598a7e4ebcf519e55]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23584961]: Marginal citation: [S.I. 1999/1801](https://www.legislation.gov.uk/uksi/1999/1801), as relevantly amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [S.S.I. 2018/284](https://www.legislation.gov.uk/ssi/2018/284).
 
-[^key-62aa04b8cd09d7ada8e73cc42a72a917]: Textual amendment: Words in reg. 11(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(2)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/2)
+[^c-62aa04b8cd09d7ada8e73cc42a72a917]: Textual amendment: Words in reg. 11(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(2)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/2)
 
-[^key-637ee5158bb1e2eb3261eaf2d9dd847d]: Textual amendment: Reg. 11(3A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(3)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/3)
+[^c-637ee5158bb1e2eb3261eaf2d9dd847d]: Textual amendment: Reg. 11(3A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(3)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/3)
 
-[^key-6d2f700e88f2b690aa8206e3d115ca90]: Textual amendment: Reg. 11(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/4)
+[^c-6d2f700e88f2b690aa8206e3d115ca90]: Textual amendment: Reg. 11(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/4)
 
-[^key-04f44308a800d0fbad8f81f18ca402c2]: Textual amendment: Reg. 11(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/4)
+[^c-04f44308a800d0fbad8f81f18ca402c2]: Textual amendment: Reg. 11(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/4)
 
-[^key-dbc1e7476c050484c6e1f28bf0814dcf]: Textual amendment: Reg. 11(6)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/5)
+[^c-dbc1e7476c050484c6e1f28bf0814dcf]: Textual amendment: Reg. 11(6)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/5)
 
 [^c23585001]: Marginal citation: [1997 c.66](https://www.legislation.gov.uk/ukpga/1997/66).
 
-[^key-efc8a4f488e0e2c120689fd2bf873108]: Textual amendment: Words in reg. 11(7)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/6/a)
+[^c-efc8a4f488e0e2c120689fd2bf873108]: Textual amendment: Words in reg. 11(7)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/6/a)
 
-[^key-08a6bf06d125de8da72b4894d16d80df]: Textual amendment: Words in reg. 11(7)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/6/b)
+[^c-08a6bf06d125de8da72b4894d16d80df]: Textual amendment: Words in reg. 11(7)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [12(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/12/6/b)
 
-[^key-ec5705b42bfbedbb84e8f2e86ff45aba]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-ec5705b42bfbedbb84e8f2e86ff45aba]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23585011]: Marginal citation: [S.S.I. 2004/317](https://www.legislation.gov.uk/ssi/2004/317), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.I](https://www.legislation.gov.uk/ssi/2010/219/section/I). 2011/1043, [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68), [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434) and Part 2 of this instrument.
 
-[^key-e9a70d04d5b9d72e639e01d182bb53f2]: Textual amendment: Reg. 12(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/a)
+[^c-e9a70d04d5b9d72e639e01d182bb53f2]: Textual amendment: Reg. 12(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/a)
 
-[^key-a283cd3def81d76af27000d5f10cec94]: Textual amendment: Reg. 12(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/b)
+[^c-a283cd3def81d76af27000d5f10cec94]: Textual amendment: Reg. 12(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/b)
 
-[^key-246b6f413c8f890673feb130752e707c]: Textual amendment: Reg. 12(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/c)
+[^c-246b6f413c8f890673feb130752e707c]: Textual amendment: Reg. 12(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/c)
 
-[^key-fa73198499fbb7d51d7644317c0615fd]: Textual amendment: Reg. 12(2)(e)(ea) substituted for reg. 12(2)(e) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/d)
+[^c-fa73198499fbb7d51d7644317c0615fd]: Textual amendment: Reg. 12(2)(e)(ea) substituted for reg. 12(2)(e) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/d)
 
-[^key-7543cff7dbd02ed6787c116c06315da9]: Textual amendment: Reg. 12(2)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/e)
+[^c-7543cff7dbd02ed6787c116c06315da9]: Textual amendment: Reg. 12(2)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/e)
 
-[^key-25848035cd9098fa154e99844c71d7e1]: Textual amendment: Words in reg. 12(2)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/f)
+[^c-25848035cd9098fa154e99844c71d7e1]: Textual amendment: Words in reg. 12(2)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/f)
 
-[^key-9c9449e74ea86ee4e860488964919433]: Textual amendment: Reg. 12(2)(ga) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/g)
+[^c-9c9449e74ea86ee4e860488964919433]: Textual amendment: Reg. 12(2)(ga) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/g)
 
-[^key-1e2e5e63f25ff23d68ec1fc7918a46d7]: Textual amendment: Reg. 12(2)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/h)
+[^c-1e2e5e63f25ff23d68ec1fc7918a46d7]: Textual amendment: Reg. 12(2)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/h)
 
-[^key-cec9ecb2a0af7d1ef18247b05d246eb4]: Textual amendment: Reg. 12(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/i)
+[^c-cec9ecb2a0af7d1ef18247b05d246eb4]: Textual amendment: Reg. 12(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/i)
 
-[^key-3103730ba9352bc1eef89816fe95484a]: Textual amendment: Reg. 12(2)(j) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(j)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/j)
+[^c-3103730ba9352bc1eef89816fe95484a]: Textual amendment: Reg. 12(2)(j) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(j)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/j)
 
-[^key-0bb659dcd63f5268c0cf9ccc26a9e5e1]: Textual amendment: Reg. 12(2)(k) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(k)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/k)
+[^c-0bb659dcd63f5268c0cf9ccc26a9e5e1]: Textual amendment: Reg. 12(2)(k) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(k)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/k)
 
-[^key-8a9b455477eb4304509d8241539c130a]: Textual amendment: Reg. 12(2)(l)-(lb) substituted for reg. 12(2)(l) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(l)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/l)
+[^c-8a9b455477eb4304509d8241539c130a]: Textual amendment: Reg. 12(2)(l)-(lb) substituted for reg. 12(2)(l) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(l)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/l)
 
 [^c23585031]: Marginal citation: [S.S.I. 2002/541](https://www.legislation.gov.uk/ssi/2002/541), as amended by [S.S.I. 2004/439](https://www.legislation.gov.uk/ssi/2004/439), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100), [S.S.I. 2019/57](https://www.legislation.gov.uk/ssi/2019/57) and [S.S.I. 2019/86](https://www.legislation.gov.uk/ssi/2019/86).
 
@@ -3347,157 +3347,157 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23585061]: Marginal citation: [S.R. 2003 No. 167](https://www.legislation.gov.uk/nisr/2003/167) as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.R. 2018 No. 188](https://www.legislation.gov.uk/nisr/2018/188), [S.I. 2019/190](https://www.legislation.gov.uk/uksi/2019/190), [S.R. 2019 No. 223](https://www.legislation.gov.uk/nisr/2019/223) and [S.I. 2019/759](https://www.legislation.gov.uk/uksi/2019/759).
 
-[^key-cc8741c461bdf9f334db366a6d589619]: Textual amendment: Reg. 12(2)(m)-(y) substituted for reg. 12(2)(m) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(m)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/m)
+[^c-cc8741c461bdf9f334db366a6d589619]: Textual amendment: Reg. 12(2)(m)-(y) substituted for reg. 12(2)(m) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(2)(m)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/2/m)
 
-[^key-6dfbc36b507b49a81615a7f2f74c7c38]: Textual amendment: Reg. 12(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/a)
+[^c-6dfbc36b507b49a81615a7f2f74c7c38]: Textual amendment: Reg. 12(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/a)
 
-[^key-31f6a86487da2870af4425120e89cbab]: Textual amendment: Reg. 12(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/b)
+[^c-31f6a86487da2870af4425120e89cbab]: Textual amendment: Reg. 12(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/b)
 
-[^key-0ec471f3ee50334c83025dfdf6827220]: Textual amendment: Reg. 12(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/c)
+[^c-0ec471f3ee50334c83025dfdf6827220]: Textual amendment: Reg. 12(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/c)
 
-[^key-374e4b27337a9704fb5926ae5d5461c6]: Textual amendment: Reg. 12(3)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/d)
+[^c-374e4b27337a9704fb5926ae5d5461c6]: Textual amendment: Reg. 12(3)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/d)
 
-[^key-c8bcf2ef30694cf5e70b2cb52fd4bf86]: Textual amendment: Reg. 12(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/e)
+[^c-c8bcf2ef30694cf5e70b2cb52fd4bf86]: Textual amendment: Reg. 12(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/e)
 
-[^key-701ad6a59bfd21ee9a7d6fe7a39e0137]: Textual amendment: Reg. 12(3)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/f)
+[^c-701ad6a59bfd21ee9a7d6fe7a39e0137]: Textual amendment: Reg. 12(3)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/f)
 
-[^key-5f127214dd92e09b54cd2b01d19c2eb0]: Textual amendment: Reg. 12(3)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/g)
+[^c-5f127214dd92e09b54cd2b01d19c2eb0]: Textual amendment: Reg. 12(3)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(3)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/3/g)
 
 [^c23585071]: Marginal citation: Regulation 5(2) is amended, and regulation 13A is inserted, by Part 2 of this instrument.
 
-[^key-1985f3d7e23bac1bd112025679810aa4]: Textual amendment: Reg. 12(5)(a)-(ab) substituted for reg. 12(5)(a) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(4)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/4/a)
+[^c-1985f3d7e23bac1bd112025679810aa4]: Textual amendment: Reg. 12(5)(a)-(ab) substituted for reg. 12(5)(a) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(4)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/4/a)
 
-[^key-174c9962b0f8cd39811ecde15e091b10]: Textual amendment: Reg. 12(5)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(4)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/4/b)
+[^c-174c9962b0f8cd39811ecde15e091b10]: Textual amendment: Reg. 12(5)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(4)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/4/b)
 
-[^key-869312baa9ed86c422eec3ad2c4c86b1]: Textual amendment: Reg. 12(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/5)
+[^c-869312baa9ed86c422eec3ad2c4c86b1]: Textual amendment: Reg. 12(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/5)
 
-[^key-8acfac6bb72818533150803912029eb8]: Textual amendment: Words in reg. 12(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/6/a)
+[^c-8acfac6bb72818533150803912029eb8]: Textual amendment: Words in reg. 12(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/6/a)
 
-[^key-db174ae7a39bc3d275b80c2db2941c9b]: Textual amendment: Words in reg. 12(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/6/b)
+[^c-db174ae7a39bc3d275b80c2db2941c9b]: Textual amendment: Words in reg. 12(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/6/b)
 
 [^c23585091]: Marginal citation: Regulation 8A was inserted by [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224).
 
-[^key-949eefa2f439fa2eed5222d5e5034e18]: Textual amendment: Words in reg. 12(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(7)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/7/a)
+[^c-949eefa2f439fa2eed5222d5e5034e18]: Textual amendment: Words in reg. 12(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(7)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/7/a)
 
-[^key-892ed7f812c2db845c4c2d47df118534]: Textual amendment: Reg. 12(8)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(7)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/7/b)
+[^c-892ed7f812c2db845c4c2d47df118534]: Textual amendment: Reg. 12(8)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(7)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/7/b)
 
-[^key-f609f9a3106eb4e0c899e552277c8bc8]: Textual amendment: Reg. 12(8)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(7)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/7/c)
+[^c-f609f9a3106eb4e0c899e552277c8bc8]: Textual amendment: Reg. 12(8)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(7)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/7/c)
 
-[^key-b98ac31e4406ce6b2e07d862032de50d]: Textual amendment: Reg. 12(8)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(7)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/7/d)
+[^c-b98ac31e4406ce6b2e07d862032de50d]: Textual amendment: Reg. 12(8)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(7)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/7/d)
 
 [^c23585111]: Marginal citation: Regulation 8B was inserted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223).
 
-[^key-e955ed7e52d5b848a0679f54b1f1aeae]: Textual amendment: Words in reg. 12(9)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(8)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/8/a)
+[^c-e955ed7e52d5b848a0679f54b1f1aeae]: Textual amendment: Words in reg. 12(9)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(8)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/8/a)
 
-[^key-b884eb9cd4e668c2f7b62a729f1c5717]: Textual amendment: Reg. 12(9)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(8)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/8/b)
+[^c-b884eb9cd4e668c2f7b62a729f1c5717]: Textual amendment: Reg. 12(9)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(8)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/8/b)
 
-[^key-bc0de3b89b37a4d0aacda35583e9bd03]: Textual amendment: Words in reg. 12(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(9)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/9/a)
+[^c-bc0de3b89b37a4d0aacda35583e9bd03]: Textual amendment: Words in reg. 12(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(9)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/9/a)
 
-[^key-86799c164de372a315f198b8c3677532]: Textual amendment: Reg. 12(10)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(9)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/9/b)
+[^c-86799c164de372a315f198b8c3677532]: Textual amendment: Reg. 12(10)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(9)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/9/b)
 
-[^key-d16f54fddf4ac9daffc378cb42c03c34]: Textual amendment: Words in reg. 12(11) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(10)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/10)
+[^c-d16f54fddf4ac9daffc378cb42c03c34]: Textual amendment: Words in reg. 12(11) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(10)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/10)
 
-[^key-e16cf0d7926625e8c0f47b52d4865b36]: Textual amendment: Words in reg. 12(12)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(11)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/11/a/i)
+[^c-e16cf0d7926625e8c0f47b52d4865b36]: Textual amendment: Words in reg. 12(12)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(11)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/11/a/i)
 
-[^key-88b493716a63a9f0a9bd963a943e6607]: Textual amendment: Words in reg. 12(12)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/11/a/ii)
+[^c-88b493716a63a9f0a9bd963a943e6607]: Textual amendment: Words in reg. 12(12)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(11)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/11/a/ii)
 
-[^key-89197e60ad934df8d17d02547f4412c0]: Textual amendment: Reg. 12(12)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(11)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/11/b)
+[^c-89197e60ad934df8d17d02547f4412c0]: Textual amendment: Reg. 12(12)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(11)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/11/b)
 
-[^key-70493146aef4a2392fab75bc01c0407d]: Textual amendment: Reg. 12(13)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(12)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/12/a)
+[^c-70493146aef4a2392fab75bc01c0407d]: Textual amendment: Reg. 12(13)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(12)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/12/a)
 
-[^key-54404d821caea30d22581964dc2b5db6]: Textual amendment: Reg. 12(13)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(12)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/12/b)
+[^c-54404d821caea30d22581964dc2b5db6]: Textual amendment: Reg. 12(13)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(12)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/12/b)
 
-[^key-5a214756148718979d281f1ca0db1b11]: Textual amendment: Reg. 12(13)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(12)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/12/c)
+[^c-5a214756148718979d281f1ca0db1b11]: Textual amendment: Reg. 12(13)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(12)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/12/c)
 
-[^key-dbd04fe1b49b34d2acc3f542341478c4]: Textual amendment: Reg. 12(14)(a)(b) substituted for reg. 12(14)(a)-(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(13)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/13)
+[^c-dbd04fe1b49b34d2acc3f542341478c4]: Textual amendment: Reg. 12(14)(a)(b) substituted for reg. 12(14)(a)-(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(13)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/13)
 
-[^key-2ef9fef0eda603e8e4ee6d7f8762cd44]: Textual amendment: Word in reg. 12(15) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(14)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/14)
+[^c-2ef9fef0eda603e8e4ee6d7f8762cd44]: Textual amendment: Word in reg. 12(15) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(14)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/14)
 
-[^key-62d9eaabee851c3ab153c90ee66ab83c]: Textual amendment: Reg. 12(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(15)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/15/a)
+[^c-62d9eaabee851c3ab153c90ee66ab83c]: Textual amendment: Reg. 12(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(15)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/15/a)
 
-[^key-0ecc9adfb5461e6eabb33eb0d6f5b410]: Textual amendment: Reg. 12(16)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(15)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/15/b)
+[^c-0ecc9adfb5461e6eabb33eb0d6f5b410]: Textual amendment: Reg. 12(16)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(15)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/15/b)
 
-[^key-4b63b0eb8cfa58b14af2d5783895120d]: Textual amendment: Reg. 12(17)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(16)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/16/a)
+[^c-4b63b0eb8cfa58b14af2d5783895120d]: Textual amendment: Reg. 12(17)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(16)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/16/a)
 
-[^key-05849e6f09d4e76df3331426f4abed35]: Textual amendment: Reg. 12(17)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(16)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/16/b)
+[^c-05849e6f09d4e76df3331426f4abed35]: Textual amendment: Reg. 12(17)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(16)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/16/b)
 
-[^key-d33b1684a515f2ad2826bd5a83f22f94]: Textual amendment: Reg. 12(17)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(16)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/16/c)
+[^c-d33b1684a515f2ad2826bd5a83f22f94]: Textual amendment: Reg. 12(17)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(16)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/16/c)
 
-[^key-df446533c549b2f829c095ffef5b0aef]: Textual amendment: Reg. 12(17)(d)(e) substituted for reg. 12(17)(d) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(16)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/16/d)
+[^c-df446533c549b2f829c095ffef5b0aef]: Textual amendment: Reg. 12(17)(d)(e) substituted for reg. 12(17)(d) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(16)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/16/d)
 
-[^key-53660be9a5b9431b9da282690473bf95]: Textual amendment: Reg. 12(18) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(17)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/17)
+[^c-53660be9a5b9431b9da282690473bf95]: Textual amendment: Reg. 12(18) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(17)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/17)
 
-[^key-8cd92f3f29319afe7a5aeb34af3e23c3]: Textual amendment: Words in reg. 12(21) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(18)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/18/a)
+[^c-8cd92f3f29319afe7a5aeb34af3e23c3]: Textual amendment: Words in reg. 12(21) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(18)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/18/a)
 
-[^key-f56f1762fbd9b763a2bcfdc7afb8f533]: Textual amendment: Words in reg. 12(21) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(18)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/18/b/i)
+[^c-f56f1762fbd9b763a2bcfdc7afb8f533]: Textual amendment: Words in reg. 12(21) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(18)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/18/b/i)
 
-[^key-e47c30f19681a67b61f08729e8f62634]: Textual amendment: Words in reg. 12(21) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(18)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/18/b/ii)
+[^c-e47c30f19681a67b61f08729e8f62634]: Textual amendment: Words in reg. 12(21) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(18)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/18/b/ii)
 
-[^key-500d6ad0025c8c8318e4e63a602e3a90]: Textual amendment: Reg. 12(22)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(19)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/19/a)
+[^c-500d6ad0025c8c8318e4e63a602e3a90]: Textual amendment: Reg. 12(22)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(19)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/19/a)
 
-[^key-edca3afa3d7c40be8df675e49449b984]: Textual amendment: Reg. 12(23) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20)
+[^c-edca3afa3d7c40be8df675e49449b984]: Textual amendment: Reg. 12(23) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/20)
 
 [^c23585131]: Marginal citation: Schedule 4A was inserted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223).
 
-[^key-0597fc761ee0935e413e3981e624c38d]: Textual amendment: Reg. 12(24)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(21)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/21)
+[^c-0597fc761ee0935e413e3981e624c38d]: Textual amendment: Reg. 12(24)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(21)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/21)
 
-[^key-550e141e0cfb6573a6b4fd49b58b9748]: Textual amendment: Word in reg. 12(25)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/a/i/aa)
+[^c-550e141e0cfb6573a6b4fd49b58b9748]: Textual amendment: Word in reg. 12(25)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/a/i/aa)
 
-[^key-eae31564ce225255c359855673370546]: Textual amendment: Word in reg. 12(25)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/a/i/bb)
+[^c-eae31564ce225255c359855673370546]: Textual amendment: Word in reg. 12(25)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/a/i/bb)
 
-[^key-3db814c050f47982adf0eee21a18a5a1]: Textual amendment: Word in reg. 12(25)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/a/ii)
+[^c-3db814c050f47982adf0eee21a18a5a1]: Textual amendment: Word in reg. 12(25)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/a/ii)
 
-[^key-691eb19a40e5eec67880c53e68459ffa]: Textual amendment: Reg. 12(25)(b)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/a/iii)
+[^c-691eb19a40e5eec67880c53e68459ffa]: Textual amendment: Reg. 12(25)(b)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/a/iii)
 
-[^key-4c4cf89b73e727d5afb62f56dcd51bd5]: Textual amendment: Word in reg. 12(25)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/b)
+[^c-4c4cf89b73e727d5afb62f56dcd51bd5]: Textual amendment: Word in reg. 12(25)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/b)
 
-[^key-85e87540614e9401e7801d42d1a0014a]: Textual amendment: Reg. 12(25)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/c)
+[^c-85e87540614e9401e7801d42d1a0014a]: Textual amendment: Reg. 12(25)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/c)
 
-[^key-8ecf9f7f41b6c22b07bbc9707c16b316]: Textual amendment: Reg. 12(25)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/d)
+[^c-8ecf9f7f41b6c22b07bbc9707c16b316]: Textual amendment: Reg. 12(25)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/d)
 
-[^key-0c1252a02c9463a9235fe44c868c6818]: Textual amendment: Word in reg. 12(25)(f)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(e)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/e/i/aa)
+[^c-0c1252a02c9463a9235fe44c868c6818]: Textual amendment: Word in reg. 12(25)(f)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(e)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/e/i/aa)
 
-[^key-e6ec60f7d3490b905c3a8e73ecc4fc79]: Textual amendment: Word in reg. 12(25)(f)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(e)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/e/i/bb)
+[^c-e6ec60f7d3490b905c3a8e73ecc4fc79]: Textual amendment: Word in reg. 12(25)(f)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(e)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/e/i/bb)
 
-[^key-465f4cf68ace809e28d2f32fe919a7a8]: Textual amendment: Word in reg. 12(25)(f)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(e)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/e/ii)
+[^c-465f4cf68ace809e28d2f32fe919a7a8]: Textual amendment: Word in reg. 12(25)(f)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(e)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/e/ii)
 
-[^key-ce10d692e04f5a626e4c488bedb3a359]: Textual amendment: Reg. 12(25)(f)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(e)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/e/iii)
+[^c-ce10d692e04f5a626e4c488bedb3a359]: Textual amendment: Reg. 12(25)(f)(iii) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(e)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/e/iii)
 
-[^key-ed2ef5022107a47763601b2ad42b457f]: Textual amendment: Word in reg. 12(25)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/f)
+[^c-ed2ef5022107a47763601b2ad42b457f]: Textual amendment: Word in reg. 12(25)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/f)
 
-[^key-61bc0a2470978f4fa05e38e871f96088]: Textual amendment: Reg. 12(25)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/g)
+[^c-61bc0a2470978f4fa05e38e871f96088]: Textual amendment: Reg. 12(25)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/g)
 
-[^key-23b3ed46ee94be8b5c3fa07d0c293a59]: Textual amendment: Reg. 12(25)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/h)
+[^c-23b3ed46ee94be8b5c3fa07d0c293a59]: Textual amendment: Reg. 12(25)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [13(22)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/13/22/h)
 
-[^key-30a2a1b20d345c26a1523e15859f7f3b]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-30a2a1b20d345c26a1523e15859f7f3b]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23585171]: Marginal citation: [S.S.I. 2005/328](https://www.legislation.gov.uk/ssi/2005/328), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2006/448](https://www.legislation.gov.uk/ssi/2006/448), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.I](https://www.legislation.gov.uk/ssi/2010/219/section/I). 2011/1043, [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68), [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434) and Part 2 of this instrument.
 
-[^key-e79232262d7b091ede9a657761c1c7ed]: Textual amendment: Reg. 13(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/a)
+[^c-e79232262d7b091ede9a657761c1c7ed]: Textual amendment: Reg. 13(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/a)
 
-[^key-f8a14543ed6d06c7d63b16de502e07c4]: Textual amendment: Reg. 13(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/b)
+[^c-f8a14543ed6d06c7d63b16de502e07c4]: Textual amendment: Reg. 13(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/b)
 
-[^key-bafd5f991a030a3b2a8d6aa86a094492]: Textual amendment: Reg. 13(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/c)
+[^c-bafd5f991a030a3b2a8d6aa86a094492]: Textual amendment: Reg. 13(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/c)
 
-[^key-76887c7f3de31c519777830c191d5c17]: Textual amendment: Reg. 13(2)(e)(ea) substituted for reg. 13(2)(e) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/d)
+[^c-76887c7f3de31c519777830c191d5c17]: Textual amendment: Reg. 13(2)(e)(ea) substituted for reg. 13(2)(e) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/d)
 
-[^key-1e2dc696dd313f7c377e2bdb64ea65c5]: Textual amendment: Reg. 13(2)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/e)
+[^c-1e2dc696dd313f7c377e2bdb64ea65c5]: Textual amendment: Reg. 13(2)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/e)
 
 [^c23585181]: Marginal citation: The definition was substituted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223).
 
-[^key-502331cdb8170801308bac6de1139436]: Textual amendment: Words in reg. 13(2)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/f)
+[^c-502331cdb8170801308bac6de1139436]: Textual amendment: Words in reg. 13(2)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/f)
 
-[^key-8a60f42cf42299821efb175fa922f7f6]: Textual amendment: Reg. 13(2)(ga) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/g)
+[^c-8a60f42cf42299821efb175fa922f7f6]: Textual amendment: Reg. 13(2)(ga) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/g)
 
-[^key-eb35ea0437a04817576ea6e1d8b78dec]: Textual amendment: Reg. 13(2)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/h)
+[^c-eb35ea0437a04817576ea6e1d8b78dec]: Textual amendment: Reg. 13(2)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/h)
 
-[^key-94cde767e6fdaba23e919d9d6cb327a8]: Textual amendment: Reg. 13(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/i)
+[^c-94cde767e6fdaba23e919d9d6cb327a8]: Textual amendment: Reg. 13(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/i)
 
-[^key-d5070b88346fd735847c5193ede83ae2]: Textual amendment: Reg. 13(2)(j) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(j)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/j)
+[^c-d5070b88346fd735847c5193ede83ae2]: Textual amendment: Reg. 13(2)(j) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(j)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/j)
 
-[^key-c3d880827409d4b3183499de9e3c39a2]: Textual amendment: Reg. 13(2)(k) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(k)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/k)
+[^c-c3d880827409d4b3183499de9e3c39a2]: Textual amendment: Reg. 13(2)(k) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(k)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/k)
 
-[^key-f725c23c6961ba14980e3e58fcf9e180]: Textual amendment: Reg. 13(2)(l)-(lb) substituted for reg. 13(2)(l) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(l)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/l)
+[^c-f725c23c6961ba14980e3e58fcf9e180]: Textual amendment: Reg. 13(2)(l)-(lb) substituted for reg. 13(2)(l) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(l)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/l)
 
 [^c23585201]: Marginal citation: [S.S.I. 2002/541](https://www.legislation.gov.uk/ssi/2002/541), amended by [S.S.I. 2004/439](https://www.legislation.gov.uk/ssi/2004/439), [S.I](https://www.legislation.gov.uk/ssi/2004/439/section/I). 2005/2759, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100) and S.S.I. 2019/XXX.
 
@@ -3507,143 +3507,143 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23585231]: Marginal citation: S.R. [2003 No. 167](https://www.legislation.gov.uk/ukcm/2003/167).
 
-[^key-07d4841feaf489dae33afe3fed36a58b]: Textual amendment: Reg. 13(2)(m)-(y) substituted for reg. 13(2)(m) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(m)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/m)
+[^c-07d4841feaf489dae33afe3fed36a58b]: Textual amendment: Reg. 13(2)(m)-(y) substituted for reg. 13(2)(m) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(2)(m)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/2/m)
 
-[^key-5d03f4cb65bf7cad26bdc9dfd91497c0]: Textual amendment: Reg. 13(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/a)
+[^c-5d03f4cb65bf7cad26bdc9dfd91497c0]: Textual amendment: Reg. 13(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/a)
 
-[^key-85ddb12dc007354356f9bd5b86360c37]: Textual amendment: Reg. 13(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/b)
+[^c-85ddb12dc007354356f9bd5b86360c37]: Textual amendment: Reg. 13(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/b)
 
-[^key-791dbbd04f8f8541f08f484c17a08f99]: Textual amendment: Reg. 13(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/c)
+[^c-791dbbd04f8f8541f08f484c17a08f99]: Textual amendment: Reg. 13(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/c)
 
-[^key-821ffa0774f83785707c2603f7330aa2]: Textual amendment: Reg. 13(3)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/d)
+[^c-821ffa0774f83785707c2603f7330aa2]: Textual amendment: Reg. 13(3)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/d)
 
-[^key-2fe31fdc4e2f3f8a19cdd3afb78c2fd6]: Textual amendment: Reg. 13(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/e)
+[^c-2fe31fdc4e2f3f8a19cdd3afb78c2fd6]: Textual amendment: Reg. 13(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(3)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/3/e)
 
 [^c23585241]: Marginal citation: Regulation 5(2) is amended, and regulation 13A is inserted, by Part 2 of this instrument.
 
-[^key-9b781dba34ba7a6b00a1acc1bb50882f]: Textual amendment: Reg. 13(5)(a)-(ab) substituted for reg. 13(5)(a) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/4)
+[^c-9b781dba34ba7a6b00a1acc1bb50882f]: Textual amendment: Reg. 13(5)(a)-(ab) substituted for reg. 13(5)(a) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/4)
 
-[^key-b6cf300f1bb605a8446bcb0c1fe1479b]: Textual amendment: Reg. 13(5)(c) revoked (31.12.2020 immediately before IP completion day) by [The Seed, Propagating Material and Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/289)](https://www.legislation.gov.uk/ssi/2019/289), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/b), [5](https://www.legislation.gov.uk/ssi/2019/289/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6cf300f1bb605a8446bcb0c1fe1479b]: Textual amendment: Reg. 13(5)(c) revoked (31.12.2020 immediately before IP completion day) by [The Seed, Propagating Material and Common Agricultural Policy (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/289)](https://www.legislation.gov.uk/ssi/2019/289), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2019/289/regulation/1/b), [5](https://www.legislation.gov.uk/ssi/2019/289/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9a4eeb6a64f574d05106b33e547185c]: Textual amendment: Reg. 13(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/5)
+[^c-d9a4eeb6a64f574d05106b33e547185c]: Textual amendment: Reg. 13(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/5)
 
-[^key-d5ad00f33909835cda44798bb0e9728d]: Textual amendment: Words in reg. 13(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/6/a)
+[^c-d5ad00f33909835cda44798bb0e9728d]: Textual amendment: Words in reg. 13(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/6/a)
 
-[^key-575e7d091c52cf23008300dcbf616d5a]: Textual amendment: Words in reg. 13(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/6/b)
+[^c-575e7d091c52cf23008300dcbf616d5a]: Textual amendment: Words in reg. 13(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/6/b)
 
 [^c23585261]: Marginal citation: Regulation 9A was inserted by [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224).
 
-[^key-14d79c298c44faef0b572251f368e5b7]: Textual amendment: Words in reg. 13(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(7)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/7/a)
+[^c-14d79c298c44faef0b572251f368e5b7]: Textual amendment: Words in reg. 13(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(7)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/7/a)
 
-[^key-c5b3eacee19c08955f7d5e2f87a5e569]: Textual amendment: Reg. 13(8)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(7)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/7/b)
+[^c-c5b3eacee19c08955f7d5e2f87a5e569]: Textual amendment: Reg. 13(8)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(7)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/7/b)
 
-[^key-da7be6356fa124e7081c714cece425a2]: Textual amendment: Reg. 13(8)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(7)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/7/c)
+[^c-da7be6356fa124e7081c714cece425a2]: Textual amendment: Reg. 13(8)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(7)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/7/c)
 
-[^key-58a535b80ed932f7b140a146388f395c]: Textual amendment: Reg. 13(8)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(7)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/7/d)
+[^c-58a535b80ed932f7b140a146388f395c]: Textual amendment: Reg. 13(8)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(7)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/7/d)
 
 [^c23585281]: Marginal citation: Regulation 9B was inserted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223).
 
-[^key-ccc517df2f86d71e927b607bf963539b]: Textual amendment: Words in reg. 13(9)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(8)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/8/a)
+[^c-ccc517df2f86d71e927b607bf963539b]: Textual amendment: Words in reg. 13(9)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(8)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/8/a)
 
-[^key-cf81e18c0c3439a919d639d1313863eb]: Textual amendment: Reg. 13(9)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(8)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/8/b)
+[^c-cf81e18c0c3439a919d639d1313863eb]: Textual amendment: Reg. 13(9)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(8)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/8/b)
 
-[^key-4c1ceeb032b8001b257b81e866d4829d]: Textual amendment: Words in reg. 13(10) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(9)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/9)
+[^c-4c1ceeb032b8001b257b81e866d4829d]: Textual amendment: Words in reg. 13(10) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(9)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/9)
 
-[^key-9ad30a42257a028bd02d5fa1b87a075a]: Textual amendment: Words in reg. 13(11)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(10)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/10/a/i)
+[^c-9ad30a42257a028bd02d5fa1b87a075a]: Textual amendment: Words in reg. 13(11)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(10)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/10/a/i)
 
-[^key-07d58ee22ef9fb70dfb068e5f806882c]: Textual amendment: Words in reg. 13(11)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(10)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/10/a/ii)
+[^c-07d58ee22ef9fb70dfb068e5f806882c]: Textual amendment: Words in reg. 13(11)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(10)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/10/a/ii)
 
-[^key-79ed136879fde51bb1f727a63e949d6b]: Textual amendment: Reg. 13(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/10/b)
+[^c-79ed136879fde51bb1f727a63e949d6b]: Textual amendment: Reg. 13(11)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/10/b)
 
-[^key-12c582e8c8e6452b64636d9368e54204]: Textual amendment: Reg. 13(12)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(11)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/11/a)
+[^c-12c582e8c8e6452b64636d9368e54204]: Textual amendment: Reg. 13(12)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(11)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/11/a)
 
-[^key-61fcdec725bf3256a7d040d8f7e019b0]: Textual amendment: Reg. 13(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(11)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/11/b)
+[^c-61fcdec725bf3256a7d040d8f7e019b0]: Textual amendment: Reg. 13(12)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(11)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/11/b)
 
-[^key-449407a61cefce2d4b0f0de93e5e2c89]: Textual amendment: Reg. 13(12)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/11/c)
+[^c-449407a61cefce2d4b0f0de93e5e2c89]: Textual amendment: Reg. 13(12)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(11)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/11/c)
 
-[^key-ee5e5f4fe2f632ba9f0203c988dd6eb1]: Textual amendment: Reg. 13(13)(a)(b) substituted for reg. 13(a)-(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(12)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/12)
+[^c-ee5e5f4fe2f632ba9f0203c988dd6eb1]: Textual amendment: Reg. 13(13)(a)(b) substituted for reg. 13(a)-(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(12)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/12)
 
-[^key-4f1c5b846b445843059b7637ad155cf7]: Textual amendment: Word in reg. 13(14) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(13)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/13)
+[^c-4f1c5b846b445843059b7637ad155cf7]: Textual amendment: Word in reg. 13(14) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(13)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/13)
 
-[^key-5f121f1be0a14c41f9f3fdfcb3e30fe0]: Textual amendment: Reg. 13(15)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(14)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/14/a)
+[^c-5f121f1be0a14c41f9f3fdfcb3e30fe0]: Textual amendment: Reg. 13(15)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(14)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/14/a)
 
-[^key-7ee1558484c612bf33725d1f7626d18a]: Textual amendment: Reg. 13(15)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(14)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/14/b)
+[^c-7ee1558484c612bf33725d1f7626d18a]: Textual amendment: Reg. 13(15)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(14)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/14/b)
 
-[^key-0ea9de16f33dd4c6386fb31749cfe41f]: Textual amendment: Reg. 13(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(15)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/15/a)
+[^c-0ea9de16f33dd4c6386fb31749cfe41f]: Textual amendment: Reg. 13(16)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(15)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/15/a)
 
-[^key-80482a3f1d3644473745d37f2e403f6d]: Textual amendment: Reg. 13(16)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(15)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/15/b)
+[^c-80482a3f1d3644473745d37f2e403f6d]: Textual amendment: Reg. 13(16)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(15)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/15/b)
 
-[^key-68a07aa9501ce8ee484b6d14c801af4c]: Textual amendment: Reg. 13(16)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(15)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/15/c)
+[^c-68a07aa9501ce8ee484b6d14c801af4c]: Textual amendment: Reg. 13(16)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(15)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/15/c)
 
-[^key-29f023ff3241871615b2acc063a17823]: Textual amendment: Reg. 13(16)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(15)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/15/d)
+[^c-29f023ff3241871615b2acc063a17823]: Textual amendment: Reg. 13(16)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(15)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/15/d)
 
-[^key-8e23894ce7c6aeb292c9352159d83eaa]: Textual amendment: Reg. 13(17) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(16)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/16)
+[^c-8e23894ce7c6aeb292c9352159d83eaa]: Textual amendment: Reg. 13(17) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(16)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/16)
 
-[^key-a50a7d2042a41ba6c73295d94c327edc]: Textual amendment: Words in reg. 13(20) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(17)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/17/a)
+[^c-a50a7d2042a41ba6c73295d94c327edc]: Textual amendment: Words in reg. 13(20) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(17)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/17/a)
 
-[^key-af329bf74dc4d595c32e438b08513f88]: Textual amendment: Words in reg. 13(20) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(17)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/17/b/i)
+[^c-af329bf74dc4d595c32e438b08513f88]: Textual amendment: Words in reg. 13(20) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(17)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/17/b/i)
 
-[^key-dec6c7660a00b12d51d8ca5f1c5d5101]: Textual amendment: Words in reg. 13(20) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(17)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/17/b/ii)
+[^c-dec6c7660a00b12d51d8ca5f1c5d5101]: Textual amendment: Words in reg. 13(20) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(17)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/17/b/ii)
 
-[^key-b54a8cf55f57a2ce3f3528b887a816a8]: Textual amendment: Reg. 13(21)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(18)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/18/a)
+[^c-b54a8cf55f57a2ce3f3528b887a816a8]: Textual amendment: Reg. 13(21)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(18)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/18/a)
 
-[^key-9c777d9c62648ee61a3e801e0d691a61]: Textual amendment: Reg. 13(21)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(18)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/18/b)
+[^c-9c777d9c62648ee61a3e801e0d691a61]: Textual amendment: Reg. 13(21)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(18)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/18/b)
 
-[^key-bd19268c0aea17114efae8616e69ef02]: Textual amendment: Reg. 13(22) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)
+[^c-bd19268c0aea17114efae8616e69ef02]: Textual amendment: Reg. 13(22) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/19)
 
 [^c23585301]: Marginal citation: Schedule 4A was inserted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223).
 
-[^key-2b30a355fc1d59387b067c15ede36d4a]: Textual amendment: Reg. 13(23)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/20)
+[^c-2b30a355fc1d59387b067c15ede36d4a]: Textual amendment: Reg. 13(23)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(20)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/20)
 
-[^key-9843a723ad198a80865b251f7143b9ab]: Textual amendment: Word in reg. 13(24)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/a/i/aa)
+[^c-9843a723ad198a80865b251f7143b9ab]: Textual amendment: Word in reg. 13(24)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/a/i/aa)
 
-[^key-ee351b97921fdd783724ad2fa371c923]: Textual amendment: Word in reg. 13(24)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/a/i/bb)
+[^c-ee351b97921fdd783724ad2fa371c923]: Textual amendment: Word in reg. 13(24)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/a/i/bb)
 
-[^key-b09fa192077f7ae997c5cd193d09bcaf]: Textual amendment: Word in reg. 13(24)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/a/ii)
+[^c-b09fa192077f7ae997c5cd193d09bcaf]: Textual amendment: Word in reg. 13(24)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/a/ii)
 
-[^key-7bfad686365e7498c5b5f07624543d97]: Textual amendment: Reg. 13(24)(b)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/a/iii)
+[^c-7bfad686365e7498c5b5f07624543d97]: Textual amendment: Reg. 13(24)(b)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/a/iii)
 
-[^key-795380a06b2855bbf0b996aeb62cd503]: Textual amendment: Reg. 13(24)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/b)
+[^c-795380a06b2855bbf0b996aeb62cd503]: Textual amendment: Reg. 13(24)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/b)
 
 [^c23585321]: Marginal citation: Paragraph 6B was inserted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223).
 
-[^key-2a200ad42a7ded61c9c2c40715c977a3]: Textual amendment: Word in reg. 13(24)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/c)
+[^c-2a200ad42a7ded61c9c2c40715c977a3]: Textual amendment: Word in reg. 13(24)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/c)
 
-[^key-6296287be2906e632c1886737cca015b]: Textual amendment: Word in reg. 13(24)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/d)
+[^c-6296287be2906e632c1886737cca015b]: Textual amendment: Word in reg. 13(24)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/d)
 
-[^key-3b0280f8fb0f7ad4d6d634f4f545abf1]: Textual amendment: Reg. 13(24)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/e)
+[^c-3b0280f8fb0f7ad4d6d634f4f545abf1]: Textual amendment: Reg. 13(24)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/e)
 
-[^key-ddcbef1c82b957de07ee3f9543cd54e8]: Textual amendment: Reg. 13(24)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/f)
+[^c-ddcbef1c82b957de07ee3f9543cd54e8]: Textual amendment: Reg. 13(24)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [14(21)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/14/21/f)
 
-[^key-170ac3378114583122ad47021333d4ae]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-170ac3378114583122ad47021333d4ae]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23585331]: Marginal citation: [S.S.I. 2005/329](https://www.legislation.gov.uk/ssi/2005/329), amended by [S.S.I. 2006/313](https://www.legislation.gov.uk/ssi/2006/313), [S.S.I. 2006/448](https://www.legislation.gov.uk/ssi/2006/448), [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224), [S.S.I. 2007/536](https://www.legislation.gov.uk/ssi/2007/536), [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223), [S.S.I. 2009/330](https://www.legislation.gov.uk/ssi/2009/330), [S.S.I. 2010/219](https://www.legislation.gov.uk/ssi/2010/219), [S.I](https://www.legislation.gov.uk/ssi/2010/219/section/I). 2011/1043, [S.S.I. 2012/5](https://www.legislation.gov.uk/ssi/2012/5), [S.S.I. 2013/326](https://www.legislation.gov.uk/ssi/2013/326), [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68), [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434), [S.S.I. 2017/384](https://www.legislation.gov.uk/ssi/2017/384) and Part 2 of this instrument.
 
-[^key-e115e09e6479f65e8e09e7ac04779515]: Textual amendment: Reg. 14(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/a)
+[^c-e115e09e6479f65e8e09e7ac04779515]: Textual amendment: Reg. 14(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/a)
 
-[^key-14f8fc3ad74b0d1ad4df719ecf5d8ce2]: Textual amendment: Reg. 14(2)(c)(ca) substituted for reg. 14(2)(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/b)
+[^c-14f8fc3ad74b0d1ad4df719ecf5d8ce2]: Textual amendment: Reg. 14(2)(c)(ca) substituted for reg. 14(2)(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/b)
 
-[^key-f06653c0f6f78a05eba92260ff3598a1]: Textual amendment: Reg. 14(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/c)
+[^c-f06653c0f6f78a05eba92260ff3598a1]: Textual amendment: Reg. 14(2)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/c)
 
-[^key-4c4155a586205f1cb9c6e5573856ae13]: Textual amendment: Reg. 14(2)(e)(ea) substituted for reg. 14(2)(e) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/d)
+[^c-4c4155a586205f1cb9c6e5573856ae13]: Textual amendment: Reg. 14(2)(e)(ea) substituted for reg. 14(2)(e) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/d)
 
-[^key-0afe433b1d4a21f9c0677e1aee89f92e]: Textual amendment: Reg. 14(2)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/e)
+[^c-0afe433b1d4a21f9c0677e1aee89f92e]: Textual amendment: Reg. 14(2)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/e)
 
-[^key-d002c90a0a660eedacb788de2f69a98e]: Textual amendment: Words in reg. 14(2)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/f)
+[^c-d002c90a0a660eedacb788de2f69a98e]: Textual amendment: Words in reg. 14(2)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/f)
 
 [^c23585351]: Marginal citation: That definition was inserted by [S.S.I. 2012/5](https://www.legislation.gov.uk/ssi/2012/5).
 
-[^key-f56776861b6ed57ac7792c43cddee865]: Textual amendment: Reg. 14(2)(ha) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/g)
+[^c-f56776861b6ed57ac7792c43cddee865]: Textual amendment: Reg. 14(2)(ha) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/g)
 
-[^key-a1314a87d385a30bf430fca75e1d2047]: Textual amendment: Reg. 14(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/h)
+[^c-a1314a87d385a30bf430fca75e1d2047]: Textual amendment: Reg. 14(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/h)
 
-[^key-c4ca3b60e7d7fbdcd245e6cda7c2cd69]: Textual amendment: Reg. 14(2)(j) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/i)
+[^c-c4ca3b60e7d7fbdcd245e6cda7c2cd69]: Textual amendment: Reg. 14(2)(j) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/i)
 
-[^key-e531e696c137ce67ca444794acb2114d]: Textual amendment: Reg. 14(2)(k) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(j)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/j)
+[^c-e531e696c137ce67ca444794acb2114d]: Textual amendment: Reg. 14(2)(k) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(j)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/j)
 
-[^key-24b59621d56f10fcd30b52665756d3d6]: Textual amendment: Reg. 14(2)(l) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(k)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/k)
+[^c-24b59621d56f10fcd30b52665756d3d6]: Textual amendment: Reg. 14(2)(l) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(k)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/k)
 
-[^key-e81bd9333025eafb8695acd025d979f3]: Textual amendment: Reg. 14(2)(m)-(mb) substituted for reg. 14(2)(m) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(l)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/l)
+[^c-e81bd9333025eafb8695acd025d979f3]: Textual amendment: Reg. 14(2)(m)-(mb) substituted for reg. 14(2)(m) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(l)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/l)
 
 [^c23585371]: Marginal citation: [S.S.I. 2002/541](https://www.legislation.gov.uk/ssi/2002/541), amended by [S.S.I. 2004/439](https://www.legislation.gov.uk/ssi/2004/439), [S.I](https://www.legislation.gov.uk/ssi/2004/439/section/I). 2005/2759, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100) and S.S.I. 2019/XXX.
 
@@ -3653,115 +3653,115 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23585401]: Marginal citation: S.R. [2003 No. 167](https://www.legislation.gov.uk/ukcm/2003/167).
 
-[^key-c9a58d50a3346da723090fa055d36446]: Textual amendment: Reg. 14(2)(n)-(nj) substituted for reg. 14(2)(n) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(m)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/m)
+[^c-c9a58d50a3346da723090fa055d36446]: Textual amendment: Reg. 14(2)(n)-(nj) substituted for reg. 14(2)(n) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(m)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/m)
 
 [^c23585411]: Marginal citation: That definition was inserted by [S.S.I. 2012/5](https://www.legislation.gov.uk/ssi/2012/5).
 
-[^key-8a0d865509f90fa47955bf6c67f74f44]: Textual amendment: Reg. 14(2)(r)(s) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(n)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/n)
+[^c-8a0d865509f90fa47955bf6c67f74f44]: Textual amendment: Reg. 14(2)(r)(s) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(2)(n)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/2/n)
 
-[^key-17a84c4fbde75892c889080689d047c7]: Textual amendment: Reg. 14(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/a)
+[^c-17a84c4fbde75892c889080689d047c7]: Textual amendment: Reg. 14(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/a)
 
-[^key-11e8ac9553664c4bb0f07bf58145b042]: Textual amendment: Reg. 14(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/b)
+[^c-11e8ac9553664c4bb0f07bf58145b042]: Textual amendment: Reg. 14(3)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/b)
 
-[^key-e73ff26c7051a2d0ae92840687632e9f]: Textual amendment: Reg. 14(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/c)
+[^c-e73ff26c7051a2d0ae92840687632e9f]: Textual amendment: Reg. 14(3)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/c)
 
-[^key-37b11118fdf9c8099c05dbbb4e155ae4]: Textual amendment: Reg. 14(3)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/d)
+[^c-37b11118fdf9c8099c05dbbb4e155ae4]: Textual amendment: Reg. 14(3)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/d)
 
-[^key-3bb726dd85d624fe8134cf3136c824f4]: Textual amendment: Reg. 14(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/e)
+[^c-3bb726dd85d624fe8134cf3136c824f4]: Textual amendment: Reg. 14(3)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/e)
 
-[^key-82bd26fcdde58477e1e91712715b56a7]: Textual amendment: Reg. 14(3)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/f)
+[^c-82bd26fcdde58477e1e91712715b56a7]: Textual amendment: Reg. 14(3)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/f)
 
-[^key-8507775bd206cad69f4bc0516ddf603a]: Textual amendment: Reg. 14(3)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/g)
+[^c-8507775bd206cad69f4bc0516ddf603a]: Textual amendment: Reg. 14(3)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(3)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/3/g)
 
 [^c23585421]: Marginal citation: Regulation 5(2) is amended, and regulation 13A is inserted, by Part 2 of this instrument.
 
-[^key-11ad0c5d14c563715ba047276763a332]: Textual amendment: Reg. 14(5)(a)-(ab) substituted for reg. 14(5)(a) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(4)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/4/a)
+[^c-11ad0c5d14c563715ba047276763a332]: Textual amendment: Reg. 14(5)(a)-(ab) substituted for reg. 14(5)(a) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(4)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/4/a)
 
-[^key-eaa626fd72a2e66c7c11210f5ecf2669]: Textual amendment: Reg. 14(5)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(4)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/4/b)
+[^c-eaa626fd72a2e66c7c11210f5ecf2669]: Textual amendment: Reg. 14(5)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(4)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/4/b)
 
-[^key-0cdd71443e68e9e68041a3bcae7cda0d]: Textual amendment: Reg. 14(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/5)
+[^c-0cdd71443e68e9e68041a3bcae7cda0d]: Textual amendment: Reg. 14(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/5)
 
-[^key-418566ed63bb7af1c2354286907c3727]: Textual amendment: Reg. 14(7)(b)(c) substituted for reg. 14(7)(b) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(6)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/6)
+[^c-418566ed63bb7af1c2354286907c3727]: Textual amendment: Reg. 14(7)(b)(c) substituted for reg. 14(7)(b) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(6)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/6)
 
 [^c23585441]: Marginal citation: Regulation 8A was inserted by [S.S.I. 2012/5](https://www.legislation.gov.uk/ssi/2012/5).
 
-[^key-c2218873827e491089e70ac0b534e0b3]: Textual amendment: Reg. 14(8)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(7)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/7)
+[^c-c2218873827e491089e70ac0b534e0b3]: Textual amendment: Reg. 14(8)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(7)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/7)
 
-[^key-01707432c408faf75ce51f422a84aa0a]: Textual amendment: Words in reg. 14(9)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(8)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/8/a)
+[^c-01707432c408faf75ce51f422a84aa0a]: Textual amendment: Words in reg. 14(9)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(8)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/8/a)
 
-[^key-0f1a48570e5c275b5bc62683229cc673]: Textual amendment: Words in reg. 14(9)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(8)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/8/b)
+[^c-0f1a48570e5c275b5bc62683229cc673]: Textual amendment: Words in reg. 14(9)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(8)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/8/b)
 
 [^c23585451]: Marginal citation: Regulation 9A was inserted by [S.S.I. 2007/224](https://www.legislation.gov.uk/ssi/2007/224).
 
-[^key-52f58d6364b15b232ae3f5386cc1b44e]: Textual amendment: Words in reg. 14(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(9)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/9/a)
+[^c-52f58d6364b15b232ae3f5386cc1b44e]: Textual amendment: Words in reg. 14(10)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(9)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/9/a)
 
-[^key-c003aff22507e817a622dd660e6a4dea]: Textual amendment: Reg. 14(10)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(9)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/9/b)
+[^c-c003aff22507e817a622dd660e6a4dea]: Textual amendment: Reg. 14(10)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(9)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/9/b)
 
-[^key-ac6857dfbca047d8f5b846dae42e8f91]: Textual amendment: Reg. 14(10)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(9)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/9/c)
+[^c-ac6857dfbca047d8f5b846dae42e8f91]: Textual amendment: Reg. 14(10)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(9)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/9/c)
 
-[^key-d7dcfa924abeaa870e0e909de4a8bc8b]: Textual amendment: Reg. 14(10)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(9)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/9/d)
+[^c-d7dcfa924abeaa870e0e909de4a8bc8b]: Textual amendment: Reg. 14(10)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(9)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/9/d)
 
 [^c23585471]: Marginal citation: Regulation 9B was inserted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223).
 
-[^key-b3cde581cba96d2d4c91b803bbe44940]: Textual amendment: Words in reg. 14(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/10/a)
+[^c-b3cde581cba96d2d4c91b803bbe44940]: Textual amendment: Words in reg. 14(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/10/a)
 
-[^key-a8ec39b67035d151251c90161d98b963]: Textual amendment: Reg. 14(11)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/10/b)
+[^c-a8ec39b67035d151251c90161d98b963]: Textual amendment: Reg. 14(11)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/10/b)
 
-[^key-f0aafd1f3b61267fafce863c7d9336f7]: Textual amendment: Words in reg. 14(12) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(11)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/11)
+[^c-f0aafd1f3b61267fafce863c7d9336f7]: Textual amendment: Words in reg. 14(12) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(11)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/11)
 
-[^key-0dec872137e4dc0ec6139a30e06f6a67]: Textual amendment: Words in reg. 14(13)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(12)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/12/a/i)
+[^c-0dec872137e4dc0ec6139a30e06f6a67]: Textual amendment: Words in reg. 14(13)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(12)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/12/a/i)
 
-[^key-a3f09e84312855d3f1174f6adeeba1f3]: Textual amendment: Words in reg. 14(13)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(12)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/12/a/ii)
+[^c-a3f09e84312855d3f1174f6adeeba1f3]: Textual amendment: Words in reg. 14(13)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(12)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/12/a/ii)
 
-[^key-1225c42baab8af638a07e8b018f80a94]: Textual amendment: Reg. 14(13)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(12)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/12/b)
+[^c-1225c42baab8af638a07e8b018f80a94]: Textual amendment: Reg. 14(13)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(12)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/12/b)
 
-[^key-eb56236d081888bf21c2fb13810b2d13]: Textual amendment: Reg. 14(14)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(13)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/13/a)
+[^c-eb56236d081888bf21c2fb13810b2d13]: Textual amendment: Reg. 14(14)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(13)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/13/a)
 
-[^key-8997e7606578aa22e7506bcf8c4d2ded]: Textual amendment: Reg. 14(14)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(13)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/13/b)
+[^c-8997e7606578aa22e7506bcf8c4d2ded]: Textual amendment: Reg. 14(14)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(13)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/13/b)
 
-[^key-b3a7e1872ea132e9e9ff40860b1c2e5d]: Textual amendment: Reg. 14(14)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(13)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/13/c)
+[^c-b3a7e1872ea132e9e9ff40860b1c2e5d]: Textual amendment: Reg. 14(14)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(13)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/13/c)
 
-[^key-85e17ade83540f5bd6bd7a82fd3bbbd5]: Textual amendment: Reg. 14(15)(a)(b) substituted for reg. 14(15)(a)-(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(14)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/14)
+[^c-85e17ade83540f5bd6bd7a82fd3bbbd5]: Textual amendment: Reg. 14(15)(a)(b) substituted for reg. 14(15)(a)-(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(14)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/14)
 
-[^key-6291d93cd60f47ea396a41e210099e5b]: Textual amendment: Word in reg. 14(16) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(15)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/15)
+[^c-6291d93cd60f47ea396a41e210099e5b]: Textual amendment: Word in reg. 14(16) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(15)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/15)
 
-[^key-c065289a527d4fb06b5152abee6d2ce1]: Textual amendment: Reg. 14(17)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(16)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/16/a)
+[^c-c065289a527d4fb06b5152abee6d2ce1]: Textual amendment: Reg. 14(17)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(16)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/16/a)
 
-[^key-57a01b08ab2c7481b0b1d60603673ab1]: Textual amendment: Reg. 14(17)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(16)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/16/b)
+[^c-57a01b08ab2c7481b0b1d60603673ab1]: Textual amendment: Reg. 14(17)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(16)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/16/b)
 
-[^key-0513a28a4c98225150da40f5b80e357f]: Textual amendment: Reg. 14(18)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(17)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/17/a)
+[^c-0513a28a4c98225150da40f5b80e357f]: Textual amendment: Reg. 14(18)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(17)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/17/a)
 
-[^key-3bcecb24f5633f56653d231b2cf09681]: Textual amendment: Reg. 14(18)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(17)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/17/b)
+[^c-3bcecb24f5633f56653d231b2cf09681]: Textual amendment: Reg. 14(18)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(17)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/17/b)
 
-[^key-a5e29364cc243e03f047c5b47b9bfcc3]: Textual amendment: Reg. 14(18)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(17)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/17/c)
+[^c-a5e29364cc243e03f047c5b47b9bfcc3]: Textual amendment: Reg. 14(18)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(17)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/17/c)
 
-[^key-4eac884961f421e01246a02fe7e5d2b7]: Textual amendment: Reg. 14(18)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(17)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/17/d)
+[^c-4eac884961f421e01246a02fe7e5d2b7]: Textual amendment: Reg. 14(18)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(17)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/17/d)
 
-[^key-d293c119ad8ea4d597edc684e723312b]: Textual amendment: Reg. 14(19)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(18)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/18/a)
+[^c-d293c119ad8ea4d597edc684e723312b]: Textual amendment: Reg. 14(19)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(18)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/18/a)
 
-[^key-bc4bb5055ca8dc6487350afb3382daf0]: Textual amendment: Reg. 14(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(18)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/18/b)
+[^c-bc4bb5055ca8dc6487350afb3382daf0]: Textual amendment: Reg. 14(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(18)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/18/b)
 
-[^key-f9155993155e75bd9fbb210e207e2799]: Textual amendment: Words in reg. 14(22) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(19)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/19/a)
+[^c-f9155993155e75bd9fbb210e207e2799]: Textual amendment: Words in reg. 14(22) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(19)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/19/a)
 
-[^key-cd678565d2de880d0eb36a45ec04d11c]: Textual amendment: Words in reg. 14(22) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(19)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/19/b/i)
+[^c-cd678565d2de880d0eb36a45ec04d11c]: Textual amendment: Words in reg. 14(22) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(19)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/19/b/i)
 
-[^key-fda77a9945fb0bfce553d194409d1964]: Textual amendment: Words in reg. 14(22) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(19)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/19/b/ii)
+[^c-fda77a9945fb0bfce553d194409d1964]: Textual amendment: Words in reg. 14(22) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(19)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/19/b/ii)
 
-[^key-db2730bd5753a806cb1363b56c7e81d4]: Textual amendment: Reg. 14(23)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(20)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/20/a)
+[^c-db2730bd5753a806cb1363b56c7e81d4]: Textual amendment: Reg. 14(23)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(20)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/20/a)
 
-[^key-f5226ef6e721b3a7c887fe5cf2dcff8a]: Textual amendment: Reg. 14(23)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(20)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/20/b)
+[^c-f5226ef6e721b3a7c887fe5cf2dcff8a]: Textual amendment: Reg. 14(23)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(20)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/20/b)
 
-[^key-2ddc8108c63a0dde62fca3bf61aa882c]: Textual amendment: Reg. 14(24) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(21)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/21)
+[^c-2ddc8108c63a0dde62fca3bf61aa882c]: Textual amendment: Reg. 14(24) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(21)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/21)
 
 [^c23585491]: Marginal citation: Schedule 4A was inserted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223).
 
-[^key-2969f476f76b890267e756d48ca3ef6e]: Textual amendment: Reg. 14(25)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(22)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/22)
+[^c-2969f476f76b890267e756d48ca3ef6e]: Textual amendment: Reg. 14(25)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(22)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/22)
 
-[^key-ace3406e481ccd5b347336daa0c63955]: Textual amendment: Reg. 14(25A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(23)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/23)
+[^c-ace3406e481ccd5b347336daa0c63955]: Textual amendment: Reg. 14(25A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(23)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/23)
 
-[^key-7c8cf09f8fcbf0e3abe1709b843d846e]: Textual amendment: Word in reg. 14(26) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(24)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/24/a)
+[^c-7c8cf09f8fcbf0e3abe1709b843d846e]: Textual amendment: Word in reg. 14(26) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(24)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/24/a)
 
-[^key-2bed91a92c06653d44c75246ba1c8dc4]: Textual amendment: Reg. 14(26)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(24)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/24/b)
+[^c-2bed91a92c06653d44c75246ba1c8dc4]: Textual amendment: Reg. 14(26)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(24)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/24/b)
 
 [^c23585511]: Marginal citation: Paragraph 6B was inserted by [S.S.I. 2009/223](https://www.legislation.gov.uk/ssi/2009/223).
 
@@ -3769,29 +3769,29 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23585531]: Marginal citation: Paragraph 10 is amended by Part 2 of this instrument.
 
-[^key-91ae97212b4030a9683fa0db3340ea5b]: Textual amendment: Reg. 14(26)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(24)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/24/c)
+[^c-91ae97212b4030a9683fa0db3340ea5b]: Textual amendment: Reg. 14(26)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(24)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/24/c)
 
-[^key-156c9877b23ab77ccce4ea4dc992eae1]: Textual amendment: Reg. 14(26)(j) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(24)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/24/d)
+[^c-156c9877b23ab77ccce4ea4dc992eae1]: Textual amendment: Reg. 14(26)(j) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [15(24)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/15/24/d)
 
-[^key-55df2d7656a55a8298b703c357c008d5]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-55df2d7656a55a8298b703c357c008d5]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23585551]: Marginal citation: [S.S.I. 2010/148](https://www.legislation.gov.uk/ssi/2010/148), amended by [S.S.I. 2011/413](https://www.legislation.gov.uk/ssi/2011/413), [S.I](https://www.legislation.gov.uk/ssi/2011/413/section/I). 2011/1043, [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68), [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434) and Part 2 of this instrument.
 
-[^key-f1af085926e831272d8e9b19be58cb35]: Textual amendment: Reg. 15(2)(a)(ii)(iia) substituted for reg. 15(2)(a)(ii) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/i)
+[^c-f1af085926e831272d8e9b19be58cb35]: Textual amendment: Reg. 15(2)(a)(ii)(iia) substituted for reg. 15(2)(a)(ii) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/i)
 
-[^key-db70f104ccd623ebce08767233ec6058]: Textual amendment: Reg. 15(2)(a)(iii)(iiia) substituted for reg. 15(2)(a)(iii) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ii)
+[^c-db70f104ccd623ebce08767233ec6058]: Textual amendment: Reg. 15(2)(a)(iii)(iiia) substituted for reg. 15(2)(a)(iii) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/ii)
 
-[^key-fcfa00ca9f3b1c070a83e00d4463c657]: Textual amendment: Reg. 15(2)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/iii)
+[^c-fcfa00ca9f3b1c070a83e00d4463c657]: Textual amendment: Reg. 15(2)(a)(iv) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/iii)
 
-[^key-453ed036acb961ec96eadbfad2b1a0ff]: Textual amendment: Words in reg. 15(2)(a)(v) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/iv)
+[^c-453ed036acb961ec96eadbfad2b1a0ff]: Textual amendment: Words in reg. 15(2)(a)(v) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/iv)
 
-[^key-718fbf3c226b324b8f6fcd2b94991520]: Textual amendment: Reg. 15(2)(a)(va)(vb) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(v)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/v)
+[^c-718fbf3c226b324b8f6fcd2b94991520]: Textual amendment: Reg. 15(2)(a)(va)(vb) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(v)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/v)
 
-[^key-daf5d23ba4199f699d30a4954fb815ba]: Textual amendment: Reg. 15(2)(a)(vi)(vii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/vi)
+[^c-daf5d23ba4199f699d30a4954fb815ba]: Textual amendment: Reg. 15(2)(a)(vi)(vii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/vi)
 
-[^key-37a50cd7020819fbe0b64699089d3226]: Textual amendment: Reg. 15(2)(a)(viii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/vii)
+[^c-37a50cd7020819fbe0b64699089d3226]: Textual amendment: Reg. 15(2)(a)(viii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/vii)
 
-[^key-1c5b6f68e49a7dd70e2fe3e5cef4cbaf]: Textual amendment: Reg. 15(2)(a)(ix)(ixb) substituted for reg. 15(2)(a)(ix) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(viii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/viii)
+[^c-1c5b6f68e49a7dd70e2fe3e5cef4cbaf]: Textual amendment: Reg. 15(2)(a)(ix)(ixb) substituted for reg. 15(2)(a)(ix) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(viii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/viii)
 
 [^c23585561]: Marginal citation: [S.S. I. 2002/541](https://www.legislation.gov.uk/ssi/2002/541), amended by [S.S.I. 2004/439](https://www.legislation.gov.uk/ssi/2004/439), [S.I](https://www.legislation.gov.uk/ssi/2004/439/section/I). 2005/2759, [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100) and S.S.I. 2019/XXX.
 
@@ -3801,121 +3801,121 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23585591]: Marginal citation: S.R. [2003 No. 167](https://www.legislation.gov.uk/ukcm/2003/167).
 
-[^key-38aa298adcce03b07bad6545ae076e8c]: Textual amendment: Reg. 15(2)(a)(x)-(xh) substituted for reg. 15(2)(a)(x) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/16/2/a/ix)
+[^c-38aa298adcce03b07bad6545ae076e8c]: Textual amendment: Reg. 15(2)(a)(x)-(xh) substituted for reg. 15(2)(a)(x) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b), [16(2)(a)(ix)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/16/2/a/ix)
 
-[^key-11f7896f78708453b6d49e08851efda5]: Textual amendment: Reg. 15(2)(a)(xiii)(xiv) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(x)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/x)
+[^c-11f7896f78708453b6d49e08851efda5]: Textual amendment: Reg. 15(2)(a)(xiii)(xiv) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(a)(x)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/a/x)
 
-[^key-1f3dcf77ea5f24a7a2ff3acf84ca5b51]: Textual amendment: Reg. 15(2)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/b/i)
+[^c-1f3dcf77ea5f24a7a2ff3acf84ca5b51]: Textual amendment: Reg. 15(2)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/b/i)
 
-[^key-27d3600fb4b970a9c7e885f2be588d8c]: Textual amendment: Reg. 15(2)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/b/ii)
+[^c-27d3600fb4b970a9c7e885f2be588d8c]: Textual amendment: Reg. 15(2)(b)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/b/ii)
 
-[^key-22a9994d8c2db0e56fed0e713b3bc800]: Textual amendment: Reg. 15(2)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(c)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/c/i)
+[^c-22a9994d8c2db0e56fed0e713b3bc800]: Textual amendment: Reg. 15(2)(c)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(c)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/c/i)
 
-[^key-e41a4d26040447970e26dede788ead9b]: Textual amendment: Reg. 15(2)(c)(ii)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/c/ii)
+[^c-e41a4d26040447970e26dede788ead9b]: Textual amendment: Reg. 15(2)(c)(ii)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(2)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/2/c/ii)
 
 [^c23585601]: Marginal citation: Regulation 4(2) is amended, and regulation 14A is inserted, by Part 2 of this instrument.
 
-[^key-79855a95b77c96debe4aaf89df489fe6]: Textual amendment: Reg. 15(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/a)
+[^c-79855a95b77c96debe4aaf89df489fe6]: Textual amendment: Reg. 15(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/a)
 
-[^key-fe9c39c512eb68e11620bcd7e0595c04]: Textual amendment: Reg. 15(4)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/b)
+[^c-fe9c39c512eb68e11620bcd7e0595c04]: Textual amendment: Reg. 15(4)(ba) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/b)
 
-[^key-b5e72018ab2ed2bbcacf28ae26558611]: Textual amendment: Reg. 15(4)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/c)
+[^c-b5e72018ab2ed2bbcacf28ae26558611]: Textual amendment: Reg. 15(4)(d) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/c)
 
-[^key-6010e89d7c9daa722d4768edf7fb8844]: Textual amendment: Reg. 15(4)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/d)
+[^c-6010e89d7c9daa722d4768edf7fb8844]: Textual amendment: Reg. 15(4)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(3)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/3/d)
 
-[^key-70db5b8f70cc8f7b0e9b885b3ee77655]: Textual amendment: Reg. 15(5) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/4)
+[^c-70db5b8f70cc8f7b0e9b885b3ee77655]: Textual amendment: Reg. 15(5) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/4)
 
-[^key-4ab1aecacdbc587a74dde077482efc41]: Textual amendment: Reg. 15(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/5)
+[^c-4ab1aecacdbc587a74dde077482efc41]: Textual amendment: Reg. 15(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/5)
 
-[^key-ded50c0d00bbf71c2dd7a5983d1e118e]: Textual amendment: Words in reg. 15(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/6/a)
+[^c-ded50c0d00bbf71c2dd7a5983d1e118e]: Textual amendment: Words in reg. 15(7)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/6/a)
 
-[^key-e293d864cd71cf3ba500ae3ab33d4963]: Textual amendment: Words in reg. 15(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/6/b)
+[^c-e293d864cd71cf3ba500ae3ab33d4963]: Textual amendment: Words in reg. 15(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/6/b)
 
-[^key-dc392a87406b507d6abf3ccfbda5c489]: Textual amendment: Words in reg. 15(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/a)
+[^c-dc392a87406b507d6abf3ccfbda5c489]: Textual amendment: Words in reg. 15(8)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/a)
 
-[^key-7873c4ab4adea5d328cf7fe588fd07fb]: Textual amendment: Reg. 15(8)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/b)
+[^c-7873c4ab4adea5d328cf7fe588fd07fb]: Textual amendment: Reg. 15(8)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/b)
 
-[^key-c2345ebd3a5d058e0e1f1ee4ddd5b234]: Textual amendment: Reg. 15(8)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/c)
+[^c-c2345ebd3a5d058e0e1f1ee4ddd5b234]: Textual amendment: Reg. 15(8)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/c)
 
-[^key-37542a817d4f4426b875d17cb1535fc4]: Textual amendment: Reg. 15(8)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/d)
+[^c-37542a817d4f4426b875d17cb1535fc4]: Textual amendment: Reg. 15(8)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(7)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/7/d)
 
-[^key-7a75eb9f2f17f1a60c9de89d40b63288]: Textual amendment: Words in reg. 15(9) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(8)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/8)
+[^c-7a75eb9f2f17f1a60c9de89d40b63288]: Textual amendment: Words in reg. 15(9) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(8)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/8)
 
-[^key-669f3e2cb5c7b9ee0b8803d42986bfae]: Textual amendment: Words in reg. 15(10)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(9)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/9/a/i)
+[^c-669f3e2cb5c7b9ee0b8803d42986bfae]: Textual amendment: Words in reg. 15(10)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(9)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/9/a/i)
 
-[^key-6439011bcca37a0f0f090865ab0209bf]: Textual amendment: Words in reg. 15(10)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(9)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/9/a/ii)
+[^c-6439011bcca37a0f0f090865ab0209bf]: Textual amendment: Words in reg. 15(10)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(9)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/9/a/ii)
 
-[^key-665b10dd02bf8926e637ee4f3373264d]: Textual amendment: Reg. 15(10)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(9)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/9/b)
+[^c-665b10dd02bf8926e637ee4f3373264d]: Textual amendment: Reg. 15(10)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(9)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/9/b)
 
-[^key-193b9c94b7646f09a296e126c4237da2]: Textual amendment: Reg. 15(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/a)
+[^c-193b9c94b7646f09a296e126c4237da2]: Textual amendment: Reg. 15(11)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/a)
 
-[^key-09d80c5b4cfcbb8fc8cdd58a1c9052a3]: Textual amendment: Reg. 15(11)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/b)
+[^c-09d80c5b4cfcbb8fc8cdd58a1c9052a3]: Textual amendment: Reg. 15(11)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/b)
 
-[^key-c490fae27a1bd2a373873da5692284e7]: Textual amendment: Reg. 15(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/c)
+[^c-c490fae27a1bd2a373873da5692284e7]: Textual amendment: Reg. 15(11)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(10)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/10/c)
 
-[^key-5f71abc1afa5f17e96543a9d89a9ab1e]: Textual amendment: Reg. 15(12)(a)(b) substituted for reg. 15(12)(a)-(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(11)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/11)
+[^c-5f71abc1afa5f17e96543a9d89a9ab1e]: Textual amendment: Reg. 15(12)(a)(b) substituted for reg. 15(12)(a)-(c) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(11)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/11)
 
-[^key-6f2b777aa5ca5329ec5068a79830a7cf]: Textual amendment: Reg. 15(13) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(12)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/12)
+[^c-6f2b777aa5ca5329ec5068a79830a7cf]: Textual amendment: Reg. 15(13) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(12)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/12)
 
-[^key-d0271eb3153ee7ea85a0230f6b394326]: Textual amendment: Reg. 15(14) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(13)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/13)
+[^c-d0271eb3153ee7ea85a0230f6b394326]: Textual amendment: Reg. 15(14) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(13)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/13)
 
-[^key-a207e933578189f4487157ae150a87ae]: Textual amendment: Reg. 15(15)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(14)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/14/a)
+[^c-a207e933578189f4487157ae150a87ae]: Textual amendment: Reg. 15(15)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(14)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/14/a)
 
-[^key-87d1a8cdfc0add44dd2510607406f67d]: Textual amendment: Reg. 15(15)(b)(c) substituted for reg. 15(15)(b) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(14)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/14/b)
+[^c-87d1a8cdfc0add44dd2510607406f67d]: Textual amendment: Reg. 15(15)(b)(c) substituted for reg. 15(15)(b) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(14)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/14/b)
 
-[^key-af085427a7358e5e31da0811d95cc9e0]: Textual amendment: Words in reg. 15(16)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(15)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/15)
+[^c-af085427a7358e5e31da0811d95cc9e0]: Textual amendment: Words in reg. 15(16)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(15)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/15)
 
-[^key-9143aef291dd0c8b547d8bdbd1b17456]: Textual amendment: Words in reg. 15(18) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(16)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/16/a)
+[^c-9143aef291dd0c8b547d8bdbd1b17456]: Textual amendment: Words in reg. 15(18) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(16)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/16/a)
 
-[^key-8c4971452f0f6b766a9867475ee06289]: Textual amendment: Words in reg. 15(18) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(16)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/16/b/i)
+[^c-8c4971452f0f6b766a9867475ee06289]: Textual amendment: Words in reg. 15(18) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(16)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/16/b/i)
 
-[^key-ae170802b71d352ba9dcba7441c014f7]: Textual amendment: Words in reg. 15(18) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(16)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/16/b/ii)
+[^c-ae170802b71d352ba9dcba7441c014f7]: Textual amendment: Words in reg. 15(18) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(16)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/16/b/ii)
 
-[^key-ca89597c61d87908de80b95b07661c4c]: Textual amendment: Reg. 15(19)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(17)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/17/a)
+[^c-ca89597c61d87908de80b95b07661c4c]: Textual amendment: Reg. 15(19)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(17)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/17/a)
 
-[^key-cd49ca184033a65b8ed4ee2b076ae999]: Textual amendment: Reg. 15(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(17)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/17/b)
+[^c-cd49ca184033a65b8ed4ee2b076ae999]: Textual amendment: Reg. 15(19)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(17)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/17/b)
 
-[^key-ce340301674c3a6a0b4154c6e438a600]: Textual amendment: Reg. 15(19)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(17)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/17/c)
+[^c-ce340301674c3a6a0b4154c6e438a600]: Textual amendment: Reg. 15(19)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(17)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/17/c)
 
-[^key-5332313585f60d3fc11d514a7fb3b31a]: Textual amendment: Reg. 15(20)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(18)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/18/a/i)
+[^c-5332313585f60d3fc11d514a7fb3b31a]: Textual amendment: Reg. 15(20)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(18)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/18/a/i)
 
-[^key-5c2211db104aec263c1792303499b279]: Textual amendment: Reg. 15(20)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(18)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/18/b)
+[^c-5c2211db104aec263c1792303499b279]: Textual amendment: Reg. 15(20)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(18)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/18/b)
 
-[^key-c9d09be4248d7e9ec0d8f85ebaa59075]: Textual amendment: Reg. 15(21) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/19)
+[^c-c9d09be4248d7e9ec0d8f85ebaa59075]: Textual amendment: Reg. 15(21) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(19)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/19)
 
-[^key-692b0d2623ddbd57fdf27cf50796126b]: Textual amendment: Word in reg. 15(22)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/a)
+[^c-692b0d2623ddbd57fdf27cf50796126b]: Textual amendment: Word in reg. 15(22)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/a)
 
-[^key-fa85a87e0969500dd85b6502a308ae09]: Textual amendment: Reg. 15(22)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/b)
+[^c-fa85a87e0969500dd85b6502a308ae09]: Textual amendment: Reg. 15(22)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/b)
 
-[^key-03a1b0da91028abe03146d7384f8f03a]: Textual amendment: Word in reg. 15(22)(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(c)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/c/i)
+[^c-03a1b0da91028abe03146d7384f8f03a]: Textual amendment: Word in reg. 15(22)(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(c)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/c/i)
 
-[^key-53f7312e0976eb888682f1b5d2c07076]: Textual amendment: Words in reg. 15(22)(d)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/c/ii)
+[^c-53f7312e0976eb888682f1b5d2c07076]: Textual amendment: Words in reg. 15(22)(d)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(c)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/c/ii)
 
-[^key-533d6987dbd41fa614c6f7ab86653064]: Textual amendment: Reg. 15(22)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/d)
+[^c-533d6987dbd41fa614c6f7ab86653064]: Textual amendment: Reg. 15(22)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/d)
 
-[^key-d7f71b4febc79f380820f91fc14d4ffa]: Textual amendment: Reg. 15(22)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/e)
+[^c-d7f71b4febc79f380820f91fc14d4ffa]: Textual amendment: Reg. 15(22)(g) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [16(20)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/16/20/e)
 
-[^key-25af3460f4101424699972d7b4fe5e84]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-25af3460f4101424699972d7b4fe5e84]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23585621]: Marginal citation: [S.S.I. 2015/395](https://www.legislation.gov.uk/ssi/2015/395), amended by [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68), [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434) and [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391).
 
-[^key-58331f94d72595dba53fae3dc1e60ccd]: Textual amendment: Reg. 16(2)(za) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/a)
+[^c-58331f94d72595dba53fae3dc1e60ccd]: Textual amendment: Reg. 16(2)(za) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/a)
 
-[^key-bb08a787a70487a96502b78753321aea]: Textual amendment: Words in reg. 16(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/b)
+[^c-bb08a787a70487a96502b78753321aea]: Textual amendment: Words in reg. 16(2)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/b)
 
-[^key-b2ff96169214cc15f8ce7caac9b81086]: Textual amendment: Reg. 16(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/c)
+[^c-b2ff96169214cc15f8ce7caac9b81086]: Textual amendment: Reg. 16(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/c)
 
-[^key-f6dc45914feec9de7a56108a5c06d687]: Textual amendment: Words in reg. 16(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(d)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/d/i)
+[^c-f6dc45914feec9de7a56108a5c06d687]: Textual amendment: Words in reg. 16(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(d)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/d/i)
 
-[^key-e314cb618bfe5cc47317d33d0470081d]: Textual amendment: Words in reg. 16(2)(c) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/d/ii)
+[^c-e314cb618bfe5cc47317d33d0470081d]: Textual amendment: Words in reg. 16(2)(c) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(d)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/d/ii)
 
-[^key-fdcb883f2d55f3e6ed4e82b4042e94d1]: Textual amendment: Words in reg. 16(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/d/iii)
+[^c-fdcb883f2d55f3e6ed4e82b4042e94d1]: Textual amendment: Words in reg. 16(2)(c) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(d)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/d/iii)
 
-[^key-41038d21ce4ad01288f21bee3455a69b]: Textual amendment: Reg. 16(2)(ca)(cb) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/e)
+[^c-41038d21ce4ad01288f21bee3455a69b]: Textual amendment: Reg. 16(2)(ca)(cb) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/e)
 
-[^key-4c7d21da9c359bd019822c92e205cf46]: Textual amendment: Reg. 16(2)(da) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/f)
+[^c-4c7d21da9c359bd019822c92e205cf46]: Textual amendment: Reg. 16(2)(da) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/f)
 
-[^key-af2bcc153e0054cb9e468539bae41b7a]: Textual amendment: Reg. 16(2)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/g)
+[^c-af2bcc153e0054cb9e468539bae41b7a]: Textual amendment: Reg. 16(2)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(g)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/g)
 
 [^c23585631]: Marginal citation: [S.S.I. 2002/541](https://www.legislation.gov.uk/ssi/2002/541), amended by [S.I. 2005/2759](https://www.legislation.gov.uk/uksi/2005/2759) and [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043); and by [S.S.I. 2004/439](https://www.legislation.gov.uk/ssi/2004/439) and [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100).
 
@@ -3925,27 +3925,27 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23585661]: Marginal citation: S.R. [2003 No. 167](https://www.legislation.gov.uk/ukcm/2003/167).
 
-[^key-ddc68460d81278797449063cf6cf0bf6]: Textual amendment: Reg. 16(2)(g)-(gb) substituted for reg. 16(2)(g) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/h)
+[^c-ddc68460d81278797449063cf6cf0bf6]: Textual amendment: Reg. 16(2)(g)-(gb) substituted for reg. 16(2)(g) (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(h)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/h)
 
-[^key-a18d160515057bd5b90b64ac29afca77]: Textual amendment: Words in reg. 16(2)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/i)
+[^c-a18d160515057bd5b90b64ac29afca77]: Textual amendment: Words in reg. 16(2)(h) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/i)
 
-[^key-99b2dadaf877c18c5d6cc0e90c3617fb]: Textual amendment: Words in reg. 16(2)(h) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/i)[(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/ii)
+[^c-99b2dadaf877c18c5d6cc0e90c3617fb]: Textual amendment: Words in reg. 16(2)(h) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/i)[(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/ii)
 
-[^key-8f2a486382cafec993305c9de85cff74]: Textual amendment: Words in reg. 16(2)(h) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/i)[(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/iii)
+[^c-8f2a486382cafec993305c9de85cff74]: Textual amendment: Words in reg. 16(2)(h) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/i)[(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/iii)
 
-[^key-a8651684965dfb551fff34f69f0ba752]: Textual amendment: Words in reg. 16(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(j)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/j/i)
+[^c-a8651684965dfb551fff34f69f0ba752]: Textual amendment: Words in reg. 16(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(j)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/j/i)
 
-[^key-b6db5fd63314a91899bce4cd0ed0ccd3]: Textual amendment: Words in reg. 16(2)(i) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(j)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/j/ii)
+[^c-b6db5fd63314a91899bce4cd0ed0ccd3]: Textual amendment: Words in reg. 16(2)(i) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(j)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/j/ii)
 
-[^key-56e5ceaf826a5a05333979a1dd01ce27]: Textual amendment: Words in reg. 16(2)(i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(j)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/j/iii)
+[^c-56e5ceaf826a5a05333979a1dd01ce27]: Textual amendment: Words in reg. 16(2)(i) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(j)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/j/iii)
 
-[^key-e3743c90509582b8b998f73d642f0af6]: Textual amendment: Reg. 16(2)(j) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(k)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/k)
+[^c-e3743c90509582b8b998f73d642f0af6]: Textual amendment: Reg. 16(2)(j) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(k)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/k)
 
-[^key-c708dac2709b8686eacc52073201bc25]: Textual amendment: Words in reg. 16(2)(k) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(l)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/l/i)
+[^c-c708dac2709b8686eacc52073201bc25]: Textual amendment: Words in reg. 16(2)(k) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(l)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/l/i)
 
-[^key-8557f7d722176ad937b2562f67890bf5]: Textual amendment: Words in reg. 16(2)(k) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(l)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/l/ii)
+[^c-8557f7d722176ad937b2562f67890bf5]: Textual amendment: Words in reg. 16(2)(k) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(l)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/l/ii)
 
-[^key-c1b2e6577a8c5e51c69da716ff9a9a0a]: Textual amendment: Words in reg. 16(2)(k) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(l)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/l/iii)
+[^c-c1b2e6577a8c5e51c69da716ff9a9a0a]: Textual amendment: Words in reg. 16(2)(k) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(l)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/l/iii)
 
 [^c23585671]: Marginal citation: [S.I. 2015/1953](https://www.legislation.gov.uk/uksi/2015/1953), amended by [S.I. 2017/288](https://www.legislation.gov.uk/uksi/2017/288).
 
@@ -3953,99 +3953,99 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23585691]: Marginal citation: S.R. [2016 No. 190](https://www.legislation.gov.uk/ukcm/2016/190), amended by S.R. [2017 No. 155](https://www.legislation.gov.uk/ukcm/2017/155).
 
-[^key-7158c4a4a4a359a5f43b582a9e3500b8]: Textual amendment: Words in reg. 16(2)(n) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(m)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/m/i)
+[^c-7158c4a4a4a359a5f43b582a9e3500b8]: Textual amendment: Words in reg. 16(2)(n) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(m)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/m/i)
 
-[^key-8291b53fae33c9b4e87917aeb3cf6eb8]: Textual amendment: Words in reg. 16(2)(n) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(m)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/m/ii)
+[^c-8291b53fae33c9b4e87917aeb3cf6eb8]: Textual amendment: Words in reg. 16(2)(n) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(m)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/m/ii)
 
-[^key-733bea553f1e8260466ac4e3cfbae2ae]: Textual amendment: Words in reg. 16(2)(n) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(m)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/m/iii)
+[^c-733bea553f1e8260466ac4e3cfbae2ae]: Textual amendment: Words in reg. 16(2)(n) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(m)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/m/iii)
 
-[^key-fae98249dc0df2715dc8c2f0b3ee4ed8]: Textual amendment: Words in reg. 16(2)(o) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(n)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/n/i)
+[^c-fae98249dc0df2715dc8c2f0b3ee4ed8]: Textual amendment: Words in reg. 16(2)(o) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(n)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/n/i)
 
-[^key-8dad3a69814d8bb04b5715fd616bfbcc]: Textual amendment: Words in reg. 16(2)(o) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(n)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/n/ii)
+[^c-8dad3a69814d8bb04b5715fd616bfbcc]: Textual amendment: Words in reg. 16(2)(o) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(n)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/n/ii)
 
-[^key-0ee454f167b4a11555befafc96a5a5e5]: Textual amendment: Words in reg. 16(2)(o) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(n)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/n/iii)
+[^c-0ee454f167b4a11555befafc96a5a5e5]: Textual amendment: Words in reg. 16(2)(o) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(2)(n)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/2/n/iii)
 
-[^key-32be105fc5f3d318a26870f8faa22a6d]: Textual amendment: Reg. 16(3) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(3)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/3)
+[^c-32be105fc5f3d318a26870f8faa22a6d]: Textual amendment: Reg. 16(3) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(3)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/3)
 
-[^key-82477cf9de44ba882f565fff0a2b6bc8]: Textual amendment: Reg. 16(4)(za) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(4)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/4/a)
+[^c-82477cf9de44ba882f565fff0a2b6bc8]: Textual amendment: Reg. 16(4)(za) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(4)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/4/a)
 
-[^key-df4de41b719fc4c06963ce25266095ab]: Textual amendment: Reg. 16(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(4)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/4/b)
+[^c-df4de41b719fc4c06963ce25266095ab]: Textual amendment: Reg. 16(4)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(4)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/4/b)
 
-[^key-0693b204a451ae241be3b05520778e3b]: Textual amendment: Word in reg. 16(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(4)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/4/c)
+[^c-0693b204a451ae241be3b05520778e3b]: Textual amendment: Word in reg. 16(4)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(4)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/4/c)
 
-[^key-5ffb2e258045748c52d0aec58f76b54e]: Textual amendment: Words in reg. 16(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/a/i)
+[^c-5ffb2e258045748c52d0aec58f76b54e]: Textual amendment: Words in reg. 16(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/a/i)
 
-[^key-0b95d499755d36cf3c166f37cc3e4a40]: Textual amendment: Words in reg. 16(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/a/ii)
+[^c-0b95d499755d36cf3c166f37cc3e4a40]: Textual amendment: Words in reg. 16(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/a/ii)
 
-[^key-293edec17795a0d835c1caae954a1a6a]: Textual amendment: Words in reg. 16(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/a/iii)
+[^c-293edec17795a0d835c1caae954a1a6a]: Textual amendment: Words in reg. 16(5)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(a)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/a/iii)
 
-[^key-9e970d5715cebfc2795f8386f6f4d079]: Textual amendment: Reg. 16(5)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/b)
+[^c-9e970d5715cebfc2795f8386f6f4d079]: Textual amendment: Reg. 16(5)(aa) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/b)
 
-[^key-ca4d6a833b37bdbd4e90862304f50026]: Textual amendment: Reg. 16(5)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/c)
+[^c-ca4d6a833b37bdbd4e90862304f50026]: Textual amendment: Reg. 16(5)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(5)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/5/c)
 
-[^key-1978a66cd617f4e4e7965e042e0ea3dc]: Textual amendment: Words in reg. 16(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(6)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/6)
+[^c-1978a66cd617f4e4e7965e042e0ea3dc]: Textual amendment: Words in reg. 16(6) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(6)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/6)
 
-[^key-20f84cc803b3a369914efefad41b4b9c]: Textual amendment: Words in reg. 16(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(7)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/7)
+[^c-20f84cc803b3a369914efefad41b4b9c]: Textual amendment: Words in reg. 16(7)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(7)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/7)
 
-[^key-ede47e6de7909ec5451e23cb82999eb2]: Textual amendment: Word in reg. 16(8) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(8)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/8)
+[^c-ede47e6de7909ec5451e23cb82999eb2]: Textual amendment: Word in reg. 16(8) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(8)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/8)
 
-[^key-08ac7ee405a917debf0c8e981d0882ef]: Textual amendment: Word in reg. 16(9) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(9)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/9)
+[^c-08ac7ee405a917debf0c8e981d0882ef]: Textual amendment: Word in reg. 16(9) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(9)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/9)
 
-[^key-569f2a60bbd880174955cc6362b6a755]: Textual amendment: Words in reg. 16(10) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/10/a)
+[^c-569f2a60bbd880174955cc6362b6a755]: Textual amendment: Words in reg. 16(10) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(10)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/10/a)
 
-[^key-f43066e2e370d97f3e5265b9594480b8]: Textual amendment: Words in reg. 16(10) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/10/b)
+[^c-f43066e2e370d97f3e5265b9594480b8]: Textual amendment: Words in reg. 16(10) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(10)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/10/b)
 
-[^key-b9fdfa2d222e4fadef191d3288609707]: Textual amendment: Words in reg. 16(10) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(10)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/10/c)
+[^c-b9fdfa2d222e4fadef191d3288609707]: Textual amendment: Words in reg. 16(10) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(10)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/10/c)
 
-[^key-026a65ef4b3453a91a95cff12f4951b4]: Textual amendment: Word in reg. 16(11) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(11)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/11)
+[^c-026a65ef4b3453a91a95cff12f4951b4]: Textual amendment: Word in reg. 16(11) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(11)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/11)
 
-[^key-98cd9e6bee8873034422487fd72beac8]: Textual amendment: Words in reg. 16(13) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(12)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/12)
+[^c-98cd9e6bee8873034422487fd72beac8]: Textual amendment: Words in reg. 16(13) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(12)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/12)
 
-[^key-e9032ccd567e4ea8e22f9c3a582daebd]: Textual amendment: Word in reg. 16(14)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(13)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/13/a)
+[^c-e9032ccd567e4ea8e22f9c3a582daebd]: Textual amendment: Word in reg. 16(14)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(13)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/13/a)
 
-[^key-c2c93a9ad3eb3fc88ecb4937dbc27114]: Textual amendment: Word in reg. 16(14)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(13)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/13/a)
+[^c-c2c93a9ad3eb3fc88ecb4937dbc27114]: Textual amendment: Word in reg. 16(14)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(13)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/13/a)
 
-[^key-6bec5138292cde1ae503f1b2f7120c55]: Textual amendment: Reg. 16(14)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(13)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/13/b)
+[^c-6bec5138292cde1ae503f1b2f7120c55]: Textual amendment: Reg. 16(14)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(13)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/13/b)
 
-[^key-0e1e6374138c9b6878558d65bc9bc75e]: Textual amendment: Word in reg. 16(14)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(13)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/13/a)
+[^c-0e1e6374138c9b6878558d65bc9bc75e]: Textual amendment: Word in reg. 16(14)(d) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(13)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/13/a)
 
-[^key-d5bae858908132557b908d8e57ded016]: Textual amendment: Word in reg. 16(15)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/a/i)
+[^c-d5bae858908132557b908d8e57ded016]: Textual amendment: Word in reg. 16(15)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/a/i)
 
-[^key-9efddab81ebea583b7d05e9f2cae8686]: Textual amendment: Word in reg. 16(15)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/a/i)
+[^c-9efddab81ebea583b7d05e9f2cae8686]: Textual amendment: Word in reg. 16(15)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/a/i)
 
-[^key-f9f27575d5bcc51e21d0ca63dd57dcaf]: Textual amendment: Reg. 16(15)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/a/ii)
+[^c-f9f27575d5bcc51e21d0ca63dd57dcaf]: Textual amendment: Reg. 16(15)(a)(iii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/a/ii)
 
-[^key-cf2813879fadb2af3090c9e991839f84]: Textual amendment: Word in reg. 16(15)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/b/i)
+[^c-cf2813879fadb2af3090c9e991839f84]: Textual amendment: Word in reg. 16(15)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/b/i)
 
-[^key-ab85c0d014b34799da23c4b11724fd41]: Textual amendment: Reg. 16(15)(b)(ii)-(iv) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/b/ii)
+[^c-ab85c0d014b34799da23c4b11724fd41]: Textual amendment: Reg. 16(15)(b)(ii)-(iv) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(14)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/14/b/ii)
 
-[^key-df3116ae7eb96a41d1878c50afadf43e]: Textual amendment: Word in reg. 16(16)(a)-(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(15)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/15)
+[^c-df3116ae7eb96a41d1878c50afadf43e]: Textual amendment: Word in reg. 16(16)(a)-(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(15)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/15)
 
-[^key-4572c1a937ebbcc16bb629997323b930]: Textual amendment: Word in reg. 16(18)(b)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(16)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/16)
+[^c-4572c1a937ebbcc16bb629997323b930]: Textual amendment: Word in reg. 16(18)(b)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(16)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/16)
 
-[^key-b6fc338889eb0ed3ceac32dd63bcd111]: Textual amendment: Word in reg. 16(18)(c)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(16)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/16)
+[^c-b6fc338889eb0ed3ceac32dd63bcd111]: Textual amendment: Word in reg. 16(18)(c)(i)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(16)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/16)
 
-[^key-e0eb04eb57573be0521235b8cd4bd0fc]: Textual amendment: Word in reg. 16(20)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(17)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/17/a)
+[^c-e0eb04eb57573be0521235b8cd4bd0fc]: Textual amendment: Word in reg. 16(20)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(17)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/17/a)
 
-[^key-5c2d93b88b4d68362653652fa24c009e]: Textual amendment: Word in reg. 16(20)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(17)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/17/b)
+[^c-5c2d93b88b4d68362653652fa24c009e]: Textual amendment: Word in reg. 16(20)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(17)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/17/b)
 
-[^key-296121108ebc09581cc979e34d1ddc76]: Textual amendment: Word in reg. 16(20)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(17)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/17/c)
+[^c-296121108ebc09581cc979e34d1ddc76]: Textual amendment: Word in reg. 16(20)(c) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [17(17)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/17/17/c)
 
-[^key-4b1980eb62a0e40cac5956e2e588fce8]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-4b1980eb62a0e40cac5956e2e588fce8]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23585701]: Marginal citation: [S.S.I. 2016/68](https://www.legislation.gov.uk/ssi/2016/68), amended by [S.S.I. 2016/434](https://www.legislation.gov.uk/ssi/2016/434) and [S.S.I. 2017/179](https://www.legislation.gov.uk/ssi/2017/179).
 
-[^key-4bbfcb8d808f0b30a71cd66b33efa438]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
+[^c-4bbfcb8d808f0b30a71cd66b33efa438]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1/b)
 
 [^c23585711]: Marginal citation: [S.S.I. 2017/177](https://www.legislation.gov.uk/ssi/2017/177), amended by Part 2 of this instrument.
 
-[^key-80d49a29889bbb63dddf817a32dbac46]: Textual amendment: Word in reg. 18(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/a/i)
+[^c-80d49a29889bbb63dddf817a32dbac46]: Textual amendment: Word in reg. 18(2)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(a)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/a/i)
 
-[^key-3118e64e55050a661e16de16a22ec7e2]: Textual amendment: Words in reg. 18(2)(a) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/a/ii/aa)
+[^c-3118e64e55050a661e16de16a22ec7e2]: Textual amendment: Words in reg. 18(2)(a) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(a)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/a/ii/aa)
 
-[^key-f74981961810cf0be5a5e05f3f9e8b34]: Textual amendment: Words in reg. 18(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/a/ii/bb)
+[^c-f74981961810cf0be5a5e05f3f9e8b34]: Textual amendment: Words in reg. 18(2)(a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(a)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/a/ii/bb)
 
-[^key-1c94bb27fe6a580b4a85322e75c95166]: Textual amendment: Reg. 18(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/b)
+[^c-1c94bb27fe6a580b4a85322e75c95166]: Textual amendment: Reg. 18(2)(b) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/b)
 
 [^c23585721]: Marginal citation: [S.I. 2017/595](https://www.legislation.gov.uk/uksi/2017/595).
 
@@ -4061,52 +4061,52 @@ A business and regulatory impact assessment has not been produced for this instr
 
 [^c23585781]: Marginal citation: S.R. [2003 No. 167](https://www.legislation.gov.uk/ukcm/2003/167).
 
-[^key-4e3e3c25ef8f1c1577efa62c50d59f71]: Textual amendment: Word in reg. 18(2)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(c)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/c/i)
+[^c-4e3e3c25ef8f1c1577efa62c50d59f71]: Textual amendment: Word in reg. 18(2)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(c)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/c/i)
 
-[^key-3d7c899bc270f5dd71e7633c6852fc3f]: Textual amendment: Words in reg. 18(2)(e) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(c)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/c/ii/aa)
+[^c-3d7c899bc270f5dd71e7633c6852fc3f]: Textual amendment: Words in reg. 18(2)(e) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(c)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/c/ii/aa)
 
-[^key-e1646d453fdb07d5ed162f0c1cc0e02d]: Textual amendment: Words in reg. 18(2)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/c/ii/bb)
+[^c-e1646d453fdb07d5ed162f0c1cc0e02d]: Textual amendment: Words in reg. 18(2)(e) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(c)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/c/ii/bb)
 
-[^key-0690cb0798058f7ffd4cbcef726013e1]: Textual amendment: Word in reg. 18(2)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(d)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/d/i)
+[^c-0690cb0798058f7ffd4cbcef726013e1]: Textual amendment: Word in reg. 18(2)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(d)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/d/i)
 
-[^key-0a43ea9041133c24642cb47eb7e01ff5]: Textual amendment: Words in reg. 18(2)(f) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(d)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/d/ii/aa)
+[^c-0a43ea9041133c24642cb47eb7e01ff5]: Textual amendment: Words in reg. 18(2)(f) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(d)(ii)(aa)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/d/ii/aa)
 
-[^key-fddd2ec67618eb8529149c053159cf60]: Textual amendment: Words in reg. 18(2)(f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(d)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/d/ii/bb)
+[^c-fddd2ec67618eb8529149c053159cf60]: Textual amendment: Words in reg. 18(2)(f) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(d)(ii)(bb)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/d/ii/bb)
 
 [^c23585791]: Marginal citation: The definition of “plant variety rights” is amended by Part 2 of this instrument.
 
-[^key-0378dfde1f5fc0025799f56c79128419]: Textual amendment: Word in reg. 18(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/e)
+[^c-0378dfde1f5fc0025799f56c79128419]: Textual amendment: Word in reg. 18(2)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(e)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/e)
 
-[^key-e62b655385b659ee9846193481720788]: Textual amendment: Reg. 18(2)(ja) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/f)
+[^c-e62b655385b659ee9846193481720788]: Textual amendment: Reg. 18(2)(ja) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(2)(f)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/2/f)
 
-[^key-111c4ab1f377efa9c83ade6add40948f]: Textual amendment: Words in reg. 18(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/3/a)
+[^c-111c4ab1f377efa9c83ade6add40948f]: Textual amendment: Words in reg. 18(3)(a) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(3)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/3/a)
 
-[^key-9ec9211c531b22487eb44813a33e7237]: Textual amendment: Word in reg. 18(3)(b) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(3)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/3/b/i)
+[^c-9ec9211c531b22487eb44813a33e7237]: Textual amendment: Word in reg. 18(3)(b) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(3)(b)(i)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/3/b/i)
 
-[^key-c816a66258ef0c5f7329e678545a1aee]: Textual amendment: Word in reg. 18(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/3/b/ii)
+[^c-c816a66258ef0c5f7329e678545a1aee]: Textual amendment: Word in reg. 18(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(3)(b)(ii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/3/b/ii)
 
-[^key-76b64e88a25dc7d3bb56b7ead614f7d2]: Textual amendment: Words in reg. 18(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/3/b/iii)
+[^c-76b64e88a25dc7d3bb56b7ead614f7d2]: Textual amendment: Words in reg. 18(3)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(3)(b)(iii)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/3/b/iii)
 
-[^key-2b875f18710f77e8023dabdf7607e559]: Textual amendment: Reg. 18(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/4)
+[^c-2b875f18710f77e8023dabdf7607e559]: Textual amendment: Reg. 18(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(4)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/4)
 
-[^key-638f755c623b070d2b0ba603d3082f22]: Textual amendment: Reg. 18(4A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/5)
+[^c-638f755c623b070d2b0ba603d3082f22]: Textual amendment: Reg. 18(4A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(5)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/5)
 
-[^key-f0164cc5f3f843e5a9659d798b592b30]: Textual amendment: Words in reg. 18(5) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/6/a)
+[^c-f0164cc5f3f843e5a9659d798b592b30]: Textual amendment: Words in reg. 18(5) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(6)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/6/a)
 
-[^key-1ad7f434a750e13b946d2af50c6c5dbc]: Textual amendment: Words in reg. 18(5) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/6/b)
+[^c-1ad7f434a750e13b946d2af50c6c5dbc]: Textual amendment: Words in reg. 18(5) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(6)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/6/b)
 
-[^key-07c30796d3c4b797b1df684114b317ca]: Textual amendment: Reg. 18(6)(d)-(f) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(7)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/7)
+[^c-07c30796d3c4b797b1df684114b317ca]: Textual amendment: Reg. 18(6)(d)-(f) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(7)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/7)
 
 [^c23585811]: Marginal citation: Paragraph 1 is amended by Part 2 of this instrument.
 
-[^key-70debfdaafb390d643429cac1bd25039]: Textual amendment: Words in reg. 18(7)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(8)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/8/a)
+[^c-70debfdaafb390d643429cac1bd25039]: Textual amendment: Words in reg. 18(7)(b)(i) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(8)(a)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/8/a)
 
-[^key-853b4785fe5c5f3a5dae68c110130a55]: Textual amendment: Words in reg. 18(7)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(8)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/8/b)
+[^c-853b4785fe5c5f3a5dae68c110130a55]: Textual amendment: Words in reg. 18(7)(c)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(8)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/8/b)
 
-[^key-4486dc7e208069dee41905ae43c86ac1]: Textual amendment: Words in reg. 18(7)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(8)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/8/c)
+[^c-4486dc7e208069dee41905ae43c86ac1]: Textual amendment: Words in reg. 18(7)(e) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(8)(c)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/8/c)
 
-[^key-9ce718e7c5fbc9730bd41464968310bb]: Textual amendment: Words in reg. 18(7)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(8)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/8/d)
+[^c-9ce718e7c5fbc9730bd41464968310bb]: Textual amendment: Words in reg. 18(7)(f) substituted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(8)(d)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/8/d)
 
-[^key-a0660f2015106d96fcf851705b0093ac]: Textual amendment: Reg. 18(8)(c)(iii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(9)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/9)
+[^c-a0660f2015106d96fcf851705b0093ac]: Textual amendment: Reg. 18(8)(c)(iii) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(9)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/9)
 
-[^key-1fd3202dd7530507f97229a5506f7292]: Textual amendment: Reg. 18(8A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(10)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/10)
+[^c-1fd3202dd7530507f97229a5506f7292]: Textual amendment: Reg. 18(8A) inserted (31.12.2020 immediately before IP completion day) by [The Seed, Plant Propagating Material and Forest Reproductive Material (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/445)](https://www.legislation.gov.uk/ssi/2020/445), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2020/445/regulation/1/1/b), [18(10)](https://www.legislation.gov.uk/ssi/2020/445/regulation/18/10)

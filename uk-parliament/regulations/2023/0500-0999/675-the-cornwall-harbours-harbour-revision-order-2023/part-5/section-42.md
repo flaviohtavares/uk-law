@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Payment of charges[^key-a53abf4d5fd3c81c28b7b59107056e0e]
+## 42. Payment of charges[^c-a53abf4d5fd3c81c28b7b59107056e0e]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ until such charges have been paid in full.
 
 ## Annotations
 
-[^key-a53abf4d5fd3c81c28b7b59107056e0e]: Commencement: Art. 42 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)
+[^c-a53abf4d5fd3c81c28b7b59107056e0e]: Commencement: Art. 42 in force at 14.7.2023, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/675/article/1/1)

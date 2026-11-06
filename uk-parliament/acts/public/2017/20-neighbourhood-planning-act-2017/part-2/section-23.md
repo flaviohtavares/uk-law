@@ -41,7 +41,7 @@ summary: ''
 - (b) to the terms on which the land may reasonably have been expected to be available for those purposes, and
 - (c) to the availability of other land suitable for those purposes during the period of temporary possession.
 
-(5A)[^key-2a2042affb445e3ba868e00154a43f69] For the purposes of subsections (2) and (3), the person is not entitled to compensation under this section by virtue of being the person entitled to the benefit of an obligation under a conservation covenant.
+(5A)[^c-2a2042affb445e3ba868e00154a43f69] For the purposes of subsections (2) and (3), the person is not entitled to compensation under this section by virtue of being the person entitled to the benefit of an obligation under a conservation covenant.
 
 (6) For the purposes of section 9 of the Limitation Act 1980, a cause of action for compensation under this section which, apart from this subsection, would accrue before or during a period of compulsory temporary possession for which notice is given under section 20 is to be treated as accruing on the last day of the period.
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a2042affb445e3ba868e00154a43f69]: Textual amendment: [S. 23(5A)](https://www.legislation.gov.uk/ukpga/2017/20/section/23/5A) inserted (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/20/paragraph/10) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/d)
+[^c-2a2042affb445e3ba868e00154a43f69]: Textual amendment: [S. 23(5A)](https://www.legislation.gov.uk/ukpga/2017/20/section/23/5A) inserted (30.9.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 20 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/20/paragraph/10) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/d)

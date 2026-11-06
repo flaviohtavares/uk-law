@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Director disqualification: licensing offences[^key-4de91055a9173a6511b7a9e6655b2cad]
+## 38A. Director disqualification: licensing offences[^c-4de91055a9173a6511b7a9e6655b2cad]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ for the purpose of obtaining a director disqualification licence (whether for P 
 
 ## Annotations
 
-[^key-4de91055a9173a6511b7a9e6655b2cad]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/uksi/2019/135/regulation/38A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/7)
+[^c-4de91055a9173a6511b7a9e6655b2cad]: Textual amendment: [Reg. 38A](https://www.legislation.gov.uk/uksi/2019/135/regulation/38A) inserted (16.5.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments and Revocations) Regulations 2024 (S.I. 2024/643)](https://www.legislation.gov.uk/uksi/2024/643), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/643/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2024/643/regulation/2/7)

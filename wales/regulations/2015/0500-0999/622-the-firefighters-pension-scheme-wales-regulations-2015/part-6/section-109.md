@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 109. Payment of pensions under this Part[^key-c26147fd2e448bad26daae0b873b4885]
+## 109. Payment of pensions under this Part[^c-c26147fd2e448bad26daae0b873b4885]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c26147fd2e448bad26daae0b873b4885]: Commencement: Reg. 109 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-c26147fd2e448bad26daae0b873b4885]: Commencement: Reg. 109 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

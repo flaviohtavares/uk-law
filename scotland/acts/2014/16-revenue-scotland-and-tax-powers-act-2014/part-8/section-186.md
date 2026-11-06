@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 186. Penalty for failure to notify under-assessment[^key-28d1d07498bad24c030383a1520b1fc1]
+## 186. Penalty for failure to notify under-assessment[^c-28d1d07498bad24c030383a1520b1fc1]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28d1d07498bad24c030383a1520b1fc1]: Commencement: [S. 186](https://www.legislation.gov.uk/asp/2014/16/section/186) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-28d1d07498bad24c030383a1520b1fc1]: Commencement: [S. 186](https://www.legislation.gov.uk/asp/2014/16/section/186) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

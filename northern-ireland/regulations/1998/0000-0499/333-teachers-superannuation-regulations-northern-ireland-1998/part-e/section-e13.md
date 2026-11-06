@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E13. Pensioner ceasing to be incapacitated[^key-5b3036b4a001902d02f690bf594a938e]
+## E13. Pensioner ceasing to be incapacitated[^c-5b3036b4a001902d02f690bf594a938e]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b3036b4a001902d02f690bf594a938e]: Commencement: Reg. E13 in operation at 2.11.1998, see reg. A1
+[^c-5b3036b4a001902d02f690bf594a938e]: Commencement: Reg. E13 in operation at 2.11.1998, see reg. A1

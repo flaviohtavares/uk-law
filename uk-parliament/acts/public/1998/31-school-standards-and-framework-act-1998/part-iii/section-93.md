@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Fixing admission numbers.[^key-afa200aefae61d7a1581c35ba59cfe3d]
+## 93. Fixing admission numbers.[^c-afa200aefae61d7a1581c35ba59cfe3d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afa200aefae61d7a1581c35ba59cfe3d]: Textual amendment: S. 93 repealed (1.10.2002 for E., 1.2.2006 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4) and S.I. 2006/173, reg. 5); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2002/2439/schedule/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2002/2439/schedule/paragraph/5)); [S.I. 2006/172](https://www.legislation.gov.uk/uksi/2006/172), [art. 4](https://www.legislation.gov.uk/uksi/2006/172/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/172/schedule)
+[^c-afa200aefae61d7a1581c35ba59cfe3d]: Textual amendment: S. 93 repealed (1.10.2002 for E., 1.2.2006 for W.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4) and S.I. 2006/173, reg. 5); [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2002/2439/article/4), [Sch. paras. 3](https://www.legislation.gov.uk/uksi/2002/2439/schedule/paragraph/3), [5](https://www.legislation.gov.uk/uksi/2002/2439/schedule/paragraph/5)); [S.I. 2006/172](https://www.legislation.gov.uk/uksi/2006/172), [art. 4](https://www.legislation.gov.uk/uksi/2006/172/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/172/schedule)

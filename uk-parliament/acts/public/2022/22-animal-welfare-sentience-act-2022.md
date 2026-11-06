@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Animal Sentience Committee
 
-### 1. Animal Sentience Committee[^key-03437c600e1d2d414e5a9a4f91c871b0][^key-24845568f31137b449d451d6765abc6d]
+### 1. Animal Sentience Committee[^c-03437c600e1d2d414e5a9a4f91c871b0][^c-24845568f31137b449d451d6765abc6d]
 
 (1) The Secretary of State must establish and maintain a committee called the Animal Sentience Committee.
 
@@ -46,7 +46,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (3) The appointment of a person to the Committee is to be on such terms as the Secretary of State may determine when making the appointment.
 
-### 2. Reports of the Committee[^key-eabd8536b8085b120115726617fd0ae3][^key-eefe51d2f42501c0e8277b167cfe7c2d]
+### 2. Reports of the Committee[^c-eabd8536b8085b120115726617fd0ae3][^c-eefe51d2f42501c0e8277b167cfe7c2d]
 
 (1) When any government policy is being or has been formulated or implemented, the Animal Sentience Committee may produce a report containing its views on the question in subsection (2).
 
@@ -68,7 +68,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (b) the provision would be within the legislative competence of Senedd Cymru if contained in Act of the Senedd (including any provision that could only be made with the consent of a Minister of the Crown), and
 - (c) the provision would be within the legislative competence of the Northern Ireland Assembly if contained in an Act of that Assembly made without the Secretary of State’s consent.
 
-### 3. Response to reports[^key-4621d7a762abfbd7d22e3871399eb940][^key-275574fedc0c6680fd84e22547c9b877]
+### 3. Response to reports[^c-4621d7a762abfbd7d22e3871399eb940][^c-275574fedc0c6680fd84e22547c9b877]
 
 (1) Where the Animal Sentience Committee publishes a report under section 2, the Secretary of State must lay a response to the report before Parliament within the period specified in subsection (2).
 
@@ -81,7 +81,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Supplementary and general
 
-### 4. Information[^key-dd4872e0905c3b5f0915efc44db4c75b][^key-2f5a86a5e010f9bcb55ea25c6ea606f9]
+### 4. Information[^c-dd4872e0905c3b5f0915efc44db4c75b][^c-2f5a86a5e010f9bcb55ea25c6ea606f9]
 
 (1) In Schedule 1 to the Public Records Act 1958 (definition of public records), in Part 1 of the table, in the second column, after the entry relating to Agricultural Wages Committees insert—
 
@@ -93,7 +93,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 > - The Animal Sentience Committee.
 
-### 5. Interpretation[^key-60652fc50f1fa8a7104cc9f0c2dea12d][^key-37528e3ce817dadf1e89440596f35443]
+### 5. Interpretation[^c-60652fc50f1fa8a7104cc9f0c2dea12d][^c-37528e3ce817dadf1e89440596f35443]
 
 (1) In this Act “**animal**” means—
 
@@ -109,7 +109,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (5) In this section “vertebrate” and “invertebrate” have the meanings given by section 1(5) of the Animal Welfare Act 2006.
 
-### 6. Extent, commencement and short title[^key-5e7e87ba630fb12349c3502edfd6b4e0]
+### 6. Extent, commencement and short title[^c-5e7e87ba630fb12349c3502edfd6b4e0]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -121,24 +121,24 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-03437c600e1d2d414e5a9a4f91c871b0]: Commencement: S. 1 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+[^c-03437c600e1d2d414e5a9a4f91c871b0]: Commencement: S. 1 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
 
-[^key-24845568f31137b449d451d6765abc6d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/22/section/1) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+[^c-24845568f31137b449d451d6765abc6d]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2022/22/section/1) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
 
-[^key-eabd8536b8085b120115726617fd0ae3]: Commencement: S. 2 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+[^c-eabd8536b8085b120115726617fd0ae3]: Commencement: S. 2 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
 
-[^key-eefe51d2f42501c0e8277b167cfe7c2d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/22/section/2) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+[^c-eefe51d2f42501c0e8277b167cfe7c2d]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2022/22/section/2) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
 
-[^key-4621d7a762abfbd7d22e3871399eb940]: Commencement: S. 3 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+[^c-4621d7a762abfbd7d22e3871399eb940]: Commencement: S. 3 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
 
-[^key-275574fedc0c6680fd84e22547c9b877]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/22/section/3) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+[^c-275574fedc0c6680fd84e22547c9b877]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2022/22/section/3) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
 
-[^key-dd4872e0905c3b5f0915efc44db4c75b]: Commencement: S. 4 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+[^c-dd4872e0905c3b5f0915efc44db4c75b]: Commencement: S. 4 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
 
-[^key-2f5a86a5e010f9bcb55ea25c6ea606f9]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/22/section/4) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+[^c-2f5a86a5e010f9bcb55ea25c6ea606f9]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2022/22/section/4) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
 
-[^key-60652fc50f1fa8a7104cc9f0c2dea12d]: Commencement: S. 5 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
+[^c-60652fc50f1fa8a7104cc9f0c2dea12d]: Commencement: S. 5 not in force at Royal Assent, see [s. 6(2)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/2)
 
-[^key-37528e3ce817dadf1e89440596f35443]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/22/section/5) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
+[^c-37528e3ce817dadf1e89440596f35443]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2022/22/section/5) in force at 22.5.2023 by [S.I. 2023/563](https://www.legislation.gov.uk/uksi/2023/563), [reg. 2](https://www.legislation.gov.uk/uksi/2023/563/regulation/2)
 
-[^key-5e7e87ba630fb12349c3502edfd6b4e0]: Commencement: S. 6 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/3)
+[^c-5e7e87ba630fb12349c3502edfd6b4e0]: Commencement: S. 6 in force at Royal Assent, see [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/22/section/6/3)

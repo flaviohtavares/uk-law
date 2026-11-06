@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8.6. Appointment of solicitor by court[^key-2d5b9ac9e1eb8d866bdf72b52595a51a]
+## 3.8.6. Appointment of solicitor by court[^c-2d5b9ac9e1eb8d866bdf72b52595a51a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the patient has indicated that he wishes to be represented at the hearing 
 
 ## Annotations
 
-[^key-2d5b9ac9e1eb8d866bdf72b52595a51a]: Commencement: Rule 3.8.6 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)
+[^c-2d5b9ac9e1eb8d866bdf72b52595a51a]: Commencement: Rule 3.8.6 in force at 1.7.1999, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1999/929/rule/1.1/1)

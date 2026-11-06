@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 148C. False statements made in response to interview notices[^key-820044391a685be40d41c5c8cf8e22e4]
+## 148C. False statements made in response to interview notices[^c-820044391a685be40d41c5c8cf8e22e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ It is an offence for an individual, in response to an interview notice—
 
 ## Annotations
 
-[^key-820044391a685be40d41c5c8cf8e22e4]: Textual amendment: Ss. 148A-148C and cross-heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
+[^c-820044391a685be40d41c5c8cf8e22e4]: Textual amendment: Ss. 148A-148C and cross-heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)

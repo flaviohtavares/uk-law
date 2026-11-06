@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. The schools budget[^key-6f531d2195cdfe8b99ec8ca4fa1abd76]
+## 5. The schools budget[^c-6f531d2195cdfe8b99ec8ca4fa1abd76]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f531d2195cdfe8b99ec8ca4fa1abd76]: Commencement: Reg. 5 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-6f531d2195cdfe8b99ec8ca4fa1abd76]: Commencement: Reg. 5 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00027]: Footnote: Non-maintained special schools are approved and regulated by regulations made under section 342 of the 1996 Act. Section 342 was substituted by paragraph 82 of Schedule 30 to the 1998 Act.

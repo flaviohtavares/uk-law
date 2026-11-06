@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Effect of transfer on membership of scheme etc[^key-d5241a62b1914cb29066b36e7911deaf]
+## 27. Effect of transfer on membership of scheme etc[^c-d5241a62b1914cb29066b36e7911deaf]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5241a62b1914cb29066b36e7911deaf]: Commencement: S. 27 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)
+[^c-d5241a62b1914cb29066b36e7911deaf]: Commencement: S. 27 in force at Royal Assent, see [s. 133(4)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/4/b)

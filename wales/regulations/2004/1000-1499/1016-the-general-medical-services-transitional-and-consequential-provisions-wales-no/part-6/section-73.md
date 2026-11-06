@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Determination of a Local Health Board or the Assembly made before the relevant date (regulation 8, 9, 10 and 11 of the Service Committees Regulations)[^key-b52a459ad7ce23c487c70e527ad16118]
+## 73. Determination of a Local Health Board or the Assembly made before the relevant date (regulation 8, 9, 10 and 11 of the Service Committees Regulations)[^c-b52a459ad7ce23c487c70e527ad16118]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b52a459ad7ce23c487c70e527ad16118]: Commencement: Art. 73 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-b52a459ad7ce23c487c70e527ad16118]: Commencement: Art. 73 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

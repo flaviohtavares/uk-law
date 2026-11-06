@@ -40,17 +40,17 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S*
 
-### 1. Registration of societies as co-operative or community benefit societies[^key-4eeec6d2bb47ca9ca143ff99e833d662][^key-f2258b44e1fc579138d25713c32a31bf]
+### 1. Registration of societies as co-operative or community benefit societies[^c-4eeec6d2bb47ca9ca143ff99e833d662][^c-f2258b44e1fc579138d25713c32a31bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Re-naming of Industrial and Provident Societies Acts[^key-1d24950e88e7c28d386417a560039059]
+### 2. Re-naming of Industrial and Provident Societies Acts[^c-1d24950e88e7c28d386417a560039059]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application of provisions relating to directors disqualification[^key-d09363e726e966b7bd44c32c6cb17b9d]
+### 3. Application of provisions relating to directors disqualification[^c-d09363e726e966b7bd44c32c6cb17b9d]
 
 In the Company Directors Disqualification Act 1986 (c. 46), after section 22D insert—
 
@@ -83,13 +83,13 @@ In the Company Directors Disqualification Act 1986 (c. 46), after section 22D in
 
 .
 
-### 4. Power to apply certain other provisions relating to companies[^key-982fdfcfaa77e792fd926776f38b6914]
+### 4. Power to apply certain other provisions relating to companies[^c-982fdfcfaa77e792fd926776f38b6914]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Credit unions
 
-### 5. Power to make provision corresponding to provision applying to building societies[^key-197846068d8519e7a16aaf6f0bf7e8b6]
+### 5. Power to make provision corresponding to provision applying to building societies[^c-197846068d8519e7a16aaf6f0bf7e8b6]
 
 (1) In the Credit Unions Act 1979 (c. 34), before section 24 (under the heading “General and miscellaneous”) insert—
 
@@ -137,7 +137,7 @@ In the Company Directors Disqualification Act 1986 (c. 46), after section 22D in
 
 ## Supplementary provisions
 
-### 6. Consequential amendments[^key-5a727067fce775f6e8747429dccbf3c8]
+### 6. Consequential amendments[^c-5a727067fce775f6e8747429dccbf3c8]
 
 (1) The Treasury may by regulations make such amendments of enactments as appear to them to be appropriate in consequence of any provision made by or under this Act.
 
@@ -152,7 +152,7 @@ In the Company Directors Disqualification Act 1986 (c. 46), after section 22D in
 
 (4) The power conferred by this section may, in particular, be exercised so as to replace the words “industrial and provident society” wherever occurring (including in the title of an enactment).
 
-### 7. Regulations[^key-5f41dad3c245176612e0115ea1a4935d]
+### 7. Regulations[^c-5f41dad3c245176612e0115ea1a4935d]
 
 *Extent: E+W+S*
 
@@ -182,18 +182,18 @@ Any such Order in Council may make such transitional, incidental or supplementar
 
 ## Annotations
 
-[^key-4eeec6d2bb47ca9ca143ff99e833d662]: Textual amendment: S. 1 repealed (1.8.2014 immediately after Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7), s. 1 comes into force) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-4eeec6d2bb47ca9ca143ff99e833d662]: Textual amendment: S. 1 repealed (1.8.2014 immediately after Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7), s. 1 comes into force) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-f2258b44e1fc579138d25713c32a31bf]: Commencement: S. 1 in force at 1.8.2014 by [S.I. 2014/183](https://www.legislation.gov.uk/uksi/2014/183), [art. 3](https://www.legislation.gov.uk/uksi/2014/183/article/3)
+[^c-f2258b44e1fc579138d25713c32a31bf]: Commencement: S. 1 in force at 1.8.2014 by [S.I. 2014/183](https://www.legislation.gov.uk/uksi/2014/183), [art. 3](https://www.legislation.gov.uk/uksi/2014/183/article/3)
 
-[^key-1d24950e88e7c28d386417a560039059]: Textual amendment: S. 2 repealed (1.8.2014 immediately after Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7), s. 1 comes into force) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-1d24950e88e7c28d386417a560039059]: Textual amendment: S. 2 repealed (1.8.2014 immediately after Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7), s. 1 comes into force) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-d09363e726e966b7bd44c32c6cb17b9d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/7/section/3) in force at 6.4.2014 by [S.I. 2014/183](https://www.legislation.gov.uk/uksi/2014/183), [art. 2](https://www.legislation.gov.uk/uksi/2014/183/article/2)
+[^c-d09363e726e966b7bd44c32c6cb17b9d]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/7/section/3) in force at 6.4.2014 by [S.I. 2014/183](https://www.legislation.gov.uk/uksi/2014/183), [art. 2](https://www.legislation.gov.uk/uksi/2014/183/article/2)
 
-[^key-982fdfcfaa77e792fd926776f38b6914]: Textual amendment: S. 4 repealed (1.8.2014 immediately after Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7), s. 1 comes into force) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-982fdfcfaa77e792fd926776f38b6914]: Textual amendment: S. 4 repealed (1.8.2014 immediately after Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7), s. 1 comes into force) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-197846068d8519e7a16aaf6f0bf7e8b6]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2010/7/section/5) in force at 1.12.2013 by [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)
+[^c-197846068d8519e7a16aaf6f0bf7e8b6]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2010/7/section/5) in force at 1.12.2013 by [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)
 
-[^key-5a727067fce775f6e8747429dccbf3c8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2010/7/section/6) in force at 1.12.2013 by [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)
+[^c-5a727067fce775f6e8747429dccbf3c8]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2010/7/section/6) in force at 1.12.2013 by [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)
 
-[^key-5f41dad3c245176612e0115ea1a4935d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2010/7/section/7) in force at 1.12.2013 by [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)
+[^c-5f41dad3c245176612e0115ea1a4935d]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2010/7/section/7) in force at 1.12.2013 by [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)

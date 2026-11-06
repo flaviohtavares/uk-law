@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 115. Schedule 1 (payments for added pension)[^key-fb59f814e5262783ad55533300d6ea33]
+## 115. Schedule 1 (payments for added pension)[^c-fb59f814e5262783ad55533300d6ea33]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 1 has effect (including as to the deduction of payments for added pensi
 
 ## Annotations
 
-[^key-fb59f814e5262783ad55533300d6ea33]: Commencement: [Reg. 115](https://www.legislation.gov.uk/ssi/2015/19/regulation/115) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-fb59f814e5262783ad55533300d6ea33]: Commencement: [Reg. 115](https://www.legislation.gov.uk/ssi/2015/19/regulation/115) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)

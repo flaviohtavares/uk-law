@@ -58,7 +58,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 (3) Regulations 2, 3, 5 and 6 come into force on 1st October 2011.
 
-(4)[^key-2673a0500d9562e2617ab6faa1dd5242] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2673a0500d9562e2617ab6faa1dd5242] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) A direction given under section 1242(4) of the Companies Act 2006 by virtue of the amendments made by regulation 4 does not apply in respect of the audit of accounts for a period beginning before 2nd July 2010.
 
@@ -223,7 +223,7 @@ A transposition note has been prepared which sets out how Directive [2006/43/EC]
 
 [^c20955211]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-2673a0500d9562e2617ab6faa1dd5242]: Textual amendment: Reg. 1(4) revoked (31.7.2013) by [The Statutory Auditors and Third Country Auditors Regulations 2013 (S.I. 2013/1672)](https://www.legislation.gov.uk/uksi/2013/1672), reg. 2, [Sch.](https://www.legislation.gov.uk/uksi/2013/1672/schedule)
+[^c-2673a0500d9562e2617ab6faa1dd5242]: Textual amendment: Reg. 1(4) revoked (31.7.2013) by [The Statutory Auditors and Third Country Auditors Regulations 2013 (S.I. 2013/1672)](https://www.legislation.gov.uk/uksi/2013/1672), reg. 2, [Sch.](https://www.legislation.gov.uk/uksi/2013/1672/schedule)
 
 [^c20955221]: Marginal citation: [2004 c.27](https://www.legislation.gov.uk/ukpga/2004/27). Section 16(2)(f) was amended by paragraphs 1(1) and (2) of Schedule 14 to the [Companies Act 2006 (c.46)](https://www.legislation.gov.uk/ukpga/2006/46). There are other amendments to section 16 not relevant to these Regulations.
 

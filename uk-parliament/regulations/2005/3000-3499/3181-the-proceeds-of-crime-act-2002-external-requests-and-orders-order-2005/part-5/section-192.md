@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Victims of theft etc.[^key-e508dee514fb05cd89db94df818e6da3]
+## 192. Victims of theft etc.[^c-e508dee514fb05cd89db94df818e6da3]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e508dee514fb05cd89db94df818e6da3]: Commencement: [Art. 192](https://www.legislation.gov.uk/uksi/2005/3181/article/192) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-e508dee514fb05cd89db94df818e6da3]: Commencement: [Art. 192](https://www.legislation.gov.uk/uksi/2005/3181/article/192) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

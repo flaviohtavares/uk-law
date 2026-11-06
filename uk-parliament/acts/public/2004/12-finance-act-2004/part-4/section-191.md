@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 191. Methods of giving relief[^key-81038e06e8e791a5c55c21c72cccedd7][^key-2a8a1cd66ca0fae24783c53ac32d5621]
+## 191. Methods of giving relief[^c-81038e06e8e791a5c55c21c72cccedd7][^c-2a8a1cd66ca0fae24783c53ac32d5621]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-81038e06e8e791a5c55c21c72cccedd7]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
+[^c-81038e06e8e791a5c55c21c72cccedd7]: Commencement: Ss. 160-274, 281, Schs. 30-35 in force at 6.4.2006 but any power to make an order or regulations under those provisions may be exercised at any time after Royal Assent, see [s. 284](https://www.legislation.gov.uk/ukpga/2004/12/section/284)
 
-[^key-2a8a1cd66ca0fae24783c53ac32d5621]: Modification: Pt. 4 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 35 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/35/paragraph/18)
+[^c-2a8a1cd66ca0fae24783c53ac32d5621]: Modification: Pt. 4 applied (21.7.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 35 para. 18](https://www.legislation.gov.uk/ukpga/2009/10/schedule/35/paragraph/18)

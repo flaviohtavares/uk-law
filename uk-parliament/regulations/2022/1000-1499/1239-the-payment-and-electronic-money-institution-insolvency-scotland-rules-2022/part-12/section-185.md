@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 185. Notifications relating to documents[^key-5fb5526774bd861b8adb1d961438f2d4]
+## 185. Notifications relating to documents[^c-5fb5526774bd861b8adb1d961438f2d4]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In addition to the information required by rule 183, a notification relating to 
 
 ## Annotations
 
-[^key-5fb5526774bd861b8adb1d961438f2d4]: Commencement: Rule 185 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-5fb5526774bd861b8adb1d961438f2d4]: Commencement: Rule 185 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

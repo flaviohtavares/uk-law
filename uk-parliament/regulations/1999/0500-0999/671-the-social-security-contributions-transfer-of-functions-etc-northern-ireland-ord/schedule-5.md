@@ -24,7 +24,7 @@ Article 6
 
 ### Supply of information
 
-**1.**[^key-bf704ad7e7d2a6b8c59e2af1b879877a][^key-094ec88831ac10ee4160efbc07f0a6c0] In Part VII of the Administration Act, before section 116[^f00094] (and the italic heading “Information held by tax authorities” preceding it) there is inserted—
+**1.**[^c-bf704ad7e7d2a6b8c59e2af1b879877a][^c-094ec88831ac10ee4160efbc07f0a6c0] In Part VII of the Administration Act, before section 116[^f00094] (and the italic heading “Information held by tax authorities” preceding it) there is inserted—
 
 > **Information relating to, or required for purposes of, contributions, statutory sick pay or statutory maternity pay**
 >
@@ -60,13 +60,13 @@ Article 6
 
 .
 
-**2.**[^key-07cf0eafd60965d827c03fc01a115d29][^key-12a86066b2b2b6694909d00e085ef5ee] (1) Section 116 of that Act (supply of information held by tax authorities for fraud prevention and verification) is amended as follows.
+**2.**[^c-07cf0eafd60965d827c03fc01a115d29][^c-12a86066b2b2b6694909d00e085ef5ee] (1) Section 116 of that Act (supply of information held by tax authorities for fraud prevention and verification) is amended as follows.
 
-(2)[^key-6f79bd97932e20c1df99afa03cec61a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6f79bd97932e20c1df99afa03cec61a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (2)(b), the word “, contributions” is omitted.
 
-**3.**[^key-0baaa0bdba0bcf5b178cc21638703f59][^key-2e9463bb4b1d4fa5948afc0fc020d118] After section 116 of that Act there is inserted—
+**3.**[^c-0baaa0bdba0bcf5b178cc21638703f59][^c-2e9463bb4b1d4fa5948afc0fc020d118] After section 116 of that Act there is inserted—
 
 > **116AA. Disclosure of contributions, etc. information by Inland Revenue.**
 >
@@ -82,16 +82,16 @@ Article 6
 > - (c) the Northern Ireland Statistical and Research Agency, and
 > - (d) the Occupational Pensions Regulatory Authority.
 
-**4.**[^key-c6ba35a9627045fbc67e2b112c462731][^key-80a2969182f7ec2b0ced16e5e143c851] Section 116A[^f00095] of that Act (supply of information by Inland Revenue for purposes of contributions) shall cease to have effect.
+**4.**[^c-c6ba35a9627045fbc67e2b112c462731][^c-80a2969182f7ec2b0ced16e5e143c851] Section 116A[^f00095] of that Act (supply of information by Inland Revenue for purposes of contributions) shall cease to have effect.
 
-**5.**[^key-9a08e5ff6fd9d38899a263efee93164c][^key-2647c99967c57c61ee0bf5ae7fa1d8eb] In section 116B(2)(b)[^f00096] of that Act (supply of other government information for fraud prevention and verification), the word “, contributions” is omitted.
+**5.**[^c-9a08e5ff6fd9d38899a263efee93164c][^c-2647c99967c57c61ee0bf5ae7fa1d8eb] In section 116B(2)(b)[^f00096] of that Act (supply of other government information for fraud prevention and verification), the word “, contributions” is omitted.
 
-**6.**[^key-2e9daf8da673cb3dc37b1e467c71d092][^key-e95f7e17bf9ccb07e2b2be6450e38b2d] In Schedule 4 to that Act, the following provisions shall cease to have effect—
+**6.**[^c-2e9daf8da673cb3dc37b1e467c71d092][^c-e95f7e17bf9ccb07e2b2be6450e38b2d] In Schedule 4 to that Act, the following provisions shall cease to have effect—
 
 - (a) in Part I, the entry “A member or officer of the Commissioners of Inland Revenue”, and the heading preceding that entry, and
 - (b) in Part II, paragraph 4.
 
-**7.**[^key-e826005b3f6162d1735d223dddb3c4b3][^key-caeb38a80fb8c9b7b8b3b2d820dbeaa2] (1) Section 154 of the Pensions Act (disclosure of information between government departments, etc.) is amended as follows.
+**7.**[^c-e826005b3f6162d1735d223dddb3c4b3][^c-caeb38a80fb8c9b7b8b3b2d820dbeaa2] (1) Section 154 of the Pensions Act (disclosure of information between government departments, etc.) is amended as follows.
 
 (2) After subsection (1) there is inserted—
 
@@ -118,7 +118,7 @@ Article 6
 
   .
 
-**8.**[^key-ba871714ead88db89f9b5dce137554c8][^key-32aab3860aaa6ca9ce0fdd4aff8fad51] In section 154A[^f00097] of that Act (disclosure of information to other persons or bodies), after subsection (1) there is inserted—
+**8.**[^c-ba871714ead88db89f9b5dce137554c8][^c-32aab3860aaa6ca9ce0fdd4aff8fad51] In section 154A[^f00097] of that Act (disclosure of information to other persons or bodies), after subsection (1) there is inserted—
 
 > (1A) The Inland Revenue may, in spite of any obligation as to secrecy or confidentiality imposed by statute or otherwise on them or on their officers, disclose any information received by them in connection with their functions under Part III of this Act to any person specified in the first column of the Table in subsection (1) if they consider that the disclosure would enable or assist the person to discharge the functions specified in relation to the person in the second column of the Table.
 
@@ -126,57 +126,57 @@ Article 6
 
 ### Obtaining information for tax purposes from social security authorities
 
-**9.**[^key-c9f5eb70aec9f299f7bc4fc5f7c6e2b0][^key-e4250fc13d5fabf8689750c607399d0b] (1) Section 110 of the Finance Act 1997[^f00098] (obtaining by Inland Revenue and Commissioners of Customs and Excise of information from social security authorities) is amended as follows.
+**9.**[^c-c9f5eb70aec9f299f7bc4fc5f7c6e2b0][^c-e4250fc13d5fabf8689750c607399d0b] (1) Section 110 of the Finance Act 1997[^f00098] (obtaining by Inland Revenue and Commissioners of Customs and Excise of information from social security authorities) is amended as follows.
 
 (2) In subsection (5A)[^f00099] after “Secretary of State” there is inserted “or section 115E of the Social Security Administration (Northern Ireland) Act 1992 (supply to Inland Revenue of information for purposes of contributions, statutory sick pay or statutory maternity pay of information held by the Department of Health and Social Services for Northern Ireland).”.
 
 ## Annotations
 
-[^key-bf704ad7e7d2a6b8c59e2af1b879877a]: Commencement: Sch. 5 para. 1 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-bf704ad7e7d2a6b8c59e2af1b879877a]: Commencement: Sch. 5 para. 1 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-094ec88831ac10ee4160efbc07f0a6c0]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/1) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-094ec88831ac10ee4160efbc07f0a6c0]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/1) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00094]: Footnote: Section 116 was substituted by section 1(2) of the Social Security Administration (Fraud) Act [1997 (c. 47)](https://www.legislation.gov.uk/ukpga/1997/47).
 
-[^key-07cf0eafd60965d827c03fc01a115d29]: Commencement: Sch. 5 para. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-07cf0eafd60965d827c03fc01a115d29]: Commencement: Sch. 5 para. 2 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-12a86066b2b2b6694909d00e085ef5ee]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/2) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-12a86066b2b2b6694909d00e085ef5ee]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/2) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-6f79bd97932e20c1df99afa03cec61a8]: Textual amendment: [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/2/2) revoked (6.4.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 13 Pt. 7](https://www.legislation.gov.uk/ukpga/1999/30/schedule/13/part/VII); [S.I. 1999/3420](https://www.legislation.gov.uk/uksi/1999/3420), [art. 4(e)](https://www.legislation.gov.uk/uksi/1999/3420/article/4/e)
+[^c-6f79bd97932e20c1df99afa03cec61a8]: Textual amendment: [Sch. 5 para. 2(2)](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/2/2) revoked (6.4.2000) by [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), [s. 89(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/89/1), [Sch. 13 Pt. 7](https://www.legislation.gov.uk/ukpga/1999/30/schedule/13/part/VII); [S.I. 1999/3420](https://www.legislation.gov.uk/uksi/1999/3420), [art. 4(e)](https://www.legislation.gov.uk/uksi/1999/3420/article/4/e)
 
-[^key-0baaa0bdba0bcf5b178cc21638703f59]: Commencement: Sch. 5 para. 3 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-0baaa0bdba0bcf5b178cc21638703f59]: Commencement: Sch. 5 para. 3 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-2e9463bb4b1d4fa5948afc0fc020d118]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/3) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-2e9463bb4b1d4fa5948afc0fc020d118]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/3) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-c6ba35a9627045fbc67e2b112c462731]: Commencement: Sch. 5 para. 4 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-c6ba35a9627045fbc67e2b112c462731]: Commencement: Sch. 5 para. 4 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-80a2969182f7ec2b0ced16e5e143c851]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/4) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-80a2969182f7ec2b0ced16e5e143c851]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/4) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00095]: Footnote: Section 116A was inserted by section 1(2) of the Social Security Administration (Fraud) Act 1997.
 
-[^key-9a08e5ff6fd9d38899a263efee93164c]: Commencement: Sch. 5 para. 5 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-9a08e5ff6fd9d38899a263efee93164c]: Commencement: Sch. 5 para. 5 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-2647c99967c57c61ee0bf5ae7fa1d8eb]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/5) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-2647c99967c57c61ee0bf5ae7fa1d8eb]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/5) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00096]: Footnote: Section 116B was inserted by section 2(2) of the Social Security Administration (Fraud) Act 1997.
 
-[^key-2e9daf8da673cb3dc37b1e467c71d092]: Commencement: Sch. 5 para. 6 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-2e9daf8da673cb3dc37b1e467c71d092]: Commencement: Sch. 5 para. 6 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-e95f7e17bf9ccb07e2b2be6450e38b2d]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/6) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-e95f7e17bf9ccb07e2b2be6450e38b2d]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/6) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-e826005b3f6162d1735d223dddb3c4b3]: Commencement: Sch. 5 para. 7 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-e826005b3f6162d1735d223dddb3c4b3]: Commencement: Sch. 5 para. 7 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-caeb38a80fb8c9b7b8b3b2d820dbeaa2]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/7) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-caeb38a80fb8c9b7b8b3b2d820dbeaa2]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/7) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
-[^key-ba871714ead88db89f9b5dce137554c8]: Commencement: Sch. 5 para. 8 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-ba871714ead88db89f9b5dce137554c8]: Commencement: Sch. 5 para. 8 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-32aab3860aaa6ca9ce0fdd4aff8fad51]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/8) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-32aab3860aaa6ca9ce0fdd4aff8fad51]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/8) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00097]: Footnote: Section 154A was inserted by paragraph 9 of Schedule 4 to the Pensions (Northern Ireland) Order [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)).
 
-[^key-c9f5eb70aec9f299f7bc4fc5f7c6e2b0]: Commencement: Sch. 5 para. 9 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
+[^c-c9f5eb70aec9f299f7bc4fc5f7c6e2b0]: Commencement: Sch. 5 para. 9 not in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/1999/671/article/1)
 
-[^key-e4250fc13d5fabf8689750c607399d0b]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/9) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
+[^c-e4250fc13d5fabf8689750c607399d0b]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/1999/671/schedule/5/paragraph/9) in force at 1.4.1999 by [S.R. 1999/149](https://www.legislation.gov.uk/nisr/1999/149), [art. 2(c)](https://www.legislation.gov.uk/nisr/1999/149/article/2/c), [Sch. 2](https://www.legislation.gov.uk/nisr/1999/149/schedule/2) (with [arts. 3-6](https://www.legislation.gov.uk/nisr/1999/149/article/3))
 
 [^f00098]: Footnote: [1997 c. 16](https://www.legislation.gov.uk/ukpga/1997/16).
 

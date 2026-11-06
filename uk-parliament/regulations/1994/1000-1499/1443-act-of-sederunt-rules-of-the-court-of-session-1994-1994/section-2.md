@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Rules of the Court of Session[^key-1e5f6b42591b33012622d2790f1a5e17]
+## 2. Rules of the Court of Session[^c-1e5f6b42591b33012622d2790f1a5e17]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ The provisions of Schedule 2 to this Act of Sederunt shall have effect for the p
 
 ## Annotations
 
-[^key-1e5f6b42591b33012622d2790f1a5e17]: Commencement: [Para. 2](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/2) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)
+[^c-1e5f6b42591b33012622d2790f1a5e17]: Commencement: [Para. 2](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/2) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)

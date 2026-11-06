@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Schengen-building provisions of the 1996 Extradition Convention[^key-fabac2fc117bc03817260a518348569d]
+## 86. Schengen-building provisions of the 1996 Extradition Convention[^c-fabac2fc117bc03817260a518348569d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fabac2fc117bc03817260a518348569d]: Textual amendment: S. 86 repealed (27.7.2004) by [Extradition Act 2003 (Repeals) Order 2004 (S.I. 2004/1897)](https://www.legislation.gov.uk/uksi/2004/1897), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1897/article/1), [2](https://www.legislation.gov.uk/uksi/2004/1897/article/2)
+[^c-fabac2fc117bc03817260a518348569d]: Textual amendment: S. 86 repealed (27.7.2004) by [Extradition Act 2003 (Repeals) Order 2004 (S.I. 2004/1897)](https://www.legislation.gov.uk/uksi/2004/1897), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1897/article/1), [2](https://www.legislation.gov.uk/uksi/2004/1897/article/2)

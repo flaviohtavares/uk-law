@@ -31,34 +31,34 @@ Public Accounts and Charges Act 1891 (repealed)
 
 1891 c.24
 
-[^key-f6f307c3155684f8ed40bba88138f257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f6f307c3155684f8ed40bba88138f257]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[3rd July 1891\]
 
 **No longer in force.**
 
-## 1. Abolition of office of Receiver-General of Inland Revenue and provision as to Inland Revenue moneys.[^key-f6f307c3155684f8ed40bba88138f257][^key-f6f307c3155684f8ed40bba88138f257]
+## 1. Abolition of office of Receiver-General of Inland Revenue and provision as to Inland Revenue moneys.[^c-f6f307c3155684f8ed40bba88138f257][^c-f6f307c3155684f8ed40bba88138f257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f6f307c3155684f8ed40bba88138f257][^key-f6f307c3155684f8ed40bba88138f257]
+## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f6f307c3155684f8ed40bba88138f257][^c-f6f307c3155684f8ed40bba88138f257]
 
-## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f6f307c3155684f8ed40bba88138f257][^key-f6f307c3155684f8ed40bba88138f257]
+## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f6f307c3155684f8ed40bba88138f257][^c-f6f307c3155684f8ed40bba88138f257]
 
-## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f6f307c3155684f8ed40bba88138f257][^key-f6f307c3155684f8ed40bba88138f257]
+## 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f6f307c3155684f8ed40bba88138f257][^c-f6f307c3155684f8ed40bba88138f257]
 
-## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f6f307c3155684f8ed40bba88138f257][^key-f6f307c3155684f8ed40bba88138f257]
+## 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f6f307c3155684f8ed40bba88138f257][^c-f6f307c3155684f8ed40bba88138f257]
 
-## 6. Short title.[^key-f6f307c3155684f8ed40bba88138f257][^key-f6f307c3155684f8ed40bba88138f257]
+## 6. Short title.[^c-f6f307c3155684f8ed40bba88138f257][^c-f6f307c3155684f8ed40bba88138f257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-f6f307c3155684f8ed40bba88138f257]
+## SCHEDULE[^c-f6f307c3155684f8ed40bba88138f257]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f6f307c3155684f8ed40bba88138f257]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/54-55/24) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)
+[^c-f6f307c3155684f8ed40bba88138f257]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Vict/54-55/24) repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(h)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/h/i)

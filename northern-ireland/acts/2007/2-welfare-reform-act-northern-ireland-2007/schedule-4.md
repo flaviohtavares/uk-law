@@ -82,7 +82,7 @@ Section 29.
 
 ### Treatment of existing awards
 
-**7.**[^key-551996b89a588826659620ff17dae9e5] (1) Regulations may—
+**7.**[^c-551996b89a588826659620ff17dae9e5] (1) Regulations may—
 
 - (a) make provision for converting existing awards into awards of an employment and support allowance, and with respect to the terms of conversion;
 - (b) make provision for the termination of existing awards in prescribed circumstances.
@@ -102,7 +102,7 @@ Section 29.
 
   as the regulations may provide;
 - (e) make provision for determining in connection with conversion of an existing award whether a person has limited capability for work-related activity.
-- (f)[^key-9b252304b28da55e9da7e55b9baa8c5d] make provision modifying the application of section 1A in relation to awards of an employment and support allowance to persons previously entitled to existing awards.
+- (f)[^c-9b252304b28da55e9da7e55b9baa8c5d] make provision modifying the application of section 1A in relation to awards of an employment and support allowance to persons previously entitled to existing awards.
 
 (3) Regulations under sub-paragraph (1)(a) may, in relation to existing awards which have been the subject of conversion under this paragraph, include provision about revision under Article 10 of the 1998 Order, or supersession under Article 11 of that Order in respect of the period before conversion.
 
@@ -158,6 +158,6 @@ to have effect with prescribed modifications in relation to tax years beginning 
 
 [^c21211171]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2007/2/schedule/4/paragraph/3) partly in operation; [Sch. 4 para. 3](https://www.legislation.gov.uk/nia/2007/2/schedule/4/paragraph/3) not in operation at Royal Assent see [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1); [Sch. 4 para. 3(b)-(d)](https://www.legislation.gov.uk/nia/2007/2/schedule/4/paragraph/3/b) in operation for certain purposes at 1.7.2008 and wholly in operation at 27.7.2008 by [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(a)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/a)
 
-[^key-551996b89a588826659620ff17dae9e5]: Modification: [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2007/2/schedule/4/paragraph/7) Power to modify conferred (11.3.2017) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [9(5)](https://www.legislation.gov.uk/nisi/2016/999/article/9/5); [S.R. 2017/46](https://www.legislation.gov.uk/nisr/2017/46), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/46/article/2/a)
+[^c-551996b89a588826659620ff17dae9e5]: Modification: [Sch. 4 para. 7](https://www.legislation.gov.uk/nia/2007/2/schedule/4/paragraph/7) Power to modify conferred (11.3.2017) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [9(5)](https://www.legislation.gov.uk/nisi/2016/999/article/9/5); [S.R. 2017/46](https://www.legislation.gov.uk/nisr/2017/46), [art. 2(a)](https://www.legislation.gov.uk/nisr/2017/46/article/2/a)
 
-[^key-9b252304b28da55e9da7e55b9baa8c5d]: Textual amendment: [Sch. 4 para. 7(2)(f)](https://www.legislation.gov.uk/nia/2007/2/schedule/4/paragraph/7/2/f) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [57(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/57/4); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) (as substituted by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), art. 3)
+[^c-9b252304b28da55e9da7e55b9baa8c5d]: Textual amendment: [Sch. 4 para. 7(2)(f)](https://www.legislation.gov.uk/nia/2007/2/schedule/4/paragraph/7/2/f) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [57(4)](https://www.legislation.gov.uk/nisi/2015/2006/article/57/4); [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 5(a)](https://www.legislation.gov.uk/nisr/2016/46/article/5/a) (as substituted by [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), art. 3)

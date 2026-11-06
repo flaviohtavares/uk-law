@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Territorial scope of computer misuse offence[^key-f7bf6f672ac94dd3522a7acc00526dcd]
+## 43. Territorial scope of computer misuse offence[^c-f7bf6f672ac94dd3522a7acc00526dcd]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7bf6f672ac94dd3522a7acc00526dcd]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2015/9/section/43) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)
+[^c-f7bf6f672ac94dd3522a7acc00526dcd]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2015/9/section/43) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/c)

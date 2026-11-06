@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Insurance against fraud or other dishonesty[^key-d9bb5f5bbeee795127557bea0fdc9822]
+## 192. Insurance against fraud or other dishonesty[^c-d9bb5f5bbeee795127557bea0fdc9822]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9bb5f5bbeee795127557bea0fdc9822]: Commencement: Art. 192 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-d9bb5f5bbeee795127557bea0fdc9822]: Commencement: Art. 192 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

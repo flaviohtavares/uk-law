@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Removal of exemption for angostura bitters[^key-58d6efbb3a3b3f9c315b6628b05e6e46][^key-e3fc9cc1498f85f2a300ea0d80062d43]
+## 27. Removal of exemption for angostura bitters[^c-58d6efbb3a3b3f9c315b6628b05e6e46][^c-e3fc9cc1498f85f2a300ea0d80062d43]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In Article 2(2) of the Licensing Order (interpretation), in the definition of â€
 
 ## Annotations
 
-[^key-58d6efbb3a3b3f9c315b6628b05e6e46]: Commencement: S. 27 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
+[^c-58d6efbb3a3b3f9c315b6628b05e6e46]: Commencement: S. 27 not in operation at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2)
 
-[^key-e3fc9cc1498f85f2a300ea0d80062d43]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2021/7/section/27) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-e3fc9cc1498f85f2a300ea0d80062d43]: Commencement: [S. 27](https://www.legislation.gov.uk/nia/2021/7/section/27) in operation at 1.10.2021 by [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

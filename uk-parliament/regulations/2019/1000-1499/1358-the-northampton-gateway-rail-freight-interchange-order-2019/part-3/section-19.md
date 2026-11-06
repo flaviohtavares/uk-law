@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Motor vehicle restrictions[^key-b394ba9ee7260a87843caa976d87ba2a]
+## 19. Motor vehicle restrictions[^c-b394ba9ee7260a87843caa976d87ba2a]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b394ba9ee7260a87843caa976d87ba2a]: Commencement: Art. 19 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-b394ba9ee7260a87843caa976d87ba2a]: Commencement: Art. 19 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

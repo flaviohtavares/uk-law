@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Repeal of spent or unnecessary provisions[^key-91d65f38833c681b2f4f6633ad2dee48]
+## 92. Repeal of spent or unnecessary provisions[^c-91d65f38833c681b2f4f6633ad2dee48]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ The following provisions of the Companies (No. 2) (Northern Ireland) Order 1990 
 
 ## Annotations
 
-[^key-91d65f38833c681b2f4f6633ad2dee48]: Commencement: Art. 92 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-91d65f38833c681b2f4f6633ad2dee48]: Commencement: Art. 92 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

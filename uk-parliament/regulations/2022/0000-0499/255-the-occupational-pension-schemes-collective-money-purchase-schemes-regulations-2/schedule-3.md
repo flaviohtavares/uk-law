@@ -24,7 +24,7 @@ Regulations 6 and 12
 
 ### Part 1 — Information required on application for authorisation
 
-**1.**[^key-b7258b7c1046af317ed7e0eaf4025d9d] The other information to be included in an application, in relation to whether the scheme is financially sustainable, is—
+**1.**[^c-b7258b7c1046af317ed7e0eaf4025d9d] The other information to be included in an application, in relation to whether the scheme is financially sustainable, is—
 
 - (a) in relation to whether the scheme has sufficient financial resources to meet the costs mentioned in section 14(2)(a) of the Act (financial sustainability requirement)—
   - (i) an estimate of the cost of setting up the scheme;
@@ -69,7 +69,7 @@ Regulations 6 and 12
 
 ### Part 2 — Matters which the Regulator must take into account
 
-**2.**[^key-7222da8709d9ddf152634e4a8def0adb] The Regulator must take account of the following matters in deciding whether it is satisfied that a collective money purchase scheme has sufficient financial resources to meet the costs mentioned in section 14(2)(a) of the Act (financial sustainability requirement)—
+**2.**[^c-7222da8709d9ddf152634e4a8def0adb] The Regulator must take account of the following matters in deciding whether it is satisfied that a collective money purchase scheme has sufficient financial resources to meet the costs mentioned in section 14(2)(a) of the Act (financial sustainability requirement)—
 
 - (a) the scheme’s sources of income, including the estimated amount of income from each source;
 - (b) the estimated cost of setting up the scheme;
@@ -77,7 +77,7 @@ Regulations 6 and 12
 - (d) the trustees’ strategy for meeting any shortfall between the scheme’s income and the costs mentioned in section 14(2)(a) of the Act;
 - (e) the robustness of any estimates provided to the Regulator in relation to the costs mentioned in section 14(2)(a) of the Act, and the robustness of the strategy mentioned in sub-paragraph (d);
 - (f) where one or more employers in relation to the scheme has agreed to fund any of the costs mentioned in section 14(2)(a) of the Act, the financial position of each of those employers that the Regulator considers relevant;
-- (g) any[^key-d4c8ddbef94bef710627ee89eadd59fa] financing arrangements entered into by the trustees in respect of the costs mentioned in section 14(2)(a) of the Act;
+- (g) any[^c-d4c8ddbef94bef710627ee89eadd59fa] financing arrangements entered into by the trustees in respect of the costs mentioned in section 14(2)(a) of the Act;
 - (h) the security and enforceability of loans and other funding commitments provided to the trustees in respect of the scheme;
 - (i) where the scheme has an arrangement with a service provider under which the service provider accepts the risk that its costs will exceed any fee paid to it, the provisions made to secure this service and any limitation on the service provider’s liability for those costs;
 - (j) any insurance held in respect of the costs mentioned in section 14(2)(a) of the Act, including details of—
@@ -86,7 +86,7 @@ Regulations 6 and 12
   - (iii) the beneficiary of the policy;
   - (iv) any limitations on the insurer’s liability.
 
-**3.**[^key-dca95248bc7e28c8b6b5cb7868d40c16] The Regulator must take account of the following matters in deciding whether it is satisfied that a collective money purchase scheme has sufficient financial resources to meet the costs mentioned in section 14(2)(b) of the Act—
+**3.**[^c-dca95248bc7e28c8b6b5cb7868d40c16] The Regulator must take account of the following matters in deciding whether it is satisfied that a collective money purchase scheme has sufficient financial resources to meet the costs mentioned in section 14(2)(b) of the Act—
 
 - (a) the most recent estimates of the costs mentioned in section 14(2)(b) of the Act provided in respect of the scheme;
 - (b) the extent and manner in which the trustees have made provision to meet those costs;
@@ -112,7 +112,7 @@ Regulations 6 and 12
 
 ### Part 3 — Requirements to be met by the collective money purchase scheme
 
-**4.**[^key-ac5b6cae5b9e9afaf2b5902107060158] A collective money purchase scheme must meet the following requirements relating to its financing—
+**4.**[^c-ac5b6cae5b9e9afaf2b5902107060158] A collective money purchase scheme must meet the following requirements relating to its financing—
 
 - (a) any assets held by or available to the trustees to meet the costs mentioned in section 14(2) of the Act (financial sustainability requirement) must be—
   - (i) of the classes and in the proportions set out in a Code;
@@ -123,12 +123,12 @@ Regulations 6 and 12
 
 ## Annotations
 
-[^key-b7258b7c1046af317ed7e0eaf4025d9d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/1) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-b7258b7c1046af317ed7e0eaf4025d9d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/1) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-7222da8709d9ddf152634e4a8def0adb]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/2) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-7222da8709d9ddf152634e4a8def0adb]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/2) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-d4c8ddbef94bef710627ee89eadd59fa]: Textual amendment: Word in [Sch. 3 para. 2(g)](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/2/g) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [75](https://www.legislation.gov.uk/uksi/2025/1313/regulation/75)
+[^c-d4c8ddbef94bef710627ee89eadd59fa]: Textual amendment: Word in [Sch. 3 para. 2(g)](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/2/g) substituted (31.7.2026) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Extension to Unconnected Multiple Employer Schemes and Miscellaneous Provisions) Regulations 2025 (S.I. 2025/1313)](https://www.legislation.gov.uk/uksi/2025/1313), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/1313/regulation/1/3), [75](https://www.legislation.gov.uk/uksi/2025/1313/regulation/75)
 
-[^key-dca95248bc7e28c8b6b5cb7868d40c16]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/3) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-dca95248bc7e28c8b6b5cb7868d40c16]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/3) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
 
-[^key-ac5b6cae5b9e9afaf2b5902107060158]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/4) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-ac5b6cae5b9e9afaf2b5902107060158]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2022/255/schedule/3/paragraph/4) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

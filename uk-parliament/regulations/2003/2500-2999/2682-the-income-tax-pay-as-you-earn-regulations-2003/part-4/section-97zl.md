@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97ZL. Recovery of sums due under personal liability notice: application of Part 6 of TMA[^key-a8200f0847159118a9e781f694cbb78e]
+## 97ZL. Recovery of sums due under personal liability notice: application of Part 6 of TMA[^c-a8200f0847159118a9e781f694cbb78e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ and that Part of that Act applies with the modification in paragraph (2) and any
 
 ## Annotations
 
-[^key-a8200f0847159118a9e781f694cbb78e]: Textual amendment: [Pt. 4 Ch. 3B](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/3B) inserted (with effect in accordance with s. 14(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/5)
+[^c-a8200f0847159118a9e781f694cbb78e]: Textual amendment: [Pt. 4 Ch. 3B](https://www.legislation.gov.uk/uksi/2003/2682/part/4/chapter/3B) inserted (with effect in accordance with s. 14(7) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 14(4)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/14/5)

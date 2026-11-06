@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 151. Persons eligible for appointment as special counsel[^key-8982057afcabe4d5fef6b06225b5b88c]
+## 151. Persons eligible for appointment as special counsel[^c-8982057afcabe4d5fef6b06225b5b88c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The court may appoint a person as special counsel under section 150(2) only if t
 
 ## Annotations
 
-[^key-8982057afcabe4d5fef6b06225b5b88c]: Commencement: S. 151 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-8982057afcabe4d5fef6b06225b5b88c]: Commencement: S. 151 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

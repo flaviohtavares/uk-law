@@ -86,7 +86,7 @@ Regulations 4, 5 and 6 prescribe meanings of “prescribed purpose” in section
   - (i) was or is to provide qualifying welfare services within the meaning of section 42(6) of the 2007 Act, but
   - (ii) has not provided those services or is unlikely to provide those services;
 - (d) whether—
-  - (i) a claimant's landlord is a registered social landlord or a private registered provider of social housing[^key-938b97cacfcdb23f6bd7c5b75f8aee95],
+  - (i) a claimant's landlord is a registered social landlord or a private registered provider of social housing[^c-938b97cacfcdb23f6bd7c5b75f8aee95],
   - (ii) a claimant occupies as his home a dwelling which is exempt accommodation,
   - (iii) a claimant's tenancy is an excluded tenancy,
   - (iv) a claimant occupies a houseboat, caravan or mobile home as his home, or
@@ -148,7 +148,7 @@ A full impact assessment has not been published for this instrument as it has no
 
 [^c1937426]: Marginal citation: [1996 c.52](https://www.legislation.gov.uk/ukpga/1996/52).
 
-[^key-938b97cacfcdb23f6bd7c5b75f8aee95]: Textual amendment: Words in [reg. 4(2)(d)(i)](https://www.legislation.gov.uk/uksi/2008/2112/regulation/4/2/d/i) inserted (1.4.2010) by [Housing and Regeneration Act 2008 (Consequential Provisions) (No.2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 71](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/71) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); S.I. 2010/862, art. 2
+[^c-938b97cacfcdb23f6bd7c5b75f8aee95]: Textual amendment: Words in [reg. 4(2)(d)(i)](https://www.legislation.gov.uk/uksi/2008/2112/regulation/4/2/d/i) inserted (1.4.2010) by [Housing and Regeneration Act 2008 (Consequential Provisions) (No.2) Order 2010 (S.I. 2010/671)](https://www.legislation.gov.uk/uksi/2010/671), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/671/article/1/2), [Sch. 1 para. 71](https://www.legislation.gov.uk/uksi/2010/671/schedule/1/paragraph/71) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/671/schedule/2)); S.I. 2010/862, art. 2
 
 [^c1937427]: Marginal citation: [Regulation 13C](https://www.legislation.gov.uk/uksi/2008/2112/regulation/13C) was inserted by [S.I. 2007/2868](https://www.legislation.gov.uk/uksi/2007/2868).
 

@@ -48,19 +48,19 @@ The Treasury make the following Order in exercise of the powers conferred by sec
 
 It appears to the Treasury that it is expedient to make this Order having regard to the need to conform with Article 143(1)(l) of Council Directive [2006/112/EC](https://www.legislation.gov.uk/european/directive/2006/0112)[^f00002].
 
-## 1. Citation, commencement and effect[^key-e3bb8351b7b15c6b90dd91b7ece8227c]
+## 1. Citation, commencement and effect[^c-e3bb8351b7b15c6b90dd91b7ece8227c]
 
 (1) This Order may be cited as the Value Added Tax (Imported Gas, Electricity, Heat and Cooling) Relief Order 2010.
 
 (2) This Order comes into force on 1st January 2011 and has effect in relation to goods imported on or after that date.
 
-## 2. Revocation of the Value Added Tax (Imported Gas and Electricity) Relief Order 2004[^key-14ab363dc26cab2352dece20391e579a]
+## 2. Revocation of the Value Added Tax (Imported Gas and Electricity) Relief Order 2004[^c-14ab363dc26cab2352dece20391e579a]
 
 The Value Added Tax (Imported Gas and Electricity) Relief Order 2004[^f00003] is revoked.
 
-## 3. Relief from value added tax[^key-f40030fbb061e9fd5d92ad85011997c8]
+## 3. Relief from value added tax[^c-f40030fbb061e9fd5d92ad85011997c8]
 
-The VAT chargeable on the importation [^key-fe8c1c926ef425b147235abcb86cb0d9]... of—
+The VAT chargeable on the importation [^c-fe8c1c926ef425b147235abcb86cb0d9]... of—
 
 - (a) gas—
   - (i) through a natural gas system or any network connected to such a system, or
@@ -100,12 +100,12 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00002]: Footnote: OJ No L 347, 11.12.06, p1; this Directive was amended by Directive 2009/162/EU, OJ No L 10, 15.1.10, p14; there are other amending Directives but none is relevant.
 
-[^key-e3bb8351b7b15c6b90dd91b7ece8227c]: Commencement: Art. 1 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2924/article/1/2)
+[^c-e3bb8351b7b15c6b90dd91b7ece8227c]: Commencement: Art. 1 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2924/article/1/2)
 
-[^key-14ab363dc26cab2352dece20391e579a]: Commencement: Art. 2 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2924/article/1/2)
+[^c-14ab363dc26cab2352dece20391e579a]: Commencement: Art. 2 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2924/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2004/3147](https://www.legislation.gov.uk/uksi/2004/3147).
 
-[^key-f40030fbb061e9fd5d92ad85011997c8]: Commencement: Art. 3 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2924/article/1/2)
+[^c-f40030fbb061e9fd5d92ad85011997c8]: Commencement: Art. 3 in force at 1.1.2011, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2924/article/1/2)
 
-[^key-fe8c1c926ef425b147235abcb86cb0d9]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/2924/article/3) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [85(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/85/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-fe8c1c926ef425b147235abcb86cb0d9]: Textual amendment: Words in [art. 3](https://www.legislation.gov.uk/uksi/2010/2924/article/3) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [85(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/85/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

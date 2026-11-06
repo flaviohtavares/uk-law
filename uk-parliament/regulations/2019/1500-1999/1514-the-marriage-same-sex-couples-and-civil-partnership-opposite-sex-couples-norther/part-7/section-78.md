@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978[^key-a0c6e1d8a6431f44e787765cefd1f129]
+## 78. Social Security (Graduated Retirement Benefit) (No. 2) Regulations (Northern Ireland) 1978[^c-a0c6e1d8a6431f44e787765cefd1f129]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ In regulation 3 in Schedule 3 to the Social Security (Graduated Retirement Benef
 
 ## Annotations
 
-[^key-a0c6e1d8a6431f44e787765cefd1f129]: Commencement: Reg. 78 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-a0c6e1d8a6431f44e787765cefd1f129]: Commencement: Reg. 78 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00137]: Footnote: [S.R. (N.I.) 1978/105](https://www.legislation.gov.uk/nisr/1978/105). In Schedule 3, the saved regulation 3 was amended by regulation 2(5) of [S.R. (N.I.) 2005/541](https://www.legislation.gov.uk/nisr/2005/541).
 

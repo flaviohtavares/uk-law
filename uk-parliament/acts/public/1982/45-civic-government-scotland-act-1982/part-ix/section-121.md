@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 121. Control of the seashore, adjacent waters and inland waters.[^key-c714c5a57582ac020fc35f4aac501714]
+## 121. Control of the seashore, adjacent waters and inland waters.[^c-c714c5a57582ac020fc35f4aac501714]
 
 *Extent: S*
 
@@ -35,14 +35,14 @@ summary: ''
 - (c) requiring the use of effective silencers on pleasure boats in these waters;
 - (d) regulating the activities in these waters of divers, surfers, water skiers and persons engaged in similar recreational pursuits.
 
-(4)[^key-62dda0046beed79a7c65920140550a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-62dda0046beed79a7c65920140550a13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Byelaws may be made under this section only if—
 
 - (a) the local authority have complied with subsection (6) below and made such other inquiries as may be reasonably necessary to ascertain the existence and identity of each person having—
   - (i) in the case of byelaws under subsection (1) above, a proprietorial interest in the seashore;
   - (ii) in the case of byelaws under subsection (3) above, a proprietorial interest in relation to the adjacent waters;
-  - (iii)[^key-778868c9d7155976404726305279f191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-778868c9d7155976404726305279f191] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iv) in any case, a proprietorial interest in any salmon fishings;
 
   being a proprietorial interest which may be affected by the byelaws;
@@ -59,24 +59,24 @@ summary: ''
 
 (10) A local authority may provide staff for life saving and any boats or equipment which are appropriate for life saving.
 
-(11) A local authority, when exercising their powers under this section, shall have regard to the need to protect and maintain any public rights under the guardianship of the Crown to use the foreshore, and adjacent waters.[^key-f282904495788299efeb3fdefb99ccb8]
+(11) A local authority, when exercising their powers under this section, shall have regard to the need to protect and maintain any public rights under the guardianship of the Crown to use the foreshore, and adjacent waters.[^c-f282904495788299efeb3fdefb99ccb8]
 
 (12) In subsection (1) above, the reference to conserving natural beauty shall be construed in accordance with section 78(2) of the [^c13377701]Countryside (Scotland) Act 1967.
 
 ## Annotations
 
-[^key-c714c5a57582ac020fc35f4aac501714]: Modification: S. 121 modified (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [8(1)](https://www.legislation.gov.uk/ssi/2003/1/article/8/1)
+[^c-c714c5a57582ac020fc35f4aac501714]: Modification: S. 121 modified (7.1.2003) by [The Cairngorms National Park Designation, Transitional and Consequential Provisions (Scotland) Order 2003 (S.S.I. 2003/1)](https://www.legislation.gov.uk/ssi/2003/1), [arts. 1](https://www.legislation.gov.uk/ssi/2003/1/article/1), [8(1)](https://www.legislation.gov.uk/ssi/2003/1/article/8/1)
 
 [^c13377551]: Textual amendment: Words in s. 121(1)(3)(4)(5)(a)(c)(6)-(11) substituted (1.4.1996) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/1), [Sch. 13 para. 129(18)](https://www.legislation.gov.uk/ukpga/1994/39/schedule/13/paragraph/129/18); [S.I. 1996/323](https://www.legislation.gov.uk/uksi/1996/323), [art. 4(1)(c)](https://www.legislation.gov.uk/uksi/1996/323/article/4/1/c)
 
-[^key-62dda0046beed79a7c65920140550a13]: Textual amendment: S. 121(4) repealed (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [sch. 2 para. 8(b)(i)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/8/b/i) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
+[^c-62dda0046beed79a7c65920140550a13]: Textual amendment: S. 121(4) repealed (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [sch. 2 para. 8(b)(i)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/8/b/i) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
 
-[^key-778868c9d7155976404726305279f191]: Textual amendment: S. 121(5)(a)(iii) repealed (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [sch. 2 para. 8(b)(ii)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/8/b/ii) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
+[^c-778868c9d7155976404726305279f191]: Textual amendment: S. 121(5)(a)(iii) repealed (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [sch. 2 para. 8(b)(ii)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/8/b/ii) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
 
 [^c13377591]: Textual amendment: S. 121(5)(b) substituted (4.1.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [s. 141(a)](https://www.legislation.gov.uk/ukpga/1994/39/section/141/a) (with [s. 128](https://www.legislation.gov.uk/ukpga/1994/39/section/128)); [S.I. 1994/2850](https://www.legislation.gov.uk/uksi/1994/2850), [art. 3(a)](https://www.legislation.gov.uk/uksi/1994/2850/article/3/a), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2850/schedule/2)
 
 [^c13377611]: Textual amendment: Words in s. 121(6)(7) repealed (4.1.1995) by [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39), [ss. 141(b)(c)](https://www.legislation.gov.uk/ukpga/1994/39/section/141/b/c), [180(2)](https://www.legislation.gov.uk/ukpga/1994/39/section/180/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1994/39/schedule/14); [S.I. 1994/2850](https://www.legislation.gov.uk/uksi/1994/2850), [art. 3(a) Sch. 2](https://www.legislation.gov.uk/uksi/1994/2850/article/3/a/schedule/2)
 
-[^key-f282904495788299efeb3fdefb99ccb8]: Textual amendment: Words in s. 121(11) substituted (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [sch. 2 para. 8(c)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/8/c) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
+[^c-f282904495788299efeb3fdefb99ccb8]: Textual amendment: Words in s. 121(11) substituted (9.2.2005) by [Land Reform (Scotland) Act 2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), [s. 100(3)](https://www.legislation.gov.uk/asp/2003/2/section/100/3), [sch. 2 para. 8(c)](https://www.legislation.gov.uk/asp/2003/2/schedule/2/paragraph/8/c) (with [s. 100(2)](https://www.legislation.gov.uk/asp/2003/2/section/100/2)); [S.S.I. 2005/17](https://www.legislation.gov.uk/ssi/2005/17), [art. 2(b)](https://www.legislation.gov.uk/ssi/2005/17/article/2/b)
 
 [^c13377701]: Marginal citation: [1967 c. 86](https://www.legislation.gov.uk/ukpga/1967/86).

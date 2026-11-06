@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Offences by bodies corporate[^c17032211][^key-adf27d8201f1df300c0aecd677c617ab][^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]
+## 125. Offences by bodies corporate[^c17032211][^c-adf27d8201f1df300c0aecd677c617ab][^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ he as well as the body corporate commits the offence and shall be liable to be p
 
     S. 125 applied (S.) (11.11.2005) by [The Water Services etc. (Scotland) Act 2005 (Consequential Provisions and Modifications) Order 2005 (S.I. 2005/3172)](https://www.legislation.gov.uk/uksi/2005/3172), [art. 10(3)-(7)](https://www.legislation.gov.uk/uksi/2005/3172/article/10/3); (as amended (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 30 para. 39](https://www.legislation.gov.uk/ukpga/2024/13/schedule/30/paragraph/39); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(22)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/22))
 
-[^key-adf27d8201f1df300c0aecd677c617ab]: Modification: S. 125 applied (with modifications) (1.11.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 10 para. 10(1)(j)(2)(12)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/10/paragraph/10/1/j); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
+[^c-adf27d8201f1df300c0aecd677c617ab]: Modification: S. 125 applied (with modifications) (1.11.2012) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 10 para. 10(1)(j)(2)(12)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/10/paragraph/10/1/j); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/2)
 
-[^key-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-a1ca3fb6bab80dc78ce3a2acc2f2da29]: Modification: Pt. 3 modified (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 4 para. 56](https://www.legislation.gov.uk/ukpga/2013/24/schedule/4/paragraph/56); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/c) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

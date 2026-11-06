@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 12 — Notice of landing[^key-d1582697420cbc312935f90ee9f87c1d]
+## SCHEDULE 12 — Notice of landing[^c-d1582697420cbc312935f90ee9f87c1d]
 
 *Extent: N.I.*
 
@@ -24,16 +24,16 @@ summary: ''
 
 Article 6(3)
 
-### PART A[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART A[^c-d1582697420cbc312935f90ee9f87c1d]
 
-**1.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-d1582697420cbc312935f90ee9f87c1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Notice of landing of relevant material required by Article 6(1) of the Plant Health Order (Northern Ireland) 2006[^key-d1582697420cbc312935f90ee9f87c1d]
+### PART B — Notice of landing of relevant material required by Article 6(1) of the Plant Health Order (Northern Ireland) 2006[^c-d1582697420cbc312935f90ee9f87c1d]
 
 [image: see source](https://www.legislation.gov.uk/nisr/2006/82/images/nisr_20060082_en_006)
 
 ## Annotations
 
-[^key-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)
+[^c-d1582697420cbc312935f90ee9f87c1d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/82) revoked (1.12.2018) by [The Plant Health Order (Northern Ireland) 2018 (revoked) 2018 (S.R. 2018/184)](https://www.legislation.gov.uk/nisr/2018/184), [art. 1](https://www.legislation.gov.uk/nisr/2018/184/article/1), [Sch. 18](https://www.legislation.gov.uk/nisr/2018/184/schedule/18)

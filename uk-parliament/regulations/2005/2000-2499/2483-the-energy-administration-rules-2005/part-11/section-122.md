@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Final costs certificate[^key-14e16293d817add05fe70dbd4fc7e8a0]
+## 122. Final costs certificate[^c-14e16293d817add05fe70dbd4fc7e8a0]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14e16293d817add05fe70dbd4fc7e8a0]: Commencement: Rule 122 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-14e16293d817add05fe70dbd4fc7e8a0]: Commencement: Rule 122 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -43,19 +43,19 @@ Coming into force
 
 The Welsh Ministers make the following Order in exercise of the powers conferred by sections 1, 8(1), and 83(2) of the Animal Health Act 1981[^f00001].
 
-## 1. Title, application and commencement[^key-c59eb5dbbe50268f1703648078a9dbbb]
+## 1. Title, application and commencement[^c-c59eb5dbbe50268f1703648078a9dbbb]
 
 (1) The title of this Order is the Disease Control (Wales) (Amendment) Order 2017.
 
 (2) This Order applies in relation to Wales.
 
-(3)[^key-a9b61194885035aec52f94c08fe3c172] This Order comes into force on 11 September 2017.
+(3)[^c-a9b61194885035aec52f94c08fe3c172] This Order comes into force on 11 September 2017.
 
-## 2. Amendments to the Disease Control (Wales) Order 2003[^key-c3b6a15791342a8f00f9ad33cd318c8c]
+## 2. Amendments to the Disease Control (Wales) Order 2003[^c-c3b6a15791342a8f00f9ad33cd318c8c]
 
 The Disease Control (Wales) Order 2003[^f00002] is amended as follows.
 
-**3.**[^key-5077c1fb8abd77baf03951e8a82c299c][^key-c3b6a15791342a8f00f9ad33cd318c8c] In article 2 (interpretation)—
+**3.**[^c-5077c1fb8abd77baf03951e8a82c299c][^c-c3b6a15791342a8f00f9ad33cd318c8c] In article 2 (interpretation)—
 
 - (a) in the definition of “slaughterhouse” (“*lladd-dy*”), for “the Fresh Meat (Hygiene and Inspection) Regulations 1995” substitute the “Food Hygiene (Wales) Regulations 2006”[^f00003]; and
 - (b) in the appropriate place insert—
@@ -64,7 +64,7 @@ The Disease Control (Wales) Order 2003[^f00002] is amended as follows.
 
   .
 
-**4.**[^key-1a7195cfa8ed343f6807e8a01e390461][^key-c3b6a15791342a8f00f9ad33cd318c8c] In article 8 (isolation facilities)—
+**4.**[^c-1a7195cfa8ed343f6807e8a01e390461][^c-c3b6a15791342a8f00f9ad33cd318c8c] In article 8 (isolation facilities)—
 
 - (a) for paragraph (1) substitute—
 
@@ -75,7 +75,7 @@ The Disease Control (Wales) Order 2003[^f00002] is amended as follows.
 
   > (3) An isolation facility may not be used to hold any animals other than pigs.
 
-**5.**[^key-27e8e3d52923a193a4b6c9e4a514bf47][^key-c3b6a15791342a8f00f9ad33cd318c8c] After article 8 insert—
+**5.**[^c-27e8e3d52923a193a4b6c9e4a514bf47][^c-c3b6a15791342a8f00f9ad33cd318c8c] After article 8 insert—
 
 > **8A. Quarantine units**
 >
@@ -111,9 +111,9 @@ The Disease Control (Wales) Order 2003[^f00002] is amended as follows.
 > - “skin test” (“*prawf croen*”) means a single intradermal comparative cervical tuberculin test for tuberculosis using bovine and avian tuberculin; and
 > - “tuberculosis” (“*twbercwlosis*”) means infection with *Mycobacterium bovis* (*M.bovis*).
 
-**6.**[^key-b797e1edcd0cd62242274a192ffb4aeb][^key-c3b6a15791342a8f00f9ad33cd318c8c] Omit article 15 (general licences).
+**6.**[^c-b797e1edcd0cd62242274a192ffb4aeb][^c-c3b6a15791342a8f00f9ad33cd318c8c] Omit article 15 (general licences).
 
-**7.**[^key-a235a7fc7887ff2332a33dd5ad295588][^key-c3b6a15791342a8f00f9ad33cd318c8c] After article 15 insert—
+**7.**[^c-a235a7fc7887ff2332a33dd5ad295588][^c-c3b6a15791342a8f00f9ad33cd318c8c] After article 15 insert—
 
 > **15A. Movement documents for deer**
 >
@@ -122,7 +122,7 @@ The Disease Control (Wales) Order 2003[^f00002] is amended as follows.
 > - (a) comply with the conditions of the licence relating to the reporting of movement information; and
 > - (b) keep a copy of the completed movement document for six months and during that period produce it to an inspector on request.
 
-**8.**[^key-38c3a2bf3e37cc527f2e5565b78b0097][^key-c3b6a15791342a8f00f9ad33cd318c8c] Schedules 1 and 2 are amended in accordance with the Schedule to this Order.
+**8.**[^c-38c3a2bf3e37cc527f2e5565b78b0097][^c-c3b6a15791342a8f00f9ad33cd318c8c] Schedules 1 and 2 are amended in accordance with the Schedule to this Order.
 
 Lesley Griffiths
 
@@ -134,7 +134,7 @@ Cabinet Secretary for Environment and Rural Affairs, one of the Welsh Ministers
 
 Article 8
 
-### 1. Amendment of Schedule 1 (Movements off premises which are permitted during the standstill period)[^key-6853d33199c0f3b1de90d905fc4d3152]
+### 1. Amendment of Schedule 1 (Movements off premises which are permitted during the standstill period)[^c-6853d33199c0f3b1de90d905fc4d3152]
 
 (1) Schedule 1 is amended as follows.
 
@@ -154,7 +154,7 @@ Article 8
 >
 > The movement of cattle, sheep and goats to shows and exhibitions provided where they have moved from another show or exhibition within the last 6 days they have been held in a quarantine unit and have not left that quarantine unit since being taken into it.
 
-### 2. Amendment of Schedule 2 (Movements on to premises that do not trigger the standstill period)[^key-db44c8518355430ea919523faf8f1d13]
+### 2. Amendment of Schedule 2 (Movements on to premises that do not trigger the standstill period)[^c-db44c8518355430ea919523faf8f1d13]
 
 (1) Schedule 2 is amended as follows.
 
@@ -221,21 +221,21 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22). Functions under the Act are exercisable by the Welsh Ministers (in relation to Wales) by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)); the National Assembly for Wales (Transfer of Functions) Order 2004 ([S.I. 2004/3044](https://www.legislation.gov.uk/uksi/2004/3044)); and section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-c59eb5dbbe50268f1703648078a9dbbb]: Commencement: Art. 1 in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-c59eb5dbbe50268f1703648078a9dbbb]: Commencement: Art. 1 in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
-[^key-a9b61194885035aec52f94c08fe3c172]: Textual amendment: Art. 1(3) substituted (10.9.2017) by [The Disease Control (Wales) (Amendment) (Amendment) Order 2017 (S.I. 2017/677)](https://www.legislation.gov.uk/wsi/2017/677), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/677/article/1/3), [3](https://www.legislation.gov.uk/wsi/2017/677/article/3)
+[^c-a9b61194885035aec52f94c08fe3c172]: Textual amendment: Art. 1(3) substituted (10.9.2017) by [The Disease Control (Wales) (Amendment) (Amendment) Order 2017 (S.I. 2017/677)](https://www.legislation.gov.uk/wsi/2017/677), [arts. 1(3)](https://www.legislation.gov.uk/wsi/2017/677/article/1/3), [3](https://www.legislation.gov.uk/wsi/2017/677/article/3)
 
-[^key-c3b6a15791342a8f00f9ad33cd318c8c]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2017/674/article/2) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-c3b6a15791342a8f00f9ad33cd318c8c]: Commencement: [Art. 2](https://www.legislation.gov.uk/wsi/2017/674/article/2) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
 [^f00002]: Footnote: [S.I. 2003/1966 (W. 211)](https://www.legislation.gov.uk/wsi/2003/1966).
 
-[^key-5077c1fb8abd77baf03951e8a82c299c]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2017/674/article/3) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-5077c1fb8abd77baf03951e8a82c299c]: Commencement: [Art. 3](https://www.legislation.gov.uk/wsi/2017/674/article/3) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
 [^f00003]: Footnote: [S.I. 2006/31 (W. 5)](https://www.legislation.gov.uk/wsi/2006/31).
 
-[^key-1a7195cfa8ed343f6807e8a01e390461]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2017/674/article/4) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-1a7195cfa8ed343f6807e8a01e390461]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2017/674/article/4) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
-[^key-27e8e3d52923a193a4b6c9e4a514bf47]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2017/674/article/5) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-27e8e3d52923a193a4b6c9e4a514bf47]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2017/674/article/5) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
 [^f00004]: Footnote: [S.I. 2010/1379 (W. 122)](https://www.legislation.gov.uk/wsi/2010/1379) as amended by [S.I. 2014/632 (W. 72)](https://www.legislation.gov.uk/wsi/2014/632).
 
@@ -243,18 +243,18 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00006]: Footnote: [S.I. 2015/1992 (W. 302)](https://www.legislation.gov.uk/wsi/2015/1992).
 
-[^key-b797e1edcd0cd62242274a192ffb4aeb]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2017/674/article/6) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-b797e1edcd0cd62242274a192ffb4aeb]: Commencement: [Art. 6](https://www.legislation.gov.uk/wsi/2017/674/article/6) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
-[^key-a235a7fc7887ff2332a33dd5ad295588]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2017/674/article/7) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-a235a7fc7887ff2332a33dd5ad295588]: Commencement: [Art. 7](https://www.legislation.gov.uk/wsi/2017/674/article/7) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
-[^key-38c3a2bf3e37cc527f2e5565b78b0097]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2017/674/article/8) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-38c3a2bf3e37cc527f2e5565b78b0097]: Commencement: [Art. 8](https://www.legislation.gov.uk/wsi/2017/674/article/8) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
-[^key-6853d33199c0f3b1de90d905fc4d3152]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-6853d33199c0f3b1de90d905fc4d3152]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/1) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
 [^f00007]: Footnote: [S.I. 2011/2379 (W. 252)](https://www.legislation.gov.uk/wsi/2011/2379).
 
 [^f00008]: Footnote: [S.I. 2011/2830 (W. 303)](https://www.legislation.gov.uk/wsi/2011/2830).
 
-[^key-db44c8518355430ea919523faf8f1d13]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
+[^c-db44c8518355430ea919523faf8f1d13]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/wsi/2017/674/schedule/paragraph/2) in force at 11.9.2017, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2017/674/article/1/3)
 
 [^f00009]: Footnote: [S.I. 2010/900 (W. 93)](https://www.legislation.gov.uk/wsi/2010/900).

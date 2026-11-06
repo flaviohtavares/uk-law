@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Grant of short Scottish secure tenancy: homeowners[^key-2e55ac79d89fe1a61ca1dc523bd51aef]
+## 8. Grant of short Scottish secure tenancy: homeowners[^c-2e55ac79d89fe1a61ca1dc523bd51aef]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In schedule 6 to the 2001 Act (grounds for granting short Scottish secure tenanc
 
 ## Annotations
 
-[^key-2e55ac79d89fe1a61ca1dc523bd51aef]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/14/section/8) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-2e55ac79d89fe1a61ca1dc523bd51aef]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2014/14/section/8) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

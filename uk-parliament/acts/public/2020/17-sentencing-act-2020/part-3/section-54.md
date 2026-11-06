@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Duty to give reasons where reparation order not made[^key-47ccc773a4910927d36ff87b4de47412]
+## 54. Duty to give reasons where reparation order not made[^c-47ccc773a4910927d36ff87b4de47412]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ the court must give reasons if it does not make a reparation order.
 
 ## Annotations
 
-[^key-47ccc773a4910927d36ff87b4de47412]: Commencement: S. 54 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-47ccc773a4910927d36ff87b4de47412]: Commencement: S. 54 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

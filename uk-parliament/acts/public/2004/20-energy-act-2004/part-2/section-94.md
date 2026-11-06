@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Application of regulations under 1989 Act offshore[^key-4ef93bbaa4ad6974a192a8f384a8cdf6]
+## 94. Application of regulations under 1989 Act offshore[^c-4ef93bbaa4ad6974a192a8f384a8cdf6]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ef93bbaa4ad6974a192a8f384a8cdf6]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2004/20/section/94) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-4ef93bbaa4ad6974a192a8f384a8cdf6]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2004/20/section/94) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

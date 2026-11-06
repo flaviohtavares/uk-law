@@ -33,7 +33,7 @@ summary: ''
 
 TRANSPORT
 
-The Cableway Installations (Amendment) Regulations 2004 (revoked)[^key-2aef673c677d9ed98fd2f5a0eaf87f6a]
+The Cableway Installations (Amendment) Regulations 2004 (revoked)[^c-2aef673c677d9ed98fd2f5a0eaf87f6a]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force
 
 3rd May 2004
 
-[^key-2aef673c677d9ed98fd2f5a0eaf87f6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2aef673c677d9ed98fd2f5a0eaf87f6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2aef673c677d9ed98fd2f5a0eaf87f6a]
+## 1. Citation and commencement[^c-2aef673c677d9ed98fd2f5a0eaf87f6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Cableway Installations Regulations 2004[^key-2aef673c677d9ed98fd2f5a0eaf87f6a]
+## 2. Amendment of the Cableway Installations Regulations 2004[^c-2aef673c677d9ed98fd2f5a0eaf87f6a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2aef673c677d9ed98fd2f5a0eaf87f6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2aef673c677d9ed98fd2f5a0eaf87f6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2aef673c677d9ed98fd2f5a0eaf87f6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2aef673c677d9ed98fd2f5a0eaf87f6a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2aef673c677d9ed98fd2f5a0eaf87f6a]: Textual amendment: Regulations revoked (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/816/regulation/2/b)
+[^c-2aef673c677d9ed98fd2f5a0eaf87f6a]: Textual amendment: Regulations revoked (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/816/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Prohibition on franchise extensions and new franchises[^key-2aa17050f96086a29dc874686766a931]
+## 25A. Prohibition on franchise extensions and new franchises[^c-2aa17050f96086a29dc874686766a931]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2aa17050f96086a29dc874686766a931]: Textual amendment: S. 25A substituted for ss. 25-26ZA (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/1/2), [5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2)
+[^c-2aa17050f96086a29dc874686766a931]: Textual amendment: S. 25A substituted for ss. 25-26ZA (28.11.2024) by [Passenger Railway Services (Public Ownership) Act 2024 (c. 25)](https://www.legislation.gov.uk/ukpga/2024/25), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/1/2), [5(2)](https://www.legislation.gov.uk/ukpga/2024/25/section/5/2)

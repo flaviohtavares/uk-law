@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 60B. Amount of extended payment[^key-02529138fa7c12c0b74bd20d7f70253c]
+## 60B. Amount of extended payment[^c-02529138fa7c12c0b74bd20d7f70253c]
 
 (1) For any week during the extended payment period the amount of the extended payment payable to a claimant shall be the higher of—
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02529138fa7c12c0b74bd20d7f70253c]: Textual amendment: Regs. 60-60D substituted for reg. 60 (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/7/2)
+[^c-02529138fa7c12c0b74bd20d7f70253c]: Textual amendment: Regs. 60-60D substituted for reg. 60 (6.10.2008) by [The Housing Benefit and Council Tax Benefit (Extended Payments) Amendment Regulations 2008 (S.I. 2008/959)](https://www.legislation.gov.uk/uksi/2008/959), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/959/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2008/959/regulation/7/2)

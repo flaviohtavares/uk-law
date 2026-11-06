@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Effect of moratorium[^key-07914a268d3788dfd2c8167a54b5e663]
+## 78. Effect of moratorium[^c-07914a268d3788dfd2c8167a54b5e663]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) Subsection (1)—
 
 - (a) applies to disposals by the registered social landlord and by any other person having power to dispose of the registered social landlord's land, but
-- (b) does not apply to a disposal of a type mentioned in paragraphs (a) to (g) and (i) to (k) of section 108(1)[^key-b8c662cb734c729b73f2f7609c7d62c7].
+- (b) does not apply to a disposal of a type mentioned in paragraphs (a) to (g) and (i) to (k) of section 108(1)[^c-b8c662cb734c729b73f2f7609c7d62c7].
 
 (3) The Regulator's consent to a disposal may be given—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07914a268d3788dfd2c8167a54b5e663]: Commencement: S. 78 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-07914a268d3788dfd2c8167a54b5e663]: Commencement: S. 78 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
-[^key-b8c662cb734c729b73f2f7609c7d62c7]: Textual amendment: Words in s. 78(2)(b) substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 3(2)](https://www.legislation.gov.uk/asp/2018/13/section/3/2), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-b8c662cb734c729b73f2f7609c7d62c7]: Textual amendment: Words in s. 78(2)(b) substituted (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 3(2)](https://www.legislation.gov.uk/asp/2018/13/section/3/2), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

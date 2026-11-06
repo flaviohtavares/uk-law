@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Non-Domestic Rates (Levying) (Scotland) Regulations 2018 (revoked)[^key-5f5fbc7307a7ca75be6dee35f0d157ab]
+The Non-Domestic Rates (Levying) (Scotland) Regulations 2018 (revoked)[^c-5f5fbc7307a7ca75be6dee35f0d157ab]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 1st April 2018
 
-[^key-5f5fbc7307a7ca75be6dee35f0d157ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f5fbc7307a7ca75be6dee35f0d157ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-5f5fbc7307a7ca75be6dee35f0d157ab]
+## 1. Citation and commencement[^c-5f5fbc7307a7ca75be6dee35f0d157ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5f5fbc7307a7ca75be6dee35f0d157ab]
+## 2. Interpretation[^c-5f5fbc7307a7ca75be6dee35f0d157ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^key-5f5fbc7307a7ca75be6dee35f0d157ab]
+## 3. Amount payable as rates – lands and heritages with rateable value of £18,000 or less[^c-5f5fbc7307a7ca75be6dee35f0d157ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amount payable as rates – lands and heritages with rateable value more than £51,000[^key-5f5fbc7307a7ca75be6dee35f0d157ab]
+## 4. Amount payable as rates – lands and heritages with rateable value more than £51,000[^c-5f5fbc7307a7ca75be6dee35f0d157ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemptions and discretionary reductions and remissions[^key-5f5fbc7307a7ca75be6dee35f0d157ab]
+## 5. Exemptions and discretionary reductions and remissions[^c-5f5fbc7307a7ca75be6dee35f0d157ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation and saving[^key-5f5fbc7307a7ca75be6dee35f0d157ab]
+## 6. Revocation and saving[^c-5f5fbc7307a7ca75be6dee35f0d157ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the Non-Domestic Rates (Day Nursery Relief) (Scotland) Regulations 2018[^key-5f5fbc7307a7ca75be6dee35f0d157ab]
+## 7. Amendment of the Non-Domestic Rates (Day Nursery Relief) (Scotland) Regulations 2018[^c-5f5fbc7307a7ca75be6dee35f0d157ab]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f5fbc7307a7ca75be6dee35f0d157ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f5fbc7307a7ca75be6dee35f0d157ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5f5fbc7307a7ca75be6dee35f0d157ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f5fbc7307a7ca75be6dee35f0d157ab]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f5fbc7307a7ca75be6dee35f0d157ab]: Textual amendment: Regulations revoked (1.4.2019) by The Non-[Domestic Rates (Levying) (Scotland) Regulations 2019 (S.S.I. 2019/39)](https://www.legislation.gov.uk/ssi/2019/39), [regs. 1](https://www.legislation.gov.uk/ssi/2019/39/regulation/1), [6(1)](https://www.legislation.gov.uk/ssi/2019/39/regulation/6/1) (with [regs. 5](https://www.legislation.gov.uk/ssi/2019/39/regulation/5), [6(2)](https://www.legislation.gov.uk/ssi/2019/39/regulation/6/2))
+[^c-5f5fbc7307a7ca75be6dee35f0d157ab]: Textual amendment: Regulations revoked (1.4.2019) by The Non-[Domestic Rates (Levying) (Scotland) Regulations 2019 (S.S.I. 2019/39)](https://www.legislation.gov.uk/ssi/2019/39), [regs. 1](https://www.legislation.gov.uk/ssi/2019/39/regulation/1), [6(1)](https://www.legislation.gov.uk/ssi/2019/39/regulation/6/1) (with [regs. 5](https://www.legislation.gov.uk/ssi/2019/39/regulation/5), [6(2)](https://www.legislation.gov.uk/ssi/2019/39/regulation/6/2))

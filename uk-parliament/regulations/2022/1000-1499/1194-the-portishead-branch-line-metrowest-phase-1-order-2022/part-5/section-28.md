@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Private rights over land subject to compulsory acquisition or temporary possession[^key-c2fcb50de185a41e6b06ea111d8bb6a3]
+## 28. Private rights over land subject to compulsory acquisition or temporary possession[^c-c2fcb50de185a41e6b06ea111d8bb6a3]
 
 *Extent: E+W*
 
@@ -62,7 +62,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-c2fcb50de185a41e6b06ea111d8bb6a3]: Commencement: Art. 28 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-c2fcb50de185a41e6b06ea111d8bb6a3]: Commencement: Art. 28 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
 [^f00043]: Footnote: Section 11(1) was amended by Schedule 4 to the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67) and section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure 2006 ([2006 No. 1](https://www.legislation.gov.uk/ukcm/2006/1)) and section 186(1) and (2 of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22),
 

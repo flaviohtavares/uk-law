@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 158. Annual increase in rate of personal pension[^key-c05689a4df0427f44710040bdba69c5f]
+## 158. Annual increase in rate of personal pension[^c-c05689a4df0427f44710040bdba69c5f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c05689a4df0427f44710040bdba69c5f]: Textual amendment: [Art. 158](https://www.legislation.gov.uk/nisi/1995/3213/article/158) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [5(5)](https://www.legislation.gov.uk/nisr/2012/124/article/5/5)
+[^c-c05689a4df0427f44710040bdba69c5f]: Textual amendment: [Art. 158](https://www.legislation.gov.uk/nisi/1995/3213/article/158) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [5(5)](https://www.legislation.gov.uk/nisr/2012/124/article/5/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 9. Revocations and amendments[^key-075317973e58169cb41c1611da3c5cb8]
+## 9. Revocations and amendments[^c-075317973e58169cb41c1611da3c5cb8]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-075317973e58169cb41c1611da3c5cb8]: Commencement: Reg. 9 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-075317973e58169cb41c1611da3c5cb8]: Commencement: Reg. 9 in operation at 25.7.2006 with effect in accordance with reg. 1

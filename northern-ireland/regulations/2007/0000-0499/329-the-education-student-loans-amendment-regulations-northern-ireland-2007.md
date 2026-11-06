@@ -41,21 +41,21 @@ Coming into operation-
 
 The Department for Employment and Learning[^f00001] makes the following Regulations in exercise of the powers conferred by Article 3(5) of and paragraph 1(1) of Schedule 2 to the Education (Student Loans) (Northern Ireland) Order 1990[^f00002] and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-2a11c3616fe2903f3b96286e3f4a42d5]
+## 1. Citation, commencement and interpretation[^c-2a11c3616fe2903f3b96286e3f4a42d5]
 
 These Regulations may be cited as the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2007 and come into operation on 1st August 2007.
 
-**2.**[^key-2dd79080858854e2a8d34e412ab2a2be] In these Regulations “the principal Regulations” means the Education (Student Loans) Regulations (Northern Ireland) 1998[^f00004].
+**2.**[^c-2dd79080858854e2a8d34e412ab2a2be] In these Regulations “the principal Regulations” means the Education (Student Loans) Regulations (Northern Ireland) 1998[^f00004].
 
-## 3. Revocation[^key-5ff6c43eb467a1f8454449e51f899e99]
+## 3. Revocation[^c-5ff6c43eb467a1f8454449e51f899e99]
 
 Regulation 8 of the Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006 is revoked[^f00005].
 
-## 4. Amendment of the principal Regulations[^key-7a3d0062d8b3c6ac261dc86fde40e667]
+## 4. Amendment of the principal Regulations[^c-7a3d0062d8b3c6ac261dc86fde40e667]
 
 The principal Regulations shall be amended as provided by regulations 5 to 10.
 
-**5.**[^key-c0d07a8fd7b4983d5afaae51d6a4cfcb] (1) Regulation 3 (Interpretation) shall be amended as provided by paragraphs (2) to (6).
+**5.**[^c-c0d07a8fd7b4983d5afaae51d6a4cfcb] (1) Regulation 3 (Interpretation) shall be amended as provided by paragraphs (2) to (6).
 
 (2) For the definition of “2005 loan”, there shall be substituted—
 
@@ -83,7 +83,7 @@ The principal Regulations shall be amended as provided by regulations 5 to 10.
 
 (6) The definition of “new academic year” shall be omitted.
 
-**6.**[^key-674fbe82c3d400790c572cfd336d1818] (1) Regulation 4 (Conditions of Eligibility) shall be amended as provided by paragraphs (2) and (3).
+**6.**[^c-674fbe82c3d400790c572cfd336d1818] (1) Regulation 4 (Conditions of Eligibility) shall be amended as provided by paragraphs (2) and (3).
 
 (2) In paragraphs (1A) and (1D) for “a new academic year” wherever it appears, there shall be substituted “the 2005 academic year”.
 
@@ -117,15 +117,15 @@ The principal Regulations shall be amended as provided by regulations 5 to 10.
 
 .
 
-**7.**[^key-c4ce7a018dfe9ae39cf5527013cd8136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c4ce7a018dfe9ae39cf5527013cd8136] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-58aee9c6683e5f00b2bd48e07e5a05db] For regulation 7(1) (Terms of loans), there shall be substituted—
+**8.**[^c-58aee9c6683e5f00b2bd48e07e5a05db] For regulation 7(1) (Terms of loans), there shall be substituted—
 
 > (1) Every agreement for a loan made on or after 1st August 2007 shall include the terms set out in Part 1 of Schedule 2.
 
 .
 
-**9.**[^key-3706583b76de525c206910d571525afb] (1) Schedule 1 (Eligible students) shall be amended as provided by paragraphs (2) to (5).
+**9.**[^c-3706583b76de525c206910d571525afb] (1) Schedule 1 (Eligible students) shall be amended as provided by paragraphs (2) to (5).
 
 (2) After the definition of “Switzerland Agreement” in paragraph 1(1), there shall be inserted—
 
@@ -167,7 +167,7 @@ The principal Regulations shall be amended as provided by regulations 5 to 10.
 
 .
 
-**10.**[^key-442d9b119d8dcafe5c24a47c3a31c72f] (1) Schedule 2 (Terms of loans) shall be amended as provided by paragraphs (2) to (7).
+**10.**[^c-442d9b119d8dcafe5c24a47c3a31c72f] (1) Schedule 2 (Terms of loans) shall be amended as provided by paragraphs (2) to (7).
 
 (2) In paragraph 1 for the definition of “2005 loan”, there shall be substituted—
 
@@ -233,26 +233,26 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) *see* Article 5(b) and Schedule 3 Part II
 
-[^key-2a11c3616fe2903f3b96286e3f4a42d5]: Commencement: Reg. 1 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
+[^c-2a11c3616fe2903f3b96286e3f4a42d5]: Commencement: Reg. 1 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
 
-[^key-2dd79080858854e2a8d34e412ab2a2be]: Commencement: Reg. 2 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
+[^c-2dd79080858854e2a8d34e412ab2a2be]: Commencement: Reg. 2 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58) as amended by [S.R. 1998 No. 262](https://www.legislation.gov.uk/nisr/1998/262), [S.R. 1998 No. 303](https://www.legislation.gov.uk/nisr/1998/303), [S.R. 1999 No. 343](https://www.legislation.gov.uk/nisr/1999/343), [S.R. 2000 No. 244](https://www.legislation.gov.uk/nisr/2000/244), [S.R. 2001 No.276](https://www.legislation.gov.uk/nisr/2001/276), [S.R. 2002 No. 241](https://www.legislation.gov.uk/nisr/2002/241), [S.R. 2003 No. 340](https://www.legislation.gov.uk/nisr/2003/340), [S.R. 2004 No. 305](https://www.legislation.gov.uk/nisr/2004/305), [S.R. 2005 No. 351](https://www.legislation.gov.uk/nisr/2005/351), [S.R. 2005 No. 435](https://www.legislation.gov.uk/nisr/2005/435), [S.R. 2006 No. 307](https://www.legislation.gov.uk/nisr/2006/307) and [S.R. 2006 No.329](https://www.legislation.gov.uk/nisr/2006/329)
 
-[^key-5ff6c43eb467a1f8454449e51f899e99]: Commencement: Reg. 3 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
+[^c-5ff6c43eb467a1f8454449e51f899e99]: Commencement: Reg. 3 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2006 No. 307](https://www.legislation.gov.uk/nisr/2006/307)
 
-[^key-7a3d0062d8b3c6ac261dc86fde40e667]: Commencement: Reg. 4 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
+[^c-7a3d0062d8b3c6ac261dc86fde40e667]: Commencement: Reg. 4 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
 
-[^key-c0d07a8fd7b4983d5afaae51d6a4cfcb]: Commencement: Reg. 5 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
+[^c-c0d07a8fd7b4983d5afaae51d6a4cfcb]: Commencement: Reg. 5 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
 
-[^key-674fbe82c3d400790c572cfd336d1818]: Commencement: Reg. 6 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
+[^c-674fbe82c3d400790c572cfd336d1818]: Commencement: Reg. 6 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
 
-[^key-c4ce7a018dfe9ae39cf5527013cd8136]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/329/regulation/7) revoked (1.8.2008) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/255)](https://www.legislation.gov.uk/nisr/2008/255), [regs. 1](https://www.legislation.gov.uk/nisr/2008/255/regulation/1), [3](https://www.legislation.gov.uk/nisr/2008/255/regulation/3)
+[^c-c4ce7a018dfe9ae39cf5527013cd8136]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/329/regulation/7) revoked (1.8.2008) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/255)](https://www.legislation.gov.uk/nisr/2008/255), [regs. 1](https://www.legislation.gov.uk/nisr/2008/255/regulation/1), [3](https://www.legislation.gov.uk/nisr/2008/255/regulation/3)
 
-[^key-58aee9c6683e5f00b2bd48e07e5a05db]: Commencement: Reg. 8 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
+[^c-58aee9c6683e5f00b2bd48e07e5a05db]: Commencement: Reg. 8 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
 
-[^key-3706583b76de525c206910d571525afb]: Commencement: Reg. 9 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
+[^c-3706583b76de525c206910d571525afb]: Commencement: Reg. 9 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
 
-[^key-442d9b119d8dcafe5c24a47c3a31c72f]: Commencement: Reg. 10 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)
+[^c-442d9b119d8dcafe5c24a47c3a31c72f]: Commencement: Reg. 10 in operation at 1.8.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/329/regulation/1)

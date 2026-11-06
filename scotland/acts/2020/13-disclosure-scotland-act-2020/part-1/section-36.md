@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Regulations about procedure for disclosure requests[^key-fb4c2a7d7417d7207861b55e76113f15]
+## 36. Regulations about procedure for disclosure requests[^c-fb4c2a7d7417d7207861b55e76113f15]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ The Scottish Ministers may by regulations make further provision about the proce
 
 ## Annotations
 
-[^key-fb4c2a7d7417d7207861b55e76113f15]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2020/13/section/36) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)
+[^c-fb4c2a7d7417d7207861b55e76113f15]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2020/13/section/36) in force at 30.9.2024 by [S.S.I. 2024/242](https://www.legislation.gov.uk/ssi/2024/242), [reg. 2](https://www.legislation.gov.uk/ssi/2024/242/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/242/schedule)

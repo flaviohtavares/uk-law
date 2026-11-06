@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69G. Appeal from decision of court of summary jurisdiction[^key-ef70bbf2419afa46388f7b74ad26523a]
+## 69G. Appeal from decision of court of summary jurisdiction[^c-ef70bbf2419afa46388f7b74ad26523a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef70bbf2419afa46388f7b74ad26523a]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/18/section/1/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)
+[^c-ef70bbf2419afa46388f7b74ad26523a]: Textual amendment: Pt. 4A inserted (10.12.2012) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2011 (c. 18)](https://www.legislation.gov.uk/nia/2011/18), [ss. 1(1)](https://www.legislation.gov.uk/nia/2011/18/section/1/1), [18](https://www.legislation.gov.uk/nia/2011/18/section/18); [S.R. 2012/420](https://www.legislation.gov.uk/nisr/2012/420), [art. 2](https://www.legislation.gov.uk/nisr/2012/420/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/420/schedule)

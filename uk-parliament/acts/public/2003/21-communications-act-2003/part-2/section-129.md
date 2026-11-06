@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Enforcement notifications for stopping persistent misuse[^M_C_41189edc-de5c-4163-9f19-c0caf05d223a][^key-bd6569d068ea476dc303d0fa152f534d][^key-fae0006d67bf82ff52a0a5df2d2c39ee]
+## 129. Enforcement notifications for stopping persistent misuse[^M_C_41189edc-de5c-4163-9f19-c0caf05d223a][^c-bd6569d068ea476dc303d0fa152f534d][^c-fae0006d67bf82ff52a0a5df2d2c39ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ as may be specified in the notification.
 
 [^M_C_41189edc-de5c-4163-9f19-c0caf05d223a]: Modification: Ss. 128-131 modified (31.12.2020) by [The Communications Act (e-Commerce) (EU Exit) Regulations 2020 (S.I. 2020/1420)](https://www.legislation.gov.uk/uksi/2020/1420), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1420/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1420/regulation/2)
 
-[^key-bd6569d068ea476dc303d0fa152f534d]: Commencement: S. 129 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-bd6569d068ea476dc303d0fa152f534d]: Commencement: S. 129 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-fae0006d67bf82ff52a0a5df2d2c39ee]: Commencement: S. 129 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-fae0006d67bf82ff52a0a5df2d2c39ee]: Commencement: S. 129 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

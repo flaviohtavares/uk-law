@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Exploitation proceeds orders[^key-866816debbc9a416d2530714eb3e6201]
+## 155. Exploitation proceeds orders[^c-866816debbc9a416d2530714eb3e6201]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-866816debbc9a416d2530714eb3e6201]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2009/25/section/155) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)
+[^c-866816debbc9a416d2530714eb3e6201]: Commencement: [S. 155](https://www.legislation.gov.uk/ukpga/2009/25/section/155) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/11)

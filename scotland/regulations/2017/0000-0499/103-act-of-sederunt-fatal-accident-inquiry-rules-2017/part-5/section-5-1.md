@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.1. Procedure[^key-ba2d630d7454984eac33416abe8b1514]
+## 5.1. Procedure[^c-ba2d630d7454984eac33416abe8b1514]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The procedure at an inquiry is to be as ordered by the sheriff.
 
 ## Annotations
 
-[^key-ba2d630d7454984eac33416abe8b1514]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/ssi/2017/103/rule/5.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-ba2d630d7454984eac33416abe8b1514]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/ssi/2017/103/rule/5.1) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

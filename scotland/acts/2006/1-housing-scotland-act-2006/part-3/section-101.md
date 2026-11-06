@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Other duties of person acting as agent for seller[^key-437b822b1f1aa5f71574c3707e1ebbe8]
+## 101. Other duties of person acting as agent for seller[^c-437b822b1f1aa5f71574c3707e1ebbe8]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-437b822b1f1aa5f71574c3707e1ebbe8]: Commencement: S. 101 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-437b822b1f1aa5f71574c3707e1ebbe8]: Commencement: S. 101 in force at 1.12.2008 by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

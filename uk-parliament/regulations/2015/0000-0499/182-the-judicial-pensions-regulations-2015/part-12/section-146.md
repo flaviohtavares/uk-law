@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Meaning of “dual capacity member”[^key-668f98e87dfed4755ca528ccffe911c6]
+## 146. Meaning of “dual capacity member”[^c-668f98e87dfed4755ca528ccffe911c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-668f98e87dfed4755ca528ccffe911c6]: Commencement: [Reg. 146](https://www.legislation.gov.uk/uksi/2015/182/regulation/146) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-668f98e87dfed4755ca528ccffe911c6]: Commencement: [Reg. 146](https://www.legislation.gov.uk/uksi/2015/182/regulation/146) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

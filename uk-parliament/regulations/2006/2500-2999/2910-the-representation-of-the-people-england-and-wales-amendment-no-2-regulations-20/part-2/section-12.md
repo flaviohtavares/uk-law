@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Anonymous registration: procedure[^key-0c3e6684a782f7df7b47b02fd8f719ad]
+## 12. Anonymous registration: procedure[^c-0c3e6684a782f7df7b47b02fd8f719ad]
 
 *Extent: E+W*
 
@@ -109,7 +109,7 @@ After regulation 31F insert—
 
 ## Annotations
 
-[^key-0c3e6684a782f7df7b47b02fd8f719ad]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/2910/regulation/12) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-0c3e6684a782f7df7b47b02fd8f719ad]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2006/2910/regulation/12) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00018]: Footnote: [1997 c. 40](https://www.legislation.gov.uk/ukpga/1997/40); section 3(1) was amended by the Serious Organised Crime and Police Act [2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), section 125(4).
 

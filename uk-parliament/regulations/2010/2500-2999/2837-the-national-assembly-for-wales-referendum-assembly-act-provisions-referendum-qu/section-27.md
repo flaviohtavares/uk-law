@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Modifications of enactments[^key-05ba4f84551040c8f33a16129b943cb6]
+## 27. Modifications of enactments[^c-05ba4f84551040c8f33a16129b943cb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 5 makes provision about the application to the referendum, with modific
 
 ## Annotations
 
-[^key-05ba4f84551040c8f33a16129b943cb6]: Commencement: Art. 27 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-05ba4f84551040c8f33a16129b943cb6]: Commencement: Art. 27 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

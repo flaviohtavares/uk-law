@@ -28,7 +28,7 @@ summary: ''
 - (b) identifying the training needs of lay justices;
 - (c) appraising lay justices and reporting on the results of appraisals;
 - (d) giving or withholding approval for the purposes of section 18;
-- (e) advising the Lord Chief Justice[^c19137771] in relation to authorisations of lay justices as judges of the family court or as members of[^key-97908aa07665c21cbaeda24bf4433f26] youth courts;
+- (e) advising the Lord Chief Justice[^c19137771] in relation to authorisations of lay justices as judges of the family court or as members of[^c-97908aa07665c21cbaeda24bf4433f26] youth courts;
 - (f) granting or revoking such authorisations on behalf of the Lord Chief Justice .
 
 (3) The Lord Chief Justice[^c19137821] must ensure that training and training materials that appear to him, after consulting the Lord Chancellor, to be appropriate[^c19137861] are provided for lay justices with a view to enabling them to comply with requirements as to training imposed by rules under section 10 or 18 or this section.
@@ -39,7 +39,7 @@ summary: ''
 
 [^c19137771]: Textual amendment: Words in s. 19(2) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 320(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/320/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)
 
-[^key-97908aa07665c21cbaeda24bf4433f26]: Textual amendment: Words in s. 19(2)(e) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 86](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/86); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-97908aa07665c21cbaeda24bf4433f26]: Textual amendment: Words in s. 19(2)(e) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 86](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/86); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c19137821]: Textual amendment: Words in s. 19(3) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 320(3)(a)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/320/3/a); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)
 

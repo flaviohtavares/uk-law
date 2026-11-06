@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Registration appeals[^key-e1e647ff74c9bd6cafb6fd85c656b7dc]
+## 27. Registration appeals[^c-e1e647ff74c9bd6cafb6fd85c656b7dc]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,4 +109,4 @@ After Schedule 1, insert—
 
 ## Annotations
 
-[^key-e1e647ff74c9bd6cafb6fd85c656b7dc]: Commencement: Art. 27 comes into force in accordance with art. 1(3)-(6)
+[^c-e1e647ff74c9bd6cafb6fd85c656b7dc]: Commencement: Art. 27 comes into force in accordance with art. 1(3)-(6)

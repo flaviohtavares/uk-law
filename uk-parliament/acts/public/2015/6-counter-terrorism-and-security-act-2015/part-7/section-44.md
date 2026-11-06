@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Reviews of operation of Part 1 etc[^key-56b27b4e1d841587c59a8c06f9df75d4]
+## 44. Reviews of operation of Part 1 etc[^c-56b27b4e1d841587c59a8c06f9df75d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) Part 2 of that Act as it applies in cases where a use or threat of the action referred to in section 4(2) of that Act would constitute terrorism;
 - (c) the Counter-Terrorism Act 2008;
 - (d) Part 1 of this Act.
-- (e)[^key-30a1d3b5c4c8ff522d2e5eca864f5753] section 69 of the Sentencing Code (including as it is applied by section 238(6) of the Armed Forces Act 2006), and Schedules A1 and 1[^key-44fbfe96c90ef95509e61fd447718f9b] to that Code (terrorist connection).
+- (e)[^c-30a1d3b5c4c8ff522d2e5eca864f5753] section 69 of the Sentencing Code (including as it is applied by section 238(6) of the Armed Forces Act 2006), and Schedules A1 and 1[^c-44fbfe96c90ef95509e61fd447718f9b] to that Code (terrorist connection).
 
 (3) In each calendar year the independent reviewer must, by 31 January, inform the Secretary of State and the Treasury what (if any) reviews under this section the reviewer intends to carry out in that year.
 
@@ -44,8 +44,8 @@ Those reviews must be completed during that year or as soon as reasonably practi
 
 ## Annotations
 
-[^key-56b27b4e1d841587c59a8c06f9df75d4]: Commencement: S. 44 in force at 12.4.2015, see s. 52(2)(b)
+[^c-56b27b4e1d841587c59a8c06f9df75d4]: Commencement: S. 44 in force at 12.4.2015, see s. 52(2)(b)
 
-[^key-30a1d3b5c4c8ff522d2e5eca864f5753]: Textual amendment: S. 44(2)(e) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 292](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/292) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-30a1d3b5c4c8ff522d2e5eca864f5753]: Textual amendment: S. 44(2)(e) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 292](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/292) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-44fbfe96c90ef95509e61fd447718f9b]: Textual amendment: Words in s. 44(2)(e) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/3)
+[^c-44fbfe96c90ef95509e61fd447718f9b]: Textual amendment: Words in s. 44(2)(e) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/3)

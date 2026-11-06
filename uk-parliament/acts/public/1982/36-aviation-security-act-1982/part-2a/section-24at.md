@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24AT. Interpretation[^key-60eb6c2fea269d569f8c613a4608a22d]
+## 24AT. Interpretation[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,13 +54,13 @@ this Part applies in relation to the aerodrome as if it had become an aerodrome 
 
 - (a) the manager of the aerodrome appoints a representative under section 24AG(2)(a);
 - (b) the chief officer of police for the relevant police area informs the manager of the aerodrome that either the chief officer will serve as a member of the group or that the chief officer has appointed a representative for the purposes of section 24AG(2)(b);
-- (c) in the case of an aerodrome in Scotland or Northern Ireland,[^key-547d5bbdca1ca129c832779a7ece1642] the police authority for the relevant police area informs the manager of the aerodrome that the police authority has appointed a representative for the purposes of section 24AG(2)(c);
+- (c) in the case of an aerodrome in Scotland or Northern Ireland,[^c-547d5bbdca1ca129c832779a7ece1642] the police authority for the relevant police area informs the manager of the aerodrome that the police authority has appointed a representative for the purposes of section 24AG(2)(c);
 - (d) a person nominated by the manager of the aerodrome under section 24AG(3) accepts the nomination.
 
 (7) In the application of this Part to Scotland—
 
-- (a) references to the chief officer of police for the relevant police area are to be read as references to the chief constable of the Police Service of Scotland[^key-74b23b381a1febb103c8d7dc23a10ea9] , and
-- (b) references to the police authority for the relevant police area are [^key-c42719c89ef6700fa339bb9a8349c5e7] ... to be read as references to the Scottish Police Authority[^key-61ea0c3546d57b0d0a8d747880a34fc3] .
+- (a) references to the chief officer of police for the relevant police area are to be read as references to the chief constable of the Police Service of Scotland[^c-74b23b381a1febb103c8d7dc23a10ea9] , and
+- (b) references to the police authority for the relevant police area are [^c-c42719c89ef6700fa339bb9a8349c5e7] ... to be read as references to the Scottish Police Authority[^c-61ea0c3546d57b0d0a8d747880a34fc3] .
 
 (8) In the application of this Part to Northern Ireland—
 
@@ -69,12 +69,12 @@ this Part applies in relation to the aerodrome as if it had become an aerodrome 
 
 ## Annotations
 
-[^key-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
+[^c-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
 
-[^key-547d5bbdca1ca129c832779a7ece1642]: Textual amendment: Words in s. 24AT(6)(c) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 148](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/148); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-547d5bbdca1ca129c832779a7ece1642]: Textual amendment: Words in s. 24AT(6)(c) inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 148](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/148); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-74b23b381a1febb103c8d7dc23a10ea9]: Textual amendment: Words in s. 24AT(7)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 18(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/18/2/a)
+[^c-74b23b381a1febb103c8d7dc23a10ea9]: Textual amendment: Words in s. 24AT(7)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 18(2)(a)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/18/2/a)
 
-[^key-c42719c89ef6700fa339bb9a8349c5e7]: Textual amendment: Words in s. 24AT(7)(b) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 18(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/18/2/b)
+[^c-c42719c89ef6700fa339bb9a8349c5e7]: Textual amendment: Words in s. 24AT(7)(b) omitted (1.4.2013) by virtue of [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 18(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/18/2/b)
 
-[^key-61ea0c3546d57b0d0a8d747880a34fc3]: Textual amendment: Words in s. 24AT(7)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 18(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/18/2/b)
+[^c-61ea0c3546d57b0d0a8d747880a34fc3]: Textual amendment: Words in s. 24AT(7)(b) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 18(2)(b)](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/18/2/b)

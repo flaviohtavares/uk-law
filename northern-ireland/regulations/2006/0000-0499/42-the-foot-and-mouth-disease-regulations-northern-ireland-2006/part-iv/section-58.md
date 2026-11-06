@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Powers of inspectors in case of default[^key-86709b642d8379d425263747e4954784]
+## 58. Powers of inspectors in case of default[^c-86709b642d8379d425263747e4954784]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86709b642d8379d425263747e4954784]: Commencement: Reg. 58 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-86709b642d8379d425263747e4954784]: Commencement: Reg. 58 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

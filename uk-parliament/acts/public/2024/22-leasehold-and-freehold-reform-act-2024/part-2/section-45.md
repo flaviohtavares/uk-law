@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Miscellaneous amendments[^key-8b692651899188dd896828acdbdec85d]
+## 45. Miscellaneous amendments[^c-8b692651899188dd896828acdbdec85d]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 8 contains miscellaneous further amendments to existing legislation rel
 
 ## Annotations
 
-[^key-8b692651899188dd896828acdbdec85d]: Commencement: S. 45 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-8b692651899188dd896828acdbdec85d]: Commencement: S. 45 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

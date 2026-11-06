@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Notice of decisions on disagreements[^key-fe45f84124f6ab5966c4a964e767a294]
+## 59. Notice of decisions on disagreements[^c-fe45f84124f6ab5966c4a964e767a294]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ by notice in writing before the expiry of the period of two months beginning wit
 
 ## Annotations
 
-[^key-fe45f84124f6ab5966c4a964e767a294]: Commencement: Reg. 59 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-fe45f84124f6ab5966c4a964e767a294]: Commencement: Reg. 59 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)

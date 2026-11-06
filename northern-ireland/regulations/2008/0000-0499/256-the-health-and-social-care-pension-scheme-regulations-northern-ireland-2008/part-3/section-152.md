@@ -68,7 +68,7 @@ that approval shall take effect on the later of the nominated date and the appro
 
 (7) For the purposes of this regulation the conditions for approval are those referred to in paragraph (1)(a) or (b) as the case may be.
 
-(8) The appointed Health and Social Services Board may give an OOH provider a notice in writing terminating its participation in this Section of[^key-1f72689db54c967ec879c7cd68825aef] the scheme where that provider—
+(8) The appointed Health and Social Services Board may give an OOH provider a notice in writing terminating its participation in this Section of[^c-1f72689db54c967ec879c7cd68825aef] the scheme where that provider—
 
 - (a) does not have in force a guarantee, indemnity or bond as required by the Department in accordance with regulation 163;
 - (b) has ceased to satisfy the conditions for approval;
@@ -82,16 +82,16 @@ that approval shall take effect on the later of the nominated date and the appro
 (9) An OOH provider—
 
 - (a) must give the appointed Health and Social Services Board notice in writing upon the occurrence of any of the events referred to in paragraph (8)(c) and must give such notice on the same day as that event;
-- (b) that wishes to cease to participate in this Section of[^key-543ca34e60e4cacfe4c0395753dae281] the Scheme must give the appointed Health and Social Services Board and its employees not less than 3 months notice in writing (to commence with the date of the notice) of that fact.
+- (b) that wishes to cease to participate in this Section of[^c-543ca34e60e4cacfe4c0395753dae281] the Scheme must give the appointed Health and Social Services Board and its employees not less than 3 months notice in writing (to commence with the date of the notice) of that fact.
 
-(10) An OOH provider must cease to participate in this Section of[^key-3fda9381c83bd887c3effadabe335eb5] the Scheme on—
+(10) An OOH provider must cease to participate in this Section of[^c-3fda9381c83bd887c3effadabe335eb5] the Scheme on—
 
 - (a) such date as the appointed Health and Social Services Board may specify in a notice under paragraph (8);
 - (b) the day upon which the period referred to in paragraph (9)(b) expires if a notice under that provision has been given.
 
 ## Annotations
 
-[^key-1f72689db54c967ec879c7cd68825aef]: Textual amendment: Words in [reg. 152(8)](https://www.legislation.gov.uk/nisr/2008/256/regulation/152/8) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-1f72689db54c967ec879c7cd68825aef]: Textual amendment: Words in [reg. 152(8)](https://www.legislation.gov.uk/nisr/2008/256/regulation/152/8) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
 [^c19303331]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
@@ -99,6 +99,6 @@ that approval shall take effect on the later of the nominated date and the appro
 
 [^c19303351]: Marginal citation: [S.I. 1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
-[^key-543ca34e60e4cacfe4c0395753dae281]: Textual amendment: Words in [reg. 152(9)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/152/9/b) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-543ca34e60e4cacfe4c0395753dae281]: Textual amendment: Words in [reg. 152(9)(b)](https://www.legislation.gov.uk/nisr/2008/256/regulation/152/9/b) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
 
-[^key-3fda9381c83bd887c3effadabe335eb5]: Textual amendment: Words in [reg. 152(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/152/10) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-3fda9381c83bd887c3effadabe335eb5]: Textual amendment: Words in [reg. 152(10)](https://www.legislation.gov.uk/nisr/2008/256/regulation/152/10) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

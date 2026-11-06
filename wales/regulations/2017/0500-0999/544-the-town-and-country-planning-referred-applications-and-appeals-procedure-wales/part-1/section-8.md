@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Site inspections[^key-522804998e0aa61822dcfe918a3dcad4]
+## 8. Site inspections[^c-522804998e0aa61822dcfe918a3dcad4]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-522804998e0aa61822dcfe918a3dcad4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2017/544/regulation/8) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)
+[^c-522804998e0aa61822dcfe918a3dcad4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2017/544/regulation/8) in force at 5.5.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/544/regulation/1)

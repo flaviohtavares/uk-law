@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Code of practice: standards relating to consumer matters[^key-14ccdc5984c2484278cbbc4220d8ddd0][^key-19033bf40b689564192fb9d054d541b8]
+## 23. Code of practice: standards relating to consumer matters[^c-14ccdc5984c2484278cbbc4220d8ddd0][^c-19033bf40b689564192fb9d054d541b8]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In section 195 of the Housing and Regeneration Act 2008 (code of practice)—
 
 ## Annotations
 
-[^key-14ccdc5984c2484278cbbc4220d8ddd0]: Commencement: S. 23 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
+[^c-14ccdc5984c2484278cbbc4220d8ddd0]: Commencement: S. 23 not in force at Royal Assent, see [s. 46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3)
 
-[^key-19033bf40b689564192fb9d054d541b8]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/36/section/23) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/k)
+[^c-19033bf40b689564192fb9d054d541b8]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2023/36/section/23) in force at 20.9.2023 by [S.I. 2023/1001](https://www.legislation.gov.uk/uksi/2023/1001), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2023/1001/regulation/2/k)

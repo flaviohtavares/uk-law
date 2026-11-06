@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Cessation of recognition of scheme in designated country or territory[^key-05aa223db56bb1218791122b952fefaf]
+## 47. Cessation of recognition of scheme in designated country or territory[^c-05aa223db56bb1218791122b952fefaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ the notice has effect after commencement as a warning notice under section 280(1
 
 ## Annotations
 
-[^key-05aa223db56bb1218791122b952fefaf]: Commencement: Art. 47 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-05aa223db56bb1218791122b952fefaf]: Commencement: Art. 47 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15C. Power of Department to give directions and guidance[^key-440cb20573e89d18dfdc62f059c38803]
+## 15C. Power of Department to give directions and guidance[^c-440cb20573e89d18dfdc62f059c38803]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-440cb20573e89d18dfdc62f059c38803]: Textual amendment: [Ss. 15B](https://www.legislation.gov.uk/nia/2009/1/section/15B), [15C](https://www.legislation.gov.uk/nia/2009/1/section/15C) and cross-heading inserted (2.2.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [ss. 4(1)](https://www.legislation.gov.uk/nia/2022/3/section/4/1), [8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-440cb20573e89d18dfdc62f059c38803]: Textual amendment: [Ss. 15B](https://www.legislation.gov.uk/nia/2009/1/section/15B), [15C](https://www.legislation.gov.uk/nia/2009/1/section/15C) and cross-heading inserted (2.2.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [ss. 4(1)](https://www.legislation.gov.uk/nia/2022/3/section/4/1), [8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)

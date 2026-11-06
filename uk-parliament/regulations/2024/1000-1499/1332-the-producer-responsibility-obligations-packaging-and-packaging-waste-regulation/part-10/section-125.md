@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Withdrawing or amending a notice[^key-57f08d32848a43a3343828459ea34d11]
+## 125. Withdrawing or amending a notice[^c-57f08d32848a43a3343828459ea34d11]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57f08d32848a43a3343828459ea34d11]: Commencement: Reg. 125 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-57f08d32848a43a3343828459ea34d11]: Commencement: Reg. 125 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

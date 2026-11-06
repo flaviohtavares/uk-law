@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — Police appeals tribunals[^key-be09d905ccf34ffafa7ef1948a88d56d]
+## SCHEDULE 3 — Police appeals tribunals[^c-be09d905ccf34ffafa7ef1948a88d56d]
 
 *Extent: S*
 
@@ -24,22 +24,22 @@ summary: ''
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Constitution and membership[^key-be09d905ccf34ffafa7ef1948a88d56d]
+### Constitution and membership[^c-be09d905ccf34ffafa7ef1948a88d56d]
 
-**1.**[^key-be09d905ccf34ffafa7ef1948a88d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-be09d905ccf34ffafa7ef1948a88d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Member remuneration, allowances and expenses[^key-be09d905ccf34ffafa7ef1948a88d56d]
+### Member remuneration, allowances and expenses[^c-be09d905ccf34ffafa7ef1948a88d56d]
 
-**2.**[^key-be09d905ccf34ffafa7ef1948a88d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-be09d905ccf34ffafa7ef1948a88d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Expenses of proceedings[^key-be09d905ccf34ffafa7ef1948a88d56d]
+### Expenses of proceedings[^c-be09d905ccf34ffafa7ef1948a88d56d]
 
-**3.**[^key-be09d905ccf34ffafa7ef1948a88d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-be09d905ccf34ffafa7ef1948a88d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Police appeals tribunal rules[^key-be09d905ccf34ffafa7ef1948a88d56d]
+### Police appeals tribunal rules[^c-be09d905ccf34ffafa7ef1948a88d56d]
 
-**4.**[^key-be09d905ccf34ffafa7ef1948a88d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-be09d905ccf34ffafa7ef1948a88d56d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-be09d905ccf34ffafa7ef1948a88d56d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/3) repealed (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 1(7)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/1/7) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))
+[^c-be09d905ccf34ffafa7ef1948a88d56d]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/asp/2012/8/schedule/3) repealed (29.12.2025) by [The First-tier Tribunal for Scotland (Transfer of Functions and Members of the Police Appeals Tribunal) Regulations 2025 (S.S.I. 2025/378)](https://www.legislation.gov.uk/ssi/2025/378), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2025/378/regulation/1/1), [sch. 2 para. 1(7)](https://www.legislation.gov.uk/ssi/2025/378/schedule/2/paragraph/1/7) (with [sch. 1](https://www.legislation.gov.uk/ssi/2025/378/schedule/1))

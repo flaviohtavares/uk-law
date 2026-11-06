@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Conditions for authorisation as a payment institution[^key-52f5c8b919c364632e106a3af55812a2]
+## 6. Conditions for authorisation as a payment institution[^c-52f5c8b919c364632e106a3af55812a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ which are comprehensive and proportionate to the nature, scale and complexity of
 (9) If the applicant has close links with another person (“CL”) the applicant must satisfy the FCA—
 
 - (a) that those links are not likely to prevent the FCA's effective supervision of the applicant; and
-- (b) if it appears to the FCA that CL is subject to the laws, regulations or administrative provisions of a territory outside the United Kingdom[^key-311ca73498213837f59d05470a540bd8] (“**the foreign provisions**”), that neither the foreign provisions, nor any deficiency in their enforcement, would prevent the FCA's effective supervision of the applicant.
+- (b) if it appears to the FCA that CL is subject to the laws, regulations or administrative provisions of a territory outside the United Kingdom[^c-311ca73498213837f59d05470a540bd8] (“**the foreign provisions**”), that neither the foreign provisions, nor any deficiency in their enforcement, would prevent the FCA's effective supervision of the applicant.
 
 (10) For the purposes of paragraph (9), an applicant has close links with CL if--
 
@@ -74,8 +74,8 @@ which are comprehensive and proportionate to the nature, scale and complexity of
 
 ## Annotations
 
-[^key-52f5c8b919c364632e106a3af55812a2]: Modification: Reg. 6 excluded (20.11.2018) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/2), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/19/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4))
+[^c-52f5c8b919c364632e106a3af55812a2]: Modification: Reg. 6 excluded (20.11.2018) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/2), [Sch. 3 para. 19(2)](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/paragraph/19/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4))
 
 [^c23030921]: Marginal citation: [S.I. 2017/692](https://www.legislation.gov.uk/uksi/2017/692).
 
-[^key-311ca73498213837f59d05470a540bd8]: Textual amendment: Words in [reg. 6(9)(b)](https://www.legislation.gov.uk/uksi/2017/752/regulation/6/9/b) substituted (31.12.2020) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/27) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-311ca73498213837f59d05470a540bd8]: Textual amendment: Words in [reg. 6(9)(b)](https://www.legislation.gov.uk/uksi/2017/752/regulation/6/9/b) substituted (31.12.2020) by [The Electronic Money, Payment Services and Payment Systems (Amendment and Transitional Provisions) (EU Exit) Regulations 2018 (S.I. 2018/1201)](https://www.legislation.gov.uk/uksi/2018/1201), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2018/1201/regulation/1/3), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2018/1201/schedule/2/paragraph/27) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/1201/regulation/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1201/schedule/3/part/2)) (as amended by [S.I. 2020/56](https://www.legislation.gov.uk/uksi/2020/56), [regs. 1](https://www.legislation.gov.uk/uksi/2020/56/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/56/regulation/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

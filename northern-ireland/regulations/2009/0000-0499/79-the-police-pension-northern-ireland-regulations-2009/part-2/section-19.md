@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Effective date of retirement[^key-656a0db2b1dc0acf14d648b92619c1d9]
+## 19. Effective date of retirement[^c-656a0db2b1dc0acf14d648b92619c1d9]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ For the purposes of these Regulations—
 
 ## Annotations
 
-[^key-656a0db2b1dc0acf14d648b92619c1d9]: Commencement: Reg. 19 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-656a0db2b1dc0acf14d648b92619c1d9]: Commencement: Reg. 19 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Duty to publish notices[^key-5c992e55197283d80f6399a41481cace]
+## 32. Duty to publish notices[^c-5c992e55197283d80f6399a41481cace]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c992e55197283d80f6399a41481cace]: Commencement: S. 32 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-5c992e55197283d80f6399a41481cace]: Commencement: S. 32 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

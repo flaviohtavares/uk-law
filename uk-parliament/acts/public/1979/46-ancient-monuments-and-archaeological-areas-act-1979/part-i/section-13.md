@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Effect of guardianship.[^key-c2ec74edbbc532a3921b29a32070b43e][^key-ba45a667a141c3d80d457d15c385b649]
+## 13. Effect of guardianship.[^c-c2ec74edbbc532a3921b29a32070b43e][^c-ba45a667a141c3d80d457d15c385b649]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 *Extent: S*
 
-(2A)[^key-8cbb2938b11e5a2282c6892da5151800] The power conferred by subsection (2) above includes power—
+(2A)[^c-8cbb2938b11e5a2282c6892da5151800] The power conferred by subsection (2) above includes power—
 
 - (a) to control the holding of events in or on the monument;
 - (b) to control and manage such events;
@@ -49,21 +49,21 @@ summary: ''
 
 *Extent: S*
 
-(8)[^key-c37c4332dd26eb52269edc6912919c3c] In subsection (2A) above—
+(8)[^c-c37c4332dd26eb52269edc6912919c3c] In subsection (2A) above—
 
 - (a) “**events**” includes functions and any other organised activities;
 - (b) references to the holding of events, in relation to organised activities, are to be construed as references to the carrying out of such activities.
 
 ## Annotations
 
-[^key-c2ec74edbbc532a3921b29a32070b43e]: Modification: Ss. 12-17: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
+[^c-c2ec74edbbc532a3921b29a32070b43e]: Modification: Ss. 12-17: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
 
-[^key-ba45a667a141c3d80d457d15c385b649]: Modification: [Ss. 12-17](https://www.legislation.gov.uk/ukpga/1979/46/section/12): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
+[^c-ba45a667a141c3d80d457d15c385b649]: Modification: [Ss. 12-17](https://www.legislation.gov.uk/ukpga/1979/46/section/12): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
 
 [^c250877]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 39(2)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/39/2)
 
-[^key-8cbb2938b11e5a2282c6892da5151800]: Textual amendment: S. 13(2A) inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(2)(a)](https://www.legislation.gov.uk/asp/2011/3/section/7/2/a), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-8cbb2938b11e5a2282c6892da5151800]: Textual amendment: S. 13(2A) inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(2)(a)](https://www.legislation.gov.uk/asp/2011/3/section/7/2/a), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
 [^c250879]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 39(3)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/39/3)
 
-[^key-c37c4332dd26eb52269edc6912919c3c]: Textual amendment: S. 13(8) added (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(2)(b)](https://www.legislation.gov.uk/asp/2011/3/section/7/2/b), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-c37c4332dd26eb52269edc6912919c3c]: Textual amendment: S. 13(8) added (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(2)(b)](https://www.legislation.gov.uk/asp/2011/3/section/7/2/b), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)

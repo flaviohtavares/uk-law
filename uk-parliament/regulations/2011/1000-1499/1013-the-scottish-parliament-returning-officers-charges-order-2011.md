@@ -35,7 +35,7 @@ Devolution, Scotland
 
 Representation Of The People
 
-The Scottish Parliament (Returning Officers’ Charges) Order 2011 (revoked)[^key-a86ed445bf4cfd9449a8733d30cb4874]
+The Scottish Parliament (Returning Officers’ Charges) Order 2011 (revoked)[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 Made
 
@@ -45,55 +45,55 @@ Coming into force
 
 31st March 2011
 
-[^key-a86ed445bf4cfd9449a8733d30cb4874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a86ed445bf4cfd9449a8733d30cb4874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a86ed445bf4cfd9449a8733d30cb4874]
+## 1. Citation and commencement[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a86ed445bf4cfd9449a8733d30cb4874]
+## 2. Interpretation[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Constituency Returning Officers[^key-a86ed445bf4cfd9449a8733d30cb4874]
+## Constituency Returning Officers[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
-### 3. Overall maximum recoverable amount[^key-a86ed445bf4cfd9449a8733d30cb4874]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 4. Maximum recoverable amount for specified services[^key-a86ed445bf4cfd9449a8733d30cb4874]
+### 3. Overall maximum recoverable amount[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Maximum recoverable amount for specified expenses[^key-a86ed445bf4cfd9449a8733d30cb4874]
+### 4. Maximum recoverable amount for specified services[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Regional Returning Officers[^key-a86ed445bf4cfd9449a8733d30cb4874]
-
-### 6. Overall maximum recoverable amount[^key-a86ed445bf4cfd9449a8733d30cb4874]
+### 5. Maximum recoverable amount for specified expenses[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Maximum recoverable amount for specified services[^key-a86ed445bf4cfd9449a8733d30cb4874]
+## Regional Returning Officers[^c-a86ed445bf4cfd9449a8733d30cb4874]
+
+### 6. Overall maximum recoverable amount[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Maximum recoverable amount for specified expenses[^key-a86ed445bf4cfd9449a8733d30cb4874]
+### 7. Maximum recoverable amount for specified services[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Revocation[^key-a86ed445bf4cfd9449a8733d30cb4874]
+### 8. Maximum recoverable amount for specified expenses[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a86ed445bf4cfd9449a8733d30cb4874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 9. Revocation[^c-a86ed445bf4cfd9449a8733d30cb4874]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a86ed445bf4cfd9449a8733d30cb4874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for returning officers’ specified services and specified expenses for Scottish Parliament constituencies[^key-a86ed445bf4cfd9449a8733d30cb4874]
+## SCHEDULE — Overall maximum recoverable amounts and maximum recoverable amounts for returning officers’ specified services and specified expenses for Scottish Parliament constituencies[^c-a86ed445bf4cfd9449a8733d30cb4874]
 
 Articles 3, 4 and 5
 
@@ -101,8 +101,8 @@ Articles 3, 4 and 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-a86ed445bf4cfd9449a8733d30cb4874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a86ed445bf4cfd9449a8733d30cb4874]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a86ed445bf4cfd9449a8733d30cb4874]: Textual amendment: Order revoked (30.6.2015) by [The Scottish Parliament (Returning Officers’ Charges) (Revocation) Order 2015 (S.I. 2015/761)](https://www.legislation.gov.uk/uksi/2015/761), [arts. 1](https://www.legislation.gov.uk/uksi/2015/761/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/761/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/761/article/2/2))
+[^c-a86ed445bf4cfd9449a8733d30cb4874]: Textual amendment: Order revoked (30.6.2015) by [The Scottish Parliament (Returning Officers’ Charges) (Revocation) Order 2015 (S.I. 2015/761)](https://www.legislation.gov.uk/uksi/2015/761), [arts. 1](https://www.legislation.gov.uk/uksi/2015/761/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2015/761/article/2/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/761/article/2/2))

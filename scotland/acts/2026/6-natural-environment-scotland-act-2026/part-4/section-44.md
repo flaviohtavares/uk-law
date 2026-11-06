@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Report on penalties in sea fisheries legislation[^key-32bd41ea3b164c7baaab47aa4eb49d78]
+## 44. Report on penalties in sea fisheries legislation[^c-32bd41ea3b164c7baaab47aa4eb49d78]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32bd41ea3b164c7baaab47aa4eb49d78]: Commencement: S. 44 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-32bd41ea3b164c7baaab47aa4eb49d78]: Commencement: S. 44 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
